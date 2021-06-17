@@ -121,6 +121,7 @@
 - [WolfECS](https://github.com/EnderShadow8/wolf-ecs) - Powerful, lightweight Entity Component System framework written in Typescript.
 - [typed-regex](https://github.com/phenax/typed-regex) - TypeScript library for type-safe regex for named capture groups.
 - [JSON bond](https://github.com/kossnocorp/json-bond) - Type-safe JSON strings.
+- [Cockatiel](https://github.com/connor4312/cockatiel) - Resilience and transient-fault-handling library.
 
 ## Links
 

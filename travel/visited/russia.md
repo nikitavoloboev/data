@@ -131,6 +131,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Если бы вы уехали из России по чему бы вы сильнее всего скучали? (2021)](https://twitter.com/kristinaboyar/status/1388236965062008834)
 - [Россия в судах](https://www.youtube.com/playlist?list=PLnnvzPm9BOwrIPtZ7M0yKG8QiYuLU9g4W)
 - [Миф о 13% налога. Сколько россияне платят государству со своих зарплат (2021)](https://www.youtube.com/watch?v=ar2p8juOJpo) ([Summary](https://twitter.com/sergeenko_i/status/1394636059703709702))
+- [Налоги в России: сколько денег у вас забирает государство (2021)](https://www.youtube.com/watch?v=LTm385stOF8)
 - [Книга Фанфиков](https://ficbook.net/)
 - [ЗВОНОК ИЗ ПРОШЛОГО. Черно-белый разговор с Верой (2021)](https://www.youtube.com/watch?v=ijnBRLa6NIw)
 - [«Дело Навального: Путин, яд, власть». Документальный фильм. (2021)](https://www.youtube.com/watch?v=nRWk0t0M8Eg)
