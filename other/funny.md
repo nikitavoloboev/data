@@ -102,3 +102,4 @@
 - [CTO holding onto to an outdated opinion about a technology they used once](https://twitter.com/jaredpalmer/status/1394708179305603074)
 - [Some funny engineering/programmer jokes](https://www.powerstream.com/powerhumor.htm) ([HN](https://news.ycombinator.com/item?id=27456349))
 - [Correlation Vs. Causation](https://mobile.twitter.com/OdedRechavi/status/1401863182365474822)
+- [How to instantly get hired](https://www.youtube.com/watch?v=7Ph3ZCriWAw)
