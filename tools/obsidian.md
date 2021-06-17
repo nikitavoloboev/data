@@ -15,3 +15,4 @@
 - [Obsidian Internal Links supercharger](https://github.com/mdelobelle/obsidian_supercharged_links) - Add attributes and context menu options to internal links.
 - [Obsidian Git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git.
 - [Obsidian Roundup](https://obsidianroundup.org/) - Weekly roundup of Obsidian.md tips, news & resources.
+- [Obsidian Garden](https://obsidian.garden/%F0%9F%91%A9%E2%80%8D%F0%9F%8C%BE+Your+Knowledge+Garden) - Open-source guide to creating your own Knowledge Management System with Obsidian. ([Code](https://github.com/tanepiper/obsidian-garden))

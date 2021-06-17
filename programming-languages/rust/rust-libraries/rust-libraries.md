@@ -236,6 +236,7 @@
 
 ## ML
 
+- [Neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
 - [Juice](https://github.com/spearow/juice) - Hacker's Machine Learning Engine.
 - [linfa](https://github.com/LukeMathWalker/linfa) - Rust machine learning framework.
 - [L2](https://github.com/bkkaggle/L2) - PyTorch-style Tensor+Autograd library written in Rust.

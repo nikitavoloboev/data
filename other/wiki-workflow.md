@@ -111,6 +111,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Dennis Ideler's notes](https://github.com/dideler/notes)
 - [Anne-Laure Le Cunff](https://www.mentalnodes.com/)
 - [Paul Batchelor](https://pbat.ch/wiki/)
+- [Alex's Garden](https://publish.obsidian.md/alexander/1_Home/%F0%9F%8F%A0+Home)
 - [Yang Zhang CS notes](https://github.com/yang/notes)
 - [Ten Digits](https://tendigits.space/)
 - [Luciano Strika](https://strikingloo.github.io/wiki/)

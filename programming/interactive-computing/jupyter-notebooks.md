@@ -127,3 +127,5 @@
 - [black-nb](https://github.com/tomcatling/black-nb) - Runs black on code cells in a Jupyter notebook.
 - [Deepnote CTO interview – Using K8s for real-time Jupyter collaboration (2021)](https://console.dev/interviews/deepnote-jan-matas/)
 - [Deepnote Notebook viewer](https://deepnote.com/viewer) - Render Jupyter notebooks as interactive articles. ([HN](https://news.ycombinator.com/item?id=27367948))
+- [Naas](https://www.naas.ai/) - Jupyter Notebooks as a service. ([GitHub](https://github.com/jupyter-naas))
+- [Naas templates](https://github.com/jupyter-naas/awesome-notebooks)

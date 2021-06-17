@@ -111,3 +111,4 @@
 - [Collaborative Fund](https://www.collaborativefund.com/)
 - [Todd and Rahul's Angel Fund](https://www.toddandrahulangelfund.com/) ([Tweet](https://twitter.com/toddg777/status/1402656648490061827))
 - [Chemistry Capital](https://chemistry.capital/)
+- [Backbone Angels](https://www.backboneangels.com/)
