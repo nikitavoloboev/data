@@ -206,3 +206,4 @@
 - [UC Berkeley Robot Learning Lab](https://rll.berkeley.edu/)
 - [lifelong_rl](https://github.com/kzl/lifelong_rl) - PyTorch implementations of RL algorithms.
 - [Control-Oriented Model-Based Reinforcement Learning with Implicit Differentiation (2021)](https://arxiv.org/abs/2106.03273) ([Code](https://github.com/evgenii-nikishin/omd))
+- [Yann LeCun | The Energy-Based Learning Model (2021)](https://www.youtube.com/watch?v=4lthJd3DNTM)

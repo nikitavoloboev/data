@@ -131,3 +131,4 @@
 - [Why did you choose to end interview early? (2021)](https://twitter.com/engineering_bae/status/1394676304537133069)
 - [FB interview process (2021)](https://twitter.com/GergelyOrosz/status/1395752623144374279)
 - [Do's and Don'ts in a Job Interview (2021)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/nmhdyb/dos_and_donts_in_a_job_interview/)
+- [Complete FAANG Interview Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)

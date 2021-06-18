@@ -239,3 +239,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [UX writing: Using voice principles and a tone map to write consistently (2021)](https://uxdesign.cc/ux-writing-using-voice-principles-and-a-tone-map-to-write-consistently-4337570ee8f5)
 - [exegesis](https://exegesis.io/) - Writing app for capturing and sharing disorganized, non-linear, creative thinking.
 - [Master copywriting (2021)](https://twitter.com/alexgarcia_atx/status/1405155705477156866)
+- [The Document Culture of Amazon (2021)](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) ([HN](https://news.ycombinator.com/item?id=27545331))

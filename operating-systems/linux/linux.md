@@ -326,3 +326,4 @@
 - [io_uring By Example: An Article Series (2020)](https://unixism.net/2020/04/io-uring-by-example-article-series/)
 - [LK Embedded Kernel](https://github.com/littlekernel/lk) - SMP-aware kernel designed for small systems ported to a variety of platforms and CPU architectures.
 - [io_uring is not an event system (2021)](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/) ([HN](https://news.ycombinator.com/item?id=27540248))
+- [Linux Commands Cheat Sheet 2021](https://linuxguidehq.com/linux-commands-cheat-sheet/)

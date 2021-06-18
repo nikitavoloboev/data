@@ -420,6 +420,7 @@
 - [Greykite](https://github.com/linkedin/greykite) - Flexible, intuitive and fast forecasting library.
 - [plydata](https://github.com/has2k1/plydata) - Grammar for data manipulation in Python.
 - [memoize](https://github.com/DreamLab/memoize) - Caching library for asynchronous Python applications.
+- [Aesara](https://github.com/aesara-devs/aesara) - Python library that allows one to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays.
 
 ## Links
 

@@ -19,3 +19,4 @@
 - [Hasura Data Dictionary](https://github.com/hasura/data-dictionary) - Understand your data graph - which includes your database relationships, and GraphQL schemas. ([Introduction](https://hasura.io/blog/hasura-data-dictionary/))
 - [Hasura + NextJS + Apollo + JWT](https://github.com/Ntarasiuk/nexthasurajwt) - Starter template for a React app with a database + permissions ( JWT).
 - [Building REST from GraphQL - an story of engineering in Haskell (2021)](https://hasura.io/blog/building-rest-from-graphql-story-of-engineering-haskell/)
+- [Hasura GraphQL Engine & SQL Server](https://github.com/hasura/graphql-engine/blob/master/architecture/sql-server.md) ([HN](https://news.ycombinator.com/item?id=27549164))
