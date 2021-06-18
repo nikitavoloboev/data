@@ -105,3 +105,4 @@
 - [The case for Continuous Documentation (2021)](https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/) ([HN](https://news.ycombinator.com/item?id=27411574))
 - [Archbee](https://www.archbee.io/) - Documentation Tool for your Team and Product.
 - [Explaining Code using ASCII Art (2019)](https://blog.regehr.org/archives/1653)
+- [Useful and useless code comments (2021)](https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/) ([HN](https://news.ycombinator.com/item?id=27542319))

@@ -67,7 +67,7 @@
 - [The Deno Tag (2021)](https://hugodaniel.com/posts/introducing-deno-tag/) ([Lobsters](https://lobste.rs/s/kxvskq/introducing_deno_tag))
 - [lexy](https://github.com/littledivy/lexy) - Fast & Non-regex based lexical analysis for Deno.
 - [Deno in 2020](https://deno.land/posts/deno-in-2020)
-- [DenoDB](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
+- [DenoDB](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno. ([HN](https://news.ycombinator.com/item?id=27546705))
 - [oak](https://github.com/oakserver/oak) - Middleware framework for Deno’s http server, including a router middleware.
 - [ssgo](https://github.com/mdubourg001/ssgo) - Minimalistic but flexible static site generator for Deno.
 - [Template for new Deno projects](https://github.com/starts-with/deno)

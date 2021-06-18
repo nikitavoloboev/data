@@ -52,6 +52,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 - [clayoven](https://github.com/artagnon/clayoven) - Beautiful website generator aimed at math-heavy sites.
 - [Ema](https://ema.srid.ca/) - Next-gen Haskell static site generator. ([Code](https://github.com/srid/ema))
+- [Wilson](https://github.com/wilsonjs/wilson) - Blazing fast, opinionated static site generator for Preact.
 
 ## Notes
 

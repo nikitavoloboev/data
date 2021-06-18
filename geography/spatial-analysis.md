@@ -76,3 +76,4 @@
 - [Mapnik](https://github.com/mapnik/mapnik) - Open source toolkit for developing mapping applications. At the core is a C++ shared library providing algorithms and patterns for spatial data access and visualization. ([Web](https://mapnik.org/))
 - [jsgeoda](https://github.com/GeoDaCenter/jsgeoda) - JavaScript library for spatial data analysis using webAssembly.
 - [geodiff](https://github.com/lutraconsulting/geodiff) - Library for handling diffs for geospatial data.
+- [Organic Maps](https://organicmaps.app/) - Fast detailed offline maps for travelers, tourists, hikers and cyclists. ([Code](https://github.com/organicmaps/organicmaps))

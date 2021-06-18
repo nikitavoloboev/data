@@ -38,3 +38,4 @@
 - [Mechanisation of Fitch-style Intuitionistic K in Agda](https://github.com/nachivpn/k)
 - [Agda lecture notes for the Functional Programming course at TU Delft](https://github.com/jespercockx/agda-lecture-notes)
 - [Formalization of some universal algebra in Agda](https://github.com/andreasabel/universal-algebra)
+- [Well Typed Agda Interpreter](https://github.com/sseefried/well-typed-agda-interpreter)

@@ -130,3 +130,4 @@
 - [Molecular Assembly Index (2021)](https://depth-first.com/articles/2021/06/04/molecular-assembly-index/)
 - [Depth-First Blog](https://depth-first.com/)
 - [ChemCore](https://github.com/rapodaca/chemcore) - Cheminformatics toolkit for Rust. ([Article](https://depth-first.com/articles/2020/06/01/chemcore-a-cheminformatics-toolkit-for-rust/))
+- [Biochemical Pathway Maps](http://biochemical-pathways.com/#/map/1) ([HN](https://news.ycombinator.com/item?id=27544894))
