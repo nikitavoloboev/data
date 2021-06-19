@@ -25,3 +25,5 @@
 - [MyMiniFactory](https://www.myminifactory.com/) - Discover STL files for 3D printing ideas and high-quality 3D printer models.
 - [How I set up my 3D Printer](https://github.com/geerlingguy/3d-printing)
 - [Rapid Prototyping with a $100 Inkjet Printer (2021)](https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3) ([HN](https://news.ycombinator.com/item?id=27254480))
+- [Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI 3D printer by Prusa Research.
+- [Prusa3D](https://www.prusa3d.com/) - Open-Source 3D printers by Josef Prusa. ([GitHub](https://github.com/prusa3d))

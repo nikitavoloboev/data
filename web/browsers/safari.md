@@ -39,3 +39,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Safari 14 added WebExtensions support, so where are the extensions? (2021)](https://sixcolors.com/post/2021/01/safari-14-added-webextensions-support-so-where-are-the-extensions/) ([HN](https://news.ycombinator.com/item?id=25815566))
 - [Hush](https://github.com/oblador/hush) - Block nags to accept cookies and privacy invasive tracking in Safari. ([HN](https://news.ycombinator.com/item?id=25892588))
 - [iOS 14.5 brings the new Safari 14.1 to PWAs and the Web Platform (2021)](https://firt.dev/ios-14.5/)
+- [Safari 15 on Mac OS, a user interface mess (2021)](https://morrick.me/archives/9368) ([HN](https://news.ycombinator.com/item?id=27559832))

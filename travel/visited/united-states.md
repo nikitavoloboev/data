@@ -54,3 +54,4 @@
 - [What's the most underrated neighborhood in the bay area? (2021)](https://twitter.com/pitdesi/status/1396886135381532672)
 - [Engineer’s Guide to US Visas (2019)](https://underdog.io/blog/engineers-guide-to-us-visas)
 - [America has a drinking problem (2021)](https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/) ([HN](https://news.ycombinator.com/item?id=27357592))
+- [Peter Roberts, immigration attorney who does work for YC startups. AMA (2021)](https://news.ycombinator.com/item?id=27560781)

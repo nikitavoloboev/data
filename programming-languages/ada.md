@@ -18,3 +18,4 @@
 - [Comparing Ada to Other Languages](https://pyjarrett.github.io/programming-with-ada/900-comparison.html)
 - [Programming with Ada Docs](https://pyjarrett.github.io/programming-with-ada/index.html)
 - [Going beyond Ada 2022](https://blog.adacore.com/going-beyond-ada-2022)
+- [Learning to Love a Rigid and Inflexible Language (2021)](https://devblog.blackberry.com/en/2021/05/learning-to-love-a-rigid-and-inflexible-language) ([Lobsters](https://lobste.rs/s/0twona/learning_love_rigid_inflexible_language))

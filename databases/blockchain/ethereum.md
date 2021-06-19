@@ -234,3 +234,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Network Addresses in Ethereum (2020)](https://dean.eigenmann.me/blog/2020/01/21/network-addresses-in-ethereum/)
 - [Vitalik Buterin: Ethereum 2.0 (2021)](https://www.youtube.com/watch?v=XW0QZmtbjvs)
 - [Akula](https://github.com/rust-ethereum/akula) - Ethereum client written in Rust.
+- [Verkle trees (2021)](https://vitalik.ca/general/2021/06/18/verkle.html) ([HN](https://news.ycombinator.com/item?id=27554404))
