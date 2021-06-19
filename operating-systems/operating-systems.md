@@ -233,3 +233,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Ask HN: How are you using unikernels? (2021)](https://news.ycombinator.com/item?id=27301210)
 - [Sudo](https://github.com/sudo-project/sudo) - Program designed to allow a sysadmin to give limited root privileges to users and log root activity.
 - [I wrote a linker everyone can understand (2021)](https://briancallahan.net/blog/20210609.html) ([HN](https://news.ycombinator.com/item?id=27444647))
+- [The Wrong Way to Switch Operating Systems on Your Server (2021)](https://figbert.com/posts/wrong-way-to-switch-server-os/) ([Lobsters](https://lobste.rs/s/ofcfbq/wrong_way_switch_operating_systems_on))

@@ -73,3 +73,4 @@
 - [A Guide to Color from 1692](https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html) ([HN](https://news.ycombinator.com/item?id=26755839))
 - [Paletter](https://www.paletter.app/) - Create professional color palettes. ([HN](https://news.ycombinator.com/item?id=26956105))
 - [culori](https://github.com/Evercoder/culori) - Comprehensive color library for JavaScript. ([Web](https://culorijs.org/))
+- [Mindfully curated color palettes](https://access.mymind.com/colors) - Collection of unique color combinations for your design projects.

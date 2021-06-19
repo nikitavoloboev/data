@@ -34,6 +34,7 @@
 - [Staying/sitting together is support too.](https://twitter.com/ashleysimpo/status/1400200742506532869)
 - [People give and receive far fewer compliments than would be good for them.](https://twitter.com/DegenRolf/status/1401033375960514561)
 - [Pretty crazy you can just reach out to anyone whenever you want](https://twitter.com/nickcammarata/status/1402778564844470275)
+- [The best gauge of intimacy is the first people you want to tell good news and bad news.](https://twitter.com/noampomsky/status/1406005085147209730)
 
 ## Links
 
