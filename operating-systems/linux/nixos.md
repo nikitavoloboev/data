@@ -133,3 +133,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [List of companies using NixOS technologies](https://discourse.nixos.org/t/list-of-companies-using-nixos-technologies/8428)
 - [DevOS](https://devos.divnix.com/) - Simple template to use, deploy and manage NixOS systems for personal and productive use. ([Code](https://github.com/divnix/devos)) ([GitHub](https://github.com/divnix))
 - [NixOS 21.05 (2021)](https://nixos.org/manual/nixos/stable/release-notes.html#sec-release-21.05) ([HN](https://news.ycombinator.com/item?id=27368361)) ([Lobsters](https://lobste.rs/s/iaxedy/nixos_21_05_released))
+- [Nixkite](https://github.com/input-output-hk/nixkite) - Buildkite pipeline generation tool using the NixOS module system.

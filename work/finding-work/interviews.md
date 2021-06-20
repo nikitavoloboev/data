@@ -132,3 +132,4 @@
 - [FB interview process (2021)](https://twitter.com/GergelyOrosz/status/1395752623144374279)
 - [Do's and Don'ts in a Job Interview (2021)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/nmhdyb/dos_and_donts_in_a_job_interview/)
 - [Complete FAANG Interview Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+- [Have you ever had/given a really good interview? (2021)](https://lobste.rs/s/1bwpi8/have_you_ever_had_given_really_good)
