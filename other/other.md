@@ -495,3 +495,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome Data Hoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools.
 - [Tech coops list](https://github.com/hng/tech-coops)
 - [Muck Rack](https://muckrack.com/) - Search for journalists, monitor news, and build reports.
+- [Internet in a Box](http://internet-in-a-box.org/) ([HN](https://news.ycombinator.com/item?id=27568332)) ([Code](https://github.com/iiab/iiab))

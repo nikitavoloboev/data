@@ -870,6 +870,7 @@
 - [arrow-rs](https://github.com/apache/arrow-rs) - Native Rust implementation of Apache Arrow.
 - [gtmpl-rust](https://github.com/fiji-flo/gtmpl-rust) - Go text/template for rust.
 - [rust-x86](https://github.com/gz/rust-x86) - Rust library to use x86 (amd64) specific functionality and registers.
+- [granne](https://github.com/granne/granne) - Graph-based Approximate Nearest Neighbor Search.
 
 ## Cargo Plugins
 
