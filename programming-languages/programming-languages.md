@@ -213,3 +213,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Riju](https://github.com/umesh-timalsina/riju) - Fast online playground for every programming language.
 - [plyg](https://github.com/2teez/plyg) - Playground to safely try out different programming languages in a single file.
 - [Principles of Programming Languages Course Notes](https://github.com/barghouthi/cs704)
+- [Ask HN: Projects for learning a language? (2021)](https://news.ycombinator.com/item?id=27549463)

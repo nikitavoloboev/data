@@ -35,7 +35,7 @@
 - [Value Prediction Network (2017)](https://arxiv.org/abs/1707.03497)
 - [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (2019)](https://arxiv.org/abs/1911.08265) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/dzakrs/r_191108265_mastering_atari_go_chess_and_shogi_by/)) ([Article](https://venturebeat.com/2019/11/20/deepminds-muzero-teaches-itself-how-to-win-at-atari-chess-shogi-and-go/))
 - [BCQ](https://github.com/sfujim/BCQ) - PyTorch implementation of BCQ for "Off-Policy Deep Reinforcement Learning without Exploration".
-- [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
+- [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/) ([HN](https://news.ycombinator.com/item?id=27565421))
 - [TorchBeast](https://github.com/facebookresearch/torchbeast) - PyTorch Platform for Distributed RL.
 - [The Promise of Hierarchical Reinforcement Learning (2019)](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
 - [rlpyt](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch.
@@ -207,3 +207,4 @@
 - [lifelong_rl](https://github.com/kzl/lifelong_rl) - PyTorch implementations of RL algorithms.
 - [Control-Oriented Model-Based Reinforcement Learning with Implicit Differentiation (2021)](https://arxiv.org/abs/2106.03273) ([Code](https://github.com/evgenii-nikishin/omd))
 - [Yann LeCun | The Energy-Based Learning Model (2021)](https://www.youtube.com/watch?v=4lthJd3DNTM)
+- [Lil'Log](https://lilianweng.github.io/lil-log/) - Blog about RL.

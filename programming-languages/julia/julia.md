@@ -80,3 +80,4 @@
 - [Seam carving in Julia (by 3Blue1Brown) (2020)](https://www.youtube.com/watch?v=rpB6zQNsbQU)
 - [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia.
 - [Blue: Style Guide for Julia](https://github.com/invenia/BlueStyle)
+- [Is Julia Really Fast? (2021)](https://medium.com/codex/is-julia-really-fast-12cd7caef96b) ([HN](https://news.ycombinator.com/item?id=27570591))

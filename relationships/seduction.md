@@ -73,3 +73,4 @@ Dating apps like Tinder/Bumble are often a [waste of time](https://twitter.com/d
 - [First Date Ideas? (2021)](https://www.reddit.com/r/datingoverthirty/comments/nc9k7o/first_date_ideas/)
 - [Tips for flirting with other grown ups? (2021)](https://www.reddit.com/r/datingoverthirty/comments/nb2gga/tips_for_flirting_with_other_grown_ups/)
 - [Men, how the hell do I know when to make a move while on a date with a woman? (2021)](https://www.reddit.com/r/AskMen/comments/nmnwm8/men_how_the_hell_do_i_know_when_to_make_a_move/)
+- [Are coffee dates a horrible idea? I'm noticing a trend where they never go anywhere. (2021)](https://www.reddit.com/r/datingoverthirty/comments/o3l27v/are_coffee_dates_a_horrible_idea_im_noticing_a/)
