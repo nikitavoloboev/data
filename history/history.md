@@ -126,3 +126,4 @@
 - [HN: David Dushman, last surviving Auschwitz liberator, dies aged 98 (2021)](https://news.ycombinator.com/item?id=27421527)
 - [OpenHistoricalMap](https://www.openhistoricalmap.org/) ([HN](https://news.ycombinator.com/item?id=27469715))
 - [Putting all your ancestors in a line and talking to them](https://twitter.com/makseest_ru/status/1402598603642658848)
+- [Why You Should Not Get a History PhD](https://www.reddit.com/r/AskHistorians/comments/96yf9h/monday_methods_why_you_should_not_get_a_history/) ([HN](https://news.ycombinator.com/item?id=27580605))

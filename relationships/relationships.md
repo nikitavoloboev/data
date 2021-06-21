@@ -102,3 +102,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Those of you who are single by choice, who are you waiting for? (2021)](https://www.reddit.com/r/datingoverthirty/comments/nltfw6/those_of_you_who_are_single_by_choice_who_are_you/)
 - [12 levels of friendship](https://twitter.com/TaariqIsmail/status/1402681643714985984)
 - [Brené Brown on Empathy (Kid Friendly!)](https://www.youtube.com/watch?v=HznVuCVQd10) ([Reddit](https://www.reddit.com/r/videos/comments/nxjdcp/this_2_and_a_half_minute_video_on_empathy_has_had/))
+- [How Friendships Change When You Become An Adult](https://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/) ([Tweet](https://twitter.com/maccaw/status/1407021495252131842))
