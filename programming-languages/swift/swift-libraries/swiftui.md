@@ -154,3 +154,4 @@
 - [Getting started with SwiftUI (2021)](https://paulstamatiou.com/getting-started-with-swiftui/)
 - [Demystify SwiftUI (2021)](https://developer.apple.com/videos/play/wwdc2021/10022/)
 - [Mastering List in SwiftUI (2021)](https://swiftwithmajid.com/2021/06/16/mastering-list-in-swiftui/)
+- [What’s new in SwiftUI for iOS 15 (2021)](https://www.hackingwithswift.com/articles/235/whats-new-in-swiftui-for-ios-15)

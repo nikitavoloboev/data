@@ -259,3 +259,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [WTF is my IP?](https://wtfismyip.com/) ([Code](https://github.com/wtfismyip/wtfismyip))
 - [Intercepting Zoom's encrypted data with BPF (2020)](https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes)
 - [Lucid: A Language for Control in the Data Plane (2021)](https://www.cs.princeton.edu/~jrex/papers/lucid21.pdf)
+- [LibreCellular](https://librecellular.org/) - Aims to make it easier to create 4G cellular networks with open source software and low cost software-defined radio (SDR) hardware. ([HN](https://news.ycombinator.com/item?id=27577525))
+- [What's your preferred tool for load testing? (2021)](https://lobste.rs/s/mqxwuc/what_s_your_preferred_tool_for_load)

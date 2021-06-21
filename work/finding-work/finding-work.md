@@ -115,3 +115,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Making $100k as an Employee versus Being Self-Employed (2021)](https://calebporzio.com/making-100k-as-an-employee-versus-being-self-employed) ([HN](https://news.ycombinator.com/item?id=27357204))
 - [Always be quitting (2021)](https://jmmv.dev/2021/04/always-be-quitting.html) ([HN](https://news.ycombinator.com/item?id=27456222))
 - [Equity 101 for Software Engineers at Big Tech and Startups (2021)](https://blog.pragmaticengineer.com/equity-for-software-engineers/)
+- [Ask HN: Do software engineers have leverage? (2021)](https://news.ycombinator.com/item?id=27569539)

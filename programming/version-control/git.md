@@ -258,3 +258,4 @@ I love Git and version control. And I use version control over any project I do.
 - [GitLive](https://git.live/) - Extend Git with real-time collaborative superpowers.
 - [A Random Walk Through Git](https://bakkenbaeck.github.io/a-random-walk-through-git/)
 - [When it comes to git history, less is more (2021)](https://brennan.io/2021/06/15/git-less-is-more/) ([Lobsters](https://lobste.rs/s/b9pddy/when_it_comes_git_history_less_is_more))
+- [Git undo: We can do better (2021)](https://blog.waleedkhan.name/git-undo/) ([HN](https://news.ycombinator.com/item?id=27579701))
