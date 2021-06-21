@@ -209,6 +209,7 @@
 - [Squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generator for Go.
 - [Litestream as Library](https://github.com/benbjohnson/litestream-library-example) - Example repository for embedding Litestream in a Go application.
 - [go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3.
+- [go-sqlite3](https://github.com/mattn/go-sqlite3) - SQLite driver for go using database/sql. ([Article](https://foxcpp.dev/articles/the-right-way-to-use-go-sqlite3))
 - [tpg](https://github.com/tidwall/tpg) - Insanely tiny Postgres library for Go.
 - [dburl](https://github.com/xo/dburl) - Provides a standard, URL style mechanism for parsing and opening SQL database connection strings for Go.
 - [Loukoum](https://github.com/ulule/loukoum) - Simple SQL Query Builder.

@@ -45,7 +45,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Mailgun](https://www.mailgun.com/) - The all-in-one, intelligent email delivery platform.
 - [Mailgun Logger](https://github.com/jackjoe/mailgun_logger) - Simple admin tool to get Mailgun persistence ad infinititum.
 - [Mailgun with Go](https://github.com/mailgun/mailgun-go) - Go library for interacting with the Mailgun API.
-- [maddy](https://github.com/foxcpp/maddy) - Composable all-in-one mail server. ([Web](https://maddy.email/)) ([HN](https://news.ycombinator.com/item?id=25157989))
+- [Maddy](https://github.com/foxcpp/maddy) - Composable all-in-one mail server. ([Web](https://maddy.email/)) ([HN](https://news.ycombinator.com/item?id=25157989)) ([HN](https://news.ycombinator.com/item?id=27557542))
 - [Unverified.email (2020)](https://kerestey.net/writing/2020-04-05-announcing-unverified-dot-email.html) ([HN](https://news.ycombinator.com/item?id=22799071))
 - [Cold email example (2020)](https://twitter.com/louisnicholls_/status/1248578404435333122)
 - [Moving away from GMail (2019)](https://rolisz.ro/2020/04/11/moving-away-from-gmail/) ([HN](https://news.ycombinator.com/item?id=22843326))
@@ -160,3 +160,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [What's in email tracking links and pixels? (2021)](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/) ([HN](https://news.ycombinator.com/item?id=27446907))
 - [Automating Gmail with AppsScript (2020)](https://akshayshah.org/automating-gmail-with-appsscript/)
 - [Dada Mail](https://github.com/justingit/dada-mail) - Contemporary, mature and intuitive web-based e-mail list management system.
+- [Security and insecurity of e-mail (2020)](https://foxcpp.dev/articles/security-and-insecurity-of-email)
