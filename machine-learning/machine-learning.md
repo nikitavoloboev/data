@@ -496,3 +496,4 @@
 - [Towards Causal Representation Learning (2021)](https://arxiv.org/abs/2102.11107)
 - [SAINT: Improved Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training (2021)](https://arxiv.org/abs/2106.01342) ([Code](https://github.com/somepago/saint))
 - [AdaMatch: A Unified Approach to Semi-Supervised Learning and Domain Adaptation (2021)](https://arxiv.org/abs/2106.04732) ([Video](https://www.youtube.com/watch?v=ORufPOY8H14))
+- [Distributed Machine Learning Patterns Book (2021)](https://www.manning.com/books/distributed-machine-learning-patterns) ([Code](https://github.com/terrytangyuan/distributed-ml-patterns))

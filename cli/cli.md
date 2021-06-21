@@ -57,3 +57,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [frawk](https://github.com/ezrosent/frawk) - JITted and SIMD-optimized AWK written in Rust. ([Lobsters](https://lobste.rs/s/bdzlsu/frawk_jitted_simd_optimized_awk_written))
 - [How to Handle Secrets on the Command Line (2021)](https://smallstep.com/blog/command-line-secrets/) ([HN](https://news.ycombinator.com/item?id=27490885))
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Collection of modern/faster/saner alternatives to common unix commands.
+- [Awesome TUIs](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces.

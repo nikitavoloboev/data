@@ -85,3 +85,4 @@
 - [Cloudflare Terraform Provider](https://github.com/cloudflare/terraform-provider-cloudflare)
 - [Terraform provider development overrides (2021)](https://jacobbednarz.com/terraform-provider-development-overrides)
 - [Terraform 1.0 (2021)](https://github.com/hashicorp/terraform/releases/tag/v1.0.0) ([HN](https://news.ycombinator.com/item?id=27433863))
+- [Pulumi Terraform Bridge](https://github.com/pulumi/pulumi-terraform-bridge) - Library allowing providers built with the Terraform Plugin SDK to be bridged into Pulumi.
