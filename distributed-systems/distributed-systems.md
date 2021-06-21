@@ -196,3 +196,4 @@
 - [Distributed Systems Course (2021)](http://composition.al/CSE138-2021-03/schedule.html) ([Tweet](https://twitter.com/lindsey/status/1402763622745477121))
 - [Metastable Failures in Distributed Systems (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf)
 - [Distributed Systems Engineering Course Notes (2015)](https://github.com/alinush/6.824-lecture-notes)
+- [Emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform. ([Web](https://emitter.io/))

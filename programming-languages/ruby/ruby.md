@@ -74,3 +74,4 @@
 - [Ruby's Top Exception Classes](https://www.exceptionalcreatures.com/bestiary.html)
 - [Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/c/) ([HN](https://news.ycombinator.com/item?id=27172483))
 - [I Love Ruby](https://i-love-ruby.gitlab.io/) - Get started with the greatest programming language made for humans.
+- [Rhizome](https://github.com/chrisseaton/rhizome) - JIT for Ruby, implemented in pure Ruby.
