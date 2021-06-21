@@ -27,6 +27,7 @@
 - [ipydatagrid](https://github.com/bloomberg/ipydatagrid) - Fast Datagrid widget for the Jupyter Notebook and JupyterLab.
 - [JupyterLab Monaco Editor Extension](https://github.com/jupyterlab/jupyterlab-monaco)
 - [Kite Autocomplete Extension for JupyterLab](https://github.com/kiteco/jupyterlab-kite)
+- [ipycanvas](https://github.com/martinRenou/ipycanvas) - Interactive Canvas in Jupyter.
 
 ## Links
 

@@ -77,3 +77,4 @@
 - [HIDAPI](https://github.com/libusb/hidapi) - Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac and Windows.
 - [Minicoro](https://github.com/edubart/minicoro) - Single-file library for using asymmetric coroutines in C.
 - [utf8.h](https://github.com/sheredom/utf8.h) - Simple one header solution to supporting utf8 strings in C and C++.
+- [C-Blosc2](https://github.com/Blosc/c-blosc2) - Fast, compressed and persistent data store library for C.
