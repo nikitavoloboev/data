@@ -30,6 +30,7 @@
 - [HTTP Core](https://github.com/encode/httpcore) - Minimal HTTP client.
 - [GraphQL-core 3](https://github.com/graphql-python/graphql-core) - Python 3.6+ port of the GraphQL.js reference implementation of GraphQL.
 - [Pyre](https://github.com/Project-Dream-Weaver/Pyre) - Fast asyncronous HTTP server and framework written in Rust for Python.
+- [PyJWT](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
 
 ## ML
 

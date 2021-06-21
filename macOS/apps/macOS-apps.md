@@ -161,3 +161,4 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Bump Core](https://github.com/replay-software/bump-core) - CLI tool that powers the Bump deploy pipeline.
 - [Signing a Mac Application (2015)](https://pracucci.com/atom-electron-signing-mac-app.html)
 - [Advanced Catalyst Example](https://github.com/steventroughtonsmith/advancedcatalystexample) - Example of a Catalyst app using a three-column layout, with a primary toolbar.
+- [Amazing macOS apps list (2021)](https://twitter.com/mxstbr/status/1404777523456716801)

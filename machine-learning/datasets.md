@@ -99,3 +99,4 @@
 - [SQLite Data Starter Packs](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/)
 - [GitHub Collection: Open data](https://github.com/collections/open-data) - Examples of using GitHub to store, publish, and collaborate on open, machine-readable datasets.
 - [Scientific Data Repositories](https://www.nature.com/sdata/policies/repositories) ([HN](https://news.ycombinator.com/item?id=27365755))
+- [CatMeows: A Publicly-Available Dataset of Cat Vocalizations (2020)](https://zenodo.org/record/4008297#.YND2lC8RqJ8) ([HN](https://news.ycombinator.com/item?id=27556544))
