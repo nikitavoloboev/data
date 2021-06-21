@@ -162,3 +162,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Blockchain 101 - A Visual Demo (2016)](https://www.youtube.com/watch?v=_160oMzblY8)
 - [FireFly](https://github.com/hyperledger-labs/firefly) - Multiparty system for enterprise data flows, powered by blockchain.
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
+- [Argo](https://argoblockchain.com/) - Publicly-traded blockchain technology.

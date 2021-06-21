@@ -31,3 +31,4 @@
 - [Counterfit](https://github.com/Azure/counterfit) - CLI that provides a generic automation layer for assessing the security of ML models.
 - [Convect](https://www.convect.ml/) - Instant Serverless Deployment of ML Models. ([HN](https://news.ycombinator.com/item?id=27303690))
 - [Using Argo to Train Predictive Models (2021)](https://flightaware.engineering/using-argo-to-train-predictive-models/) ([HN](https://news.ycombinator.com/item?id=27464445))
+- [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. ([Docs](https://www.scikit-yb.org/en/latest/))
