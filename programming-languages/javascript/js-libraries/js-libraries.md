@@ -533,6 +533,7 @@
 - [Cabin](https://github.com/cabinjs/cabin) - Best JavaScript and Node.js logging service and logging npm package.
 - [Normalized Cache](https://github.com/boschni/normalized-cache) - Cache for storing normalized data.
 - [itty router](https://github.com/kwhitley/itty-router) - Router, designed for Express.js-like routing within Cloudflare Workers (or anywhere else).
+- [vLitejs](https://github.com/yoriiis/vlitejs) - Fast and lightweight JavaScript library for customizing video and audio player.
 
 ## Links
 

@@ -117,3 +117,4 @@
 - [How can generative adversarial networks learn real-life distributions easily (2021)](https://www.microsoft.com/en-us/research/blog/how-can-generative-adversarial-networks-learn-real-life-distributions-easily/)
 - [GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings (2021)](https://arxiv.org/abs/2106.05609) ([Code](https://github.com/rusty1s/pyg_autoscale))
 - [GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)](https://arxiv.org/abs/2106.06561) ([Code](https://github.com/mchong6/GANsNRoses))
+- [Denoising Diffusion Probabilistic Models (2020)](https://arxiv.org/abs/2006.11239) ([Code](https://github.com/lucidrains/denoising-diffusion-pytorch))
