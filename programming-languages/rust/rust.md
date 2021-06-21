@@ -505,3 +505,4 @@
 - [Untapped potential in Rust's type system (2021)](https://www.jakobmeier.ch/blogging/Untapped-Rust.html) ([HN](https://news.ycombinator.com/item?id=27490596))
 - [Exploring ways to make async Rust easier (2021)](https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/)
 - [A Tour of Safe Tracing GC Designs in Rust (2021)](https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/) ([HN](https://news.ycombinator.com/item?id=27559239))
+- [Rust is not a Company (2021)](https://blog.m-ou.se/rust-is-not-a-company/) ([HN](https://news.ycombinator.com/item?id=27551242))

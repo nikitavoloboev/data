@@ -146,6 +146,7 @@
 - [OceanBase](https://github.com/oceanbase/oceanbase) - Distributed, banking suitable, open-source related database featuring high scalability and high compatibility. ([HN](https://news.ycombinator.com/item?id=27350108))
 - [Kvrocks](https://github.com/bitleak/kvrocks) - Distributed key value NoSQL database based on RocksDB and compatible with Redis protocol.
 - [UnQLite](https://github.com/symisc/unqlite) - Embedded NoSQL, Transactional Database Engine. ([Web](https://unqlite.org/))
+- [LinDB](https://github.com/lindb/lindb) - Scalable, high performance, high availability distributed time series database. ([Web](https://lindb.io/))
 
 ## Tools
 

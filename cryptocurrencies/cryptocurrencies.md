@@ -110,3 +110,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Mango Markets](https://mango.markets/) - Decentralized, cross-margin trading.
 - [Index Coop](https://www.indexcoop.com/) - Community-led initiative focused on enabling the creation and adoption of crypto index primitives.
 - [binance-rs](https://github.com/wisespace-io/binance-rs) - Rust Library for the Binance API.
+- [Hedgehog](https://hedgehog.app/) - Cryptocurrency Portfolio Manager. ([HN](https://news.ycombinator.com/item?id=27550255))
