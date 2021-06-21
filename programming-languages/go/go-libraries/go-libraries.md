@@ -847,6 +847,7 @@
 - [Copier](https://github.com/jinzhu/copier) - Copy value from struct to struct and more.
 - [PubSub](https://github.com/lileio/pubsub) - Publish & Subscribe library, with pluggable providers and middleware for Go.
 - [Jettison](https://github.com/wI2L/jettison) - Fast and flexible JSON encoder for Go.
+- [Column](https://github.com/kelindar/column) - High-performance, columnar, in-memory store with bitmap indexing in Go.
 
 ## Links
 

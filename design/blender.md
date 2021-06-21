@@ -44,3 +44,4 @@
 - [The Lightmapper](https://github.com/Naxela/The_Lightmapper) - Fast and easy baked GI Lightmaps for Blender and Cycles.
 - [Cycles X (2021)](https://code.blender.org/2021/04/cycles-x/) ([HN](https://news.ycombinator.com/item?id=26916196))
 - [World Building in Blender - Ian Hubert (2019)](https://www.youtube.com/watch?v=whPWKecazgM)
+- [Path tracing Quake in Blender (2021)](http://matthewearl.github.io/2021/06/20/quake-blender/)
