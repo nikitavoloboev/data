@@ -273,3 +273,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web Applications from the Future: A Database in the Browser](https://stopa.io/post/279) ([HN](https://news.ycombinator.com/item?id=27424496))
 - [Let web applications be file handlers (2021)](https://web.dev/file-handling/) ([HN](https://news.ycombinator.com/item?id=27501732))
 - [Start Your Own ISP](https://startyourownisp.com/) - Helping you start your own Internet Service Provider. ([HN](https://news.ycombinator.com/item?id=27539165))
+- [How the Next Layer of the Internet Is Going to Be Standardized (2021)](https://www.mnot.net/blog/2021/06/21/standards-competition-governance) ([HN](https://news.ycombinator.com/item?id=27586081))
