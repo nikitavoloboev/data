@@ -26,3 +26,4 @@
 - [Book Review: Why We're Polarized (2021)](https://astralcodexten.substack.com/p/book-review-why-were-polarized) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/lges1y/book_review_why_were_polarized/))
 - [Four stages of caring about politics](https://twitter.com/nikitabier/status/1390297478675648514)
 - [Politics would be less crazy if voting were compulsory (2021)](https://www.philosophersbeard.org/2021/01/politics-would-be-less-crazy-if-voting.html) ([HN](https://news.ycombinator.com/item?id=27134519))
+- [Best Way to Learn about Geopolitics (2021)](https://www.reddit.com/r/geopolitics/comments/o4yo96/best_way_to_learn_about_geopolitics/)

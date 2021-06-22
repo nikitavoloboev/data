@@ -290,3 +290,4 @@
 - [Using dependent types to write proofs in Haskell (2021)](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
 - [Objects (2021)](https://jeremykhawaja.com/post/objects/)
 - [The Fixed Point: Recursion, Laziness, and Haskell's fix function (2021)](https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html)
+- [Understanding Haskell Features Through Their Desugaring (2020)](https://serokell.io/blog/haskell-to-core)
