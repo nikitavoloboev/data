@@ -21,3 +21,4 @@
 - [image](https://github.com/brendan-duncan/image) - Dart library for decoding/encoding image formats, and image processing.
 - [Ferry](https://github.com/gql-dart/ferry) - Simple, powerful GraphQL Client for Flutter and Dart.
 - [ffi](https://github.com/dart-lang/ffi) - Utilities for working with Foreign Function Interface (FFI) code.
+- [Fpdart](https://github.com/SandroMaglione/fpdart) - Functional programming in Dart and Flutter.

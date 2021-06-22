@@ -120,3 +120,4 @@
 - [sql-lint](https://github.com/joereynolds/sql-lint) - Does sanity checks on your queries as well as bring errors back from the DB.
 - [Actual order of execution of SQL](https://twitter.com/chrisalbon/status/1399767813569486853)
 - [sqlgg](https://github.com/ygrek/sqlgg) - SQL Guided (code) Generator. ([Web](https://ygrek.org/p/sqlgg/))
+- [sqldef](https://github.com/k0kubun/sqldef) - Idempotent MySQL/PostgreSQL schema management by SQL. ([Web](https://sqldef.github.io/))
