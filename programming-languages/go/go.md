@@ -493,3 +493,4 @@ Go promotes composition over inheritance.
 - [Go rules for Bazel](https://github.com/bazelbuild/rules_go)
 - [Go Error Handling Proposals](https://seankhliao.com/blog/12020-11-23-go-error-handling-proposals/) ([HN](https://news.ycombinator.com/item?id=27440504))
 - [Go 1.17 Beta (2021)](https://tip.golang.org/doc/go1.17) ([HN](https://news.ycombinator.com/item?id=27462884))
+- [Everyday Go Book (2021)](https://gumroad.com/l/everyday-golang) - Fast way to learn tools, techniques and patterns from real tools used in production.

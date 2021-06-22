@@ -296,3 +296,4 @@
 - [PyCon US 2021 Recordings](https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1) ([HN](https://news.ycombinator.com/item?id=27398986))
 - [Python in a Box](https://github.com/raxod502/python-in-a-box) - Interactive online Python REPL in 30 lines of JavaScript.
 - [Writing fast async HTTP requests in Python (2021)](https://blog.jonlu.ca/posts/async-python-http) ([Lobsters](https://lobste.rs/s/fxpne4/writing_fast_async_http_requests_python))
+- [Intuitive Python: Productive Development for Projects that Last (2021)](https://pragprog.com/titles/dmpython/intuitive-python/) ([HN](https://news.ycombinator.com/item?id=27592822))

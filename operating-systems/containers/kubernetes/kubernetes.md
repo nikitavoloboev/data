@@ -394,3 +394,4 @@
 - [Falcosidekick](https://github.com/falcosecurity/falcosidekick) - Simple daemon to help you with Falco's outputs.
 - [Architecting Kubernetes clusters — choosing the best autoscaling strategy (2021)](https://learnk8s.io/kubernetes-autoscaling-strategies)
 - [netramesh](https://github.com/avito-tech/netramesh) - Ultra light service mesh for any orchestrator.
+- [Kubernetes and Docker - An Enterprise Guide (2020)](https://www.packtpub.com/product/kubernetes-and-docker-an-enterprise-guide/9781839213403) ([Code](https://github.com/PacktPublishing/Kubernetes-and-Docker-The-Complete-Guide))

@@ -32,3 +32,4 @@
 - [mkcert.org](https://mkcert.org/) - Web service that allows you to build customised TLS trust stores. ([Code](https://github.com/Lukasa/mkcert))
 - [Feisty Duck](https://www.feistyduck.com/) - SSL/TLS and PKI training and books.
 - [Bulletproof TLS Newsletter](https://www.feistyduck.com/bulletproof-tls-newsletter/)
+- [mint](https://github.com/bifurcation/mint) - Minimal TLS 1.3 Implementation in Go.
