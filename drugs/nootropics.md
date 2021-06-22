@@ -21,3 +21,4 @@ There are also few nootropics you can take to in some way boost your mental abil
 - [Best Supplements to improve overall Brain Plasticity and something for the nervous system? (2021)](https://www.reddit.com/r/Nootropics/comments/lg8ibi/best_supplements_to_improve_overall_brain/)
 - [Ask HN: Do You Take Nootropics? (2021)](https://news.ycombinator.com/item?id=26287437)
 - [What are your "secret" lesser known herbs/compounds/extracts that you swear by and not many know about? (2021)](https://www.reddit.com/r/Nootropics/comments/m32fui/what_are_your_secret_lesser_known/)
+- [How to increase dopamine receptors (2021)](https://www.reddit.com/r/Nootropics/comments/o5iibc/how_to_increase_dopamine_receptors/)
