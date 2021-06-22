@@ -24,3 +24,4 @@
 - [The Evolution of Forth](https://www.forth.com/resources/forth-programming-language/) ([HN](https://news.ycombinator.com/item?id=26924304))
 - [Tails](https://github.com/snej/tails) - Fast C++ Forth Core.
 - [Fitting a Forth in 512 Bytes (2021)](https://niedzejkob.p4.team/bootstrap/miniforth/) ([HN](https://news.ycombinator.com/item?id=27477599))
+- [No branches? No problem — a Forth assembler (2021)](https://niedzejkob.p4.team/bootstrap/branches/)
