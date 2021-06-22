@@ -40,3 +40,4 @@
 - [Stylin](https://github.com/sultan99/stylin) - Build-time CSS library that offers an elegant way to style React components.
 - [Sprinkles](https://github.com/seek-oss/vanilla-extract/tree/master/packages/sprinkles) - Zero-runtime atomic CSS framework for vanilla-extract.
 - [Fower](https://github.com/forsigner/fower) - Utility-first CSS in JS library for rapid UI development.
+- [Demystifying styled-components (2021)](https://www.joshwcomeau.com/react/demystifying-styled-components/)
