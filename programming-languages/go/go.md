@@ -431,7 +431,7 @@ Go promotes composition over inheritance.
 - [List of Go best practices](https://github.com/golovers/effective-go)
 - [Coming in Go 1.16: ReadDir and DirEntry (2021)](https://benhoyt.com/writings/go-readdir/)
 - [On Go 2 Generics (2021)](https://benburkert.com/posts/on-go2-generics/) ([Lobsters](https://lobste.rs/s/udqdru/on_go_2_generics))
-- [Practical Go](https://dave.cheney.net/practical-go) - Collection of real world advice for writing maintainable Go programs.
+- [Practical Go](https://dave.cheney.net/practical-go) - Collection of real world advice for writing maintainable Go programs. ([TOC](https://dave.cheney.net/practical-go/presentations/gophercon-israel.html))
 - [Leveraging the Go Type System (2021)](https://www.gopherguides.com/articles/leveraging-the-go-type-system) ([HN](https://news.ycombinator.com/item?id=26078865))
 - [Go generics proposal has been accepted (2021)](https://github.com/golang/go/issues/43651) ([HN](https://news.ycombinator.com/item?id=26093778))
 - [Securing a Go Microservice with JWT (2021)](https://fusionauth.io/blog/2021/02/18/securing-golang-microservice/)

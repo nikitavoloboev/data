@@ -28,6 +28,7 @@
 - [HSLuv](https://www.hsluv.org/) - Human-friendly HSL. ([Code](https://github.com/hsluv/hsluv))
 - [colors.lol](https://colors.lol/) - Overly descriptive color palettes. ([Code](https://github.com/adamfuhrer/colors.lol))
 - [Color gradient generator](https://mybrandnewlogo.com/color-gradient-generator)
+- [N: Not Another Gradient Generator](https://doodad.dev/gradient-generator/) - Create complex, layered color gradients as CSS, SVG, or Raster Images.
 - [Building dark mode on Stack Overflow (2020)](https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/) ([HN](https://news.ycombinator.com/item?id=22776651))
 - [Duo](https://duo.alexpate.uk/) - Collection of color combinations that I've curated from personal projects or that I've come across on the web. ([HN](https://news.ycombinator.com/item?id=22801661))
 - [color-scheme.js](http://c0bra.github.io/color-scheme-js/) - Generate nice, pretty color schemes with JavaScript. ([Code](https://github.com/c0bra/color-scheme-js))
