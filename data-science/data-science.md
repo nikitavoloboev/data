@@ -179,3 +179,4 @@
 - [Data science interview questions with answers](https://github.com/iamtodor/data-science-interview-questions-and-answers)
 - [Lightdash](https://www.lightdash.com/) - Open Source BI for your whole team. ([Code](https://github.com/lightdash/lightdash)) ([HN](https://news.ycombinator.com/item?id=27380170))
 - [Wildland](https://wildland.io/) - Open data management protocol.
+- [Data Science Fails](https://github.com/xLaszlo/datascience-fails)

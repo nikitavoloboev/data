@@ -82,5 +82,5 @@
 - [Get to know Django models better (2021)](https://girlthatlovestocode.com/django-model)
 - [Django Chat](https://djangochat.com/) - Podcast on the Django Web Framework by William Vincent and Carlton Gibson.
 - [Django Channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
-- [Kolo](https://kolo.app/) - Django VSCode Extension. See everything happening in your running Django app.
+- [Kolo](https://kolo.app/) - Django VSCode Extension. See everything happening in your running Django app. ([Code](https://github.com/kolofordjango/kolo))
 - [concrete-datastore](https://github.com/Netsach/concrete-datastore) - Highly versatile HTTP REST Datastore based on the web framework Django.

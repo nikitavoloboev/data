@@ -128,6 +128,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) - [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Gone](https://open.spotify.com/track/4wuY7AFjWkbltPwugDpR4U) | [Burn](https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI)
 - [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) - [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph)
 - [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) - [Квітка](https://open.spotify.com/track/6LmpYRchoYl3gRGbcQ7k8z)
+- [Irina Kairatovna](https://open.spotify.com/artist/0AGZvVUGRD63ticvhaXZx1?si=o92EVsRQQ42R_omwVPb3sg&dl_branch=1) - [Arriva](https://open.spotify.com/track/26FpEr0FL13vQES1qo1Mxa)
 
 ## Interesting artists
 
