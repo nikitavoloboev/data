@@ -260,3 +260,4 @@ I love Git and version control. And I use version control over any project I do.
 - [When it comes to git history, less is more (2021)](https://brennan.io/2021/06/15/git-less-is-more/) ([Lobsters](https://lobste.rs/s/b9pddy/when_it_comes_git_history_less_is_more))
 - [Git undo: We can do better (2021)](https://blog.waleedkhan.name/git-undo/) ([HN](https://news.ycombinator.com/item?id=27579701))
 - [Collection of Useful .gitattributes Templates](https://github.com/alexkaratarakis/gitattributes)
+- [git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git. Suite of tools to help you visualize, navigate, manipulate, and repair your commit history.

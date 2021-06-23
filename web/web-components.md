@@ -40,3 +40,4 @@
 - [Container Queries in Web Components (2021)](https://mxb.dev/blog/container-queries-web-components/)
 - [Fractal](https://github.com/frctl/fractal) - Tool to help you build and document web component libraries and design systems. ([Web](https://fractal.build/))
 - [playground-elements](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
+- [Base for Web Components (bacom)](https://github.com/prantlf/bacom) - Basic library for writing lightweight web components. Suitable for low-level web components in UI libraries.
