@@ -119,3 +119,4 @@
 - [GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)](https://arxiv.org/abs/2106.06561) ([Code](https://github.com/mchong6/GANsNRoses))
 - [Denoising Diffusion Probabilistic Models (2020)](https://arxiv.org/abs/2006.11239) ([Code](https://github.com/lucidrains/denoising-diffusion-pytorch))
 - [Barbershop: GAN-based Image Compositing using Segmentation Masks (2021)](https://arxiv.org/abs/2106.01505) ([Code](https://github.com/ZPdesu/Barbershop))
+- [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/) ([HN](https://news.ycombinator.com/item?id=27606347))

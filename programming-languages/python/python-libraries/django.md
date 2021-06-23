@@ -84,3 +84,4 @@
 - [Django Channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
 - [Kolo](https://kolo.app/) - Django VSCode Extension. See everything happening in your running Django app. ([Code](https://github.com/kolofordjango/kolo))
 - [concrete-datastore](https://github.com/Netsach/concrete-datastore) - Highly versatile HTTP REST Datastore based on the web framework Django.
+- [Django for Startup Founders: A better software architecture for SaaS startups (2021)](https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html) ([HN](https://news.ycombinator.com/item?id=27605052))
