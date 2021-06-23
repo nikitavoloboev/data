@@ -107,3 +107,4 @@
 - [AloeDB](https://github.com/Kirlovon/AloeDB) - Light, Embeddable, NoSQL database for Deno.
 - [Dep](https://github.com/denodep/dep) - Deno dependency management tool.
 - [dectyl](https://github.com/kitsonk/dectyl) - APIs for testing Deno Deploy scripts using the Deno CLI.
+- [Deno Deploy Beta 1 (2021)](https://deno.com/blog/deploy-beta1)
