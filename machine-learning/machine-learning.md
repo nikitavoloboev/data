@@ -498,3 +498,4 @@
 - [AdaMatch: A Unified Approach to Semi-Supervised Learning and Domain Adaptation (2021)](https://arxiv.org/abs/2106.04732) ([Video](https://www.youtube.com/watch?v=ORufPOY8H14))
 - [Distributed Machine Learning Patterns Book (2021)](https://www.manning.com/books/distributed-machine-learning-patterns) ([Code](https://github.com/terrytangyuan/distributed-ml-patterns))
 - [Revisiting Deep Learning Models for Tabular Data (2021)](https://arxiv.org/abs/2106.11959)
+- [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) ([Code](https://github.com/chiphuyen/ml-interviews-book))

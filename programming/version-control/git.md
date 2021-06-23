@@ -261,3 +261,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git undo: We can do better (2021)](https://blog.waleedkhan.name/git-undo/) ([HN](https://news.ycombinator.com/item?id=27579701))
 - [Collection of Useful .gitattributes Templates](https://github.com/alexkaratarakis/gitattributes)
 - [git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git. Suite of tools to help you visualize, navigate, manipulate, and repair your commit history.
+- [No Code Reviews by Default (2021)](https://raycast.com/blog/no-code-reviews-by-default/) ([HN](https://news.ycombinator.com/item?id=27606066))
