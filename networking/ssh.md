@@ -58,3 +58,4 @@
 - [consrv](https://github.com/mdlayher/consrv) - SSH to serial console bridge server.
 - [ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc).
 - [SSH quoting (2021)](https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html) ([HN](https://news.ycombinator.com/item?id=27483077))
+- [ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files.
