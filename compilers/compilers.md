@@ -163,3 +163,4 @@
 - [Noise-Aware Dynamical System Compilation for Analog Devices with Legno (2020)](https://www.youtube.com/watch?v=7PU-6cWQQkE)
 - [yair](https://github.com/sheredom/yair) - High-level compiler IR entirely written in Rust.
 - [Tiramisu](https://github.com/Tiramisu-Compiler/tiramisu) - Compiler for expressing fast and portable data parallel computations. ([Web](http://tiramisu-compiler.org/))
+- [A Brief History of Just-in-Time (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)

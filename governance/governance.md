@@ -57,3 +57,4 @@
 - [Why Nations Succeed (2020)](https://paul.copplest.one/blog/why-nations-succeed.html)
 - [Who is working on using blockchain for voting systems in political elections? (2021)](https://www.reddit.com/r/CryptoTechnology/comments/nnxs4q/is_anybody_working_on_voting_systems_for/)
 - [Network State with Balaji Srinivasan (2021)](https://ideas.beondeck.com/episodes/3-network-state-with-balaji-srinivasan?t=76m43s)
+- [Types of propaganda, propaganda techniques, and propaganda strategies (2017)](http://factmyth.com/types-of-propaganda-propaganda-techniques-and-propaganda-stratigies/) ([HN](https://news.ycombinator.com/item?id=27595043))

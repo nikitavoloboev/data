@@ -136,6 +136,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly.
 - [Flume](https://flumeapp.com/) - Beautiful Instagram experience for your Mac.
 - [‎Aqua Swatch](https://apps.apple.com/us/app/aqua-swatch/id1565479346?mt=12) - Match Color, Material & Icons.
+- [Screenotate](https://screenotate.com/) - Recognize text in your screenshots.
 
 ## Links
 

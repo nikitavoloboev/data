@@ -499,3 +499,4 @@
 - [Distributed Machine Learning Patterns Book (2021)](https://www.manning.com/books/distributed-machine-learning-patterns) ([Code](https://github.com/terrytangyuan/distributed-ml-patterns))
 - [Revisiting Deep Learning Models for Tabular Data (2021)](https://arxiv.org/abs/2106.11959)
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) ([Code](https://github.com/chiphuyen/ml-interviews-book))
+- [Introduction to Machine Learning 2019 at ETH Zürich](https://las.inf.ethz.ch/teaching/introml-s19) ([Summary](https://github.com/eth-cs-student-summaries/Introduction-to-Machine-Learning))

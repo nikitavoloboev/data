@@ -131,3 +131,4 @@
 - [Stanford CS Curriculum](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview) ([HN](https://news.ycombinator.com/item?id=27388391))
 - [Modern Computing is NOT Good at Executing Programs (2021)](https://jeremykhawaja.com/post/modern-computing-is-not-good-at-executing-programs/)
 - [Offbeat Computation Club](https://offbeat.cc/) - Mathematics and computation book club.
+- [College Compendium](https://collegecompendium.goldin.io/) - Collection of 650+ university CS courses for the curious.

@@ -68,3 +68,4 @@
 - [Future of Sex](https://futureofsex.net/) - Latest news on how tech is expanding sexuality.
 - [Scarleteen](https://www.scarleteen.com/) - Sex Education For The Real World.
 - [How do girls cum?](https://www.reddit.com/r/NoStupidQuestions/comments/nyqpcf/how_do_girls_cum_what_comes_out_and_how_long_does/)
+- [Tips on fingering (2021)](https://www.reddit.com/r/sexover30/comments/o6jp58/tips_on_fingering/)

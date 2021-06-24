@@ -208,3 +208,4 @@
 - [Control-Oriented Model-Based Reinforcement Learning with Implicit Differentiation (2021)](https://arxiv.org/abs/2106.03273) ([Code](https://github.com/evgenii-nikishin/omd))
 - [Yann LeCun | The Energy-Based Learning Model (2021)](https://www.youtube.com/watch?v=4lthJd3DNTM)
 - [Lil'Log](https://lilianweng.github.io/lil-log/) - Blog about RL.
+- [PyTorch implementation of reinforcement learning algorithms](https://github.com/Khrylx/PyTorch-RL)

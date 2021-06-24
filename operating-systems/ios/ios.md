@@ -331,3 +331,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [WWDC Community Week](https://wwdc.community/)
 - [Apple Developer Documentation](https://developer.apple.com/documentation/)
 - [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
+- [How to roll back your native iOS app (2021)](https://screenplay.dev/blog/post/wHypgqF7fjPPPYaIpoQ1)

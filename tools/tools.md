@@ -440,6 +440,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome. ([Web](https://perfetto.dev/))
 - [GitHub Pages URL Shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages. ([HN](https://news.ycombinator.com/item?id=25110879))
 - [projen](https://github.com/projen/projen) - Project generator. Define and maintain complex project configuration through code.
+- [Sonyflake](https://github.com/sony/sonyflake) - Distributed unique ID generator inspired by Twitter's Snowflake.
 
 ## Notes
 

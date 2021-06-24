@@ -39,3 +39,4 @@ I try learn new habits proactively by building systems and thought processes tha
 - [The Proof](https://www.theproofwellness.com/) - Wellness Advice from World-Class Founders.
 - [Make your habits zero-effort](https://www.benkuhn.net/zero/)
 - [Atomic Habits](https://jamesclear.com/atomic-habits) - Tiny Changes, Remarkable Results. ([Summary](https://twitter.com/justinkan/status/1352040558198329344))
+- [Kin](https://kinhabits.com/) - Social Habit Tracker.

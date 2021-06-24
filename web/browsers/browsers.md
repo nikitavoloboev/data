@@ -126,3 +126,4 @@
 - [Reflecting on the last year of SerenityOS Browser development (2021)](https://www.youtube.com/watch?app=desktop&v=-YlVex4nbfw)
 - [Web Search Navigator](https://github.com/infokiller/web-search-navigator) - Chrome/Firefox extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others.
 - [Pleasantest](https://github.com/cloudfour/pleasantest) - Write real-browser tests with Testing Library in Jest.
+- [In browser, we trust! (2021)](https://gnanesh.me/in-browsers-we-trust.html)

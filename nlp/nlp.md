@@ -85,7 +85,7 @@
 - [NLP 100 Exercise](https://nlp100.github.io/en/) - Bootcamp designed for learning skills for programming, data analysis, and research activities. ([Code](https://github.com/nlp100/nlp100.github.io))
 - [The Transformer Family (2020)](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 - [Minimalist Implementation of a BERT Sentence Classifier](https://github.com/ricardorei/lightning-text-classification)
-- [fastText](https://fasttext.cc/) - Library for efficient text classification and representation learning. ([Code](https://github.com/facebookresearch/fastText/))
+- [fastText](https://fasttext.cc/) - Library for efficient text classification and representation learning. ([Code](https://github.com/facebookresearch/fastText/)) ([Article](https://rolisz.com/the-best-text-classification-library-for-a-quick-baseline/)) ([HN](https://news.ycombinator.com/item?id=27583185))
 - [Awesome NLP Paper Discussions](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day.
 - [SynST: Syntactically Supervised Transformers](https://github.com/dojoteef/synst)
 - [The Cost of Training NLP Models: A Concise Overview (2020)](https://arxiv.org/abs/2004.08900)

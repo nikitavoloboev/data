@@ -77,3 +77,4 @@
 - [jsgeoda](https://github.com/GeoDaCenter/jsgeoda) - JavaScript library for spatial data analysis using webAssembly.
 - [geodiff](https://github.com/lutraconsulting/geodiff) - Library for handling diffs for geospatial data.
 - [Organic Maps](https://organicmaps.app/) - Fast detailed offline maps for travelers, tourists, hikers and cyclists. ([Code](https://github.com/organicmaps/organicmaps))
+- [MapLibre](https://maplibre.org/) - Open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL .([HN](https://news.ycombinator.com/item?id=27605656)) ([Code](https://github.com/maplibre/maplibre-gl-js))

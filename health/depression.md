@@ -34,3 +34,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [A few thoughts on depression (2021)](https://noahpinion.substack.com/p/a-few-thoughts-on-depression)
 - [Stanford's Sapolsky On Depression in U.S. (2009)](https://www.youtube.com/watch?v=NOAgplgTxfc)
 - [How do you deal with burnout? (2021)](https://news.ycombinator.com/item?id=27593136)
+- [Тред о младшей сестре депрессии — дистимии](https://twitter.com/youtalk_therapy/status/1407666225476476933)

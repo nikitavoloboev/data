@@ -275,3 +275,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Start Your Own ISP](https://startyourownisp.com/) - Helping you start your own Internet Service Provider. ([HN](https://news.ycombinator.com/item?id=27539165))
 - [How the Next Layer of the Internet Is Going to Be Standardized (2021)](https://www.mnot.net/blog/2021/06/21/standards-competition-governance) ([HN](https://news.ycombinator.com/item?id=27586081))
 - [Web Applications Working Group](https://www.w3.org/2019/webapps/) ([Code](https://github.com/w3c/webappswg))
+- [A framework for building Open Graph images (2021)](https://github.blog/2021-06-22-framework-building-open-graph-images/)

@@ -116,7 +116,7 @@
 - [Proton Native](https://github.com/kusti8/proton-native) - React environment for cross platform desktop apps.
 - [Make Impossible States Impossible](https://kentcdodds.com/blog/make-impossible-states-impossible)
 - [Jira Clone in React](https://github.com/oldboyxx/jira_clone) - Simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress. ([HN](https://news.ycombinator.com/item?id=22159397))
-- [iPod.js](https://github.com/tvillarete/ipod-classic-js) - iPod Classic built using React Hooks, TypeScript, & GraphQL.
+- [iPod.js](https://github.com/tvillarete/ipod-classic-js) - iPod Classic built using React Hooks, TypeScript, & GraphQL. ([Web](https://tannerv.com/ipod/)) ([HN](https://news.ycombinator.com/item?id=27606099))
 - [Undux](https://github.com/bcherny/undux) - Simple & typesafe alternative to Flux and Redux.
 - [Concurrent Mode issues](https://concurrent-mode-oops.netlify.com/0)
 - [React Diff Viewer](https://praneshravi.in/react-diff-viewer/) - Simple and beautiful text diff viewer made with Diff and React. ([Code](https://github.com/praneshr/react-diff-viewer))

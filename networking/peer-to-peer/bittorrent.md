@@ -57,3 +57,4 @@
 - [BitFiend](https://github.com/eduard-permyakov/BitFiend) - BitTorrent client written in C.
 - [The Pirate Bay – Darknet Diaries (2021)](https://darknetdiaries.com/episode/92/)
 - [Transmission-rpc](https://github.com/Trim21/transmission-rpc) - Python module implementing the json-rpc client protocol for the BitTorrent client Transmission.
+- [dht-crawler](https://github.com/mmathys/dht-crawler) - Minimal BitTorrent crawler and scheduler with RethinkDB backend to collect, analyse and store peers.

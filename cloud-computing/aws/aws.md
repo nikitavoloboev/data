@@ -181,3 +181,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Mind map of container platforms and tools on AWS](https://github.com/rakyll/aws-containers)
 - [Everything AWS](https://app.polymersearch.com/discover/aws) - Search and discover 40K+ quality AWS repositories.
 - [AWS Elastic Container Service (ECS) Terraform module](https://github.com/terraform-aws-modules/terraform-aws-ecs)
+- [330+ Open source security controls for AWS](https://hub.steampipe.io/mods/turbot/aws_compliance/controls)

@@ -15,3 +15,4 @@
 - [Logology](https://www.logology.co/) - Get a brand identity for your startup, in 10 minutes.
 - [Logo Modernism Book](https://www.amazon.com/Logo-Modernism-English-French-German/dp/3836545306)
 - [New Discord Logo (2021)](https://blog.discord.com/happy-blurpthday-to-discord-a-place-for-everything-you-can-imagine-fc99ee0a77c0)
+- [Is your logo good?](https://logotester.thework.market/)

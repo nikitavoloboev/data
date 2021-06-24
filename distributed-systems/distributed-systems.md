@@ -197,3 +197,4 @@
 - [Metastable Failures in Distributed Systems (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf)
 - [Distributed Systems Engineering Course Notes (2015)](https://github.com/alinush/6.824-lecture-notes)
 - [Emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform. ([Web](https://emitter.io/))
+- [Patterns of Distributed Systems: Lamport Clock (2021)](https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html)

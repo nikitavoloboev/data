@@ -327,3 +327,4 @@
 - [LK Embedded Kernel](https://github.com/littlekernel/lk) - SMP-aware kernel designed for small systems ported to a variety of platforms and CPU architectures.
 - [io_uring is not an event system (2021)](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/) ([HN](https://news.ycombinator.com/item?id=27540248))
 - [Linux Commands Cheat Sheet 2021](https://linuxguidehq.com/linux-commands-cheat-sheet/)
+- [Pulling GitHub into the Linux kernel process (2021)](https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/) ([HN](https://news.ycombinator.com/item?id=27611704))
