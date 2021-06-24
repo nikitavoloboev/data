@@ -139,3 +139,4 @@ All active variables can be seen by running `env`.
 - [Hilbish](https://github.com/Rosettea/Hilbish) - Interactive Unix-like shell written in Go, with the config and other code written in Lua.
 - [Typed Pipes in Every Shell](http://joeyh.name/blog/entry/typed_pipes_in_every_shell/) ([HN](https://news.ycombinator.com/item?id=27535357))
 - [4 Useful fzf Tricks for Your Terminal (2021)](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)
+- [How to replace a string with sed in current and recursive subdirectories](https://victoria.dev/blog/how-to-replace-a-string-with-sed-in-current-and-recursive-subdirectories/)

@@ -175,3 +175,4 @@
 - [wasmlink](https://github.com/peterhuene/wasmlink) - WebAssembly Module Linker.
 - [An introduction to WebAssembly for JavaScript Developers (2021)](https://pascalpares.appspot.ovh/webassembly-for-javascript-developers/)
 - [wapm](https://wapm.io/) - WebAssembly Package Manager.
+- [wasmi](https://github.com/k-nasa/wasmi) - WASM interpreter written by rust.

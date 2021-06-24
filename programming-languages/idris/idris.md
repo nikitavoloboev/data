@@ -46,3 +46,4 @@
 - [Idris 2 LSP](https://github.com/idris-community/idris2-lsp)
 - [Idris 2 VSCode Extension](https://github.com/bamboo/idris2-lsp-vscode)
 - [Idris 2 Effect](https://github.com/Russoul/Idris2-Effect) - Experimental effects library for Idris 2.
+- [Frex](https://github.com/frex-project/idris-frex) - Programming with equations using free extensions. ([Web](https://www.cl.cam.ac.uk/~jdy22/projects/frex/))

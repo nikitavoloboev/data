@@ -297,3 +297,4 @@
 - [Python in a Box](https://github.com/raxod502/python-in-a-box) - Interactive online Python REPL in 30 lines of JavaScript.
 - [Writing fast async HTTP requests in Python (2021)](https://blog.jonlu.ca/posts/async-python-http) ([Lobsters](https://lobste.rs/s/fxpne4/writing_fast_async_http_requests_python))
 - [Intuitive Python: Productive Development for Projects that Last (2021)](https://pragprog.com/titles/dmpython/intuitive-python/) ([HN](https://news.ycombinator.com/item?id=27592822))
+- [Subclassing in Python: Redux (2021)](https://hynek.me/articles/python-subclassing-redux/)

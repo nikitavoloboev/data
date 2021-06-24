@@ -115,3 +115,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Stripe Payment Links](https://stripe.com/payments/payment-links) - Create a payment page in just a few clicks and share the link with your customers. ([Tweet](https://twitter.com/stripe/status/1397246058166632456)) ([HN](https://news.ycombinator.com/item?id=27280096))
 - [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant)
 - [Personal Finance Reddit Wiki](https://www.reddit.com/r/personalfinance/wiki/index)
+- [FerrumFIX](https://github.com/neysofu/ferrum-fix) - Financial Information eXchange protocol implemented in Rust.

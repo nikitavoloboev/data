@@ -50,3 +50,4 @@
 - [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
 - [Code in ARM Assembly: Registers explained (2021)](https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/) ([HN](https://news.ycombinator.com/item?id=27526155))
 - [Code in ARM Assembly: Working with pointers (2021)](https://eclecticlight.co/2021/06/21/code-in-arm-assembly-working-with-pointers/)
+- [Writing ARM64 Code for Apple Platforms](https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms) ([HN](https://news.ycombinator.com/item?id=27616018))
