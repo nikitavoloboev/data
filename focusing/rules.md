@@ -11,7 +11,7 @@
 - Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply (from first principles). Move in right direction. Move fast. No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
-- [Don't compare myself to other people](https://twitter.com/_Pammy_DS_/status/1387212857016786948). [Don't listen to haters but pay attention to genuine feedback](https://twitter.com/EricRWeinstein/status/1387219408645361665). Improve.
+- [Don't compare myself to other people](https://twitter.com/_Pammy_DS_/status/1387212857016786948). [Don't listen to haters but pay attention to genuine feedback](https://twitter.com/EricRWeinstein/status/1387219408645361665). Improve. Try become the best & most inspiring version of myself.
 - Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people. Do what I love. Value myself and my work.
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
@@ -30,7 +30,7 @@
 - Drink lots of water & [tea](../health/nutrition/drinks/tea.md). Limit [coffee](../health/nutrition/drinks/coffee.md). No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
 - Go on walks or do exercise throughout the day when possible as breaks.
-- Brush/floss teeth & [clean face](../health/skin-care.md) daily. Smell nice.
+- Brush/floss teeth properly (morning/evening) & wash + [clean face](../health/skin-care.md) daily. Smell nice. Wear clean clothes.
 - Apply sunscreen when going out for long time. Don't frown. Don't touch face or mouth with dirty hands.
 - Accept and love my body and self. I am perfect as I am. Don't care what other people might think of me.
 - Never sit for long. Sit up right (good posture, never slouch). Use great chair. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing. Take breaks.
@@ -121,7 +121,7 @@
 - Don't be cruel in my actions and words. Treat my partner and friends with respect. You are only as pretty as you treat people.
 - Never underestimate how hurt someone can feel by your words and actions. Stop your behavior as soon as you see a person you care about hurt by you.
 - Show genuine interest and love in the other person's lives. Especially my partner.
-- Don't cheat (if not discussed and not allowed) in secret. Don't lie.
+- Don't cheat (if it is discussed and not allowed) in secret. Don't lie. Don't discuss cheating or open relationships if your partner is opposed to it.
 - Don't complain needlessly and be a burden to anyone's lives. It's okay to ask for help and hugs. Share your struggles and the wins. Appreciate each other.
 - Go on unique and spontaneous dates. Try and walk every day and spend time together (i.e. get coffee and walk).
 - Don't show bad intentions, the goal of each relationship is to maximize each other's happiness and pleasure in life. Don't take relationships for granted and don't abuse other's love for you.
@@ -130,7 +130,15 @@
 - Take things seriously. Don't let anyone lose trust in you, especially your partner.
 - If you cannot avoid/stop hurting someone, then better stop communication with them, so you don’t continue doing it.
 - If you feel that something is not right, it probably is not right. Deal with it early.
+- Give your partner freedom to be her/himself. Don't force him/her to change for you. Compromise on things that make the other one unhappy or break up.
 - You have power to influence other people, be gentle and kind.
+- You should have complete love for your partner. Everyone should be confident that they won't be hurt by their partner by someone doing something bad behind their back.
+- Your partner should never doubt your love for them.
+- Lift your partner up & listen always. If she/he doesn't like something I did, stop doing it. Don't argue. Don't be stubborn.
+- Express my genuine love for my partner in all the different ways. Hold her/his hand, give compliments (how she/he looks and clothes she/he wears).
+- Ask how your partner feels and listen. Don't disregard their feelings. It’s good response to just hug and listen if I have no answer or solution (all feelings are valid and are not a sign of weakness).
+- Don't needlessly complain about things to anyone. My life is amazing and it's lucky I even exist. Be grateful.
+- The relationship can only get better if both want it to improve.
 
 ## Communication
 
@@ -176,6 +184,7 @@
 
 - Only keep good & memorable photos. Clean up the rest. Sort into albums.
 - Don't over edit photos & share freely.
+- Be confident in how I look and experiment with photos/videos. Not all photos/videos have to be shared. It's the memories that count.
 
 ## Email
 
