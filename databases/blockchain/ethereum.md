@@ -237,3 +237,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Verkle trees (2021)](https://vitalik.ca/general/2021/06/18/verkle.html) ([HN](https://news.ycombinator.com/item?id=27554404))
 - [Mantis](https://github.com/input-output-hk/mantis) - Scala based client for Ethereum-like Blockchains.
 - [Awesome-Uniswap v3](https://github.com/GammaStrategies/awesome-uniswap-v3)
+- [StakeWise](https://stakewise.io/) - Ethereum Proof Of Stake Pool and Solo Staking. ([GitHub](https://github.com/stakewise))
