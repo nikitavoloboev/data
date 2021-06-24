@@ -161,6 +161,7 @@
 - [Shiki Twoslash](https://shikijs.github.io/twoslash/) - Static Code Samples for JS Projects. ([Code](https://github.com/shikijs/twoslash))
 - [esbuild-node-loader](https://github.com/antfu/esbuild-node-loader) - Transpile TypeScript to ESM with Node.js loader.
 - [Building an end-to-end typesafe API — without GraphQL (2021)](https://colinhacks.com/essays/painless-typesafety)
+- [dpdm](https://github.com/acrazing/dpdm) - Static dependencies analyzer for your JavaScript and TypeScript projects.
 
 ## Images
 

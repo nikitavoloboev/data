@@ -123,3 +123,4 @@
 - [Stampino](https://github.com/justinfagnani/stampino) - Fast and extremely powerful HTML template system.
 - [million](https://github.com/millionjs/million) - Fast/Small Virtual DOM.
 - [The right tag for the job: why you should use semantic HTML (2021)](https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/)
+- [html5parser](https://github.com/acrazing/html5parser) - Super fast and tiny HTML5 parser.

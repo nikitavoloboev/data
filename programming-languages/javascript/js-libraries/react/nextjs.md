@@ -204,3 +204,4 @@
 - [Next.js 11 (2021)](https://nextjs.org/blog/next-11) ([HN](https://news.ycombinator.com/item?id=27517457))
 - [Next.js Live](https://nextjs.org/live) - Code in the browser. With your team. ([HN](https://news.ycombinator.com/item?id=27517440))
 - [Using Next.js and Vercel to instantly load a data-heavy website (2021)](https://tinloof.com/blog/using-next.js-and-vercel-to-instantly-load-a-data-heavy-website/)
+- [Refresh props from getServerSideProps in Next.js, mutate server props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/)

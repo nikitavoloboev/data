@@ -191,3 +191,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Posts on Options Trading](https://major.io/tags/options/)
 - [Republic](https://republic.co/) - Invest in Startups.
 - [Complex Adaptive Systems (Stonk Market) and How to Beat Them (2021)](https://www.youtube.com/watch?v=8QaP43sFO5A)
+- [finance-go](https://github.com/piquette/finance-go) - Financial markets data library implemented in go.
