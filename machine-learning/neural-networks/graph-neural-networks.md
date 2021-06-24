@@ -49,3 +49,4 @@
 - [E(n) Equivariant Graph Neural Networks (2021)](https://arxiv.org/abs/2102.09844) ([Code](https://github.com/vgsatorras/egnn))
 - [How Attentive are Graph Attention Networks? (2021)](https://arxiv.org/pdf/2105.14491.pdf) ([Code](https://github.com/tech-srl/how_attentive_are_gats))
 - [Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification (2021)](https://arxiv.org/abs/2009.03509) ([Code](https://github.com/lucidrains/graph-transformer-pytorch))
+- [Binary Graph Neural Networks (2021)](https://arxiv.org/abs/2012.15823) ([Code](https://github.com/mbahri/binary_gnn))

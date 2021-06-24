@@ -140,3 +140,4 @@ All active variables can be seen by running `env`.
 - [Typed Pipes in Every Shell](http://joeyh.name/blog/entry/typed_pipes_in_every_shell/) ([HN](https://news.ycombinator.com/item?id=27535357))
 - [4 Useful fzf Tricks for Your Terminal (2021)](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)
 - [How to replace a string with sed in current and recursive subdirectories](https://victoria.dev/blog/how-to-replace-a-string-with-sed-in-current-and-recursive-subdirectories/)
+- [Gufo](https://github.com/Piervit/gufo) - Modern shell language.

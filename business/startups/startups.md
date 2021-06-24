@@ -54,6 +54,7 @@
 - [The public is never wrong. When people don't respond to what you do, they're telling you something loud and clear. You're just not listening.](https://twitter.com/jackbutcher/status/1399783270062174210)
 - [You do everything differently when you're an owner.](https://twitter.com/jackbutcher/status/1399571975459246082)
 - [The market you’re in will determine most of your growth.](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/)
+- [Startup founders should prioritize mental health over 'growth at all costs'.](https://twitter.com/mkhundmiri/status/1407956908863115268)
 
 ## Links
 

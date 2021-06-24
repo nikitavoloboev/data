@@ -108,3 +108,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Engineering a chess match against my brother (2021)](https://blog.mbrt.dev/posts/chess-eng/) ([HN](https://news.ycombinator.com/item?id=27431924))
 - [My Favorite Chess Openings by Rating (2020)](https://www.youtube.com/watch?v=NFod-ozimmM)
 - [How To Analyze Your Chess Games (2021)](https://www.youtube.com/watch?v=ylpAHvPlafc)
+- [My Return to Competitive Chess | National Open Round 1 (2021)](https://www.youtube.com/watch?v=sMY3E8qLsno)

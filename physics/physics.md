@@ -220,3 +220,4 @@
 - [Simulation of photons refracting through a dispersive cylinder, by solution of the eikonal equation](https://twitter.com/jamportz/status/1399463006468198404)
 - [When did you realize you weren’t going to be an outstanding physicist. (2021)](https://www.reddit.com/r/Physics/comments/nqdhco/when_did_you_realize_you_werent_going_to_be_an/)
 - [Does gravity bend gravity?](https://physics.stackexchange.com/questions/643765/does-gravity-bend-gravity)
+- [Nanoscale and Quantum Photonics Lab](https://nqp.stanford.edu/)

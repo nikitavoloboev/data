@@ -54,3 +54,4 @@
 - [Codis](https://codis.io/) - Figma design to Flutter code converter.
 - [NativeShell](https://github.com/nativeshell/nativeshell) - Experimental embedder for Flutter. ([Web](https://nativeshell.dev/)) ([Article](https://matejknopp.com/post/introducing-nativeshell/))
 - [Flutter with Native Go Libraries (2021)](https://openprivacy.ca/discreet-log/09-flutter-with-native-go-libraries/)
+- [Flutter Hooks](https://github.com/rrousselGit/flutter_hooks) - Flutter implementation of React hooks.

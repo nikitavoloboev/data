@@ -87,3 +87,4 @@
 - [What makes quantum computing so hard to explain? (2021)](https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/) ([HN](https://news.ycombinator.com/item?id=27439839))
 - [The Ghost in the Quantum Turing Machine](https://www.scottaaronson.com/papers/giqtm3.pdf)
 - [qutip-qip](https://github.com/qutip/qutip-qip) - QuTiP quantum information processing package.
+- [Reality Behind the Hype: 40 Years of Quantum Computing (2021)](https://arxiv.org/abs/2106.10522)
