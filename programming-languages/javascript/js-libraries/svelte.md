@@ -103,3 +103,4 @@
 - [Up and running with Svelte 3 (2021)](https://egghead.io/courses/getting-started-with-svelte-3-05a8541a)
 - [svelte-local-storage-store](https://github.com/joshnuss/svelte-local-storage-store) - Adds pub/sub to localStorage.
 - [Svelte for the Experienced React Dev (2021)](https://css-tricks.com/svelte-for-the-experienced-react-dev/)
+- [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the Carbon Design System. ([Docs](https://carbon-svelte.vercel.app/))

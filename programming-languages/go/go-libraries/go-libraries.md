@@ -852,6 +852,7 @@
 - [Jettison](https://github.com/wI2L/jettison) - Fast and flexible JSON encoder for Go.
 - [Column](https://github.com/kelindar/column) - High-performance, columnar, in-memory store with bitmap indexing in Go. ([HN](https://news.ycombinator.com/item?id=27577193))
 - [smutex](https://github.com/kelindar/smutex) - Sharded Mutex in Go.
+- [Lexical](https://github.com/a-h/lexical) - Set of tools for building parsers using Go.
 
 ## Links
 

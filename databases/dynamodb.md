@@ -50,3 +50,5 @@
 - [You should always use DynamoDB global tables now (2021)](https://acloudguru.com/blog/engineering/you-should-always-use-dynamodb-global-tables-now)
 - [Asynchronous API with DynamoDB Streams (2021)](https://medium.com/nerd-for-tech/asynchronous-api-with-dynamodb-streams-4117776f2fa4) ([HN](https://news.ycombinator.com/item?id=27232637))
 - [LucidDyanamoDB](https://github.com/dineshsonachalam/Lucid-Dynamodb) - Simple Python wrapper to AWS DynamoDB. ([HN](https://news.ycombinator.com/item?id=27334430))
+- [ddbimport](https://github.com/a-h/ddbimport) - Import CSV data into DynamoDB.
+- [Event Sourced Database in DynamoDB / TypeScript](https://github.com/a-h/hde)

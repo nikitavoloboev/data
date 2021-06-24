@@ -182,3 +182,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Everything AWS](https://app.polymersearch.com/discover/aws) - Search and discover 40K+ quality AWS repositories.
 - [AWS Elastic Container Service (ECS) Terraform module](https://github.com/terraform-aws-modules/terraform-aws-ecs)
 - [330+ Open source security controls for AWS](https://hub.steampipe.io/mods/turbot/aws_compliance/controls)
+- [Using AWS CDK with Go to launch an app with App Runner (2021)](https://adrianhesketh.com/2021/06/14/go-cdk-app-runner/)

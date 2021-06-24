@@ -496,3 +496,4 @@ Go promotes composition over inheritance.
 - [Everyday Go Book (2021)](https://gumroad.com/l/everyday-golang) - Fast way to learn tools, techniques and patterns from real tools used in production.
 - [Go: Don’t just check errors, handle them gracefully (2016)](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
 - [Useful bootstrap checklist for Go Projects](https://boyter.org/posts/useful-bootstrap-for-go-projects/)
+- [Building a Hotwired web app with Go and Templ (2021)](https://adrianhesketh.com/2021/06/04/hotwired-go-with-templ/)
