@@ -155,3 +155,4 @@
 - [Asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language. ([Web](https://asymptote.sourceforge.io/))
 - [three-d](https://github.com/asny/three-d) - Renderer written in Rust which compiles to both desktop (OpenGL) and web (WebAssembly + WebGL)..
 - [Top 100 3D Renders from the Internet's Largest CG Challenge | Alternate Realities (2021)](https://www.youtube.com/watch?v=iKBs9l8jS6Q)
+- [ThorVG](https://github.com/Samsung/thorvg) - Platform-independent portable library for drawing vector-based scenes and animations. ([Web](https://www.thorvg.org/))

@@ -220,3 +220,4 @@
 - [C++20 Range Adaptors and Range Factories (2021)](https://brevzin.github.io/c++/2021/02/28/ranges-reference/)
 - [Mesh: Compacting Memory Management for C/C++ Applications (2019)](https://arxiv.org/abs/1902.04738)
 - [My favourite C++ footgun (2021)](https://dustri.org/b/my-favourite-c-footgun.html) ([HN](https://news.ycombinator.com/item?id=27577601))
+- [Palanteer](https://github.com/dfeneyrou/palanteer) - Set of lean and efficient tools to improve the general software quality, for C++ and Python programs.
