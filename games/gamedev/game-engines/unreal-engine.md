@@ -16,3 +16,4 @@
 - [MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman-creator) - Cloud-based app that empowers anyone to create photorealistic digital humans, fully rigged and complete with hair and clothing, in minutes. ([Video](https://www.youtube.com/watch?v=OeUBATSJSr0))
 - [On the Perceived Inevitability of Unreal](http://alextardif.com/Unreal.html) ([Lobsters](https://lobste.rs/s/ulwmqh/on_perceived_inevitability_unreal))
 - [Unreal Engine 5 Early Access Release Notes (2021)](https://docs.unrealengine.com/5.0/en-US/ReleaseNotes/) ([HN](https://news.ycombinator.com/item?id=27345835))
+- [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) - Allows to create fully volumetric, entirely destructible, infinite worlds in Unreal Engine. ([Web](https://voxelplugin.com/))
