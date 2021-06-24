@@ -179,6 +179,7 @@
 - [Tutti](https://github.com/danielsaidi/Tutti) - Swift library that lets you create tutorials, hints and onboarding experiences.
 - [UXKit](https://github.com/ZeeZide/UXKit) - Write code that works on both, UIKit and AppKit.
 - [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) - Simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+- [MotionToastView](https://github.com/sameersyd/MotionToastView) - Beautiful Multipurpose Motion Toast Library in iOS using Swift.
 
 ## macOS
 
