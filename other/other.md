@@ -498,3 +498,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Internet in a Box](http://internet-in-a-box.org/) ([HN](https://news.ycombinator.com/item?id=27568332)) ([Code](https://github.com/iiab/iiab))
 - [Mindat.org](https://www.mindat.org/) - Largest open database of minerals, rocks, and meteorites. ([HN](https://news.ycombinator.com/item?id=27575453))
 - [Free Dev Stuff](https://freestuff.dev/) - List of free stuff or services for developer by developer to use. ([Code](https://github.com/hilmanski/freeStuffDev))
+- [diffsitter](https://github.com/afnanenayet/diffsitter) - tree-sitter based AST difftool to get meaningful semantic diffs.
