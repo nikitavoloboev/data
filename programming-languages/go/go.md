@@ -495,3 +495,4 @@ Go promotes composition over inheritance.
 - [Go 1.17 Beta (2021)](https://tip.golang.org/doc/go1.17) ([HN](https://news.ycombinator.com/item?id=27462884))
 - [Everyday Go Book (2021)](https://gumroad.com/l/everyday-golang) - Fast way to learn tools, techniques and patterns from real tools used in production.
 - [Go: Don’t just check errors, handle them gracefully (2016)](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
+- [Useful bootstrap checklist for Go Projects](https://boyter.org/posts/useful-bootstrap-for-go-projects/)

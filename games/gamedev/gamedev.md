@@ -188,3 +188,4 @@
 - [Half-Life 1 engine based games](https://github.com/ValveSoftware/halflife)
 - [LDtk](https://deepnight.itch.io/ldtk) - Modern and open-source 2D level editor. ([HN](https://news.ycombinator.com/item?id=27570556))
 - [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own. ([Web](http://serpent.ai/))
+- [Developing Games on Linux: An Interview with Little Red Dog Game](https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with) ([HN](https://news.ycombinator.com/item?id=27619977))

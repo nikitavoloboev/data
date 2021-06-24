@@ -24,3 +24,5 @@
 - [Analog Signals and Systems Book (2011)](https://link.springer.com/chapter/10.1007/978-3-642-15591-8_1)
 - [MDfourier](http://junkerhq.net/MDFourier/) - Audio analysis tool for gaming hardware.
 - [Three examples where DSP saved my butt](https://www.dspguide.com/new/appexam.htm)
+- [The Emerging Field of Signal Processing on Graphs: Extending High-Dimensional Data Analysis to Networks and Other Irregular Domains (2013)](https://arxiv.org/abs/1211.0053)
+- [Digital signal processing (DSP) consulting](https://www.johndcook.com/blog/digital-signal-processing-and-time-series-analysis/) ([Twitter](https://twitter.com/DSP_fact))

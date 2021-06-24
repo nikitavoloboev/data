@@ -9,6 +9,7 @@
 - [Am I.. No. But do I..? Also no.](https://twitter.com/InternetHippo/status/581955225235292160)
 - [Do thing. For this? Look. For this?](https://twitter.com/elonmusk/status/1401493801131298816)
 - [I Bet He's Thinking About Other Women](https://imgflip.com/memegenerator/I-Bet-Hes-Thinking-About-Other-Women)
+- [Black guy stopping](https://imgflip.com/memegenerator/169798464/black-guy-stopping)
 
 ## Notes
 

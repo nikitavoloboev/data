@@ -128,6 +128,7 @@
 - [recursion-schemes](https://github.com/recursion-schemes/recursion-schemes) - Represents common recursion patterns as higher-order functions.
 - [QuickSpec](https://github.com/nick8325/quickspec) - Equational laws for free.
 - [What4](https://github.com/GaloisInc/what4) - Symbolic formula representation and solver interaction library.
+- [foldl](https://github.com/Gabriel439/Haskell-Foldl-Library) - Composable, streaming, and efficient left folds.
 
 ## Links
 

@@ -31,6 +31,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [hicetnunc2000](https://www.hicetnunc.xyz/) - Smart contracts and distributed systems designs. ([Web](https://www.hicetnunc.xyz/))
 - [Polymarket](https://polymarket.com/) - Global Information Markets Platform.
 - [Tokenlog](https://tokenlog.xyz/) - Token-weighted backlogs. ([Code](https://github.com/wslyvh/tokenlog))
+- [RabbitHole](https://rabbithole.gg/) - Earn crypto by using the latest crypto applications.
 
 ## Notes
 

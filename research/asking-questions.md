@@ -19,6 +19,7 @@ In short, it can be summed down to this:
 - [I’ve never found anyone who didn’t want to help me if I asked them for help. Most people never pick up the phone and call. And that’s what separates (sometimes) the people who do things from the people who just dream about them. - Steve Jobs](https://twitter.com/JonErlichman/status/1241872938695098368)
 - [Instead of asking to meet, ask the question you’d ask if you meet.](https://twitter.com/shl/status/1371545012027019267)
 - [Half the battle of getting good advice is simply asking the right person.](https://twitter.com/APompliano/status/1384682388140306433)
+- [I catch myself saying “Sorry for being so dense” to colleagues when I don’t know something. There’s nothing to be sorry about. If you don’t have the context, that has nothing to do with your ability to understand it.](https://twitter.com/NovallSwift/status/1408068231449874436)
 
 ## Links
 

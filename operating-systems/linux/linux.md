@@ -328,3 +328,5 @@
 - [io_uring is not an event system (2021)](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/) ([HN](https://news.ycombinator.com/item?id=27540248))
 - [Linux Commands Cheat Sheet 2021](https://linuxguidehq.com/linux-commands-cheat-sheet/)
 - [Pulling GitHub into the Linux kernel process (2021)](https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/) ([HN](https://news.ycombinator.com/item?id=27611704))
+- [Introduction to eBPF (2021)](https://oswalt.dev/2021/01/introduction-to-ebpf/)
+- [Linux Network Examples](https://github.com/knorrie/network-examples)

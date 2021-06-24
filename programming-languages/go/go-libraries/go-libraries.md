@@ -151,6 +151,7 @@
 - [gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go.
 - [YoMo](https://github.com/yomorun/yomo) - Streaming-Serverless Framework for Low-latency Edge Computing applications, running atop QUIC protocol, engaging 5G technology.
 - [httparty](https://github.com/jnunemaker/httparty) - Go HTTP library.
+- [jwt](https://github.com/dgrijalva/jwt-go) - Go implementation of JSON Web Tokens (JWT).
 
 ## GraphQL
 
@@ -471,7 +472,6 @@
 - [copy](https://github.com/otiai10/copy) - Copy directory recursively.
 - [regexp2](https://github.com/dlclark/regexp2) - Full featured regular expressions for Go.
 - [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
-- [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).
 - [go-naturaldate](https://github.com/tj/go-naturaldate) - Natural date/time parsing for Go.
 - [gpio](https://github.com/warthog618/gpio) - Native Go library for Raspberry Pi GPIO.
 - [DJSON](https://github.com/a8m/djson) - Fast Go decoder for dynamic JSON.

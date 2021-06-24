@@ -209,3 +209,4 @@
 - [Yann LeCun | The Energy-Based Learning Model (2021)](https://www.youtube.com/watch?v=4lthJd3DNTM)
 - [Lil'Log](https://lilianweng.github.io/lil-log/) - Blog about RL.
 - [PyTorch implementation of reinforcement learning algorithms](https://github.com/Khrylx/PyTorch-RL)
+- [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl)
