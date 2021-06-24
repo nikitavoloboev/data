@@ -28,3 +28,4 @@
 - [Spring School on Homotopy Type Theory](https://epit2020cnrs.inria.fr/) ([Code](https://github.com/HoTT/EPIT-2020))
 - [Dan Christensen: "Reasoning in an ∞-topos with homotopy type theory" (2021)](https://www.youtube.com/watch?v=_0sEEAMwHzo)
 - [Homotopy Type Theory in Agda](https://github.com/HoTT/HoTT-Agda)
+- [HN: Homotopy Type Theory (2021)](https://news.ycombinator.com/item?id=27589503)

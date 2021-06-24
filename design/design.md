@@ -14,6 +14,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Don't design for average. If you want to make a great product, it needs to be great for someone.](https://twitter.com/linuz90/status/1275678185657716736)
 - [Design is about making things look a certain way. Not “make it look pretty” but “surface.” I have had many interactions with smart educated people (even designers!) whom seem to believe design is art, that design is mainly about surface (e.g. “a designer chair.”)](https://twitter.com/rsms/status/1305383261774905346)
 - [Opinions are not ideas. Opinions are not as important as ideas. Opinions are just opinions.](https://twitter.com/bchesky/status/1393305210563403776)
+- [Don’t know where to start a design? literally just copy the next closest thing and then …just keep going.](https://twitter.com/round/status/1407767068263403520)
 
 ## Links
 
