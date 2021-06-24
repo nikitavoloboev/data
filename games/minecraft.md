@@ -52,3 +52,4 @@
 - [Amulet Map Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - Minecraft world editor and converter. ([Web](https://www.amuletmc.com/))
 - [Iris](https://github.com/IrisShaders/Iris) - Shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders.
 - [Flywheel](https://github.com/Jozufozu/Flywheel) - Modern engine for modded Minecraft.
+- [Minestom](https://github.com/Minestom/Minestom) - Lightweight and multi-threaded Minecraft server. ([Web](https://www.minestom.net/))

@@ -16,7 +16,7 @@
 - [Fractals in Python](https://github.com/danilobellini/fractal)
 - [Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations connecting chaos theory, fractals, and the logistic map.
 - [Single div Sierpinski triangle (2020)](https://yuanchuan.dev/single-div-sierpinski-triangle) ([HN](https://news.ycombinator.com/item?id=22279532))
-- [Constructing the Sierpinski triangle](http://www.oftenpaper.net/sierpinski.htm)
+- [Constructing the Sierpinski triangle](http://www.oftenpaper.net/sierpinski.htm) ([Lobsters](https://lobste.rs/s/pjetp7/constructing_sierpinski_triangle))
 - [Chaos Game](https://andrew.wang-hoyer.com/experiments/chaos-game/) - Method of creating a fractal, using a polygon and an initial point selected at random inside. ([Code](https://github.com/ndrwhr/chaos-game))
 - [Chaos Game - Numberphile](https://www.youtube.com/watch?v=kbKtFN71Lfs)
 - [Strange Attractors](https://migueltorrescosta.github.io/posts/Strange-Attractors) - Implementation of Numberphile’s ideas from their Chaos Game Video.

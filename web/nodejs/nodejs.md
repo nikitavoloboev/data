@@ -223,3 +223,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Yalc](https://github.com/wclr/yalc) - Better workflow than npm | yarn link for package authors.
 - [Awesome NodeJS Security](https://github.com/lirantal/awesome-nodejs-security)
 - [Volt](https://www.voltpkg.com/) - Fastest Node.js Package Manager. ([Code](https://github.com/voltpkg/volt))
+- [workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser.

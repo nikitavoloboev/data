@@ -572,7 +572,7 @@
 - [wasm-mt](https://github.com/w3reality/wasm-mt) - Multithreading library for Rust and WebAssembly.
 - [Simba](https://github.com/rustsim/simba) - SIMD algebra for Rust.
 - [render](https://github.com/render-rs/render.rs) - Safe and simple template engine with the ergonomics of JSX.
-- [memmap](https://github.com/danburkert/memmap-rs) - Cross-platform Rust API for memory mapped IO.
+- [memmap2](https://github.com/RazrFalcon/memmap2-rs) - Cross-platform Rust API for memory mapped IO.
 - [bus](https://github.com/jonhoo/bus) - Efficient, lock-free, bounded Rust broadcast channel.
 - [sdfu](https://github.com/termhn/sdfu) - Signed Distance Field Utilities.
 - [webrtc-audio-processing](https://github.com/tonarino/webrtc-audio-processing) - Wrapper around PulseAudio's repackaging of WebRTC's AudioProcessing module.
@@ -872,6 +872,7 @@
 - [rust-x86](https://github.com/gz/rust-x86) - Rust library to use x86 (amd64) specific functionality and registers.
 - [granne](https://github.com/granne/granne) - Graph-based Approximate Nearest Neighbor Search.
 - [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python.
+- [TransIter](https://github.com/neithernut/transiter) - Iterator suitable for navigating recursive structures and DAGs in rust.
 
 ## Cargo Plugins
 
