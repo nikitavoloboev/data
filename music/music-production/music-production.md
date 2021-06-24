@@ -85,6 +85,7 @@
 - [SOUL](https://soul.dev/) - Language and infrastructure for writing and deploying audio code. ([Code](https://github.com/soul-lang/SOUL))
 - [libpd](https://github.com/libpd/libpd) - Pure Data embeddable audio synthesis library.
 - [Music Suite](https://github.com/music-suite/music-suite) - Language for describing music, based on Haskell.
+- [Oscen](https://github.com/reedrosenbluth/oscen) - Rust Sound Synthesis Library.
 
 ## Inspiration
 

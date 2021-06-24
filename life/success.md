@@ -109,3 +109,4 @@ Success comes from not giving up and doing what you love.
 - [The Mental Benefits of Being Terrible at Something (2021)](https://www.outsideonline.com/2423015/80-20-rule-beginner-mastery-benefits) ([HN](https://news.ycombinator.com/item?id=27204406))
 - [Advice to my younger self (2019)](https://blog.alexmaccaw.com/advice-to-my-younger-self/)
 - [Aaron Swartz: 7 Essays on Getting Better at Life (2012)](http://www.aaronsw.com/weblog/rawnerve)
+- [How to 10X your income in the next 4 years (2021)](https://twitter.com/craigclemens/status/1407857453711040512)

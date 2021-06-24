@@ -132,6 +132,7 @@
 - [70 marketing lessons](https://twitter.com/heyblake/status/1402048227025690624)
 - [150 Places to Post Your Startup/Product](https://breue.com/places_to_post_startup)
 - [Ask HN: What is your “sales stack”? (2021)](https://news.ycombinator.com/item?id=27525819)
+- [Customer.io](https://customer.io/) - Marketing Automation for the Whole Customer Lifecycle.
 
 ## Images
 

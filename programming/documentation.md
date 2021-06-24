@@ -106,3 +106,4 @@
 - [Archbee](https://www.archbee.io/) - Documentation Tool for your Team and Product.
 - [Explaining Code using ASCII Art (2019)](https://blog.regehr.org/archives/1653)
 - [Useful and useless code comments (2021)](https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/) ([HN](https://news.ycombinator.com/item?id=27542319))
+- [Ask HN: What software do you use to gather requirements? (2021)](https://news.ycombinator.com/item?id=27615562)

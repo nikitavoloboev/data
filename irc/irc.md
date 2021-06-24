@@ -60,3 +60,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [hackint](https://hackint.org/) - Communication IRC network for the hacker community. ([GitHub](https://github.com/hackint/))
 - [Goodbye Freenode (2021)](https://nedbatchelder.com/blog/202106/goodbye_freenode.html) ([HN](https://news.ycombinator.com/item?id=27491967))
 - [The End of Freenode (2021)](https://ariadne.space/2021/06/14/the-end-of-freenode/) ([Lobsters](https://lobste.rs/s/r0fddp/end_freenode)) ([HN](https://news.ycombinator.com/item?id=27499946))
+- [EsperNet IRC Network](https://www.esper.net/)
