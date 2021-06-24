@@ -8,3 +8,4 @@
 - [.NET GC Internals mini-series (2021)](https://tooslowexception.com/net-gc-internals-mini-series/) ([HN](https://news.ycombinator.com/item?id=25876087))
 - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) - Build client web apps with C#.
 - [.NET MAUI](https://github.com/dotnet/maui) - .NET Multi-Platform App UI. ([HN](https://news.ycombinator.com/item?id=26882185))
+- [.NET Memory management](https://www.bschaatsbergen.com/dotnet-memory-management)

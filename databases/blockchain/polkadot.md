@@ -46,3 +46,5 @@
 - [Statemint](https://github.com/paritytech/statemint) - Blockchain to support generic assets in the Polkadot and Kusama networks.
 - [BEEFY (Bridge Efficiency Enabling Finality Yielder)](https://github.com/paritytech/grandpa-bridge-gadget) - Secondary protocol running along GRANDPA Finality to support efficient bridging with non-Substrate blockchains.
 - [Polkadot Decoded 2021: Auctions, and Crowdloans, and Slots (2021)](https://www.youtube.com/watch?v=qGjCYl2awkM)
+- [Why did you invest in Polkadot? (2021)](https://www.reddit.com/r/dot/comments/o70khs/why_did_you_invest_in_polkadot/)
+- [Polkadot: A Bet Against Maximalism (w/Gavin Wood and Sebastian Moonjava) (2021)](https://www.youtube.com/watch?v=nBQ0lmLaDFM)
