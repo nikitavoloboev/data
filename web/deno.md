@@ -109,3 +109,4 @@
 - [dectyl](https://github.com/kitsonk/dectyl) - APIs for testing Deno Deploy scripts using the Deno CLI.
 - [Deno Deploy Beta 1 (2021)](https://deno.com/blog/deploy-beta1)
 - [Sift](https://github.com/satyarohith/sift) - Routing and utility library for Deno Deploy.
+- [Packup](https://github.com/kt3k/packup) - Zero-config web application packager in Deno. ([Docs](https://packup.deno.dev/))

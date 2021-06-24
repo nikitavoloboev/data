@@ -125,3 +125,4 @@
 - [The right tag for the job: why you should use semantic HTML (2021)](https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/)
 - [html5parser](https://github.com/acrazing/html5parser) - Super fast and tiny HTML5 parser.
 - [templ](https://github.com/a-h/templ) - Strongly typed HTML templating language that compiles to Go code, and has great developer tooling.
+- [Capsid](https://github.com/capsidjs/capsid) - Declarative DOM programming library based on TypeScript decorators.
