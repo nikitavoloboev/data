@@ -534,6 +534,7 @@
 - [Normalized Cache](https://github.com/boschni/normalized-cache) - Cache for storing normalized data.
 - [itty router](https://github.com/kwhitley/itty-router) - Router, designed for Express.js-like routing within Cloudflare Workers (or anywhere else).
 - [vLitejs](https://github.com/yoriiis/vlitejs) - Fast and lightweight JavaScript library for customizing video and audio player.
+- [async-broadcaster](https://github.com/justinfagnani/async-broadcaster) - Observable alternative using async iterators.
 
 ## Links
 

@@ -28,3 +28,4 @@
 - [Firebase Extensions](https://firebase.google.com/products/extensions) - Pre-packaged solutions that save you time.
 - [Firebase SQL](https://github.com/JoeRoddy/firebase-sql) - JS library to execute SQL queries against Firebase databases.
 - [Firebase Hosting GitHub Action](https://github.com/FirebaseExtended/action-hosting-deploy) - Automatically deploy shareable previews for your Firebase Hosting sites.
+- [Firebase Admin Go SDK](https://github.com/firebase/firebase-admin-go)

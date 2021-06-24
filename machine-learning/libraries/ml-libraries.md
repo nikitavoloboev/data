@@ -156,3 +156,4 @@
 - [Smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine.
 - [AugLy](https://github.com/facebookresearch/AugLy) - Data augmentations library for audio, image, text, and video.
 - [Surprise](https://github.com/NicolasHug/Surprise) - Python scikit for building and analyzing recommender systems. ([Web](http://surpriselib.com/))
+- [TNN](https://github.com/Tencent/TNN) - High-performance, lightweight neural network inference framework.

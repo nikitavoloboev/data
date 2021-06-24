@@ -187,3 +187,4 @@
 - [Entity Component System architectures (and why you should care)](https://dev.to/endershadow8/entity-component-system-architectures-and-why-you-should-care-59ja) ([Lobsters](https://lobste.rs/s/w2vbib/entity_component_system_architectures))
 - [Half-Life 1 engine based games](https://github.com/ValveSoftware/halflife)
 - [LDtk](https://deepnight.itch.io/ldtk) - Modern and open-source 2D level editor. ([HN](https://news.ycombinator.com/item?id=27570556))
+- [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own. ([Web](http://serpent.ai/))

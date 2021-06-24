@@ -69,6 +69,7 @@
 - [OpenL3](https://github.com/marl/openl3) - Open-source deep audio and image embeddings.
 - [xitorch](https://github.com/xitorch/xitorch) - Differentiable scientific computing library.
 - [randopt](https://github.com/seba-1511/randopt) - Python package for machine learning experiment management, hyper-parameter optimization, and results visualization.
+- [Kats](https://github.com/facebookresearch/Kats) - Toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis.
 
 ## Biology
 

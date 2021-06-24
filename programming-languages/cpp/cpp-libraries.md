@@ -217,6 +217,7 @@
 - [kari.hpp](https://github.com/BlackMATov/kari.hpp) - Experimental library for currying in C++17.
 - [cpp-lazy](https://github.com/MarcDirven/cpp-lazy) - Fast and easy lazy evaluation library.
 - [memory-allocators](https://github.com/mtrebi/memory-allocators) - Custom memory allocators in C++ to improve the performance of dynamic memory allocation.
+- [Vc](https://github.com/VcDevel/Vc) - Portable, zero-overhead C++ types for explicitly data-parallel programming.
 
 ## Links
 

@@ -53,3 +53,4 @@
 - [wav2vec Unsupervised: Speech recognition without supervision (2021)](https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/)
 - [Online Speech recognition using RNN-Transducer](https://github.com/theblackcat102/edgedict)
 - [Openspeech](https://github.com/sooftware/openspeech) - Open-Source Toolkit for End-to-End Speech Recognition.
+- [Unsupervised Speech Decomposition via Triple Information Bottleneck (2020)](https://arxiv.org/abs/2004.11284) ([Code](https://github.com/auspicious3000/SpeechSplit))
