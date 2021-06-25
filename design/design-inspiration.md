@@ -44,6 +44,7 @@ Here are few more things I liked, design wise.
 - [Baths Music](https://bathsmusic.net/)
 - [Pointless](https://ptls.dev/)
 - [Lunadio](https://www.lunadio.com/)
+- [Expa](https://www.expa.com/)
 - [Dogstudio](https://dogstudio.co/)
 - [hyperlink.academy](https://hyperlink.academy/)
 - [Point-Free](https://www.pointfree.co/)
