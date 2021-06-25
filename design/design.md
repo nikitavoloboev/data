@@ -181,3 +181,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Playbook.com](https://www.playbook.com/) - Beautiful Cloud Storage Platform for Designers.
 - [Ask Playbook](https://askplaybook.com/) - Helps designers achieve their career goals.
 - [Embracing Design Constraints (2021)](https://adrianroselli.com/2021/05/embracing-design-constraints.html)
+- [How to critique a product's design (2021)](https://twitter.com/joulee/status/1407902488838119431)

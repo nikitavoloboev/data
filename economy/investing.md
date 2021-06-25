@@ -30,7 +30,8 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 
 - [Bogleheads](https://www.bogleheads.org/) - Investing Advice and Info. ([HN](https://news.ycombinator.com/item?id=24023604))
 - [Bogleheads Wiki](https://www.bogleheads.org/wiki/Main_Page) - Great resource.
-- [Bogleheads investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
+- [Bogleheads Getting Started](https://www.bogleheads.org/wiki/Getting_started)
+- [Bogleheads Investment Philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
 - [Lazy portfolios](https://www.bogleheads.org/wiki/Lazy_portfolios)
 - [Keith Rabois' investment criteria](https://twitter.com/rabois/status/934099022603747329)
 - [Seeking Alpha](https://seekingalpha.com/) - Crowd-sourced content service for financial markets.
@@ -193,3 +194,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Complex Adaptive Systems (Stonk Market) and How to Beat Them (2021)](https://www.youtube.com/watch?v=8QaP43sFO5A)
 - [finance-go](https://github.com/piquette/finance-go) - Financial markets data library implemented in go.
 - [My "Investment Mindset"](https://blog.pragmaticengineer.com/the-investment-mindset/)
+- [Simple Portfolio](https://simpleportfolio.app/) - Stock Portfolio Tracking for Long-term Investors.
