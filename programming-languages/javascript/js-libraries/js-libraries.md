@@ -536,6 +536,8 @@
 - [vLitejs](https://github.com/yoriiis/vlitejs) - Fast and lightweight JavaScript library for customizing video and audio player.
 - [async-broadcaster](https://github.com/justinfagnani/async-broadcaster) - Observable alternative using async iterators.
 - [Hover Effect](https://github.com/robin-dela/hover-effect) - JavaScript library to draw and animate images on hover.
+- [Js Search](https://github.com/bvaughn/js-search) - Efficient, client-side search library for JavaScript and JSON objects.
+- [js-worker-search](https://github.com/bvaughn/js-worker-search) - Full text client-side search based on js-search but with added web-worker support for better performance.
 
 ## Links
 

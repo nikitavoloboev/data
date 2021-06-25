@@ -22,3 +22,4 @@
 - [Wuthering Heights - Kate Bush (Live Acoustic Cover)](https://www.youtube.com/watch?v=36oiYbolb4w)
 - [Shawn James - Losing My Religion (R.E.M. Cover)](https://www.youtube.com/watch?v=VoOLAILDBPE)
 - [светлы песни — Пiшы (Один в каное cover)](https://www.youtube.com/watch?v=1Qtn7k-xXFY)
+- [Imagine Dragons - Blank Space (Taylor Swift cover in the Live Lounge)](https://www.youtube.com/watch?v=CFX8VJUtDgY)

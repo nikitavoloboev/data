@@ -110,3 +110,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [New Science](https://newscience.org/) - Aims to build new institutions of basic science, starting with the life sciences. ([Tweet](https://twitter.com/alexeyguzey/status/1392890087944380420))
 - [Ask HN: Anybody Started a Research Institute? (2021)](https://news.ycombinator.com/item?id=27300594)
 - [Theories Used in information systems (IS) Research Wiki](https://is.theorizeit.org/wiki/Main_Page)
+- [ReScience C](https://rescience.github.io/) - Reproducible Science is Good. Replicated Science is better. ([Code](https://github.com/ReScience/ReScience))

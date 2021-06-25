@@ -33,3 +33,4 @@
 - [Guide: How to Build a Cardano Stake Pool](https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node)
 - [Essential Cardano list](https://github.com/input-output-hk/essential-cardano)
 - [Charles Hoskinson: Cardano (2021)](https://overcast.fm/+eZyBb8vOc)
+- [Cardano DB Sync](https://github.com/input-output-hk/cardano-db-sync) - Component that follows the Cardano chain and stores blocks and transactions in PostgreSQL.

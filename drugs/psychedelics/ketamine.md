@@ -10,3 +10,4 @@
 - [Why do you use dissociatives in a party setting? (2021)](https://www.reddit.com/r/researchchemicals/comments/mj6ti3/why_do_you_use_dissociatives_in_a_party_setting/)
 - [First Time Ketamine Tips (2021)](https://www.reddit.com/r/ketamine/comments/no92ru/doing_ket_for_the_first_time_today_any_tips/)
 - [I Was Paralyzed by Severe Depression. Then Came Ketamine (2021)](https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html) ([HN](https://news.ycombinator.com/item?id=27338596))
+- [Therapeutic Ketamine Reddit](https://www.reddit.com/r/TherapeuticKetamine/)

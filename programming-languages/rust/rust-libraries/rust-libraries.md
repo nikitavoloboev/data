@@ -940,3 +940,4 @@
 - [nocargo](https://github.com/oxalica/nocargo) - Cargo in nix.
 - [What are the most "professional" crates? (2021)](https://www.reddit.com/r/rust/comments/nsvyxq/what_are_the_most_professional_crates/)
 - [Cargo tally](https://github.com/dtolnay/cargo-tally) - Graph the number of crates that depend on your crate over time.
+- [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust)

@@ -102,3 +102,4 @@
 - [Lust](https://github.com/ChillFish8/lust) - Fast, auto-optimizing image server designed for high throughput and caching.
 - [cutout.pro](https://www.cutout.pro/) - Image Cutout and Background Removal.
 - [MozJPEG](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
+- [lilliput](https://github.com/discord/lilliput) - Resize images and animated GIFs in Go.

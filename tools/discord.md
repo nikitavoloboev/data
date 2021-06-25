@@ -24,6 +24,7 @@
 - [Discord Go 3](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice.
 - [Discord C++](https://github.com/yourWaifu/sleepy-discord)
 - [Discord JS](https://github.com/discordjs/discord.js)
+- [Discord Elixir](https://github.com/Kraigie/nostrum)
 - [Discord Swift](https://github.com/Azoy/Sword)
 - [Discord Lua](https://github.com/SinisterRectus/Discordia)
 - [discord-jsx](https://github.com/alii/discord-jsx) - Experimental way to write Discord bots with JSX for Node.

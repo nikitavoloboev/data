@@ -501,3 +501,4 @@
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) ([Code](https://github.com/chiphuyen/ml-interviews-book))
 - [Introduction to Machine Learning 2019 at ETH Zürich](https://las.inf.ethz.ch/teaching/introml-s19) ([Summary](https://github.com/eth-cs-student-summaries/Introduction-to-Machine-Learning))
 - [Awesome Community Detection Research Papers](https://github.com/benedekrozemberczki/awesome-community-detection)
+- [Understanding Deep Learning (2021)](https://www.youtube.com/playlist?list=PLFE-LjWAAP9Q74cGaUF3yqUhqo2kOYY20)

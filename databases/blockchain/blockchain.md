@@ -32,6 +32,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Polymarket](https://polymarket.com/) - Global Information Markets Platform.
 - [Tokenlog](https://tokenlog.xyz/) - Token-weighted backlogs. ([Code](https://github.com/wslyvh/tokenlog))
 - [RabbitHole](https://rabbithole.gg/) - Earn crypto by using the latest crypto applications.
+- [WENEW](https://we.new/) - Collect iconic moments in music, sports, comedy, history, etc. on the blockchain. ([Tweet](https://twitter.com/beeple/status/1408055272837468160))
 
 ## Notes
 

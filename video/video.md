@@ -256,3 +256,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Nettu Meet](https://github.com/fmeringdal/nettu-meet) - Open source video conference web application designed for interactive online tutoring. ([HN](https://news.ycombinator.com/item?id=27434254))
 - [Kapwing MP4 Editor](https://www.kapwing.com/tools/mp4-editor) - Edit MP4 Online.
 - [YT-DLP](https://github.com/yt-dlp/yt-dlp) - youtube-dl fork with additional features and fixes.
+- [Subtitle Horse](https://subtitle-horse.com/) - Browser-based captions editor for subtitling videos online.
