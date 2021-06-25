@@ -98,3 +98,4 @@
 - [RISC-V Adventures: Lightening](https://ekaitz.elenq.tech/lightening.html) ([Part 2](https://ekaitz.elenq.tech/hex0.html))
 - [RISC-V Supervisor Binary Interface Spec](https://github.com/riscv/riscv-sbi-doc)
 - [George Hotz | twitchcore: a little RISC-V core | in Python | in Verilog | on FPGA (2021)](https://www.youtube.com/watch?v=camQ9QeBY9Q)
+- [XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor.
