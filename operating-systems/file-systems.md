@@ -59,3 +59,4 @@
 - [ImpFS](https://github.com/tomjridge/imp_fs) - Novel filesystem with some interesting features.
 - [rpg-cli](https://github.com/facundoolano/rpg-cli) - Your filesystem as a dungeon.
 - [Log-structured File Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)
+- [nullfsvfs](https://github.com/abbbi/nullfsvfs) - Virtual black hole file system that behaves like /dev/null.

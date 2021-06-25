@@ -277,3 +277,4 @@
 - [Zero downtime Postgres migration, done right (2021)](https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/) ([HN](https://news.ycombinator.com/item?id=27473788))
 - [Do You Really Need Redis? How to Get Away with Just PostgreSQL (2021)](https://spin.atomicobject.com/2021/02/04/redis-postgresql/) ([HN](https://news.ycombinator.com/item?id=27482243))
 - [embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run an embedded PostgreSQL database in Go application or test.
+- [Hierarchical Structures in PostgreSQL](https://hoverbear.org/blog/postgresql-hierarchical-structures/) ([HN](https://news.ycombinator.com/item?id=27631765))

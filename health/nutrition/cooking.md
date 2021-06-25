@@ -29,3 +29,4 @@ I share some [recipes I like](recipes.md).
 - [Baking with machine learning (2020)](https://sararobinson.dev/2020/04/30/baking-machine-learning.html) ([HN](https://news.ycombinator.com/item?id=25963556))
 - [Based Cooking](https://based.cooking/) - Simple online cookbook without ads and obese web design. ([Code](https://github.com/lukesmithxyz/based.cooking))
 - [Cheap Vegan Food Resources](https://eukaryotewritesblog.com/cheap-vegan-food-resources/)
+- [Is Coconut Oil healthy for cooking?](https://www.reddit.com/r/nutrition/comments/o7cent/is_coconut_oil_healthy/)
