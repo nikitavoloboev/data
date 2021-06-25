@@ -210,3 +210,5 @@
 - [Lil'Log](https://lilianweng.github.io/lil-log/) - Blog about RL.
 - [PyTorch implementation of reinforcement learning algorithms](https://github.com/Khrylx/PyTorch-RL)
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl)
+- [Meta-World](https://github.com/rlworkgroup/metaworld) - Open source robotics benchmark for meta- and multi-task reinforcement learning. ([Web](https://meta-world.github.io/))
+- [garage](https://github.com/rlworkgroup/garage) - Toolkit for reproducible reinforcement learning research.

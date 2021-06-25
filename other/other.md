@@ -500,3 +500,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Free Dev Stuff](https://freestuff.dev/) - List of free stuff or services for developer by developer to use. ([Code](https://github.com/hilmanski/freeStuffDev))
 - [diffsitter](https://github.com/afnanenayet/diffsitter) - tree-sitter based AST difftool to get meaningful semantic diffs.
 - [Mystic Symbolic Creature](https://www.mysticsymbolic.art/)
+- [Creative Commons Media](https://github.com/shime/creative-commons-media) - Curated list of resources that provide media licensed under Creative Commons licenses.

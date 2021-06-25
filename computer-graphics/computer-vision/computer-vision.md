@@ -319,3 +319,4 @@
 - [Self-Supervised Scene De-occlusion (2020)](https://arxiv.org/abs/2004.02788) ([Code](https://github.com/XiaohangZhan/deocclusion))
 - [Pivotal Tuning for Latent-based Editing of Real Images (2021)](https://arxiv.org/abs/2106.05744) ([Code](https://github.com/danielroich/PTI))
 - [FLAME: Articulated Expressive 3D Head Model](https://flame.is.tue.mpg.de/) ([Code](https://github.com/Rubikplayer/flame-fitting))
+- [XCiT: Cross-Covariance Image Transformers (2021)](https://arxiv.org/abs/2106.09681) ([Code](https://github.com/facebookresearch/xcit))

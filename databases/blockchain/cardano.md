@@ -34,3 +34,4 @@
 - [Essential Cardano list](https://github.com/input-output-hk/essential-cardano)
 - [Charles Hoskinson: Cardano (2021)](https://overcast.fm/+eZyBb8vOc)
 - [Cardano DB Sync](https://github.com/input-output-hk/cardano-db-sync) - Component that follows the Cardano chain and stores blocks and transactions in PostgreSQL.
+- [Guide to Cardano](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/)
