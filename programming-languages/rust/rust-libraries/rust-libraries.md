@@ -222,6 +222,7 @@
 - [Cupcake](https://github.com/facebookresearch/Cupcake) - Rust library for lattice-based additive homomorphic encryption.
 - [orion](https://github.com/orion-rs/orion) - Usable, easy and safe pure-Rust crypto.
 - [Curv](https://github.com/ZenGo-X/curv) - Rust language general purpose elliptic curve cryptography.
+- [serde-encrypt](https://github.com/laysakura/serde-encrypt) - Encrypts all the Serialize.
 
 ## Linux
 
