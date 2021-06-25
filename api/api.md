@@ -228,3 +228,4 @@
 - [Zanzibar](https://github.com/uber/zanzibar) - Build system & configuration system to generate versioned API gateways.
 - [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
 - [Micro](https://m3o.com/) - Programmable building blocks for everyday use. ([HN](https://news.ycombinator.com/item?id=27619015))
+- [Notes on streaming large API responses](https://simonwillison.net/2021/Jun/25/streaming-large-api-responses/) ([HN](https://news.ycombinator.com/item?id=27632949))

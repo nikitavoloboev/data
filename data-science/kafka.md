@@ -53,3 +53,4 @@
 - [Confluent Hub](https://www.confluent.io/hub/) - Discover Kafka connectors and more.
 - [Gently Down the Stream - A gentle introduction to Apache Kafka](https://www.gentlydownthe.stream/) ([HN](https://news.ycombinator.com/item?id=27541339))
 - [UI for Apache Kafka](https://github.com/provectus/kafka-ui) - Free open-source web UI for monitoring and management of Apache Kafka clusters.
+- [Starting with Kafka (2021)](https://blog.tinybird.co/2021/06/25/starting-with-kafka/)

@@ -127,3 +127,5 @@
 - [Study shows how taking short breaks may help our brains learn new skills](https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains) ([HN](https://news.ycombinator.com/item?id=27441175))
 - [Ask HN: What huge mistake did you make early in your career? (2021)](https://news.ycombinator.com/item?id=27548204)
 - [Awesome Illustrated Guides](https://github.com/searchableguy/awesome-illustrated-guides)
+- [Ask HN: Technical Summer Reading List (2021)](https://news.ycombinator.com/item?id=27628296)
+- [Ask HN: What Are You Learning? (2021)](https://news.ycombinator.com/item?id=27627381)

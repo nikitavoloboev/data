@@ -451,7 +451,7 @@
 - [Why Rust strings seem hard (2021)](https://www.brandons.me/blog/why-rust-strings-seem-hard) ([HN](https://news.ycombinator.com/item?id=26811879)) ([Lobsters](https://lobste.rs/s/0mvd4x/why_rust_strings_seem_hard))
 - [du it in Rust: async, tokio, streams, and surprises about perf (2021)](https://www.youtube.com/watch?v=35v9BO1g_mA)
 - [What's in the box? (2021)](https://fasterthanli.me/articles/whats-in-the-box) ([Lobsters](https://lobste.rs/s/ilmlls/what_s_box)) ([HN](https://news.ycombinator.com/item?id=26861875))
-- [First steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/) ([HN](https://news.ycombinator.com/item?id=26851425)) ([Videos](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x))
+- [First steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/) ([HN](https://news.ycombinator.com/item?id=26851425)) ([Videos](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)) ([HN](https://news.ycombinator.com/item?id=27632108))
 - [IRust](https://github.com/sigmaSd/IRust) - Cross Platform Rust REPL.
 - [If you could re-design Rust from scratch today, what would you change? (2021)](https://www.reddit.com/r/rust/comments/my3ipa/if_you_could_redesign_rust_from_scratch_today/) ([Lobsters](https://lobste.rs/s/j7zv69/if_you_could_re_design_rust_from_scratch))
 - [Red & blue functions are actually a good thing (2021)](https://blainehansen.me/post/red-blue-functions-are-actually-good/) ([HN](https://news.ycombinator.com/item?id=26940548))

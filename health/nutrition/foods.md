@@ -119,3 +119,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Hot Sauces List](https://nfultz.github.io/notes/hotsauce.html)
 - [New Harvest](https://new-harvest.org/) - Building the Field of Cellular Agriculture.
 - [Nootropic foods (2021)](https://www.reddit.com/r/Nootropics/comments/nljcwn/nootropic_foods/)
+- [FarmBot](https://farm.bot/) - Open Source Farming Robot. ([HN](https://news.ycombinator.com/item?id=27628101))
