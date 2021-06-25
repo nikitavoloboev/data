@@ -121,7 +121,9 @@
 - Don't be cruel in my actions and words. Treat my partner and friends with respect. You are only as pretty as you treat people.
 - Never underestimate how hurt someone can feel by your words and actions. Stop your behavior as soon as you see a person you care about hurt by you.
 - Show genuine interest and love in the other person's lives. Especially my partner.
-- Don't cheat (if it was discussed and is not allowed) in secret. Don't lie. Don't discuss cheating or open relationships if your partner is opposed to it.
+- Make sure you and your partner views align regarding what matters (children, future, open relationship etc).
+- Don't do things in secret if they can be hurtful to your partner (and friends). Don't lie.
+- Don't bring up hurtful topics again and again. Discuss them once and settle on solution, if any.
 - Don't complain needlessly and be a burden to anyone's lives. It's okay to ask for help and hugs. Share your struggles and the wins. Appreciate each other.
 - Go on unique and spontaneous dates. Try and walk every day and spend time together (i.e. get coffee and walk).
 - Don't show bad intentions, the goal of each relationship is to maximize each other's happiness and pleasure in life. Don't take relationships for granted and don't abuse other's love for you.

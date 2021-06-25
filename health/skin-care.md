@@ -27,3 +27,4 @@ I gently shave after shower and use [Brushless Shave Cream](https://www.amazon.c
 - [Your best kept skincare tips you follow that don't involve products? (2021)](https://www.reddit.com/r/SkincareAddiction/comments/n4lb09/miscwhat_are_some_of_your_best_kept_skincare_tips/)
 - [Nice Skin Care Routine](https://www.reddit.com/r/SkincareAddiction/comments/ncemoq/selfie_going_makeupfree_for_the_first_time_in_a/)
 - [SkincareAddiction Wiki](https://www.reddit.com/r/SkincareAddiction/wiki/index)
+- [For those of you 40+, what did you wish you did in your 30's for your skincare? (2021)](https://www.reddit.com/r/SkincareAddiction/comments/o79oyc/personal_for_those_of_you_40_what_did_you_wish/)
