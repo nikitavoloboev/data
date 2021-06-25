@@ -30,3 +30,4 @@
 - [Constructions in combinatorics via neural networks (2021)](https://arxiv.org/abs/2104.14516)
 - [Analytic Number Theory Book Club Meeting Notes](https://antmeet.github.io/boards/)
 - [Essays on the Theory of Numbers by Richard Dedekind](https://www.gutenberg.org/ebooks/21016)
+- [Surreal numbers (2014)](https://ianopolous.peergos.me/maths/surreal)

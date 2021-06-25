@@ -27,4 +27,4 @@
 - [A Deep Dive into QUIC (2020)](https://blog.cloudflare.com/last-call-for-quic/)
 - [Quiwi](https://github.com/goburrow/quic) - QUIC implementation in Go.
 - [mvfst](https://github.com/facebookincubator/mvfst) - Implementation of the QUIC transport protocol.
-- [QUIC at Snap (2021)](https://eng.snap.com/quic-at-snap)
+- [QUIC at Snapchat (2021)](https://eng.snap.com/quic-at-snap) ([HN](https://news.ycombinator.com/item?id=27626394))
