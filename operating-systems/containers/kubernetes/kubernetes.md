@@ -397,3 +397,4 @@
 - [Kubernetes and Docker - An Enterprise Guide (2020)](https://www.packtpub.com/product/kubernetes-and-docker-an-enterprise-guide/9781839213403) ([Code](https://github.com/PacktPublishing/Kubernetes-and-Docker-The-Complete-Guide))
 - [naml](https://github.com/kris-nova/naml) - Not another markup language. Framework for replacing Kubernetes YAML with Go.
 - [Calico](https://github.com/projectcalico/calico) - Open-source networking and security solution for Kubernetes. ([Web](https://www.projectcalico.org/))
+- [Sidero](https://www.sidero.dev/) - Bare metal provisioning system with support for Kubernetes Cluster API. ([Code](https://github.com/talos-systems/sidero))
