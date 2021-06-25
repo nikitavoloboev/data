@@ -873,6 +873,7 @@
 - [granne](https://github.com/granne/granne) - Graph-based Approximate Nearest Neighbor Search.
 - [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python.
 - [TransIter](https://github.com/neithernut/transiter) - Iterator suitable for navigating recursive structures and DAGs in rust.
+- [stdx](https://github.com/brson/stdx) - Missing batteries of Rust.
 
 ## Cargo Plugins
 

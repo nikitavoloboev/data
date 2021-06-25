@@ -39,3 +39,6 @@
 - [Agda lecture notes for the Functional Programming course at TU Delft](https://github.com/jespercockx/agda-lecture-notes)
 - [Formalization of some universal algebra in Agda](https://github.com/andreasabel/universal-algebra)
 - [Well Typed Agda Interpreter](https://github.com/sseefried/well-typed-agda-interpreter)
+- [Typing the linear pi calculus in Agda](https://github.com/umazalakain/typing-linear-pi)
+- [Abstract Binding Trees in Agda](https://github.com/jsiek/abstract-binding-trees)
+- [Gradual Typing in Agda](https://github.com/jsiek/gradual-typing-in-agda) - Formalizations of Gradually Typed Languages in Agda.

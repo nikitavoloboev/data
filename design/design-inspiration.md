@@ -154,6 +154,7 @@ Here are few more things I liked, design wise.
 - [Alistair Shepherd](https://alistairshepherd.uk/)
 - [Surma](https://surma.dev/) ([Code](https://github.com/surma/surma.dev))
 - [Alain](https://alain.xyz/)
+- [Monica Dinculescu](https://meowni.ca/)
 - [Nick Jones](https://narrowdesign.com/)
 - [Julia Miocene](https://miocene.io/) ([Code](https://github.com/Miocene/web-miocene))
 - [Varun Vachhar](https://varun.ca/) ([Code](https://github.com/winkerVSbecks/varun.ca))

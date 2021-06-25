@@ -164,3 +164,4 @@
 - [yair](https://github.com/sheredom/yair) - High-level compiler IR entirely written in Rust.
 - [Tiramisu](https://github.com/Tiramisu-Compiler/tiramisu) - Compiler for expressing fast and portable data parallel computations. ([Web](http://tiramisu-compiler.org/))
 - [A Brief History of Just-in-Time (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
+- [Essentials of Compilation: An Incremental Approach (2018)](https://jeapostrophe.github.io/courses/2018/spring/406/notes/book.pdf)
