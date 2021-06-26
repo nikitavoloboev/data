@@ -406,3 +406,4 @@
 - [Why bugs might feel “impossible” (2021)](https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/) ([HN](https://news.ycombinator.com/item?id=27515944))
 - [Unreliability at Scale (2021)](https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1) ([HN](https://news.ycombinator.com/item?id=27524641))
 - [Ask HN: How to learn proper Systems Programming? (2021)](https://news.ycombinator.com/item?id=27577514)
+- [Immutability Changes Everything (2016)](https://queue.acm.org/detail.cfm?id=2884038) ([HN](https://news.ycombinator.com/item?id=27640308))

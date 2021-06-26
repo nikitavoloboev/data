@@ -95,3 +95,5 @@
 - [Scrapers List](https://github.com/cassidoo/scrapers)
 - [Trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments).
 - [Rarchy](https://rarchy.com/) - Visual Sitemaps & Website Planning Tool. ([HN](https://news.ycombinator.com/item?id=27509682))
+- [CloudProxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. ([HN](https://news.ycombinator.com/item?id=27640217))
+- [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection.
