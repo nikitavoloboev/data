@@ -157,3 +157,4 @@
 - [Top 100 3D Renders from the Internet's Largest CG Challenge | Alternate Realities (2021)](https://www.youtube.com/watch?v=iKBs9l8jS6Q)
 - [ThorVG](https://github.com/Samsung/thorvg) - Platform-independent portable library for drawing vector-based scenes and animations. ([Web](https://www.thorvg.org/))
 - [NVIDIA Canvas](https://www.nvidia.com/en-gb/studio/canvas/) - Turn Simple Brushstrokes into Realistic Images. ([HN](https://news.ycombinator.com/item?id=27626610))
+- [How do games render their scenes? (2021)](https://www.youtube.com/watch?v=Oct4Oi-KfVQ)

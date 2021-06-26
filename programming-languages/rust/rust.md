@@ -506,3 +506,4 @@
 - [Exploring ways to make async Rust easier (2021)](https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/)
 - [A Tour of Safe Tracing GC Designs in Rust (2021)](https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/) ([HN](https://news.ycombinator.com/item?id=27559239))
 - [Rust is not a Company (2021)](https://blog.m-ou.se/rust-is-not-a-company/) ([HN](https://news.ycombinator.com/item?id=27551242))
+- [Type-checked keypaths in Rust (2021)](http://www.cmyr.net/blog/keypaths.html) ([Lobsters](https://lobste.rs/s/z7nqc2/type_checked_keypaths_rust))

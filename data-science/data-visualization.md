@@ -100,3 +100,4 @@
 - [Dataflow](https://github.com/asg017/dataflow) - Self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more. ([Web](https://alexgarcia.xyz/dataflow/)) ([Demo](https://observablehq.com/@asg017/introducing-dataflow)) ([HN](https://news.ycombinator.com/item?id=27145515))
 - [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit.
 - [Creating Data: Deep scatterplots](http://creatingdata.us/techne/deep_scatterplots/#)
+- [Awesome dataviz tools by Cube.js](https://awesome.cube.dev/) ([Reddit](https://www.reddit.com/r/programming/comments/o7poas/opensource_list_of_data_visualization_tools/))
