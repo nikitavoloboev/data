@@ -118,6 +118,7 @@
 - [Algebraic Types' Series Expansions (2021)](https://twitter.com/macrocephalopod/status/1366715423807397889)
 - [Implementing Functional Languages: Tutorial by Simon Peyton Jones and David Lester (2000)](https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf) ([Code](https://github.com/themattchan/core))
 - [Domain Modeling Made Functional with Scott Wlaschin (2020)](https://www.youtube.com/watch?v=9QlhkQl0DSw) ([HN](https://news.ycombinator.com/item?id=27408440))
+- [Functors and Monads for People Who Have Read Too Many “Tutorials” (2021)](http://www.jerf.org/iri/post/2958) ([HN](https://news.ycombinator.com/item?id=27637779))
 
 ## Images
 

@@ -11,3 +11,4 @@
 - [In Game Theory, No Clear Path to Equilibrium (2017)](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/07/in-game-theory-no-clear-path-to-equilibrium-20170718.pdf)
 - [Game Theory | Open Yale Courses](https://oyc.yale.edu/economics/econ-159)
 - [Game theory as an engine for large-scale data analysis (2021)](https://deepmind.com/blog/article/EigenGame) ([HN](https://news.ycombinator.com/item?id=27103333))
+- [Game Theory Through Examples](https://www.maa.org/sites/default/files/pdf/ebooks/GTE_sample.pdf)

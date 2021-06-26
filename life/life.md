@@ -56,3 +56,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [ALiEn](https://alien-project.org/) - GPU-accelerated artificial life simulation program. ([Code](https://github.com/chrxh/alien)) ([HN](https://news.ycombinator.com/item?id=27472224))
 - [Feeling Stuck in Life // Life Advice (2021)](https://www.youtube.com/watch?v=xIk9MXY3-60)
 - [Feeling stuck in your 20's (2021)](https://www.youtube.com/watch?v=BAMH3vJeog8)
+- [Ask HN: Words of encouragement for someone lost in life? (2021)](https://news.ycombinator.com/item?id=27637759)

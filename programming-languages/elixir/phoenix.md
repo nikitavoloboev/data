@@ -46,3 +46,4 @@
 - [Phoenix LiveSession](https://github.com/pentacent/phoenix_live_session) - Live sessions for Phoenix LiveView and Phoenix Controllers.
 - [Phoenix: An Introduction to Elixir's Web Framework (2021)](https://serokell.io/blog/introduction-to-phoenix)
 - [How Phoenix LiveView Works (2021)](https://www.poeticoding.com/how-phoenix-liveview-works/) ([HN](https://news.ycombinator.com/item?id=27629016))
+- [Phoenix with Webpack 5 and TailwindCSS](https://www.batteriesincl.com/posts/phoenix-modern-tailwind-webpack5)

@@ -221,3 +221,4 @@
 - [Mesh: Compacting Memory Management for C/C++ Applications (2019)](https://arxiv.org/abs/1902.04738)
 - [My favourite C++ footgun (2021)](https://dustri.org/b/my-favourite-c-footgun.html) ([HN](https://news.ycombinator.com/item?id=27577601))
 - [Palanteer](https://github.com/dfeneyrou/palanteer) - Set of lean and efficient tools to improve the general software quality, for C++ and Python programs.
+- [Correctly implementing a spinlock in Modern C++ (2020)](https://rigtorp.se/spinlock/) ([HN](https://news.ycombinator.com/item?id=27637287))
