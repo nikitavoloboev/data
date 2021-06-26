@@ -9,3 +9,4 @@
 - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) - Build client web apps with C#.
 - [.NET MAUI](https://github.com/dotnet/maui) - .NET Multi-Platform App UI. ([HN](https://news.ycombinator.com/item?id=26882185))
 - [.NET Memory management](https://www.bschaatsbergen.com/dotnet-memory-management)
+- [Bflat](https://github.com/MichalStrehovsky/bflat) - C# as you know it but with Go-like tooling. ([HN](https://news.ycombinator.com/item?id=27634456))

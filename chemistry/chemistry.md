@@ -22,3 +22,4 @@
 - [Beginners Guide to Understanding Chemistry (2021)](https://www.youtube.com/playlist?list=PLgJIUWVTPrnXLrP25h_UteuawBgb0SyVR)
 - [Reddit Recommended Chemistry Books](https://www.reddit.com/r/chemistry/wiki/books)
 - [Chemistry Resources Collection](https://www.reddit.com/r/Chempros/comments/jput3t/megathread_community_resources_collection/)
+- [Chemical space is really big (2014)](https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article) ([HN](https://news.ycombinator.com/item?id=27634549))
