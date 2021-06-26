@@ -70,3 +70,4 @@
 - [Learn R Through Examples (2020)](https://gexijin.github.io/learnR/index.html) ([HN](https://news.ycombinator.com/item?id=27404103))
 - [robservable](https://github.com/juba/robservable) - Allows the use of Observable notebooks (or parts of them) as htmlwidgets in R. ([Web](https://juba.github.io/robservable/))
 - [jsonlite](https://github.com/jeroen/jsonlite) - Robust, High Performance JSON Parser and Generator for R.
+- [radian](https://github.com/randy3k/radian) - 21 century R console.

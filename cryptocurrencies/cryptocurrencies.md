@@ -111,3 +111,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Index Coop](https://www.indexcoop.com/) - Community-led initiative focused on enabling the creation and adoption of crypto index primitives.
 - [binance-rs](https://github.com/wisespace-io/binance-rs) - Rust Library for the Binance API.
 - [Hedgehog](https://hedgehog.app/) - Cryptocurrency Portfolio Manager. ([HN](https://news.ycombinator.com/item?id=27550255))
+- [Coinbase Pro Recurring Buy Bot](https://github.com/queball99/CoinbasePro-Recurring-Buy) - Python app to automate buying cryptocurrency on the Coinbase Pro exchange. Runs in a Docker container for convenience.

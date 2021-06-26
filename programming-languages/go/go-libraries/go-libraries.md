@@ -853,6 +853,8 @@
 - [Column](https://github.com/kelindar/column) - High-performance, columnar, in-memory store with bitmap indexing in Go. ([HN](https://news.ycombinator.com/item?id=27577193))
 - [smutex](https://github.com/kelindar/smutex) - Sharded Mutex in Go.
 - [Lexical](https://github.com/a-h/lexical) - Set of tools for building parsers using Go.
+- [EventBus](https://github.com/asaskevich/EventBus) - Lightweight eventbus with async compatibility for Go.
+- [bytebufferpool](https://github.com/valyala/bytebufferpool) - Implementation of a pool of byte buffers with anti-memory-waste protection.
 
 ## Links
 
@@ -869,3 +871,5 @@
 - [glice](https://github.com/ribice/glice) - Go license and dependency checker.
 - [gopkgs](https://github.com/uudashr/gopkgs) - Tool to get list available Go packages.
 - [GoCover.io](https://gocover.io/) - See code coverage of any Go package. ([Code](https://github.com/vieux/gocover.io))
+- [gographs](https://gographs.io/) - Renders dependency graphs for Go packages. ([Code](https://github.com/siggy/gographs))
+- [GoImportDot](https://github.com/yqylovy/goimportdot) - Tiny tool to draw a graph of Go package import relationship.
