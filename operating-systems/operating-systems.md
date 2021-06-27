@@ -100,6 +100,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Kerla](https://github.com/nuta/kerla) - New operating system kernel with Linux binary compatibility written in Rust.
 - [rustboot](https://github.com/haileysome/rustboot) - Tiny 32 bit kernel written in Rust.
 - [mycelium](https://github.com/hawkw/mycelium) - Hobby OS in Rust.
+- [WINIX OS](https://github.com/halfer53/winix) - UNIX-style Operating System for the Waikato RISC Architecture Microprocessor. ([HN](https://news.ycombinator.com/item?id=27647079))
 
 ## Notes
 
