@@ -43,3 +43,4 @@
 - [Grafana Agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud.
 - [Why and how GitHub is adopting OpenTelemetry (2021)](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/) ([HN](https://news.ycombinator.com/item?id=27294890))
 - [Logging is important (2021)](https://gcollazo.com/logging-is-important/)
+- [NanoLog](https://github.com/PlatformLab/NanoLog) - Extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.

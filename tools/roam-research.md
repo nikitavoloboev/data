@@ -71,3 +71,4 @@
 - [Free Roam](https://github.com/cofinley/free-roam) - Attempt to recreate the major parts of Roam for offline use.
 - [How I became more productive during the pandemic (2021)](https://blakestephenanderson.medium.com/how-i-became-more-productive-during-the-pandemic-ab5cb68c0d9f)
 - [Roam Toolkit](https://github.com/roam-unofficial/roam-toolkit) - Roam force multiplier.
+- [Roam JS Extensions](https://github.com/dvargas92495/roam-js-extensions) ([Web](https://roamjs.com/))
