@@ -77,6 +77,7 @@
 - [Editscript](https://github.com/juji-io/editscript) - Diff and patch for Clojure/Clojurescript data.
 - [Cybermonday](https://github.com/kiranshila/cybermonday) - Markdown as Clojure Data.
 - [fset](https://github.com/droitfintech/fset) - Faster clojure.set functions.
+- [riddley](https://github.com/ztellman/riddley) - Code-walking without caveats.
 
 ## Links
 

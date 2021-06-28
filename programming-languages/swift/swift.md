@@ -215,3 +215,4 @@
 - [URLSession: Common pitfalls with background download & upload tasks (2021)](https://www.avanderlee.com/swift/urlsession-common-pitfalls-with-background-download-upload-tasks/)
 - [Swift needs a better language reference (2021)](https://oleb.net/2021/swift-language-reference/)
 - [buildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) - All you need to build Swift on a RaspberryPi or other ARM boards.
+- [Swift MemoryLayout Description](https://github.com/TannerJin/Swift-MemoryLayout)

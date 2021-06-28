@@ -102,6 +102,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Auxl](https://auxl.io/) - Modular API Client for macOS. ([HN](https://news.ycombinator.com/item?id=27352405))
 - [TRex](https://github.com/amebalabs/TRex) - Easy to use text extraction tool for macOS.
 - [Yippy](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager. ([Web](https://yippy.mattdavo.com/))
+- [Download Full Installer](https://github.com/scriptingosx/DownloadFullInstaller) - macOS application written in SwiftUI that downloads installer pkgs for the Install macOS Big Sur application.
 
 ## Other interesting apps
 

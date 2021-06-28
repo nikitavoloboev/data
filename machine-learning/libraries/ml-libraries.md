@@ -159,3 +159,4 @@
 - [TNN](https://github.com/Tencent/TNN) - High-performance, lightweight neural network inference framework.
 - [Parallax](https://github.com/srush/parallax) - Immutable Torch Modules for JAX.
 - [EvalAI](https://github.com/Cloud-CV/EvalAI) - Open source platform for evaluating and comparing machine learning (ML) and artificial intelligence (AI) algorithms at scale. ([Web](https://eval.ai/))
+- [Avalanche](https://github.com/ContinualAI/avalanche) - End-to-End Library for Continual Learning. ([Docs](https://avalanche.continualai.org/))
