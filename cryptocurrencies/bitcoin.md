@@ -149,3 +149,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Sidecar Channels: For Onboarding A Billion People to Bitcoin, Lightning Is Needed (2021)](https://lightning.engineering/posts/2021-05-26-sidecar-channels/)
 - [Bitcoin Design](https://bitcoin.design/) - Open-source design for Bitcoin products. ([Guide](https://bitcoin.design/guide/)) ([GitHub](https://github.com/BitcoinDesign))
 - [A from-scratch tour of Bitcoin in Python (2021)](https://karpathy.github.io/2021/06/21/blockchain/) ([HN](https://news.ycombinator.com/item?id=27593772)) ([Code](https://github.com/karpathy/cryptos))
+- [Bitcoin myths: immutability, decentralisation, and the cult of “21 million” (2021)](https://davidgerard.co.uk/blockchain/2021/06/27/bitcoin-myths-immutability-decentralisation-and-the-cult-of-21-million/)

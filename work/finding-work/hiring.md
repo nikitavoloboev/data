@@ -93,3 +93,4 @@
 - [Ask HN: What do you use to pay out multiple people (Stripe/Wise/PayPal, others?) (2021)](https://news.ycombinator.com/item?id=27394765)
 - [Ask HN: What things that tech recruiters do, annoy you the most as an engineer? (2021)](https://news.ycombinator.com/item?id=27490018)
 - [Recruiting during hyperscale from the guy who did it at DoorDash and Carta (2021)](https://twitter.com/NolanChurch/status/1407465682262839297)
+- [How we hire engineers](https://engineering.outschool.com/posts/how-we-hire-engineers/)

@@ -33,3 +33,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [The Wires of War: Technology and the Global Struggle for Power by Jacob Helberg (2021)](https://www.goodreads.com/book/show/56898159-the-wires-of-war) ([Tweet](https://twitter.com/maccaw/status/1401936733248397312))
 - [The Sad End Of Jack Ma Inc. (2021)](https://www.forbes.com/sites/georgecalhoun/2021/06/07/the-sad-end-of-jack-ma-inc/) ([HN](https://news.ycombinator.com/item?id=27448998))
 - [China: A Normal Country? (2021)](https://diff.substack.com/p/a-normal-country)
+- [Book Review: How Asia Works (2021)](https://astralcodexten.substack.com/p/book-review-how-asia-works)
