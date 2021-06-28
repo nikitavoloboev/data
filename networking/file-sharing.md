@@ -69,3 +69,4 @@
 - [Send](https://send.vis.ee/) - Encrypt and send files with a link that automatically expires to ensure your important documents don't stay online forever.
 - [Triox](https://github.com/AaronErhardt/Triox) - Free file hosting server that focuses on speed, reliability and security.
 - [portal](https://github.com/jackyzha0/portal) - Zero-config peer-to-peer encrypted live folder syncing tool that respects your .gitignore.
+- [sfz](https://github.com/weihanglo/sfz) - Simple static file serving command-line tool written in Rust.

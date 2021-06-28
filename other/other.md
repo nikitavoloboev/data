@@ -136,7 +136,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Backstage](https://github.com/spotify/backstage) - Open platform for building developer portals. ([Web](https://backstage.io/))
 - [Ask HN: Best Stripe Alternatives? (2020)](https://news.ycombinator.com/item?id=22596082)
 - [Incrementally Correct Personal Websites](https://brianlovin.com/overthought/incrementally-correct-personal-websites)
-- [Mumble](https://github.com/mumble-voip/mumble) - Open source, low-latency, high quality voice chat software primarily intended for use while gaming.
+- [Mumble](https://github.com/mumble-voip/mumble) - Open-Source, Low Latency, High Quality Voice Chat. ([Web](https://www.mumble.info/)) ([HN](https://news.ycombinator.com/item?id=27648915))
 - [Performous](https://performous.org/) - Open-source music and rhythm game. ([Code](https://github.com/performous/performous))
 - [Next generation Plex Desktop/Embedded Client](https://github.com/plexinc/plex-media-player)
 - [Modern Day Jobs](https://moderndayjobs.com/#home) - 100 modern ways to make money online.
