@@ -35,4 +35,4 @@
 - [Nice illustration of TCP/IP vs. the OSI model](https://twitter.com/rtzll/status/1391459216771145728)
 - [Armada](https://github.com/resyncgg/armada) - High-Performance TCP SYN scanner.
 - [Name-based Virtual Hosting in TCP](http://www.litech.org/~brian/tcphosts/paper.html)
-- [Let's code a TCP/IP stack](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/) ([HN](https://news.ycombinator.com/item?id=27654182))
+- [Let's code a TCP/IP stack (2016)](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/) ([HN](https://news.ycombinator.com/item?id=27654182))

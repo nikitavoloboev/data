@@ -59,3 +59,4 @@ I especially like the distinction of distributing content over distributing link
 - [Hic et Nunc Tools](https://github.com/atomantic/hicetnunc_tools) - Auditing, IPFS Pinning, and other tools for creators, collectors, and network support of Hic et Nunc.
 - [IPFS-Lite](https://github.com/hsanjuan/ipfs-lite) - Embeddable, lightweight IPFS-network peer for IPLD applications.
 - [Uploading Files to IPFS from a Web Application (2021)](https://dev.to/dabit3/uploading-files-to-ipfs-from-a-web-application-50a)
+- [IPDS](https://ipds.io/) - Subdomains for IPFS. ([HN](https://news.ycombinator.com/item?id=27660253))

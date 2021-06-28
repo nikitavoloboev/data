@@ -129,3 +129,4 @@
 - [LIPS](https://github.com/jcubic/lips) - Scheme based powerful lisp interpreter written in JavaScript.
 - [Original Hacker News Source Code (2009)](https://github.com/wting/hackernews) ([HN](https://news.ycombinator.com/item?id=27452276))
 - [Parentheses are Just Typechecking (2021)](https://adam.nels.onl/blog/parentheses-are-just-typechecking/)
+- [BLisp](https://github.com/ytakano/blisp) - Statically Typed Lisp Like Language. ([Docs](https://ytakano.github.io/blisp/)) ([HN](https://news.ycombinator.com/item?id=27640984))

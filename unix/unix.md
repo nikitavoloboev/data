@@ -58,3 +58,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Unix Philosophy with an Example (2019)](https://massimo-nazaria.github.io/blog/2019/03/02/unix-philosophy-with-an-example.html) ([Lobsters](https://lobste.rs/s/0zuri5/unix_philosophy_with_example))
 - [Dark Side Of Posix Apis (2021)](https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html)
 - [Ghosts of Unix Past](https://lwn.net/Articles/411845/) ([HN](https://news.ycombinator.com/item?id=27183784))
+- [Evolution of the Unix System Architecture: An Exploratory Case Study (2019)](https://ieeexplore.ieee.org/document/8704965)

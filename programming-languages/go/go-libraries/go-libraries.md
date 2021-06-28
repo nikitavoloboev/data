@@ -856,6 +856,7 @@
 - [Lexical](https://github.com/a-h/lexical) - Set of tools for building parsers using Go.
 - [EventBus](https://github.com/asaskevich/EventBus) - Lightweight eventbus with async compatibility for Go.
 - [bytebufferpool](https://github.com/valyala/bytebufferpool) - Implementation of a pool of byte buffers with anti-memory-waste protection.
+- [PHC Crypto](https://github.com/aldy505/phc-crypto) - Hashing algorithms simplified.
 
 ## Links
 

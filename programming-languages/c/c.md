@@ -159,3 +159,4 @@
 - [Modern C for C++ Peeps (2019)](https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html)
 - [Libdill: Structured Concurrency for C (2016)](http://libdill.org/structured-concurrency.html) ([HN](https://news.ycombinator.com/item?id=27357295))
 - [Goodbye C++, Hello C (2021)](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html) ([HN](https://news.ycombinator.com/item?id=27637266))
+- [CompCert](https://github.com/AbsInt/CompCert) - Formally-verified C compiler. ([Web](https://compcert.org/)) ([HN](https://news.ycombinator.com/item?id=27648735))

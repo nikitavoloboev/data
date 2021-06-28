@@ -55,3 +55,4 @@ Is logical theory of computable functions.
 - [Visual Lambda Calculus Explorer](https://twitter.com/prathyvsh/status/1188787773441888257)
 - [Binary Lambda Calculus (2012)](https://www.ioccc.org/2012/tromp/hint.html) ([HN](https://news.ycombinator.com/item?id=26769650))
 - [Simply typed lambda calculus (2020)](https://splintah.github.io/posts/2020-05-24-Simply-typed-lambda.html)
+- [Lambda Calculus Examples (2009)](https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/lambda-calculus-handout.pdf) ([HN](https://news.ycombinator.com/item?id=27648871))
