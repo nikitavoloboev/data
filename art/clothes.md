@@ -42,3 +42,4 @@
 - [Nice dresses thread](https://twitter.com/pivoismylife/status/1389665040442273798)
 - [Inspiration sources for men clothes](https://twitter.com/jackiehluo/status/1393592955663958020)
 - [Models.com](https://models.com/) - Top model rankings, modeling, fashion and creative industry news.
+- [Tens Sunglasses](https://tens.co/) - Filter Your World.

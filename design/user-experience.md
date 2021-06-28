@@ -98,3 +98,4 @@
 - [3 conversion killers in onboarding (2021)](https://twitter.com/RamliJohn/status/1401950036997537792)
 - [What I learnt roasting 200 landing pages (2021)](https://blog.roastmylandingpage.com/landing-page-roasts/) ([HN](https://news.ycombinator.com/item?id=27140440))
 - [User Inyerface](https://userinyerface.com/) - Worst-practice UI experiment. ([HN](https://news.ycombinator.com/item?id=27635310))
+- [Reddit’s disrespectful design (2021)](https://ognjen.io/reddits-disrespectful-design/) ([HN](https://news.ycombinator.com/item?id=27641366))

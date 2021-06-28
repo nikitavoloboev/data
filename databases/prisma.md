@@ -55,3 +55,4 @@
 - [GoPrisma](https://github.com/jensneuse/goprisma) - Go wrapper for prisma to turn databases into GraphQL APIs using Go.
 - [prisma-repl](https://github.com/egoist/prisma-repl) - REPL for Prisma databases.
 - [Prisma-AppSync](https://github.com/maoosi/prisma-appsync) - Converts your Prisma Schema into a full-blown GraphQL API for AWS AppSync. ([Docs](https://prisma-appsync.vercel.app/))
+- [Prisma Labs GitHub](https://github.com/prisma-labs)

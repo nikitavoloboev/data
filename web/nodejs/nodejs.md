@@ -225,3 +225,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Volt](https://www.voltpkg.com/) - Fastest Node.js Package Manager. ([Code](https://github.com/voltpkg/volt))
 - [workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser.
 - [esbuild-node-externals](https://github.com/pradel/esbuild-node-externals) - Esbuild plugin to easily exclude node modules during builds.
+- [Bema](https://github.com/prisma-labs/bema) - Delightful benchmarking for Node.js.

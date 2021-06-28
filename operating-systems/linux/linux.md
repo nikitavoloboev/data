@@ -331,3 +331,4 @@
 - [Introduction to eBPF (2021)](https://oswalt.dev/2021/01/introduction-to-ebpf/)
 - [Linux Network Examples](https://github.com/knorrie/network-examples)
 - [Avoiding Complexity with Systemd (2021)](https://mgdm.net/weblog/systemd/) ([HN](https://news.ycombinator.com/item?id=27649342)) ([Lobsters](https://lobste.rs/s/xxyjxl/avoiding_complexity_with_systemd))
+- [Understanding thread stack sizes and how alpine is different (2021)](https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/)

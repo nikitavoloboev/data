@@ -538,6 +538,7 @@
 - [Hover Effect](https://github.com/robin-dela/hover-effect) - JavaScript library to draw and animate images on hover.
 - [Js Search](https://github.com/bvaughn/js-search) - Efficient, client-side search library for JavaScript and JSON objects.
 - [js-worker-search](https://github.com/bvaughn/js-worker-search) - Full text client-side search based on js-search but with added web-worker support for better performance.
+- [domino](https://github.com/fgnass/domino) - Server-side DOM implementation based on Mozilla's dom.js.
 
 ## Links
 

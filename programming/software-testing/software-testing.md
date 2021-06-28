@@ -93,3 +93,4 @@
 - [start-server-and-test](https://github.com/bahmutov/start-server-and-test) - Starts server, waits for URL, then runs test command; when the tests end, shuts down server.
 - [On the Diverse And Fantastical Shapes of Testing (2021)](https://martinfowler.com/articles/2021-test-shapes.html) ([Tweet](https://twitter.com/samnewman/status/1400426270803042305))
 - [TDD from the Factorio Team (2021)](https://factorio.com/blog/post/fff-366) ([HN](https://news.ycombinator.com/item?id=27549143))
+- [AtomicJar](https://www.atomicjar.com/) - Make integration testing easier for developers across the software development lifecycle.
