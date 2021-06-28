@@ -38,3 +38,4 @@
 - [Stanford Objective C Lecture (2017)](https://www.youtube.com/watch?v=o3t52-ZxFtU)
 - [Objective-C for Swift Developers Book](https://www.hackingwithswift.com/store/objective-c-for-swift-developers)
 - [Constant Literals in Objective-C (2021)](https://blog.andrewmadsen.com/2021/06/07/constant-literals-in.html)
+- [Zen and the Art of the Objective-C Craftsmanship](https://github.com/objc-zen/objc-zen-book)

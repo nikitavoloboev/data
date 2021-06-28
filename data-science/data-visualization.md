@@ -101,3 +101,4 @@
 - [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit.
 - [Creating Data: Deep scatterplots](http://creatingdata.us/techne/deep_scatterplots/#)
 - [Awesome dataviz tools by Cube.js](https://awesome.cube.dev/) ([Reddit](https://www.reddit.com/r/programming/comments/o7poas/opensource_list_of_data_visualization_tools/))
+- [Framework for visualizing data encoded as JSON](https://github.com/hediet/visualization)

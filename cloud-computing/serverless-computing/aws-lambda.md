@@ -69,3 +69,4 @@
 - [AWS Lambda performance optimization (2021)](https://betterdev.blog/aws-lambda-performance-optimization/)
 - [Llama](https://github.com/nelhage/llama) - CLI for outsourcing computation to Amazon Lambda.
 - [Behind the scenes, AWS Lambda](https://www.bschaatsbergen.com/behind-the-scenes-lambda)
+- [Lambda-local](https://github.com/ashiina/lambda-local) - Lets you test NodeJS Amazon Lambda functions on your local machine, by providing a simplistic API and command-line tool.
