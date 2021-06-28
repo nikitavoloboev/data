@@ -8,6 +8,7 @@
 - [My firmest design opinion is that every piece of software should have a cute animal mascot that helps you out as you go through onboarding and stuff. No exceptions.](https://twitter.com/ctbeiser/status/1367626163405746176)
 - [There are lots of things that engineers can learn from the design community but these two are particularly important: 1. Being able to visually compare variations of your work side by side is really useful. 2. Creating duplicates of your current work should be fast and easy.](https://twitter.com/tylerangert/status/1390680065399209989)
 - [Rare destructive action where you need to be sure of user intention.](https://twitter.com/steveruizok/status/1407751390961750021)
+- [Don't use 16px icons on web, they're hard to tap. If you want to use 16px, wrap it in a 24px container, this will increase the tappable area, whilst maintaining the size of the icon.](https://twitter.com/darylginn/status/1409534276341841922)
 
 ## Links
 

@@ -88,7 +88,7 @@
 - [Recursive SQL Queries with PostgreSQL (2020)](https://towardsdatascience.com/recursive-sql-queries-with-postgresql-87e2a453f1b)
 - [How one word in PostgreSQL unlocked a 9x performance improvement (2020)](https://jlongster.com/how-one-word-postgresql-performance) ([HN](https://news.ycombinator.com/item?id=23516947))
 - [pgCenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.
-- [Supabase](https://supabase.io/) - Adds realtime and restful APIs to Postgres without a single line of code. ([[HN](https://news.ycombinator.com/item?id=23319901)]) ([Code](https://github.com/supabase/postgres)) ([Docs](https://github.com/supabase/supabase)) ([JS client](https://github.com/supabase/supabase-js)) ([CLI](https://github.com/supabase/cli)) ([Supabase with Paul Copplestone](https://fsjam.org/episodes/episode-33-supabase-with-paul-copplestone)) ([Tweet](https://twitter.com/jones_spencera/status/1398685797071474688))
+- [Supabase](https://supabase.io/) - Adds realtime and restful APIs to Postgres without a single line of code. ([[HN](https://news.ycombinator.com/item?id=23319901)]) ([Code](https://github.com/supabase/postgres)) ([Docs](https://github.com/supabase/supabase)) ([JS client](https://github.com/supabase/supabase-js)) ([CLI](https://github.com/supabase/cli)) ([Supabase with Paul Copplestone](https://fsjam.org/episodes/episode-33-supabase-with-paul-copplestone)) ([Tweet](https://twitter.com/jones_spencera/status/1398685797071474688)) ([Tweet](https://twitter.com/TheJackForge/status/1409278033601515521))
 - [Queries to monitor your PostgreSQL database](https://github.com/nilenso/postgresql-monitoring)
 - [PostgreSQL BRIN Indexes: Big Data Performance With Minimal Storage (2019)](https://info.crunchydata.com/blog/postgresql-brin-indexes-big-data-performance-with-minimal-storage)
 - [PostgreSQL query parallelism can be like a box of chocolates (2020)](https://swarm64.com/post/increase-postgresql-parallelism/)
@@ -279,3 +279,4 @@
 - [embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run an embedded PostgreSQL database in Go application or test.
 - [Hierarchical Structures in PostgreSQL](https://hoverbear.org/blog/postgresql-hierarchical-structures/) ([HN](https://news.ycombinator.com/item?id=27631765))
 - [pgsh](https://github.com/sastraxi/pgsh) - PostgreSQL tools for local development.
+- [How to best store audio files in PostgreSQL (2021)](https://twitter.com/kentcdodds/status/1409516218478841860)

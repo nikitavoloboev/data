@@ -107,3 +107,4 @@
 - [David Hume: Causation](https://iep.utm.edu/hume-cau/)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [Multidimensional Kalman-Filter](https://github.com/balzer82/Kalman) - Some Python Implementations of the Kalman Filter.
+- [Introduction to Modern Statistics Book](https://openintro-ims.netlify.app/) - College-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. ([Code](https://github.com/OpenIntroStat/ims))

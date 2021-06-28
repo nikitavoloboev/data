@@ -93,7 +93,7 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Star History and Stats](https://seladb.github.io/StarTrack-js/) ([Code](https://github.com/seladb/StarTrack-js))
 - [Most active GitHub users in Worldwide](https://commits.top/worldwide.html) ([Code](https://github.com/lauripiispanen/most-active-github-users-counter))
 - [github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
-- [Auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
+- [Auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests. ([Web](https://intuit.github.io/auto/)) ([Tweet](https://twitter.com/winkerVSbecks/status/1409516685091033088))
 - [GitHub Polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues.
 - [gh](https://github.com/cli/cli) - GitHub CLI tool. ([Article](https://johnpapa.net/try-githubs-new-cli-gh/)) ([HN](https://news.ycombinator.com/item?id=22310516)) ([HN 2](https://news.ycombinator.com/item?id=22864465)) ([HN 3](https://news.ycombinator.com/item?id=24504074)) ([Reddit](https://www.reddit.com/r/devops/comments/n16gy7/why_github_cli_is_not_widely_used/))
 - [gg](https://github.com/danielecook/gg) - Github Gists from the command line.

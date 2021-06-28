@@ -58,3 +58,4 @@ I especially like the distinction of distributing content over distributing link
 - [Distributed Web Gateway | Cloudflare](https://www.cloudflare.com/distributed-web-gateway/) - Simplify, speed up, and secure access to both the Ethereum network and the InterPlanetary File System (IPFS).
 - [Hic et Nunc Tools](https://github.com/atomantic/hicetnunc_tools) - Auditing, IPFS Pinning, and other tools for creators, collectors, and network support of Hic et Nunc.
 - [IPFS-Lite](https://github.com/hsanjuan/ipfs-lite) - Embeddable, lightweight IPFS-network peer for IPLD applications.
+- [Uploading Files to IPFS from a Web Application (2021)](https://dev.to/dabit3/uploading-files-to-ipfs-from-a-web-application-50a)

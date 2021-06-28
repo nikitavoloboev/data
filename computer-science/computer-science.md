@@ -133,3 +133,4 @@
 - [Offbeat Computation Club](https://offbeat.cc/) - Mathematics and computation book club.
 - [College Compendium](https://collegecompendium.goldin.io/) - Collection of 650+ university CS courses for the curious.
 - [Information Theory: A Tutorial Introduction (2018)](https://arxiv.org/abs/1802.05968) ([HN](https://news.ycombinator.com/item?id=27642906))
+- [Is this true? (2021)](https://thatjdanisso.cool/is-this-true)
