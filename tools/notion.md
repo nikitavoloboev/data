@@ -61,3 +61,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Synced blocks](https://www.notion.so/Synced-blocks-beta-a06081bfe98d4fb0b8ec0dd92e4cfcec)
 - [go-notion](https://github.com/dstotijn/go-notion) - Go client for the Notion API.
 - [Notion Swift API](https://github.com/noppefoxwolf/notion)
+- [Loconotion](https://github.com/leoncvlt/loconotion) - Python tool to turn Notion.so pages into lightweight, customizable static websites.

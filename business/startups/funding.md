@@ -114,3 +114,4 @@
 - [Chemistry Capital](https://chemistry.capital/)
 - [Backbone Angels](https://www.backboneangels.com/)
 - [Software that makes fund closing process go smooth (2021)](https://twitter.com/matthewclifford/status/1408012167799099394)
+- [Tiny Acquisitions](https://tinyacquisitions.com/home) - Removing the friction from buying and selling small web based projects built by creators.

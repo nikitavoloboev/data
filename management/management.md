@@ -116,3 +116,4 @@
 - [How We Work at Railway (2021)](https://blog.railway.app/p/how-we-work)
 - [Micro-Habits of Effective Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers) ([HN](https://news.ycombinator.com/item?id=27544826))
 - [Awesome Engineering Management](https://github.com/ixaxaar/awesome-engineering-management) ([HN](https://news.ycombinator.com/item?id=27563259))
+- [The Handbook of Handbooks for Decentralised Organising](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view)
