@@ -330,3 +330,4 @@
 - [Pulling GitHub into the Linux kernel process (2021)](https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/) ([HN](https://news.ycombinator.com/item?id=27611704))
 - [Introduction to eBPF (2021)](https://oswalt.dev/2021/01/introduction-to-ebpf/)
 - [Linux Network Examples](https://github.com/knorrie/network-examples)
+- [Avoiding Complexity with Systemd (2021)](https://mgdm.net/weblog/systemd/) ([HN](https://news.ycombinator.com/item?id=27649342)) ([Lobsters](https://lobste.rs/s/xxyjxl/avoiding_complexity_with_systemd))
