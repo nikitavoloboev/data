@@ -277,3 +277,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [How the Next Layer of the Internet Is Going to Be Standardized (2021)](https://www.mnot.net/blog/2021/06/21/standards-competition-governance) ([HN](https://news.ycombinator.com/item?id=27586081))
 - [Web Applications Working Group](https://www.w3.org/2019/webapps/) ([Code](https://github.com/w3c/webappswg))
 - [A framework for building Open Graph images (2021)](https://github.blog/2021-06-22-framework-building-open-graph-images/)
+- [You have one shot to redesign the Internet. What are you going to change? (2021)](https://news.ycombinator.com/item?id=27663618)

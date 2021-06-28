@@ -297,3 +297,4 @@
 - [Advanced console.log Tips and Tricks (2020)](https://medium.com/nmc-techblog/advanced-console-log-tips-tricks-fa3762930bca) ([HN](https://news.ycombinator.com/item?id=27499335))
 - [Testing JavaScript Applications Book (2021)](https://www.manning.com/books/testing-javascript-applications) ([Code](https://github.com/lucasfcosta/testing-javascript-applications))
 - [JavaScript Is Weird](https://jsisweird.com/) ([HN](https://news.ycombinator.com/item?id=27659590))
+- [Temporal: Getting started with JavaScript's new date time API (2021)](https://2ality.com/2021/06/temporal-api.html) ([HN](https://news.ycombinator.com/item?id=27661667))
