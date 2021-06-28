@@ -49,3 +49,6 @@
 - [Conflict-free Reinterpretable Ordered Washed Data (CROWD)](https://github.com/hyoo-ru/crowd.hyoo.ru) - Like CRDT but better. ([Demo](https://crowd.hyoo.ru/))
 - [crdt-tree](https://github.com/codesandbox/crdt-tree) - Implementation of a tree Conflict-Free Replicated Data Type in TS.
 - [CRDT Tutorial for Beginners](https://github.com/ljwagerfield/crdt)
+- [CRDT optimizations (2021)](https://bartoszsypytkowski.com/crdt-optimizations/)
+- [Pure operation-based CRDTs (2021)](https://bartoszsypytkowski.com/pure-operation-based-crdts/)
+- [Operation-based CRDTs: JSON document (2021)](https://bartoszsypytkowski.com/operation-based-crdts-json-document/)

@@ -39,3 +39,4 @@
 - [Objective-C for Swift Developers Book](https://www.hackingwithswift.com/store/objective-c-for-swift-developers)
 - [Constant Literals in Objective-C (2021)](https://blog.andrewmadsen.com/2021/06/07/constant-literals-in.html)
 - [Zen and the Art of the Objective-C Craftsmanship](https://github.com/objc-zen/objc-zen-book)
+- [libobjc2](https://github.com/gnustep/libobjc2) - Objective-C runtime library intended for use with Clang.

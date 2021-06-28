@@ -42,3 +42,4 @@
 - [Typing the linear pi calculus in Agda](https://github.com/umazalakain/typing-linear-pi)
 - [Abstract Binding Trees in Agda](https://github.com/jsiek/abstract-binding-trees)
 - [Gradual Typing in Agda](https://github.com/jsiek/gradual-typing-in-agda) - Formalizations of Gradually Typed Languages in Agda.
+- [agda-algebras](https://github.com/ualib/agda-algebras) - The Agda Universal Algebra Library.

@@ -120,6 +120,7 @@
 - [Improvements to Jupyter Notebooks (2021)](https://twitter.com/isosteph/status/1376563122605944832)
 - [Voila](https://github.com/voila-dashboards/voila) - Turns Jupyter notebooks into standalone web applications.
 - [JupyterLite](https://jupyterlite.vercel.app/doc/workspaces) - WASM powered Jupyter running in the browser. ([Code](https://github.com/jtpio/jupyterlite)) ([HN](https://news.ycombinator.com/item?id=27323548))
+- [JupyterLite Demo](https://github.com/jtpio/jupyterlite-demo) - JupyterLite demo deployed to GitHub Pages.
 - [Jupyter Kernel Gateway](https://github.com/jupyter/kernel_gateway) - Web server that provides headless access to Jupyter kernels.
 - [Jupyter Client](https://github.com/jupyter/jupyter_client) - Jupyter protocol client APIs.
 - [Streambook](https://github.com/srush/streambook) - Live Python Notebooks with any Editor.
