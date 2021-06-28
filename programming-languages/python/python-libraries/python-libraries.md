@@ -449,3 +449,4 @@
 - [PDM](https://github.com/pdm-project/pdm) - Modern Python package manager with PEP 582 support.
 - [Python Wheel Standard](https://github.com/pypa/wheel)
 - [Python Packaging Authority](https://www.pypa.io/en/latest/) ([GitHub](https://github.com/pypa))
+- [Python Packages Project Generator](https://github.com/TezRomacH/python-package-template)
