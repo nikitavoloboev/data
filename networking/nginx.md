@@ -6,6 +6,7 @@
 
 ## Links
 
+- [NGINX Explained in 100 Seconds (2020)](https://www.youtube.com/watch?v=JKxlsvZXG7c)
 - [HTTPS-PORTAL](https://github.com/SteveLTN/https-portal) - Fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [Nginx configuration generator](https://github.com/valentinxxx/nginxconfig.io)
 - [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference) ([HN](https://news.ycombinator.com/item?id=19112090)) - Notes describes how to improve Nginx performance, security and other important things.
@@ -40,4 +41,5 @@
 - [Nginx Cheatsheet (2021)](https://vishnu.hashnode.dev/nginx-cheatsheet)
 - [The NGINX Handbook (2021)](https://www.freecodecamp.org/news/the-nginx-handbook/)
 - [Nice nginx features for developers (2021)](https://alex.dzyoba.com/blog/nginx-features-for-developers/) ([Lobsters](https://lobste.rs/s/kewdvx/nice_nginx_features_for_developers))
+- [Nice nginx features for operators (2021)](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
 - [Nginx tuning tips: TLS/SSL HTTPS - Improved TTFB/latency (2021)](https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/)

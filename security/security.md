@@ -161,3 +161,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [resync](https://resync.gg/) - Curate, monitor, and derive signal from the world's attack surface.
 - [Aqua Security](https://www.aquasec.com/) - Full lifecycle security for containers and cloud-native applications. ([GitHub](https://github.com/aquasecurity))
 - [Starting Up Security](https://scrty.io/) - Collection of information security essays and links to help growing teams manage risks.
+- [How We Protect Pinners’ Passwords (2021)](https://medium.com/pinterest-engineering/how-we-protect-pinners-passwords-e769135734d)

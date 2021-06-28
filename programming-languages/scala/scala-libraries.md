@@ -4,6 +4,8 @@
 
 - [Slinky](https://github.com/shadaj/slinky) - Framework for writing React apps in Scala with an experience just like using ES6.
 - [Http4s](https://github.com/http4s/http4s) - Minimal, idiomatic Scala interface for HTTP services.
+- [tapir](https://github.com/softwaremill/tapir) - Describe HTTP API endpoints as immutable Scala values. ([Docs](https://tapir.softwaremill.com/en/latest/))
+- [sttp](https://github.com/softwaremill/sttp) - Scala HTTP client you always wanted. ([Docs](https://sttp.softwaremill.com/en/latest/))
 
 ## CLI
 
@@ -73,6 +75,7 @@
 - [Chimney](https://github.com/scalalandio/chimney) - Scala library for boilerplate-free, type-safe data transformations.
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf) - Library for RDF, SPARQL and Linked Data technologies in Scala.
 - [Scio](https://github.com/spotify/scio) - Scala API for Apache Beam and Google Cloud Dataflow.
+- [MacWire](https://github.com/softwaremill/macwire) - Lightweight and Nonintrusive Scala Dependency Injection Library.
 
 ## Links
 

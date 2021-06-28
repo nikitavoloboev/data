@@ -190,6 +190,7 @@
 - [Imaginary Cloud](https://web.imaginarycloud.com/) - Software Development & UI/UX Design.
 - [TypeFox](https://www.typefox.io/)
 - [Good Work](https://simplygoodwork.com/)
+- [SoftwareMill](https://softwaremill.com/) - Scala, Java, Blockchain, Big Data, Machine Learning.
 
 ## Notes
 

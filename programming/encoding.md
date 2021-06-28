@@ -27,3 +27,4 @@
 - [Concise Encoding](https://concise-encoding.org/) - Friendly data format for human and machine. Ad-hoc, secure, with 1:1 compatible twin binary and text formats and rich type support. ([Code](https://github.com/kstenerud/concise-encoding))
 - [Practical Reed-Solomon for Programmers (2021)](https://berthub.eu/articles/posts/reed-solomon-for-programmers/)
 - [Apache Avro](https://github.com/apache/avro) - Data serialization system. ([Web](https://avro.apache.org/))
+- [Unicode sorting is hard & why browsers added special emoji matching to regexp (2021)](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
