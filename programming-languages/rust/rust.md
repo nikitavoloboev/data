@@ -463,7 +463,7 @@
 - [xargo](https://github.com/japaric/xargo) - Sysroot manager that lets you build and customize `std`.
 - [cargo-xbuild](https://github.com/rust-osdev/cargo-xbuild) - Automatically cross-compiles the sysroot crates core, compiler_builtins, and alloc.
 - [Understanding Rust as a C++ developer (2021)](https://renoth.medium.com/understanding-rust-as-a-c-developer-69ee8ca76fd6)
-- [Programming Rust Book (2017)](https://www.oreilly.com/library/view/programming-rust/9781491927274/) ([GitHub](https://github.com/ProgrammingRust))
+- [Programming Rust Book (2021)](https://www.oreilly.com/library/view/programming-rust/9781491927274/) ([GitHub](https://github.com/ProgrammingRust)) ([Reddit](https://www.reddit.com/r/rust/comments/o9nn3a/the_second_edition_of_programming_rust_is/))
 - [An Incomplete Explanation of the Proc Macro That Saved Me 4000 Lines of Rust (2021)](https://mbuffett.com/posts/incomplete-macro-walkthrough/)
 - [The Great Rewriting In Rust (2021)](https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/)
 - [Moves, copies and clones in Rust (2020)](https://hashrust.com/blog/moves-copies-and-clones-in-rust/) ([Lobsters](https://lobste.rs/s/ywrfsl/moves_copies_clones_rust))

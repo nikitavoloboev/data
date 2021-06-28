@@ -504,3 +504,4 @@
 - [Understanding Deep Learning (2021)](https://www.youtube.com/playlist?list=PLFE-LjWAAP9Q74cGaUF3yqUhqo2kOYY20)
 - [The Scaling Hypothesis](https://www.gwern.net/Scaling-hypothesis)
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+- [Neuromatch Academy Deep Learning (NMA-DL) syllabus](https://github.com/NeuromatchAcademy/course-content-dl)

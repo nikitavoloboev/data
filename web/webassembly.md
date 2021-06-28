@@ -176,3 +176,4 @@
 - [An introduction to WebAssembly for JavaScript Developers (2021)](https://pascalpares.appspot.ovh/webassembly-for-javascript-developers/)
 - [wapm](https://wapm.io/) - WebAssembly Package Manager.
 - [wasmi](https://github.com/k-nasa/wasmi) - WASM interpreter written by rust.
+- [First Steps with Web Assembly (WASM) & Rust (2021)](https://www.youtube.com/watch?v=mCpKF0YsfaU)

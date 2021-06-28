@@ -263,3 +263,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git. Suite of tools to help you visualize, navigate, manipulate, and repair your commit history.
 - [No Code Reviews by Default (2021)](https://raycast.com/blog/no-code-reviews-by-default/) ([HN](https://news.ycombinator.com/item?id=27606066))
 - [git-sync](https://github.com/kubernetes/git-sync) - Simple command that pulls a git repository into a local directory. Keeps it in sync with the upstream.
+- [git-peek](https://github.com/Jarred-Sumner/git-peek) - Open a remote git repository in your local text editor.

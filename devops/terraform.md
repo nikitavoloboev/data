@@ -87,3 +87,5 @@
 - [Terraform 1.0 (2021)](https://github.com/hashicorp/terraform/releases/tag/v1.0.0) ([HN](https://news.ycombinator.com/item?id=27433863))
 - [Pulumi Terraform Bridge](https://github.com/pulumi/pulumi-terraform-bridge) - Library allowing providers built with the Terraform Plugin SDK to be bridged into Pulumi.
 - [Terraform State Locking with S3 & Dynamo DB](https://www.bschaatsbergen.com/terraform-s3-dynamo-state-lock)
+- [Rover](https://github.com/im2nguyen/rover) - Terraform Visualizer.
+- [Terradozer](https://github.com/jckuester/terradozer) - Takes a Terraform state file as input and destroys all resources it finds in it - without needing any \*.tf files.

@@ -191,6 +191,7 @@
 - [TypeFox](https://www.typefox.io/)
 - [Good Work](https://simplygoodwork.com/)
 - [SoftwareMill](https://softwaremill.com/) - Scala, Java, Blockchain, Big Data, Machine Learning.
+- [ColorElephant](https://colorelephant.com/)
 
 ## Notes
 

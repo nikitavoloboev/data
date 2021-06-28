@@ -183,3 +183,6 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Elastic Container Service (ECS) Terraform module](https://github.com/terraform-aws-modules/terraform-aws-ecs)
 - [330+ Open source security controls for AWS](https://hub.steampipe.io/mods/turbot/aws_compliance/controls)
 - [Using AWS CDK with Go to launch an app with App Runner (2021)](https://adrianhesketh.com/2021/06/14/go-cdk-app-runner/)
+- [awsrm](https://github.com/jckuester/awsrm) - Remove command for AWS resources.
+- [AWSweeper](https://github.com/jckuester/awsweeper) - Tool for cleaning your AWS account.
+- [awsls](https://github.com/jckuester/awsls) - List command for AWS resources.

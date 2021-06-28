@@ -30,3 +30,4 @@
 - [Supermassive Black Hole Graphics Shader Tutorial (2021)](https://kelvinvanhoorn.wordpress.com/2021/04/20/supermassive-black-hole-tutorial/)
 - [How does gravity escape a black hole? (2021)](https://www.reddit.com/r/AskPhysics/comments/nqc9b5/how_does_gravity_escape_a_black_hole/)
 - [A guide to living at a black hole (2021)](https://arstechnica.com/science/2021/06/a-guide-to-living-at-a-black-hole/)
+- [Model of a black hole surrounded by gas glowing under gravity and friction](https://twitter.com/physicsJ/status/1408769989486673928)
