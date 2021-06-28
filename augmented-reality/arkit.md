@@ -19,3 +19,4 @@
 - [ARImageTracking](https://github.com/riccqi/ARImageTracking) - Augmented Reality image tracking with SwiftUI and RealityKit and ARKit 4. ([Tweet](https://twitter.com/riccqi/status/1347562930078826498))
 - [SwiftAR](https://github.com/jlsiewert/SwiftAR) - Declarative Framework for AR, Inspired by SwiftUI.
 - [Augmented reality face filters with iOS - Roxana Jula (2021)](https://www.youtube.com/watch?v=xSLDST-a6qU)
+- [SCNRecorder](https://github.com/gorastudio/SCNRecorder) - Allows you to record videos and to capture images from ARSCNView, SCNView and ARView (RealityKit) without sacrificing performance.

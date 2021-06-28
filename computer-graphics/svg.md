@@ -89,3 +89,4 @@
 - [Blobs](https://github.com/g-harel/blobs) - Random blob generation and animation. ([Web](https://blobs.dev/))
 - [LunaSVG](https://github.com/sammycage/lunasvg) - Standalone SVG rendering library in C++.
 - [Rune.js](https://github.com/runemadsen/rune.js) - JavaScript library for programming graphic design systems with SVG. ([Web](http://runemadsen.github.io/rune.js/))
+- [SVG Loaders](http://samherbert.net/svg-loaders/) - Loading icons and small animations built with pure SVG. ([Code](https://github.com/SamHerbert/SVG-Loaders))

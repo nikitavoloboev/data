@@ -81,6 +81,7 @@
 - [PuzzleScript](https://github.com/increpare/PuzzleScript) - Open Source HTML5 Puzzle Game Engine. ([Web](https://www.puzzlescript.net/))
 - [Box2D-Lite](https://github.com/erincatto/box2d-lite) - Small 2D physics engine. ([Web](https://box2d.org/))
 - [MxEngine](https://github.com/asc-community/MxEngine) - C++ open source 3D game engine.
+- [Flame](https://github.com/flame-engine/flame) - 2D game engine made on top of Flutter. ([Web](https://flame-engine.org/))
 
 ## Physics engines
 
