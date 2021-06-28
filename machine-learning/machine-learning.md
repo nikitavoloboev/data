@@ -503,3 +503,4 @@
 - [Awesome Community Detection Research Papers](https://github.com/benedekrozemberczki/awesome-community-detection)
 - [Understanding Deep Learning (2021)](https://www.youtube.com/playlist?list=PLFE-LjWAAP9Q74cGaUF3yqUhqo2kOYY20)
 - [The Scaling Hypothesis](https://www.gwern.net/Scaling-hypothesis)
+- [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)

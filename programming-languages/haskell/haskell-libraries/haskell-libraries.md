@@ -130,6 +130,7 @@
 - [QuickSpec](https://github.com/nick8325/quickspec) - Equational laws for free.
 - [What4](https://github.com/GaloisInc/what4) - Symbolic formula representation and solver interaction library.
 - [foldl](https://github.com/Gabriel439/Haskell-Foldl-Library) - Composable, streaming, and efficient left folds.
+- [extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles.
 
 ## Links
 

@@ -498,3 +498,4 @@ Go promotes composition over inheritance.
 - [Useful bootstrap checklist for Go Projects](https://boyter.org/posts/useful-bootstrap-for-go-projects/)
 - [Building a Hotwired web app with Go and Templ (2021)](https://adrianhesketh.com/2021/06/04/hotwired-go-with-templ/)
 - [Go 1.17 is deprecating the traditional use of 'go get' (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet) ([HN](https://news.ycombinator.com/item?id=27630625)) ([Reddit](https://www.reddit.com/r/golang/comments/o7ejdv/go_117_is_deprecating_the_traditional_use_of_go/)) ([Lobsters](https://lobste.rs/s/jb9mho/go_1_17_is_deprecating_traditional_use_go))
+- [Go recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects.

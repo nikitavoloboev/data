@@ -56,3 +56,4 @@
 - [prisma-repl](https://github.com/egoist/prisma-repl) - REPL for Prisma databases.
 - [Prisma-AppSync](https://github.com/maoosi/prisma-appsync) - Converts your Prisma Schema into a full-blown GraphQL API for AWS AppSync. ([Docs](https://prisma-appsync.vercel.app/))
 - [Prisma Labs GitHub](https://github.com/prisma-labs)
+- [A Practical Introduction to Prisma (2021)](https://www.notion.so/A-Practical-Introduction-to-Prisma-2021-ccf00a066ef4432caeb03da179e38302) ([Code](https://github.com/nikolasburk/prisma-workshop))

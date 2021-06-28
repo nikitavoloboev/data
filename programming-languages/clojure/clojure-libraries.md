@@ -31,6 +31,10 @@
 - [DataLinguist](https://github.com/simongray/datalinguist) - Stanford CoreNLP in idiomatic Clojure.
 - [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) - Clojure high performance data processing system.
 
+## CLI
+
+- [malli-cli](https://github.com/piotr-yuxuan/malli-cli) - Command-line processing.
+
 ## Other
 
 - [nippy](https://github.com/ptaoussanis/nippy) - High-performance serialization library for Clojure.

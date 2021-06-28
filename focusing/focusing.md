@@ -31,6 +31,7 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Every evening, write down a daily schedule for the next day and try to stick to it as best as possible.](https://twitter.com/rasbt/status/1397221898044456962)
 - [The sunk cost of perfectionism: Spending time making things you don't know anyone wants.](https://twitter.com/jackbutcher/status/1399798492521021446)
 - [Not being busy is a competitive advantage. Most people are so strapped for time they can't take advantage of lucky opportunities or quickly resolve unexpected problems. The ideal combination is proactive and flexible. Protect your free time, but maintain a bias toward action.](https://twitter.com/JamesClear/status/1400447419507220480)
+- [Noise is a remarkably insidious form of pollution: a 10db noise increase (from dishwasher to vacuum) drops productivity by 5%.](https://twitter.com/emollick/status/1408478193091330053)
 
 ## Links
 

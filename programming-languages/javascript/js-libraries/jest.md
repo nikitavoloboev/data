@@ -13,3 +13,4 @@
 - [Using Jest with native ESModules](https://github.com/kentcdodds/jest-esmodules/)
 - [7 Ways to Debug Jest Tests in Terminal (2021)](https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/)
 - [Chromogen](https://github.com/open-source-labs/Chromogen) - UI-driven Jest test-generation package for Recoil selectors.
+- [jest-test-matrix](https://github.com/WaldoJeffers/jest-test-matrix) - Plugin for Jest which helps you test functions accepting different combinations of inputs.
