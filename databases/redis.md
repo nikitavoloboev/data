@@ -67,3 +67,4 @@
 - [Redis Internals](https://github.com/zpoint/Redis-Internals) - Analyze Redis 5.0 source code through diagrams.
 - [Codis](https://github.com/CodisLabs/codis) - Proxy based high performance Redis cluster solution written in Go.
 - [Godis](https://github.com/HDT3213/godis) - Go implementation of Redis Server.
+- [Ocypod](https://github.com/davechallis/ocypod) - Language-agnostic, Redis-backed job queue server with an HTTP interface and a focus on long running tasks.

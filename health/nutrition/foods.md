@@ -120,3 +120,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [New Harvest](https://new-harvest.org/) - Building the Field of Cellular Agriculture.
 - [Nootropic foods (2021)](https://www.reddit.com/r/Nootropics/comments/nljcwn/nootropic_foods/)
 - [FarmBot](https://farm.bot/) - Open Source Farming Robot. ([HN](https://news.ycombinator.com/item?id=27628101))
+- [What is a food you were surprised to learn is crazy high in some nutrient?](https://www.reddit.com/r/nutrition/comments/oadz3i/what_is_a_food_you_were_surprised_to_learn_is/)

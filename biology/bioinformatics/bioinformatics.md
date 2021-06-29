@@ -131,3 +131,5 @@
 - [Depth-First Blog](https://depth-first.com/)
 - [ChemCore](https://github.com/rapodaca/chemcore) - Cheminformatics toolkit for Rust. ([Article](https://depth-first.com/articles/2020/06/01/chemcore-a-cheminformatics-toolkit-for-rust/))
 - [Biochemical Pathway Maps](http://biochemical-pathways.com/#/map/1) ([HN](https://news.ycombinator.com/item?id=27544894))
+- [Awesome Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie)
+- [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences (2020)](https://www.biorxiv.org/content/10.1101/622803v4) ([Code](https://github.com/facebookresearch/esm))

@@ -119,3 +119,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [My 4 Favorite Cloud IDEs for 2021](https://betterprogramming.pub/my-4-favorite-cloud-ides-for-2021-2f3c09d78eaa)
 - [Text Editing Hates You Too (2019)](https://lord.io/text-editing-hates-you-too/) ([HN](https://news.ycombinator.com/item?id=27236874))
 - [monaco-editor-auto-typings](https://github.com/lukasbach/monaco-editor-auto-typings) - Automatically load declaration files while typing in monaco editor instances.
+- [Kaolinite](https://github.com/curlpipe/kaolinite) - Rust crate to assist in the creation of TUI text editors.

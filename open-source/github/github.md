@@ -230,3 +230,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Prometheus GitHub Exporter](https://github.com/infinityworks/github-exporter) - Exposes basic metrics for your repositories from the GitHub API, to a Prometheus compatible endpoint.
 - [ghissue](https://github.com/hcgatewood/ghissue) - Bulk-upload GitHub Issues.
 - [Maintainers](https://maintainers.app/) - Maintain your GitHub Projects.
+- [GitHub Copilot](https://copilot.github.com/) - Your AI pair programmer. ([HN](https://news.ycombinator.com/item?id=27676266)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/oaambv/n_github_and_openai_release_copilot_an_ai_pair/))

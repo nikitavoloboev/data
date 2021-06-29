@@ -39,4 +39,4 @@
 - [Ansible Wireguard Role](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
 - [Tutorial: Tailscale on AWS with Terraform (2021)](https://mediamachine.io/blog/tailscale-on-aws-with-terraform-tutorial/)
 - [Taildrop was kind of easy, actually (2021)](https://tailscale.com/blog/2021-06-taildrop-was-easy/) ([HN](https://news.ycombinator.com/item?id=27480281))
-- [Wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard-based mesh network. ([Web](https://wiretrustee.com/))
+- [Wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard-based mesh network. ([Web](https://wiretrustee.com/)) ([HN](https://news.ycombinator.com/item?id=27672715))

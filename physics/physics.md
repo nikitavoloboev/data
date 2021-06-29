@@ -181,7 +181,7 @@
 - [EinsteinPy Project](https://einsteinpy.org/) - Python package dedicated to problems arising in General Relativity and gravitational physics. ([Code](https://github.com/einsteinpy/einsteinpy)) ([GitHub](https://github.com/einsteinpy))
 - [ScienceClic English - YouTube](https://www.youtube.com/c/ScienceClicEN/videos)
 - [List of Unsolved Problems in Physics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
-- [Maps of Matter (2021)](https://futureofmatter.com/maps_of_matter.html)
+- [Maps of Matter (2021)](https://futureofmatter.com/maps_of_matter.html) ([HN](https://news.ycombinator.com/item?id=27673753))
 - [The Future of Matter](https://futureofmatter.com/) - Notes on the striking things we're learning to do with matter.
 - [What do photons have to do with the electromagnetic force? (2021)](https://www.reddit.com/r/AskPhysics/comments/lxzs4x/what_do_photons_have_to_do_with_the/)
 - [Problems with Eric Weinstein's “Geometric Unity” (2021)](http://backreaction.blogspot.com/2021/03/guest-post-problems-with-eric.html) ([HN](https://news.ycombinator.com/item?id=26371052))

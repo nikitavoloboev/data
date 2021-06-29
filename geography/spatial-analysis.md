@@ -79,3 +79,4 @@
 - [Organic Maps](https://organicmaps.app/) - Fast detailed offline maps for travelers, tourists, hikers and cyclists. ([Code](https://github.com/organicmaps/organicmaps))
 - [MapLibre](https://maplibre.org/) - Open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL .([HN](https://news.ycombinator.com/item?id=27605656)) ([Code](https://github.com/maplibre/maplibre-gl-js))
 - [Restgis](https://restgis.com/) - Free tool/API to get geographic data for any location (GeoJSON/SVG).
+- [Building a Spatial Index Supporting Rectangular Range Query using Hilbert Curve (2021)](https://sequentialread.com/building-a-spatial-index-supporting-range-query-using-space-filling-hilbert-curve/) ([Lobsters](https://lobste.rs/s/h9pvmp/building_spatial_index_supporting))

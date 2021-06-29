@@ -59,3 +59,4 @@
 - [Front End Happy Hour Podcast](http://frontendhappyhour.com/)
 - [Front-End Testing is For Everyone (2021)](https://css-tricks.com/front-end-testing-is-for-everyone/)
 - [For Web](https://forweb.dev/en) - Awesomeness for front-end developers and web designers.
+- [feature-sliced](https://feature-sliced.design/) - Structural methodology for frontend projects. ([Code](https://github.com/feature-sliced/documentation))
