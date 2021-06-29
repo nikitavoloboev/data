@@ -58,3 +58,4 @@
 - [Figma Community collections](https://www.figma.com/community/collection/config2021-sessions)
 - [Figma API Docs](https://www.figma.com/developers/api) ([Code](https://github.com/figma/figma-api-demo))
 - [Figmaster](https://www.figmaster.co/) - Design systems workbook for Figma.
+- [10 Figma tricks I wish I knew earlier (2021)](https://uxdesign.cc/10-more-figma-tricks-i-wish-i-knew-earlier-1f802190e31a)

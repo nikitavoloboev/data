@@ -361,3 +361,5 @@
 - [The pedantic checklist for changing your data model in a web application (2021)](https://rtpg.co/2021/06/07/changes-checklist.html) ([Lobsters](https://lobste.rs/s/jcy2ap/pedantic_checklist_for_changing_your)) ([HN](https://news.ycombinator.com/item?id=27431494))
 - [Introduction to Graph Databases](https://github.com/threatgrid/asami/wiki/Introduction)
 - [Khadas](https://www.khadas.com/) - Shenzhen based hardware manufacturer.
+- [7 Database Paradigms (2020)](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+- [Ask HN: Do you self-host your database? (2021)](https://news.ycombinator.com/item?id=27671376)

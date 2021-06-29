@@ -206,3 +206,4 @@
 - [Using Next.js and Vercel to instantly load a data-heavy website (2021)](https://tinloof.com/blog/using-next.js-and-vercel-to-instantly-load-a-data-heavy-website/)
 - [Refresh props from getServerSideProps in Next.js, mutate server props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/)
 - [Rewriting ctrl-v using Next.js (2021)](https://jzhao.xyz/posts/ctrlv-next/)
+- [The magic of react-query and supabase (2021)](https://dev.to/ankitjey/the-magic-of-react-query-and-supabase-1pom) ([Reddit](https://www.reddit.com/r/reactjs/comments/oa0hm4/wrote_a_piece_on_server_state_management_in_react/))
