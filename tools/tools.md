@@ -44,7 +44,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Reploy](https://getreploy.com/) - Staging environments done right. ([HN](https://news.ycombinator.com/item?id=23917956))
 - [Zapier](https://zapier.com/) - Easy automation for busy people. Zapier moves info between your web apps automatically.
 - [Outline](https://outline.com/) - Read & annotate without distractions.
-- [Liveblocks](https://liveblocks.io/) - Build amazing real-time collaborative products.
+- [Liveblocks](https://liveblocks.io/) - Build amazing real-time collaborative products. ([Code](https://github.com/liveblocks/liveblocks))
 - [Complice](https://complice.co/) - Progress towards what matters. Provides intuitive goal-creation wizard.
 - [Retool](https://retool.com/) - Cuts the time it takes to build internal tools in half.
 - [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.

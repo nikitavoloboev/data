@@ -70,3 +70,4 @@
 - [Triox](https://github.com/AaronErhardt/Triox) - Free file hosting server that focuses on speed, reliability and security.
 - [portal](https://github.com/jackyzha0/portal) - Zero-config peer-to-peer encrypted live folder syncing tool that respects your .gitignore.
 - [sfz](https://github.com/weihanglo/sfz) - Simple static file serving command-line tool written in Rust.
+- [Streamwo](https://streamwo.com/) - Simple video hosting & sharing.

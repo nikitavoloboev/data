@@ -248,6 +248,7 @@
 - [FilePaths.jl](https://github.com/rofinn/FilePaths.jl) - Type based API for working with filesystem paths.
 - [PowerSystems.jl](https://github.com/NREL-SIIP/PowerSystems.jl) - Provides a rigorous data model using Julia structures to enable power systems analysis and modeling.
 - [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) - Framework for out-of-core and parallel execution.
+- [SplitApplyCombine.jl](https://github.com/JuliaData/SplitApplyCombine.jl) - Split-apply-combine strategies for Julia.
 
 ## Links
 
