@@ -103,3 +103,4 @@
 - [cutout.pro](https://www.cutout.pro/) - Image Cutout and Background Removal.
 - [MozJPEG](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [lilliput](https://github.com/discord/lilliput) - Resize images and animated GIFs in Go.
+- [Command Line HDR Image Processing (2021)](https://tylercipriani.com/blog/2021/06/29/commandline-hdr-image-processing/)

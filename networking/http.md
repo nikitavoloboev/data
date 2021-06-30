@@ -133,3 +133,4 @@
 - [Modify HTTP request headers with Transform Rules (2021)](https://blog.cloudflare.com/transform-http-request-headers/)
 - [HTTP Archive](https://httparchive.org/) - Tracks how the web is built by periodically crawl the top sites on the web. ([Twitter](https://twitter.com/HTTPArchive))
 - [Plow](https://github.com/six-ddc/plow) - High-performance HTTP benchmarking tool with real-time web UI and terminal displaying.
+- [Security headers quick reference (2021)](https://web.dev/security-headers/)

@@ -60,3 +60,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS-Lite](https://github.com/hsanjuan/ipfs-lite) - Embeddable, lightweight IPFS-network peer for IPLD applications.
 - [Uploading Files to IPFS from a Web Application (2021)](https://dev.to/dabit3/uploading-files-to-ipfs-from-a-web-application-50a)
 - [IPDS](https://ipds.io/) - Subdomains for IPFS. ([HN](https://news.ycombinator.com/item?id=27660253))
+- [Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS (2021)](https://pawelurbanek.com/ipfs-ethereum-blog) ([HN](https://news.ycombinator.com/item?id=27673223))
