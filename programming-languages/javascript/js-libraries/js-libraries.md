@@ -541,6 +541,7 @@
 - [js-worker-search](https://github.com/bvaughn/js-worker-search) - Full text client-side search based on js-search but with added web-worker support for better performance.
 - [domino](https://github.com/fgnass/domino) - Server-side DOM implementation based on Mozilla's dom.js.
 - [Momoa JSON](https://github.com/humanwhocodes/momoa) - JSON parser, tokenizer, traverser, and printer.
+- [js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis.
 
 ## Links
 

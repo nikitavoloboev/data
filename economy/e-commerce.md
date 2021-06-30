@@ -84,3 +84,4 @@
 - [Farfetch - The road to 1.7 billion dollars in revenues (2021)](https://disclosinggrowth.substack.com/p/farfetch-the-road-to-17-billion-dollars)
 - [Jam Pony Delivery](https://www.jampony.delivery/) - Help Small Businesses Keep 100% of Their Revenue.
 - [Vendure](https://github.com/vendure-ecommerce/vendure) - Modern, headless GraphQL-based e-commerce framework built with TypeScript & NodeJS. ([Web](https://www.vendure.io/))
+- [Shopify CLI](https://github.com/Shopify/shopify-cli) - Helps you build Shopify themes and apps.

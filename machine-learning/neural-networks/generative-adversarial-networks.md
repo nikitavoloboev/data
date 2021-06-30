@@ -122,3 +122,4 @@
 - [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/) ([HN](https://news.ycombinator.com/item?id=27606347)) ([Code](https://github.com/NVlabs/alias-free-gan))
 - [Training Generative Adversarial Networks in One Stage (2021)](https://arxiv.org/abs/2103.00430) ([Code](https://github.com/zju-vipa/OSGAN))
 - [Zero-Shot non-adversarial domain adaptation of pre-trained generators](https://github.com/rinongal/StyleGAN-nada)
+- [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis (2021)](https://marcoamonteiro.github.io/pi-GAN-website/) ([Code](https://github.com/marcoamonteiro/pi-GAN))
