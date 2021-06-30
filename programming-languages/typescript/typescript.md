@@ -162,6 +162,7 @@
 - [esbuild-node-loader](https://github.com/antfu/esbuild-node-loader) - Transpile TypeScript to ESM with Node.js loader.
 - [Building an end-to-end typesafe API — without GraphQL (2021)](https://colinhacks.com/essays/painless-typesafety)
 - [dpdm](https://github.com/acrazing/dpdm) - Static dependencies analyzer for your JavaScript and TypeScript projects.
+- [Design Patterns in TypeScript (2021)](https://www.youtube.com/watch?v=D40olxrDw38)
 
 ## Images
 
