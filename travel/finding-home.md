@@ -53,3 +53,4 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Favorite furniture brand? (2021)](https://twitter.com/Suhail/status/1378474655640473602)
 - [Compass](https://www.compass.com/) - Real Estate, Homes for Sale & Apartments for Rent.
 - [My NYC Apartment tour | $3,000/month for 1 bedroom (2021)](https://www.youtube.com/watch?v=bdUVehx6UBU)
+- [Boxabl](https://www.boxabl.com/) - Modular Homes for Under $50k. ([HN](https://news.ycombinator.com/item?id=27684191))
