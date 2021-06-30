@@ -256,3 +256,4 @@
 - [Unpacking Bash shell tips from a GitHub Actions workflow (2021)](https://qmacro.org/autodidactics/2021/04/28/unpacking-tips/) ([Lobsters](https://lobste.rs/s/lpfc9n/unpacking_bash_shell_tips_from_github))
 - [GitHub Actions and their product management philosophy (2021)](https://blog.thestateofme.com/2021/05/15/github-actions-and-their-product-management-philosophy/)
 - [actionlint](https://github.com/rhysd/actionlint) - Static checker for GitHub Actions workflow files.
+- [GitHub Actions Templates](https://github.com/orbit-love/github-actions-templates) - Starter GitHub Actions templates to get you up and running with community built integrations.

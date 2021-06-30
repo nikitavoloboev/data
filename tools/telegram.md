@@ -46,6 +46,9 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Voicy](https://voicybot.com/) - Automatically converts all the audio messages to text when added to a group chat. ([Code](https://github.com/backmeupplz/voicy))
 - [Stonky](https://github.com/antirez/stonky) - Stock market Telegram bot.
 - [telewater](https://github.com/aahnik/telewater) - Telegram bot that applies watermark on images, gifs, and videos.
+- [Release Tracker](https://github.com/dracarys18/git_release_tracker) - Telegram Bot written in Rust to Track new Github releases.
+- [TgBot-RS](https://github.com/dracarys18/grpmr-rs) - Modular Telegram Group Manager Bot written in Rust.
+- [TweetBot](https://github.com/dracarys18/TweetBot) - Telegram Bot to Stream the tweets from any twitter accounts to Telegram Channel.
 
 ## Links
 

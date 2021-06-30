@@ -308,3 +308,4 @@
 - [Hugging Face NLP Course](https://huggingface.co/course/)
 - [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [LoRA: Low-Rank Adaptation of Large Language Models (2021)](https://arxiv.org/abs/2106.09685) ([Code](https://github.com/microsoft/LoRA))
+- [PromptPapers](https://github.com/thunlp/PromptPapers) - Must-read papers on prompt-based tuning for pre-trained language models.

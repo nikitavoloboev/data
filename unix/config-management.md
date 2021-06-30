@@ -23,3 +23,4 @@
 - [Beemo](https://github.com/beemojs/beemo) - Centralized configuration layer for dev tools. ([Web](https://beemo.dev/))
 - [LIBUCL](https://github.com/vstakhov/libucl) - Universal configuration library parser.
 - [Jerikan: a configuration management system for network teams (2021)](https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible)
+- [Sharec](https://github.com/lamartire/sharec) - Store your configs in one place and share between projects without any pain. ([Docs](https://sharec.js.org/))
