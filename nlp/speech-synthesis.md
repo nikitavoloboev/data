@@ -31,3 +31,4 @@
 - [CLEESE](https://github.com/creamlab/cleese) - Combinatorial Expressive Speech Engine.
 - [LVCNet: Efficient Condition-Dependent Modeling Network for Waveform Generation](https://github.com/ZENGZHEN-TTS/LVCNet)
 - [LightSpeech: Lightweight and Fast Text to Speech with Neural Architecture Search (2021)](https://arxiv.org/abs/2102.04040) ([Code](https://github.com/rishikksh20/LightSpeech))
+- [A Survey on Neural Speech Synthesis (2021)](https://arxiv.org/abs/2106.15561)

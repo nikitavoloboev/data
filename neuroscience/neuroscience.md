@@ -73,6 +73,7 @@
 - [Patrick J. Mineault's research on neuroscience, ML](https://xcorr.net/)
 - [A Browsable Petascale Reconstruction of the Human Cortex (2021)](https://ai.googleblog.com/2021/06/a-browsable-petascale-reconstruction-of.html)
 - [Toolmakers aim to untangle fundamental challenges in neuroscience (2021)](https://neuroscience.stanford.edu/news/wu-tsai-neuro-advances-big-idea-initiatives-to-next-level)
+- [Network Neuroscience](https://netneurosci.github.io/networks2021satellite/)
 
 ## Images
 

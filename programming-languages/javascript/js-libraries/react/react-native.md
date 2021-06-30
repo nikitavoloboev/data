@@ -110,3 +110,4 @@
 - [Coinbase's Transition to React Native (2021)](https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971) ([HN](https://news.ycombinator.com/item?id=27161522))
 - [React Native Jigsaw](https://github.com/draftbit/react-native-jigsaw) - Draftbit's component library used inside our Builder.
 - [React Native Performance tooling](https://github.com/oblador/react-native-performance) - Toolchain to measure and monitor the performance of your React Native app in development, pipeline and in production.
+- [Getting Started with React Native JSI Modules (2021)](https://blog.notesnook.com/getting-started-react-native-jsi/)
