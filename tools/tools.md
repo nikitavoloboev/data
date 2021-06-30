@@ -118,6 +118,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Bit](https://bit.dev/) - The shared component cloud.
 - [Graphite](https://editor.graphite.design/) - Powerful 2D vector and raster editing: procedural and nondestructive. ([Code](https://github.com/GraphiteEditor/Graphite))
 - [Balerter](https://github.com/balerter/balerter) - Scripts based alerting system.
+- [Circuit](https://getcircuit.com/) - Delivery route planning software.
 - [Moufette](https://github.com/moufette-tools/moufette) - Open-source tool to capture user feedback. ([HN](https://news.ycombinator.com/item?id=23997009))
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
 - [Float](https://www.float.com/) - Resource Planning & Management Software.

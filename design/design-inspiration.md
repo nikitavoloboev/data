@@ -371,6 +371,7 @@ Here are few more things I liked, design wise.
 - [Tyler Galpin](https://www.galp.in/) ([Tweet](https://twitter.com/TylerGalpin/status/1384511348512485382))
 - [Hector Simpson](https://hector.me/)
 - [Jonas Galvez](https://hire.jonasgalvez.com.br/)
+- [Christian Kaisermann](https://kaisermann.me/)
 - [Ian Bicking](https://www.ianbicking.org/)
 - [Juanito Fatas](https://juanitofatas.com/)
 - [Damien Seguin](https://dmnsgn.me/)
