@@ -186,3 +186,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [awsrm](https://github.com/jckuester/awsrm) - Remove command for AWS resources.
 - [AWSweeper](https://github.com/jckuester/awsweeper) - Tool for cleaning your AWS account.
 - [awsls](https://github.com/jckuester/awsls) - List command for AWS resources.
+- [Running Scheduled Jobs in AWS Using Terraform (2021)](https://hyperscience.com/tech-blog/running-scheduled-jobs-in-aws/)

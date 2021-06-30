@@ -70,3 +70,4 @@
 - [Cellular connectivity for IoT (2021)](https://blog.toit.io/cellular-connectivity-for-iot-78dfe2026720)
 - [Memfault](https://memfault.com/) - End-to-end observability for your connected devices.
 - [Nordic Semiconductor](https://www.nordicsemi.com/)
+- [Building a DIY Smart Doorbell (2021)](https://buzzert.net/posts/2021-05-09-doorbell) ([HN](https://news.ycombinator.com/item?id=27669924))

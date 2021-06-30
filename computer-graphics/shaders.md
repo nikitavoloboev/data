@@ -43,3 +43,4 @@
 - [Compute Shader 101 (2021)](https://www.youtube.com/watch?v=DZRn_jNZjbw) ([Code](https://github.com/googlefonts/compute-shader-101)) ([HN](https://news.ycombinator.com/item?id=27396634))
 - [Shader Place](https://github.com/CharStiles/shaderplace) - Real-time collaborative GLSL livecode editor.
 - [Shaders For Game Devs - YouTube](https://www.youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z)
+- [Monochromatic Portraits with GLSL (2019)](https://rosenzweig.io/blog/monotone-portraits-with-glsl.html)

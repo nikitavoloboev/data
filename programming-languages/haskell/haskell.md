@@ -292,3 +292,4 @@
 - [The Fixed Point: Recursion, Laziness, and Haskell's fix function (2021)](https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html)
 - [Understanding Haskell Features Through Their Desugaring (2020)](https://serokell.io/blog/haskell-to-core)
 - [Collection of Notes on GHC](https://ghc-compiler-notes.readthedocs.io/en/latest/) ([Code](https://github.com/myuon/ghc-compiler-notes))
+- [Wingman for Haskell](https://haskellwingman.dev/) - Focus on the important stuff; delegate the rest.
