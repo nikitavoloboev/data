@@ -95,3 +95,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Ask HN: Cheapest/ easiest way to host a static site (2021)](https://news.ycombinator.com/item?id=26594242)
 - [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
 - [Static site generators to watch in 2021](https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/) ([HN](https://news.ycombinator.com/item?id=27428062))
+- [Lessons from Building a Static Site Generator (2020)](https://nicholasreese.com/lessons-from-building-a-static-site-generator/) ([HN](https://news.ycombinator.com/item?id=27687899))

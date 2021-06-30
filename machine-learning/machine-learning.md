@@ -506,3 +506,4 @@
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 - [Neuromatch Academy Deep Learning (NMA-DL) syllabus](https://github.com/NeuromatchAcademy/course-content-dl)
 - [Stanford AI Lab Papers and Talks at CVPR 2021](https://ai.stanford.edu/blog/cvpr-2021/)
+- [SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption (2021)](https://arxiv.org/abs/2106.15147)
