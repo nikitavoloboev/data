@@ -36,6 +36,7 @@ Go promotes composition over inheritance.
 - [I have grown to strongly dislike passing options by variable argument in Go ("...Option"). It makes a terrible mess of package documentation. Much easier to find and understand fields in an Options or Config struct.](https://twitter.com/davidcrawshaw/status/1300094723340865537)
 - [Go's RTS is built around a rather simple concurrent mark/sweep GC with all of the trade-offs that this implies. In the case of GHC you have a choice between a throughput-oriented moving GC and an (admittedly somewhat young) non-moving collector. On the low-latency front Go indeed has something of a head-start here, but GHC is now competitive and is improving with every release.](https://www.reddit.com/r/haskell/comments/j5slz6/how_does_haskells_gcruntime_compare_with_that_of/)
 - [Name your package for what it provides, not what it contains.](https://www.reddit.com/r/golang/comments/mjok5b/help_me_with_golang_project_structures/)
+- [Just use channels on the fly to transfer data concurrently and be done with it.](https://www.reddit.com/r/golang/comments/o9ghpp/explain_go_concurrency_worker_pool_patterns_to_me/)
 
 ## Links
 
@@ -73,7 +74,7 @@ Go promotes composition over inheritance.
 - [List of advices and tricks in the Go's world](https://github.com/cristaloleg/go-advices)
 - [Golang challenge](http://golang-challenge.org/)
 - [dep2nix](https://github.com/nixcloud/dep2nix) - Using golang/dep to create a deps.nix file for go projects to package them for nixpkgs.
-- [GopherCon 2018 - Rethinking Classical Concurrency Patterns](https://about.sourcegraph.com/go/gophercon-2018-rethinking-classical-concurrency-patterns/) - [Slides](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view)
+- [GopherCon 2018 - Rethinking Classical Concurrency Patterns](https://about.sourcegraph.com/go/gophercon-2018-rethinking-classical-concurrency-patterns/) - [Slides](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view) ([Video](https://www.youtube.com/watch?v=5zXAHh5tJqQ))
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout) ([Not a standard Go project layout](https://github.com/golang-standards/project-layout/issues/117))
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 - [Golang Monorepo](https://github.com/flowerinthenight/golang-monorepo) - Example of a golang-based monorepo.

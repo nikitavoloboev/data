@@ -350,6 +350,7 @@ Here are few more things I liked, design wise.
 - [Serge Zaitsev](https://zserge.com/)
 - [Wilhelm Klopp](https://wilhelmklopp.com/)
 - [Jason Lengstorf](https://www.jason.af/)
+- [Matt Rothenberg](https://mattrothenberg.com/)
 - [Salavat Abdullin](https://salavat.me/)
 - [Colin Shum](https://colinshum.com/)
 - [Paul Glushak](https://0xff.nu/)
