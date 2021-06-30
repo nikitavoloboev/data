@@ -54,3 +54,4 @@
 - [First impressions of Rust programming on Solana (2021)](https://brson.github.io/2021/06/08/rust-on-solana)
 - [Is Solana the Ethereum Killer? w/ Anatoly Yakovenko (2021)](https://www.youtube.com/watch?v=qYH6J4sE7hs)
 - [HN: Solana completes $314M private token sale (2021)](https://news.ycombinator.com/item?id=27496778)
+- [Where to stake SOL (2021)](https://www.reddit.com/r/solana/comments/oaauuh/where_to_stake_sol/)

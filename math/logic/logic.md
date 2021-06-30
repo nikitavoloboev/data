@@ -56,3 +56,4 @@
 - [An Automated Approach to the Collatz Conjecture (2021)](https://arxiv.org/abs/2105.14697)
 - [Designing Software with Predicate Logic (2021)](https://buttondown.email/hillelwayne/archive/designing-software-with-predicate-logic/)
 - [1931: Kurt Gödel shows limits of math, logic, computing, AI](https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html) ([HN](https://news.ycombinator.com/item?id=27536974))
+- [Abductive vs. inductive reasoning](https://math.stackexchange.com/questions/619311/abductive-vs-inductive-reasoning)

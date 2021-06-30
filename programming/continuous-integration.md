@@ -50,3 +50,4 @@
 - [Ask HN: How Long Is Your CI Process? (2021)](https://news.ycombinator.com/item?id=27006465)
 - [Mega-Linter](https://github.com/nvuillam/mega-linter) - Open-Source tool for CI/CD workflows that analyzes consistency and quality.
 - [Woodpecker](https://github.com/woodpecker-ci/woodpecker) - Simple CI engine with great extensibility. ([Docs](https://woodpecker.laszlo.cloud/))
+- [BuildKit integration for Rust](https://github.com/denzp/rust-buildkit)
