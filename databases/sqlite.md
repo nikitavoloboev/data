@@ -81,3 +81,4 @@
 - [SQLite Archiver](https://sqlite.org/sqlar/doc/trunk/README.md)
 - [How to Setup Replicated Highly Available SQLite with rqlite (2021)](https://lowendbox.com/blog/how-to-setup-replicated-highly-available-sqlite-with-rqlite/)
 - [Ask HN: What is the SQLite of nosql databases? (2021)](https://news.ycombinator.com/item?id=27490361)
+- [Using sqlite3 as a notekeeping document graph with automatic reference indexing (2021)](https://epilys.github.io/bibliothecula/notekeeping.html) ([Lobsters](https://lobste.rs/s/yev7oa/using_sqlite3_as_notekeeping_document))

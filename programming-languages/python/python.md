@@ -298,3 +298,4 @@
 - [Writing fast async HTTP requests in Python (2021)](https://blog.jonlu.ca/posts/async-python-http) ([Lobsters](https://lobste.rs/s/fxpne4/writing_fast_async_http_requests_python))
 - [Intuitive Python: Productive Development for Projects that Last (2021)](https://pragprog.com/titles/dmpython/intuitive-python/) ([HN](https://news.ycombinator.com/item?id=27592822))
 - [Subclassing in Python: Redux (2021)](https://hynek.me/articles/python-subclassing-redux/)
+- [Typeclasses in Python (2021)](https://sobolevn.me/2021/06/typeclasses-in-python) ([Lobsters](https://lobste.rs/s/3eorxj/typeclasses_python))
