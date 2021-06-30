@@ -110,3 +110,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Paperoni](https://github.com/mila-iqia/paperoni) - Search for scientific papers on the command line.
 - [SciRate](https://scirate.com/) - Top arXiv papers. Open peer review site for arXiv preprints. ([Code](https://github.com/scirate/scirate))
 - [How to circumvent Sci-Hub ISP block (2021)](https://fragile-credences.github.io/scihub-proxy/) ([HN](https://news.ycombinator.com/item?id=27451844))
+- [bibliothecula](https://epilys.github.io/bibliothecula/) - Organise documents with tags and other metadata with the option of storing multiple files per document. ([Code](https://github.com/epilys/bibliothecula))
