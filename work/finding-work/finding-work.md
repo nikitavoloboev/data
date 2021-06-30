@@ -118,3 +118,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Ask HN: Do software engineers have leverage? (2021)](https://news.ycombinator.com/item?id=27569539)
 - [Arbeitnow](https://arbeitnow.com/) - Find your next job today.
 - [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
+- [HN: “Note that I wouldn’t pass the listed minimum requirements” (2021)](https://news.ycombinator.com/item?id=27687034)

@@ -81,3 +81,4 @@
 - [Restgis](https://restgis.com/) - Free tool/API to get geographic data for any location (GeoJSON/SVG).
 - [Building a Spatial Index Supporting Rectangular Range Query using Hilbert Curve (2021)](https://sequentialread.com/building-a-spatial-index-supporting-range-query-using-space-filling-hilbert-curve/) ([Lobsters](https://lobste.rs/s/h9pvmp/building_spatial_index_supporting))
 - [Descartes Labs](https://descarteslabs.com/) - Geospatial Analytics Platform | Satellite Imagery | Remote Sensing.
+- [geoplot](https://github.com/ResidentMario/geoplot) - High-level Python geospatial plotting library.

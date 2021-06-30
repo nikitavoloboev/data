@@ -542,6 +542,7 @@
 - [domino](https://github.com/fgnass/domino) - Server-side DOM implementation based on Mozilla's dom.js.
 - [Momoa JSON](https://github.com/humanwhocodes/momoa) - JSON parser, tokenizer, traverser, and printer.
 - [js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis.
+- [quetie](https://github.com/TomerAberbach/quetie) - Cutest and tiniest queue/deque implementation.
 
 ## Links
 

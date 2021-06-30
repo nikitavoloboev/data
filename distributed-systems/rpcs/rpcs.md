@@ -27,3 +27,4 @@
 - [Writing an RPC From Scratch (2021)](https://alexanderell.is/posts/rpc-from-scratch/)
 - [yarpc](https://github.com/yarpc/yarpc-go) - Message passing platform for Go.
 - [webrpc](https://github.com/webrpc/webrpc) - Schema-driven approach to writing backend services for modern Web apps and networks.
+- [Apache Dubbo](https://github.com/apache/dubbo) - High-performance, Java-based open-source RPC framework.
