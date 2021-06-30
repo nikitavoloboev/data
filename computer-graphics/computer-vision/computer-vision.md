@@ -320,3 +320,4 @@
 - [Pivotal Tuning for Latent-based Editing of Real Images (2021)](https://arxiv.org/abs/2106.05744) ([Code](https://github.com/danielroich/PTI))
 - [FLAME: Articulated Expressive 3D Head Model](https://flame.is.tue.mpg.de/) ([Code](https://github.com/Rubikplayer/flame-fitting))
 - [XCiT: Cross-Covariance Image Transformers (2021)](https://arxiv.org/abs/2106.09681) ([Code](https://github.com/facebookresearch/xcit))
+- [Robust Consistent Video Depth Estimation (2021)](https://robust-cvd.github.io/) ([Code](https://github.com/facebookresearch/robust_cvd))
