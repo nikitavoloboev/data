@@ -3,6 +3,7 @@
 ## Notes
 
 - [One of the most striking things you learn from having kids is how much you took your parents for granted.](https://twitter.com/paulg/status/1400058832596967425)
+- [Бить по попе и любые другие виды насилия над детьми - не ОК.](https://twitter.com/solar_circle/status/1410277488887013382)
 
 ## Links
 

@@ -17,6 +17,7 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 ## Interesting configs
 
 - [Goku In The Wild](https://github.com/yqrashawn/GokuRakuJoudo/blob/master/in-the-wild.md)
+- [George Nica](https://github.com/kiinoda/goku)
 
 ## Notes
 
