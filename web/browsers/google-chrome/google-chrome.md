@@ -58,3 +58,4 @@ And here are Chrome extensions I use:
 - [Introducing chrome.scripting (2021)](https://developer.chrome.com/blog/crx-scripting-api/) ([HN](https://news.ycombinator.com/item?id=27441898)) ([Lobsters](https://lobste.rs/s/tfa1lp/introducing_chrome_scripting))
 - [Chrome Developers](https://developer.chrome.com/) - Resource for developers of all backgrounds to learn about what's new in Chrome. ([Code](https://github.com/GoogleChrome/developer.chrome.com))
 - [How the new rendering engine on Chrome works (2021)](https://developer.chrome.com/blog/renderingng/)
+- [Create React Chrome Extension - TS](https://github.com/pixochi/create-react-chrome-extension-ts) - Lightweight boilerplate for building a Chrome extension and a standard web app with React, TypeScript and Webpack.

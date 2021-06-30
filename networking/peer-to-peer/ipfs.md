@@ -61,3 +61,4 @@ I especially like the distinction of distributing content over distributing link
 - [Uploading Files to IPFS from a Web Application (2021)](https://dev.to/dabit3/uploading-files-to-ipfs-from-a-web-application-50a)
 - [IPDS](https://ipds.io/) - Subdomains for IPFS. ([HN](https://news.ycombinator.com/item?id=27660253))
 - [Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS (2021)](https://pawelurbanek.com/ipfs-ethereum-blog) ([HN](https://news.ycombinator.com/item?id=27673223))
+- [ipfs-embed](https://github.com/ipfs-rust/ipfs-embed) - Small, fast and reliable ipfs implementation designed for embedding in to complex p2p applications.

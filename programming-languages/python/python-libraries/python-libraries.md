@@ -87,6 +87,7 @@
 - [alive-progress](https://github.com/rsalmei/alive-progress) - New kind of Progress Bar, with real time throughput, eta and cool animations.
 - [python-nubia](https://github.com/facebookincubator/python-nubia) - Lightweight framework for building command-line applications with Python.
 - [argcomplete](https://github.com/kislyuk/argcomplete) - Python and tab completion, better together.
+- [docopt-ng](https://github.com/jazzband/docopt-ng) - Humane command line arguments parser. Now with maintenance, typehints, and complete test coverage.
 
 ## DB
 
@@ -426,6 +427,7 @@
 - [ballet](https://github.com/ballet/ballet) - Lightweight framework for collaborative, open-source data science projects through feature engineering.
 - [python-varname](https://github.com/pwwang/python-varname) - Dark magics about variable names in python.
 - [pytransform3d](https://github.com/rock-learning/pytransform3d) - Python library for transformations in three dimensions.
+- [Jellyfish](https://github.com/jamesturk/jellyfish) - Python library for doing approximate and phonetic matching of strings.
 
 ## Links
 
