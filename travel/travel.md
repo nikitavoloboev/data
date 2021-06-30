@@ -78,3 +78,4 @@
 - [Inexpensive Countries Where $2k/Month Buys the Good Life (2021)](https://www.moneycrashers.com/inexpensive-countries-2k-month-low-cost-living/) ([HN](https://news.ycombinator.com/item?id=27468779))
 - [Dtravel](https://www.dtravel.com/) - Community Owned Home Sharing with Lower Fees.
 - [Travis](https://www.travistravis.co/) - Like Pinterest for Travel Planning.
+- [Beach Nearby](https://beachnearby.com/) - Discover the best beaches near you.

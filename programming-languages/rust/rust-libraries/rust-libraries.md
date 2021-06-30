@@ -243,6 +243,7 @@
 - [L2](https://github.com/bkkaggle/L2) - PyTorch-style Tensor+Autograd library written in Rust.
 - [Fwumious Wabbit](https://github.com/outbrain/fwumious_wabbit) - Fast on-line machine learning toolkit written in Rust.
 - [Mushin](https://github.com/c0dearm/mushin) - Compile-time creation of neural networks.
+- [Alumina](https://github.com/millardjn/alumina) - Deep learning library for rust.
 
 ## macOS
 

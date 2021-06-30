@@ -325,3 +325,4 @@
 - [Real-world CSS vs. CSS-in-JS performance comparison (2021)](https://pustelto.com/blog/css-vs-css-in-js-perf/) ([HN](https://news.ycombinator.com/item?id=27438913))
 - [Glassmorphism CSS Generator](https://ui.glass/generator/)
 - [Glass UI](https://ui.glass/) - CSS UI library based on the glassmorphism design principles.
+- [Miriam Suzanne - Container Queries & The Future of CSS (2021)](https://www.youtube.com/watch?v=ilR9KlsHMGk)
