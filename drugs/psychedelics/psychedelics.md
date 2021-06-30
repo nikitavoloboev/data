@@ -49,6 +49,7 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [If psychedelics turn out to be as effective as they look in early trials, we're going to look back at the last 50 years of prohibition & realize we just sat by & allowed oceans of unnecessary pain.](https://twitter.com/drvolts/status/1389415794732199936)
 - [Some people think they’ve transcended the ego when that’s really their ego talking.](https://www.reddit.com/r/RationalPsychonaut/comments/n6bxie/narcissism_in_the_psychedelic_community/)
 - [I think psychedelics often times just reinforce existing personal traits.](https://www.reddit.com/r/RationalPsychonaut/comments/n6bxie/narcissism_in_the_psychedelic_community/)
+- [The brain is very susceptible to this sort of "I'll never recover. Thing will always be this way." type of thinking. People who get high for the first time start thinking it's going to last forever, after only minutes to an hour of being high! The brain is really bad at predicting future mental and emotional states, but very good at convincing you that its predictions are absolutely correct.](https://www.reddit.com/r/RationalPsychonaut/comments/oape6y/might_kill_myself/)
 
 ## Links
 

@@ -86,3 +86,4 @@
 - [Vendure](https://github.com/vendure-ecommerce/vendure) - Modern, headless GraphQL-based e-commerce framework built with TypeScript & NodeJS. ([Web](https://www.vendure.io/))
 - [Shopify CLI](https://github.com/Shopify/shopify-cli) - Helps you build Shopify themes and apps.
 - [Hydrogen](https://shopify.dev/hydrogen) - Build custom storefronts faster and easier than ever powered by Shopify.
+- [Tailwind Ecommerce CSS UI Components](https://tailwindui.com/ecommerce)

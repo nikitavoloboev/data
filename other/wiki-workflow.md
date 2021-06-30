@@ -149,6 +149,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [D. Bohdan's Wiki](https://dbohdan.com/wiki/sitemap)
 - [Albert Zeyer](https://github.com/albertz/wiki)
 - [Juliette Rapala](https://github.com/jrapala/wiki)
+- [Daniel Imfeld's Notes](https://imfeld.dev/notes)
 - [neeasade's notes](https://notes.neeasade.net/)
 - [Edward Yerburgh's CS Notes](https://notes.eddyerburgh.me/) ([Code](https://github.com/eddyerburgh/notes))
 - [Nimor's Zettelkasten](https://nimor111.github.io/notebook/) ([Code](https://github.com/Nimor111/notebook))

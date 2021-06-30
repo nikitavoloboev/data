@@ -162,3 +162,4 @@
 - [Avalanche](https://github.com/ContinualAI/avalanche) - End-to-End Library for Continual Learning. ([Docs](https://avalanche.continualai.org/))
 - [PyKale](https://github.com/pykale/pykale) - Knowledge-Aware machine LEarning (KALE) from multiple sources in Python.
 - [mltrace](https://github.com/loglabs/mltrace) - Coarse-grained lineage and tracing for machine learning pipelines.
+- [PPLNN](https://github.com/openppl-public/ppl.nn) - High-performance deep-learning inference engine for efficient AI inferencing.
