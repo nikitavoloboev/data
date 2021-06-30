@@ -39,6 +39,7 @@ Success comes from not giving up and doing what you love.
 - [Do you feel lost? Try creating. Could be code, companies, art, people. Creation brings meaning because it's what we were made to do.](https://twitter.com/maccaw/status/1398325800705855492)
 - [Celebrate when your friends win.](https://twitter.com/APompliano/status/1399725443322978310)
 - [Fear makes us fiction writers.](https://twitter.com/businessbarista/status/1400454512721108995)
+- [Just ask. It's the kind of thing everyone says "of course" or "that's obvious" to and then never do in practice themselves. I'm in my 40s and only seeing the true power now of asking for things, for help, for what you want. In business, in friendships, in romance, in all aspects of your life, when you ask, the response is most often Yes, Sure, Of course, Happy to help.](https://news.ycombinator.com/item?id=27690731)
 
 ## Links
 

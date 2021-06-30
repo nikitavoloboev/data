@@ -281,4 +281,4 @@
 - [Hierarchical Structures in PostgreSQL](https://hoverbear.org/blog/postgresql-hierarchical-structures/) ([HN](https://news.ycombinator.com/item?id=27631765))
 - [pgsh](https://github.com/sastraxi/pgsh) - PostgreSQL tools for local development.
 - [How to best store audio files in PostgreSQL (2021)](https://twitter.com/kentcdodds/status/1409516218478841860)
-- [Globally Distributed Postgres (2021)](https://fly.io/blog/globally-distributed-postgres/)
+- [Globally Distributed Postgres (2021)](https://fly.io/blog/globally-distributed-postgres/) ([HN](https://news.ycombinator.com/item?id=27690950))

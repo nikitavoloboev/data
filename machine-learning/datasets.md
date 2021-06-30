@@ -101,3 +101,4 @@
 - [Scientific Data Repositories](https://www.nature.com/sdata/policies/repositories) ([HN](https://news.ycombinator.com/item?id=27365755))
 - [CatMeows: A Publicly-Available Dataset of Cat Vocalizations (2020)](https://zenodo.org/record/4008297#.YND2lC8RqJ8) ([HN](https://news.ycombinator.com/item?id=27556544))
 - [ir_datasets](https://github.com/allenai/ir_datasets) - Python package that provides a common interface to many IR ad-hoc ranking benchmarks, training datasets, etc.
+- [SEDE (Stack Exchange Data Explorer)](https://github.com/hirupert/sede) - Text-to-SQL in the Wild: A Naturally-Occurring Dataset Based on Stack Exchange Data. ([Article](https://blog.hirupert.com/text-to-sql-in-the-wild-a-naturally-occurring-dataset-based-on-stack-exchange-data/))

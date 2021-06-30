@@ -32,3 +32,4 @@
 - [Slack Bolt](https://github.com/KhushrajRathod/slack-bolt) - TypeScript framework to build Slack apps in a flash with the latest platform features.
 - [SwiftBlocksUI](https://github.com/SwiftBlocksUI/SwiftBlocksUI) - Develop interactive Slack messages and modals using a SwiftUI like declarative style.
 - [Paco](https://pacohq.com/) - Sync GitHub/JIRA with Slack.
+- [Building Products at Slack (2021)](https://newsletter.bringthedonuts.com/p/building-products-at-slack)

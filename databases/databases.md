@@ -363,3 +363,4 @@
 - [Khadas](https://www.khadas.com/) - Shenzhen based hardware manufacturer.
 - [7 Database Paradigms (2020)](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
 - [Ask HN: Do you self-host your database? (2021)](https://news.ycombinator.com/item?id=27671376)
+- [How databases handle 10 million devices in high-cardinality benchmarks (2021)](https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/)

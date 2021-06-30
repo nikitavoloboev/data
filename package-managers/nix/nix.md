@@ -195,3 +195,4 @@
 - [Digga](https://github.com/divnix/digga) - Feature rich and configurable framework for harnessing Nix Flakes.
 - [Nix solves the package manager ejection problem (2021)](https://zeroindexed.com/nix-ejection-problem) ([HN](https://news.ycombinator.com/item?id=27344677))
 - [Cross compilation using Nix](https://nix.dev/tutorials/cross-compilation)
+- [nix-std](https://github.com/chessai/nix-std) - no-nixpkgs standard library for the nix expression language.

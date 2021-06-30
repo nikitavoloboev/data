@@ -399,3 +399,4 @@
 - [Calico](https://github.com/projectcalico/calico) - Open-source networking and security solution for Kubernetes. ([Web](https://www.projectcalico.org/))
 - [Sidero](https://www.sidero.dev/) - Bare metal provisioning system with support for Kubernetes Cluster API. ([Code](https://github.com/talos-systems/sidero))
 - [Orkestra](https://github.com/Azure/orkestra) - Cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent helm charts and their dependencies.
+- [Treat Kubernetes clusters as cattle, not pets (2021)](https://zitadel.ch/blog/treat-clusters-as-cattle/) ([HN](https://news.ycombinator.com/item?id=27688203))

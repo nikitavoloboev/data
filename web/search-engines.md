@@ -136,3 +136,4 @@
 - [Pinecone](https://www.pinecone.io/) - Managed Vector Similarity Search.
 - [Extreme Classification with Vector Similarity Search](https://www.pinecone.io/docs/examples/extreme-classification/)
 - [Brave Search](https://search.brave.com/) - Private search. ([HN](https://news.ycombinator.com/item?id=27593360))
+- [System Design for Recommendations and Search (2021)](https://eugeneyan.com/writing/system-design-for-discovery/)

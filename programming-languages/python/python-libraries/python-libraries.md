@@ -425,6 +425,7 @@
 - [Aesara](https://github.com/aesara-devs/aesara) - Python library that allows one to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays.
 - [ballet](https://github.com/ballet/ballet) - Lightweight framework for collaborative, open-source data science projects through feature engineering.
 - [python-varname](https://github.com/pwwang/python-varname) - Dark magics about variable names in python.
+- [pytransform3d](https://github.com/rock-learning/pytransform3d) - Python library for transformations in three dimensions.
 
 ## Links
 

@@ -91,6 +91,7 @@
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
 - [TikTok Python](https://github.com/davidteather/TikTok-Api) - Unofficial API.
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
+- [Interactive Brokers Go](https://github.com/gofinance/ib)
 - [Google News Python](https://github.com/kotartemiy/pygooglenews)
 - [TensorFlow Rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
 - [libgit2 Rust](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
