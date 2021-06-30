@@ -876,6 +876,7 @@
 - [TransIter](https://github.com/neithernut/transiter) - Iterator suitable for navigating recursive structures and DAGs in rust.
 - [stdx](https://github.com/brson/stdx) - Missing batteries of Rust.
 - [Exocore](https://github.com/appaquet/exocore) - Distributed applications framework with private and encrypted data storage.
+- [rodio](https://github.com/RustAudio/rodio) - Rust audio playback library.
 
 ## Cargo Plugins
 

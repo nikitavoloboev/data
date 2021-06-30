@@ -70,3 +70,4 @@
 - [InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift.
 - [Xcode Tips](https://xcode-tips.github.io/) - Community-run website for documenting Xcode Tips. ([Code](https://github.com/Xcode-Tips/xcode-tips.github.io))
 - [What’s new in Xcode 13? (2021)](https://www.hackingwithswift.com/articles/236/whats-new-in-xcode-13)
+- [Kintsugi](https://github.com/Lightricks/Kintsugi) - Tool to automatically resolve Git conflicts that occur in Xcode project files.
