@@ -41,3 +41,4 @@
 - [Live-coding a linked hash map in Rust (2018)](https://www.youtube.com/watch?v=k6xR2kf9hlA)
 - [Representing SHA-256 Hashes As Avatars (2021)](https://francoisbest.com/posts/2021/hashvatars) ([HN](https://news.ycombinator.com/item?id=26861728))
 - [Introduction to Locality-Sensitive Hashing (2018)](http://tylerneylon.com/a/lsh1/) ([HN](https://news.ycombinator.com/item?id=27614381))
+- [Hash maps that don’t hate you (2021)](https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a) ([Lobsters](https://lobste.rs/s/s9geyj/hash_maps_don_t_hate_you))

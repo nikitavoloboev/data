@@ -166,3 +166,4 @@
 - [A Brief History of Just-in-Time (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
 - [Essentials of Compilation: An Incremental Approach (2018)](https://jeapostrophe.github.io/courses/2018/spring/406/notes/book.pdf)
 - [How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More (2020)](https://carolchen.me/blog/technical/jits-impls/)
+- [Software and Hardware Techniques for Efficient Polymorphic Calls (1999)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.177&rep=rep1&type=pdf)
