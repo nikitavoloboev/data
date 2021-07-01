@@ -87,3 +87,4 @@
 - [Shopify CLI](https://github.com/Shopify/shopify-cli) - Helps you build Shopify themes and apps.
 - [Hydrogen](https://shopify.dev/hydrogen) - Build custom storefronts faster and easier than ever powered by Shopify.
 - [Tailwind Ecommerce CSS UI Components](https://tailwindui.com/ecommerce)
+- [Dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.

@@ -93,3 +93,4 @@ Learning to build [startups](startups/startups.md).
 - [Actionable Steps for Building the Right Business with Arvid Kahl (2021)](https://www.indiehackers.com/podcast/212-arvid-kahl)
 - [What happens in an IPO? – A beginner's guide (2021)](https://www.simplanations.in/p/ipo-1) ([HN](https://news.ycombinator.com/item?id=27538095))
 - [700+ $1B+ private companies in one chart (2021)](https://twitter.com/ekmokaya/status/1409007634246770689)
+- [Stripe Atlas: the first five years and 20k startups (2021)](https://stripe.com/blog/atlas-first-five-years) ([HN](https://news.ycombinator.com/item?id=27700804))

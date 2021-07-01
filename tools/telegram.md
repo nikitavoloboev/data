@@ -50,6 +50,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Release Tracker](https://github.com/dracarys18/git_release_tracker) - Telegram Bot written in Rust to Track new Github releases.
 - [TgBot-RS](https://github.com/dracarys18/grpmr-rs) - Modular Telegram Group Manager Bot written in Rust.
 - [TweetBot](https://github.com/dracarys18/TweetBot) - Telegram Bot to Stream the tweets from any twitter accounts to Telegram Channel.
+- [Telegram to Notion](https://telegramtonotion.com/) - Instantly send content from Telegram to Notion.
 
 ## Links
 

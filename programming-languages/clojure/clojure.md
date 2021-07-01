@@ -137,3 +137,4 @@
 - [Tour of our 250k line Clojure codebase (2021)](https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/) ([HN](https://news.ycombinator.com/item?id=27385208))
 - [Clojure Transducers (2021)](https://joannecheng.me/2021/06/11/transducers.html)
 - [Data notation in Clojure (2021)](https://ostash.dev/posts/2021-06-24-edn-data-notation/) ([HN](https://news.ycombinator.com/item?id=27685875))
+- [REPL vs CLI: IDE wars (2021)](https://vlaaad.github.io/clj-vs-cli) ([HN](https://news.ycombinator.com/item?id=27698987))
