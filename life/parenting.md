@@ -42,3 +42,4 @@
 - [Books about parenting (2021)](https://www.reddit.com/r/suggestmeabook/comments/nz8qet/my_girlfriend_gave_birth_two_months_ago_so_i_need/)
 - [What’re some clever ways you can help your kid out financially?](https://twitter.com/nateliason/status/1404441187143110660)
 - [Kids need freedom, too (2021)](https://www.persuasion.community/p/kids-need-freedom-too) ([HN](https://news.ycombinator.com/item?id=27530365))
+- [Pregnancy cheat sheet - having a smart baby (2021)](https://www.reddit.com/r/Nootropics/comments/obhb46/pregnancy_cheat_sheet_hacks_for_having_a_smart/)

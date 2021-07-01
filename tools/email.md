@@ -161,3 +161,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Automating Gmail with AppsScript (2020)](https://akshayshah.org/automating-gmail-with-appsscript/)
 - [Dada Mail](https://github.com/justingit/dada-mail) - Contemporary, mature and intuitive web-based e-mail list management system.
 - [Security and insecurity of e-mail (2020)](https://foxcpp.dev/articles/security-and-insecurity-of-email)
+- [Go SMPP](https://github.com/fiorix/go-smpp) - SMPP 3.4 Protocol for Go.

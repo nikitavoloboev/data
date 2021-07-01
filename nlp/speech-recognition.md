@@ -54,3 +54,4 @@
 - [Online Speech recognition using RNN-Transducer](https://github.com/theblackcat102/edgedict)
 - [Openspeech](https://github.com/sooftware/openspeech) - Open-Source Toolkit for End-to-End Speech Recognition.
 - [Unsupervised Speech Decomposition via Triple Information Bottleneck (2020)](https://arxiv.org/abs/2004.11284) ([Code](https://github.com/auspicious3000/SpeechSplit))
+- [AudioCLIP: Extending CLIP to Image, Text and Audio (2021)](https://arxiv.org/abs/2106.13043) ([Code](https://github.com/AndreyGuzhov/AudioCLIP))

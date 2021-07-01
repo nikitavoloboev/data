@@ -111,3 +111,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Ask HN: Anybody Started a Research Institute? (2021)](https://news.ycombinator.com/item?id=27300594)
 - [Theories Used in information systems (IS) Research Wiki](https://is.theorizeit.org/wiki/Main_Page)
 - [ReScience C](https://rescience.github.io/) - Reproducible Science is Good. Replicated Science is better. ([Code](https://github.com/ReScience/ReScience))
+- [Beaker](https://beaker.org/) - Collaborative platform for rapid and reproducible research. ([Code](https://github.com/allenai/beaker))

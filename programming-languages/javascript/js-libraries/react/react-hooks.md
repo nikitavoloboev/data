@@ -100,6 +100,7 @@
 - [useStateMachine](https://github.com/cassiozen/useStateMachine) - ½ kb state machine hook for React. ([HN](https://news.ycombinator.com/item?id=27231269))
 - [react-hookz/web](https://github.com/react-hookz/web) - Library of general-purpose React hooks built with care and SSR compatibility in mind.
 - [React Cool Virtual](https://github.com/wellyshen/react-cool-virtual) - Tiny React hook for rendering large datasets like a breeze.
+- [React Solid State](https://github.com/solidjs/react-solid-state) - Local state swap for React using SolidJS.
 
 ## Notes
 

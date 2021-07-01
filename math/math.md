@@ -275,3 +275,4 @@
 - [What's your favorite proof? (2021)](https://twitter.com/anton_hilado/status/1399729494030794755)
 - [Math Memes Reddit](https://www.reddit.com/r/mathmemes/)
 - [Dr Peyam - YouTube](https://www.myoutube.com/c/DrPeyam/playlists)
+- [Too simple to be simple](https://ncatlab.org/nlab/show/too+simple+to+be+simple)

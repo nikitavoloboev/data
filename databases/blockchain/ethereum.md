@@ -240,3 +240,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [StakeWise](https://stakewise.io/) - Ethereum Proof Of Stake Pool and Solo Staking. ([GitHub](https://github.com/stakewise))
 - [Polygon](https://polygon.technology/) - Ethereum's Internet of Blockchains.
 - [Connext](https://connext.network/) - Interoperability protocol for L2 Ethereum. ([GitHub](https://github.com/connext))
+- [simple-uniswap-sdk](https://github.com/uniswap-integration/simple-uniswap-sdk) - Uniswap SDK.
+- [Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts. ([Web](https://getwaffle.io/))

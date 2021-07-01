@@ -21,6 +21,7 @@
 - [Hermes JS Engine](https://github.com/facebook/hermes) - Small and lightweight JavaScript engine optimized for running React Native on Android.
 - [Upgrade Helper](https://github.com/react-native-community/upgrade-helper) - Web interface to support React Native developers in upgrading their apps.
 - [react-native-tscodegen](https://github.com/microsoft/react-native-tscodegen) - Generate react-native turbo modules using TypeScript.
+- [Re.pack](https://github.com/callstack/repack) - Webpack-based toolkit to build your React Native application with full support of Webpack ecosystem.
 - [Haul](https://github.com/callstack/haul) - Drop-in replacement for react-native CLI built on open tools like Webpack.
 - [zacs](https://github.com/Nozbe/zacs) - Zero Abstraction Cost Styling (for React DOM & React Native)
 - [How Discord achieves native iOS performance with React Native (2019)](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502) ([HN](https://news.ycombinator.com/item?id=21480493))

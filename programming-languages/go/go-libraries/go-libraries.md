@@ -858,6 +858,7 @@
 - [EventBus](https://github.com/asaskevich/EventBus) - Lightweight eventbus with async compatibility for Go.
 - [bytebufferpool](https://github.com/valyala/bytebufferpool) - Implementation of a pool of byte buffers with anti-memory-waste protection.
 - [PHC Crypto](https://github.com/aldy505/phc-crypto) - Hashing algorithms simplified.
+- [bitmap](https://github.com/kelindar/bitmap) - SIMD-Vectorized Bitmap (Bitset) in Go.
 
 ## Links
 

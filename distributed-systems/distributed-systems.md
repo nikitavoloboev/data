@@ -199,3 +199,4 @@
 - [Emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform. ([Web](https://emitter.io/))
 - [Patterns of Distributed Systems: Lamport Clock (2021)](https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html)
 - [Make your cluster SWIM (2020)](https://bartoszsypytkowski.com/make-your-cluster-swim/)
+- [Systemizer](https://github.com/honzaap/Systemizer) - Tool for designing complex distributed systems, allowing you to simulate data flow with customizable components. ([Web](https://honzaap.github.io/Systemizer/))
