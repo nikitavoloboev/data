@@ -122,3 +122,4 @@
 - [Docker is a compiler (2021)](https://matt-rickard.com/docker-is-a-compiler/) ([Lobsters](https://lobste.rs/s/tkfrqc/docker_is_compiler))
 - [Execute Docker Containers as QEMU MicroVMs (2021)](https://mergeboard.com/blog/2-qemu-microvm-docker/) ([HN](https://news.ycombinator.com/item?id=27530074))
 - [xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers.
+- [Pumba](https://github.com/alexei-led/pumba) - Chaos testing command line tool for Docker containers.

@@ -132,6 +132,7 @@
 - [foldl](https://github.com/Gabriel439/Haskell-Foldl-Library) - Composable, streaming, and efficient left folds.
 - [extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles.
 - [hint](https://github.com/haskell-hint/hint) - Runtime Haskell interpreter.
+- [volpano-smith](https://github.com/madgen/volpano-smith) - Compile-time privacy enforcing language embedded in Haskell.
 
 ## Links
 
