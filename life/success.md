@@ -114,3 +114,4 @@ Success comes from not giving up and doing what you love.
 - [Don't shrink yourself to make others happy](https://twitter.com/TriciaKicksSaaS/status/1407754902370193410)
 - [How to Work Hard (2021)](http://paulgraham.com/hwh.html) ([HN](https://news.ycombinator.com/item?id=27675603))
 - [Ask HN: How to grow after 10 years in the industry? (2021)](https://news.ycombinator.com/item?id=27661713)
+- [The most precious resource is agency (2021)](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency) ([HN](https://news.ycombinator.com/item?id=27695181)) ([Tweet](https://twitter.com/simonsarris/status/1410394551848779781))

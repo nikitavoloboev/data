@@ -257,7 +257,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation.
 - [GitLive](https://git.live/) - Extend Git with real-time collaborative superpowers.
 - [A Random Walk Through Git](https://bakkenbaeck.github.io/a-random-walk-through-git/)
-- [When it comes to git history, less is more (2021)](https://brennan.io/2021/06/15/git-less-is-more/) ([Lobsters](https://lobste.rs/s/b9pddy/when_it_comes_git_history_less_is_more))
+- [When it comes to git history, less is more (2021)](https://brennan.io/2021/06/15/git-less-is-more/) ([Lobsters](https://lobste.rs/s/b9pddy/when_it_comes_git_history_less_is_more)) ([HN](https://news.ycombinator.com/item?id=27643057))
 - [Git undo: We can do better (2021)](https://blog.waleedkhan.name/git-undo/) ([HN](https://news.ycombinator.com/item?id=27579701))
 - [Collection of Useful .gitattributes Templates](https://github.com/alexkaratarakis/gitattributes)
 - [git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git. Suite of tools to help you visualize, navigate, manipulate, and repair your commit history.

@@ -30,3 +30,4 @@
 - [Developing mobile digital key applications with ClojureScript (2021)](https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/)
 - [Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides/#0) ([HN](https://news.ycombinator.com/item?id=27499904))
 - [Racing Game in ClojureScript](https://github.com/ertugrulcetin/racing-game-cljs) ([HN](https://news.ycombinator.com/item?id=27597987))
+- [clojureflare](https://github.com/sauercrowd/clojureflare) - Clojurescript library to simplify the use with Cloudflare workers, focusing on simplicity.

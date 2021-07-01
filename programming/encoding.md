@@ -28,3 +28,4 @@
 - [Practical Reed-Solomon for Programmers (2021)](https://berthub.eu/articles/posts/reed-solomon-for-programmers/)
 - [Apache Avro](https://github.com/apache/avro) - Data serialization system. ([Web](https://avro.apache.org/))
 - [Unicode sorting is hard & why browsers added special emoji matching to regexp (2021)](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
+- [Any Encoding, Ever (2021)](https://thephd.dev/any-encoding-ever-ztd-text-unicode-cpp) ([HN](https://news.ycombinator.com/item?id=27695412))
