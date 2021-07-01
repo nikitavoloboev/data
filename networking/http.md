@@ -134,4 +134,4 @@
 - [HTTP Archive](https://httparchive.org/) - Tracks how the web is built by periodically crawl the top sites on the web. ([Twitter](https://twitter.com/HTTPArchive))
 - [Plow](https://github.com/six-ddc/plow) - High-performance HTTP benchmarking tool with real-time web UI and terminal displaying.
 - [Security headers quick reference (2021)](https://web.dev/security-headers/)
-- [Encoding data for POST requests (2021)](https://jakearchibald.com/2021/encoding-data-for-post-requests/)
+- [Encoding data for POST requests (2021)](https://jakearchibald.com/2021/encoding-data-for-post-requests/) ([HN](https://news.ycombinator.com/item?id=27697884))

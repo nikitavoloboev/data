@@ -17,3 +17,4 @@
 - [Traduora](https://traduora.com/) - Translation management platform for teams. ([Code](https://github.com/traduora/traduora))
 - [Keys Manager](https://github.com/ngneat/transloco-keys-manager) - Key to a Better Translation Experience.
 - [AppLocale](https://applocale.dev/) - Better way to manage translations.
+- [react-i18n-mini](https://github.com/SanichKotikov/react-i18n-mini) - Tiny internationalization library for React.
