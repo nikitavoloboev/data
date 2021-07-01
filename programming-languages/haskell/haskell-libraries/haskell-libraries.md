@@ -131,6 +131,7 @@
 - [What4](https://github.com/GaloisInc/what4) - Symbolic formula representation and solver interaction library.
 - [foldl](https://github.com/Gabriel439/Haskell-Foldl-Library) - Composable, streaming, and efficient left folds.
 - [extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles.
+- [hint](https://github.com/haskell-hint/hint) - Runtime Haskell interpreter.
 
 ## Links
 
