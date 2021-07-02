@@ -63,3 +63,4 @@
 - [Scaling Your Vue Components for Mid-Large Size Apps (2021)](https://harlanzw.com/blog/scale-your-vue-components/)
 - [Building a Vue Auto Component Importer (2020)](https://harlanzw.com/blog/vue-automatic-component-imports/)
 - [Naive UI](https://github.com/TuSimple/naive-ui) - Vue 3 Component Library. ([Web](https://www.naiveui.com/en-US/os-theme))
+- [petite-vue](https://github.com/vuejs/petite-vue) - Alternative distribution of Vue optimized for progressive enhancement.

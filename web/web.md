@@ -279,3 +279,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [A framework for building Open Graph images (2021)](https://github.blog/2021-06-22-framework-building-open-graph-images/)
 - [You have one shot to redesign the Internet. What are you going to change? (2021)](https://news.ycombinator.com/item?id=27663618)
 - [Morty](https://github.com/asciimoo/morty) - Privacy aware web content sanitizer proxy as a service.
+- [Vite SSR Starter](https://github.com/s-kris/vite-ssr-starter) - Quickly build full-stack webapps with SSR using vitejs.

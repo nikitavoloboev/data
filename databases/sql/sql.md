@@ -122,3 +122,4 @@
 - [sqlgg](https://github.com/ygrek/sqlgg) - SQL Guided (code) Generator. ([Web](https://ygrek.org/p/sqlgg/))
 - [sqldef](https://github.com/k0kubun/sqldef) - Idempotent MySQL/PostgreSQL schema management by SQL. ([Web](https://sqldef.github.io/))
 - [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
+- [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
