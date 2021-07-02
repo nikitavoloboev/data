@@ -165,3 +165,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Мигранты которые вернулись обратно в Россию? (2021)](https://www.reddit.com/r/AskARussian/comments/nz355o/%D0%B5%D1%81%D1%82%D1%8C_%D1%82%D1%83%D1%82_%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D1%82%D1%8B_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D0%BB%D0%B8%D1%81%D1%8C_%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%BE_%D0%B2/)
 - [Алишер Моргенштерн Интервью (2021)](https://www.youtube.com/watch?v=c5rJ2YNK-KQ)
 - [Moving to Russia (2021)](https://www.reddit.com/r/AskARussian/comments/o3m8zt/moving_to_russia/)
+- [Какая сумма денег для комфортной жизни вам сейчас нужна? (2021)](https://twitter.com/julia_pelipenko/status/1410635576760541184)
