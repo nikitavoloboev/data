@@ -200,3 +200,4 @@
 - [Patterns of Distributed Systems: Lamport Clock (2021)](https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html)
 - [Make your cluster SWIM (2020)](https://bartoszsypytkowski.com/make-your-cluster-swim/)
 - [Systemizer](https://github.com/honzaap/Systemizer) - Tool for designing complex distributed systems, allowing you to simulate data flow with customizable components. ([Web](https://honzaap.github.io/Systemizer/))
+- [Patterns of Distributed Systems: Follower Reads (2021)](https://martinfowler.com/articles/patterns-of-distributed-systems/follower-reads.html)
