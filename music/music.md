@@ -134,3 +134,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [A beginner’s guide to modern art jazz](https://lukemuehlhauser.com/a-beginners-guide-to-modern-art-jazz/)
 - [A Beginner’s Guide to Miles Davis](https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/) ([HN](https://news.ycombinator.com/item?id=27525047))
 - [The Fine Art of Combining Harmonics](https://whatmusicreallyis.com/research/harmonicomb/) ([HN](https://news.ycombinator.com/item?id=27588673))
+- [One man's dream to build the best music system with no holds barred - Ken Fritz Documentary (2021)](https://www.youtube.com/watch?v=4b2IOOhJmxw)

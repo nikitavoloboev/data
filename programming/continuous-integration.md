@@ -51,3 +51,4 @@
 - [Mega-Linter](https://github.com/nvuillam/mega-linter) - Open-Source tool for CI/CD workflows that analyzes consistency and quality.
 - [Woodpecker](https://github.com/woodpecker-ci/woodpecker) - Simple CI engine with great extensibility. ([Docs](https://woodpecker.laszlo.cloud/))
 - [BuildKit integration for Rust](https://github.com/denzp/rust-buildkit)
+- [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)

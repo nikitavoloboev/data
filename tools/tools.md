@@ -180,6 +180,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. ([Web](https://grafana.com/oss/loki/))
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
 - [Creo](https://creolabs.com/) - Next generation iOS, macOS and Android cross-platform app builder.
+- [SafeGraph](https://www.safegraph.com/) - Places Data & Foot Traffic Insights.
 - [Viable Fit](https://www.viable.fit/) - Measure and improve your product market fit.
 - [Appstitch](https://appstitch.dev/) - Low-code alternative for Stripe/Twilio Integrations. ([HN](https://news.ycombinator.com/item?id=25821898))
 - [Kosmik](https://lithium.paris/) - Your all-in-one creative space.
