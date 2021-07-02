@@ -501,3 +501,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [diffsitter](https://github.com/afnanenayet/diffsitter) - tree-sitter based AST difftool to get meaningful semantic diffs.
 - [Mystic Symbolic Creature](https://www.mysticsymbolic.art/)
 - [Creative Commons Media](https://github.com/shime/creative-commons-media) - Curated list of resources that provide media licensed under Creative Commons licenses.
+- [PAGNIs: Probably Are Gonna Need Its (2021)](https://simonwillison.net/2021/Jul/1/pagnis/) ([HN](https://news.ycombinator.com/item?id=27703299))

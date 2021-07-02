@@ -100,3 +100,4 @@
 - [All About RSS](https://github.com/AboutRSS/ALL-about-RSS) - List of RSS related stuff: tools, services, communities and tutorials, etc.
 - [Ratt](https://gitlab.com/microo8/ratt) - Tool for converting websites to RSS/Atom feeds.
 - [genRSS](https://github.com/amsehili/genRSS) - Generates a RSS 2 feed from media files in a directory.
+- [What is RSS (Really Simple Syndication)?](https://ncase.me/rss/) ([HN](https://news.ycombinator.com/item?id=27709549))
