@@ -63,3 +63,4 @@
 - [Circuit Synthesis for Analog Computing (2021)](https://blog.sigplan.org/2021/05/18/circuit-synthesis-for-analog-computing/) ([HN](https://news.ycombinator.com/item?id=27194378))
 - [Designing Electronics that Work](http://designingelectronics.com/) - Book on practical electronics design. ([HN](https://news.ycombinator.com/item?id=27439266))
 - [Voltage, Amps, Resistance and LEDs (2021)](https://blog.demofox.org/2021/06/15/voltage-amps-resistance-and-leds-ohms-law/) ([HN](https://news.ycombinator.com/item?id=27525615))
+- [Eddy Current](https://en.wikipedia.org/wiki/Eddy_current)

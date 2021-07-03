@@ -137,4 +137,4 @@
 - [Extreme Classification with Vector Similarity Search](https://www.pinecone.io/docs/examples/extreme-classification/)
 - [Brave Search](https://search.brave.com/) - Private search. ([HN](https://news.ycombinator.com/item?id=27593360))
 - [System Design for Recommendations and Search (2021)](https://eugeneyan.com/writing/system-design-for-discovery/)
-- [How not to break a search engine or: What I learned about unglamorous engineering (2021)](https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/)
+- [How not to break a search engine (2021)](https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/)
