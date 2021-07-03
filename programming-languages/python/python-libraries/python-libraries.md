@@ -88,6 +88,7 @@
 - [python-nubia](https://github.com/facebookincubator/python-nubia) - Lightweight framework for building command-line applications with Python.
 - [argcomplete](https://github.com/kislyuk/argcomplete) - Python and tab completion, better together.
 - [docopt-ng](https://github.com/jazzband/docopt-ng) - Humane command line arguments parser. Now with maintenance, typehints, and complete test coverage.
+- [Plotext](https://github.com/piccolomo/plotext) - Python Plotting on the Terminal. ([HN](https://news.ycombinator.com/item?id=27719759))
 
 ## DB
 

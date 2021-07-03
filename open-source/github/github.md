@@ -231,3 +231,4 @@ I publish most of my work and make it open source for other people to use and re
 - [ghissue](https://github.com/hcgatewood/ghissue) - Bulk-upload GitHub Issues.
 - [Maintainers](https://maintainers.app/) - Maintain your GitHub Projects.
 - [GitHub Copilot](https://copilot.github.com/) - Your AI pair programmer. ([HN](https://news.ycombinator.com/item?id=27676266)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/oaambv/n_github_and_openai_release_copilot_an_ai_pair/)) ([Lobsters](https://lobste.rs/s/rxml1k/github_copilot_your_ai_pair_programmer))
+- [Grafana GitHub datasource](https://github.com/grafana/github-datasource) - GitHub datasource allows GitHub API data to be visually represented in Grafana dashboards.

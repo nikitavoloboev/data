@@ -361,4 +361,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Note Taking in 2021](http://blog.dornea.nu/2021/06/13/note-taking-in-2021/) ([HN](https://news.ycombinator.com/item?id=27513008))
 - [Fuzzynote (fzn)](https://github.com/Sambigeara/fuzzynote) - Terminal-based, CRDT-backed, collaborative note-taking. ([HN](https://news.ycombinator.com/item?id=27606604))
 - [My approach to taking notes in meetings (2021)](https://blog.witful.com/how-i-take-notes-in-meetings/) ([HN](https://news.ycombinator.com/item?id=27664419))
-- [Incremental Note-Taking (2021)](https://thesephist.com/posts/inc/) ([HN](https://news.ycombinator.com/item?id=27667538))
+- [Incremental Note-Taking (2021)](https://thesephist.com/posts/inc/) ([HN](https://news.ycombinator.com/item?id=27667538)) ([Code](https://github.com/thesephist/inc))
