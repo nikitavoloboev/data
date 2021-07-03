@@ -61,3 +61,4 @@
 - [Log-structured File Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)
 - [nullfsvfs](https://github.com/abbbi/nullfsvfs) - Virtual black hole file system that behaves like /dev/null.
 - [ffs](https://github.com/mgree/ffs) - File filesystem: mount semi-structured data (like JSON) as a Unix filesystem. ([Web](https://mgree.github.io/ffs/)) ([Tweet](https://twitter.com/mgrnbrg/status/1409871452099198982))
+- [fbox](https://github.com/prologic/fbox) - Easy to use and maintain distributed filesystem written in Go.

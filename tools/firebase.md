@@ -29,3 +29,4 @@
 - [Firebase SQL](https://github.com/JoeRoddy/firebase-sql) - JS library to execute SQL queries against Firebase databases.
 - [Firebase Hosting GitHub Action](https://github.com/FirebaseExtended/action-hosting-deploy) - Automatically deploy shareable previews for your Firebase Hosting sites.
 - [Firebase Admin Go SDK](https://github.com/firebase/firebase-admin-go)
+- [Firecode](https://github.com/kafkas/firecode) - Light, fast, and memory-efficient collection traversal library for Firestore and Node.js.
