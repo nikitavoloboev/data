@@ -284,6 +284,7 @@
 - [Arraygen](https://github.com/theypsilon/arraygen) - Derive macro for generating arrays from struct fields.
 - [flamer](https://github.com/llogiq/flamer) - Compiler plugin to insert flame calls.
 - [bitflags](https://github.com/bitflags/bitflags) - Macro to generate structures which behave like bitflags.
+- [nightly-crimes](https://github.com/m-ou-se/nightly-crimes) - Allow you to enable nightly features on the stable compiler.
 
 ## Math
 

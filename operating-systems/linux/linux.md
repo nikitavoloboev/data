@@ -334,4 +334,4 @@
 - [Avoiding Complexity with Systemd (2021)](https://mgdm.net/weblog/systemd/) ([HN](https://news.ycombinator.com/item?id=27649342)) ([Lobsters](https://lobste.rs/s/xxyjxl/avoiding_complexity_with_systemd))
 - [Understanding thread stack sizes and how alpine is different (2021)](https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/)
 - [The 7 most used Linux namespaces (2021)](https://www.redhat.com/sysadmin/7-linux-namespaces)
-- [How To Add eBPF Observability To Your Product (2021)](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html)
+- [How To Add eBPF Observability To Your Product (2021)](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html) ([HN](https://news.ycombinator.com/item?id=27722947))
