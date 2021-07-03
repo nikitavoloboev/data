@@ -322,3 +322,4 @@
 - [XCiT: Cross-Covariance Image Transformers (2021)](https://arxiv.org/abs/2106.09681) ([Code](https://github.com/facebookresearch/xcit))
 - [Robust Consistent Video Depth Estimation (2021)](https://robust-cvd.github.io/) ([Code](https://github.com/facebookresearch/robust_cvd))
 - [cvpods](https://github.com/Megvii-BaseDetection/cvpods) - All-in-one Toolbox for Computer Vision Research.
+- [CDFI: Compression-Driven Network Design for Frame Interpolation (2021)](https://arxiv.org/abs/2103.10559) ([Code](https://github.com/tding1/CDFI))
