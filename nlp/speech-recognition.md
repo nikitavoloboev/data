@@ -55,3 +55,4 @@
 - [Openspeech](https://github.com/sooftware/openspeech) - Open-Source Toolkit for End-to-End Speech Recognition.
 - [Unsupervised Speech Decomposition via Triple Information Bottleneck (2020)](https://arxiv.org/abs/2004.11284) ([Code](https://github.com/auspicious3000/SpeechSplit))
 - [AudioCLIP: Extending CLIP to Image, Text and Audio (2021)](https://arxiv.org/abs/2106.13043) ([Code](https://github.com/AndreyGuzhov/AudioCLIP))
+- [Wav2vec: Semi and Unsupervised Speech Recognition](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition) ([HN](https://news.ycombinator.com/item?id=27722333))

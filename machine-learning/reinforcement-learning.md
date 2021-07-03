@@ -212,3 +212,4 @@
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl)
 - [Meta-World](https://github.com/rlworkgroup/metaworld) - Open source robotics benchmark for meta- and multi-task reinforcement learning. ([Web](https://meta-world.github.io/))
 - [garage](https://github.com/rlworkgroup/garage) - Toolkit for reproducible reinforcement learning research.
+- [Reinforcement Learning as One Big Sequence Modeling Problem (2021)](https://arxiv.org/abs/2106.02039)

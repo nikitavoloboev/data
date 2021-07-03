@@ -50,3 +50,4 @@ In any way, it is an interesting subject I don't know much about.
 - [The Darkest Philosopher in History - Arthur Schopenhauer (2021)](https://www.youtube.com/watch?v=MpMkXyBWpl8)
 - [A first lesson in meta-rationality](https://metarationality.com/bongard-meta-rationality) ([HN](https://news.ycombinator.com/item?id=27411960))
 - [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)
+- [The Beginning of Infinity](https://nav.al/infinity)
