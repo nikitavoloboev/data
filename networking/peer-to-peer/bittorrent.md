@@ -58,3 +58,4 @@
 - [The Pirate Bay – Darknet Diaries (2021)](https://darknetdiaries.com/episode/92/)
 - [Transmission-rpc](https://github.com/Trim21/transmission-rpc) - Python module implementing the json-rpc client protocol for the BitTorrent client Transmission.
 - [dht-crawler](https://github.com/mmathys/dht-crawler) - Minimal BitTorrent crawler and scheduler with RethinkDB backend to collect, analyse and store peers.
+- [BitTorrent Turns 20: The File-Sharing Revolution Revisited (2021)](https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/) ([HN](https://news.ycombinator.com/item?id=27719222))
