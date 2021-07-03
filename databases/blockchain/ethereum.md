@@ -243,3 +243,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [simple-uniswap-sdk](https://github.com/uniswap-integration/simple-uniswap-sdk) - Uniswap SDK.
 - [Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts. ([Web](https://getwaffle.io/))
 - [Programming DeFi: Uniswap (2021)](https://jeiwan.net/posts/programming-defi-uniswap-1/)
+- [BlockScout](https://github.com/blockscout/blockscout) - Blockchain Explorer for inspecting and analyzing EVM Chains. ([Web](https://blockscout.com/xdai/mainnet/)) ([Docs](https://docs.blockscout.com/))

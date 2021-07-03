@@ -67,3 +67,4 @@
 - [Cake](https://github.com/wurosh/cake) - Thin wrapper around make that runs all targets inside a development Docker/Podman container. ([HN](https://news.ycombinator.com/item?id=27378642))
 - [Why We Need Build Systems (2021)](https://blog.feabhas.com/2021/06/why-we-need-build-systems/) ([Lobsters](https://lobste.rs/s/nuzppx/why_we_need_build_systems))
 - [Compilation Database Generator](https://github.com/nickdiego/compiledb) - Tool for generating Clang's JSON Compilation Database files for make-based build systems.
+- [hlb](https://github.com/openllb/hlb) - Developer-first language to build and test any software efficiently.

@@ -68,3 +68,4 @@
 - [Codis](https://github.com/CodisLabs/codis) - Proxy based high performance Redis cluster solution written in Go.
 - [Godis](https://github.com/HDT3213/godis) - Go implementation of Redis Server.
 - [Ocypod](https://github.com/davechallis/ocypod) - Language-agnostic, Redis-backed job queue server with an HTTP interface and a focus on long running tasks.
+- [Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - Faster, better and more stable redis desktop manager.

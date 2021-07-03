@@ -28,6 +28,10 @@
 
 - [greatest](https://github.com/silentbicycle/greatest) - C testing library in 1 file. No dependencies, no dynamic allocation.
 
+## CLI
+
+- [Argtable3](https://github.com/argtable/argtable3) - Single-file, ANSI C, command-line parsing library that parses GNU-style command-line options.
+
 ## Other
 
 - [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc implementation that emphasizes fragmentation avoidance and scalable concurrency support.

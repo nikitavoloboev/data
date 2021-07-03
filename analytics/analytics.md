@@ -78,3 +78,4 @@ If analytics are used, it's best to implement them server side with something li
 - [YoMo](https://www.yomo.run/) - Real-Time Data Analytics.
 - [A list of privacy-friendly Google Analytics alternatives (2021)](https://creativerly.com/google-analytics-alternatives/) ([HN](https://news.ycombinator.com/item?id=27604673))
 - [ganalytics](https://github.com/lukeed/ganalytics) - Tiny (312B) client-side module for tracking with Google Analytics.
+- [Load-testing my Web Analytics Tool](https://johnmathews.eu/load-testing-web-analytics-tool.html)

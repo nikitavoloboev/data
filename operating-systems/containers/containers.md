@@ -116,3 +116,4 @@
 - [Containerlab - your network-centric labs with a Docker UX (2021)](https://netdevops.me/2021/containerlab-your-network-centric-labs-with-a-docker-ux/)
 - [The Need for Slimmer Containers (2021)](https://iximiuz.com/en/posts/thick-container-vulnerabilities/) ([HN](https://news.ycombinator.com/item?id=27377560))
 - [Demystifying container networking (2017)](https://blog.mbrt.dev/posts/container-network/)
+- [RootlessKit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for implementing rootless containers.

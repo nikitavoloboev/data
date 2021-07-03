@@ -11,6 +11,7 @@
 - [Discord GitHub Bot](https://github.com/Falconerd/discord-bot-github) - Consumes the GitHub API and gives you updates.
 - [discordcat](https://github.com/k-nasa/discordcat) - CLI utility to post files and command output to discord.
 - [Bulbbot](https://github.com/TeamBulbbot/bulbbot) - Discord Moderation bot.
+- [Discord-Rose](https://github.com/discord-rose/discord-rose) - Simple Discord library for advanced users.
 
 ## Libraries
 
