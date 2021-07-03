@@ -168,3 +168,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [The ABCs of DAOs (2021)](https://1729.com/daos/) ([Tweet](https://twitter.com/brian_armstrong/status/1410280852454400004))
 - [KYVE Network](https://kyve.network/) - Protocol that enables blockchain networks to reliably store and verify their data streams.
 - [Building Blockchain in Go (2017)](https://jeiwan.net/posts/building-blockchain-in-go-part-1/) ([Code](https://github.com/Jeiwan/blockchain_go))
+- [Pact](https://github.com/kadena-io/pact) - Open-source, Turing-incomplete smart contract language that has been purpose-built with blockchains first in mind.

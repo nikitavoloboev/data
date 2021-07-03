@@ -112,3 +112,4 @@
 - [React Native Jigsaw](https://github.com/draftbit/react-native-jigsaw) - Draftbit's component library used inside our Builder.
 - [React Native Performance tooling](https://github.com/oblador/react-native-performance) - Toolchain to measure and monitor the performance of your React Native app in development, pipeline and in production.
 - [Getting Started with React Native JSI Modules (2021)](https://blog.notesnook.com/getting-started-react-native-jsi/)
+- [React Native Search Component](https://github.com/timelessco/react-native-search-component) - Inspired by iOS UISearchBar with Dark Mode.
