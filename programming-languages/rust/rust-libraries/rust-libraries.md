@@ -913,6 +913,7 @@
 - [cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
 - [Cargo Wharf](https://github.com/denzp/cargo-wharf) - Cacheable and efficient Docker images builder for Rust.
 - [cargo-deb](https://github.com/mmstick/cargo-deb) - Cargo subcommand that generates Debian packages from information in Cargo.toml.
+- [Cargo Remote](https://github.com/sgeisler/cargo-remote) - Cargo subcommand to compile rust projects remotely.
 
 ## Links
 

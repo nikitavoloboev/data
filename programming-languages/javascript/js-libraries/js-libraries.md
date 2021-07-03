@@ -544,6 +544,7 @@
 - [Momoa JSON](https://github.com/humanwhocodes/momoa) - JSON parser, tokenizer, traverser, and printer.
 - [js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis.
 - [quetie](https://github.com/TomerAberbach/quetie) - Cutest and tiniest queue/deque implementation.
+- [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
 
 ## Links
 
