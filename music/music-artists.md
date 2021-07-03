@@ -200,6 +200,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) - [Trymai](https://open.spotify.com/track/4LKfJMumpW7HyBT05uXYUx)
 - [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) - [Mystery of Love](https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy)
 - [Piknik](https://open.spotify.com/artist/625pLI6ukICVgPMaZZ9QVX) - [Когда призрачный свет](https://open.spotify.com/track/2MLFfZUKc6qsFxEOmk2wO1?si=892ea6d1e8f64008)
+- [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) - [7 Days](https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x)
 
 ## Nice lyrics
 
