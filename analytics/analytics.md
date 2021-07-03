@@ -26,7 +26,6 @@ If analytics are used, it's best to implement them server side with something li
 - [RudderStack](https://rudderstack.com/) - Platform for collecting, storing and routing customer event data to dozens of tools. ([Code](https://github.com/rudderlabs/rudder-server))
 - [OpenTelemetry API for JavaScript](https://github.com/open-telemetry/opentelemetry-js) - Framework for collecting traces and metrics from applications.
 - [PostHog](https://posthog.com/) - Developer-friendly, open-source product analytics. ([Code](https://github.com/PostHog/posthog))
-- [We ditched Google Analytics for good (2020)](https://missiveapp.com/blog/privacy-first-analytics)
 - [A simple way to get more value from metrics](https://danluu.com/metrics-analytics/)
 - [We ditched Google Analytics for good (2020)](https://missiveapp.com/blog/privacy-first-analytics) ([HN](https://news.ycombinator.com/item?id=23378524))
 - [Netlify Analytics](https://www.netlify.com/products/analytics/)
