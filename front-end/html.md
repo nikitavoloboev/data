@@ -126,3 +126,4 @@
 - [html5parser](https://github.com/acrazing/html5parser) - Super fast and tiny HTML5 parser.
 - [templ](https://github.com/a-h/templ) - Strongly typed HTML templating language that compiles to Go code, and has great developer tooling.
 - [Capsid](https://github.com/capsidjs/capsid) - Declarative DOM programming library based on TypeScript decorators.
+- [html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser.

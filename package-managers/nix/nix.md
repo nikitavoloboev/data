@@ -196,3 +196,4 @@
 - [Nix solves the package manager ejection problem (2021)](https://zeroindexed.com/nix-ejection-problem) ([HN](https://news.ycombinator.com/item?id=27344677))
 - [Cross compilation using Nix](https://nix.dev/tutorials/cross-compilation)
 - [nix-std](https://github.com/chessai/nix-std) - no-nixpkgs standard library for the nix expression language.
+- [Nix unstable installer](https://github.com/numtide/nix-unstable-installer) - Place to host Nix unstable releases.

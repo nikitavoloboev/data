@@ -733,3 +733,4 @@
 - [xcframeworks](https://github.com/bielikb/xcframeworks) - Demonstration of creating and integrating xcframeworks and their co-op with static libraries and Swift packages.
 - [Swift Package Info](https://github.com/marinofelipe/swift-package-info) - Swift CLI tool that provides information about a Swift Package.
 - [Entrapta](https://github.com/kelvin13/entrapta) - Experimental tool to generate richly-linked, Apple-style API reference websites for Swift projects.
+- [docc2html](https://github.com/DoccZz/docc2html) - Static site generator for DocC documentation archives.

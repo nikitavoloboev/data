@@ -60,3 +60,4 @@
 - [debugger.lua](https://github.com/slembcke/debugger.lua) - Simple, embedabble CLI debugger for Lua.
 - [Terra](https://terralang.org/) - Low-level system programming language meta-programmed from Lua. ([HN](https://news.ycombinator.com/item?id=27334065)) ([Code](https://github.com/terralang/terra))
 - [Lua Language Server](https://github.com/sumneko/lua-language-server)
+- [Lua Patterns Viewer](https://gitspartv.github.io/lua-patterns/) - Tool for inspecting, analyzing and learning Lua patterns. ([Code](https://github.com/GitSparTV/lua-patterns))

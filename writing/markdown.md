@@ -71,3 +71,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Zeta Note](https://github.com/artempyanykh/zeta-note) - Markdown LSP server for easy note-taking with cross-references and diagnostics.
 - [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of markdown.
 - [Markdown Lint](https://github.com/markdownlint/markdownlint) - Tool to check markdown files and flag style issues.
+- [StackEdit](https://stackedit.io/) - In-browser Markdown editor. ([Code](https://github.com/benweet/stackedit))

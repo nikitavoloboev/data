@@ -429,6 +429,7 @@
 - [python-varname](https://github.com/pwwang/python-varname) - Dark magics about variable names in python.
 - [pytransform3d](https://github.com/rock-learning/pytransform3d) - Python library for transformations in three dimensions.
 - [Jellyfish](https://github.com/jamesturk/jellyfish) - Python library for doing approximate and phonetic matching of strings.
+- [CAC](https://github.com/shivin9/CAC) - Clustering Based Classification Algorithm.
 
 ## Links
 
