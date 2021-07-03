@@ -70,3 +70,4 @@
 - [Llama](https://github.com/nelhage/llama) - CLI for outsourcing computation to Amazon Lambda.
 - [Behind the scenes, AWS Lambda](https://www.bschaatsbergen.com/behind-the-scenes-lambda)
 - [Lambda-local](https://github.com/ashiina/lambda-local) - Lets you test NodeJS Amazon Lambda functions on your local machine, by providing a simplistic API and command-line tool.
+- [Modern Cloud](https://www.moderncloud.io/) - Browser-based serverless platform that lets developers build functions and endpoints in minutes. ([Code](https://github.com/ModernCloud/moderncloud))

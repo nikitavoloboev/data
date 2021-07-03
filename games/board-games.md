@@ -33,3 +33,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [Board Gaming in Figma (2021)](https://mastery.games/post/board-gaming-in-figma/)
 - [Roleplayful](https://roleplayful.com/) - Find people to play tabletop roleplaying games with. ([HN](https://news.ycombinator.com/item?id=26647424))
 - [GamesRoom.io](https://gamesroom.io/) - Board games and video chat.
+- [VASSAL](http://www.vassalengine.org/) - Game engine for building and playing online adaptations of board games and card games. ([Code](https://github.com/vassalengine/vassal))
