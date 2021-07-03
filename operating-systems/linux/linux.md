@@ -23,6 +23,7 @@
 - [LibreELEC](https://github.com/LibreELEC/LibreELEC.tv) - Linux distribution for the award-winning Kodi software on popular mediacentre hardware. ([Web](https://libreelec.tv/))
 - [GoboLinux](https://www.gobolinux.org/) - Alternative Linux distribution which redefines the entire filesystem hierarchy. ([HN](https://news.ycombinator.com/item?id=26002251))
 - [Garuda Linux](https://garudalinux.org/) ([HN](https://news.ycombinator.com/item?id=26001738))
+- [Chimera Linux](https://chimera-linux.org/) - Linux distribution based on FreeBSD userland and LLVM. ([HN](https://news.ycombinator.com/item?id=27721283))
 
 ## WM
 

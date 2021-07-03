@@ -40,3 +40,4 @@
 - [A look at Self's object system](https://sin-ack.github.io/posts/self-object-system/)
 - [Back to the future: the story of Squeak, a practical Smalltalk written in itself (1997)](http://www.vpri.org/pdf/tr1997001_backto.pdf)
 - [Dan Ingalls: “Observations on the Evolution of Smalltalk” (2021)](https://www.youtube.com/watch?v=xcYxSCH2y1w)
+- [Learning Squeak in 2020](https://wiki.squeak.org/squeak/6622)

@@ -75,4 +75,4 @@
 - [Paletter](https://www.paletter.app/) - Create professional color palettes. ([HN](https://news.ycombinator.com/item?id=26956105))
 - [culori](https://github.com/Evercoder/culori) - Comprehensive color library for JavaScript. ([Web](https://culorijs.org/))
 - [Mindfully curated color palettes](https://access.mymind.com/colors) - Collection of unique color combinations for your design projects.
-- [Towards richer colors on the Web (2021)](https://darker.ink/writings/Towards-richer-colors-on-the-Web)
+- [Towards richer colors on the Web (2021)](https://darker.ink/writings/Towards-richer-colors-on-the-Web) ([HN](https://news.ycombinator.com/item?id=27709788))
