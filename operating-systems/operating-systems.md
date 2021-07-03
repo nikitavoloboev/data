@@ -102,6 +102,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [mycelium](https://github.com/hawkw/mycelium) - Hobby OS in Rust.
 - [WINIX OS](https://github.com/halfer53/winix) - UNIX-style Operating System for the Waikato RISC Architecture Microprocessor. ([HN](https://news.ycombinator.com/item?id=27647079))
 - [Aquila OS](https://github.com/thethumbler/Aquila) - Complete Operating System (kernel + system) that is designed to be POSIX compliant and mostly ISA transparent. ([Web](https://aquilaos.com/))
+- [FuzixOS](https://github.com/EtchedPixels/FUZIX) - Because Small Is Beautiful.
 
 ## Notes
 

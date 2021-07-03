@@ -147,6 +147,7 @@
 - [Kvrocks](https://github.com/bitleak/kvrocks) - Distributed key value NoSQL database based on RocksDB and compatible with Redis protocol.
 - [UnQLite](https://github.com/symisc/unqlite) - Embedded NoSQL, Transactional Database Engine. ([Web](https://unqlite.org/))
 - [LinDB](https://github.com/lindb/lindb) - Scalable, high performance, high availability distributed time series database. ([Web](https://lindb.io/))
+- [TimeBase](https://github.com/epam/TimeBase) - High performance time series database. ([Web](https://timebase.info/))
 
 ## Tools
 

@@ -265,3 +265,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-sync](https://github.com/kubernetes/git-sync) - Simple command that pulls a git repository into a local directory. Keeps it in sync with the upstream.
 - [git-peek](https://github.com/Jarred-Sumner/git-peek) - Open a remote git repository in your local text editor.
 - [Things I wish Git had: Commit groups (2021)](http://blog.danieljanus.pl/2021/07/01/commit-groups/) ([HN](https://news.ycombinator.com/item?id=27722221))
+- [git when-merged](https://github.com/mhagger/git-when-merged) - Determine when a particular commit was merged into a git branch.

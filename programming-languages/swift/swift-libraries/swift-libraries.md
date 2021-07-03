@@ -712,6 +712,7 @@
 - [Pigeon](https://github.com/fmo91/Pigeon) - SwiftUI and UIKit library that relies on Combine to deal with asynchronous data.
 - [SwiftCF](https://github.com/ddddxxx/SwiftCF) - Use CoreFoundation based framework in Swift painlessly.
 - [Deeplink](https://github.com/TizianoCoroneo/Deeplink) - Library to parse deeplinks and their arguments using String interpolation.
+- [Ensure](https://github.com/buildpassed/ensure) - Type-based input validation.
 
 ## Other (not lib)
 

@@ -89,3 +89,5 @@
 - [qutip-qip](https://github.com/qutip/qutip-qip) - QuTiP quantum information processing package.
 - [Reality Behind the Hype: 40 Years of Quantum Computing (2021)](https://arxiv.org/abs/2106.10522)
 - [Mindscape 153 – John Preskill on Quantum Computers and What They’re Good For (2021)](https://www.youtube.com/watch?v=UYt4QG8iZ6U)
+- [Q-CTRL Open Controls](https://github.com/qctrl/python-open-controls) - Open-source Python package that makes it easy to create and deploy established error-robust quantum control protocols from the open literature.
+- [Q-CTRL](https://q-ctrl.com/) - World-leading quantum control engineering expertise as intuitive software. ([GitHub](https://github.com/qctrl))

@@ -546,6 +546,7 @@
 - [quetie](https://github.com/TomerAberbach/quetie) - Cutest and tiniest queue/deque implementation.
 - [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
 - [jsBezier](https://github.com/jsplumb/jsBezier) - Bezier curve helper functions for JavaScript.
+- [hydrate-text](https://github.com/vasilii-kovalev/hydrate-text) - Tiny library for dynamic text hydrating with variables.
 
 ## Links
 

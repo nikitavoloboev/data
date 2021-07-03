@@ -228,3 +228,7 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Bema](https://github.com/prisma-labs/bema) - Delightful benchmarking for Node.js.
 - [Hammer](https://github.com/sinclairzx81/hammer) - Build Tool for Browser and Node Applications.
 - [Commander.js](https://github.com/tj/commander.js) - Node.js command-line interfaces made easy.
+- [AdonisJS](https://adonisjs.com/) - Fully featured web framework for Node.js. ([Code](https://github.com/adonisjs/core))
+- [flydrive](https://github.com/Slynova-Org/flydrive) - Framework-agnostic package which provides a powerful wrapper to manage file Storage in Node.js.
+- [Japa](https://github.com/thetutlage/japa) - Embedable test runner for Node.js.
+- [Lucid](https://github.com/adonisjs/lucid) - Official SQL ORM for AdonisJS.
