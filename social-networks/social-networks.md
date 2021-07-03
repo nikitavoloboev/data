@@ -117,3 +117,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [The Great Online Game (2021)](https://www.notboring.co/p/the-great-online-game) ([Tweet](https://twitter.com/blakeir/status/1397278844986482691))
 - [Redact](https://redact.dev/) - Mass Delete your Social Media. ([HN](https://news.ycombinator.com/item?id=27303347))
 - [How to build communities to build better products?](https://twitter.com/petergyang/status/1408800481049149447)
+- [BeReal](https://bere.al/en) - Your Friends. For Real.

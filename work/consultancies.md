@@ -63,6 +63,7 @@
 - [PHYGITALISM](https://phygitalism.com/) - Moscow based design studio.
 - [Sensa](https://sensa.co/) - Strategy + Craft.
 - [BASIC](https://www.basicagency.com/) - Digital Branding & Experience Design Agency.
+- [Rejiggle](https://rejiggle.co/) - Conversion-Focused Design.
 
 ## DB
 
@@ -192,6 +193,7 @@
 - [Good Work](https://simplygoodwork.com/)
 - [SoftwareMill](https://softwaremill.com/) - Scala, Java, Blockchain, Big Data, Machine Learning.
 - [ColorElephant](https://colorelephant.com/)
+- [Morflax](https://morflax.com/) - Easiest online 3D design platform.
 
 ## Notes
 

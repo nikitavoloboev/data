@@ -49,3 +49,4 @@
 - [Penzil](https://www.penzil.app/) - 3D sketching for the web.
 - [Cadhub](https://cadhub.xyz/) - Space to share CAD projects. ([Learn](https://learn.cadhub.xyz/))
 - [Curated Code CAD](https://learn.cadhub.xyz/blog/curated-code-cad/) - List of the various code-cad projects out there. ([Code](https://github.com/Irev-Dev/curated-code-cad))
+- [Poly Haven](https://polyhaven.com/) - Public Asset Library.
