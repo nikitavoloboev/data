@@ -153,6 +153,8 @@
 - [YoMo](https://github.com/yomorun/yomo) - Streaming-Serverless Framework for Low-latency Edge Computing applications, running atop QUIC protocol, engaging 5G technology.
 - [httparty](https://github.com/jnunemaker/httparty) - Go HTTP library.
 - [jwt](https://github.com/dgrijalva/jwt-go) - Go implementation of JSON Web Tokens (JWT).
+- [carbonapi](https://github.com/go-graphite/carbonapi) - Implementation of graphite API (graphite-web) in Go.
+- [fast-graphql](https://github.com/karminski/fast-graphql) - Experimental GraphQL implementation with Go. This repo focuses on improve GraphQL Parse and Resolve speed to a new level.
 
 ## GraphQL
 

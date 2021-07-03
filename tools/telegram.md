@@ -34,6 +34,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Simple, but extensible Python implementation for the Telegram Bot API.
 - [Frankenstein](https://github.com/ayrat555/frankenstein) - Telegram bot API client for Rust.
 - [Telegram Test API](https://github.com/jehy/telegram-test-api) - Implementation of telegram API which can be used for testing telegram bots.
+- [tgfancy](https://github.com/GochoMugo/tgfancy) - Fancy, Higher-Level Wrapper for Telegram Bot API.
 
 ## Bots
 
@@ -51,6 +52,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [TgBot-RS](https://github.com/dracarys18/grpmr-rs) - Modular Telegram Group Manager Bot written in Rust.
 - [TweetBot](https://github.com/dracarys18/TweetBot) - Telegram Bot to Stream the tweets from any twitter accounts to Telegram Channel.
 - [Telegram to Notion](https://telegramtonotion.com/) - Instantly send content from Telegram to Notion.
+- [github2telegram](https://github.com/Civil/github2telegram) - Bot that can send notification of new releases to Telegram.
 
 ## Links
 

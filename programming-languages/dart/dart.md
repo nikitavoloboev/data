@@ -22,3 +22,4 @@
 - [Ferry](https://github.com/gql-dart/ferry) - Simple, powerful GraphQL Client for Flutter and Dart.
 - [ffi](https://github.com/dart-lang/ffi) - Utilities for working with Foreign Function Interface (FFI) code.
 - [Fpdart](https://github.com/SandroMaglione/fpdart) - Functional programming in Dart and Flutter.
+- [gql-dart/gql](https://github.com/gql-dart/gql) - Libraries supporting GraphQL in Dart.
