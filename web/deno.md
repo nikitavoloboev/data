@@ -110,3 +110,4 @@
 - [Deno Deploy Beta 1 (2021)](https://deno.com/blog/deploy-beta1)
 - [Sift](https://github.com/satyarohith/sift) - Routing and utility library for Deno Deploy.
 - [Packup](https://github.com/kt3k/packup) - Zero-config web application packager in Deno. ([Docs](https://packup.deno.dev/))
+- [dlink](https://github.com/keroxp/dlink) - Deno module linker.
