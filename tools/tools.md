@@ -203,6 +203,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Sextant](https://github.com/mattpocock/sextant) - GUI that lets you chart your application flows, then implement them with generated code.
 - [Windsor](https://windsor.io/) - Simplifying User Data.
 - [Ray.so](https://ray.so/) - Create beautiful images of your code. ([HN](https://news.ycombinator.com/item?id=26168285))
+- [Taplink](https://tap.link/) - Connects social media and messenger users to your content with just one link.
 - [JournalBook](https://github.com/trys/JournalBook) - Private, offline-first personal journal.
 - [DeepCode](https://www.deepcode.ai/) - Semantic static code analysis for better software - powered by AI.
 - [Pastel](https://usepastel.com/copy-changes) - Fastest way to suggest copy changes on any website.

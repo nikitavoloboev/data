@@ -68,4 +68,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bash lambda](https://github.com/spencertipping/bash-lambda) - Anonymous functions and FP stuff for bash.
 - [How to navigate directories faster with bash (2015)](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html) ([HN](https://news.ycombinator.com/item?id=26899531))
 - [Your `~/.bashrc` doesn't have to be a mess (2021)](https://write.as/bpsylevc6lliaspe) ([Lobsters](https://lobste.rs/s/r1tpld/your_bashrc_doesn_t_have_be_mess))
-- [Bash Function Names Can Be Almost Anything (2021)](https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/)
+- [Bash Function Names Can Be Almost Anything (2021)](https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/) ([HN](https://news.ycombinator.com/item?id=27726699))
