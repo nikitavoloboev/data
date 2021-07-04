@@ -170,3 +170,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Building Blockchain in Go (2017)](https://jeiwan.net/posts/building-blockchain-in-go-part-1/) ([Code](https://github.com/Jeiwan/blockchain_go))
 - [Pact](https://github.com/kadena-io/pact) - Open-source, Turing-incomplete smart contract language that has been purpose-built with blockchains first in mind.
 - [Theta Blockchain Ledger Protocol](https://github.com/thetatoken/theta-protocol-ledger) - Proof-of-Stake decentralized ledger designed for the video streaming industry. ([Docs](https://docs.thetatoken.org/))
+- [Why 99% of cryptocurrencies centralize over time + a way to possibly fix this (2021)](https://www.reddit.com/r/CryptoTechnology/comments/odj8gu/why_99_of_cryptocurrencies_centralize_over_time_a/)

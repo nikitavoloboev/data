@@ -504,3 +504,4 @@ Go promotes composition over inheritance.
 - [Go Concurrency - Worker Pool Pattern](https://github.com/godoylucase/workers-pool)
 - [Awesome Go Workshops](https://github.com/amit-davidson/awesome-golang-workshops)
 - [Pipeline Pattern in Go (2021)](https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/)
+- [Fixed/Variable-length encoding in Go (2021)](https://nakabonne.dev/posts/binary-encoding-go/)

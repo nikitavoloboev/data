@@ -367,3 +367,4 @@
 - [How databases handle 10 million devices in high-cardinality benchmarks (2021)](https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/)
 - [BullFrog: Online Schema Migration, On Demand (2021)](http://www.pl-enthusiast.net/2021/06/30/bullfrog-online-schema-migration-on-demand/) ([Paper](https://www.cs.umd.edu/~mwh/papers/bullfrog-sigmod.pdf))
 - [PathQuery, Google's Graph Query Language (2021)](https://arxiv.org/abs/2106.09799) ([HN](https://news.ycombinator.com/item?id=27697191))
+- [Write a time-series database engine from scratch (2021)](https://nakabonne.dev/posts/write-tsdb-from-scratch/) ([HN](https://news.ycombinator.com/item?id=27730854))
