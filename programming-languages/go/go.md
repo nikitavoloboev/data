@@ -503,3 +503,4 @@ Go promotes composition over inheritance.
 - [Deploy a Go app with Dokku (HTTPS and auto-deployment) (2021)](https://shellbear.me/blog/go-dokku-deployment)
 - [Go Concurrency - Worker Pool Pattern](https://github.com/godoylucase/workers-pool)
 - [Awesome Go Workshops](https://github.com/amit-davidson/awesome-golang-workshops)
+- [Pipeline Pattern in Go (2021)](https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/)

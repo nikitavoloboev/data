@@ -107,3 +107,4 @@
 - [Optimizing for Free Hosting — Elixir Deployments (2020)](https://damonvjanis.medium.com/optimizing-for-free-hosting-elixir-deployments-6bfc119a1f44)
 - [Onboarding to Elixir (2021)](https://underjord.io/onboarding-to-elixir.html) ([HN](https://news.ycombinator.com/item?id=27591079))
 - [An Elixir adoption success story (2021)](https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/) ([HN](https://news.ycombinator.com/item?id=27682432))
+- [Elixir in 2021 – Saša Jurić & Jonn Mostovoy](https://www.youtube.com/watch?v=me4cANg9RMU)
