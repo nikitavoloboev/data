@@ -169,3 +169,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [KYVE Network](https://kyve.network/) - Protocol that enables blockchain networks to reliably store and verify their data streams.
 - [Building Blockchain in Go (2017)](https://jeiwan.net/posts/building-blockchain-in-go-part-1/) ([Code](https://github.com/Jeiwan/blockchain_go))
 - [Pact](https://github.com/kadena-io/pact) - Open-source, Turing-incomplete smart contract language that has been purpose-built with blockchains first in mind.
+- [Theta Blockchain Ledger Protocol](https://github.com/thetatoken/theta-protocol-ledger) - Proof-of-Stake decentralized ledger designed for the video streaming industry. ([Docs](https://docs.thetatoken.org/))

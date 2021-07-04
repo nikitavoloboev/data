@@ -37,3 +37,4 @@
 - [Name-based Virtual Hosting in TCP](http://www.litech.org/~brian/tcphosts/paper.html)
 - [Let's code a TCP/IP stack (2016)](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/) ([HN](https://news.ycombinator.com/item?id=27654182))
 - [tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) - TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
+- [A TCP Proxy in 30 lines of Rust](https://zmedley.com/tcp-proxy.html) ([Code](https://github.com/ZekeMedley/tcp-proxy))

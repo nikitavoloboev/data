@@ -188,6 +188,7 @@
 - [Nano Stores](https://github.com/ai/nanostores) - Tiny (152 bytes) state manager for React/Preact/Vue/Svelte with many atomic tree-shakable stores.
 - [React Lazy Hydration](https://github.com/hadeeb/react-lazy-hydration) - Lazy Hydration for Server Rendered React Components.
 - [React Super Command](https://github.com/saharmor/react-super-cmd) - Sleek command line modal for React apps.
+- [React Complex Tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop.
 
 ## Links
 

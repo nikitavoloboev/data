@@ -39,6 +39,7 @@
 - [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - Feature flags with no complex system to maintain.
 - [yacspin](https://github.com/theckman/yacspin) - CLI Spinner Go library.
 - [ASCII Table Writer](https://github.com/olekukonko/tablewriter)
+- [argparse](https://github.com/akamensky/argparse) - Argparse for Go. Just because `flag` sucks.
 
 ## Test
 
@@ -879,3 +880,4 @@
 - [GoCover.io](https://gocover.io/) - See code coverage of any Go package. ([Code](https://github.com/vieux/gocover.io))
 - [gographs](https://gographs.io/) - Renders dependency graphs for Go packages. ([Code](https://github.com/siggy/gographs))
 - [GoImportDot](https://github.com/yqylovy/goimportdot) - Tiny tool to draw a graph of Go package import relationship.
+- [Wrapcheck](https://github.com/tomarrell/wrapcheck) - Go linter to check that errors from external packages are wrapped.

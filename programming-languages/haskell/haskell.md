@@ -294,3 +294,4 @@
 - [Collection of Notes on GHC](https://ghc-compiler-notes.readthedocs.io/en/latest/) ([Code](https://github.com/myuon/ghc-compiler-notes))
 - [Wingman for Haskell](https://haskellwingman.dev/) - Focus on the important stuff; delegate the rest.
 - [Cabal2nix](https://github.com/NixOS/cabal2nix) - Generate Nix build instructions from a Cabal file.
+- [Past and Present of Haskell: Interview with Simon Peyton Jones (2021)](https://serokell.io/blog/past-and-present-of-haskell)

@@ -27,3 +27,4 @@
 - [dask-geopandas](https://github.com/jsignell/dask-geopandas) - Parallel GeoPandas with Dask.
 - [Dask Cloud Provider](https://github.com/dask/dask-cloudprovider) - Native Cloud integration for Dask. ([Docs](https://cloudprovider.dask.org/en/latest/))
 - [Jupyter, Microscopy, and On-demand Dask Cloud Clusters (2021)](https://www.youtube.com/watch?v=6YpuvJv6324)
+- [Tackling unmanaged memory with Dask (2021)](https://coiled.io/tackling-unmanaged-memory-with-dask/)

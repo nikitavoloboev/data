@@ -61,3 +61,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Goodbye Freenode (2021)](https://nedbatchelder.com/blog/202106/goodbye_freenode.html) ([HN](https://news.ycombinator.com/item?id=27491967))
 - [The End of Freenode (2021)](https://ariadne.space/2021/06/14/the-end-of-freenode/) ([Lobsters](https://lobste.rs/s/r0fddp/end_freenode)) ([HN](https://news.ycombinator.com/item?id=27499946))
 - [EsperNet IRC Network](https://www.esper.net/)
+- [How does IRC's federation model compare to ActivityPub? (2021)](https://drewdevault.com/2021/07/03/How-does-IRC-federate.html)

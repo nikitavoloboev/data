@@ -99,3 +99,4 @@
 - [CPU Fun Blog](https://cpufun.substack.com/) - Intended to cover various subjects related to the low-level interactions of software and hardware.
 - [Building an Always-On CPU Profiler (2021)](https://blog.px.dev/cpu-profiling/)
 - [Scamp – a homebrew 16-bit CPU (2021)](https://incoherency.co.uk/blog/stories/scamp-lives.html) ([HN](https://news.ycombinator.com/item?id=27339088))
+- [What should the CPU usage be of a fully-loaded CPU that has been throttled? (2021)](https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378) ([HN](https://news.ycombinator.com/item?id=27725286))
