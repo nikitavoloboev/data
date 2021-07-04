@@ -51,6 +51,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [What I’ve learned through online dating is after 3-6 dates you start to feel like you really know the person. In reality, you don’t know them. They’re barely an acquaintance. And you can remove each other from your lives with a couple clicks and texts.](https://www.reddit.com/r/datingoverthirty/comments/nito7v/what_did_i_do_wrong_would_appreciate_any_insight/)
 - [Don't become good at staying in toxic situations.](https://www.instagram.com/p/CPRA8ephrQQ/)
 - [Integrity, courage, conviction and resourcefulness seems to be a rare combination but that's all I want in relationship.](https://www.reddit.com/r/datingoverthirty/comments/nltfw6/those_of_you_who_are_single_by_choice_who_are_you/)
+- [Healthy dating I believe is dating your equal, a relationship of two independent people that form a synergy greater than the sum of its parts. A one-way transfer of resources, emotional or intellectual, isn’t that.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/)
 
 ## Links
 

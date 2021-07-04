@@ -508,3 +508,4 @@
 - [Rust is not a Company (2021)](https://blog.m-ou.se/rust-is-not-a-company/) ([HN](https://news.ycombinator.com/item?id=27551242))
 - [Type-checked keypaths in Rust (2021)](http://www.cmyr.net/blog/keypaths.html) ([Lobsters](https://lobste.rs/s/z7nqc2/type_checked_keypaths_rust))
 - [Polymorphism in Rust (2021)](https://oswalt.dev/2021/06/polymorphism-in-rust/)
+- [Hands-on Rust Book (2021)](https://pragprog.com/titles/hwrust/hands-on-rust/) - Effective Learning through 2D Game Development and Play.
