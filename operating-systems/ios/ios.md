@@ -332,3 +332,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Apple Developer Documentation](https://developer.apple.com/documentation/)
 - [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
 - [How to roll back your native iOS app (2021)](https://screenplay.dev/blog/post/wHypgqF7fjPPPYaIpoQ1)
+- [How iOS 15 makes apps launch faster (2021)](https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520)
