@@ -282,3 +282,4 @@
 - [pgsh](https://github.com/sastraxi/pgsh) - PostgreSQL tools for local development.
 - [How to best store audio files in PostgreSQL (2021)](https://twitter.com/kentcdodds/status/1409516218478841860)
 - [Globally Distributed Postgres (2021)](https://fly.io/blog/globally-distributed-postgres/) ([HN](https://news.ycombinator.com/item?id=27690950))
+- [Implementing Stripe-Like Idempotency Keys in Postgres (2017)](https://brandur.org/idempotency-keys) ([HN](https://news.ycombinator.com/item?id=15569478))

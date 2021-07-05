@@ -17,6 +17,7 @@ I try to give my full attention to any ideas I am working on.
 - [Create what you want to exist.](https://twitter.com/muratpak/status/1346171808295350272)
 - [There's no upside in hating on someone's idea. You come off as non-believer or ruin their confidence. Instead, just ask the questions that make you hesitate & let them come to their own conclusion. If you're right, you helped them think it through. If you're wrong, you'll learn.](https://twitter.com/Suhail/status/1019643883376873472)
 - [Personal website is the perfect side project / try out new ideas / learn new things playground.](https://twitter.com/Gavmn/status/1399089921814634501)
+- [If I have an apple and you have an apple and we exchange them, we both still have one apple. However, if I have an idea and you also have an idea and we exchange them, we both have two ideas.](https://twitter.com/Julian/status/1411882234970132481)
 
 ## Links
 

@@ -17,3 +17,4 @@
 - [Advanced Reddit search](https://redditsearch.io/)
 - [FindAReddit](https://www.findareddit.com/) - Find Subreddits for your Niche. ([HN](https://news.ycombinator.com/item?id=27293902))
 - [Reddit Favorites](https://redditfavorites.com/)
+- [Reddit List](https://redditlist.io/) - Discover Subreddits for different topics.

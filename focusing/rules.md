@@ -11,7 +11,7 @@
 - Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply (from first principles). Move in right direction. [Move fast](https://news.ycombinator.com/item?id=27691586). No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
-- [Don't compare myself to other people](https://twitter.com/_Pammy_DS_/status/1387212857016786948). [Don't listen to haters but pay attention to genuine feedback](https://twitter.com/EricRWeinstein/status/1387219408645361665). Improve. Try become the best & most inspiring version of myself.
+- [Don't compare myself to other people and be jealous](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Learn from them. Improve. And become the best & most inspiring version of myself. [Don't listen to haters but pay attention to genuine feedback](https://twitter.com/EricRWeinstein/status/1387219408645361665).
 - Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people. Do what I love. Value myself and my work.
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
@@ -70,6 +70,7 @@
 - Watch videos at 2x speed, unless it hurts comprehension or it's entertainment.
 - Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~1.4x + smart speed, Books: ~1.25x).
 - Teach what I know in a clear way [aided by visualization, narrative & interactivity](https://youtu.be/kAoQzTcpkyo?t=12588). Learn and teach in public.
+- [Always have faith in my capability learn new skills, no matter how hard or mystifying the task seems.](https://twitter.com/fchollet/status/1411868747476865025)
 
 ## Write
 
@@ -141,6 +142,7 @@
 - Ask how your partner feels and listen. Don't disregard their feelings. It’s good response to just hug and listen if I have no answer or solution (all feelings are valid and are not a sign of weakness).
 - Don't needlessly complain about things to anyone. My life is amazing and it's lucky I even exist. Be grateful.
 - The relationship can only get better if both want it to improve.
+- [Don't waste time on maintaining one sided relationships.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/h3ydwgi/?utm_source=reddit&utm_medium=web2x&context=3)
 
 ## Communication
 
