@@ -112,6 +112,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Writing with rhythm: This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important.](https://www.indiehackers.com/post/whats-the-best-piece-of-content-you-ve-ever-encountered-book-article-podcast-episode-etc-3da46a464c)
 - [Start working on a hard problem. Take notes all along the way. Turn those notes into a deep dive blog post. Open source what you can!](https://twitter.com/jkup/status/1389615876996009987)
 - [People who think well, write well. Good writing is not a natural gift. You have to learn to write well.](https://twitter.com/dickiebush/status/1399879300724236288)
+- [Read to collect the dots, write to connect them.](https://twitter.com/david_perell/status/1411871612702543872)
 
 ## Links
 

@@ -11,7 +11,7 @@
 - Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply (from first principles). Move in right direction. [Move fast](https://news.ycombinator.com/item?id=27691586). No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
-- [Don't compare myself to other people and be jealous](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Learn from them. Improve. And become the best & most inspiring version of myself. [Don't listen to haters but pay attention to genuine feedback](https://twitter.com/EricRWeinstein/status/1387219408645361665).
+- [Don't compare myself to other people and be jealous](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Learn from them and every other human I admire/like instead. Use it to improve my life. [Don't listen to haters and nonconstructive feedback. Pay attention to genuine feedback and learn from it.](https://twitter.com/EricRWeinstein/status/1387219408645361665).
 - Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people. Do what I love. Value myself and my work.
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
@@ -21,7 +21,8 @@
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits.
 - Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Let past go. Don't fixate on anything. Anything outside of this moment is imagination. Move onwards. Live through each moment.
-- [Be happy](../life/happiness.md). Love myself. Be playful. Make new nice memories and enjoy each moment in life. Savor close relationships. Look towards the [future](../future/future.md). Appreciate what you have.
+- Happiness comes from being grateful and appreciative for what I already have. Don't waste time trying to measure my success/happiness by what anyone else thinks it should be.
+- [Be happy](../life/happiness.md). Love myself. Be playful. Make new nice memories and enjoy each moment in life. Savor close relationships. Look towards the [future](../future/future.md). Appreciate what I have.
 
 ## Health
 
@@ -147,6 +148,7 @@
 ## Communication
 
 - Show interest. Ask genuine questions. Listen more. Don't interrupt. Don't be annoying and self indulgent. Respect time and don't pressure for response.
+- [Praise in public. Criticize in Private.](https://www.radicalcandor.com/public-praise-private-criticism/)
 
 ## Finance
 
