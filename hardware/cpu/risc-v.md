@@ -99,3 +99,4 @@
 - [RISC-V Supervisor Binary Interface Spec](https://github.com/riscv/riscv-sbi-doc)
 - [George Hotz | twitchcore: a little RISC-V core | in Python | in Verilog | on FPGA (2021)](https://www.youtube.com/watch?v=camQ9QeBY9Q)
 - [XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor.
+- [XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76 (2021)](https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/) ([HN](https://news.ycombinator.com/item?id=27737718))

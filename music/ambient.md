@@ -21,3 +21,4 @@
 - [Study Music](https://eukaryotewritesblog.com/study-music/)
 - [Body San ~ Reborn While Shopping](https://noumenalloom.bandcamp.com/album/body-san-reborn-while-shopping)
 - [Deaf Center - Yet to Come](https://open.spotify.com/track/52o0rOFFGNEekY4o0xV0AK)
+- [Music for Programming](https://www.musicforprogramming.net/) ([HN](https://news.ycombinator.com/item?id=21771600)) ([HN](https://news.ycombinator.com/item?id=27737887))

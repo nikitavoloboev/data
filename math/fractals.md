@@ -60,3 +60,4 @@
 - [The Double Pendulum Fractal (2021)](https://www.youtube.com/watch?v=n7JK4Ht8k8M)
 - [rust-fractal-core](https://github.com/rust-fractal/rust-fractal-core) - Mandelbrot fractal visualizer featuring perturbation based iteration methods, series approximation and multithreading.
 - [rust-fractal-gui](https://github.com/rust-fractal/rust-fractal-gui) - GUI for rust-fractal-core, a mandelbrot fractal visualizer.
+- [A Closer Look at Fractals (2013)](https://blog.fract.al/post/62180302979/a-closer-look-at-fractals)

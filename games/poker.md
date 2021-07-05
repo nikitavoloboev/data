@@ -14,3 +14,4 @@
 - [TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava) - Java implemented Texas holdem and short deck Solver. ([HN](https://news.ycombinator.com/item?id=26213367))
 - [Poker Web](https://github.com/buhrmi/svelte-poker) - Poker game made with Svelte.
 - [Floptimal](https://app.floptimal.com/) - Preflop ranges reimagined. ([HN](https://news.ycombinator.com/item?id=27361584))
+- [Mental Poker](https://people.csail.mit.edu/rivest/pubs/SRA81.pdf) ([HN](https://news.ycombinator.com/item?id=27734693))
