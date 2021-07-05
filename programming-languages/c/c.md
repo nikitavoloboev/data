@@ -160,3 +160,4 @@
 - [Libdill: Structured Concurrency for C (2016)](http://libdill.org/structured-concurrency.html) ([HN](https://news.ycombinator.com/item?id=27357295))
 - [Goodbye C++, Hello C (2021)](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html) ([HN](https://news.ycombinator.com/item?id=27637266))
 - [CompCert](https://github.com/AbsInt/CompCert) - Formally-verified C compiler. ([Web](https://compcert.org/)) ([HN](https://news.ycombinator.com/item?id=27648735))
+- [When static makes your C code 10 times faster (2021)](https://mazzo.li/posts/c-performance-anecdote.html) ([HN](https://news.ycombinator.com/item?id=27729377))
