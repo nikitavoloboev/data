@@ -232,3 +232,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [flydrive](https://github.com/Slynova-Org/flydrive) - Framework-agnostic package which provides a powerful wrapper to manage file Storage in Node.js.
 - [Japa](https://github.com/thetutlage/japa) - Embedable test runner for Node.js.
 - [Lucid](https://github.com/adonisjs/lucid) - Official SQL ORM for AdonisJS.
+- [tinyhttp/jwt](https://github.com/tinyhttp/jwt) - JWT middleware for HTTP servers.
