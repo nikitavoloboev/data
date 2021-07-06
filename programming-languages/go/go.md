@@ -505,3 +505,4 @@ Go promotes composition over inheritance.
 - [Awesome Go Workshops](https://github.com/amit-davidson/awesome-golang-workshops)
 - [Pipeline Pattern in Go (2021)](https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/)
 - [Fixed/Variable-length encoding in Go (2021)](https://nakabonne.dev/posts/binary-encoding-go/)
+- [Notes on structured concurrency, or: Go statement considered harmful (2018)](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) ([Lobsters](https://lobste.rs/s/8msejg/notes_on_structured_concurrency_go))
