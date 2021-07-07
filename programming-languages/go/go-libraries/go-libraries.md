@@ -865,6 +865,7 @@
 - [PHC Crypto](https://github.com/aldy505/phc-crypto) - Hashing algorithms simplified.
 - [bitmap](https://github.com/kelindar/bitmap) - SIMD-Vectorized Bitmap (Bitset) in Go.
 - [tinylru](https://github.com/tidwall/tinylru) - Fast little LRU cache.
+- [Go Rules Engine](https://github.com/nikunjy/rules) - Helpful in situations where you have a generic rule and want to verify if your values (specified using `map[string]interface{}`) satisfy the rule.
 
 ## Links
 

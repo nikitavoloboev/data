@@ -109,6 +109,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [BYTEPATH](https://github.com/a327ex/BYTEPATH) - Replayable arcade shooter with a focus on build theorycrafting.
 - [Racing Game in ThreeJS](https://github.com/pmndrs/racing-game)
 - [Beyond All Reason](https://www.beyondallreason.info/) - Open source RTS game built on top of the Spring RTS Engine. ([Code](https://github.com/beyond-all-reason/Beyond-All-Reason))
+- [Oxid](https://github.com/dbandstra/oxid) - Arcade-style game that runs natively or in the browser. ([Web](https://dbandstra.github.io/oxid/))
 
 ## Awesome games (other)
 

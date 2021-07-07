@@ -10,6 +10,7 @@
 - [Do thing. For this? Look. For this?](https://twitter.com/elonmusk/status/1401493801131298816)
 - [I Bet He's Thinking About Other Women](https://imgflip.com/memegenerator/I-Bet-Hes-Thinking-About-Other-Women)
 - [Black guy stopping](https://imgflip.com/memegenerator/169798464/black-guy-stopping)
+- [Strong dog vs Weak dog](https://imgflip.com/memegenerator/246939379/Strong-dog-vs-weak-dog)
 
 ## Notes
 

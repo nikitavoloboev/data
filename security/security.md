@@ -163,3 +163,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Starting Up Security](https://scrty.io/) - Collection of information security essays and links to help growing teams manage risks.
 - [How We Protect Pinners’ Passwords (2021)](https://medium.com/pinterest-engineering/how-we-protect-pinners-passwords-e769135734d)
 - [An Incomplete List of Practical Security for Mortals (2021)](https://ludovicianul.github.io/2021/07/06/incomplete-list-of-security/)
+- [Secretless Broker](https://github.com/cyberark/secretless-broker) - Secure your apps by making them Secretless.

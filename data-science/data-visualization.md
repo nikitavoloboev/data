@@ -103,3 +103,4 @@
 - [Awesome dataviz tools by Cube.js](https://awesome.cube.dev/) ([Reddit](https://www.reddit.com/r/programming/comments/o7poas/opensource_list_of_data_visualization_tools/))
 - [Framework for visualizing data encoded as JSON](https://github.com/hediet/visualization)
 - [Railroad-diagram Generator](https://github.com/tabatkins/railroad-diagrams) - Small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org.
+- [ProPlot](https://github.com/lukelbd/proplot) - Lightweight matplotlib wrapper for making beautiful, publication-quality graphics. ([Docs](https://proplot.readthedocs.io/en/latest/))

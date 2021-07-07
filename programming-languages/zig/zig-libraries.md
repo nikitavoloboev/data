@@ -22,6 +22,7 @@
 - [zld](https://github.com/kubkon/zld) - Zig's lld drop-in replacement.
 - [Mecha](https://github.com/Hejsil/mecha) - Parser combinator library for Zig.
 - [Dida](https://github.com/jamii/dida) - Differential dataflow for mere mortals.
+- [zang](https://github.com/dbandstra/zang) - Audio synthesis for Zig.
 
 ## Links
 
