@@ -276,3 +276,4 @@
 - [Math Memes Reddit](https://www.reddit.com/r/mathmemes/)
 - [Dr Peyam - YouTube](https://www.myoutube.com/c/DrPeyam/playlists)
 - [Too simple to be simple](https://ncatlab.org/nlab/show/too+simple+to+be+simple)
+- [Poisson's Equation is the Most Powerful Tool not yet in your Toolbox (2021)](https://mattferraro.dev/posts/poissons-equation) ([HN](https://news.ycombinator.com/item?id=27748967))

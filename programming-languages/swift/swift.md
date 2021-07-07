@@ -218,3 +218,4 @@
 - [Swift MemoryLayout Description](https://github.com/TannerJin/Swift-MemoryLayout)
 - [Swift structured concurrency tutorial (2021)](https://theswiftdev.com/swift-structured-concurrency-tutorial/)
 - [Chris Lattner on Swift concurrency, language and API design, etc. (2021)](https://www.swiftbysundell.com/podcast/100/)
+- [5 Complex Algorithms Simplified Using Swift's Higher-Order Functions (2021)](https://swiftsenpai.com/swift/5-complex-algorithms-simplified/)

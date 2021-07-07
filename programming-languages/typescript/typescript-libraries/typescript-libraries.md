@@ -124,6 +124,7 @@
 - [JSON bond](https://github.com/kossnocorp/json-bond) - Type-safe JSON strings.
 - [Cockatiel](https://github.com/connor4312/cockatiel) - Resilience and transient-fault-handling library.
 - [ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate Zod schemas from Typescript types/interfaces.
+- [native](https://github.com/okikio/native) - Initiative which aims to make it easy to create complex, light-weight, and performant web applications using modern JS API's.
 
 ## Links
 

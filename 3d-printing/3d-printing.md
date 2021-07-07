@@ -27,3 +27,4 @@
 - [Rapid Prototyping with a $100 Inkjet Printer (2021)](https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3) ([HN](https://news.ycombinator.com/item?id=27254480))
 - [Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI 3D printer by Prusa Research.
 - [Prusa3D](https://www.prusa3d.com/) - Open-Source 3D printers by Josef Prusa. ([GitHub](https://github.com/prusa3d))
+- [Anatomy of a CNC Router (2021)](https://mattferraro.dev/posts/cnc-router)
