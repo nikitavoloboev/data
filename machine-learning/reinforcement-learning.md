@@ -214,3 +214,4 @@
 - [garage](https://github.com/rlworkgroup/garage) - Toolkit for reproducible reinforcement learning research.
 - [Reinforcement Learning as One Big Sequence Modeling Problem (2021)](https://arxiv.org/abs/2106.02039)
 - [David Silver's UCL Course on RL](https://www.davidsilver.uk/teaching/)
+- [Mava](https://github.com/instadeepai/Mava) - Research framework for distributed multi-agent reinforcement learning. ([Paper](https://arxiv.org/pdf/2107.01460.pdf))

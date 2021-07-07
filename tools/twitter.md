@@ -106,3 +106,4 @@
 - [Twitter Developer Platform](https://developer.twitter.com/en) - Use Cases, Tutorials, & Documentation.
 - [Static Tweets with MDX and Next.js (2021)](https://blog.maximeheckel.com/posts/static-tweets-with-mdx-nextjs/)
 - [Broadcast](https://github.com/daneden/Broadcast) - Write-only Twitter client. It lets you post tweets and reply to your last tweet.
+- [Rebuilding Twitter’s Public API (2021)](https://www.youtube.com/watch?v=axFSaH_-IMw)
