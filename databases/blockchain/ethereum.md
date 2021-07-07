@@ -247,3 +247,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Zeneth](https://zeneth.app/) - Gasless Ethereum account abstraction with Flashbots. ([Code](https://github.com/ScopeLift/zeneth))
 - [A Short Story of UNISWAP and UNI Token. DEFI Explained (2020)](https://www.youtube.com/watch?v=LpjMgS4OVzs)
 - [What is Uniswap V3 LP Automated Manager? (2021)](https://vividot-de.fi/entry/Uniswap-V3-Automated-Manager) ([Tweet](https://twitter.com/haydenzadams/status/1411731623301857290))
+- [PartyBid](https://github.com/Anish-Agnihotri/partybid) - Collector DAO that lets individuals pool capital, bid on Mirror's reserve auctions, and resell NFTs.

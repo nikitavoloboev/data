@@ -110,3 +110,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [How To Analyze Your Chess Games (2021)](https://www.youtube.com/watch?v=ylpAHvPlafc)
 - [My Return to Competitive Chess | National Open Round 1 (2021)](https://www.youtube.com/watch?v=sMY3E8qLsno)
 - [The Perpetual Chess Podcast](https://www.perpetualchesspod.com/)
+- [daochess](https://daochess.org/) - Testing governance mechanisms via chess.

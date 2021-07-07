@@ -221,6 +221,7 @@
 - [memory-allocators](https://github.com/mtrebi/memory-allocators) - Custom memory allocators in C++ to improve the performance of dynamic memory allocation.
 - [Vc](https://github.com/VcDevel/Vc) - Portable, zero-overhead C++ types for explicitly data-parallel programming.
 - [cinolib](https://github.com/mlivesu/cinolib) - Generic programming header only C++ library for processing polygonal and polyhedral meshes.
+- [ordered-map](https://github.com/Tessil/ordered-map) - C++ hash map and hash set which preserve the order of insertion.
 
 ## Links
 

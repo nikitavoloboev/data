@@ -109,3 +109,4 @@
 - [MaraDNS](https://github.com/samboy/MaraDNS) - Small open-source DNS server. ([Web](https://maradns.samiam.org/))
 - [odoh-client-rs](https://github.com/cloudflare/odoh-client-rs) - Oblivious DoH client application written in Rust.
 - [HN: DNS-powered website with no back end (2021)](https://news.ycombinator.com/item?id=27598164)
+- [DNS Explained in 100 Seconds](https://www.youtube.com/watch?v=UVR9lhUGAyU)
