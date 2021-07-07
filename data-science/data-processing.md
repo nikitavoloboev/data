@@ -51,3 +51,4 @@
 - [datablocks](https://datablocks.pro/) - Flow based data processing editor. ([HN](https://news.ycombinator.com/item?id=27459664))
 - [Reproducible data processing pipelines (2021)](https://guix.gnu.org/blog/2021/reproducible-data-processing-pipelines/)
 - [datasketch](https://github.com/ekzhu/datasketch) - Probabilistic data structures that can process and search very large amount of data super fast, with little loss of accuracy.
+- [Tuplex](https://github.com/tuplex/tuplex) - Parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. ([Web](https://tuplex.cs.brown.edu/))
