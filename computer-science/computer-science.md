@@ -14,7 +14,7 @@
 - [Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 - [Most influential books for programmers](https://github.com/cs-books/influential-cs-books)
 - [Ask HN: What book to read to get a footing in CS theory? (2019)](https://news.ycombinator.com/item?id=20729252)
-- [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
+- [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) ([HN](https://news.ycombinator.com/item?id=27744255))
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) ([HN](https://news.ycombinator.com/item?id=22286340)) ([HN 2](https://news.ycombinator.com/item?id=23588896))
 - [Programming and Computer Science Courses](https://www.dabeaz.com/courses.html)
 - [Structure and Interpretation of Computer Programs](https://opendocs.github.io/sicp/sicp.pdf) ([HN](https://news.ycombinator.com/item?id=21299546)) ([Video Lectures](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/))
