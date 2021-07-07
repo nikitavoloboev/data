@@ -32,6 +32,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Oral History of Dave Cutler (2018)](https://www.youtube.com/watch?v=29RkHH-psrY)
 - [Ezra Klein Interviews Ted Chiang (2021)](https://www.nytimes.com/2021/03/30/podcasts/ezra-klein-podcast-ted-chiang-transcript.html) ([HN](https://news.ycombinator.com/item?id=26768327))
 - [Mads Mikkelsen, In Conversation (2021)](https://www.vulture.com/article/mads-mikkelsen-in-conversation.html)
+- [Виктор Бабарико. Биография](https://www.youtube.com/watch?v=v7q_SKxNtW8)
 
 ## Interesting bios
 

@@ -215,3 +215,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Principles of Programming Languages Course Notes](https://github.com/barghouthi/cs704)
 - [Ask HN: Projects for learning a language? (2021)](https://news.ycombinator.com/item?id=27549463)
 - [Langium](https://github.com/langium/langium) - Language engineering tool with built-in support for the Language Server Protocol.
+- [Programming Language Memory Models](https://research.swtch.com/plmm) ([HN](https://news.ycombinator.com/item?id=27750610))
