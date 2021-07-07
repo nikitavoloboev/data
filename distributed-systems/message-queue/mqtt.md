@@ -16,3 +16,4 @@
 - [MQTT Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client that provides a structured topic overview. ([Web](https://mqtt-explorer.com/))
 - [A Pure HTTP/3 Alternative to MQTT-over-QUIC in Resource-Constrained IoT (2021)](https://arxiv.org/abs/2106.12684) ([HN](https://news.ycombinator.com/item?id=27650879))
 - [Promqtt](https://github.com/sh0rez/promqtt) - Prometheus ⟷ MQTT Bridge.
+- [msoak](https://github.com/jpmens/msoak) - MQTT subscribe to multiple servers / topics simultaneously.

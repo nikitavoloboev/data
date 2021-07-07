@@ -156,3 +156,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Inspect Apple macOS software updates](https://github.com/hjuutilainen/sus-inspector)
 - [MacVM](https://github.com/KhaosT/MacVM) - MacOS VM for Apple Silicon using Virtualization API.
 - [My 2021 New Mac Setup](https://www.swyx.io/new-mac-setup-2021/)
+- [macOS extensions are moving away from the kernel (2021)](https://eclecticlight.co/2021/07/07/extensions-are-moving-away-from-the-kernel/) ([HN](https://news.ycombinator.com/item?id=27758181))
