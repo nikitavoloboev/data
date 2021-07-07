@@ -63,6 +63,7 @@
 - [Horde](https://github.com/derekkraan/horde) - Distributed Supervisor and Registry backed by DeltaCrdt.
 - [libring](https://github.com/bitwalker/libring) - Fast consistent hash ring for Elixir.
 - [Aja](https://github.com/sabiwara/aja) - Extension of the Elixir standard library focused on data structures, data manipulation and performance.
+- [Schoolbus](https://github.com/rupurt/schoolbus) - Manage one or more PubSub instances using the Elixir registry.
 
 ## Links
 

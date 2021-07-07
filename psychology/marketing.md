@@ -134,6 +134,7 @@
 - [Ask HN: What is your “sales stack”? (2021)](https://news.ycombinator.com/item?id=27525819)
 - [Customer.io](https://customer.io/) - Marketing Automation for the Whole Customer Lifecycle.
 - [Ask HN: How to learn how to sell? (2021)](https://news.ycombinator.com/item?id=27653357)
+- [20 iconic marketing and advertising campaigns in history (2021)](https://twitter.com/SahilBloom/status/1412391311840251904)
 
 ## Images
 
