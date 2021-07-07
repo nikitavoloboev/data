@@ -410,3 +410,4 @@
 - [Immutability Changes Everything (2016)](https://queue.acm.org/detail.cfm?id=2884038) ([HN](https://news.ycombinator.com/item?id=27640308))
 - [When To Rewrite (2021)](https://www.anthropicstudios.com/2021/06/25/when-to-rewrite/) ([Lobsters](https://lobste.rs/s/63eb9g/when_rewrite))
 - [Principles.dev](https://principles.dev/) - Software Engineering Principles. ([HN](https://news.ycombinator.com/item?id=27688612))
+- [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems) ([HN](https://news.ycombinator.com/item?id=24989351))
