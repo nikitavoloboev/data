@@ -91,3 +91,4 @@
 - [Mindscape 153 – John Preskill on Quantum Computers and What They’re Good For (2021)](https://www.youtube.com/watch?v=UYt4QG8iZ6U)
 - [Q-CTRL Open Controls](https://github.com/qctrl/python-open-controls) - Open-source Python package that makes it easy to create and deploy established error-robust quantum control protocols from the open literature.
 - [Q-CTRL](https://q-ctrl.com/) - World-leading quantum control engineering expertise as intuitive software. ([GitHub](https://github.com/qctrl))
+- [Strong quantum computational advantage using a superconducting quantum processor (2021)](https://arxiv.org/abs/2106.14734)

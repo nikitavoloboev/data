@@ -87,3 +87,4 @@
 - [Nightmare](https://github.com/guyinatuxedo/nightmare) - Intro to binary exploitation / reverse engineering course based around ctf challenges.
 - [Miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python.
 - [Pwning Home Router - Linksys WRT54G (2021)](https://elongl.github.io/exploitation/2021/05/30/pwning-home-router.html) ([Lobsters](https://lobste.rs/s/c9994a/pwning_home_router_linksys_wrt54g))
+- [Reverse Engineering the M6 Smart Fitness Bracelet (2021)](https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html)

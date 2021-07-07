@@ -207,3 +207,4 @@
 - [Hardware Memory Models (2021)](https://research.swtch.com/hwmm)
 - [HN: Apple and Intel first to use TSMC 3nm (2021)](https://news.ycombinator.com/item?id=27720140)
 - [Qualcomm](https://www.qualcomm.com/) - Semiconductor company.
+- [How Capacitive Soil Moisture Sensors Work (2021)](https://rbaron.net/blog/2021/04/05/How-capacitive-soil-moisture-sensors-work.html)
