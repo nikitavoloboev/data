@@ -109,3 +109,4 @@
 - [Multidimensional Kalman-Filter](https://github.com/balzer82/Kalman) - Some Python Implementations of the Kalman Filter.
 - [Introduction to Modern Statistics Book](https://openintro-ims.netlify.app/) - College-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. ([Code](https://github.com/OpenIntroStat/ims))
 - [A Brief Tutorial on Multi-armed Bandits (2021)](https://avt.im/talks/2021/03/04/Bandits-Tutorial)
+- [Ideas in statistics that have powered AI (2021)](https://news.columbia.edu/news/top-10-ideas-statistics-ai) ([HN](https://news.ycombinator.com/item?id=27760919))

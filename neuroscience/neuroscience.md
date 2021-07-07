@@ -74,6 +74,7 @@
 - [A Browsable Petascale Reconstruction of the Human Cortex (2021)](https://ai.googleblog.com/2021/06/a-browsable-petascale-reconstruction-of.html)
 - [Toolmakers aim to untangle fundamental challenges in neuroscience (2021)](https://neuroscience.stanford.edu/news/wu-tsai-neuro-advances-big-idea-initiatives-to-next-level)
 - [Network Neuroscience](https://netneurosci.github.io/networks2021satellite/)
+- [Neurons Unexpectedly Encode Information in the Timing of Their Firing (2021)](https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/) ([HN](https://news.ycombinator.com/item?id=27761706))
 
 ## Images
 

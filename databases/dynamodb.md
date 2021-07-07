@@ -52,3 +52,4 @@
 - [LucidDyanamoDB](https://github.com/dineshsonachalam/Lucid-Dynamodb) - Simple Python wrapper to AWS DynamoDB. ([HN](https://news.ycombinator.com/item?id=27334430))
 - [ddbimport](https://github.com/a-h/ddbimport) - Import CSV data into DynamoDB.
 - [Event Sourced Database in DynamoDB / TypeScript](https://github.com/a-h/hde)
+- [The What, Why and How of DynamoDB (2021)](https://adamrackis.dev/dynamo-introduction/)

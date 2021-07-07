@@ -83,3 +83,4 @@
 - [Ask HN: What is the SQLite of nosql databases? (2021)](https://news.ycombinator.com/item?id=27490361)
 - [Using sqlite3 as a notekeeping document graph with automatic reference indexing (2021)](https://epilys.github.io/bibliothecula/notekeeping.html) ([Lobsters](https://lobste.rs/s/yev7oa/using_sqlite3_as_notekeeping_document)) ([HN](https://news.ycombinator.com/item?id=27702084))
 - [The Untold Story of SQLite with Richard Hipp (2021)](https://corecursive.com/066-sqlite-with-richard-hipp/) ([HN](https://news.ycombinator.com/item?id=27718701))
+- [SQLite query inside a Bash function](https://news.ycombinator.com/item?id=27762201)

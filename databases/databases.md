@@ -22,7 +22,7 @@
 - [EdgeDB](https://github.com/edgedb/edgedb) - Open-source object-relational database built on top of PostgreSQL. ([EdgeDB 1.0 Beta](https://www.edgedb.com/blog/edgedb-1-0-beta-1-sirius/))
 - [Cassandra](https://github.com/apache/cassandra) - Highly-scalable partitioned row store. Rows are organized into tables with a required primary key.
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [Code](https://github.com/scylladb/scylla).
-- [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database. ([Web](https://janusgraph.org/))
+- [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database. ([Web](https://janusgraph.org/)) ([HN](https://news.ycombinator.com/item?id=27762109))
 - [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System. ([HN](https://news.ycombinator.com/item?id=24531085)) ([Playing With DuckDB](https://www.turtle-techies.com/playing-with-duck-db/)) ([5 minute intro](https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/))
 - [sled](https://github.com/spacejam/sled) - Modern embedded database. ([sledtool - CLI tool to work with Sled key-value databases](https://github.com/vi/sledtool))
 - [Genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database, works with Bolt, Badger and memory. ([Web](https://genji.dev/))

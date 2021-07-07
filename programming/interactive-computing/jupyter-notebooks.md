@@ -131,3 +131,4 @@
 - [Deepnote Notebook viewer](https://deepnote.com/viewer) - Render Jupyter notebooks as interactive articles. ([HN](https://news.ycombinator.com/item?id=27367948))
 - [Naas](https://www.naas.ai/) - Jupyter Notebooks as a service. ([GitHub](https://github.com/jupyter-naas))
 - [Naas templates](https://github.com/jupyter-naas/awesome-notebooks)
+- [JupyterWith](https://github.com/tweag/jupyterWith) - Declarative and reproducible Jupyter environments - powered by Nix.
