@@ -28,3 +28,4 @@
 - [caddy-auth-jwt](https://github.com/greenpau/caddy-auth-jwt) - JWT Authorization Plugin for Caddy v2.
 - [How to setup a Handshake site with Caddy (2021)](https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt)
 - [VSCode Caddyfile Syntax](https://github.com/Zamerick/vscode-caddyfile-syntax) - Extension adds syntax highlighting for Caddyfiles.
+- [Dynamic DNS app for Caddy](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.

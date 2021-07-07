@@ -190,6 +190,7 @@
 - [React Super Command](https://github.com/saharmor/react-super-cmd) - Sleek command line modal for React apps.
 - [React Complex Tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop.
 - [react-easy-sort](https://github.com/ricardo-ch/react-easy-sort) - React component to sort items in lists or grids.
+- [ReactToPrint](https://github.com/gregnb/react-to-print) - Print React components in the browser.
 
 ## Links
 

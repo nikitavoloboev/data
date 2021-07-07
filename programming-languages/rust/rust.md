@@ -422,7 +422,7 @@
 - [Life in Differential Dataflow (2021)](https://materialize.com/life-in-differential-dataflow/)
 - [Rust Incubator](https://github.com/instrumentisto/rust-incubator) - Learning Rust step-by-step.
 - [Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust)
-- [RustViz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing.
+- [RustViz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing. ([HN](https://news.ycombinator.com/item?id=27741963))
 - [How to speed up rustdoc in 2021](https://txti.es/fckc0)
 - [Getting started with ... Rust (2021)](https://stackoverflow.blog/2021/03/15/getting-started-with-rust/)
 - [totally_safe_transmute, line-by-line (2021)](https://blog.yossarian.net/) ([Lobsters](https://lobste.rs/s/9rmsyl/totally_safe_transmute_line_by_line))

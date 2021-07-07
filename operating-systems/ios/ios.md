@@ -295,7 +295,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [How to make Auto Layout more convenient in iOS (2021)](https://onmyway133.com/blog/how-to-make-auto-layout-more-convenient-in-ios/)
 - [Detox Instruments](https://github.com/wix/DetoxInstruments) - Performance–analysis and testing framework, designed to help developers profile their mobile apps in order to better understand and optimize their app's behavior and performance.
 - [xnuspy](https://github.com/jsherman212/xnuspy) - iOS kernel function hooking framework for checkra1n'able devices.
-- [libimobiledevice](https://libimobiledevice.org/) - Cross-platform FOSS library written in C to communicate with iOS devices natively. ([GitHub](https://github.com/libimobiledevice))
+- [libimobiledevice](https://libimobiledevice.org/) - Cross-platform FOSS library written in C to communicate with iOS devices natively. ([GitHub](https://github.com/libimobiledevice)) ([HN](https://news.ycombinator.com/item?id=27758045))
 - [usbmuxd](https://github.com/libimobiledevice/usbmuxd) - Socket daemon to multiplex connections from and to iOS devices.
 - [Emerge](https://www.emergetools.com/) - Monitor and reduce iOS app size. ([HN](https://news.ycombinator.com/item?id=26014180))
 - [ExampleOfiOSLiDAR](https://github.com/TokyoYoshida/ExampleOfiOSLiDAR) - Sample code using the Lidar sensor on iOS device.

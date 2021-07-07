@@ -325,3 +325,5 @@
 - [CDFI: Compression-Driven Network Design for Frame Interpolation (2021)](https://arxiv.org/abs/2103.10559) ([Code](https://github.com/tding1/CDFI))
 - [NeRF--: Neural Radiance Fields Without Known Camera Parameters (2021)](https://nerfmm.active.vision/) ([Code](https://github.com/ActiveVisionLab/nerfmm))
 - [Oxford Active Vision Laboratory](https://www.robots.ox.ac.uk/ActiveVision/) ([GitHub](https://github.com/ActiveVisionLab))
+- [Computer Vision: Algorithms and Applications, 2nd ed.](http://szeliski.org/Book/)
+- [motionEyeOS](https://github.com/ccrisan/motioneyeos) - Linux distribution that turns your single board computer into a video surveillance system.

@@ -76,6 +76,7 @@
 - [SymbolicSAT](https://github.com/JuliaSymbolics/SymbolicSAT.jl) - Extends SymbolicUtils expression simplification with a theorem prover.
 - [Interpolations](https://github.com/JuliaMath/Interpolations.jl) - Fast, continuous interpolation of discrete datasets in Julia.
 - [Bootstrap.jl](https://github.com/juliangehring/Bootstrap.jl) - Statistical bootstrapping library for Julia.
+- [DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award-winning Julia software library for the exploration of chaos and nonlinear dynamics.
 
 ## NLP
 

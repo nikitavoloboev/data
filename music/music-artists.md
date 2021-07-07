@@ -202,6 +202,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Piknik](https://open.spotify.com/artist/625pLI6ukICVgPMaZZ9QVX) - [Когда призрачный свет](https://open.spotify.com/track/2MLFfZUKc6qsFxEOmk2wO1?si=892ea6d1e8f64008)
 - [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) - [7 Days](https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x)
 - [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) - [Way Down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6)
+- [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) - [Sommergewitter](https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ)
 
 ## Nice lyrics
 

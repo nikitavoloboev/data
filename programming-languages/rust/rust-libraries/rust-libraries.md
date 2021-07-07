@@ -882,6 +882,7 @@
 - [segvec](https://github.com/mccolljr/segvec) - SegVec data structure for rust. Similar to Vec, but allocates memory in chunks of increasing size.
 - [confy](https://github.com/rust-cli/confy) - Zero-boilerplate configuration management in Rust.
 - [flatparse](https://github.com/AndrasKovacs/flatparse) - Fast parsing from bytestrings.
+- [Live Reload](https://github.com/porglezomp-misc/live-reloading-rs) - Live reloading for Rust programming.
 
 ## Cargo Plugins
 

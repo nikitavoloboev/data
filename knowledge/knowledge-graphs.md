@@ -81,4 +81,4 @@
 - [Query Embedding on Hyper-relational Knowledge Graphs (2021)](https://arxiv.org/abs/2106.08166) ([Code](https://github.com/DimitrisAlivas/StarQE))
 - [Improving Hyper-Relational Knowledge Graph Completion (2021)](https://arxiv.org/abs/2104.08167)
 - [NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs (2021)](https://arxiv.org/abs/2106.12144) ([Code](https://github.com/migalkin/NodePiece))
-- [WikipediaQL](https://github.com/zverok/wikipedia_ql) - Query language for efficient data extraction from Wikipedia.
+- [WikipediaQL](https://github.com/zverok/wikipedia_ql) - Query language for efficient data extraction from Wikipedia. ([HN](https://news.ycombinator.com/item?id=27738969))

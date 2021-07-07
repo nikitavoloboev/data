@@ -285,3 +285,4 @@
 - [Implementing Stripe-Like Idempotency Keys in Postgres (2017)](https://brandur.org/idempotency-keys) ([HN](https://news.ycombinator.com/item?id=15569478))
 - [Protecting reserved roles with PostgreSQL Hooks (2021)](https://supabase.io/blog/2021/07/01/roles-postgres-hooks)
 - [HypoPG](https://github.com/HypoPG/hypopg) - PostgreSQL extension adding support for hypothetical indexes. ([Docs](https://hypopg.readthedocs.io/en/rel1_stable/))
+- [Installing different PostgreSQL server versions in GitHub Actions](https://til.simonwillison.net/github-actions/different-postgresql-versions)
