@@ -50,3 +50,4 @@
 - [RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC) - RTSP Stream to WebBrowser over WebRTC based on Pion.
 - [Pion Data Channels](https://github.com/pion/datachannel) - Go implementation of WebRTC Data Channels.
 - [Web RTC Tutorial in Rust+WASM](https://github.com/Charles-Schleich/WebRTC-in-Rust)
+- [libdatachannel](https://github.com/paullouisageneau/libdatachannel) - C/C++ WebRTC lightweight library.

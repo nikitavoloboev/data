@@ -509,3 +509,4 @@
 - [SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption (2021)](https://arxiv.org/abs/2106.15147)
 - [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
 - [You Don’t Need Math For Machine Learning (2021)](https://towardsdatascience.com/you-dont-need-math-for-machine-learning-e168b7d973d4)
+- [Data Augmentation Resources](https://github.com/AgaMiko/data-augmentation-review)

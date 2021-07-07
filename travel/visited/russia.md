@@ -168,3 +168,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Какая сумма денег для комфортной жизни вам сейчас нужна? (2021)](https://twitter.com/julia_pelipenko/status/1410635576760541184)
 - [Топ Твиттера](https://www.t30p.ru/microtop.aspx?all=twitter)
 - [ТОП30](https://www.t30p.ru/) - Рейтинг постов блогосферы. ([Twitter](https://twitter.com/t30p))
+- [Soyuz.ru](https://www.soyuz.ru/) - Ваш навигатор в мире кино, музыки, культуры, игр и литературы.

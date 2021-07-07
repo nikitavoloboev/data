@@ -155,3 +155,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Lima](https://github.com/AkihiroSuda/lima) - Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac"). ([HN](https://news.ycombinator.com/item?id=27151993))
 - [Inspect Apple macOS software updates](https://github.com/hjuutilainen/sus-inspector)
 - [MacVM](https://github.com/KhaosT/MacVM) - MacOS VM for Apple Silicon using Virtualization API.
+- [My 2021 New Mac Setup](https://www.swyx.io/new-mac-setup-2021/)

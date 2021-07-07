@@ -183,6 +183,7 @@
 - [Condenser](https://github.com/TonicAI/condenser) - Database subsetting tool.
 - [NocoDB](https://www.nocodb.com/) - Turns your SQL database into a Nocode platform. Free & Open Source. ([Code](https://github.com/nocodb/nocodb)) ([HN](https://news.ycombinator.com/item?id=27303783))
 - [Owoof](https://github.com/sqwishy/owoof) - Program for querying and modifying information in a datalog-like format backed by SQLite.
+- [Autogenerate a CRUD app from a CSV file](https://retool.com/utilities/generate-app-from-csv) ([HN](https://news.ycombinator.com/item?id=27754034))
 
 ## Notes
 
