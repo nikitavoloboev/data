@@ -104,3 +104,4 @@
 - [Serving dynamic website content with serverless architecture (2021)](https://acloudguru.com/blog/engineering/serving-dynamic-website-content-with-serverless-architecture)
 - [Serverless глазами инженера: “используешь, перестаешь программировать, становишься оператором Амазона” (2021)](https://m.habr.com/ru/company/rebrainme/blog/565078/)
 - [Netlify Lambda](https://github.com/netlify/netlify-lambda) - Optional tool that helps with building or locally developing Netlify Functions with a simple webpack/babel build step.
+- [Designing Our Serverless Engine: From Kubernetes to Nomad, Firecracker, and Kuma (2021)](https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma)

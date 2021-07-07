@@ -29,3 +29,4 @@
 - [Freelance Pricing Guide](https://worknotes.co.uk/freelance-pricing-guide)
 - [Ask HN: Consultants and freelancers, how do you handle invoicing? (2020)](https://news.ycombinator.com/item?id=24972066)
 - [Ideal EU country for freelancers? (2021)](https://www.reddit.com/r/eupersonalfinance/comments/od1j76/ideal_eu_country_for_freelancers/)
+- [Bonsai](https://www.hellobonsai.com/) - Freelance Product Suite.
