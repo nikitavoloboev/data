@@ -87,3 +87,4 @@
 - [Iconify](https://github.com/iconify/iconify) - Universal icon framework. ([Web](https://iconify.design/))
 - [Styled Icons](https://styled-icons.js.org/) - Styled Components icon library. ([Code](https://github.com/styled-icons/styled-icons))
 - [Health Icons](https://healthicons.org/)
+- [Awesome Web Icons](https://github.com/vkarampinis/awesome-icons)

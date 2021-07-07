@@ -76,6 +76,7 @@
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf) - Library for RDF, SPARQL and Linked Data technologies in Scala.
 - [Scio](https://github.com/spotify/scio) - Scala API for Apache Beam and Google Cloud Dataflow.
 - [MacWire](https://github.com/softwaremill/macwire) - Lightweight and Nonintrusive Scala Dependency Injection Library.
+- [Wire Signals](https://github.com/wireapp/wire-signals) - Small and effective event-handling library for Scala.
 
 ## Links
 

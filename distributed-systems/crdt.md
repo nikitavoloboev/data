@@ -52,3 +52,4 @@
 - [CRDT optimizations (2021)](https://bartoszsypytkowski.com/crdt-optimizations/)
 - [Pure operation-based CRDTs (2021)](https://bartoszsypytkowski.com/pure-operation-based-crdts/)
 - [Operation-based CRDTs: JSON document (2021)](https://bartoszsypytkowski.com/operation-based-crdts-json-document/)
+- [Text CRDT Prototype](https://github.com/josephg/text-crdt-rust) - Prototype of a simple high performance CRDT for text. Its loosely based off automerge.
