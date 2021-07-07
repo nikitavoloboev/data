@@ -107,3 +107,4 @@
 - [Static Tweets with MDX and Next.js (2021)](https://blog.maximeheckel.com/posts/static-tweets-with-mdx-nextjs/)
 - [Broadcast](https://github.com/daneden/Broadcast) - Write-only Twitter client. It lets you post tweets and reply to your last tweet.
 - [Rebuilding Twitter’s Public API (2021)](https://www.youtube.com/watch?v=axFSaH_-IMw)
+- [Twitter API v2 sample code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js).

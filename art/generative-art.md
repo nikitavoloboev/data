@@ -138,3 +138,4 @@
 - [generativepy](https://github.com/martinmcbride/generativepy) - Generative art and graphing library for creating images and animations.
 - [I redesigned my site & added some generative art (2021)](https://meowni.ca/posts/redesign/) ([Tweet](https://twitter.com/notwaldorf/status/1408094426031747072))
 - [Mondrian Art Generator](https://tool.graphics/mondrian) ([Code](https://github.com/andronov04/mondrian-art))
+- [Subscapes by Matt DesLauriers](https://artblocks.io/project/53) - Generative algorithm that draws the impression of a landscape from a multitude of possibilities. ([Code](https://github.com/mattdesl/subscapes))
