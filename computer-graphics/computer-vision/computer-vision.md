@@ -327,3 +327,4 @@
 - [Oxford Active Vision Laboratory](https://www.robots.ox.ac.uk/ActiveVision/) ([GitHub](https://github.com/ActiveVisionLab))
 - [Computer Vision: Algorithms and Applications, 2nd ed.](http://szeliski.org/Book/)
 - [motionEyeOS](https://github.com/ccrisan/motioneyeos) - Linux distribution that turns your single board computer into a video surveillance system.
+- [Long-Short Transformer: Efficient Transformers for Language and Vision (2021)](https://arxiv.org/abs/2107.02192) ([Code](https://github.com/lucidrains/long-short-transformer))

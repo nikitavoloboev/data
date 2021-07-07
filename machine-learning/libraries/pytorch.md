@@ -258,3 +258,4 @@
 - [PyTorch builds the future of AI and machine learning at Facebook (2021)](https://ai.facebook.com/blog/pytorch-builds-the-future-of-ai-and-machine-learning-at-facebook/)
 - [allRank](https://github.com/allegro/allRank) - Framework for training learning-to-rank neural models based on PyTorch.
 - [KD_Lib](https://github.com/SforAiDl/KD_Lib) - PyTorch library to easily facilitate knowledge distillation for custom deep learning models.
+- [PyTorch Sparse](https://github.com/rusty1s/pytorch_sparse) - PyTorch Extension Library of Optimized Autograd Sparse Matrix Operations.

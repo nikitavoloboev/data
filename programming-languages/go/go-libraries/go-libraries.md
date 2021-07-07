@@ -177,6 +177,7 @@
 - [bolter](https://github.com/hasit/bolter) - View BoltDB file in your terminal.
 - [pg_query_go](https://github.com/lfittl/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser.
 - [SQLBoiler](https://github.com/volatiletech/sqlboiler) - Tool to generate a Go ORM tailored to your database schema. ([Twitter](https://twitter.com/fatih/status/1261882088006934528))
+- [gqlgen-sqlboiler](https:v//github.com/web-ridge/gqlgen-sqlboiler) - This is a plugin for gqlgen to generate converts + filter queries and resolvers for sqlboiler.
 - [sqlmw](https://github.com/ngrok/sqlmw) - Provides an absurdly simple API that allows a caller to wrap a database/sql driver with middleware.
 - [go-mysql](https://github.com/siddontang/go-mysql) - Pure go library to handle MySQL network protocol and replication.
 - [Redcon](https://github.com/tidwall/redcon) - Custom Redis server framework for Go that is fast and simple to use.
