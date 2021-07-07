@@ -233,3 +233,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Japa](https://github.com/thetutlage/japa) - Embedable test runner for Node.js.
 - [Lucid](https://github.com/adonisjs/lucid) - Official SQL ORM for AdonisJS.
 - [tinyhttp/jwt](https://github.com/tinyhttp/jwt) - JWT middleware for HTTP servers.
+- [TypeScript and native ESM on Node.js (2021)](https://2ality.com/2021/06/typescript-esm-nodejs.html)
