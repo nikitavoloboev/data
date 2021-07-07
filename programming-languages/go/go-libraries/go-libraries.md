@@ -223,6 +223,7 @@
 - [bun](https://github.com/uptrace/bun) - Simple and performant ORM for sql.DB. ([Web](https://bun.uptrace.dev/))
 - [gosql](https://github.com/ilibs/gosql) - Very simple ORM library for Go.
 - [Scan](https://github.com/blockloop/scan) - Scan database/sql rows directly to structs, slices, and primitive types.
+- [go-sqlite3-js](https://github.com/matrix-org/go-sqlite3-js) - Go SQL driver for sqlite3 in browser (sql.js) from go-wasm.
 
 ## ML
 

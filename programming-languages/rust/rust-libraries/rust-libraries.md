@@ -881,6 +881,7 @@
 - [rodio](https://github.com/RustAudio/rodio) - Rust audio playback library.
 - [segvec](https://github.com/mccolljr/segvec) - SegVec data structure for rust. Similar to Vec, but allocates memory in chunks of increasing size.
 - [confy](https://github.com/rust-cli/confy) - Zero-boilerplate configuration management in Rust.
+- [flatparse](https://github.com/AndrasKovacs/flatparse) - Fast parsing from bytestrings.
 
 ## Cargo Plugins
 

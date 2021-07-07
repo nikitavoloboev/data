@@ -221,3 +221,4 @@
 - [Using GraphQL Code Generator For Type-Safe GraphQL Clients (2021)](https://dev.to/gethackteam/using-graphql-code-generator-for-type-safe-graphql-clients-1724)
 - [Designing a URL-based query syntax for GraphQL (2021)](https://blog.logrocket.com/designing-url-based-query-syntax-graphql/) ([HN](https://news.ycombinator.com/item?id=27547337))
 - [Data Loaders (2021)](https://bartoszsypytkowski.com/data-loaders/)
+- [graphql-typescript-integration](https://github.com/arcanis/graphql-typescript-integration) - Automatically generates TypeScript definitions for your GraphQL queries and injects the plumbing required to make the gql queries work at runtime.
