@@ -245,3 +245,4 @@
 - [Utopia](https://utopia.app/) - Visual design tool for React, with code as the source of truth. ([HN](https://news.ycombinator.com/item?id=27516212)) ([Code](https://github.com/concrete-utopia/utopia))
 - [Real world example: adding startTransition for slow renders (2021)](https://github.com/reactwg/react-18/discussions/65)
 - [Fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy. Web framework that lets you build projects very fast, highly dynamic, and without the need of a build step.
+- [Headless React](https://acko.net/blog/live-headless-react/) ([HN](https://news.ycombinator.com/item?id=27750864))

@@ -179,3 +179,4 @@
 - [First Steps with Web Assembly (WASM) & Rust (2021)](https://www.youtube.com/watch?v=mCpKF0YsfaU)
 - [Wasmer Ruby](https://github.com/wasmerio/wasmer-ruby) - WebAssembly runtime for Ruby. ([Article](https://wasmer.io/posts/wasmer-ruby-embedding-1.0))
 - [WebAssembly for Proxies (Go SDK)](https://github.com/tetratelabs/proxy-wasm-go-sdk)
+- [Extend your Go app with embedded WebAssembly functions in WasmEdge (2021)](https://www.secondstate.io/articles/extend-golang-app-with-webassembly-rust/)
