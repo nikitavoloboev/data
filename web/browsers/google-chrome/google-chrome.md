@@ -60,3 +60,4 @@ And here are Chrome extensions I use:
 - [How the new rendering engine on Chrome works (2021)](https://developer.chrome.com/blog/renderingng/)
 - [Create React Chrome Extension - TS](https://github.com/pixochi/create-react-chrome-extension-ts) - Lightweight boilerplate for building a Chrome extension and a standard web app with React, TypeScript and Webpack.
 - [How do Chrome extensions impact browser performance? (2021)](https://www.debugbear.com/blog/chrome-extension-performance-2021)
+- [Google’s unfair performance advantage in Chrome (2021)](https://www.ctrl.blog/entry/chrome-google-dse-preconnect.html)

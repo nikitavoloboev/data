@@ -245,3 +245,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Programming DeFi: Uniswap (2021)](https://jeiwan.net/posts/programming-defi-uniswap-1/)
 - [BlockScout](https://github.com/blockscout/blockscout) - Blockchain Explorer for inspecting and analyzing EVM Chains. ([Web](https://blockscout.com/xdai/mainnet/)) ([Docs](https://docs.blockscout.com/))
 - [Zeneth](https://zeneth.app/) - Gasless Ethereum account abstraction with Flashbots. ([Code](https://github.com/ScopeLift/zeneth))
+- [A Short Story of UNISWAP and UNI Token. DEFI Explained (2020)](https://www.youtube.com/watch?v=LpjMgS4OVzs)
+- [What is Uniswap V3 LP Automated Manager? (2021)](https://vividot-de.fi/entry/Uniswap-V3-Automated-Manager) ([Tweet](https://twitter.com/haydenzadams/status/1411731623301857290))

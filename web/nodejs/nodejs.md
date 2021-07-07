@@ -234,3 +234,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Lucid](https://github.com/adonisjs/lucid) - Official SQL ORM for AdonisJS.
 - [tinyhttp/jwt](https://github.com/tinyhttp/jwt) - JWT middleware for HTTP servers.
 - [TypeScript and native ESM on Node.js (2021)](https://2ality.com/2021/06/typescript-esm-nodejs.html)
+- [NPM audit: Broken by Design (2021)](https://overreacted.io/npm-audit-broken-by-design/) ([HN](https://news.ycombinator.com/item?id=27761334)) ([Tweet](https://twitter.com/dan_abramov/status/1412776197528997894))
