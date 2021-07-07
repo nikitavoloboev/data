@@ -688,6 +688,7 @@
   - [Stellar](cryptocurrencies/stellar.md)
   - [Libra](cryptocurrencies/libra.md)
   - [TON](cryptocurrencies/ton.md)
+  - [Monero](cryptocurrencies/monero.md)
 - [Privacy](privacy/privacy.md)
   - [Freedom](privacy/freedom.md)
   - [Self hosting](privacy/self-hosting.md)

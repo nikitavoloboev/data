@@ -61,3 +61,4 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [Making the hard problem of consciousness easier (2021)](https://science.sciencemag.org/content/372/6545/911) ([HN](https://news.ycombinator.com/item?id=27323401))
 - [The Consciousness of Invertebrates (2021)](https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates) ([HN](https://news.ycombinator.com/item?id=27437772))
 - [Joscha Bach “Consciousness, Continually Learning Systems, Neuralink” (2021)](https://overcast.fm/+Ts8MgwgGE)
+- [How to access higher states of consciousness without drugs? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/oett7k/how_to_access_higher_states_of_consciousness/)
