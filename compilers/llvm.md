@@ -73,3 +73,4 @@
 - [LLVM MinGW](https://github.com/mstorsjo/llvm-mingw) - LLVM/Clang/LLD based mingw-w64 toolchain.
 - [Design issues in LLVM IR (2021)](https://www.npopov.com/2021/06/02/Design-issues-in-LLVM-IR.html)
 - [Can memcpy be implemented in LLVM IR? (2021)](https://nhaehnle.blogspot.com/2021/06/can-memcpy-be-implemented-in-llvm-ir.html?m=1)
+- [Clang and LLVM Tutorial](https://github.com/lijiansong/clang-llvm-tutorial) - AST Interpreter, Function Pointer Analysis, Value Range Analysis, Data-Flow Analysis, Andersen Pointer Analysis, LLVM Backend.
