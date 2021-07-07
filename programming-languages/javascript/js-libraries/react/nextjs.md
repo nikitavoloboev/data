@@ -35,6 +35,7 @@
 - [Next.js landing page template for SaaS products](https://next-startd.vercel.app/) ([Web](https://next-startd.vercel.app/))
 - [Next js Auth boilerplate](https://github.com/smakosh/auth-ts-next-boilerplate)
 - [Next.js + AWS S3 Upload](https://github.com/leerob/nextjs-aws-s3) - Example of a Next.js application allowing you to upload photos to an S3 bucket.
+- [Trello Clone](https://github.com/knowankit/trello-clone) - Built with Nextjs framework with Typescript and Chakra UI library with support from MongoDB.
 
 ## NextJS plugins
 

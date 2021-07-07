@@ -64,3 +64,4 @@
 - [Building a Vue Auto Component Importer (2020)](https://harlanzw.com/blog/vue-automatic-component-imports/)
 - [Naive UI](https://github.com/TuSimple/naive-ui) - Vue 3 Component Library. ([Web](https://www.naiveui.com/en-US/os-theme))
 - [Petite-Vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement. ([HN](https://news.ycombinator.com/item?id=27719290))
+- [vue-to-react](https://github.com/egoist/vue-to-react) - Turn a Vue component into a React component.

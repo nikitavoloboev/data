@@ -227,6 +227,7 @@
 - [HTMLKit](https://github.com/vapor-community/HTMLKit) - Type-safe DSL that renders dynamic HTML templates in Swift.
 - [WebURL](https://github.com/karwa/swift-url) - New URL type for Swift.
 - [Criollo](https://github.com/thecatalinstan/Criollo) - Powerful Cocoa web framework and HTTP server for macOS, iOS and tvOS.
+- [Postie](https://github.com/kula-app/Postie) - Structured HTTP Client using Combine.
 
 ## SwiftUI
 

@@ -188,3 +188,6 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [awsls](https://github.com/jckuester/awsls) - List command for AWS resources.
 - [Running Scheduled Jobs in AWS Using Terraform (2021)](https://hyperscience.com/tech-blog/running-scheduled-jobs-in-aws/)
 - [SQS Message Mover](https://github.com/mercury2269/sqsmover) - Tool for moving AWS SQS messages from one queue to another.
+- [LocalStack AWS CLI](https://github.com/localstack/awscli-local)
+- [Former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources. ([Web](https://former2.com/))
+- [iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy.
