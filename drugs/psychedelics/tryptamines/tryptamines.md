@@ -45,3 +45,4 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
 - [New Biosynthesis of Psilocybin and Related Tryptamines (2020)](https://psychedelicreview.com/scientists-bioengineer-s-cerevisiae-to-produce-psilocybin-and-related-tryptamines/) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/gsll79/psilocybin_4acodmt_and_other_tryptamines_produced/))
 - [Conversion of DMT to 4acodmt/4homet (2020)](https://www.reddit.com/r/TheeHive/comments/j1gr6f/conversion_of_dmt_to_4acodmt4homet/)
 - [Psilocybin induces rapid and persistent growth of dendritic spines in frontal cortex in vivo (2021)](https://www.biorxiv.org/content/10.1101/2021.02.17.431629v1)
+- [Differences between 4-AcO-DMT and psilocybin (2021)](https://www.reddit.com/r/AskDrugNerds/comments/ofwtnd/differences_between_4acodmt_and_psilocybin/)

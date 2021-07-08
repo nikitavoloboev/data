@@ -71,3 +71,4 @@
 - [Ray tracer for those who skipped the math class (2021)](https://zserge.com/posts/raytracer/)
 - [A Dive into Ray Tracing Performance on the Apple M1 (2021)](https://www.willusher.io/graphics/2020/12/20/rt-dive-m1) ([HN](https://news.ycombinator.com/item?id=27340555))
 - [Arnold Renderer](https://www.arnoldrenderer.com/) - Advanced Monte Carlo ray tracing renderer built for the demands of feature-length animation and visual effects.
+- [Automated Testing of a Ray Tracer (2021)](https://16bpp.net/blog/post/automated-testing-of-a-ray-tracer/)

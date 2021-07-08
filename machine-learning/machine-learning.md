@@ -510,3 +510,4 @@
 - [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
 - [You Don’t Need Math For Machine Learning (2021)](https://towardsdatascience.com/you-dont-need-math-for-machine-learning-e168b7d973d4)
 - [Data Augmentation Resources](https://github.com/AgaMiko/data-augmentation-review)
+- [Extremely revealing books that explains everything behind machine learning? (2021)](https://www.reddit.com/r/learnmachinelearning/comments/ofnl9d/extremely_revealing_books_that_explains/)
