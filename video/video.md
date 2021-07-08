@@ -260,3 +260,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Horahora](https://github.com/horahoradev/horahora) - Microservice-based video hosting website and video archival manager for Bilibili, Niconico, and Youtube.
 - [tl;dv](https://tldv.io/) - Catch up on Google meetings in minutes.
 - [Rainway](https://rainway.com/) - Ultra-Low Latency Video Streaming.
+- [Learn How To Edit Stuff - YouTube](https://www.youtube.com/c/LearnHowToEditStuff/videos)
