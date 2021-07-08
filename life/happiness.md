@@ -40,7 +40,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - Let go of societies values and expectations. If you feel a pressure to be successful, let that go. Swallow your pride, stay away from the desire to fulfill other people's expectation of you (if you can).
 - Help people around you. If you are a good musician, start a meetup group in a park and teach people how to play guitar. If you are good at coding, start a meetup group in the public library to teach people how to code. Limit your students to 2-3 and try to make a deep, positive impact in their lives.
 - From my experience, practicing empathy and helping others around me helped a lot. Be aware though, don't fall into the trap of trying to measure success by quantity. Its better to help 2-3 people become great than to help 100 people get average skills.
-- [Protect your mental health by setting your boundaries.](https://twitter.com/chloecondon/status/1395507472878637062?s=28)
+- [Protect your mental health by setting your boundaries.](https://twitter.com/chloecondon/status/1395507472878637062)
 
 ## Notes
 

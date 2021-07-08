@@ -229,7 +229,7 @@
 - [jsx-runtime](https://github.com/itsjavi/jsx-runtime) - Extremely lightweight JSX runtime (<2KB) to write JSX without React in TypeScript or JavaScript.
 - [react-docgen-typescript](https://github.com/styleguidist/react-docgen-typescript) - Simple parser for react properties defined in typescript instead of propTypes.
 - [Best way to internationalize React site (2021)](https://twitter.com/feross/status/1387528321026510850)
-- [State Machines: Should this be a state, or in context? (2021)](https://dev.to/mpocock1/state-machines-should-this-be-a-state-or-in-context-1d7e) ([Tweet](https://twitter.com/mpocock1/status/1387677156558389252?s=28))
+- [State Machines: Should this be a state, or in context? (2021)](https://dev.to/mpocock1/state-machines-should-this-be-a-state-or-in-context-1d7e) ([Tweet](https://twitter.com/mpocock1/status/1387677156558389252))
 - [preact-render-to-string](https://github.com/preactjs/preact-render-to-string) - Render JSX and Preact components to an HTML string.
 - [API Design for a React Tree Table (2021)](https://www.robinwieruch.de/react-tree-list)
 - [Vite Typescript React 17 SSR](https://github.com/jonluca/vite-typescript-ssr-react) ([Web](https://blog.jonlu.ca/posts/vite))

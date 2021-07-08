@@ -139,7 +139,7 @@
 - [DeepMind Research](https://github.com/deepmind/deepmind-research) - Contains implementations and illustrative code to accompany DeepMind publications.
 - [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials)
 - [Prodify](https://prodi.gy/) - Radically efficient machine teaching. An annotation tool powered by active learning.
-- [Runway ML](https://runwayml.com/) - Discover, create, and use artificial intelligence capabilities in your creative work.
+- [Runway](https://runwayml.com/) - Professional video editing powered by machine learning — all on the web. ([HN](https://news.ycombinator.com/item?id=27766655))
 - [An Extended Version Of The Scikit-Learn Cheat Sheet (2014)](https://medium.com/@chris_bour/an-extended-version-of-the-scikit-learn-cheat-sheet-5f46efc6cbb)
 - [Notes on Machine Learning](https://wiki.kourouklides.com/wiki/Machine_Learning)
 - [Notes on Deep Learning](https://wiki.kourouklides.com/wiki/Deep_Learning)
