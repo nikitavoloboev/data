@@ -249,3 +249,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [What is Uniswap V3 LP Automated Manager? (2021)](https://vividot-de.fi/entry/Uniswap-V3-Automated-Manager) ([Tweet](https://twitter.com/haydenzadams/status/1411731623301857290))
 - [PartyBid](https://github.com/Anish-Agnihotri/partybid) - Collector DAO that lets individuals pool capital, bid on Mirror's reserve auctions, and resell NFTs.
 - [mStable](https://mstable.org/) - Autonomous and non-custodial stablecoin infrastructure. ([Code](https://github.com/mstable/mStable-contracts))
+- [Full stack app built with The Graph, Next.js, Zora, and Tailwind CSS](https://github.com/dabit3/zora-nextjs-app)

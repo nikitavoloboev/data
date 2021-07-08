@@ -314,6 +314,7 @@
 - [ToastSwiftUI](https://github.com/huynguyencong/ToastSwiftUI) - Simple way to show a toast message in SwiftUI.
 - [Coordinator](https://github.com/SwiftUIX/Coordinator) - Declarative navigation API for SwiftUI.
 - [NavigationStack](https://github.com/indieSoftware/NavigationStack) - Alternative to SwiftUI's navigation with greater flexibility and custom transition animation support.
+- [NStack](https://github.com/johnpatrickmorgan/NStack) - SwiftUI view that allows you to hoist navigation state into a Coordinator.
 
 ## Test
 

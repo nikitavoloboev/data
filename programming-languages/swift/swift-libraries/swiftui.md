@@ -156,3 +156,4 @@
 - [Mastering List in SwiftUI (2021)](https://swiftwithmajid.com/2021/06/16/mastering-list-in-swiftui/)
 - [What’s new in SwiftUI for iOS 15 (2021)](https://www.hackingwithswift.com/articles/235/whats-new-in-swiftui-for-ios-15)
 - [Is SwiftUI ready? (2021)](https://www.jessesquires.com/blog/2021/07/01/is-swiftui-ready/)
+- [Improving SwiftUI Navigation for the Coordinator Pattern (2021)](http://johnpatrickmorgan.github.io/2021/07/03/NStack/)
