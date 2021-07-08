@@ -20,3 +20,4 @@
 - [A brief F# exploration (2021)](https://notes.srid.ca/fsharp-exploration) ([HN](https://news.ycombinator.com/item?id=26739501))
 - [F# for fun and profit](https://fsharpforfunandprofit.com/)
 - [Interview with F# designer Don Syme (2021)](https://www.youtube.com/watch?v=hNAb04V4liA)
+- [FsAutoComplete](https://github.com/fsharp/FsAutoComplete) - F# language server using Language Server Protocol.

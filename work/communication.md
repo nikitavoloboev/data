@@ -124,3 +124,4 @@
 - [Ask HN: Books for Effective Communication (2021)](https://news.ycombinator.com/item?id=27408120)
 - [Good Meetings (2021)](https://css-tricks.com/good-meetings/)
 - [How to win friends and influence people Summary](https://www.reddit.com/r/coolguides/comments/odanjw/1_smile/)
+- [How to communicate your needs as a girlfriend without feeling like you are becoming a mother? (2021)](https://www.reddit.com/r/AskWomen/comments/ofz8z0/how_to_communicate_your_needs_as_a_girlfriend/)
