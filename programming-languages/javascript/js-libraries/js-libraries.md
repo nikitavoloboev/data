@@ -54,7 +54,7 @@
 - [neo.mjs](https://github.com/neomjs/neo) - Create blazing fast multithreaded Web Apps.
 - [presta](https://github.com/sure-thing/presta) - Hyper minimal framework for the modern web. ([Web](https://presta.run/))
 - [Haptic](https://github.com/heyheyhello/haptic) - Reactive web rendering in TSX with no virtual DOM, no compilers, and no magic.
-- [Astro](https://github.com/snowpackjs/astro) - Build faster websites with less client-side JavaScript. ([Web](https://astro.build/)) ([HN](https://news.ycombinator.com/item?id=27440553))
+- [Astro](https://github.com/snowpackjs/astro) - Build faster websites with less client-side JavaScript. ([Web](https://astro.build/)) ([HN](https://news.ycombinator.com/item?id=27440553)) ([Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/))
 - [Logux Client](https://github.com/logux/client) - New way to connect client and server. Instead of sending HTTP requests, it synchronizes log of operations between client, server, and other clients.
 - [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework.
 

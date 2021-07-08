@@ -510,3 +510,4 @@
 - [Polymorphism in Rust (2021)](https://oswalt.dev/2021/06/polymorphism-in-rust/)
 - [Hands-on Rust Book (2021)](https://pragprog.com/titles/hwrust/hands-on-rust/) - Effective Learning through 2D Game Development and Play.
 - [What Can Coerce, and Where, in Rust (2021)](https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust)
+- [Compiling Rust is NP-hard (2021)](https://niedzejkob.p4.team/rust-np/) ([HN](https://news.ycombinator.com/item?id=27769718)) ([Lobsters](https://lobste.rs/s/ekasr1/compiling_rust_is_np_hard))

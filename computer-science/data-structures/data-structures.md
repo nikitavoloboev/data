@@ -12,7 +12,7 @@
 - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 - [Phil’s Data Structure Zoo](https://g1thubhub.github.io/data-structure-zoo.html)
 - [The Periodic Table of Data Structures](https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf) ([HN](https://news.ycombinator.com/item?id=18314555))
-- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) ([HN](https://news.ycombinator.com/item?id=19082943))
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) ([HN](https://news.ycombinator.com/item?id=19082943)) ([HN](https://news.ycombinator.com/item?id=27745184))
 - [Data structures to name-drop when you want to sound smart in an interview](http://blog.amynguyen.net/?p=853)
 - [On lists, cache, algorithms, and microarchitecture (2019)](https://pdziepak.github.io/2019/05/02/on-lists-cache-algorithms-and-microarchitecture/)
 - [Topics in Advanced Data Structures (2019)](http://web.stanford.edu/class/cs166/handouts/100%20Suggested%20Final%20Project%20Topics.pdf) ([HN](https://news.ycombinator.com/item?id=19780387))

@@ -54,3 +54,4 @@
 - [Flywheel](https://github.com/Jozufozu/Flywheel) - Modern engine for modded Minecraft.
 - [Minestom](https://github.com/Minestom/Minestom) - Lightweight and multi-threaded Minecraft server. ([Web](https://www.minestom.net/))
 - [Clojure meets Minecraft (Witchcraft/Glowstone) (2021)](https://www.youtube.com/watch?v=qgQwhc_DDSY)
+- [go-mcproto](https://github.com/BRA1L0R/go-mcproto) - Minecraft Protocol implementation in Go.

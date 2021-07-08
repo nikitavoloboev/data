@@ -169,3 +169,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Топ Твиттера](https://www.t30p.ru/microtop.aspx?all=twitter)
 - [ТОП30](https://www.t30p.ru/) - Рейтинг постов блогосферы. ([Twitter](https://twitter.com/t30p))
 - [Soyuz.ru](https://www.soyuz.ru/) - Ваш навигатор в мире кино, музыки, культуры, игр и литературы.
+- [Grand Illusions: The Impact of Misperceptions About Russia on U.S. Policy (2021)](https://carnegieendowment.org/2021/06/30/grand-illusions-impact-of-misperceptions-about-russia-on-u.s.-policy-pub-84845)
+- [Russia and Eurasia Program - Carnegie Endowment for International Peace](https://carnegieendowment.org/programs/russia)
