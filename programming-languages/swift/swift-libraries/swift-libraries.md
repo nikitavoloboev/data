@@ -714,6 +714,7 @@
 - [SwiftCF](https://github.com/ddddxxx/SwiftCF) - Use CoreFoundation based framework in Swift painlessly.
 - [Deeplink](https://github.com/TizianoCoroneo/Deeplink) - Library to parse deeplinks and their arguments using String interpolation.
 - [Ensure](https://github.com/buildpassed/ensure) - Type-based input validation.
+- [Overture](https://github.com/pointfreeco/swift-overture) - Library for function composition.
 
 ## Other (not lib)
 
