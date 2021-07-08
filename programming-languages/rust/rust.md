@@ -508,6 +508,6 @@
 - [Rust is not a Company (2021)](https://blog.m-ou.se/rust-is-not-a-company/) ([HN](https://news.ycombinator.com/item?id=27551242))
 - [Type-checked keypaths in Rust (2021)](http://www.cmyr.net/blog/keypaths.html) ([Lobsters](https://lobste.rs/s/z7nqc2/type_checked_keypaths_rust))
 - [Polymorphism in Rust (2021)](https://oswalt.dev/2021/06/polymorphism-in-rust/)
-- [Hands-on Rust Book (2021)](https://pragprog.com/titles/hwrust/hands-on-rust/) - Effective Learning through 2D Game Development and Play.
+- [Hands-on Rust Book (2021)](https://pragprog.com/titles/hwrust/hands-on-rust/) - Effective Learning through 2D Game Development and Play. ([Code](https://github.com/thebracket/HandsOnRust))
 - [What Can Coerce, and Where, in Rust (2021)](https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust)
 - [Compiling Rust is NP-hard (2021)](https://niedzejkob.p4.team/rust-np/) ([HN](https://news.ycombinator.com/item?id=27769718)) ([Lobsters](https://lobste.rs/s/ekasr1/compiling_rust_is_np_hard))
