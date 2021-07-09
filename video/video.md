@@ -14,6 +14,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [LEVA - YouTube](https://www.youtube.com/channel/UC6t1USQd5kZsY7AFACsdC9Q/videos)
 - [TikTok Remix Culture](https://twitter.com/Iameaschris/status/1391207396979007488) ([HN](https://news.ycombinator.com/item?id=27161011))
 - [Parasite VFX reel](https://twitter.com/jimmycthatsme/status/1398707908259442693)
+- [Kendall Roy | The City Surf](https://www.youtube.com/watch?v=DG-1VkPN128)
 
 ## Favorite clips
 

@@ -73,7 +73,7 @@
 - [gologin](https://github.com/dghubble/gologin) - Go login handlers for authentication providers (OAuth1, OAuth2).
 - [What's in a JWT (Json Web Token)? (2020)](https://loige.co/whats-in-a-jwt/)
 - [Gazepass](https://gazepass.com/) - Passwordless Authentication API.
-- [dex](https://github.com/dexidp/dex) - Federated OpenID Connect provider.
+- [dex](https://github.com/dexidp/dex) - Federated OpenID Connect provider. ([Web](https://dexidp.io/))
 - [Aperture](https://github.com/lightninglabs/aperture) - HTTP 402 Lightning Service Authentication Token Reverse Proxy.
 - [Kerbrute](https://github.com/ropnop/kerbrute) - Quickly bruteforce and enumerate valid Active Directory accounts through Kerberos Pre-Authentication.
 - [OAuth 2.0 Simplified](https://oauth2simplified.com/) - Guide to building OAuth 2.0 servers.

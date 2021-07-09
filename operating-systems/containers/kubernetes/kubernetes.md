@@ -401,3 +401,5 @@
 - [Orkestra](https://github.com/Azure/orkestra) - Cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent helm charts and their dependencies.
 - [Treat Kubernetes clusters as cattle, not pets (2021)](https://zitadel.ch/blog/treat-clusters-as-cattle/) ([HN](https://news.ycombinator.com/item?id=27688203))
 - [Everything useful I know about kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/) ([HN](https://news.ycombinator.com/item?id=27737064))
+- [Deckhouse Platform](https://github.com/deckhouse/deckhouse) - Operator which creates homogeneous Kubernetes clusters anywhere and fully manages them.
+- [Shell-operator](https://github.com/flant/shell-operator) - Tool for running event-driven scripts in a Kubernetes cluster.
