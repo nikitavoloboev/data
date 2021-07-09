@@ -20,7 +20,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Conserve](https://github.com/sourcefrog/conserve) - Robust portable backup tool in Rust.
 - [tm](https://github.com/erica/tm) - Time Machine recovery utility for the six-or-so people who still use Time Machine for version control.
 - [Unison](https://github.com/bcpierce00/unison) - File-synchronization tool for OSX, Unix, and Windows. ([Web](https://www.cis.upenn.edu/~bcpierce/unison/))
-- [Tarsnap](https://www.tarsnap.com/) - Online backups for the truly paranoid. ([HN](https://news.ycombinator.com/item?id=24535046))
+- [Tarsnap](https://www.tarsnap.com/) - Online backups for the truly paranoid. ([CLI client](https://github.com/Tarsnap/tarsnap)) ([HN](https://news.ycombinator.com/item?id=24535046))
 - [Bupstash](https://bupstash.io/) - Encrypted backups made easy. ([Code](https://github.com/andrewchambers/bupstash)) ([Introducing Bupstash](https://acha.ninja/blog/introducing_bupstash/)) ([Lobsters](https://lobste.rs/s/k5opww/introducing_bupstash))
 - [BlobBackup](https://blobbackup.com/) - Simple Backups to Any Storage.
 - [zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution. ([Docs](https://zrepl.github.io/))

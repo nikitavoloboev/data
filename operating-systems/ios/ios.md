@@ -334,3 +334,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [How to roll back your native iOS app (2021)](https://screenplay.dev/blog/post/wHypgqF7fjPPPYaIpoQ1)
 - [How iOS 15 makes apps launch faster (2021)](https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520)
 - [WTF Auto Layout?](https://www.wtfautolayout.com/) - Parses error logs from Auto Layout on iOS and macOS and provides more intuitive visual descriptions of the conflicting constraints. ([Code](https://github.com/johnpatrickmorgan/wtfautolayout))
+- [IPSW Downloads](https://ipsw.me/) - Download iOS Firmware for iPhone, iPad, iPod Touch, Apple Watch, Apple TV and HomePod.
+- [Can I Jailbreak?](https://canijailbreak.com/) ([Code](https://github.com/cj123/canijailbreak.com))

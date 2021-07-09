@@ -166,3 +166,4 @@
 - [Petastorm](https://github.com/uber/petastorm) - Enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format.
 - [Collie](https://github.com/ShopRunner/collie_recs) - Library for preparing, training, and evaluating scalable deep learning hybrid recommender systems using PyTorch. ([Docs](https://collie.readthedocs.io/en/latest/))
 - [voxelmorph](https://github.com/voxelmorph/voxelmorph) - Unsupervised Learning for Image Registration.
+- [uTensor](https://github.com/uTensor/uTensor) - TinyML AI inference library.
