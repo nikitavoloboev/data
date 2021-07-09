@@ -216,3 +216,4 @@
 - [David Silver's UCL Course on RL](https://www.davidsilver.uk/teaching/)
 - [Mava](https://github.com/instadeepai/Mava) - Research framework for distributed multi-agent reinforcement learning. ([Paper](https://arxiv.org/pdf/2107.01460.pdf))
 - [Reinforcement Learning Examples](https://github.com/dredwardhyde/reinforcement-learning) - Policy Gradients, PPO+GAE, and DDQN Using OpenAI Gym and PyTorch.
+- [Hierarchical Reinforcement Learning by Discovering Intrinsic Options](https://openreview.net/forum?id=r-gPPHEjpmw) ([Code](https://github.com/jesbu1/hidio))

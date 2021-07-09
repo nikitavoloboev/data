@@ -40,3 +40,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - Tool to animate Excalidraw drawings.
 - [Replidraw](http://replidraw.vercel.app/) - Tiny Figma-like multiplayer graphics editor. ([Code](https://github.com/rocicorp/replidraw))
 - [Telestrator](https://github.com/steveruizok/telestrator) - Disappearing drawing tool for your screen.
+- [How To Get Better at Painting – Without Painting Anything](http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything)

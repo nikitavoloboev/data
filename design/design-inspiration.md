@@ -157,6 +157,7 @@ Here are few more things I liked, design wise.
 - [Alain](https://alain.xyz/)
 - [Monica Dinculescu](https://meowni.ca/)
 - [Nick Jones](https://narrowdesign.com/)
+- [Ana Rodrigues](https://ohhelloana.blog/) ([Code](https://github.com/ohhelloana/ohhelloana))
 - [Julia Miocene](https://miocene.io/) ([Code](https://github.com/Miocene/web-miocene))
 - [Varun Vachhar](https://varun.ca/) ([Code](https://github.com/winkerVSbecks/varun.ca))
 - [Ryan McGrath](https://rymc.io/)

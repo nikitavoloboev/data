@@ -411,3 +411,4 @@
 - [When To Rewrite (2021)](https://www.anthropicstudios.com/2021/06/25/when-to-rewrite/) ([Lobsters](https://lobste.rs/s/63eb9g/when_rewrite))
 - [Principles.dev](https://principles.dev/) - Software Engineering Principles. ([HN](https://news.ycombinator.com/item?id=27688612))
 - [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems) ([HN](https://news.ycombinator.com/item?id=24989351))
+- [Explaining Variable (2021)](https://blog.thepete.net/blog/2021/06/24/explaining-variable/)

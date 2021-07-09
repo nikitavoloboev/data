@@ -302,3 +302,4 @@
 - [Optimizr](https://github.com/undefinedbuddy/optimizr) - Aggressive compile-time optimizations for modern JavaScript.
 - [Tiny Treeshaker](https://github.com/magicmark/tiny-treeshaker) - JavaScript tree shaking in 200 lines of code. ([HN](https://news.ycombinator.com/item?id=27670859))
 - [Tips For Using Async/Await in JavaScript (2021)](https://www.youtube.com/watch?v=_9vgd9XKlDQ)
+- [`export default thing` is different to `export { thing as default }` (2021)](https://jakearchibald.com/2021/export-default-thing-vs-thing-as-default/) ([Tweet](https://twitter.com/jaffathecake/status/1411976300110258176))

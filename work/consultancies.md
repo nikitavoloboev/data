@@ -64,6 +64,7 @@
 - [Sensa](https://sensa.co/) - Strategy + Craft.
 - [BASIC](https://www.basicagency.com/) - Digital Branding & Experience Design Agency.
 - [Rejiggle](https://rejiggle.co/) - Conversion-Focused Design.
+- [Hactar](https://hactar.is/) - Product and service design for social good.
 
 ## DB
 

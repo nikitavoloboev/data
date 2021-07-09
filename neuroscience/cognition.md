@@ -16,3 +16,4 @@
 - [Thinking too much can be bad for you](https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you) ([HN](https://news.ycombinator.com/item?id=26081880))
 - [Final Thoughts on Free Will | Sam Harris (2021)](https://samharris.org/podcasts/241-final-thoughts-on-free-will/) ([Tweet](https://twitter.com/wolfejosh/status/1370730710928134153))
 - [Event-based backpropagation for exact gradients in spiking neural networks (2020)](https://arxiv.org/abs/2009.08378) ([HN](https://news.ycombinator.com/item?id=27364777))
+- [Collection of openly available data sources for cognitively-inspired NLP](https://github.com/norahollenstein/cognitiveNLP-dataCollection/wiki)

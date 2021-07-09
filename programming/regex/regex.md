@@ -55,3 +55,5 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Let’s Build a Regex Engine (2019)](https://kean.blog/post/lets-build-regex) ([HN](https://news.ycombinator.com/item?id=27287987))
 - [GNU BRE/ERE cheatsheet and differences between grep, sed and awk (2021)](https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/)
 - [The Best Regex Trick (2014)](http://rexegg.com/regex-best-trick.html) ([HN](https://news.ycombinator.com/item?id=27774584))
+- [The Regular Expression Edition (2021)](https://whyisthisinteresting.substack.com/p/the-regular-expression-edition) - On code, early neural networks, and once discredited AI pioneers.
+- [REXS](https://github.com/uellenberg/REXS) - Language for writing regular expressions.

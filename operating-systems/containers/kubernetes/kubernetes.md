@@ -403,3 +403,4 @@
 - [Everything useful I know about kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/) ([HN](https://news.ycombinator.com/item?id=27737064))
 - [Deckhouse Platform](https://github.com/deckhouse/deckhouse) - Operator which creates homogeneous Kubernetes clusters anywhere and fully manages them.
 - [Shell-operator](https://github.com/flant/shell-operator) - Tool for running event-driven scripts in a Kubernetes cluster.
+- [Kadalu Storage](https://kadalu.io/) - Lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background. ([Code](https://github.com/kadalu/kadalu))

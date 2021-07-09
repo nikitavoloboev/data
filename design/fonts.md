@@ -251,3 +251,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [OpenType](https://github.com/bodoni/opentype) - Parser for OpenType fonts.
 - [nanoemoji](https://github.com/googlefonts/nanoemoji) - Wee tool to build color fonts.
 - [font](https://github.com/ConradIrwin/font) - Collection of Go packages for parsing and encoding OpenType fonts.
+- [fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash.

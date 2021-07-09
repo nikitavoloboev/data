@@ -79,3 +79,4 @@
 - [Radix Colors](https://github.com/radix-ui/colors) - Gorgeous, accessible color system. ([Web](https://www.radix-ui.com/colors))
 - [Cone](https://cone.app/) - Live Color Picker.
 - [100 Mesh Gradients](https://www.meshgradients.design/) - Make your website beautiful with mesh gradients.
+- [Using HSL Colors In CSS (2021)](https://www.smashingmagazine.com/2021/07/hsl-colors-css/)

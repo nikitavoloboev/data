@@ -3,7 +3,7 @@
 ## ~ 2025
 
 - Animals get human rights and are no longer forced to endure life in slaughterhouses and be eaten. No animal can be harmed for food. Being vegan is normal. Caring is normal.
-- Renewable & environmentally friendly energy sources fully replace fossil fuel use. Each country's grid is ran off renewable clean energy.
+- Renewable & environmentally friendly energy sources fully replace fossil fuel use. Each country's grid is ran off renewable clean energy. Extreme carbon tax is implemented.
 - All vehicles are electrical. Autonomous driving fully realized.
 - Cure for all cancers & diseases (cheap immunotherapies, medicine).
 - Psychedelics legalized. Possession, purchase and manufacturing. Psychotherapy is available everywhere.
