@@ -716,6 +716,7 @@
 - [Deeplink](https://github.com/TizianoCoroneo/Deeplink) - Library to parse deeplinks and their arguments using String interpolation.
 - [Ensure](https://github.com/buildpassed/ensure) - Type-based input validation.
 - [Overture](https://github.com/pointfreeco/swift-overture) - Library for function composition.
+- [LifecycleHooks](https://github.com/johnpatrickmorgan/LifecycleHooks) - Inject custom code into views and view controllers in response to lifecycle events.
 
 ## Other (not lib)
 

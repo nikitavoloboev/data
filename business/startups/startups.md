@@ -292,6 +292,7 @@
 - [Qualities of great CEOs](https://twitter.com/noahkagan/status/1401965821430226951)
 - [Advice on building efficient startups](https://twitter.com/landforce/status/1409923677387374592)
 - [YC will help you find a co-founder (2021)](https://news.ycombinator.com/item?id=27750298)
+- [Lessons of a startup engineer (2021)](https://twolfson.com/2021-06-24-lessons-of-a-startup-engineer)
 
 ## Images
 
