@@ -41,3 +41,4 @@
 - [On the Feasibility of Secure Traceability in End-to-End Encrypted Messaging (2021)](https://nadim.computer/posts/2021-06-02-traceability.html)
 - [Fully Homomorphic Encryption (FHE)](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set. ([HN](https://news.ycombinator.com/item?id=27510902))
 - [kiss-crypto](https://www.npmjs.com/package/kiss-crypto) - Easily encrypt and decrypt messages. All the complexity is hidden behind the scenes.
+- [Awesome Homomorphic Encryption](https://github.com/jonaschn/awesome-he)

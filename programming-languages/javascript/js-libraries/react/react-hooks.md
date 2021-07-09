@@ -102,6 +102,7 @@
 - [React Cool Virtual](https://github.com/wellyshen/react-cool-virtual) - Tiny React hook for rendering large datasets like a breeze.
 - [React Solid State](https://github.com/solidjs/react-solid-state) - Local state swap for React using SolidJS.
 - [React Facade](https://github.com/garbles/react-facade) - Dependency injection for React hooks.
+- [useCookieConsent](https://github.com/bring-shrubbery/use-cookie-consent) - React hook for managing GDPR cookie consent state.
 
 ## Notes
 

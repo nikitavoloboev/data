@@ -315,6 +315,7 @@
 - [Coordinator](https://github.com/SwiftUIX/Coordinator) - Declarative navigation API for SwiftUI.
 - [NavigationStack](https://github.com/indieSoftware/NavigationStack) - Alternative to SwiftUI's navigation with greater flexibility and custom transition animation support.
 - [NStack](https://github.com/johnpatrickmorgan/NStack) - SwiftUI view that allows you to hoist navigation state into a Coordinator.
+- [SwiftUI Tooltip](https://github.com/quassummanus/SwiftUI-Tooltip) - Easy Tooltip for your SwiftUI Project.
 
 ## Test
 
@@ -717,6 +718,7 @@
 - [Ensure](https://github.com/buildpassed/ensure) - Type-based input validation.
 - [Overture](https://github.com/pointfreeco/swift-overture) - Library for function composition.
 - [LifecycleHooks](https://github.com/johnpatrickmorgan/LifecycleHooks) - Inject custom code into views and view controllers in response to lifecycle events.
+- [Dollar](https://github.com/ankurp/Dollar) - Swift library that provides useful functional programming helper methods without extending any built in objects.
 
 ## Other (not lib)
 

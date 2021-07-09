@@ -43,3 +43,4 @@
 - [Inspiration sources for men clothes](https://twitter.com/jackiehluo/status/1393592955663958020)
 - [Models.com](https://models.com/) - Top model rankings, modeling, fashion and creative industry news.
 - [Tens Sunglasses](https://tens.co/) - Filter Your World.
+- [Barking Store](https://barkingstore.ru/) - Актуальный мерч с животными. ([Twitter](https://twitter.com/50pets))

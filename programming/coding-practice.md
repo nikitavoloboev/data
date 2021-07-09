@@ -29,6 +29,7 @@
 - [Rust](https://github.com/pymongo/leetcode-rust)
 - [Go](https://github.com/austingebauer/go-leetcode) - Collection of 100+ popular LeetCode problems that I've solved in Go.
 - [Go 2](https://github.com/halfrost/LeetCode-Go)
+- [Go 3](https://github.com/openset/leetcode)
 - [Python / Modern C++](https://github.com/kamyu104/LeetCode-Solutions) - Many solutions.
 - [Python](https://github.com/davidnsun/leetcode-py)
 - [Python & Java](https://github.com/qiyuangong/leetcode)
@@ -88,3 +89,4 @@
 - [Решаем LeetCode на сложности Hard (2021)](https://www.youtube.com/watch?v=LtPDRjEXMBI)
 - [Задачи с интервью — LeetCode, HackerRank — feat. 2pizza (2021)](https://www.youtube.com/watch?v=gHk-GP0S4dM)
 - [Ask HN: Did preparing for LeetCode type of interviews improve your skills? (2021)](https://news.ycombinator.com/item?id=27312265)
+- [Leetcode company problems](https://github.com/xizhengszhang/Leetcode_company_frequency)

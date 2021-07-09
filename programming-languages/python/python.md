@@ -302,3 +302,4 @@
 - [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/) ([HN](https://news.ycombinator.com/item?id=27736465))
 - [Coding Patterns for Python Extensions](https://pythonextensionpatterns.readthedocs.io/en/latest/index.html) ([Code](https://github.com/paulross/PythonExtensionPatterns))
 - [tryceratops](https://github.com/guilatrova/tryceratops) - Linter to manage all your python exceptions and try/except blocks. ([HN](https://news.ycombinator.com/item?id=27770750))
+- [Functools – The Power of Higher-Order Functions in Python](https://martinheinz.dev/blog/52)

@@ -29,3 +29,4 @@
 - [Google APIs](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
 - [Google API Linter](https://github.com/googleapis/api-linter) - API linter provides real-time checks for compliance with many of Google's API standards.
 - [Berglas](https://github.com/GoogleCloudPlatform/berglas) - Tool for managing secrets on Google Cloud.
+- [Google Cloud Rust Client](https://github.com/mozilla-services/google-cloud-rust)
