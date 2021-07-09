@@ -139,3 +139,4 @@
 - [System Design for Recommendations and Search (2021)](https://eugeneyan.com/writing/system-design-for-discovery/)
 - [How not to break a search engine (2021)](https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/)
 - [Writing an Image Search Engine from Scratch](http://yusukematsui.me/project/sis/sis.html) ([Code](https://github.com/matsui528/sis))
+- [Monocle](https://github.com/thesephist/monocle) - Universal, personal search engine. ([Web](https://monocle.surge.sh/))

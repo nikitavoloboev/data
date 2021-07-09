@@ -266,3 +266,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Tetrate](https://www.tetrate.io/) - Application-aware networking for all Workloads, in all Environments. ([GitHub](https://github.com/tetratelabs))
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - Allows you to study network traffic of a few popular protocols in a simple way.
 - [HomeNetworking Reddit](https://www.reddit.com/r/HomeNetworking/)
+- [i2pd](https://github.com/PurpleI2P/i2pd) - End-to-End encrypted and anonymous Internet. ([Web](https://i2pd.website/))
