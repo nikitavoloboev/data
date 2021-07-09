@@ -92,3 +92,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Biodiversity decline will require millions of years to recover (2021)](https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/) ([HN](https://news.ycombinator.com/item?id=27277329))
 - [Animal Testing Is Exploitative and Largely Ineffective (2021)](https://www.erichgrunewald.com/posts/animal-testing-is-exploitative-and-largely-ineffective/) ([HN](https://news.ycombinator.com/item?id=27491498))
 - [The Kiffness - Alugalug Cat (International Symphonic Mashup)](https://www.youtube.com/watch?v=S61ENc51Z1Q)
+- [Petcube Bites](https://petcube.com/bites/) - HD Pet Treat Camera That Monitors And Dispenses Treats.

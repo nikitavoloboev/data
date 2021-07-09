@@ -385,3 +385,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [So You Want to Write a Book](https://ed2592press.com/author/)
 - [How to Write a Programming Book (2021)](https://cscalfani.medium.com/how-to-write-a-programming-book-76ab4f8a7071) ([HN](https://news.ycombinator.com/item?id=27537626))
 - [Setanta Books](https://www.setantabooks.com/) - Rare and Collectable Photography and Books.
+- [IndieBound.org](https://www.indiebound.org/) - Find your local indie bookstore.

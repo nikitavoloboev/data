@@ -21,3 +21,4 @@ In any way, these are just hypothesis and are quite hard to test and see if they
 - [The Simulation Hypothesis is Pseudoscience (2021)](https://www.youtube.com/watch?v=HCSqogSPU_Q) ([Reddit](https://www.reddit.com/r/Physics/comments/lkgtof/the_simulation_hypothesis_is_pseudoscience/))
 - [Harry Mack Freestyles About "Simulation Theory"](https://www.youtube.com/watch?v=mWqaoIW11yk)
 - [Simulation Save State (2021)](https://jeremykhawaja.com/post/simulation-save-state/)
+- [Simulation / Creation (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/ogfksv/simulation_creation/)

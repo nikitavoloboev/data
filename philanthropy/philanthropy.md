@@ -15,3 +15,4 @@ I also support [Archive.org](https://archive.org/donate/) & [Wikipedia](https://
 - [Kiva](https://www.kiva.org/) - Loans that change lives.
 - [Against Malaria](https://www.againstmalaria.com/default.aspx)
 - [GiveWell](https://www.givewell.org/) - Charity Reviews and Research.
+- [Deed](https://www.joindeed.com/) - Helping companies retain employees by doing good deeds.

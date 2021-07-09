@@ -78,3 +78,4 @@
 - [Towards richer colors on the Web (2021)](https://darker.ink/writings/Towards-richer-colors-on-the-Web) ([HN](https://news.ycombinator.com/item?id=27709788))
 - [Radix Colors](https://github.com/radix-ui/colors) - Gorgeous, accessible color system. ([Web](https://www.radix-ui.com/colors))
 - [Cone](https://cone.app/) - Live Color Picker.
+- [100 Mesh Gradients](https://www.meshgradients.design/) - Make your website beautiful with mesh gradients.

@@ -140,6 +140,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [‎Aqua Swatch](https://apps.apple.com/us/app/aqua-swatch/id1565479346?mt=12) - Match Color, Material & Icons.
 - [Screenotate](https://screenotate.com/) - Recognize text in your screenshots.
 - [Hera](https://hera.so/) - macOS app to prepare, join and take notes in meetings. ([HN](https://news.ycombinator.com/item?id=27771091))
+- [Mumu X](https://getmumu.com/) - Handy emoji picker on macOS, using GPT-3.
 
 ## Links
 

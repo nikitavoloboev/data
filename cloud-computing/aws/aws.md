@@ -118,7 +118,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Secure Environment Accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - Tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis.
 - [AWS Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops)
 - [Cachenator](https://github.com/adrianchifor/cachenator) - Distributed, sharded in-memory cache and proxy for S3.
-- [Digger](https://alpha.digger.dev/Digger-7f299819b6f2415fbe67b87a0e7ca97c) - CLI to set up container environments in AWS.
+- [Digger](https://digger.dev/) - Build on AWS without having to learn it, no-code DevOps. ([Beta](https://alpha.digger.dev/Digger-Beta-Quick-Start-7f299819b6f2415fbe67b87a0e7ca97c))
 - [Grafana dashboards for AWS CloudWatch](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards)
 - [7777](https://port7777.com/) - Your remote AWS database on your local port 7777. ([Docs](https://github.com/whilenull/7777-support))
 - [Learn AWS Blog](https://www.learnaws.org/)

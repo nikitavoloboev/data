@@ -102,3 +102,4 @@
 - [Reddit’s disrespectful design (2021)](https://ognjen.io/reddits-disrespectful-design/) ([HN](https://news.ycombinator.com/item?id=27641366))
 - [Tips for Better Signup / Login UX (2021)](https://learnui.design/blog/tips-signup-login-ux.html) ([HN](https://news.ycombinator.com/item?id=27655328))
 - [Some onboarding overviews/commentary](https://twitter.com/Spshulem/status/1410719940114468867)
+- [Swipe Convert](https://cogentgene1.gumroad.com/#WCKkj) - Increase conversions, signups and revenue.

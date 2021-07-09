@@ -2,6 +2,7 @@
 
 ## Nice pricing pages
 
+- [Fathom](https://app.usefathom.com/register)
 - [Monica](https://www.monicahq.com/pricing)
 - [Splitbee](https://splitbee.io/pricing)
 

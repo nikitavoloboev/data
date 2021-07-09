@@ -130,3 +130,4 @@
 - [Ask HN: Technical Summer Reading List (2021)](https://news.ycombinator.com/item?id=27628296)
 - [Ask HN: What Are You Learning? (2021)](https://news.ycombinator.com/item?id=27627381)
 - [Code House](https://codehouse.vercel.app/) - Store House of 300+ Developer Cheatsheets.
+- [Learners](https://learn.rs/) - Learn fast with peer to peer community mentoring.

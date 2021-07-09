@@ -94,3 +94,4 @@ Learning to build [startups](startups/startups.md).
 - [What happens in an IPO? – A beginner's guide (2021)](https://www.simplanations.in/p/ipo-1) ([HN](https://news.ycombinator.com/item?id=27538095))
 - [700+ $1B+ private companies in one chart (2021)](https://twitter.com/ekmokaya/status/1409007634246770689)
 - [Stripe Atlas: the first five years and 20k startups (2021)](https://stripe.com/blog/atlas-first-five-years) ([HN](https://news.ycombinator.com/item?id=27700804))
+- [Company of One: Why Staying Small Is the Next Big Thing for Business](https://www.indiebound.org/book/9780358213253)
