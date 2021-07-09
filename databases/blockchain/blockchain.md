@@ -172,3 +172,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Theta Blockchain Ledger Protocol](https://github.com/thetatoken/theta-protocol-ledger) - Proof-of-Stake decentralized ledger designed for the video streaming industry. ([Docs](https://docs.thetatoken.org/))
 - [Why 99% of cryptocurrencies centralize over time + a way to possibly fix this (2021)](https://www.reddit.com/r/CryptoTechnology/comments/odj8gu/why_99_of_cryptocurrencies_centralize_over_time_a/)
 - [Ask HN: How aware are you about building decentralised software on blockchain? (2021)](https://news.ycombinator.com/item?id=27750117)
+- [Explaining blockchains to developers (2021)](https://erickhun.com/posts/explaining-blockchains-to-developers/)

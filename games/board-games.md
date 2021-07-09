@@ -34,3 +34,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [Roleplayful](https://roleplayful.com/) - Find people to play tabletop roleplaying games with. ([HN](https://news.ycombinator.com/item?id=26647424))
 - [GamesRoom.io](https://gamesroom.io/) - Board games and video chat.
 - [VASSAL](http://www.vassalengine.org/) - Game engine for building and playing online adaptations of board games and card games. ([Code](https://github.com/vassalengine/vassal))
+- [How the ancient game of Go is a guide to modern life (2018)](https://www.youtube.com/watch?v=wQuh9YI8rn0)

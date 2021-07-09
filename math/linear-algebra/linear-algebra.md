@@ -47,3 +47,4 @@
 - [Printing algebraic numbers](https://fredrikj.net/blog/2021/03/printing-algebraic-numbers/)
 - [Tasty Bits of Several Complex Variables](https://www.jirka.org/scv/) ([Code](https://github.com/jirilebl/scv))
 - [A friendly introduction to linear algebra for ML (2021)](https://www.youtube.com/watch?v=LlKAna21fLE)
+- [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)

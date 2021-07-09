@@ -404,3 +404,4 @@
 - [Deckhouse Platform](https://github.com/deckhouse/deckhouse) - Operator which creates homogeneous Kubernetes clusters anywhere and fully manages them.
 - [Shell-operator](https://github.com/flant/shell-operator) - Tool for running event-driven scripts in a Kubernetes cluster.
 - [Kadalu Storage](https://kadalu.io/) - Lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background. ([Code](https://github.com/kadalu/kadalu))
+- [SuperEdge](https://superedge.io/) - Open-source container management system for edge computing. It extends native Kubernetes to the edge in a non-intrusive way. ([Code](https://github.com/superedge/superedge))

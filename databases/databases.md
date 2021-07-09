@@ -148,6 +148,7 @@
 - [UnQLite](https://github.com/symisc/unqlite) - Embedded NoSQL, Transactional Database Engine. ([Web](https://unqlite.org/))
 - [LinDB](https://github.com/lindb/lindb) - Scalable, high performance, high availability distributed time series database. ([Web](https://lindb.io/))
 - [TimeBase](https://github.com/epam/TimeBase) - High performance time series database. ([Web](https://timebase.info/))
+- [Greenplum Database](https://github.com/greenplum-db/gpdb) - Advanced, fully featured, open source data warehouse, based on PostgreSQL. ([Web](https://greenplum.org/))
 
 ## Tools
 

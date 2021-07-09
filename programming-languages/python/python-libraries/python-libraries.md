@@ -107,6 +107,7 @@
 - [Vinum](https://github.com/dmitrykoval/vinum) - SQL query processor for Python, designed for data analysis workflows and in-memory analytics.
 - [aiosqlite](https://github.com/omnilib/aiosqlite) - Friendly, async interface to sqlite databases.
 - [ORM](https://github.com/encode/orm) - Async ORM for Python, with support for Postgres, MySQL, and SQLite.
+- [ConnectorX](https://github.com/sfu-db/connector-x) - Enables you to load data from databases into Python in the fastest and most memory efficient way.
 
 ## GUI
 
@@ -373,7 +374,7 @@
 - [arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [Import Linter](https://github.com/seddonym/import-linter) - Allows you to define and enforce rules for the internal and external imports within your Python project.
 - [dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
-- [DataPrep](https://github.com/sfu-db/dataprep) - Lets you prepare your data using a single library with a few lines of code.
+- [DataPrep](https://github.com/sfu-db/dataprep) - Lets you prepare your data using a single library with a few lines of code. ([Web](https://dataprep.ai/))
 - [Reloadr](https://github.com/hoh/reloadr) - Hot code reloading tool for Python.
 - [SimFin](https://github.com/SimFin/simfin) - Simple financial data for Python. ([Web](https://simfin.com/))
 - [pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches.
@@ -458,3 +459,4 @@
 - [Python Packaging Authority](https://www.pypa.io/en/latest/) ([GitHub](https://github.com/pypa))
 - [Python Packages Project Generator](https://github.com/TezRomacH/python-package-template)
 - [The State of Python Packaging in 2021](https://venthur.de/2021-06-26-python-packaging.html) ([Lobsters](https://lobste.rs/s/tufsem/state_python_packaging_2021))
+- [Python 3 Module of the Week](https://pymotw.com/3/) - Articles written by Doug Hellmann to demonstrate how to use the modules of the Python 3 standard library.

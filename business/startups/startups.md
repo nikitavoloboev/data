@@ -293,6 +293,7 @@
 - [Advice on building efficient startups](https://twitter.com/landforce/status/1409923677387374592)
 - [Y Combinator's Co-Founder Matching](https://www.startupschool.org/cofounder-matching) ([HN](https://news.ycombinator.com/item?id=27750298))
 - [Lessons of a startup engineer (2021)](https://twolfson.com/2021-06-24-lessons-of-a-startup-engineer)
+- [Knowledge hub for super-early stage entrepreneurs](https://therainforest.xyz/)
 
 ## Images
 
