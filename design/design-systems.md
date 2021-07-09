@@ -127,3 +127,4 @@
 - [Microsoft Inclusive Design](https://www.microsoft.com/design/inclusive/)
 - [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - Deploy your storybook as a static site.
 - [Programming Design Systems Book](https://programmingdesignsystems.com/introduction/) ([Code](https://github.com/runemadsen/programmingdesignsystems.com))
+- [Design Systems List](https://github.com/saadeghi/design-systems) - List of famous design systems, design languages and guidelines.

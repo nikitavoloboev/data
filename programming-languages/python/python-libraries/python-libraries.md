@@ -457,3 +457,4 @@
 - [Python Wheel Standard](https://github.com/pypa/wheel)
 - [Python Packaging Authority](https://www.pypa.io/en/latest/) ([GitHub](https://github.com/pypa))
 - [Python Packages Project Generator](https://github.com/TezRomacH/python-package-template)
+- [The State of Python Packaging in 2021](https://venthur.de/2021-06-26-python-packaging.html) ([Lobsters](https://lobste.rs/s/tufsem/state_python_packaging_2021))

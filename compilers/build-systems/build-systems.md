@@ -53,7 +53,7 @@
 - [Cutting Build Time in Half with Docker’s Buildx Kubernetes Driver (2021)](https://releaseapp.io/blog/cutting-build-time-in-half-docker-buildx-kubernetes)
 - [Persistent Storage and Fast Remote Builds (2021)](https://fly.io/blog/persistent-storage-and-fast-remote-builds/)
 - [Robo](https://github.com/tj/robo) - Simple YAML-based task runner written in Go.
-- [Buck](https://github.com/facebook/buck) - Fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. ([Web](https://buck.build/))
+- [Buck](https://github.com/facebook/buck) - Fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. ([Web](https://buck.build/)) ([The future of Buck](https://developers.facebook.com/blog/post/2021/07/01/future-of-buck))
 - [Mage is My Favorite Make (2021)](https://carolynvanslyck.com/blog/2021/01/mage-is-my-favorite-make/) ([Lobsters](https://lobste.rs/s/zry6q1/mage_is_my_favorite_make))
 - [Kres](https://github.com/talos-systems/kres) - Tool to automate generation of build instructions based on project structure.
 - [You can handle The Diamond with CMake (2021)](http://beza1e1.tuxen.de/cmake_diamond.html) ([HN](https://news.ycombinator.com/item?id=26602450))

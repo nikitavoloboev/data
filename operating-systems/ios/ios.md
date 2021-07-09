@@ -77,6 +77,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Clendar](https://github.com/vinhnx/Clendar) - Universal calendar app. Written in SwiftUI.
 - [Pilcrow](https://github.com/zachwaugh/pilcrow) - Document editor for iOS.
 - [OldOS](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
+- [Home Assistant](https://github.com/home-assistant/iOS)
 
 ## Other
 
