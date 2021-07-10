@@ -11,3 +11,4 @@
 - [First Time Ketamine Tips (2021)](https://www.reddit.com/r/ketamine/comments/no92ru/doing_ket_for_the_first_time_today_any_tips/)
 - [I Was Paralyzed by Severe Depression. Then Came Ketamine (2021)](https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html) ([HN](https://news.ycombinator.com/item?id=27338596))
 - [Therapeutic Ketamine Reddit](https://www.reddit.com/r/TherapeuticKetamine/)
+- [Interview with a Ketamine Chemist](https://www.vice.com/en/article/ppzgk9/interview-with-ketamine-chemist-704-v18n2)

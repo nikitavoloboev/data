@@ -115,3 +115,5 @@
 - [Backbone Angels](https://www.backboneangels.com/)
 - [Software that makes fund closing process go smooth (2021)](https://twitter.com/matthewclifford/status/1408012167799099394)
 - [Tiny Acquisitions](https://tinyacquisitions.com/home) - Removing the friction from buying and selling small web based projects built by creators.
+- [The 23 Rules of Storytelling For Fundraising](https://www.nfx.com/post/23-rules-storytelling-fundraising/)
+- [Ask HN: Collection of Pitch Decks? (2021)](https://news.ycombinator.com/item?id=27782377)

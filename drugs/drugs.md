@@ -38,3 +38,5 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Drugs Reddit Wiki](https://www.reddit.com/r/Drugs/wiki/index)
 - [Drug Users Use a Lot of Drugs (2021)](https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs) ([HN](https://news.ycombinator.com/item?id=27451914))
 - [Open Targets Platform](https://platform.opentargets.org/) - Comprehensive tool that supports systematic identification and prioritisation of potential therapeutic drug targets. ([Code](https://github.com/opentargets/platform-app))
+- [From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs (2014)](https://hamiltonmorris.com/wp-content/uploads/2019/02/From-PCP-to-MXE-a-comprehensive-review-of-the-non-medical-use-of-dissociative-drugs.pdf)
+- [Hamilton Morris and Jason Wallach | Arylcyclohexylamines (2015)](https://www.youtube.com/watch?v=Ag4xxiPan1E)
