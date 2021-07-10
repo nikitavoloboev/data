@@ -18,3 +18,4 @@ Prefer to use Google Domains over everything. I like to subdomain over my person
 - [TLD List](https://tld-list.com/) - Compare Prices of All Top-Level Domains.
 - [Public Suffix List](https://publicsuffix.org/) - Public suffix is one under which Internet users can (or historically could) directly register names. ([Code](https://github.com/publicsuffix/list))
 - [I bought 300 emoji domain names from Kazakhstan and built an email service (2021)](https://tinyprojects.dev/projects/mailoji) ([HN](https://news.ycombinator.com/item?id=26422799))
+- [How to secure SaaS custom domain names (2021)](https://blog.brandssl.io/how-to-secure-saas-custom-domain-names)

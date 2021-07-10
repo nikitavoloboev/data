@@ -21,3 +21,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [How I Wrote True Detective](https://www.youtube.com/watch?v=2hPn-23N8q4)
 - [Lessons from the Screenplay - YouTube](https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw)
 - [Why Mass Effect Should Be the Next Game of Thrones (2021)](https://www.youtube.com/watch?v=-elPKyfpJrM)
+- [Rating Graph](https://www.ratingraph.com/) - Find your next binge-watch.

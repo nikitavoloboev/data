@@ -45,3 +45,4 @@
 - [Pregnancy cheat sheet - having a smart baby (2021)](https://www.reddit.com/r/Nootropics/comments/obhb46/pregnancy_cheat_sheet_hacks_for_having_a_smart/)
 - [Make a simple web page with your kids](https://github.com/jackdoe/detective)
 - [Programming for Kids Book](https://github.com/jackdoe/programming-for-kids) ([Code](https://github.com/jackdoe/detective))
+- [Ask HN: Do you regret having children?](https://news.ycombinator.com/item?id=27795186)

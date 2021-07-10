@@ -53,3 +53,4 @@
 - [Code in ARM Assembly: Working with pointers (2021)](https://eclecticlight.co/2021/06/21/code-in-arm-assembly-working-with-pointers/)
 - [Writing ARM64 Code for Apple Platforms](https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms) ([HN](https://news.ycombinator.com/item?id=27616018))
 - [Code in ARM Assembly: Conditional Loops (2021)](https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/)
+- [Programming with 64-Bit ARM Assembly Language (2020)](https://www.apress.com/de/book/9781484258804) ([Code](https://github.com/below/HelloSilicon))
