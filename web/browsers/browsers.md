@@ -130,3 +130,4 @@
 - [Why mimicking a device is becoming almost impossible (2021)](https://multilogin.com/why-mimicking-a-device-is-almost-impossible/) ([HN](https://news.ycombinator.com/item?id=27648719))
 - [browsersync](https://github.com/schollz/browsersync) - Simple live-reloading tool for developing HTML.
 - [WSCapture](https://github.com/depp/wscapture) - Capture Video from Browser over Web Sockets.
+- [Web browser specifications](https://github.com/w3c/browser-specs) - Machine-readable list of specifications used to build Web browsers.

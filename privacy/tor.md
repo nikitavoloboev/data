@@ -22,3 +22,4 @@
 - [Paper review: Statistical and Combinatorial Analysis of the TOR Routing Protocol (2021)](https://dustri.org/b/paper-review-statistical-and-combinatorial-analysis-of-the-tor-routing-protocol.html)
 - [Public TOR IPv6 Only Gateway (2021)](https://blog.shamm.as/posts/2021-01-18-public_tor_ipv6_gateway/)
 - [Bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers.
+- [Arti](https://gitlab.torproject.org/tpo/core/arti/) - Pure-Rust Tor implementation. ([Article](https://blog.torproject.org/announcing-arti)) ([Reddit](https://www.reddit.com/r/programming/comments/ogw5o7/the_tor_project_announces_arti_a_tor/))

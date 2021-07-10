@@ -71,3 +71,4 @@
 - [Memfault](https://memfault.com/) - End-to-end observability for your connected devices.
 - [Nordic Semiconductor](https://www.nordicsemi.com/)
 - [Building a DIY Smart Doorbell (2021)](https://buzzert.net/posts/2021-05-09-doorbell) ([HN](https://news.ycombinator.com/item?id=27669924))
+- [IoT for Beginners - A Curriculum](https://github.com/microsoft/IoT-For-Beginners)

@@ -157,6 +157,7 @@
 - [jwt](https://github.com/dgrijalva/jwt-go) - Go implementation of JSON Web Tokens (JWT).
 - [carbonapi](https://github.com/go-graphite/carbonapi) - Implementation of graphite API (graphite-web) in Go.
 - [fast-graphql](https://github.com/karminski/fast-graphql) - Experimental GraphQL implementation with Go. This repo focuses on improve GraphQL Parse and Resolve speed to a new level.
+- [health-go](https://github.com/hellofresh/health-go) - Library to provide basic healthcheck functionality to Go applications.
 
 ## GraphQL
 
