@@ -80,3 +80,4 @@
 - [Cone](https://cone.app/) - Live Color Picker.
 - [100 Mesh Gradients](https://www.meshgradients.design/) - Make your website beautiful with mesh gradients.
 - [Using HSL Colors In CSS (2021)](https://www.smashingmagazine.com/2021/07/hsl-colors-css/)
+- [How to make nice gradients in CSS](https://twitter.com/notwaldorf/status/1407102532992655361)

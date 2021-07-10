@@ -57,3 +57,4 @@
 - [Peter Roberts, immigration attorney who does work for YC startups. AMA (2021)](https://news.ycombinator.com/item?id=27560781)
 - [Creating Data](http://creatingdata.us/) - Digital monograph-in-progress by Ben Schmidt about the data collected by the US government in the 19th century.
 - [Why is life expectancy in the US lower than in other rich countries? (2020)](https://ourworldindata.org/us-life-expectancy-low) ([Tweet](https://twitter.com/SamHarrisOrg/status/1408214964221792260?s=20))
+- [Fastest growing towns in America](https://boomtowns.app/)

@@ -65,6 +65,7 @@
 - [BASIC](https://www.basicagency.com/) - Digital Branding & Experience Design Agency.
 - [Rejiggle](https://rejiggle.co/) - Conversion-Focused Design.
 - [Hactar](https://hactar.is/) - Product and service design for social good.
+- [Heartbeat Agency](https://heartbeat.ua/) - UI/UX for mobile and web apps in fintech.
 
 ## DB
 

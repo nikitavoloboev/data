@@ -725,6 +725,11 @@ Here are few more things I liked, design wise.
 
 - [Braun Audio](https://www.braun-audio.com/)
 
+## Mockups
+
+- [fin tech landing page](https://dribbble.com/shots/15813183-fintech-landing-page) ([Tweet](https://twitter.com/notwaldorf/status/1407102532992655361))
+- [online banking landing page](https://dribbble.com/shots/15947672-online-banking-home-page)
+
 ## Other
 
 - [Monzo docs](https://monzo.com/docs/#authentication) - Love the look of it.
