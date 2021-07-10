@@ -57,3 +57,5 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Feeling Stuck in Life // Life Advice (2021)](https://www.youtube.com/watch?v=xIk9MXY3-60)
 - [Feeling stuck in your 20's (2021)](https://www.youtube.com/watch?v=BAMH3vJeog8)
 - [Ask HN: Words of encouragement for someone lost in life? (2021)](https://news.ycombinator.com/item?id=27637759)
+- [Emergence@ASU](http://emergence.asu.edu/) - Research origins of life.
+- [Sara Walker: The Origin of Life on Earth and Alien Worlds (2021)](https://overcast.fm/+eZyA9HPhU)

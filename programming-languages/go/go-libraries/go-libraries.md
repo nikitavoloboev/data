@@ -66,6 +66,7 @@
 - [Ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go.
 - [GoConvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 - [Godog](https://github.com/cucumber/godog) - Cucumber BDD framework for Go.
+- [testlog](https://github.com/rvolosatovs/testlog) - Print debugging, but a little bit nicer.
 
 ## Web
 

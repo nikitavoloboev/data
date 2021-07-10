@@ -15,3 +15,4 @@
 - [How do you guys resist temptations? (2021)](https://www.reddit.com/r/researchchemicals/comments/m5hh8g/how_do_you_guys_resist_temptations/)
 - [Ask HN: Mobile phone addiction help? (2021)](https://news.ycombinator.com/item?id=27017776)
 - [On Smoking (2021)](https://annagat.substack.com/p/on-smoking) ([HN](https://news.ycombinator.com/item?id=27347035))
+- [Difference between "real" addictions (alcohol, gambling) and "fake" addictions (chocolate, browsing social media)](https://www.reddit.com/r/NoStupidQuestions/comments/ohi98j/what_is_the_difference_between_real_addictions/)

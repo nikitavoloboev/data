@@ -68,6 +68,6 @@
 - [Why We Moved From Lambda to ECS (2021)](https://prismatic.io/blog/why-we-moved-from-lambda-to-ecs/)
 - [AWS Lambda performance optimization (2021)](https://betterdev.blog/aws-lambda-performance-optimization/)
 - [Llama](https://github.com/nelhage/llama) - CLI for outsourcing computation to Amazon Lambda.
-- [Behind the scenes, AWS Lambda](https://www.bschaatsbergen.com/behind-the-scenes-lambda)
+- [AWS Lambda Behind the Scenes](https://www.bschaatsbergen.com/behind-the-scenes-lambda) ([HN](https://news.ycombinator.com/item?id=27792951))
 - [Lambda-local](https://github.com/ashiina/lambda-local) - Lets you test NodeJS Amazon Lambda functions on your local machine, by providing a simplistic API and command-line tool.
 - [Modern Cloud](https://www.moderncloud.io/) - Browser-based serverless platform that lets developers build functions and endpoints in minutes. ([Code](https://github.com/ModernCloud/moderncloud))
