@@ -88,3 +88,4 @@
 - [Cowlib](https://github.com/ninenines/cowlib) - Support library for manipulating Web protocols.
 - [Erlang Enhancement Process](https://github.com/erlang/eep) ([Web](https://www.erlang.org/erlang-enhancement-proposals/))
 - [Beam Community](https://beam-community.org/) ([GitHub](https://github.com/beam-community))
+- [Concuerror](https://concuerror.com/) - Stateless model checking tool for Erlang programs.

@@ -210,3 +210,4 @@
 - [The magic of react-query and supabase (2021)](https://dev.to/ankitjey/the-magic-of-react-query-and-supabase-1pom) ([Reddit](https://www.reddit.com/r/reactjs/comments/oa0hm4/wrote_a_piece_on_server_state_management_in_react/))
 - [Preact for Next (2021)](https://www.ebey.me/blog/preact-for-next)
 - [next-remote-refresh](https://github.com/souporserious/next-remote-refresh) - Enable Fast Refresh for remote data in NextJS.
+- [How I Built My Site with Next.js (2021)](https://www.delbaoliveira.com/blog/how-i-built-my-website-with-nextjs)
