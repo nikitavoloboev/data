@@ -12,3 +12,4 @@
 - [Charles Darwin’s Descent of Man, 150 Years Later (2021)](https://daily.jstor.org/charles-darwins-descent-of-man-150-years-later/)
 - [Practical Evolutionary Algorithms](https://datacrayon.com/shop/product/practical-evolutionary-algorithms-book/)
 - [What Made Early Humans Smart (2021)](https://nautil.us/issue/102/hidden-truths/what-made-early-humans-smart) ([HN](https://news.ycombinator.com/item?id=27720885))
+- [Learning to Fly: Let's simulate evolution in Rust](https://pwy.io/en/posts/learning-to-fly-pt1/) ([Code](https://github.com/Patryk27/shorelark))

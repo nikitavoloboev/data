@@ -12,3 +12,4 @@
 - [I Was Paralyzed by Severe Depression. Then Came Ketamine (2021)](https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html) ([HN](https://news.ycombinator.com/item?id=27338596))
 - [Therapeutic Ketamine Reddit](https://www.reddit.com/r/TherapeuticKetamine/)
 - [Interview with a Ketamine Chemist](https://www.vice.com/en/article/ppzgk9/interview-with-ketamine-chemist-704-v18n2)
+- [What, if any, are the long term effects of low dose ketamine use neurologically?](https://www.reddit.com/r/AskDrugNerds/comments/of8s7z/what_if_any_are_the_long_term_effects_of_low_dose/)
