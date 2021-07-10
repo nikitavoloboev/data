@@ -67,3 +67,4 @@
 - [Elm at NoRedInk (2021)](https://juliu.is/elm-at-noredink/)
 - [Elm UI Book](https://github.com/dtwrks/elm-ui-book) - Book that tells the story of the UI elements of your Elm application.
 - [Tail-call optimization in Elm (2021)](https://jfmengels.net/tail-call-optimization/)
+- [Measuring cognitive complexity with elm-review (2021)](https://jfmengels.net/cognitive-complexity/)

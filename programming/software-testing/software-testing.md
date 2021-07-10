@@ -94,3 +94,4 @@
 - [On the Diverse And Fantastical Shapes of Testing (2021)](https://martinfowler.com/articles/2021-test-shapes.html) ([Tweet](https://twitter.com/samnewman/status/1400426270803042305))
 - [TDD from the Factorio Team (2021)](https://factorio.com/blog/post/fff-366) ([HN](https://news.ycombinator.com/item?id=27549143))
 - [AtomicJar](https://www.atomicjar.com/) - Make integration testing easier for developers across the software development lifecycle.
+- [Rethinking Software Testing: Perspectives from the world of Hardware (2019)](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/) ([Lobsters](https://lobste.rs/s/ogt990/rethinking_software_testing))

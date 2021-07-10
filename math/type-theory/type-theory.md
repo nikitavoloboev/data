@@ -135,3 +135,4 @@
 - [Counterexamples in Type Systems](http://counterexamples.org/) ([Code](https://github.com/stedolan/counterexamples)) ([HN](https://news.ycombinator.com/item?id=27252899))
 - [Introduction to Type Systems](https://splintah.github.io/series/Introduction%20to%20Type%20Systems.html)
 - [System F Playground](http://jamesrwilcox.com/f/)
+- [Building Blocks of the Sasquach Type System (2021)](https://blog.pentlander.com/building-blocks-sasquach-type-system/)
