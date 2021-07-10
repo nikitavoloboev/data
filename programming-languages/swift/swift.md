@@ -220,3 +220,4 @@
 - [Chris Lattner on Swift concurrency, language and API design, etc. (2021)](https://www.swiftbysundell.com/podcast/100/)
 - [5 Complex Algorithms Simplified Using Swift's Higher-Order Functions (2021)](https://swiftsenpai.com/swift/5-complex-algorithms-simplified/)
 - [Swift concurrency: Behind the scenes (2021)](https://www.wwdcnotes.com/notes/wwdc21/10254/)
+- [Create a generic networking layer using async/await (2021)](https://medium.com/geekculture/create-a-generic-networking-layer-using-async-await-9168b6281721)
