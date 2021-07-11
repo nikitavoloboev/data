@@ -251,3 +251,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [mStable](https://mstable.org/) - Autonomous and non-custodial stablecoin infrastructure. ([Code](https://github.com/mstable/mStable-contracts))
 - [Full stack app built with The Graph, Next.js, Zora, and Tailwind CSS](https://github.com/dabit3/zora-nextjs-app) ([Video](https://www.youtube.com/watch?v=JpOLhkmtOak))
 - [DeversiFi](https://www.deversifi.com/) - Decentralized Ethereum Exchange.
+- [send-tx](https://github.com/talentlessguy/send-tx) - Sign & send Ethereum transactions with ease.

@@ -111,3 +111,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [My Return to Competitive Chess | National Open Round 1 (2021)](https://www.youtube.com/watch?v=sMY3E8qLsno)
 - [The Perpetual Chess Podcast](https://www.perpetualchesspod.com/)
 - [daochess](https://daochess.org/) - Testing governance mechanisms via chess.
+- [Chessgames.com](https://www.chessgames.com/index.html) - Chess Games Database & Community.

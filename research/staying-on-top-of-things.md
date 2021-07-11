@@ -198,3 +198,4 @@ And these Discord servers:
 - [Ask HN: What other news sources do you use? (2021)](https://news.ycombinator.com/item?id=26794248)
 - [HN: Second-Chance Pool](https://news.ycombinator.com/pool) - Way to give links a second chance at the front page. ([HN](https://news.ycombinator.com/item?id=26998308))
 - [How Trends.co stays up to date on things (2021)](https://twitter.com/stephsmithio/status/1395123474876801031)
+- [Ask HN: Hacker News like forums for other niches? (2021)](https://news.ycombinator.com/item?id=27802233)

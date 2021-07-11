@@ -44,3 +44,4 @@
 - [Models.com](https://models.com/) - Top model rankings, modeling, fashion and creative industry news.
 - [Tens Sunglasses](https://tens.co/) - Filter Your World.
 - [Barking Store](https://barkingstore.ru/) - Актуальный мерч с животными. ([Twitter](https://twitter.com/50pets))
+- [Intimissimi](https://www.intimissimi.com/) - Lingerie and Underwear.
