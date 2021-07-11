@@ -432,6 +432,7 @@
 - [Jellyfish](https://github.com/jamesturk/jellyfish) - Python library for doing approximate and phonetic matching of strings.
 - [CAC](https://github.com/shivin9/CAC) - Clustering Based Classification Algorithm.
 - [Lhotse](https://github.com/lhotse-speech/lhotse) - Python library aiming to make speech and audio data preparation flexible and accessible to a wider community.
+- [scikit-network](https://github.com/sknetwork-team/scikit-network) - Python package for the analysis of large graphs.
 
 ## Links
 
