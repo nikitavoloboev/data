@@ -14,6 +14,7 @@
 - [Cresco Labs](https://www.crescolabs.com/) - Medical marijuana company.
 - [Tilray](https://www.tilray.com/) - Canadian pharmaceutical and cannabis company.
 - [Backrolling For Beginners](https://www.youtube.com/watch?v=bqZ9Fo1FI-k) ([Example](https://www.reddit.com/r/AmsterdamEnts/comments/lzydu6/coffeeshop_carmona_s5_haze_rolled_insideout_pure/))
+- [Are there massive differences between the different strains of cannabis? (2021)](https://www.reddit.com/r/askdrugs/comments/oiacwe/are_there_massive_differences_between_the/)
 
 ## Images
 

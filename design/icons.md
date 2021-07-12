@@ -88,3 +88,4 @@
 - [Styled Icons](https://styled-icons.js.org/) - Styled Components icon library. ([Code](https://github.com/styled-icons/styled-icons))
 - [Health Icons](https://healthicons.org/)
 - [Awesome Web Icons](https://github.com/vkarampinis/awesome-icons)
+- [ios-symbols](https://github.com/bouchenoiremarc/ios-symbols) - Collection of every symbol from SF Symbols.

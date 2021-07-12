@@ -33,3 +33,4 @@
 - [Using Argo to Train Predictive Models (2021)](https://flightaware.engineering/using-argo-to-train-predictive-models/) ([HN](https://news.ycombinator.com/item?id=27464445))
 - [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. ([Docs](https://www.scikit-yb.org/en/latest/))
 - [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
+- [Tuning Model Performance (2021)](https://eng.uber.com/tuning-model-performance/)

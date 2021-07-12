@@ -151,6 +151,10 @@
 
 - [Set up OCaml](https://github.com/ocaml/setup-ocaml) - Set up an OCaml and opam environment and add to PATH.
 
+## C++
+
+- [run-cmake](https://github.com/lukka/run-cmake) - GitHub Action to build C++ applications with CMake.
+
 ## Docker
 
 - [build-push-action](https://github.com/docker/build-push-action) - Builds and pushes Docker images and will log in to a Docker registry if required.

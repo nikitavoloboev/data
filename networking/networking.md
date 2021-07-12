@@ -267,3 +267,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - Allows you to study network traffic of a few popular protocols in a simple way.
 - [HomeNetworking Reddit](https://www.reddit.com/r/HomeNetworking/)
 - [i2pd](https://github.com/PurpleI2P/i2pd) - End-to-End encrypted and anonymous Internet. ([Web](https://i2pd.website/))
+- [Cheat Sheet on Curl Latency Metrics: how to benchmark server latency with curl](https://speedtestdemon.com/a-guide-to-curls-performance-metrics-how-to-analyze-a-speed-test-result/)

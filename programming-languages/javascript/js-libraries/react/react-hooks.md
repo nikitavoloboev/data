@@ -103,6 +103,7 @@
 - [React Solid State](https://github.com/solidjs/react-solid-state) - Local state swap for React using SolidJS.
 - [React Facade](https://github.com/garbles/react-facade) - Dependency injection for React hooks.
 - [useCookieConsent](https://github.com/bring-shrubbery/use-cookie-consent) - React hook for managing GDPR cookie consent state.
+- [use-referee](https://github.com/bouchenoiremarc/use-referee) - Collection of ref-related hooks.
 
 ## Notes
 

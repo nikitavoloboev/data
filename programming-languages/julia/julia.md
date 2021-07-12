@@ -81,3 +81,4 @@
 - [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia.
 - [Blue: Style Guide for Julia](https://github.com/invenia/BlueStyle)
 - [Is Julia Really Fast? (2021)](https://medium.com/codex/is-julia-really-fast-12cd7caef96b) ([HN](https://news.ycombinator.com/item?id=27570591))
+- [Julia and the Reincarnation of Lisp (2020)](https://arnuldondata.medium.com/julia-and-the-reincarnation-of-lisp-f60cacd5822c) ([HN](https://news.ycombinator.com/item?id=27805059))
