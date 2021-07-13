@@ -78,3 +78,4 @@
 - [Finding the Median of 2 Sorted Arrays in Logarithmic Time (2019)](https://medium.com/@hazemu/finding-the-median-of-2-sorted-arrays-in-logarithmic-time-1d3f2ecbeb46)
 - [What is a Merkle Tree? (2020)](https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
 - [Bloom Filters - Much, much more than a space efficient hashmap! (2020)](https://boyter.org/posts/bloom-filter/)
+- [Ribbon filter: practically smaller than Bloom and Xor (2021)](https://arxiv.org/abs/2103.02515) ([Article](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/))

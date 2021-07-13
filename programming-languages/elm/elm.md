@@ -8,7 +8,7 @@
 - [Elm DevTools](https://github.com/opvasger/elm-devtools) - Tools for developing Elm programs.
 - [elm-language-server](https://github.com/elm-tooling/elm-language-server) - Language server implementation for Elm.
 - [ElmLS](https://github.com/elm-tooling/elm-language-client-vscode) - Bringing lightning fast Elm code analysis to vscode.
-- [elm-in-elm](https://github.com/elm-in-elm/compiler) - Elm compiler written in Elm.
+- [Elm Compiler Written in Elm](https://github.com/elm-in-elm/compiler) ([HN](https://news.ycombinator.com/item?id=27808306))
 - [Single Page Application written in Elm](https://github.com/rtfeldman/elm-spa-example)
 - [Elm Puzzler](https://github.com/jwbrew/elm-puzzler) - Framework for creating puzzles & solutions written in Elm, to help newcomers learn the language and then move on to building their own puzzles.
 - [Awesome Elm](https://github.com/sporto/awesome-elm)

@@ -86,3 +86,4 @@
 - [3D Printing with a Robot Arm (2021)](https://www.youtube.com/watch?v=dqgT--f9so0)
 - [The Importance of A/B Testing in Robotics (2021)](https://ai.googleblog.com/2021/06/the-importance-of-ab-testing-in-robotics.html)
 - [BOLeRo](https://github.com/rock-learning/bolero) - Behavior Optimization and Learning for Robots.
+- [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/) ([HN](https://news.ycombinator.com/item?id=27817110))

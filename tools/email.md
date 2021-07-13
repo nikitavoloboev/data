@@ -162,3 +162,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Dada Mail](https://github.com/justingit/dada-mail) - Contemporary, mature and intuitive web-based e-mail list management system.
 - [Security and insecurity of e-mail (2020)](https://foxcpp.dev/articles/security-and-insecurity-of-email)
 - [Go SMPP](https://github.com/fiorix/go-smpp) - SMPP 3.4 Protocol for Go.
+- [maildog](https://github.com/edmundhung/maildog) - Hosting email forwarding service on AWS with GitHub Actions. ([HN](https://news.ycombinator.com/item?id=27819814))

@@ -23,3 +23,4 @@
 - [Voik](https://github.com/marceloboeira/voik) - Experimental distributed streaming platform.
 - [Internal consistency in streaming systems (2021)](https://scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/)
 - [Are We There Yet? The Query Your Database Can't Answer (2021)](https://www.confluent.io/blog/ksqldb-streaming-sql-the-query-your-database-cant-answer/)
+- [Apache Heron](https://heron.incubator.apache.org/) - Real time, distributed, fault-tolerant stream processing engine. ([Code](https://github.com/apache/incubator-heron))
