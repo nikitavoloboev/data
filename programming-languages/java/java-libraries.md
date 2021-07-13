@@ -22,6 +22,7 @@
 - [Lombok](https://github.com/rzwitserloot/lombok) - Java library that automatically plugs into your editor and build tools, spicing up your java.
 - [Byte Buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine. ([Web](https://bytebuddy.net/#/))
 - [Quarkus](https://github.com/quarkusio/quarkus) - Cloud Native, (Linux) Container First framework for writing Java applications. ([Web](https://quarkus.io/))
+- [HikariCP](https://github.com/brettwooldridge/HikariCP) - Fast, simple, reliable. HikariCP is a "zero-overhead" production ready JDBC connection pool.
 
 ## Links
 

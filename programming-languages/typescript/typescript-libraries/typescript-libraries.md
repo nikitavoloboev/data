@@ -6,6 +6,7 @@
 - [atdatabases](https://github.com/ForbesLindesay/atdatabases) - TypeScript clients for databases that prevent SQL Injection. ([Web](https://www.atdatabases.org/))
 - [Mammoth](https://github.com/Ff00ff/mammoth) - Type-safe Postgres query builder for TypeScript.
 - [Schemats](https://github.com/vramework/schemats) - Postgres to TypeScript Interfaces and Enums. ([HN](https://news.ycombinator.com/item?id=27570058))
+- [sql-dsl](https://github.com/aldy505/sql-dsl) - SQL DSL for your Node App.
 
 ## Web
 

@@ -173,3 +173,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Why 99% of cryptocurrencies centralize over time + a way to possibly fix this (2021)](https://www.reddit.com/r/CryptoTechnology/comments/odj8gu/why_99_of_cryptocurrencies_centralize_over_time_a/)
 - [Ask HN: How aware are you about building decentralised software on blockchain? (2021)](https://news.ycombinator.com/item?id=27750117)
 - [Explaining blockchains to developers (2021)](https://erickhun.com/posts/explaining-blockchains-to-developers/)
+- [Crypto.org Chain](https://crypto.org/) - Blockchain application built using Cosmos SDK and Tendermint. ([Code](https://github.com/crypto-org-chain/chain-main))
