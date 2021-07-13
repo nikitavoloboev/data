@@ -161,6 +161,7 @@
 - [fast-graphql](https://github.com/karminski/fast-graphql) - Experimental GraphQL implementation with Go. This repo focuses on improve GraphQL Parse and Resolve speed to a new level.
 - [health-go](https://github.com/hellofresh/health-go) - Library to provide basic healthcheck functionality to Go applications.
 - [Kratos](https://github.com/go-kratos/kratos) - Go framework for microservices.
+- [cap](https://github.com/hashicorp/cap) - Collection of authentication Go packages related to OIDC, JWKs and Distributed Claims.
 
 ## GraphQL
 
