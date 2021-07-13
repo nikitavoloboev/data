@@ -107,3 +107,4 @@
 - [Image unshredding using a TSP solver](https://github.com/robinhouston/image-unshredding) ([HN](https://news.ycombinator.com/item?id=27713441))
 - [How to identify blurry images (2020)](https://rbaron.net/blog/2020/02/16/How-to-identify-blurry-images.html)
 - [Removal.ai](https://removal.ai/) - Remove Image Background.
+- [Albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries.

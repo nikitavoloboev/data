@@ -41,7 +41,7 @@
 - [We built network isolation for 1,500 services to make Monzo more secure (2019)](https://monzo.com/blog/we-built-network-isolation-for-1-500-services) ([HN](https://news.ycombinator.com/item?id=21452643)) ([HN 2](https://news.ycombinator.com/item?id=22725989))
 - [Flagr](https://github.com/checkr/flagr) - Feature flagging, A/B testing and dynamic configuration microservice.
 - [Lagom](https://github.com/lagom/lagom) - Reactive Microservices for the JVM.
-- [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - Lightweight, open source API Gateway and Management Platform enables you to control who accesses your API, when they access it and how they access it.
+- [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - Open source Enterprise API Gateway, supporting REST, GraphQL, TCP and gRPC protocols. ([Web](https://tyk.io/)) ([GitHub](https://github.com/TykTechnologies)) ([Docs](https://tyk.io/docs/))
 - [Why Segment Went Back to a Monolith (2020)](https://www.infoq.com/news/2020/04/microservices-back-again/) ([HN](https://news.ycombinator.com/item?id=23017160))
 - [NATS - Go Client](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 - [Deleting data distributed throughout your microservices architecture (2020)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) ([HN](https://news.ycombinator.com/item?id=23078994))

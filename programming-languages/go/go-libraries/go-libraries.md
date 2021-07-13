@@ -40,6 +40,7 @@
 - [yacspin](https://github.com/theckman/yacspin) - CLI Spinner Go library.
 - [ASCII Table Writer](https://github.com/olekukonko/tablewriter)
 - [argparse](https://github.com/akamensky/argparse) - Argparse for Go. Just because `flag` sucks.
+- [goterm](https://github.com/buger/goterm) - Advanced terminal output in Go.
 
 ## Test
 
@@ -872,6 +873,7 @@
 - [bitmap](https://github.com/kelindar/bitmap) - SIMD-Vectorized Bitmap (Bitset) in Go.
 - [tinylru](https://github.com/tidwall/tinylru) - Fast little LRU cache.
 - [Go Rules Engine](https://github.com/nikunjy/rules) - Helpful in situations where you have a generic rule and want to verify if your values (specified using `map[string]interface{}`) satisfy the rule.
+- [jsonparser](https://github.com/buger/jsonparser) - Alternative JSON parser for Go (10x times faster standard library).
 
 ## Links
 
