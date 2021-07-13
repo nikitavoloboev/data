@@ -69,3 +69,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [How to navigate directories faster with bash (2015)](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html) ([HN](https://news.ycombinator.com/item?id=26899531))
 - [Your `~/.bashrc` doesn't have to be a mess (2021)](https://write.as/bpsylevc6lliaspe) ([Lobsters](https://lobste.rs/s/r1tpld/your_bashrc_doesn_t_have_be_mess))
 - [Bash Function Names Can Be Almost Anything (2021)](https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/) ([HN](https://news.ycombinator.com/item?id=27726699))
+- [Writing a Bash Builtin in C to Parse INI Configs (2021)](https://mbuki-mvuki.org/posts/2021-07-12-writing-a-bash-builtin-in-c-to-parse-ini-configs/) ([Lobsters](https://lobste.rs/s/6wjuk4/writing_bash_builtin_c_parse_ini_configs))

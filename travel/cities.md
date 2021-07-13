@@ -26,3 +26,4 @@
 - [Microcities (2021)](https://www.interfluidity.com/v2/8772.html) ([Tweet](https://twitter.com/patrickc/status/1408795583213568004))
 - [Cities Are Not Loud: Cars Are Loud (2021)](https://www.youtube.com/watch?v=CTV-wwszGw8) ([HN](https://news.ycombinator.com/item?id=27670251))
 - [How to build a small town in Texas (2021)](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas) ([HN](https://news.ycombinator.com/item?id=27751498))
+- [Books on urban planning (2021)](https://www.reddit.com/r/suggestmeabook/comments/oj7f0w/weird_request_any_good_recent_books_about_urban/)

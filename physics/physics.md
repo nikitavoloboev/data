@@ -221,3 +221,4 @@
 - [When did you realize you weren’t going to be an outstanding physicist. (2021)](https://www.reddit.com/r/Physics/comments/nqdhco/when_did_you_realize_you_werent_going_to_be_an/)
 - [Does gravity bend gravity?](https://physics.stackexchange.com/questions/643765/does-gravity-bend-gravity)
 - [Nanoscale and Quantum Photonics Lab](https://nqp.stanford.edu/)
+- [Are the number of atoms in the universe fixed? (2021)](https://www.reddit.com/r/AskPhysics/comments/oj92rg/are_the_number_of_atoms_in_the_universe_fixed/)

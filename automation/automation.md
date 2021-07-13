@@ -28,6 +28,7 @@
 - [The Full Automation Fallacy (2020)](https://futuresofwork.co.uk/2020/12/02/the-full-automation-fallacy/) ([HN](https://news.ycombinator.com/item?id=26053760))
 - [What is a seemingly basic task that, when automated, will actually be a huge milestone? (2021)](https://www.reddit.com/r/Automate/comments/nugo1q/what_is_a_seemingly_basic_task_that_when/)
 - [Reflective](https://reflective.co/) - Automate without losing the human touch.
+- [Inside Arrival's Revolutionary Microfactory (2021)](https://www.youtube.com/watch?v=mZCrd704g20)
 
 ## Images
 

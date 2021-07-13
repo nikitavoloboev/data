@@ -104,6 +104,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Aquila OS](https://github.com/thethumbler/Aquila) - Complete Operating System (kernel + system) that is designed to be POSIX compliant and mostly ISA transparent. ([Web](https://aquilaos.com/))
 - [FuzixOS](https://github.com/EtchedPixels/FUZIX) - Because Small Is Beautiful.
 - [Mongoose](https://hg.sr.ht/~icefox/mongoose/) - Small toy OS with no memory protection. ([Lobsters](https://lobste.rs/s/4kv3qc/mongoose_small_toy_os_with_no_memory))
+- [Node Replicated Kernel](https://github.com/vmware-labs/node-replicated-kernel) - Research OS kernel for x86-64 (amd64) machines written in rust. ([Web](https://nrkernel.systems/)) ([Book](https://nrkernel.systems/book/))
 
 ## Notes
 
