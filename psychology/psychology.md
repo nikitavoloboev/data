@@ -26,3 +26,4 @@
 - [The Methods of Rationality Podcast](https://hpmorpodcast.com/)
 - [How to Think about Pleasure (2021)](https://psyche.co/guides/from-hedonism-to-humanism-philosophys-defence-of-pleasure) ([HN](https://news.ycombinator.com/item?id=27577615))
 - [Reversals in psychology (2020)](https://www.gleech.org/psych)
+- [Lee Ross and the “Fundamental Attribution Error”](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b) ([HN](https://news.ycombinator.com/item?id=27815850))

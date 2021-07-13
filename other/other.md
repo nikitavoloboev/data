@@ -503,3 +503,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media) - Curated list of resources that provide media licensed under Creative Commons licenses.
 - [PAGNIs: Probably Are Gonna Need Its (2021)](https://simonwillison.net/2021/Jul/1/pagnis/) ([HN](https://news.ycombinator.com/item?id=27703299))
 - [Meetdown](https://meetdown.app/) - Place to join groups of people with shared interests. ([Code](https://github.com/MartinSStewart/meetdown))
+- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/) ([HN](https://news.ycombinator.com/item?id=27817519))
