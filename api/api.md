@@ -232,3 +232,4 @@
 - [Micro](https://m3o.com/) - Programmable building blocks for everyday use. ([HN](https://news.ycombinator.com/item?id=27619015))
 - [Notes on streaming large API responses](https://simonwillison.net/2021/Jun/25/streaming-large-api-responses/) ([HN](https://news.ycombinator.com/item?id=27632949))
 - [How to Cancel Pending API Requests to Show Correct Data (2021)](https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/)
+- [Give me /events, not webhooks (2021)](https://blog.syncinc.so/events-not-webhooks)

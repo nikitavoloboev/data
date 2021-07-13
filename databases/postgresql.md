@@ -286,3 +286,5 @@
 - [Protecting reserved roles with PostgreSQL Hooks (2021)](https://supabase.io/blog/2021/07/01/roles-postgres-hooks)
 - [HypoPG](https://github.com/HypoPG/hypopg) - PostgreSQL extension adding support for hypothetical indexes. ([Docs](https://hypopg.readthedocs.io/en/rel1_stable/))
 - [Installing different PostgreSQL server versions in GitHub Actions](https://til.simonwillison.net/github-actions/different-postgresql-versions)
+- [Syncing Stripe to Postgres (2021)](https://blog.syncinc.so/stripe-sync-process)
+- [Sync Inc](https://syncinc.so/) - Replicate third-party APIs to Postgres. ([GitHub](https://github.com/syncinc-so))

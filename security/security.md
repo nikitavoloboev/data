@@ -165,3 +165,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [An Incomplete List of Practical Security for Mortals (2021)](https://ludovicianul.github.io/2021/07/06/incomplete-list-of-security/)
 - [Secretless Broker](https://github.com/cyberark/secretless-broker) - Secure your apps by making them Secretless.
 - [Probably Are Gonna Need It: Application Security Edition (2021)](https://jacobian.org/2021/jul/8/appsec-pagnis/)
+- [Cybersecurity and the curse of binary thinking (2021)](https://www.philvenables.com/post/cybersecurity-and-the-curse-of-binary-thinking) ([HN](https://news.ycombinator.com/item?id=27800442))

@@ -209,3 +209,4 @@
 - [Qualcomm](https://www.qualcomm.com/) - Semiconductor company.
 - [How Capacitive Soil Moisture Sensors Work (2021)](https://rbaron.net/blog/2021/04/05/How-capacitive-soil-moisture-sensors-work.html)
 - [Computing Performance on the Horizon (2021)](https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html) ([HN](https://news.ycombinator.com/item?id=27738312))
+- [TinyPICO](https://www.tinypico.com/) - World’s smallest, fully-featured ESP32 development board.
