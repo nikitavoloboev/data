@@ -875,6 +875,7 @@
 - [tinylru](https://github.com/tidwall/tinylru) - Fast little LRU cache.
 - [Go Rules Engine](https://github.com/nikunjy/rules) - Helpful in situations where you have a generic rule and want to verify if your values (specified using `map[string]interface{}`) satisfy the rule.
 - [jsonparser](https://github.com/buger/jsonparser) - Alternative JSON parser for Go (10x times faster standard library).
+- [log](https://github.com/go-kit/log) - Minimal and extensible structured logger.
 
 ## Links
 

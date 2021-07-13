@@ -45,3 +45,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Coa](https://www.joincoa.com/) - Mental Health & Emotional Fitness.
 - [Слишком много переживаешь?](https://www.youtube.com/watch?v=FgNUX99qhP8)
 - [Unwind](https://unwind.to/) - Deep Breathing Exercises.
+- [How to get in touch with your emotions](https://gist.github.com/Gabriel439/cc76537f4f0f578958e54865b60558a8)

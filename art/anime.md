@@ -13,3 +13,4 @@
 - [Anime is booming, so why are animators living in poverty? (2021)](https://www.nytimes.com/2021/02/24/business/japan-anime.html) ([HN](https://news.ycombinator.com/item?id=26275488)) ([Reddit](https://www.reddit.com/r/television/comments/ltulz1/anime_is_booming_so_why_are_animators_living_in/))
 - [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - Sketch extractor for illustration, anime art, manga. ([HN](https://news.ycombinator.com/item?id=27070838))
 - [mangodl](https://github.com/Gyro7/mangodl) - Easy-to-use CLI tool for downloading manga.
+- [Anime Encoding Guide for x265 (HEVC) & AAC/OPUS (and Why to Never Use FLAC) (2019)](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
