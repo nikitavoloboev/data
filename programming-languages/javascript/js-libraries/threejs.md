@@ -50,3 +50,4 @@
 - [threeify](https://github.com/threeify/threeify) - Typescript 3D library loosely based on three.js. ([Web](https://threeify.org/))
 - [three-gltf-extensions](https://github.com/takahirox/three-gltf-extensions) - Three.js glTF loader and exporter have plugin system to provide extensibility mechanism to users.
 - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - BVH implementation to speed up raycasting against and enable intersection tests for three.js meshes.
+- [three-pathfinding](https://github.com/donmccurdy/three-pathfinding) - Navigation mesh toolkit for ThreeJS, based on PatrolJS.

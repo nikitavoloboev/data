@@ -252,3 +252,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Full stack app built with The Graph, Next.js, Zora, and Tailwind CSS](https://github.com/dabit3/zora-nextjs-app) ([Video](https://www.youtube.com/watch?v=JpOLhkmtOak))
 - [DeversiFi](https://www.deversifi.com/) - Decentralized Ethereum Exchange.
 - [send-tx](https://github.com/talentlessguy/send-tx) - Sign & send Ethereum transactions with ease.
+- [mev-inspect-py](https://github.com/flashbots/mev-inspect-py) - Script which "inspects" an Ethereum block, or range of blocks, and tries to identify and analyze transactions which extract MEV.
+- [useDapp](https://github.com/EthWorks/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable. ([Web](https://usedapp.io/))

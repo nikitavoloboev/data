@@ -127,6 +127,7 @@
 - [ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate Zod schemas from Typescript types/interfaces.
 - [native](https://github.com/okikio/native) - Initiative which aims to make it easy to create complex, light-weight, and performant web applications using modern JS API's.
 - [prelude-ts](https://github.com/emmanueltouzery/prelude-ts) - TypeScript library which aims to make functional programming concepts accessible and productive in TypeScript.
+- [Euclid.ts](https://github.com/mathigon/euclid.js) - Typescript library for 2D geometry.
 
 ## Links
 

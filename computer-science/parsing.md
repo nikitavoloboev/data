@@ -61,3 +61,4 @@
 - [parsegen](https://github.com/osa1/parsegen) - LR parser generator, similar to happy, ocamlyacc, and lalrpop.
 - [TextMapper](https://github.com/inspirer/textmapper) - Lexer and Parser generator. ([Web](https://textmapper.org/))
 - [Waxeye Parser Generator](https://github.com/waxeye-org/waxeye) - Parser generator based on parsing expression grammars (PEGs).
+- [rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust.

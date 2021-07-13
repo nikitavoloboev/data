@@ -79,3 +79,5 @@
 - [Mkocaml](https://github.com/chrisnevers/mkocaml) - Tool to generate OCaml projects.
 - [Js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to JavaScript. ([Docs](http://ocsigen.org/js_of_ocaml/latest/manual/overview))
 - [ocaml-tree-sitter](https://github.com/returntocorp/ocaml-tree-sitter) - Generate OCaml parsers based on tree-sitter grammars, for semgrep.
+- [Parallel programming in Multicore OCaml](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
+- [denu](https://github.com/thangngoc89/denu) - Toy OCaml builder.

@@ -120,6 +120,7 @@
 - [Domain Modeling Made Functional with Scott Wlaschin (2020)](https://www.youtube.com/watch?v=9QlhkQl0DSw) ([HN](https://news.ycombinator.com/item?id=27408440))
 - [Functors and Monads for People Who Have Read Too Many “Tutorials” (2021)](http://www.jerf.org/iri/post/2958) ([HN](https://news.ycombinator.com/item?id=27637779))
 - [The Y Combinator (Slight Return)](https://mvanier.livejournal.com/2897.html) ([HN](https://news.ycombinator.com/item?id=27673177))
+- [The mysterious Y combinator (2020)](https://bharathi.xyz/pl/the-mysterious-y-combinator.html)
 
 ## Images
 

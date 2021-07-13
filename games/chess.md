@@ -112,3 +112,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [The Perpetual Chess Podcast](https://www.perpetualchesspod.com/)
 - [daochess](https://daochess.org/) - Testing governance mechanisms via chess.
 - [Chessgames.com](https://www.chessgames.com/index.html) - Chess Games Database & Community.
+- [Chess : My journey to 1800 (2021)](https://bharathi.xyz/chess/chess-1800.html)

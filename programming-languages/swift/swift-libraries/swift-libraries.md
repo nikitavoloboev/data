@@ -722,6 +722,7 @@
 - [LifecycleHooks](https://github.com/johnpatrickmorgan/LifecycleHooks) - Inject custom code into views and view controllers in response to lifecycle events.
 - [Dollar](https://github.com/ankurp/Dollar) - Swift library that provides useful functional programming helper methods without extending any built in objects.
 - [Carlos](https://github.com/spring-media/Carlos) - Simple but flexible cache.
+- [Swift Identified Collections](https://github.com/pointfreeco/swift-identified-collections) - Library of data structures for working with collections of identifiable elements in an ergonomic, performant way.
 
 ## Other (not lib)
 
