@@ -163,6 +163,7 @@
 - [health-go](https://github.com/hellofresh/health-go) - Library to provide basic healthcheck functionality to Go applications.
 - [Kratos](https://github.com/go-kratos/kratos) - Go framework for microservices.
 - [cap](https://github.com/hashicorp/cap) - Collection of authentication Go packages related to OIDC, JWKs and Distributed Claims.
+- [letgo](https://github.com/wjpxxx/letgo) - Open-source, high-performance web framework for the Go programming language.
 
 ## GraphQL
 

@@ -35,3 +35,4 @@
 - [Z3 Tutorial](https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb)
 - [Fun examples of Z3 (2021)](https://twitter.com/andrew_n_carr/status/1390723195607552000)
 - [Teaching Your SMT Solver Probability Theory (2019)](https://barghouthi.github.io/2019/07/15/smt-probability/)
+- [dReal](https://github.com/dreal/dreal4) - SMT Solver for Nonlinear Theories of Reals. ([Web](https://dreal.github.io/))

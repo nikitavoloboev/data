@@ -405,3 +405,4 @@
 - [Shell-operator](https://github.com/flant/shell-operator) - Tool for running event-driven scripts in a Kubernetes cluster.
 - [Kadalu Storage](https://kadalu.io/) - Lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background. ([Code](https://github.com/kadalu/kadalu))
 - [SuperEdge](https://superedge.io/) - Open-source container management system for edge computing. It extends native Kubernetes to the edge in a non-intrusive way. ([Code](https://github.com/superedge/superedge))
+- [Krane](https://github.com/appvia/krane) - Kubernetes RBAC static Analysis & visualisation tool.

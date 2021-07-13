@@ -512,3 +512,4 @@
 - [Data Augmentation Resources](https://github.com/AgaMiko/data-augmentation-review)
 - [Extremely revealing books that explains everything behind machine learning? (2021)](https://www.reddit.com/r/learnmachinelearning/comments/ofnl9d/extremely_revealing_books_that_explains/)
 - [ML@B](https://ml.berkeley.edu/) - Machine Learning at Berkeley.
+- [Awesome Graph Self-Supervised Learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning)

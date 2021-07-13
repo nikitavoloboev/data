@@ -61,3 +61,4 @@ And here are Chrome extensions I use:
 - [Create React Chrome Extension - TS](https://github.com/pixochi/create-react-chrome-extension-ts) - Lightweight boilerplate for building a Chrome extension and a standard web app with React, TypeScript and Webpack.
 - [How do Chrome extensions impact browser performance? (2021)](https://www.debugbear.com/blog/chrome-extension-performance-2021)
 - [Google’s unfair performance advantage in Chrome (2021)](https://www.ctrl.blog/entry/chrome-google-dse-preconnect.html) ([Lobsters](https://lobste.rs/s/aj3yxt/google_s_unfair_performance_advantage)) ([HN](https://news.ycombinator.com/item?id=27763208))
+- [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js.

@@ -39,3 +39,4 @@
 - [Five](https://www.five.ai/) - AV development and safety assurance.
 - [Transitioning to Tesla Vision (2021)](https://www.tesla.com/support/transitioning-tesla-vision) ([HN](https://news.ycombinator.com/item?id=27281043))
 - [Andrej Karpathy (Tesla): CVPR 2021 Workshop on Autonomous Vehicles (2021)](https://www.youtube.com/watch?v=NSDTZQdo6H8) ([HN](https://news.ycombinator.com/item?id=27580744)) ([Summary](https://twitter.com/chipro/status/1407890489697652741))
+- [XVIZ](https://github.com/uber/xviz) - Protocol for real-time transfer and visualization of autonomy data.
