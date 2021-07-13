@@ -373,3 +373,4 @@
 - [PathQuery, Google's Graph Query Language (2021)](https://arxiv.org/abs/2106.09799) ([HN](https://news.ycombinator.com/item?id=27697191))
 - [Write a time-series database engine from scratch (2021)](https://nakabonne.dev/posts/write-tsdb-from-scratch/) ([HN](https://news.ycombinator.com/item?id=27730854))
 - [Purdue CS590: Cloud-Native Database Systems (2021)](https://www.cs.purdue.edu/homes/csjgwang/cloudb/)
+- [Scylla's Approach to Improve Performance for CPU-bound workloads (2017)](https://www.scylladb.com/2017/07/06/scyllas-approach-improve-performance-cpu-bound-workloads/)

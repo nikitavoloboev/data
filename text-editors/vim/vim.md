@@ -118,3 +118,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Neovim Discourse](https://neovim.discourse.group/)
 - [HN: Neovim v0.5 (2021)](https://news.ycombinator.com/item?id=27713358)
 - [Vim is actually worth it (2021)](https://alexfertel.hashnode.dev/vim-is-actually-worth-it)
+- [Neovim News #11 - The Christmas Issue (2021)](https://neovim.io/news/2021/07)

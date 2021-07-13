@@ -1,5 +1,9 @@
 # [SQLite](https://www.sqlite.org/index.html)
 
+## Notes
+
+- [SQLite can import CSV data directly. Start sqlite, then: .mode csv .import some_data_file.csv your_table_name](https://lobste.rs/s/nydkgn/how_hot_does_it_get_inside_car_during_heat#c_0kknsc)
+
 ## Links
 
 - [EXPLAIN QUERY PLAN](https://sqlite.org/eqp.html) - SQL command that is used to obtain a high-level description of the strategy or plan that SQLite uses to implement a specific SQL query.
