@@ -111,3 +111,4 @@
 - [HN: DNS-powered website with no back end (2021)](https://news.ycombinator.com/item?id=27598164)
 - [DNS Explained in 100 Seconds](https://www.youtube.com/watch?v=UVR9lhUGAyU)
 - [meshname](https://github.com/zhoreeq/meshname) - Universal naming system for all IPv6-based mesh networks, including CJDNS and Yggdrasil.
+- [dn42](https://dn42.dev/Home) - Big dynamic VPN.

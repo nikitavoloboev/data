@@ -30,3 +30,4 @@
 - [Replit used legal threats to kill my open-source project (2021)](https://intuitiveexplanations.com/tech/replit/) ([HN](https://news.ycombinator.com/item?id=27424195)) ([Reddit](https://www.reddit.com/r/programming/comments/nulyx0/how_replit_used_legal_threats_to_kill_my/))
 - [Ask HN: I was hit with a patent troll lawsuit, how do I deal with it? (2021)](https://news.ycombinator.com/item?id=27579693)
 - [GitHub Copilot is not infringing your copyright (2021)](https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/) ([Lobsters](https://lobste.rs/s/bmdesp/github_copilot_is_not_infringing_your)) ([HN](https://news.ycombinator.com/item?id=27736650))
+- [Day in my Life as a Corporate Lawyer (2021)](https://www.youtube.com/watch?v=HjZ9U9DGqW8)

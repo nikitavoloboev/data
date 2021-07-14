@@ -44,3 +44,4 @@
 - [Gradual Typing in Agda](https://github.com/jsiek/gradual-typing-in-agda) - Formalizations of Gradually Typed Languages in Agda.
 - [agda-algebras](https://github.com/ualib/agda-algebras) - The Agda Universal Algebra Library.
 - [system-f-agda](https://github.com/sstucki/system-f-agda) - Formalization of the polymorphic lambda calculus extended with iso-recursive types.
+- [calf](https://github.com/jonsterling/agda-calf) - Cost-aware logical framework, embedded in Agda.

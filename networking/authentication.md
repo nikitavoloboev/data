@@ -129,3 +129,4 @@
 - [All you need to know about user session security (2019)](https://medium.com/hackernoon/all-you-need-to-know-about-user-session-security-ee5245e6bdad)
 - [JWT Tokens are NOT safe (2021)](https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/) ([HN](https://news.ycombinator.com/item?id=27625822))
 - [Продвинутая JWT авторизация на React и Node js. Access, refresh, активация по почте (2021)](https://www.youtube.com/watch?v=fN25fMQZ2v0)
+- [Verify Apple idToken](https://github.com/stefan-prokop-cz/verify-apple-id-token) - Verify the Apple id token on the server side.

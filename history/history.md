@@ -128,3 +128,4 @@
 - [Putting all your ancestors in a line and talking to them](https://twitter.com/makseest_ru/status/1402598603642658848)
 - [Why You Should Not Get a History PhD](https://www.reddit.com/r/AskHistorians/comments/96yf9h/monday_methods_why_you_should_not_get_a_history/) ([HN](https://news.ycombinator.com/item?id=27580605))
 - [Why did we wait so long for the threshing machine? (2021)](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-threshing-machine) ([Tweet](https://twitter.com/antonhowes/status/1409986175369105409))
+- [How to learn history in depth without university](https://www.reddit.com/r/AskHistorians/comments/ojqze8/i_have_no_access_to_a_university_so_how_can_i/)
