@@ -549,6 +549,7 @@
 - [hydrate-text](https://github.com/vasilii-kovalev/hydrate-text) - Tiny library for dynamic text hydrating with variables.
 - [JS Image Carver](https://github.com/trekhleb/js-image-carver) - Content-aware image resizer and object remover based on Seam Carving algorithm.
 - [Acorn-JSX](https://github.com/acornjs/acorn-jsx) - Alternative, faster React.js JSX parser.
+- [Tempura](https://github.com/lukeed/tempura) - Light, crispy, and delicious template engine.
 
 ## Links
 
