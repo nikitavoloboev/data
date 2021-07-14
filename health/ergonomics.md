@@ -61,3 +61,4 @@
 - [Rating or Roasting Your Workspace Setups (2021)](https://www.youtube.com/watch?v=dUO46Cj6ZAQ) ([Tweet](https://twitter.com/UltraLinx/status/1389872897477517312))
 - [Posture Reddit](https://www.reddit.com/r/Posture/)
 - [Ask HN: How do you guys prevent back problems? (2019)](https://news.ycombinator.com/item?id=19824656)
+- [Why is standing more tiring than walking?](https://www.bbc.co.uk/programmes/w3ct1pqm) ([HN](https://news.ycombinator.com/item?id=27824885))

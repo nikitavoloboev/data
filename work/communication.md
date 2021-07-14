@@ -37,6 +37,7 @@
 - [The best gauge of intimacy is the first people you want to tell good news and bad news.](https://twitter.com/noampomsky/status/1406005085147209730)
 - [At the end of every meeting, create a feedback google doc. Use this template: [name] Like: Wish That:](https://twitter.com/justinkan/status/1137352242497908742)
 - [Be willing to speak up and take a stand.](https://twitter.com/SignatureTracyS/status/1405631228607295491)
+- [Put the most important thing out first in announcements, then justify why customers should be still happy.](https://news.ycombinator.com/item?id=27822035)
 
 ## Links
 

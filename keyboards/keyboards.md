@@ -31,6 +31,7 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Squeezebox Keyboard](https://peterlyons.com/problog/2021/04/squeezebox-keyboard/) ([HN](https://news.ycombinator.com/item?id=27207333))
 - [MVKB Keyboards](https://mvkb.com/)
 - [IIICC](https://github.com/kbjunky/IIICC) - Three piece split keyboard with macropad running QMK.
+- [ZSA Planck EZ](https://www.zsa.io/planck/) - Powerful, Backlit, Open-Source, 40% Mechanical Keyboard. ([HN](https://news.ycombinator.com/item?id=27827206))
 
 ## Interesting keycaps
 

@@ -148,7 +148,7 @@
 - [Nix-based process management framework](https://github.com/svanderburg/nix-processmgmt)
 - [Local Nix Cache](https://github.com/andir/local-nix-cache) - Poor and hacky attempt at re-serving local nix packages that came from trusted sources.
 - [Nix parallelism & Import From Derivation (2020)](https://fzakaria.com/2020/10/20/nix-parallelism-import-from-derivation.html) ([Reddit](https://www.reddit.com/r/NixOS/comments/jf79zy/nix_parallelism_import_from_derivation/))
-- [macOS Nix Setup (an alternative to Homebrew) (2020)](https://wickedchicken.github.io/post/macos-nix-setup/) ([Lobsters](https://lobste.rs/s/rtluby/macos_nix_setup_alternative_homebrew))
+- [macOS Nix setup: an alternative to Homebrew (2020)](https://wickedchicken.github.io/post/macos-nix-setup/) ([Lobsters](https://lobste.rs/s/rtluby/macos_nix_setup_alternative_homebrew)) ([HN](https://news.ycombinator.com/item?id=27825240))
 - [update-nix-fetchgit](https://github.com/expipiplus1/update-nix-fetchgit) - Program to automatically update fetchgit values in Nix expressions.
 - [Cache install Nix packages](https://github.com/nix-actions/cache-install) - Use the GitHub Actions cache for Nix packages.
 - [nixbuild.net Action](https://github.com/nixbuild/nixbuild-action) - GitHub Action for using the nixbuild.net service.

@@ -193,3 +193,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy.
 - [GoFakeS3](https://github.com/johannesboyne/gofakes3) - Fake AWS S3 object storage (used for local test-runs against AWS S3 APIs).
 - [Declarative provisioning of AWS resources with Spinnaker and Crossplane (2021)](https://aws.amazon.com/blogs/opensource/declarative-provisioning-of-aws-resources-with-spinnaker-and-crossplane/)
+- [AWS Cost Saving Recommendations](https://www.vantage.sh/blog/vantage-launches-aws-cost-saving-recommendations) ([HN](https://news.ycombinator.com/item?id=27823824))
