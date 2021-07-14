@@ -119,3 +119,4 @@
 - [A virtual machine for microcontrollers (2021)](https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c) ([HN](https://news.ycombinator.com/item?id=27353255))
 - [Embedded scripting languages](https://github.com/dbohdan/embedded-scripting-languages)
 - [Neotron](https://neotron-compute.github.io/Neotron-Book/index.html) - Embedded Rust Home Computer Platform.
+- [Ask HN: How to start learning embedded systems? (2021)](https://news.ycombinator.com/item?id=27828834)

@@ -121,6 +121,7 @@
 - [Voila](https://github.com/voila-dashboards/voila) - Turns Jupyter notebooks into standalone web applications.
 - [JupyterLite](https://jupyterlite.vercel.app/doc/workspaces) - WASM powered Jupyter running in the browser. ([Code](https://github.com/jtpio/jupyterlite)) ([HN](https://news.ycombinator.com/item?id=27323548))
 - [JupyterLite Demo](https://github.com/jtpio/jupyterlite-demo) - JupyterLite demo deployed to GitHub Pages.
+- [JupyterLite: Jupyter WebAssembly Python (2021)](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
 - [Jupyter Kernel Gateway](https://github.com/jupyter/kernel_gateway) - Web server that provides headless access to Jupyter kernels.
 - [Jupyter Client](https://github.com/jupyter/jupyter_client) - Jupyter protocol client APIs.
 - [Streambook](https://github.com/srush/streambook) - Live Python Notebooks with any Editor.

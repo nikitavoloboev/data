@@ -30,3 +30,4 @@
 - [Google API Linter](https://github.com/googleapis/api-linter) - API linter provides real-time checks for compliance with many of Google's API standards.
 - [Berglas](https://github.com/GoogleCloudPlatform/berglas) - Tool for managing secrets on Google Cloud.
 - [Google Cloud Rust Client](https://github.com/mozilla-services/google-cloud-rust)
+- [gRPC and gRPC Web on Google Cloud Run (serverless) (2021)](https://blog.gendocu.com/posts/grpc-on-google-cloud/)

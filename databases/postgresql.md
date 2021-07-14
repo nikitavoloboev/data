@@ -288,4 +288,4 @@
 - [Installing different PostgreSQL server versions in GitHub Actions](https://til.simonwillison.net/github-actions/different-postgresql-versions)
 - [Syncing Stripe to Postgres (2021)](https://blog.syncinc.so/stripe-sync-process)
 - [Sync Inc](https://syncinc.so/) - Replicate third-party APIs to Postgres. ([GitHub](https://github.com/syncinc-so))
-- [PostgreSQL: LIMIT vs FETCH FIRST ROWS ... WITH TIES](https://www.cybertec-postgresql.com/en/postgresql-limit-vs-fetch-first-rows-with-ties/)
+- [PostgreSQL: Limit vs. Fetch First Rows with Ties](https://www.cybertec-postgresql.com/en/postgresql-limit-vs-fetch-first-rows-with-ties/)

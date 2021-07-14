@@ -83,3 +83,4 @@
 - [Descartes Labs](https://descarteslabs.com/) - Geospatial Analytics Platform | Satellite Imagery | Remote Sensing.
 - [geoplot](https://github.com/ResidentMario/geoplot) - High-level Python geospatial plotting library.
 - [Turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. ([Code](https://github.com/Turfjs/turf))
+- [Using Client-Side Map Data to Improve Real-Time Positioning (2021)](https://eng.lyft.com/using-client-side-map-data-to-improve-real-time-positioning-a382585ac6e)

@@ -211,3 +211,4 @@
 - [Preact for Next (2021)](https://www.ebey.me/blog/preact-for-next)
 - [next-remote-refresh](https://github.com/souporserious/next-remote-refresh) - Enable Fast Refresh for remote data in NextJS.
 - [How I Built My Site with Next.js (2021)](https://www.delbaoliveira.com/blog/how-i-built-my-website-with-nextjs)
+- [Next.js Bundle Analysis Github Action](https://github.com/hashicorp/nextjs-bundle-analysis) - Github action that provides detailed bundle analysis on PRs for next.js apps.
