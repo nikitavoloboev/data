@@ -150,6 +150,7 @@
 - [TimeBase](https://github.com/epam/TimeBase) - High performance time series database. ([Web](https://timebase.info/))
 - [Greenplum Database](https://github.com/greenplum-db/gpdb) - Advanced, fully featured, open source data warehouse, based on PostgreSQL. ([Web](https://greenplum.org/))
 - [JinDB](https://github.com/shoyo/jindb) - Small relational database engine written in Rust with the standard library and no external dependencies.
+- [Memgraph](https://memgraph.com/) - In-Memory Cypher Graph Database.
 
 ## Tools
 

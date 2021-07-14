@@ -7,7 +7,7 @@
 - [Base Web](https://baseweb.design) - React Component library implementing the Base design language. ([Code](https://github.com/uber/baseweb)) ([Figma](https://www.figma.com/c/file/805195278314519508))
 - [Grommet](https://grommet.io) - React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package.
 - [smooth UI](https://github.com/smooth-code/smooth-ui) - Modern React UI library.
-- [Orbit](https://orbit.kiwi/) - Open source design system for your next travel project.
+- [Orbit](https://orbit.kiwi/) - Open source design system for your next travel project. ([Beta](https://beta.orbit.kiwi/)) ([Code](https://github.com/kiwicom/orbit))
 - [Reach UI](https://github.com/reach/reach-ui) - Accessible Foundation for React Apps and Design Systems. ([Docs](https://reach.tech/))
 - [Latitude](https://www.flexport.com/design) - Design guidelines, component documentation, styling instructions, and resources for building interfaces with Flexport’s design system. ([HN](https://news.ycombinator.com/item?id=21461579)) ([Code](https://github.com/flexport/latitude))
 - [Vercel](https://vercel.com/design)

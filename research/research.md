@@ -113,3 +113,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [ReScience C](https://rescience.github.io/) - Reproducible Science is Good. Replicated Science is better. ([Code](https://github.com/ReScience/ReScience))
 - [Beaker](https://beaker.org/) - Collaborative platform for rapid and reproducible research. ([Code](https://github.com/allenai/beaker))
 - [The Myth of the Expert Reviewer (2021)](https://parameterfree.com/2021/07/06/the-myth-of-the-expert-reviewer/)
+- [Citation Statement Search](https://scite.ai/search/citations) - Search 885M+ citation statements at once from 26M full-text research articles.

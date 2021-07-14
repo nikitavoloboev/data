@@ -224,3 +224,4 @@
 - [Correctly implementing a spinlock in Modern C++ (2020)](https://rigtorp.se/spinlock/) ([HN](https://news.ycombinator.com/item?id=27637287))
 - [Comprehensive catalog of C++ books](https://github.com/yuchdev/CppBooks)
 - [JSCPP](https://github.com/felixhao28/JSCPP) - Simple C++ interpreter written in JavaScript.
+- [Overflowing timeout (2021)](https://memgraph.com/blog/overflowing-timeout)

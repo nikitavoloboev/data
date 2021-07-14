@@ -89,3 +89,4 @@
 - [Erlang Enhancement Process](https://github.com/erlang/eep) ([Web](https://www.erlang.org/erlang-enhancement-proposals/))
 - [Beam Community](https://beam-community.org/) ([GitHub](https://github.com/beam-community))
 - [Concuerror](https://concuerror.com/) - Stateless model checking tool for Erlang programs.
+- [Death, Children, and OTP (2021)](https://furlough.merecomplexities.com/elixir/otp/2021/06/28/death-children-and-otp.html)

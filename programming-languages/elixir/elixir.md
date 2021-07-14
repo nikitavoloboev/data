@@ -109,3 +109,4 @@
 - [An Elixir adoption success story (2021)](https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/) ([HN](https://news.ycombinator.com/item?id=27682432))
 - [Elixir in 2021 – Saša Jurić & Jonn Mostovoy](https://www.youtube.com/watch?v=me4cANg9RMU)
 - [Visual Elixir Reference](https://superruzafa.github.io/visual-elixir-reference//) ([Code](https://github.com/superruzafa/visual-elixir-reference))
+- [What happens when a linked process dies in Elixir (2021)](https://furlough.merecomplexities.com/elixir/otp/2021/06/08/what-happens-when-a-linked-process-dies.html)
