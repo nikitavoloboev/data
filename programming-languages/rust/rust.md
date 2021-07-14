@@ -512,3 +512,4 @@
 - [What Can Coerce, and Where, in Rust (2021)](https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust)
 - [Compiling Rust is NP-hard (2021)](https://niedzejkob.p4.team/rust-np/) ([HN](https://news.ycombinator.com/item?id=27769718)) ([Lobsters](https://lobste.rs/s/ekasr1/compiling_rust_is_np_hard))
 - [Inline In Rust (2021)](https://matklad.github.io//2021/07/09/inline-in-rust.html) ([Lobsters](https://lobste.rs/s/bd6rcd/inline_rust))
+- [The problem of effects in Rust (2020)](https://boats.gitlab.io/blog/post/the-problem-of-effects/) ([Lobsters](https://lobste.rs/s/otrxxf/problem_effects_rust_2020))

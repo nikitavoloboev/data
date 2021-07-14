@@ -183,6 +183,7 @@
 - [LocalConsole](https://github.com/duraidabdul/LocalConsole) - In-app console and debug tools for iOS developers.
 - [PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - Thread safe, performant, feature rich image fetcher.
 - [Firefly](https://github.com/ActuallyZach/Firefly) - iOS syntax highlighter based on Savanna Kit, Sourceful and Highlightr.
+- [Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library.
 
 ## macOS
 

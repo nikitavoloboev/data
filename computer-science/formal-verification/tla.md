@@ -27,3 +27,4 @@
 - [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) - Learn an algorithm and protocol, study a specification.
 - [PlusPy](https://github.com/tlaplus/PlusPy) - Python interpreter for TLA+ specifications.
 - [Scaffolding TLA+ (2021)](https://buttondown.email/hillelwayne/archive/scaffolding-tla/)
+- [Specification Refinement (2021)](https://www.hillelwayne.com/post/refinement/)

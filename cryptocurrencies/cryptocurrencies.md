@@ -113,3 +113,5 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Hedgehog](https://hedgehog.app/) - Cryptocurrency Portfolio Manager. ([HN](https://news.ycombinator.com/item?id=27550255))
 - [Coinbase Pro Recurring Buy Bot](https://github.com/queball99/CoinbasePro-Recurring-Buy) - Python app to automate buying cryptocurrency on the Coinbase Pro exchange. Runs in a Docker container for convenience.
 - [Credit in Crypto (2021)](http://jonkol.xyz/credit-in-crypto/)
+- [Blocknative](https://www.blocknative.com/) - Blockchain events before they happen.
+- [Onboard.js](https://www.blocknative.com/onboard) - Easily support the top wallets. ([React Onboard.js Hook](https://github.com/talentlessguy/use-onboard))
