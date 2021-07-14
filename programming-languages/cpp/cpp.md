@@ -225,3 +225,4 @@
 - [Comprehensive catalog of C++ books](https://github.com/yuchdev/CppBooks)
 - [JSCPP](https://github.com/felixhao28/JSCPP) - Simple C++ interpreter written in JavaScript.
 - [Overflowing timeout (2021)](https://memgraph.com/blog/overflowing-timeout)
+- [Model Checking C++ Programs (2021)](https://arxiv.org/abs/2107.01093)

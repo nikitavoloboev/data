@@ -39,3 +39,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Everything VPN Is New Again (2021)](https://cacm.acm.org/magazines/2021/4/251363-everything-vpn-is-new-again/fulltext)
 - [Bitmask](https://bitmask.net/) - Open source application to provide easy and secure encrypted communication with a VPN. ([Code](https://github.com/leapcode/bitmask-vpn))
 - [Apple's iCloud+ “VPN” (2021)](https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html) ([HN](https://news.ycombinator.com/item?id=27527559))
+- [How do Mesh VPNs work? Writing my own VPN tool in Go to find out (2021)](https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/)
