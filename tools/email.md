@@ -163,3 +163,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Security and insecurity of e-mail (2020)](https://foxcpp.dev/articles/security-and-insecurity-of-email)
 - [Go SMPP](https://github.com/fiorix/go-smpp) - SMPP 3.4 Protocol for Go.
 - [maildog](https://github.com/edmundhung/maildog) - Hosting email forwarding service on AWS with GitHub Actions. ([HN](https://news.ycombinator.com/item?id=27819814))
+- [Streak](https://www.streak.com/) - CRM for Gmail.

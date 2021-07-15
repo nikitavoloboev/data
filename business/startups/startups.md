@@ -55,6 +55,7 @@
 - [You do everything differently when you're an owner.](https://twitter.com/jackbutcher/status/1399571975459246082)
 - [The market you’re in will determine most of your growth.](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/)
 - [Startup founders should prioritize mental health over 'growth at all costs'.](https://twitter.com/mkhundmiri/status/1407956908863115268)
+- [Two key areas to optimize for efficient SAAS: 1. Self service. 2. Managed hosting.](https://twitter.com/maccaw/status/1414970646342340623)
 
 ## Links
 

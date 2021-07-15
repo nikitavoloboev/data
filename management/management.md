@@ -118,3 +118,4 @@
 - [Awesome Engineering Management](https://github.com/ixaxaar/awesome-engineering-management) ([HN](https://news.ycombinator.com/item?id=27563259))
 - [The Handbook of Handbooks for Decentralised Organising](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view)
 - [Engineering Management for the Rest of Us](https://www.engmanagement.dev/)
+- [7 Management Trust Killers (and how to avoid them)](https://twitter.com/joulee/status/1415328586207174661)

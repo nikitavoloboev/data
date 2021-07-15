@@ -31,3 +31,4 @@
 - [Analytic Number Theory Book Club Meeting Notes](https://antmeet.github.io/boards/)
 - [Essays on the Theory of Numbers by Richard Dedekind](https://www.gutenberg.org/ebooks/21016)
 - [Surreal numbers (2014)](https://ianopolous.peergos.me/maths/surreal)
+- [How Many Numbers Exist? Infinity Proof Moves Math Closer to an Answer (2021)](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/) ([HN](https://news.ycombinator.com/item?id=27845576))

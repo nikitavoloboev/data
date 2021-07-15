@@ -121,3 +121,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [HN: “Note that I wouldn’t pass the listed minimum requirements” (2021)](https://news.ycombinator.com/item?id=27687034)
 - [Ask HN: 30 years old with no career (2021)](https://news.ycombinator.com/item?id=27743303)
 - [SideQuest](https://sidequestjobs.com/) - Short Term Tech Jobs. ([HN](https://news.ycombinator.com/item?id=27749497))
+- [Ask HN: Recruiters want people who do side projects, yet contracts forbid them? (2021)](https://news.ycombinator.com/item?id=27843198)
