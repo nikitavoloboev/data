@@ -116,3 +116,4 @@ Success comes from not giving up and doing what you love.
 - [Ask HN: How to grow after 10 years in the industry? (2021)](https://news.ycombinator.com/item?id=27661713)
 - [The most precious resource is agency (2021)](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency) ([HN](https://news.ycombinator.com/item?id=27695181)) ([Tweet](https://twitter.com/simonsarris/status/1410394551848779781))
 - [Change your environment, change your life.](https://twitter.com/david_perell/status/1414685400308793347)
+- [The unreasonable effectiveness of just showing up everyday (2021)](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/) ([HN](https://news.ycombinator.com/item?id=27833064))

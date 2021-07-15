@@ -53,3 +53,4 @@
 - [Scaling Graph Neural Networks with Approximate PageRank (2020)](https://www.in.tum.de/daml/pprgo/) ([Code](https://github.com/TUM-DAML/pprgo_pytorch))
 - [CS224W: Machine Learning with Graphs (2021)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 - [Graph Attention Networks (GAT) annotated implementation](https://nn.labml.ai/graphs/gat/index.html)
+- [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) - Collection of research papers and software related to explainability in graph machine learning.
