@@ -120,7 +120,7 @@
 - [A practical guide to reducing loneliness (2021)](https://burgesspowell.medium.com/a-practical-guide-for-reducing-loneliness-right-now-f02f8c3035bd) ([HN](https://news.ycombinator.com/item?id=26943140))
 - [How To Breathe Correctly When Speaking (2017)](https://www.youtube.com/watch?v=bkY9C7VX8ww)
 - [Criticism pushes the web forward (2021)](https://hiddedevries.nl/en/blog/2021-05-08-criticism-pushes-the-web-forward/)
-- [You Can Only Maintain So Many Close Friendships (2021)](https://www.theatlantic.com/family/archive/2021/05/robin-dunbar-explains-circles-friendship-dunbars-number/618931/) ([Tweet](https://twitter.com/morganhousel/status/1399410481077514245?s=20))
+- [You Can Only Maintain So Many Close Friendships (2021)](https://www.theatlantic.com/family/archive/2021/05/robin-dunbar-explains-circles-friendship-dunbars-number/618931/) ([Tweet](https://twitter.com/morganhousel/status/1399410481077514245))
 - [Great example of well communicated email with action points by Apple Exec](https://twitter.com/amdev/status/1400437325667127296)
 - [Ask HN: Books for Effective Communication (2021)](https://news.ycombinator.com/item?id=27408120)
 - [Good Meetings (2021)](https://css-tricks.com/good-meetings/)

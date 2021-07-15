@@ -134,3 +134,4 @@
 - [Complete FAANG Interview Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 - [Have you ever had/given a really good interview? (2021)](https://lobste.rs/s/1bwpi8/have_you_ever_had_given_really_good)
 - [Intern interview questions (2021)](https://boyter.org/posts/intern-interview-questions/)
+- [Best questions you ask to figure out if you’re speaking to the right person for the role (2021)](https://twitter.com/harryhurst/status/1415089258218627072)

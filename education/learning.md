@@ -119,7 +119,7 @@
 - [Learney](https://app.learney.me/) - Online learning platform that lets you take your own path.
 - [Caught in the Study Web (2021)](https://every.to/cybernaut/caught-in-the-study-web) ([Tweet](https://twitter.com/fadeke_adegbuyi/status/1396908868656005123))
 - [Neso Academy - YouTube](https://www.youtube.com/c/nesoacademy/videos) - On a mission to provide free and subsidized education.
-- [Stanford Course Schedule 2020-2021](https://cs.stanford.edu/courses/schedules/2020-2021.autumn.php) ([Tweet](https://twitter.com/karpathy/status/1398737554761863168?s=20))
+- [Stanford Course Schedule 2020-2021](https://cs.stanford.edu/courses/schedules/2020-2021.autumn.php) ([Tweet](https://twitter.com/karpathy/status/1398737554761863168))
 - [RFC.fyi](https://rfc.fyi/) - Browse RFCs by keywords, id or collection. ([HN](https://news.ycombinator.com/item?id=27336584))
 - [All the best engineering advice I stole from non-technical people (2021)](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
 - [Brendan's Personal Canon](https://www.brendanschlagel.com/canon/) - Things that have most influenced my work and thinking.

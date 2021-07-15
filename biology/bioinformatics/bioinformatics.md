@@ -133,3 +133,4 @@
 - [Biochemical Pathway Maps](http://biochemical-pathways.com/#/map/1) ([HN](https://news.ycombinator.com/item?id=27544894))
 - [Awesome Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie)
 - [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences (2020)](https://www.biorxiv.org/content/10.1101/622803v4) ([Code](https://github.com/facebookresearch/esm))
+- [Highly accurate protein structure prediction with AlphaFold (2021)](https://www.nature.com/articles/s41586-021-03819-2) ([Code](https://github.com/deepmind/alphafold)) ([Tweet](https://twitter.com/demishassabis/status/1415736975395631111))
