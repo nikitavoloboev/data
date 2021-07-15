@@ -19,7 +19,7 @@
 - [Maybe Not - Rich Hickey (2018)](https://www.youtube.com/watch?v=YR5WdGrpoug)
 - [Virgil](https://github.com/ztellman/virgil) - Your own personal JVM psychopomp.
 - [Luminus](http://www.luminusweb.net/) - Clojure micro-framework based on a set of lightweight libraries.
-- [clojerl](https://github.com/clojerl/clojerl) - Clojure for the Erlang VM.
+- [ClojErl](https://github.com/clojerl/clojerl) - Clojure for the Erlang VM. ([Interview with creator](https://www.notamonadtutorial.com/clojerl-an-implementation-of-the-clojure-language-that-runs-on-the-beam/))
 - [Data > Functions > Macros. But why? (2018)](https://lispcast.com/data-functions-macros-why/)
 - [edn](https://github.com/edn-format/edn) - Extensible Data Notation. Superset of edn is used by Clojure to represent programs.
 - [spectrum](https://github.com/arohner/spectrum) - Library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time.

@@ -117,3 +117,4 @@
 - [Tiny Acquisitions](https://tinyacquisitions.com/home) - Removing the friction from buying and selling small web based projects built by creators.
 - [The 23 Rules of Storytelling For Fundraising](https://www.nfx.com/post/23-rules-storytelling-fundraising/)
 - [Ask HN: Collection of Pitch Decks? (2021)](https://news.ycombinator.com/item?id=27782377)
+- [Free fundraising resources (2021)](https://twitter.com/mahadevanarj/status/1415729587242377223)

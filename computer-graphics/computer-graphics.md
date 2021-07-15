@@ -159,3 +159,4 @@
 - [NVIDIA Canvas](https://www.nvidia.com/en-gb/studio/canvas/) - Turn Simple Brushstrokes into Realistic Images. ([HN](https://news.ycombinator.com/item?id=27626610))
 - [How do games render their scenes? (2021)](https://www.youtube.com/watch?v=Oct4Oi-KfVQ)
 - [Visibility Buffer Rendering with Material Graphs (2021)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
+- [Smoothstep Integral](https://iquilezles.org/www/articles/smoothstepintegral/smoothstepintegral.htm) ([HN](https://news.ycombinator.com/item?id=27588977))

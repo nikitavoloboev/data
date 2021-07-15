@@ -135,3 +135,5 @@
 - [Information Theory: A Tutorial Introduction (2018)](https://arxiv.org/abs/1802.05968) ([HN](https://news.ycombinator.com/item?id=27642906))
 - [Is this true? (2021)](https://thatjdanisso.cool/is-this-true)
 - [Resources for Learning Computational Complexity Theory (2021)](https://bcmullins.github.io/complexity_theory_resources/)
+- [An Experimental Study of Sorting and Branch Prediction (2008)](https://paulbiggar.com/research/#jea-2008)
+- [Faster sorted array unions by reducing branches (2021)](https://lemire.me/blog/2021/07/14/faster-sorted-array-unions-by-reducing-branches/)

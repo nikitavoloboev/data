@@ -64,3 +64,4 @@
 - [Yatima](https://github.com/yatima-inc/yatima) - Programming language for the decentralized web. ([HN](https://news.ycombinator.com/item?id=27425941))
 - [Decentralized identity](https://github.com/dabit3/decentralized-identity) - Authentication system built with Ceramic & IDX.
 - [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [Data layout and schema agreement on Hypercore protocol (2021)](https://paulfrazee.medium.com/data-layout-and-schema-agreement-on-hypercore-protocol-9b84c2c4e38b)
