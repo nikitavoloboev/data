@@ -141,3 +141,4 @@ All active variables can be seen by running `env`.
 - [4 Useful fzf Tricks for Your Terminal (2021)](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)
 - [How to replace a string with sed in current and recursive subdirectories](https://victoria.dev/blog/how-to-replace-a-string-with-sed-in-current-and-recursive-subdirectories/)
 - [Gufo](https://github.com/Piervit/gufo) - Modern shell language.
+- [Warp](https://www.warp.dev/) - Fast, Rust-based terminal. ([HN](https://news.ycombinator.com/item?id=27835057))

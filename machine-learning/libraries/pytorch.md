@@ -259,3 +259,4 @@
 - [allRank](https://github.com/allegro/allRank) - Framework for training learning-to-rank neural models based on PyTorch.
 - [KD_Lib](https://github.com/SforAiDl/KD_Lib) - PyTorch library to easily facilitate knowledge distillation for custom deep learning models.
 - [PyTorch Sparse](https://github.com/rusty1s/pytorch_sparse) - PyTorch Extension Library of Optimized Autograd Sparse Matrix Operations.
+- [train-CLIP](https://github.com/Zasder3/train-CLIP) - PyTorch Lightning solution to training CLIP from both scratch and fine-tuning.
