@@ -139,3 +139,4 @@
 - [Clojure Transducers (2021)](https://joannecheng.me/2021/06/11/transducers.html)
 - [Data notation in Clojure (2021)](https://ostash.dev/posts/2021-06-24-edn-data-notation/) ([HN](https://news.ycombinator.com/item?id=27685875))
 - [REPL vs CLI: IDE wars (2021)](https://vlaaad.github.io/clj-vs-cli) ([HN](https://news.ycombinator.com/item?id=27698987))
+- [Projectless literate Clojure with embedded SVG](https://geokon-gh.github.io/literate-clojure.html)

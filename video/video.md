@@ -262,3 +262,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [tl;dv](https://tldv.io/) - Catch up on Google meetings in minutes.
 - [Rainway](https://rainway.com/) - Ultra-Low Latency Video Streaming.
 - [Learn How To Edit Stuff - YouTube](https://www.youtube.com/c/LearnHowToEditStuff/videos)
+- [Demystify video codecs by writing one in ~100 lines of Rust (2021)](https://blog.tempus-ex.com/hello-video-codec/)

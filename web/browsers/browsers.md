@@ -132,3 +132,4 @@
 - [WSCapture](https://github.com/depp/wscapture) - Capture Video from Browser over Web Sockets.
 - [Web browser specifications](https://github.com/w3c/browser-specs) - Machine-readable list of specifications used to build Web browsers.
 - [puppy](https://github.com/lmt-swallow/puppy-browser) - Example implementation of a tiny Web browser for educational purposes.
+- [The universal VM we call browser (2021)](https://cerebralab.com/The_universal_VM_we_call_browser) ([Lobsters](https://lobste.rs/s/x2zi43/universal_vm_we_call_browser))
