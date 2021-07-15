@@ -118,3 +118,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Redact](https://redact.dev/) - Mass Delete your Social Media. ([HN](https://news.ycombinator.com/item?id=27303347))
 - [How to build communities to build better products?](https://twitter.com/petergyang/status/1408800481049149447)
 - [BeReal](https://bere.al/en) - Your Friends. For Real.
+- [Status, Wealth, & Power: Network Effects Demand A New Social Contract (2021)](https://www.nfx.com/post/network-economy/)

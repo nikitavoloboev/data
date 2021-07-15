@@ -46,3 +46,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Слишком много переживаешь?](https://www.youtube.com/watch?v=FgNUX99qhP8)
 - [Unwind](https://unwind.to/) - Deep Breathing Exercises.
 - [How to get in touch with your emotions](https://gist.github.com/Gabriel439/cc76537f4f0f578958e54865b60558a8)
+- [Things I wish I had known when I started therapy (2021)](https://twitter.com/dremilyanhalt/status/1162054532899098624)

@@ -133,3 +133,4 @@
 - [Web browser specifications](https://github.com/w3c/browser-specs) - Machine-readable list of specifications used to build Web browsers.
 - [puppy](https://github.com/lmt-swallow/puppy-browser) - Example implementation of a tiny Web browser for educational purposes.
 - [The universal VM we call browser (2021)](https://cerebralab.com/The_universal_VM_we_call_browser) ([Lobsters](https://lobste.rs/s/x2zi43/universal_vm_we_call_browser))
+- [Apple, Facebook, and Google Broke the Mobile Browser Market (2021)](https://infrequently.org/2021/07/hobsons-browser/)
