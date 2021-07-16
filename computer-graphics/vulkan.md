@@ -44,3 +44,4 @@
 - [Learn Vulkan](https://learnvulkan.com/) - Education platform for the graphics programming API known as Vulkan.
 - [Vulkan Validation Layers](https://github.com/KhronosGroup/Vulkan-ValidationLayers)
 - [Zink: Running OpenGL on top of Vulkan - Interview with Mike Blumenkrantz (2021)](https://boilingsteam.com/zink-running-opengl-on-top-of-vulkan-interview-with-mike-blumenkrantz/)
+- [Different techniques for order-independent transparency in Vulkan](https://github.com/nvpro-samples/vk_order_independent_transparency)

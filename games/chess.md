@@ -113,3 +113,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [daochess](https://daochess.org/) - Testing governance mechanisms via chess.
 - [Chessgames.com](https://www.chessgames.com/index.html) - Chess Games Database & Community.
 - [Chess : My journey to 1800 (2021)](https://bharathi.xyz/chess/chess-1800.html)
+- [OTB Chess](https://otbchess.org/) - Place where people can find opponents to play Chess Over the Board.

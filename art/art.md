@@ -223,6 +223,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Mike Winkelmann](https://www.instagram.com/beeple_crap/)
 - [Steve Ruiz](https://steveruizart.com/archive)
 - [Jack Harvatt](https://www.instagram.com/harvatt.house/)
+- [Ivan Shishkin](https://www.wikiart.org/en/ivan-shishkin)
 
 ## Interesting art
 

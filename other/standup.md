@@ -7,9 +7,11 @@
 
 ## Funny
 
-- [Tinder as a woman](https://www.youtube.com/watch?app=desktop&v=7Fh52TgG_YE)
-- [Сергей Орлов - Про спортзалы](https://www.youtube.com/watch?v=KW9knOePgmU)
 - [Ваня Усович "ЕЩЕ ОДИН ДЕНЬ" 2020](https://www.youtube.com/watch?v=yh6NYuc9gC0)
+- [Сергей Орлов "АРТИСТ"](https://www.youtube.com/watch?v=uSdqkFAiJkQ&t=1s)
+- [Сергей Орлов - Про спортзалы](https://www.youtube.com/watch?v=KW9knOePgmU)
+- [Сергей Орлов - Генетическая провинция](https://www.youtube.com/watch?v=PW2riGJkjX4)
+- [Tinder as a woman](https://www.youtube.com/watch?app=desktop&v=7Fh52TgG_YE)
 
 ## Links
 

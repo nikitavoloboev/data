@@ -90,3 +90,4 @@
 
 - [Clojure Libraries](https://clojure.org/community/libraries)
 - [Clojars](https://clojars.org/) - Easy to use community repository for open source Clojure libraries.
+- [How-to: Clojure libraries on Maven Central (2021)](https://www.juxt.pro/blog/maven-central)

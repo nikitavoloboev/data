@@ -113,3 +113,4 @@
 - [meshname](https://github.com/zhoreeq/meshname) - Universal naming system for all IPv6-based mesh networks, including CJDNS and Yggdrasil.
 - [dn42](https://dn42.dev/Home) - Big dynamic VPN.
 - [Bulldohzer](https://github.com/commonshost/bulldohzer) - Performance measurement tool for DNS. It supports DNS-over-HTTPS (DoH) and DNS-over-UDP (Do53).
+- [(All) DNS Resource Records (2021)](https://www.netmeister.org/blog/dns-rrs.html) ([HN](https://news.ycombinator.com/item?id=27852601)) ([Tweet](https://twitter.com/jschauma/status/1415858462064533505))

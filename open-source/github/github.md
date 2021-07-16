@@ -235,3 +235,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Awesome GitHub Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ([Web](https://awesomegithubprofile.tech/))
 - [HN: GitHub confirmed using all public code for training copilot regardless license (2021)](https://news.ycombinator.com/item?id=27769440)
 - [org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization.
+- [MergeQueue](https://mergequeue.com/) - Automate your Github workflows. ([Docs](https://mergequeue.com/documentation)) ([HN](https://news.ycombinator.com/item?id=27858013))

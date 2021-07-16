@@ -70,3 +70,4 @@
 - [Copilot](https://github.com/Copilot-Language/copilot) - Stream-based runtime-verification framework for generating hard real-time C code.
 - [Software Foundations Lab](https://sf.snu.ac.kr/)
 - [Where are we going from here? Software engineering needs formal methods (2021)](https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/) ([HN](https://news.ycombinator.com/item?id=27724331))
+- [Extending Event-B with Discrete, Timing Properties (2012)](http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf)

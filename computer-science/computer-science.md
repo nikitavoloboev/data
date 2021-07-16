@@ -137,3 +137,4 @@
 - [Resources for Learning Computational Complexity Theory (2021)](https://bcmullins.github.io/complexity_theory_resources/)
 - [An Experimental Study of Sorting and Branch Prediction (2008)](https://paulbiggar.com/research/#jea-2008)
 - [Faster sorted array unions by reducing branches (2021)](https://lemire.me/blog/2021/07/14/faster-sorted-array-unions-by-reducing-branches/)
+- [Binary representation of the floating-point numbers (2021)](https://trekhleb.dev/blog/2021/binary-floating-point/)
