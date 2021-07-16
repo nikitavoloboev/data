@@ -70,3 +70,4 @@
 - [Ocypod](https://github.com/davechallis/ocypod) - Language-agnostic, Redis-backed job queue server with an HTTP interface and a focus on long running tasks.
 - [Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - Faster, better and more stable redis desktop manager.
 - [Write your own Redis in Ruby](https://rohitpaulk.com/articles/redis-0)
+- [Redis Geo Cache](https://github.com/fly-apps/redis-geo-cache) - Example Redis configuration that runs a primary Redis in one region and replicas in other regions.

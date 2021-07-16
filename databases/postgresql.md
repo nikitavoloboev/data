@@ -289,3 +289,4 @@
 - [Syncing Stripe to Postgres (2021)](https://blog.syncinc.so/stripe-sync-process)
 - [Sync Inc](https://syncinc.so/) - Replicate third-party APIs to Postgres. ([GitHub](https://github.com/syncinc-so))
 - [PostgreSQL: Limit vs. Fetch First Rows with Ties](https://www.cybertec-postgresql.com/en/postgresql-limit-vs-fetch-first-rows-with-ties/)
+- [High Availability Postgres on Fly](https://github.com/fly-apps/postgres-ha)

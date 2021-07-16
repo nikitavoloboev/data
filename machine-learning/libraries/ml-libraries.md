@@ -168,3 +168,4 @@
 - [voxelmorph](https://github.com/voxelmorph/voxelmorph) - Unsupervised Learning for Image Registration.
 - [uTensor](https://github.com/uTensor/uTensor) - TinyML AI inference library.
 - [Tangram](https://github.com/tangramxyz/tangram) - All-in-one automated machine learning framework. ([Web](https://www.tangram.xyz/))
+- [AdaptDL](https://github.com/petuum/adaptdl) - Resource-adaptive cluster scheduler for deep learning training.

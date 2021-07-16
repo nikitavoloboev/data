@@ -13,3 +13,4 @@
 - [OHIF Viewer](https://viewer.ohif.org/) - Open source in-browser DICOM viewer for medical CT scan.
 - [WHO List of Essential Medicines](https://list.essentialmeds.org/) ([HN](https://news.ycombinator.com/item?id=27136775))
 - [Hello Meds](https://hellocode.co/meds/) - Simple medication tracker that handles variable doses and dosage times.
+- [Open Source Insulin](https://openinsulin.org/) ([HN](https://news.ycombinator.com/item?id=27853739))
