@@ -494,7 +494,7 @@ Go promotes composition over inheritance.
 - [Go rules for Bazel](https://github.com/bazelbuild/rules_go)
 - [Go Error Handling Proposals](https://seankhliao.com/blog/12020-11-23-go-error-handling-proposals/) ([HN](https://news.ycombinator.com/item?id=27440504))
 - [Go 1.17 Beta (2021)](https://tip.golang.org/doc/go1.17) ([HN](https://news.ycombinator.com/item?id=27462884))
-- [Everyday Go Book (2021)](https://gumroad.com/l/everyday-golang) - Fast way to learn tools, techniques and patterns from real tools used in production.
+- [Everyday Go Book (2021)](https://gumroad.com/l/everyday-golang) - Fast way to learn tools, techniques and patterns from real tools used in production. ([Article](https://blog.alexellis.io/i-wrote-a-book-about-golang/))
 - [Go: Don’t just check errors, handle them gracefully (2016)](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
 - [Useful bootstrap checklist for Go Projects](https://boyter.org/posts/useful-bootstrap-for-go-projects/)
 - [Building a Hotwired web app with Go and Templ (2021)](https://adrianhesketh.com/2021/06/04/hotwired-go-with-templ/)

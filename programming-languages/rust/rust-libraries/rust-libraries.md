@@ -23,6 +23,7 @@
 - [conch-parser](https://github.com/ipetkov/conch-parser) - Rust library for parsing Unix shell commands.
 - [cli-table](https://github.com/devashishdxt/cli-table) - Rust crate for printing tables on command line.
 - [youchoose](https://github.com/nathom/youchoose) - Lightweight terminal menu for Rust.
+- [Lexopt](https://github.com/blyxxyz/lexopt) - Minimalist pedantic command line parser.
 
 ## Web
 
