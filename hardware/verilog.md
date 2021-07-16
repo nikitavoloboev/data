@@ -16,3 +16,4 @@
 - [Factorio Verilog Compiler](https://github.com/Redcrafter/verilog2factorio) - Compile Verilog (a hardware description language) into Factorio blueprints. ([HN](https://news.ycombinator.com/item?id=26929370))
 - [Clash](https://github.com/clash-lang/clash-compiler) - Haskell to VHDL/Verilog/SystemVerilog compiler. ([Web](https://clash-lang.org/))
 - [sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion.
+- [CXXRTL, a Yosys Simulation Backend (2020)](https://tomverbeure.github.io/2020/08/08/CXXRTL-the-New-Yosys-Simulation-Backend.html) ([Code](https://github.com/tomverbeure/cxxrtl_eval))
