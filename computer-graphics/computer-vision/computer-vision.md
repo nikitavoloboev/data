@@ -331,3 +331,4 @@
 - [Feature Visualization – How NNs understand images (2017)](https://distill.pub/2017/feature-visualization/)
 - [What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis (2019)](https://arxiv.org/abs/1904.01906) ([Code](https://github.com/clovaai/deep-text-recognition-benchmark))
 - [Convolutional Hough Matching Networks (2021)](https://arxiv.org/abs/2103.16831) ([Code](https://github.com/juhongm999/chm))
+- [Efficient Self-Supervised Vision Transformers (EsViT)](https://github.com/microsoft/esvit)

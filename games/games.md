@@ -203,3 +203,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Ask HN: What are some things you learnt from a game that changed your life? (2021)](https://news.ycombinator.com/item?id=27259095)
 - [The future of games is instant (2021)](https://twitter.com/Tocelot/status/1404914355670437889)
 - [Valve Steam Deck](https://www.steamdeck.com/en/) - All-in-one portable PC gaming. ([HN](https://news.ycombinator.com/item?id=27846969))
+- [Google for Games](https://games.withgoogle.com/) ([GitHub](https://github.com/googleforgames))

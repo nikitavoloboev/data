@@ -124,3 +124,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [How does a USB keyboard work? (2021)](https://www.youtube.com/watch?v=wdgULBpRoXk)
 - [Nice Keyboard Recs (2021)](https://twitter.com/dan_abramov/status/1402048600234995713)
 - [evremap](https://github.com/wez/evremap) - Keyboard input remapper for Linux/Wayland systems.
+- [Keebhunter](https://keebhunter.com/) - Find your perfect keyboard. ([Code](https://github.com/tuckerchapin/keebhunter))

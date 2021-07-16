@@ -888,6 +888,7 @@
 - [flatparse](https://github.com/AndrasKovacs/flatparse) - Fast parsing from bytestrings.
 - [Live Reload](https://github.com/porglezomp-misc/live-reloading-rs) - Live reloading for Rust programming.
 - [Iftree](https://github.com/evolutics/iftree) - Include many files in your Rust code for self-contained binaries.
+- [Ariadne](https://github.com/zesterer/ariadne) - Fancy error diagnostics & reporting crate.
 
 ## Cargo Plugins
 
