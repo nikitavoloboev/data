@@ -172,3 +172,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Grand Illusions: The Impact of Misperceptions About Russia on U.S. Policy (2021)](https://carnegieendowment.org/2021/06/30/grand-illusions-impact-of-misperceptions-about-russia-on-u.s.-policy-pub-84845)
 - [Russia and Eurasia Program - Carnegie Endowment for International Peace](https://carnegieendowment.org/programs/russia)
 - [How Yulia Navalnaya Became Russia’s Real First Lady (2021)](https://www.vanityfair.com/news/2021/07/how-yulia-navalnaya-became-russias-real-first-lady)
+- [hh.ru](https://hh.ru/) - Поиск работы и сотрудников в мире.

@@ -72,6 +72,7 @@
 - [Papers anyone teaching algorithms & data should include (2021)](https://twitter.com/XandaSchofield/status/1387513839449645056)
 - [The fastest and shortest algorithm for all well-defined problems (2002)](https://arxiv.org/abs/cs/0206022) ([HN](https://news.ycombinator.com/item?id=27274897))
 - [Reasonable Effectiveness of the Multiplicative Weights Update Algorithm (2017)](https://jeremykun.com/2017/02/27/the-reasonable-effectiveness-of-the-multiplicative-weights-update-algorithm/) ([HN](https://news.ycombinator.com/item?id=27728072))
+- [Algorithms for Cartographic Visualization (2012)](https://www.win.tue.nl/~kverbeek/PhDThesis.pdf)
 
 ## Images
 
