@@ -876,6 +876,7 @@
 - [Go Rules Engine](https://github.com/nikunjy/rules) - Helpful in situations where you have a generic rule and want to verify if your values (specified using `map[string]interface{}`) satisfy the rule.
 - [jsonparser](https://github.com/buger/jsonparser) - Alternative JSON parser for Go (10x times faster standard library).
 - [log](https://github.com/go-kit/log) - Minimal and extensible structured logger.
+- [Stealthpool](https://github.com/Link512/stealthpool) - Provides a memory pool that allocates blocks off-heap that will NOT be tracked by the garbage collector.
 
 ## Links
 
