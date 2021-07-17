@@ -18,3 +18,4 @@
 - [Chatty Goose](https://github.com/castorini/chatty-goose) - Python framework for conversational search.
 - [AWS Lex + AWS Lambda Example](https://github.com/Fallenstedt/aws-lex-lambda-example) - End goal is to communicate with an AWS Lex chatbot using HTTP.
 - [Juji](https://juji.io/) - Cognitive AI Chatbots. ([GitHub](https://github.com/juji-io))
+- [Blenderbot2](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet) - Open source chatbot that builds long-term memory and searches the internet.
