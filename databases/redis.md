@@ -71,3 +71,4 @@
 - [Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - Faster, better and more stable redis desktop manager.
 - [Write your own Redis in Ruby](https://rohitpaulk.com/articles/redis-0)
 - [Redis Geo Cache](https://github.com/fly-apps/redis-geo-cache) - Example Redis configuration that runs a primary Redis in one region and replicas in other regions.
+- [Last Mile Redis (2021)](https://fly.io/blog/last-mile-redis/) ([HN](https://news.ycombinator.com/item?id=27861510))
