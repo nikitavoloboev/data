@@ -277,3 +277,4 @@
 - [Dr Peyam - YouTube](https://www.myoutube.com/c/DrPeyam/playlists)
 - [Too simple to be simple](https://ncatlab.org/nlab/show/too+simple+to+be+simple)
 - [Poisson's Equation is the Most Powerful Tool not yet in your Toolbox (2021)](https://mattferraro.dev/posts/poissons-equation) ([HN](https://news.ycombinator.com/item?id=27748967))
+- [Three Months in Monte Carlo (2021)](http://bit-player.org/2021/three-months-in-monte-carlo) ([Lobsters](https://lobste.rs/s/bzmvn2/three_months_monte_carlo))
