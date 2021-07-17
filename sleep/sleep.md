@@ -42,3 +42,5 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [The Hidden Connection Between Sleep and Dementia (2021)](https://www.youtube.com/watch?v=76z4UPt-OME)
 - [Hydras suggest that sleep evolved before brains (2021)](https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/) ([HN](https://news.ycombinator.com/item?id=27195813))
 - [Ask HN: What's your sleeping setup(bed/pillows/sheets)? (2021)](https://news.ycombinator.com/item?id=27327050)
+- [Sleep Loss Can Cause Death through Accumulation of Reactive Oxygen Species in the Gut](<https://www.cell.com/cell/pdf/S0092-8674(20)30555-9.pdf>)
+- [Damage protection from long term stress and sleep deprivation (2021)](https://www.reddit.com/r/Nootropics/comments/ol66wo/damage_protection_from_long_term_stress_and_sleep/)

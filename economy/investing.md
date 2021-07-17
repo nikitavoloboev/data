@@ -196,3 +196,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [finance-go](https://github.com/piquette/finance-go) - Financial markets data library implemented in go.
 - [My "Investment Mindset"](https://blog.pragmaticengineer.com/the-investment-mindset/)
 - [Simple Portfolio](https://simpleportfolio.app/) - Stock Portfolio Tracking for Long-term Investors.
+- [Beginner looking for guide/books to understand Vanguard's ETF (2021)](https://www.reddit.com/r/eupersonalfinance/comments/old7e0/beginner_looking_for_guidebooks_to_understand/)

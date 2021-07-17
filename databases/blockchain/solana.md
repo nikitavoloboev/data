@@ -55,3 +55,5 @@
 - [Is Solana the Ethereum Killer? w/ Anatoly Yakovenko (2021)](https://www.youtube.com/watch?v=qYH6J4sE7hs)
 - [HN: Solana completes $314M private token sale (2021)](https://news.ycombinator.com/item?id=27496778)
 - [Where to stake SOL (2021)](https://www.reddit.com/r/solana/comments/oaauuh/where_to_stake_sol/)
+- [Shinobi Systems' Solana Proof of Stake + Proof of History Primer](https://www.shinobi-systems.com/primer.html) ([Reddit](https://www.reddit.com/r/solana/comments/olb116/solana_proof_of_stake_proof_of_history_explained/))
+- [Shinobi Systems](https://www.shinobi-systems.com/) - Has the best returns across all Solana validators with 0% commission and one of the best voting records.
