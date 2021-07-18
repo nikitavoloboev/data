@@ -116,3 +116,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Blocknative](https://www.blocknative.com/) - Blockchain events before they happen.
 - [Onboard.js](https://www.blocknative.com/onboard) - Easily support the top wallets. ([React Onboard.js Hook](https://github.com/talentlessguy/use-onboard))
 - [Dollar-Cost Averaging Explained (2021)](https://www.youtube.com/watch?v=hQinhrtPLQc)
+- [The State of DEXes (2021)](https://adlrocha.substack.com/p/adlrocha-the-state-of-dexes)

@@ -60,3 +60,4 @@
 - [SSH quoting (2021)](https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html) ([HN](https://news.ycombinator.com/item?id=27483077))
 - [ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files.
 - [SSH2-Promise](https://github.com/sanketbajoria/ssh2-promise) - Powerful promise wrapper around ssh2 client.
+- [ReverseSSH](https://github.com/Fahrj/reverse-ssh) - Lightweight SSH server behaving like a reverse shell.

@@ -21,3 +21,4 @@
 - [Data Observability Universe (2020)](https://metaplane.dev/data-observability)
 - [Observability: What it is and why you need it | Logging, Metrics & Alerts (2021)](https://elastisys.com/what-was-observability-again/)
 - [Metaplane](https://www.metaplane.dev/) - Observability for modern data stacks.
+- [Testing vs Observability: Which is right for your data quality needs? (2021)](https://medium.com/bigeye/testing-vs-observability-which-is-right-for-your-data-quality-needs-1ceb34a12867)

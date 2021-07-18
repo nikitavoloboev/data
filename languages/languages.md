@@ -32,3 +32,4 @@
 - [Mouse Dictionary](https://mouse-dictionary.netlify.app/en/) - Super fast dictionary for language learners as Chrome/Firefox extension. ([Code](https://github.com/wtetsu/mouse-dictionary))
 - [Fluent](https://www.fluent.co/) - Learn languages by browsing the web.
 - [What did ancient languages sound like? (2021)](https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/) ([HN](https://news.ycombinator.com/item?id=27721748))
+- [Language Learning Resources](https://yusuf.is/creating/language-learning-resources)

@@ -238,3 +238,4 @@ I publish most of my work and make it open source for other people to use and re
 - [MergeQueue](https://mergequeue.com/) - Automate your Github workflows. ([Docs](https://mergequeue.com/documentation)) ([HN](https://news.ycombinator.com/item?id=27858013))
 - [solar](https://github.com/gleich/solar) - Clone all your starred GitHub repos.
 - [GitHub Web IDE](https://github.com/zvizvi/GitHub-Web-IDE) - Open GitHub repositories in online web IDE.
+- [GitHub Copilot: First Impressions (2021)](https://vladiliescu.net/github-copilot-first-impressions/) ([HN](https://news.ycombinator.com/item?id=27872116))
