@@ -78,6 +78,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Pilcrow](https://github.com/zachwaugh/pilcrow) - Document editor for iOS.
 - [OldOS](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
 - [Home Assistant](https://github.com/home-assistant/iOS)
+- [StackOv](https://stackov.webflow.io/) - Open-source SwiftUI Stack Overflow client. ([Code](https://github.com/surfstudio/StackOv))
 
 ## Other
 

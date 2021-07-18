@@ -80,7 +80,8 @@
 - [Ask HN: What's the largest amount of bad code you have ever seen work? (2018)](https://news.ycombinator.com/item?id=18442637)
 - [HN: Please do not attempt to simplify this code (2018)](https://news.ycombinator.com/item?id=18772873)
 - [HN: Minimalism: Practical Guide to Writing Less Code (2018)](https://news.ycombinator.com/item?id=18830732)
-- [Software Engineering at Google (2017)](https://arxiv.org/abs/1702.01715) ([HN](https://news.ycombinator.com/item?id=18818412))
+- [Software Engineering at Google Paper (2017)](https://arxiv.org/abs/1702.01715) ([HN](https://news.ycombinator.com/item?id=18818412))
+- [Software Engineering at Google Book (2020)](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) ([Summary](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/))
 - [Professional Programming](https://github.com/charlax/professional-programming) - Collection of full-stack resources for programmers.
 - [Ask HN: What are must-know concepts for back end development? (2019)](https://news.ycombinator.com/item?id=18961793)
 - [HN: Advice to new programmers (2019)](https://news.ycombinator.com/item?id=19029206)

@@ -128,6 +128,7 @@
 - [SeaQuery](https://github.com/SeaQL/sea-query) - Database agnostic runtime query builder for Rust.
 - [DharmaDB](https://github.com/sushrut141/DharmaDB) - Persistent, fault tolerant key-value store written in Rust.
 - [typed-sql](https://github.com/matthunz/typed-sql) - Zero-cost ORM with fast compile times. ([Reddit](https://www.reddit.com/r/rust/comments/njbt9s/announcing_typedsql_beta_zerocost_orm_with_fast/))
+- [merk](https://github.com/nomic-io/merk) - High-performance Merkle key/value store.
 
 ## Graphics
 
