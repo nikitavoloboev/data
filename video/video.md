@@ -263,3 +263,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Rainway](https://rainway.com/) - Ultra-Low Latency Video Streaming.
 - [Learn How To Edit Stuff - YouTube](https://www.youtube.com/c/LearnHowToEditStuff/videos)
 - [Demystify video codecs by writing one in ~100 lines of Rust (2021)](https://blog.tempus-ex.com/hello-video-codec/)
+- [Piped](https://piped.kavin.rocks/) - Alternative privacy-friendly YouTube frontend which is efficient by design. ([Code](https://github.com/TeamPiped/Piped))

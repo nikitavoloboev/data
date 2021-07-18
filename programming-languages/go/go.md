@@ -509,3 +509,5 @@ Go promotes composition over inheritance.
 - [Benchmarks in Go can be surprising (2021)](https://leveluppp.ghost.io/benchmarks-in-go-can-be-surprising/) ([Reddit](https://www.reddit.com/r/golang/comments/oem1uo/benchmarks_in_go_can_be_surprising/))
 - [Copyfighter](https://github.com/jmhodges/copyfighter) - Statically analyzes Go code and reports functions that are passing large structs by value.
 - [Updating the Go Memory Model (2021)](https://research.swtch.com/gomm) ([HN](https://news.ycombinator.com/item?id=27810459))
+- [Marshaling Struct with Special Fields to JSON in Go (2021)](https://avi.im/blag/2021/golang-marshaling-special-fields/)
+- [Accessing PostgreSQL databases in Go (2021)](https://eli.thegreenplace.net/2021/accessing-postgresql-databases-in-go/) ([Lobsters](https://lobste.rs/s/4w9rta/accessing_postgresql_databases_go))

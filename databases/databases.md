@@ -379,3 +379,4 @@
 - [Our Airtable sync process, layer by layer (2021)](https://blog.syncinc.so/airtable-sync-process)
 - [Why are graph databases not more popular? (2021)](https://lobste.rs/s/pp5blh/why_are_graph_databases_not_more_popular)
 - [The Database Ruins All Good Ideas (2021)](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/) ([Lobsters](https://lobste.rs/s/nsrhor/database_ruins_all_good_ideas)) ([HN](https://news.ycombinator.com/item?id=27863822))
+- [Old pattern powering modern tech (2021)](https://softwarebits.substack.com/p/old-pattern-powering-modern-tech) - Or why modern storage is just a faster tape.

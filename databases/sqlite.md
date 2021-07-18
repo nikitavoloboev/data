@@ -91,3 +91,4 @@
 - [RSQLite](https://github.com/pmk21/rsqlite) - Simple SQLite clone written in Rust.
 - [Atomic Commit In SQLite](https://www.sqlite.org/atomiccommit.html) ([Lobsters](https://lobste.rs/s/ysri9z/atomic_commit_sqlite))
 - [Inserting One Billion Rows in SQLite Under A Minute (2021)](https://avi.im/blag/2021/fast-sqlite-inserts/)
+- [Detecting cycles in tag parent-child relationship in sqlite3](https://sic.nessuent.xyz/s/18/detecting-cycles-in-tag-parent-child-relationship-in-sqlite3/)

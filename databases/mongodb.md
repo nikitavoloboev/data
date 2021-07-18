@@ -13,3 +13,4 @@
 - [AMA with Mark Porter, CTO at MongoDB (2021)](https://www.reddit.com/r/IAmA/comments/l23dxl/i_am_mark_porter_cto_at_mongodb_i_love_tech_and/)
 - [Mongita](https://github.com/scottrogowski/mongita) - Mongita is to MongoDB as SQLite is to SQL. ([HN](https://news.ycombinator.com/item?id=26881915))
 - [Practical MongoDB Aggregations](https://www.practical-mongodb-aggregations.com/)
+- [I ended up adding duplicate records on a unique index in MongoDB (2021)](https://avi.im/blag/2021/mongo-dupes-in-unique-index/)
