@@ -378,4 +378,4 @@
 - [Scylla's Approach to Improve Performance for CPU-bound workloads (2017)](https://www.scylladb.com/2017/07/06/scyllas-approach-improve-performance-cpu-bound-workloads/)
 - [Our Airtable sync process, layer by layer (2021)](https://blog.syncinc.so/airtable-sync-process)
 - [Why are graph databases not more popular? (2021)](https://lobste.rs/s/pp5blh/why_are_graph_databases_not_more_popular)
-- [The Database Ruins All Good Ideas (2021)](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/) ([Lobsters](https://lobste.rs/s/nsrhor/database_ruins_all_good_ideas))
+- [The Database Ruins All Good Ideas (2021)](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/) ([Lobsters](https://lobste.rs/s/nsrhor/database_ruins_all_good_ideas)) ([HN](https://news.ycombinator.com/item?id=27863822))
