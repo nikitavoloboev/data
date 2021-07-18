@@ -877,6 +877,7 @@
 - [jsonparser](https://github.com/buger/jsonparser) - Alternative JSON parser for Go (10x times faster standard library).
 - [log](https://github.com/go-kit/log) - Minimal and extensible structured logger.
 - [Stealthpool](https://github.com/Link512/stealthpool) - Provides a memory pool that allocates blocks off-heap that will NOT be tracked by the garbage collector.
+- [koanf](https://github.com/knadh/koanf) - Light weight, extensible, configuration management library for Go.
 
 ## Links
 

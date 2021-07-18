@@ -62,3 +62,4 @@
 - [How to render outlines in WebGL (2021)](https://omar-shehata.medium.com/how-to-render-outlines-in-webgl-8253c14724f9) ([Code](https://github.com/OmarShehata/webgl-outlines))
 - [Real-Time Video Convolution using WebGL (2021)](https://magamig.github.io/posts/real-time-video-convolution-using-webgl/)
 - [Three Nebula](https://github.com/creativelifeform/three-nebula) - WebGL based 3D particle system engine for three. ([Web](https://three-nebula.org/))
+- [WebGL Lint](https://github.com/greggman/webgl-lint) - Checks your WebGL usage for common issues.
