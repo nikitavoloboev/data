@@ -43,3 +43,4 @@
 - [wscat](https://github.com/emulbreh/wscat) - curl for websockets.
 - [websockify](https://github.com/novnc/websockify) - WebSocket to TCP proxy/bridge.
 - [WebSockets vs. HTTP](https://ably.com/topic/websockets-vs-http)
+- [wscat](https://github.com/schollz/wscat) - cat things into a websocket server.

@@ -124,3 +124,4 @@
 - [xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers.
 - [Pumba](https://github.com/alexei-led/pumba) - Chaos testing command line tool for Docker containers.
 - [kool](https://github.com/kool-dev/kool) - Makes using Docker for local development easier, simpler, faster, and better. ([Web](https://kool.dev/))
+- [Ask HN: As a solo founder, what are the reasons NOT to use Docker? (2021)](https://news.ycombinator.com/item?id=27872642)
