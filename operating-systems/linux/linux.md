@@ -335,3 +335,4 @@
 - [Understanding thread stack sizes and how alpine is different (2021)](https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/)
 - [The 7 most used Linux namespaces (2021)](https://www.redhat.com/sysadmin/7-linux-namespaces)
 - [How To Add eBPF Observability To Your Product (2021)](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html) ([HN](https://news.ycombinator.com/item?id=27722947))
+- [CVE-2021-22555: Turning \x00\x00 into 10000$ (2021)](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html) ([HN](https://news.ycombinator.com/item?id=27842018))

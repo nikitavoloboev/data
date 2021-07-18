@@ -96,3 +96,4 @@ Learning to build [startups](startups/startups.md).
 - [Stripe Atlas: the first five years and 20k startups (2021)](https://stripe.com/blog/atlas-first-five-years) ([HN](https://news.ycombinator.com/item?id=27700804))
 - [Company of One: Why Staying Small Is the Next Big Thing for Business](https://www.indiebound.org/book/9780358213253)
 - [Ask HN: Anyone here built successful SaaS/startup just for money? (2021)](https://news.ycombinator.com/item?id=27853352)
+- [Google engineer who criticized company in viral comics on why he finally quit (2021)](https://mashable.com/article/google-engineer-manu-cornet-comics-critique) ([HN](https://news.ycombinator.com/item?id=27841963))
