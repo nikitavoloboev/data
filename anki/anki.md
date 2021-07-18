@@ -54,3 +54,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Omen Flashcards](https://omen.cards/) - Beautifully designed, habit-forming flashcards.
 - [Memo](https://github.com/olmps/memo) - Open-source, programming-oriented spaced repetition software (SRS) written in Flutter.
 - [21st Night](https://get21stnight.com/) - Anki alternative with integrated notes and import/export. ([HN](https://news.ycombinator.com/item?id=27662266))
+- [Taking Spaced Repetition Seriously (2021)](https://blog.jethro.dev/posts/taking_srs_seriously/)

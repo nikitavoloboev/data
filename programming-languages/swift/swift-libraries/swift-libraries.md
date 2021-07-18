@@ -352,6 +352,7 @@
 - [SqlKit](https://github.com/vapor/sql-kit) - Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
 - [SwiftDB](https://github.com/vmanot/SwiftDB) - Type-safe, SwiftUI-inspired wrapper around CoreData.
 - [Dflat](https://github.com/liuliu/dflat) - Structured Data Store for Mobile. SQLite ❤️ FlatBuffers. ([HN](https://news.ycombinator.com/item?id=26687871))
+- [RediStack](https://github.com/Mordil/RediStack) - Non-blocking Swift client for Redis built on top of SwiftNIO.
 
 ## Graphics
 

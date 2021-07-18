@@ -413,3 +413,4 @@
 - [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems) ([HN](https://news.ycombinator.com/item?id=24989351))
 - [Explaining Variable (2021)](https://blog.thepete.net/blog/2021/06/24/explaining-variable/)
 - [Two Wishes for Dev Tooling (2021)](https://macwright.com/2021/07/05/two-wishes-for-dev-tooling.html) ([HN](https://news.ycombinator.com/item?id=27805904))
+- [Software Transactional Memory: a stairway to lock-free programming heaven? (2021)](https://www.talhoffman.com/2021/03/22/software-transactional-memory/)

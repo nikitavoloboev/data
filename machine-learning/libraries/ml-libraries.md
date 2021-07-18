@@ -170,3 +170,4 @@
 - [Tangram](https://github.com/tangramxyz/tangram) - All-in-one automated machine learning framework. ([Web](https://www.tangram.xyz/))
 - [AdaptDL](https://github.com/petuum/adaptdl) - Resource-adaptive cluster scheduler for deep learning training.
 - [Triage](https://github.com/dssg/triage) - General Purpose Risk Modeling and Prediction Toolkit for Policy and Social Good Problems.
+- [Gorse](https://github.com/zhenghaoz/gorse) - Open source recommender system service written in Go. ([Web](https://gorse.io/)) ([HN](https://news.ycombinator.com/item?id=27866289))
