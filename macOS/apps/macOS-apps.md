@@ -142,6 +142,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Hera](https://hera.so/) - macOS app to prepare, join and take notes in meetings. ([HN](https://news.ycombinator.com/item?id=27771091))
 - [Mumu X](https://getmumu.com/) - Handy emoji picker on macOS, using GPT-3.
 - [Narrated](https://www.buildandshipapps.com/) - Screen Recordings That Include Your Camera.
+- [Monodraw](https://monodraw.helftone.com/) - Powerful ASCII art editor designed for the Mac.
 
 ## Links
 

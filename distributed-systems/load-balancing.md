@@ -30,3 +30,4 @@
 - [dhcplb](https://github.com/facebookincubator/dhcplb) - Facebook's implementation of a load balancer for DHCP.
 - [sidekick](https://github.com/minio/sidekick) - High Performance HTTP Sidecar Load Balancer.
 - [Load Balancing and Auto Scaling with Open Source HAProxy (2021)](https://blog.stefan-koch.name/2021/05/02/load-balancing-auto-scaling-open-source-haproxy)
+- [Rust and Load Balancers (2019)](https://bparli.medium.com/adventures-in-rust-and-load-balancers-73a0bc61a192)
