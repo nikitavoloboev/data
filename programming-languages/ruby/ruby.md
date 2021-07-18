@@ -76,3 +76,4 @@
 - [I Love Ruby](https://i-love-ruby.gitlab.io/) - Get started with the greatest programming language made for humans.
 - [Rhizome](https://github.com/chrisseaton/rhizome) - JIT for Ruby, implemented in pure Ruby. ([HN](https://news.ycombinator.com/item?id=27581257))
 - [Exceptional Ruby Book](https://store.avdi.codes/#NWtnk) - Definitive guide to exceptions and failure handling in Ruby.
+- [Fullstaq Ruby](https://fullstaqruby.org/) - Ruby, optimized for production. ([HN](https://news.ycombinator.com/item?id=27865776))

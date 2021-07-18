@@ -89,4 +89,4 @@
 - [The Untold Story of SQLite with Richard Hipp (2021)](https://corecursive.com/066-sqlite-with-richard-hipp/) ([HN](https://news.ycombinator.com/item?id=27718701))
 - [SQLite query inside a Bash function](https://news.ycombinator.com/item?id=27762201)
 - [RSQLite](https://github.com/pmk21/rsqlite) - Simple SQLite clone written in Rust.
-- [Atomic Commit In SQLite](https://www.sqlite.org/atomiccommit.html)
+- [Atomic Commit In SQLite](https://www.sqlite.org/atomiccommit.html) ([Lobsters](https://lobste.rs/s/ysri9z/atomic_commit_sqlite))

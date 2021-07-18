@@ -34,3 +34,4 @@
 - [If Microsoft Designed macOS (Concept)](https://www.youtube.com/watch?v=OtwHJwP-juo)
 - [Process Hacker](https://github.com/processhacker/processhacker) - Free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [Leaky Abstractions (2021)](https://textslashplain.com/2021/06/02/leaky-abstractions/) ([HN](https://news.ycombinator.com/item?id=27372292))
+- [Looking Glass](https://looking-glass.io/) - Run a Windows VM on Linux in a Window with Native Performance. ([HN](https://news.ycombinator.com/item?id=27870399))
