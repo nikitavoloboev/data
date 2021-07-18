@@ -110,6 +110,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Racing Game in ThreeJS](https://github.com/pmndrs/racing-game)
 - [Beyond All Reason](https://www.beyondallreason.info/) - Open source RTS game built on top of the Spring RTS Engine. ([Code](https://github.com/beyond-all-reason/Beyond-All-Reason))
 - [Oxid](https://github.com/dbandstra/oxid) - Arcade-style game that runs natively or in the browser. ([Web](https://dbandstra.github.io/oxid/))
+- [Some Tank Game](https://github.com/horup/some-tank-game-rs) - Action game written in Rust using the Bevy engine.
 
 ## Awesome games (other)
 

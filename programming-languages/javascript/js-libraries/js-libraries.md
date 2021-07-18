@@ -550,6 +550,7 @@
 - [JS Image Carver](https://github.com/trekhleb/js-image-carver) - Content-aware image resizer and object remover based on Seam Carving algorithm.
 - [Acorn-JSX](https://github.com/acornjs/acorn-jsx) - Alternative, faster React.js JSX parser.
 - [Tempura](https://github.com/lukeed/tempura) - Light, crispy, and delicious template engine.
+- [async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe) - Async cache with dedupe support.
 
 ## Links
 
