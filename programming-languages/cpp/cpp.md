@@ -226,3 +226,4 @@
 - [JSCPP](https://github.com/felixhao28/JSCPP) - Simple C++ interpreter written in JavaScript.
 - [Overflowing timeout (2021)](https://memgraph.com/blog/overflowing-timeout)
 - [Model Checking C++ Programs (2021)](https://arxiv.org/abs/2107.01093)
+- [Thriving in a Crowded and Changing World: C++ 2006–2020](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf) ([HN](https://news.ycombinator.com/item?id=27836379))

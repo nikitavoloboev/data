@@ -202,3 +202,4 @@
 - [Systemizer](https://github.com/honzaap/Systemizer) - Tool for designing complex distributed systems, allowing you to simulate data flow with customizable components. ([Web](https://honzaap.github.io/Systemizer/))
 - [Patterns of Distributed Systems: Follower Reads (2021)](https://martinfowler.com/articles/patterns-of-distributed-systems/follower-reads.html)
 - [Getting To Know Logical Clocks By Implementing Them (2021)](https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/)
+- [Reading Group. Paxos vs Raft: Have we reached consensus on distributed consensus? (2021)](http://charap.co/reading-group-paxos-vs-raft-have-we-reached-consensus-on-distributed-consensus/)

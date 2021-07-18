@@ -42,3 +42,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [What's a delicious and healthy meal from your country/culture that deserves more credit than it gets. (2021)](https://www.reddit.com/r/nutrition/comments/na150w/whats_a_delicious_and_healthy_meal_from_your/)
 - [Cookies Recipe](https://tilman.dev/blog/2021/02/click-here-to-accept-cookies/)
 - [Mushroom risotto with homemade mushroom stock](https://www.youtube.com/watch?v=rjQ65Lu1voU)
+- [Sauce Recipes That Will Transform Any Meal (2021)](https://www.nytimes.com/2021/07/12/dining/sauce-recipes-condiments-dressings-toppings.html)

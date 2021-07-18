@@ -57,3 +57,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [The Best Regex Trick (2014)](http://rexegg.com/regex-best-trick.html) ([HN](https://news.ycombinator.com/item?id=27774584))
 - [The Regular Expression Edition (2021)](https://whyisthisinteresting.substack.com/p/the-regular-expression-edition) - On code, early neural networks, and once discredited AI pioneers.
 - [REXS](https://github.com/uellenberg/REXS) - Language for writing regular expressions.
+- [Regex cheatsheet](https://remram44.github.io/regex-cheatsheet/regex.html) ([Code](https://github.com/remram44/regex-cheatsheet))

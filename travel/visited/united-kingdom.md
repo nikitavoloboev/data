@@ -33,3 +33,4 @@
 - [UK Salaries Range (2021)](https://www.reddit.com/r/UKPersonalFinance/comments/nj57ve/the_actual_reality_of_salaries_in_this_country/)
 - [Boris Johnson Knows Exactly What He’s Doing (2021)](https://www.theatlantic.com/magazine/archive/2021/07/boris-johnson-minister-of-chaos/619010/)
 - [Nice London day trip ideas](https://twitter.com/rachelnabors/status/1409969458886623234)
+- [The politics of lies: Boris Johnson and the erosion of the rule of law (2021)](https://www.newstatesman.com/politics/uk/2021/07/politics-lies-boris-johnson-and-erosion-rule-law)
