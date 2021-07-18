@@ -341,7 +341,7 @@
 - [fit-curve](https://github.com/soswow/fit-curve) - JavaScript implementation of Philip J. Schneider's "Algorithm for Automatically Fitting Digitized Curves" from the book "Graphics Gems".
 - [clean-deep](https://github.com/nunofgs/clean-deep) - Remove falsy, empty or nullable values from objects.
 - [regular-table](https://github.com/jpmorganchase/regular-table) - Regular <table> library, for async and virtual data models.
-- [Stimulus](https://github.com/hotwired/stimulus) - Modest JavaScript framework for the HTML you already have. ([Web](https://stimulus.hotwire.dev/))
+- [Stimulus](https://github.com/hotwired/stimulus) - Modest JavaScript framework for the HTML you already have. ([Web](https://stimulus.hotwire.dev/)) ([Awesome](https://github.com/skatkov/awesome-stimulusjs))
 - [bigpicture.js](https://github.com/josephernest/bigpicture.js/) - Library that allows infinite panning and infinite zooming in HTML pages. ([Web](https://josephernest.github.io/bigpicture.js/index.html))
 - [Tragopan](https://github.com/team-video/tragopan) - Minimal dependency-free pan/zoom library. ([HN](https://news.ycombinator.com/item?id=23579102))
 - [Deakins](https://github.com/terkelg/deakins) - Small Canvas 2D Camera.

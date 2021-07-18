@@ -87,3 +87,5 @@
 - [Django for Startup Founders: A better software architecture for SaaS startups (2021)](https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html) ([HN](https://news.ycombinator.com/item?id=27605052))
 - [One Database Transaction Too Many (2021)](https://hakibenita.com/django-nested-transaction)
 - [Modeltranslation](https://github.com/deschler/django-modeltranslation) - Translates Django models using a registration approach.
+- [Django Packages](https://djangopackages.org/) - Reusable apps, sites and tools directory.
+- [Building MVPs fast on Django (2021)](https://davidkell.substack.com/p/davids-opinionated-guide-for-building)
