@@ -242,3 +242,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Master copywriting (2021)](https://twitter.com/alexgarcia_atx/status/1405155705477156866)
 - [The Document Culture of Amazon (2021)](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) ([HN](https://news.ycombinator.com/item?id=27545331))
 - [Words & phrases you can almost always cut from your UX copy](https://twitter.com/thedeskmagazine/status/1395385346662322176)
+- [4 different ways to make money by writing articles (2021)](https://twitter.com/sunilc_/status/1416648948765270022)

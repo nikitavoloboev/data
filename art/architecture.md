@@ -58,3 +58,4 @@
 - [Envelope](https://envelopead.com/) - Idea-driven architecture and activations studio.
 - [Ugly or Beautiful? The Housing Blocks Communism Left Behind](https://www.wired.com/story/communist-housing-blocks-gallery/) ([Tweet](https://twitter.com/WIRED/status/1378918910112727042))
 - [SHED Architecture & Design](https://www.shedbuilt.com/) - Seattle Modern Architects.
+- [Structurae: Structures and Projects Database](https://structurae.net/en/structures/)

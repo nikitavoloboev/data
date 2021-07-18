@@ -126,3 +126,4 @@
 - [SQL Join Types Explained in Visuals (2021)](https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/) ([HN](https://news.ycombinator.com/item?id=27760154))
 - [Against SQL (2021)](https://scattered-thoughts.net/writing/against-sql/) ([HN](https://news.ycombinator.com/item?id=27791539)) ([Lobsters](https://lobste.rs/s/jxeg1b/against_sql))
 - [SQLBolt](https://sqlbolt.com/) - Interactive lessons and exercises to learn SQL. ([HN](https://news.ycombinator.com/item?id=27842067))
+- [Load CSV files and write SQL](https://superintendent.app/) ([HN](https://news.ycombinator.com/item?id=27871574))

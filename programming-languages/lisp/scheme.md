@@ -48,3 +48,4 @@
 - [Using Scheme to Find the Median of Two Sorted Integer Lists (2021)](https://www.erichgrunewald.com/posts/using-scheme-to-find-the-median-of-two-sorted-integer-lists/) ([HN](https://news.ycombinator.com/item?id=27403666))
 - [The Seasoned Schemer Book](https://mitpress.mit.edu/books/seasoned-schemer-second-edition) ([Code](https://github.com/pkrumins/the-seasoned-schemer))
 - [Thoughts on Racket & Chez Scheme](https://beautifulracket.com/appendix/racket-and-chez-scheme.html) ([Lobsters](https://lobste.rs/s/rtfpg6/thoughts_on_racket_chez_scheme))
+- [LispPad](http://lisppad.objecthub.net/) - Lightweight Scheme IDE on macOS and iOS.

@@ -112,3 +112,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [So you want to build a carbon capture company (2021)](https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/) ([HN](https://news.ycombinator.com/item?id=27034988))
 - [David Wallace-Wells, climate alarmist and the author of The Uninhabitable Earth: Life After Warming AMA (2021)](https://www.reddit.com/r/collapse/comments/nd0ub6/im_david_wallacewells_climate_alarmist_and_the/)
 - [How to Kick-Start the Carbon Removal Market: Shopify’s Playbook (2021)](https://cdn.shopify.com/static/sustainability/How-to-Kick-Start-the-Carbon-Removal-Market_Shopifys-Playbook.pdf)
+- ['No One Is Safe': How the Heatwave Has Battered the Wealthy World (2021)](https://www.nytimes.com/2021/07/17/climate/heatwave-weather-hot.html) ([HN](https://news.ycombinator.com/item?id=27871261))

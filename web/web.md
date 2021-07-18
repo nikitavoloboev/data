@@ -284,3 +284,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Remote code execution in cdnjs of Cloudflare (2021)](https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/) ([HN](https://news.ycombinator.com/item?id=27853434))
 - [StaticShield](https://github.com/Lalit2005/staticshield) - Easiest way to password protect your static and dynamic sites. ([Web](https://staticshield.vercel.app/))
 - [URLs: It's complicated (2021)](https://www.netmeister.org/blog/urls.html) ([HN](https://news.ycombinator.com/item?id=27588306))
+- [The Future Of The Web (2021)](https://www.hazem.cool/blog/the-future-of-the-web)
