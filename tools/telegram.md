@@ -35,6 +35,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Frankenstein](https://github.com/ayrat555/frankenstein) - Telegram bot API client for Rust.
 - [Telegram Test API](https://github.com/jehy/telegram-test-api) - Implementation of telegram API which can be used for testing telegram bots.
 - [tgfancy](https://github.com/GochoMugo/tgfancy) - Fancy, Higher-Level Wrapper for Telegram Bot API.
+- [botapi](https://github.com/gotd/botapi) - Telegram Bot API server in Go.
 
 ## Bots
 

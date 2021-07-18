@@ -181,3 +181,4 @@
 - [WebAssembly for Proxies (Go SDK)](https://github.com/tetratelabs/proxy-wasm-go-sdk)
 - [Extend your Go app with embedded WebAssembly functions in WasmEdge (2021)](https://www.secondstate.io/articles/extend-golang-app-with-webassembly-rust/)
 - [WebAssembly from Scratch: From FizzBuzz to DooM](https://github.com/diekmann/wasm-fizzbuzz) ([HN](https://news.ycombinator.com/item?id=27832115))
+- [WasmEdge for Go Package](https://github.com/second-state/WasmEdge-go)

@@ -237,3 +237,4 @@ I publish most of my work and make it open source for other people to use and re
 - [org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization.
 - [MergeQueue](https://mergequeue.com/) - Automate your Github workflows. ([Docs](https://mergequeue.com/documentation)) ([HN](https://news.ycombinator.com/item?id=27858013))
 - [solar](https://github.com/gleich/solar) - Clone all your starred GitHub repos.
+- [GitHub Web IDE](https://github.com/zvizvi/GitHub-Web-IDE) - Open GitHub repositories in online web IDE.

@@ -25,3 +25,4 @@
 - [Are We There Yet? The Query Your Database Can't Answer (2021)](https://www.confluent.io/blog/ksqldb-streaming-sql-the-query-your-database-cant-answer/)
 - [Apache Heron](https://heron.incubator.apache.org/) - Real time, distributed, fault-tolerant stream processing engine. ([Code](https://github.com/apache/incubator-heron))
 - [The Art of the Meta Stream Protocol: Torrents of Streams](https://programming-journal.org/2022/6/2/)
+- [rlink-rs](https://github.com/rlink-rs/rlink-rs) - High-performance Stream Processing Framework. An alternative to Apache Flink.

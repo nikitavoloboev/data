@@ -247,3 +247,4 @@
 - [Fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy. Web framework that lets you build projects very fast, highly dynamic, and without the need of a build step.
 - [Headless React](https://acko.net/blog/live-headless-react/) ([HN](https://news.ycombinator.com/item?id=27750864))
 - [React without webpack: fast path to a working app from scratch (2021)](https://datastation.multiprocess.io/blog/2021-07-08-react-without-webpack.html)
+- [Mini React implementation made for fun and practice](https://github.com/tchayen/remini)

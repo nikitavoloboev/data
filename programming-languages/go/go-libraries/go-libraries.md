@@ -878,6 +878,7 @@
 - [log](https://github.com/go-kit/log) - Minimal and extensible structured logger.
 - [Stealthpool](https://github.com/Link512/stealthpool) - Provides a memory pool that allocates blocks off-heap that will NOT be tracked by the garbage collector.
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible, configuration management library for Go.
+- [Puddle](https://github.com/jackc/puddle) - Tiny generic resource pool library for Go that uses the standard context library to signal cancellation of acquires.
 
 ## Links
 

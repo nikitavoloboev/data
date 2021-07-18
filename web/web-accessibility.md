@@ -66,3 +66,4 @@
 - [Using CSS to Enforce Accessibility (2021)](https://adrianroselli.com/2021/06/using-css-to-enforce-accessibility.html)
 - [Доступность в дизайне (2021)](https://teletype.in/@romanshamin/a11y-for-designers)
 - [Access Guide](https://accessguide.io/) - Friendly introduction to digital accessibility.
+- [Accessible Rich Internet Applications (WAI-ARIA)](https://w3c.github.io/aria/) ([Code](https://github.com/w3c/aria))
