@@ -64,3 +64,4 @@
 - [Quest to the OS: Java Native Memory (2021)](https://blog.picnic.nl/quest-to-the-os-java-native-memory-5d3ef68ffc0a) ([Lobsters](https://lobste.rs/s/9ne763/quest_os_java_native_memory))
 - [Networking I/O with Virtual Threads – Under the hood (2021)](https://inside.java/2021/05/10/networking-io-with-virtual-threads/) ([HN](https://news.ycombinator.com/item?id=27744826))
 - [GraalVM at Facebook (2021)](https://medium.com/graalvm/graalvm-at-facebook-af09338ac519) ([HN](https://news.ycombinator.com/item?id=27782475))
+- [Thread Pools on the JVM](https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c)

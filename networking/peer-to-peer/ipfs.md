@@ -63,3 +63,4 @@ I especially like the distinction of distributing content over distributing link
 - [Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS (2021)](https://pawelurbanek.com/ipfs-ethereum-blog) ([HN](https://news.ycombinator.com/item?id=27673223))
 - [ipfs-embed](https://github.com/ipfs-rust/ipfs-embed) - Small, fast and reliable ipfs implementation designed for embedding in to complex p2p applications.
 - [ipcs](https://github.com/hinshun/ipcs) - Containerd meets IPFS. Peer-to-peer distribution of content blobs.
+- [Nebulus](https://nebulus.dev/) - IPFS-Less IPFS.
