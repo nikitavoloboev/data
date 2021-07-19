@@ -57,3 +57,4 @@
 - [AudioCLIP: Extending CLIP to Image, Text and Audio (2021)](https://arxiv.org/abs/2106.13043) ([Code](https://github.com/AndreyGuzhov/AudioCLIP))
 - [Wav2vec: Semi and Unsupervised Speech Recognition](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition) ([HN](https://news.ycombinator.com/item?id=27722333))
 - [WeNet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit. ([Docs](https://wenet-e2e.github.io/wenet/))
+- [Why Hasn’t the iPhone Moment Happened Yet for Voice UIs (2021)](https://www.speechly.com/blog/real-time-voice-user-interfaces/)
