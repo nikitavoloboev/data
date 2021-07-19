@@ -24,6 +24,7 @@
 - [GoboLinux](https://www.gobolinux.org/) - Alternative Linux distribution which redefines the entire filesystem hierarchy. ([HN](https://news.ycombinator.com/item?id=26002251))
 - [Garuda Linux](https://garudalinux.org/) ([HN](https://news.ycombinator.com/item?id=26001738))
 - [Chimera Linux](https://chimera-linux.org/) - Linux distribution based on FreeBSD userland and LLVM. ([HN](https://news.ycombinator.com/item?id=27721283))
+- [CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances.
 
 ## WM
 
