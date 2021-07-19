@@ -13,3 +13,4 @@
 - [WebKit Explainers](https://github.com/WebKit/explainers) - Explainers from WebKit contributors.
 - [WebKit Code](https://github.com/WebKit/WebKit)
 - [WebXR landing in WebKit (2021)](https://blogs.igalia.com/ifernandez/2021/01/webxr-webkit/)
+- [Things I Learned Reading Webkit’s UA Stylesheet (2021)](https://blog.jim-nielsen.com/2021/things-i-learned-reading-webkits-ua-stylesheet/) ([HN](https://news.ycombinator.com/item?id=27883675))
