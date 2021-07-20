@@ -26,3 +26,4 @@
 - [Fitting a Forth in 512 Bytes (2021)](https://niedzejkob.p4.team/bootstrap/miniforth/) ([HN](https://news.ycombinator.com/item?id=27477599))
 - [No branches? No problem — a Forth assembler (2021)](https://niedzejkob.p4.team/bootstrap/branches/)
 - [Building a tiny FORTH for an Arduino UNO in one week (2021)](https://www.thanassis.space/miniforth.html) ([Code](https://github.com/ttsiodras/MiniForth))
+- [Forth memory model](https://side-effects.neocities.org/technology/memory-model.html)

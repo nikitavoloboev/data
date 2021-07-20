@@ -84,3 +84,4 @@
 - [geoplot](https://github.com/ResidentMario/geoplot) - High-level Python geospatial plotting library.
 - [Turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. ([Code](https://github.com/Turfjs/turf))
 - [Using Client-Side Map Data to Improve Real-Time Positioning (2021)](https://eng.lyft.com/using-client-side-map-data-to-improve-real-time-positioning-a382585ac6e)
+- [Maps with Django: GeoDjango, PostGIS and Leaflet (2021)](https://www.paulox.net/2021/07/19/maps-with-django-part-2-geodjango-postgis-and-leaflet/)

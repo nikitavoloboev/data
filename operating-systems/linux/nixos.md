@@ -137,3 +137,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Nixkite](https://github.com/input-output-hk/nixkite) - Buildkite pipeline generation tool using the NixOS module system.
 - [HN: NixOS-unstable’s ISO_minimal.x86_64-Linux is 100% reproducible (2021)](https://news.ycombinator.com/item?id=27573393)
 - [MicroVM.nix](https://github.com/astro/microvm.nix) - Nix Flake to build NixOS and run it on one of several Type-2 Hypervisors.
+- [Paranoid NixOS Setup (2021)](https://christine.website/blog/paranoid-nixos-2021-07-18) ([Lobsters](https://lobste.rs/s/dn4jss/paranoid_nixos_setup))
