@@ -96,3 +96,4 @@
 - [Recruiting during hyperscale from the guy who did it at DoorDash and Carta (2021)](https://twitter.com/NolanChurch/status/1407465682262839297)
 - [How we hire engineers](https://engineering.outschool.com/posts/how-we-hire-engineers/)
 - [Gitlab Employment Solutions](https://about.gitlab.com/handbook/people-group/employment-solutions/)
+- [Hiring, firing and retiring - Fathom Analytics (2021)](https://usefathom.com/above-board/hiring-firing-retiring)
