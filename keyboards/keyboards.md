@@ -6,6 +6,7 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 
 ## Interesting keyboards
 
+- [Keychron K7](https://www.kickstarter.com/projects/keytron/keychron-k7-an-ultra-slim-65-wireless-mechanical-keyboard) - Ultra-Slim 65% Wireless Mechanical Keyboard:q.
 - [Keyboardio](https://shop.keyboard.io)
 - [42](https://github.com/nglgzz/42) - Custom keyboard built by [Angelo](https://github.com/nglgzz).
 - [Preonic](https://olkb.com/preonic/hi-pro-wooden-milled-bottom) - Beautiful keyboard.
