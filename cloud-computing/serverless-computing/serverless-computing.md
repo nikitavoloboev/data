@@ -107,3 +107,4 @@
 - [Netlify Lambda](https://github.com/netlify/netlify-lambda) - Optional tool that helps with building or locally developing Netlify Functions with a simple webpack/babel build step.
 - [Designing Our Serverless Engine: From Kubernetes to Nomad, Firecracker, and Kuma (2021)](https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma)
 - [Serverless Step Functions](https://github.com/serverless-operations/serverless-step-functions) - Serverless Framework plugin for AWS Step Functions.
+- [A Serverless Event Collector (2021)](https://www.ethanrosenthal.com/2021/07/20/serverless-event-collector/)

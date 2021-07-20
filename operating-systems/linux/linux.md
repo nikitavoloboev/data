@@ -338,3 +338,4 @@
 - [How To Add eBPF Observability To Your Product (2021)](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html) ([HN](https://news.ycombinator.com/item?id=27722947))
 - [CVE-2021-22555: Turning \x00\x00 into 10000$ (2021)](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html) ([HN](https://news.ycombinator.com/item?id=27842018))
 - [Introduction to CRIU and Live migration (2020)](https://www.talhoffman.com/2020/10/07/introduction-to-criu-and-live-migration/)
+- [Jumping into journald (2021)](https://artem.ist/blog/2021/06/29/jumping-into-journald.html)

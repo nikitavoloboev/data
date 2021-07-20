@@ -42,7 +42,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [The Eternal Jukebox](https://eternalbox.dev/jukebox_index.html) - Lets you search a song on Spotify and will then generate a never-ending and ever changing version of the song.
 - [Your favorite ambient music producer at the moment? (2020)](https://www.reddit.com/r/ambientmusic/comments/gwqd29/your_favorite_ambient_music_producer_at_the_moment/)
 - [TOPLAP](https://toplap.org/) - Home of live coding.
-- [Radio Garden](http://radio.garden/) ([HN](https://news.ycombinator.com/item?id=23477771))
+- [Radio Garden](http://radio.garden/) - Explore live radio by rotating the globe. ([HN](https://news.ycombinator.com/item?id=23477771))
 - [The Mathematics of Music](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf) ([HN](https://news.ycombinator.com/item?id=23486452))
 - [Music: a Mathematical Offering](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
 - [Dynamic music for video creators](https://www.moodelizer.com/studio/music-for-video)

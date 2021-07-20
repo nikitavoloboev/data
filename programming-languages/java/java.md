@@ -65,3 +65,4 @@
 - [Networking I/O with Virtual Threads – Under the hood (2021)](https://inside.java/2021/05/10/networking-io-with-virtual-threads/) ([HN](https://news.ycombinator.com/item?id=27744826))
 - [GraalVM at Facebook (2021)](https://medium.com/graalvm/graalvm-at-facebook-af09338ac519) ([HN](https://news.ycombinator.com/item?id=27782475))
 - [Thread Pools on the JVM](https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c) ([HN](https://news.ycombinator.com/item?id=27883847))
+- [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
