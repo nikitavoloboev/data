@@ -133,3 +133,4 @@
 - [Learners](https://learn.rs/) - Learn fast with peer to peer community mentoring.
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) ([HN](https://news.ycombinator.com/item?id=27882895))
 - [Primer](https://primerlabs.io/) - Conversational Courses to learn on your own. ([HN](https://news.ycombinator.com/item?id=27884189))
+- [What Everyone in Tech Should Know About Teaching and Learning (2021)](https://www.youtube.com/watch?v=ewXvFQByRqY)
