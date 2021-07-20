@@ -255,3 +255,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [mev-inspect-py](https://github.com/flashbots/mev-inspect-py) - Script which "inspects" an Ethereum block, or range of blocks, and tries to identify and analyze transactions which extract MEV.
 - [useDapp](https://github.com/EthWorks/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable. ([Web](https://usedapp.io/))
 - [Uniswap on Optimism Launch (2021)](https://uniswap.org/blog/uniswap-optimism-alpha/) ([Tweet](https://twitter.com/Uniswap/status/1415032688440926210))
+- [MEV Resources](https://github.com/0xalpharush/awesome-MEV-resources) - Get up to speed on Maximum Extractable Value.

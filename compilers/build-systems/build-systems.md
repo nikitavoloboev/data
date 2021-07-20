@@ -69,3 +69,4 @@
 - [Compilation Database Generator](https://github.com/nickdiego/compiledb) - Tool for generating Clang's JSON Compilation Database files for make-based build systems.
 - [hlb](https://github.com/openllb/hlb) - Developer-first language to build and test any software efficiently.
 - [Gradle](https://github.com/gradle/gradle) - Build tool with a focus on build automation and support for multi-language development. ([Web](https://gradle.org/))
+- [Using Earthly To Build Replay](https://dmiller.dev/blog/using-earthly-to-build-replay)

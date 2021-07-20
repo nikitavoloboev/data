@@ -222,3 +222,4 @@
 - [Designing a URL-based query syntax for GraphQL (2021)](https://blog.logrocket.com/designing-url-based-query-syntax-graphql/) ([HN](https://news.ycombinator.com/item?id=27547337))
 - [Data Loaders (2021)](https://bartoszsypytkowski.com/data-loaders/)
 - [graphql-typescript-integration](https://github.com/arcanis/graphql-typescript-integration) - Automatically generates TypeScript definitions for your GraphQL queries and injects the plumbing required to make the gql queries work at runtime.
+- [graphitation](https://github.com/microsoft/graphitation) - GraphQL tooling & runtime support needed for MS Teams and beyond.

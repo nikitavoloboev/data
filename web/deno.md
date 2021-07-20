@@ -111,3 +111,6 @@
 - [Sift](https://github.com/satyarohith/sift) - Routing and utility library for Deno Deploy.
 - [Packup](https://github.com/kt3k/packup) - Zero-config web application packager in Deno. ([Docs](https://packup.deno.dev/))
 - [dlink](https://github.com/keroxp/dlink) - Deno module linker.
+- [esbuild_deno_loader](https://github.com/lucacasonato/esbuild_deno_loader) - Deno module resolution for esbuild.
+- [deno doc](https://doc.deno.land/) ([Code](https://github.com/denoland/doc_website))
+- [deno_s3](https://github.com/lucacasonato/deno_s3) - Amazon S3 for Deno.

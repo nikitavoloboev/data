@@ -127,7 +127,7 @@
 - [Internet Search Tips](https://www.gwern.net/Search) - Description of advanced tips and tricks for effective Internet research of papers/books.
 - [Get better at Googling (2021)](https://markodenic.com/use-google-like-a-pro/) ([HN](https://news.ycombinator.com/item?id=26911629))
 - [Metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more.
-- [Quickwit](https://github.com/quickwit-inc/quickwit) - Big data search engine. ([Web](https://quickwit.io/))
+- [Quickwit](https://github.com/quickwit-inc/quickwit) - Big data search engine. ([Web](https://quickwit.io/)) ([0.1 release](https://quickwit.io/blog/quickwit-first-release/))
 - [How image search works at Dropbox (2021)](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox) ([HN](https://news.ycombinator.com/item?id=27127403))
 - [Billion-Scale Approximate Nearest Neighbor Search (2020)](https://www.youtube.com/watch?v=SKrHs03i08Q)
 - [Recommendations and Results Organization in Netflix Search (2021)](https://arxiv.org/abs/2105.14134)

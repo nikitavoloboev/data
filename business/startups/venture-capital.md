@@ -119,3 +119,4 @@
 - [200+ Resources for Breaking into VC (2021)](https://gumroad.com/l/VC-resources)
 - [AngelList Venture](https://learn.angellist.com/) - Venture Education Center.
 - [Hyper](https://hyper.com/) - Early-stage venture firm inspired by the awesome community of makers and early adopters at Product Hunt. ([Article](https://www.producthunt.com/stories/product-hunt-meet-hyper))
+- [Unshackled Ventures](https://www.unshackledvc.com/) - Venture Fund for Immigrant Entrepreneurs.

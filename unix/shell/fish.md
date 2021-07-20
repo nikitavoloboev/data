@@ -14,3 +14,4 @@
 - [Why I migrated to the Fish Shell (2020)](https://caarlos0.dev/posts/fish/)
 - [lucid.fish](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance fish prompt.
 - [Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) - Of recipes to solve specific programming problems using the fish-shell.
+- [Fish Posters of the World](http://www.fishposters.com/)
