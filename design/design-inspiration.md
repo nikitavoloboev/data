@@ -407,6 +407,7 @@ Here are few more things I liked, design wise.
 - [Ahmed Gabri](https://gabri.me/)
 - [Fabio Cevasco](https://h3rald.com/) ([Code](https://github.com/h3rald/h3rald))
 - [Lauren Tan](https://www.no.lol/)
+- [Antoine Ordonez](https://shellbear.me/) ([Code](https://github.com/shellbear/shellbear.me))
 - [Steve Ruiz](https://steveruiz.me/) ([Code](https://github.com/steveruizok/personal-blog))
 - [Tinnei](https://tinnei.today/index.html)
 - [Stéphanie Walter](https://stephaniewalter.design/)

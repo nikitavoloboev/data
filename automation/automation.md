@@ -29,6 +29,7 @@
 - [What is a seemingly basic task that, when automated, will actually be a huge milestone? (2021)](https://www.reddit.com/r/Automate/comments/nugo1q/what_is_a_seemingly_basic_task_that_when/)
 - [Reflective](https://reflective.co/) - Automate without losing the human touch.
 - [Inside Arrival's Revolutionary Microfactory (2021)](https://www.youtube.com/watch?v=mZCrd704g20)
+- [Why Tesla Needed The Giga Press (2021)](https://www.youtube.com/watch?v=qJDSOwf9hpw)
 
 ## Images
 

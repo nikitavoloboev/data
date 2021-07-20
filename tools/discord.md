@@ -13,6 +13,7 @@
 - [Bulbbot](https://github.com/TeamBulbbot/bulbbot) - Discord Moderation bot.
 - [Discord-Rose](https://github.com/discord-rose/discord-rose) - Simple Discord library for advanced users.
 - [discordcaptcha](https://github.com/y21/discordcaptcha) - Verification bot for Discord.
+- [web-watcher](https://github.com/shellbear/web-watcher) - Discord bot which monitor and send alerts on website changes. ([Docs](https://shellbear.github.io/web-watcher/))
 
 ## Libraries
 

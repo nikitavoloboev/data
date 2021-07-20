@@ -515,3 +515,4 @@
 - [Awesome Graph Self-Supervised Learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning)
 - [Contrastive Representation Learning (2021)](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html) ([HN](https://news.ycombinator.com/item?id=27812862))
 - [Learn Machine Learning Resources](https://machinelearning.to/)
+- [Popular Machine Learning Interview Questions (2021)](https://www.thinkdataanalytics.com/machine-learning-interview-questions/)
