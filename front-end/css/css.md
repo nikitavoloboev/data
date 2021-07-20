@@ -1,5 +1,9 @@
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+## Nice templates
+
+- [Stripe Homepage Website Made with Tailwind CSS](https://codepen.io/andreyazimov/pen/abWWeKp)
+
 ## Notes
 
 - ID's are unique.
