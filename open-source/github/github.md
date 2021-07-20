@@ -239,3 +239,4 @@ I publish most of my work and make it open source for other people to use and re
 - [solar](https://github.com/gleich/solar) - Clone all your starred GitHub repos.
 - [GitHub Web IDE](https://github.com/zvizvi/GitHub-Web-IDE) - Open GitHub repositories in online web IDE.
 - [GitHub Copilot: First Impressions (2021)](https://vladiliescu.net/github-copilot-first-impressions/) ([HN](https://news.ycombinator.com/item?id=27872116))
+- [Is GitHub Copilot a blessing, or a curse? (2021)](https://www.fast.ai/2021/07/19/copilot/) ([HN](https://news.ycombinator.com/item?id=27889967))

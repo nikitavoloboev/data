@@ -15,6 +15,7 @@
 - [Tilray](https://www.tilray.com/) - Canadian pharmaceutical and cannabis company.
 - [Backrolling For Beginners](https://www.youtube.com/watch?v=bqZ9Fo1FI-k) ([Example](https://www.reddit.com/r/AmsterdamEnts/comments/lzydu6/coffeeshop_carmona_s5_haze_rolled_insideout_pure/))
 - [Are there massive differences between the different strains of cannabis? (2021)](https://www.reddit.com/r/askdrugs/comments/oiacwe/are_there_massive_differences_between_the/)
+- [The antimicrobial potential of cannabidiol (2021)](https://www.nature.com/articles/s42003-020-01530-y) ([HN](https://news.ycombinator.com/item?id=27887434))
 
 ## Images
 

@@ -28,7 +28,7 @@
 - [Mycroft](https://github.com/enkiv2/mycroft) - Prolog-like language with compound truth value logic.
 - [Simple Prolog implementation in Rust](https://github.com/mb64/prolog)
 - [Markus Triska on constraints and the power of Prolog (2021)](https://thesearch.space/episodes/4-markus-triska-on-constraints-and-the-power-of-prolog)
-- [Why Learn Prolog in 2021?](http://dstrohmaier.com/why-learn-prolog-in-2021/) ([HN](https://news.ycombinator.com/item?id=25652369))
+- [Why Learn Prolog in 2021?](http://dstrohmaier.com/why-learn-prolog-in-2021/) ([HN](https://news.ycombinator.com/item?id=25652369)) ([Follow Up](http://dstrohmaier.com/follow-up-why-learn-prolog-in-2021/))
 - [The birth of Prolog (1992)](http://alain.colmerauer.free.fr/alcol/ArchivesPublications/PrologHistory/19november92.pdf) ([HN](https://news.ycombinator.com/item?id=26223906))
 - [Prolog Notes](https://github.com/dtonhofer/prolog_notes) - Some notes taken while working on Prolog.
 - [CLP(FD)](https://github.com/triska/clpfd) - Constraint Logic Programming over Finite Domains.
@@ -40,3 +40,4 @@
 - [A Hitchhiker's Guide to Reinventing a Prolog Machine (2018)](https://drops.dagstuhl.de/opus/volltexte/2018/8453/) ([HN](https://news.ycombinator.com/item?id=26913859))
 - [Strand](http://www.call-with-current-continuation.org/strand/strand.html) - Open-source implementation of Prolog dialect. ([HN](https://news.ycombinator.com/item?id=26948351))
 - [D-Prolog](https://github.com/arkark/d-prolog) - Prolog implementation in D language.
+- [Using Prolog for Sudoku Variants (2021)](http://dstrohmaier.com/sudoku-prolog/) ([HN](https://news.ycombinator.com/item?id=27886733))

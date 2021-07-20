@@ -338,3 +338,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [WTF Auto Layout?](https://www.wtfautolayout.com/) - Parses error logs from Auto Layout on iOS and macOS and provides more intuitive visual descriptions of the conflicting constraints. ([Code](https://github.com/johnpatrickmorgan/wtfautolayout))
 - [IPSW Downloads](https://ipsw.me/) - Download iOS Firmware for iPhone, iPad, iPod Touch, Apple Watch, Apple TV and HomePod.
 - [Can I Jailbreak?](https://canijailbreak.com/) ([Code](https://github.com/cj123/canijailbreak.com))
+- [Things you can do to make your iOS app better (2021)](https://twitter.com/JordanMorgan10/status/1417103551826903045)

@@ -51,3 +51,4 @@ In any way, it is an interesting subject I don't know much about.
 - [A first lesson in meta-rationality](https://metarationality.com/bongard-meta-rationality) ([HN](https://news.ycombinator.com/item?id=27411960))
 - [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)
 - [The Beginning of Infinity](https://nav.al/infinity)
+- [On the State of Analytic Philosophy (2021)](http://dstrohmaier.com/state-of-analytic-philosophy/)

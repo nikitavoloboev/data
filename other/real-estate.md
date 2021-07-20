@@ -12,3 +12,4 @@
 - [Orbital Witness](https://www.orbitalwitness.com/) - Instant property insight.
 - [HN: If you sell a house these days, the buyer might be a pension fund (2021)](https://news.ycombinator.com/item?id=27448175)
 - [Should I invest in real estate? (2021)](https://www.reddit.com/r/eupersonalfinance/comments/omle4j/should_i_invest_in_real_estate/)
+- [Should I Get a House?](https://shouldigetahouse.com/) - Better rent vs. buy calculator. ([HN](https://news.ycombinator.com/item?id=27882355))

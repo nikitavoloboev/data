@@ -516,3 +516,4 @@
 - [Contrastive Representation Learning (2021)](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html) ([HN](https://news.ycombinator.com/item?id=27812862))
 - [Learn Machine Learning Resources](https://machinelearning.to/)
 - [Popular Machine Learning Interview Questions (2021)](https://www.thinkdataanalytics.com/machine-learning-interview-questions/)
+- [Solving Machine Learning Performance Anti-Patterns: a Systematic Approach (2021)](https://paulbridger.com/posts/nsight-systems-systematic-optimization/)

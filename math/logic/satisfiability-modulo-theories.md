@@ -36,3 +36,4 @@
 - [Fun examples of Z3 (2021)](https://twitter.com/andrew_n_carr/status/1390723195607552000)
 - [Teaching Your SMT Solver Probability Theory (2019)](https://barghouthi.github.io/2019/07/15/smt-probability/)
 - [dReal](https://github.com/dreal/dreal4) - SMT Solver for Nonlinear Theories of Reals. ([Web](https://dreal.github.io/))
+- [Proof P = NP was accidentally published in TOCT](https://twitter.com/danluu/status/1417215848633159689) ([HN](https://news.ycombinator.com/item?id=27886900))

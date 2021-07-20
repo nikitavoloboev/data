@@ -334,3 +334,4 @@
 - [Keeping it simple with CSS that scales – Andy Bell (2020)](https://www.youtube.com/watch?v=Sb4Ae466xbs)
 - [Trigonometry in CSS and JavaScript: Beyond Triangles (2021)](https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/)
 - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) ([HN](https://news.ycombinator.com/item?id=27769291))
+- [83 Beautiful CSS buttons examples](https://getcssscan.com/css-buttons-examples)
