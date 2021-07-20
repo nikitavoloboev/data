@@ -173,3 +173,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Russia and Eurasia Program - Carnegie Endowment for International Peace](https://carnegieendowment.org/programs/russia)
 - [How Yulia Navalnaya Became Russia’s Real First Lady (2021)](https://www.vanityfair.com/news/2021/07/how-yulia-navalnaya-became-russias-real-first-lady)
 - [hh.ru](https://hh.ru/) - Поиск работы и сотрудников в мире.
+- [Weird things that happened as USSR broke off (2021)](https://www.reddit.com/r/AskARussian/comments/onv4qr/stattistically_russia_was_pretty_wild_after_the/)

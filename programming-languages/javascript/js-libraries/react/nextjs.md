@@ -212,3 +212,4 @@
 - [next-remote-refresh](https://github.com/souporserious/next-remote-refresh) - Enable Fast Refresh for remote data in NextJS.
 - [How I Built My Site with Next.js (2021)](https://www.delbaoliveira.com/blog/how-i-built-my-website-with-nextjs)
 - [Next.js Bundle Analysis Github Action](https://github.com/hashicorp/nextjs-bundle-analysis) - Github action that provides detailed bundle analysis on PRs for next.js apps.
+- [Next.js: The Ultimate Cheat Sheet To Page Rendering (2021)](https://guydumais.digital/blog/next-js-the-ultimate-cheat-sheet-to-page-rendering/)
