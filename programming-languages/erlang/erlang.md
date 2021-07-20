@@ -90,3 +90,4 @@
 - [Beam Community](https://beam-community.org/) ([GitHub](https://github.com/beam-community))
 - [Concuerror](https://concuerror.com/) - Stateless model checking tool for Erlang programs.
 - [Death, Children, and OTP (2021)](https://furlough.merecomplexities.com/elixir/otp/2021/06/28/death-children-and-otp.html)
+- [Detecting Oxbow Code in Erlang Codebases with the Highest Degree of Certainty (2021)](https://arxiv.org/abs/2107.08699)

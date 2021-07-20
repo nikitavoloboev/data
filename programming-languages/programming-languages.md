@@ -218,3 +218,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Programming Language Memory Models](https://research.swtch.com/plmm) ([HN](https://news.ycombinator.com/item?id=27750610))
 - [The next 700 programming languages (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf) ([Lobsters](https://lobste.rs/s/mgugbx/next_700_programming_languages_1966))
 - [Creating the Golfcart Programming Language (2021)](https://healeycodes.com/creating-the-golfcart-programming-language/)
+- [Sham: A DSL for Fast DSLs (2021)](https://programming-journal.org/2022/6/4/)

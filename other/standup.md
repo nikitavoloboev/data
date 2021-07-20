@@ -4,6 +4,8 @@
 
 - [Andrew Schulz](https://www.youtube.com/user/TheAndrewSchulz)
 - [Rachman Blake](https://www.youtube.com/channel/UCtWGFVhBV6AJfa1xsnQLidw)
+- [Ваня Усович](https://www.youtube.com/channel/UC1uS4JFcc8KXZVoBSh3XVHA)
+- [Сергей Орлов](https://www.youtube.com/channel/UCpFTWZY9jyTdcpu7zpXGA_A)
 
 ## Funny
 
