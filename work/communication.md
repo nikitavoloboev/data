@@ -126,3 +126,4 @@
 - [Good Meetings (2021)](https://css-tricks.com/good-meetings/)
 - [How to win friends and influence people Summary](https://www.reddit.com/r/coolguides/comments/odanjw/1_smile/)
 - [How to communicate your needs as a girlfriend without feeling like you are becoming a mother? (2021)](https://www.reddit.com/r/AskWomen/comments/ofz8z0/how_to_communicate_your_needs_as_a_girlfriend/)
+- [Pirijan - Creator of Kinopio.club and co-creator of Glitch.com](https://juniortosenior.io/51) - David and Pirijan discuss good communication, when to prioritize performance, and having empathy for the user.

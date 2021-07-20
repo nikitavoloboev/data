@@ -506,3 +506,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/) ([HN](https://news.ycombinator.com/item?id=27817519))
 - [My serverless, headless, Micropub-powered, personal website (2021)](https://barryfrost.com/2021/07/vibrancy)
 - [A Solarpunk Manifesto](http://www.re-des.org/a-solarpunk-manifesto/) ([HN](https://news.ycombinator.com/item?id=27868913))
+- [The online data that's being deleted (2021)](https://www.bbc.com/future/article/20210715-the-online-data-thats-being-deleted)
+- [Permacomputing](http://viznut.fi/texts-en/permacomputing.html)

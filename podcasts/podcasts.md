@@ -78,6 +78,7 @@ It includes:
 - [The Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Business Breakdowns](https://overcast.fm/itunes1559120677/business-breakdowns) - Series of conversations with investors and operators diving deep into a single business.
 - [Build Your SaaS](https://saas.transistor.fm/)
+- [Junior to Senior with David Guttman](https://juniortosenior.io/)
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 
