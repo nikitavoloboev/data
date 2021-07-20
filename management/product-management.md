@@ -3,6 +3,7 @@
 ## Notes
 
 - [Toyota's decision-making principle: Instead of depending on hierarchy, the people who are closest to what’s happening make decisions](https://twitter.com/david_perell/status/1298436779725320192)
+- [The road to hell is paved with special features for special customers.](https://twitter.com/mostalive/status/1415983044935274506)
 
 ## Links
 

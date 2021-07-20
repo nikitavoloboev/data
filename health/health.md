@@ -52,3 +52,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Dr. Peter Attia on Longevity Drugs, Alzheimer’s Disease, and the 3 Most Important Levers to Pull (2021)](https://overcast.fm/+KebuB8q28)
 - [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)
 - [Hone Health](https://www.honehealth.com/) - Hormone testing, physician-backed treatment and physician consultation from the comfort of home. ([Tweet](https://twitter.com/ankurnagpal/status/1414934324357570560))
+- [The Secret 3-Step Master Plan to Cure Healthcare (2021)](https://www.notboring.co/p/the-secret-3-step-master-plan-to)

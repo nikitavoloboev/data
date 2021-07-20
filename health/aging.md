@@ -10,6 +10,7 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [I'm 61 and I walk briskly 90 minutes 5-6 a week and lift weights 3-4 times a week. I never experience "aches and pain" with age.](https://www.reddit.com/r/Aging/comments/lgc92w/why_do_our_bodies_punish_us_for_getting_older/)
 - [Aging is an extraordinary process where you become the person always should have been.](https://www.reddit.com/r/datingoverthirty/comments/n22676/what_do_you_actually_likefind_refreshing_about/)
 - [You’re not running out of time, you’re running out of energy working on the wrong stuff.](https://twitter.com/shl/status/1399716801596981249)
+- [Rapamycin meaningfully makes every organism we’ve tested live longer. Yeast cells, mice, apes and almost certainly humans.](https://twitter.com/justindross/status/1416777191820517384)
 
 ## Links
 

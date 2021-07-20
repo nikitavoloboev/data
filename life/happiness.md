@@ -51,6 +51,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [You don’t owe people to be attractive to them.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/n3x5bg/you_dont_owe_people_to_be_attractive_to_them/)
 - [The only thing that will make you feel better after breakup/hardships is time - and sadly you can’t fast forward that. Know that healing isn’t linear too.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/ncve9g/starting_over_at_28_im_scared_but_hopeful/)
 - [Nobody who is happy, successful, and fulfilled will ever hate on you.](https://twitter.com/ZubyMusic/status/1397662847077961728)
+- [Acceptance / letting go is the solution to most problems.](https://twitter.com/nickcammarata/status/1416866783865282569)
 
 ## Links
 

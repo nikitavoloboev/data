@@ -56,6 +56,7 @@
 - [The market you’re in will determine most of your growth.](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/)
 - [Startup founders should prioritize mental health over 'growth at all costs'.](https://twitter.com/mkhundmiri/status/1407956908863115268)
 - [Two key areas to optimize for efficient SAAS: 1. Self service. 2. Managed hosting.](https://twitter.com/maccaw/status/1414970646342340623)
+- [Much of a startup's success comes down to distribution. If an investor can give you money AND distribution.... that's super compelling.](https://twitter.com/maccaw/status/1417473520867680264)
 
 ## Links
 
