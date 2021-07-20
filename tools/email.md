@@ -164,3 +164,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Go SMPP](https://github.com/fiorix/go-smpp) - SMPP 3.4 Protocol for Go.
 - [maildog](https://github.com/edmundhung/maildog) - Hosting email forwarding service on AWS with GitHub Actions. ([HN](https://news.ycombinator.com/item?id=27819814))
 - [Streak](https://www.streak.com/) - CRM for Gmail.
+- [Stripo](https://stripo.email/) - Free Email Template Builder.

@@ -104,7 +104,7 @@
 - [Editing the C Standard (2020)](https://thephd.github.io/editing-the-c-standard) ([HN](https://news.ycombinator.com/item?id=25086673))
 - [C Is Not Dependency Free (2020)](https://prilik.com/blog/post/c-is-not-dependency-free/)
 - [Best aspects of C language (2020)](https://blog.joren.ga/programming/best-of-c) ([HN](https://news.ycombinator.com/item?id=25124012)) ([Lobsters](https://lobste.rs/s/hjrgrk/best_aspects_c_language))
-- [C3 Language Compiler](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
+- [C3 Language Compiler](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language. ([HN](https://news.ycombinator.com/item?id=27876570))
 - [Coccinelle](https://github.com/coccinelle/coccinelle) - Allows programmers to easily write some complex style-preserving source-to-source transformations on C source code, like for instance to perform some refactorings.
 - [rcc](https://github.com/wbowling/rcc) - Basic c compiler written in rust.
 - [Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html) ([Code](https://github.com/nlsandler/write_a_c_compiler))

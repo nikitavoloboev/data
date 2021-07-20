@@ -7,6 +7,7 @@
 - [In Buddhism they say that everything is of dependent origin. Watch the mind and notice how everything it does, thinks, remembers, plans, etc is all conditioned. If it is all just conditioning unfolding, then who is thinking? Who is moving the body? Who is making choices?](https://www.reddit.com/r/Meditation/comments/55y5p3/has_anyone_here_ever_reached_enlightenment/)
 - [Wabi-sabi = World view centered on the acceptance of transience and imperfection. Beauty that is "imperfect, impermanent, and incomplete".](https://en.wikipedia.org/wiki/Wabi-sabi)
 - [Non-duality is absence of an observer in observing, taster in tasting, toucher in touching etc. There's only observing, tasting, touching etc as a process starting with a contact (the coming together of a sense organ with its object) , sensation , perception or recognition , mental or karmic formation (viewed both as a verb and as a noun) , and consciousness of the mental object.](https://www.reddit.com/r/secularbuddhism/comments/n0rvff/what_is_the_relationship_between_nonduality_and/)
+- [There are many types of Buddhism, and some types are definitely very religious.](https://news.ycombinator.com/item?id=27892935)
 
 ## Links
 
