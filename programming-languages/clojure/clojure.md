@@ -140,3 +140,4 @@
 - [Data notation in Clojure (2021)](https://ostash.dev/posts/2021-06-24-edn-data-notation/) ([HN](https://news.ycombinator.com/item?id=27685875))
 - [REPL vs CLI: IDE wars (2021)](https://vlaaad.github.io/clj-vs-cli) ([HN](https://news.ycombinator.com/item?id=27698987))
 - [Projectless literate Clojure with embedded SVG](https://geokon-gh.github.io/literate-clojure.html)
+- [Clojure - Source Libs and Builds (2021)](https://clojure.org/news/2021/07/09/source-libs-builds)
