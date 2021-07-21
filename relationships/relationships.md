@@ -105,3 +105,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [12 levels of friendship](https://twitter.com/TaariqIsmail/status/1402681643714985984)
 - [Brené Brown on Empathy (Kid Friendly!)](https://www.youtube.com/watch?v=HznVuCVQd10) ([Reddit](https://www.reddit.com/r/videos/comments/nxjdcp/this_2_and_a_half_minute_video_on_empathy_has_had/))
 - [How Friendships Change When You Become An Adult](https://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/) ([Tweet](https://twitter.com/maccaw/status/1407021495252131842))
+- [What's your unpopular dating opinion? (2021)](https://www.reddit.com/r/datingoverthirty/comments/oof53h/whats_your_unpopular_dating_opinion_something_you/)
