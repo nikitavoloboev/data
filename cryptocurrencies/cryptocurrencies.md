@@ -118,3 +118,5 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Dollar-Cost Averaging Explained (2021)](https://www.youtube.com/watch?v=hQinhrtPLQc)
 - [The State of DEXes (2021)](https://adlrocha.substack.com/p/adlrocha-the-state-of-dexes)
 - [Cryptocurrency is like taking the worst parts of today's capitalist system (2021)](https://twitter.com/ummjackson/status/1415353984617914370) ([HN](https://news.ycombinator.com/item?id=27880432))
+- [Crypto Critics' Corner Podcast](https://cryptocriticscorner.com/)
+- [The Grant Williams Podcast: The Tether Discussion feat. Bennett Tomlin & George Noble (2021)](https://overcast.fm/+aAHsVOpDc)

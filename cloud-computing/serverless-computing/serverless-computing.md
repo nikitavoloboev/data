@@ -108,3 +108,4 @@
 - [Designing Our Serverless Engine: From Kubernetes to Nomad, Firecracker, and Kuma (2021)](https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma)
 - [Serverless Step Functions](https://github.com/serverless-operations/serverless-step-functions) - Serverless Framework plugin for AWS Step Functions.
 - [A Serverless Event Collector (2021)](https://www.ethanrosenthal.com/2021/07/20/serverless-event-collector/)
+- [Going Intergalactic with Serverless Functions on Netlify (2021)](https://sia.codes/posts/serverless-functions-netlify/)

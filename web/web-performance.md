@@ -133,3 +133,4 @@
 - [How to not get sucked into performance micro-optimization territory (2021)](https://twitter.com/JoshWComeau/status/1397559162477895681)
 - [HTML and CSS techniques to reduce your JavaScript (2020)](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/) ([HN](https://news.ycombinator.com/item?id=27388691))
 - [Instant Vitals](https://vitals.dev/) - Simple tools to track and improve your Web Vitals scores. ([Code](https://github.com/InstantDomain/instant-vitals))
+- [How to Eliminate Render-Blocking Resources: a Deep Dive (2021)](https://sia.codes/posts/render-blocking-resources/)
