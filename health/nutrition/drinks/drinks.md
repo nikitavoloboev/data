@@ -17,3 +17,4 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 - [Oatly: The New Coke (2020)](https://every.to/almanack/oatly-the-new-coke-821556) ([HN](https://news.ycombinator.com/item?id=26705429))
 - [Against Alcohol (2021)](https://fergus-mccullough.com/index.php/2021/04/09/against-alcohol/) ([HN](https://news.ycombinator.com/item?id=26763508))
 - [901 Cocktails](https://901.benstanfield.io/) - Search hundreds of 5 star cocktails.
+- [Clink Clink Drink](https://clinkclinkdrink.com/)

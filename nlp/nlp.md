@@ -312,3 +312,4 @@
 - [Obsei](https://github.com/obsei/obsei) - Automation tool for text analysis need.
 - [Evaluating Large Language Models Trained on Code (2021)](https://arxiv.org/abs/2107.03374) ([Code](https://github.com/openai/human-eval))
 - [Survey of Surveys for Natural Language Processing (SOS4NLP)](https://github.com/thunlp/SOS4NLP)
+- [CLIP guided diffusion](https://colab.research.google.com/drive/1ED6_MYVXTApBHzQObUPaaMolgf9hZOOF)

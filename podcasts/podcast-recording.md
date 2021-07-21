@@ -26,3 +26,4 @@
 - [High quality audio makes you sound smarter (2021)](https://tips.ariyh.com/p/good-sound-quality-smarter) ([HN](https://news.ycombinator.com/item?id=26818774))
 - [What software do you use to edit/produce podcasts?](https://twitter.com/tylertringas/status/1399768425795293185)
 - [Podcast Transcript](https://www.getwelder.com/podcast-transcript) - Get your podcast transcription for free, in browser.
+- [Decentralized podcast platforms](https://twitter.com/cgcardona/status/1417848042665828363)

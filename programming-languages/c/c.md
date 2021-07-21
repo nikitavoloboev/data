@@ -3,6 +3,7 @@
 ## Notes
 
 - [Notes on learning/using C.](https://lobste.rs/s/b5xwwg/what_are_you_doing_this_weekend#c_1kh5sd)
+- [C models an assembly wildly different from modern x86, often informs you of errors by just setting shared globals you have to know to check, and has huge amounts of magic wrapped up in libc. There's so many ways that C does things behind your back.](https://twitter.com/BlueSpaceCanary/status/1417800133001891840)
 
 ## Links
 

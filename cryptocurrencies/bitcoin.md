@@ -152,3 +152,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Bitcoin myths: immutability, decentralisation, and the cult of “21 million” (2021)](https://davidgerard.co.uk/blockchain/2021/06/27/bitcoin-myths-immutability-decentralisation-and-the-cult-of-21-million/)
 - [Programming Bitcoin Network](https://jeiwan.net/posts/programming-bitcoin-network/)
 - [How to Destroy Bitcoin (2021)](https://www.stephendiehl.com/blog/destroy-bitcoin.html) ([HN](https://news.ycombinator.com/item?id=27824924))
+- [Bitcoin's gold rush was always an illusion (2021)](https://www.newstatesman.com/business/finance/2021/07/bitcoins-gold-rush-was-always-illusion) ([Tweet](https://twitter.com/ahcastor/status/1417842535809097731))

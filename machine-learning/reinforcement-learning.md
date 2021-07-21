@@ -219,3 +219,4 @@
 - [Hierarchical Reinforcement Learning by Discovering Intrinsic Options](https://openreview.net/forum?id=r-gPPHEjpmw) ([Code](https://github.com/jesbu1/hidio))
 - [BASALT: A Benchmark for Learning from Human Feedback (2021)](https://bair.berkeley.edu/blog/2021/07/08/basalt/) ([Tweet](https://twitter.com/rohinmshah/status/1413185489335734277))
 - [BRAX](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
+- [Towards Deeper Deep Reinforcement Learning (2021)](https://arxiv.org/abs/2106.01151)

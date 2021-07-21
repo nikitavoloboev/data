@@ -12,6 +12,7 @@
 - [Once a manager makes it clear they don’t value you, believe them. And move on.](https://twitter.com/editingemily/status/1376971156725637130)
 - [Bad management is so endemic in tech companies that weak managers often don't even know they are weak, and power dynamics often mean they have no motivation to improve.](https://twitter.com/hmason/status/1387494922832564224)
 - [Don't be afraid to bring it up or leave under bad management.](https://twitter.com/techgirl1908/status/1395827216433438728)
+- [How to have an effective 1:1? Stop doing status updates.](https://twitter.com/burgessdryan/status/1417855885594877955)
 
 ## Links
 
