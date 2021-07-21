@@ -215,3 +215,4 @@
 - [Next.js: The Ultimate Cheat Sheet To Page Rendering (2021)](https://guydumais.digital/blog/next-js-the-ultimate-cheat-sheet-to-page-rendering/)
 - [Workaround for \_next/data URLs throwing 404, for multiple Next.js Apps Running On Same Domain (2021)](https://arihantverma.com/posts/2021/07/18/workaround-nextjs-data-urls-same-domain-multiple-apps/)
 - [Next.js Cron](https://github.com/baulml/nextjs-cron) - Cron jobs with Github Actions for Next.js applications on Vercel.
+- [Running a Next.js Site on Cloudflare Pages (2021)](https://opstrace.com/blog/nextjs-on-cloudflare)
