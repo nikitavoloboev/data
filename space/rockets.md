@@ -15,3 +15,4 @@
 - [SN69 Rocket](https://twitter.com/ErcXspace/status/1382096113860239365)
 - [Orbital Mechanics – How do rockets get to where they're headed?](https://steemit.com/steemstem/@alexdory/how-do-rockets-really-get-to-where-they-re-headed-orbital-mechanics) ([HN](https://news.ycombinator.com/item?id=26944249))
 - [How SpaceX lands Starship (sort of) (2021)](https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b) ([HN](https://news.ycombinator.com/item?id=27148296))
+- [Basic Rocket Science: Sub-Orbital Versus Orbital](https://blogs.scientificamerican.com/life-unbounded/basic-rocket-science-sub-orbital-versus-orbital/)

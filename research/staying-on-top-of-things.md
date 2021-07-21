@@ -145,6 +145,7 @@ And these Discord servers:
 - [Palladium Magazine](https://palladiummag.com/)
 - [But What For?](https://www.butwhatfor.com/)
 - [World Affairs](https://worldaffairs.blog/) - Objective, Nonpartisan and Insightful.
+- [Scientific American](https://www.scientificamerican.com/) - Science News, Expert Analysis, Health Research.
 
 ### Other
 

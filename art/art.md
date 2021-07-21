@@ -163,6 +163,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Fernando Magalhaes](https://www.instagram.com/mglhs_com/)
 - [Raphael Lacoste](https://gumroad.com/raphaellacoste)
 - [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.
+- [Luzhan Liu](https://www.artstation.com/ashesspring)
 - [Katiuska Pino](https://www.instagram.com/katiuska.pino/)
 - [Roman Muradov](https://www.bluebed.net/)
 - [Gregory Crewdson](https://www.instagram.com/crewdsonstudio/)

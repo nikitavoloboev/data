@@ -109,3 +109,4 @@
 - [Removal.ai](https://removal.ai/) - Remove Image Background.
 - [Albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries.
 - [PIX](https://github.com/deepmind/dm_pix) - Image processing library in JAX, for JAX.
+- [Blur Quick](https://blur-quick.web.app/) - Tool to blur images quickly.

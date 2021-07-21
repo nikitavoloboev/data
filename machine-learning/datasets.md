@@ -103,3 +103,4 @@
 - [ir_datasets](https://github.com/allenai/ir_datasets) - Python package that provides a common interface to many IR ad-hoc ranking benchmarks, training datasets, etc.
 - [SEDE (Stack Exchange Data Explorer)](https://github.com/hirupert/sede) - Text-to-SQL in the Wild: A Naturally-Occurring Dataset Based on Stack Exchange Data. ([Article](https://blog.hirupert.com/text-to-sql-in-the-wild-a-naturally-occurring-dataset-based-on-stack-exchange-data/))
 - [List of Medical (Imaging) Datasets](https://github.com/adalca/medical-datasets)
+- [musescore.com dataset](https://github.com/Xmader/musescore-dataset) - Dataset of all music sheets and users on musescore.com.

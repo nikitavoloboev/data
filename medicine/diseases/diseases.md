@@ -1,5 +1,10 @@
 # [Diseases](https://en.wikipedia.org/wiki/Disease)
 
+## Interesting diseases
+
+- [Leukemia](https://en.wikipedia.org/wiki/Leukemia) ([Reddit](https://www.reddit.com/r/leukemia/))
+- [Graft-versus-host disease](https://en.wikipedia.org/wiki/Graft-versus-host_disease) ([Reddit](https://www.reddit.com/r/gvhd/))
+
 ## Links
 
 - [How did we eradicate Smallpox? (2019)](https://www.reddit.com/r/askscience/comments/a5sc81/how_did_we_eradicate_smallpox/)

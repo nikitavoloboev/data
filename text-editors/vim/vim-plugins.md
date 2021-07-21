@@ -50,6 +50,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [vim-clap](https://github.com/liuchengxu/vim-clap) - Modern generic interactive finder and dispatcher.
 - [vim-picker](https://github.com/srstevenson/vim-picker) - Vim plugin for fuzzy selection of files, buffers, tags, and more.
 - [Conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet).
+- [Persistence](https://github.com/folke/persistence.nvim) - Simple session management for Neovim.
 - [vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right.
 - [express.vim](https://github.com/tommcdo/vim-express) - Easily create custom Vim operators using expressions and substitutions.
 - [completion-nvim](https://github.com/haorenW1025/completion-nvim) - Async completion framework aims to provide completion to neovim's built in LSP written in Lua.
@@ -230,3 +231,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [packer.nvim](https://github.com/wbthomason/packer.nvim) - use-package inspired plugin manager for Neovim.
 - [lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline.
 - [nvim-lsp-ts-utils](https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
+- [nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.

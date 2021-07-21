@@ -14,3 +14,5 @@
 - [WHO List of Essential Medicines](https://list.essentialmeds.org/) ([HN](https://news.ycombinator.com/item?id=27136775))
 - [Hello Meds](https://hellocode.co/meds/) - Simple medication tracker that handles variable doses and dosage times.
 - [Open Source Insulin](https://openinsulin.org/) ([HN](https://news.ycombinator.com/item?id=27853739))
+- [What Makes Corticosteroids so Beneficial?](https://www.youtube.com/watch?v=LuLNsDJGhvw)
+- [Medicosis Perfectionalis - YouTube](https://www.youtube.com/channel/UCl-J-ovSJhA3or73Q2uVpow)

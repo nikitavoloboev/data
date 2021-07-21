@@ -893,6 +893,7 @@
 - [Ariadne](https://github.com/zesterer/ariadne) - Fancy error diagnostics & reporting crate.
 - [Chumsky](https://github.com/zesterer/chumsky) - Friendly parser combinator crate that makes writing LL(1) parsers with error recovery easy.
 - [async-backplane](https://github.com/irrustible/async-backplane) - Easy, Erlang-inspired fault-tolerance framework for Rust Futures.
+- [Eventuals](https://github.com/edgeandnode/eventuals) - Eventually consistent values for Rust.
 
 ## Cargo Plugins
 

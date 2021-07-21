@@ -186,3 +186,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [There is a fundamental disconnect between the way designers and business people think. (2021)](https://twitter.com/andybudd/status/1411349258733867010)
 - [gridless.design](https://gridless.design/)
 - [The elements of product design (2021)](https://jamiemill.com/blog/elements-of-product-design/)
+- [Tricycle](https://tricycle.ai/) - Automation Tools for Designers.
