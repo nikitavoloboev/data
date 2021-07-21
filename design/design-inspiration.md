@@ -215,6 +215,7 @@ Here are few more things I liked, design wise.
 - [Dan Talala](https://talala.ru/)
 - [Fabien Sanglard](https://fabiensanglard.net/)
 - [William Falcon](https://www.williamfalcon.com/)
+- [Sia Karamalegos](https://sia.codes/)
 - [Yehor Lvivski](http://lvivski.com/)
 - [Kyle Shevlin](https://kyleshevlin.com/) ([Code](https://github.com/kyleshevlin/blog))
 - [Amruth Pillai](https://amruthpillai.com/) ([Code](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby))

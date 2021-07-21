@@ -57,7 +57,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Slither](https://github.com/crytic/slither) - Solidity source analyzer.
 - [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool.
 - [Ethereum APIs](https://github.com/prysmaticlabs/ethereumapis)
-- [Ethereum Name Service](https://ens.domains/) - Offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names.
+- [Ethereum Name Service](https://ens.domains/) - Offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names. ([App](https://app.ens.domains/))
 - [HN: Reddit rolls out community currencies on Ethereum (2020)](https://news.ycombinator.com/item?id=23178277)
 - [Arbitrum](https://offchainlabs.com/) - Layer 2 cryptocurrency platform that makes smart contracts scalable, fast, and private. Arbitrum interoperates closely with Ethereum. ([Code](https://github.com/OffchainLabs/arbitrum))
 - [teth](https://github.com/bwasty/teth) - Toy Ethereum implementation.
