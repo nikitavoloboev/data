@@ -176,3 +176,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Weird things that happened as USSR broke off (2021)](https://www.reddit.com/r/AskARussian/comments/onv4qr/stattistically_russia_was_pretty_wild_after_the/)
 - [Geekjob](https://geekjob.ru/) - Вакансии для IT & digital специалистов.
 - [OZON](https://www.ozon.ru/) - Интернет-магазин.
+- [What Russia’s National Security Strategy Has to Say About Asia (2021)](https://thediplomat.com/2021/07/what-russias-national-security-strategy-has-to-say-about-asia/)

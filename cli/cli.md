@@ -58,3 +58,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [How to Handle Secrets on the Command Line (2021)](https://smallstep.com/blog/command-line-secrets/) ([HN](https://news.ycombinator.com/item?id=27490885))
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Collection of modern/faster/saner alternatives to common unix commands.
 - [Awesome TUIs](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces.
+- [Lobsters: What interesting command line tools do you use? (2021)](https://lobste.rs/s/yfgwjr/what_interesting_command_line_tools_do)

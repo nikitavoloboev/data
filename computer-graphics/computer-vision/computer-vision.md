@@ -332,4 +332,4 @@
 - [What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis (2019)](https://arxiv.org/abs/1904.01906) ([Code](https://github.com/clovaai/deep-text-recognition-benchmark))
 - [Convolutional Hough Matching Networks (2021)](https://arxiv.org/abs/2103.16831) ([Code](https://github.com/juhongm999/chm))
 - [Efficient Self-Supervised Vision Transformers (EsViT)](https://github.com/microsoft/esvit)
-- [ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases (2021)](https://arxiv.org/abs/2103.10697) ([Code](https://github.com/facebookresearch/convit)) ([Paper Read](https://www.youtube.com/watch?v=QdbieYXn_XM))
+- [ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases (2021)](https://arxiv.org/abs/2103.10697) ([Code](https://github.com/facebookresearch/convit)) ([Paper Read](https://www.youtube.com/watch?v=QdbieYXn_XM)) ([Article](https://www.marktechpost.com/2021/07/20/facebook-ai-introduces-convit-a-computer-vision-model-that-improves-vision-transformers-vit-with-soft-convolutional-inductive-biases/))
