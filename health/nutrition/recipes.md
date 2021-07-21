@@ -43,3 +43,5 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Cookies Recipe](https://tilman.dev/blog/2021/02/click-here-to-accept-cookies/)
 - [Mushroom risotto with homemade mushroom stock](https://www.youtube.com/watch?v=rjQ65Lu1voU)
 - [Sauce Recipes That Will Transform Any Meal (2021)](https://www.nytimes.com/2021/07/12/dining/sauce-recipes-condiments-dressings-toppings.html)
+- [Avocado Pasta](https://damndelicious.net/2014/06/20/avocado-pasta/)
+- [Damn Delicious Recipes](https://damndelicious.net/recipe-index/)
