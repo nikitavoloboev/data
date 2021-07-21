@@ -528,3 +528,5 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Ask HN: What are some tools / libraries you built yourself? (2021)](https://news.ycombinator.com/item?id=27171970)
 - [The tools and tech I use to run a one-woman hardware company (2021)](https://blog.thea.codes/winterblooms-tech-stack/) ([HN](https://news.ycombinator.com/item?id=27199225))
 - [Ask HN: Tools you have made for yourself? (2021)](https://news.ycombinator.com/item?id=27482397)
+- [Awesome DX (Developer Experience)](https://github.com/workos-inc/awesome-developer-experience)
+- [Favorite developer-first startups (2021)](https://twitter.com/zenorocha/status/1417493893466054656)

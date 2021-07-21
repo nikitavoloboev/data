@@ -236,3 +236,4 @@
 - [Give me /events, not webhooks (2021)](https://blog.syncinc.so/events-not-webhooks) ([Lobsters](https://lobste.rs/s/3xrosf/give_me_events_not_webhooks)) ([HN](https://news.ycombinator.com/item?id=27823109))
 - [Cats](https://github.com/Endava/cats) - Generate tests at runtime based on OpenApi specs.
 - [Portman](https://github.com/apideck-libraries/portman) - Port OpenAPI Spec to Postman Collection, with contract & variation tests included.
+- [RapidAPI](https://rapidapi.com/) - Next Generation API Platform. ([Twitter](https://twitter.com/Rapid_API)) ([How it started](https://twitter.com/Rapid_API/status/1417516333210734602))
