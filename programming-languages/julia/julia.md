@@ -82,3 +82,4 @@
 - [Blue: Style Guide for Julia](https://github.com/invenia/BlueStyle)
 - [Is Julia Really Fast? (2021)](https://medium.com/codex/is-julia-really-fast-12cd7caef96b) ([HN](https://news.ycombinator.com/item?id=27570591))
 - [Julia and the Reincarnation of Lisp (2020)](https://arnuldondata.medium.com/julia-and-the-reincarnation-of-lisp-f60cacd5822c) ([HN](https://news.ycombinator.com/item?id=27805059))
+- [Julia used Multiple Dispatch! It's Super Effective! (2021)](https://www.moll.dev/projects/effective-multi-dispatch/) ([HN](https://news.ycombinator.com/item?id=27901244)) ([Lobsters](https://lobste.rs/s/xqazh2/julia_used_multiple_dispatch_it_s_super))

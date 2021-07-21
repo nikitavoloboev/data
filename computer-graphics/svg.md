@@ -91,3 +91,4 @@
 - [Rune.js](https://github.com/runemadsen/rune.js) - JavaScript library for programming graphic design systems with SVG. ([Web](http://runemadsen.github.io/rune.js/))
 - [SVG Loaders](http://samherbert.net/svg-loaders/) - Loading icons and small animations built with pure SVG. ([Code](https://github.com/SamHerbert/SVG-Loaders))
 - [Hero Patterns](https://www.heropatterns.com/) - Free repeatable SVG background patterns for your web projects.
+- [Polymorph](https://github.com/notoriousb1t/polymorph) - Morph SVG Paths. ([Docs](https://notoriousb1t.github.io/polymorph-docs/))
