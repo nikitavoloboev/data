@@ -511,3 +511,4 @@ Go promotes composition over inheritance.
 - [Updating the Go Memory Model (2021)](https://research.swtch.com/gomm) ([HN](https://news.ycombinator.com/item?id=27810459))
 - [Marshaling Struct with Special Fields to JSON in Go (2021)](https://avi.im/blag/2021/golang-marshaling-special-fields/)
 - [Accessing PostgreSQL databases in Go (2021)](https://eli.thegreenplace.net/2021/accessing-postgresql-databases-in-go/) ([Lobsters](https://lobste.rs/s/4w9rta/accessing_postgresql_databases_go))
+- [Does the Go community have a problem with reinventing the wheel? (2021)](https://www.reddit.com/r/golang/comments/ooqm6r/does_the_go_community_have_a_problem_with/)

@@ -47,3 +47,4 @@
 - [Let's build a simple interpreter for APL (2020)](https://mathspp.com/blog/lsbasi-apl-part1) ([HN](https://news.ycombinator.com/item?id=27728071))
 - [J language code](https://github.com/jsoftware/jsource)
 - [Jelly](https://github.com/DennisMitchell/jellylanguage) - Recreational programming language inspired by J. ([HN](https://news.ycombinator.com/item?id=27800057))
+- [Useful math to understand APL languages (2021)](https://www.reddit.com/r/apljk/comments/ooqn1j/what_topics_from_mathematics_are_usefull_for/)
