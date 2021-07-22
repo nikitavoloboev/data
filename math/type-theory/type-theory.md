@@ -136,3 +136,5 @@
 - [Introduction to Type Systems](https://splintah.github.io/series/Introduction%20to%20Type%20Systems.html)
 - [System F Playground](http://jamesrwilcox.com/f/)
 - [Building Blocks of the Sasquach Type System (2021)](https://blog.pentlander.com/building-blocks-sasquach-type-system/)
+- [Anders](https://github.com/groupoid/anders) - Homotopy Type System with Strict Equality.
+- [Homotopy Type System](https://groupoid.space/homotopy/) - Type theory with two equalities.

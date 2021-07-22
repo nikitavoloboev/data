@@ -21,7 +21,7 @@
 - [Classy Vision](https://github.com/facebookresearch/ClassyVision) - New end-to-end, PyTorch-based framework for large-scale training of state-of-the-art image and video classification models.
 - [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software.
 - [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework. ([Code](https://github.com/alicevision/AliceVision)) ([GitHub](https://github.com/alicevision))
-- [PyTorch3d](https://github.com/facebookresearch/pytorch3d) - Provides efficient, reusable components for 3D Computer Vision research with PyTorch.
+- [PyTorch3d](https://github.com/facebookresearch/pytorch3d) - Provides efficient, reusable components for 3D Computer Vision research with PyTorch. ([Web](https://pytorch3d.org/))
 - [Face Recognition](https://github.com/ageitgey/face_recognition) - World's simplest facial recognition api for Python and the command line.
 - [Deep Hough Voting for 3D Object Detection in Point Clouds](https://github.com/facebookresearch/votenet)
 - [Point Cloud Library](https://github.com/PointCloudLibrary/pcl) - Standalone, large scale, open project for 2D/3D image and point cloud processing.
@@ -333,3 +333,4 @@
 - [Convolutional Hough Matching Networks (2021)](https://arxiv.org/abs/2103.16831) ([Code](https://github.com/juhongm999/chm))
 - [Efficient Self-Supervised Vision Transformers (EsViT)](https://github.com/microsoft/esvit)
 - [ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases (2021)](https://arxiv.org/abs/2103.10697) ([Code](https://github.com/facebookresearch/convit)) ([Paper Read](https://www.youtube.com/watch?v=QdbieYXn_XM)) ([Article](https://www.marktechpost.com/2021/07/20/facebook-ai-introduces-convit-a-computer-vision-model-that-improves-vision-transformers-vit-with-soft-convolutional-inductive-biases/))
+- [CO3D: Common Objects In 3D](https://github.com/facebookresearch/co3d) - Tools for working with the Common Objects in 3D (CO3D) dataset.

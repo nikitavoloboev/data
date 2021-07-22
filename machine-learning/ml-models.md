@@ -34,3 +34,4 @@
 - [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. ([Docs](https://www.scikit-yb.org/en/latest/))
 - [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 - [Tuning Model Performance (2021)](https://eng.uber.com/tuning-model-performance/)
+- [SHAP](https://github.com/slundberg/shap) - Game theoretic approach to explain the output of any machine learning model.

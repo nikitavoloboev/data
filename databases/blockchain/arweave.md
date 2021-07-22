@@ -23,3 +23,4 @@
 - [Arweave Gateway](https://github.com/ArweaveTeam/gateway)
 - [So you Find Yourself in a Bubble, Founder? | Arweave Open Web Fellowship (2021)](https://www.youtube.com/watch?v=0YtiN3Qv9aM)
 - [SmartWeave Testing](https://github.com/fabianriewe/SmartWeaveTesting) - Testing SmartWeave contract the easy way.
+- [arweave-rs](https://github.com/nestdotland/arweave-rs) - Arweave Rust SDK.

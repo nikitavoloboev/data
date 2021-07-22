@@ -895,6 +895,8 @@
 - [async-backplane](https://github.com/irrustible/async-backplane) - Easy, Erlang-inspired fault-tolerance framework for Rust Futures.
 - [Eventuals](https://github.com/edgeandnode/eventuals) - Eventually consistent values for Rust.
 - [cargo-profile](https://github.com/kdy1/cargo-profile) - Profiling rust program made easy.
+- [Arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format.
+- [beef](https://github.com/maciejhirsz/beef) - Faster, more compact implementation of std::borrow::Cow.
 
 ## Cargo Plugins
 
@@ -968,3 +970,4 @@
 - [Cargo tally](https://github.com/dtolnay/cargo-tally) - Graph the number of crates that depend on your crate over time.
 - [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust)
 - [Rust Libs Team](https://github.com/rust-lang/libs-team) - Maintains and manages the Rust standard library, and makes sure crates in the Rust organization are maintained.
+- [Doku](https://github.com/anixe/doku) - Framework for building documentation with code-as-data methodology in mind.

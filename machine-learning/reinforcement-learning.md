@@ -220,3 +220,5 @@
 - [BASALT: A Benchmark for Learning from Human Feedback (2021)](https://bair.berkeley.edu/blog/2021/07/08/basalt/) ([Tweet](https://twitter.com/rohinmshah/status/1413185489335734277))
 - [BRAX](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [Towards Deeper Deep Reinforcement Learning (2021)](https://arxiv.org/abs/2106.01151)
+- [Learning Invariant Representations for Reinforcement Learning without Reconstruction](https://github.com/facebookresearch/deep_bisim4control)
+- [Python MARL](https://github.com/oxwhirl/pymarl) - Python Multi-Agent Reinforcement Learning framework.

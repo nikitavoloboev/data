@@ -89,3 +89,4 @@
 - [Health Icons](https://healthicons.org/)
 - [Awesome Web Icons](https://github.com/vkarampinis/awesome-icons)
 - [ios-symbols](https://github.com/bouchenoiremarc/ios-symbols) - Collection of every symbol from SF Symbols.
+- [Mastering the Basics of Icon Design with Adrien Coquet (2021)](https://blog.thenounproject.com/mastering-the-basics-of-icon-design-with-adrien-coquet-9c3802093e30)

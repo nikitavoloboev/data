@@ -103,6 +103,7 @@
 - [deploy-cloud-functions](https://github.com/google-github-actions/deploy-cloud-functions) - Deploys your function source code to Cloud Functions and makes the URL available to later build steps via outputs.
 - [Skip Duplicate Actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions.
 - [Accessibility Insights Action](https://github.com/microsoft/accessibility-insights-action) - Helps integrate automated accessibility tests in your GitHub workflow.
+- [action-netlify-deploy](https://github.com/South-Paw/action-netlify-deploy) - Netlify deployments via GitHub actions.
 
 ## Go
 

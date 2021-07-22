@@ -119,3 +119,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [How to build communities to build better products?](https://twitter.com/petergyang/status/1408800481049149447)
 - [BeReal](https://bere.al/en) - Your Friends. For Real.
 - [Status, Wealth, & Power: Network Effects Demand A New Social Contract (2021)](https://www.nfx.com/post/network-economy/)
+- [Этические социальные сети c @sitnik (2021)](https://www.youtube.com/watch?v=_sfYv2yTfl0)

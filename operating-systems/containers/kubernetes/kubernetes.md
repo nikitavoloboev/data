@@ -407,3 +407,4 @@
 - [SuperEdge](https://superedge.io/) - Open-source container management system for edge computing. It extends native Kubernetes to the edge in a non-intrusive way. ([Code](https://github.com/superedge/superedge))
 - [Krane](https://github.com/appvia/krane) - Kubernetes RBAC static Analysis & visualisation tool.
 - [We don’t use Kubernetes (2021)](https://ably.com/blog/no-we-dont-use-kubernetes) ([HN](https://news.ycombinator.com/item?id=27893482))
+- [KEDA](https://keda.sh/) - Kubernetes Event-driven Autoscaling. ([Code](https://github.com/kedacore/keda))

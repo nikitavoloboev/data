@@ -435,6 +435,7 @@
 - [Lhotse](https://github.com/lhotse-speech/lhotse) - Python library aiming to make speech and audio data preparation flexible and accessible to a wider community.
 - [scikit-network](https://github.com/sknetwork-team/scikit-network) - Python package for the analysis of large graphs.
 - [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python. ([Docs](https://www.dynaconf.com/))
+- [Shillelagh](https://github.com/betodealmeida/shillelagh) - Making it easy to query APIs via SQL.
 
 ## Links
 

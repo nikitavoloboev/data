@@ -229,3 +229,4 @@
 - [Thriving in a Crowded and Changing World: C++ 2006–2020](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf) ([HN](https://news.ycombinator.com/item?id=27836379))
 - [C++ Dev Ecosystem 2021](https://www.jetbrains.com/lp/devecosystem-2021/cpp/) ([HN](https://news.ycombinator.com/item?id=27886575)) ([Lobsters](https://lobste.rs/s/kv4ynw/c_programming_state_developer_ecosystem))
 - [C++ Interfaces and Templates (2020)](https://dmiller.dev/blog/2020/8/25/c-interfaces-and-templates)
+- [Achieving generic bliss with reflection in modern C++ (2021)](https://ossia.io/posts/reflection/)
