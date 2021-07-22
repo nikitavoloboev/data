@@ -101,4 +101,4 @@
 - [XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor.
 - [XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76 (2021)](https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/) ([HN](https://news.ycombinator.com/item?id=27737718))
 - [RISC-V Bytes](https://danielmangum.com/categories/risc-v-bytes/)
-- [RVVM](https://github.com/lekkit/rvvm) - RISC-V Virtual Machine.
+- [RVVM](https://github.com/lekkit/rvvm) - RISC-V Virtual Machine. ([HN](https://news.ycombinator.com/item?id=27918744))

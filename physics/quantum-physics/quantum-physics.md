@@ -70,3 +70,4 @@
 - [The quantum source of space-time (2015)](https://www.nature.com/articles/527290a) ([Reddit](https://www.reddit.com/r/Physics/comments/nq17au/the_quantum_source_of_spacetime/))
 - [Comments on the Sachdev-Ye-Kitaev model (2016)](https://arxiv.org/abs/1604.07818)
 - [Conservation and scrambling of quantum information (2021)](https://www.youtube.com/watch?v=BJ1Teu-ZK8M) ([Reddit](https://www.reddit.com/r/Physics/comments/ny6ef6/scrambling_of_quantum_information/))
+- [QMsolve](https://github.com/quantum-visualizations/qmsolve) - Module for solving and visualizing the Schrödinger equation.

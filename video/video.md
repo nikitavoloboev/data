@@ -265,3 +265,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Learn How To Edit Stuff - YouTube](https://www.youtube.com/c/LearnHowToEditStuff/videos)
 - [Demystify video codecs by writing one in ~100 lines of Rust (2021)](https://blog.tempus-ex.com/hello-video-codec/)
 - [Piped](https://piped.kavin.rocks/) - Alternative privacy-friendly YouTube frontend which is efficient by design. ([Code](https://github.com/TeamPiped/Piped)) ([HN](https://news.ycombinator.com/item?id=27869188))
+- [MoviePy](https://github.com/Zulko/moviepy) - Programmatic Video Editing with Python. ([HN](https://news.ycombinator.com/item?id=27902717))

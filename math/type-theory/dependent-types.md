@@ -48,3 +48,6 @@
 - [Calculating Dependently-Typed Compilers (2021)](http://www.cs.nott.ac.uk/~pszgmh/well-typed.pdf)
 - [A Dependently Typed Assembly Language](https://www.cs.cmu.edu/~rwh/papers/dtal/icfp01.pdf)
 - [Checking Dependent Types with Normalization by Evaluation: A Tutorial (Haskell Version) (2019)](https://davidchristiansen.dk/tutorials/implementing-types-hs.pdf)
+- [Durin](https://github.com/tolziplohu/durin) - Dependent Unboxed higher-oRder Intermediate Notation.
+- [Pika](https://github.com/tolziplohu/pika) - Small, dependently typed ML with algebraic effects and unboxed types.
+- [Clamn](https://github.com/eashanhatti/clamn) - Functional systems language leveraging dependent types, partial evaluation, and data layout abstraction.

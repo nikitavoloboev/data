@@ -26,3 +26,5 @@
 - [Fourier Neural Operator](https://github.com/zongyi-li/fourier_neural_operator) - Use Fourier transform to learn operators in differential equations.
 - [Generating Coherent Noise Using Fourier Transforms (2021)](https://farazzshaikh.medium.com/generating-noise-using-fourier-transforms-b6ccf64afb08) ([HN](https://news.ycombinator.com/item?id=27365280))
 - [The Fundamental Theorem of Fourier Series (2021)](https://www.youtube.com/watch?v=7BJgmC0T5xQ)
+- [Interactive Fourier Series in Matplotlib](https://github.com/marl0ny/Real-Fourier-Series)
+- [Simulating Light Diffraction with Lenses - Visualizing Fourier Optics (2021)](https://rafael-fuente.github.io/simulating-light-diffraction-with-lenses-visualizing-fourier-optics.html)
