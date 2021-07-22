@@ -177,3 +177,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Geekjob](https://geekjob.ru/) - Вакансии для IT & digital специалистов.
 - [OZON](https://www.ozon.ru/) - Интернет-магазин.
 - [What Russia’s National Security Strategy Has to Say About Asia (2021)](https://thediplomat.com/2021/07/what-russias-national-security-strategy-has-to-say-about-asia/)
+- [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=PLfO1QINjvak9KoBetr7ThGHVB2owBLH1C)

@@ -53,3 +53,4 @@
 - [ddbimport](https://github.com/a-h/ddbimport) - Import CSV data into DynamoDB.
 - [Event Sourced Database in DynamoDB / TypeScript](https://github.com/a-h/hde)
 - [The What, Why and How of DynamoDB (2021)](https://adamrackis.dev/dynamo-introduction/)
+- [Best Practices for Modeling Relational Data in DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-relational-modeling.html)

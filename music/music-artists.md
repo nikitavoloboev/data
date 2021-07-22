@@ -262,3 +262,4 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Один в каное - Дерево](https://www.youtube.com/watch?v=-GyfK2ay3TA)
 - [Mount Kimbie - Before I Move Off (Live on KEXP)](https://www.youtube.com/watch?v=G1tUP1sMagA)
 - [The xx - Sunset (Live on KEXP)](https://www.youtube.com/watch?v=M2JrAhmZmpM)
+- [Lorde: Stoned at the Nail Salon](https://www.youtube.com/watch?v=ycH3P8EiVv0)
