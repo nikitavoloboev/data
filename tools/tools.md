@@ -234,6 +234,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
 - [Murmur](https://www.murmur.com/) - Collaborative platform where teams create, test, scale, and share working agreements.
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
+- [btw](https://www.btw.so/) - Open source platform to understand, engage and convert your visitors into customers.
 - [Ditto](http://www.ditto.live/) - Sync Without Internet.
 - [Seafile](https://www.seafile.com/en/home/) - Enterprise file hosting platform with high reliability and performance.
 - [Focalboard](https://www.focalboard.com/) - Open source alternative to Trello, Asana, and Notion. ([Code](https://github.com/mattermost/focalboard))
@@ -530,3 +531,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Ask HN: Tools you have made for yourself? (2021)](https://news.ycombinator.com/item?id=27482397)
 - [Awesome DX (Developer Experience)](https://github.com/workos-inc/awesome-developer-experience)
 - [Favorite developer-first startups (2021)](https://twitter.com/zenorocha/status/1417493893466054656)
+- [Open Source Alternatives to Popular B2B Tools](https://www.btw.so/open-source-alternatives) ([HN](https://news.ycombinator.com/item?id=27915370))

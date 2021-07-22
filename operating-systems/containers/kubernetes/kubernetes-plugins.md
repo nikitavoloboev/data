@@ -21,3 +21,4 @@
 ## Links
 
 - [krew](https://github.com/kubernetes-sigs/krew/) - Package manager for kubectl plugins.
+- [Awesome kubectl plugins](https://github.com/ishantanu/awesome-kubectl-plugins)

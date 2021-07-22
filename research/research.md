@@ -114,3 +114,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Beaker](https://beaker.org/) - Collaborative platform for rapid and reproducible research. ([Code](https://github.com/allenai/beaker))
 - [The Myth of the Expert Reviewer (2021)](https://parameterfree.com/2021/07/06/the-myth-of-the-expert-reviewer/)
 - [Citation Statement Search](https://scite.ai/search/citations) - Search 885M+ citation statements at once from 26M full-text research articles.
+- [A better Google Scholar (2021)](https://nintil.com/better-google-scholar)

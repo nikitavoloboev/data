@@ -115,3 +115,4 @@
 - [Employees are quitting instead of giving up working from home (2021)](https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home) ([HN](https://news.ycombinator.com/item?id=27353672))
 - [Ask HN: What hardware/furniture/hack greatly improved your WFH setup? (2021)](https://news.ycombinator.com/item?id=27445877)
 - [The work-from-home future is destroying bosses' brains (2021)](https://ez.substack.com/p/the-work-from-home-future-is-destroying) ([HN](https://news.ycombinator.com/item?id=27461970))
+- [The future of the office is the clubhouse (2021)](https://app.mailbrew.com/s/newsletter/W1uyntRDIwk1)

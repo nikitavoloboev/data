@@ -552,6 +552,7 @@
 - [Tempura](https://github.com/lukeed/tempura) - Light, crispy, and delicious template engine.
 - [async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe) - Async cache with dedupe support.
 - [DOM to Image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas.
+- [Dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money safely in JavaScript and TypeScript.
 
 ## Links
 
