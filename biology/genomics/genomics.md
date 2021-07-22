@@ -76,3 +76,4 @@
 - [Illumina](https://www.illumina.com/) - Sequencing and array-based solutions for genetic research.
 - [Wochenende](https://github.com/MHH-RCUG/Wochenende) - Whole Genome/Metagenome Sequencing Alignment Pipeline.
 - [Using a Quadruplet Codon to Expand the Genetic Code of an Animal (2021)](https://www.biorxiv.org/content/10.1101/2021.07.17.452788v1)
+- [PingPong](https://github.com/Parsoa/PingPong) - Comparative genome analysis using sample-specific string detectionin accurate long reads.
