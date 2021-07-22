@@ -225,7 +225,7 @@
 - [kube-events-exporter](https://github.com/rhobs/kube-events-exporter) - Kubernetes events aggregator and exporter.
 - [Structured Merge and Diff](https://github.com/kubernetes-sigs/structured-merge-diff) - Test cases for Kubernetes "apply" operation.
 - [kubecolor](https://github.com/dty1er/kubecolor) - Colorize your kubectl output.
-- [MicroK8s](https://github.com/ubuntu/microk8s) - Small, fast, single-package Kubernetes for developers, IoT and edge. ([Web](https://microk8s.io/)) ([HN](https://news.ycombinator.com/item?id=24786646))
+- [MicroK8s](https://github.com/ubuntu/microk8s) - Small, fast, single-package Kubernetes for developers, IoT and edge. ([Web](https://microk8s.io/)) ([HN](https://news.ycombinator.com/item?id=24786646)) ([HN](https://news.ycombinator.com/item?id=27916178))
 - [Evolution of k8s worker nodes (2020)](https://thechief.io/c/abvijaykumar/evolution-k8s-worker-nodes/)
 - [Kiali](https://kiali.io/) - Service mesh observability and configuration. ([Kiali Operator](https://github.com/kiali/kiali-operator)) ([Kiali Front End](https://github.com/kiali/kiali-ui))
 - [KubeVirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines. ([Web](https://kubevirt.io/)) ([HN](https://news.ycombinator.com/item?id=27205617))

@@ -431,3 +431,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [The Bob Ross Virtual Art Gallery](https://connorrothschild.github.io/bob-ross-art-gallery/)
 - [Showtime](https://tryshowtime.com/) - Crypto Art.
 - [CARI](https://cari.institute/) - Consumer Aesthetics Research Institute.
+- [MakersPlace](https://makersplace.com/) - Premier Rare Digital Art Market.

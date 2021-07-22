@@ -82,3 +82,4 @@
 - [Improving Hyper-Relational Knowledge Graph Completion (2021)](https://arxiv.org/abs/2104.08167)
 - [NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs (2021)](https://arxiv.org/abs/2106.12144) ([Code](https://github.com/migalkin/NodePiece))
 - [WikipediaQL](https://github.com/zverok/wikipedia_ql) - Query language for efficient data extraction from Wikipedia. ([HN](https://news.ycombinator.com/item?id=27738969))
+- [WikiGraphs Dataset](https://paperswithcode.com/dataset/wikigraphs) - Dataset of Wikipedia articles each paired with a knowledge graph.
