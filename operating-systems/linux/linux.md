@@ -342,3 +342,4 @@
 - [Native Journal Protocol](https://systemd.io/JOURNAL_NATIVE_PROTOCOL/)
 - [Let's talk about Wayland (2021)](https://www.dedoimedo.com/computers/wayland-2021.html) ([Lobsters](https://lobste.rs/s/gfasat/let_s_talk_about_wayland))
 - [systemd socket activation (2021)](https://mgdm.net/weblog/systemd-socket-activation/) ([Lobsters](https://lobste.rs/s/jmv1ql/systemd_socket_activation))
+- [Custom eBPF Helpers (2021)](https://nigeltao.github.io/blog/2021/custom-ebpf-helpers.html)

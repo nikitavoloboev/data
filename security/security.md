@@ -168,3 +168,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Cybersecurity and the curse of binary thinking (2021)](https://www.philvenables.com/post/cybersecurity-and-the-curse-of-binary-thinking) ([HN](https://news.ycombinator.com/item?id=27800442))
 - [zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation.
 - [Learnings from looking for NSO Group's spyware on phones (2021)](https://twitter.com/billmarczak/status/1416801439402262529)
+- [Mobile Verification Toolkit (MVT)](https://github.com/mvt-project/mvt) - Forensic tool to look for signs of infection in smartphone devices. ([HN](https://news.ycombinator.com/item?id=27876165))

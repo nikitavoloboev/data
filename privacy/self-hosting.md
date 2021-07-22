@@ -15,3 +15,4 @@
 - [Awesome-Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Free Software network services and web applications which can be hosted on your own servers.
 - [Use managed services. Please. (2020)](http://www.mooreds.com/wordpress/archives/3358) ([Lobsters](https://lobste.rs/s/zgyrc7/use_managed_services_please))
 - [Screw it, I’ll host it myself (2021)](https://www.markozivanovic.com/screw-it-ill-host-it-myself/) ([HN](https://news.ycombinator.com/item?id=26725185))
+- [Forem Self-Host](https://github.com/forem/selfhost) - Selfhost your Forem Community on your own infrastructure.
