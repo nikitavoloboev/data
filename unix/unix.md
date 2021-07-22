@@ -59,3 +59,5 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Dark Side Of Posix Apis (2021)](https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html)
 - [Ghosts of Unix Past](https://lwn.net/Articles/411845/) ([HN](https://news.ycombinator.com/item?id=27183784))
 - [Evolution of the Unix System Architecture: An Exploratory Case Study (2019)](https://ieeexplore.ieee.org/document/8704965)
+- [Program design in the UNIX environment (1984)](http://harmful.cat-v.org/cat-v/unix_prog_design.pdf) ([Lobsters](https://lobste.rs/s/a2k2pp/program_design_unix_environment_1984))
+- [Unix tooling - join, don't extend (2021)](https://qmacro.org/2021/07/21/unix-tooling-join,-don't-extend/)

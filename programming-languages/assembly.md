@@ -56,3 +56,4 @@
 - [Programming with 64-Bit ARM Assembly Language (2020)](https://www.apress.com/de/book/9781484258804) ([Code](https://github.com/below/HelloSilicon))
 - [Down to the silicon: how the Z80's registers are implemented (2014)](http://www.righto.com/2014/10/how-z80s-registers-are-implemented-down.html)
 - [Assembly Language and Computer Architecture (2018)](https://www.youtube.com/watch?v=L1ung0wil9Y)
+- [Reversing for dummies - x86 assembly and C code (2021)](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)

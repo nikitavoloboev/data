@@ -219,3 +219,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [The next 700 programming languages (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf) ([Lobsters](https://lobste.rs/s/mgugbx/next_700_programming_languages_1966))
 - [Creating the Golfcart Programming Language (2021)](https://healeycodes.com/creating-the-golfcart-programming-language/)
 - [Sham: A DSL for Fast DSLs (2021)](https://programming-journal.org/2022/6/4/)
+- [Beautiful ideas in programming: generators and continuations (2021)](https://www.hhyu.org/posts/generator_and_continuation/)

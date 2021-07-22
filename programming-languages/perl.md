@@ -32,3 +32,4 @@
 - [Perl / Unix One-liner Cage Match (2021)](https://www.perl.com/article/perl-one-liners-part-1/)
 - [Perl Data Language](http://pdl.perl.org/) - Scientific Computing with Perl. ([HN](https://news.ycombinator.com/item?id=27439638))
 - [Perl & Raku Conference review (2021)](https://dev.to/thibaultduponchelle/tprcic-2021-review-56k3)
+- [The four noisy horsemen of Perl hate (2021)](https://phoenixtrap.com/2021/07/20/the-four-noisy-horsemen-of-perl-hate/) ([Lobsters](https://lobste.rs/s/oa8sgi/four_noisy_horsemen_perl_hate))

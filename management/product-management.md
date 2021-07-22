@@ -75,3 +75,4 @@
 - [What I think makes a good product manager (2021)](https://twitter.com/anothercohen/status/1394829612408926213)
 - [The Product Folks](https://www.theproductfolks.com/) - Community of Product Managers and enthusiasts.
 - [Rituals for hypergrowth: An inside look at how YouTube scaled](https://coda.io/@shishir/rituals-for-hypergrowth-an-inside-look-at-how-youtube-scaled)
+- [Planning & estimating large-scale software projects (2021)](https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html) ([Lobsters](https://lobste.rs/s/howzf7/planning_estimating_large_scale))

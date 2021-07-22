@@ -160,3 +160,4 @@
 - [How do games render their scenes? (2021)](https://www.youtube.com/watch?v=Oct4Oi-KfVQ)
 - [Visibility Buffer Rendering with Material Graphs (2021)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
 - [Smoothstep Integral](https://iquilezles.org/www/articles/smoothstepintegral/smoothstepintegral.htm) ([HN](https://news.ycombinator.com/item?id=27588977))
+- [Rendering 1M+ Particles (2021)](https://blog.farazshaikh.com/stories/rendering-1-m-particles/) - Using Points and Shaders.
