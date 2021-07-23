@@ -41,6 +41,7 @@ Success comes from not giving up and doing what you love.
 - [Fear makes us fiction writers.](https://twitter.com/businessbarista/status/1400454512721108995)
 - [Just ask. It's the kind of thing everyone says "of course" or "that's obvious" to and then never do in practice themselves. I'm in my 40s and only seeing the true power now of asking for things, for help, for what you want. In business, in friendships, in romance, in all aspects of your life, when you ask, the response is most often Yes, Sure, Of course, Happy to help.](https://news.ycombinator.com/item?id=27690731)
 - [The ultimate hack in life is to simply be the person you're looking for.](https://twitter.com/ShaneAParrish/status/1329789158462722049)
+- [The greatest privilege one can have is the option of only working with people you like, trust and respect.](https://twitter.com/hunterwalk/status/1418194197195202563)
 
 ## Links
 

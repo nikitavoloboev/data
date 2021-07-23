@@ -40,3 +40,4 @@ I [budget & invest my money](../economy/finance.md).
 - [Home Inventory (2021)](https://alexfedoseev.com/blog/productivity/2021/home-inventory)
 - [Simplifier](https://simplifier.neocities.org/index.html) ([Tweet](https://twitter.com/rsms/status/1388554538831867905)) ([HN](https://news.ycombinator.com/item?id=26979636))
 - [Everything I own fits into one backpack (2019)](https://ryzalyusoff.com/everything-i-own-fits-into-one-backpack/)
+- [Why People Are Scared of Marie Kondo (2021)](https://sashachapin.substack.com/p/why-people-are-scared-of-marie-kondo)

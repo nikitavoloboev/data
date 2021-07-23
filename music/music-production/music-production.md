@@ -220,3 +220,4 @@
 - [A Recipe For Learning Audio Programming](https://pbat.ch/wiki/audio_programming_recipe/)
 - [Pianobook](https://www.pianobook.co.uk/) - Peer-to-peer community of composers, producers and sound smiths sharing their sounds for all to use for free.
 - [Functional, Declarative Audio Applications (2021)](https://www.nickwritesablog.com/functional-declarative-audio-applications/)
+- [Midicircuit](https://midicircuit.com/) - Learn music with your Midi Instrument.

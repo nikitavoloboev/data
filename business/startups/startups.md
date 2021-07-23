@@ -299,6 +299,7 @@
 - [Knowledge hub for super-early stage entrepreneurs](https://therainforest.xyz/)
 - [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit) - How to build a category-killing company from the ground up.
 - [Startupy First Friends](https://www.notion.so/Startupy-First-Friends-05ff4b3ae7844fc0aa3c651c1b767332)
+- [Non-obvious signals your startup is hitting an inflection point](https://twitter.com/asanwal/status/1417985870473347078)
 
 ## Images
 

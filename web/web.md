@@ -286,3 +286,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [URLs: It's complicated (2021)](https://www.netmeister.org/blog/urls.html) ([HN](https://news.ycombinator.com/item?id=27588306))
 - [The Future Of The Web (2021)](https://www.hazem.cool/blog/the-future-of-the-web)
 - [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/) ([Lobsters](https://lobste.rs/s/epqbuw/public_cdns_are_useless_dangerous))
+- [How to build accessible modals (2021)](https://twitter.com/dluzar/status/1418259104938795017)
+- [What forces layout/reflow. The comprehensive list.](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)

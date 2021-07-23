@@ -17,3 +17,4 @@
 - [Post-Merkel Germany May Be Shaded Green (2021)](https://www.nytimes.com/2021/04/17/world/europe/germany-green-party-merkel.html) ([Tweet](https://twitter.com/v_milov/status/1386241988190605319))
 - [Awesome German](https://github.com/willianpaixao/awesome-german) - Links to learn German as foreign language.
 - [German for Programmers (2019)](https://wickedchicken.github.io/post/german-for-programmers/)
+- [Ask HN: How are salaries for senior devs in Berlin at the moment? (2021)](https://news.ycombinator.com/item?id=27912487)
