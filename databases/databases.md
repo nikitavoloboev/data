@@ -381,3 +381,4 @@
 - [The Database Ruins All Good Ideas (2021)](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/) ([Lobsters](https://lobste.rs/s/nsrhor/database_ruins_all_good_ideas)) ([HN](https://news.ycombinator.com/item?id=27863822))
 - [Old pattern powering modern tech (2021)](https://softwarebits.substack.com/p/old-pattern-powering-modern-tech) - Or why modern storage is just a faster tape.
 - [Migrating Facebook to MySQL 8.0 (2021)](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/) ([HN](https://news.ycombinator.com/item?id=27922097))
+- [Pufferfish, please scale the site! (2021)](https://blog.noredink.com/post/657392972659310592/pufferfish-please-scale-the-site)

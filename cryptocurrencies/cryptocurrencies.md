@@ -20,6 +20,7 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Nimiq](https://www.nimiq.com/) - Simple, secure and censorship resistant cryptocurrency. ([Code](https://github.com/nimiq/core-rs-albatross))
 - [Iron Fish](https://ironfish.network/) - Private, anonymous, and easy to use cryptocurrency. ([Code](https://github.com/iron-fish/ironfish))
 - [MobileCoin Fog](https://github.com/mobilecoinfoundation/fog) - Private payments for mobile devices. ([HN](https://news.ycombinator.com/item?id=26713953))
+- [Dagcoin](https://dagcoin.org/) - Cryptocurrency designed for using, not trading.
 
 ## Notes
 

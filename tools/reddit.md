@@ -18,3 +18,4 @@
 - [FindAReddit](https://www.findareddit.com/) - Find Subreddits for your Niche. ([HN](https://news.ycombinator.com/item?id=27293902))
 - [Reddit Favorites](https://redditfavorites.com/)
 - [Reddit List](https://redditlist.io/) - Discover Subreddits for different topics.
+- [Scaling Reddit’s Community Points with Arbitrum (2021)](https://www.reddit.com/r/ethereum/comments/opi5rg/scaling_reddits_community_points_with_arbitrum/)
