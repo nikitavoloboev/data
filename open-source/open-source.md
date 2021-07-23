@@ -185,3 +185,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Sorry everybody, I failed with you](https://github.com/pedronauck/docz/issues/1634) ([HN](https://news.ycombinator.com/item?id=27420554))
 - [antirez's thoughts on open source](https://news.ycombinator.com/item?id=27423526) ([Tweet](https://twitter.com/antirez/status/1401921830311575556))
 - [A case for funding Open Source (2021)](https://jzhao.xyz/posts/paid-oss/)
+- [How to best approach contributing to open source project (2021)](https://twitter.com/SimonHoiberg/status/1418227269256945664)

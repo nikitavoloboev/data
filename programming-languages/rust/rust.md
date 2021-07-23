@@ -514,3 +514,4 @@
 - [Inline In Rust (2021)](https://matklad.github.io//2021/07/09/inline-in-rust.html) ([Lobsters](https://lobste.rs/s/bd6rcd/inline_rust))
 - [The problem of effects in Rust (2020)](https://boats.gitlab.io/blog/post/the-problem-of-effects/) ([Lobsters](https://lobste.rs/s/otrxxf/problem_effects_rust_2020))
 - [How we improved the performance of our Rust app (2021)](https://www.poor.dev/blog/performance/)
+- [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
