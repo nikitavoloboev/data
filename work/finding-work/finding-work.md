@@ -123,3 +123,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [SideQuest](https://sidequestjobs.com/) - Short Term Tech Jobs. ([HN](https://news.ycombinator.com/item?id=27749497))
 - [Ask HN: Recruiters want people who do side projects, yet contracts forbid them? (2021)](https://news.ycombinator.com/item?id=27843198)
 - [How I Became a Software Engineer (From Designer to Developer) (2021)](https://leerob.io/blog/career)
+- [It doesn't take much public creativity to stand out as a job candidate (2021)](https://simonwillison.net/2021/Jul/17/standing-out/) ([HN](https://news.ycombinator.com/item?id=27907151))

@@ -51,3 +51,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [PlayPhrase](https://www.playphrase.me/) - Site for Searching Cinema Phrases. ([HN](https://news.ycombinator.com/item?id=27434159))
 - [How Good Filmmaking Brings a Script to Life (2021)](https://www.youtube.com/watch?v=Y5S4PyBR364)
 - [No More Movies (2021)](https://jayriverlong.github.io/2021/07/05/movies.html) ([HN](https://news.ycombinator.com/item?id=27743738))
+- [Wes Anderson Explains How to Write & Direct Movies (2019)](https://www.youtube.com/watch?v=Sdt0oam6O1o)

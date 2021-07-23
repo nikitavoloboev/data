@@ -72,3 +72,4 @@
 - [How I became more productive during the pandemic (2021)](https://blakestephenanderson.medium.com/how-i-became-more-productive-during-the-pandemic-ab5cb68c0d9f)
 - [Roam Toolkit](https://github.com/roam-unofficial/roam-toolkit) - Roam force multiplier.
 - [Roam JS Extensions](https://github.com/dvargas92495/roam-js-extensions) ([Web](https://roamjs.com/))
+- [Roam Research Access](https://kpaxs.gumroad.com/l/Kpaxs)

@@ -15,4 +15,5 @@
 - [Poker Web](https://github.com/buhrmi/svelte-poker) - Poker game made with Svelte.
 - [Floptimal](https://app.floptimal.com/) - Preflop ranges reimagined. ([HN](https://news.ycombinator.com/item?id=27361584))
 - [Mental Poker](https://people.csail.mit.edu/rivest/pubs/SRA81.pdf) ([HN](https://news.ycombinator.com/item?id=27734693))
+- [Mental Poker in Go](https://tpaschalis.github.io/mental-poker/)
 - [The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova](https://www.goodreads.com/book/show/49814228-the-biggest-bluff)

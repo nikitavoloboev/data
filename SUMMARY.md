@@ -900,3 +900,4 @@
     - [2021 April](looking-back/2021/2021-april.md)
     - [2021 May](looking-back/2021/2021-may.md)
     - [2021 June](looking-back/2021/2021-june.md)
+    - [2021 July](looking-back/2021/2021-july.md)

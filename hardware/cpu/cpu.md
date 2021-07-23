@@ -103,3 +103,4 @@
 - [Your CPU May Have Slowed Down on Wednesday (2021)](https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html) ([HN](https://news.ycombinator.com/item?id=27588258))
 - [CPU Pinning and CPU Sets (2020)](https://www.netmeister.org/blog/cpu-pinning-and-sets.html)
 - [A natively flexible 32-bit Arm microprocessor (2021)](https://www.nature.com/articles/s41586-021-03625-w) ([HN](https://news.ycombinator.com/item?id=27910621))
+- [PlasticArm: Get Your Next CPU, Made Without Silicon (2021)](https://www.anandtech.com/show/16837/plasticarm-get-your-next-cpu-without-silicon) ([Lobsters](https://lobste.rs/s/ljgsb5/plasticarm_get_your_next_cpu_made_without))
