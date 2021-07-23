@@ -99,3 +99,4 @@ I try to give my full attention to any ideas I am working on.
 - [Why I prefer making useless stuff (2021)](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html) ([HN](https://news.ycombinator.com/item?id=27256867))
 - [Steve Jobs advice on how to push back against bad ideas](https://twitter.com/GK3/status/1398328733782601730)
 - [Ask HN: Post Burnout Ideas (2021)](https://news.ycombinator.com/item?id=27410951)
+- [Your idea is brilliant, your idea is worthless (2016)](https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/) ([HN](https://news.ycombinator.com/item?id=27892066))

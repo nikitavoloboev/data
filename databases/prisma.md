@@ -59,3 +59,4 @@
 - [A Practical Introduction to Prisma (2021)](https://www.notion.so/A-Practical-Introduction-to-Prisma-2021-ccf00a066ef4432caeb03da179e38302) ([Code](https://github.com/nikolasburk/prisma-workshop))
 - [Prisma, Next.js & ISR: Building Speedy Web Apps](https://github.com/sampoder/prisma-day-2021)
 - [Prisma Day](https://www.prisma.io/day)
+- [Prismix](https://github.com/jamiepine/prismix) - Prisma schema mixer.

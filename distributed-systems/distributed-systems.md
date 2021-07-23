@@ -204,3 +204,4 @@
 - [Getting To Know Logical Clocks By Implementing Them (2021)](https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/)
 - [Paxos vs Raft: Have we reached consensus on distributed consensus? (2021)](http://charap.co/reading-group-paxos-vs-raft-have-we-reached-consensus-on-distributed-consensus/) ([HN](https://news.ycombinator.com/item?id=27831576))
 - [Consistency and Consensus – How Do Paxos and Raft Work? (2021)](https://10percentsmarter.substack.com/p/consistency-and-consensus)
+- [Summer Blog Backlog: Distributed Systems (2021)](http://www.oilshell.org/blog/2021/07/blog-backlog-2.html)

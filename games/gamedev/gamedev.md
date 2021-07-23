@@ -31,6 +31,7 @@
 - [Big Time Studios](https://bigtime.gg/)
 - [No More Robots](https://nomorerobots.io/)
 - [Resolution Games](https://www.resolutiongames.com/)
+- [Stonemaier Games](https://stonemaiergames.com/)
 
 ## Devs
 

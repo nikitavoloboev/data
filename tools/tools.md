@@ -141,6 +141,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [OpenReplay](https://openreplay.com/) - Open-Source Session Replay. ([Code](https://github.com/openreplay/openreplay))
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli))
 - [Tinybird](https://www.tinybird.co/) - Turn raw data into realtime API at scale.
+- [Notify](https://notify.me/) - Subscribe directly to creators.
 - [Increment.me](https://www.increment.me/) - Easily get anonymous feedback on anything. ([HN](https://news.ycombinator.com/item?id=25029904))
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)

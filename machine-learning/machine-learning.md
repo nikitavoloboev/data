@@ -518,3 +518,4 @@
 - [Popular Machine Learning Interview Questions (2021)](https://www.thinkdataanalytics.com/machine-learning-interview-questions/)
 - [Solving Machine Learning Performance Anti-Patterns: a Systematic Approach (2021)](https://paulbridger.com/posts/nsight-systems-systematic-optimization/)
 - [Bayesian learning via stochastic gradient langevin dynamics (2011)](https://dl.acm.org/doi/10.5555/3104482.3104568)
+- [Megaverse: Simulating Embodied Agents at One Million Experiences per Second](https://www.megaverse.info/) ([Paper](https://arxiv.org/abs/2107.08170)) ([Code](https://github.com/alex-petrenko/megaverse))

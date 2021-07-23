@@ -34,6 +34,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [RabbitHole](https://rabbithole.gg/) - Earn crypto by using the latest crypto applications.
 - [WENEW](https://we.new/) - Collect iconic moments in music, sports, comedy, history, etc. on the blockchain. ([Tweet](https://twitter.com/beeple/status/1408055272837468160))
 - [Sky Mavis](https://skymavis.com/) - Blockchain: Gamified.
+- [Axie Infinity](https://axieinfinity.com/) - New type of game, partially owned and operated by its players. ([White Paper](https://whitepaper.axieinfinity.com/))
 
 ## Notes
 

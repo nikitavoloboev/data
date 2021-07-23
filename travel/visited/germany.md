@@ -18,3 +18,4 @@
 - [Awesome German](https://github.com/willianpaixao/awesome-german) - Links to learn German as foreign language.
 - [German for Programmers (2019)](https://wickedchicken.github.io/post/german-for-programmers/)
 - [Ask HN: How are salaries for senior devs in Berlin at the moment? (2021)](https://news.ycombinator.com/item?id=27912487)
+- [How to find a Software Developer job in Germany (2021)](https://www.reddit.com/r/cscareerquestionsEU/comments/opzu4d/guide_how_to_find_a_software_developer_job_in/)
