@@ -149,3 +149,4 @@
 - [React Training Workshop on React Hooks](https://github.com/ReactTraining/react-workshop)
 - [Manage Application State with Jotai Atoms (2021)](https://egghead.io/courses/manage-application-state-with-jotai-atoms-2c3a29f0)
 - [useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
+- [The Latest Ref Pattern in React](https://epicreact.dev/the-latest-ref-pattern-in-react/)

@@ -187,3 +187,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [gridless.design](https://gridless.design/)
 - [The elements of product design (2021)](https://jamiemill.com/blog/elements-of-product-design/)
 - [Tricycle](https://tricycle.ai/) - Automation Tools for Designers.
+- [Design Vault](https://designvault.io/) - UI patterns & design inspiration from real products.

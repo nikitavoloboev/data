@@ -62,3 +62,4 @@
 - [Posture Reddit](https://www.reddit.com/r/Posture/)
 - [Ask HN: How do you guys prevent back problems? (2019)](https://news.ycombinator.com/item?id=19824656)
 - [Why is standing more tiring than walking?](https://www.bbc.co.uk/programmes/w3ct1pqm) ([HN](https://news.ycombinator.com/item?id=27824885))
+- [Setups](https://setups.co/) - Repository of workspaces, items & tools from the creator community.

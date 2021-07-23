@@ -32,6 +32,7 @@
 - [No More Robots](https://nomorerobots.io/)
 - [Resolution Games](https://www.resolutiongames.com/)
 - [Stonemaier Games](https://stonemaiergames.com/)
+- [Second Dinner](https://seconddinner.com/)
 
 ## Devs
 

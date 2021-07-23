@@ -80,6 +80,7 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Watershed](https://www.watershedclimate.com/) - Helping companies cut carbon.
 - [Johannes Ackva: An update to our thinking on climate change (2020)](https://www.effectivealtruism.org/articles/johannes-ackva-an-update-to-our-thinking-on-climate-change/)
 - [Climate Change AI](https://www.climatechange.ai/) - Tackling Climate Change with Machine Learning.
+- [Climate Change AI Directory](https://directory.climatechange.ai/) - Searchable list of people with experience and/or interest in doing impactful work at the intersection of climate change and machine learning.
 - [Climate Modeling Alliance](https://clima.caltech.edu/) - Alliance of scientists, engineers and applied mathematicians, dedicated to pioneering a new, data-informed approach to climate modeling. ([GitHub](https://github.com/CliMA))
 - [Pale Blue Dot](https://www.paleblue.vc/) - Climate-tech venture fund investing in companies that reduce and reverse the effects of climate change and prepare for a new world.
 - [The Ocean Cleanup](https://theoceancleanup.com/) - Developing technologies to rid the oceans of plastic.

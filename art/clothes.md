@@ -46,3 +46,4 @@
 - [Barking Store](https://barkingstore.ru/) - Актуальный мерч с животными. ([Twitter](https://twitter.com/50pets))
 - [Intimissimi](https://www.intimissimi.com/) - Lingerie and Underwear.
 - [Brioni](https://www.brioni.com/)
+- [Saint Laurent](https://www.ysl.com/)

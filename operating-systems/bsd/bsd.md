@@ -64,3 +64,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [Poudriere Guide (2021)](https://danschmid.de/en/blog/poudriere-guide)
 - [FreeBSD from a NetBSD user’s perspective (2021)](https://washbear.neocities.org/freebsd-netbsd-user.html) ([Lobsters](https://lobste.rs/s/apuomg/freebsd_from_netbsd_user_s_perspective))
 - [My Fanless OpenBSD Desktop (2021)](https://jcs.org/2021/07/19/desktop) ([Lobsters](https://lobste.rs/s/dtkal8/my_fanless_openbsd_desktop))
+- [MyBee — FreeBSD OS and hypervisor bhyve as private cloud (2021)](https://habr.com/ru/post/569226/)

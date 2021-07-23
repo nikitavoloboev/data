@@ -112,3 +112,4 @@
 - [Ideas in statistics that have powered AI (2021)](https://news.columbia.edu/news/top-10-ideas-statistics-ai) ([HN](https://news.ycombinator.com/item?id=27760919))
 - [How to do Bayesian statistical modelling using numpy and PyMC3](https://github.com/ericmjl/bayesian-stats-modelling-tutorial)
 - [Gaussian Processes from Scratch (2019)](https://peterroelants.github.io/posts/gaussian-process-tutorial/)
+- [Bayesian Modeling and Computation in Python Book (2022)](https://www.routledge.com/Bayesian-Modeling-and-Computation-in-Python/Martin-Kumar-Lao/p/book/9780367894368)

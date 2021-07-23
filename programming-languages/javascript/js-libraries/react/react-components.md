@@ -216,3 +216,7 @@
 - [Not All Components Are Created Equal (2021)](https://formidable.com/blog/2021/react-components/)
 - [How We Built React Components for Any Front End (2021)](https://www.courier.com/blog/how-we-built-react-components-for-any-front-end)
 - [Designing a Dataflow Editor With TypeScript and React (2021)](https://research.protocol.ai/blog/2021/designing-a-dataflow-editor-with-typescript-and-react/)
+- [Avoid global state — Colocate with Uncontrolled Compound Components (2021)](https://jjenzz.com/avoid-global-state-colocate)
+- [Are you a component control freak? (2019)](https://jjenzz.com/component-control-freak)
+- [A Smarter, Dumb Breadcrumb (2019)](https://jjenzz.com/smarter-dumb-breadcrumb)
+- [Compound Components (2019)](https://jjenzz.com/compound-components)
