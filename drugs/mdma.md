@@ -5,6 +5,7 @@
 - For proper mixing LSD & MDMA, take MDMA 3 hours after LSD. They synergize & potentiate each other so don't take a lot of each.
 - [If you decide to dose both, I recommend dosing the Molly 3 to 3.5 hours after you dose Lucy. I like to ride the Lucy peak then on the come down the Molly kicks in and creates an altered trip. But if it is your first Lucy trip I'd say stick to only that and become familiar with the effects. Completely up to you though, both experiences are incredible.](https://www.reddit.com/r/LSD/comments/bntg7c/_/en8y59a/?context=1)
 - [Experts advise to wait at least 3-5 weeks between taking MDMA, and recommend 3 months.](https://www.reddit.com/r/MDMA/comments/ohdx5u/doing_mdma_every_day/)
+- [~ 100mg is good MDMA dose, anything higher has a lot of negative effects.](https://www.reddit.com/r/RationalPsychonaut/comments/onyegg/mdma/)
 
 ## Links
 
