@@ -164,6 +164,7 @@
 - [Kratos](https://github.com/go-kratos/kratos) - Go framework for microservices.
 - [cap](https://github.com/hashicorp/cap) - Collection of authentication Go packages related to OIDC, JWKs and Distributed Claims.
 - [letgo](https://github.com/wjpxxx/letgo) - Open-source, high-performance web framework for the Go programming language.
+- [api2](https://github.com/starius/api2) - Go library to make HTTP API clients and servers.
 
 ## GraphQL
 
@@ -882,6 +883,7 @@
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible, configuration management library for Go.
 - [Puddle](https://github.com/jackc/puddle) - Tiny generic resource pool library for Go that uses the standard context library to signal cancellation of acquires.
 - [go-arm64](https://github.com/blacktop/go-arm64) - Pure Go AARCH64 architecture disassembler.
+- [AirplayMirroringGo](https://github.com/openairplay/AirplayMirroringGo) - Cross platform AirPlay mirroring client by Go.
 
 ## Links
 

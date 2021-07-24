@@ -509,3 +509,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The online data that's being deleted (2021)](https://www.bbc.com/future/article/20210715-the-online-data-thats-being-deleted)
 - [Permacomputing](http://viznut.fi/texts-en/permacomputing.html)
 - [Aether](https://aetherdiamonds.com/) - Sustainable Diamonds Made from Air.
+- [Go Play 2](https://github.com/openairplay/goplay2) - Airplay 2 Receiver written in Go.

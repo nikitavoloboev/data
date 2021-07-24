@@ -513,3 +513,4 @@ Go promotes composition over inheritance.
 - [Accessing PostgreSQL databases in Go (2021)](https://eli.thegreenplace.net/2021/accessing-postgresql-databases-in-go/) ([Lobsters](https://lobste.rs/s/4w9rta/accessing_postgresql_databases_go))
 - [Does the Go community have a problem with reinventing the wheel? (2021)](https://www.reddit.com/r/golang/comments/ooqm6r/does_the_go_community_have_a_problem_with/)
 - [Goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
+- [gohere](https://github.com/starius/gohere) - Install Go into a local directory.
