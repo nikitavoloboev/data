@@ -36,6 +36,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 ## Utility
 
 - [Hop](https://github.com/phaazon/hop.nvim) - Neovim motions on speed.
+- [Navigator](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze. Exploring LSP and Treesitter.
 - [Zen Mode](https://github.com/folke/zen-mode.nvim) - Distraction-free coding for Neovim.
 - [Lightspeed](https://github.com/ggandor/lightspeed.nvim) - Making on-screen navigation as quick and efficient as possible.
 - [nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - Snazzy bufferline for Neovim.

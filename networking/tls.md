@@ -34,3 +34,4 @@
 - [Bulletproof TLS Newsletter](https://www.feistyduck.com/bulletproof-tls-newsletter/)
 - [mint](https://github.com/bifurcation/mint) - Minimal TLS 1.3 Implementation in Go.
 - [Contruno](https://github.com/dinosaure/contruno) - TLS termination proxy as a MirageOS.
+- [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.

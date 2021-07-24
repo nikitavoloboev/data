@@ -335,3 +335,4 @@
 - [ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases (2021)](https://arxiv.org/abs/2103.10697) ([Code](https://github.com/facebookresearch/convit)) ([Paper Read](https://www.youtube.com/watch?v=QdbieYXn_XM)) ([Article](https://www.marktechpost.com/2021/07/20/facebook-ai-introduces-convit-a-computer-vision-model-that-improves-vision-transformers-vit-with-soft-convolutional-inductive-biases/))
 - [CO3D: Common Objects In 3D](https://github.com/facebookresearch/co3d) - Tools for working with the Common Objects in 3D (CO3D) dataset.
 - [ORBIT: A Real-World Few-Shot Dataset for Teachable Object Recognition (2021)](https://arxiv.org/abs/2104.03841) ([Code](https://github.com/microsoft/ORBIT-Dataset))
+- [Vision Transformer Architecture Search (2021)](https://arxiv.org/abs/2106.13700) ([Code](https://github.com/xiusu/ViTAS))

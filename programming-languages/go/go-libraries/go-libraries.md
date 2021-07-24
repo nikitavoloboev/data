@@ -904,3 +904,4 @@
 - [gographs](https://gographs.io/) - Renders dependency graphs for Go packages. ([Code](https://github.com/siggy/gographs))
 - [GoImportDot](https://github.com/yqylovy/goimportdot) - Tiny tool to draw a graph of Go package import relationship.
 - [Wrapcheck](https://github.com/tomarrell/wrapcheck) - Go linter to check that errors from external packages are wrapped.
+- [gomajor](https://github.com/icholy/gomajor) - Go tool for major version upgrades.

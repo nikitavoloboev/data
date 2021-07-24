@@ -165,3 +165,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [maildog](https://github.com/edmundhung/maildog) - Hosting email forwarding service on AWS with GitHub Actions. ([HN](https://news.ycombinator.com/item?id=27819814))
 - [Streak](https://www.streak.com/) - CRM for Gmail.
 - [Stripo](https://stripo.email/) - Free Email Template Builder.
+- [react-letter](https://github.com/mat-sz/react-letter) - Display e-mails in your React.js projects.

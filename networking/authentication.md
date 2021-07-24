@@ -132,3 +132,4 @@
 - [Verify Apple idToken](https://github.com/stefan-prokop-cz/verify-apple-id-token) - Verify the Apple id token on the server side.
 - [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens. ([Web](https://paseto.io/))
 - [Keratin AuthN](https://keratin.tech/) - Authentication service that keeps you in control without forcing you to be an expert in web security. ([Code](https://github.com/keratin/authn-server))
+- [WebAuthn Library](https://github.com/duo-labs/webauthn) - WebAuthn (FIDO2) server library written in Go.

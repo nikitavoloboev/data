@@ -3,6 +3,7 @@
 ## Nice OSS RN apps
 
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Pocket robot for your internet money, powered by Ethereum.
+- [SimpleShop](https://github.com/hoangvvo/SimpleShop) - Tiny app to manage inventory and keep track of orders and profits.
 
 ## Links
 

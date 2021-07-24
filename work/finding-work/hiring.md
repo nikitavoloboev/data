@@ -8,6 +8,7 @@
 - [Skyscanner](https://github.com/Skyscanner/full-stack-recruitment-test)
 - [Otta](https://github.com/XavKearney/otta-engineering-interview-task)
 - [PFN Internship Coding Tasks](https://github.com/pfnet/intern-coding-tasks)
+- [Conduktor Coding Challenges](https://github.com/conduktor/conduktor-coding-challenge)
 
 ## Nice Job pages
 
