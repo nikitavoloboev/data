@@ -104,3 +104,4 @@
 - [Some onboarding overviews/commentary](https://twitter.com/Spshulem/status/1410719940114468867)
 - [Swipe Convert](https://cogentgene1.gumroad.com/#WCKkj) - Increase conversions, signups and revenue.
 - [Design Patterns](https://www.smashingmagazine.com/category/design-patterns/)
+- [Some Resources For Learning About HCI (2021)](https://nickarner.com/notes/some-resources-for-learning-about-hci-january-22-2021/)

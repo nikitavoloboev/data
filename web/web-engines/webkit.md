@@ -14,3 +14,4 @@
 - [WebKit Code](https://github.com/WebKit/WebKit)
 - [WebXR landing in WebKit (2021)](https://blogs.igalia.com/ifernandez/2021/01/webxr-webkit/)
 - [Things I Learned Reading Webkit’s UA Stylesheet (2021)](https://blog.jim-nielsen.com/2021/things-i-learned-reading-webkits-ua-stylesheet/) ([HN](https://news.ycombinator.com/item?id=27883675))
+- [What needs to be added to WebKit? (2021)](https://twitter.com/jensimmons/status/1418920407642656775)

@@ -1,5 +1,9 @@
 # Ketamine
 
+## Notes
+
+- [MDMA + Ket is nice combo](https://www.reddit.com/r/ketamine/comments/oqdjwe/the_most_intense_hole_ive_ever_experienced/)
+
 ## Links
 
 - [High doses of ketamine can temporarily switch off the brain (2020)](https://www.cam.ac.uk/research/news/high-doses-of-ketamine-can-temporarily-switch-off-the-brain-say-researchers) ([HN](https://news.ycombinator.com/item?id=23509366))
@@ -13,3 +17,4 @@
 - [Therapeutic Ketamine Reddit](https://www.reddit.com/r/TherapeuticKetamine/)
 - [Interview with a Ketamine Chemist](https://www.vice.com/en/article/ppzgk9/interview-with-ketamine-chemist-704-v18n2)
 - [What, if any, are the long term effects of low dose ketamine use neurologically?](https://www.reddit.com/r/AskDrugNerds/comments/of8s7z/what_if_any_are_the_long_term_effects_of_low_dose/)
+- [Dr. John C. Lilly 1992 lecture | Dolphins and LSD; Float Tanks and Ketamine](https://www.youtube.com/watch?v=nGhCpC5hH0k)

@@ -12,7 +12,7 @@
 - [TorchCV](https://github.com/donnyyou/torchcv) - PyTorch-Based Framework for Deep Learning in Computer Vision.
 - [AI Habitat](https://github.com/facebookresearch/habitat-sim) - Flexible, high-performance 3D simulator for Embodied AI research.
 - [Kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch.
-- [Roboflow](https://roboflow.com/) - Raw images to trained computer vision model.
+- [Roboflow](https://roboflow.com/) - Raw images to trained computer vision model. ([Article](https://nickarner.com/notes/roboflow-memo-february-1-2021/))
 - [PySlowFast](https://github.com/facebookresearch/SlowFast) - Open source video understanding codebase from FAIR that provides state-of-the-art video classification models.
 - [How to Convert a Picture to Numbers](https://brohrer.github.io/images_to_numbers.html)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -336,3 +336,4 @@
 - [CO3D: Common Objects In 3D](https://github.com/facebookresearch/co3d) - Tools for working with the Common Objects in 3D (CO3D) dataset.
 - [ORBIT: A Real-World Few-Shot Dataset for Teachable Object Recognition (2021)](https://arxiv.org/abs/2104.03841) ([Code](https://github.com/microsoft/ORBIT-Dataset))
 - [Vision Transformer Architecture Search (2021)](https://arxiv.org/abs/2106.13700) ([Code](https://github.com/xiusu/ViTAS))
+- [TSIT: A Simple and Versatile Framework for Image-to-Image Translation (2020)](https://arxiv.org/abs/2007.12072) ([Code](https://github.com/EndlessSora/TSIT))

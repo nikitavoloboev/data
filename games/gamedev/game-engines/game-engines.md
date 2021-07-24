@@ -83,6 +83,7 @@
 - [MxEngine](https://github.com/asc-community/MxEngine) - C++ open source 3D game engine.
 - [Flame](https://github.com/flame-engine/flame) - 2D game engine made on top of Flutter. ([Web](https://flame-engine.org/))
 - [Open 3D Engine (O3DE)](https://o3de.org/) - Open-source, real-time 3D development engine. ([Code](https://github.com/o3de/o3de)) ([HN](https://news.ycombinator.com/item?id=27751358))
+- [Taxman Engine](https://github.com/McDevon/taxman-engine) - Game Engine for Embedded Systems.
 
 ## Physics engines
 

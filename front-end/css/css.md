@@ -335,3 +335,4 @@
 - [Trigonometry in CSS and JavaScript: Beyond Triangles (2021)](https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/)
 - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) ([HN](https://news.ycombinator.com/item?id=27769291))
 - [83 Beautiful CSS buttons examples](https://getcssscan.com/css-buttons-examples)
+- [Confusing things about CSS still (2021)](https://twitter.com/jensimmons/status/1418909337674731527)

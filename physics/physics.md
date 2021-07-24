@@ -222,3 +222,5 @@
 - [Does gravity bend gravity?](https://physics.stackexchange.com/questions/643765/does-gravity-bend-gravity)
 - [Nanoscale and Quantum Photonics Lab](https://nqp.stanford.edu/)
 - [Are the number of atoms in the universe fixed? (2021)](https://www.reddit.com/r/AskPhysics/comments/oj92rg/are_the_number_of_atoms_in_the_universe_fixed/)
+- [The Quantum Theory of Fields Book (2013)](https://www.cambridge.org/core/books/quantum-theory-of-fields/22986119910BF6A2EFE42684801A3BDF)
+- [Steven Weinberg's books on QFT](https://drive.google.com/drive/u/0/folders/1pGI0QMCw4DVSUhL0mfeoPGN4CIC2wGAx) ([Reddit](https://www.reddit.com/r/Physics/comments/oqjqws/rip_steven_weinberg_19332021/))
