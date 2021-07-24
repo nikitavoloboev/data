@@ -64,6 +64,7 @@
 - [libring](https://github.com/bitwalker/libring) - Fast consistent hash ring for Elixir.
 - [Aja](https://github.com/sabiwara/aja) - Extension of the Elixir standard library focused on data structures, data manipulation and performance.
 - [Schoolbus](https://github.com/rupurt/schoolbus) - Manage one or more PubSub instances using the Elixir registry.
+- [Msgpax](https://github.com/lexmag/msgpax) - Fast and comprehensive library for serializing and deserializing Elixir terms using the MessagePack format.
 
 ## Links
 

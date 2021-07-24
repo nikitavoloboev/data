@@ -48,3 +48,4 @@
 - [How Phoenix LiveView Works (2021)](https://www.poeticoding.com/how-phoenix-liveview-works/) ([HN](https://news.ycombinator.com/item?id=27629016))
 - [Phoenix with Webpack 5 and TailwindCSS](https://www.batteriesincl.com/posts/phoenix-modern-tailwind-webpack5)
 - [Awesome Phoenix Liveview](https://github.com/beam-community/awesome-phoenix-liveview)
+- [Phoenix Content Negotiation Tutorial](https://github.com/dwyl/phoenix-content-negotiation-tutorial) - Tutorial showing how to return different content for the same route based on accepts header. Build a Web App and JSON API.

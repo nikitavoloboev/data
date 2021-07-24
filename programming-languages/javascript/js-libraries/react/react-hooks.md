@@ -104,6 +104,7 @@
 - [React Facade](https://github.com/garbles/react-facade) - Dependency injection for React hooks.
 - [useCookieConsent](https://github.com/bring-shrubbery/use-cookie-consent) - React hook for managing GDPR cookie consent state.
 - [use-referee](https://github.com/bouchenoiremarc/use-referee) - Collection of ref-related hooks.
+- [use-web-animation](https://github.com/JoviDeCroock/use-web-animation) - Hooks to leverage the web-animations API in under a kb.
 
 ## Notes
 
