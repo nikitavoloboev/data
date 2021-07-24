@@ -36,3 +36,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Book Review: How Asia Works (2021)](https://astralcodexten.substack.com/p/book-review-how-asia-works)
 - [China's AI Policy](https://futureoflife.org/ai-policy-china/) ([Summary](https://www.reddit.com/r/geopolitics/comments/onu1sg/why_does_xi_jinping_insist_on_continuing_to_poke/h5ubqo9?utm_source=share&utm_medium=web2x&context=3))
 - [AI Superpowers: China, Silicon Valley, and the New World Order by Kai-Fu Lee](https://www.goodreads.com/book/show/38242135-ai-superpowers)
+- [At this point, will we ever be be able to trust Chinese stocks? (2021)](https://www.reddit.com/r/stocks/comments/oqbe3d/at_this_point_will_we_ever_be_be_able_to_trust/)

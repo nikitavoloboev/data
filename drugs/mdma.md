@@ -22,3 +22,5 @@
 - [MDMA Supplementation](https://www.reddit.com/r/DrugNerds/comments/15m9sf/mdma_supplementation/)
 - [RaveSafer](https://ravesafer.com/)
 - [Rollkit](https://rollkit.com/) - Rave Recovery Kits.
+- [MDMA Supplements Guide](http://www.usersnews.com.au/home/2019/12/18/supplements-guide)
+- [N-acetyl cysteine (NAC) and MDMA's magic](https://www.reddit.com/r/MDMA/comments/fzgb10/nacetyl_cysteine_nac_and_mdmas_magic_pt5/)

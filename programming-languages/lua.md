@@ -62,3 +62,4 @@
 - [Lua Language Server](https://github.com/sumneko/lua-language-server)
 - [Lua Patterns Viewer](https://gitspartv.github.io/lua-patterns/) - Tool for inspecting, analyzing and learning Lua patterns. ([Code](https://github.com/GitSparTV/lua-patterns))
 - [liter](https://github.com/ok-nick/liter) - Powerful Luau library for enhanced Rust-like iterators.
+- [lua-lru](https://github.com/starius/lua-lru) - LRU cache in Lua.
