@@ -416,3 +416,4 @@
 - [Two Wishes for Dev Tooling (2021)](https://macwright.com/2021/07/05/two-wishes-for-dev-tooling.html) ([HN](https://news.ycombinator.com/item?id=27805904))
 - [Software Transactional Memory: a stairway to lock-free programming heaven? (2021)](https://www.talhoffman.com/2021/03/22/software-transactional-memory/)
 - [Our Machinery Design Principles](https://ourmachinery.com/files/guidebook.md.html) - Principles and guidelines for how to write code and work together at Our Machinery.
+- [Software Engineering's Greatest Hits (2021)](https://third-bit.com/2021/07/17/software-engineerings-greatest-hits/) ([Lobsters](https://lobste.rs/s/ui6oh2/software_engineering_s_greatest_hits))

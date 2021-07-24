@@ -126,3 +126,4 @@
 - [Crypto Gotchas](https://github.com/SalusaSecondus/CryptoGotchas) - Collection of common (interesting) cryptographic mistakes.
 - [How I Learned Symmetric-Key Cryptanalysis (2021)](https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html) ([HN](https://news.ycombinator.com/item?id=27406888))
 - [Public key cryptography: OpenSSH private keys (2021)](https://www.thedigitalcatonline.com/blog/2021/06/03/public-key-cryptography-openssh-private-keys/)
+- [Nova](https://github.com/microsoft/Nova) - Recursive SNARKs without trusted setup.
