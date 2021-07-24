@@ -19,3 +19,4 @@
 - [AWS Lex + AWS Lambda Example](https://github.com/Fallenstedt/aws-lex-lambda-example) - End goal is to communicate with an AWS Lex chatbot using HTTP.
 - [Juji](https://juji.io/) - Cognitive AI Chatbots. ([GitHub](https://github.com/juji-io))
 - [Blenderbot2](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet) - Open source chatbot that builds long-term memory and searches the internet.
+- [VK Auto Reply Bot](https://github.com/EnjiRouz/VK-Auto-Reply-Bot) - VKontakte User Bot with scheduled message sending, NLU and managed responses.

@@ -260,6 +260,7 @@
 
 - [MacDriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. ([HN](https://news.ycombinator.com/item?id=26026896))
 - [apfs](https://github.com/go-darwin/apfs) - Package apfs implements an Apple File System(apfs) bindings for Go.
+- [go-macho](https://github.com/blacktop/go-macho) - Implements access to and creation of Mach-O object files.
 
 ## Docker
 
@@ -880,6 +881,7 @@
 - [Stealthpool](https://github.com/Link512/stealthpool) - Provides a memory pool that allocates blocks off-heap that will NOT be tracked by the garbage collector.
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible, configuration management library for Go.
 - [Puddle](https://github.com/jackc/puddle) - Tiny generic resource pool library for Go that uses the standard context library to signal cancellation of acquires.
+- [go-arm64](https://github.com/blacktop/go-arm64) - Pure Go AARCH64 architecture disassembler.
 
 ## Links
 
