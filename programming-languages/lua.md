@@ -63,3 +63,4 @@
 - [Lua Patterns Viewer](https://gitspartv.github.io/lua-patterns/) - Tool for inspecting, analyzing and learning Lua patterns. ([Code](https://github.com/GitSparTV/lua-patterns))
 - [liter](https://github.com/ok-nick/liter) - Powerful Luau library for enhanced Rust-like iterators.
 - [lua-lru](https://github.com/starius/lua-lru) - LRU cache in Lua.
+- [utf8.lua](https://github.com/Stepets/utf8.lua) - Pure Lua 5.3 regex library.

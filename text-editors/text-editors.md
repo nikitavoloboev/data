@@ -120,3 +120,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Text Editing Hates You Too (2019)](https://lord.io/text-editing-hates-you-too/) ([HN](https://news.ycombinator.com/item?id=27236874))
 - [monaco-editor-auto-typings](https://github.com/lukasbach/monaco-editor-auto-typings) - Automatically load declaration files while typing in monaco editor instances.
 - [Kaolinite](https://github.com/curlpipe/kaolinite) - Rust crate to assist in the creation of TUI text editors.
+- [bangle.dev](https://bangle.dev/) - Collection of components for building powerful editing experiences for the web. ([Code](https://github.com/bangle-io/bangle.dev))

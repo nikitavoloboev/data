@@ -884,6 +884,7 @@
 - [Puddle](https://github.com/jackc/puddle) - Tiny generic resource pool library for Go that uses the standard context library to signal cancellation of acquires.
 - [go-arm64](https://github.com/blacktop/go-arm64) - Pure Go AARCH64 architecture disassembler.
 - [AirplayMirroringGo](https://github.com/openairplay/AirplayMirroringGo) - Cross platform AirPlay mirroring client by Go.
+- [Harmonica](https://github.com/charmbracelet/harmonica) - Simple, efficient spring animation library.
 
 ## Links
 

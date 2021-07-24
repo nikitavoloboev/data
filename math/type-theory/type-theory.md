@@ -138,3 +138,4 @@
 - [Building Blocks of the Sasquach Type System (2021)](https://blog.pentlander.com/building-blocks-sasquach-type-system/)
 - [Anders](https://github.com/groupoid/anders) - Homotopy Type System with Strict Equality.
 - [Homotopy Type System](https://groupoid.space/homotopy/) - Type theory with two equalities.
+- [Types versus sets in math and programming languages (2021)]](https://byorgey.wordpress.com/2021/06/24/types-versus-sets-in-math-and-programming-languages/)
