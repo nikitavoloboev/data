@@ -3,6 +3,7 @@
 ## Notes
 
 - Getting a million users is infinitely harder than scaling a system to handle a million users. Most systems could run comfortably on a Raspberry Pi
+- [Fault-tolerant designs treat failures as routine. In large-scale systems, the assumption is that component failures will happen sooner or later. Any individual failure must be presumed imminent and component failures must be expected to be continuous.](https://twitter.com/bitfield/status/1418917382500794368)
 
 ## Links
 

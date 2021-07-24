@@ -85,3 +85,4 @@
 - [Julia used Multiple Dispatch! It's Super Effective! (2021)](https://www.moll.dev/projects/effective-multi-dispatch/) ([HN](https://news.ycombinator.com/item?id=27901244)) ([Lobsters](https://lobste.rs/s/xqazh2/julia_used_multiple_dispatch_it_s_super))
 - [Julia2021 Workshop – Package development: improving engineering quality & latency](https://github.com/aviatesk/juliacon2021-workshop-pkgdev)
 - [Beautiful Makie](https://lazarusa.github.io/BeautifulMakie/) - High-performance, extendable, and multi-platform plotting ecosystem for the Julia programming language. ([Code](https://github.com/lazarusA/BeautifulMakie))
+- [Simulating Big Models in Julia with ModelingToolkit (2021)](https://www.youtube.com/watch?v=HEVOgSLBzWA)

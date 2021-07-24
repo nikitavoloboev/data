@@ -23,6 +23,7 @@ I publish most of my work and make it open source for other people to use and re
 - [Brian Lovin](https://github.com/brianlovin) - Detailed.
 - [Matthias](https://github.com/mre)
 - [Brandur](https://github.com/brandur/brandur) - Clean & self updating.
+- [Michele Riva](https://github.com/micheleriva)
 
 ## Great GitHub readme
 
@@ -30,6 +31,10 @@ I publish most of my work and make it open source for other people to use and re
 - [Siren](https://github.com/vsitzmann/siren) - Like the Project Page | Paper | Data links links + no extra things in readme.
 - [next.js](https://github.com/vercel/next.js/) - Clean, nice logo.
 - [Notable](https://github.com/notable/notable) - Like the icons after the heading & nice screenshots.
+
+# Nice GitHub sponsor pages
+
+- [Alex Ellis](https://github.com/sponsors/alexellis)
 
 ## Notes
 

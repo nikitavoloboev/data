@@ -23,3 +23,4 @@ Some interesting words I like:
 - [English is relatively easy to learn, but not to master (2018)](http://christopherwink.com/2018/11/05/english-easy-learn-john-mcwhorter-history-magnificent-bastard-tongue/) ([HN](https://news.ycombinator.com/item?id=26597578))
 - [An Interactive Guide to Ambiguous Grammar (2015)](https://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar)
 - [Why is English so weirdly different from other languages?](https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages)
+- [The History of English Podcast](https://historyofenglishpodcast.com/) - The Spoken History of a Global Language. ([Twitter](https://twitter.com/englishhistpod))

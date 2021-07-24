@@ -217,3 +217,5 @@
 - [Workaround for \_next/data URLs throwing 404, for multiple Next.js Apps Running On Same Domain (2021)](https://arihantverma.com/posts/2021/07/18/workaround-nextjs-data-urls-same-domain-multiple-apps/)
 - [Next.js Cron](https://github.com/baulml/nextjs-cron) - Cron jobs with Github Actions for Next.js applications on Vercel.
 - [Running a Next.js Site on Cloudflare Pages (2021)](https://opstrace.com/blog/nextjs-on-cloudflare)
+- [Krabs](https://github.com/micheleriva/krabs) - Enterprise-ready Express.js middleware for serving thousands of different websites from a single Next.js instance. ([Web](https://micheleriva.github.io/krabs/))
+- [Real-World Next.js Book (2021)](https://www.packtpub.com/product/real-world-next-js/9781801073493)

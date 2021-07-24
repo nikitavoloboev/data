@@ -26,3 +26,4 @@
 - [Canvas](https://canvas.io/) - Blazing-Fast Mobile 3D Capture.
 - [Structure Sensor](https://structure.io/) - 3D scanning, augmented reality, and more for mobile devices.
 - [Matterport](https://matterport.com/) - Capture, share, and collaborate the built world in immersive 3D. ([Twitter](https://twitter.com/Matterport))
+- [Mixed Reality with Passthrough (2021)](https://developer.oculus.com/blog/mixed-reality-with-passthrough/) ([HN](https://news.ycombinator.com/item?id=27939264))

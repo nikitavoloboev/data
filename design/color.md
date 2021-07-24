@@ -82,3 +82,4 @@
 - [Using HSL Colors In CSS (2021)](https://www.smashingmagazine.com/2021/07/hsl-colors-css/)
 - [How to make nice gradients in CSS](https://twitter.com/notwaldorf/status/1407102532992655361)
 - [Why we're blind to the color blue](https://calebkruse.com/10-projects/seeing-blue/) ([HN](https://news.ycombinator.com/item?id=27858630))
+- [How WCAG color contrast ratio works (2021)](https://twitter.com/DanHollick/status/1417895151003865090)

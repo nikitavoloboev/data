@@ -267,3 +267,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Piped](https://piped.kavin.rocks/) - Alternative privacy-friendly YouTube frontend which is efficient by design. ([Code](https://github.com/TeamPiped/Piped)) ([HN](https://news.ycombinator.com/item?id=27869188))
 - [MoviePy](https://github.com/Zulko/moviepy) - Programmatic Video Editing with Python. ([HN](https://news.ycombinator.com/item?id=27902717))
 - [Video Tools and Interfaces: Perspectives From Adobe Research (2021)](https://nickarner.com/notes/video-tools-and-interfaces-perspectives-from-a-webinar-with-adobes-mira-dontcheva-janurary-11-2021/)
+- [Realtime Video Capture with the Go Programming Language (2021)](https://medium.com/learning-the-go-programming-language/realtime-video-capture-with-go-65a8ac3a57da)

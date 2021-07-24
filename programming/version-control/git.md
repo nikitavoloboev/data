@@ -267,3 +267,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Things I wish Git had: Commit groups (2021)](http://blog.danieljanus.pl/2021/07/01/commit-groups/) ([HN](https://news.ycombinator.com/item?id=27722221))
 - [git when-merged](https://github.com/mhagger/git-when-merged) - Determine when a particular commit was merged into a git branch.
 - [A monorepo misconception – atomic cross-project commits (2021)](https://www.snellman.net/blog/archive/2021-07-21-monorepo-atomic/) ([HN](https://news.ycombinator.com/item?id=27903282)) ([Lobsters](https://lobste.rs/s/h1yvlm/monorepo_misconception_atomic_cross))
+- [Awesome Git](https://github.com/dictcp/awesome-git)

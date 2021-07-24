@@ -224,3 +224,5 @@
 - [Are the number of atoms in the universe fixed? (2021)](https://www.reddit.com/r/AskPhysics/comments/oj92rg/are_the_number_of_atoms_in_the_universe_fixed/)
 - [The Quantum Theory of Fields Book (2013)](https://www.cambridge.org/core/books/quantum-theory-of-fields/22986119910BF6A2EFE42684801A3BDF)
 - [Steven Weinberg's books on QFT](https://drive.google.com/drive/u/0/folders/1pGI0QMCw4DVSUhL0mfeoPGN4CIC2wGAx) ([Reddit](https://www.reddit.com/r/Physics/comments/oqjqws/rip_steven_weinberg_19332021/))
+- [What is Quantum Field Theory, and What Did We Think It Is? (1997)](https://arxiv.org/abs/hep-th/9702027) ([Tweet](https://twitter.com/seanmcarroll/status/1418804903871356930))
+- [Steven Weinberg Has Died (2021)](https://twitter.com/johncarlosbaez/status/1418804320611364867) ([HN](https://news.ycombinator.com/item?id=27939083))

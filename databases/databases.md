@@ -347,7 +347,7 @@
 - [Database Normalization in plain language for the working dev (with examples) (2021)](https://www.gatlin.io/guides/database-normalization)
 - [Array Databases: Concepts, Standards, Implementations](https://rd-alliance.org/system/files/Array-Databases_final-report.pdf) ([HN](https://news.ycombinator.com/item?id=26462602))
 - [Ask HN: Best low-/no-code solution for simple web-based database front ends (2021)](https://news.ycombinator.com/item?id=26657803)
-- [We ditched MySQL and made our dashboard really fast. Here is how we did it. (2021)](https://usefathom.com/blog/worlds-fastest-analytics)
+- [We ditched MySQL and made our dashboard really fast. Here is how we did it. (2021)](https://usefathom.com/blog/worlds-fastest-analytics) ([Tweet](https://twitter.com/JackEllis/status/1418319849487536130))
 - [Databunker](https://databunker.org/) - Secure storage for personal records built to comply with GDPR. ([Code](https://github.com/securitybunker/databunker)) ([HN](https://news.ycombinator.com/item?id=26690279))
 - [Database options (2021)](https://twitter.com/ryanflorence/status/1379285868611915780)
 - [Database Deep Dives with Andy Pavlo (2021)](https://www.ibm.com/cloud/blog/database-deep-dives-with-andy-pavlo)

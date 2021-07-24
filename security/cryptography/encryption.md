@@ -42,3 +42,5 @@
 - [Fully Homomorphic Encryption (FHE)](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set. ([HN](https://news.ycombinator.com/item?id=27510902))
 - [kiss-crypto](https://www.npmjs.com/package/kiss-crypto) - Easily encrypt and decrypt messages. All the complexity is hidden behind the scenes.
 - [Awesome Homomorphic Encryption](https://github.com/jonaschn/awesome-he)
+- [Concrete](https://github.com/zama-ai/concrete) - Set of crates that implements Zama's variant of TFHE. In a nutshell, fully homomorphic encryption (FHE).
+- [Zama](https://zama.ai/) - End-to-end encryption for AI. ([GitHub](https://github.com/zama-ai))

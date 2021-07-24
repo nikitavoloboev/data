@@ -11,7 +11,7 @@
 
 - [Hampshire birding and beyond](http://hampshirebirding.blogspot.com/)
 - [eBird](https://ebird.org/home) - Crowdsourced bird sighting database. ([HN](https://news.ycombinator.com/item?id=24989094))
-- [BirdNET](https://birdnet.cornell.edu/) - Easiest way to identify birds by sound.
+- [BirdNET](https://birdnet.cornell.edu/) - Identify Birds by Sound. ([HN](https://news.ycombinator.com/item?id=27929150))
 - [Jocelyn Anderson Photography](https://jocelynandersonphotographyshop.com/) - Photographs birds.
 - [The origin of birds](https://evolution.berkeley.edu/evolibrary/article/evograms_06)
 - [Birds of a feather do flock together (2020)](https://phys.org/news/2020-11-birds-feather-flock.html)

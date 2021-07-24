@@ -48,3 +48,4 @@
 - [Tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine.
 - [Catsuka](https://www.catsuka.com/) - Website about animation.
 - [The Math behind Animations - Beautiful Trigonometry (2021)](https://www.youtube.com/watch?v=-lF7sSTelOg)
+- [Improvements to the Web Animations API DX](https://motion.dev/guides/waapi-improvements)

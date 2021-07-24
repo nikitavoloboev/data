@@ -8,3 +8,4 @@
 ## Links
 
 - [List of biases that cloud our judgement](https://www.reddit.com/r/coolguides/comments/npr4jb/a_guide_summarising_all_the_cognitive_biases_that/)
+- [Cognitive biases to learn (so you can think clearly and make better decisions) (2021)](https://twitter.com/SahilBloom/status/1418910006557265932)

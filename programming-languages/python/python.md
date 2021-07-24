@@ -305,3 +305,4 @@
 - [Functools – The Power of Higher-Order Functions in Python](https://martinheinz.dev/blog/52) ([HN](https://news.ycombinator.com/item?id=27768211))
 - [Beating TimSort at Merging (2021)](https://earthly.dev/blog/python-timsort-merge/) ([Lobsters](https://lobste.rs/s/1a0gmn/beating_timsort_at_merging))
 - [Namedtuple in a Post-Dataclasses World (2021)](https://death.andgravity.com/namedtuples) ([HN](https://news.ycombinator.com/item?id=27906752))
+- [How the Python import system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/) ([HN](https://news.ycombinator.com/item?id=27941208))
