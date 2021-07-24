@@ -271,3 +271,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Cheat Sheet on Curl Latency Metrics: how to benchmark server latency with curl](https://speedtestdemon.com/a-guide-to-curls-performance-metrics-how-to-analyze-a-speed-test-result/)
 - [Channel polarization: A method for constructing capacity-achieving codes for symmetric binary-input memoryless channels (2008)](https://arxiv.org/abs/0807.3917) - Paper that inspired 5G. ([HN](https://news.ycombinator.com/item?id=27869473))
 - [What is Anycast? | How does Anycast work?](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
+- [Comcast](https://github.com/tylertreat/comcast) - Simulating poor network connections so you can build better systems. ([Reddit](https://www.reddit.com/r/programming/comments/oq2jqb/simulating_poor_network_connections_so_you_can/))
