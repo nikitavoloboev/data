@@ -59,3 +59,4 @@
 - [Shinobi Systems](https://www.shinobi-systems.com/) - Has the best returns across all Solana validators with 0% commission and one of the best voting records.
 - [On-chain Perpetual Futures (2021)](https://ga245xphr2gqozusv7cppabb3icnf7i3rk3ltndg6tpmnoeoq6bq.arweave.net/MDXO3eeOjQdmkq_E94Ah2gTS_RuKtrm0ZvTexriOh4M)
 - [An introduction to the Solana Name Service](https://docs.bonfida.org/help/an-introduction-to-the-solana-name-service)
+- [Stake Pools in Solana explained (2021)](https://twitter.com/solana/status/1418602302697611265)

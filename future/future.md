@@ -70,3 +70,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Future from a16z](https://future.a16z.com/) - Understand the Future, How Tech Shapes It, and How We Build It. ([HN](https://news.ycombinator.com/item?id=27515710))
 - [Marc Andreessen - Making the Future (2021)](https://overcast.fm/+Lzu2EMPqk)
 - [Speculating Futures](http://speculatingfutures.club/) - Solarpunky reading list.
+- [Industries to radically change in future (2021)](https://twitter.com/m_franceschetti/status/1418996176578351104)

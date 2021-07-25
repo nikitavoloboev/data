@@ -75,3 +75,4 @@
 - [Toward a More Accurate 3D Atlas of C. elegans Neurons (2021)](https://www.biorxiv.org/content/10.1101/2021.06.09.447813v1) ([Tweet](https://twitter.com/tegmark/status/1403343302263455749))
 - [Mike Levin on electrifying insights into how bodies form (2019)](https://wyss.harvard.edu/news/mike-levin-on-electrifying-insights-into-how-bodies-form/) ([HN](https://news.ycombinator.com/item?id=27819791))
 - [Platelets (Thrombocytes) | The Cell Pieces That Lack Nucleus](https://www.youtube.com/watch?v=X_8OTtdnE7w)
+- [Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures (2020)](https://www.goodreads.com/book/show/52668915-entangled-life) ([Summary](https://twitter.com/paraschopra/status/1419295390730317828))

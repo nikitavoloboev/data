@@ -136,6 +136,7 @@
 - [Ask HN: How to learn how to sell? (2021)](https://news.ycombinator.com/item?id=27653357)
 - [20 iconic marketing and advertising campaigns in history (2021)](https://twitter.com/SahilBloom/status/1412391311840251904)
 - [Relaunch like a pro: 100+ places to launch, relaunch, and list your product (2021)](https://www.indiehackers.com/post/relaunch-like-a-pro-100-places-to-launch-relaunch-and-list-your-product-7c67875635)
+- [Hacking is the opposite of marketing (2021)](https://macwright.com/2021/07/24/hacking-is-the-opposite-of-marketing.html) ([HN](https://news.ycombinator.com/item?id=27946127)) ([Tweet](https://twitter.com/tmcw/status/1419076667352522753))
 
 ## Images
 
