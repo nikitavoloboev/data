@@ -288,3 +288,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/) ([Lobsters](https://lobste.rs/s/epqbuw/public_cdns_are_useless_dangerous))
 - [How to build accessible modals (2021)](https://twitter.com/dluzar/status/1418259104938795017)
 - [What forces layout/reflow. The comprehensive list.](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
+- [Reflections as the Internet Archive turns 25 (2021)](https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/) ([HN](https://news.ycombinator.com/item?id=27914848))

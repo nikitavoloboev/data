@@ -337,3 +337,4 @@
 - [83 Beautiful CSS buttons examples](https://getcssscan.com/css-buttons-examples)
 - [Confusing things about CSS still (2021)](https://twitter.com/jensimmons/status/1418909337674731527)
 - [CSS: Avoid horizontal scrolling (2021)](https://3fx.ch/blog/2021/07/25/css-avoid-horizontal-scrolling/)
+- [The Large, Small, and Dynamic Viewports (2021)](https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/)

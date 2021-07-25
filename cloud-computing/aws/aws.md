@@ -195,3 +195,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Declarative provisioning of AWS resources with Spinnaker and Crossplane (2021)](https://aws.amazon.com/blogs/opensource/declarative-provisioning-of-aws-resources-with-spinnaker-and-crossplane/)
 - [AWS Cost Saving Recommendations](https://www.vantage.sh/blog/vantage-launches-aws-cost-saving-recommendations) ([HN](https://news.ycombinator.com/item?id=27823824))
 - [Amazon Web Services In Plain English (2019)](https://www.web3us.com/how-guides/amazon-web-services-plain-english) ([HN](https://news.ycombinator.com/item?id=27948209))
+- [AWS’s Egregious Egress (2021)](https://blog.cloudflare.com/aws-egregious-egress/) ([HN](https://news.ycombinator.com/item?id=27930151))
