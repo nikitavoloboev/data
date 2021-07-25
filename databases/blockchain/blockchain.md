@@ -36,6 +36,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Sky Mavis](https://skymavis.com/) - Blockchain: Gamified.
 - [Axie Infinity](https://axieinfinity.com/) - New type of game, partially owned and operated by its players. ([White Paper](https://whitepaper.axieinfinity.com/))
 - [fractional.art](https://fractional.art/) - Fractional ownership of NFTs.
+- [Spectre](https://spectre.xyz/) - Spectralized art for all. ([GitHub](https://github.com/spectrexyz))
 
 ## Notes
 
