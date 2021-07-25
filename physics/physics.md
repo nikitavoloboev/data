@@ -226,4 +226,5 @@
 - [Steven Weinberg's books on QFT](https://drive.google.com/drive/u/0/folders/1pGI0QMCw4DVSUhL0mfeoPGN4CIC2wGAx) ([Reddit](https://www.reddit.com/r/Physics/comments/oqjqws/rip_steven_weinberg_19332021/))
 - [What is Quantum Field Theory, and What Did We Think It Is? (1997)](https://arxiv.org/abs/hep-th/9702027) ([Tweet](https://twitter.com/seanmcarroll/status/1418804903871356930))
 - [Steven Weinberg Has Died (2021)](https://twitter.com/johncarlosbaez/status/1418804320611364867) ([HN](https://news.ycombinator.com/item?id=27939083))
+- [Steven Weinberg (1933-2021): a personal view](https://www.scottaaronson.com/blog/?p=5566)
 - [Dreams of a Final Theory Book (1994)](https://www.goodreads.com/book/show/150129.Dreams_of_a_Final_Theory) ([Article](https://news.utexas.edu/2021/07/24/ut-austin-mourns-death-of-world-renowned-physicist-steven-weinberg/))
