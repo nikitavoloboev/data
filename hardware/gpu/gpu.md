@@ -58,3 +58,4 @@
 - [NVIDIA Merlin](https://github.com/NVIDIA-Merlin/Merlin) - Open source library providing end-to-end GPU-accelerated recommender systems.
 - [Inferrd](https://inferrd.com/) - GPU-Accelerated Inference Hosting. ([HN](https://news.ycombinator.com/item?id=27817137))
 - [GPU architecture types explained (2021)](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
+- [Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)

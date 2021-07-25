@@ -163,3 +163,4 @@
 - [Rendering 1M+ Particles (2021)](https://blog.farazshaikh.com/stories/rendering-1-m-particles/) - Using Points and Shaders.
 - [Incoherent-Light-Simulation](https://github.com/rafael-fuente/Incoherent-Light-Simulation) - Research simulation of the propagation of incoherent light, aiming to illustrate the concept of spatial coherence.
 - [RGBFAQ](https://alanwarburton.co.uk/rgbfaq) - Documentary about synthetic data, simulations and computer graphics.
+- [Global Illumination - What It Is, How Does It Work And Why Do We Need It? (2021)](https://www.youtube.com/watch?v=yEkryaaAsBU) ([Tweet](https://twitter.com/Dachsjaeger/status/1418937113194676227))
