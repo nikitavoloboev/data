@@ -27,3 +27,4 @@
 - [Structure Sensor](https://structure.io/) - 3D scanning, augmented reality, and more for mobile devices.
 - [Matterport](https://matterport.com/) - Capture, share, and collaborate the built world in immersive 3D. ([Twitter](https://twitter.com/Matterport))
 - [Mixed Reality with Passthrough (2021)](https://developer.oculus.com/blog/mixed-reality-with-passthrough/) ([HN](https://news.ycombinator.com/item?id=27939264))
+- [Mark Zuckerberg says Facebook will turn into a ‘metaverse’ (2021)](https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview) ([HN](https://news.ycombinator.com/item?id=27930791))

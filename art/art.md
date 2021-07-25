@@ -132,6 +132,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nekro](https://www.artstation.com/nekro)
 - [Sabina Lewis](https://www.instagram.com/sabina_lewis/)
 - [Edward Hopper](https://www.wikiart.org/en/edward-hopper) ([Shirley: Visions of Reality](https://www.youtube.com/watch?v=rcQ4JKxxukY)) ([Exhibition](https://www.fondationbeyeler.ch/en/exhibitions/edward-hopper))
+- [Simon Gustavsson](https://www.instagram.com/Simon__gustavsson/) ([Web](https://www.simongustavsson.com/))
 - [Ariel González Losada](https://www.flickr.com/people/99778654@N05/)
 - [Eugene Golovanchuk](https://www.theskeeva.com/)
 - [Salman Toor](https://www.salmantoor.com/)
@@ -433,3 +434,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [CARI](https://cari.institute/) - Consumer Aesthetics Research Institute.
 - [MakersPlace](https://makersplace.com/) - Premier Rare Digital Art Market.
 - [Tour of the Sacred Library (2021)](https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/)
+- [How to get your creative work back on track (2021)](https://every.to/superorganizers/building-a-what-s-next-deck)

@@ -133,3 +133,4 @@
 - [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens. ([Web](https://paseto.io/))
 - [Keratin AuthN](https://keratin.tech/) - Authentication service that keeps you in control without forcing you to be an expert in web security. ([Code](https://github.com/keratin/authn-server))
 - [WebAuthn Library](https://github.com/duo-labs/webauthn) - WebAuthn (FIDO2) server library written in Go.
+- [react-query-auth](https://github.com/alan2207/react-query-auth) - Authenticate your react applications easily with react-query.

@@ -179,3 +179,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [What Russia’s National Security Strategy Has to Say About Asia (2021)](https://thediplomat.com/2021/07/what-russias-national-security-strategy-has-to-say-about-asia/)
 - [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=PLfO1QINjvak9KoBetr7ThGHVB2owBLH1C)
 - [Маньчжурский президент. Владимир Милов о том, как Россия стала сырьевым придатком Пекина (2021)](https://theins.ru/opinions/vladimir-milov/242390)
+- [«Пойдем. Считать. Пингвинов!» (2020)](https://holod.media/2020/05/26/dnevnik-polyarnika/)
