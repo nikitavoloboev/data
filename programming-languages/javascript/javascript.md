@@ -252,7 +252,7 @@
 - [lage](https://github.com/microsoft/lage) - Task runner in JS monorepos. ([Web](https://microsoft.github.io/lage/))
 - [Module Server](https://github.com/google/module-server) - System for efficient serving of CommonJS modules to web browsers.
 - [How JavaScript works: exceptions + best practices for synchronous and asynchronous code (2021)](https://blog.sessionstack.com/how-javascript-works-exceptions-best-practices-for-synchronous-and-asynchronous-environments-39f66b59f012)
-- [How JavaScript works: an overview of the engine, the runtime, and the call stack (2017)](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+- [How JavaScript works: an overview of the engine, the runtime, and the call stack (2017)](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf) ([HN](https://news.ycombinator.com/item?id=27941979))
 - [Source Map Visualization](http://evanw.github.io/source-map-visualization/) - Visualization of JavaScript source map data, which is useful for debugging problems with generated source maps. ([Code](https://github.com/evanw/source-map-visualization))
 - [Manypkg](https://github.com/Thinkmill/manypkg) - Linter for package.json files in Yarn, Bolt or pnpm monorepos.
 - [Putout](https://github.com/coderaiser/putout) - Pluggable and configurable code transformer with built-in eslint, babel plugins and jscodeshift codemods support. ([Editor](https://putout.cloudcmd.io/))
@@ -306,3 +306,4 @@
 - [`export default thing` is different to `export { thing as default }` (2021)](https://jakearchibald.com/2021/export-default-thing-vs-thing-as-default/) ([Tweet](https://twitter.com/jaffathecake/status/1411976300110258176))
 - [Just JavaScript](https://justjavascript.com/) - Discover and rebuild your JavaScript mental models.
 - [Iterator Helpers](https://github.com/tc39/proposal-iterator-helpers) - Methods for working with iterators in ECMAScript. ([Web](https://tc39.es/proposal-iterator-helpers/))
+- [Loupe](http://latentflip.com/loupe/) - Visualization to help you understand how JavaScript's call stack/event loop/callback queue interact with each other. ([Code](https://github.com/latentflip/loupe))

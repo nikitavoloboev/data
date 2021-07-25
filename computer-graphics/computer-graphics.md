@@ -162,3 +162,4 @@
 - [Smoothstep Integral](https://iquilezles.org/www/articles/smoothstepintegral/smoothstepintegral.htm) ([HN](https://news.ycombinator.com/item?id=27588977))
 - [Rendering 1M+ Particles (2021)](https://blog.farazshaikh.com/stories/rendering-1-m-particles/) - Using Points and Shaders.
 - [Incoherent-Light-Simulation](https://github.com/rafael-fuente/Incoherent-Light-Simulation) - Research simulation of the propagation of incoherent light, aiming to illustrate the concept of spatial coherence.
+- [RGBFAQ](https://alanwarburton.co.uk/rgbfaq) - Documentary about synthetic data, simulations and computer graphics.

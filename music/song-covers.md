@@ -24,3 +24,4 @@
 - [светлы песни — Пiшы (Один в каное cover)](https://www.youtube.com/watch?v=1Qtn7k-xXFY)
 - [Imagine Dragons - Blank Space (Taylor Swift cover in the Live Lounge)](https://www.youtube.com/watch?v=CFX8VJUtDgY)
 - [Maneskin - Beggin'](https://www.youtube.com/watch?v=L0PBcnAaYwA)
+- [Баста - Сансара (cover by Valery. Y./Лера Яскевич)](https://www.youtube.com/watch?v=nD4B09OmSb8)
