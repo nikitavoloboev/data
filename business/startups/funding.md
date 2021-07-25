@@ -118,3 +118,4 @@
 - [The 23 Rules of Storytelling For Fundraising](https://www.nfx.com/post/23-rules-storytelling-fundraising/)
 - [Ask HN: Collection of Pitch Decks? (2021)](https://news.ycombinator.com/item?id=27782377)
 - [Free fundraising resources (2021)](https://twitter.com/mahadevanarj/status/1415729587242377223)
+- [Retroactive Public Goods Funding (2021)](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) ([Tweet](https://twitter.com/Dominic2306/status/1417757106636197889))

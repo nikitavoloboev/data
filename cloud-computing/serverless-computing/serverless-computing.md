@@ -109,3 +109,4 @@
 - [Serverless Step Functions](https://github.com/serverless-operations/serverless-step-functions) - Serverless Framework plugin for AWS Step Functions.
 - [A Serverless Event Collector (2021)](https://www.ethanrosenthal.com/2021/07/20/serverless-event-collector/)
 - [Going Intergalactic with Serverless Functions on Netlify (2021)](https://sia.codes/posts/serverless-functions-netlify/)
+- [Deploy your own faasd appliance with cloud-init (2020)](https://blog.alexellis.io/deploy-serverless-faasd-with-cloud-init/)
