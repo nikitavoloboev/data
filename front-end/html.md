@@ -127,3 +127,4 @@
 - [templ](https://github.com/a-h/templ) - Strongly typed HTML templating language that compiles to Go code, and has great developer tooling.
 - [Capsid](https://github.com/capsidjs/capsid) - Declarative DOM programming library based on TypeScript decorators.
 - [html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser.
+- [HTML Recipes](https://htmlrecipes.dev/) - Collection of quick copy HTML snippets for a variety of common scenarios. ([Code](https://github.com/5t3ph/htmlrecipes))

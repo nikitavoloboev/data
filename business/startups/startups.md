@@ -58,6 +58,7 @@
 - [Two key areas to optimize for efficient SAAS: 1. Self service. 2. Managed hosting.](https://twitter.com/maccaw/status/1414970646342340623)
 - [Much of a startup's success comes down to distribution. If an investor can give you money AND distribution.... that's super compelling.](https://twitter.com/maccaw/status/1417473520867680264)
 - [Letting people go sucks but it’s part of the job for startup founders. Always show respect here. While it may not feel like it at the time it’s almost always better for both parties. Every employee I’ve ever let go moved onto a new role where they were more suited to succeed.](https://twitter.com/agazdecki/status/1417968015736332289)
+- [Work very hard but sustainably with as little stress as possible.](https://twitter.com/flybayer/status/1419280525425061890)
 
 ## Links
 

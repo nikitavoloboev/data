@@ -30,3 +30,4 @@
 - [Itsiest, Bitsiest Eleventy Tutorial (2021)](https://sia.codes/posts/itsiest-bitsiest-eleventy-tutorial/)
 - [Optimize Images in Eleventy Using Cloudinary (2021)](https://sia.codes/posts/eleventy-and-cloudinary-images/)
 - [Architecting data in Eleventy (2021)](https://sia.codes/posts/architecting-data-in-eleventy/)
+- [Eleventy with Vite](https://github.com/fpapado/eleventy-with-vite) ([Article](https://www.brycewray.com/posts/2021/07/eleventy-vite-elite/))

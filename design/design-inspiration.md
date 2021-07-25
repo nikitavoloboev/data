@@ -63,6 +63,7 @@ Here are few more things I liked, design wise.
 - [Reeder](https://reeder.app/)
 - [Remotive](https://remotive.io/)
 - [Expo](https://expo.io/)
+- [Retro](https://retro.app/)
 - [Contrast](https://www.contrast.app/)
 - [Whereby](https://whereby.com/)
 - [Haikei](https://haikei.app/)

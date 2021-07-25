@@ -76,3 +76,4 @@
 - [Mike Levin on electrifying insights into how bodies form (2019)](https://wyss.harvard.edu/news/mike-levin-on-electrifying-insights-into-how-bodies-form/) ([HN](https://news.ycombinator.com/item?id=27819791))
 - [Platelets (Thrombocytes) | The Cell Pieces That Lack Nucleus](https://www.youtube.com/watch?v=X_8OTtdnE7w)
 - [Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures (2020)](https://www.goodreads.com/book/show/52668915-entangled-life) ([Summary](https://twitter.com/paraschopra/status/1419295390730317828))
+- [Emergence of growth and dormancy from a kinetic model of the Escherichia coli central carbon metabolism (2021)](https://www.biorxiv.org/content/10.1101/2021.07.21.453212v1) ([Tweet](https://twitter.com/yusuke_himeoka/status/1418257186476630016))

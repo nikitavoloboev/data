@@ -519,3 +519,4 @@
 - [Solving Machine Learning Performance Anti-Patterns: a Systematic Approach (2021)](https://paulbridger.com/posts/nsight-systems-systematic-optimization/)
 - [Bayesian learning via stochastic gradient langevin dynamics (2011)](https://dl.acm.org/doi/10.5555/3104482.3104568)
 - [Megaverse: Simulating Embodied Agents at One Million Experiences per Second](https://www.megaverse.info/) ([Paper](https://arxiv.org/abs/2107.08170)) ([Code](https://github.com/alex-petrenko/megaverse))
+- [Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them (2021)](https://openreview.net/forum?id=6pgY2PkoXb0) ([Tweet](https://twitter.com/florian_tramer/status/1418911926508216321))
