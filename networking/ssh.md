@@ -61,3 +61,4 @@
 - [ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files.
 - [SSH2-Promise](https://github.com/sanketbajoria/ssh2-promise) - Powerful promise wrapper around ssh2 client.
 - [ReverseSSH](https://github.com/Fahrj/reverse-ssh) - Lightweight SSH server behaving like a reverse shell.
+- [sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH. Open source serveo/ngrok alternative.

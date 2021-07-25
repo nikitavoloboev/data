@@ -272,3 +272,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Channel polarization: A method for constructing capacity-achieving codes for symmetric binary-input memoryless channels (2008)](https://arxiv.org/abs/0807.3917) - Paper that inspired 5G. ([HN](https://news.ycombinator.com/item?id=27869473))
 - [What is Anycast? | How does Anycast work?](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
 - [Comcast](https://github.com/tylertreat/comcast) - Simulating poor network connections so you can build better systems. ([Reddit](https://www.reddit.com/r/programming/comments/oq2jqb/simulating_poor_network_connections_so_you_can/))
+- [Introduction to open source private LTE and 5G networks (2021)](https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks) ([HN](https://news.ycombinator.com/item?id=27946947))

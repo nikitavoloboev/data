@@ -54,7 +54,7 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Awesome Object Capabilities and Capability-based Security](https://github.com/dckc/awesome-ocap)
 - [Brim](https://github.com/brimsec/brim) - Open source desktop application for security and network specialists.
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws.
-- [AFL++](https://github.com/AFLplusplus/AFLplusplus) - Fuzzing framework.
+- [AFL++](https://github.com/AFLplusplus/AFLplusplus) - Fuzzing framework. ([Web](https://aflplus.plus/))
 - [Awake Security](https://awakesecurity.com/) - Advanced Network Traffic Analysis Solution.
 - [A Defender’s Guide For Rootkit Detection: Episode 1 – Kernel Drivers (2020)](https://labs.jumpsec.com/2020/04/20/a-defenders-guide-for-rootkit-detection-episode-1-kernel-drivers/?preview=true)
 - [OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware.
