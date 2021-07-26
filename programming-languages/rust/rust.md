@@ -516,3 +516,4 @@
 - [The problem of effects in Rust (2020)](https://boats.gitlab.io/blog/post/the-problem-of-effects/) ([Lobsters](https://lobste.rs/s/otrxxf/problem_effects_rust_2020))
 - [How we improved the performance of our Rust app (2021)](https://www.poor.dev/blog/performance/)
 - [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
+- [Understanding Rust futures by going way too deep (2021)](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep) ([HN](https://news.ycombinator.com/item?id=27956313))

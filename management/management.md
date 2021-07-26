@@ -121,3 +121,4 @@
 - [The Handbook of Handbooks for Decentralised Organising](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view)
 - [Engineering Management for the Rest of Us](https://www.engmanagement.dev/)
 - [7 Management Trust Killers (and how to avoid them)](https://twitter.com/joulee/status/1415328586207174661)
+- [Agile at 20: The Failed Rebellion (2021)](https://www.simplethread.com/agile-at-20-the-failed-rebellion/) ([HN](https://news.ycombinator.com/item?id=27946382))

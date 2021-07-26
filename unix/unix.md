@@ -62,3 +62,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Program design in the UNIX environment (1984)](http://harmful.cat-v.org/cat-v/unix_prog_design.pdf) ([Lobsters](https://lobste.rs/s/a2k2pp/program_design_unix_environment_1984))
 - [Unix tooling - join, don't extend (2021)](https://qmacro.org/2021/07/21/unix-tooling-join,-don't-extend/)
 - [Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
+- [Posix Permissions Are Weird (2021)](https://paulcavallaro.com/blog/posix-permissions-are-weird/)

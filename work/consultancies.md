@@ -66,6 +66,7 @@
 - [Rejiggle](https://rejiggle.co/) - Conversion-Focused Design.
 - [Hactar](https://hactar.is/) - Product and service design for social good.
 - [Heartbeat Agency](https://heartbeat.ua/) - UI/UX for mobile and web apps in fintech.
+- [Simple Thread](https://www.simplethread.com/) - Digital Product Agency.
 
 ## DB
 
