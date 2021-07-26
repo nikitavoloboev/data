@@ -339,3 +339,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [IPSW Downloads](https://ipsw.me/) - Download iOS Firmware for iPhone, iPad, iPod Touch, Apple Watch, Apple TV and HomePod.
 - [Can I Jailbreak?](https://canijailbreak.com/) ([Code](https://github.com/cj123/canijailbreak.com))
 - [Things you can do to make your iOS app better (2021)](https://twitter.com/JordanMorgan10/status/1417103551826903045)
+- [Local Testing on an iPhone](https://www.joshwcomeau.com/blog/local-testing-on-an-iphone/) - Accessing localhost on an iPhone.
