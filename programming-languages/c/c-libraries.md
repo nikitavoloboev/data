@@ -83,3 +83,4 @@
 - [utf8.h](https://github.com/sheredom/utf8.h) - Simple one header solution to supporting utf8 strings in C and C++.
 - [C-Blosc2](https://github.com/Blosc/c-blosc2) - Fast, compressed and persistent data store library for C.
 - [Blitsort](https://github.com/scandum/blitsort) - Rotate merge sort based on quadsort.
+- [Stricks](https://github.com/alcover/stricks) - Managed C strings library.

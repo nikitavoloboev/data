@@ -296,6 +296,7 @@ Here are few more things I liked, design wise.
 - [Sage Abdullah](https://laymonage.com/)
 - [Mateus Bianco](https://dlbn.co/) ([Code](https://github.com/dlbnco/dlbn.co))
 - [Simon Wicki](https://wicki.io/)
+- [Gift Egwuenu](https://www.giftegwuenu.dev/) ([Code](https://github.com/lauragift21/giftegwuenu.dev))
 - [Swiftjective-C](https://www.swiftjectivec.com/) ([Code](https://github.com/DreamingInBinary/Swiftjective-C))
 - [P—DPA](http://p-dpa.net/)
 - [Charlie Gleason](https://charliegleason.com/)

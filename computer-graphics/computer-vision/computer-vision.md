@@ -338,3 +338,4 @@
 - [Vision Transformer Architecture Search (2021)](https://arxiv.org/abs/2106.13700) ([Code](https://github.com/xiusu/ViTAS))
 - [TSIT: A Simple and Versatile Framework for Image-to-Image Translation (2020)](https://arxiv.org/abs/2007.12072) ([Code](https://github.com/EndlessSora/TSIT))
 - [Recognizing People in Photos Through Private On-Device Machine Learning (2021)](https://machinelearning.apple.com/research/recognizing-people-photos)
+- [CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation (2021)](https://arxiv.org/abs/2012.02047) ([Code](https://github.com/microsoft/CoCosNet-v2))
