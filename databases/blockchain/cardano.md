@@ -36,3 +36,4 @@
 - [Cardano DB Sync](https://github.com/input-output-hk/cardano-db-sync) - Component that follows the Cardano chain and stores blocks and transactions in PostgreSQL.
 - [Guide to Cardano](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/)
 - [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program)
+- [Functional smart contracts on Cardano (2020)](https://www.youtube.com/watch?v=MpWeg6Fg0t8)

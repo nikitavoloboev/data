@@ -141,3 +141,4 @@
 - [Writing an Image Search Engine from Scratch](http://yusukematsui.me/project/sis/sis.html) ([Code](https://github.com/matsui528/sis))
 - [Monocle](https://github.com/thesephist/monocle) - Universal, personal search engine. ([Web](https://monocle.surge.sh/)) ([Article](https://thesephist.com/posts/monocle/))
 - [Algolia Recommend](https://www.algolia.com/products/recommendations/) - ML Product Recommender systems & APIs.
+- [Apollo](https://github.com/amirgamil/apollo) - Unix-style personal search engine and web crawler for your digital footprint.

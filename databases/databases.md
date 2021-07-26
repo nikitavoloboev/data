@@ -382,3 +382,4 @@
 - [Old pattern powering modern tech (2021)](https://softwarebits.substack.com/p/old-pattern-powering-modern-tech) - Or why modern storage is just a faster tape.
 - [Migrating Facebook to MySQL 8.0 (2021)](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/) ([HN](https://news.ycombinator.com/item?id=27922097))
 - [Pufferfish, please scale the site! (2021)](https://blog.noredink.com/post/657392972659310592/pufferfish-please-scale-the-site)
+- [Your connection deserves a name (2021)](https://andygrunwald.com/blog/your-connection-deserves-a-name/) - Assign a name to your RabbitMQ, redis, and PostgreSQL connection. ([Code](https://github.com/andygrunwald/your-connection-deserves-a-name))

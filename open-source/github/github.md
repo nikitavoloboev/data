@@ -246,3 +246,5 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Copilot: First Impressions (2021)](https://vladiliescu.net/github-copilot-first-impressions/) ([HN](https://news.ycombinator.com/item?id=27872116))
 - [Is GitHub Copilot a blessing, or a curse? (2021)](https://www.fast.ai/2021/07/19/copilot/) ([HN](https://news.ycombinator.com/item?id=27889967))
 - [Risk Assessment of GitHub Copilot (2021)](https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902) ([HN](https://news.ycombinator.com/item?id=27809059))
+- [go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github.
+- [Github Trending Twitter](https://twitter.com/TrendingGithub) - Twitter bot to tweet trending repositories and developers from GitHub. ([Code](https://github.com/andygrunwald/TrendingGithub))

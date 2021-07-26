@@ -156,6 +156,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Terry Reid](http://www.terryreid.com) - [Seed Of Memory](https://www.youtube.com/watch?v=MgshmDZGZaA)
 - [Ital Tek](https://soundcloud.com/ital-tek) - [Violet](https://www.youtube.com/watch?v=VFhdxftBhIA)
 - Hiroshi Suzuki - [Romance](https://www.youtube.com/watch?v=BFmH7moCL2c)
+- [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) - [In my mind](https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2)
 - [Singularis](https://soundcloud.com/singularismusic) - [Diaphanous](https://www.youtube.com/watch?v=rDdwPRmRxC8)
 - [Pavel Dovgal](https://soundcloud.com/paveldovgal) - [Faust](https://www.youtube.com/watch?v=1EytUGuNFfs)
 - [Sokoto](https://soundcloud.com/sokoto) - [Fluent](https://www.youtube.com/watch?v=AKswbcctUCE)
