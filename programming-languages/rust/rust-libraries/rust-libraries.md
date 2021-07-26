@@ -899,6 +899,7 @@
 - [Arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format.
 - [beef](https://github.com/maciejhirsz/beef) - Faster, more compact implementation of std::borrow::Cow.
 - [uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
+- [QuantLib](https://github.com/piquette/quantlib) - Idiomatic rust implementation of the QuantLib C++ quantitative finance library.
 
 ## Cargo Plugins
 
