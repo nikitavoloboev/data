@@ -73,3 +73,4 @@
 - [radian](https://github.com/randy3k/radian) - 21 century R console.
 - [Why do we use R rather than Excel? (2021)](https://shkspr.mobi/blog/2021/07/why-do-we-use-r-rather-than-excel/) ([HN](https://news.ycombinator.com/item?id=27800291))
 - [Supervised Machine Learning for Text Analysis in R (2021)](https://smltar.com/) ([Code](https://github.com/EmilHvitfeldt/smltar))
+- [performance](https://github.com/easystats/performance) - Test if your model is a good model.

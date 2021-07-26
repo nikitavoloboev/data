@@ -151,7 +151,7 @@
 - [OpenAI Python](https://github.com/openai/openai-python) - Provides convenient access to the OpenAI API from applications written in Python.
 - [Mesh Transformer JAX](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku. ([HN](https://news.ycombinator.com/item?id=27727009))
 - [deepC](https://github.com/ai-techsystems/deepC) - Vendor independent deep learning library, compiler and inference framework designed for small form-factor devices.
-- [Dlib](https://github.com/davisking/dlib) - Toolkit for making real world machine learning and data analysis applications in C++. ([Web](http://dlib.net/))
+- [Dlib](https://github.com/davisking/dlib) - Modern C++/Python Toolkit for Machine Learning . ([Web](http://dlib.net/)) ([HN](https://news.ycombinator.com/item?id=27917159))
 - [Continuum](https://github.com/Continvvm/continuum) - Clean and simple data loading library for Continual Learning.
 - [Smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine.
 - [AugLy](https://github.com/facebookresearch/AugLy) - Data augmentations library for audio, image, text, and video.

@@ -72,3 +72,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [High FGF21, Low Insulin And Glucose: A Pro-Longevity Strategy? (2021)](https://www.youtube.com/watch?v=NreBsyaj0l0)
 - [David Sinclair: Extending the Human Lifespan Beyond 100 Years (2021)](https://overcast.fm/+eZyDJMlAE)
 - [The long lives of primates and the ‘invariant rate of ageing’ hypothesis (2021)](https://www.nature.com/articles/s41467-021-23894-3)
+- [Is Aging Inevitable? (2021)](https://joshmitteldorf.scienceblog.com/2021/06/17/is-aging-inevitable/) ([HN](https://news.ycombinator.com/item?id=27954865))

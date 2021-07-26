@@ -435,3 +435,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [MakersPlace](https://makersplace.com/) - Premier Rare Digital Art Market.
 - [Tour of the Sacred Library (2021)](https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/)
 - [How to get your creative work back on track (2021)](https://every.to/superorganizers/building-a-what-s-next-deck)
+- [Deep Learning Visuals](https://github.com/The-AI-Summer/deep-learning-visuals) - Collection of 100 Deep Learning images and visualizations.
