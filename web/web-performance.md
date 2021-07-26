@@ -3,6 +3,7 @@
 ## Notes
 
 - Don't ever underestimate the cost performance of cache misses.
+- [Bundle size is not your main performance problem (most likely). As long as the cache headers are ok and hosted in a CDN, you are good. Worry about expensive renders or unnecessary network calls before fine-tuning bundle size.](https://twitter.com/scinos/status/1419535719811399683)
 
 ## Links
 

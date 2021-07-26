@@ -389,3 +389,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [IndieBound.org](https://www.indiebound.org/) - Find your local indie bookstore.
 - [Oku](https://oku.club/) - The companion app for your book shelf.
 - [A Book Apart](https://abookapart.com/) - Brief books for people who design, write, and code.
+- [Aleator Press](https://www.aleator.press/) - Computer-Generated Literature.

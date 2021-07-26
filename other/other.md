@@ -510,3 +510,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Permacomputing](http://viznut.fi/texts-en/permacomputing.html)
 - [Aether](https://aetherdiamonds.com/) - Sustainable Diamonds Made from Air.
 - [Go Play 2](https://github.com/openairplay/goplay2) - Airplay 2 Receiver written in Go.
+- [Aeratron Ceiling Fans](https://aeratron.com/) - World's Most Eco Efficient Fans.
+- [Solar Protocol](https://github.com/alexnathanson/solar-protocol) - System for load balancing and serving content based on photovoltaic logic.

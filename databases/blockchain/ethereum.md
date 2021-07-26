@@ -257,3 +257,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Uniswap on Optimism Launch (2021)](https://uniswap.org/blog/uniswap-optimism-alpha/) ([Tweet](https://twitter.com/Uniswap/status/1415032688440926210))
 - [MEV Resources](https://github.com/0xalpharush/awesome-MEV-resources) - Get up to speed on Maximum Extractable Value.
 - [useWallet()](https://github.com/aragon/use-wallet) - All-in-one solution to connect a dapp to an Ethereum provider.
+- [List of Solidity practice projects (2021)](https://twitter.com/nateliason/status/1419626510357573633)
