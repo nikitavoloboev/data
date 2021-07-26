@@ -520,3 +520,6 @@
 - [Bayesian learning via stochastic gradient langevin dynamics (2011)](https://dl.acm.org/doi/10.5555/3104482.3104568)
 - [Megaverse: Simulating Embodied Agents at One Million Experiences per Second](https://www.megaverse.info/) ([Paper](https://arxiv.org/abs/2107.08170)) ([Code](https://github.com/alex-petrenko/megaverse))
 - [Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them (2021)](https://openreview.net/forum?id=6pgY2PkoXb0) ([Tweet](https://twitter.com/florian_tramer/status/1418911926508216321))
+- [Linear unit-tests for invariance discovery (2021)](https://arxiv.org/abs/2102.10867) ([Code](https://github.com/facebookresearch/InvarianceUnitTests))
+- [In Search of Lost Domain Generalization (2020)](https://arxiv.org/abs/2007.01434) ([Code](https://github.com/facebookresearch/DomainBed))
+- [Understanding and improving out-of-distribution generalisation with Agnieszka Słowik (2021)](https://www.youtube.com/watch?v=W3XE9yD5H4A)
