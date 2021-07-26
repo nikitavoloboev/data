@@ -120,3 +120,4 @@
 - [Embedded scripting languages](https://github.com/dbohdan/embedded-scripting-languages)
 - [Neotron](https://neotron-compute.github.io/Neotron-Book/index.html) - Embedded Rust Home Computer Platform.
 - [Ask HN: How to start learning embedded systems? (2021)](https://news.ycombinator.com/item?id=27828834)
+- [Taking Months to Bits (2021)](https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a) - Calendrical journey into low-level programming.

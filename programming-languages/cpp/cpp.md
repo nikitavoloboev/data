@@ -231,3 +231,4 @@
 - [C++ Interfaces and Templates (2020)](https://dmiller.dev/blog/2020/8/25/c-interfaces-and-templates)
 - [Achieving generic bliss with reflection in modern C++ (2021)](https://ossia.io/posts/reflection/)
 - [MicroProfiler](https://github.com/tyoma/micro-profiler) - Cross-platform low-footprint realtime C/C++ Profiler.
+- [Modern C++ for C Programmers (2018)](https://berthub.eu/articles/posts/c++-1/)

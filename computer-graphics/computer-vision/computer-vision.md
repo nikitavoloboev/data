@@ -337,3 +337,4 @@
 - [ORBIT: A Real-World Few-Shot Dataset for Teachable Object Recognition (2021)](https://arxiv.org/abs/2104.03841) ([Code](https://github.com/microsoft/ORBIT-Dataset))
 - [Vision Transformer Architecture Search (2021)](https://arxiv.org/abs/2106.13700) ([Code](https://github.com/xiusu/ViTAS))
 - [TSIT: A Simple and Versatile Framework for Image-to-Image Translation (2020)](https://arxiv.org/abs/2007.12072) ([Code](https://github.com/EndlessSora/TSIT))
+- [Recognizing People in Photos Through Private On-Device Machine Learning (2021)](https://machinelearning.apple.com/research/recognizing-people-photos)

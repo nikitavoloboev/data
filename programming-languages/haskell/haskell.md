@@ -297,3 +297,4 @@
 - [Past and Present of Haskell: Interview with Simon Peyton Jones (2021)](https://serokell.io/blog/past-and-present-of-haskell)
 - [Introduction to GUI programming in Haskell – Vladislav Zavialov (2020)](https://www.youtube.com/watch?v=k1aq8ikO-8Q)
 - [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) ([Code](https://github.com/paulcavallaro/typeclassopedia))
+- [Haskell Social Fediverse Nodes](https://www.haskell.social/)

@@ -80,3 +80,4 @@
 - [Beach Nearby](https://beachnearby.com/) - Discover the best beaches near you.
 - [Ukio](https://www.stayukio.com/) - Beautifully designed, curated apartments with everything you need.
 - [TripIt](https://www.tripit.com/web) - Highest-rated trip planner and flight tracker.
+- [AllTrails](https://www.alltrails.com/) - Trail Guides & Maps for Hiking, Camping, and Running.

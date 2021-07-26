@@ -369,3 +369,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Incremental Note-Taking (2021)](https://thesephist.com/posts/inc/) ([HN](https://news.ycombinator.com/item?id=27667538)) ([Code](https://github.com/thesephist/inc))
 - [How to turn notes into action (2021)](https://twitter.com/Julian/status/1418292810780790792)
 - [NotePlan](https://noteplan.co/) - Your tasks, notes, and calendar. All linked in one place.
+- [How I Make Drafts Work for Me (2021)](https://heydingus.net/blog/2021/7/how-i-make-drafts-work-for-me)
