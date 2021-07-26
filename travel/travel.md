@@ -79,3 +79,4 @@
 - [Travis](https://www.travistravis.co/) - Like Pinterest for Travel Planning.
 - [Beach Nearby](https://beachnearby.com/) - Discover the best beaches near you.
 - [Ukio](https://www.stayukio.com/) - Beautifully designed, curated apartments with everything you need.
+- [TripIt](https://www.tripit.com/web) - Highest-rated trip planner and flight tracker.

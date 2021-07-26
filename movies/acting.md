@@ -5,6 +5,7 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 ## Notes
 
 - [Be a joiner. If you sit around waiting for things to happen, they never will. Strange as it seems, acting begets opportunities to act. So, we have to get out there and act!](https://www.reddit.com/r/acting/comments/jot9qu/read_jenna_fischers_book_on_acting/)
+- [Put your daughters and sons on the stage if you really want to help them get ahead. Acting is terrific prep for kids seeking a career in pretty much any field.](https://twitter.com/stewartbrand/status/1419460275141451776)
 
 ## Links
 

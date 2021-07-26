@@ -14,6 +14,7 @@ In any way, it is an interesting subject I don't know much about.
   - Not dismissing new ideas simply because they seem contrary to what one already knows, but exploring them on a subjective basis and coming to a informed personal understanding.
   - If you've already decided what's possible and what isn't then you've set up walls you'll never overcome.
   - Someone who is interested in actively exploring the nature of mind from the inside without resorting to wild, unhinged speculation unconnected to intersubjective reality.
+- [I love the idea of "anekāntavāda" in Jain philosophy. It states that truth and reality are complex and always have multiple aspects. It further states that reality can be experienced, but cannot be fully expressed with language.](https://twitter.com/paraschopra/status/1419644698692444162)
 
 ## Links
 
