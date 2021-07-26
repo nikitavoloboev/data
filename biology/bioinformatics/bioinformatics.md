@@ -136,3 +136,4 @@
 - [Highly accurate protein structure prediction with AlphaFold (2021)](https://www.nature.com/articles/s41586-021-03819-2) ([Code](https://github.com/deepmind/alphafold)) ([Tweet](https://twitter.com/demishassabis/status/1415736975395631111)) ([HN](https://news.ycombinator.com/item?id=27848186))
 - [AlphaFold 2 is here: what’s behind the structure prediction miracle (2021)](https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/) ([HN](https://news.ycombinator.com/item?id=27891532))
 - [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/) ([HN](https://news.ycombinator.com/item?id=27919859))
+- [The AlphaFold2 Method Paper: A Fount of Good Ideas (2021)](https://moalquraishi.wordpress.com/2021/07/25/the-alphafold2-method-paper-a-fount-of-good-ideas/) ([Tweet](https://twitter.com/MoAlQuraishi/status/1419355930844618753))

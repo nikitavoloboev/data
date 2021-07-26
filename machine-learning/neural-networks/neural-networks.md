@@ -239,3 +239,4 @@
 - [What are Transformer Neural Networks? (2021)](https://www.youtube.com/watch?v=XSSTuhyAmnI)
 - [Thinking Like Transformers (2021)](https://arxiv.org/abs/2106.06981) ([HN](https://news.ycombinator.com/item?id=27528004))
 - [TIL: Convolutional Filters Are Weights (2017)](https://jeiwan.net/posts/til-convolution-filters-are-weights/)
+- [Solving Mixed Integer Programs Using Neural Networks (2020)](https://arxiv.org/abs/2012.13349) ([Tweet](https://twitter.com/DeepMind/status/1419642398553120772))

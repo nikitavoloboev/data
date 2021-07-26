@@ -26,3 +26,4 @@ Some articles I read and liked that don't fit under any other topic inside this 
 ## Links
 
 - [Most influential essays I've ever read. What are yours? (2020)](https://twitter.com/patrick_oshag/status/1278307221944840193)
+- [Read Something Great](https://www.readsomethinggreat.com/) - Timeless articles from the belly of the internet.
