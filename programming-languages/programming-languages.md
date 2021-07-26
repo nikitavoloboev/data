@@ -220,3 +220,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Creating the Golfcart Programming Language (2021)](https://healeycodes.com/creating-the-golfcart-programming-language/)
 - [Sham: A DSL for Fast DSLs (2021)](https://programming-journal.org/2022/6/4/)
 - [Beautiful ideas in programming: generators and continuations (2021)](https://www.hhyu.org/posts/generator_and_continuation/)
+- [Lizard](https://github.com/terryyin/lizard) - Code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
