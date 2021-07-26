@@ -34,3 +34,4 @@
 - [What did ancient languages sound like? (2021)](https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/) ([HN](https://news.ycombinator.com/item?id=27721748))
 - [Language Learning Resources](https://yusuf.is/creating/language-learning-resources)
 - [Reverso Context](https://context.reverso.net/translation/) - Translation in context.
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
