@@ -182,6 +182,7 @@
 - [Shuttle](https://github.com/awslabs/shuttle) - Library for testing concurrent Rust code.
 - [build-fs-tree](https://github.com/KSXGitHub/build-fs-tree) - Generate a filesystem tree from a macro or a YAML tree.
 - [afl.rs](https://github.com/rust-fuzz/afl.rs) - Fuzzing Rust code with AFLplusplus.
+- [heckcheck](https://github.com/yoshuawuyts/heckcheck) - Heckin small test generator.
 
 ## Error
 

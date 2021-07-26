@@ -22,3 +22,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Lessons from the Screenplay - YouTube](https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw)
 - [Why Mass Effect Should Be the Next Game of Thrones (2021)](https://www.youtube.com/watch?v=-elPKyfpJrM)
 - [Rating Graph](https://www.ratingraph.com/) - Find your next binge-watch.
+- [Plex-Trakt-Sync](https://github.com/Taxel/PlexTraktSync) - Python script that syncs the movies, shows and ratings between trakt and Plex.

@@ -165,3 +165,4 @@
 - [Goodbye C developers: The future of programming with certified program synthesis (2021)](https://gopiandcode.uk/logs/log-certified-synthesis.html) ([Lobsters](https://lobste.rs/s/yl1klr/goodbye_c_developers_future_programming))
 - [Macros on Steroids, Or: How Can Pure C Benefit From Metaprogramming (2021)](https://hirrolot.github.io/posts/macros-on-steroids-or-how-can-pure-c-benefit-from-metaprogramming.html)
 - [CGuard: Efficient Spatial Safety for C (2021)](https://arxiv.org/pdf/2107.10533.pdf)
+- [IOCCC](http://www.ioccc.org/) - The International Obfuscated C Code Contest. ([Winners](http://www.ioccc.org/winners.html))

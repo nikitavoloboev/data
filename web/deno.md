@@ -115,3 +115,4 @@
 - [deno doc](https://doc.deno.land/) ([Code](https://github.com/denoland/doc_website))
 - [deno_s3](https://github.com/lucacasonato/deno_s3) - Amazon S3 for Deno.
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
+- [Obsidian](https://github.com/open-source-labs/obsidian) - GraphQL, built for Deno. ([Web](http://obsidian.land/))

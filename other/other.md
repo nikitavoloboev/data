@@ -512,3 +512,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Go Play 2](https://github.com/openairplay/goplay2) - Airplay 2 Receiver written in Go.
 - [Aeratron Ceiling Fans](https://aeratron.com/) - World's Most Eco Efficient Fans.
 - [Solar Protocol](https://github.com/alexnathanson/solar-protocol) - System for load balancing and serving content based on photovoltaic logic.
+- [Alternative Front Ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
+- [World Flag Search](https://mame.github.io/world-flag-search/en/) ([Code](https://github.com/mame/world-flag-search))
