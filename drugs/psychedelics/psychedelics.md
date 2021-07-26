@@ -124,3 +124,4 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [The Rose Of Paracelsus: On Secrets & Sacraments by William Leonard Pickard (2015)](https://www.goodreads.com/book/show/28930020)
 - [LSD and Psilocybin Increase the Fractal Dimension of Brain Activity (2019)](https://www.biorxiv.org/content/10.1101/517847v2.full)
 - [Magic Mushroom Map](https://www.magicmushroommap.com/) ([HN](https://news.ycombinator.com/item?id=27880733))
+- [Mindbloom](https://www.mindbloom.com/) - Psychedelic Medicine is Here.

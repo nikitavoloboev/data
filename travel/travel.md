@@ -78,3 +78,4 @@
 - [Dtravel](https://www.dtravel.com/) - Community Owned Home Sharing with Lower Fees.
 - [Travis](https://www.travistravis.co/) - Like Pinterest for Travel Planning.
 - [Beach Nearby](https://beachnearby.com/) - Discover the best beaches near you.
+- [Ukio](https://www.stayukio.com/) - Beautifully designed, curated apartments with everything you need.
