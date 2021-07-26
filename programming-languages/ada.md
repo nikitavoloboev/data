@@ -19,3 +19,4 @@
 - [Programming with Ada Docs](https://pyjarrett.github.io/programming-with-ada/index.html)
 - [Going beyond Ada 2022](https://blog.adacore.com/going-beyond-ada-2022) ([HN](https://news.ycombinator.com/item?id=27576959))
 - [Learning to Love a Rigid and Inflexible Language (2021)](https://devblog.blackberry.com/en/2021/05/learning-to-love-a-rigid-and-inflexible-language) ([Lobsters](https://lobste.rs/s/0twona/learning_love_rigid_inflexible_language))
+- [Constructive Galois Connections: Taming the Galois Connection Framework for Mechanized Metatheory (2016)](https://arxiv.org/abs/1511.06965) ([Code](https://github.com/plum-umd/cgc))

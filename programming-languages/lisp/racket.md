@@ -65,3 +65,4 @@
 - [Racket 8.1 (2021)](https://blog.racket-lang.org/2021/05/racket-v8-1.html) ([HN](https://news.ycombinator.com/item?id=27073879))
 - [sketching](https://github.com/soegaard/sketching) - Racket library inspired by Processing.
 - [imin](https://github.com/iambrj/imin) - Compiler for (a subset of) Racket -> x86-64, written in Racket.
+- [cli](https://github.com/countvajhula/cli) - Language for writing command line interfaces in Racket.

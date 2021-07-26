@@ -314,3 +314,4 @@
 - [Survey of Surveys for Natural Language Processing (SOS4NLP)](https://github.com/thunlp/SOS4NLP)
 - [CLIP guided diffusion](https://colab.research.google.com/drive/1ED6_MYVXTApBHzQObUPaaMolgf9hZOOF)
 - [Data driven literary analysis](https://codewords.recurse.com/issues/seven/data-driven-literary-analysis)
+- [DALL·E Mini](https://github.com/borisdayma/dalle-mini) - Generate images from a text prompt.
