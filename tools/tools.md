@@ -16,7 +16,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Podia](https://www.podia.com/) - Everything you need to sell online courses, downloads, and memberships without worrying about the tech.
 - [Shapecatcher](https://shapecatcher.com/) - Helps you find most similar unicode characters.
 - [Tiny Helpers](https://tiny-helpers.dev/) - Collection of single-purpose online tools for web developers. ([Code](https://github.com/stefanjudis/tiny-helpers))
-- [ProcessKit](https://processkit.com/) - Streamlines repeatable client work, makes your team more efficient, and sets your business up for predictable growth.
+- [ProcessKit](https://processkit.com/) - Streamlines repeatable client work, makes your team more efficient, and sets your business up for predictable growth.
 - [HASH](https://hash.ai/) - Complex Systems Simulation. ([Mission](https://hash.ai/about/mission)) ([HN](https://news.ycombinator.com/item?id=21728776))
 - [Espial](https://github.com/jonschoning/espial) - Open-source, web-based bookmarking server.
 - [Generated Photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI.

@@ -901,6 +901,7 @@
 - [beef](https://github.com/maciejhirsz/beef) - Faster, more compact implementation of std::borrow::Cow.
 - [uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
 - [QuantLib](https://github.com/piquette/quantlib) - Idiomatic rust implementation of the QuantLib C++ quantitative finance library.
+- [dynamic_reload](https://github.com/emoon/dynamic_reload) - Dynamic reloading of shared libraries.
 
 ## Cargo Plugins
 
