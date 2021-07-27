@@ -17,3 +17,4 @@
 - [dynamic-datalog](https://github.com/frankmcsherry/dynamic-datalog) - Engines, queries, and data for dynamic Datalog computation.
 - [Getting Drunk with Datalog (2021)](https://ianthehenry.com/posts/getting-drunk-with-datalog/) ([Lobsters](https://lobste.rs/s/x9kejq/getting_drunk_with_datalog)) ([Code](https://github.com/ianthehenry/mixologician))
 - [PyDatalog Tutorial](https://sites.google.com/site/pydatalog/Online-datalog-tutorial)
+- [Eclair](https://github.com/luc-tielen/eclair-lang) - Experimental, minimal Datalog implementation in Haskell.

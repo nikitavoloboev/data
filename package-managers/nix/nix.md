@@ -198,3 +198,4 @@
 - [nix-std](https://github.com/chessai/nix-std) - no-nixpkgs standard library for the nix expression language.
 - [Nix unstable installer](https://github.com/numtide/nix-unstable-installer) - Place to host Nix unstable releases.
 - [Nix Learning](https://github.com/humancalico/nix-learning) - Links to blog posts, articles, videos, etc for learning Nix.
+- [nix-plugins](https://github.com/shlevy/nix-plugins) - Collection of useful Nix native plugins.
