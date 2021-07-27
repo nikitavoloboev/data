@@ -514,3 +514,4 @@ Go promotes composition over inheritance.
 - [Does the Go community have a problem with reinventing the wheel? (2021)](https://www.reddit.com/r/golang/comments/ooqm6r/does_the_go_community_have_a_problem_with/)
 - [Goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [gohere](https://github.com/starius/gohere) - Install Go into a local directory.
+- [Map[string]interface{} in Go: a user's manual](https://bitfieldconsulting.com/golang/map-string-interface) ([HN](https://news.ycombinator.com/item?id=27948162))

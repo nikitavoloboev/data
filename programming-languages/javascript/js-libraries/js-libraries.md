@@ -555,6 +555,7 @@
 - [Dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money safely in JavaScript and TypeScript.
 - [proxied-worker](https://github.com/WebReflection/proxied-worker) - Tiny utility to asynchronously drive a namespace exposed through a Worker.
 - [FZF for JavaScript](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript. ([Web](https://fzf.netlify.app/))
+- [ganja.js](https://github.com/enkimute/ganja.js) - Geometric Algebra for JavaScript.
 
 ## Links
 

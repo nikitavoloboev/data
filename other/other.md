@@ -416,7 +416,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Airbnb.org](https://www.airbnb.org/) - Gives grants to nonprofits that connect people to temporary housing, resources, and specialized support in times of crisis.
 - [Awesome Tiny](https://github.com/nijaru/awesome-tiny) - Awesome list for tiny implementations.
 - [No CS Degree](https://www.nocsdegree.com/) - Inspiring stories from developers without CS degrees. ([HN](https://news.ycombinator.com/item?id=25375206))
-- [Herbie](https://herbie.uwplse.org/) - Automatically Improving Floating Point Accuracy. ([Code](https://github.com/uwplse/herbie))
+- [Herbie](https://herbie.uwplse.org/) - Automatically Improving Floating Point Accuracy. ([Code](https://github.com/uwplse/herbie)) ([How Herbie Happened](https://pavpanchekha.com/blog/how-herbie.html))
 - [perf-load](https://github.com/dvyukov/perf-load) - What do traditional profilers (like perf and pprof) sample: real time or CPU time?
 - [Programming links](https://github.com/pawroman/links)
 - [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw) ([HN](https://news.ycombinator.com/item?id=25441592))
