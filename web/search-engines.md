@@ -142,3 +142,4 @@
 - [Monocle](https://github.com/thesephist/monocle) - Universal, personal search engine. ([Web](https://monocle.surge.sh/)) ([Article](https://thesephist.com/posts/monocle/))
 - [Algolia Recommend](https://www.algolia.com/products/recommendations/) - ML Product Recommender systems & APIs.
 - [Apollo](https://github.com/amirgamil/apollo) - Unix-style personal search engine and web crawler for your digital footprint.
+- [APSE](https://apse.io/) - Personal Search Engine. ([HN](https://news.ycombinator.com/item?id=27965979))

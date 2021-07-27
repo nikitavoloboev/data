@@ -302,6 +302,7 @@
 - [Startupy First Friends](https://www.notion.so/Startupy-First-Friends-05ff4b3ae7844fc0aa3c651c1b767332)
 - [Non-obvious signals your startup is hitting an inflection point](https://twitter.com/asanwal/status/1417985870473347078)
 - [The SaaS Org Chart (2021)](https://sacks.substack.com/p/the-saas-org-chart) ([HN](https://news.ycombinator.com/item?id=27950412))
+- [Ask HN: How did you establish and maintain relationships with your first users? (2021)](https://news.ycombinator.com/item?id=27959475)
 
 ## Images
 
