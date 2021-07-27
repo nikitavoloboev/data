@@ -168,3 +168,4 @@
 - [How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More (2020)](https://carolchen.me/blog/technical/jits-impls/)
 - [Software and Hardware Techniques for Efficient Polymorphic Calls (1999)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.177&rep=rep1&type=pdf)
 - [The Octagon Abstract Domain (2007)](https://arxiv.org/pdf/cs/0703084.pdf)
+- [Compilers as Teachers (2021)](https://ferrous-systems.com/blog/compilers-as-teachers/)

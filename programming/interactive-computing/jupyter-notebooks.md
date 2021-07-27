@@ -82,7 +82,7 @@
 - [Starboard](https://starboard.gg/) - Fully in-browser literate notebooks like Jupyter Notebook. ([Code](https://github.com/gzuidhof/starboard-notebook)) ([HN](https://news.ycombinator.com/item?id=24029002)) ([HN 2](https://news.ycombinator.com/newest?next=26857743&n=1381))
 - [Jupyter Book](https://github.com/executablebooks/jupyter-book) - Open-source tool for building publication-quality books and documents from computational material. ([Intro](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)) ([HN](https://news.ycombinator.com/item?id=24136955)) ([Web](https://jupyterbook.org/intro.html)) ([Docs](https://executablebooks.org/en/latest/))
 - [Tracking Jupyter newsletter](https://tinyletter.com/TrackingJupyter/)
-- [Text2Code for Jupyter notebook](https://github.com/deepklarity/jupyter-text2code) - Proof-of-concept jupyter extension which converts english queries into relevant python code.
+- [Text2Code for Jupyter notebook](https://github.com/deepklarity/jupyter-text2code) - Proof-of-concept jupyter extension which converts english queries into relevant python code. ([HN](https://news.ycombinator.com/item?id=27971281))
 - [Notebook.community](https://notebook.community/) - Effort to archive the most interesting open-source Jupyter notebooks.
 - [How TensorFlow docs uses Jupyter notebooks (2020)](https://blog.tensorflow.org/2020/10/how-tensorflow-docs-uses-juypter-notebooks.html)
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks. ([Docs](https://jupyterhub.readthedocs.io/en/stable/))

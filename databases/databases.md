@@ -384,3 +384,4 @@
 - [Migrating Facebook to MySQL 8.0 (2021)](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/) ([HN](https://news.ycombinator.com/item?id=27922097))
 - [Pufferfish, please scale the site! (2021)](https://blog.noredink.com/post/657392972659310592/pufferfish-please-scale-the-site)
 - [Your connection deserves a name (2021)](https://andygrunwald.com/blog/your-connection-deserves-a-name/) - Assign a name to your RabbitMQ, redis, and PostgreSQL connection. ([Code](https://github.com/andygrunwald/your-connection-deserves-a-name))
+- [What time-weighted averages are and why you should care](https://blog.timescale.com/blog/what-time-weighted-averages-are-and-why-you-should-care/?) ([HN](https://news.ycombinator.com/item?id=27958175))

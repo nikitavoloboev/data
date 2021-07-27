@@ -150,3 +150,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Ask HN: Favorite Blogs by Individuals? (2021)](https://news.ycombinator.com/item?id=27302195)
 - [Small B Blogging (2018)](https://tomcritchlow.com/2018/02/23/small-b-blogging/) ([HN](https://news.ycombinator.com/item?id=27347026))
 - [Refined Blog](https://refined.blog/) - Curated list of personal blogs. ([HN](https://news.ycombinator.com/item?id=27973836))
+- [Why the Substack hype is much ado about very little (2020)](https://dankennedy.net/2020/12/09/blogging-is-dead-long-live-blogging-or-why-the-substack-hype-is-much-ado-about-very-little/) ([HN](https://news.ycombinator.com/item?id=27968203))

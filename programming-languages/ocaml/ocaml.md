@@ -3,7 +3,7 @@
 ## Links
 
 - [Introduction to OCaml (2018)](https://blog.baturin.org/introduction-to-ocaml.html)
-- [Functional Programming in OCaml (2020)](https://www.cs.cornell.edu/courses/cs3110/2020sp/textbook/) ([HN](https://news.ycombinator.com/item?id=22408664))
+- [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html) ([HN](https://news.ycombinator.com/item?id=22408664)) ([HN](https://news.ycombinator.com/item?id=27972900))
 - [Dune](https://github.com/ocaml/dune) - Composable build system for OCaml.
 - [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/)
 - [Esy](https://github.com/esy/esy) - Package.json workflow for native development with Reason/OCaml.
@@ -81,3 +81,5 @@
 - [ocaml-tree-sitter](https://github.com/returntocorp/ocaml-tree-sitter) - Generate OCaml parsers based on tree-sitter grammars, for semgrep.
 - [Parallel programming in Multicore OCaml](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
 - [denu](https://github.com/thangngoc89/denu) - Toy OCaml builder.
+- [OCaml By Example](https://o1-labs.github.io/ocamlbyexample/)
+- [OCaml Programming: Correct + Efficient + Beautiful Lectures (2021)](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)

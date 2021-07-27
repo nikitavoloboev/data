@@ -13,3 +13,4 @@
 - [How to design a sailing ship for the 21st century?](https://solar.lowtechmagazine.com/2021/05/how-to-design-a-sailing-ship-for-the-21st-century.html) ([HN](https://news.ycombinator.com/item?id=27181842))
 - [Marine How To](https://marinehowto.com/) - DIY for Boaters.
 - [SuperYacht Times](https://www.superyachttimes.com/) - Yachting News.
+- [Naval Architecture (2021)](https://ciechanow.ski/naval-architecture/)
