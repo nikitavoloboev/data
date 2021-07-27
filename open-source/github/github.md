@@ -248,3 +248,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Risk Assessment of GitHub Copilot (2021)](https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902) ([HN](https://news.ycombinator.com/item?id=27809059))
 - [go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github.
 - [Github Trending Twitter](https://twitter.com/TrendingGithub) - Twitter bot to tweet trending repositories and developers from GitHub. ([Code](https://github.com/andygrunwald/TrendingGithub))
+- [GitHub Metrics](https://metrics.lecoq.io/) - Generate your metrics that you can embed everywhere, including your GitHub profile readme. ([Code](https://github.com/lowlighter/metrics))

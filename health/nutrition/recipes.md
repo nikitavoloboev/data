@@ -8,6 +8,10 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 
 [Recipe](https://www.foundmyfitness.com/reports/micronutrient-smoothie.pdf). Very healthy. Goes over why it is healthy too.
 
+## Interesting
+
+- [Garlic bread](https://www.simplyrecipes.com/recipes/garlic_bread/)
+
 ## Links
 
 - [Minimal Recipe](https://minimalrecipe.com/) - Recipes you need without the cruft.

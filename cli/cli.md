@@ -59,3 +59,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Collection of modern/faster/saner alternatives to common unix commands.
 - [Awesome TUIs](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces.
 - [Lobsters: What interesting command line tools do you use? (2021)](https://lobste.rs/s/yfgwjr/what_interesting_command_line_tools_do)
+- [binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.

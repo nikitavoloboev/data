@@ -136,3 +136,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [One man's dream to build the best music system with no holds barred - Ken Fritz Documentary (2021)](https://www.youtube.com/watch?v=4b2IOOhJmxw)
 - [Shairport Sync](https://github.com/mikebrady/shairport-sync) - AirPlay audio player – it plays audio streamed from iTunes, iOS, Apple TV and macOS devices and AirPlay sources.
 - [Joybox](https://joybox.rosano.ca/) - Pinboard for audiovisual media.
+- [Genius](https://genius.com/) - Song Lyrics & Knowledge.
