@@ -15,3 +15,5 @@
 - [Atomic gardening](https://en.wikipedia.org/wiki/Atomic_gardening) - Using radiation to induce useful mutations in plants.
 - [Explore Cornell - Home Gardening](http://www.gardening.cornell.edu/homegardening/)
 - [Learn, Garden & Reflect with Cornell Garden-Based Learning](https://gardening.cals.cornell.edu/)
+- [Identify Plants for Free](https://candidegardening.com/GB/identify-plants) ([HN](https://news.ycombinator.com/item?id=27970539))
+- [Candide Gardening](https://candidegardening.com/GB)

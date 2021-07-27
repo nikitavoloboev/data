@@ -26,3 +26,4 @@ In order to have lucid dreams you need two do three things consistently:
 - [Scientists Engineer Dreams to Understand the Sleeping Brain (2020)](https://www.the-scientist.com/features/scientists-engineer-dreams-to-understand-the-sleeping-brain-68170)
 - [Real-time dialogue with a dreaming person is possible (2021)](https://news.northwestern.edu/stories/2021/02/lucid-dreams-ken-paller/)
 - [The overfitted brain: Dreams evolved to assist generalization (2021)](<https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7>) ([HN](https://news.ycombinator.com/item?id=27198505))
+- [Mammals dream about the world they are about to experience before they are born (2021)](https://news.yale.edu/2021/07/22/eyes-wide-shut-how-newborn-mammals-dream-world-theyre-entering) ([HN](https://news.ycombinator.com/item?id=27966782))

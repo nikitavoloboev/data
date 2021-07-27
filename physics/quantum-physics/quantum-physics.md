@@ -71,3 +71,4 @@
 - [Comments on the Sachdev-Ye-Kitaev model (2016)](https://arxiv.org/abs/1604.07818)
 - [Conservation and scrambling of quantum information (2021)](https://www.youtube.com/watch?v=BJ1Teu-ZK8M) ([Reddit](https://www.reddit.com/r/Physics/comments/ny6ef6/scrambling_of_quantum_information/))
 - [QMsolve](https://github.com/quantum-visualizations/qmsolve) - Module for solving and visualizing the Schrödinger equation.
+- [What is the most everyday problem QFT can solve? (2021)](https://www.reddit.com/r/AskPhysics/comments/osjjlq/what_is_the_most_everyday_problem_qft_can_solve/)

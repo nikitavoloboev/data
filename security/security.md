@@ -170,3 +170,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Learnings from looking for NSO Group's spyware on phones (2021)](https://twitter.com/billmarczak/status/1416801439402262529)
 - [Mobile Verification Toolkit (MVT)](https://github.com/mvt-project/mvt) - Forensic tool to look for signs of infection in smartphone devices. ([HN](https://news.ycombinator.com/item?id=27876165))
 - [Abertay Hacksoc Wiki](https://wiki.hacksoc.co.uk/) ([Code](https://github.com/AbertayHackers/gitbook-wiki))
+- [The Insecurity Industry (2021)](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal) - The greatest danger to national security has become the companies that claim to protect it. ([HN](https://news.ycombinator.com/item?id=27965746))
