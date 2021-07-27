@@ -97,6 +97,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Fungarzione](https://fungarzione.com/) - Changelog Of The Future.
 - [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager.
 - [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
+- [Dorik](https://dorik.com/) - Build Beautiful Websites Without Code.
 - [Amie](https://amie.so/) - Joyful productivity app.
 - [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
 - [Smee](https://smee.io/) - Webhook payload delivery service. ([Code](https://github.com/probot/smee.io))

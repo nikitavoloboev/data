@@ -53,6 +53,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Integrity, courage, conviction and resourcefulness seems to be a rare combination but that's all I want in relationship.](https://www.reddit.com/r/datingoverthirty/comments/nltfw6/those_of_you_who_are_single_by_choice_who_are_you/)
 - [Healthy dating I believe is dating your equal, a relationship of two independent people that form a synergy greater than the sum of its parts. A one-way transfer of resources, emotional or intellectual, isn’t that.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/)
 - [Getting a playlist from a friend is one of the best gifts ever.](https://twitter.com/maccaw/status/1413595449991258113)
+- [Deciding when to meet people where they are, and when to leave them where they are is a life skill that I feel defines healthy adulthood.](https://twitter.com/ashleysimpo/status/1419697180462534663)
 
 ## Links
 

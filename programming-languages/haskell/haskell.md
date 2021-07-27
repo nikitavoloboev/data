@@ -302,3 +302,4 @@
 - [Supercharge your handles using phantom types (2021)](https://luctielen.com/posts/supercharge_your_handles_with_phantom_types/)
 - [Combining folds using semigroups (2021)](https://luctielen.com/posts/combining_folds_using_semigroups/)
 - [Bridging a typed and an untyped world (2021)](https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world)
+- [Composable Data Validation with Haskell (2021)](https://www.foxhound.systems/blog/composable-data-validation/)

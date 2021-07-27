@@ -27,3 +27,4 @@
 - [Yoga WASM](https://github.com/rickbutton/yoga-wasm) - Yoga layout engine, but in WebAssembly.
 - [Flex explained with 1 animation](https://twitter.com/javascriptual/status/1387507984964726784)
 - [Compat 2021 mid-year update: Flex gap everywhere](https://web.dev/compat2021-midyear/)
+- [CSS Flexbox gap property](https://css-tricks.com/almanac/properties/g/gap/)

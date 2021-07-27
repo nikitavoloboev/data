@@ -274,3 +274,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Comcast](https://github.com/tylertreat/comcast) - Simulating poor network connections so you can build better systems. ([Reddit](https://www.reddit.com/r/programming/comments/oq2jqb/simulating_poor_network_connections_so_you_can/))
 - [Introduction to open source private LTE and 5G networks (2021)](https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks) ([HN](https://news.ycombinator.com/item?id=27946947))
 - [A Linux Kernel Implementation of the Homa Transport Protocol (2021)](https://www.usenix.org/system/files/atc21_slides_ousterhout.pdf) ([Paper](https://www.usenix.org/conference/atc21/presentation/ousterhout))
+- [Netcat - All you need to know (2021)](https://blog.ikuamike.io/posts/2021/netcat/)
