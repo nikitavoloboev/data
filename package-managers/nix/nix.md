@@ -199,5 +199,4 @@
 - [Nix unstable installer](https://github.com/numtide/nix-unstable-installer) - Place to host Nix unstable releases.
 - [Nix Learning](https://github.com/humancalico/nix-learning) - Links to blog posts, articles, videos, etc for learning Nix.
 - [nix-plugins](https://github.com/shlevy/nix-plugins) - Collection of useful Nix native plugins.
-- [ofborg](https://github.com/NixOS/ofborg) -
 - [Nix.Ci](https://nix.ci/) - Provides the CI integration infrastructure for Nixpkgs and NixOS. More commonly known as OfBorg. ([Code](https://github.com/NixOS/ofborg))
