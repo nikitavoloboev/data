@@ -58,3 +58,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [What can Tezos do for regular people? (2021)](https://www.reddit.com/r/tezos/comments/nqb6ow/what_can_tezos_do_for_regular_people/)
 - [Good points of Tezos (2021)](https://twitter.com/kevinrose/status/1411713135665291266)
 - [Halving the TezEdge node’s memory usage with an eBPF-based memory profiler (2021)](https://medium.com/tezedge/halving-the-tezedge-nodes-memory-usage-with-an-ebpf-based-memory-profiler-2bfd32f94f69)
+- [Tezos k8s](https://github.com/tqtezos/tezos-k8s) - Deploy a Tezos Blockchain on Kubernetes.

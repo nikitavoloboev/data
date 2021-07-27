@@ -182,3 +182,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [«Пойдем. Считать. Пингвинов!» (2020)](https://holod.media/2020/05/26/dnevnik-polyarnika/)
 - [A Gentleman in Moscow by Amor Towles (2019)](https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow)
 - [НЭП. Бизнес при социализме (2021)](https://www.youtube.com/watch?v=Q8X8Em6pHPw)
+- [A respite from the sanctions war (2021)](https://www.ridl.io/en/a-respite-from-the-sanctions-war/)

@@ -221,3 +221,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Sham: A DSL for Fast DSLs (2021)](https://programming-journal.org/2022/6/4/)
 - [Beautiful ideas in programming: generators and continuations (2021)](https://www.hhyu.org/posts/generator_and_continuation/)
 - [Lizard](https://github.com/terryyin/lizard) - Code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
+- [Abstracting Definitional Interpreters: Functional Pearl](https://plum-umd.github.io/abstracting-definitional-interpreters/) ([Code](https://github.com/plum-umd/abstracting-definitional-interpreters))
