@@ -189,6 +189,7 @@
 - [Autogenerate a CRUD app from a CSV file](https://retool.com/utilities/generate-app-from-csv) ([HN](https://news.ycombinator.com/item?id=27754034))
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform terminal database tool written in Rust.
 - [Jailer](https://github.com/Wisser/Jailer) - Truly relational database client. ([HN](https://news.ycombinator.com/item?id=27808653))
+- [dbcritic](https://github.com/channable/dbcritic) - Finds problems in a database schema.
 
 ## Notes
 
