@@ -149,3 +149,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Blog about what you've struggled with (2021)](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/)
 - [Ask HN: Favorite Blogs by Individuals? (2021)](https://news.ycombinator.com/item?id=27302195)
 - [Small B Blogging (2018)](https://tomcritchlow.com/2018/02/23/small-b-blogging/) ([HN](https://news.ycombinator.com/item?id=27347026))
+- [Refined Blog](https://refined.blog/) - Curated list of personal blogs. ([HN](https://news.ycombinator.com/item?id=27973836))

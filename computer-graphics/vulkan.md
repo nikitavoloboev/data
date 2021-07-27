@@ -46,4 +46,3 @@
 - [Zink: Running OpenGL on top of Vulkan - Interview with Mike Blumenkrantz (2021)](https://boilingsteam.com/zink-running-opengl-on-top-of-vulkan-interview-with-mike-blumenkrantz/)
 - [Different techniques for order-independent transparency in Vulkan](https://github.com/nvpro-samples/vk_order_independent_transparency)
 - [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library. ([Web](https://gpuopen.com/vulkan-memory-allocator/)) ([HN](https://news.ycombinator.com/item?id=27903884))
-- [Oruga](https://github.com/oruga-ui/oruga) - Lightweight library of UI components for Vue.js without CSS framework dependency. ([Web](https://oruga.io/))
