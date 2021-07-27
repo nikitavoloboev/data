@@ -24,3 +24,4 @@
 - [LIBUCL](https://github.com/vstakhov/libucl) - Universal configuration library parser.
 - [Jerikan: a configuration management system for network teams (2021)](https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible)
 - [Sharec](https://github.com/lamartire/sharec) - Store your configs in one place and share between projects without any pain. ([Docs](https://sharec.js.org/))
+- [Gura](https://github.com/gura-conf/gura) - File format for configuration files. Readable as YAML and simple as TOML. ([Web](https://gura.netlify.app/))

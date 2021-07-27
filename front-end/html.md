@@ -128,3 +128,4 @@
 - [Capsid](https://github.com/capsidjs/capsid) - Declarative DOM programming library based on TypeScript decorators.
 - [html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser.
 - [HTML Recipes](https://htmlrecipes.dev/) - Collection of quick copy HTML snippets for a variety of common scenarios. ([Code](https://github.com/5t3ph/htmlrecipes))
+- [xPath Finder](https://github.com/trembacz/xpath-finder) - Click on any element to get the xPath.

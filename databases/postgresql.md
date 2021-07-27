@@ -292,3 +292,4 @@
 - [High Availability Postgres on Fly](https://github.com/fly-apps/postgres-ha)
 - [Cut Out the Middle Tier: Generating JSON Directly from Postgres (2021)](https://blog.crunchydata.com/blog/generating-json-directly-from-postgres)
 - [Coordination-free Database Query Sharding with PostgreSQL (2021)](https://relistan.com/coordination-free-db-query-chunking)
+- [Postgres Full-Text Search: A Search Engine in a Database (2021)](https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database) ([HN](https://news.ycombinator.com/item?id=27973497))
