@@ -139,3 +139,5 @@
 - [Anders](https://github.com/groupoid/anders) - Homotopy Type System with Strict Equality.
 - [Homotopy Type System](https://groupoid.space/homotopy/) - Type theory with two equalities.
 - [Types versus sets in math and programming languages (2021)](https://byorgey.wordpress.com/2021/06/24/types-versus-sets-in-math-and-programming-languages/)
+- [Let's build a type system in Haskell!](https://luctielen.com/videos/lets_build_a_typesystem_in_haskell/)
+- [Bidirectional Typing Rules: A Tutorial (2013)](http://www.davidchristiansen.dk/tutorials/bidirectional.pdf) ([Code](https://github.com/luc-tielen/typesystem))

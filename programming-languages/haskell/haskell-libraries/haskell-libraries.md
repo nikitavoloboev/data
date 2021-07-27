@@ -133,6 +133,7 @@
 - [extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles.
 - [hint](https://github.com/haskell-hint/hint) - Runtime Haskell interpreter.
 - [volpano-smith](https://github.com/madgen/volpano-smith) - Compile-time privacy enforcing language embedded in Haskell.
+- [Souffle-haskell](https://github.com/luc-tielen/souffle-haskell) - Haskell bindings for the Souffle datalog language.
 
 ## Links
 

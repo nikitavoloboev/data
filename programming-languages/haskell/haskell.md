@@ -298,3 +298,6 @@
 - [Introduction to GUI programming in Haskell – Vladislav Zavialov (2020)](https://www.youtube.com/watch?v=k1aq8ikO-8Q)
 - [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) ([Code](https://github.com/paulcavallaro/typeclassopedia))
 - [Haskell Social Fediverse Nodes](https://www.haskell.social/)
+- [Calling C++ from Haskell (2021)](https://luctielen.com/posts/calling_cpp_from_haskell/)
+- [Supercharge your handles using phantom types (2021)](https://luctielen.com/posts/supercharge_your_handles_with_phantom_types/)
+- [Combining folds using semigroups (2021)](https://luctielen.com/posts/combining_folds_using_semigroups/)

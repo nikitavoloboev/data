@@ -14,3 +14,4 @@
 - [Mercury](https://github.com/Mercury-Language/mercury) - Logic/functional programming language which combines the clarity and the expressiveness of declarative programming with advanced static analysis and error detection features. ([Web](http://www.mercurylang.org/))
 - [Advent of Code in Polar (logic programming) (2021)](https://www.osohq.com/post/advent-of-code-in-polar)
 - [Making a “MiniKanren” using Z3Py (2021)](https://www.philipzucker.com/minikanren-z3py/)
+- [Leverage the Power of Logic Programming With Souffle-haskell (2021)](https://luctielen.com/videos/leverage_the_power_of_logic_programming/)
