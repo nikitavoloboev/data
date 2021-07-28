@@ -59,4 +59,4 @@
 - [Inferrd](https://inferrd.com/) - GPU-Accelerated Inference Hosting. ([HN](https://news.ycombinator.com/item?id=27817137))
 - [GPU architecture types explained (2021)](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
 - [Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
-- [Introducing Triton: Open-Source GPU Programming for Neural Networks (2021)](https://openai.com/blog/triton/)
+- [Introducing Triton: Open-Source GPU Programming for Neural Networks (2021)](https://openai.com/blog/triton/) ([HN](https://news.ycombinator.com/item?id=27985594))

@@ -137,3 +137,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Shairport Sync](https://github.com/mikebrady/shairport-sync) - AirPlay audio player – it plays audio streamed from iTunes, iOS, Apple TV and macOS devices and AirPlay sources.
 - [Joybox](https://joybox.rosano.ca/) - Pinboard for audiovisual media.
 - [Genius](https://genius.com/) - Song Lyrics & Knowledge.
+- [A simple guide to disrupting the music industry (2021)](https://www.musicxtechxfuture.com/2021/07/27/a-simple-guide-to-disrupting-the-music-industry/)

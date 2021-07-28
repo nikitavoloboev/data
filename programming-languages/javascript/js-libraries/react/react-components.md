@@ -93,7 +93,7 @@
 - [Muuri-React](https://github.com/Paol-imi/muuri-react) - React implementation of the amazing Muuri layout engine.
 - [react-flow-diagram](https://github.com/DrummerHead/react-flow-diagram) - Batteries included React Component for rendering, creating and editing Diagrams.
 - [react-diagrams](https://github.com/projectstorm/react-diagrams) - Super simple, no-nonsense diagramming library written in react that just works.
-- [React Flow](https://github.com/wbkd/react-flow) - Library for Rendering Interactive Graphs. ([Article](https://webkid.io/blog/react-flow-node-based-graph-library/)) ([HN](https://news.ycombinator.com/item?id=23080346)) ([HN 2](https://news.ycombinator.com/item?id=26860381))
+- [React Flow](https://github.com/wbkd/react-flow) - Library for Rendering Interactive Graphs. ([Article](https://webkid.io/blog/react-flow-node-based-graph-library/)) ([HN](https://news.ycombinator.com/item?id=23080346)) ([HN 2](https://news.ycombinator.com/item?id=26860381)) ([Web](https://reactflow.dev/))
 - [React Flow Chart](https://github.com/MrBlenny/react-flow-chart) - Flexible, stateless, declarative flow chart library for react.
 - [react-polymorphic-types](https://github.com/kripod/react-polymorphic-types) - Zero-runtime polymorphic component definitions for React.
 - [react-scroll-percentage](https://github.com/thebuilder/react-scroll-percentage) - Monitor the scroll percentage of a component inside the viewport, using the IntersectionObserver API.

@@ -42,3 +42,4 @@
 - [Wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard-based mesh network. ([Web](https://wiretrustee.com/)) ([HN](https://news.ycombinator.com/item?id=27672715))
 - [The WireGuard VPN challenge of provisioning clients (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WireGuardProvisioningChallenge) ([Lobsters](https://lobste.rs/s/fynvif/wireguard_vpn_challenge_provisioning))
 - [wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
+- [Tailscale IP address by hostname with jq](https://gist.github.com/jc00ke/06ab088b9f889b551ef3fea7b970b97d)
