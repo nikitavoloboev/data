@@ -91,3 +91,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [PrivacyTools](https://www.privacytools.io/) - Encryption Against Global Mass Surveillance. ([Code](https://github.com/privacytools/privacytools.io))
 - [Safing](https://safing.io/) - Monitor All Network Activity. Block Mass Surveillance. ([Code](https://github.com/safing/portmaster))
 - [Getting more useful results with differential privacy (2021)](https://desfontain.es/privacy/more-useful-results-dp.html)
+- [Moving away from Google services, 8 years in (2021)](https://maximevaillancourt.com/blog/moving-away-from-google-services-8-years-in)

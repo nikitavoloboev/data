@@ -143,7 +143,7 @@
 
 ## Other
 
-- [Click](https://click.palletsprojects.com/en/) - Create beautiful command line interfaces in a composable way with as little code as necessary. ([click-man - Create man pages for click applications](https://github.com/click-contrib/click-man)) ([Code](https://github.com/pallets/click))
+- [Click](https://click.palletsprojects.com/en/) - Create beautiful command line interfaces in a composable way with as little code as necessary. ([click-man - Create man pages for click applications](https://github.com/click-contrib/click-man)) ([Code](https://github.com/pallets/click)) ([Article](https://www.assemblyai.com/blog/the-definitive-guide-to-python-click))
 - [Hypertools](https://github.com/ContextLab/hypertools) - Python toolbox for gaining geometric insights into high-dimensional data.
 - [Flit](http://flit.readthedocs.io/en/latest/) - Simple way to put Python packages and modules on PyPI.
 - [Photon](https://github.com/s0md3v/Photon) - Lightning fast web crawler which extracts URLs, files, intel & endpoints from a target.

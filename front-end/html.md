@@ -129,3 +129,4 @@
 - [html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser.
 - [HTML Recipes](https://htmlrecipes.dev/) - Collection of quick copy HTML snippets for a variety of common scenarios. ([Code](https://github.com/5t3ph/htmlrecipes))
 - [xPath Finder](https://github.com/trembacz/xpath-finder) - Click on any element to get the xPath.
+- [Marko](https://github.com/marko-js/marko) - Declarative, HTML-based language that makes building web apps fun. ([Web](https://markojs.com/)) ([Marko Tags](https://dev.to/ryansolid/introducing-the-marko-tags-api-preview-37o4))

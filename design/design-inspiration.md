@@ -49,6 +49,7 @@ Here are few more things I liked, design wise.
 - [hyperlink.academy](https://hyperlink.academy/)
 - [Point-Free](https://www.pointfree.co/)
 - [Snaplet](https://www.snaplet.dev/)
+- [Hicks](https://hicks.design/)
 - [Materialize](https://materialize.io/)
 - [Dropbase](https://www.dropbase.io/)
 - [Failory](https://www.failory.com/)
