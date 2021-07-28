@@ -135,3 +135,4 @@
 - [WebAuthn Library](https://github.com/duo-labs/webauthn) - WebAuthn (FIDO2) server library written in Go.
 - [react-query-auth](https://github.com/alan2207/react-query-auth) - Authenticate your react applications easily with react-query.
 - [Dynamic Row-Level Authorization on Web Maps using JWT (2021)](https://www.dimetric.io/post/dynamic-row-level-authorization-on-web-maps-using-jwt)
+- [Raider](https://github.com/DigeeX/raider) - Web authentication testing framework.

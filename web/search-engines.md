@@ -143,3 +143,4 @@
 - [Algolia Recommend](https://www.algolia.com/products/recommendations/) - ML Product Recommender systems & APIs.
 - [Apollo](https://github.com/amirgamil/apollo) - Unix-style personal search engine and web crawler for your digital footprint.
 - [APSE](https://apse.io/) - Personal Search Engine. ([HN](https://news.ycombinator.com/item?id=27965979))
+- [Time Series Similarity Search](https://www.pinecone.io/docs/examples/time-series/)

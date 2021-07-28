@@ -121,3 +121,4 @@
 - [Neotron](https://neotron-compute.github.io/Neotron-Book/index.html) - Embedded Rust Home Computer Platform.
 - [Ask HN: How to start learning embedded systems? (2021)](https://news.ycombinator.com/item?id=27828834)
 - [Taking Months to Bits (2021)](https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a) - Calendrical journey into low-level programming.
+- [EON Tuner: Edge Impulse's New AutoML Tool for Embedded Machine Learning (2021)](https://www.edgeimpulse.com/blog/introducing-the-eon-tuner-edge-impulses-new-automl-tool-for-embedded-machine-learning?_ga=2.52353705.1878182224.1626956307-1252652237.1574934249)

@@ -86,3 +86,4 @@
 - [A Breakdown of AI Chip Companies (2021)](https://geohot.github.io/blog/jekyll/update/2021/06/13/a-breakdown-of-ai-chip-companies.html)
 - [The Ethics of AI (2021)](https://www.vimarsh.info/blog/ethics-of-ai/)
 - [Allen Institute for AI](https://allenai.org/) ([GitHub](https://github.com/allenai))
+- [Scaling Hypothesis - The path to Artificial General Intelligence? (2021)](https://johanneshage.substack.com/p/scaling-hypothesis-the-path-to-artificial)

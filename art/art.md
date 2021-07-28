@@ -186,6 +186,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [David Altrath](https://davidaltrath.com/)
 - [Rui Tomono](https://www.pixiv.net/member.php?id=27526)
 - [Nicholas Boatwright](https://www.etsy.com/shop/BoatwrightArt) ([Reddit](https://www.reddit.com/user/yum_paste/))
+- [Ivan Kramskoi](https://en.wikipedia.org/wiki/Ivan_Kramskoi)
 - [Juno Calypso](https://www.junocalypso.com/)
 - [Hailey Ha Jung](https://www.instagram.com/hzzzha/)
 - [Robh Ruppel](https://www.artstation.com/robh_ruppel_design)

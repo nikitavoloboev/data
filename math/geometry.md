@@ -43,3 +43,4 @@
 - [New Approach to Arakelov Geometry (2007)](https://arxiv.org/abs/0704.2030) ([Reddit](https://www.reddit.com/r/math/comments/ms2a7m/durov_new_approach_to_arakelov_geometry/))
 - [A Satisfying Result (2021)](https://cacm.acm.org/magazines/2021/5/252165-a-satisfying-result/fulltext#.YIeLaVxXfk0.twitter)
 - [Geometry Processing Course](https://github.com/alecjacobson/geometry-processing)
+- [Generating Random Convex Polygons](https://cglab.ca/~sander/misc/ConvexGeneration/convex.html)

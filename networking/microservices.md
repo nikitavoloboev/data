@@ -74,3 +74,4 @@
 - [Crossbar.io](https://crossbar.io/) - Open source networking platform for distributed and microservice applications. ([Code](https://github.com/crossbario/crossbar)) ([HN](https://news.ycombinator.com/item?id=27078792))
 - [Mesher](https://github.com/apache/servicecomb-mesher) - High performance service mesh implementation written in go.
 - [Sustainable microservices, my opinions and advice](https://alexb.cc/microservices-opinions-and-advice)
+- [The Future of Microservices? More Abstractions (2021)](https://thenewstack.io/the-future-of-microservices-more-abstractions/)

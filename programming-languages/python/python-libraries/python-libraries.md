@@ -437,6 +437,7 @@
 - [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python. ([Docs](https://www.dynaconf.com/))
 - [Shillelagh](https://github.com/betodealmeida/shillelagh) - Making it easy to query APIs via SQL.
 - [Chemics](https://github.com/chemics/chemics) - Python package for chemical reactor engineering.
+- [Mesa](https://github.com/projectmesa/mesa) - Agent-based modeling framework in Python. ([Docs](https://mesa.readthedocs.io/en/master/))
 
 ## Links
 

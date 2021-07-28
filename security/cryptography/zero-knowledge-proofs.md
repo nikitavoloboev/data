@@ -36,3 +36,4 @@
 - [Aleo SDK](https://github.com/AleoHQ/aleo) - Software Development Kit (SDK) for Zero-Knowledge Transactions.
 - [wasmsnark](https://github.com/iden3/wasmsnark) - Fast zkSnark proof generator written in native Web Assembly.
 - [Zero-Knowledge Proofs](https://zkp.science/) ([HN](https://news.ycombinator.com/item?id=27573910))
+- [Zk-SNARKs, FreeTON and OCamlPro](https://medium.com/ocamlpro/zk-snarks-freeton-and-ocamlpro-eaaa1849ffd1)

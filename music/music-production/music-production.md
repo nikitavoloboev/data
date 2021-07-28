@@ -86,6 +86,7 @@
 - [libpd](https://github.com/libpd/libpd) - Pure Data embeddable audio synthesis library.
 - [Music Suite](https://github.com/music-suite/music-suite) - Language for describing music, based on Haskell.
 - [Oscen](https://github.com/reedrosenbluth/oscen) - Rust Sound Synthesis Library.
+- [Dorico for iPad](https://new.steinberg.net/dorico/ipad/) - Music Notation App.
 
 ## Inspiration
 
