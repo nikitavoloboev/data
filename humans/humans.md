@@ -33,6 +33,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Ezra Klein Interviews Ted Chiang (2021)](https://www.nytimes.com/2021/03/30/podcasts/ezra-klein-podcast-ted-chiang-transcript.html) ([HN](https://news.ycombinator.com/item?id=26768327))
 - [Mads Mikkelsen, In Conversation (2021)](https://www.vulture.com/article/mads-mikkelsen-in-conversation.html)
 - [Виктор Бабарико. Биография](https://www.youtube.com/watch?v=v7q_SKxNtW8)
+- [73 Questions With Lorde (2021)](https://www.youtube.com/watch?v=MSRBV9udKi8)
 
 ## Interesting bios
 

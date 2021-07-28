@@ -67,6 +67,7 @@
 - [Hactar](https://hactar.is/) - Product and service design for social good.
 - [Heartbeat Agency](https://heartbeat.ua/) - UI/UX for mobile and web apps in fintech.
 - [Simple Thread](https://www.simplethread.com/) - Digital Product Agency.
+- [Charmer](https://charmerstudio.com/ru) - Дизайн-студия.
 
 ## DB
 

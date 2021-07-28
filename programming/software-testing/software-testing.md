@@ -96,4 +96,4 @@
 - [AtomicJar](https://www.atomicjar.com/) - Make integration testing easier for developers across the software development lifecycle.
 - [Rethinking Software Testing: Perspectives from the world of Hardware (2019)](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/) ([Lobsters](https://lobste.rs/s/ogt990/rethinking_software_testing)) ([HN](https://news.ycombinator.com/item?id=27795061))
 - [You should want to write unit tests and here is why (2021)](https://dev.to/jbszczepaniak/you-should-want-to-write-tests-and-here-is-why-4bi5)
-- [We need to talk about testing (2021)](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/)
+- [We need to talk about testing (2021)](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/) ([HN](https://news.ycombinator.com/item?id=27970030))

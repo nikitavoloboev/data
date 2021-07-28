@@ -3,6 +3,7 @@
 ## Notes
 
 - [MDMA + Ket is nice combo](https://www.reddit.com/r/ketamine/comments/oqdjwe/the_most_intense_hole_ive_ever_experienced/)
+- [perma tolerance is a thing with dissos](https://www.reddit.com/r/ketamine/comments/oszyad/tolerance/)
 
 ## Links
 

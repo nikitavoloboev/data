@@ -125,3 +125,4 @@
 - [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis (2021)](https://marcoamonteiro.github.io/pi-GAN-website/) ([Code](https://github.com/marcoamonteiro/pi-GAN))
 - [Diffusion Models Beat GANs on Image Synthesis (2021)](https://arxiv.org/abs/2105.05233) ([Code](https://github.com/openai/guided-diffusion))
 - [Realless](https://realless.glitch.me/) - Ways To Use Generative Adversarial Networks In Art.
+- [LARGE: Latent-Based Regression through GAN Semantics (2021)](https://arxiv.org/abs/2107.11186) ([Code](https://github.com/YotamNitzan/LARGE))
