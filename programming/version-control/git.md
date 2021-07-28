@@ -269,3 +269,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git when-merged](https://github.com/mhagger/git-when-merged) - Determine when a particular commit was merged into a git branch.
 - [A monorepo misconception – atomic cross-project commits (2021)](https://www.snellman.net/blog/archive/2021-07-21-monorepo-atomic/) ([HN](https://news.ycombinator.com/item?id=27903282)) ([Lobsters](https://lobste.rs/s/h1yvlm/monorepo_misconception_atomic_cross))
 - [Awesome Git](https://github.com/dictcp/awesome-git)
+- [Cleaning Up Git History (2021)](https://blog.sulami.xyz/posts/cleaning-up-git-history/) ([Lobsters](https://lobste.rs/s/kl0aso/cleaning_up_git_history))
