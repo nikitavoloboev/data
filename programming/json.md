@@ -55,7 +55,7 @@
 - [HuJSON](https://github.com/tailscale/hujson) - JSON for Humans (comments and trailing commas).
 - [An Exploration of JSON Interoperability Vulnerabilities (2021)](https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities)
 - [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/) ([Code](https://github.com/json-schema-org/understanding-json-schema))
-- [quicktype](https://app.quicktype.io/) - Instantly parse JSON in any language. ([Tweet](https://twitter.com/steipete/status/1380860288791117835))
+- [quicktype](https://app.quicktype.io/) - Instantly parse JSON in any language. ([Tweet](https://twitter.com/steipete/status/1380860288791117835)) ([Web](https://quicktype.io/))
 - [JsonLogic](https://jsonlogic.com/) - Build complex rules and share them as JSON. ([HN](https://news.ycombinator.com/item?id=27306263))
 - [JsQuery](https://github.com/postgrespro/jsquery) - JSON query language with GIN indexing support.
 - [BSON](http://bsonspec.org/) - Binary JSON. ([Code](https://github.com/mongodb/bsonspec.org))

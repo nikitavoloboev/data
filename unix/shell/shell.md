@@ -143,3 +143,4 @@ All active variables can be seen by running `env`.
 - [Gufo](https://github.com/Piervit/gufo) - Modern shell language.
 - [Warp](https://www.warp.dev/) - Fast, Rust-based terminal. ([HN](https://news.ycombinator.com/item?id=27835057)) ([Issues](https://github.com/warpdotdev/warp))
 - [How Warp Works (2021)](https://blog.warp.dev/how-warp-works/) ([Lobsters](https://lobste.rs/s/16pj8p/how_warp_works))
+- [TStream](https://github.com/qnkhuat/tstream) - Live streaming from your terminal. ([Web](https://www.tstream.club/))

@@ -183,3 +183,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [A Gentleman in Moscow by Amor Towles (2019)](https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow)
 - [НЭП. Бизнес при социализме (2021)](https://www.youtube.com/watch?v=Q8X8Em6pHPw)
 - [A respite from the sanctions war (2021)](https://www.ridl.io/en/a-respite-from-the-sanctions-war/)
+- [Political climate in Russia (2021)](https://www.reddit.com/r/AskARussian/comments/ot5lnp/what_do_you_think_foreigners_should_know_about/)

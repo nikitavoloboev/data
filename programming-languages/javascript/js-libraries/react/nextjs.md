@@ -220,3 +220,4 @@
 - [Running a Next.js Site on Cloudflare Pages (2021)](https://opstrace.com/blog/nextjs-on-cloudflare)
 - [Krabs](https://github.com/micheleriva/krabs) - Enterprise-ready Express.js middleware for serving thousands of different websites from a single Next.js instance. ([Web](https://micheleriva.github.io/krabs/))
 - [Real-World Next.js Book (2021)](https://www.packtpub.com/product/real-world-next-js/9781801073493)
+- [Authentication Patterns for Next.js (2020)](https://www.youtube.com/watch?v=NSR_Y_rm_zU)
