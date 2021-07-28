@@ -207,3 +207,4 @@
 - [Consistency and Consensus – How Do Paxos and Raft Work? (2021)](https://10percentsmarter.substack.com/p/consistency-and-consensus)
 - [Summer Blog Backlog: Distributed Systems (2021)](http://www.oilshell.org/blog/2021/07/blog-backlog-2.html)
 - [Fanouts and Percentiles (2020)](https://paulcavallaro.com/blog/fanouts-and-percentiles/)
+- [Distributed Tracing — we’ve been doing it wrong (2019)](https://copyconstruct.medium.com/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df)

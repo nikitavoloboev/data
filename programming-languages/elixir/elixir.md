@@ -112,3 +112,4 @@
 - [What happens when a linked process dies in Elixir (2021)](https://furlough.merecomplexities.com/elixir/otp/2021/06/08/what-happens-when-a-linked-process-dies.html)
 - [Elixir: Practical Concurrency Cookbook (2021)](https://www.works-hub.com/learn/elixir-practical-concurrency-3794f)
 - [Writing extensible Elixir with Behaviors (2016)](https://www.djm.org.uk/posts/writing-extensible-elixir-with-behaviours-adapters-pluggable-backends/)
+- [How Far Can I Push a GenServer? (2021)](https://blog.brian-underwood.codes/elixir/2021/07/23/How-Far-Can-I-Push-a-GenServer)

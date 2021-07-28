@@ -262,3 +262,4 @@
 - [train-CLIP](https://github.com/Zasder3/train-CLIP) - PyTorch Lightning solution to training CLIP from both scratch and fine-tuning.
 - [Norse](https://github.com/norse/norse) - Deep learning with spiking neural networks (SNNs) in PyTorch.
 - [Dense Matching](https://github.com/PruneTruong/DenseMatching) - Dense matching library based on PyTorch.
+- [TorchShard](https://github.com/KaiyuYue/torchshard) - Slicing a PyTorch Tensor Into Parallel Shards.
