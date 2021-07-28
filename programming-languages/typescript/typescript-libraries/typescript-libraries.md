@@ -130,6 +130,7 @@
 - [Euclid.ts](https://github.com/mathigon/euclid.js) - Typescript library for 2D geometry.
 - [Superstruct](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 - [async-off](https://github.com/rauschma/async-off) - Make asynchronous TypeScript code synchronous.
+- [Earl](https://github.com/earl-js/earl) - Ergonomic, modern and type-safe assertion library for TypeScript. ([Web](https://earljs.dev/))
 
 ## Links
 
