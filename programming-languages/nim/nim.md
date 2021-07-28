@@ -29,3 +29,4 @@
 - [Nim Playground](https://play.nim-lang.org/)
 - [Nim 2.0 thoughts (2021)](https://forum.nim-lang.org/t/7983) ([HN](https://news.ycombinator.com/item?id=27165366))
 - [Nim RFCs](https://github.com/nim-lang/RFCs)
+- [Nim: Efficient, Expressive, Elegant - Comparing these Aspects (2021)](https://nim-lang.org/blog/2021/07/28/Nim-Efficient-Expressive-Elegant-Benchmarking.html)

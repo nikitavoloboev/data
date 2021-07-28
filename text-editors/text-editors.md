@@ -122,3 +122,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Kaolinite](https://github.com/curlpipe/kaolinite) - Rust crate to assist in the creation of TUI text editors.
 - [bangle.dev](https://bangle.dev/) - Collection of components for building powerful editing experiences for the web. ([Code](https://github.com/bangle-io/bangle.dev))
 - [Tylr](https://tylr.fun/) - Interactive demonstration of tile-based editing. ([Code](https://github.com/hazelgrove/tylr)) ([Tweet](https://twitter.com/dm_0ney/status/1414742742530498566)) ([HN](https://news.ycombinator.com/item?id=27926758))
+- [Elastic tabstops - a better way to indent and align code](https://nickgravgaard.com/elastic-tabstops/)

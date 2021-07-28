@@ -41,3 +41,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [iOS 14.5 brings the new Safari 14.1 to PWAs and the Web Platform (2021)](https://firt.dev/ios-14.5/)
 - [Safari 15 on Mac OS, a user interface mess (2021)](https://morrick.me/archives/9368) ([HN](https://news.ycombinator.com/item?id=27559832))
 - [For developers, Apple’s Safari is crap and outdated (2021)](https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/) ([HN](https://news.ycombinator.com/item?id=27968394)) ([Lobsters](https://lobste.rs/s/4vhjvf/for_developers_apple_s_safari_is_crap)) ([Reddit](https://www.reddit.com/r/programming/comments/osj2i8/for_developers_apples_safari_is_crap_and_outdated/))
+- [One-offs and low-expectations with Safari (2021)](https://daverupert.com/2021/07/safari-one-offs/)
