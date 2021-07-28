@@ -8,6 +8,7 @@
 - [Aether](https://github.com/nehbit/aether) - Peer-to-peer network of independent, self-moderated communities.
 - [Metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [Moonad](https://github.com/moonad/Whitepaper) - Peer-to-Peer Operating System.
+- [libp2p](https://libp2p.io/) - Modular peer-to-peer networking stack (used by IPFS and others). ([GitHub](https://github.com/libp2p)) ([Code](https://github.com/libp2p/libp2p))
 - [go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go.
 - [go-libp2p-tor-transport](https://github.com/berty/go-libp2p-tor-transport) - go-libp2p transport targeting mainly \*nix platform.
 - [DTN Conf sketch notes from 2019 event](https://twitter.com/_lrlna/status/1129361644134567936)

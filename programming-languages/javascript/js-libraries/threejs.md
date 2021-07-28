@@ -52,3 +52,4 @@
 - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - BVH implementation to speed up raycasting against and enable intersection tests for three.js meshes.
 - [three-pathfinding](https://github.com/donmccurdy/three-pathfinding) - Navigation mesh toolkit for ThreeJS, based on PatrolJS.
 - [Terrain Builder](https://github.com/FarazzShaikh/Terrain-Builder) - Procedural terrain using Three.js and perlin noise, Now Accelerated by your GPU.
+- [threepp](https://github.com/markaren/threepp) - C++17 port of three.js.
