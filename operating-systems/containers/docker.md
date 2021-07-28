@@ -125,3 +125,4 @@
 - [Pumba](https://github.com/alexei-led/pumba) - Chaos testing command line tool for Docker containers.
 - [kool](https://github.com/kool-dev/kool) - Makes using Docker for local development easier, simpler, faster, and better. ([Web](https://kool.dev/))
 - [Ask HN: As a solo founder, what are the reasons not to use Docker? (2021)](https://news.ycombinator.com/item?id=27872642)
+- [Use the same Dockerfile for both local development and production with multi-stage builds (2021)](https://blog.atulr.com/docker-local-production-image/)
