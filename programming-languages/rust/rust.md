@@ -518,3 +518,4 @@
 - [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
 - [Understanding Rust futures by going way too deep (2021)](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep) ([HN](https://news.ycombinator.com/item?id=27956313))
 - [Awesome Unstable Rust Features (2021)](https://lazy.codes/posts/awesome-unstable-rust-features/) ([Reddit](https://www.reddit.com/r/rust/comments/oshtd1/awesome_unstable_rust_features/))
+- [Async/Await - The challenges besides syntax - Cancellation (2019)](https://gist.github.com/Matthias247/ffc0f189742abf6aa41a226fe07398a8) ([Lobsters](https://lobste.rs/s/v7ipr7/async_await_challenges_besides_syntax))
