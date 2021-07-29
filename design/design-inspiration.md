@@ -295,6 +295,7 @@ Here are few more things I liked, design wise.
 - [Monica Powell](https://www.aboutmonica.com/)
 - [Samurai](https://simurai.com/)
 - [Tiger Oakes](https://tigeroakes.com/)
+- [Vic Shostak](https://shostak.dev/)
 - [Sage Abdullah](https://laymonage.com/)
 - [Mateus Bianco](https://dlbn.co/) ([Code](https://github.com/dlbnco/dlbn.co))
 - [Simon Wicki](https://wicki.io/)

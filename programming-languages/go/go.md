@@ -515,3 +515,5 @@ Go promotes composition over inheritance.
 - [Goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [gohere](https://github.com/starius/gohere) - Install Go into a local directory.
 - [Map[string]interface{} in Go: a user's manual](https://bitfieldconsulting.com/golang/map-string-interface) ([HN](https://news.ycombinator.com/item?id=27948162))
+- [How to Go Series](https://dev.to/koddr/series/4444)
+- [Create Go App CLI](https://github.com/create-go-app/cli) - Create a new production-ready project with backend, frontend and deploy automation by running one CLI command. ([Wiki](https://github.com/create-go-app/cli/wiki)) ([Fiber Backend template](https://github.com/create-go-app/fiber-go-template))

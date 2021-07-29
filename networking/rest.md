@@ -22,3 +22,4 @@
 - [Should we rebrand REST? (2021)](https://kieranpotts.com/rebranding-rest/) ([Lobsters](https://lobste.rs/s/j7qi7v/should_we_rebrand_rest))
 - [Practical REST](https://www.crudful.com/guides/what-is-rest)
 - [What is REST](https://restfulapi.net/)
+- [Tutorial: Build a RESTful API on Go](https://github.com/koddr/tutorial-go-fiber-rest-api) - Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers.

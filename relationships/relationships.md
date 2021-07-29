@@ -54,6 +54,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Healthy dating I believe is dating your equal, a relationship of two independent people that form a synergy greater than the sum of its parts. A one-way transfer of resources, emotional or intellectual, isn’t that.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/)
 - [Getting a playlist from a friend is one of the best gifts ever.](https://twitter.com/maccaw/status/1413595449991258113)
 - [Deciding when to meet people where they are, and when to leave them where they are is a life skill that I feel defines healthy adulthood.](https://twitter.com/ashleysimpo/status/1419697180462534663)
+- [I think people in general, not just men, can become more closed off in time. Life is hard and we have all been through break ups and heartache and the worst of dating. We have all had our attempts at romance rejected and criticized. I think we really have to communicate about these things, and work on them with our partners.](https://www.reddit.com/r/datingoverthirty/comments/otnz6f/do_men_30_not_text_or_call_to_just_say_hi_or_hear/)
 
 ## Links
 

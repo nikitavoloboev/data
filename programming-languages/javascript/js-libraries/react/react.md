@@ -9,6 +9,7 @@
 ## Templates
 
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) - Simple, scalable, and powerful architecture for building production ready React applications.
+- [Reactless.ts](https://github.com/koddr/reactless-ts) - Preact/TypeScript/TailwindCSS/HeadlessUI/Vite.
 
 ## Notes
 
