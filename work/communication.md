@@ -38,6 +38,7 @@
 - [At the end of every meeting, create a feedback google doc. Use this template: [name] Like: Wish That:](https://twitter.com/justinkan/status/1137352242497908742)
 - [Be willing to speak up and take a stand.](https://twitter.com/SignatureTracyS/status/1405631228607295491)
 - [Put the most important thing out first in announcements, then justify why customers should be still happy.](https://news.ycombinator.com/item?id=27822035)
+- [Underrated superpower in life: asking for things you want](https://twitter.com/PaulYacoubian/status/1420433101331783682)
 
 ## Links
 

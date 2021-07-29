@@ -25,3 +25,4 @@
 - [What Does a Nuclear Bomb Explosion Feel Like?](https://video.vice.com/en_uk/video/motherboard-atomic-soldiers/5b7ed514be40777a7f330631)
 - [What Is a Nuclear Microreactor? (2021)](https://www.energy.gov/ne/articles/what-nuclear-microreactor) ([HN](https://news.ycombinator.com/item?id=27133196))
 - ["Advanced" Isn't Always Better (2021)](https://www.ucsusa.org/resources/advanced-isnt-always-better)
+- [Transmutex](https://www.transmutex.com/) - From Nuclear Waste to Clean Energy. ([Article](https://www.usv.com/writing/2021/07/transmutex/))

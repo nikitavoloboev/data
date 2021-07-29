@@ -340,3 +340,4 @@
 - [The Large, Small, and Dynamic Viewports (2021)](https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/)
 - [My First CSS (2021)](https://engineering.kablamo.com.au/posts/2021/my-first-css) - What I Wish I Knew About CSS When Starting Out As A Frontender. ([HN](https://news.ycombinator.com/item?id=27955576))
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting/)
+- [CSS areas people struggle with the most (2021)](https://twitter.com/EmmaBostian/status/1420771337715568645)

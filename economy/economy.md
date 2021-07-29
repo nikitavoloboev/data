@@ -95,3 +95,4 @@
 - [Incentives in economics are wrong, but how? (2021)](https://wyclif.substack.com/p/incentives-in-economics-are-wrong) ([HN](https://news.ycombinator.com/item?id=27472840))
 - [A New Macroeconomics? (2021)](http://jwmason.org/slackwire/a-new-macroeconomics/) ([HN](https://news.ycombinator.com/item?id=27749087))
 - [Debt: The First 5,000 Years (2011)](https://www.goodreads.com/book/show/6617037-debt)
+- [Against overuse of the Gini coefficient (2021)](https://vitalik.ca/general/2021/07/29/gini.html) ([Tweet](https://twitter.com/VitalikButerin/status/1420616651150528516))

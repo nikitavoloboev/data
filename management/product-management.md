@@ -77,3 +77,4 @@
 - [Rituals for hypergrowth: An inside look at how YouTube scaled](https://coda.io/@shishir/rituals-for-hypergrowth-an-inside-look-at-how-youtube-scaled)
 - [Planning & estimating large-scale software projects (2021)](https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html) ([Lobsters](https://lobste.rs/s/howzf7/planning_estimating_large_scale))
 - [Prioritizing everything is prioritizing nothing (2021)](https://blog.drgriffin.com.au/posts/2021-07-12-prioritizing-everything-is-prioritizing-nothing.html) ([HN](https://news.ycombinator.com/item?id=27942321))
+- [What’s something that product managers do that annoys or frustrates you?](https://twitter.com/lennysan/status/1420773875705544715)

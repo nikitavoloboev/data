@@ -139,3 +139,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [MicroVM.nix](https://github.com/astro/microvm.nix) - Nix Flake to build NixOS and run it on one of several Type-2 Hypervisors.
 - [Paranoid NixOS Setup (2021)](https://christine.website/blog/paranoid-nixos-2021-07-18) ([Lobsters](https://lobste.rs/s/dn4jss/paranoid_nixos_setup))
 - [NixOS Ocean Sprint](https://oceansprint.org/)
+- [NixOS on the Framework (2021)](https://grahamc.com/blog/nixos-on-framework)
