@@ -46,3 +46,4 @@
 - [NanoLog](https://github.com/PlatformLab/NanoLog) - Extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 - [pq](https://github.com/iximiuz/pq) - Parse and Query log files as time series.
 - [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice log files on the command line.
+- [Ostracon](https://github.com/nathanieltornow/ostracon) - Distributed “persistence-first” shared log.

@@ -303,3 +303,4 @@
 - [Combining folds using semigroups (2021)](https://luctielen.com/posts/combining_folds_using_semigroups/)
 - [Bridging a typed and an untyped world (2021)](https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world)
 - [Composable Data Validation with Haskell (2021)](https://www.foxhound.systems/blog/composable-data-validation/)
+- [Extensible Effects in the van Laarhoven Free Monad (2016)](https://aaronlevin.ca/post/136494428283/extensible-effect-stacks-in-the-van-laarhoven-free) ([HN](https://news.ycombinator.com/item?id=27981020))
