@@ -32,7 +32,7 @@
 - [klox](https://github.com/dkopko/klox) - Proof-of-concept demonstration of O(1) garbage collection. ([HN](https://news.ycombinator.com/item?id=25161666)) ([Lobsters](https://lobste.rs/s/z96jmk/experimental_o_1_garbage_collector))
 - [herdtools7](https://github.com/herd/herdtools7) - Tool suite to test weak memory models.
 - [Sound Garbage Collection for C using Pointer Provenance (2020)](https://2020.splashcon.org/details/splash-2020-oopsla/52/Sound-Garbage-Collection-for-C-using-Pointer-Provenance)
-- [Memory Management in Lobster](http://aardappel.github.io/lobster/memory_management.html)
+- [Memory Management in Lobster](https://aardappel.github.io/lobster/memory_management.html)
 - [Generational references faster than reference counting (2021)](https://vale.dev/blog/generational-references) ([Lobsters](https://lobste.rs/s/sglvcc/generational_references_2_3x_faster_than))
 - [When allocators are hoarding your precious memory (2021)](https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/)
 - [Writing a Simple Garbage Collector in C (2020)](https://maplant.com/gc.html) ([Lobsters](https://lobste.rs/s/dd8k4k/writing_simple_garbage_collector_c_2020))

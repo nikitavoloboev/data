@@ -150,3 +150,4 @@
 - [Product Hunt Architecture (2021)](https://blog.rstankov.com/product-hunt-architecture/)
 - [Immutable Infrastructure: Reliability, consistency and confidence through immutability (2020)](https://medium.com/the-cloud-architect/immutable-infrastructure-21f6613e7a23)
 - [Awesome Software Architecture Books](https://github.com/mhadidg/software-architecture-books) ([HN](https://news.ycombinator.com/item?id=27683966))
+- [The Baked Data architectural pattern (2021)](https://simonwillison.net/2021/Jul/28/baked-data/) ([HN](https://news.ycombinator.com/item?id=27994393)) ([Lobsters](https://lobste.rs/s/lgvhbg/baked_data_architectural_pattern))

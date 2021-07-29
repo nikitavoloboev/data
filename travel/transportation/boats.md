@@ -14,3 +14,4 @@
 - [Marine How To](https://marinehowto.com/) - DIY for Boaters.
 - [SuperYacht Times](https://www.superyachttimes.com/) - Yachting News.
 - [Naval Architecture (2021)](https://ciechanow.ski/naval-architecture/) ([HN](https://news.ycombinator.com/item?id=27973295))
+- [SuperYachtFan](https://www.superyachtfan.com/) - Luxury Yacht Owners.

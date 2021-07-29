@@ -62,5 +62,5 @@
 - [nullfsvfs](https://github.com/abbbi/nullfsvfs) - Virtual black hole file system that behaves like /dev/null.
 - [ffs](https://github.com/mgree/ffs) - File filesystem: mount semi-structured data (like JSON) as a Unix filesystem. ([Web](https://mgree.github.io/ffs/)) ([Tweet](https://twitter.com/mgrnbrg/status/1409871452099198982))
 - [fbox](https://github.com/prologic/fbox) - Easy to use and maintain distributed filesystem written in Go.
-- [Zip – How not to design a file format (2021)](https://games.greggman.com/game/zip-rant/) ([HN](https://news.ycombinator.com/item?id=27925393))
+- [Zip – How not to design a file format (2021)](https://games.greggman.com/game/zip-rant/) ([HN](https://news.ycombinator.com/item?id=27925393)) ([Lobsters](https://lobste.rs/s/agrmsw/zip_how_not_design_file_format))
 - [Facebook's Tectonic Filesystem: Efficiency from Exascale (2021)](https://paulcavallaro.com/blog/facebook-tectonic-filesystem/)
