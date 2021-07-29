@@ -19,3 +19,4 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 - [Against Alcohol (2021)](https://fergus-mccullough.com/index.php/2021/04/09/against-alcohol/) ([HN](https://news.ycombinator.com/item?id=26763508))
 - [901 Cocktails](https://901.benstanfield.io/) - Search hundreds of 5 star cocktails.
 - [Clink Clink Drink](https://clinkclinkdrink.com/)
+- [Ask a bartender a question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html) ([HN](https://news.ycombinator.com/item?id=27979864))

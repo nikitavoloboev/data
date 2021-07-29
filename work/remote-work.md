@@ -116,3 +116,4 @@
 - [Ask HN: What hardware/furniture/hack greatly improved your WFH setup? (2021)](https://news.ycombinator.com/item?id=27445877)
 - [The work-from-home future is destroying bosses' brains (2021)](https://ez.substack.com/p/the-work-from-home-future-is-destroying) ([HN](https://news.ycombinator.com/item?id=27461970))
 - [The future of the office is the clubhouse (2021)](https://app.mailbrew.com/s/newsletter/W1uyntRDIwk1)
+- [I went to the office for the first time. I hated it (2021)](https://www.reddit.com/r/cscareerquestions/comments/oosru6/i_went_to_the_office_for_the_first_time_i_fucking/) ([HN](https://news.ycombinator.com/item?id=27979964))

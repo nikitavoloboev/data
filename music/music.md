@@ -138,3 +138,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Joybox](https://joybox.rosano.ca/) - Pinboard for audiovisual media.
 - [Genius](https://genius.com/) - Song Lyrics & Knowledge.
 - [A simple guide to disrupting the music industry (2021)](https://www.musicxtechxfuture.com/2021/07/27/a-simple-guide-to-disrupting-the-music-industry/)
+- [Vocal Remover and Isolation](https://vocalremover.org/) - Separate voice from music out of a song free with powerful AI algorithms.
