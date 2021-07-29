@@ -144,6 +144,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Mumu X](https://getmumu.com/) - Handy emoji picker on macOS, using GPT-3.
 - [Narrated](https://www.buildandshipapps.com/) - Screen Recordings That Include Your Camera.
 - [Monodraw](https://monodraw.helftone.com/) - Powerful ASCII art editor designed for the Mac.
+- [TextSniper](https://textsniper.app/) - Capture and extract any text from your Mac's screen.
 
 ## Links
 

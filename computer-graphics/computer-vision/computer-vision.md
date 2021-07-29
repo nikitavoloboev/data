@@ -341,3 +341,4 @@
 - [CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation (2021)](https://arxiv.org/abs/2012.02047) ([Code](https://github.com/microsoft/CoCosNet-v2))
 - [HPNet: Deep Primitive Segmentation Using Hybrid Representations (2021)](https://arxiv.org/abs/2105.10620) ([Code](https://github.com/SimingYan/HPNet))
 - [Portal](https://github.com/datature/portal) - Fastest way to load and visualize your deep neural networks on images and videos.
+- [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)

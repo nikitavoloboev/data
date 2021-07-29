@@ -50,3 +50,4 @@
 - [ghz](https://github.com/bojand/ghz) - gRPC benchmarking and load testing tool. ([Web](https://ghz.sh/))
 - [gRPC vs REST: comparing APIs architectural styles (2021)](https://www.imaginarycloud.com/blog/grpc-vs-rest/)
 - [Lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go.
+- [PowerProto](https://github.com/storyicon/powerproto) - Awesome version control tool for protoc and its related plugins.

@@ -151,6 +151,7 @@
 - [Greenplum Database](https://github.com/greenplum-db/gpdb) - Advanced, fully featured, open source data warehouse, based on PostgreSQL. ([Web](https://greenplum.org/))
 - [JinDB](https://github.com/shoyo/jindb) - Small relational database engine written in Rust with the standard library and no external dependencies.
 - [Memgraph](https://memgraph.com/) - In-Memory Cypher Graph Database.
+- [LemonGraph](https://github.com/NationalSecurityAgency/lemongraph) - Log-based transactional graph (nodes/edges/properties) database engine that is backed by a single file.
 
 ## Tools
 
