@@ -146,6 +146,7 @@ And these Discord servers:
 - [But What For?](https://www.butwhatfor.com/)
 - [World Affairs](https://worldaffairs.blog/) - Objective, Nonpartisan and Insightful.
 - [Scientific American](https://www.scientificamerican.com/) - Science News, Expert Analysis, Health Research.
+- [Real Life](https://reallifemag.com/)
 
 ### Other
 

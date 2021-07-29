@@ -97,3 +97,4 @@ Learning to build [startups](startups/startups.md).
 - [Company of One: Why Staying Small Is the Next Big Thing for Business](https://www.indiebound.org/book/9780358213253)
 - [Ask HN: Anyone here built successful SaaS/startup just for money? (2021)](https://news.ycombinator.com/item?id=27853352)
 - [Google engineer who criticized company in viral comics on why he finally quit (2021)](https://mashable.com/article/google-engineer-manu-cornet-comics-critique) ([HN](https://news.ycombinator.com/item?id=27841963))
+- [Building Paid Communities, Brainstorming Membership Site Ideas, Quitting Your Job (2021)](https://open.spotify.com/episode/6da18PQNxzswKkS98y2Qqk?si=zC372HhSQoaCNe0YCf_KJw)

@@ -307,3 +307,4 @@
 - [Just JavaScript](https://justjavascript.com/) - Discover and rebuild your JavaScript mental models.
 - [Iterator Helpers](https://github.com/tc39/proposal-iterator-helpers) - Methods for working with iterators in ECMAScript. ([Web](https://tc39.es/proposal-iterator-helpers/))
 - [Loupe](http://latentflip.com/loupe/) - Visualization to help you understand how JavaScript's call stack/event loop/callback queue interact with each other. ([Code](https://github.com/latentflip/loupe))
+- [JavaScript on Compute@Edge](https://developer.fastly.com/learning/compute/javascript/) - Compile JavaScript to WebAssembly and run it on Fastly.

@@ -49,3 +49,4 @@
 - [Catsuka](https://www.catsuka.com/) - Website about animation.
 - [The Math behind Animations - Beautiful Trigonometry (2021)](https://www.youtube.com/watch?v=-lF7sSTelOg)
 - [Improvements to the Web Animations API DX](https://motion.dev/guides/waapi-improvements)
+- [Animation Is Eating The World (2019)](http://www.michaeldempsey.me/animation/) ([Tweet](https://twitter.com/mhdempsey/status/1151533880412909570))
