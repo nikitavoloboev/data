@@ -308,3 +308,4 @@
 - [How the Python import system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/) ([HN](https://news.ycombinator.com/item?id=27941208))
 - [Epic Python](https://epicpython.com/) - Fun exercise heavy approach to learning modern Python from scratch.
 - [SciPy 2021 Tutorials](https://www.youtube.com/playlist?list=PLYx7XA2nY5Geb1XY6mZU-35lgIfkDqaem)
+- [Replit.web: Python Framework With Built-in Database and Auth Support (2021)](https://blog.replit.com/replit-web) ([Tweet](https://twitter.com/amasad/status/1420479217805021184))

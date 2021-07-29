@@ -87,3 +87,4 @@
 - [The Ethics of AI (2021)](https://www.vimarsh.info/blog/ethics-of-ai/)
 - [Allen Institute for AI](https://allenai.org/) ([GitHub](https://github.com/allenai))
 - [Scaling Hypothesis - The path to Artificial General Intelligence? (2021)](https://johanneshage.substack.com/p/scaling-hypothesis-the-path-to-artificial)
+- [Fast and flexible: Human program induction in abstract reasoning tasks (2021)](https://arxiv.org/abs/2103.05823) ([Tweet](https://twitter.com/todd_gureckis/status/1420768433277386760))

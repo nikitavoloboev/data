@@ -221,3 +221,4 @@
 - [Krabs](https://github.com/micheleriva/krabs) - Enterprise-ready Express.js middleware for serving thousands of different websites from a single Next.js instance. ([Web](https://micheleriva.github.io/krabs/))
 - [Real-World Next.js Book (2021)](https://www.packtpub.com/product/real-world-next-js/9781801073493)
 - [Authentication Patterns for Next.js (2020)](https://www.youtube.com/watch?v=NSR_Y_rm_zU)
+- [next-intl](https://github.com/amannn/next-intl) - Minimal, but complete solution for managing translations, date, time and number formatting in Next.js apps. ([Article](https://www.thisdot.co/blog/next-js-adding-localization-with-next-intl))
