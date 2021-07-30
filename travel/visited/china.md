@@ -38,3 +38,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [AI Superpowers: China, Silicon Valley, and the New World Order by Kai-Fu Lee](https://www.goodreads.com/book/show/38242135-ai-superpowers)
 - [At this point, will we ever be be able to trust Chinese stocks? (2021)](https://www.reddit.com/r/stocks/comments/oqbe3d/at_this_point_will_we_ever_be_be_able_to_trust/)
 - [Why is China smashing its tech industry? (2021)](https://noahpinion.substack.com/p/why-is-china-smashing-its-tech-industry) ([HN](https://news.ycombinator.com/item?id=27949019))
+- [Asianometry - YouTube](https://www.youtube.com/c/Asianometry/featured) - Video essays about Asia.
