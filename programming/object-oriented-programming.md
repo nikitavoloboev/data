@@ -34,3 +34,4 @@
 - [The repeated deaths of OOP (2015)](https://loup-vaillant.fr/articles/deaths-of-oop) ([Lobsters](https://lobste.rs/s/9emqww/repeated_deaths_oop))
 - [Data-oriented design or why you might shoot yourself in the foot with OOP (2009)](https://gamesfromwithin.com/data-oriented-design) ([HN](https://news.ycombinator.com/item?id=27658706))
 - [Classes vs. Prototypes: Some Philosophical and Historical Observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.4713&rep=rep1&type=pdf)
+- [Examples of good OOP code (2021)](https://lobste.rs/s/bcrtrj/please_send_me_examples_good_oop_code)
