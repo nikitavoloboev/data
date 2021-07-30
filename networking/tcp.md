@@ -40,3 +40,4 @@
 - [A TCP Proxy in 30 lines of Rust](https://zmedley.com/tcp-proxy.html) ([Code](https://github.com/ZekeMedley/tcp-proxy))
 - [rproxy](https://github.com/glacierx/rproxy) - Blazing fast cross-platform transparent TCP&UDP proxy.
 - [Increase HTTP Performance by Fitting In the Initial TCP Slow Start Window (2021)](https://sirupsen.com/napkin/problem-15/)
+- [Transcript2Video](http://www.xiongyu.me/projects/transcript2video/) - Efficient Clip Sequencing from Texts.

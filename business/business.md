@@ -98,3 +98,4 @@ Learning to build [startups](startups/startups.md).
 - [Ask HN: Anyone here built successful SaaS/startup just for money? (2021)](https://news.ycombinator.com/item?id=27853352)
 - [Google engineer who criticized company in viral comics on why he finally quit (2021)](https://mashable.com/article/google-engineer-manu-cornet-comics-critique) ([HN](https://news.ycombinator.com/item?id=27841963))
 - [Building Paid Communities, Brainstorming Membership Site Ideas, Quitting Your Job (2021)](https://open.spotify.com/episode/6da18PQNxzswKkS98y2Qqk?si=zC372HhSQoaCNe0YCf_KJw)
+- [Ask HN: How do you know when to sell your business? (2021)](https://news.ycombinator.com/item?id=27979749)
