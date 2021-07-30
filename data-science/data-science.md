@@ -185,3 +185,4 @@
 - [Awesome data annotation](https://github.com/taivop/awesome-data-annotation)
 - [Data Movement in Netflix Studio via Data Mesh (2021)](https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059)
 - [Small Summaries for Big Data (2020)](http://dimacs.rutgers.edu/~graham/ssbd.html)
+- [What even is data mesh (2021)](https://cnr.sh/essays/what-the-heck-data-mesh)
