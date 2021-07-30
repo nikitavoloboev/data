@@ -522,3 +522,4 @@
 - [Rust on GraalVM using bitcode (2020)](https://michaelbh.com/blog/graalvm-and-rust-1/)
 - [First steps with Rust declarative macros (2021)](https://dev.to/rogertorres/first-steps-with-rust-declarative-macros-1f8m)
 - [Mutable statics have scary superpowers! Do not use them (2021)](https://blog.kodewerx.org/2021/07/mutable-statics-have-scary-superpowers.html)
+- [How to Deal with Out-of-memory Conditions in Rust (2021)](https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/)

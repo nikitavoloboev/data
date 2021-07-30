@@ -136,3 +136,4 @@
 - [Security headers quick reference (2021)](https://web.dev/security-headers/)
 - [Encoding data for POST requests (2021)](https://jakearchibald.com/2021/encoding-data-for-post-requests/) ([HN](https://news.ycombinator.com/item?id=27697884))
 - [Rate-limiting strategies and techniques](https://cloud.google.com/architecture/rate-limiting-strategies-techniques)
+- [HTTP Security Headers (2021)](https://kerkour.com/blog/http-security-headers/)
