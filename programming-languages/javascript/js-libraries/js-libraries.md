@@ -558,6 +558,7 @@
 - [FZF for JavaScript](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript. ([Web](https://fzf.netlify.app/))
 - [ganja.js](https://github.com/enkimute/ganja.js) - Geometric Algebra for JavaScript.
 - [TextKit](https://github.com/pouyakary/TextKit) - Framework for creating Textual Graphics.
+- [spacers](https://github.com/actuallyakash/spacers) - JS library that supports multiple spacers for controlling padding/margin, linking functionality & much more.
 
 ## Links
 

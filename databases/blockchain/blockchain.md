@@ -179,3 +179,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Explaining blockchains to developers (2021)](https://erickhun.com/posts/explaining-blockchains-to-developers/)
 - [Crypto.org Chain](https://crypto.org/) - Blockchain application built using Cosmos SDK and Tendermint. ([Code](https://github.com/crypto-org-chain/chain-main))
 - [The Billion User Table (2021)](https://1729.com/the-billion-user-table) ([Tweet](https://twitter.com/balajis/status/1418874383192367105))
+- [Bridging the Blockchain / Database Divide (2021)](https://www.juxt.pro/blog/bridging-the-blockchain)

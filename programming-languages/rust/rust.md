@@ -520,3 +520,5 @@
 - [Awesome Unstable Rust Features (2021)](https://lazy.codes/posts/awesome-unstable-rust-features/) ([Reddit](https://www.reddit.com/r/rust/comments/oshtd1/awesome_unstable_rust_features/))
 - [Async/Await - The challenges besides syntax - Cancellation (2019)](https://gist.github.com/Matthias247/ffc0f189742abf6aa41a226fe07398a8) ([Lobsters](https://lobste.rs/s/v7ipr7/async_await_challenges_besides_syntax))
 - [Rust on GraalVM using bitcode (2020)](https://michaelbh.com/blog/graalvm-and-rust-1/)
+- [First steps with Rust declarative macros (2021)](https://dev.to/rogertorres/first-steps-with-rust-declarative-macros-1f8m)
+- [Mutable statics have scary superpowers! Do not use them (2021)](https://blog.kodewerx.org/2021/07/mutable-statics-have-scary-superpowers.html)

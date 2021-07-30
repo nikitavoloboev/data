@@ -166,3 +166,4 @@
 - [Macros on Steroids, Or: How Can Pure C Benefit From Metaprogramming (2021)](https://hirrolot.github.io/posts/macros-on-steroids-or-how-can-pure-c-benefit-from-metaprogramming.html)
 - [CGuard: Efficient Spatial Safety for C (2021)](https://arxiv.org/pdf/2107.10533.pdf)
 - [IOCCC](http://www.ioccc.org/) - The International Obfuscated C Code Contest. ([Winners](http://www.ioccc.org/winners.html))
+- [Performance vs Programming Effort between Rust and C on Multicore Architectures: Case Study in N-Body (2021)](https://arxiv.org/abs/2107.11912)

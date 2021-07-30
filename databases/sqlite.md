@@ -95,3 +95,4 @@
 - [Detecting cycles in tag parent-child relationship in sqlite3](https://sic.nessuent.xyz/s/18/detecting-cycles-in-tag-parent-child-relationship-in-sqlite3/)
 - [Tricks for making SQLite fast (2021)](https://news.ycombinator.com/item?id=27946821)
 - [dogsheep-beta](https://github.com/dogsheep/dogsheep-beta) - Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette.
+- [absurd-sql.js-backend](https://github.com/jlongster/absurd-sql.js-backend) - sqlite3 in ur indexeddb.
