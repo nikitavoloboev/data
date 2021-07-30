@@ -39,3 +39,4 @@
 - [tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) - TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
 - [A TCP Proxy in 30 lines of Rust](https://zmedley.com/tcp-proxy.html) ([Code](https://github.com/ZekeMedley/tcp-proxy))
 - [rproxy](https://github.com/glacierx/rproxy) - Blazing fast cross-platform transparent TCP&UDP proxy.
+- [Increase HTTP Performance by Fitting In the Initial TCP Slow Start Window (2021)](https://sirupsen.com/napkin/problem-15/)

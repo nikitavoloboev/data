@@ -105,3 +105,4 @@
 - [A natively flexible 32-bit Arm microprocessor (2021)](https://www.nature.com/articles/s41586-021-03625-w) ([HN](https://news.ycombinator.com/item?id=27910621))
 - [PlasticArm: Get Your Next CPU, Made Without Silicon (2021)](https://www.anandtech.com/show/16837/plasticarm-get-your-next-cpu-without-silicon) ([Lobsters](https://lobste.rs/s/ljgsb5/plasticarm_get_your_next_cpu_made_without))
 - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html) ([HN](https://news.ycombinator.com/item?id=27929600)) ([Tweet](https://twitter.com/trascendentale/status/1418505269924016128))
+- [Hunting a bug in the i40e Intel driver (2021)](https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/)

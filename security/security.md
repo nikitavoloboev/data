@@ -171,3 +171,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Mobile Verification Toolkit (MVT)](https://github.com/mvt-project/mvt) - Forensic tool to look for signs of infection in smartphone devices. ([HN](https://news.ycombinator.com/item?id=27876165))
 - [Abertay Hacksoc Wiki](https://wiki.hacksoc.co.uk/) ([Code](https://github.com/AbertayHackers/gitbook-wiki))
 - [The Insecurity Industry (2021)](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal) - The greatest danger to national security has become the companies that claim to protect it. ([HN](https://news.ycombinator.com/item?id=27965746))
+- [Canonicalization Attacks Against MACs and Signatures (2021)](https://soatok.blog/2021/07/30/canonicalization-attacks-against-macs-and-signatures/) ([Lobsters](https://lobste.rs/s/felalp/canonicalization_attacks_against_macs))

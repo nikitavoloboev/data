@@ -107,7 +107,7 @@
 - [Vinum](https://github.com/dmitrykoval/vinum) - SQL query processor for Python, designed for data analysis workflows and in-memory analytics.
 - [aiosqlite](https://github.com/omnilib/aiosqlite) - Friendly, async interface to sqlite databases.
 - [ORM](https://github.com/encode/orm) - Async ORM for Python, with support for Postgres, MySQL, and SQLite.
-- [ConnectorX](https://github.com/sfu-db/connector-x) - Enables you to load data from databases into Python in the fastest and most memory efficient way.
+- [ConnectorX](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python. ([Lobsters](https://lobste.rs/s/uwfozb/connectorx_accelerate_data_loading_from))
 
 ## GUI
 
