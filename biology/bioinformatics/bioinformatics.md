@@ -139,3 +139,4 @@
 - [The AlphaFold2 Method Paper: A Fount of Good Ideas (2021)](https://moalquraishi.wordpress.com/2021/07/25/the-alphafold2-method-paper-a-fount-of-good-ideas/) ([Tweet](https://twitter.com/MoAlQuraishi/status/1419355930844618753))
 - [AlphaFold Colab](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
 - [More Protein Folding Progress – What’s It Mean? (2021)](https://blogs.sciencemag.org/pipeline/archives/2021/07/23/more-protein-folding-progress-whats-it-mean) ([HN](https://news.ycombinator.com/item?id=27962246))
+- [smof](https://github.com/incertae-sedis/smof) - UNIX-style FASTA tools.

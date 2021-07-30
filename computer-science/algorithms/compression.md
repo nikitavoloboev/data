@@ -54,3 +54,5 @@
 - [ezip2dmg](https://github.com/getsentry/ezip2dmg) - Simple wrapper utility to decompress an encrypted ZIP into a newly mounted encrypted DMG.
 - [Text Classification by Data Compression (2021)](https://maxhalford.github.io/blog/text-classification-by-compression/) ([HN](https://news.ycombinator.com/item?id=27440093))
 - [JPEG compression algorithm explained](https://photo.stackexchange.com/questions/125283/two-exactly-the-same-jpg-images-with-one-image-more-than-twice-the-file-size-of)
+- [NeuralCompression](https://github.com/facebookresearch/NeuralCompression) - Python repository dedicated to research of neural networks that compress data.
+- [Compressing Multisets with Large Alphabets (2021)](https://arxiv.org/abs/2107.09202) ([Code](https://github.com/facebookresearch/multiset-compression))
