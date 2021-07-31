@@ -21,3 +21,4 @@
 - [macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard. ([HN](https://news.ycombinator.com/item?id=27242392))
 - [Solving direct text extraction from PDFs (2021)](https://www.sensible.so/blog/solving-direct-text-extraction-from-pdfs)
 - [MMOCR](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox.
+- [In-Browser OCR](https://ian-nai.github.io/In-Browser-OCR/) ([HN](https://news.ycombinator.com/item?id=28015442))

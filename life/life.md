@@ -59,3 +59,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Ask HN: Words of encouragement for someone lost in life? (2021)](https://news.ycombinator.com/item?id=27637759)
 - [Emergence@ASU](http://emergence.asu.edu/) - Research origins of life.
 - [Sara Walker: The Origin of Life on Earth and Alien Worlds (2021)](https://overcast.fm/+eZyA9HPhU)
+- [Single-celled organism has evolved a natural mechanical computer (2021)](https://www.newscientist.com/article/2285141-single-celled-organism-has-evolved-a-natural-mechanical-computer/) ([HN](https://news.ycombinator.com/item?id=28006599))

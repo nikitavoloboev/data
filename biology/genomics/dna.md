@@ -52,3 +52,5 @@
 - [DNA Features Viewer](https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer) - Python library to visualize DNA features, e.g. from GenBank or Gff files, or Biopython SeqRecords.
 - [FabricNano](https://www.fabricnano.com/) - DNA Nanotechnology. Revolutionary new cell-free approach to producing chemicals.
 - [Rosalind Franklin - Wikipedia](https://en.wikipedia.org/wiki/Rosalind_Franklin) ([Tweet](https://twitter.com/royalsociety/status/1419221639363969028))
+- [Biology brief: How DNA and proteins work (2021)](https://www.economist.com/schools-brief/2021/07/31/biology-brief-how-dna-and-proteins-work)
+- [Mirror image DNA polymerase has been engineered (2021)](https://mobile.twitter.com/NatureBiotech/status/1420795633955389444) ([HN](https://news.ycombinator.com/item?id=28009398))

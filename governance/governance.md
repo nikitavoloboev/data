@@ -60,3 +60,4 @@
 - [Network State with Balaji Srinivasan (2021)](https://ideas.beondeck.com/episodes/3-network-state-with-balaji-srinivasan?t=76m43s)
 - [Types of propaganda, propaganda techniques, and propaganda strategies (2017)](http://factmyth.com/types-of-propaganda-propaganda-techniques-and-propaganda-stratigies/) ([HN](https://news.ycombinator.com/item?id=27595043))
 - [The State of Democracy](https://state-of-democracy.vercel.app/) - Explore the State of Democracy, around the world. ([Code](https://github.com/sampoder/democracy))
+- [Ask HN: My country may be in the midst of a coup – how should I get prepared? (2021)](https://news.ycombinator.com/item?id=28008571)

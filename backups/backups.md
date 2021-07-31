@@ -56,3 +56,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Encrypted Backup Shootout (2021)](https://acha.ninja/blog/encrypted_backup_shootout/) ([HN](https://news.ycombinator.com/item?id=25618346))
 - [Back up your MacOS (2021)](https://dzx.cz/2021/05/23/back_up_your_macos/)
 - [Personal data backup plan (2020)](https://jacobbednarz.com/personal-data-backup-plan)
+- [How I store my files (2021)](https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html) ([HN](https://news.ycombinator.com/item?id=28003119))

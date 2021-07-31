@@ -65,7 +65,7 @@
 - [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) - Unique collection of Copy & Paste TailwindCSS buttons.
 - [Tailwind CSS for Rails](https://github.com/rails/tailwindcss-rails) - Makes it easy to use this CSS framework with the asset pipeline.
 - [tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) - Plugin that provides a basic reset for form styles that makes form elements easy to override with utilities. ([Web](https://tailwindcss-forms.vercel.app/))
-- [DaisyUI](https://daisyui.netlify.app/) - UI Components for Tailwind CSS. Themeable, Scalable and Designer-Friendly. ([Code](https://github.com/saadeghi/daisyui))
+- [DaisyUI](https://daisyui.com/) - Tailwind CSS Components. ([Code](https://github.com/saadeghi/daisyui)) ([HN](https://news.ycombinator.com/item?id=28004515))
 - [Tailwind Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/) ([Code](https://github.com/javisperez/tailwindcolorshades))
 - [Wicked Blocks](https://blocks.wickedtemplates.com/) - Tailwind Blocks ready to copy-paste. ([HN](https://news.ycombinator.com/item?id=25866949))
 - [Why Tailwind Isn't for Me (2021)](https://dev.to/jaredcwhite/why-tailwind-isn-t-for-me-5c90)

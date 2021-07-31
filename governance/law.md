@@ -32,3 +32,4 @@
 - [GitHub Copilot is not infringing your copyright (2021)](https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/) ([Lobsters](https://lobste.rs/s/bmdesp/github_copilot_is_not_infringing_your)) ([HN](https://news.ycombinator.com/item?id=27736650))
 - [Day in my Life as a Corporate Lawyer (2021)](https://www.youtube.com/watch?v=HjZ9U9DGqW8)
 - [The Diversity of International Law (2009)](https://brill.com/view/title/18005)
+- [Open Terms Archive](https://www.opentermsarchive.org/en) - Follow changes to terms of service. ([HN](https://news.ycombinator.com/item?id=28006249))

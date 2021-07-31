@@ -126,3 +126,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [How I Became a Software Engineer (From Designer to Developer) (2021)](https://leerob.io/blog/career)
 - [It doesn't take much public creativity to stand out as a job candidate (2021)](https://simonwillison.net/2021/Jul/17/standing-out/) ([HN](https://news.ycombinator.com/item?id=27907151))
 - [artickl](https://artickl.com/) - Lets you write tailored resumes with no effort.
+- [Some career advice (2019)](https://lethain.com/career-advice/) ([HN](https://news.ycombinator.com/item?id=27990262))

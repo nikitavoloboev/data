@@ -161,4 +161,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [node-mac-permissions](https://github.com/codebytere/node-mac-permissions) - Native node module to manage system permissions on macOS.
 - [Swift Programming for macOS](https://gavinw.me/swift-macos/) ([Code](https://github.com/wigging/swift-macos))
 - [Organize and Index Your Screenshots (OCR) on macOS (2021)](https://alexn.org/blog/2020/11/11/organize-index-screenshots-ocr-macos.html)
-- [The journey to controlling external monitors on M1 Macs (2021)](https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/)
+- [The journey to controlling external monitors on M1 Macs (2021)](https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/) ([HN](https://news.ycombinator.com/item?id=28011861))

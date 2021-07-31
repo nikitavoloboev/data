@@ -169,3 +169,4 @@
 - [Software and Hardware Techniques for Efficient Polymorphic Calls (1999)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.177&rep=rep1&type=pdf)
 - [The Octagon Abstract Domain (2007)](https://arxiv.org/pdf/cs/0703084.pdf)
 - [Compilers as Teachers (2021)](https://ferrous-systems.com/blog/compilers-as-teachers/)
+- [Do Developers Read Compiler Error Messages? (2017)](https://static.barik.net/barik/publications/icse2017/PID4655707.pdf) ([HN](https://news.ycombinator.com/item?id=28007593))

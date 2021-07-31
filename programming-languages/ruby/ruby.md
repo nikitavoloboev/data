@@ -5,7 +5,7 @@
 - [Ruby is nice, but what makes great?](https://www.reddit.com/r/ruby/comments/8ysh41/ruby_is_nice_but_what_makes_great/)
 - [Clean code ruby](https://github.com/uohzxela/clean-code-ruby) - Clean Code concepts adapted for Ruby.
 - [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)
-- [Sorbet](https://sorbet.org/) - Fast, powerful type checker designed for Ruby. ([Code](https://github.com/sorbet/sorbet))
+- [Sorbet](https://sorbet.org/) - Fast, powerful type checker designed for Ruby. ([Code](https://github.com/sorbet/sorbet)) ([HN](https://news.ycombinator.com/item?id=28013797))
 - [Referral](https://github.com/testdouble/referral) - Scan for definitions and references in your Ruby code.
 - [Artichoke](https://github.com/artichoke/artichoke) - Ruby made with Rust.
 - [Artichoke Ruby Playground](https://artichoke.run/) ([Code](https://github.com/artichoke/playground))
@@ -77,3 +77,4 @@
 - [Rhizome](https://github.com/chrisseaton/rhizome) - JIT for Ruby, implemented in pure Ruby. ([HN](https://news.ycombinator.com/item?id=27581257))
 - [Exceptional Ruby Book](https://store.avdi.codes/#NWtnk) - Definitive guide to exceptions and failure handling in Ruby.
 - [Fullstaq Ruby](https://fullstaqruby.org/) - Ruby, optimized for production. ([HN](https://news.ycombinator.com/item?id=27865776))
+- [Benchmarking your Ruby with time_up (2021)](https://blog.testdouble.com/posts/2021-07-19-benchmarking-your-ruby-with-time_up/)
