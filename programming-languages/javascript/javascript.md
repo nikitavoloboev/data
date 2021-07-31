@@ -56,7 +56,7 @@
 - [Pack](https://github.com/pikapkg/pack) - Helps you build amazing packages without the hassle.
 - [Learning JavaScript (2016)](https://mafinto.sh/blog/learning-javascript.html)
 - [@pika/web](https://github.com/pikapkg/web) - Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
-- [Sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes.
+- [Sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes. ([Web](https://sucrase.io/))
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [JavaScript Developer's Reading List](https://github.com/twhite96/js-dev-reads) - List of hand-picked books and articles for JavaScript developers.
 - [Promisees](https://github.com/bevacqua/promisees) - Promise visualization playground for the adventurous.

@@ -87,3 +87,4 @@
 - [Beautiful Makie](https://lazarusa.github.io/BeautifulMakie/) - High-performance, extendable, and multi-platform plotting ecosystem for the Julia programming language. ([Code](https://github.com/lazarusA/BeautifulMakie))
 - [Simulating Big Models in Julia with ModelingToolkit (2021)](https://www.youtube.com/watch?v=HEVOgSLBzWA)
 - [What's bad about Julia? (2021)](https://viralinstruction.com/posts/badjulia/) ([HN](https://news.ycombinator.com/item?id=27960865)) ([Lobsters](https://lobste.rs/s/xivnsc/what_s_bad_about_julia))
+- [Non-local compiler transformations in the presence of dynamic dispatch (2020)](https://www.youtube.com/watch?v=mQnSRfseu0c)

@@ -189,3 +189,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Tricycle](https://tricycle.ai/) - Automation Tools for Designers.
 - [Design Vault](https://designvault.io/) - UI patterns & design inspiration from real products.
 - [Hicks](https://hicks.design/) - Graphic design, branding, illustration & iconography.
+- [Better in Black: Rethinking our Most Important Buttons | Spotify Design (2021)](https://spotify.design/article/better-in-black-rethinking-our-most-important-buttons)

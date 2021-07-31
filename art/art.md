@@ -439,3 +439,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [How to get your creative work back on track (2021)](https://every.to/superorganizers/building-a-what-s-next-deck)
 - [Deep Learning Visuals](https://github.com/The-AI-Summer/deep-learning-visuals) - Collection of 100 Deep Learning images and visualizations.
 - [Codex Atlanticus](http://www.codex-atlanticus.it/#/) - Largest Collection of Writings&Drawings by Leonardo da Vinci.
+- [Japan Olympics 2021 Kimono Sets](https://kimono.piow.jp/kimonolist.html)

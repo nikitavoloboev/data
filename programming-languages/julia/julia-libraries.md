@@ -35,6 +35,7 @@
 - [Nonconvex](https://github.com/mohamed82008/Nonconvex.jl) - Toolbox for non-convex constrained optimization.
 - [ReinforcementLearningEnvironments.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearningEnvironments.jl) - One-stop package for different reinforcement learning environments.
 - [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) - Package for accessing common Machine Learning datasets in Julia.
+- [Diffractor](https://github.com/JuliaDiff/Diffractor.jl) - Next-generation, compiler-based AD system for Julia. ([HN](https://news.ycombinator.com/item?id=27946864))
 
 ## Math
 
