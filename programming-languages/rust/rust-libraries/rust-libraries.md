@@ -68,6 +68,7 @@
 - [tame-oauth](https://github.com/EmbarkStudios/tame-oauth) - Small OAuth crate that follows the sans-io approach.
 - [Trillium](https://github.com/trillium-rs/trillium) - Composable toolkit for building web applications with async rust. ([Docs](https://trillium.rs/))
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - Reactive DOM library for Rust in WASM.
+- [Axum](https://tokio.rs/blog/2021-07-announcing-axum) - Ergonomic and modular web framework that takes full advantage of the Tokio, Hyper, and Tower ecosystem.
 
 ## WASM
 

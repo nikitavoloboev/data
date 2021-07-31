@@ -341,3 +341,4 @@
 - [My First CSS (2021)](https://engineering.kablamo.com.au/posts/2021/my-first-css) - What I Wish I Knew About CSS When Starting Out As A Frontender. ([HN](https://news.ycombinator.com/item?id=27955576))
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting/)
 - [CSS areas people struggle with the most (2021)](https://twitter.com/EmmaBostian/status/1420771337715568645)
+- [Favorite “quick wins” with CSS](https://twitter.com/JoshWComeau/status/1421193520300400642)
