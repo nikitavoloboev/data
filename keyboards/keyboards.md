@@ -127,3 +127,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [evremap](https://github.com/wez/evremap) - Keyboard input remapper for Linux/Wayland systems.
 - [Keebhunter](https://keebhunter.com/) - Find your perfect keyboard. ([Code](https://github.com/tuckerchapin/keebhunter))
 - [Typing Practice](https://www.keybr.com/)
+- [keyd](https://github.com/rvaiya/keyd) - Key remapping daemon for linux.

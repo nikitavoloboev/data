@@ -136,3 +136,4 @@
 - [What Everyone in Tech Should Know About Teaching and Learning (2021)](https://www.youtube.com/watch?v=ewXvFQByRqY)
 - [Teaching Tech Together (2019)](https://teachtogether.tech/en/index.html) ([HN](https://news.ycombinator.com/item?id=27902459))
 - [4 loops that cause creative struggle](https://twitter.com/OzolinsJanis/status/1420344259367030784)
+- [Ask HN: Do you have a process or a framework to learn specific skills quickly? (2021)](https://news.ycombinator.com/item?id=28017289)

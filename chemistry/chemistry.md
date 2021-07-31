@@ -23,3 +23,4 @@
 - [Reddit Recommended Chemistry Books](https://www.reddit.com/r/chemistry/wiki/books)
 - [Chemistry Resources Collection](https://www.reddit.com/r/Chempros/comments/jput3t/megathread_community_resources_collection/)
 - [Chemical space is really big (2014)](https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article) ([HN](https://news.ycombinator.com/item?id=27634549))
+- [Chemistry Development Kit](https://cdk.github.io/) - Open Source modular Java libraries for Cheminformatics. ([Code](https://github.com/cdk/cdk))

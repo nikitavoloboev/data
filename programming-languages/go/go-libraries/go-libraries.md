@@ -166,6 +166,7 @@
 - [letgo](https://github.com/wjpxxx/letgo) - Open-source, high-performance web framework for the Go programming language.
 - [api2](https://github.com/starius/api2) - Go library to make HTTP API clients and servers.
 - [httprate](https://github.com/go-chi/httprate) - net/http rate limiter middleware.
+- [elk](https://github.com/masseelch/elk) - Aims to extend the awesome entgo.io code generator to generate a fully-functional HTTP API on a defined set of entities.
 
 ## GraphQL
 

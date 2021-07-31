@@ -17,3 +17,4 @@
 - [Learn, Garden & Reflect with Cornell Garden-Based Learning](https://gardening.cals.cornell.edu/)
 - [Identify Plants for Free](https://candidegardening.com/GB/identify-plants) ([HN](https://news.ycombinator.com/item?id=27970539))
 - [Candide Gardening](https://candidegardening.com/GB)
+- [Small Farmer's Journal](https://smallfarmersjournal.com/) - Quarterly Periodical, Defending Small Farms and Craftsmanship.

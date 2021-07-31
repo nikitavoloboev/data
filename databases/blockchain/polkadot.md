@@ -50,3 +50,4 @@
 - [Polkadot: A Bet Against Maximalism (w/Gavin Wood and Sebastian Moonjava) (2021)](https://www.youtube.com/watch?v=nBQ0lmLaDFM)
 - [Substrate Collectables Workshop](https://github.com/shawntabrizi/substrate-collectables-workshop) - Learn to build blockchains with Parity Substrate. ([Docs](https://www.shawntabrizi.com/substrate-collectables-workshop/#/README))
 - [Staking for Polkadot Parachains (2021)](https://meta5.world/posts/parachain-staking)
+- [Substrate how-to guides](https://substrate.dev/substrate-how-to-guides/) ([Code](https://github.com/substrate-developer-hub/substrate-how-to-guides))
