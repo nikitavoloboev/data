@@ -28,4 +28,4 @@
 - [Matterport](https://matterport.com/) - Capture, share, and collaborate the built world in immersive 3D. ([Twitter](https://twitter.com/Matterport))
 - [Mixed Reality with Passthrough (2021)](https://developer.oculus.com/blog/mixed-reality-with-passthrough/) ([HN](https://news.ycombinator.com/item?id=27939264))
 - [Mark Zuckerberg says Facebook will turn into a ‘metaverse’ (2021)](https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview) ([HN](https://news.ycombinator.com/item?id=27930791))
-- [The Metaverse Has Always Been a Dystopian Idea (2021)](https://www.vice.com/en/article/v7eqbb/the-metaverse-has-always-been-a-dystopia)
+- [The Metaverse Has Always Been a Dystopian Idea (2021)](https://www.vice.com/en/article/v7eqbb/the-metaverse-has-always-been-a-dystopia) ([HN](https://news.ycombinator.com/item?id=28017330))

@@ -107,6 +107,7 @@
 - [use-web-animation](https://github.com/JoviDeCroock/use-web-animation) - Hooks to leverage the web-animations API in under a kb.
 - [useNft](https://github.com/spectrexyz/use-nft) - React hook to fetch metadata from any NFT. ([Web](https://use-nft.spectre.xyz/))
 - [flooks](https://github.com/nanxiaobei/flooks) - State manager for React Hooks, with gorgeous auto optimized re-render.
+- [react-tracking](https://github.com/nytimes/react-tracking) - Declarative tracking for React apps.
 
 ## Notes
 

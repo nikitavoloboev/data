@@ -316,3 +316,4 @@
 - [Data driven literary analysis](https://codewords.recurse.com/issues/seven/data-driven-literary-analysis)
 - [DALL·E Mini](https://github.com/borisdayma/dalle-mini) - Generate images from a text prompt.
 - [Jury](https://github.com/obss/jury) - Evaluation for Natural Language Generation.
+- [Rubrix](https://github.com/recognai/rubrix) - Free and open-source tool to explore, label, and monitor data for NLP projects.
