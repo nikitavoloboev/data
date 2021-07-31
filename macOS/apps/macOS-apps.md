@@ -146,6 +146,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Monodraw](https://monodraw.helftone.com/) - Powerful ASCII art editor designed for the Mac.
 - [TextSniper](https://textsniper.app/) - Capture and extract any text from your Mac's screen.
 - [Lunar](https://lunar.fyi/) - Control your monitors.
+- [Keystroke Pro](https://ixeau.com/keystroke-pro/) - Visualize Your Keypresses.
 
 ## Links
 

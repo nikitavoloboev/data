@@ -346,3 +346,4 @@
 - [Custom eBPF Helpers (2021)](https://nigeltao.github.io/blog/2021/custom-ebpf-helpers.html)
 - [Wiser](https://github.com/flouthoc/wiser) - Minimal hypervisor boots Linux VM. Written in C. ([HN](https://news.ycombinator.com/item?id=27917522))
 - [Mobian](https://mobian-project.org/) - Debian for Mobile. ([HN](https://news.ycombinator.com/item?id=27965416))
+- [Kernel Pwning with eBPF: a Love Story (2021)](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story)

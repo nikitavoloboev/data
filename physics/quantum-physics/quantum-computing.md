@@ -93,3 +93,4 @@
 - [Q-CTRL](https://q-ctrl.com/) - World-leading quantum control engineering expertise as intuitive software. ([GitHub](https://github.com/qctrl))
 - [Strong quantum computational advantage using a superconducting quantum processor (2021)](https://arxiv.org/abs/2106.14734)
 - [The Story of Shor's Algorithm, Straight From the Source | Peter Shor (2021)](https://www.youtube.com/watch?v=6qD9XElTpCE)
+- [First ‘Time Crystal’ Built Using Google’s Quantum Computer (2021)](https://www.quantamagazine.org/first-time-crystal-built-using-googles-quantum-computer-20210730/) ([HN](https://news.ycombinator.com/item?id=28008202))
