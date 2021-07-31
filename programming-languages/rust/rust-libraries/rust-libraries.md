@@ -905,6 +905,7 @@
 - [dynamic_reload](https://github.com/emoon/dynamic_reload) - Dynamic reloading of shared libraries.
 - [rosc](https://github.com/klingtnet/rosc) - OSC library for Rust.
 - [Y CRDT](https://github.com/yjs/y-crdt)
+- [Hora](https://github.com/hora-search/hora) - Approximate nearest neighbor search algorithm library. ([Web](https://horasearch.com/))
 
 ## Cargo Plugins
 
