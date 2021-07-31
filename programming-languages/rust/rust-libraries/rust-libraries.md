@@ -68,7 +68,7 @@
 - [tame-oauth](https://github.com/EmbarkStudios/tame-oauth) - Small OAuth crate that follows the sans-io approach.
 - [Trillium](https://github.com/trillium-rs/trillium) - Composable toolkit for building web applications with async rust. ([Docs](https://trillium.rs/))
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - Reactive DOM library for Rust in WASM.
-- [Axum](https://tokio.rs/blog/2021-07-announcing-axum) - Ergonomic and modular web framework that takes full advantage of the Tokio, Hyper, and Tower ecosystem.
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum))
 
 ## WASM
 
@@ -904,6 +904,7 @@
 - [QuantLib](https://github.com/piquette/quantlib) - Idiomatic rust implementation of the QuantLib C++ quantitative finance library.
 - [dynamic_reload](https://github.com/emoon/dynamic_reload) - Dynamic reloading of shared libraries.
 - [rosc](https://github.com/klingtnet/rosc) - OSC library for Rust.
+- [Y CRDT](https://github.com/yjs/y-crdt)
 
 ## Cargo Plugins
 

@@ -66,3 +66,4 @@
 - [Petite-Vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement. ([HN](https://news.ycombinator.com/item?id=27719290))
 - [vue-to-react](https://github.com/egoist/vue-to-react) - Turn a Vue component into a React component.
 - [Oruga](https://github.com/oruga-ui/oruga) - Lightweight library of UI components for Vue.js without CSS framework dependency. ([Web](https://oruga.io/))
+- [Vue Konva](https://github.com/konvajs/vue-konva) - JavaScript library for drawing complex canvas graphics using Vue.

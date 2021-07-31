@@ -64,3 +64,4 @@ I especially like the distinction of distributing content over distributing link
 - [ipfs-embed](https://github.com/ipfs-rust/ipfs-embed) - Small, fast and reliable ipfs implementation designed for embedding in to complex p2p applications.
 - [ipcs](https://github.com/hinshun/ipcs) - Containerd meets IPFS. Peer-to-peer distribution of content blobs.
 - [Nebulus](https://nebulus.dev/) - IPFS-Less IPFS.
+- [Web3 Storage](https://web3.storage/) - Simple file storage service for IPFS & Filecoin. ([Code](https://github.com/web3-storage/web3.storage))
