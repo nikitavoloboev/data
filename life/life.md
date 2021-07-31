@@ -60,3 +60,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Emergence@ASU](http://emergence.asu.edu/) - Research origins of life.
 - [Sara Walker: The Origin of Life on Earth and Alien Worlds (2021)](https://overcast.fm/+eZyA9HPhU)
 - [Single-celled organism has evolved a natural mechanical computer (2021)](https://www.newscientist.com/article/2285141-single-celled-organism-has-evolved-a-natural-mechanical-computer/) ([HN](https://news.ycombinator.com/item?id=28006599))
+- [Emergence of collective motor intelligence across millions of cells without the need for a nervous system](https://twitter.com/PrakashLab/status/1421431675746066440)

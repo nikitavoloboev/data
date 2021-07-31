@@ -369,6 +369,7 @@ Here are few more things I liked, design wise.
 - [Emma Goto](https://www.emgoto.com/) ([Code](https://github.com/emgoto/emgoto.com))
 - [Gianluca Brindisi](https://cloudberry.engineering/)
 - [Shihab Mehboob](https://www.pnguin.app/)
+- [Etienne Barbedette](https://etiennebarbedette.com/)
 - [Josh Larson](https://www.jplhomer.org/) ([Code](https://github.com/jplhomer/site))
 - [Josh Thompson](https://josh.works/)
 - [Nikolas Klein](http://nikolasklein.de/)

@@ -113,6 +113,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Start working on a hard problem. Take notes all along the way. Turn those notes into a deep dive blog post. Open source what you can!](https://twitter.com/jkup/status/1389615876996009987)
 - [People who think well, write well. Good writing is not a natural gift. You have to learn to write well.](https://twitter.com/dickiebush/status/1399879300724236288)
 - [Read to collect the dots, write to connect them.](https://twitter.com/david_perell/status/1411871612702543872)
+- [Moving your team from slides to long form writing is not just a process change. It is first and foremost a culture change. A writing culture values comprehension over aesthetics, nuance over certainty, clarity over charisma, deliberation over impulse, and rigor over hierarchy.](https://twitter.com/shreyas/status/1421143101083512838)
 
 ## Links
 
@@ -243,3 +244,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [The Document Culture of Amazon (2021)](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) ([HN](https://news.ycombinator.com/item?id=27545331))
 - [Words & phrases you can almost always cut from your UX copy](https://twitter.com/thedeskmagazine/status/1395385346662322176)
 - [4 different ways to make money by writing articles (2021)](https://twitter.com/sunilc_/status/1416648948765270022)
+- [Explaining how I explain things](https://twitter.com/maryrosecook/status/1421357563837239302)

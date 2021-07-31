@@ -363,6 +363,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Берлин в марте](http://sergeykorol.ru/blog/berlin-marz-2021/)
 - [Lina Scheynius](https://www.instagram.com/linascheynius/)
 - [Felix Russell-Saw](https://www.instagram.com/felixrussellsaw/)
+- [Vadim Makhorov](https://www.instagram.com/makhorov/)
 
 ## Notes
 

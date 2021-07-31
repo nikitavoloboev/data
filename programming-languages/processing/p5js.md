@@ -13,3 +13,7 @@
 - [p5.SVG](https://github.com/zenozeng/p5.js-svg) - SVG runtime for p5.js.
 - [p5.collide2D](https://github.com/bmoren/p5.collide2D) - Collision detection library for 2D geometry in p5.js.
 - [Sand on a speaker cone using p5.js](https://addieis.online/project/chladni/) ([Code](https://github.com/addiebarron/chladni))
+- [Making GIFs with p5js (2021)](https://ippsketch.com/posts/making-gifs-with-p5js/)
+- [GPS Running Routes with p5js (2021)](https://ippsketch.com/posts/gps-running-routes-with-p5js/)
+- [Chromatic Motion Blur (2021)](https://ippsketch.com/posts/chromatic-motion-blur/)
+- [p5js Animation to .png Template](https://github.com/ippsketch/p5js-animation-to-png-template) - Template for saving p5js animations to png files.

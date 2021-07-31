@@ -559,6 +559,7 @@
 - [ganja.js](https://github.com/enkimute/ganja.js) - Geometric Algebra for JavaScript.
 - [TextKit](https://github.com/pouyakary/TextKit) - Framework for creating Textual Graphics.
 - [spacers](https://github.com/actuallyakash/spacers) - JS library that supports multiple spacers for controlling padding/margin, linking functionality & much more.
+- [CCapture.js](https://github.com/spite/ccapture.js/) - Library to capture canvas-based animations.
 
 ## Links
 
