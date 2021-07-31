@@ -272,3 +272,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Cleaning Up Git History (2021)](https://blog.sulami.xyz/posts/cleaning-up-git-history/) ([Lobsters](https://lobste.rs/s/kl0aso/cleaning_up_git_history))
 - [Think Like (a) Git](http://think-like-a-git.net/)
 - [Different ways to solve git merge conflicts (2021)](https://twitter.com/kyleve/status/1419854124246470661)
+- [Cocogitto](https://github.com/oknozor/cocogitto) - Set of cli tool for the conventional commit and semver specifications.
