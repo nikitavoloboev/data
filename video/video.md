@@ -270,3 +270,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Realtime Video Capture with the Go Programming Language (2021)](https://medium.com/learning-the-go-programming-language/realtime-video-capture-with-go-65a8ac3a57da)
 - [Motionbox](https://motionbox.io/) - Collaborative video editing and motion graphics tool.
 - [Better web video with AV1 codec (2019)](https://dev.to/evilmartians/better-web-video-with-av1-codec-52kd)
+- [Confrere](https://confrere.com/) - Professional video calling, without the hassle.

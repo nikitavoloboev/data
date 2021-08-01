@@ -119,3 +119,4 @@ Success comes from not giving up and doing what you love.
 - [The most precious resource is agency (2021)](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency) ([HN](https://news.ycombinator.com/item?id=27695181)) ([Tweet](https://twitter.com/simonsarris/status/1410394551848779781))
 - [Change your environment, change your life.](https://twitter.com/david_perell/status/1414685400308793347)
 - [The unreasonable effectiveness of just showing up everyday (2021)](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/) ([HN](https://news.ycombinator.com/item?id=27833064))
+- ["Failures of Kindness"](https://jamesclear.com/great-speeches/failures-of-kindness-by-george-saunders) - The most important question is how to be kind (to others and to yourself) more consistently. ([Tweet](https://twitter.com/patrick_oshag/status/1421810858582319105))
