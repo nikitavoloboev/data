@@ -66,3 +66,4 @@
 - [The Principia Rewrite](https://www.principiarewrite.com/) ([Code](https://github.com/LogicalAtomist/principia))
 - [Algebra Tactics](https://github.com/math-comp/algebra-tactics) - Experimental reflexive tactics for ring and field expressions.
 - [Coq encoding of ZFC and formalization of the textbook Elements of Set Theory](https://github.com/choukh/Set-Theory)
+- [Free Theorems from Separation Logic Specifications](https://github.com/logsem/free-theorems-sl)

@@ -110,3 +110,4 @@
 - [Albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries.
 - [PIX](https://github.com/deepmind/dm_pix) - Image processing library in JAX, for JAX.
 - [Blur Quick](https://blur-quick.web.app/) - Tool to blur images quickly.
+- [SimpleITK](https://github.com/SimpleITK/SimpleITK) - Image analysis toolkit with a large number of components supporting general filtering operations, image segmentation and registration. ([Web](https://simpleitk.org/))
