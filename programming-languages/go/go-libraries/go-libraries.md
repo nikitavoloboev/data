@@ -889,6 +889,7 @@
 - [Harmonica](https://github.com/charmbracelet/harmonica) - Simple, efficient spring animation library.
 - [JSON Serialization (v2)](https://github.com/go-json-experiment/json) - Experimental implementation of a proposed v2 encoding/json package.
 - [memfs](https://github.com/psanford/memfs) - In-memory implementation of Go's `io/fs.FS` interface.
+- [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go.
 
 ## Links
 

@@ -18,3 +18,4 @@
 - [Identify Plants for Free](https://candidegardening.com/GB/identify-plants) ([HN](https://news.ycombinator.com/item?id=27970539))
 - [Candide Gardening](https://candidegardening.com/GB)
 - [Small Farmer's Journal](https://smallfarmersjournal.com/) - Quarterly Periodical, Defending Small Farms and Craftsmanship.
+- [One-Thousand Year-Old Plants (2021)](https://www.nytimes.com/2021/07/31/science/plant-leaves-welwitschia.html) ([HN](https://news.ycombinator.com/item?id=28019843))

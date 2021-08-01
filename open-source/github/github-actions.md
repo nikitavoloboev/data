@@ -104,6 +104,8 @@
 - [Skip Duplicate Actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions.
 - [Accessibility Insights Action](https://github.com/microsoft/accessibility-insights-action) - Helps integrate automated accessibility tests in your GitHub workflow.
 - [action-netlify-deploy](https://github.com/South-Paw/action-netlify-deploy) - Netlify deployments via GitHub actions.
+- [GitHub Automatic Releases](https://github.com/marvinpinto/action-automatic-releases) - Simplifies the GitHub release process by automatically uploading assets, generating changelogs, handling pre-releases.
+- [Release Action](https://github.com/ncipollo/release-action) - Action which manages a github release.
 
 ## Go
 

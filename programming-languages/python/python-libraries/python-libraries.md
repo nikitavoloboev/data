@@ -70,6 +70,8 @@
 - [xitorch](https://github.com/xitorch/xitorch) - Differentiable scientific computing library.
 - [randopt](https://github.com/seba-1511/randopt) - Python package for machine learning experiment management, hyper-parameter optimization, and results visualization.
 - [Kats](https://github.com/facebookresearch/Kats) - Toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis. ([Web](https://facebookresearch.github.io/Kats/))
+- [pymdp](https://github.com/infer-actively/pymdp) - Python implementation of active inference for Markov Decision Processes.
+- [pypc](https://github.com/infer-actively/pypc) - Predictive coding in Python.
 
 ## Biology
 

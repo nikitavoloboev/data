@@ -906,6 +906,7 @@
 - [rosc](https://github.com/klingtnet/rosc) - OSC library for Rust.
 - [Y CRDT](https://github.com/yjs/y-crdt)
 - [Hora](https://github.com/hora-search/hora) - Approximate nearest neighbor search algorithm library. ([Web](https://horasearch.com/))
+- [fork](https://github.com/immortal/fork) - Library for creating a new process detached from the controlling terminal (daemon) using the fork and setsid syscalls.
 
 ## Cargo Plugins
 

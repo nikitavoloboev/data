@@ -138,3 +138,4 @@
 - [4 loops that cause creative struggle](https://twitter.com/OzolinsJanis/status/1420344259367030784)
 - [Ask HN: Do you have a process or a framework to learn specific skills quickly? (2021)](https://news.ycombinator.com/item?id=28017289)
 - [Psionica](https://psionica.org/) - Open collective on a mission to augment thought for all.
+- [Awesome Tips](https://github.com/jbhuang0604/awesome-tips) - Research, working with mentors, writing papers.

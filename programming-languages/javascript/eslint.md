@@ -21,3 +21,4 @@
 - [eslint-plugin-xstate](https://github.com/rlaffers/eslint-plugin-xstate) - ESLint plugin to check for common mistakes and enforce good practices when using XState.
 - [eslint-utils](https://github.com/mysticatea/eslint-utils) - Provides utility functions and classes for make ESLint custom rules.
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
+- [eslint-plugin-stedi-aws-rules](https://github.com/Stedi/eslint-plugin-stedi-aws-rules) - Best practices around using AWS SDK in JavaScript & Typescript projects.

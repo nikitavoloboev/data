@@ -194,3 +194,4 @@
 - [Developing Games on Linux: An Interview with Little Red Dog Game](https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with) ([HN](https://news.ycombinator.com/item?id=27619977))
 - [Quilkin](https://github.com/googleforgames/quilkin) - Non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
 - [What you shouldn't unit test in games (2017)](https://refactoring.ninja/posts/2017-04-08-what-you-shouldnt-unit-test-in-games/)
+- [DuckEngine](https://github.com/ksplatdev/DuckEngine) - 2D Game Library for the web.
