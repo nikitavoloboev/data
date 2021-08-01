@@ -46,3 +46,4 @@
 - [Spaghetti](https://github.com/pysal/spaghetti) - Open-source Python library for the analysis of network-based spatial data. ([Web](https://pysal.org/spaghetti/))
 - [Graphs (2017)](https://lonami.dev/blog/graphs/)
 - [How do DAGs help to reduce bias in causal inference?](https://stats.stackexchange.com/questions/445578/how-do-dags-help-to-reduce-bias-in-causal-inference)
+- [Algorithms Course - Graph Theory Tutorial from a Google Engineer (2019)](https://www.youtube.com/watch?v=09_LlHjoEiY)

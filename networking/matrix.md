@@ -67,3 +67,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Element raises $30M to boost Matrix (2021)](https://matrix.org/blog/2021/07/27/element-raises-30-m-to-boost-matrix) ([HN](https://news.ycombinator.com/item?id=27969624))
 - [Matrix JavaScript SDK](https://github.com/matrix-org/matrix-js-sdk)
 - [Cinny](https://cinny.in/) - Web-based matrix client. ([Code](https://github.com/ajbura/cinny)) ([HN](https://news.ycombinator.com/item?id=27986376))
+- [TheBoard](https://github.com/toger5/TheBoard) - Collaborative Whiteboard powered by the [matrix] protocol and infrastructure.

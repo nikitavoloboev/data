@@ -236,6 +236,7 @@
 - [gosql](https://github.com/ilibs/gosql) - Very simple ORM library for Go.
 - [Scan](https://github.com/blockloop/scan) - Scan database/sql rows directly to structs, slices, and primitive types.
 - [go-sqlite3-js](https://github.com/matrix-org/go-sqlite3-js) - Go SQL driver for sqlite3 in browser (sql.js) from go-wasm.
+- [Authority](https://github.com/harranali/authority) - Role Based Access Control (RBAC) with database persistence.
 
 ## ML
 
@@ -890,6 +891,7 @@
 - [JSON Serialization (v2)](https://github.com/go-json-experiment/json) - Experimental implementation of a proposed v2 encoding/json package.
 - [memfs](https://github.com/psanford/memfs) - In-memory implementation of Go's `io/fs.FS` interface.
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go.
+- [scrapligo](https://github.com/scrapli/scrapligo) - Connecting to devices, specifically network devices (routers/switches/firewalls/etc.) via SSH and NETCONF.
 
 ## Links
 

@@ -223,6 +223,7 @@
 - [cinolib](https://github.com/mlivesu/cinolib) - Generic programming header only C++ library for processing polygonal and polyhedral meshes.
 - [ordered-map](https://github.com/Tessil/ordered-map) - C++ hash map and hash set which preserve the order of insertion.
 - [CIDLib](https://github.com/DeanRoddey/CIDLib) - General purpose C++ development environment.
+- [CrossWindow](https://github.com/alaingalvan/CrossWindow) - Cross platform system abstraction library written in C++ for managing windows and performing OS tasks. ([Web](https://alain.xyz/libraries/crosswindow))
 
 ## Links
 
