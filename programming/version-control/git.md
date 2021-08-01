@@ -273,4 +273,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Think Like (a) Git](http://think-like-a-git.net/)
 - [Different ways to solve git merge conflicts (2021)](https://twitter.com/kyleve/status/1419854124246470661)
 - [Cocogitto](https://github.com/oknozor/cocogitto) - Set of cli tool for the conventional commit and semver specifications.
-- [New in Git: switch and restore (2021)](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/) ([HN](https://news.ycombinator.com/item?id=28024972))
+- [New in Git: switch and restore (2021)](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/) ([HN](https://news.ycombinator.com/item?id=28024972)) ([Lobsters](https://lobste.rs/s/aph2fn/new_git_switch_restore))

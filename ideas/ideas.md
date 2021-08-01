@@ -100,3 +100,4 @@ I try to give my full attention to any ideas I am working on.
 - [Steve Jobs advice on how to push back against bad ideas](https://twitter.com/GK3/status/1398328733782601730)
 - [Ask HN: Post Burnout Ideas (2021)](https://news.ycombinator.com/item?id=27410951)
 - [Your idea is brilliant, your idea is worthless (2016)](https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/) ([HN](https://news.ycombinator.com/item?id=27892066))
+- [My tiny side project has had more impact than my decade in the software industry (2021)](https://mike.zwobble.org/2021/08/side-projects-vs-industry/) ([HN](https://news.ycombinator.com/item?id=28025693))

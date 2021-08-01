@@ -199,3 +199,5 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Beginner looking for guide/books to understand Vanguard's ETF (2021)](https://www.reddit.com/r/eupersonalfinance/comments/old7e0/beginner_looking_for_guidebooks_to_understand/)
 - [wikAPEdia](https://github.com/verymeticulous/wikAPEdia) - Central place for apes to learn about stonks.
 - [Large Cap Growth Stocks (FB, AMZN, AAPL, GOOGL, MSFT, TSLA) (2020)](https://www.youtube.com/watch?v=foqswJT3Spc)
+- [Positions, Profit and Loss (2021)](https://www.machow.ski/posts/2021-07-24-positions-profit-and-loss/)
+- [An Introduction to Limit Order Books (2021)](https://www.machow.ski/posts/2021-07-18-introduction-to-limit-order-books/)
