@@ -123,3 +123,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [The Grant Williams Podcast: The Tether Discussion feat. Bennett Tomlin & George Noble (2021)](https://overcast.fm/+aAHsVOpDc)
 - [Building a trillion dollar crypto business (2021)](http://myprasanna.blogspot.com/2021/07/building-trillion-dollar-crypto-business.html)
 - [Enzyme Finance](https://enzyme.finance/) - On-chain Asset Management.
+- [CoinParticle](https://www.coinparticle.com/) - Cryptocurrency Visualizations & Prices.

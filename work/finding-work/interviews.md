@@ -135,3 +135,5 @@
 - [Have you ever had/given a really good interview? (2021)](https://lobste.rs/s/1bwpi8/have_you_ever_had_given_really_good)
 - [Intern interview questions (2021)](https://boyter.org/posts/intern-interview-questions/)
 - [Best questions you ask to figure out if you’re speaking to the right person for the role (2021)](https://twitter.com/harryhurst/status/1415089258218627072)
+- [Technical Interview Preparation - YouTube](https://www.youtube.com/playlist?list=PLJBO5eOxvWcAytirt2nBWvFyZogOFm-wA)
+- [How do you prepare for interviews with behavioral questions? (2021)](https://www.reddit.com/r/cscareerquestionsEU/comments/ovpt5y/how_do_you_prepare_for_interviews_with_behavioral/)
