@@ -19,3 +19,4 @@
 - [Reddit Favorites](https://redditfavorites.com/)
 - [Reddit List](https://redditlist.io/) - Discover Subreddits for different topics.
 - [Scaling Reddit’s Community Points with Arbitrum (2021)](https://www.reddit.com/r/ethereum/comments/opi5rg/scaling_reddits_community_points_with_arbitrum/)
+- [Reddit Search Tool](https://redditsearchtool.com/) ([Code](https://github.com/HenryBalassiano/reddit-search-tool))

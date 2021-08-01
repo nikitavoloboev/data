@@ -81,3 +81,4 @@
 - [Ukio](https://www.stayukio.com/) - Beautifully designed, curated apartments with everything you need.
 - [TripIt](https://www.tripit.com/web) - Highest-rated trip planner and flight tracker.
 - [AllTrails](https://www.alltrails.com/) - Trail Guides & Maps for Hiking, Camping, and Running.
+- [What country surprised you? (2021)](https://www.reddit.com/r/AskAnAmerican/comments/ov71j5/european_here_what_country_surprised_you/)

@@ -78,4 +78,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Multitasking hurts performance and may even damage the brain (2018)](https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/) ([HN](https://news.ycombinator.com/item?id=27042151))
 - [In praise of structured time](https://twitter.com/jongold/status/1397218299251990535)
 - [Programmers, teach non-geeks the true cost of interruptions (2014)](https://daedtech.com/programmers-teach-non-geeks-the-true-cost-of-interruptions/) ([HN](https://news.ycombinator.com/item?id=27787604))
-- [You are Not Lazy or Undisciplined. You Have Internal Resistance (2021)](https://medium.com/counterarts/you-are-not-lazy-or-undisciplined-you-are-experiencing-internal-resistance-755a02673aa9)
+- [You are Not Lazy or Undisciplined. You Have Internal Resistance (2021)](https://medium.com/counterarts/you-are-not-lazy-or-undisciplined-you-are-experiencing-internal-resistance-755a02673aa9) ([HN](https://news.ycombinator.com/item?id=28026323))

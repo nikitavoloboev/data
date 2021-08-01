@@ -19,3 +19,4 @@
 - [Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian)
 - [Obsidian for Mobile](https://obsidian.md/mobile) - Plain-text knowledge base on the go. ([HN](https://news.ycombinator.com/item?id=27807850))
 - [Connecting and Transcluding Notes in Obsidian (2021)](https://thesweetsetup.com/connecting-and-transcluding-notes-in-obsidian/)
+- [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian.
