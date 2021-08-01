@@ -348,3 +348,4 @@
 - [Mobian](https://mobian-project.org/) - Debian for Mobile. ([HN](https://news.ycombinator.com/item?id=27965416))
 - [Kernel Pwning with eBPF: a Love Story (2021)](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story)
 - [bustd](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon for out-of-memory scenarios for Linux.
+- [oomd](https://github.com/facebookincubator/oomd) - Userspace Out-Of-Memory (OOM) killer for linux systems.

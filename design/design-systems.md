@@ -64,6 +64,7 @@
 - [Woly UI Dev Kit](https://github.com/woly-ui/woly) - Modular design-system to build flexible UI.
 - [Helsinki Design System](https://hds.hel.fi/)
 - [Prisma Lens](https://github.com/prisma/lens) - Design System, Guidelines and Component Library for the family of Prisma projects and products. ([Web](https://prismalens.netlify.app/?path=/story/welcome--page))
+- [AWS UI Components](https://github.com/aws/awsui-documentation)
 
 ## Notes
 

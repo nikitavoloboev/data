@@ -225,3 +225,4 @@
 - [Sample Factory](https://github.com/alex-petrenko/sample-factory) - High throughput asynchronous reinforcement learning.
 - [Generally capable agents emerge from open-ended play (2021)](https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play) ([HN](https://news.ycombinator.com/item?id=27972950))
 - [Leveraging Procedural Generation to Benchmark Reinforcement Learning (2020)](https://arxiv.org/abs/1912.01588) ([Code](https://github.com/openai/procgen))
+- [Intro to Advanced Actor-Critic Methods: Reinforcement Learning Course (2021)](https://www.freecodecamp.org/news/intro-to-advanced-actor-critic-methods-reinforcement-learning-course/)
