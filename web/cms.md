@@ -25,4 +25,4 @@
 - [Netlify CMS](https://www.netlifycms.org/) - Open-Source Content Management System. ([Code](https://github.com/netlify/netlify-cms))
 - [Prismic CMS](https://prismic.io/) - Headless Website Builder for Jamstack.
 - [GraphCMS](https://graphcms.com/) - API-first GraphQL Headless CMS.
-- [FireCMS](https://github.com/Camberi/firecms) - Awesome Firestore based CMS.
+- [FireCMS](https://github.com/Camberi/firecms) - Awesome Firestore based CMS. ([Web](https://firecms.co/))

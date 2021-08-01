@@ -231,3 +231,4 @@
 - [Achieving generic bliss with reflection in modern C++ (2021)](https://ossia.io/posts/reflection/)
 - [MicroProfiler](https://github.com/tyoma/micro-profiler) - Cross-platform low-footprint realtime C/C++ Profiler.
 - [Modern C++ for C Programmers (2018)](https://berthub.eu/articles/posts/c++-1/)
+- [On C++ and Object Oriented Programming (2019)](https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php)
