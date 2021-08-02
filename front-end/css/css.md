@@ -342,3 +342,4 @@
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting/)
 - [CSS areas people struggle with the most (2021)](https://twitter.com/EmmaBostian/status/1420771337715568645)
 - [Favorite “quick wins” with CSS](https://twitter.com/JoshWComeau/status/1421193520300400642)
+- [Aligning a Button Label Vertically (2021)](https://ishadeed.com/article/button-label-alignment/)

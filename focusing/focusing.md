@@ -79,3 +79,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [In praise of structured time](https://twitter.com/jongold/status/1397218299251990535)
 - [Programmers, teach non-geeks the true cost of interruptions (2014)](https://daedtech.com/programmers-teach-non-geeks-the-true-cost-of-interruptions/) ([HN](https://news.ycombinator.com/item?id=27787604))
 - [You are Not Lazy or Undisciplined. You Have Internal Resistance (2021)](https://medium.com/counterarts/you-are-not-lazy-or-undisciplined-you-are-experiencing-internal-resistance-755a02673aa9) ([HN](https://news.ycombinator.com/item?id=28026323))
+- [TODO apps are meant for robots](https://blog.frantic.im/all/todo-apps-are-meant-for-robots/) ([HN](https://news.ycombinator.com/item?id=28029809))
