@@ -137,3 +137,4 @@
 - [Best questions you ask to figure out if you’re speaking to the right person for the role (2021)](https://twitter.com/harryhurst/status/1415089258218627072)
 - [Technical Interview Preparation - YouTube](https://www.youtube.com/playlist?list=PLJBO5eOxvWcAytirt2nBWvFyZogOFm-wA)
 - [How do you prepare for interviews with behavioral questions? (2021)](https://www.reddit.com/r/cscareerquestionsEU/comments/ovpt5y/how_do_you_prepare_for_interviews_with_behavioral/)
+- [The rise of never-ending job interviews (2021)](https://www.bbc.com/worklife/article/20210727-the-rise-of-never-ending-job-interviews) ([HN](https://news.ycombinator.com/item?id=28031782))

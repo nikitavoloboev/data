@@ -127,3 +127,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [It doesn't take much public creativity to stand out as a job candidate (2021)](https://simonwillison.net/2021/Jul/17/standing-out/) ([HN](https://news.ycombinator.com/item?id=27907151))
 - [artickl](https://artickl.com/) - Lets you write tailored resumes with no effort.
 - [Some career advice (2019)](https://lethain.com/career-advice/) ([HN](https://news.ycombinator.com/item?id=27990262))
+- [Y Combinator Jobs](https://www.ycombinator.com/jobs) - Find the best startup jobs, curated by Y Combinator.

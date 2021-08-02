@@ -62,3 +62,4 @@
 - [Noise](https://github.com/pipedown/noise) - JSON full text and ad-hoc query engine with example-based query syntax. ([Web](https://noisesearch.org/))
 - [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq)
 - [jsonmatic](https://jsonmatic.com/) - Transform a CSV into a JSON and vice versa. ([Code](https://github.com/erikmartinjordan/jsonmatic))
+- [Extracting Objects Recursively with Jq](https://til.simonwillison.net/jq/extracting-objects-recursively) ([HN](https://news.ycombinator.com/item?id=28026712))

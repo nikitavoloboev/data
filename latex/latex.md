@@ -81,3 +81,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [finl is not LaTeX – Reinventing LaTeX for the twenty-first century](https://www.finl.xyz/) ([Lobsters](https://lobste.rs/s/udu5oe/finl_is_not_latex_reinventing_latex_for))
 - [Expanding TeX's \newif (2021)](https://mht.wtf/post/tex/)
 - [The LaTeX Font Catalogue](https://tug.org/FontCatalogue/)
+- [Muboard](https://muboard.net/) - Mathematics Chalkboard With LaTeX and Markdown Support. ([Code](https://github.com/susam/muboard)) ([HN](https://news.ycombinator.com/item?id=28033005))
