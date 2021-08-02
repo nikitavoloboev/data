@@ -89,3 +89,4 @@
 - [Modeltranslation](https://github.com/deschler/django-modeltranslation) - Translates Django models using a registration approach.
 - [Django Packages](https://djangopackages.org/) - Reusable apps, sites and tools directory.
 - [Building MVPs fast on Django (2021)](https://davidkell.substack.com/p/davids-opinionated-guide-for-building)
+- [Building a Django driver for Psycopg 3 (2021)](https://www.psycopg.org/articles/2021/08/02/psycopg3-django-driver/) ([HN](https://news.ycombinator.com/item?id=28034581))

@@ -751,3 +751,4 @@
 - [Entrapta](https://github.com/kelvin13/entrapta) - Experimental tool to generate richly-linked, Apple-style API reference websites for Swift projects.
 - [docc2html](https://github.com/DoccZz/docc2html) - Static site generator for DocC documentation archives.
 - [Swift Package Manager framework creation in Xcode (2020)](https://www.avanderlee.com/swift/creating-swift-package-manager-framework/)
+- [swift-package-editor](https://github.com/owenv/swift-package-editor) - Mechanical editing support for Package.swift manifests.

@@ -186,3 +186,5 @@
 - [Data Movement in Netflix Studio via Data Mesh (2021)](https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059)
 - [Small Summaries for Big Data (2020)](http://dimacs.rutgers.edu/~graham/ssbd.html)
 - [What even is data mesh (2021)](https://cnr.sh/essays/what-the-heck-data-mesh)
+- [Build 12 Data Science Apps with Python and Streamlit - Full Course (2021)](https://www.youtube.com/watch?v=JwSS70SZdyM)
+- [JetBrains DataSpell](https://www.jetbrains.com/dataspell/) - IDE for Data Scientists.

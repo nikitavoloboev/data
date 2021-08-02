@@ -76,3 +76,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Best way to spend $15K to improve quality of life (2021)](https://www.reddit.com/r/fatFIRE/comments/nnzqwz/best_way_to_spend_15k_to_improve_quality_of_life/)
 - [What’s the best question your therapist has asked you? (2021)](https://www.reddit.com/r/AskWomen/comments/oqrm57/whats_the_best_question_your_therapist_has_asked/)
 - [The roadmap to happiness as a man](https://twitter.com/SaveYourSons/status/1419295686072446986)
+- [Why is being stagnant in life so frowned upon by today's society?](https://www.reddit.com/r/NoStupidQuestions/comments/owbk2t/why_is_being_stagnant_in_life_so_frowned_upon_by/)

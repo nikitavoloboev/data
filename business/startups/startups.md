@@ -59,6 +59,7 @@
 - [Much of a startup's success comes down to distribution. If an investor can give you money AND distribution.... that's super compelling.](https://twitter.com/maccaw/status/1417473520867680264)
 - [Letting people go sucks but it’s part of the job for startup founders. Always show respect here. While it may not feel like it at the time it’s almost always better for both parties. Every employee I’ve ever let go moved onto a new role where they were more suited to succeed.](https://twitter.com/agazdecki/status/1417968015736332289)
 - [Work very hard but sustainably with as little stress as possible.](https://twitter.com/flybayer/status/1419280525425061890)
+- [B2B startup: its better to build for self-service from day 0. a) Forces you to make UX intuitive. b) Allows you to get bottoms up growth. c) You can access lower ACV use cases. Its harder than it seems to build out self-service post launch when you have live user demands.](https://twitter.com/immad/status/1421593560965656581)
 
 ## Links
 

@@ -908,6 +908,7 @@
 - [Y CRDT](https://github.com/yjs/y-crdt)
 - [Hora](https://github.com/hora-search/hora) - Approximate nearest neighbor search algorithm library. ([Web](https://horasearch.com/))
 - [fork](https://github.com/immortal/fork) - Library for creating a new process detached from the controlling terminal (daemon) using the fork and setsid syscalls.
+- [peekread](https://github.com/orlp/peekread) - Allows you to take an arbitrary Read stream and 'peek ahead' into the stream without consuming the original stream.
 
 ## Cargo Plugins
 
