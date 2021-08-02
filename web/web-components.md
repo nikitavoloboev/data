@@ -41,3 +41,4 @@
 - [Fractal](https://github.com/frctl/fractal) - Tool to help you build and document web component libraries and design systems. ([Web](https://fractal.build/))
 - [playground-elements](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
 - [Base for Web Components (bacom)](https://github.com/prantlf/bacom) - Basic library for writing lightweight web components. Suitable for low-level web components in UI libraries.
+- [Why it’s okay for web components to use frameworks (2021)](https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/) ([Lobsters](https://lobste.rs/s/dxbwyb/why_it_s_okay_for_web_components_use))

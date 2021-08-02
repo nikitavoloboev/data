@@ -526,3 +526,4 @@
 - [My Rust development workflow (after 2+ years) (2021)](https://kerkour.com/blog/rust-development-workflow/)
 - [How to create small Docker images for Rust (2021)](https://kerkour.com/blog/rust-small-docker-image/)
 - [Black Hat Rust Book](https://academy.kerkour.com/black-hat-rust?coupon=BLOG)
+- [How to write really slow Rust code (2021)](https://renato.athaydes.com/posts/how-to-write-slow-rust-code.html) - How I tried to port Lisp code to Rust and managed to get a much slower program.
