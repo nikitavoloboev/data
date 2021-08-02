@@ -23,6 +23,7 @@
 - [If you're only able to make 1 marketing hire at your startup, I strongly recommend starting with a content writer.](https://twitter.com/agazdecki/status/1391724959282565120)
 - [Build communities, not audiences.](https://twitter.com/SoniaChanel617/status/1400430635035021312)
 - [In developer marketing, "Talk benefits, not features" doesn't work! Developers are sick of vague promises and wary of black boxes. Instead: Demo - reach Wow! in <10 mins. Explain how it works. Show how real companies use in prod.](https://twitter.com/swyx/status/1361279902889086980)
+- [Your content has a half life and the average varies by platform: Twitter: 1-24 hours. YouTube: Weeks-Months. Blog: Years.](https://twitter.com/swyx/status/1422041713187586048)
 
 ## Links
 

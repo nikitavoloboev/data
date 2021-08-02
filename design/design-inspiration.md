@@ -389,6 +389,7 @@ Here are few more things I liked, design wise.
 - [Heydon Pickering](https://heydonworks.com/)
 - [Ashley Blewer](https://ashleyblewer.com/)
 - [Youcef Es-skouri](https://cef.im/)
+- [Tomasz Tunguz](https://tomtunguz.com/)
 - [Matt Keeter](https://www.mattkeeter.com/)
 - [Daniel Gross](https://dcgross.com/)
 - [Chelsea Voss](https://csvoss.com/)
