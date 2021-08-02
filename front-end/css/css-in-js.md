@@ -41,3 +41,4 @@
 - [Sprinkles](https://github.com/seek-oss/vanilla-extract/tree/master/packages/sprinkles) - Zero-runtime atomic CSS framework for vanilla-extract.
 - [Fower](https://github.com/forsigner/fower) - Utility-first CSS in JS library for rapid UI development.
 - [Demystifying styled-components (2021)](https://www.joshwcomeau.com/react/demystifying-styled-components/)
+- [Tagged Template Literals - The Magic Behind Styled Components (2021)](https://dev.to/dekel/tagged-template-literals-the-magic-behind-styled-components-2f2c)

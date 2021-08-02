@@ -130,3 +130,4 @@
 - [HTML Recipes](https://htmlrecipes.dev/) - Collection of quick copy HTML snippets for a variety of common scenarios. ([Code](https://github.com/5t3ph/htmlrecipes))
 - [xPath Finder](https://github.com/trembacz/xpath-finder) - Click on any element to get the xPath.
 - [Marko](https://github.com/marko-js/marko) - Declarative, HTML-based language that makes building web apps fun. ([Web](https://markojs.com/)) ([Marko Tags](https://dev.to/ryansolid/introducing-the-marko-tags-api-preview-37o4))
+- [Why are there no PUT and DELETE methods on HTML forms?](https://softwareengineering.stackexchange.com/questions/114156/why-are-there-no-put-and-delete-methods-on-html-forms) ([Lobsters](https://lobste.rs/s/an3e64/why_are_there_no_put_delete_methods_on_html))

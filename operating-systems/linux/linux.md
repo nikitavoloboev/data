@@ -349,3 +349,5 @@
 - [Kernel Pwning with eBPF: a Love Story (2021)](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story)
 - [bustd](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon for out-of-memory scenarios for Linux.
 - [oomd](https://github.com/facebookincubator/oomd) - Userspace Out-Of-Memory (OOM) killer for linux systems.
+- [Back to Linux (2021)](https://metaredux.com/posts/2021/07/31/back-to-linux.html)
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)

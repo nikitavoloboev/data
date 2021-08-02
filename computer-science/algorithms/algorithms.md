@@ -74,6 +74,7 @@
 - [Reasonable Effectiveness of the Multiplicative Weights Update Algorithm (2017)](https://jeremykun.com/2017/02/27/the-reasonable-effectiveness-of-the-multiplicative-weights-update-algorithm/) ([HN](https://news.ycombinator.com/item?id=27728072))
 - [Algorithms for Cartographic Visualization (2012)](https://www.win.tue.nl/~kverbeek/PhDThesis.pdf)
 - [145 C++ algorithms](http://e-maxx.ru/algo/)
+- [Exploring rectangle packing algorithms (2020)](https://www.david-colson.com/2020/03/10/exploring-rect-packing.html)
 
 ## Images
 

@@ -41,3 +41,4 @@
 - [Nihongo](https://nihongo-app.com/) - Modern Japanese dictionary for iPhone and iPad.
 - [Reasons Not to Move to Japan (2021)](https://www.youtube.com/watch?v=nfpWAqK0YZE)
 - [Why Japan fell behind in the tech industry (2021)](https://www.youtube.com/watch?v=GqMSWuSeDPA)
+- [Japan's Fifth Generation Computer Systems: Success or Failure? (2021)](https://instadeq.com/blog/posts/japans-fifth-generation-computer-systems-success-or-failure/)

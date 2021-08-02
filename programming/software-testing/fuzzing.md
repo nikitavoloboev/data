@@ -53,3 +53,4 @@
 - [Fuzzinator](https://github.com/renatahodovan/fuzzinator) - Random Testing Framework.
 - [rfuzz](https://github.com/ekiwi/rfuzz) - Coverage-directed fuzzing for RTL research platform. ([Paper](https://people.eecs.berkeley.edu/~laeufer/papers/rfuzz_kevin_laeufer_iccad2018.pdf))
 - [The Use of Likely Invariants as Feedback for Fuzzers](http://s3.eurecom.fr/docs/usenixsec21_fioraldi.pdf)
+- [Random Sampling of Strings from Context-Free Grammar (2021)](https://rahul.gopinath.org/post/2021/07/27/random-sampling-from-context-free-grammar/)

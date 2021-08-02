@@ -123,3 +123,4 @@
 - [7 Management Trust Killers (and how to avoid them)](https://twitter.com/joulee/status/1415328586207174661)
 - [Agile at 20: The Failed Rebellion (2021)](https://www.simplethread.com/agile-at-20-the-failed-rebellion/) ([HN](https://news.ycombinator.com/item?id=27946382))
 - [Why Managers Fear a Remote-Work Future (2021)](https://www.theatlantic.com/ideas/archive/2021/07/work-from-home-benefits/619597/) ([Tweet](https://twitter.com/edzitron/status/1420758085858066437))
+- [Focus: assign multiple engineers to the same task](https://dpc.pw/focus-assign-multiple-engineers-to-the-same-task) ([Lobsters](https://lobste.rs/s/kjv6op/focus_assign_multiple_engineers_same))
