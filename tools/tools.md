@@ -538,3 +538,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Favorite developer-first startups (2021)](https://twitter.com/zenorocha/status/1417493893466054656)
 - [Open Source Alternatives to Popular B2B Tools](https://www.btw.so/open-source-alternatives) ([HN](https://news.ycombinator.com/item?id=27915370))
 - [ProjectHunts](https://www.projecthunts.com/) - Discover the latest no-code projects built-in public.
+- [Tools for less thought](https://chiefofstuff.substack.com/p/tools-for-less-thought)

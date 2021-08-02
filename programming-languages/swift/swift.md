@@ -223,3 +223,4 @@
 - [Create a generic networking layer using async/await (2021)](https://medium.com/geekculture/create-a-generic-networking-layer-using-async-await-9168b6281721)
 - [Dependency Injection in Swift using latest Swift features (2021)](https://www.avanderlee.com/swift/dependency-injection/)
 - [Swift Protocol Oriented Programming and Testing (2021)](https://arturgruchala.com/protocol-oriented-programming-unit-testing/) ([HN](https://news.ycombinator.com/item?id=28009230))
+- [Generating captions in Swift (2021)](https://jasdev.me/generating-captions)

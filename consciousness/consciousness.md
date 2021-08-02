@@ -67,3 +67,5 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [Is the universe conscious?](https://www.popularmechanics.com/science/a36329671/is-the-universe-conscious/) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/oo8v1o/is_the_universe_conscious/))
 - [The Interface Theory of Perception (2015)](https://link.springer.com/article/10.3758/s13423-015-0890-8) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/oouz0u/aldous_huxleys_last_essay_shakespeare_and/h62a1hd?utm_source=share&utm_medium=web2x&context=3))
 - [Plants Feel Pain and Might Even See (2021)](https://nautil.us/issue/104/harmony/plants-feel-pain-and-might-even-see?utm_source=twitter&utm_medium=post&utm_campaign=plants) ([Tweet](https://twitter.com/ndiakopoulos/status/1418955640752545793))
+- [Neuroscience of Consciousness | Oxford Academic](https://academic.oup.com/nc)
+- [Minimal physicalism as a scale-free substrate for cognition and consciousness (2021)](https://academic.oup.com/nc/article/2021/2/niab013/6334115) ([Tweet](https://twitter.com/drmichaellevin/status/1422190382645923842))

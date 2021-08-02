@@ -139,3 +139,4 @@
 - [Ask HN: Do you have a process or a framework to learn specific skills quickly? (2021)](https://news.ycombinator.com/item?id=28017289)
 - [Psionica](https://psionica.org/) - Open collective on a mission to augment thought for all.
 - [Awesome Tips](https://github.com/jbhuang0604/awesome-tips) - Research, working with mentors, writing papers.
+- [Perception shifting: Consolidating learned experience into action (2021)](https://markbao.com/journal/perception-shifting-consolidating-learned-experience-into-action)

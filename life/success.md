@@ -121,3 +121,4 @@ Success comes from not giving up and doing what you love.
 - [Change your environment, change your life.](https://twitter.com/david_perell/status/1414685400308793347)
 - [The unreasonable effectiveness of just showing up everyday (2021)](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/) ([HN](https://news.ycombinator.com/item?id=27833064))
 - ["Failures of Kindness"](https://jamesclear.com/great-speeches/failures-of-kindness-by-george-saunders) - The most important question is how to be kind (to others and to yourself) more consistently. ([Tweet](https://twitter.com/patrick_oshag/status/1421810858582319105))
+- [Beware of tight feedback loops (2020)](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/) ([HN](https://news.ycombinator.com/item?id=27482067))

@@ -14,3 +14,4 @@
 - [Wizard Zines Comics](https://wizardzines.com/comics/) ([Article](https://jvns.ca/blog/2021/05/02/publishing-comics/))
 - [MonkeyUser](https://www.monkeyuser.com/)
 - [Achewood](http://www.achewood.com/)
+- [Extra Ordinary Comics](https://www.exocomics.com/) ([IG](https://www.instagram.com/exocomics/))
