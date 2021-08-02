@@ -194,6 +194,7 @@
 - [react-calendar](https://github.com/veccu/react-calendar) - Headless Calendar UI Library based plugin system.
 - [React Aspen](https://github.com/NeekSandhu/react-aspen) - Most advanced nested tree renderer for React apps.
 - [react-map-interaction](https://github.com/strateos/react-map-interaction) - Add map like zooming and dragging to any element.
+- [Remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## Links
 

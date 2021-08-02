@@ -410,3 +410,4 @@
 - [KEDA](https://keda.sh/) - Kubernetes Event-driven Autoscaling. ([Code](https://github.com/kedacore/keda))
 - [E2E Framework](https://github.com/kubernetes-sigs/e2e-framework) - Experimental Go framework for E2E testing of Kubernetes cluster components.
 - [DevSpace](https://devspace.sh/) - Fastest Developer Tool for Kubernetes. ([Code](https://github.com/loft-sh/devspace))
+- [KubeArmor](https://kubearmor.com/) - Container-aware Runtime Security Enforcement System. ([Code](https://github.com/kubearmor/KubeArmor))
