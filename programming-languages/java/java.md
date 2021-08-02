@@ -66,3 +66,4 @@
 - [GraalVM at Facebook (2021)](https://medium.com/graalvm/graalvm-at-facebook-af09338ac519) ([HN](https://news.ycombinator.com/item?id=27782475))
 - [Thread Pools on the JVM](https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c) ([HN](https://news.ycombinator.com/item?id=27883847))
 - [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
+- [jgo](https://github.com/scijava/jgo) - Launch Java code from the CLI, installation-free.

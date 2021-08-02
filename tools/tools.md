@@ -195,6 +195,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Octopus.do](https://octopus.do/sitemap/resource/generator) - Generate Visual Sitemap from sitemap.xml, just write URL. ([HN](https://news.ycombinator.com/item?id=23600645))
 - [Buttondown](https://buttondown.email/) - Easiest way to run your newsletter in markdown.
 - [Transloadit](https://transloadit.com/) - File Uploading, Conversion & Processing for websites/apps.
+- [Quest AI](https://www.quest.ai/) - Design to live web pages automatically with nocode.
 - [FreeScout](https://freescout.net/) - Free self-hosted Zendesk & Help Scout alternative.
 - [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
@@ -244,6 +245,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [NoCo](https://noco.io/) - Low-code platform for engineering teams.
 - [listifi](https://listifi.app/) - Create lists to share with everyone. ([Code](https://github.com/neurosnap/listifi))
 - [HelloSign](https://www.hellosign.com/) - Most Powerful Platform for Business Agreements.
+- [Beseda](https://beseda.chat/) - Async communication for teams.
 - [Audiblogs](https://audiblogs.com/) - Listen to any web article in your podcast player.
 - [Vendia](https://vendia.net/) - Share data and code with partners in real time.
 - [Branch](https://branch.io/) - Mobile linking platform powering deep links and mobile attribution. ([iOS SDK](https://github.com/BranchMetrics/ios-branch-deep-linking-attribution))
@@ -535,3 +537,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Awesome DX (Developer Experience)](https://github.com/workos-inc/awesome-developer-experience)
 - [Favorite developer-first startups (2021)](https://twitter.com/zenorocha/status/1417493893466054656)
 - [Open Source Alternatives to Popular B2B Tools](https://www.btw.so/open-source-alternatives) ([HN](https://news.ycombinator.com/item?id=27915370))
+- [ProjectHunts](https://www.projecthunts.com/) - Discover the latest no-code projects built-in public.

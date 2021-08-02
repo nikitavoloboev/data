@@ -54,3 +54,4 @@
 - [Building an efficient and portable programming language with Zig (2021)](https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig) ([Lobsters](https://lobste.rs/s/qv9fgc/building_efficient_portable))
 - [Zig Makes Rust Cross-compilation Just Work (2021)](https://actually.fyi/posts/zig-makes-rust-cross-compilation-just-work/) ([HN](https://news.ycombinator.com/item?id=27245369)) ([Lobsters](https://lobste.rs/s/nkalmb/zig_makes_rust_cross_compilation_just))
 - [setup-zig](https://github.com/goto-bus-stop/setup-zig) - Use the Zig compiler in your Github Actions workflows.
+- [Full-Time Open Source: How Andrew Kelly Built Zig (2021)](https://corecursive.com/067-zig-with-andrew-kelley/) ([Reddit](https://www.reddit.com/r/programming/comments/owe4zl/fulltime_open_source_how_andrew_kelly_built_zig/))

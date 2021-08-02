@@ -30,3 +30,4 @@
 - [Maven](https://search.maven.org/) - Search Java packages. ([Code](https://github.com/sonatype-nexus-community/search-maven-org/))
 - [Java libraries I like (2020)](https://sizovs.net/2020/11/24/java-libraries-i-like/)
 - [JitPack](https://jitpack.io/) - Publish JVM and Android libraries.
+- [SciJava](https://scijava.org/) - Scientific libraries in Java. ([GitHub](https://github.com/scijava))
