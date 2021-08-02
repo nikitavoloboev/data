@@ -121,7 +121,7 @@
 - [Fancy defines](https://idiomdrottning.org/fancy-defines) ([Lobsters](https://lobste.rs/s/mgfnix/fancy_defines))
 - [Swift LispKit](https://github.com/objecthub/swift-lispkit) - Framework for building Lisp-based extension and scripting languages for macOS and iOS applications.
 - [Datalisp: Overview of design decisions (2021)](https://cloudflare-ipfs.com/ipfs/Qmeg9cAPVC18bdGuQtGJKtP7VcRQErnCApbcbgn1FaSq9T/datalisp.pdf)
-- [Lisp as an Alternative to Java (2000)](https://norvig.com/java-lisp.html) ([HN](https://news.ycombinator.com/item?id=26720403))
+- [Lisp as an Alternative to Java (2000)](https://norvig.com/java-lisp.html) ([HN](https://news.ycombinator.com/item?id=26720403)) ([HN](https://news.ycombinator.com/item?id=28036679))
 - [Spaik](https://github.com/snyball/spaik) - Lisp compiler/VM with a moving GC written in Rust.
 - [Orion](https://github.com/Wafelack/orion) - High level, purely functional Lisp dialect written in Rust.
 - [Joxa](https://github.com/joxa/joxa) - Modern Lisp for the Erlang VM.

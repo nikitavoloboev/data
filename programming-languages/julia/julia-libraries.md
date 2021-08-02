@@ -82,6 +82,7 @@
 - [DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award-winning Julia software library for the exploration of chaos and nonlinear dynamics.
 - [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) - Basic statistics for Julia.
 - [Infinity.jl](https://github.com/cjdoris/Infinity.jl) - Representation of infinity in Julia.
+- [LogarithmicNumbers.jl](https://github.com/cjdoris/LogarithmicNumbers.jl) - Logarithmic number system for Julia.
 
 ## NLP
 
