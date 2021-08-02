@@ -102,3 +102,4 @@ I try to give my full attention to any ideas I am working on.
 - [Your idea is brilliant, your idea is worthless (2016)](https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/) ([HN](https://news.ycombinator.com/item?id=27892066))
 - [My tiny side project has had more impact than my decade in the software industry (2021)](https://mike.zwobble.org/2021/08/side-projects-vs-industry/) ([HN](https://news.ycombinator.com/item?id=28025693))
 - [Project ideas for 2020](https://www.ianbicking.org/blog/2020/09/project-ideas-2020.html)
+- [How to come up with compelling startup ideas](https://twitter.com/gregisenberg/status/1422204739182342148)

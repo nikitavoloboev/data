@@ -39,6 +39,7 @@
 - [Be willing to speak up and take a stand.](https://twitter.com/SignatureTracyS/status/1405631228607295491)
 - [Put the most important thing out first in announcements, then justify why customers should be still happy.](https://news.ycombinator.com/item?id=27822035)
 - [Underrated superpower in life: asking for things you want](https://twitter.com/PaulYacoubian/status/1420433101331783682)
+- [I always prefer people who work and root for things rather than rooting or arguing against. Even if you hate something and want it to change you can still channel that into rooting for / building something which fixes it rather than just talking about it.](https://twitter.com/patrick_oshag/status/1422187629244715010)
 
 ## Links
 
