@@ -81,6 +81,7 @@
 - [Bootstrap.jl](https://github.com/juliangehring/Bootstrap.jl) - Statistical bootstrapping library for Julia.
 - [DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award-winning Julia software library for the exploration of chaos and nonlinear dynamics.
 - [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) - Basic statistics for Julia.
+- [Infinity.jl](https://github.com/cjdoris/Infinity.jl) - Representation of infinity in Julia.
 
 ## NLP
 
@@ -254,6 +255,7 @@
 - [PowerSystems.jl](https://github.com/NREL-SIIP/PowerSystems.jl) - Provides a rigorous data model using Julia structures to enable power systems analysis and modeling.
 - [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) - Framework for out-of-core and parallel execution.
 - [SplitApplyCombine.jl](https://github.com/JuliaData/SplitApplyCombine.jl) - Split-apply-combine strategies for Julia.
+- [PythonCall.jl](https://github.com/cjdoris/PythonCall.jl) - Python and Julia in harmony.
 
 ## Links
 

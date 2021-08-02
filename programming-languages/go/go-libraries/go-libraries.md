@@ -41,6 +41,7 @@
 - [ASCII Table Writer](https://github.com/olekukonko/tablewriter)
 - [argparse](https://github.com/akamensky/argparse) - Argparse for Go. Just because `flag` sucks.
 - [goterm](https://github.com/buger/goterm) - Advanced terminal output in Go.
+- [Kong](https://github.com/alecthomas/kong) - Command-line parser for Go.
 
 ## Test
 
