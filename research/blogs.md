@@ -62,6 +62,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Awni Hannun](https://awni.github.io/) - Writing About Machine Learning.
 - [Phiresky](https://phiresky.github.io/blog/) ([Code](https://github.com/phiresky/blog))
 - [Michele Bertasi](https://blog.mbrt.dev/)
+- [Matt Rickard](https://matt-rickard.com/archive/)
 
 ## Links
 

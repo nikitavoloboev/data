@@ -80,3 +80,4 @@
 - [Bloom Filters - Much, much more than a space efficient hashmap! (2020)](https://boyter.org/posts/bloom-filter/)
 - [Ribbon filter: practically smaller than Bloom and Xor (2021)](https://arxiv.org/abs/2103.02515) ([Article](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/))
 - [B-tree Path Hints](https://github.com/tidwall/btree/blob/master/PATH_HINT.md) ([HN](https://news.ycombinator.com/item?id=28008541))
+- [How Multiplayer Data Structures Work (2021)](https://matt-rickard.com/collaborative-data-types/)

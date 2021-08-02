@@ -31,3 +31,4 @@ I share some [recipes I like](recipes.md).
 - [Based Cooking](https://based.cooking/) - Simple online cookbook without ads and obese web design. ([Code](https://github.com/lukesmithxyz/based.cooking))
 - [Cheap Vegan Food Resources](https://eukaryotewritesblog.com/cheap-vegan-food-resources/)
 - [Is Coconut Oil healthy for cooking?](https://www.reddit.com/r/nutrition/comments/o7cent/is_coconut_oil_healthy/)
+- [Limiting Steps (2021)](https://matt-rickard.com/limiting-steps/)

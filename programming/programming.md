@@ -421,3 +421,4 @@
 - [Common Systems Programming Optimizations & Tricks (2019)](https://paulcavallaro.com/blog/common-systems-programming-optimizations-tricks/)
 - [The State of Developer Ecosystem in 2021 Infographic](https://www.jetbrains.com/lp/devecosystem-2021/) ([HN](https://news.ycombinator.com/item?id=27856283))
 - [Creative Code Management (2021)](https://www.bit-101.com/blog/2021/08/creative-code-management/) ([HN](https://news.ycombinator.com/item?id=28028610))
+- [Reflections on 10,000 Hours of Programming (2021)](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)

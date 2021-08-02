@@ -26,3 +26,4 @@
 - [Sharec](https://github.com/lamartire/sharec) - Store your configs in one place and share between projects without any pain. ([Docs](https://sharec.js.org/))
 - [Gura](https://github.com/gura-conf/gura) - File format for configuration files. Readable as YAML and simple as TOML. ([Web](https://gura.netlify.app/))
 - [My wish-list for the next YAML (2021)](https://drewdevault.com/2021/07/28/The-next-YAML.html)
+- [Virgo: a Graph-based Configuration Language (2020)](https://matt-rickard.com/virgo-lang/)

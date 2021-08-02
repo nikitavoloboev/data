@@ -100,3 +100,4 @@ Learning to build [startups](startups/startups.md).
 - [Building Paid Communities, Brainstorming Membership Site Ideas, Quitting Your Job (2021)](https://open.spotify.com/episode/6da18PQNxzswKkS98y2Qqk?si=zC372HhSQoaCNe0YCf_KJw)
 - [Ask HN: How do you know when to sell your business? (2021)](https://news.ycombinator.com/item?id=27979749)
 - [Apple is now an antifragile company (2021)](https://tidbits.com/2021/07/30/apple-is-now-an-antifragile-company/) ([HN](https://news.ycombinator.com/item?id=28030327))
+- [Economics of Bundling and Unbundling (2021)](https://matt-rickard.com/bundling-unbundling-economics/)

@@ -214,3 +214,4 @@
 - [Building a Curve25519 Hardware Accelerator (2021)](https://www.bunniestudios.com/blog/?p=6140) ([HN](https://news.ycombinator.com/item?id=27845274))
 - [Ask HN: Which vintage computers do you find interesting? (2021)](https://news.ycombinator.com/item?id=27909934)
 - [Nothing](https://nothing.tech/) - Technology should fade into the background and feel like nothing.
+- [How does n-key rollover work? (2021)](https://www.youtube.com/watch?v=2lPzTU-3ONI)
