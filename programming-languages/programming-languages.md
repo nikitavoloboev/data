@@ -223,3 +223,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Lizard](https://github.com/terryyin/lizard) - Code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [Abstracting Definitional Interpreters: Functional Pearl](https://plum-umd.github.io/abstracting-definitional-interpreters/) ([Code](https://github.com/plum-umd/abstracting-definitional-interpreters))
 - [Lang Jam](https://github.com/langjam/langjam) - Create a programming language in a weekend. ([HN](https://news.ycombinator.com/item?id=28021161))
+- [flex](https://github.com/westes/flex) - Tool for generating scanners: programs which recognize lexical patterns in text.

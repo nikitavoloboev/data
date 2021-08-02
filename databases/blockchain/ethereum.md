@@ -258,3 +258,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [MEV Resources](https://github.com/0xalpharush/awesome-MEV-resources) - Get up to speed on Maximum Extractable Value.
 - [useWallet()](https://github.com/aragon/use-wallet) - All-in-one solution to connect a dapp to an Ethereum provider.
 - [List of Solidity practice projects (2021)](https://twitter.com/nateliason/status/1419626510357573633)
+- [web3-react](https://github.com/NoahZinsmeister/web3-react) - Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
