@@ -56,3 +56,4 @@
 - [kv-asset-handler](https://github.com/cloudflare/kv-asset-handler) - Open-source library for managing the retrieval of static assets from Workers KV inside of a Cloudflare Workers function.
 - [Building real-time games using Workers, Durable Objects, and Unity (2021)](https://blog.cloudflare.com/building-real-time-games-using-workers-durable-objects-and-unity/)
 - [Miniflare](https://github.com/mrbbot/miniflare) - Fully-local Cloudflare Workers Simulator. ([Docs](https://miniflare.dev/))
+- [worker-auth-providers](https://github.com/subhendukundu/worker-auth-providers) - Open-source auth providers for Cloudflare workers.

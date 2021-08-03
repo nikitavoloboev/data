@@ -174,3 +174,4 @@
 - [LensKit](https://github.com/lenskit/lkpy) - Python Tools for Recommender Experiments. ([Web](https://lenskit.org/index.html))
 - [StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [ELFI](https://github.com/elfi-dev/elfi) - Engine for Likelihood-Free Inference. ([Docs](https://elfi.readthedocs.io/en/latest/))
+- [DaisyRec](https://github.com/AmazingDD/daisyRec) - Python toolkit dealing with rating prediction and item ranking issue.

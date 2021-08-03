@@ -89,6 +89,7 @@
 - [uvu](https://github.com/lukeed/uvu) - Extremely fast and lightweight test runner for Node.js and the browser.
 - [Spearmint](https://github.com/open-source-labs/spearmint) - Testing, simplified. An inclusive, accessibility-first GUI for generating clean, semantic JavaScript tests in only a few clicks of (or keystrokes) of a button. ([Web](https://www.spearmintjs.com/))
 - [StrykerJS](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends. ([Web](https://stryker-mutator.io/))
+- [xv](https://github.com/typicode/xv) - Simple, fast and small test runner.
 
 ## State management
 
@@ -563,6 +564,7 @@
 - [CCapture.js](https://github.com/spite/ccapture.js/) - Library to capture canvas-based animations.
 - [All Origins](https://github.com/gnuns/allOrigins) - Pull contents from any page via API (as JSON/P or raw) and avoid Same-origin policy problems.
 - [Univrse.js](https://github.com/libitx/univrse-js) - Universal schema for data serialization, signing and encryption. ([Web](https://univrse.network/))
+- [mississippi](https://github.com/maxogden/mississippi) - Collection of useful stream utility modules for writing better code using streams.
 
 ## Links
 

@@ -526,3 +526,4 @@
 - [Algorithmic Concept-based Explainable Reasoning (2021)](https://arxiv.org/abs/2107.07493) ([Tweet](https://twitter.com/PetarV_93/status/1415937593225760771))
 - [Tsinghua Machine Learning Group](https://ml.cs.tsinghua.edu.cn/) ([GitHub](https://github.com/thu-ml))
 - [Zero-Shot Learning Resources](https://github.com/sbharadwajj/awesome-zero-shot-learning)
+- [Machine Learning Collection](https://github.com/microsoft/machine-learning-collection)
