@@ -83,3 +83,4 @@
 - [denu](https://github.com/thangngoc89/denu) - Toy OCaml builder.
 - [OCaml By Example](https://o1-labs.github.io/ocamlbyexample/)
 - [OCaml Programming: Correct + Efficient + Beautiful Lectures (2021)](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
+- [Writing a REST API with Dream (2021)](https://jsthomas.github.io/ocaml-dream-api.html) ([Code](https://github.com/jsthomas/sensors))

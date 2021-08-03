@@ -86,3 +86,4 @@
 - [Erda](https://github.com/erda-project/erda) - Enterprise-grade application building, deploying, monitoring platform.
 - [DevOps Engineering Course for Beginners (2021)](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
 - [How to improve your website’s uptime (2021)](https://www.reddit.com/r/RedditEng/comments/obqtfm/solving_the_three_stooges_problem/)
+- [Peanut](https://github.com/Clivern/Peanut) - Deploy Databases and Services Easily for Development and Testing Pipelines. ([Web](https://clivern.github.io/Peanut/))

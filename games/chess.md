@@ -115,3 +115,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Chess : My journey to 1800 (2021)](https://bharathi.xyz/chess/chess-1800.html)
 - [OTB Chess](https://otbchess.org/) - Place where people can find opponents to play Chess Over the Board.
 - [Becoming a Chess Grandmaster (2021)](https://nextlevelchess.blog/how-to-become-a-grandmaster-in-chess/) ([HN](https://news.ycombinator.com/item?id=27948000))
+- [Prettier Lichess](https://prettierlichess.github.io/) - Lichess, but prettier. ([Code](https://github.com/prettierlichess/prettierlichess))

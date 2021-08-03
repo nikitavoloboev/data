@@ -117,3 +117,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Personal Finance Reddit Wiki](https://www.reddit.com/r/personalfinance/wiki/index)
 - [FerrumFIX](https://github.com/neysofu/ferrum-fix) - Financial Information eXchange protocol implemented in Rust.
 - [If You Want To Transform IT, Start With Finance (2021)](https://zwischenzugs.com/2021/07/12/if-you-want-to-transform-it-start-with-finance/) ([HN](https://news.ycombinator.com/item?id=27825211))
+- [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)

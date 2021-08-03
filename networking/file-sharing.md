@@ -72,3 +72,4 @@
 - [sfz](https://github.com/weihanglo/sfz) - Simple static file serving command-line tool written in Rust.
 - [Streamwo](https://streamwo.com/) - Simple video hosting & sharing.
 - [Estuary](https://estuary.tech/) - Use any browser and our API to store public data on the Filecoin Network and retrieve it from anywhere, anytime.
+- [S3Sync](https://github.com/larrabee/s3sync) - Really fast sync tool for S3.
