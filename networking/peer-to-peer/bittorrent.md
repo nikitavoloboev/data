@@ -60,3 +60,4 @@
 - [dht-crawler](https://github.com/mmathys/dht-crawler) - Minimal BitTorrent crawler and scheduler with RethinkDB backend to collect, analyse and store peers.
 - [BitTorrent Turns 20: The File-Sharing Revolution Revisited (2021)](https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/) ([HN](https://news.ycombinator.com/item?id=27719222))
 - [Nebula Crawler](https://github.com/dennis-tra/nebula-crawler) - libp2p DHT crawler that gathers information about running nodes in the network.
+- [bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol) - Simple, robust, BitTorrent wire protocol implementation in Node.js.
