@@ -271,3 +271,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Motionbox](https://motionbox.io/) - Collaborative video editing and motion graphics tool.
 - [Better web video with AV1 codec (2019)](https://dev.to/evilmartians/better-web-video-with-av1-codec-52kd)
 - [Confrere](https://confrere.com/) - Professional video calling, without the hassle.
+- [Sendspark](https://www.sendspark.com/video-platform/request-videos) - Request Videos from Customers, Colleagues or Friends.

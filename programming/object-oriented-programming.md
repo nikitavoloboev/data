@@ -35,3 +35,4 @@
 - [Data-oriented design or why you might shoot yourself in the foot with OOP (2009)](https://gamesfromwithin.com/data-oriented-design) ([HN](https://news.ycombinator.com/item?id=27658706))
 - [Classes vs. Prototypes: Some Philosophical and Historical Observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.4713&rep=rep1&type=pdf)
 - [Examples of good OOP code (2021)](https://lobste.rs/s/bcrtrj/please_send_me_examples_good_oop_code)
+- [Книга о принципах SOLID и объектно-ориентированном дизайне программ](https://ota-solid.vercel.app/) ([Code](https://github.com/open-tech-authors/solid))

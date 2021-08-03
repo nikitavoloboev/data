@@ -345,3 +345,4 @@
 - [Aligning a Button Label Vertically (2021)](https://ishadeed.com/article/button-label-alignment/)
 - [CSS Foundations Online Workshop - Emma Bostian (2021)](https://frontendmasters.com/workshops/css-foundations/) ([Tweet](https://twitter.com/EmmaBostian/status/1422171564632649739))
 - [sanitize.css](https://github.com/csstools/sanitize.css) - CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. ([Web](https://csstools.github.io/sanitize.css/))
+- [Never remove CSS outlines (2013)](https://www.a11yproject.com/posts/2013-01-25-never-remove-css-outlines/)
