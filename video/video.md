@@ -272,3 +272,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Better web video with AV1 codec (2019)](https://dev.to/evilmartians/better-web-video-with-av1-codec-52kd)
 - [Confrere](https://confrere.com/) - Professional video calling, without the hassle.
 - [Sendspark](https://www.sendspark.com/video-platform/request-videos) - Request Videos from Customers, Colleagues or Friends.
+- [Supersearch](https://www.supersearch.ai/landingPage) - Copy code from inside any coding video and paste in your text editor and run it.

@@ -48,7 +48,7 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [IKEA Tiny House](https://www.architecturaldigest.com/story/ikea-tiny-house)
 - [ICON](https://www.iconbuild.com/) - 3D-Printed Homes for Sale.
 - [Automate Construction](https://automate.construction/) - Construction Industry Is Transforming.
-- [Cover](https://buildcover.com/) - Making thoughtfully designed and well-built homes for everyone.
+- [Cover](https://buildcover.com/) - Making thoughtfully designed and well-built homes for everyone. ([IG](https://www.instagram.com/coverbuild/))
 - [Dwelling](https://dwelling.co/) - Home buying for humans.
 - [Favorite furniture brand? (2021)](https://twitter.com/Suhail/status/1378474655640473602)
 - [Compass](https://www.compass.com/) - Real Estate, Homes for Sale & Apartments for Rent.

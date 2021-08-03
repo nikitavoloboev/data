@@ -527,3 +527,4 @@
 - [Tsinghua Machine Learning Group](https://ml.cs.tsinghua.edu.cn/) ([GitHub](https://github.com/thu-ml))
 - [Zero-Shot Learning Resources](https://github.com/sbharadwajj/awesome-zero-shot-learning)
 - [Machine Learning Collection](https://github.com/microsoft/machine-learning-collection)
+- [Open MLOps – Open-Source Production Machine Learning (2021)](https://datarevenue.com/en-blog/open-mlops-open-source-production-machine-learning) ([HN](https://news.ycombinator.com/item?id=28052182))

@@ -76,3 +76,4 @@
 - [Clang and LLVM Tutorial](https://github.com/lijiansong/clang-llvm-tutorial) - AST Interpreter, Function Pointer Analysis, Value Range Analysis, Data-Flow Analysis, Andersen Pointer Analysis, LLVM Backend.
 - [LLVM Internals: The Bitcode Format (2021)](https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format)
 - [A Journey to Understand LLVM-IR (2021)](https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/#)
+- [Can we directly execute LLVM-IR?](https://news.ycombinator.com/item?id=28052929)

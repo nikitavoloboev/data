@@ -189,6 +189,7 @@ Here are few more things I liked, design wise.
 - [Amelia Wattenberger](https://wattenberger.com/)
 - [Travis Jeffery](https://travisjeffery.com/)
 - [Julian Lehr](https://julian.digital/)
+- [Fabrizio Rinaldi](https://www.fabrizio.so/) ([Tweet](https://twitter.com/linuz90/status/1422574429754822661))
 - [Andrew Bosworth](https://boz.com/)
 - [Julia Johnson](https://www.juliacodes.com/) ([Code](https://github.com/juliajcodes/JuliaCodesGatsby))
 - [Michael Edelstone](https://michaeledelstone.com/)

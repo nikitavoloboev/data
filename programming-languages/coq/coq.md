@@ -67,3 +67,4 @@
 - [Algebra Tactics](https://github.com/math-comp/algebra-tactics) - Experimental reflexive tactics for ring and field expressions.
 - [Coq encoding of ZFC and formalization of the textbook Elements of Set Theory](https://github.com/choukh/Set-Theory)
 - [Free Theorems from Separation Logic Specifications](https://github.com/logsem/free-theorems-sl)
+- [Example of Coq Plugin using Dune](https://github.com/ejgallego/coq-plugin-template) - Contains a template for writing a Coq plugin using the Dune build system.

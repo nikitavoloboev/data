@@ -77,6 +77,7 @@
 - [Neurons Unexpectedly Encode Information in the Timing of Their Firing (2021)](https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/) ([HN](https://news.ycombinator.com/item?id=27761706))
 - [The Human Brain in Numbers: A Linearly Scaled-Up Primate Brain (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2776484/) ([HN](https://news.ycombinator.com/item?id=28018481))
 - [NeuralEnsemble](http://neuralensemble.org/) - Community-based initiative to promote and co-ordinate open-source software development in neuroscience. ([Code](https://github.com/NeuralEnsemble))
+- [Fast, Efficient Neural Networks Copy Dragonfly Brains (2021)](https://spectrum.ieee.org/fast-efficient-neural-networks-copy-dragonfly-brains)
 
 ## Images
 
