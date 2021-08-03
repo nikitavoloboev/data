@@ -122,6 +122,7 @@
 - [The Y Combinator (Slight Return)](https://mvanier.livejournal.com/2897.html) ([HN](https://news.ycombinator.com/item?id=27673177))
 - [The mysterious Y combinator (2020)](https://bharathi.xyz/pl/the-mysterious-y-combinator.html)
 - [ICFP 2021 - Research Papers](https://icfp21.sigplan.org/track/icfp-2021-papers)
+- [A Functional Programming Language with Versions (2021)](https://arxiv.org/abs/2107.07301)
 
 ## Images
 

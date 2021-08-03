@@ -139,3 +139,4 @@
 - [A Fun List of Browsers](https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/) ([HN](https://news.ycombinator.com/item?id=27938988))
 - [Privacy Sandbox Timeline](https://privacysandbox.com/timeline)
 - [Ask HN: Why didn't the early web support more client side languages? (2021)](https://news.ycombinator.com/item?id=28008606)
+- [Memex](https://getmemex.com/) - Bookmarking for power users. Annotate, organize and share what you find online.

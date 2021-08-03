@@ -61,3 +61,4 @@
 - [Framework for newsletter design (2021)](https://twitter.com/HatchKolby/status/1387785746652749829)
 - [First Year of UI Dev Newsletter (2021)](https://www.silvestar.codes/articles/first-year-of-ui-dev-newsletter/)
 - [The Sample](https://sample.findka.com/) - Newsletters curated for you with machine learning. ([HN](https://news.ycombinator.com/item?id=27664020))
+- [Naive Newsletter Delivery (2021)](https://www.lpalmieri.com/posts/naive-newsletter-delivery/)
