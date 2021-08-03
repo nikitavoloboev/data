@@ -128,3 +128,4 @@
 - [Public key cryptography: OpenSSH private keys (2021)](https://www.thedigitalcatonline.com/blog/2021/06/03/public-key-cryptography-openssh-private-keys/)
 - [Nova](https://github.com/microsoft/Nova) - Recursive SNARKs without trusted setup.
 - [You Really Shouldn't Roll Your Own Crypto: Empirical Study of Vulnerabilities in Cryptographic Libs (2021)](https://arxiv.org/pdf/2107.04940.pdf) ([Lobsters](https://lobste.rs/s/qan9eo/you_really_shouldn_t_roll_your_own_crypto))
+- [Fine Grained Dataflow Tracking with Proximal Gradients (2021)](https://arxiv.org/abs/1909.03461) ([Code](https://github.com/gryan11/PGA))

@@ -344,3 +344,4 @@
 - [Favorite “quick wins” with CSS](https://twitter.com/JoshWComeau/status/1421193520300400642)
 - [Aligning a Button Label Vertically (2021)](https://ishadeed.com/article/button-label-alignment/)
 - [CSS Foundations Online Workshop - Emma Bostian (2021)](https://frontendmasters.com/workshops/css-foundations/) ([Tweet](https://twitter.com/EmmaBostian/status/1422171564632649739))
+- [sanitize.css](https://github.com/csstools/sanitize.css) - CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. ([Web](https://csstools.github.io/sanitize.css/))

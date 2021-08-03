@@ -342,3 +342,5 @@
 - [HPNet: Deep Primitive Segmentation Using Hybrid Representations (2021)](https://arxiv.org/abs/2105.10620) ([Code](https://github.com/SimingYan/HPNet))
 - [Portal](https://github.com/datature/portal) - Fastest way to load and visualize your deep neural networks on images and videos.
 - [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
+- [Learning A Single Network for Scale-Arbitrary Super-Resolution (2021)](https://arxiv.org/abs/2004.03791) ([Code](https://github.com/LongguangWang/ArbSR))
+- [PyTorch implementation for Vision Transformer](https://github.com/omihub777/ViT-CIFAR)

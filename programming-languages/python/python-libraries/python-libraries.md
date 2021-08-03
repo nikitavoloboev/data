@@ -441,6 +441,7 @@
 - [Shillelagh](https://github.com/betodealmeida/shillelagh) - Making it easy to query APIs via SQL.
 - [Chemics](https://github.com/chemics/chemics) - Python package for chemical reactor engineering.
 - [Mesa](https://github.com/projectmesa/mesa) - Agent-based modeling framework in Python. ([Docs](https://mesa.readthedocs.io/en/master/))
+- [borb](https://github.com/jorisschellekens/borb) - Library for creating and manipulating PDF files in python.
 
 ## Links
 

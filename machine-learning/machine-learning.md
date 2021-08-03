@@ -524,3 +524,4 @@
 - [In Search of Lost Domain Generalization (2020)](https://arxiv.org/abs/2007.01434) ([Code](https://github.com/facebookresearch/DomainBed))
 - [Understanding and improving out-of-distribution generalisation with Agnieszka Słowik (2021)](https://www.youtube.com/watch?v=W3XE9yD5H4A)
 - [Algorithmic Concept-based Explainable Reasoning (2021)](https://arxiv.org/abs/2107.07493) ([Tweet](https://twitter.com/PetarV_93/status/1415937593225760771))
+- [Tsinghua Machine Learning Group](https://ml.cs.tsinghua.edu.cn/) ([GitHub](https://github.com/thu-ml))
