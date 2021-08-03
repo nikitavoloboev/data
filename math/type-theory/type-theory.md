@@ -142,3 +142,4 @@
 - [Let's build a type system in Haskell!](https://luctielen.com/videos/lets_build_a_typesystem_in_haskell/)
 - [Bidirectional Typing Rules: A Tutorial (2013)](http://www.davidchristiansen.dk/tutorials/bidirectional.pdf) ([Code](https://github.com/luc-tielen/typesystem))
 - [The Hardest Problem in Type Theory [Uniqueness of Identity Proofs] (2021)](https://www.youtube.com/watch?v=m_PecfbEWik)
+- [Notes on type theory](https://github.com/ionathanch/ttzoo)

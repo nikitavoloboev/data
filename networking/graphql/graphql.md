@@ -225,3 +225,4 @@
 - [graphql-typescript-integration](https://github.com/arcanis/graphql-typescript-integration) - Automatically generates TypeScript definitions for your GraphQL queries and injects the plumbing required to make the gql queries work at runtime.
 - [graphitation](https://github.com/microsoft/graphitation) - GraphQL tooling & runtime support needed for MS Teams and beyond.
 - [Building A GraphQL Server With Next.js (2021)](https://lyonwj.com/blog/graphql-server-next-js-neo4j-aura-vercel)
+- [GraphCDN](https://github.com/StarpTech/GraphCDN) - Cache POST GraphQL Requests on Cloudflare edges with zero configuration.
