@@ -34,6 +34,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Mads Mikkelsen, In Conversation (2021)](https://www.vulture.com/article/mads-mikkelsen-in-conversation.html)
 - [Виктор Бабарико. Биография](https://www.youtube.com/watch?v=v7q_SKxNtW8)
 - [73 Questions With Lorde (2021)](https://www.youtube.com/watch?v=MSRBV9udKi8)
+- [A conversation between Nassim Nicholas Taleb and Stephen Wolfram at the Wolfram Summer School 2021](https://www.youtube.com/watch?v=_8j1XZ0N_wE)
 
 ## Interesting bios
 
