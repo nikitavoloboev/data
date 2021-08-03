@@ -47,7 +47,7 @@
 - [Be Super with TypeScript and Jared Palmer episode (2019)](https://overcast.fm/+N_6KEDwFo)
 - [typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 - [TSdx](https://github.com/palmerhq/tsdx) - Zero-config CLI for TypeScript package development.
-- [Programming TypeScript book Boris Cherny (2019)](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
+- [Programming TypeScript Book by Boris Cherny (2019)](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
 - [OneFraction](https://github.com/TrillCyborg/onefraction) - React/ApolloGraphQL/Node/Mongo demo written in Typescript.
 - [TypeScript 3.0: The unknown Type (2019)](https://mariusschulz.com/blog/typescript-3-0-the-unknown-type)
 - [Lobsters: What have you learned from adopting Typescript into an existing JS codebase? (2019)](https://lobste.rs/s/3ucfhp/what_have_you_learned_from_adopting)
@@ -165,6 +165,7 @@
 - [dpdm](https://github.com/acrazing/dpdm) - Static dependencies analyzer for your JavaScript and TypeScript projects.
 - [Design Patterns in TypeScript (2021)](https://www.youtube.com/watch?v=D40olxrDw38)
 - [ts-gyb](https://github.com/microsoft/ts-gyb) - Generating native code interfaces from TypeScript.
+- [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/)
 
 ## Images
 
