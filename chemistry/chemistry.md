@@ -25,3 +25,6 @@
 - [Chemical space is really big (2014)](https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article) ([HN](https://news.ycombinator.com/item?id=27634549))
 - [Chemistry Development Kit](https://cdk.github.io/) - Open Source modular Java libraries for Cheminformatics. ([Code](https://github.com/cdk/cdk))
 - [vabene](https://github.com/lukasturcani/vabene) - Python library for automatically making valid molecular graphs.
+- [stk](https://github.com/lukasturcani/stk) - Python library which allows construction and manipulation of complex molecules, as well as automatic molecular design and the creation of molecular databases.
+- [stk-vis](https://github.com/lukasturcani/stk-vis) - Cross-platform application for visualization of molecular databases.
+- [moldoc](https://github.com/lukasturcani/moldoc) - Sphinx extension for making better chemistry documentation.
