@@ -264,3 +264,4 @@
 - [Dense Matching](https://github.com/PruneTruong/DenseMatching) - Dense matching library based on PyTorch.
 - [TorchShard](https://github.com/KaiyuYue/torchshard) - Slicing a PyTorch Tensor Into Parallel Shards.
 - [Growing open-source: from Torch to PyTorch (2021)](https://soumith.ch/posts/2021/02/growing-opensource/)
+- [PyTorch implementation of "Supervised Contrastive Learning"](https://github.com/HobbitLong/SupContrast)

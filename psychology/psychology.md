@@ -28,3 +28,4 @@
 - [Reversals in psychology (2020)](https://www.gleech.org/psych)
 - [Lee Ross and the “Fundamental Attribution Error”](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b) ([HN](https://news.ycombinator.com/item?id=27815850))
 - [The 10 Must-Read Psychology Books Every Human Being Should Read (2021)](https://durmonski.com/reading-lists/must-read-psychology-books/)
+- [The Gervais Principle, Or The Office According to “The Office” (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)

@@ -86,9 +86,12 @@
 - [Chord](https://github.com/jarohen/chord) - Lightweight Clojure/ClojureScript library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 - [nomad](https://github.com/jarohen/nomad) - Configuration library designed to allow Clojure applications to travel painlessly between different environments.
 - [Recife](https://github.com/pfeodrippe/recife) - Model checker library in Clojure.
+- [merr](https://github.com/liquidz/merr) - Minimal and good enough error handling library for Clojure/ClojureScript.
+- [dad](https://github.com/liquidz/dad) - Small configuration management tool for Clojure.
 
 ## Links
 
 - [Clojure Libraries](https://clojure.org/community/libraries)
 - [Clojars](https://clojars.org/) - Easy to use community repository for open source Clojure libraries.
 - [How-to: Clojure libraries on Maven Central (2021)](https://www.juxt.pro/blog/maven-central)
+- [Antq](https://github.com/liquidz/antq) - Point out your outdated dependencies.

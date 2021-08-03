@@ -207,6 +207,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [Neco](https://github.com/Shougo/neco-vim) - Vim source for neocomplete/deoplete.
 
+## Clojure
+
+- [vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim.
+
 ## Ruby
 
 - [Endwise](https://github.com/tpope/vim-endwise) - Wisely add "end" in ruby, endfunction/endif/more in vim script, etc.
