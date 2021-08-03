@@ -14,3 +14,4 @@
 - [What Made Early Humans Smart (2021)](https://nautil.us/issue/102/hidden-truths/what-made-early-humans-smart) ([HN](https://news.ycombinator.com/item?id=27720885))
 - [Learning to Fly: Let's simulate evolution in Rust](https://pwy.io/en/posts/learning-to-fly-pt1/) ([Code](https://github.com/Patryk27/shorelark))
 - [Evol](https://github.com/godatadriven/evol) - Python grammar for evolutionary algorithms and heuristics. ([Docs](https://evol.readthedocs.io/en/latest/))
+- [Mating Contests Among Females May Shape Their Evolution (2021)](https://www.quantamagazine.org/mating-contests-among-females-may-shape-their-evolution-20210802/)

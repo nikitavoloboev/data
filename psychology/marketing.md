@@ -141,6 +141,7 @@
 - [Hacking is the opposite of marketing (2021)](https://macwright.com/2021/07/24/hacking-is-the-opposite-of-marketing.html) ([HN](https://news.ycombinator.com/item?id=27946127)) ([Tweet](https://twitter.com/tmcw/status/1419076667352522753))
 - [How to get to #1 on Product Hunt (2021)](https://twitter.com/tdinh_me/status/1418971317236338697)
 - [Ask HN: Good Book on Branding? (2021)](https://news.ycombinator.com/item?id=27985978)
+- [How do I get my first 1000 users?](https://twitter.com/sab8a/status/1422162888589037568)
 
 ## Images
 
