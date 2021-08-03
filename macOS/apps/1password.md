@@ -16,3 +16,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [1Password Connect Node SDK](https://github.com/1Password/connect-sdk-js)
 - [Hashicorp Vault 1Password Secrets Backend](https://github.com/1Password/vault-plugin-secrets-onepassword)
 - [1Password Security Design (2021)](https://1password.com/files/1Password-White-Paper.pdf)
+- [gokey](https://github.com/cloudflare/gokey) - Simple vaultless password manager in Go.

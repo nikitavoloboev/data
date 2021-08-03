@@ -55,6 +55,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Wilson](https://github.com/wilsonjs/wilson) - Blazing fast, opinionated static site generator for Preact.
 - [Cuttlebelle](https://github.com/cuttlebelle/cuttlebelle) - React static site generator that separates editing and code concerns. ([Web](https://cuttlebelle.com/))
 - [YOCaml](https://github.com/xhtmlboi/yocaml) - Static site generator, mostly written in OCaml.
+- [mkweb](https://github.com/rsms/mkweb) - Simple static website generator for NodeJS.
 
 ## Notes
 

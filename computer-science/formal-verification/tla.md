@@ -28,3 +28,4 @@
 - [PlusPy](https://github.com/tlaplus/PlusPy) - Python interpreter for TLA+ specifications.
 - [Scaffolding TLA+ (2021)](https://buttondown.email/hillelwayne/archive/scaffolding-tla/)
 - [Specification Refinement (2021)](https://www.hillelwayne.com/post/refinement/)
+- [tlacli](https://github.com/hwayne/tlacli) - CLI tool for TLA+.

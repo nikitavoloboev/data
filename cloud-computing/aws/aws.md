@@ -197,3 +197,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Amazon Web Services In Plain English (2019)](https://www.web3us.com/how-guides/amazon-web-services-plain-english) ([HN](https://news.ycombinator.com/item?id=27948209))
 - [AWS’s Egregious Egress (2021)](https://blog.cloudflare.com/aws-egregious-egress/) ([HN](https://news.ycombinator.com/item?id=27930151))
 - [TinyStacks](https://www.tinystacks.com/) - Fastest way to deploy your Docker app on AWS.
+- [EKS on speed (2021)](https://blog.3sky.dev/article/eks-with-speed/)

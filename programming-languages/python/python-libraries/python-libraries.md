@@ -72,6 +72,7 @@
 - [Kats](https://github.com/facebookresearch/Kats) - Toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis. ([Web](https://facebookresearch.github.io/Kats/))
 - [pymdp](https://github.com/infer-actively/pymdp) - Python implementation of active inference for Markov Decision Processes.
 - [pypc](https://github.com/infer-actively/pypc) - Predictive coding in Python.
+- [PyNN](https://github.com/NeuralEnsemble/PyNN) - Python package for simulator-independent specification of neuronal network models.
 
 ## Biology
 

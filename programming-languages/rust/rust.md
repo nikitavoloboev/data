@@ -528,3 +528,4 @@
 - [How to create small Docker images for Rust (2021)](https://kerkour.com/blog/rust-small-docker-image/)
 - [Black Hat Rust Book](https://academy.kerkour.com/black-hat-rust?coupon=BLOG)
 - [How to write slow Rust code (2021)](https://renato.athaydes.com/posts/how-to-write-slow-rust-code.html) - How I tried to port Lisp code to Rust and managed to get a much slower program. ([HN](https://news.ycombinator.com/item?id=28034072))
+- [Rust Cryptography Interest Group (RCIG)](https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo) - Coordination repo for all things Rust Cryptography oriented.

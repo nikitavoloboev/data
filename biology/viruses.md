@@ -84,3 +84,4 @@
 - [Linus Torvalds on mRNA Vaccines (2021)](https://lore.kernel.org/ksummit/CAHk-=wiB6FJknDC5PMfpkg4gZrbSuC3d391VyReM4Wb0+JYXXA@mail.gmail.com/) ([HN](https://news.ycombinator.com/item?id=27466374))
 - [What mRNA is good for, and what it maybe isn’t (2021)](https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt) ([HN](https://news.ycombinator.com/item?id=27681418))
 - [Испытания вакцин. Открытый научный семинар с Константином Севериновым (2021)](https://www.youtube.com/watch?v=5ebHY-M0JOU)
+- [CovidPass](https://covidpass.marvinsextro.de/) - Add your EU Digital COVID Certificates to your favorite wallet apps. ([Code](https://github.com/covidpass-org/covidpass))
