@@ -344,3 +344,4 @@
 - [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
 - [Learning A Single Network for Scale-Arbitrary Super-Resolution (2021)](https://arxiv.org/abs/2004.03791) ([Code](https://github.com/LongguangWang/ArbSR))
 - [PyTorch implementation for Vision Transformer](https://github.com/omihub777/ViT-CIFAR)
+- [Repulsive Curves](http://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveCurves/index.html) - Model 2D & 3D curves while avoiding self-intersection. ([Tweet](https://twitter.com/keenanisalive/status/1422318272800829440))

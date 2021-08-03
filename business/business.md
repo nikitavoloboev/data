@@ -40,6 +40,8 @@ Learning to build [startups](startups/startups.md).
 - [Having a flat company structure sounds great until you've lived it. Companies need structure and hierarchy to work.](https://twitter.com/iamharaldur/status/1395084530609004549)
 - [A small team of great engineers can make just a shocking amount of progress. This is one of the most unintuitive things for business people who tend to think more linearly in terms of team size vs. output.](https://twitter.com/jaltma/status/1395479778346426372)
 - [Most large companies are incompetent at doing or thinking about anything beyond their core competency.](https://twitter.com/austin_rief/status/1397526266442625032)
+- [What matters is not so much size [of an organization] but the distance between employees and their customers.](https://twitter.com/johnmaeda/status/1422510958195482630)
+- [In corporate jobs, the best employees make their manager’s lives easier which encourages giving them more scope and responsibility. You get there by being autonomous instead of needing regular guidance, bringing solutions not problems and taking ownership when you don’t have to.](https://twitter.com/Carnage4Life/status/1408423307494400004)
 
 ## Links
 

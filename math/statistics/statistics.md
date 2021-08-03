@@ -87,6 +87,7 @@
 - [Gaussian Processes: from one to many outputs (2021)](https://invenia.github.io/blog/2021/02/19/OILMM-pt1/)
 - [Workshop on Agent-Based Modeling (2021)](https://www.aapelivuorinen.com/blog/2021/01/22/agent-based-modeling-workshop/)
 - [Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/)
+- [Stochastic Processes: From Applications to Theory](https://people.bordeaux.inria.fr/pierre.delmoral/dm-penev.html)
 - [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/) ([HN](https://news.ycombinator.com/item?id=26312904))
 - [What are the most important statistical ideas of the past 50 years? (2021)](http://www.stat.columbia.edu/~gelman/research/unpublished/stat50.pdf) ([HN](https://news.ycombinator.com/item?id=26374788))
 - [Comments on ML "versus" statistics (2020)](https://sgfin.github.io/2020/01/31/Comments-ML-Statistics/)
@@ -114,3 +115,5 @@
 - [Gaussian Processes from Scratch (2019)](https://peterroelants.github.io/posts/gaussian-process-tutorial/)
 - [Bayesian Modeling and Computation in Python Book (2022)](https://www.routledge.com/Bayesian-Modeling-and-Computation-in-Python/Martin-Kumar-Lao/p/book/9780367894368)
 - [Darts, Dice, and Coins: Sampling from a Discrete Distribution (2011)](https://www.keithschwarz.com/darts-dice-coins/)
+- [Probability and Its Applications Book](https://people.bordeaux.inria.fr/pierre.delmoral/gips.html)
+- [Mean Field Simulation for Monte Carlo Integration (2013)](https://www.routledge.com/Mean-Field-Simulation-for-Monte-Carlo-Integration/Del-Moral/p/book/9781466504059)
