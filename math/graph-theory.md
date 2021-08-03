@@ -47,3 +47,4 @@
 - [Graphs (2017)](https://lonami.dev/blog/graphs/)
 - [How do DAGs help to reduce bias in causal inference?](https://stats.stackexchange.com/questions/445578/how-do-dags-help-to-reduce-bias-in-causal-inference)
 - [Algorithms Course - Graph Theory Tutorial from a Google Engineer (2019)](https://www.youtube.com/watch?v=09_LlHjoEiY)
+- [Master thesis: Minimum degree ordering (2021)](https://opensourc.es/blog/master-thesis-minimum-degree-ordering/)

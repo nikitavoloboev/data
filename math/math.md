@@ -281,3 +281,4 @@
 - [The Utility of Mathematics](http://www.catb.org/~esr/writings/utility-of-math/) ([HN](https://news.ycombinator.com/item?id=27879984))
 - [Convergence of Infinite Products (2008)](https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/)
 - [The Poincaré Conjecture, Explained (2021)](https://www.privatdozent.co/p/the-poincare-conjecture) ([HN](https://news.ycombinator.com/item?id=28021562))
+- [Discrete Optimization Course](https://www.coursera.org/learn/discrete-optimization)

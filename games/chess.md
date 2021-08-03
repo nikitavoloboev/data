@@ -116,3 +116,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [OTB Chess](https://otbchess.org/) - Place where people can find opponents to play Chess Over the Board.
 - [Becoming a Chess Grandmaster (2021)](https://nextlevelchess.blog/how-to-become-a-grandmaster-in-chess/) ([HN](https://news.ycombinator.com/item?id=27948000))
 - [Prettier Lichess](https://prettierlichess.github.io/) - Lichess, but prettier. ([Code](https://github.com/prettierlichess/prettierlichess))
+- [Ghess: How to write a Chess Engine (2021)](https://opensourc.es/blog/ghess-how-to-write-a-chess-engine/) ([Code](https://github.com/Wikunia/Ghess))

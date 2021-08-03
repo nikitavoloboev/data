@@ -35,3 +35,4 @@
 - [CSS Grid Courses (2021)](https://twitter.com/ryanflorence/status/1390777195778363392)
 - [Grids Part 1: To grid or not to grid (2020)](https://sarahmhigley.com/writing/grids-part1/)
 - [A Complete Guide to Grid (2021)](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Preventing a CSS Grid Blowout](https://css-tricks.com/preventing-a-grid-blowout/)

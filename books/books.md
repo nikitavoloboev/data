@@ -258,7 +258,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [1,000 Free Audio Books](http://www.openculture.com/freeaudiobooks)
 - [Read This Twice](https://readthistwice.com/) - Books worth reading twice.
 - [Holloway](https://www.holloway.com/) - Knowledge you can rely on. Modern book publisher.
-- [JSTOR Open Content Books](https://www.jstor.org/open/)
+- [JSTOR Open Content Books](https://www.jstor.org/open/) ([Search](https://www.jstor.org/action/doImageSearch))
 - [Public Books Database](https://www.publicbooks.org/public-books-database/)
 - [LibriVox](https://librivox.org/) - Free public domain audiobooks. ([HN](https://news.ycombinator.com/item?id=23558686))
 - [Standard Ebooks](https://standardebooks.org/ebooks/) ([HN](https://news.ycombinator.com/item?id=25138534))

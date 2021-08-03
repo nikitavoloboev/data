@@ -257,6 +257,9 @@
 - [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) - Framework for out-of-core and parallel execution.
 - [SplitApplyCombine.jl](https://github.com/JuliaData/SplitApplyCombine.jl) - Split-apply-combine strategies for Julia.
 - [PythonCall.jl](https://github.com/cjdoris/PythonCall.jl) - Python and Julia in harmony.
+- [Javis](https://github.com/Wikunia/Javis.jl) - Julia Animations and Visualizations. ([First YouTube video created with Javis](https://opensourc.es/blog/first-javis-video/))
+- [Juniper](https://github.com/lanl-ansi/Juniper.jl) - JuMP-based Nonlinear Integer Program Solver.
+- [ConstraintSolver.jl](https://github.com/Wikunia/ConstraintSolver.jl) - Constraint solver completely written in Julia.
 
 ## Links
 
@@ -268,3 +271,4 @@
 - [JuliaGraphs](https://juliagraphs.org/) - Graph packages for the Julia language. ([GitHub](https://github.com/JuliaGraphs))
 - [jlpkg](https://github.com/fredrikekre/jlpkg) - Command line interface (CLI) for Pkg, Julia's package manager.
 - [How to Create Software Packages with Julia Language (2021)](https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/)
+- [The Julia Package Manager (2020)](https://opensourc.es/blog/all-about-pkg/)

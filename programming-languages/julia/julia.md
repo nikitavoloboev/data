@@ -90,3 +90,4 @@
 - [Non-local compiler transformations in the presence of dynamic dispatch (2020)](https://www.youtube.com/watch?v=mQnSRfseu0c)
 - [Julia for Biologists | Elisabeth Roesch (2021)](https://www.youtube.com/watch?v=gRj7E5kYG1I) ([Code](https://github.com/ElisabethRoesch/Perspective_Julia_for_Biologists))
 - [FromPython](https://github.com/kskyten/FromPython.jl) - Python-to-Julia transpiler. Mainly intended for translating numerical code and wrapping Python packages to add multiple dispatch.
+- [Debugging in Julia - Two different ways (2021)](https://opensourc.es/blog/basics-debugging/)

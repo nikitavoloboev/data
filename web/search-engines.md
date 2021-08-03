@@ -144,4 +144,4 @@
 - [Apollo](https://github.com/amirgamil/apollo) - Unix-style personal search engine and web crawler for your digital footprint.
 - [APSE](https://apse.io/) - Personal Search Engine. ([HN](https://news.ycombinator.com/item?id=27965979))
 - [Time Series Similarity Search](https://www.pinecone.io/docs/examples/time-series/)
-- [How MDN's autocomplete search works (2021)](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
+- [How MDN's autocomplete search works (2021)](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/) ([HN](https://news.ycombinator.com/item?id=28051562))
