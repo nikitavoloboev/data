@@ -198,3 +198,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS’s Egregious Egress (2021)](https://blog.cloudflare.com/aws-egregious-egress/) ([HN](https://news.ycombinator.com/item?id=27930151))
 - [TinyStacks](https://www.tinystacks.com/) - Fastest way to deploy your Docker app on AWS.
 - [EKS on speed (2021)](https://blog.3sky.dev/article/eks-with-speed/)
+- [honeyaws](https://github.com/honeycombio/honeyaws) - Observability for your AWS load balancers, CloudFront, and more.

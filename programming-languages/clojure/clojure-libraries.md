@@ -85,6 +85,7 @@
 - [Chime](https://github.com/jarohen/chime) - Really lightweight Clojure scheduler.
 - [Chord](https://github.com/jarohen/chord) - Lightweight Clojure/ClojureScript library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 - [nomad](https://github.com/jarohen/nomad) - Configuration library designed to allow Clojure applications to travel painlessly between different environments.
+- [Recife](https://github.com/pfeodrippe/recife) - Model checker library in Clojure.
 
 ## Links
 

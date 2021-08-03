@@ -260,4 +260,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [List of Solidity practice projects (2021)](https://twitter.com/nateliason/status/1419626510357573633)
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
 - [Rocket Pool](https://www.rocketpool.net/) - Next generation Ethereum proof of stake (PoS) infrastructure service and pool. ([Code](https://github.com/rocket-pool/rocketpool))
-- [TrueBlocks Core](https://github.com/TrueBlocks/trueblocks-core) - Lightweight, local-first index of the full Ethereum Blockchain. ([Docs](https://docs.trueblocks.io/))
+- [TrueBlocks](https://github.com/TrueBlocks/trueblocks-core) - Lightweight, local-first index of the full Ethereum Blockchain. ([Docs](https://docs.trueblocks.io/))
