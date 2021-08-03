@@ -195,6 +195,7 @@
 - [React Aspen](https://github.com/NeekSandhu/react-aspen) - Most advanced nested tree renderer for React apps.
 - [react-map-interaction](https://github.com/strateos/react-map-interaction) - Add map like zooming and dragging to any element.
 - [Remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+- [React Scroll Parallax](https://github.com/jscottsmith/react-scroll-parallax) - React components to create parallax scroll effects for banners, images or any other DOM elements.
 
 ## Links
 

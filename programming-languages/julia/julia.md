@@ -89,3 +89,4 @@
 - [What's bad about Julia? (2021)](https://viralinstruction.com/posts/badjulia/) ([HN](https://news.ycombinator.com/item?id=27960865)) ([Lobsters](https://lobste.rs/s/xivnsc/what_s_bad_about_julia))
 - [Non-local compiler transformations in the presence of dynamic dispatch (2020)](https://www.youtube.com/watch?v=mQnSRfseu0c)
 - [Julia for Biologists | Elisabeth Roesch (2021)](https://www.youtube.com/watch?v=gRj7E5kYG1I) ([Code](https://github.com/ElisabethRoesch/Perspective_Julia_for_Biologists))
+- [FromPython](https://github.com/kskyten/FromPython.jl) - Python-to-Julia transpiler. Mainly intended for translating numerical code and wrapping Python packages to add multiple dispatch.

@@ -39,7 +39,8 @@
 - [Terraform at Scale — Modualized Hierachical Layout (2020)](https://medium.com/faun/terraform-at-scale-modualized-hierachical-layout-cb5dbe5a368d) ([HN](https://news.ycombinator.com/item?id=24754778))
 - [Terraform Examples](https://github.com/futurice/terraform-examples) - Terraform samples for all the major clouds you can copy and paste.
 - [Pre Commit Terraform](https://github.com/antonbabenko/pre-commit-terraform) - Pre Commit git hooks to take care of Terraform configurations.
-- [Terragrunt](https://github.com/gruntwork-io/terragrunt) - Thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [Terragrunt](https://github.com/gruntwork-io/terragrunt) - Thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. ([Web](https://terragrunt.gruntwork.io/))
+- [Example infrastructure-live for Terragrunt](https://github.com/gruntwork-io/terragrunt-infrastructure-live-example)
 - [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
 - [Anton Babenko videos on Terraform](https://www.youtube.com/user/cyberbob37/playlists)
 - [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests. ([Web](https://www.infracost.io/))

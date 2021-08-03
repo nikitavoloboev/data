@@ -54,3 +54,4 @@
 - [Terrain Builder](https://github.com/FarazzShaikh/Terrain-Builder) - Procedural terrain using Three.js and perlin noise, Now Accelerated by your GPU.
 - [threepp](https://github.com/markaren/threepp) - C++17 port of three.js.
 - [Sketchbook](https://github.com/swift502/Sketchbook) - 3D playground built on three.js and cannon.js.
+- [Magical Marbles in Three.js](https://github.com/mattrossman/magic-marble-tutorial) - Adding volumetric effects to a built-in Three.js shader.

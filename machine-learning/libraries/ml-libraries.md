@@ -173,3 +173,4 @@
 - [Gorse](https://github.com/zhenghaoz/gorse) - Open source recommender system service written in Go. ([Web](https://gorse.io/)) ([HN](https://news.ycombinator.com/item?id=27866289))
 - [LensKit](https://github.com/lenskit/lkpy) - Python Tools for Recommender Experiments. ([Web](https://lenskit.org/index.html))
 - [StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
+- [ELFI](https://github.com/elfi-dev/elfi) - Engine for Likelihood-Free Inference. ([Docs](https://elfi.readthedocs.io/en/latest/))
