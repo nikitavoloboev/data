@@ -411,3 +411,4 @@
 - [E2E Framework](https://github.com/kubernetes-sigs/e2e-framework) - Experimental Go framework for E2E testing of Kubernetes cluster components.
 - [DevSpace](https://devspace.sh/) - Fastest Developer Tool for Kubernetes. ([Code](https://github.com/loft-sh/devspace))
 - [KubeArmor](https://kubearmor.com/) - Container-aware Runtime Security Enforcement System. ([Code](https://github.com/kubearmor/KubeArmor))
+- [External Secrets](https://github.com/external-secrets/external-secrets) - Kubernetes operator reads information from a third party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. ([Docs](https://external-secrets.io/))
