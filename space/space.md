@@ -102,3 +102,4 @@
 - [As The Universe Expands, Does Space Actually Stretch? (2021)](https://www.forbes.com/sites/startswithabang/2021/05/25/as-the-universe-expands-does-space-actually-stretch/)
 - [Probing Planck scale physics with quantum Love (2021)](https://arxiv.org/abs/2107.07258)
 - [Live Starlink Satellite Map](https://satellitemap.space/) ([HN](https://news.ycombinator.com/item?id=27971969))
+- [Astronomy Photographer of the Year 2021 shortlist images](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)

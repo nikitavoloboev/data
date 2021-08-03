@@ -31,3 +31,4 @@
 - [Java libraries I like (2020)](https://sizovs.net/2020/11/24/java-libraries-i-like/)
 - [JitPack](https://jitpack.io/) - Publish JVM and Android libraries.
 - [SciJava](https://scijava.org/) - Scientific libraries in Java. ([GitHub](https://github.com/scijava))
+- [Jar Jar Links](https://github.com/shevek/jarjar) - Utility that makes it easy to repackage Java libraries and embed them into your own distribution.

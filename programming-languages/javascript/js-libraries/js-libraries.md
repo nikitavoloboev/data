@@ -561,6 +561,7 @@
 - [spacers](https://github.com/actuallyakash/spacers) - JS library that supports multiple spacers for controlling padding/margin, linking functionality & much more.
 - [CCapture.js](https://github.com/spite/ccapture.js/) - Library to capture canvas-based animations.
 - [All Origins](https://github.com/gnuns/allOrigins) - Pull contents from any page via API (as JSON/P or raw) and avoid Same-origin policy problems.
+- [Univrse.js](https://github.com/libitx/univrse-js) - Universal schema for data serialization, signing and encryption. ([Web](https://univrse.network/))
 
 ## Links
 

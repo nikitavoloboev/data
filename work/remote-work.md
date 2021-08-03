@@ -118,3 +118,4 @@
 - [The work-from-home future is destroying bosses' brains (2021)](https://ez.substack.com/p/the-work-from-home-future-is-destroying) ([HN](https://news.ycombinator.com/item?id=27461970))
 - [The future of the office is the clubhouse (2021)](https://app.mailbrew.com/s/newsletter/W1uyntRDIwk1)
 - [I went to the office for the first time. I hated it (2021)](https://www.reddit.com/r/cscareerquestions/comments/oosru6/i_went_to_the_office_for_the_first_time_i_fucking/) ([HN](https://news.ycombinator.com/item?id=27979964))
+- [I built a business that lets me live on the beach full time (2021)](https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html) ([HN](https://news.ycombinator.com/item?id=28027138))

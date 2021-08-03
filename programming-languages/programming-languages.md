@@ -219,7 +219,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [The next 700 programming languages (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf) ([Lobsters](https://lobste.rs/s/mgugbx/next_700_programming_languages_1966))
 - [Creating the Golfcart Programming Language (2021)](https://healeycodes.com/creating-the-golfcart-programming-language/)
 - [Sham: A DSL for Fast DSLs (2021)](https://programming-journal.org/2022/6/4/)
-- [Beautiful ideas in programming: generators and continuations (2021)](https://www.hhyu.org/posts/generator_and_continuation/)
+- [Beautiful ideas in programming: generators and continuations (2021)](https://www.hhyu.org/posts/generator_and_continuation/) ([HN](https://news.ycombinator.com/item?id=28034486))
 - [Lizard](https://github.com/terryyin/lizard) - Code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [Abstracting Definitional Interpreters: Functional Pearl](https://plum-umd.github.io/abstracting-definitional-interpreters/) ([Code](https://github.com/plum-umd/abstracting-definitional-interpreters))
 - [Lang Jam](https://github.com/langjam/langjam) - Create a programming language in a weekend. ([HN](https://news.ycombinator.com/item?id=28021161))

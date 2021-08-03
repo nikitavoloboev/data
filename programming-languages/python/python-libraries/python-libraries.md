@@ -471,3 +471,4 @@
 - [The State of Python Packaging in 2021](https://venthur.de/2021-06-26-python-packaging.html) ([Lobsters](https://lobste.rs/s/tufsem/state_python_packaging_2021))
 - [Python 3 Module of the Week](https://pymotw.com/3/) - Articles written by Doug Hellmann to demonstrate how to use the modules of the Python 3 standard library.
 - [conda-devenv](https://github.com/ESSS/conda-devenv) - Conda tool to work with multiple projects in development mode.
+- [luddite](https://github.com/jumptrading/luddite) - Checks for out-of-date package versions.
