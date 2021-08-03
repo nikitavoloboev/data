@@ -11,3 +11,4 @@
 - [Expo Snack](https://github.com/expo/snack) - Lets you to run complete React Native projects in the browser. ([Web](https://snack.expo.io/))
 - [Expo + Next.js Monorepo](https://github.com/nandorojo/expo-next-monorepo)
 - [VSCode Expo](https://github.com/expo/vscode-expo)
+- [Expo GitHub Action](https://github.com/expo/expo-github-action) - Publish, build or manage your Expo app with Github Actions.

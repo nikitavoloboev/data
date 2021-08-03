@@ -294,3 +294,4 @@
 - [Coordination-free Database Query Sharding with PostgreSQL (2021)](https://relistan.com/coordination-free-db-query-chunking)
 - [Postgres Full-Text Search: A Search Engine in a Database (2021)](https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database) ([HN](https://news.ycombinator.com/item?id=27973497))
 - [imgsmlr-server](https://github.com/jie123108/imgsmlr-server) - Simple image search service based on imgsmlr extension of PostgreSQL.
+- [pg_plan_inspector](https://github.com/s-hironobu/pg_plan_inspector) - Framework to monitor and improve the performance of PostgreSQL using Machine Learning methods.
