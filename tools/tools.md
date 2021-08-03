@@ -373,6 +373,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-Source Alternative to Intercom, Zendesk. ([HN](https://news.ycombinator.com/item?id=26501527))
 - [Imgur](https://imgur.com/) - Upload & browse images.
 - [ImgBB](https://imgbb.com/) - Free image hosting.
+- [SaaS Blocks](https://saasblocks.io/) - 250 tools for building a SaaS app.
 - [put.re](https://put.re/) - Privacy focused Imgur alternative.
 - [Zulip Chat](https://zulipchat.com/) - Combines the immediacy of real-time chat with an email threading model. ([Code](https://github.com/zulip/zulip/))
 - [Roam Research](https://roamresearch.com/) - Note-taking tool for networked thought.

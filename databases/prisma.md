@@ -61,3 +61,4 @@
 - [Prisma Day](https://www.prisma.io/day)
 - [Prismix](https://github.com/jamiepine/prismix) - Prisma schema mixer.
 - [Prismaliser](https://prismaliser.ovy.cloud/) - Visualise your Prisma schema. ([Code](https://github.com/Ovyerus/prismaliser))
+- [Cached Prisma](https://github.com/JoelLefkowitz/cached-prisma) - Prisma client abstraction that simplifies caching.
