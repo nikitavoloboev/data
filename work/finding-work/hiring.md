@@ -103,3 +103,4 @@
 - [Hiring, firing and retiring - Fathom Analytics (2021)](https://usefathom.com/above-board/hiring-firing-retiring)
 - [Pallet](https://pallet.xyz/) - Infrastructure for Modern Hiring.
 - [How can you evaluate the caliber of people at a company before joining it?](https://twitter.com/shreyas/status/1411394575877296128)
+- [Why don't tech companies pay their engineers to stay? (2021)](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9) ([HN](https://news.ycombinator.com/item?id=28049254))

@@ -64,4 +64,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
 - [Posix Permissions Are Weird (2021)](https://paulcavallaro.com/blog/posix-permissions-are-weird/)
 - [Unix – The Hole Hawg of Operating Systems (1999)](http://www.team.net/mjb/hawg.html) ([HN](https://news.ycombinator.com/item?id=28015229))
-- [Unix and Microservice Platforms (2021)](https://blog.deref.io/unix-and-microservice-platforms/)
+- [Unix and Microservice Platforms (2021)](https://blog.deref.io/unix-and-microservice-platforms/) ([HN](https://news.ycombinator.com/item?id=28039542))
