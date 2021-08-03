@@ -16,7 +16,7 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Maker](https://makerdao.com/en/) - Comprised of a decentralized stablecoin, collateral loans, and community governance. ([Forum](https://forum.makerdao.com/))
 - [Celo](https://celo.org/) - Platform for fast, secure, stable digital payments. ([GitHub](https://github.com/celo-org)) ([Code](https://github.com/celo-org/celo-monorepo)) ([Celo Blockchain Code](https://github.com/celo-org/celo-blockchain))
 - [Reserve](https://reserve.org/) - Flexible pool of stablecoins designed to reduce risk through diversification and decentralized governance. ([HN](https://news.ycombinator.com/item?id=25899418))
-- [Bolt Labs](https://boltlabs.tech/) - Instant, cheap and private payments.
+- [Bolt Labs](https://boltlabs.tech/) - Instant, cheap and private payments. ([GitHub](https://github.com/boltlabs-inc))
 - [Nimiq](https://www.nimiq.com/) - Simple, secure and censorship resistant cryptocurrency. ([Code](https://github.com/nimiq/core-rs-albatross))
 - [Iron Fish](https://ironfish.network/) - Private, anonymous, and easy to use cryptocurrency. ([Code](https://github.com/iron-fish/ironfish))
 - [MobileCoin Fog](https://github.com/mobilecoinfoundation/fog) - Private payments for mobile devices. ([HN](https://news.ycombinator.com/item?id=26713953))
