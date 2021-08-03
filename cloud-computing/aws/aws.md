@@ -27,7 +27,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [CloudMapper](https://github.com/duo-labs/cloudmapper) - Helps you analyze your Amazon Web Services (AWS) environments.
 - [AWS costs every programmer should know (2019)](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html) ([HN](https://news.ycombinator.com/item?id=20138409))
 - [awless](https://github.com/wallix/awless) - Mighty CLI for AWS.
-- [Easy Amazon EC2 Instance Comparison](https://ec2instances.info/)
+- [Easy Amazon EC2 Instance Comparison](https://ec2instances.info/) ([Code](https://github.com/vantage-sh/ec2instances.info))
 - [Buildkite Elastic CI Stack](https://github.com/buildkite/elastic-ci-stack-for-aws) - Gives you a private, autoscaling Buildkite Agent cluster.
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based applications without the boilerplate.
 - [The \$10m engineering problem (2019)](https://segment.com/blog/the-10m-engineering-problem/)
@@ -131,7 +131,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Deployment Framework](https://github.com/awslabs/aws-deployment-framework) - Extensive and flexible framework to manage and deploy resources across multiple AWS accounts and regions within an AWS Organization.
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
 - [AWS CLI Cheat Sheet](https://github.com/eon01/AWS-CheatSheet)
-- [Vantage](https://www.vantage.sh/) - Alternative AWS console, focused on user experience and cost transparency. ([HN](https://news.ycombinator.com/item?id=25750807))
+- [Vantage](https://www.vantage.sh/) - Alternative AWS console, focused on user experience and cost transparency. ([HN](https://news.ycombinator.com/item?id=25750807)) ([GitHub](https://github.com/vantage-sh))
 - [Pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Remove all resources from an AWS account.
 - [superwerker](https://github.com/superwerker/superwerker) - Automates the setup of an AWS Cloud environment with prescriptive best practices.

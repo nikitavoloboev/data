@@ -116,3 +116,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - ['No One Is Safe': How the Heatwave Has Battered the Wealthy World (2021)](https://www.nytimes.com/2021/07/17/climate/heatwave-weather-hot.html) ([HN](https://news.ycombinator.com/item?id=27871261))
 - [Criteria for high-quality carbon dioxide removal](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWGG6f)
 - [The recycling myth: A plastic waste solution littered with failure (2021)](https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/) ([HN](https://news.ycombinator.com/item?id=28018057))
+- [Heimdal](https://www.heimdalccu.com/) - Carbon neutral cement. ([HN](https://news.ycombinator.com/item?id=28036927))

@@ -131,6 +131,7 @@
 - [Superstruct](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 - [async-off](https://github.com/rauschma/async-off) - Make asynchronous TypeScript code synchronous.
 - [Earl](https://github.com/earl-js/earl) - Ergonomic, modern and type-safe assertion library for TypeScript. ([Web](https://earljs.dev/))
+- [FS Capacitor](https://github.com/mike-marcacci/fs-capacitor) - Filesystem-bufferred, passthrough stream that buffers indefinitely rather than propagate backpressure from downstream consumers.
 
 ## Links
 

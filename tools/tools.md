@@ -540,3 +540,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Open Source Alternatives to Popular B2B Tools](https://www.btw.so/open-source-alternatives) ([HN](https://news.ycombinator.com/item?id=27915370))
 - [ProjectHunts](https://www.projecthunts.com/) - Discover the latest no-code projects built-in public.
 - [Tools for less thought](https://chiefofstuff.substack.com/p/tools-for-less-thought)
+- [Use Spreadsheets Everywhere (2021)](https://www.simplethread.com/use-spreadsheets-everywhere/) ([HN](https://news.ycombinator.com/item?id=28049255))

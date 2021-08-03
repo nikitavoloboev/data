@@ -46,7 +46,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli support.
 - [SCION Internet Architecture](https://github.com/scionproto/scion)
 - [Everything curl - the book](https://ec.haxx.se) ([Code](https://github.com/bagder/everything-curl))
-- [Seastar](https://github.com/scylladb/seastar) - High performance server-side application framework. ([Web](http://seastar.io/)) ([Article](https://www.scylladb.com/2020/03/26/avi-kivity-at-core-c-2019/))
+- [Seastar](https://github.com/scylladb/seastar) - High performance server-side application framework. ([Web](http://seastar.io/)) ([Article](https://www.scylladb.com/2020/03/26/avi-kivity-at-core-c-2019/)) ([Awesome](https://github.com/dotnwat/awesome-seastar))
 - [ServiceTalk](https://github.com/apple/servicetalk/) - Networking framework that evolves with your application.
 - [Beginner Network Pentesting course notes](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
 - [Scale By The Bay 2019: Norman Maurer, Netty 5: Lessons Learned](https://www.youtube.com/watch?v=hvYqSz_BgUM&list=PLNESult6cnOlb1BAO4o2T3DdNbMnCpTjp&index=24&t=0s)

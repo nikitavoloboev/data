@@ -75,3 +75,4 @@
 - [Spot instances for personal servers (2021)](https://pitr.ca/2021-05-23-personal-spot) - Save 70% on personal servers.
 - [Hosting: Render (2021)](https://blog.placemark.io/2021/05/14/render.html)
 - [Self taught guide to cloud computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+- [Cloud Cost Handbook](https://handbook.vantage.sh/) ([Code](https://github.com/vantage-sh/handbook))
