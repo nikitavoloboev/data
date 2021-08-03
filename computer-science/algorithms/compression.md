@@ -56,3 +56,4 @@
 - [JPEG compression algorithm explained](https://photo.stackexchange.com/questions/125283/two-exactly-the-same-jpg-images-with-one-image-more-than-twice-the-file-size-of)
 - [NeuralCompression](https://github.com/facebookresearch/NeuralCompression) - Python repository dedicated to research of neural networks that compress data.
 - [Compressing Multisets with Large Alphabets (2021)](https://arxiv.org/abs/2107.09202) ([Code](https://github.com/facebookresearch/multiset-compression))
+- [Ouch](https://github.com/vrmiguel/ouch) - Easy and painless way of compressing and decompressing files in the terminal.

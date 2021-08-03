@@ -88,6 +88,7 @@
 - [Oscen](https://github.com/reedrosenbluth/oscen) - Rust Sound Synthesis Library.
 - [Dorico for iPad](https://new.steinberg.net/dorico/ipad/) - Music Notation App.
 - [Augmented Audio Libraries in Rust](https://github.com/yamadapc/augmented-audio)
+- [Signal](https://signal.vercel.app/) - Online MIDI Editor. ([Code](https://github.com/ryohey/signal))
 
 ## Inspiration
 

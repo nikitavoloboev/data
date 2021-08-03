@@ -105,3 +105,4 @@
 - [List of Medical (Imaging) Datasets](https://github.com/adalca/medical-datasets)
 - [musescore.com dataset](https://github.com/Xmader/musescore-dataset) - Dataset of all music sheets and users on musescore.com.
 - [generatedata.com](https://generatedata.com/) - Random data generator. ([Code](https://github.com/benkeen/generatedata))
+- [MTData](https://github.com/thammegowda/mtdata) - Tool automates collection and preparation of machine translation datasets.
