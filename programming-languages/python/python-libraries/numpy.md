@@ -18,3 +18,4 @@
 - [Math Inspector](https://github.com/MathInspector/MathInspector) - Visual programing environment for scientific computing with python. Based on numpy & scipy. ([Web](https://mathinspector.com/))
 - [Rolling Quantiles for NumPy](https://github.com/marmarelis/rolling-quantiles)
 - [Legate NumPy](https://github.com/nv-legate/legate.numpy) - Aspiring Drop-In Replacement for NumPy at Scale.
+- [numba-dppy](https://github.com/IntelPython/numba-dppy) - Extends Numba with a new backend to support compilation for Intel CPU and GPU architectures.

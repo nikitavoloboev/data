@@ -50,3 +50,4 @@
 - [Idris2-pkgs](https://github.com/claymager/idris2-pkgs) - Idris2 package repository for Nix.
 - [Idris version of Domain Modeling Made Functional Book](https://github.com/andorp/order-taking)
 - [Random proofs in Idris, Agda, and Coq](https://github.com/ionathanch/scraps)
+- [Katla](https://github.com/ohad/katla) - LaTeX code listing generator for Idris2.

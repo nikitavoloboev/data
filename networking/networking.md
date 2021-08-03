@@ -278,3 +278,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Installing A Home Network (2021)](https://www.youtube.com/watch?v=zC_naXcfTIE)
 - [IPv6 Watch](https://ipv6.watch/) ([HN](https://news.ycombinator.com/item?id=27985903))
 - [sockperf](https://github.com/Mellanox/sockperf) - Network Benchmarking Utility.
+- [The 5-Hour CDN (2021)](https://fly.io/blog/the-5-hour-content-delivery-network/) ([HN](https://news.ycombinator.com/item?id=28053168))

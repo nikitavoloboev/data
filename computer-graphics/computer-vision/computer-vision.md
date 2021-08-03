@@ -346,3 +346,5 @@
 - [PyTorch implementation for Vision Transformer](https://github.com/omihub777/ViT-CIFAR)
 - [Repulsive Curves](http://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveCurves/index.html) - Model 2D & 3D curves while avoiding self-intersection. ([Tweet](https://twitter.com/keenanisalive/status/1422318272800829440)) ([Code](https://github.com/icethrush/repulsive-curves))
 - [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](https://chenlin9.github.io/SDEdit/) ([Code](https://github.com/ermongroup/SDEdit))
+- [Region Similarity Representation Learning (2021)](https://arxiv.org/abs/2103.12902) ([Code](https://github.com/Tete-Xiao/ReSim))
+- [NeX: Real-time View Synthesis with Neural Basis Expansion (2021)](https://nex-mpi.github.io/) ([Code](https://github.com/nex-mpi/nex-code))
