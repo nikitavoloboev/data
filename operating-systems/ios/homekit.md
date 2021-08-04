@@ -3,7 +3,7 @@
 ## Links
 
 - [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) - Node.js implementation of HomeKit Accessory Server.
-- [Homebridge](https://homebridge.io/) - Lightweight NodeJS server that emulates the iOS HomeKit API. ([Code](https://github.com/homebridge/homebridge))
+- [Homebridge](https://homebridge.io/) - Lightweight NodeJS server that emulates the iOS HomeKit API. ([Code](https://github.com/homebridge/homebridge)) ([GitHub](https://github.com/homebridge))
 - [Homebridge Config UI X](https://github.com/oznu/homebridge-config-ui-x) - Monitor, configure and backup Homebridge from a browser.
 - [Homebridge Raspberry Pi Image](https://github.com/homebridge/homebridge-raspbian-image)
 - [hc](https://github.com/brutella/hc) - Lightweight framework to develop HomeKit accessories in Go.
@@ -20,3 +20,6 @@
 - [Arduino HomeKit ESP8266](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266) - Native Apple HomeKit accessory implementation for the ESP8266 Arduino core.
 - [This Smart Home Isn’t Stupid (2021)](https://www.youtube.com/watch?v=85yH56DS5mg)
 - [esp-homekit](https://github.com/maximkulkin/esp-homekit) - Apple HomeKit accessory server library for ESP-OPEN-RTOS.
+- [homebridge-z2m](https://github.com/itavero/homebridge-z2m) - Expose your Zigbee devices to HomeKit with ease, by integrating Zigbee2MQTT with Homebridge. ([Web](https://z2m.dev/))
+- [Homebridge Platform Plugin Template](https://github.com/homebridge/homebridge-plugin-template) - Template you can use to create your own Homebridge plugins.
+- [Homebridge UniFi Protect](https://github.com/hjdhjd/homebridge-unifi-protect) - Complete HomeKit integration for UniFi Protect.

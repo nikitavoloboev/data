@@ -125,3 +125,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Tylr](https://tylr.fun/) - Interactive demonstration of tile-based editing. ([Code](https://github.com/hazelgrove/tylr)) ([Tweet](https://twitter.com/dm_0ney/status/1414742742530498566)) ([HN](https://news.ycombinator.com/item?id=27926758))
 - [Elastic tabstops - a better way to indent and align code](https://nickgravgaard.com/elastic-tabstops/)
 - [Yi](https://github.com/yi-editor/yi) - Haskell-Scriptable Editor.
+- [Plate](https://github.com/udecode/plate) - Plugin framework for building rich text editors with slate. ([Web](https://plate.udecode.io/))

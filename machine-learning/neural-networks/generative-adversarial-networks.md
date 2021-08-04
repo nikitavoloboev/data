@@ -121,7 +121,7 @@
 - [Barbershop: GAN-based Image Compositing using Segmentation Masks (2021)](https://arxiv.org/abs/2106.01505) ([Code](https://github.com/ZPdesu/Barbershop))
 - [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/) ([HN](https://news.ycombinator.com/item?id=27606347)) ([Code](https://github.com/NVlabs/alias-free-gan))
 - [Training Generative Adversarial Networks in One Stage (2021)](https://arxiv.org/abs/2103.00430) ([Code](https://github.com/zju-vipa/OSGAN))
-- [Zero-Shot non-adversarial domain adaptation of pre-trained generators](https://github.com/rinongal/StyleGAN-nada)
+- [Zero-Shot non-adversarial domain adaptation of pre-trained generators](https://github.com/rinongal/StyleGAN-nada) ([Web](https://stylegan-nada.github.io/))
 - [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis (2021)](https://marcoamonteiro.github.io/pi-GAN-website/) ([Code](https://github.com/marcoamonteiro/pi-GAN))
 - [Diffusion Models Beat GANs on Image Synthesis (2021)](https://arxiv.org/abs/2105.05233) ([Code](https://github.com/openai/guided-diffusion))
 - [Realless](https://realless.glitch.me/) - Ways To Use Generative Adversarial Networks In Art.

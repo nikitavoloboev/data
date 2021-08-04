@@ -145,3 +145,4 @@
 - [APSE](https://apse.io/) - Personal Search Engine. ([HN](https://news.ycombinator.com/item?id=27965979))
 - [Time Series Similarity Search](https://www.pinecone.io/docs/examples/time-series/)
 - [How MDN's autocomplete search works (2021)](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/) ([HN](https://news.ycombinator.com/item?id=28051562))
+- [Evolution of Search Engines Architecture-Algolia New Search Architecture (2021)](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html) ([HN](https://news.ycombinator.com/item?id=28049847))

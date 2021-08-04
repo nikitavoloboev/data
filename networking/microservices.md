@@ -77,3 +77,4 @@
 - [The Future of Microservices? More Abstractions (2021)](https://thenewstack.io/the-future-of-microservices-more-abstractions/)
 - [RillRate](https://rillrate.com/) - Dynamic UI for bots, microservices, and IoT. ([GitHub](https://github.com/rillrate)) ([Code](https://github.com/rillrate/rillrate))
 - [Patterns of Microservices Architecture](https://philcalcado.com/microservices-patterns.html)
+- [Microservices Patterns Book (2018)](https://microservices.io/book) - With examples in Java.

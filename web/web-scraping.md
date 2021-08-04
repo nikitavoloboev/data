@@ -98,3 +98,4 @@
 - [CloudProxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. ([HN](https://news.ycombinator.com/item?id=27640217))
 - [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection.
 - [Schema API for the Semantic Web](https://schema.api.page/) - Extract structured content from the semantic web.
+- [DataHen Till](https://github.com/DataHenHQ/till) - Standalone tool that runs alongside your web scraper, and instantly makes your existing web scraper scalable, maintainable and unblockable. ([Web](https://till.datahen.com/)) ([HN](https://news.ycombinator.com/item?id=28059291))

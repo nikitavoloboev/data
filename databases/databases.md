@@ -153,6 +153,7 @@
 - [Memgraph](https://memgraph.com/) - In-Memory Cypher Graph Database.
 - [LemonGraph](https://github.com/NationalSecurityAgency/lemongraph) - Log-based transactional graph (nodes/edges/properties) database engine that is backed by a single file.
 - [Go SQL DB](https://github.com/auxten/go-sqldb) - Relational database that supports SQL queries for research purposes in Go.
+- [Skizze](https://github.com/skizzehq/skizze) - Probabilistic data structure service and storage.
 
 ## Tools
 

@@ -82,4 +82,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [RTK Query](https://rtk-query-docs.netlify.app/) - Data fetching and caching addon for Redux Toolkit. ([Code](https://github.com/rtk-incubator/rtk-query)) ([Tweet](https://twitter.com/acemarke/status/1333863983330299904))
 - [Functors - Redux (2020)](https://functional.christmas/2020/8)
 - [Let’s Learn Modern Redux! (with Mark Erikson) (2021)](https://www.youtube.com/watch?v=9zySeP5vH9c) ([Code](https://github.com/learnwithjason/lets-learn-redux-toolkit))
-- [Stop using the “container/presentational” pattern in Redux (2021)](https://medium.com/nmc-techblog/why-you-should-stop-using-the-container-presentational-pattern-in-redux-29b112406128)
+- [Stop using the “container/presentational” pattern in Redux (2021)](https://medium.com/nmc-techblog/why-you-should-stop-using-the-container-presentational-pattern-in-redux-29b112406128) ([Reddit](https://www.reddit.com/r/reactjs/comments/ox6cwk/why_you_should_stop_using_the/))

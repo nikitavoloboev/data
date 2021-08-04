@@ -394,3 +394,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [640 Pages in 15 Months (2021)](https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/)
 - [So you want to self-publish books and courses on programming (2021)](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
 - [Writing an iOS book: tools/process used (2021)](https://twitter.com/JordanMorgan10/status/1422189031547363328)
+- [The 4 Reading Levels: Different Ways To Read Different Books (2018)](https://www.thecuriousreader.in/features/reading-levels/)

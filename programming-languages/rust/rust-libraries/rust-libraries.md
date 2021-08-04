@@ -984,3 +984,4 @@
 - [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust)
 - [Rust Libs Team](https://github.com/rust-lang/libs-team) - Maintains and manages the Rust standard library, and makes sure crates in the Rust organization are maintained.
 - [Doku](https://github.com/anixe/doku) - Framework for building documentation with code-as-data methodology in mind.
+- [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - Library to easily and effortlessly integrate Cargo projects with Nix.

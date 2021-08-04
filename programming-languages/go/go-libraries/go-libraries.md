@@ -894,6 +894,8 @@
 - [memfs](https://github.com/psanford/memfs) - In-memory implementation of Go's `io/fs.FS` interface.
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go.
 - [scrapligo](https://github.com/scrapli/scrapligo) - Connecting to devices, specifically network devices (routers/switches/firewalls/etc.) via SSH and NETCONF.
+- [Cuckoo Filter](https://github.com/seiflotfy/cuckoofilter) - Bloom filter replacement for approximated set-membership queries.
+- [PubNub Go SDK](https://github.com/pubnub/go)
 
 ## Links
 

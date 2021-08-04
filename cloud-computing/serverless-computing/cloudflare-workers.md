@@ -57,3 +57,4 @@
 - [Building real-time games using Workers, Durable Objects, and Unity (2021)](https://blog.cloudflare.com/building-real-time-games-using-workers-durable-objects-and-unity/)
 - [Miniflare](https://github.com/mrbbot/miniflare) - Fully-local Cloudflare Workers Simulator. ([Docs](https://miniflare.dev/))
 - [worker-auth-providers](https://github.com/subhendukundu/worker-auth-providers) - Open-source auth providers for Cloudflare workers.
+- [Durable Objects: Easy, Fast, Correct — Choose three (2021)](https://blog.cloudflare.com/durable-objects-easy-fast-correct-choose-three/)

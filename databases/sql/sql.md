@@ -127,3 +127,4 @@
 - [Against SQL (2021)](https://scattered-thoughts.net/writing/against-sql/) ([HN](https://news.ycombinator.com/item?id=27791539)) ([Lobsters](https://lobste.rs/s/jxeg1b/against_sql))
 - [SQLBolt](https://sqlbolt.com/) - Interactive lessons and exercises to learn SQL. ([HN](https://news.ycombinator.com/item?id=27842067))
 - [Load CSV files and write SQL](https://superintendent.app/) ([HN](https://news.ycombinator.com/item?id=27871574))
+- [Why you should learn SQL (2019)](https://www.executeprogram.com/blog/why-you-should-learn-sql) ([HN](https://news.ycombinator.com/item?id=28057291))

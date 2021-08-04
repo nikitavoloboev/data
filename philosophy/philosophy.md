@@ -53,3 +53,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)
 - [The Beginning of Infinity](https://nav.al/infinity)
 - [On the State of Analytic Philosophy (2021)](http://dstrohmaier.com/state-of-analytic-philosophy/)
+- [Philosophers Should Care about Computational Complexity (2012)](https://www.scottaaronson.com/papers/philos.pdf)

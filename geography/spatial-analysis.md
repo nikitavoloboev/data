@@ -86,3 +86,4 @@
 - [Using Client-Side Map Data to Improve Real-Time Positioning (2021)](https://eng.lyft.com/using-client-side-map-data-to-improve-real-time-positioning-a382585ac6e)
 - [Maps with Django: GeoDjango, PostGIS and Leaflet (2021)](https://www.paulox.net/2021/07/19/maps-with-django-part-2-geodjango-postgis-and-leaflet/)
 - [three-geo](https://github.com/w3reality/three-geo) - 3D geographic visualization library.
+- [Mapus](https://github.com/alyssaxuu/mapus) - Real-time collaborative map tool.

@@ -106,3 +106,4 @@
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the Carbon Design System. ([Docs](https://carbon-svelte.vercel.app/))
 - [Sveltekit Starter](https://github.com/navneetsharmaui/sveltekit-starter) - Starter project created with Sveltekit, Typescript, Tailwindcss, Postcss, SCSS, Husky, ESLint, Prettier, Storybook, and Jest.
 - [Svelte + Capacitor](https://github.com/drannex42/svelte-capacitor) - Build hybrid mobile apps using Svelte and CapacitorJS with live reloading on Android and iOS.
+- [PostgreSQL, PostgREST and Svelte are a bliss to develop with](https://webgma.co.il/Articles/rapid-prototyping-with-postgrest-and-svelte/en/)

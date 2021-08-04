@@ -136,3 +136,4 @@
 - [react-query-auth](https://github.com/alan2207/react-query-auth) - Authenticate your react applications easily with react-query.
 - [Dynamic Row-Level Authorization on Web Maps using JWT (2021)](https://www.dimetric.io/post/dynamic-row-level-authorization-on-web-maps-using-jwt)
 - [Raider](https://github.com/DigeeX/raider) - Web authentication testing framework.
+- [OAuth2orize](https://github.com/jaredhanson/oauth2orize) - OAuth 2.0 authorization server toolkit for Node.js.

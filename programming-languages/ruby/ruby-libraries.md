@@ -12,6 +12,7 @@
 ## Web
 
 - [Rodauth](https://github.com/jeremyevans/rodauth) - Ruby's Most Advanced Authentication Framework.
+- [Apia](https://github.com/krystal/apia) - API framework for building a self-documenting HTTP API in any Ruby application (including Rails).
 
 ## Other
 

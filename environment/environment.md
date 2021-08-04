@@ -117,3 +117,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Criteria for high-quality carbon dioxide removal](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWGG6f)
 - [The recycling myth: A plastic waste solution littered with failure (2021)](https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/) ([HN](https://news.ycombinator.com/item?id=28018057))
 - [Heimdal](https://www.heimdalccu.com/) - Carbon neutral cement. ([HN](https://news.ycombinator.com/item?id=28036927))
+- [How we’re making Dropbox data centers 100% carbon neutral (2021)](https://dropbox.tech/infrastructure/making-dropbox-data-centers-carbon-neutral)

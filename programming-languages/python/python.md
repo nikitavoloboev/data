@@ -309,3 +309,5 @@
 - [Epic Python](https://epicpython.com/) - Fun exercise heavy approach to learning modern Python from scratch.
 - [SciPy 2021 Tutorials](https://www.youtube.com/playlist?list=PLYx7XA2nY5Geb1XY6mZU-35lgIfkDqaem)
 - [Replit.web: Python Framework With Built-in Database and Auth Support (2021)](https://blog.replit.com/replit-web) ([Tweet](https://twitter.com/amasad/status/1420479217805021184))
+- [PyArmor](https://github.com/dashingsoft/pyarmor) - Tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts. ([Web](http://pyarmor.dashingsoft.com/))
+- [The State Of Python In 2021](https://deprogrammaticaipsum.com/the-state-of-python-in-2021/)

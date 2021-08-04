@@ -12,6 +12,7 @@
 - [elixir-auth-google](https://github.com/dwyl/elixir-auth-google) - Minimalist Google OAuth Authentication for Elixir Apps.
 - [Ace](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
 - [Raxx](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
+- [Corsica](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
 
 ## DB
 

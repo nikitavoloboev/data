@@ -565,6 +565,8 @@
 - [All Origins](https://github.com/gnuns/allOrigins) - Pull contents from any page via API (as JSON/P or raw) and avoid Same-origin policy problems.
 - [Univrse.js](https://github.com/libitx/univrse-js) - Universal schema for data serialization, signing and encryption. ([Web](https://univrse.network/))
 - [mississippi](https://github.com/maxogden/mississippi) - Collection of useful stream utility modules for writing better code using streams.
+- [TinyEvents](https://github.com/sachinchoolur/tiny-events.js) - Tiny event utility library.
+- [lightGallery](https://github.com/sachinchoolur/lightGallery) - Lightweight, modular, JavaScript image and video lightbox gallery plugin. Available for React.js, Vue.js, Angular, and TypeScript. ([Web](https://www.lightgalleryjs.com/))
 
 ## Links
 

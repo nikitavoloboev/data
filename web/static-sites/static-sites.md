@@ -8,7 +8,6 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Zola](https://github.com/getzola/zola) - Fast static site generator in a single binary with everything built-in. ([Going Full Static with Zola](https://figbert.com/posts/going-full-static/)) ([Lobsters](https://lobste.rs/s/vqvzm9/going_full_static_with_zola)) ([My Zola Workflow](https://0xc45.com/blog/my-zola-workflow/)) ([Migrating my blog to Zola](https://mrkaran.dev/posts/migrating-to-zola/)) ([Lobsters 2](https://lobste.rs/s/byh0mf/migrating_my_blog_zola)) ([Terminimal theme](https://github.com/pawroman/zola-theme-terminimal/)) ([Sam Zola Theme](https://github.com/janbaudisch/zola-sam)) ([zerm - Minimalist and dark theme.](https://github.com/ejmg/zerm)) ([HN](https://news.ycombinator.com/item?id=26357389))
 - [Styx](https://styx-static.github.io/styx-site/) - Purely functional static site generator in Nix expression language.
 - [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator.
-- [elm-pages](https://github.com/dillonkearns/elm-pages) - Statically typed site generator for Elm.
 - [JuDoc](https://github.com/tlienart/JuDoc.jl) - Simple static site generator (SSG) oriented towards technical blogging (code, maths, ...) and light, fast-loading pages.
 - [Antwar](https://github.com/antwarjs/antwar) - Static site generator built with React and Webpack.
 - [Plot](https://github.com/JohnSundell/Plot) - DSL for writing type-safe HTML, XML and RSS in Swift.
