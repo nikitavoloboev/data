@@ -33,6 +33,7 @@
 - [C-Ray](https://github.com/VKoskiv/c-ray) - Small, simple path tracer written in C.
 - [Tungsten Renderer](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11.
 - [Ray Tracing Gems](https://link.springer.com/book/10.1007/978-1-4842-4427-2) - High-Quality and Real-Time Rendering with DXR and Other APIs.
+- [Ray Tracing Gems 2: Next Generation Real-Time Rendering with DXR, Vulkan, and OptiX (2021)](https://www.apress.com/gp/book/9781484271841) ([Code](https://github.com/Apress/Ray-Tracing-Gems-II))
 - [CUDA based Ray Tracer](https://github.com/xlnx/cuda-raytracer)
 - [Saturno](https://github.com/alvarosan/saturno) - Implementation of 'Ray Tracing in One Weekend' in Rust (and wasm).
 - [Ray tracing in Nim (2020)](https://nim-lang.org/blog/2020/06/30/ray-tracing-in-nim.html) ([HN](https://news.ycombinator.com/item?id=23707286))

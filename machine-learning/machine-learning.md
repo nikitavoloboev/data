@@ -529,3 +529,4 @@
 - [Machine Learning Collection](https://github.com/microsoft/machine-learning-collection)
 - [Open MLOps – Open-Source Production Machine Learning (2021)](https://datarevenue.com/en-blog/open-mlops-open-source-production-machine-learning) ([HN](https://news.ycombinator.com/item?id=28052182))
 - [A Gentle Introduction To Gradient Descent Procedure (2021)](https://machinelearningmastery.com/a-gentle-introduction-to-gradient-descent-procedure/)
+- [Stanford MLSys Seminars](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)

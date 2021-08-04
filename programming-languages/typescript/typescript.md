@@ -167,6 +167,7 @@
 - [ts-gyb](https://github.com/microsoft/ts-gyb) - Generating native code interfaces from TypeScript.
 - [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/)
 - [TypeScript Evolution — Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
+- [Optional Chaining: The ?. Operator in TypeScript](https://mariusschulz.com/blog/optional-chaining-the-operator-in-typescript) ([Lobsters](https://lobste.rs/s/hftt3k/optional_chaining_operator_typescript))
 
 ## Images
 

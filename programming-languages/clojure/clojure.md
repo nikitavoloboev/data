@@ -142,3 +142,4 @@
 - [Projectless literate Clojure with embedded SVG](https://geokon-gh.github.io/literate-clojure.html)
 - [Clojure - Source Libs and Builds (2021)](https://clojure.org/news/2021/07/09/source-libs-builds)
 - [6 Years of Professional Clojure (2021)](https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983)
+- [Web Development with Clojure Book](https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/) - Build Large, Maintainable Web Applications Interactively.

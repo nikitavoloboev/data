@@ -90,6 +90,7 @@
 - [dad](https://github.com/liquidz/dad) - Small configuration management tool for Clojure.
 - [Kern](https://github.com/blancas/kern) - Parser Combinators Library for Clojure.
 - [Morph](https://github.com/blancas/morph) - Library of Morphisms: Monoids, Functors, and Monads.
+- [Block Storage](https://github.com/greglook/blocks) - Clojure content-addressable data storage.
 
 ## Links
 
