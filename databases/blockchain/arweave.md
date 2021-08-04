@@ -24,3 +24,6 @@
 - [So you Find Yourself in a Bubble, Founder? | Arweave Open Web Fellowship (2021)](https://www.youtube.com/watch?v=0YtiN3Qv9aM)
 - [SmartWeave Testing](https://github.com/fabianriewe/SmartWeaveTesting) - Testing SmartWeave contract the easy way.
 - [arweave-rs](https://github.com/nestdotland/arweave-rs) - Arweave Rust SDK.
+- [arlocal](https://github.com/textury/arlocal) - Run a local Arweave gateway-like server.
+- [Textury](https://textury.org/) - Developer tools for the permanent web. ([GitHub](https://github.com/textury))
+- [arkb](https://github.com/textury/arkb) - Arweave Deploy that saves you data costs.

@@ -57,3 +57,4 @@
 - [Down to the silicon: how the Z80's registers are implemented (2014)](http://www.righto.com/2014/10/how-z80s-registers-are-implemented-down.html)
 - [Assembly Language and Computer Architecture (2018)](https://www.youtube.com/watch?v=L1ung0wil9Y)
 - [Reversing for dummies - x86 assembly and C code (2021)](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
+- [Uxn](https://wiki.xxiivv.com/site/uxn.html) - 8-bit virtual computer inspired by forth-machines, capable of running simple tools and games programmable in its own unique assembly language. ([Tutorial](https://compudanzas.net/uxn_tutorial.html)) ([Tweet](https://twitter.com/hundredrabbits/status/1418394255022645256))

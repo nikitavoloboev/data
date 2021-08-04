@@ -1,8 +1,8 @@
 # Consciousness
 
-Consciousness is an interesting thing. The only way to study it is through self reflection, meditation and awareness.
+Consciousness is fascinating. [Joscha Bach](https://www.youtube.com/results?search_query=joscha+bach+consciousness) & [Stanislav Grof](https://www.youtube.com/results?search_query=Stanislav+Grof+) had some interesting things to say about it.
 
-[Stanislav Grof](http://en.wikipedia.org/wiki/Stanislav_Grof) does interesting work on this subject.
+I practice self reflection (via journaling) & meditation (walks in nature) to get a deeper awareness of myself and my surroundings.
 
 ## Notes
 

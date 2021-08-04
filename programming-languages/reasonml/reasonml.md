@@ -73,3 +73,5 @@
 - [I Switched from TypeScript to ReScript (2021)](https://medium.com/att-israel/how-i-switched-from-typescript-to-rescript-637aa5ef8d3) ([HN](https://news.ycombinator.com/item?id=25845147))
 - [Melange](https://github.com/melange-re/melange) - Mixture of tooling combined to produce JS from OCaml / Reason.
 - [Melange Basic Template](https://github.com/melange-re/melange-basic-template)
+- [Creating an Observable Subject in ReScript (2021)](https://erikras.com/blog/observable-subject-in-rescript)
+- [Why ReScript? (2021)](https://twitter.com/BenLesh/status/1422932189952491522)

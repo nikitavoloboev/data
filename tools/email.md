@@ -168,3 +168,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [react-letter](https://github.com/mat-sz/react-letter) - Display e-mails in your React.js projects.
 - [Introductions and the “forward intro email” (2016)](https://also.roybahat.com/introductions-and-the-forward-intro-email-14e2827716a1)
 - [Running My Own Email Server (2021)](http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html) ([Lobsters](https://lobste.rs/s/s10jr0/running_my_own_email_server))
+- [Catapulte](https://github.com/jdrouet/catapulte) - Open source mailer you can host yourself.
+- [Jolimail](https://github.com/jdrouet/jolimail) - Open source alternative to all the transactionnal email solutions. ([Web](https://jolimail.io/))

@@ -23,7 +23,7 @@
 - [Overture](https://github.com/fastmail/overture) - Powerful JS library for building really slick web applications, with performance at, or surpassing, native apps.
 - [Lucia](https://github.com/aidenybai/lucia) - Tiny library for tiny web apps. ([Docs](https://lucia.js.org/))
 - [Ractive.js](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
-- [JSX Lite](https://github.com/BuilderIO/jsx-lite) - Write components once, run everywhere. Compiles to Vue, React, Solid, Liquid, and more.
+- [JSX Lite](https://github.com/BuilderIO/jsx-lite) - Write components once, run everywhere. Compiles to Vue, React, Solid, Liquid, more.
 - [Perlite](https://github.com/PaulMaly/perlite) - Hyperactiv + lit-html + extensions. Simple and declarative way to create rich client-side widgets designed with server-side apps in mind.
 - [Democrat](https://github.com/etienne-dldc/democrat) - Library that mimic the API of React (Components, hooks, Context...) but instead of producing DOM mutation it produces a state tree.
 - [Raj](https://github.com/andrejewski/raj) - Elm Architecture for JavaScript.
@@ -120,6 +120,8 @@
 - [SQigiL](https://github.com/twooster/sqigil) - Postgres SQL template string for Javascript.
 - [Postgrest JS](https://github.com/supabase/postgrest-js) - Isomorphic JavaScript client for PostgREST.
 - [Connect PG Simple](https://github.com/voxpelli/node-connect-pg-simple) - Simple, minimal PostgreSQL session store for Express/Connect.
+- [SyncedDB](https://github.com/paldepind/synceddb) - Makes it easy to write offline-first applications with realtime syncing and server side persistence.
+- [Dexie.js](https://dexie.org/) - Minimalistic IndexedDB Wrapper. ([Docs](https://dexie.org/docs/))
 
 ## React
 

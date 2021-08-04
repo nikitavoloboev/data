@@ -45,3 +45,6 @@
 - [Formal ML](https://github.com/google/formal-ml) - LEAN library for proving foundational results in measure theory, probability, statistics, and machine learning, based upon mathlib.
 - [Lean 4 course Theorem prover lab: applications in programming languages](https://github.com/IPDSnelting/tba-2021)
 - [“Lean” Computer Program Confirms Peter Scholze Proof (2021)](https://www.quantamagazine.org/lean-computer-program-confirms-peter-scholze-proof-20210728/)
+- [lean.nvim](https://github.com/Julian/lean.nvim) - Neovim support for the Lean theorem prover.
+- [Elements of Differential Geometry in Lean: A Report for Mathematicians (2021)](https://arxiv.org/abs/2108.00484)
+- [quote4](https://github.com/gebner/quote4) - Intuitive, type-safe expression quotations for Lean 4.

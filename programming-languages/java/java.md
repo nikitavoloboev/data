@@ -67,3 +67,4 @@
 - [Thread Pools on the JVM](https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c) ([HN](https://news.ycombinator.com/item?id=27883847))
 - [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
 - [jgo](https://github.com/scijava/jgo) - Launch Java code from the CLI, installation-free.
+- [jas](https://github.com/mcy/jas) - JVM bytecode assembler.

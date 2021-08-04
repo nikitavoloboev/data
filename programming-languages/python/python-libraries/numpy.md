@@ -19,3 +19,4 @@
 - [Rolling Quantiles for NumPy](https://github.com/marmarelis/rolling-quantiles)
 - [Legate NumPy](https://github.com/nv-legate/legate.numpy) - Aspiring Drop-In Replacement for NumPy at Scale.
 - [numba-dppy](https://github.com/IntelPython/numba-dppy) - Extends Numba with a new backend to support compilation for Intel CPU and GPU architectures.
+- [NumPy views: saving memory, leaking memory, and subtle bugs (2021)](https://pythonspeed.com/articles/numpy-memory-views/)

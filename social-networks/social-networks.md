@@ -120,3 +120,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [BeReal](https://bere.al/en) - Your Friends. For Real.
 - [Status, Wealth, & Power: Network Effects Demand A New Social Contract (2021)](https://www.nfx.com/post/network-economy/)
 - [Этические социальные сети c @sitnik (2021)](https://www.youtube.com/watch?v=_sfYv2yTfl0)
+- [Content density: Why TikToks trounce Stories (2020)](https://constine.substack.com/p/content-density-why-tiktoks-trounce) ([Tweet](https://twitter.com/JoshConstine/status/1340382508089630720))

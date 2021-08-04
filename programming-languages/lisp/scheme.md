@@ -49,3 +49,4 @@
 - [The Seasoned Schemer Book](https://mitpress.mit.edu/books/seasoned-schemer-second-edition) ([Code](https://github.com/pkrumins/the-seasoned-schemer))
 - [Thoughts on Racket & Chez Scheme](https://beautifulracket.com/appendix/racket-and-chez-scheme.html) ([Lobsters](https://lobste.rs/s/rtfpg6/thoughts_on_racket_chez_scheme))
 - [LispPad](http://lisppad.objecthub.net/) - Lightweight Scheme IDE on macOS and iOS.
+- [TmpLisp](https://github.com/tdp2110/TmpLisp) - Implementation of Scheme in C++ Template Metaprogramming.

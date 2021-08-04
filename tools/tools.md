@@ -106,6 +106,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Slate](https://slate.host/) - Open source Filecoin client for data that makes it easy to collect, organize, and share data anywhere. ([Code](https://github.com/filecoin-project/slate))
 - [Mailchimp](https://mailchimp.com/) - All-in-One marketing platform.
 - [Docsketch](https://www.docsketch.com/) - Electronic Signature and Sales Document Tracking Software.
+- [Hookdeck](https://hookdeck.com/) - Infrastructure to Consume Webhooks. ([HN](https://news.ycombinator.com/item?id=28063597))
 - [Typeform](https://www.typeform.com/) - Forms & surveys for the people.
 - [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
 - [Threads](https://threads.com/) - Empowers teams to easily share, discuss, and make decisions no matter where they are.
@@ -220,6 +221,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 - [Precursor](https://precursorapp.com/) - Fast prototyping web app, makes collaboration easy. ([Code](https://github.com/PrecursorApp/precursor))
 - [Front](https://frontapp.com/) - Inbox for teams.
+- [Code Bench](https://www.codebench.cloud/) - Platform to keep track of your benchmarks.
 - [Snap.as](https://snap.as/) - Permanent home for your photos.
 - [Primer](https://www.primer.com/) - Get creative with your space. Visualize inspiring ideas right in your space so you can make it perfect.
 - [Watercooler](https://waterc00ler.com/) - Voice chat rooms.

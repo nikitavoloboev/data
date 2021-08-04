@@ -122,3 +122,8 @@
 - [Ask HN: How to start learning embedded systems? (2021)](https://news.ycombinator.com/item?id=27828834)
 - [Taking Months to Bits (2021)](https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a) - Calendrical journey into low-level programming.
 - [EON Tuner: Edge Impulse's New AutoML Tool for Embedded Machine Learning (2021)](https://www.edgeimpulse.com/blog/introducing-the-eon-tuner-edge-impulses-new-automl-tool-for-embedded-machine-learning?_ga=2.52353705.1878182224.1626956307-1252652237.1574934249)
+- [Pinion](https://github.com/yaqwsx/Pinion) - Generate interactive and nice-looking diagrams for your PCBs. ([Docs](https://yaqwsx.github.io/Pinion/))
+- [PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams.
+- [JlcParts](https://yaqwsx.github.io/jlcparts/#/) - Better parametric search for components available for JLC PCB assembly. ([Code](https://github.com/yaqwsx/jlcparts))
+- [KiCad EDA](https://www.kicad.org/) - Schematic Capture & PCB Design Software.
+- [KiKit](https://github.com/yaqwsx/KiKit) - Automation for KiCAD.

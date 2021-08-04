@@ -175,3 +175,5 @@
 - [StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [ELFI](https://github.com/elfi-dev/elfi) - Engine for Likelihood-Free Inference. ([Docs](https://elfi.readthedocs.io/en/latest/))
 - [DaisyRec](https://github.com/AmazingDD/daisyRec) - Python toolkit dealing with rating prediction and item ranking issue.
+- [AutoTS](https://github.com/winedarksea/AutoTS) - Forecasting Model Selection for Multiple Time Series.
+- [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.

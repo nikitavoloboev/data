@@ -56,3 +56,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [21st Night](https://get21stnight.com/) - Anki alternative with integrated notes and import/export. ([HN](https://news.ycombinator.com/item?id=27662266))
 - [Taking Spaced Repetition Seriously (2021)](https://blog.jethro.dev/posts/taking_srs_seriously/)
 - [ankisyncd](https://github.com/tsudoko/anki-sync-server) - Self-hosted Anki sync server.
+- [How to Make Anki Cards from lectures/videos (2020)](https://www.youtube.com/watch?v=K6C9TpEq2lA)

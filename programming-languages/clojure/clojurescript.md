@@ -32,3 +32,4 @@
 - [Racing Game in ClojureScript](https://github.com/ertugrulcetin/racing-game-cljs) ([HN](https://news.ycombinator.com/item?id=27597987))
 - [clojureflare](https://github.com/sauercrowd/clojureflare) - Clojurescript library to simplify the use with Cloudflare workers, focusing on simplicity.
 - [ClojureScript in the Age of TypeScript — David Nolen (2021)](https://www.youtube.com/watch?v=3HxVMGaiZbc)
+- [ClojureScript Tutorial (2021)](https://purelyfunctional.tv/guide/clojurescript-tutorial/)

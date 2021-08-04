@@ -28,3 +28,5 @@
 - [elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Rust Client for Elasticsearch.
 - [elasticsearch_loader](https://github.com/moshe/elasticsearch_loader) - Tool for batch loading data files (json, parquet, csv, tsv) into ElasticSearch.
 - [Open Distro for Elasticsearch SQL](https://github.com/opendistro-for-elasticsearch/sql) - Enables you to extract insights out of Elasticsearch using the familiar SQL query syntax.
+- [Rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch.
+- [elastic4s](https://github.com/sksamuel/elastic4s) - Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client.

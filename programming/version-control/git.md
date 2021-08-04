@@ -276,3 +276,5 @@ I love Git and version control. And I use version control over any project I do.
 - [New in Git: switch and restore (2021)](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/) ([HN](https://news.ycombinator.com/item?id=28024972)) ([Lobsters](https://lobste.rs/s/aph2fn/new_git_switch_restore))
 - [git-cc](https://github.com/SKalt/git-cc) - Git extension to help write conventional commits.
 - [Advanced Git In-Depth](https://frontendmasters.com/courses/git-in-depth/) ([Code](https://github.com/nnja/advanced-git))
+- [Is there any place for monoliths in 2021?](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/) ([HN](https://news.ycombinator.com/item?id=28061265))
+- [Gitly](http://gitly.org/) - GitHub/GitLab alternative written in V. ([Code](https://github.com/vlang/gitly))

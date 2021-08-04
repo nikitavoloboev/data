@@ -60,3 +60,4 @@
 - [Why Hasn’t the iPhone Moment Happened Yet for Voice UIs (2021)](https://www.speechly.com/blog/real-time-voice-user-interfaces/)
 - [LeBenchmark: a reproducible framework for assessing SSL from speech](https://github.com/LeBenchmark/Interspeech2021)
 - [INTERSPEECH 2021](https://www.interspeech2021.org/)
+- [WER are we?](https://github.com/syhw/wer_are_we) - Tracking states of the art(s) and recent results on speech recognition.

@@ -125,3 +125,4 @@
 - [Why Managers Fear a Remote-Work Future (2021)](https://www.theatlantic.com/ideas/archive/2021/07/work-from-home-benefits/619597/) ([Tweet](https://twitter.com/edzitron/status/1420758085858066437))
 - [Focus: assign multiple engineers to the same task](https://dpc.pw/focus-assign-multiple-engineers-to-the-same-task) ([Lobsters](https://lobste.rs/s/kjv6op/focus_assign_multiple_engineers_same)) ([HN](https://news.ycombinator.com/item?id=28033332))
 - [Better coordination, or better software? (2021)](https://jessitron.com/2021/08/02/better-coordination-or-better-software/) ([Tweet](https://twitter.com/tristanls/status/1422518838432870400))
+- [Managing tentpole launches at Gumroad ft. Josh Pigford from Baremetrics (2020)](https://www.youtube.com/watch?v=2PcIC1DKBU0)

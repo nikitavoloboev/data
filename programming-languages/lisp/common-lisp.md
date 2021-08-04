@@ -59,3 +59,4 @@
 - [Comparison of Common Lisp Testing Frameworks](https://sabracrolleton.github.io/testing-framework)
 - [JSCL](https://github.com/jscl-project/jscl) - Common Lisp to JavaScript compiler.
 - [cl-bodge](https://github.com/borodust/cl-bodge) - Feature-rich game framework for Common Lisp. ([Web](https://borodust.org/projects/cl-bodge/)) ([HN](https://news.ycombinator.com/item?id=27621014))
+- [Temperance](https://github.com/sjl/temperance) - Logic programming library for Common Lisp.

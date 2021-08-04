@@ -61,3 +61,4 @@
 - [For Web](https://forweb.dev/en) - Awesomeness for front-end developers and web designers.
 - [feature-sliced](https://feature-sliced.design/) - Structural methodology for frontend projects. ([Code](https://github.com/feature-sliced/documentation))
 - [rounded conf](https://www.rounded.dev/conf) - Conference for well rounded frontend developers.
+- [How To Build Resilient JavaScript UIs (2021)](https://www.smashingmagazine.com/2021/08/build-resilient-javascript-ui/) ([HN](https://news.ycombinator.com/item?id=28060029))

@@ -88,6 +88,8 @@
 - [Recife](https://github.com/pfeodrippe/recife) - Model checker library in Clojure.
 - [merr](https://github.com/liquidz/merr) - Minimal and good enough error handling library for Clojure/ClojureScript.
 - [dad](https://github.com/liquidz/dad) - Small configuration management tool for Clojure.
+- [Kern](https://github.com/blancas/kern) - Parser Combinators Library for Clojure.
+- [Morph](https://github.com/blancas/morph) - Library of Morphisms: Monoids, Functors, and Monads.
 
 ## Links
 

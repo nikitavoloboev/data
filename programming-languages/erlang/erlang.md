@@ -95,3 +95,4 @@
 - [Concuerror](https://concuerror.com/) - Stateless model checking tool for Erlang programs.
 - [Death, Children, and OTP (2021)](https://furlough.merecomplexities.com/elixir/otp/2021/06/28/death-children-and-otp.html)
 - [Detecting Oxbow Code in Erlang Codebases with the Highest Degree of Certainty (2021)](https://arxiv.org/abs/2107.08699)
+- [Syn](https://github.com/ostinelli/syn) - Global Process Registry and Process Group manager for Erlang and Elixir.

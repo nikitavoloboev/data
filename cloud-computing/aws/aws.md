@@ -200,3 +200,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [EKS on speed (2021)](https://blog.3sky.dev/article/eks-with-speed/)
 - [honeyaws](https://github.com/honeycombio/honeyaws) - Observability for your AWS load balancers, CloudFront, and more.
 - [Prowler](https://github.com/toniblyx/prowler) - AWS Security Tool.
+- [awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans.
+- [Saw](https://github.com/TylerBrock/saw) - Fast, multi-purpose tool for AWS CloudWatch Logs.

@@ -22,3 +22,4 @@
 - [Hasura GraphQL Engine & SQL Server](https://github.com/hasura/graphql-engine/blob/master/architecture/sql-server.md) ([HN](https://news.ycombinator.com/item?id=27549164))
 - [Top PostgreSQL Flavors and Extensions that work with Hasura (2021)](https://hasura.io/blog/postgresql-flavors-extensions-work-with-hasura/)
 - [Hasura Super App](https://github.com/hasura/hasura-ecommerce) - Full featured reference application demonstrating many of the powerful features of Hasura's GraphQL Engine.
+- [Building an offline first web app with RxDB & Hasura (2020)](https://hasura.io/blog/building-an-offline-first-web-app-with-rxdb-hasura/)

@@ -34,6 +34,7 @@
 - [Stonemaier Games](https://stonemaiergames.com/)
 - [Second Dinner](https://seconddinner.com/)
 - [Remedy](https://www.remedygames.com/) - Created games such as Control, Alan Wake, and Max Payne.
+- [Failbetter Games](https://www.failbettergames.com/)
 
 ## Devs
 

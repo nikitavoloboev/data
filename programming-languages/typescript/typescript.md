@@ -166,6 +166,7 @@
 - [Design Patterns in TypeScript (2021)](https://www.youtube.com/watch?v=D40olxrDw38)
 - [ts-gyb](https://github.com/microsoft/ts-gyb) - Generating native code interfaces from TypeScript.
 - [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/)
+- [TypeScript Evolution — Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
 
 ## Images
 

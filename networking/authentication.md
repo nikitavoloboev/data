@@ -137,3 +137,5 @@
 - [Dynamic Row-Level Authorization on Web Maps using JWT (2021)](https://www.dimetric.io/post/dynamic-row-level-authorization-on-web-maps-using-jwt)
 - [Raider](https://github.com/DigeeX/raider) - Web authentication testing framework.
 - [OAuth2orize](https://github.com/jaredhanson/oauth2orize) - OAuth 2.0 authorization server toolkit for Node.js.
+- [jwx](https://github.com/lestrrat-go/jwx) - Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies.
+- [Tekitoi](https://github.com/jdrouet/tekitoi) - Lightweight, opensource and simple to use alternative to Auth0 and Keycloak.

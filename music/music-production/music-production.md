@@ -89,6 +89,7 @@
 - [Dorico for iPad](https://new.steinberg.net/dorico/ipad/) - Music Notation App.
 - [Augmented Audio Libraries in Rust](https://github.com/yamadapc/augmented-audio)
 - [Signal](https://signal.vercel.app/) - Online MIDI Editor. ([Code](https://github.com/ryohey/signal))
+- [Meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript. ([Web](https://meyda.js.org/))
 
 ## Inspiration
 

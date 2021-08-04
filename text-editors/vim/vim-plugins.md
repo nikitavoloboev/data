@@ -41,6 +41,8 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Lightspeed](https://github.com/ggandor/lightspeed.nvim) - Making on-screen navigation as quick and efficient as possible.
 - [nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - Snazzy bufferline for Neovim.
 - [Which Key](https://github.com/folke/which-key.nvim) - Displays a popup with possible keybindings of the command you started typing.
+- [nvim-notify](https://github.com/rcarriga/nvim-notify) - Fancy, configurable, notification manager for NeoVim.
+- [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - UI for nvim-dap which provides a good out of the box configuration.
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
 - [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative editing in Neovim using built-in capabilities.
 - [any-jump.vim](https://github.com/pechorin/any-jump.vim) - Vim code inspection plugin for finding definitions and references/usages.
@@ -85,6 +87,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Undotree](https://github.com/mbbill/undotree) - Undo history visualizer.
 - [Aerojump](https://github.com/ripxorip/aerojump.nvim) - Fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation.
 - [Tabular](https://github.com/godlygeek/tabular) - Text filtering and alignment.
+- [vim-ultest](https://github.com/rcarriga/vim-ultest) - Ultimate testing plugin for (Neo)Vim.
 - [Easyclip](https://github.com/svermeulen/vim-easyclip) - Simplified clipboard functionality.
 - [Yank stack](https://github.com/maxbrunsfeld/vim-yankstack) - Lightweight implementation of emacs's kill-ring for Vim.
 - [Better whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting.

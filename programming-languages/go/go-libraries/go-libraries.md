@@ -71,6 +71,7 @@
 - [Godog](https://github.com/cucumber/godog) - Cucumber BDD framework for Go.
 - [testlog](https://github.com/rvolosatovs/testlog) - Print debugging, but a little bit nicer.
 - [go-testdeep](https://github.com/maxatome/go-testdeep) - Extremely flexible Go deep comparison, extends the go testing package.
+- [dockertest](https://github.com/ory/dockertest) - Use Docker to run your Go language integration tests against third party services.
 
 ## Web
 
@@ -239,6 +240,7 @@
 - [Scan](https://github.com/blockloop/scan) - Scan database/sql rows directly to structs, slices, and primitive types.
 - [go-sqlite3-js](https://github.com/matrix-org/go-sqlite3-js) - Go SQL driver for sqlite3 in browser (sql.js) from go-wasm.
 - [Authority](https://github.com/harranali/authority) - Role Based Access Control (RBAC) with database persistence.
+- [pggen](https://github.com/opendoor/pggen) - Database first code generator focused on postgres. ([Article](https://medium.com/opendoor-labs/announcing-pggen-a-golang-orm-alternative-a34191f614c8))
 
 ## ML
 
@@ -896,6 +898,8 @@
 - [scrapligo](https://github.com/scrapli/scrapligo) - Connecting to devices, specifically network devices (routers/switches/firewalls/etc.) via SSH and NETCONF.
 - [Cuckoo Filter](https://github.com/seiflotfy/cuckoofilter) - Bloom filter replacement for approximated set-membership queries.
 - [PubNub Go SDK](https://github.com/pubnub/go)
+- [strftime](https://github.com/lestrrat-go/strftime) - Fast strftime for Go.
+- [sorty](https://github.com/jfcg/sorty) - Fast Concurrent / Parallel Sorting in Go.
 
 ## Links
 

@@ -50,3 +50,4 @@
 - [The Math behind Animations - Beautiful Trigonometry (2021)](https://www.youtube.com/watch?v=-lF7sSTelOg)
 - [Improvements to the Web Animations API DX](https://motion.dev/guides/waapi-improvements)
 - [Animation Is Eating The World (2019)](http://www.michaeldempsey.me/animation/) ([Tweet](https://twitter.com/mhdempsey/status/1151533880412909570))
+- [The Real Story of Pixar (2021)](https://spectrum.ieee.org/the-real-story-of-pixar) ([HN](https://news.ycombinator.com/item?id=28053810))

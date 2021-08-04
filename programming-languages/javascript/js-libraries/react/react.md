@@ -254,3 +254,4 @@
 - [React without webpack: fast path to a working app from scratch (2021)](https://datastation.multiprocess.io/blog/2021-07-08-react-without-webpack.html)
 - [Mini React implementation made for fun and practice](https://github.com/tchayen/remini)
 - [React's UI State Model vs Vanilla JavaScript DOM State — A Beginner's Introduction (2021)](https://arihantverma.com/posts/2021/07/17/react-ui-state-model-vs-vanilla-js/) ([HN](https://news.ycombinator.com/item?id=27870652))
+- [React Children And Iteration Methods (2021)](https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/)

@@ -225,6 +225,7 @@
 - [CIDLib](https://github.com/DeanRoddey/CIDLib) - General purpose C++ development environment.
 - [CrossWindow](https://github.com/alaingalvan/CrossWindow) - Cross platform system abstraction library written in C++ for managing windows and performing OS tasks. ([Web](https://alain.xyz/libraries/crosswindow))
 - [dr_libs](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C/C++.
+- [EASTL](https://github.com/electronicarts/EASTL) - Alternative C++ Standard Library From Electronic Arts. ([HN](https://news.ycombinator.com/item?id=28060700))
 
 ## Links
 

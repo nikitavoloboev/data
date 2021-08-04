@@ -106,3 +106,4 @@
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF) ([Code](https://github.com/boksajak/brdf))
 - [Game Engine: How I Implemented Skeletal Animation (2021)](https://vladh.net/articles/game-engine-skeletal-animation.html) ([HN](https://news.ycombinator.com/item?id=26659295))
 - [Doom Engine source code review (2010)](https://fabiensanglard.net/doomIphone/doomClassicRenderer.php)
+- [Solving the Right Problems for Engine Programmers - Mike Acton (2017)](https://www.youtube.com/watch?v=4B00hV3wmMY)

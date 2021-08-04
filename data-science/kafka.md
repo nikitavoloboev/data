@@ -56,3 +56,4 @@
 - [Starting with Kafka (2021)](https://blog.tinybird.co/2021/06/25/starting-with-kafka/) ([HN](https://news.ycombinator.com/item?id=27629553))
 - [Conduktor](https://www.conduktor.io/) - Kafka Desktop Client. ([GitHub](https://github.com/conduktor))
 - [Event-driven OpenFaaS with Managed Kafka from Aiven (2021)](https://www.openfaas.com/blog/openfaas-kafka-aiven/)
+- [End-to-End Encryption through Kafka](https://github.com/ockam-network/ockam/tree/develop/documentation/use-cases/end-to-end-encryption-through-kafka)

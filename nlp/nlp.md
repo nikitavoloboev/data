@@ -320,3 +320,4 @@
 - [Knowledge Neurons in Pretrained Transformers (2021)](https://arxiv.org/abs/2104.08696) ([Code](https://github.com/EleutherAI/knowledge-neurons))
 - [OpenCLIP](https://github.com/mlfoundations/open_clip) - Open source implementation of OpenAI's CLIP (Contrastive Language-Image Pre-training).
 - [Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning (2021)](https://arxiv.org/abs/2105.03654) ([Code](https://github.com/Alibaba-NLP/CLNER))
+- [Can a Fruit Fly Learn Word Embeddings? (2021)](https://arxiv.org/abs/2101.06887)

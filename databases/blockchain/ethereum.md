@@ -262,3 +262,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
 - [Rocket Pool](https://www.rocketpool.net/) - Next generation Ethereum proof of stake (PoS) infrastructure service and pool. ([Code](https://github.com/rocket-pool/rocketpool))
 - [TrueBlocks](https://github.com/TrueBlocks/trueblocks-core) - Lightweight, local-first index of the full Ethereum Blockchain. ([Docs](https://docs.trueblocks.io/))
+- [solmate](https://github.com/Rari-Capital/solmate) - Modern, opinionated and gas optimized building blocks for smart contract development.
+- [Nova](https://github.com/Rari-Capital/nova) - Gives your L2 contracts the power to read and write to L1 with minimal latency and no trust tradeoffs.
+- [ChainBridge](https://github.com/ChainSafe/ChainBridge) - Modular Multi-Directional Blockchain Bridge to interact with Multiple Networks; Ethereum, Ethereum Classic, Substrate, based chains.

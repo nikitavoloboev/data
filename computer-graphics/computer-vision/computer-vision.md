@@ -348,3 +348,4 @@
 - [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](https://chenlin9.github.io/SDEdit/) ([Code](https://github.com/ermongroup/SDEdit))
 - [Region Similarity Representation Learning (2021)](https://arxiv.org/abs/2103.12902) ([Code](https://github.com/Tete-Xiao/ReSim))
 - [NeX: Real-time View Synthesis with Neural Basis Expansion (2021)](https://nex-mpi.github.io/) ([Code](https://github.com/nex-mpi/nex-code))
+- [Convolutional Occupancy Networks (2020)](https://pengsongyou.github.io/conv_onet) ([Code](https://github.com/autonomousvision/convolutional_occupancy_networks))

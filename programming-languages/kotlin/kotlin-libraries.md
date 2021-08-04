@@ -12,6 +12,10 @@
 
 - [Multiplatform Compose](https://github.com/cl3m/multiplatform-compose) - Kotlin library to use Jetpack Compose in Android and iOS. Allow to write UI for both in Kotin.
 
+## Test
+
+- [Kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing. ([Web](https://kotest.io/))
+
 ## Other
 
 - [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library. ([Web](https://arrow-kt.io/))
@@ -20,6 +24,7 @@
 - [ForK Handles](https://github.com/fork-handles/forkhandles) - Foundational libraries for Kotlin.
 - [kotlin-retry](https://github.com/michaelbull/kotlin-retry) - Higher-order function for retrying operations that may fail.
 - [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.
+- [Hoplite](https://github.com/sksamuel/hoplite) - Boilerplate-free Kotlin config library for loading configuration files as data classes.
 
 ## Links
 

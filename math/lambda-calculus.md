@@ -58,3 +58,4 @@ Is logical theory of computable functions.
 - [Lambda Calculus Examples (2009)](https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/lambda-calculus-handout.pdf) ([HN](https://news.ycombinator.com/item?id=27648871))
 - [A Talk on Incremental λ-Calculus (2015)](http://blaisorblade.github.io/blog/2015/01/15/a-talk-on-ilc/)
 - [Simply Typed Lambda Calculus Formalization](https://github.com/Kamirus/lambda-formalizations)
+- [Viscal](https://rcarriga.github.io/viscal/) - Visual representation of the lambda calculus and animation of beta reduction. ([Code](https://github.com/rcarriga/viscal))

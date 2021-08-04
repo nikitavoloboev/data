@@ -66,6 +66,8 @@
 - [Aja](https://github.com/sabiwara/aja) - Extension of the Elixir standard library focused on data structures, data manipulation and performance.
 - [Schoolbus](https://github.com/rupurt/schoolbus) - Manage one or more PubSub instances using the Elixir registry.
 - [Msgpax](https://github.com/lexmag/msgpax) - Fast and comprehensive library for serializing and deserializing Elixir terms using the MessagePack format.
+- [Manifold](https://github.com/discord/manifold) - Fast batch message passing between nodes for Erlang/Elixir.
+- [FastGlobal](https://github.com/discord/fastglobal) - Fast no copy globals for Elixir & Erlang.
 
 ## Links
 

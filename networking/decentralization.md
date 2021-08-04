@@ -67,3 +67,4 @@
 - [Data layout and schema agreement on Hypercore protocol (2021)](https://paulfrazee.medium.com/data-layout-and-schema-agreement-on-hypercore-protocol-9b84c2c4e38b)
 - [Smart Contract Programmer - YouTube](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
 - [Reconnected (2021)](https://reallifemag.com/reconnected/) - Decentralizing the internet alone won’t lift it above politics or save it from corporate co-optation.
+- [Distributed Press](https://distributed.press/) - Magazine about the digital commons, telling stories about people building the web as a shared resource.

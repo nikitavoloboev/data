@@ -184,3 +184,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [НЭП. Бизнес при социализме (2021)](https://www.youtube.com/watch?v=Q8X8Em6pHPw)
 - [A respite from the sanctions war (2021)](https://www.ridl.io/en/a-respite-from-the-sanctions-war/)
 - [Political climate in Russia (2021)](https://www.reddit.com/r/AskARussian/comments/ot5lnp/what_do_you_think_foreigners_should_know_about/)
+- [Дело 212](https://delo212.ru/) - Наше общее дело. ([Открытое письмо](https://github.com/developers-against-repressions/case-212))
+- [A Soviet Prisoner's View on What's Important](https://newsletter.butwhatfor.com/p/speech-at-the-stadium) ([HN](https://news.ycombinator.com/item?id=28035213))

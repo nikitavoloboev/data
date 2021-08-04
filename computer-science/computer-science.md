@@ -141,3 +141,4 @@
 - [Basic Concepts in Information Theory and Coding (1994)](https://www.springer.com/gp/book/9780306445446)
 - [Donald E. Knuth Lectures](https://online.stanford.edu/donald-e-knuth-lectures)
 - [What’s a direction you were certain personal computing was going, but then it just veered off into all this instead?](https://twitter.com/NanoRaptor/status/1421129732708462603)
+- [compudanzas](https://compudanzas.net/) - Research project exploring alternative modes of computation.

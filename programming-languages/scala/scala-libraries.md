@@ -78,6 +78,7 @@
 - [MacWire](https://github.com/softwaremill/macwire) - Lightweight and Nonintrusive Scala Dependency Injection Library.
 - [Wire Signals](https://github.com/wireapp/wire-signals) - Small and effective event-handling library for Scala.
 - [Papa Carlo](https://github.com/Eliah-Lakhin/papa-carlo) - Scala parsing library utilises incremental parsing approach.
+- [Avro4s](https://github.com/sksamuel/avro4s) - Avro schema generation and serialization / deserialization for Scala.
 
 ## Links
 

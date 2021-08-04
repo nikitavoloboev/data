@@ -55,3 +55,4 @@
 - [Graph Attention Networks (GAT) annotated implementation](https://nn.labml.ai/graphs/gat/index.html)
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) - Collection of research papers and software related to explainability in graph machine learning.
 - [An Attempt at Demystifying Graph Deep Learning](https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/)
+- [Graph Random Neural Network for Semi-Supervised Learning on Graphs (2020)](https://arxiv.org/abs/2005.11079) ([Code](https://github.com/THUDM/GRAND))

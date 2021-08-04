@@ -123,3 +123,4 @@
 - [QiCapital](https://qicapital.org/) - Finding Gems in Crypto Space.
 - [Pillar VC](https://www.pillar.vc/)
 - [Petri VC](https://www.petri.bio/) - Bio + engineering capital, support, and connections.
+- [Is venture capital bad? (2021)](https://saas.transistor.fm/episodes/why-are-bootstrappers-hostile-towards-vcs)

@@ -440,3 +440,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Deep Learning Visuals](https://github.com/The-AI-Summer/deep-learning-visuals) - Collection of 100 Deep Learning images and visualizations.
 - [Codex Atlanticus](http://www.codex-atlanticus.it/#/) - Largest Collection of Writings&Drawings by Leonardo da Vinci.
 - [Japan Olympics 2021 Kimono Sets](https://kimono.piow.jp/kimonolist.html)
+- [AI Art Machine: put in text, get art](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK) ([Lobsters](https://lobste.rs/s/vc6o94/ai_art_machine_put_text_get_art))
