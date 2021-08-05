@@ -46,3 +46,5 @@
 - [Make a simple web page with your kids](https://github.com/jackdoe/detective)
 - [Programming for Kids Book](https://github.com/jackdoe/programming-for-kids) ([Code](https://github.com/jackdoe/detective))
 - [Ask HN: Do you regret having children?](https://news.ycombinator.com/item?id=27795186)
+- [Having Kids (2019)](http://www.paulgraham.com/kids.html)
+- [Best reasons for or against having kids](https://twitter.com/csallen/status/1422927732267130886)

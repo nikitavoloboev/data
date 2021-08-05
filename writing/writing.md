@@ -114,6 +114,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [People who think well, write well. Good writing is not a natural gift. You have to learn to write well.](https://twitter.com/dickiebush/status/1399879300724236288)
 - [Read to collect the dots, write to connect them.](https://twitter.com/david_perell/status/1411871612702543872)
 - [Moving your team from slides to long form writing is not just a process change. It is first and foremost a culture change. A writing culture values comprehension over aesthetics, nuance over certainty, clarity over charisma, deliberation over impulse, and rigor over hierarchy.](https://twitter.com/shreyas/status/1421143101083512838)
+- [Write like a journalist. Adopt the inverted pyramid. Be curious. Use emotion-based questions. Tell a story. Pay attention to the details, data, & money.](https://twitter.com/ChelseaCastle/status/1422900159311142912)
 
 ## Links
 
