@@ -96,3 +96,4 @@
 - [Tricks for making SQLite fast (2021)](https://news.ycombinator.com/item?id=27946821)
 - [dogsheep-beta](https://github.com/dogsheep/dogsheep-beta) - Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette.
 - [absurd-sql.js-backend](https://github.com/jlongster/absurd-sql.js-backend) - sqlite3 in ur indexeddb.
+- [SQLite Is Dynamically Typed (2020)](https://blog.zachwf.com/posts/sqlite-is-dynamically-typed/) ([HN](https://news.ycombinator.com/item?id=28050198))
