@@ -183,3 +183,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Why Bored Ape Avatars Are Taking Over Twitter (2021)](https://www.newyorker.com/culture/infinite-scroll/why-bored-ape-avatars-are-taking-over-twitter)
 - [How to DAO 101: Choosing a Tech Stack for CabinDAO](https://creators.mirror.xyz/862A5rBtKX3BC8eEircDnGwPIJJTJ33hn-MvnukByPc)
 - [DevX Initiative](https://devxinitiative.org/) - Express yourself, home of code, ideas and ethics.
+- [PartyBid](https://github.com/PartyDAO/partybid) - Protocol that allows a group of internet homies to pool their funds together in order to win an NFT auction.

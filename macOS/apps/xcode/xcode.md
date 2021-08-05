@@ -72,3 +72,4 @@
 - [What’s new in Xcode 13? (2021)](https://www.hackingwithswift.com/articles/236/whats-new-in-xcode-13)
 - [Kintsugi](https://github.com/Lightricks/Kintsugi) - Tool to automatically resolve Git conflicts that occur in Xcode project files.
 - [Convincing Xcode to Map Vim Keys (2021)](https://bryce.co/xcode-vim-map/)
+- [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - Continuously resilient `xcodebuild` action.

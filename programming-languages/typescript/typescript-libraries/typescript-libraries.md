@@ -133,6 +133,7 @@
 - [Earl](https://github.com/earl-js/earl) - Ergonomic, modern and type-safe assertion library for TypeScript. ([Web](https://earljs.dev/))
 - [FS Capacitor](https://github.com/mike-marcacci/fs-capacitor) - Filesystem-bufferred, passthrough stream that buffers indefinitely rather than propagate backpressure from downstream consumers.
 - [rustic](https://github.com/franeklubi/rustic) - TypeScript library providing emulation of Rust's Option and Result types. ([Reddit](https://www.reddit.com/r/typescript/comments/oy17ym/rustic_a_typescript_library_providing_rusts/))
+- [log-editor](https://github.com/antfu/log-editor) - Use your editor to inspect the log instead of scrolling the congested terminal.
 
 ## Links
 

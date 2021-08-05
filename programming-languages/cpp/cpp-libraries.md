@@ -50,6 +50,7 @@
 ## DB
 
 - [SOCI](https://github.com/SOCI/soci) - C++ Database Access Library.
+- [taoPQ](https://github.com/taocpp/taopq) - C++ client library for PostgreSQL.
 
 ## Other
 
