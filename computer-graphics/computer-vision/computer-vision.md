@@ -352,3 +352,4 @@
 - [Learning Optical Flow from a Few Matches (2021)](https://arxiv.org/abs/2104.02166) ([Code](https://github.com/zacjiang/SCV))
 - [Visual Parser: Representing Part-whole Hierarchies with Transformers (2021)](https://arxiv.org/abs/2107.05790) ([Code](https://github.com/kevin-ssy/ViP))
 - [Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation](http://jianghz.me/projects/superslomo/) ([Code](https://github.com/avinashpaliwal/Super-SloMo))
+- [On Generating Transferable Targeted Perturbations (2021)](https://arxiv.org/abs/2103.14641) ([Code](https://github.com/Muzammal-Naseer/TTP))

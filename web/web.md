@@ -292,3 +292,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Polyfill.io](https://polyfill.io/) - Automatic polyfill service. ([Code](https://github.com/Financial-Times/polyfill-service))
 - [RFC Editor](https://www.rfc-editor.org/) - Contains technical and organizational documents about the Internet, including the specifications and policy documents.
 - [egghead.io](https://egghead.io/) - High quality, concise web development screencasts. ([Course Notes](https://github.com/eggheadio/eggheadio-course-notes))
+- [Breaking Changes to the Web Platform](https://github.com/styfle/breaking-changes-web)

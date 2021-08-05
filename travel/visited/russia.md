@@ -191,3 +191,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [RUSSPASS](https://russpass.ru/) - Цифровая туристическая платформа.
 - [Where do Russians commonly go on holiday? (2021)](https://www.reddit.com/r/AskARussian/comments/oycibu/where_do_russians_commonly_go_on_holiday/)
 - [ТОП-15 заброшенных городов России](https://most-beauty.ru/mesta/top-15-zabroshennyh-gorodov-rossii.html)
+- [Колымские подсказы (2021)](https://echo.msk.ru/blog/shenderovich/2882522-echo/) ([Tweet](https://twitter.com/TiggerBurning/status/1423221779628240897))
