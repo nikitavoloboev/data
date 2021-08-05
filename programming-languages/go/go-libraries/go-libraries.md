@@ -901,6 +901,7 @@
 - [PubNub Go SDK](https://github.com/pubnub/go)
 - [strftime](https://github.com/lestrrat-go/strftime) - Fast strftime for Go.
 - [sorty](https://github.com/jfcg/sorty) - Fast Concurrent / Parallel Sorting in Go.
+- [go-car](https://github.com/ipld/go-car) - Library to interact with merkledags stored as a single file.
 
 ## Links
 
