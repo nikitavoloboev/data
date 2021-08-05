@@ -321,3 +321,4 @@
 - [OpenCLIP](https://github.com/mlfoundations/open_clip) - Open source implementation of OpenAI's CLIP (Contrastive Language-Image Pre-training).
 - [Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning (2021)](https://arxiv.org/abs/2105.03654) ([Code](https://github.com/Alibaba-NLP/CLNER))
 - [Can a Fruit Fly Learn Word Embeddings? (2021)](https://arxiv.org/abs/2101.06887)
+- [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) - Natural Language Processing library built on top of Apache Spark ML. ([Web](https://nlp.johnsnowlabs.com/))
