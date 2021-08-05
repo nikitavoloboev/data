@@ -183,3 +183,4 @@
 - [WebAssembly from Scratch: From FizzBuzz to DooM](https://github.com/diekmann/wasm-fizzbuzz) ([HN](https://news.ycombinator.com/item?id=27832115))
 - [WasmEdge for Go Package](https://github.com/second-state/WasmEdge-go)
 - [Using WebAssembly threads from C, C++ and Rust (2021)](https://web.dev/webassembly-threads/) ([HN](https://news.ycombinator.com/item?id=27905555))
+- [Wasp](https://github.com/WebAssembly/wasp) - WebAssembly module decoder in C++.

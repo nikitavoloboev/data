@@ -728,6 +728,7 @@
 - [Dollar](https://github.com/ankurp/Dollar) - Swift library that provides useful functional programming helper methods without extending any built in objects.
 - [Carlos](https://github.com/spring-media/Carlos) - Simple but flexible cache.
 - [Swift Identified Collections](https://github.com/pointfreeco/swift-identified-collections) - Library of data structures for working with collections of identifiable elements in an ergonomic, performant way.
+- [Dip](https://github.com/AliSoftware/Dip) - Simple Swift Dependency container. Use protocols to resolve your dependencies and avoid singletons / sharedInstances.
 
 ## Other (not lib)
 

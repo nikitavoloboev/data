@@ -88,3 +88,4 @@
 - [three-geo](https://github.com/w3reality/three-geo) - 3D geographic visualization library.
 - [Mapus](https://github.com/alyssaxuu/mapus) - Real-time collaborative map tool.
 - [A Dive into Geospatial Nearest Neighbor Search (2021)](https://www.vibhuagrawal.com/blog/geospatial-nearest-neighbor-search)
+- [Geolib](https://github.com/manuelbieh/geolib) - Zero dependency library to provide some basic geo functions.

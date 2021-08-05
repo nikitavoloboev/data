@@ -28,3 +28,4 @@
 - [stk](https://github.com/lukasturcani/stk) - Python library which allows construction and manipulation of complex molecules, as well as automatic molecular design and the creation of molecular databases.
 - [stk-vis](https://github.com/lukasturcani/stk-vis) - Cross-platform application for visualization of molecular databases.
 - [moldoc](https://github.com/lukasturcani/moldoc) - Sphinx extension for making better chemistry documentation.
+- [Reaktoro](https://github.com/reaktoro/reaktoro) - Unified framework for modeling chemically reactive systems. ([Docs](https://reaktoro.org/))

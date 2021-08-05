@@ -133,3 +133,4 @@
 - [Architecture of Lisp Machines (2008)](http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf) ([HN](https://news.ycombinator.com/item?id=27715043))
 - [Implementing Closures In a Compiled Lisp (2021)](https://zmedley.com/closures.html)
 - [Bridje](https://github.com/bridje/bridje) - Statically typed LISP targeting GraalVM, drawing inspiration from both Clojure, Haskell and Kotlin.
+- [Haskell-like patterns in Lisp (2021)](http://www.lispology.com/show?3FY9)
