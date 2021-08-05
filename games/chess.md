@@ -5,6 +5,10 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 
 [Gotham Chess](https://www.youtube.com/c/GothamChess/videos), [Eric Rosen](https://www.youtube.com/user/RosenChess/videos) and [Daniel Naroditsky](https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw/videos) have lots of videos to learn Chess from + enjoyable commentary.
 
+## Nice players
+
+- [Jan-Krzysztof Duda](https://www.youtube.com/results?search_query=Jan-Krzysztof+Duda)
+
 ## Notes
 
 - [Most "best moves" in a game are quite obvious. Most blunders occur in the endgame because the position is complicated and there's usually only 1 good move and everything else is terrible. So you think a lot trying to find the 1 good move and then fail.](https://www.reddit.com/r/chess/comments/nwq4qk/blunder_rate_versus_time_spent_on_move_25_million/)

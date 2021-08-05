@@ -190,3 +190,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice (2015)](https://www.goodreads.com/book/show/22609522-red-notice)
 - [RUSSPASS](https://russpass.ru/) - Цифровая туристическая платформа.
 - [Where do Russians commonly go on holiday? (2021)](https://www.reddit.com/r/AskARussian/comments/oycibu/where_do_russians_commonly_go_on_holiday/)
+- [ТОП-15 заброшенных городов России](https://most-beauty.ru/mesta/top-15-zabroshennyh-gorodov-rossii.html)
