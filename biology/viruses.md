@@ -85,3 +85,4 @@
 - [What mRNA is good for, and what it maybe isn’t (2021)](https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt) ([HN](https://news.ycombinator.com/item?id=27681418))
 - [Испытания вакцин. Открытый научный семинар с Константином Севериновым (2021)](https://www.youtube.com/watch?v=5ebHY-M0JOU)
 - [CovidPass](https://covidpass.marvinsextro.de/) - Add your EU Digital COVID Certificates to your favorite wallet apps. ([Code](https://github.com/covidpass-org/covidpass))
+- [The mRNA Vaccines Are Extraordinary, but Novavax Is Even Better (2021)](https://www.theatlantic.com/health/archive/2021/06/novavax-now-best-covid-19-vaccine/619276/) ([Tweet](https://twitter.com/DavidSacks/status/1423190473603174403))
