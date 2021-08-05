@@ -350,3 +350,5 @@
 - [NeX: Real-time View Synthesis with Neural Basis Expansion (2021)](https://nex-mpi.github.io/) ([Code](https://github.com/nex-mpi/nex-code))
 - [Convolutional Occupancy Networks (2020)](https://pengsongyou.github.io/conv_onet) ([Code](https://github.com/autonomousvision/convolutional_occupancy_networks))
 - [Learning Optical Flow from a Few Matches (2021)](https://arxiv.org/abs/2104.02166) ([Code](https://github.com/zacjiang/SCV))
+- [Visual Parser: Representing Part-whole Hierarchies with Transformers (2021)](https://arxiv.org/abs/2107.05790) ([Code](https://github.com/kevin-ssy/ViP))
+- [Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation](http://jianghz.me/projects/superslomo/) ([Code](https://github.com/avinashpaliwal/Super-SloMo))

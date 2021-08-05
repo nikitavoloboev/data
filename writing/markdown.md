@@ -73,3 +73,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Markdown Lint](https://github.com/markdownlint/markdownlint) - Tool to check markdown files and flag style issues.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor. ([Code](https://github.com/benweet/stackedit))
 - [HackMD](https://hackmd.io/) - Collaborative Markdown Knowledge Base.
+- [CodiMD](https://github.com/hackmdio/codimd) - Real time collaborative markdown notes on all platforms.

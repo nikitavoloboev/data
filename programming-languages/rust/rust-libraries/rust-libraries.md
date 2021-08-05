@@ -911,6 +911,7 @@
 - [peekread](https://github.com/orlp/peekread) - Allows you to take an arbitrary Read stream and 'peek ahead' into the stream without consuming the original stream.
 - [Dialectic](https://github.com/boltlabs-inc/dialectic) - Transport-polymorphic, asynchronous session types for Rust.
 - [MRML](https://github.com/jdrouet/mrml) - Reimplementation of the nice MJML markup language in Rust.
+- [p2panda](https://github.com/p2panda/p2panda) - Provides all tools required to write a client for the p2panda network.
 
 ## Cargo Plugins
 
@@ -986,3 +987,4 @@
 - [Rust Libs Team](https://github.com/rust-lang/libs-team) - Maintains and manages the Rust standard library, and makes sure crates in the Rust organization are maintained.
 - [Doku](https://github.com/anixe/doku) - Framework for building documentation with code-as-data methodology in mind.
 - [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - Library to easily and effortlessly integrate Cargo projects with Nix.
+- [version-sync](https://github.com/mgeisler/version-sync) - Keep your Version Numbers in Sync with Cargo.toml.

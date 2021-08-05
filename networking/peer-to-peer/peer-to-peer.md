@@ -83,3 +83,4 @@
 - [TDN](https://github.com/cypherlink/TDN) - Trusted Distributed Network. (Also micro-framework for building blockchain-like DApp).
 - [ThreadDB](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p.
 - [Bamboo](https://github.com/AljoschaMeyer/bamboo) - Cryptographically secure, distributed, single-writer append-only log that supports transitive partial replication and local deletion of data.
+- [p2panda](https://p2panda.org/) - p2p communications protocol for playful, secure, data-efficient, offline- and local-first web apps. ([GitHub](https://github.com/p2panda)) ([Spec](https://github.com/p2panda/design-document))

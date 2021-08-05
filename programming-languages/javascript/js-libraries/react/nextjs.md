@@ -38,6 +38,7 @@
 - [Trello Clone](https://github.com/knowankit/trello-clone) - Built with Nextjs framework with Typescript and Chakra UI library with support from MongoDB.
 - [XState Next Boilerplate](https://github.com/mattpocock/xstate-next-boilerplate) - Performant, robust starting point for any React application.
 - [Create Next Stack](https://github.com/akd-io/create-next-stack) - Opinionated interactive CLI tool to easily set up the boilerplate of a new Next.js app.
+- [Liveblocks × Next.js](https://github.com/liveblocks/next-js-examples) - Shows how to use Liveblocks with Next.js.
 
 ## NextJS plugins
 
