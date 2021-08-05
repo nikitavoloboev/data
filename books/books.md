@@ -396,3 +396,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Writing an iOS book: tools/process used (2021)](https://twitter.com/JordanMorgan10/status/1422189031547363328)
 - [The 4 Reading Levels: Different Ways To Read Different Books (2018)](https://www.thecuriousreader.in/features/reading-levels/)
 - [Apress](https://www.apress.com/) - Book publisher. ([GitHub](https://github.com/Apress))
+- [ЛитРес](https://www.litres.ru/) - Библиотека электронных книг – скачивай, читай и слушай. ([GitHub](https://github.com/Litres))

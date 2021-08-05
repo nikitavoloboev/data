@@ -186,3 +186,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Political climate in Russia (2021)](https://www.reddit.com/r/AskARussian/comments/ot5lnp/what_do_you_think_foreigners_should_know_about/)
 - [Дело 212](https://delo212.ru/) - Наше общее дело. ([Открытое письмо](https://github.com/developers-against-repressions/case-212))
 - [A Soviet Prisoner's View on What's Important](https://newsletter.butwhatfor.com/p/speech-at-the-stadium) ([HN](https://news.ycombinator.com/item?id=28035213))
+- [Браудер – о «самых опасных» для Путина санкциях (2021)](https://www.youtube.com/watch?v=LAY6llT6CS4)
+- [Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice (2015)](https://www.goodreads.com/book/show/22609522-red-notice)
