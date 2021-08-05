@@ -413,3 +413,4 @@
 - [KubeArmor](https://kubearmor.com/) - Container-aware Runtime Security Enforcement System. ([Code](https://github.com/kubearmor/KubeArmor))
 - [External Secrets](https://github.com/external-secrets/external-secrets) - Kubernetes operator reads information from a third party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. ([Docs](https://external-secrets.io/))
 - [NSA Kubernetes Hardening Guidance (2021)](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF) ([HN](https://news.ycombinator.com/item?id=28050750))
+- [Two year update: Building an Open Source Marketplace for Kubernetes (2021)](https://blog.alexellis.io/kubernetes-marketplace-two-year-update/)

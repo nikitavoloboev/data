@@ -105,3 +105,4 @@
 - [Astronomy Photographer of the Year 2021 shortlist images](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)
 - [Starbase Factory Tour with Elon Musk (2021)](https://www.youtube.com/watch?v=t705r8ICkRw)
 - [Turion Space](https://www.turionspace.com/) - Space debris removal and satellite servicing. ([HN](https://news.ycombinator.com/item?id=28061725))
+- [First a red giant cooks its planets, then it turns them into mini-stars (2021)](https://www.syfy.com/syfywire/first-a-red-giant-cooks-its-planets-then-it-turns-them-into-mini-stars) ([Tweet](https://twitter.com/BadAstronomer/status/1423304158598234112))

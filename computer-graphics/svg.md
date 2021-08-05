@@ -93,3 +93,4 @@
 - [Hero Patterns](https://www.heropatterns.com/) - Free repeatable SVG background patterns for your web projects.
 - [Polymorph](https://github.com/notoriousb1t/polymorph) - Morph SVG Paths. ([Docs](https://notoriousb1t.github.io/polymorph-docs/))
 - [scribby](https://github.com/naknomum/scribby) - JavaScript library which lets users draw simple "scribbles" on a web page.
+- [Fire SVG animations (SMIL) when the SVG is visible (2021)](https://www.zachleat.com/web/svg-animate/)
