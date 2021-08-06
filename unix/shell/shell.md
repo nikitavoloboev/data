@@ -145,3 +145,4 @@ All active variables can be seen by running `env`.
 - [How Warp Works (2021)](https://blog.warp.dev/how-warp-works/) ([Lobsters](https://lobste.rs/s/16pj8p/how_warp_works))
 - [TStream](https://github.com/qnkhuat/tstream) - Live streaming from your terminal. ([Web](https://www.tstream.club/))
 - [; echo "Shell Injection" (2021)](https://matklad.github.io//2021/07/30/shell-injection.html) ([Lobsters](https://lobste.rs/s/v0zrtr/echo_shell_injection))
+- [Unix Shell: History and Trivia (2021)](https://www.oilshell.org/blog/2021/08/history-trivia.html)

@@ -423,3 +423,4 @@
 - [Creative Code Management (2021)](https://www.bit-101.com/blog/2021/08/creative-code-management/) ([HN](https://news.ycombinator.com/item?id=28028610))
 - [Reflections on 10,000 Hours of Programming (2021)](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
 - [Ask HN: What has improved You as a Developer? (2021)](https://news.ycombinator.com/item?id=28085189)
+- [A Practical Theory of Programming](http://www.cs.toronto.edu/~hehner/aPToP/)
