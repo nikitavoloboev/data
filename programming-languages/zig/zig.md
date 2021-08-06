@@ -3,6 +3,7 @@
 ## Notes
 
 - [Zig compiler pipeline is: tokenize -> parse -> astgen -> sema -> codegen](https://twitter.com/andy_kelley/status/1388268643075563520)
+- [Automatic error unions, required error handling, errdefer, and the try keyword really give Zig my favorite error handling feel of any language.](https://lobste.rs/s/xbncik/rust_first_thoughts)
 
 ## Links
 

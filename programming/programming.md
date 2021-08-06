@@ -424,3 +424,4 @@
 - [Reflections on 10,000 Hours of Programming (2021)](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
 - [Ask HN: What has improved You as a Developer? (2021)](https://news.ycombinator.com/item?id=28085189)
 - [A Practical Theory of Programming](http://www.cs.toronto.edu/~hehner/aPToP/)
+- [Stack Overflow Developer Survey 2021](https://insights.stackoverflow.com/survey/2021) ([Lobsters](https://lobste.rs/s/hnbrpv/stack_overflow_developer_survey_2021))

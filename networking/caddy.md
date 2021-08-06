@@ -30,3 +30,4 @@
 - [VSCode Caddyfile Syntax](https://github.com/Zamerick/vscode-caddyfile-syntax) - Extension adds syntax highlighting for Caddyfiles.
 - [Dynamic DNS app for Caddy](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.
 - [caddy-exec](https://github.com/abiosoft/caddy-exec) - Caddy v2 module for running one-off commands.
+- [Easier alternative to Nginx + Lets Encrypt with Caddy Docker Proxy (2021)](https://matduggan.com/easier-alternative-to-nginx-lets-encrypt-with-caddy/)

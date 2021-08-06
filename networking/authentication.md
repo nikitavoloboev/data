@@ -140,3 +140,4 @@
 - [OAuth2orize](https://github.com/jaredhanson/oauth2orize) - OAuth 2.0 authorization server toolkit for Node.js.
 - [jwx](https://github.com/lestrrat-go/jwx) - Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies.
 - [Tekitoi](https://github.com/jdrouet/tekitoi) - Lightweight, opensource and simple to use alternative to Auth0 and Keycloak.
+- [SAML is insecure by design (2021)](https://joonas.fi/2021/08/saml-is-insecure-by-design/) ([HN](https://news.ycombinator.com/item?id=28064835))

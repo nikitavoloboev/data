@@ -127,3 +127,4 @@
 - [JlcParts](https://yaqwsx.github.io/jlcparts/#/) - Better parametric search for components available for JLC PCB assembly. ([Code](https://github.com/yaqwsx/jlcparts))
 - [KiCad EDA](https://www.kicad.org/) - Schematic Capture & PCB Design Software.
 - [KiKit](https://github.com/yaqwsx/KiKit) - Automation for KiCAD.
+- [The Rust standard library on Espressif chips (2021)](https://mabez.dev/blog/posts/esp-rust-espressif/) ([Lobsters](https://lobste.rs/s/rwzgka/rust_standard_library_on_espressif_chips))

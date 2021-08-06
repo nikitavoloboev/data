@@ -7,6 +7,7 @@
 - [Rust's key feature - the borrow-checker - relies on the idea that each value has a single "owner" at any given time. This owner can be a function, another value (a parent struct), etc. You can put these values on the heap, but if you use Box (the go-to for heap allocation), that pointer still has to have a single logical "owner". Under idiomatic Rust, each value effectively lives in one single "place". This allows the compiler to determine with 100% confidence at what point it's no longer being used and can therefore be de-allocated.](https://news.ycombinator.com/item?id=24991848)
   - Now, these values can be lent out ("borrowing") to sub-functions and such via references (mutable or immutable). Multiple immutable references can be handed out at once, but a mutable reference to a value has to be the only reference to that value of any kind, at a given time.
 - [My go to for Rust actors package is usually tokio::sync::mpsc and tokio::spawn.](https://twitter.com/DavidPdrsn/status/1418554353586262021)
+- [For error handling: We use anyhow for applications, thiserror for libraries.](https://lobste.rs/s/xbncik/rust_first_thoughts)
 
 ## Links
 

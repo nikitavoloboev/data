@@ -355,3 +355,4 @@
 - [InitWare](https://github.com/InitWare/InitWare) - Fork of systemd. Allows you to manage services and system resources as logical entities called units. ([Lobsters](https://lobste.rs/s/jx3cr6/initware_systemd_fork_runs_on_openbsd_for))
 - [earlyoom](https://github.com/rfjakob/earlyoom) - Early OOM Daemon for Linux.
 - [docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism.
+- [Provision an Ubuntu-based EC2 instance with CDK (2021)](https://loige.co/provision-ubuntu-ec2-with-cdk/)
