@@ -11,3 +11,4 @@
 - [workerize-loader](https://github.com/developit/workerize-loader) - A webpack loader that moves a module and its dependencies into a Web Worker, automatically reflecting exported functions as asynchronous proxies.
 - [Catiline.js](https://github.com/calvinmetcalf/catiline) - JavaScript library to take the pain out of web workers. ([Web](http://catilinejs.com/))
 - [The State Of Web Workers In 2021](https://www.smashingmagazine.com/2021/06/web-workers-2021/)
+- [esbuild-plugin-inline-worker](https://github.com/mitschabaude/esbuild-plugin-inline-worker) - Esbuild loader for inline Web Workers.

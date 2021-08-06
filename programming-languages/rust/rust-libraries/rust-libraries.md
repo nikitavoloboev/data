@@ -912,6 +912,7 @@
 - [Dialectic](https://github.com/boltlabs-inc/dialectic) - Transport-polymorphic, asynchronous session types for Rust.
 - [MRML](https://github.com/jdrouet/mrml) - Reimplementation of the nice MJML markup language in Rust.
 - [p2panda](https://github.com/p2panda/p2panda) - Provides all tools required to write a client for the p2panda network.
+- [log4rs](https://github.com/estk/log4rs) - Highly configurable logging framework for Rust.
 
 ## Cargo Plugins
 

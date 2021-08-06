@@ -241,3 +241,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-lsp-ts-utils](https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
 - [nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [neovimcraft](https://neovimcraft.com/) - Search through our curated list of neovim plugins. ([Code](https://github.com/neurosnap/neovimcraft))
+- [kyoto.nvim](https://github.com/samrath2007/kyoto.nvim) - Fast, functional and beautiful Neovim configuration.
