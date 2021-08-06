@@ -60,3 +60,4 @@
 - [Durable Objects: Easy, Fast, Correct — Choose three (2021)](https://blog.cloudflare.com/durable-objects-easy-fast-correct-choose-three/)
 - [Modernizing a familiar approach to REST APIs, with PostgreSQL and Cloudflare Workers (2021)](https://blog.cloudflare.com/modernizing-a-familiar-approach-to-rest-apis-with-postgresql-and-cloudflare-workers/)
 - [Build data-driven applications with Workers and PostgreSQL](https://developers.cloudflare.com/workers/tutorials/postgres) ([Code](https://github.com/cloudflare/postgres-postgrest-cloudflared-example)) ([Video](https://www.youtube.com/watch?v=inLOwovtqQM))
+- [workers-jwt](https://github.com/sagi/workers-jwt) - Generate JWTs on Cloudflare Workers using the WebCrypto API.

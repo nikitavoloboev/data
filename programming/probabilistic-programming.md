@@ -5,7 +5,7 @@
 - [An Introduction to Probabilistic Programming (2018)](https://arxiv.org/abs/1809.10756)
 - [pdatastructs](https://github.com/crepererum/pdatastructs.rs) - Simple probabilistic data structures.
 - [Gen](https://github.com/probcomp/Gen) - General-purpose probabilistic programming system with programmable inference.
-- [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/)
+- [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/) ([GitHub](https://github.com/probcomp))
 - [End-User Probabilistic Programming paper by Microsoft Research](https://www.cs.uoregon.edu/research/summerschool/summer19/lecture_notes/DRAFT___Probabilistic_Programming_for_End_Users.pdf)
 - [monad-bayes](https://github.com/adscib/monad-bayes) - Library for probabilistic programming in Haskell.
 - [Funsor](https://github.com/pyro-ppl/funsor) - Functional tensors for probabilistic programming.
@@ -26,3 +26,4 @@
 - [Probabilistic Programming for Inverse Problems in Physical Sciences (2021)](https://www.iiia.csic.es/en-us/news-events/seminar-details/?seminar_id=35)
 - [Probabilistic Programming for Programming Languages People](http://adriansampson.net/doc/ppl.html) ([Code](https://github.com/sampsyo/ppl-intro))
 - [SPPL](https://github.com/probcomp/sppl) - Sum-Product Probabilistic Language.
+- [Gen](https://www.gen.dev/) - Open-source stack for generative modeling and probabilistic inference. ([Code](https://github.com/probcomp/Gen.jl))
