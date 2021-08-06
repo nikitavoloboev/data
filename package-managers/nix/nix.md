@@ -201,3 +201,4 @@
 - [nix-plugins](https://github.com/shlevy/nix-plugins) - Collection of useful Nix native plugins.
 - [Nix.Ci](https://nix.ci/) - Provides the CI integration infrastructure for Nixpkgs and NixOS. More commonly known as OfBorg. ([Code](https://github.com/NixOS/ofborg))
 - [nix-user-chroot](https://github.com/nix-community/nix-user-chroot) - Install & Run nix without root permissions.
+- [Another Nix Success Story (2021)](https://maxdeviant.com/shards/2021/another-nix-success-story/) ([Lobsters](https://lobste.rs/s/sfacek/another_nix_success_story))
