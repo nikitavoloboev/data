@@ -25,3 +25,4 @@
 - [Semantics of probabilistic programs](https://ieeexplore.ieee.org/document/4568006) ([Tweet](https://twitter.com/tobycmurray/status/1382137010043817986))
 - [Probabilistic Programming for Inverse Problems in Physical Sciences (2021)](https://www.iiia.csic.es/en-us/news-events/seminar-details/?seminar_id=35)
 - [Probabilistic Programming for Programming Languages People](http://adriansampson.net/doc/ppl.html) ([Code](https://github.com/sampsyo/ppl-intro))
+- [SPPL](https://github.com/probcomp/sppl) - Sum-Product Probabilistic Language.

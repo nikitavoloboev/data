@@ -443,6 +443,7 @@
 - [Mesa](https://github.com/projectmesa/mesa) - Agent-based modeling framework in Python. ([Docs](https://mesa.readthedocs.io/en/master/))
 - [borb](https://github.com/jorisschellekens/borb) - Library for creating and manipulating PDF files in python.
 - [Patsy](https://github.com/pydata/patsy) - Describing statistical models in Python using symbolic formulas.
+- [Twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
 
 ## Links
 
