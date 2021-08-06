@@ -188,3 +188,4 @@
 - [What even is data mesh (2021)](https://cnr.sh/essays/what-the-heck-data-mesh)
 - [Build 12 Data Science Apps with Python and Streamlit - Full Course (2021)](https://www.youtube.com/watch?v=JwSS70SZdyM)
 - [JetBrains DataSpell](https://www.jetbrains.com/dataspell/) - IDE for Data Scientists.
+- [node-rapids](https://github.com/rapidsai/node) - GPU-accelerated data science and visualization in node.

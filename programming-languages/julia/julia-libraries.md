@@ -261,6 +261,7 @@
 - [Javis](https://github.com/Wikunia/Javis.jl) - Julia Animations and Visualizations. ([First YouTube video created with Javis](https://opensourc.es/blog/first-javis-video/))
 - [Juniper](https://github.com/lanl-ansi/Juniper.jl) - JuMP-based Nonlinear Integer Program Solver.
 - [ConstraintSolver.jl](https://github.com/Wikunia/ConstraintSolver.jl) - Constraint solver completely written in Julia.
+- [IterTools.jl](https://github.com/JuliaCollections/IterTools.jl) - Common functional iterator patterns.
 
 ## Links
 

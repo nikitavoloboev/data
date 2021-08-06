@@ -569,6 +569,7 @@
 - [mississippi](https://github.com/maxogden/mississippi) - Collection of useful stream utility modules for writing better code using streams.
 - [TinyEvents](https://github.com/sachinchoolur/tiny-events.js) - Tiny event utility library.
 - [lightGallery](https://github.com/sachinchoolur/lightGallery) - Lightweight, modular, JavaScript image and video lightbox gallery plugin. Available for React.js, Vue.js, Angular, and TypeScript. ([Web](https://www.lightgalleryjs.com/))
+- [Cropper.js](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper. ([Web](https://fengyuanchen.github.io/cropperjs/))
 
 ## Links
 
