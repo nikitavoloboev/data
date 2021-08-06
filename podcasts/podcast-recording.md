@@ -27,3 +27,4 @@
 - [What software do you use to edit/produce podcasts?](https://twitter.com/tylertringas/status/1399768425795293185)
 - [Podcast Transcript](https://www.getwelder.com/podcast-transcript) - Get your podcast transcription for free, in browser.
 - [Decentralized podcast platforms](https://twitter.com/cgcardona/status/1417848042665828363)
+- [What makes an interview podcast good or great? (2021)](https://marginalrevolution.com/marginalrevolution/2021/08/what-makes-a-podcast-good-or-great.html) ([HN](https://news.ycombinator.com/item?id=28059889))
