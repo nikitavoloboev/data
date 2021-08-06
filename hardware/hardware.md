@@ -216,3 +216,4 @@
 - [Nothing](https://nothing.tech/) - Technology should fade into the background and feel like nothing.
 - [How does n-key rollover work? (2021)](https://www.youtube.com/watch?v=2lPzTU-3ONI)
 - [Pillars](https://github.com/pku-dasys/pillars) - Integrated CGRA design framework.
+- [Reverse Engineering the M1 (2021)](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf) ([HN](https://news.ycombinator.com/item?id=28079038))

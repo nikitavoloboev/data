@@ -107,4 +107,4 @@
 - [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python. ([Web](https://seaborn.pydata.org/))
 - [dtreeviz](https://github.com/parrt/dtreeviz) - Python library for decision tree visualization and model interpretation.
 - [In defense of simple charts (2021)](https://blog.datawrapper.de/in-defense-of-simple-charts/) - Simple visualization types don’t need to be boring.
-- [Visualizing a codebase (2021)](https://octo.github.com/projects/repo-visualization) ([Tweet](https://twitter.com/Wattenberger/status/1423259472919674882))
+- [Visualizing a codebase (2021)](https://octo.github.com/projects/repo-visualization) ([Tweet](https://twitter.com/Wattenberger/status/1423259472919674882)) ([Lobsters](https://lobste.rs/s/ipghop/visualizing_codebase))
