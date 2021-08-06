@@ -262,6 +262,7 @@
 - [Juniper](https://github.com/lanl-ansi/Juniper.jl) - JuMP-based Nonlinear Integer Program Solver.
 - [ConstraintSolver.jl](https://github.com/Wikunia/ConstraintSolver.jl) - Constraint solver completely written in Julia.
 - [IterTools.jl](https://github.com/JuliaCollections/IterTools.jl) - Common functional iterator patterns.
+- [MethodAnalysis](https://github.com/timholy/MethodAnalysis.jl) - Utilities to analyze Julia's method tables.
 
 ## Links
 

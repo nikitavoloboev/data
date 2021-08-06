@@ -92,3 +92,4 @@ Might give it a go sometime.
 - [Emacs Lisp book revived: Marcin Borkowski (2021)](http://mbork.pl/2021-05-01_Emacs_Lisp_book_revived) ([HN](https://news.ycombinator.com/item?id=27005000))
 - [How to maintain your Emacs configuration (2021)](https://en.liujiacai.net/2021/05/21/emacs-package/)
 - [Emacs Love Tale (2021)](https://emacs.love/tales/emacs-love-tale-by-sdp.html) ([HN](https://news.ycombinator.com/item?id=27516073))
+- [The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy (2021)](https://karl-voit.at/2021/07/23/emacs-lock-in/) ([HN](https://news.ycombinator.com/item?id=28091520))

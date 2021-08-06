@@ -62,3 +62,4 @@
 - [Stake Pools in Solana explained (2021)](https://twitter.com/solana/status/1418602302697611265)
 - [How to best stake Solana (2021)](https://www.reddit.com/r/solana/comments/orva8d/what_would_you_do/)
 - [Socean](https://www.socean.fi/) - Stake with the best validators, secure the network, and take part in the Solana DeFi ecosystem. ([Tweet](https://twitter.com/SoceanFinance/status/1421152202039590912))
+- [solana/wallet-adapter](https://github.com/solana-labs/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.

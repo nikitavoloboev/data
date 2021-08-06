@@ -99,3 +99,4 @@
 - [We need to talk about testing (2021)](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/) ([HN](https://news.ycombinator.com/item?id=27970030))
 - [Property-based testing is not the same as partition testing (2021)](https://blog.ploeh.dk/2021/06/28/property-based-testing-is-not-the-same-as-partition-testing/)
 - [Choosing properties for property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
+- [Growth Book](https://www.growthbook.io/) - Open Source A/B Testing Platform. ([Code](https://github.com/growthbook/growthbook))

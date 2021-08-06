@@ -341,6 +341,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Petros Koublis](http://petroskoublis.com/main.html)
 - [Briscoe Park](https://www.instagram.com/briscoepark/)
 - [Platon](https://www.instagram.com/platon/)
+- [Anete Hiie](https://www.instagram.com/anetehiie/) ([Reddit](https://www.reddit.com/user/anetehiie/))
 - [Jason Falchook](http://www.jasonfalchook.com/)
 - [Most detailed ever photograph of The Night Watch goes online](https://www.rijksmuseum.nl/en/most-detailed-ever-photograph-of-the-night-watch-goes-online) ([HN](https://news.ycombinator.com/item?id=23151934))
 - [Restricted Areas](http://www.danilatkachenko.com/projects/restricted-areas/)

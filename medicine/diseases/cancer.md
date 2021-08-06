@@ -20,3 +20,4 @@
 - [JEFworks Lab](https://jef.works/) - Work on computational software and statistical approaches to address questions in developmental and cancer biology.
 - [How a Cancer Drug Carrier's Structure Can Help Selectively Target Cancer Cells (2021)](https://www.tus.ac.jp/en/mediarelations/archive/20210126_1212.html) ([HN](https://news.ycombinator.com/item?id=25966275))
 - [Notes on My Chemotherapy (2021)](https://www.charlieharrington.com/chemotherapy) ([HN](https://news.ycombinator.com/item?id=26041001))
+- [Books to help cope with cancer (2021)](https://www.reddit.com/r/suggestmeabook/comments/oz4pbl/im_25_years_old_and_my_mother_is_quickly_and/)

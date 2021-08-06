@@ -323,3 +323,4 @@
 - [Can a Fruit Fly Learn Word Embeddings? (2021)](https://arxiv.org/abs/2101.06887)
 - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) - Natural Language Processing library built on top of Apache Spark ML. ([Web](https://nlp.johnsnowlabs.com/))
 - [Spark NLP Workshop](https://github.com/JohnSnowLabs/spark-nlp-workshop) - Showcasing notebooks and codes of how to use Spark NLP in Python and Scala.
+- [ConceptNet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) - Set of semantic vectors (also known as word embeddings) than can be used directly as a representation of word meanings.

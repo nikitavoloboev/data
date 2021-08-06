@@ -184,3 +184,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [How to DAO 101: Choosing a Tech Stack for CabinDAO](https://creators.mirror.xyz/862A5rBtKX3BC8eEircDnGwPIJJTJ33hn-MvnukByPc)
 - [DevX Initiative](https://devxinitiative.org/) - Express yourself, home of code, ideas and ethics.
 - [PartyBid](https://github.com/PartyDAO/partybid) - Protocol that allows a group of internet homies to pool their funds together in order to win an NFT auction.
+- [Hyperledger Caliper](https://github.com/hyperledger/caliper) - Blockchain benchmark framework to measure performance of multiple blockchain solutions. ([Web](https://hyperledger.github.io/caliper/))

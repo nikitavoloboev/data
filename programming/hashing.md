@@ -43,3 +43,4 @@
 - [Introduction to Locality-Sensitive Hashing (2018)](http://tylerneylon.com/a/lsh1/) ([HN](https://news.ycombinator.com/item?id=27614381))
 - [An efficient way to make hash maps with insertion ordering (2021)](https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a) ([Lobsters](https://lobste.rs/s/s9geyj/hash_maps_don_t_hate_you)) ([HN](https://news.ycombinator.com/item?id=27698059))
 - [Meow Hash](https://github.com/cmuratori/meow_hash) - Fast hash taking 128 bytes of seed and producing 128 bits of output. ([Cryptanalysis of Meow Hash](https://peter.website/meow-hash-cryptanalysis))
+- [The Problem with Perceptual Hashes (2021)](https://rentafounder.com/the-problem-with-perceptual-hashes/)

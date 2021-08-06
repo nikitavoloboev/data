@@ -171,6 +171,8 @@
 - [Predictive Horizontal Pod Autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler)
 - [Kubie](https://github.com/sbstp/kubie) - More powerful alternative to kubectx and kubens. ([Article](https://blog.sbstp.ca/introducing-kubie/))
 - [Crossplane](https://github.com/crossplane/crossplane) - Open source control plane to manage your infrastructure and applications the Kubernetes way. ([Web](https://crossplane.io/))
+- [xgql](https://github.com/upbound/xgql) - GraphQL API for Crossplane.
+- [Upbound](https://www.upbound.io/) - Open source, production-ready, vendor-supported distribution of Crossplane.
 - [Kubernetes Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 - [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client featuring auto-complete.
 - [Kubernetes Custom Resource API Reference Docs generator](https://github.com/ahmetb/gen-crd-api-reference-docs)
@@ -414,3 +416,4 @@
 - [External Secrets](https://github.com/external-secrets/external-secrets) - Kubernetes operator reads information from a third party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. ([Docs](https://external-secrets.io/))
 - [NSA Kubernetes Hardening Guidance (2021)](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF) ([HN](https://news.ycombinator.com/item?id=28050750))
 - [Two year update: Building an Open Source Marketplace for Kubernetes (2021)](https://blog.alexellis.io/kubernetes-marketplace-two-year-update/)
+- [Tools to Run Kubernetes Locally (2021)](https://yankee.dev/6-tools-to-run-kubernetes-locally) ([HN](https://news.ycombinator.com/item?id=28085741))

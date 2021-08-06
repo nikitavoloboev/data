@@ -97,3 +97,4 @@
 - [dogsheep-beta](https://github.com/dogsheep/dogsheep-beta) - Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette.
 - [absurd-sql.js-backend](https://github.com/jlongster/absurd-sql.js-backend) - sqlite3 in ur indexeddb.
 - [SQLite Is Dynamically Typed (2020)](https://blog.zachwf.com/posts/sqlite-is-dynamically-typed/) ([HN](https://news.ycombinator.com/item?id=28050198))
+- [Sqlite µLogger](https://github.com/siara-cc/sqlite_micro_logger_c) - Fast and Lean database logger that can log data into Sqlite databases even with SRAM as low as 2kb.

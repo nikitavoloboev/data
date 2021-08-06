@@ -121,3 +121,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Becoming a Chess Grandmaster (2021)](https://nextlevelchess.blog/how-to-become-a-grandmaster-in-chess/) ([HN](https://news.ycombinator.com/item?id=27948000))
 - [Prettier Lichess](https://prettierlichess.github.io/) - Lichess, but prettier. ([Code](https://github.com/prettierlichess/prettierlichess))
 - [Ghess: How to write a Chess Engine (2021)](https://opensourc.es/blog/ghess-how-to-write-a-chess-engine/) ([Code](https://github.com/Wikunia/Ghess))
+- [My SECRET Grandmaster Training (2021)](https://www.youtube.com/watch?v=8jY95rOsxv0)

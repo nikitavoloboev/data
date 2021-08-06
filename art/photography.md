@@ -131,3 +131,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Fujifilm Film Simulation Recipes that will make you stop shooting RAW (2021)](https://www.youtube.com/watch?v=b1BOnOfSNPU)
 - [Who are some of your favorite photographers? (2021)](https://www.reddit.com/r/photography/comments/nyijta/who_are_some_of_your_favourite_photographers/)
 - [IPPAWARDS](https://www.ippawards.com/) - iPhone Photography Awards.
+- [Film Photography Basics course](https://www.anetehiie.com/film-photography-basics-course)

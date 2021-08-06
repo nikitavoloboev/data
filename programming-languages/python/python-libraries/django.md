@@ -91,3 +91,4 @@
 - [Building MVPs fast on Django (2021)](https://davidkell.substack.com/p/davids-opinionated-guide-for-building)
 - [Building a Django driver for Psycopg 3 (2021)](https://www.psycopg.org/articles/2021/08/02/psycopg3-django-driver/) ([HN](https://news.ycombinator.com/item?id=28034581))
 - [Python Django Web Framework - Full Course for Beginners (2019)](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+- [Django Hijack](https://github.com/django-hijack/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
