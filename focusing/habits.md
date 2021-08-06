@@ -2,9 +2,9 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to ensure I complete my 6 daily habits I try to follow to live a [happy life](../life/happiness.md). The habits are chosen with great care and are a subset of my life [rules](rules.md) .
 
-![](https://i.imgur.com/OKLv81r.png)
+![](https://i.imgur.com/0RLYD1c.png)
 
-I get a notification every day at 21:00 on my phone to complete the habits.
+I get a notification every day at 20:00 on my phone to complete the habits.
 
 ## Habits described
 
@@ -12,13 +12,13 @@ I get a notification every day at 21:00 on my phone to complete the habits.
 
 `Activity rings` autofilled through my health data and is marked as done when all the ring goals are complete. My current calorie goal is ~ 700 calories with fixed 50 min workout & 12H standing goals.
 
-`Healthy | Tea | Clean Skin` marked as done when I drank only water & tea. Limited coffee if any (get focus crushes). And ate only/primarily [nutritious whole foods (nuts/veggies/fruits)](../health/nutrition/foods.md) with focus on completing my [micro & macro nutrient goals](../health/nutrition/nutrition.md). I also [kept my skin clean](../health/skin-care.md) and washed/smelled well.
+`Healt | Clean` marked as done when I drank mostly water & tea with limited coffee (if any, as I often get attention crashes after). I also ate only/primarily [nutritious whole foods (nuts/veggies/fruits/..)](../health/nutrition/foods.md) with focus on completing my [micro & macro nutrient goals](../health/nutrition/nutrition.md). I also [kept my skin clean](../health/skin-care.md) and washed/smelled well throughout the day.
 
-`Focus | Impact | Improve` marked as done when I was not distracted by anything during the day (went through my todos one by one) (no analytics & pointless time wasters). I worked on my [goals](goals.md) & used time wisely. I was calm, mindful and happy.
+`Focus | Impact` marked as done when I was not distracted by anything during the day (went through my todos one by one) (no analytics & pointless time wasters). I worked on my [goals](goals.md) & used time wisely. I was calm, mindful and happy.
 
-`Love | Create | Share` marked as done when all/most of my [values](../business/startups/values.md) and [rules](rules.md) were held well. I showed love to people I care about. I was nice. I made new things and shared it.
+`Kind` marked as done when all/most of my [values](../business/startups/values.md) and [rules](rules.md) were held well. I showed love to people I care about. I was nice. I made new things and shared it.
 
-`Habits | Plan | Reflect` marked as done when all the 6 habits here were complete. I made a plan for tomorrow and reflected on the day in [my journal](../looking-back/looking-back.md). Writing helps me clear up my mind and clean up life and my thinking.
+`Plan | Reflect` marked as done when I made a plan for tomorrow and reflected on the day in [my journal](../looking-back/looking-back.md). Writing helps me clear up my mind and clean up life and my thinking.
 
 ## New habits
 
