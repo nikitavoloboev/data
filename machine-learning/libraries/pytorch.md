@@ -265,3 +265,4 @@
 - [TorchShard](https://github.com/KaiyuYue/torchshard) - Slicing a PyTorch Tensor Into Parallel Shards.
 - [Growing open-source: from Torch to PyTorch (2021)](https://soumith.ch/posts/2021/02/growing-opensource/)
 - [PyTorch implementation of "Supervised Contrastive Learning"](https://github.com/HobbitLong/SupContrast)
+- [Equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations => neural networks in JAX.
