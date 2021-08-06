@@ -224,3 +224,4 @@
 - [Authentication Patterns for Next.js (2020)](https://www.youtube.com/watch?v=NSR_Y_rm_zU)
 - [next-intl](https://github.com/amannn/next-intl) - Minimal, but complete solution for managing translations, date, time and number formatting in Next.js apps. ([Article](https://www.thisdot.co/blog/next-js-adding-localization-with-next-intl))
 - [Authentication for NextJS with GraphQL & REST APIs and SSR (Server Side Rendering)](https://wundergraph.com/blog/authentication_for_nextjs_with_graphql_and_rest_apis_and_server_side_rendering)
+- [fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next.
