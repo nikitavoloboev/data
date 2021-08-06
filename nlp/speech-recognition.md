@@ -61,3 +61,4 @@
 - [LeBenchmark: a reproducible framework for assessing SSL from speech](https://github.com/LeBenchmark/Interspeech2021)
 - [INTERSPEECH 2021](https://www.interspeech2021.org/)
 - [WER are we?](https://github.com/syhw/wer_are_we) - Tracking states of the art(s) and recent results on speech recognition.
+- [GigaSpeech](https://github.com/SpeechColab/GigaSpeech) - Large, modern dataset for speech recognition.
