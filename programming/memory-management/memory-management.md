@@ -44,3 +44,4 @@
 - [Baby's First Garbage Collector (2013)](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) - Building simple mark-sweep garbage collector in C. ([Code](https://github.com/munificent/mark-sweep))
 - [Heapusage](https://github.com/d99kris/heapusage) - Find memory leaks in Linux and macOS applications.
 - [Slitter](https://github.com/backtrace-labs/slitter) - C- and Rust-callable slab allocator implemented primarily in Rust, with some C for performance or to avoid unstable Rust features.
+- [Mitigating Memory-Safety Bugs with Efficient Out-of-Process Integrity Checking (2021)](http://reports-archive.adm.cs.cmu.edu/anon/2021/CMU-CS-21-113.pdf)
