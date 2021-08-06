@@ -159,7 +159,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS based on binary space partitioning.
 - [3 Advanced Workflows for "Things" Power User](https://fabriziorinaldi.io/blog/things-advanced-workflows)
 - [Apps & services (Russian)](https://www.notion.so/54e01db500f24267afcf528cc02284a6)
-- [List of most "well-crafted" piece of macOS software you use? (2020)(https://twitter.com/craigmod/status/1268788533990289409)
+- [List of most "well-crafted" piece of macOS software you use? (2020)](https://twitter.com/craigmod/status/1268788533990289409)
 - [Awesome macOS Software](https://github.com/phmullins/awesome-macos)
 - [Distributing Mac apps outside the App Store, a quick start guide (2021)](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store) ([HN](https://news.ycombinator.com/item?id=25757228))
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Premium software sorted by category.
