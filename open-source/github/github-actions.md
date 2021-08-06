@@ -178,6 +178,10 @@
 - [Haskell Github Actions](https://github.com/haskell/actions) - Github actions for Haskell CI.
 - [hackage-publish](https://github.com/haskell-actions/hackage-publish) - GitHub action for publishing packages and documentation to Hackage.
 
+## Elixir
+
+- [setup-beam](https://github.com/erlef/setup-beam) - Set up your GitHub Actions workflow with OTP and Elixir.
+
 ## Java
 
 - [setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java.

@@ -90,3 +90,5 @@
 - [Intrinsic](https://x.company/projects/intrinsic/) - Unlocking creative and economic potential with industrial robotics. ([Intro](https://blog.x.company/introducing-intrinsic-1cf35b87651)) ([HN](https://news.ycombinator.com/item?id=27931562))
 - [Where Are The Robotic Bricklayers? (2021)](https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers) ([HN](https://news.ycombinator.com/item?id=28054606))
 - [RoFI - Metamorphic Distributed Robots](https://github.com/paradise-fi/RoFI)
+- [Frankx](https://github.com/pantor/frankx) - High-Level Motion Library for Collaborative Robots.
+- [Robot Learning of Shifting Objects for Grasping in Cluttered Environments](https://github.com/pantor/learning-shifting-for-grasping)
