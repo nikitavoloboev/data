@@ -178,3 +178,4 @@
 - [AutoTS](https://github.com/winedarksea/AutoTS) - Forecasting Model Selection for Multiple Time Series.
 - [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
 - [trajax](https://github.com/google/trajax) - Python library for differentiable optimal control on accelerators.
+- [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - End-to-end AutoML library for structured data written in Scala that runs on top of Apache Spark. ([Web](https://transmogrif.ai/))

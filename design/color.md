@@ -84,3 +84,4 @@
 - [Why we're blind to the color blue](https://calebkruse.com/10-projects/seeing-blue/) ([HN](https://news.ycombinator.com/item?id=27858630))
 - [How WCAG color contrast ratio works (2021)](https://twitter.com/DanHollick/status/1417895151003865090)
 - [colorful gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer.
+- [Accessible Colors](https://accessible-colors.com/) - Automatically find the closest accessible color combination. ([Code](https://github.com/moroshko/accessible-colors))

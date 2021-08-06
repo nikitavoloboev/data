@@ -241,3 +241,4 @@
 - [TIL: Convolutional Filters Are Weights (2017)](https://jeiwan.net/posts/til-convolution-filters-are-weights/)
 - [Solving Mixed Integer Programs Using Neural Networks (2020)](https://arxiv.org/abs/2012.13349) ([Tweet](https://twitter.com/DeepMind/status/1419642398553120772))
 - [What Are Convolutional Neural Networks? (2021)](https://serokell.io/blog/introduction-to-convolutional-neural-networks)
+- [Fooling Neural Networks](https://slazebni.cs.illinois.edu/fall18/lec12_adversarial.pdf) ([HN](https://news.ycombinator.com/item?id=28085512))
