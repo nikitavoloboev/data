@@ -37,3 +37,4 @@
 - [wasmsnark](https://github.com/iden3/wasmsnark) - Fast zkSnark proof generator written in native Web Assembly.
 - [Zero-Knowledge Proofs](https://zkp.science/) ([HN](https://news.ycombinator.com/item?id=27573910))
 - [Zk-SNARKs, FreeTON and OCamlPro](https://medium.com/ocamlpro/zk-snarks-freeton-and-ocamlpro-eaaa1849ffd1)
+- [Zero-Knowledge Middleboxes (2021)](https://eprint.iacr.org/2021/1022.pdf) ([Code](https://github.com/pag-crypto/zkmbs))
