@@ -74,3 +74,4 @@
 - [What is the most everyday problem QFT can solve? (2021)](https://www.reddit.com/r/AskPhysics/comments/osjjlq/what_is_the_most_everyday_problem_qft_can_solve/)
 - [AI Designs Quantum Physics Experiments Beyond What Any Human Has Conceived (2021)](https://www.scientificamerican.com/article/ai-designs-quantum-physics-experiments-beyond-what-any-human-has-conceived/)
 - [Observation of Time-Crystalline Eigenstate Order on a Quantum Processor (2021)](https://arxiv.org/abs/2107.13571)
+- [What are time crystals? (2021)](https://www.reddit.com/r/quantum/comments/ozc0l7/what_the_fuck_is_a_time_crystal/)
