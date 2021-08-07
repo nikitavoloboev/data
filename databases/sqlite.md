@@ -98,3 +98,4 @@
 - [absurd-sql.js-backend](https://github.com/jlongster/absurd-sql.js-backend) - sqlite3 in ur indexeddb.
 - [SQLite Is Dynamically Typed (2020)](https://blog.zachwf.com/posts/sqlite-is-dynamically-typed/) ([HN](https://news.ycombinator.com/item?id=28050198))
 - [Sqlite µLogger](https://github.com/siara-cc/sqlite_micro_logger_c) - Fast and Lean database logger that can log data into Sqlite databases even with SRAM as low as 2kb.
+- [Apply conversion functions to data in SQLite columns with the sqlite-utils CLI tool (2021)](https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/)

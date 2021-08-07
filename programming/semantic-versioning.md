@@ -15,6 +15,7 @@
 - [beachball](https://github.com/microsoft/beachball) - Sunniest Semantic Version Bumper. Run all your npm scripts in topological order incrementally with cloud cache. ([Web](https://microsoft.github.io/beachball/))
 - [Semantic Versioning Will Not Save You (2021)](https://hynek.me/articles/semver-will-not-save-you/) ([Lobsters](https://lobste.rs/s/cd0wot/semantic_versioning_will_not_save_you)) ([HN](https://news.ycombinator.com/item?id=26314620))
 - [svu](https://github.com/caarlos0/svu) - Semantic Version Util.
+- [Semver doesn't mean major.minor.patch, it means fails.features.bugs](https://twitter.com/willmcgugan/status/1423678688802058244) ([HN](https://news.ycombinator.com/item?id=28089287))
 
 ## Images
 

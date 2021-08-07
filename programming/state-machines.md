@@ -9,3 +9,4 @@
 - [Series of examples showing how to model application state with statechart using xstate](https://github.com/coodoo/xstate-examples)
 - [I Accidentally Wrote A Compile-Time Executable State Machine (2020)](https://philippegroarke.com/posts/2020/constexpr_fsm/)
 - [Statecharts: a visual formalism for complex systems (1987)](https://www.sciencedirect.com/science/article/pii/0167642387900359)
+- [Benchmark of Finite State Machine approaches](https://github.com/newpavlov/fsm-bench)

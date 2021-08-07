@@ -913,6 +913,9 @@
 - [MRML](https://github.com/jdrouet/mrml) - Reimplementation of the nice MJML markup language in Rust.
 - [p2panda](https://github.com/p2panda/p2panda) - Provides all tools required to write a client for the p2panda network.
 - [log4rs](https://github.com/estk/log4rs) - Highly configurable logging framework for Rust.
+- [executor](https://github.com/richardanaya/executor) - Minimalistic async/await executor for Rust.
+- [wait-timeout](https://github.com/alexcrichton/wait-timeout) - Waiting on a child process with a timeout in Rust.
+- [getrandom](https://github.com/rust-random/getrandom) - Small cross-platform library to securely get random data (entropy).
 
 ## Cargo Plugins
 
