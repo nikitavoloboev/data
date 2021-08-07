@@ -278,3 +278,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Advanced Git In-Depth](https://frontendmasters.com/courses/git-in-depth/) ([Code](https://github.com/nnja/advanced-git))
 - [Is there any place for monoliths in 2021?](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/) ([HN](https://news.ycombinator.com/item?id=28061265))
 - [Gitly](http://gitly.org/) - GitHub/GitLab alternative written in V. ([Code](https://github.com/vlang/gitly))
+- [Monorepo vs. polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo)

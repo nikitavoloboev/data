@@ -730,6 +730,7 @@
 - [Swift Identified Collections](https://github.com/pointfreeco/swift-identified-collections) - Library of data structures for working with collections of identifiable elements in an ergonomic, performant way.
 - [Dip](https://github.com/AliSoftware/Dip) - Simple Swift Dependency container. Use protocols to resolve your dependencies and avoid singletons / sharedInstances.
 - [LRUCache](https://github.com/nicklockwood/LRUCache) - Open-source replacement for NSCache that behaves in a predictable, debuggable way. ([Tweet](https://twitter.com/nicklockwood/status/1423447272206053376))
+- [SwimplyCache](https://github.com/obrhoff/SwimplyCache) - LRU Cache written in Swift.
 
 ## Other (not lib)
 

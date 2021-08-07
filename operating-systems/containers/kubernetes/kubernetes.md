@@ -417,3 +417,4 @@
 - [NSA Kubernetes Hardening Guidance (2021)](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF) ([HN](https://news.ycombinator.com/item?id=28050750))
 - [Two year update: Building an Open Source Marketplace for Kubernetes (2021)](https://blog.alexellis.io/kubernetes-marketplace-two-year-update/)
 - [Tools to Run Kubernetes Locally (2021)](https://yankee.dev/6-tools-to-run-kubernetes-locally) ([HN](https://news.ycombinator.com/item?id=28085741))
+- [Kanister](https://kanister.io/) - Extensible framework for application-level data management on Kubernetes. ([Code](https://github.com/kanisterio/kanister))
