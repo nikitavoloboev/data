@@ -61,3 +61,5 @@
 - [cl-bodge](https://github.com/borodust/cl-bodge) - Feature-rich game framework for Common Lisp. ([Web](https://borodust.org/projects/cl-bodge/)) ([HN](https://news.ycombinator.com/item?id=27621014))
 - [Temperance](https://github.com/sjl/temperance) - Logic programming library for Common Lisp.
 - [Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps (2021)](https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html)
+- [Common Lisp Recipes](http://weitz.de/cl-recipes/)
+- [The Common Lisp Condition System - Beyond Exception Handling with Control Flow Mechanisms (2020)](https://www.apress.com/gp/book/9781484261330)
