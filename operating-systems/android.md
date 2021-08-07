@@ -39,3 +39,4 @@
 - [unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.
 - [stackzy](https://github.com/theapache64/stackzy) - Cross-platform desktop application to identify libraries used inside an android application.
 - [LibChecker](https://github.com/zhaobozhen/LibChecker) - App to view libraries used in apps in your device.
+- [CalyxOS](https://calyxos.org/) - De-Googled Android Alternative. ([HN](https://news.ycombinator.com/item?id=28090024))

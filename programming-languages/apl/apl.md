@@ -49,4 +49,4 @@
 - [Jelly](https://github.com/DennisMitchell/jellylanguage) - Recreational programming language inspired by J. ([HN](https://news.ycombinator.com/item?id=27800057))
 - [Useful math to understand APL languages (2021)](https://www.reddit.com/r/apljk/comments/ooqn1j/what_topics_from_mathematics_are_usefull_for/)
 - [Learn APL with Neural Networks - YouTube](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM)
-- [Learning APL](https://xpqz.github.io/learnapl/intro.html)
+- [Learning APL](https://xpqz.github.io/learnapl/intro.html) ([HN](https://news.ycombinator.com/item?id=28092097))
