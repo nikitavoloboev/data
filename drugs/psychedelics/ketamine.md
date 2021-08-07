@@ -19,3 +19,4 @@
 - [Interview with a Ketamine Chemist](https://www.vice.com/en/article/ppzgk9/interview-with-ketamine-chemist-704-v18n2)
 - [What, if any, are the long term effects of low dose ketamine use neurologically?](https://www.reddit.com/r/AskDrugNerds/comments/of8s7z/what_if_any_are_the_long_term_effects_of_low_dose/)
 - [Dr. John C. Lilly 1992 lecture | Dolphins and LSD; Float Tanks and Ketamine](https://www.youtube.com/watch?v=nGhCpC5hH0k)
+- [With a nudge from AI, ketamine emerges as a potential rare disease treatment (2021)](https://www.statnews.com/2021/08/05/artificial-intelligence-rare-disease-andp-medikanren/) ([HN](https://news.ycombinator.com/item?id=28099548))

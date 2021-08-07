@@ -106,3 +106,4 @@
 - [Starbase Factory Tour with Elon Musk (2021)](https://www.youtube.com/watch?v=t705r8ICkRw) ([Reddit](https://www.reddit.com/r/spacex/comments/oxcu5s/everyday_astronaut_factory_tour_with_elon_musk/))
 - [Turion Space](https://www.turionspace.com/) - Space debris removal and satellite servicing. ([HN](https://news.ycombinator.com/item?id=28061725))
 - [First a red giant cooks its planets, then it turns them into mini-stars (2021)](https://www.syfy.com/syfywire/first-a-red-giant-cooks-its-planets-then-it-turns-them-into-mini-stars) ([Tweet](https://twitter.com/BadAstronomer/status/1423304158598234112))
+- [Powering the Lunar Base (2021)](https://caseyhandmer.wordpress.com/2021/04/25/powering-the-lunar-base/) ([HN](https://news.ycombinator.com/item?id=28098853))
