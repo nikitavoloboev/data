@@ -311,3 +311,4 @@
 - [Replit.web: Python Framework With Built-in Database and Auth Support (2021)](https://blog.replit.com/replit-web) ([Tweet](https://twitter.com/amasad/status/1420479217805021184))
 - [PyArmor](https://github.com/dashingsoft/pyarmor) - Tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts. ([Web](http://pyarmor.dashingsoft.com/))
 - [The State Of Python In 2021](https://deprogrammaticaipsum.com/the-state-of-python-in-2021/)
+- [Framework Patterns (2019)](https://blog.startifact.com/posts/framework-patterns.html#) ([HN](https://news.ycombinator.com/item?id=28098578))

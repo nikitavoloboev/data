@@ -40,3 +40,4 @@ I try learn new habits proactively by building systems and thought processes tha
 - [Make your habits zero-effort](https://www.benkuhn.net/zero/)
 - [Atomic Habits](https://jamesclear.com/atomic-habits) - Tiny Changes, Remarkable Results. ([Summary](https://twitter.com/justinkan/status/1352040558198329344))
 - [Kin](https://kinhabits.com/) - Social Habit Tracker.
+- [In praise of habits](https://psyche.co/ideas/in-praise-of-habits-so-much-more-than-mindless-reflexes) ([HN](https://news.ycombinator.com/item?id=28085526))
