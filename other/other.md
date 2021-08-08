@@ -518,3 +518,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [static.wiki](http://static.wiki/) - Read-only Wikipedia using a 43GB SQLite file. ([HN](https://news.ycombinator.com/item?id=28012829)) ([Code](https://github.com/segfall/static-wiki))
 - [We Still Don’t Get Things Done (2021)](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) ([HN](https://news.ycombinator.com/item?id=28010716))
 - [Boltline](https://www.boltline.org/) - Collaborative guidebook for climbers.
+- [OpenSanctions.org](https://github.com/pudo/opensanctions) - Open database of international sanctions data, persons of interest and politically exposed persons.

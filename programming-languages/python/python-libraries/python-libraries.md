@@ -111,6 +111,7 @@
 - [aiosqlite](https://github.com/omnilib/aiosqlite) - Friendly, async interface to sqlite databases.
 - [ORM](https://github.com/encode/orm) - Async ORM for Python, with support for Postgres, MySQL, and SQLite.
 - [ConnectorX](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python. ([Lobsters](https://lobste.rs/s/uwfozb/connectorx_accelerate_data_loading_from))
+- [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions. ([Docs](https://dataset.readthedocs.io/en/latest/))
 
 ## GUI
 

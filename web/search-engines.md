@@ -147,3 +147,4 @@
 - [How MDN's autocomplete search works (2021)](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/) ([HN](https://news.ycombinator.com/item?id=28051562))
 - [Evolution of Search Engines Architecture-Algolia New Search Architecture (2021)](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html) ([HN](https://news.ycombinator.com/item?id=28049847))
 - [Code search guide](https://codesearchguide.org/) - Everything you ever wanted to know about code search. ([Code](https://github.com/sourcegraph/codesearchguide.org))
+- [Aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for. ([Docs](https://docs.alephdata.org/))

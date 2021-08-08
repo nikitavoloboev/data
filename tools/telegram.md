@@ -16,6 +16,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 ## Bot libraries
 
+- [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)
 - [Go bindings to Telegram API](https://github.com/go-telegram-bot-api/telegram-bot-api) ([Docs](https://go-telegram-bot-api.dev/))
 - [Telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node. ([Docs](https://telegraf.js.org/#/)) ([NestJS module](https://github.com/bukhalo/nestjs-telegraf))
 - [Integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow.
