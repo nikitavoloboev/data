@@ -72,7 +72,7 @@
 - [Why Write ADRs (2020)](https://github.blog/2020-08-13-why-write-adrs/) ([HN](https://news.ycombinator.com/item?id=24146594))
 - [I Love MDN, or the cult of the free in action (2020)](https://www.quirksmode.org/blog/archives/2020/08/i_love_mdn_or_t.html) ([HN](https://news.ycombinator.com/item?id=24159244))
 - [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record) - ADR is document that captures an important architectural decision made along with its context and consequences.
-- [docsify](https://docsify.js.org/#/) - Magical documentation site generator. ([Code](https://github.com/docsifyjs/docsify/))
+- [docsify](https://docsify.js.org/#/) - Magical documentation site generator. ([Code](https://github.com/docsifyjs/docsify/)) ([Awesome](https://github.com/docsifyjs/awesome-docsify))
 - [Just the Docs](https://github.com/pmarsceill/just-the-docs) - Modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - Vite plugin for React. It is very suitable for document site and React UI development environment.
 - [The Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - Various templates & tips on writing high-quality documentation that people want to read.

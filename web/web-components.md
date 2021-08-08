@@ -43,3 +43,5 @@
 - [Base for Web Components (bacom)](https://github.com/prantlf/bacom) - Basic library for writing lightweight web components. Suitable for low-level web components in UI libraries.
 - [Why it’s okay for web components to use frameworks (2021)](https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/) ([Lobsters](https://lobste.rs/s/dxbwyb/why_it_s_okay_for_web_components_use))
 - [Ocean](https://github.com/matthewp/ocean) - Web component server-side rendering.
+- [About Web Components (2021)](https://webreflection.medium.com/about-web-components-cc3e8b4035b0)
+- [Pretty Cool Elements](https://github.com/WebReflection/p-cool) - Provides element mixins/behaviors, through class names, without names clashing.

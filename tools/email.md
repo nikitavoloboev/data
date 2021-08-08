@@ -170,3 +170,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Running My Own Email Server (2021)](http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html) ([Lobsters](https://lobste.rs/s/s10jr0/running_my_own_email_server))
 - [Catapulte](https://github.com/jdrouet/catapulte) - Open source mailer you can host yourself.
 - [Jolimail](https://github.com/jdrouet/jolimail) - Open source alternative to all the transactionnal email solutions. ([Web](https://jolimail.io/))
+- [Yggmail](https://github.com/neilalexander/yggmail) - End-to-end encrypted email for the mesh networking age.

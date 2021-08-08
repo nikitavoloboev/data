@@ -35,3 +35,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [My Convoluted VRChat Google Meet Setup (2021)](https://christine.website/blog/convoluted-vrchat-gchat-setup-2021-02-24)
 - [Printing In Virtual Reality](https://blog.glitch.land/en/posts/tb-point-mapper-pt1/)
 - [W3Reality](https://github.com/w3reality) - Elevating the Web to VR.
+- [LÖVR](https://lovr.org/) - Open source framework for rapidly building immersive 3D experiences. ([HN](https://news.ycombinator.com/item?id=28081656))
