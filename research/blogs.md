@@ -64,6 +64,10 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Michele Bertasi](https://blog.mbrt.dev/)
 - [Matt Rickard](https://matt-rickard.com/archive/)
 
+## Notes
+
+- [Can separate posts into series](https://twitter.com/simonw/status/1424155147479879681)
+
 ## Links
 
 - [Awesome Blogs](https://github.com/learn-anything/blogs)

@@ -55,6 +55,7 @@
 - [An anti-pattern is just a pattern used in a sub-optmial context. A good practice is just a practice used in the right context. You shouldn't talk about patterns and practice being "good" or "bad" without talking about the context in which they will be used.](https://twitter.com/samnewman/status/1396830310390763529)
 - [“Change only one thing at a time” should be codified into every software change control process. There should be no implicit changes, ever. Every single bit of config needs to be captured as code.](https://twitter.com/copyconstruct/status/1398043935176413184)
 - [Code affects humans, not machines. Think through the consequences of design decisions. Tradeoffs are everywhere, document them. Taking on technical debt should be an informed decision, not the default. All resources are finite. Know your complexity bounds and impossibility results.](https://www.aljoscha-meyer.de/)
+- [We should have "code walkthrough" meetings, where someone who knows an aspect of the codebase explains how it works to everyone else. No PRs reviewed, no decisions made, just knowledge transfer.](https://twitter.com/hillelogram/status/1424109751659638793)
 
 ## Links
 
