@@ -67,3 +67,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [MyBee — FreeBSD OS and hypervisor bhyve as private cloud (2021)](https://habr.com/ru/post/569226/)
 - [OpenBSD Router Guide (2020)](https://openbsdrouterguide.net/) ([HN](https://news.ycombinator.com/item?id=28033758))
 - [The Design of the NetBSD I/O Subsystems (2002)](https://arxiv.org/ftp/arxiv/papers/1605/1605.05810.pdf)
+- [OpenBSD on the Framework Laptop (2021)](https://jcs.org/2021/08/06/framework)

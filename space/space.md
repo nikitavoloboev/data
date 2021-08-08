@@ -104,6 +104,7 @@
 - [Live Starlink Satellite Map](https://satellitemap.space/) ([HN](https://news.ycombinator.com/item?id=27971969))
 - [Astronomy Photographer of the Year 2021 shortlist images](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)
 - [Starbase Factory Tour with Elon Musk (2021)](https://www.youtube.com/watch?v=t705r8ICkRw) ([Reddit](https://www.reddit.com/r/spacex/comments/oxcu5s/everyday_astronaut_factory_tour_with_elon_musk/))
+- [Starbase Factory Tour with Elon Musk: Part 2 (2021)](https://www.youtube.com/watch?v=SA8ZBJWo73E) ([Reddit](https://www.reddit.com/r/spacex/comments/ozuu1r/starbase_tour_with_elon_musk_part_2/))
 - [Turion Space](https://www.turionspace.com/) - Space debris removal and satellite servicing. ([HN](https://news.ycombinator.com/item?id=28061725))
 - [First a red giant cooks its planets, then it turns them into mini-stars (2021)](https://www.syfy.com/syfywire/first-a-red-giant-cooks-its-planets-then-it-turns-them-into-mini-stars) ([Tweet](https://twitter.com/BadAstronomer/status/1423304158598234112))
 - [Powering the Lunar Base (2021)](https://caseyhandmer.wordpress.com/2021/04/25/powering-the-lunar-base/) ([HN](https://news.ycombinator.com/item?id=28098853))
