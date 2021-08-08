@@ -140,3 +140,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Paranoid NixOS Setup (2021)](https://christine.website/blog/paranoid-nixos-2021-07-18) ([Lobsters](https://lobste.rs/s/dn4jss/paranoid_nixos_setup))
 - [NixOS Ocean Sprint](https://oceansprint.org/)
 - [NixOS on the Framework (2021)](https://grahamc.com/blog/nixos-on-framework)
+- [NixOS-Infect](https://github.com/elitak/nixos-infect) - Script to install NixOS on non-NixOS hosts.

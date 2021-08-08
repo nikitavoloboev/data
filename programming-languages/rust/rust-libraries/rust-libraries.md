@@ -917,6 +917,7 @@
 - [executor](https://github.com/richardanaya/executor) - Minimalistic async/await executor for Rust.
 - [wait-timeout](https://github.com/alexcrichton/wait-timeout) - Waiting on a child process with a timeout in Rust.
 - [getrandom](https://github.com/rust-random/getrandom) - Small cross-platform library to securely get random data (entropy).
+- [stdarch](https://github.com/rust-lang/stdarch) - Rust's standard library SIMD components.
 
 ## Cargo Plugins
 

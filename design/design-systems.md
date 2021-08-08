@@ -67,6 +67,7 @@
 - [AWS UI Components](https://github.com/aws/awsui-documentation)
 - [Amsterdam Styled Components (ASC)](https://github.com/Amsterdam/amsterdam-styled-components) - Component Library based on Amsterdam Design System.
 - [Paste](https://paste.twilio.design/) - Design System for building Twilio customer experiences. ([Code](https://github.com/twilio-labs/paste))
+- [Atomize Code](https://github.com/proksh/atomize) - UI Design System for React JS. ([Web](https://atomizecode.com/))
 
 ## Notes
 

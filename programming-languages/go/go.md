@@ -520,3 +520,4 @@ Go promotes composition over inheritance.
 - [Enumer](https://github.com/dmarkham/enumer) - Tool to generate Go code that adds useful methods to Go enums (constants with a specific type).
 - [http2curl](https://github.com/moul/http2curl) - Convert Golang's http.Request to CURL command line.
 - [Zero downtime with Go with many API endpoints? (2021)](https://www.reddit.com/r/golang/comments/oz9xgk/zero_downtime_with_go_with_many_api_endpoints/)
+- [Go binary parser for IDAPro](https://github.com/0xjiayu/go_parser)

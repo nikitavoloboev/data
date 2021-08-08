@@ -193,3 +193,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [ТОП-15 заброшенных городов России](https://most-beauty.ru/mesta/top-15-zabroshennyh-gorodov-rossii.html)
 - [Колымские подсказы (2021)](https://echo.msk.ru/blog/shenderovich/2882522-echo/) ([Tweet](https://twitter.com/TiggerBurning/status/1423221779628240897))
 - [Михаил Ходорковский - YouTube](https://www.youtube.com/channel/UCAg74TJrwfpuCp1Jo3ZHMjA)
+- [Arzamas](https://arzamas.academy/)
