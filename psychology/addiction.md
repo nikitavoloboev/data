@@ -17,3 +17,4 @@
 - [On Smoking (2021)](https://annagat.substack.com/p/on-smoking) ([HN](https://news.ycombinator.com/item?id=27347035))
 - [Difference between "real" addictions (alcohol, gambling) and "fake" addictions (chocolate, browsing social media)](https://www.reddit.com/r/NoStupidQuestions/comments/ohi98j/what_is_the_difference_between_real_addictions/)
 - [Atmana](https://atmana.org/) - Tool to overcome digital addictions. ([HN](https://news.ycombinator.com/item?id=27971757))
+- [Once an Addict, Always an Addict?](https://www.deprocrastination.co/blog/once-an-addict-always-an-addict) ([HN](https://news.ycombinator.com/item?id=28105110))

@@ -29,3 +29,4 @@
 - [stk-vis](https://github.com/lukasturcani/stk-vis) - Cross-platform application for visualization of molecular databases.
 - [moldoc](https://github.com/lukasturcani/moldoc) - Sphinx extension for making better chemistry documentation.
 - [Reaktoro](https://github.com/reaktoro/reaktoro) - Unified framework for modeling chemically reactive systems. ([Docs](https://reaktoro.org/))
+- [Chemistry Book Recommendations](https://www.reddit.com/r/chemistry/comments/p0cj32/book_recommendations/)
