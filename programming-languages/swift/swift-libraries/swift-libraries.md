@@ -322,6 +322,7 @@
 - [MondrianLayout](https://github.com/muukii/MondrianLayout) - Way to building layouts faster in AutoLayout like SwiftUI - powered by Result Builders.
 - [AdvancedList-SwiftUI](https://github.com/crelies/AdvancedList-SwiftUI) - Advanced list with empty, error and loading state implemented with SwiftUI.
 - [StackKit](https://github.com/gymshark/ios-stack-kit) - Power of SwiftUI with UIKit.
+- [ViewExtractor](https://github.com/GeorgeElsham/ViewExtractor) - Extract SwiftUI views from ViewBuilder content.
 
 ## Test
 

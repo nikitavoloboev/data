@@ -918,6 +918,7 @@
 - [wait-timeout](https://github.com/alexcrichton/wait-timeout) - Waiting on a child process with a timeout in Rust.
 - [getrandom](https://github.com/rust-random/getrandom) - Small cross-platform library to securely get random data (entropy).
 - [stdarch](https://github.com/rust-lang/stdarch) - Rust's standard library SIMD components.
+- [Gallium](https://github.com/ComLarsic/gallium_ecs) - Simple entity-component-system crate for rust with serialization support.
 
 ## Cargo Plugins
 
