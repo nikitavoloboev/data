@@ -225,3 +225,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Lang Jam](https://github.com/langjam/langjam) - Create a programming language in a weekend. ([HN](https://news.ycombinator.com/item?id=28021161))
 - [flex](https://github.com/westes/flex) - Tool for generating scanners: programs which recognize lexical patterns in text.
 - [Programming languages where you define control flow in terms of state machines](https://twitter.com/mgattozzi/status/1422196566568341504)
+- [Implicit ordering in relational languages (2021)](https://scattered-thoughts.net/writing/implicit-ordering-in-relational-languages/)

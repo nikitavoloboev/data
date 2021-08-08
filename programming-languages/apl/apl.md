@@ -50,3 +50,4 @@
 - [Useful math to understand APL languages (2021)](https://www.reddit.com/r/apljk/comments/ooqn1j/what_topics_from_mathematics_are_usefull_for/)
 - [Learn APL with Neural Networks - YouTube](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM)
 - [Learning APL](https://xpqz.github.io/learnapl/intro.html) ([HN](https://news.ycombinator.com/item?id=28092097))
+- ["The J Programming Language" by Tracy Harms (2013)](https://www.youtube.com/watch?v=RWYkx6-L04Q)
