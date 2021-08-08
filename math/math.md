@@ -284,3 +284,4 @@
 - [The Poincaré Conjecture, Explained (2021)](https://www.privatdozent.co/p/the-poincare-conjecture) ([HN](https://news.ycombinator.com/item?id=28021562))
 - [Discrete Optimization Course](https://www.coursera.org/learn/discrete-optimization)
 - [A Bestiary of Functions for Systems Designers (2021)](https://brunodias.dev/2021/03/19/functions-for-system-designers.html)
+- [Steven Strogatz: In and out of love with math | 3b1b podcast (2021)](https://www.youtube.com/watch?v=SUMLKweFAYk)

@@ -59,3 +59,4 @@ Is logical theory of computable functions.
 - [A Talk on Incremental λ-Calculus (2015)](http://blaisorblade.github.io/blog/2015/01/15/a-talk-on-ilc/)
 - [Simply Typed Lambda Calculus Formalization](https://github.com/Kamirus/lambda-formalizations)
 - [Viscal](https://rcarriga.github.io/viscal/) - Visual representation of the lambda calculus and animation of beta reduction. ([Code](https://github.com/rcarriga/viscal))
+- [Super-Quick Lambda Calculus](https://github.com/arlencox/sqlc)

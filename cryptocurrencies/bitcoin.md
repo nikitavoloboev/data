@@ -155,3 +155,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Bitcoin's gold rush was always an illusion (2021)](https://www.newstatesman.com/business/finance/2021/07/bitcoins-gold-rush-was-always-illusion) ([Tweet](https://twitter.com/ahcastor/status/1417842535809097731))
 - [Nice bitcoin/lightning/crypto open source projects (2021)](https://twitter.com/AlyssaHertig/status/1418359344819810306)
 - [Bitcoin, Currencies, and Fragility (2021)](https://arxiv.org/abs/2106.14204) ([Tweet](https://twitter.com/smdiehl/status/1418997418432073728))
+- [agora](https://github.com/agora-org/agora/) - File server that accepts Lightning Network payments for downloads. ([Article](http://agora.download/files/blog/mvp.html))
