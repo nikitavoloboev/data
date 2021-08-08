@@ -2,6 +2,7 @@
 
 ## Interesting
 
+- [Two guys dancing to Stayin' Alive](https://www.reddit.com/r/Damnthatsinteresting/comments/p02xs1/these_two_guys_dancing_to_stayin_alive/)
 - [Electro Swing Dance Freestyle: Lone Digger, Caravan Palace](https://www.youtube.com/watch?v=ODou1efdRzU)
 - [Не перебивай](https://twitter.com/amebakin/status/1367972159348477956)
 - [Malhari](https://www.youtube.com/watch?v=l_MyUGq7pgs)
