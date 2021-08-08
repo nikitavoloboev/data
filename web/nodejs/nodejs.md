@@ -237,3 +237,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [NPM audit: Broken by Design (2021)](https://overreacted.io/npm-audit-broken-by-design/) ([HN](https://news.ycombinator.com/item?id=27761334)) ([Tweet](https://twitter.com/dan_abramov/status/1412776197528997894)) ([Tweet](https://twitter.com/dan_abramov/status/1412376404738686984))
 - [Yarn 3.0: Performances, ESBuild, Better Patches (2021)](https://dev.to/arcanis/yarn-3-0-performances-esbuild-better-patches-e07) ([HN](https://news.ycombinator.com/item?id=28010309))
 - [Nodashka](https://github.com/borkdude/nodashka) - Babashka-like tool for Node.js.
+- [Non-blocking I/O and how Node uses it, in friendly terms (2021)](https://www.youtube.com/watch?v=wB9tIg209-8)
