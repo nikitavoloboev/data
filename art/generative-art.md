@@ -141,3 +141,4 @@
 - [Subscapes by Matt DesLauriers](https://artblocks.io/project/53) - Generative algorithm that draws the impression of a landscape from a multitude of possibilities. ([Code](https://github.com/mattdesl/subscapes))
 - [Javad Tabatabaei's generative art](https://www.hicetnunc.xyz/tz/tz1MuBZEBbqmPDqf67jDErYKn1RUScc2Zx7A/creations)
 - [Non-Circular Packing (2021)](https://ippsketch.com/posts/non-circular-packing/)
+- [Sketching - A Language for Creative Coding](https://soegaard.github.io/sketching/)
