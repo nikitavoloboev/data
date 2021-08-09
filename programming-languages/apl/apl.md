@@ -51,3 +51,4 @@
 - [Learn APL with Neural Networks - YouTube](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM)
 - [Learning APL](https://xpqz.github.io/learnapl/intro.html) ([HN](https://news.ycombinator.com/item?id=28092097))
 - ["The J Programming Language" by Tracy Harms (2013)](https://www.youtube.com/watch?v=RWYkx6-L04Q)
+- [APL.jl](https://github.com/shashi/APL.jl) - APL in Julia.

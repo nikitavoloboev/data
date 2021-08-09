@@ -173,3 +173,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [The Insecurity Industry (2021)](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal) - The greatest danger to national security has become the companies that claim to protect it. ([HN](https://news.ycombinator.com/item?id=27965746))
 - [Canonicalization Attacks Against MACs and Signatures (2021)](https://soatok.blog/2021/07/30/canonicalization-attacks-against-macs-and-signatures/) ([Lobsters](https://lobste.rs/s/felalp/canonicalization_attacks_against_macs))
 - [Elkeid](https://github.com/bytedance/Elkeid) - Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.
+- [One Bad Apple (2021)](https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html) ([HN](https://news.ycombinator.com/item?id=28110159))

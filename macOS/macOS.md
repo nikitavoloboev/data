@@ -164,3 +164,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [The journey to controlling external monitors on M1 Macs (2021)](https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/) ([HN](https://news.ycombinator.com/item?id=28011861))
 - [dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) - CLI for extracting libraries from Apple's dyld shared cache file.
 - [ArchTest](https://github.com/below/ArchTest) - Why does this not compile on Apple Silicon?
+- [The macOS Sandbox File Limit (2021)](https://buckleyisms.com/blog/anecdotes-about-the-macos-sandbox-file-limit/) ([HN](https://news.ycombinator.com/item?id=28105814))

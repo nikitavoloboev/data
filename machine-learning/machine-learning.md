@@ -531,3 +531,4 @@
 - [A Gentle Introduction To Gradient Descent Procedure (2021)](https://machinelearningmastery.com/a-gentle-introduction-to-gradient-descent-procedure/)
 - [Stanford MLSys Seminars](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
 - [Painless Uncertainty for Deep Learning (2021)](https://www.machinelearningforscience.de/en/painless-uncertainty-for-deep-learning/)
+- [How to avoid machine learning pitfalls: a guide for academic researchers (2021)](https://arxiv.org/abs/2108.02497)

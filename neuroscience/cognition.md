@@ -17,3 +17,4 @@
 - [Final Thoughts on Free Will | Sam Harris (2021)](https://samharris.org/podcasts/241-final-thoughts-on-free-will/) ([Tweet](https://twitter.com/wolfejosh/status/1370730710928134153))
 - [Event-based backpropagation for exact gradients in spiking neural networks (2020)](https://arxiv.org/abs/2009.08378) ([HN](https://news.ycombinator.com/item?id=27364777))
 - [Collection of openly available data sources for cognitively-inspired NLP](https://github.com/norahollenstein/cognitiveNLP-dataCollection/wiki)
+- [Stupidity is a specific cognitive failing](https://psyche.co/ideas/why-some-of-the-smartest-people-can-be-so-very-stupid) ([HN](https://news.ycombinator.com/item?id=28112878))
