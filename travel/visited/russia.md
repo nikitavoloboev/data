@@ -194,3 +194,6 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Колымские подсказы (2021)](https://echo.msk.ru/blog/shenderovich/2882522-echo/) ([Tweet](https://twitter.com/TiggerBurning/status/1423221779628240897))
 - [Михаил Ходорковский - YouTube](https://www.youtube.com/channel/UCAg74TJrwfpuCp1Jo3ZHMjA)
 - [Arzamas](https://arzamas.academy/)
+- [Analysis of Russian political situation (2021)](https://twitter.com/ABarbashin/status/1424656210708606976)
+- [Zavtracast](https://zavtracast.ru/)
+- [Интервью фигуранта дела «Сети» Игоря Шишкина после освобождения (2021)](https://zona.media/article/2021/08/09/shishkin) ([Tweet](https://twitter.com/mediazzzona/status/1424635145064226822))
