@@ -122,3 +122,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Prettier Lichess](https://prettierlichess.github.io/) - Lichess, but prettier. ([Code](https://github.com/prettierlichess/prettierlichess))
 - [Ghess: How to write a Chess Engine (2021)](https://opensourc.es/blog/ghess-how-to-write-a-chess-engine/) ([Code](https://github.com/Wikunia/Ghess))
 - [My SECRET Grandmaster Training (2021)](https://www.youtube.com/watch?v=8jY95rOsxv0)
+- [Sunfish](https://github.com/thomasahle/sunfish) - Python Chess Engine in 111 lines of code. ([Wiki](https://www.chessprogramming.org/Sunfish))
