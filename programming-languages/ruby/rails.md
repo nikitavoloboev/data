@@ -76,3 +76,4 @@
 - [Cells](https://github.com/trailblazer/cells) - View components for Ruby and Rails.
 - [Designing and Launching New Features in Rails (2021)](https://blog.engineyard.com/ruby-unbundled-design-and-launch-features-in-rails)
 - [Active Record Encryption in Rails 7 (2021)](https://hint.io/blog/Active-Record-Encryption)
+- [Kubernetes & Rails: The Definitive Guide (2021)](https://kubernetes-rails.com/)
