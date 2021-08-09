@@ -61,3 +61,4 @@
 - [On Leaving California and the Silicon Valley (2021)](https://bartwronski.com/2021/06/28/on-leaving-california-and-the-silicon-valley/) ([HN](https://news.ycombinator.com/item?id=27888097))
 - [Depression Era Photos](https://twitter.com/blestcrone)
 - [Best/easiest of getting into the US from the EU? (2021)](https://www.reddit.com/r/cscareerquestionsEU/comments/ox0ip2/whats_the_besteasiest_of_getting_into_the_us_from/)
+- [David Cross: Why America Sucks at Everything (2021)](https://www.youtube.com/watch?v=aNghg1Y-WIc) ([Reddit](https://www.reddit.com/r/videos/comments/p0y18p/david_cross_why_america_sucks/))
