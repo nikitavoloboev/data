@@ -22,3 +22,4 @@
 - [eslint-utils](https://github.com/mysticatea/eslint-utils) - Provides utility functions and classes for make ESLint custom rules.
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
 - [eslint-plugin-stedi-aws-rules](https://github.com/Stedi/eslint-plugin-stedi-aws-rules) - Best practices around using AWS SDK in JavaScript & Typescript projects.
+- [What if ESLint's configuration worked like elm-review? (2021)](https://jfmengels.net/configuring-eslint/) ([Lobsters](https://lobste.rs/s/of6l3w/what_if_eslint_s_configuration_worked))

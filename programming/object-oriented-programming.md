@@ -17,6 +17,7 @@
 - [The use of `class` for things that should be simple free functions (2020)](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/) ([HN](https://news.ycombinator.com/item?id=23333891)) ([Lobsters](https://lobste.rs/s/kbdauj/oo_antipattern))
 - [MolhadoRef: A Refactoring-aware Infrastructure for OO Programs](http://dig.cs.illinois.edu/papers/Molhadoref_ETX.pdf)
 - [99 Bottles of OOP](https://sandimetz.com/99bottles) - Practical guide to writing cost-effective, maintainable, and pleasing object-oriented code.
+- [Throwing 99 bottles (of OOP) in the trash (2021)](https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash) ([Lobsters](https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash))
 - [Case against OOP is understated, not overstated (2020)](http://boxbase.org/entries/2020/aug/3/case-against-oop/)
 - [Don't Name Classes After Patterns. Mostly. (2020)](https://mailchi.mp/sandimetz/dont-name-classes-after-patterns-mostly)
 - [If everyone hates it, why is OOP still so widely spread?](https://stackoverflow.blog/2020/09/02/if-everyone-hates-it-why-is-oop-still-so-widely-spread/) ([HN](https://news.ycombinator.com/item?id=24356978)) ([Lobsters](https://lobste.rs/s/8y2ldu/if_everyone_hates_it_why_is_oop_still_so))
@@ -36,3 +37,4 @@
 - [Classes vs. Prototypes: Some Philosophical and Historical Observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.4713&rep=rep1&type=pdf)
 - [Examples of good OOP code (2021)](https://lobste.rs/s/bcrtrj/please_send_me_examples_good_oop_code)
 - [Книга о принципах SOLID и объектно-ориентированном дизайне программ](https://ota-solid.vercel.app/) ([Code](https://github.com/open-tech-authors/solid))
+- [Growing Object-Oriented Software vs what I would do (2021)](https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do) ([Lobsters](https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what))

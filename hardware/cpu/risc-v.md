@@ -102,3 +102,4 @@
 - [XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76 (2021)](https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/) ([HN](https://news.ycombinator.com/item?id=27737718))
 - [RISC-V Bytes](https://danielmangum.com/categories/risc-v-bytes/)
 - [RVVM](https://github.com/lekkit/rvvm) - RISC-V Virtual Machine. ([HN](https://news.ycombinator.com/item?id=27918744))
+- [seL4 Integrity Enforcement Proved for RISC-V (2021)](https://microkerneldude.wordpress.com/2021/08/04/sel4-integrity-enforcement-proved-for-risc-v/)

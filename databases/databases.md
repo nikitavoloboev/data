@@ -392,3 +392,4 @@
 - [Your connection deserves a name (2021)](https://andygrunwald.com/blog/your-connection-deserves-a-name/) - Assign a name to your RabbitMQ, redis, and PostgreSQL connection. ([Code](https://github.com/andygrunwald/your-connection-deserves-a-name))
 - [What time-weighted averages are and why you should care](https://blog.timescale.com/blog/what-time-weighted-averages-are-and-why-you-should-care/?) ([HN](https://news.ycombinator.com/item?id=27958175))
 - [Your database connection deserves a name (2021)](https://andygrunwald.com/blog/your-database-connection-deserves-a-name/) ([Lobsters](https://lobste.rs/s/cegere/your_database_connection_deserves_name))
+- [ZippyDB: Facebook's key value store (2021)](https://engineering.fb.com/2021/08/06/core-data/zippydb/)

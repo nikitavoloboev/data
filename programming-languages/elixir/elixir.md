@@ -116,3 +116,4 @@
 - [The Human Side of Elixir (2021)](https://akoutmos.com/post/betting-on-elixir/) ([HN](https://news.ycombinator.com/item?id=27985000))
 - [Testing Elixir: Effective and Robust Testing for Elixir and its Ecosystem (2021)](https://pragprog.com/titles/lmelixir/testing-elixir/)
 - [The Perils of Large Files in Elixir (2021)](https://pspdfkit.com/blog/2021/the-perils-of-large-files-in-elixir/) ([Lobsters](https://lobste.rs/s/3pjvwo/perils_large_files_elixir))
+- [EFLFE: Elixir Flavoured Lisp Flavoured Erlang (2021)](http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/)
