@@ -16,6 +16,7 @@
 - [Nice office](https://twitter.com/alexhaobao/status/1388332873309061124)
 - [Black Pine Cabin](https://www.shedbuilt.com/portfolio/black-pine-cabin/)
 - [Nice balcony](https://twitter.com/aeduhm/status/1398740225954824196)
+- [Casa Mirador, Ecuador](https://twitter.com/PottsJustin/status/1424418932618825738) ([Article](https://www.dezeen.com/2021/06/20/rama-estudio-casa-mirador-ecuador/))
 
 ## Links
 

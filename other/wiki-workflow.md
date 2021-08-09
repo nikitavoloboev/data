@@ -167,6 +167,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Anthony Amar's Garden](https://garden.anthonyamar.fr/)
 - [Simon Willison: TIL](https://til.simonwillison.net/) ([Code](https://github.com/simonw/til))
 - [Nick Groenen's digital garden](https://notes.nick.groenen.me/)
+- [Brandon's Digital Garden](https://wiki.brandontoner.ca/)
 - [Param Singh's Notes](https://notes.param.codes/)
 - [Matous Dzivjak](https://wiki.dzx.cz/)
 - [Raphael Sprenger](https://garden.raphaelsprenger.de/index.html)

@@ -45,6 +45,7 @@
 - [Offer both early exercises and 10 year extended exercise window. Do it right after you raise a priced round and start granting options. That way you only have to change few lines in the options plan. It will be more painful to do later.](https://twitter.com/karrisaarinen/status/1397561196232863754)
 - [Day Bridge options can be exercised as soon as they vest, and can be exercised long after you leave. You can also leave before fully vesting. They are also EMI approved (very tax efficient) and the strike price is currently ~£0.](https://twitter.com/kieranmch/status/1397612206800375816)
 - [У нас собеседование не идёт в реальном времени — кандидат пишет текстом большой ответ на все наши вопросы сразу. Общаемся лично только в самом конце. Проверка на культуру — самая сложная. Её надо проводить с минимальным потоком людей, когда отсеяли по остальным критериям](https://twitter.com/andrey_sitnik/status/1419261221681999874)
+- [The best people you hire are awesome pretty much immediately. Slow starters rarely become stars.](https://twitter.com/ShaanVP/status/1424431446823895043)
 
 ## Links
 
