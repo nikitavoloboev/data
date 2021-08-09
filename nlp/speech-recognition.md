@@ -62,3 +62,7 @@
 - [INTERSPEECH 2021](https://www.interspeech2021.org/)
 - [WER are we?](https://github.com/syhw/wer_are_we) - Tracking states of the art(s) and recent results on speech recognition.
 - [GigaSpeech](https://github.com/SpeechColab/GigaSpeech) - Large, modern dataset for speech recognition.
+- [Coqui STT](https://github.com/coqui-ai/STT) - Deep learning toolkit for Speech-to-Text, battle-tested in research and production.
+- [Coqui](https://coqui.ai/) - Startup providing open speech tech for everyone. ([GitHub](https://github.com/coqui-ai))
+- [Open Speech Corpora](https://github.com/coqui-ai/open-speech-corpora) - List of accessible speech corpora for ASR, TTS, and other Speech Technologies.
+- [An Overview of Multi-Task Learning in Speech Recognition (2020)](http://jrmeyer.github.io/asr/2020/03/21/overview-mtl-in-asr.html)

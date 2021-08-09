@@ -107,3 +107,4 @@
 - [generatedata.com](https://generatedata.com/) - Random data generator. ([Code](https://github.com/benkeen/generatedata))
 - [MTData](https://github.com/thammegowda/mtdata) - Tool automates collection and preparation of machine translation datasets.
 - [The MIT Supercloud Dataset (2021)](https://arxiv.org/abs/2108.02037)
+- [Datasheets for Datasets (2018)](https://arxiv.org/abs/1803.09010) ([Markdown Datasheet for Datasets](https://github.com/JRMeyer/markdown-datasheet-for-datasets))
