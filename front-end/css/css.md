@@ -347,3 +347,4 @@
 - [sanitize.css](https://github.com/csstools/sanitize.css) - CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. ([Web](https://csstools.github.io/sanitize.css/))
 - [Never remove CSS outlines (2013)](https://www.a11yproject.com/posts/2013-01-25-never-remove-css-outlines/)
 - [PaperCSS](https://www.getpapercss.com/) - Less formal CSS framework. ([Code](https://github.com/papercss/papercss))
+- [The World of CSS Transforms](https://www.joshwcomeau.com/css/transforms/)

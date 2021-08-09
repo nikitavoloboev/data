@@ -14,6 +14,7 @@
 - [Don't be afraid to bring it up or leave under bad management.](https://twitter.com/techgirl1908/status/1395827216433438728)
 - [How to have an effective 1:1? Stop doing status updates.](https://twitter.com/burgessdryan/status/1417855885594877955)
 - [Unnecessary process drains people's energy so much that it becomes highly inconvenient to pay attention to any detail.](https://twitter.com/rakyll/status/1418305852772032513)
+- [Adding value by asking "What does the success metrics look like for this?" meanwhile the opportunity is clear, the team is underresourced, and behind on execution.](https://twitter.com/auchenberg/status/1424721736189288450)
 
 ## Links
 

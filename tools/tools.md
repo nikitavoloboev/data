@@ -116,6 +116,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Nodebook](https://github.com/netgusto/nodebook) - Multi-Lang Web REPL + CLI Code runner.
 - [Remotion](https://www.remotion.com/) - Virtual Office For Hybrid Teams.
 - [Avatars](https://www.avatars.io/) - Every app needs an avatar. We make it hassle free.
+- [Rize](https://rize.io/) - Intelligent time tracker that improves your focus.
 - [Instatus](https://instatus.com/) - Get your status page.
 - [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.
 - [Calendly](https://calendly.com/) - Schedule meetings.
