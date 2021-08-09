@@ -33,6 +33,7 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [MVKB Keyboards](https://mvkb.com/)
 - [IIICC](https://github.com/kbjunky/IIICC) - Three piece split keyboard with macropad running QMK.
 - [ZSA Planck EZ](https://www.zsa.io/planck/) - Powerful, Backlit, Open-Source, 40% Mechanical Keyboard. ([HN](https://news.ycombinator.com/item?id=27827206))
+- [Pheromone](https://github.com/luantty2/pheromone_keyboard) - 63-key keyboard supports slide potentiometer, rotary encoder and oled screen.
 
 ## Interesting keycaps
 

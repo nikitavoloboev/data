@@ -27,6 +27,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Social media has permanently changed investor behavior in ways many professional investors haven't yet come to terms with.](https://twitter.com/morganhousel/status/1400503536555757575)
 - [VTWAX fund seems good](https://news.ycombinator.com/item?id=27747934)
 - [One of the best times to buy a stock is when a good company sells off on earnings due to investor overreaction. It requires a bit of digging and judgment to determine whether the selloff was justified or an overreaction, but it can be very profitable.](https://www.reddit.com/r/investing/comments/oz6a2y/trader_do_you_buy_stocks_right_after_a_large_drop/)
+- [You don’t get wealthy from “taking profit” every chance you get. You get wealthy by finding long term profitable companies that you buy in to and hold for years.](https://www.reddit.com/r/investing/comments/p0r3o4/time_to_take_aapl_gains_and_gtfo/)
 
 ## Links
 

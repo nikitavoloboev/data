@@ -64,3 +64,4 @@
 - [Designing Electronics that Work](http://designingelectronics.com/) - Book on practical electronics design. ([HN](https://news.ycombinator.com/item?id=27439266))
 - [Voltage, Amps, Resistance and LEDs (2021)](https://blog.demofox.org/2021/06/15/voltage-amps-resistance-and-leds-ohms-law/) ([HN](https://news.ycombinator.com/item?id=27525615))
 - [Eddy Current](https://en.wikipedia.org/wiki/Eddy_current)
+- [A Pixel Purse LED Cube Controlled by a Cisco 3G Modem (2021)](https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html)

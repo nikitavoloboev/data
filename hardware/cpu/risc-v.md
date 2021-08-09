@@ -103,3 +103,4 @@
 - [RISC-V Bytes](https://danielmangum.com/categories/risc-v-bytes/)
 - [RVVM](https://github.com/lekkit/rvvm) - RISC-V Virtual Machine. ([HN](https://news.ycombinator.com/item?id=27918744))
 - [seL4 Integrity Enforcement Proved for RISC-V (2021)](https://microkerneldude.wordpress.com/2021/08/04/sel4-integrity-enforcement-proved-for-risc-v/)
+- [VexRiscv, OpenOCD, and Traps (2021)](https://tomverbeure.github.io/2021/07/18/VexRiscv-OpenOCD-and-Traps.html) ([Code](https://github.com/tomverbeure/vexriscv_ocd_blog))
