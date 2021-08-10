@@ -521,3 +521,4 @@ Go promotes composition over inheritance.
 - [http2curl](https://github.com/moul/http2curl) - Convert Golang's http.Request to CURL command line.
 - [Zero downtime with Go with many API endpoints? (2021)](https://www.reddit.com/r/golang/comments/oz9xgk/zero_downtime_with_go_with_many_api_endpoints/)
 - [Go binary parser for IDAPro](https://github.com/0xjiayu/go_parser)
+- [A Tale of Two Copies (2021)](https://storj.io/blog/a-tale-of-two-copies)
