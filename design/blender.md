@@ -47,3 +47,4 @@
 - [Path tracing Quake in Blender (2021)](http://matthewearl.github.io/2021/06/20/quake-blender/)
 - [Armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration. ([Web](https://armory3d.org/))
 - [Blender and the Rabbids (2021)](https://www.blender.org/user-stories/blender-and-the-rabbids/) ([HN](https://news.ycombinator.com/item?id=27729331))
+- [Blender Toolbox](https://github.com/HTDerekLiu/BlenderToolbox) - Python scripts for rendering 3D shapes in Blender.

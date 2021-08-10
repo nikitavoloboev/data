@@ -166,3 +166,4 @@
 - [Global Illumination - What It Is, How Does It Work And Why Do We Need It? (2021)](https://www.youtube.com/watch?v=yEkryaaAsBU) ([Tweet](https://twitter.com/Dachsjaeger/status/1418937113194676227))
 - [Real-Time Shading with Polyhedral Lights using Silhouette Detection](https://bastian.urbach.one/rtswplusd/)
 - [Pixar cofounder Alvy Ray Smith on ‘A Biography of the Pixel’ (2021)](https://www.fastcompany.com/90659130/alvy-ray-smith-a-biography-of-the-pixel-pixar)
+- [Surface Multigrid via Intrinsic Prolongation](http://www.dgp.toronto.edu/~hsuehtil/pdf/surfMG_65mb.pdf) ([Code](https://github.com/HTDerekLiu/surface_multigrid_code))
