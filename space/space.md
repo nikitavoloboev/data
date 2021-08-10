@@ -91,7 +91,7 @@
 - [Mars26](https://mars26.com/) - High Resolution Mars Map. ([HN](https://news.ycombinator.com/item?id=26965583))
 - [Stars That Race Through Space at Nearly the Speed of Light (2021)](https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/) ([HN](https://news.ycombinator.com/item?id=27019843))
 - [NASASpaceflight - YouTube](https://www.youtube.com/channel/UCSUu1lih2RifWkKtDOJdsBA)
-- [Varda Space Industries](https://varda.com/) ([Tweet](https://twitter.com/Jeff_Burke14/status/1390656861888671747))
+- [Varda Space Industries](https://varda.com/) ([Tweet](https://twitter.com/Jeff_Burke14/status/1390656861888671747)) ([Video](https://www.youtube.com/watch?v=1FNQ108h8iM))
 - [Starlink Satellites Tracker](https://findstarlink.com/) ([HN](https://news.ycombinator.com/item?id=27080471))
 - [Blue Origin](https://www.blueorigin.com/) - Aerospace manufacturer and sub-orbital spaceflight services company.
 - [Blue Origin’s massive New Glenn rocket is delayed for years. What went wrong? (2021)](https://arstechnica.com/science/2021/03/so-what-really-happened-with-blue-origins-new-glenn-rocket/)
