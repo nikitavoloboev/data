@@ -85,3 +85,5 @@
 - [How WCAG color contrast ratio works (2021)](https://twitter.com/DanHollick/status/1417895151003865090)
 - [colorful gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer.
 - [Accessible Colors](https://accessible-colors.com/) - Automatically find the closest accessible color combination. ([Code](https://github.com/moroshko/accessible-colors))
+- [ColorBox](https://colorbox.io/)
+- [color-algorithm](https://github.com/k-vyn/coloralgorithm) - JavaScript function for producing color sets. Used to build Lyft's color system (Spectrum) and power ColorBox.

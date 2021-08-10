@@ -109,6 +109,7 @@
 - [flooks](https://github.com/nanxiaobei/flooks) - State manager for React Hooks, with gorgeous auto optimized re-render.
 - [react-tracking](https://github.com/nytimes/react-tracking) - Declarative tracking for React apps.
 - [react-virtual](https://github.com/tannerlinsley/react-virtual) - Hooks for virtualizing scrollable elements in React.
+- [zustand-middleware-xstate](https://github.com/biowaffeln/zustand-middleware-xstate) - Allows you to easily put your xstate state machines into a global zustand store.
 
 ## Notes
 

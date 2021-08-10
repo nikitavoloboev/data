@@ -91,6 +91,7 @@
 - [Kern](https://github.com/blancas/kern) - Parser Combinators Library for Clojure.
 - [Morph](https://github.com/blancas/morph) - Library of Morphisms: Monoids, Functors, and Monads.
 - [Block Storage](https://github.com/greglook/blocks) - Clojure content-addressable data storage.
+- [ClojisR](https://github.com/scicloj/clojisr) - Clojure speaks statistics - a bridge between Clojure to R.
 
 ## Links
 
@@ -98,3 +99,4 @@
 - [Clojars](https://clojars.org/) - Easy to use community repository for open source Clojure libraries.
 - [How-to: Clojure libraries on Maven Central (2021)](https://www.juxt.pro/blog/maven-central)
 - [Antq](https://github.com/liquidz/antq) - Point out your outdated dependencies.
+- [SciCloj](https://scicloj.github.io/) - Community of people creating high-quality open source solutions for data science in Clojure. ([GitHub](https://github.com/scicloj))
