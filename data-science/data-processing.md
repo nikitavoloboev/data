@@ -54,3 +54,4 @@
 - [Tuplex](https://github.com/tuplex/tuplex) - Parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. ([Web](https://tuplex.cs.brown.edu/))
 - [file.d](https://github.com/ozonru/file.d) - Blazing fast tool for building data pipelines: read, process and output events.
 - [Datafuse](https://datafuse.rs/) - Modern Real-Time Data Processing in Rust. ([Code](https://github.com/datafuselabs/datafuse/)) ([HN](https://news.ycombinator.com/item?id=28069895))
+- [MapReduce is making a comeback (2021)](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback) ([HN](https://news.ycombinator.com/item?id=28128360))

@@ -902,6 +902,7 @@
 - [strftime](https://github.com/lestrrat-go/strftime) - Fast strftime for Go.
 - [sorty](https://github.com/jfcg/sorty) - Fast Concurrent / Parallel Sorting in Go.
 - [go-car](https://github.com/ipld/go-car) - Library to interact with merkledags stored as a single file.
+- [functional-go](https://github.com/logic-building/functional-go) - Functional programming in Go. Inspired by Clojure.
 
 ## Links
 
