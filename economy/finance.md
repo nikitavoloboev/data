@@ -119,3 +119,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [If You Want To Transform IT, Start With Finance (2021)](https://zwischenzugs.com/2021/07/12/if-you-want-to-transform-it-start-with-finance/) ([HN](https://news.ycombinator.com/item?id=27825211))
 - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
 - [Spreadsheet formulas for personal finance (2021)](https://bou.ke/blog/formulas/) ([HN](https://news.ycombinator.com/item?id=28037317))
+- [Best software for submitting receipts](https://twitter.com/maccaw/status/1424826881828954123)
