@@ -51,3 +51,4 @@
 - [Curated Code CAD](https://learn.cadhub.xyz/blog/curated-code-cad/) - List of the various code-cad projects out there. ([Code](https://github.com/Irev-Dev/curated-code-cad))
 - [Poly Haven](https://polyhaven.com/) - Public Asset Library.
 - [Truck](https://github.com/ricosjp/truck) - Rust CAD kernel.
+- [Cubic Stylization](https://www.dgp.toronto.edu/projects/cubic-stylization/) - 3D stylization algorithm that can turn an input shape into the style of a cube while maintaining the content of the original shape. ([Code](https://github.com/HTDerekLiu/CubicStylization_Cpp))

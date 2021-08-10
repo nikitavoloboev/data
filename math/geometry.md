@@ -44,3 +44,4 @@
 - [A Satisfying Result (2021)](https://cacm.acm.org/magazines/2021/5/252165-a-satisfying-result/fulltext#.YIeLaVxXfk0.twitter)
 - [Geometry Processing Course](https://github.com/alecjacobson/geometry-processing)
 - [Generating Random Convex Polygons](https://cglab.ca/~sander/misc/ConvexGeneration/convex.html)
+- [jaxgptoolbox](https://github.com/ml-for-gp/jaxgptoolbox) - Collection of basic geometry processing functions, constructed to work with jax's audodifferentiation feature for applications in machine learning.
