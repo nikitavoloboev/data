@@ -107,3 +107,4 @@
 - [Sveltekit Starter](https://github.com/navneetsharmaui/sveltekit-starter) - Starter project created with Sveltekit, Typescript, Tailwindcss, Postcss, SCSS, Husky, ESLint, Prettier, Storybook, and Jest.
 - [Svelte + Capacitor](https://github.com/drannex42/svelte-capacitor) - Build hybrid mobile apps using Svelte and CapacitorJS with live reloading on Android and iOS.
 - [PostgreSQL, PostgREST and Svelte are a bliss to develop with](https://webgma.co.il/Articles/rapid-prototyping-with-postgrest-and-svelte/en/)
+- [Svelte - Web App Development Reimagined • Mark Volkmann (2021)](https://www.youtube.com/watch?v=4CGzFwHoD0A&list=PLEx5khR4g7PKSASVAXXiAhkyx02_OeruP)

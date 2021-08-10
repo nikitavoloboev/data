@@ -532,4 +532,4 @@
 - [Rust Cryptography Interest Group (RCIG)](https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo) - Coordination repo for all things Rust Cryptography oriented.
 - [Rust Cloud Native](https://rust-cloud-native.github.io/) - Collection of resources about cloud native Rust. ([Code](https://github.com/rust-cloud-native/rust-cloud-native.github.io)) ([HN](https://news.ycombinator.com/item?id=28049787))
 - [wg-async-foundations](https://rust-lang.github.io/wg-async-foundations/) - Working group dedicated to improving the foundations of async I/O in Rust. ([Code](https://github.com/rust-lang/wg-async-foundations))
-- [When Zero Cost Abstractions Aren’t Zero Cost (2021)](https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html) ([Reddit](https://www.reddit.com/r/rust/comments/p0ul6b/when_zero_cost_abstractions_arent_zero_cost/))
+- [When Zero Cost Abstractions Aren’t Zero Cost (2021)](https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html) ([Reddit](https://www.reddit.com/r/rust/comments/p0ul6b/when_zero_cost_abstractions_arent_zero_cost/)) ([HN](https://news.ycombinator.com/item?id=28121108))

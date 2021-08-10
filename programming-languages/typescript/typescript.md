@@ -170,6 +170,7 @@
 - [TypeScript Evolution — Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
 - [Optional Chaining: The ?. Operator in TypeScript](https://mariusschulz.com/blog/optional-chaining-the-operator-in-typescript) ([Lobsters](https://lobste.rs/s/hftt3k/optional_chaining_operator_typescript))
 - [TypeScript and TSX grammars for tree-sitter](https://github.com/tree-sitter/tree-sitter-typescript)
+- [Practical introduction to algebraic datatypes (ADTs) in TypeScript (2021)](https://medium.com/@el3ng/practical-introduction-to-algebraic-datatypes-adts-in-typescript-1cb6952e4c6d)
 
 ## Images
 

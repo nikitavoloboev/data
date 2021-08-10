@@ -238,3 +238,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Yarn 3.0: Performances, ESBuild, Better Patches (2021)](https://dev.to/arcanis/yarn-3-0-performances-esbuild-better-patches-e07) ([HN](https://news.ycombinator.com/item?id=28010309))
 - [Nodashka](https://github.com/borkdude/nodashka) - Babashka-like tool for Node.js.
 - [Non-blocking I/O and how Node uses it, in friendly terms (2021)](https://www.youtube.com/watch?v=wB9tIg209-8)
+- [Hello Yarn 2, Goodbye node_modules (2021)](https://freddixx.medium.com/hello-yarn-2-goodbye-node-modules-21d97afc1a75) ([HN](https://news.ycombinator.com/item?id=28122318))

@@ -37,4 +37,4 @@
 - [Classes vs. Prototypes: Some Philosophical and Historical Observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.4713&rep=rep1&type=pdf)
 - [Examples of good OOP code (2021)](https://lobste.rs/s/bcrtrj/please_send_me_examples_good_oop_code)
 - [Книга о принципах SOLID и объектно-ориентированном дизайне программ](https://ota-solid.vercel.app/) ([Code](https://github.com/open-tech-authors/solid))
-- [Growing Object-Oriented Software vs what I would do (2021)](https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do) ([Lobsters](https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what))
+- [Growing Object-Oriented Software vs what I would do (2021)](https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do) ([Lobsters](https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what)) ([HN](https://news.ycombinator.com/item?id=28105503))
