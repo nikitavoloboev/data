@@ -112,6 +112,7 @@
 - [ORM](https://github.com/encode/orm) - Async ORM for Python, with support for Postgres, MySQL, and SQLite.
 - [ConnectorX](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python. ([Lobsters](https://lobste.rs/s/uwfozb/connectorx_accelerate_data_loading_from))
 - [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions. ([Docs](https://dataset.readthedocs.io/en/latest/))
+- [Piccolo](https://github.com/piccolo-orm/piccolo) - Fast, user friendly ORM and query builder which supports asyncio. ([Web](https://piccolo-orm.com/))
 
 ## GUI
 
@@ -144,6 +145,7 @@
 - [Ward](https://github.com/darrenburns/ward) - Modern test framework for Python with a focus on productivity and readability.
 - [Pynguin](https://github.com/se2p/pynguin) – Generate Python unit tests automatically. ([HN](https://news.ycombinator.com/item?id=27350264))
 - [Parameterized](https://github.com/wolever/parameterized) - Parameterized testing for nose, parameterized testing for py.test, parameterized testing for unittest.
+- [hyppo](https://github.com/neurodata/hyppo) - Python package for multivariate hypothesis testing.
 
 ## Other
 
@@ -445,6 +447,7 @@
 - [borb](https://github.com/jorisschellekens/borb) - Library for creating and manipulating PDF files in python.
 - [Patsy](https://github.com/pydata/patsy) - Describing statistical models in Python using symbolic formulas.
 - [Twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
+- [ASPIRE](https://github.com/ComputationalCryoEM/ASPIRE-Python) - Algorithms for Single Particle Reconstruction.
 
 ## Links
 

@@ -732,6 +732,7 @@
 - [Dip](https://github.com/AliSoftware/Dip) - Simple Swift Dependency container. Use protocols to resolve your dependencies and avoid singletons / sharedInstances.
 - [LRUCache](https://github.com/nicklockwood/LRUCache) - Open-source replacement for NSCache that behaves in a predictable, debuggable way. ([Tweet](https://twitter.com/nicklockwood/status/1423447272206053376))
 - [SwimplyCache](https://github.com/obrhoff/SwimplyCache) - LRU Cache written in Swift.
+- [Partial](https://github.com/JosephDuffy/Partial) - Type-safe wrapper mirroring the wrapped type's properties, making each property optional.
 
 ## Other (not lib)
 
