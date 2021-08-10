@@ -109,3 +109,4 @@
 - [Rebuilding Twitter’s Public API (2021)](https://www.youtube.com/watch?v=axFSaH_-IMw)
 - [Twitter API v2 sample code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js).
 - [BlackMagic.so](https://blackmagic.so/) - Twitter Growth Tool.
+- [#buildinpublic](https://buildinpublic.com/) - Discover what people are building in public.
