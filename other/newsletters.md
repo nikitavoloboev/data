@@ -6,6 +6,7 @@
 - [Dense Discovery](https://www.densediscovery.com/) - Weekly newsletter on tech, design, culture & sustainability.
 - [The Slice](https://theslice.co/) - Weekly email helping you become a better maker.
 - [Bytes](https://bytes.dev/) - Your favorite JavaScript newsletter.
+- [Console Newsletter](https://console.dev/) - Best tools for developers.
 
 ## Notes
 
