@@ -24,3 +24,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Rating Graph](https://www.ratingraph.com/) - Find your next binge-watch.
 - [Plex-Trakt-Sync](https://github.com/Taxel/PlexTraktSync) - Python script that syncs the movies, shows and ratings between trakt and Plex.
 - [Tomatotree.tv](https://tomatotree.tv/) - Find your next series to watch using Rotten Tomatoes. ([HN](https://news.ycombinator.com/item?id=28051563))
+- [Nestflix](https://nestflix.fun/) - For your favorite nested films and shows.
