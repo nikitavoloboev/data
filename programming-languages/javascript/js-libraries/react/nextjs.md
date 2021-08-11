@@ -39,6 +39,7 @@
 - [XState Next Boilerplate](https://github.com/mattpocock/xstate-next-boilerplate) - Performant, robust starting point for any React application.
 - [Create Next Stack](https://github.com/akd-io/create-next-stack) - Opinionated interactive CLI tool to easily set up the boilerplate of a new Next.js app.
 - [Liveblocks × Next.js](https://github.com/liveblocks/next-js-examples) - Shows how to use Liveblocks with Next.js.
+- [NextJS Starter Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
 
 ## NextJS plugins
 

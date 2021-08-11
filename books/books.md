@@ -228,6 +228,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Reddit's Favorite Books](https://redditfavorites.com/books) ([HN](https://news.ycombinator.com/item?id=27697427))
 - [Books from which you forgot to take breaks (2021)](https://www.reddit.com/r/suggestmeabook/comments/oo20q1/looking_for_a_great_pageturner_what_book_had_you/)
 - [Sylvain Kerkour - Readings](https://kerkour.com/readings/)
+- [If you could only ever read three books, again and again, what would they be? (2021)](https://twitter.com/csallen/status/1425463270824026112)
 
 ## Notes
 
