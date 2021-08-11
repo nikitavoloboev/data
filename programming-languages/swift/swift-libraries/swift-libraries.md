@@ -323,6 +323,7 @@
 - [AdvancedList-SwiftUI](https://github.com/crelies/AdvancedList-SwiftUI) - Advanced list with empty, error and loading state implemented with SwiftUI.
 - [StackKit](https://github.com/gymshark/ios-stack-kit) - Power of SwiftUI with UIKit.
 - [ViewExtractor](https://github.com/GeorgeElsham/ViewExtractor) - Extract SwiftUI views from ViewBuilder content.
+- [KeyWindow](https://github.com/LostMoa/KeyWindow) - Share values provided by views in the Key window to all other parts of your SwiftUI application including the commands block.
 
 ## Test
 

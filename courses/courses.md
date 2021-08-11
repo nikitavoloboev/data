@@ -43,4 +43,4 @@
 - [udemy-dl](https://github.com/r0oth3x49/udemy-dl) - Cross-platform python based utility to download courses from Udemy for personal offline use.
 - [CourseLift](https://courselift.com/) - Build and Launch Courses That Sell.
 - [In Online Ed, Content Is No Longer King—Cohorts Are (2021)](https://future.a16z.com/cohort-based-courses/)
-- [Slip](https://www.slip.so/) - The easiest way to build interactive programming courses.
+- [Slip](https://www.slip.so/) - Build and sell interactive programming courses. ([HN](https://news.ycombinator.com/item?id=28141462))

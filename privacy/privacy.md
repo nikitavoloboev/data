@@ -94,3 +94,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Moving away from Google services, 8 years in (2021)](https://maximevaillancourt.com/blog/moving-away-from-google-services-8-years-in)
 - [Thinking about “traceability” (2021)](https://blog.cryptographyengineering.com/2021/08/01/thinking-about-traceability/) ([HN](https://news.ycombinator.com/item?id=28032523))
 - [Messaging and Chat Control (2021)](https://www.patrick-breyer.de/en/posts/message-screening/?lang=en) - New EU Law Removes Digital Privacy. ([HN](https://news.ycombinator.com/item?id=28139889))
+- [Apple’s Mistake (2021)](https://stratechery.com/2021/apples-mistake/) ([HN](https://news.ycombinator.com/item?id=28118350))
