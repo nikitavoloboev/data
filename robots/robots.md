@@ -92,3 +92,4 @@
 - [RoFI - Metamorphic Distributed Robots](https://github.com/paradise-fi/RoFI)
 - [Frankx](https://github.com/pantor/frankx) - High-Level Motion Library for Collaborative Robots.
 - [Robot Learning of Shifting Objects for Grasping in Cluttered Environments](https://github.com/pantor/learning-shifting-for-grasping)
+- [CausalWorld](https://github.com/rr-learning/CausalWorld) - Robotic Manipulation Benchmark for Causal Structure and Transfer Learning.
