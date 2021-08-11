@@ -8,6 +8,7 @@
   - Now, these values can be lent out ("borrowing") to sub-functions and such via references (mutable or immutable). Multiple immutable references can be handed out at once, but a mutable reference to a value has to be the only reference to that value of any kind, at a given time.
 - [My go to for Rust actors package is usually tokio::sync::mpsc and tokio::spawn.](https://twitter.com/DavidPdrsn/status/1418554353586262021)
 - [For error handling: We use anyhow for applications, thiserror for libraries.](https://lobste.rs/s/xbncik/rust_first_thoughts)
+- [Once you internalize Rust's concept of ownership and its criticality to memory safety, it forever changes how you look at C/C++ code. You will constantly be amazed - and demoralized - by how often C/C++ code doesn't document memory lifetimes/ownership in its API contracts.](https://twitter.com/indygreg/status/1425314471950491650)
 
 ## Links
 

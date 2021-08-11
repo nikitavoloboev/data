@@ -110,3 +110,4 @@
 - [Twitter API v2 sample code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js).
 - [BlackMagic.so](https://blackmagic.so/) - Twitter Growth Tool.
 - [#buildinpublic](https://buildinpublic.com/) - Discover what people are building in public.
+- [Twitter's new visual design system](https://twitter.com/ashlie/status/1425506038506147840) ([Tweet](https://twitter.com/TwitterDesign/status/1425505308563099650))

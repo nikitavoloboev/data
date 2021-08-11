@@ -128,3 +128,4 @@
 - [Better coordination, or better software? (2021)](https://jessitron.com/2021/08/02/better-coordination-or-better-software/) ([Tweet](https://twitter.com/tristanls/status/1422518838432870400))
 - [Managing tentpole launches at Gumroad ft. Josh Pigford from Baremetrics (2020)](https://www.youtube.com/watch?v=2PcIC1DKBU0)
 - [Ask HN: Senior Software Engineer to Engineering Manager (2021)](https://news.ycombinator.com/item?id=28129546)
+- [Ruthless Prioritization (2017)](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)

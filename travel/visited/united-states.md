@@ -62,3 +62,4 @@
 - [Depression Era Photos](https://twitter.com/blestcrone)
 - [Best/easiest of getting into the US from the EU? (2021)](https://www.reddit.com/r/cscareerquestionsEU/comments/ox0ip2/whats_the_besteasiest_of_getting_into_the_us_from/)
 - [David Cross: Why America Sucks at Everything (2021)](https://www.youtube.com/watch?v=aNghg1Y-WIc) ([Reddit](https://www.reddit.com/r/videos/comments/p0y18p/david_cross_why_america_sucks/))
+- [Apartment hunting tips for SF](https://twitter.com/nikolasklein/status/1425391214963085314)
