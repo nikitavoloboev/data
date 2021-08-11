@@ -118,3 +118,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [The recycling myth: A plastic waste solution littered with failure (2021)](https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/) ([HN](https://news.ycombinator.com/item?id=28018057))
 - [Heimdal](https://www.heimdalccu.com/) - Carbon neutral cement. ([HN](https://news.ycombinator.com/item?id=28036927))
 - [How we’re making Dropbox data centers 100% carbon neutral (2021)](https://dropbox.tech/infrastructure/making-dropbox-data-centers-carbon-neutral)
+- [The emergence of heat and humidity too severe for human tolerance (2020)](https://advances.sciencemag.org/content/6/19/eaaw1838) ([HN](https://news.ycombinator.com/item?id=28136793))
