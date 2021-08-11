@@ -207,3 +207,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [The future of games is instant (2021)](https://twitter.com/Tocelot/status/1404914355670437889)
 - [Valve Steam Deck](https://www.steamdeck.com/en/) - All-in-one portable PC gaming. ([HN](https://news.ycombinator.com/item?id=27846969))
 - [Google for Games](https://games.withgoogle.com/) ([GitHub](https://github.com/googleforgames))
+- [Senpai.gg](https://senpai.gg/) - Personal gaming coach for PC gamers. ([HN](https://news.ycombinator.com/item?id=28145998))

@@ -141,3 +141,4 @@
 - [Awesome Tips](https://github.com/jbhuang0604/awesome-tips) - Research, working with mentors, writing papers.
 - [Perception shifting: Consolidating learned experience into action (2021)](https://markbao.com/journal/perception-shifting-consolidating-learned-experience-into-action)
 - [Matter](https://getmatter.app/) - Social reading app for articles, blogs, and newsletters. ([Twitter](https://twitter.com/getmatterapp))
+- [Opinionated Guides](https://opguides.info/)
