@@ -124,3 +124,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [My SECRET Grandmaster Training (2021)](https://www.youtube.com/watch?v=8jY95rOsxv0)
 - [Sunfish](https://github.com/thomasahle/sunfish) - Python Chess Engine in 111 lines of code. ([Wiki](https://www.chessprogramming.org/Sunfish))
 - [FastChess](https://github.com/thomasahle/fastchess) - Predicts the best chess move with 27.5% accuracy by a single matrix multiplication.
+- [Speed Run - Finding Mistakes #1 - Typical mistakes played at lower levels (2021)](https://www.youtube.com/watch?v=y2mhbgubuvQ)

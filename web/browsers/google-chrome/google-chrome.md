@@ -62,4 +62,4 @@ And here are Chrome extensions I use:
 - [How do Chrome extensions impact browser performance? (2021)](https://www.debugbear.com/blog/chrome-extension-performance-2021)
 - [Google’s unfair performance advantage in Chrome (2021)](https://www.ctrl.blog/entry/chrome-google-dse-preconnect.html) ([Lobsters](https://lobste.rs/s/aj3yxt/google_s_unfair_performance_advantage)) ([HN](https://news.ycombinator.com/item?id=27763208))
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js.
-- [Stay Alert: How Chrome Plans to Break the Web (2021)](https://dev.to/richharris/stay-alert-d)
+- [Stay Alert: How Chrome Plans to Break the Web (2021)](https://dev.to/richharris/stay-alert-d) ([Tweet](https://twitter.com/rich_harris/status/1425099638491783183))
