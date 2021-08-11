@@ -200,3 +200,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Why is Russia So DAMN BIG? (2021)](https://www.youtube.com/watch?v=HBlZlmXyR5M)
 - [Знаменитый диалог Путина с Ходорковским, незадолго до ареста (2021)](https://www.youtube.com/watch?v=KbU--N4z3fU)
 - [Я позвонил фальсификаторам. Они признались (2021)](https://www.youtube.com/watch?v=8H7hRuNjGrs)
+- [Сергей Гуриев и Майкл Наки: Перспективы политического режима (2021)](https://www.youtube.com/watch?v=5SuEv0CUnYo)

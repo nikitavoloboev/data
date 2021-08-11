@@ -185,6 +185,7 @@
 - [Firefly](https://github.com/ActuallyZach/Firefly) - iOS syntax highlighter based on Savanna Kit, Sourceful and Highlightr.
 - [Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library.
 - [Google Sign-In for iOS](https://github.com/google/GoogleSignIn-iOS)
+- [UIView+Borders](https://github.com/aaronn/UIView-Borders-Swift) - One sided borders on any side of a UIView.
 
 ## macOS
 
