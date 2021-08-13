@@ -142,3 +142,4 @@
 - [Javad Tabatabaei's generative art](https://www.hicetnunc.xyz/tz/tz1MuBZEBbqmPDqf67jDErYKn1RUScc2Zx7A/creations)
 - [Non-Circular Packing (2021)](https://ippsketch.com/posts/non-circular-packing/)
 - [Sketching - A Language for Creative Coding](https://soegaard.github.io/sketching/)
+- [The Rise of Long-Form Generative Art (2021)](https://tylerxhobbs.com/essays/2021/the-rise-of-long-form-generative-art)
