@@ -202,3 +202,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Prowler](https://github.com/toniblyx/prowler) - AWS Security Tool.
 - [awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans.
 - [Saw](https://github.com/TylerBrock/saw) - Fast, multi-purpose tool for AWS CloudWatch Logs.
+- [JetKit/CDK](https://github.com/jetbridge/jetkit-cdk) - Cloud-native TypeScript API development kit for AWS CDK. ([Web](https://www.jetkit.dev/))

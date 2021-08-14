@@ -30,3 +30,4 @@
 - [Unicode sorting is hard & why browsers added special emoji matching to regexp (2021)](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
 - [Any Encoding, Ever (2021)](https://thephd.dev/any-encoding-ever-ztd-text-unicode-cpp) ([HN](https://news.ycombinator.com/item?id=27695412))
 - [casync](https://github.com/systemd/casync) - Content Addressable Data Synchronizer.
+- [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797) ([HN](https://news.ycombinator.com/item?id=28145209))
