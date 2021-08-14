@@ -1,6 +1,6 @@
 # Russia
 
-The number of crimes against humanity committed by [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) is horrific. Need to do everything possible to turn these countries into functional democracies & jail existing dictators with all their helpers.
+The number of crimes against humanity committed by [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies & jail existing dictators with all their helpers.
 
 It's a travesty that citizen's taxes are are being stolen to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
 
@@ -201,3 +201,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Знаменитый диалог Путина с Ходорковским, незадолго до ареста (2021)](https://www.youtube.com/watch?v=KbU--N4z3fU)
 - [Я позвонил фальсификаторам. Они признались (2021)](https://www.youtube.com/watch?v=8H7hRuNjGrs)
 - [Сергей Гуриев и Майкл Наки: Перспективы политического режима (2021)](https://www.youtube.com/watch?v=5SuEv0CUnYo)
+- [Общественно-политические блогеры в одном твите (2021)](https://twitter.com/leonov_mr/status/1426175043789369344)
