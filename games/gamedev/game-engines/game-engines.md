@@ -108,3 +108,4 @@
 - [Game Engine: How I Implemented Skeletal Animation (2021)](https://vladh.net/articles/game-engine-skeletal-animation.html) ([HN](https://news.ycombinator.com/item?id=26659295))
 - [Doom Engine source code review (2010)](https://fabiensanglard.net/doomIphone/doomClassicRenderer.php)
 - [Solving the Right Problems for Engine Programmers - Mike Acton (2017)](https://www.youtube.com/watch?v=4B00hV3wmMY)
+- [A Deep Dive into Nanite Virtualized Geometry (2021)](http://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf) ([Lobsters](https://lobste.rs/s/i2vpnd/deep_dive_into_nanite_virtualized))
