@@ -100,3 +100,4 @@
 - [Sqlite µLogger](https://github.com/siara-cc/sqlite_micro_logger_c) - Fast and Lean database logger that can log data into Sqlite databases even with SRAM as low as 2kb.
 - [Apply conversion functions to data in SQLite columns with the sqlite-utils CLI tool (2021)](https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/)
 - [A future for SQL on the web (2021)](https://jlongster.com/future-sql-web) ([HN](https://news.ycombinator.com/item?id=28156831)) ([Tweet](https://twitter.com/jlongster/status/1425825714788503552))
+- [sqlite-s3-query](https://github.com/michalc/sqlite-s3-query) - Python function to query SQLite files stored on S3.

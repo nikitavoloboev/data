@@ -141,3 +141,4 @@
 - [More Protein Folding Progress – What’s It Mean? (2021)](https://blogs.sciencemag.org/pipeline/archives/2021/07/23/more-protein-folding-progress-whats-it-mean) ([HN](https://news.ycombinator.com/item?id=27962246))
 - [smof](https://github.com/incertae-sedis/smof) - UNIX-style FASTA tools.
 - [AlphaFold2: Are attention and symmetries all you need? (2021)](https://journals.iucr.org/d/issues/2021/08/00/rr5212/rr5212.pdf)
+- [ColabFold](https://github.com/sokrypton/ColabFold) - Making Protein folding accessible to all via Google Colab.
