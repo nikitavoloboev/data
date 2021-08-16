@@ -113,6 +113,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Some Tank Game](https://github.com/horup/some-tank-game-rs) - Action game written in Rust using the Bevy engine.
 - [Rusted Ruins](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.
 - [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Turn-based survival game set in a post-apocalyptic world. ([Code](https://github.com/CleverRaven/Cataclysm-DDA))
+- [Widelands](https://github.com/widelands/widelands) - Free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. ([Web](https://www.widelands.org)) ([HN](https://news.ycombinator.com/item?id=28196178))
 
 ## Awesome games (other)
 
