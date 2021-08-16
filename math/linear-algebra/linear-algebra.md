@@ -14,7 +14,7 @@
 - [Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra](https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf) ([HN](https://news.ycombinator.com/item?id=20241148))
 - [A Brief Guide to A Few Algebraic Structures](https://argumatronic.com/posts/2019-06-21-algebra-cheatsheet.html) ([HN](https://news.ycombinator.com/item?id=20577334))
 - [Margot Gerritsen on "Linear Algebra - the incredible beauty of math" (2013)](https://www.youtube.com/watch?v=s6p864XVxeU)
-- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) ([Code](https://github.com/QBobWatson/gt-linalg)) ([HN](https://news.ycombinator.com/item?id=21628449))
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) ([Code](https://github.com/QBobWatson/gt-linalg)) ([HN](https://news.ycombinator.com/item?id=21628449)) ([HN](https://news.ycombinator.com/item?id=28168339))
 - [Numerical Linear Algebra for Programmers book](https://aiprobook.com/numerical-linear-algebra-for-programmers/)
 - [Oxford Linear Algebra II course (2020)](https://courses.maths.ox.ac.uk/node/43829)
 - [No bullshit guide to linear algebra notebooks](https://github.com/minireference/noBSLAnotebooks)

@@ -203,3 +203,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Общественно-политические блогеры в одном твите (2021)](https://twitter.com/leonov_mr/status/1426175043789369344)
 - [Ждет ли Россию диктатура? (2021)](https://www.youtube.com/watch?v=8D35nvlVccw)
 - [Top 10 Places To Visit In Russia (2021)](https://www.youtube.com/watch?v=_V0hvU4d7-o)
+- [Александр Аузан. Куда уходят наши налоги, почему такие низкие пенсии и отчего дешевеет рубль? (2021)](https://www.youtube.com/watch?v=3MtkoTtVWUg)

@@ -81,4 +81,4 @@
 - [Ribbon filter: practically smaller than Bloom and Xor (2021)](https://arxiv.org/abs/2103.02515) ([Article](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/))
 - [B-tree Path Hints](https://github.com/tidwall/btree/blob/master/PATH_HINT.md) ([HN](https://news.ycombinator.com/item?id=28008541))
 - [How Multiplayer Data Structures Work (2021)](https://matt-rickard.com/collaborative-data-types/)
-- [Classical Data Structures That Can Outperform Learned Indexes (2018)](https://dawn.cs.stanford.edu//2018/01/11/index-baselines/) ([Lobsters](https://lobste.rs/s/pvjhcl/classical_data_structures_can))
+- [Classical Data Structures That Can Outperform Learned Indexes (2018)](https://dawn.cs.stanford.edu//2018/01/11/index-baselines/) ([Lobsters](https://lobste.rs/s/pvjhcl/classical_data_structures_can)) ([HN](https://news.ycombinator.com/item?id=28195439))
