@@ -35,3 +35,4 @@
 - [Language Learning Resources](https://yusuf.is/creating/language-learning-resources)
 - [Reverso Context](https://context.reverso.net/translation/) - Translation in context.
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
+- [The Fastest Way to Learn a New Language: The Video Game Map Theory (2021)](https://www.youtube.com/watch?v=3i1lNJPY-4Q)

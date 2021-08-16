@@ -14,7 +14,8 @@
 - [Alina by Damon Loble for C-Heads](https://www.c-heads.com/2015/02/10/alina-by-damon-loble-for-c-heads/)
 - [C-Heads Magazine](https://www.c-heads.com/) - Magazine for photography, fashion, music & youth culture.
 - [Sitnik Friday Telegram](https://t.me/sitnikfriday) - Эстетичная эротика про мужчин и женщин.
-- [#sitnikfriday Twitter](https://twitter.com/hashtag/sitnikfriday?src=hashtag_click)
+- [#sitnikfriday Twitter](https://twitter.com/hashtag/sitnikfriday)
+- [#нюдсочетверг Twitter](https://twitter.com/hashtag/%D0%BD%D1%8E%D0%B4%D1%81%D0%BE%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%B3)
 - [Hey Darling](https://www.heydarling.co/)
 - [FapBar](https://fap.bar/)
 - [XConfessions](https://xconfessions.com/)

@@ -150,6 +150,7 @@
 - [SeqIO](https://github.com/google/seqio) - Task-based datasets, preprocessing, and evaluation for sequence models.
 - [OpenAI Python](https://github.com/openai/openai-python) - Provides convenient access to the OpenAI API from applications written in Python.
 - [Mesh Transformer JAX](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku. ([HN](https://news.ycombinator.com/item?id=27727009))
+- [Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI (2021)](https://www.youtube.com/watch?v=_z86t7LerrQ)
 - [deepC](https://github.com/ai-techsystems/deepC) - Vendor independent deep learning library, compiler and inference framework designed for small form-factor devices.
 - [Dlib](https://github.com/davisking/dlib) - Modern C++/Python Toolkit for Machine Learning . ([Web](http://dlib.net/)) ([HN](https://news.ycombinator.com/item?id=27917159))
 - [Continuum](https://github.com/Continvvm/continuum) - Clean and simple data loading library for Continual Learning.

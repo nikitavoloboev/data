@@ -42,3 +42,4 @@
 - [David Nichols - Random Selections: From Research Tools to Research Chemicals (2015)](https://www.youtube.com/watch?v=iiYaFP6iQGg)
 - [I tried 122 drugs (all were lab tested) A.M.A. (2021)](https://www.reddit.com/r/researchchemicals/comments/mg03w7/i_tried_122_drugs_all_were_lab_tested_ama/)
 - [What RC is easiest on the body? (2021)](https://www.reddit.com/r/researchchemicals/comments/nt0h0x/what_rc_is_easiest_on_the_body/)
+- [What is a relatively unexplored compound that you believe deserves more love/research? (2021)](https://www.reddit.com/r/researchchemicals/comments/p58biz/what_is_a_relatively_unexplored_compound_that_you/)

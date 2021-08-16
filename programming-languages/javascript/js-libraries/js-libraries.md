@@ -90,6 +90,7 @@
 - [Spearmint](https://github.com/open-source-labs/spearmint) - Testing, simplified. An inclusive, accessibility-first GUI for generating clean, semantic JavaScript tests in only a few clicks of (or keystrokes) of a button. ([Web](https://www.spearmintjs.com/))
 - [StrykerJS](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends. ([Web](https://stryker-mutator.io/))
 - [xv](https://github.com/typicode/xv) - Simple, fast and small test runner.
+- [Peeky](https://github.com/Akryum/peeky) - Test framework for the curious minds. ([Web](https://peeky.netlify.app/))
 
 ## State management
 

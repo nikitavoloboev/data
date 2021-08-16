@@ -202,3 +202,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Я позвонил фальсификаторам. Они признались (2021)](https://www.youtube.com/watch?v=8H7hRuNjGrs)
 - [Сергей Гуриев и Майкл Наки: Перспективы политического режима (2021)](https://www.youtube.com/watch?v=5SuEv0CUnYo)
 - [Общественно-политические блогеры в одном твите (2021)](https://twitter.com/leonov_mr/status/1426175043789369344)
+- [Ждет ли Россию диктатура? (2021)](https://www.youtube.com/watch?v=8D35nvlVccw)

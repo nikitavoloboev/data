@@ -40,6 +40,7 @@
 - [Create Next Stack](https://github.com/akd-io/create-next-stack) - Opinionated interactive CLI tool to easily set up the boilerplate of a new Next.js app.
 - [Liveblocks × Next.js](https://github.com/liveblocks/next-js-examples) - Shows how to use Liveblocks with Next.js.
 - [NextJS Starter Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+- [Supabase NextJS Auth](https://github.com/dabit3/supabase-nextjs-auth) - Magic Link Authentication and Route Controls with Supabase and Next.js.
 
 ## NextJS plugins
 

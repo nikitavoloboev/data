@@ -58,3 +58,4 @@
 - [Corecursive: Andrew Kelly Built Zig (2021)](https://corecursive.com/067-zig-with-andrew-kelley/) ([Reddit](https://www.reddit.com/r/programming/comments/owe4zl/fulltime_open_source_how_andrew_kelly_built_zig/)) ([HN](https://news.ycombinator.com/item?id=28046256))
 - [Zig wrinkles (2021)](https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h) ([Lobsters](https://lobste.rs/s/4pz3qg/zig_wrinkles))
 - [Zig pathtracer (2021)](http://msinilo.pl/blog2/post/zig-pathtracer/) ([HN](https://news.ycombinator.com/item?id=28114957))
+- [Async engines in C++20, Rust, & Zig (2021)](https://www.youtube.com/watch?v=Ws3jC6AJC_4)
