@@ -38,3 +38,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Тред о младшей сестре депрессии — дистимии](https://twitter.com/youtalk_therapy/status/1407666225476476933)
 - [Dabrowski’s Theory and Existential Depression in Gifted Children and Adults (2020)](https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/)
 - [Коллапс моей личности](https://www.youtube.com/watch?v=5pkrlZGFzF0)
+- [Ask HN: I feel trapped in my job and city (2021)](https://news.ycombinator.com/item?id=28200727)

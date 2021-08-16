@@ -12,7 +12,7 @@ I get a notification every day at 20:00 on my phone to complete the habits.
 
 `Activity rings` autofilled through my health data and is marked as done when all the ring goals are complete. My current calorie goal is ~ 700 calories with fixed 50 min workout & 12H standing goals.
 
-`Healt | Clean` marked as done when I drank mostly water & tea with limited coffee (if any, as I often get attention crashes after). I also ate only/primarily [nutritious whole foods (nuts/veggies/fruits/..)](../health/nutrition/foods.md) with focus on completing my [micro & macro nutrient goals](../health/nutrition/nutrition.md). I also [kept my skin clean](../health/skin-care.md) and washed/smelled well throughout the day.
+`Health | Clean` marked as done when I drank mostly water & tea with limited coffee (if any, as I often get attention crashes after). I also ate only/primarily [nutritious whole foods (nuts/veggies/fruits/..)](../health/nutrition/foods.md) with focus on completing my [micro & macro nutrient goals](../health/nutrition/nutrition.md). I also [kept my skin clean](../health/skin-care.md) and washed/smelled well throughout the day.
 
 `Focus | Impact` marked as done when I was not distracted by anything during the day (went through my todos one by one) (no analytics & pointless time wasters). I worked on my [goals](goals.md) & used time wisely. I was calm, mindful and happy.
 

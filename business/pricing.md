@@ -60,3 +60,4 @@
 - [SaaS Pricing Examples](https://saas-pricing.info/)
 - [Questions to Ask Before Adopting Usage Based Pricing (2021)](https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309) ([HN](https://news.ycombinator.com/item?id=27392962))
 - [Saas Pricing Calculator](https://indiebrands.io/saas-pricing-calculator)
+- [Video Game Pricing (2021)](https://www.youtube.com/watch?v=zvPkAYT6B1Q) ([HN](https://news.ycombinator.com/item?id=28200360))
