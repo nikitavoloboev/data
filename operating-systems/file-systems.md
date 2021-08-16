@@ -65,3 +65,4 @@
 - [Zip – How not to design a file format (2021)](https://games.greggman.com/game/zip-rant/) ([HN](https://news.ycombinator.com/item?id=27925393)) ([Lobsters](https://lobste.rs/s/agrmsw/zip_how_not_design_file_format))
 - [Facebook's Tectonic Filesystem: Efficiency from Exascale (2021)](https://paulcavallaro.com/blog/facebook-tectonic-filesystem/)
 - [AppFS](https://appfs.rkeene.org/web/index) - Universal packaging format that is presented to the system as a filesystem (via FUSE).
+- [FastCFS](https://github.com/happyfish100/FastCFS) - High performance distributed file system for databases, K8s and VM etc.

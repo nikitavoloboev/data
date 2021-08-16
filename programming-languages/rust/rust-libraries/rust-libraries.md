@@ -919,6 +919,7 @@
 - [getrandom](https://github.com/rust-random/getrandom) - Small cross-platform library to securely get random data (entropy).
 - [stdarch](https://github.com/rust-lang/stdarch) - Rust's standard library SIMD components.
 - [Gallium](https://github.com/ComLarsic/gallium_ecs) - Simple entity-component-system crate for rust with serialization support.
+- [dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe.
 
 ## Cargo Plugins
 

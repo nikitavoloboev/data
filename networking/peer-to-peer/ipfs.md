@@ -66,3 +66,4 @@ I especially like the distinction of distributing content over distributing link
 - [Nebulus](https://nebulus.dev/) - IPFS-Less IPFS.
 - [Web3 Storage](https://web3.storage/) - Simple file storage service for IPFS & Filecoin. ([Code](https://github.com/web3-storage/web3.storage))
 - [IPFSify Documentation (2021)](https://karmanyaah.malhotra.cc/tech/2021/07/ipfsifying-documentation/) ([HN](https://news.ycombinator.com/item?id=28011740))
+- [Estuary](https://github.com/application-research/estuary) - Custom IPFS/Filecoin node that makes it easy to pin IPFS content and make Filecoin deals.
