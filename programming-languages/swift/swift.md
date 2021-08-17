@@ -225,3 +225,4 @@
 - [Swift Protocol Oriented Programming and Testing (2021)](https://arturgruchala.com/protocol-oriented-programming-unit-testing/) ([HN](https://news.ycombinator.com/item?id=28009230))
 - [Generating captions in Swift (2021)](https://jasdev.me/generating-captions)
 - [How to build better command line apps and tools using Swift (2021)](https://theswiftdev.com/how-to-build-better-command-line-apps-and-tools-using-swift/)
+- [How Actors Work Internally in Swift (2021)](https://swiftrocks.com/how-actors-work-internally-in-swift) ([HN](https://news.ycombinator.com/item?id=28175586))
