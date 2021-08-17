@@ -325,6 +325,7 @@
 - [StackKit](https://github.com/gymshark/ios-stack-kit) - Power of SwiftUI with UIKit.
 - [ViewExtractor](https://github.com/GeorgeElsham/ViewExtractor) - Extract SwiftUI views from ViewBuilder content.
 - [KeyWindow](https://github.com/LostMoa/KeyWindow) - Share values provided by views in the Key window to all other parts of your SwiftUI application including the commands block.
+- [Stateful WebView for SwiftUI](https://github.com/globulus/swiftui-webview)
 
 ## Test
 

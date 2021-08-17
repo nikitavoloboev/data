@@ -175,6 +175,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Allen Lee's Digital Brain](https://github.com/ale0sx/brains)
 - [Ruben Rodrigues's Wiki](https://github.com/rubrodc/ruben-2.0)
 - [Szymon Kaliski's Notes](https://szymonkaliski.com/notes)
+- [Rahul Rajeev](https://garden.rahulrajeev.net/)
 - [Owen's Digigarden](https://publish.obsidian.md/geobo/Welcome+to+my+digital+garden+%F0%9F%8C%B1)
 - [Charlie T](https://blog.charlietrochlil.com/) ([Code](https://github.com/rhymeswithvocal/digital-garden))
 - [Imron Rosyadi](https://irosyadi.gitbook.io/irosyadi/) ([Code](https://github.com/irosyadi/gitbook))
