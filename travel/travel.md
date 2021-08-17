@@ -84,3 +84,4 @@
 - [What country surprised you? (2021)](https://www.reddit.com/r/AskAnAmerican/comments/ov71j5/european_here_what_country_surprised_you/)
 - [Good places for Kiteboarding](https://twitter.com/maccaw/status/1424458825206276101)
 - [Expat Briefing](https://www.expatbriefing.com/)
+- [86 перелетов за год. Что я научился всегда брать с собой в поездку. (2017)](https://www.youtube.com/watch?v=2QURN-BJWHI)

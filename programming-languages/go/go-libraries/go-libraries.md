@@ -904,6 +904,7 @@
 - [go-car](https://github.com/ipld/go-car) - Library to interact with merkledags stored as a single file.
 - [functional-go](https://github.com/logic-building/functional-go) - Functional programming in Go. Inspired by Clojure.
 - [unixtransport](https://github.com/peterbourgon/unixtransport) - Support for Unix domain sockets in Go HTTP clients.
+- [fwd](https://github.com/philhofer/fwd) - Buffered Reader/Writer.
 
 ## Links
 
