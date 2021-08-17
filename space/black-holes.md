@@ -33,3 +33,4 @@
 - [Model of a black hole surrounded by gas glowing under gravity and friction](https://twitter.com/physicsJ/status/1408769989486673928)
 - [Physicists confirm two cases of “elusive” black hole/neutron star mergers (2021)](https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/) ([HN](https://news.ycombinator.com/item?id=27676066))
 - [The Largest Black Hole in the Universe - Size Comparison (2021)](https://www.youtube.com/watch?v=0FH9cgRhQ-k)
+- [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090) ([HN](https://news.ycombinator.com/item?id=28167058))
