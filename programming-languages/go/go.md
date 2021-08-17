@@ -523,3 +523,4 @@ Go promotes composition over inheritance.
 - [Go binary parser for IDAPro](https://github.com/0xjiayu/go_parser)
 - [A Tale of Two Copies (2021)](https://storj.io/blog/a-tale-of-two-copies)
 - [Awesome Go Security](https://github.com/Binject/awesome-go-security)
+- [Go Report Card](https://goreportcard.com/) - Web application that generates a report on the quality of an open source Go project. ([Code](https://github.com/gojp/goreportcard))
