@@ -520,3 +520,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Boltline](https://www.boltline.org/) - Collaborative guidebook for climbers.
 - [OpenSanctions.org](https://github.com/pudo/opensanctions) - Open database of international sanctions data, persons of interest and politically exposed persons.
 - [Few semi-controversial things I believe](https://twitter.com/ShaanVP/status/1364621955647893504)
+- [Overthinking (2021)](https://kerkour.com/blog/overthinking/) ([HN](https://news.ycombinator.com/item?id=28158435))
