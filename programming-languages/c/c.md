@@ -153,7 +153,7 @@
 - [The Byte Order Fiasco (2021)](https://justine.lol/endian.html) ([Lobsters](https://lobste.rs/s/celegm/byte_order_fiasco))
 - [snmalloc](https://github.com/microsoft/snmalloc) - High-performance allocator.
 - [Practical Design Patterns: Opaque Pointers and Objects in C (2021)](https://interrupt.memfault.com/blog/opaque-pointers) ([Lobsters](https://lobste.rs/s/zkpczs/practical_design_patterns_opaque))
-- [Movfuscator](https://github.com/Battelle/movfuscator) - Compile C into only mov instructions. ([HN](https://news.ycombinator.com/item?id=27202801))
+- [Movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - Compile C into only mov instructions. ([HN](https://news.ycombinator.com/item?id=27202801)) ([HN](https://news.ycombinator.com/item?id=28176410))
 - [Undefined behavior in C is a reading error (2021)](https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/) ([Lobsters](https://lobste.rs/s/zmxvml/undefined_behavior_c_is_reading_error))
 - [lacc](https://github.com/larmel/lacc) - Simple, self-hosting C compiler.
 - [RefinedC: Automating the Foundational Verification of C Code with Refined Ownership Types (2021)](https://plv.mpi-sws.org/refinedc/paper.pdf) ([HN](https://news.ycombinator.com/item?id=27265329))

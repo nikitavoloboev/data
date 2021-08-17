@@ -76,3 +76,4 @@
 - [Hosting: Render (2021)](https://blog.placemark.io/2021/05/14/render.html)
 - [Self taught guide to cloud computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
 - [Cloud Cost Handbook](https://handbook.vantage.sh/) ([Code](https://github.com/vantage-sh/handbook))
+- [Alicorn](https://alicorncloud.io/) - Easily move between AWS, GCP and Azure. ([HN](https://news.ycombinator.com/item?id=28167349))
