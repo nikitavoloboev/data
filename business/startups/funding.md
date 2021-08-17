@@ -122,3 +122,4 @@
 - [Startup Fundraising Resources](https://www.basetemplates.com/fundraising-resources)
 - [Angel Match](https://angelmatch.io/) - Database of 90,000+ investors to raise your capital.
 - [TeQatlas](https://teqatlas.com/) - All-in-one fundraising tool.
+- [Use Pixar's story formula to win over investors (2021)](https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars) ([HN](https://news.ycombinator.com/item?id=28181861))

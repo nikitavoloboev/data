@@ -48,3 +48,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Plant-based diet would reduce agricultural land use from 4 to 1B hectares (2021)](https://ourworldindata.org/land-use-diets) ([HN](https://news.ycombinator.com/item?id=26342343))
 - [Vegan Fitness Reddit](https://www.reddit.com/r/veganfitness/) - Place to come and discuss vegan fitness, bodybuilding, and health.
 - [Labriculture Now (2021)](https://logicmag.io/distribution/labriculture-now/) - Time to disrupt the toxic animal agriculture industry with bioreactor-brewed meat.
+- [Lab-made dairy products are now a reality (2021)](https://www.newscientist.com/article/mg25133470-900-real-milk-no-cows-needed-lab-made-dairy-products-are-now-a-reality/) ([HN](https://news.ycombinator.com/item?id=28195201))

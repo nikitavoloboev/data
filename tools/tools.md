@@ -104,6 +104,8 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Rollbar](https://rollbar.com/) - Error Tracking Software.
 - [Miro](https://miro.com/) - Where distributed teams get work done.
 - [Slate](https://slate.host/) - Open source Filecoin client for data that makes it easy to collect, organize, and share data anywhere. ([Code](https://github.com/filecoin-project/slate))
+- [Graphreader](http://www.graphreader.com/) - Online tool for reading graph image values and save as CSV / JSON.
+- [Engauge Digitizer](http://markummitchell.github.io/engauge-digitizer/) - Extracts data points from images of graphs. ([Code](https://github.com/markummitchell/engauge-digitizer))
 - [Mailchimp](https://mailchimp.com/) - All-in-One marketing platform.
 - [Docsketch](https://www.docsketch.com/) - Electronic Signature and Sales Document Tracking Software.
 - [Hookdeck](https://hookdeck.com/) - Infrastructure to Consume Webhooks. ([HN](https://news.ycombinator.com/item?id=28063597))

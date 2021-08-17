@@ -77,3 +77,4 @@
 - [Designing and Launching New Features in Rails (2021)](https://blog.engineyard.com/ruby-unbundled-design-and-launch-features-in-rails)
 - [Active Record Encryption in Rails 7 (2021)](https://hint.io/blog/Active-Record-Encryption)
 - [Kubernetes & Rails: The Definitive Guide (2021)](https://kubernetes-rails.com/)
+- [Rails 6 with Webpacker 6, Tailwind 2 with JIT, Postcss 8 and some default setup (2021)](https://nauman.medium.com/my-rails-project-default-setup-a577677703d2) ([HN](https://news.ycombinator.com/item?id=28188255))

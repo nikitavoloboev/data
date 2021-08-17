@@ -165,3 +165,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) - CLI for extracting libraries from Apple's dyld shared cache file.
 - [ArchTest](https://github.com/below/ArchTest) - Why does this not compile on Apple Silicon?
 - [The macOS Sandbox File Limit (2021)](https://buckleyisms.com/blog/anecdotes-about-the-macos-sandbox-file-limit/) ([HN](https://news.ycombinator.com/item?id=28105814))
+- [Asahi Linux for Apple M1 progress report, August 2021](https://asahilinux.org/2021/08/progress-report-august-2021/) ([HN](https://news.ycombinator.com/item?id=28180135))

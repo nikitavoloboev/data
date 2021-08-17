@@ -307,6 +307,7 @@
 - [Ask HN: How did you establish and maintain relationships with your first users? (2021)](https://news.ycombinator.com/item?id=27959475)
 - [Greatest Hits: Mike Maples on Building Successful Startups and Venture Funds (2021)](https://overcast.fm/+a0Bo5yxQ8)
 - [Eric Migicovsky - How to Talk to Users (2019)](https://www.youtube.com/watch?v=MT4Ig2uqjTc) ([Transcript](https://www.ycombinator.com/library/6g-how-to-talk-to-users)) ([Tweet](https://twitter.com/jsjoeio/status/1422231455032250374))
+- [The rise of the one-person unicorn (2021)](https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/) ([HN](https://news.ycombinator.com/item?id=28187204))
 
 ## Images
 
