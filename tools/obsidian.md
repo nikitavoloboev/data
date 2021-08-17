@@ -10,13 +10,17 @@
 - [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian.
 - [Obsidian Mind Map](https://github.com/lynchjames/obsidian-mind-map) - Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [Recall](https://github.com/martin-jw/obsidian-recall) - Spaced Repetition System in Obsidian.
-- [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
 - [Obsidian Imgur Plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com.
 - [Obsidian Internal Links supercharger](https://github.com/mdelobelle/obsidian_supercharged_links) - Add attributes and context menu options to internal links.
 - [Obsidian Git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git.
 - [Obsidian Roundup](https://obsidianroundup.org/) - Weekly roundup of Obsidian.md tips, news & resources.
-- [Obsidian Garden](https://obsidian.garden/%F0%9F%91%A9%E2%80%8D%F0%9F%8C%BE+Your+Knowledge+Garden) - Open-source guide to creating your own Knowledge Management System with Obsidian. ([Code](https://github.com/tanepiper/obsidian-garden))
+- [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian.
+- [Obsidian Tracker](https://github.com/pyrochlore/obsidian-tracker) - Helps you collect data from notes and represent it comprehensively.
+
+## Links
+
 - [Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian)
 - [Obsidian for Mobile](https://obsidian.md/mobile) - Plain-text knowledge base on the go. ([HN](https://news.ycombinator.com/item?id=27807850))
 - [Connecting and Transcluding Notes in Obsidian (2021)](https://thesweetsetup.com/connecting-and-transcluding-notes-in-obsidian/)
-- [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian.
+- [Obsidian Garden](https://obsidian.garden/%F0%9F%91%A9%E2%80%8D%F0%9F%8C%BE+Your+Knowledge+Garden) - Open-source guide to creating your own Knowledge Management System with Obsidian. ([Code](https://github.com/tanepiper/obsidian-garden))
+- [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)

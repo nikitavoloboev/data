@@ -100,7 +100,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Rachel Bittner Research](https://rachelbittner.weebly.com/)
 - [How Bad Is Your Spotify?](https://pudding.cool/2020/12/judge-my-spotify/) ([HN](https://news.ycombinator.com/item?id=25517868))
 - [BOUNCE](https://bounce.town/) - Make music with friends. ([Tweet](https://twitter.com/vidythatte/status/1341575228774871041))
-- [Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
+- [Psst](https://github.com/jpochyla/psst) - Fast Spotify client with native GUI, without Electron, built in Rust. ([HN](https://news.ycombinator.com/item?id=28203654))
 - [Night.fm](https://night.fm/) - Cyberpunk-inspired online radio station. ([HN](https://news.ycombinator.com/item?id=25791618))
 - [Uppbeat](https://uppbeat.io/) - Free Music For YouTube Videos & Creators.
 - [Funkwhale](https://funkwhale.audio/en_US/) - Community-driven project that lets you listen and share music and audio within a decentralized, open network.
