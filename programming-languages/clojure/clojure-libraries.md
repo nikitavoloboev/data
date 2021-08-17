@@ -92,6 +92,7 @@
 - [Morph](https://github.com/blancas/morph) - Library of Morphisms: Monoids, Functors, and Monads.
 - [Block Storage](https://github.com/greglook/blocks) - Clojure content-addressable data storage.
 - [ClojisR](https://github.com/scicloj/clojisr) - Clojure speaks statistics - a bridge between Clojure to R.
+- [incomplete](https://github.com/nrepl/incomplete) - Simple Clojure library providing code completion. ([Article](https://metaredux.com/posts/2021/08/17/introducing-incomplete-a-simple-clojure-code-completion-library.html))
 
 ## Links
 

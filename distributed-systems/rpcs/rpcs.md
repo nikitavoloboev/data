@@ -28,3 +28,4 @@
 - [yarpc](https://github.com/yarpc/yarpc-go) - Message passing platform for Go.
 - [webrpc](https://github.com/webrpc/webrpc) - Schema-driven approach to writing backend services for modern Web apps and networks.
 - [Apache Dubbo](https://github.com/apache/dubbo) - High-performance, Java-based open-source RPC framework.
+- [OpenRPC](https://open-rpc.org/) - Standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs. ([GitHub](https://github.com/open-rpc)) ([Spec](https://spec.open-rpc.org/)) ([Spec Code](https://github.com/open-rpc/spec))
