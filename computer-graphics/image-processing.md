@@ -113,3 +113,4 @@
 - [SimpleITK](https://github.com/SimpleITK/SimpleITK) - Image analysis toolkit with a large number of components supporting general filtering operations, image segmentation and registration. ([Web](https://simpleitk.org/))
 - [Pixel Sorting](http://satyarth.me/articles/pixel-sorting/) - Introducing order in a disordered way can make for some great glitch art.
 - [Pixel sorting images in python](https://github.com/satyarth/pixelsort)
+- [ꟻLIP: A Tool for Visualizing and Communicating Errors in Rendered Images](https://github.com/NVlabs/flip)
