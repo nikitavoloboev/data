@@ -393,4 +393,4 @@
 - [What time-weighted averages are and why you should care](https://blog.timescale.com/blog/what-time-weighted-averages-are-and-why-you-should-care/?) ([HN](https://news.ycombinator.com/item?id=27958175))
 - [Your database connection deserves a name (2021)](https://andygrunwald.com/blog/your-database-connection-deserves-a-name/) ([Lobsters](https://lobste.rs/s/cegere/your_database_connection_deserves_name))
 - [ZippyDB: Facebook's key value store (2021)](https://engineering.fb.com/2021/08/06/core-data/zippydb/)
-- [It's Time to Retire the CSV (2021)](https://www.bitsondisk.com/writing/2021/retire-the-csv/) ([Lobsters](https://lobste.rs/s/t4z2w5/it_s_time_retire_csv))
+- [Time to Retire the CSV? (2021)](https://www.bitsondisk.com/writing/2021/retire-the-csv/) ([Lobsters](https://lobste.rs/s/t4z2w5/it_s_time_retire_csv)) ([HN](https://news.ycombinator.com/item?id=28221654))
