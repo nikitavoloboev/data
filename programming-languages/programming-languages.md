@@ -226,3 +226,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [flex](https://github.com/westes/flex) - Tool for generating scanners: programs which recognize lexical patterns in text.
 - [Programming languages where you define control flow in terms of state machines](https://twitter.com/mgattozzi/status/1422196566568341504)
 - [Implicit ordering in relational languages (2021)](https://scattered-thoughts.net/writing/implicit-ordering-in-relational-languages/)
+- [Imba](https://imba.io/) - Friendly full-stack programming language for the web that compiles to performant JavaScript. ([Code](https://github.com/imba/imba)) ([HN](https://news.ycombinator.com/item?id=28207662))
