@@ -309,3 +309,4 @@
 - [Haskell for the Elm Enthusiast (2021)](https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast) ([HN](https://news.ycombinator.com/item?id=28081960))
 - [A Brief Intro to Monad Transformers (2021)](https://blog.cofree.coffee/2021-08-05-a-brief-intro-to-monad-transformers/)
 - [Namespaced De Bruijn indices (2021)](https://www.haskellforall.com/2021/08/namespaced-de-bruijn-indices.html)
+- [Quick and dirty backpropagation in Haskell (2021)](https://mazzo.li/posts/haskell-backprop-short.html)
