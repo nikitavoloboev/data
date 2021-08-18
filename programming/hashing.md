@@ -45,3 +45,4 @@
 - [Meow Hash](https://github.com/cmuratori/meow_hash) - Fast hash taking 128 bytes of seed and producing 128 bits of output. ([Cryptanalysis of Meow Hash](https://peter.website/meow-hash-cryptanalysis))
 - [The Problem with Perceptual Hashes (2021)](https://rentafounder.com/the-problem-with-perceptual-hashes/) ([HN](https://news.ycombinator.com/item?id=28091750))
 - [An Introduction to Hashing in the Era of Machine Learning (2018)](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
+- [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX. ([HN](https://news.ycombinator.com/item?id=28219068))
