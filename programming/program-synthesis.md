@@ -20,3 +20,4 @@
 - [Cozy](https://github.com/CozySynthesizer/cozy) - Tool that synthesizes data structure implementations from simple high-level specifications.
 - [A Program Synthesis Primer (2017)](https://barghouthi.github.io/2017/04/24/synthesis-primer/)
 - [Leveraging Language to Learn Program Abstractions and Search Heuristics (2021)](https://arxiv.org/abs/2106.11053)
+- [Program Synthesis with Large Language Models (2021)](https://arxiv.org/abs/2108.07732) ([HN](https://news.ycombinator.com/item?id=28217026))
