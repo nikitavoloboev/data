@@ -130,3 +130,4 @@
 - [Awesome GANs](https://github.com/nightrome/really-awesome-gan)
 - [GAN Awesome Applications](https://github.com/nashory/gans-awesome-applications)
 - [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163) ([Code](https://github.com/poolio/unrolled_gan))
+- [Pytorch implementation of DCGAN, WGAN-CP, WGAN-GP](https://github.com/Zeleni9/pytorch-wgan)

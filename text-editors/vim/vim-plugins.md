@@ -242,3 +242,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [neovimcraft](https://neovimcraft.com/) - Search through our curated list of neovim plugins. ([Code](https://github.com/neurosnap/neovimcraft))
 - [kyoto.nvim](https://github.com/samrath2007/kyoto.nvim) - Fast, functional and beautiful Neovim configuration.
+- [NvChad](https://github.com/NvChad/NvChad) - Attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.

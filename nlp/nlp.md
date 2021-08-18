@@ -326,3 +326,4 @@
 - [ConceptNet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) - Set of semantic vectors (also known as word embeddings) than can be used directly as a representation of word meanings.
 - [OpenAI Codex](https://openai.com/blog/openai-codex/) - AI system that translates natural language to code. ([HN](https://news.ycombinator.com/item?id=28131745))
 - [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM (2021)](https://arxiv.org/abs/2104.04473)
+- [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) - Collaborative Repository of Natural Language Transformations.
