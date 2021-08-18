@@ -10,6 +10,7 @@
 
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) - Simple, scalable, and powerful architecture for building production ready React applications.
 - [Reactless.ts](https://github.com/koddr/reactless-ts) - Preact/TypeScript/TailwindCSS/HeadlessUI/Vite.
+- [100ms 2.0 Sample React App](https://github.com/100mslive/100ms-web)
 
 ## Notes
 

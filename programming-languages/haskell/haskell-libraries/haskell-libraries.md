@@ -137,6 +137,7 @@
 - [Souffle-haskell](https://github.com/luc-tielen/souffle-haskell) - Haskell bindings for the Souffle datalog language.
 - [stm-actor](https://github.com/SamuelSchlesinger/stm-actor) - Implementation of the actor model in Haskell using STM.
 - [higher-order-unification](https://github.com/jozefg/higher-order-unification) - Small implementation of higher-order unification.
+- [ghc-source-gen](https://github.com/google/ghc-source-gen) - Library for generating Haskell source files and code fragments.
 
 ## Links
 
