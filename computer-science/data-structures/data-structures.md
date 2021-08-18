@@ -82,3 +82,4 @@
 - [B-tree Path Hints](https://github.com/tidwall/btree/blob/master/PATH_HINT.md) ([HN](https://news.ycombinator.com/item?id=28008541))
 - [How Multiplayer Data Structures Work (2021)](https://matt-rickard.com/collaborative-data-types/)
 - [Classical Data Structures That Can Outperform Learned Indexes (2018)](https://dawn.cs.stanford.edu//2018/01/11/index-baselines/) ([Lobsters](https://lobste.rs/s/pvjhcl/classical_data_structures_can)) ([HN](https://news.ycombinator.com/item?id=28195439))
+- [B-Trees: More Than I Thought I'd Want to Know (2021)](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)

@@ -131,3 +131,5 @@
 - [How to learn history in depth without university](https://www.reddit.com/r/AskHistorians/comments/ojqze8/i_have_no_access_to_a_university_so_how_can_i/)
 - [Podcasts on history and science (2021)](https://twitter.com/sriramk/status/1424083072090132481)
 - [The Bomber Mafia - A Story Set in War (2021)](https://www.penguin.co.uk/books/445/445716/the-bomber-mafia/9780241535004.html)
+- [The Armchair Historian - YouTube](https://www.youtube.com/c/TheArmchairHistorian/featured)
+- [Armchair History TV](https://armchairhistory.tv/)
