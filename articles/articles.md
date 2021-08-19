@@ -27,3 +27,4 @@ Some articles I read and liked that don't fit under any other topic inside this 
 
 - [Most influential essays I've ever read. What are yours? (2020)](https://twitter.com/patrick_oshag/status/1278307221944840193)
 - [Read Something Great](https://www.readsomethinggreat.com/) - Timeless articles from the belly of the internet.
+- [Ask HN: What's the most life-changing blog post you've ever read? (2021)](https://news.ycombinator.com/item?id=28232165)

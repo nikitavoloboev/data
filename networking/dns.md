@@ -115,3 +115,4 @@
 - [Bulldohzer](https://github.com/commonshost/bulldohzer) - Performance measurement tool for DNS. It supports DNS-over-HTTPS (DoH) and DNS-over-UDP (Do53).
 - [(All) DNS Resource Records (2021)](https://www.netmeister.org/blog/dns-rrs.html) ([HN](https://news.ycombinator.com/item?id=27852601)) ([Tweet](https://twitter.com/jschauma/status/1415858462064533505))
 - [DNS Privacy Considerations](https://www.rfc-editor.org/rfc/rfc9076.html) ([HN](https://news.ycombinator.com/item?id=28007367))
+- [HTML over DNS: Serving Blog Content over DNS](https://jacobkiers.net/hod/) ([HN](https://news.ycombinator.com/item?id=28218406))
