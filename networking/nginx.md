@@ -43,3 +43,4 @@
 - [Nice nginx features for developers (2021)](https://alex.dzyoba.com/blog/nginx-features-for-developers/) ([Lobsters](https://lobste.rs/s/kewdvx/nice_nginx_features_for_developers))
 - [Nice nginx features for operators (2021)](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
 - [Nginx tuning tips: TLS/SSL HTTPS - Improved TTFB/latency (2021)](https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/)
+- [Tengine](https://github.com/alibaba/tengine) - Distribution of Nginx with some advanced features. ([Web](http://tengine.taobao.org/))

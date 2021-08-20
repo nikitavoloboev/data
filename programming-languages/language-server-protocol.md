@@ -16,3 +16,4 @@
 - [vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) - JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
 - [Minimalistic language server (LSP) implementation](https://github.com/bkomuves/toy-language-server)
 - [null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+- [efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server.

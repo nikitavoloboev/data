@@ -235,3 +235,4 @@
 - [Modern C++ Cheat Sheet](https://github.com/mortennobel/cpp-cheatsheet)
 - [Efficient Programming with Components](https://justinmeiners.github.io/efficient-programming-with-components/)
 - [Summary of the semantics of inline in C and C++ (2021)](https://lists.llvm.org/pipermail/llvm-dev/2021-August/152031.html) ([HN](https://news.ycombinator.com/item?id=28126826))
+- [Путеводитель C++ программиста по неопределенному поведению](https://github.com/Nekrolm/ubbook)
