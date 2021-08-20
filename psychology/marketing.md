@@ -142,6 +142,7 @@
 - [How to get to #1 on Product Hunt (2021)](https://twitter.com/tdinh_me/status/1418971317236338697)
 - [Ask HN: Good Book on Branding? (2021)](https://news.ycombinator.com/item?id=27985978)
 - [How do I get my first 1000 users?](https://twitter.com/sab8a/status/1422162888589037568)
+- [Things to know before PH product launch (2021)](https://twitter.com/ahiggz/status/1428444815704924170)
 
 ## Images
 

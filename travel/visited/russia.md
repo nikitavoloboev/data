@@ -205,3 +205,6 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Ждет ли Россию диктатура? (2021)](https://www.youtube.com/watch?v=8D35nvlVccw)
 - [Top 10 Places To Visit In Russia (2021)](https://www.youtube.com/watch?v=_V0hvU4d7-o)
 - [Александр Аузан. Куда уходят наши налоги, почему такие низкие пенсии и отчего дешевеет рубль? (2021)](https://www.youtube.com/watch?v=3MtkoTtVWUg)
+- [«Нынешний период не худший. Будет хуже». Интервью с Леонидом Невзлиным (2021)](https://vot-tak.tv/novosti/16-08-2021-nevzlin-intervyu/)
+- [Российские леса постоянно горят, но их биомасса рекордно выросла. Как так вышло и что из этого следует?](https://naked-science.ru/article/nakedscience/wildfire)
+- [Naked Science](https://naked-science.ru/) - Новости науки.

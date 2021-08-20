@@ -61,6 +61,7 @@
 - [Work very hard but sustainably with as little stress as possible.](https://twitter.com/flybayer/status/1419280525425061890)
 - [B2B startup: its better to build for self-service from day 0. a) Forces you to make UX intuitive. b) Allows you to get bottoms up growth. c) You can access lower ACV use cases. Its harder than it seems to build out self-service post launch when you have live user demands.](https://twitter.com/immad/status/1421593560965656581)
 - [MVP should be usable (functional and reliable).](https://twitter.com/visakanv/status/536346231472013312)
+- [Starting a company is just taking something that used to annoy you every once in a while and spending every waking minute thinking about it.](https://twitter.com/gkoberger/status/1428138994294874115)
 
 ## Links
 
