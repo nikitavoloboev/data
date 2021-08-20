@@ -65,3 +65,4 @@
 - [Rust - Writing Parsers With nom Parser Combinator Framework (2021)](https://iximiuz.com/en/posts/rust-writing-parsers-with-nom/)
 - [GrammKit](https://github.com/dundalek/GrammKit) - Tool for generating syntax diagrams (also known as railroad diagrams) for parser grammars.
 - [PyParsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers.
+- [On Parsers](https://wiki.alopex.li/OnParsers) ([Lobsters](https://lobste.rs/s/7it43u/on_parsers))

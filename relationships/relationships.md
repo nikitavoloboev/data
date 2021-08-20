@@ -113,3 +113,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [What is your best ways to be romantic/flirt/pamper with your SO when you have kids? (2021)](https://www.reddit.com/r/sexover30/comments/otfqdw/what_is_your_best_ways_to_be_romanticflirtpamper/)
 - [When does living your “best single life” backfire?](https://www.reddit.com/r/datingoverthirty/comments/ox15tw/when_does_living_your_best_single_life_backfire/)
 - [Women who have taken back partners who cheated on you, how did it work out in the long run? (2021)](https://www.reddit.com/r/AskWomen/comments/p6k7s7/women_who_have_taken_back_partners_who_cheated_on/)
+- [Men in your 30s, what do you ACTUALLY look for in a woman? (2021)](https://www.reddit.com/r/datingoverthirty/comments/p7e6gi/men_in_your_30s_what_do_you_actually_look_for_in/)
