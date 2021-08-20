@@ -76,3 +76,4 @@
 - [Observation of Time-Crystalline Eigenstate Order on a Quantum Processor (2021)](https://arxiv.org/abs/2107.13571)
 - [What are time crystals? (2021)](https://www.reddit.com/r/quantum/comments/ozc0l7/what_the_fuck_is_a_time_crystal/)
 - [Why can't we know the position of a particle if we know its velocity?](https://www.reddit.com/r/AskPhysics/comments/ozou7o/in_layman_terms_for_a_5_year_old_why_cant_we_know/)
+- [Quantum Mechanics of Gravitational Waves (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.081602) ([HN](https://news.ycombinator.com/item?id=28241758))
