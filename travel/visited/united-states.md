@@ -63,3 +63,4 @@
 - [Best/easiest of getting into the US from the EU? (2021)](https://www.reddit.com/r/cscareerquestionsEU/comments/ox0ip2/whats_the_besteasiest_of_getting_into_the_us_from/)
 - [David Cross: Why America Sucks at Everything (2021)](https://www.youtube.com/watch?v=aNghg1Y-WIc) ([Reddit](https://www.reddit.com/r/videos/comments/p0y18p/david_cross_why_america_sucks/))
 - [Apartment hunting tips for SF](https://twitter.com/nikolasklein/status/1425391214963085314)
+- [Would you move to the US right now if given a chance to? (2021)](https://www.reddit.com/r/AskUK/comments/p8o4iw/would_you_move_to_the_us_right_now_if_given_a/)

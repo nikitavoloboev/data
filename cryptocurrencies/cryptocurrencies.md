@@ -1,8 +1,8 @@
 # Cryptocurrencies
 
-I think [Solana](../databases/blockchain/solana.md) is the future of digital programmable money if compared to any other coin based on features.
+I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md) are the future of digital programmable money if compared to any other coin based on features.
 
-It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful & slow transactions](https://www.youtube.com/watch?v=f0HC1Udk6-E) with its [horrible PoW consensus algorithm](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
+It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [wasteful & slow transactions](https://www.youtube.com/watch?v=f0HC1Udk6-E) and [horrible PoW consensus algorithm](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
 
 ## Interesting
 

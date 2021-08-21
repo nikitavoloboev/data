@@ -39,3 +39,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [At this point, will we ever be be able to trust Chinese stocks? (2021)](https://www.reddit.com/r/stocks/comments/oqbe3d/at_this_point_will_we_ever_be_be_able_to_trust/)
 - [Why is China smashing its tech industry? (2021)](https://noahpinion.substack.com/p/why-is-china-smashing-its-tech-industry) ([HN](https://news.ycombinator.com/item?id=27949019)) ([HN](https://news.ycombinator.com/item?id=28036847))
 - [Asianometry - YouTube](https://www.youtube.com/c/Asianometry/featured) - Video essays about Asia.
+- [10 myths about China you often hear that are patently false (2021)](https://twitter.com/RealNatashaChe/status/1413513292195057672)

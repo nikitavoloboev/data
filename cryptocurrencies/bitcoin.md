@@ -1,6 +1,6 @@
 # [Bitcoin](https://bitcoin.org/en/)
 
-Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/status/1350869944888664064) which made great history for being the [first true digital cryptocurrency](https://bitcoin.org/bitcoin.pdf). [Solana](../databases/blockchain/solana.md) is a more efficient and better version of decentralized programmable money.
+Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/status/1350869944888664064) which made great history for being the [first true digital cryptocurrency](https://bitcoin.org/bitcoin.pdf). [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md) are a more efficient and better version of decentralized programmable money.
 
 ## Notes
 
