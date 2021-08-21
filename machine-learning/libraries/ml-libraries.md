@@ -168,7 +168,7 @@
 - [Collie](https://github.com/ShopRunner/collie_recs) - Library for preparing, training, and evaluating scalable deep learning hybrid recommender systems using PyTorch. ([Docs](https://collie.readthedocs.io/en/latest/))
 - [voxelmorph](https://github.com/voxelmorph/voxelmorph) - Unsupervised Learning for Image Registration.
 - [uTensor](https://github.com/uTensor/uTensor) - TinyML AI inference library.
-- [Tangram](https://github.com/tangramxyz/tangram) - All-in-one automated machine learning framework. ([Web](https://www.tangram.xyz/))
+- [Tangram](https://github.com/tangramdotdev/tangram) - Train a model from a CSV file on the command line.. ([Web](https://www.tangram.dev/)) ([HN](https://news.ycombinator.com/item?id=28221043))
 - [AdaptDL](https://github.com/petuum/adaptdl) - Resource-adaptive cluster scheduler for deep learning training.
 - [Triage](https://github.com/dssg/triage) - General Purpose Risk Modeling and Prediction Toolkit for Policy and Social Good Problems.
 - [Gorse](https://github.com/zhenghaoz/gorse) - Open source recommender system service written in Go. ([Web](https://gorse.io/)) ([HN](https://news.ycombinator.com/item?id=27866289))

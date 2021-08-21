@@ -27,3 +27,4 @@
 - [SnowFS](https://www.snowtrack.io/) - Fast, scalable version control file storage for graphic files. ([Code](https://github.com/Snowtrack/SnowFS)) ([HN](https://news.ycombinator.com/item?id=26211540)) ([GitHub](https://github.com/Snowtrack))
 - [PubGrub version solving algorithm implemented in Rust](https://github.com/pubgrub-rs/pubgrub)
 - [Jujutsu](https://github.com/martinvonz/jj) - Experimental version-control system (VCS).
+- [Sturdy](https://getsturdy.com/) - Online-first version control focused on collaboration. ([HN](https://news.ycombinator.com/item?id=28221109))

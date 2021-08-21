@@ -273,3 +273,4 @@
 - [GitHub Actions Templates](https://github.com/orbit-love/github-actions-templates) - Starter GitHub Actions templates to get you up and running with community built integrations.
 - [GitHub Actions runner on AWS Fargate](https://github.com/nikovirtala/cdk-github-actions-runner) - Example how to run self-hosted GitHub Actions runners on AWS Fargate.
 - [Docker Github Actions Runner](https://github.com/myoung34/docker-github-actions-runner) - Will run the new self-hosted github actions runners with docker-in-docker.
+- [Automating a Software Company with GitHub Actions (2021)](https://posthog.com/blog/automating-a-software-company-with-github-actions) ([HN](https://news.ycombinator.com/item?id=28234057))

@@ -199,3 +199,4 @@
 - [How to make a simple entity-component-system in C++ (2020)](https://www.david-colson.com/2020/02/09/making-a-simple-ecs.html)
 - [Improbable](https://www.improbable.io/) - Tools to make multiplayer games and help developers meet any challenge. ([GitHub](https://github.com/improbable))
 - [GameCI](https://game.ci/) - Fastest and easiest way to automatically test and build your game projects. ([GitHub](https://github.com/game-ci))
+- [Designing Virtual Worlds Book by Richard Bartle (2003)](https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html) ([HN](https://news.ycombinator.com/item?id=28226176))

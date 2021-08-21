@@ -93,3 +93,4 @@
 - [Frankx](https://github.com/pantor/frankx) - High-Level Motion Library for Collaborative Robots.
 - [Robot Learning of Shifting Objects for Grasping in Cluttered Environments](https://github.com/pantor/learning-shifting-for-grasping)
 - [CausalWorld](https://github.com/rr-learning/CausalWorld) - Robotic Manipulation Benchmark for Causal Structure and Transfer Learning.
+- [The Polar Bear](https://www.kadirilkimen.com/thepolarbear/) - Open-Source, Multipurpose CNC Machine with a Rotary Axis. ([Code](https://github.com/kadirilkimen/Polar-Bear-Cnc-Machine)) ([HN](https://news.ycombinator.com/item?id=28231187))
