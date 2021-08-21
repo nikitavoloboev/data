@@ -277,3 +277,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Supersearch](https://www.supersearch.ai/landingPage) - Copy code from inside any coding video and paste in your text editor and run it.
 - [Video Fingerprinting (2021)](https://emysound.com/blog/open-source/2021/08/01/video-fingerprinting.html) - When audio fingerprinting is not enough.
 - [Nebula](https://nebula.app/) - Smart, thoughtful videos from your favorite education-y creators.
+- [How We Shoot an MKBHD Intro (2021)](https://www.youtube.com/watch?v=pKfbSzTumXk)

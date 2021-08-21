@@ -142,4 +142,4 @@
 - [Perception shifting: Consolidating learned experience into action (2021)](https://markbao.com/journal/perception-shifting-consolidating-learned-experience-into-action)
 - [Matter](https://getmatter.app/) - Social reading app for articles, blogs, and newsletters. ([Twitter](https://twitter.com/getmatterapp))
 - [Opinionated Guides](https://opguides.info/)
-- [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/)
+- [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/) ([HN](https://news.ycombinator.com/item?id=28254630))
