@@ -190,3 +190,4 @@
 - [JetBrains DataSpell](https://www.jetbrains.com/dataspell/) - IDE for Data Scientists.
 - [node-rapids](https://github.com/rapidsai/node) - GPU-accelerated data science and visualization in node.
 - [R or Python for data analysis? (2021)](https://www.reddit.com/r/datascience/comments/ozy6md/r_or_python_for_data_analysis/)
+- [Moving beyond “algorithmic bias is a data problem” (2021)](<https://www.cell.com/patterns/fulltext/S2666-3899(21)00061-1>) ([HN](https://news.ycombinator.com/item?id=28233077))

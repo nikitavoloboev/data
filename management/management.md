@@ -129,3 +129,4 @@
 - [Managing tentpole launches at Gumroad ft. Josh Pigford from Baremetrics (2020)](https://www.youtube.com/watch?v=2PcIC1DKBU0)
 - [Ask HN: Senior Software Engineer to Engineering Manager (2021)](https://news.ycombinator.com/item?id=28129546)
 - [Ruthless Prioritization (2017)](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
+- [Why it’s difficult to build teams in high growth organisations (2021)](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337) ([HN](https://news.ycombinator.com/item?id=28238762))

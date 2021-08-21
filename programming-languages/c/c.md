@@ -117,7 +117,7 @@
 - [Data Structures and Algorithms in C (implementations and notes)](https://github.com/f0lg0/c-ds-algos)
 - [Getting started with C programming a lightning-fast start for absolute beginners (2020)](https://not.cafe/2020/10/12/getting-started-with-c-programming.html) ([HN](https://news.ycombinator.com/item?id=25442165))
 - [C-Toy](https://github.com/anael-seghezzi/CToy) - Interactive C coding environment.
-- [cproc](https://github.com/michaelforney/cproc) - C11 compiler using QBE as a backend.
+- [cproc](https://github.com/michaelforney/cproc) - C11 compiler using QBE as a backend. ([HN](https://news.ycombinator.com/item?id=28242024))
 - [Cosmopolitan Libc](https://justine.lol/cosmopolitan/index.html) - Build-once run-anywhere C library. ([Code](https://github.com/jart/cosmopolitan)) ([HN](https://news.ycombinator.com/item?id=25556286)) ([HN 2](https://justine.lol/cosmopolitan/)) ([HN 3](https://news.ycombinator.com/item?id=26273960)) ([Actually Portable Executable](https://justine.storage.googleapis.com/ape.html)) ([Lobsters](https://lobste.rs/s/xnqpyp/cosmopolitan_c_library))
 - [Learn C](https://www.learn-c.org/) - Free Interactive C Tutorial.
 - [Why mmap is faster than system calls (2019)](https://sasha-f.medium.com/why-mmap-is-faster-than-system-calls-24718e75ab37) ([HN](https://news.ycombinator.com/item?id=25701959))
