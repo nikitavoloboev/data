@@ -176,3 +176,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [One Bad Apple (2021)](https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html) ([HN](https://news.ycombinator.com/item?id=28110159))
 - [Sniptt](https://www.sniptt.com/) - The secret manager built for developers. ([Code](https://github.com/sniptt-official/ots))
 - [go-tuf](https://github.com/theupdateframework/go-tuf) - Go implementation of The Update Framework (TUF), a framework for securing software update systems.
+- [Another free CA as an alternative to Let's Encrypt (2021)](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/) ([HN](https://news.ycombinator.com/item?id=28244246))

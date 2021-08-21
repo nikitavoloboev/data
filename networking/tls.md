@@ -36,3 +36,4 @@
 - [Contruno](https://github.com/dinosaure/contruno) - TLS termination proxy as a MirageOS.
 - [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [NO STARTTLS](https://nostarttls.secvuln.info/) - Why TLS is better without STARTTLS. Security Analysis of STARTTLS in the Email Context. ([Lobsters](https://lobste.rs/s/nufm9m/no_starttls))
+- [View your browser's TLS fingerprint](https://tlsfingerprint.io/) ([HN](https://news.ycombinator.com/item?id=28251700))

@@ -141,3 +141,4 @@
 - [Ask HN: Why didn't the early web support more client side languages? (2021)](https://news.ycombinator.com/item?id=28008606)
 - [Memex](https://getmemex.com/) - Bookmarking for power users. Annotate, organize and share what you find online.
 - [SigmaOS](https://sigmaos.com/) - macOS web browser designed for faster work. ([HN](https://news.ycombinator.com/item?id=28197537))
+- [The web browser as a tool of thought (2021)](https://thesephist.com/posts/browser/) ([HN](https://news.ycombinator.com/item?id=28230704))

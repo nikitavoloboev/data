@@ -155,6 +155,7 @@
 - [Go SQL DB](https://github.com/auxten/go-sqldb) - Relational database that supports SQL queries for research purposes in Go.
 - [Skizze](https://github.com/skizzehq/skizze) - Probabilistic data structure service and storage.
 - [Skytable](https://github.com/skytable/skytable) - Extremely fast, secure and reliable real-time NoSQL database with automated snapshots and TLS. ([Web](https://skytable.io/))
+- [IceFireDB](https://github.com/gitsrc/IceFireDB) - Distributed disk storage database based on Raft and Redis protocol. ([HN](https://news.ycombinator.com/item?id=28257243))
 
 ## Tools
 

@@ -66,4 +66,3 @@
 - [Facebook's Tectonic Filesystem: Efficiency from Exascale (2021)](https://paulcavallaro.com/blog/facebook-tectonic-filesystem/)
 - [AppFS](https://appfs.rkeene.org/web/index) - Universal packaging format that is presented to the system as a filesystem (via FUSE).
 - [FastCFS](https://github.com/happyfish100/FastCFS) - High performance distributed file system for databases, K8s and VM etc.
-- [IceFireDB](https://github.com/gitsrc/IceFireDB) - Distributed disk storage system based on Raft and RESP protocol.
