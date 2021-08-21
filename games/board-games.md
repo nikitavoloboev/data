@@ -36,3 +36,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [VASSAL](http://www.vassalengine.org/) - Game engine for building and playing online adaptations of board games and card games. ([Code](https://github.com/vassalengine/vassal))
 - [How the ancient game of Go is a guide to modern life (2018)](https://www.youtube.com/watch?v=wQuh9YI8rn0)
 - [More Multiverse](https://multiverse.com/) - Platform on web for tabletop games and RPGs. ([Twitter](https://twitter.com/play_multiverse))
+- [FreeBoardGames.org](https://www.freeboardgames.org/en) - FOSS platform for publishing boardgame.io games. ([Code](https://github.com/freeboardgames/FreeBoardGames.org))

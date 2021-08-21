@@ -247,3 +247,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - Inter-process-communication middleware that enables virtually limitless data transmissions at constant time. ([Web](https://iceoryx.io/v1.0.1/))
 - [Operating Systems Notes (2010)](https://andrewharvey4.wordpress.com/2010/07/31/operating-systems-notes/)
 - [uhyve](https://github.com/hermitcore/uhyve) - Minimal hypervisor for RustyHermit.
+- [Guix: A most advanced operating system](https://ambrevar.xyz/guix-advance/) ([HN](https://news.ycombinator.com/item?id=28239410))

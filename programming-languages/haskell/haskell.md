@@ -311,3 +311,4 @@
 - [Namespaced De Bruijn indices (2021)](https://www.haskellforall.com/2021/08/namespaced-de-bruijn-indices.html)
 - [Quick and dirty backpropagation in Haskell (2021)](https://mazzo.li/posts/haskell-backprop-short.html)
 - ["Propositions as Types" by Philip Wadler (2015)](https://www.youtube.com/watch?v=IOiZatlZtGU) ([Lobsters](https://lobste.rs/s/owiqyg/propositions_as_types_2015))
+- [Distributed Systems in Haskell](https://yager.io/Distributed/Distributed.html) ([HN](https://news.ycombinator.com/item?id=28228987))
