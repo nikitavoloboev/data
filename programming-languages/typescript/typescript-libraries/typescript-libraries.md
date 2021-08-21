@@ -139,6 +139,7 @@
 - [rustic](https://github.com/franeklubi/rustic) - TypeScript library providing emulation of Rust's Option and Result types. ([Reddit](https://www.reddit.com/r/typescript/comments/oy17ym/rustic_a_typescript_library_providing_rusts/))
 - [log-editor](https://github.com/antfu/log-editor) - Use your editor to inspect the log instead of scrolling the congested terminal.
 - [text-unicode](https://github.com/ottypes/text-unicode) - Unicode text OT implementation.
+- [optimistic-state](https://github.com/perceived-dev/optimistic-state) - Optimistic state with rollbacks and race condition handling.
 
 ## Links
 
