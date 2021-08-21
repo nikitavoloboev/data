@@ -17,6 +17,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Kendall Roy | The City Surf](https://www.youtube.com/watch?v=DG-1VkPN128)
 - [Girl bosses in film](https://www.youtube.com/watch?v=roYPzlvRk2s)
 - [Beth Harmon being superior in Queen's Gambit](https://www.youtube.com/watch?v=MnjokzR8V7Q)
+- [Beth Harmon | Unstoppable](https://www.youtube.com/watch?v=CZXQGUV9ZSQ)
 
 ## Favorite clips
 

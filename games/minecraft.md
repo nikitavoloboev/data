@@ -56,3 +56,4 @@
 - [Clojure meets Minecraft (Witchcraft/Glowstone) (2021)](https://www.youtube.com/watch?v=qgQwhc_DDSY)
 - [go-mcproto](https://github.com/BRA1L0R/go-mcproto) - Minecraft Protocol implementation in Go.
 - [minectl](https://github.com/dirien/minectl) - CLI for creating Minecraft (java or bedrock) server on different cloud provider.
+- [pyCraft](https://github.com/ammaraskar/pyCraft) - Modern, Python3-compatible, well-documented library for communication with a MineCraft server.
