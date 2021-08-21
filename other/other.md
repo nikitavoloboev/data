@@ -521,3 +521,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [OpenSanctions.org](https://github.com/pudo/opensanctions) - Open database of international sanctions data, persons of interest and politically exposed persons.
 - [Few semi-controversial things I believe](https://twitter.com/ShaanVP/status/1364621955647893504)
 - [Overthinking (2021)](https://kerkour.com/blog/overthinking/) ([HN](https://news.ycombinator.com/item?id=28158435))
+- [Well There's Your Problem | Episode 54: Gulf State Vanity Projects (2021)](https://www.youtube.com/watch?v=PW6lg-7L7yk)

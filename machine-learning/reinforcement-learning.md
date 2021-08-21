@@ -229,3 +229,4 @@
 - [Tianshou](https://github.com/thu-ml/tianshou) - Elegant PyTorch deep reinforcement learning library. ([Docs](https://tianshou.readthedocs.io/en/master/))
 - [Reinforcement Learning Generator-Evaluator Architecture for Question Generation](https://github.com/lkwate/neural-question-generation)
 - [AlphaGPU](https://github.com/fabricerosay/AlphaGPU) - Alphazero on GPU thanks to CUDA.jl.
+- [Policy Gradient Methods for Reinforcement Learning with Function Approximation (1999)](https://papers.nips.cc/paper/1999/hash/464d828b85b0bed98e80ade0a5c43b0f-Abstract.html)

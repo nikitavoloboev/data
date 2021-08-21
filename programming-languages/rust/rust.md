@@ -537,3 +537,4 @@
 - [Rudra](https://github.com/sslab-gatech/Rudra) - Static analyzer to detect common undefined behaviors in Rust programs.
 - [I probably didn't backdoor this: Using Reproducible Builds to verify a Rust binary](https://github.com/kpcyrd/i-probably-didnt-backdoor-this) -
 - [Index 1.6B Keys with Automata and Rust (2015)](https://blog.burntsushi.net/transducers/) ([HN](https://news.ycombinator.com/item?id=28243636))
+- [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html) - Guidelines that the Rust language standard library holds itself too. ([HN](https://news.ycombinator.com/item?id=28223738))
