@@ -27,3 +27,4 @@
 - [Gura](https://github.com/gura-conf/gura) - File format for configuration files. Readable as YAML and simple as TOML. ([Web](https://gura.netlify.app/))
 - [My wish-list for the next YAML (2021)](https://drewdevault.com/2021/07/28/The-next-YAML.html)
 - [Virgo](https://github.com/r2d4/virgo) - Graph-based Declarative Configuration Language. ([Article](https://matt-rickard.com/virgo-lang/))
+- [Configuration (and configuration files) is not and cannot be generic (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigurationIsNotGeneric) ([Lobsters](https://lobste.rs/s/v8iqgb/configuration_configuration_files_is))

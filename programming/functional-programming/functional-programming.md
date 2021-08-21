@@ -124,6 +124,7 @@
 - [ICFP 2021 - Research Papers](https://icfp21.sigplan.org/track/icfp-2021-papers)
 - [A Functional Programming Language with Versions (2021)](https://arxiv.org/abs/2107.07301)
 - [Why is learning functional programming so damned hard? (2019)](https://cscalfani.medium.com/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1) ([HN](https://news.ycombinator.com/item?id=28188822))
+- [Review: Why FP Matters (Hughes) (2021)](https://cuddly-octo-palm-tree.com/posts/2021-03-07-review-whyfp/)
 
 ## Images
 
