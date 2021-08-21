@@ -62,3 +62,4 @@
 - [Build data-driven applications with Workers and PostgreSQL](https://developers.cloudflare.com/workers/tutorials/postgres) ([Code](https://github.com/cloudflare/postgres-postgrest-cloudflared-example)) ([Video](https://www.youtube.com/watch?v=inLOwovtqQM))
 - [workers-jwt](https://github.com/sagi/workers-jwt) - Generate JWTs on Cloudflare Workers using the WebCrypto API.
 - [rustwasm-worker-template](https://github.com/cloudflare/rustwasm-worker-template) - Template for kick starting a Cloudflare worker project using wasm-pack.
+- [Build a Serverless API with Cloudflare Workers (2021)](https://egghead.io/courses/build-a-serverless-api-with-cloudflare-workers-d67ca551)
