@@ -294,3 +294,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [egghead.io](https://egghead.io/) - High quality, concise web development screencasts. ([Course Notes](https://github.com/eggheadio/eggheadio-course-notes))
 - [Breaking Changes to the Web Platform](https://github.com/styfle/breaking-changes-web)
 - [Modern web apps without JavaScript bundling or transpiling (2021)](https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755) ([Lobsters](https://lobste.rs/s/6os9mq/modern_web_apps_without_javascript))
+- [Humans TXT](https://humanstxt.org/) - We Are People, Not Machines. ([Article](https://mefody.dev/chunks/humans-txt/))

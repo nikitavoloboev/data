@@ -65,3 +65,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Swift API](https://github.com/noppefoxwolf/notion)
 - [Loconotion](https://github.com/leoncvlt/loconotion) - Python tool to turn Notion.so pages into lightweight, customizable static websites.
 - [VSCode Notion](https://marketplace.visualstudio.com/items?itemName=frenco.vscode-notion) - Browse Notion pages directly in Visual Studio Code. ([Code](https://github.com/frencojobs/vscode-notion))
+- [Awesome Notion](https://www.awesomenotion.space/) - Curated list of awesome Notion related things. ([Code](https://github.com/mnismt/awesome-notion-site))
