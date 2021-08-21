@@ -78,3 +78,4 @@
 - [Using a Quadruplet Codon to Expand the Genetic Code of an Animal (2021)](https://www.biorxiv.org/content/10.1101/2021.07.17.452788v1)
 - [PingPong](https://github.com/Parsoa/PingPong) - Comparative genome analysis using sample-specific string detectionin accurate long reads.
 - [RNA demethylation increases rice and potato yields 50% (2021)](https://www.nature.com/articles/s41587-021-00982-9) ([HN](https://news.ycombinator.com/item?id=27925250))
+- [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/) ([HN](https://news.ycombinator.com/item?id=28253993))

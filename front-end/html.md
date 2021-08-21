@@ -133,3 +133,4 @@
 - [Why are there no PUT and DELETE methods on HTML forms?](https://softwareengineering.stackexchange.com/questions/114156/why-are-there-no-put-and-delete-methods-on-html-forms) ([Lobsters](https://lobste.rs/s/an3e64/why_are_there_no_put_delete_methods_on_html))
 - [Improving responsiveness in text inputs (2021)](https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/)
 - [Does shadow DOM improve style performance? (2021)](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/)
+- [Don't attach tooltips to document.body](https://atfzl.com/don-t-attach-tooltips-to-document-body) ([HN](https://news.ycombinator.com/item?id=28230977))
