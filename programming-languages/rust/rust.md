@@ -535,3 +535,4 @@
 - [wg-async-foundations](https://rust-lang.github.io/wg-async-foundations/) - Working group dedicated to improving the foundations of async I/O in Rust. ([Code](https://github.com/rust-lang/wg-async-foundations))
 - [When Zero Cost Abstractions Aren’t Zero Cost (2021)](https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html) ([Reddit](https://www.reddit.com/r/rust/comments/p0ul6b/when_zero_cost_abstractions_arent_zero_cost/)) ([HN](https://news.ycombinator.com/item?id=28121108))
 - [Rudra](https://github.com/sslab-gatech/Rudra) - Static analyzer to detect common undefined behaviors in Rust programs.
+- [I probably didn't backdoor this: Using Reproducible Builds to verify a Rust binary](https://github.com/kpcyrd/i-probably-didnt-backdoor-this) -
