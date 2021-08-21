@@ -69,3 +69,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [The Design of the NetBSD I/O Subsystems (2002)](https://arxiv.org/ftp/arxiv/papers/1605/1605.05810.pdf)
 - [OpenBSD on the Framework Laptop (2021)](https://jcs.org/2021/08/06/framework)
 - [VoidLinux in FreeBSD Jail; with init (2021)](https://antranigv.am/weblog_en/posts/2021-08-21-00-37/) ([Lobsters](https://lobste.rs/s/ojbed4/voidlinux_freebsd_jail_with_init))
+- [NetBSD Explained: The Unix System That Can Run on Anything (2021)](https://www.makeuseof.com/what-is-netbsd/) ([HN](https://news.ycombinator.com/item?id=28218619))

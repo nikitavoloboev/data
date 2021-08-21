@@ -117,3 +117,4 @@
 - [Darts, Dice, and Coins: Sampling from a Discrete Distribution (2011)](https://www.keithschwarz.com/darts-dice-coins/)
 - [Probability and Its Applications Book](https://people.bordeaux.inria.fr/pierre.delmoral/gips.html)
 - [Mean Field Simulation for Monte Carlo Integration (2013)](https://www.routledge.com/Mean-Field-Simulation-for-Monte-Carlo-Integration/Del-Moral/p/book/9781466504059)
+- [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/) ([HN](https://news.ycombinator.com/item?id=28252165))

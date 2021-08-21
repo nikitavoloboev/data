@@ -55,3 +55,4 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [My NYC Apartment tour | $3,000/month for 1 bedroom (2021)](https://www.youtube.com/watch?v=bdUVehx6UBU)
 - [Boxabl](https://www.boxabl.com/) - Modular Homes for Under $50k. ([HN](https://news.ycombinator.com/item?id=27684191))
 - [Villa](https://villahomes.com/) - Full-Service ADU Builder in California.
+- [Ancana](https://en.ancana.co/) - Fractional ownership of vacation homes. ([HN](https://news.ycombinator.com/item?id=28247379))

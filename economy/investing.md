@@ -204,3 +204,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Positions, Profit and Loss (2021)](https://www.machow.ski/posts/2021-07-24-positions-profit-and-loss/)
 - [An Introduction to Limit Order Books (2021)](https://www.machow.ski/posts/2021-07-18-introduction-to-limit-order-books/)
 - [How does Angel Investing? (2021)](https://zachholman.com/posts/how-does-angel-investing)
+- [DueDilly](https://duedilly.io/) - Accuracy of Reddit Trading Ideas. ([HN](https://news.ycombinator.com/item?id=28244744))

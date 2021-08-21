@@ -250,3 +250,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Github Trending Twitter](https://twitter.com/TrendingGithub) - Twitter bot to tweet trending repositories and developers from GitHub. ([Code](https://github.com/andygrunwald/TrendingGithub))
 - [GitHub Metrics](https://metrics.lecoq.io/) - Generate your metrics that you can embed everywhere, including your GitHub profile readme. ([Code](https://github.com/lowlighter/metrics))
 - [GitHub’s Engineering Team has moved to Codespaces (2021)](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/) ([HN](https://news.ycombinator.com/item?id=28143722))
+- [Enhanced Support for Citations on GitHub (2021)](https://github.blog/2021-08-19-enhanced-support-citations-github/) ([HN](https://news.ycombinator.com/item?id=28253293))
