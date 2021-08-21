@@ -23,3 +23,4 @@
 - [Practical REST](https://www.crudful.com/guides/what-is-rest)
 - [What is REST](https://restfulapi.net/)
 - [Tutorial: Build a RESTful API on Go](https://github.com/koddr/tutorial-go-fiber-rest-api) - Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers.
+- [Best Practices for Versioning REST and GraphQL APIs (2021)](https://www.moesif.com/blog/technical/api-design/Best-Practices-for-Versioning-REST-and-GraphQL-APIs/)

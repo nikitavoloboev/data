@@ -396,3 +396,4 @@
 - [ZippyDB: Facebook's key value store (2021)](https://engineering.fb.com/2021/08/06/core-data/zippydb/)
 - [Time to Retire the CSV? (2021)](https://www.bitsondisk.com/writing/2021/retire-the-csv/) ([Lobsters](https://lobste.rs/s/t4z2w5/it_s_time_retire_csv)) ([HN](https://news.ycombinator.com/item?id=28221654))
 - [How database indexing actually works internally (2021)](https://blog.pankajtanwar.in/how-database-indexing-actually-works-internally) ([HN](https://news.ycombinator.com/item?id=28230641))
+- [Building PlanetScale with PlanetScale (2021)](https://planetscale.com/blog/building-planetscale-with-planetscale) ([HN](https://news.ycombinator.com/item?id=28223606))
