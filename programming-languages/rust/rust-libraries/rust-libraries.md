@@ -298,6 +298,7 @@
 - [rust-delegate](https://github.com/Kobzol/rust-delegate) - Rust method delegation with less boilerplate.
 - [blanket](https://github.com/althonos/blanket) - Simple Rust macro to derive blanket implementations for your traits.
 - [rustversion](https://github.com/dtolnay/rustversion) - Provides macros for conditional compilation according to rustc compiler version.
+- [plex](https://github.com/goffrie/plex) - Parser and lexer generator as a Rust procedural macro.
 
 ## Math
 

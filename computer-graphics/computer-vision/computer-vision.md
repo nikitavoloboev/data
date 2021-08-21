@@ -357,3 +357,4 @@
 - [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation (2021)](https://arxiv.org/abs/2107.07651) ([Code](https://github.com/salesforce/ALBEF))
 - [DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks (2021)](https://depthoraclenerf.github.io/) ([Code](https://github.com/facebookresearch/DONERF))
 - [Object Detection in an Hour (2021)](https://www.strayrobots.io/blog/object-detection-in-an-hour) ([HN](https://news.ycombinator.com/item?id=28100346))
+- [Fixing the train-test resolution discrepancy (2020)](https://arxiv.org/abs/1906.06423) ([Code](https://github.com/facebookresearch/FixRes))

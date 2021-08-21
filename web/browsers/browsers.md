@@ -142,3 +142,4 @@
 - [Memex](https://getmemex.com/) - Bookmarking for power users. Annotate, organize and share what you find online.
 - [SigmaOS](https://sigmaos.com/) - macOS web browser designed for faster work. ([HN](https://news.ycombinator.com/item?id=28197537))
 - [The web browser as a tool of thought (2021)](https://thesephist.com/posts/browser/) ([HN](https://news.ycombinator.com/item?id=28230704))
+- [Vieb](https://vieb.dev/) - Vim Inspired Electron Browser - Vim bindings for the web by design. ([Code](https://github.com/Jelmerro/Vieb))

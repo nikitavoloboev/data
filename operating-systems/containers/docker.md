@@ -127,3 +127,4 @@
 - [Ask HN: As a solo founder, what are the reasons not to use Docker? (2021)](https://news.ycombinator.com/item?id=27872642)
 - [Use the same Dockerfile for both local development and production with multi-stage builds (2021)](https://blog.atulr.com/docker-local-production-image/)
 - [Docker container security cheat sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) ([HN](https://news.ycombinator.com/item?id=28043198))
+- [Docker Layer Caching in GitHub Actions](https://github.com/satackey/action-docker-layer-caching)

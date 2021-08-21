@@ -449,6 +449,7 @@
 - [Twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
 - [ASPIRE](https://github.com/ComputationalCryoEM/ASPIRE-Python) - Algorithms for Single Particle Reconstruction.
 - [ulid](https://github.com/ahawker/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Python 3.
+- [Bplustree](https://github.com/NicolasLM/bplustree) - On-disk B+tree for Python 3.
 
 ## Links
 
