@@ -241,3 +241,4 @@
 - [Portman CLI 1.0 - Better API testing (2021)](https://blog.apideck.com/announcing-portman)
 - [Test and Deploy your APIs Using These Open Source Tools (2021)](https://www.appsmith.com/blog/test-and-deploy-your-apis-using-these-open-source-tools)
 - [How to Hack APIs in 2021 by Hakluke and Farah Hawa (2021)](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/) ([HN](https://news.ycombinator.com/item?id=28127098))
+- [JSON:API](https://jsonapi.org/) - Specification for building APIs in JSON. ([Code](https://github.com/json-api/json-api))
