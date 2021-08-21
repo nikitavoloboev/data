@@ -51,3 +51,4 @@
 - [Substrate Collectables Workshop](https://github.com/shawntabrizi/substrate-collectables-workshop) - Learn to build blockchains with Parity Substrate. ([Docs](https://www.shawntabrizi.com/substrate-collectables-workshop/#/README))
 - [Staking for Polkadot Parachains (2021)](https://meta5.world/posts/parachain-staking)
 - [Substrate how-to guides](https://substrate.dev/substrate-how-to-guides/) ([Code](https://github.com/substrate-developer-hub/substrate-how-to-guides))
+- [Kagome](https://github.com/soramitsu/kagome) - C++17 implementation of Polkadot Host.

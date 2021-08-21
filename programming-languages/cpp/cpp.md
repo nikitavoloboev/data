@@ -237,3 +237,4 @@
 - [Summary of the semantics of inline in C and C++ (2021)](https://lists.llvm.org/pipermail/llvm-dev/2021-August/152031.html) ([HN](https://news.ycombinator.com/item?id=28126826))
 - [Путеводитель C++ программиста по неопределенному поведению](https://github.com/Nekrolm/ubbook)
 - [C++20 Modules with GCC11 (2021)](https://blog.feabhas.com/2021/08/c20-modules-with-gcc11/) ([HN](https://news.ycombinator.com/item?id=28218823))
+- [OCLint](https://oclint.org/) - Static code analysis tool for improving quality and reducing defects by inspecting C, C++ and Objective-C code. ([Code](https://github.com/oclint/oclint))

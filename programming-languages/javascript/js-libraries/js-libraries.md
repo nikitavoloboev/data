@@ -573,6 +573,7 @@
 - [Cropper.js](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper. ([Web](https://fengyuanchen.github.io/cropperjs/))
 - [JavaScript Cookie](https://github.com/js-cookie/js-cookie) - Simple, lightweight JavaScript API for handling cookies.
 - [Bisect](https://github.com/perceived-dev/bisect) - Bisect your async job into two steps, first perform work in background and then commit the work.
+- [AG Grid](https://github.com/ag-grid/ag-grid) - Best JavaScript Data Table for building Enterprise Applications. ([Web](https://www.ag-grid.com/))
 
 ## Links
 

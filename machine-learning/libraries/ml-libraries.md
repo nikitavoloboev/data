@@ -180,3 +180,4 @@
 - [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
 - [trajax](https://github.com/google/trajax) - Python library for differentiable optimal control on accelerators.
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - End-to-end AutoML library for structured data written in Scala that runs on top of Apache Spark. ([Web](https://transmogrif.ai/))
+- [chitra](https://github.com/aniketmaurya/chitra) - Multi-functional library for full-stack Deep Learning. It simplifies Model Building, API development, and Model Deployment.

@@ -12,3 +12,4 @@
 - [Catiline.js](https://github.com/calvinmetcalf/catiline) - JavaScript library to take the pain out of web workers. ([Web](http://catilinejs.com/))
 - [The State Of Web Workers In 2021](https://www.smashingmagazine.com/2021/06/web-workers-2021/)
 - [esbuild-plugin-inline-worker](https://github.com/mitschabaude/esbuild-plugin-inline-worker) - Esbuild loader for inline Web Workers.
+- [Partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive 3rd-party scripts off of the main thread and into a web worker.

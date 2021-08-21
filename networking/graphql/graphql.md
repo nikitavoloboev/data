@@ -226,3 +226,4 @@
 - [graphitation](https://github.com/microsoft/graphitation) - GraphQL tooling & runtime support needed for MS Teams and beyond.
 - [Building A GraphQL Server With Next.js (2021)](https://lyonwj.com/blog/graphql-server-next-js-neo4j-aura-vercel)
 - [GraphCDN](https://github.com/StarpTech/GraphCDN) - Cache POST GraphQL Requests on Cloudflare edges with zero configuration.
+- [graphql-sse](https://github.com/enisdenjo/graphql-sse) - Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client.

@@ -33,6 +33,7 @@
 - [Discord Lua](https://github.com/SinisterRectus/Discordia)
 - [discord-jsx](https://github.com/alii/discord-jsx) - Experimental way to write Discord bots with JSX for Node.
 - [Cookiecord](https://github.com/cookiecord/cookiecord) - Simplifies discord bot development by providing a modern and easy to use interface. ([Docs](https://cookiecord.js.org/))
+- [gatekeeper](https://github.com/itsMapleLeaf/gatekeeper) - Supercharge your discord.js commands.
 
 ## Links
 

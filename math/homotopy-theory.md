@@ -30,3 +30,4 @@
 - [Dan Christensen: "Reasoning in an ∞-topos with homotopy type theory" (2021)](https://www.youtube.com/watch?v=_0sEEAMwHzo)
 - [Homotopy Type Theory in Agda](https://github.com/HoTT/HoTT-Agda)
 - [HN: Homotopy Type Theory (2021)](https://news.ycombinator.com/item?id=27589503)
+- [Math 721: Homotopy Type Theory Course (2021)](https://github.com/emilyriehl/721)

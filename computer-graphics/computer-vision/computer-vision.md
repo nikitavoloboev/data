@@ -358,3 +358,4 @@
 - [DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks (2021)](https://depthoraclenerf.github.io/) ([Code](https://github.com/facebookresearch/DONERF))
 - [Object Detection in an Hour (2021)](https://www.strayrobots.io/blog/object-detection-in-an-hour) ([HN](https://news.ycombinator.com/item?id=28100346))
 - [Fixing the train-test resolution discrepancy (2020)](https://arxiv.org/abs/1906.06423) ([Code](https://github.com/facebookresearch/FixRes))
+- [Align Deep Features for Oriented Object Detection (2020)](https://arxiv.org/abs/2008.09397) ([Code](https://github.com/csuhan/s2anet))

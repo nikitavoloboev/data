@@ -197,6 +197,7 @@
 - [Remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 - [React Scroll Parallax](https://github.com/jscottsmith/react-scroll-parallax) - React components to create parallax scroll effects for banners, images or any other DOM elements.
 - [react-xarrows](https://github.com/Eliav2/react-xarrows) - Draw arrows between components in React.
+- [react-code-blocks](https://github.com/rajinwonderland/react-code-blocks) - React components for rendering code snippets with syntax highlighting.
 
 ## Links
 

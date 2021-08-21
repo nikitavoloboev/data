@@ -105,6 +105,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Download Full Installer](https://github.com/scriptingosx/DownloadFullInstaller) - macOS application written in SwiftUI that downloads installer pkgs for the Install macOS Big Sur application.
 - [Notational Velocity](https://github.com/scrod/nv) - Modeless, mouseless Mac OS X note-taking application. ([Web](https://notational.net/))
 - [Ambar](https://github.com/AnaghSharma/Ambar-SwiftUI) - MacOS Menu Bar app built with SwiftUI. Can be used as a template project.
+- [YT Music](https://ytmusic.app/) - Mac app wrapper for music.youtube.com. ([Code](https://github.com/steve228uk/YouTube-Music))
 
 ## Other interesting apps
 

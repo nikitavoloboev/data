@@ -229,6 +229,7 @@
 - [EASTL](https://github.com/electronicarts/EASTL) - Alternative C++ Standard Library From Electronic Arts. ([HN](https://news.ycombinator.com/item?id=28060700))
 - [Inja](https://github.com/pantor/inja) - Template Engine for Modern C++.
 - [Reckless](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++.
+- [CPP-Libp2p](https://github.com/libp2p/cpp-libp2p) - C++17 implementation of libp2p.
 
 ## Links
 

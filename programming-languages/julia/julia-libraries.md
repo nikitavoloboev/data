@@ -84,6 +84,8 @@
 - [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) - Basic statistics for Julia.
 - [Infinity.jl](https://github.com/cjdoris/Infinity.jl) - Representation of infinity in Julia.
 - [LogarithmicNumbers.jl](https://github.com/cjdoris/LogarithmicNumbers.jl) - Logarithmic number system for Julia.
+- [MCMCChains.jl](https://github.com/TuringLang/MCMCChains.jl) - Types and utility functions for summarizing Markov chain Monte Carlo simulations.
+- [NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl) - High performance nearest neighbor data structures and algorithms for Julia.
 
 ## NLP
 
@@ -263,6 +265,7 @@
 - [ConstraintSolver.jl](https://github.com/Wikunia/ConstraintSolver.jl) - Constraint solver completely written in Julia.
 - [IterTools.jl](https://github.com/JuliaCollections/IterTools.jl) - Common functional iterator patterns.
 - [MethodAnalysis](https://github.com/timholy/MethodAnalysis.jl) - Utilities to analyze Julia's method tables.
+- [Strided.jl](https://github.com/Jutho/Strided.jl) - Julia package for strided array views and efficient manipulations thereof.
 
 ## Links
 
