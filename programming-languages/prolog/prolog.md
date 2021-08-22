@@ -41,3 +41,4 @@
 - [Strand](http://www.call-with-current-continuation.org/strand/strand.html) - Open-source implementation of Prolog dialect. ([HN](https://news.ycombinator.com/item?id=26948351))
 - [D-Prolog](https://github.com/arkark/d-prolog) - Prolog implementation in D language.
 - [Using Prolog for Sudoku Variants (2021)](http://dstrohmaier.com/sudoku-prolog/) ([HN](https://news.ycombinator.com/item?id=27886733))
+- [Trealla Prolog](https://github.com/infradig/trealla) - Compact, efficient Prolog interpreter written in plain-old C.
