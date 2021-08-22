@@ -399,3 +399,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The 4 Reading Levels: Different Ways To Read Different Books (2018)](https://www.thecuriousreader.in/features/reading-levels/)
 - [Apress](https://www.apress.com/) - Book publisher. ([GitHub](https://github.com/Apress))
 - [ЛитРес](https://www.litres.ru/) - Библиотека электронных книг – скачивай, читай и слушай. ([GitHub](https://github.com/Litres))
+- [How to Remember What You Read (2021)](https://fs.blog/2021/08/remember-books/) ([HN](https://news.ycombinator.com/item?id=28254378))
