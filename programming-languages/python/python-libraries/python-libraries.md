@@ -452,6 +452,7 @@
 - [ulid](https://github.com/ahawker/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Python 3.
 - [Bplustree](https://github.com/NicolasLM/bplustree) - On-disk B+tree for Python 3.
 - [Hyperlink](https://github.com/python-hyper/hyperlink) - Immutable, Pythonic, correct URLs.
+- [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist) - Runtime software verification and automated testing for scientific software in Python.
 
 ## Links
 
