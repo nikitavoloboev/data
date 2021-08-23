@@ -36,3 +36,4 @@
 - [Leaky Abstractions (2021)](https://textslashplain.com/2021/06/02/leaky-abstractions/) ([HN](https://news.ycombinator.com/item?id=27372292))
 - [Looking Glass](https://looking-glass.io/) - Run a Windows VM on Linux in a Window with Native Performance. ([HN](https://news.ycombinator.com/item?id=27870399))
 - [Windows 11 in React](https://github.com/blueedgetechno/windows11)
+- [WinFsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy. ([Web](http://www.secfs.net/winfsp/)) ([HN](https://news.ycombinator.com/item?id=28264408))

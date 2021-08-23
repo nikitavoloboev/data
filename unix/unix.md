@@ -66,3 +66,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Unix – The Hole Hawg of Operating Systems (1999)](http://www.team.net/mjb/hawg.html) ([HN](https://news.ycombinator.com/item?id=28015229))
 - [Unix and Microservice Platforms (2021)](https://blog.deref.io/unix-and-microservice-platforms/) ([HN](https://news.ycombinator.com/item?id=28039542))
 - [On Unix composability](https://p.janouch.name/text/on-unix-composability.html)
+- [Bringing the Unix philosophy to the 21st century (2019)](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/) ([HN](https://news.ycombinator.com/item?id=28266193))

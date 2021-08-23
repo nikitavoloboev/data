@@ -83,7 +83,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [ImageOptim](https://imageoptim.com/mac) - GUI image optimizer for Mac. ([Code](https://github.com/ImageOptim/ImageOptim))
 - [Pika](https://github.com/superhighfives/pika) - Open-source colour picker app for macOS. ([Web](https://superhighfives.com/pika))
 - [Syncthing macOS](https://github.com/syncthing/syncthing-macos) - Native macOS Syncthing tray application bundle.
-- [FSNotes](https://github.com/glushchenko/fsnotes) - Modern notes manager for macOS and iOS. ([Web](https://fsnot.es/))
+- [FSNotes](https://github.com/glushchenko/fsnotes) - Modern notes manager for macOS and iOS. ([Web](https://fsnot.es/)) ([HN](https://news.ycombinator.com/item?id=28266831))
 - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - Application for Inspecting macOS Installer Packages.
 - [CleanShot X](https://cleanshot.com/) - Capture your Mac’s screen like a pro.
 - [Contexts](https://contexts.co/) - Simple & fast window switcher for Mac.
