@@ -101,3 +101,4 @@
 - [DataHen Till](https://github.com/DataHenHQ/till) - Standalone tool that runs alongside your web scraper, and instantly makes your existing web scraper scalable, maintainable and unblockable. ([Web](https://till.datahen.com/)) ([HN](https://news.ycombinator.com/item?id=28059291))
 - [Mastering Web Scraping in Python: Crawling from Scratch (2021)](https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch) ([HN](https://news.ycombinator.com/item?id=28142002))
 - [Data-Mining Wikipedia for Fun and Profit (2021)](https://billpg.com/data-mining-wikipedia/) ([HN](https://news.ycombinator.com/item?id=28234122))
+- [Wikidata or Scraping Wikipedia](http://simia.net/wiki/Wikidata_or_scraping_Wikipedia) ([HN](https://news.ycombinator.com/item?id=28277749))

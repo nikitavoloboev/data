@@ -79,6 +79,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [OldOS](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
 - [Home Assistant](https://github.com/home-assistant/iOS)
 - [StackOv](https://stackov.webflow.io/) - Open-source SwiftUI Stack Overflow client. ([Code](https://github.com/surfstudio/StackOv))
+- [OpenSesame](https://github.com/OpenSesameManager/OpenSesame) - Native and encrypted password manager for iOS and macOS. ([Reddit](https://www.reddit.com/r/swift/comments/pa1i90/i_just_released_my_open_source_password_manager/))
 
 ## Other
 

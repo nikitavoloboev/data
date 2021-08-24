@@ -295,3 +295,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Breaking Changes to the Web Platform](https://github.com/styfle/breaking-changes-web)
 - [Modern web apps without JavaScript bundling or transpiling (2021)](https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755) ([Lobsters](https://lobste.rs/s/6os9mq/modern_web_apps_without_javascript))
 - [Humans TXT](https://humanstxt.org/) - We Are People, Not Machines. ([Article](https://mefody.dev/chunks/humans-txt/))
+- [The Indie Web](https://theindieweb.com/) - Hotspot for indie creations on the web. ([Code](https://github.com/tholman/the-indie-web))
