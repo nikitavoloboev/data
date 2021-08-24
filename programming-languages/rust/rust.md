@@ -539,3 +539,4 @@
 - [Index 1.6B Keys with Automata and Rust (2015)](https://blog.burntsushi.net/transducers/) ([HN](https://news.ycombinator.com/item?id=28243636))
 - [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html) - Guidelines that the Rust language standard library holds itself too. ([HN](https://news.ycombinator.com/item?id=28223738))
 - [Large Rust Workspaces (2021)](https://matklad.github.io//2021/08/22/large-rust-workspaces.html) ([Lobsters](https://lobste.rs/s/jz98ci/large_rust_workspaces))
+- [Rust for JS Developers](https://rustforjs.dev/)

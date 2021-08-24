@@ -110,3 +110,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Security Analysis of Telegram (Symmetric Part)](https://mtpsym.github.io/)
 - [MTProto Analysis: Accessible Overview (2021)](https://telegra.ph/LoU-ETH-4a-proof-07-16)
 - [Telegram Tips](https://t.me/TelegramTips/)
+- [Telegram Bot List](https://botlist.infotelbot.com/) - Search Telegram Bots.
