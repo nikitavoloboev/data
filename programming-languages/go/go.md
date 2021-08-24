@@ -526,3 +526,4 @@ Go promotes composition over inheritance.
 - [Go Report Card](https://goreportcard.com/) - Web application that generates a report on the quality of an open source Go project. ([Code](https://github.com/gojp/goreportcard))
 - [GoKart](https://github.com/praetorian-inc/gokart) - Static analysis tool for securing Go code. ([HN](https://news.ycombinator.com/item?id=28227487))
 - [HN: Generics enabled by default in Go tip (2021)](https://news.ycombinator.com/item?id=28253692)
+- [Error stack traces in Go with x/xerror (2021)](https://brandur.org/fragments/go-xerror) ([HN](https://news.ycombinator.com/item?id=28283263))

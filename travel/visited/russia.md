@@ -208,3 +208,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [«Нынешний период не худший. Будет хуже». Интервью с Леонидом Невзлиным (2021)](https://vot-tak.tv/novosti/16-08-2021-nevzlin-intervyu/)
 - [Российские леса постоянно горят, но их биомасса рекордно выросла. Как так вышло и что из этого следует?](https://naked-science.ru/article/nakedscience/wildfire)
 - [Naked Science](https://naked-science.ru/) - Новости науки.
+- [ГУЛАГ: Остров Соловки / Самый страшный лагерь СССР](https://www.youtube.com/watch?v=oOnDThM19io)

@@ -36,3 +36,5 @@
 - [The politics of lies: Boris Johnson and the erosion of the rule of law (2021)](https://www.newstatesman.com/politics/uk/2021/07/politics-lies-boris-johnson-and-erosion-rule-law)
 - [What 3 pieces of advice would you give to a Brit 10 years younger than you? (2021)](https://www.reddit.com/r/AskUK/comments/oml6y1/what_3_pieces_of_advice_would_you_give_to_a_brit/)
 - [Ask HN: Did anybody apply for UK Global Talent visa? How did it go? (2021)](https://news.ycombinator.com/item?id=27873783)
+- [UK Personal Finance Flow Chart](https://flowchart.ukpersonal.finance/)
+- [How would you grow £30k in UK? (2021)](https://www.reddit.com/r/FIREUK/comments/pa6nhj/how_would_you_grow_30k/)

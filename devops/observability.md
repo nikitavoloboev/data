@@ -22,3 +22,4 @@
 - [Observability: What it is and why you need it | Logging, Metrics & Alerts (2021)](https://elastisys.com/what-was-observability-again/)
 - [Metaplane](https://www.metaplane.dev/) - Observability for modern data stacks.
 - [Testing vs Observability: Which is right for your data quality needs? (2021)](https://medium.com/bigeye/testing-vs-observability-which-is-right-for-your-data-quality-needs-1ceb34a12867)
+- [Observability: A New Theory Based on the Group of Invariance (2020)](https://www.maa.org/press/maa-reviews/observability-a-new-theory-based-on-the-group-of-invariance) ([HN](https://news.ycombinator.com/item?id=28285988))

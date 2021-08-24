@@ -266,3 +266,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Nova](https://github.com/Rari-Capital/nova) - Gives your L2 contracts the power to read and write to L1 with minimal latency and no trust tradeoffs.
 - [ChainBridge](https://github.com/ChainSafe/ChainBridge) - Modular Multi-Directional Blockchain Bridge to interact with Multiple Networks; Ethereum, Ethereum Classic, Substrate, based chains.
 - [Full-stack dApp starter built on Ethereum (Solidity) with Next.js](https://github.com/tomhirst/solidity-nextjs-starter)
+- [next-web3-boilerplate](https://github.com/mirshko/next-web3-boilerplate) - Slightly opinionated Web3 boilerplate based on Next.js and SWR.
