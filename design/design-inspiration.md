@@ -276,6 +276,7 @@ Here are few more things I liked, design wise.
 - [Michael Nielsen](https://michaelnielsen.org/)
 - [Liam Cooke](https://liamcooke.com/)
 - [Kitze](https://kitze.io/)
+- [Miriam Suzanne](https://mia.wtf/)
 - [Carolyn Stransky](https://workwithcarolyn.com/)
 - [Bradley Taunt](https://uglyduck.ca/)
 - [Aladin Bensassi](https://aladinbs.com/)
