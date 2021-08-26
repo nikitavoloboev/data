@@ -53,6 +53,7 @@
 - [graphql-config](https://github.com/kamilkisiela/graphql-config) - Easiest way to configure your development environment with your GraphQL schema (supported by most tools, editors & IDEs).
 - [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - Mock or extend your GraphQL API with faked data. No coding required.
 - [GQLess](https://github.com/gqless/gqless) - GraphQL client built for rapid iteration. ([Web](https://gqless.com/)) ([HN](https://news.ycombinator.com/item?id=27357447))
+- [GQty](https://github.com/gqty-dev/gqty) - GraphQL client built for rapid iteration. (formerly gqless) ([Web](https://gqty.dev/))
 - [Designing GraphQL Schemas - Nik Graf (2019)](https://www.youtube.com/watch?v=fBkmlFfwRu0)
 - [ReactiveConf 2019 - Nader Dabit: Curious Use Cases of GraphQL](https://www.youtube.com/watch?v=BLmoce4tjMc)
 - [10-tweet GraphQL crash course](https://twitter.com/hexrcs/status/1190332090149150720)

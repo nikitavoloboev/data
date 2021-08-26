@@ -96,3 +96,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Messaging and Chat Control (2021)](https://www.patrick-breyer.de/en/posts/message-screening/?lang=en) - New EU Law Removes Digital Privacy. ([HN](https://news.ycombinator.com/item?id=28139889))
 - [Apple’s Mistake (2021)](https://stratechery.com/2021/apples-mistake/) ([HN](https://news.ycombinator.com/item?id=28118350))
 - [Ask HN: What Apple alternatives are you switching to? (2021)](https://news.ycombinator.com/item?id=28220968)
+- [Privacy.Sexy](https://privacy.sexy/) - Enforce privacy & security on Windows and macOS. ([Code](https://github.com/undergroundwires/privacy.sexy))

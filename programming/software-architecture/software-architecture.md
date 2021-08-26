@@ -153,3 +153,4 @@
 - [The Baked Data architectural pattern (2021)](https://simonwillison.net/2021/Jul/28/baked-data/) ([HN](https://news.ycombinator.com/item?id=27994393)) ([Lobsters](https://lobste.rs/s/lgvhbg/baked_data_architectural_pattern))
 - [Ask HN: Has anyone fully embraced an event-driven architecture? (2021)](https://news.ycombinator.com/item?id=28034882)
 - [What tech stack do you use in your SAAS product? (2021)](https://www.reddit.com/r/SaaS/comments/p60ws5/what_tech_stack_do_you_use_in_your_saas_product/)
+- [Ask HN: Companies of one, what is your tech stack? (2021)](https://news.ycombinator.com/item?id=28299053)
