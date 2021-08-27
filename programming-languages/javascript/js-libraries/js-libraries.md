@@ -419,7 +419,7 @@
 - [HyperFormula](https://github.com/handsontable/hyperformula) - Open source, spreadsheet-like calculation engine.
 - [fast-json-stringify](https://github.com/fastify/fast-json-stringify) - Significantly faster than JSON.stringify() for small payloads.
 - [isbot](https://github.com/omrilotan/isbot) - JavaScript module that detects bots/crawlers/spiders via the user agent.
-- [valtio](https://github.com/pmndrs/valtio) - Makes proxy-state simple.
+- [Valtio](https://github.com/pmndrs/valtio) - Makes proxy-state simple for React and Vanilla. ([Demo](https://valtio-demo.pmnd.rs/)) ([How Valtio Proxy State Works](https://blog.axlight.com/posts/how-valtio-proxy-state-works-vanilla-part/))
 - [pica](https://github.com/nodeca/pica) - High quality image resize in browser.
 - [Planton](https://github.com/gajus/planton) - Database-agnostic task scheduler.
 - [mime-types](https://github.com/jshttp/mime-types) - JavaScript content-type utility.
