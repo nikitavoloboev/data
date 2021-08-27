@@ -107,3 +107,4 @@
 - [Design Patterns](https://www.smashingmagazine.com/category/design-patterns/)
 - [Some Resources For Learning About HCI (2021)](https://nickarner.com/notes/some-resources-for-learning-about-hci-january-22-2021/)
 - [Reflect Onboarding](https://twitter.com/maccaw/status/1422590722012852231)
+- [The Rise Of User-Hostile Software (2021)](https://den.dev/blog/user-hostile-software/) ([HN](https://news.ycombinator.com/item?id=28291478))

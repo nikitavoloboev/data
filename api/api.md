@@ -242,3 +242,5 @@
 - [Test and Deploy your APIs Using These Open Source Tools (2021)](https://www.appsmith.com/blog/test-and-deploy-your-apis-using-these-open-source-tools)
 - [How to Hack APIs in 2021 by Hakluke and Farah Hawa (2021)](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/) ([HN](https://news.ycombinator.com/item?id=28127098))
 - [JSON:API](https://jsonapi.org/) - Specification for building APIs in JSON. ([Code](https://github.com/json-api/json-api))
+- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) ([HN](https://news.ycombinator.com/item?id=28295348))
+- [Adding Optimistic Locking to an API (2021)](https://www.moderntreasury.com/journal/designing-ledgers-with-optimistic-locking) ([HN](https://news.ycombinator.com/item?id=28314623))

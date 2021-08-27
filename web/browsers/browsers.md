@@ -36,7 +36,7 @@
 - [Browsix](https://github.com/plasma-umass/browsix) - Unix-like operating system for the browser.
 - [Web Extensions - Shipit](https://github.com/LinusU/wext-shipit) - Automate the process of shipping Web Extensions for Chrome, Firefox, Safari, Opera and Edge.
 - [Pico](https://github.com/gripeless/pico) - Take browser screenshots in JavaScript.
-- [Can I Use](https://caniuse.com/) - Browser support tables for modern web technologies.
+- [Can I Use](https://caniuse.com/) - Browser support tables for modern web technologies. ([Article](https://blog.jim-nielsen.com/2021/canistilluse.com/)) ([HN](https://news.ycombinator.com/item?id=28309885))
 - [Wildcard](https://www.geoffreylitt.com/wildcard/) - Browser extension for customizing web apps with a spreadsheet view. ([Code](https://github.com/geoffreylitt/wildcard))
 - [Axiom](https://axiom.ai/) - Create custom bots in seconds, or use ready-made templates. ([HN](https://news.ycombinator.com/item?id=23089243))
 - [The Browser Company](https://thebrowser.company/) - Building a better way to use the internet.

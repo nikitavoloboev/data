@@ -63,3 +63,4 @@
 - [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq)
 - [jsonmatic](https://jsonmatic.com/) - Transform a CSV into a JSON and vice versa. ([Code](https://github.com/erikmartinjordan/jsonmatic))
 - [Extracting Objects Recursively with Jq](https://til.simonwillison.net/jq/extracting-objects-recursively) ([HN](https://news.ycombinator.com/item?id=28026712))
+- [An Introduction to JQ (2021)](https://earthly.dev/blog/jq-select/) ([HN](https://news.ycombinator.com/item?id=28297232))
