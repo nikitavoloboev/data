@@ -95,3 +95,5 @@
 - [The Story of Shor's Algorithm, Straight From the Source | Peter Shor (2021)](https://www.youtube.com/watch?v=6qD9XElTpCE)
 - [First ‘Time Crystal’ Built Using Google’s Quantum Computer (2021)](https://www.quantamagazine.org/first-time-crystal-built-using-googles-quantum-computer-20210730/) ([HN](https://news.ycombinator.com/item?id=28008202))
 - [What a time crystal is and Google's latest results breakdown (2021)](https://www.youtube.com/watch?v=3vmvMyu9Q0o)
+- [Quantum Photonics](https://strawberryfields.ai/photonics/index.html)
+- [Strawberry Fields](https://github.com/XanaduAI/strawberryfields) - Full-stack Python library for designing, simulating, and optimizing continuous variable (CV) quantum optical circuits. ([Web](https://strawberryfields.ai/))
