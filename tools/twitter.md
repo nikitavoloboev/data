@@ -20,7 +20,7 @@
 - [Instant Twitter Search](https://twitter-search.vercel.app/) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia. ([Code](https://github.com/transitive-bullshit/twitter-search))
 - [TWINT](https://github.com/twintproject/twint) - Twitter Intelligence Tool.
 - [Everyone can build a Twitter audience (2020)](https://gumroad.com/l/twitter-audience/launch)
-- [Nitter](https://nitter.net/) - Free and open source alternative Twitter front-end focused on privacy. ([Code](https://github.com/zedeus/nitter))
+- [Nitter](https://nitter.net/) - Free and open source alternative Twitter front-end focused on privacy. ([Code](https://github.com/zedeus/nitter)) ([HN](https://news.ycombinator.com/item?id=28294099))
 - [Treeverse](https://github.com/paulgb/Treeverse) - Extension for navigating burgeoning Twitter conversations.
 - [Twitter as a tool to learn (2020)](https://twitter.com/eriktorenberg/status/1260352115102248961)
 - [Twitter Followers](https://github.com/ConradIrwin/twitter-followers) - Tool to download all a user's twitter followers.

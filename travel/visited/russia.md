@@ -210,3 +210,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Naked Science](https://naked-science.ru/) - Новости науки.
 - [ГУЛАГ: Остров Соловки / Самый страшный лагерь СССР](https://www.youtube.com/watch?v=oOnDThM19io)
 - [Интервью Навального в New York Times (2021)](https://navalny.com/p/6530/) ([Summary](https://www.youtube.com/watch?v=eXmoqu4rOWw))
+- [The Origins of Russian Authoritarianism (2021)](https://www.youtube.com/watch?v=f8ZqBLcIvw0)
