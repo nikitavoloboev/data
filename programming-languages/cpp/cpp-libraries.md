@@ -230,6 +230,7 @@
 - [Inja](https://github.com/pantor/inja) - Template Engine for Modern C++.
 - [Reckless](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++.
 - [CPP-Libp2p](https://github.com/libp2p/cpp-libp2p) - C++17 implementation of libp2p.
+- [µReact](https://github.com/YarikTH/ureact) - Minimalistic reactive library for c++.
 
 ## Links
 

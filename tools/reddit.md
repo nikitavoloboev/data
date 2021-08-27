@@ -22,3 +22,4 @@
 - [Reddit Search Tool](https://redditsearchtool.com/) ([Code](https://github.com/HenryBalassiano/reddit-search-tool))
 - [Reddit Post Classification](https://github.com/kingyiusuen/reddit-post-classification) - Classify whether a post comes from r/statistics, r/datascience or r/MachineLearning.
 - [Loading 261GB of Reddit comments into Snowflake (2021)](https://hoffa.medium.com/loading-reddit-comments-into-snowflake-44b9f2072a84) ([Tweet](https://twitter.com/felipehoffa/status/1425507188995366914))
+- [redditSpyBot](https://github.com/Cabbache/redditSpyBot) - Telegram bot that watches subreddits for particular post titles.
