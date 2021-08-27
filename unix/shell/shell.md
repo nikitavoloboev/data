@@ -148,3 +148,4 @@ All active variables can be seen by running `env`.
 - [Unix Shell: History and Trivia (2021)](https://www.oilshell.org/blog/2021/08/history-trivia.html)
 - [Processing Semi-Structured Data in the Unix Shell (2021)](http://www.weaselhat.com/2021/06/29/processing-semi-structured-data-in-the-unix-shell/)
 - [An Opinionated Guide to xargs (2021)](https://www.oilshell.org/blog/2021/08/xargs.html) ([HN](https://news.ycombinator.com/item?id=28258189))
+- [Illustrated Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial) ([HN](https://news.ycombinator.com/item?id=28324311))
