@@ -540,3 +540,4 @@
 - [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html) - Guidelines that the Rust language standard library holds itself too. ([HN](https://news.ycombinator.com/item?id=28223738))
 - [Large Rust Workspaces (2021)](https://matklad.github.io//2021/08/22/large-rust-workspaces.html) ([Lobsters](https://lobste.rs/s/jz98ci/large_rust_workspaces))
 - [Rust for JS Developers](https://rustforjs.dev/)
+- [Pin, Unpin, and why Rust needs them (2021)](https://blog.cloudflare.com/pin-and-unpin-in-rust/)

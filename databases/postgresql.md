@@ -298,3 +298,4 @@
 - [How PostgreSQL aggregation works and how it inspired our hyperfunctions’ design](https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/)
 - [Postgres.app](https://postgresapp.com/) - Easiest way to get started with PostgreSQL on the Mac. ([HN](https://news.ycombinator.com/item?id=28084271))
 - [pgdiff](https://github.com/denvaar/pgdiff) - Compare what data changed in your Postgres database between two points in time.
+- [Postgres Extensions in Rust (2021)](https://depth-first.com/articles/2021/08/25/postgres-extensions-in-rust/)
