@@ -97,3 +97,4 @@
 - [Detecting Oxbow Code in Erlang Codebases with the Highest Degree of Certainty (2021)](https://arxiv.org/abs/2107.08699)
 - [Syn](https://github.com/ostinelli/syn) - Global Process Registry and Process Group manager for Erlang and Elixir.
 - [Decentralized ETS Counters for Better Scalability (2021)](https://blog.erlang.org/scalable-ets-counters/)
+- [erl_dist](https://github.com/sile/erl_dist) - Rust Implementation of Erlang Distribution Protocol.

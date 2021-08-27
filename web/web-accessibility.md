@@ -67,3 +67,4 @@
 - [Доступность в дизайне (2021)](https://teletype.in/@romanshamin/a11y-for-designers)
 - [Access Guide](https://accessguide.io/) - Friendly introduction to digital accessibility.
 - [Accessible Rich Internet Applications (WAI-ARIA)](https://w3c.github.io/aria/) ([Code](https://github.com/w3c/aria))
+- [AccessKit](https://github.com/AccessKit/accesskit) - UI accessibility infrastructure across platforms and programming languages.

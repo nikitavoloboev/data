@@ -3,6 +3,7 @@
 ## Torrent sites
 
 - [RuTracker](https://rutracker.org/forum/index.php)
+- [Torrent Paradise](https://torrent-paradise.ml/) - Decentralized DHT search site for IPFS. ([Code](https://github.com/urbanguacamole/torrent-paradise)) ([TUI Client](https://github.com/varbhat/torpar))
 - [What is the hottest general torrent site right now? (2018)](https://www.reddit.com/r/Piracy/comments/9vy0oe/what_is_the_hottest_general_torrent_site_right_now/)
 - [What's the best current public index/crawler to find torrents? (2019)](https://www.reddit.com/r/trackers/comments/ebz8w9/whats_the_best_current_public_indexcrawler_to/)
 - [12 Best Torrent Sites](https://www.vpnmentor.com/blog/10-best-torrent-websites/)
@@ -62,3 +63,4 @@
 - [BitTorrent Turns 20: The File-Sharing Revolution Revisited (2021)](https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/) ([HN](https://news.ycombinator.com/item?id=27719222))
 - [Nebula Crawler](https://github.com/dennis-tra/nebula-crawler) - libp2p DHT crawler that gathers information about running nodes in the network.
 - [bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol) - Simple, robust, BitTorrent wire protocol implementation in Node.js.
+- [exatorrent](https://github.com/varbhat/exatorrent) - BitTorrent Client written in Go. It can be run locally or be hosted in Remote Server with good resources to use that Server as SeedBox.

@@ -106,3 +106,4 @@
 - [VexRiscv, OpenOCD, and Traps (2021)](https://tomverbeure.github.io/2021/07/18/VexRiscv-OpenOCD-and-Traps.html) ([Code](https://github.com/tomverbeure/vexriscv_ocd_blog))
 - [Learning how to make RISC-V 32bit CPU with Chisel](https://github.com/rhysd/riscv32-cpu-chisel)
 - [Linux in a Pixel Shader – A RISC-V Emulator for VRChat (2021)](https://blog.pimaker.at/texts/rvc1/) ([HN](https://news.ycombinator.com/item?id=28312632))
+- [rvc](https://github.com/PiMaker/rvc) - 32-bit RISC-V emulator in a shader (and C).

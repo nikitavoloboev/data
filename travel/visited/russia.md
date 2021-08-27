@@ -209,4 +209,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Российские леса постоянно горят, но их биомасса рекордно выросла. Как так вышло и что из этого следует?](https://naked-science.ru/article/nakedscience/wildfire)
 - [Naked Science](https://naked-science.ru/) - Новости науки.
 - [ГУЛАГ: Остров Соловки / Самый страшный лагерь СССР](https://www.youtube.com/watch?v=oOnDThM19io)
-- [Интервью Навального в New York Times (2021)](https://navalny.com/p/6530/)
+- [Интервью Навального в New York Times (2021)](https://navalny.com/p/6530/) ([Summary](https://www.youtube.com/watch?v=eXmoqu4rOWw))

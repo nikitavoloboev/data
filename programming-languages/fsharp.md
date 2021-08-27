@@ -23,3 +23,4 @@
 - [FsAutoComplete](https://github.com/fsharp/FsAutoComplete) - F# language server using Language Server Protocol.
 - [F# Is The Best Programming Language Today (2021)](https://danielbmarkham.com/fsharp-is-the-best-programming-language-today/) ([Lobsters](https://lobste.rs/s/kc54qh/f_is_best_programming_language_today)) ([HN](https://news.ycombinator.com/item?id=27783094))
 - [Why F# is the best enterprise languages](https://fsharpforfunandprofit.com/posts/fsharp-is-the-best-enterprise-language/) ([Lobsters](https://lobste.rs/s/tpa2bf/why_f_is_best_enterprise_language))
+- [WS: F# WebSocket Server](https://github.com/erpuno/ws)
