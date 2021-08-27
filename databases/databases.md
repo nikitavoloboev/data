@@ -397,4 +397,4 @@
 - [Time to Retire the CSV? (2021)](https://www.bitsondisk.com/writing/2021/retire-the-csv/) ([Lobsters](https://lobste.rs/s/t4z2w5/it_s_time_retire_csv)) ([HN](https://news.ycombinator.com/item?id=28221654))
 - [How database indexing actually works internally (2021)](https://blog.pankajtanwar.in/how-database-indexing-actually-works-internally) ([HN](https://news.ycombinator.com/item?id=28230641))
 - [Building PlanetScale with PlanetScale (2021)](https://planetscale.com/blog/building-planetscale-with-planetscale) ([HN](https://news.ycombinator.com/item?id=28223606))
-- [Database internals are becoming less important than developer experience (2021)](https://planetscale.com/blog/nonesql-all-the-devex)
+- [Database internals are becoming less important than developer experience (2021)](https://planetscale.com/blog/nonesql-all-the-devex) ([HN](https://news.ycombinator.com/item?id=28330297))
