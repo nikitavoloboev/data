@@ -186,6 +186,7 @@
 - [Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library.
 - [Google Sign-In for iOS](https://github.com/google/GoogleSignIn-iOS)
 - [UIView+Borders](https://github.com/aaronn/UIView-Borders-Swift) - One sided borders on any side of a UIView.
+- [MGCleanArchitecture](https://github.com/tuan188/MGCleanArchitecture) - Clean Architecture with RxSwift & MVVM - Templates and Solutions.
 
 ## macOS
 
@@ -736,6 +737,8 @@
 - [LRUCache](https://github.com/nicklockwood/LRUCache) - Open-source replacement for NSCache that behaves in a predictable, debuggable way. ([Tweet](https://twitter.com/nicklockwood/status/1423447272206053376))
 - [SwimplyCache](https://github.com/obrhoff/SwimplyCache) - LRU Cache written in Swift.
 - [Partial](https://github.com/JosephDuffy/Partial) - Type-safe wrapper mirroring the wrapped type's properties, making each property optional.
+- [Custom Dump](https://github.com/pointfreeco/swift-custom-dump) - Collection of tools for debugging, diffing, and testing your application's data structures.
+- [Strongbox](https://github.com/granoff/Strongbox) - Swift utility class for storing data securely in the keychain. Use it to store small, sensitive bits of data securely.
 
 ## Other (not lib)
 

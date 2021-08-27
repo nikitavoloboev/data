@@ -128,3 +128,4 @@
 - [SQLBolt](https://sqlbolt.com/) - Interactive lessons and exercises to learn SQL. ([HN](https://news.ycombinator.com/item?id=27842067))
 - [Load CSV files and write SQL](https://superintendent.app/) ([HN](https://news.ycombinator.com/item?id=27871574))
 - [Why you should learn SQL (2019)](https://www.executeprogram.com/blog/why-you-should-learn-sql) ([HN](https://news.ycombinator.com/item?id=28057291))
+- [Write an SQL query builder in 150 lines of Python (2021)](https://death.andgravity.com/query-builder-how) ([HN](https://news.ycombinator.com/item?id=28290608))

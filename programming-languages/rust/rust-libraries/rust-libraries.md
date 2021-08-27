@@ -208,7 +208,7 @@
 
 ## UI
 
-- [Iced](https://github.com/hecrj/iced) - Cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm.
+- [Iced](https://github.com/hecrj/iced/) - Cross-platform GUI library for Rust, inspired by Elm. ([HN](https://news.ycombinator.com/item?id=28326125))
 - [Azul](https://github.com/maps4print/azul) - Desktop GUI Framework.
 - [Druid](https://github.com/linebender/druid) - Data-first Rust-native UI design toolkit. ([Some reflections on the Druid architecture](http://www.cmyr.net/blog/druid-architecture.html)) ([Dynamic widget sketches](http://www.cmyr.net/blog/druid-dynamism.html))
 - [flutter-rs](https://github.com/gliheng/flutter-rs) - Build flutter desktop app in dart & rust.

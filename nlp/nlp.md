@@ -327,3 +327,4 @@
 - [OpenAI Codex](https://openai.com/blog/openai-codex/) - AI system that translates natural language to code. ([HN](https://news.ycombinator.com/item?id=28131745))
 - [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM (2021)](https://arxiv.org/abs/2104.04473)
 - [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) - Collaborative Repository of Natural Language Transformations.
+- [wevi](https://ronxin.github.io/wevi/) - Word embedding visual inspector. ([Code](https://github.com/ronxin/wevi))

@@ -46,4 +46,4 @@
 - [Slitter](https://github.com/backtrace-labs/slitter) - C- and Rust-callable slab allocator implemented primarily in Rust, with some C for performance or to avoid unstable Rust features.
 - [Mitigating Memory-Safety Bugs with Efficient Out-of-Process Integrity Checking (2021)](http://reports-archive.adm.cs.cmu.edu/anon/2021/CMU-CS-21-113.pdf)
 - [A 5x reduction in RAM usage with Zoekt memory optimizations (2021)](https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud/) ([HN](https://news.ycombinator.com/item?id=28237556))
-- [Friendship ended with the garbage collector (2021)](https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/)
+- [Friendship ended with the garbage collector (2021)](https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/) ([HN](https://news.ycombinator.com/item?id=28305762))
