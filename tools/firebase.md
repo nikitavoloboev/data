@@ -32,3 +32,4 @@
 - [Firecode](https://github.com/kafkas/firecode) - Light, fast, and memory-efficient collection traversal library for Firestore and Node.js.
 - [What’s new from Firebase at Google I/O 2021](https://firebase.googleblog.com/2021/05/whats-new-from-firebase-at-google-io.html)
 - [firestore-meilisearch](https://github.com/meilisearch/firestore-meilisearch) - Fulltext Search on Firebase with Meilisearch.
+- [Firebase vs. Supabase - Draftbit Office Hours (2021)](https://www.youtube.com/watch?v=9Yg6i_zCuiM)

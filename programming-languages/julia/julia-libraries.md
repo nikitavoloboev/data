@@ -38,6 +38,7 @@
 - [Diffractor](https://github.com/JuliaDiff/Diffractor.jl) - Next-generation, compiler-based AD system for Julia. ([HN](https://news.ycombinator.com/item?id=27946864))
 - [GpABC.jl](https://github.com/tanhevg/GpABC.jl) - Provides algorithms for likelihood - free parameter inference and model selection using Approximate Bayesian Computation (ABC).
 - [ManifoldDiffEq.jl](https://github.com/JuliaManifolds/ManifoldDiffEq.jl) - Differential equations on manifolds.
+- [Cthulhu.jl](https://github.com/JuliaDebug/Cthulhu.jl) - Can help you debug type inference issues.
 
 ## Math
 
