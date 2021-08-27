@@ -40,3 +40,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Why is China smashing its tech industry? (2021)](https://noahpinion.substack.com/p/why-is-china-smashing-its-tech-industry) ([HN](https://news.ycombinator.com/item?id=27949019)) ([HN](https://news.ycombinator.com/item?id=28036847))
 - [Asianometry - YouTube](https://www.youtube.com/c/Asianometry/featured) - Video essays about Asia.
 - [10 myths about China you often hear that are patently false (2021)](https://twitter.com/RealNatashaChe/status/1413513292195057672)
+- [Arm China Has Gone Rogue (2021)](https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century) ([HN](https://news.ycombinator.com/item?id=28329731))

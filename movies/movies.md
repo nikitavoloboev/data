@@ -53,3 +53,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [No More Movies (2021)](https://jayriverlong.github.io/2021/07/05/movies.html) ([HN](https://news.ycombinator.com/item?id=27743738))
 - [Wes Anderson Explains How to Write & Direct Movies (2019)](https://www.youtube.com/watch?v=Sdt0oam6O1o)
 - [What is the most visually stunning film you've ever seen? (2021)](https://www.reddit.com/r/MovieSuggestions/comments/pc0lk5/what_is_the_most_visually_stunning_film_youve/)
+- [Revisiting Call Me By Your Name. (2021)](https://www.youtube.com/watch?v=05nYXXeiNpo)
