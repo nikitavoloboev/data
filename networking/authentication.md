@@ -143,3 +143,4 @@
 - [SAML is insecure by design (2021)](https://joonas.fi/2021/08/saml-is-insecure-by-design/) ([HN](https://news.ycombinator.com/item?id=28064835))
 - [ZITADEL](https://zitadel.ch/) - Secure Login and Access for your projects. ([Code](https://github.com/caos/zitadel))
 - [Biscuit](https://github.com/CleverCloud/biscuit) - Delegated, decentralized, capabilities based authorization token.
+- [How does Google Authenticator work? (2021)](https://prezu.ca/post/2021-07-30-totp-1/) ([HN](https://news.ycombinator.com/item?id=28324626))
