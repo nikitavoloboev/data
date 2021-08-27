@@ -131,3 +131,4 @@
 - [Pirijan - Creator of Kinopio.club and co-creator of Glitch.com](https://juniortosenior.io/51) - David and Pirijan discuss good communication, when to prioritize performance, and having empathy for the user.
 - [Assertiveness is a virtue that anyone can develop with practice (2021)](https://psyche.co/ideas/assertiveness-is-a-virtue-that-anyone-can-develop-with-practice) ([HN](https://news.ycombinator.com/item?id=27833907))
 - [How to improve your debate and argument skills in an engineering context (2021)](https://twitter.com/NovallSwift/status/1421256019577999360)
+- [NimForum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim. ([HN](https://news.ycombinator.com/item?id=28329672))

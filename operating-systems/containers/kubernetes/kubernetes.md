@@ -421,3 +421,4 @@
 - [A Deep Dive into Kubernetes External Traffic Policies (2018)](https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies)
 - [KUR8](https://github.com/oslabs-beta/KUR8) - Visual overview of Kubernetes architecture and Prometheus metrics.
 - [Harbormaster](https://gitlab.com/stavros/harbormaster) - Anti-Kubernetes for your personal server. ([HN](https://news.ycombinator.com/item?id=28231747))
+- [KubeSurvival](https://github.com/aporia-ai/kubesurvival) - Significantly reduce Kubernetes costs by finding the cheapest machine types that can run your workloads.
