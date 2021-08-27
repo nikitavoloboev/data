@@ -429,3 +429,4 @@
 - [So you want to write a GUI framework (2021)](https://www.cmyr.net/blog/gui-framework-ingredients.html) ([HN](https://news.ycombinator.com/item?id=28127492)) ([Lobsters](https://lobste.rs/s/sjht7g/so_you_want_write_gui_framework))
 - [The big-load anti-pattern (2021)](https://lemire.me/blog/2021/08/21/the-big-load-anti-pattern/) ([Lobsters](https://lobste.rs/s/up2rzh/big_load_anti_pattern))
 - [Ask HN: Do You Use a Debugger? (2021)](https://news.ycombinator.com/item?id=28251896)
+- ["Programming a 144-computer chip to minimize power" - Chuck Moore (2013)](https://www.youtube.com/watch?v=0PclgBd6_Zs)
