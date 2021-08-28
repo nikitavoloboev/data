@@ -21,3 +21,4 @@
 - [numba-dppy](https://github.com/IntelPython/numba-dppy) - Extends Numba with a new backend to support compilation for Intel CPU and GPU architectures.
 - [NumPy views: saving memory, leaking memory, and subtle bugs (2021)](https://pythonspeed.com/articles/numpy-memory-views/)
 - [Magical NumPy with JAX | SciPy 2021](https://www.youtube.com/watch?v=DmR36wtel4Y)
+- [Numbagg](https://github.com/numbagg/numbagg) - Fast N-dimensional aggregation functions with Numba.
