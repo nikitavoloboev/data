@@ -171,6 +171,7 @@
 - [httprate](https://github.com/go-chi/httprate) - net/http rate limiter middleware.
 - [elk](https://github.com/masseelch/elk) - Aims to extend the awesome entgo.io code generator to generate a fully-functional HTTP API on a defined set of entities.
 - [simplesessions](https://github.com/vividvilla/simplesessions) - Go session library that is completely agnostic of HTTP libraries and frameworks, backend stores, and even cookie jars. ([Article](https://vivekr.dev/posts/why-simplesessions-library-in-go/))
+- [Coraza Web Application Firewall](https://github.com/jptosso/coraza-waf) - Go modsecurity compatible web application firewall library. ([Web](https://coraza.io/))
 
 ## GraphQL
 

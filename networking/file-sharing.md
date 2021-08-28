@@ -74,3 +74,4 @@
 - [Estuary](https://estuary.tech/) - Use any browser and our API to store public data on the Filecoin Network and retrieve it from anywhere, anytime.
 - [S3Sync](https://github.com/larrabee/s3sync) - Really fast sync tool for S3.
 - [osm](https://github.com/appscode/osm) - Object Store Manipulator - curl for cloud storage.
+- [Rustypaste](https://github.com/orhun/rustypaste) - Minimal file upload/pastebin service.

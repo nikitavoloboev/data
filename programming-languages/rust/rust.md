@@ -541,3 +541,4 @@
 - [Large Rust Workspaces (2021)](https://matklad.github.io//2021/08/22/large-rust-workspaces.html) ([Lobsters](https://lobste.rs/s/jz98ci/large_rust_workspaces))
 - [Rust for JS Developers](https://rustforjs.dev/)
 - [Pin, Unpin, and why Rust needs them (2021)](https://blog.cloudflare.com/pin-and-unpin-in-rust/)
+- [Awesome Rust Formalized Reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning)

@@ -43,3 +43,4 @@
 - [Async/Await and the Future of Combine (2021)](https://benscheirman.com/2021/06/async-await-and-the-future-of-combine/)
 - [CombineDataSources](https://github.com/CombineCommunity/CombineDataSources) - Table and collection view data sources for Combine.
 - [Combine Community](https://combine.community/) ([GitHub](https://github.com/CombineCommunity))
+- [CombineCloudKit](https://github.com/chris-araman/CombineCloudKit) - Swift Combine extensions for reactive CloudKit record processing. Designed for simplicity.

@@ -201,6 +201,7 @@
 - [panic-persist](https://github.com/jamesmunns/panic-persist) - Writes panic messages to a section of RAM.
 - [better-panic](https://github.com/mitsuhiko/better-panic) - Gives you pretty backtraces for panics.
 - [thisdiagnostic](https://github.com/zkat/thisdiagnostic) - Rust library for adding rich diagnostic metadata to errors.
+- [miette](https://github.com/zkat/miette) - Fancy upgrade to std::error::Error.
 
 ## IO
 

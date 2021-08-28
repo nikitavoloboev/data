@@ -257,3 +257,4 @@
 - [React's UI State Model vs Vanilla JavaScript DOM State — A Beginner's Introduction (2021)](https://arihantverma.com/posts/2021/07/17/react-ui-state-model-vs-vanilla-js/) ([HN](https://news.ycombinator.com/item?id=27870652))
 - [React Children And Iteration Methods (2021)](https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/)
 - [A Visual Guide to React Rendering (2021)](https://alexsidorenko.com/blog/react-render-always-rerenders/) ([HN](https://news.ycombinator.com/item?id=28239692))
+- [React render tracker](https://github.com/lahmatiy/react-render-tracker) - Tool to discover performance issues related to unintended re-renders.

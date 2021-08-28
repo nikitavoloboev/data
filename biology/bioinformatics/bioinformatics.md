@@ -142,3 +142,4 @@
 - [smof](https://github.com/incertae-sedis/smof) - UNIX-style FASTA tools.
 - [AlphaFold2: Are attention and symmetries all you need? (2021)](https://journals.iucr.org/d/issues/2021/08/00/rr5212/rr5212.pdf)
 - [ColabFold](https://github.com/sokrypton/ColabFold) - Making Protein folding accessible to all via Google Colab.
+- [BioLink API](https://github.com/biolink/biolink-api) - API for linked biological knowledge.

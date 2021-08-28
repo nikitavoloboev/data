@@ -134,3 +134,4 @@
 - [Improving responsiveness in text inputs (2021)](https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/)
 - [Does shadow DOM improve style performance? (2021)](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/)
 - [Don't attach tooltips to document.body](https://atfzl.com/don-t-attach-tooltips-to-document-body) ([HN](https://news.ycombinator.com/item?id=28230977))
+- [Accessible autocomplete](https://github.com/alphagov/accessible-autocomplete) - Autocomplete component, built to be accessible.

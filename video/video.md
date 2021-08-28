@@ -278,3 +278,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Video Fingerprinting (2021)](https://emysound.com/blog/open-source/2021/08/01/video-fingerprinting.html) - When audio fingerprinting is not enough.
 - [Nebula](https://nebula.app/) - Smart, thoughtful videos from your favorite education-y creators.
 - [How We Shoot an MKBHD Intro (2021)](https://www.youtube.com/watch?v=pKfbSzTumXk)
+- [Robust High-Resolution Video Matting with Temporal Guidance](https://peterl1n.github.io/RobustVideoMatting/#/) ([Code](https://github.com/PeterL1n/RobustVideoMatting))

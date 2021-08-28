@@ -173,6 +173,7 @@
 - [Practical introduction to algebraic datatypes (ADTs) in TypeScript (2021)](https://medium.com/@el3ng/practical-introduction-to-algebraic-datatypes-adts-in-typescript-1cb6952e4c6d)
 - [ts-fix](https://github.com/microsoft/ts-fix) - CLI for applying TypeScript codefixes.
 - [io-ts-transformer](https://github.com/awerlogus/io-ts-transformer) - TypeScript transformer which converts TypeScript types to io-ts entities.
+- [Awesome TypeScript Ecosystem](https://github.com/madou/awesome-typescript-ecosystem) - List of awesome TypeScript transformers, plugins, handbooks, etc.
 
 ## Images
 
