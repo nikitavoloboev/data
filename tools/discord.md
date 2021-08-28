@@ -34,6 +34,7 @@
 - [discord-jsx](https://github.com/alii/discord-jsx) - Experimental way to write Discord bots with JSX for Node.
 - [Cookiecord](https://github.com/cookiecord/cookiecord) - Simplifies discord bot development by providing a modern and easy to use interface. ([Docs](https://cookiecord.js.org/))
 - [gatekeeper](https://github.com/itsMapleLeaf/gatekeeper) - Supercharge your discord.js commands.
+- [discord.py](https://github.com/Rapptz/discord.py) - API wrapper for Discord written in Python. ([Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)) ([HN](https://news.ycombinator.com/item?id=28334516)) ([Reddit](https://www.reddit.com/r/programming/comments/pd092x/discordpy_development_ceased/))
 
 ## Links
 
@@ -56,3 +57,4 @@
 - [Discord Backup](https://github.com/Androz2091/discord-backup) - Powerful Node.js module that allows you to easily manage discord server backups.
 - [discord-sdk](https://github.com/EmbarkStudios/discord-sdk) - Open implementation of the Discord Game SDK in Rust.
 - [Fosscord](https://github.com/fosscord/fosscord) - Free open source self hostable chat, voice and video discord-compatible platform.
+- [Discord Bots](https://discord.com/invite/0cDvIgU2voY8RSYL)
