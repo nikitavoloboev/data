@@ -923,6 +923,7 @@
 - [stdarch](https://github.com/rust-lang/stdarch) - Rust's standard library SIMD components.
 - [Gallium](https://github.com/ComLarsic/gallium_ecs) - Simple entity-component-system crate for rust with serialization support.
 - [dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe.
+- [Obake](https://github.com/doctorn/obake) - Versioned data-structures for Rust.
 
 ## Cargo Plugins
 

@@ -287,3 +287,4 @@
 - [Steven Strogatz: In and out of love with math | 3b1b podcast (2021)](https://www.youtube.com/watch?v=SUMLKweFAYk)
 - [Math texts, pi creatures, problem solving, etc. | 3blue1brown Q&A (2021)](https://www.youtube.com/watch?v=-bc9EWhmDZg)
 - [Ask HN: How can I learn to read mathematical notation? (2018)](https://news.ycombinator.com/item?id=18510528)
+- [SageMath](https://www.sagemath.org/) - Open-Source Mathematical Software System. ([Code](https://github.com/sagemath/sage))
