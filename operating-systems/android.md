@@ -6,6 +6,7 @@
 - [Dawn](https://github.com/Tunous/Dawn) - Reddit client.
 - [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram UI clone app built with Jetpack Compose.
 - [Expenso](https://github.com/Spikeysanju/Expenso) - Minimal Expense Tracker App built to demonstrate the use of modern android architecture component with MVVM Architecture.
+- [Rally](https://github.com/hashlin/rally) - Personal finance app that uses Material Design components and Material Theming.
 
 ## Links
 

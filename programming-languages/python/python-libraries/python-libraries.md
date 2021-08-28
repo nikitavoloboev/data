@@ -453,6 +453,7 @@
 - [Bplustree](https://github.com/NicolasLM/bplustree) - On-disk B+tree for Python 3.
 - [Hyperlink](https://github.com/python-hyper/hyperlink) - Immutable, Pythonic, correct URLs.
 - [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist) - Runtime software verification and automated testing for scientific software in Python.
+- [xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets.
 
 ## Links
 
