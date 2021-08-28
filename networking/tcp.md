@@ -41,3 +41,4 @@
 - [rproxy](https://github.com/glacierx/rproxy) - Blazing fast cross-platform transparent TCP&UDP proxy.
 - [Increase HTTP Performance by Fitting In the Initial TCP Slow Start Window (2021)](https://sirupsen.com/napkin/problem-15/)
 - [Transcript2Video](http://www.xiongyu.me/projects/transcript2video/) - Efficient Clip Sequencing from Texts.
+- [Unit testing a TCP stack (2015)](http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/) ([HN](https://news.ycombinator.com/item?id=28311288))
