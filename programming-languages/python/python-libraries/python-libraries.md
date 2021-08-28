@@ -32,6 +32,7 @@
 - [Pyre](https://github.com/Project-Dream-Weaver/Pyre) - Fast asyncronous HTTP server and framework written in Rust for Python.
 - [PyJWT](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
 - [httptools](https://github.com/MagicStack/httptools) - Fast HTTP parser.
+- [Hip](https://github.com/python-trio/hip) - New Python HTTP client for everybody. It supports synchronous Python (just like requests does), but also Trio, asyncio and Curio.
 
 ## ML
 

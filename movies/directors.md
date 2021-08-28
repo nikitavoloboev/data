@@ -7,6 +7,10 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - Wong Kar-wai
 - Sofia Coppola
 
+## Notes
+
+- [Tarantino often gets accused of being "style over substance". In my opinion, a more accurate description would be "style is substance". This in regard to many things, but also character exposition. The way each character present themselves, through dialogue, mannerisms and personal style, is a reflection of who the are. Tarantino’s characters generally won’t surprise you with their actions, they are predictable, acting in accordance with superficial exposition. What makes this work is that his characters are very well written, very well designed and very well acted. But in order for them to be these things, they need room to exist.](https://www.reddit.com/r/TrueFilm/comments/pcjd3v/what_am_i_missing_in_pulp_fiction/)
+
 ## Links
 
 - [Who are the most important younger (under 50) living directors?](https://www.reddit.com/r/TrueFilm/comments/8l3d06/who_are_the_most_important_younger_under_50/)

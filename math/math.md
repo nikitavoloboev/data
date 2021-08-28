@@ -286,3 +286,4 @@
 - [A Bestiary of Functions for Systems Designers (2021)](https://brunodias.dev/2021/03/19/functions-for-system-designers.html)
 - [Steven Strogatz: In and out of love with math | 3b1b podcast (2021)](https://www.youtube.com/watch?v=SUMLKweFAYk)
 - [Math texts, pi creatures, problem solving, etc. | 3blue1brown Q&A (2021)](https://www.youtube.com/watch?v=-bc9EWhmDZg)
+- [Ask HN: How can I learn to read mathematical notation? (2018)](https://news.ycombinator.com/item?id=18510528)
