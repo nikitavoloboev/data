@@ -41,3 +41,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs (2014)](https://hamiltonmorris.com/wp-content/uploads/2019/02/From-PCP-to-MXE-a-comprehensive-review-of-the-non-medical-use-of-dissociative-drugs.pdf)
 - [Hamilton Morris and Jason Wallach | Arylcyclohexylamines (2015)](https://www.youtube.com/watch?v=Ag4xxiPan1E)
 - [Drugs and Me](https://www.drugsand.me/en/) - Harm reduction guide to safer drug use.
+- [You're entitled to use substances however you wish to so long as you're not hurting yourself or anyone.](https://www.reddit.com/r/RationalPsychonaut/comments/pbkeqp/youre_entitled_to_use_substances_however_you_wish/)

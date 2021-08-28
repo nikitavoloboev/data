@@ -328,3 +328,4 @@
 - [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM (2021)](https://arxiv.org/abs/2104.04473)
 - [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) - Collaborative Repository of Natural Language Transformations.
 - [wevi](https://ronxin.github.io/wevi/) - Word embedding visual inspector. ([Code](https://github.com/ronxin/wevi))
+- [clip-retrieval](https://github.com/rom1504/clip-retrieval) - Easily computing clip embeddings and building a clip retrieval system with them.
