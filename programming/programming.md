@@ -431,3 +431,4 @@
 - [Ask HN: Do You Use a Debugger? (2021)](https://news.ycombinator.com/item?id=28251896)
 - ["Programming a 144-computer chip to minimize power" - Chuck Moore (2013)](https://www.youtube.com/watch?v=0PclgBd6_Zs)
 - [Caches, Modes, and Unstable Systems (2021)](https://brooker.co.za/blog/2021/08/27/caches.html) ([HN](https://news.ycombinator.com/item?id=28344561))
+- [Making Reasonable Use of Computer Resources: Part 2 (2021)](https://vfoley.xyz/reasonable-use-2/)

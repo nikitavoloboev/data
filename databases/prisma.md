@@ -62,3 +62,4 @@
 - [Prismix](https://github.com/jamiepine/prismix) - Prisma schema mixer.
 - [Prismaliser](https://prismaliser.ovy.cloud/) - Visualise your Prisma schema. ([Code](https://github.com/Ovyerus/prismaliser))
 - [Cached Prisma](https://github.com/JoelLefkowitz/cached-prisma) - Prisma client abstraction that simplifies caching.
+- [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - Type-safe database access for Python.

@@ -171,3 +171,4 @@
 - [Compilers as Teachers (2021)](https://ferrous-systems.com/blog/compilers-as-teachers/)
 - [Do Developers Read Compiler Error Messages? (2017)](https://static.barik.net/barik/publications/icse2017/PID4655707.pdf) ([HN](https://news.ycombinator.com/item?id=28007593))
 - [Let's write a compiler, part 1: Introduction, selecting a language, and doing some planning (2021)](https://briancallahan.net/blog/20210814.html) ([Code](https://github.com/ibara/pl0c))
+- [Let's get hands-on with QBE (2021)](https://briancallahan.net/blog/20210829.html)

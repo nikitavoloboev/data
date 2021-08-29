@@ -137,3 +137,4 @@
 - [Haskell-like patterns in Lisp (2021)](http://www.lispology.com/show?3FY9)
 - [The Most Beautiful Program Ever Written – Lisp Interpreter Written in Lisp](https://www.lvguowei.me/post/the-most-beautiful-program-ever-written/) ([HN](https://news.ycombinator.com/item?id=28114356))
 - [Build a Lisp in Swift](https://github.com/codr7/swifties-repl)
+- [Why I will stay Janet (2021)](https://pan.earth/posts/why-i-will-stay-janet.html)

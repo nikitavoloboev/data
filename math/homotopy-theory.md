@@ -31,3 +31,4 @@
 - [Homotopy Type Theory in Agda](https://github.com/HoTT/HoTT-Agda)
 - [HN: Homotopy Type Theory (2021)](https://news.ycombinator.com/item?id=27589503)
 - [Math 721: Homotopy Type Theory Course (2021)](https://github.com/emilyriehl/721)
+- [Introduction to Homotopy Type Theory and Univalent Foundations (HoTT/UF) with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html)

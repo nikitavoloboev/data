@@ -275,3 +275,4 @@
 - [Docker Github Actions Runner](https://github.com/myoung34/docker-github-actions-runner) - Will run the new self-hosted github actions runners with docker-in-docker.
 - [Automating a Software Company with GitHub Actions (2021)](https://posthog.com/blog/automating-a-software-company-with-github-actions) ([HN](https://news.ycombinator.com/item?id=28234057))
 - [Private Action Loader](https://github.com/nick-invision/private-action-loader) - Allows private GitHub Actions to be easily reused.
+- [Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions (2021)](https://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/)

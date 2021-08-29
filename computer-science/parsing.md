@@ -68,3 +68,4 @@
 - [On Parsers](https://wiki.alopex.li/OnParsers) ([Lobsters](https://lobste.rs/s/7it43u/on_parsers))
 - [Casual Parsing in JavaScript (2021)](https://www.brandons.me/blog/casual-parsing-javascript)
 - [Parser generators vs. handwritten parsers: surveying major language implementations in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html) ([HN](https://news.ycombinator.com/item?id=28258945)) ([Lobsters](https://lobste.rs/s/10pkib/parser_generators_vs_handwritten))
+- [Kaitai Struct](https://kaitai.io/) - Declarative binary format parsing language. ([Lobsters](https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format))

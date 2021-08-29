@@ -118,3 +118,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [How to write an acm-styled conference paper using markdown/pandoc (2016)](https://ineed.coffee/post/how-to-write-an-acm-styled-conference-paper-using-markdownpandoc) ([Code](https://github.com/dgraziotin/acm_sig_paper_markdown_pandoc))
 - [GROBID](https://github.com/kermitt2/grobid) - Machine learning software for extracting information from scholarly documents. ([Docs](https://grobid.readthedocs.io/en/latest/))
 - [Citation File Format](https://citation-file-format.github.io/) ([HN](https://news.ycombinator.com/item?id=28246899))
+- [What to Do if SciHub Can't Find Your Paper: A Short Guide (2021)](https://www.reddit.com/r/scihub/comments/pdkboj/what_to_do_if_scihub_cant_find_your_paper_a_short/)
