@@ -75,3 +75,5 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [HackMD](https://hackmd.io/) - Collaborative Markdown Knowledge Base.
 - [CodiMD](https://github.com/hackmdio/codimd) - Real time collaborative markdown notes on all platforms.
 - [GitHub Action - Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
+- [How to build a Markdown editor using Electron, ReactJS, Vite, CodeMirror, and Remark (2021)](https://www.youtube.com/watch?v=gxBis8EgoAg)
+- [Inkdrop](https://www.inkdrop.app/) - Note-taking App with Robust Markdown Editor.
