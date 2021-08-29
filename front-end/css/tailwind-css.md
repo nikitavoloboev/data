@@ -98,3 +98,4 @@
 - [Tailwind CSS Tutorial for Beginners (2020)](https://www.youtube.com/watch?v=4wGmylafgM4)
 - [TailwindCSS Converter](https://tailwind-converter.netlify.app/) - Convert CSS To Tailwind. ([Code](https://github.com/stevezease/tailwind-converter))
 - [Coming to Terms with Tailwind (2021)](https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/) ([HN](https://news.ycombinator.com/item?id=27762072))
+- [tailwindcss-capsize](https://github.com/stormwarning/tailwindcss-capsize) - Tailwind CSS utility classes for trimming whitespace above & below capital letters.

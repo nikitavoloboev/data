@@ -120,3 +120,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Vim is actually worth it (2021)](https://alexfertel.hashnode.dev/vim-is-actually-worth-it)
 - [Neovim News #11 - The Christmas Issue (2021)](https://neovim.io/news/2021/07)
 - [A Vim Guide For Experts](https://thevaluable.dev/vim-expert/)
+- [Moving to modern Neovim (2021)](https://toroid.org/modern-neovim)

@@ -90,3 +90,4 @@
 - [Awesome Web Icons](https://github.com/vkarampinis/awesome-icons)
 - [ios-symbols](https://github.com/bouchenoiremarc/ios-symbols) - Collection of every symbol from SF Symbols.
 - [Mastering the Basics of Icon Design with Adrien Coquet (2021)](https://blog.thenounproject.com/mastering-the-basics-of-icon-design-with-adrien-coquet-9c3802093e30) ([HN](https://news.ycombinator.com/item?id=27903808))
+- [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components on-demand universally.

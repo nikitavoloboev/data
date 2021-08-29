@@ -103,3 +103,4 @@
 - [What is RSS (Really Simple Syndication)?](https://ncase.me/rss/) ([HN](https://news.ycombinator.com/item?id=27709549))
 - [RSS feeds for arbitrary websites using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/) ([HN](https://news.ycombinator.com/item?id=27739568))
 - [Streambus](https://streambus.com/) - Publish videos on RSS, just like podcasts.
+- [Canard](https://github.com/mrusme/canard) - Command line TUI client for the journalist RSS aggregator.

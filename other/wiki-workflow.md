@@ -154,6 +154,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Daniel Imfeld's Notes](https://imfeld.dev/notes)
 - [Hrishikesh Bhaskaran's Wiki](https://wiki.stultus.in/)
 - [neeasade's notes](https://notes.neeasade.net/)
+- [マリウス](https://xn--gckvb8fzb.com/)
 - [Edward Yerburgh's CS Notes](https://notes.eddyerburgh.me/) ([Code](https://github.com/eddyerburgh/notes))
 - [Nimor's Zettelkasten](https://nimor111.github.io/notebook/) ([Code](https://github.com/Nimor111/notebook))
 - [Gordon Brander's Patterns](http://gordonbrander.com/pattern/)
