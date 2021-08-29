@@ -79,3 +79,4 @@
 - [Kubernetes & Rails: The Definitive Guide (2021)](https://kubernetes-rails.com/)
 - [Rails 6 with Webpacker 6, Tailwind 2 with JIT, Postcss 8 and some default setup (2021)](https://nauman.medium.com/my-rails-project-default-setup-a577677703d2) ([HN](https://news.ycombinator.com/item?id=28188255))
 - [Ruby on Rails: View Components, Storybook and Tailwind - a match made in heaven? (2021)](https://finnian.io/blog/view-components-storybook-tailwind-the-holy-trinity/) ([HN](https://news.ycombinator.com/item?id=28344302))
+- [Rails Mini Profiler](https://github.com/hschne/rails-mini-profiler) - Performance profiling for Rails, made simple.
