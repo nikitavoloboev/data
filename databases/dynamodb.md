@@ -56,3 +56,4 @@
 - [Best Practices for Modeling Relational Data in DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-relational-modeling.html)
 - [Amazon DynamoDB Under the Hood: How We Built a Hyper-Scale Database (2018)](https://www.youtube.com/watch?v=yvBR71D0nAQ)
 - [AWS DynamoDB Component](https://github.com/serverless-components/aws-dynamodb) - Easily provision AWS DynamoDB tables using Serverless Components.
+- [AWS DynamoDBtoCSV](https://github.com/edasque/DynamoDBtoCSV) - Dump DynamoDB data into a CSV file.

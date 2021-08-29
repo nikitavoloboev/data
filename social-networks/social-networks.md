@@ -122,3 +122,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Этические социальные сети c @sitnik (2021)](https://www.youtube.com/watch?v=_sfYv2yTfl0)
 - [Content density: Why TikToks trounce Stories (2020)](https://constine.substack.com/p/content-density-why-tiktoks-trounce) ([Tweet](https://twitter.com/JoshConstine/status/1340382508089630720))
 - [The End of Social Media (2021)](https://miikavonbell.com/posts/end-of-social-media/) ([HN](https://news.ycombinator.com/item?id=28245634))
+- [HN: FB messenger silently censoring links, claims they were sent (2021)](https://news.ycombinator.com/item?id=28341737)

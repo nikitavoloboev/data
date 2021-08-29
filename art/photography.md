@@ -132,3 +132,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Who are some of your favorite photographers? (2021)](https://www.reddit.com/r/photography/comments/nyijta/who_are_some_of_your_favourite_photographers/)
 - [IPPAWARDS](https://www.ippawards.com/) - iPhone Photography Awards.
 - [Film Photography Basics course](https://www.anetehiie.com/film-photography-basics-course)
+- [Getting started with large format film photography (2021)](https://shootitwithfilm.com/getting-started-with-large-format-film-photography/) ([HN](https://news.ycombinator.com/item?id=28337271))
+- [Shoot It With Film](https://shootitwithfilm.com/) - Community for film photographers to learn, share, and grow.

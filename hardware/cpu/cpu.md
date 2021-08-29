@@ -108,3 +108,4 @@
 - [Hunting a bug in the i40e Intel driver (2021)](https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/)
 - [An inside look at the custom CPUs in Tesla's Dojo Supercomputer (2021)](https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/) ([HN](https://news.ycombinator.com/item?id=28251396))
 - [ASML business breakdown (2021)](https://twitter.com/TrungTPhan/status/1429464889307762688)
+- [Next-gen chips will be powered from below (2021)](https://spectrum.ieee.org/next-gen-chips-will-be-powered-from-below) ([HN](https://news.ycombinator.com/item?id=28337836))

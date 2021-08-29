@@ -286,3 +286,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [What domain name to use for your home network (2021)](https://www.ctrl.blog/entry/homenet-domain-name.html) ([HN](https://news.ycombinator.com/item?id=28192247))
 - [IPv4 vs. IPv6 FAQ](https://tailscale.com/kb/1134/ipv6-faq/) ([HN](https://news.ycombinator.com/item?id=28326806)) ([Lobsters](https://lobste.rs/s/uid8v2/ipv4_vs_ipv6_faq))
 - [Latency Sneaks Up on You (2021)](https://brooker.co.za/blog/2021/08/05/utilization.html) ([HN](https://news.ycombinator.com/item?id=28326932))
+- [Wi-Fi QR Code generator](https://github.com/reugn/wifiqr) - Create a QR code with your Wi-Fi login details.

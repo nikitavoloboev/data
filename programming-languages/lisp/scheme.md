@@ -51,3 +51,4 @@
 - [LispPad](http://lisppad.objecthub.net/) - Lightweight Scheme IDE on macOS and iOS.
 - [TmpLisp](https://github.com/tdp2110/TmpLisp) - Implementation of Scheme in C++ Template Metaprogramming.
 - [10 ways GNU Guile is 10x better (2021)](https://www.draketo.de/software/guile-10x.html)
+- [Snap is Scheme disguised as Scratch](https://people.eecs.berkeley.edu/~bh/snap/baby3.pdf) ([HN](https://news.ycombinator.com/item?id=28337196))

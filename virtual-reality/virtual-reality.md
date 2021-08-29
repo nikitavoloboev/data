@@ -37,3 +37,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [W3Reality](https://github.com/w3reality) - Elevating the Web to VR.
 - [LÖVR](https://lovr.org/) - Open source framework for rapidly building immersive 3D experiences. ([HN](https://news.ycombinator.com/item?id=28081656))
 - [Full-body tracking in VR using AprilTag markers](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker)
+- [LucidVR open source force feedback VR gloves](https://github.com/LucidVR/lucidgloves) ([HN](https://news.ycombinator.com/item?id=28340330))

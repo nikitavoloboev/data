@@ -430,3 +430,4 @@
 - [The big-load anti-pattern (2021)](https://lemire.me/blog/2021/08/21/the-big-load-anti-pattern/) ([Lobsters](https://lobste.rs/s/up2rzh/big_load_anti_pattern))
 - [Ask HN: Do You Use a Debugger? (2021)](https://news.ycombinator.com/item?id=28251896)
 - ["Programming a 144-computer chip to minimize power" - Chuck Moore (2013)](https://www.youtube.com/watch?v=0PclgBd6_Zs)
+- [Caches, Modes, and Unstable Systems (2021)](https://brooker.co.za/blog/2021/08/27/caches.html) ([HN](https://news.ycombinator.com/item?id=28344561))

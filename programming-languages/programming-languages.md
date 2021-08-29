@@ -228,3 +228,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Implicit ordering in relational languages (2021)](https://scattered-thoughts.net/writing/implicit-ordering-in-relational-languages/)
 - [Imba](https://imba.io/) - Friendly full-stack programming language for the web that compiles to performant JavaScript. ([Code](https://github.com/imba/imba)) ([HN](https://news.ycombinator.com/item?id=28207662))
 - [Shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for several programming languages.
+- [Hell Is Other REPLs (2021)](https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html) ([HN](https://news.ycombinator.com/item?id=28345617))
+- [Weird Languages (2021)](http://paulgraham.com/weird.html) ([HN](https://news.ycombinator.com/item?id=28336891))
