@@ -116,7 +116,7 @@ And these Discord servers:
 - [Branch](https://branch.climateaction.tech/) - Online magazine written by and for people who dream of a sustainable and just internet. ([Lobsters](https://lobste.rs/s/ws6usl/branch_online_magazine_written_by_for))
 - [BESIDE](https://beside.media/) - Bridging the gap between humans and nature.
 - [Aeon](https://aeon.co/) - Magazine of ideas and culture.
-- [bellingcat](https://www.bellingcat.com/) - Home of online investigations.
+- [Bellingcat](https://www.bellingcat.com/) - Home of online investigations. ([GitHub](https://github.com/bellingcat))
 - [The Cut](https://www.thecut.com/) - Fashion, Beauty, Politics, Sex and Celebrity.
 - [New York Magazine](https://nymag.com/)
 - [The New Yorker](https://www.newyorker.com/)

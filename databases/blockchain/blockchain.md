@@ -186,3 +186,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [PartyBid](https://github.com/PartyDAO/partybid) - Protocol that allows a group of internet homies to pool their funds together in order to win an NFT auction.
 - [Hyperledger Caliper](https://github.com/hyperledger/caliper) - Blockchain benchmark framework to measure performance of multiple blockchain solutions. ([Web](https://hyperledger.github.io/caliper/))
 - [BitGo](https://www.bitgo.com/) - Institutional Digital Asset Platform.
+- [TerraSwap](https://github.com/terraswap/terraswap) - Uniswap-inspired automated market-maker (AMM) protocol powered by Smart Contracts on the Terra blockchain.
+- [Terra](https://www.terra.money/) - Powering the innovation of money.

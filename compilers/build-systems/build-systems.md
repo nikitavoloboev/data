@@ -71,3 +71,4 @@
 - [Gradle](https://github.com/gradle/gradle) - Build tool with a focus on build automation and support for multi-language development. ([Web](https://gradle.org/))
 - [Using Earthly To Build Replay](https://dmiller.dev/blog/using-earthly-to-build-replay)
 - [CMake Part 1 - The Dark Arts (2021)](https://blog.feabhas.com/2021/07/cmake-part-1-the-dark-arts/)
+- [unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, and Webpack.

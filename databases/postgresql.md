@@ -301,3 +301,4 @@
 - [Postgres Extensions in Rust (2021)](https://depth-first.com/articles/2021/08/25/postgres-extensions-in-rust/)
 - [Supabase in 6 Minutes - Building a Full Stack App with Supabase and React (2021)](https://www.youtube.com/watch?v=ogEitL8RwtQ)
 - [Postgres Conference](https://postgresconf.org/) ([Videos](https://www.youtube.com/c/PostgresConference/videos))
+- [squawk](https://github.com/sbdchd/squawk) - Linter for Postgres migrations. ([Web](https://squawkhq.com/))

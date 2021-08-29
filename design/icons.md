@@ -92,3 +92,4 @@
 - [Mastering the Basics of Icon Design with Adrien Coquet (2021)](https://blog.thenounproject.com/mastering-the-basics-of-icon-design-with-adrien-coquet-9c3802093e30) ([HN](https://news.ycombinator.com/item?id=27903808))
 - [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components on-demand universally.
 - [Fontaudio](https://github.com/fefanto/fontaudio) - Icon toolkit for audio developers.
+- [Font-GIS](https://github.com/Viglino/font-gis) - Icon font set for use with GIS and spatial analysis tools. ([Web](https://viglino.github.io/font-gis/))

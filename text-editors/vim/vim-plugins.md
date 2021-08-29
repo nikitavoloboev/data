@@ -244,3 +244,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [kyoto.nvim](https://github.com/samrath2007/kyoto.nvim) - Fast, functional and beautiful Neovim configuration.
 - [NvChad](https://github.com/NvChad/NvChad) - Attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [VimScript Language Server](https://github.com/iamcco/vim-language-server)
+- [Denops](https://github.com/vim-denops/denops.vim) - Ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno.

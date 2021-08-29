@@ -30,3 +30,4 @@
 - [Godot 3.3 (2021)](https://godotengine.org/article/godot-3-3-has-arrived) ([HN](https://news.ycombinator.com/item?id=26896340))
 - [Godot dictionary tutorial with examples (2020)](https://generalistprogrammer.com/godot/godot-dictionary-tutorial-with-examples/)
 - [Dialogic](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations in your Godot games.
+- [Material Maker](https://github.com/RodZill4/material-maker) - Tool based on Godot Engine that can be used to create textures procedurally and paint 3D models.
