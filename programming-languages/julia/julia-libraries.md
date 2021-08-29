@@ -39,6 +39,7 @@
 - [GpABC.jl](https://github.com/tanhevg/GpABC.jl) - Provides algorithms for likelihood - free parameter inference and model selection using Approximate Bayesian Computation (ABC).
 - [ManifoldDiffEq.jl](https://github.com/JuliaManifolds/ManifoldDiffEq.jl) - Differential equations on manifolds.
 - [Cthulhu.jl](https://github.com/JuliaDebug/Cthulhu.jl) - Can help you debug type inference issues.
+- [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) - Collection of tools for chemometrics and machine learning written in Julia.
 
 ## Math
 

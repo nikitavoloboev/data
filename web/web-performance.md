@@ -136,3 +136,4 @@
 - [Instant Vitals](https://vitals.dev/) - Simple tools to track and improve your Web Vitals scores. ([Code](https://github.com/InstantDomain/instant-vitals))
 - [How to Eliminate Render-Blocking Resources: a Deep Dive (2021)](https://sia.codes/posts/render-blocking-resources/)
 - [Low Bandwidth Images (2021)](https://opguides.info/posts/lowbandwidthimages/)
+- [bundlesize2](https://github.com/siddharthkp/bundlesize2) - Keep your bundle size in check.
