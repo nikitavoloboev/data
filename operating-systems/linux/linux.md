@@ -358,3 +358,4 @@
 - [Provision an Ubuntu-based EC2 instance with CDK (2021)](https://loige.co/provision-ubuntu-ec2-with-cdk/)
 - [DebConf21 Schedule](https://debconf21.debconf.org/schedule/)
 - [I switched from macOS to Linux after 15 years of Apple (2021)](https://markosaric.com/linux/) ([HN](https://news.ycombinator.com/item?id=28320404))
+- [PatchELF](https://github.com/NixOS/patchelf) - Small utility to modify the dynamic linker and RPATH of ELF executables.

@@ -68,6 +68,7 @@
 - [Amsterdam Styled Components (ASC)](https://github.com/Amsterdam/amsterdam-styled-components) - Component Library based on Amsterdam Design System.
 - [Paste](https://paste.twilio.design/) - Design System for building Twilio customer experiences. ([Code](https://github.com/twilio-labs/paste))
 - [Atomize Code](https://github.com/proksh/atomize) - UI Design System for React JS. ([Web](https://atomizecode.com/))
+- [doc-blocks](https://github.com/intuit/doc-blocks) - Design system for doc-blocks UI components, built on @design-systems/cli.
 
 ## Notes
 
@@ -132,3 +133,4 @@
 - [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - Deploy your storybook as a static site.
 - [Programming Design Systems Book](https://programmingdesignsystems.com/introduction/) ([Code](https://github.com/runemadsen/programmingdesignsystems.com))
 - [Design Systems List](https://github.com/saadeghi/design-systems) - List of famous design systems, design languages and guidelines.
+- [Designs Systems CLI](https://github.com/intuit/design-systems-cli) - CLI toolbox for creating design systems. ([Docs](https://intuit.github.io/design-systems-cli/#/welcome))
