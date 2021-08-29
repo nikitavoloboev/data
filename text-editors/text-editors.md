@@ -52,6 +52,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Helix](https://github.com/helix-editor/helix) - Post-modern modal text editor. ([Web](https://helix-editor.com/)) ([HN](https://news.ycombinator.com/item?id=27358479))
 - [Tofu](https://tofu.is/) - Exploration in fluid code editing. ([Code](https://github.com/Gregoor/tofu))
 - [ReVi](https://github.com/revi-editor/revi) - Vim inspired text editor.
+- [vis](https://github.com/martanne/vis) - Vi-like editor based on Plan 9's structural regular expressions.
 
 ## Web
 
