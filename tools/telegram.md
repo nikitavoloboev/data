@@ -59,6 +59,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram to Notion](https://telegramtonotion.com/) - Instantly send content from Telegram to Notion.
 - [github2telegram](https://github.com/Civil/github2telegram) - Bot that can send notification of new releases to Telegram.
 - [Voice to text bot](https://github.com/nabokihms/telegram_unvoicer_bot) - Unpack voicemails into a text.
+- [LoggingTelegram](https://github.com/stevapple/swift-log-telegram) - Send SwiftLog messages to any Telegram chat.
 
 ## Links
 
