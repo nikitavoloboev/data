@@ -78,3 +78,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [How to Learn Complex Things Quickly: A Guide (2021)](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly) ([HN](https://news.ycombinator.com/item?id=26738708))
 - [Using Paper for Everyday Tasks (2021)](https://christine.website/blog/gtd-on-paper-2021-06-13) ([Lobsters](https://lobste.rs/s/uwuvx3/using_paper_for_everyday_tasks))
 - [Move fast, but understand the problem first (2021)](https://jacobobryant.com/blog/understand/) ([HN](https://news.ycombinator.com/item?id=27691586))
+- [Ask HN: What problem are you close to solving and how can we help? (2021)](https://news.ycombinator.com/item?id=28344952)
