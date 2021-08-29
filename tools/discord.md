@@ -15,6 +15,7 @@
 - [discordcaptcha](https://github.com/y21/discordcaptcha) - Verification bot for Discord.
 - [web-watcher](https://github.com/shellbear/web-watcher) - Discord bot which monitor and send alerts on website changes. ([Docs](https://shellbear.github.io/web-watcher/))
 - [Robbb](https://github.com/unixporn/robbb) - Discord bot for the Unixporn community in Rust.
+- [Send](https://github.com/cnrad/send) - Send a message to me on Discord using webhooks.
 
 ## Libraries
 

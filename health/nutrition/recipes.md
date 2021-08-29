@@ -11,6 +11,10 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 ## Interesting
 
 - [Garlic bread](https://www.simplyrecipes.com/recipes/garlic_bread/)
+- [Bhel Puri](https://www.vegrecipesofindia.com/bhel-puri-mumbai-bhel-puri/)
+- [Samosa Chaat](https://www.cookwithmanali.com/samosa-chaat/)
+- [Samosa](https://www.indianhealthyrecipes.com/samosa-recipe-make-samosa/)
+- [Vegetable pakora](https://www.indianhealthyrecipes.com/pakora-recipe-vegetable-pakora-pakoda/)
 
 ## Links
 
@@ -49,3 +53,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Sauce Recipes That Will Transform Any Meal (2021)](https://www.nytimes.com/2021/07/12/dining/sauce-recipes-condiments-dressings-toppings.html)
 - [Avocado Pasta](https://damndelicious.net/2014/06/20/avocado-pasta/)
 - [Damn Delicious Recipes](https://damndelicious.net/recipe-index/)
+- [Dassana's Veg Recipes](https://www.vegrecipesofindia.com/) - Vegetarian Indian & World Recipes Food Blog.

@@ -10,6 +10,7 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 - [MAKAvA delighted ice tea](https://www.makava.at/)
 - [Sweet Liberty’s Pina Colada](https://www.washingtonpost.com/recipes/sweet-libertys-pina-colada/15979/)
 - [Surely](https://www.hisurely.com/) - Non-Alcoholic Wine.
+- [Masala chai](https://en.wikipedia.org/wiki/Masala_chai)
 
 ## Links
 
