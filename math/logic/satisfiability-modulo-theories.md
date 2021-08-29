@@ -37,3 +37,4 @@
 - [Teaching Your SMT Solver Probability Theory (2019)](https://barghouthi.github.io/2019/07/15/smt-probability/)
 - [dReal](https://github.com/dreal/dreal4) - SMT Solver for Nonlinear Theories of Reals. ([Web](https://dreal.github.io/))
 - [Proof P = NP was accidentally published in TOCT](https://twitter.com/danluu/status/1417215848633159689) ([HN](https://news.ycombinator.com/item?id=27886900))
+- [PicoSAT.jl](https://github.com/sisl/PicoSAT.jl) - Julia bindings to the SAT solver picosat.
