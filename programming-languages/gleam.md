@@ -20,3 +20,4 @@
 - [Phantom Types in Gleam (2021)](https://blog.pd-andy.dev/phantom-types-in-gleam)
 - [Gleam Playground](https://nicklas.xyz/apps/gleam-playground/) - Playground for running snippets of Gleam code in the browser. ([Code](https://github.com/NicklasXYZ/gleam_playground))
 - [Getting more from data](https://github.com/midas-framework/project_wisdom)
+- [workers-gleam-template](https://github.com/lpil/gleam-cloudflare-worker) - Batteries included template for kick starting a Gleam Cloudflare worker project.

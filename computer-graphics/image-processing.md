@@ -115,3 +115,4 @@
 - [Pixel sorting images in python](https://github.com/satyarth/pixelsort)
 - [ꟻLIP: A Tool for Visualizing and Communicating Errors in Rendered Images](https://github.com/NVlabs/flip)
 - [The past, present and future of image formats](https://dither8.xyz/blog/img-future/) ([HN](https://news.ycombinator.com/item?id=28219972))
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image Restoration.

@@ -16,6 +16,7 @@
 - [Obsidian Roundup](https://obsidianroundup.org/) - Weekly roundup of Obsidian.md tips, news & resources.
 - [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian.
 - [Obsidian Tracker](https://github.com/pyrochlore/obsidian-tracker) - Helps you collect data from notes and represent it comprehensively.
+- [Citation](https://github.com/hans/obsidian-citation-plugin) - Plugin for Obsidian integrates your academic reference manager with the Obsidian editing experience.
 
 ## Links
 

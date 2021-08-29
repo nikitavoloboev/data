@@ -359,3 +359,4 @@
 - [Object Detection in an Hour (2021)](https://www.strayrobots.io/blog/object-detection-in-an-hour) ([HN](https://news.ycombinator.com/item?id=28100346))
 - [Fixing the train-test resolution discrepancy (2020)](https://arxiv.org/abs/1906.06423) ([Code](https://github.com/facebookresearch/FixRes))
 - [Align Deep Features for Oriented Object Detection (2020)](https://arxiv.org/abs/2008.09397) ([Code](https://github.com/csuhan/s2anet))
+- [Vision-Language Transformer and Query Generation for Referring Segmentation (2021)](https://arxiv.org/abs/2108.05565) ([Code](https://github.com/henghuiding/Vision-Language-Transformer))

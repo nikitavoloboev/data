@@ -268,3 +268,4 @@
 - [Equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations => neural networks in JAX.
 - [PonderNet: Learning to Ponder](https://nn.labml.ai/adaptive_computation/ponder_net/index.html) ([HN](https://news.ycombinator.com/item?id=28164583))
 - [PyNIF3D](https://github.com/pfnet/pynif3d) - Open-source PyTorch-based library for research on neural implicit functions (NIF)-based 3D geometry representation.
+- [PyGCL](https://github.com/GraphCL/PyGCL) - Graph Contrastive Learning Library for PyTorch.

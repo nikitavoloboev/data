@@ -24,3 +24,5 @@
 - [Update Pi-hole's lists from remote sources](https://github.com/jacklul/pihole-updatelists)
 - [Running my own DoH relay and getting Pi-hole protection away from home (2021)](https://scotthelme.co.uk/running-my-own-doh-relay-and-getting-pihole/)
 - [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox) ([HN](https://news.ycombinator.com/item?id=26755252))
+- [Gravity Sync](https://github.com/vmstan/gravity-sync) - Easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances. ([Article](https://vmstan.com/gravity-sync/))
+- [Blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more.

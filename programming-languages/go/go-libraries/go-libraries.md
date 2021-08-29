@@ -906,6 +906,7 @@
 - [functional-go](https://github.com/logic-building/functional-go) - Functional programming in Go. Inspired by Clojure.
 - [unixtransport](https://github.com/peterbourgon/unixtransport) - Support for Unix domain sockets in Go HTTP clients.
 - [fwd](https://github.com/philhofer/fwd) - Buffered Reader/Writer.
+- [Ladon](https://github.com/ory/ladon) - SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 
 ## Links
 

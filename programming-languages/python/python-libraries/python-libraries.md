@@ -115,6 +115,7 @@
 - [ConnectorX](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python. ([Lobsters](https://lobste.rs/s/uwfozb/connectorx_accelerate_data_loading_from))
 - [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions. ([Docs](https://dataset.readthedocs.io/en/latest/))
 - [Piccolo](https://github.com/piccolo-orm/piccolo) - Fast, user friendly ORM and query builder which supports asyncio. ([Web](https://piccolo-orm.com/))
+- [Alembic](https://github.com/sqlalchemy/alembic) - Database migrations tool for SQLAlchemy.
 
 ## GUI
 
