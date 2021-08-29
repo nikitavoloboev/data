@@ -288,3 +288,4 @@
 - [Math texts, pi creatures, problem solving, etc. | 3blue1brown Q&A (2021)](https://www.youtube.com/watch?v=-bc9EWhmDZg)
 - [Ask HN: How can I learn to read mathematical notation? (2018)](https://news.ycombinator.com/item?id=18510528)
 - [SageMath](https://www.sagemath.org/) - Open-Source Mathematical Software System. ([Code](https://github.com/sagemath/sage))
+- [Banach-Tarski and the Paradox of Infinite Cloning](https://www.quantamagazine.org/how-a-mathematical-paradox-allows-infinite-cloning-20210826/) ([HN](https://news.ycombinator.com/item?id=28346044))
