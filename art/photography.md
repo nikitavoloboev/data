@@ -134,3 +134,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Film Photography Basics course](https://www.anetehiie.com/film-photography-basics-course)
 - [Getting started with large format film photography (2021)](https://shootitwithfilm.com/getting-started-with-large-format-film-photography/) ([HN](https://news.ycombinator.com/item?id=28337271))
 - [Shoot It With Film](https://shootitwithfilm.com/) - Community for film photographers to learn, share, and grow.
+- [Ente.io](https://ente.io/) - Encrypted backups for photos and videos. ([HN](https://news.ycombinator.com/item?id=28347439))

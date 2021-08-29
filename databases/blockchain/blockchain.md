@@ -37,11 +37,13 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Axie Infinity](https://axieinfinity.com/) - New type of game, partially owned and operated by its players. ([White Paper](https://whitepaper.axieinfinity.com/))
 - [fractional.art](https://fractional.art/) - Fractional ownership of NFTs.
 - [Spectre](https://spectre.xyz/) - Spectralized art for all. ([GitHub](https://github.com/spectrexyz))
+- [Blitmap](https://www.blitmap.com/) - Community crafted sci-fantasy universe.
 
 ## Notes
 
 - [As blockchain scalability gets better and better, and UX improves and fees drop as a result, this will become a bigger and bigger part of the story.](https://twitter.com/vitalikbuterin/status/1072158957999771648)
 - [For any given file on the internet, it is unknowable now many NFTs might be pointing to it. So putting aside all the questions about what "ownership" actually means in this context (spoiler: almost nothing), it's not possible to know who owns a file just by looking at the file.](https://twitter.com/felixsalmon/status/1381616082868436992)
+- [NFTs are being wash traded. That’s when the buyer and the seller are secretly the same person.](https://twitter.com/JWWeatherman_/status/1431373325842923527)
 
 ## Links
 
@@ -188,3 +190,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [BitGo](https://www.bitgo.com/) - Institutional Digital Asset Platform.
 - [TerraSwap](https://github.com/terraswap/terraswap) - Uniswap-inspired automated market-maker (AMM) protocol powered by Smart Contracts on the Terra blockchain.
 - [Terra](https://www.terra.money/) - Powering the innovation of money.
+- [Blockchains and "legitimacy" (2021)](https://twitter.com/sriramk/status/1432034458085904386)
