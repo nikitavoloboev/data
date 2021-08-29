@@ -456,6 +456,7 @@
 - [Hyperlink](https://github.com/python-hyper/hyperlink) - Immutable, Pythonic, correct URLs.
 - [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist) - Runtime software verification and automated testing for scientific software in Python.
 - [xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets.
+- [pmdarima](https://github.com/alkaline-ml/pmdarima) - Statistical library designed to fill the void in Python's time series analysis capabilities.
 
 ## Links
 

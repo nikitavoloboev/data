@@ -108,3 +108,4 @@
 - [Svelte + Capacitor](https://github.com/drannex42/svelte-capacitor) - Build hybrid mobile apps using Svelte and CapacitorJS with live reloading on Android and iOS.
 - [PostgreSQL, PostgREST and Svelte are a bliss to develop with](https://webgma.co.il/Articles/rapid-prototyping-with-postgrest-and-svelte/en/)
 - [Svelte - Web App Development Reimagined • Mark Volkmann (2021)](https://www.youtube.com/watch?v=4CGzFwHoD0A&list=PLEx5khR4g7PKSASVAXXiAhkyx02_OeruP)
+- [macOS Web: Why I moved from React to Svelte (2021)](https://dev.to/puruvj/macos-web-why-i-moved-from-react-to-svelte-4mkp) ([Tweet](https://twitter.com/puruvjdev/status/1431965546916896770))

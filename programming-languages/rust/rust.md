@@ -543,3 +543,4 @@
 - [Pin, Unpin, and why Rust needs them (2021)](https://blog.cloudflare.com/pin-and-unpin-in-rust/)
 - [Awesome Rust Formalized Reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning)
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/) ([Code](https://github.com/rust-hosted-langs/book))
+- [Cargo B(inary)Install](https://github.com/ryankurte/cargo-binstall) - Binary installation for rust projects.

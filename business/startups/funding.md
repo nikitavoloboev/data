@@ -46,6 +46,7 @@
 - [Raising a round from strategic angels is only helpful if you actually know how to leverage them. I am seeing some founders really lean into this and turn their investors into a community.](https://twitter.com/austin_rief/status/1378921515916361731)
 - [When you raise capital, you're typically raising to get to key metrics to be able to raise more capital. Knowing that, tell me what KPIs you plan to hit with your raise.](https://twitter.com/lpolovets/status/1387229726071087104)
 - [A great investment deck takes, at least, 30 days of full-time work. Anything less than that, and, trust me you don't have a great deck.](https://twitter.com/AleResnik/status/1346190661356175360)
+- [Most common advice I share with very early-stage founders on fundraising: For the most part, assume you can’t educate investors. Go back to your list and qualify, qualify, qualify. Don’t talk to pagans. Your job is to preach to the converted.](https://twitter.com/lucasbagnocv/status/1431692210513326083)
 
 ## Links
 
