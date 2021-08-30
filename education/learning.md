@@ -143,3 +143,4 @@
 - [Matter](https://getmatter.app/) - Social reading app for articles, blogs, and newsletters. ([Twitter](https://twitter.com/getmatterapp))
 - [Opinionated Guides](https://opguides.info/)
 - [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/) ([HN](https://news.ycombinator.com/item?id=28254630))
+- [Programming, Math, Science Links](https://github.com/bobeff/programming-math-science) ([HN](https://news.ycombinator.com/item?id=28349475))

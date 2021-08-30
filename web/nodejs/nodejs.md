@@ -241,3 +241,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Hello Yarn 2, Goodbye node_modules (2021)](https://freddixx.medium.com/hello-yarn-2-goodbye-node-modules-21d97afc1a75) ([HN](https://news.ycombinator.com/item?id=28122318))
 - [PureORM](https://github.com/craigmichaelmartin/pure-orm) - Node.js SQL toolkit for writing native SQL queries yielding pure business objects.
 - [stream-json](https://github.com/uhop/stream-json) - Micro-library of node.js stream components with minimal dependencies for creating custom data processors oriented on processing huge JSON files.
+- [Edge](https://github.com/edge-js/edge) - Node.js templating engine with fresh air.

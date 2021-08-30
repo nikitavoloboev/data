@@ -26,3 +26,4 @@
 - [Introducing Firefox’ new Site Isolation Security Architecture (2021)](https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/)
 - [The Firefox Experiments I Would Have Liked To Try (2019)](https://www.ianbicking.org/blog/2019/03/firefox-experiments-i-would-have-liked.html)
 - [Guide to Firefox Containers (2018)](https://www.thechiefmeat.com/guides/containers.html) ([HN](https://news.ycombinator.com/item?id=28353876))
+- [Temporary Containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers.

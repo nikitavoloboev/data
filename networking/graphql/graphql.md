@@ -228,3 +228,4 @@
 - [Building A GraphQL Server With Next.js (2021)](https://lyonwj.com/blog/graphql-server-next-js-neo4j-aura-vercel)
 - [GraphCDN](https://github.com/StarpTech/GraphCDN) - Cache POST GraphQL Requests on Cloudflare edges with zero configuration.
 - [graphql-sse](https://github.com/enisdenjo/graphql-sse) - Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client.
+- [clairvoyance](https://github.com/nikitastupin/clairvoyance) - Obtain GraphQL API schema despite disabled introspection.

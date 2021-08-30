@@ -102,3 +102,5 @@
 - [Mastering Web Scraping in Python: Crawling from Scratch (2021)](https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch) ([HN](https://news.ycombinator.com/item?id=28142002))
 - [Data-Mining Wikipedia for Fun and Profit (2021)](https://billpg.com/data-mining-wikipedia/) ([HN](https://news.ycombinator.com/item?id=28234122))
 - [Wikidata or Scraping Wikipedia](http://simia.net/wiki/Wikidata_or_scraping_Wikipedia) ([HN](https://news.ycombinator.com/item?id=28277749))
+- [pyspider](https://github.com/binux/pyspider) - Powerful Spider (Web Crawler) System in Python. ([Docs](http://docs.pyspider.org/en/latest/))
+- [Python-Goose](https://github.com/grangier/python-goose) - HTML Content / Article Extractor, web scrapping lib in Python.

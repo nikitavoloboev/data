@@ -25,3 +25,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Plex-Trakt-Sync](https://github.com/Taxel/PlexTraktSync) - Python script that syncs the movies, shows and ratings between trakt and Plex.
 - [Tomatotree.tv](https://tomatotree.tv/) - Find your next series to watch using Rotten Tomatoes. ([HN](https://news.ycombinator.com/item?id=28051563))
 - [Nestflix](https://nestflix.fun/) - For your favorite nested films and shows. ([HN](https://news.ycombinator.com/item?id=28189435))
+- [media-sort](https://github.com/jpillora/media-sort) - Automatically organize your movies and TV series.
