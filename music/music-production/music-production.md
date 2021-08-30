@@ -226,3 +226,4 @@
 - [Functional, Declarative Audio Applications (2021)](https://www.nickwritesablog.com/functional-declarative-audio-applications/)
 - [Midicircuit](https://midicircuit.com/) - Learn music with your Midi Instrument.
 - [EMOPIA: A Multi-Modal Pop Piano Dataset For Emotion Recognition and Emotion-based Music Generation (2021)](https://arxiv.org/abs/2108.01374) ([Code](https://github.com/annahung31/EMOPIA))
+- [Music Composition with Deep Learning: A Review (2021)](https://arxiv.org/abs/2108.12290) ([HN](https://news.ycombinator.com/item?id=28353358))

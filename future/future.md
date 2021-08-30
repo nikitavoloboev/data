@@ -71,3 +71,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Marc Andreessen - Making the Future (2021)](https://overcast.fm/+Lzu2EMPqk)
 - [Speculating Futures](http://speculatingfutures.club/) - Solarpunky reading list.
 - [Industries to radically change in future (2021)](https://twitter.com/m_franceschetti/status/1418996176578351104)
+- [What type of companies/industry do you think will be one of the biggest 20 years from now but doesn’t exist at the moment. (2021)](https://www.reddit.com/r/stocks/comments/pe8tsa/what_type_of_companiesindustry_do_you_think_will/)

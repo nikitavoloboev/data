@@ -244,6 +244,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Diffchecker](https://www.diffchecker.com/) - Compare text differences between two text files.
 - [Reform](https://www.reform.app/) - Hosted forms. No code required. ([Launch Article](https://www.reform.app/launch/))
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
+- [Helm](https://thehelm.com/) - Encrypted Email, Contacts, Calendar and Files. ([HN](https://news.ycombinator.com/item?id=28350466))
 - [Murmur](https://www.murmur.com/) - Collaborative platform where teams create, test, scale, and share working agreements.
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
 - [btw](https://www.btw.so/) - Open source platform to understand, engage and convert your visitors into customers.

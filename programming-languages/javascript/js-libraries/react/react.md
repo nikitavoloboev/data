@@ -258,3 +258,4 @@
 - [React Children And Iteration Methods (2021)](https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/)
 - [A Visual Guide to React Rendering (2021)](https://alexsidorenko.com/blog/react-render-always-rerenders/) ([HN](https://news.ycombinator.com/item?id=28239692))
 - [React render tracker](https://github.com/lahmatiy/react-render-tracker) - Tool to discover performance issues related to unintended re-renders.
+- [Tips for structuring React apps (2021)](https://www.reddit.com/r/reactjs/comments/pecpou/where_can_i_learn_to_structure_my_code_like_a_pro/)
