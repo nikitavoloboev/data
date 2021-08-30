@@ -133,3 +133,5 @@
 - [The Bomber Mafia - A Story Set in War (2021)](https://www.penguin.co.uk/books/445/445716/the-bomber-mafia/9780241535004.html)
 - [The Armchair Historian - YouTube](https://www.youtube.com/c/TheArmchairHistorian/featured)
 - [Armchair History TV](https://armchairhistory.tv/)
+- [Ancient Rome in 20 minutes](https://www.youtube.com/watch?v=46ZXl-V4qwY)
+- [Ancient Greece in 18 minutes](https://www.youtube.com/watch?v=gFRxmi4uCGo)
