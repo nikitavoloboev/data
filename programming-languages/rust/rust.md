@@ -544,3 +544,5 @@
 - [Awesome Rust Formalized Reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning)
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/) ([Code](https://github.com/rust-hosted-langs/book))
 - [Cargo B(inary)Install](https://github.com/ryankurte/cargo-binstall) - Binary installation for rust projects.
+- [Optimizing Immutable Strings in Rust (2021)](https://dev.to/somedood/optimizing-immutable-strings-in-rust-2ahj)
+- [Hexagonal architecture in Rust (2021)](https://alexis-lozano.com/hexagonal-architecture-in-rust-1/)

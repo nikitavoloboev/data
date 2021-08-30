@@ -244,3 +244,4 @@
 - [JSON:API](https://jsonapi.org/) - Specification for building APIs in JSON. ([Code](https://github.com/json-api/json-api))
 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) ([HN](https://news.ycombinator.com/item?id=28295348))
 - [Adding Optimistic Locking to an API (2021)](https://www.moderntreasury.com/journal/designing-ledgers-with-optimistic-locking) ([HN](https://news.ycombinator.com/item?id=28314623))
+- [Data-first API design (2021)](https://cuddly-octo-palm-tree.com/posts/2021-08-29-data-api/)

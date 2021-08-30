@@ -60,3 +60,4 @@
 - [Uxn](https://wiki.xxiivv.com/site/uxn.html) - 8-bit virtual computer inspired by forth-machines, capable of running simple tools and games programmable in its own unique assembly language. ([Tutorial](https://compudanzas.net/uxn_tutorial.html)) ([Tweet](https://twitter.com/hundredrabbits/status/1418394255022645256))
 - [Three fundamental flaws of SIMD (2021)](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
 - [iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for .NET, Rust, Python, JavaScript.
+- [All about Global Offset Table (2021)](https://maskray.me/blog/2021-08-29-all-about-global-offset-table)

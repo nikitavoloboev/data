@@ -108,3 +108,4 @@
 - [Linux in a Pixel Shader – A RISC-V Emulator for VRChat (2021)](https://blog.pimaker.at/texts/rvc1/) ([HN](https://news.ycombinator.com/item?id=28312632))
 - [rvc](https://github.com/PiMaker/rvc) - 32-bit RISC-V emulator in a shader (and C).
 - [Building a RISC-V CPU Core](https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core)
+- [Accelerating ML Recommendation with over a Thousand RISC-V/Tensor Processors on Esperanto’s ET-SoC-1 Chip (2021)](https://www.esperanto.ai/wp-content/uploads/2021/08/HC2021.Esperanto.Ditzel.Final_.pdf)

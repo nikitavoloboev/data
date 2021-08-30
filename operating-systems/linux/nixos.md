@@ -141,3 +141,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS Ocean Sprint](https://oceansprint.org/)
 - [NixOS on the Framework (2021)](https://grahamc.com/blog/nixos-on-framework)
 - [NixOS-Infect](https://github.com/elitak/nixos-infect) - Script to install NixOS on non-NixOS hosts.
+- [Application Isolation using NixOS Containers (2021)](https://msucharski.eu/posts/application-isolation-nixos-containers/)

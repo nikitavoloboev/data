@@ -210,3 +210,4 @@
 - [Distributed Tracing — we’ve been doing it wrong (2019)](https://copyconstruct.medium.com/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df)
 - [How To Design A Reliable Distributed Timer (2021)](https://0x709394.me/How-To%20Design%20A%20Reliable%20Distributed%20Timer)
 - [raft-engine](https://github.com/tikv/raft-engine) - WAL-is-data engine that used to store multi-raft log.
+- [Three Clocks are Better than One](https://www.tigerbeetle.com/post/three-clocks-are-better-than-one)
