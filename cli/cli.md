@@ -61,3 +61,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Lobsters: What interesting command line tools do you use? (2021)](https://lobste.rs/s/yfgwjr/what_interesting_command_line_tools_do)
 - [binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
 - [Command line tools for productive programmers (2021)](https://earthly.dev/blog/command-line-tools/) ([HN](https://news.ycombinator.com/item?id=27992073))
+- [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html) ([HN](https://news.ycombinator.com/item?id=28354194))

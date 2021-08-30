@@ -528,3 +528,4 @@ Go promotes composition over inheritance.
 - [HN: Generics enabled by default in Go tip (2021)](https://news.ycombinator.com/item?id=28253692)
 - [Error stack traces in Go with x/xerror (2021)](https://brandur.org/fragments/go-xerror) ([HN](https://news.ycombinator.com/item?id=28283263))
 - [How to best handle DB migrations in Go (2021)](https://twitter.com/joncalhoun/status/1431774088914145286)
+- [In Go, pointers (mostly) don't go with slices in practice (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoSlicesVsPointers) ([HN](https://news.ycombinator.com/item?id=28344938))
