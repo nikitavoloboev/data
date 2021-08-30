@@ -129,3 +129,4 @@
 - [Docker container security cheat sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) ([HN](https://news.ycombinator.com/item?id=28043198))
 - [Docker Layer Caching in GitHub Actions](https://github.com/satackey/action-docker-layer-caching)
 - [Linux is dead, long-live Docker monoculture (2021)](https://antranigv.am/weblog_en/posts/2021-08-13-13-37/) ([Lobsters](https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker)) ([HN](https://news.ycombinator.com/item?id=28264054))
+- [Which validations do you run between "docker build" and "kubectl apply"? (2021)](https://twitter.com/ahmetb/status/1432407849318039554)
