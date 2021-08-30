@@ -24,3 +24,4 @@
 - ["Hello, Triangle" WebGPU and Dawn](https://github.com/cwoffenden/hello-webgpu)
 - [WebGPU: Implementation Status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status)
 - [Porting our game graphics to wgpu (2021)](https://veloren.net/devblog-125/)
+- [Access modern GPU features with WebGPU (2021)](https://web.dev/gpu/)

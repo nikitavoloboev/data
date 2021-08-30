@@ -49,3 +49,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Vegan Fitness Reddit](https://www.reddit.com/r/veganfitness/) - Place to come and discuss vegan fitness, bodybuilding, and health.
 - [Labriculture Now (2021)](https://logicmag.io/distribution/labriculture-now/) - Time to disrupt the toxic animal agriculture industry with bioreactor-brewed meat.
 - [Lab-made dairy products are now a reality (2021)](https://www.newscientist.com/article/mg25133470-900-real-milk-no-cows-needed-lab-made-dairy-products-are-now-a-reality/) ([HN](https://news.ycombinator.com/item?id=28195201))
+- [Alternative Milks (2021)](https://blog.bramp.net/post/2021/04/03/alternative-milks/) ([HN](https://news.ycombinator.com/item?id=28356136))

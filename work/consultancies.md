@@ -228,3 +228,4 @@
 - [The Prosperous Software Consultant (2018)](https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd) ([HN](https://news.ycombinator.com/item?id=27605835))
 - [wellpaid.io](https://wellpaid.io/) - Recruiter-free contractor marketplace.
 - [On Deck Freelancers](https://beondeck.com/freelancers)
+- [Ask HN: What is the highest consulting rate that you have come across, in tech? (2021)](https://news.ycombinator.com/item?id=28356047)
