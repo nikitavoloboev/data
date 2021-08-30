@@ -81,6 +81,6 @@
 - [Chamomile](https://github.com/cypherlink/chamomile) - Build a robust stable connection on p2p network.
 - [CypherLink](https://cypherlink.io/) - Building a new distributed security network. ([GitHub](https://github.com/cypherlink))
 - [TDN](https://github.com/cypherlink/TDN) - Trusted Distributed Network. (Also micro-framework for building blockchain-like DApp).
-- [ThreadDB](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p.
+- [ThreadDB](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p. ([Docs](https://docs.textile.io/threads/))
 - [Bamboo](https://github.com/AljoschaMeyer/bamboo) - Cryptographically secure, distributed, single-writer append-only log that supports transitive partial replication and local deletion of data.
 - [p2panda](https://p2panda.org/) - p2p communications protocol for playful, secure, data-efficient, offline- and local-first web apps. ([GitHub](https://github.com/p2panda)) ([Spec](https://github.com/p2panda/design-document))
