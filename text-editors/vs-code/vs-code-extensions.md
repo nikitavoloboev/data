@@ -410,3 +410,4 @@ Below is a list of extensions I use.
 - [Open VSX Registry](https://open-vsx.org/) - Open-source registry for VS Code extensions. ([Code](https://github.com/EclipseFdn/open-vsx.org))
 - [VS Code Theme Editor](https://themes.vscode.one/) - Create VS Code Themes Easily. ([HN](https://news.ycombinator.com/item?id=26579936))
 - [VSColors](https://www.vscolors.com/)
+- [vscode-chrome-debug-core](https://github.com/microsoft/vscode-chrome-debug-core) - Library for building VS Code debug adapters for targets that support the Chrome Debugging Protocol.

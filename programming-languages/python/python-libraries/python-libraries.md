@@ -489,3 +489,4 @@
 - [conda-devenv](https://github.com/ESSS/conda-devenv) - Conda tool to work with multiple projects in development mode.
 - [luddite](https://github.com/jumptrading/luddite) - Checks for out-of-date package versions.
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing) - Useful resources for scientific computing and numerical analysis.
+- [Grayskull](https://github.com/conda-incubator/grayskull) - Recipe generator for Conda.

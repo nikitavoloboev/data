@@ -41,3 +41,5 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Asianometry - YouTube](https://www.youtube.com/c/Asianometry/featured) - Video essays about Asia.
 - [10 myths about China you often hear that are patently false (2021)](https://twitter.com/RealNatashaChe/status/1413513292195057672)
 - [Arm China Has Gone Rogue (2021)](https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century) ([HN](https://news.ycombinator.com/item?id=28329731))
+- [Xi Jinping unleashes the new purge (2021)](https://www.youtube.com/watch?v=-EPJt-a4Nb8)
+- [Why didn't Communism Collapse in China as in other countries? (2020)](https://www.youtube.com/watch?v=JRcckYRWSVU)
