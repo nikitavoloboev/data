@@ -191,3 +191,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [TerraSwap](https://github.com/terraswap/terraswap) - Uniswap-inspired automated market-maker (AMM) protocol powered by Smart Contracts on the Terra blockchain.
 - [Terra](https://www.terra.money/) - Powering the innovation of money.
 - [Blockchains and "legitimacy" (2021)](https://twitter.com/sriramk/status/1432034458085904386)
+- [opensea.rs](https://github.com/gakonst/opensea-rs) - Rust bindings & CLI to the Opensea API and Contracts.

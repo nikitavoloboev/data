@@ -56,3 +56,4 @@
 - [Flutter with Native Go Libraries (2021)](https://openprivacy.ca/discreet-log/09-flutter-with-native-go-libraries/)
 - [Flutter Hooks](https://github.com/rrousselGit/flutter_hooks) - Flutter implementation of React hooks.
 - [A vector format for Flutter (2021)](https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg/edit#heading=h.8crpi5305nr)
+- [Moor](https://github.com/simolus3/moor) - Reactive persistence library for Flutter and Dart, built ontop of SQLite.

@@ -19,3 +19,4 @@
 - [Apollo Prophecy](https://github.com/theGlenn/apollo-prophecy) - Command tool to generate errors files for your Appolo Server and Client.
 - [Apollo Invalidation Policies](https://github.com/NerdWalletOSS/apollo-invalidation-policies) - Extension of the Apollo 3 cache with support for type-based invalidation policies.
 - [Apollo Studio](https://studio.apollographql.com/) - Cloud platform that helps you build, validate, and secure your organization's data graph. ([Issues](https://github.com/apollographql/apollo-studio-community))
+- [apollo-augmented-hooks](https://github.com/appmotion/apollo-augmented-hooks) - Drop-in replacements for @apollo/client's useQuery, useMutation and useSubscription hooks with reduced overhead and additional functionality.

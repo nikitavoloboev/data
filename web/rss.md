@@ -104,3 +104,5 @@
 - [RSS feeds for arbitrary websites using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/) ([HN](https://news.ycombinator.com/item?id=27739568))
 - [Streambus](https://streambus.com/) - Publish videos on RSS, just like podcasts.
 - [Canard](https://github.com/mrusme/canard) - Command line TUI client for the journalist RSS aggregator.
+- [RSS3](https://github.com/NaturalSelectionLabs/RSS3) - Open protocol designed for content and social networks in the Web 3.0 era. ([Web](https://rss3.io/))
+- [RSSerpent](https://github.com/RSSerpent/RSSerpent) - Open-source software that create RSS feeds for websites that do not provide any.

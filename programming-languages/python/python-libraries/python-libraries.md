@@ -457,6 +457,7 @@
 - [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist) - Runtime software verification and automated testing for scientific software in Python.
 - [xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets.
 - [pmdarima](https://github.com/alkaline-ml/pmdarima) - Statistical library designed to fill the void in Python's time series analysis capabilities.
+- [perfplot](https://github.com/nschloe/perfplot) - Performance analysis for Python.
 
 ## Links
 
@@ -487,3 +488,4 @@
 - [Python 3 Module of the Week](https://pymotw.com/3/) - Articles written by Doug Hellmann to demonstrate how to use the modules of the Python 3 standard library.
 - [conda-devenv](https://github.com/ESSS/conda-devenv) - Conda tool to work with multiple projects in development mode.
 - [luddite](https://github.com/jumptrading/luddite) - Checks for out-of-date package versions.
+- [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing) - Useful resources for scientific computing and numerical analysis.

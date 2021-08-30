@@ -331,3 +331,4 @@
 - [clip-retrieval](https://github.com/rom1504/clip-retrieval) - Easily computing clip embeddings and building a clip retrieval system with them.
 - [NVIDIA NeMo](https://github.com/NVIDIA/NeMo) - Toolkit for conversational AI.
 - [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://github.com/ofirpress/attention_with_linear_biases)
+- [BEIR](https://github.com/UKPLab/beir) - Heterogeneous benchmark containing diverse IR tasks. It also provides a common and easy framework for evaluation of your NLP-based retrieval models within the benchmark.
