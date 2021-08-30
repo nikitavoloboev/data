@@ -925,6 +925,7 @@
 - [Gallium](https://github.com/ComLarsic/gallium_ecs) - Simple entity-component-system crate for rust with serialization support.
 - [dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe.
 - [Obake](https://github.com/doctorn/obake) - Versioned data-structures for Rust.
+- [futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Concurrency extensions for Future.
 
 ## Cargo Plugins
 
