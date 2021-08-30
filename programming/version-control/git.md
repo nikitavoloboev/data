@@ -281,3 +281,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Monorepo vs. polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo)
 - [From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo](https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-monorepo/) ([HN](https://news.ycombinator.com/item?id=28220113))
 - [Octopilot](https://github.com/dailymotion-oss/octopilot) - Automate your Gitops workflow, by automatically creating/merging GitHub Pull Requests. ([Web](https://dailymotion-oss.github.io/octopilot/))
+- [Awesome git addons](https://github.com/stevemao/awesome-git-addons)
