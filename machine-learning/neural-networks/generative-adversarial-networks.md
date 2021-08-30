@@ -126,7 +126,7 @@
 - [Diffusion Models Beat GANs on Image Synthesis (2021)](https://arxiv.org/abs/2105.05233) ([Code](https://github.com/openai/guided-diffusion))
 - [Realless](https://realless.glitch.me/) - Ways To Use Generative Adversarial Networks In Art.
 - [LARGE: Latent-Based Regression through GAN Semantics (2021)](https://arxiv.org/abs/2107.11186) ([Code](https://github.com/YotamNitzan/LARGE))
-- [Introduction to Deep Generative Modeling: Examples](https://github.com/jmtomczak/intro_dgm)
+- [Introduction to Deep Generative Modeling: Examples](https://github.com/jmtomczak/intro_dgm) ([Web](https://jmtomczak.github.io/blog/10/10_ddgms_lvm_p2.html))
 - [Awesome GANs](https://github.com/nightrome/really-awesome-gan)
 - [GAN Awesome Applications](https://github.com/nashory/gans-awesome-applications)
 - [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163) ([Code](https://github.com/poolio/unrolled_gan))
