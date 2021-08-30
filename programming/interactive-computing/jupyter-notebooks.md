@@ -134,3 +134,4 @@
 - [Naas templates](https://github.com/jupyter-naas/awesome-notebooks)
 - [JupyterWith](https://github.com/tweag/jupyterWith) - Declarative and reproducible Jupyter environments - powered by Nix.
 - [Jupyter Enterprise Gateway](https://github.com/jupyter/enterprise_gateway) - Lightweight, multi-tenant, scalable and secure gateway that enables Jupyter Notebooks to share resources across distributed clusters such as Apache Spark, Kubernetes and others.
+- [akernel](https://github.com/davidbrochart/akernel) - Asynchronous Python Jupyter kernel, with optional reactive programming.

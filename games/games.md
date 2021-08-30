@@ -114,6 +114,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Rusted Ruins](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.
 - [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Turn-based survival game set in a post-apocalyptic world. ([Code](https://github.com/CleverRaven/Cataclysm-DDA))
 - [Widelands](https://github.com/widelands/widelands) - Free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. ([Web](https://www.widelands.org)) ([HN](https://news.ycombinator.com/item?id=28196178))
+- [Doomsday Engine](https://dengine.net/) - Doom / Heretic / Hexen port with enhanced graphics. ([Code](https://github.com/skyjake/Doomsday-Engine))
 
 ## Awesome games (other)
 
