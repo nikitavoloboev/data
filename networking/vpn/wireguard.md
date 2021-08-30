@@ -43,3 +43,4 @@
 - [The WireGuard VPN challenge of provisioning clients (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WireGuardProvisioningChallenge) ([Lobsters](https://lobste.rs/s/fynvif/wireguard_vpn_challenge_provisioning))
 - [wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
 - [Tailscale IP address by hostname with jq](https://gist.github.com/jc00ke/06ab088b9f889b551ef3fea7b970b97d)
+- [Autowire](https://github.com/elghazal-a/autowire) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.

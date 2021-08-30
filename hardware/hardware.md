@@ -150,7 +150,7 @@
 - [ChampSim](https://github.com/ChampSim/ChampSim) - Trace-based simulator for a microarchitecture study.
 - [Clockwork](https://github.com/dillonhuff/clockwork) - Polyhedral Analysis for Hardware Accelerators.
 - [ACE: Apple Type-C Port Controller Secrets (2020)](https://blog.t8012.dev/ace-part-1/) ([HN](https://news.ycombinator.com/item?id=25579286))
-- [MyHDL](https://github.com/myhdl/myhdl) - Design hardware with Python. ([Web](http://www.myhdl.org/))
+- [MyHDL](https://github.com/myhdl/myhdl) - Design hardware with Python. ([Web](https://www.myhdl.org/))
 - [Morris Chang, Taiwan Semiconductor Manufacturing, Engineering Hero Lecture (2014)](https://www.youtube.com/watch?v=wEh3ZgbvBrE)
 - [Memory-Centric Computing Systems (2020)](https://www.youtube.com/watch?v=H3sEaINPBOE)
 - [Tenstorrent](https://www.tenstorrent.com/) - Scalable and Efficient Hardware for Deep Learning.

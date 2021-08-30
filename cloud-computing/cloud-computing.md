@@ -77,3 +77,4 @@
 - [Self taught guide to cloud computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
 - [Cloud Cost Handbook](https://handbook.vantage.sh/) ([Code](https://github.com/vantage-sh/handbook))
 - [Alicorn](https://alicorncloud.io/) - Easily move between AWS, GCP and Azure. ([HN](https://news.ycombinator.com/item?id=28167349))
+- [When AWS, Azure, or GCP Becomes the Competition (2019)](https://www.gkogan.co/blog/big-cloud/) ([HN](https://news.ycombinator.com/item?id=28351951))
