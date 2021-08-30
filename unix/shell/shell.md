@@ -18,6 +18,7 @@ All active variables can be seen by running `env`.
 
 ## Links
 
+- [Effective Shell](https://effective-shell.com/) ([Code](https://github.com/dwmkerr/effective-shell))
 - [Explain Shell](https://www.explainshell.com/)
 - [Introduction to POSIX Shell](http://drewdevault.com/2018/02/05/Introduction-to-POSIX-shell.html)
 - [Yoshua's notes](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/shell.html)
