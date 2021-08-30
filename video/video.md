@@ -279,3 +279,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Nebula](https://nebula.app/) - Smart, thoughtful videos from your favorite education-y creators.
 - [How We Shoot an MKBHD Intro (2021)](https://www.youtube.com/watch?v=pKfbSzTumXk)
 - [Robust High-Resolution Video Matting with Temporal Guidance](https://peterl1n.github.io/RobustVideoMatting/#/) ([Code](https://github.com/PeterL1n/RobustVideoMatting))
+- [The Fatiguing Effects of Camera Use in Virtual Meetings (2021)](https://psycnet.apa.org/fulltext/2021-77825-003.pdf) ([HN](https://news.ycombinator.com/item?id=28351687))
