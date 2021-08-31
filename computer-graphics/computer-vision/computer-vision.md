@@ -363,3 +363,4 @@
 - [Depth-supervised NeRF: Fewer Views and Faster Training for Free (2021)](https://www.cs.cmu.edu/~dsnerf/) ([Code](https://github.com/dunbar12138/DSNeRF))
 - [SwinIR: Image Restoration Using Swin Transformer (2021)](https://arxiv.org/abs/2108.10257) ([Code](https://github.com/JingyunLiang/SwinIR))
 - [You Only Learn One Representation: Unified Network for Multiple Tasks (2021)](https://arxiv.org/abs/2105.04206) ([Code](https://github.com/WongKinYiu/yolor))
+- [Probabilistic Modeling for Human Mesh Recovery (2021)](https://arxiv.org/abs/2108.11944) ([Code](https://github.com/nkolot/ProHMR))

@@ -34,3 +34,5 @@
 - [Whitelab](http://thewhitelab.org/) - Using Simulation and Machine Learning to Understand Chemistry and Design Materials. ([GitHub](https://github.com/ur-whitelab))
 - [MatDeepLearn](https://github.com/vxfung/MatDeepLearn) - Package for graph neural networks in materials chemistry.
 - [Graph neural network for predicting NMR chemical shifts](https://github.com/ur-whitelab/nmrgnn)
+- [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry)
+- [Awesome Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics)

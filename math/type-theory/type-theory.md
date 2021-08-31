@@ -144,3 +144,4 @@
 - [The Hardest Problem in Type Theory [Uniqueness of Identity Proofs] (2021)](https://www.youtube.com/watch?v=m_PecfbEWik)
 - [Notes on type theory](https://github.com/ionathanch/ttzoo)
 - [You Could Have Invented De Bruijn Indices (2021)](https://golem.ph.utexas.edu/category/2021/08/you_could_have_invented_de_bru.html)
+- [type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms in Haskell.

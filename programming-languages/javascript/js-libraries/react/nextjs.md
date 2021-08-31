@@ -43,6 +43,7 @@
 - [Supabase NextJS Auth](https://github.com/dabit3/supabase-nextjs-auth) - Magic Link Authentication and Route Controls with Supabase and Next.js.
 - [next-bucket](https://github.com/application-research/next-bucket) - Template to start a project easily with NextJS and Textile Buckets.
 - [graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind.
+- [Nextjs-auth-prisma boilerplate](https://github.com/huv1k/nextjs-auth-prisma) - Build bleeding-edge full-stack applications using Next.js, GraphQL, TypeScript and Prisma.
 
 ## NextJS plugins
 

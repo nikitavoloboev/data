@@ -64,3 +64,4 @@
 - [sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH. Open source serveo/ngrok alternative.
 - [Rospo](https://github.com/ferama/rospo) - Simple and reliable ssh tunnels with embedded ssh server in Go.
 - [vSSH](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale.
+- [sshportal](https://github.com/moul/sshportal) - Jump host/Jump server without the jump, a.k.a Transparent SSH bastion.

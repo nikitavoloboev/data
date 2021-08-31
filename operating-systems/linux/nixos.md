@@ -143,3 +143,5 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS-Infect](https://github.com/elitak/nixos-infect) - Script to install NixOS on non-NixOS hosts.
 - [Application Isolation using NixOS Containers (2021)](https://msucharski.eu/posts/application-isolation-nixos-containers/)
 - [Mobile NixOS](https://github.com/NixOS/mobile-nixos) - Superset on top of NixOS Linux, Nixpkgs and Nix, aiming to abstract away the differences between mobile devices. ([Web](https://mobile.nixos.org/))
+- [NixOS Beginner's Handbook](https://github.com/kstenerud/nixos-beginners-handbook)
+- [Template for developing/testing NixOS modules](https://github.com/ngi-nix/nixos-modules-flake-template)

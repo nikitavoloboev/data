@@ -929,6 +929,7 @@
 - [Obake](https://github.com/doctorn/obake) - Versioned data-structures for Rust.
 - [futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Concurrency extensions for Future.
 - [Hypergraph](https://github.com/yamafaktory/hypergraph) - Data structure library to generate directed hypergraphs.
+- [cast](https://github.com/japaric/cast.rs) - Ergonomic, checked cast functions for primitive types.
 
 ## Cargo Plugins
 

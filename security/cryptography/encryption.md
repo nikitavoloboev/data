@@ -44,3 +44,4 @@
 - [Awesome Homomorphic Encryption](https://github.com/jonaschn/awesome-he)
 - [Concrete](https://github.com/zama-ai/concrete) - Set of crates that implements Zama's variant of TFHE. In a nutshell, fully homomorphic encryption (FHE).
 - [Zama](https://zama.ai/) - End-to-end encryption for AI. ([GitHub](https://github.com/zama-ai))
+- [PQ Crypto Catalog](https://github.com/kriskwiatkowski/pqc) - Reference implementations of post-quantum cryptographic primitives.

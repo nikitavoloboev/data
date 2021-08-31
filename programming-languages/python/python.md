@@ -312,5 +312,5 @@
 - [PyArmor](https://github.com/dashingsoft/pyarmor) - Tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts. ([Web](http://pyarmor.dashingsoft.com/))
 - [The State Of Python In 2021](https://deprogrammaticaipsum.com/the-state-of-python-in-2021/)
 - [Framework Patterns (2019)](https://blog.startifact.com/posts/framework-patterns.html#) ([HN](https://news.ycombinator.com/item?id=28098578))
-- [The best Docker base image for your Python application (2021)](https://pythonspeed.com/articles/base-image-python-docker-images/)
+- [The best Docker base image for your Python application (2021)](https://pythonspeed.com/articles/base-image-python-docker-images/) ([Lobsters](https://lobste.rs/s/jclep1/best_docker_base_image_for_your_python))
 - [Skybison](https://github.com/facebookexperimental/skybison) - Instagram's experimental performance oriented greenfield implementation of Python.
