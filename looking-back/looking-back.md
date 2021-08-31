@@ -15,6 +15,7 @@ I do monthly reflections on life here. Comes as part of [my newsletter](https://
 - [May](2021/2021-may.md)
 - [June](2021/2021-june.md)
 - [July](2021/2021-july.md)
+- [August](2021/2021-august.md)
 
 ## [2020](2020/2020.md)
 
