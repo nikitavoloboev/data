@@ -145,3 +145,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Mobile NixOS](https://github.com/NixOS/mobile-nixos) - Superset on top of NixOS Linux, Nixpkgs and Nix, aiming to abstract away the differences between mobile devices. ([Web](https://mobile.nixos.org/))
 - [NixOS Beginner's Handbook](https://github.com/kstenerud/nixos-beginners-handbook)
 - [Template for developing/testing NixOS modules](https://github.com/ngi-nix/nixos-modules-flake-template)
+- [Deploying a NixOS configuration into a QEMU VM (2020)](https://alpmestan.github.io/notes/nixos-qemu.html)

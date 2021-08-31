@@ -101,3 +101,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [How to write a resume that converts](https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords) ([HN](https://news.ycombinator.com/item?id=27112542))
 - [Marking up my Curriculum Vitae with Microformats2 (2021)](https://www.jvt.me/posts/2021/05/25/microformats-resume/)
 - [Ask HN: for senior positions is it advisable to list side projects on your CV? (2021)](https://news.ycombinator.com/item?id=27905277)
+- [Resume.io](https://resume.io/) - Free online resume maker.
