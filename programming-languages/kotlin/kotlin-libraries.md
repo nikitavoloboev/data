@@ -26,6 +26,7 @@
 - [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.
 - [Hoplite](https://github.com/sksamuel/hoplite) - Boilerplate-free Kotlin config library for loading configuration files as data classes.
 - [Splitties](https://github.com/LouisCAD/Splitties) - Collection of hand-crafted extensions for your Kotlin projects.
+- [AWS SDK for Kotlin](https://github.com/awslabs/aws-sdk-kotlin)
 
 ## Links
 

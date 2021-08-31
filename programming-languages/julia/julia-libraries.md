@@ -268,6 +268,7 @@
 - [IterTools.jl](https://github.com/JuliaCollections/IterTools.jl) - Common functional iterator patterns.
 - [MethodAnalysis](https://github.com/timholy/MethodAnalysis.jl) - Utilities to analyze Julia's method tables.
 - [Strided.jl](https://github.com/Jutho/Strided.jl) - Julia package for strided array views and efficient manipulations thereof.
+- [LispSyntax.jl](https://github.com/swadey/LispSyntax.jl) - Clojure-like lisp syntax for julia.
 
 ## Links
 

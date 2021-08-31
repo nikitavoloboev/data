@@ -124,3 +124,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Revealed: the true extent of America’s food monopolies, and who pays the price (2021)](https://www.theguardian.com/environment/ng-interactive/2021/jul/14/food-monopoly-meals-profits-data-investigation)
 - [Three billion people cannot afford a healthy diet (2021)](https://ourworldindata.org/diet-affordability) ([Tweet](https://twitter.com/MaxCRoser/status/1422429018918375433)) ([HN](https://news.ycombinator.com/item?id=28047687))
 - [Let's talk about brain food (2021)](https://www.reddit.com/r/Nootropics/comments/p7hm5p/lets_talk_about_brain_food/)
+- [What are your favourite foods from your childhood?](https://www.reddit.com/r/AskARussian/comments/peib2y/what_are_your_favourite_foods_from_your_childhood/)
