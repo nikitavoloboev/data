@@ -174,6 +174,7 @@
 - [ts-fix](https://github.com/microsoft/ts-fix) - CLI for applying TypeScript codefixes.
 - [io-ts-transformer](https://github.com/awerlogus/io-ts-transformer) - TypeScript transformer which converts TypeScript types to io-ts entities.
 - [Awesome TypeScript Ecosystem](https://github.com/madou/awesome-typescript-ecosystem) - List of awesome TypeScript transformers, plugins, handbooks, etc.
+- [typescript-run](https://github.com/saurabhdaware/typescript-run) - Run TypeScript files at lightning speed.
 
 ## Images
 

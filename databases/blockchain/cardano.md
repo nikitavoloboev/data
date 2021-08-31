@@ -37,3 +37,4 @@
 - [Guide to Cardano](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/)
 - [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program)
 - [Functional smart contracts on Cardano (2020)](https://www.youtube.com/watch?v=MpWeg6Fg0t8)
+- [Cardano Hydra Explained (2021)](https://www.reddit.com/r/cardano/comments/pf25jk/without_hydra_cardano_probably_wont_be_faster/)

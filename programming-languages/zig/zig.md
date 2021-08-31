@@ -59,3 +59,4 @@
 - [Zig wrinkles (2021)](https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h) ([Lobsters](https://lobste.rs/s/4pz3qg/zig_wrinkles))
 - [Zig pathtracer (2021)](http://msinilo.pl/blog2/post/zig-pathtracer/) ([HN](https://news.ycombinator.com/item?id=28114957))
 - [Async engines in C++20, Rust, & Zig (2021)](https://www.youtube.com/watch?v=Ws3jC6AJC_4)
+- [Android Apps in Zig](https://github.com/MasterQ32/ZigAndroidTemplate) - Contains a example on how to create a minimal Android app in Zig.

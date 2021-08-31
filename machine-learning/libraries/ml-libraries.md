@@ -183,3 +183,4 @@
 - [chitra](https://github.com/aniketmaurya/chitra) - Multi-functional library for full-stack Deep Learning. It simplifies Model Building, API development, and Model Deployment.
 - [DoubleML](https://github.com/DoubleML/doubleml-for-py) - Double Machine Learning in Python.
 - [jaxfg](https://github.com/brentyi/jaxfg) - Factor graphs and nonlinear optimization in JAX.
+- [pyltr](https://github.com/jma127/pyltr) - Python learning-to-rank toolkit with ranking models, evaluation metrics, data wrangling helpers, and more.

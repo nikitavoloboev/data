@@ -401,3 +401,4 @@
 - [Building PlanetScale with PlanetScale (2021)](https://planetscale.com/blog/building-planetscale-with-planetscale) ([HN](https://news.ycombinator.com/item?id=28223606))
 - [Database internals are becoming less important than developer experience (2021)](https://planetscale.com/blog/nonesql-all-the-devex) ([HN](https://news.ycombinator.com/item?id=28330297))
 - [Fastest table sort in the West – Redesigning DuckDB's sort (2021)](https://duckdb.org/2021/08/27/external-sorting.html) ([HN](https://news.ycombinator.com/item?id=28328657))
+- [Apache Iceberg](https://iceberg.apache.org/) - Table format for storing large, slow-moving tabular data. ([Code](https://github.com/apache/iceberg))
