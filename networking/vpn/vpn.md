@@ -42,3 +42,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [How do Mesh VPNs work? Writing my own VPN tool in Go to find out (2021)](https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/)
 - [Setting up a home VPN server with Wireguard (2019)](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
 - [vtun](https://github.com/net-byte/vtun) - Simple VPN written in Go.
+- [How does Apple Private Relay Work? (2021)](https://matduggan.com/how-does-apple-private-relay-work/)

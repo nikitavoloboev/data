@@ -65,3 +65,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Emergence of collective motor intelligence across millions of cells without the need for a nervous system](https://twitter.com/PrakashLab/status/1421431675746066440)
 - [Why extraterrestrial life may not seem alien (2021)](https://www.quantamagazine.org/arik-kershenbaum-on-why-alien-life-may-be-like-life-on-earth-20210318/) ([HN](https://news.ycombinator.com/item?id=28037850))
 - [Alien Dreams: The long history of speculation about extraterrestrials](https://thereader.mitpress.mit.edu/history-speculation-about-aliens/) ([HN](https://news.ycombinator.com/item?id=28049138))
+- [Books about the meaning of life and why life is worth living (2021)](https://www.reddit.com/r/suggestmeabook/comments/pehrwr/a_book_about_the_meaning_of_life_and_why_life_is/)

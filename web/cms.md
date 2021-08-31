@@ -26,3 +26,4 @@
 - [Prismic CMS](https://prismic.io/) - Headless Website Builder for Jamstack.
 - [GraphCMS](https://graphcms.com/) - API-first GraphQL Headless CMS.
 - [FireCMS](https://github.com/Camberi/firecms) - Awesome Firestore based CMS. ([Web](https://firecms.co/))
+- [New Strapi live demo: FoodAdvisor v2 using Strapi & Next.js (2021)](https://strapi.io/blog/foodadvisor-v2)

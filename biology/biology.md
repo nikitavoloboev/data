@@ -78,3 +78,4 @@
 - [Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures (2020)](https://www.goodreads.com/book/show/52668915-entangled-life) ([Summary](https://twitter.com/paraschopra/status/1419295390730317828))
 - [Emergence of growth and dormancy from a kinetic model of the Escherichia coli central carbon metabolism (2021)](https://www.biorxiv.org/content/10.1101/2021.07.21.453212v1) ([Tweet](https://twitter.com/yusuke_himeoka/status/1418257186476630016))
 - [Please, enough with the dead butterflies (2017)](https://www.emilydamstra.com/please-enough-dead-butterflies/) ([HN](https://news.ycombinator.com/item?id=27948008))
+- [Alison Pollack's Marin Mushrooms Photos](https://www.instagram.com/marin_mushrooms/)
