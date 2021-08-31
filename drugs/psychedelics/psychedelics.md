@@ -50,6 +50,8 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [Some people think they’ve transcended the ego when that’s really their ego talking.](https://www.reddit.com/r/RationalPsychonaut/comments/n6bxie/narcissism_in_the_psychedelic_community/)
 - [I think psychedelics often times just reinforce existing personal traits.](https://www.reddit.com/r/RationalPsychonaut/comments/n6bxie/narcissism_in_the_psychedelic_community/)
 - [The brain is very susceptible to this sort of "I'll never recover. Thing will always be this way." type of thinking. People who get high for the first time start thinking it's going to last forever, after only minutes to an hour of being high! The brain is really bad at predicting future mental and emotional states, but very good at convincing you that its predictions are absolutely correct.](https://www.reddit.com/r/RationalPsychonaut/comments/oape6y/might_kill_myself/)
+- [While we should take our perceptions seriously, we should not take them literally.](https://www.reddit.com/r/RationalPsychonaut/comments/pf3ym7/what_are_some_of_the_weirdest_things_youve_heard/)
+- [The most persistent thing I see on the various psychedelic subreddits is the notion that our waking sober reality is an illusion and that the trip reality is more real.](https://www.reddit.com/r/RationalPsychonaut/comments/pf3ym7/what_are_some_of_the_weirdest_things_youve_heard/)
 
 ## Links
 

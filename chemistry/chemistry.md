@@ -33,3 +33,4 @@
 - [exmol](https://github.com/ur-whitelab/exmol) - Explainer for black box models that predict molecule properties.
 - [Whitelab](http://thewhitelab.org/) - Using Simulation and Machine Learning to Understand Chemistry and Design Materials. ([GitHub](https://github.com/ur-whitelab))
 - [MatDeepLearn](https://github.com/vxfung/MatDeepLearn) - Package for graph neural networks in materials chemistry.
+- [Graph neural network for predicting NMR chemical shifts](https://github.com/ur-whitelab/nmrgnn)

@@ -359,3 +359,4 @@
 - [DebConf21 Schedule](https://debconf21.debconf.org/schedule/)
 - [I switched from macOS to Linux after 15 years of Apple (2021)](https://markosaric.com/linux/) ([HN](https://news.ycombinator.com/item?id=28320404))
 - [PatchELF](https://github.com/NixOS/patchelf) - Small utility to modify the dynamic linker and RPATH of ELF executables.
+- [Ask HN: Why don’t you use Linux as your daily driver OS? (2021)](https://news.ycombinator.com/item?id=28366644)

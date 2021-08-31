@@ -179,3 +179,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Another free CA as an alternative to Let's Encrypt (2021)](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/) ([HN](https://news.ycombinator.com/item?id=28244246))
 - [RBAC like it was meant to be (2021)](https://tailscale.com/blog/rbac-like-it-was-meant-to-be/)
 - [Secure Software Development Fundamentals Courses](https://openssf.org/edx-courses/) ([Code](https://github.com/ossf/secure-sw-dev-fundamentals))
+- [Blocksec CTFs](https://github.com/openblocksec/blocksec-ctfs) - Curated list of blockchain security Capture the Flag (CTF) competitions.

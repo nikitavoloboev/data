@@ -764,3 +764,4 @@
 - [docc2html](https://github.com/DoccZz/docc2html) - Static site generator for DocC documentation archives.
 - [Swift Package Manager framework creation in Xcode (2020)](https://www.avanderlee.com/swift/creating-swift-package-manager-framework/)
 - [swift-package-editor](https://github.com/owenv/swift-package-editor) - Mechanical editing support for Package.swift manifests.
+- [Create your own Swift Package and release it on Github.com (2021)](https://medium.com/@przemek.jablonski/create-your-own-swift-package-and-release-it-on-github-com-e47a642c259e)
