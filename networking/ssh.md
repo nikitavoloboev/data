@@ -63,3 +63,4 @@
 - [ReverseSSH](https://github.com/Fahrj/reverse-ssh) - Lightweight SSH server behaving like a reverse shell.
 - [sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH. Open source serveo/ngrok alternative.
 - [Rospo](https://github.com/ferama/rospo) - Simple and reliable ssh tunnels with embedded ssh server in Go.
+- [vSSH](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale.

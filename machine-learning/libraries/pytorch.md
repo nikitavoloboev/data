@@ -269,3 +269,4 @@
 - [PonderNet: Learning to Ponder](https://nn.labml.ai/adaptive_computation/ponder_net/index.html) ([HN](https://news.ycombinator.com/item?id=28164583))
 - [PyNIF3D](https://github.com/pfnet/pynif3d) - Open-source PyTorch-based library for research on neural implicit functions (NIF)-based 3D geometry representation.
 - [PyGCL](https://github.com/GraphCL/PyGCL) - Graph Contrastive Learning Library for PyTorch.
+- [Fast Transformer - PyTorch](https://github.com/lucidrains/fast-transformer-pytorch)

@@ -157,6 +157,7 @@
 - [Skytable](https://github.com/skytable/skytable) - Extremely fast, secure and reliable real-time NoSQL database with automated snapshots and TLS. ([Web](https://skytable.io/))
 - [IceFireDB](https://github.com/gitsrc/IceFireDB) - Distributed disk storage database based on Raft and Redis protocol. ([HN](https://news.ycombinator.com/item?id=28257243))
 - [RefineDB](https://github.com/losfair/RefineDB) - Strongly-typed document database that runs on any transactional key-value store.
+- [Engula](https://engula.com/) - Cloud-native storage engine for next-generation data infrastructures. ([Code](https://github.com/engula/engula))
 
 ## Tools
 

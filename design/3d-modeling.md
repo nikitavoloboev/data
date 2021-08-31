@@ -52,3 +52,4 @@
 - [Poly Haven](https://polyhaven.com/) - Public Asset Library.
 - [Truck](https://github.com/ricosjp/truck) - Rust CAD kernel.
 - [Cubic Stylization](https://www.dgp.toronto.edu/projects/cubic-stylization/) - 3D stylization algorithm that can turn an input shape into the style of a cube while maintaining the content of the original shape. ([Code](https://github.com/HTDerekLiu/CubicStylization_Cpp))
+- [GCode Preview](https://gcode-preview.web.app/) - Preview a 3d print from a gcode file. ([Code](https://github.com/remcoder/gcode-preview))
