@@ -9,6 +9,10 @@
 
 - [Neo](https://github.com/unicredit/neo) - Provides basic linear algebra operations for Nim applications.
 
+## Graphics
+
+- [Nodesnim](https://github.com/Ethosa/nodesnim) - Nim GUI/2D framework, based on OpenGL and SDL2.
+
 ## Other
 
 - [Arraymancer](https://github.com/mratsim/Arraymancer) - N-dimensional tensor (ndarray) library.

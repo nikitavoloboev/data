@@ -13,3 +13,4 @@
 - [The State Of Web Workers In 2021](https://www.smashingmagazine.com/2021/06/web-workers-2021/)
 - [esbuild-plugin-inline-worker](https://github.com/mitschabaude/esbuild-plugin-inline-worker) - Esbuild loader for inline Web Workers.
 - [Partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive 3rd-party scripts off of the main thread and into a web worker.
+- [main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Consistently responsive apps while staying on the main thread.

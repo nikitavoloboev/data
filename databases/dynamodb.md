@@ -58,3 +58,4 @@
 - [AWS DynamoDB Component](https://github.com/serverless-components/aws-dynamodb) - Easily provision AWS DynamoDB tables using Serverless Components.
 - [AWS DynamoDBtoCSV](https://github.com/edasque/DynamoDBtoCSV) - Dump DynamoDB data into a CSV file.
 - [dynm](https://github.com/kocisov/dynm) - Utility for easier interaction with DynamoDB.
+- [raiden-dynamo](https://github.com/raiden-rs/raiden-dynamo) - DynamoDB library for Rust.

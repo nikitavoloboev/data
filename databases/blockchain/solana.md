@@ -65,3 +65,4 @@
 - [Socean](https://www.socean.fi/) - Stake with the best validators, secure the network, and take part in the Solana DeFi ecosystem. ([Tweet](https://twitter.com/SoceanFinance/status/1421152202039590912))
 - [solana/wallet-adapter](https://github.com/solana-labs/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
 - [Solanart](https://solanart.io/) - Discover, collect and trade NFTs.
+- [Solana.py](https://github.com/michaelhly/solana-py) - Solana Python SDK.

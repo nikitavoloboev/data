@@ -124,3 +124,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Building a trillion dollar crypto business (2021)](http://myprasanna.blogspot.com/2021/07/building-trillion-dollar-crypto-business.html)
 - [Enzyme Finance](https://enzyme.finance/) - On-chain Asset Management.
 - [CoinParticle](https://www.coinparticle.com/) - Cryptocurrency Visualizations & Prices.
+- [Trust Wallet Assets Info](https://github.com/trustwallet/assets) - Comprehensive, up-to-date collection of information about several thousands of crypto tokens.

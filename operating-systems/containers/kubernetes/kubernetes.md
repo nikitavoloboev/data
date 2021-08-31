@@ -423,4 +423,4 @@
 - [KubeSurvival](https://github.com/aporia-ai/kubesurvival) - Significantly reduce Kubernetes costs by finding the cheapest machine types that can run your workloads.
 - [A Kubernetes engineer's guide to mTLS (2021)](https://buoyant.io/mtls-guide/)
 - [Awesome Home Kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home.
-- [Civo Kubernetes](https://www.civo.com/) - Fast, Simple, Managed Kubernetes Service.
+- [Civo Kubernetes](https://www.civo.com/) - Fast, Simple, Managed Kubernetes Service. ([GitHub](https://github.com/civo))

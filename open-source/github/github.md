@@ -253,3 +253,5 @@ I publish most of my work and make it open source for other people to use and re
 - [Enhanced Support for Citations on GitHub (2021)](https://github.blog/2021-08-19-enhanced-support-citations-github/) ([HN](https://news.ycombinator.com/item?id=28253293))
 - [GitHunt](https://kamranahmed.info/githunt/) - Hunt the most starred projects on any date on GitHub. ([Code](https://github.com/kamranahmedse/githunt))
 - [10 Fun Things You Can Do With GitHub.dev (2021)](https://dev.to/lostintangent/10-awesome-things-you-can-do-with-github-dev-5fm7)
+- [GitHub Users Global Ranking](https://wangchujiang.com/github-rank/index.html) ([Code](https://github.com/jaywcjlove/github-rank))
+- [GitHub Repositories Ranking](https://wangchujiang.com/github-rank/repos.html)

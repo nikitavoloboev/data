@@ -232,3 +232,4 @@
 - [Policy Gradient Methods for Reinforcement Learning with Function Approximation (1999)](https://papers.nips.cc/paper/1999/hash/464d828b85b0bed98e80ade0a5c43b0f-Abstract.html)
 - [For a beginner, what are the most influential papers in the history of RL? (2021)](https://www.reddit.com/r/reinforcementlearning/comments/p8rd7z/for_a_beginner_what_are_the_most_influential/)
 - [rliable](https://github.com/google-research/rliable) - Open-source library for reliable evaluation on reinforcement learning and machine learnings benchmarks.
+- [d3rlpy](https://github.com/takuseno/d3rlpy) - Offline deep reinforcement learning library. ([Web](https://takuseno.github.io/d3rlpy/))
