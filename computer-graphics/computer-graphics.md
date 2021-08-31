@@ -170,3 +170,4 @@
 - [Neural Subdivision](https://www.dgp.toronto.edu/projects/neural-subdivision/) - Novel framework for data-driven coarse-to-fine geometry modeling. ([Code](https://github.com/HTDerekLiu/neuralSubdiv))
 - [An Introduction to Deep Learning on Meshes](https://anintroductiontodeeplearningonmeshes.github.io/) ([Tutorials](https://github.com/AnIntroductionToDeepLearningOnMeshes/tutorials))
 - [NPMs: Neural Parametric Models for 3D Deformable Shapes](https://pablopalafox.github.io/npms/) ([Code](https://github.com/pablopalafox/npms))
+- [Chaikin’s Algorithm: Drawing Curves (2021)](https://www.bit-101.com/blog/2021/08/chaikins-algorithm-drawing-curves/) ([HN](https://news.ycombinator.com/item?id=28353464))

@@ -535,3 +535,4 @@
 - [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 - [Machine & Deep Learning Compendium](https://book.mlcompendium.com/) ([Code](https://github.com/orico/www.mlcompendium.com))
 - [Differentiable Factor Graph Optimization for Learning Smoothers (2021)](https://github.com/brentyi/dfgo)
+- [A visual introduction to Gaussian Belief Propagation (2021)](https://gaussianbp.github.io/) ([HN](https://news.ycombinator.com/item?id=28367177))

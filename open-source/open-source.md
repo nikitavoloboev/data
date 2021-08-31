@@ -21,6 +21,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Even if your product’s entire source code gets leaked, it won’t be catastrophic. Code is past. Ability is present. Vision is future. Majority of value lies in your and team’s collective ability to not fuck up in the present and iterate into the future.](https://twitter.com/paraschopra/status/1294564969757831169)
 - [This is what leads to burnout, abandoned projects, and churn. When we prioritize OSS availability/quality over the well being of their maintainers, it doesn't necessarily lead to the optimal outcome. We are putting code before people.](https://twitter.com/youyuxi/status/1337444375132049412)
 - [Want to become a contributor to a project but don't know where to start? Subscribe to the project's notifications! By reading notifications for issues and PRs, you'll gain valuable context about the project, code, and maintainer views that helps build your mental model.](https://twitter.com/grow_love/status/1397192559953391620)
+- [Popularity != Quality. Especially for choosing project dependencies.](https://www.youtube.com/watch?v=f8x80EK6Tps)
 
 ## Links
 
