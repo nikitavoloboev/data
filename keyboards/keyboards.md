@@ -131,3 +131,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [keyd](https://github.com/rvaiya/keyd) - Key remapping daemon for linux.
 - [Going mouseless](https://felipecortez.net/blog/mouseless.html) ([HN](https://news.ycombinator.com/item?id=28045342))
 - [Keyboard Legend](https://www.keyboardlegend.dev/) - Learn how to build your own mechanical keyboard.
+- [Chordie](https://github.com/kbjunky/Chordie) - Chording keyboard you shouldn't be scared of.

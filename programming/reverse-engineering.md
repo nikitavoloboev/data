@@ -88,3 +88,4 @@
 - [Miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python.
 - [Pwning Home Router - Linksys WRT54G (2021)](https://elongl.github.io/exploitation/2021/05/30/pwning-home-router.html) ([Lobsters](https://lobste.rs/s/c9994a/pwning_home_router_linksys_wrt54g))
 - [Reverse Engineering the M6 Smart Fitness Bracelet (2021)](https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html)
+- [Asteria: Deep Learning-based AST-Encoding for Cross-platform Binary Code Similarity Detection (2021)](https://arxiv.org/abs/2108.06082) ([Code](https://github.com/Asteria-BCSD/Asteria)) ([Reddit](https://www.reddit.com/r/ReverseEngineering/comments/pf1bth/asteria_deep_learningbased_astencoding_for/))
