@@ -107,3 +107,4 @@
 - [RSS3](https://github.com/NaturalSelectionLabs/RSS3) - Open protocol designed for content and social networks in the Web 3.0 era. ([Web](https://rss3.io/))
 - [RSSerpent](https://github.com/RSSerpent/RSSerpent) - Open-source software that create RSS feeds for websites that do not provide any.
 - [An Analysis of Feed URLs (2021)](https://blog.jim-nielsen.com/2021/feed-urls/)
+- [FeedMixer](https://github.com/cristoper/feedmixer) - Self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON).
