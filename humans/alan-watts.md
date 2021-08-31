@@ -19,7 +19,7 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [Story of the Chinese Farmer](https://www.youtube.com/watch?v=b_onYOLnELI)
 - [Music and Life](https://www.youtube.com/watch?v=WGoTmNU_5A0)
 - [Life is NOT a Journey](https://www.youtube.com/watch?v=rBpaUICxEhk)
-- [The Inevitable Ecstasy - Alan Watts](https://www.youtube.com/watch?v=K6sZQOADpt0)
+- [The Inevitable Ecstasy](https://www.youtube.com/watch?v=K6sZQOADpt0)
 
 ## Interesting talks
 
@@ -28,9 +28,10 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [The Ways In Which The Material World Is An Illusion](https://www.youtube.com/watch?v=_l0ZqjhQzks)
 - [The Real Purpose of Doing Anything](https://www.youtube.com/watch?v=QMpJm_dYbx0)
 - [Alan Watts full TV series](https://www.youtube.com/playlist?list=PL02D3110151849463)
-- [Alan Watts - The World You Create In Your Mind](https://www.youtube.com/watch?v=oo_c_r9mgBM)
+- [The World You Create In Your Mind](https://www.youtube.com/watch?v=oo_c_r9mgBM)
 - [Becoming Free Of Past Karma](https://www.youtube.com/watch?v=xwKQdAt2CPU)
 - [Living in the present (boat analogy)](https://www.youtube.com/watch?v=G4j6cUwCRmI)
+- [Letting Go](https://www.youtube.com/watch?v=xea7s-xcY4s)
 
 ## Mixed in music
 

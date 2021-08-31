@@ -29,6 +29,7 @@
 
 - [Salvo](https://github.com/salvo-rs/salvo) - Simple Rust web framework.
 - [ntex](https://github.com/ntex-rs/ntex) - Framework for composable networking services.
+- [Sauron](https://github.com/ivanceras/sauron) - Versatile web framework and library for building client-side and server-side web applications. ([HN clone in Sauron](https://github.com/ivanceras/hackernews-sauron))
 - [Isahc](https://github.com/sagebind/isahc) - Practical HTTP client that is fun to use.
 - [tide-acme](https://github.com/http-rs/tide-acme) - Automatic HTTPS certificates for Tide, via Let's Encrypt and ACME tls-alpn-01 challenges.
 - [preroll](https://github.com/eaze/preroll) - Easy boilerplate utilities for Rust http services which use async-std, Tide, Surf, and friends. ([Tweet](https://twitter.com/Fishrock123/status/1374072772737998848))
@@ -927,6 +928,7 @@
 - [dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe.
 - [Obake](https://github.com/doctorn/obake) - Versioned data-structures for Rust.
 - [futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Concurrency extensions for Future.
+- [Hypergraph](https://github.com/yamafaktory/hypergraph) - Data structure library to generate directed hypergraphs.
 
 ## Cargo Plugins
 

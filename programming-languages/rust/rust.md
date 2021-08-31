@@ -546,3 +546,4 @@
 - [Cargo B(inary)Install](https://github.com/ryankurte/cargo-binstall) - Binary installation for rust projects.
 - [Optimizing Immutable Strings in Rust (2021)](https://dev.to/somedood/optimizing-immutable-strings-in-rust-2ahj)
 - [Hexagonal architecture in Rust (2021)](https://alexis-lozano.com/hexagonal-architecture-in-rust-1/)
+- [Using SIMD acceleration in rust to create the world’s fastest tac (2021)](https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/) ([Lobsters](https://lobste.rs/s/wdfmrj/using_simd_acceleration_rust_create))
