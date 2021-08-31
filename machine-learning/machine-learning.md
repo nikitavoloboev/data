@@ -533,3 +533,4 @@
 - [Painless Uncertainty for Deep Learning (2021)](https://www.machinelearningforscience.de/en/painless-uncertainty-for-deep-learning/)
 - [How to avoid machine learning pitfalls: a guide for academic researchers (2021)](https://arxiv.org/abs/2108.02497)
 - [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+- [Machine & Deep Learning Compendium](https://book.mlcompendium.com/) ([Code](https://github.com/orico/www.mlcompendium.com))

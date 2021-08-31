@@ -138,3 +138,4 @@
 - [Rate-limiting strategies and techniques](https://cloud.google.com/architecture/rate-limiting-strategies-techniques)
 - [HTTP Security Headers (2021)](https://kerkour.com/blog/http-security-headers/)
 - [HTTP/2: The Sequel is Always Worse (2021)](https://portswigger.net/research/http2) ([HN](https://news.ycombinator.com/item?id=28080097)) ([Lobsters](https://lobste.rs/s/ig6xuj/http_2_sequel_is_always_worse))
+- [VCR.py](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing.

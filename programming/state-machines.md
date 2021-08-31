@@ -10,3 +10,4 @@
 - [I Accidentally Wrote A Compile-Time Executable State Machine (2020)](https://philippegroarke.com/posts/2020/constexpr_fsm/)
 - [Statecharts: a visual formalism for complex systems (1987)](https://www.sciencedirect.com/science/article/pii/0167642387900359)
 - [Benchmark of Finite State Machine approaches](https://github.com/newpavlov/fsm-bench)
+- [XState Visualizer](https://stately.ai/viz) - Visualizer for XState machines. ([Code](https://github.com/statelyai/xstate-viz))

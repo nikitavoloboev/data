@@ -204,3 +204,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Saw](https://github.com/TylerBrock/saw) - Fast, multi-purpose tool for AWS CloudWatch Logs.
 - [JetKit/CDK](https://github.com/jetbridge/jetkit-cdk) - Cloud-native TypeScript API development kit for AWS CDK. ([Web](https://www.jetkit.dev/))
 - [AWS EventBridge Canon](https://github.com/boyney123/eventbridge-canon) - Simple UI to Publish, Save and Share AWS EventBridge Events. ([Web](https://eventbridge-canon.netlify.app/))
+- [Amazon Elastic Kubernetes Service (Amazon EKS) Best Practices](https://aws.github.io/aws-eks-best-practices/) ([Code](https://github.com/aws/aws-eks-best-practices))

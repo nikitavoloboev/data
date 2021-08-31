@@ -243,6 +243,7 @@
 - [go-sqlite3-js](https://github.com/matrix-org/go-sqlite3-js) - Go SQL driver for sqlite3 in browser (sql.js) from go-wasm.
 - [Authority](https://github.com/harranali/authority) - Role Based Access Control (RBAC) with database persistence.
 - [pggen](https://github.com/opendoor/pggen) - Database first code generator focused on postgres. ([Article](https://medium.com/opendoor-labs/announcing-pggen-a-golang-orm-alternative-a34191f614c8))
+- [gosq](https://github.com/sanggonlee/gosq) - Parsing engine for a simplicity-focused, template-based SQL query builder for Go.
 
 ## ML
 
@@ -295,6 +296,7 @@
 - [zerocopy](https://github.com/acln0/zerocopy) - Zero-copy I/O primitives and pipelines for Go. Linux-specific.
 - [nftables](https://github.com/google/nftables) - Manipulates Linux nftables (the iptables successor).
 - [libbpfgo](https://github.com/aquasecurity/libbpfgo) - Go library for working with Linux's eBPF.
+- [Sysinfo](https://github.com/zcalusic/sysinfo) - Go library providing Linux OS / kernel / hardware system information.
 
 ## Error
 

@@ -361,3 +361,5 @@
 - [Align Deep Features for Oriented Object Detection (2020)](https://arxiv.org/abs/2008.09397) ([Code](https://github.com/csuhan/s2anet))
 - [Vision-Language Transformer and Query Generation for Referring Segmentation (2021)](https://arxiv.org/abs/2108.05565) ([Code](https://github.com/henghuiding/Vision-Language-Transformer))
 - [Depth-supervised NeRF: Fewer Views and Faster Training for Free (2021)](https://www.cs.cmu.edu/~dsnerf/) ([Code](https://github.com/dunbar12138/DSNeRF))
+- [SwinIR: Image Restoration Using Swin Transformer (2021)](https://arxiv.org/abs/2108.10257) ([Code](https://github.com/JingyunLiang/SwinIR))
+- [You Only Learn One Representation: Unified Network for Multiple Tasks (2021)](https://arxiv.org/abs/2105.04206) ([Code](https://github.com/WongKinYiu/yolor))
