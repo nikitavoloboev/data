@@ -344,3 +344,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Smart Phone, Dumb Terminal (2021)](https://www.charlieharrington.com/smart-phone-dumb-terminal)
 - [Scanning your iPhone for Pegasus, NSO Group's malware (2021)](https://arkadiyt.com/2021/07/25/scanning-your-iphone-for-nso-group-pegasus-malware/)
 - [Everything has Changed in iOS 14, but Jailbreak is Eternal (2021)](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Everything-Has-Changed-In-IOS-14-But-Jailbreak-Is-Eternal.pdf)
+- [Bypassing hotspot limits on iOS (2021)](https://blog.cyrusroshan.com/post/phone-data-hotspot)

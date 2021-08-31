@@ -1007,3 +1007,4 @@
 - [Doku](https://github.com/anixe/doku) - Framework for building documentation with code-as-data methodology in mind.
 - [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - Library to easily and effortlessly integrate Cargo projects with Nix.
 - [version-sync](https://github.com/mgeisler/version-sync) - Keep your Version Numbers in Sync with Cargo.toml.
+- [Rust core for native Android and iOS apps](https://github.com/ivanschuetz/rust_android_ios) - How to use a shared Rust core in native Android and iOS apps.

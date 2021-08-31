@@ -65,3 +65,4 @@
 - [Rospo](https://github.com/ferama/rospo) - Simple and reliable ssh tunnels with embedded ssh server in Go.
 - [vSSH](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale.
 - [sshportal](https://github.com/moul/sshportal) - Jump host/Jump server without the jump, a.k.a Transparent SSH bastion.
+- [Two cable SSH: the fastest Raspberry Pi setup (2020)](https://blog.cyrusroshan.com/post/two-cable-ssh)
