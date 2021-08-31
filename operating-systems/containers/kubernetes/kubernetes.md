@@ -423,3 +423,4 @@
 - [Harbormaster](https://gitlab.com/stavros/harbormaster) - Anti-Kubernetes for your personal server. ([HN](https://news.ycombinator.com/item?id=28231747))
 - [KubeSurvival](https://github.com/aporia-ai/kubesurvival) - Significantly reduce Kubernetes costs by finding the cheapest machine types that can run your workloads.
 - [A Kubernetes engineer's guide to mTLS (2021)](https://buoyant.io/mtls-guide/)
+- [Awesome Home Kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home.

@@ -38,6 +38,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [fractional.art](https://fractional.art/) - Fractional ownership of NFTs.
 - [Spectre](https://spectre.xyz/) - Spectralized art for all. ([GitHub](https://github.com/spectrexyz))
 - [Blitmap](https://www.blitmap.com/) - Community crafted sci-fantasy universe.
+- [Loot](https://www.lootrng.com/) - Randomized adventurer gear generated and stored on chain.
 
 ## Notes
 

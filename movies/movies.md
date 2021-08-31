@@ -54,3 +54,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Wes Anderson Explains How to Write & Direct Movies (2019)](https://www.youtube.com/watch?v=Sdt0oam6O1o)
 - [What is the most visually stunning film you've ever seen? (2021)](https://www.reddit.com/r/MovieSuggestions/comments/pc0lk5/what_is_the_most_visually_stunning_film_youve/)
 - [Revisiting Call Me By Your Name. (2021)](https://www.youtube.com/watch?v=05nYXXeiNpo)
+- [Nice Sci-Fi movies to watch (2021)](https://merveilles.town/web/statuses/106846428910790532)

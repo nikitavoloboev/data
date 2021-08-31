@@ -91,3 +91,4 @@
 - [Rover](https://github.com/im2nguyen/rover) - Terraform Visualizer.
 - [Terradozer](https://github.com/jckuester/terradozer) - Takes a Terraform state file as input and destroys all resources it finds in it - without needing any \*.tf files.
 - [Scaleway Terraform Provider](https://github.com/scaleway/terraform-provider-scaleway)
+- [Terraform Provider: Snowflake](https://github.com/chanzuckerberg/terraform-provider-snowflake)
