@@ -4,4 +4,4 @@ Some time in Spain with family. More links/notes in wiki. Started to get more fa
 
 I also worked with [Memex](https://getmemex.com) briefly and it's an awesome tool, just need to [make it work for Safari first](https://github.com/WorldBrain/Memex/issues/1134) before I can invest more time in the project.
 
-Onwards. 🍃
+[Onwards. 🍃](https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ)

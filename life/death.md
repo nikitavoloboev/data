@@ -46,3 +46,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [On death and dying](https://jaredlunde.com/posts/philosophy/on-death-and-dying) - Timeline of my relationship with death, its inevitability, and my futile resistance.
 - [No Death, No Fear](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20No%20Death,%20No%20Fear.pdf)
 - [Saying Goodbye (What a Wonderful World)](https://www.youtube.com/watch?v=Hc5kDRs44wE) ([Reddit](https://www.reddit.com/r/videos/comments/o2c7mb/saying_goodbye_what_a_wonderful_world/))
+- [What’s the legacy you want to leave behind? (2021)](https://twitter.com/justinkan/status/1432154554515144708)

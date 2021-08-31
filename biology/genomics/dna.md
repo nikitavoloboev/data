@@ -55,3 +55,4 @@
 - [Biology brief: How DNA and proteins work (2021)](https://www.economist.com/schools-brief/2021/07/31/biology-brief-how-dna-and-proteins-work)
 - [Mirror image DNA polymerase has been engineered (2021)](https://mobile.twitter.com/NatureBiotech/status/1420795633955389444) ([HN](https://news.ycombinator.com/item?id=28009398))
 - [ENSnano](https://github.com/thenlevy/ensnano) - 3D graphical application for DNA nanostructures.
+- [Brain Cells Break Their DNA to Learn More Quickly (2021)](https://www.quantamagazine.org/brain-cells-break-their-dna-to-learn-more-quickly-20210830/)
