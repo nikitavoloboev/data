@@ -96,7 +96,7 @@
 - [Ask HN: How Do You Write Documentation (2021)](https://news.ycombinator.com/item?id=26446692)
 - [Ask HN: How do I improve boring README page? (2021)](https://news.ycombinator.com/item?id=26537805)
 - [Docuowl](https://github.com/docuowl/docuowl) - Generates a static single-page documentation from Markdown files.
-- [The Grand Unified Theory of Documentation](https://diataxis.fr/) ([HN](https://news.ycombinator.com/item?id=26824743))
+- [The Grand Unified Theory of Documentation](https://diataxis.fr/) ([HN](https://news.ycombinator.com/item?id=26824743)) ([Code](https://github.com/evildmp/diataxis-documentation-framework))
 - [Writing Docs at Amazon (2019)](https://blog.usejournal.com/writing-docs-at-amazon-e025808616bd)
 - [Word usage guidance and alternative terms](https://developers.google.com/style/word-list) ([HN](https://news.ycombinator.com/item?id=26860227))
 - [Why programmers don’t write documentation (2021)](https://kislayverma.com/programming/why-programmers-dont-write-documentation/) ([HN](https://news.ycombinator.com/item?id=27007105))

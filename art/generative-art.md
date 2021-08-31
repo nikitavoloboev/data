@@ -143,3 +143,4 @@
 - [Non-Circular Packing (2021)](https://ippsketch.com/posts/non-circular-packing/)
 - [Sketching - A Language for Creative Coding](https://soegaard.github.io/sketching/)
 - [The Rise of Long-Form Generative Art (2021)](https://tylerxhobbs.com/essays/2021/the-rise-of-long-form-generative-art)
+- [Integer Circle Algorithm (Minsky circle)](https://www.onirom.fr/ica.html)

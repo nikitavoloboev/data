@@ -144,3 +144,4 @@
 - [ColabFold](https://github.com/sokrypton/ColabFold) - Making Protein folding accessible to all via Google Colab.
 - [BioLink API](https://github.com/biolink/biolink-api) - API for linked biological knowledge.
 - [AlpahFold, a tentative review (2021)](https://cerebralab.com/AlpahFold,_a_tentative_review)
+- [htsget-rs](https://github.com/umccr/htsget-rs) - Bioinformatic file formats accessible to the web.

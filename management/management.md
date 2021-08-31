@@ -131,3 +131,4 @@
 - [Ruthless Prioritization (2017)](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
 - [Why it’s difficult to build teams in high growth organisations (2021)](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337) ([HN](https://news.ycombinator.com/item?id=28238762))
 - [Ask HN: Managing career progression for those with no interest in progressing? (2021)](https://news.ycombinator.com/item?id=28287617)
+- [Why We Don't Do Daily Stand-Ups at Supercede](https://jezenthomas.com/why-we-dont-do-daily-stand-ups-at-supercede/) ([Lobsters](https://lobste.rs/s/fear8c/why_we_don_t_do_daily_stand_ups_at_supercede))

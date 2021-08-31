@@ -348,3 +348,4 @@
 - [Never remove CSS outlines (2013)](https://www.a11yproject.com/posts/2013-01-25-never-remove-css-outlines/)
 - [PaperCSS](https://www.getpapercss.com/) - Less formal CSS framework. ([Code](https://github.com/papercss/papercss))
 - [The World of CSS Transforms](https://www.joshwcomeau.com/css/transforms/)
+- [An Interactive Guide to CSS Keyframe Animations](https://www.joshwcomeau.com/animation/keyframe-animations/)

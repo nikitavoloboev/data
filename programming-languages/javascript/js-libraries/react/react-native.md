@@ -4,6 +4,7 @@
 
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Pocket robot for your internet money, powered by Ethereum.
 - [SimpleShop](https://github.com/hoangvvo/SimpleShop) - Tiny app to manage inventory and keep track of orders and profits.
+- [Colorwaver](https://github.com/mrousavy/Colorwaver) - App to detect colorwaves (swatches/palettes) in the real world - powered by VisionCamera and Reanimated.
 
 ## Links
 

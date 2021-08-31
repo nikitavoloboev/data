@@ -143,3 +143,4 @@
 - [Bidirectional Typing Rules: A Tutorial (2013)](http://www.davidchristiansen.dk/tutorials/bidirectional.pdf) ([Code](https://github.com/luc-tielen/typesystem))
 - [The Hardest Problem in Type Theory [Uniqueness of Identity Proofs] (2021)](https://www.youtube.com/watch?v=m_PecfbEWik)
 - [Notes on type theory](https://github.com/ionathanch/ttzoo)
+- [You Could Have Invented De Bruijn Indices (2021)](https://golem.ph.utexas.edu/category/2021/08/you_could_have_invented_de_bru.html)
