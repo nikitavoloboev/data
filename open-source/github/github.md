@@ -255,3 +255,4 @@ I publish most of my work and make it open source for other people to use and re
 - [10 Fun Things You Can Do With GitHub.dev (2021)](https://dev.to/lostintangent/10-awesome-things-you-can-do-with-github-dev-5fm7)
 - [GitHub Users Global Ranking](https://wangchujiang.com/github-rank/index.html) ([Code](https://github.com/jaywcjlove/github-rank))
 - [GitHub Repositories Ranking](https://wangchujiang.com/github-rank/repos.html)
+- [gh-dependents](https://github.com/otiai10/gh-dependents) - gh command extension to see dependents of your repository.

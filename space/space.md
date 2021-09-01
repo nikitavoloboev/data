@@ -111,3 +111,4 @@
 - [Powering the Lunar Base (2021)](https://caseyhandmer.wordpress.com/2021/04/25/powering-the-lunar-base/) ([HN](https://news.ycombinator.com/item?id=28098853))
 - [The Orbit of Planet Nine (2021)](https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html) ([HN](https://news.ycombinator.com/item?id=28349201))
 - [1910 intro to Astronomy textbook, with the right amount of math](http://gron.ca/math/dupuis_1910/dupuis.pdf)
+- [Resources for deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)

@@ -16,4 +16,4 @@
 - [The Neo4j GraphQL Library Beta Release (2021)](https://medium.com/neo4j/announcing-the-neo4j-graphql-library-beta-99ae8541bbe7)
 - [InfraNodus](https://github.com/noduslabs/infranodus) - Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects. ([Web](https://infranodus.com/))
 - [neomap](https://github.com/stellasia/neomap) - Neo4j Desktop application to visualize nodes with geographic attributes on a map.
-- [No Cost Data Scraping With GitHub Actions And Neo4j Aura (2021)](https://lyonwj.com/blog/no-cost-data-scraping-github-actions-neo4j-aura)
+- [No Cost Data Scraping With GitHub Actions And Neo4j Aura (2021)](https://lyonwj.com/blog/no-cost-data-scraping-github-actions-neo4j-aura) ([Code](https://github.com/johnymontana/lobste.rs-graph))
