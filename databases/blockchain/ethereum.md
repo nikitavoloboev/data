@@ -269,3 +269,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [next-web3-boilerplate](https://github.com/mirshko/next-web3-boilerplate) - Slightly opinionated Web3 boilerplate based on Next.js and SWR.
 - [Harmony One](https://www.harmony.one/) - Scaling Ethereum Applications and Cross-Chain Finance.
 - [Go-Web3](https://github.com/umbracle/go-web3) - Ethereum Go API.
+- [Streaming Fast on Ethereum](https://github.com/streamingfast/streamingfast-client) - Stream Ethereum data like there's no tomorrow.

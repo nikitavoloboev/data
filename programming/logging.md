@@ -47,3 +47,4 @@
 - [pq](https://github.com/iximiuz/pq) - Parse and Query log files as time series.
 - [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice log files on the command line.
 - [Ostracon](https://github.com/nathanieltornow/ostracon) - Distributed “persistence-first” shared log.
+- [exo](https://github.com/deref/exo) - Process manager & log viewer for dev. ([Web](https://exo.deref.io/))

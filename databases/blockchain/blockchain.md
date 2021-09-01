@@ -198,4 +198,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Create Auction House](https://github.com/ourzora/create-auction-house) - Repo to bootstrap your own permissionless auction house with the Zora protocol.
 - [Blocksec Incidents](https://github.com/openblocksec/blocksec-incidents) - Curated list of blockchain security incidents including exchange hacks, DeFi compromises, blockchain attacks, and others.
 - [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape.
-- [Streaming Fast](https://streamingfast.io/) - Protocol infrastructure company that provides a massively scalable architecture for streaming blockchain data. ([GitHub](https://github.com/streamingfast))
+- [Streaming Fast](https://streamingfast.io/) - Protocol infrastructure company that provides a massively scalable architecture for streaming blockchain data. ([GitHub](https://github.com/streamingfast)) ([Code](https://github.com/streamingfast/streamingfast))
+- [Ren](https://renproject.io/) - Open protocol that enables the movement of value between blockchains. ([Twitter](https://twitter.com/renprotocol))
