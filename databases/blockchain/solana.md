@@ -68,3 +68,4 @@
 - [Solana.py](https://github.com/michaelhly/solana-py) - Solana Python SDK.
 - [Solsea](https://solsea.io/) - Open NFT Marketplace on Solana.
 - [Quarry](https://github.com/QuarryProtocol/quarry) - Open protocol for launching liquidity mining programs on Solana.
+- [solana-go](https://github.com/streamingfast/solana-go) - Go library for the Solana Blockchain.
