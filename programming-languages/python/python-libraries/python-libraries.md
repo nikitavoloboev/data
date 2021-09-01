@@ -491,3 +491,4 @@
 - [luddite](https://github.com/jumptrading/luddite) - Checks for out-of-date package versions.
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing) - Useful resources for scientific computing and numerical analysis.
 - [Grayskull](https://github.com/conda-incubator/grayskull) - Recipe generator for Conda.
+- [Cooperative Package Management for Python (2021)](https://lwn.net/SubscriberLink/867657/0efafb319ce20e3e/) ([HN](https://news.ycombinator.com/item?id=28376796))
