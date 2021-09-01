@@ -221,3 +221,4 @@
 - [Cat Printer](https://github.com/rbaron/catprinter) - Portable thermal printer.
 - [What scientists must know about hardware to write fast code (2021)](https://viralinstruction.com/posts/hardware/)
 - [Deviceplane](https://deviceplane.com/) - Securely access remote devices and servers.
+- [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote) ([HN](https://news.ycombinator.com/item?id=28374523))
