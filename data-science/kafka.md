@@ -57,3 +57,4 @@
 - [Conduktor](https://www.conduktor.io/) - Kafka Desktop Client. ([GitHub](https://github.com/conduktor))
 - [Event-driven OpenFaaS with Managed Kafka from Aiven (2021)](https://www.openfaas.com/blog/openfaas-kafka-aiven/)
 - [End-to-End Encryption through Kafka](https://github.com/ockam-network/ockam/tree/develop/documentation/use-cases/end-to-end-encryption-through-kafka)
+- [Building a Kafka based key-value store in Rust (2021)](https://blog.whn.se/posts/building-a-kafka-backed-key-value-store-in-rust-part-1-the-design)

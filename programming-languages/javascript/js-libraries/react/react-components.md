@@ -200,6 +200,7 @@
 - [react-code-blocks](https://github.com/rajinwonderland/react-code-blocks) - React components for rendering code snippets with syntax highlighting.
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors, flow charts and diagrams.
 - [React Financial Charts](https://github.com/react-financial/react-financial-charts) - Charts dedicated to finance.
+- [ReactPlayer](https://github.com/cookpete/react-player) - React component for playing a variety of URLs.
 
 ## Links
 

@@ -297,3 +297,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Humans TXT](https://humanstxt.org/) - We Are People, Not Machines. ([Article](https://mefody.dev/chunks/humans-txt/))
 - [The Indie Web](https://theindieweb.com/) - Hotspot for indie creations on the web. ([Code](https://github.com/tholman/the-indie-web))
 - [Xiu](https://github.com/harlanc/xiu) - Powerful and secure live server by pure rust (rtmp/httpflv/hls/relay).
+- [timefind](https://github.com/Cykelero/timefind) - Search a website's history.
