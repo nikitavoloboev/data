@@ -131,3 +131,4 @@
 - [Linux is dead, long-live Docker monoculture (2021)](https://antranigv.am/weblog_en/posts/2021-08-13-13-37/) ([Lobsters](https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker)) ([HN](https://news.ycombinator.com/item?id=28264054))
 - [Which validations do you run between "docker build" and "kubectl apply"? (2021)](https://twitter.com/ahmetb/status/1432407849318039554)
 - [Docker with IPv6 and Network Isolation (2021)](https://battlepenguin.com/tech/docker-with-ipv6-and-network-isolation/)
+- [An Overview of Docker Desktop Alternatives (2021)](https://matt-rickard.com/docker-desktop-alternatives/) ([HN](https://news.ycombinator.com/item?id=28379556))

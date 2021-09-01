@@ -445,3 +445,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki)
 - [How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art) ([HN](https://news.ycombinator.com/item?id=28221904))
 - [Moiré no more (2021)](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
+- [Tyler Cowen is the best curator of talent in the world (2021)](https://kulesa.substack.com/p/tyler-cowen-is-the-best-curator-of) ([HN](https://news.ycombinator.com/item?id=28381324))
