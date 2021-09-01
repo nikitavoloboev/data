@@ -303,3 +303,4 @@
 - [Postgres Conference](https://postgresconf.org/) ([Videos](https://www.youtube.com/c/PostgresConference/videos))
 - [squawk](https://github.com/sbdchd/squawk) - Linter for Postgres migrations. ([Web](https://squawkhq.com/))
 - [plum](https://github.com/sanggonlee/plum) - Lightweight tool to investigate and explore lock contention in PostgreSQL database.
+- [PostgreSQL Subtransactions Considered Harmful (2021)](https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful) ([HN](https://news.ycombinator.com/item?id=28374333))
