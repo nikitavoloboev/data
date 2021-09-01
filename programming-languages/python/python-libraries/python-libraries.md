@@ -459,6 +459,7 @@
 - [xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets.
 - [pmdarima](https://github.com/alkaline-ml/pmdarima) - Statistical library designed to fill the void in Python's time series analysis capabilities.
 - [perfplot](https://github.com/nschloe/perfplot) - Performance analysis for Python.
+- [Bolt](https://github.com/dblalock/bolt) - Algorithm for compressing vectors of real-valued data and running mathematical operations directly on the compressed representations.
 
 ## Links
 

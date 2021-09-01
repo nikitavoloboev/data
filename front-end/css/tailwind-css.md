@@ -99,3 +99,4 @@
 - [TailwindCSS Converter](https://tailwind-converter.netlify.app/) - Convert CSS To Tailwind. ([Code](https://github.com/stevezease/tailwind-converter))
 - [Coming to Terms with Tailwind (2021)](https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/) ([HN](https://news.ycombinator.com/item?id=27762072))
 - [tailwindcss-capsize](https://github.com/stormwarning/tailwindcss-capsize) - Tailwind CSS utility classes for trimming whitespace above & below capital letters.
+- [tailwind-merge](https://github.com/dcastil/tailwind-merge) - Utility function to efficiently merge Tailwind CSS classes in JS without style conflicts.
