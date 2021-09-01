@@ -32,6 +32,10 @@
 
 - [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks. ([HN](https://news.ycombinator.com/item?id=26737956))
 
+## CLI
+
+- [Vexil](https://github.com/Ovyerus/vexil) - Elixir flag parser that does just enough.
+
 ## Other
 
 - [GraphQL toolkit for Elixir](https://github.com/absinthe-graphql/absinthe)

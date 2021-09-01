@@ -57,3 +57,4 @@
 - [NeuralCompression](https://github.com/facebookresearch/NeuralCompression) - Python repository dedicated to research of neural networks that compress data.
 - [Compressing Multisets with Large Alphabets (2021)](https://arxiv.org/abs/2107.09202) ([Code](https://github.com/facebookresearch/multiset-compression))
 - [Ouch](https://github.com/vrmiguel/ouch) - Easy and painless way of compressing and decompressing files in the terminal.
+- [TinyJPG](https://github.com/OrlovEvgeny/TinyJPG) - Filesystem watcher and image compress.

@@ -12,3 +12,4 @@
 - [From scratch: reverse-mode automatic differentiation (in Python) (2020)](https://sidsite.com/posts/autodiff/) ([HN](https://news.ycombinator.com/item?id=23519700))
 - [ADMB Project](https://github.com/admb-project/admb) - Supports the application of automatic differentiation (AD) for solutions to non-linear statistical modeling and optimization problems. ([Web](http://www.admb-project.org/))
 - [GTN: Automatic Differentiation with WFSTs (weighted finite-state transducers)](https://github.com/gtn-org/gtn)
+- [Differentiation with higher infinitesimals](https://github.com/konn/smooth) - Exploring connections between automatic differentiation and smooth infinitesimal analysis, or smooth algebras.

@@ -268,3 +268,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Full-stack dApp starter built on Ethereum (Solidity) with Next.js](https://github.com/tomhirst/solidity-nextjs-starter)
 - [next-web3-boilerplate](https://github.com/mirshko/next-web3-boilerplate) - Slightly opinionated Web3 boilerplate based on Next.js and SWR.
 - [Harmony One](https://www.harmony.one/) - Scaling Ethereum Applications and Cross-Chain Finance.
+- [Go-Web3](https://github.com/umbracle/go-web3) - Ethereum Go API.
