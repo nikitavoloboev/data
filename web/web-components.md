@@ -45,3 +45,4 @@
 - [Ocean](https://github.com/matthewp/ocean) - Web component server-side rendering.
 - [About Web Components (2021)](https://webreflection.medium.com/about-web-components-cc3e8b4035b0)
 - [Pretty Cool Elements](https://github.com/WebReflection/p-cool) - Provides element mixins/behaviors, through class names, without names clashing.
+- [Cross-component coordination protocols](https://github.com/webcomponents/community-protocols)
