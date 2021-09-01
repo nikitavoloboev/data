@@ -364,3 +364,5 @@
 - [SwinIR: Image Restoration Using Swin Transformer (2021)](https://arxiv.org/abs/2108.10257) ([Code](https://github.com/JingyunLiang/SwinIR))
 - [You Only Learn One Representation: Unified Network for Multiple Tasks (2021)](https://arxiv.org/abs/2105.04206) ([Code](https://github.com/WongKinYiu/yolor))
 - [Probabilistic Modeling for Human Mesh Recovery (2021)](https://arxiv.org/abs/2108.11944) ([Code](https://github.com/nkolot/ProHMR))
+- [BARF: Bundle-Adjusting Neural Radiance Fields (2021)](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/) ([Code](https://github.com/chenhsuanlin/bundle-adjusting-NeRF))
+- [Self-Calibrating Neural Radiance Fields (2021)](https://postech-cvlab.github.io/SCNeRF/) ([Code](https://github.com/POSTECH-CVLab/SCNeRF))

@@ -134,3 +134,4 @@
 - [Programming Design Systems Book](https://programmingdesignsystems.com/introduction/) ([Code](https://github.com/runemadsen/programmingdesignsystems.com))
 - [Design Systems List](https://github.com/saadeghi/design-systems) - List of famous design systems, design languages and guidelines.
 - [Designs Systems CLI](https://github.com/intuit/design-systems-cli) - CLI toolbox for creating design systems. ([Docs](https://intuit.github.io/design-systems-cli/#/welcome))
+- [Wedges](https://wedges.app/) - Super-simple way to build beautiful websites. Pre-built, customizable, stackable, UI components. ([Twitter](https://twitter.com/wedgesapp))
