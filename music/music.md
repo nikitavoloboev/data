@@ -140,3 +140,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [A simple guide to disrupting the music industry (2021)](https://www.musicxtechxfuture.com/2021/07/27/a-simple-guide-to-disrupting-the-music-industry/)
 - [Vocal Remover and Isolation](https://vocalremover.org/) - Separate voice from music out of a song free with powerful AI algorithms.
 - [MuseMorphose: Full-Song and Fine-Grained Music Style Transfer with One Transformer VAE (2021)](https://arxiv.org/abs/2105.04090) ([Code](https://github.com/YatingMusic/MuseMorphose))
+- [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html) ([HN](https://news.ycombinator.com/item?id=28373944))

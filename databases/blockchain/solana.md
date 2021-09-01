@@ -66,3 +66,4 @@
 - [solana/wallet-adapter](https://github.com/solana-labs/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
 - [Solanart](https://solanart.io/) - Discover, collect and trade NFTs.
 - [Solana.py](https://github.com/michaelhly/solana-py) - Solana Python SDK.
+- [Solsea](https://solsea.io/) - Open NFT Marketplace on Solana.

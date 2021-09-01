@@ -43,3 +43,4 @@
 - [Powers of Ten (1977)](https://www.youtube.com/watch?v=0fKBhvDjuy0) - Adventure in magnitudes.
 - [The First Three Minutes: A Modern View of the Origin of the Universe by Steven Weinberg (1993)](https://www.goodreads.com/book/show/150131.The_First_Three_Minutes)
 - [The Poincaré Conjecture. What is the shape of the universe? (2019)](https://jorgenveisdal.medium.com/the-poincar%C3%A9-conjecture-cb4ca7014cc5) ([Tweet](https://twitter.com/Dragonmaurizio/status/1417673539507924992))
+- [Is the universe really infinite? (2021)](https://www.reddit.com/r/chemistry/comments/pfoibl/is_the_universe_really_infinite/)
