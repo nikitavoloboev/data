@@ -118,3 +118,4 @@
 - [The Perils of Large Files in Elixir (2021)](https://pspdfkit.com/blog/2021/the-perils-of-large-files-in-elixir/) ([Lobsters](https://lobste.rs/s/3pjvwo/perils_large_files_elixir))
 - [EFLFE: Elixir Flavoured Lisp Flavoured Erlang (2021)](http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/)
 - [Ask HN: Is it worth learning Elixir, from a jobs perspective? (2021)](https://news.ycombinator.com/item?id=28183901)
+- [Delimited Continuations with shift/reset in Elixir (2021)](https://thalesmg.github.io/posts/2021-08-27-elixir-delimited-continuations.html)

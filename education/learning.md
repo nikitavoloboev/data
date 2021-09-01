@@ -145,3 +145,4 @@
 - [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/) ([HN](https://news.ycombinator.com/item?id=28254630))
 - [Programming, Math, Science Links](https://github.com/bobeff/programming-math-science) ([HN](https://news.ycombinator.com/item?id=28349475))
 - [Papers and books I've read or am about to read](https://github.com/isislovecruft/library--)
+- [How to Study Effectively](https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively) ([HN](https://news.ycombinator.com/item?id=28382821))
