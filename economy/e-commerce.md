@@ -91,3 +91,4 @@
 - [Swipe E-Commerce](https://cogentgene1.gumroad.com/#oDkcG) - Increase conversions, average order value and customer lifetime value.
 - [Perspect](https://perspect.com/) - Minimum Viable Shopify using Static Websites.
 - [Cococart](https://www.cococart.co/) - Simple, beautiful shops for pretty much anything.
+- [OpenBazaar](https://openbazaar.org/) - Truly decentralized, peer-to-peer e-commerce. ([GitHub](https://github.com/OpenBazaar))

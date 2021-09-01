@@ -227,3 +227,4 @@
 - [How to build better command line apps and tools using Swift (2021)](https://theswiftdev.com/how-to-build-better-command-line-apps-and-tools-using-swift/)
 - [How Actors Work Internally in Swift (2021)](https://swiftrocks.com/how-actors-work-internally-in-swift) ([HN](https://news.ycombinator.com/item?id=28175586))
 - [swiftbox](https://github.com/stevapple/swiftbox) - Use Swift out of the Box on Ubuntu, CentOS(RHEL) and Amazon Linux.
+- [Opaque Return Types and Type Erasure (2021)](https://www.raywenderlich.com/24942207-opaque-return-types-and-type-erasure)

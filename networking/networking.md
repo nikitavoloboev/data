@@ -288,3 +288,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Latency Sneaks Up on You (2021)](https://brooker.co.za/blog/2021/08/05/utilization.html) ([HN](https://news.ycombinator.com/item?id=28326932))
 - [Wi-Fi QR Code generator](https://github.com/reugn/wifiqr) - Create a QR code with your Wi-Fi login details.
 - [NetworkX](https://github.com/networkx/networkx) - Network Analysis in Python. ([Web](https://networkx.org/))
+- [Forward and reverse proxies explained (2021)](https://www.haskellforall.com/2021/09/forward-and-reverse-proxies-explained.html)

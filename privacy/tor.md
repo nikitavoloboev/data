@@ -25,3 +25,4 @@
 - [Arti](https://gitlab.torproject.org/tpo/core/arti/) - Pure-Rust Tor implementation. ([Article](https://blog.torproject.org/announcing-arti)) ([Reddit](https://www.reddit.com/r/programming/comments/ogw5o7/the_tor_project_announces_arti_a_tor/))
 - [onion2web](https://github.com/starius/onion2web) - Access .onion sites without Tor Browser.
 - [Tor is a Great SysAdmin Tool (2020)](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/)
+- [Lightnion](https://github.com/spring-epfl/lightnion) - JavaScript library that you can include on your webpage to let any modern browser make anonymous requests. Light version of Tor.

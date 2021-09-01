@@ -444,3 +444,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [AI Art Machine: put in text, get art](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK) ([Lobsters](https://lobste.rs/s/vc6o94/ai_art_machine_put_text_get_art))
 - [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki)
 - [How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art) ([HN](https://news.ycombinator.com/item?id=28221904))
+- [Moiré no more (2021)](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)

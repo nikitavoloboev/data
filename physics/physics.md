@@ -230,3 +230,4 @@
 - [Dreams of a Final Theory Book (1994)](https://www.goodreads.com/book/show/150129.Dreams_of_a_Final_Theory) ([Article](https://news.utexas.edu/2021/07/24/ut-austin-mourns-death-of-world-renowned-physicist-steven-weinberg/))
 - [Online Course: Machine Learning for Physicists 2020](https://pad.gwdg.de/s/HJtiTE__U) ([Code](https://github.com/FlorianMarquardt/machine-learning-for-physicists))
 - [An Analytical, Statistical Approximate Solution for Dissipative and non-Dissipative Binary-Single Stellar Encounters (2021)](https://arxiv.org/abs/2011.00010) ([HN](https://news.ycombinator.com/item?id=28178509)) ([HN](https://news.ycombinator.com/item?id=28241758))
+- [What is the Chandrasekhar Limit? (2021)](https://www.youtube.com/watch?v=oxYbShKkw-4)

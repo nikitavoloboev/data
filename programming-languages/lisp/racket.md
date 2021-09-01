@@ -68,3 +68,4 @@
 - [imin](https://github.com/iambrj/imin) - Compiler for (a subset of) Racket -> x86-64, written in Racket.
 - [cli](https://github.com/countvajhula/cli) - Language for writing command line interfaces in Racket.
 - [racket-gui-easy](https://github.com/Bogdanp/racket-gui-easy) - Declarative GUIs in Racket. ([Video](https://www.youtube.com/watch?v=AXJ9tTVGDwU)) ([Lobsters](https://lobste.rs/s/vaouwt/declarative_guis_racket))
+- [How do I implement Racket from scratch? (2021)](https://www.reddit.com/r/Racket/comments/pfjs2e/how_do_i_implement_racket_from_scratch/)

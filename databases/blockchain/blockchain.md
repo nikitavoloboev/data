@@ -194,3 +194,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Blockchains and "legitimacy" (2021)](https://twitter.com/sriramk/status/1432034458085904386)
 - [opensea.rs](https://github.com/gakonst/opensea-rs) - Rust bindings & CLI to the Opensea API and Contracts.
 - [InterPlanetary NFT Extensions (IPNFT)](https://github.com/Gozala/ipnft)
+- [Blockchain based drug market on the clear web? (2021)](https://www.reddit.com/r/CryptoTechnology/comments/pfdo0q/blockchain_based_drug_market_on_the_clear_web/)
