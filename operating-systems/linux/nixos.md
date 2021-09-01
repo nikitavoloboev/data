@@ -146,3 +146,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS Beginner's Handbook](https://github.com/kstenerud/nixos-beginners-handbook)
 - [Template for developing/testing NixOS modules](https://github.com/ngi-nix/nixos-modules-flake-template)
 - [Deploying a NixOS configuration into a QEMU VM (2020)](https://alpmestan.github.io/notes/nixos-qemu.html)
+- [NixOS on underpowered devices (2021)](https://eno.space/blog/2021/08/nixos-on-underpowered-devices)
