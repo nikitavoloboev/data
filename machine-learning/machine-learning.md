@@ -538,3 +538,4 @@
 - [A visual introduction to Gaussian Belief Propagation (2021)](https://gaussianbp.github.io/) ([HN](https://news.ycombinator.com/item?id=28367177))
 - [Bootstrap your own latent: A new approach to self-supervised Learning (2020)](https://arxiv.org/abs/2006.07733) ([Code](https://github.com/Spijkervet/BYOL))
 - [Tutorial: Performance Engineering for Machine Learning and Scientific Computing (2017)](https://dblalock.github.io/Performance-Engineering-Tutorial/)
+- [Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)
