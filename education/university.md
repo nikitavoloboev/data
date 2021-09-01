@@ -97,3 +97,4 @@ There are many more things that simply would not happen if I didn't try new thin
 - [Back to School? Marc Andreessen says get clear-eyed on what your education will give you (2020)](https://www.youtube.com/watch?v=_s1xyZM-2Gw)
 - [MIT](https://web.mit.edu/)
 - [Stanford](https://www.stanford.edu/) ([YouTube](https://www.youtube.com/c/stanford/videos))
+- [5 вещей, которые я бы хотел знать на первом курсе технического ВУЗа (2021)](https://www.youtube.com/watch?v=dpr5CMbuqdo)

@@ -109,6 +109,7 @@
 - [GitHub Environment Variables](https://github.com/FranzDiebold/github-env-vars-action) - GitHub Action to expose useful environment variables.
 - [NPM Publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM.
 - [flyctl-actions](https://github.com/superfly/flyctl-actions) - GitHub Action that wraps the flyctl.
+- [GitHub Sync](https://github.com/repo-sync/github-sync) - GitHub Action for syncing current repository with remote.
 
 ## Go
 

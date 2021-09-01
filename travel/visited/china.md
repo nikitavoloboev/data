@@ -43,3 +43,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Arm China Has Gone Rogue (2021)](https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century) ([HN](https://news.ycombinator.com/item?id=28329731))
 - [Xi Jinping unleashes the new purge (2021)](https://www.youtube.com/watch?v=-EPJt-a4Nb8)
 - [Why didn't Communism Collapse in China as in other countries? (2020)](https://www.youtube.com/watch?v=JRcckYRWSVU)
+- [China Wants Manufacturing—Not the Internet—to Lead the Economy (2021)](https://www.wsj.com/articles/china-wants-manufacturingnot-the-internetto-lead-the-economy-11628078155) ([Reddit](https://www.reddit.com/r/geopolitics/comments/pflrx1/china_wants_manufacturingnot_the_internetto_lead/))

@@ -104,3 +104,4 @@ I try to give my full attention to any ideas I am working on.
 - [Project ideas for 2020](https://www.ianbicking.org/blog/2020/09/project-ideas-2020.html)
 - [How to come up with compelling startup ideas](https://twitter.com/gregisenberg/status/1422204739182342148)
 - [Ask HN: How do you validate your startup idea when you've no distribution? (2021)](https://news.ycombinator.com/item?id=28263375)
+- [If you could rewrite anything from scratch, what would it be? (2021)](https://lobste.rs/s/sdum3p/if_you_could_rewrite_anything_from)

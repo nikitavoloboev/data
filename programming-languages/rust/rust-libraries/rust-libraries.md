@@ -930,6 +930,7 @@
 - [futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Concurrency extensions for Future.
 - [Hypergraph](https://github.com/yamafaktory/hypergraph) - Data structure library to generate directed hypergraphs.
 - [cast](https://github.com/japaric/cast.rs) - Ergonomic, checked cast functions for primitive types.
+- [Cambria](https://github.com/Actyx/cambria) - Use lenses to maintain forwards and backwards compatibility with your software.
 
 ## Cargo Plugins
 
