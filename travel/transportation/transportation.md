@@ -28,3 +28,4 @@
 - [Awesome Automotive](https://github.com/Marcin214/awesome-automotive) - Curated list of delightful and free automotive engineering resources.
 - [Internal Combustion Engine (2021)](https://ciechanow.ski/internal-combustion-engine/) ([HN](https://news.ycombinator.com/item?id=26991300))
 - [Car Design History](https://www.cardesignhistory.com/) ([HN](https://news.ycombinator.com/item?id=27374893))
+- [Awesome Tesla](https://github.com/gutenye/awesome-tesla)

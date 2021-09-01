@@ -379,3 +379,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [The Productivists Forum](https://www.theproductivists.club/) - Group of personal knowledge management (PKM) and productivity enthusiasts.
 - [Ideaflow](https://www.ideaflow.io/) - Notebook that augments your intelligence.
 - [Notabase](https://notabase.io/) - Personal knowledge base for networked thinking. ([Code](https://github.com/churichard/notabase))
+- [The open calendar, task and note space is a mess (2021)](https://stevenvanbael.com/open-calendar-task-space-is-a-mess) ([HN](https://news.ycombinator.com/item?id=28358463))

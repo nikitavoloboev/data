@@ -21,3 +21,4 @@
 - [The PHP Interpreter Code](https://github.com/php/php-src)
 - [PHP in 2021](https://stitcher.io/blog/php-in-2021) ([HN](https://news.ycombinator.com/item?id=26825468))
 - [Laravel Learning Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
+- [LAMP Stack History: It’s Everywhere, But Developers Hate It (2021)](https://tedium.co/2021/09/01/lamp-stack-php-mysql-apache-history/) ([Lobsters](https://lobste.rs/s/omnbsr/lamp_stack_history_it_s_everywhere))

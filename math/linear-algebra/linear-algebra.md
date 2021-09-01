@@ -50,3 +50,4 @@
 - [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)
 - [Computational algebraic geometry for high school students](https://www.solidangl.es/post/varieties-the-spice-of-life) ([HN](https://news.ycombinator.com/item?id=28045553))
 - [Demystifying Determinant of a Matrix (2021)](https://muthu.co/demystifying-determinant-of-a-matrix/)
+- [Multiplying Matrices Without Multiplying (2021)](https://arxiv.org/abs/2106.10860)
