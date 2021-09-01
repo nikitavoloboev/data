@@ -403,3 +403,4 @@
 - [Fastest table sort in the West – Redesigning DuckDB's sort (2021)](https://duckdb.org/2021/08/27/external-sorting.html) ([HN](https://news.ycombinator.com/item?id=28328657))
 - [Apache Iceberg](https://iceberg.apache.org/) - Table format for storing large, slow-moving tabular data. ([Code](https://github.com/apache/iceberg))
 - [TiDB Development Guide](https://pingcap.github.io/tidb-dev-guide/) ([Code](https://github.com/pingcap/tidb-dev-guide))
+- [Catabase: a database of categories](https://nforum.ncatlab.org/discussion/13419/catabase-a-database-of-categories/)

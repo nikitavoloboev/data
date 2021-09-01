@@ -116,6 +116,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Towards Categorical Foundations of Learning (2021)](https://www.brunogavranovic.com/posts/2021-03-03-Towards-Categorical-Foundations-Of-Neural-Networks.html)
 - [Category theory is a universal modeling language](http://math.mit.edu/~dspivak/informatics/)
 - [Ask HN: How to Get into Category Theory? (2021)](https://news.ycombinator.com/item?id=27642986)
+- [nForum](https://nforum.ncatlab.org/) - Discussion forum about contributions to the nLab wiki and related areas of mathematics, physics, and philosophy.
 
 ## Images
 
