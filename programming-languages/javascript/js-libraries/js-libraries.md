@@ -58,6 +58,7 @@
 - [Logux Client](https://github.com/logux/client) - New way to connect client and server. Instead of sending HTTP requests, it synchronizes log of operations between client, server, and other clients.
 - [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework.
 - [CalDOM](https://github.com/dumijay/CalDOM) - Agnostic, reactive & minimalist (3kb) JavaScript UI library with direct access to native DOM. ([Web](https://caldom.org/))
+- [Trimmings](https://github.com/postlight/trimmings) - Zero-configuration JavaScript library that adds a layer of smooth and fast in-page interaction to your web pages.
 
 ## Animation
 

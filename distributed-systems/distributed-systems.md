@@ -65,7 +65,7 @@
 - [System Design lectures (2020)](https://www.youtube.com/playlist?list=PL564gOx0bCLouDCUMtmj6hMEu1JS7QYEr)
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
 - [LeetCode System Design Questions](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=most_votes&query=)
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) ([Code](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design))
 - [Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc) - How Amazon builds and operates software.
 - [Distributed Systems Wiki](https://distributed.systems.wiki/) ([Code](https://github.com/DistributedSystemsWiki/wiki))
 - [Jepsen](https://jepsen.io/) - Distributed Systems Safety Research.

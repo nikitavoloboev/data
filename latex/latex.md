@@ -87,3 +87,5 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Upmath](https://upmath.me/) - Markdown & LaTeX Online Editor. ([Code](https://github.com/parpalak/upmath.me))
 - [Lunamark](https://github.com/jgm/lunamark) - Lua library for conversion between markup formats.
 - [Markdown](https://github.com/Witiko/markdown) - Package for converting and rendering markdown documents in TeX.
+- [pgfplots](https://github.com/pgf-tikz/pgfplots) - Create normal/logarithmic plots in two and three dimensions for LaTeX/TeX/ConTeXt.
+- [PGF](https://github.com/pgf-tikz/pgf) - TeX macro package for generating graphics. ([Manual](https://pgf-tikz.github.io/pgf/pgfmanual.pdf))
