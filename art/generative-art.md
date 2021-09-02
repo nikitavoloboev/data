@@ -145,3 +145,6 @@
 - [The Rise of Long-Form Generative Art (2021)](https://tylerxhobbs.com/essays/2021/the-rise-of-long-form-generative-art)
 - [Integer Circle Algorithm (Minsky circle)](https://www.onirom.fr/ica.html)
 - [generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js.
+- [The Short Guide to Generative Art & Creative Coding (2020)](https://blog.prototypr.io/the-short-guide-to-generative-art-creative-coding-fc36ff163708)
+- [Context Free Art](https://www.contextfreeart.org/) - Program that generates images from written instructions called a grammar.
+- [Good resources/ideas to start with generative art](https://www.reddit.com/r/golang/comments/kfl391/question_are_there_any_good_resources_for_getting/)

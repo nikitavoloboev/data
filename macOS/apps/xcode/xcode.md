@@ -16,7 +16,7 @@
 - [Xgen](https://github.com/JohnSundell/Xgen) - Swift package for generating Xcode workspaces & playgrounds.
 - [NoMoreTypo](https://github.com/shiba1014/NoMoreTypo) - Typo checker for Xcode.
 - [Struct](https://github.com/lyptt/struct) - Tool for iOS and Mac developers to automate the creation and management of Xcode projects.
-- [XcodeProj](https://github.com/tuist/xcodeproj) - Read, update and write your Xcode projects.
+- [XcodeProj](https://github.com/tuist/xcodeproj) - Read, update and write your Xcode projects. Swift library.
 - [WWDC: Getting Started with Xcode (2019)](https://developer.apple.com/videos/play/wwdc2019/404/)
 - [index-import](https://github.com/lyft/index-import) - Tool to import swiftc and clang index-store files into Xcode.
 - [Tuist](https://github.com/tuist/tuist) - Create, maintain, and interact with Xcode projects at scale.
