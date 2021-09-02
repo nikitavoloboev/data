@@ -52,3 +52,4 @@
 - [Woodpecker](https://github.com/woodpecker-ci/woodpecker) - Simple CI engine with great extensibility. ([Docs](https://woodpecker.laszlo.cloud/))
 - [BuildKit integration for Rust](https://github.com/denzp/rust-buildkit)
 - [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
+- [Werft](https://werft.dev/) - Kubernetes-native CI system. It knows no pipelines, just jobs and each job is a Kubernetes pod. ([Code](https://github.com/csweichel/werft))
