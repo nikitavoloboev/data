@@ -6,4 +6,4 @@ I also worked with [Memex](https://getmemex.com) briefly and it's an awesome too
 
 The goals for next month are to release first version of new LA. I talked about it before but for once, things are starting to fall into place regarding the tech stack and some design decisions go.
 
-[Onwards. 🍃](https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ)
+[Onwards. 🍃](https://open.spotify.com/track/5m8RRAP6qiMTpS8NB3T1bN)

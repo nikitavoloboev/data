@@ -148,3 +148,4 @@
 - [The Short Guide to Generative Art & Creative Coding (2020)](https://blog.prototypr.io/the-short-guide-to-generative-art-creative-coding-fc36ff163708)
 - [Context Free Art](https://www.contextfreeart.org/) - Program that generates images from written instructions called a grammar.
 - [Good resources/ideas to start with generative art](https://www.reddit.com/r/golang/comments/kfl391/question_are_there_any_good_resources_for_getting/)
+- [Bauhaus poster generator](https://tool.graphics/bauhaus)
