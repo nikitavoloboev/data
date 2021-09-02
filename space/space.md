@@ -112,3 +112,4 @@
 - [The Orbit of Planet Nine (2021)](https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html) ([HN](https://news.ycombinator.com/item?id=28349201))
 - [1910 intro to Astronomy textbook, with the right amount of math](http://gron.ca/math/dupuis_1910/dupuis.pdf)
 - [Resources for deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
+- [The Universe Has Already Made Almost All the Stars It Will Ever Make (2021)](https://nautil.us/issue/104/harmony/the-universe-already-made-almost-all-the-stars-it-will-ever-make) ([HN](https://news.ycombinator.com/item?id=28391978))

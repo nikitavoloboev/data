@@ -43,3 +43,4 @@
 - [Demystifying styled-components (2021)](https://www.joshwcomeau.com/react/demystifying-styled-components/)
 - [Tagged Template Literals - The Magic Behind Styled Components (2021)](https://dev.to/dekel/tagged-template-literals-the-magic-behind-styled-components-2f2c)
 - [taddy](https://github.com/lttb/taddy) - Compile-time Atomic CSS-in-JS.
+- [CSS Modules-in-CSS Module Scripts (2021)](https://daverupert.com/2021/08/css-modules-in-css-modules/)

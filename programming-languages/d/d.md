@@ -22,3 +22,4 @@
 - [PyD](https://github.com/ariovistus/pyd) - Interoperability between Python and D.
 - [DRuntime](https://github.com/dlang/druntime) - Low level runtime library for the D programming language.
 - [Phobos](https://github.com/dlang/phobos) - Standard library of the D programming language.
+- [LWDR](https://github.com/hmmdyl/LWDR) - LightWeight D Runtime targeting ARM Cortex CPUs.
