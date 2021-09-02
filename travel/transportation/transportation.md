@@ -29,3 +29,4 @@
 - [Internal Combustion Engine (2021)](https://ciechanow.ski/internal-combustion-engine/) ([HN](https://news.ycombinator.com/item?id=26991300))
 - [Car Design History](https://www.cardesignhistory.com/) ([HN](https://news.ycombinator.com/item?id=27374893))
 - [Awesome Tesla](https://github.com/gutenye/awesome-tesla)
+- [This boat-plane hybrid could transform inter-city travel (2021)](https://edition.cnn.com/travel/article/regent-seaglider-wing-in-ground-effect-vehicle/index.html) ([Tweet](https://twitter.com/billythalheimer/status/1433459258595717122))

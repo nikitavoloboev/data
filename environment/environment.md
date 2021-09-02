@@ -1,6 +1,6 @@
 # Environment
 
-I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minimize the damage I induce on our planet.
+I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [minimize the damage I induce on our planet](https://twitter.com/dino_comics/status/1433485733101293576).
 
 ## Notes
 

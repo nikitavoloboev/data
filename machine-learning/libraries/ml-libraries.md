@@ -186,3 +186,4 @@
 - [pyltr](https://github.com/jma127/pyltr) - Python learning-to-rank toolkit with ranking models, evaluation metrics, data wrangling helpers, and more.
 - [Wrangl](https://github.com/vzhong/wrangl) - Ray-based parallel data preprocessing for NLP and ML.
 - [Treex](https://github.com/cgarciae/treex) - Pytree-based Module system for Deep Learning in JAX. ([Docs](https://cgarciae.github.io/treex/))
+- [PhiFlow](https://github.com/tum-pbs/PhiFlow) - Open-source simulation toolkit built for optimization and machine learning applications.

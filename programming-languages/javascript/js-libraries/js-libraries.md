@@ -577,6 +577,7 @@
 - [AG Grid](https://github.com/ag-grid/ag-grid) - Best JavaScript Data Table for building Enterprise Applications. ([Web](https://www.ag-grid.com/))
 - [events-to-async](https://github.com/azu/events-to-async) - Treat EventEmitter-like object using Async/Await and Async Iterator.
 - [gfxrlz](https://github.com/magcius/gfxrlz) - Modern-styled, low-level graphics API for the web.
+- [PCUI Graph](https://github.com/playcanvas/pcui-graph) - JavaScript library for creating node-based graphs.
 
 ## Links
 
