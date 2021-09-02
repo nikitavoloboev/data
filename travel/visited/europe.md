@@ -19,3 +19,4 @@
 - [HN: Europe is now a corporate also-ran. Can it recover its footing? (2021)](https://news.ycombinator.com/item?id=27479428)
 - [Europe's Software Problem (2021)](https://berthub.eu/articles/posts/europes-software-problem/) ([HN](https://news.ycombinator.com/item?id=27513412))
 - [The 5 coolest trends in urbanism ... in Europe (2021)](https://www.volts.wtf/p/the-5-coolest-trends-in-urbanism) ([Tweet](https://twitter.com/patrickc/status/1408793827234574336))
+- [European Payments Initiative (EPI)](https://www.epicompany.eu/) ([HN](https://news.ycombinator.com/item?id=28392389))
