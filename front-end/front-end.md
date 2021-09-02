@@ -63,3 +63,4 @@
 - [rounded conf](https://www.rounded.dev/conf) - Conference for well rounded frontend developers.
 - [How To Build Resilient JavaScript UIs (2021)](https://www.smashingmagazine.com/2021/08/build-resilient-javascript-ui/) ([HN](https://news.ycombinator.com/item?id=28060029))
 - [Кажется, мы стали забывать основы фронтенда (2021)](https://habr.com/ru/post/569494/)
+- [Чистая архитектура во фронтенде (2021)](https://bespoyasov.ru/blog/clean-architecture-on-frontend/)
