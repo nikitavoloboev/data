@@ -69,3 +69,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Ask HN: How to Speak Confidently? (2021)](https://news.ycombinator.com/item?id=26807085)
 - [Transitions: The easiest way to improve your tech talk (2018)](https://medium.com/@saronyitbarek/transitions-the-easiest-way-to-improve-your-tech-talk-ebe4d40a3257)
 - [Ask HN: Best online speech / public speaking course? (2021)](https://news.ycombinator.com/item?id=27750506)
+- [Demystifying Public Speaking by Lara Callender Hogan](https://demystifying-public-speaking.com/)

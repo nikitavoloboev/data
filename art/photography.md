@@ -85,7 +85,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Pixelfed](https://pixelfed.social/) - Image sharing platform, an ethical alternative to centralized platforms.
 - [Computational Photography course](https://www.udacity.com/course/computational-photography--ud955)
 - [ImageNet](http://www.image-net.org/) - Image database organized according to the WordNet hierarchy.
-- [Bibliogram](https://bibliogram.art/) - Open-source front-end for Instagram. ([Code](https://sr.ht/~cadence/bibliogram/)) ([HN](https://news.ycombinator.com/item?id=27167729))
+- [Bibliogram](https://bibliogram.art/) - Open-source front-end for Instagram. ([Code](https://sr.ht/~cadence/bibliogram/)) ([HN](https://news.ycombinator.com/item?id=27167729)) ([Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md))
 - [Close-up Photographer of the Year](https://www.cupoty.com/) ([2020 Winners](https://www.cupoty.com/winners-02)) ([HN](https://news.ycombinator.com/item?id=25061678))
 - [InstantSave](https://instantsave.app/) - Instagram photo, video, IGTV, and Reels downloader online.
 - [Letterbox](https://github.com/tj/letterbox) - Tiny Go program to batch-process letter-boxing of photographs.
