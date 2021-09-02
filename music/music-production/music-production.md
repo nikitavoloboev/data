@@ -90,6 +90,7 @@
 - [Augmented Audio Libraries in Rust](https://github.com/yamadapc/augmented-audio)
 - [Signal](https://signal.vercel.app/) - Online MIDI Editor. ([Code](https://github.com/ryohey/signal))
 - [Meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript. ([Web](https://meyda.js.org/))
+- [aeon](https://github.com/tommaisey/aeon) - Live-coding system for musical pattern manipulation.
 
 ## Inspiration
 

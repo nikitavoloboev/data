@@ -74,3 +74,4 @@
 - [Last Mile Redis (2021)](https://fly.io/blog/last-mile-redis/) ([HN](https://news.ycombinator.com/item?id=27861510))
 - [Can Redis be used as a primary database? (2021)](https://www.youtube.com/watch?v=VLTPqImLapM) ([HN](https://news.ycombinator.com/item?id=28007594))
 - [Redlock](https://github.com/mike-marcacci/node-redlock) - Node.js redlock implementation for distributed, highly-available redis locks.
+- [Redis Inventory](https://github.com/obukhov/redis-inventory) - Tool to analyse Redis memory usage by key patterns and displaying it hierarchically.

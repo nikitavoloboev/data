@@ -136,7 +136,7 @@
 - [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622/) ([HN](https://news.ycombinator.com/item?id=23627017)) ([Code](https://github.com/gvanrossum/patma))
 - [What is the core of the Python programming language? (2020)](https://snarky.ca/what-is-the-core-of-the-python-programming-language/) ([HN](https://news.ycombinator.com/item?id=23698846))
 - [NPComp](https://github.com/google/mlir-npcomp) - Aspirational MLIR based numpy compiler.
-- [Nuitka](https://github.com/Nuitka/Nuitka) - Python compiler written in Python. ([Web](http://nuitka.net/)) ([HN](https://news.ycombinator.com/item?id=27537819))
+- [Nuitka](https://github.com/Nuitka/Nuitka) - Python compiler written in Python. ([Web](https://nuitka.net/)) ([HN](https://news.ycombinator.com/item?id=27537819)) ([HN](https://news.ycombinator.com/item?id=28377541))
 - [Brython](https://brython.info/) - Python 3 implementation for client-side web programming. ([HN](https://news.ycombinator.com/item?id=23746067)) ([Code](https://github.com/brython-dev/brython))
 - [Hashing it Out (2020)](https://akshayr.me/blog/articles/python-dictionaries) - A deep dive into Python dictionaries.
 - [An exploration of why Python doesn't require a 'main' function (2020)](https://utcc.utoronto.ca/~cks/space/blog/python/WhyNoMainFunction)
