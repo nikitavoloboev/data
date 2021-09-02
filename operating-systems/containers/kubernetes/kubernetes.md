@@ -426,3 +426,4 @@
 - [Civo Kubernetes](https://www.civo.com/) - Fast, Simple, Managed Kubernetes Service. ([GitHub](https://github.com/civo))
 - [The Guide to Kubernetes Labels](https://blog.kubecost.com/blog/kubernetes-labels/) ([HN](https://news.ycombinator.com/item?id=28384121))
 - [Chart Releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases.
+- [Kubescape](https://github.com/armosec/kubescape) - First tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA.

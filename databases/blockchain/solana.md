@@ -21,7 +21,7 @@
 - [Solana vs Algorand (2021)](https://www.reddit.com/r/solana/comments/n1yc3j/solana_vs_algorand/)
 - [In Rust We Trust - Berkeley Packet Filter and Rust (2019)](https://www.youtube.com/watch?v=oBW2KJq3FnA)
 - [Programming on Solana - An Introduction (2021)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
-- [Project Serum](https://projectserum.com/) - Decentralized exchange (DEX) and ecosystem that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless.
+- [Project Serum](https://projectserum.com/) - Decentralized exchange (DEX) and ecosystem that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless. ([GitHub](https://github.com/project-serum)) ([Code](https://github.com/project-serum/serum-dex))
 - [Awesome Solana](https://github.com/paul-schaaf/awesome-solana)
 - [SPL Token UI](https://www.spl-token-ui.com/#/) - UI for the creation and management of SPL tokens. ([Code](https://github.com/paul-schaaf/spl-token-ui))
 - [Solana Beach](https://solanabeach.io/) - Search Solana blocks, accounts, transactions, programs and tokens.
@@ -69,3 +69,6 @@
 - [Solsea](https://solsea.io/) - Open NFT Marketplace on Solana.
 - [Quarry](https://github.com/QuarryProtocol/quarry) - Open protocol for launching liquidity mining programs on Solana.
 - [solana-go](https://github.com/streamingfast/solana-go) - Go library for the Solana Blockchain.
+- [Solana App Scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp built on Solana.
+- [Solana Token Registry](https://github.com/solana-labs/token-list) - Package that allows application to query for list of tokens.
+- [Assert Balances](https://github.com/project-serum/assert-balances) - Safety hatch for aborting transactions with unexpected balance changes.

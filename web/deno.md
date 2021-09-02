@@ -118,3 +118,4 @@
 - [Obsidian](https://github.com/open-source-labs/obsidian) - GraphQL, built for Deno. ([Web](http://obsidian.land/))
 - [deno_docker](https://github.com/denoland/deno_docker) - Docker files for Deno published on Dockerhub.
 - [Ultra](https://github.com/exhibitionist-digital/ultra) - Deno + React: No build, no bundle, all streaming. ([Web](https://ultrajs.dev/))
+- [Server-side JSX for Deno](https://github.com/dsego/ssr_jsx)

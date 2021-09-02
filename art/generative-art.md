@@ -144,3 +144,4 @@
 - [Sketching - A Language for Creative Coding](https://soegaard.github.io/sketching/)
 - [The Rise of Long-Form Generative Art (2021)](https://tylerxhobbs.com/essays/2021/the-rise-of-long-form-generative-art)
 - [Integer Circle Algorithm (Minsky circle)](https://www.onirom.fr/ica.html)
+- [generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js.

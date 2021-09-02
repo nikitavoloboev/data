@@ -16,6 +16,7 @@
 - [web-watcher](https://github.com/shellbear/web-watcher) - Discord bot which monitor and send alerts on website changes. ([Docs](https://shellbear.github.io/web-watcher/))
 - [Robbb](https://github.com/unixporn/robbb) - Discord bot for the Unixporn community in Rust.
 - [Send](https://github.com/cnrad/send) - Send a message to me on Discord using webhooks.
+- [MRVN](https://github.com/cpdt/mrvn-bot) - Discord music player bot.
 
 ## Libraries
 

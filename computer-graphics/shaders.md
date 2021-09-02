@@ -46,3 +46,4 @@
 - [Monochromatic Portraits with GLSL (2019)](https://rosenzweig.io/blog/monotone-portraits-with-glsl.html)
 - [GIPS](https://github.com/kajott/GIPS) - GLSL Image Processing System. Applies filters written in the OpenGL Shading Language (GLSL).
 - [GLTF -> React Three Fiber](https://gltf.pmnd.rs/) ([Code](https://github.com/pmndrs/gltfjsx))
+- [Pilka](https://github.com/pudnax/pilka) - Live-coding tool for creating shader demos, Vulkan powered.
