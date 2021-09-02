@@ -293,7 +293,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: How do you read long PDFs? (2020)](https://news.ycombinator.com/item?id=23535060)
 - [The Open Book Project](https://github.com/joeycastillo/The-Open-Book) - Open-source, DRM-free Kindle alternative. ([HN](https://news.ycombinator.com/item?id=23584885))
 - [Ask HN: How do you take notes when reading a book? (2020)](https://news.ycombinator.com/item?id=23596471)
-- [Readwise](https://readwise.io/) - Makes it easy to revisit and learn from your ebook & article highlights.
+- [Readwise](https://readwise.io/) - Makes it easy to revisit and learn from your ebook & article highlights. ([GitHub](https://github.com/readwiseio))
 - [Penguin Random House](https://www.penguinrandomhouse.com/) - Committed to publishing great books, connecting readers and authors globally, and spreading the love of reading.
 - [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun) ([HN](https://news.ycombinator.com/item?id=23676862))
 - [HN: There’s no replacement for the thrill of browsing in a bookstore (2020)](https://news.ycombinator.com/item?id=23678230)

@@ -221,7 +221,7 @@
 - [Machine Learning: a Probabilistic Perspective book](https://www.cs.ubc.ca/~murphyk/MLbook/) ([Code](https://github.com/probml/pyprobml))
 - [Introduction to Machine Learning - Carnegie Mellon University (2019)](http://www.cs.cmu.edu/%7Eninamf/courses/315sp19/)
 - [Notes on ML courses](https://github.com/alisher0717/machine-learning-notes)
-- [Made With ML](https://madewithml.com/) - Share what you've Made With ML. ([Code](https://github.com/GokuMohandas/applied-ml))
+- [Made With ML](https://madewithml.com/) - Share what you've Made With ML. ([Code](https://github.com/GokuMohandas/MadeWithML)) ([MLOps Course](https://github.com/GokuMohandas/applied-ml))
 - [Backpropagation 101 (2020)](https://thinc.ai/docs/backprop101) - How to trick yourself into understanding backprop without even trying.
 - [A Spacetime Approach to Generalized Cognitive Reasoning in Multi-scale Learning (2017)](https://arxiv.org/abs/1702.04638)
 - [Open Source Deep Learning Glossary](https://github.com/jrdi/dl-glossary)

@@ -14,3 +14,4 @@
 - [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - Sketch extractor for illustration, anime art, manga. ([HN](https://news.ycombinator.com/item?id=27070838))
 - [mangodl](https://github.com/Gyro7/mangodl) - Easy-to-use CLI tool for downloading manga.
 - [Anime Encoding Guide for x265 (HEVC) & AAC/OPUS (and Why to Never Use FLAC) (2019)](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
+- [EhPanda](https://github.com/tatsuz0u/EhPanda) - E-Hentai App for iOS built with SwiftUI.
