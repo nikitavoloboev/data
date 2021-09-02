@@ -206,3 +206,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS EventBridge Canon](https://github.com/boyney123/eventbridge-canon) - Simple UI to Publish, Save and Share AWS EventBridge Events. ([Web](https://eventbridge-canon.netlify.app/))
 - [Amazon Elastic Kubernetes Service (Amazon EKS) Best Practices](https://aws.github.io/aws-eks-best-practices/) ([Code](https://github.com/aws/aws-eks-best-practices))
 - [Amazon EKS using AWS CDK with Typescript](https://github.com/aws-samples/amazon-eks-using-cdk-typescript) - Sample project that deploys an EKS Cluster.
+- [Helm S3](https://github.com/hypnoglow/helm-s3) - Helm plugin that allows to set up a chart repository in AWS S3.

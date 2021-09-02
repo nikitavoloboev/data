@@ -530,3 +530,4 @@ Go promotes composition over inheritance.
 - [How to best handle DB migrations in Go (2021)](https://twitter.com/joncalhoun/status/1431774088914145286)
 - [In Go, pointers (mostly) don't go with slices in practice (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoSlicesVsPointers) ([HN](https://news.ycombinator.com/item?id=28344938))
 - [Go is pass-by-value — but it might not always feel like it (2021)](https://neilalexander.dev/2021/08/29/go-pass-by-value.html) ([Lobsters](https://lobste.rs/s/lfidmh/go_is_pass_by_value_it_might_not_always_feel))
+- [A Guide to Interfaces in Go (2021)](http://fast4ward.online/posts/a-guide-to-interfaces-in-go/)
