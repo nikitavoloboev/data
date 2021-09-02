@@ -145,3 +145,4 @@
 - [BioLink API](https://github.com/biolink/biolink-api) - API for linked biological knowledge.
 - [AlpahFold, a tentative review (2021)](https://cerebralab.com/AlpahFold,_a_tentative_review)
 - [htsget-rs](https://github.com/umccr/htsget-rs) - Bioinformatic file formats accessible to the web.
+- [Synthace](https://www.synthace.com/) - Enabling life science, the way it should be done.

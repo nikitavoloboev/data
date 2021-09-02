@@ -158,3 +158,4 @@
 - [useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
 - [The Latest Ref Pattern in React](https://epicreact.dev/the-latest-ref-pattern-in-react/)
 - [Prefer Declarative State Updaters (2021)](https://kyleshevlin.com/prefer-declarative-state-updaters) ([Lobsters](https://lobste.rs/s/jt2auz/prefer_declarative_state_updaters))
+- [Scroll events, React Hooks and Refs](https://coding-time.co/scroll-events-react-hooks/)
