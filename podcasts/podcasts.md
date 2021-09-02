@@ -187,3 +187,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Spotify's Open Access Platform (2021)](https://every.to/divinations/spotify-s-upcoming-open-access-platform-is-as-suprising-as-it-is-awesome)
 - [The New Podcast Oligopoly (2021)](https://fair.org/home/the-new-podcast-oligopoly/)
 - [PodClips](https://podclips.com/) - Discover the Best Podcast Clips.
+- [Callin](https://www.callin.com/) - First Social Podcasting Platform. ([Article](https://medium.com/callin-blog/meet-callin-the-first-social-podcasting-platform-4e60e84cb48f))

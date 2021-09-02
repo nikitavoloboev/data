@@ -210,3 +210,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Valve Steam Deck](https://www.steamdeck.com/en/) - All-in-one portable PC gaming. ([HN](https://news.ycombinator.com/item?id=27846969))
 - [Google for Games](https://games.withgoogle.com/) ([GitHub](https://github.com/googleforgames))
 - [Senpai.gg](https://senpai.gg/) - Personal gaming coach for PC gamers. ([HN](https://news.ycombinator.com/item?id=28145998))
+- ['Cookie Clicker' Wasn't Meant to Be Fun. Why Is It So Popular 8 Years Later? (2021)](https://www.vice.com/en/article/n7bypk/cookie-clicker-wasnt-meant-to-be-fun-why-is-it-so-popular-8-years-later) ([Tweet](https://twitter.com/patrickklepek/status/1433143964811603976))

@@ -139,6 +139,7 @@
 - [higher-order-unification](https://github.com/jozefg/higher-order-unification) - Small implementation of higher-order unification.
 - [ghc-source-gen](https://github.com/google/ghc-source-gen) - Library for generating Haskell source files and code fragments.
 - [computational-algebra](https://github.com/konn/computational-algebra) - General-Purpose Computer Algebra System as an EDSL in Haskell.
+- [spectacle](https://github.com/awakesecurity/spectacle) - Embedded specification language & model checker in Haskell.
 
 ## Links
 
