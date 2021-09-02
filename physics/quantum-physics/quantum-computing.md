@@ -22,7 +22,7 @@
 - [Quantum Supremacy Using a Programmable Superconducting Processor (2019)](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html) ([HN](https://news.ycombinator.com/item?id=21332768)) ([Talk](https://www.youtube.com/watch?v=FklMpRiTeTA))
 - [Quantum Country](https://quantum.country/) - Free introduction to quantum computing and quantum mechanics.
 - [Quantum mechanics distilled](https://quantum.country/qm)
-- [Qiskit](https://qiskit.org/) - Open-source quantum computing software development framework for leveraging today's quantum processors in research, education, and business.
+- [Qiskit](https://qiskit.org/) - Open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules. ([Code](https://github.com/Qiskit/qiskit))
 - [Quantum Computation and Quantum Information by Nielsen and Chuang](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
 - [ARTIQ](https://github.com/m-labs/artiq) - Leading-edge control system for quantum information experiments.
 - [QuTiP](https://github.com/qutip/qutip) - Quantum Toolbox in Python.
@@ -98,3 +98,5 @@
 - [Quantum Photonics](https://strawberryfields.ai/photonics/index.html)
 - [Strawberry Fields](https://github.com/XanaduAI/strawberryfields) - Full-stack Python library for designing, simulating, and optimizing continuous variable (CV) quantum optical circuits. ([Web](https://strawberryfields.ai/))
 - [PQ Shield](https://pqshield.com/) - Post-quantum Cryptography.
+- [Qiskit Terra](https://github.com/Qiskit/qiskit-terra) - Open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
+- [Qiskit Aer](https://github.com/Qiskit/qiskit-aer) - High performance simulator for quantum circuits that includes noise models.
