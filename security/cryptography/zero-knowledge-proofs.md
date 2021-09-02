@@ -38,3 +38,4 @@
 - [Zero-Knowledge Proofs](https://zkp.science/) ([HN](https://news.ycombinator.com/item?id=27573910))
 - [Zk-SNARKs, FreeTON and OCamlPro](https://medium.com/ocamlpro/zk-snarks-freeton-and-ocamlpro-eaaa1849ffd1)
 - [Zero-Knowledge Middleboxes (2021)](https://eprint.iacr.org/2021/1022.pdf) ([Code](https://github.com/pag-crypto/zkmbs))
+- [How do modern zero-knowledge proofs, and PLONK specifically, work? (videos) (2021)](https://www.cryptologie.net/article/529/how-does-the-general-purpose-zero-knowledge-proof-system-plonk-work/)

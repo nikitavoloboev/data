@@ -78,6 +78,7 @@
 - [The Human Brain in Numbers: A Linearly Scaled-Up Primate Brain (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2776484/) ([HN](https://news.ycombinator.com/item?id=28018481))
 - [NeuralEnsemble](http://neuralensemble.org/) - Community-based initiative to promote and co-ordinate open-source software development in neuroscience. ([Code](https://github.com/NeuralEnsemble))
 - [Fast, Efficient Neural Networks Copy Dragonfly Brains (2021)](https://spectrum.ieee.org/fast-efficient-neural-networks-copy-dragonfly-brains)
+- [How Computationally Complex Is a Single Neuron? (2021)](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/) ([HN](https://news.ycombinator.com/item?id=28393358))
 
 ## Images
 
