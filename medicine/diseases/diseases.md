@@ -15,3 +15,4 @@
 - [Human Phenotype Ontology](https://hpo.jax.org/app/) - Ontology for the description of human clinical features. ([Code](https://github.com/obophenotype/human-phenotype-ontology))
 - [ALZFORUM](https://www.alzforum.org/) - Alzheimer Research Forum.
 - [Schizophrenia Explained (2010)](https://www.youtube.com/watch?v=nEnklxGAmak) - How brain chemical balance directly affects our thinking.
+- [Notes on Type 1 Diabetes](https://ben-marshall.github.io/diabetes/index.html)

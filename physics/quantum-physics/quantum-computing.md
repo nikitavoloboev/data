@@ -97,3 +97,4 @@
 - [What a time crystal is and Google's latest results breakdown (2021)](https://www.youtube.com/watch?v=3vmvMyu9Q0o)
 - [Quantum Photonics](https://strawberryfields.ai/photonics/index.html)
 - [Strawberry Fields](https://github.com/XanaduAI/strawberryfields) - Full-stack Python library for designing, simulating, and optimizing continuous variable (CV) quantum optical circuits. ([Web](https://strawberryfields.ai/))
+- [PQ Shield](https://pqshield.com/) - Post-quantum Cryptography.

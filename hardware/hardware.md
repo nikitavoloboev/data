@@ -222,3 +222,6 @@
 - [What scientists must know about hardware to write fast code (2021)](https://viralinstruction.com/posts/hardware/)
 - [Deviceplane](https://deviceplane.com/) - Securely access remote devices and servers.
 - [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote) ([HN](https://news.ycombinator.com/item?id=28374523))
+- [Awesome Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification)
+- [Imagination](https://www.imaginationtech.com/) - Low-power high-performance embedded IP cores.
+- [Experiments on a $50 DIY air purifier (2020)](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/) ([HN](https://news.ycombinator.com/item?id=28394752))

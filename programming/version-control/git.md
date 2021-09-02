@@ -283,3 +283,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Octopilot](https://github.com/dailymotion-oss/octopilot) - Automate your Gitops workflow, by automatically creating/merging GitHub Pull Requests. ([Web](https://dailymotion-oss.github.io/octopilot/))
 - [Awesome git addons](https://github.com/stevemao/awesome-git-addons)
 - [forgit](https://github.com/wfxr/forgit) - Utility tool powered by fzf for using git interactively.
+- [Picturing Git: Conceptions and Misconceptions (2021)](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/) ([HN](https://news.ycombinator.com/item?id=28392566))
