@@ -53,3 +53,4 @@
 - [libdatachannel](https://github.com/paullouisageneau/libdatachannel) - C/C++ WebRTC lightweight library.
 - [LiveKit](https://livekit.io/) - Open source infrastructure for real time audio and video. ([Docs](https://docs.livekit.io/)) ([GitHub](https://github.com/livekit)) ([Server Code](https://github.com/livekit/livekit-server))
 - [An Introduction to WebRTC Simulcast (2021)](https://blog.livekit.io/an-introduction-to-webrtc-simulcast-6c5f1f6402eb)
+- [The evolution of WebRTC 1.0. - Advancing WebRTC (2021)](https://blog.mozilla.org/webrtc/the-evolution-of-webrtc/) ([HN](https://news.ycombinator.com/item?id=28387531))

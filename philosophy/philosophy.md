@@ -18,6 +18,7 @@ In any way, it is an interesting subject I don't know much about.
 
 ## Links
 
+- [So You Want to Study Philosophy (2021)](https://www.susanrigetti.com/philosophy) ([HN](https://news.ycombinator.com/item?id=28367416))
 - [The Philosophy of Rick and Morty](https://www.youtube.com/watch?v=hWFDHynfl1E)
 - [Nietzsche uses Perl comic](https://existentialcomics.com/comic/86)
 - [Existential comics](http://existentialcomics.com/)
