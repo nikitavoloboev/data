@@ -232,3 +232,4 @@
 - [An Analytical, Statistical Approximate Solution for Dissipative and non-Dissipative Binary-Single Stellar Encounters (2021)](https://arxiv.org/abs/2011.00010) ([HN](https://news.ycombinator.com/item?id=28178509)) ([HN](https://news.ycombinator.com/item?id=28241758))
 - [What is the Chandrasekhar Limit? (2021)](https://www.youtube.com/watch?v=oxYbShKkw-4)
 - [The Planck scale: Is there a fundamental limit to space and time? (2020)](https://www.youtube.com/watch?v=5kuRatz2rj0)
+- [Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? (2021)](https://www.youtube.com/watch?v=KZ8G4VKoSpQ)
