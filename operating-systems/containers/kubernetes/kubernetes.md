@@ -424,3 +424,4 @@
 - [A Kubernetes engineer's guide to mTLS (2021)](https://buoyant.io/mtls-guide/)
 - [Awesome Home Kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home.
 - [Civo Kubernetes](https://www.civo.com/) - Fast, Simple, Managed Kubernetes Service. ([GitHub](https://github.com/civo))
+- [The Guide to Kubernetes Labels](https://blog.kubecost.com/blog/kubernetes-labels/) ([HN](https://news.ycombinator.com/item?id=28384121))
