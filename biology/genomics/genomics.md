@@ -83,3 +83,4 @@
 - [IGV: Integrative Genomics Viewer](https://igv.org/) - Fast, efficient, scalable visualization tool for genomics data and annotations. ([Code](https://github.com/igvteam/igv))
 - [Oxford Nanopore Technologies](https://nanoporetech.com/) - Nanopores for single molecule (DNA/RNA, protein) analysis using the MinION, GridION and PromethION systems. ([GitHub](https://github.com/nanoporetech))
 - [Medaka](https://github.com/nanoporetech/medaka) - Tool to create consensus sequences and variant calls from nanopore sequencing data.
+- [alignment-nf](https://github.com/IARCbioinfo/alignment-nf) - Whole Exome/Whole Genome Sequencing alignment pipeline.

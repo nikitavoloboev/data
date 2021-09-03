@@ -298,3 +298,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The Indie Web](https://theindieweb.com/) - Hotspot for indie creations on the web. ([Code](https://github.com/tholman/the-indie-web))
 - [Xiu](https://github.com/harlanc/xiu) - Powerful and secure live server by pure rust (rtmp/httpflv/hls/relay).
 - [timefind](https://github.com/Cykelero/timefind) - Search a website's history.
+- [ECMA, TC39 Meeting Notes](https://github.com/tc39/notes/tree/master/meetings)
+- [TC39 meeting agendas](https://github.com/tc39/agendas)

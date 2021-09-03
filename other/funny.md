@@ -25,6 +25,7 @@
 - [Practice and perspective makes you more funny. Who are you favorite comedians? Why do you find them funny? What is their perspective on life? Can you imagine how many times theyve done a gig and its absolutely flopped but they kept going regardless?](https://www.reddit.com/r/selfimprovement/comments/lym25n/how_do_i_become_funny/)
 - [Recruiters be like: We want someone who can connect to the database using CSS.](https://twitter.com/towernter/status/1394676801742512130)
 - [I would describe my conversational skills as “short story long”](https://twitter.com/ginnyhogan_/status/1396111131211714560)
+- [Universe Feels Zero Connection To Guy Tripping On Mushrooms](https://www.reddit.com/r/Drugs/comments/pgtqkn/universe_feels_zero_connection_to_guy_tripping_on/)
 
 ## Links
 

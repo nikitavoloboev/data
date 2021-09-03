@@ -460,6 +460,7 @@
 - [pmdarima](https://github.com/alkaline-ml/pmdarima) - Statistical library designed to fill the void in Python's time series analysis capabilities.
 - [perfplot](https://github.com/nschloe/perfplot) - Performance analysis for Python.
 - [Bolt](https://github.com/dblalock/bolt) - Algorithm for compressing vectors of real-valued data and running mathematical operations directly on the compressed representations.
+- [MPIRE](https://github.com/Slimmer-AI/mpire) - Python package for easy multiprocessing, but faster than multiprocessing.
 
 ## Links
 
