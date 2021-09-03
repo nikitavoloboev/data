@@ -57,3 +57,4 @@
 - [An Attempt at Demystifying Graph Deep Learning](https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/)
 - [Graph Random Neural Network for Semi-Supervised Learning on Graphs (2020)](https://arxiv.org/abs/2005.11079) ([Code](https://github.com/THUDM/GRAND))
 - [CapsGNN: Capsule Graph Neural Networks in PyTorch](https://github.com/benedekrozemberczki/CapsGNN)
+- [A Gentle Introduction to Graph Neural Networks (2021)](https://distill.pub/2021/gnn-intro/)
