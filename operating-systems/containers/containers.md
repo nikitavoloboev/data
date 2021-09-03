@@ -119,3 +119,4 @@
 - [RootlessKit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for implementing rootless containers.
 - [car](https://github.com/tetratelabs/car) - Like tar, but for containers.
 - [Life of a Container (2020)](https://indradhanush.github.io/blog/life-of-a-container/)
+- [Issues with containers on AWS (2021)](https://twitter.com/marknca/status/1433473464178909195)

@@ -155,3 +155,4 @@
 - [What tech stack do you use in your SAAS product? (2021)](https://www.reddit.com/r/SaaS/comments/p60ws5/what_tech_stack_do_you_use_in_your_saas_product/)
 - [Ask HN: Companies of one, what is your tech stack? (2021)](https://news.ycombinator.com/item?id=28299053)
 - [From synchronous service calls to message-passing dataflow systems (2019)](https://www.rodrigoaraujo.me/posts/from-synchronous-service-calls-to-message-passing-dataflow-systems/)
+- [The Persistent Gravity of Cross Platform (2021)](https://allenpike.com/2021/gravity-of-cross-platform-apps) ([HN](https://news.ycombinator.com/item?id=28390732))

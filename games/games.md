@@ -144,6 +144,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [A comparison of city building games (2021)](https://twitter.com/alfred_twu/status/1345955063353597954) ([HN](https://news.ycombinator.com/item?id=25632642))
 - [What older video games do you find yourself going back to? (2021)](https://www.reddit.com/r/AskUK/comments/mqlmyb/what_older_video_games_do_you_find_yourself_going/)
 - [Ask HN: What are some good strategy games? (2021)](https://news.ycombinator.com/item?id=26820739)
+- [Your favorite games that made you learn real life concepts? (2021)](https://www.reddit.com/r/patientgamers/comments/ph6gy5/your_favorite_games_that_made_you_learn_real_life/)
 
 ## Links
 
