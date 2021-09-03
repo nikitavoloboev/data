@@ -133,3 +133,4 @@
 - [Docker with IPv6 and Network Isolation (2021)](https://battlepenguin.com/tech/docker-with-ipv6-and-network-isolation/)
 - [An Overview of Docker Desktop Alternatives (2021)](https://matt-rickard.com/docker-desktop-alternatives/) ([HN](https://news.ycombinator.com/item?id=28379556))
 - [Migrating from Docker to Podman (2021)](https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/) ([Lobsters](https://lobste.rs/s/sizjqf/migrating_from_docker_podman))
+- [Docker in Production: Lessons from the Trenches](https://github.com/kuiblog/docker-books/blob/master/Docker%20in%20Production%20-%20Lessons%20from%20the%20Trenches.pdf)

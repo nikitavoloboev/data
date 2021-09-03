@@ -79,3 +79,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Using Paper for Everyday Tasks (2021)](https://christine.website/blog/gtd-on-paper-2021-06-13) ([Lobsters](https://lobste.rs/s/uwuvx3/using_paper_for_everyday_tasks))
 - [Move fast, but understand the problem first (2021)](https://jacobobryant.com/blog/understand/) ([HN](https://news.ycombinator.com/item?id=27691586))
 - [Ask HN: What problem are you close to solving and how can we help? (2021)](https://news.ycombinator.com/item?id=28344952)
+- [How I Write Code: Pen and Paper (2021)](https://noteflakes.com/articles/2021-09-02-how-i-write-code-pen-paper) ([HN](https://news.ycombinator.com/item?id=28390430))

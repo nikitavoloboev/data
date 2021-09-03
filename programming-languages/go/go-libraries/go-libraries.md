@@ -298,6 +298,7 @@
 - [nftables](https://github.com/google/nftables) - Manipulates Linux nftables (the iptables successor).
 - [libbpfgo](https://github.com/aquasecurity/libbpfgo) - Go library for working with Linux's eBPF.
 - [Sysinfo](https://github.com/zcalusic/sysinfo) - Go library providing Linux OS / kernel / hardware system information.
+- [tenus](https://github.com/milosgajdos/tenus) - Allows you to configure and manage Linux network devices programmatically.
 
 ## Error
 
@@ -911,6 +912,7 @@
 - [fwd](https://github.com/philhofer/fwd) - Buffered Reader/Writer.
 - [Ladon](https://github.com/ory/ladon) - SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [go-semver](https://github.com/coreos/go-semver) - Semantic Versioning Library.
+- [gosom](https://github.com/milosgajdos/gosom) - Self-organizing maps in Go.
 
 ## Links
 

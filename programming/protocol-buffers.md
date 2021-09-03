@@ -38,3 +38,4 @@
 - [Kiwi Message Format](https://github.com/evanw/kiwi) - Schema-based binary format for efficiently encoding trees of data. ([Demo](http://evanw.github.io/kiwi/))
 - [protolint](https://github.com/yoheimuta/protolint) - Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 - [vtprotobuf](https://github.com/planetscale/vtprotobuf) - Protocol Buffers compiler that generates optimized marshaling & unmarshaling Go code for ProtoBuf APIv2. ([Article](https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/)) ([HN](https://news.ycombinator.com/item?id=27384911))
+- [protolock](https://github.com/nilslice/protolock) - Track your .proto files and prevent changes to messages and services which impact API compatibility.

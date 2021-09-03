@@ -64,3 +64,4 @@
 - [rustwasm-worker-template](https://github.com/cloudflare/rustwasm-worker-template) - Template for kick starting a Cloudflare worker project using wasm-pack.
 - [Build a Serverless API with Cloudflare Workers (2021)](https://egghead.io/courses/build-a-serverless-api-with-cloudflare-workers-d67ca551)
 - [Using AWS from Cloudflare Workers](https://github.com/cloudflare/workers-aws-template) - Template for using Amazon Web Services such as DynamoDB and SQS from a Cloudflare Worker.
+- [workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust.
