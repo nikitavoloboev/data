@@ -49,3 +49,4 @@
 - [Friendship ended with the garbage collector (2021)](https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/) ([HN](https://news.ycombinator.com/item?id=28305762))
 - [Don’t forget about memory management — Go Time (2021)](https://overcast.fm/+GnKYmRs1E)
 - [DUMA](https://github.com/johnsonjh/duma) - Detect Unintended Memory Access. Red-Zone memory allocator.
+- [regalloc2](https://github.com/bytecodealliance/regalloc2) - New register allocator.
