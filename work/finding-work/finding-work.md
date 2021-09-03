@@ -129,3 +129,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Some career advice (2019)](https://lethain.com/career-advice/) ([HN](https://news.ycombinator.com/item?id=27990262))
 - [Y Combinator Jobs](https://www.ycombinator.com/jobs) - Find the best startup jobs, curated by Y Combinator.
 - [If software engineering is in demand, why is it so hard to get a job? (2021)](https://betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463) ([Reddit](https://www.reddit.com/r/programming/comments/pf5ymu/if_software_engineering_is_in_demand_why_is_it_so/))
+- [Ask HN: How to Negotiate Stock Options (2021)](https://news.ycombinator.com/item?id=28401655)

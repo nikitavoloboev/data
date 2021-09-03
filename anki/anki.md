@@ -57,3 +57,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Taking Spaced Repetition Seriously (2021)](https://blog.jethro.dev/posts/taking_srs_seriously/)
 - [ankisyncd](https://github.com/tsudoko/anki-sync-server) - Self-hosted Anki sync server.
 - [How to Make Anki Cards from lectures/videos (2020)](https://www.youtube.com/watch?v=K6C9TpEq2lA)
+- [Note Garden](https://notegarden.web.app/) - Tool for your learning, like Anki and Notion in one. ([HN](https://news.ycombinator.com/item?id=28400446))

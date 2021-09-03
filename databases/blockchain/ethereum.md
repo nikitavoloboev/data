@@ -270,3 +270,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Harmony One](https://www.harmony.one/) - Scaling Ethereum Applications and Cross-Chain Finance.
 - [Go-Web3](https://github.com/umbracle/go-web3) - Ethereum Go API.
 - [Streaming Fast on Ethereum](https://github.com/streamingfast/streamingfast-client) - Stream Ethereum data like there's no tomorrow.
+- [ERC-721 Token](https://github.com/0xcert/ethereum-erc721) - Non-fungible token implementation for Ethereum-based blockchains.

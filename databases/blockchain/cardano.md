@@ -1,5 +1,7 @@
 # [Cardano](https://cardano.org/)
 
+Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status/1433653091493195794). Research done by [IOHK](https://iohk.io/en/research/) is interesting though.
+
 ## Notes
 
 - [Cardano appears to be a trap for moderately smart people who don’t have time to read cryptocurrency whitepapers all day. Staking is nothing new, smart contracts are nothing new.](https://news.ycombinator.com/item?id=26005048)

@@ -160,7 +160,7 @@
 - [Homebase React](https://github.com/homebaseio/homebase-react) - Graph database for delightful React state management.
 - [react-svg](https://github.com/tanem/react-svg) - React component that injects SVG into the DOM.
 - [Gitalk](https://github.com/gitalk/gitalk) - Modern comment component based on GitHub Issue and Preact.
-- [Mafs](https://github.com/stevenpetryk/mafs) - React components for math visualization. ([Docs](https://mafs.dev/guides/get-started/installation/))
+- [Mafs](https://github.com/stevenpetryk/mafs) - React components for math visualization. ([Docs](https://mafs.dev/guides/get-started/installation/)) ([Web](https://mafs.dev/))
 - [react-masonry-css](https://github.com/paulcollett/react-masonry-css) - React Masonry layout component powered by CSS, dependency free.
 - [Bumbag](https://bumbag.style/) - Friendly React UI Kit suitable for MVPs or large-scale applications. ([Code](https://github.com/bumbag/bumbag-ui))
 - [ractive-player](https://github.com/ysulyma/ractive-player) - Library for interactive videos in React. ([Web](https://ractive-player.org/))

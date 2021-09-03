@@ -13,7 +13,7 @@
 - [Motion](https://www.getmotion.io/) - Free, simple animated SVG editor. ([Article](https://www.getmotion.io/blog/introducing-motion/))
 - [Svgbob Editor](https://ivanceras.github.io/svgbob-editor/) - Convert your ascii diagram scribbles into happy little SVG.
 - [Vecta](https://vecta.io/) - Powerful, online SVG editor for teams.
-- [OpenMoji](https://openmoji.org/) - Open source emojis for designers, developers and everyone else. ([Code](https://github.com/hfg-gmuend/openmoji))
+- [OpenMoji](https://openmoji.org/) - Open source emojis for designers, developers and everyone else. ([Code](https://github.com/hfg-gmuend/openmoji)) ([HN](https://news.ycombinator.com/item?id=28403672))
 - [Visual Guide To SVG Matrix](https://github.com/afternoon2/svg-matrix-visual-guide)
 - [Curated List Of Websites For Free SVG Illustrations (2019)](https://wweb.dev/resources/free-svg-illustrations)
 - [SVG Animations](https://andrew.wang-hoyer.com/experiments/svg-animations/) ([Code](https://github.com/ndrwhr/svg-animation-src))
