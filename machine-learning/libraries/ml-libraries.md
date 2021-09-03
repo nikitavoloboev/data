@@ -187,3 +187,4 @@
 - [Wrangl](https://github.com/vzhong/wrangl) - Ray-based parallel data preprocessing for NLP and ML.
 - [Treex](https://github.com/cgarciae/treex) - Pytree-based Module system for Deep Learning in JAX. ([Docs](https://cgarciae.github.io/treex/))
 - [PhiFlow](https://github.com/tum-pbs/PhiFlow) - Open-source simulation toolkit built for optimization and machine learning applications.
+- [OpenVINO Toolkit](https://github.com/openvinotoolkit/openvino) - Deploy pre-trained deep learning models through a high-level C++ Inference Engine API integrated with application logic.

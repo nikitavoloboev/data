@@ -67,3 +67,4 @@
 - [vue-to-react](https://github.com/egoist/vue-to-react) - Turn a Vue component into a React component.
 - [Oruga](https://github.com/oruga-ui/oruga) - Lightweight library of UI components for Vue.js without CSS framework dependency. ([Web](https://oruga.io/))
 - [Vue Konva](https://github.com/konvajs/vue-konva) - JavaScript library for drawing complex canvas graphics using Vue.
+- [Vue Query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
