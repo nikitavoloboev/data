@@ -12,3 +12,4 @@
 - [VIA](https://caniusevia.com/) - Modified QMK builds for keyboards. ([Code](https://github.com/the-via))
 - [A guide to home row mods (2020)](https://precondition.github.io/home-row-mods)
 - [Measure and reduce keyboard input latency with QMK on the Kinesis Advantage (2021)](https://michael.stapelberg.ch/posts/2021-05-08-keyboard-input-latency-qmk-kinesis/)
+- [QMK Discord](https://discord.com/invite/mthbPUc)

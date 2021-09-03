@@ -12,7 +12,7 @@
 - [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries.
 - [SQL Fundamentals course](https://egghead.io/courses/sql-fundamentals)
 - [Q](https://github.com/harelba/q) - Run SQL directly on CSV or TSV files. ([Docs](http://harelba.github.io/q/)) ([HN](https://news.ycombinator.com/item?id=27423276))
-- [Learn Modern SQL with PostgreSQL](https://www.masterywithsql.com/) ([HN](https://news.ycombinator.com/item?id=20260292))
+- [Learn Modern SQL with PostgreSQL](https://www.masterywithsql.com/) ([HN](https://news.ycombinator.com/item?id=20260292)) ([Solutions](https://github.com/klingtnet/mastery-with-sql))
 - [PartiQL](https://partiql.org/) - SQL-compatible access to relational, semi-structured, and nested data.
 - [BlazingSQL](https://github.com/BlazingDB/pyBlazing) - Lightweight, GPU accelerated, SQL engine built on RAPIDS.
 - [Ways to Tweak Slow SQL Queries](https://www.databasestar.com/slow-sql) ([HN](https://news.ycombinator.com/item?id=20855441))
