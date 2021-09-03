@@ -110,6 +110,7 @@
 - [NPM Publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM.
 - [flyctl-actions](https://github.com/superfly/flyctl-actions) - GitHub Action that wraps the flyctl.
 - [GitHub Sync](https://github.com/repo-sync/github-sync) - GitHub Action for syncing current repository with remote.
+- [setup-git-credentials](https://github.com/fusion-engineering/setup-git-credentials) - GitHub action to clone private respositories.
 
 ## Go
 
