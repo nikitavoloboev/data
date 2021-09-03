@@ -149,3 +149,4 @@
 - [Context Free Art](https://www.contextfreeart.org/) - Program that generates images from written instructions called a grammar.
 - [Good resources/ideas to start with generative art](https://www.reddit.com/r/golang/comments/kfl391/question_are_there_any_good_resources_for_getting/)
 - [Bauhaus poster generator](https://tool.graphics/bauhaus)
+- [generative-art-opensource](https://github.com/HashLips/generative-art-opensource) - Create generative art by using the canvas api and node js.
