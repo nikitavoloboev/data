@@ -4,6 +4,10 @@ Some time in Spain with family. More links/notes in wiki. Started to get more fa
 
 I also worked with [Memex](https://getmemex.com) briefly and it's an awesome tool, just need to [make it work for Safari first](https://github.com/WorldBrain/Memex/issues/1134) before I can invest more time in the project.
 
-The goals for next month are to release first version of new LA. I talked about it before but for once, things are starting to fall into place regarding the tech stack and some design decisions go.
+Nils released [new collab album](https://open.spotify.com/album/1t6aWXi0WtgC6vyWnpNxdM) too. Quite liked [this song](https://open.spotify.com/track/3jjAFT2qdCwXPQ0AgYghN4) from it.
 
-[Onwards. 🍃](https://open.spotify.com/track/3jjAFT2qdCwXPQ0AgYghN4)
+Wasn't as productive in moving towards shipping (completing) my goals these past months. Something did click for me recently though and I am much more focused now. Going to waste 0 time on anything that isn't making me and my projects grow. This includes spending much less time on [Twitter](https://twitter.com/) + [Twitter Russian List](https://twitter.com/i/lists/1351120526220152839) / [HN](https://news.ycombinator.com) / [Reddit](https://www.reddit.com) / [Pinboard (Popular)](https://pinboard.in/popular/) / [Lobsters](https://lobste.rs) & [YouTube](https://www.youtube.com). Such a colossal sink holes of times these are. Especially tricky as I often feel like I am not 'wasting my time' there as I get slow dopamine hits of news/jokes/stories/.. Going to try put 'news consumption' (unless on the go where I can either do Podcast or browse Twitter as I walk somewhere) into dedicated times of the day. I once tried a system with [Focus mac app](https://heyfocus.com) where I did Pomodoro timers of 50 min focus, 5 min break. Repeating throughout entirety of the day. Going to try something similar with main goal of minimizing time spent on 'news' and more on building. Enough distractions. Also screw analytics. Going to try block all GitHub analytics pages forever. Last time I looked into it, I wasn't sure if I can blacklist based off regex (Focus does it so it should be possible). Would love to permanently block some sites forever.
+
+Also going to be sharing a lot more clearly what I am going through, what I learned going forward. Feel like my past look backs were incredibly boring. Want change.
+
+[Onwards to new month. 🍃](https://open.spotify.com/track/6Pqy8Ds0FK7FuPzeZlXi5W?si=14750896e06d402d) Incredibly excited for it.
