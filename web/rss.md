@@ -108,3 +108,4 @@
 - [RSSerpent](https://github.com/RSSerpent/RSSerpent) - Open-source software that create RSS feeds for websites that do not provide any.
 - [An Analysis of Feed URLs (2021)](https://blog.jim-nielsen.com/2021/feed-urls/)
 - [FeedMixer](https://github.com/cristoper/feedmixer) - Self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON).
+- [Why and how to use RSS for consuming knowledge (2021)](https://bluprince13.com/blog/why-and-how-to-use-rss-for-consuming-knowledge) ([HN](https://news.ycombinator.com/item?id=28412084))

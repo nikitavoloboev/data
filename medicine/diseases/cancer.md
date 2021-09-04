@@ -21,3 +21,4 @@
 - [How a Cancer Drug Carrier's Structure Can Help Selectively Target Cancer Cells (2021)](https://www.tus.ac.jp/en/mediarelations/archive/20210126_1212.html) ([HN](https://news.ycombinator.com/item?id=25966275))
 - [Notes on My Chemotherapy (2021)](https://www.charlieharrington.com/chemotherapy) ([HN](https://news.ycombinator.com/item?id=26041001))
 - [Books to help cope with cancer (2021)](https://www.reddit.com/r/suggestmeabook/comments/oz4pbl/im_25_years_old_and_my_mother_is_quickly_and/)
+- [Use of artificial intelligence for image analysis in breast cancer screening (2021)](https://www.bmj.com/content/374/bmj.n1872) ([HN](https://news.ycombinator.com/item?id=28394834))

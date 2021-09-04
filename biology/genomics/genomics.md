@@ -84,3 +84,4 @@
 - [Oxford Nanopore Technologies](https://nanoporetech.com/) - Nanopores for single molecule (DNA/RNA, protein) analysis using the MinION, GridION and PromethION systems. ([GitHub](https://github.com/nanoporetech))
 - [Medaka](https://github.com/nanoporetech/medaka) - Tool to create consensus sequences and variant calls from nanopore sequencing data.
 - [alignment-nf](https://github.com/IARCbioinfo/alignment-nf) - Whole Exome/Whole Genome Sequencing alignment pipeline.
+- [Stanford researchers develop an engineered 'mini' CRISPR genome editing system (2021)](https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/) ([HN](https://news.ycombinator.com/item?id=28409123))
