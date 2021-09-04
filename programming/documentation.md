@@ -110,4 +110,4 @@
 - [Bikeshed](https://github.com/tabatkins/bikeshed) - Preprocessor for anyone writing specifications that converts source files into actual specs.
 - [Library](https://nyt-library-demo.herokuapp.com/) - Collaborative documentation site, powered by Google Docs. ([Code](https://github.com/nytimes/library))
 - [Making world-class docs takes effort (2021)](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/)
-- [Writing Well-Documented Code - Learn from Examples (2021)](https://codecatalog.org/2021/09/04/well-documented-code.html)
+- [Writing Well-Documented Code - Learn from Examples (2021)](https://codecatalog.org/2021/09/04/well-documented-code.html) ([HN](https://news.ycombinator.com/item?id=28416269))

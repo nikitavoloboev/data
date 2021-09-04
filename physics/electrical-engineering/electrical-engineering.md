@@ -67,3 +67,4 @@
 - [A Pixel Purse LED Cube Controlled by a Cisco 3G Modem (2021)](https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html)
 - [Second IC](http://sam.zeloof.xyz/second-ic/) ([HN](https://news.ycombinator.com/item?id=28176255))
 - [Pylectronics](https://github.com/fgarci03/pylectronics) - Reproduce digital electronics in Python. ([HN](https://news.ycombinator.com/item?id=28352358))
+- [Pong Circuit-Level Simulation](https://www.falstad.com/pong/vonly.html) ([HN](https://news.ycombinator.com/item?id=28388983))

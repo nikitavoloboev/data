@@ -172,3 +172,4 @@
 - [#ifdef Considered Harmful, or Portability Experience with C News (1992)](http://www.literateprogramming.com/ifdefs.pdf)
 - [Ocean](https://github.com/riicchhaarrd/ocean) - Programming language lik C that compiles into a x86 ELF executable. ([HN](https://news.ycombinator.com/item?id=28048528))
 - [The (too) many pitfalls of VLA in C (2021)](https://blog.joren.ga/vla-bad)
+- [The Descent to C (2013)](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) ([HN](https://news.ycombinator.com/item?id=28378627))

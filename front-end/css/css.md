@@ -350,3 +350,4 @@
 - [The World of CSS Transforms](https://www.joshwcomeau.com/css/transforms/)
 - [An Interactive Guide to CSS Keyframe Animations](https://www.joshwcomeau.com/animation/keyframe-animations/)
 - [You want enabling CSS selectors, not disabling ones (2021)](https://css-tricks.com/you-want-enabling-css-selectors-not-disabling-ones/) ([HN](https://news.ycombinator.com/item?id=28373840))
+- [Building A Stepper Component (2021)](https://ishadeed.com/article/stepper-component-html-css/)
