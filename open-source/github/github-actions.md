@@ -111,6 +111,7 @@
 - [flyctl-actions](https://github.com/superfly/flyctl-actions) - GitHub Action that wraps the flyctl.
 - [GitHub Sync](https://github.com/repo-sync/github-sync) - GitHub Action for syncing current repository with remote.
 - [setup-git-credentials](https://github.com/fusion-engineering/setup-git-credentials) - GitHub action to clone private respositories.
+- [github-action-ghr](https://github.com/fnkr/github-action-ghr) - GitHub Action to upload build artifacts to GitHub releases.
 
 ## Go
 
