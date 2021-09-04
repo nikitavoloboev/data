@@ -56,6 +56,7 @@
 - [“Change only one thing at a time” should be codified into every software change control process. There should be no implicit changes, ever. Every single bit of config needs to be captured as code.](https://twitter.com/copyconstruct/status/1398043935176413184)
 - [Code affects humans, not machines. Think through the consequences of design decisions. Tradeoffs are everywhere, document them. Taking on technical debt should be an informed decision, not the default. All resources are finite. Know your complexity bounds and impossibility results.](https://www.aljoscha-meyer.de/)
 - [We should have "code walkthrough" meetings, where someone who knows an aspect of the codebase explains how it works to everyone else. No PRs reviewed, no decisions made, just knowledge transfer.](https://twitter.com/hillelogram/status/1424109751659638793)
+- [You should own your core competencies.](https://lobste.rs/s/uxgclp/benefit_dependency_is_inversely)
 
 ## Links
 
@@ -432,3 +433,4 @@
 - ["Programming a 144-computer chip to minimize power" - Chuck Moore (2013)](https://www.youtube.com/watch?v=0PclgBd6_Zs)
 - [Caches, Modes, and Unstable Systems (2021)](https://brooker.co.za/blog/2021/08/27/caches.html) ([HN](https://news.ycombinator.com/item?id=28344561))
 - [Making Reasonable Use of Computer Resources: Part 2 (2021)](https://vfoley.xyz/reasonable-use-2/)
+- [The benefit of a dependency is inversely proportional to the amount of effort spent on a project (2021)](https://eli.thegreenplace.net/2017/benefits-of-dependencies-in-software-projects-as-a-function-of-effort/) ([Lobsters](https://lobste.rs/s/uxgclp/benefit_dependency_is_inversely))

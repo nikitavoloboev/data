@@ -257,3 +257,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Coding with Character (2021)](https://realdougwilson.com/writing/coding-with-character)
 - [Typeheist](https://typeheist.lemonsqueezy.com/) - Independent font foundry focusing on hand-lettered, realistic fonts.
 - [Helvetica Now Variable](https://www.monotype.com/fonts/helvetica-now-variable) ([HN](https://news.ycombinator.com/item?id=28211137))
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/) - Practical guide to web typography.

@@ -15,3 +15,4 @@ I saw a [few documentaries](https://letterboxd.com/nikitavoloboev/films/genre/do
 - [The Best Documentaries of 2020](https://www.indiewire.com/2020/12/best-documentaries-2020-1234604321/)
 - [CuriosityStream](https://curiositystream.com/) - Thousands of documentaries that enlighten, entertain & inspire.
 - [Documentaries: The Best Of (2021)](https://www.reddit.com/r/MovieSuggestions/comments/pb7ue0/documentaries_the_best_of/)
+- [WaterBear](https://www.waterbear.com/) - Free library of documentaries and shorts. ([HN](https://news.ycombinator.com/item?id=28413951))
