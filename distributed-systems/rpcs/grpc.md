@@ -54,3 +54,4 @@
 - [grpc-fallback-go](https://github.com/googleapis/grpc-fallback-go) - Lightweight proxy that connects gRPC to HTTP/1.1.
 - [API Client Generator for Go](https://github.com/googleapis/gapic-generator-go) - Generator for protocol buffer described APIs for and in Go.
 - [GAPIC Showcase](https://github.com/googleapis/gapic-showcase) - API that demonstrates Generated API Client (GAPIC) features and common API patterns used by Google.
+- [gnostic gRPC plugin](https://github.com/google/gnostic-grpc) - Gnostic plugin that converts an OpenAPI API description into a description of a gRPC service that can be used to implement that API using gRPC-JSON Transcoding.

@@ -58,3 +58,4 @@
 - [1931: Kurt Gödel shows limits of math, logic, computing, AI](https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html) ([HN](https://news.ycombinator.com/item?id=27536974))
 - [Abductive vs. inductive reasoning](https://math.stackexchange.com/questions/619311/abductive-vs-inductive-reasoning)
 - [Zorn's Lemma, Choice, & Well-ordering (2021)](https://bharathi.xyz/math/awz.html)
+- [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)

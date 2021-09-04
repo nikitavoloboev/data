@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Coq Docs](https://coq.inria.fr/distrib/current/refman/index.html)
 - [UniMath](https://github.com/UniMath/UniMath) - Coq library aims to formalize a substantial body of mathematics using the univalent point of view.
 - [Mathematical Components](https://math-comp.github.io/) - Libraries of formalized mathematics developed using the Coq proof assistant. ([GitHub](https://github.com/math-comp))
 - [Mathematical Components book](https://math-comp.github.io/mcb/) ([Code](https://github.com/math-comp/mcb))
