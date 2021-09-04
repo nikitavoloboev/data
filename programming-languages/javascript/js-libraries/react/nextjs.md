@@ -230,3 +230,5 @@
 - [next-intl](https://github.com/amannn/next-intl) - Minimal, but complete solution for managing translations, date, time and number formatting in Next.js apps. ([Article](https://www.thisdot.co/blog/next-js-adding-localization-with-next-intl))
 - [Authentication for NextJS with GraphQL & REST APIs and SSR (Server Side Rendering)](https://wundergraph.com/blog/authentication_for_nextjs_with_graphql_and_rest_apis_and_server_side_rendering)
 - [fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next.
+- [The Ultimate Guide To Firebase With Next.JS (2021)](https://blog.jarrodwatts.com/the-ultimate-guide-to-firebase-with-nextjs)
+- [What I struggled with Next.js using Firebase Hosting (and enable SSR) (2021)](https://dev.to/rowaxl/what-i-struggled-with-next-js-using-firebase-hosting-and-enable-ssr-4e67)
