@@ -20,3 +20,4 @@ I often switch between `Week` and `Month` views.
 - [Nettu scheduler](https://github.com/fmeringdal/nettu-scheduler) - Self-hosted calendar and scheduler server.
 - [Vimcal](https://www.vimcal.com/) - Fly through your calendar.
 - [Your Calendar as Todo List](https://twitter.com/swyx/status/1364107473724919809)
+- [Google Meet & macOS Calendar.app (2021)](https://vito.io/2021/04/06/google-meet-calendar-mac-app)

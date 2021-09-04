@@ -109,3 +109,4 @@
 - [Ask HN: What software do you use to gather requirements? (2021)](https://news.ycombinator.com/item?id=27615562)
 - [Bikeshed](https://github.com/tabatkins/bikeshed) - Preprocessor for anyone writing specifications that converts source files into actual specs.
 - [Library](https://nyt-library-demo.herokuapp.com/) - Collaborative documentation site, powered by Google Docs. ([Code](https://github.com/nytimes/library))
+- [Making world-class docs takes effort (2021)](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/)

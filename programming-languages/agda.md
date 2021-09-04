@@ -46,3 +46,4 @@
 - [system-f-agda](https://github.com/sstucki/system-f-agda) - Formalization of the polymorphic lambda calculus extended with iso-recursive types.
 - [calf](https://github.com/jonsterling/agda-calf) - Cost-aware logical framework, embedded in Agda.
 - [Logical Relation for Martin-Löf Type Theory in Agda](https://github.com/mr-ohman/logrel-mltt)
+- [Programming with Proofs in Agda (2021)](https://www.youtube.com/watch?v=U5i2VQj5jPk)

@@ -102,4 +102,4 @@
 - [A future for SQL on the web (2021)](https://jlongster.com/future-sql-web) ([HN](https://news.ycombinator.com/item?id=28156831)) ([Tweet](https://twitter.com/jlongster/status/1425825714788503552))
 - [sqlite-s3-query](https://github.com/michalc/sqlite-s3-query) - Python function to query SQLite files stored on S3.
 - [Strict Tables – Column type constraints in SQLite](https://www.sqlite.org/draft/stricttables.html) ([HN](https://news.ycombinator.com/item?id=28259104))
-- [sqlite-tui](https://github.com/mathaou/sqlite-tui) - TUI for viewing sqlite databases, written in Go.
+- [SQLite-TUI](https://github.com/mathaou/termdbms) - TUI for viewing SQLite databases, written in Go. ([HN](https://news.ycombinator.com/item?id=28408682))
