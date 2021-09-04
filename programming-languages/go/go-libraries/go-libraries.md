@@ -913,6 +913,7 @@
 - [Ladon](https://github.com/ory/ladon) - SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [go-semver](https://github.com/coreos/go-semver) - Semantic Versioning Library.
 - [gosom](https://github.com/milosgajdos/gosom) - Self-organizing maps in Go.
+- [netaddr](https://github.com/inetaf/netaddr) - Network address types.
 
 ## Links
 

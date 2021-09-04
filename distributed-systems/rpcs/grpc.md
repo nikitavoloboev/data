@@ -51,3 +51,6 @@
 - [gRPC vs REST: comparing APIs architectural styles (2021)](https://www.imaginarycloud.com/blog/grpc-vs-rest/)
 - [Lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go.
 - [PowerProto](https://github.com/storyicon/powerproto) - Awesome version control tool for protoc and its related plugins.
+- [grpc-fallback-go](https://github.com/googleapis/grpc-fallback-go) - Lightweight proxy that connects gRPC to HTTP/1.1.
+- [API Client Generator for Go](https://github.com/googleapis/gapic-generator-go) - Generator for protocol buffer described APIs for and in Go.
+- [GAPIC Showcase](https://github.com/googleapis/gapic-showcase) - API that demonstrates Generated API Client (GAPIC) features and common API patterns used by Google.

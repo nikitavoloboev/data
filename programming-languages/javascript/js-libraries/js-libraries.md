@@ -580,6 +580,7 @@
 - [PCUI Graph](https://github.com/playcanvas/pcui-graph) - JavaScript library for creating node-based graphs.
 - [Detect It](https://github.com/rafgraph/detect-it) - Detect if a device is mouseOnly, touchOnly, or hybrid, and if the primary input is mouse or touch. ([Web](https://detect-it.rafgraph.dev/))
 - [zen-observable](https://github.com/zenparsing/zen-observable) - Implementation of Observables for JavaScript.
+- [has-pkg](https://github.com/antfu/has-pkg) - Check if a package is installed locally.
 
 ## Links
 

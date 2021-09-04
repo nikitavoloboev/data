@@ -140,6 +140,7 @@
 - [ghc-source-gen](https://github.com/google/ghc-source-gen) - Library for generating Haskell source files and code fragments.
 - [computational-algebra](https://github.com/konn/computational-algebra) - General-Purpose Computer Algebra System as an EDSL in Haskell.
 - [spectacle](https://github.com/awakesecurity/spectacle) - Embedded specification language & model checker in Haskell.
+- [Hashable](https://github.com/haskell-unordered-containers/hashable) - Class for types that can be converted to a hash value.
 
 ## Links
 
