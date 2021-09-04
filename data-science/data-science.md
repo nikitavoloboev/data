@@ -193,3 +193,4 @@
 - [Moving beyond “algorithmic bias is a data problem” (2021)](<https://www.cell.com/patterns/fulltext/S2666-3899(21)00061-1>) ([HN](https://news.ycombinator.com/item?id=28233077))
 - [Clustering Algorithms with Python (2020)](https://machinelearningmastery.com/clustering-algorithms-with-python/) ([HN](https://news.ycombinator.com/item?id=28350412))
 - [Data Science Cheatsheet 2.0](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+- [Lessons Learned from two years as a Data Scientist (2021)](https://dawndrain.github.io/braindrain/two_years.html)
