@@ -271,3 +271,4 @@
 - [PyGCL](https://github.com/GraphCL/PyGCL) - Graph Contrastive Learning Library for PyTorch.
 - [Fast Transformer - PyTorch](https://github.com/lucidrains/fast-transformer-pytorch)
 - [Bonito](https://github.com/nanoporetech/bonito) - PyTorch Basecaller for Oxford Nanopore Reads.
+- [Working through "What is torch.nn really?" (2021)](https://www.youtube.com/watch?v=KRcwQRn-_NU)
