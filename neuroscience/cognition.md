@@ -18,3 +18,4 @@
 - [Event-based backpropagation for exact gradients in spiking neural networks (2020)](https://arxiv.org/abs/2009.08378) ([HN](https://news.ycombinator.com/item?id=27364777))
 - [Collection of openly available data sources for cognitively-inspired NLP](https://github.com/norahollenstein/cognitiveNLP-dataCollection/wiki)
 - [Stupidity is a specific cognitive failing](https://psyche.co/ideas/why-some-of-the-smartest-people-can-be-so-very-stupid) ([HN](https://news.ycombinator.com/item?id=28112878))
+- [Theoretical modeling for cognitive science and psychology](https://computationalcognitivescience.github.io/lovelace/home)
