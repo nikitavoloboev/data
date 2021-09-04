@@ -310,6 +310,7 @@
 - [Eric Migicovsky - How to Talk to Users (2019)](https://www.youtube.com/watch?v=MT4Ig2uqjTc) ([Transcript](https://www.ycombinator.com/library/6g-how-to-talk-to-users)) ([Tweet](https://twitter.com/jsjoeio/status/1422231455032250374))
 - [The rise of the one-person unicorn (2021)](https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/) ([HN](https://news.ycombinator.com/item?id=28187204))
 - [How a big company might crush a startup (2021)](https://twitter.com/petergyang/status/1400820631080374280)
+- [Alex MacCaw, CEO of Clearbit: My Path as a Founder (2020)](https://www.youtube.com/watch?v=7r5oKLPsjqI)
 
 ## Images
 
