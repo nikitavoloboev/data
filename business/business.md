@@ -105,3 +105,4 @@ Learning to build [startups](startups/startups.md).
 - [Apple is now an antifragile company (2021)](https://tidbits.com/2021/07/30/apple-is-now-an-antifragile-company/) ([HN](https://news.ycombinator.com/item?id=28030327))
 - [Economics of Bundling and Unbundling (2021)](https://matt-rickard.com/bundling-unbundling-economics/)
 - [Bernard Arnault's LVMH business (2021)](https://twitter.com/TrungTPhan/status/1421496101295722498)
+- [2013 Elon email to employees on why he wants to keep SpaceX private](https://twitter.com/TrungTPhan/status/1433992813444669445)

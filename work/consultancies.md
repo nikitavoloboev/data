@@ -68,6 +68,7 @@
 - [Heartbeat Agency](https://heartbeat.ua/) - UI/UX for mobile and web apps in fintech.
 - [Simple Thread](https://www.simplethread.com/) - Digital Product Agency.
 - [Charmer](https://charmerstudio.com/ru) - Дизайн-студия.
+- [Utsubo](https://www.utsubo.co/) - Technology-first creative studio. ([Twitter](https://twitter.com/utsuboco))
 
 ## DB
 

@@ -269,6 +269,7 @@
 - [MethodAnalysis](https://github.com/timholy/MethodAnalysis.jl) - Utilities to analyze Julia's method tables.
 - [Strided.jl](https://github.com/Jutho/Strided.jl) - Julia package for strided array views and efficient manipulations thereof.
 - [LispSyntax.jl](https://github.com/swadey/LispSyntax.jl) - Clojure-like lisp syntax for julia.
+- [Fastnet.jl](https://github.com/bridgewalker/Fastnet.jl) - Julia package that allows very fast (linear-time) simulation of discrete-state dynamical processes on networks, such as commonly studied models of epidemics.
 
 ## Links
 

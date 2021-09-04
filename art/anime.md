@@ -15,3 +15,4 @@
 - [mangodl](https://github.com/Gyro7/mangodl) - Easy-to-use CLI tool for downloading manga.
 - [Anime Encoding Guide for x265 (HEVC) & AAC/OPUS (and Why to Never Use FLAC) (2019)](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
 - [EhPanda](https://github.com/tatsuz0u/EhPanda) - E-Hentai App for iOS built with SwiftUI.
+- [My anime recommendations (2021)](https://noahpinion.substack.com/p/my-anime-recommendations) ([Tweet](https://twitter.com/Noahpinion/status/1434059309516673024))
