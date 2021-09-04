@@ -110,3 +110,4 @@
 - [Visualizing a codebase (2021)](https://octo.github.com/projects/repo-visualization) ([Tweet](https://twitter.com/Wattenberger/status/1423259472919674882)) ([Lobsters](https://lobste.rs/s/ipghop/visualizing_codebase))
 - [Data Visualization with D3, JavaScript, React - Full Course (2021)](https://www.youtube.com/watch?v=2LhoCfjm8R4)
 - [clip](https://github.com/asmuth/clip) - Create charts from the command line. ([Web](https://clip-lang.org/))
+- [Kroki](https://kroki.io/) - Creates diagrams from textual descriptions. ([Code](https://github.com/yuzutech/kroki))

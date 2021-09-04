@@ -31,3 +31,4 @@
 - [Rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch.
 - [elastic4s](https://github.com/sksamuel/elastic4s) - Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client.
 - [Good resources to learn Elasticsearch with Go (2021)](https://www.reddit.com/r/golang/comments/ozuby8/any_good_resources_to_learn_elasticsearch_with/)
+- [PGSync](https://github.com/toluaina/pgsync) - PostgreSQL to Elasticsearch sync.

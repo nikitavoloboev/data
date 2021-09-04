@@ -64,6 +64,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Pascal Campion](https://www.instagram.com/pascalcampionart/)
 - [Bastien Grivet](https://www.artstation.com/grivetart)
 - [Alice Lee](https://www.byalicelee.com/)
+- [Airi Pan](https://www.airipan.com/) ([Twitter](https://twitter.com/pix_bun))
 - [D’zart](https://www.instagram.com/dzart16/)
 - [Erin Vest](https://erinvestart.com/) ([Instagram](https://www.instagram.com/swordandsnorecery/))
 - [Holly Humphries](https://holboldoart.com/)

@@ -233,3 +233,4 @@
 - [What is the Chandrasekhar Limit? (2021)](https://www.youtube.com/watch?v=oxYbShKkw-4)
 - [The Planck scale: Is there a fundamental limit to space and time? (2020)](https://www.youtube.com/watch?v=5kuRatz2rj0)
 - [Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? (2021)](https://www.youtube.com/watch?v=KZ8G4VKoSpQ)
+- [Moments of Discovery](https://history.aip.org/exhibits/mod/index.html) - Tells the story of three scientific discoveries in the scientists' own words.
