@@ -111,3 +111,4 @@
 - [Data Visualization with D3, JavaScript, React - Full Course (2021)](https://www.youtube.com/watch?v=2LhoCfjm8R4)
 - [clip](https://github.com/asmuth/clip) - Create charts from the command line. ([Web](https://clip-lang.org/))
 - [Kroki](https://kroki.io/) - Creates diagrams from textual descriptions. ([Code](https://github.com/yuzutech/kroki))
+- [Awesome Charting](https://github.com/zingchart/awesome-charting)
