@@ -65,3 +65,4 @@
 - [Build a Serverless API with Cloudflare Workers (2021)](https://egghead.io/courses/build-a-serverless-api-with-cloudflare-workers-d67ca551)
 - [Using AWS from Cloudflare Workers](https://github.com/cloudflare/workers-aws-template) - Template for using Amazon Web Services such as DynamoDB and SQS from a Cloudflare Worker.
 - [workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust.
+- [Toucan](https://github.com/robertcepa/toucan-js) - Sentry client for Cloudflare Workers written in TypeScript.

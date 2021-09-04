@@ -20,3 +20,4 @@ Prefer to use Google Domains over everything. I like to subdomain over my person
 - [I bought 300 emoji domain names from Kazakhstan and built an email service (2021)](https://tinyprojects.dev/projects/mailoji) ([HN](https://news.ycombinator.com/item?id=26422799))
 - [How to secure SaaS custom domain names (2021)](https://blog.brandssl.io/how-to-secure-saas-custom-domain-names)
 - [Unstoppable Domains](https://unstoppabledomains.com/) - Blockchain Domains.
+- [parse-domain](https://github.com/peerigon/parse-domain) - Splits a hostname into subdomains, domain and (effective) top-level domains.
