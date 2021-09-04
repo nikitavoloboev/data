@@ -63,3 +63,5 @@
 - [Prismaliser](https://prismaliser.ovy.cloud/) - Visualise your Prisma schema. ([Code](https://github.com/Ovyerus/prismaliser))
 - [Cached Prisma](https://github.com/JoelLefkowitz/cached-prisma) - Prisma client abstraction that simplifies caching.
 - [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - Type-safe database access for Python.
+- [Build a Backend with Prisma in a TypeScript Node Project (2021)](https://egghead.io/courses/build-a-backend-with-prisma-in-a-typescript-node-project-ca6628d3)
+- [Set up a free PostgreSQL database on Supabase to use with Prisma (2021)](https://dev.to/prisma/set-up-a-free-postgresql-database-on-supabase-to-use-with-prisma-3pk6)
