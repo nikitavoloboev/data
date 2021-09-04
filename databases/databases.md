@@ -200,6 +200,7 @@
 - [dbcritic](https://github.com/channable/dbcritic) - Finds problems in a database schema.
 - [IceCream](https://github.com/caiyue1993/IceCream) - Sync Realm Database with CloudKit.
 - [Kinto](https://github.com/Kinto/kinto) - Minimalist JSON storage service with synchronisation and sharing abilities. ([Docs](https://docs.kinto-storage.org/en/stable/))
+- [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool. ([Web](https://www.schemacrawler.com/))
 
 ## Notes
 

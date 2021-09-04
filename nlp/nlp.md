@@ -334,3 +334,4 @@
 - [BEIR](https://github.com/UKPLab/beir) - Heterogeneous benchmark containing diverse IR tasks. It also provides a common and easy framework for evaluation of your NLP-based retrieval models within the benchmark.
 - [UER-py](https://github.com/dbiir/UER-py) - Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo.
 - [ExplainaBoard](https://github.com/neulab/ExplainaBoard) - Explainable Leaderboard for NLP.
+- [Fast-BERT](https://github.com/utterworks/fast-bert) - Super easy library for BERT based NLP models.

@@ -56,3 +56,4 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 ## Links
 
 - [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins)
+- [Zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.

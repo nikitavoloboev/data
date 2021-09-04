@@ -47,6 +47,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Liveblocks](https://liveblocks.io/) - Build amazing real-time collaborative products. ([Code](https://github.com/liveblocks/liveblocks))
 - [Complice](https://complice.co/) - Progress towards what matters. Provides intuitive goal-creation wizard.
 - [Retool](https://retool.com/) - Cuts the time it takes to build internal tools in half.
+- [WebCrate](https://webcrate.app/) - Organize your Web. Modern and beautiful bookmarking tool. ([Code](https://github.com/WebCrateApp/webcrate)) ([HN](https://news.ycombinator.com/item?id=28301262))
 - [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.
 - [Tara](https://tara.ai/) - Platform for modern product development. ([HN](https://news.ycombinator.com/item?id=23033387))
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.

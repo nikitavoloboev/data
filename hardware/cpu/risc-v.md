@@ -111,3 +111,4 @@
 - [Accelerating ML Recommendation with over a Thousand RISC-V/Tensor Processors on Esperanto’s ET-SoC-1 Chip (2021)](https://www.esperanto.ai/wp-content/uploads/2021/08/HC2021.Esperanto.Ditzel.Final_.pdf)
 - [RISC-V Cryptography Extension](https://github.com/riscv/riscv-crypto) ([HN](https://news.ycombinator.com/item?id=28394597))
 - [RISC-V Wiki](https://wiki.riscv.org/display/TECH/GitHub+Repo+Map) ([GitHub](https://github.com/riscv))
+- [Berkeley Out-of-Order Machine (BOOM](https://github.com/riscv-boom/riscv-boom) - Synthesizable and parameterizable open source RV64GC RISC-V core written in the Chisel hardware construction language.

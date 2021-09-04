@@ -30,6 +30,7 @@
 - [Zeet](https://zeet.co/) - Run your code.
 - [Railway](https://railway.app/) - Develop code in a cloud that feels local. When you're ready, deploy from anywhere. ([GitHub](https://github.com/railwayapp)) ([Starters](https://github.com/railwayapp/starters)) ([CLI](https://github.com/railwayapp/cli))
 - [Flightcontrol](https://flightcontrol.dev/) - Full stack deploy platform that runs on your own cloud.
+- [Deta](https://www.deta.sh/) - Build your apps in hours, deploy them in seconds. ([Deta Space](https://deta.space/))
 
 ## Other
 
