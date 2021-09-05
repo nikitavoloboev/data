@@ -303,6 +303,7 @@
 - [blanket](https://github.com/althonos/blanket) - Simple Rust macro to derive blanket implementations for your traits.
 - [rustversion](https://github.com/dtolnay/rustversion) - Provides macros for conditional compilation according to rustc compiler version.
 - [plex](https://github.com/goffrie/plex) - Parser and lexer generator as a Rust procedural macro.
+- [momo](https://github.com/llogiq/momo) - Rust proc_macro_attribute to outline conversions from generic functions.
 
 ## Math
 

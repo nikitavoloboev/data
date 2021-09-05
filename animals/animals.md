@@ -95,3 +95,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Petcube Bites](https://petcube.com/bites/) - HD Pet Treat Camera That Monitors And Dispenses Treats.
 - [There's science behind your inexplicably close relationship with your cat](https://qz.com/304236/theres-science-behind-your-inexplicably-close-relationship-with-your-cat/)
 - [We should build for wildlife as well as people (2021)](https://www.bbc.com/future/article/20210727-how-to-boost-biodiversity-and-attract-wildlife-to-your-home) ([HN](https://news.ycombinator.com/item?id=27985330))
+- [Dogs distinguish human intentional and unintentional action (2021)](https://www.nature.com/articles/s41598-021-94374-3) ([HN](https://news.ycombinator.com/item?id=28423122))

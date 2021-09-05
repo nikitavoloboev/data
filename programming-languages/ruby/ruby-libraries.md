@@ -30,3 +30,4 @@
 
 - [RubyGems](https://rubygems.org/) - Library packaging and distribution for Ruby. ([Code](https://github.com/rubygems/rubygems))
 - [dry-rb](https://dry-rb.org/) - Collection of next-generation Ruby libraries.
+- [Anyway Config](https://github.com/palkan/anyway_config) - Configuration library for Ruby gems and applications.

@@ -78,3 +78,4 @@
 - [Conduktor's Scala API template](https://github.com/conduktor/scala-api-template) - Template for writing Restful APIs we use at Conduktor.
 - [Scapegoat](https://github.com/scapegoat-scala/scapegoat) - Scala compiler plugin for static code analysis.
 - [Monads in Scala: A Way to Generalize Chained Computations (2021)](https://www.youtube.com/watch?v=a0C-RrncrYA)
+- [setup-everything-scala](https://github.com/japgolly/setup-everything-scala) - GitHub Action to prepare the environment for Scala & Scala.JS dev and testing.

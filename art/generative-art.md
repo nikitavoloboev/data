@@ -151,3 +151,4 @@
 - [Bauhaus poster generator](https://tool.graphics/bauhaus)
 - [generative-art-opensource](https://github.com/HashLips/generative-art-opensource) - Create generative art by using the canvas api and node js.
 - [When the Machine Made Art: The Troubled History of Computer Art (2014)](https://www.goodreads.com/book/show/18402551-when-the-machine-made-art) ([Tweet](https://twitter.com/thefunnyguysNFT/status/1433753132325036035))
+- [zig-generative-template](https://github.com/quag/zig-generative-template) - Zig framework for generating png images (single or multiple frames.).

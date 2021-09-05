@@ -26,3 +26,4 @@
 - [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox) ([HN](https://news.ycombinator.com/item?id=26755252))
 - [Gravity Sync](https://github.com/vmstan/gravity-sync) - Easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances. ([Article](https://vmstan.com/gravity-sync/))
 - [Blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more.
+- [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension). ([Web](https://sponsor.ajay.app/))

@@ -40,6 +40,7 @@
 - [ManifoldDiffEq.jl](https://github.com/JuliaManifolds/ManifoldDiffEq.jl) - Differential equations on manifolds.
 - [Cthulhu.jl](https://github.com/JuliaDebug/Cthulhu.jl) - Can help you debug type inference issues.
 - [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) - Collection of tools for chemometrics and machine learning written in Julia.
+- [Lathe.jl](https://github.com/ChifiSource/Lathe.jl) - Inclusive Predictive Learning module for Julia.
 
 ## Math
 

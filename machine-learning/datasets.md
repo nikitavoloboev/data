@@ -109,3 +109,4 @@
 - [The MIT Supercloud Dataset (2021)](https://arxiv.org/abs/2108.02037)
 - [Datasheets for Datasets (2018)](https://arxiv.org/abs/1803.09010) ([Markdown Datasheet for Datasets](https://github.com/JRMeyer/markdown-datasheet-for-datasets))
 - [Lightly](https://www.lightly.ai/) - Label only the data which improves your ML model. ([HN](https://news.ycombinator.com/item?id=28116371))
+- [Small Open Datasets](https://github.com/onramper/small-open-datasets) - Collection of automatically-updated, ready-to-use and open-licensed datasets.

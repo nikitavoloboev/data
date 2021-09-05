@@ -270,5 +270,6 @@
 - [PyNIF3D](https://github.com/pfnet/pynif3d) - Open-source PyTorch-based library for research on neural implicit functions (NIF)-based 3D geometry representation.
 - [PyGCL](https://github.com/GraphCL/PyGCL) - Graph Contrastive Learning Library for PyTorch.
 - [Fast Transformer - PyTorch](https://github.com/lucidrains/fast-transformer-pytorch)
+- [Fast Transformer - TensorFlow](https://github.com/Rishit-dagli/Fast-Transformer)
 - [Bonito](https://github.com/nanoporetech/bonito) - PyTorch Basecaller for Oxford Nanopore Reads.
 - [Working through "What is torch.nn really?" (2021)](https://www.youtube.com/watch?v=KRcwQRn-_NU)

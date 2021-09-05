@@ -914,6 +914,7 @@
 - [go-semver](https://github.com/coreos/go-semver) - Semantic Versioning Library.
 - [gosom](https://github.com/milosgajdos/gosom) - Self-organizing maps in Go.
 - [netaddr](https://github.com/inetaf/netaddr) - Network address types.
+- [Grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards.
 
 ## Links
 

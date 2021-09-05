@@ -274,3 +274,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [ERC721 NFT Token Standard Explained (2021)](https://www.youtube.com/watch?v=QFYU81zM_jA)
 - [Documenting Ethereum Twitter](https://twitter.com/DocumentEther)
 - [DappTools Template](https://github.com/gakonst/dapptools-template) - Forkable template to get you started with Dapp Tools.
+- [BoringSolidity](https://github.com/boringcrypto/BoringSolidity) - Basic Solidity Contracts and Libraries to make life easier.

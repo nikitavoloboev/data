@@ -41,6 +41,7 @@
 - [Underrated superpower in life: asking for things you want](https://twitter.com/PaulYacoubian/status/1420433101331783682)
 - [I always prefer people who work and root for things rather than rooting or arguing against. Even if you hate something and want it to change you can still channel that into rooting for / building something which fixes it rather than just talking about it.](https://twitter.com/patrick_oshag/status/1422187629244715010)
 - [Higher level impact often requires influencing peers and leaders. You need to get good at crisply stating why something is important, tailoring details to your audience and communicating regularly.](https://twitter.com/Carnage4Life/status/1433532683787722755)
+- [They don’t lie to you because the truth will hurt your feelings. They lie to you because the truth might provoke you to make the choices that won’t serve their interests.](https://www.reddit.com/r/survivinginfidelity/comments/ip1kjh/truth_about_all_liars/)
 
 ## Links
 

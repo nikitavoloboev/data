@@ -29,3 +29,5 @@
 - [webrpc](https://github.com/webrpc/webrpc) - Schema-driven approach to writing backend services for modern Web apps and networks.
 - [Apache Dubbo](https://github.com/apache/dubbo) - High-performance, Java-based open-source RPC framework.
 - [OpenRPC](https://open-rpc.org/) - Standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs. ([GitHub](https://github.com/open-rpc)) ([Spec](https://spec.open-rpc.org/)) ([Spec Code](https://github.com/open-rpc/spec))
+- [TChannel](https://tchannel.readthedocs.io/en/latest/) - Network multiplexing and framing protocol for RPC. ([Code](https://github.com/uber/tchannel))
+- [TChannel Go](https://github.com/uber/tchannel-go) - Go implementation of a multiplexing and framing protocol for RPC calls.

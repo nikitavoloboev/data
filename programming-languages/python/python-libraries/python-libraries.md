@@ -463,6 +463,7 @@
 - [MPIRE](https://github.com/Slimmer-AI/mpire) - Python package for easy multiprocessing, but faster than multiprocessing.
 - [Pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python. ([Docs](https://pint.readthedocs.io/en/stable/)) ([HN](https://news.ycombinator.com/item?id=28413252))
 - [Audiomentations](https://github.com/iver56/audiomentations) - Python library for audio data augmentation.
+- [executing](https://github.com/alexmojaki/executing) - Get information about what a Python frame is currently doing, particularly the AST node being executed.
 
 ## Links
 
