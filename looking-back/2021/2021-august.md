@@ -1,10 +1,22 @@
 # 2021 August
 
-Some time in Spain with family. More links/notes in wiki. Started to get more fascinated by history. Want to spend some time to get a better understanding of how humanity unfolded over all the years we know of. Starting with [history of Rome](https://www.youtube.com/watch?v=46ZXl-V4qwY), I want to read the [book about Genghis Khan](https://www.goodreads.com/book/show/40718726-genghis-khan-and-the-making-of-the-modern-world), study the history of China (it seems to have a lot of wars over the years). Plus how the whole global financial system (or whatever that means) came about.
+Spent some time in Spain with my family. Especially with COVID, traveling and seeing your family is harder (video/calls help a lot). I cherish those moments and am incredibly grateful for each minute I get to spend with them. [My dog, Rachel too](https://www.instagram.com/p/3gz6dVIze3/). ♥️
 
-I also worked with [Memex](https://getmemex.com) briefly and it's an awesome tool, just need to [make it work for Safari first](https://github.com/WorldBrain/Memex/issues/1134) before I can invest more time in the project.
+## Did
+
+Added more links/notes in wiki.
+
+## Learned
+
+YouTube once recommended me a video about [history of Rome](https://www.youtube.com/watch?v=46ZXl-V4qwY) and it blew my mind. I then spent some time more learning [about Greeks](https://www.youtube.com/watch?v=gFRxmi4uCGo) & the [Mongol Empire](https://www.youtube.com/watch?v=wUVvTqvjUaM). Want to read a [book about Genghis Khan](https://www.goodreads.com/book/show/40718726-genghis-khan-and-the-making-of-the-modern-world) & study the history of China/US/EU, WW1/WW2/ColdWar. After I release my projects and secure my finances though.
+
+I also got to work with [Memex](https://getmemex.com) a bit. It's an awesome tool and [Oliver](https://twitter.com/BlackForestBoi) is an incredible founder with a great vision for this space. I do need to [make Memex work for Safari first](https://github.com/WorldBrain/Memex/issues/1134) before I dive in more and tune it more to my liking.
+
+## Music
 
 Nils released [new collab album](https://open.spotify.com/album/1t6aWXi0WtgC6vyWnpNxdM). Quite liked [this song](https://open.spotify.com/track/3jjAFT2qdCwXPQ0AgYghN4) from it.
+
+## Other
 
 Wasn't as productive in moving towards shipping (completing) my goals these past months. Something did click for me recently though and I am much more focused now. It's a mixture of realizing how important 'momentum' and this feeling of progress towards being productive. Without any kind of rewarding wins (small tasks/goals completed), it's easy to go into deep cycles of wasting time and being distracted. Probably due to the subconscious fear of failure (or dread for how 'hard' upcoming tasks are). Important to start off each of the days with any win you can get. And carry on the momentum from that win.
 
@@ -14,6 +26,8 @@ TL;DR: Start off each day early with real work (tasks in my TODO list). Only the
 
 Also from now on, full honesty with myself above all. It's tiring lying to myself that 'I am working' or 'learning' when I am watching some videos about WW2 or whatever news 💩 happened in Russia/US/World. Be honest with how I spend my time. Makes enjoying my time nicer too as I feel like I truly deserve it.
 
-The honesty part will hopefully translate into more interesting entries here in look backs and Twitter/Instagram too. Haven't shared anything there in last months due to reasons of me thinking my life had no events worth of sharing. This is going to change starting now.
+The honesty part will hopefully translate into more interesting entries here in look backs and Twitter/Instagram too. Haven't shared much of anything there due to reasons of nothing much interesting happening. This is going to change starting now.
+
+Feel a lot better about this look back than any other one I've done. No complaining! I got this nice structure of `Did`, `Learned`, `Music`, and `Other` for closing thoughts that I will reuse for all upcoming look backs too. Life is slowly getting better & back on track.
 
 [Onwards to new month. 🍃](https://open.spotify.com/track/6Pqy8Ds0FK7FuPzeZlXi5W?si=14750896e06d402d) Incredibly excited for it.
