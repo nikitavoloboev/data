@@ -17,3 +17,4 @@
 - [Screw it, I’ll host it myself (2021)](https://www.markozivanovic.com/screw-it-ill-host-it-myself/) ([HN](https://news.ycombinator.com/item?id=26725185))
 - [Forem Self-Host](https://github.com/forem/selfhost) - Selfhost your Forem Community on your own infrastructure.
 - [Why self hosting is important (2021)](https://dataswamp.org/~solene/2021-07-23-why-selfhosting-is-important.html) ([HN](https://news.ycombinator.com/item?id=27939039))
+- [numblr](https://github.com/heyLu/numblr) - Alternative Tumblr (and Twitter, Instagram, AO3, YouTube, RSS, ...) frontend.

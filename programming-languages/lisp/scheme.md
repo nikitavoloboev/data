@@ -53,3 +53,4 @@
 - [10 ways GNU Guile is 10x better (2021)](https://www.draketo.de/software/guile-10x.html)
 - [Snap is Scheme disguised as Scratch](https://people.eecs.berkeley.edu/~bh/snap/baby3.pdf) ([HN](https://news.ycombinator.com/item?id=28337196))
 - [HN: Chicken Scheme (2021)](https://news.ycombinator.com/item?id=28397785)
+- [BiwaScheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter written in JavaScript. ([Web](https://www.biwascheme.org/))
