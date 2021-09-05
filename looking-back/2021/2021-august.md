@@ -12,7 +12,7 @@ Got to work with [Memex](https://getmemex.com) a bit. It's an awesome tool and [
 
 YouTube once recommended me a video about [history of Rome](https://www.youtube.com/watch?v=46ZXl-V4qwY) and it blew my mind. I then spent some time more learning [about Greeks](https://www.youtube.com/watch?v=gFRxmi4uCGo) & the [Mongol Empire](https://www.youtube.com/watch?v=wUVvTqvjUaM). Want to read a [book about Genghis Khan](https://www.goodreads.com/book/show/40718726-genghis-khan-and-the-making-of-the-modern-world) & study the history of China/US/EU, WW1/WW2/ColdWar. After I release my projects and secure my finances though.
 
-## Music
+## Listened
 
 Nils released [new collab album](https://open.spotify.com/album/1t6aWXi0WtgC6vyWnpNxdM). Quite liked [this song](https://open.spotify.com/track/3jjAFT2qdCwXPQ0AgYghN4) from it.
 
@@ -32,6 +32,6 @@ Also from now on, full honesty with myself above all. It's tiring lying to mysel
 
 The honesty part will hopefully translate into more interesting entries here in look backs and Twitter/Instagram too. Haven't shared much of anything there due to reasons of nothing much interesting happening. This is going to change starting now.
 
-Feel a lot better about this look back than any other one I've done. No complaining! I got this nice structure of `Did`, `Learned`, `Music`, and `Other` for closing thoughts that I will reuse for all upcoming look backs too. Life is slowly getting better & back on track.
+Feel a lot better about this look back than any other one I've done. No complaining! I got this nice structure of `Did`, `Learned`, `Listened`, `Watched` and `Other` for closing thoughts that I will reuse for all upcoming look backs too. Life is slowly getting better & back on track.
 
 [Onwards to new month. 🍃](https://open.spotify.com/track/6Pqy8Ds0FK7FuPzeZlXi5W?si=14750896e06d402d) Incredibly excited for it.
