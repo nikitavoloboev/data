@@ -273,3 +273,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [ERC-721 Token](https://github.com/0xcert/ethereum-erc721) - Non-fungible token implementation for Ethereum-based blockchains.
 - [ERC721 NFT Token Standard Explained (2021)](https://www.youtube.com/watch?v=QFYU81zM_jA)
 - [Documenting Ethereum Twitter](https://twitter.com/DocumentEther)
+- [DappTools Template](https://github.com/gakonst/dapptools-template) - Forkable template to get you started with Dapp Tools.
