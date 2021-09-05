@@ -233,6 +233,7 @@
 - [CPP-Libp2p](https://github.com/libp2p/cpp-libp2p) - C++17 implementation of libp2p.
 - [µReact](https://github.com/YarikTH/ureact) - Minimalistic reactive library for c++.
 - [Minicore](https://github.com/dnbaker/minicore) - Fast and memory-efficient clustering + coreset construction, including fast distance kernels for Bregman and f-divergences.
+- [EXOTica](https://github.com/ipab-slmc/exotica) - Extensible Optimization Framework. ([Docs](https://ipab-slmc.github.io/exotica/))
 
 ## Links
 

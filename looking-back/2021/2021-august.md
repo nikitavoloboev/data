@@ -10,7 +10,7 @@ Got to work with [Memex](https://getmemex.com) a bit. It's an awesome tool and [
 
 ## Learned
 
-YouTube once recommended me a video about [history of Rome](https://www.youtube.com/watch?v=46ZXl-V4qwY) and it blew my mind. I then spent some time more learning [about Greeks](https://www.youtube.com/watch?v=gFRxmi4uCGo) & the [Mongol Empire](https://www.youtube.com/watch?v=wUVvTqvjUaM). Want to read a [book about Genghis Khan](https://www.goodreads.com/book/show/40718726-genghis-khan-and-the-making-of-the-modern-world) & study the history of China/US/EU, WW1/WW2/ColdWar. After I release my projects and secure my finances though.
+YouTube once recommended me a video about [history of Rome](https://www.youtube.com/watch?v=46ZXl-V4qwY) and it blew my mind. I then spent some time more learning [about Greeks](https://www.youtube.com/watch?v=gFRxmi4uCGo) & the [Mongol Empire](https://www.youtube.com/watch?v=wUVvTqvjUaM). Want to read a [book about Genghis Khan](https://www.goodreads.com/book/show/40718726-genghis-khan-and-the-making-of-the-modern-world) & study the [history of China/US/EU, WW1/WW2/ColdWar](https://twitter.com/landforce/status/1434543804921516034). After I release my projects and secure my finances though.
 
 ## Listened
 

@@ -135,3 +135,4 @@
 - [Armchair History TV](https://armchairhistory.tv/)
 - [Ancient Rome in 20 minutes](https://www.youtube.com/watch?v=46ZXl-V4qwY)
 - [Ancient Greece in 18 minutes](https://www.youtube.com/watch?v=gFRxmi4uCGo)
+- [29 incredible books about the past (2021)](https://twitter.com/landforce/status/1434543804921516034)
