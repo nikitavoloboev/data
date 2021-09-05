@@ -18,7 +18,7 @@ Nils released [new collab album](https://open.spotify.com/album/1t6aWXi0WtgC6vyW
 
 ## Watched
 
-Started watching [Expanse](https://trakt.tv/shows/the-expanse).
+Started watching [The Expanse](https://trakt.tv/shows/the-expanse).
 
 ## Other
 

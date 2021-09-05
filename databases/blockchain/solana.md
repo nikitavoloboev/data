@@ -9,6 +9,10 @@
 - [Synthetify](https://synthetify.io/) - Decentralized synthetic assets exchange.
 - [Star Atlas](https://staratlas.com/) - Grand strategy game of space exploration, territorial conquest, political domination, and more.
 
+## Notes
+
+- [I don’t think Solana is at war with ETH or any other blockchain - our community is just focused on building stuff people want and will use. Please minimize the toxicity and let’s focus on utility not price.](https://twitter.com/VinnyLingham/status/1434304520050249731)
+
 ## Links
 
 - [Solana Code](https://github.com/solana-labs/solana)

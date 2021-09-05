@@ -76,3 +76,4 @@ Dating apps like Tinder/Bumble are often a [waste of time](https://twitter.com/d
 - [Are coffee dates a horrible idea? I'm noticing a trend where they never go anywhere. (2021)](https://www.reddit.com/r/datingoverthirty/comments/o3l27v/are_coffee_dates_a_horrible_idea_im_noticing_a/)
 - [Women who have Tinder/bar hookups, how do you make sure you are doing it safely? (2021)](https://www.reddit.com/r/AskWomen/comments/o9ajq3/women_who_have_tinderbar_hookups_how_do_you_make/)
 - [Take your chance. Don't wait.](https://twitter.com/blockfolio/status/1412537766974570498)
+- [Oscar Isaac's arm kiss](https://twitter.com/christinalefou/status/1434251480979157000)
