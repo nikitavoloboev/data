@@ -16,6 +16,10 @@ YouTube once recommended me a video about [history of Rome](https://www.youtube.
 
 Nils released [new collab album](https://open.spotify.com/album/1t6aWXi0WtgC6vyWnpNxdM). Quite liked [this song](https://open.spotify.com/track/3jjAFT2qdCwXPQ0AgYghN4) from it.
 
+## Watched
+
+Started watching [Expanse](https://trakt.tv/shows/the-expanse).
+
 ## Other
 
 Wasn't as productive in moving towards shipping (completing) my goals these past months. Something did click for me recently though and I am much more focused now. It's a mixture of realizing how important 'momentum' and feeling any kind of progress is towards being actually productive (and finishing things). Without any kind of rewarding wins (small tasks/goals completed), it's easy to go into deep cycles of wasting time and being distracted. Probably due to the subconscious fear of failure (or dread for how 'hard' upcoming tasks are). Important to start off each of the days with any win you can get. And carry on the momentum from that win.

@@ -127,3 +127,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Speed Run - Finding Mistakes #1 - Typical mistakes played at lower levels (2021)](https://www.youtube.com/watch?v=y2mhbgubuvQ)
 - [A series of different takes on the classic game of Chess (2020)](https://theindieweb.com/a-series-of-different-takes-on-the-classic-game-of-chess./)
 - [10 Chess Tips To CRUSH Everyone (2021)](https://www.youtube.com/watch?v=fGFl4GjVvrA)
+- [Chess opening names](https://github.com/niklasf/chess-openings) - Aggregated data set of chess opening names.
