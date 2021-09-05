@@ -206,3 +206,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [How does Angel Investing? (2021)](https://zachholman.com/posts/how-does-angel-investing)
 - [DueDilly](https://duedilly.io/) - Accuracy of Reddit Trading Ideas. ([HN](https://news.ycombinator.com/item?id=28244744))
 - [A primer on investing for designers and developers (2019)](https://brianlovin.com/writing/investing-for-designers-and-developers)
+- [What are some high risk high reward stocks that could explode in the next couple years? (2021)](https://www.reddit.com/r/stocks/comments/pi34nx/what_are_some_high_risk_high_reward_stocks_that/)

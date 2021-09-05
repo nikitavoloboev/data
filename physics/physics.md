@@ -235,3 +235,4 @@
 - [Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? (2021)](https://www.youtube.com/watch?v=KZ8G4VKoSpQ)
 - [Moments of Discovery](https://history.aip.org/exhibits/mod/index.html) - Tells the story of three scientific discoveries in the scientists' own words.
 - [Relativity: A Modern Primer](http://ramp-book.com/) ([HN](https://news.ycombinator.com/item?id=28421209))
+- [Physics of Racing](https://www.youtube.com/watch?v=bYp2vvUgEqE)
