@@ -129,3 +129,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Elastic tabstops - a better way to indent and align code](https://nickgravgaard.com/elastic-tabstops/)
 - [Yi](https://github.com/yi-editor/yi) - Haskell-Scriptable Editor.
 - [Plate](https://github.com/udecode/plate) - Plugin framework for building rich text editors with slate. ([Web](https://plate.udecode.io/))
+- [Monaco language client](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers.
