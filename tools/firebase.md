@@ -37,3 +37,4 @@
 - [Firestore API and Auth in Rust](https://github.com/davidgraeff/firestore-db-and-auth-rs) - Easy Rust access to your Google Firestore DB via service account or OAuth impersonated Google Firebase Auth credentials.
 - [What’s the relationship between Firebase and Google Cloud? (2019)](https://medium.com/google-developers/whats-the-relationship-between-firebase-and-google-cloud-57e268a7ff6f)
 - [Firebase JavaScript SDK](https://github.com/firebase/firebase-js-sdk)
+- [React Query + Firestore](https://github.com/aminerol/react-query-firestore) - Provides the hooks you need for querying Firestore, that you can actually use in production, on every screen.
