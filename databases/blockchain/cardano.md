@@ -41,3 +41,4 @@ Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status
 - [Functional smart contracts on Cardano (2020)](https://www.youtube.com/watch?v=MpWeg6Fg0t8)
 - [Cardano Hydra Explained (2021)](https://www.reddit.com/r/cardano/comments/pf25jk/without_hydra_cardano_probably_wont_be_faster/)
 - [Cardano Community Discord](https://discord.com/invite/TUr9RDU)
+- [Cardano’s ledger approach and ‘concurrency’ explained (2021)](https://twitter.com/InputOutputHK/status/1434518391465943048)
