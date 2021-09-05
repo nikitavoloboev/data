@@ -8,6 +8,7 @@
 - [Learning is not linear. You can “start anywhere” and branch out. It is much more important to be learning effectively (e.g. learn to recognize when you have a gap instead of trying random guesses until it works, and learn to ask the right questions).](https://twitter.com/dan_abramov/status/1295669401765720064)
 - [It's incredible how much I was able to learn about myself and my craft by being an observer.](https://twitter.com/schlaf/status/1369466938448089088)
 - [Something I try to be more mindful of these days is content-medium fit. "What medium is conducive to this kind of content" Teaching → Video workshops/webinars & blog posts. Storytelling → Podcasts. Chat/discussion → Clubhouse/Twitter Spaces. Coaching → Small group calls.](https://twitter.com/coreyhainesco/status/1377369107687870465)
+- [The minute after you learn something is a really good time to start teaching.](https://twitter.com/jkup/status/1434280206567624705)
 
 ## Links
 
