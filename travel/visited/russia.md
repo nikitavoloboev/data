@@ -30,6 +30,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [One of the most stressful time in the last 30 years for security analysts was the time when Russia was shaken by internal turmoil as a result of the collapse of communism, and no one knew exactly where the country with the largest army in the world and the most nuclear weapons in the world was headed. The "I bought Russian nuclear weapons on the black market" trope of many films of the early 90s was a very possible scenario. Putin is seen as a guarantor of a stable Russia, Not to mention that he keeps the Caucasus on a short leash and makes sure that China does not turn all its interest to the south (SEA) or west (India).](https://www.reddit.com/r/worldnews/comments/n8f4mo/russian_doc_who_lied_about_navalny_poisoning/)
 - [Писатель Виктор Шендерович об отношениях России и Запада: Запад говорит: "Хотите гнить — пожалуйста. Мы оставляем дверь открытой. Вы можете что-то изменить, поменять политику и т.д. Но в эту дверь можно будет войти только с другим выражением лица. Не надо в эту дверь плевать](https://twitter.com/EchoMskRu/status/1408079918181781506)
 - [Следующие репрессии могут коснуться не только журналистов](https://twitter.com/the_ins_ru/status/1434115644576915456)
+- [Напринимают уебанских законов, а потом такие «это по закону».](https://twitter.com/seginaboroda/status/1433804644912877568)
 
 ## Links
 

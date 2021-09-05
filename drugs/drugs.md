@@ -42,3 +42,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Hamilton Morris and Jason Wallach | Arylcyclohexylamines (2015)](https://www.youtube.com/watch?v=Ag4xxiPan1E)
 - [Drugs and Me](https://www.drugsand.me/en/) - Harm reduction guide to safer drug use.
 - [You're entitled to use substances however you wish to so long as you're not hurting yourself or anyone.](https://www.reddit.com/r/RationalPsychonaut/comments/pbkeqp/youre_entitled_to_use_substances_however_you_wish/)
+- [Streets of Philadelphia, Kensington Avenue (2021)](https://www.youtube.com/watch?v=Bi1Kf-1qd6Y) - Watching it with [this song](https://open.spotify.com/track/6WgBIPHwkQhCqMNnR5hQCN) in background is surreal. ([Tweet](https://twitter.com/msvetov/status/1434530611272769539))

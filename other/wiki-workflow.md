@@ -117,6 +117,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ten Digits](https://tendigits.space/)
 - [Luciano Strika](https://strikingloo.github.io/wiki/)
 - [Bennett Hardwick](https://bennetthardwick.com/wiki/)
+- [Micheels Learning Notes](https://learning-notes.mistermicheels.com/about/about/) ([Code](https://github.com/mistermicheels/learning-notes))
 - [Neil's Noodlemaps](https://commonplace.doubleloop.net/)
 - [Jesse Squires TIL](https://jessesquires.github.io/TIL/) ([Code](https://github.com/jessesquires/TIL))
 - [Piotr Gaczkowski](https://garden.doomhammer.info/)

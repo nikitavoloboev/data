@@ -81,6 +81,7 @@
 - [Papa Carlo](https://github.com/Eliah-Lakhin/papa-carlo) - Scala parsing library utilises incremental parsing approach.
 - [Avro4s](https://github.com/sksamuel/avro4s) - Avro schema generation and serialization / deserialization for Scala.
 - [Vault](https://github.com/typelevel/vault) - Type-safe, persistent storage for values of arbitrary types.
+- [cats-retry](https://github.com/cb372/cats-retry) - Library for retrying actions that can fail.
 
 ## Links
 

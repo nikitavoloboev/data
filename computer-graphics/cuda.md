@@ -21,3 +21,4 @@
 - [Using OpenGL instead of CUDA for machine learning](https://phisiart.github.io/418-proj/)
 - [Awesome GPGPU](https://github.com/rbaygildin/learn-gpgpu) - Algorithms implemented in CUDA + resources about GPGPU.
 - [Accelerating Conway's Game of Life Using CUDA (2021)](https://brendanrayw.medium.com/my-experience-learning-cuda-to-accelerate-conways-game-of-life-5d52eabc2dfb)
+- [cu](https://github.com/gorgonia/cu) - Go package that provides an idiomatic interface to the CUDA Driver API.

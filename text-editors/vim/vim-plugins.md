@@ -4,7 +4,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
-- [Ale](https://github.com/dense-analysis/ale) - Asynchronous Lint Engine.
+- [Ale](https://github.com/dense-analysis/ale) - Asynchronouhttps://github.com/b0o/mapx.luaLint Engine.
 - [Cool](https://github.com/romainl/vim-cool) - Stop matching after search is done.
 - [Auto Pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
 - [Nerdcommenter](https://github.com/scrooloose/nerdcommenter) - Quick comments.
@@ -39,6 +39,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [coq.nvim](https://github.com/ms-jpq/coq_nvim) - Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [Navigator](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze. Exploring LSP and Treesitter.
 - [Zen Mode](https://github.com/folke/zen-mode.nvim) - Distraction-free coding for Neovim.
+- [mapx.lua](https://github.com/b0o/mapx.lua) - Neovim lua plugin to make mapping more manageable.
 - [Lightspeed](https://github.com/ggandor/lightspeed.nvim) - Making on-screen navigation as quick and efficient as possible.
 - [nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - Snazzy bufferline for Neovim.
 - [Which Key](https://github.com/folke/which-key.nvim) - Displays a popup with possible keybindings of the command you started typing.

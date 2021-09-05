@@ -550,7 +550,7 @@
 - [GoAdmin](https://github.com/GoAdminGroup/go-admin) - Golang framework helps gopher to build a data visualization and admin panel in ten minutes. ([Web](https://www.go-admin.com/))
 - [go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs).
 - [ntp](https://github.com/beevik/ntp) - Simple ntp client package for go.
-- [Gorgonia](https://github.com/gorgonia/gorgonia) - Library that helps facilitate machine learning in Go.
+- [Gorgonia](https://github.com/gorgonia/gorgonia) - Library that helps facilitate machine learning in Go. ([Web](https://gorgonia.org/)) ([GitHub](https://github.com/gorgonia))
 - [pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression.
 - [txeh](https://github.com/txn2/txeh) - Go library and CLI utilty for /etc/hosts management.
 - [go-jdk](https://github.com/quasilyte/go-jdk) - Run JVM-based code in Go efficiently.
