@@ -117,3 +117,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Flowers Make a Nice Gift](https://www.echevarria.io/blog/flowers-make-a-nice-gift/index.html) ([HN](https://news.ycombinator.com/item?id=28418105))
 - [Surviving Infidelity Reddit](https://www.reddit.com/r/survivinginfidelity/)
 - [Rethinking infidelity ... a talk for anyone who has ever loved | Esther Perel (2015)](https://www.youtube.com/watch?v=P2AUat93a8Q)
+- [The secret to desire in a long-term relationship | Esther Perel](https://www.youtube.com/watch?v=sa0RUmGTCYY)

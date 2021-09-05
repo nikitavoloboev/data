@@ -238,6 +238,7 @@ Here are few more things I liked, design wise.
 - [Kaya Thomas](https://kaya.dev/)
 - [Brent Jackson](https://jxnblk.com/)
 - [Vivien Hantusch](https://www.vivien.space/portfolio.html)
+- [David East](https://davidea.st/) ([Code](https://github.com/davideast/site))
 - [Jon Gold](https://jon.gold/)
 - [Eric Vanular](https://ericvanular.com/)
 - [Bilal Khan](https://bilal.software/)
