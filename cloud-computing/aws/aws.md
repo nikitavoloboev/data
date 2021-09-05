@@ -209,3 +209,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Helm S3](https://github.com/hypnoglow/helm-s3) - Helm plugin that allows to set up a chart repository in AWS S3.
 - [List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 - [aacli](https://github.com/iamarkadyt/aacli) - AWS authentication CLI with built-in MFA support.
+- [CDK Fargate Docker starter kit with AWS CDK v2.0](https://github.com/markusl/cdk-fargate-docker-starter) - Example of how to deploy a simple docker image to a Fargate cluster using AWS CDK.
