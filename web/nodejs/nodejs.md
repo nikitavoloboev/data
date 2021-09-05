@@ -242,3 +242,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [PureORM](https://github.com/craigmichaelmartin/pure-orm) - Node.js SQL toolkit for writing native SQL queries yielding pure business objects.
 - [stream-json](https://github.com/uhop/stream-json) - Micro-library of node.js stream components with minimal dependencies for creating custom data processors oriented on processing huge JSON files.
 - [Edge](https://github.com/edge-js/edge) - Node.js templating engine with fresh air.
+- [Poolifier](https://github.com/poolifier/poolifier) - Fast and small Node.js thread pool implementation.

@@ -27,3 +27,4 @@
 - [ArduinoFake](https://github.com/FabioBatSilva/ArduinoFake) - Arduino mocking made easy.
 - [WebSockets_Generic](https://github.com/khoih-prog/WebSockets_Generic) - WebSocket Server and Client for Arduino.
 - [Arduino IDE 2.0 beta (2021)](https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/) ([HN](https://news.ycombinator.com/item?id=27123410))
+- [JeeLib](https://github.com/jeelabs/jeelib) - Arduino IDE: Ports, RF12, and RF69 drivers from JeeLabs.

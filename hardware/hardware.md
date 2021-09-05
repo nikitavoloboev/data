@@ -225,3 +225,4 @@
 - [Awesome Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification)
 - [Imagination](https://www.imaginationtech.com/) - Low-power high-performance embedded IP cores.
 - [Experiments on a $50 DIY air purifier (2020)](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/) ([HN](https://news.ycombinator.com/item?id=28394752))
+- [JeeLabs Projects](https://jeelabs.org/w/projects/)
