@@ -78,3 +78,4 @@
 - [Exceptional Ruby Book](https://store.avdi.codes/#NWtnk) - Definitive guide to exceptions and failure handling in Ruby.
 - [Fullstaq Ruby](https://fullstaqruby.org/) - Ruby, optimized for production. ([HN](https://news.ycombinator.com/item?id=27865776))
 - [Benchmarking your Ruby with time_up (2021)](https://blog.testdouble.com/posts/2021-07-19-benchmarking-your-ruby-with-time_up/)
+- [Suture](https://github.com/testdouble/suture) - Ruby gem that helps you refactor your legacy code. ([HN](https://news.ycombinator.com/item?id=28424217))
