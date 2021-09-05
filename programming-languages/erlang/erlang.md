@@ -99,3 +99,4 @@
 - [Decentralized ETS Counters for Better Scalability (2021)](https://blog.erlang.org/scalable-ets-counters/)
 - [erl_dist](https://github.com/sile/erl_dist) - Rust Implementation of Erlang Distribution Protocol.
 - [Why Erlang?](https://www.fredrikholmqvist.com/posts/why-erlang/) ([HN](https://news.ycombinator.com/item?id=28365911)) ([Lobsters](https://lobste.rs/s/ibd5bw/why_erlang))
+- [Guide to Tracing in Erlang](http://stratus3d.com/blog/2021/08/24/guide-to-tracing-in-erlang/)

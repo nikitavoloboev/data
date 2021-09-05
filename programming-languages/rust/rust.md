@@ -549,3 +549,4 @@
 - [Using SIMD acceleration in rust to create the world’s fastest tac (2021)](https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/) ([Lobsters](https://lobste.rs/s/wdfmrj/using_simd_acceleration_rust_create))
 - [Virtual Machine Dispatch Experiments in Rust (2017)](https://pliniker.github.io/post/dispatchers/)
 - [Systems Programming with Rust Book (2022)](https://www.oreilly.com/library/view/systems-programming-with/9781098109424/) ([Code](https://github.com/kyclark/rust-sysprog))
+- [Fast Rust Builds (2021)](https://matklad.github.io/2021/09/04/fast-rust-builds.html) ([HN](https://news.ycombinator.com/item?id=28425095))
