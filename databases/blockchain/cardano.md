@@ -42,3 +42,4 @@ Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status
 - [Cardano Hydra Explained (2021)](https://www.reddit.com/r/cardano/comments/pf25jk/without_hydra_cardano_probably_wont_be_faster/)
 - [Cardano Community Discord](https://discord.com/invite/TUr9RDU)
 - [Cardano’s ledger approach and ‘concurrency’ explained (2021)](https://twitter.com/InputOutputHK/status/1434518391465943048)
+- [Cardano's UTXO model can only make Defi work with major tradeoffs (2021)](https://twitter.com/hasufl/status/1434443561387315203)

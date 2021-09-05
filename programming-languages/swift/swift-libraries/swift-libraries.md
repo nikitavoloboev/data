@@ -740,6 +740,7 @@
 - [Custom Dump](https://github.com/pointfreeco/swift-custom-dump) - Collection of tools for debugging, diffing, and testing your application's data structures.
 - [Strongbox](https://github.com/granoff/Strongbox) - Swift utility class for storing data securely in the keychain. Use it to store small, sensitive bits of data securely.
 - [WalletConnectSwift](https://github.com/WalletConnect/WalletConnectSwift) - WalletConnect Swift SDK.
+- [Actomaton](https://github.com/inamiy/Actomaton) - Swift async/await & Actor-powered effectful state-management framework.
 
 ## Other (not lib)
 

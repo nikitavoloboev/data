@@ -38,6 +38,7 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 
 - It would be nice to have something like Spotify for scientific publishing. Versioning for papers/research to improve reproducibility.
 - [Improve understanding: go slowly, take notes, and pause when you don’t understand something. If that’s every sentence, so be it. Do external research to understand 1 paper at a time.](https://www.reddit.com/r/neuroscience/comments/m9t8w4/best_neuroscience_journals_to_follow_in_strokead/)
+- [Peer review is great if your model captures the real world situation, but most models include only a small part of (the relevant parts of) reality and can lead to false confidence.](https://twitter.com/insrchf/status/1434527282664722437)
 
 ## Links
 
