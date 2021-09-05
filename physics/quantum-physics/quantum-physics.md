@@ -79,3 +79,4 @@
 - [Quantum Mechanics of Gravitational Waves (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.081602) ([HN](https://news.ycombinator.com/item?id=28241758))
 - [What is Wave Particle Duality? (2020)](https://www.youtube.com/watch?v=k581_XpaTnU)
 - [The Golden Age of Quantum Physics (1927)](https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7) ([HN](https://news.ycombinator.com/item?id=28414005))
+- [What is the difference between quantum and thermal correlations? (2021)](https://www.youtube.com/watch?v=xPc7L_mDkeM)
