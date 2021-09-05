@@ -21,3 +21,4 @@
 - [Emulate vision deficiencies in DevTools (2020)](https://addyosmani.com/blog/emulate-vision-deficiencies-devtools/)
 - [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [Introduction to Dev Tools](https://github.com/jkup/mastering-chrome-devtools)
+- [Abusing the Chromium Devtools Scope Pane (2021)](https://medium.com/@weizmangal/javascript-anti-debugging-some-next-level-sh-t-part-2-abusing-chromium-devtools-scope-pane-b2796c00331d) ([HN](https://news.ycombinator.com/item?id=28422781))
