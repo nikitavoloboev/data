@@ -27,3 +27,4 @@
 - [arlocal](https://github.com/textury/arlocal) - Run a local Arweave gateway-like server.
 - [Textury](https://textury.org/) - Developer tools for the permanent web. ([GitHub](https://github.com/textury))
 - [arkb](https://github.com/textury/arkb) - Arweave Deploy that saves you data costs.
+- [Arweave: Why It's So Exciting (2021)](https://www.youtube.com/watch?v=jKFhHL1geVw)
