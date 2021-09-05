@@ -19,3 +19,4 @@
 - [The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova](https://www.goodreads.com/book/show/49814228-the-biggest-bluff)
 - [‎When The Music Stops: Poker Chips, Tether and Crypto Casinos w/ Matt Ranger (2021)](https://podcasts.apple.com/us/podcast/when-the-music-stops/id1568272504?i=1000526842117)
 - [Holdem](https://holdem.fun/#/) - Lightweight Texas Hold'em Poker Game in Clojure. ([Code](https://github.com/DogLooksGood/holdem?))
+- [How To Play Poker (And Beat Your Friends) (2021)](https://www.coreyhaines.co/blog/poker)

@@ -9,6 +9,7 @@
 - [My go to for Rust actors package is usually tokio::sync::mpsc and tokio::spawn.](https://twitter.com/DavidPdrsn/status/1418554353586262021)
 - [For error handling: We use anyhow for applications, thiserror for libraries.](https://lobste.rs/s/xbncik/rust_first_thoughts)
 - [Once you internalize Rust's concept of ownership and its criticality to memory safety, it forever changes how you look at C/C++ code. You will constantly be amazed - and demoralized - by how often C/C++ code doesn't document memory lifetimes/ownership in its API contracts.](https://twitter.com/indygreg/status/1425314471950491650)
+- [Rust enums are amazing. They are also known as Sum Types.](https://twitter.com/clementd/status/1434583356969308160)
 
 ## Links
 

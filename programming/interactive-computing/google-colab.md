@@ -7,3 +7,4 @@
 - [How to Deal with Files in Google Colab: Everything You Need to Know (2020)](https://neptune.ai/blog/google-colab-dealing-with-files)
 - [Colab-ssh](https://github.com/WassimBenzarti/colab-ssh) - Connect to Google Colab using SSH.
 - [kora](https://github.com/airesearch-in-th/kora) - Collection of tools to make programming on Google Colab easier.
+- [How to Use Google Colab with VS Code (2021)](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/amp/)
