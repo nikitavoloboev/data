@@ -204,3 +204,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Ren](https://renproject.io/) - Open protocol that enables the movement of value between blockchains. ([Twitter](https://twitter.com/renprotocol))
 - [0xcert](https://0xcert.org/) - Blockchain API gateway.
 - [Gimme the Loot! (2021)](https://collisions.substack.com/p/gimme-the-loot) - Primer on the Loot project that everyone’s getting hyped about in the NFT scene. ([Tweet](https://twitter.com/kylebrussell/status/1433232024102387716))
+- [Penumbra](https://github.com/penumbra-zone/penumbra) - Fully private proof-of-stake network providing privacy to the Cosmos ecosystem.

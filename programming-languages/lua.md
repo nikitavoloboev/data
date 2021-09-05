@@ -67,3 +67,4 @@
 - [Lua-QuickCheck](https://github.com/luc-tielen/lua-quickcheck) - Property based testing in Lua, inspired by the original QuickCheck.
 - [MoonScript](https://moonscript.org/) - Language that compiles to Lua. ([Code](https://github.com/leafo/moonscript))
 - [Lua Code](https://github.com/lua/lua)
+- [Concurrent LUA Executor](https://github.com/kelindar/lua) - Concurrent LUA executor that is designed to keep running a same (but updateable) set of scripts over a long period of time.

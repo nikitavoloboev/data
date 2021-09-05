@@ -116,3 +116,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Men in your 30s, what do you ACTUALLY look for in a woman? (2021)](https://www.reddit.com/r/datingoverthirty/comments/p7e6gi/men_in_your_30s_what_do_you_actually_look_for_in/)
 - [Flowers Make a Nice Gift](https://www.echevarria.io/blog/flowers-make-a-nice-gift/index.html) ([HN](https://news.ycombinator.com/item?id=28418105))
 - [Surviving Infidelity Reddit](https://www.reddit.com/r/survivinginfidelity/)
+- [Rethinking infidelity ... a talk for anyone who has ever loved | Esther Perel (2015)](https://www.youtube.com/watch?v=P2AUat93a8Q)
