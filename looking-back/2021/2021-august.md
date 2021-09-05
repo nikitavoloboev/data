@@ -28,7 +28,7 @@ Thus I am going to waste much less time on anything that isn't making me and my 
 
 TL;DR: Start off each day early with real work (tasks in my TODO list). Only then spend some time on 'news'. After that time, limit total time spent on those sites to bare minimum. Block sites that bring 0 benefit to me aside from an ego boost (personal analytics, GitHub/WikiAnalytics being main culprits for me 😿).
 
-Also from now on, full honesty with myself above all. It's tiring lying to myself that 'I am working' or 'learning' when I am watching some videos about WW2 or whatever news 💩 happened in Russia/US/World. Be honest with how I spend my time. Makes enjoying my time nicer too as I feel like I truly deserve my break.
+Also from now on, full honesty with myself above all. It's tiring lying to myself that 'I am working' or 'learning' when I am watching some videos about WW2 or whatever new news happened in Russia/US/World. Be honest with how I spend my time. Makes enjoying my breaks nicer too as I feel like I truly deserve them.
 
 The honesty part will hopefully translate into more interesting entries here in look backs and Twitter/Instagram too. Haven't shared much of anything there due to reasons of nothing much interesting happening. This is going to change starting now.
 

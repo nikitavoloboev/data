@@ -3,6 +3,7 @@
 ## Notes
 
 - [Tons of cash in VC => founders have leverage => founders prefer to do 1st meetings over zoom, easier to parallel process more firms/create momentum => zoom is default for first meetings. In-person is saved for the end/close.](https://twitter.com/zebulgar/status/1376251459574976513)
+- [The biggest mistake you can make in venture is of omission, not commission.](https://twitter.com/faraaznishtar/status/1434297011164098569)
 
 ## Links
 

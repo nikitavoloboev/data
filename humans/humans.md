@@ -73,3 +73,4 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Pioneers – Tools & Craft – Notion](https://www.notion.so/blog/topic/pioneers) - Conversations with the minds that shaped computing.
 - [Ninfex](https://ninfex.com/hello) - People Powered Search. ([HN](https://news.ycombinator.com/item?id=27316752))
 - [Alias](https://alias.co/) - Alerts for your favorite people. ([HN](https://news.ycombinator.com/item?id=27921875))
+- [43 great biographies (2021)](https://twitter.com/landforce/status/1434185988784328707)
