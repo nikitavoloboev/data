@@ -42,3 +42,4 @@
 - [libobjc2](https://github.com/gnustep/libobjc2) - Objective-C runtime library intended for use with Clang.
 - [How Do I Declare A Block in Objective-C?](http://fuckingblocksyntax.com/)
 - [Objective-C Review for Swift Developers (2020)](https://nickarner.com/notes/objective-c-review-for-swift-developers-june-26-2020/)
+- [ObjectiveScript](https://github.com/kabiroberai/ObjectiveScript) - Powerful superset of JavaScript, which enables extensive interaction with C and Objective-C code. ([Docs](https://www.objs.dev/))

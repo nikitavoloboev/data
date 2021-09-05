@@ -936,6 +936,7 @@
 - [async-wormhole](https://github.com/lunatic-solutions/async-wormhole) - Allows you to .await async calls in non-async functions, like extern "C" or JIT generated code.
 - [extend](https://github.com/davidpdrsn/extend) - Create extensions for types you don't own with extension traits but without the boilerplate.
 - [Enterpolation](https://github.com/NicolasKlenert/enterpolation) - Library for creating and computing interpolations, extrapolations and smoothing of generic data points.
+- [rust-sgx](https://github.com/fortanix/rust-sgx) - Fortanix Rust Enclave Development Platform.
 
 ## Cargo Plugins
 

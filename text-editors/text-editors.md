@@ -54,6 +54,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [ReVi](https://github.com/revi-editor/revi) - Vim inspired text editor.
 - [vis](https://github.com/martanne/vis) - Vi-like editor based on Plan 9's structural regular expressions.
 - [Led](https://github.com/cessen/led) - Simple console-based text editor, written in Rust and using Ropey as its text buffer.
+- [react-tapable-editor](https://github.com/ryuever/react-tapable-editor) - Pluginable, intuitive medium/notion like rich text editor.
 
 ## Web
 
