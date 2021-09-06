@@ -80,3 +80,5 @@
 - [Please, enough with the dead butterflies (2017)](https://www.emilydamstra.com/please-enough-dead-butterflies/) ([HN](https://news.ycombinator.com/item?id=27948008))
 - [Alison Pollack's Marin Mushrooms Photos](https://www.instagram.com/marin_mushrooms/)
 - [What Slime Knows](https://orionmagazine.org/article/what-slime-knows/)
+- [Three-dimensional geometry controls division symmetry in stem cell colonies (2021)](https://journals.biologists.com/jcs/article/134/14/jcs255018/271082/Three-dimensional-geometry-controls-division) - Explore how embryonic stem cells control their size after cell division. ([Tweet](https://twitter.com/AgChaigne/status/1420733129602523136))
+- [MRC LMCB at UCL](https://www.ucl.ac.uk/lmcb/) - Develops new molecular understandings of cell function. ([Twitter](https://twitter.com/MRC_LMCB))
