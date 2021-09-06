@@ -175,6 +175,7 @@
 - [io-ts-transformer](https://github.com/awerlogus/io-ts-transformer) - TypeScript transformer which converts TypeScript types to io-ts entities.
 - [Awesome TypeScript Ecosystem](https://github.com/madou/awesome-typescript-ecosystem) - List of awesome TypeScript transformers, plugins, handbooks, etc.
 - [typescript-run](https://github.com/saurabhdaware/typescript-run) - Run TypeScript files at lightning speed.
+- [Parse, don’t validate, incoming data in TypeScript (2021)](https://itnext.io/parse-dont-validate-incoming-data-in-typescript-d6d5bfb092c8)
 
 ## Images
 
