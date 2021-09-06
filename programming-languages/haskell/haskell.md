@@ -312,3 +312,4 @@
 - [Quick and dirty backpropagation in Haskell (2021)](https://mazzo.li/posts/haskell-backprop-short.html)
 - ["Propositions as Types" by Philip Wadler (2015)](https://www.youtube.com/watch?v=IOiZatlZtGU) ([Lobsters](https://lobste.rs/s/owiqyg/propositions_as_types_2015))
 - [Distributed Systems in Haskell](https://yager.io/Distributed/Distributed.html) ([HN](https://news.ycombinator.com/item?id=28228987))
+- [HIW 2021 - YouTube](https://www.youtube.com/playlist?list=PLyrlk8Xaylp6_QTmXGuRe3lShaRGaMtgc)

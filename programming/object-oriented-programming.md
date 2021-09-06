@@ -40,3 +40,4 @@
 - [Growing Object-Oriented Software vs what I would do (2021)](https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do) ([Lobsters](https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what)) ([HN](https://news.ycombinator.com/item?id=28105503))
 - [Object-Oriented Entity-Component-System Design](https://voxely.net/blog/object-oriented-entity-component-system-design/) ([HN](https://news.ycombinator.com/item?id=28198996))
 - [Grokking the Object Oriented Design Interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
+- [EO Language](https://github.com/cqfn/eo) - Experimental Object-Oriented Programming Language Based on 𝜑-Calculus. ([HN](https://news.ycombinator.com/item?id=28423328))

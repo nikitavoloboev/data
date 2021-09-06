@@ -2,6 +2,7 @@
 
 ## Links
 
+- [An Introduction to Polkadot](https://polkadot.network/Polkadot-lightpaper.pdf)
 - [Gossamer](https://github.com/ChainSafe/gossamer) - Go implementation of the Polkadot Host.
 - [Polkadot Node Implementation](https://github.com/paritytech/polkadot)
 - [@polkadot/apps](https://github.com/polkadot-js/apps) - Portal into the Polkadot and Substrate networks. Provides a view and interaction layer from a browser.

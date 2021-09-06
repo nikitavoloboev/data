@@ -594,3 +594,4 @@
 - [JSPM](https://jspm.org/) - ES Module Package Manager and CDN. ([GitHub](https://github.com/jspm))
 - [JSPM Generator](https://github.com/jspm/generator) - JSPM Import Map Generator.
 - [UNPKG Search](https://www.unpkgsearch.com/) - Search Engine for Unpkg Packages.
+- [bundle](https://bundle.js.org/) - Quick npm package size checker. ([Code](https://github.com/okikio/bundle))

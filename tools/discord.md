@@ -60,3 +60,4 @@
 - [discord-sdk](https://github.com/EmbarkStudios/discord-sdk) - Open implementation of the Discord Game SDK in Rust.
 - [Fosscord](https://github.com/fosscord/fosscord) - Free open source self hostable chat, voice and video discord-compatible platform.
 - [Discord Bots](https://discord.com/invite/0cDvIgU2voY8RSYL)
+- [Revolt](https://revolt.chat/) - Open-source alternative to Discord written in Rust. ([HN](https://news.ycombinator.com/item?id=28434012))

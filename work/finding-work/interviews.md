@@ -140,3 +140,4 @@
 - [The rise of never-ending job interviews (2021)](https://www.bbc.com/worklife/article/20210727-the-rise-of-never-ending-job-interviews) ([HN](https://news.ycombinator.com/item?id=28031782))
 - [20 common interview questions, what they really mean, and how to nail them](https://twitter.com/SahilBloom/status/1423971814443819009)
 - [Tips on doing better at tech interviews (2021)](https://twitter.com/AdamRackis/status/1370874399390367756)
+- [Code Interviews (2021)](https://alaiacano.github.io/interviews/2021/08/11/interviews.html) ([HN](https://news.ycombinator.com/item?id=28435372))

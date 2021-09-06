@@ -173,3 +173,4 @@
 - [Ocean](https://github.com/riicchhaarrd/ocean) - Programming language lik C that compiles into a x86 ELF executable. ([HN](https://news.ycombinator.com/item?id=28048528))
 - [The (too) many pitfalls of VLA in C (2021)](https://blog.joren.ga/vla-bad)
 - [The Descent to C (2013)](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) ([HN](https://news.ycombinator.com/item?id=28378627))
+- [Progress on C23 (2021)](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting) ([HN](https://news.ycombinator.com/item?id=28423793)) ([Lobsters](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting))

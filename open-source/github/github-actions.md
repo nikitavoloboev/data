@@ -112,6 +112,7 @@
 - [GitHub Sync](https://github.com/repo-sync/github-sync) - GitHub Action for syncing current repository with remote.
 - [setup-git-credentials](https://github.com/fusion-engineering/setup-git-credentials) - GitHub action to clone private respositories.
 - [github-action-ghr](https://github.com/fnkr/github-action-ghr) - GitHub Action to upload build artifacts to GitHub releases.
+- [changed-files](https://github.com/tj-actions/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files with support for push and pull request events.
 
 ## Go
 

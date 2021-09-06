@@ -215,3 +215,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [The Origins of Russian Authoritarianism (2021)](https://www.youtube.com/watch?v=f8ZqBLcIvw0)
 - [Другой СССР. 1959: бунт в Темиртау](https://www.youtube.com/watch?v=cAMSoondbv8)
 - [Multipolar World - Russia's Primakov Doctrine in the Middle East (2021)](https://www.youtube.com/watch?v=zwi9J-CA80I)
+- [500 вопросов Евгению Чичваркину | Путин красавчик? (2021)](https://www.youtube.com/watch?v=CKMFSUAmRKE)
+- [Чичваркин - о Медведеве, контрабанде и дружбе с Сурковым / вДудь (2017)](https://www.youtube.com/watch?v=QXijtvUOhX4)
