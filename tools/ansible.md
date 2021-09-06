@@ -18,3 +18,4 @@
 - [Alter Ansible's output on debugging (2021)](https://jpmens.net/2021/03/12/alter-ansible-s-output-on-debugging/)
 - [Awesome Ansible](https://github.com/KeyboardInterrupt/awesome-ansible)
 - [Ansible Techniques I Wish I’d Known Earlier (2021)](https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/) ([HN](https://news.ycombinator.com/item?id=28327694))
+- [Ansible Collection Hardening](https://github.com/dev-sec/ansible-collection-hardening) - Battle tested hardening for Linux, SSH, nginx, MySQL.

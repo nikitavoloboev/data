@@ -52,3 +52,4 @@
 - [Demystifying Determinant of a Matrix (2021)](https://muthu.co/demystifying-determinant-of-a-matrix/)
 - [Multiplying Matrices Without Multiplying (2021)](https://arxiv.org/abs/2106.10860)
 - [Compressing high-dimensional vectors by 97% (2021)](https://www.pinecone.io/learn/product-quantization/) ([HN](https://news.ycombinator.com/item?id=28394068))
+- [Resources to learn algebra visually (2021)](https://twitter.com/prathyvsh/status/1434663132585025537)

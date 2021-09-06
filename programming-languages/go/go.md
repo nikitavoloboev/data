@@ -532,3 +532,4 @@ Go promotes composition over inheritance.
 - [Go is pass-by-value — but it might not always feel like it (2021)](https://neilalexander.dev/2021/08/29/go-pass-by-value.html) ([Lobsters](https://lobste.rs/s/lfidmh/go_is_pass_by_value_it_might_not_always_feel))
 - [A Guide to Interfaces in Go (2021)](http://fast4ward.online/posts/a-guide-to-interfaces-in-go/)
 - [Go pattern: graceful shutdown of concurrent events (2020)](https://www.rodrigoaraujo.me/posts/golang-pattern-graceful-shutdown-of-concurrent-events/)
+- [The Go Programming Language Book (2015)](http://www.gopl.io/) ([Code](https://github.com/adonovan/gopl.io))

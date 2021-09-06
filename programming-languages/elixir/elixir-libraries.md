@@ -72,6 +72,7 @@
 - [Msgpax](https://github.com/lexmag/msgpax) - Fast and comprehensive library for serializing and deserializing Elixir terms using the MessagePack format.
 - [Manifold](https://github.com/discord/manifold) - Fast batch message passing between nodes for Erlang/Elixir.
 - [FastGlobal](https://github.com/discord/fastglobal) - Fast no copy globals for Elixir & Erlang.
+- [Wasmex](https://github.com/tessi/wasmex) - Execute WebAssembly / WASM from Elixir.
 
 ## Links
 

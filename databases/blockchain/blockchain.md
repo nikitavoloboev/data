@@ -205,3 +205,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [0xcert](https://0xcert.org/) - Blockchain API gateway.
 - [Gimme the Loot! (2021)](https://collisions.substack.com/p/gimme-the-loot) - Primer on the Loot project that everyone’s getting hyped about in the NFT scene. ([Tweet](https://twitter.com/kylebrussell/status/1433232024102387716))
 - [Penumbra](https://github.com/penumbra-zone/penumbra) - Fully private proof-of-stake network providing privacy to the Cosmos ecosystem.
+- [Gaby's Web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524) ([Tweet](https://twitter.com/gaby_goldberg/status/1434634163353620482))
