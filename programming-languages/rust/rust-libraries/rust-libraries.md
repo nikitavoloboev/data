@@ -937,6 +937,7 @@
 - [extend](https://github.com/davidpdrsn/extend) - Create extensions for types you don't own with extension traits but without the boilerplate.
 - [Enterpolation](https://github.com/NicolasKlenert/enterpolation) - Library for creating and computing interpolations, extrapolations and smoothing of generic data points.
 - [rust-sgx](https://github.com/fortanix/rust-sgx) - Fortanix Rust Enclave Development Platform.
+- [tonari-actor](https://github.com/tonarino/actor) - Minimalist actor framework aiming for high performance and simplicity.
 
 ## Cargo Plugins
 
