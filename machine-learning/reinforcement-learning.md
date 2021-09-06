@@ -233,3 +233,4 @@
 - [For a beginner, what are the most influential papers in the history of RL? (2021)](https://www.reddit.com/r/reinforcementlearning/comments/p8rd7z/for_a_beginner_what_are_the_most_influential/)
 - [rliable](https://github.com/google-research/rliable) - Open-source library for reliable evaluation on reinforcement learning and machine learnings benchmarks.
 - [d3rlpy](https://github.com/takuseno/d3rlpy) - Offline deep reinforcement learning library. ([Web](https://takuseno.github.io/d3rlpy/))
+- [Why You Shouldn’t Use Reinforcement Learning (2021)](https://towardsdatascience.com/why-you-shouldnt-use-reinforcement-learning-163bae193da8)

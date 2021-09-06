@@ -26,3 +26,5 @@
 - [What Is a Nuclear Microreactor? (2021)](https://www.energy.gov/ne/articles/what-nuclear-microreactor) ([HN](https://news.ycombinator.com/item?id=27133196))
 - ["Advanced" Isn't Always Better (2021)](https://www.ucsusa.org/resources/advanced-isnt-always-better)
 - [Transmutex](https://www.transmutex.com/) - From Nuclear Waste to Clean Energy. ([Article](https://www.usv.com/writing/2021/07/transmutex/))
+- [Chernobyl — How It Happened (2016)](https://www.youtube.com/watch?v=Ijst4g5KFN0)
+- [MIT Introduction to Nuclear Engineering and Ionizing Radiation (2016)](https://ocw.mit.edu/courses/nuclear-engineering/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/)
