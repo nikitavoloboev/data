@@ -253,7 +253,7 @@
 - [Transfer Learning for Semantic Segmentation using PyTorch DeepLab v3](https://github.com/msminhas93/DeepLabv3FineTuning)
 - [Class Activation Map methods implemented in PyTorch](https://github.com/jacobgil/pytorch-grad-cam)
 - [Neural Network Pruning](https://github.com/lucaslie/torchprune) - PyTorch-based pruning and research.
-- [Deep Learning with PyTorch Step-by-Step: Beginner's Guide (2021)](https://leanpub.com/pytorch)
+- [Deep Learning with PyTorch Step-by-Step: Beginner's Guide (2021)](https://leanpub.com/pytorch) ([Code](https://github.com/dvgodoy/PyTorchStepByStep))
 - [learn2learn](https://github.com/learnables/learn2learn) - PyTorch Library for Meta-learning Research.
 - [PyTorch builds the future of AI and machine learning at Facebook (2021)](https://ai.facebook.com/blog/pytorch-builds-the-future-of-ai-and-machine-learning-at-facebook/)
 - [allRank](https://github.com/allegro/allRank) - Framework for training learning-to-rank neural models based on PyTorch.

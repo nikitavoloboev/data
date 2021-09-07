@@ -317,3 +317,4 @@
 - [Skybison](https://github.com/facebookexperimental/skybison) - Instagram's experimental performance oriented greenfield implementation of Python.
 - [How async/await works in Python (2021)](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/) ([HN](https://news.ycombinator.com/item?id=28401049))
 - [Fil memory profiler for Python](https://github.com/pythonspeed/filprofiler) ([Web](https://pythonspeed.com/fil/)) ([Docs](https://pythonspeed.com/fil/docs/index.html))
+- [Memory analyzer for running python processes](https://github.com/facebookincubator/memory-analyzer)

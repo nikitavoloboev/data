@@ -72,7 +72,7 @@
 - [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum))
 - [Perseus](https://github.com/arctic-hen7/perseus) - High-level frontend development framework for Rust with full support for SSR and SSG.
 - [Zap](https://github.com/janpaul123/zaplib) - Fast, cross-platform (web+native), GPU-based application framework, written in Rust.
-- [Poem](https://github.com/poem-web/poem) - Full-featured and easy-to-use web framework.
+- [Poem](https://github.com/poem-web/poem) - Full-featured and easy-to-use web framework. ([Poem OpenAPI](https://github.com/poem-web/poem-openapi))
 
 ## WASM
 
@@ -941,6 +941,7 @@
 - [tonari-actor](https://github.com/tonarino/actor) - Minimalist actor framework aiming for high performance and simplicity.
 - [Strum](https://github.com/Peternator7/strum) - Set of macros and traits for working with enums and strings easier in Rust.
 - [detour-rs](https://github.com/darfink/detour-rs) - Cross-platform detour library written in Rust.
+- [EVLRU](https://github.com/Bajix/evlru) - Eventually consistent LRU designed for lock-free concurrent reads.
 
 ## Cargo Plugins
 
