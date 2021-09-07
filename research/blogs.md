@@ -63,6 +63,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Phiresky](https://phiresky.github.io/blog/) ([Code](https://github.com/phiresky/blog))
 - [Michele Bertasi](https://blog.mbrt.dev/)
 - [Matt Rickard](https://matt-rickard.com/archive/)
+- [Micah Lerner](https://www.micahlerner.com/) ([Code](https://github.com/mlerner/mlerner.github.io))
 
 ## Notes
 
