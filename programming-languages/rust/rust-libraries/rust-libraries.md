@@ -939,6 +939,8 @@
 - [Enterpolation](https://github.com/NicolasKlenert/enterpolation) - Library for creating and computing interpolations, extrapolations and smoothing of generic data points.
 - [rust-sgx](https://github.com/fortanix/rust-sgx) - Fortanix Rust Enclave Development Platform.
 - [tonari-actor](https://github.com/tonarino/actor) - Minimalist actor framework aiming for high performance and simplicity.
+- [Strum](https://github.com/Peternator7/strum) - Set of macros and traits for working with enums and strings easier in Rust.
+- [detour-rs](https://github.com/darfink/detour-rs) - Cross-platform detour library written in Rust.
 
 ## Cargo Plugins
 

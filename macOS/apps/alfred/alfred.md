@@ -80,3 +80,4 @@ I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3
 - [How to Programmatically Add Folders to the Spotlight Ignore List (2020)](https://mattprice.me/2020/programmatically-modify-spotlight-ignore/)
 - [Alfred Workflow ScriptFilter in Swift](https://github.com/godbout/AlfredWorkflowScriptFilter) ([Discussion](https://www.alfredforum.com/topic/16719-alfredworkflowscriptfilter-swift/))
 - [AlfredSwift](https://github.com/mr-pennyworth/AlfredSwift) - Swift package to access and manipulate metadata and preferences for Alfred and workflows.
+- [Workflow Development](https://intersect.rknight.me/macos/alfred/workflow-development/)
