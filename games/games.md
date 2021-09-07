@@ -115,6 +115,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Turn-based survival game set in a post-apocalyptic world. ([Code](https://github.com/CleverRaven/Cataclysm-DDA))
 - [Widelands](https://github.com/widelands/widelands) - Free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. ([Web](https://www.widelands.org)) ([HN](https://news.ycombinator.com/item?id=28196178))
 - [Doomsday Engine](https://dengine.net/) - Doom / Heretic / Hexen port with enhanced graphics. ([Code](https://github.com/skyjake/Doomsday-Engine))
+- [Fish Fight](https://fishfight.org/) - Tactical 2D shooter. Made with Rust-lang and Macroquad. ([Code](https://github.com/fishfight/FishFight))
 
 ## Awesome games (other)
 

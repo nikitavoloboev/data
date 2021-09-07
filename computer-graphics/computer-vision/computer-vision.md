@@ -367,3 +367,4 @@
 - [BARF: Bundle-Adjusting Neural Radiance Fields (2021)](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/) ([Code](https://github.com/chenhsuanlin/bundle-adjusting-NeRF))
 - [Self-Calibrating Neural Radiance Fields (2021)](https://postech-cvlab.github.io/SCNeRF/) ([Code](https://github.com/POSTECH-CVLab/SCNeRF))
 - [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - Demos I made with the Transformers library by HuggingFace.
+- [3D Human Texture Estimation from a Single Image with Transformers (2021)](https://arxiv.org/abs/2109.02563) ([Code](https://github.com/xuxy09/Texformer))

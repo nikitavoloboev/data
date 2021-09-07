@@ -915,6 +915,7 @@
 - [gosom](https://github.com/milosgajdos/gosom) - Self-organizing maps in Go.
 - [netaddr](https://github.com/inetaf/netaddr) - Network address types.
 - [Grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards.
+- [saferith](https://github.com/cronokirby/saferith) - Constant time big numbers for Go.
 
 ## Links
 

@@ -257,3 +257,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Repositories Ranking](https://wangchujiang.com/github-rank/repos.html)
 - [gh-dependents](https://github.com/otiai10/gh-dependents) - gh command extension to see dependents of your repository.
 - [GHTorrent](https://ghtorrent.org/) - Effort to create a scalable, queriable, offline mirror of data offered through the Github REST API. ([Code](https://github.com/ghtorrent/ghtorrent.org))
+- [GitHub Dashboard](https://github.com/antfu/github-dashboard) - Navigate GitHub effortlessly.

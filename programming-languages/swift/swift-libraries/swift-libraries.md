@@ -187,6 +187,7 @@
 - [Google Sign-In for iOS](https://github.com/google/GoogleSignIn-iOS)
 - [UIView+Borders](https://github.com/aaronn/UIView-Borders-Swift) - One sided borders on any side of a UIView.
 - [MGCleanArchitecture](https://github.com/tuan188/MGCleanArchitecture) - Clean Architecture with RxSwift & MVVM - Templates and Solutions.
+- [Bauletto](https://github.com/gianpispi/Bauletto) - Display iOS 13 style banner with ease.
 
 ## macOS
 

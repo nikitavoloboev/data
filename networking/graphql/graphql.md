@@ -231,3 +231,4 @@
 - [clairvoyance](https://github.com/nikitastupin/clairvoyance) - Obtain GraphQL API schema despite disabled introspection.
 - [graphiql-tree](https://github.com/productfy/graphiql-tree) - Plugin for the GraphiQL IDE to explore a GraphQL schema.
 - [graphql-web-lite](https://github.com/kitten/graphql-web-lite) - Small sibling of the graphql package, slimmed down for client-side libraries.
+- [GraphQL Rules](https://graphql-rules.com/) ([Code](https://github.com/graphql-rules/graphql-rules))

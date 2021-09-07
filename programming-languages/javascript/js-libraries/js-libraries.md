@@ -59,6 +59,7 @@
 - [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework.
 - [CalDOM](https://github.com/dumijay/CalDOM) - Agnostic, reactive & minimalist (3kb) JavaScript UI library with direct access to native DOM. ([Web](https://caldom.org/))
 - [Trimmings](https://github.com/postlight/trimmings) - Zero-configuration JavaScript library that adds a layer of smooth and fast in-page interaction to your web pages.
+- [Piral](https://piral.io/) - Easily build a next generation portal application using microfrontends. ([Code](https://github.com/smapiot/piral))
 
 ## Animation
 
@@ -581,6 +582,7 @@
 - [Detect It](https://github.com/rafgraph/detect-it) - Detect if a device is mouseOnly, touchOnly, or hybrid, and if the primary input is mouse or touch. ([Web](https://detect-it.rafgraph.dev/))
 - [zen-observable](https://github.com/zenparsing/zen-observable) - Implementation of Observables for JavaScript.
 - [has-pkg](https://github.com/antfu/has-pkg) - Check if a package is installed locally.
+- [js-lru](https://github.com/rsms/js-lru) - Fast, simple & universal Least Recently Used (LRU) map for JavaScript.
 
 ## Links
 

@@ -8,7 +8,7 @@
 - [Transparent Synchronous Dataflow (2019)](https://arxiv.org/pdf/1910.09579.pdf)
 - [Fluvio](https://github.com/infinyon/fluvio) - Cloud-native distributed data streaming platform.
 - [Gazette](https://github.com/gazette/core) - Makes it easy to build platforms that flexibly mix SQL, batch, and millisecond-latency streaming processing paradigms. ([Docs](https://gazette.readthedocs.io/en/latest/))
-- [Apache Flink](https://flink.apache.org/) - Stateful Computations over Data Streams. ([Code](https://github.com/apache/flink)) ([Apache Flink SQL Cookbook](https://github.com/ververica/flink-sql-cookbook))
+- [Apache Flink](https://flink.apache.org/) - Stateful Computations over Data Streams. ([Code](https://github.com/apache/flink)) ([Apache Flink SQL Cookbook](https://github.com/ververica/flink-sql-cookbook)) ([Web Code](https://github.com/apache/flink-web))
 - [Introduction to Stream Processing with Apache Flink (2020)](https://noti.st/morsapaes/9TGu0S/introduction-to-stream-processing-with-apache-flink)
 - [Storm Applied: Strategies for real-time event processing](https://www.amazon.com/Storm-Applied-Strategies-real-time-processing/dp/1617291897)
 - [Template Haskell and Stream-processing programs (2020)](https://jmtd.net/log/template_haskell/streamgraph/)

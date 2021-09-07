@@ -73,6 +73,7 @@
 - [Manifold](https://github.com/discord/manifold) - Fast batch message passing between nodes for Erlang/Elixir.
 - [FastGlobal](https://github.com/discord/fastglobal) - Fast no copy globals for Elixir & Erlang.
 - [Wasmex](https://github.com/tessi/wasmex) - Execute WebAssembly / WASM from Elixir.
+- [Recase](https://github.com/sobolevn/recase) - Convert strings to any case.
 
 ## Links
 
