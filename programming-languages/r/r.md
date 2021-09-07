@@ -75,3 +75,6 @@
 - [Supervised Machine Learning for Text Analysis in R (2021)](https://smltar.com/) ([Code](https://github.com/EmilHvitfeldt/smltar))
 - [performance](https://github.com/easystats/performance) - Test if your model is a good model.
 - [rmonad](https://github.com/arendsee/rmonad) - Pipelines you can compute on.
+- [inspectdf](https://github.com/alastairrushworth/inspectdf) - Tools for Exploring and Comparing Data Frames.
+- [htmldf](https://github.com/alastairrushworth/htmldf) - Simple scraping and tidy webpage summaries.
+- [R Posts You Might Have Missed (2020)](https://alastairrushworth.github.io/R-Posts-You-Might-Have-Missed!/)

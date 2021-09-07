@@ -194,3 +194,4 @@
 - [Clustering Algorithms with Python (2020)](https://machinelearningmastery.com/clustering-algorithms-with-python/) ([HN](https://news.ycombinator.com/item?id=28350412))
 - [Data Science Cheatsheet 2.0](https://github.com/aaronwangy/Data-Science-Cheatsheet)
 - [Lessons Learned from two years as a Data Scientist (2021)](https://dawndrain.github.io/braindrain/two_years.html) ([HN](https://news.ycombinator.com/item?id=28388676))
+- [Free data science resources](https://github.com/alastairrushworth/free-data-science) - Thematic list of high-quality data science resources.
