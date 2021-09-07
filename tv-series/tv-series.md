@@ -26,3 +26,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Tomatotree.tv](https://tomatotree.tv/) - Find your next series to watch using Rotten Tomatoes. ([HN](https://news.ycombinator.com/item?id=28051563))
 - [Nestflix](https://nestflix.fun/) - For your favorite nested films and shows. ([HN](https://news.ycombinator.com/item?id=28189435))
 - [media-sort](https://github.com/jpillora/media-sort) - Automatically organize your movies and TV series.
+- [Good series you'd recommend watching? (2021)](https://www.reddit.com/r/AskMen/comments/pjl2bc/boys_whats_a_good_series_youd_recommend_watching/)
