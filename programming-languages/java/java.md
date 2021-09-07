@@ -69,3 +69,4 @@
 - [jgo](https://github.com/scijava/jgo) - Launch Java code from the CLI, installation-free.
 - [jas](https://github.com/mcy/jas) - JVM bytecode assembler.
 - [Java Champions](https://github.com/aalmiray/java-champions)
+- [Well-Typed Programs Can Go Wrong: A Study of Typing-Related Bugs in JVM Compilers (2021)](https://dimitro.gr/assets/papers/CSDMMS21.pdf)
