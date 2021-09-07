@@ -85,6 +85,7 @@ There are many more things that simply would not happen if I didn't try new thin
 ## Notes
 
 - [Having the ability to go to college isn't the same as having the opportunity to go to college and i am sick of acting like it is.](https://twitter.com/_thotology/status/1387769165780504578)
+- [Pick the hardest classes that you are really interested in. don't sweat the grades.](https://twitter.com/aeyakovenko/status/1435351508963532800)
 
 ## Links
 

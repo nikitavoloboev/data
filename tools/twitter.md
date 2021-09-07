@@ -113,3 +113,4 @@
 - [Twitter's new visual design system](https://twitter.com/ashlie/status/1425506038506147840) ([Tweet](https://twitter.com/TwitterDesign/status/1425505308563099650))
 - [TidyTweets](https://tidytweets.org/) - Tidy up your Following list on Twitter. ([Code](https://github.com/rlueder/tidytweets))
 - [twilens](https://github.com/ciffelia/twilens) - Full-text search for your tweets.
+- [RSS 2 Twitter](https://github.com/umputun/rss2twitter) - Publish RSS updates to Twitter.

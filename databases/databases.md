@@ -159,6 +159,7 @@
 - [RefineDB](https://github.com/losfair/RefineDB) - Strongly-typed document database that runs on any transactional key-value store.
 - [Engula](https://engula.com/) - Cloud-native storage engine for next-generation data infrastructures. ([Code](https://github.com/engula/engula))
 - [BerylDB](https://github.com/beryldb/beryldb) - A data structure data manager that can be used to store data as key-value entries. ([Docs](https://docs.beryl.dev/))
+- [Hyrise](https://github.com/hyrise/hyrise) - Research in-memory database. ([Web](https://hpi.de/plattner/projects/hyrise.html))
 
 ## Tools
 

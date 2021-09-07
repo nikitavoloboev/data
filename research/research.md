@@ -117,3 +117,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Citation Statement Search](https://scite.ai/search/citations) - Search 885M+ citation statements at once from 26M full-text research articles.
 - [A better Google Scholar (2021)](https://nintil.com/better-google-scholar)
 - [How to succeed as an undergraduate researcher (2018)](https://dblalock.github.io/how-to-undergrad-research/)
+- [Science Corporation](https://science.xyz/) - Developing products for an exciting future. ([Article](https://maxhodak.com/nonfiction/2021/09/03/science.html))

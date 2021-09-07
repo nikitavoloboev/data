@@ -586,6 +586,7 @@
 - [vscode-uri](https://github.com/microsoft/vscode-uri) - URI implementation that is used in VS Code and its extensions.
 - [Dotto.x](https://github.com/dottostack/dotto.x) - Tiny state manager for React, Svelte, and vanilla JS.
 - [calendarize](https://github.com/lukeed/calendarize) - Tiny (202B) utility to generate calendar views.
+- [pdfAnnotate](https://github.com/highkite/pdfAnnotate) - JavaScript library for creating annotations in PDF documents.
 
 ## Links
 
