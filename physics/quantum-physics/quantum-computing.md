@@ -100,3 +100,4 @@
 - [PQ Shield](https://pqshield.com/) - Post-quantum Cryptography.
 - [Qiskit Terra](https://github.com/Qiskit/qiskit-terra) - Open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
 - [Qiskit Aer](https://github.com/Qiskit/qiskit-aer) - High performance simulator for quantum circuits that includes noise models.
+- [QWIRE](https://github.com/inQWIRE/QWIRE) - Quantum circuit language and formal verification tool.

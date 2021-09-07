@@ -104,3 +104,4 @@
 - [Wikidata or Scraping Wikipedia](http://simia.net/wiki/Wikidata_or_scraping_Wikipedia) ([HN](https://news.ycombinator.com/item?id=28277749))
 - [pyspider](https://github.com/binux/pyspider) - Powerful Spider (Web Crawler) System in Python. ([Docs](http://docs.pyspider.org/en/latest/))
 - [Python-Goose](https://github.com/grangier/python-goose) - HTML Content / Article Extractor, web scrapping lib in Python.
+- [Dyer](https://github.com/HomelyGuy/dyer) - Designed for reliable, flexible and fast web crawling, providing some high-level, comprehensive features without compromising speed.

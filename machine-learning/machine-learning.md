@@ -540,3 +540,4 @@
 - [Tutorial: Performance Engineering for Machine Learning and Scientific Computing (2017)](https://dblalock.github.io/Performance-Engineering-Tutorial/)
 - [Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)
 - [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (2018)](http://www.kdd.org/kdd2018/accepted-papers/view/modeling-task-relationships-in-multi-task-learning-with-multi-gate-mixture-) ([Code](https://github.com/drawbridge/keras-mmoe))
+- [Machine Learning Bookcamp: Build a portfolio of real-life projects (2021)](https://www.manning.com/books/machine-learning-bookcamp) ([Code](https://github.com/alexeygrigorev/mlbookcamp-code))

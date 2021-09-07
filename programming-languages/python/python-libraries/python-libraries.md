@@ -499,3 +499,4 @@
 - [Grayskull](https://github.com/conda-incubator/grayskull) - Recipe generator for Conda.
 - [Cooperative Package Management for Python (2021)](https://lwn.net/SubscriberLink/867657/0efafb319ce20e3e/) ([HN](https://news.ycombinator.com/item?id=28376796))
 - [Mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions.
+- [Python Packages](https://py-pkgs.org/) - Open source book about making Python packages. ([Code](https://github.com/py-pkgs/py-pkgs))

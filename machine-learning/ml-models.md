@@ -35,3 +35,4 @@
 - [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 - [Tuning Model Performance (2021)](https://eng.uber.com/tuning-model-performance/)
 - [SHAP](https://github.com/slundberg/shap) - Game theoretic approach to explain the output of any machine learning model.
+- [Lazy Predict](https://github.com/shankarpandala/lazypredict) - Helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
