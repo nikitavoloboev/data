@@ -369,3 +369,4 @@
 - [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - Demos I made with the Transformers library by HuggingFace.
 - [3D Human Texture Estimation from a Single Image with Transformers (2021)](https://arxiv.org/abs/2109.02563) ([Code](https://github.com/xuxy09/Texformer))
 - [CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval (2021)](https://arxiv.org/abs/2104.08860) ([Code](https://github.com/ArrowLuo/CLIP4Clip))
+- [RAFT: Recurrent All Pairs Field Transforms for Optical Flow (2020)](https://arxiv.org/abs/2003.12039) ([Code](https://github.com/princeton-vl/RAFT))

@@ -177,6 +177,7 @@
 - [typescript-run](https://github.com/saurabhdaware/typescript-run) - Run TypeScript files at lightning speed.
 - [Parse, don’t validate, incoming data in TypeScript (2021)](https://itnext.io/parse-dont-validate-incoming-data-in-typescript-d6d5bfb092c8)
 - [Building an ECS in TypeScript (2021)](https://maxwellforbes.com/posts/typescript-ecs-implementation)
+- [Sindre's tsconfig](https://github.com/sindresorhus/tsconfig) - Shared TypeScript config for my projects.
 
 ## Images
 

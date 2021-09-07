@@ -118,3 +118,4 @@
 - [HTML over DNS: Serving Blog Content over DNS](https://jacobkiers.net/hod/) ([HN](https://news.ycombinator.com/item?id=28218406))
 - [nailgun](https://github.com/leshow/nailgun) - DNS performance testing client written in Rust.
 - [DNSTake](https://github.com/pwnesia/dnstake) - Fast tool to check missing hosted DNS zones that can lead to subdomain takeover.
+- [Cloudflare Dynamic DNS IP Updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) - Script used to update dynamic DNS entries for accounts on Cloudflare.

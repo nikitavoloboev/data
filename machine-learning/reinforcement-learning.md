@@ -235,3 +235,4 @@
 - [d3rlpy](https://github.com/takuseno/d3rlpy) - Offline deep reinforcement learning library. ([Web](https://takuseno.github.io/d3rlpy/))
 - [Why You Shouldn’t Use Reinforcement Learning (2021)](https://towardsdatascience.com/why-you-shouldnt-use-reinforcement-learning-163bae193da8)
 - [Reinforcement Learning with Augmented Data](https://mishalaskin.github.io/rad/) ([Code](https://github.com/MishaLaskin/rad))
+- [Greedy AI agents learn to cooperate (2021)](https://spectrum.ieee.org/reinforcement-learning) ([HN](https://news.ycombinator.com/item?id=28437797))

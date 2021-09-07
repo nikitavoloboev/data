@@ -42,3 +42,4 @@
 - [Bringing emulation into the 21st century (2021)](https://blog.davetcode.co.uk/post/21st-century-emulator/) ([HN](https://news.ycombinator.com/item?id=27728941))
 - [VMKit](https://github.com/adnsio/vmkit) - Virtualization made easy. Supports QEMU and Apple Virtualization.framework.
 - [VirtualSMC](https://github.com/acidanthera/VirtualSMC) - Advanced Apple SMC emulator in the kernel.
+- [GateBoy](https://github.com/aappleby/MetroBoy) - Gate-level simulators and tools for the original Game Boy.
