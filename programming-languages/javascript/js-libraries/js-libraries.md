@@ -585,6 +585,7 @@
 - [js-lru](https://github.com/rsms/js-lru) - Fast, simple & universal Least Recently Used (LRU) map for JavaScript.
 - [vscode-uri](https://github.com/microsoft/vscode-uri) - URI implementation that is used in VS Code and its extensions.
 - [Dotto.x](https://github.com/dottostack/dotto.x) - Tiny state manager for React, Svelte, and vanilla JS.
+- [calendarize](https://github.com/lukeed/calendarize) - Tiny (202B) utility to generate calendar views.
 
 ## Links
 

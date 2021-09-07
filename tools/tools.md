@@ -176,6 +176,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Cuttle](https://cuttle.xyz/) - Design tool for digital cutting machines.
 - [ASCIIFlow](https://asciiflow.com/#/) - Client-side only web based application for drawing ASCII diagrams. ([Code](https://github.com/lewish/asciiflow))
 - [Pace](https://pace.dev/) - Minimalist project management tool.
+- [Legend](https://legendapp.com/) ([HN](https://news.ycombinator.com/item?id=28447499))
 - [Meta Meme](https://metameme.app/) - Video and Image Meme Maker. ([HN](https://news.ycombinator.com/item?id=28329444))
 - [ToolJet](https://tooljet.io/) - Build and deploy internal tools. ([Code](https://github.com/ToolJet/ToolJet)) ([HN](https://news.ycombinator.com/item?id=27421408))
 - [Lucidchart](https://www.lucidchart.com/pages/) - Online Diagram Software & Visual Solution.
@@ -469,6 +470,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [GitHub Pages URL Shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages. ([HN](https://news.ycombinator.com/item?id=25110879))
 - [projen](https://github.com/projen/projen) - Project generator. Define and maintain complex project configuration through code.
 - [Sonyflake](https://github.com/sony/sonyflake) - Distributed unique ID generator inspired by Twitter's Snowflake.
+- [CloudEvents](https://cloudevents.io/) - Specification for describing event data in a common way. ([GitHub](https://github.com/cloudevents)) ([Go SDK](https://github.com/cloudevents/sdk-go)) ([TS SDK](https://github.com/cloudevents/sdk-javascript))
 
 ## Notes
 

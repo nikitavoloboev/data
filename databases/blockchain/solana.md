@@ -76,3 +76,5 @@
 - [Solana App Scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp built on Solana.
 - [Solana Token Registry](https://github.com/solana-labs/token-list) - Package that allows application to query for list of tokens.
 - [Assert Balances](https://github.com/project-serum/assert-balances) - Safety hatch for aborting transactions with unexpected balance changes.
+- [WalletKit](https://github.com/GokiProtocol/walletkit) - React library that allows a Solana dApp to display a modal for connecting wallets.
+- [use-solana](https://github.com/saber-hq/saber-common/tree/master/packages/use-solana) - Solana frontend library and TypeScript SDK.

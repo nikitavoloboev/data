@@ -129,3 +129,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [10 Chess Tips To CRUSH Everyone (2021)](https://www.youtube.com/watch?v=fGFl4GjVvrA)
 - [Chess opening names](https://github.com/niklasf/chess-openings) - Aggregated data set of chess opening names.
 - [Chess Position Ranking](https://github.com/tromp/ChessPositionRanking) - Software suite for ranking chess positions and accurately estimating the number of legal chess positions.
+- [node-chess](https://github.com/brozeph/node-chess) - Algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated).

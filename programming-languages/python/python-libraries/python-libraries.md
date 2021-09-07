@@ -84,6 +84,7 @@
 
 ## CLI
 
+- [SimpleParsing](https://github.com/lebrice/SimpleParsing) - Simple, Elegant, Typed Argument Parsing with argparse.
 - [Typer](https://github.com/tiangolo/typer) - Build great CLIs. Easy to code. Based on Python type hints.
 - [Python Fire](https://github.com/google/python-fire) - Library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [Rich](https://github.com/willmcgugan/rich) - Python library for rendering rich text and beautiful formatting to the terminal. ([HN](https://news.ycombinator.com/item?id=23070821)) ([HN thread on Rich tables](https://news.ycombinator.com/item?id=23738072))
@@ -466,6 +467,7 @@
 - [Audiomentations](https://github.com/iver56/audiomentations) - Python library for audio data augmentation.
 - [executing](https://github.com/alexmojaki/executing) - Get information about what a Python frame is currently doing, particularly the AST node being executed.
 - [ETNA](https://github.com/tinkoff-ai/etna-ts) - Easy-to-use time series forecasting framework.
+- [pedalboard](https://github.com/spotify/pedalboard) - Python library for adding effects to audio.
 
 ## Links
 
