@@ -43,3 +43,6 @@ Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status
 - [Cardano Community Discord](https://discord.com/invite/TUr9RDU)
 - [Cardano’s ledger approach and ‘concurrency’ explained (2021)](https://twitter.com/InputOutputHK/status/1434518391465943048)
 - [Cardano's UTXO model can only make Defi work with major tradeoffs (2021)](https://twitter.com/hasufl/status/1434443561387315203)
+- [Concurrency, State, & Cardano (2021)](https://sundaeswap-finance.medium.com/concurrency-state-cardano-c160f8c07575) ([Reddit](https://www.reddit.com/r/CryptoTechnology/comments/pjobqj/whats_the_deal_with_the_cardano_ammconcurrency/))
+- [Cardano Concurrency (MinSwap issue) (2021)](https://www.reddit.com/r/cardano/comments/phsqlj/concurrency_minswap_issue_is_not_a_problem_says/)
+- [Charles Hoskinson on Cardano Smart Contracts (2021)](https://www.youtube.com/watch?v=QJltrL1J_rs)

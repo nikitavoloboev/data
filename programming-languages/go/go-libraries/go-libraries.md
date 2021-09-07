@@ -260,6 +260,7 @@
 - [Canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to SVG, PDF, EPS, raster, HTML Canvas, etc.
 - [gfx](https://github.com/peterhellberg/gfx) - Convenience package for dealing with graphics in my pixel drawing experiments.
 - [gg](https://github.com/fogleman/gg) - 2D rendering in Go with a simple API.
+- [goworld](https://github.com/johanhenriksson/goworld) - OpenGL-based 3D Engine.
 
 ## GUI
 

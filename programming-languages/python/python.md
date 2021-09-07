@@ -316,3 +316,4 @@
 - [The best Docker base image for your Python application (2021)](https://pythonspeed.com/articles/base-image-python-docker-images/) ([Lobsters](https://lobste.rs/s/jclep1/best_docker_base_image_for_your_python))
 - [Skybison](https://github.com/facebookexperimental/skybison) - Instagram's experimental performance oriented greenfield implementation of Python.
 - [How async/await works in Python (2021)](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/) ([HN](https://news.ycombinator.com/item?id=28401049))
+- [Fil memory profiler for Python](https://github.com/pythonspeed/filprofiler) ([Web](https://pythonspeed.com/fil/)) ([Docs](https://pythonspeed.com/fil/docs/index.html))
