@@ -542,3 +542,4 @@
 - [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (2018)](http://www.kdd.org/kdd2018/accepted-papers/view/modeling-task-relationships-in-multi-task-learning-with-multi-gate-mixture-) ([Code](https://github.com/drawbridge/keras-mmoe))
 - [Machine Learning Bookcamp: Build a portfolio of real-life projects (2021)](https://www.manning.com/books/machine-learning-bookcamp) ([Code](https://github.com/alexeygrigorev/mlbookcamp-code))
 - [Product Recommendations (2019)](http://bugra.github.io/posts/2019/8/15/product-recommendations/)
+- [Stanford CRFM](https://crfm.stanford.edu/) - Stanford Center for Research on Foundation Models. ([GitHub](https://github.com/stanford-crfm))
