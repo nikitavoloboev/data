@@ -121,3 +121,4 @@
 - [Life of a Container (2020)](https://indradhanush.github.io/blog/life-of-a-container/)
 - [Issues with containers on AWS (2021)](https://twitter.com/marknca/status/1433473464178909195)
 - [What Is a Container, After All? (2021)](https://iximiuz.com/en/posts/oci-containers/)
+- [HN: Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines (2021)](https://news.ycombinator.com/item?id=28429650)

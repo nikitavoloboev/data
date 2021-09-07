@@ -68,3 +68,4 @@
 - [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
 - [jgo](https://github.com/scijava/jgo) - Launch Java code from the CLI, installation-free.
 - [jas](https://github.com/mcy/jas) - JVM bytecode assembler.
+- [Java Champions](https://github.com/aalmiray/java-champions)

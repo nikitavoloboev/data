@@ -17,6 +17,7 @@
 - [Lockbox](https://github.com/cloudflare/lockbox) - Secure way to store Kubernetes Secrets offline.
 - [NVIDIA device plugin for Kubernetes](https://github.com/NVIDIA/k8s-device-plugin)
 - [VictoriaMetrics operator](https://github.com/VictoriaMetrics/operator) - Kubernetes operator for Victoria Metrics.
+- [rakkess](https://github.com/corneliusweig/rakkess) - Kubectl plugin to show an access matrix for server resources.
 
 ## Links
 
