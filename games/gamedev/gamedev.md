@@ -201,3 +201,4 @@
 - [GameCI](https://game.ci/) - Fastest and easiest way to automatically test and build your game projects. ([GitHub](https://github.com/game-ci))
 - [Designing Virtual Worlds Book by Richard Bartle (2003)](https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html) ([HN](https://news.ycombinator.com/item?id=28226176))
 - [Why video game doors are so hard to get right (2021)](https://www.youtube.com/watch?v=AYEWsLdLmcc) ([HN](https://news.ycombinator.com/item?id=28415196))
+- [WorldQL](https://www.worldql.com/) - Universal backend for real-time multiplayer games. ([GitHub](https://github.com/WorldQL))

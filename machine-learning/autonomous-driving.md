@@ -40,3 +40,5 @@
 - [Transitioning to Tesla Vision (2021)](https://www.tesla.com/support/transitioning-tesla-vision) ([HN](https://news.ycombinator.com/item?id=27281043))
 - [Andrej Karpathy (Tesla): CVPR 2021 Workshop on Autonomous Vehicles (2021)](https://www.youtube.com/watch?v=NSDTZQdo6H8) ([HN](https://news.ycombinator.com/item?id=27580744)) ([Summary](https://twitter.com/chipro/status/1407890489697652741))
 - [XVIZ](https://github.com/uber/xviz) - Protocol for real-time transfer and visualization of autonomy data.
+- [SemanticKITTI](http://semantic-kitti.org/) - Dataset for LiDAR-based Semantic Scene Understanding.
+- [SemanticKITTI API](https://github.com/PRBonn/semantic-kitti-api) - Helper scripts to open, visualize, process, and evaluate results for point clouds and labels from the SemanticKITTI dataset.

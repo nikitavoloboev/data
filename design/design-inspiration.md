@@ -406,6 +406,7 @@ Here are few more things I liked, design wise.
 - [Kyle Mathews](https://bricolage.io/)
 - [Stephanie Bian](http://stephbian.github.io/index.html)
 - [Mitxela](https://mitxela.com/)
+- [Emily Y Leung](https://emilyyleung.github.io/)
 - [Francesco Lorenzo](https://francescodilorenzo.com/)
 - [Frederic Cambus](https://www.cambus.net/)
 - [Давид Кистаури](https://davidkistauri.ru/) ([[Code](https://github.com/dtroode/kistauri)])

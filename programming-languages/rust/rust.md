@@ -552,3 +552,4 @@
 - [Systems Programming with Rust Book (2022)](https://www.oreilly.com/library/view/systems-programming-with/9781098109424/) ([Code](https://github.com/kyclark/rust-sysprog))
 - [Fast Rust Builds (2021)](https://matklad.github.io/2021/09/04/fast-rust-builds.html) ([HN](https://news.ycombinator.com/item?id=28425095)) ([Reddit](https://www.reddit.com/r/rust/comments/pid70f/blog_post_fast_rust_builds/))
 - [An Alternative Syntax for Async Functions (2021)](https://ibraheem.ca/writings/an-alternative-async-fn-syntax/) ([Reddit](https://www.reddit.com/r/rust/comments/pib1p1/an_alternative_syntax_for_async_functions/))
+- [Multiple defining uses of Type Alias Impl Traits (2021)](https://santiagopastorino.com/2021/06/16/multiple-defining-uses-of-taits/)

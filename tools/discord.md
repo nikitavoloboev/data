@@ -17,6 +17,7 @@
 - [Robbb](https://github.com/unixporn/robbb) - Discord bot for the Unixporn community in Rust.
 - [Send](https://github.com/cnrad/send) - Send a message to me on Discord using webhooks.
 - [MRVN](https://github.com/cpdt/mrvn-bot) - Discord music player bot.
+- [AWESOM-O](https://github.com/feinwarusoftware/awesomobot) - Modular Discord bot with support for user created scripts and an online dashboard. ([Web](https://awesomo.feinwaru.com/))
 
 ## Libraries
 

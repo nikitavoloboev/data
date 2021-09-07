@@ -276,3 +276,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [DappTools Template](https://github.com/gakonst/dapptools-template) - Forkable template to get you started with Dapp Tools.
 - [BoringSolidity](https://github.com/boringcrypto/BoringSolidity) - Basic Solidity Contracts and Libraries to make life easier.
 - [Rarity](https://github.com/andrecronje/rarity) - d20srd reference implementation codified in solidity.
+- [dark-forest.rs](https://github.com/gakonst/dark-forest) - Rust implementation of the Dark Forest game client.
+- [Vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM.

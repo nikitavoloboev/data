@@ -96,3 +96,4 @@
 - [The Polar Bear](https://www.kadirilkimen.com/thepolarbear/) - Open-Source, Multipurpose CNC Machine with a Rotary Axis. ([Code](https://github.com/kadirilkimen/Polar-Bear-Cnc-Machine)) ([HN](https://news.ycombinator.com/item?id=28231187))
 - [Linorobot](https://github.com/linorobot/linorobot) - Autonomous ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive). ([Web](https://linorobot.org/))
 - [RaiSim](https://raisim.com/) - Cross-platform multi-body physics engine for robotics and AI. ([Code](https://github.com/raisimTech/raisimLib))
+- [Photogrammetry & Robotics Bonn](https://www.ipb.uni-bonn.de/) ([GitHub](https://github.com/PRBonn))

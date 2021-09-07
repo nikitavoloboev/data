@@ -60,3 +60,4 @@
 - [Charm](https://svenhjol.github.io/Charm/) - Vanilla+ Minecraft mod inspired by Quark. ([Code](https://github.com/svenhjol/Charm))
 - [How we built an auto-scalable Minecraft server for 1000+ players (2021)](https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/) ([HN](https://news.ycombinator.com/item?id=28401224))
 - [Leafish](https://github.com/terrarier2111/Leafish) - Minecraft-like multi version client implemented in Rust.
+- [Mammoth](https://github.com/WorldQL/mammoth) - Horizontally scalable Minecraft server.

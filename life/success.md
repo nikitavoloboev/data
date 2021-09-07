@@ -122,3 +122,4 @@ Success comes from not giving up and doing what you love.
 - [The unreasonable effectiveness of just showing up everyday (2021)](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/) ([HN](https://news.ycombinator.com/item?id=27833064))
 - ["Failures of Kindness"](https://jamesclear.com/great-speeches/failures-of-kindness-by-george-saunders) - The most important question is how to be kind (to others and to yourself) more consistently. ([Tweet](https://twitter.com/patrick_oshag/status/1421810858582319105))
 - [Beware of tight feedback loops (2020)](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/) ([HN](https://news.ycombinator.com/item?id=27482067))
+- [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.goodreads.com/book/show/16256798-the-one-thing) ([Summary](https://emilyyleung.github.io/digitalgarden/books/The%20One%20Thing%20-%20Keller/))

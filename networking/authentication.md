@@ -144,3 +144,4 @@
 - [ZITADEL](https://zitadel.ch/) - Secure Login and Access for your projects. ([Code](https://github.com/caos/zitadel))
 - [Biscuit](https://github.com/CleverCloud/biscuit) - Delegated, decentralized, capabilities based authorization token.
 - [How does Google Authenticator work? (2021)](https://prezu.ca/post/2021-07-30-totp-1/) ([HN](https://news.ycombinator.com/item?id=28324626))
+- [Ethereum Single Sign-On (2021)](https://twitter.com/parkerhendo/status/1435033726136700934)

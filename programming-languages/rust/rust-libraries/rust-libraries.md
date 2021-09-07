@@ -976,6 +976,7 @@
 - [Cargo Remote](https://github.com/sgeisler/cargo-remote) - Cargo subcommand to compile rust projects remotely.
 - [cargo-breaking](https://github.com/iomentum/cargo-breaking) - Compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
 - [cargo-first-page](https://github.com/cecton/cargo-firstpage) - Shows only the first page of rustc output.
+- [Cargo Bisection](https://github.com/rust-lang/cargo-bisect-rustc) - Bisects rustc, either nightlies or CI artifacts.
 
 ## Links
 

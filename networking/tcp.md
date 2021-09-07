@@ -43,3 +43,4 @@
 - [Transcript2Video](http://www.xiongyu.me/projects/transcript2video/) - Efficient Clip Sequencing from Texts.
 - [Unit testing a TCP stack (2015)](http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/) ([HN](https://news.ycombinator.com/item?id=28311288))
 - [Linux implementation of Homa, a protocol to replace TCP for low-latency RPC (2021)](https://www.micahlerner.com/2021/08/29/a-linux-kernel-implementation-of-the-homa-transport-protocol.html) ([HN](https://news.ycombinator.com/item?id=28440542))
+- [tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary).

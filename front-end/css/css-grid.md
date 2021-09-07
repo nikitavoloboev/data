@@ -36,3 +36,5 @@
 - [Grids Part 1: To grid or not to grid (2020)](https://sarahmhigley.com/writing/grids-part1/)
 - [A Complete Guide to Grid (2021)](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Preventing a CSS Grid Blowout](https://css-tricks.com/preventing-a-grid-blowout/)
+- [CSS Grid Series](https://medium.com/uncurated)
+- [Notes on CSS Grid](https://emilyyleung.github.io/digitalgarden/tags/css-grid/)
