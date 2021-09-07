@@ -81,3 +81,4 @@
 - [Ruby on Rails: View Components, Storybook and Tailwind - a match made in heaven? (2021)](https://finnian.io/blog/view-components-storybook-tailwind-the-holy-trinity/) ([HN](https://news.ycombinator.com/item?id=28344302))
 - [Rails Mini Profiler](https://github.com/hschne/rails-mini-profiler) - Performance profiling for Rails, made simple.
 - [From Paperclip to Active Storage: An incremental, zero-downtime approach (2021)](https://www.tokyodev.com/2021/03/23/paperclip-activestorage/)
+- [OpenSourceRails.org](https://opensourcerails.org/) - Curated list of great open-source Ruby on Rails applications. ([Code](https://github.com/opensourcerails-org/site))

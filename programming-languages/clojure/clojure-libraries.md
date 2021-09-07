@@ -95,6 +95,7 @@
 - [ClojisR](https://github.com/scicloj/clojisr) - Clojure speaks statistics - a bridge between Clojure to R.
 - [incomplete](https://github.com/nrepl/incomplete) - Simple Clojure library providing code completion. ([Article](https://metaredux.com/posts/2021/08/17/introducing-incomplete-a-simple-clojure-code-completion-library.html))
 - [Afterglow](https://github.com/Deep-Symmetry/afterglow?) - Live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone.
+- [Orchard](https://github.com/clojure-emacs/orchard) - Clojure library designed to provide common functionality for Clojure development tools.
 
 ## Links
 

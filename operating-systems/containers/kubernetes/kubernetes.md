@@ -428,3 +428,4 @@
 - [Chart Releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases.
 - [Kubescape](https://github.com/armosec/kubescape) - First tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA. ([HN](https://news.ycombinator.com/item?id=28419103))
 - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
+- [A visual guide on troubleshooting Kubernetes deployments (2021)](https://learnk8s.io/troubleshooting-deployments) ([Tweet](https://twitter.com/manekinekko/status/1434808198532370432))

@@ -52,6 +52,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [The only thing that will make you feel better after breakup/hardships is time - and sadly you can’t fast forward that. Know that healing isn’t linear too.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/ncve9g/starting_over_at_28_im_scared_but_hopeful/)
 - [Nobody who is happy, successful, and fulfilled will ever hate on you.](https://twitter.com/ZubyMusic/status/1397662847077961728)
 - [Acceptance / letting go is the solution to most problems.](https://twitter.com/nickcammarata/status/1416866783865282569)
+- [Uncertainty, not outcome, is the root of stress.](https://twitter.com/NavalBot/status/1434245194292027393)
 
 ## Links
 

@@ -435,3 +435,4 @@
 - [Making Reasonable Use of Computer Resources: Part 2 (2021)](https://vfoley.xyz/reasonable-use-2/)
 - [The benefit of a dependency is inversely proportional to the amount of effort spent on a project (2021)](https://eli.thegreenplace.net/2017/benefits-of-dependencies-in-software-projects-as-a-function-of-effort/) ([Lobsters](https://lobste.rs/s/uxgclp/benefit_dependency_is_inversely))
 - [Systems Conferences 2021](https://www.micahlerner.com/2021/08/14/systems-conferences-2021.html)
+- [Hexlet](https://ru.hexlet.io/) - Больше чем школа программирования. Онлайн курсы, сообщество программистов.

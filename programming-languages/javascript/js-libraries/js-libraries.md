@@ -583,6 +583,7 @@
 - [zen-observable](https://github.com/zenparsing/zen-observable) - Implementation of Observables for JavaScript.
 - [has-pkg](https://github.com/antfu/has-pkg) - Check if a package is installed locally.
 - [js-lru](https://github.com/rsms/js-lru) - Fast, simple & universal Least Recently Used (LRU) map for JavaScript.
+- [vscode-uri](https://github.com/microsoft/vscode-uri) - URI implementation that is used in VS Code and its extensions.
 
 ## Links
 

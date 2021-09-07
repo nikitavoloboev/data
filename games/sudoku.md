@@ -9,3 +9,4 @@
 - [A Fast Sudoku Solver (2018)](https://www.sebastiansylvan.com/post/sudoku/)
 - [suGOku](https://github.com/bertoort/sugoku) - Sudoku puzzle solver and generator. ([Web](https://sugoku2.herokuapp.com/))
 - [Solving Sudokus Like A Human (2021)](https://www.youtube.com/watch?v=EXAPZUMj_sU)
+- [Certified Sudoku solver in Coq](https://github.com/coq-community/sudoku)
