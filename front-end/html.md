@@ -102,7 +102,7 @@
 - [Gorillas’ nav: a case study (2021)](https://kittygiraudel.com/2021/03/13/gorillas-nav-a-case-study/)
 - [Under-Engineered Select Menus (2021)](https://adrianroselli.com/2021/03/under-engineered-select-menus.html)
 - [Parsed HTML Rewriter](https://github.com/worker-tools/parsed-html-rewriter) - DOM-based implementation of Cloudflare Worker's HTMLRewriter.
-- [htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. Uses CSS selectors to extract bits content from HTML files.
+- [htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. Uses CSS selectors to extract bits content from HTML files. ([HN](https://news.ycombinator.com/item?id=28441880))
 - [Beautiful PDFs from HTML](https://pdf.math.dev/) ([Code](https://github.com/ashok-khanna/pdf)) ([HN](https://news.ycombinator.com/item?id=26691626))
 - [SelectMadu](https://github.com/pavish/select-madu) - Replacement for the select menu, with support for searching, multiple selections, async data loading and more.
 - [Sortable Table Columns (2021)](https://adrianroselli.com/2021/04/sortable-table-columns.html)

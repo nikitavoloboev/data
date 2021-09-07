@@ -111,3 +111,5 @@
 - [Going Intergalactic with Serverless Functions on Netlify (2021)](https://sia.codes/posts/serverless-functions-netlify/)
 - [Deploy your own faasd appliance with cloud-init (2020)](https://blog.alexellis.io/deploy-serverless-faasd-with-cloud-init/)
 - [Running OpenFaas Pro on Linode K8s (feat. Aiven and Pulumi)](https://github.com/dirien/pulumi-aiven-openfaas)
+- [What Serverless Computing Is and Should Become (2021)](https://cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext) ([Lobsters](https://lobste.rs/s/8bvgh9/what_serverless_computing_is_should))
+- [From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers (2021)](https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html)

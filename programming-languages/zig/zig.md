@@ -60,3 +60,4 @@
 - [Zig pathtracer (2021)](http://msinilo.pl/blog2/post/zig-pathtracer/) ([HN](https://news.ycombinator.com/item?id=28114957))
 - [Async engines in C++20, Rust, & Zig (2021)](https://www.youtube.com/watch?v=Ws3jC6AJC_4)
 - [Android Apps in Zig](https://github.com/MasterQ32/ZigAndroidTemplate) - Contains a example on how to create a minimal Android app in Zig.
+- [Looking into Odin and Zig (2021)](https://ayende.com/blog/194466-A/looking-into-odin-and-zig-my-notes) ([HN](https://news.ycombinator.com/item?id=28440579))

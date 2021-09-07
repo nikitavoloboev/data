@@ -360,3 +360,4 @@
 - [I switched from macOS to Linux after 15 years of Apple (2021)](https://markosaric.com/linux/) ([HN](https://news.ycombinator.com/item?id=28320404))
 - [PatchELF](https://github.com/NixOS/patchelf) - Small utility to modify the dynamic linker and RPATH of ELF executables.
 - [Ask HN: Why don’t you use Linux as your daily driver OS? (2021)](https://news.ycombinator.com/item?id=28366644)
+- [Switching to the i3 window manager (2021)](https://vincent.bernat.ch/en/blog/2021-i3-window-manager) ([Lobsters](https://lobste.rs/s/5jdjno/switching_i3_window_manager))
