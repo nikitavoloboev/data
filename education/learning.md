@@ -50,7 +50,7 @@
 - [Learning Gears](https://www.swyx.io/writing/learning-gears/)
 - [FutureLearn](https://www.futurelearn.com/)
 - [Recurse Center](https://www.recurse.com/) - Self-directed, community-driven educational retreat for programmers based in New York City and currently operating online.
-- [Lambda School Training Kit](https://learn.lambdaschool.com/) - Learning resources at Lambda School.
+- [Lambda School Training Kit](https://learn.lambdaschool.com/) - Learning resources at Lambda School. ([Tweet](https://twitter.com/alexeyguzey/status/1435231125274718212))
 - [Learning How to Learn (And 20+ Studies) (2020)](https://max2c.com/learning-how-to-learn/) ([HN](https://news.ycombinator.com/item?id=23514992))
 - [Constructionism and the Future of Learning (2019)](https://taimur.me/posts/constructionism-and-the-future-of-learning/)
 - [Questions to help people decide what to learn (2020)](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/) ([HN](https://news.ycombinator.com/item?id=23518428))

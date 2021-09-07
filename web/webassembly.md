@@ -186,3 +186,5 @@
 - [Wasp](https://github.com/WebAssembly/wasp) - WebAssembly module decoder in C++.
 - [Aggregate streaming data in real-time with WebAssembly (2021)](https://www.infinyon.com/blog/2021/08/smartstream-aggregates/) ([HN](https://news.ycombinator.com/item?id=28292266))
 - [wasm3-rs](https://github.com/wasm3/wasm3-rs) - Rust wrapper for Wasm3, the fastest WebAssembly interpreter.
+- [WASI SDK](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain.
+- [SIMD proposal for WebAssembly](https://github.com/WebAssembly/simd)

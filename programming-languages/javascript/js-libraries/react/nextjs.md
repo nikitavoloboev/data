@@ -233,3 +233,4 @@
 - [fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next.
 - [The Ultimate Guide To Firebase With Next.JS (2021)](https://blog.jarrodwatts.com/the-ultimate-guide-to-firebase-with-nextjs)
 - [What I struggled with Next.js using Firebase Hosting (and enable SSR) (2021)](https://dev.to/rowaxl/what-i-struggled-with-next-js-using-firebase-hosting-and-enable-ssr-4e67)
+- [From Firebase/Redis to MySQL with PlanetScale (2021)](https://leerob.io/blog/mysql-planetscale)

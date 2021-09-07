@@ -335,3 +335,6 @@
 - [UER-py](https://github.com/dbiir/UER-py) - Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo.
 - [ExplainaBoard](https://github.com/neulab/ExplainaBoard) - Explainable Leaderboard for NLP.
 - [Fast-BERT](https://github.com/utterworks/fast-bert) - Super easy library for BERT based NLP models.
+- [Genie Tookit](https://github.com/stanford-oval/genie-toolkit) - Generator of Natural Language Parsers for Compositional Virtual Assistants. ([Paper](https://arxiv.org/abs/1904.09020))
+- [Quantum Stat](https://quantumstat.com/) - Your NLP Model Training Platform.
+- [Mistral](https://github.com/stanford-crfm/mistral) - Framework for transparent and accessible large-scale language model training, built with Hugging Face. ([Docs](https://nlp.stanford.edu/mistral/))

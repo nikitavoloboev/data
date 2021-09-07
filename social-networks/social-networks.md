@@ -124,3 +124,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [The End of Social Media (2021)](https://miikavonbell.com/posts/end-of-social-media/) ([HN](https://news.ycombinator.com/item?id=28245634))
 - [HN: FB messenger silently censoring links, claims they were sent (2021)](https://news.ycombinator.com/item?id=28341737)
 - [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
+- [How social learning amplifies moral outrage expression in online social networks (2021)](https://www.science.org/doi/10.1126/sciadv.abe5641) ([Tweet](https://twitter.com/hplushlab/status/1435181379218722818))

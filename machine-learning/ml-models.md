@@ -36,3 +36,5 @@
 - [Tuning Model Performance (2021)](https://eng.uber.com/tuning-model-performance/)
 - [SHAP](https://github.com/slundberg/shap) - Game theoretic approach to explain the output of any machine learning model.
 - [Lazy Predict](https://github.com/shankarpandala/lazypredict) - Helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
+- [How to Monitor Models (2020)](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)
+- [How to Serve Models (2020)](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)
