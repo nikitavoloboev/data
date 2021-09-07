@@ -79,3 +79,4 @@
 - [Monitor your home's temperature and humidity with Raspberry Pis and Prometheus (2021)](https://opensource.com/article/21/7/home-temperature-raspberry-pi-prometheus) ([Lobsters](https://lobste.rs/s/k9q7vp/monitor_your_home_s_temperature_humidity))
 - [Raspberry Pi 1U Server](https://github.com/pawl/raspberry-pi-1u-server) - Low power 1U Raspberry Pi cluster server for inexpensive colocation. ([HN](https://news.ycombinator.com/item?id=27862967))
 - [ArozOS](http://arozos.com/) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis. ([Code](https://github.com/tobychui/arozos))
+- [Low Cost Banana Pi BPI-R2 Pro 5-Port Gigabit Ethernet Router Board](https://www.cnx-software.com/2021/08/30/banana-pi-bpi-r2-pro-5-port-gigabit-ethernet-router-board-rockchip-rk3568/) ([HN](https://news.ycombinator.com/item?id=28440718))

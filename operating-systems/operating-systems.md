@@ -250,3 +250,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [uhyve](https://github.com/hermitcore/uhyve) - Minimal hypervisor for RustyHermit.
 - [Guix: A most advanced operating system](https://ambrevar.xyz/guix-advance/) ([HN](https://news.ycombinator.com/item?id=28239410))
 - [Let's build an LC-3 Virtual Machine (2021)](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
+- [The operating system: should there be one?](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.9197&rep=rep1&type=pdf) ([HN](https://news.ycombinator.com/item?id=28440490))

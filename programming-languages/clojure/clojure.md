@@ -145,3 +145,4 @@
 - [Web Development with Clojure Book](https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/) - Build Large, Maintainable Web Applications Interactively.
 - [Clojure Resources](https://github.com/matthiasn/Clojure-Resources)
 - [Tutkain](https://github.com/eerohele/Tutkain) - Sublime Text package for interactive Clojure development. ([Web](https://tutkain.flowthing.me/))
+- [Clojure Zippers (2021)](https://grishaev.me/en/clojure-zippers/)

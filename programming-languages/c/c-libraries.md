@@ -8,6 +8,7 @@
 - [Dyad.c](https://github.com/rxi/dyad) - Asynchronous networking for C.
 - [ENet](https://github.com/lsalzman/enet) - Reliable UDP networking library. ([Web](http://enet.bespin.org/))
 - [CivetWeb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server.
+- [Libwebsockets](https://libwebsockets.org/) - C library for implementing modern network protocols. ([HN](https://news.ycombinator.com/item?id=28439447))
 
 ## GUI
 

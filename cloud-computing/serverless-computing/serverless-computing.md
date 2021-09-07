@@ -113,3 +113,4 @@
 - [Running OpenFaas Pro on Linode K8s (feat. Aiven and Pulumi)](https://github.com/dirien/pulumi-aiven-openfaas)
 - [What Serverless Computing Is and Should Become (2021)](https://cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext) ([Lobsters](https://lobste.rs/s/8bvgh9/what_serverless_computing_is_should))
 - [From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers (2021)](https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html)
+- [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.usenix.org/conference/nsdi20/presentation/agache) ([Review](https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html))
