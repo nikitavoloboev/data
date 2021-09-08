@@ -53,3 +53,4 @@
 - [Staking for Polkadot Parachains (2021)](https://meta5.world/posts/parachain-staking)
 - [Substrate how-to guides](https://substrate.dev/substrate-how-to-guides/) ([Code](https://github.com/substrate-developer-hub/substrate-how-to-guides))
 - [Kagome](https://github.com/soramitsu/kagome) - C++17 implementation of Polkadot Host.
+- [Gekko](https://github.com/lamafab/gekko) - Utilities to parse substrate metadata, generate the corresponding Rust interfaces, create transactions and the ability to encode/decode those transaction.
