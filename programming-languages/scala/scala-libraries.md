@@ -88,3 +88,4 @@
 - [Scaladex](https://index.scala-lang.org/) - Scala Package Index. ([Code](https://github.com/scalacenter/scaladex))
 - [Useful Scala libraries (2020)](https://twitter.com/hmemcpy/status/1318473961236291584)
 - [Scalaland.io](https://scalalandio.github.io/) - Umbrella for various Scala projects. ([GitHub](https://github.com/scalalandio))
+- [Awesome Scala Native](https://github.com/tindzk/awesome-scala-native)
