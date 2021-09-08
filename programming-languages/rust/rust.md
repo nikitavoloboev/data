@@ -554,3 +554,4 @@
 - [An Alternative Syntax for Async Functions (2021)](https://ibraheem.ca/writings/an-alternative-async-fn-syntax/) ([Reddit](https://www.reddit.com/r/rust/comments/pib1p1/an_alternative_syntax_for_async_functions/))
 - [Multiple defining uses of Type Alias Impl Traits (2021)](https://santiagopastorino.com/2021/06/16/multiple-defining-uses-of-taits/)
 - [Writing software that’s reliable enough for production](https://pythonspeed.com/fil/docs/fil4prod/reliable.html)
+- [Rust programs written entirely in Rust (2021)](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/) ([HN](https://news.ycombinator.com/item?id=28451149))
