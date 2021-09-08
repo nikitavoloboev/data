@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Libreddit](https://libredd.it/) - Private front-end for Reddit written in Rust. ([Code](https://github.com/spikecodes/libreddit))
+- [Libreddit](https://libredd.it/) - Private front-end for Reddit written in Rust. ([Code](https://github.com/spikecodes/libreddit)) ([HN](https://news.ycombinator.com/item?id=28451882))
 - [Reddit Repost Sleuth](https://repostsleuth.com/search) - High performance bot that is able to detect Reddit reposts extremely fast. ([Code](https://github.com/barrycarey/RedditRepostSleuth))
 - [Awesome Reddit Bots](https://github.com/huckingfoes/awesome-reddit-bots)
 - [Ideas for Admins Subreddit](https://www.reddit.com/r/ideasfortheadmins/)

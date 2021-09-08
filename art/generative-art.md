@@ -153,3 +153,4 @@
 - [When the Machine Made Art: The Troubled History of Computer Art (2014)](https://www.goodreads.com/book/show/18402551-when-the-machine-made-art) ([Tweet](https://twitter.com/thefunnyguysNFT/status/1433753132325036035))
 - [zig-generative-template](https://github.com/quag/zig-generative-template) - Zig framework for generating png images (single or multiple frames.).
 - [Creative Coding with Swift](https://github.com/masoodkamandy/Creative-Coding-Course-with-SwiftProcessing)
+- [Generative Utils](https://github.com/georgedoescode/generative-utils) - Collection of handy generative art utilities.
