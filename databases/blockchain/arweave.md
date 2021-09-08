@@ -28,3 +28,4 @@
 - [Textury](https://textury.org/) - Developer tools for the permanent web. ([GitHub](https://github.com/textury))
 - [arkb](https://github.com/textury/arkb) - Arweave Deploy that saves you data costs.
 - [Arweave: Why It's So Exciting (2021)](https://www.youtube.com/watch?v=jKFhHL1geVw)
+- [SmartWeave SDK v2](https://github.com/redstone-finance/redstone-smartweave) - Implementation of the SmartWeave SDK.
