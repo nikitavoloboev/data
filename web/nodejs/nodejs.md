@@ -20,7 +20,7 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [ncc](https://github.com/vercel/ncc) - Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Node.js tool to automate end-to-end web testing.
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
-- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js. ([Web](https://www.fastify.io/))
+- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js. ([Web](https://www.fastify.io/)) ([What Is Fastify?](https://www.youtube.com/watch?v=k1FSybMulVQ))
 - [fastify-plugin](https://github.com/fastify/fastify-plugin) - Plugin helper for Fastify.
 - [fastify-cli](https://github.com/fastify/fastify-cli) - Run a Fastify application with one command.
 - [Fastify Typescript Starter](https://github.com/inian/fastify-typescript-starter)

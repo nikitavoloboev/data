@@ -69,3 +69,4 @@
 - [Reconnected (2021)](https://reallifemag.com/reconnected/) - Decentralizing the internet alone won’t lift it above politics or save it from corporate co-optation.
 - [Distributed Press](https://distributed.press/) - Magazine about the digital commons, telling stories about people building the web as a shared resource.
 - [Web3 Is a Stupid Idea (2020)](https://timdaub.github.io/2020/09/08/web3/) ([HN](https://news.ycombinator.com/item?id=28457762))
+- [The Value Chain of the Open Metaverse (2021)](https://www.notboring.co/p/the-value-chain-of-the-open-metaverse)

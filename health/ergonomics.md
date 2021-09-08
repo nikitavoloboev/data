@@ -35,6 +35,7 @@
 - [Show your home office setup (2021)](https://twitter.com/nikitonsky/status/1387052880465522693)
 - [My Stream Setup Tour 2021](https://www.youtube.com/watch?v=3Zd9c-cZ5eE)
 - [MKBHD Studio Tour 2021](https://www.youtube.com/watch?v=pkuxIy3kFZM)
+- [Rasmus Andersson's desk setup](https://twitter.com/rsms/status/1435003133260795904)
 
 ## Links
 
