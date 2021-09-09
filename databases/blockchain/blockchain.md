@@ -41,6 +41,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Spectre](https://spectre.xyz/) - Spectralized art for all. ([GitHub](https://github.com/spectrexyz))
 - [Blitmap](https://www.blitmap.com/) - Community crafted sci-fantasy universe.
 - [Loot](https://www.lootproject.com/) - Randomized adventurer gear generated and stored on chain. Stats, images, and other functionality are intentionally omitted for others to interpret. ([Web Code](https://github.com/lootproject/website))
+- [1inch Network](https://1inch.io/) - Distributed network for decentralized protocols. ([Twitter](https://twitter.com/1inch))
 
 ## Notes
 

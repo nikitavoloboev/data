@@ -6,6 +6,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 
 - [The problem is that money (paper money/currency) is not the only thing that has value which human beings transfer among each other. We share music, art, poetry, equity in companies, ideas, code, etc. What Ethereum does is take the idea of "Digital trustless money transfer" and expands it to "Digital trustless value transfer"](https://news.ycombinator.com/item?id=25264694)
 - [Let's say I own TSLA stock and I want to sell it to you. I can't, without going through a middle-person. I need to send my shares to a brokerage (they take cuts and fees and do insider trading crap that they disguise as legal) then you buy the shares from then. If it's mine, why can't I just transfer the shares straight to you for the listed price (Currently $567.60)? Because there is no platform digital trustless value transfer that will ensure that we both get what we want: Me getting the money, and you getting the shares.](https://news.ycombinator.com/item?id=25264694)
+- [Outside of actual layer2, Aurora is the best and most trustless bridge to Ethereum that I've seen to date.](https://twitter.com/evan_van_ness/status/1429924278632390656)
 
 ## Links
 
@@ -282,3 +283,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Learning resources used by the EthernautDAO](https://github.com/ethernautdao/resources)
 - [Ethereum Mars](https://github.com/EthWorks/Mars) - Infrastructure-as-code tool for Ethereum. ([Docs](https://ethereum-mars.readthedocs.io/en/latest/))
 - [Rainbow Bridge CLI](https://github.com/aurora-is-near/rainbow-bridge) - NEAR <> Ethereum Decentralized Bridge.
+- [Aurora](https://aurora.dev/) - Bridge + EVM Scaling Solution for Ethereum. ([Twitter](https://twitter.com/auroraisnear))
+- [Solidity Template](https://github.com/ZumZoom/solidity-template) - Hardhat template for solidity projects with preconfigured Github Actions and Coveralls support.
