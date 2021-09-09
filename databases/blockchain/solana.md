@@ -78,3 +78,4 @@
 - [Assert Balances](https://github.com/project-serum/assert-balances) - Safety hatch for aborting transactions with unexpected balance changes.
 - [WalletKit](https://github.com/GokiProtocol/walletkit) - React library that allows a Solana dApp to display a modal for connecting wallets.
 - [use-solana](https://github.com/saber-hq/saber-common/tree/master/packages/use-solana) - Solana frontend library and TypeScript SDK.
+- [Sharding vs No Sharding fireside chat: NEAR Protocol & Solana (2019)](https://www.youtube.com/watch?v=ZyIxWutfZ-U)

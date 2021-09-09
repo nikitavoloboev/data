@@ -44,3 +44,4 @@
 - [CourseLift](https://courselift.com/) - Build and Launch Courses That Sell.
 - [In Online Ed, Content Is No Longer King—Cohorts Are (2021)](https://future.a16z.com/cohort-based-courses/)
 - [Slip](https://www.slip.so/) - Build and sell interactive programming courses. ([HN](https://news.ycombinator.com/item?id=28141462))
+- [Stepik Course Catalog](https://stepik.org/catalog)

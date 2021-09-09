@@ -591,6 +591,7 @@
 - [Consola](https://github.com/unjs/consola) - Elegant Console Logger for Node.js and Browser.
 - [ohmyfetch](https://github.com/unjs/ohmyfetch) - Better fetch API. Works on node, browser and workers.
 - [Tingle.js](https://github.com/robinparisi/tingle) - Vanilla modal plugin, no dependencies and easy-to-use.
+- [Borsh JS](https://github.com/near/borsh-js) - TypeScript/JavaScript implementation of Binary Object Representation Serializer for Hashing.
 
 ## Links
 

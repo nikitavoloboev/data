@@ -13,7 +13,7 @@
 - [Wasmer](https://github.com/WAFoundation/wasmer) - High-Performance WebAssembly JIT interpreter. ([Wasmer 1.0](https://medium.com/wasmer/wasmer-1-0-3f86ca18c043)) ([HN](https://news.ycombinator.com/item?id=25649476))
 - [wac](https://github.com/kanaka/wac) - WebAssembly in C.
 - [Wasmjit](https://github.com/rianhunter/wasmjit) - Kernel Mode WebAssembly Runtime for Linux.
-- [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) - TypeScript to WebAssembly compiler.
+- [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) - TypeScript to WebAssembly compiler. ([Web](https://www.assemblyscript.org/))
 - [Twiggy](https://github.com/rustwasm/twiggy) - Code size profiler.
 - [Olin](https://github.com/Xe/olin) - Environment to run and operate functions as a service projects using event sourcing and webassembly under the hood.
 - [Wasmtime](https://github.com/CraneStation/wasmtime) - Standalone wasm-only runtime for WebAssembly, using the Cranelift JIT.

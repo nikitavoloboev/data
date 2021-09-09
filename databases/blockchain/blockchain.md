@@ -207,5 +207,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Penumbra](https://github.com/penumbra-zone/penumbra) - Fully private proof-of-stake network providing privacy to the Cosmos ecosystem.
 - [Gaby's Web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524) ([Tweet](https://twitter.com/gaby_goldberg/status/1434634163353620482))
 - [Questionable NFTs w/ Anton Lukashov (2021)](https://anchor.fm/when-the-music-stops/episodes/Questionable-NFTs-w-Anton-Lukashov-e16vs89) ([Tweet](https://twitter.com/milner_aviv/status/1434901626297491468))
-- [NEAR Protocol](https://near.org/) - Climate-neutral, high-speed, and low transaction fee Layer-1 Blockchain platform. ([Twitter](https://twitter.com/NearProtocol)) ([Code](https://github.com/near/nearcore))
+- [NEAR Protocol](https://near.org/) - Climate-neutral, high-speed, and low transaction fee Layer-1 Blockchain platform. ([Twitter](https://twitter.com/NearProtocol)) ([Code](https://github.com/near/nearcore)) ([GitHub](https://github.com/near)) ([Wiki](https://github.com/near/wiki))
+- [near-sdk](https://github.com/near/near-sdk-rs) - Rust library for writing NEAR smart contracts.
 - [Alexander Skidanov on UX in Blockchain Applications (2019)](https://www.youtube.com/watch?v=V1pOgeUESBc) ([Tweet](https://twitter.com/AlexSkidanov/status/1392588265425825792))

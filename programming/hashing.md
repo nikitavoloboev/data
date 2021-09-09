@@ -47,3 +47,4 @@
 - [An Introduction to Hashing in the Era of Machine Learning (2018)](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 - [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX. ([HN](https://news.ycombinator.com/item?id=28219068)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/p6hsoh/p_appleneuralhash2onnx_reverseengineered_apple/))
 - [Haraka](https://github.com/kste/haraka) - Secure and efficient short-input hash function.
+- [borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing.

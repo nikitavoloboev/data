@@ -281,3 +281,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [CompEVM](https://github.com/brockelmore/rust-cevm) - Rust Ethereum Virtual Machine Implementation designed for Smart Contract Composability testing.
 - [Learning resources used by the EthernautDAO](https://github.com/ethernautdao/resources)
 - [Ethereum Mars](https://github.com/EthWorks/Mars) - Infrastructure-as-code tool for Ethereum. ([Docs](https://ethereum-mars.readthedocs.io/en/latest/))
+- [Rainbow Bridge CLI](https://github.com/aurora-is-near/rainbow-bridge) - NEAR <> Ethereum Decentralized Bridge.
