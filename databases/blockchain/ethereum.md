@@ -285,3 +285,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Rainbow Bridge CLI](https://github.com/aurora-is-near/rainbow-bridge) - NEAR <> Ethereum Decentralized Bridge.
 - [Aurora](https://aurora.dev/) - Bridge + EVM Scaling Solution for Ethereum. ([Twitter](https://twitter.com/auroraisnear))
 - [Solidity Template](https://github.com/ZumZoom/solidity-template) - Hardhat template for solidity projects with preconfigured Github Actions and Coveralls support.
+- [Otterscan](https://github.com/wmitsuda/otterscan) - Blazingly fast, local, Ethereum block explorer built on top of Erigon.

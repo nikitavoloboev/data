@@ -212,3 +212,4 @@
 - [raft-engine](https://github.com/tikv/raft-engine) - WAL-is-data engine that used to store multi-raft log.
 - [Three Clocks are Better than One](https://www.tigerbeetle.com/post/three-clocks-are-better-than-one)
 - [RAMP up your distributed transactions (2021)](https://bartoszsypytkowski.com/ramp/)
+- [Errors found in distributed protocols](https://github.com/dranov/protocol-bugs-list)
