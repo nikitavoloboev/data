@@ -32,3 +32,4 @@
 - [ktlint](https://github.com/pinterest/ktlint) - Anti-bikeshedding Kotlin linter with built-in formatter. ([Web](https://ktlint.github.io/))
 - [Optimizing Your Kotlin Build (2021)](https://www.zacsweers.dev/optimizing-your-kotlin-build/)
 - [Ten Years of Kotlin (2021)](https://blog.jetbrains.com/kotlin/2021/08/ten-years-of-kotlin/)
+- [ktfmt](https://github.com/facebookincubator/ktfmt) - Program that pretty-prints (formats) Kotlin code, based on google-java-format.

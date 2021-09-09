@@ -543,3 +543,4 @@
 - [Machine Learning Bookcamp: Build a portfolio of real-life projects (2021)](https://www.manning.com/books/machine-learning-bookcamp) ([Code](https://github.com/alexeygrigorev/mlbookcamp-code))
 - [Product Recommendations (2019)](http://bugra.github.io/posts/2019/8/15/product-recommendations/)
 - [Stanford CRFM](https://crfm.stanford.edu/) - Stanford Center for Research on Foundation Models. ([GitHub](https://github.com/stanford-crfm))
+- [[1810.04650] Multi-Task Learning as Multi-Objective Optimization (2019)](https://arxiv.org/abs/1810.04650) ([Code](https://github.com/isl-org/MultiObjectiveOptimization))

@@ -97,3 +97,4 @@
 - [Linorobot](https://github.com/linorobot/linorobot) - Autonomous ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive). ([Web](https://linorobot.org/))
 - [RaiSim](https://raisim.com/) - Cross-platform multi-body physics engine for robotics and AI. ([Code](https://github.com/raisimTech/raisimLib))
 - [Photogrammetry & Robotics Bonn](https://www.ipb.uni-bonn.de/) ([GitHub](https://github.com/PRBonn))
+- [Crocoddyl](https://github.com/loco-3d/crocoddyl) - Efficient and Versatile Framework for Multi-Contact Optimal Control (ICRA). ([Web](https://cmastalli.github.io/publications/crocoddyl20icra.html))

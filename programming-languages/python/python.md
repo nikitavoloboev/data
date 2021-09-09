@@ -245,7 +245,7 @@
 - [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio)
 - [Awesome Python in Education](https://github.com/quobit/awesome-python-in-education)
 - [Virtual Environments Demystified (2018)](https://meribold.org/python/2018/02/13/virtual-environments-9487/) ([HN](https://news.ycombinator.com/item?id=25611307))
-- [Python Standalone Builds](https://github.com/indygreg/python-build-standalone) - Self-contained, highly-portable Python distributions.
+- [Python Standalone Builds](https://github.com/indygreg/python-build-standalone) - Self-contained, highly-portable Python distributions. ([Docs](https://python-build-standalone.readthedocs.io/en/latest/index.html)) ([Lobsters](https://lobste.rs/s/efwa7y/python_standalone_builds))
 - [Pyflakes](https://github.com/PyCQA/pyflakes) - Simple program which checks Python source files for errors.
 - [Modern Python Environments - dependency and workspace management (2020)](https://testdriven.io/blog/python-environments/)
 - [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills by Peter Norvig.
