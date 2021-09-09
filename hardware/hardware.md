@@ -227,3 +227,5 @@
 - [Experiments on a $50 DIY air purifier (2020)](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/) ([HN](https://news.ycombinator.com/item?id=28394752))
 - [JeeLabs Projects](https://jeelabs.org/w/projects/)
 - [Caravel](https://github.com/efabless/caravel) - Standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space. ([Docs](https://caravel-harness.readthedocs.io/en/latest/))
+- [Efabless.com](https://efabless.com/) - Rapid design implementation leveraging an automated digital design flow and full chip template. ([GitHub](https://github.com/efabless))
+- [Fault](https://github.com/Cloud-V/Fault) - Complete Open Source Design for Testing (DFT) Solution.

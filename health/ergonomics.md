@@ -9,6 +9,7 @@
 - [Sukhasana](https://sukhasana.com/) - Ergonomic Desk Chairs. ([Tweet](https://twitter.com/malwareunicorn/status/1317246340984795136))
 - [Ask HN: What kind of chair are you using for WFH? (2021)](https://news.ycombinator.com/item?id=27265275)
 - [The Best Office Chair Tier List (2021)](https://www.youtube.com/watch?v=zpIPhAGHSV4)
+- [Cosm](https://twitter.com/UltraLinx/status/1435985680207843336)
 
 ## Standing desks
 

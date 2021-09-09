@@ -27,3 +27,4 @@
 - [Obsidian Garden](https://obsidian.garden/%F0%9F%91%A9%E2%80%8D%F0%9F%8C%BE+Your+Knowledge+Garden) - Open-source guide to creating your own Knowledge Management System with Obsidian. ([Code](https://github.com/tanepiper/obsidian-garden))
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
 - [Obsidian Alfred](https://github.com/hauselin/obsidian-alfred) - Open vaults and files in Obsidian.
+- [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.

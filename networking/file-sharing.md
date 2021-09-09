@@ -76,3 +76,4 @@
 - [osm](https://github.com/appscode/osm) - Object Store Manipulator - curl for cloud storage.
 - [Rustypaste](https://github.com/orhun/rustypaste) - Minimal file upload/pastebin service.
 - [Chibisafe](https://chibisafe.moe/) - Blazing fast file uploader and awesome bunker written in node. ([Code](https://github.com/WeebDev/chibisafe))
+- [OnlyFiles](https://onlyfiles.cc/) - Media file sharing service.
