@@ -361,3 +361,4 @@
 - [PatchELF](https://github.com/NixOS/patchelf) - Small utility to modify the dynamic linker and RPATH of ELF executables.
 - [Ask HN: Why don’t you use Linux as your daily driver OS? (2021)](https://news.ycombinator.com/item?id=28366644)
 - [Switching to the i3 window manager (2021)](https://vincent.bernat.ch/en/blog/2021-i3-window-manager) ([Lobsters](https://lobste.rs/s/5jdjno/switching_i3_window_manager))
+- [Witchery](https://github.com/kaniini/witchery) - Build distroless images with alpine tools. ([Article](https://ariadne.space/2021/09/09/introducing-witchery-tools-for-building-distroless-images-with-alpine/))

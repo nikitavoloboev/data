@@ -10,6 +10,7 @@
 - [Just because you work from home, doesn’t mean you have to be available 24/7 for work.](https://twitter.com/catalinmpit/status/1388809429806686213)
 - [Remote work has tons of benefits, but a dangerous disadvantage that isn't talked about enough is that the internet can start to replace your real-life social circles. Really important to combat that, or you can start taking things here way too seriously.](https://twitter.com/adamwathan/status/1395835514473877508)
 - [Unless you are regularly meeting up in the office in person, only time zone matters. And then once you go outside the same time zone (+/- 3 hours), you need to design everything for full async.](https://twitter.com/balajis/status/1421855752688336903)
+- [Firm-wide remote work causes a shift to async communication (not more meetings) and makes workers’ collaboration network more siloed.](https://twitter.com/ylongqi/status/1435985696892678148)
 
 ## Links
 

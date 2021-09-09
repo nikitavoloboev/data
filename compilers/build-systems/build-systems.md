@@ -23,6 +23,7 @@
 - [The Success and Failure of Ninja (2020)](http://neugierig.org/software/blog/2020/05/ninja.html) ([HN](https://news.ycombinator.com/item?id=23157783))
 - [samurai](https://github.com/michaelforney/samurai) - Ninja-compatible build tool written in C99 with a focus on simplicity, speed, and portability.
 - [Apple’s Linker & Deterministic Builds (2020)](https://milen.me/writings/apple-linker-ld64-deterministic-builds-oso-prefix/)
+- [redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make. An implementation of djb's redo. ([Docs](https://redo.readthedocs.io/en/latest/))
 - [my love letter to redo (2020)](https://fzakaria.com/2020/06/08/my-love-letter-to-redo.html) ([Lobsters](https://lobste.rs/s/j96fsz/my_love_letter_redo))
 - [Awesome CMake](https://github.com/onqtam/awesome-cmake)
 - [Build](https://github.com/rizsotto/Bear) - Tool that generates a compilation database for clang tooling.

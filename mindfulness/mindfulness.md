@@ -49,3 +49,5 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [How to get in touch with your emotions](https://gist.github.com/Gabriel439/cc76537f4f0f578958e54865b60558a8)
 - [Things I wish I had known when I started therapy (2021)](https://twitter.com/dremilyanhalt/status/1162054532899098624)
 - [Kierkegaard on Anxiety](https://www.youtube.com/watch?v=ZeaEY-jtR48)
+- [Guide for Healthy Minds](https://app.projecthealthyminds.com/) - Curation of mental health resources to help get people access to mental health care.
+- [Project Healthy Minds](https://www.projecthealthyminds.com/) - Confronting one of the defining issues of our generation: the mental health crisis. ([Twitter](https://twitter.com/ProjHealthyMind))
