@@ -301,3 +301,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [ECMA, TC39 Meeting Notes](https://github.com/tc39/notes/tree/master/meetings)
 - [TC39 meeting agendas](https://github.com/tc39/agendas)
 - [Using the Platform - Framework-free, no-build websites (2021)](https://javascript.plainenglish.io/using-the-platform-instead-of-frameworks-33b4607fc3cc)
+- [Web2Img](https://etherdream.github.io/web2img/) - Bundle web files into an image and extract them via ServiceWorker at runtime. Deploy a website on imgur.com. ([Code](https://github.com/EtherDream/web2img)) ([HN](https://news.ycombinator.com/item?id=28431716))

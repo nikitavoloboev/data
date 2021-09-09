@@ -134,5 +134,5 @@
 - [An Overview of Docker Desktop Alternatives (2021)](https://matt-rickard.com/docker-desktop-alternatives/) ([HN](https://news.ycombinator.com/item?id=28379556))
 - [Migrating from Docker to Podman (2021)](https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/) ([Lobsters](https://lobste.rs/s/sizjqf/migrating_from_docker_podman)) ([HN](https://news.ycombinator.com/item?id=28413470))
 - [Docker in Production: Lessons from the Trenches](https://github.com/kuiblog/docker-books/blob/master/Docker%20in%20Production%20-%20Lessons%20from%20the%20Trenches.pdf)
-- [How Docker broke in half (2021)](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
+- [How Docker broke in half (2021)](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html) ([HN](https://news.ycombinator.com/item?id=28459145))
 - [qemu-user-static (qus)](https://github.com/dbhi/qus) - Compilation of utilities, examples and references to build and execute OCI images (aka docker images) for foreign architectures using QEMU's user-mode emulation. ([Docs](https://dbhi.github.io/qus/))

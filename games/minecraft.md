@@ -61,3 +61,4 @@
 - [How we built an auto-scalable Minecraft server for 1000+ players (2021)](https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/) ([HN](https://news.ycombinator.com/item?id=28401224))
 - [Leafish](https://github.com/terrarier2111/Leafish) - Minecraft-like multi version client implemented in Rust.
 - [Mammoth](https://github.com/WorldQL/mammoth) - Horizontally scalable Minecraft server.
+- [Almost free serverless on-demand Minecraft server in AWS](https://github.com/doctorray117/minecraft-ondemand) ([HN](https://news.ycombinator.com/item?id=28454968))

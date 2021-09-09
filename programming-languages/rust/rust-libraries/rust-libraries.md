@@ -943,6 +943,7 @@
 - [Strum](https://github.com/Peternator7/strum) - Set of macros and traits for working with enums and strings easier in Rust.
 - [detour-rs](https://github.com/darfink/detour-rs) - Cross-platform detour library written in Rust.
 - [EVLRU](https://github.com/Bajix/evlru) - Eventually consistent LRU designed for lock-free concurrent reads.
+- [io-lifetimes](https://github.com/sunfishcode/io-lifetimes) - Low-level I/O ownership and borrowing library.
 
 ## Cargo Plugins
 
@@ -1023,3 +1024,4 @@
 - [version-sync](https://github.com/mgeisler/version-sync) - Keep your Version Numbers in Sync with Cargo.toml.
 - [Rust core for native Android and iOS apps](https://github.com/ivanschuetz/rust_android_ios) - How to use a shared Rust core in native Android and iOS apps.
 - [Roogle](https://roogle.hkmatsumoto.com/) - Rust API search engine, which allows you to search functions by names and type signatures. ([Code](https://github.com/hkmatsumoto/roogle))
+- [Panamax](https://github.com/panamax-rs/panamax) - Tool to mirror the Rust and crates.io repositories, for offline usage of rustup and cargo.

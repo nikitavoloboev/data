@@ -210,4 +210,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 - [aacli](https://github.com/iamarkadyt/aacli) - AWS authentication CLI with built-in MFA support.
 - [CDK Fargate Docker starter kit with AWS CDK v2.0](https://github.com/markusl/cdk-fargate-docker-starter) - Example of how to deploy a simple docker image to a Fargate cluster using AWS CDK.
-- [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure. ([Web](https://anywhere.eks.amazonaws.com/))
+- [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure. ([Web](https://anywhere.eks.amazonaws.com/)) ([HN](https://news.ycombinator.com/item?id=28465858))

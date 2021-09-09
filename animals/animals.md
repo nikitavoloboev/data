@@ -97,3 +97,5 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [We should build for wildlife as well as people (2021)](https://www.bbc.com/future/article/20210727-how-to-boost-biodiversity-and-attract-wildlife-to-your-home) ([HN](https://news.ycombinator.com/item?id=27985330))
 - [Dogs distinguish human intentional and unintentional action (2021)](https://www.nature.com/articles/s41598-021-94374-3) ([HN](https://news.ycombinator.com/item?id=28423122))
 - [GBIF](https://www.gbif.org/) - Free and open access to biodiversity data.
+- [Wonderful Life : The Burgess Shale and the Nature of History](https://www.bookdepository.com/Wonderful-Life-Stephen-Jay-Gould/9780393307009)
+- [Massive animal species discovered in half-billion-year-old Burgess Shale](https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old) ([HN](https://news.ycombinator.com/item?id=28462182))

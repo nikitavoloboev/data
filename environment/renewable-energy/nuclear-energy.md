@@ -28,3 +28,5 @@
 - [Transmutex](https://www.transmutex.com/) - From Nuclear Waste to Clean Energy. ([Article](https://www.usv.com/writing/2021/07/transmutex/))
 - [Chernobyl — How It Happened (2016)](https://www.youtube.com/watch?v=Ijst4g5KFN0)
 - [MIT Introduction to Nuclear Engineering and Ionizing Radiation (2016)](https://ocw.mit.edu/courses/nuclear-engineering/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/)
+- [MIT-designed project achieves major advance toward fusion energy (2021)](https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908) ([HN](https://news.ycombinator.com/item?id=28462151))
+- [Nuclear Weapon Archive (1994-2020)](https://nuclearweaponarchive.org/) ([HN](https://news.ycombinator.com/item?id=28442168))

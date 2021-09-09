@@ -51,3 +51,4 @@
 - [Conway’s Game of Life in SwiftUI](https://github.com/martinlexow/GameOfLife)
 - [Understanding Multiple Neighborhood Cellular Automata (2021)](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/) ([HN](https://news.ycombinator.com/item?id=27287184))
 - [VulkanAutomata](https://github.com/Slackermanz/VulkanAutomata) - GPU-Accelerated Cellular Automata Render Engine using the Vulkan API.
+- [Computational Hierarchy of Elementary Cellular Automata (2021)](https://arxiv.org/abs/2108.00415)

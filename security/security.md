@@ -181,3 +181,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Secure Software Development Fundamentals Courses](https://openssf.org/edx-courses/) ([Code](https://github.com/ossf/secure-sw-dev-fundamentals))
 - [Blocksec CTFs](https://github.com/openblocksec/blocksec-ctfs) - Curated list of blockchain security Capture the Flag (CTF) competitions.
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust.
+- [OWASP Top 10 2021](https://owasp.org/Top10/) - Nonprofit foundation that works to improve the security of software. ([Code](https://github.com/OWASP/Top10/)) ([HN](https://news.ycombinator.com/item?id=28467397))

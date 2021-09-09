@@ -467,7 +467,7 @@
 - [Audiomentations](https://github.com/iver56/audiomentations) - Python library for audio data augmentation.
 - [executing](https://github.com/alexmojaki/executing) - Get information about what a Python frame is currently doing, particularly the AST node being executed.
 - [ETNA](https://github.com/tinkoff-ai/etna-ts) - Easy-to-use time series forecasting framework.
-- [pedalboard](https://github.com/spotify/pedalboard) - Python library for adding effects to audio.
+- [Pedalboard](https://github.com/spotify/pedalboard) - Spotify’s Audio Effects Library for Python. ([Article](https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/)) ([HN](https://news.ycombinator.com/item?id=28458930))
 - [Pypandoc](https://github.com/NicklasTegner/pypandoc) - Provides a thin wrapper for pandoc, a universal document converter.
 
 ## Links

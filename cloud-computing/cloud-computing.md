@@ -20,6 +20,7 @@
 - [Prgmr](https://prgmr.com/xen/) - Linux & BSD virtual private servers.
 - [Scaleway](https://www.scaleway.com/en/) - Cloud instances delivered in seconds with backup, network and security options. ([Scaleway cheaper than AWS for VMs](https://twitter.com/jpetazzo/status/1294561330805059585))
 - [Feral Hosting](https://www.feralhosting.com/pricing)
+- [Contabo](https://contabo.com/en/) - Quality VPS & Dedicated Servers At Incredible Prices.
 
 ## Web
 
