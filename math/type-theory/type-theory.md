@@ -33,7 +33,7 @@
 - [Lambdas are Codatatypes (2019)](http://blog.ielliott.io/lambdas-are-codatatypes/)
 - [On the Relationship Between Static Analysis and Type Theory (2019)](https://semantic-domain.blogspot.com/2019/08/on-relationship-between-static-analysis.html) ([Lobsters](https://lobste.rs/s/irow0u/on_relationship_between_static_analysis))
 - [Timeline for Logic, λ-Calculus, and Programming Language Theory (2012)(http://fm.csl.sri.com/SSFT15/Timeline.pages.pdf) ([HN](https://news.ycombinator.com/item?id=20860888))
-- [Types and Programming Languages book](https://www.cis.upenn.edu/~bcpierce/tapl/)
+- [Types and Programming Languages book](https://www.cis.upenn.edu/~bcpierce/tapl/) ([Code](https://github.com/lazear/types-and-programming-languages))
 - [Type Theory and Formal Proof book](https://www.cambridge.org/core/books/type-theory-and-formal-proof/0472640AAD34E045C7F140B46A57A67C)
 - [qtt](https://github.com/LightAndLight/qtt) - Quantitative Type Theory implementation.
 - [Normalization by evaluation for Martin-Löf Type Theory with dependent records](https://github.com/brendanzab/rust-nbe-for-mltt)

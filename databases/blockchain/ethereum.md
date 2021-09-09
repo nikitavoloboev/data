@@ -279,3 +279,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [dark-forest.rs](https://github.com/gakonst/dark-forest) - Rust implementation of the Dark Forest game client.
 - [Vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM.
 - [CompEVM](https://github.com/brockelmore/rust-cevm) - Rust Ethereum Virtual Machine Implementation designed for Smart Contract Composability testing.
+- [Learning resources used by the EthernautDAO](https://github.com/ethernautdao/resources)

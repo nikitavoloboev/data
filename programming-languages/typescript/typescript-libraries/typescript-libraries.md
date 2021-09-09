@@ -140,6 +140,7 @@
 - [log-editor](https://github.com/antfu/log-editor) - Use your editor to inspect the log instead of scrolling the congested terminal.
 - [text-unicode](https://github.com/ottypes/text-unicode) - Unicode text OT implementation.
 - [optimistic-state](https://github.com/perceived-dev/optimistic-state) - Optimistic state with rollbacks and race condition handling.
+- [ts-mixer](https://github.com/tannerntannern/ts-mixer) - Small TypeScript library that provides tolerable Mixin functionality.
 
 ## Links
 

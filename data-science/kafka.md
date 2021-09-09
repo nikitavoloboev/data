@@ -59,3 +59,4 @@
 - [End-to-End Encryption through Kafka](https://github.com/ockam-network/ockam/tree/develop/documentation/use-cases/end-to-end-encryption-through-kafka)
 - [Building a Kafka based key-value store in Rust (2021)](https://blog.whn.se/posts/building-a-kafka-backed-key-value-store-in-rust-part-1-the-design)
 - [The basics you need to know about Kafka [Graphic Explanation]](https://www.pankajtanwar.in/blog/the-basics-you-need-to-know-about-kafka-graphic-explanation-ahead)
+- [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams) - Python implementation of Apache Kafka Streams.

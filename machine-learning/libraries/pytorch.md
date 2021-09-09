@@ -273,3 +273,4 @@
 - [Fast Transformer - TensorFlow](https://github.com/Rishit-dagli/Fast-Transformer)
 - [Bonito](https://github.com/nanoporetech/bonito) - PyTorch Basecaller for Oxford Nanopore Reads.
 - [Working through "What is torch.nn really?" (2021)](https://www.youtube.com/watch?v=KRcwQRn-_NU)
+- [PyTorch WideDeep](https://github.com/jrzaurin/pytorch-widedeep) - Flexible package to combine tabular data with text and images using Wide and Deep models in PyTorch.

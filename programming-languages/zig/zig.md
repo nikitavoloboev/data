@@ -62,3 +62,4 @@
 - [Android Apps in Zig](https://github.com/MasterQ32/ZigAndroidTemplate) - Contains a example on how to create a minimal Android app in Zig.
 - [Looking into Odin and Zig (2021)](https://ayende.com/blog/194466-A/looking-into-odin-and-zig-my-notes) ([HN](https://news.ycombinator.com/item?id=28440579))
 - [Maintain It with Zig (2021)](https://kristoff.it/blog/maintain-it-with-zig/) ([HN](https://news.ycombinator.com/item?id=28458713)) ([Lobsters](https://lobste.rs/s/a9ghhz/maintain_it_with_zig))
+- [ziglint](https://github.com/nektro/ziglint) - Linting suite for Zig.

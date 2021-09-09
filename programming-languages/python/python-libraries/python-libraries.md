@@ -468,6 +468,7 @@
 - [executing](https://github.com/alexmojaki/executing) - Get information about what a Python frame is currently doing, particularly the AST node being executed.
 - [ETNA](https://github.com/tinkoff-ai/etna-ts) - Easy-to-use time series forecasting framework.
 - [pedalboard](https://github.com/spotify/pedalboard) - Python library for adding effects to audio.
+- [Pypandoc](https://github.com/NicklasTegner/pypandoc) - Provides a thin wrapper for pandoc, a universal document converter.
 
 ## Links
 

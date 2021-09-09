@@ -167,3 +167,5 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [The macOS Sandbox File Limit (2021)](https://buckleyisms.com/blog/anecdotes-about-the-macos-sandbox-file-limit/) ([HN](https://news.ycombinator.com/item?id=28105814))
 - [Asahi Linux for Apple M1 progress report, August 2021](https://asahilinux.org/2021/08/progress-report-august-2021/) ([HN](https://news.ycombinator.com/item?id=28180135))
 - [macOS 11's hidden security improvements (2021)](https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/) ([HN](https://news.ycombinator.com/item?id=28250340))
+- [Santa](https://github.com/google/santa) - Binary authorization system for macOS. ([Docs](https://santa.dev/))
+- [Rudolph](https://github.com/airbnb/rudolph) - Control server counterpart of Santa, and is used to rapidly deploy configurations to Santa agents.

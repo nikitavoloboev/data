@@ -78,6 +78,7 @@
 
 ## CLI
 
+- [mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments.
 - [qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts.
 
 ## Test
@@ -589,6 +590,7 @@
 - [pdfAnnotate](https://github.com/highkite/pdfAnnotate) - JavaScript library for creating annotations in PDF documents.
 - [Consola](https://github.com/unjs/consola) - Elegant Console Logger for Node.js and Browser.
 - [ohmyfetch](https://github.com/unjs/ohmyfetch) - Better fetch API. Works on node, browser and workers.
+- [Tingle.js](https://github.com/robinparisi/tingle) - Vanilla modal plugin, no dependencies and easy-to-use.
 
 ## Links
 
@@ -603,3 +605,4 @@
 - [JSPM Generator](https://github.com/jspm/generator) - JSPM Import Map Generator.
 - [UNPKG Search](https://www.unpkgsearch.com/) - Search Engine for Unpkg Packages.
 - [bundle](https://bundle.js.org/) - Quick npm package size checker. ([Code](https://github.com/okikio/bundle))
+- [Dependency cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualise dependencies. With your rules. JavaScript. TypeScript.
