@@ -117,3 +117,4 @@
 - [The past, present and future of image formats](https://dither8.xyz/blog/img-future/) ([HN](https://news.ycombinator.com/item?id=28219972))
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image Restoration.
 - [Rembg](https://github.com/danielgatis/rembg) - Tool to remove images background.
+- [IPX](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on sharp and libvips.

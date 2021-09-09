@@ -429,3 +429,4 @@
 - [Kubescape](https://github.com/armosec/kubescape) - First tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA. ([HN](https://news.ycombinator.com/item?id=28419103))
 - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 - [A visual guide on troubleshooting Kubernetes deployments (2021)](https://learnk8s.io/troubleshooting-deployments) ([Tweet](https://twitter.com/manekinekko/status/1434808198532370432))
+- [Kalm](https://github.com/kalmhq/kalm) - Ready to use internal tools for your Kubernetes cluster. ([Web](https://kalm.dev/))

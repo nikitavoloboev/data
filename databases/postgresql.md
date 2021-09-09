@@ -308,3 +308,4 @@
 - [Implement Authorization using Row Level Security with Supabase (2021)](https://www.youtube.com/watch?v=Ow_Uzedfohk)
 - [Supabase PgBouncer (2021)](https://supabase.io/blog/2021/04/02/supabase-pgbouncer)
 - [HN: Using PostgreSQL’s JSONB for NoSQL](https://news.ycombinator.com/item?id=28406334)
+- [Docker Official Image packaging for Postgres](https://github.com/docker-library/postgres)

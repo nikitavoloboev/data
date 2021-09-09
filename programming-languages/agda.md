@@ -48,3 +48,4 @@
 - [Logical Relation for Martin-Löf Type Theory in Agda](https://github.com/mr-ohman/logrel-mltt)
 - [Programming with Proofs in Agda (2021)](https://www.youtube.com/watch?v=U5i2VQj5jPk)
 - [Functional Linear Algebra in Agda](https://github.com/ryanorendorff/functional-linear-algebra) - Formalizing linear algebra in Agda by representing matrices as functions.
+- [agdarsec](https://github.com/gallais/agdarsec) - Total Parser Combinators in Agda.

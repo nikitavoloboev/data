@@ -55,3 +55,4 @@ In any way, it is an interesting subject I don't know much about.
 - [The Beginning of Infinity](https://nav.al/infinity)
 - [On the State of Analytic Philosophy (2021)](http://dstrohmaier.com/state-of-analytic-philosophy/)
 - [Philosophers Should Care about Computational Complexity (2012)](https://www.scottaaronson.com/papers/philos.pdf)
+- [Awakening from the Meaning Crisis - YouTube (2019)](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)

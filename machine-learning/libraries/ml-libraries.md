@@ -189,3 +189,4 @@
 - [PhiFlow](https://github.com/tum-pbs/PhiFlow) - Open-source simulation toolkit built for optimization and machine learning applications.
 - [OpenVINO Toolkit](https://github.com/openvinotoolkit/openvino) - Deploy pre-trained deep learning models through a high-level C++ Inference Engine API integrated with application logic.
 - [WILDS](https://github.com/p-lambda/wilds) - Machine learning benchmark of in-the-wild distribution shifts, with data loaders, evaluators, and default models.
+- [TurboTransformers](https://github.com/Tencent/TurboTransformers) - Fast and user-friendly runtime for transformer inference on CPU and GPU.

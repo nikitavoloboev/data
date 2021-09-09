@@ -533,3 +533,4 @@ Go promotes composition over inheritance.
 - [A Guide to Interfaces in Go (2021)](http://fast4ward.online/posts/a-guide-to-interfaces-in-go/)
 - [Go pattern: graceful shutdown of concurrent events (2020)](https://www.rodrigoaraujo.me/posts/golang-pattern-graceful-shutdown-of-concurrent-events/)
 - [The Go Programming Language Book (2015)](http://www.gopl.io/) ([Code](https://github.com/adonovan/gopl.io))
+- [Cloud Native Go Book (2021)](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/) ([Code](https://github.com/cloud-native-go/examples))
