@@ -109,6 +109,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Tilck](https://github.com/vvaltchev/tilck) - Tiny Linux-Compatible Kernel.
 - [Airyx OS](http://airyx.org/) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS. ([Code](https://github.com/mszoek/airyx)) ([HN](https://news.ycombinator.com/item?id=28068542)) ([Lobsters](https://lobste.rs/s/jsvcu3/airyx_os)) ([HN](https://news.ycombinator.com/item?id=28087092))
 - [Lemon OS](https://lemonos.org/) - UNIX-like 64-bit operating system written in C++. ([Code](https://github.com/LemonOSProject/LemonOS))
+- [Pumpkin OS](https://pmig96.wordpress.com/2021/09/08/pumpkin-os/) ([Lobsters](https://lobste.rs/s/m8mhb1/pumpkin_os))
 
 ## Notes
 

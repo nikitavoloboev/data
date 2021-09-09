@@ -340,6 +340,7 @@ Here are few more things I liked, design wise.
 - [Alex Fallenstedt](https://fallenstedt.com/)
 - [Sarah Lim](https://slim.computer/)
 - [Timmy O'Mahony](https://timmyomahony.com/)
+- [Eric Bailey](https://ericwbailey.design/) ([Code](https://github.com/ericwbailey/ericwbailey.design))
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
 - [Alex Bainter](https://alexbainter.com/)
 - [Eliza SJ](https://www.elizasj.com/)

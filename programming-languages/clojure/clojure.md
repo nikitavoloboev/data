@@ -146,3 +146,4 @@
 - [Clojure Resources](https://github.com/matthiasn/Clojure-Resources)
 - [Tutkain](https://github.com/eerohele/Tutkain) - Sublime Text package for interactive Clojure development. ([Web](https://tutkain.flowthing.me/))
 - [Clojure Zippers (2021)](https://grishaev.me/en/clojure-zippers/)
+- [Clojure vs Haskell (2021)](https://cuddly-octo-palm-tree.com/posts/2021-03-28-lazy-io/)

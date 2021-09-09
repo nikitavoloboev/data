@@ -239,3 +239,4 @@
 - [C++20 Modules with GCC11 (2021)](https://blog.feabhas.com/2021/08/c20-modules-with-gcc11/) ([HN](https://news.ycombinator.com/item?id=28218823))
 - [OCLint](https://oclint.org/) - Static code analysis tool for improving quality and reducing defects by inspecting C, C++ and Objective-C code. ([Code](https://github.com/oclint/oclint))
 - [Writing a simple JSON library from scratch: a tour through modern C++ (2021)](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html) ([HN](https://news.ycombinator.com/item?id=28320818))
+- [Safer Usage Of C++ (2021)](https://docs.google.com/document/d/e/2PACX-1vRZr-HJcYmf2Y76DhewaiJOhRNpjGHCxliAQTBhFxzv1QTae9o8mhBmDl32CRIuaWZLt5kVeH9e9jXv/pub)

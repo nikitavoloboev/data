@@ -471,6 +471,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [projen](https://github.com/projen/projen) - Project generator. Define and maintain complex project configuration through code.
 - [Sonyflake](https://github.com/sony/sonyflake) - Distributed unique ID generator inspired by Twitter's Snowflake.
 - [CloudEvents](https://cloudevents.io/) - Specification for describing event data in a common way. ([GitHub](https://github.com/cloudevents)) ([Go SDK](https://github.com/cloudevents/sdk-go)) ([TS SDK](https://github.com/cloudevents/sdk-javascript))
+- [Readwise Reader](https://readwise.io/read) - First read-it-later app built for power readers. ([Tweet](https://twitter.com/homsiT/status/1435715039508500485))
 
 ## Notes
 

@@ -555,3 +555,4 @@
 - [Multiple defining uses of Type Alias Impl Traits (2021)](https://santiagopastorino.com/2021/06/16/multiple-defining-uses-of-taits/)
 - [Writing software that’s reliable enough for production](https://pythonspeed.com/fil/docs/fil4prod/reliable.html)
 - [Rust programs written entirely in Rust (2021)](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/) ([HN](https://news.ycombinator.com/item?id=28451149)) ([Code](https://github.com/sunfishcode/mustang))
+- [Rust: Enums to wrap multiple errors (2021)](https://fettblog.eu/rust-enums-wrapping-errors/)

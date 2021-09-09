@@ -313,3 +313,4 @@
 - ["Propositions as Types" by Philip Wadler (2015)](https://www.youtube.com/watch?v=IOiZatlZtGU) ([Lobsters](https://lobste.rs/s/owiqyg/propositions_as_types_2015))
 - [Distributed Systems in Haskell](https://yager.io/Distributed/Distributed.html) ([HN](https://news.ycombinator.com/item?id=28228987))
 - [HIW 2021 - YouTube](https://www.youtube.com/playlist?list=PLyrlk8Xaylp6_QTmXGuRe3lShaRGaMtgc)
+- [An Introduction to Type Level Programming (2021)](https://rebeccaskinner.net/posts/2021-08-25-introduction-to-type-level-programming.html)

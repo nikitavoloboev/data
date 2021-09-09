@@ -11,3 +11,4 @@
 - [Omnipresent](https://www.omnipresent.com/) - Global Employment for Any Business.
 - [Papaya Global](https://papayaglobal.com/) - Automate your global payroll in 140+ countries.
 - [Ease](https://www.ease.com/) - Benefits Administration and HR Software.
+- [Pather](https://www.panther.co/) - Automated global payroll and compliance for remote teams.

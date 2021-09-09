@@ -20,3 +20,4 @@
 - [Poly/ML](https://github.com/polyml/polyml) - Standard ML implementation originally written in an experimental language called Poly. ([Web](https://www.polyml.org/))
 - [parse-sml](https://github.com/shwestrick/parse-sml) - Custom parser for Standard ML.
 - [CakeML](https://github.com/CakeML/cakeml) - Verified implementation of a significant subset of Standard ML. ([Web](https://cakeml.org/))
+- [Compiler for Standard ML in Rust](https://github.com/SomewhatML/sml-compiler)

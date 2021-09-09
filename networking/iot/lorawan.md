@@ -77,3 +77,4 @@
 - [The Things Stack Introduction - Bogdans Afonins (2021)](https://www.youtube.com/watch?v=rK8oJHZ9Q7U)
 - [IP2LoRa](https://github.com/airbus-cyber/IP2LoRa) - IP tunnelling over LoRa.
 - [Adafruit Tiny LoRa](https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa) - LoRaWAN/The Things Network, for CircuitPython.
+- [LoRa-concentrator](https://github.com/will127534/LoRa-concentrator) - Simple Board for SX1301 and SX125X LoRa Gateway / Concentrator.
