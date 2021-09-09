@@ -237,3 +237,4 @@
 - [Relativity: A Modern Primer](http://ramp-book.com/) ([HN](https://news.ycombinator.com/item?id=28421209))
 - [Physics of Racing](https://www.youtube.com/watch?v=bYp2vvUgEqE)
 - [How strong would a magnetic field have to be to kill you?](https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929) ([HN](https://news.ycombinator.com/item?id=28463855))
+- [Physics ∩ ML](http://physicsmeetsml.org/) - Virtual hub at the interface of theoretical physics and deep learning.
