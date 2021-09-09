@@ -232,3 +232,4 @@
 - [graphiql-tree](https://github.com/productfy/graphiql-tree) - Plugin for the GraphiQL IDE to explore a GraphQL schema.
 - [graphql-web-lite](https://github.com/kitten/graphql-web-lite) - Small sibling of the graphql package, slimmed down for client-side libraries.
 - [GraphQL Rules](https://graphql-rules.com/) ([Code](https://github.com/graphql-rules/graphql-rules))
+- [nestjs/graphql](https://github.com/nestjs/graphql) - GraphQL (TypeScript) module for Nest framework (node.js).

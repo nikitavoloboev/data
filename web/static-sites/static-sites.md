@@ -56,6 +56,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [YOCaml](https://github.com/xhtmlboi/yocaml) - Static site generator, mostly written in OCaml.
 - [mkweb](https://github.com/rsms/mkweb) - Simple static website generator for NodeJS.
 - [Franklin](https://franklinjl.org/) - Static Site Generator in Julia. ([Code](https://github.com/tlienart/Franklin.jl))
+- [nestjs/serve-static](https://github.com/nestjs/serve-static) - Serve static websites (SPA's) using Nest framework (node.js).
 
 ## Notes
 
