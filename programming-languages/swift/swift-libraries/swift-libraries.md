@@ -329,6 +329,7 @@
 - [KeyWindow](https://github.com/LostMoa/KeyWindow) - Share values provided by views in the Key window to all other parts of your SwiftUI application including the commands block.
 - [Stateful WebView for SwiftUI](https://github.com/globulus/swiftui-webview)
 - [BottomSheet](https://github.com/LucasMucGH/BottomSheet) - Sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
+- [Panel](https://github.com/reddavis/Panel) - A SwiftUI panel component similar to the iOS Airpod battery panel or the Share Wi-Fi password panel.
 
 ## Test
 

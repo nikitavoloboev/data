@@ -286,3 +286,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Aurora](https://aurora.dev/) - Bridge + EVM Scaling Solution for Ethereum. ([Twitter](https://twitter.com/auroraisnear))
 - [Solidity Template](https://github.com/ZumZoom/solidity-template) - Hardhat template for solidity projects with preconfigured Github Actions and Coveralls support.
 - [Otterscan](https://github.com/wmitsuda/otterscan) - Blazingly fast, local, Ethereum block explorer built on top of Erigon.
+- [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html) ([Code](https://github.com/sigp/solidity-security-blog))

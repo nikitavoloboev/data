@@ -141,6 +141,7 @@
 - [text-unicode](https://github.com/ottypes/text-unicode) - Unicode text OT implementation.
 - [optimistic-state](https://github.com/perceived-dev/optimistic-state) - Optimistic state with rollbacks and race condition handling.
 - [ts-mixer](https://github.com/tannerntannern/ts-mixer) - Small TypeScript library that provides tolerable Mixin functionality.
+- [PointerTracker](https://github.com/GoogleChromeLabs/pointer-tracker) - Track mouse/touch/pointer events for a given element.
 
 ## Links
 
@@ -155,3 +156,4 @@
 - [tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions.
 - [Grok](https://github.com/ui-js/grok) - Turns a TypeScript declaration file into a beautiful, readable, web page.
 - [my-ts-lib](https://github.com/egoist/ts-lib-starter) - Minimal TypeScript library starter.
+- [typescript-npm-package-template](https://github.com/ryansonshine/typescript-npm-package-template) - Template to kickstart creating a Node.js module using TypeScript and VSCode.
