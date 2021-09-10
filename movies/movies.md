@@ -55,3 +55,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [What is the most visually stunning film you've ever seen? (2021)](https://www.reddit.com/r/MovieSuggestions/comments/pc0lk5/what_is_the_most_visually_stunning_film_youve/)
 - [Revisiting Call Me By Your Name. (2021)](https://www.youtube.com/watch?v=05nYXXeiNpo)
 - [Nice Sci-Fi movies to watch (2021)](https://merveilles.town/web/statuses/106846428910790532)
+- [Gnovies](https://www.gnovies.com/) - Discover new Movies.
+- [Movie-Map](https://www.movie-map.com/) - Find Similar Movies.

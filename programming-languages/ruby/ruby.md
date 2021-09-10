@@ -80,3 +80,4 @@
 - [Benchmarking your Ruby with time_up (2021)](https://blog.testdouble.com/posts/2021-07-19-benchmarking-your-ruby-with-time_up/)
 - [Suture](https://github.com/testdouble/suture) - Ruby gem that helps you refactor your legacy code. ([HN](https://news.ycombinator.com/item?id=28424217))
 - [The Future Shape of Ruby Objects (2021)](https://chrisseaton.com/truffleruby/rubykaigi21/)
+- [Ruby type conversion (2021)](https://kddnewton.com/2021/09/09/ruby-type-conversion.html)

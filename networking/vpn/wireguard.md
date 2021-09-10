@@ -44,3 +44,4 @@
 - [wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
 - [Tailscale IP address by hostname with jq](https://gist.github.com/jc00ke/06ab088b9f889b551ef3fea7b970b97d)
 - [Autowire](https://github.com/elghazal-a/autowire) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
+- [Tailscale at DeepSource (2021)](https://deepsource.io/blog/tailscale-at-deepsource/) ([Lobsters](https://lobste.rs/s/fbdiwx/tailscale_at_deepsource))
