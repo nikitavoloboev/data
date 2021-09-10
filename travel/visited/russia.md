@@ -218,3 +218,6 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [500 вопросов Евгению Чичваркину | Путин красавчик? (2021)](https://www.youtube.com/watch?v=CKMFSUAmRKE)
 - [Чичваркин - о Медведеве, контрабанде и дружбе с Сурковым / вДудь (2017)](https://www.youtube.com/watch?v=QXijtvUOhX4)
 - [MoscowJS](https://moscowjs.org/) ([Twitter](https://twitter.com/moscowjs))
+- [Где в Москве обедали и умирали криминальные авторитеты](https://knife.media/90th-map/)
+- [Нож](https://knife.media/) - Ежедневное чтение умного человека.
+- [Про тусовочку и выборы (2017)](https://www.youtube.com/watch?v=bMigrqjVE7k) ([Tweet](https://twitter.com/shutupgrese/status/1436289906733633579))
