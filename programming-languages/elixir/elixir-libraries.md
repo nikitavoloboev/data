@@ -74,6 +74,7 @@
 - [FastGlobal](https://github.com/discord/fastglobal) - Fast no copy globals for Elixir & Erlang.
 - [Wasmex](https://github.com/tessi/wasmex) - Execute WebAssembly / WASM from Elixir.
 - [Recase](https://github.com/sobolevn/recase) - Convert strings to any case.
+- [Regulator](https://github.com/keathley/regulator) - Adaptive concurrency limits around external resources.
 
 ## Links
 

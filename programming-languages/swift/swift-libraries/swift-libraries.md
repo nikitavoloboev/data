@@ -745,6 +745,7 @@
 - [Actomaton](https://github.com/inamiy/Actomaton) - Swift async/await & Actor-powered effectful state-management framework.
 - [Orion](https://github.com/theos/orion) - DSL designed to make it entirely effortless to interact with with Objective-C's dynamic aspects in Swift.
 - [RouterService](https://github.com/rockbruno/RouterService) - Type-safe navigation/dependency injection framework focused on making modular Swift apps have very fast build times.
+- [AHDownloadButton](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
 
 ## Other (not lib)
 
