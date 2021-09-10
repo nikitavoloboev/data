@@ -160,6 +160,7 @@
 - [Engula](https://engula.com/) - Cloud-native storage engine for next-generation data infrastructures. ([Code](https://github.com/engula/engula))
 - [BerylDB](https://github.com/beryldb/beryldb) - A data structure data manager that can be used to store data as key-value entries. ([Docs](https://docs.beryl.dev/))
 - [Hyrise](https://github.com/hyrise/hyrise) - Research in-memory database. ([Web](https://hpi.de/plattner/projects/hyrise.html))
+- [Apache Doris](http://doris.incubator.apache.org/master/en/) - Fast MPP database for all modern analytics on big data. ([Code](https://github.com/apache/incubator-doris))
 
 ## Tools
 

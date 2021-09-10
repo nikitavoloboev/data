@@ -38,3 +38,4 @@
 - [Porn Vault](https://github.com/porn-vault/porn-vault) - Manage your ever-growing porn collection.
 - [Magdalena Wosinska](https://www.magdalenawosinska.com/)
 - [In Her Rooms](https://www.meryornotphotography.com/in-her-rooms)
+- [NSFW Data Scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier.

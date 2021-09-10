@@ -79,3 +79,4 @@
 - [Patterns of Microservices Architecture](https://philcalcado.com/microservices-patterns.html)
 - [Microservices Patterns Book (2018)](https://microservices.io/book) - With examples in Java.
 - [Baker](https://github.com/ing-bank/baker) - Orchestrate microservice-based process flows.
+- [Polaris](https://github.com/polarismesh/polaris) - Service Discovery and Governance Center for Distributed and Microservice Architecture.
