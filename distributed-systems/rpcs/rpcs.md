@@ -31,3 +31,4 @@
 - [OpenRPC](https://open-rpc.org/) - Standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs. ([GitHub](https://github.com/open-rpc)) ([Spec](https://spec.open-rpc.org/)) ([Spec Code](https://github.com/open-rpc/spec))
 - [TChannel](https://tchannel.readthedocs.io/en/latest/) - Network multiplexing and framing protocol for RPC. ([Code](https://github.com/uber/tchannel))
 - [TChannel Go](https://github.com/uber/tchannel-go) - Go implementation of a multiplexing and framing protocol for RPC calls.
+- [jsonrpc-proxy](https://github.com/tomusdrw/jsonrpc-proxy) - Generic and extensible JSON-RPC proxy, supporting cache and load-balancing.
