@@ -39,3 +39,4 @@
 - [Firebase JavaScript SDK](https://github.com/firebase/firebase-js-sdk)
 - [React Query + Firestore](https://github.com/aminerol/react-query-firestore) - Provides the hooks you need for querying Firestore, that you can actually use in production, on every screen.
 - [Build Firebase React Project Video Series (2021)](https://www.youtube.com/playlist?list=PL-LDQE9x9hLwUAESe_YJxhXU5ZjLgtq4S)
+- [GitHub Actions for Firebase](https://github.com/w9jds/firebase-action) - Enables arbitrary actions with the firebase command-line client.

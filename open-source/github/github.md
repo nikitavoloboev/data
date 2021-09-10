@@ -259,3 +259,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GHTorrent](https://ghtorrent.org/) - Effort to create a scalable, queriable, offline mirror of data offered through the Github REST API. ([Code](https://github.com/ghtorrent/ghtorrent.org))
 - [GitHub Dashboard](https://github.com/antfu/github-dashboard) - Navigate GitHub effortlessly.
 - [Gitstar Ranking](https://gitstar-ranking.com/) - Top GitHub users and repositories. ([Code](https://github.com/k0kubun/gitstar-ranking))
+- [GitHub Plugin for Steampipe](https://github.com/turbot/steampipe-plugin-github) - Use SQL to instantly query repositories, users, gists and more from GitHub. Open source CLI. No DB required.
