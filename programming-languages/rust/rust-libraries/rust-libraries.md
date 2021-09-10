@@ -87,6 +87,8 @@
 
 ## GUI
 
+- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831))
+- [Tao](https://github.com/tauri-apps/tao) - Cross-platform application window creation library in Rust that supports all major platforms. Maintained for Tauri.
 - [Egui](https://github.com/emilk/egui) - Immediate mode GUI written in Rust, made for WASM.
 - [rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust.
 - [skulpin](https://github.com/aclysma/skulpin) - Easy option for drawing hardware-accelerated 2D by combining vulkan and skia.
@@ -394,7 +396,6 @@
 - [async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library. ([Article](https://async.rs/blog/stop-worrying-about-blocking-the-new-async-std-runtime/))
 - [petgraph](https://github.com/bluss/petgraph) - Graph data structure library for Rust.
 - [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules. ([Web](https://neon-bindings.com/))
-- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative written in Rust. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831))
 - [Plotters](https://github.com/38/plotters) - Rust Drawing Library for Plotting.
 - [rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) - Rust binding for the GSL library (the GNU Scientific Library).
 - [combine](https://github.com/Marwes/combine) - Parser combinator library for Rust.

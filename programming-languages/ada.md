@@ -21,3 +21,4 @@
 - [Learning to Love a Rigid and Inflexible Language (2021)](https://devblog.blackberry.com/en/2021/05/learning-to-love-a-rigid-and-inflexible-language) ([Lobsters](https://lobste.rs/s/0twona/learning_love_rigid_inflexible_language))
 - [Constructive Galois Connections: Taming the Galois Connection Framework for Mechanized Metatheory (2016)](https://arxiv.org/abs/1511.06965) ([Code](https://github.com/plum-umd/cgc))
 - [Summary After Four Months with Ada (2021)](https://pyjarrett.github.io/programming-with-ada/four-months-summary.html) ([HN](https://news.ycombinator.com/item?id=28344885))
+- [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html) ([HN](https://news.ycombinator.com/item?id=28477046))

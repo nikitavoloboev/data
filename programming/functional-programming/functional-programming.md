@@ -126,6 +126,7 @@
 - [Why is learning functional programming so damned hard? (2019)](https://cscalfani.medium.com/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1) ([HN](https://news.ycombinator.com/item?id=28188822))
 - [Review: Why FP Matters (Hughes) (2021)](https://cuddly-octo-palm-tree.com/posts/2021-03-07-review-whyfp/)
 - [Monad Tutorial](https://cuddly-octo-palm-tree.com/tags/monad-tutorial/)
+- [Monads are monoids in the category of endofunctors](https://sambernheim.com/#/blog/monads-are-monoids-in-the-category-of-endofunctors) ([HN](https://news.ycombinator.com/item?id=28466676))
 
 ## Images
 

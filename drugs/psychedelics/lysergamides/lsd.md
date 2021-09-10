@@ -31,3 +31,4 @@
 - [I took some LSD and realized being happy is my baseline (2021)](https://www.reddit.com/r/Psychonaut/comments/mplesn/i_took_some_lsd_and_realized_being_happy_is_my/)
 - [GPCRs in VR: Structure of LSD bound to human serotonin receptor (2021)](https://www.youtube.com/watch?v=cqH6PunEsac)
 - [Does LSD one time](https://twitter.com/incertaspecie/status/1340738678218399744)
+- [What’s everyone’s favorite LSD analog and why? (2021)](https://www.reddit.com/r/researchchemicals/comments/pjrput/whats_everyones_favorite_lsd_analog_and_why/)

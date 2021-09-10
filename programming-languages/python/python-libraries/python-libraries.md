@@ -152,6 +152,7 @@
 - [Pynguin](https://github.com/se2p/pynguin) – Generate Python unit tests automatically. ([HN](https://news.ycombinator.com/item?id=27350264))
 - [Parameterized](https://github.com/wolever/parameterized) - Parameterized testing for nose, parameterized testing for py.test, parameterized testing for unittest.
 - [hyppo](https://github.com/neurodata/hyppo) - Python package for multivariate hypothesis testing.
+- [pytest-instafail](https://github.com/pytest-dev/pytest-instafail) - Plugin for pytest that shows failures and errors instantly instead of waiting until the end of test session.
 
 ## Other
 

@@ -93,3 +93,4 @@
 - [Python Django Web Framework - Full Course for Beginners (2019)](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 - [Django Hijack](https://github.com/django-hijack/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
 - [django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
+- [Appliku Deploy](https://appliku.com/) - Server Management, designed specially for Django. ([HN](https://news.ycombinator.com/item?id=28468660))

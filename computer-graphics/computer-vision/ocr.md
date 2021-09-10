@@ -14,7 +14,7 @@
 - [What's so hard about PDF text extraction? (2020)](https://filingdb.com/b/pdf-text-extraction) ([HN](https://news.ycombinator.com/item?id=24460142))
 - [FilingDB](https://filingdb.com/) - Database of extracted and structured text from European company filings. Optimised for quant investors.
 - [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Rich, leading, and practical OCR tools that help users train better models and apply them into practice.
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Rich, leading, and practical OCR tools that help users train better models and apply them into practice. ([Web](https://huggingface.co/spaces/akhaliq/PaddleOCR)) ([HN](https://news.ycombinator.com/item?id=28473496))
 - [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - Synthetic data generator for text recognition.
 - [Paperless](https://github.com/jonaswinkler/paperless-ng) - Index and archive all of your scanned paper documents.
 - [Tesseract Teaser](https://www.solipsys.co.uk/new/TesseractTeaser.html)

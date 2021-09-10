@@ -42,3 +42,4 @@
 - [stackzy](https://github.com/theapache64/stackzy) - Cross-platform desktop application to identify libraries used inside an android application.
 - [LibChecker](https://github.com/zhaobozhen/LibChecker) - App to view libraries used in apps in your device.
 - [CalyxOS](https://calyxos.org/) - De-Googled Android Alternative. ([HN](https://news.ycombinator.com/item?id=28090024))
+- [Shipping Clubhouse on Android in ten weeks (2021)](https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/) ([HN](https://news.ycombinator.com/item?id=28473894))

@@ -45,3 +45,4 @@
 - [WebSockets vs. HTTP](https://ably.com/topic/websockets-vs-http)
 - [wscat](https://github.com/schollz/wscat) - cat things into a websocket server.
 - [tinyws](https://github.com/tinyhttp/tinyws) - Tiny WebSocket middleware for Node.js.
+- [Jamsocket](https://github.com/jamsocket/jamsocket) - Lightweight framework for building WebSocket-based application backends. ([Template](https://github.com/jamsocket/service-template))
