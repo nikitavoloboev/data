@@ -556,3 +556,8 @@
 - [Writing software that’s reliable enough for production](https://pythonspeed.com/fil/docs/fil4prod/reliable.html)
 - [Rust programs written entirely in Rust (2021)](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/) ([HN](https://news.ycombinator.com/item?id=28451149)) ([Code](https://github.com/sunfishcode/mustang))
 - [Rust: Enums to wrap multiple errors (2021)](https://fettblog.eu/rust-enums-wrapping-errors/)
+- [The Why and How of Rust Declarative Macros (2021)](https://blog.lanesawyer.dev/27848/the-why-and-how-of-rust-declarative-macros)
+- [Plugins in Rust: Getting Started (2021)](https://nullderef.com/blog/plugin-start/)
+- [How to avoid lifetime annotations in Rust (and write clean code) (2021)](https://kerkour.com/blog/rust-avoid-lifetimes/)
+- [I/O safety and speed: Why not both? (2021)](https://blog.sunfishcode.online/rsix-and-io-safety/)
+- [Broken Encapsulation (2021)](https://blog.sunfishcode.online/broken-encapsulation/)

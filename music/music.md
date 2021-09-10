@@ -142,3 +142,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [MuseMorphose: Full-Song and Fine-Grained Music Style Transfer with One Transformer VAE (2021)](https://arxiv.org/abs/2105.04090) ([Code](https://github.com/YatingMusic/MuseMorphose))
 - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html) ([HN](https://news.ycombinator.com/item?id=28373944))
 - [Vibe Graph](https://www.vibe-graph.com/) - Web app for visualizing the network graph of Spotify related artists. ([Code](https://github.com/cjdellomes/vibe-graph))
+- [Music-Map](https://www.music-map.com/) - The Tourist Map of Music.
+- [Gnoosic](https://www.gnoosic.com/) - Discover new Music.

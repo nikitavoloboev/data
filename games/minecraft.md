@@ -62,3 +62,4 @@
 - [Leafish](https://github.com/terrarier2111/Leafish) - Minecraft-like multi version client implemented in Rust.
 - [Mammoth](https://github.com/WorldQL/mammoth) - Horizontally scalable Minecraft server.
 - [Almost free serverless on-demand Minecraft server in AWS](https://github.com/doctorray117/minecraft-ondemand) ([HN](https://news.ycombinator.com/item?id=28454968))
+- [minecraft-render](https://github.com/co3moz/minecraft-render) - Minecraft block rendering with node.js.

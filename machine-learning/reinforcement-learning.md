@@ -237,4 +237,4 @@
 - [Reinforcement Learning with Augmented Data](https://mishalaskin.github.io/rad/) ([Code](https://github.com/MishaLaskin/rad))
 - [Greedy AI agents learn to cooperate (2021)](https://spectrum.ieee.org/reinforcement-learning) ([HN](https://news.ycombinator.com/item?id=28437797))
 - [Spice.ai](https://github.com/spiceai/spiceai) - Open source, portable runtime for training and using deep learning on time series data. ([HN](https://news.ycombinator.com/item?id=28449182))
-- [Reinforcement Learning Lecture Series 2021 | DeepMind](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) ([Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)) ([Tweet](https://twitter.com/DeepMind/status/1435974267112464385))
+- [Reinforcement Learning Lecture Series 2021 | DeepMind](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) ([Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)) ([Tweet](https://twitter.com/DeepMind/status/1435974267112464385)) ([Reddit](https://www.reddit.com/r/reinforcementlearning/comments/pl4opb/new_deepminducl_rl_lecture_series_on_youtube/))

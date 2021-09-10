@@ -172,6 +172,7 @@ And these Discord servers:
 - [HackerDaily](https://hackerdaily.io/) - More informative and less addictive Hacker News. ([HN](https://news.ycombinator.com/item?id=25046037))
 - [Skimfeed](https://skimfeed.com/)
 - [Google News](https://news.google.com/)
+- [sic](https://sic.pm/) - Community about everything that piques your curiosity and interest. ([Code](https://github.com/epilys/sic))
 
 ## Notes
 

@@ -130,7 +130,7 @@
 - [Alphabetical Listing of ACM SIGs](https://www.acm.org/special-interest-groups/alphabetical-listing)
 - [Stanford CS Curriculum](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview) ([HN](https://news.ycombinator.com/item?id=27388391))
 - [Modern Computing is NOT Good at Executing Programs (2021)](https://jeremykhawaja.com/post/modern-computing-is-not-good-at-executing-programs/)
-- [Offbeat Computation Club](https://offbeat.cc/) - Mathematics and computation book club.
+- [Offbeat Computation Club](https://offbeat.cc/) - Mathematics and computation book club. ([GitHub](https://github.com/offbeatcc))
 - [College Compendium](https://collegecompendium.goldin.io/) - Collection of 650+ university CS courses for the curious.
 - [Information Theory: A Tutorial Introduction (2018)](https://arxiv.org/abs/1802.05968) ([HN](https://news.ycombinator.com/item?id=27642906))
 - [Is this true? (2021)](https://thatjdanisso.cool/is-this-true)

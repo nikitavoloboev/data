@@ -92,3 +92,4 @@
 - [Perspect](https://perspect.com/) - Minimum Viable Shopify using Static Websites.
 - [Cococart](https://www.cococart.co/) - Simple, beautiful shops for pretty much anything.
 - [OpenBazaar](https://openbazaar.org/) - Truly decentralized, peer-to-peer e-commerce. ([GitHub](https://github.com/OpenBazaar))
+- [Product Chart](https://www.productchart.com/) - Visual approach to product discovery.

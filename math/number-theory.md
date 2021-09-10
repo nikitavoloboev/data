@@ -34,3 +34,4 @@
 - [How Many Numbers Exist? Infinity Proof Moves Math Closer to an Answer (2021)](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/) ([HN](https://news.ycombinator.com/item?id=27845576))
 - [Some stuff I found interesting about number theory research (2021)](https://twitter.com/benskuhn/status/1419281153983500290) ([HN](https://news.ycombinator.com/item?id=27955372))
 - [Finding prime monomials (2021)](https://jasdev.me/prime-monomials)
+- [The Trip to the Prime Number Theorem (2021)](https://offbeat.cc/blog/the-trip-to-the-prime-number-theorem.html)
