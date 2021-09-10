@@ -136,3 +136,4 @@
 - [Docker in Production: Lessons from the Trenches](https://github.com/kuiblog/docker-books/blob/master/Docker%20in%20Production%20-%20Lessons%20from%20the%20Trenches.pdf)
 - [How Docker broke in half (2021)](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html) ([HN](https://news.ycombinator.com/item?id=28459145))
 - [qemu-user-static (qus)](https://github.com/dbhi/qus) - Compilation of utilities, examples and references to build and execute OCI images (aka docker images) for foreign architectures using QEMU's user-mode emulation. ([Docs](https://dbhi.github.io/qus/))
+- [Are Dockerfiles good enough? (2021)](https://matduggan.com/are-dockerfiles-good-enough/)

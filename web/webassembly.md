@@ -71,7 +71,7 @@
 - [Wasminspect](https://github.com/kateinoigakukun/wasminspect) - Interactive Debugger for WebAssembly.
 - [Run Clang in WebAssembly](https://github.com/wapm-packages/clang)
 - [Wasienv](https://github.com/wasienv/wasienv) - WASI Development Toolchain for C/C++.
-- [Enarx](https://github.com/enarx/enarx) - Tools for deploying WebAssembly into Enarx Keeps.
+- [Enarx](https://github.com/enarx/enarx) - Tools for deploying WebAssembly into Enarx Keeps. ([Web](https://enarx.dev/))
 - [What’s in that .wasm? Introducing: wasm-decompile (2020)](https://v8.dev/blog/wasm-decompile) ([HN](https://news.ycombinator.com/item?id=23006501))
 - [First impressions on Rust and Webassembly (2020)](https://techadv.xyz/posts/rust-wasm/)
 - [Build your own WebAssembly Compiler (2019)](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
