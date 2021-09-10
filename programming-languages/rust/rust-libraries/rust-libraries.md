@@ -241,6 +241,7 @@
 - [orion](https://github.com/orion-rs/orion) - Usable, easy and safe pure-Rust crypto.
 - [Curv](https://github.com/ZenGo-X/curv) - Rust language general purpose elliptic curve cryptography.
 - [serde-encrypt](https://github.com/laysakura/serde-encrypt) - Encrypts all the Serialize.
+- [PLONK](https://github.com/dusk-network/plonk) - Pure Rust implementation of the PLONK proving system over BLS12-381.
 
 ## Linux
 

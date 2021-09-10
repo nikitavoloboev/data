@@ -309,3 +309,4 @@
 - [Supabase PgBouncer (2021)](https://supabase.io/blog/2021/04/02/supabase-pgbouncer)
 - [HN: Using PostgreSQL’s JSONB for NoSQL](https://news.ycombinator.com/item?id=28406334)
 - [Docker Official Image packaging for Postgres](https://github.com/docker-library/postgres)
+- [Postgres: Boundless `Text` and Back Again (2021)](https://brandur.org/text) ([HN](https://news.ycombinator.com/item?id=28484312))

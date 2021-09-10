@@ -248,3 +248,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Explaining how I explain things](https://twitter.com/maryrosecook/status/1421357563837239302)
 - [On academic writing: a personal note (2016)](https://sci-hub.do/10.1080/07294360.2016.1172766) ([HN](https://news.ycombinator.com/item?id=28047446))
 - [Writing, technically (2021)](https://signalsandthreads.com/writing-technically/) ([HN](https://news.ycombinator.com/item?id=28382737))
+- [Write More, but Shorter (2021)](https://blog.kewah.com/2021/write-more-but-shorter/) ([HN](https://news.ycombinator.com/item?id=28483671))

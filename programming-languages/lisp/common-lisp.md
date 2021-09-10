@@ -63,3 +63,4 @@
 - [Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps (2021)](https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html)
 - [Common Lisp Recipes](http://weitz.de/cl-recipes/)
 - [The Common Lisp Condition System - Beyond Exception Handling with Control Flow Mechanisms (2020)](https://www.apress.com/gp/book/9781484261330)
+- [Coalton](https://github.com/coalton-lang/coalton) - Efficient, statically typed functional programming language that supercharges Common Lisp. ([Article](https://coalton-lang.github.io/20211010-introducing-coalton/))

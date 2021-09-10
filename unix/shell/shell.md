@@ -74,7 +74,7 @@ All active variables can be seen by running `env`.
 - [coin](https://github.com/ibara/coin) - Command interpreter for Unix, for learning how shells issue commands.
 - [Overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux.
 - [Tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments behind NAT/firewall. ([HN](https://news.ycombinator.com/item?id=24186410)) ([Web](https://tunshell.com/))
-- [A Better Shell (2019)](https://matklad.github.io/2019/11/16/a-better-shell.html)
+- [A Better Shell (2019)](https://matklad.github.io/2019/11/16/a-better-shell.html) ([HN](https://news.ycombinator.com/item?id=28481375))
 - [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/) ([HN](https://news.ycombinator.com/item?id=24314600))
 - [terminal.sexy](https://terminal.sexy/) - Terminal Color Scheme Designer. ([HN](https://news.ycombinator.com/item?id=24431027))
 - [Shell redirection example (2019)](http://dtrace.org/blogs/dap/2019/09/23/shell-redirection-example/)

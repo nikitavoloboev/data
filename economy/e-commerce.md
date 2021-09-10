@@ -93,3 +93,4 @@
 - [Cococart](https://www.cococart.co/) - Simple, beautiful shops for pretty much anything.
 - [OpenBazaar](https://openbazaar.org/) - Truly decentralized, peer-to-peer e-commerce. ([GitHub](https://github.com/OpenBazaar))
 - [Product Chart](https://www.productchart.com/) - Visual approach to product discovery.
+- [Medusa](https://www.medusa-commerce.com/) - Open-source alternative to Shopify. ([HN](https://news.ycombinator.com/item?id=28481913)) ([Code](https://github.com/medusajs/medusa))
