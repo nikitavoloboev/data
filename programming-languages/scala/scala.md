@@ -79,3 +79,4 @@
 - [Scapegoat](https://github.com/scapegoat-scala/scapegoat) - Scala compiler plugin for static code analysis.
 - [Monads in Scala: A Way to Generalize Chained Computations (2021)](https://www.youtube.com/watch?v=a0C-RrncrYA)
 - [setup-everything-scala](https://github.com/japgolly/setup-everything-scala) - GitHub Action to prepare the environment for Scala & Scala.JS dev and testing.
+- [10+ Best Scala Tutorials for Beginners (2021)](https://medium.com/quick-code/top-tutorials-to-learn-scala-3a221bf4ef85)

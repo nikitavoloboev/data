@@ -17,3 +17,4 @@
 - [Is there a “New York dream” type of city in the Netherlands? (2021)](https://www.reddit.com/r/Netherlands/comments/oz4ptj/is_there_a_new_york_dream_type_of_city_in_the/)
 - [Investment Taxation for Expats in the Netherlands](https://www.expatbriefing.com/country/netherlands/taxation/investment-taxation-for-expats-in-the-netherlands.html)
 - [How to become an EXPAT freelancer in the Netherlands (Start a business!) (2021)](https://www.youtube.com/watch?v=ibybpDZlOAA)
+- [Dutch city recommendation (2021)](https://www.reddit.com/r/Netherlands/comments/pljppa/dutch_city_recommendation/)

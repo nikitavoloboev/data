@@ -310,3 +310,4 @@
 - [Loupe](http://latentflip.com/loupe/) - Visualization to help you understand how JavaScript's call stack/event loop/callback queue interact with each other. ([Code](https://github.com/latentflip/loupe))
 - [JavaScript on Compute@Edge](https://developer.fastly.com/learning/compute/javascript/) - Compile JavaScript to WebAssembly and run it on Fastly.
 - [Txiki.js](https://github.com/saghul/txiki.js) - Tiny JavaScript runtime built with QuickJS and libuv. ([HN](https://news.ycombinator.com/item?id=28020944))
+- [JavaScript error logging](https://github.com/cheeaun/javascript-error-logging) - Collection of JavaScript error logging services, and comparisons among them.
