@@ -70,3 +70,4 @@
 - [jas](https://github.com/mcy/jas) - JVM bytecode assembler.
 - [Java Champions](https://github.com/aalmiray/java-champions)
 - [Well-Typed Programs Can Go Wrong: A Study of Typing-Related Bugs in JVM Compilers (2021)](https://dimitro.gr/assets/papers/CSDMMS21.pdf)
+- [Deep Dive Into Hello World In Java (2021)](https://medium.com/sahibinden-technology/deep-dive-into-hello-world-in-java-d05d60332984)

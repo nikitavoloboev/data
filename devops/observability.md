@@ -24,3 +24,4 @@
 - [Testing vs Observability: Which is right for your data quality needs? (2021)](https://medium.com/bigeye/testing-vs-observability-which-is-right-for-your-data-quality-needs-1ceb34a12867)
 - [Observability: A New Theory Based on the Group of Invariance (2020)](https://www.maa.org/press/maa-reviews/observability-a-new-theory-based-on-the-group-of-invariance) ([HN](https://news.ycombinator.com/item?id=28285988))
 - [Unpacking Observability: The Observability Stack (2021)](https://adri-v.medium.com/unpacking-observability-the-observability-stack-93d4733e2a72)
+- [The Busy Developers's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)

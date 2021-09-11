@@ -29,3 +29,4 @@
 - [Best Way to Learn about Geopolitics (2021)](https://www.reddit.com/r/geopolitics/comments/o4yo96/best_way_to_learn_about_geopolitics/)
 - [Good Times Bad Times - YouTube](https://www.youtube.com/channel/UCXW9oUSOwt7mcTT5d_5hQcA)
 - [A Compass for the Politics of Collapse: A Short Straightforward Introduction](https://write.as/conjure-utopia/a-compass-for-the-politics-of-collapse-a-short-straightforward-introduction) ([HN](https://news.ycombinator.com/item?id=28357065))
+- [Good geopolitical podcasts or world news podcasts (2021)](https://www.reddit.com/r/geopolitics/comments/ploc8j/what_are_some_good_geopolitical_podcasts_or_world/)
