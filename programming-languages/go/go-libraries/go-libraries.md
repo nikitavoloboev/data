@@ -174,6 +174,7 @@
 - [Coraza Web Application Firewall](https://github.com/jptosso/coraza-waf) - Go modsecurity compatible web application firewall library. ([Web](https://coraza.io/))
 - [Netpoll](https://github.com/cloudwego/netpoll) - High-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 - [Kitex](https://github.com/cloudwego/kitex) - High-performance and strong-extensibility Go RPC framework that helps developers build microservices.
+- [go-sse](https://github.com/tmaxmax/go-sse) - Lightweight, fully spec-compliant HTML5 server-sent events library.
 
 ## GraphQL
 

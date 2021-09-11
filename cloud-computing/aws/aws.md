@@ -211,3 +211,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [aacli](https://github.com/iamarkadyt/aacli) - AWS authentication CLI with built-in MFA support.
 - [CDK Fargate Docker starter kit with AWS CDK v2.0](https://github.com/markusl/cdk-fargate-docker-starter) - Example of how to deploy a simple docker image to a Fargate cluster using AWS CDK.
 - [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure. ([Web](https://anywhere.eks.amazonaws.com/)) ([HN](https://news.ycombinator.com/item?id=28465858))
+- [Mistakes I've Made in AWS](https://laravel-news.com/aws-mistakes) ([HN](https://news.ycombinator.com/item?id=28490278))

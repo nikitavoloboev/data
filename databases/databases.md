@@ -197,7 +197,7 @@
 - [NocoDB](https://www.nocodb.com/) - Turns your SQL database into a Nocode platform. Free & Open Source. ([Code](https://github.com/nocodb/nocodb)) ([HN](https://news.ycombinator.com/item?id=27303783))
 - [Owoof](https://github.com/sqwishy/owoof) - Program for querying and modifying information in a datalog-like format backed by SQLite.
 - [Autogenerate a CRUD app from a CSV file](https://retool.com/utilities/generate-app-from-csv) ([HN](https://news.ycombinator.com/item?id=27754034))
-- [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform terminal database tool written in Rust.
+- [Gobang](https://github.com/TaKO8Ki/gobang) – Cross-platform TUI database management tool written in Rust. ([HN](https://news.ycombinator.com/item?id=28489165))
 - [Jailer](https://github.com/Wisser/Jailer) - Truly relational database client. ([HN](https://news.ycombinator.com/item?id=27808653))
 - [dbcritic](https://github.com/channable/dbcritic) - Finds problems in a database schema.
 - [IceCream](https://github.com/caiyue1993/IceCream) - Sync Realm Database with CloudKit.
