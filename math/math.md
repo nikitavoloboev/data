@@ -293,3 +293,4 @@
 - [MIT Mathlets](https://mathlets.org/mathlets/) ([HN](https://news.ycombinator.com/item?id=28405675))
 - [Elliptic Curve Explorer](https://samuelj.li/elliptic-curve-explorer/)
 - [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain) ([HN](https://news.ycombinator.com/item?id=28489582))
+- [Cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)

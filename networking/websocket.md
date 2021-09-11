@@ -46,3 +46,4 @@
 - [wscat](https://github.com/schollz/wscat) - cat things into a websocket server.
 - [tinyws](https://github.com/tinyhttp/tinyws) - Tiny WebSocket middleware for Node.js.
 - [Jamsocket](https://github.com/jamsocket/jamsocket) - Lightweight framework for building WebSocket-based application backends. ([Template](https://github.com/jamsocket/service-template))
+- [embedded-websocket](https://github.com/ninjasource/embedded-websocket) - Lightweight rust websocket library for embedded systems no_std.

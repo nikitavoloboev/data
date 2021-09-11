@@ -240,3 +240,4 @@
 - [OCLint](https://oclint.org/) - Static code analysis tool for improving quality and reducing defects by inspecting C, C++ and Objective-C code. ([Code](https://github.com/oclint/oclint))
 - [Writing a simple JSON library from scratch: a tour through modern C++ (2021)](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html) ([HN](https://news.ycombinator.com/item?id=28320818))
 - [Safer Usage Of C++ (2021)](https://docs.google.com/document/d/e/2PACX-1vRZr-HJcYmf2Y76DhewaiJOhRNpjGHCxliAQTBhFxzv1QTae9o8mhBmDl32CRIuaWZLt5kVeH9e9jXv/pub)
+- [Coercing deep const-ness (2021)](https://brevzin.github.io/c++/2021/09/10/deep-const/)

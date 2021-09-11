@@ -946,6 +946,7 @@
 - [detour-rs](https://github.com/darfink/detour-rs) - Cross-platform detour library written in Rust.
 - [EVLRU](https://github.com/Bajix/evlru) - Eventually consistent LRU designed for lock-free concurrent reads.
 - [io-lifetimes](https://github.com/sunfishcode/io-lifetimes) - Low-level I/O ownership and borrowing library.
+- [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) - Lightweight, efficient, binary serialization and deserialization codec.
 
 ## Cargo Plugins
 
