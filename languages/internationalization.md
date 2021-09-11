@@ -19,3 +19,4 @@
 - [AppLocale](https://applocale.dev/) - Better way to manage translations.
 - [react-i18n-mini](https://github.com/SanichKotikov/react-i18n-mini) - Tiny internationalization library for React.
 - [What they don’t tell you when you translate your app (2021)](https://ericwbailey.design/writing/what-they-dont-tell-you-when-you-translate-your-app/) ([HN](https://news.ycombinator.com/item?id=28468853))
+- [I18n in Go: Managing Translations (2021)](https://www.alexedwards.net/blog/i18n-managing-translations)

@@ -36,6 +36,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 ## Utility
 
 - [Hop](https://github.com/phaazon/hop.nvim) - Neovim motions on speed.
+- [LunarVim](https://github.com/LunarVim/LunarVim) - Opinionated, extensible, and fast IDE layer for Neovim. ([Docs](https://www.lunarvim.org/))
 - [coq.nvim](https://github.com/ms-jpq/coq_nvim) - Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [Navigator](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze. Exploring LSP and Treesitter.
 - [Zen Mode](https://github.com/folke/zen-mode.nvim) - Distraction-free coding for Neovim.
