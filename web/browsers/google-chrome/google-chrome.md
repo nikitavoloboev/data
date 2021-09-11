@@ -64,3 +64,5 @@ And here are Chrome extensions I use:
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js.
 - [Stay Alert: How Chrome Plans to Break the Web (2021)](https://dev.to/richharris/stay-alert-d) ([Tweet](https://twitter.com/rich_harris/status/1425099638491783183))
 - [Ferret](https://github.com/kanyesthaker/qgqa-flashcards) - Chrome extension that uses NLP to generate and ask helpful recall-based questions to reinforce key concepts.
+- [rollup-plugin-chrome-extension](https://github.com/extend-chrome/rollup-plugin-chrome-extension) - Feature-rich solution for bundled Chrome Extensions.
+- [Extend Chrome](https://www.extend-chrome.dev/) - GitHub organization dedicated to making Chrome extension development smarter.

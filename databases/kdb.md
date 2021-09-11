@@ -24,3 +24,4 @@
 - [Developing with kdb+ and the q language](https://code.kx.com/q/)
 - [Why is K so performant? (2021)](https://www.reddit.com/r/apljk/comments/njcpml/why_is_k_so_performant/)
 - [Wild claims about K performance](https://mlochbaum.github.io/BQN/implementation/kclaims.html) ([Lobsters](https://lobste.rs/s/d3plgr/wild_claims_about_k_performance)) ([HN](https://news.ycombinator.com/item?id=28365645))
+- [K Programming Language](https://kparc.com/) ([HN](https://news.ycombinator.com/item?id=28493283))

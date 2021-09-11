@@ -146,3 +146,4 @@
 - [AlpahFold, a tentative review (2021)](https://cerebralab.com/AlpahFold,_a_tentative_review)
 - [htsget-rs](https://github.com/umccr/htsget-rs) - Bioinformatic file formats accessible to the web.
 - [Synthace](https://www.synthace.com/) - Enabling life science, the way it should be done.
+- [scispacy](https://github.com/allenai/scispacy) - Full spaCy pipeline and models for scientific/biomedical documents. ([Web](https://allenai.github.io/scispacy/))

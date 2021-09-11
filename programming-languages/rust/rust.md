@@ -561,3 +561,4 @@
 - [How to avoid lifetime annotations in Rust (and write clean code) (2021)](https://kerkour.com/blog/rust-avoid-lifetimes/) ([Lobsters](https://lobste.rs/s/u6xokl/how_avoid_lifetime_annotations_rust))
 - [I/O safety and speed: Why not both? (2021)](https://blog.sunfishcode.online/rsix-and-io-safety/)
 - [Broken Encapsulation (2021)](https://blog.sunfishcode.online/broken-encapsulation/)
+- [How to create small Docker images for Rust (2021)](https://kerkour.com/blog/rust-small-docker-image/)
