@@ -33,3 +33,4 @@
 - [WebView2 and Electron (2021)](https://www.electronjs.org/blog/webview2)
 - [Portal Windows](https://github.com/cryptagon/portal-windows) - Render and position native windows as simply as you render and position tooltips in your React app.
 - [electron/remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
+- [Ask HN: How do you create a cross-platform GUI without using Electron? (2021)](https://news.ycombinator.com/item?id=28484658)

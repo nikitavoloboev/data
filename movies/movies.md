@@ -57,3 +57,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Nice Sci-Fi movies to watch (2021)](https://merveilles.town/web/statuses/106846428910790532)
 - [Gnovies](https://www.gnovies.com/) - Discover new Movies.
 - [Movie-Map](https://www.movie-map.com/) - Find Similar Movies.
+- [26 Overlooked Movies to Watch This Fall (2021)](https://www.theatlantic.com/culture/archive/2021/09/26-movies-fall-watch-list/619975/)

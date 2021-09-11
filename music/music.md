@@ -144,3 +144,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Vibe Graph](https://www.vibe-graph.com/) - Web app for visualizing the network graph of Spotify related artists. ([Code](https://github.com/cjdellomes/vibe-graph))
 - [Music-Map](https://www.music-map.com/) - The Tourist Map of Music.
 - [Gnoosic](https://www.gnoosic.com/) - Discover new Music.
+- [Chip Player JS](https://mmontag.github.io/chip-player-js) - Web-based music player for a variety of video game and chiptune music formats. ([Code](https://github.com/mmontag/chip-player-js))
