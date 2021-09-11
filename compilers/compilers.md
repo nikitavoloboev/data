@@ -175,3 +175,4 @@
 - [Let's get hands-on with QBE (2021)](https://briancallahan.net/blog/20210829.html)
 - [Canonicalization (2018)](https://blog.sunfishcode.online/canonicalization/)
 - [cachepot](https://github.com/paritytech/cachepot) - Shared Compilation Cache. `sccache` with extra sec, which in turn is `ccache` with cloud storage.
+- [A friendly introduction to machine learning compilers and optimizers (2021)](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)

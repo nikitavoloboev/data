@@ -267,6 +267,7 @@ Here are few more things I liked, design wise.
 - [Daniel Duan](https://duan.ca/) ([Code](https://github.com/dduan/duan.ca))
 - [Fabrizio Rinaldi](https://fabriziorinaldi.com/)
 - [Milen Dzhumerov](https://milen.me/)
+- [Ben Myers](https://benmyers.dev/)
 - [Michele Riva](https://www.micheleriva.it/)
 - [Krasjet](https://krasjet.com/)
 - [Craig Mod](https://craigmod.com/)
