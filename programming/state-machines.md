@@ -11,3 +11,4 @@
 - [Statecharts: a visual formalism for complex systems (1987)](https://www.sciencedirect.com/science/article/pii/0167642387900359)
 - [Benchmark of Finite State Machine approaches](https://github.com/newpavlov/fsm-bench)
 - [XState Visualizer](https://stately.ai/viz) - Visualizer for XState machines. ([Code](https://github.com/statelyai/xstate-viz))
+- [Building accessible components with State Machines (Segun Adebayo) (2021)](https://www.youtube.com/watch?v=4ChS2Iq5xk8)

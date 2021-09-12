@@ -91,6 +91,7 @@
 - [Signal](https://signal.vercel.app/) - Online MIDI Editor. ([Code](https://github.com/ryohey/signal))
 - [Meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript. ([Web](https://meyda.js.org/))
 - [aeon](https://github.com/tommaisey/aeon) - Live-coding system for musical pattern manipulation.
+- [Open Stage Control](https://openstagecontrol.ammd.net/) - Libre and modular OSC / MIDI controller. ([Code](https://github.com/jean-emmanuel/open-stage-control))
 
 ## Inspiration
 

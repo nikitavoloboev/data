@@ -69,3 +69,4 @@
 - [Pylectronics](https://github.com/fgarci03/pylectronics) - Reproduce digital electronics in Python. ([HN](https://news.ycombinator.com/item?id=28352358))
 - [Pong Circuit-Level Simulation](https://www.falstad.com/pong/vonly.html) ([HN](https://news.ycombinator.com/item?id=28388983))
 - [200 Years Ago, Faraday Invented the Electric Motor (2021)](https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor) ([HN](https://news.ycombinator.com/item?id=28420468))
+- [A Summary of Electronics](https://electroagenda.com/en/a-summary-of-electronics/) ([HN](https://news.ycombinator.com/item?id=28478641))

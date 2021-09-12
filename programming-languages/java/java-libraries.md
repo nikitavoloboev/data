@@ -32,3 +32,4 @@
 - [JitPack](https://jitpack.io/) - Publish JVM and Android libraries.
 - [SciJava](https://scijava.org/) - Scientific libraries in Java. ([GitHub](https://github.com/scijava))
 - [Jar Jar Links](https://github.com/shevek/jarjar) - Utility that makes it easy to repackage Java libraries and embed them into your own distribution.
+- [What Java Modules Are About (2021)](https://inside.java/2021/09/10/what-are-modules-about/) ([HN](https://news.ycombinator.com/item?id=28489881))
