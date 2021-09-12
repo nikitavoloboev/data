@@ -98,6 +98,7 @@
 - [Orchard](https://github.com/clojure-emacs/orchard) - Clojure library designed to provide common functionality for Clojure development tools.
 - [diehard](https://github.com/sunng87/diehard) - Clojure library to provide safety guard to your application.
 - [Javelin](https://github.com/hoplon/javelin) - Spreadsheet-like dataflow programming in ClojureScript.
+- [graal-build-time](https://github.com/clj-easy/graal-build-time) - Library to initialize Clojure packages at build time with GraalVM native-image.
 
 ## Links
 

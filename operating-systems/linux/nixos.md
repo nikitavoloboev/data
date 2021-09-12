@@ -149,3 +149,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS on underpowered devices (2021)](https://eno.space/blog/2021/08/nixos-on-underpowered-devices)
 - [nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 30s cycle times.
 - [Nix-Gui](https://github.com/nix-gui/nix-gui) - Make NixOS usable for non-technical users through a settings / package management GUI.
+- [NixOS Configuration with Flakes (2021)](https://jdisaacs.com/blog/nixos-config/)

@@ -32,7 +32,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Historian](https://github.com/finestructure/Historian) - History viewer and transmitter for Composable Architecture apps.
 - [Animal Crossing New Horizon items catalogue in SwiftUI](https://github.com/Dimillian/ACHNBrowserUI)
 - [Pisth](https://github.com/ColdGrub1384/Pisth) - SSH and SFTP client for iOS.
-- [Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn.
+- [Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn. ([Discord](https://discord.gg/Uhc3KPzjcE))
 - [SwiftUI Weather](https://github.com/flexaargo/SwiftUI-Weather) - Weather app made with SwiftUI and Combine.
 - [Sketchbook iPad app](https://github.com/xiajenny/sketchbook-app) - Shared sketchbook app in metal with cool brushes and networking.
 - [Wikipedia](https://github.com/wikimedia/wikipedia-ios) - Official Wikipedia iOS app.
