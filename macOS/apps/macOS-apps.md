@@ -156,7 +156,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 ## Links
 
 - [Awesome macOS apps](https://github.com/learn-anything/macos-apps)
-- [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps) ([HN](https://news.ycombinator.com/item?id=28498797))
 - [Hyperlink and Deep Linking URLs](https://www.evernote.com/shard/s107/sh/c1c6cfa0-7558-4b17-84a0-6c7f6dce2a85/285e49afa8b122d9)
 - [Ship app open source code](https://www.realartists.com/blog/ship-is-open-source.html) - Amazing GitHub native client that was closed down.
 - [Mac Open Web](https://macopenweb.com/) - Collection of open and indie Mac, iOS, and web apps that help promote the open web. ([Code](https://github.com/good/openweb))

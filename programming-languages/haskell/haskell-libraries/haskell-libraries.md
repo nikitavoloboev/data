@@ -21,6 +21,7 @@
 - [Beam](https://github.com/haskell-beam/beam) - Type-safe, non-TH Haskell relational database library and ORM.
 - [PG-Entity](https://github.com/tchoutri/pg-entity) - PostgreSQL database layer that does not get in your way.
 - [Haskell PostgreSQL-typed](https://github.com/dylex/postgresql-typed) - Haskell PostgreSQL library with compile-time type inference.
+- [sqlite-simple](https://github.com/nurpax/sqlite-simple) - Mid-level bindings for sqlite.
 
 ## Test
 

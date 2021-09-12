@@ -87,3 +87,5 @@
 - [Accessible Colors](https://accessible-colors.com/) - Automatically find the closest accessible color combination. ([Code](https://github.com/moroshko/accessible-colors))
 - [ColorBox](https://colorbox.io/)
 - [color-algorithm](https://github.com/k-vyn/coloralgorithm) - JavaScript function for producing color sets. Used to build Lyft's color system (Spectrum) and power ColorBox.
+- [An interactive review of Oklab (2021)](https://raphlinus.github.io/color/2021/01/18/oklab-critique.html)
+- [New alternatives to HSL and HSV that better match color perception](https://bottosson.github.io/posts/colorpicker/) ([HN](https://news.ycombinator.com/item?id=28500014))
