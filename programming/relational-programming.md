@@ -9,3 +9,4 @@
 - [TablaM](https://github.com/Tablam/TablaM) - Practical relational programing language for data-oriented applications. ([Web](https://tablam.org/))
 - [William Byrd on logic and relational programming, miniKanren (2014)](https://www.infoq.com/interviews/byrd-relational-programming-minikanren/) ([HN](https://news.ycombinator.com/item?id=27359963))
 - [metaKanren: Towards a self-synthesizing miniKanren](https://icfp21.sigplan.org/details/minikanren-2021-papers/4/metaKanren-Towards-a-self-synthesizing-miniKanren) ([Code](https://github.com/iambrj/metaKanren))
+- [µKanren-rs](https://github.com/ekzhang/ukanren-rs) - Rust implementation of µKanren, a featherweight relational programming language.

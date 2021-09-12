@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide) - One stop shop for getting started with the Vulkan API.
 - [Vulkan Tutorial](https://vulkan-tutorial.com/) ([Code](https://github.com/Overv/VulkanTutorial))
 - [Vulkan Tutorial in Rust](https://github.com/bwasty/vulkan-tutorial-rs)
 - [Rendy](https://github.com/amethyst/rendy) - Yet another Vulkan based rendering engine.

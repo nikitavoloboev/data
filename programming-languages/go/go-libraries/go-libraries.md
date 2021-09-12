@@ -924,6 +924,7 @@
 - [saferith](https://github.com/cronokirby/saferith) - Constant time big numbers for Go.
 - [percpu](https://github.com/cespare/percpu) - Go package to support best-effort CPU-local sharded values.
 - [Conform](https://github.com/leebenson/conform) - Trim, sanitize, and modify struct string fields in place, based on tags.
+- [cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go.
 
 ## Links
 

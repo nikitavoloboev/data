@@ -947,6 +947,7 @@
 - [EVLRU](https://github.com/Bajix/evlru) - Eventually consistent LRU designed for lock-free concurrent reads.
 - [io-lifetimes](https://github.com/sunfishcode/io-lifetimes) - Low-level I/O ownership and borrowing library.
 - [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) - Lightweight, efficient, binary serialization and deserialization codec.
+- [bson](https://github.com/mongodb/bson-rust) - Encoding and decoding support for BSON in Rust.
 
 ## Cargo Plugins
 
