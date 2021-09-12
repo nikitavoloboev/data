@@ -59,3 +59,6 @@
 - [Abductive vs. inductive reasoning](https://math.stackexchange.com/questions/619311/abductive-vs-inductive-reasoning)
 - [Zorn's Lemma, Choice, & Well-ordering (2021)](https://bharathi.xyz/math/awz.html)
 - [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
+- [Logic Deduction Course](https://brilliant.org/courses/logic-deduction/)
+- [Mathematical Circles: Russian Experience](https://www.amazon.com/Mathematical-Circles-Russian-Experience-World/dp/0821804308)
+- [Ask HN: Books that teach you logic building skills (2021)](https://news.ycombinator.com/item?id=28500951)

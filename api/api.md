@@ -26,9 +26,10 @@
 - [Twitter Python 3](https://github.com/geduldig/TwitterAPI)
 - [Twitter Rust](https://github.com/egg-mode-rs/egg-mode)
 - [Twitter R](https://github.com/ropensci/rtweet)
-- [Twitter Node](https://github.com/ttezel/twit) - Twitter API Client for node (REST & Streaming API).
-- [Twitter Node](https://github.com/FeedHive/twitter-api-client)
-- [Twitter Node 2](https://github.com/yarnaimo/twimo-v2) - Twitter API v2 client for TypeScript auto-generated from official OpenAPI specification.
+- [Twitter Node](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
+- [Twitter Node 2](https://github.com/ttezel/twit) - Twitter API Client for node (REST & Streaming API).
+- [Twitter Node 3](https://github.com/FeedHive/twitter-api-client)
+- [Twitter Node 4](https://github.com/yarnaimo/twimo-v2) - Twitter API v2 client for TypeScript auto-generated from official OpenAPI specification.
 - [Twitter Lite JS](https://github.com/draftbit/twitter-lite) - Tiny, full-featured, flexible client / server library for the Twitter API.
 - [Twitter Go](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Twitter Go 2](https://github.com/bloveless/tweetgo)

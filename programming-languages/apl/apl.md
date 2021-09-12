@@ -53,3 +53,4 @@
 - ["The J Programming Language" by Tracy Harms (2013)](https://www.youtube.com/watch?v=RWYkx6-L04Q)
 - [APL.jl](https://github.com/shashi/APL.jl) - APL in Julia.
 - [An Implementation of J – Incunabulum (2008)](https://www.jsoftware.com/ioj/iojATW.htm) ([HN](https://news.ycombinator.com/item?id=28491562))
+- [I got the J language working on OpenBSD (2021)](https://briancallahan.net/blog/20210911.html) ([Lobsters](https://lobste.rs/s/w3ohim/i_got_j_language_working_on_openbsd))
