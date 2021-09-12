@@ -306,6 +306,7 @@ Here are few more things I liked, design wise.
 - [Vic Shostak](https://shostak.dev/)
 - [Abhijit Menon-Sen](https://toroid.org/)
 - [Sage Abdullah](https://laymonage.com/)
+- [Royal Icing](https://icing.space/)
 - [Mateus Bianco](https://dlbn.co/) ([Code](https://github.com/dlbnco/dlbn.co))
 - [Simon Wicki](https://wicki.io/)
 - [Gift Egwuenu](https://www.giftegwuenu.dev/) ([Code](https://github.com/lauragift21/giftegwuenu.dev))

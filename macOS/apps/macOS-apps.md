@@ -109,6 +109,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Informant](https://informant-app.com/) - Inspect files with a single click. ([Code](https://github.com/tyirvine/Informant))
 - [Podman for macOS](https://github.com/heyvito/podman-macos) - Start and stop both the Podman Machine and its running containers.
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac app to overcome time constrained WiFi networks. ([Web](https://airpass.tiagoalves.me/))
+- [Lantern](https://github.com/RoyalIcing/Lantern) - Mac app for website auditing and crawling. ([Web](https://icing.space/tools/lantern/))
 
 ## Other interesting apps
 

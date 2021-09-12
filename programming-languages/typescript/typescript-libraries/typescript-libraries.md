@@ -142,6 +142,7 @@
 - [optimistic-state](https://github.com/perceived-dev/optimistic-state) - Optimistic state with rollbacks and race condition handling.
 - [ts-mixer](https://github.com/tannerntannern/ts-mixer) - Small TypeScript library that provides tolerable Mixin functionality.
 - [PointerTracker](https://github.com/GoogleChromeLabs/pointer-tracker) - Track mouse/touch/pointer events for a given element.
+- [Yield Machine](https://github.com/RoyalIcing/yieldmachine) - Define State Machines using Generator Functions.
 
 ## Links
 

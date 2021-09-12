@@ -70,3 +70,4 @@
 - [AccessKit](https://github.com/AccessKit/accesskit) - UI accessibility infrastructure across platforms and programming languages.
 - [Accessibility beyond 'alt' tag, 'color contrast', and semantic tags (2021)](https://hellonehha.hashnode.dev/accessibility-beyond-alt-tag-color-contrast-and-semantic-tags-ckt5jjl9601s97us13soac1er)
 - [WAI-ARIA Authoring Practices](https://w3c.github.io/aria-practices/) ([Code](https://github.com/w3c/aria-practices))
+- [Accessibility-First Tool Concepts (2021)](https://icing.space/2021/accessibility-first-tool-concepts/)

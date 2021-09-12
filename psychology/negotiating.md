@@ -27,3 +27,4 @@
 - [Tips for negotiating your salary (from an ex-FAANG recruiter) (2021)](https://www.youtube.com/watch?v=u9BoG1n1948)
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) ([HN](https://news.ycombinator.com/item?id=27160934))
 - [Ask HN: Negotiating Salary (2021)](https://news.ycombinator.com/item?id=27332305)
+- [Fearless Salary Negotiation](https://fearlesssalarynegotiation.com/) - Salary Negotiation for Software Developers.
