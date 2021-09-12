@@ -283,3 +283,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [yt-dlc](https://github.com/blackjack4494/yt-dlc) - Media downloader and library for various sites.
 - [Kino](https://kinoweb.dev/) - Sample Video on demand (VOD) app to demonstrate media functionality in the context of a Progressive Web App. ([Code](https://github.com/GoogleChrome/kino))
 - [HLS Downloader](https://github.com/puemos/hls-downloader) - Capture and download HTTP Live streams (HLS) from your browser.
+- [Opal Camera](https://opalcamera.com/) - First professional web cam.
