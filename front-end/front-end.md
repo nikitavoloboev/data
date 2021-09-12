@@ -65,3 +65,4 @@
 - [Кажется, мы стали забывать основы фронтенда (2021)](https://habr.com/ru/post/569494/)
 - [Чистая архитектура во фронтенде (2021)](https://bespoyasov.ru/blog/clean-architecture-on-frontend/)
 - [Interactive Learning Tools For Front-End Developers (2021)](https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/)
+- [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Highly recommended collections for frontend developers.
