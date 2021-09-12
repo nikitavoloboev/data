@@ -222,3 +222,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Нож](https://knife.media/) - Ежедневное чтение умного человека.
 - [Про тусовочку и выборы (2017)](https://www.youtube.com/watch?v=bMigrqjVE7k) ([Tweet](https://twitter.com/shutupgrese/status/1436289906733633579))
 - [Россия после Путина (2021)](https://www.youtube.com/watch?v=d4qAhqGnWo4)
+- [Главный позор Путина | Имидж России уничтожен (2021)](https://youtu.be/_DZQfqg5Uns)

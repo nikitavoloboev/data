@@ -18,6 +18,7 @@
 - [Obsidian Tracker](https://github.com/pyrochlore/obsidian-tracker) - Helps you collect data from notes and represent it comprehensively.
 - [Citation](https://github.com/hans/obsidian-citation-plugin) - Plugin for Obsidian integrates your academic reference manager with the Obsidian editing experience.
 - [Readwise](https://github.com/readwiseio/obsidian-readwise) - Enables you to easily and automatically export all your digital highlights to Obsidian from a variety of sources.
+- [Smart Random Note](https://github.com/erichalldev/obsidian-smart-random-note) - Enhances opening random notes.
 
 ## Links
 
