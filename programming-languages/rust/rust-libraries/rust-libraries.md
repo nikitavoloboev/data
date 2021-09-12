@@ -952,6 +952,7 @@
 - [unsafe-io](https://github.com/sunfishcode/unsafe-io) - Non-owning unsafe I/O.
 - [system-interface](https://github.com/bytecodealliance/system-interface) - Extensions to the Rust standard library.
 - [utf8-io](https://github.com/sunfishcode/utf8-io) - Traits and types for UTF-8 I/O.
+- [avro-rs](https://github.com/flavray/avro-rs) - Library for working with Apache Avro in Rust.
 
 ## Cargo Plugins
 

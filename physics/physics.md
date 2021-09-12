@@ -239,3 +239,5 @@
 - [How strong would a magnetic field have to be to kill you?](https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929) ([HN](https://news.ycombinator.com/item?id=28463855))
 - [Physics ∩ ML](http://physicsmeetsml.org/) - Virtual hub at the interface of theoretical physics and deep learning.
 - [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
+- [Why can’t I go faster than the speed of light? (2009)](https://gravityandlevity.wordpress.com/2009/04/08/why-cant-i-go-faster-than-the-speed-of-light-hints-from-electrodynamics/) ([HN](https://news.ycombinator.com/item?id=28502084))
+- [How can electrons be “topological”? (2020)](https://gravityandlevity.wordpress.com/2020/07/14/how-can-electrons-be-topological/)

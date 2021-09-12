@@ -146,3 +146,4 @@
 - [You Could Have Invented De Bruijn Indices (2021)](https://golem.ph.utexas.edu/category/2021/08/you_could_have_invented_de_bru.html)
 - [type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms in Haskell.
 - [Type system innovation propagation (2021)](https://doma.dev/blog/innovation-propagation/)
+- [Shape Irrelevant Reflection in Type Theory](https://github.com/TheoWinterhalter/sirtt)
