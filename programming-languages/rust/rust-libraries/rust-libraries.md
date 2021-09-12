@@ -309,6 +309,7 @@
 - [rustversion](https://github.com/dtolnay/rustversion) - Provides macros for conditional compilation according to rustc compiler version.
 - [plex](https://github.com/goffrie/plex) - Parser and lexer generator as a Rust procedural macro.
 - [momo](https://github.com/llogiq/momo) - Rust proc_macro_attribute to outline conversions from generic functions.
+- [fixed-map](https://github.com/udoprog/fixed-map) - Map implementation that relies on fixed-size storage derived by a procedural macro.
 
 ## Math
 
@@ -948,6 +949,9 @@
 - [io-lifetimes](https://github.com/sunfishcode/io-lifetimes) - Low-level I/O ownership and borrowing library.
 - [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) - Lightweight, efficient, binary serialization and deserialization codec.
 - [bson](https://github.com/mongodb/bson-rust) - Encoding and decoding support for BSON in Rust.
+- [unsafe-io](https://github.com/sunfishcode/unsafe-io) - Non-owning unsafe I/O.
+- [system-interface](https://github.com/bytecodealliance/system-interface) - Extensions to the Rust standard library.
+- [utf8-io](https://github.com/sunfishcode/utf8-io) - Traits and types for UTF-8 I/O.
 
 ## Cargo Plugins
 

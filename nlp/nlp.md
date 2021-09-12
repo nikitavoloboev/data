@@ -340,3 +340,4 @@
 - [Mistral](https://github.com/stanford-crfm/mistral) - Framework for transparent and accessible large-scale language model training, built with Hugging Face. ([Docs](https://nlp.stanford.edu/mistral/))
 - [NERDA](https://github.com/ebanalyse/NERDA) - Framework for fine-tuning pretrained transformers for Named-Entity Recognition (NER) tasks.
 - [Data Augmentation Techniques for NLP](https://github.com/styfeng/DataAug4NLP)
+- [Feed forward VQGAN-CLIP model](https://github.com/mehdidc/feed_forward_vqgan_clip)
