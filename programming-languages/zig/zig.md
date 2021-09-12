@@ -65,3 +65,4 @@
 - [ziglint](https://github.com/nektro/ziglint) - Linting suite for Zig.
 - [Resource efficient Thread Pools with Zig (2021)](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
 - [Zig News](https://zig.news/)
+- [Code Coverage for Zig with Callgrind (2021)](https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/)
