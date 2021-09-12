@@ -65,3 +65,5 @@
 - [Apartment hunting tips for SF](https://twitter.com/nikolasklein/status/1425391214963085314)
 - [Would you move to the US right now if given a chance to? (2021)](https://www.reddit.com/r/AskUK/comments/p8o4iw/would_you_move_to_the_us_right_now_if_given_a/)
 - [Did the First Americans Arrive by Land or by Sea? (2021)](https://www.theatlantic.com/magazine/archive/2021/10/prehistoric-america-atlantis/619819/) ([Tweet](https://twitter.com/andersen/status/1435243652310241291))
+- [Moving from Europe to the USA](https://www.reddit.com/r/IWantOut/comments/1bjcio/moving_from_europe_to_the_usa/)
+- [Immigration Reddit](https://www.reddit.com/r/immigration/)

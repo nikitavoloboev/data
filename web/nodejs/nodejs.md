@@ -243,3 +243,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [stream-json](https://github.com/uhop/stream-json) - Micro-library of node.js stream components with minimal dependencies for creating custom data processors oriented on processing huge JSON files.
 - [Edge](https://github.com/edge-js/edge) - Node.js templating engine with fresh air.
 - [Poolifier](https://github.com/poolifier/poolifier) - Fast and small Node.js thread pool implementation.
+- [tasuku](https://github.com/privatenumber/tasuku) - Minimal task runner for Node.js.
