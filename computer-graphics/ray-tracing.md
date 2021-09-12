@@ -77,3 +77,4 @@
 - [Physically based monte carlo path tracer written in C++](https://github.com/amanshenoy/ray-tracer)
 - [Volumetric Path Tracer using CUDA](https://github.com/sergeneren/Volumetric-Path-Tracer)
 - [Portal explorer](https://github.com/optozorax/portal) - Web visualization of mind-blowing portals using ray-tracing.
+- [Ray casting in 2D game engines](https://sszczep.github.io/ray-casting-in-2d-game-engines/) ([Code](https://github.com/sszczep/ray-casting-in-2d-game-engines)) ([Cheat Sheet](https://sszczep.github.io/ray-casting-in-2d-game-engines/cheatsheet.html))

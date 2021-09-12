@@ -253,3 +253,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Guix: A most advanced operating system](https://ambrevar.xyz/guix-advance/) ([HN](https://news.ycombinator.com/item?id=28239410))
 - [Let's build an LC-3 Virtual Machine (2021)](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
 - [The operating system: should there be one?](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.9197&rep=rep1&type=pdf) ([HN](https://news.ycombinator.com/item?id=28440490))
+- [MIT CSAIL Parallel and Distributed Operating Systems Group](https://pdos.csail.mit.edu/) ([GitHub](https://github.com/mit-pdos))

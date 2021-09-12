@@ -113,3 +113,4 @@
 - [RISC-V Wiki](https://wiki.riscv.org/display/TECH/GitHub+Repo+Map) ([GitHub](https://github.com/riscv))
 - [Berkeley Out-of-Order Machine (BOOM](https://github.com/riscv-boom/riscv-boom) - Synthesizable and parameterizable open source RV64GC RISC-V core written in the Chisel hardware construction language.
 - [HiFive Unmatched](https://www.sifive.com/boards/hifive-unmatched) - RISC-V Linux development platform. ([HN](https://news.ycombinator.com/item?id=28468118))
+- [RVirt](https://github.com/mit-pdos/RVirt) - S-mode trap-and-emulate hypervisor for RISC-V.
