@@ -136,3 +136,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Shoot It With Film](https://shootitwithfilm.com/) - Community for film photographers to learn, share, and grow.
 - [Ente.io](https://ente.io/) - Encrypted backups for photos and videos. ([HN](https://news.ycombinator.com/item?id=28347439))
 - [Photoview](https://photoview.github.io/) - Photo gallery for self-hosted personal servers. ([Code](https://github.com/photoview/photoview))
+- [Vitaly Rubtsov - YouTube](https://www.youtube.com/channel/UCUHeg2C_KSLJ3IZmyOcsr2w/videos)
