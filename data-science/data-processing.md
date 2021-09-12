@@ -56,3 +56,4 @@
 - [Datafuse](https://datafuse.rs/) - Modern Real-Time Data Processing in Rust. ([Code](https://github.com/datafuselabs/datafuse/)) ([HN](https://news.ycombinator.com/item?id=28069895))
 - [MapReduce is making a comeback (2021)](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback) ([HN](https://news.ycombinator.com/item?id=28128360))
 - [SciPipe](https://github.com/scipipe/scipipe) - Robust, flexible and resource-efficient pipelines using Go and the command line. ([Docs](https://scipipe.org/))
+- [The Future Is Big Graphs: A Community View on Graph Processing Systems (2021)](https://cacm.acm.org/magazines/2021/9/255040-the-future-is-big-graphs/fulltext) ([HN](https://news.ycombinator.com/item?id=28499999))

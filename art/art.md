@@ -450,3 +450,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Tyler Cowen is the best curator of talent in the world (2021)](https://kulesa.substack.com/p/tyler-cowen-is-the-best-curator-of) ([HN](https://news.ycombinator.com/item?id=28381324))
 - [Art Gallery Datasets](https://www.artnome.com/art-data)
 - [Gnod Art](https://art.gnod.com/) - Discover new Artists.
+- [Ask HN: Any successful transitions from a tech/IT career to working in the arts? (2021)](https://news.ycombinator.com/item?id=28500457)

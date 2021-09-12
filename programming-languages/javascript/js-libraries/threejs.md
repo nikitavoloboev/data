@@ -1,5 +1,9 @@
 # [Three.js](https://threejs.org/)
 
+## Example sites
+
+- [My Room in 3D](https://my-room-in-3d.vercel.app/) ([Code](https://github.com/brunosimon/my-room-in-3d)) ([HN](https://news.ycombinator.com/item?id=28496650))
+
 ## Links
 
 - [Three.js Fundamentals](https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html) ([HN](https://news.ycombinator.com/item?id=19944990)) ([Code](https://github.com/httpstersk/three-js-fundamentals-r3f))
