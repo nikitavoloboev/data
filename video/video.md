@@ -282,3 +282,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [The Fatiguing Effects of Camera Use in Virtual Meetings (2021)](https://psycnet.apa.org/fulltext/2021-77825-003.pdf) ([HN](https://news.ycombinator.com/item?id=28351687))
 - [yt-dlc](https://github.com/blackjack4494/yt-dlc) - Media downloader and library for various sites.
 - [Kino](https://kinoweb.dev/) - Sample Video on demand (VOD) app to demonstrate media functionality in the context of a Progressive Web App. ([Code](https://github.com/GoogleChrome/kino))
+- [HLS Downloader](https://github.com/puemos/hls-downloader) - Capture and download HTTP Live streams (HLS) from your browser.

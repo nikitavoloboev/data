@@ -56,3 +56,4 @@
 - [Gekko](https://github.com/lamafab/gekko) - Utilities to parse substrate metadata, generate the corresponding Rust interfaces, create transactions and the ability to encode/decode those transaction.
 - [polkadot/common](https://github.com/polkadot-js/common) - Utilities and base libraries for use across polkadot-js.
 - [Canvas](https://github.com/paritytech/canvas) - Node implementation for Canvas ‒ a Substrate parachain for smart contracts.
+- [Examples of interacting with a Polkadot node in Rust](https://github.com/paritytech/polkadot-interaction-examples-rs)

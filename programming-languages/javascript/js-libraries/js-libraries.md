@@ -592,6 +592,8 @@
 - [ohmyfetch](https://github.com/unjs/ohmyfetch) - Better fetch API. Works on node, browser and workers.
 - [Tingle.js](https://github.com/robinparisi/tingle) - Vanilla modal plugin, no dependencies and easy-to-use.
 - [Borsh JS](https://github.com/near/borsh-js) - TypeScript/JavaScript implementation of Binary Object Representation Serializer for Hashing.
+- [set-value](https://github.com/jonschlinkert/set-value) - Set nested properties on an object using dot-notation.
+- [parquet.js](https://github.com/ironSource/parquetjs) - Fully asynchronous, pure JavaScript implementation of the Parquet file format.
 
 ## Links
 

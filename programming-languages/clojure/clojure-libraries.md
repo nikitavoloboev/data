@@ -97,6 +97,7 @@
 - [Afterglow](https://github.com/Deep-Symmetry/afterglow?) - Live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone.
 - [Orchard](https://github.com/clojure-emacs/orchard) - Clojure library designed to provide common functionality for Clojure development tools.
 - [diehard](https://github.com/sunng87/diehard) - Clojure library to provide safety guard to your application.
+- [Javelin](https://github.com/hoplon/javelin) - Spreadsheet-like dataflow programming in ClojureScript.
 
 ## Links
 

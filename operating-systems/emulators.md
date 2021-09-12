@@ -43,3 +43,4 @@
 - [VMKit](https://github.com/adnsio/vmkit) - Virtualization made easy. Supports QEMU and Apple Virtualization.framework.
 - [VirtualSMC](https://github.com/acidanthera/VirtualSMC) - Advanced Apple SMC emulator in the kernel.
 - [GateBoy](https://github.com/aappleby/MetroBoy) - Gate-level simulators and tools for the original Game Boy.
+- [SwiftNES](https://github.com/tib/SwiftNES) - NES emulator written in Swift.
