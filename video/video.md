@@ -284,3 +284,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Kino](https://kinoweb.dev/) - Sample Video on demand (VOD) app to demonstrate media functionality in the context of a Progressive Web App. ([Code](https://github.com/GoogleChrome/kino))
 - [HLS Downloader](https://github.com/puemos/hls-downloader) - Capture and download HTTP Live streams (HLS) from your browser.
 - [Opal Camera](https://opalcamera.com/) - First professional web cam.
+- [How Bo Burnham made INSIDE (2021)](https://www.youtube.com/watch?v=eZiSApqoI2g) ([Reddit](https://www.reddit.com/r/television/comments/pn4rlk/bo_burnham_wins_his_first_emmy_for_outstanding/))

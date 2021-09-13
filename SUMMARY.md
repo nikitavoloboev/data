@@ -846,6 +846,7 @@
   - [Puzzles](other/puzzles.md)
   - [Woodworking](other/woodworking.md)
   - [Gardening](other/gardening.md)
+  - [Mushrooms](other/mushrooms.md)
   - [Real Estate](other/real-estate.md)
   - [Newsletters](other/newsletters.md)
   - [Used hotkeys](other/used-hotkeys.md)
