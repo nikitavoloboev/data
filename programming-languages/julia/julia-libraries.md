@@ -117,6 +117,10 @@
 - [ReTest](https://github.com/JuliaTesting/ReTest.jl) - Testing framework for Julia.
 - [XUnit.jl](https://github.com/RelationalAI-oss/XUnit.jl) - Unit-testing framework for Julia.
 
+## DB
+
+- [FunSQL](https://github.com/MechanicalRabbit/FunSQL.jl) - Julia library for compositional construction of SQL queries.
+
 ## Error
 
 - [ErrorTypes](https://github.com/jakobnissen/ErrorTypes.jl) - Rust-like error types in Julia.
@@ -272,6 +276,7 @@
 - [LispSyntax.jl](https://github.com/swadey/LispSyntax.jl) - Clojure-like lisp syntax for julia.
 - [Fastnet.jl](https://github.com/bridgewalker/Fastnet.jl) - Julia package that allows very fast (linear-time) simulation of discrete-state dynamical processes on networks, such as commonly studied models of epidemics.
 - [DataSets](https://github.com/JuliaComputing/DataSets.jl) - Helps make data wrangling code more reusable.
+- [ResourceContexts](https://github.com/c42f/ResourceContexts.jl) - Safe resource handling for Julia, without the do blocks.
 
 ## Links
 
