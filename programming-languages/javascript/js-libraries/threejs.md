@@ -48,6 +48,7 @@
 - [3D Force-Directed Graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL.
 - [three-mesh-ui](https://github.com/felixmariotto/three-mesh-ui) - Make VR user interfaces for Three.js.
 - [ThreeJS Globe Visualization](https://github.com/vasturiano/three-globe)
+- [Three.js Globe Tutorial (2020)](https://www.timcchang.com/posts/threejs-globe)
 - [Raymarching shaders](https://github.com/gsimone/r3f-raymarching) - Collection of raymarching experiments using react-three-fiber & family.
 - [Three Material Editor](https://github.com/RenaudRohlinger/three-material-editor) - GLSL editor for Threejs scene.
 - [Recreating Real-World Terrain with React, Three.js and WebGL Shaders (2021)](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1) ([HN](https://news.ycombinator.com/item?id=26239236))

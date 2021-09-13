@@ -23,6 +23,7 @@ Here are few more things I liked, design wise.
 - [Mailbrew](https://mailbrew.com/)
 - [Fey](https://feyapp.com/)
 - [Dribble](https://dribbble.com/)
+- [Abstract](https://www.abstract.com/)
 - [Swipe Files](https://www.swipefiles.co/)
 - [Draftsend](https://draftsend.com/)
 - [taotajima](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.
@@ -307,6 +308,7 @@ Here are few more things I liked, design wise.
 - [Abhijit Menon-Sen](https://toroid.org/)
 - [Sage Abdullah](https://laymonage.com/)
 - [Royal Icing](https://icing.space/)
+- [Tim Chang](https://www.timcchang.com/)
 - [Mateus Bianco](https://dlbn.co/) ([Code](https://github.com/dlbnco/dlbn.co))
 - [Simon Wicki](https://wicki.io/)
 - [Gift Egwuenu](https://www.giftegwuenu.dev/) ([Code](https://github.com/lauragift21/giftegwuenu.dev))

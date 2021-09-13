@@ -32,7 +32,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [The ineffectiveness of lonely icons (2019)](https://mattwilcox.net/musing/the-ineffectiveness-of-icons)
 - [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) ([HN](https://news.ycombinator.com/item?id=19580860))
 - [Closing the loop with Design Intelligence (2018)](https://airbnb.design/the-evolution-of-tools/)
-- [Abstract](https://www.goabstract.com) - Modern Design Workflow. Sketch version control management tool.
+- [Abstract Notebooks](https://www.abstract.com/) - Bring transparency to your design process. ([GitHub](https://github.com/goabstract))
 - [10 Year Challenge: How Popular Websites Have Changed (2019)](https://www.arun.is/blog/10-year-challenge/)
 - [Design Systems Repo](https://designsystemsrepo.com/) - Frequently updated collection of Design System examples, articles, tools and talks.
 - [Mike Bostock - Design is a Search Problem (2014)](https://www.youtube.com/watch?v=fThhbt23SGM)

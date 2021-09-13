@@ -203,6 +203,7 @@
 - [ReactPlayer](https://github.com/cookpete/react-player) - React component for playing a variety of URLs.
 - [Vechai UI](https://github.com/vechai/vechaiui) - Collection of Accessible React UI Components using TailwindCSS. ([Docs](https://www.vechaiui.com/))
 - [vazco/uniforms](https://github.com/vazco/uniforms) - Set of React libraries for building forms from every schema. ([Web](https://uniforms.tools/))
+- [React Fullscreen Image](https://github.com/timc1/react-fullscreen-image) - Accessible, fast, and snappy full screen React image viewer.
 
 ## Links
 
