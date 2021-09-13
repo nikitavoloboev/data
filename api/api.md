@@ -248,3 +248,4 @@
 - [Adding Optimistic Locking to an API (2021)](https://www.moderntreasury.com/journal/designing-ledgers-with-optimistic-locking) ([HN](https://news.ycombinator.com/item?id=28314623))
 - [Data-first API design (2021)](https://cuddly-octo-palm-tree.com/posts/2021-08-29-data-api/)
 - [Schemathesis](https://github.com/schemathesis/schemathesis) - Modern API testing tool for web applications built with Open API and GraphQL specifications.
+- [So you want to mock an API (2021)](https://www.getsynth.com/docs/blog/2021/09/07/mocking-a-production-api)
