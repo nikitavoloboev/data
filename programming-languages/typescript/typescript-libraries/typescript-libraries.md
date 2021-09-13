@@ -143,6 +143,7 @@
 - [ts-mixer](https://github.com/tannerntannern/ts-mixer) - Small TypeScript library that provides tolerable Mixin functionality.
 - [PointerTracker](https://github.com/GoogleChromeLabs/pointer-tracker) - Track mouse/touch/pointer events for a given element.
 - [Yield Machine](https://github.com/RoyalIcing/yieldmachine) - Define State Machines using Generator Functions.
+- [KBar](https://github.com/timc1/kbar) - Add a fast, portable, and extensible command+k interface to your site. ([Web](https://kbar.vercel.app/)) ([Tweet](https://twitter.com/timcchang/status/1437393810049359872))
 
 ## Links
 
