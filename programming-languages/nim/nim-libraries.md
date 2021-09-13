@@ -12,6 +12,7 @@
 ## Graphics
 
 - [Nodesnim](https://github.com/Ethosa/nodesnim) - Nim GUI/2D framework, based on OpenGL and SDL2.
+- [Pixie](https://github.com/treeform/pixie) - Full-featured 2D graphics library for Nim. ([HN](https://news.ycombinator.com/item?id=28506220))
 
 ## Other
 

@@ -63,3 +63,5 @@
 - [Mammoth](https://github.com/WorldQL/mammoth) - Horizontally scalable Minecraft server.
 - [Almost free serverless on-demand Minecraft server in AWS](https://github.com/doctorray117/minecraft-ondemand) ([HN](https://news.ycombinator.com/item?id=28454968))
 - [minecraft-render](https://github.com/co3moz/minecraft-render) - Minecraft block rendering with node.js.
+- [Elementa](https://github.com/Sk1erLLC/Elementa) - Simple, declarative GUI library for Minecraft.
+- [Sk1er](https://sk1er.club/) - High quality Minecraft Mods and services. ([Twitter](https://twitter.com/Sk1erLLC)) ([GitHub](https://github.com/Sk1erLLC))
