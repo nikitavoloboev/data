@@ -92,3 +92,4 @@
 - [FromPython](https://github.com/kskyten/FromPython.jl) - Python-to-Julia transpiler. Mainly intended for translating numerical code and wrapping Python packages to add multiple dispatch.
 - [Debugging in Julia - Two different ways (2021)](https://opensourc.es/blog/basics-debugging/)
 - [Machine Learning with Julia on AWS SageMaker (2021)](https://beta.datachef.co/blog/machine-learning-with-julia-on-aws-sagemaker/)
+- [GPU Programming in Julia (2021)](https://www.youtube.com/watch?v=aKRv-W9Eg8g) ([Code](https://github.com/maleadt/juliacon21-gpu_workshop))

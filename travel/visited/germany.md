@@ -20,3 +20,4 @@
 - [Ask HN: How are salaries for senior devs in Berlin at the moment? (2021)](https://news.ycombinator.com/item?id=27912487)
 - [How to find a Software Developer job in Germany (2021)](https://www.reddit.com/r/cscareerquestionsEU/comments/opzu4d/guide_how_to_find_a_software_developer_job_in/)
 - [How to Split a City in Half (Berlin)](https://www.youtube.com/watch?v=P6qg0sKJJKM)
+- [What do Germans fear the most? (2021)](https://www.dw.com/en/what-do-germans-fear-the-most/a-59129913) ([HN](https://news.ycombinator.com/item?id=28509321))
