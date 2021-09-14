@@ -52,3 +52,4 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [What kind of progress has been achieved by people who train consistently every single day? (2021)](https://www.reddit.com/r/bodyweightfitness/comments/nhtip1/what_kind_of_progress_has_been_achieved_by_people/)
 - [A walk in nature is better than microdosing (2021)](https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/) ([HN](https://news.ycombinator.com/item?id=27435972))
 - [RoutineDB](https://www.routinedb.com/routines) - Community sourced fitness routine database. ([HN](https://news.ycombinator.com/item?id=27503597))
+- [Barry’s](https://www.barrys.com/) - Best Workout In The World.

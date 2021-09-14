@@ -3,6 +3,7 @@
 ## Notes
 
 - [You can get all the Tailwind JIT goodness you like just by adding a single script tag to the head of your document.](https://twitter.com/lukejacksonn/status/1393563736942825481)
+- [Tailwind is best used in incremental steps: 1. Flesh out the UI first. 2. Notice the emerging CSS class usage patterns. 3. Abstract components out. Last step involves pulling all classes into an actual CSS file.](https://twitter.com/mareksuscak/status/1437579098591739904)
 
 ## Links
 

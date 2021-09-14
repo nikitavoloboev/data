@@ -5,7 +5,7 @@
 - [Fathom](https://app.usefathom.com/register)
 - [Monica](https://www.monicahq.com/pricing)
 - [Splitbee](https://splitbee.io/pricing)
-- [Reflect has billing page with a letter from the team](https://twitter.com/maccaw/status/1437208734929850369?s=28)
+- [Reflect's billing page includes a letter from the team](https://twitter.com/maccaw/status/1437208734929850369?s=28)
 
 ## Notes
 

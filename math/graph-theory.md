@@ -42,7 +42,7 @@
 - [New Proof Reveals That Graphs with No Pentagons Are Fundamentally Different (2021)](https://www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/) ([HN](https://news.ycombinator.com/item?id=26943468))
 - [Geometric Deep Learning](https://geometricdeeplearning.com/) - Grids, Graphs, Groups, Geodesics, and Gauges. ([Tweet](https://twitter.com/PetarV_93/status/1387441776793882627))
 - [Constructions in combinatorics via neural networks (2021)](https://arxiv.org/pdf/2104.14516.pdf) ([Tweet](https://twitter.com/wtgowers/status/1388458562775654401))
-- [Kite](https://erkal.github.io/kite/) - Interactive visualization tool for graph theory. ([Code](https://github.com/erkal/kite))
+- [Kite](https://erkal.github.io/kite/) - Interactive visualization tool for graph theory. ([Code](https://github.com/erkal/kite)) ([HN](https://news.ycombinator.com/item?id=28516064))
 - [Spaghetti](https://github.com/pysal/spaghetti) - Open-source Python library for the analysis of network-based spatial data. ([Web](https://pysal.org/spaghetti/))
 - [Graphs (2017)](https://lonami.dev/blog/graphs/)
 - [How do DAGs help to reduce bias in causal inference?](https://stats.stackexchange.com/questions/445578/how-do-dags-help-to-reduce-bias-in-causal-inference)
