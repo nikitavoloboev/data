@@ -140,3 +140,4 @@
 - [HTTP/2: The Sequel is Always Worse (2021)](https://portswigger.net/research/http2) ([HN](https://news.ycombinator.com/item?id=28080097)) ([Lobsters](https://lobste.rs/s/ig6xuj/http_2_sequel_is_always_worse))
 - [VCR.py](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing.
 - [Hudsucker](https://github.com/omjadas/hudsucker) - Intercepting HTTP/S proxy.
+- [Cache-Control Recommendations (2021)](https://pokeinthe.io/2021/09/13/cache-control-recommendations/)

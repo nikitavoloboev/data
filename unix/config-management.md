@@ -29,3 +29,4 @@
 - [Virgo](https://github.com/r2d4/virgo) - Graph-based Declarative Configuration Language. ([Article](https://matt-rickard.com/virgo-lang/))
 - [Configuration (and configuration files) is not and cannot be generic (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigurationIsNotGeneric) ([Lobsters](https://lobste.rs/s/v8iqgb/configuration_configuration_files_is))
 - [Quinine](https://github.com/krandiash/quinine) - Library to create and manage configuration files, especially for machine learning projects.
+- [The KDL Document Language](https://kdl.dev/) ([HN](https://news.ycombinator.com/item?id=28510031))

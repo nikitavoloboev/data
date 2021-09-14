@@ -23,3 +23,4 @@
 - [DRuntime](https://github.com/dlang/druntime) - Low level runtime library for the D programming language.
 - [Phobos](https://github.com/dlang/phobos) - Standard library of the D programming language.
 - [LWDR](https://github.com/hmmdyl/LWDR) - LightWeight D Runtime targeting ARM Cortex CPUs.
+- [Spasm](https://github.com/skoppe/spasm) - Write single page applications in D that compile to WebAssembly.

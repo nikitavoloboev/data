@@ -212,3 +212,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [near-sdk](https://github.com/near/near-sdk-rs) - Rust library for writing NEAR smart contracts.
 - [Alexander Skidanov on UX in Blockchain Applications (2019)](https://www.youtube.com/watch?v=V1pOgeUESBc) ([Tweet](https://twitter.com/AlexSkidanov/status/1392588265425825792))
 - [Check My NFT](https://checkmynft.com/) - NFT asset permanence checker. ([Code](https://github.com/theweaver19/checkmynft))
+- [Overcoming Web3 Bias (2021)](https://every.to/divinations/overcoming-web3-bias)

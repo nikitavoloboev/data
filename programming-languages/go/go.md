@@ -534,3 +534,4 @@ Go promotes composition over inheritance.
 - [Go pattern: graceful shutdown of concurrent events (2020)](https://www.rodrigoaraujo.me/posts/golang-pattern-graceful-shutdown-of-concurrent-events/)
 - [The Go Programming Language Book (2015)](http://www.gopl.io/) ([Code](https://github.com/adonovan/gopl.io))
 - [Cloud Native Go Book (2021)](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/) ([Code](https://github.com/cloud-native-go/examples))
+- [Go’ing Insane: Endless Error Handling (2021)](https://jesseduffield.com/Gos-Shortcomings-1/) ([HN](https://news.ycombinator.com/item?id=28522269))
