@@ -432,3 +432,4 @@
 - [Kalm](https://github.com/kalmhq/kalm) - Ready to use internal tools for your Kubernetes cluster. ([Web](https://kalm.dev/))
 - [Kubernetes Best Practices 101](https://github.com/diegolnasc/kubernetes-best-practices)
 - [Shipwright](https://github.com/shipwright-io/build) - Extensible framework for building container images on Kubernetes.
+- [Kustomizer](https://github.com/stefanprodan/kustomizer) - Build, diff, apply, prune command-line utility for Kubernetes manifests and Kustomize overlays. Powered by Kubernetes server-side apply. ([Web](https://kustomizer.dev/))

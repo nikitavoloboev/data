@@ -134,3 +134,4 @@
 - [Ask HN: Managing career progression for those with no interest in progressing? (2021)](https://news.ycombinator.com/item?id=28287617)
 - [Why We Don't Do Daily Stand-Ups at Supercede](https://jezenthomas.com/why-we-dont-do-daily-stand-ups-at-supercede/) ([Lobsters](https://lobste.rs/s/fear8c/why_we_don_t_do_daily_stand_ups_at_supercede))
 - [A Guide to Becoming a Tech Lead (2021)](https://coding-time.co/tech-lead-guide/)
+- [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) ([HN](https://news.ycombinator.com/item?id=28515579))
