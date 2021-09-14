@@ -80,3 +80,4 @@
 - [Monads in Scala: A Way to Generalize Chained Computations (2021)](https://www.youtube.com/watch?v=a0C-RrncrYA)
 - [setup-everything-scala](https://github.com/japgolly/setup-everything-scala) - GitHub Action to prepare the environment for Scala & Scala.JS dev and testing.
 - [10+ Best Scala Tutorials for Beginners (2021)](https://medium.com/quick-code/top-tutorials-to-learn-scala-3a221bf4ef85)
+- [Scala 3: What’s Changed Since Scala 3.0.0 (2021)](https://medium.com/scala-3/scala-3-whats-changed-since-scala-3-0-0-be0830c059f5)

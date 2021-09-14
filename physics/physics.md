@@ -241,3 +241,4 @@
 - [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
 - [Why can’t I go faster than the speed of light? (2009)](https://gravityandlevity.wordpress.com/2009/04/08/why-cant-i-go-faster-than-the-speed-of-light-hints-from-electrodynamics/) ([HN](https://news.ycombinator.com/item?id=28502084))
 - [How can electrons be “topological”? (2020)](https://gravityandlevity.wordpress.com/2020/07/14/how-can-electrons-be-topological/)
+- [Scientists Create Matter From Pure Light, Proving the Breit-Wheeler Effect (2021)](https://science-news.co/scientists-create-matter-from-pure-light-proving-the-breit-wheeler-effect/) ([Reddit](https://www.reddit.com/r/Physics/comments/pnqvwd/scientists_create_matter_from_pure_light_proving/))
