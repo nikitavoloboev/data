@@ -2,7 +2,7 @@
 
 The entire wiki is one folder that you can find on [GitHub](https://github.com/nikitavoloboev/knowledge). It has many folders with subfolders or entries inside.
 
-The order with which GitBook renders the files in the sidebar to your left is defined in [SUMMARY.md](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md).
+The order with which GitBook renders the files in the sidebar to your left is defined in [SUMMARY.md](https://github.com/nikitavoloboev/knowledge/blob/main/SUMMARY.md).
 
 I write and edit all the markdown files in this wiki from [Sublime Text](../text-editors/sublime-text/sublime-text.md) with [Vim mode](https://github.com/guillermooo/Six).
 
