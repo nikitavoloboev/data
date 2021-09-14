@@ -149,3 +149,4 @@
 - [Code search guide](https://codesearchguide.org/) - Everything you ever wanted to know about code search. ([Code](https://github.com/sourcegraph/codesearchguide.org))
 - [Aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for. ([Docs](https://docs.alephdata.org/))
 - [MeiliSearch: A Minimalist Full-Text Search Engine (2021)](https://tech.marksblogg.com/meilisearch-full-text-search.html) ([HN](https://news.ycombinator.com/item?id=28187675))
+- [Custom Search Engine Built on Searx (2021)](https://jpreston.xyz/custom-search-engine.html) ([HN](https://news.ycombinator.com/item?id=28509997))
