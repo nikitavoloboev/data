@@ -259,3 +259,4 @@
 - [A Visual Guide to React Rendering (2021)](https://alexsidorenko.com/blog/react-render-always-rerenders/) ([HN](https://news.ycombinator.com/item?id=28239692))
 - [React render tracker](https://github.com/lahmatiy/react-render-tracker) - Tool to discover performance issues related to unintended re-renders.
 - [Tips for structuring React apps (2021)](https://www.reddit.com/r/reactjs/comments/pecpou/where_can_i_learn_to_structure_my_code_like_a_pro/)
+- [Alt + Click on rendered JSX to open it's source code in VSCode](https://github.com/siddharthkp/babel-plugin-open-source)
