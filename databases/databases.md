@@ -161,6 +161,7 @@
 - [BerylDB](https://github.com/beryldb/beryldb) - A data structure data manager that can be used to store data as key-value entries. ([Docs](https://docs.beryl.dev/))
 - [Hyrise](https://github.com/hyrise/hyrise) - Research in-memory database. ([Web](https://hpi.de/plattner/projects/hyrise.html))
 - [Apache Doris](http://doris.incubator.apache.org/master/en/) - Fast MPP database for all modern analytics on big data. ([Code](https://github.com/apache/incubator-doris))
+- [Vertica](https://www.vertica.com/) - Big Data Analytics On-Premises, in the Cloud, or on Hadoop. ([Getting Started with Vertica](https://www.babbling.fish/vertica-survival-guide/))
 
 ## Tools
 

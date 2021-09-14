@@ -95,3 +95,4 @@
 - [Product Chart](https://www.productchart.com/) - Visual approach to product discovery.
 - [Medusa](https://www.medusa-commerce.com/) - Open-source alternative to Shopify. ([HN](https://news.ycombinator.com/item?id=28481913)) ([Code](https://github.com/medusajs/medusa))
 - [Geizhals](https://geizhals.eu/) - Tech Product Price Comparison and Tracking. ([HN](https://news.ycombinator.com/item?id=28490656))
+- [Droppa](https://www.droppa.com/) - Returns made better.
