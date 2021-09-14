@@ -204,6 +204,7 @@
 - [Vechai UI](https://github.com/vechai/vechaiui) - Collection of Accessible React UI Components using TailwindCSS. ([Docs](https://www.vechaiui.com/))
 - [vazco/uniforms](https://github.com/vazco/uniforms) - Set of React libraries for building forms from every schema. ([Web](https://uniforms.tools/))
 - [React Fullscreen Image](https://github.com/timc1/react-fullscreen-image) - Accessible, fast, and snappy full screen React image viewer.
+- [React Sizeme](https://github.com/ctrlplusb/react-sizeme) - Make your React Components aware of their width and height.
 
 ## Links
 
