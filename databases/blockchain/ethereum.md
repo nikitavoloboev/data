@@ -287,3 +287,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Solidity Template](https://github.com/ZumZoom/solidity-template) - Hardhat template for solidity projects with preconfigured Github Actions and Coveralls support.
 - [Otterscan](https://github.com/wmitsuda/otterscan) - Blazingly fast, local, Ethereum block explorer built on top of Erigon.
 - [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html) ([Code](https://github.com/sigp/solidity-security-blog))
+- [How We Proved the Eth2 Deposit Contract Is Free of Runtime Errors (2021)](https://consensys.net/blog/ethereum-2-0/20039/) ([HN](https://news.ycombinator.com/item?id=28494885))
