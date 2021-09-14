@@ -94,3 +94,4 @@
 - [Polymorph](https://github.com/notoriousb1t/polymorph) - Morph SVG Paths. ([Docs](https://notoriousb1t.github.io/polymorph-docs/))
 - [scribby](https://github.com/naknomum/scribby) - JavaScript library which lets users draw simple "scribbles" on a web page.
 - [Fire SVG animations (SMIL) when the SVG is visible (2021)](https://www.zachleat.com/web/svg-animate/)
+- [Drauu](https://drauu.netlify.app/) - Headless SVG-based drawboard in browser. ([Code](https://github.com/antfu/drauu))
