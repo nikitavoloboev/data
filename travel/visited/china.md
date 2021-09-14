@@ -45,3 +45,5 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Why didn't Communism Collapse in China as in other countries? (2020)](https://www.youtube.com/watch?v=JRcckYRWSVU)
 - [China Wants Manufacturing—Not the Internet—to Lead the Economy (2021)](https://www.wsj.com/articles/china-wants-manufacturingnot-the-internetto-lead-the-economy-11628078155) ([Reddit](https://www.reddit.com/r/geopolitics/comments/pflrx1/china_wants_manufacturingnot_the_internetto_lead/))
 - [China’s Western Horizon: Beijing and the New Geopolitics of Eurasia | Daniel Markey (2021)](https://overcast.fm/+bbjkoyP9c)
+- [The Significance of Evolving Sino-Russian Relations with Alexander Gabuev (2021)](https://china-global.simplecast.com/episodes/the-significance-of-evolving-sino-russian-relations-with-alexander-gabuev)
+- [China Global Podcast](https://china-global.simplecast.com/)

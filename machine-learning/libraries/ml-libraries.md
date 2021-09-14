@@ -191,3 +191,4 @@
 - [WILDS](https://github.com/p-lambda/wilds) - Machine learning benchmark of in-the-wild distribution shifts, with data loaders, evaluators, and default models.
 - [TurboTransformers](https://github.com/Tencent/TurboTransformers) - Fast and user-friendly runtime for transformer inference on CPU and GPU.
 - [DeepOps](https://github.com/kartik4949/deepops) - Mini Deep Learning framework supporting GPU accelerations written with CUDA.
+- [Bayex](https://github.com/alonfnt/bayex) - Bayesian Optimization Python Library powered by JAX.
