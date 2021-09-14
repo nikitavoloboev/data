@@ -82,3 +82,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Is education no longer the ‘great equalizer’? (2021)](https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html) ([HN](https://news.ycombinator.com/item?id=27603039))
 - [Master’s degrees are the second biggest scam in higher education? (2021)](https://slate.com/business/2021/07/masters-degrees-debt-loans-worth-it.html) ([HN](https://news.ycombinator.com/item?id=27865241))
 - [A generation of American men give up on college (2021)](https://www.wsj.com/articles/college-university-fall-higher-education-men-women-enrollment-admissions-back-to-school-11630948233) ([HN](https://news.ycombinator.com/item?id=28436836))
+- [Information Engineering in Cambridge (2021)](https://www.youtube.com/watch?v=j-qBpk2c5fw)

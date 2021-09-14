@@ -926,6 +926,7 @@
 - [Conform](https://github.com/leebenson/conform) - Trim, sanitize, and modify struct string fields in place, based on tags.
 - [cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go.
 - [Jade](https://github.com/Joker/jade) - Pug template engine for Go.
+- [asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs.
 
 ## Links
 

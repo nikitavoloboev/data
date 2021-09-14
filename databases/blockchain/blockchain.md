@@ -19,7 +19,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Blockstack](https://blockstack.org/) - Decentralized apps on Blockstack let you own your data so you can maintain your privacy, security and freedom.
 - [Cardano](https://github.com/input-output-hk/cardano-sl/) - Cryptographic currency implementing Ouroboros PoS protocol.
 - [Iden3](https://iden3.io/) - Decentralized identity management solution.
-- [Gnosis](https://gnosis.io/) - Through blockchain-based, decentralized platforms, we enable the redistribution of resources—from assets to incentives, and information to ideas.
+- [Gnosis](https://gnosis.io/) - Builds new market mechanisms for decentralized finance. ([GitHub](https://github.com/gnosis))
 - [Digital Asset](https://digitalasset.com/) - Automate and synchronize business processes.
 - [Purple Protocol](https://purpleprotocol.org/) - Global Decentralized Ledger Infrastructure.
 - [Slingshot](https://github.com/stellar/slingshot) - New blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
@@ -213,3 +213,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Alexander Skidanov on UX in Blockchain Applications (2019)](https://www.youtube.com/watch?v=V1pOgeUESBc) ([Tweet](https://twitter.com/AlexSkidanov/status/1392588265425825792))
 - [Check My NFT](https://checkmynft.com/) - NFT asset permanence checker. ([Code](https://github.com/theweaver19/checkmynft))
 - [Overcoming Web3 Bias (2021)](https://every.to/divinations/overcoming-web3-bias)
+- [Polywrap](https://polywrap.io/#/) - Universal Web3 Integration Standard. ([Code](https://github.com/polywrap/monorepo))

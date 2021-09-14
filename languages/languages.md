@@ -37,3 +37,4 @@
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [The Fastest Way to Learn a New Language: The Video Game Map Theory (2021)](https://www.youtube.com/watch?v=3i1lNJPY-4Q)
 - [Forgetting My First Language (2021)](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language) ([HN](https://news.ycombinator.com/item?id=28411104))
+- [Speaking Latin (2021)](https://psyche.co/ideas/speaking-latin-brings-an-unmediated-thrill-to-the-classics) ([HN](https://news.ycombinator.com/item?id=28510232))
