@@ -60,3 +60,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Halving the TezEdge node’s memory usage with an eBPF-based memory profiler (2021)](https://medium.com/tezedge/halving-the-tezedge-nodes-memory-usage-with-an-ebpf-based-memory-profiler-2bfd32f94f69)
 - [Tezos k8s](https://github.com/tqtezos/tezos-k8s) - Deploy a Tezos Blockchain on Kubernetes.
 - [Tezos Homebase](https://github.com/dOrgTech/homebase-app) - Platform designed to let users create and manage DAOs on the Tezos blockchain.
+- [Baking Bad](https://baking-bad.org/) - Tezos Staking Rewards Auditor. ([Docs](https://baking-bad.org/docs/)) ([GitHub](https://github.com/baking-bad))

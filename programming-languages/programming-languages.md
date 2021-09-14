@@ -232,3 +232,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Weird Languages (2021)](http://paulgraham.com/weird.html) ([HN](https://news.ycombinator.com/item?id=28336891))
 - [Glean](https://github.com/facebookincubator/Glean) - System for collecting, deriving and working with facts about source code. ([Web](https://glean.software/)) ([HN](https://news.ycombinator.com/item?id=28365880))
 - [Guesslang](https://github.com/yoeo/guesslang) - Detects the programming language of a given source code. ([Docs](https://guesslang.readthedocs.io/en/latest/))
+- [Dispatch Techniques](http://www.cs.toronto.edu/~matz/dissertation/matzDissertation-latex2html/node6.html) ([Lobsters](https://lobste.rs/s/ux0e7f/dispatch_techniques))

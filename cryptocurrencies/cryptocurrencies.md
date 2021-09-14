@@ -127,3 +127,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Trust Wallet Assets Info](https://github.com/trustwallet/assets) - Comprehensive, up-to-date collection of information about several thousands of crypto tokens.
 - [Particl.io](https://particl.io/) - Privacy Platform & Marketplace on Blockchain. Fully decentralized p2p marketplace.
 - [No, your cryptocurrency cannot work (2021)](https://gist.github.com/joepie91/daa93b9686f554ac7097158383b97838)
+- [The risks of staking for the long-term crypto environment (2021)](https://www.reddit.com/r/CryptoTechnology/comments/pnzv9o/the_risks_of_staking_for_the_longterm_crypto/)
