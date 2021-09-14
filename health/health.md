@@ -55,3 +55,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [The Secret 3-Step Master Plan to Cure Healthcare (2021)](https://www.notboring.co/p/the-secret-3-step-master-plan-to)
 - [NexHealth](https://www.nexhealth.com/) - Real-Time Patient Booking Platform.
 - [On the link between great thinking and obsessive walking (2021)](https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/) ([HN](https://news.ycombinator.com/item?id=28268136))
+- [Tia](https://asktia.com/) - Modern female healthcare — including gynecology services, STI (aka STD testing,) primary care, annual physicals, and more.

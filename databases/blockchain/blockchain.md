@@ -43,11 +43,16 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Loot](https://www.lootproject.com/) - Randomized adventurer gear generated and stored on chain. Stats, images, and other functionality are intentionally omitted for others to interpret. ([Web Code](https://github.com/lootproject/website))
 - [1inch Network](https://1inch.io/) - Distributed network for decentralized protocols. ([Twitter](https://twitter.com/1inch))
 
+## Interesting NFTs
+
+- [5 Minutes of Fame NFT](https://twitter.com/ShaanVP/status/1437808708998688774) - Buy this NFT & get 5 min air time on podcast.
+
 ## Notes
 
 - [As blockchain scalability gets better and better, and UX improves and fees drop as a result, this will become a bigger and bigger part of the story.](https://twitter.com/vitalikbuterin/status/1072158957999771648)
 - [For any given file on the internet, it is unknowable now many NFTs might be pointing to it. So putting aside all the questions about what "ownership" actually means in this context (spoiler: almost nothing), it's not possible to know who owns a file just by looking at the file.](https://twitter.com/felixsalmon/status/1381616082868436992)
 - [NFTs are being wash traded. That’s when the buyer and the seller are secretly the same person.](https://twitter.com/JWWeatherman_/status/1431373325842923527)
+- [Keep L1 simple and decentralized and scale on L2.](https://twitter.com/latetot/status/1437794513389592587)
 
 ## Links
 

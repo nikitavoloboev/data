@@ -470,6 +470,7 @@
 - [ETNA](https://github.com/tinkoff-ai/etna-ts) - Easy-to-use time series forecasting framework.
 - [Pedalboard](https://github.com/spotify/pedalboard) - Spotify’s Audio Effects Library for Python. ([Article](https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/)) ([HN](https://news.ycombinator.com/item?id=28458930))
 - [Pypandoc](https://github.com/NicklasTegner/pypandoc) - Provides a thin wrapper for pandoc, a universal document converter.
+- [Darts](https://github.com/unit8co/darts) - Python library for easy manipulation and forecasting of time series.
 
 ## Links
 

@@ -3,6 +3,7 @@
 ## Interesting
 
 - [Cat Cardigan](https://www.etsy.com/listing/855368476/cat-cardigan-vintage-christine-foley)
+- [Girl hunter](https://twitter.com/bebevoid/status/1437585105900511239)
 
 ## Collections
 
@@ -12,6 +13,7 @@
 - [Christmas creatures at Moesgaard](https://www.moesgaardmuseum.dk/en/news/christmas-creatures-at-moesgaard/)
 - [RODARTE SS21](https://twitter.com/coldtakesonly/status/1307540898394386437)
 - [Christian Dior Spring 2021 Ready-to-Wear Collection | Vogue](https://www.vogue.com/fashion-shows/spring-2021-ready-to-wear/christian-dior)
+- [Met Gala 2018](https://twitter.com/_red_jesus_/status/1437650217948549123) - 2021 is great too.
 
 ## Notes
 

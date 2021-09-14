@@ -74,3 +74,4 @@
 - [CMake Part 1 - The Dark Arts (2021)](https://blog.feabhas.com/2021/07/cmake-part-1-the-dark-arts/)
 - [unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, and Webpack.
 - [Build Server Protocol](https://github.com/build-server-protocol/build-server-protocol) - Protocol for IDEs and build tools to communicate about compile, run, test, debug and more. ([Web](https://build-server-protocol.github.io/))
+- [Reflecting on the Shake Build System (2021)](https://neilmitchell.blogspot.com/2021/09/reflecting-on-shake-build-system.html)
