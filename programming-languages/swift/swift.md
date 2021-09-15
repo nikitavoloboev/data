@@ -230,3 +230,4 @@
 - [Opaque Return Types and Type Erasure (2021)](https://www.raywenderlich.com/24942207-opaque-return-types-and-type-erasure)
 - [Preventing Data Races Using Actors in Swift (2021)](https://swiftsenpai.com/swift/actor-prevent-data-race/)
 - [Codable synthesis for Swift enums (2021)](https://www.swiftbysundell.com/articles/codable-synthesis-for-swift-enums/)
+- [Creating a command line tool using the Swift Package Manager (2021)](https://www.avanderlee.com/swift/command-line-tool-package-manager/)

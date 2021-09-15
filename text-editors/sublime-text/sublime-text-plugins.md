@@ -60,6 +60,10 @@ Below is a list of plugins I use.
 
 - [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Provides several features that simplify working with LaTeX files.
 
+## Clojure
+
+- [Pep](https://github.com/pedrorgirardi/Pep) - Elemental Clojure & ClojureScript code navigation, documentation, and usages analysis for Sublime Text.
+
 ## Lint
 
 - [Linter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.

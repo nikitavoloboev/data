@@ -37,3 +37,4 @@
 - [A Dyson sphere around a black hole (2021)](https://arxiv.org/abs/2106.15181) ([HN](https://news.ycombinator.com/item?id=28230092))
 - [The Map of Black Holes | Your Ultimate Guide to Black Holes (2021)](https://www.youtube.com/watch?v=Wf0uxjWGwPk)
 - [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole (2021)](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/) ([HN](https://news.ycombinator.com/item?id=28466027))
+- [‎Black Holes: The Edge of All We Know (2020)](https://letterboxd.com/film/black-holes-the-edge-of-all-we-know/)
