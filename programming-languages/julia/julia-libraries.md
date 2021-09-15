@@ -277,6 +277,8 @@
 - [Fastnet.jl](https://github.com/bridgewalker/Fastnet.jl) - Julia package that allows very fast (linear-time) simulation of discrete-state dynamical processes on networks, such as commonly studied models of epidemics.
 - [DataSets](https://github.com/JuliaComputing/DataSets.jl) - Helps make data wrangling code more reusable.
 - [ResourceContexts](https://github.com/c42f/ResourceContexts.jl) - Safe resource handling for Julia, without the do blocks.
+- [MacroTools](https://github.com/FluxML/MacroTools.jl) - Tools for working with Julia code and expressions.
+- [FromFile](https://github.com/Roger-luo/FromFile.jl) - Exports a macro @from, which can be used to import objects from files.
 
 ## Links
 
