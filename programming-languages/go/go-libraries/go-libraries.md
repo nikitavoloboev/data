@@ -927,6 +927,7 @@
 - [cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go.
 - [Jade](https://github.com/Joker/jade) - Pug template engine for Go.
 - [asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs.
+- [Dragonboat](https://github.com/lni/dragonboat) - High performance multi-group Raft consensus library in pure Go.
 
 ## Links
 

@@ -190,3 +190,4 @@
 - [SIMD proposal for WebAssembly](https://github.com/WebAssembly/simd)
 - [wasm-bindgen-rayon](https://github.com/GoogleChromeLabs/wasm-bindgen-rayon) - Adapter for enabling Rayon-based concurrency on the Web with WebAssembly.
 - [Wasmer-JS](https://github.com/wasmerio/wasmer-js) - Mono-repo of multiple JavaScript packages enabling easy use of WebAssembly Modules in Node and the Browser.
+- [foxwren](https://github.com/malcolmstill/foxwren) - WebAssembly runtime in Zig.
