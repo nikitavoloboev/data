@@ -170,3 +170,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Santa](https://github.com/google/santa) - Binary authorization system for macOS. ([Docs](https://santa.dev/))
 - [Rudolph](https://github.com/airbnb/rudolph) - Control server counterpart of Santa, and is used to rapidly deploy configurations to Santa agents.
 - [macOS persistence – Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond/) ([HN](https://news.ycombinator.com/item?id=28498058))
+- [macOS Security Compliance](https://github.com/usnistgov/macos_security) - Open source effort to provide a programmatic approach to generating security guidance.

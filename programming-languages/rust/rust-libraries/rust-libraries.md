@@ -953,6 +953,7 @@
 - [system-interface](https://github.com/bytecodealliance/system-interface) - Extensions to the Rust standard library.
 - [utf8-io](https://github.com/sunfishcode/utf8-io) - Traits and types for UTF-8 I/O.
 - [avro-rs](https://github.com/flavray/avro-rs) - Library for working with Apache Avro in Rust.
+- [Rust Amplify](https://github.com/LNP-BP/rust-amplify) - Amplifying Rust language capabilities: multiple generic trait implementations, type wrappers, derive macros.
 
 ## Cargo Plugins
 

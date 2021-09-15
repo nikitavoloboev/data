@@ -160,3 +160,4 @@
 - [Grok](https://github.com/ui-js/grok) - Turns a TypeScript declaration file into a beautiful, readable, web page.
 - [my-ts-lib](https://github.com/egoist/ts-lib-starter) - Minimal TypeScript library starter.
 - [typescript-npm-package-template](https://github.com/ryansonshine/typescript-npm-package-template) - Template to kickstart creating a Node.js module using TypeScript and VSCode.
+- [typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown) - Plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.

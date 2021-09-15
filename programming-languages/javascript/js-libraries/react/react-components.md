@@ -205,6 +205,8 @@
 - [vazco/uniforms](https://github.com/vazco/uniforms) - Set of React libraries for building forms from every schema. ([Web](https://uniforms.tools/))
 - [React Fullscreen Image](https://github.com/timc1/react-fullscreen-image) - Accessible, fast, and snappy full screen React image viewer.
 - [React Sizeme](https://github.com/ctrlplusb/react-sizeme) - Make your React Components aware of their width and height.
+- [NextUI](https://nextui.org/) - Beautiful, fast,modern React UI Library. ([Code](https://github.com/nextui-org/nextui))
+- [React Date Picker](https://github.com/Hacker0x01/react-datepicker) - Simple and reusable Datepicker component for React. ([Web](https://reactdatepicker.com/))
 
 ## Links
 

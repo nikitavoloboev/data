@@ -42,7 +42,7 @@
 - [Coordination, Good and Bad (2020)](https://vitalik.ca/general/2020/09/11/coordination.html) ([HN](https://news.ycombinator.com/item?id=24449629))
 - [The unrealized potential of federation (2020)](https://drewdevault.com/2020/09/20/The-potential-of-federation.html) ([HN](https://news.ycombinator.com/item?id=24534148))
 - [Spritely](https://spritelyproject.org/) - Project to level up the federated social web. ([Lobsters](https://lobste.rs/s/whaf2t/spritely))
-- [Filecoin](https://filecoin.io/) - Decentralized storage network for humanity's most important information. ([Tweet](https://twitter.com/smdiehl/status/1318143467613192194)) ([What Information Should we be Preserving in Filecoin?](https://blog.archive.org/2020/10/22/what-information-should-we-be-preserving-in-filecoin/)) ([Review](https://www.reddit.com/r/Arweave/comments/m14o0a/disappointed_by_filecoin/)) ([How storage and retrieval deals work on Filecoin](https://filecoin.io/blog/posts/how-storage-and-retrieval-deals-work-on-filecoin/))
+- [Filecoin](https://filecoin.io/) - Decentralized storage network for humanity's most important information. ([Tweet](https://twitter.com/smdiehl/status/1318143467613192194)) ([What Information Should we be Preserving in Filecoin?](https://blog.archive.org/2020/10/22/what-information-should-we-be-preserving-in-filecoin/)) ([Review](https://www.reddit.com/r/Arweave/comments/m14o0a/disappointed_by_filecoin/)) ([How storage and retrieval deals work on Filecoin](https://filecoin.io/blog/posts/how-storage-and-retrieval-deals-work-on-filecoin/)) ([GitHub](https://github.com/filecoin-project)) ([Community](https://github.com/filecoin-project/community))
 - [Lotus](https://github.com/filecoin-project/lotus) - Implementation of the Filecoin Distributed Storage Network.
 - [Forest](https://github.com/ChainSafe/forest) - Rust Filecoin Node Implementation.
 - [witnet-rust](https://github.com/witnet/witnet-rust) - Open source implementation of the Witnet Decentralized Oracle Network protocol written in Rust.
@@ -71,3 +71,4 @@
 - [Web3 Is a Stupid Idea (2020)](https://timdaub.github.io/2020/09/08/web3/) ([HN](https://news.ycombinator.com/item?id=28457762))
 - [The Value Chain of the Open Metaverse (2021)](https://www.notboring.co/p/the-value-chain-of-the-open-metaverse)
 - [EU Funding for Dev Tools for the Decentralized Web (2021)](https://httptoolkit.tech/blog/developer-tools-decentralized-web/) ([HN](https://news.ycombinator.com/item?id=28537841))
+- [SimpleX chat](https://simplex.chat/) - Private, decentralized, no global identities. ([Code](https://github.com/simplex-chat/simplex-chat)) ([GitHub](https://github.com/simplex-chat))

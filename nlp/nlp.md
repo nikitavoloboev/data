@@ -341,3 +341,4 @@
 - [NERDA](https://github.com/ebanalyse/NERDA) - Framework for fine-tuning pretrained transformers for Named-Entity Recognition (NER) tasks.
 - [Data Augmentation Techniques for NLP](https://github.com/styfeng/DataAug4NLP)
 - [Feed forward VQGAN-CLIP model](https://github.com/mehdidc/feed_forward_vqgan_clip)
+- [Yet Another Keyword Extractor (Yake)](https://github.com/LIAAD/yake) - Unsupervised Approach for Automatic Keyword Extraction using Text Features.
