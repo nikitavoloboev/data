@@ -66,3 +66,4 @@
 - [An Introduction to JQ (2021)](https://earthly.dev/blog/jq-select/) ([HN](https://news.ycombinator.com/item?id=28297232))
 - [JSON Joy](https://github.com/streamich/json-joy) - JSON utilities. Libraries for collaborative editing with OT and CRDT approaches.
 - [JSON Schema bundling formalized (2021)](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents) ([HN](https://news.ycombinator.com/item?id=28479464))
+- [Awesome JSON Schema](https://github.com/jviotti/awesome-jsonschema)
