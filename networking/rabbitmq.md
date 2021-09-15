@@ -18,3 +18,4 @@
 - [Coworkers](https://github.com/tjmehta/coworkers) - RabbitMQ microservice framework.
 - [How to use RabbitMQ in service integration (2021)](https://www.erlang-solutions.com/blog/how-to-use-rabbitmq-in-service-integration/)
 - [RabbitMQ Streams Overview (2021)](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/) ([HN](https://news.ycombinator.com/item?id=27825889))
+- [Offset Tracking with RabbitMQ Streams (2021)](https://blog.rabbitmq.com/posts/2021/09/rabbitmq-streams-offset-tracking/)
