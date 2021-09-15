@@ -219,3 +219,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Check My NFT](https://checkmynft.com/) - NFT asset permanence checker. ([Code](https://github.com/theweaver19/checkmynft))
 - [Overcoming Web3 Bias (2021)](https://every.to/divinations/overcoming-web3-bias)
 - [Polywrap](https://polywrap.io/#/) - Universal Web3 Integration Standard. ([Code](https://github.com/polywrap/monorepo))
+- [‎Black Holes: The Edge of All We Know (2020)](https://letterboxd.com/film/black-holes-the-edge-of-all-we-know/)
