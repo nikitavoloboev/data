@@ -128,6 +128,7 @@
 - [Monad Tutorial](https://cuddly-octo-palm-tree.com/tags/monad-tutorial/)
 - [Monads are monoids in the category of endofunctors](https://sambernheim.com/#/blog/monads-are-monoids-in-the-category-of-endofunctors) ([HN](https://news.ycombinator.com/item?id=28466676))
 - [Functional programming is not popular because it is weird (2016)](https://probablydance.com/2016/02/27/functional-programming-is-not-popular-because-it-is-weird/) ([HN](https://news.ycombinator.com/item?id=28513703))
+- [List Homomorphisms and Parallelism](https://sigkill.dk/writings/par/lhomo.html) ([HN](https://news.ycombinator.com/item?id=28520476))
 
 ## Images
 

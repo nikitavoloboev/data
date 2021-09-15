@@ -15,3 +15,4 @@
 - [Should I Get a House?](https://shouldigetahouse.com/) - Better rent vs. buy calculator. ([HN](https://news.ycombinator.com/item?id=27882355))
 - [How home ownership can bring out the worst in people (2021)](https://www.vox.com/the-goods/22597947/homeowner-nimby-affordable-housing-local)
 - [Jasper](https://www.jasper.io/) - Smarter, Better Way to Invest in Commercial Real Estate.
+- [The Housing Theory of Everything (2021)](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/) ([HN](https://news.ycombinator.com/item?id=28531025))

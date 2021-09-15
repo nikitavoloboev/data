@@ -320,3 +320,5 @@
 - [Memory analyzer for running python processes](https://github.com/facebookincubator/memory-analyzer)
 - [Darglint](https://github.com/terrencepreilly/darglint) - Python documentation linter which checks that the docstring description matches the definition.
 - [Poe the Poet](https://github.com/nat-n/poethepoet) - Task runner that works well with poetry.
+- [Python Anti-Pattern](https://valinsky.me/articles/python-anti-pattern/) ([HN](https://news.ycombinator.com/item?id=28534196))
+- [Unravelling `Async for` Loops (2021)](https://snarky.ca/unravelling-async-for-loops/) ([HN](https://news.ycombinator.com/item?id=28509391))

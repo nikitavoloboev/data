@@ -118,3 +118,5 @@
 - [Probability and Its Applications Book](https://people.bordeaux.inria.fr/pierre.delmoral/gips.html)
 - [Mean Field Simulation for Monte Carlo Integration (2013)](https://www.routledge.com/Mean-Field-Simulation-for-Monte-Carlo-Integration/Del-Moral/p/book/9781466504059)
 - [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/) ([HN](https://news.ycombinator.com/item?id=28252165))
+- [Effect size is significantly more important than statistical significance (2021)](http://www.argmin.net/2021/09/13/effect-size/) ([HN](https://news.ycombinator.com/item?id=28526909))
+- [How percentile approximation works and why it's more useful than averages (2021)](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/) ([HN](https://news.ycombinator.com/item?id=28526966))

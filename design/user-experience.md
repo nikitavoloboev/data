@@ -111,3 +111,4 @@
 - [Reflect Onboarding](https://twitter.com/maccaw/status/1422590722012852231)
 - [The Rise Of User-Hostile Software (2021)](https://den.dev/blog/user-hostile-software/) ([HN](https://news.ycombinator.com/item?id=28291478))
 - [How I Experience Web Today](https://how-i-experience-web-today.com/) ([HN](https://news.ycombinator.com/item?id=28280051))
+- [Software should convey a sense of calm](https://patrickjuchli.com/en/posts/learning-experience/) ([HN](https://news.ycombinator.com/item?id=28511881))
