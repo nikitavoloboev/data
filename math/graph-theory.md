@@ -40,7 +40,7 @@
 - [The Easiest Unsolved Problem in Graph Theory (2021)](https://medium.com/cantors-paradise/the-easiest-unsolved-problem-in-graph-theory-fa3a7f26181b)
 - [NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data.
 - [New Proof Reveals That Graphs with No Pentagons Are Fundamentally Different (2021)](https://www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/) ([HN](https://news.ycombinator.com/item?id=26943468))
-- [Geometric Deep Learning](https://geometricdeeplearning.com/) - Grids, Graphs, Groups, Geodesics, and Gauges. ([Tweet](https://twitter.com/PetarV_93/status/1387441776793882627))
+- [Geometric Deep Learning](https://geometricdeeplearning.com/) - Grids, Graphs, Groups, Geodesics, and Gauges. ([Tweet](https://twitter.com/PetarV_93/status/1387441776793882627)) ([Lectures](https://geometricdeeplearning.com/lectures/))
 - [Constructions in combinatorics via neural networks (2021)](https://arxiv.org/pdf/2104.14516.pdf) ([Tweet](https://twitter.com/wtgowers/status/1388458562775654401))
 - [Kite](https://erkal.github.io/kite/) - Interactive visualization tool for graph theory. ([Code](https://github.com/erkal/kite)) ([HN](https://news.ycombinator.com/item?id=28516064))
 - [Spaghetti](https://github.com/pysal/spaghetti) - Open-source Python library for the analysis of network-based spatial data. ([Web](https://pysal.org/spaghetti/))
