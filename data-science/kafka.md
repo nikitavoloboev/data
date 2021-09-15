@@ -60,3 +60,4 @@
 - [Building a Kafka based key-value store in Rust (2021)](https://blog.whn.se/posts/building-a-kafka-backed-key-value-store-in-rust-part-1-the-design)
 - [The basics you need to know about Kafka [Graphic Explanation]](https://www.pankajtanwar.in/blog/the-basics-you-need-to-know-about-kafka-graphic-explanation-ahead)
 - [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams) - Python implementation of Apache Kafka Streams.
+- [Kafka Rust Example](https://github.com/ansrivas/kafka-rust-example) - Simple command line application to read/write message to kafka topic using protobuf.
