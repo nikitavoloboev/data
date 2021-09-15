@@ -594,6 +594,7 @@
 - [Borsh JS](https://github.com/near/borsh-js) - TypeScript/JavaScript implementation of Binary Object Representation Serializer for Hashing.
 - [set-value](https://github.com/jonschlinkert/set-value) - Set nested properties on an object using dot-notation.
 - [parquet.js](https://github.com/ironSource/parquetjs) - Fully asynchronous, pure JavaScript implementation of the Parquet file format.
+- [jlottie](https://github.com/LottieFiles/jlottie) - Small-footprint lottie player in JavaScript.
 
 ## Links
 
