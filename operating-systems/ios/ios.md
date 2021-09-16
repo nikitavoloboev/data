@@ -347,3 +347,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Everything has Changed in iOS 14, but Jailbreak is Eternal (2021)](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Everything-Has-Changed-In-IOS-14-But-Jailbreak-Is-Eternal.pdf)
 - [Bypassing hotspot limits on iOS (2021)](https://blog.cyrusroshan.com/post/phone-data-hotspot)
 - [iOS Engine Choice In Depth (2021)](https://infrequently.org/2021/08/webkit-ios-deep-dive/)
+- [iOS on QEMU](https://github.com/alephsecurity/xnu-qemu-arm64) ([HN](https://news.ycombinator.com/item?id=28551264))

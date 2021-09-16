@@ -145,6 +145,7 @@
 - [Yield Machine](https://github.com/RoyalIcing/yieldmachine) - Define State Machines using Generator Functions.
 - [KBar](https://github.com/timc1/kbar) - Add a fast, portable, and extensible command+k interface to your site. ([Web](https://kbar.vercel.app/)) ([Tweet](https://twitter.com/timcchang/status/1437393810049359872))
 - [Postel](https://github.com/timc1/postel) - Tiny library for building tooltips, flyovers, menus and more in React. ([Article](https://www.timcchang.com/posts/postel))
+- [pattern-matching](https://github.com/Dkendal/pattern-match.js) - Provides pattern matching features typically found in functional languages like Elixir/Erlang, ML, F#, etc.
 
 ## Links
 
