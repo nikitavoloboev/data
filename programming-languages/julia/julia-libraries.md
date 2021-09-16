@@ -292,3 +292,4 @@
 - [How to Create Software Packages with Julia Language (2021)](https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/)
 - [The Julia Package Manager (2020)](https://opensourc.es/blog/all-about-pkg/)
 - [PkgTemplates](https://github.com/invenia/PkgTemplates.jl) - Creates new Julia packages in an easy, repeatable, and customizable way.
+- [Welcome to DataFrames.jl Workshop](https://github.com/JuliaAcademy/DataFrames)
