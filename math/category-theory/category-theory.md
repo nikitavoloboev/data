@@ -117,6 +117,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category theory is a universal modeling language](http://math.mit.edu/~dspivak/informatics/)
 - [Ask HN: How to Get into Category Theory? (2021)](https://news.ycombinator.com/item?id=27642986)
 - [nForum](https://nforum.ncatlab.org/) - Discussion forum about contributions to the nLab wiki and related areas of mathematics, physics, and philosophy.
+- [Infinity Category Theory Offers a Bird’s-Eye View of Mathematics (2021)](https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics1/) ([HN](https://news.ycombinator.com/item?id=28536516))
 
 ## Images
 

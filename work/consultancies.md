@@ -231,3 +231,4 @@
 - [wellpaid.io](https://wellpaid.io/) - Recruiter-free contractor marketplace.
 - [On Deck Freelancers](https://beondeck.com/freelancers)
 - [Ask HN: What is the highest consulting rate that you have come across, in tech? (2021)](https://news.ycombinator.com/item?id=28356047)
+- [Every engineer should do a stint in consulting (2021)](https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint) ([HN](https://news.ycombinator.com/item?id=28546756))

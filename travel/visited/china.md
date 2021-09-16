@@ -47,3 +47,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [China’s Western Horizon: Beijing and the New Geopolitics of Eurasia | Daniel Markey (2021)](https://overcast.fm/+bbjkoyP9c)
 - [The Significance of Evolving Sino-Russian Relations with Alexander Gabuev (2021)](https://china-global.simplecast.com/episodes/the-significance-of-evolving-sino-russian-relations-with-alexander-gabuev)
 - [China Global Podcast](https://china-global.simplecast.com/)
+- [Will Xi Move on Taiwan? (2021)](https://asia.nikkei.com/Spotlight/20-years-after-9-11/Will-Xi-move-on-Taiwan-History-warns-he-might-Niall-Ferguson) ([HN](https://news.ycombinator.com/item?id=28544904))

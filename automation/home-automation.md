@@ -47,3 +47,4 @@
 - [HA Floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Floor plan for Home Assistant.
 - [Decluttering Card](https://github.com/custom-cards/decluttering-card) - Reuse multiple times the same card configuration with variables to declutter your config.
 - [Hautomo](https://github.com/function61/hautomo) - Home automation hub fully built in Go, super simple to deploy.
+- [HN: Home Assistant (2021)](https://news.ycombinator.com/item?id=28544835)
