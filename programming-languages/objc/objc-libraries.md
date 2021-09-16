@@ -6,3 +6,4 @@
 - [TONavigationBar](https://github.com/TimOliver/TONavigationBar) - Replicating the 'clear' navigation bar style of the iOS 12 Apple TV app.
 - [MessageThrottle](https://github.com/yulingtianxia/MessageThrottle) - Lightweight, simple library for controlling frequency of forwarding Objective-C messages.
 - [OCMock](https://github.com/erikdoe/ocmock) - Objective-C implementation of mock objects.
+- [SRG Media Player](https://github.com/SRGSSR/srgmediaplayer-apple) - Advanced media player library, simple and reliable.
