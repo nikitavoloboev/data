@@ -295,3 +295,4 @@
 - [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain) ([HN](https://news.ycombinator.com/item?id=28489582))
 - [Cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
 - [Eleven proofs of the Gaussian integral](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf) ([HN](https://news.ycombinator.com/item?id=28507114))
+- [A practical guide to radial basis functions](http://num.math.uni-goettingen.de/schaback/teaching/sc.pdf)

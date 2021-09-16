@@ -53,6 +53,8 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Nobody who is happy, successful, and fulfilled will ever hate on you.](https://twitter.com/ZubyMusic/status/1397662847077961728)
 - [Acceptance / letting go is the solution to most problems.](https://twitter.com/nickcammarata/status/1416866783865282569)
 - [Uncertainty, not outcome, is the root of stress.](https://twitter.com/NavalBot/status/1434245194292027393)
+- [Stress primarily comes from not taking action over something that you can have some control over… stress comes from ignoring things that you shouldn’t be ignoring.](https://twitter.com/austen/status/1438157425744306176)
+- [For a long time I thought I wasn’t ambitious until I realized my ambition is to live a good life.](https://twitter.com/schlaf/status/1438293177673396227)
 
 ## Links
 

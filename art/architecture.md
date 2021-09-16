@@ -19,6 +19,7 @@
 - [Casa Mirador, Ecuador](https://twitter.com/PottsJustin/status/1424418932618825738) ([Article](https://www.dezeen.com/2021/06/20/rama-estudio-casa-mirador-ecuador/))
 - [Loft apartment](https://twitter.com/3dLooks/status/1431268673415749639)
 - [Nice house in forest](https://twitter.com/nickcammarata/status/1437477973381292036)
+- [Cozy](https://twitter.com/uchilka_nastya/status/1438252274111946767)
 
 ## Links
 
