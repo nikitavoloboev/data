@@ -18,3 +18,4 @@
 - [Entropy as a Topological Operad Derivation (2021)](https://arxiv.org/abs/2107.09581) ([Article](https://www.math3ma.com/blog/entropy-algebra-topology)) ([HN](https://news.ycombinator.com/item?id=27917098)) ([Tweet](https://twitter.com/math3ma/status/1417835346792964096))
 - [New math book rescues landmark topology proof (2021)](https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/) ([HN](https://news.ycombinator.com/item?id=28471159))
 - [The Disc Embedding Theorem](https://global.oup.com/academic/product/the-disc-embedding-theorem-9780198841319)
+- [Applied Topology](http://appliedtopology.org/) - Qualitative data analysis. ([GitHub](https://github.com/appliedtopology))

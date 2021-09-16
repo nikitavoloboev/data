@@ -162,6 +162,7 @@
 - [Hyrise](https://github.com/hyrise/hyrise) - Research in-memory database. ([Web](https://hpi.de/plattner/projects/hyrise.html))
 - [Apache Doris](http://doris.incubator.apache.org/master/en/) - Fast MPP database for all modern analytics on big data. ([Code](https://github.com/apache/incubator-doris))
 - [Vertica](https://www.vertica.com/) - Big Data Analytics On-Premises, in the Cloud, or on Hadoop. ([Getting Started with Vertica](https://www.babbling.fish/vertica-survival-guide/))
+- [Embeddinghub](https://github.com/featureform/embeddinghub) - Vector database built for Machine Learning embeddings. ([HN](https://news.ycombinator.com/item?id=28552034))
 
 ## Tools
 
@@ -205,6 +206,7 @@
 - [Kinto](https://github.com/Kinto/kinto) - Minimalist JSON storage service with synchronisation and sharing abilities. ([Docs](https://docs.kinto-storage.org/en/stable/))
 - [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool. ([Web](https://www.schemacrawler.com/))
 - [dbmigrate](https://github.com/Keats/dbmigrate) - PostgreSQL/SQLite/MySQL migration tool in rust.
+- [Qsh](https://github.com/muhmud/qsh) - Improved database querying from your terminal. ([HN](https://news.ycombinator.com/item?id=28550874))
 
 ## Notes
 

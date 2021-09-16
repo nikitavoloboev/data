@@ -33,3 +33,4 @@
 - [gRPC and gRPC Web on Google Cloud Run (serverless) (2021)](https://blog.gendocu.com/posts/grpc-on-google-cloud/)
 - [Google Cloud Digital Leader Certification Course (2021)](https://www.youtube.com/watch?v=UGRDM86MBIQ)
 - [provider-gcp](https://github.com/crossplane/provider-gcp) - Crossplane Google Cloud Platform (GCP) infrastructure provider.
+- [oidc-auth-google-cloud](https://github.com/sethvargo/oidc-auth-google-cloud) - GitHub Action for authenticating to Google Cloud with GitHub Actions OIDC tokens and Workload Identity Federation.

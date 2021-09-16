@@ -705,7 +705,7 @@
 - [BackedCodable](https://github.com/jegnux/BackedCodable) - Powerful property wrapper to back codable properties.
 - [ZIP Foundation](https://github.com/weichsel/ZIPFoundation) - Library to create, read and modify ZIP archive files.
 - [Gen](https://github.com/pointfreeco/swift-gen) - Composable, transformable, controllable randomness.
-- [Swift Collections](https://github.com/apple/swift-collections) - Package of production grade Swift data structures.
+- [Swift Collections](https://github.com/apple/swift-collections) - Package of production grade Swift data structures. ([Getting Started](https://www.raywenderlich.com/24803770-getting-started-with-the-swift-collections-package))
 - [Options](https://github.com/brightdigit/Options) - Swift Package for more powerful Enum types.
 - [AAChartKit-Swift](https://github.com/AAChartModel/AAChartKit-Swift) - Elegant modern declarative data visualization chart framework.
 - [Nantes](https://github.com/instacart/Nantes) - Swift TTTAttributedLabel replacement.
