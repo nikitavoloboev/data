@@ -157,3 +157,4 @@
 - [From synchronous service calls to message-passing dataflow systems (2019)](https://www.rodrigoaraujo.me/posts/from-synchronous-service-calls-to-message-passing-dataflow-systems/)
 - [The Persistent Gravity of Cross Platform (2021)](https://allenpike.com/2021/gravity-of-cross-platform-apps) ([HN](https://news.ycombinator.com/item?id=28390732))
 - [MangaDex infrastructure overview](https://mangadex.dev/mangadex-v5-infrastructure-overview/) ([HN](https://news.ycombinator.com/item?id=28440742))
+- [Multiperspective Diagramming (2021)](https://blog.ilograph.com/posts/multiperspective-diagramming-guide/) - Guide for system, software, cloud, network, and other engineers.
