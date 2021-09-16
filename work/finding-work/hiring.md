@@ -107,3 +107,4 @@
 - [Why don't tech companies pay their engineers to stay? (2021)](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9) ([HN](https://news.ycombinator.com/item?id=28049254))
 - [Benefits for employees besides salary (2021)](https://twitter.com/dabit3/status/1423273068462489601)
 - [Hiring Developers: How to avoid the best (2021)](https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/) ([HN](https://news.ycombinator.com/item?id=28431962)) ([Reddit](https://www.reddit.com/r/programming/comments/pivzeq/hiring_developers_how_to_avoid_the_best/))
+- [What's Wrong with Tech Hiring (2021)](https://neverworkintheory.org/2021/09/13/whats-wrong-with-tech-hiring.html) ([HN](https://news.ycombinator.com/item?id=28532083))

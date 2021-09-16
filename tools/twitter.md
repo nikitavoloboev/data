@@ -3,6 +3,7 @@
 ## Interesting hash tags
 
 - [#VisibleWomen](https://twitter.com/hashtag/VisibleWomen)
+- [#коточетверг](https://twitter.com/hashtag/%D0%BA%D0%BE%D1%82%D0%BE%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%B3)
 
 ## Notes
 
@@ -114,3 +115,4 @@
 - [TidyTweets](https://tidytweets.org/) - Tidy up your Following list on Twitter. ([Code](https://github.com/rlueder/tidytweets))
 - [twilens](https://github.com/ciffelia/twilens) - Full-text search for your tweets.
 - [RSS 2 Twitter](https://github.com/umputun/rss2twitter) - Publish RSS updates to Twitter.
+- [Kizie](https://kizie.co/) - New way to interact with Twitter. ([HN](https://news.ycombinator.com/item?id=28549960))

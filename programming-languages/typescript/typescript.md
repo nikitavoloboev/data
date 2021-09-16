@@ -178,7 +178,7 @@
 - [Parse, don’t validate, incoming data in TypeScript (2021)](https://itnext.io/parse-dont-validate-incoming-data-in-typescript-d6d5bfb092c8)
 - [Building an ECS in TypeScript (2021)](https://maxwellforbes.com/posts/typescript-ecs-implementation)
 - [Sindre's tsconfig](https://github.com/sindresorhus/tsconfig) - Shared TypeScript config for my projects.
-- [Orta Therox, TypeScript Compiler Engineer at Microsoft (2021)](https://overcast.fm/+cV8ot7cjo)
+- [Designing delightful docs with Orta Therox, engineer on Microsoft's TypeScript compiler team (2021)](https://about.sourcegraph.com/podcast/orta-therox/)
 
 ## Images
 
