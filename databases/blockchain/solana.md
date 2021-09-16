@@ -80,3 +80,4 @@
 - [use-solana](https://github.com/saber-hq/saber-common/tree/master/packages/use-solana) - Solana frontend library and TypeScript SDK.
 - [Sharding vs No Sharding fireside chat: NEAR Protocol & Solana (2019)](https://www.youtube.com/watch?v=ZyIxWutfZ-U)
 - [PsyOptions](https://psyoptions.io/) - American style options protocol built on the Solana blockchain. ([Docs](https://docs.psyoptions.io/)) ([Twitter](https://twitter.com/PsyOptions))
+- [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom (2021)](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) ([Tweet](https://twitter.com/dabit3/status/1438227504007979011))

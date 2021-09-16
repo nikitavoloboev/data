@@ -56,6 +56,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Deciding when to meet people where they are, and when to leave them where they are is a life skill that I feel defines healthy adulthood.](https://twitter.com/ashleysimpo/status/1419697180462534663)
 - [I think people in general, not just men, can become more closed off in time. Life is hard and we have all been through break ups and heartache and the worst of dating. We have all had our attempts at romance rejected and criticized. I think we really have to communicate about these things, and work on them with our partners.](https://www.reddit.com/r/datingoverthirty/comments/otnz6f/do_men_30_not_text_or_call_to_just_say_hi_or_hear/)
 - [How you treat people is more important than being right](https://twitter.com/NovallSwift/status/1420757742231248909)
+- [You deserve a partner that is actively invested in your happiness.](https://twitter.com/lingerie_addict/status/1438180037455401000)
 
 ## Links
 
