@@ -59,3 +59,6 @@
 - [Compressing Multisets with Large Alphabets (2021)](https://arxiv.org/abs/2107.09202) ([Code](https://github.com/facebookresearch/multiset-compression))
 - [Ouch](https://github.com/vrmiguel/ouch) - Easy and painless way of compressing and decompressing files in the terminal.
 - [TinyJPG](https://github.com/OrlovEvgeny/TinyJPG) - Filesystem watcher and image compress.
+- [Faster Compression with Snappy's S2 Extension (2021)](https://tech.marksblogg.com/snappy-s2-compression-golang.html)
+- [Faster ZIP Decompression (2019)](https://tech.marksblogg.com/faster-zip-decompression-unzip-deflate-zlib-crc32-adler32-7zip-archiver.html)
+- [Minimalist Guide to Lossless Compression (2019)](https://tech.marksblogg.com/minimalist-guide-compression.html)

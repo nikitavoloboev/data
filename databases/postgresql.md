@@ -310,3 +310,5 @@
 - [HN: Using PostgreSQL’s JSONB for NoSQL](https://news.ycombinator.com/item?id=28406334)
 - [Docker Official Image packaging for Postgres](https://github.com/docker-library/postgres)
 - [Postgres: Boundless `Text` and Back Again (2021)](https://brandur.org/text) ([HN](https://news.ycombinator.com/item?id=28484312))
+- [Data Fluent for PostgreSQL (2021)](https://tech.marksblogg.com/data-fluent-for-postgresql.html) ([Code](https://github.com/marklit/datafluent_pg))
+- [Building PostgreSQL Extensions with Rust (2021)](https://tech.marksblogg.com/postgresql-extension-rust.html)

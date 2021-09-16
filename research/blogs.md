@@ -64,6 +64,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Michele Bertasi](https://blog.mbrt.dev/)
 - [Matt Rickard](https://matt-rickard.com/archive/)
 - [Micah Lerner](https://www.micahlerner.com/) ([Code](https://github.com/mlerner/mlerner.github.io))
+- [Mark Litwintschik](https://tech.marksblogg.com/)
 
 ## Notes
 

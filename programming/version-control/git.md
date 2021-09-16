@@ -286,3 +286,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Picturing Git: Conceptions and Misconceptions (2021)](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/) ([HN](https://news.ycombinator.com/item?id=28392566))
 - [gitty](https://github.com/muesli/gitty) - CLI helper for git projects. Shows you all the relevant issues, pull requests and changes at a quick glance.
 - [git-cliff](https://github.com/orhun/git-cliff) - Generate changelog files from the Git history. ([HN](https://news.ycombinator.com/item?id=28423843))
+- [Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git (2021)](https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html)

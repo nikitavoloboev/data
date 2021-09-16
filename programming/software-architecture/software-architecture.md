@@ -158,3 +158,4 @@
 - [The Persistent Gravity of Cross Platform (2021)](https://allenpike.com/2021/gravity-of-cross-platform-apps) ([HN](https://news.ycombinator.com/item?id=28390732))
 - [MangaDex infrastructure overview](https://mangadex.dev/mangadex-v5-infrastructure-overview/) ([HN](https://news.ycombinator.com/item?id=28440742))
 - [Multiperspective Diagramming (2021)](https://blog.ilograph.com/posts/multiperspective-diagramming-guide/) - Guide for system, software, cloud, network, and other engineers.
+- [Architecting Modern Data Platforms Book (2018)](https://www.oreilly.com/library/view/architecting-modern-data/9781491969267/) ([Review](https://tech.marksblogg.com/architecting-modern-data-platforms-book-review.html))

@@ -96,6 +96,7 @@
 - [argcomplete](https://github.com/kislyuk/argcomplete) - Python and tab completion, better together.
 - [docopt-ng](https://github.com/jazzband/docopt-ng) - Humane command line arguments parser. Now with maintenance, typehints, and complete test coverage.
 - [Plotext](https://github.com/piccolomo/plotext) - Python Plotting on the Terminal. ([HN](https://news.ycombinator.com/item?id=27719759))
+- [shpyX](https://github.com/Apakottur/shpyx) - Configurable shell command execution in Python.
 
 ## DB
 

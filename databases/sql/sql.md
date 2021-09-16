@@ -30,7 +30,7 @@
 - [SQL Tutorial for Beginners (2020)](https://www.youtube.com/watch?v=tp_5c6jaNQE)
 - [SQL Koans](https://sqlkoans.com/) - Set of koans to introduce you to SQL. ([Code](https://github.com/phillipjohnson/sql-koans))
 - [eSQLate](https://github.com/forbesmyester/esqlate) - Build minimum viable admin panels quickly with just SQL.
-- [Presto](https://prestodb.io/) - Distributed SQL Query Engine for Big Data. ([Code](https://github.com/prestodb/presto))
+- [Presto](https://prestodb.io/) - Distributed SQL Query Engine for Big Data. ([Code](https://github.com/prestodb/presto)) ([Using SQL to query Kafka, MongoDB, MySQL, PostgreSQL and Redis with Presto](https://tech.marksblogg.com/presto-connectors-kafka-mongodb-mysql-postgresql-redis.html))
 - [SQL Language Server](https://github.com/joe-re/sql-language-server)
 - [The rise of SQL-based data modeling and DataOps (2019)](https://www.holistics.io/blog/the-rise-of-sql-based-data-modeling-and-dataops/) ([HN](https://news.ycombinator.com/item?id=22189851))
 - [NULL Values in SQL Queries (2020)](https://mitchum.blog/null-values-in-sql-queries/) ([HN](https://news.ycombinator.com/item?id=22223909))

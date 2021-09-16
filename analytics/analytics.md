@@ -17,7 +17,7 @@ If analytics are used, it's best to implement them server side with something li
 - [Kedro](https://github.com/quantumblacklabs/kedro) - Python library for building robust production-ready data and analytics pipelines. ([Article](https://medium.com/@QuantumBlack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf))
 - [Plausible Analytics](https://plausible.io/) - Simple, privacy-friendly alternative to Google Analytics. ([Code](https://github.com/plausible/analytics)) ([HN](https://news.ycombinator.com/item?id=24696145)) ([HN 2](https://news.ycombinator.com/item?id=24868012)) ([Docs](https://docs.plausible.io/)) ([Lobsters](https://lobste.rs/s/xksjh5/plausible_analytics_self_hosted_privacy))
 - [Metabase](https://www.metabase.com/) - Easy, open source way for everyone in your company to ask questions and learn from data. ([Code](https://github.com/metabase/metabase)) ([Binary deployment](https://github.com/metabase/metabase-deploy))
-- [OmniSci](https://www.omnisci.com/) - Interactively query, visualize, and power data science workflows over billions of records.
+- [OmniSci](https://www.omnisci.com/) - Interactively query, visualize, and power data science workflows over billions of records. ([1.1 Billion Taxi Rides using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html))
 - [Freshlytics](https://github.com/sheshbabu/freshlytics) - Open source privacy-friendly analytics software. It aims to be reliable, friendly to use and easy to deploy.
 - [GoatCounter](https://www.goatcounter.com/) - Simple web statistics. No tracking of personal data. ([Code](https://github.com/zgoat/goatcounter))
 - [MixPanel](https://mixpanel.com/) - Analyze user behavior across your sites and apps. Then send messages and run experiments from what you learned–all in Mixpanel.
@@ -79,3 +79,4 @@ If analytics are used, it's best to implement them server side with something li
 - [ganalytics](https://github.com/lukeed/ganalytics) - Tiny (312B) client-side module for tracking with Google Analytics.
 - [Load-testing my Web Analytics Tool](https://johnmathews.eu/load-testing-web-analytics-tool.html)
 - [Tech-savvy audiences block Google Analytics (2021)](https://plausible.io/blog/google-analytics-adblockers-missing-data) ([HN](https://news.ycombinator.com/item?id=28365163))
+- [Monitor ClickHouse with Prometheus & Grafana (2021)](https://tech.marksblogg.com/clickhouse-prometheus-grafana.html)

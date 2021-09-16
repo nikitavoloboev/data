@@ -49,3 +49,4 @@
 - [Ostracon](https://github.com/nathanieltornow/ostracon) - Distributed “persistence-first” shared log.
 - [exo](https://github.com/deref/exo) - Process manager & log viewer for dev. ([Web](https://exo.deref.io/))
 - [errorpush](https://github.com/hauxir/errorpush) - Minimalist Sentry alternative using PostgreSQL.
+- [Apache Flume](https://flume.apache.org/) - Distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. ([Minimalist Guide to Flume](https://tech.marksblogg.com/minimalist-guide-tutorial-flume.html))
