@@ -97,3 +97,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Apple’s Mistake (2021)](https://stratechery.com/2021/apples-mistake/) ([HN](https://news.ycombinator.com/item?id=28118350))
 - [Ask HN: What Apple alternatives are you switching to? (2021)](https://news.ycombinator.com/item?id=28220968)
 - [Privacy.Sexy](https://privacy.sexy/) - Enforce privacy & security on Windows and macOS. ([Code](https://github.com/undergroundwires/privacy.sexy))
+- [Why not Signal?](https://dessalines.github.io/essays/why_not_signal.html) ([Lobsters](https://lobste.rs/s/qgkckr/why_not_signal))

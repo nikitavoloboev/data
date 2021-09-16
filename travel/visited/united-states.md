@@ -67,3 +67,5 @@
 - [Did the First Americans Arrive by Land or by Sea? (2021)](https://www.theatlantic.com/magazine/archive/2021/10/prehistoric-america-atlantis/619819/) ([Tweet](https://twitter.com/andersen/status/1435243652310241291))
 - [Moving from Europe to the USA](https://www.reddit.com/r/IWantOut/comments/1bjcio/moving_from_europe_to_the_usa/)
 - [Immigration Reddit](https://www.reddit.com/r/immigration/)
+- [List of Atrocities committed by US authorities](https://dessalines.github.io/essays/us_atrocities.html)
+- [List of hate crimes in the US](https://dessalines.github.io/essays/us_hate_crimes.html)

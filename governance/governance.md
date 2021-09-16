@@ -63,3 +63,8 @@
 - [Ask HN: My country may be in the midst of a coup – how should I get prepared? (2021)](https://news.ycombinator.com/item?id=28008571)
 - [Minimum Viable Governance](https://github.com/github/MVG) - Repository-based approach for putting lightweight governance into free and open source projects.
 - [What’s in a license (2021)](https://syndis.is/2021/09/01/e-license)
+- [Crash Course Socialism](https://dessalines.github.io/essays/crash_course_socialism.html)
+- [Capitalism doesn’t work](https://dessalines.github.io/essays/capitalism_doesnt_work.html)
+- [Socialism FAQ](https://dessalines.github.io/essays/socialism_faq.html)
+- [Glossary of Socialist Terms](https://dessalines.github.io/essays/glossary_of_socialist_terms.html)
+- [Marxism Study Plan](https://dessalines.github.io/essays/dessalines_marxism_study_plan.html)
