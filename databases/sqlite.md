@@ -104,3 +104,4 @@
 - [Strict Tables – Column type constraints in SQLite](https://www.sqlite.org/draft/stricttables.html) ([HN](https://news.ycombinator.com/item?id=28259104))
 - [SQLite-TUI](https://github.com/mathaou/termdbms) - TUI for viewing SQLite databases, written in Go. ([HN](https://news.ycombinator.com/item?id=28408682))
 - [Exqlite](https://github.com/elixir-sqlite/exqlite) - Elixir SQLite3 library.
+- [A Minimalist Guide to SQLite (2017)](https://tech.marksblogg.com/sqlite3-tutorial-and-guide.html)

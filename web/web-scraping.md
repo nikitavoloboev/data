@@ -33,6 +33,7 @@
 - [Dataflow Kit](https://dataflowkit.com/) - Web scraping. Data extraction tools
 - [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)
 - [Common Crawl](https://commoncrawl.org/) - Open repository of web crawl data that can be accessed and analyzed by anyone. ([HN](https://news.ycombinator.com/item?id=26594172))
+- [Analysing Petabytes of Websites using Common Crawl (2017)](https://tech.marksblogg.com/petabytes-of-website-data-spark-emr.html)
 - [Cognito Common Crawl](https://github.com/andresriancho/cc-lambda) - Search the common crawl using lambda functions.
 - [Awesome Open Source Javascript Projects for Web Scraping (2020)](https://scrapingant.com/awesome-open-source-javascript-projects-for-web-scraping/)
 - [ScrapingAnt](https://scrapingant.com/) - All in One Scraping API. Rotating Proxies. Headless Chrome.
