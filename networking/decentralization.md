@@ -73,3 +73,4 @@
 - [EU Funding for Dev Tools for the Decentralized Web (2021)](https://httptoolkit.tech/blog/developer-tools-decentralized-web/) ([HN](https://news.ycombinator.com/item?id=28537841))
 - [SimpleX chat](https://simplex.chat/) - Private, decentralized, no global identities. ([Code](https://github.com/simplex-chat/simplex-chat)) ([GitHub](https://github.com/simplex-chat))
 - [The Defiant](https://thedefiant.io/) - Defi News, Daily Briefings, DeFi Interviews and Defi Recaps.
+- [Helium](https://www.helium.com/) - Peer-to-peer wireless network. ([Twitter](https://twitter.com/helium)) ([Summary](https://twitter.com/MessariCrypto/status/1438512856199139336))

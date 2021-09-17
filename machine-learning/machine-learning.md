@@ -242,7 +242,7 @@
 - [Nicholas Carlini: Making and Measuring Progress in Adversarial Machine Learning (2019)](https://www.youtube.com/watch?v=jD3L6HiH4ls)
 - [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production) - Notes and references about deploying deep learning-based models in production.
 - [Stanford Class on Deep Multi-Task and Meta-Learning (2019)](https://cs330.stanford.edu/) ([HN](https://news.ycombinator.com/item?id=23474846))
-- [Weights & Biases](https://wandb.ai/site) - Developer tools for ML. Experiment tracking, hyperparameter optimization, model and dataset versioning. ([Code](https://github.com/wandb/client)) ([Docs](https://docs.wandb.ai/)) ([Examples](https://github.com/wandb/examples))
+- [Weights & Biases](https://wandb.ai/home) - Developer tools for ML. Experiment tracking, hyperparameter optimization, model and dataset versioning. ([Code](https://github.com/wandb/client)) ([Docs](https://docs.wandb.ai/)) ([Examples](https://github.com/wandb/examples)) ([Community](https://community.wandb.ai/))
 - [Protocols and Structures for Inference (PSI) spec](http://psi.cecs.anu.edu.au/spec/) - Aims to develop an architecture for presenting machine learning algorithms, their inputs (data) and outputs (predictors) as resource-oriented RESTful web services.
 - [ML Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
 - [Machine Learning for Everyone - In simple words. With real-world examples.](https://vas3k.com/blog/machine_learning/)

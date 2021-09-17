@@ -205,3 +205,4 @@
 - [nix bundle](https://nixos.org/manual/nix/unstable/command-ref/new-cli/nix3-bundle.html) - Bundle an application so that it works outside of the Nix store.
 - [Building Container Images with Nix (2021)](https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/) ([HN](https://news.ycombinator.com/item?id=28240748))
 - [Debug symbols for binaries with Nix (2021)](http://rski.github.io/2021/09/05/nix-debugging.html)
+- [Ditch your version manager and use Nix (2021)](https://juliu.is/ditch-your-version-manager/)

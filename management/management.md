@@ -136,3 +136,4 @@
 - [Why We Don't Do Daily Stand-Ups at Supercede](https://jezenthomas.com/why-we-dont-do-daily-stand-ups-at-supercede/) ([Lobsters](https://lobste.rs/s/fear8c/why_we_don_t_do_daily_stand_ups_at_supercede))
 - [A Guide to Becoming a Tech Lead (2021)](https://coding-time.co/tech-lead-guide/)
 - [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) ([HN](https://news.ycombinator.com/item?id=28515579))
+- [Why Do Companies Have So Many Managers? (2021)](https://www.theatlantic.com/ideas/archive/2021/09/manager-work-life-changes/620096/) - How the modern office needs to start adjusting to foster and cater to talented workers. ([Tweet](https://twitter.com/edzitron/status/1438819979193819142))
