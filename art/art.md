@@ -338,6 +338,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Arseniy Kotov](https://www.instagram.com/northern.friend/) - Architecture and life in post-soviet world.
 - [Caleb Zulawski](https://portfolio.calebzulawski.com/)
 - [Mark Del Mar](https://www.markdelmar.com/)
+- [Chantal Convertini](https://www.instagram.com/paeulini/)
 - [Evgeny Feldman](https://www.feldmanphotography.com/) ([IG](https://www.instagram.com/evgenyfeldman/))
 - [Tyler Mitchell](https://www.instagram.com/tylersphotos/)
 - [Petros Koublis](http://petroskoublis.com/main.html)
@@ -452,3 +453,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Art Gallery Datasets](https://www.artnome.com/art-data)
 - [Gnod Art](https://art.gnod.com/) - Discover new Artists.
 - [Ask HN: Any successful transitions from a tech/IT career to working in the arts? (2021)](https://news.ycombinator.com/item?id=28500457)
+- [The Topography of Tears](https://kottke.org/21/09/the-topography-of-tears)
