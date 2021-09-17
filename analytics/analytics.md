@@ -8,6 +8,7 @@ If analytics are used, it's best to implement them server side with something li
 
 ## Links
 
+- [Scale8](https://scale8.com/) - An open-source, simple and privacy-friendly alternative to Google Analytics. ([Code](https://github.com/scale8/tag-manager)) ([Docs](https://scale8.github.io/docs))
 - [Fathom](https://usefathom.com/) - Simple, trustworthy website analytics. Built with Go & Preact. ([Code](https://github.com/usefathom/fathom))
 - [Matamo](https://matomo.org/) - Open source alternative to Google Analytics.
 - [LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
