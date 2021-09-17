@@ -82,3 +82,4 @@
 - [What Slime Knows](https://orionmagazine.org/article/what-slime-knows/)
 - [Three-dimensional geometry controls division symmetry in stem cell colonies (2021)](https://journals.biologists.com/jcs/article/134/14/jcs255018/271082/Three-dimensional-geometry-controls-division) - Explore how embryonic stem cells control their size after cell division. ([Tweet](https://twitter.com/AgChaigne/status/1420733129602523136))
 - [MRC LMCB at UCL](https://www.ucl.ac.uk/lmcb/) - Develops new molecular understandings of cell function. ([Twitter](https://twitter.com/MRC_LMCB))
+- [Biologists Rethink the Logic Behind Cells’ Molecular Signals (2021)](https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecular-signals-20210916/) ([HN](https://news.ycombinator.com/item?id=28553158))

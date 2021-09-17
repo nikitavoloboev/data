@@ -49,7 +49,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Reddit multi part photography class](https://www.reddit.com/r/photoclass/)
 - [Photo Stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream.
 - [Photile](https://photile.co/) - Create photo collages from your Instagram photos quickly and easily.
-- [Glass Photo](https://glass.photo/) - Community-focused app for photographers and photography enthusiasts.
+- [Glass Photo](https://glass.photo/) - Community-focused app for photographers and photography enthusiasts. ([HN](https://news.ycombinator.com/item?id=28552653))
 - [Leica Q](https://craigmod.com/essays/leica_q/) - Six month field test.
 - [How to build a darkroom for £100 or less (2020)](https://www.35mmc.com/06/04/2020/darkroom-technique-part-1-how-to-build-a-darkroom-for-100-or-less-by-sroyon-mukherjee/) ([HN](https://news.ycombinator.com/item?id=22948687))
 - [Retrato: A Guide to Portrait Photography, Gaining Followers and Making Money](https://www.notion.so/Retrato-9de8ae4447804ed189838bd3a8b3d509)

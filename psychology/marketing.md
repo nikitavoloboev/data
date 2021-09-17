@@ -144,6 +144,7 @@
 - [How do I get my first 1000 users?](https://twitter.com/sab8a/status/1422162888589037568)
 - [Things to know before PH product launch (2021)](https://twitter.com/ahiggz/status/1428444815704924170)
 - [Awesome Developer Advocacy](https://github.com/dmitryvinn/awesome-dev-advocacy)
+- [Developer, you may need a co-founder in marketing (2021)](https://microfounder.com/blog/cofounder-in-marketing) ([HN](https://news.ycombinator.com/item?id=28553775))
 
 ## Images
 
