@@ -151,6 +151,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Tinybird](https://www.tinybird.co/) - Turn raw data into realtime API at scale.
 - [Notify](https://notify.me/) - Subscribe directly to creators.
 - [Increment.me](https://www.increment.me/) - Easily get anonymous feedback on anything. ([HN](https://news.ycombinator.com/item?id=25029904))
+- [CommandBar](https://www.commandbar.com/) - Searchbar, with one big difference. Its results include commands.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
 - [Boon](https://boon.tv/) - Build your members community.
@@ -171,6 +172,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
 - [Mural](https://mural.co/) - Digital workspace for visual collaboration.
 - [Formspree](https://formspree.io/) - Custom Forms with No Server Code.
+- [Slapdash](https://slapdash.com/) - Brings all your apps together in one place to give you new superpowers.
 - [Tiny Letter](https://tinyletter.com)
 - [Airy](https://airy.co/) - Open Source Conversational Platform. ([HN](https://news.ycombinator.com/item?id=27446200))
 - [Cuttle](https://cuttle.xyz/) - Design tool for digital cutting machines.

@@ -12,6 +12,7 @@
 - [Can right click on Vercel home icon to see brand assets](https://twitter.com/steveruizok/status/1422191357083455489)
 - [New user onboarding and activation is one of the most critical things for teams to test. Unfortunately it’s also one of the hardest, since people don’t go though the NUX flow more than once as a matter of course. So most teams stay blissfully unaware of what new users experience.](https://twitter.com/gokulr/status/1432295804052647937)
 - [One of the coolest onboarding tricks I've seen recently - do different tasks for a product onboarding to add days to your free trial.](https://twitter.com/kushaanshah/status/1433210611895189509)
+- [Every app should have a cmd+k command palette interface to search actions](https://twitter.com/seanrose/status/1438648231404003331)
 
 ## Links
 

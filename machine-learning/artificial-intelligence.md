@@ -89,3 +89,4 @@
 - [Scaling Hypothesis - The path to Artificial General Intelligence? (2021)](https://johanneshage.substack.com/p/scaling-hypothesis-the-path-to-artificial)
 - [Fast and flexible: Human program induction in abstract reasoning tasks (2021)](https://arxiv.org/abs/2103.05823) ([Tweet](https://twitter.com/todd_gureckis/status/1420768433277386760))
 - [Tesla AI Day (2021)](https://youtu.be/j0z4FweCy4M?t=2853) ([HN](https://news.ycombinator.com/item?id=28240882))
+- [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/) - Summarize the history of AI since March 2020.
