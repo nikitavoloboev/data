@@ -82,3 +82,4 @@
 - [Build a coding blog from scratch with Gatsby and MDX (2019)](https://scottspence.com/2019/10/31/build-an-mdx-blog/)
 - [Build a Developer Blog with Gatsby (2021)](https://egghead.io/courses/build-a-developer-blog-with-gatsby-bd96)
 - [TypeScript starter for Gatsby](https://github.com/jpedroschmitz/gatsby-starter-ts) - Great for advanced users.
+- [Monetize Open-Source Software With Gatsby Functions And Stripe (2021)](https://www.smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/)

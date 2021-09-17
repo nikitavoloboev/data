@@ -21,3 +21,4 @@ Prefer to use Google Domains over everything. I like to subdomain over my person
 - [How to secure SaaS custom domain names (2021)](https://blog.brandssl.io/how-to-secure-saas-custom-domain-names)
 - [Unstoppable Domains](https://unstoppabledomains.com/) - Blockchain Domains.
 - [parse-domain](https://github.com/peerigon/parse-domain) - Splits a hostname into subdomains, domain and (effective) top-level domains.
+- [The Perils of an .xyz Domain (2021)](https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/) ([HN](https://news.ycombinator.com/item?id=28554400))

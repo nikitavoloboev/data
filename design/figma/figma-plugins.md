@@ -50,7 +50,7 @@
 - [Figma <> HTML](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more. ([Web](https://www.figma.com/community/plugin/747985167520967365/Figma-to-HTML%2C-CSS%2C-React-%26-more!))
 - [Lights](https://www.figma.com/community/plugin/780821534053786200/Lights) - Easily switch between light and dark mode.
 - [Playing with Plugins - Jordan Singer (Config 2021)](https://www.youtube.com/watch?v=fpYmcsszClo)
-- [FlowBite](https://flowbite.design/) - Figma UI design kit built for Tailwind CSS.
+- [FlowBite](https://flowbite.design/) - Figma UI kit built for integration with Tailwind CSS. ([Docs](https://flowbite.com/docs/getting-started/introduction/)) ([HN](https://news.ycombinator.com/item?id=28561468))
 - [Getting started with Figma plugins (2020)](https://blog.prototypr.io/figma-plugin-tutorial-1-6-65fc2102506)
 - [Health Icons Figma Plugin](https://www.figma.com/community/plugin/992844281461869440/Health-Icons-Figma-Plugin)
 - [Figmage: I don't mess with images](https://heyraviteja.com/post/projects/figmage/) ([HN](https://news.ycombinator.com/item?id=28094989))
