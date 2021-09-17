@@ -23,6 +23,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [The sad truth is that friendly face isn’t Facebook’s true face; it’s a sham, just like it’s a sham to sit on a tractor so people will think you’re tall. Mark Zuckerberg uses your most intimate connections, the literal faces of the people you love, to fool you into thinking that he’s not picking your pocket and taking a wrecking ball to our media, to the integrity of our society, and to democracy itself.](https://medium.com/s/story/the-smallness-of-mark-zuckerberg-4e94a88bba02)
 - [I gained a following in part because developers with larger followings would share my work. If you have a large following I highly encourage you to share the work of other creators! It costs nothing to share a blog or video but can make a huge difference to that creator!](https://twitter.com/EmmaBostian/status/1379813903417364485)
 - [Moderating a community is not censorship.](https://twitter.com/TartanLlama/status/1381145203113930753)
+- [Facebook knew its algorithm incentivized outrage. Instagram knew it hurt teen girls. Facebook has been shielding VIPs from moderation.](https://twitter.com/JoshConstine/status/1438604572419756034)
 
 ## Links
 
