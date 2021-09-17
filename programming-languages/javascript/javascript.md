@@ -312,3 +312,4 @@
 - [Txiki.js](https://github.com/saghul/txiki.js) - Tiny JavaScript runtime built with QuickJS and libuv. ([HN](https://news.ycombinator.com/item?id=28020944))
 - [JavaScript error logging](https://github.com/cheeaun/javascript-error-logging) - Collection of JavaScript error logging services, and comparisons among them.
 - [Regenerated.Dev](https://regenerated.dev/) - Rethinking JavaScript with Generator Functions.
+- [JavaScript Array Explorer](https://sdras.github.io/array-explorer/) - Find the array method you need without digging through the docs. ([Code](https://github.com/sdras/array-explorer))
