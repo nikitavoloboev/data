@@ -96,3 +96,4 @@
 - [Medusa](https://www.medusa-commerce.com/) - Open-source alternative to Shopify. ([HN](https://news.ycombinator.com/item?id=28481913)) ([Code](https://github.com/medusajs/medusa))
 - [Geizhals](https://geizhals.eu/) - Tech Product Price Comparison and Tracking. ([HN](https://news.ycombinator.com/item?id=28490656))
 - [Droppa](https://www.droppa.com/) - Returns made better.
+- [What's going on with global supply chains? (2021)](https://twitter.com/hockendougal/status/1438538388991266823)
