@@ -64,3 +64,4 @@
 - [Ugly or Beautiful? The Housing Blocks Communism Left Behind](https://www.wired.com/story/communist-housing-blocks-gallery/) ([Tweet](https://twitter.com/WIRED/status/1378918910112727042))
 - [SHED Architecture & Design](https://www.shedbuilt.com/) - Seattle Modern Architects.
 - [Structurae: Structures and Projects Database](https://structurae.net/en/structures/)
+- [Architecture Telegram](https://t.me/Architecture2021) - Уникальные места нашей планеты.
