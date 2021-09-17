@@ -955,6 +955,7 @@
 - [utf8-io](https://github.com/sunfishcode/utf8-io) - Traits and types for UTF-8 I/O.
 - [avro-rs](https://github.com/flavray/avro-rs) - Library for working with Apache Avro in Rust.
 - [Rust Amplify](https://github.com/LNP-BP/rust-amplify) - Amplifying Rust language capabilities: multiple generic trait implementations, type wrappers, derive macros.
+- [spsc-bip-buffer](https://github.com/utaal/spsc-bip-buffer) - Single-producer single-consumer circular buffer that always supports writing a contiguous chunk of data.
 
 ## Cargo Plugins
 

@@ -137,3 +137,4 @@
 - [Accessible autocomplete](https://github.com/alphagov/accessible-autocomplete) - Autocomplete component, built to be accessible.
 - [DOM Testing Library](https://github.com/testing-library/dom-testing-library) - Simple and complete DOM testing utilities that encourage good testing practices.
 - [On the <dl> (2021)](https://benmyers.dev/blog/on-the-dl/)
+- [LazyHTML](https://github.com/cloudflare/lazyhtml) - HTML5-compliant parser and serializer than enables building transformation pipeline in a pluggable manner.
