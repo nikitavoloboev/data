@@ -58,6 +58,7 @@ Here are few more things I liked, design wise.
 - [Dropbase](https://www.dropbase.io/)
 - [Failory](https://www.failory.com/)
 - [iA](https://ia.net/)
+- [Wildbit](https://wildbit.com/)
 - [Tink](https://tink.com/) ([How it's fast](https://news.ycombinator.com/item?id=27615238))
 - [Bevy](https://bevyengine.org/)
 - [Stedi](https://stedi.com/)
