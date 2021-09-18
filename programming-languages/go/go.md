@@ -536,3 +536,4 @@ Go promotes composition over inheritance.
 - [Cloud Native Go Book (2021)](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/) ([Code](https://github.com/cloud-native-go/examples))
 - [Go’ing Insane: Endless Error Handling (2021)](https://jesseduffield.com/Gos-Shortcomings-1/) ([HN](https://news.ycombinator.com/item?id=28522269)) ([Lobsters](https://lobste.rs/s/yjvmlh/go_ing_insane_part_one_endless_error))
 - [Go: Code of Conduct Updates (2021)](https://go.dev/blog/conduct-2021) ([HN](https://news.ycombinator.com/item?id=28556318))
+- [Go'ing Insane Part Three: Imperfect Interfaces (2021)](https://jesseduffield.com/Gos-Shortcomings-3/) ([Reddit](https://www.reddit.com/r/golang/comments/pqfgi9/going_insane_part_three_imperfect_interfaces/))

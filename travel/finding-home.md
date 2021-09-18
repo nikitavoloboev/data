@@ -58,3 +58,4 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Villa](https://villahomes.com/) - Full-Service ADU Builder in California.
 - [Ancana](https://en.ancana.co/) - Fractional ownership of vacation homes. ([HN](https://news.ycombinator.com/item?id=28247379))
 - [What are some luxurious homewares you appreciate? (2021)](https://www.reddit.com/r/fatFIRE/comments/pmmz63/what_are_some_luxurious_homewares_you_appreciate/)
+- [If you were building a house from scratch, what features would you recommend considering? (2021)](https://www.reddit.com/r/fatFIRE/comments/pq373t/if_you_were_building_a_house_from_scratch_what/)
