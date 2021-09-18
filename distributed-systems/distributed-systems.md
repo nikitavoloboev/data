@@ -33,7 +33,7 @@
 - [Protocol Labs](https://protocol.ai/) - Build protocols, systems, and tools to improve internet.
 - [Dark Crystal](https://darkcrystal.pw/about) - Open source R&D affinity. Exploring the potential of new and existing technologies in crypto-space to encourage horizontal group collaboration.
 - [Protozoa](http://protozoa.nz/) - Web developers, facilitators, crypto-engineers. Experts in Node.js & distributed systems.
-- [Akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM.
+- [Akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM. ([Web](https://akka.io/)) ([Reddit](https://www.reddit.com/r/scala/comments/pqjed7/akka_became_the_defacto_solution_for_scala_web/))
 - [Distributed Components](https://distributedcomponents.net/) - Provides reusable infrastructure for formally verifying distributed systems using the Coq proof assistant.
 - [Practical Networked Applications in Rust, Part 1: Non-Networked Key-Value Store](https://arveknudsen.com/posts/practical-networked-applications-in-rust/module-1/) ([HN](https://news.ycombinator.com/item?id=20511271))
 - [LF](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store.

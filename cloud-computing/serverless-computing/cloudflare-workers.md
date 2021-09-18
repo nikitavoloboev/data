@@ -52,7 +52,7 @@
 - [Cloudflare’s Database Partners (2021)](https://blog.cloudflare.com/partnership-announcement-db/)
 - [Cloudflare Developer Challenges Solutions](https://github.com/cloudflare/devweek)
 - [Using Cloudflare Workers to improve your Fastly cache hit rate](https://blog.diffen.com/post/631968553491415040/using-cloudflare-workers-to-improve-fastly-cache-hit-rat)
-- [Multiplayer Doom on Cloudflare Workers (2021)](https://blog.cloudflare.com/doom-multiplayer-workers/) ([Code](https://github.com/cloudflare/doom-wasm)) ([HN](https://news.ycombinator.com/item?id=27194031))
+- [Multiplayer Doom on Cloudflare Workers (2021)](https://blog.cloudflare.com/doom-multiplayer-workers/) ([Code](https://github.com/cloudflare/doom-wasm)) ([HN](https://news.ycombinator.com/item?id=27194031)) ([Reddit](https://www.reddit.com/r/programming/comments/nfcavm/multiplayer_doom_on_cloudflare_workers/))
 - [kv-asset-handler](https://github.com/cloudflare/kv-asset-handler) - Open-source library for managing the retrieval of static assets from Workers KV inside of a Cloudflare Workers function.
 - [Building real-time games using Workers, Durable Objects, and Unity (2021)](https://blog.cloudflare.com/building-real-time-games-using-workers-durable-objects-and-unity/)
 - [Miniflare](https://github.com/mrbbot/miniflare) - Fully-local Cloudflare Workers Simulator. ([Docs](https://miniflare.dev/))
