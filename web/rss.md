@@ -109,4 +109,4 @@
 - [An Analysis of Feed URLs (2021)](https://blog.jim-nielsen.com/2021/feed-urls/)
 - [FeedMixer](https://github.com/cristoper/feedmixer) - Self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON).
 - [Why and how to use RSS for consuming knowledge (2021)](https://bluprince13.com/blog/why-and-how-to-use-rss-for-consuming-knowledge) ([HN](https://news.ycombinator.com/item?id=28412084))
-- [RSS by email](https://rssby.email/) - Subscribe to RSS Feeds over Email. ([HN](https://news.ycombinator.com/item?id=28571528))
+- [RSS by email](https://rssby.email/) - Subscribe to RSS Feeds over Email. ([HN](https://news.ycombinator.com/item?id=28571528)) ([Code](https://github.com/skx/rss2email))

@@ -138,3 +138,4 @@
 - [DOM Testing Library](https://github.com/testing-library/dom-testing-library) - Simple and complete DOM testing utilities that encourage good testing practices.
 - [On the <dl> (2021)](https://benmyers.dev/blog/on-the-dl/)
 - [LazyHTML](https://github.com/cloudflare/lazyhtml) - HTML5-compliant parser and serializer than enables building transformation pipeline in a pluggable manner.
+- [tiny-vdom](https://github.com/aidenybai/tiny-vdom) - Smallest possible virtual DOM implementation.

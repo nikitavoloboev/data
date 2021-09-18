@@ -238,3 +238,5 @@
 - [Greedy AI agents learn to cooperate (2021)](https://spectrum.ieee.org/reinforcement-learning) ([HN](https://news.ycombinator.com/item?id=28437797))
 - [Spice.ai](https://github.com/spiceai/spiceai) - Open source, portable runtime for training and using deep learning on time series data. ([HN](https://news.ycombinator.com/item?id=28449182))
 - [Reinforcement Learning Lecture Series 2021 | DeepMind](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) ([Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)) ([Tweet](https://twitter.com/DeepMind/status/1435974267112464385)) ([Reddit](https://www.reddit.com/r/reinforcementlearning/comments/pl4opb/new_deepminducl_rl_lecture_series_on_youtube/))
+- [PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch) - Minimal implementation of clipped objective Proximal Policy Optimization (PPO) in PyTorch.
+- [rlberry](https://github.com/rlberry-py/rlberry) - Easy-to-use reinforcement learning library for research and education.

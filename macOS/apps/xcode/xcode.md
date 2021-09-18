@@ -74,3 +74,4 @@
 - [Convincing Xcode to Map Vim Keys (2021)](https://bryce.co/xcode-vim-map/)
 - [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - Continuously resilient `xcodebuild` action.
 - [AssetChecker](https://github.com/freshOS/AssetChecker) - Sanitize your Assets.xcassets files.
+- [Analyze Xcode Build and Test Results GitHub Action](https://github.com/tbartelmess/analyze-xcoderesults-action)
