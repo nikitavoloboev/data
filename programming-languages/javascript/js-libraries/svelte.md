@@ -109,3 +109,4 @@
 - [PostgreSQL, PostgREST and Svelte are a bliss to develop with](https://webgma.co.il/Articles/rapid-prototyping-with-postgrest-and-svelte/en/)
 - [Svelte - Web App Development Reimagined • Mark Volkmann (2021)](https://www.youtube.com/watch?v=4CGzFwHoD0A&list=PLEx5khR4g7PKSASVAXXiAhkyx02_OeruP)
 - [macOS Web: Why I moved from React to Svelte (2021)](https://dev.to/puruvj/macos-web-why-i-moved-from-react-to-svelte-4mkp) ([Tweet](https://twitter.com/puruvjdev/status/1431965546916896770))
+- [vite-plugin-pages](https://github.com/aldy505/vite-plugin-pages-svelte) - File system based routing for Svelte applications using Vite.

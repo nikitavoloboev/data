@@ -323,3 +323,4 @@
 - [Python Anti-Pattern](https://valinsky.me/articles/python-anti-pattern/) ([HN](https://news.ycombinator.com/item?id=28534196))
 - [Unravelling `Async for` Loops (2021)](https://snarky.ca/unravelling-async-for-loops/) ([HN](https://news.ycombinator.com/item?id=28509391))
 - [Python in 2021: The Good, The Bad, and the Ugly](https://new.pythonforengineers.com/blog/python-in-2021-the-good-the-bad-and-the-ugly/) ([Lobsters](https://lobste.rs/s/otshxn/python_2021_good_bad_ugly))
+- [Objexplore](https://github.com/kylepollina/objexplore) - Interactive Python object explorer for the terminal.
