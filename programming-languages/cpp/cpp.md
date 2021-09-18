@@ -242,3 +242,4 @@
 - [Safer Usage Of C++ (2021)](https://docs.google.com/document/d/e/2PACX-1vRZr-HJcYmf2Y76DhewaiJOhRNpjGHCxliAQTBhFxzv1QTae9o8mhBmDl32CRIuaWZLt5kVeH9e9jXv/pub)
 - [Coercing deep const-ness (2021)](https://brevzin.github.io/c++/2021/09/10/deep-const/)
 - [A class without a copy constructor (2021)](https://quuxplusone.github.io/blog/2021/09/17/a-class-without-a-copy-constructor/)
+- [Easy Type-Safe Integer Types In C++ (2021)](https://jens.mooseyard.com/2021/09/16/easy-type-safe-integer-types-in-c-/) ([Lobsters](https://lobste.rs/s/dblu7i/easy_type_safe_integer_types_c))

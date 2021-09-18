@@ -226,3 +226,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Главный позор Путина | Имидж России уничтожен (2021)](https://youtu.be/_DZQfqg5Uns)
 - ["Этот режим абсолютно нечеловеческий" (2021)](https://www.youtube.com/watch?v=EuoC_KuZqVU)
 - [Чичваркин об истеричной реакции Путина последовавшем уйти на самоизоляцию (2021)](https://www.youtube.com/watch?v=FJ8dzAS_OAw)
+- [Новая газета](https://novayagazeta.ru/) ([Twitter](https://twitter.com/novaya_gazeta))

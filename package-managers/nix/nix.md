@@ -206,3 +206,4 @@
 - [Building Container Images with Nix (2021)](https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/) ([HN](https://news.ycombinator.com/item?id=28240748))
 - [Debug symbols for binaries with Nix (2021)](http://rski.github.io/2021/09/05/nix-debugging.html)
 - [Ditch your version manager and use Nix (2021)](https://juliu.is/ditch-your-version-manager/) ([Lobsters](https://lobste.rs/s/emyfhx/ditch_your_version_manager))
+- [Advanced shell packaging: resholve YADM's nixpkg (2021)](https://t-ravis.com/post/nix/advanced_shell_packaging_resholve_yadm/)

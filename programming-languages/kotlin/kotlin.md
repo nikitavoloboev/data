@@ -33,3 +33,4 @@
 - [Optimizing Your Kotlin Build (2021)](https://www.zacsweers.dev/optimizing-your-kotlin-build/)
 - [Ten Years of Kotlin (2021)](https://blog.jetbrains.com/kotlin/2021/08/ten-years-of-kotlin/)
 - [ktfmt](https://github.com/facebookincubator/ktfmt) - Program that pretty-prints (formats) Kotlin code, based on google-java-format.
+- [Writing Unadulterated Services with Kotlin and Coroutines (2021)](https://www.youtube.com/watch?v=wTvNNc3A7QU)

@@ -61,3 +61,4 @@
 - [The basics you need to know about Kafka [Graphic Explanation]](https://www.pankajtanwar.in/blog/the-basics-you-need-to-know-about-kafka-graphic-explanation-ahead)
 - [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams) - Python implementation of Apache Kafka Streams.
 - [Kafka Rust Example](https://github.com/ansrivas/kafka-rust-example) - Simple command line application to read/write message to kafka topic using protobuf.
+- [Exactly once delivery from Kafka to Delta Lake with Rust](https://github.com/delta-io/kafka-delta-ingest)

@@ -293,3 +293,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Weird Proxies](https://github.com/GrrrDog/weird_proxies) - Cheat sheet about behavior of various reverse proxies and related attacks.
 - [Bender](https://github.com/pinterest/bender) - Build load testing applications for services using protocols like HTTP, Thrift, Protocol Buffers and many more.
 - [Fast IPv4 to Host Lookups (2020)](https://tech.marksblogg.com/fast-ip-to-hostname-clickhouse-postgresql.html)
+- [Where are IPv3 and IPv5?](https://wander.science/articles/ip-version/) ([Lobsters](https://lobste.rs/s/hku8kt/where_are_ipv3_ipv5))
