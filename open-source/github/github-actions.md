@@ -114,6 +114,7 @@
 - [github-action-ghr](https://github.com/fnkr/github-action-ghr) - GitHub Action to upload build artifacts to GitHub releases.
 - [changed-files](https://github.com/tj-actions/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files with support for push and pull request events.
 - [Tailscale GitHub Action](https://github.com/tailscale/github-action) - Connects to your Tailscale network by adding a step to your workflow.
+- [git-release](https://github.com/anton-yurchenko/git-release) - Publish a GitHub Release with Assets and Changelog.
 
 ## Go
 

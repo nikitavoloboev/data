@@ -749,6 +749,7 @@
 - [RouterService](https://github.com/rockbruno/RouterService) - Type-safe navigation/dependency injection framework focused on making modular Swift apps have very fast build times.
 - [AHDownloadButton](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
 - [VertexGUI](https://github.com/VertexUI/VertexGUI) - Framework for creating cross-platform GUI applications with Swift.
+- [SwiftIndexStore](https://github.com/kateinoigakukun/swift-indexstore) - IndexStore reader library for Swift.
 
 ## Other (not lib)
 
