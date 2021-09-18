@@ -288,3 +288,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-cliff](https://github.com/orhun/git-cliff) - Generate changelog files from the Git history. ([HN](https://news.ycombinator.com/item?id=28423843))
 - [Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git (2021)](https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html)
 - [Version Control Without Git](https://itoshkov.github.io/git-tutorial)
+- [HN: Gitlab S-1 (2021)](https://news.ycombinator.com/item?id=28568101)
