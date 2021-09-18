@@ -145,6 +145,7 @@
 - [Things to know before PH product launch (2021)](https://twitter.com/ahiggz/status/1428444815704924170)
 - [Awesome Developer Advocacy](https://github.com/dmitryvinn/awesome-dev-advocacy)
 - [Developer, you may need a co-founder in marketing (2021)](https://microfounder.com/blog/cofounder-in-marketing) ([HN](https://news.ycombinator.com/item?id=28553775))
+- [How I’ve approached founder-led sales (2021)](https://www.kracov.co/writing/founder-sales)
 
 ## Images
 

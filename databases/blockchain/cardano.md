@@ -20,7 +20,8 @@ Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status
 - [Plutus Platform](https://github.com/input-output-hk/plutus) - Plutus language implementation and tools.
 - [Enter the Hydra: scaling distributed ledgers, the evidence-based way (2020)](https://iohk.io/en/blog/posts/2020/03/26/enter-the-hydra-scaling-distributed-ledgers-the-evidence-based-way/)
 - [Formal Models for Ledger Rules](https://github.com/input-output-hk/cardano-ledger-specs) - Formal specification and executable model of the ledger rules introduced by the Shelley release.
-- [cardano-node](https://github.com/input-output-hk/cardano-node) - Integration of the ledger, consensus, networking and node shell repositories.
+- [cardano-node](https://github.com/input-output-hk/cardano-node) - Integration of the ledger, consensus, networking and node shell repositories. Core component that is used to participate in a Cardano decentralised blockchain.
+- [Ogmios](https://ogmios.dev/) - WebSocket JSON/RPC bridge for Cardano. ([Code](https://github.com/cardanosolutions/ogmios))
 - [Cardano Ops](https://github.com/input-output-hk/cardano-ops) - NixOps deployment configuration for IOHK/Cardano devops.
 - [Reasons ADA could fail (2021)](https://www.reddit.com/r/cardano/comments/ls7rz6/tell_me_all_the_reasons_ada_could_fail/)
 - [Getting Started Developing on Cardano (2021)](https://www.reddit.com/r/CardanoDevelopers/comments/m31l87/getting_started_developing_on_cardano/)
@@ -46,3 +47,5 @@ Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status
 - [Concurrency, State, & Cardano (2021)](https://sundaeswap-finance.medium.com/concurrency-state-cardano-c160f8c07575) ([Reddit](https://www.reddit.com/r/CryptoTechnology/comments/pjobqj/whats_the_deal_with_the_cardano_ammconcurrency/))
 - [Cardano Concurrency (MinSwap issue) (2021)](https://www.reddit.com/r/cardano/comments/phsqlj/concurrency_minswap_issue_is_not_a_problem_says/)
 - [Charles Hoskinson on Cardano Smart Contracts (2021)](https://www.youtube.com/watch?v=QJltrL1J_rs)
+- [Cardano Wallet](https://github.com/input-output-hk/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+- [Cardano validators explained (2021)](https://twitter.com/_KtorZ_/status/1439168735810555906)

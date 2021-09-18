@@ -124,3 +124,4 @@ Success comes from not giving up and doing what you love.
 - [Beware of tight feedback loops (2020)](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/) ([HN](https://news.ycombinator.com/item?id=27482067))
 - [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.goodreads.com/book/show/16256798-the-one-thing) ([Summary](https://emilyyleung.github.io/digitalgarden/books/The%20One%20Thing%20-%20Keller/))
 - [Principles of Wealth](https://principlesofwealth.net/) - Summary of Naval Ravikant’s tweetstorms and podcasts. ([Code](https://github.com/flowen/principlesofwealth))
+- [How to be a successful athlete (2021)](https://twitter.com/nathanbaugh27/status/1438845812642127876)
