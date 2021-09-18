@@ -142,6 +142,7 @@
 - [computational-algebra](https://github.com/konn/computational-algebra) - General-Purpose Computer Algebra System as an EDSL in Haskell.
 - [spectacle](https://github.com/awakesecurity/spectacle) - Embedded specification language & model checker in Haskell.
 - [Hashable](https://github.com/haskell-unordered-containers/hashable) - Class for types that can be converted to a hash value.
+- [effectful](https://github.com/arybczak/effectful) - Easy to use, performant extensible effects library with seamless integration with the existing Haskell ecosystem.
 
 ## Links
 

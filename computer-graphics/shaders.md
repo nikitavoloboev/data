@@ -47,3 +47,4 @@
 - [GIPS](https://github.com/kajott/GIPS) - GLSL Image Processing System. Applies filters written in the OpenGL Shading Language (GLSL).
 - [GLTF -> React Three Fiber](https://gltf.pmnd.rs/) ([Code](https://github.com/pmndrs/gltfjsx))
 - [Pilka](https://github.com/pudnax/pilka) - Live-coding tool for creating shader demos, Vulkan powered.
+- [Sh4derJockey](https://github.com/slerpyyy/sh4der-jockey) - Tool for shader coding and live performances.
