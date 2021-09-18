@@ -138,3 +138,4 @@
 - [qemu-user-static (qus)](https://github.com/dbhi/qus) - Compilation of utilities, examples and references to build and execute OCI images (aka docker images) for foreign architectures using QEMU's user-mode emulation. ([Docs](https://dbhi.github.io/qus/))
 - [Are Dockerfiles good enough? (2021)](https://matduggan.com/are-dockerfiles-good-enough/) ([Lobsters](https://lobste.rs/s/ttqi4c/are_dockerfiles_good_enough))
 - [Podman Compose](https://github.com/containers/podman-compose) - Script to run docker-compose.yml using podman.
+- [Using Podman with BuildKit, the better Docker image builder (2021)](https://pythonspeed.com/articles/podman-buildkit/) ([Lobsters](https://lobste.rs/s/yawpxa/using_podman_with_buildkit_better_docker))
