@@ -40,3 +40,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Коллапс моей личности](https://www.youtube.com/watch?v=5pkrlZGFzF0)
 - [Ask HN: I feel trapped in my job and city (2021)](https://news.ycombinator.com/item?id=28200727)
 - [Reflections on Burnout (2021)](https://medium.com/@vaidehijoshi/reflections-on-burnout-bea0ebf87b9)
+- [Avoiding Burnout](https://andrewdumont.me/avoiding-burnout/) ([HN](https://news.ycombinator.com/item?id=5630445)) ([Summary](https://twitter.com/senotrusov/status/1439103386964615170))

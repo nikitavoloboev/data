@@ -48,3 +48,4 @@
 - [GLTF -> React Three Fiber](https://gltf.pmnd.rs/) ([Code](https://github.com/pmndrs/gltfjsx))
 - [Pilka](https://github.com/pudnax/pilka) - Live-coding tool for creating shader demos, Vulkan powered.
 - [Sh4derJockey](https://github.com/slerpyyy/sh4der-jockey) - Tool for shader coding and live performances.
+- [GLSL Linting for VS Code](https://github.com/hsimpson/vscode-glsllint) - Supports linting of GLS (OpenGL Shading Language).

@@ -67,3 +67,4 @@
 - [workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust.
 - [Toucan](https://github.com/robertcepa/toucan-js) - Sentry client for Cloudflare Workers written in TypeScript.
 - [Native Rust Support on Cloudflare Workers (2021)](https://blog.cloudflare.com/workers-rust-sdk/) ([HN](https://news.ycombinator.com/item?id=28469171))
+- [Profiling Your Workers with Wrangler (2021)](https://blog.cloudflare.com/profiling-your-workers-with-wrangler/)
