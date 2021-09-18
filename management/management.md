@@ -137,3 +137,4 @@
 - [A Guide to Becoming a Tech Lead (2021)](https://coding-time.co/tech-lead-guide/)
 - [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) ([HN](https://news.ycombinator.com/item?id=28515579))
 - [Why Do Companies Have So Many Managers? (2021)](https://www.theatlantic.com/ideas/archive/2021/09/manager-work-life-changes/620096/) - How the modern office needs to start adjusting to foster and cater to talented workers. ([Tweet](https://twitter.com/edzitron/status/1438819979193819142))
+- [What I Learnt Becoming a Tech Lead (2021)](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/) ([HN](https://news.ycombinator.com/item?id=28573847))
