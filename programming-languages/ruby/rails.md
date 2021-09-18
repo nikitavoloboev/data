@@ -83,3 +83,4 @@
 - [From Paperclip to Active Storage: An incremental, zero-downtime approach (2021)](https://www.tokyodev.com/2021/03/23/paperclip-activestorage/)
 - [OpenSourceRails.org](https://opensourcerails.org/) - Curated list of great open-source Ruby on Rails applications. ([Code](https://github.com/opensourcerails-org/site))
 - [How to build a search engine with Ruby on Rails: Introducing the Whereable design pattern (2021)](https://blog.testdouble.com/posts/2021-09-09-how-to-build-a-search-engine-with-ruby-on-rails/) ([HN](https://news.ycombinator.com/item?id=28558884))
+- [Stripe::Rails](https://github.com/tansengming/stripe-rails) - Rails Engine for integrating with Stripe.
