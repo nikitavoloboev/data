@@ -222,3 +222,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Polywrap](https://polywrap.io/#/) - Universal Web3 Integration Standard. ([Code](https://github.com/polywrap/monorepo))
 - [Trident](https://github.com/sushiswap/trident) - SushiSwap Next Generation Exchange.
 - [How I made $50K in 3 days with NFTs (2021)](https://paulstamatiou.com/how-i-made-50k-in-3-days-with-nfts/) ([HN](https://news.ycombinator.com/item?id=28575284))
+- [Blockchain + Games (2021)](https://twitter.com/nabeel/status/1438977920324685826)

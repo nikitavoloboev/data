@@ -48,4 +48,4 @@
 - [Up1](https://github.com/Upload/Up1) - Host that client-side encrypts images, text, and other data, and stores them, with the server knowing nothing about the contents.
 - [OCIcrypt Library](https://github.com/containers/ocicrypt) - OCI image spec implementation of container image encryption.
 - [ocicrypt-rs](https://github.com/containers/ocicrypt-rs) - Rust version of the containers/ocicrypt library.
-- [F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption (Extended Version) (2021)](https://arxiv.org/abs/2109.05371) ([Tweet](https://twitter.com/vj_chidambaram/status/1439222843665956870))
+- [F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption (Extended Version) (2021)](https://arxiv.org/abs/2109.05371) ([Tweet](https://twitter.com/vj_chidambaram/status/1439222843665956870)) ([Tweet](https://twitter.com/Theophite/status/1438738713018699778))

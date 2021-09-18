@@ -324,3 +324,4 @@
 - [Unravelling `Async for` Loops (2021)](https://snarky.ca/unravelling-async-for-loops/) ([HN](https://news.ycombinator.com/item?id=28509391))
 - [Python in 2021: The Good, The Bad, and the Ugly](https://new.pythonforengineers.com/blog/python-in-2021-the-good-the-bad-and-the-ugly/) ([Lobsters](https://lobste.rs/s/otshxn/python_2021_good_bad_ugly))
 - [Objexplore](https://github.com/kylepollina/objexplore) - Interactive Python object explorer for the terminal.
+- [Python Programming Puzzles](https://github.com/microsoft/PythonProgrammingPuzzles) - Dataset of python programming puzzles which can be used to teach and evaluate an AI's programming proficiency.

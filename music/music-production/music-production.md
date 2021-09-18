@@ -93,6 +93,7 @@
 - [aeon](https://github.com/tommaisey/aeon) - Live-coding system for musical pattern manipulation.
 - [Open Stage Control](https://openstagecontrol.ammd.net/) - Libre and modular OSC / MIDI controller. ([Code](https://github.com/jean-emmanuel/open-stage-control))
 - [ChucK](https://chuck.cs.princeton.edu/) - Strongly-Timed Music Programming Language. ([HN](https://news.ycombinator.com/item?id=28573193))
+- [Mosquito](https://github.com/ales-tsurko/mosquito) - Audio library for live coding, composition, sound design, DSP prototyping and any kind of audio applications.
 
 ## Inspiration
 

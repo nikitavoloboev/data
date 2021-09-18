@@ -452,7 +452,7 @@
 - [Shillelagh](https://github.com/betodealmeida/shillelagh) - Making it easy to query APIs via SQL.
 - [Chemics](https://github.com/chemics/chemics) - Python package for chemical reactor engineering.
 - [Mesa](https://github.com/projectmesa/mesa) - Agent-based modeling framework in Python. ([Docs](https://mesa.readthedocs.io/en/master/))
-- [borb](https://github.com/jorisschellekens/borb) - Library for creating and manipulating PDF files in python.
+- [Borb](https://github.com/jorisschellekens/borb) - Library for creating and manipulating PDF files in python. ([Web](https://borbpdf.com/)) ([HN](https://news.ycombinator.com/item?id=28574298))
 - [Patsy](https://github.com/pydata/patsy) - Describing statistical models in Python using symbolic formulas.
 - [Twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
 - [ASPIRE](https://github.com/ComputationalCryoEM/ASPIRE-Python) - Algorithms for Single Particle Reconstruction.

@@ -27,3 +27,4 @@
 - [Gravity Sync](https://github.com/vmstan/gravity-sync) - Easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances. ([Article](https://vmstan.com/gravity-sync/))
 - [Blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more.
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension). ([Web](https://sponsor.ajay.app/))
+- [Hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly. ([Web](https://www.github.developerdan.com/hosts/))

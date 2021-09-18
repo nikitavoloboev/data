@@ -76,7 +76,6 @@
 - [Pocket Python](https://github.com/tapanpandita/pocket)
 - [AssemblyAI](https://www.assemblyai.com/) - Top Rated API for Speech-to-Text.
 - [Apple News API Client](https://github.com/Robert-Fairley/apple-news-client)
-- [Google Cloud Client Libraries Go](https://github.com/googleapis/google-cloud-go)
 - [Digital Ocean Go](https://github.com/digitalocean/godo) - Go client library for accessing the DigitalOcean V2 API.
 - [Digital Ocean Python](https://github.com/koalalorenzo/python-digitalocean)
 - [WhatsApp Go](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API.

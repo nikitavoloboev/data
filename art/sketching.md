@@ -6,3 +6,4 @@ I'm learning to make sketches as notes similar to [this](https://twitter.com/_lr
 
 - [Irina Shestak's sketches](https://github.com/lrlna/sketchin)
 - [Sketching and Logo Creation (with Maggie Appleton) (2019)](https://www.youtube.com/watch?v=4mrrNAjiTvk)
+- [Sketch Notes and Doodles – GirlieMac](https://girliemac.com/doodles/)

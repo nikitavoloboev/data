@@ -36,3 +36,4 @@
 - [Graph neural network for predicting NMR chemical shifts](https://github.com/ur-whitelab/nmrgnn)
 - [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry)
 - [Awesome Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics)
+- [Illustrated Glossary of Organic Chemistry](http://www.chem.ucla.edu/~harding/IGOC/IGOC.html) ([Common names](http://www.chem.ucla.edu/~harding/IGOC/C/common_name.html))

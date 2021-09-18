@@ -179,6 +179,7 @@
 - [Building an ECS in TypeScript (2021)](https://maxwellforbes.com/posts/typescript-ecs-implementation)
 - [Sindre's tsconfig](https://github.com/sindresorhus/tsconfig) - Shared TypeScript config for my projects.
 - [Designing delightful docs with Orta Therox, engineer on Microsoft's TypeScript compiler team (2021)](https://about.sourcegraph.com/podcast/orta-therox/)
+- [tsconfig-to-swcconfig](https://github.com/Songkeys/tsconfig-to-swcconfig) - Convert tsconfig to swc config.
 
 ## Images
 
