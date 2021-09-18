@@ -16,6 +16,7 @@
 - I think every citizen should have ability to live off the grid without having to pay any tax if he/she wants to. There should be tools available to grow your own food with ease in any environment. Purchases should be conducted in a global decentralized untraceable cryptocurrency. And there should be systems built where fraud (stealing) cannot happen from the government. Full accountability.
 - [Poverty is not a personal failure. It’s a government policy.](https://twitter.com/The_Acumen/status/1388276859532611589)
 - [Police don’t prevent crime. They show up after it happens. Crime prevention starts with funding social programs and creating opportunity.](https://twitter.com/mhdksafa/status/1408292548737699840)
+- [It's a common tactic of authoritarian governments. Criminalize normal behavior, don't enforce it so people get used to breaking said law as a matter of habit. Then when you need someone gone or discredited you just arrest them for any of the numerous crimes averages citizens commit everyday.](https://www.reddit.com/r/worldnews/comments/ppuuf6/under_pressure_from_russian_government_google/)
 
 ## Links
 

@@ -67,3 +67,4 @@
 - [sshportal](https://github.com/moul/sshportal) - Jump host/Jump server without the jump, a.k.a Transparent SSH bastion.
 - [Two cable SSH: the fastest Raspberry Pi setup (2020)](https://blog.cyrusroshan.com/post/two-cable-ssh)
 - [Keygen](https://github.com/charmbracelet/keygen) - SSH key pair generator.
+- [The pitfalls of using SSH-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents) ([HN](https://news.ycombinator.com/item?id=28576617))
