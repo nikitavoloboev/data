@@ -240,4 +240,4 @@
 - [Reinforcement Learning Lecture Series 2021 | DeepMind](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) ([Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)) ([Tweet](https://twitter.com/DeepMind/status/1435974267112464385)) ([Reddit](https://www.reddit.com/r/reinforcementlearning/comments/pl4opb/new_deepminducl_rl_lecture_series_on_youtube/))
 - [PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch) - Minimal implementation of clipped objective Proximal Policy Optimization (PPO) in PyTorch.
 - [rlberry](https://github.com/rlberry-py/rlberry) - Easy-to-use reinforcement learning library for research and education.
-- []SEED RL(https://github.com/google-research/seed_rl) - Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
+- [SEED RL](https://github.com/google-research/seed_rl) - Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
