@@ -26,3 +26,5 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [KUBRICK / TARKOVSKY (2016)](https://www.youtube.com/watch?v=nJiDSbbfk8U)
 - [The Beauty Of The Godfather trilogy (2020)](https://www.youtube.com/watch?v=lg9_Sp2T_Go)
 - [The Beauty Of Christopher Nolan (2021)](https://www.youtube.com/watch?v=U3-iXA6H3Q0)
+- [The Difference Between Anamorphic And Spherical Lenses Explained (2020)](https://www.youtube.com/watch?v=hzuFRgSUIyU)
+- [Как снимает Дени Вильнёв и чем хороша «Дюна» (2021)](https://www.youtube.com/watch?v=I1xbNXQ3Nvw)

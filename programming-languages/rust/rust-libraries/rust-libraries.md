@@ -40,7 +40,7 @@
 - [Thruster](https://github.com/trezm/Thruster) - Fast, middleware based, web framework written in Rust.
 - [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework ([Jelly - Starter template for actix-web projects](https://github.com/secretkeysio/jelly-actix-web-starter))
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
-- [Seed](https://github.com/David-OConnor/seed) - Rust framework for creating web apps.
+- [Seed](https://github.com/seed-rs/seed) - Rust framework for creating web apps. ([HN](https://news.ycombinator.com/item?id=28567714))
 - [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
 - [Tide WebSockets](https://github.com/http-rs/tide-websockets) - Experimental websockets handler for tide based on async-tungstenite.
 - [websocket-lite](https://github.com/1tgr/rust-websocket-lite) - Fast, low-overhead WebSocket client.

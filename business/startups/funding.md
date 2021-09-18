@@ -125,3 +125,4 @@
 - [TeQatlas](https://teqatlas.com/) - All-in-one fundraising tool.
 - [Use Pixar's story formula to win over investors (2021)](https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars) ([HN](https://news.ycombinator.com/item?id=28181861))
 - [How to Raise Investment (2021)](https://tomblomfield.com/post/662033487432466432/how-to-raise-investment) ([HN](https://news.ycombinator.com/item?id=28509306))
+- [Taking part in Y Combinator from Europe: is it worth it? (2021)](https://sifted.eu/articles/yc-combinator-alum-tips/) ([HN](https://news.ycombinator.com/item?id=28564407))

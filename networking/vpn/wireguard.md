@@ -33,7 +33,7 @@
 - [Kilo](https://github.com/squat/kilo) - Multi-cloud network overlay built on WireGuard and designed for Kubernetes. ([Web](https://kilo.squat.ai/))
 - [SSH and User-mode IP WireGuard (2021)](https://fly.io/blog/ssh-and-user-mode-ip-wireguard/) ([HN](https://news.ycombinator.com/item?id=26315695))
 - [tailscale-controller](https://github.com/davidsbond/tailscale-controller) - Kubernetes controller for managing the installation of Tailscale on individual nodes.
-- [Headscale](https://github.com/juanfont/headscale) - Open source implementation of the Tailscale coordination server.
+- [Headscale](https://github.com/juanfont/headscale) - Open source implementation of the Tailscale coordination server. ([HN](https://news.ycombinator.com/item?id=28572013))
 - [innernet](https://github.com/tonarino/innernet) - Private network system that uses WireGuard under the hood. ([Article](https://blog.tonari.no/introducing-innernet))
 - [wgctl](https://github.com/apognu/wgctl) - WireGuard control utility.
 - [Ansible Wireguard Role](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.

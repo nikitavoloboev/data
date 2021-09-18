@@ -38,3 +38,4 @@
 - [NO STARTTLS](https://nostarttls.secvuln.info/) - Why TLS is better without STARTTLS. Security Analysis of STARTTLS in the Email Context. ([Lobsters](https://lobste.rs/s/nufm9m/no_starttls))
 - [View your browser's TLS fingerprint](https://tlsfingerprint.io/) ([HN](https://news.ycombinator.com/item?id=28251700))
 - [BoringSSL Rust](https://github.com/cloudflare/boring) - Bindings for the Rust programming language and TLS adapters for tokio and hyper built on top of it.
+- [Tracing SSL/TLS connections using eBPF (2021)](https://blog.px.dev/ebpf-openssl-tracing/) ([HN](https://news.ycombinator.com/item?id=28554754))

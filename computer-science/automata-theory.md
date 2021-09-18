@@ -52,3 +52,4 @@
 - [Understanding Multiple Neighborhood Cellular Automata (2021)](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/) ([HN](https://news.ycombinator.com/item?id=27287184))
 - [VulkanAutomata](https://github.com/Slackermanz/VulkanAutomata) - GPU-Accelerated Cellular Automata Render Engine using the Vulkan API.
 - [Computational Hierarchy of Elementary Cellular Automata (2021)](https://arxiv.org/abs/2108.00415)
+- [Simple Rust implementation of Conway's Game of Life](https://github.com/brundonsmith/life)

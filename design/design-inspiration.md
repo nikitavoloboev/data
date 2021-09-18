@@ -256,6 +256,7 @@ Here are few more things I liked, design wise.
 - [Dean Eigenmann](https://dean.eigenmann.me/)
 - [Jeff Reiner](https://reiner.design/)
 - [Bytes.Zone](https://bytes.zone/)
+- [Brandon Smith](https://www.brandons.me/) ([Code](https://github.com/brundonsmith/website))
 - [Jack McDade](https://jackmcdade.com/)
 - [Oliver Caldwell](https://oli.me.uk/) ([Code](https://github.com/Olical/blog))
 - [Miguel Solorio](https://www.miguelsolorio.com/)

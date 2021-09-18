@@ -562,3 +562,4 @@
 - [I/O safety and speed: Why not both? (2021)](https://blog.sunfishcode.online/rsix-and-io-safety/)
 - [Broken Encapsulation (2021)](https://blog.sunfishcode.online/broken-encapsulation/)
 - [How to create small Docker images for Rust (2021)](https://kerkour.com/blog/rust-small-docker-image/)
+- [Rustacean Principles, Continued (2021)](https://smallcultfollowing.com/babysteps//blog/2021/09/16/rustacean-principles-continued/)
