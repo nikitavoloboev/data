@@ -289,3 +289,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git (2021)](https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html)
 - [Version Control Without Git](https://itoshkov.github.io/git-tutorial) ([HN](https://news.ycombinator.com/item?id=28549652))
 - [HN: Gitlab S-1 (2021)](https://news.ycombinator.com/item?id=28568101)
+- [Git Commands Explained with Cats (2017)](https://girliemac.com/blog/2017/12/26/git-purr/)

@@ -595,6 +595,7 @@
 - [set-value](https://github.com/jonschlinkert/set-value) - Set nested properties on an object using dot-notation.
 - [parquet.js](https://github.com/ironSource/parquetjs) - Fully asynchronous, pure JavaScript implementation of the Parquet file format.
 - [jlottie](https://github.com/LottieFiles/jlottie) - Small-footprint lottie player in JavaScript.
+- [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module.
 
 ## Links
 
