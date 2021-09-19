@@ -118,3 +118,4 @@
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image Restoration.
 - [Rembg](https://github.com/danielgatis/rembg) - Tool to remove images background.
 - [IPX](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on sharp and libvips.
+- [ImageScript](https://github.com/matmen/ImageScript) - Zero-dependency JavaScript image manipulation.

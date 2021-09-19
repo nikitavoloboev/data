@@ -373,3 +373,4 @@
 - [Volume rendering + 3D implicit surface = Neural 3D Reconstruction](https://github.com/ventusff/neurecon)
 - [Hierarchical Deep Stereo Matching on High-resolution Images (2019)](http://www.contrib.andrew.cmu.edu/~gengshay/cvpr19stereo) ([Code](https://github.com/gengshan-y/high-res-stereo))
 - [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering (2021)](https://zju3dv.github.io/object_nerf/) ([Code](https://github.com/zju3dv/object_nerf))
+- [Image Synthesis via Semantic Composition (2021)](https://shepnerd.github.io/scg/) ([Code](https://github.com/dvlab-research/SCGAN))

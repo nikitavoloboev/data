@@ -208,6 +208,7 @@
 - [NextUI](https://nextui.org/) - Beautiful, fast,modern React UI Library. ([Code](https://github.com/nextui-org/nextui))
 - [React Date Picker](https://github.com/Hacker0x01/react-datepicker) - Simple and reusable Datepicker component for React. ([Web](https://reactdatepicker.com/))
 - [focus-trap-react](https://github.com/focus-trap/focus-trap-react) - React component that traps focus.
+- [react-embed](https://github.com/streamich/react-embed) - Embed 3rd party widgets.
 
 ## Links
 

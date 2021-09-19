@@ -4,6 +4,7 @@
 
 - [Press](https://github.com/saket/press) - Cross-platform markdown editor written in Kotlin Multiplatform.
 - [PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI.
+- [AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked by AirTags and Find My accessories. ([HN](https://news.ycombinator.com/item?id=28577951))
 
 ## Links
 

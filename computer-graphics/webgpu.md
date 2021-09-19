@@ -27,3 +27,4 @@
 - [Access modern GPU features with WebGPU (2021)](https://web.dev/gpu/)
 - [RedGPU](https://github.com/redcamel/RedGPU) - JavaScript WebGPU Engine.
 - [wgpu-profiler](https://github.com/Wumpf/wgpu-profiler) - Simple profiler scopes for wgpu using timer queries.
+- [WebGPU Webpack Starter](https://github.com/Twinklebear/webgpu-webpack-starter)

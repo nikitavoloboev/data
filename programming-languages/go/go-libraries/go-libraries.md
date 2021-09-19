@@ -930,6 +930,7 @@
 - [asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs.
 - [Dragonboat](https://github.com/lni/dragonboat) - High performance multi-group Raft consensus library in pure Go.
 - [RSDic](https://github.com/hillbig/rsdic) - Go library for space-efficient rank/select operations for both sparse and dense bit arrays.
+- [Scriggo](https://github.com/open2b/scriggo) - World’s most powerful template engine and Go embeddable interpreter. ([Web](https://scriggo.com/))
 
 ## Links
 
