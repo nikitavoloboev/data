@@ -149,3 +149,4 @@
 - [How to Study Effectively](https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively) ([HN](https://news.ycombinator.com/item?id=28382821))
 - [Illustrated Primers](https://github.com/prathyvsh/illustrated-primers/) - Books that makes heavy use of visuals for scientific communication.
 - [Ask HN: How Do You Learn? (2021)](https://news.ycombinator.com/item?id=28482726)
+- [Fully-searchable Library Genesis on IPFS](https://libgen.fun/dweb.html) ([HN](https://news.ycombinator.com/item?id=28585208))

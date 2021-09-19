@@ -173,3 +173,4 @@
 - [Chaikin’s Algorithm: Drawing Curves (2021)](https://www.bit-101.com/blog/2021/08/chaikins-algorithm-drawing-curves/) ([HN](https://news.ycombinator.com/item?id=28353464))
 - [A Practical Model for Subsurface Light Transport](https://graphics.stanford.edu/papers/bssrdf/bssrdf.pdf)
 - [Scratchapixel](https://www.scratchapixel.com/index.php) - Learn Computer Graphics From Scratch.
+- [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn computer graphics by writing GPU shaders.

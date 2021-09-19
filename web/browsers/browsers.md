@@ -144,3 +144,4 @@
 - [The web browser as a tool of thought (2021)](https://thesephist.com/posts/browser/) ([HN](https://news.ycombinator.com/item?id=28230704))
 - [Vieb](https://vieb.dev/) - Vim Inspired Electron Browser - Vim bindings for the web by design. ([Code](https://github.com/Jelmerro/Vieb))
 - [Bonsai](https://bonsaibrowser.com/) - Web Browser for Research. ([HN](https://news.ycombinator.com/item?id=28446147))
+- [Dot Browser](https://github.com/dothq/browser) - Privacy-conscious web browser. ([HN](https://news.ycombinator.com/item?id=28584630))

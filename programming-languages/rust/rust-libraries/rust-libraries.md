@@ -958,6 +958,7 @@
 - [spsc-bip-buffer](https://github.com/utaal/spsc-bip-buffer) - Single-producer single-consumer circular buffer that always supports writing a contiguous chunk of data.
 - [Tree-Buf](https://github.com/That3Percent/tree-buf) - Data-oriented, data-driven serializer built for real-world data.
 - [AnyMap](https://github.com/chris-morgan/anymap) - Safe and convenient store for one value of each type.
+- [ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types.
 
 ## Cargo Plugins
 
