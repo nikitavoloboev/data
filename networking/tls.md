@@ -39,3 +39,4 @@
 - [View your browser's TLS fingerprint](https://tlsfingerprint.io/) ([HN](https://news.ycombinator.com/item?id=28251700))
 - [BoringSSL Rust](https://github.com/cloudflare/boring) - Bindings for the Rust programming language and TLS adapters for tokio and hyper built on top of it.
 - [Tracing SSL/TLS connections using eBPF (2021)](https://blog.px.dev/ebpf-openssl-tracing/) ([HN](https://news.ycombinator.com/item?id=28554754))
+- [SmackTLS](https://www.smacktls.com/) - State Machine Attacks.

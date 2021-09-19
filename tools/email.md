@@ -173,3 +173,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Yggmail](https://github.com/neilalexander/yggmail) - End-to-end encrypted email for the mesh networking age.
 - [Email Authenticity 101: DKIM, Dmarc, and SPF (2021)](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/) ([HN](https://news.ycombinator.com/item?id=28194477))
 - [Hanami](https://hanami.run/) - Fast and Reliable Email Forwarding for your own domain.
+- [Modoboa](https://modoboa.org/en/) - Open Source email server. ([HN](https://news.ycombinator.com/item?id=28583099))

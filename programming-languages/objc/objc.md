@@ -45,3 +45,4 @@
 - [ObjectiveScript](https://github.com/kabiroberai/ObjectiveScript) - Powerful superset of JavaScript, which enables extensive interaction with C and Objective-C code. ([Docs](https://www.objs.dev/))
 - [RuntimeBrowser](https://github.com/nst/RuntimeBrowser) - Objective-C Runtime Browser, for Mac OS X and iOS.
 - [AppleTrace](https://github.com/everettjf/AppleTrace) - Objective C Method Tracing Call Chart.
+- [A Short History of Objective-C (2017)](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd) ([HN](https://news.ycombinator.com/item?id=28563870))

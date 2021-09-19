@@ -147,6 +147,7 @@ And these Discord servers:
 - [World Affairs](https://worldaffairs.blog/) - Objective, Nonpartisan and Insightful.
 - [Scientific American](https://www.scientificamerican.com/) - Science News, Expert Analysis, Health Research.
 - [Real Life](https://reallifemag.com/)
+- [IEEE Spectrum](https://spectrum.ieee.org/)
 
 ### Other
 

@@ -72,3 +72,4 @@
 - [Where are we going from here? Software engineering needs formal methods (2021)](https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/) ([HN](https://news.ycombinator.com/item?id=27724331))
 - [Extending Event-B with Discrete, Timing Properties (2012)](http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf)
 - [Esther](https://github.com/aodhneine/esther) - Automated theorem proof assistant based on Homotopy Type Theory.
+- [Is the formal methods winter about to end? (2021)](https://lobste.rs/s/yaufia/is_formal_methods_winter_about_end)
