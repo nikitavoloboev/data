@@ -54,3 +54,4 @@
 - [Snap is Scheme disguised as Scratch](https://people.eecs.berkeley.edu/~bh/snap/baby3.pdf) ([HN](https://news.ycombinator.com/item?id=28337196))
 - [HN: Chicken Scheme (2021)](https://news.ycombinator.com/item?id=28397785)
 - [BiwaScheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter written in JavaScript. ([Web](https://www.biwascheme.org/))
+- [Exploring Scheme implementations for API programming coming from Node.js, Go (2019)](https://taoofmac.com/space/blog/2019/06/20/2310)

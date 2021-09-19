@@ -78,3 +78,4 @@
 - [IP2LoRa](https://github.com/airbus-cyber/IP2LoRa) - IP tunnelling over LoRa.
 - [Adafruit Tiny LoRa](https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa) - LoRaWAN/The Things Network, for CircuitPython.
 - [LoRa-concentrator](https://github.com/will127534/LoRa-concentrator) - Simple Board for SX1301 and SX125X LoRa Gateway / Concentrator.
+- [virtual-lorawan-device](https://github.com/helium/virtual-lorawan-device) - Utility that attaches to a Semtech UDP Host and pretends to be a LoRaWAN Device.

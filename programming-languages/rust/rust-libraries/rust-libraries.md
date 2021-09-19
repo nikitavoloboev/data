@@ -997,6 +997,7 @@
 - [cargo-first-page](https://github.com/cecton/cargo-firstpage) - Shows only the first page of rustc output.
 - [Cargo Bisection](https://github.com/rust-lang/cargo-bisect-rustc) - Bisects rustc, either nightlies or CI artifacts.
 - [cargo-edit-locally](https://github.com/alexcrichton/cargo-edit-locally) - Subcommand to easily edit crate dependencies locally.
+- [cargo-patch](https://github.com/mettke/cargo-patch) - Cargo Subcommand which allows patching dependencies using patch files.
 
 ## Links
 
