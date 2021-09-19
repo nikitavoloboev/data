@@ -156,3 +156,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Nice bitcoin/lightning/crypto open source projects (2021)](https://twitter.com/AlyssaHertig/status/1418359344819810306)
 - [Bitcoin, Currencies, and Fragility (2021)](https://arxiv.org/abs/2106.14204) ([Tweet](https://twitter.com/smdiehl/status/1418997418432073728))
 - [Agora](https://github.com/agora-org/agora/) - Sell Files on the Web using Bitcoin Lightning Network. ([Article](http://agora.download/files/blog/mvp.html)) ([HN](https://news.ycombinator.com/item?id=28092258))
+- [Bcoin](https://github.com/bcoin-org/bcoin) - Alternative implementation of the Bitcoin protocol, written in JavaScript and C/C++ for Node.js. ([Web](https://bcoin.io/)) ([Talk](https://www.youtube.com/watch?v=avTdLjXYsbo))
