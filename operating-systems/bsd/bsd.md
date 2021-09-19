@@ -73,3 +73,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [EuroBSDCon 2021](https://2021.eurobsdcon.org/about/program/) ([HN](https://news.ycombinator.com/item?id=28562494))
 - [FreeBSD Technology Roadmap (2021)](https://freebsdfoundation.org/blog/technology-roadmap/)
 - [The DragonFlyBSD Operating System (2004)](https://people.freebsd.org/~hsu/publications/dragonflybsd.asiabsdcon04.pdf) ([Lobsters](https://lobste.rs/s/hdmuth/dragonflybsd_operating_system_2004))
+- [Serving Netflix Video at 400Gb/s (2021)](https://people.freebsd.org/~gallatin/talks/euro2021.pdf) ([HN](https://news.ycombinator.com/item?id=28584738))

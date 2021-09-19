@@ -545,3 +545,4 @@
 - [Stanford CRFM](https://crfm.stanford.edu/) - Stanford Center for Research on Foundation Models. ([GitHub](https://github.com/stanford-crfm))
 - [[1810.04650] Multi-Task Learning as Multi-Objective Optimization (2019)](https://arxiv.org/abs/1810.04650) ([Code](https://github.com/isl-org/MultiObjectiveOptimization))
 - [Hyperparameter Search with spaCy and Weights & Biases (2021)](https://wandb.ai/wandb/wandb_spacy_sweeps/reports/Hyperparameter-Search-with-spaCy-and-Weights-Biases--Vmlldzo5NDA2MjE) ([Tweet](https://twitter.com/_ScottCondron/status/1435981838212911109))
+- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)

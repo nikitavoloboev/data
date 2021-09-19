@@ -74,3 +74,4 @@
 - [Inside Java](https://inside.java/) - News and views from members of the Java team at Oracle.
 - [HN: Java 17 / JDK 17: General Availability (2021)](https://news.ycombinator.com/item?id=28525378)
 - [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses (2021)](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses) ([HN](https://news.ycombinator.com/item?id=28562874))
+- [Revisiting Java in 2021](https://www.avanwyk.com/revisiting-java-in-2021-ii/) ([HN](https://news.ycombinator.com/item?id=28584518))
