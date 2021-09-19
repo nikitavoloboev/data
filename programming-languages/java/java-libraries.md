@@ -24,6 +24,7 @@
 - [Quarkus](https://github.com/quarkusio/quarkus) - Cloud Native, (Linux) Container First framework for writing Java applications. ([Web](https://quarkus.io/))
 - [HikariCP](https://github.com/brettwooldridge/HikariCP) - Fast, simple, reliable. HikariCP is a "zero-overhead" production ready JDBC connection pool.
 - [JavaPlex](https://github.com/appliedtopology/javaplex) - Persistent Homology and Topological Data Analysis Library.
+- [Mixin](https://github.com/SpongePowered/Mixin) - Trait/mixin and bytecode weaving framework for Java using ASM.
 
 ## Links
 

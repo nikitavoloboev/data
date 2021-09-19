@@ -92,4 +92,4 @@
 - [Terradozer](https://github.com/jckuester/terradozer) - Takes a Terraform state file as input and destroys all resources it finds in it - without needing any \*.tf files.
 - [Scaleway Terraform Provider](https://github.com/scaleway/terraform-provider-scaleway)
 - [Terraform Provider: Snowflake](https://github.com/chanzuckerberg/terraform-provider-snowflake)
-- [Terraform is Not the Golden Hammer (2021)](https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/)
+- [Terraform is Not the Golden Hammer (2021)](https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/) ([HN](https://news.ycombinator.com/item?id=28583258))

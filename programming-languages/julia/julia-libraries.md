@@ -279,6 +279,10 @@
 - [ResourceContexts](https://github.com/c42f/ResourceContexts.jl) - Safe resource handling for Julia, without the do blocks.
 - [MacroTools](https://github.com/FluxML/MacroTools.jl) - Tools for working with Julia code and expressions.
 - [FromFile](https://github.com/Roger-luo/FromFile.jl) - Exports a macro @from, which can be used to import objects from files.
+- [Catalyst.jl](https://github.com/SciML/Catalyst.jl) - Domain-specific language (DSL) for high-performance simulation and modeling of chemical reaction networks.
+- [IRTools](https://github.com/FluxML/IRTools.jl) - Mike's Little Intermediate Representation.
+- [GraphRecipes](https://github.com/JuliaPlots/GraphRecipes.jl) - Graph-related recipes to be used with Plots.jl.
+- [IntervalArithmetic.jl](https://github.com/JuliaIntervals/IntervalArithmetic.jl) - Rigorous floating-point calculations using interval arithmetic in Julia.
 
 ## Links
 
