@@ -57,4 +57,4 @@
 - [Flutter Hooks](https://github.com/rrousselGit/flutter_hooks) - Flutter implementation of React hooks.
 - [A vector format for Flutter (2021)](https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg/edit#heading=h.8crpi5305nr)
 - [Moor](https://github.com/simolus3/moor) - Reactive persistence library for Flutter and Dart, built ontop of SQLite.
-- [Kraken](https://github.com/openkraken/kraken) - High-performance, web standards-compliant rendering engine based on Flutter.
+- [Kraken](https://github.com/openkraken/kraken) - Write in JavaScript, Render in Flutter. ([HN](https://news.ycombinator.com/item?id=28578791))

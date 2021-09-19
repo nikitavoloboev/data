@@ -73,3 +73,4 @@
 - [Extending Event-B with Discrete, Timing Properties (2012)](http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf)
 - [Esther](https://github.com/aodhneine/esther) - Automated theorem proof assistant based on Homotopy Type Theory.
 - [Is the formal methods winter about to end? (2021)](https://lobste.rs/s/yaufia/is_formal_methods_winter_about_end)
+- [Pantagruel](https://pantagruel-language.com/) - Extremely Lightweight Specification Language. ([HN](https://news.ycombinator.com/item?id=28580640))
