@@ -16,3 +16,4 @@
 - [V8 JavaScript engine Blog](https://v8.dev/) ([Code](https://github.com/v8/v8.dev))
 - [Super fast super property access (2021)](https://v8.dev/blog/fast-super) ([HN](https://news.ycombinator.com/item?id=26183402))
 - [V8 Heap Sandbox - High-Level Design Doc (2021)](https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit)
+- [Just](https://github.com/just-js/just) - Very small v8 JS runtime for Linux only.
