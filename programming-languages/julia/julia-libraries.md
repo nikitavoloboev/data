@@ -41,6 +41,7 @@
 - [Cthulhu.jl](https://github.com/JuliaDebug/Cthulhu.jl) - Can help you debug type inference issues.
 - [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) - Collection of tools for chemometrics and machine learning written in Julia.
 - [Lathe.jl](https://github.com/ChifiSource/Lathe.jl) - Inclusive Predictive Learning module for Julia.
+- [TuringModels](https://github.com/StatisticalRethinkingJulia/TuringModels.jl) - Implementations of the models from the Statistical Rethinking book with Turing.jl.
 
 ## Math
 
@@ -283,6 +284,7 @@
 - [IRTools](https://github.com/FluxML/IRTools.jl) - Mike's Little Intermediate Representation.
 - [GraphRecipes](https://github.com/JuliaPlots/GraphRecipes.jl) - Graph-related recipes to be used with Plots.jl.
 - [IntervalArithmetic.jl](https://github.com/JuliaIntervals/IntervalArithmetic.jl) - Rigorous floating-point calculations using interval arithmetic in Julia.
+- [Books.jl](https://github.com/rikhuijzer/Books.jl) - Create books with Julia.
 
 ## Links
 

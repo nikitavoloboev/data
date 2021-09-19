@@ -136,3 +136,4 @@
 - [Jupyter Enterprise Gateway](https://github.com/jupyter/enterprise_gateway) - Lightweight, multi-tenant, scalable and secure gateway that enables Jupyter Notebooks to share resources across distributed clusters such as Apache Spark, Kubernetes and others.
 - [akernel](https://github.com/davidbrochart/akernel) - Asynchronous Python Jupyter kernel, with optional reactive programming.
 - [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion.
+- [JupyterLab App](https://github.com/jupyterlab/jupyterlab_app) - Desktop application for JupyterLab, based on Electron.

@@ -94,3 +94,4 @@
 - [Machine Learning with Julia on AWS SageMaker (2021)](https://beta.datachef.co/blog/machine-learning-with-julia-on-aws-sagemaker/)
 - [GPU Programming in Julia (2021)](https://www.youtube.com/watch?v=aKRv-W9Eg8g) ([Code](https://github.com/maleadt/juliacon21-gpu_workshop))
 - [Julia Enhancement Proposals](https://github.com/JuliaLang/Juleps)
+- [Julia Data Science Book](https://juliadatascience.io/) ([Code](https://github.com/JuliaDataScience/JuliaDataScience))
