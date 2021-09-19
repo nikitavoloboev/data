@@ -231,3 +231,4 @@
 - [Preventing Data Races Using Actors in Swift (2021)](https://swiftsenpai.com/swift/actor-prevent-data-race/)
 - [Codable synthesis for Swift enums (2021)](https://www.swiftbysundell.com/articles/codable-synthesis-for-swift-enums/)
 - [Creating a command line tool using the Swift Package Manager (2021)](https://www.avanderlee.com/swift/command-line-tool-package-manager/)
+- [Reducers, or understanding the shape of functions (2021)](https://nikitamounier.github.io/2021/09/12/reducers.html)

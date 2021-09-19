@@ -95,3 +95,4 @@
 - [scribby](https://github.com/naknomum/scribby) - JavaScript library which lets users draw simple "scribbles" on a web page.
 - [Fire SVG animations (SMIL) when the SVG is visible (2021)](https://www.zachleat.com/web/svg-animate/)
 - [Drauu](https://drauu.netlify.app/) - Headless SVG-based drawboard in browser. ([Code](https://github.com/antfu/drauu))
+- [svg-pan-zoom](https://github.com/bumbu/svg-pan-zoom) - JavaScript library that enables panning and zooming of an SVG in an HTML document, with mouse events or custom JavaScript hooks.

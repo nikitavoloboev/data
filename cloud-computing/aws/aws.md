@@ -213,3 +213,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure. ([Web](https://anywhere.eks.amazonaws.com/)) ([HN](https://news.ycombinator.com/item?id=28465858))
 - [Mistakes I've Made in AWS](https://laravel-news.com/aws-mistakes) ([HN](https://news.ycombinator.com/item?id=28490278))
 - [AWS IAM Tracker](https://github.com/glassechidna/trackiam) - Collects IAM actions, AWS APIs and managed policies from various public sources. ([Web](http://aktion.io/))
+- [AWS Cloudformation User Guide](https://github.com/awsdocs/aws-cloudformation-user-guide)

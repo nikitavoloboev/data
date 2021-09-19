@@ -11,3 +11,4 @@
 - [Impossible to ban Monero (2021)](https://www.reddit.com/r/Monero/comments/pctd1h/do_not_panic_sell/)
 - [MyMonero](https://mymonero.com/) - Simplest way to use the next-generation private digital currency Monero.
 - [Monero P2Pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining.
+- [Bitcoin–Monero Cross-chain Atomic Swap](https://github.com/comit-network/xmr-btc-swap)

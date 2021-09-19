@@ -61,3 +61,4 @@
 - [Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
 - [Triton](https://github.com/openai/triton) - Open-Source GPU Programming for Neural Networks. ([Article](https://openai.com/blog/triton/)) ([HN](https://news.ycombinator.com/item?id=27985594))
 - [How do GPUs avoid false sharing? (2021)](https://www.reddit.com/r/GraphicsProgramming/comments/pi74sd/how_do_gpus_avoid_false_sharing/)
+- [GDRCopy](https://github.com/NVIDIA/gdrcopy) - Low-latency GPU memory copy library based on NVIDIA GPUDirect RDMA technology.
