@@ -208,6 +208,7 @@
 - [The "expert path" is valid. Become an expert in something and learn to sell that expertise. The reward? No upper limit on your rates.](https://twitter.com/aeduhm/status/1387054427010486272)
 - [Set expectations (in the contracts) with clients about response time on emails and scheduling calls for non-emergencies.](https://twitter.com/LizTweetsTech/status/1387727344622882824)
 - [5 Steps to break into high $ consulting as a developer: 1. Specialize in something. 2. Document everything as you learn - videos, blogs, OSS on Git. 3. Update social presence reflecting specialty. 4. Create website with good SEO as lead funnel. 5. Link everything you do to the site](https://twitter.com/dabit3/status/1390790989019746307)
+- [Building a team with part-time contractors can be hard.](https://twitter.com/gilesvangruisen/status/1439665190312742921)
 
 ## Links
 

@@ -959,6 +959,7 @@
 - [Tree-Buf](https://github.com/That3Percent/tree-buf) - Data-oriented, data-driven serializer built for real-world data.
 - [AnyMap](https://github.com/chris-morgan/anymap) - Safe and convenient store for one value of each type.
 - [ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types.
+- [HashiCorp-LRU](https://github.com/al8n/hashicorp-lru) - Contains three LRU based cache, LRUCache, TwoQueueCache and AdaptiveCache.
 
 ## Cargo Plugins
 
