@@ -56,7 +56,7 @@
 - [Joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter. ([Web](https://joker-lang.org/)) ([HN](https://news.ycombinator.com/item?id=28397893))
 - [4Clojure](http://www.4clojure.com/) - Resource to help fledgling clojurians learn the language through interactive problems. ([Code](https://github.com/4clojure/4clojure))
 - [History of Clojure – Rich Hickey](https://clojure.org/about/history) ([HN](https://news.ycombinator.com/item?id=23418699))
-- [A History of Clojure (2021)](https://www.pldi21.org/prerecorded_hopl.11.html) ([HN](https://news.ycombinator.com/item?id=27782864))
+- [A History of Clojure (2021)](https://www.pldi21.org/prerecorded_hopl.11.html) ([HN](https://news.ycombinator.com/item?id=27782864)) ([Summary by Rich Hickey with Q&A](https://www.youtube.com/watch?v=nD-QHbRWcoM))
 - [Better Clojure formatting (2018)](https://tonsky.me/blog/clojurefmt/)
 - [Clojure outside the JVM (2020)](https://www.reddit.com/r/Clojure/comments/h0elw5/clojure_outside_the_jvm/)
 - [Why I'm Productive in Clojure (2013)](https://yogthos.net/posts/2013-08-18-Why-I-m-Productive-in-Clojure.html)

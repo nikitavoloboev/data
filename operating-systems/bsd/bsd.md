@@ -72,3 +72,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [NetBSD Explained: The Unix System That Can Run on Anything (2021)](https://www.makeuseof.com/what-is-netbsd/) ([HN](https://news.ycombinator.com/item?id=28218619))
 - [EuroBSDCon 2021](https://2021.eurobsdcon.org/about/program/) ([HN](https://news.ycombinator.com/item?id=28562494))
 - [FreeBSD Technology Roadmap (2021)](https://freebsdfoundation.org/blog/technology-roadmap/)
+- [The DragonFlyBSD Operating System (2004)](https://people.freebsd.org/~hsu/publications/dragonflybsd.asiabsdcon04.pdf) ([Lobsters](https://lobste.rs/s/hdmuth/dragonflybsd_operating_system_2004))

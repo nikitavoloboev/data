@@ -297,3 +297,4 @@
 - [Eleven proofs of the Gaussian integral](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf) ([HN](https://news.ycombinator.com/item?id=28507114))
 - [A practical guide to radial basis functions](http://num.math.uni-goettingen.de/schaback/teaching/sc.pdf)
 - [Introduction to Higher Mathematics](https://www.whitman.edu/mathematics/higher_math_online/)
+- [Helmhurts (2014)](https://jasmcole.com/2014/08/25/helmhurts/)

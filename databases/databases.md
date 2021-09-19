@@ -163,6 +163,7 @@
 - [Apache Doris](http://doris.incubator.apache.org/master/en/) - Fast MPP database for all modern analytics on big data. ([Code](https://github.com/apache/incubator-doris))
 - [Vertica](https://www.vertica.com/) - Big Data Analytics On-Premises, in the Cloud, or on Hadoop. ([Getting Started with Vertica](https://www.babbling.fish/vertica-survival-guide/))
 - [Embeddinghub](https://github.com/featureform/embeddinghub) - Vector database built for Machine Learning embeddings. ([HN](https://news.ycombinator.com/item?id=28552034))
+- [GQLite](https://github.com/dyedgreen/gqlite) - Embedded graph database implemented with Rust.
 
 ## Tools
 

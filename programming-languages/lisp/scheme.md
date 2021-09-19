@@ -10,7 +10,7 @@
 - [Toski](https://kennethfriedman.org/projects/toski/) - Prototype new debugging tool for Scheme.
 - [Scheme fatigue (2020)](https://hyper.dev/blog/yet-another-scheme.html)
 - [Advanced Scheme: Some Naughty Bits](https://people.csail.mit.edu/jhbrown/scheme/)
-- [Akku.scm](https://github.com/weinholt/akku) - Language package manager for Scheme.
+- [Akku.scm](https://akkuscm.org/) - Scheme package manager. ([Code](https://gitlab.com/akkuscm/akku))
 - [Nanopass Compiler Library](https://github.com/nanopass/nanopass-framework-scheme) - Embedded DSL for writing compilers in Scheme.
 - [Irken Compiler](https://github.com/samrushing/irken-compiler) - Statically typed variant of Scheme. Or a lisp-like variant of ML.
 - [Gerbil Scheme](https://cons.io/) - Opinionated dialect of Scheme designed for Systems Programming, with a state of the art macro and module system on top of the Gambit runtime. ([Code](https://github.com/vyzo/gerbil)) ([Lobsters](https://lobste.rs/s/c29wn2/gerbil_scheme)) ([HN](https://news.ycombinator.com/item?id=20585637))

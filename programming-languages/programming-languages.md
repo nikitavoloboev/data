@@ -235,3 +235,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Dispatch Techniques](http://www.cs.toronto.edu/~matz/dissertation/matzDissertation-latex2html/node6.html) ([Lobsters](https://lobste.rs/s/ux0e7f/dispatch_techniques))
 - [A defense of boring languages (2015)](https://danluu.com/boring-languages/) ([Lobsters](https://lobste.rs/s/akoiot/defense_boring_languages_2015))
 - [How to Rapidly Improve at Any Programming Language (2016)](https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/) ([HN](https://news.ycombinator.com/item?id=28577371))
+- [First-class Names for Effect Handlers (2021)](https://www.youtube.com/watch?v=3HsI4__8RQM&list=PLyrlk8Xaylp6Q52MwsRZBUSIRL3wOk_k1&index=5)
