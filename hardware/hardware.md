@@ -230,3 +230,4 @@
 - [Efabless.com](https://efabless.com/) - Rapid design implementation leveraging an automated digital design flow and full chip template. ([GitHub](https://github.com/efabless))
 - [Fault](https://github.com/Cloud-V/Fault) - Complete Open Source Design for Testing (DFT) Solution.
 - [NVC](https://github.com/nickg/nvc) - VHDL compiler and simulator.
+- [Crowd Supply](https://www.crowdsupply.com/) - Bring original, useful, respectful hardware to life.

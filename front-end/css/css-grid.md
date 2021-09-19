@@ -38,3 +38,4 @@
 - [Preventing a CSS Grid Blowout](https://css-tricks.com/preventing-a-grid-blowout/)
 - [CSS Grid Series](https://medium.com/uncurated)
 - [Notes on CSS Grid](https://emilyyleung.github.io/digitalgarden/tags/css-grid/)
+- [Minding the "gap" (2021)](https://css-tricks.com/minding-the-gap/)

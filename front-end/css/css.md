@@ -355,3 +355,4 @@
 - [Less Absolute Positioning With Modern CSS (2021)](https://ishadeed.com/article/less-absolute-positioning-modern-css/)
 - [Grainy Gradients playground](https://grainy-gradients.vercel.app/) - CSS Noise gradient generator. ([Code](https://github.com/cjimmy/grainy-gradients))
 - [Designing Beautiful Shadows in CSS (2021)](https://www.joshwcomeau.com/css/designing-shadows/) ([HN](https://news.ycombinator.com/item?id=28533458))
+- [Grainy Gradients (2021)](https://css-tricks.com/grainy-gradients/)

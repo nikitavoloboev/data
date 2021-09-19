@@ -231,6 +231,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [If you could only ever read three books, again and again, what would they be? (2021)](https://twitter.com/csallen/status/1425463270824026112)
 - [The Best Science Fiction and Fantasy Books of the Past Decade (2021)](https://www.npr.org/2021/08/18/1027159166/best-books-science-fiction-fantasy-past-decade) ([HN](https://news.ycombinator.com/item?id=28234433))
 - [The Best Books for Software Engineers](https://www.briansnotes.io/books/?sort=rating)
+- [Useful Spy Books (2021)](https://berthub.eu/articles/posts/useful-spy-books/)
 
 ## Notes
 

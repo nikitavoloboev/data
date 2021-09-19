@@ -122,3 +122,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [HN: Today Sci-Hub is 10 years old. I'll publish 2M new articles to celebrate (2021)](https://news.ycombinator.com/item?id=28421477)
 - [Xirva](https://www.xirva.org/) - Arxiv.org on IPFS. ([HN](https://news.ycombinator.com/item?id=28442022)) ([Code](https://github.com/hugoroussel/xirva))
 - [Researchr](https://researchr.org/) - Platform for finding, collecting, sharing, and reviewing scientific publications, for researchers by researchers.
+- [Paper to HTML](https://papertohtml.org/) - Render scientific papers in HTML so they can be more easily read by screen readers or on mobile devices.

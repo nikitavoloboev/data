@@ -193,3 +193,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Designing a scalable design organization (2021)](https://www.mynameisjehad.com/designing-a-scalable-design-organization/)
 - [Figma's design and development process (2021)](https://twitter.com/skuwamoto/status/1235042668494741504)
 - [Design Principles](https://principles.design/) - Open source collection of Design Principles and methods. ([Code](https://github.com/benbrignell/principles.design))
+- [Doodle Ipsum](https://doodleipsum.com/) - Lorem ipsum of illustrations.
