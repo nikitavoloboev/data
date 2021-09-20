@@ -32,6 +32,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Следующие репрессии могут коснуться не только журналистов](https://twitter.com/the_ins_ru/status/1434115644576915456)
 - [Напринимают уебанских законов, а потом такие «это по закону».](https://twitter.com/seginaboroda/status/1433804644912877568)
 - [В России государство нещадно душит бизнес. Человек, который работает на себя, он независим. Его нельзя загнать под угрозой увольнения на всякие шулерские выборы. Им вообще трудно манипулировать и управлять. Ведь наша гб-шная власть держится исключительно на зависимости народа от государства.](https://twitter.com/KillSubZero/status/1437806765312253966)
+- [Как же заебало что мы тратим свои жизни на эту хуйню если честно](https://twitter.com/Vorewig/status/1439834044477452293)
 
 ## Links
 
@@ -227,3 +228,6 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - ["Этот режим абсолютно нечеловеческий" (2021)](https://www.youtube.com/watch?v=EuoC_KuZqVU)
 - [Чичваркин об истеричной реакции Путина последовавшем уйти на самоизоляцию (2021)](https://www.youtube.com/watch?v=FJ8dzAS_OAw)
 - [Новая газета](https://novayagazeta.ru/) ([Twitter](https://twitter.com/novaya_gazeta))
+- [Russian election being stolen in real time (2021)](https://twitter.com/jsrailton/status/1439545705765408771)
+- [Никто не признал это](https://twitter.com/litavrinm/status/1439880684462649345)
+- [Рвать тянет](https://twitter.com/StalinGulag/status/1439958087788531719)

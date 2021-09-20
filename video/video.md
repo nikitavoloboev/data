@@ -19,6 +19,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Beth Harmon being superior in Queen's Gambit](https://www.youtube.com/watch?v=MnjokzR8V7Q)
 - [Beth Harmon | Unstoppable](https://www.youtube.com/watch?v=CZXQGUV9ZSQ)
 - [California Dreamin' - Once Upon A Time In Hollywood](https://www.youtube.com/watch?v=j76nnfv01ig)
+- [Succession (2021) | Season 3 Official Trailer](https://www.youtube.com/watch?v=kevqiiYNFrc)
 
 ## Favorite clips
 

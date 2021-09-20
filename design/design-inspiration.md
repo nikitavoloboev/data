@@ -120,7 +120,7 @@ Here are few more things I liked, design wise.
 - [A decentralized world](https://adecentralizedworld.com/)
 - [Matt Diephouse](https://matt.diephouse.com/)
 - [Jordan Scales](https://thatjdanisso.cool/) ([Code](https://github.com/jdan/thatjdanisso.cool))
-- [Andrew Healey](https://healeycodes.com/)
+- [Andrew Healey](https://healeycodes.com/) ([Code](https://github.com/healeycodes/personal-website))
 - [secret club](https://secret.club/)
 - [Pixel Envy](https://pxlnv.com/)
 - [Pseudo Random](https://www.pseudorandom.com/)

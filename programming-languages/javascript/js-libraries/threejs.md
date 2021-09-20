@@ -60,3 +60,4 @@
 - [threepp](https://github.com/markaren/threepp) - C++17 port of three.js.
 - [Sketchbook](https://github.com/swift502/Sketchbook) - 3D playground built on three.js and cannon.js.
 - [Magical Marbles in Three.js](https://github.com/mattrossman/magic-marble-tutorial) - Adding volumetric effects to a built-in Three.js shader.
+- [Theatre.js](https://www.theatrejs.com/) - JavaScript Motion Design Library. ([Code](https://github.com/AriaMinaei/theatre))

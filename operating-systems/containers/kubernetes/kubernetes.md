@@ -434,3 +434,4 @@
 - [Shipwright](https://github.com/shipwright-io/build) - Extensible framework for building container images on Kubernetes.
 - [Kustomizer](https://github.com/stefanprodan/kustomizer) - Build, diff, apply, prune command-line utility for Kubernetes manifests and Kustomize overlays. Powered by Kubernetes server-side apply. ([Web](https://kustomizer.dev/))
 - [Flannel](https://github.com/flannel-io/flannel) - Simple and easy way to configure a layer 3 network fabric designed for Kubernetes.
+- [Kratix](https://github.com/syntasso/kratix) - Framework for building platforms on Kubernetes.

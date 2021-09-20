@@ -121,3 +121,4 @@
 - [React Native Quick SQLite](https://github.com/ospfranco/react-native-quick-sqlite) - Fastest SQLite implementation for react-native.
 - [metro-minify-esbuild](https://github.com/EvanBacon/metro-minify-esbuild) - Use ESBuild to make your React Native code bundle faster.
 - [Twitter.com's HTML, which is produced by React Native for Web, explained (2021)](https://giuseppegurgone.com/twitter-html/) ([HN](https://news.ycombinator.com/item?id=28382772))
+- [rnx-kit](https://github.com/microsoft/rnx-kit) - Tools which help developers build, deliver, and maintain React Native apps and libraries.

@@ -40,3 +40,4 @@
 - [How to Serve Models (2020)](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)
 - [StudioML](https://studio.ml/) - Python model management framework. ([Code](https://github.com/studioml/studio))
 - [MLapp](https://github.com/gurvindersingh/mlapp) - ML model serving app based on APIs.
+- [Machine Learning Hyperparameter Optimization with Argo (2021)](https://canvatechblog.com/machine-learning-hyperparameter-optimization-with-argo-a60d70b1fc8c)
