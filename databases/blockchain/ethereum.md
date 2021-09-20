@@ -290,3 +290,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [How We Proved the Eth2 Deposit Contract Is Free of Runtime Errors (2021)](https://consensys.net/blog/ethereum-2-0/20039/) ([HN](https://news.ycombinator.com/item?id=28494885))
 - [Zodiac](https://github.com/gnosis/zodiac) - Library for composable DAO tooling built on top of programmable accounts.
 - [Essential Eth](https://github.com/dawsbot/essential-eth) - Ultralight Ethereum utilities for JS and TS.
+- [Symbolic execution for hevm (2020)](https://fv.ethereum.org/2020/07/28/symbolic-hevm-release/)
