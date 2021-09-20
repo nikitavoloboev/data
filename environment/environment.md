@@ -119,3 +119,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Heimdal](https://www.heimdalccu.com/) - Carbon neutral cement. ([HN](https://news.ycombinator.com/item?id=28036927))
 - [How we’re making Dropbox data centers 100% carbon neutral (2021)](https://dropbox.tech/infrastructure/making-dropbox-data-centers-carbon-neutral)
 - [The emergence of heat and humidity too severe for human tolerance (2020)](https://advances.sciencemag.org/content/6/19/eaaw1838) ([HN](https://news.ycombinator.com/item?id=28136793))
+- [Climeworks](https://climeworks.com/) - Direct air capture to help reverse climate change. ([Twitter](https://twitter.com/Climeworks))

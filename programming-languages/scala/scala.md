@@ -83,3 +83,4 @@
 - [Scala 3: What’s Changed Since Scala 3.0.0 (2021)](https://medium.com/scala-3/scala-3-whats-changed-since-scala-3-0-0-be0830c059f5)
 - [A toy compiler of a Scala subset](https://mykolav.github.io/coollang-2020-fs/) ([Code](https://github.com/mykolav/coollang-2020-fs))
 - [Scala project from scratch #1 - rough idea, setting up, design decisions (2021)](https://www.youtube.com/watch?v=EIE-6gx_qi0)
+- [Using BSP effectively in IntelliJ and Scala (2021)](https://hmemcpy.com/2021/09/bsp-and-intellij/) ([Tweet](https://twitter.com/hmemcpy/status/1439862579682217984))

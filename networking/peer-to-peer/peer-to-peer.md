@@ -84,5 +84,5 @@
 - [ThreadDB](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p. ([Docs](https://docs.textile.io/threads/))
 - [Bamboo](https://github.com/AljoschaMeyer/bamboo) - Cryptographically secure, distributed, single-writer append-only log that supports transitive partial replication and local deletion of data.
 - [p2panda](https://p2panda.org/) - p2p communications protocol for playful, secure, data-efficient, offline- and local-first web apps. ([GitHub](https://github.com/p2panda)) ([Spec](https://github.com/p2panda/design-document))
-- [Freenet](https://freenetproject.org/index.html) - Peer-to-peer platform for censorship-resistant communication and publishing.
+- [Freenet](https://freenetproject.org/index.html) - Peer-to-peer platform for censorship-resistant communication and publishing. ([HN](https://news.ycombinator.com/item?id=28587220))
 - [I2P Anonymous Network](https://geti2p.net/en/) - Privacy by design, people-powered network. It is a truly free and anonymizing Internet alternative.

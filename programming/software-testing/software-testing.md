@@ -101,4 +101,4 @@
 - [Choosing properties for property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
 - [Growth Book](https://www.growthbook.io/) - Open Source A/B Testing Platform. ([Code](https://github.com/growthbook/growthbook)) ([HN](https://news.ycombinator.com/item?id=28088882))
 - [Ponicode](https://www.ponicode.com/) - Quick and easy unit testing.
-- [What is Property Based Testing? (2016)](https://hypothesis.works/articles/what-is-property-based-testing/)
+- [What is Property Based Testing? (2016)](https://hypothesis.works/articles/what-is-property-based-testing/) ([HN](https://news.ycombinator.com/item?id=28586932))

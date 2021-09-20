@@ -26,6 +26,7 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 
 - [The thing we call money is just an information system for labor allocation. What actually matters is making goods & providing services. We should look at currencies from an information theory standpoint. Whichever has least error & latency will win.](https://twitter.com/elonmusk/status/1349977642708168704)
 - [China launches digital yuan. Adopted by nations tired of SWIFT abuse. Suddenly US can’t impose sanctions. Shift from apathy to panic, like COVID. But DC can’t build. So they deputize private USD stablecoins. And that is how a digital dollar may be born.](https://twitter.com/jerallaire/status/1395722987966455811)
+- [Rich people buy tons very low and wait till it rises high sell all for tons of profit...Then retail investors get scared and sell there coins making it drop way further than what the rich guys took profit...Next they buy tons again at a even cheaper price and get a lot more coins for there money...Rises high again then Repeat......Vicious cycle but this is the little guys opportunity to get a leg up. Why we have to hold for years of cycles like this and then we lil guys come out on top.](https://www.reddit.com/r/solana/comments/prndpj/whats_going_on_with_the_whole_crypto_market/)
 
 ## Links
 
