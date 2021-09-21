@@ -285,3 +285,4 @@
 - [Private Action Loader](https://github.com/nick-invision/private-action-loader) - Allows private GitHub Actions to be easily reused.
 - [Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions (2021)](https://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/)
 - [GitHub Actions Limitations and Gotchas (2021)](https://www.cbui.dev/github-actions-limitations-and-gotchas/) ([HN](https://news.ycombinator.com/item?id=28460342))
+- [GitHub Actions: Ephemeral self-hosted runners & new webhooks for auto-scaling (2021)](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/) ([HN](https://news.ycombinator.com/item?id=28601618))

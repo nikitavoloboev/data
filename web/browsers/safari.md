@@ -16,6 +16,11 @@ I mention Safari Extensions I use [here](https://github.com/nikitavoloboev/my-ma
 
 My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which adds a custom layer of keybinds you can customize to personalize your browsing experience.
 
+## Nice OSS Safari extensions
+
+- [Amplosion](https://github.com/christianselig/Amplosion) - iOS app/Safari extension to automagically redirect AMP links to their normal counterpart.
+- [Open in Apollo Safari Extension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo.
+
 ## Notes
 
 - It's useful to turn on `Show full website address` option in settings.
