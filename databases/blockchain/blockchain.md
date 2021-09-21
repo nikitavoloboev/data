@@ -65,7 +65,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Mechanism design challenges in cryptocurrency and blockchains by Buterin Slides](https://docs.google.com/presentation/d/1MLwN2-pBufDmUNprf-r8LXFCm1Ua8skphzDTNPTaiUQ/edit#slide=id.p)
 - [Edward Snowden Explains Blockchain to His Lawyer — and the Rest of Us](https://www.aclu.org/blog/privacy-technology/internet-privacy/edward-snowden-explains-blockchain-his-lawyer-and-rest-us)
 - [EOS](https://github.com/EOSIO/eos) - Open source smart contract platform.
-- [The Graph](https://thegraph.com/) - Discover subgraphs by the leading projects in the Web3 ecosystem. All this data is immediately available for querying using GraphQL.
+- [The Graph](https://thegraph.com/) - Indexing protocol for querying networks like Ethereum and IPFS. ([2019 Keynote](https://www.youtube.com/watch?v=fZcbWkrTMtg)) ([Twitter](https://twitter.com/graphprotocol)) ([CLI](https://github.com/graphprotocol/graph-cli))
 - [IELE Semantics](https://github.com/runtimeverification/iele-semantics) - Semantics of Virtual Machine for IELE prototype blockchain.
 - [Why Blockchain Could (One Day) Topple Google (2017)](http://rbharath.github.io/why-blockchain-could-one-day-topple-google/)
 - [Squeezer Framework](https://github.com/SqueezerIO/squeezer) - Build serverless dApps.
@@ -134,7 +134,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Hyperledger Labs](https://labs.hyperledger.org/) ([GitHub](https://github.com/hyperledger-labs))
 - [CX](https://github.com/skycoin/cx) - New programming language for blockchain.
 - [CovenantSQL](https://covenantsql.io/) - Decentralized, trusted, high performance, SQL database with blockchain features. ([Code](https://github.com/CovenantSQL/CovenantSQL))
-- [Graph Node](https://github.com/graphprotocol/graph-node) - Protocol for building decentralized applications (dApps) quickly on Ethereum and IPFS using GraphQL.
+- [Graph Node](https://github.com/graphprotocol/graph-node) - Indexes data from blockchains such as Ethereum and serves it over GraphQL.
 - [Cosmos SDK vs Substrate (2021)](https://gregdhill.xyz/posts/cosmos-sdk-vs-substrate/)
 - [Data Availability & Scaling Blockchains (2021)](https://medium.com/zeroknowledge/data-availability-scaling-blockchains-852f9a54fe54)
 - [BlockCypher](https://live.blockcypher.com/) - Block Explorer for Bitcoin, Ethereum, Litecoin and More. ([Code](https://github.com/blockcypher/explorer))
@@ -224,3 +224,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [How I made $50K in 3 days with NFTs (2021)](https://paulstamatiou.com/how-i-made-50k-in-3-days-with-nfts/) ([HN](https://news.ycombinator.com/item?id=28575284))
 - [Blockchain + Games (2021)](https://twitter.com/nabeel/status/1438977920324685826)
 - [COMIT Network](https://comit.network/) - Open protocol facilitating trustless cross-blockchain applications. ([GitHub](https://github.com/comit-network))
+- [Will DAOs replace Corporations? (2021)](https://every.to/divinations/will-daos-replace-corporations) ([Tweet](https://twitter.com/nbashaw/status/1440362548604268554))
