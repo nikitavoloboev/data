@@ -74,6 +74,7 @@
 - [testlog](https://github.com/rvolosatovs/testlog) - Print debugging, but a little bit nicer.
 - [go-testdeep](https://github.com/maxatome/go-testdeep) - Extremely flexible Go deep comparison, extends the go testing package.
 - [dockertest](https://github.com/ory/dockertest) - Use Docker to run your Go language integration tests against third party services.
+- [go-test-trace](https://github.com/rakyll/go-test-trace) - Go test but it also generates distributed traces.
 
 ## Web
 

@@ -236,3 +236,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [The Moscow Times](https://www.themoscowtimes.com/) - Independent news from Russia. ([Twitter](https://twitter.com/MoscowTimes))
 - [Articles by Jake Cordell on Russia](https://www.themoscowtimes.com/author/jake-cordell)
 - [Такие дела](https://takiedela.ru/) - Медиа про Россию и людей, о которых нельзя молчать. ([Twitter](https://twitter.com/takiedelaru))
+- [Что происходило с электронным голосованием (2021)](https://novayagazeta.ru/articles/2021/09/21/mazhoritarnaia-sistema-vyborov) ([Tweet](https://twitter.com/michaelnacke/status/1440391683842056195))

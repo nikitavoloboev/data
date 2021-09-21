@@ -28,6 +28,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Autorestic](https://github.com/cupcakearmy/autorestic) - High level CLI utility for restic. ([Docs](https://autorestic.vercel.app/))
 - [Walrus](https://github.com/Clivern/Walrus) - Fast, Secure and Reliable System Backup, Set up in Minutes. ([Web](https://clivern.github.io/Walrus/))
 - [awsbackup.sh](https://github.com/keisentraut/awsbackup) - Bash script for personal backup with Amazon Web Services S3 Glacier Deep Archive.
+- [nFreezer](https://github.com/josephernest/nfreezer) - Encrypted-at-rest backup tool, designed specifically for the case when the destination server is untrusted.
 
 ## Cloud Storage
 
