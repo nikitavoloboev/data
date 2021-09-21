@@ -525,3 +525,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Open questions for Bellingcat technical contributors](https://github.com/bellingcat/open-questions) - Difficult, long-term projects that would contribute to open source investigations at Bellingcat and for other investigators around the world.
 - [Gnod](https://www.gnod.com/) - The Global Network Of Discovery.
 - [Thingtesting](https://thingtesting.com/) - Discover and learn more about modern brands. ([Twitter](https://twitter.com/thingtesting_))
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) - Traverses hyperlinks on Wikipedia to find the least number of clicks it takes to navigate between any 2 pages. ([Code](https://github.com/jwngr/sdow)) ([HN](https://news.ycombinator.com/item?id=28595821))

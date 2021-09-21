@@ -17,3 +17,4 @@
 - [ModernGL](https://github.com/moderngl/moderngl) - Modern OpenGL binding for python.
 - [ANGLE](https://github.com/google/angle) - Almost Native Graphics Layer Engine. Conformant OpenGL ES implementation.
 - [Awesome GLSL](https://github.com/vanrez-nez/awesome-glsl) - Best resources to learn programming OpenGL Shaders.
+- [glslSmartDeNoise](https://github.com/BrutPitt/glslSmartDeNoise) - Fast glsl deNoise spatial filter, with circular gaussian kernel, full configurable.

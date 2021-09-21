@@ -78,6 +78,8 @@
 - [Delta](https://github.com/slab/delta-elixir) - Simple yet expressive format to describe contents and changes.
 - [Instruments](https://github.com/discord/instruments) - Simple and Fast metrics for Elixir.
 - [Para](https://github.com/syamilmj/para) - Declarative way to parse and validate parameters.
+- [Norm](https://github.com/keathley/norm) - Data specification and generation.
+- [Algae](https://github.com/witchcrafters/algae) - Bootstrapped algebraic data types for Elixir.
 
 ## Links
 

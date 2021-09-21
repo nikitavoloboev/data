@@ -563,3 +563,5 @@
 - [Broken Encapsulation (2021)](https://blog.sunfishcode.online/broken-encapsulation/)
 - [How to create small Docker images for Rust (2021)](https://kerkour.com/blog/rust-small-docker-image/)
 - [Rustacean Principles, Continued (2021)](https://smallcultfollowing.com/babysteps//blog/2021/09/16/rustacean-principles-continued/)
+- [Explaining rust-analyzer - YouTube (2021)](https://www.youtube.com/playlist?list=PLhb66M_x9UmrqXhQuIpWC5VgTdrGxMx3y)
+- [Rome will be written in Rust (2021)](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust) ([HN](https://news.ycombinator.com/item?id=28607908))

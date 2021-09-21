@@ -97,3 +97,4 @@
 - [Geizhals](https://geizhals.eu/) - Tech Product Price Comparison and Tracking. ([HN](https://news.ycombinator.com/item?id=28490656))
 - [Droppa](https://www.droppa.com/) - Returns made better.
 - [What's going on with global supply chains? (2021)](https://twitter.com/hockendougal/status/1438538388991266823)
+- [Mobile Buy SDK](https://github.com/Shopify/mobile-buy-sdk-ios) - Makes it easy to create custom storefronts in your mobile app, where users can buy products using Apple Pay or their credit card.

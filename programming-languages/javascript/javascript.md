@@ -314,3 +314,4 @@
 - [Regenerated.Dev](https://regenerated.dev/) - Rethinking JavaScript with Generator Functions.
 - [JavaScript Array Explorer](https://sdras.github.io/array-explorer/) - Find the array method you need without digging through the docs. ([Code](https://github.com/sdras/array-explorer))
 - [Currying in JavaScript](https://javascript.info/currying-partials) ([HN](https://news.ycombinator.com/item?id=28583069))
+- [Multithreaded JavaScript Book (2021)](https://www.oreilly.com/library/view/multithreaded-javascript/9781098104429/) - Explores the various features that JavaScript runtimes have at their disposal for implementing multithreaded programming.

@@ -141,3 +141,4 @@
 - [Using Podman with BuildKit, the better Docker image builder (2021)](https://pythonspeed.com/articles/podman-buildkit/) ([Lobsters](https://lobste.rs/s/yawpxa/using_podman_with_buildkit_better_docker))
 - [testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Go library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [Testcontainers-rs](https://github.com/testcontainers/testcontainers-rs) - Library for integration-testing against docker containers from within Rust.
+- [Build docker images with Nix](https://github.com/rvolosatovs/nix-docker-example)

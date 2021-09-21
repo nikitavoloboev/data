@@ -49,6 +49,7 @@ Below is a list of extensions I use.
 
 - [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
 - [Postcode](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode) - API client to test and create HTTP/s requests. ([Code](https://github.com/rohinivsenthil/postcode))
+- [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) - Run your tests in the Sidebar. ([Code](https://github.com/hbenl/vscode-test-explorer))
 - [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub) - Remotely browse and edit a GitHub repository. ([Article](https://code.visualstudio.com/blogs/2021/06/10/remote-repositories?WT.mc_id=devcloud-00000-cxa))
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics. ([Code](https://github.com/usernamehw/vscode-error-lens))
 - [Captain Stack](https://github.com/hieunc229/copilot-clone) - Code suggestion for VSCode. Similar to Github Copilot.
@@ -250,6 +251,7 @@ Below is a list of extensions I use.
 - [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Adds language support for Rust.
 - [Crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates) - Helps Rust developers managing dependencies with Cargo.toml. Only works with dependencies from crates.io.
 - [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) - Native debugger based on LLDB.
+- [Flowistry](https://marketplace.visualstudio.com/items?itemName=wcrichton.flowistry) - VSCode extension that helps you understand Rust programs with program analysis. ([Code](https://github.com/willcrichton/flowistry))
 
 ## Lua
 
@@ -411,3 +413,4 @@ Below is a list of extensions I use.
 - [VS Code Theme Editor](https://themes.vscode.one/) - Create VS Code Themes Easily. ([HN](https://news.ycombinator.com/item?id=26579936))
 - [VSColors](https://www.vscolors.com/)
 - [vscode-chrome-debug-core](https://github.com/microsoft/vscode-chrome-debug-core) - Library for building VS Code debug adapters for targets that support the Chrome Debugging Protocol.
+- [Iridium](https://github.com/Idered/iridium) - Growing collection of VS Code extensions with a fancy name.

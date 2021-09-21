@@ -82,3 +82,4 @@
 - [Low Cost Banana Pi BPI-R2 Pro 5-Port Gigabit Ethernet Router Board](https://www.cnx-software.com/2021/08/30/banana-pi-bpi-r2-pro-5-port-gigabit-ethernet-router-board-rockchip-rk3568/) ([HN](https://news.ycombinator.com/item?id=28440718))
 - [Raspberry Pi Atomic Nixie Clock](https://github.com/will127534/RaspberryPiAtomicNixieClock/wiki) ([HN](https://news.ycombinator.com/item?id=28441504))
 - [Ask HN: What are some good Raspberry Pi alternatives? (2021)](https://news.ycombinator.com/item?id=28532526)
+- [Circle](https://github.com/rsta2/circle) - C++ bare metal programming environment for the Raspberry Pi.

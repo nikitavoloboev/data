@@ -131,3 +131,4 @@
 - [Write an SQL query builder in 150 lines of Python (2021)](https://death.andgravity.com/query-builder-how) ([HN](https://news.ycombinator.com/item?id=28290608))
 - [SQL vs. NoSQL Is the Wrong Distinction (2021)](https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction) ([HN](https://news.ycombinator.com/item?id=28296877))
 - [Cloud Infrastructure as SQL](https://www.iasql.com/) ([HN](https://news.ycombinator.com/item?id=28554089))
+- [SQL Explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries.

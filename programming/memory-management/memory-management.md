@@ -50,3 +50,4 @@
 - [Don’t forget about memory management — Go Time (2021)](https://overcast.fm/+GnKYmRs1E)
 - [DUMA](https://github.com/johnsonjh/duma) - Detect Unintended Memory Access. Red-Zone memory allocator.
 - [regalloc2](https://github.com/bytecodealliance/regalloc2) - New register allocator.
+- [Formalization of properties of a simple imperative, memory-safe language](https://github.com/arthuraa/memory-safe-language)

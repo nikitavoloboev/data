@@ -423,7 +423,7 @@
 - [KubeSurvival](https://github.com/aporia-ai/kubesurvival) - Significantly reduce Kubernetes costs by finding the cheapest machine types that can run your workloads.
 - [A Kubernetes engineer's guide to mTLS (2021)](https://buoyant.io/mtls-guide/)
 - [Awesome Home Kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home.
-- [Civo Kubernetes](https://www.civo.com/) - Fast, Simple, Managed Kubernetes Service. ([GitHub](https://github.com/civo))
+- [Civo Kubernetes](https://www.civo.com/) - Fast, Simple, Managed Kubernetes Service. ([GitHub](https://github.com/civo)) ([CLI](https://github.com/civo/cli))
 - [The Guide to Kubernetes Labels](https://blog.kubecost.com/blog/kubernetes-labels/) ([HN](https://news.ycombinator.com/item?id=28384121))
 - [Chart Releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases.
 - [Kubescape](https://github.com/armosec/kubescape) - First tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA. ([HN](https://news.ycombinator.com/item?id=28419103))
@@ -435,3 +435,4 @@
 - [Kustomizer](https://github.com/stefanprodan/kustomizer) - Build, diff, apply, prune command-line utility for Kubernetes manifests and Kustomize overlays. Powered by Kubernetes server-side apply. ([Web](https://kustomizer.dev/))
 - [Flannel](https://github.com/flannel-io/flannel) - Simple and easy way to configure a layer 3 network fabric designed for Kubernetes.
 - [Kratix](https://github.com/syntasso/kratix) - Framework for building platforms on Kubernetes.
+- [Colima](https://github.com/abiosoft/colima) - Docker (and Kubernetes) on macOS with minimal setup.

@@ -147,7 +147,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together. ([Verify your Paddle.com Webhooks](https://github.com/daveagill/verify-paddle-webhook))
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [OpenReplay](https://openreplay.com/) - Open-Source Session Replay. ([Code](https://github.com/openreplay/openreplay))
-- [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli))
+- [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli)) ([Article](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach))
 - [Tinybird](https://www.tinybird.co/) - Turn raw data into realtime API at scale.
 - [Notify](https://notify.me/) - Subscribe directly to creators.
 - [Increment.me](https://www.increment.me/) - Easily get anonymous feedback on anything. ([HN](https://news.ycombinator.com/item?id=25029904))
@@ -199,6 +199,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Builder](https://www.builder.io/) - Drag and Drop Page Building for Any Tech Stack. ([GitHub](https://github.com/BuilderIO)) ([Code](https://github.com/BuilderIO/builder))
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. ([Web](https://grafana.com/oss/loki/))
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
+- [grokhat](https://grokhat.com/) - Web app built on top of WebSockets and WebRTC. Made for programmers, focusing to be the best pair programming / chat with hacking features.
 - [Creo](https://creolabs.com/) - Next generation iOS, macOS and Android cross-platform app builder.
 - [SafeGraph](https://www.safegraph.com/) - Places Data & Foot Traffic Insights.
 - [Viable Fit](https://www.viable.fit/) - Measure and improve your product market fit.
@@ -560,3 +561,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [ProjectHunts](https://www.projecthunts.com/) - Discover the latest no-code projects built-in public.
 - [Tools for less thought](https://chiefofstuff.substack.com/p/tools-for-less-thought)
 - [Use Spreadsheets Everywhere (2021)](https://www.simplethread.com/use-spreadsheets-everywhere/) ([HN](https://news.ycombinator.com/item?id=28049255))
+- [No code/low code tools to build your MVP (2021)](https://twitter.com/agarwal__gaurav/status/1440283548032770050)

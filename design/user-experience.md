@@ -113,3 +113,4 @@
 - [The Rise Of User-Hostile Software (2021)](https://den.dev/blog/user-hostile-software/) ([HN](https://news.ycombinator.com/item?id=28291478))
 - [How I Experience Web Today](https://how-i-experience-web-today.com/) ([HN](https://news.ycombinator.com/item?id=28280051))
 - [Software should convey a sense of calm](https://patrickjuchli.com/en/posts/learning-experience/) ([HN](https://news.ycombinator.com/item?id=28511881))
+- [Developer experience is user experience (2021)](https://www.mikebrevoort.com/post/002-developer-experience-is-user-experience) ([HN](https://news.ycombinator.com/item?id=28576347))

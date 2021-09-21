@@ -125,7 +125,7 @@
 ## GUI
 
 - [Guietta](https://github.com/alfiopuglisi/guietta) - Python module to create simple GUIs. ([HN](https://news.ycombinator.com/item?id=23721548)) ([Lobsters](https://lobste.rs/s/d7pkoi/guietta_python_module_create_simple_guis))
-- [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Transforms the tkinter, Qt, WxPython, and Remi (browser-based) GUI frameworks into a simpler interface.
+- [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Transforms UI into People-Friendly Pythonic Interfaces. ([HN](https://news.ycombinator.com/item?id=28600922))
 - [Dear PyGui](https://github.com/hoffstadt/DearPyGui) - Simple to use (but powerful) Python GUI framework. ([HN](https://news.ycombinator.com/item?id=24986908))
 - [pyimgui](https://github.com/swistakm/pyimgui) - Cython-based Python bindings for dear imgui.
 - [wxPython Phoenix](https://github.com/wxWidgets/Phoenix) - Cross-Platform GUI Library.
@@ -473,6 +473,8 @@
 - [Pedalboard](https://github.com/spotify/pedalboard) - Spotify’s Audio Effects Library for Python. ([Article](https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/)) ([HN](https://news.ycombinator.com/item?id=28458930))
 - [Pypandoc](https://github.com/NicklasTegner/pypandoc) - Provides a thin wrapper for pandoc, a universal document converter.
 - [Darts](https://github.com/unit8co/darts) - Python library for easy manipulation and forecasting of time series.
+- [goto](https://github.com/snoack/python-goto) - Function decorator that rewrites the bytecode to enable goto in Python. ([HN](https://news.ycombinator.com/item?id=28600651))
+- [Dora](https://github.com/facebookresearch/dora) - Experiment management framework. It expresses grid searches as pure python files.
 
 ## Links
 

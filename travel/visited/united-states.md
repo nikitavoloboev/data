@@ -69,3 +69,4 @@
 - [Immigration Reddit](https://www.reddit.com/r/immigration/)
 - [List of Atrocities committed by US authorities](https://dessalines.github.io/essays/us_atrocities.html)
 - [List of hate crimes in the US](https://dessalines.github.io/essays/us_hate_crimes.html)
+- [The Last Glimpses of California's Vanishing Hippie Utopias (2021)](https://www.gq.com/story/californias-vanishing-hippie-utopias)

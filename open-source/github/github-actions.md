@@ -116,6 +116,7 @@
 - [Tailscale GitHub Action](https://github.com/tailscale/github-action) - Connects to your Tailscale network by adding a step to your workflow.
 - [git-release](https://github.com/anton-yurchenko/git-release) - Publish a GitHub Release with Assets and Changelog.
 - [Create pull request](https://github.com/thomaseizinger/create-pull-request) - Create a pull request, easy and simple.
+- [github-act-runner](https://github.com/ChristopherHX/github-act-runner) - Act as self-hosted runner.
 
 ## Go
 
@@ -286,3 +287,4 @@
 - [Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions (2021)](https://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/)
 - [GitHub Actions Limitations and Gotchas (2021)](https://www.cbui.dev/github-actions-limitations-and-gotchas/) ([HN](https://news.ycombinator.com/item?id=28460342))
 - [GitHub Actions: Ephemeral self-hosted runners & new webhooks for auto-scaling (2021)](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/) ([HN](https://news.ycombinator.com/item?id=28601618))
+- [Learning about GitHub actions](https://github.com/Al-un/ci-github-actions)

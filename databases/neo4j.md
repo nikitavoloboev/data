@@ -17,3 +17,4 @@
 - [InfraNodus](https://github.com/noduslabs/infranodus) - Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects. ([Web](https://infranodus.com/))
 - [neomap](https://github.com/stellasia/neomap) - Neo4j Desktop application to visualize nodes with geographic attributes on a map.
 - [No Cost Data Scraping With GitHub Actions And Neo4j Aura (2021)](https://lyonwj.com/blog/no-cost-data-scraping-github-actions-neo4j-aura) ([Code](https://github.com/johnymontana/lobste.rs-graph))
+- [Neo4j-go-ogm](https://github.com/codingfinest/neo4j-go-ogm) - Neo4j Object Graph Mapping Library for Go runtime.

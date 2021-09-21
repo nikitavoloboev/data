@@ -122,3 +122,4 @@
 - [metro-minify-esbuild](https://github.com/EvanBacon/metro-minify-esbuild) - Use ESBuild to make your React Native code bundle faster.
 - [Twitter.com's HTML, which is produced by React Native for Web, explained (2021)](https://giuseppegurgone.com/twitter-html/) ([HN](https://news.ycombinator.com/item?id=28382772))
 - [rnx-kit](https://github.com/microsoft/rnx-kit) - Tools which help developers build, deliver, and maintain React Native apps and libraries.
+- [React Native Async Storage](https://github.com/react-native-async-storage/async-storage) - Asynchronous, persistent, key-value storage system for React Native.

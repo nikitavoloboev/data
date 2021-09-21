@@ -102,3 +102,4 @@
 - [Qiskit Aer](https://github.com/Qiskit/qiskit-aer) - High performance simulator for quantum circuits that includes noise models.
 - [QWIRE](https://github.com/inQWIRE/QWIRE) - Quantum circuit language and formal verification tool.
 - [Awesome Post Quantum](https://github.com/veorq/awesome-post-quantum) - Curated list of resources about post-quantum cryptography.
+- [Qrack](https://github.com/vm6502q/qrack) - Comprehensive, GPU accelerated framework for developing universal virtual quantum processors.

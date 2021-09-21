@@ -84,3 +84,8 @@
 - [A toy compiler of a Scala subset](https://mykolav.github.io/coollang-2020-fs/) ([Code](https://github.com/mykolav/coollang-2020-fs))
 - [Scala project from scratch #1 - rough idea, setting up, design decisions (2021)](https://www.youtube.com/watch?v=EIE-6gx_qi0)
 - [Using BSP effectively in IntelliJ and Scala (2021)](https://hmemcpy.com/2021/09/bsp-and-intellij/) ([Tweet](https://twitter.com/hmemcpy/status/1439862579682217984))
+- [C-style for loops in Scala 3 (2021)](https://august.nagro.us/scala-for-loop.html) ([Reddit](https://www.reddit.com/r/scala/comments/ps8u5h/fast_cstyle_for_loops_in_scala_3/))
+- [Building Next Gen Applications on JVM with ZIO (2021)](https://www.capitalone.com/tech/software-engineering/building-on-jvm-with-zio/)
+- [Functional Effects Workshop](https://github.com/jdegoes/functional-effects)
+- [Scala 3 for Scala 2 Developers Workshop](https://github.com/jdegoes/scala3-for-scala2-developers)
+- [Functional Data Modeling Workshop](https://github.com/jdegoes/functional-data-modeling)

@@ -286,6 +286,7 @@
 - [IntervalArithmetic.jl](https://github.com/JuliaIntervals/IntervalArithmetic.jl) - Rigorous floating-point calculations using interval arithmetic in Julia.
 - [Books.jl](https://github.com/rikhuijzer/Books.jl) - Create books with Julia.
 - [StructArrays](https://github.com/JuliaArrays/StructArrays.jl) - Efficient implementation of struct arrays in Julia.
+- [Seaborn](https://github.com/JuliaPy/Seaborn.jl) - Julia wrapper around the Seaborn data visualization library.
 
 ## Links
 

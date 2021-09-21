@@ -123,3 +123,4 @@
 - [What Is a Container, After All? (2021)](https://iximiuz.com/en/posts/oci-containers/)
 - [HN: Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines (2021)](https://news.ycombinator.com/item?id=28429650)
 - [Containers Don't Solve Everything (2021)](https://blog.deref.io/containers-dont-solve-everything/) ([HN](https://news.ycombinator.com/item?id=28483529))
+- [umoci](https://github.com/opencontainers/umoci) - Modifies Open Container images. ([Docs](https://umo.ci/))

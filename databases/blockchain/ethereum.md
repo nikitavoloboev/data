@@ -291,3 +291,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Zodiac](https://github.com/gnosis/zodiac) - Library for composable DAO tooling built on top of programmable accounts.
 - [Essential Eth](https://github.com/dawsbot/essential-eth) - Ultralight Ethereum utilities for JS and TS.
 - [Symbolic execution for hevm (2020)](https://fv.ethereum.org/2020/07/28/symbolic-hevm-release/)
+- [DappTools.rs](https://github.com/gakonst/dapptools-rs) - Rust port of DappTools.
+- [sibyl](https://github.com/dialecticch/sibyl) - An easy tool to apply transactions to the current EVM state. Optimized for MEV.
+- [Eth-Hooks](https://github.com/scaffold-eth/eth-hooks) - Commonly used Ethereum hooks.

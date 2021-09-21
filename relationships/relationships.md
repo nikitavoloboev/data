@@ -57,6 +57,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [I think people in general, not just men, can become more closed off in time. Life is hard and we have all been through break ups and heartache and the worst of dating. We have all had our attempts at romance rejected and criticized. I think we really have to communicate about these things, and work on them with our partners.](https://www.reddit.com/r/datingoverthirty/comments/otnz6f/do_men_30_not_text_or_call_to_just_say_hi_or_hear/)
 - [How you treat people is more important than being right](https://twitter.com/NovallSwift/status/1420757742231248909)
 - [You deserve a partner that is actively invested in your happiness.](https://twitter.com/lingerie_addict/status/1438180037455401000)
+- [Be as good a friend as you can be, but within your limits. it isn't selfish to consider your needs, too. the support you can give incurs a cost, and nobody has limitless emotional energy to spend. not being in an abusive relationship doesn't make you a robot, unable to be hurt.](https://twitter.com/shaun_vids/status/1440020031677636619)
 
 ## Links
 

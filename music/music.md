@@ -146,3 +146,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Gnoosic](https://www.gnoosic.com/) - Discover new Music.
 - [Chip Player JS](https://mmontag.github.io/chip-player-js) - Web-based music player for a variety of video game and chiptune music formats. ([Code](https://github.com/mmontag/chip-player-js))
 - [500 Best Songs of All Time (2021)](https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/cyndi-lauper-time-after-time-2-1224843/)
+- [Tuner](https://github.com/Pauloo27/tuner) - Searches and plays songs from YouTube and SoundCloud inside your terminal.

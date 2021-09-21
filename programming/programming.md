@@ -440,3 +440,4 @@
 - [Ask HN: Books that teach you programming languages via systems projects? (2021)](https://news.ycombinator.com/item?id=28478751)
 - [Write code that's easy to delete, and easy to debug too (2021)](https://programmingisterrible.com/post/173883533613/code-to-debug)
 - [The Case for 'Developer Experience' (2021)](https://future.a16z.com/the-case-for-developer-experience/)
+- [On Building Glue Systems (2021)](https://devpoga.org/post/2021-09-18_on_glue_systems/) ([HN](https://news.ycombinator.com/item?id=28574488))

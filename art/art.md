@@ -99,6 +99,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Josh James](https://www.artstation.com/stokens)
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
 - [Mo Elkholti](https://www.instagram.com/numosis/)
+- [lauren myers](https://www.instagram.com/laurenjmyers/)
 - [Miguel Membreno](https://www.artstation.com/miguelmembre)
 - [Sylvain Sarrailh](https://www.artstation.com/tohad)
 - [Simen Johan](https://www.artsy.net/artist/simen-johan)

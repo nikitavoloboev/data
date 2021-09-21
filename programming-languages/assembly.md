@@ -62,3 +62,5 @@
 - [iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for .NET, Rust, Python, JavaScript.
 - [All about Global Offset Table (2021)](https://maskray.me/blog/2021-08-29-all-about-global-offset-table)
 - [Generating a QR code with only ARM Assembly](https://github.com/barrettotte/qr-asm) ([HN](https://news.ycombinator.com/item?id=28458818))
+- [Arm AArch64 Adds Memcpy() Instructions (2021)](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021) ([HN](https://news.ycombinator.com/item?id=28601386))
+- [Sail](https://www.cl.cam.ac.uk/~pes20/sail/) - Language for describing the instruction-set architecture (ISA) semantics of processors. ([Code](https://github.com/rems-project/sail))

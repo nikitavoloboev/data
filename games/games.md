@@ -117,6 +117,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Doomsday Engine](https://dengine.net/) - Doom / Heretic / Hexen port with enhanced graphics. ([Code](https://github.com/skyjake/Doomsday-Engine))
 - [Fish Fight](https://fishfight.org/) - Tactical 2D shooter. Made with Rust-lang and Macroquad. ([Code](https://github.com/fishfight/FishFight))
 - [shoot_game](https://github.com/akon47/shoot_game) - Game using HTML5 Canvas and Vanilla JavaScript.
+- [Q1K3](https://github.com/phoboslab/q1k3) - Tiny FPS for the 2021 js13k competition.
 
 ## Awesome games (other)
 
@@ -216,3 +217,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - ['Cookie Clicker' Wasn't Meant to Be Fun. Why Is It So Popular 8 Years Later? (2021)](https://www.vice.com/en/article/n7bypk/cookie-clicker-wasnt-meant-to-be-fun-why-is-it-so-popular-8-years-later) ([Tweet](https://twitter.com/patrickklepek/status/1433143964811603976))
 - [ProtonDB](https://www.protondb.com/) - Gaming reports for Linux using Proton and Steam Play.
 - [Framework for what makes play-to-earn work (2021)](https://twitter.com/Tocelot/status/1439632031726456832)
+- [Are you playing to play, or playing to win?](https://commoncog.com/blog/playing-to-play-playing-to-win/) ([HN](https://news.ycombinator.com/item?id=28608436))

@@ -68,3 +68,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFSify Documentation (2021)](https://karmanyaah.malhotra.cc/tech/2021/07/ipfsifying-documentation/) ([HN](https://news.ycombinator.com/item?id=28011740))
 - [Estuary](https://github.com/application-research/estuary) - Custom IPFS/Filecoin node that makes it easy to pin IPFS content and make Filecoin deals.
 - [Deno Estuary](https://github.com/deno-libs/estuary) - Deno API client for Estuary, a custom IPFS / Filecoin node.
+- [IPFS Community](https://discuss.ipfs.io/) - General discussion and documentation on community practices. ([Code](https://github.com/ipfs/community))

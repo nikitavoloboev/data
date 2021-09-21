@@ -73,3 +73,4 @@
 - [Modern Cloud](https://www.moderncloud.io/) - Browser-based serverless platform that lets developers build functions and endpoints in minutes. ([Code](https://github.com/ModernCloud/moderncloud))
 - [FireCracker internals: a deep dive inside the technology powering AWS Lambda (2021)](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
 - [Performance monitoring for AWS Lambda (2021)](https://taavirehemagi.medium.com/performance-monitoring-for-aws-lambda-6d9eefb21716)
+- [Lambda GitHub Runner](https://github.com/nwestfall/lambda-github-runner) - Github Action Runner inside of Lambda - A Completely Serverless Solution.

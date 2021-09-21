@@ -750,6 +750,7 @@
 - [AHDownloadButton](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
 - [VertexGUI](https://github.com/VertexUI/VertexGUI) - Framework for creating cross-platform GUI applications with Swift.
 - [SwiftIndexStore](https://github.com/kateinoigakukun/swift-indexstore) - IndexStore reader library for Swift.
+- [Spatial](https://github.com/eonist/Spatial) - Hasle-free AutoLayout (MacOS / iOS).
 
 ## Other (not lib)
 
@@ -775,3 +776,4 @@
 - [Swift Package Manager framework creation in Xcode (2020)](https://www.avanderlee.com/swift/creating-swift-package-manager-framework/)
 - [swift-package-editor](https://github.com/owenv/swift-package-editor) - Mechanical editing support for Package.swift manifests.
 - [Create your own Swift Package and release it on Github.com (2021)](https://medium.com/@przemek.jablonski/create-your-own-swift-package-and-release-it-on-github-com-e47a642c259e)
+- [Surmagic](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease.

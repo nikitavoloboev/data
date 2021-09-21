@@ -31,3 +31,4 @@
 - [Ask HN: Introduction to Analog Synthesizers](https://news.ycombinator.com/item?id=27822489)
 - [Bespoke Synth](https://www.bespokesynth.com/) - Open-source software modular synthesizer. ([HN](https://news.ycombinator.com/item?id=28529672))
 - [Canvas](https://github.com/nhthn/canvas) - Visual additive synthesizer that is controlled by editing an image.
+- [MiniSynth Pi](https://github.com/rsta2/minisynth) - Virtual analog synthesizer for Raspberry Pi.

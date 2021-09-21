@@ -86,3 +86,4 @@
 - [Using Tree Structures with Pagination to build Folder Navigation (2021)](https://medium.com/frame-io-engineering/hierarchy-and-pagination-traversing-the-folder-tree-1ba641ec2ce7)
 - [Fenwick Trees (2021)](https://jornhub.dev/articles/fenwick-trees/)
 - [B-Trees and Databases (2021)](https://medium.com/@amitdavidson234/all-about-b-trees-and-databases-8c0697856189) - How B-Trees power your database in handling data-intensive workloads.
+- [Lock-Free Data Structures (2007)](http://erdani.org/publications/cuj-2004-10.pdf)

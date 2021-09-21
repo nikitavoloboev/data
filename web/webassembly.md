@@ -192,3 +192,4 @@
 - [Wasmer-JS](https://github.com/wasmerio/wasmer-js) - Mono-repo of multiple JavaScript packages enabling easy use of WebAssembly Modules in Node and the Browser.
 - [foxwren](https://github.com/malcolmstill/foxwren) - WebAssembly runtime in Zig.
 - [vite + wasm-pack starter](https://github.com/mizchi/vite-wasm-pack-starter)
+- [run-wasm](https://github.com/slipHQ/run-wasm) - Run WASM based code executions in the browser easily.

@@ -19,3 +19,4 @@
 - [New math book rescues landmark topology proof (2021)](https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/) ([HN](https://news.ycombinator.com/item?id=28471159))
 - [The Disc Embedding Theorem](https://global.oup.com/academic/product/the-disc-embedding-theorem-9780198841319)
 - [Applied Topology](http://appliedtopology.org/) - Qualitative data analysis. ([GitHub](https://github.com/appliedtopology))
+- [Formal Topology in Univalent Foundations](https://github.com/ayberkt/formal-topology-in-UF)

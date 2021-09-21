@@ -29,3 +29,4 @@
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
 - [Obsidian Alfred](https://github.com/hauselin/obsidian-alfred) - Open vaults and files in Obsidian.
 - [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.
+- [obsidian-react-starter](https://github.com/liamcain/obsidian-react-starter) - Starter template for creating an Obsidian plugin with ReactJS.

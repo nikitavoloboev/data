@@ -90,7 +90,7 @@
 
 - [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831))
 - [Tao](https://github.com/tauri-apps/tao) - Cross-platform application window creation library in Rust that supports all major platforms. Maintained for Tauri.
-- [Egui](https://github.com/emilk/egui) - Immediate mode GUI written in Rust, made for WASM.
+- [Egui](https://github.com/emilk/egui) - Immediate mode GUI written in Rust, made for WASM. ([Example](https://github.com/hasenbanck/egui_example))
 - [rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust.
 - [skulpin](https://github.com/aclysma/skulpin) - Easy option for drawing hardware-accelerated 2D by combining vulkan and skia.
 - [Alchemy](https://github.com/ryanmcgrath/alchemy) - Experimental Rust GUI Framework, backed by native widgets on each platform it supports.
@@ -165,6 +165,7 @@
 - [Conrod](https://github.com/PistonDevelopers/conrod) - Easy-to-use, 2D GUI library written entirely in Rust.
 - [Peach](https://github.com/flmng0/peach) - Processing-esque sandboxing framework for Rust.
 - [Rendiation](https://github.com/mikialex/rendiation) - Group of crates that can be composed to impl graphics project.
+- [Building Blocks](https://github.com/bonsairobo/building-blocks) - Voxel library for real-time applications.
 
 ## Games
 
@@ -194,6 +195,7 @@
 - [build-fs-tree](https://github.com/KSXGitHub/build-fs-tree) - Generate a filesystem tree from a macro or a YAML tree.
 - [afl.rs](https://github.com/rust-fuzz/afl.rs) - Fuzzing Rust code with AFLplusplus.
 - [heckcheck](https://github.com/yoshuawuyts/heckcheck) - Heckin small test generator.
+- [rust-counter-strings](https://github.com/thomaschaplin/rust-counter-strings) - Counter strings generator written in rust to help aid software testing.
 
 ## Error
 
@@ -960,6 +962,10 @@
 - [AnyMap](https://github.com/chris-morgan/anymap) - Safe and convenient store for one value of each type.
 - [ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types.
 - [HashiCorp-LRU](https://github.com/al8n/hashicorp-lru) - Contains three LRU based cache, LRUCache, TwoQueueCache and AdaptiveCache.
+- [compact_str](https://github.com/ParkMyCar/compact_str) - Memory efficient immutable string type that can store up to 24\* bytes on the stack.
+- [Heph](https://github.com/Thomasdezeeuw/heph) - Actor framework for Rust based on asynchronous functions.
+- [slog-rs](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust.
+- [winit](https://github.com/rust-windowing/winit) - Cross-platform window creation and management in Rust.
 
 ## Cargo Plugins
 
@@ -1043,3 +1049,4 @@
 - [Rust core for native Android and iOS apps](https://github.com/ivanschuetz/rust_android_ios) - How to use a shared Rust core in native Android and iOS apps.
 - [Roogle](https://roogle.hkmatsumoto.com/) - Rust API search engine, which allows you to search functions by names and type signatures. ([Code](https://github.com/hkmatsumoto/roogle))
 - [Panamax](https://github.com/panamax-rs/panamax) - Tool to mirror the Rust and crates.io repositories, for offline usage of rustup and cargo.
+- [How often is each Clippy lint suppressed on crates.io](https://github.com/dtolnay/noisy-clippy)

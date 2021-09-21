@@ -5,6 +5,7 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 ## Notes
 
 - To open Notion page directly in macOS app. Get the share link. Will look like `https://www.notion.so/nikitavoloboev/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332`. Then use it but with `notion://` prefix like `open notion://nikitavoloboev/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332`.
+- [Async round of feedback on a well written Notion page is worth a thousand meetings.](https://twitter.com/linuz90/status/1440275848200802310)
 
 ## Links
 
@@ -67,3 +68,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [VSCode Notion](https://marketplace.visualstudio.com/items?itemName=frenco.vscode-notion) - Browse Notion pages directly in Visual Studio Code. ([Code](https://github.com/frencojobs/vscode-notion))
 - [Awesome Notion](https://www.awesomenotion.space/) - Curated list of awesome Notion related things. ([Code](https://github.com/mnismt/awesome-notion-site))
 - [Migrating Notion's marketing site to Next.js (2021)](https://www.notion.so/blog/migrating-notion-marketing-to-next-js)
+- [Notion SDK Py](https://github.com/ramnes/notion-sdk-py) - Official Notion SDK rewritten in Python (sync + async).

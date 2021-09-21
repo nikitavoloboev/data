@@ -152,3 +152,4 @@
 - [Stackage](https://www.stackage.org/) - Distribution of compatible Haskell packages from Hackage that build together. ([Code](https://github.com/commercialhaskell/stackage))
 - [pantry](https://github.com/commercialhaskell/pantry) - Content addressable Haskell package management, providing for secure, reproducible acquisition of Haskell package contents and metadata.
 - [Hkgr](https://github.com/juhp/hkgr) - Tool for making releases of Haskell packages on Hackage.
+- [haskell-docs-cli](https://github.com/lazamar/haskell-docs-cli) - Allows you to perform Hoogle searches and to navigate Hackage documentation from the command line.

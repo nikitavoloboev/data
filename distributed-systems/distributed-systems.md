@@ -84,6 +84,7 @@
 - [Debugging Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/2927299.2940294) ([HN](https://news.ycombinator.com/item?id=22993377))
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
 - [Temporal](https://temporal.io/) - Open source microservices orchestration engine for running mission critical code at any scale. ([Code](https://github.com/temporalio/temporal)) ([Docs](https://docs.temporal.io/docs/get-started/)) ([Why I joined Temporal](https://docs.temporal.io/blog/sergey-why-i-joined-temporal/)) ([Go SDK](https://github.com/temporalio/sdk-go))
+- [Temporalite](https://github.com/DataDog/temporalite) - Distribution of Temporal that runs as a single process with zero runtime dependencies.
 - [Stateright](https://github.com/stateright/stateright) - Model checker for implementing distributed systems. ([HN](https://news.ycombinator.com/item?id=27413084))
 - [Arvind Krishnamurthy's research](https://www.cs.washington.edu/people/faculty/arvind)
 - [Distributed Services with Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/)

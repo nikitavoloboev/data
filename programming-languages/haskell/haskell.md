@@ -314,3 +314,4 @@
 - [Distributed Systems in Haskell](https://yager.io/Distributed/Distributed.html) ([HN](https://news.ycombinator.com/item?id=28228987))
 - [HIW 2021 - YouTube](https://www.youtube.com/playlist?list=PLyrlk8Xaylp6_QTmXGuRe3lShaRGaMtgc)
 - [An Introduction to Type Level Programming (2021)](https://rebeccaskinner.net/posts/2021-08-25-introduction-to-type-level-programming.html) ([HN](https://news.ycombinator.com/item?id=28466709))
+- [Syd's rules for sustainable Haskell](https://github.com/NorfairKing/syds-rules-for-sustainable-haskell)

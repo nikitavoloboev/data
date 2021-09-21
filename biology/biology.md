@@ -84,3 +84,4 @@
 - [MRC LMCB at UCL](https://www.ucl.ac.uk/lmcb/) - Develops new molecular understandings of cell function. ([Twitter](https://twitter.com/MRC_LMCB))
 - [Biologists Rethink the Logic Behind Cells’ Molecular Signals (2021)](https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecular-signals-20210916/) ([HN](https://news.ycombinator.com/item?id=28553158))
 - [Visually appealing biology science fiction (2021)](https://twitter.com/LauraDeming/status/1438267984934424576)
+- [Awesome Bioreactors](https://github.com/taivop/awesome-bioreactors)

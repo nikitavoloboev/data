@@ -120,3 +120,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [How we’re making Dropbox data centers 100% carbon neutral (2021)](https://dropbox.tech/infrastructure/making-dropbox-data-centers-carbon-neutral)
 - [The emergence of heat and humidity too severe for human tolerance (2020)](https://advances.sciencemag.org/content/6/19/eaaw1838) ([HN](https://news.ycombinator.com/item?id=28136793))
 - [Climeworks](https://climeworks.com/) - Direct air capture to help reverse climate change. ([Twitter](https://twitter.com/Climeworks))
+- [Ask HN: What can I do to actively fight climate change? (2021)](https://news.ycombinator.com/item?id=28601257)

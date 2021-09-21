@@ -72,3 +72,4 @@
 - [Extensional Structures](https://github.com/arthuraa/extructures) - Finite sets and maps for Coq with extensional equality.
 - [SSProve](https://github.com/SSProve/ssprove) - Foundational framework for modular cryptographic proofs in Coq.
 - [Eliminating Reflection from Type Theory](https://github.com/TheoWinterhalter/ett-to-wtt) - Coq formalisation of a translation from (an) extensional type theory to (a) weak type theory.
+- [Mechanized semantics: the Coq development](https://github.com/xavierleroy/cdf-mech-sem)

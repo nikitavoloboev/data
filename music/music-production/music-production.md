@@ -95,6 +95,7 @@
 - [ChucK](https://chuck.cs.princeton.edu/) - Strongly-Timed Music Programming Language. ([HN](https://news.ycombinator.com/item?id=28573193))
 - [Mosquito](https://github.com/ales-tsurko/mosquito) - Audio library for live coding, composition, sound design, DSP prototyping and any kind of audio applications.
 - [Composing Studio](https://composing.studio/) - Collaborative music composition for everyone. ([Code](https://github.com/ekzhang/composing.studio))
+- [Aubio](https://github.com/aubio/aubio) - Tool designed for the extraction of annotations from audio signals. ([Web](https://aubio.org/)) ([HN](https://news.ycombinator.com/item?id=28582856))
 
 ## Inspiration
 

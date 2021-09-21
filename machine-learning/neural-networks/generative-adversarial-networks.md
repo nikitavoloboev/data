@@ -132,3 +132,4 @@
 - [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163) ([Code](https://github.com/poolio/unrolled_gan))
 - [Pytorch implementation of DCGAN, WGAN-CP, WGAN-GP](https://github.com/Zeleni9/pytorch-wgan)
 - [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://github.com/yangxy/GPEN)
+- [Instance-Conditioned GAN (2021)](https://arxiv.org/abs/2109.05070) ([Code](https://github.com/facebookresearch/ic_gan))

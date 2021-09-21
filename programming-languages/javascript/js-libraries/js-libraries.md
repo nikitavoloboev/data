@@ -597,6 +597,8 @@
 - [jlottie](https://github.com/LottieFiles/jlottie) - Small-footprint lottie player in JavaScript.
 - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module.
 - [Tocca.js](https://github.com/GianlucaGuarini/Tocca.js) - Super lightweight script ( ~1kB ) to detect via Javascript events like 'tap' 'longtap' 'dbltap' 'swipeup' 'swipedown' 'swipeleft' 'swiperight' on any kind of device.
+- [fast-base64](https://github.com/mitschabaude/fast-base64) - Fastest base64 on the web, with Wasm + SIMD.
+- [Nano Colors](https://github.com/ai/nanocolors) - Tiny and fast Node.js library for formatting terminal text with ANSI colors.
 
 ## Links
 

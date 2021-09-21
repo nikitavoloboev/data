@@ -92,3 +92,4 @@
 - [Cluster](https://github.com/efremidze/Cluster) - Easy map annotation clustering library. This repository uses an efficient method (QuadTree) to aggregate pins into a cluster.
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - Small Python library to draw customized maps from OpenStreetMap data. ([HN](https://news.ycombinator.com/item?id=28300951))
 - [MobilityDB](https://github.com/MobilityDB/MobilityDB) - Geospatial trajectory data management & analysis platform, built on PostgreSQL and PostGIS. ([Web](https://mobilitydb.com/))
+- [concaveman](https://github.com/mapbox/concaveman) - Very fast 2D concave hull algorithm in JavaScript.

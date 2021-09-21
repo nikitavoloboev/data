@@ -74,3 +74,5 @@
 - [Esther](https://github.com/aodhneine/esther) - Automated theorem proof assistant based on Homotopy Type Theory.
 - [Is the formal methods winter about to end? (2021)](https://lobste.rs/s/yaufia/is_formal_methods_winter_about_end)
 - [Pantagruel](https://pantagruel-language.com/) - Extremely Lightweight Specification Language. ([HN](https://news.ycombinator.com/item?id=28580640))
+- [There Was No Formal Methods Winter (2021)](https://buttondown.email/hillelwayne/archive/there-was-no-formal-methods-winter/)
+- [REMS (Rigorous Engineering of Mainstream Systems)](https://www.cl.cam.ac.uk/~pes20/rems/) ([GitHub](https://github.com/rems-project))

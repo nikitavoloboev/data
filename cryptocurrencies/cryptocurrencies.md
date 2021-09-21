@@ -129,3 +129,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Particl.io](https://particl.io/) - Privacy Platform & Marketplace on Blockchain. Fully decentralized p2p marketplace.
 - [No, your cryptocurrency cannot work (2021)](https://gist.github.com/joepie91/daa93b9686f554ac7097158383b97838)
 - [The risks of staking for the long-term crypto environment (2021)](https://www.reddit.com/r/CryptoTechnology/comments/pnzv9o/the_risks_of_staking_for_the_longterm_crypto/)
+- [WalletLink](https://www.walletlink.org/#/) - Open protocol that lets users connect their mobile crypto wallets to your DApp.s ([Code](https://github.com/walletlink/walletlink))

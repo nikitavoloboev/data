@@ -62,3 +62,5 @@
 - [Triton](https://github.com/openai/triton) - Open-Source GPU Programming for Neural Networks. ([Article](https://openai.com/blog/triton/)) ([HN](https://news.ycombinator.com/item?id=27985594))
 - [How do GPUs avoid false sharing? (2021)](https://www.reddit.com/r/GraphicsProgramming/comments/pi74sd/how_do_gpus_avoid_false_sharing/)
 - [GDRCopy](https://github.com/NVIDIA/gdrcopy) - Low-latency GPU memory copy library based on NVIDIA GPUDirect RDMA technology.
+- [RealTime 3D Strange Attractors scout on GPU](https://github.com/BrutPitt/glChAoS.P)
+- [NCCL](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication.

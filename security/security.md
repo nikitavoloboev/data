@@ -183,3 +183,5 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust.
 - [OWASP Top 10 2021](https://owasp.org/Top10/) - Nonprofit foundation that works to improve the security of software. ([Code](https://github.com/OWASP/Top10/)) ([HN](https://news.ycombinator.com/item?id=28467397))
 - [Secure Mobile Networking Lab](https://www.seemoo.tu-darmstadt.de/) ([GitHub](https://github.com/seemoo-lab))
+- [Microsoft ruined passwords, now aims for a passwordless future (2021)](https://puri.sm/posts/microsoft-ruined-passwords-now-aims-for-a-passwordless-future/) ([HN](https://news.ycombinator.com/item?id=28598894))
+- [Machine Learning Security / Adversarial Machine Learning PhD seminar (2021)](https://github.com/unica-mlsec/mlsec) ([Web](https://unica-mlsec.github.io/mlsec/))

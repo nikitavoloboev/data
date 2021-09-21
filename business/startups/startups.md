@@ -313,6 +313,7 @@
 - [Alex MacCaw, CEO of Clearbit: My Path as a Founder (2020)](https://www.youtube.com/playlist?list=PLiksA_rhPy7452h1UBSU1nZ6CmeBcRDRx)
 - [The five most common mistakes founders make in trying to find Product Market Fit (PMF) (2021)](https://johnwdanner.medium.com/the-five-most-common-mistakes-founders-make-in-trying-to-find-product-market-fit-pmf-7941836f24ef)
 - [AMA: I make $100K+ ARR from my microstartups (2021)](https://news.ycombinator.com/item?id=28561132)
+- [I started SaaS companies in 2013 and 2021 – how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/) ([HN](https://news.ycombinator.com/item?id=28601031))
 
 ## Images
 

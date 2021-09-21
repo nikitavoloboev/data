@@ -10,6 +10,7 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Burnout is a response to repeated attempts to make meaningful change while lacking the agency to do so. See problems > try to fix them > get shot down or ignored.](https://twitter.com/marcysutton/status/1292971874570256385)
 - [You are not “burnt out”. You are exploited, overworked & underpaid. Use language that accurately describes the underlying problem. Your body isn't broken; the conditions you're enduring are what's broken. Your body is accurately & normally responding to exploitation.](https://twitter.com/Hood_Biologist/status/1387941182781771777)
 - [Sometimes I feel worn out by the world. Then I remember that with just a small amount of effort and curiosity, life is so unbelievably rich, abundant, fascinating, challenging, and inspiring. The rabbit holes are infinite and impossibly deep. Find a loose thread and pull it.](https://twitter.com/jacksondahl/status/1410052629602783232)
+- [Psychedelic mushrooms increase neuroplasticity, allowing restructuring of neural connections. Essentially, you can "rewrite" your brain away from depressive thoughts.](https://www.reddit.com/r/RationalPsychonaut/comments/prz8z5/a_bit_skeptical_about_shrooms_helping_with/)
 
 ## Links
 

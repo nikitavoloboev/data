@@ -236,3 +236,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [A defense of boring languages (2015)](https://danluu.com/boring-languages/) ([Lobsters](https://lobste.rs/s/akoiot/defense_boring_languages_2015))
 - [How to Rapidly Improve at Any Programming Language (2016)](https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/) ([HN](https://news.ycombinator.com/item?id=28577371))
 - [First-class Names for Effect Handlers (2021)](https://www.youtube.com/watch?v=3HsI4__8RQM&list=PLyrlk8Xaylp6Q52MwsRZBUSIRL3wOk_k1&index=5)
+- [Is it better to teach beginner coders a low level or a high level language as their first language? (2021)](https://lobste.rs/s/ulvsxt/is_it_better_teach_beginner_coders_low)

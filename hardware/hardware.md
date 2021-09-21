@@ -231,3 +231,4 @@
 - [Fault](https://github.com/Cloud-V/Fault) - Complete Open Source Design for Testing (DFT) Solution.
 - [NVC](https://github.com/nickg/nvc) - VHDL compiler and simulator.
 - [Crowd Supply](https://www.crowdsupply.com/) - Bring original, useful, respectful hardware to life.
+- [The Framework is the most exciting laptop I've ever used (2021)](https://pluralistic.net/2021/09/21/monica-byrne/#think-different) ([HN](https://news.ycombinator.com/item?id=28606962))

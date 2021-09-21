@@ -35,3 +35,4 @@
 - [provider-gcp](https://github.com/crossplane/provider-gcp) - Crossplane Google Cloud Platform (GCP) infrastructure provider.
 - [oidc-auth-google-cloud](https://github.com/sethvargo/oidc-auth-google-cloud) - GitHub Action for authenticating to Google Cloud with GitHub Actions OIDC tokens and Workload Identity Federation.
 - [Google Cloud Client Libraries Go](https://github.com/googleapis/google-cloud-go)
+- [Sample blueprints for Google Cloud](https://github.com/GoogleCloudPlatform/blueprints)

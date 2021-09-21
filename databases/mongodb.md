@@ -16,3 +16,4 @@
 - [I ended up adding duplicate records on a unique index in MongoDB (2021)](https://avi.im/blag/2021/mongo-dupes-in-unique-index/)
 - [Sift](https://github.com/crcn/sift.js) - Use MongoDB queries in JavaScript.
 - [Mongood](https://github.com/renzholy/mongood) - MongoDB GUI with Fluent Design.
+- [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)

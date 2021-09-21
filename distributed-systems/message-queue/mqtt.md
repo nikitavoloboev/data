@@ -18,3 +18,5 @@
 - [Promqtt](https://github.com/sh0rez/promqtt) - Prometheus ⟷ MQTT Bridge.
 - [msoak](https://github.com/jpmens/msoak) - MQTT subscribe to multiple servers / topics simultaneously.
 - [MQTT.ts](https://github.com/jdiamond/MQTT.ts) - MQTT in TypeScript for Deno, Node.js, and browsers.
+- [mProxy](https://github.com/mainflux/mproxy) - MQTT proxy.
+- [MQTT-Client-Framework](https://github.com/novastone-media/MQTT-Client-Framework) - iOS, macOS, tvOS native ObjectiveC MQTT Client Framework.

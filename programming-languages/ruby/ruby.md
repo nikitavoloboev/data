@@ -81,3 +81,4 @@
 - [Suture](https://github.com/testdouble/suture) - Ruby gem that helps you refactor your legacy code. ([HN](https://news.ycombinator.com/item?id=28424217))
 - [The Future Shape of Ruby Objects (2021)](https://chrisseaton.com/truffleruby/rubykaigi21/)
 - [Ruby type conversion (2021)](https://kddnewton.com/2021/09/09/ruby-type-conversion.html)
+- [Ruby Packer](https://github.com/pmq20/ruby-packer) - Distribute your Ruby code as a compiled binary. ([HN](https://news.ycombinator.com/item?id=28601055))

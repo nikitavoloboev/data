@@ -92,3 +92,4 @@
 - [GPflow](https://github.com/GPflow/GPflow) - Gaussian processes in TensorFlow.
 - [Learning TensorFlow.js Book (2021)](https://www.oreilly.com/library/view/learning-tensorflowjs/9781492090786/)
 - [TF/JAX Tutorials (2021)](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part1)
+- [Scaling TensorFlow to 300 million predictions per second (2021)](https://arxiv.org/abs/2109.09541)

@@ -2,7 +2,7 @@
 
 ## Web
 
-- [Slinky](https://github.com/shadaj/slinky) - Framework for writing React apps in Scala with an experience just like using ES6.
+- [ZIO HTTP](https://github.com/dream11/zio-http) - Scala library to write HTTP apps. Powered by ZIO and netty and aims at being the defacto solution for writing, highly scalable and performant web applications.
 - [Http4s](https://github.com/http4s/http4s) - Minimal, idiomatic Scala interface for HTTP services.
 - [tapir](https://github.com/softwaremill/tapir) - Describe HTTP API endpoints as immutable Scala values. ([Docs](https://tapir.softwaremill.com/en/latest/))
 - [sttp](https://github.com/softwaremill/sttp) - Scala HTTP client you always wanted. ([Docs](https://sttp.softwaremill.com/en/latest/))
@@ -38,7 +38,7 @@
 - [Skunk](https://github.com/tpolecat/skunk) - Data access library for Scala + Postgres.
 - [Scala STM](https://nbronson.github.io/scala-stm/) - Lightweight software transactional memory for Scala, inspired by the STMs in Haskell and Clojure while taking advantage of Scala’s power and performance.
 - [Scalaz](https://github.com/scalaz/scalaz) - Principled Functional Programming in Scala.
-- [ZIO](https://github.com/zio/zio) - Type-safe, composable library for asynchronous and concurrent programming in Scala. ([Web](https://zio.dev/))
+- [ZIO](https://github.com/zio/zio) - Type-safe, composable library for asynchronous and concurrent programming in Scala. ([Web](https://zio.dev/)) ([Advanced ZIO Workshop](https://github.com/jdegoes/advanced-zio))
 - [Matryoshka](https://github.com/slamdata/matryoshka) - Generalized recursion schemes and traversals for Scala.
 - [Scrimage](https://github.com/sksamuel/scrimage) - Scala image processing library.
 - [Fastring](https://github.com/Atry/fastring) - Extremely fast string formatting.
@@ -82,6 +82,8 @@
 - [Avro4s](https://github.com/sksamuel/avro4s) - Avro schema generation and serialization / deserialization for Scala.
 - [Vault](https://github.com/typelevel/vault) - Type-safe, persistent storage for values of arbitrary types.
 - [cats-retry](https://github.com/cb372/cats-retry) - Library for retrying actions that can fail.
+- [Quill](https://github.com/getquill/quill) - Compile-time Language Integrated Queries for Scala. ([Web](https://getquill.io/))
+- [ZIO Optics](https://github.com/zio/zio-optics) - Easily modify parts of larger data structures.
 
 ## Links
 

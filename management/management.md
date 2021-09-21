@@ -16,6 +16,7 @@
 - [Unnecessary process drains people's energy so much that it becomes highly inconvenient to pay attention to any detail.](https://twitter.com/rakyll/status/1418305852772032513)
 - [Adding value by asking "What does the success metrics look like for this?" meanwhile the opportunity is clear, the team is underresourced, and behind on execution.](https://twitter.com/auchenberg/status/1424721736189288450)
 - [That's the way it's always been" is never an adequate reason to continue doing something.](https://twitter.com/PicardTips/status/1434244511069184001)
+- [Звонок (тем более всей команды) — это очень дорогая операция. Нормального созвониться раз в неделю. Нормально созвониться, если есть конфликт.](https://twitter.com/kolyuchii/status/1428644858428895245)
 
 ## Links
 
@@ -138,3 +139,4 @@
 - [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) ([HN](https://news.ycombinator.com/item?id=28515579))
 - [Why Do Companies Have So Many Managers? (2021)](https://www.theatlantic.com/ideas/archive/2021/09/manager-work-life-changes/620096/) - How the modern office needs to start adjusting to foster and cater to talented workers. ([Tweet](https://twitter.com/edzitron/status/1438819979193819142))
 - [What I Learnt Becoming a Tech Lead (2021)](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/) ([HN](https://news.ycombinator.com/item?id=28573847))
+- [Все о тимлидстве](https://github.com/sharovatov/teamlead)

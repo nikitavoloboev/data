@@ -326,4 +326,4 @@
 - [Objexplore](https://github.com/kylepollina/objexplore) - Interactive Python object explorer for the terminal.
 - [Python Programming Puzzles](https://github.com/microsoft/PythonProgrammingPuzzles) - Dataset of python programming puzzles which can be used to teach and evaluate an AI's programming proficiency.
 - [Debugging by starting a REPL at a breakpoint is fun (2021)](https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/)
-- [Structural pattern matching in Python 3.10 (2021)](https://benhoyt.com/writings/python-pattern-matching/)
+- [Structural pattern matching in Python 3.10 (2021)](https://benhoyt.com/writings/python-pattern-matching/) ([HN](https://news.ycombinator.com/item?id=28600594))

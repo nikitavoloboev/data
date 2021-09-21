@@ -28,6 +28,7 @@
 - [Splitties](https://github.com/LouisCAD/Splitties) - Collection of hand-crafted extensions for your Kotlin projects.
 - [AWS SDK for Kotlin](https://github.com/awslabs/aws-sdk-kotlin)
 - [Comachine](https://github.com/beworker/comachine) - Kotlin coroutine capable Finite-State Machine (multiplatform).
+- [jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. ([Web](https://jte.gg/))
 
 ## Links
 

@@ -57,3 +57,4 @@
 - [ENSnano](https://github.com/thenlevy/ensnano) - 3D graphical application for DNA nanostructures.
 - [Brain Cells Break Their DNA to Learn More Quickly (2021)](https://www.quantamagazine.org/brain-cells-break-their-dna-to-learn-more-quickly-20210830/)
 - [The Complex Truth About ‘Junk DNA’](https://www.quantamagazine.org/the-complex-truth-about-junk-dna-20210901/) ([HN](https://news.ycombinator.com/item?id=28381762))
+- [The Technology of Life. A DNA-centric tour of biology.](https://berthub.eu/dna-book/) ([Tweet](https://twitter.com/PowerDNS_Bert/status/1436714417777938436))

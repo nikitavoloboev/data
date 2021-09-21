@@ -303,3 +303,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Using the Platform - Framework-free, no-build websites (2021)](https://javascript.plainenglish.io/using-the-platform-instead-of-frameworks-33b4607fc3cc)
 - [Web2Img](https://etherdream.github.io/web2img/) - Bundle web files into an image and extract them via ServiceWorker at runtime. Deploy a website on imgur.com. ([Code](https://github.com/EtherDream/web2img)) ([HN](https://news.ycombinator.com/item?id=28431716))
 - [Why did the web take over desktop and not mobile? (2021)](https://subconscious.substack.com/p/why-did-the-web-take-over-desktop) ([HN](https://news.ycombinator.com/item?id=28489567))
+- [Using the platform (2021)](https://elisehe.in/2021/08/22/using-the-platform)
+- [WebTransport API](https://w3c.github.io/webtransport/) - API that allows web applications to establish interactive, bidirectional, multiplexed network connections. ([Code](https://github.com/w3c/webtransport))

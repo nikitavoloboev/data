@@ -344,3 +344,6 @@
 - [Yet Another Keyword Extractor (Yake)](https://github.com/LIAAD/yake) - Unsupervised Approach for Automatic Keyword Extraction using Text Features.
 - [Challenges in Detoxifying Language Models (2021)](https://arxiv.org/abs/2109.07445) ([Tweet](https://twitter.com/IasonGabriel/status/1438497173897768960))
 - [TextBrewer](https://github.com/airaria/TextBrewer) - PyTorch-based model distillation toolkit for natural language processing.
+- [GPT-3 Models are Poor Few-Shot Learners in the Biomedical Domain (2021)](https://arxiv.org/abs/2109.02555)
+- [PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models (2021)](https://arxiv.org/abs/2109.05093) ([Code](https://github.com/ElementAI/picard))
+- [VQGAN-CLIP Overview](https://github.com/nerdyrodent/VQGAN-CLIP) - Repo for running VQGAN+CLIP locally.

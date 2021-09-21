@@ -365,3 +365,5 @@
 - [Use of eBPF in CPU Scheduler (2021)](https://linuxplumbersconf.org/event/11/contributions/954/) ([HN](https://news.ycombinator.com/item?id=28551568))
 - [sysz](https://github.com/joehillen/sysz) - fzf terminal UI for systemctl.
 - [BMC (BPF Memory Cache)](https://github.com/Orange-OpenSource/bmc-cache) - In-kernel cache based on eBPF.
+- [below](https://github.com/facebookincubator/below) - Time traveling resource monitor for modern Linux systems.
+- [PF_RING](https://github.com/ntop/PF_RING) - High-speed packet processing framework. ([Web](https://www.ntop.org/))

@@ -40,7 +40,7 @@
 - [Extending C with Zig](https://www.nmichaels.org/zig/c-library.html)
 - [Why Zig when there is already C++, D, and Rust?](https://ziglang.org/learn/why_zig_rust_d_cpp/) ([HN](https://news.ycombinator.com/item?id=25797025))
 - [Zig Makes Go Cross Compilation Just Work (2021)](https://dev.to/kristoff_it/zig-makes-go-cross-compilation-just-work-29ho) ([Lobsters](https://lobste.rs/s/4dejov/zig_makes_go_cross_compilation_just_work))
-- [Ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs. ([HN](https://news.ycombinator.com/item?id=26125063))
+- [Ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs. ([HN](https://news.ycombinator.com/item?id=26125063)) ([Stream doing Ziglings](https://github.com/achou11/ziglings-stream))
 - [Zig Docs](https://ziglang.org/documentation/master/)
 - [Zig Roadmap 2021](https://www.youtube.com/watch?v=pacsngNYXI0) ([Lobsters](https://lobste.rs/s/xdyrgj/zig_roadmap_2021))
 - [Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun (2021)](https://kevinlynagh.com/rust-zig/) ([Lobsters](https://lobste.rs/s/eppfav/why_i_rewrote_my_rust_keyboard_firmware))
@@ -66,3 +66,4 @@
 - [Resource efficient Thread Pools with Zig (2021)](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291) ([HN](https://news.ycombinator.com/item?id=28509073))
 - [Zig News](https://zig.news/)
 - [Code Coverage for Zig with Callgrind (2021)](https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/)
+- [Fuzzing Zig Code Using AFL++ (2021)](https://www.ryanliptak.com/blog/fuzzing-zig-code/)

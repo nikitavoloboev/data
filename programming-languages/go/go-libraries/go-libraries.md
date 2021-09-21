@@ -44,6 +44,7 @@
 - [Kong](https://github.com/alecthomas/kong) - Command-line parser for Go.
 - [promptkit](https://github.com/erikgeiser/promptkit) - Interactive command line prompts with style.
 - [pty](https://github.com/creack/pty) - PTY interface for Go.
+- [Nice](https://github.com/SuperPaintman/nice) - Highly customizable and lightweight Go CLI app framework.
 
 ## Test
 
@@ -931,6 +932,7 @@
 - [Dragonboat](https://github.com/lni/dragonboat) - High performance multi-group Raft consensus library in pure Go.
 - [RSDic](https://github.com/hillbig/rsdic) - Go library for space-efficient rank/select operations for both sparse and dense bit arrays.
 - [Scriggo](https://github.com/open2b/scriggo) - World’s most powerful template engine and Go embeddable interpreter. ([Web](https://scriggo.com/))
+- [browser](https://github.com/pkg/browser) - Provides helpers to open files, readers, and urls in a browser window.
 
 ## Links
 

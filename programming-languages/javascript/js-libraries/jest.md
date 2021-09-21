@@ -15,3 +15,4 @@
 - [Chromogen](https://github.com/open-source-labs/Chromogen) - UI-driven Jest test-generation package for Recoil selectors.
 - [jest-test-matrix](https://github.com/WaldoJeffers/jest-test-matrix) - Plugin for Jest which helps you test functions accepting different combinations of inputs.
 - [VSCode Jest](https://github.com/jest-community/vscode-jest) - Optimal flow for Jest based testing in VS Code.
+- [Jest Test Explorer for Visual Studio Code](https://github.com/kavod-io/vscode-jest-test-adapter) - Run your Jest tests using the Test Explorer UI.

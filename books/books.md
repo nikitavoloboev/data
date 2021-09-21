@@ -406,3 +406,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [How manager's handbook was written incorporating feedback using Notion/GoogleDoc (2021)](https://blog.alexmaccaw.com/the-managers-handbook-2/)
 - [Gnooks](https://www.gnooks.com/) - Discover new Books.
 - [Literature Map](https://www.literature-map.com/) - The Tourist Map of Literature.
+- [Ruby for ebook publishing (2021)](https://nts.strzibny.name/ruby-for-ebook-publishing/)

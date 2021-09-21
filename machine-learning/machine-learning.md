@@ -547,3 +547,6 @@
 - [Hyperparameter Search with spaCy and Weights & Biases (2021)](https://wandb.ai/wandb/wandb_spacy_sweeps/reports/Hyperparameter-Search-with-spaCy-and-Weights-Biases--Vmlldzo5NDA2MjE) ([Tweet](https://twitter.com/_ScottCondron/status/1435981838212911109))
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [The Values Encoded in Machine Learning Research (2021)](https://arxiv.org/abs/2106.15590) ([Tweet](https://twitter.com/tdietterich/status/1439666761834459136))
+- [An overview of the theory of overparameterized machine learning (2021)](https://arxiv.org/abs/2109.02355)
+- [Geometric Deep Learning Blueprint (2021)](https://www.youtube.com/watch?v=bIZB1hIJ4u8)
+- [Multi-Armed Bandits and Pure-Exploration (2020)](https://www.youtube.com/watch?v=h-dYzjF8eFA)
