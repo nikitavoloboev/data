@@ -1,5 +1,9 @@
 # Cities
 
+## Notes
+
+- [Rough draft of my campaign platform: More bikes. More trees. More housing. End car dependency. End lawns. End conforming new construction to neighborhood character oh my god we have enough historic stuff just give a new generation a chance to try their hand.](https://twitter.com/zachklein/status/1440780815131033600)
+
 ## Links
 
 - [Order Without Design: How Markets Shape Cities podcast](https://overcast.fm/itunes1509606453/order-without-design-how-markets-shape-cities)

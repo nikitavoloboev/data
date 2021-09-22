@@ -69,3 +69,4 @@
 - [Keygen](https://github.com/charmbracelet/keygen) - SSH key pair generator.
 - [The pitfalls of using SSH-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents) ([HN](https://news.ycombinator.com/item?id=28576617))
 - [ssh-key-confirmer](https://github.com/benjojo/ssh-key-confirmer) - Test ssh login key acceptance without having the private key.
+- [Hardening SSH with 2fa](https://gist.github.com/lizthegrey/9c21673f33186a9cc775464afbdce820)

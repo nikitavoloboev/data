@@ -419,3 +419,4 @@
 - [Procella: Unifying serving and analytical data at YouTube (2019)](https://research.google/pubs/pub48388/) ([Summary](https://tech.marksblogg.com/youtube-database-procella.html))
 - [Choosing a database model for a hierarchical content (2021)](https://www.aleksandra.codes/comments-db-model)
 - [Real world database latency (2021)](https://fauna.com/blog/real-world-database-latency) ([HN](https://news.ycombinator.com/item?id=28594664))
+- [Best JS/TS library to use for subscribing to DB changes (2021)](https://twitter.com/flybayer/status/1440331756729634824)

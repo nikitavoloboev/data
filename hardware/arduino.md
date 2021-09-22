@@ -29,3 +29,4 @@
 - [Arduino IDE 2.0 beta (2021)](https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/) ([HN](https://news.ycombinator.com/item?id=27123410))
 - [JeeLib](https://github.com/jeelabs/jeelib) - Arduino IDE: Ports, RF12, and RF69 drivers from JeeLabs.
 - [Monitoring my home's air quality (CO2, PM2.5, Temp/Humidity) with AirGradient's DIY sensor (2021)](https://www.jeffgeerling.com/blog/2021/airgradient-diy-air-quality-monitor-co2-pm25)
+- [ArduinoCore-API](https://github.com/arduino/ArduinoCore-API) - Hardware independent layer of the Arduino cores.

@@ -347,3 +347,4 @@
 - [GPT-3 Models are Poor Few-Shot Learners in the Biomedical Domain (2021)](https://arxiv.org/abs/2109.02555)
 - [PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models (2021)](https://arxiv.org/abs/2109.05093) ([Code](https://github.com/ElementAI/picard))
 - [VQGAN-CLIP Overview](https://github.com/nerdyrodent/VQGAN-CLIP) - Repo for running VQGAN+CLIP locally.
+- [TLDR: Extreme Summarization of Scientific Documents (2020)](https://arxiv.org/abs/2004.15011) ([Code](https://github.com/allenai/scitldr))

@@ -141,3 +141,4 @@
 - [tiny-vdom](https://github.com/aidenybai/tiny-vdom) - Smallest possible virtual DOM implementation.
 - [7GUIs in Vanilla HTML, CSS, JavaScript](https://7guis.bradwoods.io/) ([HN](https://news.ycombinator.com/item?id=28600804))
 - [ct.css](https://github.com/csswizardry/ct) - Diagnostic CSS snippet that exposes potential performance issues in your page’s <head> tags. ([Web](https://csswizardry.com/ct/))
+- [Get Your Head Straight Talk](https://speakerdeck.com/csswizardry/get-your-head-straight)

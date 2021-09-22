@@ -16,6 +16,7 @@
 - [Interesting approach to raise price based off number of items sold. Start at $10, after 30 sales, raise to $15 etc.](https://gumroad.com/l/doing-content-right)
 - [I feel like something almost everybody gets wrong about subscription pricing in their apps is not having a ‘no brainer’ tier as an onramp. Give me a feature subset that I can live on while I get started with your app, don’t just go straight to the ’30 day trial or $50/yr’ extreme](https://twitter.com/stroughtonsmith/status/1388607057910239232)
 - [Give away general info, charge for contextual advice. Make the value for the customer immediately obvious. Pricing should be straightforward.](https://twitter.com/VicVijayakumar/status/1424173615847772161)
+- [Took me a long time to get comfortable accepting a one-time purchase business model as not being “inferior” to recurring, but there are tons of advantages. And even without subscription, our revenue is still very predictable week to week (+/- 10%).](https://twitter.com/adamwathan/status/1440816886996865025)
 
 ## Links
 

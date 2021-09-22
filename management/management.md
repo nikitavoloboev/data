@@ -140,3 +140,5 @@
 - [Why Do Companies Have So Many Managers? (2021)](https://www.theatlantic.com/ideas/archive/2021/09/manager-work-life-changes/620096/) - How the modern office needs to start adjusting to foster and cater to talented workers. ([Tweet](https://twitter.com/edzitron/status/1438819979193819142))
 - [What I Learnt Becoming a Tech Lead (2021)](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/) ([HN](https://news.ycombinator.com/item?id=28573847))
 - [Все о тимлидстве](https://github.com/sharovatov/teamlead)
+- [How To Navigate Product Management Specializations](https://www.reforge.com/blog/product-specializations) ([Part 2](https://www.reforge.com/blog/product-specializations-pt2))
+- [Why "hire awesome people, listen to them and get out of their way" is not advice but wishful thinking (2021)](https://twitter.com/imightbemary/status/1440380210445049863)

@@ -378,3 +378,4 @@
 - [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
 - [Learning A Single Network for Scale-Arbitrary Super-Resolution (2021)](https://longguangwang.github.io/Project/ArbSR/) ([Code](https://github.com/LongguangWang/ArbSR))
 - [Face Recognition](https://github.com/1adrianb/face-alignment) - 2D and 3D Face alignment library build using PyTorch.
+- [Awesome image retrieval papers](https://github.com/willard-yuan/awesome-cbir-papers)

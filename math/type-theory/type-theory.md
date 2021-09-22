@@ -147,3 +147,4 @@
 - [type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms in Haskell.
 - [Type system innovation propagation (2021)](https://doma.dev/blog/innovation-propagation/)
 - [Shape Irrelevant Reflection in Type Theory](https://github.com/TheoWinterhalter/sirtt)
+- [Human Aspects of Types and Reasoning Assistants (2021)](https://2021.splashcon.org/home/hatra-2021#program)

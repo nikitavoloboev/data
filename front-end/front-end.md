@@ -67,3 +67,4 @@
 - [Interactive Learning Tools For Front-End Developers (2021)](https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/)
 - [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Highly recommended collections for frontend developers.
 - [Practical frontend architecture (2021)](https://jaredgorski.org/writing/14-practical-frontend-architecture/) ([HN](https://news.ycombinator.com/item?id=28590879))
+- [What has your frontend stack journey been so far? (2021)](https://twitter.com/geddski/status/1440762195223089164)

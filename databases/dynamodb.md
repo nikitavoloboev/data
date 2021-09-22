@@ -60,3 +60,4 @@
 - [dynm](https://github.com/kocisov/dynm) - Utility for easier interaction with DynamoDB.
 - [raiden-dynamo](https://github.com/raiden-rs/raiden-dynamo) - DynamoDB library for Rust.
 - [DynamoDB + Lambda Workshop](https://github.com/alexdebrie/lambda-dynamodb-workshop)
+- [DynamoDB --> Stream --> Elasticsearch](https://github.com/matrus2/dynamodb-stream-elasticsearch) - Missing blueprint for AWS Lambda. Reads stream from AWS DynamoDB and writes it to ElasticSearch.

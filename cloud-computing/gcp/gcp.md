@@ -36,3 +36,4 @@
 - [oidc-auth-google-cloud](https://github.com/sethvargo/oidc-auth-google-cloud) - GitHub Action for authenticating to Google Cloud with GitHub Actions OIDC tokens and Workload Identity Federation.
 - [Google Cloud Client Libraries Go](https://github.com/googleapis/google-cloud-go)
 - [Sample blueprints for Google Cloud](https://github.com/GoogleCloudPlatform/blueprints)
+- [Google Cloud Deploy: Managed continuous delivery to GKE (2021)](https://cloud.google.com/blog/products/devops-sre/google-cloud-deploy-automates-deploys-to-gke)

@@ -127,3 +127,4 @@
 - [Is venture capital bad? (2021)](https://saas.transistor.fm/episodes/why-are-bootstrappers-hostile-towards-vcs)
 - [VCs are financing an economy of servants (2021)](https://sifted.eu/articles/servant-economy/) ([HN](https://news.ycombinator.com/item?id=28120173))
 - [Creandum](https://www.creandum.com/) - Leading European early-stage venture capital firm.
+- [New Layer Capital](https://www.newlayer.capital/) - Private investment firm that invests in cryptocurrencies, tokens, and blockchain companies.

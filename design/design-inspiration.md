@@ -796,5 +796,5 @@ Here are few more things I liked, design wise.
 - [Lobsters: Rate my Homepage (2020)](https://lobste.rs/s/h9xgpv/rate_my_homepage)
 - [SaaS Landing Page Examples (2020)](https://www.eleken.co/blog-posts/saas-landing-page-examples-get-inspired-and-discover-how-to-boost-conversion)
 - [Colophon](https://society.robinsloan.com/archive/colophon/)
-- [Godly Website](https://godly.website/) - Most Godlike Web Design Inspiration.
+- [Godly Website](https://godly.website/) - Most Godlike Web Design Inspiration. ([Twitter](https://twitter.com/godlywebsite))
 - [Brutalist Websites](https://brutalistwebsites.com/)

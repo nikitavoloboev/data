@@ -86,3 +86,4 @@
 - [p2panda](https://p2panda.org/) - p2p communications protocol for playful, secure, data-efficient, offline- and local-first web apps. ([GitHub](https://github.com/p2panda)) ([Spec](https://github.com/p2panda/design-document))
 - [Freenet](https://freenetproject.org/index.html) - Peer-to-peer platform for censorship-resistant communication and publishing. ([HN](https://news.ycombinator.com/item?id=28587220))
 - [I2P Anonymous Network](https://geti2p.net/en/) - Privacy by design, people-powered network. It is a truly free and anonymizing Internet alternative.
+- [Dione](https://github.com/Dione-Software/dione) - Anonymize and encrypted messaging system build on top on a peer to peer layer.

@@ -239,3 +239,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Что происходило с электронным голосованием (2021)](https://novayagazeta.ru/articles/2021/09/21/mazhoritarnaia-sistema-vyborov) ([Tweet](https://twitter.com/michaelnacke/status/1440391683842056195))
 - [Чичваркин о расследовании и капитуляции Лаврова, старость Путина (2021)](https://www.youtube.com/watch?v=GFf-kkrJS1w)
 - [Как могла бы выглядеть избранная Дума, если бы у нас была устоявшаяся свободная и честная партийно-выборная система (2021)](https://twitter.com/omeg_ator/status/1440367869431189520)
+- [«Я не хочу оказаться в тюрьме»: Интервью Ирины Фатьяновой — соратницы Навального из Санкт-Петербурга (2021)](https://www.wonderzine.com/wonderzine/life/life-interview/259019-irina-fatyanova) ([Tweet](https://twitter.com/sadsadsadbitch/status/1440735629524942853))
+- [Wonderzine](https://www.wonderzine.com/) - Сайт для девушек о стиле, красоте и развлечениях. ([Twitter](https://twitter.com/wonderzine))
