@@ -54,3 +54,4 @@
 - [Compressing high-dimensional vectors by 97% (2021)](https://www.pinecone.io/learn/product-quantization/) ([HN](https://news.ycombinator.com/item?id=28394068))
 - [Resources to learn algebra visually (2021)](https://twitter.com/prathyvsh/status/1434663132585025537)
 - [Can We Solve Linear Algebra Problems at Extreme Scale and Low Precisions? (2021)](https://nhigham.com/2021/09/14/can-we-solve-linear-algebra-problems-at-extreme-scale-and-low-precisions/) ([HN](https://news.ycombinator.com/item?id=28549062))
+- [linalg](https://github.com/kevinzakka/learn-linalg) - Reinforcing my linear algebra and numerical analysis by reimplementing basic, fundamental algorithms in Python.

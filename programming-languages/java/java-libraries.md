@@ -16,6 +16,10 @@
 - [jOOQ](https://github.com/jOOQ/jOOQ) - Fluent API for typesafe SQL query construction and execution. ([Web](https://www.jooq.org/))
 - [ObjectiveSQL](https://github.com/braisdom/ObjectiveSql) - ORM framework in Java based on ActiveRecord pattern. ([HN](https://news.ycombinator.com/item?id=25170053))
 
+## Test
+
+- [Mockito](https://github.com/mockito/mockito) - Most popular mocking framework for Java. ([Web](https://site.mockito.org/))
+
 ## Other
 
 - [bifurcan](https://github.com/lacuna/bifurcan) - Impure functional data structures.
@@ -25,6 +29,7 @@
 - [HikariCP](https://github.com/brettwooldridge/HikariCP) - Fast, simple, reliable. HikariCP is a "zero-overhead" production ready JDBC connection pool.
 - [JavaPlex](https://github.com/appliedtopology/javaplex) - Persistent Homology and Topological Data Analysis Library.
 - [Mixin](https://github.com/SpongePowered/Mixin) - Trait/mixin and bytecode weaving framework for Java using ASM.
+- [Gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back.
 
 ## Links
 

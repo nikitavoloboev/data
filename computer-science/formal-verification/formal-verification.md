@@ -76,3 +76,4 @@
 - [Pantagruel](https://pantagruel-language.com/) - Extremely Lightweight Specification Language. ([HN](https://news.ycombinator.com/item?id=28580640))
 - [There Was No Formal Methods Winter (2021)](https://buttondown.email/hillelwayne/archive/there-was-no-formal-methods-winter/)
 - [REMS (Rigorous Engineering of Mainstream Systems)](https://www.cl.cam.ac.uk/~pes20/rems/) ([GitHub](https://github.com/rems-project))
+- [The Curry-Howard Correspondence (2021)](https://www.youtube.com/watch?v=GdcOy6zVFC4)

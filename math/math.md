@@ -299,3 +299,6 @@
 - [Introduction to Higher Mathematics](https://www.whitman.edu/mathematics/higher_math_online/)
 - [Helmhurts (2014)](https://jasmcole.com/2014/08/25/helmhurts/)
 - [A mathematician's guided tour through higher dimensions (2021)](https://www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/) ([HN](https://news.ycombinator.com/item?id=28597940))
+- [The Dedekind tessellation](http://www.neverendingbooks.org/the-dedekind-tessellation)
+- [Imagination and the Impossible (2021)](http://www.neverendingbooks.org/imagination-and-the-impossible)
+- [Designer Maths (2021)](http://www.neverendingbooks.org/designer-maths)

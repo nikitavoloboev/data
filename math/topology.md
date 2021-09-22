@@ -20,3 +20,4 @@
 - [The Disc Embedding Theorem](https://global.oup.com/academic/product/the-disc-embedding-theorem-9780198841319)
 - [Applied Topology](http://appliedtopology.org/) - Qualitative data analysis. ([GitHub](https://github.com/appliedtopology))
 - [Formal Topology in Univalent Foundations](https://github.com/ayberkt/formal-topology-in-UF)
+- [Interview with Martin Ender (2018)](https://esoteric.codes/blog/martin-ender)

@@ -49,3 +49,4 @@ Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status
 - [Charles Hoskinson on Cardano Smart Contracts (2021)](https://www.youtube.com/watch?v=QJltrL1J_rs)
 - [Cardano Wallet](https://github.com/input-output-hk/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
 - [Cardano validators explained (2021)](https://twitter.com/_KtorZ_/status/1439168735810555906)
+- [Introduction to the Cardano blockchain ledger and smart contracts](https://apfelmus.nfshost.com/articles/cardano-ledger-intro.html)

@@ -83,3 +83,4 @@
 - [Raspberry Pi Atomic Nixie Clock](https://github.com/will127534/RaspberryPiAtomicNixieClock/wiki) ([HN](https://news.ycombinator.com/item?id=28441504))
 - [Ask HN: What are some good Raspberry Pi alternatives? (2021)](https://news.ycombinator.com/item?id=28532526)
 - [Circle](https://github.com/rsta2/circle) - C++ bare metal programming environment for the Raspberry Pi.
+- [Raspberry Pi KVMs Compared: TinyPilot and Pi-KVM v3 (2021)](https://www.jeffgeerling.com/blog/2021/raspberry-pi-kvms-compared-tinypilot-and-pi-kvm-v3) ([HN](https://news.ycombinator.com/item?id=28619388))

@@ -359,6 +359,7 @@ Here are few more things I liked, design wise.
 - [Camille Fassett](https://www.sempervirens.io/)
 - [Matthias Endler](https://endler.dev/) ([Code](https://github.com/mre/endler.dev))
 - [Robb Knight](https://rknight.me/) ([Code](https://github.com/rknightuk/rknight.me))
+- [Jakub Fiala](https://www.fiala.space/)
 - [Yenly Ma](https://www.yenly.wtf/)
 - [Bargava Subramanian](https://www.bargava.com/)
 - [Kent C. Dodds](https://kentcdodds.com/) ([Code](https://github.com/kentcdodds/kentcdodds.com))

@@ -84,3 +84,5 @@
 - [Jet Protocol](https://www.jetprotocol.io/) - Decentralized lending on Solana. ([Code](https://github.com/jet-lab/jet-v1))
 - [1sol protcol](https://github.com/1sol-io/1sol-protocol) - Innovative Cross-Chain DeFi Aggregator on SOLANA and more.
 - [Solana tutorials](https://github.com/agjell/sol-tutorials)
+- [Wormhole Token Bridge](https://wormholebridge.com/#/) - Allows you to seamlessly transfer tokenized assets across Solana and Ethereum. ([Tweet](https://twitter.com/wormholecrypto/status/1438940760548667393))
+- [Minimal Solana BPF program template](https://github.com/mvines/solana-bpf-program-template)

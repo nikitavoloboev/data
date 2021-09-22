@@ -232,5 +232,6 @@
 - [Codable synthesis for Swift enums (2021)](https://www.swiftbysundell.com/articles/codable-synthesis-for-swift-enums/)
 - [Creating a command line tool using the Swift Package Manager (2021)](https://www.avanderlee.com/swift/command-line-tool-package-manager/)
 - [Reducers, or understanding the shape of functions (2021)](https://nikitamounier.github.io/2021/09/12/reducers.html)
-- [Swift Regrets (2021)](https://belkadan.com/blog/2021/09/Swift-Regrets/)
+- [Swift Regrets (2021)](https://belkadan.com/blog/2021/09/Swift-Regrets/) ([HN](https://news.ycombinator.com/item?id=28603794))
 - [7 ways to pass a closure as an argument in Swift (2021)](https://sarunw.com/posts/different-ways-to-pass-closure-as-argument/)
+- [The Actor Reentrancy Problem in Swift (2021)](https://swiftsenpai.com/swift/actor-reentrancy-problem/)

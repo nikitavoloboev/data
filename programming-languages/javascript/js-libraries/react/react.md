@@ -260,3 +260,5 @@
 - [React render tracker](https://github.com/lahmatiy/react-render-tracker) - Tool to discover performance issues related to unintended re-renders.
 - [Tips for structuring React apps (2021)](https://www.reddit.com/r/reactjs/comments/pecpou/where_can_i_learn_to_structure_my_code_like_a_pro/)
 - [Alt + Click on rendered JSX to open it's source code in VSCode](https://github.com/siddharthkp/babel-plugin-open-source)
+- [Как Реакт рендерит компоненты в общих чертах (2021)](https://twitter.com/GTech156/status/1440390264573480970)
+- [Niue](https://github.com/Merlin04/niue) - Tiny shared state and event library for React.

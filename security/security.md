@@ -185,3 +185,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Secure Mobile Networking Lab](https://www.seemoo.tu-darmstadt.de/) ([GitHub](https://github.com/seemoo-lab))
 - [Microsoft ruined passwords, now aims for a passwordless future (2021)](https://puri.sm/posts/microsoft-ruined-passwords-now-aims-for-a-passwordless-future/) ([HN](https://news.ycombinator.com/item?id=28598894))
 - [Machine Learning Security / Adversarial Machine Learning PhD seminar (2021)](https://github.com/unica-mlsec/mlsec) ([Web](https://unica-mlsec.github.io/mlsec/))
+- [PASETO: Platform-Agnostic Security Tokens](https://github.com/paseto-standard/paseto-spec) - Everything you love about JOSE (JWT, JWE, JWS) without any of the many design deficits that plague the JOSE standards.

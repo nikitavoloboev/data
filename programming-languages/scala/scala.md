@@ -89,3 +89,5 @@
 - [Functional Effects Workshop](https://github.com/jdegoes/functional-effects)
 - [Scala 3 for Scala 2 Developers Workshop](https://github.com/jdegoes/scala3-for-scala2-developers)
 - [Functional Data Modeling Workshop](https://github.com/jdegoes/functional-data-modeling)
+- [Books - Underscore](https://underscore.io/books/)
+- [Creative Scala Book (2020)](https://www.creativescala.org/creative-scala.html)

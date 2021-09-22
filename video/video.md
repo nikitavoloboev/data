@@ -159,7 +159,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [stream.new](https://stream.new/) - Add a video. Get a shareable link to stream it. ([Code](https://github.com/muxinc/stream.new))
 - [Video.js](https://github.com/videojs/video.js) - HTML5 Video Player.
 - [Bubbles](https://www.usebubbles.com/) - Video and Screenshot Collaboration.
-- [Livepeer](https://livepeer.org/) - Decentralized video transcoding network built on the Ethereum blockchain. ([GitHub](https://github.com/livepeer))
+- [Livepeer](https://livepeer.org/) - Decentralized video transcoding network built on the Ethereum blockchain. ([GitHub](https://github.com/livepeer)) ([Protocol](https://github.com/livepeer/protocol)) ([JS library](https://github.com/livepeer/livepeerjs))
 - [go-livepeer](https://github.com/livepeer/go-livepeer) - Go implementation of the Livepeer protocol.
 - [Luma](https://lu.ma/) - Host Delightful Zoom Events.
 - [Stack Videos Horizontally, Vertically, in a Grid With FFmpeg (2020)](https://ottverse.com/stack-videos-horizontally-vertically-grid-with-ffmpeg/) ([HN](https://news.ycombinator.com/item?id=25022665))
@@ -288,3 +288,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Opal Camera](https://opalcamera.com/) - First professional web cam.
 - [How Bo Burnham made INSIDE (2021)](https://www.youtube.com/watch?v=eZiSApqoI2g) ([Reddit](https://www.reddit.com/r/television/comments/pn4rlk/bo_burnham_wins_his_first_emmy_for_outstanding/))
 - [Open Video Downloader (youtube-dl-gui)](https://github.com/jely2002/youtube-dl-gui) - Cross-platform GUI for youtube-dl made in Electron and node.js. ([HN](https://news.ycombinator.com/item?id=28478603))
+- [FFmpeg to WebRTC](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from FFmpeg to WebRTC. ([HN](https://news.ycombinator.com/item?id=28614454))

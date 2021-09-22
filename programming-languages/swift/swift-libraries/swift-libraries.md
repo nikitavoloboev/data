@@ -331,6 +331,7 @@
 - [BottomSheet](https://github.com/LucasMucGH/BottomSheet) - Sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
 - [Panel](https://github.com/reddavis/Panel) - A SwiftUI panel component similar to the iOS Airpod battery panel or the Share Wi-Fi password panel.
 - [Containers](https://github.com/SwiftUI-Plus/Containers) - Useful SwiftUI container view's. FittingGeometry, ScrollableView, LayoutReader, PageView, UIKitView. (iOS).
+- [BindingKit](https://github.com/mkj-is/BindingKit) - Set of handy additions to the basic SwiftUI Binding type.
 
 ## Test
 
@@ -751,6 +752,7 @@
 - [VertexGUI](https://github.com/VertexUI/VertexGUI) - Framework for creating cross-platform GUI applications with Swift.
 - [SwiftIndexStore](https://github.com/kateinoigakukun/swift-indexstore) - IndexStore reader library for Swift.
 - [Spatial](https://github.com/eonist/Spatial) - Hasle-free AutoLayout (MacOS / iOS).
+- [VideoIO](https://github.com/MetalPetal/VideoIO) - Video Input/Output Utilities.
 
 ## Other (not lib)
 

@@ -33,3 +33,4 @@
 - [Metal Render Pipeline (2021)](http://ioloro.com/2021/02/12/metal-render-pipeline.html)
 - [Metal/MetalKit Glossary (2021)](http://ioloro.com/2021/01/18/metalmetalkit-glossary.html)
 - [Discover advances in Metal for A15 Bionic (2021)](https://developer.apple.com/videos/play/tech-talks/10876) ([Tweet](https://twitter.com/FlohOfWoe/status/1440273085328814090))
+- [MetalPetal](https://github.com/MetalPetal/MetalPetal) - GPU accelerated image and video processing framework built on Metal.

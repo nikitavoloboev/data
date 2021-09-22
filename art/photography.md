@@ -16,6 +16,10 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Rebecca Lily's Lightroom presets](https://www.rebeccalily.com/products)
 - [Renaissance Preset Pack - Kai Böttcher](https://www.kai-boettcher.com/shop/renaissance)
 
+## Edits
+
+- [raw vs edit](https://twitter.com/moosechildd/status/1440041806830325765)
+
 ## Photography portfolio code
 
 - [Sam Robbins's photos](https://photos.samrobbins.uk/) - Uses Next.js. ([Code](https://github.com/samrobbins85/photos))
@@ -138,3 +142,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Photoview](https://photoview.github.io/) - Photo gallery for self-hosted personal servers. ([Code](https://github.com/photoview/photoview))
 - [Vitaly Rubtsov - YouTube](https://www.youtube.com/channel/UCUHeg2C_KSLJ3IZmyOcsr2w/videos)
 - [Nikon's 2021 Photomicrography Competition Winners](https://www.nikonsmallworld.com/galleries/2021-photomicrography-competition) ([HN](https://news.ycombinator.com/item?id=28541841))
+- [iPhone 13 Pro Camera Review: Tanzania (2021)](https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania)

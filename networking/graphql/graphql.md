@@ -233,3 +233,4 @@
 - [graphql-web-lite](https://github.com/kitten/graphql-web-lite) - Small sibling of the graphql package, slimmed down for client-side libraries.
 - [GraphQL Rules](https://graphql-rules.com/) ([Code](https://github.com/graphql-rules/graphql-rules))
 - [nestjs/graphql](https://github.com/nestjs/graphql) - GraphQL (TypeScript) module for Nest framework (node.js).
+- [GraphQL Working Group](https://github.com/graphql/graphql-wg) - Monthly virtual meeting of maintainers of commonly used GraphQL libraries and tools.

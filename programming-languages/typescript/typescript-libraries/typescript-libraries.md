@@ -147,6 +147,9 @@
 - [Postel](https://github.com/timc1/postel) - Tiny library for building tooltips, flyovers, menus and more in React. ([Article](https://www.timcchang.com/posts/postel))
 - [pattern-matching](https://github.com/Dkendal/pattern-match.js) - Provides pattern matching features typically found in functional languages like Elixir/Erlang, ML, F#, etc.
 - [H3](https://github.com/unjs/h3) - Minimal HTTP framework built for high performance and portability.
+- [Zerva](https://github.com/holtwick/zerva) - Minimal event driven web service infrastructure.
+- [Zeed Library](https://github.com/holtwick/zeed) - Simple TS/JS Foundation Library.
+- [UCAST](https://github.com/stalniy/ucast) - Universal Conditions AST. ([Examples](https://github.com/stalniy/casl-examples))
 
 ## Links
 

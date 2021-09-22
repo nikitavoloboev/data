@@ -367,3 +367,4 @@
 - [BMC (BPF Memory Cache)](https://github.com/Orange-OpenSource/bmc-cache) - In-kernel cache based on eBPF.
 - [below](https://github.com/facebookincubator/below) - Time traveling resource monitor for modern Linux systems.
 - [PF_RING](https://github.com/ntop/PF_RING) - High-speed packet processing framework. ([Web](https://www.ntop.org/))
+- [SRE deep dive into Linux Page Cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/)

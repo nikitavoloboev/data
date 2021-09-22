@@ -53,7 +53,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
 - [Humanity](https://github.com/marbleprotocol/humanity) - Unique identity on Ethereum.
 - [Erasure Protocol](https://erasure.world/) - Builds on the three primitives of an economic relationship: Track-Record, Payment, and Recourse. ([Code](https://github.com/erasureprotocol/erasure-protocol))
-- [Ganache](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
+- [Ganache](https://github.com/trufflesuite/ganache) - Tool for creating a local blockchain for fast Ethereum development. ([Web](https://www.trufflesuite.com/ganache))
 - [Echidna](https://github.com/crytic/echidna) - Fast Smart Contract Fuzzer.
 - [Slither](https://github.com/crytic/slither) - Solidity source analyzer.
 - [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool.

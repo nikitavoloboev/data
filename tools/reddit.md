@@ -26,3 +26,4 @@
 - [Reddit Wherever](https://github.com/z0ccc/Reddit-Wherever) - View the Reddit comments of any YouTube video or web page.
 - [Plebbit: A serverless, adminless, decentralized Reddit alternative](https://github.com/plebbit/whitepaper/discussions/2)
 - [Reddit Downloader](https://github.com/Pauloo27/reddit) - Download Reddit videos with sound using a NodeJS CLI with ffmpeg.
+- [Saveddit](https://saveddit4reddit.herokuapp.com/) - Search and Filter through your Saved Reddit Posts. ([Code](https://github.com/ahmed-zubair-1998/Saveddit))

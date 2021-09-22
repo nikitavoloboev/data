@@ -123,3 +123,5 @@
 - [Twitter.com's HTML, which is produced by React Native for Web, explained (2021)](https://giuseppegurgone.com/twitter-html/) ([HN](https://news.ycombinator.com/item?id=28382772))
 - [rnx-kit](https://github.com/microsoft/rnx-kit) - Tools which help developers build, deliver, and maintain React Native apps and libraries.
 - [React Native Async Storage](https://github.com/react-native-async-storage/async-storage) - Asynchronous, persistent, key-value storage system for React Native.
+- [Running React Native everywhere: The Webs (2021)](https://mmazzarolo.com/blog/2021-09-22-running-react-native-everywhere-web/)
+- [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - Easy way to integrate your React (or Preact) app into React Native app with WebView.

@@ -62,3 +62,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Regexly](https://regexly.js.org/) - WYSIWYG Regex playground for those who JavaScript. ([Code](https://github.com/NeekSandhu/regexly))
 - [Orchestra](https://github.com/pouyakary/Orchestra) - Visual language that compiles into RegExp.
 - [UltimateRegexResource](https://github.com/GoldinGuy/UltimateRegexResource) - Ultimate collection of regex syntax and resources.
+- [Regex Generator](https://regex-generator.olafneumann.org/) - Generate regular expressions from sample texts. ([Code](https://github.com/noxone/regex-generator))

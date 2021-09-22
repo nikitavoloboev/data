@@ -174,3 +174,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Email Authenticity 101: DKIM, Dmarc, and SPF (2021)](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/) ([HN](https://news.ycombinator.com/item?id=28194477))
 - [Hanami](https://hanami.run/) - Fast and Reliable Email Forwarding for your own domain.
 - [Modoboa](https://modoboa.org/en/) - Open Source email server. ([HN](https://news.ycombinator.com/item?id=28583099))
+- [Postforward](https://github.com/zoni/postforward) - Mail forwarding utility which aims to compliment the Postfix Sender Rewriting Scheme daemon (PostSRSd).

@@ -121,3 +121,5 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [The emergence of heat and humidity too severe for human tolerance (2020)](https://advances.sciencemag.org/content/6/19/eaaw1838) ([HN](https://news.ycombinator.com/item?id=28136793))
 - [Climeworks](https://climeworks.com/) - Direct air capture to help reverse climate change. ([Twitter](https://twitter.com/Climeworks))
 - [Ask HN: What can I do to actively fight climate change? (2021)](https://news.ycombinator.com/item?id=28601257)
+- [Principles of Green Software Engineering](https://principles.green/) ([HN](https://news.ycombinator.com/item?id=28615321))
+- [What is coming is beyond most peoples comprehension, including journalists](https://twitter.com/MrMatthewTodd/status/1440237998117822467)

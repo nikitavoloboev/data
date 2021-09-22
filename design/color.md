@@ -91,3 +91,4 @@
 - [New alternatives to HSL and HSV that better match color perception](https://bottosson.github.io/posts/colorpicker/) ([HN](https://news.ycombinator.com/item?id=28500014))
 - [Accessible Palette](https://accessiblepalette.com/) - Create color systems with consistent lightness and contrast. ([Tweet](https://twitter.com/romanshamin/status/1438845532680634371))
 - [Accessible Palette: Stop using HSL for color systems (2021)](https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems)
+- [NO_COLOR](http://no-color.org/) - Disabling ANSI color output in various Unix commands. ([Code](https://github.com/jcs/no_color))

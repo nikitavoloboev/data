@@ -38,7 +38,7 @@
 - [Transforming animation with machine learning (2021)](https://medium.com/embarkstudios/transforming-animation-with-machine-learning-27ac694590c)
 - [Monster Mash: New Sketch-Based Modeling and Animation Tool](https://github.com/google/monster-mash)
 - [Animated Engines](http://animatedengines.com/) ([HN](https://news.ycombinator.com/item?id=26368939))
-- [Motion Made Simple](https://motion.dev/)
+- [Motion One](https://motion.dev/) - Web Animations API for everyone. ([HN](https://news.ycombinator.com/item?id=28616043))
 - [Clean Slate Demo Scene (2021)](https://www.youtube.com/watch?v=O3T1-nadehU)
 - [How to Create Mathematical Animations like 3Blue1Brown Using Python (2021)](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1)
 - [Animation of Electric Machines](http://people.ece.umn.edu/users/riaz/animations/listanimations.html)

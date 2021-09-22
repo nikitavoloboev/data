@@ -146,6 +146,7 @@
 - [Awesome Developer Advocacy](https://github.com/dmitryvinn/awesome-dev-advocacy)
 - [Developer, you may need a co-founder in marketing (2021)](https://microfounder.com/blog/cofounder-in-marketing) ([HN](https://news.ycombinator.com/item?id=28553775))
 - [How I’ve approached founder-led sales (2021)](https://www.kracov.co/writing/founder-sales)
+- [Death of advertising (2021)](http://adaged.blogspot.com/2021/09/a-fking-master.html) ([Tweet](https://twitter.com/vanschneider/status/1440676090641481729))
 
 ## Images
 

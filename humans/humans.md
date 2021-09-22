@@ -35,6 +35,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Виктор Бабарико. Биография](https://www.youtube.com/watch?v=v7q_SKxNtW8)
 - [73 Questions With Lorde (2021)](https://www.youtube.com/watch?v=MSRBV9udKi8)
 - [A conversation between Nassim Nicholas Taleb and Stephen Wolfram at the Wolfram Summer School 2021](https://www.youtube.com/watch?v=_8j1XZ0N_wE)
+- [Anya Taylor-Joy: Working On The Queen’s Gambit Was An IRL Checkmate](https://www.youtube.com/watch?v=Dz12pCwA41A)
 
 ## Interesting bios
 
@@ -75,3 +76,4 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Alias](https://alias.co/) - Alerts for your favorite people. ([HN](https://news.ycombinator.com/item?id=27921875))
 - [43 great biographies (2021)](https://twitter.com/landforce/status/1434185988784328707)
 - [TIME 100: The Most Influential People of 2021](https://time.com/collection/100-most-influential-people-2021/)
+- [Peter Thiel and Silicon Valley’s Pursuit of Power: Excerpt (2021)](https://nymag.com/intelligencer/article/peter-thiel-silicon-valley-contrarian-max-chafkin.html)

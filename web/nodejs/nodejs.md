@@ -24,6 +24,7 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [fastify-plugin](https://github.com/fastify/fastify-plugin) - Plugin helper for Fastify.
 - [fastify-cli](https://github.com/fastify/fastify-cli) - Run a Fastify application with one command.
 - [Fastify Typescript Starter](https://github.com/inian/fastify-typescript-starter)
+- [fastify-reply-from](https://github.com/fastify/fastify-reply-from) - Fastify plugin to forward the current HTTP request to another server. HTTP2 to HTTP is supported too.
 - [Nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
 - [Node.js Fundamentals: Web Server Without Dependencies (2018)](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)
 - [node-sqlite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
@@ -119,6 +120,7 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. ([Docs](https://pnpm.js.org/en/motivation))
 - [node-request-interceptor](https://github.com/mswjs/node-request-interceptor) - Low-level HTTP/HTTPS/XHR request interception library for Node.
 - [napi-rs](https://github.com/napi-rs/napi-rs) - Minimal library for building compiled NodeJS add-ons in Rust.
+- [Template project for writing node package with napi-rs](https://github.com/napi-rs/package-template)
 - [esno](https://github.com/antfu/esno) - TypeScript/ESNext node runtime powered by esbuild.
 - [TypeScript Tools for Node.js](https://github.com/AviVahl/ts-tools)
 - [Learning Node.js internals](https://github.com/danbev/learning-nodejs)
@@ -244,3 +246,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Edge](https://github.com/edge-js/edge) - Node.js templating engine with fresh air.
 - [Poolifier](https://github.com/poolifier/poolifier) - Fast and small Node.js thread pool implementation.
 - [tasuku](https://github.com/privatenumber/tasuku) - Minimal task runner for Node.js.
+- [pathe](https://github.com/unjs/pathe) - Normalized paths for Node.js.

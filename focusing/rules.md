@@ -20,7 +20,7 @@
 - Don't judge anyone. Attempt to see another person's point of view. [Be kind](https://twitter.com/ainhoamarzol/status/1393691237107093505). Show love & empathy. Self love. [No ego](../consciousness/ego.md).
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Seek & give candid feedback. Respond politely.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
-- Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits.
+- Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits. Seek new novel experiences/relationships. Collect stories.
 - Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Let past go. Don't fixate on anything. Anything outside of this moment is imagination. Move onwards. Live through each moment.
 - Happiness comes from being grateful and appreciative for what I already have. Don't waste time trying to measure my success/happiness by what anyone else thinks it should be.
 - [Be happy](../life/happiness.md). Love myself. Be playful. Make new nice memories and enjoy each moment in life. Savor close relationships. Look towards the [future](../future/future.md). Appreciate what I have.
@@ -145,11 +145,13 @@
 - Don't needlessly complain about things to anyone. My life is amazing and it's lucky I even exist. Be grateful.
 - The relationship can only get better if both want it to improve.
 - [Don't waste time on maintaining one sided relationships.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/h3ydwgi/?utm_source=reddit&utm_medium=web2x&context=3)
+- Don't burn bridges unnecessarily. Try be remembered as a good friend.
 
 ## Communication
 
 - Show interest. Ask genuine questions. Listen more. Don't interrupt. Don't be annoying and self indulgent. Respect time and don't pressure for response.
 - [Praise in public. Criticize in Private.](https://www.radicalcandor.com/public-praise-private-criticism/)
+- Send cold emails/messages more often. Don't be afraid of no response. Be respectful & concise.
 
 ## Finance
 

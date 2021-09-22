@@ -16,7 +16,7 @@
 - [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [NGINX Wiki](https://www.nginx.com/resources/wiki/) ([Code](https://github.com/nginxinc/nginx-wiki))
 - [Manage Nginx upstreams in pure Lua](https://github.com/upyun/lua-resty-checkups)
-- [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus)
+- [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus) - Lua library that can be used with Nginx to keep track of metrics and expose them on a separate web page to be pulled by Prometheus.
 - [NGINX Ingress Controller](https://github.com/nginxinc/kubernetes-ingress)
 - [Building Pastebin for text using NGINX and Lua (2018)](https://usamaejaz.com/nginx-lua-pastebin/)
 - [Official NGINX Dockerfiles](https://github.com/nginxinc/docker-nginx)

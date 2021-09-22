@@ -312,3 +312,6 @@
 - [Postgres: Boundless `Text` and Back Again (2021)](https://brandur.org/text) ([HN](https://news.ycombinator.com/item?id=28484312))
 - [Data Fluent for PostgreSQL (2021)](https://tech.marksblogg.com/data-fluent-for-postgresql.html) ([Code](https://github.com/marklit/datafluent_pg))
 - [Building PostgreSQL Extensions with Rust (2021)](https://tech.marksblogg.com/postgresql-extension-rust.html)
+- [Postgres 14: It's The Little Things (2021)](https://blog.crunchydata.com/blog/postgres-14-its-the-little-things) ([Reddit](https://www.reddit.com/r/programming/comments/pspthf/postgres_14_its_the_little_things/))
+- [node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres.
+- [Persisted operations](https://github.com/graphile/persisted-operations) - Persisted operations (aka "persisted queries") support for PostGraphile.

@@ -19,6 +19,7 @@
 - [Citation](https://github.com/hans/obsidian-citation-plugin) - Plugin for Obsidian integrates your academic reference manager with the Obsidian editing experience.
 - [Readwise](https://github.com/readwiseio/obsidian-readwise) - Enables you to easily and automatically export all your digital highlights to Obsidian from a variety of sources.
 - [Smart Random Note](https://github.com/erichalldev/obsidian-smart-random-note) - Enhances opening random notes.
+- [Sliding Panes (Andy Matuschak Mode)](https://github.com/deathau/sliding-panes-obsidian) - Changes the way panes in the main workspace are handled — inspired by the UI of Andy Matuschak's notes.
 
 ## Links
 
@@ -30,3 +31,4 @@
 - [Obsidian Alfred](https://github.com/hauselin/obsidian-alfred) - Open vaults and files in Obsidian.
 - [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.
 - [obsidian-react-starter](https://github.com/liamcain/obsidian-react-starter) - Starter template for creating an Obsidian plugin with ReactJS.
+- [Obsidian Export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown.

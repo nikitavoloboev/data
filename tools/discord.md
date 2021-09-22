@@ -18,6 +18,9 @@
 - [Send](https://github.com/cnrad/send) - Send a message to me on Discord using webhooks.
 - [MRVN](https://github.com/cpdt/mrvn-bot) - Discord music player bot.
 - [AWESOM-O](https://github.com/feinwarusoftware/awesomobot) - Modular Discord bot with support for user created scripts and an online dashboard. ([Web](https://awesomo.feinwaru.com/))
+- [MusicBot](https://github.com/ljgago/MusicBot) - Multi-server music bot for Discord built in Go.
+- [JMusicBot](https://github.com/jagrosh/MusicBot) - Discord music bot that's easy to set up and run yourself. In Java. ([Docs](https://jmusicbot.com/))
+- [Vortex](https://github.com/jagrosh/Vortex) - Discord Moderation Bot.
 
 ## Libraries
 

@@ -147,3 +147,7 @@
 - [Ethereum Single Sign-On (2021)](https://twitter.com/parkerhendo/status/1435033726136700934)
 - [Why Authorization is Hard (2021)](https://www.osohq.com/post/why-authorization-is-hard) ([HN](https://news.ycombinator.com/item?id=28543457))
 - [jwt-decode](https://github.com/auth0/jwt-decode) - Decode JWT tokens; useful for browser applications.
+- [TypeScript OAuth2.0 Server](https://github.com/jasonraimondi/ts-oauth2-server) - Standards compliant implementation of an OAuth 2.0 authorization server for Node, written in TypeScript.
+- [HIBA: Host Identity Based Authorization](https://github.com/google/hiba) - System built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customized authorized_users files periodically.
+- [CASL](https://github.com/stalniy/casl) - Isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access. ([Web](https://casl.js.org/))
+- [NetAuth](https://github.com/netauth/netauth) - Easy to deploy, easy to use authentication and identity provider. ([Web](https://www.netauth.org/))

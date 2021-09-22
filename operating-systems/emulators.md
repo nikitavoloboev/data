@@ -44,3 +44,4 @@
 - [VirtualSMC](https://github.com/acidanthera/VirtualSMC) - Advanced Apple SMC emulator in the kernel.
 - [GateBoy](https://github.com/aappleby/MetroBoy) - Gate-level simulators and tools for the original Game Boy.
 - [SwiftNES](https://github.com/tib/SwiftNES) - NES emulator written in Swift.
+- [SwiftNES](https://github.com/thara/SwiftNES) - Cross-platform NES Emulator written in Swift.

@@ -254,7 +254,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Replicache](https://replicache.dev/) - Easy Offline-First for Existing Applications. ([Code](https://github.com/rocicorp/replicache)) ([Design](https://github.com/rocicorp/replicache/blob/master/design.md)) ([Tweet](https://twitter.com/replicache/status/1359690468892626944))
 - [Engineering Ladders](https://github.com/bmoeskau/engineering-ladders) - Collection of engineering ladders for reference and inspiration.
 - [Practical tips that can help you be evaluated more fairly during performance review (2018)](https://twitter.com/mekkaokereke/status/1027552459873378304)
-- [tonari](https://tonari.no/) - Open doorway to another place, enabling you to be together and communicate naturally, just like you're really there.
+- [Tonari](https://tonari.no/) - Open doorway to another place, enabling you to be together and communicate naturally, just like you're really there. ([GitHub](https://github.com/tonarino))
 - [Show HN: What did you make during lockdown? (2020)](https://news.ycombinator.com/item?id=23592788)
 - [Why do we see illusions? - Mark Changizi (2013)](https://www.youtube.com/watch?v=1xcvWSeZPbw)
 - [AutoEQ](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses.

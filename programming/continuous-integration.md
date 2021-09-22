@@ -54,3 +54,6 @@
 - [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
 - [Werft](https://werft.dev/) - Kubernetes-native CI system. It knows no pipelines, just jobs and each job is a Kubernetes pod. ([Code](https://github.com/csweichel/werft))
 - [How to Learn CircleCI in Simple Words (2021)](https://towardsdatascience.com/how-to-learn-circleci-in-simple-words-2275e4299628)
+- [Deliveroo CircleCI helper image](https://github.com/deliveroo/circleci) - Container with useful helpers for CircleCI 2.0.
+- [Vela](https://github.com/go-vela/server) - Pipeline Automation (CI/CD) framework built on Linux container technology written in Go. ([Docs](https://go-vela.github.io/docs/))
+- [CircleCI CLI](https://github.com/CircleCI-Public/circleci-cli) - Use CircleCI from the command line.

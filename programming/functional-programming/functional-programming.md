@@ -129,6 +129,8 @@
 - [Monads are monoids in the category of endofunctors](https://sambernheim.com/#/blog/monads-are-monoids-in-the-category-of-endofunctors) ([HN](https://news.ycombinator.com/item?id=28466676))
 - [Functional programming is not popular because it is weird (2016)](https://probablydance.com/2016/02/27/functional-programming-is-not-popular-because-it-is-weird/) ([HN](https://news.ycombinator.com/item?id=28513703))
 - [List Homomorphisms and Parallelism](https://sigkill.dk/writings/par/lhomo.html) ([HN](https://news.ycombinator.com/item?id=28520476))
+- [Programs as Values, Part I : Intro & Compositionality](https://systemfw.org/posts/programs-as-values-I.html)
+- [Random Permutations and Sorting](https://apfelmus.nfshost.com/articles/random-permutations.html)
 
 ## Images
 

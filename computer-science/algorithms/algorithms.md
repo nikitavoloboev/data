@@ -75,6 +75,7 @@
 - [Algorithms for Cartographic Visualization (2012)](https://www.win.tue.nl/~kverbeek/PhDThesis.pdf)
 - [145 C++ algorithms](http://e-maxx.ru/algo/)
 - [Exploring rectangle packing algorithms (2020)](https://www.david-colson.com/2020/03/10/exploring-rect-packing.html)
+- [Quicksort and k-th smallest elements](https://apfelmus.nfshost.com/articles/quicksearch.html)
 
 ## Images
 

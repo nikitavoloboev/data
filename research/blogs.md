@@ -65,6 +65,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Matt Rickard](https://matt-rickard.com/archive/)
 - [Micah Lerner](https://www.micahlerner.com/) ([Code](https://github.com/mlerner/mlerner.github.io))
 - [Mark Litwintschik](https://tech.marksblogg.com/)
+- [Never Ending Books](http://www.neverendingbooks.org/)
 
 ## Notes
 

@@ -32,3 +32,4 @@
 - [casync](https://github.com/systemd/casync) - Content Addressable Data Synchronizer.
 - [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797) ([HN](https://news.ycombinator.com/item?id=28145209))
 - [Entropy coding in Oodle Data: Huffman coding (2021)](https://fgiesen.wordpress.com/2021/08/30/entropy-coding-in-oodle-data-huffman-coding/)
+- [Fun with Morse Code](https://apfelmus.nfshost.com/articles/fun-with-morse-code.html)

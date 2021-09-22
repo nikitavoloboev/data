@@ -21,3 +21,5 @@
 - [Blenderbot2](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet) - Open source chatbot that builds long-term memory and searches the internet.
 - [VK Auto Reply Bot](https://github.com/EnjiRouz/VK-Auto-Reply-Bot) - VKontakte User Bot with scheduled message sending, NLU and managed responses.
 - [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - Advanced NodeJS WhatsApp library for chatbots with advanced features.
+- [Matt, the Clubhouse bot (2021)](https://knyar.net/stuff/matt-the-clubhouse-bot/) ([Code](https://github.com/knyar/housebot))
+- [Errbot](https://github.com/errbotio/errbot) - Chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation. ([Docs](https://errbot.readthedocs.io/en/latest/))

@@ -193,3 +193,5 @@
 - [foxwren](https://github.com/malcolmstill/foxwren) - WebAssembly runtime in Zig.
 - [vite + wasm-pack starter](https://github.com/mizchi/vite-wasm-pack-starter)
 - [run-wasm](https://github.com/slipHQ/run-wasm) - Run WASM based code executions in the browser easily.
+- [Hippo](https://github.com/deislabs/hippo) - WebAssembly PaaS. Easiest way to deploy and serve applications compiled to WebAssembly. ([Docs](https://docs.hippofactory.dev/)) ([Intro](https://deislabs.io/posts/introducing-hippo/))
+- [wamr-swift](https://github.com/swiftwasm/wamr-swift) - Swift WebAssembly runtime powered by WAMR.

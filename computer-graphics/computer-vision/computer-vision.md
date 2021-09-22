@@ -376,3 +376,5 @@
 - [Image Synthesis via Semantic Composition (2021)](https://shepnerd.github.io/scg/) ([Code](https://github.com/dvlab-research/SCGAN))
 - [Awesome-Edge-Detection-Papers](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)
 - [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
+- [Learning A Single Network for Scale-Arbitrary Super-Resolution (2021)](https://longguangwang.github.io/Project/ArbSR/) ([Code](https://github.com/LongguangWang/ArbSR))
+- [Face Recognition](https://github.com/1adrianb/face-alignment) - 2D and 3D Face alignment library build using PyTorch.

@@ -16,3 +16,4 @@
 - [reactive.how](https://reactive.how/) - Learn RxJS operators and Reactive Programming principles. ([Code](https://github.com/cedricss/reactive.how))
 - [Kairo.js](https://github.com/3Shain/kairo) - Refined reactive programming pattern for web applications, the framework over frameworks.
 - [A Hands-on Introduction to Fine-Grained Reactivity (2021)](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
+- [FRP Guides](https://github.com/HeinrichApfelmus/frp-guides) - Tutorials, guidelines, examples, patterns and half-baked ideas on functional reactive programming (FRP).

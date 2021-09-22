@@ -966,6 +966,7 @@
 - [Heph](https://github.com/Thomasdezeeuw/heph) - Actor framework for Rust based on asynchronous functions.
 - [slog-rs](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust.
 - [winit](https://github.com/rust-windowing/winit) - Cross-platform window creation and management in Rust.
+- [xxhash-rust](https://github.com/DoumanAsh/xxhash-rust) - Rust implementation of xxhash.
 
 ## Cargo Plugins
 
@@ -1050,3 +1051,4 @@
 - [Roogle](https://roogle.hkmatsumoto.com/) - Rust API search engine, which allows you to search functions by names and type signatures. ([Code](https://github.com/hkmatsumoto/roogle))
 - [Panamax](https://github.com/panamax-rs/panamax) - Tool to mirror the Rust and crates.io repositories, for offline usage of rustup and cargo.
 - [How often is each Clippy lint suppressed on crates.io](https://github.com/dtolnay/noisy-clippy)
+- [chartered](https://github.com/w4/chartered) - Private, authenticated cargo registry.

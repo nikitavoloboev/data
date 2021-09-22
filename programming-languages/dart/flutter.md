@@ -59,3 +59,4 @@
 - [Moor](https://github.com/simolus3/moor) - Reactive persistence library for Flutter and Dart, built ontop of SQLite.
 - [Kraken](https://github.com/openkraken/kraken) - Write in JavaScript, Render in Flutter. ([HN](https://news.ycombinator.com/item?id=28578791))
 - [funvas](https://github.com/creativecreatorormaybenot/funvas) - Flutter package that allows creating canvas animations based on time and math (mostly trigonometric) functions.
+- [VelocityX](https://github.com/iampawan/VelocityX) - Minimalist Flutter framework for rapidly building Flutter apps. ([Web](https://velocityx.dev/))

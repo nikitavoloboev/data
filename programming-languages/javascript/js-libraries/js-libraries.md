@@ -599,6 +599,8 @@
 - [Tocca.js](https://github.com/GianlucaGuarini/Tocca.js) - Super lightweight script ( ~1kB ) to detect via Javascript events like 'tap' 'longtap' 'dbltap' 'swipeup' 'swipedown' 'swipeleft' 'swiperight' on any kind of device.
 - [fast-base64](https://github.com/mitschabaude/fast-base64) - Fastest base64 on the web, with Wasm + SIMD.
 - [Nano Colors](https://github.com/ai/nanocolors) - Tiny and fast Node.js library for formatting terminal text with ANSI colors.
+- [Fractional Indexing](https://github.com/rocicorp/fractional-indexing) - Technique to create an ordering that can be used for Realtime Editing of Ordered Sequences.
+- [Atrament](https://github.com/jakubfiala/atrament.js) - Small JS library for beautiful drawing and handwriting on the HTML Canvas. ([Web](https://www.fiala.space/atrament.js/demo/))
 
 ## Links
 
@@ -614,3 +616,7 @@
 - [UNPKG Search](https://www.unpkgsearch.com/) - Search Engine for Unpkg Packages.
 - [bundle](https://bundle.js.org/) - Quick npm package size checker. ([Code](https://github.com/okikio/bundle))
 - [Dependency cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualise dependencies. With your rules. JavaScript. TypeScript.
+- [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin.
+- [libnpmpublish](https://github.com/npm/libnpmpublish) - Node.js library for programmatically publishing and unpublishing npm packages.
+- [pacote](https://github.com/npm/pacote) - Fetches package manifests and tarballs from the npm registry.
+- [Dual Publish](https://github.com/ai/dual-publish) - Publish JS project as dual ES modules and CommonJS package to npm.

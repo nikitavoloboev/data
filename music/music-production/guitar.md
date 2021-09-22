@@ -32,3 +32,4 @@
 - [Neural networks emulate any guitar pedal for $120 (2021)](https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/) ([HN](https://news.ycombinator.com/item?id=27342509))
 - [Swifty Guitar Chords](https://github.com/BeauNouvelle/SwiftyGuitarChords) - Guitar chord diagram drawing library built in Swift.
 - [A Catalogue of Chords Example (2021)](https://jpreston.xyz/a-catalogue-of-chords-example.html) ([HN](https://news.ycombinator.com/item?id=28365015))
+- [Fretonator](https://www.fretonator.com/) - Interactive tool for learning common modes on the guitar, understanding the chord theory behind the modes. ([Code](https://github.com/whitep4nth3r/fretonator))

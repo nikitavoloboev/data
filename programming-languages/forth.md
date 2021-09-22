@@ -28,3 +28,5 @@
 - [Building a tiny FORTH for an Arduino UNO in one week (2021)](https://www.thanassis.space/miniforth.html) ([Code](https://github.com/ttsiodras/MiniForth))
 - [Forth memory model](https://side-effects.neocities.org/technology/memory-model.html)
 - [WAForth](https://github.com/remko/waforth) - Forth Interpreter+Compiler for WebAssembly.
+- [Contextful exceptions with Forth metaprogramming (2021)](https://niedzejkob.p4.team/bootstrap/exception-context/)
+- [How Forth implements exceptions (2021)](https://niedzejkob.p4.team/bootstrap/throw-catch/)

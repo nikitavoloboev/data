@@ -315,3 +315,7 @@
 - [HIW 2021 - YouTube](https://www.youtube.com/playlist?list=PLyrlk8Xaylp6_QTmXGuRe3lShaRGaMtgc)
 - [An Introduction to Type Level Programming (2021)](https://rebeccaskinner.net/posts/2021-08-25-introduction-to-type-level-programming.html) ([HN](https://news.ycombinator.com/item?id=28466709))
 - [Syd's rules for sustainable Haskell](https://github.com/NorfairKing/syds-rules-for-sustainable-haskell)
+- [HyperHaskell](https://github.com/HeinrichApfelmus/hyper-haskell) - Strongly hyped Haskell interpreter.
+- [The Incomplete Guide to Lazy Evaluation (in Haskell)](https://apfelmus.nfshost.com/articles/lazy-eval.html)
+- [The Operational Monad Tutorial](https://apfelmus.nfshost.com/articles/operational-monad.html)
+- [Haskell Wiki](https://en.wikibooks.org/wiki/Haskell)

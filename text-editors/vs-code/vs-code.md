@@ -62,3 +62,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [snp](https://github.com/djyde/snp) - VS Code code snippet generator.
 - [HN: Reflections on IDEA vs VS Code (2021)](https://news.ycombinator.com/item?id=26367410)
 - [Productive VS Code](https://productivevscode.com/) - Change the way you VS Code in 1 hour.
+- [OpenVSCode Server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.

@@ -475,6 +475,8 @@
 - [Darts](https://github.com/unit8co/darts) - Python library for easy manipulation and forecasting of time series.
 - [goto](https://github.com/snoack/python-goto) - Function decorator that rewrites the bytecode to enable goto in Python. ([HN](https://news.ycombinator.com/item?id=28600651))
 - [Dora](https://github.com/facebookresearch/dora) - Experiment management framework. It expresses grid searches as pure python files.
+- [Dependency Injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python.
+- [word_cloud](https://github.com/amueller/word_cloud) - Little word cloud generator in Python.
 
 ## Links
 

@@ -314,6 +314,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Alex Currie](https://www.instagram.com/alex.currie/)
 - [Weronika Izdebska](https://www.instagram.com/ovors/)
 - [Henri Prestes](https://henriprestesp.com/)
+- [Austin Mann](https://www.instagram.com/austinmann/)
 - [Oystein Aspelund](http://oysteinaspelund.com/)
 - [Rachael Talibart](https://www.instagram.com/rachaeltalibart/)
 - [Joshua K. Jackson](https://www.joshkjack.com/)

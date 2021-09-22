@@ -13,6 +13,7 @@
 - [Сергей Орлов "АРТИСТ"](https://www.youtube.com/watch?v=uSdqkFAiJkQ&t=1s)
 - [Сергей Орлов - Про спортзалы](https://www.youtube.com/watch?v=KW9knOePgmU)
 - [Сергей Орлов - Генетическая провинция](https://www.youtube.com/watch?v=PW2riGJkjX4)
+- [Сергей Орлов - История триумфального возвращения](https://www.youtube.com/watch?v=TXjncS7gTfo)
 - [Tinder as a woman](https://www.youtube.com/watch?app=desktop&v=7Fh52TgG_YE)
 
 ## Links

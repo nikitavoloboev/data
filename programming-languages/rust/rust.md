@@ -565,3 +565,5 @@
 - [Rustacean Principles, Continued (2021)](https://smallcultfollowing.com/babysteps//blog/2021/09/16/rustacean-principles-continued/)
 - [Explaining rust-analyzer - YouTube (2021)](https://www.youtube.com/playlist?list=PLhb66M_x9UmrqXhQuIpWC5VgTdrGxMx3y)
 - [Rome will be written in Rust (2021)](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust) ([HN](https://news.ycombinator.com/item?id=28607908)) ([Tweet](https://twitter.com/buildsghost/status/1440365394137550860))
+- [Richard Feldman’s Introduction to Rust workshop](https://rtfeldman-rust-workshop.netlify.app/) ([Code](https://github.com/rtfeldman/rust-1.51-workshop))
+- [Example rust application to showcase error handling patterns](https://github.com/zoni/rust-wordcount)

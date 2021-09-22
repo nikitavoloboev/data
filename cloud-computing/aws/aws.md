@@ -214,3 +214,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Mistakes I've Made in AWS](https://laravel-news.com/aws-mistakes) ([HN](https://news.ycombinator.com/item?id=28490278))
 - [AWS IAM Tracker](https://github.com/glassechidna/trackiam) - Collects IAM actions, AWS APIs and managed policies from various public sources. ([Web](http://aktion.io/))
 - [AWS Cloudformation User Guide](https://github.com/awsdocs/aws-cloudformation-user-guide)
+- [Building a Serverless Compute Platform with AWS and TypeScript - Tomasz Lakomy (2021)](https://www.youtube.com/watch?v=6EgfpBzL3_0)
+- [s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.

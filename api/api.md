@@ -249,3 +249,4 @@
 - [Schemathesis](https://github.com/schemathesis/schemathesis) - Modern API testing tool for web applications built with Open API and GraphQL specifications.
 - [So you want to mock an API (2021)](https://www.getsynth.com/docs/blog/2021/09/07/mocking-a-production-api)
 - [API Star](https://github.com/encode/apistar) - Toolkit for working with OpenAPI or Swagger schemas. ([Docs](https://docs.apistar.com/))
+- [RapiDoc](https://mrin9.github.io/RapiDoc/) - Custom-Element for OpenAPI Spec. Create beautiful, customizable, interactive API documentation from OpenAPI Specification. ([Code](https://github.com/mrin9/RapiDoc))

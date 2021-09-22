@@ -235,3 +235,5 @@
 - [The Ultimate Guide To Firebase With Next.JS (2021)](https://blog.jarrodwatts.com/the-ultimate-guide-to-firebase-with-nextjs)
 - [What I struggled with Next.js using Firebase Hosting (and enable SSR) (2021)](https://dev.to/rowaxl/what-i-struggled-with-next-js-using-firebase-hosting-and-enable-ssr-4e67)
 - [From Firebase/Redis to MySQL with PlanetScale (2021)](https://leerob.io/blog/mysql-planetscale) ([Tweet](https://twitter.com/swyx/status/1436689311315890177))
+- [Cache Is Everything but Simple with Nextjs and React Query (2021)](https://blog.bam.tech/developer-news/cache-is-everything-but-simple-with-nextjs-and-react-query)
+- [Next.js Starters](https://nextjs-project-starters.vercel.app/)

@@ -215,7 +215,7 @@
 - [Multi-Cluster Kubernetes and Service Mesh Patterns (2020)](https://www.solo.io/blog/webinar-recap-multi-cluster-kubernetes-and-service-mesh-patterns/)
 - [Tools to use with the controller-runtime libraries](https://github.com/kubernetes-sigs/controller-tools)
 - [How to Create Ephemeral Environments using Crossplane and ArgoCD? (2020)](https://www.infracloud.io/blogs/how-to-create-ephemeral-environments-using-crossplane-and-argocd/)
-- [Gitpod](https://github.com/gitpod-io/gitpod) - Open-source Kubernetes application providing fully-baked, collaborative development environments in your browser - powered by VS Code. ([Article](https://www.gitpod.io/blog/opensource/))
+- [Gitpod](https://gitpod.io/) - Open-source Kubernetes application for automated and ready-to-code development environments that blends in your existing workflow. ([Article](https://www.gitpod.io/blog/opensource/)) ([Code](https://github.com/gitpod-io/gitpod))
 - [HyScale](https://github.com/hyscale/hyscale) - Abstraction framework over Kubernetes. ([HN](https://news.ycombinator.com/item?id=24270669))
 - [Kubernetes: Make your services faster by removing CPU limits (2020)](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/) ([HN](https://news.ycombinator.com/item?id=24351566))
 - [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS.
@@ -436,3 +436,5 @@
 - [Flannel](https://github.com/flannel-io/flannel) - Simple and easy way to configure a layer 3 network fabric designed for Kubernetes.
 - [Kratix](https://github.com/syntasso/kratix) - Framework for building platforms on Kubernetes.
 - [Colima](https://github.com/abiosoft/colima) - Docker (and Kubernetes) on macOS with minimal setup.
+- [k8s-vault-webhook](https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook) - Kubernetes webhook that can inject secrets into Kubernetes resources by connecting to multiple secret managers.
+- [kubeapply](https://github.com/segmentio/kubeapply) - Lightweight tool for git-based management of Kubernetes configs.

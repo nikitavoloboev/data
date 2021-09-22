@@ -64,3 +64,4 @@
 - [Nebula Crawler](https://github.com/dennis-tra/nebula-crawler) - libp2p DHT crawler that gathers information about running nodes in the network.
 - [bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol) - Simple, robust, BitTorrent wire protocol implementation in Node.js.
 - [Exatorrent](https://github.com/varbhat/exatorrent) - BitTorrent Client written in Go. It can be run locally or be hosted in Remote Server with good resources to use that Server as SeedBox. ([HN](https://news.ycombinator.com/item?id=28301374))
+- [XD](https://github.com/majestrate/XD) - BitTorrent Client written in Go.

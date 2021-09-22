@@ -550,3 +550,5 @@
 - [An overview of the theory of overparameterized machine learning (2021)](https://arxiv.org/abs/2109.02355)
 - [Geometric Deep Learning Blueprint (2021)](https://www.youtube.com/watch?v=bIZB1hIJ4u8)
 - [Multi-Armed Bandits and Pure-Exploration (2020)](https://www.youtube.com/watch?v=h-dYzjF8eFA)
+- [The First Rule of Machine Learning: Start Without Machine Learning (2021)](https://eugeneyan.com/writing/first-rule-of-ml/) ([HN](https://news.ycombinator.com/item?id=28613099))
+- [An Introduction to Weighted Automata in Machine Learning (2021)](https://awnihannun.com/writing/automata_ml.html) ([Code](https://github.com/awni/automata_ml))

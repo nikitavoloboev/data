@@ -55,6 +55,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Uncertainty, not outcome, is the root of stress.](https://twitter.com/NavalBot/status/1434245194292027393)
 - [Stress primarily comes from not taking action over something that you can have some control over… stress comes from ignoring things that you shouldn’t be ignoring.](https://twitter.com/austen/status/1438157425744306176)
 - [For a long time I thought I wasn’t ambitious until I realized my ambition is to live a good life.](https://twitter.com/schlaf/status/1438293177673396227)
+- [Living a good life is largely just being around people with good vibes.](https://twitter.com/zachtratar/status/1440552661460258816)
 
 ## Links
 

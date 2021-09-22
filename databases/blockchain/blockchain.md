@@ -225,3 +225,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Blockchain + Games (2021)](https://twitter.com/nabeel/status/1438977920324685826)
 - [COMIT Network](https://comit.network/) - Open protocol facilitating trustless cross-blockchain applications. ([GitHub](https://github.com/comit-network))
 - [Will DAOs replace Corporations? (2021)](https://every.to/divinations/will-daos-replace-corporations) ([Tweet](https://twitter.com/nbashaw/status/1440362548604268554))
+- [Tokens are a new digital primitive, analogous to the website (2021)](https://twitter.com/cdixon/status/1440026947036356619)
+- [Validator Operations Guide](https://kb.certus.one/) - best practices for running a validator service as implemented by Certus One, as well as technical background to help you design your own validator architecture. ([Code](https://github.com/certusone/kb))
+- [Starcoin](https://github.com/starcoinorg/starcoin) - Layered Cryptocurrency and Decentralized Blockchain System.
+- [AirSwap](https://preview.airswap.io/#/) - Open developer community focused on decentralized trading systems. ([Code](https://github.com/airswap/airswap-web))

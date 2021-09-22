@@ -41,6 +41,10 @@
 
 - [eio](https://github.com/kowainik/eio) - IO with Exceptions tracked on the type-level.
 
+## Graphics
+
+- [Threepenny-GUI](https://github.com/HeinrichApfelmus/threepenny-gui) - GUI framework that uses the web browser as a display.
+
 ## Other
 
 - [generic-lens](https://github.com/kcsongor/generic-lens) - Generically derive traversals, lenses, and prisms.
@@ -143,6 +147,10 @@
 - [spectacle](https://github.com/awakesecurity/spectacle) - Embedded specification language & model checker in Haskell.
 - [Hashable](https://github.com/haskell-unordered-containers/hashable) - Class for types that can be converted to a hash value.
 - [effectful](https://github.com/arybczak/effectful) - Easy to use, performant extensible effects library with seamless integration with the existing Haskell ecosystem.
+- [drama](https://github.com/evanrelf/drama) - Actor library for Haskell.
+- [Wai-Routes](https://github.com/ajnsit/wai-routes) - Micro web framework for Haskell that focuses on typesafe URLs.
+- [Reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana) - Library for functional reactive programming in Haskell.
+- [Cnoidal](https://github.com/HeinrichApfelmus/cnoidal) - Haskell library for representing, transforming, and live coding music.
 
 ## Links
 

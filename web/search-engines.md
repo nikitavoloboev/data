@@ -45,7 +45,7 @@
 - [Search Commons](https://searchcommons.org/) - Open source project that maintains a directory of websites you can restrict your search to. ([Code](https://github.com/antontarasenko/searchcommons))
 - [Ego Graphs – the Google ‘vs’ trick (2020)](https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f) ([HN](https://news.ycombinator.com/item?id=23599177))
 - [Reducing search indexing latency to one second (2020)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/reducing-search-indexing-latency-to-one-second.html) ([HN](https://news.ycombinator.com/item?id=23652097))
-- [Ecosia](https://www.ecosia.org/?c=en) - Search engine that plants trees. ([HN](https://news.ycombinator.com/item?id=25713050))
+- [Ecosia](https://www.ecosia.org/) - Search engine that plants trees. ([HN](https://news.ycombinator.com/item?id=25713050)) ([GitHub](https://github.com/ecosia))
 - [paxx](https://github.com/jackdoe/paxx) - Simple inverted index search engine.
 - [Sajari](https://www.sajari.com/) - AI-driven Search Solutions.
 - [Runnaroo](https://www.runnaroo.com/) - A Better Private Search Engine. ([HN](https://news.ycombinator.com/item?id=23771131))
@@ -151,3 +151,4 @@
 - [MeiliSearch: A Minimalist Full-Text Search Engine (2021)](https://tech.marksblogg.com/meilisearch-full-text-search.html) ([HN](https://news.ycombinator.com/item?id=28187675))
 - [Custom Search Engine Built on Searx (2021)](https://jpreston.xyz/custom-search-engine.html) ([HN](https://news.ycombinator.com/item?id=28509997))
 - [Marginalia Search](https://search.marginalia.nu/) - Search engine that favors text-heavy sites and punishes modern web design. ([HN](https://news.ycombinator.com/item?id=28550764))
+- [Dorks collections list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines.

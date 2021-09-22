@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Minehut](https://minehut.com/) - Free Minecraft Server Hosting.
 - [MultiMC](https://github.com/MultiMC/MultiMC5) - Custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [Reverse Proxy + Cache for Minecraft](https://github.com/benjojo/mcod) - Minecraft servers that only run when people are playing on them.
 - [Stevenarella](https://github.com/iceiix/stevenarella) - Multi-protocol Minecraft-compatible client written in Rust.
@@ -65,3 +66,6 @@
 - [minecraft-render](https://github.com/co3moz/minecraft-render) - Minecraft block rendering with node.js.
 - [Elementa](https://github.com/Sk1erLLC/Elementa) - Simple, declarative GUI library for Minecraft.
 - [Sk1er](https://sk1er.club/) - High quality Minecraft Mods and services. ([Twitter](https://twitter.com/Sk1erLLC)) ([GitHub](https://github.com/Sk1erLLC))
+- [Minecraft Console Client](https://github.com/ORelio/Minecraft-Console-Client) - Lightweight app allowing you to connect to any Minecraft server, send commands and receive text messages in a fast and easy way.
+- [PufferPanel](https://github.com/PufferPanel/PufferPanel) - Open source game server management panel, designed for both small networks and game server providers. Supports Minecraft, Forge, Spigot, Sponge, Source Dedicated Servers. ([Web](https://www.pufferpanel.com/))
+- [packwiz](https://github.com/comp500/packwiz) - Command-line tool for creating Minecraft modpacks.

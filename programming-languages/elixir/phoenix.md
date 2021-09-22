@@ -50,3 +50,6 @@
 - [Awesome Phoenix Liveview](https://github.com/beam-community/awesome-phoenix-liveview)
 - [Phoenix Content Negotiation Tutorial](https://github.com/dwyl/phoenix-content-negotiation-tutorial) - Tutorial showing how to return different content for the same route based on accepts header. Build a Web App and JSON API.
 - [Use Phoenix Channels (2021)](https://info.codecast.io/blog/how-to-use-phoenix-channels) ([HN](https://news.ycombinator.com/item?id=28061247))
+- [Desktop](https://github.com/elixir-desktop/desktop) - Building native-like Elixir apps is the goal of this library. It combines Phoenix LiveView and Erlangs built-in WxWidgets library to archieve this.
+- [How We Got to LiveView (2021)](https://fly.io/blog/how-we-got-to-liveview/) ([HN](https://news.ycombinator.com/item?id=28620490))
+- [PLDS](https://github.com/phoenixframework/plds) - CLI version of Phoenix LiveDashboard.

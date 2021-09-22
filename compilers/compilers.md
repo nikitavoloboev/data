@@ -176,3 +176,4 @@
 - [Canonicalization (2018)](https://blog.sunfishcode.online/canonicalization/)
 - [cachepot](https://github.com/paritytech/cachepot) - Shared Compilation Cache. `sccache` with extra sec, which in turn is `ccache` with cloud storage.
 - [A friendly introduction to machine learning compilers and optimizers (2021)](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
+- [SymCC](https://github.com/eurecom-s3/symcc) - Efficient compiler-based symbolic execution. ([Web](http://www.s3.eurecom.fr/tools/symbolic_execution/symcc.html))

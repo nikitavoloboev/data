@@ -90,12 +90,14 @@
 - [Augmented Audio Libraries in Rust](https://github.com/yamadapc/augmented-audio)
 - [Signal](https://signal.vercel.app/) - Online MIDI Editor. ([Code](https://github.com/ryohey/signal))
 - [Meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript. ([Web](https://meyda.js.org/))
+- [Meyda Rust](https://github.com/meyda/meyda-rs) - Audio feature extraction library for Rust.
 - [aeon](https://github.com/tommaisey/aeon) - Live-coding system for musical pattern manipulation.
 - [Open Stage Control](https://openstagecontrol.ammd.net/) - Libre and modular OSC / MIDI controller. ([Code](https://github.com/jean-emmanuel/open-stage-control))
 - [ChucK](https://chuck.cs.princeton.edu/) - Strongly-Timed Music Programming Language. ([HN](https://news.ycombinator.com/item?id=28573193))
 - [Mosquito](https://github.com/ales-tsurko/mosquito) - Audio library for live coding, composition, sound design, DSP prototyping and any kind of audio applications.
 - [Composing Studio](https://composing.studio/) - Collaborative music composition for everyone. ([Code](https://github.com/ekzhang/composing.studio))
 - [Aubio](https://github.com/aubio/aubio) - Tool designed for the extraction of annotations from audio signals. ([Web](https://aubio.org/)) ([HN](https://news.ycombinator.com/item?id=28582856))
+- [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library.
 
 ## Inspiration
 
@@ -234,3 +236,4 @@
 - [EMOPIA: A Multi-Modal Pop Piano Dataset For Emotion Recognition and Emotion-based Music Generation (2021)](https://arxiv.org/abs/2108.01374) ([Code](https://github.com/annahung31/EMOPIA))
 - [Music Composition with Deep Learning: A Review (2021)](https://arxiv.org/abs/2108.12290) ([HN](https://news.ycombinator.com/item?id=28353358))
 - [Music Source Separation](https://github.com/bytedance/music_source_separation) - PyTorch implementation of music source separation.
+- [Computer Models of Musical Creativity - David Cope (2005)](https://mitpress.mit.edu/books/computer-models-musical-creativity) ([LISP source code](https://github.com/HeinrichApfelmus/david-cope-cmmc))

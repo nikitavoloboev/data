@@ -934,6 +934,8 @@
 - [RSDic](https://github.com/hillbig/rsdic) - Go library for space-efficient rank/select operations for both sparse and dense bit arrays.
 - [Scriggo](https://github.com/open2b/scriggo) - World’s most powerful template engine and Go embeddable interpreter. ([Web](https://scriggo.com/))
 - [browser](https://github.com/pkg/browser) - Provides helpers to open files, readers, and urls in a browser window.
+- [go-quartz](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go.
+- [Pion MediaDevices ](https://github.com/pion/mediadevices) - Provides access to media input devices like cameras, microphones, and screen capture.
 
 ## Links
 

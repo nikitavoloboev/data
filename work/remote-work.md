@@ -122,3 +122,4 @@
 - [I built a business that lets me live on the beach full time (2021)](https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html) ([HN](https://news.ycombinator.com/item?id=28027138))
 - [Effective remote meetings (2021)](https://twitter.com/jlengstorf/status/1433815603295371265)
 - [Ways of Working (2020)](http://bugra.github.io/posts/2020/4/26/ways-of-working/)
+- [8 ideas we use for building a great culture in a distributed team (2021)](https://twitter.com/nathanbarry/status/1440358547372457987)

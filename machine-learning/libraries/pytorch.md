@@ -276,3 +276,4 @@
 - [PyTorch WideDeep](https://github.com/jrzaurin/pytorch-widedeep) - Flexible package to combine tabular data with text and images using Wide and Deep models in PyTorch.
 - [Vector Quantization - PyTorch](https://github.com/lucidrains/vector-quantize-pytorch)
 - [PytorchLightning Tutorials](https://github.com/PyTorchLightning/lightning-tutorials) - Collection of PyTorch lightning tutorial form as rich scripts automatically transformed to ipython notebooks.
+- [torchkit](https://github.com/kevinzakka/torchkit) - Lightweight library containing PyTorch utilities useful for day-to-day research.

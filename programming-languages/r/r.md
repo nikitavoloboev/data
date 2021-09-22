@@ -78,3 +78,4 @@
 - [inspectdf](https://github.com/alastairrushworth/inspectdf) - Tools for Exploring and Comparing Data Frames.
 - [htmldf](https://github.com/alastairrushworth/htmldf) - Simple scraping and tidy webpage summaries.
 - [R Posts You Might Have Missed (2020)](https://alastairrushworth.github.io/R-Posts-You-Might-Have-Missed!/)
+- [scattermore](https://github.com/exaexa/scattermore) - Very fast scatterplots for R.
