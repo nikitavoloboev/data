@@ -43,3 +43,4 @@
 - [mod_md](https://github.com/icing/mod_md) - Let's Encrypt (ACME) in Apache httpd.
 - [TLS Tools for Humans](https://github.com/Brcrwilliams/tlstools)
 - [SSL Kill Switch 2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
+- [Provision TLS certificates for your internal Tailscale services (2021)](https://tailscale.com/blog/tls-certs/)

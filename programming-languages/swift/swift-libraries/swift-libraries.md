@@ -753,6 +753,7 @@
 - [SwiftIndexStore](https://github.com/kateinoigakukun/swift-indexstore) - IndexStore reader library for Swift.
 - [Spatial](https://github.com/eonist/Spatial) - Hasle-free AutoLayout (MacOS / iOS).
 - [VideoIO](https://github.com/MetalPetal/VideoIO) - Video Input/Output Utilities.
+- [SwiftVideo](https://github.com/unpause-live/SwiftVideo) - Swift Video Framework for Linux, macOS, and iOS/iPadOS.
 
 ## Other (not lib)
 

@@ -16,3 +16,4 @@
 - [rollup-starter-app](https://github.com/rollup/rollup-starter-app) - Bare-bones example of how to create an application using Rollup.
 - [Rollpkg](https://github.com/rafgraph/rollpkg) - Zero-config build tool to create packages with Rollup and TypeScript.
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Vite.js & Rollup plugin for generating critical CSS.
+- [Rolldown](https://github.com/Brooooooklyn/rolldown) - Rollup Rust implementation with 100% API compatible.

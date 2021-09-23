@@ -35,6 +35,7 @@
 ## CLI
 
 - [Vexil](https://github.com/Ovyerus/vexil) - Elixir flag parser that does just enough.
+- [Artificery](https://github.com/bitwalker/artificery) - Toolkit for creating terminal user interfaces in Elixir.
 
 ## Other
 

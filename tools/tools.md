@@ -206,6 +206,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Appstitch](https://appstitch.dev/) - Low-code alternative for Stripe/Twilio Integrations. ([HN](https://news.ycombinator.com/item?id=25821898))
 - [Kosmik](https://lithium.paris/) - Your all-in-one creative space.
 - [Paysly](https://paysly.io/) - Verifiable Payments in a single API call.
+- [Gaupol](https://otsaloma.io/gaupol/) - Editor for text-based subtitles. ([Code](https://github.com/otsaloma/gaupol))
 - [Bubble](https://bubble.io/) - The best way to build web apps without code. ([HN](https://news.ycombinator.com/item?id=27979399))
 - [Octopus.do](https://octopus.do/sitemap/resource/generator) - Generate Visual Sitemap from sitemap.xml, just write URL. ([HN](https://news.ycombinator.com/item?id=23600645))
 - [Buttondown](https://buttondown.email/) - Easiest way to run your newsletter in markdown.

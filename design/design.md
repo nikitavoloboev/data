@@ -194,3 +194,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Figma's design and development process (2021)](https://twitter.com/skuwamoto/status/1235042668494741504)
 - [Design Principles](https://principles.design/) - Open source collection of Design Principles and methods. ([Code](https://github.com/benbrignell/principles.design))
 - [Doodle Ipsum](https://doodleipsum.com/) - Lorem ipsum of illustrations.
+- [Mechanic](https://mechanic.design/) - Open source framework that makes it easy to create custom, web-based design tools that export design assets right in your browser. ([Code](https://github.com/designsystemsinternational/mechanic))

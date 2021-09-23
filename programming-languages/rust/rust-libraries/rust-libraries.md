@@ -967,6 +967,7 @@
 - [slog-rs](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust.
 - [winit](https://github.com/rust-windowing/winit) - Cross-platform window creation and management in Rust.
 - [xxhash-rust](https://github.com/DoumanAsh/xxhash-rust) - Rust implementation of xxhash.
+- [RFD](https://github.com/PolyMeilex/rfd) - Rusty File Dialog.
 
 ## Cargo Plugins
 

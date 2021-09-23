@@ -441,4 +441,4 @@
 - [Write code that's easy to delete, and easy to debug too (2021)](https://programmingisterrible.com/post/173883533613/code-to-debug)
 - [The Case for 'Developer Experience' (2021)](https://future.a16z.com/the-case-for-developer-experience/)
 - [On Building Glue Systems (2021)](https://devpoga.org/post/2021-09-18_on_glue_systems/) ([HN](https://news.ycombinator.com/item?id=28574488))
-- [Improve Your Life with Long Error Messages (2021)](https://blog.appsignal.com/2021/09/22/improve-your-life-with-long-error-messages.html)
+- [Improve Your Life with Long Error Messages (2021)](https://blog.appsignal.com/2021/09/22/improve-your-life-with-long-error-messages.html) ([HN](https://news.ycombinator.com/item?id=28616809))

@@ -9,6 +9,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [isowords](https://github.com/pointfreeco/isowords) - Word search game on a vanishing cube, built in SwiftUI and the Composable Architecture. ([Web](https://www.isowords.xyz/))
 - [Spotify Daily](https://github.com/ThasianX/SpotifyDaily) - Open-Source Spotify App. ([HN](https://news.ycombinator.com/item?id=21867728))
 - [Tap It](https://github.com/nikitamounier/tapit-app) - Enables two people to seamlessly share their social media information by simply placing one screen on top of the other horizontally.
+- [Wiggles](https://github.com/sameersyd/Wiggles-iOS) - Beautiful Puppy adoption app built to Demonstrate the SwiftUI and MVVM Architecture.
 - [EVOlution](https://github.com/Evolution-App/iOS) - Unofficial app for Swift Evolution.
 - [Telegram](https://github.com/TelegramMessenger/Telegram-iOS)
 - [Mast 2](https://github.com/ShihabMe/Mast2) - Mastodon client.

@@ -166,6 +166,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [masayume](https://github.com/masayume/DigitalGarden)
 - [Kate Bowie](https://katebowies-garden.netlify.app/)
 - [Binny's garden](https://notes.binnyva.com/)
+- [Alex Schroeder: Diary](https://alexschroeder.ch/)
 - [SUDOGAMI](https://sudogami.com/site/home.html)
 - [Anthony Amar's Garden](https://garden.anthonyamar.fr/)
 - [Simon Willison: TIL](https://til.simonwillison.net/) ([Code](https://github.com/simonw/til))

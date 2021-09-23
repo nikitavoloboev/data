@@ -196,3 +196,5 @@
 - [Lessons Learned from two years as a Data Scientist (2021)](https://dawndrain.github.io/braindrain/two_years.html) ([HN](https://news.ycombinator.com/item?id=28388676))
 - [Free data science resources](https://github.com/alastairrushworth/free-data-science) - Thematic list of high-quality data science resources.
 - [Slight](https://www.slight.co/) - Bridging the interaction between data teams and domain experts.
+- [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) ([Code](https://github.com/data-8/textbook))
+- [Berkeley library for introductory data science](https://github.com/data-8/datascience)

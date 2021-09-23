@@ -55,3 +55,4 @@
 - [GCode Preview](https://gcode-preview.web.app/) - Preview a 3d print from a gcode file. ([Code](https://github.com/remcoder/gcode-preview))
 - [HxA 3D asset format](https://github.com/quelsolaar/HxA) - Open, easy to implement binary file format for 3D assets.
 - [pngtostl](https://github.com/antirez/pngtostl) - Turn PNG images into STL 3D models that will "develop" in front of a light source.
+- [ShapeScript](https://github.com/nicklockwood/ShapeScript) - Hybrid scripting/markup language for creating and manipulating 3D geometry. Code for the ShapeScript 3D modeling app for macOS.

@@ -215,3 +215,4 @@
 - [RAMP up your distributed transactions (2021)](https://bartoszsypytkowski.com/ramp/)
 - [Errors found in distributed protocols](https://github.com/dranov/protocol-bugs-list)
 - [Python for Distributed Systems (2021)](https://www.babbling.fish/elt-cookbook-python/)
+- [FastPay](https://github.com/novifinancial/fastpay) - High-Performance Byzantine Fault Tolerant Settlement.
