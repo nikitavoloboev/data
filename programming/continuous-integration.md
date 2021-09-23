@@ -57,3 +57,4 @@
 - [Deliveroo CircleCI helper image](https://github.com/deliveroo/circleci) - Container with useful helpers for CircleCI 2.0.
 - [Vela](https://github.com/go-vela/server) - Pipeline Automation (CI/CD) framework built on Linux container technology written in Go. ([Docs](https://go-vela.github.io/docs/))
 - [CircleCI CLI](https://github.com/CircleCI-Public/circleci-cli) - Use CircleCI from the command line.
+- [Tekton Pipelines](https://github.com/tektoncd/pipeline) - Provides k8s-style resources for declaring CI/CD-style pipelines. ([Web](https://tekton.dev/))

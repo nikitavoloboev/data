@@ -301,3 +301,4 @@
 - [The Julia Package Manager (2020)](https://opensourc.es/blog/all-about-pkg/)
 - [PkgTemplates](https://github.com/invenia/PkgTemplates.jl) - Creates new Julia packages in an easy, repeatable, and customizable way.
 - [Welcome to DataFrames.jl Workshop](https://github.com/JuliaAcademy/DataFrames)
+- [Aqua.jl](https://github.com/JuliaTesting/Aqua.jl) - Auto QUality Assurance for Julia packages. Provides functions to run a few automatable checks for Julia packages.

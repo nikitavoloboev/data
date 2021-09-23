@@ -399,6 +399,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Synth](https://github.com/openquery-io/synth) - Tool for generating realistic data using a declarative data model.
 - [jazz rooms](https://jazz.ninja/)
 - [Screen Sizes](https://www.screensizes.app/)
+- [Generate & Show QR Code](https://qrcode.show/)
 - [CloudSynth](https://cloudsynth.com/) - Inbox Zero for Teams.
 - [Baseline](https://baseline.dev/) - Easily audit who has access to SaaS services you are using in your organization.
 - [Formito](https://formito.com/) - Create Forms that Feel Like an App.
@@ -563,3 +564,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Tools for less thought](https://chiefofstuff.substack.com/p/tools-for-less-thought)
 - [Use Spreadsheets Everywhere (2021)](https://www.simplethread.com/use-spreadsheets-everywhere/) ([HN](https://news.ycombinator.com/item?id=28049255))
 - [No code/low code tools to build your MVP (2021)](https://twitter.com/agarwal__gaurav/status/1440283548032770050)
+- [Leaving Apples ecosystem and choosing tools which align with my mindset (2021)](https://h2x.sh/apple/) ([HN](https://news.ycombinator.com/item?id=28616202)) ([Lobsters](https://lobste.rs/s/jcwyax/leaving_apples_ecosystem_choosing_tools))

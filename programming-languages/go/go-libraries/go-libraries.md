@@ -75,6 +75,7 @@
 - [go-testdeep](https://github.com/maxatome/go-testdeep) - Extremely flexible Go deep comparison, extends the go testing package.
 - [dockertest](https://github.com/ory/dockertest) - Use Docker to run your Go language integration tests against third party services.
 - [go-test-trace](https://github.com/rakyll/go-test-trace) - Go test but it also generates distributed traces.
+- [Hazana](https://github.com/emicklei/hazana) - Build load tests for services (http, gRPC, tcp) by implementing an Attacker.
 
 ## Web
 
@@ -178,6 +179,7 @@
 - [Netpoll](https://github.com/cloudwego/netpoll) - High-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 - [Kitex](https://github.com/cloudwego/kitex) - High-performance and strong-extensibility Go RPC framework that helps developers build microservices.
 - [go-sse](https://github.com/tmaxmax/go-sse) - Lightweight, fully spec-compliant HTML5 server-sent events library.
+- [go-restful](https://github.com/emicklei/go-restful) - Package for building REST-style Web Services using Go.
 
 ## GraphQL
 
@@ -935,7 +937,9 @@
 - [Scriggo](https://github.com/open2b/scriggo) - World’s most powerful template engine and Go embeddable interpreter. ([Web](https://scriggo.com/))
 - [browser](https://github.com/pkg/browser) - Provides helpers to open files, readers, and urls in a browser window.
 - [go-quartz](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go.
-- [Pion MediaDevices ](https://github.com/pion/mediadevices) - Provides access to media input devices like cameras, microphones, and screen capture.
+- [Pion MediaDevices](https://github.com/pion/mediadevices) - Provides access to media input devices like cameras, microphones, and screen capture.
+- [dot](https://github.com/emicklei/dot) - Go package for writing descriptions using the Graphviz DOT language.
+- [multiline-jsonl](https://github.com/nikolaydubina/multiline-jsonl) - Read and write multiline JSONL in Go.
 
 ## Links
 

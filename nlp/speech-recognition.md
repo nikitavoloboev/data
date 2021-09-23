@@ -66,3 +66,4 @@
 - [Coqui](https://coqui.ai/) - Startup providing open speech tech for everyone. ([GitHub](https://github.com/coqui-ai))
 - [Open Speech Corpora](https://github.com/coqui-ai/open-speech-corpora) - List of accessible speech corpora for ASR, TTS, and other Speech Technologies.
 - [An Overview of Multi-Task Learning in Speech Recognition (2020)](http://jrmeyer.github.io/asr/2020/03/21/overview-mtl-in-asr.html)
+- [Coqui Inference Engine](https://github.com/coqui-ai/inference-engine) - Library for efficiently deploying speech models.

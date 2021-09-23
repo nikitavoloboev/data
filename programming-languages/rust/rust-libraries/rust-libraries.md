@@ -968,6 +968,7 @@
 - [winit](https://github.com/rust-windowing/winit) - Cross-platform window creation and management in Rust.
 - [xxhash-rust](https://github.com/DoumanAsh/xxhash-rust) - Rust implementation of xxhash.
 - [RFD](https://github.com/PolyMeilex/rfd) - Rusty File Dialog.
+- [Pollster](https://github.com/zesterer/pollster) - Minimal async executor that lets you block on a future.
 
 ## Cargo Plugins
 

@@ -35,6 +35,7 @@
 - [httptools](https://github.com/MagicStack/httptools) - Fast HTTP parser.
 - [Hip](https://github.com/python-trio/hip) - New Python HTTP client for everybody. It supports synchronous Python (just like requests does), but also Trio, asyncio and Curio.
 - [Molten](https://github.com/Bogdanp/molten) - Minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later. ([Docs](https://moltenframework.com/))
+- [Lona](https://github.com/lona-web-org/lona) - Web application framework, designed to write responsive web apps in full Python.
 
 ## ML
 

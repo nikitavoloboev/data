@@ -41,3 +41,4 @@
 - [StudioML](https://studio.ml/) - Python model management framework. ([Code](https://github.com/studioml/studio))
 - [MLapp](https://github.com/gurvindersingh/mlapp) - ML model serving app based on APIs.
 - [Machine Learning Hyperparameter Optimization with Argo (2021)](https://canvatechblog.com/machine-learning-hyperparameter-optimization-with-argo-a60d70b1fc8c)
+- [Snakepit](https://github.com/coqui-ai/snakepit) - Coqui's machine learning job scheduler.
