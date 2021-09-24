@@ -332,6 +332,7 @@
 - [Panel](https://github.com/reddavis/Panel) - A SwiftUI panel component similar to the iOS Airpod battery panel or the Share Wi-Fi password panel.
 - [Containers](https://github.com/SwiftUI-Plus/Containers) - Useful SwiftUI container view's. FittingGeometry, ScrollableView, LayoutReader, PageView, UIKitView. (iOS).
 - [BindingKit](https://github.com/mkj-is/BindingKit) - Set of handy additions to the basic SwiftUI Binding type.
+- [Stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
 
 ## Test
 
@@ -755,6 +756,7 @@
 - [VideoIO](https://github.com/MetalPetal/VideoIO) - Video Input/Output Utilities.
 - [SwiftVideo](https://github.com/unpause-live/SwiftVideo) - Swift Video Framework for Linux, macOS, and iOS/iPadOS.
 - [Runtime Issues](https://github.com/rpwachowski/runtime-issues) - Trigger runtime issues from your code during development or debugging.
+- [Link Previewer](https://github.com/LeonardoCardoso/SwiftLinkPreview) - Makes a preview from an URL, grabbing all the information such as title, relevant texts and images.
 
 ## Other (not lib)
 

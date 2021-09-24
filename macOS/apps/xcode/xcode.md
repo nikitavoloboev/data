@@ -75,3 +75,5 @@
 - [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - Continuously resilient `xcodebuild` action.
 - [AssetChecker](https://github.com/freshOS/AssetChecker) - Sanitize your Assets.xcassets files.
 - [Analyze Xcode Build and Test Results GitHub Action](https://github.com/tbartelmess/analyze-xcoderesults-action)
+- [Rugby](https://github.com/swiftyfinch/Rugby) - Cache CocoaPods for faster rebuild and indexing Xcode project.
+- [Xcode Archive & Export for iOS](https://github.com/bitrise-steplib/steps-xcode-archive) - Run the Xcode archive command and then export an .ipa from the archive.

@@ -407,3 +407,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Gnooks](https://www.gnooks.com/) - Discover new Books.
 - [Literature Map](https://www.literature-map.com/) - The Tourist Map of Literature.
 - [Ruby for ebook publishing (2021)](https://nts.strzibny.name/ruby-for-ebook-publishing/)
+- [Summarizing Books with Human Feedback](https://openai.com/blog/summarizing-books/) ([HN](https://news.ycombinator.com/item?id=28643335))

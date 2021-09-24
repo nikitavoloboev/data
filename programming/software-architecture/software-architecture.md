@@ -160,3 +160,4 @@
 - [MangaDex infrastructure overview](https://mangadex.dev/mangadex-v5-infrastructure-overview/) ([HN](https://news.ycombinator.com/item?id=28440742))
 - [Multiperspective Diagramming (2021)](https://blog.ilograph.com/posts/multiperspective-diagramming-guide/) - Guide for system, software, cloud, network, and other engineers.
 - [Architecting Modern Data Platforms Book (2018)](https://www.oreilly.com/library/view/architecting-modern-data/9781491969267/) ([Review](https://tech.marksblogg.com/architecting-modern-data-platforms-book-review.html))
+- [Opinionated project architecture for Full-Stack JavaScript Applications](https://github.com/atulmy/fullstack-javascript-architecture)

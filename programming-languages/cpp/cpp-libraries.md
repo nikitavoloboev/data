@@ -52,6 +52,7 @@
 
 - [SOCI](https://github.com/SOCI/soci) - C++ Database Access Library.
 - [taoPQ](https://github.com/taocpp/taopq) - C++ client library for PostgreSQL.
+- [Velox](https://github.com/facebookincubator/velox) - C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
 
 ## Other
 

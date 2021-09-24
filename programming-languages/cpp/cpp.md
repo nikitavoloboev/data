@@ -1,5 +1,9 @@
 # C++
 
+## Notes
+
+- [C++ is a fucking nightmare. There's 5 ways to do everything, ie because of historical reasons. Endless rules about shit like coercions, etc etc.](https://twitter.com/AdamRackis/status/1441233740248719361)
+
 ## Links
 
 - [C++ resources](https://github.com/MattPD/cpplinks)
@@ -243,3 +247,4 @@
 - [Coercing deep const-ness (2021)](https://brevzin.github.io/c++/2021/09/10/deep-const/)
 - [A class without a copy constructor (2021)](https://quuxplusone.github.io/blog/2021/09/17/a-class-without-a-copy-constructor/)
 - [Easy Type-Safe Integer Types In C++ (2021)](https://jens.mooseyard.com/2021/09/16/easy-type-safe-integer-types-in-c-/) ([Lobsters](https://lobste.rs/s/dblu7i/easy_type_safe_integer_types_c))
+- [cel-cpp](https://github.com/google/cel-cpp) - Fast, portable, non-Turing complete expression evaluation (C++).

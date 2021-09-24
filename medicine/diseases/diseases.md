@@ -4,6 +4,7 @@
 
 - [Leukemia](https://en.wikipedia.org/wiki/Leukemia) ([Reddit](https://www.reddit.com/r/leukemia/))
 - [Graft-versus-host disease](https://en.wikipedia.org/wiki/Graft-versus-host_disease) ([Reddit](https://www.reddit.com/r/gvhd/))
+- [Prion Diseases](https://www.hopkinsmedicine.org/health/conditions-and-diseases/prion-diseases)
 
 ## Links
 
@@ -16,3 +17,4 @@
 - [ALZFORUM](https://www.alzforum.org/) - Alzheimer Research Forum.
 - [Schizophrenia Explained (2010)](https://www.youtube.com/watch?v=nEnklxGAmak) - How brain chemical balance directly affects our thinking.
 - [Notes on Type 1 Diabetes](https://ben-marshall.github.io/diabetes/index.html)
+- [The role of different brain cell types in prion disease (2021)](http://www.cureffi.org/2021/08/10/role-different-brain-cell-types/)

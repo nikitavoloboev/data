@@ -45,4 +45,4 @@
 - [Nginx tuning tips: TLS/SSL HTTPS - Improved TTFB/latency (2021)](https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/)
 - [Tengine](https://github.com/alibaba/tengine) - Distribution of Nginx with some advanced features. ([Web](http://tengine.taobao.org/))
 - [Horizontally scalable NGINX caching cluster](https://github.com/fly-apps/nginx-cluster)
-- [Nginx playground](https://nginx-playground.wizardzines.com/) - Paste a Nginx config and play with it.
+- [Nginx Playground](https://nginx-playground.wizardzines.com/) - Paste a Nginx config and play with it. ([Article](https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/))

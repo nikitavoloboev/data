@@ -381,3 +381,4 @@
 - [Awesome image retrieval papers](https://github.com/willard-yuan/awesome-cbir-papers)
 - [PeekingDuck](https://github.com/aimakerspace/PeekingDuck) - Modular framework built to simplify Computer Vision inference workloads.
 - [Pri3D: Can 3D Priors Help 2D Representation Learning? (2021)](https://arxiv.org/abs/2104.11225) ([Code](https://github.com/Sekunde/Pri3D))
+- [FaceXLib](https://github.com/xinntao/facexlib) - Aims at providing ready-to-use face-related functions based on current STOA open-source methods.

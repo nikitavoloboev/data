@@ -15,7 +15,7 @@
 - [Notarize](https://www.notarize.com/) - Legally Notarize Your Documents Online.
 - [What Color are your bits? (2004)](https://ansuz.sooke.bc.ca/entry/23)
 - [Software licensing and my opposition to copyleft (2020)](https://github.com/BurntSushi/notes/blob/master/2020-10-29_licensing-and-copyleft.md) ([Lobsters](https://lobste.rs/s/i7c0a6/software_licensing_my_opposition)) ([HN](https://news.ycombinator.com/item?id=24939162))
-- [Catala](https://github.com/CatalaLang/catala) - Domain-specific language for deriving faithful-by-construction algorithms from legislative texts. ([Web](https://catala-lang.org/)) ([HN](https://news.ycombinator.com/item?id=24948342))
+- [Catala](https://github.com/CatalaLang/catala) - DSL designed for deriving implementations from legislative texts. ([Web](https://catala-lang.org/)) ([HN](https://news.ycombinator.com/item?id=24948342)) ([HN](https://news.ycombinator.com/item?id=28633122))
 - [judyrecords](https://www.judyrecords.com/) - Full text search on 400M US court cases. ([HN](https://news.ycombinator.com/item?id=25150702))
 - [Legal Concepts for Founders](https://handbook.clerky.com/)
 - [CS50 for Lawyers](https://online-learning.harvard.edu/course/cs50-lawyers)

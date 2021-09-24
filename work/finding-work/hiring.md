@@ -110,3 +110,4 @@
 - [What's Wrong with Tech Hiring (2021)](https://neverworkintheory.org/2021/09/13/whats-wrong-with-tech-hiring.html) ([HN](https://news.ycombinator.com/item?id=28532083))
 - [Companies should focus a lot more on retaining top talent](https://twitter.com/GergelyOrosz/status/1439193179539058695)
 - [Increasing number of engineers doesn't always make you go faster (2021)](https://twitter.com/shreyas/status/1440138354390016003)
+- [Avoiding the audience paradox when writing job descriptions (2021)](https://blog.interviewing.io/how-to-write-good-job-descriptions/) ([HN](https://news.ycombinator.com/item?id=28630431))

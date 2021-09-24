@@ -569,3 +569,5 @@
 - [Example rust application to showcase error handling patterns](https://github.com/zoni/rust-wordcount)
 - [Writing a storage engine in Rust: Writing a persistent BTree (Part 1) (2021)](https://nimrodshn.medium.com/writing-a-storage-engine-in-rust-writing-a-persistent-btree-part-1-916b6f3e2934)
 - [Optimize Rust binaries size with cargo and Semver (2021)](https://oknozor.github.io/blog/optimize-rust-binary-size/)
+- [GhostCell: Separating Permissions from Data in Rust](https://plv.mpi-sws.org/rustbelt/ghostcell/paper.pdf) ([Code](https://github.com/matthieu-m/ghost-cell)) ([Reddit](https://www.reddit.com/r/rust/comments/p5f78s/ghostcell_separating_permissions_from_data_in_rust/))
+- [Why Rust over C++ (2021)](https://twitter.com/hswolff/status/1441220387778359305)

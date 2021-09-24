@@ -137,3 +137,4 @@
 - [Designs Systems CLI](https://github.com/intuit/design-systems-cli) - CLI toolbox for creating design systems. ([Docs](https://intuit.github.io/design-systems-cli/#/welcome))
 - [Wedges](https://wedges.app/) - Super-simple way to build beautiful websites. Pre-built, customizable, stackable, UI components. ([Twitter](https://twitter.com/wedgesapp))
 - [A Design System Governance Process (2021)](https://bradfrost.com/blog/post/a-design-system-governance-process/)
+- [A Content Model Is Not a Design System (2021)](https://alistapart.com/article/a-content-model-is-not-a-design-system/)

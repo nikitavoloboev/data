@@ -187,3 +187,5 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Machine Learning Security / Adversarial Machine Learning PhD seminar (2021)](https://github.com/unica-mlsec/mlsec) ([Web](https://unica-mlsec.github.io/mlsec/))
 - [PASETO: Platform-Agnostic Security Tokens](https://github.com/paseto-standard/paseto-spec) - Everything you love about JOSE (JWT, JWE, JWS) without any of the many design deficits that plague the JOSE standards.
 - [Salus (Security Automation as a Lightweight Universal Scanner)](https://github.com/coinbase/salus) - Tool for coordinating the execution of security scanners.
+- [LimeLighter](https://github.com/Tylous/Limelighter) - Tool for generating fake code signing certificates or signing real ones.
+- [cocert](https://github.com/Dentrax/cocert) - Split and distribute your private keys securely amongst untrusted network.

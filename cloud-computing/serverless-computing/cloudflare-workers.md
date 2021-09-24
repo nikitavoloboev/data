@@ -55,7 +55,7 @@
 - [Multiplayer Doom on Cloudflare Workers (2021)](https://blog.cloudflare.com/doom-multiplayer-workers/) ([Code](https://github.com/cloudflare/doom-wasm)) ([HN](https://news.ycombinator.com/item?id=27194031)) ([Reddit](https://www.reddit.com/r/programming/comments/nfcavm/multiplayer_doom_on_cloudflare_workers/))
 - [kv-asset-handler](https://github.com/cloudflare/kv-asset-handler) - Open-source library for managing the retrieval of static assets from Workers KV inside of a Cloudflare Workers function.
 - [Building real-time games using Workers, Durable Objects, and Unity (2021)](https://blog.cloudflare.com/building-real-time-games-using-workers-durable-objects-and-unity/)
-- [Miniflare](https://github.com/mrbbot/miniflare) - Fully-local Cloudflare Workers Simulator. ([Docs](https://miniflare.dev/))
+- [Miniflare](https://github.com/cloudflare/miniflare) - Fully-local Cloudflare Workers Simulator. ([Docs](https://miniflare.dev/)) ([HN](https://news.ycombinator.com/item?id=28640618))
 - [worker-auth-providers](https://github.com/subhendukundu/worker-auth-providers) - Open-source auth providers for Cloudflare workers.
 - [Durable Objects: Easy, Fast, Correct — Choose three (2021)](https://blog.cloudflare.com/durable-objects-easy-fast-correct-choose-three/)
 - [Modernizing a familiar approach to REST APIs, with PostgreSQL and Cloudflare Workers (2021)](https://blog.cloudflare.com/modernizing-a-familiar-approach-to-rest-apis-with-postgresql-and-cloudflare-workers/)

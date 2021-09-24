@@ -71,3 +71,4 @@
 - [Kaitai Struct](https://kaitai.io/) - Declarative binary format parsing language. ([Lobsters](https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format))
 - [Parser toolkit](https://github.com/MasterQ32/parser-toolkit) - Toolkit that makes it easier to write recursive-descent parsers in Zig.
 - [TatSu Jobs](https://github.com/neogeny/TatSu) - Generates Python parsers from grammars in a variation of EBNF.
+- [Progger](https://github.com/Jezza/progger) - Simple set of parser and lexer tools. Built on top of logos and bumpalo.

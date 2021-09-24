@@ -151,3 +151,4 @@
 - [HIBA: Host Identity Based Authorization](https://github.com/google/hiba) - System built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customized authorized_users files periodically.
 - [CASL](https://github.com/stalniy/casl) - Isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access. ([Web](https://casl.js.org/))
 - [NetAuth](https://github.com/netauth/netauth) - Easy to deploy, easy to use authentication and identity provider. ([Web](https://www.netauth.org/))
+- [OAuth2AuthCodePKCE client](https://github.com/BitySA/oauth2-auth-code-pkce) - OAuth 2.0 client that ONLY supports the Authorization Code flow with PKCE support.

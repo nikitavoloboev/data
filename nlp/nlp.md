@@ -349,3 +349,6 @@
 - [VQGAN-CLIP Overview](https://github.com/nerdyrodent/VQGAN-CLIP) - Repo for running VQGAN+CLIP locally.
 - [TLDR: Extreme Summarization of Scientific Documents (2020)](https://arxiv.org/abs/2004.15011) ([Code](https://github.com/allenai/scitldr))
 - [Can Language Models be Biomedical Knowledge Bases? (2021)](https://arxiv.org/abs/2109.07154)
+- [ColBERT: Contextualized Late Interaction over BERT (2020)](https://github.com/stanford-futuredata/ColBERT)
+- [Investigating Pretrained Language Models for Graph-to-Text Generation (2020)](https://arxiv.org/abs/2007.08426) ([Code](https://github.com/UKPLab/plms-graph2text))
+- [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) ([GitHub](https://github.com/UKPLab))

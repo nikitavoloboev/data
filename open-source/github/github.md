@@ -263,3 +263,5 @@ I publish most of my work and make it open source for other people to use and re
 - [CodeQL](https://securitylab.github.com/tools/codeql/) - Industry-leading semantic code analysis engine. ([Code](https://github.com/github/codeql))
 - [Full Stack GitHub Authentication with Supabase & React (2021)](https://dev.to/dabit3/10-minute-tutorial-full-stack-github-authentication-with-supabase-react-3c6b) ([Code](https://github.com/dabit3/supabase-github-oauth))
 - [patch2pr](https://github.com/bluekeyes/patch2pr) - Create GitHub pull requests from Git patches without cloning the repository.
+- [Watchub](http://app.watchub.pw/) - Be notified of people who followed/unfollowed you and starred/unstarred your repositories. ([Code](https://github.com/caarlos0/watchub))
+- [Repo Sync](https://github.com/repo-sync/repo-sync) - Keep a pair of GitHub repos in sync.

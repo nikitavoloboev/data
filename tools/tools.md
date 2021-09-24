@@ -252,7 +252,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Wix.com](https://www.wix.com/) - Free Website Builder.
 - [Smallpdf](https://smallpdf.com/) - All-in-one easy-to-use online PDF tools
 - [Diffchecker](https://www.diffchecker.com/) - Compare text differences between two text files.
-- [Reform](https://www.reform.app/) - Hosted forms. No code required. ([Launch Article](https://www.reform.app/launch/))
+- [Reform](https://www.reform.app/) - Hosted forms. No code required. ([Launch Article](https://www.reform.app/launch/)) ([Twitter](https://twitter.com/heyreform))
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
 - [Helm](https://thehelm.com/) - Encrypted Email, Contacts, Calendar and Files. ([HN](https://news.ycombinator.com/item?id=28350466))
 - [Murmur](https://www.murmur.com/) - Collaborative platform where teams create, test, scale, and share working agreements.
@@ -317,6 +317,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Narrative](https://github.com/narative/narative.co) - Builds brands, websites and products for growth-minded companies.
 - [Forethought](https://www.forethought.ai/) - Agatha, A.I. for Customer Support.
 - [Fixmie](https://fixmie.com/) - Automated code fixes.
+- [Magicsheets](https://www.magicsheets.io/) - Machine Learning in your spreadsheet. ([HN](https://news.ycombinator.com/item?id=28643834))
 - [Upptime](https://upptime.js.org/) - GitHub-powered open-source uptime monitor and status page. ([Code](https://github.com/upptime/upptime)) ([HN](https://news.ycombinator.com/item?id=25553445))
 - [Fabric](https://get.fabric.io/) - Platform that helps your mobile team build better apps, understand your users, and grow your business.
 - [Squoosh](https://squoosh.app/) - Make images smaller using best-in-class codecs, right in the browser.
@@ -399,7 +400,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Synth](https://github.com/openquery-io/synth) - Tool for generating realistic data using a declarative data model.
 - [jazz rooms](https://jazz.ninja/)
 - [Screen Sizes](https://www.screensizes.app/)
-- [Generate & Show QR Code](https://qrcode.show/)
+- [Generate & Show QR Code](https://qrcode.show/) ([Code](https://github.com/sayanarijit/qrcode.show))
 - [CloudSynth](https://cloudsynth.com/) - Inbox Zero for Teams.
 - [Baseline](https://baseline.dev/) - Easily audit who has access to SaaS services you are using in your organization.
 - [Formito](https://formito.com/) - Create Forms that Feel Like an App.

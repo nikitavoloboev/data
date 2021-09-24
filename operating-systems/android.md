@@ -44,3 +44,4 @@
 - [CalyxOS](https://calyxos.org/) - De-Googled Android Alternative. ([HN](https://news.ycombinator.com/item?id=28090024))
 - [Shipping Clubhouse on Android in ten weeks (2021)](https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/) ([HN](https://news.ycombinator.com/item?id=28473894))
 - [Waydroid](https://github.com/waydroid/waydroid) – Run Android containers on Ubuntu. ([HN](https://news.ycombinator.com/item?id=28616985))
+- [Google Play Deploy](https://github.com/bitrise-steplib/steps-google-play-deploy) - Upload your Android app to Google Play.

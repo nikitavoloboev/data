@@ -128,3 +128,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [How social learning amplifies moral outrage expression in online social networks (2021)](https://www.science.org/doi/10.1126/sciadv.abe5641) ([Tweet](https://twitter.com/hplushlab/status/1435181379218722818))
 - [Facebook knows Instagram is toxic for teen girls, company documents show (2021)](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739) ([HN](https://news.ycombinator.com/item?id=28523688))
 - [Reasons To Quit Social Media (2021)](https://durmonski.com/life-advice/reasons-to-quit-social-media/) ([HN](https://news.ycombinator.com/item?id=28616277))
+- [Decentralized Social Networking Protocol (DSNP)](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)

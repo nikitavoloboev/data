@@ -126,6 +126,7 @@
 - [Connect PG Simple](https://github.com/voxpelli/node-connect-pg-simple) - Simple, minimal PostgreSQL session store for Express/Connect.
 - [SyncedDB](https://github.com/paldepind/synceddb) - Makes it easy to write offline-first applications with realtime syncing and server side persistence.
 - [Dexie.js](https://dexie.org/) - Minimalistic IndexedDB Wrapper. ([Docs](https://dexie.org/docs/))
+- [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
 
 ## React
 
@@ -598,10 +599,11 @@
 - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module.
 - [Tocca.js](https://github.com/GianlucaGuarini/Tocca.js) - Super lightweight script ( ~1kB ) to detect via Javascript events like 'tap' 'longtap' 'dbltap' 'swipeup' 'swipedown' 'swipeleft' 'swiperight' on any kind of device.
 - [fast-base64](https://github.com/mitschabaude/fast-base64) - Fastest base64 on the web, with Wasm + SIMD.
-- [Nano Colors](https://github.com/ai/nanocolors) - Tiny and fast Node.js library for formatting terminal text with ANSI colors.
+- [Nano Colors](https://github.com/ai/nanocolors) - Tiny and fast Node.js library for formatting terminal text with ANSI colors. ([Template](https://github.com/usmanyunusov/nanocolors-template))
 - [Fractional Indexing](https://github.com/rocicorp/fractional-indexing) - Technique to create an ordering that can be used for Realtime Editing of Ordered Sequences.
 - [Atrament](https://github.com/jakubfiala/atrament.js) - Small JS library for beautiful drawing and handwriting on the HTML Canvas. ([Web](https://www.fiala.space/atrament.js/demo/))
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
+- [paintvec](https://github.com/seanchas116/paintvec) - JavaScript 2D vector math library.
 
 ## Links
 

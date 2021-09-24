@@ -203,3 +203,4 @@
 - [Why video game doors are so hard to get right (2021)](https://www.youtube.com/watch?v=AYEWsLdLmcc) ([HN](https://news.ycombinator.com/item?id=28415196))
 - [WorldQL](https://www.worldql.com/) - Universal backend for real-time multiplayer games. ([GitHub](https://github.com/WorldQL))
 - [What are Voxels and why are they so cool? (2021)](https://www.youtube.com/watch?v=WWU8t0CpNQA)
+- [NVIDIA DLSS (Deep Learning Super Sampling](https://developer.nvidia.com/dlss/research) - Deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games.

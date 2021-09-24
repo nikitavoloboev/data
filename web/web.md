@@ -306,3 +306,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Using the platform (2021)](https://elisehe.in/2021/08/22/using-the-platform)
 - [WebTransport API](https://w3c.github.io/webtransport/) - API that allows web applications to establish interactive, bidirectional, multiplexed network connections. ([Code](https://github.com/w3c/webtransport))
 - [Sunil Pai: React and the Meta of the Web (2021)](https://www.youtube.com/watch?v=H3h1WICelqs) ([Tweet](https://twitter.com/swyx/status/1439702355553886211))
+- [vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins. Useful for debugging and authoring plugins.

@@ -63,3 +63,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Orchestra](https://github.com/pouyakary/Orchestra) - Visual language that compiles into RegExp.
 - [UltimateRegexResource](https://github.com/GoldinGuy/UltimateRegexResource) - Ultimate collection of regex syntax and resources.
 - [Regex Generator](https://regex-generator.olafneumann.org/) - Generate regular expressions from sample texts. ([Code](https://github.com/noxone/regex-generator))
+- [Regex-like domain-specific language for pattern matching syntax trees](https://github.com/fkohlgrueber/pattern-matching)

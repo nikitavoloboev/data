@@ -90,3 +90,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [pgfplots](https://github.com/pgf-tikz/pgfplots) - Create normal/logarithmic plots in two and three dimensions for LaTeX/TeX/ConTeXt.
 - [PGF](https://github.com/pgf-tikz/pgf) - TeX macro package for generating graphics. ([Manual](https://pgf-tikz.github.io/pgf/pgfmanual.pdf))
 - [Simplified LNCS Template](https://github.com/latextemplates/LNCS) - Improved Lecture Notes in Computer Science (LNCS) template.
+- [LTeX Language Server](https://github.com/valentjn/ltex-ls) - LSP language server for LanguageTool with support for LaTeX, Markdown, and others. ([Docs](https://valentjn.github.io/vscode-ltex/))

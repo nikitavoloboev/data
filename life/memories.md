@@ -23,3 +23,4 @@ Because that's what life is. Trying to peek under the covers of this reality onl
 - [The brain maps out ideas and memories like spaces (2021)](https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/) ([HN](https://news.ycombinator.com/item?id=27148529))
 - [Human Memory Course](https://github.com/ContextLab/human-memory) ([HN](https://news.ycombinator.com/item?id=27448966))
 - [Memory making involves extensive DNA breaking (2021)](https://picower.mit.edu/news/memory-making-involves-extensive-dna-breaking)
+- [An ultimate guide to memory palaces](https://metacognitive.me/memory-palace/) ([HN](https://news.ycombinator.com/item?id=28640429))

@@ -360,3 +360,4 @@
 - [How I Learnt To Stop Worrying And Love Animating The Box Model (2021)](https://whistlr.info/2021/box-model-animation/)
 - [Shadow Roots and Inheritance (2021)](https://kittygiraudel.com/2021/08/23/shadow-roots-and-inheritance/)
 - [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) - Awesome list limited to the best CSS learning resources.
+- [PostCSS Hover Media Feature](https://github.com/saulhardman/postcss-hover-media-feature) - Extracts and wraps rules containing :hover pseudo-classes in @media (hover: hover) {} media queries.

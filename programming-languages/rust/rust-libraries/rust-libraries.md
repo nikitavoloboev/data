@@ -140,6 +140,7 @@
 - [merk](https://github.com/nomic-io/merk) - High-performance Merkle key/value store.
 - [Scooby](https://github.com/despawnerer/scooby) - Rust SQL query builder with a pleasant fluent API closely imitating actual SQL.
 - [SeaORM](https://github.com/SeaQL/sea-orm) - Async & dynamic ORM for Rust.
+- [pg-embed](https://github.com/faokunega/pg-embed) - Run a PostgreSQL database locally on Linux, MacOS or Windows as part of another Rust application or test.
 
 ## Graphics
 
@@ -972,6 +973,8 @@
 - [packed_simd](https://github.com/rust-lang/packed_simd) - Portable Packed SIMD Vectors for Rust standard library.
 - [Bardecoder](https://github.com/piderman314/bardecoder) - Detect and decode QR Codes, written in 100% Rust.
 - [Lagoon](https://github.com/zesterer/lagoon) - Thread pool crate with an array of features.
+- [MiniJinja](https://github.com/mitsuhiko/minijinja) - Powerful but minimal dependency template engine for Rust which is based on the syntax and behavior of the Jinja2 template engine.
+- [moveit](https://github.com/google/moveit) - Library for safe, in-place construction of Rust (and C++!) objects.
 
 ## Cargo Plugins
 
@@ -1057,3 +1060,4 @@
 - [Panamax](https://github.com/panamax-rs/panamax) - Tool to mirror the Rust and crates.io repositories, for offline usage of rustup and cargo.
 - [How often is each Clippy lint suppressed on crates.io](https://github.com/dtolnay/noisy-clippy)
 - [chartered](https://github.com/w4/chartered) - Private, authenticated cargo registry.
+- [Awesome Rust Machine Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - List of machine learning libraries written in Rust.

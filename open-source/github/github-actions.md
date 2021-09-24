@@ -145,6 +145,7 @@
 - [Setup Miniconda](https://github.com/goanpeca/setup-miniconda) - Set up your GitHub Actions workflow with conda via miniconda.
 - [setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python.
 - [setup-poetry](https://github.com/Gr1N/setup-poetry) - Set up your GitHub Actions workflow with a specific version of Poetry.
+- [PyPI publish](https://github.com/pypa/gh-action-pypi-publish) - GitHub Action, for publishing distribution files to PyPI.
 
 ## JS
 

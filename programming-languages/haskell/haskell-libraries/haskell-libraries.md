@@ -151,6 +151,7 @@
 - [Wai-Routes](https://github.com/ajnsit/wai-routes) - Micro web framework for Haskell that focuses on typesafe URLs.
 - [Reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana) - Library for functional reactive programming in Haskell.
 - [Cnoidal](https://github.com/HeinrichApfelmus/cnoidal) - Haskell library for representing, transforming, and live coding music.
+- [Persistence](https://github.com/Ebanflo42/Persistence) - Topological data analysis library for Haskell.
 
 ## Links
 

@@ -80,3 +80,4 @@
 - [What’s something that product managers do that annoys or frustrates you?](https://twitter.com/lennysan/status/1420773875705544715)
 - [What I've learned transitioning from a founder to product manager](https://www.theproductslice.com/p/what-ive-learned-transitioning-from) ([HN](https://news.ycombinator.com/item?id=28220027))
 - [We Ship Every Week (2021)](https://pitch.com/blog/every-week) ([HN](https://news.ycombinator.com/item?id=28233743))
+- [Key principles to guide the new product development process (2021)](https://twitter.com/fibery_io/status/1441375124909961219)

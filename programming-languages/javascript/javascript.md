@@ -286,7 +286,7 @@
 - [FIBJS](https://github.com/fibjs/fibjs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [A JavaScript optimizing compiler (2021)](https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071)
 - [In-depth exploration of JavaScript iteration protocols (2021)](https://www.nodejsdesignpatterns.com/blog/javascript-async-iterators/)
-- [Elk](https://github.com/cesanta/elk) - Tiny JS engine for embedded systems.
+- [Elk](https://github.com/cesanta/elk) - Tiny JS engine for embedded systems. ([HN](https://news.ycombinator.com/item?id=28614092))
 - [Endo](https://github.com/endojs/endo) - Distributed secure JavaScript sandbox, based on SES.
 - [How JavaScript works: 3 types of polymorphism (2021)](https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1) ([HN](https://news.ycombinator.com/item?id=27074514))
 - [Modern JavaScript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years) ([HN](https://news.ycombinator.com/item?id=27165954))

@@ -43,6 +43,9 @@ Success comes from not giving up and doing what you love.
 - [The ultimate hack in life is to simply be the person you're looking for.](https://twitter.com/ShaneAParrish/status/1329789158462722049)
 - [The greatest privilege one can have is the option of only working with people you like, trust and respect.](https://twitter.com/hunterwalk/status/1418194197195202563)
 - [Never let anyone’s opinions or comments influence how you view your own life and priorities.](https://twitter.com/naomiosaka/status/1421577953725452289)
+- [Common behaviors that get rewarded in the workplace, but often are actually trauma responses: Perfectionism. Savior complex. Never saying no. Overwork. Burnout.](https://twitter.com/jenistyping/status/1311858404504133632)
+- [Things that don’t get encouraged by traditional workplaces/managers, but are still important for you to practice: Identity/self-worth that's independent of work. Trusting your instincts. Boundaries. Boundaries. Boundaries.](https://twitter.com/jenistyping/status/1311858405439533056)
+- [Unhealed workplace trauma can manifest as: Irritability, paranoia. Anxiety, depression. Difficulty with feedback. Poor boundaries. People-pleasing. Intense fear of failure (or success). Being drawn to more toxic orgs/leaders. Chronic guilt/shame.](https://twitter.com/jenistyping/status/1441432244661411846)
 
 ## Links
 

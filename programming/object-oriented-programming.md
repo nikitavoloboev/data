@@ -41,4 +41,6 @@
 - [Object-Oriented Entity-Component-System Design](https://voxely.net/blog/object-oriented-entity-component-system-design/) ([HN](https://news.ycombinator.com/item?id=28198996))
 - [Grokking the Object Oriented Design Interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
 - [EO Language](https://github.com/cqfn/eo) - Experimental Object-Oriented Programming Language Based on 𝜑-Calculus. ([HN](https://news.ycombinator.com/item?id=28423328))
+- [Try 𝜑-calculus](https://polystat.github.io/try-phi/) - Online interactive parser and translator of EO and 𝜑-calculus. ([Code](https://github.com/polystat/try-phi))
+- [Polystat](https://github.com/polystat/polystat) - Polyglot Static Analyzer for Object-Oriented Programs Based on EOLANG and 𝜑-Calculus.
 - [Design Patterns VS Design Principles: Iterator, Mediator and Memento (2021)](https://www.fluentcpp.com/2021/09/12/design-patterns-vs-design-principles-iterator-mediator-and-memento/)

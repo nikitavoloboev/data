@@ -176,3 +176,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Modoboa](https://modoboa.org/en/) - Open Source email server. ([HN](https://news.ycombinator.com/item?id=28583099))
 - [Postforward](https://github.com/zoni/postforward) - Mail forwarding utility which aims to compliment the Postfix Sender Rewriting Scheme daemon (PostSRSd).
 - [mailcow.email](https://mailcow.email/) ([Docs](https://mailcow.github.io/mailcow-dockerized-docs/)) ([Code](https://github.com/mailcow/mailcow-dockerized))
+- [tidy_email](https://github.com/jsthomas/tidy-email) - OCaml wrapper library that makes it easy to send email with different services.
+- [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters? (2021)](https://news.ycombinator.com/item?id=28635313)

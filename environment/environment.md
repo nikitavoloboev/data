@@ -123,3 +123,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Ask HN: What can I do to actively fight climate change? (2021)](https://news.ycombinator.com/item?id=28601257)
 - [Principles of Green Software Engineering](https://principles.green/) ([HN](https://news.ycombinator.com/item?id=28615321))
 - [What is coming is beyond most peoples comprehension, including journalists](https://twitter.com/MrMatthewTodd/status/1440237998117822467)
+- [Probable Futures](https://probablefutures.org/)

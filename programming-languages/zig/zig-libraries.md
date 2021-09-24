@@ -26,6 +26,7 @@
 - [zang](https://github.com/dbandstra/zang) - Audio synthesis for Zig.
 - [zig-protobuf](https://github.com/Arwalk/zig-protobuf) - protobuf 3 implementation for zig.
 - [zap](https://github.com/kprotty/zap) - Asynchronous runtime with a focus on performance and resource efficiency.
+- [Zig itertools](https://github.com/thebsv/zitertools) - Improved rewrite of the python itertools library to Zig.
 
 ## Links
 

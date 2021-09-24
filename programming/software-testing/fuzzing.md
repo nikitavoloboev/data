@@ -54,3 +54,5 @@
 - [rfuzz](https://github.com/ekiwi/rfuzz) - Coverage-directed fuzzing for RTL research platform. ([Paper](https://people.eecs.berkeley.edu/~laeufer/papers/rfuzz_kevin_laeufer_iccad2018.pdf))
 - [The Use of Likely Invariants as Feedback for Fuzzers](http://s3.eurecom.fr/docs/usenixsec21_fioraldi.pdf)
 - [Random Sampling of Strings from Context-Free Grammar (2021)](https://rahul.gopinath.org/post/2021/07/27/random-sampling-from-context-free-grammar/)
+- [Tough Fuzzer](https://github.com/stevenjohnstone/toughfuzzer) - Obstacle course for go-fuzz composed of a series of small code samples which encapsulate the most common obstacles to code-coverage the fuzzer will encounter.
+- [gramfuzz](https://github.com/d0c-s4vage/gramfuzz) - Grammar-based fuzzer that lets one define complex grammars to model text and binary data formats.

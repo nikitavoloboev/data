@@ -20,6 +20,7 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 
 - [Amplosion](https://github.com/christianselig/Amplosion) - iOS app/Safari extension to automagically redirect AMP links to their normal counterpart. ([Tweet](https://twitter.com/ChristianSelig/status/1440018874943029248))
 - [Open in Apollo Safari Extension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo.
+- [Paint it Red](https://github.com/kukushechkin/paint-it-red) - Safari Web Extension to custom color Safari 15 pages with theme-color.
 
 ## Notes
 
@@ -47,3 +48,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Safari 15 on Mac OS, a user interface mess (2021)](https://morrick.me/archives/9368) ([HN](https://news.ycombinator.com/item?id=27559832))
 - [For developers, Apple’s Safari is crap and outdated (2021)](https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/) ([HN](https://news.ycombinator.com/item?id=27968394)) ([Lobsters](https://lobste.rs/s/4vhjvf/for_developers_apple_s_safari_is_crap)) ([Reddit](https://www.reddit.com/r/programming/comments/osj2i8/for_developers_apples_safari_is_crap_and_outdated/))
 - [One-offs and low-expectations with Safari (2021)](https://daverupert.com/2021/07/safari-one-offs/)
+- [What are the best extensions for Safari? (2021)](https://www.reddit.com/r/MacOS/comments/puhgk3/what_are_the_best_extensions_for_safari/)

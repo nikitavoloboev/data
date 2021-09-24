@@ -152,3 +152,6 @@
 - [Custom Search Engine Built on Searx (2021)](https://jpreston.xyz/custom-search-engine.html) ([HN](https://news.ycombinator.com/item?id=28509997))
 - [Marginalia Search](https://search.marginalia.nu/) - Search engine that favors text-heavy sites and punishes modern web design. ([HN](https://news.ycombinator.com/item?id=28550764))
 - [Dorks collections list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines.
+- [Nrtsearch: Yelp’s Fast, Scalable and Cost Effective Search Engine (2021)](https://engineeringblog.yelp.com/2021/09/nrtsearch-yelps-fast-scalable-and-cost-effective-search-engine.html)
+- [MacroBase](https://github.com/stanford-futuredata/macrobase) - Data analytics tool that prioritizes attention in large datasets using machine learning. ([Web](https://macrobase.stanford.edu/))
+- [Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering) - Want to build or improve a search experience? Start here.

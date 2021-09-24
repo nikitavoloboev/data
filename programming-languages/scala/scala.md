@@ -91,3 +91,4 @@
 - [Functional Data Modeling Workshop](https://github.com/jdegoes/functional-data-modeling)
 - [Books - Underscore](https://underscore.io/books/)
 - [Creative Scala Book (2020)](https://www.creativescala.org/creative-scala.html)
+- [Scala3 typeclassery with graphs (2021)](https://fabianmurariu.github.io/posts/scala3-typeclassery-graphs/)

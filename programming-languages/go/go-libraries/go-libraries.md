@@ -943,6 +943,9 @@
 - [multiline-jsonl](https://github.com/nikolaydubina/multiline-jsonl) - Read and write multiline JSONL in Go.
 - [xdp](https://github.com/asavie/xdp) - Allows one to use XDP sockets from Go.
 - [go-deadlock](https://github.com/sasha-s/go-deadlock) - Online deadlock detection in go.
+- [algo2](https://github.com/tdakkota/algo2) - Algorithms written using go2go.
+- [go-streams](https://github.com/jucardi/go-streams) - Stream Collections for Go. Inspired in Java 8 Streams and .NET Linq.
+- [more](https://github.com/bcmills/more) - Plausible additions to Go standard library packages.
 
 ## Links
 

@@ -143,3 +143,4 @@
 - [Testcontainers-rs](https://github.com/testcontainers/testcontainers-rs) - Library for integration-testing against docker containers from within Rust.
 - [Build docker images with Nix](https://github.com/rvolosatovs/nix-docker-example)
 - [kontain.me](https://github.com/imjasonh/kontain.me) - Serves Docker container images generated on-demand at the time they are requested.
+- [Play With Docker](https://labs.play-with-docker.com/) - Simple, interactive and fun playground to learn Docker. ([Code](https://github.com/play-with-docker/play-with-docker))

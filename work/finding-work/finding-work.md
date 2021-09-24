@@ -131,3 +131,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [If software engineering is in demand, why is it so hard to get a job? (2021)](https://betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463) ([Reddit](https://www.reddit.com/r/programming/comments/pf5ymu/if_software_engineering_is_in_demand_why_is_it_so/))
 - [Ask HN: How to Negotiate Stock Options (2021)](https://news.ycombinator.com/item?id=28401655)
 - [Ask HN: Graduating CS soon, how do I find a job? (2021)](https://news.ycombinator.com/item?id=28498305)
+- [Understanding Startup Offers](https://withcompound.com/manual-company-equity/understanding-startup-offers) ([HN](https://news.ycombinator.com/item?id=28644653))

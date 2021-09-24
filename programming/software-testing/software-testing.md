@@ -102,3 +102,4 @@
 - [Growth Book](https://www.growthbook.io/) - Open Source A/B Testing Platform. ([Code](https://github.com/growthbook/growthbook)) ([HN](https://news.ycombinator.com/item?id=28088882))
 - [Ponicode](https://www.ponicode.com/) - Quick and easy unit testing.
 - [What is Property Based Testing? (2016)](https://hypothesis.works/articles/what-is-property-based-testing/) ([HN](https://news.ycombinator.com/item?id=28586932))
+- [We killed our end-to-end test suite (2021)](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/) ([HN](https://news.ycombinator.com/item?id=28643848))

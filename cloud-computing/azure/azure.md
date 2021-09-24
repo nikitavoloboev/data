@@ -14,3 +14,4 @@
 - [21 hands-on Azure builders to follow in 2021](https://acloudguru.com/blog/engineering/follow-the-builders-21-hands-on-azure-builders-to-follow-in-2021)
 - [Bicep](https://github.com/Azure/bicep) - Declarative language for describing and deploying Azure resources.
 - [Azure Terrafy](https://github.com/magodo/aztfy) - Tool to bring existing Azure resources under Terraform's management.
+- [It's tough being an Azure fan (2021)](https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan/) ([HN](https://news.ycombinator.com/item?id=28617663))

@@ -27,8 +27,9 @@
 - [Computational Genomics Class Playlist at San Diego State University](https://www.youtube.com/playlist?list=PLpPXw4zFa0uLMHwSZ7DMeLGjIUgo1IBbn)
 - [Computational Genomics Manual](https://linsalrob.github.io/ComputationalGenomicsManual/) ([Code](https://github.com/linsalrob/ComputationalGenomicsManual))
 - [A Theory of Natural Universal Computation Through RNA (2020)](https://arxiv.org/abs/2008.08814) ([Tweet](https://twitter.com/theHessam/status/1296650944302776321))
-- [Hail](https://github.com/hail-is/hail) - Open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data. ([References](https://hail.is/references.html))
+- [Hail](https://github.com/hail-is/hail) - Open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data. ([References](https://hail.is/references.html)) ([Web](https://hail.is/))
 - [gnomAD](https://gnomad.broadinstitute.org/) - Genome aggregation database.
+- [gnomad_methods](https://github.com/broadinstitute/gnomad_methods) - Hail helper functions for the gnomAD project and Translational Genomics Group.
 - [We can now edit the human genome – how far should we go?](https://www.pbs.org/wgbh/nova/video/human-nature/) ([HN](https://news.ycombinator.com/item?id=24454954))
 - [Scientific Background: A tool for genome editing (2020)](https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf)
 - [Introduction to Social Science Genetics (2020)](https://silverbeach.in/courses/2020/october/social-science-genetics/)
@@ -87,3 +88,12 @@
 - [alignment-nf](https://github.com/IARCbioinfo/alignment-nf) - Whole Exome/Whole Genome Sequencing alignment pipeline.
 - [Stanford researchers develop an engineered 'mini' CRISPR genome editing system (2021)](https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/) ([HN](https://news.ycombinator.com/item?id=28409123))
 - [PiGx](https://github.com/BIMSBbioinfo/pigx) - Pipelines in genomics. ([Web](http://bioinformatics.mdc-berlin.de/pigx/))
+- [snps](https://github.com/apriha/snps) - Tools for reading, writing, merging, and remapping SNPs.
+- [Sano Genetics](https://sanogenetics.com/) - Upload DNA data to explore personal DNA reports on health, traits and genetic conditions.
+- [GenomePrep](https://github.com/changlubio/GenomePrep) - To preprocess, quality control and prepare consumer DTC genomes for research. ([Web](https://supfam.mrc-lmb.cam.ac.uk/GenomePrep/))
+- [scikit-allel](https://github.com/cggh/scikit-allel) - Python package for exploring and analyzing genetic variation data.
+- [Centre for Genomics and Global Health](https://www.cggh.org/) ([GitHub](https://github.com/cggh))
+- [pysamstats](https://github.com/alimanfoo/pysamstats) - Fast Python and command-line utility for extracting simple statistics against genome positions based on sequence alignments from a SAM or BAM file.
+- [Local PCA](https://github.com/petrelharp/local_pca) - Methods for examining PCA locally along the genome.
+- [List of gene lists for genomic analyses](https://github.com/macarthur-lab/gene_lists)
+- [MacArthur Lab](https://macarthurlab.org/) - Extracting useful information from large genomic datasets. ([GitHub](https://github.com/macarthur-lab))

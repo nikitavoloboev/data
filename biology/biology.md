@@ -86,3 +86,5 @@
 - [Visually appealing biology science fiction (2021)](https://twitter.com/LauraDeming/status/1438267984934424576)
 - [Awesome Bioreactors](https://github.com/taivop/awesome-bioreactors)
 - [Walking Trees, Parasitic Flowers, and Other Remarkable Plants](https://thereader.mitpress.mit.edu/walking-trees-parasitic-flowers-remarkable-plants-illustrated-guide/) ([HN](https://news.ycombinator.com/item?id=28619550))
+- [Syllabus: Advanced Biological Statistics II (2018)](https://petrelharp.github.io/bio_610B/syllabus.html) ([Code](https://github.com/petrelharp/bio_610B))
+- [Short graduate population biology course](https://github.com/petrelharp/popbio)

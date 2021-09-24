@@ -122,6 +122,7 @@
 - [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions. ([Docs](https://dataset.readthedocs.io/en/latest/))
 - [Piccolo](https://github.com/piccolo-orm/piccolo) - Fast, user friendly ORM and query builder which supports asyncio. ([Web](https://piccolo-orm.com/))
 - [Alembic](https://github.com/sqlalchemy/alembic) - Database migrations tool for SQLAlchemy.
+- [data_algebra](https://github.com/WinVector/data_algebra) - Codd method-chained SQL generator and Pandas data processing in Python.
 
 ## GUI
 
@@ -478,6 +479,11 @@
 - [Dora](https://github.com/facebookresearch/dora) - Experiment management framework. It expresses grid searches as pure python files.
 - [Dependency Injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python.
 - [word_cloud](https://github.com/amueller/word_cloud) - Little word cloud generator in Python.
+- [PyCLA](https://github.com/phschiele/PyCLA) - Python Package for Portfolio Optimization using the Critical Line Algorithm.
+- [ArviZ](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python.
+- [Scikit-TDA](https://github.com/scikit-tda/scikit-tda) - Topological Data Analysis for Python.
+- [petl](https://github.com/petl-developers/petl) - Python Extract Transform and Load Tables of Data.
+- [Numcodecs](https://github.com/zarr-developers/numcodecs) - Python package providing buffer compression and transformation codecs for use in data storage and communication applications.
 
 ## Links
 
@@ -513,3 +519,4 @@
 - [Cooperative Package Management for Python (2021)](https://lwn.net/SubscriberLink/867657/0efafb319ce20e3e/) ([HN](https://news.ycombinator.com/item?id=28376796))
 - [Mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions.
 - [Python Packages](https://py-pkgs.org/) - Open source book about making Python packages. ([Code](https://github.com/py-pkgs/py-pkgs))
+- [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.

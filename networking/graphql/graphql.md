@@ -42,7 +42,7 @@
 - [Prisma](https://www.prisma.io/) - Simplifies database access. It lets you read and write data to your database using your favorite programming language.
 - [GraphQL Playground](https://github.com/prisma/graphql-playground) - GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration).
 - [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
-- [GraphQL.js](https://github.com/graphql/graphql-js) - Reference implementation of GraphQL for JavaScript.
+- [GraphQL.js](https://github.com/graphql/graphql-js) - Reference implementation of GraphQL for JavaScript. ([GraphQL Query Complexity Analysis for graphql-js](https://github.com/slicknode/graphql-query-complexity))
 - [Top GraphQL tutorials reviewed 2019](https://blog.graphqleditor.com/top-graphql-tutorials-reviewed-2019/)
 - [SOFA](https://github.com/Urigo/SOFA) - Best way to create REST APIs - Generate RESTful APIs from your GraphQL Server.
 - [Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
@@ -235,3 +235,5 @@
 - [nestjs/graphql](https://github.com/nestjs/graphql) - GraphQL (TypeScript) module for Nest framework (node.js).
 - [GraphQL Working Group](https://github.com/graphql/graphql-wg) - Monthly virtual meeting of maintainers of commonly used GraphQL libraries and tools.
 - [Fullstack GraphQL boilerplate using Prisma, envelop, graphql-helix, fastify, nextjs, urql](https://github.com/taneba/fullstack-graphql-app)
+- [graphql-codegen-typescript-fixtures](https://github.com/pocketlesson/graphql-codegen-typescript-fixtures) - Plugin for graphql-code-generator that generates TypeScript fixtures for testing.
+- [Appsync Client](https://github.com/skyhookadventure/appsync-client) - Lightweight Appsync client that signs requests for you (using IAM permissions) - perfect for running on Lambdas or servers.

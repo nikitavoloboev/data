@@ -95,3 +95,4 @@
 - [Terraform is Not the Golden Hammer (2021)](https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/) ([HN](https://news.ycombinator.com/item?id=28583258))
 - [Terraform provider for generic REST APIs](https://github.com/Mastercard/terraform-provider-restapi)
 - [Anthology](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
+- [Creating A Terraform Provider (2018)](https://medium.com/spaceapetech/creating-a-terraform-provider-part-1-ed12884e06d7) ([Code](https://github.com/spaceapegames/terraform-provider-example))

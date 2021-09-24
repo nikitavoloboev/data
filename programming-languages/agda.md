@@ -50,3 +50,4 @@
 - [Functional Linear Algebra in Agda](https://github.com/ryanorendorff/functional-linear-algebra) - Formalizing linear algebra in Agda by representing matrices as functions.
 - [agdarsec](https://github.com/gallais/agdarsec) - Total Parser Combinators in Agda.
 - [Higher Categories in Agda](https://github.com/TOTBWF/agda-higher-categories) - Experiments in Higher Category Theory in Agda.
+- [Programming with evidence](https://github.com/umazalakain/agda-bcam) - Tutorial series introducing Agda.

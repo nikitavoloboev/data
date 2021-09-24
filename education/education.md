@@ -8,6 +8,7 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - Go for a quick read, minus derivations. Then do the derivations in a slow read. For more thorough understanding of physics/math textbooks & research papers.
 - [We have a system where everyone is forced to be educated, but no one is allowed to think, ever.](https://twitter.com/SamoBurja/status/1376585579115245568)
 - [The future of education isn't cohort-based courses.](https://twitter.com/tomosman/status/1382809955582021637)
+- [An honest reorganization of the school system would focus on food first, pleasant environments second, and "education" third.](https://twitter.com/simonsarris/status/1441442667225763851)
 
 ## Links
 
@@ -84,3 +85,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [A generation of American men give up on college (2021)](https://www.wsj.com/articles/college-university-fall-higher-education-men-women-enrollment-admissions-back-to-school-11630948233) ([HN](https://news.ycombinator.com/item?id=28436836))
 - [Information Engineering in Cambridge (2021)](https://www.youtube.com/watch?v=j-qBpk2c5fw)
 - [Germany has one of the lowest tuition fees](https://www.statista.com/chart/11058/bachelor-tuition-fees-international-comparison/) ([HN](https://news.ycombinator.com/item?id=28605216))
+- [The Case Against Teaching (2001)](https://learn.uakron.edu/ideal/cohorts/friday/case_against_teaching.pdf)

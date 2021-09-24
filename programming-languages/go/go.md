@@ -540,3 +540,5 @@ Go promotes composition over inheritance.
 - [Go: How to update APIs for generics (2021)](https://github.com/golang/go/discussions/48287) ([HN](https://news.ycombinator.com/item?id=28545757))
 - [Practical DDD in Go: Aggregate (2021)](https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629)
 - [Taming Go’s Memory Usage, or How We Avoided Rewriting Our Client in Rust (2021)](https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust) ([HN](https://news.ycombinator.com/item?id=28608083)) ([Lobsters](https://lobste.rs/s/nzwhng/taming_go_s_memory_usage_how_we_avoided)) ([Reddit](https://www.reddit.com/r/golang/comments/pspk0f/taming_gos_memory_usage_and_how_we_avoided/))
+- [Go Playground WASM](https://go-playground-wasm.vercel.app/) - Go playground powered by WASM that runs in the browser. ([Code](https://github.com/zackradisic/go-playground-wasm/)) ([HN](https://news.ycombinator.com/item?id=28636540))
+- [Examples of accepting interfaces and returning structs](https://github.com/karantan/go-interfaces)

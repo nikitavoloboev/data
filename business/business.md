@@ -43,6 +43,7 @@ Learning to build [startups](startups/startups.md).
 - [What matters is not so much size [of an organization] but the distance between employees and their customers.](https://twitter.com/johnmaeda/status/1422510958195482630)
 - [In corporate jobs, the best employees make their manager’s lives easier which encourages giving them more scope and responsibility. You get there by being autonomous instead of needing regular guidance, bringing solutions not problems and taking ownership when you don’t have to.](https://twitter.com/Carnage4Life/status/1408423307494400004)
 - [The moment you initiate a business relationship with anyone outside of your company, you should be registering it, as the contracts should be between the corporate entity and the vendor rather than you (personally) with the vendor.](https://www.reddit.com/r/SaaS/comments/oz8m6m/registering_a_company/)
+- [As a principal engineer, sometimes my title intimidates people (at my job). I see it when people are sharing ideas or code. I’m thinking of ways to tackle this, but wanted to share that your title may carry weight. What are you doing to build inclusive and equitable environments?](https://twitter.com/bryanl/status/1441441208321069060)
 
 ## Links
 

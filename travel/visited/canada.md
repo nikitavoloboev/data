@@ -8,3 +8,4 @@
 - [Shit About Canada](https://shitaboutcanada.com/)
 - [Travelers Beware: Advice for Foreigners](https://shitaboutcanada.com/canada-sucks-a-regional-breakdown/) - Are you looking to move to Canada? Here are some pointers.
 - [Why the Canadian Tech Scene Doesn’t Work (2021)](https://alexdanco.com/2021/01/11/why-the-canadian-tech-scene-doesnt-work/) ([HN](https://news.ycombinator.com/item?id=25742623))
+- [Good business banks in Canada (2021)](https://twitter.com/jasoncwarner/status/1441246039990673408)

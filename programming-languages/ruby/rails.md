@@ -86,3 +86,4 @@
 - [Stripe::Rails](https://github.com/tansengming/stripe-rails) - Rails Engine for integrating with Stripe.
 - [Importmap for Rails](https://github.com/rails/importmap-rails) - Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.
 - [Propshaft](https://github.com/rails/propshaft) - Asset pipeline library for Rails.
+- [Active Event Store](https://github.com/palkan/active_event_store) - Rails Event Store in a more Rails way.

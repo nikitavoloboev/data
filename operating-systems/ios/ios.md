@@ -350,3 +350,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Bypassing hotspot limits on iOS (2021)](https://blog.cyrusroshan.com/post/phone-data-hotspot)
 - [iOS Engine Choice In Depth (2021)](https://infrequently.org/2021/08/webkit-ios-deep-dive/)
 - [iOS on QEMU](https://github.com/alephsecurity/xnu-qemu-arm64) ([HN](https://news.ycombinator.com/item?id=28551264))
+- [Disclosure of three 0-day iOS vulnerabilities (2021)](https://habr.com/en/post/579714/) ([HN](https://news.ycombinator.com/item?id=28637276))
+- [iOS Auto Provision with Apple ID](https://github.com/bitrise-steplib/steps-ios-auto-provision) - Automatically manages your iOS Provisioning Profiles for your Xcode project.
+- [Fastlane Step](https://github.com/bitrise-steplib/steps-fastlane) - Runs the fastlane lane specified as input.
+- [Xcode Test for iOS](https://github.com/bitrise-steplib/steps-xcode-test) - Runs your project's pre-defined Xcode tests on every build.

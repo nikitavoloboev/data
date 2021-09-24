@@ -34,7 +34,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum: The Money-Game Landscape (2020)](https://medium.com/@TrustlessState/ethereum-the-money-game-landscape-1b9fdb05f842)
 - [0x](https://0x.org/) - Open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain. ([Code](https://github.com/0xProject/0x-monorepo)) ([Protocol](https://github.com/0xProject/protocol))
 - [0x API](https://github.com/0xProject/0x-api) - HTTP Interface to 0x liquidity and tooling.
-- [Rainbow](https://github.com/rainbow-me/rainbow) - Pocket robot for your internet money, powered by Ethereum.
+- [Rainbow](https://rainbow.me/) - Ethereum wallet that lives in your pocket. ([Code](https://github.com/rainbow-me/rainbow))
 - [Ethereum peer-to-peer networking specifications](https://github.com/ethereum/devp2p)
 - [ETH 2.0 educational resources](https://github.com/protolambda/eth2-docs)
 - [Tools for dapps](https://dapp.tools/) - Command-line-friendly tools for blockchain development. ([Code](https://github.com/dapphub/dapptools))
@@ -295,3 +295,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [sibyl](https://github.com/dialecticch/sibyl) - An easy tool to apply transactions to the current EVM state. Optimized for MEV.
 - [Eth-Hooks](https://github.com/scaffold-eth/eth-hooks) - Commonly used Ethereum hooks.
 - [It costs $436 to deploy a smartcontract on Ethereum (2021)](https://twitter.com/eric_khun/status/1440899940453060608) ([HN](https://news.ycombinator.com/item?id=28625485))
+- [POA TokenBridge](https://github.com/poanetwork/tokenbridge) - Allows users to transfer assets between two chains in the Ethereum ecosystem.

@@ -246,3 +246,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Список всех русскоязычных сообществ Реддита](https://www.reddit.com/r/Pikabu/comments/c4irv5/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B2%D1%81%D0%B5%D1%85_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D1%8F%D0%B7%D1%8B%D1%87%D0%BD%D1%8B%D1%85_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2_%D1%80%D0%B5%D0%B4%D0%B4%D0%B8%D1%82%D0%B0/)
 - [How is the western world portrayed in Russian media? (2021)](https://www.reddit.com/r/AskARussian/comments/pt9ogh/how_is_the_western_world_portrayed_in_russian/)
 - [Чичваркин: я не Ходорковский, себя в жертву приносить не буду (2021)](https://www.youtube.com/watch?v=p1et0Wjh-34)
+- [Евгений Чичваркин - YouTube](https://www.youtube.com/c/totsamychichvarkin/videos)
+- [Гедонист в эмиграции, виноторговец, ресторатор, возмутитель спокойствия - и все в одном флаконе (2021)](https://www.youtube.com/watch?v=Xi19uHPprdM)

@@ -118,6 +118,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Fish Fight](https://fishfight.org/) - Tactical 2D shooter. Made with Rust-lang and Macroquad. ([Code](https://github.com/fishfight/FishFight))
 - [shoot_game](https://github.com/akon47/shoot_game) - Game using HTML5 Canvas and Vanilla JavaScript.
 - [Q1K3](https://github.com/phoboslab/q1k3) - Tiny FPS for the 2021 js13k competition.
+- [Swarm](https://github.com/byorgey/swarm) - 2D programming and resource gathering game. ([Article](https://byorgey.wordpress.com/2021/09/23/swarm-preview-and-call-for-collaboration/)) ([Reddit](https://www.reddit.com/r/haskell/comments/pucika/a_new_programming_game_swarm_by_brent_yorgey/))
 
 ## Awesome games (other)
 
@@ -218,3 +219,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [ProtonDB](https://www.protondb.com/) - Gaming reports for Linux using Proton and Steam Play.
 - [Framework for what makes play-to-earn work (2021)](https://twitter.com/Tocelot/status/1439632031726456832)
 - [Are you playing to play, or playing to win?](https://commoncog.com/blog/playing-to-play-playing-to-win/) ([HN](https://news.ycombinator.com/item?id=28608436))
+- [Sid Meier and the meaning of ‘Civilization’ (2021)](https://www.newyorker.com/books/under-review/sid-meier-and-the-meaning-of-civilization) ([HN](https://news.ycombinator.com/item?id=28625315))

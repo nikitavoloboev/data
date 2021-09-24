@@ -302,3 +302,4 @@
 - [The Dedekind tessellation](http://www.neverendingbooks.org/the-dedekind-tessellation)
 - [Imagination and the Impossible (2021)](http://www.neverendingbooks.org/imagination-and-the-impossible)
 - [Designer Maths (2021)](http://www.neverendingbooks.org/designer-maths)
+- [Looking through Objects - How Tomography Works! (2021)](https://www.youtube.com/watch?v=f0sxjhGHRPo) ([Tweet](https://twitter.com/sigfpe/status/1441455463439110148))

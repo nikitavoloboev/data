@@ -2,6 +2,10 @@
 
 There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-math-to-machine.html) that goes over how one program can be written in different languages from the most abstract level of Math to Haskell to C to Assembly to actual machine code.
 
+## Notes
+
+- [I have a very concrete approach for creating categorical models/semantics for PLs. I express the syntax as a GADT, wrap it with a free(r) monad, then work with the resulting kleisli category.](https://twitter.com/tangled_zans/status/1441434927149420547)
+
 ## Links
 
 - [Awesome programming languages](https://github.com/learn-anything/programming-languages)

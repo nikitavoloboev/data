@@ -247,3 +247,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Poolifier](https://github.com/poolifier/poolifier) - Fast and small Node.js thread pool implementation.
 - [tasuku](https://github.com/privatenumber/tasuku) - Minimal task runner for Node.js.
 - [pathe](https://github.com/unjs/pathe) - Normalized paths for Node.js.
+- [Node Mono Library Template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions.

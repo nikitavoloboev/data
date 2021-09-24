@@ -41,3 +41,4 @@
 - [Build Firebase React Project Video Series (2021)](https://www.youtube.com/playlist?list=PL-LDQE9x9hLwUAESe_YJxhXU5ZjLgtq4S)
 - [GitHub Actions for Firebase](https://github.com/w9jds/firebase-action) - Enables arbitrary actions with the firebase command-line client.
 - [React Query Firebase](https://github.com/invertase/react-query-firebase) - React Query hooks for Firebase.
+- [Next.js serverless PWA with Firebase and React Hooks](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate)

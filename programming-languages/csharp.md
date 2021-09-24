@@ -11,3 +11,5 @@
 - [.NET Memory management](https://www.bschaatsbergen.com/dotnet-memory-management)
 - [Bflat](https://github.com/MichalStrehovsky/bflat) - C# as you know it but with Go-like tooling. ([HN](https://news.ycombinator.com/item?id=27634456))
 - [C# Language Design](https://github.com/dotnet/csharplang) - Where new C# language features are developed, adopted and specified.
+- [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) ([HN](https://news.ycombinator.com/item?id=28641480))
+- [ASP.NET Core Diagnostic Scenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)

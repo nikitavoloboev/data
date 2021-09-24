@@ -437,3 +437,6 @@
 - [Colima](https://github.com/abiosoft/colima) - Docker (and Kubernetes) on macOS with minimal setup.
 - [k8s-vault-webhook](https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook) - Kubernetes webhook that can inject secrets into Kubernetes resources by connecting to multiple secret managers.
 - [kubeapply](https://github.com/segmentio/kubeapply) - Lightweight tool for git-based management of Kubernetes configs.
+- [Learning Kubernetes](https://github.com/codeaprendiz/kubernetes-kitchen)
+- [Kubernetes Control Plane with keepalived](https://github.com/clastix/kubelived)
+- [snoopy-operator](https://github.com/fennec-project/snoopy-operator) - Cloud Native Way for Pod Deep Inspection.

@@ -58,6 +58,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Franklin](https://franklinjl.org/) - Static Site Generator in Julia. ([Code](https://github.com/tlienart/Franklin.jl))
 - [nestjs/serve-static](https://github.com/nestjs/serve-static) - Serve static websites (SPA's) using Nest framework (node.js).
 - [Zas](https://github.com/imdario/zas) - Most simple static website generator in Go.
+- [Bridgetown](https://www.bridgetownrb.com/) - Webpack-aware, Ruby-powered static site generator for the modern Jamstack era. ([Code](https://github.com/bridgetownrb/bridgetown)) ([Twitter](https://twitter.com/bridgetownrb))
 
 ## Notes
 

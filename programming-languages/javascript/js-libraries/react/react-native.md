@@ -125,3 +125,5 @@
 - [React Native Async Storage](https://github.com/react-native-async-storage/async-storage) - Asynchronous, persistent, key-value storage system for React Native.
 - [Running React Native everywhere: The Webs (2021)](https://mmazzarolo.com/blog/2021-09-22-running-react-native-everywhere-web/)
 - [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - Easy way to integrate your React (or Preact) app into React Native app with WebView.
+- [React Native Universal Monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo)
+- [Notifee Notifications](https://github.com/invertase/notifee) - Feature rich notifications library for React Native.

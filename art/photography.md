@@ -142,4 +142,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Photoview](https://photoview.github.io/) - Photo gallery for self-hosted personal servers. ([Code](https://github.com/photoview/photoview))
 - [Vitaly Rubtsov - YouTube](https://www.youtube.com/channel/UCUHeg2C_KSLJ3IZmyOcsr2w/videos)
 - [Nikon's 2021 Photomicrography Competition Winners](https://www.nikonsmallworld.com/galleries/2021-photomicrography-competition) ([HN](https://news.ycombinator.com/item?id=28541841))
-- [iPhone 13 Pro Camera Review: Tanzania (2021)](https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania)
+- [iPhone 13 Pro Camera Review: Tanzania (2021)](https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania) ([HN](https://news.ycombinator.com/item?id=28642740))
+- [iPhone 13 Pro Camera Preview: The Hardware Changes (2021)](https://lux.camera/iphone-13-pro-camera-preview-the-hardware-changes/)

@@ -78,6 +78,7 @@
 - [next-plugin-preval](https://github.com/ricokahler/next-plugin-preval) - Pre-evaluate async functions during builds and import them like JSON.
 - [next-api-decorators](https://github.com/storyofams/next-api-decorators) - Collection of decorators to create typed Next.js API routes, with easy request validation and transformation.
 - [Next.js + Linaria](https://github.com/Mistereo/next-linaria)
+- [nextjs-multi-domain-locale](https://github.com/tomsoderlund/nextjs-multi-domain-locale) - Hosting multiple domains on the same Next.js site (while maintaining multiple languages and SSG).
 
 ## Notes
 

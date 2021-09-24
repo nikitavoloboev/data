@@ -112,3 +112,4 @@
 - [vite-plugin-pages](https://github.com/aldy505/vite-plugin-pages-svelte) - File system based routing for Svelte applications using Vite.
 - [Writing a Svelte Store with TypeScript (2021)](https://javascript.plainenglish.io/writing-a-svelte-store-with-typescript-22fa1c901a4)
 - [slocation](https://github.com/varbhat/slocation) - Reactive Svelte Location Store.
+- [Backend-Only Authentication With Sapper & Firebase Admin (2021)](https://www.marek.page/backend-only-authentication-with-sapper-firebase-admin/)

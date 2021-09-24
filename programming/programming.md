@@ -57,6 +57,7 @@
 - [Code affects humans, not machines. Think through the consequences of design decisions. Tradeoffs are everywhere, document them. Taking on technical debt should be an informed decision, not the default. All resources are finite. Know your complexity bounds and impossibility results.](https://www.aljoscha-meyer.de/)
 - [We should have "code walkthrough" meetings, where someone who knows an aspect of the codebase explains how it works to everyone else. No PRs reviewed, no decisions made, just knowledge transfer.](https://twitter.com/hillelogram/status/1424109751659638793)
 - [You should own your core competencies.](https://lobste.rs/s/uxgclp/benefit_dependency_is_inversely)
+- [If you write software that shows errors to users (so, software) please, do everyone including yourself a favor and keep some way of figuring out the causal chain that drove a certain decision by your program.](https://twitter.com/ekuber/status/1441430291739029505)
 
 ## Links
 
