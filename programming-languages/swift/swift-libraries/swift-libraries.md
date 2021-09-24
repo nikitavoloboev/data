@@ -754,6 +754,7 @@
 - [Spatial](https://github.com/eonist/Spatial) - Hasle-free AutoLayout (MacOS / iOS).
 - [VideoIO](https://github.com/MetalPetal/VideoIO) - Video Input/Output Utilities.
 - [SwiftVideo](https://github.com/unpause-live/SwiftVideo) - Swift Video Framework for Linux, macOS, and iOS/iPadOS.
+- [Runtime Issues](https://github.com/rpwachowski/runtime-issues) - Trigger runtime issues from your code during development or debugging.
 
 ## Other (not lib)
 

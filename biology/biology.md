@@ -85,3 +85,4 @@
 - [Biologists Rethink the Logic Behind Cells’ Molecular Signals (2021)](https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecular-signals-20210916/) ([HN](https://news.ycombinator.com/item?id=28553158))
 - [Visually appealing biology science fiction (2021)](https://twitter.com/LauraDeming/status/1438267984934424576)
 - [Awesome Bioreactors](https://github.com/taivop/awesome-bioreactors)
+- [Walking Trees, Parasitic Flowers, and Other Remarkable Plants](https://thereader.mitpress.mit.edu/walking-trees-parasitic-flowers-remarkable-plants-illustrated-guide/) ([HN](https://news.ycombinator.com/item?id=28619550))

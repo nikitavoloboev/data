@@ -204,3 +204,4 @@ And these Discord servers:
 - [How Trends.co stays up to date on things (2021)](https://twitter.com/stephsmithio/status/1395123474876801031)
 - [Ask HN: Hacker News like forums for other niches? (2021)](https://news.ycombinator.com/item?id=27802233)
 - [Ask HN: Do any discussion boards that aren't Facebook/Reddit still exist? (2021)](https://news.ycombinator.com/item?id=28394321)
+- [Ask HN: What are some other general link aggregators aside from HN? (2021)](https://news.ycombinator.com/item?id=28632002)

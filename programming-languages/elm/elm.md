@@ -69,3 +69,4 @@
 - [Tail-call optimization in Elm (2021)](https://jfmengels.net/tail-call-optimization/)
 - [Measuring cognitive complexity with elm-review (2021)](https://jfmengels.net/cognitive-complexity/)
 - [Awesome Elm PLTD](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
+- [elm2nix](https://github.com/cachix/elm2nix) - Convert an Elm project into Nix expressions.

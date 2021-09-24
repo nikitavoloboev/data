@@ -51,7 +51,7 @@
 - [image-stego](https://github.com/dennis-tra/image-stego) - Novel approach to image manipulation detection.
 - [Lycon](https://github.com/ethereon/lycon) - Minimal and fast image library for Python and C++.
 - [Optimizt](https://github.com/funbox/optimizt) - CLI tool that helps you prepare images during frontend development.
-- [napari](https://github.com/napari/napari) - Multi-dimensional image viewer for python.
+- [napari](https://github.com/napari/napari) - Multi-dimensional image viewer for python. ([Docs](https://napari.org/))
 - [NeuralHash](https://github.com/nikcheerla/neuralhash) - Adversarial Steganographic Method For Robust, Imperceptible Watermarking.
 - [gif-h](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs from image data.
 - [Image Processing Techniques That You Can Use in Machine Learning Projects (2020)](https://neptune.ai/blog/image-processing-techniques-you-can-use-in-machine-learning)

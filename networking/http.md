@@ -64,7 +64,7 @@
 - [Cache-Control in the wild (2020)](https://www.fastly.com/blog/cache-control-wild)
 - [PatchGirl](https://patchgirl.io/) - Postman/postwoman like, web app to test your APIs. ([Code](https://github.com/patchgirl/patchgirl))
 - [Will It CORS?](https://httptoolkit.tech/will-it-cors/)
-- [HTTP Toolkit](https://httptoolkit.tech/) - Intercept, debug & mock HTTP.
+- [HTTP Toolkit](https://httptoolkit.tech/) - Intercept, debug & mock HTTP. ([Server Code](https://github.com/httptoolkit/httptoolkit-server)) ([UI Code](https://github.com/httptoolkit/httptoolkit-ui))
 - [HTTP protocol and the web](https://codexpanse.com/courses/http)
 - [Critical Resources and the First 14 KB - A Review (2019)](https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/)
 - [Алгоритмы быстрой обработки HTTP-строк (2020)](https://habr.com/ru/company/oleg-bunin/blog/493242/)

@@ -969,6 +969,9 @@
 - [xxhash-rust](https://github.com/DoumanAsh/xxhash-rust) - Rust implementation of xxhash.
 - [RFD](https://github.com/PolyMeilex/rfd) - Rusty File Dialog.
 - [Pollster](https://github.com/zesterer/pollster) - Minimal async executor that lets you block on a future.
+- [packed_simd](https://github.com/rust-lang/packed_simd) - Portable Packed SIMD Vectors for Rust standard library.
+- [Bardecoder](https://github.com/piderman314/bardecoder) - Detect and decode QR Codes, written in 100% Rust.
+- [Lagoon](https://github.com/zesterer/lagoon) - Thread pool crate with an array of features.
 
 ## Cargo Plugins
 

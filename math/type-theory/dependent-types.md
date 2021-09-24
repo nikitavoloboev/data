@@ -52,3 +52,4 @@
 - [Pika](https://github.com/tolziplohu/pika) - Small, dependently typed ML with algebraic effects and unboxed types.
 - [Clamn](https://github.com/eashanhatti/clamn) - Functional systems language leveraging dependent types, partial evaluation, and data layout abstraction.
 - [TTstar](https://github.com/ziman/ttstar) - Dependently typed core calculus with erasure inference.
+- [staged](https://github.com/AndrasKovacs/staged) - Experimental staged language with dependent types.

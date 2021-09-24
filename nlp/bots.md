@@ -23,3 +23,4 @@
 - [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - Advanced NodeJS WhatsApp library for chatbots with advanced features.
 - [Matt, the Clubhouse bot (2021)](https://knyar.net/stuff/matt-the-clubhouse-bot/) ([Code](https://github.com/knyar/housebot))
 - [Errbot](https://github.com/errbotio/errbot) - Chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation. ([Docs](https://errbot.readthedocs.io/en/latest/))
+- [Secret Santa App](https://secret-santa.team/) - Secret Santa bot for your Slack, Discord or Zoom.us team. ([Code](https://github.com/jolicode/secret-santa))

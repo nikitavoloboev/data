@@ -48,3 +48,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [The Significance of Evolving Sino-Russian Relations with Alexander Gabuev (2021)](https://china-global.simplecast.com/episodes/the-significance-of-evolving-sino-russian-relations-with-alexander-gabuev)
 - [China Global Podcast](https://china-global.simplecast.com/)
 - [Will Xi Move on Taiwan? (2021)](https://asia.nikkei.com/Spotlight/20-years-after-9-11/Will-Xi-move-on-Taiwan-History-warns-he-might-Niall-Ferguson) ([HN](https://news.ycombinator.com/item?id=28544904))
+- [What Does Evergrande Meltdown Mean for China? (2021)](https://carnegieendowment.org/chinafinancialmarkets/85391) ([HN](https://news.ycombinator.com/item?id=28628874))

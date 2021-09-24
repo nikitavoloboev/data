@@ -79,3 +79,4 @@
 - [htmldf](https://github.com/alastairrushworth/htmldf) - Simple scraping and tidy webpage summaries.
 - [R Posts You Might Have Missed (2020)](https://alastairrushworth.github.io/R-Posts-You-Might-Have-Missed!/)
 - [scattermore](https://github.com/exaexa/scattermore) - Very fast scatterplots for R.
+- [spatialRF](https://github.com/BlasBenito/spatialRF) - Easy Spatial Regression with Random Forest.

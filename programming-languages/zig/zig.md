@@ -66,4 +66,4 @@
 - [Resource efficient Thread Pools with Zig (2021)](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291) ([HN](https://news.ycombinator.com/item?id=28509073))
 - [Zig News](https://zig.news/)
 - [Code Coverage for Zig with Callgrind (2021)](https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/)
-- [Fuzzing Zig Code Using AFL++ (2021)](https://www.ryanliptak.com/blog/fuzzing-zig-code/)
+- [Fuzzing Zig Code Using AFL++ (2021)](https://www.ryanliptak.com/blog/fuzzing-zig-code/) ([HN](https://news.ycombinator.com/item?id=28600050))

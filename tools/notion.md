@@ -69,3 +69,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Awesome Notion](https://www.awesomenotion.space/) - Curated list of awesome Notion related things. ([Code](https://github.com/mnismt/awesome-notion-site))
 - [Migrating Notion's marketing site to Next.js (2021)](https://www.notion.so/blog/migrating-notion-marketing-to-next-js)
 - [Notion SDK Py](https://github.com/ramnes/notion-sdk-py) - Official Notion SDK rewritten in Python (sync + async).
+- [Noto avatar](https://abstractlab.gumroad.com/l/noto-avatar) - With this illustrations pack, you can create your own Notion-style avatar.

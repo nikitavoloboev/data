@@ -162,3 +162,4 @@
 - [Awesome SwiftUI Libraries](https://github.com/Toni77777/awesome-swiftui-libraries)
 - [The missing SwiftUI packages (2021)](https://benkau.com/the-missing-swiftui-packages/)
 - [SwiftUI+ GitHub](https://github.com/SwiftUI-Plus) - Collection of SwiftUI backports and more.
+- [SwiftUI Previews: Validating views in different states (2021)](https://www.avanderlee.com/swiftui/previews-different-states/)

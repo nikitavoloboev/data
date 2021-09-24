@@ -78,3 +78,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [How to build a Markdown editor using Electron, ReactJS, Vite, CodeMirror, and Remark (2021)](https://www.youtube.com/watch?v=gxBis8EgoAg)
 - [Inkdrop](https://www.inkdrop.app/) - Note-taking App with Robust Markdown Editor.
 - [PDF to Markdown converter](https://pdf2md.morethan.io/) ([Code](https://github.com/jzillmann/pdf-to-markdown))
+- [simple-markdown](https://github.com/Khan/simple-markdown) - JavaScript markdown parsing, made simple.

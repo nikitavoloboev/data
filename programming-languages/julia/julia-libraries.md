@@ -108,6 +108,10 @@
 
 - [Flux3D.jl](https://github.com/nirmal-suthar/Flux3D.jl) - 3D computer vision library in Julia.
 
+## CLI
+
+- [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) - Package for parsing command-line arguments to Julia programs.
+
 ## Web
 
 - [Genie](https://github.com/GenieFramework/Genie.jl) - Highly productive Julia web framework. ([Docs](https://genieframework.github.io/Genie.jl/dev/))

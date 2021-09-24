@@ -241,3 +241,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Как могла бы выглядеть избранная Дума, если бы у нас была устоявшаяся свободная и честная партийно-выборная система (2021)](https://twitter.com/omeg_ator/status/1440367869431189520)
 - [«Я не хочу оказаться в тюрьме»: Интервью Ирины Фатьяновой — соратницы Навального из Санкт-Петербурга (2021)](https://www.wonderzine.com/wonderzine/life/life-interview/259019-irina-fatyanova) ([Tweet](https://twitter.com/sadsadsadbitch/status/1440735629524942853))
 - [Wonderzine](https://www.wonderzine.com/) - Сайт для девушек о стиле, красоте и развлечениях. ([Twitter](https://twitter.com/wonderzine))
+- [У нас украли выборы? Нет, их и не было | Блог Ходорковского (2021)](https://www.youtube.com/watch?v=wgfW59Y_n9I)
+- [Два.ч](https://2ch.hk/) - Свободное общение.
+- [Список всех русскоязычных сообществ Реддита](https://www.reddit.com/r/Pikabu/comments/c4irv5/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B2%D1%81%D0%B5%D1%85_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D1%8F%D0%B7%D1%8B%D1%87%D0%BD%D1%8B%D1%85_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2_%D1%80%D0%B5%D0%B4%D0%B4%D0%B8%D1%82%D0%B0/)
+- [How is the western world portrayed in Russian media? (2021)](https://www.reddit.com/r/AskARussian/comments/pt9ogh/how_is_the_western_world_portrayed_in_russian/)

@@ -209,6 +209,7 @@
 - [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool. ([Web](https://www.schemacrawler.com/))
 - [dbmigrate](https://github.com/Keats/dbmigrate) - PostgreSQL/SQLite/MySQL migration tool in rust.
 - [Qsh](https://github.com/muhmud/qsh) - Improved database querying from your terminal. ([HN](https://news.ycombinator.com/item?id=28550874))
+- [trona](https://github.com/igorkamyshev/trona) - Write DB migrations with SQL and run them with a CLI.
 
 ## Notes
 

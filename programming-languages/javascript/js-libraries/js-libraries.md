@@ -3,7 +3,7 @@
 ## Web Dev frameworks
 
 - [Next.js](https://github.com/vercel/next.js) - Framework for server-rendered or statically-exported React apps.
-- [Solid](https://www.solidjs.com/) - Declarative, efficient, and flexible JavaScript library for building user interfaces. ([Code](https://github.com/solidjs/solid)) ([Website Code](https://github.com/solidjs/solid-site))
+- [Solid](https://www.solidjs.com/) - Declarative, efficient, and flexible JavaScript library for building user interfaces. ([Code](https://github.com/solidjs/solid)) ([Website Code](https://github.com/solidjs/solid-site)) ([Awesome](https://github.com/one-aalam/awesome-solid-js))
 - [San](https://github.com/baidu/san) - Flexible JavaScript component framework.
 - [hapi](https://hapijs.com/) - Rich framework for building applications and services.
 - [Koa](https://koajs.com/#introduction) - Smaller, more expressive, and more robust foundation for web applications and APIs.

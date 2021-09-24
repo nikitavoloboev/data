@@ -567,3 +567,5 @@
 - [Rome will be written in Rust (2021)](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust) ([HN](https://news.ycombinator.com/item?id=28607908)) ([Tweet](https://twitter.com/buildsghost/status/1440365394137550860))
 - [Richard Feldman’s Introduction to Rust workshop](https://rtfeldman-rust-workshop.netlify.app/) ([Code](https://github.com/rtfeldman/rust-1.51-workshop))
 - [Example rust application to showcase error handling patterns](https://github.com/zoni/rust-wordcount)
+- [Writing a storage engine in Rust: Writing a persistent BTree (Part 1) (2021)](https://nimrodshn.medium.com/writing-a-storage-engine-in-rust-writing-a-persistent-btree-part-1-916b6f3e2934)
+- [Optimize Rust binaries size with cargo and Semver (2021)](https://oknozor.github.io/blog/optimize-rust-binary-size/)

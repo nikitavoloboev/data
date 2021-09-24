@@ -294,3 +294,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [DappTools.rs](https://github.com/gakonst/dapptools-rs) - Rust port of DappTools.
 - [sibyl](https://github.com/dialecticch/sibyl) - An easy tool to apply transactions to the current EVM state. Optimized for MEV.
 - [Eth-Hooks](https://github.com/scaffold-eth/eth-hooks) - Commonly used Ethereum hooks.
+- [It costs $436 to deploy a smartcontract on Ethereum (2021)](https://twitter.com/eric_khun/status/1440899940453060608) ([HN](https://news.ycombinator.com/item?id=28625485))

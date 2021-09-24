@@ -94,3 +94,4 @@
 - [Terraform Provider: Snowflake](https://github.com/chanzuckerberg/terraform-provider-snowflake)
 - [Terraform is Not the Golden Hammer (2021)](https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/) ([HN](https://news.ycombinator.com/item?id=28583258))
 - [Terraform provider for generic REST APIs](https://github.com/Mastercard/terraform-provider-restapi)
+- [Anthology](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.

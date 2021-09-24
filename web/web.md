@@ -305,3 +305,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Why did the web take over desktop and not mobile? (2021)](https://subconscious.substack.com/p/why-did-the-web-take-over-desktop) ([HN](https://news.ycombinator.com/item?id=28489567))
 - [Using the platform (2021)](https://elisehe.in/2021/08/22/using-the-platform)
 - [WebTransport API](https://w3c.github.io/webtransport/) - API that allows web applications to establish interactive, bidirectional, multiplexed network connections. ([Code](https://github.com/w3c/webtransport))
+- [Sunil Pai: React and the Meta of the Web (2021)](https://www.youtube.com/watch?v=H3h1WICelqs) ([Tweet](https://twitter.com/swyx/status/1439702355553886211))

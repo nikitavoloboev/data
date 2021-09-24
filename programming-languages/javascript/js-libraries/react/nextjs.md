@@ -45,6 +45,7 @@
 - [graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind.
 - [Nextjs-auth-prisma boilerplate](https://github.com/huv1k/nextjs-auth-prisma) - Build bleeding-edge full-stack applications using Next.js, GraphQL, TypeScript and Prisma.
 - [Giant Sur](https://github.com/soroushchehresa/giant-sur) - macOS Big Sur UI clone for the web built with React, Next.js, TypeScript, and Tailwind CSS. ([Web](https://giantsur.netlify.app/))
+- [Ultimate SAAS template](https://github.com/gmpetrov/utlimate-saas-js) - Typescript/Next.js/NextAuth.js/Prisma/Stripe/TailwindCSS/PostgreSQL. ([HN](https://news.ycombinator.com/item?id=28628615))
 
 ## NextJS plugins
 

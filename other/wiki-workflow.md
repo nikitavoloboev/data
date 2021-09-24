@@ -386,3 +386,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [The (re-)emergence of digital gardens (2021)](https://distroid.substack.com/p/distroid-issue-13-digital-gardens)
 - [Ask HN: How do you take notes throughout your work day? (2021)](https://news.ycombinator.com/item?id=28508811)
 - [The 5 Rs of Note Taking](https://aliabdaal.com/the-5-rs-of-note-taking/)
+- [Noteship](https://noteship.com/) - Local-first notes app for Mac, with data longevity in mind. ([HN](https://news.ycombinator.com/item?id=28617596))

@@ -96,6 +96,10 @@
 - [OCaml Containers](https://github.com/c-cube/ocaml-containers) - Modular, clean and powerful extension of the OCaml standard library.
 - [vec](https://github.com/aionescu/vec) - Fast, safe mutable dynamic arrays for OCaml.
 - [um-abt](https://github.com/shonfeder/um-abt) - OCaml library implementing abstract binding trees (ABTs).
+- [ocaml-stun](https://github.com/patricoferris/ocaml-stun) - Pure OCaml implementation of the Session Traversal Utilities for NAT (STUN) protocol (STUN).
+- [ortac](https://github.com/ocaml-gospel/ortac) - OCaml Runtime Assertion Checking.
+- [Bloomf](https://github.com/mirage/bloomf) - Efficient Bloom filters for OCaml.
+- [Index](https://github.com/mirage/index) - Scalable implementation of persistent indices in OCaml.
 
 ## Links
 

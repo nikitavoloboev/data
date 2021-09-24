@@ -116,3 +116,4 @@
 - [twilens](https://github.com/ciffelia/twilens) - Full-text search for your tweets.
 - [RSS 2 Twitter](https://github.com/umputun/rss2twitter) - Publish RSS updates to Twitter.
 - [Kizie](https://kizie.co/) - New way to interact with Twitter. ([HN](https://news.ycombinator.com/item?id=28549960))
+- [Feeds Mage](https://www.feedsmage.com/) - Scans your Twitter follows to discover blogs and newsletters.

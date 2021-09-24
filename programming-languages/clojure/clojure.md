@@ -149,3 +149,4 @@
 - [Clojure vs Haskell (2021)](https://cuddly-octo-palm-tree.com/posts/2021-03-28-lazy-io/)
 - [Thoughts on Clojure UI framework (2021)](https://tonsky.me/blog/clojure-ui/) ([HN](https://news.ycombinator.com/item?id=28469498))
 - [Engineering for Scale in Clojure (2021)](https://anchor.fm/recursive-house/episodes/Episode-2---Dmitri-Sotnikov---Engineering-for-Scale-in-Clojure-e17ka83)
+- [Reactive Clojure: A web language](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc) ([HN](https://news.ycombinator.com/item?id=28630209))

@@ -19,7 +19,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Blockstack](https://blockstack.org/) - Decentralized apps on Blockstack let you own your data so you can maintain your privacy, security and freedom.
 - [Cardano](https://github.com/input-output-hk/cardano-sl/) - Cryptographic currency implementing Ouroboros PoS protocol.
 - [Iden3](https://iden3.io/) - Decentralized identity management solution.
-- [Gnosis](https://gnosis.io/) - Builds new market mechanisms for decentralized finance. ([GitHub](https://github.com/gnosis))
+- [Gnosis](https://gnosis.io/) - Builds new market mechanisms for decentralized finance. ([GitHub](https://github.com/gnosis)) ([Gnosis Protocol V2](https://github.com/gnosis/gp-v2-contracts))
 - [Digital Asset](https://digitalasset.com/) - Automate and synchronize business processes.
 - [Purple Protocol](https://purpleprotocol.org/) - Global Decentralized Ledger Infrastructure.
 - [Slingshot](https://github.com/stellar/slingshot) - New blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
@@ -154,7 +154,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [LazyLedger](https://lazyledger.org/) - Pluggable consensus and data availability layer, to enable anyone to quickly deploy a decentralised blockchain without the overhead of bootstrapping a new consensus network. ([Code](https://github.com/lazyledger/lazyledger-core))
 - [Gravity Bridge](https://github.com/cosmos/gravity-bridge) - CosmosSDK application for moving assets on and off of EVM based, POW chains.
 - [Horizon Blockchain Games](https://horizon.io/) - Building a New Dimension where Internet economies are fun, accessible, and for the benefit of all participants.
-- [Avalanche](https://www.avalabs.org/) - Open-source platform for launching highly decentralized applications, new financial primitives, and new interoperable blockchains. ([Code](https://github.com/ava-labs/avalanchego))
+- [Avalanche](https://www.avalabs.org/) - Open-source platform for launching highly decentralized applications, new financial primitives, and new interoperable blockchains. ([Code](https://github.com/ava-labs/avalanchego)) ([AvalancheJS](https://github.com/ava-labs/avalanchejs))
 - [How NFTs work](https://twitter.com/KetanJ0/status/1387710309767565312)
 - [Algorand](https://www.algorand.com/) - Open source, permissionless, pure PoS blockchain protocol designed for the future of finance.
 - [Staking Facilities](https://stakingfacilities.com/) - Web 3.0 Infrastructure & Services.
@@ -229,3 +229,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Validator Operations Guide](https://kb.certus.one/) - best practices for running a validator service as implemented by Certus One, as well as technical background to help you design your own validator architecture. ([Code](https://github.com/certusone/kb))
 - [Starcoin](https://github.com/starcoinorg/starcoin) - Layered Cryptocurrency and Decentralized Blockchain System.
 - [AirSwap](https://preview.airswap.io/#/) - Open developer community focused on decentralized trading systems. ([Code](https://github.com/airswap/airswap-web))
+- [Interchain Standards (ICS) for the Cosmos network & interchain ecosystem](https://github.com/cosmos/ibc)
+- [Nervos Network](https://www.nervos.org/) - Universal Passport to Blockchain. ([Twitter](https://twitter.com/NervosNetwork)) ([GitHub](https://github.com/nervosnetwork))
+- [Neuron](https://github.com/nervosnetwork/neuron) - Nervos CKB Full-Node Desktop Wallet.

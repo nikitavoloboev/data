@@ -192,3 +192,5 @@
 - [TurboTransformers](https://github.com/Tencent/TurboTransformers) - Fast and user-friendly runtime for transformer inference on CPU and GPU.
 - [DeepOps](https://github.com/kartik4949/deepops) - Mini Deep Learning framework supporting GPU accelerations written with CUDA.
 - [Bayex](https://github.com/alonfnt/bayex) - Bayesian Optimization Python Library powered by JAX.
+- [Merlion](https://github.com/salesforce/Merlion) - Machine Learning Framework for Time Series Intelligence.
+- [Feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning. ([Web](https://feast.dev/))
