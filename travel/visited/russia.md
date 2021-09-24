@@ -215,7 +215,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [ГУЛАГ: Остров Соловки / Самый страшный лагерь СССР](https://www.youtube.com/watch?v=oOnDThM19io)
 - [Интервью Навального в New York Times (2021)](https://navalny.com/p/6530/) ([Summary](https://www.youtube.com/watch?v=eXmoqu4rOWw))
 - [The Origins of Russian Authoritarianism (2021)](https://www.youtube.com/watch?v=f8ZqBLcIvw0)
-- [Другой СССР. 1959: бунт в Темиртау](https://www.youtube.com/watch?v=cAMSoondbv8)
+- [Другой СССР](https://www.youtube.com/playlist?list=PLnnvzPm9BOwqIqBjOF0Llr_0GHSZbqvw-) - Ролики про события, о которых в СССР предпочитали не говорить.
 - [Multipolar World - Russia's Primakov Doctrine in the Middle East (2021)](https://www.youtube.com/watch?v=zwi9J-CA80I)
 - [500 вопросов Евгению Чичваркину | Путин красавчик? (2021)](https://www.youtube.com/watch?v=CKMFSUAmRKE)
 - [Чичваркин - о Медведеве, контрабанде и дружбе с Сурковым / вДудь (2017)](https://www.youtube.com/watch?v=QXijtvUOhX4)

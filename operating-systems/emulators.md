@@ -45,3 +45,5 @@
 - [GateBoy](https://github.com/aappleby/MetroBoy) - Gate-level simulators and tools for the original Game Boy.
 - [SwiftNES](https://github.com/tib/SwiftNES) - NES emulator written in Swift.
 - [SwiftNES](https://github.com/thara/SwiftNES) - Cross-platform NES Emulator written in Swift.
+- [RBoy](https://github.com/mvdnes/rboy) - Gameboy Color Emulator written in Rust.
+- [Mooneye GB](https://github.com/Gekkio/mooneye-gb) - Game Boy research project and emulator written in Rust.

@@ -379,3 +379,5 @@
 - [Learning A Single Network for Scale-Arbitrary Super-Resolution (2021)](https://longguangwang.github.io/Project/ArbSR/) ([Code](https://github.com/LongguangWang/ArbSR))
 - [Face Recognition](https://github.com/1adrianb/face-alignment) - 2D and 3D Face alignment library build using PyTorch.
 - [Awesome image retrieval papers](https://github.com/willard-yuan/awesome-cbir-papers)
+- [PeekingDuck](https://github.com/aimakerspace/PeekingDuck) - Modular framework built to simplify Computer Vision inference workloads.
+- [Pri3D: Can 3D Priors Help 2D Representation Learning? (2021)](https://arxiv.org/abs/2104.11225) ([Code](https://github.com/Sekunde/Pri3D))

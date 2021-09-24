@@ -234,3 +234,4 @@
 - [GraphQL Rules](https://graphql-rules.com/) ([Code](https://github.com/graphql-rules/graphql-rules))
 - [nestjs/graphql](https://github.com/nestjs/graphql) - GraphQL (TypeScript) module for Nest framework (node.js).
 - [GraphQL Working Group](https://github.com/graphql/graphql-wg) - Monthly virtual meeting of maintainers of commonly used GraphQL libraries and tools.
+- [Fullstack GraphQL boilerplate using Prisma, envelop, graphql-helix, fastify, nextjs, urql](https://github.com/taneba/fullstack-graphql-app)

@@ -37,3 +37,4 @@
 - [Wrath Of Gnon](https://twitter.com/wrathofgnon) - Tweets about good urbanism.
 - [Sustainable Infrastructure (2021)](https://wrathofgnon.substack.com/p/sustainable-infrastructure)
 - [The Liberation of Paris From Cars Is Working (2021)](https://slate.com/business/2021/09/paris-cars-bicycles-walking-david-belliard-anne-hidalgo.html) ([Tweet](https://twitter.com/travis_robert/status/1438577403295682564))
+- [How Manchester Fixed Its Industrial Decline (2021)](https://www.youtube.com/watch?v=fuTIDc5ug-Y)

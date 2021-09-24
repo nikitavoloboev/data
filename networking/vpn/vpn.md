@@ -43,3 +43,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Setting up a home VPN server with Wireguard (2019)](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
 - [vtun](https://github.com/net-byte/vtun) - Simple VPN written in Go.
 - [How does Apple Private Relay Work? (2021)](https://matduggan.com/how-does-apple-private-relay-work/)
+- [Run a VPN with global exit nodes with fly.io, tailscale and github](https://github.com/patte/fly-tailscale-exit)

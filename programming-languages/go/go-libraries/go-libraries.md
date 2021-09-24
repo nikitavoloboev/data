@@ -942,6 +942,7 @@
 - [dot](https://github.com/emicklei/dot) - Go package for writing descriptions using the Graphviz DOT language.
 - [multiline-jsonl](https://github.com/nikolaydubina/multiline-jsonl) - Read and write multiline JSONL in Go.
 - [xdp](https://github.com/asavie/xdp) - Allows one to use XDP sockets from Go.
+- [go-deadlock](https://github.com/sasha-s/go-deadlock) - Online deadlock detection in go.
 
 ## Links
 
