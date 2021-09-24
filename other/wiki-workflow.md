@@ -100,7 +100,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Michael Lubinsky's notes and code snippets](http://mlubinsky.github.io/) ([Code](https://github.com/mlubinsky/mlubinsky.github.com))
 - [Chris Nkinthorn](https://nkintc.gitbook.io/brainless/) ([Code](https://github.com/nkintc/nkintc.github.io))
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
-- [David Gasquez](https://davidgasquez.github.io/handbook/) ([Code](https://github.com/davidgasquez/handbook))
+- [David Gasquez](https://publish.obsidian.md/davidgasquez/Handbook)
 - [Abigail Africa's Notes](https://www.notion.so/Notes-3a56fef72dc94bc28b0804efc789913b)
 - [Sean Breckenridge](https://exobrain.sean.fish/) ([Code](https://github.com/seanbreckenridge/exobrain))
 - [Nat Eliason notes](https://www.nateliason.com/notes)
