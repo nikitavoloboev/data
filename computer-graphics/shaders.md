@@ -50,3 +50,4 @@
 - [Sh4derJockey](https://github.com/slerpyyy/sh4der-jockey) - Tool for shader coding and live performances.
 - [GLSL Linting for VS Code](https://github.com/hsimpson/vscode-glsllint) - Supports linting of GLS (OpenGL Shading Language).
 - [Shadergarden](https://github.com/tonarino/shadergarden) - Create evolving artistic images with hot-code-reloaded Lisp and GLSL. ([Article](https://blog.tonari.no/shadergarden))
+- [Skia shaders in Compose Desktop (2021)](https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html) ([HN](https://news.ycombinator.com/item?id=28636087))

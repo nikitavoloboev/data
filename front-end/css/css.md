@@ -359,3 +359,4 @@
 - [CSS Container Query Units (2021)](https://ishadeed.com/article/container-query-units/)
 - [How I Learnt To Stop Worrying And Love Animating The Box Model (2021)](https://whistlr.info/2021/box-model-animation/)
 - [Shadow Roots and Inheritance (2021)](https://kittygiraudel.com/2021/08/23/shadow-roots-and-inheritance/)
+- [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) - Awesome list limited to the best CSS learning resources.

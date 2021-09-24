@@ -254,6 +254,7 @@
 - [pggen](https://github.com/opendoor/pggen) - Database first code generator focused on postgres. ([Article](https://medium.com/opendoor-labs/announcing-pggen-a-golang-orm-alternative-a34191f614c8))
 - [gosq](https://github.com/sanggonlee/gosq) - Parsing engine for a simplicity-focused, template-based SQL query builder for Go.
 - [pgtype](https://github.com/jackc/pgtype) - Implements Go types for over 70 PostgreSQL types.
+- [scany](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more.
 
 ## ML
 

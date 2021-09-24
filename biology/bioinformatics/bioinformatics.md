@@ -150,3 +150,4 @@
 - [Single-sequence protein structure prediction using language models from deep learning (2021)](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1) ([Code](https://github.com/hypnopump/rgn2-replica))
 - [Robust, Universal Tree Balance Indices (2021)](https://www.biorxiv.org/content/10.1101/2021.08.25.457695v1) ([Tweet](https://twitter.com/robjohnnoble/status/1432656976165617664))
 - [Julia for Biologists (2021)](https://arxiv.org/abs/2109.09973)
+- [Hierarchical Generation of Molecular Graphs using Structural Motifs (2020)](https://arxiv.org/abs/2002.03230) ([Code](https://github.com/wengong-jin/hgraph2graph))
