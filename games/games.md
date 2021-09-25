@@ -119,6 +119,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [shoot_game](https://github.com/akon47/shoot_game) - Game using HTML5 Canvas and Vanilla JavaScript.
 - [Q1K3](https://github.com/phoboslab/q1k3) - Tiny FPS for the 2021 js13k competition.
 - [Swarm](https://github.com/byorgey/swarm) - 2D programming and resource gathering game. ([Article](https://byorgey.wordpress.com/2021/09/23/swarm-preview-and-call-for-collaboration/)) ([Reddit](https://www.reddit.com/r/haskell/comments/pucika/a_new_programming_game_swarm_by_brent_yorgey/))
+- [pacman.zig](https://github.com/floooh/pacman.zig) - Simple Pacman clone written in Zig.
 
 ## Awesome games (other)
 

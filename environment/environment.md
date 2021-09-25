@@ -6,6 +6,7 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 
 - [Over 90% of climate scientists think global warming will be so severe by 2038 or so that we'll hit temperatures shown to be hot enough to wreck the basic crops humanity relies upon for decent survival.](https://twitter.com/ClimateBen/status/1279378054549250059)
 - [If we stop emissions tomorrow, the earth will remain around 1.2C above preindustrial temps. If we get to net-zero emissions by 2060 or so, we can still limit warming to well below 2C.](https://twitter.com/hausfath/status/1327121668851060738)
+- [Don't tell me you are committed to net-zero 2050. Tell me how you plan to reduce emissions by at least 3% of their current value during this year, next year, and every year after that until you actually get to zero.](https://twitter.com/RARohde/status/1441397729381519360)
 
 ## Links
 

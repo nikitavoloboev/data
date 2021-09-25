@@ -316,6 +316,7 @@
 - [I started SaaS companies in 2013 and 2021 – how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/) ([HN](https://news.ycombinator.com/item?id=28601031))
 - [Compound Manual](https://withcompound.com/manual) - Curated library of wealth planning resources for startup founders and employees.
 - [Compound](https://withcompound.com/) - Wealth Management for Startup Founders and Employees.
+- [Five worst mistakes founders do when trying to find product market fit (2021)](https://twitter.com/jwdanner/status/1441076896742068239)
 
 ## Images
 
