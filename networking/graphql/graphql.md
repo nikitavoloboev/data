@@ -237,3 +237,4 @@
 - [Fullstack GraphQL boilerplate using Prisma, envelop, graphql-helix, fastify, nextjs, urql](https://github.com/taneba/fullstack-graphql-app)
 - [graphql-codegen-typescript-fixtures](https://github.com/pocketlesson/graphql-codegen-typescript-fixtures) - Plugin for graphql-code-generator that generates TypeScript fixtures for testing.
 - [Appsync Client](https://github.com/skyhookadventure/appsync-client) - Lightweight Appsync client that signs requests for you (using IAM permissions) - perfect for running on Lambdas or servers.
+- [Lessons learned from running GraphQL at scale (2021)](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb) ([HN](https://news.ycombinator.com/item?id=28650586))
