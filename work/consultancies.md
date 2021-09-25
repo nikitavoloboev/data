@@ -233,3 +233,4 @@
 - [On Deck Freelancers](https://beondeck.com/freelancers)
 - [Ask HN: What is the highest consulting rate that you have come across, in tech? (2021)](https://news.ycombinator.com/item?id=28356047)
 - [Every engineer should do a stint in consulting (2021)](https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint) ([HN](https://news.ycombinator.com/item?id=28546756))
+- [Workshops as Portals (2019)](https://tomcritchlow.com/2019/09/23/workshops/) ([Tweet](https://twitter.com/p_millerd/status/1441715651861565440))

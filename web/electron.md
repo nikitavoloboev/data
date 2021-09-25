@@ -35,3 +35,4 @@
 - [electron/remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [Ask HN: How do you create a cross-platform GUI without using Electron? (2021)](https://news.ycombinator.com/item?id=28484658)
 - [Vite Electron Builder Boilerplate v2](https://github.com/cawa-93/vite-electron-builder) - Secure template for electron applications. Written following the latest safety requirements, recommendations and best practices.
+- [Next.js + Electron](https://github.com/saltyshiomix/nextron)

@@ -12,6 +12,7 @@
 - Tuples are very useful for simulating multiple returns like React hooks, and other combined values that don't need string object keys
 - [TS generics are basically functions that you invoke with <> instead of ()... but without optional _named_ param support... and a lot of other things that I would expect from a "function"](https://twitter.com/tannerlinsley/status/1387806690364465152)
 - [If it’s hard to type via TypeScript, I should probably rethink my design.](https://twitter.com/housecor/status/1422195449277059072)
+- [Properly name your generics. Generics are basically functions you give to developers to create parameterized types.](https://twitter.com/kentcdodds/status/1441504538993696770)
 
 ## Links
 
@@ -180,6 +181,7 @@
 - [Sindre's tsconfig](https://github.com/sindresorhus/tsconfig) - Shared TypeScript config for my projects.
 - [Designing delightful docs with Orta Therox, engineer on Microsoft's TypeScript compiler team (2021)](https://about.sourcegraph.com/podcast/orta-therox/)
 - [tsconfig-to-swcconfig](https://github.com/Songkeys/tsconfig-to-swcconfig) - Convert tsconfig to swc config.
+- [TypeScript to ES Module compiler](https://github.com/tszip/tszip)
 
 ## Images
 

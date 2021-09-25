@@ -58,3 +58,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Tia](https://asktia.com/) - Modern female healthcare — including gynecology services, STI (aka STD testing,) primary care, annual physicals, and more.
 - [The future of weight loss (2021)](https://www.worksinprogress.co/issue/the-future-of-weight-loss/)
 - [Ask HN: How do I get fit and healthy as a software engineer? (2021)](https://news.ycombinator.com/item?id=28561238)
+- [Ask HN: Improving health despite working in a screen-based job (2021)](https://news.ycombinator.com/item?id=28627450)

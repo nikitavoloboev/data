@@ -371,3 +371,5 @@
 - [Authenticated Boot and Disk Encryption on Linux (2021)](http://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html) ([HN](https://news.ycombinator.com/item?id=28627077))
 - [Install Alpine Linux in chroot](https://github.com/alpinelinux/alpine-chroot-install)
 - [btop](https://github.com/aristocratos/btop) - Monitor of resources.
+- [A terminal case of Linux (2021)](https://fasterthanli.me/articles/a-terminal-case-of-linux)
+- [Toybox](https://github.com/landley/toybox) - All-in-one Linux command line. ([HN](https://news.ycombinator.com/item?id=28627433))

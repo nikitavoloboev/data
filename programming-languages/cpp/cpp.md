@@ -3,6 +3,7 @@
 ## Notes
 
 - [C++ is a fucking nightmare. There's 5 ways to do everything, ie because of historical reasons. Endless rules about shit like coercions, etc etc.](https://twitter.com/AdamRackis/status/1441233740248719361)
+- [The popularity of C++ was definitely helped by the 'being wrong on the internet' effect. Every beginner programmer immediately thought they could do a better stdlib/macrothing/buildsystem because everything was wrong but you had the illusion YOU could do it right.](https://twitter.com/rikarends/status/1441675508757024768)
 
 ## Links
 

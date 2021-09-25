@@ -71,3 +71,4 @@
 - [Socialism FAQ](https://dessalines.github.io/essays/socialism_faq.html)
 - [Glossary of Socialist Terms](https://dessalines.github.io/essays/glossary_of_socialist_terms.html)
 - [Marxism Study Plan](https://dessalines.github.io/essays/dessalines_marxism_study_plan.html)
+- [Big Tech turned into accomplices of authoritarian regimes (2021)](https://twitter.com/navalny/status/1441065558267633666)

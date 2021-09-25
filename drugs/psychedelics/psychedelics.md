@@ -128,3 +128,4 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [Magic Mushroom Map](https://www.magicmushroommap.com/) ([HN](https://news.ycombinator.com/item?id=27880733))
 - [Mindbloom](https://www.mindbloom.com/) - Psychedelic Medicine is Here.
 - [Form constant - Wikipedia](https://en.wikipedia.org/wiki/Form_constant)
+- [Most psychoactive book you know (any genre) (2021)](https://twitter.com/sashachapin/status/1441413739886960649)

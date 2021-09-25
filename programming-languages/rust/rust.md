@@ -571,3 +571,5 @@
 - [Optimize Rust binaries size with cargo and Semver (2021)](https://oknozor.github.io/blog/optimize-rust-binary-size/)
 - [GhostCell: Separating Permissions from Data in Rust](https://plv.mpi-sws.org/rustbelt/ghostcell/paper.pdf) ([Code](https://github.com/matthieu-m/ghost-cell)) ([Reddit](https://www.reddit.com/r/rust/comments/p5f78s/ghostcell_separating_permissions_from_data_in_rust/))
 - [Why Rust over C++ (2021)](https://twitter.com/hswolff/status/1441220387778359305)
+- [Rust for Rustaceans by Jon Gjengset (2021)](https://rustacean-station.org/episode/038-jon-gjengset/)
+- [Rustacean Station Podcast](https://rustacean-station.org/) - Community project for creating podcast content for the Rust programming language. ([Twitter](https://twitter.com/rustaceanfm))

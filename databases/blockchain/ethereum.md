@@ -296,3 +296,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Eth-Hooks](https://github.com/scaffold-eth/eth-hooks) - Commonly used Ethereum hooks.
 - [It costs $436 to deploy a smartcontract on Ethereum (2021)](https://twitter.com/eric_khun/status/1440899940453060608) ([HN](https://news.ycombinator.com/item?id=28625485))
 - [POA TokenBridge](https://github.com/poanetwork/tokenbridge) - Allows users to transfer assets between two chains in the Ethereum ecosystem.
+- [Cartesi RISC-V Solidity Emulator](https://github.com/cartesi/machine-solidity-step) - On-chain implementation of the Cartesi Machine.

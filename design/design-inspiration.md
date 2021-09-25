@@ -522,6 +522,7 @@ Here are few more things I liked, design wise.
 - [Rafal Tomal](https://rafaltomal.com/)
 - [Azer Koculu](https://kodfabrik.com/) ([Code](https://github.com/azer/notebook))
 - [Wesley Moore](https://www.wezm.net/v2/)
+- [Stuart Regan](https://www.stuart.re/)
 - [Wesley Aptekar-Cassels](https://blog.wesleyac.com/)
 - [Eric Davidson](https://www.erdavids.com/)
 - [Izaak Meckler](https://parametricity.com/)

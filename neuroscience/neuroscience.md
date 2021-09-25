@@ -79,6 +79,7 @@
 - [NeuralEnsemble](http://neuralensemble.org/) - Community-based initiative to promote and co-ordinate open-source software development in neuroscience. ([Code](https://github.com/NeuralEnsemble))
 - [Fast, Efficient Neural Networks Copy Dragonfly Brains (2021)](https://spectrum.ieee.org/fast-efficient-neural-networks-copy-dragonfly-brains)
 - [How Computationally Complex Is a Single Neuron? (2021)](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/) ([HN](https://news.ycombinator.com/item?id=28393358))
+- [Large-scale neural recordings with single-cell resolution in human cortex using high-density Neuropixels probes (2021)](https://www.biorxiv.org/content/10.1101/2021.06.20.449152v2) ([Tweet](https://twitter.com/patrickmineault/status/1438664877682348033))
 
 ## Images
 
