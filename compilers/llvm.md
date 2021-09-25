@@ -78,3 +78,4 @@
 - [A Journey to Understand LLVM-IR (2021)](https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/#)
 - [Can we directly execute LLVM-IR?](https://news.ycombinator.com/item?id=28052929)
 - [Learning Almost Nothing About LLVM (2021)](https://bellmar.medium.com/learning-almost-nothing-about-llvm-e6aea9b243d9) ([HN](https://news.ycombinator.com/item?id=28438296))
+- [Whole Program LLVM in Go](https://github.com/SRI-CSL/gllvm) - Drop-in replacement for wllvm, that builds the bitcode in parallel, and is faster.

@@ -5,6 +5,7 @@
 - `$_` holds the previous result in the console. So you can do `$_.something(..)` to access the returned object items.
 - [In DevTools hold shift while hovering over a request and it will highlight the initiator in green and dependencies in red](https://twitter.com/addyosmani/status/1260479896888975362)
 - Pressing Ctrl + Space in Dev Tools Network filter search will give useful filters for requests. In Console it will give autosuggestions.
+- [Can use Chrome DevTools in iOS Safari 15 via the JSBox app](https://twitter.com/Baconbrix/status/1441840354563530756)
 
 ## Links
 

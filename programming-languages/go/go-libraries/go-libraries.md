@@ -82,6 +82,7 @@
 
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance.
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management.
+- [Authz](https://github.com/gin-contrib/authz) - Authorization middleware for Gin.
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin Framework.
 - [gin-timeout](https://github.com/gin-contrib/timeout) - Timeout middleware for Gin.
 - [gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger.
@@ -948,6 +949,7 @@
 - [algo2](https://github.com/tdakkota/algo2) - Algorithms written using go2go.
 - [go-streams](https://github.com/jucardi/go-streams) - Stream Collections for Go. Inspired in Java 8 Streams and .NET Linq.
 - [more](https://github.com/bcmills/more) - Plausible additions to Go standard library packages.
+- [Queue](https://github.com/golang-queue/queue) - Go library for spawning and managing a Goroutine pool, Allowing you to create multiple worker according to limit CPU number of machine.
 
 ## Links
 

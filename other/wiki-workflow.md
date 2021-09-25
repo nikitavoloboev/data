@@ -390,3 +390,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Noteship](https://noteship.com/) - Local-first notes app for Mac, with data longevity in mind. ([HN](https://news.ycombinator.com/item?id=28617596))
 - [zk](https://github.com/mickael-menu/zk) - Plain text note-taking assistant.
 - [Why you need a "WTF Notebook"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
+- [Taio](https://taio.app/) - Markdown editor and text actions for iPhone, iPad, and Mac. ([Twitter](https://twitter.com/TaioApp))
