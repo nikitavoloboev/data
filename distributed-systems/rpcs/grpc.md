@@ -55,3 +55,4 @@
 - [API Client Generator for Go](https://github.com/googleapis/gapic-generator-go) - Generator for protocol buffer described APIs for and in Go.
 - [GAPIC Showcase](https://github.com/googleapis/gapic-showcase) - API that demonstrates Generated API Client (GAPIC) features and common API patterns used by Google.
 - [gnostic gRPC plugin](https://github.com/google/gnostic-grpc) - Gnostic plugin that converts an OpenAPI API description into a description of a gRPC service that can be used to implement that API using gRPC-JSON Transcoding.
+- [nrtSearch](https://github.com/Yelp/nrtsearch) - High performance gRPC server, with optional REST APIs on top of Apache Lucene.

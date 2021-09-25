@@ -133,3 +133,4 @@
 - [Pytorch implementation of DCGAN, WGAN-CP, WGAN-GP](https://github.com/Zeleni9/pytorch-wgan)
 - [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://github.com/yangxy/GPEN)
 - [Instance-Conditioned GAN (2021)](https://arxiv.org/abs/2109.05070) ([Code](https://github.com/facebookresearch/ic_gan))
+- [PyTorch Pretrained GANs](https://github.com/lukemelas/pytorch-pretrained-gans) - StyleGAN2, BigGAN, BigBiGAN, SAGAN, SNGAN, SelfCondGAN, and more.
