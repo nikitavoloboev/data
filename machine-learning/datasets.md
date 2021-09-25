@@ -112,3 +112,4 @@
 - [Small Open Datasets](https://github.com/onramper/small-open-datasets) - Collection of automatically-updated, ready-to-use and open-licensed datasets.
 - [DataQA](https://github.com/dataqa/dataqa) - Labelling platform for text using distant supervision.
 - [COCO - Common Objects in Context](https://cocodataset.org/#home) - Large-scale object detection, segmentation, and captioning dataset. ([API](https://github.com/cocodataset/cocoapi))
+- [img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.

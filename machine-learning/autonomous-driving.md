@@ -42,3 +42,4 @@
 - [XVIZ](https://github.com/uber/xviz) - Protocol for real-time transfer and visualization of autonomy data.
 - [SemanticKITTI](http://semantic-kitti.org/) - Dataset for LiDAR-based Semantic Scene Understanding.
 - [SemanticKITTI API](https://github.com/PRBonn/semantic-kitti-api) - Helper scripts to open, visualize, process, and evaluate results for point clouds and labels from the SemanticKITTI dataset.
+- [Tesla Safety Score](https://www.tesla.com/support/safety-score) - Assessment of your driving behavior based on five metrics called Safety Factors.

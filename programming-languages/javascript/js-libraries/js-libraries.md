@@ -604,6 +604,7 @@
 - [Atrament](https://github.com/jakubfiala/atrament.js) - Small JS library for beautiful drawing and handwriting on the HTML Canvas. ([Web](https://www.fiala.space/atrament.js/demo/))
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 - [paintvec](https://github.com/seanchas116/paintvec) - JavaScript 2D vector math library.
+- [Audio Recorder Polyfill](https://github.com/ai/audio-recorder-polyfill) - MediaRecorder polyfill to record audio in Edge and Safari.
 
 ## Links
 

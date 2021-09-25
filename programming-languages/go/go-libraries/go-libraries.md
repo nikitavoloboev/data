@@ -45,6 +45,7 @@
 - [promptkit](https://github.com/erikgeiser/promptkit) - Interactive command line prompts with style.
 - [pty](https://github.com/creack/pty) - PTY interface for Go.
 - [Nice](https://github.com/SuperPaintman/nice) - Highly customizable and lightweight Go CLI app framework.
+- [Conf](https://github.com/ardanlabs/conf) - Support for using environmental variables and command line arguments for configuration.
 
 ## Test
 
