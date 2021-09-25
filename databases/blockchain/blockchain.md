@@ -233,3 +233,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Nervos Network](https://www.nervos.org/) - Universal Passport to Blockchain. ([Twitter](https://twitter.com/NervosNetwork)) ([GitHub](https://github.com/nervosnetwork))
 - [Neuron](https://github.com/nervosnetwork/neuron) - Nervos CKB Full-Node Desktop Wallet.
 - [Optics](https://github.com/celo-org/optics-monorepo) - Cross-chain communication system. Handles passing raw buffers between blockchains cheaply, and with minimal fuss.
+- [DappTools Resources](https://github.com/rajivpo/awesome-dapptools)

@@ -17,6 +17,7 @@
 ## Test
 
 - [TS auto mock](https://github.com/Typescript-TDD/ts-auto-mock) - Typescript transformer to unlock automatic mock creation for interfaces and classes.
+- [intermock](https://github.com/google/intermock) - Mocking library to create mock objects and JSON for TypeScript interfaces via Faker.
 
 ## Other
 

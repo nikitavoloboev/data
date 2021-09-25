@@ -100,6 +100,7 @@
 - [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library.
 - [Melrōse](https://github.com/emicklei/melrose) - Interactive programming of melodies, producing MIDI.
 - [Jfxr](https://jfxr.frozenfractal.com/) - Browser-based tool to create sound effects for games. ([Code](https://github.com/ttencate/jfxr))
+- [Mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata.
 
 ## Inspiration
 
