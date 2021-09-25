@@ -155,3 +155,4 @@
 - [Nrtsearch: Yelp’s Fast, Scalable and Cost Effective Search Engine (2021)](https://engineeringblog.yelp.com/2021/09/nrtsearch-yelps-fast-scalable-and-cost-effective-search-engine.html)
 - [MacroBase](https://github.com/stanford-futuredata/macrobase) - Data analytics tool that prioritizes attention in large datasets using machine learning. ([Web](https://macrobase.stanford.edu/))
 - [Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering) - Want to build or improve a search experience? Start here.
+- [site-search](https://github.com/Janpot/site-search) - Lightweight self-hosted alternative to DocSearch. Will run your website locally, crawl its pages and index their content in a lunr index.

@@ -42,3 +42,4 @@
 - [GitHub Actions for Firebase](https://github.com/w9jds/firebase-action) - Enables arbitrary actions with the firebase command-line client.
 - [React Query Firebase](https://github.com/invertase/react-query-firebase) - React Query hooks for Firebase.
 - [Next.js serverless PWA with Firebase and React Hooks](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate)
+- [Firebase Admin Node.js SDK](https://github.com/firebase/firebase-admin-node)
