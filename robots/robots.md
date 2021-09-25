@@ -98,3 +98,5 @@
 - [RaiSim](https://raisim.com/) - Cross-platform multi-body physics engine for robotics and AI. ([Code](https://github.com/raisimTech/raisimLib))
 - [Photogrammetry & Robotics Bonn](https://www.ipb.uni-bonn.de/) ([GitHub](https://github.com/PRBonn))
 - [Crocoddyl](https://github.com/loco-3d/crocoddyl) - Efficient and Versatile Framework for Multi-Contact Optimal Control (ICRA). ([Web](https://cmastalli.github.io/publications/crocoddyl20icra.html))
+- [CLIPort: What and Where Pathways for Robotic Manipulation (2021)](https://cliport.github.io/) ([Code](https://github.com/cliport/cliport))
+- [Differentiable and learnable robot model](https://github.com/facebookresearch/differentiable-robot-model) - Implements computations such as forward kinematics and inverse dynamics, in a fully differentiable way.

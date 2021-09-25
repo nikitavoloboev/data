@@ -250,3 +250,4 @@
 - [So you want to mock an API (2021)](https://www.getsynth.com/docs/blog/2021/09/07/mocking-a-production-api)
 - [API Star](https://github.com/encode/apistar) - Toolkit for working with OpenAPI or Swagger schemas. ([Docs](https://docs.apistar.com/))
 - [RapiDoc](https://mrin9.github.io/RapiDoc/) - Custom-Element for OpenAPI Spec. Create beautiful, customizable, interactive API documentation from OpenAPI Specification. ([Code](https://github.com/mrin9/RapiDoc))
+- [Appwrite](https://appwrite.io/) - Open-Source End-to-End Backend Server. ([Code](https://github.com/appwrite/appwrite))

@@ -78,3 +78,4 @@
 - [Chibisafe](https://chibisafe.moe/) - Blazing fast file uploader and awesome bunker written in node. ([Code](https://github.com/WeebDev/chibisafe))
 - [OnlyFiles](https://onlyfiles.cc/) - Media file sharing service.
 - [Faster File Distribution with HDFS and S3 (2019)](https://tech.marksblogg.com/faster-file-distribution-hadoop-hdfs-s3.html)
+- [LuminS](https://github.com/wchang22/LuminS) - Fast and reliable alternative to rsync for synchronizing local files.

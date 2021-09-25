@@ -48,3 +48,4 @@
 - [Different techniques for order-independent transparency in Vulkan](https://github.com/nvpro-samples/vk_order_independent_transparency)
 - [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library. ([Web](https://gpuopen.com/vulkan-memory-allocator/)) ([HN](https://news.ycombinator.com/item?id=27903884))
 - [Simplified Vulkan Synchronization](https://github.com/Tobski/simple_vulkan_synchronization) - Single-header library with a simplified interface for Vulkan synchronization.
+- [Samples to illustrate Vulkan API on Android](https://github.com/googlesamples/android-vulkan-tutorials)

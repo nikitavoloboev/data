@@ -2,6 +2,7 @@
 
 ## Example sites
 
+- [NextJS + Supabase Instagram Clone](https://github.com/thomas-coldwell/nextjs-supabase-instagram-clone)
 - [Tottem](https://github.com/poulainv/tottem) - Library management made social. Built with NextJS/TailwindCSS/TS/Prisma.
 - [OctoLinker site](https://github.com/OctoLinker/octolinker.now.sh)
 - [Syntax.fm](https://github.com/wesbos/Syntax)

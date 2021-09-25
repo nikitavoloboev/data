@@ -208,7 +208,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [24 ways](https://24ways.org/) - Web design and development articles and tutorials for advent.
 - [dvlp](https://github.com/popeindustries/dvlp) - No-configuration, no-conditionals, no-middleware, no-nonsense dev server toolkit to help you develop quickly and easily for the web.
 - [mdn.dev](https://mdn.dev/) - Resources for developers, by developers. ([Code](https://github.com/mdn/yari)) ([Article](https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/)) ([HN](https://news.ycombinator.com/item?id=25429518))
-- [Modern Web](https://modern-web.dev/) - Guides, tools and libraries for modern web development. ([Code](https://github.com/modernweb-dev/web))
+- [Modern Web](https://modern-web.dev/) - Guides, tools and libraries for modern web development. ([Code](https://github.com/modernweb-dev/web)) ([Twitter](https://twitter.com/modern_web_dev))
 - [StumblingOn](https://stumblingon.com/) - Randomly find indie websites. ([HN](https://news.ycombinator.com/item?id=25461367))
 - [Web Dev Server](https://modern-web.dev/docs/dev-server/overview/) - Helps developing for the web, using native browser features like es modules.
 - [The birth of the Web](https://home.cern/science/computing/birth-web) ([HN](https://news.ycombinator.com/item?id=25485651))
@@ -308,3 +308,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Sunil Pai: React and the Meta of the Web (2021)](https://www.youtube.com/watch?v=H3h1WICelqs) ([Tweet](https://twitter.com/swyx/status/1439702355553886211))
 - [vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins. Useful for debugging and authoring plugins.
 - [Local Storage vs Cookies](https://stackoverflow.com/questions/3220660/local-storage-vs-cookies)
+- [Web Test Runner](https://modern-web.dev/docs/test-runner/overview/) - Test runner for web applications.

@@ -383,3 +383,5 @@
 - [Pri3D: Can 3D Priors Help 2D Representation Learning? (2021)](https://arxiv.org/abs/2104.11225) ([Code](https://github.com/Sekunde/Pri3D))
 - [FaceXLib](https://github.com/xinntao/facexlib) - Aims at providing ready-to-use face-related functions based on current STOA open-source methods.
 - [MMAction2](https://github.com/open-mmlab/mmaction2) - Open-source toolbox for video understanding based on PyTorch.
+- [Awesome Collision Detection](https://github.com/jslee02/awesome-collision-detection)
+- [Video Super-Resolution Transformer (2021)](https://arxiv.org/abs/2106.06847) ([Code](https://github.com/caojiezhang/VSR-Transformer))

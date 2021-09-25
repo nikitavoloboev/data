@@ -52,3 +52,4 @@
 - [Random proofs in Idris, Agda, and Coq](https://github.com/ionathanch/scraps)
 - [Katla](https://github.com/ohad/katla) - LaTeX code listing generator for Idris2.
 - [ITT in Idris](https://github.com/ziman/itt-idris) - Quantified dependent calculus with inference of all modalities, implemented in Idris 2.
+- [idris-data-frame](https://github.com/ziman/idris-data-frame) - Data frames for Idris 2.
