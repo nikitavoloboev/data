@@ -79,6 +79,7 @@
 - [next-api-decorators](https://github.com/storyofams/next-api-decorators) - Collection of decorators to create typed Next.js API routes, with easy request validation and transformation.
 - [Next.js + Linaria](https://github.com/Mistereo/next-linaria)
 - [nextjs-multi-domain-locale](https://github.com/tomsoderlund/nextjs-multi-domain-locale) - Hosting multiple domains on the same Next.js site (while maintaining multiple languages and SSG).
+- [next-rpc](https://github.com/Janpot/next-rpc) - Makes exported functions from API routes accessible in the browser. Just import your API function and call it anywhere you want.
 
 ## Notes
 

@@ -34,3 +34,4 @@
 - [A Survey on Neural Speech Synthesis (2021)](https://arxiv.org/abs/2106.15561)
 - [Binaural Speech Synthesis](https://github.com/facebookresearch/BinauralSpeechSynthesis) - Code to train a mono-to-binaural neural sound renderer.
 - [NN-SVS](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research.
+- [Larynx](https://github.com/rhasspy/larynx) - End to end text to speech system using gruut and onnx, 50 voices, 9 languages.

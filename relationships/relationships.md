@@ -121,3 +121,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Rethinking infidelity ... a talk for anyone who has ever loved | Esther Perel (2015)](https://www.youtube.com/watch?v=P2AUat93a8Q)
 - [The secret to desire in a long-term relationship | Esther Perel](https://www.youtube.com/watch?v=sa0RUmGTCYY)
 - [Suggestions for books to improve my relationships with women and what healthy relationships with women look like (romantic relationships) (2021)](https://www.reddit.com/r/suggestmeabook/comments/piznz5/suggestions_for_books_to_improve_my_relationships/)
+- [Pure](https://pure.app/) - Shameless dating app.

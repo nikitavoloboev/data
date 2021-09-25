@@ -207,3 +207,5 @@
 - [Debug symbols for binaries with Nix (2021)](http://rski.github.io/2021/09/05/nix-debugging.html)
 - [Ditch your version manager and use Nix (2021)](https://juliu.is/ditch-your-version-manager/) ([Lobsters](https://lobste.rs/s/emyfhx/ditch_your_version_manager)) ([HN](https://news.ycombinator.com/item?id=28565072))
 - [Advanced shell packaging: resholve YADM's nixpkg (2021)](https://t-ravis.com/post/nix/advanced_shell_packaging_resholve_yadm/)
+- [nix-parsec](https://github.com/nprindle/nix-parsec) - Parser combinators in Nix.
+- [nix-prefetch-github](https://github.com/seppeljordan/nix-prefetch-github) - Prefetch sources from github for nix build tool.

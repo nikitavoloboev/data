@@ -172,6 +172,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
 - [Mural](https://mural.co/) - Digital workspace for visual collaboration.
 - [Formspree](https://formspree.io/) - Custom Forms with No Server Code.
+- [Imperial](https://imperialb.in/) - Code/text sharing site with the user experience in mind, it has feautures such as editing, encryption and integration with github gists and discord. ([Code](https://github.com/imperialbin/imperial))
 - [Slapdash](https://slapdash.com/) - Brings all your apps together in one place to give you new superpowers.
 - [Tiny Letter](https://tinyletter.com)
 - [Airy](https://airy.co/) - Open Source Conversational Platform. ([HN](https://news.ycombinator.com/item?id=27446200))

@@ -175,3 +175,4 @@
 - [The Descent to C (2013)](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) ([HN](https://news.ycombinator.com/item?id=28378627))
 - [Progress on C23 (2021)](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting) ([HN](https://news.ycombinator.com/item?id=28423793)) ([Lobsters](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting))
 - [pycparser](https://github.com/eliben/pycparser) - Complete C99 parser in pure Python.
+- [PackCC](https://github.com/arithy/packcc) - Parser generator for C.

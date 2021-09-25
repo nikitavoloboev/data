@@ -25,3 +25,4 @@
 - [Errbot](https://github.com/errbotio/errbot) - Chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation. ([Docs](https://errbot.readthedocs.io/en/latest/))
 - [Secret Santa App](https://secret-santa.team/) - Secret Santa bot for your Slack, Discord or Zoom.us team. ([Code](https://github.com/jolicode/secret-santa))
 - [Kairon](https://github.com/digiteinfotech/kairon) - Tool suite built on RASA to train and deploy your chatbots using advanced NLP.
+- [Xene](https://github.com/dempfi/xene) - Modern library with simple API to build great conversational bots.
