@@ -103,3 +103,4 @@
 - [QWIRE](https://github.com/inQWIRE/QWIRE) - Quantum circuit language and formal verification tool.
 - [Awesome Post Quantum](https://github.com/veorq/awesome-post-quantum) - Curated list of resources about post-quantum cryptography.
 - [Qrack](https://github.com/vm6502q/qrack) - Comprehensive, GPU accelerated framework for developing universal virtual quantum processors.
+- [Quantum Computer-Aided design of Quantum Optics Hardware (2020)](https://arxiv.org/abs/2006.03075) ([Article](https://www.scientificamerican.com/article/ai-designs-quantum-physics-experiments-beyond-what-any-human-has-conceived/))

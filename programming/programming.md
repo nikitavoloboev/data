@@ -58,6 +58,7 @@
 - [We should have "code walkthrough" meetings, where someone who knows an aspect of the codebase explains how it works to everyone else. No PRs reviewed, no decisions made, just knowledge transfer.](https://twitter.com/hillelogram/status/1424109751659638793)
 - [You should own your core competencies.](https://lobste.rs/s/uxgclp/benefit_dependency_is_inversely)
 - [If you write software that shows errors to users (so, software) please, do everyone including yourself a favor and keep some way of figuring out the causal chain that drove a certain decision by your program.](https://twitter.com/ekuber/status/1441430291739029505)
+- [Don’t build software systems “to last”: we humans are terrible at predicting what changes we’ll need to make in the future. Instead, develop expertise at replacing systems. You know for sure you’ll need to replace it, so replace often, you’ll get better at it!](https://twitter.com/generativist/status/1441535261255421953)
 
 ## Links
 
