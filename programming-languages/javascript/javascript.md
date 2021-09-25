@@ -11,6 +11,7 @@
 - [Periodic reminder that `await import('//dev.jspm.io/[pkg]')` allows you to import anything from npm in the browser instantly. I often use this in the console to test things out.](https://twitter.com/guybedford/status/1202022281633030145)
 - [Between typescript and prettier, there is very little justification for eslint.](https://twitter.com/mweststrate/status/1296437898330419209)
 - [JS proxy can observe a nested object for changes made to it. That means there's none of the traditional selecting or diffing.](https://twitter.com/0xca0a/status/1328756186288713730)
+- [One optimization that turned out well: storing JavaScript strings as either UTF-16 or UTF-8, depending on whats inside. It turns out this is also what JavaScript engines do, so it makes converting from a string in a JavaScript VM to a string in Bun's AST fast.](https://twitter.com/jarredsumner/status/1441876861106024449)
 
 ## Links
 

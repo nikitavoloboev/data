@@ -60,3 +60,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [How to build nice company culture (in Russian) (2021)](https://twitter.com/the2pizza/status/1388478059519651845)
 - [Conscious Culture](https://conscious.org/) - Bridging Humanity with Execution.
 - [Protopia Futures Framework (2021)](https://medium.com/protopia-futures/protopia-futures-framework-f3c2a5d09a1e)
+- [Tesla's values (2021)](https://twitter.com/MichaelRihani/status/1441854910442586118)

@@ -2,7 +2,7 @@
 
 ## Notes
 
-- [Figuring out correctly when/what to escalate to a human would change customer service more than anything else I think.](https://twitter.com/_abhisheksankar/status/1441793453864620044)
+- [Figuring out correctly when/what to escalate to a human would change customer service more than anything else.](https://twitter.com/_abhisheksankar/status/1441793453864620044)
 
 ## Links
 

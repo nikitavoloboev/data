@@ -100,3 +100,4 @@
 - [Mobile Buy SDK](https://github.com/Shopify/mobile-buy-sdk-ios) - Makes it easy to create custom storefronts in your mobile app, where users can buy products using Apple Pay or their credit card.
 - [Active Merchant](https://github.com/activemerchant/active_merchant) - Simple payment abstraction library extracted from Shopify.
 - [Redbubble](https://www.redbubble.com/) - Awesome products designed by independent artists.
+- [Ask HN: What is going wrong at Amazon? (2021)](https://news.ycombinator.com/item?id=28655917)
