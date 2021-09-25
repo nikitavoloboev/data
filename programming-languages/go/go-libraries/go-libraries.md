@@ -950,6 +950,7 @@
 - [go-streams](https://github.com/jucardi/go-streams) - Stream Collections for Go. Inspired in Java 8 Streams and .NET Linq.
 - [more](https://github.com/bcmills/more) - Plausible additions to Go standard library packages.
 - [Queue](https://github.com/golang-queue/queue) - Go library for spawning and managing a Goroutine pool, Allowing you to create multiple worker according to limit CPU number of machine.
+- [glg](https://github.com/kpango/glg) - Simple and blazing fast lockfree logging library for Go.
 
 ## Links
 
