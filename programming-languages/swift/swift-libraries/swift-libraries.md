@@ -334,6 +334,7 @@
 - [Containers](https://github.com/SwiftUI-Plus/Containers) - Useful SwiftUI container view's. FittingGeometry, ScrollableView, LayoutReader, PageView, UIKitView. (iOS).
 - [BindingKit](https://github.com/mkj-is/BindingKit) - Set of handy additions to the basic SwiftUI Binding type.
 - [Stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
+- [AlertKit](https://github.com/rebeloper/AlertKit) - SwiftUI alerts (and action sheets) done right.
 
 ## Test
 

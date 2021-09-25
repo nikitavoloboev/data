@@ -2,6 +2,7 @@
 
 ## Examples of nice docs
 
+- [Next MDX](https://www.next-mdx.org/)
 - [Algolia Docs](https://www.algolia.com/doc/)
 - [Cloudflare Workers](https://developers.cloudflare.com/workers/) ([Code](https://github.com/cloudflare/workers-docs-engine)) ([Article](https://blog.cloudflare.com/new-and-improved-workers-docs/))
 - [Cloudflare Docs](https://developers.cloudflare.com/docs/) - Nice overview page. ([Code](https://github.com/cloudflare/cloudflare-docs))

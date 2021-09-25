@@ -93,3 +93,4 @@
 - [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components on-demand universally.
 - [Fontaudio](https://github.com/fefanto/fontaudio) - Icon toolkit for audio developers.
 - [Font-GIS](https://github.com/Viglino/font-gis) - Icon font set for use with GIS and spatial analysis tools. ([Web](https://viglino.github.io/font-gis/))
+- [Meteocons](https://basmilius.github.io/weather-icons/) - Free to use animated weather icons. ([Code](https://github.com/basmilius/weather-icons))
