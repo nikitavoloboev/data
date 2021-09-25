@@ -201,6 +201,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 
 - [Don't waste energy chasing fancy tools and methodologies without already having a simple workflow in place. Once you have a good idea of what works for you, then introduce tools designed to make your life easier.](https://news.ycombinator.com/item?id=24251068)
 - [Reading without taking notes is useless.](https://twitter.com/anthilemoon/status/1261991953593401346)
+- [Feed your personal wiki into GTP-3 to automatically answer emails/..](https://twitter.com/maccaw/status/1441773166079184896)
 
 ## Links
 

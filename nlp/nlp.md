@@ -1,5 +1,9 @@
 # Natural language processing
 
+## Notes
+
+- [Figuring out correctly when/what to escalate to a human would change customer service more than anything else I think.](https://twitter.com/_abhisheksankar/status/1441793453864620044)
+
 ## Links
 
 - [SpaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) with Python and Cython. ([HN: SpaCy 3.0 (2021)](https://news.ycombinator.com/item?id=25988702))

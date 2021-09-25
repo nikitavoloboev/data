@@ -77,3 +77,4 @@
 - [Helium](https://www.helium.com/) - Peer-to-peer wireless network. ([Twitter](https://twitter.com/helium)) ([Summary](https://twitter.com/MessariCrypto/status/1438512856199139336))
 - [Lokinet](https://github.com/oxen-io/lokinet) - Anonymous, decentralized and IP based overlay network for the internet. ([Web](https://lokinet.org/))
 - [Project Liberty](https://www.projectliberty.io/) - Building a more equitable civic architecture for the next generation of the web. ([GitHub](https://github.com/LibertyDSNP))
+- [The role of decentralization, China/US break down & more with Bestie Guestie Balaji Srinivasan (2021)](https://www.youtube.com/watch?v=B2iNXMiGEms) ([Tweet](https://twitter.com/balajis/status/1441632885643960321))
