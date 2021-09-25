@@ -189,6 +189,7 @@
 - [MGCleanArchitecture](https://github.com/tuan188/MGCleanArchitecture) - Clean Architecture with RxSwift & MVVM - Templates and Solutions.
 - [Bauletto](https://github.com/gianpispi/Bauletto) - Display iOS 13 style banner with ease.
 - [SPIndicator](https://github.com/ivanvorobei/SPIndicator) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts.
+- [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - iOS framework for creating forms.
 
 ## macOS
 

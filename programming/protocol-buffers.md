@@ -41,3 +41,4 @@
 - [protolock](https://github.com/nilslice/protolock) - Track your .proto files and prevent changes to messages and services which impact API compatibility.
 - [Protocol Buffers + Docker](https://github.com/TheThingsIndustries/docker-protobuf) - Lightweight protoc Docker image.
 - [pprofutils](https://github.com/felixge/pprofutils) - Command line utilities for converting pprof files to Brendan Gregg's folded text format (output by his stackcollapse scripts) and vice versa.
+- [Protoman](https://github.com/spluxx/Protoman) - Postman-like API client for protobuf-based messages.
