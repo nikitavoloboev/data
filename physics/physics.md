@@ -242,3 +242,6 @@
 - [Why can’t I go faster than the speed of light? (2009)](https://gravityandlevity.wordpress.com/2009/04/08/why-cant-i-go-faster-than-the-speed-of-light-hints-from-electrodynamics/) ([HN](https://news.ycombinator.com/item?id=28502084))
 - [How can electrons be “topological”? (2020)](https://gravityandlevity.wordpress.com/2020/07/14/how-can-electrons-be-topological/)
 - [Scientists Create Matter From Pure Light, Proving the Breit-Wheeler Effect (2021)](https://science-news.co/scientists-create-matter-from-pure-light-proving-the-breit-wheeler-effect/) ([Reddit](https://www.reddit.com/r/Physics/comments/pnqvwd/scientists_create_matter_from_pure_light_proving/)) ([HN](https://news.ycombinator.com/item?id=28521970))
+- [Physics for Engineers and Scientists Book (2003)](https://www.goodreads.com/book/show/789047.Physics_for_Scientists_and_Engineers)
+- [UC Berkeley: PHYS 10 - Physics for Future Presidents (2017)](https://www.youtube.com/playlist?list=PLaLOVNqqD-2Ep5N9os9jWMSkxK_TLki9h)
+- [New to Physics resources (2021)](https://www.reddit.com/r/Physics/comments/pv2i02/new_to_physics/)
