@@ -134,4 +134,4 @@
 - [Cloud Infrastructure as SQL](https://www.iasql.com/) ([HN](https://news.ycombinator.com/item?id=28554089))
 - [SQL Explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries.
 - [fsql](https://github.com/kashav/fsql) - Find files with SQL.
-- [A single person answered 76,229 questions about SQL on StackOverflow](https://stackoverflow.com/nocaptcha?s=f29968b0-76eb-45d9-8d63-95c38f69a4a4) ([HN](https://news.ycombinator.com/item?id=28642326))
+- [A single person answered 76,229 questions about SQL on StackOverflow](https://stackoverflow.com/nocaptcha?s=f29968b0-76eb-45d9-8d63-95c38f69a4a4) ([HN](https://news.ycombinator.com/item?id=28642326)) ([Reddit](https://www.reddit.com/r/programming/comments/puok1h/a_single_person_answered_76k_questions_about_sql/))

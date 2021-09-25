@@ -94,6 +94,7 @@
 - [Ancient Egypt, summarised](https://twitter.com/CSMFHT/status/1333344550866231302)
 - [I Like That The Boat Is Stuck (2021)](https://stone-soup.ghost.io/archive/i-like-that-the-boat-is-stuck/)
 - [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
+- [hello-world.rs](https://github.com/mTvare6/hello-world.rs)
 - [Every academic submitting work done in lockdown](https://twitter.com/salisbot/status/1379876646740713475)
 - [How Asian Parents Flex](https://www.youtube.com/watch?v=CIMmK86vNYo)
 - [Existential Crisis Cat](https://www.youtube.com/watch?v=pBjU3Ii7lfs)

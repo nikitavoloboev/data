@@ -132,3 +132,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [node-chess](https://github.com/brozeph/node-chess) - Algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated).
 - [Mathematician Answers Chess Problem About Attacking Queens (2021)](https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/) ([HN](https://news.ycombinator.com/item?id=28605220))
 - [Micro-Max](https://home.hccnet.nl/h.g.muller/max-src2.html) - 133-line Chess Source. ([HN](https://news.ycombinator.com/item?id=28621143))
+- [Grandmaster Solves Master-Level Puzzles (2021)](https://www.youtube.com/watch?v=NpJfOYoEUK4)

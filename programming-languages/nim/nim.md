@@ -30,3 +30,4 @@
 - [Nim 2.0 thoughts (2021)](https://forum.nim-lang.org/t/7983) ([HN](https://news.ycombinator.com/item?id=27165366))
 - [Nim RFCs](https://github.com/nim-lang/RFCs)
 - [Nim: Efficient, Expressive, Elegant - Comparing these Aspects (2021)](https://nim-lang.org/blog/2021/07/28/Nim-Efficient-Expressive-Elegant-Benchmarking.html)
+- [Why I Use Nim instead of Python for Data Processing (2021)](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/) ([HN](https://news.ycombinator.com/item?id=28626947))
