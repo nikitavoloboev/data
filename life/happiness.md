@@ -82,3 +82,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [The roadmap to happiness as a man](https://twitter.com/SaveYourSons/status/1419295686072446986)
 - [Why is being stagnant in life so frowned upon by today's society?](https://www.reddit.com/r/NoStupidQuestions/comments/owbk2t/why_is_being_stagnant_in_life_so_frowned_upon_by/)
 - [The art of not taking things personally (2021)](https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172) ([HN](https://news.ycombinator.com/item?id=28369727))
+- [One small thing](https://ava.substack.com/p/one-small-thing) ([Tweet](https://twitter.com/startingfromnix/status/1441562115249037312))

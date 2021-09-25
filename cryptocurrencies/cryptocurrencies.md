@@ -132,3 +132,5 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [The risks of staking for the long-term crypto environment (2021)](https://www.reddit.com/r/CryptoTechnology/comments/pnzv9o/the_risks_of_staking_for_the_longterm_crypto/)
 - [WalletLink](https://www.walletlink.org/#/) - Open protocol that lets users connect their mobile crypto wallets to your DApp.s ([Code](https://github.com/walletlink/walletlink))
 - [Bity](https://bity.com/) - Buy, sell, and trade crypto. ([GitHub](https://github.com/BitySA))
+- [The SEC is threatening Coinbase to protect the public - But NOT in the way that you think (2021)](https://twitter.com/ojuice_eth/status/1441406498186227720)
+- [Companies hiring in crypto (2021)](https://twitter.com/thebengoldberg/status/1441460405495234562)

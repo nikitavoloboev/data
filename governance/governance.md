@@ -19,6 +19,7 @@
 - [It's a common tactic of authoritarian governments. Criminalize normal behavior, don't enforce it so people get used to breaking said law as a matter of habit. Then when you need someone gone or discredited you just arrest them for any of the numerous crimes averages citizens commit everyday.](https://www.reddit.com/r/worldnews/comments/ppuuf6/under_pressure_from_russian_government_google/)
 - [The violence built into the system never counts as violence. But the violence of resistance is always considered violence.](https://twitter.com/zapatistarising/status/1439348242131689482)
 - [DAOs are perfectly designed tech brain VC bait. Imagine if we could replace the gross messy human business of making decisions with a system of clean computed votes cast by perfectly rational actors with compatible incentive systems. on the blockchain](https://twitter.com/isosteph/status/1441437320289341445)
+- [In DAOs, we often conflate leadership with centralization. The reality is decentralization comes from having many leaders, not zero leaders. To optimize for decentralization, DAOs need to create many pathways for contributors to become leaders.](https://twitter.com/chaserchapman/status/1441458730277629958)
 
 ## Links
 

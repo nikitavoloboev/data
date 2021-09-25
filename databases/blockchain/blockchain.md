@@ -234,3 +234,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Neuron](https://github.com/nervosnetwork/neuron) - Nervos CKB Full-Node Desktop Wallet.
 - [Optics](https://github.com/celo-org/optics-monorepo) - Cross-chain communication system. Handles passing raw buffers between blockchains cheaply, and with minimal fuss.
 - [DappTools Resources](https://github.com/rajivpo/awesome-dapptools)
+- [Decentology](https://www.decentology.com/) - Build composable apps in under 15 mins on Ethereum, Flow, Solana, Polygon & more. ([Twitter](https://twitter.com/decentology))
