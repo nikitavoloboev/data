@@ -761,6 +761,7 @@
 - [Runtime Issues](https://github.com/rpwachowski/runtime-issues) - Trigger runtime issues from your code during development or debugging.
 - [Link Previewer](https://github.com/LeonardoCardoso/SwiftLinkPreview) - Makes a preview from an URL, grabbing all the information such as title, relevant texts and images.
 - [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) - Swift Package to easily play YouTube videos.
+- [Then](https://github.com/devxoul/Then) - Super sweet syntactic sugar for Swift initializers.
 
 ## Other (not lib)
 

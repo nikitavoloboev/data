@@ -209,6 +209,7 @@ Here are few more things I liked, design wise.
 - [Max Böck](https://mxb.dev/) ([Code](https://github.com/maxboeck/mxb))
 - [Amie Chen](https://www.amie-chen.com/)
 - [Arun Venkatesan](https://www.arun.is/)
+- [Misha Moroshko](https://www.moroshko.me/)
 - [Tina He](http://tinahe.co/)
 - [Boris Muller](https://esono.com/)
 - [Robin Sloan](https://society.robinsloan.com/)

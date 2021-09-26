@@ -86,3 +86,4 @@
 - [Solana tutorials](https://github.com/agjell/sol-tutorials)
 - [Wormhole Token Bridge](https://wormholebridge.com/#/) - Allows you to seamlessly transfer tokenized assets across Solana and Ethereum. ([Tweet](https://twitter.com/wormholecrypto/status/1438940760548667393))
 - [Minimal Solana BPF program template](https://github.com/mvines/solana-bpf-program-template)
+- [P2P Wallet | Solana](https://solana.com/ecosystem/p2p)

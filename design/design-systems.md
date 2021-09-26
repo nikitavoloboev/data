@@ -3,6 +3,7 @@
 ## Interesting design systems
 
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications. ([HN](https://news.ycombinator.com/item?id=23511811)) ([Docs](https://next.chakra-ui.com/docs/getting-started)) ([Web](https://next.chakra-ui.com/)) ([The road to Chakra 1.0 and all about Chakra UI](https://www.youtube.com/watch?v=eeODp2pdRdo)) ([Awesome Chakra UI](https://github.com/chakra-ui/awesome-chakra-ui))
+- [Basis](https://basis.vercel.app/) ([Code](https://github.com/LatitudeFinancialOSS/basis))
 - [Styled system](https://styled-system.com/) - Style props for rapid UI development.
 - [Base Web](https://baseweb.design) - React Component library implementing the Base design language. ([Code](https://github.com/uber/baseweb)) ([Figma](https://www.figma.com/c/file/805195278314519508))
 - [Grommet](https://grommet.io) - React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package.

@@ -211,6 +211,7 @@
 - [react-embed](https://github.com/streamich/react-embed) - Embed 3rd party widgets.
 - [Choc UI](https://github.com/anubra266/choc-ui) - Prebuilt Chakra UI Higher Order Components. ([Web](https://choc-ui.tech/))
 - [LottiePlayer](https://github.com/LottieFiles/lottie-react) - Lottie web player as a react component.
+- [React Autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component.
 
 ## Links
 
