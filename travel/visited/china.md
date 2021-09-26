@@ -50,3 +50,5 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Will Xi Move on Taiwan? (2021)](https://asia.nikkei.com/Spotlight/20-years-after-9-11/Will-Xi-move-on-Taiwan-History-warns-he-might-Niall-Ferguson) ([HN](https://news.ycombinator.com/item?id=28544904))
 - [What Does Evergrande Meltdown Mean for China? (2021)](https://carnegieendowment.org/chinafinancialmarkets/85391) ([HN](https://news.ycombinator.com/item?id=28628874))
 - [What China Thinks is a "Tech Company" (2021)](https://www.youtube.com/watch?v=5tiyNS6-R0A)
+- [How great is the great firewall? Measuring China’s DNS censorship (2021)](https://www.usenix.org/system/files/sec21-hoang.pdf) ([HN](https://news.ycombinator.com/item?id=28658089))
+- [GFWatch Dashboard](https://gfwatch.org/) - Measurement platform capable of testing hundreds of millions of domains daily, enabling the continuous monitoring of the Great Firewallʼs DNS filtering behavior.

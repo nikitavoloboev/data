@@ -22,6 +22,7 @@
 - [Sliding Panes (Andy Matuschak Mode)](https://github.com/deathau/sliding-panes-obsidian) - Changes the way panes in the main workspace are handled — inspired by the UI of Andy Matuschak's notes.
 - [Local Images](https://github.com/aleksey-rezvov/obsidian-local-images) - Finds hotlinked images in your notes, downloads and saves them locally and finally adjusts the link in your note to point to the local file.
 - [Obsidian Tasks](https://github.com/schemar/obsidian-tasks) - Task management for the Obsidian knowledge base.
+- [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - Adds interactive maps to Obsidian.md using Leaflet.js.
 
 ## Links
 

@@ -111,3 +111,4 @@
 - [Why and how to use RSS for consuming knowledge (2021)](https://bluprince13.com/blog/why-and-how-to-use-rss-for-consuming-knowledge) ([HN](https://news.ycombinator.com/item?id=28412084))
 - [RSS by email](https://rssby.email/) - Subscribe to RSS Feeds over Email. ([HN](https://news.ycombinator.com/item?id=28571528)) ([Code](https://github.com/skx/rss2email))
 - [Using RSS to replace social media](https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media) ([HN](https://news.ycombinator.com/item?id=28645871))
+- [Miniflux](https://miniflux.app/) - Minimalist and Opinionated Feed Reader.

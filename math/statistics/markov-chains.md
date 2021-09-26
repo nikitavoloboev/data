@@ -17,3 +17,4 @@
 - [Efficient Search with Markov Chains (2020)](https://www.daniellowengrub.com/blog/2020/04/16/efficient-search)
 - [MDP-numba](https://github.com/louisabraham/mdp-numba) - Simple JIT-compiled implementation of Markov Decision Processes.
 - [A Tutorial on Hidden Markov Models (1989)](https://courses.physics.illinois.edu/ece417/fa2017/rabiner89.pdf)
+- [A Brief History of Markov Chains](https://mewo2.com/notes/markov-history/) ([HN](https://news.ycombinator.com/item?id=28658297))

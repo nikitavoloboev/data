@@ -373,3 +373,4 @@
 - [Btop++](https://github.com/aristocratos/btop) - Power resource monitor for Linux. ([HN](https://news.ycombinator.com/item?id=28634898))
 - [A terminal case of Linux (2021)](https://fasterthanli.me/articles/a-terminal-case-of-linux)
 - [Toybox](https://github.com/landley/toybox) - All-in-one Linux command line. ([HN](https://news.ycombinator.com/item?id=28627433))
+- [Linux Kernel Module Cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) - Perfect emulation setup to study and develop the Linux kernel.

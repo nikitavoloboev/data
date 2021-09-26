@@ -94,3 +94,4 @@
 - [MobilityDB](https://github.com/MobilityDB/MobilityDB) - Geospatial trajectory data management & analysis platform, built on PostgreSQL and PostGIS. ([Web](https://mobilitydb.com/))
 - [concaveman](https://github.com/mapbox/concaveman) - Very fast 2D concave hull algorithm in JavaScript.
 - [Vehicle Routing Open-source Optimization Machine](https://github.com/VROOM-Project/vroom) ([Web](http://vroom-project.org/))
+- [Imposm](https://github.com/omniscale/imposm3) - Imports OpenStreetMap data into PostGIS.

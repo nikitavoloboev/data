@@ -277,3 +277,4 @@
 - [Vector Quantization - PyTorch](https://github.com/lucidrains/vector-quantize-pytorch)
 - [PytorchLightning Tutorials](https://github.com/PyTorchLightning/lightning-tutorials) - Collection of PyTorch lightning tutorial form as rich scripts automatically transformed to ipython notebooks.
 - [torchkit](https://github.com/kevinzakka/torchkit) - Lightweight library containing PyTorch utilities useful for day-to-day research.
+- [PyTorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution](https://github.com/xmu-xiaoma666/External-Attention-pytorch)

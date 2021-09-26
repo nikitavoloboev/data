@@ -74,3 +74,4 @@
 - [Eliminating Reflection from Type Theory](https://github.com/TheoWinterhalter/ett-to-wtt) - Coq formalisation of a translation from (an) extensional type theory to (a) weak type theory.
 - [Mechanized semantics: the Coq development](https://github.com/xavierleroy/cdf-mech-sem)
 - [PyCoq](https://github.com/ejgallego/pycoq) - Access Coq from Python.
+- [Mechanization of a noninterference proof via a type system for a simple imperative language with a small-step semantics in Coq](https://github.com/aslanix/SmallStepNI)

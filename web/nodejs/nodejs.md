@@ -248,3 +248,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [tasuku](https://github.com/privatenumber/tasuku) - Minimal task runner for Node.js.
 - [pathe](https://github.com/unjs/pathe) - Normalized paths for Node.js.
 - [Node Mono Library Template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions.
+- [Auto NPX](https://github.com/antfu/vscode-auto-npx) - Auto resolving local Node.js binaries in VS Code terminal.
