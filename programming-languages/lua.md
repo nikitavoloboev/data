@@ -69,3 +69,4 @@
 - [Lua Code](https://github.com/lua/lua)
 - [Concurrent LUA Executor](https://github.com/kelindar/lua) - Concurrent LUA executor that is designed to keep running a same (but updateable) set of scripts over a long period of time.
 - [Zua](https://github.com/squeek502/zua) - Implementation of Lua 5.1 in Zig, for learning purposes.
+- [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) - Lua-land LRU Cache based on LuaJIT FFI.
