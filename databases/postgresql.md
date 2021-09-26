@@ -315,4 +315,4 @@
 - [Postgres 14: It's The Little Things (2021)](https://blog.crunchydata.com/blog/postgres-14-its-the-little-things) ([Reddit](https://www.reddit.com/r/programming/comments/pspthf/postgres_14_its_the_little_things/))
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres.
 - [Persisted operations](https://github.com/graphile/persisted-operations) - Persisted operations (aka "persisted queries") support for PostGraphile.
-- [PostgreSQL Prolog](https://github.com/aarroyoc/postgresql-prolog) - Prolog library to connect to PostgreSQL databases.
+- [PostgreSQL Prolog](https://github.com/aarroyoc/postgresql-prolog) - Prolog library to connect to PostgreSQL databases. ([HN](https://news.ycombinator.com/item?id=28660202))
