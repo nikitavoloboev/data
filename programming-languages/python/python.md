@@ -328,3 +328,4 @@
 - [Debugging by starting a REPL at a breakpoint is fun (2021)](https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/)
 - [Structural pattern matching in Python 3.10 (2021)](https://benhoyt.com/writings/python-pattern-matching/) ([HN](https://news.ycombinator.com/item?id=28600594))
 - [SnakeViz](https://github.com/jiffyclub/snakeviz) - In-browser Python profile viewer.
+- [Better JIT Support for Auto-Generated Python Code (2021)](https://www.pypy.org/posts/2021/09/jit-auto-generated-code.html)
