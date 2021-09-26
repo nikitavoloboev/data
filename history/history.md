@@ -138,3 +138,4 @@
 - [29 incredible books about the past (2021)](https://twitter.com/landforce/status/1434543804921516034)
 - [One Woman’s Mission to Rewrite Nazi History on Wikipedia (2021)](https://www.wired.com/story/one-womans-mission-to-rewrite-nazi-history-wikipedia/) ([Tweet](https://twitter.com/tqbf/status/1437145477389111296))
 - [How factories were made safe (2021)](https://rootsofprogress.org/history-of-factory-safety) ([HN](https://news.ycombinator.com/item?id=28504316))
+- [History of Botswana, where human life began](https://twitter.com/VodkaPolitics/status/1441767278664617985)

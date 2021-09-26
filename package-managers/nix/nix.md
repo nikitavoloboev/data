@@ -209,3 +209,4 @@
 - [Advanced shell packaging: resholve YADM's nixpkg (2021)](https://t-ravis.com/post/nix/advanced_shell_packaging_resholve_yadm/)
 - [nix-parsec](https://github.com/nprindle/nix-parsec) - Parser combinators in Nix.
 - [nix-prefetch-github](https://github.com/seppeljordan/nix-prefetch-github) - Prefetch sources from github for nix build tool.
+- [Building reproducible Development environment with nix-shell (2021)](https://mudrii.medium.com/building-reproducible-development-environment-b1d4fb51a302)

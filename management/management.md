@@ -142,3 +142,4 @@
 - [Все о тимлидстве](https://github.com/sharovatov/teamlead)
 - [How To Navigate Product Management Specializations](https://www.reforge.com/blog/product-specializations) ([Part 2](https://www.reforge.com/blog/product-specializations-pt2))
 - [Why "hire awesome people, listen to them and get out of their way" is not advice but wishful thinking (2021)](https://twitter.com/imightbemary/status/1440380210445049863)
+- [Ask HN: How do you do estimates in 2021?](https://news.ycombinator.com/item?id=28662856)
