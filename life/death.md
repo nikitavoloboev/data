@@ -28,6 +28,7 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Highly successful people are the ones who want their last breath to be completely regret-free.](https://twitter.com/davidasinclair/status/1418178779642535940)
 - [Seems clear that the central project of the post religious west is a complete denial of death. Sending the elderly away, plastic surgery, health food, eternal teenage infantilism— all of it in service of denying that death could possibly come to our lives.](https://twitter.com/WillManidis/status/1439611051734097920)
 - [I want to be remembered as a good friend.](https://twitter.com/maccaw/status/1432199519865872388)
+- [Living is what happens when you stop worrying about dying.](https://news.ycombinator.com/item?id=28659276)
 
 ## Links
 
@@ -50,3 +51,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Saying Goodbye (What a Wonderful World)](https://www.youtube.com/watch?v=Hc5kDRs44wE) ([Reddit](https://www.reddit.com/r/videos/comments/o2c7mb/saying_goodbye_what_a_wonderful_world/))
 - [What’s the legacy you want to leave behind? (2021)](https://twitter.com/justinkan/status/1432154554515144708)
 - [Norm Macdonald on his funeral](https://www.youtube.com/watch?v=KaRQ6gOCH9E)
+- [Death](https://ghuntley.com/death/) ([HN](https://news.ycombinator.com/item?id=28659276))

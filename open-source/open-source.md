@@ -23,6 +23,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Want to become a contributor to a project but don't know where to start? Subscribe to the project's notifications! By reading notifications for issues and PRs, you'll gain valuable context about the project, code, and maintainer views that helps build your mental model.](https://twitter.com/grow_love/status/1397192559953391620)
 - [Popularity != Quality. Especially for choosing project dependencies.](https://www.youtube.com/watch?v=f8x80EK6Tps)
 - [When opening an open source issue or pull request, don't make the maintainers do homework. Explain what you want/what you're doing, include relevant info, and offer to make changes. Don't make a maintainer to seek out other references or throw stuff over the wall and run.](https://twitter.com/slicknet/status/1441460988407025669)
+- [Always credit the work from which you copied or got inspired greatly from in readme. Lets users of your project that it's a fork and ideally keep the previous git history of forked project too.](https://news.ycombinator.com/item?id=28659838)
 
 ## Links
 

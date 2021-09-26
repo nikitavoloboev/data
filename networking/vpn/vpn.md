@@ -7,7 +7,7 @@
 There is always a trust issue having VPN hosted by third party. Especially if it's free!
 
 - [IVPN](https://www.ivpn.net/)
-- [Mullvad](https://mullvad.net/en/) ([Code](https://github.com/mullvad/mullvadvpn-app))
+- [Mullvad](https://mullvad.net/en/) ([Code](https://github.com/mullvad/mullvadvpn-app)) ([Is good](https://www.reddit.com/r/russia/comments/pvc93u/does_protonvpn_still_working_in_russia/hebxhzq/?context=3))
 
 ## Links
 
