@@ -162,3 +162,4 @@
 - [Architecting Modern Data Platforms Book (2018)](https://www.oreilly.com/library/view/architecting-modern-data/9781491969267/) ([Review](https://tech.marksblogg.com/architecting-modern-data-platforms-book-review.html))
 - [Opinionated project architecture for Full-Stack JavaScript Applications](https://github.com/atulmy/fullstack-javascript-architecture)
 - [Clean Architecture by Robert C. Martin Book (2007)](https://www.goodreads.com/book/show/18043011-clean-architecture) ([Notes](https://github.com/preslavmihaylov/booknotes/tree/master/architecture/clean-architecture))
+- [Technology decisions for startups (2021)](https://davidkell.substack.com/p/technology-decisions-for-startups)
