@@ -37,7 +37,7 @@
 - [How to read shader assembly (2021)](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [Lygia](https://github.com/patriciogonzalezvivo/lygia) - Granular and multi-language shader library designed for performance and flexibility.
 - [The case of the curiously slow shader (2021)](https://raphlinus.github.io/gpu/2021/04/28/slow-shader.html)
-- [Shader School](https://github.com/stackgl/shader-school) - Introduction to GLSL shaders and graphics programming that runs in your web browser.
+- [Shader School](https://github.com/stackgl/shader-school) - Introduction to GLSL shaders and graphics programming that runs in your web browser. ([HN](https://news.ycombinator.com/item?id=28660024))
 - [Shader Coding](https://twitter.com/AlanZucconi/status/1392447855659466752)
 - [Shader Workshop (2021)](http://charstiles.com/class/)
 - [Compute Shader 101 (2021)](https://www.youtube.com/watch?v=DZRn_jNZjbw) ([Code](https://github.com/googlefonts/compute-shader-101)) ([HN](https://news.ycombinator.com/item?id=27396634))

@@ -60,3 +60,4 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [What are some luxurious homewares you appreciate? (2021)](https://www.reddit.com/r/fatFIRE/comments/pmmz63/what_are_some_luxurious_homewares_you_appreciate/)
 - [If you were building a house from scratch, what features would you recommend considering? (2021)](https://www.reddit.com/r/fatFIRE/comments/pq373t/if_you_were_building_a_house_from_scratch_what/)
 - [Home Price to Income Ratio](https://www.longtermtrends.net/home-price-median-annual-income-ratio/) ([HN](https://news.ycombinator.com/item?id=28594201))
+- [How to Live in Airbnbs for the Price of an Apartment Lease (2020)](https://esimoney.com/how-to-live-in-airbnbs-for-the-price-of-an-apartment-lease/) ([HN](https://news.ycombinator.com/item?id=28659170))
