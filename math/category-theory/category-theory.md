@@ -119,7 +119,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [nForum](https://nforum.ncatlab.org/) - Discussion forum about contributions to the nLab wiki and related areas of mathematics, physics, and philosophy.
 - [Infinity Category Theory Offers a Bird’s-Eye View of Mathematics (2021)](https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics1/) ([HN](https://news.ycombinator.com/item?id=28536516))
 - [Categories for the idle mathematician - YouTube (2021)](https://www.youtube.com/playlist?list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL) - Introductory lectures on category theory.
-- [Category Theory Illustrated - Logic](https://boris-marinov.github.io/category-theory-illustrated/05_logic/)
+- [Category Theory Illustrated - Logic](https://boris-marinov.github.io/category-theory-illustrated/05_logic/) ([HN](https://news.ycombinator.com/item?id=28660157))
 
 ## Images
 

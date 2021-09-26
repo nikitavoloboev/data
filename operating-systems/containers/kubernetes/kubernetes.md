@@ -441,3 +441,4 @@
 - [Kubernetes Control Plane with keepalived](https://github.com/clastix/kubelived)
 - [snoopy-operator](https://github.com/fennec-project/snoopy-operator) - Cloud Native Way for Pod Deep Inspection.
 - [Data scientists shouldn’t need to know Kubernetes (2021)](https://huyenchip.com/2021/09/13/data-science-infrastructure.html) ([HN](https://news.ycombinator.com/item?id=28649508))
+- [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering.

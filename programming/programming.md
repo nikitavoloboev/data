@@ -446,3 +446,4 @@
 - [Improve Your Life with Long Error Messages (2021)](https://blog.appsignal.com/2021/09/22/improve-your-life-with-long-error-messages.html) ([HN](https://news.ycombinator.com/item?id=28616809))
 - [The Speed of Time (2021)](https://www.brendangregg.com/blog/2021-09-26/the-speed-of-time.html)
 - [Code Review from the Command Line (2018)](https://blog.jez.io/cli-code-review/) ([HN](https://news.ycombinator.com/item?id=28655275)) ([Lobsters](https://lobste.rs/s/ubm7yc/code_review_from_command_line_2018))
+- [Designing Low Upkeep Software (2021)](https://www.jefftk.com/p/designing-low-upkeep-software) ([HN](https://news.ycombinator.com/item?id=28660964))
