@@ -29,3 +29,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Good series you'd recommend watching? (2021)](https://www.reddit.com/r/AskMen/comments/pjl2bc/boys_whats_a_good_series_youd_recommend_watching/)
 - [What To Watch On Streaming - Variety](https://variety.com/what-to-watch-streaming-movies-shows-online/)
 - [The One Episode of Breaking Bad BETTER Than Ozymandias (2021)](https://www.youtube.com/watch?v=q6mheeEtCyw)
+- [Great series to watch (2021)](https://twitter.com/adamwathan/status/1441918348531355648)
