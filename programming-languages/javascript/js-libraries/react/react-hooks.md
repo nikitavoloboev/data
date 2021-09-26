@@ -112,6 +112,7 @@
 - [zustand-middleware-xstate](https://github.com/biowaffeln/zustand-middleware-xstate) - Allows you to easily put your xstate state machines into a global zustand store.
 - [Rko](https://github.com/steveruizok/rko) - State management library for React with built-in undo, redo, and persistence. Built on Zustand.
 - [react-drag-elements](https://github.com/timc1/react-drag-elements) - Small & efficient React Hook that allows users to drag items around and update lists of elements.
+- [Web Vitals](https://github.com/schoenwaldnils/web-vitals-react-hook) - Bring web vitals quickly into your react project.
 
 ## Notes
 

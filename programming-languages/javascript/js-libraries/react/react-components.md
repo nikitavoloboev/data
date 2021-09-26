@@ -240,3 +240,4 @@
 - [Are you a component control freak? (2019)](https://jjenzz.com/component-control-freak)
 - [A Smarter, Dumb Breadcrumb (2019)](https://jjenzz.com/smarter-dumb-breadcrumb)
 - [Compound Components (2019)](https://jjenzz.com/compound-components)
+- [react-scanner](https://github.com/moroshko/react-scanner) - Statically analyzes the given code (TypeScript supported) and extracts React components and props usage.
