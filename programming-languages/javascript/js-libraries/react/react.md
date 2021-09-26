@@ -264,3 +264,4 @@
 - [Niue](https://github.com/Merlin04/niue) - Tiny shared state and event library for React.
 - [Fragmented Store](https://github.com/aralroca/fragmented-store) - Tiny (~500 B), easy and simple library to manage your (P)React state.
 - [Effector React Slots](https://github.com/space307/effector-react-slots)
+- [react-scanner](https://github.com/moroshko/react-scanner) - Statically analyzes the given code (TypeScript supported) and extracts React components and props usage.

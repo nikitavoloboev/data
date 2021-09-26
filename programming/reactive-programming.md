@@ -7,7 +7,7 @@
 - [The essence and origins of FRP](https://github.com/conal/talk-2015-essence-and-origins-of-frp) - Keynote talk for LambdaJam 2015.
 - [xstream](https://github.com/staltz/xstream) - Extremely intuitive, small, and fast functional reactive stream library for JavaScript.
 - [CONNECTIVE](https://connective.dev/) - Agent-based reactive programming library for typescript.
-- [Rx Visualizer](https://github.com/moroshko/rxviz) - Animated playground for Rx Observables.
+- [RxViz](https://rxviz.com/) - Animated playground for Rx Observables. ([Code](https://github.com/moroshko/rxviz))
 - [Explaining Streams to Rich Harris (2019)](https://johnlindquist.com/explaining-streams-to-rich-harris)
 - [Towards a unified theory of reactive UI (2019)](https://raphlinus.github.io/ui/druid/2019/11/22/reactive-ui.html) ([HN](https://news.ycombinator.com/item?id=21607818))
 - [Streams for reactive programming (2020)](https://surma.dev/things/streams-for-reactive-programming/)
