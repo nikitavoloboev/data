@@ -76,3 +76,4 @@
 - [Build Server Protocol](https://github.com/build-server-protocol/build-server-protocol) - Protocol for IDEs and build tools to communicate about compile, run, test, debug and more. ([Web](https://build-server-protocol.github.io/))
 - [Reflecting on the Shake Build System (2021)](https://neilmitchell.blogspot.com/2021/09/reflecting-on-shake-build-system.html)
 - [Python as a build tool (2021)](https://tonsky.me/blog/python-build/) ([Lobsters](https://lobste.rs/s/dektfe/python_as_build_tool))
+- [How to Find Packages With CMake: The Basics (2020)](https://izzys.casa/2020/12/how-to-find-packages-with-cmake-the-basics/)

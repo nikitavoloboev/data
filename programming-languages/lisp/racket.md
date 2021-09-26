@@ -52,7 +52,7 @@
 - [racket-format](https://github.com/russellw/racket-format) - Format Racket source code.
 - [Racket for Visual Studio Code](https://github.com/pouyakary/vscode-racket)
 - [Running Racket CS on iOS (2021)](https://defn.io/2021/01/19/racket-cs-on-ios/)
-- [RacketScript](https://github.com/vishesh/racketscript) - Racket to JavaScript Compiler.
+- [RacketScript](https://github.com/racketscript/racketscript) - Racket to JavaScript Compiler. ([HN](https://news.ycombinator.com/item?id=28662132))
 - [Rackt](https://github.com/rackt-org/rackt) - Ultrasmall (~70 loc) React wrapper written in RacketScript.
 - [racket-http-easy](https://github.com/Bogdanp/racket-http-easy) - High-level HTTP client for Racket.
 - [Racket v8.0 (2021)](https://blog.racket-lang.org/2021/02/racket-v8-0.html) ([HN](https://news.ycombinator.com/item?id=26129480))

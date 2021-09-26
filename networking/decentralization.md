@@ -79,3 +79,4 @@
 - [Lokinet](https://github.com/oxen-io/lokinet) - Anonymous, decentralized and IP based overlay network for the internet. ([Web](https://lokinet.org/))
 - [Project Liberty](https://www.projectliberty.io/) - Building a more equitable civic architecture for the next generation of the web. ([GitHub](https://github.com/LibertyDSNP))
 - [The role of decentralization, China/US break down & more with Bestie Guestie Balaji Srinivasan (2021)](https://www.youtube.com/watch?v=B2iNXMiGEms) ([Tweet](https://twitter.com/balajis/status/1441632885643960321))
+- [What is Web3? The Decentralized Internet of the Future Explained (2021)](https://www.freecodecamp.org/news/what-is-web3/)
