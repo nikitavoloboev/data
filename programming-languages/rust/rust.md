@@ -294,7 +294,7 @@
 - [Learning Rust: The Compiler is your Friend (2020)](https://ferrous-systems.com/blog/the-compiler-is-your-friend/)
 - [Existential types in Rust (2018)](https://varkor.github.io/blog/2018/07/03/existential-types-in-rust.html) ([Lobsters](https://lobste.rs/s/xoyqkm/existential_types_rust))
 - [Ryan Levick - Why should I care about Rust? (2020)](https://www.youtube.com/watch?v=OhCjnyBc448)
-- [Makepad](http://makepad.nl/) - Creative software development platform built around Rust. ([Code](https://github.com/makepad/makepad))
+- [Makepad](http://makepad.nl/) - Creative software development platform built around Rust. ([Code](https://github.com/makepad/makepad)) ([Code](https://github.com/makepad/makepad))
 - [Jon Gjengset Q&A August 2020](https://www.youtube.com/watch?v=AUEbaWaEeF4)
 - [Laying the foundation for Rust's future (2020)](https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html) ([HN](https://news.ycombinator.com/item?id=24199424) ([Lobsters](https://lobste.rs/s/mgrmge/laying_foundation_for_rust_s_future)))
 - [Run Rust on your embedded device from VSCode in one click (2020)](https://ferrous-systems.com/blog/run-rust-on-your-embedded-device-from-vscode/)

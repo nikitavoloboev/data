@@ -152,6 +152,7 @@
 - [Zeed Library](https://github.com/holtwick/zeed) - Simple TS/JS Foundation Library.
 - [UCAST](https://github.com/stalniy/ucast) - Universal Conditions AST. ([Examples](https://github.com/stalniy/casl-examples))
 - [ts](https://github.com/mmkal/ts) - Monorepo of typescript projects.
+- [urlpack](https://github.com/daangn/urlpack) - Pure JavaScript toolkit for data URLs (MessagePack, Base58 and Base62).
 
 ## Links
 

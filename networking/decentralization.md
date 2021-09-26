@@ -3,6 +3,7 @@
 ## Notes
 
 - [The hardest problem in censorship resistance is the challenge of getting humans to split their stake between many independent validators. Defi is going to drive censorship resistance, and is really our only hope of achieving a truly censorship resistant global network.](https://twitter.com/aeyakovenko/status/1388148048639905792)
+- [Decentralization is a quantifiable measurable thing. It’s: 1. Cost to censor. 2. Cost to destroy all replicas. Any chain that charges users above 4x the hardware costs to provide decentralization will get passed by a cheaper and faster and more decentralized network.](https://twitter.com/aeyakovenko/status/1441904519877566466)
 
 ## Links
 
