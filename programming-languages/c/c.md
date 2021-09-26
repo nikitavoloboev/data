@@ -176,3 +176,4 @@
 - [Progress on C23 (2021)](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting) ([HN](https://news.ycombinator.com/item?id=28423793)) ([Lobsters](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting))
 - [pycparser](https://github.com/eliben/pycparser) - Complete C99 parser in pure Python.
 - [PackCC](https://github.com/arithy/packcc) - Parser generator for C.
+- [Why is C Faster Than My Language? (2021)](https://www.youtube.com/watch?v=vFB0Ot-ZdIM)

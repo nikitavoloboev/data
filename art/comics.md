@@ -15,3 +15,4 @@
 - [MonkeyUser](https://www.monkeyuser.com/)
 - [Achewood](http://www.achewood.com/)
 - [Extra Ordinary Comics](https://www.exocomics.com/) ([IG](https://www.instagram.com/exocomics/))
+- [Polina Gurtovaya's Comics](https://speakerdeck.com/hellsquirrel/)
