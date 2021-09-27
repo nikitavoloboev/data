@@ -573,3 +573,4 @@
 - [Why Rust over C++ (2021)](https://twitter.com/hswolff/status/1441220387778359305)
 - [Rust for Rustaceans by Jon Gjengset (2021)](https://rustacean-station.org/episode/038-jon-gjengset/)
 - [Rustacean Station Podcast](https://rustacean-station.org/) - Community project for creating podcast content for the Rust programming language. ([Twitter](https://twitter.com/rustaceanfm))
+- [Finding Closure in Rust (2015)](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/)

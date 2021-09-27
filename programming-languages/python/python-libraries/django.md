@@ -95,3 +95,4 @@
 - [django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
 - [Appliku Deploy](https://appliku.com/) - Server Management, designed specially for Django. ([HN](https://news.ycombinator.com/item?id=28468660))
 - [Type Check Your Django Application](https://kracekumar.com/post/type_check_your_django_app/)
+- [Hotwired/Turbo Django response helpers](https://github.com/hotwire-django/django-turbo-response)

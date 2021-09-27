@@ -118,3 +118,5 @@
 - [Kizie](https://kizie.co/) - New way to interact with Twitter. ([HN](https://news.ycombinator.com/item?id=28549960))
 - [Feeds Mage](https://www.feedsmage.com/) - Scans your Twitter follows to discover blogs and newsletters.
 - [Minimal Twitter](https://github.com/ThomasWang/minimal-twitter) - Minimal Theme for the new Twitter UI.
+- [How many accounts block you on Twitter](https://blolook.osa-p.net/index.html?lang=en)
+- [Thread Hunt](https://threadhunt.xyz/) - Quality Twitter threads from undiscovered creators.
