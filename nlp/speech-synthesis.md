@@ -36,3 +36,4 @@
 - [NN-SVS](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research.
 - [Larynx](https://github.com/rhasspy/larynx) - End to end text to speech system using gruut and onnx, 50 voices, 9 languages.
 - [WellSaid Labs](https://wellsaidlabs.com/) - Voice Narration. Simplified.
+- [Neural Wave shaping Synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis) - Efficient neural audio synthesis in the waveform domain. ([Article](https://benhayes.net/projects/nws/))

@@ -178,3 +178,6 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [mailcow.email](https://mailcow.email/) ([Docs](https://mailcow.github.io/mailcow-dockerized-docs/)) ([Code](https://github.com/mailcow/mailcow-dockerized))
 - [tidy_email](https://github.com/jsthomas/tidy-email) - OCaml wrapper library that makes it easy to send email with different services.
 - [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters? (2021)](https://news.ycombinator.com/item?id=28635313)
+- [Easily creating and routing email addresses with Cloudflare Email Routing (2021)](https://blog.cloudflare.com/introducing-email-routing/) ([Tweet](https://twitter.com/threepointone/status/1442492423884599297))
+- [Tackling Email Spoofing and Phishing (2021)](https://blog.cloudflare.com/tackling-email-spoofing/)
+- [forlater.email](https://forlater.email/) - Email-based bookmarking. ([How I built forlater.email](https://icyphox.sh/blog/building-forlater/))

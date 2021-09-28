@@ -292,3 +292,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git Commands Explained with Cats (2017)](https://girliemac.com/blog/2017/12/26/git-purr/) ([HN](https://news.ycombinator.com/item?id=28575524))
 - [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;) ([HN](https://news.ycombinator.com/item?id=28578896))
 - [The elements of git (2021)](https://cuddly-octo-palm-tree.com/posts/2021-09-19-git-elements/)
+- [What if Git worked with Programming Languages?](https://github.com/GavinMendelGleason/syntactic_versioning) ([HN](https://news.ycombinator.com/item?id=28670372))

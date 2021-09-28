@@ -289,3 +289,4 @@
 - [GitHub Actions Limitations and Gotchas (2021)](https://www.cbui.dev/github-actions-limitations-and-gotchas/) ([HN](https://news.ycombinator.com/item?id=28460342))
 - [GitHub Actions: Ephemeral self-hosted runners & new webhooks for auto-scaling (2021)](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/) ([HN](https://news.ycombinator.com/item?id=28601618))
 - [Learning about GitHub actions](https://github.com/Al-un/ci-github-actions)
+- [Using Composite Actions with GitHub Actions (2021)](https://doug.sh/posts/using-composite-actions-with-github-actions/)

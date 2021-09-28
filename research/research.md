@@ -119,3 +119,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [A better Google Scholar (2021)](https://nintil.com/better-google-scholar)
 - [How to succeed as an undergraduate researcher (2018)](https://dblalock.github.io/how-to-undergrad-research/)
 - [Science Corporation](https://science.xyz/) - Developing products for an exciting future. ([Article](https://maxhodak.com/nonfiction/2021/09/03/science.html))
+- [Inconsistency in Conference Peer Review: Revisiting the 2014 NeurIPS Experiment (2021)](https://arxiv.org/abs/2109.09774) ([Paper Explained](https://www.youtube.com/watch?v=19Q-vMd9bYg))

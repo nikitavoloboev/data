@@ -101,6 +101,7 @@
 - [Melrōse](https://github.com/emicklei/melrose) - Interactive programming of melodies, producing MIDI.
 - [Jfxr](https://jfxr.frozenfractal.com/) - Browser-based tool to create sound effects for games. ([Code](https://github.com/ttencate/jfxr))
 - [Mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata.
+- [Sonic Visualiser](https://sonicvisualiser.org/) - Visualization, analysis, and annotation of music audio recordings. ([Code](https://github.com/sonic-visualiser/sonic-visualiser))
 
 ## Inspiration
 

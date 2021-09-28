@@ -90,6 +90,7 @@
 - [LogarithmicNumbers.jl](https://github.com/cjdoris/LogarithmicNumbers.jl) - Logarithmic number system for Julia.
 - [MCMCChains.jl](https://github.com/TuringLang/MCMCChains.jl) - Types and utility functions for summarizing Markov chain Monte Carlo simulations.
 - [NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl) - High performance nearest neighbor data structures and algorithms for Julia.
+- [MHLib.jl](https://github.com/ac-tuwien/MHLib.jl) - Toolbox for Metaheuristics and Hybrid Optimization Methods.
 
 ## NLP
 

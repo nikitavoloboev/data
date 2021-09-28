@@ -90,3 +90,5 @@
 - [DevOps Engineer Crash Course (2021)](https://matduggan.com/devops-engineer-crash-course/)
 - [Artillery.io](https://artillery.io/) - Modern load testing & smoke testing for SRE and DevOps. ([Code](https://github.com/artilleryio/artillery))
 - [Top-10 talks of SREcon18 Europe (2018)](https://nick.groenen.me/posts/srecon18emea-top10/)
+- [The DevOps: A Concise Understanding to the DevOps Philosophy and Science. (Technical Report) (2021)](https://www.osti.gov/biblio/1785164)
+- [Cachito](https://github.com/release-engineering/cachito) - Caching service for source code and external dependencies.

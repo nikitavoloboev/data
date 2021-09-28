@@ -33,6 +33,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Напринимают уебанских законов, а потом такие «это по закону».](https://twitter.com/seginaboroda/status/1433804644912877568)
 - [В России государство нещадно душит бизнес. Человек, который работает на себя, он независим. Его нельзя загнать под угрозой увольнения на всякие шулерские выборы. Им вообще трудно манипулировать и управлять. Ведь наша гб-шная власть держится исключительно на зависимости народа от государства.](https://twitter.com/KillSubZero/status/1437806765312253966)
 - [Как же заебало что мы тратим свои жизни на эту хуйню если честно](https://twitter.com/Vorewig/status/1439834044477452293)
+- [Пожизненные губернаторы. Дальше передача власти в регионах по наследству.](https://twitter.com/nlyaskin/status/1442389741555572736)
 
 ## Links
 
@@ -249,3 +250,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Евгений Чичваркин - YouTube](https://www.youtube.com/c/totsamychichvarkin/videos)
 - [Гедонист в эмиграции, виноторговец, ресторатор, возмутитель спокойствия - и все в одном флаконе (2021)](https://www.youtube.com/watch?v=Xi19uHPprdM)
 - [Почему Путин накажет Медведева после победы «Единой России» на выборах? (2021)](https://www.youtube.com/watch?v=JoXVBVKlHhA)
+- [Дебаты: В чем оппозиция должна действовать вместе | Михаил Светов, Иван Жданов и Михаил Ходорковский (2021)](https://www.youtube.com/watch?v=sCtn5kofRN8) ([Tweet](https://twitter.com/ioannZH/status/1442552575207804928))

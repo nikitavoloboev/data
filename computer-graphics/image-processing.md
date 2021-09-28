@@ -119,3 +119,4 @@
 - [Rembg](https://github.com/danielgatis/rembg) - Tool to remove images background.
 - [IPX](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on sharp and libvips.
 - [ImageScript](https://github.com/matmen/ImageScript) - Zero-dependency JavaScript image manipulation.
+- [How to use a serverless function as image/caching proxy (2021)](https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/)

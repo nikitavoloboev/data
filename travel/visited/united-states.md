@@ -70,3 +70,5 @@
 - [List of Atrocities committed by US authorities](https://dessalines.github.io/essays/us_atrocities.html)
 - [List of hate crimes in the US](https://dessalines.github.io/essays/us_hate_crimes.html)
 - [The Last Glimpses of California's Vanishing Hippie Utopias (2021)](https://www.gq.com/story/californias-vanishing-hippie-utopias)
+- [Worst parts of US history](https://twitter.com/isaiah_bb/status/1442205678131687432)
+- [Kidnapping, assassination and a London shoot-out: Inside the CIA's secret war plans against WikiLeaks (2021)](https://news.yahoo.com/kidnapping-assassination-and-a-london-shoot-out-inside-the-ci-as-secret-war-plans-against-wiki-leaks-090057786.html) ([Tweet](https://twitter.com/chrislhayes/status/1442338530429227009))

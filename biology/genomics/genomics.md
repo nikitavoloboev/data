@@ -80,7 +80,7 @@
 - [Using a Quadruplet Codon to Expand the Genetic Code of an Animal (2021)](https://www.biorxiv.org/content/10.1101/2021.07.17.452788v1)
 - [PingPong](https://github.com/Parsoa/PingPong) - Comparative genome analysis using sample-specific string detectionin accurate long reads.
 - [RNA demethylation increases rice and potato yields 50% (2021)](https://www.nature.com/articles/s41587-021-00982-9) ([HN](https://news.ycombinator.com/item?id=27925250))
-- [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/) ([HN](https://news.ycombinator.com/item?id=28253993))
+- [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/) ([HN](https://news.ycombinator.com/item?id=28253993)) ([Code](https://github.com/aws/amazon-genomics-cli))
 - [The Specious Art of Single-Cell Genomics (2021)](https://www.biorxiv.org/content/10.1101/2021.08.25.457696v1) ([Tweet](https://twitter.com/lpachter/status/1431325969411821572)) ([Tweet](https://twitter.com/lpachter/status/1440695021502545934))
 - [IGV: Integrative Genomics Viewer](https://igv.org/) - Fast, efficient, scalable visualization tool for genomics data and annotations. ([Code](https://github.com/igvteam/igv))
 - [Oxford Nanopore Technologies](https://nanoporetech.com/) - Nanopores for single molecule (DNA/RNA, protein) analysis using the MinION, GridION and PromethION systems. ([GitHub](https://github.com/nanoporetech))
@@ -97,3 +97,4 @@
 - [Local PCA](https://github.com/petrelharp/local_pca) - Methods for examining PCA locally along the genome.
 - [List of gene lists for genomic analyses](https://github.com/macarthur-lab/gene_lists)
 - [MacArthur Lab](https://macarthurlab.org/) - Extracting useful information from large genomic datasets. ([GitHub](https://github.com/macarthur-lab))
+- [Directed evolution of rRNA improves translation kinetics and recombinant protein yield (2021)](https://www.nature.com/articles/s41467-021-25852-5) ([Tweet](https://twitter.com/AhmedHBadran/status/1442545398631911442))

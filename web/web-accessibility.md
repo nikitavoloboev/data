@@ -73,3 +73,4 @@
 - [Accessibility-First Tool Concepts (2021)](https://icing.space/2021/accessibility-first-tool-concepts/)
 - [Eleventy starter project for WCAG reports](https://github.com/hidde/eleventy-wcag-reporter) ([Article](https://hiddedevries.nl/en/blog/2021-05-24-introducing-an-eleventy-starter-project-for-wcag-reports))
 - [Inclusive Design 24 Schedule (2021)](https://inclusivedesign24.org/2021/schedule/)
+- [Good and compact material that teaches you the basics of accessibility on the web (2021)](https://twitter.com/rauschma/status/1441091864073961481)

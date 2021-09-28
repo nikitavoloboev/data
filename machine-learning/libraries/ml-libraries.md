@@ -194,3 +194,4 @@
 - [Bayex](https://github.com/alonfnt/bayex) - Bayesian Optimization Python Library powered by JAX.
 - [Merlion](https://github.com/salesforce/Merlion) - Machine Learning Framework for Time Series Intelligence.
 - [Feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning. ([Web](https://feast.dev/))
+- [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony. ([Web](https://nnabla.org/))

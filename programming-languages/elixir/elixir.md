@@ -121,3 +121,4 @@
 - [Delimited Continuations with shift/reset in Elixir (2021)](https://thalesmg.github.io/posts/2021-08-27-elixir-delimited-continuations.html)
 - [Dynamic Queries in Ecto (2021)](https://bartoszgorka.com/dynamic-queries-in-ecto) ([HN](https://news.ycombinator.com/item?id=28535880))
 - [Keynote: Clarity - Saša Jurić | ElixirConf EU 2021](https://www.youtube.com/watch?v=6sNmJtoKDCo)
+- [Elixir Playground](https://playground.functional-rewire.com/) - Sandbox for Elixir to safely evaluate untrusted code from user input. ([Code](https://github.com/functional-rewire/dune))

@@ -385,3 +385,6 @@
 - [MMAction2](https://github.com/open-mmlab/mmaction2) - Open-source toolbox for video understanding based on PyTorch.
 - [Awesome Collision Detection](https://github.com/jslee02/awesome-collision-detection)
 - [Video Super-Resolution Transformer (2021)](https://arxiv.org/abs/2106.06847) ([Code](https://github.com/caojiezhang/VSR-Transformer))
+- [NeRF Atlas](https://github.com/JulianKnodt/nerf_atlas) - Collection of NeRF extensions for fun and experimentation.
+- [Training and testing codes for USRNet, DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, BSRGAN, SwinIR](https://github.com/cszn/KAIR)
+- [Uformer: A General U-Shaped Transformer for Image Restoration (2021)](https://arxiv.org/abs/2106.03106) ([Code](https://github.com/ZhendongWang6/Uformer))

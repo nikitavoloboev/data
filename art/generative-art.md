@@ -155,3 +155,5 @@
 - [Creative Coding with Swift](https://github.com/masoodkamandy/Creative-Coding-Course-with-SwiftProcessing)
 - [Generative Utils](https://github.com/georgedoescode/generative-utils) - Collection of handy generative art utilities.
 - [Pattern generator with 1300 shapes and 300 dpi](https://tool.graphics/geometric) ([HN](https://news.ycombinator.com/item?id=28623408))
+- [Generative Design Code Package (for P5.js)](https://github.com/generative-design/Code-Package-p5.js)
+- [Generative Design, Creative Coding on the Web Book](http://www.generative-gestaltung.de/2/)

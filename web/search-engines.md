@@ -156,3 +156,4 @@
 - [MacroBase](https://github.com/stanford-futuredata/macrobase) - Data analytics tool that prioritizes attention in large datasets using machine learning. ([Web](https://macrobase.stanford.edu/))
 - [Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering) - Want to build or improve a search experience? Start here.
 - [site-search](https://github.com/Janpot/site-search) - Lightweight self-hosted alternative to DocSearch. Will run your website locally, crawl its pages and index their content in a lunr index.
+- [exaly Search Engine](https://exaly.com/) - Comprehensive scholarly search engine. Similar to Google Scholar.

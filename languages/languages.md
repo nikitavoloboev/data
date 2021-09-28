@@ -39,3 +39,4 @@
 - [Forgetting My First Language (2021)](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language) ([HN](https://news.ycombinator.com/item?id=28411104))
 - [Speaking Latin (2021)](https://psyche.co/ideas/speaking-latin-brings-an-unmediated-thrill-to-the-classics) ([HN](https://news.ycombinator.com/item?id=28510232))
 - [All World Languages in One Visualization, By Native Speakers](https://www.visualcapitalist.com/a-world-of-languages/)
+- [LanguageTool](https://languagetool.org/) - Online Grammar, Style & Spell Checker. ([Twitter](https://twitter.com/languagetool))

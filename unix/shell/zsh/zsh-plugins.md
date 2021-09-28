@@ -26,6 +26,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 ## Utility
 
 - [z](https://github.com/rupa/z) - Jump around.
+- [Zsh Codex](https://github.com/tom-doerr/zsh_codex) - ZSH plugin that enables you to use OpenAI's powerful Codex AI in the command line.
 - [Enhancd](https://github.com/b4b4r07/enhancd) - Next-generation cd command with an interactive filter.
 - [Ports](https://github.com/caarlos0/ports) - Easily see what's happening on your computer's ports.
 - [Fast Syntax Highlighting](https://github.com/zdharma/fast-syntax-highlighting) - Fine granularity, number of features, 40 work hours themes.

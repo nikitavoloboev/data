@@ -87,3 +87,4 @@ There are [better approaches to manage state in React now](https://twitter.com/k
 - [Stop using the “container/presentational” pattern in Redux (2021)](https://medium.com/nmc-techblog/why-you-should-stop-using-the-container-presentational-pattern-in-redux-29b112406128) ([Reddit](https://www.reddit.com/r/reactjs/comments/ox6cwk/why_you_should_stop_using_the/))
 - [Typed Redux Saga](https://github.com/agiledigital/typed-redux-saga) - Better TypeScript typing in redux-saga.
 - [Why Redux isn't good any more (2021)](https://twitter.com/kamyshev_dev/status/1441736479240122372)
+- [localfirst/state](https://github.com/local-first-web/state) - Automatically replicated Redux store that gives your app offline capabilities and secure peer-to-peer synchronization superpowers.

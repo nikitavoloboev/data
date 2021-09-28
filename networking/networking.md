@@ -297,3 +297,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [If fiber optics are 30% the speed of light, why is ping across countries so high? (2021)](https://www.reddit.com/r/AskPhysics/comments/pt8eb1/if_fiber_optics_are_30_the_speed_of_light_why_is/)
 - [slirpnetstack](https://github.com/cloudflare/slirpnetstack) - User-mode networking for unprivileged network namespaces.
 - [RTC (Real-Time Communication) at scale (2020)](http://www.horatiulazu.ca/blog/coop/2020/05/02/rt-calling.html)
+- [Submarine cable map rendered onto a globe](https://globe.gl/example/submarine-cables/) ([HN](https://news.ycombinator.com/item?id=28641463))

@@ -102,7 +102,7 @@
 - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 - [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
 - [Compiling Containers - Dockerfiles, LLVM and BuildKit (2021)](https://blog.earthly.dev/compiling-containers-dockerfiles-llvm-and-buildkit/)
-- [youki](https://github.com/utam0k/youki) - Experimental implementation of the oci-runtime in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/ng2zns/youki_a_container_runtime_in_rust_passed_all_the/))
+- [Youki](https://github.com/utam0k/youki) - Experimental implementation of the oci-runtime in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/ng2zns/youki_a_container_runtime_in_rust_passed_all_the/)) ([Reddit](https://www.reddit.com/r/rust/comments/pweqkb/youki_a_container_runtime_written_in_rust_that/))
 - [Stargz Snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast docker image distribution plugin for containerd, based on CRFS/stargz.
 - [Quark Container](https://github.com/QuarkContainer/Quark) - Secure container runtime with OCI interface.
 - [Inclavare Containers](https://github.com/alibaba/inclavare-containers) - Novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem. ([Web](https://inclavare-containers.io/en/))
@@ -124,3 +124,4 @@
 - [HN: Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines (2021)](https://news.ycombinator.com/item?id=28429650)
 - [Containers Don't Solve Everything (2021)](https://blog.deref.io/containers-dont-solve-everything/) ([HN](https://news.ycombinator.com/item?id=28483529))
 - [umoci](https://github.com/opencontainers/umoci) - Modifies Open Container images. ([Docs](https://umo.ci/))
+- [Occlum](https://occlum.io/) - Library OS empowering everyone to run every application in secure enclaves. ([Code](https://github.com/occlum/occlum))

@@ -31,3 +31,4 @@
 - [MIT-designed project achieves major advance toward fusion energy (2021)](https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908) ([HN](https://news.ycombinator.com/item?id=28462151))
 - [Nuclear Weapon Archive (1994-2020)](https://nuclearweaponarchive.org/) ([HN](https://news.ycombinator.com/item?id=28442168))
 - [China prepares to test thorium-fuelled nuclear reactor (2021)](https://www.nature.com/articles/d41586-021-02459-w) ([HN](https://news.ycombinator.com/item?id=28560790))
+- [Lost nuclear weapons history](https://twitter.com/AlcazarBazaar/status/1441388864195764225)

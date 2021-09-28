@@ -31,6 +31,7 @@
 - [Cross](https://github.com/rust-embedded/cross) - "Zero setup" cross compilation and "cross testing" of Rust crates.
 - [Vim setup for Rust](http://seenaburns.com/vim-setup-for-rust/)
 - [Cargo Watch](https://github.com/passcod/cargo-watch) - Watches over your Cargo project's source.
+- [Rust Programming Language Forum](https://users.rust-lang.org/)
 - [List of Rust bloggers](https://users.rust-lang.org/t/fearless-rust-bloggers/16770)
 - [Jon Gjengset YouTube channel](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ) - Does many awesome Rust streams.
 - [The What and How of Futures and async/await in Rust](https://www.youtube.com/watch?v=9_3krAQtD2k)
@@ -574,3 +575,5 @@
 - [Rust for Rustaceans by Jon Gjengset (2021)](https://rustacean-station.org/episode/038-jon-gjengset/)
 - [Rustacean Station Podcast](https://rustacean-station.org/) - Community project for creating podcast content for the Rust programming language. ([Twitter](https://twitter.com/rustaceanfm))
 - [Finding Closure in Rust (2015)](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/)
+- [Common Newbie Mistakes and Bad Practices in Rust: Bad Habits (2021)](https://adventures.michaelfbryan.com/posts/rust-best-practices/bad-habits/) ([Reddit](https://www.reddit.com/r/rust/comments/pwg2r8/common_newbie_mistakes_and_bad_practices_in_rust/))
+- [Michael-F-Bryan's posts on Rust](https://adventures.michaelfbryan.com/tags/rust/)

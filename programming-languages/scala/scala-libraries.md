@@ -20,6 +20,7 @@
 
 ## DB
 
+- [doobie](https://github.com/tpolecat/doobie) - Functional JDBC layer for Scala.
 - [ScalikeJDBC](https://github.com/scalikejdbc/scalikejdbc) - Tidy SQL-based DB access library for Scala that naturally wraps JDBC and provides easy-to-use APIs.
 - [Skunk](https://github.com/tpolecat/skunk) - Data access library for Scala + Postgres.
 

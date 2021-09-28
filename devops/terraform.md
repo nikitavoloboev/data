@@ -96,3 +96,5 @@
 - [Terraform provider for generic REST APIs](https://github.com/Mastercard/terraform-provider-restapi)
 - [Anthology](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
 - [Creating A Terraform Provider (2018)](https://medium.com/spaceapetech/creating-a-terraform-provider-part-1-ed12884e06d7) ([Code](https://github.com/spaceapegames/terraform-provider-example))
+- [Cloudflare Terraforming](https://github.com/cloudflare/cf-terraforming) - Command line utility to facilitate terraforming your existing Cloudflare resources. It does this by using your account credentials to retrieve your configurations from the Cloudflare API and converting them to Terraform configurations.
+- [Terraform OVH Provider](https://github.com/ovh/terraform-provider-ovh)

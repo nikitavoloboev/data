@@ -298,3 +298,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [POA TokenBridge](https://github.com/poanetwork/tokenbridge) - Allows users to transfer assets between two chains in the Ethereum ecosystem.
 - [Cartesi RISC-V Solidity Emulator](https://github.com/cartesi/machine-solidity-step) - On-chain implementation of the Cartesi Machine.
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
+- [Ethereum JSON-RPC Specification](https://github.com/ethereum/execution-apis)

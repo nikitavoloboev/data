@@ -18,7 +18,7 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 
 ## Nice OSS Safari extensions
 
-- [Amplosion](https://github.com/christianselig/Amplosion) - iOS app/Safari extension to automagically redirect AMP links to their normal counterpart. ([Tweet](https://twitter.com/ChristianSelig/status/1440018874943029248))
+- [Amplosion](https://github.com/christianselig/Amplosion) - iOS app/Safari extension to automagically redirect AMP links to their normal counterpart. ([Tweet](https://twitter.com/ChristianSelig/status/1440018874943029248)) ([HN](https://news.ycombinator.com/item?id=28678684))
 - [Open in Apollo Safari Extension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo.
 - [Paint it Red](https://github.com/kukushechkin/paint-it-red) - Safari Web Extension to custom color Safari 15 pages with theme-color.
 

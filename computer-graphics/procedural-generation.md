@@ -38,3 +38,4 @@
 - [Tiles to Curves Or, Fun with Voronoi Graphs (2019)](https://www.ludomotion.com/blogs/tiles-to-curves/index.html)
 - [Voxel Space](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code.
 - [fishdraw](https://fishdraw.glitch.me/) - Procedurally generated fish drawings. ([Code](https://github.com/LingDong-/fishdraw))
+- [Procedurally generating a rounded box mesh (2021)](https://wwwtyro.net/2021/09/24/rounded-box.html) ([HN](https://news.ycombinator.com/item?id=28677064))

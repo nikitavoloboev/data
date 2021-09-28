@@ -30,3 +30,4 @@
 - [Configuration (and configuration files) is not and cannot be generic (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigurationIsNotGeneric) ([Lobsters](https://lobste.rs/s/v8iqgb/configuration_configuration_files_is))
 - [Quinine](https://github.com/krandiash/quinine) - Library to create and manage configuration files, especially for machine learning projects.
 - [The KDL Document Language](https://kdl.dev/) ([HN](https://news.ycombinator.com/item?id=28510031))
+- [Apollo](https://github.com/apolloconfig/apollo) - Reliable configuration management system suitable for microservice configuration management scenarios. ([Web](https://www.apolloconfig.com/#/))

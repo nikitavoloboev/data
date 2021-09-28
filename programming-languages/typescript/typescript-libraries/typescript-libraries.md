@@ -13,6 +13,7 @@
 - [tRPC](https://github.com/trpc/trpc) - TypeScript toolkit for building end-to-end typesafe APIs.
 - [typed-rest-client](https://github.com/microsoft/typed-rest-client) - Lightweight REST and HTTP client optimized for use with TypeScript with generics and async await.
 - [Ts.ED](https://github.com/TypedProject/tsed) - Node.js and TypeScript Framework on top of Express/Koa.js.
+- [Axios-Fetch](https://github.com/lifeomic/axios-fetch) - WebAPI Fetch implementation backed by an Axios client.
 
 ## Test
 
@@ -153,6 +154,7 @@
 - [UCAST](https://github.com/stalniy/ucast) - Universal Conditions AST. ([Examples](https://github.com/stalniy/casl-examples))
 - [ts](https://github.com/mmkal/ts) - Monorepo of typescript projects.
 - [urlpack](https://github.com/daangn/urlpack) - Pure JavaScript toolkit for data URLs (MessagePack, Base58 and Base62).
+- [miette](https://github.com/gabrielcsapo/miette) - Fancy upgrade to console.log.
 
 ## Links
 

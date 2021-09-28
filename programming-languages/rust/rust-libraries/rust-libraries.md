@@ -213,6 +213,7 @@
 - [better-panic](https://github.com/mitsuhiko/better-panic) - Gives you pretty backtraces for panics.
 - [thisdiagnostic](https://github.com/zkat/thisdiagnostic) - Rust library for adding rich diagnostic metadata to errors.
 - [miette](https://github.com/zkat/miette) - Fancy upgrade to std::error::Error.
+- [color-eyre](https://github.com/yaahc/color-eyre) - Custom hooks for colorful human oriented error reports via panics and the eyre crate.
 
 ## IO
 

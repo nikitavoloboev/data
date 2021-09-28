@@ -4,7 +4,8 @@
 
 - [Store](https://github.com/fabiospampinato/store) - Beautifully-simple framework-agnostic modern state management library.
 - [React Tracked](https://github.com/dai-shi/react-tracked) - Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
-- [Jotai](https://github.com/react-spring/jotai) - Primitive, flexible state management for React.
+- [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React.
+- [idyl](https://github.com/pacocoursey/idyl) - Merge ideas from zustand + swr + valtio into a simple shared state.
 
 ## Other
 
@@ -161,3 +162,4 @@
 - [The Latest Ref Pattern in React](https://epicreact.dev/the-latest-ref-pattern-in-react/)
 - [Prefer Declarative State Updaters (2021)](https://kyleshevlin.com/prefer-declarative-state-updaters) ([Lobsters](https://lobste.rs/s/jt2auz/prefer_declarative_state_updaters))
 - [Scroll events, React Hooks and Refs](https://coding-time.co/scroll-events-react-hooks/)
+- [Making hook work conditionally](https://twitter.com/kyleshevlin/status/1442555297101279236)

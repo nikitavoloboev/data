@@ -54,6 +54,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [NFTs are being wash traded. That’s when the buyer and the seller are secretly the same person.](https://twitter.com/JWWeatherman_/status/1431373325842923527)
 - [Keep L1 simple and decentralized and scale on L2.](https://twitter.com/latetot/status/1437794513389592587)
 - [NFTs are a Ponzi scheme, corroborated by many reputable sources.](https://twitter.com/castpixel/status/1438063396772007937)
+- [Person: web3 is empowering creators! Me: Oh so it's like a decentralized network like mastodon? Person: no it's like web 2.0 plus blockchain.](https://twitter.com/ReinH/status/1442536279409774597)
 
 ## Links
 
@@ -235,3 +236,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Optics](https://github.com/celo-org/optics-monorepo) - Cross-chain communication system. Handles passing raw buffers between blockchains cheaply, and with minimal fuss.
 - [DappTools Resources](https://github.com/rajivpo/awesome-dapptools)
 - [Decentology](https://www.decentology.com/) - Build composable apps in under 15 mins on Ethereum, Flow, Solana, Polygon & more. ([Twitter](https://twitter.com/decentology))
+- [Blockchain written in Zig](https://github.com/lithdew/rheia)
+- [Useful non-money related crypto projects (2021)](https://twitter.com/andrestaltz/status/1442558917683335168)

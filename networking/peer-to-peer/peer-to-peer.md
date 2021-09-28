@@ -87,3 +87,4 @@
 - [Freenet](https://freenetproject.org/index.html) - Peer-to-peer platform for censorship-resistant communication and publishing. ([HN](https://news.ycombinator.com/item?id=28587220))
 - [I2P Anonymous Network](https://geti2p.net/en/) - Privacy by design, people-powered network. It is a truly free and anonymizing Internet alternative.
 - [Dione](https://github.com/Dione-Software/dione) - Anonymize and encrypted messaging system build on top on a peer to peer layer.
+- [Backchannel](https://github.com/inkandswitch/backchannel) - Local-first address book.

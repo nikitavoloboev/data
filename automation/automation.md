@@ -30,6 +30,7 @@
 - [Reflective](https://reflective.co/) - Automate without losing the human touch.
 - [Inside Arrival's Revolutionary Microfactory (2021)](https://www.youtube.com/watch?v=mZCrd704g20)
 - [Why Tesla Needed The Giga Press (2021)](https://www.youtube.com/watch?v=qJDSOwf9hpw)
+- [Ironies of Automation (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
 
 ## Images
 

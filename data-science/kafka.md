@@ -63,3 +63,4 @@
 - [Kafka Rust Example](https://github.com/ansrivas/kafka-rust-example) - Simple command line application to read/write message to kafka topic using protobuf.
 - [Exactly once delivery from Kafka to Delta Lake with Rust](https://github.com/delta-io/kafka-delta-ingest)
 - [Optimizing Kafka Performance (2021)](https://granulate.io/optimizing-kafka-performance/) ([Reddit](https://www.reddit.com/r/scala/comments/pr45zg/optimizing_kafka_performance/))
+- [What is Apache Kafka, and what are Kafka use cases? (2021)](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)

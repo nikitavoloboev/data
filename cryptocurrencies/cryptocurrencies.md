@@ -135,3 +135,5 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Bity](https://bity.com/) - Buy, sell, and trade crypto. ([GitHub](https://github.com/BitySA))
 - [The SEC is threatening Coinbase to protect the public - But NOT in the way that you think (2021)](https://twitter.com/ojuice_eth/status/1441406498186227720)
 - [Companies hiring in crypto (2021)](https://twitter.com/thebengoldberg/status/1441460405495234562)
+- [Why web 3 matters and why it can be problematic (2021)](https://twitter.com/lazerwalker/status/1442242288961290241)
+- [Stablecoins, Stability, and Financial Inclusion (2021)](https://future.a16z.com/stablecoins-stability-and-financial-inclusion/) ([Tweet](https://twitter.com/katie_haun/status/1442557615318257683))

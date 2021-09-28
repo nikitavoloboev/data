@@ -154,3 +154,4 @@ All active variables can be seen by running `env`.
 - [PaSh: Light-touch Data-Parallel Shell Processing (2021)](https://www.micahlerner.com/2021/07/31/pash-light-touch-data-parallel-shell-processing.html)
 - [resholve](https://github.com/abathur/resholve) - Replaces references to a bash/shell script's external dependencies (commands and sourced scripts) with absolute paths.
 - [Fun with Redirection (2021)](https://christine.website/blog/fun-with-redirection-2021-09-22)
+- [Dune](https://github.com/adam-mcdaniel/dune) - Shell by the beach.

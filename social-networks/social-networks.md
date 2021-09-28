@@ -130,3 +130,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Reasons To Quit Social Media (2021)](https://durmonski.com/life-advice/reasons-to-quit-social-media/) ([HN](https://news.ycombinator.com/item?id=28616277))
 - [Decentralized Social Networking Protocol (DSNP)](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)
 - [Facebook is other people](https://kevinmunger.substack.com/p/facebook-is-other-people) ([HN](https://news.ycombinator.com/item?id=28649044))
+- [What our research says about teen well-being and Instagram (2021)](https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/) ([HN](https://news.ycombinator.com/item?id=28665503))

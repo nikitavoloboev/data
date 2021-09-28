@@ -374,3 +374,4 @@
 - [A terminal case of Linux (2021)](https://fasterthanli.me/articles/a-terminal-case-of-linux)
 - [Toybox](https://github.com/landley/toybox) - All-in-one Linux command line. ([HN](https://news.ycombinator.com/item?id=28627433))
 - [Linux Kernel Module Cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) - Perfect emulation setup to study and develop the Linux kernel.
+- [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/) ([HN](https://news.ycombinator.com/item?id=28596933))

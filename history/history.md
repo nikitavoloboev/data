@@ -116,7 +116,7 @@
 - [What's your favorite piece of obsolete technology? (2021)](https://twitter.com/theavalkyrie/status/1383092894551117839)
 - [Протесты немецких женщин на Розенштрассе](https://twitter.com/elitablog/status/1384253519918637061)
 - [Exclusive Photos Inside the Chernobyl Nuclear Power Plant (2021)](https://petapixel.com/2021/04/24/exclusive-photos-inside-the-chernobyl-nuclear-power-plant/)
-- [What John von Neumann Did at Los Alamos (2020)](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
+- [What John von Neumann Did at Los Alamos (2020)](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html) ([HN](https://news.ycombinator.com/item?id=28673376))
 - [Books to understand Middle East better (2021)](https://twitter.com/brianleroux/status/1393588109514731522)
 - [Why Civilization Is Older Than We Thought (2021)](https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/)
 - [Why Some Old Computers are Interesting](http://hccc.org.uk/retro/retro.html)
@@ -139,3 +139,4 @@
 - [One Woman’s Mission to Rewrite Nazi History on Wikipedia (2021)](https://www.wired.com/story/one-womans-mission-to-rewrite-nazi-history-wikipedia/) ([Tweet](https://twitter.com/tqbf/status/1437145477389111296))
 - [How factories were made safe (2021)](https://rootsofprogress.org/history-of-factory-safety) ([HN](https://news.ycombinator.com/item?id=28504316))
 - [History of Botswana, where human life began](https://twitter.com/VodkaPolitics/status/1441767278664617985)
+- [Are there more surviving ancient writings in Greek or Latin? (2021)](https://talesoftimesforgotten.com/2021/09/25/are-there-more-surviving-ancient-writings-in-greek-or-latin/) ([HN](https://news.ycombinator.com/item?id=28662809))

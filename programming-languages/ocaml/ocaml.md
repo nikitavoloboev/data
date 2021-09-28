@@ -84,3 +84,4 @@
 - [OCaml By Example](https://o1-labs.github.io/ocamlbyexample/)
 - [OCaml Programming: Correct + Efficient + Beautiful Lectures (2021)](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
 - [Writing a REST API with Dream (2021)](https://jsthomas.github.io/ocaml-dream-api.html) ([Code](https://github.com/jsthomas/sensors))
+- [BetterOCaml](https://betterocaml.ml/) - Efficient, intuitive and cross-platform web IDE for the OCaml language. ([Code](https://github.com/jbdoderlein/BetterOCaml))

@@ -46,3 +46,4 @@
 - [RuntimeBrowser](https://github.com/nst/RuntimeBrowser) - Objective-C Runtime Browser, for Mac OS X and iOS.
 - [AppleTrace](https://github.com/everettjf/AppleTrace) - Objective C Method Tracing Call Chart.
 - [A Short History of Objective-C (2017)](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd) ([HN](https://news.ycombinator.com/item?id=28563870))
+- [How Swift is better than ObjC](https://twitter.com/jckarter/status/1442557437429510146)

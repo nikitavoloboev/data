@@ -81,6 +81,7 @@
 - [Next.js + Linaria](https://github.com/Mistereo/next-linaria)
 - [nextjs-multi-domain-locale](https://github.com/tomsoderlund/nextjs-multi-domain-locale) - Hosting multiple domains on the same Next.js site (while maintaining multiple languages and SSG).
 - [next-rpc](https://github.com/Janpot/next-rpc) - Makes exported functions from API routes accessible in the browser. Just import your API function and call it anywhere you want.
+- [next-runtime](https://github.com/smeijer/next-runtime) - All you need to handle POST requests, file uploads, and api requests, in getServerSideProps.
 
 ## Notes
 
@@ -244,3 +245,4 @@
 - [Next.js, Prisma, PlanetScale and Vercel (2021)](https://www.shadcn.com/next-prisma-planetscale-vercel) - Deploy your Next.js + Prisma app to PlanetScale and Vercel.
 - [Next.js API Routes validation using Middlewares and Yup](https://www.shadcn.com/validation-middleware)
 - [Using Postmark with NextAuth.js](https://www.shadcn.com/next-auth-postmark)
+- [Logging in Next.js (2020)](https://www.netlify.com/blog/2020/12/13/logging-in-next.js/)

@@ -27,7 +27,7 @@
 - [Tiny Houses Subreddit](https://www.reddit.com/r/tinyhouses)
 - [Would artificial intelligence like to say something about architecture? (2019)](https://archinect.com/news/article/150133371/would-artificial-intelligence-like-to-say-something-about-architecture)
 - [Marginalia by Darran Anderson](https://www.patreon.com/oniropolis) - Notes from the edge of architecture.
-- [Monograph](https://monograph.io/) - Project Management Software. For Architects & Engineers.
+- [Monograph](https://monograph.io/) - Project Management Software. For Architects & Engineers. ([Twitter](https://twitter.com/MonographHQ))
 - [In Residence - Inside the homes of celebrated architects, designers and artists](https://www.youtube.com/playlist?list=PLuu-TPQ2CJp3DofoAWABBgTHoMvcADp7x)
 - [In Residence: Alex Michaelis (2016)](https://www.youtube.com/watch?v=ziZ_tTvtk1k)
 - [Interiors by Shanghai Hip-pop Architectural Decoration Design Co](http://www.hippop-sh.cn/)

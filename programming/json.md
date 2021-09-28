@@ -1,5 +1,9 @@
 # [JSON](https://www.json.org)
 
+## Notes
+
+- [I wish JSON.parse had an option to allow comments and trailing commas. There's a whole world of config files in companies that the built in platform can't handle. Installing jsonc or json5 is one of the first things I do everywhere.](https://twitter.com/ElliottZ/status/1442524500365508616)
+
 ## Links
 
 - [Transform a glob of text into structured JSON](https://transform.isthe.link/?)
@@ -68,3 +72,4 @@
 - [JSON Schema bundling formalized (2021)](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents) ([HN](https://news.ycombinator.com/item?id=28479464))
 - [Awesome JSON Schema](https://github.com/jviotti/awesome-jsonschema)
 - [Zod to JSON Schema](https://github.com/StefanTerdell/zod-to-json-schema)
+- [JSON5](https://json5.org/) - JSON for Humans. ([Code](https://github.com/json5/json5)) ([HN](https://news.ycombinator.com/item?id=28668282))

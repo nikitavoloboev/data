@@ -147,6 +147,7 @@
 - [Developer, you may need a co-founder in marketing (2021)](https://microfounder.com/blog/cofounder-in-marketing) ([HN](https://news.ycombinator.com/item?id=28553775))
 - [How I’ve approached founder-led sales (2021)](https://www.kracov.co/writing/founder-sales)
 - [Death of advertising (2021)](http://adaged.blogspot.com/2021/09/a-fking-master.html) ([Tweet](https://twitter.com/vanschneider/status/1440676090641481729))
+- [The Mom Test – How to talk to customers](https://sandro.volpee.de/the-mom-test-summary-validate-ideas) ([HN](https://news.ycombinator.com/item?id=28667439))
 
 ## Images
 

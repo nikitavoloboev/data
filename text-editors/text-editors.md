@@ -56,7 +56,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Led](https://github.com/cessen/led) - Simple console-based text editor, written in Rust and using Ropey as its text buffer.
 - [react-tapable-editor](https://github.com/ryuever/react-tapable-editor) - Pluginable, intuitive medium/notion like rich text editor.
 - [focus](https://github.com/jamii/focus) - Low-latency text editor in Zig.
-- [Lite XL](https://github.com/lite-xl/lite-xl) - Lightweight text editor written in Lua. ([Web](https://lite-xl.github.io/))
+- [Lite XL](https://github.com/lite-xl/lite-xl) - Lightweight text editor written in Lua. ([Web](https://lite-xl.github.io/)) ([HN](https://news.ycombinator.com/item?id=28669439))
 - [Plain web text editor](https://github.com/pacocoursey/writer)
 - [Opus](https://github.com/pacocoursey/Opus) - Minimal note-taking app.
 

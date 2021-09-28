@@ -114,3 +114,4 @@
 - [Making world-class docs takes effort (2021)](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/) ([Lobsters](https://lobste.rs/s/wt6orw/making_world_class_docs_takes_effort))
 - [Writing Well-Documented Code - Learn from Examples (2021)](https://codecatalog.org/2021/09/04/well-documented-code.html) ([HN](https://news.ycombinator.com/item?id=28416269))
 - [Writing class documentation (2021)](https://rant.gulbrandsen.priv.no/udoc/writing-class-documetation)
+- [When does your team write release notes? (2021)](https://twitter.com/housecor/status/1442457214627631104)

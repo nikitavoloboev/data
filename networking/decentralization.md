@@ -4,6 +4,8 @@
 
 - [The hardest problem in censorship resistance is the challenge of getting humans to split their stake between many independent validators. Defi is going to drive censorship resistance, and is really our only hope of achieving a truly censorship resistant global network.](https://twitter.com/aeyakovenko/status/1388148048639905792)
 - [Decentralization is a quantifiable measurable thing. It’s: 1. Cost to censor. 2. Cost to destroy all replicas. Any chain that charges users above 4x the hardware costs to provide decentralization will get passed by a cheaper and faster and more decentralized network.](https://twitter.com/aeyakovenko/status/1441904519877566466)
+- [Decentralized technical systems do not necessarily produce decentralized political power.](https://twitter.com/keikreutler/status/1442438737678544896)
+- [The economic reward function is very important. As long as there are uncapped returns, centralization is inevitable.](https://twitter.com/BlackForestBoi/status/1442444302408470530)
 
 ## Links
 
@@ -80,3 +82,4 @@
 - [Project Liberty](https://www.projectliberty.io/) - Building a more equitable civic architecture for the next generation of the web. ([GitHub](https://github.com/LibertyDSNP))
 - [The role of decentralization, China/US break down & more with Bestie Guestie Balaji Srinivasan (2021)](https://www.youtube.com/watch?v=B2iNXMiGEms) ([Tweet](https://twitter.com/balajis/status/1441632885643960321))
 - [What is Web3? The Decentralized Internet of the Future Explained (2021)](https://www.freecodecamp.org/news/what-is-web3/)
+- [Good reads on Web 3 (2021)](https://twitter.com/campbelljbaron/status/1442251471689379841)

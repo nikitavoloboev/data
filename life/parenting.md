@@ -48,3 +48,4 @@
 - [Ask HN: Do you regret having children?](https://news.ycombinator.com/item?id=27795186)
 - [Having Kids (2019)](http://www.paulgraham.com/kids.html)
 - [Best reasons for or against having kids](https://twitter.com/csallen/status/1422927732267130886)
+- [Ugly Truths about social media and kids (2021)](https://twitter.com/alexstamos/status/1442527773042438147)

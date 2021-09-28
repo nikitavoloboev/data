@@ -107,3 +107,4 @@ Learning to build [startups](startups/startups.md).
 - [Economics of Bundling and Unbundling (2021)](https://matt-rickard.com/bundling-unbundling-economics/)
 - [Bernard Arnault's LVMH business (2021)](https://twitter.com/TrungTPhan/status/1421496101295722498)
 - [2013 Elon email to employees on why he wants to keep SpaceX private](https://twitter.com/TrungTPhan/status/1433992813444669445)
+- [As More Workers Go Solo, the Software Stack Is the New Firm (2021)](https://future.a16z.com/solo-workers-software-stack/)

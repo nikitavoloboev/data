@@ -182,6 +182,9 @@
 - [Kitex](https://github.com/cloudwego/kitex) - High-performance and strong-extensibility Go RPC framework that helps developers build microservices.
 - [go-sse](https://github.com/tmaxmax/go-sse) - Lightweight, fully spec-compliant HTML5 server-sent events library.
 - [go-restful](https://github.com/emicklei/go-restful) - Package for building REST-style Web Services using Go.
+- [reliable](https://github.com/lithdew/reliable) - Reliability layer for UDP connections in Go.
+- [monte](https://github.com/lithdew/monte) - Bare minimum for high performance, fully-encrypted bidirectional RPC over TCP in Go with zero memory allocations.
+- [ns-x](https://github.com/bytedance/ns-x) - Easy-to-use, flexible network simulator library for Go.
 
 ## GraphQL
 
@@ -434,7 +437,7 @@
 - [Aero](https://github.com/aerogo/aero) - High-performance web server for Go.
 - [rain](https://github.com/cenkalti/rain) - BitTorrent client and library in Go.
 - [Jet](https://github.com/go-jet/jet) - Type safe SQL Builder for Go with automatic scan to desired arbitrary object structure.
-- [ent](https://github.com/facebookincubator/ent) - An Entity Framework For Go. Simple, yet powerful ORM for modeling and querying data.
+- [ent](https://github.com/ent/ent) - Simple, yet powerful entity framework for Go, that makes it easy to build and maintain applications with large data-models. ([Web](https://entgo.io/)) ([Docs](https://entgo.io/docs/getting-started)) ([GraphQL setup](https://github.com/a8m/ent-graphql-example))
 - [Muon](https://github.com/ImVexed/muon) - Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
 - [gnet](https://github.com/panjf2000/gnet) - High-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [env](https://github.com/caarlos0/env) - Simple lib to parse envs to structs in Go.
@@ -952,6 +955,11 @@
 - [Queue](https://github.com/golang-queue/queue) - Go library for spawning and managing a Goroutine pool, Allowing you to create multiple worker according to limit CPU number of machine.
 - [glg](https://github.com/kpango/glg) - Simple and blazing fast lockfree logging library for Go.
 - [gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go.
+- [go-memexec](https://github.com/amenzhinsky/go-memexec) - Small library that executes code from the memory.
+- [Stateless](https://github.com/qmuntal/stateless) - Create state machines and lightweight state machine-based workflows directly in Go code.
+- [gltf](https://github.com/qmuntal/gltf) - Go module for efficient and robust serialization/deserialization of glTF 2.0.
+- [NFF-Go](https://github.com/intel-go/nff-go) - Set of libraries for creating and deploying cloud-native Network Functions (NFs).
+- [Functional Programming Core Libraries](https://github.com/go-functional/core)
 
 ## Links
 

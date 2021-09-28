@@ -59,3 +59,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [The future of weight loss (2021)](https://www.worksinprogress.co/issue/the-future-of-weight-loss/)
 - [Ask HN: How do I get fit and healthy as a software engineer? (2021)](https://news.ycombinator.com/item?id=28561238)
 - [Ask HN: Improving health despite working in a screen-based job (2021)](https://news.ycombinator.com/item?id=28627450)
+- [It's not your age that's slowing your metabolism, new research says (2021)](https://lite.cnn.com/en/article/h_6393a3cab16cabbe7bfa1e77505a6ef8) ([HN](https://news.ycombinator.com/item?id=28666060))

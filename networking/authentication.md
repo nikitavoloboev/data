@@ -152,3 +152,4 @@
 - [CASL](https://github.com/stalniy/casl) - Isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access. ([Web](https://casl.js.org/))
 - [NetAuth](https://github.com/netauth/netauth) - Easy to deploy, easy to use authentication and identity provider. ([Web](https://www.netauth.org/))
 - [OAuth2AuthCodePKCE client](https://github.com/BitySA/oauth2-auth-code-pkce) - OAuth 2.0 client that ONLY supports the Authorization Code flow with PKCE support.
+- [localfirst/auth](https://github.com/local-first-web/auth) - Provides decentralized authentication and authorization for team collaboration, using a secure chain of cryptographic signatures.

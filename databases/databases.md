@@ -210,6 +210,7 @@
 - [dbmigrate](https://github.com/Keats/dbmigrate) - PostgreSQL/SQLite/MySQL migration tool in rust.
 - [Qsh](https://github.com/muhmud/qsh) - Improved database querying from your terminal. ([HN](https://news.ycombinator.com/item?id=28550874))
 - [trona](https://github.com/igorkamyshev/trona) - Write DB migrations with SQL and run them with a CLI.
+- [Azimutt](https://azimutt.app/) - Explore your database schema.
 
 ## Notes
 
@@ -422,3 +423,4 @@
 - [Real world database latency (2021)](https://fauna.com/blog/real-world-database-latency) ([HN](https://news.ycombinator.com/item?id=28594664))
 - [Best JS/TS library to use for subscribing to DB changes (2021)](https://twitter.com/flybayer/status/1440331756729634824)
 - [Notes on Database Normalization](https://www.davebernhard.com/blog/database-normalization-notes)
+- [Partitioning GitHub’s relational databases to handle scale (2021)](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
