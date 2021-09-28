@@ -67,6 +67,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Web Clipper](https://clipper.website/) - Open source extension. You can use it to save anything on the web to anywhere. ([Code](https://github.com/webclipper/web-clipper))
 - [Reclaim](https://reclaim.ai/) - Make time when there is none.
 - [Kapwing](https://www.kapwing.com/) - Collaborative platform for creating images, videos, and GIFs.
+- [Duply.co](https://duply.co/) - Tool that helps create Image dynamically, design once and reuse it
 - [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups on the browser.
 - [Feedback Fish](https://feedback.fish/) - Collect feedback. Make your customers happy.
 - [Hypothesis](https://web.hypothes.is/) - Annotate the web, with anyone, anywhere. ([HN](https://news.ycombinator.com/item?id=23573852)) ([GitHub](https://github.com/hypothesis)) ([Code](https://github.com/hypothesis/h)) ([Client Code](https://github.com/hypothesis/client))
