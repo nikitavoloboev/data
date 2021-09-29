@@ -195,3 +195,5 @@
 - [Merlion](https://github.com/salesforce/Merlion) - Machine Learning Framework for Time Series Intelligence.
 - [Feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning. ([Web](https://feast.dev/))
 - [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony. ([Web](https://nnabla.org/))
+- [RevLib](https://github.com/ClashLuke/revlib) - Simple and efficient RevNet-Library with DeepSpeed support.
+- [DeepSparse](https://github.com/neuralmagic/deepsparse) - Neural network inference engine that delivers GPU-class performance for sparsified models on CPUs.

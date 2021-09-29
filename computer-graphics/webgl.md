@@ -66,3 +66,4 @@
 - [ogl-tools](https://github.com/ayamflow/ogl-tools) - WebGL tools for use with the OGL library.
 - [WebGL-Memory](https://github.com/greggman/webgl-memory) - Library to track webgl-memory.
 - [Smooth WebGL Shader Transformations on Scroll](https://github.com/Faboolea/shaders-on-scroll)
+- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.

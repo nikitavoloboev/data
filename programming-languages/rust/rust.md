@@ -577,3 +577,4 @@
 - [Finding Closure in Rust (2015)](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/)
 - [Common Newbie Mistakes and Bad Practices in Rust: Bad Habits (2021)](https://adventures.michaelfbryan.com/posts/rust-best-practices/bad-habits/) ([Reddit](https://www.reddit.com/r/rust/comments/pwg2r8/common_newbie_mistakes_and_bad_practices_in_rust/))
 - [Michael-F-Bryan's posts on Rust](https://adventures.michaelfbryan.com/tags/rust/)
+- [LSP-rust-analyzer](https://github.com/sublimelsp/LSP-rust-analyzer) - Convenience package for rust-analyzer.

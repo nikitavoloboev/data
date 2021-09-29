@@ -43,3 +43,4 @@
 - [Learning Squeak in 2020](https://wiki.squeak.org/squeak/6622)
 - [HowTo: small talk и разговоры о погоде (2021)](https://vas3k.club/post/11188/)
 - [The Evolution of Smalltalk from Smalltalk-72 to Squeak (2021)](https://www.pldi21.org/prerecorded_hopl.17.html) ([HN](https://news.ycombinator.com/item?id=28332205))
+- [Squeak Graphics OpenGL](https://github.com/hpi-swa-lab/squeak-graphics-opengl) - Collection of projects related to using OpenGL in Squeak/Smalltalk.

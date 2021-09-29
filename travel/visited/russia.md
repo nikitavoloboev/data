@@ -250,4 +250,6 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Евгений Чичваркин - YouTube](https://www.youtube.com/c/totsamychichvarkin/videos)
 - [Гедонист в эмиграции, виноторговец, ресторатор, возмутитель спокойствия - и все в одном флаконе (2021)](https://www.youtube.com/watch?v=Xi19uHPprdM)
 - [Почему Путин накажет Медведева после победы «Единой России» на выборах? (2021)](https://www.youtube.com/watch?v=JoXVBVKlHhA)
-- [Дебаты: В чем оппозиция должна действовать вместе | Михаил Светов, Иван Жданов и Михаил Ходорковский (2021)](https://www.youtube.com/watch?v=sCtn5kofRN8) ([Tweet](https://twitter.com/ioannZH/status/1442552575207804928))
+- [Дебаты: В чем оппозиция должна действовать вместе | Михаил Светов, Иван Жданов и Михаил Ходорковский (2021)](https://www.youtube.com/watch?v=sCtn5kofRN8) ([Tweet](https://twitter.com/ioannZH/status/1442552575207804928)) ([Tweet](https://twitter.com/ivaost/status/1442539662099107844))
+- [Troubleshooting mission (2021)](https://www.ridl.io/en/troubleshooting-mission/)
+- [RIDDLE Russia](http://www.ridl.io/en/) - Online journal on Russian affairs. ([Twitter](https://twitter.com/RiddleRussia))

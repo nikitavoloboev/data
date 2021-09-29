@@ -316,3 +316,5 @@
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres.
 - [Persisted operations](https://github.com/graphile/persisted-operations) - Persisted operations (aka "persisted queries") support for PostGraphile.
 - [PostgreSQL Prolog](https://github.com/aarroyoc/postgresql-prolog) - Prolog library to connect to PostgreSQL databases. ([HN](https://news.ycombinator.com/item?id=28660202))
+- [postgraphile-plugin-connection-filter](https://github.com/graphile-contrib/postgraphile-plugin-connection-filter) - Adds a powerful suite of filtering capabilities to a PostGraphile schema.
+- [Why isn’t Postgres using my index? (2021)](https://www.pgmustard.com/blog/why-isnt-postgres-using-my-index)

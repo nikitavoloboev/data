@@ -191,6 +191,7 @@
 - [gqlgen](https://github.com/99designs/gqlgen) - Library for quickly creating strictly typed graphql servers in golang. ([Docs](https://gqlgen.com/))
 - [gq](https://github.com/housecanary/gq) - Library to help build GraphQL server in Go.
 - [GGql](https://github.com/UHN/ggql) - GraphQL implementation for Go.
+- [Tutone](https://github.com/newrelic/tutone) - Generate Go types from GraphQL schema introspection.
 
 ## Flag parsing
 
@@ -960,6 +961,7 @@
 - [gltf](https://github.com/qmuntal/gltf) - Go module for efficient and robust serialization/deserialization of glTF 2.0.
 - [NFF-Go](https://github.com/intel-go/nff-go) - Set of libraries for creating and deploying cloud-native Network Functions (NFs).
 - [Functional Programming Core Libraries](https://github.com/go-functional/core)
+- [Dogs](https://github.com/genkami/dogs) - Make Go functional with dogs.
 
 ## Links
 

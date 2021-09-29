@@ -108,3 +108,4 @@ Learning to build [startups](startups/startups.md).
 - [Bernard Arnault's LVMH business (2021)](https://twitter.com/TrungTPhan/status/1421496101295722498)
 - [2013 Elon email to employees on why he wants to keep SpaceX private](https://twitter.com/TrungTPhan/status/1433992813444669445)
 - [As More Workers Go Solo, the Software Stack Is the New Firm (2021)](https://future.a16z.com/solo-workers-software-stack/)
+- [α-Indirect Control in Onion-like Networks (2021)](https://arxiv.org/abs/2109.07181v2) - Algorithm that detects the ultimate controlling owners of companies. ([Article](https://www.skoltech.ru/en/2021/09/new-tool-reveals-ultimate-owners-of-companies/)) ([HN](https://news.ycombinator.com/item?id=28688906))

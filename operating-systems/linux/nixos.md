@@ -151,3 +151,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Nix-Gui](https://github.com/nix-gui/nix-gui) - Make NixOS usable for non-technical users through a settings / package management GUI.
 - [NixOS Configuration with Flakes (2021)](https://jdisaacs.com/blog/nixos-config/)
 - [Google Cloud “GCP” native NixOS images build (2021)](https://mudrii.medium.com/google-cloud-gcp-native-nixos-images-build-16f77a412bb7)
+- [NixOS Matrix Chat](https://matrix.to/#/#community:nixos.org)

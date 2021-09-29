@@ -127,3 +127,4 @@
 - [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - Easy way to integrate your React (or Preact) app into React Native app with WebView.
 - [React Native Universal Monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo)
 - [Notifee Notifications](https://github.com/invertase/notifee) - Feature rich notifications library for React Native.
+- [React Native: Beyond Basics](https://kadikraman.github.io/react-native-beyond-basics/) - Intermediate React Native course by Kadi Kraman. ([Code](https://github.com/kadikraman/react-native-beyond-basics))

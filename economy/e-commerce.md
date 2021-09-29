@@ -101,3 +101,4 @@
 - [Active Merchant](https://github.com/activemerchant/active_merchant) - Simple payment abstraction library extracted from Shopify.
 - [Redbubble](https://www.redbubble.com/) - Awesome products designed by independent artists.
 - [Ask HN: What is going wrong at Amazon? (2021)](https://news.ycombinator.com/item?id=28655917)
+- [The Low Impact Website by Organic Basics](https://lowimpact.organicbasics.com/) - Reduces data transfer by up to 70% in comparison to our regular website. ([Code](https://github.com/Organic-Basics/ob-low-impact-website))

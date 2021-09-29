@@ -279,3 +279,4 @@
 - [torchkit](https://github.com/kevinzakka/torchkit) - Lightweight library containing PyTorch utilities useful for day-to-day research.
 - [PyTorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution](https://github.com/xmu-xiaoma666/External-Attention-pytorch)
 - [stoke](https://github.com/fidelity/stoke) - Lightweight wrapper for PyTorch that provides a simple declarative API for context switching between devices, distributed modes, mixed-precision, and PyTorch extensions.
+- [pystiche](https://github.com/pystiche/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch.

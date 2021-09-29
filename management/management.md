@@ -146,3 +146,4 @@
 - [Ask HN: How do you do estimates in 2021?](https://news.ycombinator.com/item?id=28662856)
 - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/) ([HN](https://news.ycombinator.com/item?id=28669514))
 - [Briefing a Delegate (2021)](https://jacobian.org/2021/sep/27/briefing-a-delegate/)
+- [What does my engineering manager do all day? (2021)](https://parkjoon.medium.com/what-does-my-engineering-manager-do-all-day-ebdc37c45d8) ([HN](https://news.ycombinator.com/item?id=28676581))

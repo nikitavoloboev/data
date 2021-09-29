@@ -84,3 +84,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [The art of not taking things personally (2021)](https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172) ([HN](https://news.ycombinator.com/item?id=28369727))
 - [One small thing](https://ava.substack.com/p/one-small-thing) ([Tweet](https://twitter.com/startingfromnix/status/1441562115249037312))
 - [I just don’t want to be busy anymore](https://elenasalaks.medium.com/i-just-dont-want-to-be-busy-anymore-ac4dd37c8119) ([HN](https://news.ycombinator.com/item?id=28665065))
+- [On Solitude (2021)](https://eriktorenberg.substack.com/p/on-solitude) ([HN](https://news.ycombinator.com/item?id=28667978))

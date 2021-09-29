@@ -298,3 +298,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [slirpnetstack](https://github.com/cloudflare/slirpnetstack) - User-mode networking for unprivileged network namespaces.
 - [RTC (Real-Time Communication) at scale (2020)](http://www.horatiulazu.ca/blog/coop/2020/05/02/rt-calling.html)
 - [Submarine cable map rendered onto a globe](https://globe.gl/example/submarine-cables/) ([HN](https://news.ycombinator.com/item?id=28641463))
+- [gostatsd](https://github.com/atlassian/gostatsd) - Implementation of Etsy's statsd in Go with tags support.

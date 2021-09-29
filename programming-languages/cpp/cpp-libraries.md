@@ -47,6 +47,7 @@
 - [Yocto/GL](https://github.com/xelatihy/yocto-gl) - C++ Libraries for Data-Driven Physically-based Graphics. ([Docs](https://xelatihy.github.io/yocto-gl/)) ([HN](https://news.ycombinator.com/item?id=26582114))
 - [Methane Kit](https://github.com/egorodet/MethaneKit) - Easy to use modern 3D graphics rendering abstraction API and cross-platform application framework.
 - [Tahoma2D](https://github.com/tahoma2d/tahoma2d) - 2D and Stop Motion Animation Software. ([Web](https://tahoma2d.org/))
+- [gfx](https://github.com/gboisse/gfx) - Minimalist and easy to use graphics API built on top of Direct3D12/HLSL intended for rapid prototyping.
 
 ## DB
 

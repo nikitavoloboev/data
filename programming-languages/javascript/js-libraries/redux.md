@@ -88,3 +88,4 @@ There are [better approaches to manage state in React now](https://twitter.com/k
 - [Typed Redux Saga](https://github.com/agiledigital/typed-redux-saga) - Better TypeScript typing in redux-saga.
 - [Why Redux isn't good any more (2021)](https://twitter.com/kamyshev_dev/status/1441736479240122372)
 - [localfirst/state](https://github.com/local-first-web/state) - Automatically replicated Redux store that gives your app offline capabilities and secure peer-to-peer synchronization superpowers.
+- [Is Redux still recommended in 2021?](https://www.reddit.com/r/reactjs/comments/pwfubd/is_redux_still_recommended_in_2021/)

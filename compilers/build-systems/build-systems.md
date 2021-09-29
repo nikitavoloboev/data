@@ -77,3 +77,4 @@
 - [Reflecting on the Shake Build System (2021)](https://neilmitchell.blogspot.com/2021/09/reflecting-on-shake-build-system.html)
 - [Python as a build tool (2021)](https://tonsky.me/blog/python-build/) ([Lobsters](https://lobste.rs/s/dektfe/python_as_build_tool))
 - [How to Find Packages With CMake: The Basics (2020)](https://izzys.casa/2020/12/how-to-find-packages-with-cmake-the-basics/)
+- [Practical Makefiles, by example (2020)](http://nuclear.mutantstargoat.com/articles/make/)

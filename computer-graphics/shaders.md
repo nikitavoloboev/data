@@ -51,3 +51,4 @@
 - [GLSL Linting for VS Code](https://github.com/hsimpson/vscode-glsllint) - Supports linting of GLS (OpenGL Shading Language).
 - [Shadergarden](https://github.com/tonarino/shadergarden) - Create evolving artistic images with hot-code-reloaded Lisp and GLSL. ([Article](https://blog.tonari.no/shadergarden))
 - [Skia shaders in Compose Desktop (2021)](https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html) ([HN](https://news.ycombinator.com/item?id=28636087))
+- [Nuance](https://github.com/Gui-Yom/nuance) - Tool to run your shaders on the gpu. Also a good demo application for wgpu-rs.

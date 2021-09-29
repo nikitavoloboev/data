@@ -30,6 +30,7 @@
 - [Zig itertools](https://github.com/thebsv/zitertools) - Improved rewrite of the python itertools library to Zig.
 - [ziglyph](https://github.com/jecolon/ziglyph) - Unicode text processing.
 - [Zigstr](https://github.com/jecolon/zigstr) - UTF-8 string type.
+- [Zig Interfaces](https://github.com/alexnask/interface.zig) - Dynamic dispatch for zig made easy.
 
 ## Links
 

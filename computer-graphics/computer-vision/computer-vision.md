@@ -388,3 +388,4 @@
 - [NeRF Atlas](https://github.com/JulianKnodt/nerf_atlas) - Collection of NeRF extensions for fun and experimentation.
 - [Training and testing codes for USRNet, DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, BSRGAN, SwinIR](https://github.com/cszn/KAIR)
 - [Uformer: A General U-Shaped Transformer for Image Restoration (2021)](https://arxiv.org/abs/2106.03106) ([Code](https://github.com/ZhendongWang6/Uformer))
+- [Self-Supervised Pretraining Improves Self-Supervised Pretraining (2021)](https://arxiv.org/abs/2103.12718) ([Code](https://github.com/cjrd/self-supervised-pretraining))

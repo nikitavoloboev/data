@@ -129,3 +129,4 @@
 - [Taking part in Y Combinator from Europe: is it worth it? (2021)](https://sifted.eu/articles/yc-combinator-alum-tips/) ([HN](https://news.ycombinator.com/item?id=28564407))
 - [Funding public goods in identity-free systems (2021)](https://equilibria.club/funding-public-goods-in-identity-free-systems/) ([Tweet](https://twitter.com/VicSintNic/status/1439546213154631680))
 - [Advice on doing a fund raise (2021)](https://twitter.com/oritheorca/status/1441567230945234952)
+- [AngelList Stack](https://www.angellist.com/stack) - Create a fundraising-ready startup. ([HN](https://news.ycombinator.com/item?id=28685308))

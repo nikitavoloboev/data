@@ -141,3 +141,4 @@
 - [VCR.py](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing.
 - [Hudsucker](https://github.com/omjadas/hudsucker) - Intercepting HTTP/S proxy.
 - [Cache-Control Recommendations (2021)](https://pokeinthe.io/2021/09/13/cache-control-recommendations/)
+- [cacheable-response](https://github.com/Kikobeats/cacheable-response) - HTTP compliant route path middleware for serving cache response with invalidation support.

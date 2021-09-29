@@ -140,6 +140,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
 - [Sketch Toy](https://sketchtoy.com/) - Draw sketches and share replays with friends.
+- [RescueTime](https://www.rescuetime.com/) - App you install on your computer and mobile devices that automatically pays attention to the apps you use. ([HN](https://news.ycombinator.com/item?id=28683597))
 - [Fleetsmith](https://www.fleetsmith.com/) - Secure, cloud-based Apple device management via G Suite or Office 365. ([HN](https://news.ycombinator.com/item?id=23629438))
 - [Matter](https://matterapp.com/) - Recognize your team members with Kudos, gather continuous feedback, and so much more.
 - [Kolide](https://www.kolide.com/) - Endpoint security solution for teams that value productivity, transparency, and employee happiness.
@@ -238,6 +239,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 - [Precursor](https://precursorapp.com/) - Fast prototyping web app, makes collaboration easy. ([Code](https://github.com/PrecursorApp/precursor))
 - [Front](https://frontapp.com/) - Inbox for teams.
+- [unavatar.io](https://unavatar.io/) - Get unified user avatar from Twitter, GitHub, Intagram, Reddit, etc. ([Code](https://github.com/microlinkhq/unavatar))
 - [Code Bench](https://www.codebench.cloud/) - Platform to keep track of your benchmarks.
 - [Snap.as](https://snap.as/) - Permanent home for your photos.
 - [Primer](https://www.primer.com/) - Get creative with your space. Visualize inspiring ideas right in your space so you can make it perfect.
@@ -249,6 +251,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Openbase](https://openbase.com/) - Choose the right package every time. Compare millions of open-source packages with reviews and insights.
 - [Rasa](https://rasa.com/) - Open source conversational AI.
 - [Data Fetcher for Airtable](https://datafetcher.io/)
+- [IMGZ](https://imgz.org/) - IMGZ – Paid image sharing. ([HN](https://news.ycombinator.com/item?id=28676468))
 - [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.
 - [Wix.com](https://www.wix.com/) - Free Website Builder.
 - [Smallpdf](https://smallpdf.com/) - All-in-one easy-to-use online PDF tools
@@ -567,3 +570,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Use Spreadsheets Everywhere (2021)](https://www.simplethread.com/use-spreadsheets-everywhere/) ([HN](https://news.ycombinator.com/item?id=28049255))
 - [No code/low code tools to build your MVP (2021)](https://twitter.com/agarwal__gaurav/status/1440283548032770050)
 - [Leaving Apples ecosystem and choosing tools which align with my mindset (2021)](https://h2x.sh/apple/) ([HN](https://news.ycombinator.com/item?id=28616202)) ([Lobsters](https://lobste.rs/s/jcwyax/leaving_apples_ecosystem_choosing_tools))
+- [Indie Apps Catalog](https://indiecatalog.app/)

@@ -96,3 +96,4 @@
 - [Appliku Deploy](https://appliku.com/) - Server Management, designed specially for Django. ([HN](https://news.ycombinator.com/item?id=28468660))
 - [Type Check Your Django Application](https://kracekumar.com/post/type_check_your_django_app/)
 - [Hotwired/Turbo Django response helpers](https://github.com/hotwire-django/django-turbo-response)
+- [New Testing Features in Django 4.0 (2021)](https://adamj.eu/tech/2021/09/28/new-testing-features-in-django-4.0/)

@@ -54,6 +54,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Ben Hoyt](https://benhoyt.com/cv/)
 - [Anatoly Yakovenko](http://aeyakovenko.github.io/resume.html)
 - [Andrew Carr](https://andrewnc.github.io/)
+- [Rådell.net](https://radell.net/) - Like ability to see highlights for each of the jobs.
 
 ## Notes
 

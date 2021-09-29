@@ -625,3 +625,4 @@
 - [libnpmpublish](https://github.com/npm/libnpmpublish) - Node.js library for programmatically publishing and unpublishing npm packages.
 - [pacote](https://github.com/npm/pacote) - Fetches package manifests and tarballs from the npm registry.
 - [Dual Publish](https://github.com/ai/dual-publish) - Publish JS project as dual ES modules and CommonJS package to npm.
+- [Clean Publish](https://github.com/shashkovdanil/clean-publish) - Removing configuration files and fields in package.json before publishing to npm.

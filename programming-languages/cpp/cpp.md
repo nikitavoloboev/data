@@ -249,3 +249,5 @@
 - [A class without a copy constructor (2021)](https://quuxplusone.github.io/blog/2021/09/17/a-class-without-a-copy-constructor/)
 - [Easy Type-Safe Integer Types In C++ (2021)](https://jens.mooseyard.com/2021/09/16/easy-type-safe-integer-types-in-c-/) ([Lobsters](https://lobste.rs/s/dblu7i/easy_type_safe_integer_types_c))
 - [cel-cpp](https://github.com/google/cel-cpp) - Fast, portable, non-Turing complete expression evaluation (C++).
+- [C++ Roadmap](https://github.com/salmer/CppDeveloperRoadmap) - Дорожная карта по изучению языка C++ для чайников.
+- [High-performance garbage collection for C++ (2020)](https://v8.dev/blog/high-performance-cpp-gc)

@@ -319,3 +319,5 @@
 - [The Incomplete Guide to Lazy Evaluation (in Haskell)](https://apfelmus.nfshost.com/articles/lazy-eval.html)
 - [The Operational Monad Tutorial](https://apfelmus.nfshost.com/articles/operational-monad.html)
 - [Haskell Wiki](https://en.wikibooks.org/wiki/Haskell)
+- [Nested strict data in Haskell](http://h2.jaguarpaw.co.uk/posts/nested-strict-data/) ([Lobsters](https://lobste.rs/s/hxrzm8/nested_strict_data_haskell))
+- [H2 Wiki](http://h2.jaguarpaw.co.uk/) - Wiki dedicated to Haskell, styled in homage to The C2 Wiki.

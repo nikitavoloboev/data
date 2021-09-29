@@ -54,3 +54,4 @@
 - [Getting started with Figma plugins (2020)](https://blog.prototypr.io/figma-plugin-tutorial-1-6-65fc2102506)
 - [Health Icons Figma Plugin](https://www.figma.com/community/plugin/992844281461869440/Health-Icons-Figma-Plugin)
 - [Figmage: I don't mess with images](https://heyraviteja.com/post/projects/figmage/) ([HN](https://news.ycombinator.com/item?id=28094989))
+- [HTML to Figma](https://github.com/sergcen/html-to-figma) - Converts DOM nodes to Figma nodes.

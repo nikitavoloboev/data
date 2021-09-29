@@ -111,7 +111,7 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [All Cryptos by Year/Month](https://washingtonindependent.com/all-cryptos-by-year-month/)
 - [Rafiki](https://github.com/coilhq/rafiki) - Open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
 - [Proof of stake will not save us (2021)](https://www.somethinginteresting.news/p/proof-of-stake-will-not-save-us) - Proof-of-stake doesn't eliminate costs it only makes them harder to reason about. ([Tweet](https://twitter.com/knifefight/status/1398063621251366915))
-- [Mango Markets](https://mango.markets/) - Decentralized, cross-margin trading.
+- [Mango Markets](https://mango.markets/) - Decentralized, cross-margin trading. ([Code](https://github.com/blockworks-foundation/mango))
 - [Index Coop](https://www.indexcoop.com/) - Community-led initiative focused on enabling the creation and adoption of crypto index primitives.
 - [binance-rs](https://github.com/wisespace-io/binance-rs) - Rust Library for the Binance API.
 - [Hedgehog](https://hedgehog.app/) - Cryptocurrency Portfolio Manager. ([HN](https://news.ycombinator.com/item?id=27550255))
@@ -135,5 +135,5 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Bity](https://bity.com/) - Buy, sell, and trade crypto. ([GitHub](https://github.com/BitySA))
 - [The SEC is threatening Coinbase to protect the public - But NOT in the way that you think (2021)](https://twitter.com/ojuice_eth/status/1441406498186227720)
 - [Companies hiring in crypto (2021)](https://twitter.com/thebengoldberg/status/1441460405495234562)
-- [Why web 3 matters and why it can be problematic (2021)](https://twitter.com/lazerwalker/status/1442242288961290241)
+- [Why web 3 matters and why it can be problematic (2021)](https://twitter.com/lazerwalker/status/1442242288961290241) ([Tweet](https://twitter.com/kardonice/status/1442276766517694471))
 - [Stablecoins, Stability, and Financial Inclusion (2021)](https://future.a16z.com/stablecoins-stability-and-financial-inclusion/) ([Tweet](https://twitter.com/katie_haun/status/1442557615318257683))

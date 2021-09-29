@@ -42,6 +42,7 @@
 - [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) - Collection of tools for chemometrics and machine learning written in Julia.
 - [Lathe.jl](https://github.com/ChifiSource/Lathe.jl) - Inclusive Predictive Learning module for Julia.
 - [TuringModels](https://github.com/StatisticalRethinkingJulia/TuringModels.jl) - Implementations of the models from the Statistical Rethinking book with Turing.jl.
+- [TensorKit.jl](https://github.com/Jutho/TensorKit.jl) - Julia package for large-scale tensor computations, with a hint of category theory.
 
 ## Math
 

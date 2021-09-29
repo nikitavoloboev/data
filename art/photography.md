@@ -145,3 +145,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [iPhone 13 Pro Camera Review: Tanzania (2021)](https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania) ([HN](https://news.ycombinator.com/item?id=28642740))
 - [iPhone 13 Pro Camera Preview: The Hardware Changes (2021)](https://lux.camera/iphone-13-pro-camera-preview-the-hardware-changes/)
 - [Flickr Foundation](https://www.flickr.org/)
+- [Искать «Пятерочки» и снимать лужи. Фотограф Паша Огородников (2021)](https://perito-burrito.com/posts/iskat-pyaterochki-i-snimat-luzhi-fotograf-pasha-ogorodnikov-o-tom-kak-delat-klassnye-gorodskie-foto)

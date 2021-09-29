@@ -81,3 +81,4 @@
 - [Baker](https://github.com/ing-bank/baker) - Orchestrate microservice-based process flows.
 - [Polaris](https://github.com/polarismesh/polaris) - Service Discovery and Governance Center for Distributed and Microservice Architecture.
 - [Serivce Builder](https://github.com/cnative/servicebuilder) - GRPC based Micro Service scaffolding in Go with HTTP/JSON gRPC gateway and OIDC / JWT Token based auth.
+- [Cloud Native GeoServer](http://geoserver.org/geoserver-cloud/) - GeoServer ready to use in the cloud through dockerized microservices. ([Code](https://github.com/geoserver/geoserver-cloud))

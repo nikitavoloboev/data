@@ -976,6 +976,7 @@
 - [Lagoon](https://github.com/zesterer/lagoon) - Thread pool crate with an array of features.
 - [MiniJinja](https://github.com/mitsuhiko/minijinja) - Powerful but minimal dependency template engine for Rust which is based on the syntax and behavior of the Jinja2 template engine.
 - [moveit](https://github.com/google/moveit) - Library for safe, in-place construction of Rust (and C++!) objects.
+- [binrw](https://github.com/jam1garner/binrw) - Rust crate for helping parse and rebuild binary data using macro magic.
 
 ## Cargo Plugins
 

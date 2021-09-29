@@ -77,3 +77,4 @@
 - [Analyze Xcode Build and Test Results GitHub Action](https://github.com/tbartelmess/analyze-xcoderesults-action)
 - [Rugby](https://github.com/swiftyfinch/Rugby) - Cache CocoaPods for faster rebuild and indexing Xcode project.
 - [Xcode Archive & Export for iOS](https://github.com/bitrise-steplib/steps-xcode-archive) - Run the Xcode archive command and then export an .ipa from the archive.
+- [Performance testing using XCTest (2021)](https://cornerbit.tech/performance-testing-using-xctest/)

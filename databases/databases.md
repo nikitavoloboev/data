@@ -423,4 +423,5 @@
 - [Real world database latency (2021)](https://fauna.com/blog/real-world-database-latency) ([HN](https://news.ycombinator.com/item?id=28594664))
 - [Best JS/TS library to use for subscribing to DB changes (2021)](https://twitter.com/flybayer/status/1440331756729634824)
 - [Notes on Database Normalization](https://www.davebernhard.com/blog/database-normalization-notes)
-- [Partitioning GitHub’s relational databases to handle scale (2021)](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
+- [Partitioning GitHub’s relational databases to handle scale (2021)](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/) ([HN](https://news.ycombinator.com/item?id=28678647))
+- [Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees (2021)](https://blog.cloudflare.com/introducing-r2-object-storage/) ([HN](https://news.ycombinator.com/item?id=28682237))

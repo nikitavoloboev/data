@@ -145,3 +145,5 @@
 - [Vieb](https://vieb.dev/) - Vim Inspired Electron Browser - Vim bindings for the web by design. ([Code](https://github.com/Jelmerro/Vieb))
 - [Bonsai](https://bonsaibrowser.com/) - Web Browser for Research. ([HN](https://news.ycombinator.com/item?id=28446147))
 - [Dot Browser](https://github.com/dothq/browser) - Privacy-conscious web browser. ([HN](https://news.ycombinator.com/item?id=28584630))
+- [Microlink](https://microlink.io/) - Fast, scalable, and reliable browser automation built for businesses and developers. Browser as API. ([GitHub](https://github.com/microlinkhq))
+- [BrowserParrot](https://www.browserparrot.com/) - Save and search the full text of your browser history. ([HN](https://news.ycombinator.com/item?id=28689734))
