@@ -192,3 +192,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [License Round Up (2021)](https://writing.kemitchell.com/2021/06/21/License-Round-Up.html) ([Lobsters](https://lobste.rs/s/s0xch6/license_round_up))
 - [Do not choose dependencies blindly. Do open source (2021)](https://www.youtube.com/watch?v=f8x80EK6Tps)
 - [Delightful Open Science](https://delightful.club/delightful-open-science/)
+- [Guide to coordinated vulnerability disclosure for open source software projects](https://github.com/ossf/oss-vulnerability-guide)

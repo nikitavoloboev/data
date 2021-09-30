@@ -86,6 +86,7 @@
 - [Taxman Engine](https://github.com/McDevon/taxman-engine) - Game Engine for Embedded Systems.
 - [Emerald](https://github.com/Bombfuse/emerald) - 2D rust game engine focused on portability.
 - [Vega Strike Space Simulation Engine](https://github.com/vegastrike/Vega-Strike-Engine-Source) - Allows a player to explore, trade, and fight in the vast open space.
+- [LittleJS](https://github.com/KilledByAPixel/LittleJS) - Lightweight 2D JavaScript game engine with a super fast WebGL rendering system.
 
 ## Physics engines
 

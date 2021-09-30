@@ -137,3 +137,4 @@
 - [How to Eliminate Render-Blocking Resources: a Deep Dive (2021)](https://sia.codes/posts/render-blocking-resources/)
 - [Low Bandwidth Images (2021)](https://opguides.info/posts/lowbandwidthimages/)
 - [bundlesize2](https://github.com/siddharthkp/bundlesize2) - Keep your bundle size in check.
+- [Explore JavaScript Dependencies With Lighthouse Treemap (2021)](https://sia.codes/posts/lighthouse-treemap/)

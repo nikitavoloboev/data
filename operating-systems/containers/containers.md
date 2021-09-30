@@ -125,3 +125,5 @@
 - [Containers Don't Solve Everything (2021)](https://blog.deref.io/containers-dont-solve-everything/) ([HN](https://news.ycombinator.com/item?id=28483529))
 - [umoci](https://github.com/opencontainers/umoci) - Modifies Open Container images. ([Docs](https://umo.ci/))
 - [Occlum](https://occlum.io/) - Library OS empowering everyone to run every application in secure enclaves. ([Code](https://github.com/occlum/occlum))
+- [containrs](https://github.com/containers/containrs) - General purpose container library.
+- []Netavark(https://github.com/containers/netavark) - Rust based network stack for containers.

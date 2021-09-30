@@ -321,3 +321,4 @@
 - [Haskell Wiki](https://en.wikibooks.org/wiki/Haskell)
 - [Nested strict data in Haskell](http://h2.jaguarpaw.co.uk/posts/nested-strict-data/) ([Lobsters](https://lobste.rs/s/hxrzm8/nested_strict_data_haskell))
 - [H2 Wiki](http://h2.jaguarpaw.co.uk/) - Wiki dedicated to Haskell, styled in homage to The C2 Wiki.
+- [A Short Overview of Typed Template Haskell (2021)](https://serokell.io/blog/typed-template-haskell-overview)

@@ -82,6 +82,7 @@
 - [nextjs-multi-domain-locale](https://github.com/tomsoderlund/nextjs-multi-domain-locale) - Hosting multiple domains on the same Next.js site (while maintaining multiple languages and SSG).
 - [next-rpc](https://github.com/Janpot/next-rpc) - Makes exported functions from API routes accessible in the browser. Just import your API function and call it anywhere you want.
 - [next-runtime](https://github.com/smeijer/next-runtime) - All you need to handle POST requests, file uploads, and api requests, in getServerSideProps.
+- [next-useragent](https://github.com/tokuda109/next-useragent) - Parses browser user-agent strings for next.js.
 
 ## Notes
 

@@ -239,6 +239,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 - [Precursor](https://precursorapp.com/) - Fast prototyping web app, makes collaboration easy. ([Code](https://github.com/PrecursorApp/precursor))
 - [Front](https://frontapp.com/) - Inbox for teams.
+- [Testimonial](https://testimonial.to/) - Collect video testimonials.
 - [unavatar.io](https://unavatar.io/) - Get unified user avatar from Twitter, GitHub, Intagram, Reddit, etc. ([Code](https://github.com/microlinkhq/unavatar))
 - [Code Bench](https://www.codebench.cloud/) - Platform to keep track of your benchmarks.
 - [Snap.as](https://snap.as/) - Permanent home for your photos.
@@ -465,6 +466,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Coral](https://coralproject.net/) - Better commenting experience. ([Code](https://github.com/coralproject/talk))
 - [projen](https://github.com/eladb/projen) - Define and maintain complex project configuration through code.
 - [Pory](https://pory.io/) - Create websites using Airtable in minutes.
+- [jbr.js](https://github.com/rubensworks/jbr.js) - Simple tool to initialize benchmarking experiments, run them, and analyze their results.
 - [rrweb](https://github.com/rrweb-io/rrweb) - Tool for recording and replaying users' interactions on the web.
 - [Solidarity](https://github.com/infinitered/solidarity) - Environment checker for project dependencies across multiple machines.
 - [GDBFrontend](https://github.com/rohanrhu/gdb-frontend) - Easy, flexible and extensionable GUI debugger.

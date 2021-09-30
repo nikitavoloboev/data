@@ -67,3 +67,4 @@
 - [Set up a free PostgreSQL database on Supabase to use with Prisma (2021)](https://dev.to/prisma/set-up-a-free-postgresql-database-on-supabase-to-use-with-prisma-3pk6)
 - [Prisma Schema Examples](https://github.com/prisma/templates) - Ready-to-use Prisma schema examples.
 - [zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod.
+- [Prisma Documentation Generator](https://github.com/pantharshit00/prisma-docs-generator) - Automatically generate a reference from your Prisma Schema.

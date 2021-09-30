@@ -28,3 +28,5 @@
 - [Dask Cloud Provider](https://github.com/dask/dask-cloudprovider) - Native Cloud integration for Dask. ([Docs](https://cloudprovider.dask.org/en/latest/))
 - [Jupyter, Microscopy, and On-demand Dask Cloud Clusters (2021)](https://www.youtube.com/watch?v=6YpuvJv6324)
 - [Tackling unmanaged memory with Dask (2021)](https://coiled.io/tackling-unmanaged-memory-with-dask/)
+- [Hacking Dask: Diving into Dask's Internals](https://github.com/jrbourbeau/hacking-dask)
+- [Dask Binder template](https://github.com/jrbourbeau/dask-binder-template) - Template for Dask-enabled repositories for use on Binder.

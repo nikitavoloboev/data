@@ -40,3 +40,4 @@
 - [Speaking Latin (2021)](https://psyche.co/ideas/speaking-latin-brings-an-unmediated-thrill-to-the-classics) ([HN](https://news.ycombinator.com/item?id=28510232))
 - [All World Languages in One Visualization, By Native Speakers](https://www.visualcapitalist.com/a-world-of-languages/)
 - [LanguageTool](https://languagetool.org/) - Online Grammar, Style & Spell Checker. ([Twitter](https://twitter.com/languagetool))
+- [How to Write a Spelling Corrector (2007)](http://norvig.com/spell-correct.html) ([In Go](https://github.com/montanaflynn/toy-spelling-corrector))

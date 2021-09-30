@@ -33,3 +33,4 @@
 - [Good resources to learn Elasticsearch with Go (2021)](https://www.reddit.com/r/golang/comments/ozuby8/any_good_resources_to_learn_elasticsearch_with/)
 - [PGSync](https://github.com/toluaina/pgsync) - PostgreSQL to Elasticsearch sync.
 - [I Don't Think ElasticSearch Is A Good Logging System (2021)](https://blog.sinkingpoint.com/posts/elasticsearch-logging/) ([HN](https://news.ycombinator.com/item?id=28679490))
+- [Eland](https://github.com/elastic/eland) - Python Elasticsearch client for exploring and analyzing data in Elasticsearch with a familiar Pandas-compatible API.

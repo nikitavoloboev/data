@@ -31,3 +31,4 @@
 - [Why Gemini is not my favorite internet protocol (2021)](https://gerikson.com/blog/comm/Why-u-no-gemini.html) ([Lobsters](https://lobste.rs/s/vhlagb/why_gemini_is_not_my_favorite_internet))
 - [Gemini is Useless (2021)](https://alex.flounder.online/gemlog/2021-01-08-useless.gmi) ([HN](https://news.ycombinator.com/item?id=27490769))
 - [Lagrange](https://github.com/skyjake/lagrange) - Beautiful Gemini Client. ([Web](https://gmi.skyjake.fi/lagrange/))
+- [Gemini: The Misaligned Incentives](https://gerikson.com/blog/comm/Gemini-misaligned-incentives.html) ([HN](https://news.ycombinator.com/item?id=28688232))

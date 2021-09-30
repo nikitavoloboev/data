@@ -39,3 +39,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Full-body tracking in VR using AprilTag markers](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker)
 - [LucidVR open source force feedback VR gloves](https://github.com/LucidVR/lucidgloves) ([HN](https://news.ycombinator.com/item?id=28340330))
 - [What it's like to spend 40-50 hours in VR every week (2021)](https://blog.immersed.team/working-from-orbit-39bf95a6d385) ([HN](https://news.ycombinator.com/item?id=28678041))
+- [SimulaVR](https://simulavr.com/) - Office-focused, standalone VR headset built on top of Linux. ([HN](https://news.ycombinator.com/item?id=28691358))

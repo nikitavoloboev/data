@@ -46,3 +46,4 @@
 - [tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary).
 - [rshijack](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, rust rewrite of shijack.
 - [zazkia](https://github.com/emicklei/zazkia) - TCP proxy to simulate connection problems.
+- [My Fractal Of Pain From Trying To Do TCP Sockets The First Time (2021)](https://rtpg.co/2021/09/29/fractal-of-pain.html)

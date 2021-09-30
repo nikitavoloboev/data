@@ -53,6 +53,7 @@ Below is a list of extensions I use.
 - [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub) - Remotely browse and edit a GitHub repository. ([Article](https://code.visualstudio.com/blogs/2021/06/10/remote-repositories?WT.mc_id=devcloud-00000-cxa))
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics. ([Code](https://github.com/usernamehw/vscode-error-lens))
 - [Captain Stack](https://github.com/hieunc229/copilot-clone) - Code suggestion for VSCode. Similar to Github Copilot.
+- [Code Snippet Generator](https://github.com/JohannesHa/VSCode-Code-Snippet-Generation-Extension) - Provides a similar user experience to Github CoPilot with the addition that you can select your preferred Code Generation Model.
 - [Dance](https://marketplace.visualstudio.com/items?itemName=gregoire.dance) - Kakoune-inspired key bindings for VSCode. ([Code](https://github.com/71/dance))
 - [Thinking in Data](https://marketplace.visualstudio.com/items?itemName=dynamicwebpaige.thinking-in-data) - VS Code extension pack to help users visualize, understand, and interact with data. ([Code](https://github.com/dynamicwebpaige/thinking-in-data))
 - [Live Frame](https://marketplace.visualstudio.com/items?itemName=jevakallio.vscode-live-frame) - Run your web app inside VS Code. ([Code](https://github.com/jevakallio/vscode-live-frame))
@@ -269,6 +270,7 @@ Below is a list of extensions I use.
 ## Julia
 
 - [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) - Julia Language Support. ([Code](https://github.com/julia-vscode/julia-vscode)) ([Web](https://www.julia-vscode.org/)) ([Docs](https://www.julia-vscode.org/docs/dev/)) ([Docs Code](https://github.com/julia-vscode/docs))
+- [Pluto VSCode](https://github.com/JuliaComputing/pluto-vscode) - Pluto inside a VS Code Webview.
 
 ## Deno
 

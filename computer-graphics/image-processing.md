@@ -120,3 +120,5 @@
 - [IPX](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on sharp and libvips.
 - [ImageScript](https://github.com/matmen/ImageScript) - Zero-dependency JavaScript image manipulation.
 - [How to use a serverless function as image/caching proxy (2021)](https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/)
+- [Microlink Cards](https://cards.microlink.io/editor) - Easiest way to create and share dynamic images at scale. ([Code](https://github.com/microlinkhq/cards))
+- [Why Your Website Should Use Dithered Images (2020)](https://endtimes.dev/why-you-should-dither-images/) ([Lobsters](https://lobste.rs/s/cxxfyx/why_your_website_should_use_dithered))

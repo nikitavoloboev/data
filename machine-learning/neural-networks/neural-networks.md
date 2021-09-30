@@ -245,3 +245,4 @@
 - [Introduction to Neural Network Verification (2021)](https://arxiv.org/abs/2109.10317)
 - [Explainable neural networks that simulate reasoning (2021)](https://www.nature.com/articles/s43588-021-00132-w)
 - [Evolving Neural Networks through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf) ([Code](https://github.com/suhdonghwi/neat))
+- [Minimal, clean example of lstm neural network training in python, for learning purposes](https://github.com/nicodjimenez/lstm)

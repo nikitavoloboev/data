@@ -140,3 +140,4 @@
 - [A Design System Governance Process (2021)](https://bradfrost.com/blog/post/a-design-system-governance-process/)
 - [A Content Model Is Not a Design System (2021)](https://alistapart.com/article/a-content-model-is-not-a-design-system/)
 - [Dessert Box](https://github.com/TheMightyPenguin/dessert-box) - Library to easily consume your design tokens from a React component, meant to be used with vanilla-extract.
+- [Variant-driven Components (2021)](https://ped.ro/blog/variant-driven-components)

@@ -241,3 +241,5 @@
 - [PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch) - Minimal implementation of clipped objective Proximal Policy Optimization (PPO) in PyTorch.
 - [rlberry](https://github.com/rlberry-py/rlberry) - Easy-to-use reinforcement learning library for research and education.
 - [SEED RL](https://github.com/google-research/seed_rl) - Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
+- [MiniHack](https://github.com/facebookresearch/minihack) - Sandbox for Open-Ended Reinforcement Learning Research.
+- [An Outsider's Tour of Reinforcement Learning (2018)](http://www.argmin.net/2018/06/25/outsider-rl/)

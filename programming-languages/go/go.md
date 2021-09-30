@@ -543,3 +543,5 @@ Go promotes composition over inheritance.
 - [Go Playground WASM](https://go-playground-wasm.vercel.app/) - Go playground powered by WASM that runs in the browser. ([Code](https://github.com/zackradisic/go-playground-wasm/)) ([HN](https://news.ycombinator.com/item?id=28636540))
 - [Examples of accepting interfaces and returning structs](https://github.com/karantan/go-interfaces)
 - [RTS: Request to Struct](https://github.com/galeone/rts) - Generate Go structs definitions from JSON server responses.
+- [Go Docker Dependency Cache](https://github.com/montanaflynn/golang-docker-cache) - Improved docker Go module dependency cache for faster builds.
+- [ClickHouse Data Synchromesh](https://github.com/tal-tech/cds) - Data syncing in Go for ClickHouse.

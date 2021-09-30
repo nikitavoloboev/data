@@ -2,8 +2,9 @@
 
 ## Tools
 
+- [Ableton Live](https://www.ableton.com/en/) - Digital audio workstation. ([GitHub](https://github.com/Ableton))
+- [GLICOL](https://github.com/chaosprint/glicol) - Graph-oriented live coding language written in Rust. Make music with code. ([Web](https://glicol.org/))
 - [Klangmeister](http://ctford.github.io/klangmeister/about)
-- [Ableton](ableton.md)
 - [Helio Workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, both desktop and mobile. ([Web](https://helio.fm/)) ([HN](https://news.ycombinator.com/item?id=28382873))
 - [Sonic Pi](https://sonic-pi.net/) - Code-based music creation and performance tool. ([Code](https://github.com/sonic-pi-net/sonic-pi)) ([Sonic Pi Tool](https://github.com/lpil/sonic-pi-tool)) ([Sonic Pi Challenge](https://github.com/github/sonic-pi-challenge)) ([Sonic Pi Tool (Python)](https://github.com/emlyn/sonic-pi-tool)) ([HN](https://news.ycombinator.com/item?id=28274069))
 - [FlowKey](https://www.flowkey.com) - Learn Piano with songs you love.
@@ -102,6 +103,7 @@
 - [Jfxr](https://jfxr.frozenfractal.com/) - Browser-based tool to create sound effects for games. ([Code](https://github.com/ttencate/jfxr))
 - [Mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata.
 - [Sonic Visualiser](https://sonicvisualiser.org/) - Visualization, analysis, and annotation of music audio recordings. ([Code](https://github.com/sonic-visualiser/sonic-visualiser))
+- [Sound GLSL](https://github.com/soundshader/soundshader.github.io)
 
 ## Inspiration
 

@@ -190,6 +190,8 @@
 - [Bauletto](https://github.com/gianpispi/Bauletto) - Display iOS 13 style banner with ease.
 - [SPIndicator](https://github.com/ivanvorobei/SPIndicator) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts.
 - [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - iOS framework for creating forms.
+- [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) - Powerful navigation library for iOS based on the coordinator pattern.
+- [SegementSlide](https://github.com/Jiar/SegementSlide) - Multi-tier UIScrollView nested scrolling solution.
 
 ## macOS
 
@@ -762,6 +764,8 @@
 - [Link Previewer](https://github.com/LeonardoCardoso/SwiftLinkPreview) - Makes a preview from an URL, grabbing all the information such as title, relevant texts and images.
 - [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) - Swift Package to easily play YouTube videos.
 - [Then](https://github.com/devxoul/Then) - Super sweet syntactic sugar for Swift initializers.
+- [DateBuilder](https://github.com/nicephoton/DateBuilder) - Create dates and date components easily (e.g. "first Thursday of the next month").
+- [TableKit](https://github.com/maxsokolov/TableKit) - Type-safe declarative table views.
 
 ## Other (not lib)
 
@@ -788,3 +792,4 @@
 - [swift-package-editor](https://github.com/owenv/swift-package-editor) - Mechanical editing support for Package.swift manifests.
 - [Create your own Swift Package and release it on Github.com (2021)](https://medium.com/@przemek.jablonski/create-your-own-swift-package-and-release-it-on-github-com-e47a642c259e)
 - [Surmagic](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease.
+- [Awesome SwiftWASM](https://github.com/swiftwasm/awesome-swiftwasm) - Community-driven curated list of SwiftWasm projects and content.

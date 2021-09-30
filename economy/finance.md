@@ -124,3 +124,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Go DB Ledger](https://github.com/darcys22/godbledger) - Accounting Software with GRPC endpoints and SQL Backends. ([Web](https://godbledger.com/))
 - [How you can track your personal finances using Python (2021)](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/) ([HN](https://news.ycombinator.com/item?id=28418925))
 - [Invoy](https://invoy.app/) - Super simple invoicing. ([Twitter](https://twitter.com/invoyco))
+- [Increase](https://increase.com/) - Build your own bank. From the Federal Reserve, directly to our own API endpoints.

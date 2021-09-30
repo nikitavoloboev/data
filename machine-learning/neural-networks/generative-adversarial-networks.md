@@ -134,3 +134,4 @@
 - [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://github.com/yangxy/GPEN)
 - [Instance-Conditioned GAN (2021)](https://arxiv.org/abs/2109.05070) ([Code](https://github.com/facebookresearch/ic_gan))
 - [PyTorch Pretrained GANs](https://github.com/lukemelas/pytorch-pretrained-gans) - StyleGAN2, BigGAN, BigBiGAN, SAGAN, SNGAN, SelfCondGAN, and more.
+- [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (2016)](https://arxiv.org/abs/1609.04802) ([Code](https://github.com/twtygqyy/pytorch-SRResNet))

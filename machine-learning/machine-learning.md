@@ -552,3 +552,5 @@
 - [Multi-Armed Bandits and Pure-Exploration (2020)](https://www.youtube.com/watch?v=h-dYzjF8eFA)
 - [The First Rule of Machine Learning: Start Without Machine Learning (2021)](https://eugeneyan.com/writing/first-rule-of-ml/) ([HN](https://news.ycombinator.com/item?id=28613099))
 - [An Introduction to Weighted Automata in Machine Learning (2021)](https://awnihannun.com/writing/automata_ml.html) ([Code](https://github.com/awni/automata_ml))
+- [Ultimate FREE Machine Learning Study Plan](https://github.com/python-engineer/ml-study-plan)
+- [node2vec: Scalable Feature Learning for Networks](https://snap.stanford.edu/node2vec/) ([Code](https://github.com/aditya-grover/node2vec))

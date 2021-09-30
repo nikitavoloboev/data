@@ -38,6 +38,7 @@
 ## Error
 
 - [ppx_let_locs](https://github.com/EduardoRFS/ppx_let_locs) - Improving stack trace for let monadic.
+- [pp_loc](https://github.com/Armael/pp_loc) - Provides support to additionally quote and highlight the input fragment the input that corresponds to a location (or a set of locations).
 
 ## Graphics
 

@@ -211,6 +211,7 @@
 - [Qsh](https://github.com/muhmud/qsh) - Improved database querying from your terminal. ([HN](https://news.ycombinator.com/item?id=28550874))
 - [trona](https://github.com/igorkamyshev/trona) - Write DB migrations with SQL and run them with a CLI.
 - [Azimutt](https://azimutt.app/) - Explore your database schema.
+- [Models](https://github.com/tvallotton/models) - Tool for automated migrations for PostgreSQL, SQLite and MySQL.
 
 ## Notes
 
@@ -424,4 +425,5 @@
 - [Best JS/TS library to use for subscribing to DB changes (2021)](https://twitter.com/flybayer/status/1440331756729634824)
 - [Notes on Database Normalization](https://www.davebernhard.com/blog/database-normalization-notes)
 - [Partitioning GitHub’s relational databases to handle scale (2021)](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/) ([HN](https://news.ycombinator.com/item?id=28678647))
-- [Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees (2021)](https://blog.cloudflare.com/introducing-r2-object-storage/) ([HN](https://news.ycombinator.com/item?id=28682237))
+- [Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees (2021)](https://blog.cloudflare.com/introducing-r2-object-storage/) ([HN](https://news.ycombinator.com/item?id=28682237)) ([Pricing Analysis](https://twitter.com/QuinnyPig/status/1443028078196711426)) ([Tweet](https://twitter.com/threepointone/status/1443123297319899141)) ([HN](https://news.ycombinator.com/item?id=28702997))
+- [The Reactive Monolith – How to Move from CRUD to Event Sourcing (2021)](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing) ([HN](https://news.ycombinator.com/item?id=28691728))

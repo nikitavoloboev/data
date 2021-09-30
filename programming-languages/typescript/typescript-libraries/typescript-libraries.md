@@ -155,6 +155,7 @@
 - [ts](https://github.com/mmkal/ts) - Monorepo of typescript projects.
 - [urlpack](https://github.com/daangn/urlpack) - Pure JavaScript toolkit for data URLs (MessagePack, Base58 and Base62).
 - [miette](https://github.com/gabrielcsapo/miette) - Fancy upgrade to console.log.
+- [construct-js](https://github.com/francisrstokes/construct-js) - Library for creating byte level data structures.
 
 ## Links
 

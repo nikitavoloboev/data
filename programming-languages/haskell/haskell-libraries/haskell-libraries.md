@@ -152,6 +152,8 @@
 - [Reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana) - Library for functional reactive programming in Haskell.
 - [Cnoidal](https://github.com/HeinrichApfelmus/cnoidal) - Haskell library for representing, transforming, and live coding music.
 - [Persistence](https://github.com/Ebanflo42/Persistence) - Topological data analysis library for Haskell.
+- [predicate-typed](https://github.com/gbwey/predicate-typed) - Refinement type library.
+- [explainable-predicates](https://github.com/cdsmith/explainable-predicates) - Predicates that can explain themselves.
 
 ## Links
 

@@ -59,3 +59,4 @@
 - [The Future Is Big Graphs: A Community View on Graph Processing Systems (2021)](https://cacm.acm.org/magazines/2021/9/255040-the-future-is-big-graphs/fulltext) ([HN](https://news.ycombinator.com/item?id=28499999))
 - [What Is the Data Lakehouse Pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/) ([HN](https://news.ycombinator.com/item?id=28531009))
 - [Apache Hadoop](https://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing. ([Is Hadoop Dead?](https://tech.marksblogg.com/is-hadoop-dead.html))
+- [go-stash](https://github.com/tal-tech/go-stash) - High performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.

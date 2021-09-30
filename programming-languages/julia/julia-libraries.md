@@ -43,6 +43,7 @@
 - [Lathe.jl](https://github.com/ChifiSource/Lathe.jl) - Inclusive Predictive Learning module for Julia.
 - [TuringModels](https://github.com/StatisticalRethinkingJulia/TuringModels.jl) - Implementations of the models from the Statistical Rethinking book with Turing.jl.
 - [TensorKit.jl](https://github.com/Jutho/TensorKit.jl) - Julia package for large-scale tensor computations, with a hint of category theory.
+- [SymbolicRegression.jl](https://github.com/MilesCranmer/SymbolicRegression.jl) - Distributed High-Performance symbolic regression in Julia.
 
 ## Math
 

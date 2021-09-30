@@ -84,3 +84,4 @@
 - [Ruby Packer](https://github.com/pmq20/ruby-packer) - Distribute your Ruby code as a compiled binary. ([HN](https://news.ycombinator.com/item?id=28601055))
 - [TenderJIT](https://github.com/tenderlove/tenderjit) - JIT for Ruby that is written in Ruby. ([HN](https://news.ycombinator.com/item?id=28613682))
 - [Stamping Out Overflow Checks in Ruby (2021)](https://chrisseaton.com/truffleruby/stamping-out-overflow-checks/) ([HN](https://news.ycombinator.com/item?id=28661051))
+- [Proposal to Merge YJIT into Ruby (2021)](https://bugs.ruby-lang.org/issues/18229) ([HN](https://news.ycombinator.com/item?id=28691048))

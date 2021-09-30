@@ -9,6 +9,7 @@
 
 ## Links
 
+- [Semtech LoRa Technology Overview](http://www.semtech.com/lora) ([GitHub](https://github.com/Lora-net))
 - [TTN wiki](https://www.thethingsnetwork.org/docs/) ([Code](https://github.com/TheThingsNetwork/docs))
 - [Teaching a new dog old tricks](https://medium.com/@aallan/teaching-a-new-dog-old-tricks-965a578e753b)
 - [Nicolas Sornin - Future of LoRa](https://www.youtube.com/watch?v=jNnPTxWRNxs)
@@ -80,3 +81,5 @@
 - [LoRa-concentrator](https://github.com/will127534/LoRa-concentrator) - Simple Board for SX1301 and SX125X LoRa Gateway / Concentrator.
 - [virtual-lorawan-device](https://github.com/helium/virtual-lorawan-device) - Utility that attaches to a Semtech UDP Host and pretends to be a LoRaWAN Device.
 - [Senet and Helium Announce LoRaWAN Network Integration Partnership (2021)](https://www.senetco.com/about/news/senet-and-helium-announce-lorawan-network-integration-partnership/) ([HN](https://news.ycombinator.com/item?id=28617197))
+- [LoRaMac-node](https://github.com/Lora-net/LoRaMac-node) - Reference implementation and documentation of a LoRa network node.
+- [Picotracker Lora](https://github.com/ImperialSpaceSociety/LoRaMac-node)

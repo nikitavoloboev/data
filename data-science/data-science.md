@@ -199,3 +199,4 @@
 - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) ([Code](https://github.com/data-8/textbook))
 - [Berkeley library for introductory data science](https://github.com/data-8/datascience)
 - [Is BI dead? – On dismantling data's ship of Theseus (2021)](https://benn.substack.com/p/is-bi-dead) ([HN](https://news.ycombinator.com/item?id=28580298))
+- [Kedro Community](https://github.com/quantumblacklabs/kedro-community) - Examples of data science projects created with Kedro.

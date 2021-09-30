@@ -30,3 +30,4 @@
 - [Good Times Bad Times - YouTube](https://www.youtube.com/channel/UCXW9oUSOwt7mcTT5d_5hQcA)
 - [A Compass for the Politics of Collapse: A Short Straightforward Introduction](https://write.as/conjure-utopia/a-compass-for-the-politics-of-collapse-a-short-straightforward-introduction) ([HN](https://news.ycombinator.com/item?id=28357065))
 - [Good geopolitical podcasts or world news podcasts (2021)](https://www.reddit.com/r/geopolitics/comments/ploc8j/what_are_some_good_geopolitical_podcasts_or_world/)
+- [Why Science Can't Settle Political Disputes (2021)](https://thereader.mitpress.mit.edu/why-science-cant-fix-politics/) ([HN](https://news.ycombinator.com/item?id=28693269))

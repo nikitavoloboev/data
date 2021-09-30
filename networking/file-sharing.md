@@ -79,3 +79,4 @@
 - [OnlyFiles](https://onlyfiles.cc/) - Media file sharing service.
 - [Faster File Distribution with HDFS and S3 (2019)](https://tech.marksblogg.com/faster-file-distribution-hadoop-hdfs-s3.html)
 - [LuminS](https://github.com/wchang22/LuminS) - Fast and reliable alternative to rsync for synchronizing local files.
+- [Using rclone for Cloud to Cloud Transfer](https://www.rsync.net/resources/howto/rclone.html)

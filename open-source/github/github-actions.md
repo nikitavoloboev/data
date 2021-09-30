@@ -117,6 +117,7 @@
 - [git-release](https://github.com/anton-yurchenko/git-release) - Publish a GitHub Release with Assets and Changelog.
 - [Create pull request](https://github.com/thomaseizinger/create-pull-request) - Create a pull request, easy and simple.
 - [github-act-runner](https://github.com/ChristopherHX/github-act-runner) - Act as self-hosted runner.
+- [setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting.
 
 ## Go
 

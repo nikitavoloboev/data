@@ -31,3 +31,4 @@
 - [Quinine](https://github.com/krandiash/quinine) - Library to create and manage configuration files, especially for machine learning projects.
 - [The KDL Document Language](https://kdl.dev/) ([HN](https://news.ycombinator.com/item?id=28510031))
 - [Apollo](https://github.com/apolloconfig/apollo) - Reliable configuration management system suitable for microservice configuration management scenarios. ([Web](https://www.apolloconfig.com/#/))
+- [envy](https://github.com/matt4biz/envy) - Use envy to manage environment variables with your OS keychain.

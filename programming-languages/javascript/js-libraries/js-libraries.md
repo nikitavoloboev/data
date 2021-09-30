@@ -606,6 +606,7 @@
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 - [paintvec](https://github.com/seanchas116/paintvec) - JavaScript 2D vector math library.
 - [Audio Recorder Polyfill](https://github.com/ai/audio-recorder-polyfill) - MediaRecorder polyfill to record audio in Edge and Safari.
+- [IPO](https://github.com/gre/ipo) - Easing library allowing to describe complex easings in JSON.
 
 ## Links
 

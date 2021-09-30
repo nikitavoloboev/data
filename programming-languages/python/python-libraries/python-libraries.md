@@ -485,6 +485,8 @@
 - [Scikit-TDA](https://github.com/scikit-tda/scikit-tda) - Topological Data Analysis for Python.
 - [petl](https://github.com/petl-developers/petl) - Python Extract Transform and Load Tables of Data.
 - [Numcodecs](https://github.com/zarr-developers/numcodecs) - Python package providing buffer compression and transformation codecs for use in data storage and communication applications.
+- [simplejson](https://github.com/simplejson/simplejson) - Simple, fast, extensible JSON encoder/decoder for Python.
+- [Lightbus](https://github.com/adamcharnock/lightbus) - RPC & event framework for Python 3. ([Docs](https://lightbus.org/latest/))
 
 ## Links
 

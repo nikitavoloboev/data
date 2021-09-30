@@ -253,3 +253,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Дебаты: В чем оппозиция должна действовать вместе | Михаил Светов, Иван Жданов и Михаил Ходорковский (2021)](https://www.youtube.com/watch?v=sCtn5kofRN8) ([Tweet](https://twitter.com/ioannZH/status/1442552575207804928)) ([Tweet](https://twitter.com/ivaost/status/1442539662099107844))
 - [Troubleshooting mission (2021)](https://www.ridl.io/en/troubleshooting-mission/)
 - [RIDDLE Russia](http://www.ridl.io/en/) - Online journal on Russian affairs. ([Twitter](https://twitter.com/RiddleRussia))
+- [Настоящее Время](https://twitter.com/CurrentTimeTv) - По-честному обо всем, что происходит в постсоветских странах. ([IG](https://www.instagram.com/currenttime.tv/))

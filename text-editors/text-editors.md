@@ -135,3 +135,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Yi](https://github.com/yi-editor/yi) - Haskell-Scriptable Editor.
 - [Plate](https://github.com/udecode/plate) - Plugin framework for building rich text editors with slate. ([Web](https://plate.udecode.io/))
 - [Monaco language client](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers.
+- [Code blocks, but better (2021)](https://ped.ro/blog/code-blocks-but-better)

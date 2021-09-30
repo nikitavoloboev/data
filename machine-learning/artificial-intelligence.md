@@ -91,3 +91,4 @@
 - [Tesla AI Day (2021)](https://youtu.be/j0z4FweCy4M?t=2853) ([HN](https://news.ycombinator.com/item?id=28240882))
 - [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/) - Summarize the history of AI since March 2020.
 - [The UK AI Strategy: are we listening to the experts? (2021)](https://datasciencesection.org/2021/09/13/the-uk-ai-strategy-are-we-listening-to-the-experts/) ([Tweet](https://twitter.com/stianwestlake/status/1440633819548164098))
+- [Awesome Edge AI](https://github.com/rcmalli/awesome-edge-ai)

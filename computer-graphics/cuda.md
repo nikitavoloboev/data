@@ -22,3 +22,5 @@
 - [Awesome GPGPU](https://github.com/rbaygildin/learn-gpgpu) - Algorithms implemented in CUDA + resources about GPGPU.
 - [Accelerating Conway's Game of Life Using CUDA (2021)](https://brendanrayw.medium.com/my-experience-learning-cuda-to-accelerate-conways-game-of-life-5d52eabc2dfb)
 - [cu](https://github.com/gorgonia/cu) - Go package that provides an idiomatic interface to the CUDA Driver API.
+- [RustaCUDA](https://github.com/bheisler/RustaCUDA) - Rusty wrapper for the CUDA Driver API.
+- [ec-gpu](https://github.com/filecoin-project/ec-gpu) - CUDA/OpenCL code generator for finite-field arithmetic over prime fields and elliptic curve arithmetic constructed with Rust.

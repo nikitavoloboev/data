@@ -190,3 +190,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [LimeLighter](https://github.com/Tylous/Limelighter) - Tool for generating fake code signing certificates or signing real ones.
 - [cocert](https://github.com/Dentrax/cocert) - Split and distribute your private keys securely amongst untrusted network.
 - [Awesome Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups)
+- [Open Source Security Foundation (OpenSSF)](https://openssf.org/) ([GitHub](https://github.com/ossf))

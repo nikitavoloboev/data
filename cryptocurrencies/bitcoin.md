@@ -158,3 +158,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Agora](https://github.com/agora-org/agora/) - Sell Files on the Web using Bitcoin Lightning Network. ([Article](http://agora.download/files/blog/mvp.html)) ([HN](https://news.ycombinator.com/item?id=28092258))
 - [Bcoin](https://github.com/bcoin-org/bcoin) - Alternative implementation of the Bitcoin protocol, written in JavaScript and C/C++ for Node.js. ([Web](https://bcoin.io/)) ([Talk](https://www.youtube.com/watch?v=avTdLjXYsbo))
 - [Turing Machines on Bitcoin. Bitcoin Turing Complete Proofs (2021)](https://xiaohuiliu.medium.com/turing-machine-on-bitcoin-7f0ebe0d52b1) ([HN](https://news.ycombinator.com/item?id=28574546))
+- [Offline lightning PoS](https://github.com/arcbtc/LNURLPoS)

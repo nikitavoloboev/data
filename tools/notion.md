@@ -71,3 +71,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion SDK Py](https://github.com/ramnes/notion-sdk-py) - Official Notion SDK rewritten in Python (sync + async).
 - [Noto avatar](https://abstractlab.gumroad.com/l/noto-avatar) - With this illustrations pack, you can create your own Notion-style avatar.
 - [Notion Avatar Maker](https://notion-avatar.vercel.app/) - Online tool for making notion-style avatars. ([Code](https://github.com/Mayandev/notion-avatar))
+- [Notero](https://github.com/dvanoni/notero) - Zotero plugin that syncs items into a Notion database when added to a specific collection.

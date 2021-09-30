@@ -148,6 +148,7 @@ And these Discord servers:
 - [Scientific American](https://www.scientificamerican.com/) - Science News, Expert Analysis, Health Research.
 - [Real Life](https://reallifemag.com/)
 - [IEEE Spectrum](https://spectrum.ieee.org/)
+- [The MIT Press Reader](https://thereader.mitpress.mit.edu/)
 
 ### Other
 

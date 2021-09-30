@@ -803,3 +803,4 @@ Here are few more things I liked, design wise.
 - [Colophon](https://society.robinsloan.com/archive/colophon/)
 - [Godly Website](https://godly.website/) - Most Godlike Web Design Inspiration. ([Twitter](https://twitter.com/godlywebsite))
 - [Brutalist Websites](https://brutalistwebsites.com/)
+- [Ask HN: Best Tip for Landing Pages? (2021)](https://news.ycombinator.com/item?id=28693542)

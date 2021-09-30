@@ -64,3 +64,4 @@
 - [Minimalist Guide to Lossless Compression (2019)](https://tech.marksblogg.com/minimalist-guide-compression.html)
 - [FreeArc'Next](https://github.com/Bulat-Ziganshin/FA)
 - [Experiments with compression-related algorithms](https://github.com/Bulat-Ziganshin/Compression-Research)
+- [Imager](https://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web. ([Web](https://imager.io/))

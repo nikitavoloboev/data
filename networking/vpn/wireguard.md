@@ -46,3 +46,4 @@
 - [Autowire](https://github.com/elghazal-a/autowire) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
 - [Tailscale at DeepSource (2021)](https://deepsource.io/blog/tailscale-at-deepsource/) ([Lobsters](https://lobste.rs/s/fbdiwx/tailscale_at_deepsource))
 - [WireGuard Easy](https://github.com/WeeJeWel/wg-easy) - Easiest way to run WireGuard VPN + Web-based Admin UI.
+- [Firezone](https://github.com/firezone/firezone) - Open-source WireGuard-based alternative to OpenVPN AS. ([HN](https://news.ycombinator.com/item?id=28683231))

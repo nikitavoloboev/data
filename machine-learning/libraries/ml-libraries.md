@@ -197,3 +197,4 @@
 - [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony. ([Web](https://nnabla.org/))
 - [RevLib](https://github.com/ClashLuke/revlib) - Simple and efficient RevNet-Library with DeepSpeed support.
 - [DeepSparse](https://github.com/neuralmagic/deepsparse) - Neural network inference engine that delivers GPU-class performance for sparsified models on CPUs.
+- [NVTabular](https://github.com/NVIDIA/NVTabular) - Engineering and preprocessing library for tabular data that is designed to easily manipulate terabyte scale datasets and train deep learning (DL) based recommender systems.

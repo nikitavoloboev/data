@@ -317,3 +317,4 @@
 - [Currying in JavaScript](https://javascript.info/currying-partials) ([HN](https://news.ycombinator.com/item?id=28583069))
 - [Multithreaded JavaScript Book (2021)](https://www.oreilly.com/library/view/multithreaded-javascript/9781098104429/) - Explores the various features that JavaScript runtimes have at their disposal for implementing multithreaded programming.
 - [JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter) - Sandboxed JavaScript interpreter in JavaScript. Execute arbitrary JavaScript code line by line in isolation and safety.
+- [EStruct](https://github.com/RayLuxembourg/estruct) - Traverses JavaScript projects and maps all the dependencies and relationships to a JSON.

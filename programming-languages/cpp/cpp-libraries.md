@@ -237,6 +237,7 @@
 - [Minicore](https://github.com/dnbaker/minicore) - Fast and memory-efficient clustering + coreset construction, including fast distance kernels for Bregman and f-divergences.
 - [EXOTica](https://github.com/ipab-slmc/exotica) - Extensible Optimization Framework. ([Docs](https://ipab-slmc.github.io/exotica/))
 - [subprocess](https://github.com/rajatjain1997/subprocess) - C++ high level library for running shell processes.
+- [HOT](https://github.com/speedskater/hot) - Height Optimized Trie.
 
 ## Links
 

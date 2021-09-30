@@ -26,3 +26,4 @@
 - [Secret Santa App](https://secret-santa.team/) - Secret Santa bot for your Slack, Discord or Zoom.us team. ([Code](https://github.com/jolicode/secret-santa))
 - [Kairon](https://github.com/digiteinfotech/kairon) - Tool suite built on RASA to train and deploy your chatbots using advanced NLP.
 - [Xene](https://github.com/dempfi/xene) - Modern library with simple API to build great conversational bots.
+- [chatbot](https://github.com/kevwan/chatbot) - Fast responsive, machine learning, conversational dialog engine for creating chat bots, written in Go.
