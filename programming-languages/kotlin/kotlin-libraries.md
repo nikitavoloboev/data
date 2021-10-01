@@ -30,6 +30,7 @@
 - [Comachine](https://github.com/beworker/comachine) - Kotlin coroutine capable Finite-State Machine (multiplatform).
 - [jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. ([Web](https://jte.gg/))
 - [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization.
+- [Odyssey](https://github.com/AlexGladkov/Odyssey) - Declarative multiplatform navigation library for Multiplatform Compose.
 
 ## Links
 

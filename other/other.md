@@ -38,7 +38,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Hashicorp principles](https://www.hashicorp.com/our-principles)
-- [TIL](https://github.com/jbranchaud/til)
 - [Minimums](http://minimums.com/) - Interesting possessions of interesting people.
 - [The Atlas](https://www.theatlas.com/) - Search charts.
 - [SV Dictionary](http://svdictionary.com/)

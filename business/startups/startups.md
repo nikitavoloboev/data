@@ -318,6 +318,7 @@
 - [Compound](https://withcompound.com/) - Wealth Management for Startup Founders and Employees.
 - [Five worst mistakes founders do when trying to find product market fit (2021)](https://twitter.com/jwdanner/status/1441076896742068239)
 - [What early business mistake will you never make again? (2021)](https://twitter.com/businessbarista/status/1441752884341874697)
+- [What niche industries still need much better software? (2021)](https://twitter.com/tylertringas/status/1443214561319038982)
 
 ## Images
 

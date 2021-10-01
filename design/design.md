@@ -186,7 +186,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [There is a fundamental disconnect between the way designers and business people think. (2021)](https://twitter.com/andybudd/status/1411349258733867010)
 - [gridless.design](https://gridless.design/)
 - [The elements of product design (2021)](https://jamiemill.com/blog/elements-of-product-design/)
-- [Tricycle](https://tricycle.ai/) - Automation Tools for Designers.
+- [Tricycle](https://tricycle.ai/) - Automation Tools for Designers. ([Automator and Fig Demo](https://twitter.com/jsngr/status/1435661063085858818))
 - [Design Vault](https://designvault.io/) - UI patterns & design inspiration from real products.
 - [Hicks](https://hicks.design/) - Graphic design, branding, illustration & iconography.
 - [Better in Black: Rethinking our Most Important Buttons | Spotify Design (2021)](https://spotify.design/article/better-in-black-rethinking-our-most-important-buttons)

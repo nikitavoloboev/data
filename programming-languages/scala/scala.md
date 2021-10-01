@@ -92,3 +92,4 @@
 - [Books - Underscore](https://underscore.io/books/)
 - [Creative Scala Book (2020)](https://www.creativescala.org/creative-scala.html)
 - [Scala3 typeclassery with graphs (2021)](https://fabianmurariu.github.io/posts/scala3-typeclassery-graphs/)
+- [Guillaume Martres: An Interactive Compiler (2021)](https://open.spotify.com/episode/0qgBKpc78aBMldBdANoqnR)

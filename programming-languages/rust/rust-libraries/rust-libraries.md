@@ -981,6 +981,9 @@
 - [binrw](https://github.com/jam1garner/binrw) - Rust crate for helping parse and rebuild binary data using macro magic.
 - [Remain](https://github.com/dtolnay/remain) - Compile-time checks that an enum or match is written in sorted order.
 - [good_lp](https://github.com/rust-or/good_lp) - Linear Programming for Rust, with an user-friendly API.
+- [atomic_refcell](https://github.com/bholley/atomic_refcell) - Threadsafe RefCell for Rust.
+- [freqfs](https://docs.rs/freqfs/) - In-memory filesystem cache for Rust. ([HN](https://news.ycombinator.com/item?id=28721815))
+- [stack-graphs](https://github.com/github/stack-graphs) - Rust implementation of stack graphs.
 
 ## Cargo Plugins
 

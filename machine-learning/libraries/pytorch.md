@@ -281,3 +281,4 @@
 - [stoke](https://github.com/fidelity/stoke) - Lightweight wrapper for PyTorch that provides a simple declarative API for context switching between devices, distributed modes, mixed-precision, and PyTorch extensions.
 - [pystiche](https://github.com/pystiche/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch.
 - [TorchData](https://github.com/pytorch/data) - PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
+- [Efficient Video Dataset Loading and Augmentation in PyTorch](https://github.com/RaivoKoot/Video-Dataset-Loading-Pytorch)

@@ -186,9 +186,12 @@
 - [monte](https://github.com/lithdew/monte) - Bare minimum for high performance, fully-encrypted bidirectional RPC over TCP in Go with zero memory allocations.
 - [ns-x](https://github.com/bytedance/ns-x) - Easy-to-use, flexible network simulator library for Go.
 - [ratelimiter](https://github.com/Narasimha1997/ratelimiter) - Concurrent rate limiter library for Go based on Sliding-Window rate limiter algorithm.
+- [rehttp](https://github.com/PuerkitoBio/rehttp) - Implements a Go HTTP transport that handles retries.
+- [noctx](https://github.com/sonatard/noctx) - Finds sending http request without context.Context.
 
 ## GraphQL
 
+- [genqlient](https://github.com/Khan/genqlient) - Truly type-safe Go GraphQL client.
 - [gqlgen](https://github.com/99designs/gqlgen) - Library for quickly creating strictly typed graphql servers in golang. ([Docs](https://gqlgen.com/))
 - [gq](https://github.com/housecanary/gq) - Library to help build GraphQL server in Go.
 - [GGql](https://github.com/UHN/ggql) - GraphQL implementation for Go.
@@ -988,3 +991,4 @@
 - [Wrapcheck](https://github.com/tomarrell/wrapcheck) - Go linter to check that errors from external packages are wrapped.
 - [gomajor](https://github.com/icholy/gomajor) - Go tool for major version upgrades.
 - [genv](https://github.com/nishakm/genv) - Go imitation of Python's venv module.
+- [Vend](https://github.com/nomad-software/vend) - Small command line utility for fully vendoring module dependencies.

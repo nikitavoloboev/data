@@ -198,3 +198,6 @@
 - [Sat](https://github.com/suborbital/sat) - Tiny WebAssembly compute module.
 - [Suborbital](https://suborbital.dev/) - Build web services in an entirely new way with Atmo, our open source framework, to harness the power of cloud native WebAssembly. ([GitHub](https://github.com/suborbital)) ([Twitter](https://twitter.com/SuborbitalDev))
 - [Foundations: Wasm in Golang is fantastic (2021)](https://blog.suborbital.dev/foundations-wasm-in-golang-is-fantastic)
+- [DAPR WASM](https://github.com/second-state/dapr-wasm) - Template project to demonstrate how to run WebAssembly functions as sidecar microservices in dapr.
+- [wasup](https://github.com/NicholasLYang/wasup) - Zero-dependency, isomorphic library for emitting WebAssembly.
+- [WasmCert](https://github.com/Huxpro/WasmCert) - Coq mechanization of WebAssembly specification.

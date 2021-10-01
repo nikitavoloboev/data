@@ -60,6 +60,7 @@
 - [CalDOM](https://github.com/dumijay/CalDOM) - Agnostic, reactive & minimalist (3kb) JavaScript UI library with direct access to native DOM. ([Web](https://caldom.org/))
 - [Trimmings](https://github.com/postlight/trimmings) - Zero-configuration JavaScript library that adds a layer of smooth and fast in-page interaction to your web pages.
 - [Piral](https://piral.io/) - Easily build a next generation portal application using microfrontends. ([Code](https://github.com/smapiot/piral))
+- [Qiankun](https://github.com/umijs/qiankun) - Implementation of Micro Frontends, which based on single-spa. It aims to make it easier and painless to build a production-ready microfront-end architecture system. ([Web](https://qiankun.umijs.org/))
 
 ## Animation
 
@@ -601,13 +602,16 @@
 - [fast-base64](https://github.com/mitschabaude/fast-base64) - Fastest base64 on the web, with Wasm + SIMD.
 - [Nano Colors](https://github.com/ai/nanocolors) - Tiny and fast Node.js library for formatting terminal text with ANSI colors. ([Template](https://github.com/usmanyunusov/nanocolors-template)) ([HN](https://news.ycombinator.com/item?id=28659838)) ([Chalk maintainer's thoughts](https://github.com/babel/babel/pull/13783#issuecomment-927317201))
 - [picocolors](https://github.com/alexeyraspopov/picocolors) - 2x times faster than nanocolors and use 2x less space in node_modules. ([Tweet](https://twitter.com/alexeyraspopov/status/1442418148951707649))
+- [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Smallest and fastest command-line coloring package on the internet. Trust me.
 - [Fractional Indexing](https://github.com/rocicorp/fractional-indexing) - Technique to create an ordering that can be used for Realtime Editing of Ordered Sequences.
 - [Atrament](https://github.com/jakubfiala/atrament.js) - Small JS library for beautiful drawing and handwriting on the HTML Canvas. ([Web](https://www.fiala.space/atrament.js/demo/))
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 - [paintvec](https://github.com/seanchas116/paintvec) - JavaScript 2D vector math library.
 - [Audio Recorder Polyfill](https://github.com/ai/audio-recorder-polyfill) - MediaRecorder polyfill to record audio in Edge and Safari.
 - [IPO](https://github.com/gre/ipo) - Easing library allowing to describe complex easings in JSON.
-- [JSXGraph](https://github.com/jsxgraph/jsxgraph) - Dynamic Mathematics with JavaScript ([Web](https://jsxgraph.org/wp/index.html))
+- [JSXGraph](https://github.com/jsxgraph/jsxgraph) - Dynamic Mathematics with JavaScript ([Web](https://jsxgraph.org/wp/index.html)) ([HN](https://news.ycombinator.com/item?id=28702142))
+- [Vector Graph](https://vector-graph.com/) - Generate high-quality geometry and vector graphs with HTML.
+- [TweenTime](https://github.com/idflood/TweenTime) - JavaScript timeline.
 
 ## Links
 

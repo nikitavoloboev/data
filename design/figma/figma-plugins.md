@@ -55,3 +55,4 @@
 - [Health Icons Figma Plugin](https://www.figma.com/community/plugin/992844281461869440/Health-Icons-Figma-Plugin)
 - [Figmage: I don't mess with images](https://heyraviteja.com/post/projects/figmage/) ([HN](https://news.ycombinator.com/item?id=28094989))
 - [HTML to Figma](https://github.com/sergcen/html-to-figma) - Converts DOM nodes to Figma nodes.
+- [Figma Export](https://github.com/marcomontalbano/figma-export) - Export tool for Figma. You can easily and automatically export your Figma components and use them directly into your website. ([Web](https://figma-export.marcomontalbano.com/))

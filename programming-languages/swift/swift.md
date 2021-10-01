@@ -235,3 +235,4 @@
 - [Swift Regrets (2021)](https://belkadan.com/blog/2021/09/Swift-Regrets/) ([HN](https://news.ycombinator.com/item?id=28603794))
 - [7 ways to pass a closure as an argument in Swift (2021)](https://sarunw.com/posts/different-ways-to-pass-closure-as-argument/)
 - [The Actor Reentrancy Problem in Swift (2021)](https://swiftsenpai.com/swift/actor-reentrancy-problem/)
+- [Swift delight: value semantics collections (2021)](https://twitter.com/UINT_MIN/status/1444060664603955200)

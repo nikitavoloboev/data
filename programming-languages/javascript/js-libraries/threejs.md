@@ -62,3 +62,4 @@
 - [Magical Marbles in Three.js](https://github.com/mattrossman/magic-marble-tutorial) - Adding volumetric effects to a built-in Three.js shader.
 - [Theatre.js](https://www.theatrejs.com/) - JavaScript Motion Design Library. ([Code](https://github.com/AriaMinaei/theatre))
 - [Three.js - Template - Complex](https://github.com/brunosimon/threejs-template-complex)
+- [Three.js Modern App](https://github.com/marcofugaro/threejs-modern-app) - Boilerplate and utils for a full screen Three.js app.

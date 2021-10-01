@@ -31,3 +31,4 @@
 - [SmartWeave SDK v2](https://github.com/redstone-finance/redstone-smartweave) - Implementation of the SmartWeave SDK.
 - [Ardk](https://github.com/textury/ardk) - JavaScript/TypeScript SDK for interacting with the Arweave network.
 - [Scar](https://scar.vercel.app/#/) - Arweave Explorer. ([Code](https://github.com/renzholy/scar))
+- [Arweave Server](https://github.com/ArweaveTeam/arweave) - Official Erlang implementation of the Arweave protocol and a gateway implementation.

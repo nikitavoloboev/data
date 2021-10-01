@@ -239,6 +239,9 @@
 - [subprocess](https://github.com/rajatjain1997/subprocess) - C++ high level library for running shell processes.
 - [HOT](https://github.com/speedskater/hot) - Height Optimized Trie.
 - [Okasaki](https://github.com/BartoszMilewski/Okasaki) - Functional data structures in C++.
+- [rlottie](https://github.com/Samsung/rlottie) - Platform independent standalone library that plays Lottie Animation.
+- [simdutf](https://github.com/simdutf/simdutf) - Unicode validation and transcoding at billions of characters per second. ([Talk](https://www.youtube.com/watch?v=H9NZtb7ykYs))
+- [Boost.PFR](https://github.com/boostorg/pfr) - std::tuple like methods for user defined types without any macro or boilerplate code.
 
 ## Links
 

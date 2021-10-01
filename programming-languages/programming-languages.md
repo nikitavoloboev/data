@@ -122,7 +122,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [What's the Deal with Message Passing, Anyway (2020)](https://buttondown.email/hillelwayne/archive/whats-the-deal-with-message-passing-anyway/) ([Lobsters](https://lobste.rs/s/k0lx87/what_s_deal_with_message_passing_anyway))
 - [Things that are not strings (2020)](https://frantic.im/no-strings) ([Lobsters](https://lobste.rs/s/wjpj6n/things_are_not_strings))
 - [ICFP 2020](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4fOgwO5RUTrpgSA_HRjDMW)
-- [Essentials of Programming Languages](http://eopl3.com/) ([Code](https://github.com/mwand/eopl3)) ([HN](https://news.ycombinator.com/item?id=24324653)) ([Code in Racket](https://github.com/qdwang/eopl))
+- [Essentials of Programming Languages](http://eopl3.com/) ([Code](https://github.com/mwand/eopl3)) ([HN](https://news.ycombinator.com/item?id=24324653)) ([Code in Racket](https://github.com/qdwang/eopl)) ([Solutions in Scheme](https://github.com/chenyukang/eopl))
 - [UW PLSE](http://uwplse.org/) - University of Washington Programming Languages and Software Engineering. ([GitHub](https://github.com/uwplse))
 - [Your Language Sucks, It Doesn’t Matter (2020)](https://matklad.github.io//2020/09/13/your-language-sucks.html) ([Lobsters](https://lobste.rs/s/zp2pqd/your_language_sucks_it_doesn_t_matter))
 - [Energy Efficiency across Programming Languages (2017)](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) ([HN](https://news.ycombinator.com/item?id=24642134))
@@ -244,3 +244,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Cuddly, Octo-Palm Tree: Cheap interpreter, part 1: overview (2021)](https://cuddly-octo-palm-tree.com/posts/2021-06-19-cwafi-1/)
 - [Code2flow](https://github.com/scottrogowski/code2flow) - Generates call graphs for dynamic programming language.
 - [The seven programming ur-languages (2021)](https://madhadron.com/posts/seven_languages.html) ([Lobsters](https://lobste.rs/s/kwpyt8/seven_programming_ur_languages))
+- [Programming languages resources](https://bernsteinbear.com/pl-resources/)

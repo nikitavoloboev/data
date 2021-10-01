@@ -29,6 +29,8 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Rich people buy tons very low and wait till it rises high sell all for tons of profit...Then retail investors get scared and sell there coins making it drop way further than what the rich guys took profit...Next they buy tons again at a even cheaper price and get a lot more coins for there money...Rises high again then Repeat......Vicious cycle but this is the little guys opportunity to get a leg up. Why we have to hold for years of cycles like this and then we lil guys come out on top.](https://www.reddit.com/r/solana/comments/prndpj/whats_going_on_with_the_whole_crypto_market/)
 - [Message to US and Western Policymakers on how to think about China's approach to crypto and blockchain. China opposes the Western system of values built on openness, transparency, privacy, free market competition and so forth.](https://twitter.com/BrendanEich/status/1441455390982479878)
 - [Chains that charge users more than 2-4x the bandwidth it takes to replicate a tx will fail.](https://twitter.com/aeyakovenko/status/1441904517939810313)
+- [Use a hardware wallet.](https://twitter.com/armaniferrante/status/1444023272836775937)
+- [One of the most obvious flaws in using blockchains for anything involving regular human beings is one I've not seen much discussion of: Regular human beings cannot protect their passwords, credentials or private keys. They just can't. The idea of encouraging anyone who doesn't have a deep understanding of personal information security to attach a sizable portion of their net worth to an irreversible "code is law" distributed system is utterly appalling.](https://twitter.com/simonw/status/1444071543902912513)
 
 ## Links
 
@@ -135,5 +137,7 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Bity](https://bity.com/) - Buy, sell, and trade crypto. ([GitHub](https://github.com/BitySA))
 - [The SEC is threatening Coinbase to protect the public - But NOT in the way that you think (2021)](https://twitter.com/ojuice_eth/status/1441406498186227720)
 - [Companies hiring in crypto (2021)](https://twitter.com/thebengoldberg/status/1441460405495234562)
-- [Why web 3 matters and why it can be problematic (2021)](https://twitter.com/lazerwalker/status/1442242288961290241) ([Tweet](https://twitter.com/kardonice/status/1442276766517694471))
+- [Why web 3 matters and why it can be problematic (2021)](https://twitter.com/lazerwalker/status/1442242288961290241) ([Tweet](https://twitter.com/kardonice/status/1442276766517694471)) ([Tweet](https://twitter.com/cdixon/status/1442201621266534402))
 - [Stablecoins, Stability, and Financial Inclusion (2021)](https://future.a16z.com/stablecoins-stability-and-financial-inclusion/) ([Tweet](https://twitter.com/katie_haun/status/1442557615318257683))
+- [Fell for phishing attack & lost my entire DeFi portfolio (2021)](https://twitter.com/Rebecca_Mqamelo/status/1443991647898021892)
+- [Coinbase Cloud](https://www.coinbase.com/cloud) - Infrastructure for companies to integrate into the cryptoeconomy, or build their own crypto apps.

@@ -41,7 +41,7 @@
 - [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies)
 - [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL. ([Docs](https://docs.mapbox.com/mapbox-gl-js/api/)) ([OSS Fork](https://github.com/openmaptiles/gl-js))
 - [Zood](https://www.zood.xyz/) - End encrypted location sharing service like Google Latitude. ([HN](https://news.ycombinator.com/item?id=25347915))
-- [OpenMapTiles](https://openmaptiles.org/) - World maps you can self-host. ([GitHub](https://github.com/openmaptiles))
+- [OpenMapTiles](https://openmaptiles.org/) - World maps you can self-host. ([GitHub](https://github.com/openmaptiles)) ([OpenMapTiles Vector Tile Schema Implementation](https://github.com/openmaptiles/openmaptiles))
 - [OpenStreetMap](https://www.openstreetmap.org/) - Provides map data for thousands of web sites, mobile apps, and hardware devices. ([GitHub](https://github.com/openstreetmap))
 - [We Built Scalable Spatial Indexing in CockroachDB (2020)](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/)
 - [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps. ([Web](https://leafletjs.com/))

@@ -417,3 +417,4 @@ Below is a list of extensions I use.
 - [vscode-chrome-debug-core](https://github.com/microsoft/vscode-chrome-debug-core) - Library for building VS Code debug adapters for targets that support the Chrome Debugging Protocol.
 - [Iridium](https://github.com/Idered/iridium) - Growing collection of VS Code extensions with a fancy name.
 - [Writing a Visual Studio Code Completion Provider (2021)](https://blog.dendron.so/notes/IThOx1Oag1r0JAglpiDLp/)
+- [Publish Extensions to Open VSX](https://github.com/open-vsx/publish-extensions) - CI script for publishing open-source VS Code extensions to open-vsx.org.

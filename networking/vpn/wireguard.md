@@ -47,3 +47,4 @@
 - [Tailscale at DeepSource (2021)](https://deepsource.io/blog/tailscale-at-deepsource/) ([Lobsters](https://lobste.rs/s/fbdiwx/tailscale_at_deepsource))
 - [WireGuard Easy](https://github.com/WeeJeWel/wg-easy) - Easiest way to run WireGuard VPN + Web-based Admin UI.
 - [Firezone](https://github.com/firezone/firezone) - Open-source WireGuard-based alternative to OpenVPN AS. ([HN](https://news.ycombinator.com/item?id=28683231))
+- [wg-access-server](https://github.com/Place1/wg-access-server) - All-in-one WireGuard VPN solution with a web UI. ([HN](https://news.ycombinator.com/item?id=28719488))

@@ -48,8 +48,8 @@
 - [atom](https://github.com/rust-syndication/atom) - Rust library for serializing the Atom web content syndication format.
 - [How to discover and subscribe to most RSS feeds (2020)](https://toffelblog.xyz/tips/discover-rss/)
 - [Feedsub](https://feedsub.com/) - Get RSS/Atom Feeds Delivered To Your Inbox.
+- [Custom, real time RSS feeds for Hacker News](https://hnrss.github.io/) ([HN](https://news.ycombinator.com/item?id=25058236)) ([Code](https://github.com/hnrss/hnrss))
 - [Hacker News RSS feeds](https://edavis.github.io/hnrss/) ([HN](https://news.ycombinator.com/item?id=23778510))
-- [Hacker News RSS feeds 2](https://hnrss.github.io/) ([HN](https://news.ycombinator.com/item?id=25058236))
 - [Reading RSS feeds from wacky protocols with newsboat (2020)](https://brokenco.de/2020/07/07/newsboat-wacky-feeds.html)
 - [News And Rumors](https://newsandrumors.com/) - Alternative RSS reader and search engine for news and content. ([HN](https://news.ycombinator.com/item?id=23999065))
 - [About Feeds](https://aboutfeeds.com/) - Getting Started guide to web feeds/RSS.

@@ -91,3 +91,4 @@
 - [Asteria: Deep Learning-based AST-Encoding for Cross-platform Binary Code Similarity Detection (2021)](https://arxiv.org/abs/2108.06082) ([Code](https://github.com/Asteria-BCSD/Asteria)) ([Reddit](https://www.reddit.com/r/ReverseEngineering/comments/pf1bth/asteria_deep_learningbased_astencoding_for/))
 - [Reopt](https://github.com/GaloisInc/reopt) - Tool for analyzing x86-64 binaries.
 - [Awesome Binary Rewriting](https://github.com/SystemSecurityStorm/Awesome-Binary-Rewriting)
+- [radius](https://github.com/aemmitt-ns/radius) - Fast binary emulation and symbolic execution framework using radare2.

@@ -9,6 +9,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Pine](https://github.com/lukakerr/Pine) - Modern, native macOS markdown editor.
 - [Twig](https://github.com/lukakerr/twig/) - Modern macOS markdown editor.
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Displays all open files and sockets in use by all running processes on your system.
+- [TelegramSwift macOS](https://github.com/overtake/TelegramSwift)
 - [Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
 - [LuLu](https://github.com/objective-see/LuLu) - Free macOS firewall. ([Web](https://objective-see.com/products/lulu.html)) ([HN](https://news.ycombinator.com/item?id=25743546))
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch the latest and greatest conference videos on your Mac.

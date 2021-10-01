@@ -43,3 +43,6 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Drugs and Me](https://www.drugsand.me/en/) - Harm reduction guide to safer drug use.
 - [You're entitled to use substances however you wish to so long as you're not hurting yourself or anyone.](https://www.reddit.com/r/RationalPsychonaut/comments/pbkeqp/youre_entitled_to_use_substances_however_you_wish/)
 - [Streets of Philadelphia, Kensington Avenue (2021)](https://www.youtube.com/watch?v=Bi1Kf-1qd6Y) - Watching it with [this song](https://open.spotify.com/track/6WgBIPHwkQhCqMNnR5hQCN) in background is surreal. ([Tweet](https://twitter.com/msvetov/status/1434530611272769539))
+- [4-Methyl Methcathinone synthesis, Hive Novel Discourse](https://chemistry.mdma.ch/hiveboard/novel/000423945.html)
+- [4mmc Synthesis](https://pdfcoffee.com/4mmc-synthesis-pdf-free.html)
+- [The Hive Archive](https://chemistry.mdma.ch/hiveboard/)

@@ -37,6 +37,7 @@
 - [Molten](https://github.com/Bogdanp/molten) - Minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later. ([Docs](https://moltenframework.com/))
 - [Lona](https://github.com/lona-web-org/lona) - Web application framework, designed to write responsive web apps in full Python.
 - [AIOHTTP](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python. ([Docs](https://docs.aiohttp.org/en/stable/))
+- [GQL](https://github.cokm/graphql-python/gql) - GraphQL client in Python.
 
 ## ML
 

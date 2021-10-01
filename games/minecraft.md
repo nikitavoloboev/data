@@ -69,3 +69,4 @@
 - [Minecraft Console Client](https://github.com/ORelio/Minecraft-Console-Client) - Lightweight app allowing you to connect to any Minecraft server, send commands and receive text messages in a fast and easy way.
 - [PufferPanel](https://github.com/PufferPanel/PufferPanel) - Open source game server management panel, designed for both small networks and game server providers. Supports Minecraft, Forge, Spigot, Sponge, Source Dedicated Servers. ([Web](https://www.pufferpanel.com/))
 - [packwiz](https://github.com/comp500/packwiz) - Command-line tool for creating Minecraft modpacks.
+- [witchcraft](https://github.com/lambdaisland/witchcraft) - Clojure API for manipulating Minecraft, based on Bukkit.

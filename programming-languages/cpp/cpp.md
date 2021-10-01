@@ -251,3 +251,5 @@
 - [cel-cpp](https://github.com/google/cel-cpp) - Fast, portable, non-Turing complete expression evaluation (C++).
 - [C++ Roadmap](https://github.com/salmer/CppDeveloperRoadmap) - Дорожная карта по изучению языка C++ для чайников.
 - [High-performance garbage collection for C++ (2020)](https://v8.dev/blog/high-performance-cpp-gc)
+- [weggli](https://github.com/googleprojectzero/weggli) - Fast and robust semantic search tool for C and C++ codebases. Designed to help security researchers identify interesting functionality in large codebases.
+- [[History of C++] Templates: from C-style macros to concepts (2021)](https://belaycpp.com/2021/10/01/history-of-c-templates-from-c-style-macros-to-concepts/)

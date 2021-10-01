@@ -58,6 +58,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [How you treat people is more important than being right](https://twitter.com/NovallSwift/status/1420757742231248909)
 - [You deserve a partner that is actively invested in your happiness.](https://twitter.com/lingerie_addict/status/1438180037455401000)
 - [Be as good a friend as you can be, but within your limits. it isn't selfish to consider your needs, too. the support you can give incurs a cost, and nobody has limitless emotional energy to spend. not being in an abusive relationship doesn't make you a robot, unable to be hurt.](https://twitter.com/shaun_vids/status/1440020031677636619)
+- [Mentorship/menteeship is one of the easiest way to learn and network. The people I can access through this always had a huge impact in my life.](https://twitter.com/rakyll/status/1444075610637094917)
 
 ## Links
 

@@ -52,7 +52,7 @@
 - [Teach Yourself Apache Kafka and Python with a Jupyter Notebook](https://aiven.io/blog/teach-yourself-apache-kafka-and-python-with-a-jupyter-notebook)
 - [Confluent Hub](https://www.confluent.io/hub/) - Discover Kafka connectors and more.
 - [Gently Down the Stream - A gentle introduction to Apache Kafka](https://www.gentlydownthe.stream/) ([HN](https://news.ycombinator.com/item?id=27541339))
-- [UI for Apache Kafka](https://github.com/provectus/kafka-ui) - Free open-source web UI for monitoring and management of Apache Kafka clusters.
+- [UI for Apache Kafka](https://github.com/provectus/kafka-ui) - Free open-source web UI for monitoring and management of Apache Kafka clusters. ([HN](https://news.ycombinator.com/item?id=28718066))
 - [Starting with Kafka (2021)](https://blog.tinybird.co/2021/06/25/starting-with-kafka/) ([HN](https://news.ycombinator.com/item?id=27629553))
 - [Conduktor](https://www.conduktor.io/) - Kafka Desktop Client. ([GitHub](https://github.com/conduktor))
 - [Event-driven OpenFaaS with Managed Kafka from Aiven (2021)](https://www.openfaas.com/blog/openfaas-kafka-aiven/)

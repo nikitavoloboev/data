@@ -121,3 +121,8 @@
 - [Cloudflare Dynamic DNS IP Updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) - Script used to update dynamic DNS entries for accounts on Cloudflare.
 - [Faster Top Level Domain Name Extraction with Rust (2021)](https://tech.marksblogg.com/rdns-domain-name-tld-extract-rust.html)
 - [Decentralizing the Internet's Root (2021)](https://blog.ipfs.io/decentralizing-the-internet-s-root/) ([HN](https://news.ycombinator.com/item?id=28617496))
+- [DNS Record Types](https://www.nslookup.io/learning/dns-record-types/) ([HN](https://news.ycombinator.com/item?id=28714667))
+- [localtls](https://github.com/Corollarium/localtls) - DNS server for providing TLS to webservices on local addresses.
+- [dnsjit](https://github.com/DNS-OARC/dnsjit) - Engine for capturing, parsing and replaying DNS.
+- [Knot Resolver](https://github.com/CZ-NIC/knot-resolver) - Caching full resolver implementation written in C and LuaJIT, both a resolver library and a daemon. ([Web](https://www.knot-resolver.cz/))
+- [DNS-OARC](https://www.dns-oarc.net/) - DNS Operations, Analysis and Research Center. ([GitHub](https://github.com/DNS-OARC))

@@ -118,3 +118,5 @@
 - [UX Mapping Methods: Study Guide](https://www.nngroup.com/articles/ux-mapping-methods-study-guide/)
 - [When users never use the features they asked for (2021)](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html) ([HN](https://news.ycombinator.com/item?id=28699637))
 - [How to build a compelling consumer app in 2021](https://twitter.com/gregisenberg/status/1443194415208665092)
+- [Post-Linear design (2021)](https://twitter.com/brian_lovin/status/1443660899181465623)
+- [Always take user's perspective/experience](https://twitter.com/arvidkahl/status/1442940646549905415)

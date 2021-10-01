@@ -31,3 +31,5 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [The One Episode of Breaking Bad BETTER Than Ozymandias (2021)](https://www.youtube.com/watch?v=q6mheeEtCyw)
 - [Great series to watch (2021)](https://twitter.com/adamwathan/status/1441918348531355648)
 - [Show recs (2021)](https://twitter.com/harryhurst/status/1442078837861404674)
+- [Тред с сериалами](https://twitter.com/La72La/status/1245298372799614977)
+- [Посоветуйте сериал](https://twitter.com/ritafloresss/status/1444009985525092400)

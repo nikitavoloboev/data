@@ -85,6 +85,7 @@ It includes:
 - [CoRecursive Podcast](https://corecursive.com/) - The Stories Behind The Code.
 - [Well There's Your Problem Podcast](https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg/videos)
 - [On the Other Side Podcast](https://www.othersidepod.xyz/)
+- [Tooling Talks](https://www.tooling-talks.com/) - Series of talks about tooling.
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 

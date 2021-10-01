@@ -142,3 +142,5 @@
 - [Hudsucker](https://github.com/omjadas/hudsucker) - Intercepting HTTP/S proxy.
 - [Cache-Control Recommendations (2021)](https://pokeinthe.io/2021/09/13/cache-control-recommendations/)
 - [cacheable-response](https://github.com/Kikobeats/cacheable-response) - HTTP compliant route path middleware for serving cache response with invalidation support.
+- [Most important HTTP request headers](https://wizardzines.com/comics/request-headers/)
+- [HTTP: Learn your browser's language](https://wizardzines.gumroad.com/l/http-zine/buy-one-give-one)

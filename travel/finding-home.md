@@ -4,6 +4,8 @@ I use [AirBnb](https://www.airbnb.com) & [Booking](https://www.booking.com) for 
 
 I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.facebook.com/marketplace) for finding/selling places to stay in.
 
+One day it would be nice to own a house with a lot of windows for light like [this one](https://twitter.com/nikstep/status/1443874686333603863).
+
 ### UK
 
 - [SpareRoom](https://www.spareroom.co.uk)

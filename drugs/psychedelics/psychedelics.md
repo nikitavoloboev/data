@@ -129,3 +129,4 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [Mindbloom](https://www.mindbloom.com/) - Psychedelic Medicine is Here.
 - [Form constant - Wikipedia](https://en.wikipedia.org/wiki/Form_constant)
 - [Most psychoactive book you know (any genre) (2021)](https://twitter.com/sashachapin/status/1441413739886960649)
+- [Awesome Psychedelics](https://github.com/kianenigma/awesome-psychedelics)

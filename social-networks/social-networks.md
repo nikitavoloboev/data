@@ -132,3 +132,5 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Facebook is other people](https://kevinmunger.substack.com/p/facebook-is-other-people) ([HN](https://news.ycombinator.com/item?id=28649044))
 - [What our research says about teen well-being and Instagram (2021)](https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/) ([HN](https://news.ycombinator.com/item?id=28665503))
 - [You either die an MVP or live long enough to build content moderation (2021)](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation/) ([HN](https://news.ycombinator.com/item?id=28684250))
+- [Facebook Thrives on Criticism of “Disinformation” (2021)](https://doctorow.medium.com/facebook-thrives-on-criticism-of-disinformation-64b141d7b6c8) ([HN](https://news.ycombinator.com/item?id=28713347))
+- [Facebook's Latest Scandals: The Banality Of Hubris; The Messiness Of Humanity (2021)](https://www.techdirt.com/articles/20210929/17352047662/facebooks-latest-scandals-banality-hubris-messiness-humanity.shtml) ([Tweet](https://twitter.com/mmasnick/status/1443613056378937359))

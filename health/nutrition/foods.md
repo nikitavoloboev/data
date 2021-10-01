@@ -125,3 +125,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Three billion people cannot afford a healthy diet (2021)](https://ourworldindata.org/diet-affordability) ([Tweet](https://twitter.com/MaxCRoser/status/1422429018918375433)) ([HN](https://news.ycombinator.com/item?id=28047687))
 - [Let's talk about brain food (2021)](https://www.reddit.com/r/Nootropics/comments/p7hm5p/lets_talk_about_brain_food/)
 - [What are your favourite foods from your childhood?](https://www.reddit.com/r/AskARussian/comments/peib2y/what_are_your_favourite_foods_from_your_childhood/)
+- [I tried 30 mustards this summer (2021)](https://www.insidehook.com/article/food-and-drink/30-best-mustards-tried-summer) ([HN](https://news.ycombinator.com/item?id=28702922))

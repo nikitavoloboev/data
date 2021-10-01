@@ -33,3 +33,4 @@
 - [Book Code for Competitive Programming](https://github.com/ecnerwala/cp-book)
 - [Zig, Skia, Clojure, Geometry and the Japanese TV Show: ICFP Contest 2021](https://tonsky.me/blog/icfpc-2021/)
 - [ACMX](https://github.com/mfornet/acmx) - Competitive programming made simple. VSCode extension.
+- [Zig, Skia, Clojure, Geometry and the Japanese TV Show: ICFP Contest 2021](https://tonsky.me/blog/icfpc-2021/) ([Code](https://github.com/tonsky/icfpc2021))

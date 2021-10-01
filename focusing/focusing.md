@@ -33,6 +33,7 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Not being busy is a competitive advantage. Most people are so strapped for time they can't take advantage of lucky opportunities or quickly resolve unexpected problems. The ideal combination is proactive and flexible. Protect your free time, but maintain a bias toward action.](https://twitter.com/JamesClear/status/1400447419507220480)
 - [Noise is a remarkably insidious form of pollution: a 10db noise increase (from dishwasher to vacuum) drops productivity by 5%.](https://twitter.com/emollick/status/1408478193091330053)
 - [The sweet spot seems to be 2 hours of leisure time per day. Over 5 hours of leisure time will actually make you feel worse.](https://twitter.com/levelsio/status/1438480377207611399)
+- [Every time I feel like I lack time, I actually lack focus.](https://twitter.com/anthilemoon/status/1443485224092913669)
 
 ## Links
 

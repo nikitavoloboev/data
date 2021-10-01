@@ -83,3 +83,6 @@
 - [The role of decentralization, China/US break down & more with Bestie Guestie Balaji Srinivasan (2021)](https://www.youtube.com/watch?v=B2iNXMiGEms) ([Tweet](https://twitter.com/balajis/status/1441632885643960321))
 - [What is Web3? The Decentralized Internet of the Future Explained (2021)](https://www.freecodecamp.org/news/what-is-web3/)
 - [Good reads on Web 3 (2021)](https://twitter.com/campbelljbaron/status/1442251471689379841)
+- [Web3 – A Vision for a Decentralized Web (2021)](https://blog.cloudflare.com/what-is-web3/) ([HN](https://news.ycombinator.com/item?id=28717910)) ([Tweet](https://twitter.com/signalnerve/status/1443932304586412038))
+- [Cloudflare Distributed Web Gateways: Unlocking the Web3 Metaverse (2021)](https://blog.cloudflare.com/announcing-web3-gateways/) ([HN](https://news.ycombinator.com/item?id=28717926))
+- [DeveloperDAO Knowledge Base](https://github.com/Developer-DAO/resources) - Help you learn and grow in your Web3 journey.

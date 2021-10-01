@@ -26,6 +26,7 @@
 - [Patty](https://github.com/andreaferretti/patty) - Pattern matching library for Nim.
 - [NimData](https://github.com/bluenote10/NimData) - DataFrame API written in Nim, enabling fast out-of-core data processing.
 - [Questionable](https://github.com/markspanbroek/questionable) - Elegant optional types for Nim.
+- [cinterop](https://github.com/n0bra1n3r/cinterop) - C/C++ interop library for Nim.
 
 ## Links
 

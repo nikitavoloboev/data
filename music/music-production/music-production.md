@@ -245,3 +245,6 @@
 - [Computer Models of Musical Creativity - David Cope (2005)](https://mitpress.mit.edu/books/computer-models-musical-creativity) ([LISP source code](https://github.com/HeinrichApfelmus/david-cope-cmmc))
 - [Muzic](https://github.com/microsoft/muzic) - Research project on AI music that empowers music understanding and generation with deep learning and artificial intelligence.
 - [Awesome-MusicInfomatics](https://github.com/yamathcy/Awesome-MusicInfomatics)
+- [wavform](https://wav.fm/) - Building Useful Things For People Who Make Music. ([Twitter](https://twitter.com/wav___form))
+- [Web Audio Synthesis & Visualization Online Workshop (2021)](https://frontendmasters.com/workshops/web-audio/)
+- [Web Audio Weekly](https://www.webaudioweekly.com/) - Email newsletter all about the future of audio technology on the web platform. ([Twitter](https://twitter.com/webaudioweekly))

@@ -22,3 +22,4 @@
 - [Constructive Galois Connections: Taming the Galois Connection Framework for Mechanized Metatheory (2016)](https://arxiv.org/abs/1511.06965) ([Code](https://github.com/plum-umd/cgc))
 - [Summary After Four Months with Ada (2021)](https://pyjarrett.github.io/programming-with-ada/four-months-summary.html) ([HN](https://news.ycombinator.com/item?id=28344885))
 - [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html) ([HN](https://news.ycombinator.com/item?id=28477046))
+- [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf) ([HN](https://news.ycombinator.com/item?id=28711019))

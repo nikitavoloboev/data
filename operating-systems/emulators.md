@@ -47,3 +47,4 @@
 - [SwiftNES](https://github.com/thara/SwiftNES) - Cross-platform NES Emulator written in Swift.
 - [RBoy](https://github.com/mvdnes/rboy) - Gameboy Color Emulator written in Rust.
 - [Mooneye GB](https://github.com/Gekkio/mooneye-gb) - Game Boy research project and emulator written in Rust.
+- [BrowserVM.js](https://github.com/elliott-wen/browservm.js) - Efficient X86-64 virtual machine runs in modern browsers.

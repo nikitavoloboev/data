@@ -301,3 +301,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum JSON-RPC Specification](https://github.com/ethereum/execution-apis)
 - [Solidity Shell](https://github.com/tintinweb/solidity-shell) - Interactive Solidity shell with lightweight session recording.
 - [ethcontract-rs](https://github.com/gnosis/ethcontract-rs) - Generate type-safe bindings for interacting with Ethereum contracts.
+- [Deth Node](https://github.com/dethcrypto/deth) - Ethereum Node focused on Developer Experience.

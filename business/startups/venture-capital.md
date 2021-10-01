@@ -4,6 +4,7 @@
 
 - [Tons of cash in VC => founders have leverage => founders prefer to do 1st meetings over zoom, easier to parallel process more firms/create momentum => zoom is default for first meetings. In-person is saved for the end/close.](https://twitter.com/zebulgar/status/1376251459574976513)
 - [The biggest mistake you can make in venture is of omission, not commission.](https://twitter.com/faraaznishtar/status/1434297011164098569)
+- [If you take VC money, prepare to give up any values you might hold that are not aligned with turning that money into 10x for the benefit of the VCs. Don’t lie to yourself about being able to hold onto those values. You won’t.](https://twitter.com/ceejbot/status/1444055001437851650)
 
 ## Links
 

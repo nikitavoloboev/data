@@ -61,3 +61,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Conscious Culture](https://conscious.org/) - Bridging Humanity with Execution.
 - [Protopia Futures Framework (2021)](https://medium.com/protopia-futures/protopia-futures-framework-f3c2a5d09a1e)
 - [Tesla's values (2021)](https://twitter.com/MichaelRihani/status/1441854910442586118)
+- [Update on Coinbase's mission focused company (2021)](https://twitter.com/brian_armstrong/status/1443727729476530178)

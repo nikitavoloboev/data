@@ -62,6 +62,6 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [snp](https://github.com/djyde/snp) - VS Code code snippet generator.
 - [HN: Reflections on IDEA vs VS Code (2021)](https://news.ycombinator.com/item?id=26367410)
 - [Productive VS Code](https://productivevscode.com/) - Change the way you VS Code in 1 hour.
-- [OpenVSCode Server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
+- [OpenVSCode Server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere. ([Article](https://www.gitpod.io/blog/openvscode-server-launch))
 - [How OpenVSCode Server turns VS Code into a web IDE](https://sourcegraph.com/github.com/gitpod-io/openvscode-server/-/blob/docs/sourcedive.snb.md) ([HN](https://news.ycombinator.com/item?id=28685978))
 - [How We Made Bracket Pair Colorization 10,000x Faster (2021)](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization) ([HN](https://news.ycombinator.com/item?id=28692470)) ([Lobsters](https://lobste.rs/s/ujj1cu/how_we_made_bracket_pair_colorization_10)) ([Tweet](https://twitter.com/kmett/status/1443213748840325132))

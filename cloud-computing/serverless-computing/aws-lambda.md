@@ -76,3 +76,4 @@
 - [Lambda GitHub Runner](https://github.com/nwestfall/lambda-github-runner) - Github Action Runner inside of Lambda - A Completely Serverless Solution.
 - [aws-websocket-handler](https://github.com/matrus2/aws-websocket-handler) - Module is created to handle AWS Lambda websocket actions as a one default handler.
 - [Abusing AWS Lambda to make an Aussie search engine (2021)](https://boyter.org/posts/abusing-aws-to-make-a-search-engine/) ([HN](https://news.ycombinator.com/item?id=28665395))
+- [Learn AWS Lambda](https://github.com/dwyl/learn-aws-lambda) - Learn how to use AWS Lambda to easily create infinitely scalable web services.

@@ -54,3 +54,4 @@
 - [TTstar](https://github.com/ziman/ttstar) - Dependently typed core calculus with erasure inference.
 - [staged](https://github.com/AndrasKovacs/staged) - Experimental staged language with dependent types.
 - [dfuzz](https://github.com/ejgallego/dfuzz) - Linear Dependent Types for Differential Privacy.
+- [datatt](https://github.com/mmcqd/datatt) - Implementation of a dependent type theory with user defined datatypes.

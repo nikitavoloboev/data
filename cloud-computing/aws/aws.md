@@ -217,3 +217,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Building a Serverless Compute Platform with AWS and TypeScript - Tomasz Lakomy (2021)](https://www.youtube.com/watch?v=6EgfpBzL3_0)
 - [s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [AWS Samples GitHub](https://github.com/aws-samples)
+- [AWS Cloud Control API, a Uniform API to Access AWS and Third-Party Services (2021)](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/) ([HN](https://news.ycombinator.com/item?id=28710179))
+- [3 sad billing facts about AWS (2021)](https://twitter.com/QuinnyPig/status/1443987573844611072)

@@ -59,3 +59,4 @@
 - [Examples of interacting with a Polkadot node in Rust](https://github.com/paritytech/polkadot-interaction-examples-rs)
 - [Substrate playground](https://github.com/paritytech/substrate-playground) - Start hacking your substrate runtime in a web based VSCode like IDE. ([Web](https://playground.substrate.dev/))
 - [Substrate Connect](https://github.com/paritytech/substrate-connect) - Run Wasm Light Clients of any Substrate based chain directly in your browser.
+- [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - Collection of debug tools and libraries around substrate chains.

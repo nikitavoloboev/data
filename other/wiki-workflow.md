@@ -76,6 +76,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Timothy Andrew](https://timothyandrew.net/learning/wiki/)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
 - [Wesley Moore](https://linkedlist.org/)
+- [Josh Branchaud's TIL](https://github.com/jbranchaud/til)
 - [Slides of Chen Hui Jing](https://github.com/huijing/slides)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
 - [Shreyas Minocha](https://wiki.shreyasminocha.me/index.html) ([Code](https://github.com/shreyasminocha/wiki))
@@ -166,6 +167,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [masayume](https://github.com/masayume/DigitalGarden)
 - [Kate Bowie](https://katebowies-garden.netlify.app/)
 - [Binny's garden](https://notes.binnyva.com/)
+- [David Winterbottom's TIL](https://til.codeinthehole.com/)
 - [Alex Schroeder: Diary](https://alexschroeder.ch/)
 - [SUDOGAMI](https://sudogami.com/site/home.html)
 - [Anthony Amar's Garden](https://garden.anthonyamar.fr/)
@@ -179,6 +181,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Allen Lee's Digital Brain](https://github.com/ale0sx/brains)
 - [Ruben Rodrigues's Wiki](https://github.com/rubrodc/ruben-2.0)
 - [Szymon Kaliski's Notes](https://szymonkaliski.com/notes)
+- [Vegard Stikbakke's TILs](https://til.vegardstikbakke.com/) ([Code](https://github.com/vegarsti/til))
 - [Rahul Rajeev](https://garden.rahulrajeev.net/)
 - [Owen's Digigarden](https://publish.obsidian.md/geobo/Welcome+to+my+digital+garden+%F0%9F%8C%B1)
 - [Charlie T](https://blog.charlietrochlil.com/) ([Code](https://github.com/rhymeswithvocal/digital-garden))
@@ -391,3 +394,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [zk](https://github.com/mickael-menu/zk) - Plain text note-taking assistant.
 - [Why you need a "WTF Notebook"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 - [Taio](https://taio.app/) - Markdown editor and text actions for iPhone, iPad, and Mac. ([Twitter](https://twitter.com/TaioApp))
+- [digital-garden.dev](https://digital-garden.dev/) - Next.js powered digital garden starter. ([Code](https://github.com/inadeqtfuturs/garden))
+- [JINGO](https://github.com/claudioc/jingo) - Git based wiki engine written for node.js, with a decent design, a search capability and a good typography.

@@ -65,3 +65,4 @@
 - [The Common Lisp Condition System - Beyond Exception Handling with Control Flow Mechanisms (2020)](https://www.apress.com/gp/book/9781484261330)
 - [Coalton](https://github.com/coalton-lang/coalton) - Efficient, statically typed functional programming language that supercharges Common Lisp. ([Article](https://coalton-lang.github.io/20211010-introducing-coalton/))
 - [Building Common Lisp Executables (2018)](https://susam.in/maze/building-common-lisp-executables.html)
+- [Learning Common Lisp to beat Java and Rust on a phone encoding problem](https://renato.athaydes.com/posts/revenge_of_lisp.html) ([HN](https://news.ycombinator.com/item?id=28721403))

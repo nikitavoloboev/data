@@ -83,3 +83,4 @@
 - [pins](https://github.com/rstudio/pins) - Pin, Discover and Share Resources.
 - [fabricatr](https://github.com/DeclareDesign/fabricatr) - Imagine Your Data Before You Collect It.
 - [DeclareDesign](https://github.com/DeclareDesign) - Tools for declaring and diagnosing the properties of research designs. ([GitHub](https://github.com/DeclareDesign))
+- [capsule](https://github.com/MilesMcBain/capsule) - Inversion of renv for low effort reproducible R package libraries.
