@@ -185,6 +185,7 @@
 - [reliable](https://github.com/lithdew/reliable) - Reliability layer for UDP connections in Go.
 - [monte](https://github.com/lithdew/monte) - Bare minimum for high performance, fully-encrypted bidirectional RPC over TCP in Go with zero memory allocations.
 - [ns-x](https://github.com/bytedance/ns-x) - Easy-to-use, flexible network simulator library for Go.
+- [ratelimiter](https://github.com/Narasimha1997/ratelimiter) - Concurrent rate limiter library for Go based on Sliding-Window rate limiter algorithm.
 
 ## GraphQL
 
@@ -965,6 +966,7 @@
 - [Dogs](https://github.com/genkami/dogs) - Make Go functional with dogs.
 - [grab](https://github.com/cavaliercoder/grab) - Download manager package for Go.
 - [go-queue](https://github.com/tal-tech/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
+- [go-yaml](https://github.com/goccy/go-yaml) - YAML support for Go.
 
 ## Links
 

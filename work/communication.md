@@ -135,3 +135,4 @@
 - [Assertiveness is a virtue that anyone can develop with practice (2021)](https://psyche.co/ideas/assertiveness-is-a-virtue-that-anyone-can-develop-with-practice) ([HN](https://news.ycombinator.com/item?id=27833907))
 - [How to improve your debate and argument skills in an engineering context (2021)](https://twitter.com/NovallSwift/status/1421256019577999360)
 - [NimForum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim. ([HN](https://news.ycombinator.com/item?id=28329672))
+- [On bad advice](https://scattered-thoughts.net/writing/on-bad-advice/)

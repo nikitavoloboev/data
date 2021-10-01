@@ -8,3 +8,4 @@
 - [Mac external displays for designers and developers](https://bjango.com/articles/macexternaldisplays/)
 - [I built a 5K iMac Display on my own (2021)](https://twitter.com/phillipcaudell/status/1352692104707919872) ([HN](https://news.ycombinator.com/item?id=26299741))
 - [Looking Glass Portrait – Holographic Display](https://lookingglassfactory.com/portrait) ([HN](https://news.ycombinator.com/item?id=27979887))
+- [The Company Behind Apple's 10,000 Mini-LED Display (2021)](https://www.youtube.com/watch?v=_cm-w0XGZhs)

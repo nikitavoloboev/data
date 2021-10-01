@@ -57,3 +57,4 @@
 - [pngtostl](https://github.com/antirez/pngtostl) - Turn PNG images into STL 3D models that will "develop" in front of a light source.
 - [ShapeScript](https://github.com/nicklockwood/ShapeScript) - Hybrid scripting/markup language for creating and manipulating 3D geometry. Code for the ShapeScript 3D modeling app for macOS.
 - [Pyrender](https://github.com/mmatl/pyrender) - Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes.
+- [Drafting with Signed Distance Functions](https://github.com/NGimbal/sdfui)

@@ -315,6 +315,7 @@
 - [plex](https://github.com/goffrie/plex) - Parser and lexer generator as a Rust procedural macro.
 - [momo](https://github.com/llogiq/momo) - Rust proc_macro_attribute to outline conversions from generic functions.
 - [fixed-map](https://github.com/udoprog/fixed-map) - Map implementation that relies on fixed-size storage derived by a procedural macro.
+- [smlang](https://github.com/korken89/smlang-rs) - State Machine Language DSL procedural macro for Rust.
 
 ## Math
 

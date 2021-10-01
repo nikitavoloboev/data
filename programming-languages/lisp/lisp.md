@@ -114,7 +114,7 @@
 - [Lisp, Jazz, Aikido – Three Expressions of a Single Essence (2018)](https://arxiv.org/ftp/arxiv/papers/1804/1804.00485.pdf)
 - [REPL as a Service (2021)](https://speechcode.com/blog/repl-as-service)
 - [LispE](https://github.com/naver/lispe) - Version of Lisp that is ultra-minimal but contains all the basic instructions of the language. ([HN](https://news.ycombinator.com/item?id=25940439))
-- [Why I still Lisp (2021)](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8) ([HN](https://news.ycombinator.com/item?id=25978190))
+- [Why I still Lisp (2021)](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8) ([HN](https://news.ycombinator.com/item?id=25978190)) ([Lobsters](https://lobste.rs/s/ociwy7/why_i_still_lisp_you_should_too))
 - [A Lisp REPL as my main shell](https://ambrevar.xyz/lisp-repl-shell/index.html) ([HN](https://news.ycombinator.com/item?id=26059023))
 - [Ask HN: Why should we learn Lisp? (2021)](https://news.ycombinator.com/item?id=26162522)
 - [My experience of writing Lisp in Pony (2020)](https://stereobooster.com/posts/my-experience-of-writing-lisp-in-pony/)

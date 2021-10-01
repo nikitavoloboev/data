@@ -243,3 +243,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Is it better to teach beginner coders a low level or a high level language as their first language? (2021)](https://lobste.rs/s/ulvsxt/is_it_better_teach_beginner_coders_low)
 - [Cuddly, Octo-Palm Tree: Cheap interpreter, part 1: overview (2021)](https://cuddly-octo-palm-tree.com/posts/2021-06-19-cwafi-1/)
 - [Code2flow](https://github.com/scottrogowski/code2flow) - Generates call graphs for dynamic programming language.
+- [The seven programming ur-languages (2021)](https://madhadron.com/posts/seven_languages.html) ([Lobsters](https://lobste.rs/s/kwpyt8/seven_programming_ur_languages))

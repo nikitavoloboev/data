@@ -261,3 +261,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Helvetica Now Variable](https://www.monotype.com/fonts/helvetica-now-variable) ([HN](https://news.ycombinator.com/item?id=28211137))
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/) - Practical guide to web typography.
 - [opentype.js](https://github.com/opentypejs/opentype.js) - JavaScript parser and writer for TrueType and OpenType fonts. ([Web](https://opentype.js.org/))
+- [Improving My Website's Typography (2021)](https://kevq.uk/pimping-my-type-improving-my-websites-typography/)

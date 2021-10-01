@@ -390,3 +390,4 @@
 - [Uformer: A General U-Shaped Transformer for Image Restoration (2021)](https://arxiv.org/abs/2106.03106) ([Code](https://github.com/ZhendongWang6/Uformer))
 - [Self-Supervised Pretraining Improves Self-Supervised Pretraining (2021)](https://arxiv.org/abs/2103.12718) ([Code](https://github.com/cjrd/self-supervised-pretraining))
 - [SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes (2021)](https://xuchen-ethz.github.io/snarf/) ([Code](https://github.com/xuchen-ethz/snarf))
+- [HRFormer: High-Resolution Transformer for Dense Prediction, NeurIPS 2021](https://github.com/HRNet/HRFormer)

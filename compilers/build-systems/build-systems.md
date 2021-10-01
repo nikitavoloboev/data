@@ -78,3 +78,4 @@
 - [Python as a build tool (2021)](https://tonsky.me/blog/python-build/) ([Lobsters](https://lobste.rs/s/dektfe/python_as_build_tool))
 - [How to Find Packages With CMake: The Basics (2020)](https://izzys.casa/2020/12/how-to-find-packages-with-cmake-the-basics/)
 - [Practical Makefiles, by example (2020)](http://nuclear.mutantstargoat.com/articles/make/)
+- [Learning CMake](https://github.com/Akagi201/learning-cmake) - Simple CMake tutorial project which contains some different scenarios.
