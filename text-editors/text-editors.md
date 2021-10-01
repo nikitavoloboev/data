@@ -59,6 +59,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Lite XL](https://github.com/lite-xl/lite-xl) - Lightweight text editor written in Lua. ([Web](https://lite-xl.github.io/)) ([HN](https://news.ycombinator.com/item?id=28669439))
 - [Plain web text editor](https://github.com/pacocoursey/writer)
 - [Opus](https://github.com/pacocoursey/Opus) - Minimal note-taking app.
+- [React Oxide](https://github.com/bootrino/reactoxide) - open source ReactJS code editor with tabs, files & webDAV. ([HN](https://news.ycombinator.com/item?id=28702006))
 
 ## Web
 
@@ -136,3 +137,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Plate](https://github.com/udecode/plate) - Plugin framework for building rich text editors with slate. ([Web](https://plate.udecode.io/))
 - [Monaco language client](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers.
 - [Code blocks, but better (2021)](https://ped.ro/blog/code-blocks-but-better)
+- [Which editor/IDE does Bisqwit use? Answers & some history. (2019)](https://www.youtube.com/watch?v=ZMBQmhO8KqI)

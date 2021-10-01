@@ -182,6 +182,7 @@
 - [Designing delightful docs with Orta Therox, engineer on Microsoft's TypeScript compiler team (2021)](https://about.sourcegraph.com/podcast/orta-therox/)
 - [tsconfig-to-swcconfig](https://github.com/Songkeys/tsconfig-to-swcconfig) - Convert tsconfig to swc config.
 - [TypeScript to ES Module compiler](https://github.com/tszip/tszip)
+- [TypeScript BC](https://github.com/alshdavid/TypeScriptBC) - TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.
 
 ## Images
 

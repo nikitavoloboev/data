@@ -49,3 +49,4 @@
 - [Intimissimi](https://www.intimissimi.com/) - Lingerie and Underwear.
 - [Brioni](https://www.brioni.com/)
 - [Saint Laurent](https://www.ysl.com/)
+- [How Ana de Armas Got Ready for the ‘No Time to Die’ Premiere (2021)](https://www.vogue.com/article/ana-de-armas-bond-premiere-getting-ready)

@@ -361,3 +361,4 @@
 - [Shadow Roots and Inheritance (2021)](https://kittygiraudel.com/2021/08/23/shadow-roots-and-inheritance/)
 - [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) - Awesome list limited to the best CSS learning resources.
 - [PostCSS Hover Media Feature](https://github.com/saulhardman/postcss-hover-media-feature) - Extracts and wraps rules containing :hover pseudo-classes in @media (hover: hover) {} media queries.
+- [Simplifying Form Styles With accent-color (2021)](https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/)

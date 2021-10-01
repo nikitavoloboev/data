@@ -72,3 +72,4 @@
 - [The Last Glimpses of California's Vanishing Hippie Utopias (2021)](https://www.gq.com/story/californias-vanishing-hippie-utopias)
 - [Worst parts of US history](https://twitter.com/isaiah_bb/status/1442205678131687432)
 - [Kidnapping, assassination and a London shoot-out: Inside the CIA's secret war plans against WikiLeaks (2021)](https://news.yahoo.com/kidnapping-assassination-and-a-london-shoot-out-inside-the-ci-as-secret-war-plans-against-wiki-leaks-090057786.html) ([Tweet](https://twitter.com/chrislhayes/status/1442338530429227009))
+- [Foreign Affairs](https://www.foreignaffairs.com/) - Forum for serious discussion of American foreign policy and global affairs.

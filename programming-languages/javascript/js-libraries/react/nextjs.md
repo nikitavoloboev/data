@@ -83,6 +83,7 @@
 - [next-rpc](https://github.com/Janpot/next-rpc) - Makes exported functions from API routes accessible in the browser. Just import your API function and call it anywhere you want.
 - [next-runtime](https://github.com/smeijer/next-runtime) - All you need to handle POST requests, file uploads, and api requests, in getServerSideProps.
 - [next-useragent](https://github.com/tokuda109/next-useragent) - Parses browser user-agent strings for next.js.
+- [Next Opengraph Image](https://github.com/alvarlagerlof/next-opengraph-image) - Generate Open Graph images for Next.js on build.
 
 ## Notes
 

@@ -98,3 +98,5 @@
 - [List of gene lists for genomic analyses](https://github.com/macarthur-lab/gene_lists)
 - [MacArthur Lab](https://macarthurlab.org/) - Extracting useful information from large genomic datasets. ([GitHub](https://github.com/macarthur-lab))
 - [Directed evolution of rRNA improves translation kinetics and recombinant protein yield (2021)](https://www.nature.com/articles/s41467-021-25852-5) ([Tweet](https://twitter.com/AhmedHBadran/status/1442545398631911442))
+- [classify-genomes](https://github.com/AlessioMilanese/classify-genomes) - Classify a genome sequence according to the mOTUs/specI taxonomy.
+- [mOTU profiler](https://github.com/motu-tool/mOTUs) - Computational tool that estimates relative taxonomic abundance of known and currently unknown microbial community members using metagenomic shotgun sequencing data.

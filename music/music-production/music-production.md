@@ -244,3 +244,4 @@
 - [Music Source Separation](https://github.com/bytedance/music_source_separation) - PyTorch implementation of music source separation.
 - [Computer Models of Musical Creativity - David Cope (2005)](https://mitpress.mit.edu/books/computer-models-musical-creativity) ([LISP source code](https://github.com/HeinrichApfelmus/david-cope-cmmc))
 - [Muzic](https://github.com/microsoft/muzic) - Research project on AI music that empowers music understanding and generation with deep learning and artificial intelligence.
+- [Awesome-MusicInfomatics](https://github.com/yamathcy/Awesome-MusicInfomatics)

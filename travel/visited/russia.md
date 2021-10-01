@@ -254,3 +254,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Troubleshooting mission (2021)](https://www.ridl.io/en/troubleshooting-mission/)
 - [RIDDLE Russia](http://www.ridl.io/en/) - Online journal on Russian affairs. ([Twitter](https://twitter.com/RiddleRussia))
 - [Настоящее Время](https://twitter.com/CurrentTimeTv) - По-честному обо всем, что происходит в постсоветских странах. ([IG](https://www.instagram.com/currenttime.tv/))
+- [The Kremlin’s Strange Victory (2021)](https://www.foreignaffairs.com/articles/united-states/2021-09-27/kremlins-strange-victory)

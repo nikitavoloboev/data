@@ -61,3 +61,4 @@
 - [Those who built a custom ecommerce with over 1k products, how did you handle SEO? (2021)](https://www.reddit.com/r/nextjs/comments/o77mm3/question_for_those_who_built_a_custom_ecommerce/)
 - [A reminder on qualifying links and our link spam update (2021)](https://developers.google.com/search/blog/2021/07/link-tagging-and-link-spam-update)
 - [SEO for Devs Course](https://seofordevs.com/)
+- [Boring SEO](https://boringseo.org/) - SEO guide for non lazy people. ([HN](https://news.ycombinator.com/item?id=28706570))

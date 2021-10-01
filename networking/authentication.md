@@ -11,6 +11,7 @@
 - [Ask HN: What are problems with implementing authentication and authorization? (2020)](https://news.ycombinator.com/item?id=22512786)
 - [BitAuth](https://bitauth.com/) - Simple, Secure, Passwordless Login.
 - [Zanzibar: Google’s Consistent, Global Authorization System (2019)](https://www.youtube.com/watch?v=mstZT431AeQ) ([Web](https://research.google/pubs/pub48190/))
+- [Jake Moshenko on Zanzibar: Google’s Consistent, Global Authorization System (2021)](https://www.youtube.com/watch?v=1nbSbe3kw2U)
 - [What is Zanzibar? (2021)](https://authzed.com/blog/what-is-zanzibar/)
 - [samlify](https://github.com/tngan/samlify) - Highly configuarable Node.js SAML 2.0 library for Single Sign On.
 - [OAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy) - Reverse proxy that provides authentication with Google, Github or other providers.

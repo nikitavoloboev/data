@@ -338,6 +338,7 @@
 - [BindingKit](https://github.com/mkj-is/BindingKit) - Set of handy additions to the basic SwiftUI Binding type.
 - [Stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
 - [AlertKit](https://github.com/rebeloper/AlertKit) - SwiftUI alerts (and action sheets) done right.
+- [ViewCondition](https://github.com/tokijh/ViewCondition) - Super sweet syntactic sugar for SwiftUI.View initializers.
 
 ## Test
 
@@ -766,6 +767,8 @@
 - [Then](https://github.com/devxoul/Then) - Super sweet syntactic sugar for Swift initializers.
 - [DateBuilder](https://github.com/nicephoton/DateBuilder) - Create dates and date components easily (e.g. "first Thursday of the next month").
 - [TableKit](https://github.com/maxsokolov/TableKit) - Type-safe declarative table views.
+- [MultipartKit](https://github.com/vapor/multipart-kit) - Parses and serializes multipart-encoded data with Codable support.
+- [MatchingEngine](https://github.com/apple/swift-experimental-string-processing) - Early experimental general-purpose pattern matching engine for Swift.
 
 ## Other (not lib)
 

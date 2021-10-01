@@ -153,3 +153,4 @@
 - [Hierarchical Generation of Molecular Graphs using Structural Motifs (2020)](https://arxiv.org/abs/2002.03230) ([Code](https://github.com/wengong-jin/hgraph2graph))
 - [Broad Institute](https://www.broadinstitute.org/) - Unique, collaborative community pioneering a new model of biomedical science. ([Twitter](https://twitter.com/broadinstitute)) ([GitHub](https://github.com/broadinstitute))
 - [INDRA (Integrated Network and Dynamical Reasoning Assembler)](https://github.com/sorgerlab/indra) - Automated model assembly system, originally developed for molecular systems biology and then generalized to other domains. ([Web](http://www.indra.bio/))
+- [Reproducible, scalable, and shareable analysis pipelines with bioinformatics workflow managers](https://github.com/GoekeLab/bioinformatics-workflows)

@@ -449,3 +449,4 @@
 - [Designing Low Upkeep Software (2021)](https://www.jefftk.com/p/designing-low-upkeep-software) ([HN](https://news.ycombinator.com/item?id=28660964))
 - [ConE: A Concurrent Edit Detection Tool for Large Scale Software Development (2021)](https://arxiv.org/abs/2101.06542)
 - [Offline first is not about having no internet connection](https://rxdb.info/offline-first.html) ([HN](https://news.ycombinator.com/item?id=28690427)) ([Reddit](https://www.reddit.com/r/programming/comments/pxkzdf/offline_first_is_not_about_having_no_internet/))
+- [Data, objects, and how we're railroaded into poor design (2018)](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html) ([Lobsters](https://lobste.rs/s/78tq8r/data_objects_how_we_re_railroaded_into))

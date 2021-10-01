@@ -140,3 +140,4 @@
 - [How factories were made safe (2021)](https://rootsofprogress.org/history-of-factory-safety) ([HN](https://news.ycombinator.com/item?id=28504316))
 - [History of Botswana, where human life began](https://twitter.com/VodkaPolitics/status/1441767278664617985)
 - [Are there more surviving ancient writings in Greek or Latin? (2021)](https://talesoftimesforgotten.com/2021/09/25/are-there-more-surviving-ancient-writings-in-greek-or-latin/) ([HN](https://news.ycombinator.com/item?id=28662809))
+- [The Scholar's Stage](https://scholars-stage.org/) - Place to discuss the intersections of history, politics, culture, behavioral science, and strategic thought—often with a focus on East and Southeast Asian affairs.

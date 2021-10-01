@@ -299,3 +299,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Cartesi RISC-V Solidity Emulator](https://github.com/cartesi/machine-solidity-step) - On-chain implementation of the Cartesi Machine.
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
 - [Ethereum JSON-RPC Specification](https://github.com/ethereum/execution-apis)
+- [Solidity Shell](https://github.com/tintinweb/solidity-shell) - Interactive Solidity shell with lightweight session recording.
+- [ethcontract-rs](https://github.com/gnosis/ethcontract-rs) - Generate type-safe bindings for interacting with Ethereum contracts.

@@ -238,6 +238,7 @@
 - [EXOTica](https://github.com/ipab-slmc/exotica) - Extensible Optimization Framework. ([Docs](https://ipab-slmc.github.io/exotica/))
 - [subprocess](https://github.com/rajatjain1997/subprocess) - C++ high level library for running shell processes.
 - [HOT](https://github.com/speedskater/hot) - Height Optimized Trie.
+- [Okasaki](https://github.com/BartoszMilewski/Okasaki) - Functional data structures in C++.
 
 ## Links
 

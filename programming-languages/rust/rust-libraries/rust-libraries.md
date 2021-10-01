@@ -454,6 +454,7 @@
 - [Rusty V8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust.
 - [WS-RS](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
 - [CXX](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++. ([Docs](https://cxx.rs/))
+- [cxx-async](https://github.com/pcwalton/cxx-async) - Rust crate that extends the cxx library to provide seamless interoperability between asynchronous Rust code using async/await and C++20 coroutines using co_await.
 - [Duct](https://github.com/oconnor663/duct.rs) - Rust library for shelling out and making pipelines.
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust.
 - [wgpu-rs](https://github.com/gfx-rs/wgpu-rs) - Rust bindings to wgpu native library. ([Awesome](https://github.com/rofrol/awesome-wgpu-rs))
@@ -978,6 +979,7 @@
 - [moveit](https://github.com/google/moveit) - Library for safe, in-place construction of Rust (and C++!) objects.
 - [binrw](https://github.com/jam1garner/binrw) - Rust crate for helping parse and rebuild binary data using macro magic.
 - [Remain](https://github.com/dtolnay/remain) - Compile-time checks that an enum or match is written in sorted order.
+- [good_lp](https://github.com/rust-or/good_lp) - Linear Programming for Rust, with an user-friendly API.
 
 ## Cargo Plugins
 

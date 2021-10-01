@@ -265,3 +265,4 @@
 - [Fragmented Store](https://github.com/aralroca/fragmented-store) - Tiny (~500 B), easy and simple library to manage your (P)React state.
 - [Effector React Slots](https://github.com/space307/effector-react-slots)
 - [7 Lessons to Outlive React (2021)](https://www.youtube.com/watch?v=yLgq-Foc1EE)
+- [React Philosophies](https://github.com/mithi/react-philosophies) - Things I think about when I write React code.

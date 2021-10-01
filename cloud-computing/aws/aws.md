@@ -216,3 +216,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Cloudformation User Guide](https://github.com/awsdocs/aws-cloudformation-user-guide)
 - [Building a Serverless Compute Platform with AWS and TypeScript - Tomasz Lakomy (2021)](https://www.youtube.com/watch?v=6EgfpBzL3_0)
 - [s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
+- [AWS Samples GitHub](https://github.com/aws-samples)

@@ -49,3 +49,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [For developers, Apple’s Safari is crap and outdated (2021)](https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/) ([HN](https://news.ycombinator.com/item?id=27968394)) ([Lobsters](https://lobste.rs/s/4vhjvf/for_developers_apple_s_safari_is_crap)) ([Reddit](https://www.reddit.com/r/programming/comments/osj2i8/for_developers_apples_safari_is_crap_and_outdated/))
 - [One-offs and low-expectations with Safari (2021)](https://daverupert.com/2021/07/safari-one-offs/)
 - [What are the best extensions for Safari? (2021)](https://www.reddit.com/r/MacOS/comments/puhgk3/what_are_the_best_extensions_for_safari/)
+- [Safari Extensions for iOS and iPadOS 15: A Roundup of Our Favorites (2021)](https://www.macstories.net/stories/safari-extensions-for-ios-and-ipados-15-a-roundup-of-our-favorites/)

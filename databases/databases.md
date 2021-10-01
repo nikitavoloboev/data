@@ -165,6 +165,8 @@
 - [Embeddinghub](https://github.com/featureform/embeddinghub) - Vector database built for Machine Learning embeddings. ([HN](https://news.ycombinator.com/item?id=28552034))
 - [GQLite](https://github.com/dyedgreen/gqlite) - Embedded graph database implemented with Rust.
 - [Xata](https://www.xata.io/) - Database service for serverless apps. ([HN](https://news.ycombinator.com/item?id=28590816))
+- [SpiceDB](https://github.com/authzed/spicedb) - Zanzibar-inspired database that stores, computes, and validates application permissions. ([Article](https://authzed.com/blog/spicedb-is-open-source/)) ([HN](https://news.ycombinator.com/item?id=28709886))
+- [Authzed](https://authzed.com/) - Managed permissions database for everyone. ([GitHub](https://github.com/authzed))
 
 ## Tools
 

@@ -523,3 +523,4 @@
 - [Mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions.
 - [Python Packages](https://py-pkgs.org/) - Open source book about making Python packages. ([Code](https://github.com/py-pkgs/py-pkgs))
 - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
+- [Writing Python Extensions in Assembly (2020)](https://tonybaloney.github.io/posts/extending-python-with-assembly.html) ([HN](https://news.ycombinator.com/item?id=28702670))

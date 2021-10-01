@@ -65,3 +65,4 @@
 - [FreeArc'Next](https://github.com/Bulat-Ziganshin/FA)
 - [Experiments with compression-related algorithms](https://github.com/Bulat-Ziganshin/Compression-Research)
 - [Imager](https://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web. ([Web](https://imager.io/))
+- [Heatshrink](https://github.com/atomicobject/heatshrink) - Data compression library for embedded/real-time systems. ([HN](https://news.ycombinator.com/item?id=28687589))

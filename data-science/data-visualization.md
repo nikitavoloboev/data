@@ -112,3 +112,5 @@
 - [clip](https://github.com/asmuth/clip) - Create charts from the command line. ([Web](https://clip-lang.org/))
 - [Kroki](https://kroki.io/) - Creates diagrams from textual descriptions. ([Code](https://github.com/yuzutech/kroki))
 - [Awesome Charting](https://github.com/zingchart/awesome-charting)
+- [Vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
+- [Yagr](https://github.com/yandex-cloud/yagr) - High performance HTML5 canvas chart renderer based on uPlot. It provides high-level features for uPlot charts.

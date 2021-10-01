@@ -156,6 +156,7 @@
 - [urlpack](https://github.com/daangn/urlpack) - Pure JavaScript toolkit for data URLs (MessagePack, Base58 and Base62).
 - [miette](https://github.com/gabrielcsapo/miette) - Fancy upgrade to console.log.
 - [construct-js](https://github.com/francisrstokes/construct-js) - Library for creating byte level data structures.
+- [yieldparser](https://github.com/RoyalIcing/yieldparser) - Parse using JavaScript generator functions — it’s like components for parsing.
 
 ## Links
 

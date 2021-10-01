@@ -69,3 +69,4 @@
 - [The future needs files (2021)](https://jenson.org/files/) ([HN](https://news.ycombinator.com/item?id=28391570))
 - [Examining btrfs, Linux’s perpetually half-finished filesystem (2021)](https://arstechnica.com/gadgets/2021/09/examining-btrfs-linuxs-perpetually-half-finished-filesystem/)
 - [Goofys](https://github.com/kahing/goofys) - High-performance, POSIX-ish Amazon S3 file system written in Go.
+- [GeeseFS](https://github.com/yandex-cloud/geesefs) - High-performance, POSIX-ish S3 (Yandex, Amazon) file system written in Go.

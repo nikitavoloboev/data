@@ -55,3 +55,4 @@
 - [Resources to learn algebra visually (2021)](https://twitter.com/prathyvsh/status/1434663132585025537)
 - [Can We Solve Linear Algebra Problems at Extreme Scale and Low Precisions? (2021)](https://nhigham.com/2021/09/14/can-we-solve-linear-algebra-problems-at-extreme-scale-and-low-precisions/) ([HN](https://news.ycombinator.com/item?id=28549062))
 - [linalg](https://github.com/kevinzakka/learn-linalg) - Reinforcing my linear algebra and numerical analysis by reimplementing basic, fundamental algorithms in Python.
+- [Linear Algebra for Everyone, Gilbert Strang](http://math.mit.edu/~gs/everyone/) ([Graphic notes](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)) ([HN](https://news.ycombinator.com/item?id=28704164))

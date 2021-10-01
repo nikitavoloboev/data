@@ -244,6 +244,7 @@
 - [postgresql-parser](https://github.com/auxten/postgresql-parser) - PostgreSQL style Parser splitted from CockroachDB.
 - [pggen](https://github.com/jschaf/pggen) - Generate type-safe Go from any Postgres query. If Postgres can run the query, pggen can generate code for it.
 - [Squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generator for Go.
+- [Bob](https://github.com/aldy505/bob) - SQL Query Builder. Extension of Squirrel with functionability like Knex.
 - [Litestream as Library](https://github.com/benbjohnson/litestream-library-example) - Example repository for embedding Litestream in a Go application.
 - [go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3.
 - [go-sqlite3](https://github.com/mattn/go-sqlite3) - SQLite driver for go using database/sql. ([Article](https://foxcpp.dev/articles/the-right-way-to-use-go-sqlite3))

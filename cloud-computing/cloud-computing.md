@@ -40,6 +40,7 @@
 - [Nanobox](https://nanobox.io/) - Run any app on any cloud.
 - [Hadean](https://hadean.com/) - Distributed Computing at Massive Scale.
 - [Renderro](https://renderro.com/) - Powerful Cloud Computer For Creatives.
+- [Yandex Cloud](https://cloud.yandex.com/en/) ([GitHub](https://github.com/yandex-cloud))
 
 ## Notes
 
@@ -82,3 +83,4 @@
 - [Alicorn](https://alicorncloud.io/) - Easily move between AWS, GCP and Azure. ([HN](https://news.ycombinator.com/item?id=28167349))
 - [When AWS, Azure, or GCP Becomes the Competition (2019)](https://www.gkogan.co/blog/big-cloud/) ([HN](https://news.ycombinator.com/item?id=28351951))
 - [cloud-init](https://github.com/canonical/cloud-init) - Industry standard multi-distribution method for cross-platform cloud instance initialization. ([Web](https://cloud-init.io/))
+- [Cloudflare’s Disruption (2021)](https://stratechery.com/2021/cloudflares-disruption/) ([HN](https://news.ycombinator.com/item?id=28707317))

@@ -355,3 +355,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Fastlane Step](https://github.com/bitrise-steplib/steps-fastlane) - Runs the fastlane lane specified as input.
 - [Xcode Test for iOS](https://github.com/bitrise-steplib/steps-xcode-test) - Runs your project's pre-defined Xcode tests on every build.
 - [Gamed 0-day (iOS 15.0)](https://github.com/illusionofchaos/ios-gamed-0day) ([Reddit](https://www.reddit.com/r/apple/comments/pv44qu/researcher_drops_three_ios_zerodays_that_apple/))
+- [iCloudCoreDataStarter](https://github.com/jazzychad/iCloudCoreDataStarter) - Example Xcode swift iOS project for Core Data + iCloud syncing.

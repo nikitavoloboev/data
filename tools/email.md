@@ -42,7 +42,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [InboxSDK](https://www.inboxsdk.com/) - High level Javascript library used to easily build browser extensions that interact with both Gmail and Inbox by Google. ([HN](https://news.ycombinator.com/item?id=22580223))
 - [gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters. ([HN](https://news.ycombinator.com/item?id=22715982))
 - [Good Email Code](https://www.goodemailcode.com/) ([Code](https://github.com/M-J-Robbins/good-email-code))
-- [Mailgun](https://www.mailgun.com/) - The all-in-one, intelligent email delivery platform.
+- [Mailgun](https://www.mailgun.com/) - The all-in-one, intelligent email delivery platform. ([HN](https://news.ycombinator.com/item?id=28704741))
 - [Mailgun Logger](https://github.com/jackjoe/mailgun_logger) - Simple admin tool to get Mailgun persistence ad infinititum.
 - [Mailgun with Go](https://github.com/mailgun/mailgun-go) - Go library for interacting with the Mailgun API.
 - [Maddy](https://github.com/foxcpp/maddy) - Composable all-in-one mail server. ([Web](https://maddy.email/)) ([HN](https://news.ycombinator.com/item?id=25157989)) ([HN](https://news.ycombinator.com/item?id=27557542))

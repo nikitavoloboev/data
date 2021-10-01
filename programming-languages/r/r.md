@@ -81,3 +81,5 @@
 - [scattermore](https://github.com/exaexa/scattermore) - Very fast scatterplots for R.
 - [spatialRF](https://github.com/BlasBenito/spatialRF) - Easy Spatial Regression with Random Forest.
 - [pins](https://github.com/rstudio/pins) - Pin, Discover and Share Resources.
+- [fabricatr](https://github.com/DeclareDesign/fabricatr) - Imagine Your Data Before You Collect It.
+- [DeclareDesign](https://github.com/DeclareDesign) - Tools for declaring and diagnosing the properties of research designs. ([GitHub](https://github.com/DeclareDesign))

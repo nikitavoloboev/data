@@ -61,7 +61,7 @@
 - [Are you using SVG favicons yet? A guide for modern browsers. (2020)](https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df)
 - [Sys: a Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code (2020)](https://cseweb.ucsd.edu/~dstefan/pubs/brown:2020:sys.pdf)
 - [Consider deploying cross-origin resource policy](https://resourcepolicy.fyi/)
-- [Ampie](https://ampie.app/) - Social navigator for the web. Helps you find interesting links, and find what people had to say about them. ([Tweet](https://twitter.com/posobin/status/1283111738154668032)) ([Get URL Context](https://ampie.app/url-context))
+- [Ampie](https://ampie.app/) - Social navigator for the web. Helps you find interesting links, and find what people had to say about them. ([Tweet](https://twitter.com/posobin/status/1283111738154668032)) ([Get URL Context](https://ampie.app/url-context)) ([HN](https://news.ycombinator.com/item?id=28697828))
 - [Browserslist](https://browserslist.dev/) - Website to display compatible browsers from browserslist string. ([Code](https://github.com/PSPDFKit-labs/browserslist.dev))
 - [Kosmonaut](https://github.com/twilco/kosmonaut) - Web browser from scratch in Rust. ([HN](https://news.ycombinator.com/item?id=24170201))
 - [Replay](https://replay.io/) - Record and replay web applications. ([GitHub](https://github.com/RecordReplay)) ([Dev Tools](https://github.com/RecordReplay/devtools)) ([HN](https://news.ycombinator.com/item?id=28539247))

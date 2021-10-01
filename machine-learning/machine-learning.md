@@ -554,3 +554,4 @@
 - [An Introduction to Weighted Automata in Machine Learning (2021)](https://awnihannun.com/writing/automata_ml.html) ([Code](https://github.com/awni/automata_ml))
 - [Ultimate FREE Machine Learning Study Plan](https://github.com/python-engineer/ml-study-plan)
 - [node2vec: Scalable Feature Learning for Networks](https://snap.stanford.edu/node2vec/) ([Code](https://github.com/aditya-grover/node2vec))
+- [Learning to Superoptimize Real-world Programs (2021)](https://arxiv.org/abs/2109.13498)

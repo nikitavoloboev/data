@@ -195,3 +195,6 @@
 - [run-wasm](https://github.com/slipHQ/run-wasm) - Run WASM based code executions in the browser easily.
 - [Hippo](https://github.com/deislabs/hippo) - WebAssembly PaaS. Easiest way to deploy and serve applications compiled to WebAssembly. ([Docs](https://docs.hippofactory.dev/)) ([Intro](https://deislabs.io/posts/introducing-hippo/))
 - [wamr-swift](https://github.com/swiftwasm/wamr-swift) - Swift WebAssembly runtime powered by WAMR.
+- [Sat](https://github.com/suborbital/sat) - Tiny WebAssembly compute module.
+- [Suborbital](https://suborbital.dev/) - Build web services in an entirely new way with Atmo, our open source framework, to harness the power of cloud native WebAssembly. ([GitHub](https://github.com/suborbital)) ([Twitter](https://twitter.com/SuborbitalDev))
+- [Foundations: Wasm in Golang is fantastic (2021)](https://blog.suborbital.dev/foundations-wasm-in-golang-is-fantastic)

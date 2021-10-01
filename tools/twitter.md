@@ -120,3 +120,5 @@
 - [Minimal Twitter](https://github.com/ThomasWang/minimal-twitter) - Minimal Theme for the new Twitter UI.
 - [How many accounts block you on Twitter](https://blolook.osa-p.net/index.html?lang=en)
 - [Thread Hunt](https://threadhunt.xyz/) - Quality Twitter threads from undiscovered creators.
+- [Static Tweet Next.js](https://github.com/lfades/static-tweet) - Completely customizable static tweet for Next.js applications. ([Demo](https://static-tweet.vercel.app/))
+- [Twitter audit trail backup](https://github.com/ahmetb/twitter-audit-log) - Backs up my follower list, following list, blocked accounts list and muted accounts list periodically using GitHub Actions.

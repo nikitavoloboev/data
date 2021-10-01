@@ -115,3 +115,4 @@
 - [HiFive Unmatched](https://www.sifive.com/boards/hifive-unmatched) - RISC-V Linux development platform. ([HN](https://news.ycombinator.com/item?id=28468118))
 - [RVirt](https://github.com/mit-pdos/RVirt) - S-mode trap-and-emulate hypervisor for RISC-V.
 - [Vortex RISC-V GPGPU](https://github.com/vortexgpgpu/vortex) - Full-system RISCV-based GPGPU processor.
+- [RISC-V: The New Architecture on the Block](https://klarasystems.com/articles/risc-v-the-new-architecture-on-the-block/) ([HN](https://news.ycombinator.com/item?id=28696450))

@@ -117,3 +117,4 @@
 - [Why are there no "standard texts" on designing software interfaces? (2021)](https://twitter.com/andy_matuschak/status/1440847231301550085)
 - [UX Mapping Methods: Study Guide](https://www.nngroup.com/articles/ux-mapping-methods-study-guide/)
 - [When users never use the features they asked for (2021)](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html) ([HN](https://news.ycombinator.com/item?id=28699637))
+- [How to build a compelling consumer app in 2021](https://twitter.com/gregisenberg/status/1443194415208665092)

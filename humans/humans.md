@@ -36,6 +36,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [73 Questions With Lorde (2021)](https://www.youtube.com/watch?v=MSRBV9udKi8)
 - [A conversation between Nassim Nicholas Taleb and Stephen Wolfram at the Wolfram Summer School 2021](https://www.youtube.com/watch?v=_8j1XZ0N_wE)
 - [Anya Taylor-Joy: Working On The Queen’s Gambit Was An IRL Checkmate](https://www.youtube.com/watch?v=Dz12pCwA41A)
+- [Full Elon Musk Interview CodeCon (2021)](https://www.youtube.com/watch?v=ESIjxVudERY)
 
 ## Interesting bios
 

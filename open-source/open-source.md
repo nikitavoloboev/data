@@ -193,3 +193,5 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Do not choose dependencies blindly. Do open source (2021)](https://www.youtube.com/watch?v=f8x80EK6Tps)
 - [Delightful Open Science](https://delightful.club/delightful-open-science/)
 - [Guide to coordinated vulnerability disclosure for open source software projects](https://github.com/ossf/oss-vulnerability-guide)
+- [What can be considered open source? (2021)](https://twitter.com/ChristianSelig/status/1443227711653154821)
+- [Open Source Tips](https://eddiejaoude.github.io/book-open-source-tips/) ([Code](https://github.com/eddiejaoude/book-open-source-tips))

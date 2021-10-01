@@ -39,3 +39,4 @@
 - [BlackRock Microsystems](https://blackrockneurotech.com/) - Brain-Computer Interfaces.
 - [Bryan Johnson: Kernel Brain-Computer Interfaces (2021)](https://overcast.fm/+eZyCHNnz8)
 - [Kernel](https://www.kernel.com/) - Creates the interfaces and insights necessary to unlock the greatest scientific unknown: the inner workings of the human brain and mind.
+- [Low-cost brain computer interface for everyday use (2021)](https://www.researchgate.net/publication/354935534_Low-cost_brain_computer_interface_for_everyday_use) ([HN](https://news.ycombinator.com/item?id=28702983))

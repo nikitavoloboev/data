@@ -56,3 +56,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [What China Thinks is a "Tech Company" (2021)](https://www.youtube.com/watch?v=5tiyNS6-R0A)
 - [How great is the great firewall? Measuring China’s DNS censorship (2021)](https://www.usenix.org/system/files/sec21-hoang.pdf) ([HN](https://news.ycombinator.com/item?id=28658089))
 - [GFWatch Dashboard](https://gfwatch.org/) - Measurement platform capable of testing hundreds of millions of domains daily, enabling the continuous monitoring of the Great Firewallʼs DNS filtering behavior.
+- [Xi Jinping’s War on Spontaneous Order (2021)](https://scholars-stage.org/xi-jinpings-war-on-spontaneous-order/)

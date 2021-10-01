@@ -77,6 +77,7 @@
 - [Exploring rectangle packing algorithms (2020)](https://www.david-colson.com/2020/03/10/exploring-rect-packing.html)
 - [Quicksort and k-th smallest elements](https://apfelmus.nfshost.com/articles/quicksearch.html)
 - [How Fast Do Algorithms Improve?](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9540991) ([HN](https://news.ycombinator.com/item?id=28621057))
+- [Algorithms | Coursera](https://www.coursera.org/specializations/algorithms)
 
 ## Images
 
