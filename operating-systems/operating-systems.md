@@ -111,6 +111,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Lemon OS](https://lemonos.org/) - UNIX-like 64-bit operating system written in C++. ([Code](https://github.com/LemonOSProject/LemonOS))
 - [Pumpkin OS](https://pmig96.wordpress.com/2021/09/08/pumpkin-os/) - x64 port/re-implementation of PalmOS. ([Lobsters](https://lobste.rs/s/m8mhb1/pumpkin_os))
 - [SteinsOS](https://github.com/0x59616e/SteinsOS) - Operating system featuring non-preemptive single-threaded kernel targeting on armv8.
+- [EmbassyOS](https://github.com/Start9Labs/embassy-os) - Graphical operating system for running self-hosted software. ([Web](https://start9.com/))
 
 ## Notes
 
