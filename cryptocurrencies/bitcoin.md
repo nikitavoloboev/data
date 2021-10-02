@@ -160,3 +160,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Turing Machines on Bitcoin. Bitcoin Turing Complete Proofs (2021)](https://xiaohuiliu.medium.com/turing-machine-on-bitcoin-7f0ebe0d52b1) ([HN](https://news.ycombinator.com/item?id=28574546))
 - [Offline lightning PoS](https://github.com/arcbtc/LNURLPoS)
 - [Lightning Labs](https://lightning.engineering/) - Faster, cheaper, global layer two bitcoin. ([GitHub](https://github.com/lightninglabs))
+- [Lightning Network Flaws](https://github.com/davidshares/Lightning-Network) ([HN](https://news.ycombinator.com/item?id=28724648))

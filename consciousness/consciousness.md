@@ -70,3 +70,4 @@ I practice self reflection (via journaling) & meditation (walks in nature) to ge
 - [Neuroscience of Consciousness | Oxford Academic](https://academic.oup.com/nc)
 - [Minimal physicalism as a scale-free substrate for cognition and consciousness (2021)](https://academic.oup.com/nc/article/2021/2/niab013/6334115) ([Tweet](https://twitter.com/drmichaellevin/status/1422190382645923842))
 - [The fungal mind: on the evidence for mushroom intelligence (2021)](https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence) ([HN](https://news.ycombinator.com/item?id=28406931))
+- [Anil Seth Finds Consciousness in Life’s Push Against Entropy (2021)](https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/) ([HN](https://news.ycombinator.com/item?id=28724072))

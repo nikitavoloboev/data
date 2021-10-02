@@ -66,3 +66,4 @@ And here are Chrome extensions I use:
 - [Ferret](https://github.com/kanyesthaker/qgqa-flashcards) - Chrome extension that uses NLP to generate and ask helpful recall-based questions to reinforce key concepts.
 - [rollup-plugin-chrome-extension](https://github.com/extend-chrome/rollup-plugin-chrome-extension) - Feature-rich solution for bundled Chrome Extensions.
 - [Extend Chrome](https://www.extend-chrome.dev/) - GitHub organization dedicated to making Chrome extension development smarter.
+- [chrome-webstore-upload](https://github.com/fregante/chrome-webstore-upload) - Upload Chrome Extensions to the Chrome Web Store.

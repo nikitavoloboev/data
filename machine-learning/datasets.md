@@ -114,3 +114,4 @@
 - [COCO - Common Objects in Context](https://cocodataset.org/#home) - Large-scale object detection, segmentation, and captioning dataset. ([API](https://github.com/cocodataset/cocoapi))
 - [img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [How to fit any dataset with a single parameter (2019)](https://arxiv.org/abs/1904.12320) ([HN](https://news.ycombinator.com/item?id=28698163))
+- [Single-dataset Experts for Multi-dataset Question Answering (2021)](https://arxiv.org/abs/2109.13880) ([Code](https://github.com/princeton-nlp/MADE))

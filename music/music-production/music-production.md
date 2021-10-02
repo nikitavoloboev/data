@@ -248,3 +248,5 @@
 - [wavform](https://wav.fm/) - Building Useful Things For People Who Make Music. ([Twitter](https://twitter.com/wav___form))
 - [Web Audio Synthesis & Visualization Online Workshop (2021)](https://frontendmasters.com/workshops/web-audio/)
 - [Web Audio Weekly](https://www.webaudioweekly.com/) - Email newsletter all about the future of audio technology on the web platform. ([Twitter](https://twitter.com/webaudioweekly))
+- [Why do we tune in 5ths?](https://www.violinist.com/discussion/archive/17290/) ([HN](https://news.ycombinator.com/item?id=28724210))
+- [Violinist.com](https://www.violinist.com/)

@@ -970,6 +970,8 @@
 - [grab](https://github.com/cavaliercoder/grab) - Download manager package for Go.
 - [go-queue](https://github.com/tal-tech/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
 - [go-yaml](https://github.com/goccy/go-yaml) - YAML support for Go.
+- [Unusual Generics](https://github.com/xakep666/unusual_generics) - Collection of unusual generics usecases in Go.
+- [Mustache](https://github.com/cbroglie/mustache) - Mustache template language in Go.
 
 ## Links
 

@@ -55,3 +55,4 @@
 - [staged](https://github.com/AndrasKovacs/staged) - Experimental staged language with dependent types.
 - [dfuzz](https://github.com/ejgallego/dfuzz) - Linear Dependent Types for Differential Privacy.
 - [datatt](https://github.com/mmcqd/datatt) - Implementation of a dependent type theory with user defined datatypes.
+- [Pompom](https://github.com/caotic123/PomPom-Language) - Dependently typed language for proofs that you can implement in one day. ([HN](https://news.ycombinator.com/item?id=28725803))
