@@ -126,3 +126,4 @@
 - [dnsjit](https://github.com/DNS-OARC/dnsjit) - Engine for capturing, parsing and replaying DNS.
 - [Knot Resolver](https://github.com/CZ-NIC/knot-resolver) - Caching full resolver implementation written in C and LuaJIT, both a resolver library and a daemon. ([Web](https://www.knot-resolver.cz/))
 - [DNS-OARC](https://www.dns-oarc.net/) - DNS Operations, Analysis and Research Center. ([GitHub](https://github.com/DNS-OARC))
+- [dnsfs](https://github.com/benjojo/dnsfs) - Store your data in others DNS resolvers cache.

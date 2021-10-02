@@ -358,6 +358,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Todd Hido](https://www.instagram.com/toddhido_/)
 - [Baud Postma](https://www.instagram.com/baudpostma/)
 - [Om Malik](https://www.instagram.com/om/)
+- [Ivan Bideac](https://www.ivanbideac.com/)
 - [Richard Avedon](https://www.avedonfoundation.org/the-work)
 - [George Jejeya](https://www.instagram.com/gerudes/)
 - [Eva Milkonskaya](https://www.instagram.com/evamilkonskaya/)

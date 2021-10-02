@@ -157,6 +157,7 @@
 - [miette](https://github.com/gabrielcsapo/miette) - Fancy upgrade to console.log.
 - [construct-js](https://github.com/francisrstokes/construct-js) - Library for creating byte level data structures.
 - [yieldparser](https://github.com/RoyalIcing/yieldparser) - Parse using JavaScript generator functions — it’s like components for parsing.
+- [tsafe](https://github.com/garronej/tsafe) - Missing TypeScript builtins.
 
 ## Links
 

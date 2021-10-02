@@ -76,3 +76,4 @@
 - [PyCoq](https://github.com/ejgallego/pycoq) - Access Coq from Python.
 - [Mechanization of a noninterference proof via a type system for a simple imperative language with a small-step semantics in Coq](https://github.com/aslanix/SmallStepNI)
 - [Coq library formalizes dependent type theory in the style of Per Martin-Löf](https://github.com/TheoWinterhalter/formal-type-theory)
+- [Hanoi tower in Coq](https://github.com/thery/hanoi)

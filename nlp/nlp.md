@@ -357,3 +357,4 @@
 - [Investigating Pretrained Language Models for Graph-to-Text Generation (2020)](https://arxiv.org/abs/2007.08426) ([Code](https://github.com/UKPLab/plms-graph2text))
 - [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) ([GitHub](https://github.com/UKPLab))
 - [DedupliPy](https://github.com/fritshermans/deduplipy) - Python package for deduplication/entity resolution using active learning.
+- [Flexible Generation of Natural Language Deductions (2021)](https://arxiv.org/abs/2104.08825) ([Code](https://github.com/alephic/ParaPattern))

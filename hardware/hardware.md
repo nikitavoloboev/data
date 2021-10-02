@@ -233,3 +233,5 @@
 - [Crowd Supply](https://www.crowdsupply.com/) - Bring original, useful, respectful hardware to life.
 - [The Framework is the most exciting laptop I've ever used (2021)](https://pluralistic.net/2021/09/21/monica-byrne/#think-different) ([HN](https://news.ycombinator.com/item?id=28606962))
 - [The Analog Thing](https://the-analog-thing.org/) - Open source, educational, low-cost modern analog computer. ([HN](https://news.ycombinator.com/item?id=28614840))
+- [ChiselVerify](https://github.com/chiselverify/chiselverify) - Hardware Verification Library for Chisel.
+- [Digital Design with Chisel Book](https://github.com/schoeberl/chisel-book)
