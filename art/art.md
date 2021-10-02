@@ -37,6 +37,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Malik Thomas](http://malikthomas.co.uk/)
 - [Matt Mills](https://www.instagram.com/mattmillsart/)
 - [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
+- [Dmitry Markov](https://www.instagram.com/dcim.ru/)
 
 ## Interesting artists
 

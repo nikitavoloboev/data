@@ -71,3 +71,4 @@
 - [Reality Check for Cloudflare Wasm Workers and Rust (2021)](https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust) ([HN](https://news.ycombinator.com/item?id=28576295))
 - [Bringing OAuth 2.0 Flow to Wrangler (2021)](https://blog.cloudflare.com/wrangler-oauth/)
 - [Miniflare Example Project](https://github.com/mrbbot/miniflare-esbuild-ava) - Example project using Miniflare, esbuild and AVA.
+- [Cloudflare worker for embedding polls anywhere](https://github.com/vberlier/poll)

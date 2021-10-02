@@ -984,6 +984,7 @@
 - [atomic_refcell](https://github.com/bholley/atomic_refcell) - Threadsafe RefCell for Rust.
 - [freqfs](https://docs.rs/freqfs/) - In-memory filesystem cache for Rust. ([HN](https://news.ycombinator.com/item?id=28721815))
 - [stack-graphs](https://github.com/github/stack-graphs) - Rust implementation of stack graphs.
+- [debug-ignore](https://github.com/sunshowers/debug-ignore) - Newtype wrapper that causes Debug impls to skip a field.
 
 ## Cargo Plugins
 

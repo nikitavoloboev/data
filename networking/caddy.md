@@ -32,3 +32,4 @@
 - [caddy-exec](https://github.com/abiosoft/caddy-exec) - Caddy v2 module for running one-off commands.
 - [Easier alternative to Nginx + Lets Encrypt with Caddy Docker Proxy (2021)](https://matduggan.com/easier-alternative-to-nginx-lets-encrypt-with-caddy/)
 - [Caddy V2 with Matt Holt (Go Time) (2021)](https://changelog.com/gotime/193)
+- [caddy-json-parse](https://github.com/abiosoft/caddy-json-parse) - Caddy v2 module for parsing json request body.

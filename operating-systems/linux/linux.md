@@ -375,3 +375,5 @@
 - [Toybox](https://github.com/landley/toybox) - All-in-one Linux command line. ([HN](https://news.ycombinator.com/item?id=28627433))
 - [Linux Kernel Module Cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) - Perfect emulation setup to study and develop the Linux kernel.
 - [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/) ([HN](https://news.ycombinator.com/item?id=28596933))
+- [Stupid tricks with io_uring: a server that does zero syscalls per request (2021)](https://wjwh.eu/posts/2021-10-01-no-syscall-server-iouring.html)
+- [LXD](https://github.com/lxc/lxd) - Next generation system container and virtual machine manager. It offers a unified user experience around full Linux systems running inside containers or virtual machines. ([Web](https://linuxcontainers.org/lxd/))

@@ -25,3 +25,4 @@
 - [What if ESLint's configuration worked like elm-review? (2021)](https://jfmengels.net/configuring-eslint/) ([Lobsters](https://lobste.rs/s/of6l3w/what_if_eslint_s_configuration_worked))
 - [eslint-plugin-effector](https://github.com/igorkamyshev/eslint-plugin-effector) - Enforcing best practices for Effector.
 - [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - Provide a defineConfig function for .eslintrc.js files.
+- [eslint-plugin-testing-library](https://github.com/testing-library/eslint-plugin-testing-library) - ESLint plugin to follow best practices and anticipate common mistakes when writing tests with Testing Library.
