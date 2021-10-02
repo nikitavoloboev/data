@@ -8,3 +8,4 @@
 - [DJI](https://www.dji.com/) - Aerial and handheld cinematic solutions. Drones.
 - [DJI FPV Drone](https://www.dji.com/nl/dji-fpv) - New first person drone. ([Video](https://www.youtube.com/watch?v=LVoPGlNvHhw)) ([HN](https://news.ycombinator.com/item?id=26325090))
 - [Fusion Engineering](https://fusion.engineering/) - Flight controllers of the future. ([GitHub](https://github.com/fusion-engineering))
+- [Paparazzi UAS](https://github.com/paparazzi/paparazzi) - Free open source software package for Unmanned (Air) Vehicle Systems. ([Web](https://wiki.paparazziuav.org/wiki/Main_Page))

@@ -144,3 +144,4 @@
 - [cacheable-response](https://github.com/Kikobeats/cacheable-response) - HTTP compliant route path middleware for serving cache response with invalidation support.
 - [Most important HTTP request headers](https://wizardzines.com/comics/request-headers/)
 - [HTTP: Learn your browser's language](https://wizardzines.gumroad.com/l/http-zine/buy-one-give-one)
+- [httpcat](https://github.com/httpie/httpcat) - Simple utility for constructing raw HTTP requests on the command line.

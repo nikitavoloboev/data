@@ -141,3 +141,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Stablecoins, Stability, and Financial Inclusion (2021)](https://future.a16z.com/stablecoins-stability-and-financial-inclusion/) ([Tweet](https://twitter.com/katie_haun/status/1442557615318257683))
 - [Fell for phishing attack & lost my entire DeFi portfolio (2021)](https://twitter.com/Rebecca_Mqamelo/status/1443991647898021892)
 - [Coinbase Cloud](https://www.coinbase.com/cloud) - Infrastructure for companies to integrate into the cryptoeconomy, or build their own crypto apps. ([HN](https://news.ycombinator.com/item?id=28724734))
+- [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
