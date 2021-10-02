@@ -302,3 +302,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Solidity Shell](https://github.com/tintinweb/solidity-shell) - Interactive Solidity shell with lightweight session recording.
 - [ethcontract-rs](https://github.com/gnosis/ethcontract-rs) - Generate type-safe bindings for interacting with Ethereum contracts.
 - [Deth Node](https://github.com/dethcrypto/deth) - Ethereum Node focused on Developer Experience.
+- [Ethermint](https://github.com/tharsis/ethermint) - Scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK. ([Docs](https://evmos.dev/))
+- [Evmos](https://github.com/tharsis/evmos) - Scalable, high-throughput Proof-of-Stake blockchain that is fully compatible and interoperable with Ethereum.

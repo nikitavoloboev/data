@@ -39,3 +39,4 @@
 - [Google Cloud Deploy: Managed continuous delivery to GKE (2021)](https://cloud.google.com/blog/products/devops-sre/google-cloud-deploy-automates-deploys-to-gke)
 - [GCP ping](https://gcping.com/) - Measure your latency to GCP regions.
 - [Rowy](https://www.rowy.io/) - GCP as easy as ABC. ([Article](https://dev.to/harinilabs/gcp-as-easy-as-abc-a-low-code-platform-for-firestore-cloud-functions-deo))
+- [Listing of Rust crates for use with Google Cloud](https://github.com/paulgb/are-we-google-cloud-yet)

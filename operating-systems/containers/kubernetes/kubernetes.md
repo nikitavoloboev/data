@@ -444,3 +444,4 @@
 - [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering.
 - [Telepresence](https://github.com/telepresenceio/telepresence) - Fast, efficient local development for Kubernetes microservices. ([Web](https://www.telepresence.io/))
 - [Peirates](https://github.com/inguardians/peirates) - Kubernetes Penetration Testing tool. ([Web](https://www.inguardians.com/peirates/))
+- [Kangal](https://github.com/hellofresh/kangal) - Run performance tests in Kubernetes cluster with Kangal.

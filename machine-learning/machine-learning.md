@@ -555,3 +555,4 @@
 - [Ultimate FREE Machine Learning Study Plan](https://github.com/python-engineer/ml-study-plan)
 - [node2vec: Scalable Feature Learning for Networks](https://snap.stanford.edu/node2vec/) ([Code](https://github.com/aditya-grover/node2vec))
 - [Learning to Superoptimize Real-world Programs (2021)](https://arxiv.org/abs/2109.13498)
+- [Data Movement Is All You Need: A Case Study on Optimizing Transformers (2020)](https://arxiv.org/abs/2007.00072) ([Code](https://github.com/spcl/substation))

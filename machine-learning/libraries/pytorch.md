@@ -282,3 +282,4 @@
 - [pystiche](https://github.com/pystiche/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch.
 - [TorchData](https://github.com/pytorch/data) - PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
 - [Efficient Video Dataset Loading and Augmentation in PyTorch](https://github.com/RaivoKoot/Video-Dataset-Loading-Pytorch)
+- [Accelerate PyTorch models with ONNX Runtime](https://github.com/pytorch/ort)
