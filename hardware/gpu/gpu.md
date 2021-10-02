@@ -65,4 +65,4 @@
 - [RealTime 3D Strange Attractors scout on GPU](https://github.com/BrutPitt/glChAoS.P)
 - [NCCL](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication.
 - [How to train large models on many GPUs? (2021)](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html) ([HN](https://news.ycombinator.com/item?id=28657797))
-- [Gentle introduction to GPUs inner workings (2021)](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
+- [Gentle introduction to GPUs inner workings (2021)](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/) ([HN](https://news.ycombinator.com/item?id=28728138))

@@ -13,3 +13,4 @@
 - [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/) ([Code](https://github.com/jirilebl/ra))
 - [What is Real Analysis about, and why is it so important for financial mathematics? (2021)](https://www.reddit.com/r/learnmath/comments/mqc7n3/what_is_real_analysis_about_and_why_is_it_so/)
 - [Real Analysis books (2021)](https://www.reddit.com/r/learnmath/comments/nc7c1v/real_analysis_books_which_to_use/)
+- [Riesz Proves the Riesz Representation Theorem](http://nonagon.org/ExLibris/riesz-proves-riesz-representation-theorem)
