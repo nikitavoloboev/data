@@ -111,7 +111,7 @@
 - [Things I Learnt from a Senior Software Engineer (2019)](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html) ([HN](https://news.ycombinator.com/item?id=20794861))
 - [Writing system software: code comments](http://antirez.com/news/124)
 - [Ask HN: How do you handle logging? (2019)](https://news.ycombinator.com/item?id=20818106)
-- [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
+- [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) ([Code](https://github.com/google/eng-practices))
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) ([HN](https://news.ycombinator.com/item?id=20890682))
 - [Ask HN: What Have You Learned at Google as a Software Engineer? (2019)](https://news.ycombinator.com/item?id=20911340)
 - [Software Foundations series](https://softwarefoundations.cis.upenn.edu) - Broad introduction to the mathematical underpinnings of reliable software.
@@ -452,3 +452,4 @@
 - [Downsides of Offline First](https://rxdb.info/downsides-of-offline-first.html) ([HN](https://news.ycombinator.com/item?id=28717848))
 - [Data, objects, and how we're railroaded into poor design (2018)](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html) ([Lobsters](https://lobste.rs/s/78tq8r/data_objects_how_we_re_railroaded_into))
 - [Things Unlearned (2021)](https://scattered-thoughts.net/writing/things-unlearned/) ([HN](https://news.ycombinator.com/item?id=28708078))
+- [What is a Staff (or Staff-Plus or Principal) Engineer? (2021)](https://mikemcquaid.com/2021/10/01/what-is-a-staff-plus-principal-engineer/)

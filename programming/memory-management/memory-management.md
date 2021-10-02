@@ -51,3 +51,4 @@
 - [DUMA](https://github.com/johnsonjh/duma) - Detect Unintended Memory Access. Red-Zone memory allocator.
 - [regalloc2](https://github.com/bytecodealliance/regalloc2) - New register allocator.
 - [Formalization of properties of a simple imperative, memory-safe language](https://github.com/arthuraa/memory-safe-language)
+- [mtrace](https://github.com/aclements/mtrace) - Version of QEMU modified to log memory accesses and other system events to help analyze and understand the memory access patterns and cache line behavior of operating system-level code.

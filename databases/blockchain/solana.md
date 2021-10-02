@@ -88,3 +88,5 @@
 - [Minimal Solana BPF program template](https://github.com/mvines/solana-bpf-program-template)
 - [P2P Wallet | Solana](https://solana.com/ecosystem/p2p)
 - [Learning How to Build on Solana (2021)](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
+- [Merkle Distributor](https://github.com/saber-hq/merkle-distributor) - Smart contract that distributes a balance of tokens according to a Merkle root.
+- [Saber](https://saber.so/) - Stable swapping between stablecoins and other identical assets. ([GitHub](https://github.com/saber-hq))

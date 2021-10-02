@@ -115,3 +115,4 @@
 - [Writing Well-Documented Code - Learn from Examples (2021)](https://codecatalog.org/2021/09/04/well-documented-code.html) ([HN](https://news.ycombinator.com/item?id=28416269))
 - [Writing class documentation (2021)](https://rant.gulbrandsen.priv.no/udoc/writing-class-documetation)
 - [When does your team write release notes? (2021)](https://twitter.com/housecor/status/1442457214627631104)
+- [Writing Engineering Guidelines](https://dgryski.medium.com/writing-engineering-guidelines-24fdda53a3f0)
