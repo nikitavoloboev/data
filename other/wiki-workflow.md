@@ -396,3 +396,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Taio](https://taio.app/) - Markdown editor and text actions for iPhone, iPad, and Mac. ([Twitter](https://twitter.com/TaioApp))
 - [digital-garden.dev](https://digital-garden.dev/) - Next.js powered digital garden starter. ([Code](https://github.com/inadeqtfuturs/garden))
 - [JINGO](https://github.com/claudioc/jingo) - Git based wiki engine written for node.js, with a decent design, a search capability and a good typography.
+- [Wiki.js](https://js.wiki/) - Modern, lightweight and powerful wiki app built on NodeJS. ([Code](https://github.com/Requarks/wiki))
+- [Gollum](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. ([HN](https://news.ycombinator.com/item?id=28730764))

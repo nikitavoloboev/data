@@ -23,3 +23,4 @@
 - [Books to help cope with cancer (2021)](https://www.reddit.com/r/suggestmeabook/comments/oz4pbl/im_25_years_old_and_my_mother_is_quickly_and/)
 - [Use of artificial intelligence for image analysis in breast cancer screening (2021)](https://www.bmj.com/content/374/bmj.n1872) ([HN](https://news.ycombinator.com/item?id=28394834))
 - [Norm MacDonald talks about cancer and not wanting to garner sympathy from others (2021)](https://www.youtube.com/watch?v=vAp-igcRhMQ)
+- [The curious DNA circles that make treating cancer so hard (2021)](https://cen.acs.org/pharmaceuticals/oncology/curious-DNA-circles-make-treating/98/i40) ([HN](https://news.ycombinator.com/item?id=28731260))

@@ -246,3 +246,4 @@
 - [Explainable neural networks that simulate reasoning (2021)](https://www.nature.com/articles/s43588-021-00132-w)
 - [Evolving Neural Networks through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf) ([Code](https://github.com/suhdonghwi/neat))
 - [Minimal, clean example of lstm neural network training in python, for learning purposes](https://github.com/nicodjimenez/lstm)
+- [What nice mathematical results there are about neural networks? (2021)](https://www.reddit.com/r/MachineLearning/comments/q072ov/d_what_nice_mathematical_results_there_are_about/)

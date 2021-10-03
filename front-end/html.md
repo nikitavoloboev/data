@@ -142,3 +142,4 @@
 - [7GUIs in Vanilla HTML, CSS, JavaScript](https://7guis.bradwoods.io/) ([HN](https://news.ycombinator.com/item?id=28600804))
 - [ct.css](https://github.com/csswizardry/ct) - Diagnostic CSS snippet that exposes potential performance issues in your page’s <head> tags. ([Web](https://csswizardry.com/ct/))
 - [Get Your Head Straight Talk](https://speakerdeck.com/csswizardry/get-your-head-straight)
+- [html-to-image](https://github.com/bubkoo/html-to-image) - Generates an image from a DOM node using HTML5 canvas and SVG.

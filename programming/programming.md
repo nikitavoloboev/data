@@ -216,7 +216,7 @@
 - [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/) ([HN](https://news.ycombinator.com/item?id=23630640))
 - [Programming Questions Quiz](https://questions.wizardzines.com/)
 - [Ways to explain code when told it doesn't make sense](https://softwareengineering.stackexchange.com/questions/411585/ways-to-explain-code-when-told-it-doesnt-make-sense)
-- [The Coding Career Handbook](https://www.learninpublic.org/) ([HN](https://news.ycombinator.com/item?id=23700486))
+- [The Coding Career Handbook](https://www.learninpublic.org/) ([HN](https://news.ycombinator.com/item?id=23700486)) ([Code](https://github.com/sw-yx/codingcareer.com))
 - [Awesome Katas](https://github.com/gamontal/awesome-katas) - Curated list of code katas.
 - [Beginner’s Guide To Abstraction (2020)](https://jesseduffield.com/beginners-guide-to-abstraction/) ([HN](https://news.ycombinator.com/item?id=23735991))
 - [Code Only Says What it Does (2020)](http://brooker.co.za/blog/2020/06/23/code.html) ([HN](https://news.ycombinator.com/item?id=23749676))

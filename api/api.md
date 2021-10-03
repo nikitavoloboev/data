@@ -33,6 +33,7 @@
 - [Twitter Lite JS](https://github.com/draftbit/twitter-lite) - Tiny, full-featured, flexible client / server library for the Twitter API.
 - [Twitter Go](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Twitter Go 2](https://github.com/bloveless/tweetgo)
+- [Twitter Haskell](https://github.com/himura/twitter-conduit)
 - [Twitter API proxy server using gRPC](https://github.com/Pantonshire/goldcrest)
 - [Twitter profile dumper (downloader) with authorization swapping](https://github.com/snovvcrash/tweetlord)
 - [Twitter Post Fetcher](https://github.com/jasonmayes/Twitter-Post-Fetcher) - Fetch your twitter posts without using the new Twitter.

@@ -158,6 +158,8 @@
 - [construct-js](https://github.com/francisrstokes/construct-js) - Library for creating byte level data structures.
 - [yieldparser](https://github.com/RoyalIcing/yieldparser) - Parse using JavaScript generator functions — it’s like components for parsing.
 - [tsafe](https://github.com/garronej/tsafe) - Missing TypeScript builtins.
+- [better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library.
+- [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 
 ## Links
 

@@ -408,3 +408,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Literature Map](https://www.literature-map.com/) - The Tourist Map of Literature.
 - [Ruby for ebook publishing (2021)](https://nts.strzibny.name/ruby-for-ebook-publishing/)
 - [Summarizing Books with Human Feedback](https://openai.com/blog/summarizing-books/) ([HN](https://news.ycombinator.com/item?id=28643335))
+- [73 Beautiful Books from the MIT Press Essential Knowledge Series](https://abakcus.com/seventy-three-beautiful-books-from-the-mit-press-essential-knowledge-series/)
