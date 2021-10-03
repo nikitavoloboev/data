@@ -63,7 +63,7 @@
 - [Waxeye Parser Generator](https://github.com/waxeye-org/waxeye) - Parser generator based on parsing expression grammars (PEGs).
 - [rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust.
 - [Rust - Writing Parsers With nom Parser Combinator Framework (2021)](https://iximiuz.com/en/posts/rust-writing-parsers-with-nom/)
-- [GrammKit](https://github.com/dundalek/GrammKit) - Tool for generating syntax diagrams (also known as railroad diagrams) for parser grammars.
+- [GrammKit](https://dundalek.com/grammkit/) - Tool for generating syntax diagrams (also known as railroad diagrams) for parser grammars. ([Code](https://github.com/dundalek/GrammKit))
 - [PyParsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers.
 - [On Parsers](https://wiki.alopex.li/OnParsers) ([Lobsters](https://lobste.rs/s/7it43u/on_parsers))
 - [Casual Parsing in JavaScript (2021)](https://www.brandons.me/blog/casual-parsing-javascript)

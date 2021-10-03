@@ -6,6 +6,7 @@
 - [Decentralization is a quantifiable measurable thing. It’s: 1. Cost to censor. 2. Cost to destroy all replicas. Any chain that charges users above 4x the hardware costs to provide decentralization will get passed by a cheaper and faster and more decentralized network.](https://twitter.com/aeyakovenko/status/1441904519877566466)
 - [Decentralized technical systems do not necessarily produce decentralized political power.](https://twitter.com/keikreutler/status/1442438737678544896)
 - [The economic reward function is very important. As long as there are uncapped returns, centralization is inevitable.](https://twitter.com/BlackForestBoi/status/1442444302408470530)
+- [Web1: content distributed to users. Web2: content produced by users and distributed to users. Web3: content produced by users and distributed to users on user controlled platforms.](https://twitter.com/ArthurB/status/1444620432280330241)
 
 ## Links
 

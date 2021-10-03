@@ -39,3 +39,4 @@
 - [WinFsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy. ([Web](http://www.secfs.net/winfsp/)) ([HN](https://news.ycombinator.com/item?id=28264408))
 - [Novus](https://github.com/novus-package-manager/novus) - Fast and efficient package manager for Windows. ([Web](https://www.novuspkg.com/))
 - [Windows 11: Just say no (2021)](https://www.computerworld.com/article/3633630/windows-11-just-say-no.html) ([HN](https://news.ycombinator.com/item?id=28554979))
+- [Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) - Scripts & programs I use to optimize and debloat my new Windows 10 installations.

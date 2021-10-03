@@ -250,3 +250,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Node Mono Library Template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions.
 - [Auto NPX](https://github.com/antfu/vscode-auto-npx) - Auto resolving local Node.js binaries in VS Code terminal.
 - [Ask HN: Why is Node.js hated so much? (2021)](https://news.ycombinator.com/item?id=28728591)
+- [parcel/watcher](https://github.com/parcel-bundler/watcher) - Native C++ Node module for querying and subscribing to filesystem events.

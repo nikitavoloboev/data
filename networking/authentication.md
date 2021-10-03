@@ -154,3 +154,4 @@
 - [NetAuth](https://github.com/netauth/netauth) - Easy to deploy, easy to use authentication and identity provider. ([Web](https://www.netauth.org/))
 - [OAuth2AuthCodePKCE client](https://github.com/BitySA/oauth2-auth-code-pkce) - OAuth 2.0 client that ONLY supports the Authorization Code flow with PKCE support.
 - [localfirst/auth](https://github.com/local-first-web/auth) - Provides decentralized authentication and authorization for team collaboration, using a secure chain of cryptographic signatures.
+- [Guide to Web Authentication](https://webauthn.guide/) ([Tweet](https://twitter.com/alexellisuk/status/1444614757407936512))

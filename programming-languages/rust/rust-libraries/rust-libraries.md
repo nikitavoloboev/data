@@ -247,6 +247,7 @@
 - [Curv](https://github.com/ZenGo-X/curv) - Rust language general purpose elliptic curve cryptography.
 - [serde-encrypt](https://github.com/laysakura/serde-encrypt) - Encrypts all the Serialize.
 - [PLONK](https://github.com/dusk-network/plonk) - Pure Rust implementation of the PLONK proving system over BLS12-381.
+- [Tofn](https://github.com/axelarnetwork/tofn) - Threshold cryptography library in Rust.
 
 ## Linux
 
@@ -278,6 +279,7 @@
 
 ## Macros
 
+- [Readonly](https://github.com/dtolnay/readonly) - Struct fields that are made read-only accessible to other modules.
 - [cfg-if](https://github.com/alexcrichton/cfg-if) - If/elif-like macro for Rust #[cfg] statements.
 - [Rust Embed](https://github.com/pyros2097/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [Builder Pattern Derive](https://github.com/colin-kiegel/rust-derive-builder) - Rust macro to automatically implement the builder pattern for arbitrary structs.

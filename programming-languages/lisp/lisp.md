@@ -141,3 +141,4 @@
 - [How can I start learning Lisp and which dialect/compiler should I use? (2021)](https://www.reddit.com/r/lisp/comments/pflp6q/how_can_i_start_learning_lisp_and_which/)
 - [microlisp](https://github.com/lazear/microlisp) - Set of minimal LISP implementations.
 - [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs. ([HN](https://news.ycombinator.com/item?id=28616475))
+- [Liz](https://github.com/dundalek/liz) - Lisp-flavored general-purpose programming language (based on Zig).

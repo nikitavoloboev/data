@@ -339,6 +339,7 @@
 - [Stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
 - [AlertKit](https://github.com/rebeloper/AlertKit) - SwiftUI alerts (and action sheets) done right.
 - [ViewCondition](https://github.com/tokijh/ViewCondition) - Super sweet syntactic sugar for SwiftUI.View initializers.
+- [SwiftUI Layout Guides](https://github.com/tgrapperon/swiftui-layout-guides) - Micro-library exposes UIKit's layout margins and readable content guides to SwiftUI.
 
 ## Test
 

@@ -104,6 +104,7 @@
 - [Mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata.
 - [Sonic Visualiser](https://sonicvisualiser.org/) - Visualization, analysis, and annotation of music audio recordings. ([Code](https://github.com/sonic-visualiser/sonic-visualiser))
 - [Sound GLSL](https://github.com/soundshader/soundshader.github.io)
+- [SongKit](https://songkit.app/) - AI-powered songbook app for your iPhone and iPad, letting you organize, view, and edit your songs sheets on any of your devices.
 
 ## Inspiration
 

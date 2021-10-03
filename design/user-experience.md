@@ -120,3 +120,4 @@
 - [How to build a compelling consumer app in 2021](https://twitter.com/gregisenberg/status/1443194415208665092)
 - [Post-Linear design (2021)](https://twitter.com/brian_lovin/status/1443660899181465623)
 - [Always take user's perspective/experience](https://twitter.com/arvidkahl/status/1442940646549905415)
+- [Pagination or infinite scrolling?](https://twitter.com/DanHollick/status/1443625461091737612)

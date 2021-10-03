@@ -46,6 +46,7 @@
 
 - [My goto hosting stack for the hyperbeast stack when I'm on a budget: 1. Stick everything inside a single VPS. 2. Use Dokku to: Config Nginx for me. Manage docker containers. Run cron job to backup the db.](https://twitter.com/benawad/status/1366423507555536896)
 - [The PaaS (e.g. Heroku) vs. IaaS (e.g. AWS) debate needs to be revisited. For most teams, the most surefire way to blow deadlines and run over budget is to go it alone on AWS instead of sticking with a batteries-included PaaS that lets you forget about infra and focus on the app.](https://twitter.com/searls/status/1379461145799618564)
+- [Hetzner has nice cheap servers](https://twitter.com/shipilev/status/1444618666826424322)
 
 ## Links
 
@@ -84,3 +85,4 @@
 - [When AWS, Azure, or GCP Becomes the Competition (2019)](https://www.gkogan.co/blog/big-cloud/) ([HN](https://news.ycombinator.com/item?id=28351951))
 - [cloud-init](https://github.com/canonical/cloud-init) - Industry standard multi-distribution method for cross-platform cloud instance initialization. ([Web](https://cloud-init.io/))
 - [Cloudflare’s Disruption (2021)](https://stratechery.com/2021/cloudflares-disruption/) ([HN](https://news.ycombinator.com/item?id=28707317))
+- [Cost-effective way to publish many GBs of data on internet with HTTPS access (2021)](https://twitter.com/shipilev/status/1444292088254943234)
