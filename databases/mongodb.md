@@ -17,3 +17,4 @@
 - [Sift](https://github.com/crcn/sift.js) - Use MongoDB queries in JavaScript.
 - [Mongood](https://github.com/renzholy/mongood) - MongoDB GUI with Fluent Design.
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
+- [pino-mongodb](https://github.com/pinojs/pino-mongodb) - Insert JSON from stdin into MongoDB.
