@@ -20,3 +20,4 @@
 - [react-i18n-mini](https://github.com/SanichKotikov/react-i18n-mini) - Tiny internationalization library for React.
 - [What they don’t tell you when you translate your app (2021)](https://ericwbailey.design/writing/what-they-dont-tell-you-when-you-translate-your-app/) ([HN](https://news.ycombinator.com/item?id=28468853))
 - [I18n in Go: Managing Translations (2021)](https://www.alexedwards.net/blog/i18n-managing-translations)
+- [i18n-tools](https://github.com/jy95/i18n-tools) - CLI to make common operations around i18n files simpler.

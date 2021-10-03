@@ -19,6 +19,7 @@
 - [VictoriaMetrics operator](https://github.com/VictoriaMetrics/operator) - Kubernetes operator for Victoria Metrics.
 - [rakkess](https://github.com/corneliusweig/rakkess) - Kubectl plugin to show an access matrix for server resources.
 - [SOPS: Secrets OPerationS](https://github.com/isindir/sops-secrets-operator) - Operator which manages Kubernetes Secret Resources created from user defined SopsSecrets CRs.
+- [KubePug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker).
 
 ## Links
 

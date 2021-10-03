@@ -770,6 +770,7 @@
 - [TableKit](https://github.com/maxsokolov/TableKit) - Type-safe declarative table views.
 - [MultipartKit](https://github.com/vapor/multipart-kit) - Parses and serializes multipart-encoded data with Codable support.
 - [MatchingEngine](https://github.com/apple/swift-experimental-string-processing) - Early experimental general-purpose pattern matching engine for Swift.
+- [SyncKit](https://github.com/mentrena/SyncKit) - Automates the process of synchronizing Core Data or Realm models using CloudKit.
 
 ## Other (not lib)
 

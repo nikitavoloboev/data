@@ -973,6 +973,7 @@
 - [Unusual Generics](https://github.com/xakep666/unusual_generics) - Collection of unusual generics usecases in Go.
 - [Mustache](https://github.com/cbroglie/mustache) - Mustache template language in Go.
 - [go-obj](https://github.com/aclements/go-obj) - Object file abstractions in Go.
+- [storage](https://github.com/containers/storage) - Go library which aims to provide methods for storing filesystem layers, container images, and containers.
 
 ## Links
 

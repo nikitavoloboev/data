@@ -31,3 +31,4 @@
 - [Contextful exceptions with Forth metaprogramming (2021)](https://niedzejkob.p4.team/bootstrap/exception-context/)
 - [How Forth implements exceptions (2021)](https://niedzejkob.p4.team/bootstrap/throw-catch/)
 - [Porth](https://github.com/tsoding/porth) - Like Forth but in Python.
+- [Differentiable Forth Interpreter](https://github.com/uclnlp/d4)

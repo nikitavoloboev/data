@@ -122,3 +122,4 @@
 - [How to use a serverless function as image/caching proxy (2021)](https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/)
 - [Microlink Cards](https://cards.microlink.io/editor) - Easiest way to create and share dynamic images at scale. ([Code](https://github.com/microlinkhq/cards))
 - [Why Your Website Should Use Dithered Images (2020)](https://endtimes.dev/why-you-should-dither-images/) ([Lobsters](https://lobste.rs/s/cxxfyx/why_your_website_should_use_dithered))
+- [BackgroundRemover.app](https://backgroundremover.app/) - Command line tool to remove background from video and image. ([Code](https://github.com/nadermx/backgroundremover))

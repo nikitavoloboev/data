@@ -258,3 +258,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [MIT CSAIL Parallel and Distributed Operating Systems Group](https://pdos.csail.mit.edu/) ([GitHub](https://github.com/mit-pdos))
 - [NOVA Microhypervisor](http://hypervisor.org/) - Microhypervisor combines microkernel and hypervisor functionality and provides an extremely small trusted computing base for user applications and virtual machines running on top of it. ([Code](https://github.com/udosteinberg/NOVA))
 - [We need to reinvent our OSes (2021)](https://twitter.com/_adamwiggins_/status/1443855384859582464)
+- ["Static Linking Considered Harmful" Considered Harmful](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/) ([Lobsters](https://lobste.rs/s/gzna8a/static_linking_considered_harmful)) ([HN](https://news.ycombinator.com/item?id=28736238))

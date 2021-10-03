@@ -236,3 +236,4 @@
 - [7 ways to pass a closure as an argument in Swift (2021)](https://sarunw.com/posts/different-ways-to-pass-closure-as-argument/)
 - [The Actor Reentrancy Problem in Swift (2021)](https://swiftsenpai.com/swift/actor-reentrancy-problem/)
 - [Swift delight: value semantics collections (2021)](https://twitter.com/UINT_MIN/status/1444060664603955200)
+- [What’s new in Swift 5.5?](https://github.com/twostraws/whats-new-in-swift-5-5) - Xcode playground that demonstrates the new features introduced in Swift 5.5.

@@ -67,3 +67,4 @@
 - [Open Speech Corpora](https://github.com/coqui-ai/open-speech-corpora) - List of accessible speech corpora for ASR, TTS, and other Speech Technologies.
 - [An Overview of Multi-Task Learning in Speech Recognition (2020)](http://jrmeyer.github.io/asr/2020/03/21/overview-mtl-in-asr.html)
 - [Coqui Inference Engine](https://github.com/coqui-ai/inference-engine) - Library for efficiently deploying speech models.
+- [PDF to Speech](https://github.com/CypherousSkies/pdf-to-speech) - Deep-learning powered accessibility application which turns PDFs into audio files.
