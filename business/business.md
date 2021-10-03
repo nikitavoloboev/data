@@ -109,3 +109,4 @@ Learning to build [startups](startups/startups.md).
 - [2013 Elon email to employees on why he wants to keep SpaceX private](https://twitter.com/TrungTPhan/status/1433992813444669445)
 - [As More Workers Go Solo, the Software Stack Is the New Firm (2021)](https://future.a16z.com/solo-workers-software-stack/)
 - [α-Indirect Control in Onion-like Networks (2021)](https://arxiv.org/abs/2109.07181v2) - Algorithm that detects the ultimate controlling owners of companies. ([Article](https://www.skoltech.ru/en/2021/09/new-tool-reveals-ultimate-owners-of-companies/)) ([HN](https://news.ycombinator.com/item?id=28688906))
+- [The secret to Cloudflare’s pace of Innovation (2021)](https://blog.cloudflare.com/the-secret-to-cloudflare-pace-of-innovation/)

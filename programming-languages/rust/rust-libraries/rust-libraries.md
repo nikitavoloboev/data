@@ -987,6 +987,7 @@
 - [freqfs](https://docs.rs/freqfs/) - In-memory filesystem cache for Rust. ([HN](https://news.ycombinator.com/item?id=28721815))
 - [stack-graphs](https://github.com/github/stack-graphs) - Rust implementation of stack graphs.
 - [debug-ignore](https://github.com/sunshowers/debug-ignore) - Newtype wrapper that causes Debug impls to skip a field.
+- [subprocess](https://github.com/hniksic/rust-subprocess) - Execution of and interaction with external processes and pipelines.
 
 ## Cargo Plugins
 

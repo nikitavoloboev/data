@@ -92,3 +92,4 @@
 - [Reopt](https://github.com/GaloisInc/reopt) - Tool for analyzing x86-64 binaries.
 - [Awesome Binary Rewriting](https://github.com/SystemSecurityStorm/Awesome-Binary-Rewriting)
 - [radius](https://github.com/aemmitt-ns/radius) - Fast binary emulation and symbolic execution framework using radare2.
+- [binocle](https://github.com/sharkdp/binocle) - Graphical tool to visualize binary data.

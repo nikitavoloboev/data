@@ -128,3 +128,4 @@
 - [React Native Universal Monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo)
 - [Notifee Notifications](https://github.com/invertase/notifee) - Feature rich notifications library for React Native.
 - [React Native: Beyond Basics](https://kadikraman.github.io/react-native-beyond-basics/) - Intermediate React Native course by Kadi Kraman. ([Code](https://github.com/kadikraman/react-native-beyond-basics))
+- [Running React Native everywhere (2021)](https://mmazzarolo.com/blog/2021-09-11-running-react-native-everywhere/)

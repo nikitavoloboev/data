@@ -488,6 +488,7 @@
 - [Numcodecs](https://github.com/zarr-developers/numcodecs) - Python package providing buffer compression and transformation codecs for use in data storage and communication applications.
 - [simplejson](https://github.com/simplejson/simplejson) - Simple, fast, extensible JSON encoder/decoder for Python.
 - [Lightbus](https://github.com/adamcharnock/lightbus) - RPC & event framework for Python 3. ([Docs](https://lightbus.org/latest/))
+- [python-utils](https://github.com/kylemcdonald/python-utils) - Disorganized collection of useful functions for working with audio and images, especially in the context of machine learning.
 
 ## Links
 

@@ -306,3 +306,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Evmos](https://github.com/tharsis/evmos) - Scalable, high-throughput Proof-of-Stake blockchain that is fully compatible and interoperable with Ethereum.
 - [CFWeb3](https://github.com/cloudflare/cfweb3) - Web3 demo application. It uses Hardhat and Solidity to create an Ethereum smart contract. This code is a proof-of-concept showing how to build Web3 applications with Cloudflare.
 - [ultrasound.money](https://ultrasound.money/) - Tracking Ethereum. ([Twitter](https://twitter.com/ultrasoundmoney))
+- [EVM Toolkit (etk)](https://github.com/quilt/etk) - Collection of tools for writing, reading, and analyzing EVM bytecode.

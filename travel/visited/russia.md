@@ -263,3 +263,6 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Официальный интернет-портал правовой информации](http://pravo.gov.ru/)
 - [Pavel Durov and VK. A story of ups and downs (2021)](https://www.youtube.com/watch?v=xnMxk8cncEY)
 - [Марков – как живет русская провинция / вДудь (2020)](https://www.youtube.com/watch?v=QDHYQ9Nd-GU)
+- [Pandora papers reveal hidden riches of Putin’s inner circle (2021)](https://www.theguardian.com/news/2021/oct/03/pandora-papers-reveal-hidden-wealth-vladimir-putin-inner-circle)
+- [Все тайны оффшорного мира](https://istories.media/pandora/)
+- [Окружение президента (2021)](https://istories.media/dossier/2021/10/03/okruzhenie-prezidenta/)

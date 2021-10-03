@@ -216,3 +216,4 @@
 - [Errors found in distributed protocols](https://github.com/dranov/protocol-bugs-list)
 - [Python for Distributed Systems (2021)](https://www.babbling.fish/elt-cookbook-python/)
 - [FastPay](https://github.com/novifinancial/fastpay) - High-Performance Byzantine Fault Tolerant Settlement.
+- [Distributed consensus made simple (for real this time!) (2021)](https://decentralizedthoughts.github.io/2021-09-30-distributed-consensus-made-simple-for-real-this-time/)

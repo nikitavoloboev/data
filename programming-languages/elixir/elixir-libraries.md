@@ -81,6 +81,7 @@
 - [Para](https://github.com/syamilmj/para) - Declarative way to parse and validate parameters.
 - [Norm](https://github.com/keathley/norm) - Data specification and generation.
 - [Algae](https://github.com/witchcrafters/algae) - Bootstrapped algebraic data types for Elixir.
+- [VegaLite](https://github.com/livebook-dev/vega_lite) - Elixir bindings for Vega-Lite.
 
 ## Links
 

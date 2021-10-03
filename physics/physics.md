@@ -246,3 +246,4 @@
 - [UC Berkeley: PHYS 10 - Physics for Future Presidents (2017)](https://www.youtube.com/playlist?list=PLaLOVNqqD-2Ep5N9os9jWMSkxK_TLki9h)
 - [New to Physics resources (2021)](https://www.reddit.com/r/Physics/comments/pv2i02/new_to_physics/)
 - [What a solid made of electrons looks like (2021)](https://www.nature.com/articles/d41586-021-02657-6) ([HN](https://news.ycombinator.com/item?id=28720506))
+- [What hidden symmetry is controlling the Universe? (2021)](https://overcast.fm/+Oq0arDngg)
