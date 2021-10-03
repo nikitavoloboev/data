@@ -43,3 +43,4 @@
 - [Machine Learning Hyperparameter Optimization with Argo (2021)](https://canvatechblog.com/machine-learning-hyperparameter-optimization-with-argo-a60d70b1fc8c)
 - [Snakepit](https://github.com/coqui-ai/snakepit) - Coqui's machine learning job scheduler.
 - [MLServer](https://github.com/SeldonIO/MLServer) - Inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more. ([Docs](https://mlserver.readthedocs.io/en/latest/))
+- [SpotML](https://www.spotml.io/) - Managed ML Training on Cheap AWS/GCP Spot Instances. ([HN](https://news.ycombinator.com/item?id=28738141))

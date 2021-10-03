@@ -89,3 +89,4 @@
 - [Lock-Free Data Structures (2007)](http://erdani.org/publications/cuj-2004-10.pdf)
 - [Monoids and Finger Trees](https://apfelmus.nfshost.com/articles/monoid-fingertree.html)
 - [Implicit Heaps](https://apfelmus.nfshost.com/articles/implicit-heaps.html)
+- [Word-Aligned Bloom Filters (2021)](https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/) ([HN](https://news.ycombinator.com/item?id=28737910))

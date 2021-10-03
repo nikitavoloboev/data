@@ -156,7 +156,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Ignoring mass reformatting commits with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
 - [cgit](https://git.zx2c4.com/cgit/about/) - Hyperfast web frontend for git repositories written in C.
 - [Fork and Pull Request Workflow](https://github.com/susam/gitpr)
-- [Git Internals - Learn by Building Your Own Git](https://www.leshenko.net/p/ugit/)
+- [Ugit - DIY Git in Python](https://www.leshenko.net/p/ugit/) ([HN](https://news.ycombinator.com/item?id=28735425))
 - [Stacked pull requests: Make code reviews faster, easier, and more effective](https://www.michaelagreiler.com/stacked-pull-requests/)
 - [Create a global gitignore (2020)](https://mike.place/2020/global-gitignore/)
 - [Fortunately, I don't squash my commits (2020)](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/) ([HN](https://news.ycombinator.com/item?id=24686527)) ([Reddit](https://www.reddit.com/r/coding/comments/j5l9wb/fortunately_i_dont_squash_my_commits/))
