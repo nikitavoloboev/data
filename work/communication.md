@@ -136,3 +136,4 @@
 - [How to improve your debate and argument skills in an engineering context (2021)](https://twitter.com/NovallSwift/status/1421256019577999360)
 - [NimForum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim. ([HN](https://news.ycombinator.com/item?id=28329672))
 - [On bad advice](https://scattered-thoughts.net/writing/on-bad-advice/)
+- [Beyond small talk: Study finds people enjoy deep conversations with strangers (2021)](https://phys.org/news/2021-09-small-people-deep-conversations-strangers.html) ([HN](https://news.ycombinator.com/item?id=28723445))

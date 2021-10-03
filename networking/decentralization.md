@@ -87,3 +87,4 @@
 - [Web3 – A Vision for a Decentralized Web (2021)](https://blog.cloudflare.com/what-is-web3/) ([HN](https://news.ycombinator.com/item?id=28717910)) ([Tweet](https://twitter.com/signalnerve/status/1443932304586412038))
 - [Cloudflare Distributed Web Gateways: Unlocking the Web3 Metaverse (2021)](https://blog.cloudflare.com/announcing-web3-gateways/) ([HN](https://news.ycombinator.com/item?id=28717926))
 - [DeveloperDAO Knowledge Base](https://github.com/Developer-DAO/resources) - Help you learn and grow in your Web3 journey.
+- [How open lost to closed in Web 2 — and how Web 3 can bring open back (2021)](https://twitter.com/cdixon/status/1444422178192068611)

@@ -16,6 +16,7 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 
 - [Great comment on staying healthy](https://www.reddit.com/r/longevity/comments/7hwgo7/for_people_in_their_young_or_middle_ages_now_who/).
 - [Health and longevity in 3 bullets: 1. Sleep >8h. 2. HIIT + strength training. 3. Intermittent fasting + no glucose spikes.](https://twitter.com/m_franceschetti/status/1396540139195834374)
+- [Get a CO2 meter & improve air quality. It's important.](https://twitter.com/iamtrask/status/1443181527815364616)
 
 ## Links
 

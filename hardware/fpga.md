@@ -61,3 +61,4 @@
 - [FPGA Hell (2017)](https://zipcpu.com/blog/2017/05/19/fpga-hell.html)
 - [Reticle: A Virtual Machine for Programming Modern FPGAs (2021)](https://www.cs.cornell.edu/~asampson/media/papers/reticle-pldi2021.pdf) ([Tweet](https://twitter.com/lukego/status/1393495710671282177))
 - [iCEBreaker FPGA](https://github.com/icebreaker-fpga/icebreaker) - Low cost, open-source educational FPGA development board.
+- [RapidWright](https://github.com/Xilinx/RapidWright) - Build Customized FPGA Implementations for Vivado. ([Web](http://www.rapidwright.io/))

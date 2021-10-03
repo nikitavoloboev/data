@@ -50,3 +50,4 @@
 - [ocicrypt-rs](https://github.com/containers/ocicrypt-rs) - Rust version of the containers/ocicrypt library.
 - [F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption (Extended Version) (2021)](https://arxiv.org/abs/2109.05371) ([Tweet](https://twitter.com/vj_chidambaram/status/1439222843665956870)) ([Tweet](https://twitter.com/Theophite/status/1438738713018699778))
 - [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) - Fastest JS implementation of secp256k1. Independently audited, high-security, 0-dependency ECDSA & Schnorr signatures.
+- [Double-Odd Elliptic Curves](https://doubleodd.group/front.html)

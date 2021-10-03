@@ -131,3 +131,4 @@
 - [Fine Grained Dataflow Tracking with Proximal Gradients (2021)](https://arxiv.org/abs/1909.03461) ([Code](https://github.com/gryan11/PGA))
 - [mcl](https://github.com/herumi/mcl) - Portable and fast pairing-based cryptography library.
 - [ecgen](https://github.com/J08nY/ecgen) - Tool for generating Elliptic curve domain parameters.
+- [Conditionally-Perfect Secrecy and a Provably-Secure Randomized Cipher (1992)](https://crypto.ethz.ch/publications/files/Maurer92b.pdf)
