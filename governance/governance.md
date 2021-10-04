@@ -75,3 +75,4 @@
 - [Big Tech turned into accomplices of authoritarian regimes (2021)](https://twitter.com/navalny/status/1441065558267633666)
 - [Voting example based on MoonZoon and Solana](https://github.com/MartinKavik/voting-solana-moonzoon)
 - [Canada's nice green urban project (2021)](https://twitter.com/IDoTheThinking/status/1443636143707222019)
+- [Moov Watchman](https://oss.moov.io/watchman/) - Service which downloads, parses and indexes numerous trade, government and non-profit lists of blocked individuals and entities to comply with those regions laws. ([Code](https://github.com/moov-io/watchman))

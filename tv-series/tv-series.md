@@ -33,3 +33,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Show recs (2021)](https://twitter.com/harryhurst/status/1442078837861404674)
 - [Тред с сериалами](https://twitter.com/La72La/status/1245298372799614977)
 - [Посоветуйте сериал](https://twitter.com/ritafloresss/status/1444009985525092400)
+- [Dim](https://github.com/Dusk-Labs/dim) - Self hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.

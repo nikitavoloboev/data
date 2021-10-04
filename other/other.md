@@ -528,3 +528,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Monadium.org](https://monadium.org/) - Help programmers achieve their career goals throughout their entire careers.
 - [The World’s Greatest Freediver](https://www.gq.com/story/freediver-alexey-molchanov-profile) ([HN](https://news.ycombinator.com/item?id=28652367))
 - [The Value of In-House Expertise](https://danluu.com/in-house/) ([HN](https://news.ycombinator.com/item?id=28691676)) ([Lobsters](https://lobste.rs/s/t35wtl/value_house_expertise))
+- [CivBoot: a civilizational bootstrapper](https://github.com/civboot/civboot) ([Tweet](https://merveilles.town/web/statuses/107038809041856242))

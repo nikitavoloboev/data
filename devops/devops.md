@@ -92,3 +92,4 @@
 - [Top-10 talks of SREcon18 Europe (2018)](https://nick.groenen.me/posts/srecon18emea-top10/)
 - [The DevOps: A Concise Understanding to the DevOps Philosophy and Science. (Technical Report) (2021)](https://www.osti.gov/biblio/1785164)
 - [Cachito](https://github.com/release-engineering/cachito) - Caching service for source code and external dependencies.
+- [envsafe](https://github.com/KATT/envsafe) - Makes sure you don't accidentally deploy apps with missing or invalid environment variables.

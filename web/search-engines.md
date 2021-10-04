@@ -158,3 +158,4 @@
 - [site-search](https://github.com/Janpot/site-search) - Lightweight self-hosted alternative to DocSearch. Will run your website locally, crawl its pages and index their content in a lunr index.
 - [exaly Search Engine](https://exaly.com/) - Comprehensive scholarly search engine. Similar to Google Scholar.
 - [Tips for efficiently Googling](https://twitter.com/addyosmani/status/1444195449095737346)
+- [Awesome Semantic-Search](https://github.com/Agrover112/awesome-semantic-search)

@@ -88,3 +88,4 @@
 - [Walking Trees, Parasitic Flowers, and Other Remarkable Plants](https://thereader.mitpress.mit.edu/walking-trees-parasitic-flowers-remarkable-plants-illustrated-guide/) ([HN](https://news.ycombinator.com/item?id=28619550))
 - [Syllabus: Advanced Biological Statistics II (2018)](https://petrelharp.github.io/bio_610B/syllabus.html) ([Code](https://github.com/petrelharp/bio_610B))
 - [Short graduate population biology course](https://github.com/petrelharp/popbio)
+- [Analogies between Biology and Deep Learning (2021)](http://colah.github.io/notes/bio-analogies/) ([Tweet](https://twitter.com/ch402/status/1444769243568898048))

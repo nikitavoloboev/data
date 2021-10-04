@@ -302,3 +302,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [CloudFlair](https://github.com/christophetd/CloudFlair) - Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys. ([Article](https://blog.christophetd.fr/bypassing-cloudflare-using-internet-wide-scan-data/))
 - [alphaicon](https://github.com/eusporg/alphaicon) - α-Indirect Control in Onion-like Networks.
 - [IPv6 Fundamentals: A Straightforward Approach to Understanding IPv6, 2nd Edition](https://www.ciscopress.com/store/ipv6-fundamentals-a-straightforward-approach-to-understanding-9780134670607) ([HN](https://news.ycombinator.com/item?id=28705259))
+- [CIDR.xyz](https://cidr.xyz/) - Web-based CIDR / netmask / IP address visualizer. ([Code](https://github.com/yuvadm/cidr.xyz))

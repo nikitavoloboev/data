@@ -242,3 +242,4 @@
 - [A Smarter, Dumb Breadcrumb (2019)](https://jjenzz.com/smarter-dumb-breadcrumb)
 - [Compound Components (2019)](https://jjenzz.com/compound-components)
 - [react-scanner](https://github.com/moroshko/react-scanner) - Statically analyzes the given code (TypeScript supported) and extracts React components and props usage.
+- [Refine](https://refine.dev/) - React-based framework for building data-intensive applications in no time. ([Code](https://github.com/pankod/refine))

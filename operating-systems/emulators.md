@@ -48,3 +48,5 @@
 - [RBoy](https://github.com/mvdnes/rboy) - Gameboy Color Emulator written in Rust.
 - [Mooneye GB](https://github.com/Gekkio/mooneye-gb) - Game Boy research project and emulator written in Rust.
 - [BrowserVM.js](https://github.com/elliott-wen/browservm.js) - Efficient X86-64 virtual machine runs in modern browsers.
+- [Mimic](https://github.com/jawline/Mimic) - Gameboy emulator written in Rust.
+- [CHIP-8 emulator written in Rust](https://github.com/jawline/CHIP-9)

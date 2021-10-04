@@ -2,6 +2,7 @@
 
 ## Web
 
+- [Robyn](https://github.com/sansyrox/robyn) - Async python web server written in rust.
 - [Bottle](https://github.com/bottlepy/bottle) - Fast and simple micro-framework for python web-applications. ([Docs](http://bottlepy.org/docs/dev/))
 - [Pyramid](https://github.com/Pylons/pyramid) - Small, fast, down-to-earth, open source Python web framework.
 - [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.

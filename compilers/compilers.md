@@ -11,7 +11,7 @@
 - [Compiler Optimization examples](http://compileroptimizations.com/)
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly. ([HN](https://news.ycombinator.com/item?id=24066570)) ([Code](https://github.com/compiler-explorer/infra))
 - [ShivyC](https://github.com/ShivamSarodia/ShivyC) - C compiler created in Python.
-- [swc](https://github.com/swc-project/swc) - Super-fast TS / JS compiler written in rust. ([Docs](https://swc.rs/))
+- [swc](https://github.com/swc-project/swc) - Super-fast TS / JS compiler written in rust. ([Docs](https://swc.rs/)) ([Docs Code](https://github.com/swc-project/website))
 - [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers) - Swift Playground giving an overview over the inner workings of modern compilers.
 - [ccache](https://github.com/ccache/ccache) - Fast compiler cache.
 - [Starlark in Go](https://github.com/google/starlark-go) - The Starlark configuration language, implemented in Go.

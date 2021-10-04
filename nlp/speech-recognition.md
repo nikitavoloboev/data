@@ -69,3 +69,4 @@
 - [Coqui Inference Engine](https://github.com/coqui-ai/inference-engine) - Library for efficiently deploying speech models.
 - [PDF to Speech](https://github.com/CypherousSkies/pdf-to-speech) - Deep-learning powered accessibility application which turns PDFs into audio files.
 - [ASV-Subtools](https://github.com/Snowdar/asv-subtools) - Open Source Tools for Speaker Recognition.
+- [VoiceFixer](https://github.com/haoheliu/voicefixer) - General Speech Restoration.

@@ -453,3 +453,5 @@
 - [Data, objects, and how we're railroaded into poor design (2018)](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html) ([Lobsters](https://lobste.rs/s/78tq8r/data_objects_how_we_re_railroaded_into))
 - [Things Unlearned (2021)](https://scattered-thoughts.net/writing/things-unlearned/) ([HN](https://news.ycombinator.com/item?id=28708078))
 - [What is a Staff (or Staff-Plus or Principal) Engineer? (2021)](https://mikemcquaid.com/2021/10/01/what-is-a-staff-plus-principal-engineer/)
+- [It takes a PhD to develop that (2021)](https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/) ([HN](https://news.ycombinator.com/item?id=28743687))
+- [Deconcentration of Attention: Addressing the Complexity of Software Engineering](http://deconcentration-of-attention.com/deconcentration-software.html) ([Lobsters](https://lobste.rs/s/pykb9p/deconcentration_attention_addressing))

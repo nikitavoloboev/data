@@ -80,3 +80,4 @@
 - [JPype](https://github.com/jpype-project/jpype) - Cross language bridge to allow python programs full access to java class libraries.
 - [Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors Book](https://www.goodreads.com/book/show/11118624-programming-concurrency-on-the-jvm) ([Notes](https://github.com/preslavmihaylov/booknotes/tree/master/java/programming-concurrency-jvm))
 - [A Tour of the Modern Java Platform (2021)](https://www.youtube.com/watch?v=y901lgIuRx0)
+- [Faster Maven Builds (2021)](https://blog.frankel.ch/faster-maven-builds/1/) ([HN](https://news.ycombinator.com/item?id=28740367))

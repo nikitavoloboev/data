@@ -183,3 +183,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [forlater.email](https://forlater.email/) - Email-based bookmarking. ([How I built forlater.email](https://icyphox.sh/blog/building-forlater/))
 - [Masked Email from Fastmail and 1Password](https://www.fastmail.com/1password/) ([HN](https://news.ycombinator.com/item?id=28682011))
 - [Best tool for generating HTML emails that work in most mail clients (2021)](https://twitter.com/kentcdodds/status/1444660326398496768)
+- [Sublime Security](https://sublimesecurity.com/) - Lets you write and run custom detection and response rules to block phishing attacks, hunt for threats, and more. ([Sublime Rules](https://github.com/sublime-security/sublime-rules))

@@ -446,3 +446,4 @@
 - [Telepresence](https://github.com/telepresenceio/telepresence) - Fast, efficient local development for Kubernetes microservices. ([Web](https://www.telepresence.io/))
 - [Peirates](https://github.com/inguardians/peirates) - Kubernetes Penetration Testing tool. ([Web](https://www.inguardians.com/peirates/))
 - [Kangal](https://github.com/hellofresh/kangal) - Run performance tests in Kubernetes cluster with Kangal.
+- [KinK](https://github.com/Trendyol/kink) - Helper CLI that facilitates to manage KinD clusters as Kubernetes pods.

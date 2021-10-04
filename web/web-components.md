@@ -49,3 +49,4 @@
 - [Vaadin web components](https://github.com/vaadin/web-components) - Set of high-quality standards based web components for enterprise web applications.
 - [lottie-player Web Component](https://github.com/LottieFiles/lottie-player) - Easily embedding and playing Lottie animations and the Lottie-based Telegram Sticker (tgs) animations in websites.
 - [Polymer](https://github.com/Polymer/polymer) - Library provides a set of features for creating custom elements. ([Docs](https://polymer-library.polymer-project.org/))
+- [Web Components interlop advantage](https://twitter.com/justinfagnani/status/1444739792017653763)

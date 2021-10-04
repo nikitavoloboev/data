@@ -974,6 +974,7 @@
 - [Mustache](https://github.com/cbroglie/mustache) - Mustache template language in Go.
 - [go-obj](https://github.com/aclements/go-obj) - Object file abstractions in Go.
 - [storage](https://github.com/containers/storage) - Go library which aims to provide methods for storing filesystem layers, container images, and containers.
+- [Helium](https://github.com/im-kulikov/helium) - Small, simple, modular constructor with some pre-built components for your convenience.
 
 ## Links
 

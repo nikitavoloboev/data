@@ -133,3 +133,5 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Mathematician Answers Chess Problem About Attacking Queens (2021)](https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/) ([HN](https://news.ycombinator.com/item?id=28605220))
 - [Micro-Max](https://home.hccnet.nl/h.g.muller/max-src2.html) - 133-line Chess Source. ([HN](https://news.ycombinator.com/item?id=28621143))
 - [Grandmaster Solves Master-Level Puzzles (2021)](https://www.youtube.com/watch?v=NpJfOYoEUK4)
+- [Coronate](https://github.com/johnridesabike/coronate) - Swiss-style chess tournament management app. ([Web](https://coronate.netlify.app/))
+- [Fast anti-chess simulator for RL in C](https://github.com/RajGhugare19/MyAntiChess)

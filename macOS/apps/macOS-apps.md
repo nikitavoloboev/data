@@ -182,3 +182,4 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Advanced Catalyst Example](https://github.com/steventroughtonsmith/advancedcatalystexample) - Example of a Catalyst app using a three-column layout, with a primary toolbar.
 - [Amazing macOS apps list (2021)](https://twitter.com/mxstbr/status/1404777523456716801)
 - [Dynamic Universal App](https://github.com/figma/dynamic-universal-app) - Size efficient alternative to macOS universal binaries.
+- [Microverse](https://github.com/jspahrsummers/Microverse) - macOS virtualization app for M1/Apple Silicon.

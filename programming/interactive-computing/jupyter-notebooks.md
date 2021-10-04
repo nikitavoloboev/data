@@ -139,3 +139,4 @@
 - [JupyterLab App](https://github.com/jupyterlab/jupyterlab_app) - Desktop application for JupyterLab, based on Electron. ([Article](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a)) ([HN](https://news.ycombinator.com/item?id=28621659))
 - [Jupyter Releaser](https://github.com/jupyter-server/jupyter_releaser) - Set of helper scripts and GitHub Actions to aid in automated releases of Python and npm packages.
 - [Jupyterlab Language Packs](https://github.com/jupyterlab/language-packs)
+- [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines using Jupyter or your favorite text editor. Develop locally, deploy to the cloud.

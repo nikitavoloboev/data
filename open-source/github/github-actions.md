@@ -118,6 +118,8 @@
 - [Create pull request](https://github.com/thomaseizinger/create-pull-request) - Create a pull request, easy and simple.
 - [github-act-runner](https://github.com/ChristopherHX/github-act-runner) - Act as self-hosted runner.
 - [setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting.
+- [Buildah Build](https://github.com/redhat-actions/buildah-build) - GitHub Action for building Docker and Kubernetes-compatible images quickly and easily.
+- [Create Pull Request](https://github.com/peter-evans/create-pull-request) - GitHub action to create a pull request for changes to your repository in the actions workspace.
 
 ## Go
 

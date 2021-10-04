@@ -13,6 +13,7 @@
 
 - [Nodesnim](https://github.com/Ethosa/nodesnim) - Nim GUI/2D framework, based on OpenGL and SDL2.
 - [Pixie](https://github.com/treeform/pixie) - Full-featured 2D graphics library for Nim. ([HN](https://news.ycombinator.com/item?id=28506220))
+- [Drawim](https://github.com/GabrielLasso/drawim) - Simple drawing library in Nim, inspired by p5js. Builds to native, using OpenGL, and to JavaScript, using HTML5 Canvas.
 
 ## Other
 

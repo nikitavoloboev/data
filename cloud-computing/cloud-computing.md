@@ -86,3 +86,6 @@
 - [cloud-init](https://github.com/canonical/cloud-init) - Industry standard multi-distribution method for cross-platform cloud instance initialization. ([Web](https://cloud-init.io/))
 - [Cloudflare’s Disruption (2021)](https://stratechery.com/2021/cloudflares-disruption/) ([HN](https://news.ycombinator.com/item?id=28707317))
 - [Cost-effective way to publish many GBs of data on internet with HTTPS access (2021)](https://twitter.com/shipilev/status/1444292088254943234)
+- [Eating the Cloud from Outside In (2021)](https://www.swyx.io/cloudflare-go/)
+- [Awesome PaaS](https://github.com/debarshibasak/awesome-paas) - Curated list of PaaS, developer platforms tools to emulate PaaS on cloud, Cloud IDEs and ADNs.
+- [Cloudflare announced four major new features that could disrupt industries (2021)](https://www.indiehackers.com/post/cloudflare-just-disrupted-3-industries-in-1-week-907e44a8f5) ([HN](https://news.ycombinator.com/item?id=28746880))

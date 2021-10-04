@@ -20,6 +20,7 @@
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
 - [Dropbox JS](https://github.com/dropbox/dropbox-sdk-js) - Dropbox JavaScript SDK.
+- [Twitter Ruby](https://github.com/nov/twitter_oauth2) - Twitter OAuth 2.0 Client Library in Ruby.
 - [Twitter Swift](https://github.com/mattdonnelly/Swifter)
 - [Twitter Python](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.
 - [Twitter Python 2](https://github.com/tweepy/tweepy)
@@ -131,6 +132,10 @@
 - [Rick and Morty API](https://github.com/afuh/rick-and-morty-api) - RESTful and GraphQL API based on the television show Rick and Morty.
 - [Dog API](https://dog.ceo/dog-api/)
 - [Square Node](https://github.com/square/square-nodejs-sdk) ([Release](https://developer.squareup.com/blog/announcing-the-new-square-node-js-sdk/))
+
+## Notes
+
+- [In my opinion API should be only sending values it actually has or at least not null but same type values: e.g. items array should never turn null even if empty but rather an empty array.](https://twitter.com/oleg008/status/1444223180185481217)
 
 ## Links
 
@@ -253,3 +258,5 @@
 - [RapiDoc](https://mrin9.github.io/RapiDoc/) - Custom-Element for OpenAPI Spec. Create beautiful, customizable, interactive API documentation from OpenAPI Specification. ([Code](https://github.com/mrin9/RapiDoc))
 - [Appwrite](https://appwrite.io/) - Open-Source End-to-End Backend Server. ([Code](https://github.com/appwrite/appwrite))
 - [gnostic](https://github.com/google/gnostic) - Go command line tool which converts JSON and YAML OpenAPI descriptions to and from equivalent Protocol Buffer representations.
+- [Postman](https://www.postman.com/) - API platform for building and using APIs. ([GitHub](https://github.com/postmanlabs)) ([Tweet](https://twitter.com/yongfook/status/1444866225469726724))
+- [Blobr](https://www.blobr.io/) - Get your branded API portal in minutes.

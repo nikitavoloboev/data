@@ -72,3 +72,4 @@
 - [Bringing OAuth 2.0 Flow to Wrangler (2021)](https://blog.cloudflare.com/wrangler-oauth/)
 - [Miniflare Example Project](https://github.com/mrbbot/miniflare-esbuild-ava) - Example project using Miniflare, esbuild and AVA.
 - [Cloudflare worker for embedding polls anywhere](https://github.com/vberlier/poll)
+- [A/B testing with Cloudflare workers (2021)](https://ptrlaszlo.com/posts/cloudflare-ab-testing)

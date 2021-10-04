@@ -156,3 +156,5 @@
 - [localfirst/auth](https://github.com/local-first-web/auth) - Provides decentralized authentication and authorization for team collaboration, using a secure chain of cryptographic signatures.
 - [Guide to Web Authentication](https://webauthn.guide/) ([Tweet](https://twitter.com/alexellisuk/status/1444614757407936512))
 - [Webauthn-rs](https://github.com/kanidm/webauthn-rs) - Implementation of webauthn components for Rustlang servers.
+- [Access Temporary Authentication (2021)](https://blog.cloudflare.com/announcing-access-temporary-authentication/)
+- [jwt-cli](https://github.com/clarketm/jwt-cli) - Command line tool for working with JSON Web Tokens (JWT).

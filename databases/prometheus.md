@@ -47,3 +47,4 @@
 - [Fly’s Prometheus Metrics](https://fly.io/blog/measuring-fly/) ([HN](https://news.ycombinator.com/item?id=27147482))
 - [Sloth](https://github.com/slok/sloth) - Easy and simple Prometheus SLO generator.
 - [Prometheus Example Queries](https://github.com/infinityworks/prometheus-example-queries)
+- [Pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone.

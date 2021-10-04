@@ -59,3 +59,4 @@
 - [CapsGNN: Capsule Graph Neural Networks in PyTorch](https://github.com/benedekrozemberczki/CapsGNN)
 - [A Gentle Introduction to Graph Neural Networks (2021)](https://distill.pub/2021/gnn-intro/)
 - [Understanding Convolutions on Graphs (2021)](https://distill.pub/2021/understanding-gnns/)
+- [GraphNeuralNetworks.jl](https://github.com/CarloLucibello/GraphNeuralNetworks.jl) - Graph Neural Networks in Julia.

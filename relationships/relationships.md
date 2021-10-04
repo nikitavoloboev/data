@@ -123,3 +123,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [The secret to desire in a long-term relationship | Esther Perel](https://www.youtube.com/watch?v=sa0RUmGTCYY)
 - [Suggestions for books to improve my relationships with women and what healthy relationships with women look like (romantic relationships) (2021)](https://www.reddit.com/r/suggestmeabook/comments/piznz5/suggestions_for_books_to_improve_my_relationships/)
 - [Pure](https://pure.app/) - Shameless dating app.
+- [What is a standard you have for men that some might consider high? (2021)](https://www.reddit.com/r/AskWomen/comments/pzpx8n/what_is_a_standard_you_have_for_men_that_some/)

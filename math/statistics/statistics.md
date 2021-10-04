@@ -121,3 +121,4 @@
 - [Effect size is significantly more important than statistical significance (2021)](http://www.argmin.net/2021/09/13/effect-size/) ([HN](https://news.ycombinator.com/item?id=28526909))
 - [How percentile approximation works and why it's more useful than averages (2021)](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/) ([HN](https://news.ycombinator.com/item?id=28526966))
 - [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)
+- [posteriordb](https://github.com/stan-dev/posteriordb) - Database with posteriors of interest for Bayesian inference.

@@ -105,6 +105,8 @@
 - [Sonic Visualiser](https://sonicvisualiser.org/) - Visualization, analysis, and annotation of music audio recordings. ([Code](https://github.com/sonic-visualiser/sonic-visualiser))
 - [Sound GLSL](https://github.com/soundshader/soundshader.github.io)
 - [SongKit](https://songkit.app/) - AI-powered songbook app for your iPhone and iPad, letting you organize, view, and edit your songs sheets on any of your devices.
+- [wavesurfer.js](https://wavesurfer-js.org/) - Customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas. ([Code](https://github.com/katspaugh/wavesurfer.js))
+- [Sorrygle](https://github.com/JJoriping/Sorrygle) - Text-based MIDI writing language and its compiler.
 
 ## Inspiration
 

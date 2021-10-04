@@ -358,3 +358,5 @@
 - [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) ([GitHub](https://github.com/UKPLab))
 - [DedupliPy](https://github.com/fritshermans/deduplipy) - Python package for deduplication/entity resolution using active learning.
 - [Flexible Generation of Natural Language Deductions (2021)](https://arxiv.org/abs/2104.08825) ([Code](https://github.com/alephic/ParaPattern))
+- [Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)
+- [Compressive Transformers for Long-Range Sequence Modelling (2020)](https://openreview.net/forum?id=SylKikSYDH) ([Code](https://github.com/lucidrains/compressive-transformer-pytorch))

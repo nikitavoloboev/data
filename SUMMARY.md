@@ -748,6 +748,7 @@
   - [Architecture](art/architecture.md)
   - [Tattoos](art/tattoos.md)
   - [Clothes](art/clothes.md)
+  - [Makeup](art/makeup.md)
   - [Furniture](art/furniture.md)
 - [API](api/api.md)
 - [Distributed systems](distributed-systems/distributed-systems.md)
@@ -903,3 +904,4 @@
     - [2021 June](looking-back/2021/2021-june.md)
     - [2021 July](looking-back/2021/2021-july.md)
     - [2021 August](looking-back/2021/2021-august.md)
+    - [2021 September](looking-back/2021/2021-september.md)

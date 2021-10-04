@@ -125,3 +125,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Paper to HTML](https://papertohtml.org/) - Render scientific papers in HTML so they can be more easily read by screen readers or on mobile devices.
 - [Full-Text Search of Sci-Hub](https://exaly.com/?d=https://sci-hub.st/)
 - [Nota](https://github.com/willcrichton/nota) - Framework for writing academic papers, like LaTeX. ([Paper](https://willcrichton.net/nota/))
+- [Research Paper Notes](https://github.com/IvLabs/ResearchPaperNotes) ([Web](https://ivlabs.github.io/ResearchPaperNotes/))

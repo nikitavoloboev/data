@@ -148,3 +148,4 @@
 - [Microlink](https://microlink.io/) - Fast, scalable, and reliable browser automation built for businesses and developers. Browser as API. ([GitHub](https://github.com/microlinkhq))
 - [BrowserParrot](https://www.browserparrot.com/) - Save and search the full text of your browser history. ([HN](https://news.ycombinator.com/item?id=28689734))
 - [Stack](https://stackbrowser.com/) - New way of interacting with the internet. ([Twitter](https://twitter.com/Stack_HQ))
+- [JShelter](https://jshelter.org/) - Anti-malware Web browser extension to mitigate potential threats from JavaScript.

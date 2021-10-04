@@ -32,3 +32,6 @@
 - [Bespoke Synth](https://www.bespokesynth.com/) - Open-source software modular synthesizer. ([HN](https://news.ycombinator.com/item?id=28529672))
 - [Canvas](https://github.com/nhthn/canvas) - Visual additive synthesizer that is controlled by editing an image.
 - [MiniSynth Pi](https://github.com/rsta2/minisynth) - Virtual analog synthesizer for Raspberry Pi.
+- [Mt32-pi](https://github.com/dwhinham/mt32-pi) - Bare metal Roland MT-32 emulator. ([HN](https://news.ycombinator.com/item?id=28727084))
+- [Scout](https://github.com/oskitone/scout) - 3D-printed, Arduino-compatible, 17-key mono synth. ([Web](https://www.oskitone.com/product/scout-synth))
+- [Oskitone](https://www.oskitone.com/) - DIY Synthesizers. ([GitHub](https://github.com/oskitone))

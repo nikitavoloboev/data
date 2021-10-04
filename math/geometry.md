@@ -46,3 +46,4 @@
 - [Generating Random Convex Polygons](https://cglab.ca/~sander/misc/ConvexGeneration/convex.html)
 - [jaxgptoolbox](https://github.com/ml-for-gp/jaxgptoolbox) - Collection of basic geometry processing functions, constructed to work with jax's audodifferentiation feature for applications in machine learning.
 - [Euclidean plane and its relatives: minimalist introduction](http://anton-petrunin.github.io/birkhoff/) ([Code](https://github.com/anton-petrunin/birkhoff))
+- [Introduction to Diﬀerential Geometry (2017)](https://superadditive.com/notes/intro-to-differential-geometry/)

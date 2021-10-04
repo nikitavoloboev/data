@@ -242,6 +242,8 @@
 - [rlottie](https://github.com/Samsung/rlottie) - Platform independent standalone library that plays Lottie Animation.
 - [simdutf](https://github.com/simdutf/simdutf) - Unicode validation and transcoding at billions of characters per second. ([Talk](https://www.youtube.com/watch?v=H9NZtb7ykYs))
 - [Boost.PFR](https://github.com/boostorg/pfr) - std::tuple like methods for user defined types without any macro or boilerplate code.
+- [double-conversion](https://github.com/google/double-conversion) - Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
+- [FastNoise2](https://github.com/Auburn/FastNoise2) - Modular node graph based noise generation library using SIMD, C++17 and templates.
 
 ## Links
 

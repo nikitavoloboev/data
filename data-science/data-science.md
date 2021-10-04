@@ -201,3 +201,4 @@
 - [Is BI dead? – On dismantling data's ship of Theseus (2021)](https://benn.substack.com/p/is-bi-dead) ([HN](https://news.ycombinator.com/item?id=28580298))
 - [Kedro Community](https://github.com/quantumblacklabs/kedro-community) - Examples of data science projects created with Kedro.
 - [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
+- [atoti](https://www.atoti.io/) - Free Python BI analytics platform. ([GitHub](https://github.com/atoti)) ([Notebooks](https://github.com/atoti/notebooks))

@@ -67,3 +67,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Why extraterrestrial life may not seem alien (2021)](https://www.quantamagazine.org/arik-kershenbaum-on-why-alien-life-may-be-like-life-on-earth-20210318/) ([HN](https://news.ycombinator.com/item?id=28037850))
 - [Alien Dreams: The long history of speculation about extraterrestrials](https://thereader.mitpress.mit.edu/history-speculation-about-aliens/) ([HN](https://news.ycombinator.com/item?id=28049138))
 - [Books about the meaning of life and why life is worth living (2021)](https://www.reddit.com/r/suggestmeabook/comments/pehrwr/a_book_about_the_meaning_of_life_and_why_life_is/)
+- [Where/when/how do you feel the most at peace in your daily life? (2021)](https://merveilles.town/web/statuses/107040190832895713)

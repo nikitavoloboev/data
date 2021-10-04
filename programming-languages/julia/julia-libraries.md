@@ -94,6 +94,7 @@
 - [MCMCChains.jl](https://github.com/TuringLang/MCMCChains.jl) - Types and utility functions for summarizing Markov chain Monte Carlo simulations.
 - [NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl) - High performance nearest neighbor data structures and algorithms for Julia.
 - [MHLib.jl](https://github.com/ac-tuwien/MHLib.jl) - Toolbox for Metaheuristics and Hybrid Optimization Methods.
+- [Erdos](https://github.com/CarloLucibello/Erdos.jl) - Library for graph analysis written Julia.
 
 ## NLP
 

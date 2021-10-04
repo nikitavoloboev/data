@@ -18,3 +18,4 @@
 - [Medicosis Perfectionalis - YouTube](https://www.youtube.com/channel/UCl-J-ovSJhA3or73Q2uVpow)
 - [fastMRI](https://github.com/facebookresearch/fastMRI) - Large-scale dataset of both raw MRI measurements and clinical MRI images. ([Web](https://fastmri.org/))
 - [Johns Hopkins Medicine](https://www.hopkinsmedicine.org/)
+- [Nobel Prize in Physiology or Medicine 2021](https://www.nobelprize.org/prizes/medicine/2021/press-release/) ([HN](https://news.ycombinator.com/item?id=28745101))

@@ -165,7 +165,7 @@
 - [Embeddinghub](https://github.com/featureform/embeddinghub) - Vector database built for Machine Learning embeddings. ([HN](https://news.ycombinator.com/item?id=28552034))
 - [GQLite](https://github.com/dyedgreen/gqlite) - Embedded graph database implemented with Rust.
 - [Xata](https://www.xata.io/) - Database service for serverless apps. ([HN](https://news.ycombinator.com/item?id=28590816))
-- [SpiceDB](https://github.com/authzed/spicedb) - Zanzibar-inspired database that stores, computes, and validates application permissions. ([Article](https://authzed.com/blog/spicedb-is-open-source/)) ([HN](https://news.ycombinator.com/item?id=28709886))
+- [SpiceDB](https://github.com/authzed/spicedb) - Zanzibar-inspired database that stores, computes, and validates application permissions. ([Article](https://authzed.com/blog/spicedb-is-open-source/)) ([HN](https://news.ycombinator.com/item?id=28709886)) ([CLI](https://github.com/authzed/zed))
 - [Authzed](https://authzed.com/) - Managed permissions database for everyone. ([GitHub](https://github.com/authzed))
 
 ## Tools
@@ -214,6 +214,7 @@
 - [trona](https://github.com/igorkamyshev/trona) - Write DB migrations with SQL and run them with a CLI.
 - [Azimutt](https://azimutt.app/) - Explore your database schema.
 - [Models](https://github.com/tvallotton/models) - Tool for automated migrations for PostgreSQL, SQLite and MySQL.
+- [Atlas](https://atlasgo.io/) - Set of tools designed to help companies better work with their data. It includes several components that can be used individually but are designed to work very well together. ([Code](https://github.com/ariga/atlas))
 
 ## Notes
 
@@ -303,7 +304,7 @@
 - [Lobsters: Does anyone use advanced database access control anymore?](https://lobste.rs/s/x4luho/does_anyone_use_advanced_database_access)
 - [Introduction to database schemas](https://dataguide.prisma.io/intro/intro-to-schemas)
 - [BaseDash](https://www.basedash.io/) - Build internal tools for your database. ([HN](https://news.ycombinator.com/item?id=23999124))
-- [Databases, Types, and the Relational Model: The Third Manifesto](http://thethirdmanifesto.com/) - Rigorously define a type-safe (and NULL-safe) data model and query language based on the relational algebra.
+- [Databases, Types, and the Relational Model: The Third Manifesto](http://thethirdmanifesto.com/) - Rigorously define a type-safe (and NULL-safe) data model and query language based on the relational algebra. ([PDF](https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf)) ([HN](https://news.ycombinator.com/item?id=28745033))
 - [When are full database backups faster than incremental backups? (2020)](https://tech.davis-hansson.com/p/incremental-backup/)
 - [Testing Database Engines via Pivoted Query Synthesis (2020)](https://arxiv.org/abs/2001.04174) ([Tweet](https://twitter.com/electron0zero/status/1295446187084877824))
 - [Splitgraph](https://www.splitgraph.com/) - Integrated data catalog and database proxy. ([Code](https://github.com/splitgraph/splitgraph)) ([Splitgraph Data Delivery Network](https://www.splitgraph.com/blog/data-delivery-network-launch)) ([HN](https://news.ycombinator.com/item?id=24233948))
@@ -430,3 +431,4 @@
 - [Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees (2021)](https://blog.cloudflare.com/introducing-r2-object-storage/) ([HN](https://news.ycombinator.com/item?id=28682237)) ([Pricing Analysis](https://twitter.com/QuinnyPig/status/1443028078196711426)) ([Tweet](https://twitter.com/threepointone/status/1443123297319899141)) ([HN](https://news.ycombinator.com/item?id=28702997))
 - [The Reactive Monolith – How to Move from CRUD to Event Sourcing (2021)](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing) ([HN](https://news.ycombinator.com/item?id=28691728))
 - [Ask HN: Why are relational DBs are the standard instead of graph-based DBs? (2021)](https://news.ycombinator.com/item?id=28736405)
+- [Cheapest / fastest way to load Stripe data into a SQL database (2021)](https://twitter.com/Suhail/status/1441897490312138759)

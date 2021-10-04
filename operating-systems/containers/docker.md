@@ -145,4 +145,4 @@
 - [kontain.me](https://github.com/imjasonh/kontain.me) - Serves Docker container images generated on-demand at the time they are requested.
 - [Play With Docker](https://labs.play-with-docker.com/) - Simple, interactive and fun playground to learn Docker. ([Code](https://github.com/play-with-docker/play-with-docker))
 - [Reproducible Computational Environments Using Containers: Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/) ([Code](https://github.com/carpentries-incubator/docker-introduction))
-- [The hunt for a better Dockerfile (2021)](https://matduggan.com/the-hunt-for-a-better-dockerfile/)
+- [The hunt for a better Dockerfile (2021)](https://matduggan.com/the-hunt-for-a-better-dockerfile/) ([Lobsters](https://lobste.rs/s/jfcnvn/hunt_for_better_dockerfile))

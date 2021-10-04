@@ -259,6 +259,7 @@
 - [RedBPF](https://github.com/ingraind/redbpf) - Rust library for building and running BPF/eBPF modules.
 - [iou](https://github.com/ringbahn/iou) - Rust interface to io_uring.
 - [Aya](https://github.com/alessandrod/aya) - eBPF library for the Rust programming language, built with a focus on developer experience and operability. ([Article](https://confused.ai/posts/announcing-aya))
+- [sev](https://github.com/enarx/sev) - Implementation of AMD Secure Encrypted Virtualization (SEV) APIs.
 
 ## ML
 
@@ -988,6 +989,7 @@
 - [stack-graphs](https://github.com/github/stack-graphs) - Rust implementation of stack graphs.
 - [debug-ignore](https://github.com/sunshowers/debug-ignore) - Newtype wrapper that causes Debug impls to skip a field.
 - [subprocess](https://github.com/hniksic/rust-subprocess) - Execution of and interaction with external processes and pipelines.
+- [Enarx Keep Loader](https://github.com/enarx/enarx-keepldr) - Provides the enarx-keepldr executable which loads static-pie binaries into an Enarx Keep.
 
 ## Cargo Plugins
 

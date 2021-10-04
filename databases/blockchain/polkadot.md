@@ -60,3 +60,5 @@
 - [Substrate playground](https://github.com/paritytech/substrate-playground) - Start hacking your substrate runtime in a web based VSCode like IDE. ([Web](https://playground.substrate.dev/))
 - [Substrate Connect](https://github.com/paritytech/substrate-connect) - Run Wasm Light Clients of any Substrate based chain directly in your browser.
 - [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - Collection of debug tools and libraries around substrate chains.
+- [Substrate Validator Set Pallet](https://github.com/gautamdhameja/substrate-validator-set)
+- [Gear](https://github.com/gear-tech/gear) - Computational Component of Polkadot Network.

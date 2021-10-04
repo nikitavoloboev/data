@@ -14,6 +14,7 @@
 - [Muuntaja](https://github.com/metosin/muuntaja) - Clojure library for fast HTTP format negotiation, encoding and decoding
 - [reitit](https://github.com/metosin/reitit) - Fast data-driven router for Clojure/Script.
 - [ctmx](https://github.com/whamtet/ctmx) - App development tool for fast product development and even faster page load times. It uses htmx on the frontend. ([Web](https://whamtet.github.io/ctmx/))
+- [Ruuter](https://github.com/askonomm/ruuter) - Tiny, zero-dependency HTTP router.
 
 ## DB
 

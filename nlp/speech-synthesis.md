@@ -26,7 +26,7 @@
 - [eSpeak NG](https://github.com/espeak-ng/espeak-ng) - Open source speech synthesizer that supports more than hundred languages and accents.
 - [PRiSM SampleRNN](https://github.com/rncm-prism/prism-samplernn) - Neural sound synthesis with TensorFlow 2.
 - [Flite](https://github.com/festvox/flite) - Small fast portable speech synthesis system.
-- [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech (2020)](https://arxiv.org/abs/2006.04558) ([Code](https://github.com/rishikksh20/FastSpeech2))
+- [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech (2020)](https://arxiv.org/abs/2006.04558) ([Code](https://github.com/rishikksh20/FastSpeech2)) ([Code](https://github.com/AppleHolic/FastSpeech2))
 - [Neural Granular Sound Synthesis](https://adrienchaton.github.io/neural_granular_synthesis/) ([Code](https://github.com/adrienchaton/neural_granular_synthesis))
 - [CLEESE](https://github.com/creamlab/cleese) - Combinatorial Expressive Speech Engine.
 - [LVCNet: Efficient Condition-Dependent Modeling Network for Waveform Generation](https://github.com/ZENGZHEN-TTS/LVCNet)
@@ -38,3 +38,4 @@
 - [WellSaid Labs](https://wellsaidlabs.com/) - Voice Narration. Simplified.
 - [Neural Wave shaping Synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis) - Efficient neural audio synthesis in the waveform domain. ([Article](https://benhayes.net/projects/nws/))
 - [Catch-A-Waveform: Learning to Generate Audio from a Single Short Example](https://galgreshler.github.io/Catch-A-Waveform/) ([Code](https://github.com/galgreshler/Catch-A-Waveform))
+- [TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis (2020)](https://arxiv.org/abs/2011.12206) ([Code](https://github.com/rishikksh20/TFGAN))

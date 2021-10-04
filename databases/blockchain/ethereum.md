@@ -25,7 +25,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Drizzle](https://github.com/trufflesuite/drizzle) - Reactive Ethereum datastore for dapp UIs.
 - [Status](https://status.im/) - Secure messaging app, crypto wallet, and Web3 browser built with state of the art technology. ([Code](https://github.com/status-im/status-react))
 - [EthHub](https://ethhub.io/) - The goal of EthHub is to provide a single source for essential Ethereum information. ([Code](https://github.com/ethhub-io/ethhub))
-- [Urbit](https://github.com/urbit/urbit) - Urbit virtual machine.
 - [A Journey Through Phase 2 of Ethereum 2.0 (2019)](https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2-0-c7a2397a36cb)
 - [Ethereum 2.0 Specifications](https://github.com/ethereum/eth2.0-specs)
 - [Prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum Serenity protocol.
@@ -307,3 +306,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [CFWeb3](https://github.com/cloudflare/cfweb3) - Web3 demo application. It uses Hardhat and Solidity to create an Ethereum smart contract. This code is a proof-of-concept showing how to build Web3 applications with Cloudflare.
 - [ultrasound.money](https://ultrasound.money/) - Tracking Ethereum. ([Twitter](https://twitter.com/ultrasoundmoney))
 - [EVM Toolkit (etk)](https://github.com/quilt/etk) - Collection of tools for writing, reading, and analyzing EVM bytecode.
+- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - Set of challenges to hack implementations of DeFi in Ethereum. Featuring flash loans, oracles, governance, NFTs, lending pools, and more. ([Code](https://github.com/OpenZeppelin/damn-vulnerable-defi))
+- [svgnft](https://github.com/mikker/svgnft) - Helper library for generating fully on-chain NFTs (ERC721) on Ethereum.
+- [Gigahorse binary lifter and toolchain](https://github.com/nevillegrech/gigahorse-toolchain) - Binary lifter (and related framework) from low-level EVM code to a higher-level function-based three-address representation, similar to LLVM IR or Jimple.

@@ -68,3 +68,4 @@
 - [Prisma Schema Examples](https://github.com/prisma/templates) - Ready-to-use Prisma schema examples.
 - [zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod.
 - [Prisma Documentation Generator](https://github.com/pantharshit00/prisma-docs-generator) - Automatically generate a reference from your Prisma Schema.
+- [Prisma project with Nix](https://github.com/pimeys/nix-prisma-example)
