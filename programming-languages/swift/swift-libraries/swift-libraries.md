@@ -771,6 +771,8 @@
 - [MultipartKit](https://github.com/vapor/multipart-kit) - Parses and serializes multipart-encoded data with Codable support.
 - [MatchingEngine](https://github.com/apple/swift-experimental-string-processing) - Early experimental general-purpose pattern matching engine for Swift.
 - [SyncKit](https://github.com/mentrena/SyncKit) - Automates the process of synchronizing Core Data or Realm models using CloudKit.
+- [TextStory](https://github.com/ChimeHQ/TextStory) - Happier, more flexible NSTextStorage.
+- [OperationPlus](https://github.com/ChimeHQ/OperationPlus) - Set of NSOperation subclasses and extensions on NSOperation/NSOperationQueue.
 
 ## Other (not lib)
 
