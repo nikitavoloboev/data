@@ -330,3 +330,4 @@
 - [SnakeViz](https://github.com/jiffyclub/snakeviz) - In-browser Python profile viewer.
 - [Better JIT Support for Auto-Generated Python Code (2021)](https://www.pypy.org/posts/2021/09/jit-auto-generated-code.html)
 - [The GIL and its effects on Python multithreading (2021)](https://tenthousandmeters.com/blog/python-behind-the-scenes-13-the-gil-and-its-effects-on-python-multithreading/) ([HN](https://news.ycombinator.com/item?id=28690560))
+- [Yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time thread & coroutine & greenlet aware.

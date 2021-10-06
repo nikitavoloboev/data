@@ -30,7 +30,7 @@
 - [EconDB](https://www.econdb.com/main-indicators/) - Economic overviews of countries.
 - [Economic Research at the St. Louis Fed](https://research.stlouisfed.org/about.html) - Expand the frontier of economic knowledge by producing high-quality original research in the areas of macroeconomics, money and banking, and applied microeconomics.
 - [Ask HN: What are you reading to make sense of the economy? (2020)](https://news.ycombinator.com/item?id=22861452)
-- [Stripe Press](https://press.stripe.com/) - Publishes books about economic and technological advancement.
+- [Stripe Press](https://press.stripe.com/) - Publishes books about economic and technological advancement. ([HN](https://news.ycombinator.com/item?id=28761235))
 - [Explained | The Stock Market (2020)](https://www.youtube.com/watch?v=ZCFkWDdmXG8)
 - [The Stock Market vs. The Economy (2020)](https://www.youtube.com/watch?v=0ECqDaPjjV0)
 - [Naked Capitalism](https://www.nakedcapitalism.com/) - Fearless commentary on finance, economics, politics and power.

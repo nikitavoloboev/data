@@ -447,3 +447,6 @@
 - [Peirates](https://github.com/inguardians/peirates) - Kubernetes Penetration Testing tool. ([Web](https://www.inguardians.com/peirates/))
 - [Kangal](https://github.com/hellofresh/kangal) - Run performance tests in Kubernetes cluster with Kangal.
 - [KinK](https://github.com/Trendyol/kink) - Helper CLI that facilitates to manage KinD clusters as Kubernetes pods.
+- [hedge](https://github.com/flowerinthenight/hedge) - Distributed systems library for Kubernetes deployments built on top of spindle and Cloud Spanner.
+- [Tanzu Community Edition](https://github.com/vmware-tanzu/community-edition) - Fully-featured, easy to manage, Kubernetes platform for learners and users. ([Web](https://tanzucommunityedition.io/))
+- [Tanzu Framework](https://github.com/vmware-tanzu/tanzu-framework) - Set of building blocks to build atop of the Tanzu platform.

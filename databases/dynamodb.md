@@ -62,3 +62,5 @@
 - [DynamoDB + Lambda Workshop](https://github.com/alexdebrie/lambda-dynamodb-workshop)
 - [DynamoDB --> Stream --> Elasticsearch](https://github.com/matrus2/dynamodb-stream-elasticsearch) - Missing blueprint for AWS Lambda. Reads stream from AWS DynamoDB and writes it to ElasticSearch.
 - [DynamoDB Examples](https://github.com/aws-samples/aws-dynamodb-examples)
+- [DonutDB](https://github.com/psanford/donutdb) - SQL database implemented on DynamoDB and SQLite.
+- [DynamoDB Lock Client for Go](https://github.com/cirello-io/dynamolock)

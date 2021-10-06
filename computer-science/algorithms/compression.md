@@ -1,5 +1,9 @@
 # Compression
 
+## Notes
+
+- [Can compress PNG images well with pngquant.](https://twitter.com/michaelvillar/status/1445079263208787969)
+
 ## Links
 
 - [Zstandard](https://github.com/facebook/zstd) - Fast real-time compression algorithm. ([HN](https://news.ycombinator.com/item?id=24714854)) ([HN 2](https://news.ycombinator.com/item?id=25455314))
@@ -66,3 +70,4 @@
 - [Experiments with compression-related algorithms](https://github.com/Bulat-Ziganshin/Compression-Research)
 - [Imager](https://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web. ([Web](https://imager.io/))
 - [Heatshrink](https://github.com/atomicobject/heatshrink) - Data compression library for embedded/real-time systems. ([HN](https://news.ycombinator.com/item?id=28687589))
+- [Neural Network Compression Framework (NNCF)](https://github.com/openvinotoolkit/nncf) - Provides a suite of advanced algorithms for Neural Networks inference optimization in OpenVINO with minimal accuracy drop.

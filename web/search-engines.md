@@ -159,3 +159,4 @@
 - [exaly Search Engine](https://exaly.com/) - Comprehensive scholarly search engine. Similar to Google Scholar.
 - [Tips for efficiently Googling](https://twitter.com/addyosmani/status/1444195449095737346)
 - [Awesome Semantic-Search](https://github.com/Agrover112/awesome-semantic-search)
+- [Awesome Search Engine Optimization Ideas](https://github.com/thospfuller/awesome-search-engine-optimization)

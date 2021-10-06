@@ -39,6 +39,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configurations.
 - [Julius Bruijn](https://github.com/pimeys/nixos)
 - [Michael Lingelbach](https://github.com/mjlbach/nix-dotfiles)
+- [Pablo Corral](https://github.com/pinpox/nixos)
 
 ## Nix configs (macOS)
 

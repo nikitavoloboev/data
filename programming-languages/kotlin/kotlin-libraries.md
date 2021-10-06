@@ -16,6 +16,10 @@
 
 - [Kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing. ([Web](https://kotest.io/))
 
+## CLI
+
+- [Konsole](https://github.com/varabyte/konsole) - Declarative, Kotlin-idiomatic API for writing dynamic command line applications.
+
 ## Other
 
 - [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library. ([Web](https://arrow-kt.io/))

@@ -13,6 +13,7 @@
 - [New user onboarding and activation is one of the most critical things for teams to test. Unfortunately it’s also one of the hardest, since people don’t go though the NUX flow more than once as a matter of course. So most teams stay blissfully unaware of what new users experience.](https://twitter.com/gokulr/status/1432295804052647937)
 - [One of the coolest onboarding tricks I've seen recently - do different tasks for a product onboarding to add days to your free trial.](https://twitter.com/kushaanshah/status/1433210611895189509)
 - [Every app should have a cmd+k command palette interface to search actions](https://twitter.com/seanrose/status/1438648231404003331)
+- [Right click logo to get press kit](https://twitter.com/michaelvillar/status/1445079259362562058)
 
 ## Links
 
@@ -121,3 +122,4 @@
 - [Post-Linear design (2021)](https://twitter.com/brian_lovin/status/1443660899181465623)
 - [Always take user's perspective/experience](https://twitter.com/arvidkahl/status/1442940646549905415)
 - [Pagination or infinite scrolling?](https://twitter.com/DanHollick/status/1443625461091737612)
+- [First Principles of Interaction Design (2014)](https://asktog.com/atc/principles-of-interaction-design/)

@@ -142,3 +142,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Fell for phishing attack & lost my entire DeFi portfolio (2021)](https://twitter.com/Rebecca_Mqamelo/status/1443991647898021892)
 - [Coinbase Cloud](https://www.coinbase.com/cloud) - Infrastructure for companies to integrate into the cryptoeconomy, or build their own crypto apps. ([HN](https://news.ycombinator.com/item?id=28724734))
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+- [Cryptocurrencies’ Carbon Footprint Underestimated (2021)](https://blog.dshr.org/2021/10/cryptocurrencys-carbon-footprint.html) ([HN](https://news.ycombinator.com/item?id=28763485))

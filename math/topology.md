@@ -21,3 +21,4 @@
 - [Applied Topology](http://appliedtopology.org/) - Qualitative data analysis. ([GitHub](https://github.com/appliedtopology))
 - [Formal Topology in Univalent Foundations](https://github.com/ayberkt/formal-topology-in-UF)
 - [Interview with Martin Ender (2018)](https://esoteric.codes/blog/martin-ender)
+- [In Topology When Are Two Shapes the Same? (2021)](https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/) ([HN](https://news.ycombinator.com/item?id=28735883))

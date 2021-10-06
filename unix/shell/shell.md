@@ -156,3 +156,4 @@ All active variables can be seen by running `env`.
 - [Fun with Redirection (2021)](https://christine.website/blog/fun-with-redirection-2021-09-22)
 - [Dune](https://github.com/adam-mcdaniel/dune) - Shell by the beach. ([HN](https://news.ycombinator.com/item?id=28727566))
 - [Understanding AWK (2021)](https://earthly.dev/blog/awk-examples/) ([HN](https://news.ycombinator.com/item?id=28707463)) ([Lobsters](https://lobste.rs/s/4wxwzh/understanding_awk))
+- [Cloudshell](https://github.com/zephinzer/cloudshell) - Xterm.js frontend that connects to a Go backend to provide a shell to the host system. Basically, access your shell from a browser.

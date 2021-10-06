@@ -101,3 +101,4 @@
 - [CLIPort: What and Where Pathways for Robotic Manipulation (2021)](https://cliport.github.io/) ([Code](https://github.com/cliport/cliport))
 - [Differentiable and learnable robot model](https://github.com/facebookresearch/differentiable-robot-model) - Implements computations such as forward kinematics and inverse dynamics, in a fully differentiable way.
 - [YARR](https://github.com/stepjam/YARR) - Yet Another Robotics and Reinforcement (YARR) learning framework for PyTorch.
+- [IKBT](https://github.com/uw-biorobotics/IKBT) - Python package to solve robot arm inverse kinematics in symbolic form.

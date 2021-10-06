@@ -391,3 +391,4 @@
 - [Self-Supervised Pretraining Improves Self-Supervised Pretraining (2021)](https://arxiv.org/abs/2103.12718) ([Code](https://github.com/cjrd/self-supervised-pretraining))
 - [SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes (2021)](https://xuchen-ethz.github.io/snarf/) ([Code](https://github.com/xuchen-ethz/snarf))
 - [HRFormer: High-Resolution Transformer for Dense Prediction, NeurIPS 2021](https://github.com/HRNet/HRFormer)
+- [IceVision](https://github.com/airctic/icevision) - Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come. ([Docs](https://airctic.com/))

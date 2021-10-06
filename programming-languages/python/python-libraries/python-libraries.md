@@ -490,6 +490,10 @@
 - [simplejson](https://github.com/simplejson/simplejson) - Simple, fast, extensible JSON encoder/decoder for Python.
 - [Lightbus](https://github.com/adamcharnock/lightbus) - RPC & event framework for Python 3. ([Docs](https://lightbus.org/latest/))
 - [python-utils](https://github.com/kylemcdonald/python-utils) - Disorganized collection of useful functions for working with audio and images, especially in the context of machine learning.
+- [Runtype](https://github.com/erezsh/runtype) - Utilities for run-time type validation and multiple dispatch.
+- [YData Quality](https://github.com/ydataai/ydata-quality) - Data Quality assessment with one line of code.
+- [Emukit](https://github.com/EmuKit/emukit) - Highly adaptable Python toolkit for enriching decision making under uncertainty.
+- [PyContracts](https://github.com/AndreaCensi/contracts) - Python package that allows to declare constraints on function parameters and return values.
 
 ## Links
 

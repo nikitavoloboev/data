@@ -154,6 +154,8 @@
 - [Persistence](https://github.com/Ebanflo42/Persistence) - Topological data analysis library for Haskell.
 - [predicate-typed](https://github.com/gbwey/predicate-typed) - Refinement type library.
 - [explainable-predicates](https://github.com/cdsmith/explainable-predicates) - Predicates that can explain themselves.
+- [json-syntax](https://github.com/byteverse/json-syntax) - High-performance JSON parser.
+- [bytesmith](https://github.com/byteverse/bytesmith) - Parse bytes fast.
 
 ## Links
 

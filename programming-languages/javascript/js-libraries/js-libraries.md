@@ -615,6 +615,10 @@
 - [Postal.js](https://github.com/postaljs/postal.js) - JavaScript pub/sub library supporting advanced subscription features, and several helpful add-ons.
 - [slugo](https://github.com/egoist/slugo) - Smallest possible slug utility for Node.js and Browser.
 - [Dry](https://github.com/jonschlinkert/dry) - Superset of the Liquid templating language, with first-class support for advanced inheritance features, and more.
+- [Bloom-Filters](https://github.com/Callidon/bloom-filters) - JS implementation of probabilistic data structures: Bloom Filter (and its derived), HyperLogLog, Count-Min Sketch, Top-K and MinHash.
+- [Session Resume](https://github.com/github/session-resume) - Annotate fields to be persisted on navigation away from the current page.
+- [Atropos](https://github.com/nolimits4web/atropos) - Lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects. ([Web](https://atroposjs.com/))
+- [Graph Dracula](https://github.com/strathausen/dracula) - JavaScript Graph Library.
 
 ## Links
 

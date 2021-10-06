@@ -80,6 +80,8 @@
 - Use proper punctuation and capitalize things appropriately. Use simple language. Be concise & clear.
 - Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Add useful details where needed.
 - Remove unnecessary and [filler words](../writing/writing.md#dont-use). Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
+- Don't assume and say that something is straightforward or clear.
+- Writing/teaching in earliest stages of understanding something is most valuable as you haven't built any biases and approach thing with a fresh mind. Its okay to be wrong (sincerely) and update my writing based off new constructive feedback.
 - Minimize use of articles (`a`, `an`, `the`) as they in most cases add noise.
 - Hyperlink words/phrases appropriately. Use descriptive link labels ([no `this`](https://lobste.rs/s/absbtc/search_personal_websites)).
 - Use headings to separate sections in articles/docs.
@@ -88,6 +90,7 @@
 - Don't repeat myself / duplicate content. Link instead.
 - Add screenshots/screencasts where appropriate. Take accessibility into account (good visibility of text).
 - Clear my thinking and journal. Look back on the day and plan the next.
+- Keep my writing & thinking (especially the wiki) up to date with my latest view on things. Things/opinions change, update accordingly.
 
 ## Tools
 

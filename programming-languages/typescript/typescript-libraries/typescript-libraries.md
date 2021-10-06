@@ -160,6 +160,7 @@
 - [tsafe](https://github.com/garronej/tsafe) - Missing TypeScript builtins.
 - [better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library.
 - [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
+- [Funfix](https://github.com/funfix/funfix) - Functional Programming Library for JavaScript, TypeScript.
 
 ## Links
 
@@ -176,3 +177,4 @@
 - [my-ts-lib](https://github.com/egoist/ts-lib-starter) - Minimal TypeScript library starter.
 - [typescript-npm-package-template](https://github.com/ryansonshine/typescript-npm-package-template) - Template to kickstart creating a Node.js module using TypeScript and VSCode.
 - [typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown) - Plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
+- [TypeScript Module Loader](https://github.com/lukeed/tsm)

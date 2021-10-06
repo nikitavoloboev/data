@@ -11,6 +11,7 @@ Here are few more things I liked, design wise.
 - [GitHub](https://github.com/)
 - [Clubhouse](https://www.joinclubhouse.com/)
 - [Stitches](https://stitches.dev/) ([Code](https://github.com/modulz/stitches-site))
+- [PlanetScale](https://planetscale.com/)
 - [Solana](https://solana.com/)
 - [Scale](https://scale.com/)
 - [Arrival](https://arrival.com/)

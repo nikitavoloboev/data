@@ -48,4 +48,4 @@
 - [Armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration. ([Web](https://armory3d.org/))
 - [Blender and the Rabbids (2021)](https://www.blender.org/user-stories/blender-and-the-rabbids/) ([HN](https://news.ycombinator.com/item?id=27729331))
 - [Blender Toolbox](https://github.com/HTDerekLiu/BlenderToolbox) - Python scripts for rendering 3D shapes in Blender.
-- [Tutorials for making 3D-looking maps with Blender and QGIS](https://github.com/JoeWDavies/geoblender)
+- [Shaded Relief Maps in Blender](https://github.com/JoeWDavies/geoblender) ([HN](https://news.ycombinator.com/item?id=28748881))

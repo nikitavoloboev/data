@@ -66,3 +66,4 @@
 - [The Sample](https://sample.findka.com/) - Newsletters curated for you with machine learning. ([HN](https://news.ycombinator.com/item?id=27664020))
 - [Naive Newsletter Delivery (2021)](https://www.lpalmieri.com/posts/naive-newsletter-delivery/)
 - [Advice on writing/newsletters (2021)](https://twitter.com/GergelyOrosz/status/1442537833495990278)
+- [Sending newsletters should cost something (2021)](https://www.rmhsilva.com/w/blockchain-mail-b-mail/) ([HN](https://news.ycombinator.com/item?id=28758125))

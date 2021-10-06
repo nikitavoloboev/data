@@ -115,3 +115,4 @@
 - [The Universe Has Already Made Almost All the Stars It Will Ever Make (2021)](https://nautil.us/issue/104/harmony/the-universe-already-made-almost-all-the-stars-it-will-ever-make) ([HN](https://news.ycombinator.com/item?id=28391978))
 - [A Closer Look: How I Created a 248MP Photo of the Sun (2021)](https://petapixel.com/2021/09/15/a-closer-look-how-i-created-a-248mp-photo-of-the-sun/) ([HN](https://news.ycombinator.com/item?id=28549643))
 - [The Shape of Space (2018)](https://placesjournal.org/article/the-shape-of-space/) - What the orbital space habitats designed for NASA in 1975 can teach us about living in new geometries.
+- [Squeezing Down the Theory Space for Cosmic Inflation (2021)](https://physics.aps.org/articles/v14/135) ([HN](https://news.ycombinator.com/item?id=28753225))

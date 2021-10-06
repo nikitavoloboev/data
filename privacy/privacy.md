@@ -100,3 +100,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Privacy.Sexy](https://privacy.sexy/) - Enforce privacy & security on Windows and macOS. ([Code](https://github.com/undergroundwires/privacy.sexy))
 - [Why not Signal?](https://dessalines.github.io/essays/why_not_signal.html) ([Lobsters](https://lobste.rs/s/qgkckr/why_not_signal))
 - [Google and Facebook, I am facilitating packet filtering to block your tracking (2021)](https://peguero.xyz/blog/google_and_facebook_i_am_facilitating_packet_filtering_to_block_your_tracking.html) ([Lobsters](https://lobste.rs/s/jpca2y/google_facebook_i_am_facilitating_packet))
+- [Open Privacy Vault](https://openprivacy.io/) - Open Source PII as a Service. ([Code](https://github.com/open-privacy/opv))

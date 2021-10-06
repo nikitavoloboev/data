@@ -95,3 +95,4 @@
 - [GPU Programming in Julia (2021)](https://www.youtube.com/watch?v=aKRv-W9Eg8g) ([Code](https://github.com/maleadt/juliacon21-gpu_workshop))
 - [Julia Enhancement Proposals](https://github.com/JuliaLang/Juleps)
 - [Julia Data Science Book](https://juliadatascience.io/) ([Code](https://github.com/JuliaDataScience/JuliaDataScience))
+- [New features coming in Julia 1.7 (2021)](https://lwn.net/SubscriberLink/871486/e4ae97b79d72bb25/) ([HN](https://news.ycombinator.com/item?id=28753182))

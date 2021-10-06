@@ -24,6 +24,7 @@
 - [Obsidian Tasks](https://github.com/schemar/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - Adds interactive maps to Obsidian.md using Leaflet.js.
 - [Obsidian Linter](https://github.com/platers/obsidian-linter) - Obsidian plugin that enforces consistent markdown styling.
+- [Day Planner](https://github.com/lynchjames/obsidian-day-planner) - Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
 
 ## Links
 

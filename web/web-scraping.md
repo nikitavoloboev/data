@@ -108,3 +108,4 @@
 - [Dyer](https://github.com/HomelyGuy/dyer) - Designed for reliable, flexible and fast web crawling, providing some high-level, comprehensive features without compromising speed.
 - [How to Crawl the Web with Scrapy (2021)](https://www.babbling.fish/scraping-for-a-job/) ([HN](https://news.ycombinator.com/item?id=28514998))
 - [PageMetaScraper](https://github.com/olerichter00/page-meta-scraper) - Page metadata scraper with several fallback strategies.
+- [cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl URLs and scan for endpoints, secrets, API keys, file extensions, tokens and more.

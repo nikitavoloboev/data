@@ -61,3 +61,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Personal data backup plan (2020)](https://jacobbednarz.com/personal-data-backup-plan)
 - [How I store my files (2021)](https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html) ([HN](https://news.ycombinator.com/item?id=28003119))
 - [Saving a restic backup the hard way (2021)](http://blog.pkh.me/p/30-saving-a-restic-backup-the-hard-way.html)
+- [Ask HN: How should I back up data on devices if I'm not smart? (2021)](https://news.ycombinator.com/item?id=28758415)

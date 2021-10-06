@@ -239,6 +239,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - With Audible plans, you can do easy exchanges. Don’t love a book? Swap it for free, anytime.
 - [Kindle changed the way we read books and then… stopped there. I want social highlights, notes, flash cards, and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)](https://twitter.com/Altimor/status/1003408586553294856)
 - [Some day you will be old enough to start reading fairy tales again.](https://www.reddit.com/r/RationalPsychonaut/comments/n2p74z/i_wish_great_geniuses_physicists_scientists_etc/)
+- [Read what you love until you love to read.](https://twitter.com/id_aa_carmack/status/1445424833181925376)
 
 ## Links
 

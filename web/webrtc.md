@@ -56,3 +56,4 @@
 - [The evolution of WebRTC 1.0. - Advancing WebRTC (2021)](https://blog.mozilla.org/webrtc/the-evolution-of-webrtc/) ([HN](https://news.ycombinator.com/item?id=28387531))
 - [Matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm. ([Intro](https://johanhelsing.studio/posts/introducing-matchbox)) ([Lobsters](https://lobste.rs/s/tdbwam/introducing_matchbox_painless_peer_peer))
 - [WebRTC-404 (2021)](https://speakerdeck.com/hellsquirrel/webrtc-404)
+- [SDP-Rust](https://github.com/webrtc-rs/sdp) - Pure Rust implementation of SDP.

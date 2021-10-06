@@ -26,3 +26,4 @@
 - [eslint-plugin-effector](https://github.com/igorkamyshev/eslint-plugin-effector) - Enforcing best practices for Effector.
 - [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - Provide a defineConfig function for .eslintrc.js files.
 - [eslint-plugin-testing-library](https://github.com/testing-library/eslint-plugin-testing-library) - ESLint plugin to follow best practices and anticipate common mistakes when writing tests with Testing Library.
+- [eslint-plugin-react-memo](https://github.com/steadicat/eslint-plugin-react-memo) - Enforce that all function components are wrapped in React.memo, and that all props and deps are wrapped in useMemo/useCallback so they don’t break memo.

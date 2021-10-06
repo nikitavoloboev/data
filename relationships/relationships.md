@@ -124,3 +124,6 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Suggestions for books to improve my relationships with women and what healthy relationships with women look like (romantic relationships) (2021)](https://www.reddit.com/r/suggestmeabook/comments/piznz5/suggestions_for_books_to_improve_my_relationships/)
 - [Pure](https://pure.app/) - Shameless dating app.
 - [What is a standard you have for men that some might consider high? (2021)](https://www.reddit.com/r/AskWomen/comments/pzpx8n/what_is_a_standard_you_have_for_men_that_some/)
+- [My husband has never had sex with another woman and now his curiosity is ruining our marriage](https://www.reddit.com/r/Marriage/comments/69glta/my_husband_has_never_had_sex_with_another_woman/)
+- [Leave a Cheater, Gain a Life: The Chump Lady's Survival Guide by Tracy Schorn (2016)](https://www.goodreads.com/en/book/show/25898115)
+- [Love Must Be Tough: New Hope for Marriages in Crisis by James C. Dobson (2004)](https://www.goodreads.com/book/show/56415.Love_Must_Be_Tough)

@@ -94,3 +94,4 @@
 - [NO_COLOR](http://no-color.org/) - Disabling ANSI color output in various Unix commands. ([Code](https://github.com/jcs/no_color))
 - [FettePalette](https://github.com/meodai/fettepalette) - Color palette generation function using curves within the HSV color model.
 - [The Geometry of Color Perception](https://www.handprint.com/HP/WCL/color2.html) ([HN](https://news.ycombinator.com/item?id=28627333))
+- [CSS gradient resampler](https://workshop.mass-driver.com/gradients)

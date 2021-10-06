@@ -60,6 +60,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Zas](https://github.com/imdario/zas) - Most simple static website generator in Go.
 - [Bridgetown](https://www.bridgetownrb.com/) - Webpack-aware, Ruby-powered static site generator for the modern Jamstack era. ([Code](https://github.com/bridgetownrb/bridgetown)) ([Twitter](https://twitter.com/bridgetownrb))
 - [babe](https://github.com/askonomm/babe) - Data oriented static site generator.
+- [Lume](https://github.com/lumeland/lume) - Static site generator for Deno.
 
 ## Notes
 

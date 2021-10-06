@@ -18,6 +18,7 @@
 - [That's the way it's always been" is never an adequate reason to continue doing something.](https://twitter.com/PicardTips/status/1434244511069184001)
 - [Звонок (тем более всей команды) — это очень дорогая операция. Нормального созвониться раз в неделю. Нормально созвониться, если есть конфликт.](https://twitter.com/kolyuchii/status/1428644858428895245)
 - [At Shopify, we tend to do whatever our engineers want in this regard. My team meets weekly and looks at a kanban project board. If we need to adjust, we have retros, etc and change the process. We have the autonomy. IMO while you need some consistency to get alignment on goals at a high level and coarse quarter-level goals, at the team level you can more or less let the team decide and then judge them on their effectiveness.](https://news.ycombinator.com/item?id=28669734) ([Tweet](https://twitter.com/GergelyOrosz/status/1442489057381134345))
+- [Holding others accountable is overrated. Holding yourself accountable is underrated.](https://twitter.com/ResilienttHuman/status/1445188664062001199)
 
 ## Links
 

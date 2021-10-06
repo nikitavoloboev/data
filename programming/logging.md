@@ -51,3 +51,4 @@
 - [errorpush](https://github.com/hauxir/errorpush) - Minimalist Sentry alternative using PostgreSQL.
 - [Apache Flume](https://flume.apache.org/) - Distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. ([Minimalist Guide to Flume](https://tech.marksblogg.com/minimalist-guide-tutorial-flume.html))
 - [Monika](https://github.com/hyperjumptech/monika) - Command line application to monitor every part of your web app using a simple JSON configuration file. Get alert not only when your site is down but also when it's slow. ([Web](https://monika.hyperjump.tech/))
+- [My Logging Best Practices (2020)](https://tuhrig.de/my-logging-best-practices/) ([HN](https://news.ycombinator.com/item?id=28759492))

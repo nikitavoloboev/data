@@ -173,6 +173,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
 - [Mural](https://mural.co/) - Digital workspace for visual collaboration.
 - [Formspree](https://formspree.io/) - Custom Forms with No Server Code.
+- [Find discussions around the web](https://discussions.xojoc.pw/)
 - [Imperial](https://imperialb.in/) - Code/text sharing site with the user experience in mind, it has feautures such as editing, encryption and integration with github gists and discord. ([Code](https://github.com/imperialbin/imperial))
 - [Slapdash](https://slapdash.com/) - Brings all your apps together in one place to give you new superpowers.
 - [Tiny Letter](https://tinyletter.com)
@@ -208,6 +209,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Appstitch](https://appstitch.dev/) - Low-code alternative for Stripe/Twilio Integrations. ([HN](https://news.ycombinator.com/item?id=25821898))
 - [Kosmik](https://lithium.paris/) - Your all-in-one creative space.
 - [PlantText UML Editor](https://www.planttext.com/)
+- [Orbit](https://github.com/gulien/orbit) - Cross-platform task runner for executing commands and generating files from templates.
 - [Paysly](https://paysly.io/) - Verifiable Payments in a single API call.
 - [Gaupol](https://otsaloma.io/gaupol/) - Editor for text-based subtitles. ([Code](https://github.com/otsaloma/gaupol))
 - [Bubble](https://bubble.io/) - The best way to build web apps without code. ([HN](https://news.ycombinator.com/item?id=27979399))
@@ -222,6 +224,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Athens](https://github.com/athensresearch/athens) - Open-Source Roam Research. ([HN](https://news.ycombinator.com/item?id=26316793)) ([Web](https://athensresearch.github.io/athens/))
 - [RustDesk](https://rustdesk.com/) - Best open source remote desktop software. ([Code](https://github.com/rustdesk/rustdesk))
 - [Spore](https://spore.build/) - Free, all-in-one tool for creators to build websites to truly own, grow, & monetize their relationship with fans. ([Tweet](https://twitter.com/JoshConstine/status/1408116841554219011))
+- [Gotenberg](https://gotenberg.dev/) - Docker-powered stateless API for PDF files. ([Code](https://github.com/gotenberg/gotenberg))
 - [Macrov](https://www.usemacro.com/) - Checklists, reimagined - supercharge your team’s processes.
 - [Stackby](https://stackby.com/) - Spreadsheets Databases and APIs in single workspace. ([HN](https://news.ycombinator.com/item?id=26601502))
 - [Bloom](https://bloom.sh/) - All-in-one workspace. Open Source Inbox, Calendar, Files, Contacts & much more. ([Code](https://github.com/skerkour/bloom))

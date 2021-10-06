@@ -557,3 +557,5 @@
 - [Learning to Superoptimize Real-world Programs (2021)](https://arxiv.org/abs/2109.13498)
 - [Data Movement Is All You Need: A Case Study on Optimizing Transformers (2020)](https://arxiv.org/abs/2007.00072) ([Code](https://github.com/spcl/substation))
 - [Reading List for Topics in Representation Learning](https://github.com/Mehooz/awesome-representation-learning)
+- [Курс по машинному обучению для 3 курса факультета ВМК МГУ (2021)](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22)
+- [Deep Learning with Python, Second Edition (2021)](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=keras&a_bid=76564dff) ([Code](https://github.com/fchollet/deep-learning-with-python-notebooks))

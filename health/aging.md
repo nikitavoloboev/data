@@ -12,6 +12,7 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [You’re not running out of time, you’re running out of energy working on the wrong stuff.](https://twitter.com/shl/status/1399716801596981249)
 - [Rapamycin meaningfully makes every organism we’ve tested live longer. Yeast cells, mice, apes and almost certainly humans.](https://twitter.com/justindross/status/1416777191820517384)
 - [Don't worry about life' uncertainties. It will all be good.](https://twitter.com/SkarSkarSkar/status/1441394710510141448)
+- [At 40, I've done some of the best work I've ever done and my pay has been better than ever. I'm 52 now and the trend has only gotten better. Why? Its because at 40, I had a much deeper understanding of the tech, I understood of the whole business process and I had the maturity to deal with people in a productive way. You won't find all of those in a 25 year old developer. The only way that age becomes a detriment is if you do not grow. I worked with someone my age who only strong skills are a large enterprise storage system. He is a dinosaur and his future is limited. That's not his age, its the way he chose to build is CV. Age is just number guys. Stay current, keep learning and stay strong.](https://news.ycombinator.com/item?id=28757964)
 
 ## Links
 
@@ -75,3 +76,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [The long lives of primates and the ‘invariant rate of ageing’ hypothesis (2021)](https://www.nature.com/articles/s41467-021-23894-3)
 - [Is Aging Inevitable? (2021)](https://joshmitteldorf.scienceblog.com/2021/06/17/is-aging-inevitable/) ([HN](https://news.ycombinator.com/item?id=27954865))
 - [Preparing For a World With Longer Life Expectancy (2021)](https://www.youtube.com/watch?v=nnnXVUWlTkI) ([Reddit](https://www.reddit.com/r/longevity/comments/q05691/david_sinclair_preparing_for_a_world_with_longer/))
+- [Is 40 the New 60? (2021)](https://neverworkintheory.org/2021/10/03/is-40-the-new-60.html) ([HN](https://news.ycombinator.com/item?id=28757964))

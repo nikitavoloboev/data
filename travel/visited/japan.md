@@ -45,3 +45,4 @@
 - [The Animated History of Japan (2019)](https://www.youtube.com/watch?v=8Zwi3XXLci8)
 - [Haku](https://codeberg.org/wimvanderbauwhede/haku) - Toy functional programming language based on literary Japanese. ([HN](https://news.ycombinator.com/item?id=28624483))
 - [Japan breaks world record for fastest internet speed (2021)](https://www.freethink.com/technology/fastest-internet-speed) ([HN](https://news.ycombinator.com/item?id=28673726))
+- [GiNZA](https://github.com/megagonlabs/ginza) - Japanese NLP Library using spaCy as framework based on Universal Dependencies.

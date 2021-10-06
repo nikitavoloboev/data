@@ -11,6 +11,10 @@
 
 - [Whatever you say boomer](https://twitter.com/neekolul/status/1234601269127458817)
 
+## Notes
+
+- [Dance to express, not to impress.](https://www.reddit.com/r/RationalPsychonaut/comments/q1yd9p/what_do_you_guys_think_about_dancing/)
+
 ## Links
 
 - [Vibz](http://vibz.dance/) - Innovative dance tutorial application.

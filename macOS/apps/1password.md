@@ -19,3 +19,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [gokey](https://github.com/cloudflare/gokey) - Simple vaultless password manager in Go.
 - [Behind the scenes of 1Password for Linux (2021)](https://dteare.medium.com/behind-the-scenes-of-1password-for-linux-d59b19143a23)
 - [1PasswordSuite](https://github.com/djhohnstein/1PasswordSuite) - Utilities to extract secrets from 1Password.
+- [Setting Env Vars From 1password (2021)](https://rossedman.io/blog/computers/setting-env-vars-from-1password/)

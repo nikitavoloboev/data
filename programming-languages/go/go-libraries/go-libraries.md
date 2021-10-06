@@ -266,6 +266,7 @@
 - [gosq](https://github.com/sanggonlee/gosq) - Parsing engine for a simplicity-focused, template-based SQL query builder for Go.
 - [pgtype](https://github.com/jackc/pgtype) - Implements Go types for over 70 PostgreSQL types.
 - [scany](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more.
+- [pglock](https://github.com/cirello-io/pglock) - PostgreSQL Lock Client for Go.
 
 ## ML
 
@@ -330,6 +331,7 @@
 - [panicwrap](https://github.com/mitchellh/panicwrap) - Go library for catching and handling panics in Go applications.
 - [multierr](https://github.com/andreyvit/multierr) - Merges multiple errors into a single error value in idiomatic Go way.
 - [multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together.
+- [fail](https://github.com/srvc/fail) - Better error handling solution especially for application servers.
 
 ## Other
 
@@ -975,6 +977,10 @@
 - [go-obj](https://github.com/aclements/go-obj) - Object file abstractions in Go.
 - [storage](https://github.com/containers/storage) - Go library which aims to provide methods for storing filesystem layers, container images, and containers.
 - [Helium](https://github.com/im-kulikov/helium) - Small, simple, modular constructor with some pre-built components for your convenience.
+- [Goment](https://github.com/nleeper/goment) - Go time library inspired by Moment.js.
+- [Go-string](https://github.com/boyter/go-string) - Useful Go String methods.
+- [oversight](https://github.com/cirello-io/oversight) - Erlang-like supervisor trees.
+- [Downsampling Algorithm](https://github.com/haoel/downsampling-algorithm) - Downsampling time series data algorithm in Go.
 
 ## Links
 
@@ -997,3 +1003,4 @@
 - [gomajor](https://github.com/icholy/gomajor) - Go tool for major version upgrades.
 - [genv](https://github.com/nishakm/genv) - Go imitation of Python's venv module.
 - [Vend](https://github.com/nomad-software/vend) - Small command line utility for fully vendoring module dependencies.
+- [Which Go router should I use? (2021)](https://www.alexedwards.net/blog/which-go-router-should-i-use) ([Lobsters](https://lobste.rs/s/njvqgj/which_go_router_should_i_use))

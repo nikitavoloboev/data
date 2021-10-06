@@ -78,6 +78,7 @@
 - [Quicksort and k-th smallest elements](https://apfelmus.nfshost.com/articles/quicksearch.html)
 - [How Fast Do Algorithms Improve?](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9540991) ([HN](https://news.ycombinator.com/item?id=28621057))
 - [Algorithms | Coursera](https://www.coursera.org/specializations/algorithms)
+- [Is this the simplest (and most surprising) sorting algorithm? (2021)](https://arxiv.org/abs/2110.01111) ([HN](https://news.ycombinator.com/item?id=28758106)) ([Lobsters](https://lobste.rs/s/gh1ngc/is_this_simplest_most_surprising_sorting))
 
 ## Images
 

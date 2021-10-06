@@ -310,3 +310,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins. Useful for debugging and authoring plugins.
 - [Local Storage vs Cookies](https://stackoverflow.com/questions/3220660/local-storage-vs-cookies)
 - [Web Test Runner](https://modern-web.dev/docs/test-runner/overview/) - Test runner for web applications.
+- [Display Locking API](https://github.com/WICG/display-locking) - Umbrella term of related features designed primarily to allow developers to increase performance of their sites.

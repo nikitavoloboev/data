@@ -303,3 +303,4 @@
 - [Imagination and the Impossible (2021)](http://www.neverendingbooks.org/imagination-and-the-impossible)
 - [Designer Maths (2021)](http://www.neverendingbooks.org/designer-maths)
 - [Looking through Objects - How Tomography Works! (2021)](https://www.youtube.com/watch?v=f0sxjhGHRPo) ([Tweet](https://twitter.com/sigfpe/status/1441455463439110148))
+- [Conterintuitive facts in mathematics, CS, and physics (2021)](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in) ([HN](https://news.ycombinator.com/item?id=28764416))

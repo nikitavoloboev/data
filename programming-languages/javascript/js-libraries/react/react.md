@@ -266,3 +266,4 @@
 - [Effector React Slots](https://github.com/space307/effector-react-slots)
 - [7 Lessons to Outlive React (2021)](https://www.youtube.com/watch?v=yLgq-Foc1EE)
 - [React Philosophies](https://github.com/mithi/react-philosophies) - Things I think about when I write React code.
+- [Why We Memo All the Things (2020)](https://attardi.org/why-we-memo-all-the-things/)

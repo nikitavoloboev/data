@@ -551,3 +551,4 @@ Go promotes composition over inheritance.
 - [Simple Lists: a tiny to-do list app written the old-school way (server-side Go, no JS) (2021)](https://benhoyt.com/writings/simple-lists/) ([Lobsters](https://lobste.rs/s/paulo7/simple_lists_tiny_do_list_app_written_old))
 - [Common Anti-Patterns in Go Web Applications (2021)](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
 - [Things Go needs more than generics (2021)](https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b) ([HN](https://news.ycombinator.com/item?id=28742509))
+- [The fanciest way of releasing Go binaries with GoReleaser (2021)](https://medium.com/trendyol-tech/the-fanciest-way-of-releasing-go-binaries-with-goreleaser-dbbd3d44c7fb)

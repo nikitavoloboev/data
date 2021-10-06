@@ -123,3 +123,4 @@
 - [Static Tweet Next.js](https://github.com/lfades/static-tweet) - Completely customizable static tweet for Next.js applications. ([Demo](https://static-tweet.vercel.app/))
 - [Twitter audit trail backup](https://github.com/ahmetb/twitter-audit-log) - Backs up my follower list, following list, blocked accounts list and muted accounts list periodically using GitHub Actions.
 - [retweeters](https://github.com/craftweg/retweeters) - Micro-CLI powered by NodeJS for fetching the retweeters of a tweet.
+- [Brain Marks](https://github.com/mikaelacaron/brain-marks) - Categorize your Twitter bookmarks, being created during the Big Brain Hacks Hackathon.

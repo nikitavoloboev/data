@@ -211,3 +211,5 @@
 - [nix-prefetch-github](https://github.com/seppeljordan/nix-prefetch-github) - Prefetch sources from github for nix build tool.
 - [Building reproducible Development environment with nix-shell (2021)](https://mudrii.medium.com/building-reproducible-development-environment-b1d4fb51a302)
 - [Building with Nix on Replit](https://docs.replit.com/tutorials/30-build-with-nix) ([HN](https://news.ycombinator.com/item?id=28733156))
+- [dream2nix](https://github.com/DavHau/dream2nix) - Generic framework for 2nix converters (converting from other build systems to nix).
+- [Novice Nix: Flake Templates (2021)](https://peppe.rs/posts/novice_nix:_flake_templates/)

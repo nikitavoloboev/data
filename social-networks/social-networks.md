@@ -1,17 +1,5 @@
 # Social networks
 
-I love how the internet allows the entire Earth to connect, communicate and work together no matter where you are.
-
-However I am not too fond of centralized corporations abusing their powers and providing these services at the cost of complete disregard for user's privacy and interests.
-
-Building profiles on people. Storing logs of every message you write to whomever you write. Your location, your contacts details, your likes and opinions. Storing everything in a data center forever and ever, in case such information will need to be used.
-
-It's awful, having everything you do, monitored and analyzed. Checking whether what you say or think is deemed _right_ by these authorities. Suppressing thoughts and feelings to what you should feel or think about is horrible and is in no way the world I want to live in.
-
-Fortunately, [there are alternatives](https://vimeo.com/236358264) to this little mess we got ourselves into.
-
-Social networks are a wonderful thing as they do allow us to achieve more wonderful things faster and better by connecting everyone together. It's just that connecting everyone under one roof whose house's rules are chosen by few people is not the best way to do it.
-
 ## Notes
 
 - [Facebook has recruited one of the world’s top AI teams, led by Yann LeCun. Their work and Google's are the equivalent of tobacco companies engineering cigarettes to ensure that nicotine hits a smoker's brain more quickly. Facebook and other social networks are the cigarette companies of the mind. Cigarettes blackened our lungs with tar, and social media blacken our brains with distraction, alienation, envy, and loneliness.](https://news.ycombinator.com/item?id=15421704)
@@ -24,6 +12,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [I gained a following in part because developers with larger followings would share my work. If you have a large following I highly encourage you to share the work of other creators! It costs nothing to share a blog or video but can make a huge difference to that creator!](https://twitter.com/EmmaBostian/status/1379813903417364485)
 - [Moderating a community is not censorship.](https://twitter.com/TartanLlama/status/1381145203113930753)
 - [Facebook knew its algorithm incentivized outrage. Instagram knew it hurt teen girls. Facebook has been shielding VIPs from moderation.](https://twitter.com/JoshConstine/status/1438604572419756034)
+- [The thing people don't see is that the problem isn't centralization, it's social media. Your decentralized social media will still be social media.](https://twitter.com/pvh/status/1445156784885297157)
 
 ## Links
 
@@ -135,3 +124,5 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Facebook Thrives on Criticism of “Disinformation” (2021)](https://doctorow.medium.com/facebook-thrives-on-criticism-of-disinformation-64b141d7b6c8) ([HN](https://news.ycombinator.com/item?id=28713347))
 - [Facebook's Latest Scandals: The Banality Of Hubris; The Messiness Of Humanity (2021)](https://www.techdirt.com/articles/20210929/17352047662/facebooks-latest-scandals-banality-hubris-messiness-humanity.shtml) ([Tweet](https://twitter.com/mmasnick/status/1443613056378937359))
 - [Facebook whistleblower says she wants to fix company, not harm it (2021)](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122) ([HN](https://news.ycombinator.com/item?id=28741532))
+- [Facebook Whistleblower Leaks Thousands of Pages of Incriminating Internal Docs (2021)](https://www.npr.org/2021/10/04/1042921981/facebook-whistleblower-renewing-scrutiny-of-social-media-giant?t=1633465918853) ([HN](https://news.ycombinator.com/item?id=28761294)) ([HN](https://news.ycombinator.com/item?id=28764360)) ([Tweet](https://twitter.com/micsolana/status/1445397169419296778))
+- [Statement from Mark Zuckerberg (2021)](https://www.facebook.com/4/posts/10113961365418581/?d=n) ([HN](https://news.ycombinator.com/item?id=28767700))

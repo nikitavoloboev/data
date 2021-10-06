@@ -580,3 +580,4 @@
 - [LSP-rust-analyzer](https://github.com/sublimelsp/LSP-rust-analyzer) - Convenience package for rust-analyzer.
 - [What makes Rust faster than C/C++? (2021)](https://www.reddit.com/r/rust/comments/px72r1/what_makes_rust_faster_than_cc/)
 - [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/intro.html)
+- [Rust Graphics Meetup](https://github.com/gfx-rs/meetup)

@@ -47,6 +47,7 @@
 - [My goto hosting stack for the hyperbeast stack when I'm on a budget: 1. Stick everything inside a single VPS. 2. Use Dokku to: Config Nginx for me. Manage docker containers. Run cron job to backup the db.](https://twitter.com/benawad/status/1366423507555536896)
 - [The PaaS (e.g. Heroku) vs. IaaS (e.g. AWS) debate needs to be revisited. For most teams, the most surefire way to blow deadlines and run over budget is to go it alone on AWS instead of sticking with a batteries-included PaaS that lets you forget about infra and focus on the app.](https://twitter.com/searls/status/1379461145799618564)
 - [Hetzner has nice cheap servers](https://twitter.com/shipilev/status/1444618666826424322)
+- [Nothing beats a good VPS server. No need for complex architectures/serverless in most projects.](https://twitter.com/pierregillesl/status/1445339116405604359)
 
 ## Links
 

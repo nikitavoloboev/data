@@ -97,3 +97,4 @@
 - [Imposm](https://github.com/omniscale/imposm3) - Imports OpenStreetMap data into PostGIS.
 - [carbonplan / maps](https://github.com/carbonplan/maps) - Interactive multi-dimensional data-driven web maps. ([Web](https://maps.demo.carbonplan.org/))
 - [There’s a Multibillion-Dollar Market for Your Phone’s Location Data (2021)](https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data) ([HN](https://news.ycombinator.com/item?id=28730532))
+- [Dask Geopandas](https://github.com/mrocklin/dask-geopandas) - Parallelized GeoPandas with Dask.

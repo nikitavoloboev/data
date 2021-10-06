@@ -266,7 +266,7 @@
 - [Debugging random slow writes in PostgreSQL (2021)](https://iamsafts.com/posts/postgres-gin-performance/) ([HN](https://news.ycombinator.com/item?id=27152507))
 - [PostgreSQL: Detecting slow queries quickly (2021)](https://www.cybertec-postgresql.com/en/postgresql-detecting-slow-queries-quickly/)
 - [An early look at Postgres 14 performance and monitoring improvements (2021)](https://pganalyze.com/blog/postgres-14-performance-monitoring) ([HN](https://news.ycombinator.com/item?id=27247621))
-- [Kubegres](https://www.kubegres.io/) - PostgreSQL Operator for Kubernetes.
+- [Kubegres](https://www.kubegres.io/) - Kubernetes operator allowing to deploy one or many clusters of PostgreSql pods with data replication and failover enabled out-of-the box. ([Code](https://github.com/reactive-tech/kubegres)) ([OSS release](https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/)) ([HN](https://news.ycombinator.com/item?id=28758162))
 - [Beware The Missing Foreign Key Index: A Postgres Performance Gotcha (2021)](https://dev.to/jbranchaud/beware-the-missing-foreign-key-index-a-postgres-performance-gotcha-3d5i)
 - [How difficult is to create a database software like PostgreSQL? (2021)](https://www.migops.com/blog/2021/04/17/how-difficult-is-to-create-a-database-software-like-postgresql/)
 - [PostgreSQL EXPLAIN Output Explained (2021)](https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/) ([HN](https://news.ycombinator.com/item?id=27317024))

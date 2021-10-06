@@ -126,3 +126,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Full-Text Search of Sci-Hub](https://exaly.com/?d=https://sci-hub.st/)
 - [Nota](https://github.com/willcrichton/nota) - Framework for writing academic papers, like LaTeX. ([Paper](https://willcrichton.net/nota/))
 - [Research Paper Notes](https://github.com/IvLabs/ResearchPaperNotes) ([Web](https://ivlabs.github.io/ResearchPaperNotes/))
+- [GitHub Repositories with Links to Academic Papers: Public Access, Traceability, and Evolution (2021)](https://arxiv.org/abs/2004.00199)

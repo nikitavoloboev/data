@@ -69,3 +69,4 @@
 - [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
 - [PicoGL.js](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library.
 - [nanogl](https://github.com/plepers/nanogl) - WebGL micro framework.
+- [Blub](https://github.com/Wumpf/blub) - 3D fluid simulation experiments in Rust, using WebGPU-rs.

@@ -289,3 +289,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [How Bo Burnham made INSIDE (2021)](https://www.youtube.com/watch?v=eZiSApqoI2g) ([Reddit](https://www.reddit.com/r/television/comments/pn4rlk/bo_burnham_wins_his_first_emmy_for_outstanding/))
 - [Open Video Downloader (youtube-dl-gui)](https://github.com/jely2002/youtube-dl-gui) - Cross-platform GUI for youtube-dl made in Electron and node.js. ([HN](https://news.ycombinator.com/item?id=28478603))
 - [FFmpeg to WebRTC](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from FFmpeg to WebRTC. ([HN](https://news.ycombinator.com/item?id=28614454))
+- [µStreamer](https://github.com/pikvm/ustreamer) - Lightweight and fast MJPG-HTTP streamer.

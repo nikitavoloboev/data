@@ -118,3 +118,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Bots Rating (top 500)](https://tgbots.io/)
 - [Why Telegram had to follow Apple and Google when they suspended a voting app (2021)](https://telegra.ph/Why-Telegram-had-to-follow-Apple-and-Google-when-they-suspended-a-voting-app-09-25) ([HN](https://news.ycombinator.com/item?id=28655937)) ([Tweet](https://twitter.com/jstoruser/status/1441874975346941961))
 - [Пресс-конференция Павла Дурова (2021)](https://telegra.ph/Press-konferenciya-Pavla-Durova-09-30)
+- [Telegram Channels](https://telegramchannels.me/) - 18000+ Telegram Channels, Groups, Bots and Stickers List.

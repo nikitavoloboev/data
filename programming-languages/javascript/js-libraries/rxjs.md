@@ -14,3 +14,4 @@
 - [rxjs-proxify](https://github.com/kosich/rxjs-proxify) - Turn a Stream of Objects into an Object of Streams.
 - [Build Reactive Websites with RxJS: Master Observables and Wrangle Events](https://pragprog.com/titles/rkrxjs/build-reactive-websites-with-rxjs/)
 - [ESLint rules for RxJS](https://github.com/cartant/eslint-plugin-rxjs)
+- [Elf](https://github.com/ngneat/elf) - Reactive immutable state management solution built on top of RxJS. ([Web](https://ngneat.github.io/elf/))

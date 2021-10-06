@@ -106,3 +106,4 @@
 - [Exqlite](https://github.com/elixir-sqlite/exqlite) - Elixir SQLite3 library.
 - [A Minimalist Guide to SQLite (2017)](https://tech.marksblogg.com/sqlite3-tutorial-and-guide.html)
 - [SQLime](https://sqlime.org/) - Online SQLite playground for debugging and sharing SQL snippets. ([Code](https://github.com/nalgeon/sqlime)) ([HN](https://news.ycombinator.com/item?id=28669703))
+- [Implementing a graph database in SQLite](https://sqlite.org/draft/lang_with.html#rcex3)

@@ -56,3 +56,4 @@
 - [Random Sampling of Strings from Context-Free Grammar (2021)](https://rahul.gopinath.org/post/2021/07/27/random-sampling-from-context-free-grammar/)
 - [Tough Fuzzer](https://github.com/stevenjohnstone/toughfuzzer) - Obstacle course for go-fuzz composed of a series of small code samples which encapsulate the most common obstacles to code-coverage the fuzzer will encounter.
 - [gramfuzz](https://github.com/d0c-s4vage/gramfuzz) - Grammar-based fuzzer that lets one define complex grammars to model text and binary data formats.
+- [GOFUZZ](https://github.com/souvikinator/gofuzz) - Fast web fuzzer which takes in URL as input and test the URL for different set of inputs provided by the user.

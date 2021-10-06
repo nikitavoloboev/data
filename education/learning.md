@@ -155,3 +155,4 @@
 - [Powerful Teaching: Unleash the Science of Learning Book](https://www.powerfulteaching.org/) ([Twitter](https://twitter.com/RetrieveLearn))
 - [Khan Academy](https://www.khanacademy.org/) - Free Online Courses, Lessons & Practice. ([GitHub](https://github.com/Khan))
 - [Do you practice? (2021)](https://lobste.rs/s/h45sn7/do_you_practice)
+- [What Is Your Favorite Deep, Elegant, or Beautiful Explanation? (2012)](https://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation)

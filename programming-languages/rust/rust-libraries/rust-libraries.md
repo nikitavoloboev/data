@@ -990,6 +990,8 @@
 - [debug-ignore](https://github.com/sunshowers/debug-ignore) - Newtype wrapper that causes Debug impls to skip a field.
 - [subprocess](https://github.com/hniksic/rust-subprocess) - Execution of and interaction with external processes and pipelines.
 - [Enarx Keep Loader](https://github.com/enarx/enarx-keepldr) - Provides the enarx-keepldr executable which loads static-pie binaries into an Enarx Keep.
+- [ArcSwap](https://github.com/vorner/arc-swap) - Support atomic operations on Arc itself.
+- [Oddio](https://github.com/Ralith/oddio) - Game-oriented audio library.
 
 ## Cargo Plugins
 

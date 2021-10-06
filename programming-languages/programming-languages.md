@@ -245,3 +245,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Code2flow](https://github.com/scottrogowski/code2flow) - Generates call graphs for dynamic programming language.
 - [The seven programming ur-languages (2021)](https://madhadron.com/posts/seven_languages.html) ([Lobsters](https://lobste.rs/s/kwpyt8/seven_programming_ur_languages))
 - [Programming languages resources](https://bernsteinbear.com/pl-resources/)
+- [Implicit Overflow Considered Harmful (and how to fix it) (2021)](https://blog.polybdenum.com/2021/10/03/implicit-overflow-considered-harmful-and-how-to-fix-it.html) ([Lobsters](https://lobste.rs/s/5tuhxf/implicit_overflow_considered_harmful))

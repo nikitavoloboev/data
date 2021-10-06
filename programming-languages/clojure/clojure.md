@@ -152,3 +152,5 @@
 - [Reactive Clojure: A web language](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc) ([HN](https://news.ycombinator.com/item?id=28630209))
 - [Develop native mobile apps with JVM Clojure, GraalVM, SCI and Skia (2021)](https://www.reddit.com/r/Clojure/comments/p3jojl/develop_native_mobile_apps_with_jvm_clojure/)
 - [rewrite-clj](https://github.com/clj-commons/rewrite-clj) - Rewrite Clojure code and edn.
+- [Interactive Clojure browser testing with nbb, Calva and nREPL (2021)](https://www.reddit.com/r/Clojure/comments/q13kio/instant_browser_testing_from_calva_with_nbb_and/)
+- [Monads for Clojure Programmers (2021)](https://cuddly-octo-palm-tree.com/posts/2021-10-03-monads-clojure/) ([HN](https://news.ycombinator.com/item?id=28745059))

@@ -295,3 +295,4 @@ I love Git and version control. And I use version control over any project I do.
 - [What if Git worked with Programming Languages?](https://github.com/GavinMendelGleason/syntactic_versioning) ([HN](https://news.ycombinator.com/item?id=28670372))
 - [Smimesign](https://github.com/github/smimesign) - S/MIME signing utility for use with Git.
 - [GitHint](https://githint.com/) - Find an answer to your git question.
+- [Working With Multiple Git Configs (2021)](https://rossedman.io/blog/computers/working-with-multiple-git-configs/)

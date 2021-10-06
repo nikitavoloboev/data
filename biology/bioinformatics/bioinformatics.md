@@ -155,3 +155,4 @@
 - [INDRA (Integrated Network and Dynamical Reasoning Assembler)](https://github.com/sorgerlab/indra) - Automated model assembly system, originally developed for molecular systems biology and then generalized to other domains. ([Web](http://www.indra.bio/))
 - [Reproducible, scalable, and shareable analysis pipelines with bioinformatics workflow managers](https://github.com/GoekeLab/bioinformatics-workflows)
 - [Neural Distance Embeddings for Biological Sequences (2021)](https://arxiv.org/abs/2109.09740) ([Code](https://github.com/gcorso/NeuroSEED))
+- [Protein complex prediction with AlphaFold-Multimer (2021)](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v1) ([Tweet](https://twitter.com/DeepMind/status/1445335773440585729))

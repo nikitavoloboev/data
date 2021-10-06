@@ -202,3 +202,4 @@
 - [wasup](https://github.com/NicholasLYang/wasup) - Zero-dependency, isomorphic library for emitting WebAssembly.
 - [WasmCert](https://github.com/Huxpro/WasmCert) - Coq mechanization of WebAssembly specification.
 - [WebAssembly Website Code](https://github.com/WebAssembly/website)
+- [wasmCloud Host Runtime](https://github.com/wasmCloud/wasmcloud-otp) - Server process that securely hosts and provides dispatch for actors and capability providers.

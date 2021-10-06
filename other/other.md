@@ -33,6 +33,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [When your existence outside the workplace is devoid of meaning, you’ll confuse your place of work with your entire life.](https://twitter.com/dvassallo/status/1386831102359179264)
 - Play stupid games win stupid prizes.
 - [Social consensus is not the same thing as truth.](https://twitter.com/balajis/status/1398245943128956936)
+- [Stop coming to overarching conclusions](https://twitter.com/tszzl/status/1445163212572401674)
 
 ## Other
 

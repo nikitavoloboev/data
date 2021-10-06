@@ -122,3 +122,5 @@
 - [How percentile approximation works and why it's more useful than averages (2021)](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/) ([HN](https://news.ycombinator.com/item?id=28526966))
 - [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)
 - [posteriordb](https://github.com/stan-dev/posteriordb) - Database with posteriors of interest for Bayesian inference.
+- [Simplest example of Simpson's paradox (2021)](https://blog.plover.com/2021/10/02/#simpson-paradox) ([Lobsters](https://lobste.rs/s/xegtta/simplest_example_simpson_s_paradox))
+- [Complex Systems: a Physicist's Viewpoint (2021)](https://arxiv.org/abs/cond-mat/0205297)

@@ -240,3 +240,4 @@
 - [Lessons learned from running GraphQL at scale (2021)](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb) ([HN](https://news.ycombinator.com/item?id=28650586))
 - [GiraphQL](https://github.com/hayes/giraphql) - Library for creating GraphQL schemas in typescript using a strongly typed code first approach. ([Docs](https://giraphql.com/))
 - [Categorizing GraphQL Directives into Schema or Query Type (2021)](https://stepzen.com/blog/categorize-graphql-directives) ([Tweet](https://twitter.com/gethackteam/status/1442556133588221954))
+- [OpenAPI-to-GraphQL](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL.

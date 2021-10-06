@@ -104,7 +104,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Notional Finance](https://notional.finance/) - Fixed rate lending and borrowing protocol on Ethereum. ([Code](https://github.com/notional-finance/contracts))
 - [List of 4byte identifiers to common smart contract functions](https://github.com/ethereum-lists/4bytes)
 - [Balancer](https://balancer.finance/) - Non-custodial portfolio manager, liquidity provider, and price sensor. ([Pool management](https://pools.balancer.exchange/#/)) ([GitHub](https://github.com/balancer-labs))
-- [Truffle Suite](https://www.trufflesuite.com/) - Sweet Tools for Smart Contracts. ([Docs](https://www.trufflesuite.com/docs/truffle/overview))
+- [Truffle Suite](https://www.trufflesuite.com/) - Development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier. ([Docs](https://www.trufflesuite.com/docs/truffle/overview)) ([Code](https://github.com/trufflesuite/truffle))
 - [Why Proof of Stake (2020)](https://vitalik.ca/general/2020/11/06/pos2020.html) ([HN](https://news.ycombinator.com/item?id=25006793))
 - [beacon-fuzz](https://github.com/sigp/beacon-fuzz) - Differential Fuzzer for Ethereum 2.0.
 - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts) - Guidelines and training material to write secure smart contracts.
@@ -282,7 +282,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Learning resources used by the EthernautDAO](https://github.com/ethernautdao/resources)
 - [Ethereum Mars](https://github.com/EthWorks/Mars) - Infrastructure-as-code tool for Ethereum. ([Docs](https://ethereum-mars.readthedocs.io/en/latest/))
 - [Rainbow Bridge CLI](https://github.com/aurora-is-near/rainbow-bridge) - NEAR <> Ethereum Decentralized Bridge.
-- [Aurora](https://aurora.dev/) - Bridge + EVM Scaling Solution for Ethereum. ([Twitter](https://twitter.com/auroraisnear))
+- [Aurora](https://aurora.dev/) - Bridge + EVM Scaling Solution for Ethereum. ([Twitter](https://twitter.com/auroraisnear)) ([Docs](https://doc.aurora.dev/)) ([Docs Code](https://github.com/aurora-is-near/doc.aurora.dev))
 - [Solidity Template](https://github.com/ZumZoom/solidity-template) - Hardhat template for solidity projects with preconfigured Github Actions and Coveralls support.
 - [Otterscan](https://github.com/wmitsuda/otterscan) - Blazingly fast, local, Ethereum block explorer built on top of Erigon.
 - [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html) ([Code](https://github.com/sigp/solidity-security-blog))
@@ -309,3 +309,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - Set of challenges to hack implementations of DeFi in Ethereum. Featuring flash loans, oracles, governance, NFTs, lending pools, and more. ([Code](https://github.com/OpenZeppelin/damn-vulnerable-defi))
 - [svgnft](https://github.com/mikker/svgnft) - Helper library for generating fully on-chain NFTs (ERC721) on Ethereum.
 - [Gigahorse binary lifter and toolchain](https://github.com/nevillegrech/gigahorse-toolchain) - Binary lifter (and related framework) from low-level EVM code to a higher-level function-based three-address representation, similar to LLVM IR or Jimple.
+- [Best way to stake Ethereum (2021)](https://www.reddit.com/r/ethereum/comments/q1nwt2/i_finally_have_1_eth_and_im_looking_for_the_best/)

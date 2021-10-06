@@ -228,7 +228,7 @@
 - [SwiftNIO HTTP/2](https://github.com/apple/swift-nio-http2) - HTTP/2 support for SwiftNIO.
 - [Meridian](https://github.com/khanlou/Meridian) - Web server written in Swift that lets you write your endpoints in a declarative way.
 - [GraphQLKit](https://github.com/alexsteinerde/graphql-kit) - Easy setup of a GraphQL server with Vapor. It uses the GraphQL implementation of Graphiti.
-- [Kitura](https://github.com/Kitura/Kitura) - Swift web framework and HTTP server. ([Web](https://www.kitura.dev/))
+- [Kitura](https://github.com/Kitura/Kitura) - Swift web framework and HTTP server. ([Web](https://www.kitura.dev/)) ([GitHub](https://github.com/Kitura))
 - [Apodini](https://github.com/Apodini/Apodini) - Declarative, composable framework to build web services using Swift.
 - [UDPBroadcastConnection](https://github.com/gunterhager/UDPBroadcastConnection) - Framework to send UDP broadcast messages and listen to responses using a Dispatch source.
 - [Swim](https://github.com/robb/Swim) - DSL for writing HTML in Swift.
@@ -773,6 +773,7 @@
 - [SyncKit](https://github.com/mentrena/SyncKit) - Automates the process of synchronizing Core Data or Realm models using CloudKit.
 - [TextStory](https://github.com/ChimeHQ/TextStory) - Happier, more flexible NSTextStorage.
 - [OperationPlus](https://github.com/ChimeHQ/OperationPlus) - Set of NSOperation subclasses and extensions on NSOperation/NSOperationQueue.
+- [BlueSignals](https://github.com/Kitura/BlueSignals) - Generic Cross Platform Signal Handler.
 
 ## Other (not lib)
 

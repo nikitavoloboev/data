@@ -27,6 +27,7 @@
 - [re-classnames](https://github.com/MinimaHQ/re-classnames) - Reimplementation of classnames in ReasonML.
 - [Fetch](https://github.com/lessp/fetch) - Fetch libraries and interface for ReasonML/OCaml.
 - [Relude](https://github.com/reazen/relude) - FP-inspired prelude/standard library for ReasonML projects.
+- [rescript-webapi](https://github.com/tinymce/rescript-webapi) - ReScript bindings to the DOM and other Web APIs.
 
 ## Links
 

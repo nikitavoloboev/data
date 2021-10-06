@@ -99,7 +99,7 @@
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working http and https servers.
 - [Piping Server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over HTTP/HTTPS.
 - [devserver](https://github.com/kettle11/devserver) - Simple HTTPS server for local development. Implemented in Rust. ([Building devserver: An Ultra-Tiny Rust Server](https://ianjk.com/devserver/))
-- [Hurl](https://github.com/Orange-OpenSource/hurl) - Command line tool that performs HTTP requests defined in a simple plain text format. ([Docs](https://hurl.dev/))
+- [Hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text, curl and Rust. ([Docs](https://hurl.dev/)) ([HN](https://news.ycombinator.com/item?id=28758226))
 - [GoReplay](https://github.com/buger/goreplay) - Capture your existing users activity and re-use it for testing your application. With GoReplay you can perform shadowing, load testing, or detailed analysis and monitoring. ([Web](https://goreplay.org/))
 - [ht](https://github.com/ducaale/ht) - Yet another HTTPie clone in Rust. ([HN](https://news.ycombinator.com/item?id=26042463))
 - [How to use HTTPS for local development (2021)](https://web.dev/how-to-use-local-https/)
@@ -145,3 +145,5 @@
 - [Most important HTTP request headers](https://wizardzines.com/comics/request-headers/)
 - [HTTP: Learn your browser's language](https://wizardzines.gumroad.com/l/http-zine/buy-one-give-one)
 - [httpcat](https://github.com/httpie/httpcat) - Simple utility for constructing raw HTTP requests on the command line.
+- [parse-curl.js](https://github.com/tj/parse-curl.js) - Parse curl commands, returning an object representing the request.
+- [CORS Comic](https://wizardzines.com/comics/cors/)

@@ -193,3 +193,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Open Source Security Foundation (OpenSSF)](https://openssf.org/) ([GitHub](https://github.com/ossf))
 - [Allstar](https://github.com/ossf/allstar) - GitHub App installed on organizations or repositories to set and enforce security policies.
 - [WAFW00F](https://github.com/EnableSecurity/wafw00f) - Web Application Firewall Fingerprinting Tool.
+- [Analyzing the Mario Themed Malware (2021)](https://serhack.me/articles/analyzing-mario-malware-en/)

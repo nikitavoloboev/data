@@ -71,3 +71,5 @@
 - [200 Years Ago, Faraday Invented the Electric Motor (2021)](https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor) ([HN](https://news.ycombinator.com/item?id=28420468))
 - [A Summary of Electronics](https://electroagenda.com/en/a-summary-of-electronics/) ([HN](https://news.ycombinator.com/item?id=28478641))
 - [Designing Billions of Circuits with Code (2021)](https://www.youtube.com/watch?v=ihz2WY-E2C8)
+- [Teach Me PCB](https://teachmepcb.com/) ([HN](https://news.ycombinator.com/item?id=28742902))
+- [The NAND gate. One gate to rule them all](https://sebastiancarlos.medium.com/the-nand-gate-one-gate-to-rule-them-all-ee1a5dbc83dd) ([HN](https://news.ycombinator.com/item?id=28756727))
