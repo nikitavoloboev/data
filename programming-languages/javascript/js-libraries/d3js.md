@@ -41,3 +41,4 @@
 - [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
 - [D3 in Depth](https://www.d3indepth.com/) - Learn D3.js step by step.
 - [Data Visualization with D3, React, visx and Typescript (2021)](https://www.youtube.com/playlist?list=PLIHT2Jhq922bBwhH07uT_QRaPCaKZGgR_)
+- [Billboard.js](https://github.com/naver/billboard.js) - Re-usable, easy interface JavaScript chart library based on D3.js.

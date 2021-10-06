@@ -320,3 +320,4 @@
 - [Why isn’t Postgres using my index? (2021)](https://www.pgmustard.com/blog/why-isnt-postgres-using-my-index)
 - [PostgreSQL 14 (2021)](https://www.postgresql.org/about/news/postgresql-14-released-2318/) ([HN](https://news.ycombinator.com/item?id=28705699))
 - [Why we spent the last month eliminating PostgreSQL subtransactions (2021)](https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/) ([Lobsters](https://lobste.rs/s/zyyoma/why_we_spent_last_month_eliminating))
+- [PostgreSQL 14 on Kubernetes (2021)](https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes) ([HN](https://news.ycombinator.com/item?id=28767637))

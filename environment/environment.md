@@ -127,3 +127,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Probable Futures](https://probablefutures.org/)
 - [Anything But Plastic](https://www.anythingbutplastic.co.uk/) - Alternatives to Plastic.
 - [CarbonPlan](https://carbonplan.org/) - Data and science for climate action. ([Twitter](https://twitter.com/carbonplanorg))
+- [We need to take CO2 out of the sky (2021)](https://www.orbuch.com/carbon-removal/) ([HN](https://news.ycombinator.com/item?id=28765742))

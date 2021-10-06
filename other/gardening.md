@@ -19,3 +19,4 @@
 - [Candide Gardening](https://candidegardening.com/GB)
 - [Small Farmer's Journal](https://smallfarmersjournal.com/) - Quarterly Periodical, Defending Small Farms and Craftsmanship.
 - [One-Thousand Year-Old Plants (2021)](https://www.nytimes.com/2021/07/31/science/plant-leaves-welwitschia.html) ([HN](https://news.ycombinator.com/item?id=28019843))
+- [Growth Picture of the Day](https://github.com/kaiokot/gpod) - Camera module to monitor the growth of seeds and garden.

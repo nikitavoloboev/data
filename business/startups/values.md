@@ -37,6 +37,8 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Many companies try to just bolt on a tactic (i.e. "henceforth we shall write memos") without being intentional about the cultural substrate (i.e. who gets hired, how much do we value charisma vs. rigor, do people care more about correctness or optics..). Culture will eat Tactics.](https://twitter.com/shreyas/status/1397609770517815302)
 - [The fastest way to destroy an engineering culture is to blame people for raising questions and concerns.](https://twitter.com/rakyll/status/1396351409046528005)
 - [In an age of decreasing time between ideas and implementations what matters the most is the “generating function” — what culture, mental models, traits, network etc that’s responsible for innovations. That’s something copycats can never copy; they can only copy the last idea.](https://twitter.com/amasad/status/1394802328058793984)
+- [A culture is not a set of beliefs, it's a set of actions.](https://twitter.com/dhaber/status/1445479484472262663)
+- [The culture is made by people who join, not the other way around.](https://twitter.com/threepointone/status/1445397597447929857)
 
 ## Links
 

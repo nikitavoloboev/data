@@ -105,3 +105,4 @@
 - [ShipEngine](https://www.shipengine.com/) - Shipping API & Multi Carrier Shipping System. ([GitHub](https://github.com/ShipEngine))
 - [in-toto](https://in-toto.io/) - Framework to secure the integrity of software supply chains. ([Code](https://github.com/in-toto/in-toto))
 - [Teini](https://github.com/zeekrey/teini) - Extremely small web shop leveraging awesome and free solutions like github and vercel.
+- [Lumi](https://www.lumi.com/) - Collaborate with the best packaging & print suppliers. ([GitHub](https://github.com/lumihq))

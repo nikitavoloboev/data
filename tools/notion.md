@@ -73,3 +73,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Avatar Maker](https://notion-avatar.vercel.app/) - Online tool for making notion-style avatars. ([Code](https://github.com/Mayandev/notion-avatar))
 - [Notero](https://github.com/dvanoni/notero) - Zotero plugin that syncs items into a Notion database when added to a specific collection.
 - [NotionSwift](https://github.com/chojnac/NotionSwift) - Unofficial Notion API SDK for iOS & macOS.
+- [7 tools we built on Notion instead of buying (2021)](https://www.notion.so/blog/7-tools-we-built-on-notion)

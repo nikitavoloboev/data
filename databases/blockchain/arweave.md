@@ -32,3 +32,4 @@
 - [Ardk](https://github.com/textury/ardk) - JavaScript/TypeScript SDK for interacting with the Arweave network.
 - [Scar](https://scar.vercel.app/#/) - Arweave Explorer. ([Code](https://github.com/renzholy/scar))
 - [Arweave Server](https://github.com/ArweaveTeam/arweave) - Official Erlang implementation of the Arweave protocol and a gateway implementation.
+- [Arweave Names Service](https://github.com/decentldotland/ANS) - Domain Names Service - Gravatar hybrid on the Arweave network.

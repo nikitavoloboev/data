@@ -174,6 +174,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Mural](https://mural.co/) - Digital workspace for visual collaboration.
 - [Formspree](https://formspree.io/) - Custom Forms with No Server Code.
 - [Find discussions around the web](https://discussions.xojoc.pw/)
+- [Tailon](https://github.com/gvalkov/tailon) - Web app for looking at and searching through files and streams.
 - [Imperial](https://imperialb.in/) - Code/text sharing site with the user experience in mind, it has feautures such as editing, encryption and integration with github gists and discord. ([Code](https://github.com/imperialbin/imperial))
 - [Slapdash](https://slapdash.com/) - Brings all your apps together in one place to give you new superpowers.
 - [Tiny Letter](https://tinyletter.com)
@@ -217,6 +218,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Buttondown](https://buttondown.email/) - Easiest way to run your newsletter in markdown.
 - [Transloadit](https://transloadit.com/) - File Uploading, Conversion & Processing for websites/apps.
 - [Quest AI](https://www.quest.ai/) - Design to live web pages automatically with nocode.
+- [Refermo](https://refermo.co/) - Referral software for SaaS running on Paddle.
 - [FreeScout](https://freescout.net/) - Free self-hosted Zendesk & Help Scout alternative.
 - [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.

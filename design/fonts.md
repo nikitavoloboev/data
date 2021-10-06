@@ -6,8 +6,9 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 
 ## Interesting fonts
 
-- [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) ([Code](https://github.com/googlefonts/Inconsolata))
 - [Inter](https://github.com/rsms/inter) - Typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens. ([Web](https://rsms.me/inter/)) ([The story behind Inter](https://overcast.fm/+HZUeSpUyE)) ([HN](https://news.ycombinator.com/item?id=28009042))
+- [Sigurd](https://www.behance.net/gallery/127110261/Sigurd-Font-Family)
+- [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) ([Code](https://github.com/googlefonts/Inconsolata))
 - [Public Sans](https://github.com/uswds/public-sans) - Strong, neutral, principles-driven, open source typeface for text or display.
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) - Fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [Leon Sans](https://github.com/cmiscm/leonsans) - Geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
@@ -262,3 +263,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/) - Practical guide to web typography.
 - [opentype.js](https://github.com/opentypejs/opentype.js) - JavaScript parser and writer for TrueType and OpenType fonts. ([Web](https://opentype.js.org/))
 - [Improving My Website's Typography (2021)](https://kevq.uk/pimping-my-type-improving-my-websites-typography/)
+- [Blaze Type](https://blazetype.eu/) ([Twitter](https://twitter.com/BlazeFoundry))

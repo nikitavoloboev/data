@@ -25,6 +25,9 @@
 - [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - Adds interactive maps to Obsidian.md using Leaflet.js.
 - [Obsidian Linter](https://github.com/platers/obsidian-linter) - Obsidian plugin that enforces consistent markdown styling.
 - [Day Planner](https://github.com/lynchjames/obsidian-day-planner) - Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
+- [Minimal](https://github.com/kepano/obsidian-minimal) - Obsidian theme meticulously designed to feel native on desktop, mobile and tablet.
+- [Hider](https://github.com/kepano/obsidian-hider) - Hide Obsidian UI elements such as tooltips, status, titlebar and more.
+- [Minimal Setting](https://github.com/kepano/obsidian-minimal-settings) - Settings plugin to control colors and fonts in Minimal Theme.
 
 ## Links
 

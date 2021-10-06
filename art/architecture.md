@@ -21,6 +21,7 @@
 - [Nice house in forest](https://twitter.com/nickcammarata/status/1437477973381292036)
 - [Cozy](https://twitter.com/uchilka_nastya/status/1438252274111946767)
 - [Nice wooden room](https://twitter.com/dimillian/status/1438159663925800965)
+- [A. Quincy Jones home in Laurel Canyon](https://twitter.com/tylerwatamanuk/status/1445444405381320712)
 
 ## Links
 

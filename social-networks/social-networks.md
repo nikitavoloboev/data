@@ -13,6 +13,7 @@
 - [Moderating a community is not censorship.](https://twitter.com/TartanLlama/status/1381145203113930753)
 - [Facebook knew its algorithm incentivized outrage. Instagram knew it hurt teen girls. Facebook has been shielding VIPs from moderation.](https://twitter.com/JoshConstine/status/1438604572419756034)
 - [The thing people don't see is that the problem isn't centralization, it's social media. Your decentralized social media will still be social media.](https://twitter.com/pvh/status/1445156784885297157)
+- [I wonder how much any Facebook story now changes anyone's minds. There’s a group of people now quite convinced that Facebook is evil, who see any new story as proof, and the rest of us, who think it's all just a noisy mess. But what would change look like?](https://twitter.com/benedictevans/status/1445445611415736334)
 
 ## Links
 
@@ -123,6 +124,7 @@
 - [You either die an MVP or live long enough to build content moderation (2021)](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation/) ([HN](https://news.ycombinator.com/item?id=28684250))
 - [Facebook Thrives on Criticism of “Disinformation” (2021)](https://doctorow.medium.com/facebook-thrives-on-criticism-of-disinformation-64b141d7b6c8) ([HN](https://news.ycombinator.com/item?id=28713347))
 - [Facebook's Latest Scandals: The Banality Of Hubris; The Messiness Of Humanity (2021)](https://www.techdirt.com/articles/20210929/17352047662/facebooks-latest-scandals-banality-hubris-messiness-humanity.shtml) ([Tweet](https://twitter.com/mmasnick/status/1443613056378937359))
-- [Facebook whistleblower says she wants to fix company, not harm it (2021)](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122) ([HN](https://news.ycombinator.com/item?id=28741532))
+- [Facebook whistleblower says she wants to fix company, not harm it (2021)](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122) ([HN](https://news.ycombinator.com/item?id=28741532)) ([Opening statement](https://twitter.com/cspan/status/1445402571435384833))
 - [Facebook Whistleblower Leaks Thousands of Pages of Incriminating Internal Docs (2021)](https://www.npr.org/2021/10/04/1042921981/facebook-whistleblower-renewing-scrutiny-of-social-media-giant?t=1633465918853) ([HN](https://news.ycombinator.com/item?id=28761294)) ([HN](https://news.ycombinator.com/item?id=28764360)) ([Tweet](https://twitter.com/micsolana/status/1445397169419296778))
-- [Statement from Mark Zuckerberg (2021)](https://www.facebook.com/4/posts/10113961365418581/?d=n) ([HN](https://news.ycombinator.com/item?id=28767700))
+- [Statement from Mark Zuckerberg (2021)](https://www.facebook.com/4/posts/10113961365418581/?d=n) ([HN](https://news.ycombinator.com/item?id=28767700)) ([Tweet](https://twitter.com/Snowden/status/1445604626984620039))
+- [Bombshell (2021)](https://www.piratewires.com/p/bombshell) - Instagram's suicide farm, media distortion, and navigating three weeks of Facebook hysteria. ([Tweet](https://twitter.com/micsolana/status/1445137372471988235))

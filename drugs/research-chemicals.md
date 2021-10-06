@@ -45,3 +45,4 @@
 - [What is a relatively unexplored compound that you believe deserves more love/research? (2021)](https://www.reddit.com/r/researchchemicals/comments/p58biz/what_is_a_relatively_unexplored_compound_that_you/)
 - [Which RC do you wish was still around and why? (2021)](https://www.reddit.com/r/researchchemicals/comments/pnhj19/which_rc_do_you_wish_was_still_around_and_why/)
 - [[Discussion Megathread] Which research chemical is most similar to <x>? (2021)](https://www.reddit.com/r/researchchemicals/comments/py4m1a/discussion_megathread_which_research_chemical_is/)
+- [Best RCs for abstract thinking? (2021)](https://www.reddit.com/r/researchchemicals/comments/q26e4t/best_rcs_for_abstract_thinking/)

@@ -194,3 +194,6 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Allstar](https://github.com/ossf/allstar) - GitHub App installed on organizations or repositories to set and enforce security policies.
 - [WAFW00F](https://github.com/EnableSecurity/wafw00f) - Web Application Firewall Fingerprinting Tool.
 - [Analyzing the Mario Themed Malware (2021)](https://serhack.me/articles/analyzing-mario-malware-en/)
+- [Keyscope](https://github.com/SpectralOps/keyscope) - Key and secret workflow (validation, invalidation, etc.) tool built in Rust.
+- [SpectralOps](https://spectralops.io/) - Automated Code Security for Modern Teams. ([GitHub](https://github.com/SpectralOps))
+- [sizeof(cat)](https://sizeof.cat/)

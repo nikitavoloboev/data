@@ -203,6 +203,7 @@
 - [True web artisans](https://1wa.co/)
 - [Trilon](https://trilon.io/)
 - [QuickBird Studios](https://quickbirdstudios.com/) - Mobile App Solutions. ([GitHub](https://github.com/quickbirdstudios))
+- [NuxtLabs](https://nuxtlabs.com/) ([Twitter](https://twitter.com/nuxtlabs)) ([GitHub](https://github.com/nuxtlabs))
 
 ## Notes
 

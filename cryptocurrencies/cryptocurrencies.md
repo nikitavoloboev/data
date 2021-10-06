@@ -143,3 +143,5 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Coinbase Cloud](https://www.coinbase.com/cloud) - Infrastructure for companies to integrate into the cryptoeconomy, or build their own crypto apps. ([HN](https://news.ycombinator.com/item?id=28724734))
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 - [Cryptocurrencies’ Carbon Footprint Underestimated (2021)](https://blog.dshr.org/2021/10/cryptocurrencys-carbon-footprint.html) ([HN](https://news.ycombinator.com/item?id=28763485))
+- [Hummingbot](https://hummingbot.io/) - Open-source software that lets you build and run customizable trading strategies. Automate your cryptocurrency trading on centralized exchanges and decentralized protocols. ([Code](https://github.com/CoinAlpha/hummingbot))
+- [Bank of America's research report on the digital asset ecosystem titled: “Digital Assets Primer: Only the first inning”](https://twitter.com/PastryEth/status/1445565755534184452)

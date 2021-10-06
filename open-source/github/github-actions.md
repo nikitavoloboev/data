@@ -293,3 +293,4 @@
 - [GitHub Actions: Ephemeral self-hosted runners & new webhooks for auto-scaling (2021)](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/) ([HN](https://news.ycombinator.com/item?id=28601618))
 - [Learning about GitHub actions](https://github.com/Al-un/ci-github-actions)
 - [Using Composite Actions with GitHub Actions (2021)](https://doug.sh/posts/using-composite-actions-with-github-actions/)
+- [GitHub Actions: DRY your GitHub Actions configuration by reusing workflows (2021)](https://github.blog/changelog/2021-10-05-github-actions-dry-your-github-actions-configuration-by-reusing-workflows/)

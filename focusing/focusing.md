@@ -35,6 +35,7 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [The sweet spot seems to be 2 hours of leisure time per day. Over 5 hours of leisure time will actually make you feel worse.](https://twitter.com/levelsio/status/1438480377207611399)
 - [Every time I feel like I lack time, I actually lack focus.](https://twitter.com/anthilemoon/status/1443485224092913669)
 - [Action changes attitude faster than attitude changes action.](https://news.ycombinator.com/item?id=28762362)
+- [Never work on more than three to four initiatives.](https://twitter.com/rakyll/status/1445570363291627665)
 
 ## Links
 

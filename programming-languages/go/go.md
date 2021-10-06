@@ -37,6 +37,7 @@ Go promotes composition over inheritance.
 - [Go's RTS is built around a rather simple concurrent mark/sweep GC with all of the trade-offs that this implies. In the case of GHC you have a choice between a throughput-oriented moving GC and an (admittedly somewhat young) non-moving collector. On the low-latency front Go indeed has something of a head-start here, but GHC is now competitive and is improving with every release.](https://www.reddit.com/r/haskell/comments/j5slz6/how_does_haskells_gcruntime_compare_with_that_of/)
 - [Name your package for what it provides, not what it contains.](https://www.reddit.com/r/golang/comments/mjok5b/help_me_with_golang_project_structures/)
 - [Just use channels on the fly to transfer data concurrently and be done with it.](https://www.reddit.com/r/golang/comments/o9ghpp/explain_go_concurrency_worker_pool_patterns_to_me/)
+- [To improve testability in my Go programs, the only thing I do in func main is call out to another function, passing in the ‘global’ things it needs. I can call run in test code like a normal function, and use a buffer for stdout (to make assertions about what it outputs.)](https://twitter.com/matryer/status/1445651886078525446)
 
 ## Links
 

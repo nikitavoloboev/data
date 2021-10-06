@@ -125,3 +125,4 @@
 - [Ways of Working (2020)](http://bugra.github.io/posts/2020/4/26/ways-of-working/)
 - [8 ideas we use for building a great culture in a distributed team (2021)](https://twitter.com/nathanbarry/status/1440358547372457987)
 - [Living on a ranch (2021)](https://twitter.com/Julian/status/1444010018261463040)
+- [Ask HN: Why a 4-day workweek don't get traction or a major movement? (2021)](https://news.ycombinator.com/item?id=28768039)

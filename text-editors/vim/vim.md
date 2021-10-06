@@ -123,3 +123,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Moving to modern Neovim (2021)](https://toroid.org/modern-neovim) ([Lobsters](https://lobste.rs/s/hgvtpd/moving_modern_neovim))
 - [NVUI](https://github.com/rohit-px2/nvui) - NeoVim GUI written in C++ and Qt. ([HN](https://news.ycombinator.com/item?id=28351721))
 - [Vim.is](https://vim.is/) - Interactive Vim Exercises.
+- [Neovim and Tmux for JavaScript Development (2021)](https://elijahmanor.com/blog/neovim-tmux)

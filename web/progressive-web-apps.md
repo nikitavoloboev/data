@@ -1,5 +1,9 @@
 # Progressive web apps (PWA)
 
+## Notes
+
+- [Lyft saw 40% more "Install PWA" clicks vs "Download app".](https://twitter.com/develwoutacause/status/1445477194885591040)
+
 ## Links
 
 - [Progressive Web Apps on iOS are here](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7)

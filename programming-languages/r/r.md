@@ -85,3 +85,4 @@
 - [DeclareDesign](https://github.com/DeclareDesign) - Tools for declaring and diagnosing the properties of research designs. ([GitHub](https://github.com/DeclareDesign))
 - [capsule](https://github.com/MilesMcBain/capsule) - Inversion of renv for low effort reproducible R package libraries.
 - [see](https://github.com/easystats/see) - Visualization toolbox for beautiful and publication-ready figures.
+- [lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier.

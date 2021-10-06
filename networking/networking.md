@@ -304,3 +304,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [IPv6 Fundamentals: A Straightforward Approach to Understanding IPv6, 2nd Edition](https://www.ciscopress.com/store/ipv6-fundamentals-a-straightforward-approach-to-understanding-9780134670607) ([HN](https://news.ycombinator.com/item?id=28705259))
 - [CIDR.xyz](https://cidr.xyz/) - Web-based CIDR / netmask / IP address visualizer. ([Code](https://github.com/yuvadm/cidr.xyz))
 - [Steering oceans of content to the world (2017)](https://engineering.fb.com/2017/08/21/networking-traffic/steering-oceans-of-content-to-the-world/) ([HN](https://news.ycombinator.com/item?id=28755086))
+- [WiFi Connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop.

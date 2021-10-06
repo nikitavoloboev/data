@@ -102,3 +102,5 @@
 - [Differentiable and learnable robot model](https://github.com/facebookresearch/differentiable-robot-model) - Implements computations such as forward kinematics and inverse dynamics, in a fully differentiable way.
 - [YARR](https://github.com/stepjam/YARR) - Yet Another Robotics and Reinforcement (YARR) learning framework for PyTorch.
 - [IKBT](https://github.com/uw-biorobotics/IKBT) - Python package to solve robot arm inverse kinematics in symbolic form.
+- [Learning Periodic Tasks from Human Demonstrations (2021)](https://yjy0625.github.io/projects/viptl/) ([Tweet](https://twitter.com/yjy0625/status/1445473084648034311))
+- [Towards Learning to Play Piano with Dexterous Hands and Touch (2021)](https://arxiv.org/abs/2106.02040)

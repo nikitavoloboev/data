@@ -115,6 +115,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Read to collect the dots, write to connect them.](https://twitter.com/david_perell/status/1411871612702543872)
 - [Moving your team from slides to long form writing is not just a process change. It is first and foremost a culture change. A writing culture values comprehension over aesthetics, nuance over certainty, clarity over charisma, deliberation over impulse, and rigor over hierarchy.](https://twitter.com/shreyas/status/1421143101083512838)
 - [Write like a journalist. Adopt the inverted pyramid. Be curious. Use emotion-based questions. Tell a story. Pay attention to the details, data, & money.](https://twitter.com/ChelseaCastle/status/1422900159311142912)
+- [Good copywriting: Here's your problem. Here's the benefit of solving it. Here's why what you've tried has failed. And by the way here's a product that will help you solve it.](https://twitter.com/dickiebush/status/1445375496636743682)
 
 ## Links
 
@@ -250,3 +251,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Writing, technically (2021)](https://signalsandthreads.com/writing-technically/) ([HN](https://news.ycombinator.com/item?id=28382737))
 - [Write More, but Shorter (2021)](https://blog.kewah.com/2021/write-more-but-shorter/) ([HN](https://news.ycombinator.com/item?id=28483671))
 - [The Expanse | James S.A.Corey | Talks at Google (2014)](https://www.youtube.com/watch?v=sCsPtUo91B0)
+- [Scaling Engineering Teams via RFCs: Writing Things Down (2021)](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
