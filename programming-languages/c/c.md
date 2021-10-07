@@ -177,3 +177,5 @@
 - [pycparser](https://github.com/eliben/pycparser) - Complete C99 parser in pure Python.
 - [PackCC](https://github.com/arithy/packcc) - Parser generator for C.
 - [Why is C Faster Than My Language? (2021)](https://www.youtube.com/watch?v=vFB0Ot-ZdIM)
+- [Elements of C Style](https://www.teamten.com/lawrence/style/)
+- [pcpp](https://github.com/ned14/pcpp) - C99 preprocessor written in pure Python.

@@ -10,7 +10,7 @@
 - [Finally, Proof That Quantum Computing Can Boost Machine Learning (2019)](https://singularityhub.com/2019/03/17/finally-proof-that-quantum-computing-can-boost-machine-learning/)
 - [Quantum Computing for English Majors (2019)](https://blogs.scientificamerican.com/cross-check/quantum-computing-for-english-majors/)
 - [Quilc](https://github.com/rigetti/quilc) - Advanced optimizing compiler for the quantum instruction language Quil.
-- [Rigetti](https://www.rigetti.com/) - Bringing hardware and application development closer together can shorten the timeline to quantum advantage.
+- [Rigetti](https://www.rigetti.com/) - Full-Stack Quantum Computing. ([HN](https://news.ycombinator.com/item?id=28772402))
 - [HN: IBM will soon launch a 53-qubit quantum computer (2019)](https://news.ycombinator.com/item?id=21004615)
 - [Scott’s Supreme Quantum Supremacy FAQ! (2019)](https://www.scottaaronson.com/blog/?p=4317) ([HN](https://news.ycombinator.com/item?id=21053405))
 - [Precise measurement of quantum observables with neural-network estimators (2019)](https://arxiv.org/abs/1910.07596)
@@ -33,7 +33,6 @@
 - [Introduction to Quantum Information Science Lecture Notes (2018)](https://www.scottaaronson.com/qclec.pdf)
 - [The Argument Against Quantum Computers and the Quantum Laws of Nature](https://news.ycombinator.com/item?id=23291071)
 - [Quil: A Portable Quantum Instruction Language](https://github.com/rigetti/quil)
-- [Rigetti Computing](https://rigetti.com/) - On a mission to build the world's most powerful computer.
 - [PyQuil](https://github.com/rigetti/pyquil) - Quantum programming in Python.
 - [Grove](https://github.com/rigetti/grove) - Collection of quantum algorithms built using the Rigetti Forest platform.
 - [Picturing Quantum Processes](https://www.cambridge.org/nl/academic/subjects/physics/quantum-physics-quantum-information-and-quantum-computation/picturing-quantum-processes-first-course-quantum-theory-and-diagrammatic-reasoning?format=HB) - A First Course in Quantum Theory and Diagrammatic Reasoning.

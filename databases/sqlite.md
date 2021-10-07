@@ -81,7 +81,7 @@
 - [SQLite in production with WAL (2020)](https://victoria.dev/blog/sqlite-in-production-with-wal/) ([HN](https://news.ycombinator.com/item?id=27237919))
 - [Deno SQLite Module](https://github.com/dyedgreen/deno-sqlite)
 - [Simple application with an HTTP server & SQLite database](https://github.com/benbjohnson/myapp)
-- [SQLFluff](https://github.com/sqlfluff/sqlfluff) - SQL linter and auto-formatter for Humans. ([Web](https://www.sqlfluff.com/))
+- [SQLFluff](https://www.sqlfluff.com/) - SQL linter and auto-formatter for Humans. ([Code](https://github.com/sqlfluff/sqlfluff)) ([HN](https://news.ycombinator.com/item?id=28771656))
 - [SQLite Archiver](https://sqlite.org/sqlar/doc/trunk/README.md)
 - [How to Setup Replicated Highly Available SQLite with rqlite (2021)](https://lowendbox.com/blog/how-to-setup-replicated-highly-available-sqlite-with-rqlite/)
 - [Ask HN: What is the SQLite of nosql databases? (2021)](https://news.ycombinator.com/item?id=27490361)

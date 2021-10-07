@@ -12,3 +12,4 @@
 - [Pony, Actors, Causality, Types, and Garbage Collection (2020)](https://www.infoq.com/presentations/pony-types-garbage-collection/) ([HN](https://news.ycombinator.com/item?id=24398469))
 - [HN: Pony – High Performance Safe Actor Programming (2021)](https://news.ycombinator.com/item?id=25957307)
 - [http_server](https://github.com/ponylang/http_server) - Pony package to build server applications for the HTTP protocol.
+- [Why We Moved From Pony To Rust](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust) ([HN](https://news.ycombinator.com/item?id=28777306))

@@ -379,3 +379,4 @@
 - [LXD](https://github.com/lxc/lxd) - Next generation system container and virtual machine manager. It offers a unified user experience around full Linux systems running inside containers or virtual machines. ([Web](https://linuxcontainers.org/lxd/))
 - [Linux perf Profiler UIs (2021)](https://www.markhansen.co.nz/profiler-uis/)
 - [Linux.org.ru](https://www.linux.org.ru/) - Русская информация об ОС Linux.
+- [Moving Google toward the mainline (2021)](https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/) ([HN](https://news.ycombinator.com/item?id=28767854))

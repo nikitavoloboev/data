@@ -98,3 +98,4 @@
 - [Creating A Terraform Provider (2018)](https://medium.com/spaceapetech/creating-a-terraform-provider-part-1-ed12884e06d7) ([Code](https://github.com/spaceapegames/terraform-provider-example))
 - [Cloudflare Terraforming](https://github.com/cloudflare/cf-terraforming) - Command line utility to facilitate terraforming your existing Cloudflare resources. It does this by using your account credentials to retrieve your configurations from the Cloudflare API and converting them to Terraform configurations.
 - [Terraform OVH Provider](https://github.com/ovh/terraform-provider-ovh)
+- [Abusing Terraform to Upload Static Websites to S3 (2021)](https://www.tangramvision.com/blog/abusing-terraform-to-upload-static-websites-to-s3) ([HN](https://news.ycombinator.com/item?id=28776287))

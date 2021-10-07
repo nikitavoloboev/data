@@ -53,7 +53,7 @@
 - [pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases.
 - [plow](https://github.com/andywer/plow) - Postgres migrations and seeding made easy.
 - [New Plan](https://explain.dalibo.com/) - Analyze, visualize and share Postgres Query Plans.
-- [New Explain](https://explain.depesz.com/) - PostgreSQL's explain analyze made readable.
+- [Visualize your explain of PostgreSQL query](https://explain.depesz.com/)
 - [postgresql.conf](https://postgresqlco.nf/en/doc/param/) - Postgres configuration reference. Helps tune and optimize PostgreSQL configuration.
 - [My GOTO Postgres Configuration for Web Services (2020)](https://tightlycoupled.io/my-goto-postgres-configuration-for-web-services/)
 - [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL. ([Article](https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-scheduling/))
@@ -321,3 +321,4 @@
 - [PostgreSQL 14 (2021)](https://www.postgresql.org/about/news/postgresql-14-released-2318/) ([HN](https://news.ycombinator.com/item?id=28705699))
 - [Why we spent the last month eliminating PostgreSQL subtransactions (2021)](https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/) ([Lobsters](https://lobste.rs/s/zyyoma/why_we_spent_last_month_eliminating))
 - [PostgreSQL 14 on Kubernetes (2021)](https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes) ([HN](https://news.ycombinator.com/item?id=28767637))
+- [Lessons learned from sharding Postgres at Notion (2021)](https://www.notion.so/blog/sharding-postgres-at-notion) ([HN](https://news.ycombinator.com/item?id=28776786))

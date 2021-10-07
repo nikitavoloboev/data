@@ -294,6 +294,7 @@ Here are few more things I liked, design wise.
 - [Lydia Hallie](https://www.lydiahallie.io/)
 - [Michael Nielsen](https://michaelnielsen.org/)
 - [Liam Cooke](https://liamcooke.com/)
+- [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [Kitze](https://kitze.io/)
 - [Miriam Suzanne](https://mia.wtf/)
 - [Carolyn Stransky](https://workwithcarolyn.com/)

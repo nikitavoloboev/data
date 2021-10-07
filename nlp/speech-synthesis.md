@@ -39,3 +39,4 @@
 - [Neural Wave shaping Synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis) - Efficient neural audio synthesis in the waveform domain. ([Article](https://benhayes.net/projects/nws/))
 - [Catch-A-Waveform: Learning to Generate Audio from a Single Short Example](https://galgreshler.github.io/Catch-A-Waveform/) ([Code](https://github.com/galgreshler/Catch-A-Waveform))
 - [TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis (2020)](https://arxiv.org/abs/2011.12206) ([Code](https://github.com/rishikksh20/TFGAN))
+- [EdiTTS: Score-based Editing for Controllable Text-to-Speech](https://github.com/neosapience/EdiTTS)

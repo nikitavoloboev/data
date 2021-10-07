@@ -253,3 +253,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [parcel/watcher](https://github.com/parcel-bundler/watcher) - Native C++ Node module for querying and subscribing to filesystem events.
 - [FormData](https://github.com/octet-stream/form-data) - Spec-compliant FormData implementation for Node.js.
 - [Comedy](https://github.com/untu/comedy) - Node.js actor framework.
+- [fs-memoize](https://github.com/isaachinman/fs-memoize) - Simple, zero-dependency NodeJs filesystem memoizer.

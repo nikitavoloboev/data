@@ -276,3 +276,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Как полицейские и «штатные» понятые фабриковали уголовные дела и сами оказались на скамье подсудимых (2021)](https://www.youtube.com/watch?v=viuYhGvQUfI)
 - [«Человек-растение». Как становятся инвалидами в колонии, где «лечат» Алексея Навального (2021)](https://www.youtube.com/watch?v=gDbhxgCS_FY) ([Tweet](https://twitter.com/varlamov/status/1445328009007927301)) ([Tweet](https://twitter.com/SobolLubov/status/1445365438553149443)) ([Video](https://www.youtube.com/watch?v=Zy8NhXs-sUM))
 - [Чичваркин: У Путина два врага - Навальный и продуктовая инфляция (2021)](https://www.youtube.com/watch?v=iMaFZy0aV_o)
+- [Alexei Navalny and the West’s Schröderizatsiya (2021)](https://cepa.org/alexei-navalny-and-the-wests-schroderizatsiya/)
+- [Skillbox](https://skillbox.ru/) - Образовательная платформа с онлайн-курсами.

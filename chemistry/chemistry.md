@@ -39,3 +39,4 @@
 - [Illustrated Glossary of Organic Chemistry](http://www.chem.ucla.edu/~harding/IGOC/IGOC.html) ([Common names](http://www.chem.ucla.edu/~harding/IGOC/C/common_name.html))
 - [Solugen](https://www.solugen.bio/) - Make chemicals from sugar, not petroleum. Carbon negative chemicals. ([Twitter](https://twitter.com/solugen)) ([Tweet](https://twitter.com/sethbannon/status/1435963898402725900))
 - [3D Periodic Table](https://periodic.donghwi.dev/) ([Code](https://github.com/suhdonghwi/3d-periodic-table))
+- [The Nobel Prize in Chemistry 2021](https://www.nobelprize.org/prizes/chemistry/2021/press-release/) ([HN](https://news.ycombinator.com/item?id=28771079))

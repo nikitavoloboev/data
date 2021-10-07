@@ -260,6 +260,7 @@
 - [iou](https://github.com/ringbahn/iou) - Rust interface to io_uring.
 - [Aya](https://github.com/alessandrod/aya) - eBPF library for the Rust programming language, built with a focus on developer experience and operability. ([Article](https://confused.ai/posts/announcing-aya))
 - [sev](https://github.com/enarx/sev) - Implementation of AMD Secure Encrypted Virtualization (SEV) APIs.
+- [pam](https://github.com/1wilkens/pam) - Safe Rust API to the Linux Pluggable Authentication Modules (PAM).
 
 ## ML
 
@@ -1078,3 +1079,4 @@
 - [How often is each Clippy lint suppressed on crates.io](https://github.com/dtolnay/noisy-clippy)
 - [chartered](https://github.com/w4/chartered) - Private, authenticated cargo registry.
 - [Awesome Rust Machine Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - List of machine learning libraries written in Rust.
+- [Registry index for crates.io](https://github.com/rust-lang/crates.io-index)

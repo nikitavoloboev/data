@@ -451,3 +451,4 @@
 - [Tanzu Community Edition](https://github.com/vmware-tanzu/community-edition) - Fully-featured, easy to manage, Kubernetes platform for learners and users. ([Web](https://tanzucommunityedition.io/))
 - [Tanzu Framework](https://github.com/vmware-tanzu/tanzu-framework) - Set of building blocks to build atop of the Tanzu platform.
 - [Rancher Desktop](https://github.com/rancher-sandbox/rancher-desktop) - Open-source project to bring Kubernetes and container management to the desktop.
+- [Kubernetes Pod Inspector](https://github.com/wangjia184/pod-inspector)

@@ -21,7 +21,7 @@
 - [tonal](https://github.com/tonaljs/tonal) - Functional music theory library for JavaScript.
 - [Renoise](https://www.renoise.com/) - Digital Audio Workstation with a unique top-down approach.
 - [Overtone](https://overtone.github.io/) - Open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming.
-- [TidalCycles](https://tidalcycles.org/index.php/Welcome) - Allows you to make patterns with code, whether live coding music at algoraves or composing in the studio.
+- [Tidal Cycles](http://tidalcycles.org/) - Live coding music with Algorithmic patterns. ([Code](https://github.com/tidalcycles/Tidal))
 - [Music Grid](https://music-grid.surge.sh/) - Simple music grid web app in which you can tap on cells to create music. ([HN](https://news.ycombinator.com/item?id=23512297)) ([Code](https://github.com/irshadshalu/music-grid))
 - [mosh](https://github.com/jamesb93/mosh) - Small command-line application written in Nim for 'moshing' data into audio.
 - [OCellator](http://kevinmahoney.co.uk/ocellator/) - Lispy synth language with structural editor. ([Lobsters](https://lobste.rs/s/td8ddx/ocellator_lispy_synth_language_with))
@@ -107,6 +107,8 @@
 - [SongKit](https://songkit.app/) - AI-powered songbook app for your iPhone and iPad, letting you organize, view, and edit your songs sheets on any of your devices.
 - [wavesurfer.js](https://wavesurfer-js.org/) - Customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas. ([Code](https://github.com/katspaugh/wavesurfer.js))
 - [Sorrygle](https://github.com/JJoriping/Sorrygle) - Text-based MIDI writing language and its compiler.
+- [Twang](https://github.com/AldaronLau/twang) - Library for pure Rust advanced audio synthesis.
+- [Leipzig](https://github.com/ctford/leipzig) - Music composition library for Clojure and ClojureScript.
 
 ## Inspiration
 
@@ -253,3 +255,4 @@
 - [Web Audio Weekly](https://www.webaudioweekly.com/) - Email newsletter all about the future of audio technology on the web platform. ([Twitter](https://twitter.com/webaudioweekly))
 - [Why do we tune in 5ths?](https://www.violinist.com/discussion/archive/17290/) ([HN](https://news.ycombinator.com/item?id=28724210))
 - [Violinist.com](https://www.violinist.com/)
+- [Synthizer](https://github.com/synthizer/synthizer) - Library for game/VR audio applications. 3D audio for headphones.

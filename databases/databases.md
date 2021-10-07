@@ -430,6 +430,7 @@
 - [Notes on Database Normalization](https://www.davebernhard.com/blog/database-normalization-notes)
 - [Partitioning GitHub’s relational databases to handle scale (2021)](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/) ([HN](https://news.ycombinator.com/item?id=28678647))
 - [Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees (2021)](https://blog.cloudflare.com/introducing-r2-object-storage/) ([HN](https://news.ycombinator.com/item?id=28682237)) ([Pricing Analysis](https://twitter.com/QuinnyPig/status/1443028078196711426)) ([Tweet](https://twitter.com/threepointone/status/1443123297319899141)) ([HN](https://news.ycombinator.com/item?id=28702997))
+- [Will Cloudflare R2 Win Customers from Amazon S3? (2021)](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3) ([HN](https://news.ycombinator.com/item?id=28774782))
 - [The Reactive Monolith – How to Move from CRUD to Event Sourcing (2021)](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing) ([HN](https://news.ycombinator.com/item?id=28691728))
 - [Ask HN: Why are relational DBs are the standard instead of graph-based DBs? (2021)](https://news.ycombinator.com/item?id=28736405)
 - [Cheapest / fastest way to load Stripe data into a SQL database (2021)](https://twitter.com/Suhail/status/1441897490312138759)

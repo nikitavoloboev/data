@@ -29,3 +29,4 @@
 - [Scaffolding TLA+ (2021)](https://buttondown.email/hillelwayne/archive/scaffolding-tla/)
 - [Specification Refinement (2021)](https://www.hillelwayne.com/post/refinement/)
 - [tlacli](https://github.com/hwayne/tlacli) - CLI tool for TLA+.
+- [Current and Future Tools for Interactive TLA+ (2021)](https://emptysqua.re/blog/interactive-tla-plus/)

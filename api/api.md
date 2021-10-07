@@ -260,3 +260,4 @@
 - [gnostic](https://github.com/google/gnostic) - Go command line tool which converts JSON and YAML OpenAPI descriptions to and from equivalent Protocol Buffer representations.
 - [Postman](https://www.postman.com/) - API platform for building and using APIs. ([GitHub](https://github.com/postmanlabs)) ([Tweet](https://twitter.com/yongfook/status/1444866225469726724))
 - [Blobr](https://www.blobr.io/) - Get your branded API portal in minutes.
+- [orval](https://orval.dev/) - Generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in YAML or JSON formats. ([Code](https://github.com/anymaniax/orval))

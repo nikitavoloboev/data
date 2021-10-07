@@ -222,3 +222,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Greengrass Core Rust SDK](https://github.com/Nike-Inc/aws-greengrass-core-sdk-rust)
 - [AWS Step Functions Supports 200 AWS Services To Enable Easier Workflow Automation (2021)](https://aws.amazon.com/blogs/aws/now-aws-step-functions-supports-200-aws-services-to-enable-easier-workflow-automation/)
 - [Comparing AWS's RDS and PlanetScale (2021)](https://planetscale.com/blog/planetscale-vs-aws-rds)
+- [Terraform vs. AWS CloudFormation (2021)](https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f) ([HN](https://news.ycombinator.com/item?id=28777997))

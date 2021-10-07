@@ -456,3 +456,4 @@
 - [It takes a PhD to develop that (2021)](https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/) ([HN](https://news.ycombinator.com/item?id=28743687))
 - [Deconcentration of Attention: Addressing the Complexity of Software Engineering](http://deconcentration-of-attention.com/deconcentration-software.html) ([Lobsters](https://lobste.rs/s/pykb9p/deconcentration_attention_addressing))
 - [Offline-First Resources](https://github.com/pazguille/offline-first)
+- [Don't write bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html) ([HN](https://news.ycombinator.com/item?id=28769053))

@@ -138,3 +138,4 @@
 - [Low Bandwidth Images (2021)](https://opguides.info/posts/lowbandwidthimages/)
 - [bundlesize2](https://github.com/siddharthkp/bundlesize2) - Keep your bundle size in check.
 - [Explore JavaScript Dependencies With Lighthouse Treemap (2021)](https://sia.codes/posts/lighthouse-treemap/)
+- [My Challenge to the Web Performance Community (2021)](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)

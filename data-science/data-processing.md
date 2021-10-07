@@ -28,7 +28,7 @@
 - [Opaque](https://github.com/mc2-project/opaque) - Secure Apache Spark SQL.
 - [Apache Beam](https://github.com/apache/beam) - Unified programming model for Batch and Streaming. ([Web](https://beam.apache.org/))
 - [Stitch](https://www.stitchdata.com/) - Simple, extensible ETL built for data teams.
-- [Databricks](https://databricks.com/) - Unified Data Analytics. ([GitHub](https://github.com/databricks)) ([CLI](https://github.com/databricks/databricks-cli))
+- [Databricks](https://databricks.com/) - Unified Data Analytics. ([GitHub](https://github.com/databricks)) ([CLI](https://github.com/databricks/databricks-cli)) ([Reflecting on Four Years at Databricks (2021)](https://www.lihaoyi.com/post/ReflectingonFourYearsatDatabricks.html))
 - [AugMix](https://github.com/google-research/augmix) - Simple Data Processing Method to Improve Robustness and Uncertainty.
 - [Snapflow](https://github.com/kvh/snapflow) - Framework for building end-to-end functional data pipelines from modular components.
 - [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) - Way to specify data processing workflows with a human-readable and writeable syntax.

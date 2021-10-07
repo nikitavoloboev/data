@@ -81,3 +81,4 @@
 - [Whole Program LLVM in Go](https://github.com/SRI-CSL/gllvm) - Drop-in replacement for wllvm, that builds the bitcode in parallel, and is faster.
 - [The select story (2021)](https://aqjune.github.io/posts/2021-10-4.the-select-story.html) - Story about the removal of a compiler optimization that had been in LLVM for a long time.
 - [LLVM 13.0.0 (2021)](https://releases.llvm.org/13.0.0/docs/ReleaseNotes.html) ([HN](https://news.ycombinator.com/item?id=28760685))
+- [llvm-pretty](https://github.com/elliottt/llvm-pretty) - LLVM pretty printer inspired by the Haskell LLVM binding.

@@ -25,3 +25,4 @@ I sometimes do one day fasts but not routinely.
 - [Fasting improves chemotherapy results and protects from side effects (2020)](https://www.nature.com/articles/s41467-020-16138-3) ([HN](https://news.ycombinator.com/item?id=24480142))
 - [Intermittent Fasting Improves Long Term Memory (2021)](https://neurosciencenews.com/intermittent-fasting-neurogenesis-memory-18522/) ([Reddit](https://www.reddit.com/r/EverythingScience/comments/np1mnv/intermittent_fasting_improves_long_term_memory/))
 - [How Often Should You Do Intermittent Fasting? (2019)](https://www.youtube.com/watch?v=ZY0_GoROp6I) ([Tweet](https://twitter.com/IOHK_Charles/status/1407926703108902912))
+- [Intermittent fasting in mice improves long-term memory retention (2021)](https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention) ([HN](https://news.ycombinator.com/item?id=28768146))

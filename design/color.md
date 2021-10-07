@@ -95,3 +95,4 @@
 - [FettePalette](https://github.com/meodai/fettepalette) - Color palette generation function using curves within the HSV color model.
 - [The Geometry of Color Perception](https://www.handprint.com/HP/WCL/color2.html) ([HN](https://news.ycombinator.com/item?id=28627333))
 - [CSS gradient resampler](https://workshop.mass-driver.com/gradients)
+- [Sunlight affects whether languages have a word for ‘blue’ (2021)](https://www.science.org/content/article/sunlight-affects-whether-languages-have-word-blue) ([HN](https://news.ycombinator.com/item?id=28745302))

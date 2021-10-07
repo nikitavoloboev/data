@@ -49,3 +49,4 @@
 - [Having Kids (2019)](http://www.paulgraham.com/kids.html)
 - [Best reasons for or against having kids](https://twitter.com/csallen/status/1422927732267130886)
 - [Ugly Truths about social media and kids (2021)](https://twitter.com/alexstamos/status/1442527773042438147)
+- [Ask HN: How to teach young kids about money? (2021)](https://news.ycombinator.com/item?id=28774683)

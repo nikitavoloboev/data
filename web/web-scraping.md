@@ -3,6 +3,8 @@
 ## Links
 
 - [Scrapy](https://github.com/scrapy/scrapy) - Fast high-level web crawling & scraping framework for Python. ([Web](https://scrapy.org/)) ([Docs](https://docs.scrapy.org/en/latest/)) ([Awesome Scrapy](https://github.com/AccordBox/awesome-scrapy))
+- [Scrapyd](https://github.com/scrapy/scrapyd) - Service for running Scrapy spiders. ([Docs](https://scrapyd.readthedocs.io/en/stable/))
+- [ScrapydWeb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI.
 - [Simple Scraper](https://simplescraper.io/) - Extract data from any website in seconds.
 - [ScrapingBee](https://www.scrapingbee.com/) - Web Scraping API.
 - [Easy web scraping with Scrapy (2019)](https://www.scrapingbee.com/blog/web-scraping-with-scrapy/)
@@ -109,3 +111,4 @@
 - [How to Crawl the Web with Scrapy (2021)](https://www.babbling.fish/scraping-for-a-job/) ([HN](https://news.ycombinator.com/item?id=28514998))
 - [PageMetaScraper](https://github.com/olerichter00/page-meta-scraper) - Page metadata scraper with several fallback strategies.
 - [cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl URLs and scan for endpoints, secrets, API keys, file extensions, tokens and more.
+- [Super-Simple Scraper](https://github.com/gotripod/ssscraper) - Crawler/scraper based on Go + colly, configurable via JSON.

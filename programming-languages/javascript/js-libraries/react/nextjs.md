@@ -54,7 +54,7 @@
 - [Next.js + MDX Enhanced](https://github.com/hashicorp/next-mdx-enhanced) - Enables MDX pages, layouts, and front matter.
 - [Zero Config PWA Plugin](https://github.com/shadowwalker/next-pwa)
 - [next-translate](https://github.com/vinissimus/next-translate) - Tool to translate Next.js applications.
-- [next-i18next](https://github.com/isaachinman/next-i18next) - Easiest way to translate your NextJs apps.
+- [next-i18next](https://github.com/isaachinman/next-i18next) - Easiest way to translate your NextJs apps. ([Video](https://www.youtube.com/watch?v=SJDYCw5KC7s))
 - [Netlify Next.js cache](https://github.com/pizzafox/netlify-cache-nextjs) - Cache the Next.js build folder in your Netlify builds.
 - [next-dark-mode](https://github.com/xeoneux/next-dark-mode) - Enable dark mode for Next.js.
 - [NextAuth](https://github.com/nextauthjs/next-auth) - Authentication library for Next.js projects. ([Web](https://next-auth.js.org/)) ([Example](https://github.com/nextauthjs/next-auth-example))

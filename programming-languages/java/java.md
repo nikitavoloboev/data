@@ -82,3 +82,5 @@
 - [A Tour of the Modern Java Platform (2021)](https://www.youtube.com/watch?v=y901lgIuRx0)
 - [Faster Maven Builds (2021)](https://blog.frankel.ch/faster-maven-builds/1/) ([HN](https://news.ycombinator.com/item?id=28740367))
 - [SimpleLanguage](https://github.com/graalvm/simplelanguage) - Simple example language built using the Truffle API for GraalVM. ([Docs](https://www.graalvm.org/graalvm-as-a-platform/implement-language/))
+- [jni-bindgen](https://github.com/MaulingMonkey/jni-bindgen) - Generate Rust JVM FFI wrappers around APIs defined by .jar or .class files.
+- [Gradle Shadow](https://github.com/johnrengelman/shadow) - Gradle plugin for creating fat/uber JARs with support for package relocation.

@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Learn OCaml](https://ocaml-sf.org/learn-ocaml-public/) - Web Application for Learning OCaml. ([Code](https://github.com/ocaml-sf/learn-ocaml))
 - [Introduction to OCaml (2018)](https://blog.baturin.org/introduction-to-ocaml.html)
 - [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html) ([HN](https://news.ycombinator.com/item?id=22408664)) ([HN](https://news.ycombinator.com/item?id=27972900)) ([Code](https://github.com/cs3110/textbook))
 - [Dune](https://github.com/ocaml/dune) - Composable build system for OCaml.

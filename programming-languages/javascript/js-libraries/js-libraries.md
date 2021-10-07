@@ -619,6 +619,7 @@
 - [Session Resume](https://github.com/github/session-resume) - Annotate fields to be persisted on navigation away from the current page.
 - [Atropos](https://github.com/nolimits4web/atropos) - Lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects. ([Web](https://atroposjs.com/))
 - [Graph Dracula](https://github.com/strathausen/dracula) - JavaScript Graph Library.
+- [date-io](https://github.com/dmtrKovalenko/date-io) - Abstraction over common JavaScript date management libraries.
 
 ## Links
 

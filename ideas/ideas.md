@@ -108,3 +108,4 @@ I try to give my full attention to any ideas I am working on.
 - [If you could rewrite anything from scratch, what would it be? (2021)](https://lobste.rs/s/sdum3p/if_you_could_rewrite_anything_from)
 - [Minimum Viable Testing framework (2021)](https://twitter.com/gaganbiyani/status/1438505843444502539)
 - [Ideas for Software that People Would Actually Use](https://github.com/Divide-By-0/app-ideas-people-would-use)
+- [Startup Ideas](https://www.gwern.net/Startup-ideas) ([HN](https://news.ycombinator.com/item?id=28757980))

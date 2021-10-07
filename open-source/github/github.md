@@ -47,6 +47,7 @@ I publish most of my work and make it open source for other people to use and re
 - I can tack in various GitHub related templates like `issue_template.md` and `pull_request_template.md` as well as `code_of_conduct.md` and even `contributing.md` under `.github` folder at the root of my project.
 - [Add .atom to the URL of a commit listing on GitHub and you can subscribe to any repo, directory or file history, ideal for git scraping.](https://twitter.com/simonw/status/1376168593319108621)
 - [To open code from GitHub, just add "blitz" to the domain name (`http://github.com...` becomes `http://githubblitz.com...`)](https://twitter.com/stackblitz/status/1397193629534494722)
+- [gh pr checkout <pr-number> is great command to checkout PRs locally easily.](https://cli.github.com/manual/gh_pr_checkout)
 
 ## Links
 

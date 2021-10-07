@@ -320,6 +320,8 @@
 - [Five worst mistakes founders do when trying to find product market fit (2021)](https://twitter.com/jwdanner/status/1441076896742068239)
 - [What early business mistake will you never make again? (2021)](https://twitter.com/businessbarista/status/1441752884341874697)
 - [What niche industries still need much better software? (2021)](https://twitter.com/tylertringas/status/1443214561319038982)
+- [On Risk and Imagining the Future (2021)](https://www.nealkhosla.com/blog/on-risk-and-imagining-the-future)
+- [What's the best SaaS starter kit? (2021)](https://news.ycombinator.com/item?id=28774647)
 
 ## Images
 

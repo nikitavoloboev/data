@@ -213,6 +213,7 @@
 - [LottiePlayer](https://github.com/LottieFiles/lottie-react) - Lottie web player as a react component.
 - [React Autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component.
 - [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React wrapper for Chart.js.
+- [replicache-react](https://github.com/rocicorp/replicache-react) - Miscellaneous utilities for using Replicache with React.
 
 ## Links
 

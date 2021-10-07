@@ -360,3 +360,4 @@
 - [Flexible Generation of Natural Language Deductions (2021)](https://arxiv.org/abs/2104.08825) ([Code](https://github.com/alephic/ParaPattern))
 - [Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)
 - [Compressive Transformers for Long-Range Sequence Modelling (2020)](https://openreview.net/forum?id=SylKikSYDH) ([Code](https://github.com/lucidrains/compressive-transformer-pytorch))
+- [pyxclib](https://github.com/kunaldahiya/pyxclib) - Tools for multi-label classification problems.

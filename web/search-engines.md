@@ -160,3 +160,5 @@
 - [Tips for efficiently Googling](https://twitter.com/addyosmani/status/1444195449095737346)
 - [Awesome Semantic-Search](https://github.com/Agrover112/awesome-semantic-search)
 - [Awesome Search Engine Optimization Ideas](https://github.com/thospfuller/awesome-search-engine-optimization)
+- [IndieWeb Search](https://indieweb-search.jamesg.blog/) - Search web sites published by members of the IndieWeb community and related sites. ([Code](https://github.com/capjamesg/indieweb-search))
+- [Felvin Search](https://felvin.com/) - Your search box is now an app store. ([Code](https://github.com/felvin-search/instant-apps))

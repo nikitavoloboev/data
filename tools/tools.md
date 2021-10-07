@@ -257,6 +257,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Reddit Write](https://redditwrite.datasources.co/) - Writing software trying to help you optimize and create the best reddit posts you can to attract more upvotes and comments.
 - [Openbase](https://openbase.com/) - Choose the right package every time. Compare millions of open-source packages with reviews and insights.
 - [Rasa](https://rasa.com/) - Open source conversational AI.
+- [Lowdefy](https://lowdefy.com/) - Build internal tools with YAML. ([Code](https://github.com/lowdefy/lowdefy))
 - [Data Fetcher for Airtable](https://datafetcher.io/)
 - [IMGZ](https://imgz.org/) - IMGZ – Paid image sharing. ([HN](https://news.ycombinator.com/item?id=28676468))
 - [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.

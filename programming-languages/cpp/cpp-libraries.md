@@ -39,6 +39,7 @@
 - [Pistache](https://github.com/pistacheio/pistache) - High-performance REST Toolkit written in C++.
 - [Malloy](https://github.com/Tectu/malloy) - C++ library providing embeddable server & client components for both HTTP and WebSocket.
 - [Crow](https://github.com/CrowCpp/Crow) - Fast and Easy to use microframework for the web. ([Web](http://crowcpp.org/))
+- [Oat++](https://github.com/oatpp/oatpp) - Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 
 ## Graphics
 
@@ -245,6 +246,7 @@
 - [Boost.PFR](https://github.com/boostorg/pfr) - std::tuple like methods for user defined types without any macro or boilerplate code.
 - [double-conversion](https://github.com/google/double-conversion) - Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
 - [FastNoise2](https://github.com/Auburn/FastNoise2) - Modular node graph based noise generation library using SIMD, C++17 and templates.
+- [TensorPipe](https://github.com/pytorch/tensorpipe) - Tensor-aware point-to-point communication primitive for machine learning.
 
 ## Links
 

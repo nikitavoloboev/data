@@ -15,6 +15,8 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Samosa Chaat](https://www.cookwithmanali.com/samosa-chaat/)
 - [Samosa](https://www.indianhealthyrecipes.com/samosa-recipe-make-samosa/)
 - [Vegetable pakora](https://www.indianhealthyrecipes.com/pakora-recipe-vegetable-pakora-pakoda/)
+- [Fried rice cakes, buckwheat noodles and home-made kimchi](https://merveilles.town/web/statuses/107050455161556153)
+- [Spicy Carrot Soup](https://www.teamten.com/lawrence/recipes/spicy-carrot-soup/)
 
 ## Links
 

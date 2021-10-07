@@ -18,3 +18,4 @@
 - [Mongood](https://github.com/renzholy/mongood) - MongoDB GUI with Fluent Design.
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
 - [pino-mongodb](https://github.com/pinojs/pino-mongodb) - Insert JSON from stdin into MongoDB.
+- [Motor](https://github.com/mongodb/motor) - Async Python driver for MongoDB and Tornado or asyncio.

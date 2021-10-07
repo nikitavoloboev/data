@@ -138,3 +138,4 @@
 - [On bad advice](https://scattered-thoughts.net/writing/on-bad-advice/)
 - [Beyond small talk: Study finds people enjoy deep conversations with strangers (2021)](https://phys.org/news/2021-09-small-people-deep-conversations-strangers.html) ([HN](https://news.ycombinator.com/item?id=28723445))
 - [Ask HN: What do engineers never talk to their bosses about, but should? (2021)](https://news.ycombinator.com/item?id=28746023)
+- [Почему с вами может быть действительно сложно общаться](https://twitter.com/fightwithchilde/status/1445008056262303744)

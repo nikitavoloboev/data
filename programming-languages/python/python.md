@@ -332,3 +332,4 @@
 - [The GIL and its effects on Python multithreading (2021)](https://tenthousandmeters.com/blog/python-behind-the-scenes-13-the-gil-and-its-effects-on-python-multithreading/) ([HN](https://news.ycombinator.com/item?id=28690560))
 - [Yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time thread & coroutine & greenlet aware.
 - [Guido van Rossum on improving Python's performance (2021)](https://www.softwareatscale.dev/p/software-at-scale-34-faster-python) ([Lobsters](https://lobste.rs/s/8tlsr1/guido_van_rossum_on_improving_python_s))
+- [HN: Python 3.11: “Zero cost” exception handling (2021)](https://news.ycombinator.com/item?id=28771931)

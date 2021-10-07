@@ -14,6 +14,7 @@
 - [Facebook knew its algorithm incentivized outrage. Instagram knew it hurt teen girls. Facebook has been shielding VIPs from moderation.](https://twitter.com/JoshConstine/status/1438604572419756034)
 - [The thing people don't see is that the problem isn't centralization, it's social media. Your decentralized social media will still be social media.](https://twitter.com/pvh/status/1445156784885297157)
 - [I wonder how much any Facebook story now changes anyone's minds. There’s a group of people now quite convinced that Facebook is evil, who see any new story as proof, and the rest of us, who think it's all just a noisy mess. But what would change look like?](https://twitter.com/benedictevans/status/1445445611415736334)
+- [FB (and social media generally) is amplifying the flaws in the human condition.](https://twitter.com/fugueish/status/1445584410376503299)
 
 ## Links
 

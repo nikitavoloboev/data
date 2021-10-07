@@ -57,3 +57,4 @@
 - [Matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm. ([Intro](https://johanhelsing.studio/posts/introducing-matchbox)) ([Lobsters](https://lobste.rs/s/tdbwam/introducing_matchbox_painless_peer_peer))
 - [WebRTC-404 (2021)](https://speakerdeck.com/hellsquirrel/webrtc-404)
 - [SDP-Rust](https://github.com/webrtc-rs/sdp) - Pure Rust implementation of SDP.
+- [DTLS-Rust](https://github.com/webrtc-rs/dtls) - Pure Rust implementation of DTLS.

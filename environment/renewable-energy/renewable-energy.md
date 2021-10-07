@@ -21,3 +21,4 @@
 - [The future of electricity is local (2020)](https://caseyhandmer.wordpress.com/2020/12/27/the-future-of-electricity-is-local/)
 - [The Future of Solid State Wind Energy - No More Blades (2021)](https://www.youtube.com/watch?v=nNp21zTeCDc)
 - [Crystal arrangement results in 1,000x more power from ferroelectric solar cells (2021)](https://www.pv-magazine.com/2021/08/04/crystal-arrangement-results-in-1000x-more-power-from-ferroelectric-solar-cells/) ([HN](https://news.ycombinator.com/item?id=28115094))
+- [How to Build a Low-Tech Solar Panel? (2021)](https://solar.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html) ([HN](https://news.ycombinator.com/item?id=28770953))

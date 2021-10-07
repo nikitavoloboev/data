@@ -50,7 +50,7 @@
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
-- Always breathe fresh air. Have proper lighting.
+- Always breathe fresh air. Open windows or work outside. Have proper lighting.
 - Wear clean & comfortable clothes.
 - Only use the bed for sleep. Start each day quickly by waking up & standing up.
 - Don't overthink things. Clear up any confusions. Don't be stuck. Ask for help.
@@ -241,6 +241,7 @@
 - Add appropriate short description with link to personal site.
 - Use same username on all services. Either full name (`nikitavoloboev`) or `nikivi`. Or `nikivii` if `nikivi` is taken.
 - Interact with content/discussions freely. Upvote/Like things appropriately. Can later index & search this data.
+- Quality of followers > Quantity. Try cultivate positive online experiences. Filter out negativity.
 
 ## Web
 

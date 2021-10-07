@@ -44,6 +44,7 @@ Learning to build [startups](startups/startups.md).
 - [In corporate jobs, the best employees make their manager’s lives easier which encourages giving them more scope and responsibility. You get there by being autonomous instead of needing regular guidance, bringing solutions not problems and taking ownership when you don’t have to.](https://twitter.com/Carnage4Life/status/1408423307494400004)
 - [The moment you initiate a business relationship with anyone outside of your company, you should be registering it, as the contracts should be between the corporate entity and the vendor rather than you (personally) with the vendor.](https://www.reddit.com/r/SaaS/comments/oz8m6m/registering_a_company/)
 - [As a principal engineer, sometimes my title intimidates people (at my job). I see it when people are sharing ideas or code. I’m thinking of ways to tackle this, but wanted to share that your title may carry weight. What are you doing to build inclusive and equitable environments?](https://twitter.com/bryanl/status/1441441208321069060)
+- [I do worry that as companies get to be more successful, the number of attacks from press, politicians, and trolls on CEOs (and rounds of congressional testimony) makes the job not fun, and they leave from burn out.](https://twitter.com/brian_armstrong/status/1445604556121919492)
 
 ## Links
 
@@ -110,3 +111,4 @@ Learning to build [startups](startups/startups.md).
 - [As More Workers Go Solo, the Software Stack Is the New Firm (2021)](https://future.a16z.com/solo-workers-software-stack/)
 - [α-Indirect Control in Onion-like Networks (2021)](https://arxiv.org/abs/2109.07181v2) - Algorithm that detects the ultimate controlling owners of companies. ([Article](https://www.skoltech.ru/en/2021/09/new-tool-reveals-ultimate-owners-of-companies/)) ([HN](https://news.ycombinator.com/item?id=28688906))
 - [The secret to Cloudflare’s pace of Innovation (2021)](https://blog.cloudflare.com/the-secret-to-cloudflare-pace-of-innovation/)
+- [The Skill of Org Design (2021)](https://commoncog.com/blog/org-design-skill/) ([HN](https://news.ycombinator.com/item?id=28772033))

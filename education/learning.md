@@ -10,6 +10,7 @@
 - [Something I try to be more mindful of these days is content-medium fit. "What medium is conducive to this kind of content" Teaching → Video workshops/webinars & blog posts. Storytelling → Podcasts. Chat/discussion → Clubhouse/Twitter Spaces. Coaching → Small group calls.](https://twitter.com/coreyhainesco/status/1377369107687870465)
 - [The minute after you learn something is a really good time to start teaching.](https://twitter.com/jkup/status/1434280206567624705)
 - [The problem with learning from experts is that they are so far removed from square one. Their material assumes some foundational knowledge. Newbies, don't be afraid to share what you're learning. From the beginning. We - even the experts - need your fresh perspective!](https://twitter.com/techgirl1908/status/1441794957543608324)
+- [Building in Public let’s you leverage Cunningham’s Law to positive effect: if you error in your trial, someone is way more likely to pop out of the woodwork to tell you the right answer.](https://twitter.com/mikewavsz/status/1445627803550961669)
 
 ## Links
 

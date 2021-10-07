@@ -45,3 +45,4 @@
 - [SSL Kill Switch 2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [Provision TLS certificates for your internal Tailscale services (2021)](https://tailscale.com/blog/tls-certs/)
 - [Certifi](https://github.com/certifi/python-certifi) - Provides Mozilla's carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
+- [Staging TLS Certificates: Make every deployment a safe deployment (2021)](https://blog.cloudflare.com/staging-tls-certificate-every-deployment-safe-deployment/)

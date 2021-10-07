@@ -494,6 +494,7 @@
 - [YData Quality](https://github.com/ydataai/ydata-quality) - Data Quality assessment with one line of code.
 - [Emukit](https://github.com/EmuKit/emukit) - Highly adaptable Python toolkit for enriching decision making under uncertainty.
 - [PyContracts](https://github.com/AndreaCensi/contracts) - Python package that allows to declare constraints on function parameters and return values.
+- [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
 
 ## Links
 

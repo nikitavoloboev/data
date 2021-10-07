@@ -74,3 +74,4 @@
 - [Kidnapping, assassination and a London shoot-out: Inside the CIA's secret war plans against WikiLeaks (2021)](https://news.yahoo.com/kidnapping-assassination-and-a-london-shoot-out-inside-the-ci-as-secret-war-plans-against-wiki-leaks-090057786.html) ([Tweet](https://twitter.com/chrislhayes/status/1442338530429227009))
 - [Foreign Affairs](https://www.foreignaffairs.com/) - Forum for serious discussion of American foreign policy and global affairs.
 - [Open Source Tax Software (2021)](http://ctskennerton.github.io/2021/08/30/open-source-tax-software/) ([HN](https://news.ycombinator.com/item?id=28755034))
+- [Forward Party](https://www.forwardparty.com/) - Not Left. Not Right. Forward. By Andrew Yang. ([HN](https://news.ycombinator.com/item?id=28766825))

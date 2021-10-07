@@ -29,7 +29,7 @@
 - [Zero Knowledge Proof - Numberphile (2021)](https://www.youtube.com/watch?v=5ovdoxnfFVc)
 - [Serving up zero-knowledge proofs (2021)](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)
 - [Leo](https://github.com/AleoHQ/leo) - Functional, statically-typed programming language built for writing private applications.
-- [Aleo](https://aleo.org/) - Where Applications Become Zero-Knowledge. ([GitHub](https://github.com/AleoHQ))
+- [Aleo](https://aleo.org/) - Where Applications Become Zero-Knowledge. ([GitHub](https://github.com/AleoHQ)) ([Twitter](https://twitter.com/AleoHQ))
 - [Noir](https://github.com/noir-lang/noir) - Domain specific language for zero knowledge proofs.
 - [snarkOS](https://github.com/AleoHQ/snarkOS) - Decentralized Operating System for Zero-Knowledge Applications.
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - Virtual Machine for Zero-Knowledge Executions.

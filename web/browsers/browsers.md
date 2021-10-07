@@ -149,3 +149,5 @@
 - [BrowserParrot](https://www.browserparrot.com/) - Save and search the full text of your browser history. ([HN](https://news.ycombinator.com/item?id=28689734))
 - [Stack](https://stackbrowser.com/) - New way of interacting with the internet. ([Twitter](https://twitter.com/Stack_HQ))
 - [JShelter](https://jshelter.org/) - Anti-malware Web browser extension to mitigate potential threats from JavaScript.
+- [Happo.io](https://happo.io/) - Cross-browser screenshot testing. ([Code](https://github.com/happo/happo.io)) ([GitHub](https://github.com/happo))
+- [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Testing framework for end-to-end testing with WebDriver (or others). It abstracts browser interaction to simple steps that are written from a user perspective. ([Web](https://codecept.io/))

@@ -268,6 +268,7 @@
 - [pgtype](https://github.com/jackc/pgtype) - Implements Go types for over 70 PostgreSQL types.
 - [scany](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more.
 - [pglock](https://github.com/cirello-io/pglock) - PostgreSQL Lock Client for Go.
+- [pgxmock](https://github.com/pashagolub/pgxmock) - Mock library implementing pgx - PostgreSQL Driver and Toolkit.
 
 ## ML
 
