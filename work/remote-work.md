@@ -128,3 +128,4 @@
 - [Living on a ranch (2021)](https://twitter.com/Julian/status/1444010018261463040)
 - [Ask HN: Why a 4-day workweek don't get traction or a major movement? (2021)](https://news.ycombinator.com/item?id=28768039)
 - [Remote Job Benefit Ideas](https://twitter.com/levelsio/status/1445993277497380865)
+- [State of Digital Nomads](https://nomadlist.com/digital-nomad-statistics) ([HN](https://news.ycombinator.com/item?id=28798484))

@@ -144,3 +144,4 @@
 - [compudanzas](https://compudanzas.net/) - Research project exploring alternative modes of computation.
 - [A Data-Centric Introduction to Computing](https://dcic-world.org/2021-08-21/part_intro.html#%28part._.Overview%29)
 - [Turing Oversold (2021)](https://people.idsia.ch//~juergen/turing-oversold.html) ([HN](https://news.ycombinator.com/item?id=28522761))
+- [Understanding Shannon's Entropy metric for Information](https://arxiv.org/abs/1405.2061) ([HN](https://news.ycombinator.com/item?id=28785902))

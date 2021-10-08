@@ -246,3 +246,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [The seven programming ur-languages (2021)](https://madhadron.com/posts/seven_languages.html) ([Lobsters](https://lobste.rs/s/kwpyt8/seven_programming_ur_languages))
 - [Programming languages resources](https://bernsteinbear.com/pl-resources/)
 - [Implicit Overflow Considered Harmful (and how to fix it) (2021)](https://blog.polybdenum.com/2021/10/03/implicit-overflow-considered-harmful-and-how-to-fix-it.html) ([Lobsters](https://lobste.rs/s/5tuhxf/implicit_overflow_considered_harmful))
+- [Project Verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership. ([Web](https://microsoft.github.io/verona/)) ([Lobsters](https://lobste.rs/s/bh2epv/project_verona))

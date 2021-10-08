@@ -62,6 +62,10 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [LoggingTelegram](https://github.com/stevapple/swift-log-telegram) - Send SwiftLog messages to any Telegram chat.
 - [Olgram Bot](https://t.me/olgrambot) - Конструктор ботов обратной связи. Open source альтернатива Livegram бота. Telegram feedback bot constructor. ([Code](https://github.com/civsocit/olgram))
 
+## Notes
+
+- [Telegram messages are server side encrypted and those encryption keys are never stored in the same data center but spread across several.](https://www.reddit.com/r/Telegram/comments/q3lv6f/with_the_recent_epik_and_twitch_leaks_whats_going/)
+
 ## Links
 
 - [Awesome Telegram Groups](https://github.com/learn-anything/telegram-groups)

@@ -19,6 +19,7 @@
 - [Calendar Versioning — CalVer](https://calver.org/overview.html) - Versioning convention based on your project's release calendar, instead of arbitrary numbers. ([Article](https://nick.groenen.me/posts/switching-obsidian-export-to-calver/))
 - [ZeroVer: 0-Based Versioning](https://0ver.org/) ([HN](https://news.ycombinator.com/item?id=28154187))
 - [node-semver](https://github.com/npm/node-semver) - Semver parser for node (the one npm uses).
+- [Setting a Semantic Versioning Budget (2021)](https://alexgaynor.net/2021/oct/07/whats-in-a-version-number/)
 
 ## Images
 

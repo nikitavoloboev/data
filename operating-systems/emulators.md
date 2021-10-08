@@ -4,7 +4,7 @@
 
 - [QEMU](https://www.qemu.org/) - Generic and open source machine emulator and virtualizer. ([Docs](https://qemu.weilnetz.de/doc/qemu-doc.html)) ([Qemu 680x0 support](https://www.youtube.com/watch?v=s_ve0bCC9q4)) ([HN](https://news.ycombinator.com/item?id=25027213)) ([Code](https://github.com/qemu/qemu))
 - [byuu](https://github.com/byuu/byuu) - Multi-system emulator focused on performance, features, and ease of use.
-- [Quickemu](https://github.com/wimpysworld/quickemu) - Simple script to "manage" Qemu virtual machines.
+- [Quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimized Windows, macOS and Linux desktop virtual machines. ([HN](https://news.ycombinator.com/item?id=28797129))
 - [Lisa Emulator](https://github.com/rayarachelian/lisaem)
 - [Shoebill](https://github.com/pruten/shoebill) - Macintosh II emulator that runs A/UX (and A/UX only).
 - [PCE.js](https://github.com/jsdf/pce) - Emulates Mac Plus, PC, & Atari ST in asm.js & WebAssembly.

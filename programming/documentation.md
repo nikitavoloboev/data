@@ -116,3 +116,4 @@
 - [Writing class documentation (2021)](https://rant.gulbrandsen.priv.no/udoc/writing-class-documetation)
 - [When does your team write release notes? (2021)](https://twitter.com/housecor/status/1442457214627631104)
 - [Writing Engineering Guidelines](https://dgryski.medium.com/writing-engineering-guidelines-24fdda53a3f0)
+- [Docs for Developers: An Engineer’s Field Guide to Technical Writing Book](https://docsfordevelopers.com/)

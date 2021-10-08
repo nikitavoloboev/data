@@ -56,4 +56,4 @@ In any way, it is an interesting subject I don't know much about.
 - [On the State of Analytic Philosophy (2021)](http://dstrohmaier.com/state-of-analytic-philosophy/)
 - [Philosophers Should Care about Computational Complexity (2012)](https://www.scottaaronson.com/papers/philos.pdf)
 - [Awakening from the Meaning Crisis - YouTube (2019)](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
-- [Remembering Huxley's “Brave New World” (2021)](https://psydef.substack.com/p/brave-new-world) ([HN](https://news.ycombinator.com/item?id=28780388))
+- [Remembering Huxley's “Brave New World” (2021)](https://psydef.substack.com/p/brave-new-world) ([HN](https://news.ycombinator.com/item?id=28780388)) ([Reddit](https://www.reddit.com/r/IntellectualDarkWeb/comments/q3pl2j/remembering_huxleys_brave_new_world/))

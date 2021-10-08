@@ -32,7 +32,7 @@
 
 - [i3](https://github.com/i3/i3) - Tiling WM. [Faster than xmonad](https://twitter.com/smdiehl/status/1323935455126106114).
 - [i3-gaps](https://github.com/Airblader/i3) - Tiling window manager for X11.
-- [xmonad](http://xmonad.org/) - Tiling WM.
+- [XMonad](http://xmonad.org/) - Automated Tiling WM. ([HN](https://news.ycombinator.com/item?id=28793941))
 - [river](https://github.com/ifreund/river) - Dynamic tiling wayland compositor.
 - [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor.
 - [StumpWM](https://stumpwm.github.io/) - Tiling, keyboard driven X11 Window Manager written entirely in Common Lisp.

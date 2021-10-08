@@ -68,3 +68,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Alien Dreams: The long history of speculation about extraterrestrials](https://thereader.mitpress.mit.edu/history-speculation-about-aliens/) ([HN](https://news.ycombinator.com/item?id=28049138))
 - [Books about the meaning of life and why life is worth living (2021)](https://www.reddit.com/r/suggestmeabook/comments/pehrwr/a_book_about_the_meaning_of_life_and_why_life_is/)
 - [Where/when/how do you feel the most at peace in your daily life? (2021)](https://merveilles.town/web/statuses/107040190832895713)
+- [Ask HN: People who cashed out early and stopped working: What is your life like? (2021)](https://news.ycombinator.com/item?id=28798089)

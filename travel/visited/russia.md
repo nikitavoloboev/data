@@ -279,3 +279,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Alexei Navalny and the West’s Schröderizatsiya (2021)](https://cepa.org/alexei-navalny-and-the-wests-schroderizatsiya/)
 - [Skillbox](https://skillbox.ru/) - Образовательная платформа с онлайн-курсами.
 - [Речь Марии Певчих на Oslo Freedom Forum / Письмо Алексея Навального (2021)](https://www.youtube.com/watch?v=4jDy0lu3mBY)
+- [Убийство Политковской: впервые рассказываем подробную историю расследования «Новой газеты» (2021)](https://www.youtube.com/watch?v=Pfbjnpfj3ZE) ([Reddit](https://www.reddit.com/r/europe/comments/q3932x/on_7_october_2006_the_journalist_anna/))
+- [The Nobel Peace Prize 2021](https://www.nobelprize.org/prizes/peace/2021/press-release/) ([HN](https://news.ycombinator.com/item?id=28797147))

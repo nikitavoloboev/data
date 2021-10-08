@@ -457,3 +457,4 @@
 - [Deconcentration of Attention: Addressing the Complexity of Software Engineering](http://deconcentration-of-attention.com/deconcentration-software.html) ([Lobsters](https://lobste.rs/s/pykb9p/deconcentration_attention_addressing))
 - [Offline-First Resources](https://github.com/pazguille/offline-first)
 - [Don't write bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html) ([HN](https://news.ycombinator.com/item?id=28769053))
+- [Things I’ve learned in my 20 years as a software engineer (2021)](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) ([HN](https://news.ycombinator.com/item?id=28797485))

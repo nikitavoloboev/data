@@ -581,3 +581,4 @@
 - [What makes Rust faster than C/C++? (2021)](https://www.reddit.com/r/rust/comments/px72r1/what_makes_rust_faster_than_cc/)
 - [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/intro.html)
 - [Rust Graphics Meetup](https://github.com/gfx-rs/meetup)
+- [Plugins in Rust: Diving into Dynamic Loading (2021)](https://nullderef.com/blog/plugin-dynload/)

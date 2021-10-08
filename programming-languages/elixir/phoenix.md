@@ -53,3 +53,4 @@
 - [Desktop](https://github.com/elixir-desktop/desktop) - Building native-like Elixir apps is the goal of this library. It combines Phoenix LiveView and Erlangs built-in WxWidgets library to archieve this.
 - [How We Got to LiveView (2021)](https://fly.io/blog/how-we-got-to-liveview/) ([HN](https://news.ycombinator.com/item?id=28620490))
 - [PLDS](https://github.com/phoenixframework/plds) - CLI version of Phoenix LiveDashboard.
+- [Hot Reloading with Phoenix and Webpack (2021)](https://felt.com/blog/phoenix-and-webpack-hot-reloading-react)

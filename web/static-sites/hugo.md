@@ -66,3 +66,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Build, deploy and host hugo with srht.site](https://www.monotux.tech/posts/2021/03/built-with-srht-sites/) ([Lobsters](https://lobste.rs/s/pjrbwg/build_deploy_host_hugo_with_srht_site))
 - [How to use GitHub Actions and private repositories to deploy a Hugo static site (2021)](https://reverse.put.as/2021/03/11/hugo-githubactions/)
 - [A Love Letter To Hugo (2021)](https://akondas.com/blog/a-love-letter-to-hugo/)
+- [Hugo Ranked](https://hugoranked.com/) - Hugo Themes ranked by GitHub Stars. ([HN](https://news.ycombinator.com/item?id=28795478))
