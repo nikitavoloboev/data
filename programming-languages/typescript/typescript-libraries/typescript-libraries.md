@@ -161,6 +161,7 @@
 - [better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library.
 - [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [Funfix](https://github.com/funfix/funfix) - Functional Programming Library for JavaScript, TypeScript.
+- [typeconv](https://github.com/grantila/typeconv) - Convert between JSON Schema, TypeScript, GraphQL, Open API and SureType.
 
 ## Links
 

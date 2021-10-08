@@ -130,3 +130,4 @@
 - [React Native: Beyond Basics](https://kadikraman.github.io/react-native-beyond-basics/) - Intermediate React Native course by Kadi Kraman. ([Code](https://github.com/kadikraman/react-native-beyond-basics))
 - [Running React Native everywhere (2021)](https://mmazzarolo.com/blog/2021-09-11-running-react-native-everywhere/)
 - [Tailwind React Native Classnames](https://github.com/jaredh159/tailwind-react-native-classnames) - Simple, expressive API for TailwindCSS + React Native, written in TypeScript.
+- [How To Create a Native Mobile App For Your Supabase Back-End (2021)](https://draftbit.com/blog/how-to-create-a-native-mobile-app-for-your-supabase-back-end)

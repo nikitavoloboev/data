@@ -204,6 +204,7 @@
 - [Trilon](https://trilon.io/)
 - [QuickBird Studios](https://quickbirdstudios.com/) - Mobile App Solutions. ([GitHub](https://github.com/quickbirdstudios))
 - [NuxtLabs](https://nuxtlabs.com/) ([Twitter](https://twitter.com/nuxtlabs)) ([GitHub](https://github.com/nuxtlabs))
+- [Evil Martians](https://evilmartians.com/) - Extraterrestrial product development consultancy. ([GitHub](https://github.com/evilmartians))
 
 ## Notes
 

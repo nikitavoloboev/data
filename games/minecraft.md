@@ -70,3 +70,4 @@
 - [PufferPanel](https://github.com/PufferPanel/PufferPanel) - Open source game server management panel, designed for both small networks and game server providers. Supports Minecraft, Forge, Spigot, Sponge, Source Dedicated Servers. ([Web](https://www.pufferpanel.com/))
 - [packwiz](https://github.com/comp500/packwiz) - Command-line tool for creating Minecraft modpacks.
 - [witchcraft](https://github.com/lambdaisland/witchcraft) - Clojure API for manipulating Minecraft, based on Bukkit.
+- [Telecraft](https://github.com/telecraft/telecraft) - Pluggable Minecraft server bridge and administration tools.

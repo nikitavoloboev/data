@@ -60,6 +60,7 @@
 - [Trimmings](https://github.com/postlight/trimmings) - Zero-configuration JavaScript library that adds a layer of smooth and fast in-page interaction to your web pages.
 - [Piral](https://piral.io/) - Easily build a next generation portal application using microfrontends. ([Code](https://github.com/smapiot/piral))
 - [Qiankun](https://github.com/umijs/qiankun) - Implementation of Micro Frontends, which based on single-spa. It aims to make it easier and painless to build a production-ready microfront-end architecture system. ([Web](https://qiankun.umijs.org/))
+- [Deepkit](https://github.com/deepkit/deepkit-framework) - Full-featured and high-performance web framework for sophisticated web applications. ([Web](https://deepkit.io/))
 
 ## Animation
 
@@ -599,7 +600,7 @@
 - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module.
 - [Tocca.js](https://github.com/GianlucaGuarini/Tocca.js) - Super lightweight script ( ~1kB ) to detect via Javascript events like 'tap' 'longtap' 'dbltap' 'swipeup' 'swipedown' 'swipeleft' 'swiperight' on any kind of device.
 - [fast-base64](https://github.com/mitschabaude/fast-base64) - Fastest base64 on the web, with Wasm + SIMD.
-- [Nano Colors](https://github.com/ai/nanocolors) - Tiny and fast Node.js library for formatting terminal text with ANSI colors. ([Template](https://github.com/usmanyunusov/nanocolors-template)) ([HN](https://news.ycombinator.com/item?id=28659838)) ([Chalk maintainer's thoughts](https://github.com/babel/babel/pull/13783#issuecomment-927317201))
+- [Nano Colors](https://github.com/ai/nanocolors) - Tiny and fast Node.js library for formatting terminal text with ANSI colors. ([Template](https://github.com/usmanyunusov/nanocolors-template)) ([HN](https://news.ycombinator.com/item?id=28659838)) ([Chalk maintainer's thoughts](https://github.com/babel/babel/pull/13783#issuecomment-927317201)) ([Tweet](https://twitter.com/andrey_sitnik/status/1445342703445757957))
 - [picocolors](https://github.com/alexeyraspopov/picocolors) - 2x times faster than nanocolors and use 2x less space in node_modules. ([Tweet](https://twitter.com/alexeyraspopov/status/1442418148951707649))
 - [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Smallest and fastest command-line coloring package on the internet. Trust me.
 - [Fractional Indexing](https://github.com/rocicorp/fractional-indexing) - Technique to create an ordering that can be used for Realtime Editing of Ordered Sequences.

@@ -28,6 +28,7 @@
 - [Minimal](https://github.com/kepano/obsidian-minimal) - Obsidian theme meticulously designed to feel native on desktop, mobile and tablet.
 - [Hider](https://github.com/kepano/obsidian-hider) - Hide Obsidian UI elements such as tooltips, status, titlebar and more.
 - [Minimal Setting](https://github.com/kepano/obsidian-minimal-settings) - Settings plugin to control colors and fonts in Minimal Theme.
+- [Linked Data Vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) - Add linked data to the YAML of your Obsidian notes.
 
 ## Links
 

@@ -141,3 +141,4 @@
 - [History of Botswana, where human life began](https://twitter.com/VodkaPolitics/status/1441767278664617985)
 - [Are there more surviving ancient writings in Greek or Latin? (2021)](https://talesoftimesforgotten.com/2021/09/25/are-there-more-surviving-ancient-writings-in-greek-or-latin/) ([HN](https://news.ycombinator.com/item?id=28662809))
 - [The Scholar's Stage](https://scholars-stage.org/) - Place to discuss the intersections of history, politics, culture, behavioral science, and strategic thought—often with a focus on East and Southeast Asian affairs.
+- [Why are old things beautiful and new things ugly? (2015)](https://carcinisation.com/2015/04/01/the-fifteen-fundamental-properties/) ([Tweet](https://twitter.com/literalbanana/status/1445784214838730758))

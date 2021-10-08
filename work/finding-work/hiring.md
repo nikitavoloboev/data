@@ -113,3 +113,4 @@
 - [Increasing number of engineers doesn't always make you go faster (2021)](https://twitter.com/shreyas/status/1440138354390016003)
 - [Avoiding the audience paradox when writing job descriptions (2021)](https://blog.interviewing.io/how-to-write-good-job-descriptions/) ([HN](https://news.ycombinator.com/item?id=28630431))
 - [Better alternative to giving out option grants (2021)](https://twitter.com/harryhurst/status/1270562546206912514)
+- [Monzo's on-call compensation](https://twitter.com/bradleyjkemp/status/1445706941028704272)

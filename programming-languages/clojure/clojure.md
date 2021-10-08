@@ -154,3 +154,5 @@
 - [rewrite-clj](https://github.com/clj-commons/rewrite-clj) - Rewrite Clojure code and edn.
 - [Interactive Clojure browser testing with nbb, Calva and nREPL (2021)](https://www.reddit.com/r/Clojure/comments/q13kio/instant_browser_testing_from_calva_with_nbb_and/)
 - [Monads for Clojure Programmers (2021)](https://cuddly-octo-palm-tree.com/posts/2021-10-03-monads-clojure/) ([HN](https://news.ycombinator.com/item?id=28745059))
+- [tools.analyzer](https://github.com/clojure/tools.analyzer) - Analyzer for Clojure code, written in Clojure and producing AST in EDN.
+- [Erlang inspired error handling with superv.async. (2016)](https://whilo.github.io/articles/16/error-handling1)

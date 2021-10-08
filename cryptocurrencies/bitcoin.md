@@ -161,3 +161,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Offline lightning PoS](https://github.com/arcbtc/LNURLPoS)
 - [Lightning Labs](https://lightning.engineering/) - Faster, cheaper, global layer two bitcoin. ([GitHub](https://github.com/lightninglabs))
 - [Lightning Network Flaws](https://github.com/davidshares/Lightning-Network) ([HN](https://news.ycombinator.com/item?id=28724648))
+- [Bitcoin is a Ponzi (2020)](https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html) ([HN](https://news.ycombinator.com/item?id=28781586))

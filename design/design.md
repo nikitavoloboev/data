@@ -195,3 +195,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Design Principles](https://principles.design/) - Open source collection of Design Principles and methods. ([Code](https://github.com/benbrignell/principles.design))
 - [Doodle Ipsum](https://doodleipsum.com/) - Lorem ipsum of illustrations.
 - [Mechanic](https://mechanic.design/) - Open source framework that makes it easy to create custom, web-based design tools that export design assets right in your browser. ([Code](https://github.com/designsystemsinternational/mechanic))
+- [TryShape](https://tryshape.vercel.app/) - Create, Export, Share, and Use any Shapes of your choice. ([Code](https://github.com/TryShape/tryshape))

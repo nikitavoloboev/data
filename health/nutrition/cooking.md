@@ -32,3 +32,4 @@ I share some [recipes I like](recipes.md).
 - [Cheap Vegan Food Resources](https://eukaryotewritesblog.com/cheap-vegan-food-resources/)
 - [Is Coconut Oil healthy for cooking?](https://www.reddit.com/r/nutrition/comments/o7cent/is_coconut_oil_healthy/)
 - [Limiting Steps (2021)](https://matt-rickard.com/limiting-steps/)
+- [Cooked: A Natural History of Transformation Book by Michael Pollan (2013)](https://michaelpollan.com/books/cooked/) ([Notes](https://www.kevinslin.com/notes/YIa9Rkc7m9qh131CyNYDk/))

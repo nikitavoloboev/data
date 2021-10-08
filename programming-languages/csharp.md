@@ -13,3 +13,4 @@
 - [C# Language Design](https://github.com/dotnet/csharplang) - Where new C# language features are developed, adopted and specified.
 - [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) ([HN](https://news.ycombinator.com/item?id=28641480))
 - [ASP.NET Core Diagnostic Scenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
+- [The Journey of a .NET Object - from allocation to collection (2021)](https://www.youtube.com/watch?v=1Qmvme70w9c)

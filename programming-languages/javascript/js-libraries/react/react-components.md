@@ -214,6 +214,7 @@
 - [React Autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component.
 - [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React wrapper for Chart.js.
 - [replicache-react](https://github.com/rocicorp/replicache-react) - Miscellaneous utilities for using Replicache with React.
+- [ClickableBox](https://github.com/danoc/clickable-box) - React component to add `onClick` to HTML elements without sacrificing accessibility.
 
 ## Links
 

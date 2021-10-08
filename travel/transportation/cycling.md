@@ -2,6 +2,7 @@
 
 ## Interesting bikes
 
+- [Avail Advanced 2 (2022)](https://www.liv-cycling.com/de/avail-advanced-2-2022)
 - [Giant Revolt 0 Gravel bike (2020)](https://www.giant-bicycles.com/int/revolt-0)
 - [VanMoof](https://www.vanmoof.com/en_nl/) - Electric bikes.
 - [TRIBAN RC 520](https://www.decathlon.co.uk/triban-rc-520-disc-road-bike-navy-105-id_8554421.html)

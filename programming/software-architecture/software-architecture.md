@@ -163,3 +163,4 @@
 - [Opinionated project architecture for Full-Stack JavaScript Applications](https://github.com/atulmy/fullstack-javascript-architecture)
 - [Clean Architecture by Robert C. Martin Book (2007)](https://www.goodreads.com/book/show/18043011-clean-architecture) ([Notes](https://github.com/preslavmihaylov/booknotes/tree/master/architecture/clean-architecture))
 - [Technology decisions for startups (2021)](https://davidkell.substack.com/p/technology-decisions-for-startups)
+- [An Engineer's Guide to Building a Database for Data-Intensive Applications (2021)](https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications/)

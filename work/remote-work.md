@@ -12,6 +12,7 @@
 - [Unless you are regularly meeting up in the office in person, only time zone matters. And then once you go outside the same time zone (+/- 3 hours), you need to design everything for full async.](https://twitter.com/balajis/status/1421855752688336903)
 - [Firm-wide remote work causes a shift to async communication (not more meetings) and makes workers’ collaboration network more siloed.](https://twitter.com/ylongqi/status/1435985696892678148)
 - [I don’t know if I would ever be able to readjust back to the non-remote-first office work. It just feels natural to hop to a plane (train, car) and get somewhere without skipping a beat of your work. To have it safely detached from the matters of physical presence and geography.](https://twitter.com/inazarova/status/1442751094111838208)
+- [The third founder with a remote team sharing the same story: An engineer they hired did great on the interviews but worked unexplainably slow day to day. When pairing: they worked fast. They stopped pairing: slowed down. Turns out, the person had a second job in all cases.](https://twitter.com/GergelyOrosz/status/1445854500443537414)
 
 ## Links
 
@@ -126,3 +127,4 @@
 - [8 ideas we use for building a great culture in a distributed team (2021)](https://twitter.com/nathanbarry/status/1440358547372457987)
 - [Living on a ranch (2021)](https://twitter.com/Julian/status/1444010018261463040)
 - [Ask HN: Why a 4-day workweek don't get traction or a major movement? (2021)](https://news.ycombinator.com/item?id=28768039)
+- [Remote Job Benefit Ideas](https://twitter.com/levelsio/status/1445993277497380865)

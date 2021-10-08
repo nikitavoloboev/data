@@ -278,3 +278,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Чичваркин: У Путина два врага - Навальный и продуктовая инфляция (2021)](https://www.youtube.com/watch?v=iMaFZy0aV_o)
 - [Alexei Navalny and the West’s Schröderizatsiya (2021)](https://cepa.org/alexei-navalny-and-the-wests-schroderizatsiya/)
 - [Skillbox](https://skillbox.ru/) - Образовательная платформа с онлайн-курсами.
+- [Речь Марии Певчих на Oslo Freedom Forum / Письмо Алексея Навального (2021)](https://www.youtube.com/watch?v=4jDy0lu3mBY)

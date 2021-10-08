@@ -1,5 +1,9 @@
 # Podcast recording
 
+## Interesting Mics
+
+- [Shure MV7](https://twitter.com/fatih/status/1446036296640647168)
+
 ## Links
 
 - [Hello Internet editing time lapse](http://www.cgpgrey.com/blog/hello-internet-editing-time-lapse)

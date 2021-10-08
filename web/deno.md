@@ -124,3 +124,4 @@
 - [gentle_rpc](https://github.com/timonson/gentle_rpc) - JSON-RPC 2.0 library (server and client) with HTTP and WebSockets support for deno and the browser.
 - [BAZX](https://github.com/Minigugus/bazx) - zx on steroids.
 - [How to compile Rust into WebAssembly and run it in Deno (2021)](https://startfunction.com/rust-webassembly-deno/)
+- [deno.ns](https://github.com/fromdeno/deno.ns) - Deno namespace shim for Node.js.

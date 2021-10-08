@@ -66,3 +66,4 @@
 - [Sail](https://www.cl.cam.ac.uk/~pes20/sail/) - Language for describing the instruction-set architecture (ISA) semantics of processors. ([Code](https://github.com/rems-project/sail))
 - [Art of Assembly Language Programming and HLA by Randall Hyde](https://www.randallhyde.com/AssemblyLanguage/www.artofasm.com/index.html)
 - [Zen of Assembly Language (1990)](https://github.com/jagregory/abrash-zen-of-asm)
+- [x86 assembly doesn’t have to be scary (2018)](https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial) ([HN](https://news.ycombinator.com/item?id=28770907))

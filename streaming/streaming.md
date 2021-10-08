@@ -12,6 +12,7 @@ Here are tools I use for streaming:
 ## Notes
 
 - To see Twitch chats in IRC, first [connect to Twitch via IRC](https://help.twitch.tv/customer/portal/articles/1302780-twitch-irc), then join the channel of stream you want (i.e. `/join #nikitavoloboev`).
+- [99.925% of streamers aren't making a meaningful income. It goes all the way to the top streamers on the platform. 25% of the top 0.1% don't even make minimum wage.](https://twitter.com/JoshFabian/status/1445866254284189702)
 
 ## Links
 

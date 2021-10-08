@@ -72,3 +72,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Writing a Bash Builtin in C to Parse INI Configs (2021)](https://mbuki-mvuki.org/posts/2021-07-12-writing-a-bash-builtin-in-c-to-parse-ini-configs/) ([Lobsters](https://lobste.rs/s/6wjuk4/writing_bash_builtin_c_parse_ini_configs))
 - [Bashly](https://github.com/DannyBen/bashly) - Create beautiful bash scripts from simple YAML configuration. ([HN](https://news.ycombinator.com/item?id=28305479)) ([Docs](https://bashly.dannyb.co/))
 - [tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter.
+- [Bash Boilerplate](https://github.com/xwmx/bash-boilerplate) - Collection of Bash scripts for creating safe and useful command line programs.

@@ -129,3 +129,4 @@
 - [Facebook Whistleblower Leaks Thousands of Pages of Incriminating Internal Docs (2021)](https://www.npr.org/2021/10/04/1042921981/facebook-whistleblower-renewing-scrutiny-of-social-media-giant?t=1633465918853) ([HN](https://news.ycombinator.com/item?id=28761294)) ([HN](https://news.ycombinator.com/item?id=28764360)) ([Tweet](https://twitter.com/micsolana/status/1445397169419296778))
 - [Statement from Mark Zuckerberg (2021)](https://www.facebook.com/4/posts/10113961365418581/?d=n) ([HN](https://news.ycombinator.com/item?id=28767700)) ([Tweet](https://twitter.com/Snowden/status/1445604626984620039))
 - [Bombshell (2021)](https://www.piratewires.com/p/bombshell) - Instagram's suicide farm, media distortion, and navigating three weeks of Facebook hysteria. ([Tweet](https://twitter.com/micsolana/status/1445137372471988235))
+- [Pinterest](https://pinterest.com/) - Image sharing service. ([GitHub](https://github.com/pinterest))

@@ -90,3 +90,4 @@
 - [How open lost to closed in Web 2 — and how Web 3 can bring open back (2021)](https://twitter.com/cdixon/status/1444422178192068611)
 - [Tox](https://tox.chat/) - Decentralized and Encrypted Instant Messaging. ([HN](https://news.ycombinator.com/item?id=28758545))
 - [Most thought provoking ideas on Web 3, NFTs, tokens (2021)](https://twitter.com/rohit_jindal29/status/1445625922770505741)
+- [Web3 Jobs](https://web3.career/) - Blockchain, Smart Contract and Crypto Jobs.

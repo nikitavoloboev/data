@@ -22,3 +22,4 @@
 - [How to Split a City in Half (Berlin)](https://www.youtube.com/watch?v=P6qg0sKJJKM)
 - [What do Germans fear the most? (2021)](https://www.dw.com/en/what-do-germans-fear-the-most/a-59129913) ([HN](https://news.ycombinator.com/item?id=28509321))
 - [Was Germany’s 19th century industrial expansion due to an absence of copyright?](https://www.spiegel.de/international/zeitgeist/no-copyright-law-the-real-reason-for-germany-s-industrial-expansion-a-710976.html) ([HN](https://news.ycombinator.com/item?id=28574998))
+- [How Germany's Economy Is Hurt by Supply Chain Shortages (2021)](https://www.nytimes.com/2021/10/05/business/germany-economy.html) ([Tweet](https://twitter.com/eladgil/status/1445735768698208256))

@@ -235,3 +235,5 @@
 - [The Analog Thing](https://the-analog-thing.org/) - Open source, educational, low-cost modern analog computer. ([HN](https://news.ycombinator.com/item?id=28614840))
 - [ChiselVerify](https://github.com/chiselverify/chiselverify) - Hardware Verification Library for Chisel.
 - [Digital Design with Chisel Book](https://github.com/schoeberl/chisel-book)
+- [Take a look inside Steam Deck (2021)](https://www.youtube.com/watch?v=Dxnr2FAADAs)
+- [The Insane Innovation of TI Calculator Hobbyists (2021)](https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/) ([HN](https://news.ycombinator.com/item?id=28779621))

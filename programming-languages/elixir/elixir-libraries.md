@@ -13,6 +13,7 @@
 - [Ace](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
 - [Raxx](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 - [Corsica](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+- [Plug](https://github.com/elixir-plug/plug) - Specification and conveniences for composable modules between web applications.
 
 ## DB
 
@@ -82,6 +83,7 @@
 - [Norm](https://github.com/keathley/norm) - Data specification and generation.
 - [Algae](https://github.com/witchcrafters/algae) - Bootstrapped algebraic data types for Elixir.
 - [VegaLite](https://github.com/livebook-dev/vega_lite) - Elixir bindings for Vega-Lite.
+- [Elixir Thrift](https://github.com/pinterest/elixir-thrift)
 
 ## Links
 

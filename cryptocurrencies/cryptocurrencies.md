@@ -145,3 +145,5 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Cryptocurrencies’ Carbon Footprint Underestimated (2021)](https://blog.dshr.org/2021/10/cryptocurrencys-carbon-footprint.html) ([HN](https://news.ycombinator.com/item?id=28763485))
 - [Hummingbot](https://hummingbot.io/) - Open-source software that lets you build and run customizable trading strategies. Automate your cryptocurrency trading on centralized exchanges and decentralized protocols. ([Code](https://github.com/CoinAlpha/hummingbot))
 - [Bank of America's research report on the digital asset ecosystem titled: “Digital Assets Primer: Only the first inning”](https://twitter.com/PastryEth/status/1445565755534184452)
+- [Worries about NFTs (2021)](https://twitter.com/Pinboard/status/1445882937505771527)
+- [Ask HN: Practically accepting cryptocurrency for businesses without middlemen? (2021)](https://news.ycombinator.com/item?id=28795005)

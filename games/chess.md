@@ -136,3 +136,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Coronate](https://github.com/johnridesabike/coronate) - Swiss-style chess tournament management app. ([Web](https://coronate.netlify.app/))
 - [Fast anti-chess simulator for RL in C](https://github.com/RajGhugare19/MyAntiChess)
 - [ChessCoach](https://chrisbutner.github.io/ChessCoach/) - Neural chess engine that comments on each player's moves. ([HN](https://news.ycombinator.com/item?id=28765183)) ([Code](https://github.com/chrisbutner/ChessCoach)) ([Data Used](https://github.com/chrisbutner/ChessCoachData))
+- [Thoughts on chess improvement, after gaining 600 points in 6 months (1200-1800)](https://mbuffett.com/posts/chess_improvement_thoughts/) ([HN](https://news.ycombinator.com/item?id=28787221))

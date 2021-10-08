@@ -192,6 +192,7 @@
 - [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - iOS framework for creating forms.
 - [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) - Powerful navigation library for iOS based on the coordinator pattern.
 - [SegementSlide](https://github.com/Jiar/SegementSlide) - Multi-tier UIScrollView nested scrolling solution.
+- [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS devices using BLE.
 
 ## macOS
 

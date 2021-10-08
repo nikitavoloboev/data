@@ -176,3 +176,4 @@
 - [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn computer graphics by writing GPU shaders.
 - [MaterialX](https://github.com/materialx/MaterialX) - Open standard for transfer of rich material and look-development content between applications and renderers. ([Web](http://www.materialx.org/))
 - [Appearance-Driven Automatic 3D Model Simplification (2021)](https://arxiv.org/abs/2104.03989) ([Code](https://github.com/NVlabs/nvdiffmodeling))
+- [How to make simple water graphics](https://twitter.com/Azurexis/status/1445772560923119620)

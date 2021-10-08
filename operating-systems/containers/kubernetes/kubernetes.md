@@ -452,3 +452,5 @@
 - [Tanzu Framework](https://github.com/vmware-tanzu/tanzu-framework) - Set of building blocks to build atop of the Tanzu platform.
 - [Rancher Desktop](https://github.com/rancher-sandbox/rancher-desktop) - Open-source project to bring Kubernetes and container management to the desktop.
 - [Kubernetes Pod Inspector](https://github.com/wangjia184/pod-inspector)
+- [Deploy NATS on Kubernetes with Helm Charts](https://github.com/nats-io/k8s)
+- [kx](https://github.com/onatm/kx) - Interactively switch between kubernetes contexts without any external dependencies.

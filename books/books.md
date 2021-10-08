@@ -411,3 +411,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Summarizing Books with Human Feedback](https://openai.com/blog/summarizing-books/) ([HN](https://news.ycombinator.com/item?id=28643335))
 - [73 Beautiful Books from the MIT Press Essential Knowledge Series](https://abakcus.com/seventy-three-beautiful-books-from-the-mit-press-essential-knowledge-series/)
 - [The Anarchist Library](https://theanarchistlibrary.org/special/index)
+- [Kevin's Book Notes](https://www.kevinslin.com/notes/ad075218-7dae-479b-8415-d54c10ef103e/)
+- [IndiePaper](https://indiepaper.me/) - Easy way to write and sell self-published books. ([HN](https://news.ycombinator.com/item?id=28775313))

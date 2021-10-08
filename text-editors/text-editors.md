@@ -138,3 +138,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Monaco language client](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers.
 - [Code blocks, but better (2021)](https://ped.ro/blog/code-blocks-but-better)
 - [Which editor/IDE does Bisqwit use? Answers & some history. (2019)](https://www.youtube.com/watch?v=ZMBQmhO8KqI)
+- [Thoughts on Structured Editing: Breaking Away from Syntax (2020)](https://mbuffett.com/posts/structured-editing-syntax/)

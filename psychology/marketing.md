@@ -149,6 +149,7 @@
 - [Death of advertising (2021)](http://adaged.blogspot.com/2021/09/a-fking-master.html) ([Tweet](https://twitter.com/vanschneider/status/1440676090641481729))
 - [The Mom Test – How to talk to customers](https://sandro.volpee.de/the-mom-test-summary-validate-ideas) ([HN](https://news.ycombinator.com/item?id=28667439))
 - [Startup guide: How to build a big brand on a small budget](https://docs.google.com/presentation/d/1zd8ZyqO1Jlo1A_Javgsl8ytWu-cMGLL7NYe5ps5mx9Y/edit#slide=id.gea743b29fd_6_132)
+- [Affilimate](https://affilimate.com/) - Affiliate Dashboard and Link Tracking Tool. ([Tweet](https://twitter.com/monicalent/status/1446054504894541830))
 
 ## Images
 

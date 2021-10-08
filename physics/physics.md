@@ -248,3 +248,4 @@
 - [What a solid made of electrons looks like (2021)](https://www.nature.com/articles/d41586-021-02657-6) ([HN](https://news.ycombinator.com/item?id=28720506))
 - [What hidden symmetry is controlling the Universe? (2021)](https://overcast.fm/+Oq0arDngg)
 - [The Nobel Prize in Physics 2021- Physics for climate and other complex phenomena](https://www.nobelprize.org/prizes/physics/2021/press-release/) ([HN](https://news.ycombinator.com/item?id=28757304)) ([Reddit](https://www.reddit.com/r/Physics/comments/q1t338/the_nobel_prize_in_physics_2021/)) ([Tweet](https://twitter.com/C4COMPUTATION/status/1445600154799656971))
+- [Atomic resolution video of salt crystals forming in real time (2021)](https://phys.org/news/2021-01-first-ever-atomic-resolution-video-salt.html) ([HN](https://news.ycombinator.com/item?id=28785602))

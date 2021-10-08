@@ -119,7 +119,7 @@
 - [Data Science Ontology](https://www.datascienceontology.org/) - Knowledge base about data science.
 - [Narrator](https://www.narrator.ai/) - Data modeling platform built on a single table. ([HN](https://news.ycombinator.com/item?id=24640540))
 - [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) - Implementation of the data pipeline which consumes the latest news from RSS Feeds and makes them available for users via handy API.
-- [Hex Technologies](https://hex.tech/) - Turn your notebooks into collaborative, sharable data apps and stories. No more loose CSVs, chart screenshots, or stale decks.
+- [Hex Technologies](https://hex.tech/) - Collaborative data workspace that makes it easy to go from idea to analysis to sharing. Work in SQL and Python notebooks, collaborate live, and publish interactive data apps anyone can use. ([Twitter](https://twitter.com/_hex_tech)) ([Hex 2.0](https://hex.tech/blog/hex-two-point-oh)) ([Tweet](https://twitter.com/_hex_tech/status/1445796778868023296))
 - [News Aggregator from Scratch in 2 Weeks (2020)](https://danlark.org/2020/07/31/news-aggregator-from-scratch-in-2-weeks/)
 - [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)
 - [Nemo: Data discovery at Facebook (2020)](https://engineering.fb.com/data-infrastructure/nemo/) ([Tweet](https://twitter.com/fulhack/status/1314997524336439296))

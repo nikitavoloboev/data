@@ -240,3 +240,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Useful non-money related crypto projects (2021)](https://twitter.com/andrestaltz/status/1442558917683335168)
 - [NFT Projects Are Just MLMs for Tech Elites (2021)](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites) ([HN](https://news.ycombinator.com/item?id=28713249))
 - [Sonic Chain](https://github.com/kianenigma/SonicChain) - Wait-free, pseudo-static approach toward concurrency in blockchain runtimes.
+- [LootWatcher](https://www.lootwatcher.com/) - Dashboard for Loot Projects. Discover, mint, and expand. ([Twitter](https://twitter.com/lootwatcher_))

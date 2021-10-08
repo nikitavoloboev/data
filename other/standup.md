@@ -21,3 +21,4 @@
 - [Famous Russian comedians (2021)](https://www.reddit.com/r/AskARussian/comments/oaitbu/what_is_russian_comedy_like_are_there_any_famous/)
 - [Сергей Орлов. Интервью с комиком. (2019)](https://www.youtube.com/watch?v=ZroDIqyzxDQ)
 - [The Comedy School](https://www.thecomedyschool.com/) - The only arts organization of its kind in the UK which works with comedy in many different settings.
+- [The Structure of Stand-Up Comedy](https://pudding.cool/2018/02/stand-up/)

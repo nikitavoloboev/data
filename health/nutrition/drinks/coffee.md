@@ -47,3 +47,5 @@
 - [Making Coffee In A Clear Glass Moka Pot](https://www.youtube.com/watch?v=c7FoqR9oCfI)
 - [The 4:6 method for coffee-brewing (2017)](https://www.youtube.com/watch?v=wmCW8xSWGZY) ([HN](https://news.ycombinator.com/item?id=27354789))
 - [A Beginner's Guide to Coffee Grinders (2021)](https://www.youtube.com/watch?v=bgjvLQu5NlE)
+- [Chazzano Coffee Roasters](https://chazzano-coffee-roasters.square.site/)
+- [Which country has best coffee? (2021)](https://twitter.com/PaulSkallas/status/1445898250783891456)

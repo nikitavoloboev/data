@@ -168,6 +168,8 @@
 - [Xata](https://www.xata.io/) - Database service for serverless apps. ([HN](https://news.ycombinator.com/item?id=28590816))
 - [SpiceDB](https://github.com/authzed/spicedb) - Zanzibar-inspired database that stores, computes, and validates application permissions. ([Article](https://authzed.com/blog/spicedb-is-open-source/)) ([HN](https://news.ycombinator.com/item?id=28709886)) ([CLI](https://github.com/authzed/zed))
 - [Authzed](https://authzed.com/) - Managed permissions database for everyone. ([GitHub](https://github.com/authzed))
+- [Datomic](https://www.datomic.com/) - Transactional database with a flexible data model, elastic scaling, and rich queries. ([GitHub](https://github.com/Datomic)) ([Replicating with Datomic](https://whilo.github.io/articles/17/replicating-datomic))
+- [EdgelessDB](https://github.com/edgelesssys/edgelessdb) - Open-source MySQL-compatible database for confidential computing. Runs entirely inside a secure enclave and comes with advanced features for collaboration, recovery, and access control. ([Intro](https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-edgelessdb-a-database-designed-for-confidential/ba-p/2813631))
 
 ## Tools
 
@@ -216,6 +218,7 @@
 - [Azimutt](https://azimutt.app/) - Explore your database schema.
 - [Models](https://github.com/tvallotton/models) - Tool for automated migrations for PostgreSQL, SQLite and MySQL.
 - [Atlas](https://atlasgo.io/) - Set of tools designed to help companies better work with their data. It includes several components that can be used individually but are designed to work very well together. ([Code](https://github.com/ariga/atlas))
+- [replikativ](https://github.com/replikativ/replikativ) - Open, scalable and distributive infrastructure for a data-driven community of applications. ([Web](https://replikativ.io/)) ([Unified storage IO](https://whilo.github.io/articles/16/unified-storage-io))
 
 ## Notes
 

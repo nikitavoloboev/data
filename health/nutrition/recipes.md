@@ -17,6 +17,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Vegetable pakora](https://www.indianhealthyrecipes.com/pakora-recipe-vegetable-pakora-pakoda/)
 - [Fried rice cakes, buckwheat noodles and home-made kimchi](https://merveilles.town/web/statuses/107050455161556153)
 - [Spicy Carrot Soup](https://www.teamten.com/lawrence/recipes/spicy-carrot-soup/)
+- [Spicy Korean Carrots – Morkovcha](https://letthebakingbegin.com/spicy-korean-carrots/)
 
 ## Links
 

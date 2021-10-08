@@ -1080,3 +1080,4 @@
 - [chartered](https://github.com/w4/chartered) - Private, authenticated cargo registry.
 - [Awesome Rust Machine Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - List of machine learning libraries written in Rust.
 - [Registry index for crates.io](https://github.com/rust-lang/crates.io-index)
+- [Rust web frameworks, a new look? (discussion) (2021)](https://www.reddit.com/r/rust/comments/q1vzsx/rust_web_frameworks_a_new_look_discussion/)

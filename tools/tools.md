@@ -189,6 +189,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Airplane](https://www.airplane.dev/) - Code to internal apps in minutes.
 - [SpatialChat](https://spatial.chat/) - In-person virtual meetings.
 - [Over](https://www.madewithover.com/) - Makes beautiful design, easy.
+- [Universe](https://onuniverse.com/) - Website builder made for your iPhone. Build your brand from your hand with the GRID. ([Twitter](https://twitter.com/onuniverse))
 - [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
 - [Hyperobject Toolkit](https://hyperobjects.design/) - Set of technologies developed for creative exploration, collaboration and deployment of generative design and digital manufacturing.
 - [Toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODO's in your codebase.
@@ -385,6 +386,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Adblock Radio](https://github.com/adblockradio/adblockradio) - Library to block ads on live radio streams and podcasts. Machine learning meets Shazam.
 - [Mutagen](https://github.com/mutagen-io/mutagen) - Make remote development work with your local tools.
 - [Draftbit](https://draftbit.com/) - Visually build native mobile apps—all from your browser.
+- [Sorted](https://www.sortedapp.com/) - Tasks and calendar events in a unified timeline. ([HN](https://news.ycombinator.com/item?id=28786047))
 - [Betterer](https://github.com/phenomnomnominal/betterer) - Makes it easier to make incremental improvements to your codebase.
 - [Deepsource](https://deepsource.io/) - Detect bug risks, anti-patterns and security vulnerabilities before they end up in production. For Python and Go.
 - [Redirector Server with Google Sheets](https://github.com/ahmetb/serverless-url-shortener) - Simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.

@@ -24,6 +24,7 @@
 ## Graphics
 
 - [rawdraw](https://github.com/cntools/rawdraw) - Fundamental Graphics Library.
+- [LVGL](https://github.com/lvgl/lvgl) - Light and Versatile Graphics Library. ([Web](https://lvgl.io/))
 
 ## Test
 

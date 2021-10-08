@@ -43,7 +43,7 @@ I love Git and version control. And I use version control over any project I do.
 - [git-rs](https://github.com/chrisdickinson/git-rs) - Implementing git in rust for fun and education.
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 - [The Many Benefits of Using a Monorepo (2019)](https://pspdfkit.com/blog/2019/benefits-of-a-monorepo/) ([HN](https://news.ycombinator.com/item?id=19795482))
-- [Lefthook](https://github.com/Arkweid/lefthook) - Git hooks manager.
+- [Lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [git rebase in depth](https://git-rebase.io/) ([HN](https://news.ycombinator.com/item?id=19877811))
 - [Highlights from Git 2.22 (2019)](https://github.blog/2019-06-07-highlights-from-git-2-22/)
 - [What is a fork, really, and how GitHub changed its meaning (2019)](https://drewdevault.com/2019/05/24/What-is-a-fork.html) ([Lobsters](https://lobste.rs/s/txx8vu/what_is_fork_really_how_github_changed_its)) ([HN](https://news.ycombinator.com/item?id=20001570))

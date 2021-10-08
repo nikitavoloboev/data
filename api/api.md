@@ -135,7 +135,8 @@
 
 ## Notes
 
-- [In my opinion API should be only sending values it actually has or at least not null but same type values: e.g. items array should never turn null even if empty but rather an empty array.](https://twitter.com/oleg008/status/1444223180185481217)
+- [API should be only sending values it actually has or at least not null but same type values: e.g. items array should never turn null even if empty but rather an empty array.](https://twitter.com/oleg008/status/1444223180185481217)
+- [APIs should be built around the needs of the consumers, not the providers](https://twitter.com/andrewingram/status/1446055084773740545)
 
 ## Links
 

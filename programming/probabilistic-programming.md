@@ -28,3 +28,4 @@
 - [SPPL](https://github.com/probcomp/sppl) - Sum-Product Probabilistic Language.
 - [Gen](https://www.gen.dev/) - Open-source stack for generative modeling and probabilistic inference. ([Code](https://github.com/probcomp/Gen.jl))
 - [CLASP](https://www.gu.se/en/clasp) - Centre for linguistic theory and studies in probability, University of Gothenburg. ([GitHub](https://github.com/GU-CLASP))
+- [Daphne](https://github.com/plai-group/daphne) - Probabilistic programming compiler.

@@ -87,3 +87,5 @@
 - [86 перелетов за год. Что я научился всегда брать с собой в поездку. (2017)](https://www.youtube.com/watch?v=2QURN-BJWHI)
 - [There are six internet links on my office on wheels. Seven when Starlink arrives (2021)](https://ghuntley.com/internet/) - How I put together a vehicle with the best internet connectivity in Australia. ([HN](https://news.ycombinator.com/item?id=28593698))
 - [Perito](https://perito-burrito.com/) - Куда поехать в путешествие.
+- [Lonely Planet](https://www.lonelyplanet.com/) - Travel Guides & Travel Information - Lonely Planet.
+- [The longest possible train travel in the world](https://www.reddit.com/r/MapPorn/comments/po1ggb/the_longest_possible_train_travel_in_the_world/)

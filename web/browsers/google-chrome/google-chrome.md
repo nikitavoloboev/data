@@ -67,3 +67,4 @@ And here are Chrome extensions I use:
 - [rollup-plugin-chrome-extension](https://github.com/extend-chrome/rollup-plugin-chrome-extension) - Feature-rich solution for bundled Chrome Extensions.
 - [Extend Chrome](https://www.extend-chrome.dev/) - GitHub organization dedicated to making Chrome extension development smarter.
 - [chrome-webstore-upload](https://github.com/fregante/chrome-webstore-upload) - Upload Chrome Extensions to the Chrome Web Store.
+- [RenderingNG: an architecture that makes and keeps Chrome fast for the long term (2021)](https://blog.chromium.org/2021/10/renderingng.html)
