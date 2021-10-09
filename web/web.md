@@ -311,3 +311,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Local Storage vs Cookies](https://stackoverflow.com/questions/3220660/local-storage-vs-cookies)
 - [Web Test Runner](https://modern-web.dev/docs/test-runner/overview/) - Test runner for web applications.
 - [Display Locking API](https://github.com/WICG/display-locking) - Umbrella term of related features designed primarily to allow developers to increase performance of their sites.
+- [Have Single-Page Apps Ruined the Web? | Transitional Apps with Rich Harris, NYTimes (2021)](https://www.youtube.com/watch?v=860d8usGC0o) ([Tweet](https://twitter.com/rich_harris/status/1446601175197880325?s=28))
