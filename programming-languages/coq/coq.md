@@ -77,3 +77,4 @@
 - [Mechanization of a noninterference proof via a type system for a simple imperative language with a small-step semantics in Coq](https://github.com/aslanix/SmallStepNI)
 - [Coq library formalizes dependent type theory in the style of Per Martin-Löf](https://github.com/TheoWinterhalter/formal-type-theory)
 - [Hanoi tower in Coq](https://github.com/thery/hanoi)
+- [W-in-Coq](https://github.com/rafaelcgs10/W-in-Coq) - Coq formalization of Damas-Milner type system and its algorithm W.
