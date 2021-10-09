@@ -35,6 +35,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Как же заебало что мы тратим свои жизни на эту хуйню если честно](https://twitter.com/Vorewig/status/1439834044477452293)
 - [Пожизненные губернаторы. Дальше передача власти в регионах по наследству.](https://twitter.com/nlyaskin/status/1442389741555572736)
 - [Сейчас и элиты, и военные, и полицейские, и общество, и мировое сообщество знает, что Партия Путина - это партия меньшинства. А узнали мы эту информацию(именно убедительно узнали, чтобы всем и каждому можно доказать) благодаря выборам.](https://twitter.com/mironov_fm/status/1444316401871765504)
+- [К сожалению, тюрьма это ёбаная мясорубка ломающая психическое и физическое здоровье людей. Современные места заключения чудовищны по своему существу и должны быть реформированы.](https://twitter.com/kasablanka_03/status/1446516126364704788)
 
 ## Links
 
@@ -282,3 +283,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Убийство Политковской: впервые рассказываем подробную историю расследования «Новой газеты» (2021)](https://www.youtube.com/watch?v=Pfbjnpfj3ZE) ([Reddit](https://www.reddit.com/r/europe/comments/q3932x/on_7_october_2006_the_journalist_anna/))
 - [The Nobel Peace Prize 2021](https://www.nobelprize.org/prizes/peace/2021/press-release/) ([HN](https://news.ycombinator.com/item?id=28797147))
 - [Почему Путин живёт прошлым? (2021)](https://www.youtube.com/watch?v=UITD5WTITjY)
+- [The Murderous Rise of Russia's Billionaires (2021)](https://www.youtube.com/watch?v=tveVWnS36Nk)

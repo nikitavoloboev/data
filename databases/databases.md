@@ -438,3 +438,4 @@
 - [The Reactive Monolith – How to Move from CRUD to Event Sourcing (2021)](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing) ([HN](https://news.ycombinator.com/item?id=28691728))
 - [Ask HN: Why are relational DBs are the standard instead of graph-based DBs? (2021)](https://news.ycombinator.com/item?id=28736405)
 - [Cheapest / fastest way to load Stripe data into a SQL database (2021)](https://twitter.com/Suhail/status/1441897490312138759)
+- [Pelikan](https://github.com/twitter/pelikan) - Twitter's unified cache backend.
