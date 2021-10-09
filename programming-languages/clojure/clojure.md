@@ -156,3 +156,4 @@
 - [Monads for Clojure Programmers (2021)](https://cuddly-octo-palm-tree.com/posts/2021-10-03-monads-clojure/) ([HN](https://news.ycombinator.com/item?id=28745059))
 - [tools.analyzer](https://github.com/clojure/tools.analyzer) - Analyzer for Clojure code, written in Clojure and producing AST in EDN.
 - [Erlang inspired error handling with superv.async. (2016)](https://whilo.github.io/articles/16/error-handling1)
+- [Native Clojure with GraalVM (2021)](https://convexhuman.com/graalvm-clojure.html)

@@ -322,7 +322,7 @@
 - [What niche industries still need much better software? (2021)](https://twitter.com/tylertringas/status/1443214561319038982)
 - [On Risk and Imagining the Future (2021)](https://www.nealkhosla.com/blog/on-risk-and-imagining-the-future)
 - [What's the best SaaS starter kit? (2021)](https://news.ycombinator.com/item?id=28774647)
-- [How to Evaluate Startup Offers - A Beginner's Guide (2021)](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
+- [How to Evaluate Startup Offers (2021)](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
 
 ## Images
 
