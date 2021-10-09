@@ -89,3 +89,4 @@
 - [Perito](https://perito-burrito.com/) - Куда поехать в путешествие.
 - [Lonely Planet](https://www.lonelyplanet.com/) - Travel Guides & Travel Information - Lonely Planet.
 - [The longest possible train travel in the world](https://www.reddit.com/r/MapPorn/comments/po1ggb/the_longest_possible_train_travel_in_the_world/)
+- [Ask HN: What is your story of immigrating to another country? (2021)](https://news.ycombinator.com/item?id=28808468)

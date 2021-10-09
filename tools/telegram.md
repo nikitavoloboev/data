@@ -23,7 +23,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telebot](https://github.com/tucnak/telebot) - Looks awesome.
 - [Telegrammer](https://github.com/givip/Telegrammer) - Written with Swift 5.0/NIO, supports Linux, macOS.
 - [Telegraphist](https://github.com/xamut/telegraphist) - Telegram Bot API on Go.
-- [Pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python.
+- [Pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python. ([Docs](https://docs.pyrogram.org/))
 - [gramme.rs](https://github.com/Lonami/grammers) - Set of Rust libraries to interact with Telegram's API.
 - [teloxide](https://github.com/teloxide/teloxide) - Elegant Telegram bots framework for Rust.
 - [Rust Telegram Bot Library](https://github.com/telegram-rs/telegram-bot)

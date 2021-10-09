@@ -167,6 +167,7 @@
 - [Peach](https://github.com/flmng0/peach) - Processing-esque sandboxing framework for Rust.
 - [Rendiation](https://github.com/mikialex/rendiation) - Group of crates that can be composed to impl graphics project.
 - [Building Blocks](https://github.com/bonsairobo/building-blocks) - Voxel library for real-time applications.
+- [Relm4](https://github.com/AaronErhardt/relm4) - Idiomatic GUI library inspired by Elm and based on gtk4-rs.
 
 ## Games
 
@@ -261,6 +262,7 @@
 - [Aya](https://github.com/alessandrod/aya) - eBPF library for the Rust programming language, built with a focus on developer experience and operability. ([Article](https://confused.ai/posts/announcing-aya))
 - [sev](https://github.com/enarx/sev) - Implementation of AMD Secure Encrypted Virtualization (SEV) APIs.
 - [pam](https://github.com/1wilkens/pam) - Safe Rust API to the Linux Pluggable Authentication Modules (PAM).
+- [rust-bcc](https://github.com/rust-bpf/rust-bcc) - Idiomatic Rust bindings for the BPF compiler collection.
 
 ## ML
 
