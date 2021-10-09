@@ -775,6 +775,8 @@
 - [TextStory](https://github.com/ChimeHQ/TextStory) - Happier, more flexible NSTextStorage.
 - [OperationPlus](https://github.com/ChimeHQ/OperationPlus) - Set of NSOperation subclasses and extensions on NSOperation/NSOperationQueue.
 - [BlueSignals](https://github.com/Kitura/BlueSignals) - Generic Cross Platform Signal Handler.
+- [Netable](https://github.com/steamclock/netable) - Swift library for encapsulating network APIs using Codable in a type-oriented way.
+- [Bluejay](https://github.com/steamclock/bluejay) - Simple Swift framework for building reliable Bluetooth LE apps.
 
 ## Other (not lib)
 

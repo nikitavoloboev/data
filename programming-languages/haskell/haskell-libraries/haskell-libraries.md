@@ -156,6 +156,7 @@
 - [explainable-predicates](https://github.com/cdsmith/explainable-predicates) - Predicates that can explain themselves.
 - [json-syntax](https://github.com/byteverse/json-syntax) - High-performance JSON parser.
 - [bytesmith](https://github.com/byteverse/bytesmith) - Parse bytes fast.
+- [blanks](https://github.com/ejconlon/blanks) - Fill-in-the-blanks - A library factoring out substitution from ASTs.
 
 ## Links
 
