@@ -33,3 +33,4 @@
 - [Scar](https://scar.vercel.app/#/) - Arweave Explorer. ([Code](https://github.com/renzholy/scar))
 - [Arweave Server](https://github.com/ArweaveTeam/arweave) - Official Erlang implementation of the Arweave protocol and a gateway implementation.
 - [Arweave Names Service](https://github.com/decentldotland/ANS) - Domain Names Service - Gravatar hybrid on the Arweave network.
+- [ArConnect](https://arconnect.io/) - Secure wallet management for Arweave. ([Tweet](https://twitter.com/dabit3/status/1447258181730713608))

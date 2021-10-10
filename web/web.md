@@ -313,3 +313,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Display Locking API](https://github.com/WICG/display-locking) - Umbrella term of related features designed primarily to allow developers to increase performance of their sites.
 - [Have Single-Page Apps Ruined the Web? | Transitional Apps with Rich Harris, NYTimes (2021)](https://www.youtube.com/watch?v=860d8usGC0o) ([Tweet](https://twitter.com/rich_harris/status/1446601175197880325?s=28))
 - [Reading from the web offline and distraction-free - Unladen swallow (2021)](https://blog.owulveryck.info/2021/10/07/reading-from-the-web-offline-and-distraction-free.html) ([Code](https://github.com/owulveryck/rePocketable))
+- [I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021) ([HN](https://news.ycombinator.com/item?id=28818829))

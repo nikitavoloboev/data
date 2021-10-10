@@ -46,3 +46,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [4-Methyl Methcathinone synthesis, Hive Novel Discourse](https://chemistry.mdma.ch/hiveboard/novel/000423945.html)
 - [4mmc Synthesis](https://pdfcoffee.com/4mmc-synthesis-pdf-free.html)
 - [The Hive Archive](https://chemistry.mdma.ch/hiveboard/)
+- [What is the longest lasting drug? (2021)](https://www.reddit.com/r/researchchemicals/comments/q43pno/what_is_the_longest_lasting_drug/)

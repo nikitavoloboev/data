@@ -84,3 +84,4 @@
 - [SimpleLanguage](https://github.com/graalvm/simplelanguage) - Simple example language built using the Truffle API for GraalVM. ([Docs](https://www.graalvm.org/graalvm-as-a-platform/implement-language/))
 - [jni-bindgen](https://github.com/MaulingMonkey/jni-bindgen) - Generate Rust JVM FFI wrappers around APIs defined by .jar or .class files.
 - [Gradle Shadow](https://github.com/johnrengelman/shadow) - Gradle plugin for creating fat/uber JARs with support for package relocation.
+- [Which Version of JDK Should I Use?](http://whichjdk.com/) ([HN](https://news.ycombinator.com/item?id=28820601))
