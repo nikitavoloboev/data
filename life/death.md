@@ -52,3 +52,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [What’s the legacy you want to leave behind? (2021)](https://twitter.com/justinkan/status/1432154554515144708)
 - [Norm Macdonald on his funeral](https://www.youtube.com/watch?v=KaRQ6gOCH9E)
 - [Death](https://ghuntley.com/death/) ([HN](https://news.ycombinator.com/item?id=28659276))
+- [Ask HN: What can you do to help the grieving? (2021)](https://news.ycombinator.com/item?id=28820090)

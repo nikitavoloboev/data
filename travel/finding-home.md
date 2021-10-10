@@ -64,3 +64,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [Home Price to Income Ratio](https://www.longtermtrends.net/home-price-median-annual-income-ratio/) ([HN](https://news.ycombinator.com/item?id=28594201))
 - [How to Live in Airbnbs for the Price of an Apartment Lease (2020)](https://esimoney.com/how-to-live-in-airbnbs-for-the-price-of-an-apartment-lease/) ([HN](https://news.ycombinator.com/item?id=28659170))
 - [Solar Shed Summary: My Off Grid Office (2021)](https://www.sevarg.net/2016/07/31/solar-shed-summary-my-off-grid-office/) ([HN](https://news.ycombinator.com/item?id=28735687))
+- [Wander](https://www.wander.com/) - Book the perfect Wander-owned smart home for your next workcation, vacation or anything in-between. ([Twitter](https://twitter.com/wander))

@@ -392,3 +392,4 @@
 - [SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes (2021)](https://xuchen-ethz.github.io/snarf/) ([Code](https://github.com/xuchen-ethz/snarf))
 - [HRFormer: High-Resolution Transformer for Dense Prediction, NeurIPS 2021](https://github.com/HRNet/HRFormer)
 - [IceVision](https://github.com/airctic/icevision) - Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come. ([Docs](https://airctic.com/))
+- [e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks (2021)](https://arxiv.org/abs/2105.03761) ([Tweet](https://twitter.com/maximek3/status/1438554571756933127))

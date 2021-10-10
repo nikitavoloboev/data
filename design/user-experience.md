@@ -14,6 +14,7 @@
 - [One of the coolest onboarding tricks I've seen recently - do different tasks for a product onboarding to add days to your free trial.](https://twitter.com/kushaanshah/status/1433210611895189509)
 - [Every app should have a cmd+k command palette interface to search actions](https://twitter.com/seanrose/status/1438648231404003331)
 - [Right click logo to get press kit](https://twitter.com/michaelvillar/status/1445079259362562058)
+- [“Modal” is when user input goes into an alternate mode. It is _not_ an overlay window. Better language for an overlay window: “Dialog box” or “Pop-up window.”](https://twitter.com/rsms/status/1435636310371291137)
 
 ## Links
 

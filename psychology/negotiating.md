@@ -10,6 +10,7 @@
   4. You 'compromise' by walking back to what you want. You opponent gets a win and you get what you wanted all along.
 - [It doesn’t matter what you were paid at your previous gig, and don’t answer if they ask.](https://lobste.rs/s/rwy6lq/what_are_rules_thumb_for_salary)
 - My current compensation is part of the reason why am looking into other opportunities.
+- [Never overplay your hand when negotiating a major deal -- especially not against a stronger player. There are ways to be a strong negotiator without lying.](https://twitter.com/apartovi/status/1447253292686270467)
 
 ## Links
 

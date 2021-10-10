@@ -147,3 +147,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Bank of America's research report on the digital asset ecosystem titled: “Digital Assets Primer: Only the first inning”](https://twitter.com/PastryEth/status/1445565755534184452)
 - [Worries about NFTs (2021)](https://twitter.com/Pinboard/status/1445882937505771527)
 - [Ask HN: Practically accepting cryptocurrency for businesses without middlemen? (2021)](https://news.ycombinator.com/item?id=28795005)
+- [Your Money and Your Life - by Edward Snowden (2021)](https://edwardsnowden.substack.com/p/cbdcs) - Central Banks Digital Currencies will ransom our future. ([Tweet](https://twitter.com/Snowden/status/1446850805223591938))

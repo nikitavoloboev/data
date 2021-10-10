@@ -43,6 +43,7 @@
 - [Higher level impact often requires influencing peers and leaders. You need to get good at crisply stating why something is important, tailoring details to your audience and communicating regularly.](https://twitter.com/Carnage4Life/status/1433532683787722755)
 - [They don’t lie to you because the truth will hurt your feelings. They lie to you because the truth might provoke you to make the choices that won’t serve their interests.](https://www.reddit.com/r/survivinginfidelity/comments/ip1kjh/truth_about_all_liars/)
 - [Take a moment before answering / deciding / reacting. Don't be pulled into someone else's tempo, keep your own rhythm and pace.](https://www.reddit.com/r/AskWomen/comments/pojsoy/what_is_quick_life_hack_every_woman_should_know/)
+- [Trust can be ruined with a single word, and it’s not easy to rebuild.](https://twitter.com/apartovi/status/1447251334814523392)
 
 ## Links
 

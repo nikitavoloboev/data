@@ -555,3 +555,4 @@ Go promotes composition over inheritance.
 - [The fanciest way of releasing Go binaries with GoReleaser (2021)](https://medium.com/trendyol-tech/the-fanciest-way-of-releasing-go-binaries-with-goreleaser-dbbd3d44c7fb)
 - [Type-Safe HTTP Servers in Go via Generics (2021)](https://hypirion.com/musings/type-safe-http-servers-in-go-via-generics)
 - [Hey linker, can you spare a meg? (2021)](https://tailscale.com/blog/go-linker/) ([Lobsters](https://lobste.rs/s/hynaq9/hey_linker_can_you_spare_meg))
+- [An Optimisation Story: Building a Code Scanner for Large Go Apps (2021)](https://blog.shiftleft.io/an-optimisation-story-building-a-code-scanner-for-large-golang-apps-efabd17258ea)
