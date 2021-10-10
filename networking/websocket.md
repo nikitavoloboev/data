@@ -47,3 +47,4 @@
 - [tinyws](https://github.com/tinyhttp/tinyws) - Tiny WebSocket middleware for Node.js.
 - [Jamsocket](https://github.com/jamsocket/jamsocket) - Lightweight framework for building WebSocket-based application backends. ([Template](https://github.com/jamsocket/service-template))
 - [embedded-websocket](https://github.com/ninjasource/embedded-websocket) - Lightweight rust websocket library for embedded systems no_std.
+- [Cortical](https://github.com/owulveryck/cortical) - Browser sends events through websockets, Cortical dispatch them to processing unit, concurently.

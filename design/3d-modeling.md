@@ -58,3 +58,4 @@
 - [ShapeScript](https://github.com/nicklockwood/ShapeScript) - Hybrid scripting/markup language for creating and manipulating 3D geometry. Code for the ShapeScript 3D modeling app for macOS.
 - [Pyrender](https://github.com/mmatl/pyrender) - Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes.
 - [Drafting with Signed Distance Functions](https://github.com/NGimbal/sdfui)
+- [GraphSCAD](http://graphscad.blogspot.com/) - User Friendly Nodal Editor for OpenSCAD (2018). ([HN](https://news.ycombinator.com/item?id=28817102))

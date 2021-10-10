@@ -333,3 +333,8 @@
 - [Yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time thread & coroutine & greenlet aware.
 - [Faster Python with Guido van Rossum (2021)](https://www.softwareatscale.dev/p/software-at-scale-34-faster-python) ([Lobsters](https://lobste.rs/s/8tlsr1/guido_van_rossum_on_improving_python_s)) ([HN](https://news.ycombinator.com/item?id=28787007))
 - [HN: Python 3.11: “Zero cost” exception handling (2021)](https://news.ycombinator.com/item?id=28771931)
+- [Understanding all of Python, through its builtins (2021)](https://sadh.life/post/builtins/) ([HN](https://news.ycombinator.com/item?id=28819030))
+- [The math behind Python's slices (2021)](https://sadh.life/post/slices/)
+- [Tips for debugging with print() (2021)](https://adamj.eu/tech/2021/10/08/tips-for-debugging-with-print/) ([Lobsters](https://lobste.rs/s/kkrvku/tips_for_debugging_with_print))
+- [The Many Ways to Exit in Python (2021)](https://adamj.eu/tech/2021/10/10/the-many-ways-to-exit-in-python/)
+- [A Python Script Template, with and without Type Hints and Async (2021)](https://adamj.eu/tech/2021/10/09/a-python-script-template-with-and-without-type-hints-and-async/)

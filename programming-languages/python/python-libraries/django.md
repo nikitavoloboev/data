@@ -99,3 +99,4 @@
 - [Hotwired/Turbo Django response helpers](https://github.com/hotwire-django/django-turbo-response)
 - [New Testing Features in Django 4.0 (2021)](https://adamj.eu/tech/2021/09/28/new-testing-features-in-django-4.0/)
 - [High Performance Django (2014)](https://lincolnloop.com/high-performance-django/)
+- [New Testing Features in Django 4.0 (2021)](https://adamj.eu/tech/2021/09/28/new-testing-features-in-django-4.0/)

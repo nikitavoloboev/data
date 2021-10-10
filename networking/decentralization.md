@@ -93,3 +93,4 @@
 - [Most thought provoking ideas on Web 3, NFTs, tokens (2021)](https://twitter.com/rohit_jindal29/status/1445625922770505741)
 - [Web3 Jobs](https://web3.career/) - Blockchain, Smart Contract and Crypto Jobs.
 - [The Rise of Micro-Economies (2021)](https://coopahtroopa.mirror.xyz/gWY6Kfebs9wHdfoZZswfiLTBVzfKiyFaIwNf2q8JpgI)
+- [Web3 architecture and how it compares to traditional web apps (2021)](https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/) ([HN](https://news.ycombinator.com/item?id=28800818))

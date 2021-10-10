@@ -93,3 +93,4 @@
 - [The DevOps: A Concise Understanding to the DevOps Philosophy and Science. (Technical Report) (2021)](https://www.osti.gov/biblio/1785164)
 - [Cachito](https://github.com/release-engineering/cachito) - Caching service for source code and external dependencies.
 - [envsafe](https://github.com/KATT/envsafe) - Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Fancy self-hosted monitoring tool. ([HN](https://news.ycombinator.com/item?id=28809501))

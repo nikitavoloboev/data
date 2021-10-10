@@ -63,3 +63,4 @@
 - [Mathematical Circles: Russian Experience](https://www.amazon.com/Mathematical-Circles-Russian-Experience-World/dp/0821804308)
 - [Ask HN: Books that teach you logic building skills (2021)](https://news.ycombinator.com/item?id=28500951)
 - [Inductive logic programming at 30: a new introduction (2020)](https://arxiv.org/abs/2008.07912)
+- [Poincaré, Heisenberg, Gödel and the limits of scientific knowledge (2013)](https://arxiv.org/abs/1301.7036) ([HN](https://news.ycombinator.com/item?id=28816143))

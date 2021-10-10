@@ -192,7 +192,7 @@
 
 ## GraphQL
 
-- [genqlient](https://github.com/Khan/genqlient) - Truly type-safe Go GraphQL client. ([Article](https://blog.khanacademy.org/genqlient-a-truly-type-safe-go-graphql-client/))
+- [genqlient](https://github.com/Khan/genqlient) - Truly type-safe Go GraphQL client. ([Article](https://blog.khanacademy.org/genqlient-a-truly-type-safe-go-graphql-client/)) ([Article](https://blog.khanacademy.org/where-go-and-graphql-collide-behind-the-curtain-with-genqlient/))
 - [gqlgen](https://github.com/99designs/gqlgen) - Library for quickly creating strictly typed graphql servers in golang. ([Docs](https://gqlgen.com/))
 - [gq](https://github.com/housecanary/gq) - Library to help build GraphQL server in Go.
 - [GGql](https://github.com/UHN/ggql) - GraphQL implementation for Go.

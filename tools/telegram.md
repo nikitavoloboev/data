@@ -61,6 +61,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Voice to text bot](https://github.com/nabokihms/telegram_unvoicer_bot) - Unpack voicemails into a text.
 - [LoggingTelegram](https://github.com/stevapple/swift-log-telegram) - Send SwiftLog messages to any Telegram chat.
 - [Olgram Bot](https://t.me/olgrambot) - Конструктор ботов обратной связи. Open source альтернатива Livegram бота. Telegram feedback bot constructor. ([Code](https://github.com/civsocit/olgram))
+- [piston_bot](https://github.com/tusharsadhwani/piston_bot) - Telegram bot that will run code for you.
 
 ## Notes
 

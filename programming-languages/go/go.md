@@ -554,3 +554,4 @@ Go promotes composition over inheritance.
 - [Things Go needs more than generics (2021)](https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b) ([HN](https://news.ycombinator.com/item?id=28742509))
 - [The fanciest way of releasing Go binaries with GoReleaser (2021)](https://medium.com/trendyol-tech/the-fanciest-way-of-releasing-go-binaries-with-goreleaser-dbbd3d44c7fb)
 - [Type-Safe HTTP Servers in Go via Generics (2021)](https://hypirion.com/musings/type-safe-http-servers-in-go-via-generics)
+- [Hey linker, can you spare a meg? (2021)](https://tailscale.com/blog/go-linker/) ([Lobsters](https://lobste.rs/s/hynaq9/hey_linker_can_you_spare_meg))

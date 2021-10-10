@@ -131,3 +131,4 @@
 - [Rust on ESP32 "Hello, World" app](https://github.com/ivmarkov/rust-esp32-std-hello) - Demo binary crate for the ESP32[XX] and ESP-IDF, which connects to WiFi, drives a small HTTP server and draws on a LED screen.
 - [cortex-m-quickstart](https://github.com/rust-embedded/cortex-m-quickstart) - Template for building applications for ARM Cortex-M microcontrollers.
 - [flip-link](https://github.com/knurling-rs/flip-link) - Adds zero-cost stack overflow protection to your embedded programs.
+- [Programming PIC32 Microcontroller with Rust (2021)](https://gill.net.in/posts/pic32-blink-led-rust/) ([HN](https://news.ycombinator.com/item?id=28818853))

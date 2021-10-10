@@ -14,7 +14,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Redox](https://github.com/redox-os/redox) - Unix-like Operating System written in Rust. ([Web](https://www.redox-os.org/))
 - [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
 - [OS67](https://github.com/SilverRainZ/OS67) - Unix-like toy kernel.
-- [SerenityOS](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers. ([Web](http://serenityos.org/))
+- [SerenityOS](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers. ([Web](http://serenityos.org/)) ([Year 3 in review](https://serenityos.org/happy/3rd/)) ([HN](https://news.ycombinator.com/item?id=28817599))
 - [Resea](https://github.com/seiyanuta/resea) - Pure microkernel-based hackable operating system written from scratch in C and Rust.
 - [Rux](https://github.com/sorpaas/rux) - Hobbyist microkernel written in Rust, featuring a capability-based system similar to seL4.
 - [redshirt](https://github.com/tomaka/redshirt) - Experiment to build some kind of operating-system-like environment where executables are all in WASM and are loaded from an IPFS-like decentralized network.
@@ -112,6 +112,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Pumpkin OS](https://pmig96.wordpress.com/2021/09/08/pumpkin-os/) - x64 port/re-implementation of PalmOS. ([Lobsters](https://lobste.rs/s/m8mhb1/pumpkin_os))
 - [SteinsOS](https://github.com/0x59616e/SteinsOS) - Operating system featuring non-preemptive single-threaded kernel targeting on armv8.
 - [EmbassyOS](https://github.com/Start9Labs/embassy-os) - Graphical operating system for running self-hosted software. ([Web](https://start9.com/))
+- [Singularity](https://codingkaiser.blog/2021/07/23/operating-systems-are-more-exciting-than-you-think/) - Microsoft’s Experimental OS. ([HN](https://news.ycombinator.com/item?id=28816876))
 
 ## Notes
 

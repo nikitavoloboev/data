@@ -319,3 +319,4 @@
 - [JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter) - Sandboxed JavaScript interpreter in JavaScript. Execute arbitrary JavaScript code line by line in isolation and safety.
 - [EStruct](https://github.com/RayLuxembourg/estruct) - Traverses JavaScript projects and maps all the dependencies and relationships to a JSON.
 - [unbuild](https://github.com/unjs/unbuild) - Unified JavaScript build system.
+- [The Shocking Immaturity of JavaScript (2021)](https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70) ([HN](https://news.ycombinator.com/item?id=28816961))

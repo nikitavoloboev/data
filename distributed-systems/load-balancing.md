@@ -34,3 +34,4 @@
 - [Nucleon](https://github.com/NicolasLM/nucleon) - Dynamic TCP load balancer written in Rust. It has the ability to insert and remove backend servers on the fly.
 - [wirez](https://github.com/v-byte-cpu/wirez) - Simple socks5 round-robin load balancer.
 - [Eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
+- [Using load shedding to avoid overload](https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/) ([HN](https://news.ycombinator.com/item?id=28818622))

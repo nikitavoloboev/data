@@ -142,3 +142,4 @@
 - [microlisp](https://github.com/lazear/microlisp) - Set of minimal LISP implementations.
 - [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs. ([HN](https://news.ycombinator.com/item?id=28616475))
 - [Liz](https://github.com/dundalek/liz) - Lisp-flavored general-purpose programming language (based on Zig).
+- [Tiny Scheme-like Lisp interpreter written in a weekend](https://github.com/fragglet/yoctolisp/blob/master/yoctolisp.md) ([HN](https://news.ycombinator.com/item?id=28815724))
