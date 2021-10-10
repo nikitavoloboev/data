@@ -123,3 +123,4 @@
 - [Always take user's perspective/experience](https://twitter.com/arvidkahl/status/1442940646549905415)
 - [Pagination or infinite scrolling?](https://twitter.com/DanHollick/status/1443625461091737612)
 - [First Principles of Interaction Design (2014)](https://asktog.com/atc/principles-of-interaction-design/)
+- [Why We Crave Software With Style Over "Branding" (2021)](https://future.a16z.com/software-style-over-branding/) ([Tweet](https://twitter.com/mollyfmielke/status/1446873224751419398))

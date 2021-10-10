@@ -60,6 +60,7 @@ Here are few more things I liked, design wise.
 - [Hicks](https://hicks.design/)
 - [Materialize](https://materialize.io/)
 - [Dropbase](https://www.dropbase.io/)
+- [Antoine Lee](https://www.avanderlee.com/)
 - [Failory](https://www.failory.com/)
 - [iA](https://ia.net/)
 - [Wildbit](https://wildbit.com/)

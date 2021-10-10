@@ -43,4 +43,4 @@
 - [SemanticKITTI](http://semantic-kitti.org/) - Dataset for LiDAR-based Semantic Scene Understanding.
 - [SemanticKITTI API](https://github.com/PRBonn/semantic-kitti-api) - Helper scripts to open, visualize, process, and evaluate results for point clouds and labels from the SemanticKITTI dataset.
 - [Tesla Safety Score](https://www.tesla.com/support/safety-score) - Assessment of your driving behavior based on five metrics called Safety Factors.
-- [Self-Parking Car in 500 Lines of Code (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) ([Lobsters](https://lobste.rs/s/sfzmwa/self_parking_car_500_lines_code))
+- [Self-Parking Car in 500 Lines of Code (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) ([Lobsters](https://lobste.rs/s/sfzmwa/self_parking_car_500_lines_code)) ([HN](https://news.ycombinator.com/item?id=28811477))
