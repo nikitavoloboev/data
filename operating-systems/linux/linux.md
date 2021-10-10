@@ -382,3 +382,4 @@
 - [Moving Google toward the mainline (2021)](https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/) ([HN](https://news.ycombinator.com/item?id=28767854))
 - [Dockerfile examples for containerized systemd](https://github.com/AkihiroSuda/containerized-systemd)
 - [Taming the BPF Superpowers (2021)](https://lwn.net/Articles/870269/) ([HN](https://news.ycombinator.com/item?id=28817794))
+- [Linux from scratch using virtual machines on a Apple Mac M1 laptop](https://philsyme.github.io/lfs-tw/)

@@ -249,3 +249,4 @@
 - [Next.js API Routes validation using Middlewares and Yup](https://www.shadcn.com/validation-middleware)
 - [Using Postmark with NextAuth.js](https://www.shadcn.com/next-auth-postmark)
 - [Logging in Next.js (2020)](https://www.netlify.com/blog/2020/12/13/logging-in-next.js/)
+- [Building a Blog With Next.js and MDX (2021)](https://blog.jetbrains.com/webstorm/2021/10/building-a-blog-with-next-js-and-mdx/)

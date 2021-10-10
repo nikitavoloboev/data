@@ -147,3 +147,4 @@
 - [httpcat](https://github.com/httpie/httpcat) - Simple utility for constructing raw HTTP requests on the command line.
 - [parse-curl.js](https://github.com/tj/parse-curl.js) - Parse curl commands, returning an object representing the request.
 - [CORS Comic](https://wizardzines.com/comics/cors/)
+- [HTTPie and Print HTTP Request](https://kracekumar.com/post/print_http_request/)
