@@ -266,7 +266,7 @@
 - [Is Space-Time Attention All You Need for Video Understanding? (2021)](https://arxiv.org/abs/2102.05095) ([Code](https://github.com/facebookresearch/TimeSformer))
 - [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) - Transformer with Computer-Vision (CV) papers.
 - [PyTorchVideo](https://github.com/facebookresearch/pytorchvideo) - Deep learning library for video understanding research. ([Web](https://pytorchvideo.org/))
-- [Self-supervised Video Object Segmentation by Motion Grouping (2021)](https://charigyang.github.io/motiongroup/) ([HN](https://news.ycombinator.com/item?id=26842018))
+- [Self-supervised Video Object Segmentation by Motion Grouping (2021)](https://charigyang.github.io/motiongroup/) ([HN](https://news.ycombinator.com/item?id=26842018)) ([Code](https://github.com/charigyang/motiongrouping))
 - [torchvideo](https://github.com/torchvideo/torchvideo) - Datasets, transforms and samplers for video in PyTorch.
 - [A General and Adaptive Robust Loss Function (2019)](https://arxiv.org/abs/1701.03077) ([Code](https://github.com/jonbarron/robust_loss_pytorch))
 - [Self-supervising Fine-grained Region Similarities for Large-scale Image Localization (2020)](https://geyixiao.com/projects/sfrs) ([Code](https://github.com/yxgeee/OpenIBL))
@@ -393,3 +393,6 @@
 - [HRFormer: High-Resolution Transformer for Dense Prediction, NeurIPS 2021](https://github.com/HRNet/HRFormer)
 - [IceVision](https://github.com/airctic/icevision) - Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come. ([Docs](https://airctic.com/))
 - [e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks (2021)](https://arxiv.org/abs/2105.03761) ([Tweet](https://twitter.com/maximek3/status/1438554571756933127))
+- [Attention Gated Networks (Image Classification & Segmentation) in PyTorch](https://github.com/ozan-oktay/Attention-Gated-Networks)
+- [Full-Duplex Strategy for Video Object Segmentation (2021)](https://arxiv.org/abs/2108.03151v2) ([Code](https://github.com/GewelsJI/FSNet))
+- [YoHa](https://handtracking.io/) - Practical hand tracking engine. ([HN](https://news.ycombinator.com/item?id=28825820))

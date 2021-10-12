@@ -22,3 +22,4 @@
 - [I18n in Go: Managing Translations (2021)](https://www.alexedwards.net/blog/i18n-managing-translations)
 - [i18n-tools](https://github.com/jy95/i18n-tools) - CLI to make common operations around i18n files simpler.
 - [I18n in Go: Managing Translations (2021)](https://www.alexedwards.net/blog/i18n-managing-translations)
+- [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js.

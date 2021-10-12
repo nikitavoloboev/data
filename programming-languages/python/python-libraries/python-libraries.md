@@ -362,7 +362,7 @@
 - [pyamgx](https://github.com/shwina/pyamgx) - Python interface to NVIDIA's AMGX library.
 - [Finite State Machine](https://github.com/alysivji/finite-state-machine) - Lightweight, decorator-based Python implementation of a Finite State Machine.
 - [Spatial Math](https://github.com/petercorke/spatialmath-python) - Create, manipulate and convert representations of position and orientation in 2D or 3D using Python.
-- [Fugue](https://github.com/fugue-project/fugue) - Abstraction layer for distributed computation.
+- [Fugue](https://github.com/fugue-project/fugue) - Unified interface for distributed computing that lets users execute Python, pandas, and SQL code on Spark and Dask without rewrites. ([Docs](https://fugue-tutorials.readthedocs.io/en/latest/tutorials/fugue_sql/index.html))
 - [PyMesh](https://github.com/PyMesh/PyMesh) - Geometry Processing Library for Python.
 - [Spylls](https://github.com/zverok/spylls) - Pure Python spell-checker.
 - [Ring](https://github.com/youknowone/ring) - Python cache interface with clean API and built-in memcache & redis + asyncio support.
@@ -495,6 +495,7 @@
 - [Emukit](https://github.com/EmuKit/emukit) - Highly adaptable Python toolkit for enriching decision making under uncertainty.
 - [PyContracts](https://github.com/AndreaCensi/contracts) - Python package that allows to declare constraints on function parameters and return values.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
+- [PyPermut](https://github.com/qbarthelemy/PyPermut) - Python package for permutation tests, for statistics and machine learning.
 
 ## Links
 

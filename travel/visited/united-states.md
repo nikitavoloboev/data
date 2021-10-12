@@ -75,3 +75,6 @@
 - [Foreign Affairs](https://www.foreignaffairs.com/) - Forum for serious discussion of American foreign policy and global affairs.
 - [Open Source Tax Software (2021)](http://ctskennerton.github.io/2021/08/30/open-source-tax-software/) ([HN](https://news.ycombinator.com/item?id=28755034))
 - [Forward Party](https://www.forwardparty.com/) - Not Left. Not Right. Forward. By Andrew Yang. ([HN](https://news.ycombinator.com/item?id=28766825))
+- [Timeline of United States inventions](https://en.wikipedia.org/wiki/Timeline_of_United_States_inventions)
+- [The Off-Grid Laws of Every State in America (2021)](https://www.primalsurvivor.net/living-off-grid-legal/)
+- [Top 1% of U.S. Earners Now Hold More Wealth Than All of the Middle Class (2021)](https://www.bloomberg.com/news/articles/2021-10-08/top-1-earners-hold-more-wealth-than-the-u-s-middle-class) ([Reddit](https://www.reddit.com/r/Economics/comments/q5dub2/top_1_of_us_earners_now_hold_more_wealth_than_all/)) ([HN](https://news.ycombinator.com/item?id=28826646))

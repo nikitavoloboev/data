@@ -306,3 +306,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Steering oceans of content to the world (2017)](https://engineering.fb.com/2017/08/21/networking-traffic/steering-oceans-of-content-to-the-world/) ([HN](https://news.ycombinator.com/item?id=28755086))
 - [WiFi Connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop.
 - [Hello IPv6: a minimal tutorial for IPv4 users](https://metebalci.com/blog/hello-ipv6/) ([HN](https://news.ycombinator.com/item?id=28784868))
+- [Geneva](https://github.com/Kkevsterrr/geneva) - Automated censorship evasion for the client-side and server-side. ([Web](https://geneva.cs.umd.edu/))
+- [socks](https://github.com/JoshGlazebrook/socks) - Fully featured SOCKS proxy client supporting SOCKSv4, SOCKSv4a, and SOCKSv5. Includes Bind and Associate functionality.

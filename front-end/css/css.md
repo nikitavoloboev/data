@@ -365,3 +365,6 @@
 - [Dynamic CSS color themes with similar contrasts (2021)](https://elis.nu/blog/2021/09/dynamic-css-color-themes-with-similar-contrasts/)
 - [How To Build An Expandable Accessible Gallery (2021)](https://www.smashingmagazine.com/2021/10/build-expandable-accessible-gallery/)
 - [AVIF in CSS](https://github.com/nucliweb/avif-in-css) - PostCSS plugin to use AVIF in CSS background.
+- [A Guide To CSS Debugging (2021)](https://www.smashingmagazine.com/2021/10/guide-debugging-css/)
+- [CSS to XPath](https://github.com/peteboere/csstoxpath)
+- [Conditional Border Radius In CSS (2021)](https://ishadeed.com/article/conditional-border-radius/)

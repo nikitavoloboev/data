@@ -7,6 +7,7 @@
 
 ## Links
 
+- [Neural Network from Scratch (Interactive)](https://aegeorge42.github.io/) ([HN](https://news.ycombinator.com/item?id=28806701))
 - [But what is a Neural Network? | Deep learning, chapter 1 (2017)](https://www.youtube.com/watch?v=aircAruvnKk)
 - [A Neural Network Playground](https://playground.tensorflow.org)
 - [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)

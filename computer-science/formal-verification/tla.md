@@ -30,3 +30,4 @@
 - [Specification Refinement (2021)](https://www.hillelwayne.com/post/refinement/)
 - [tlacli](https://github.com/hwayne/tlacli) - CLI tool for TLA+.
 - [Current and Future Tools for Interactive TLA+ (2021)](https://emptysqua.re/blog/interactive-tla-plus/)
+- [TLA+ Conf 2021](https://conf.tlapl.us/2021/) ([Videos](https://www.youtube.com/playlist?list=PLWLcqZLzY8u9kzmWgs3HPRm3Cw85LTpD2))

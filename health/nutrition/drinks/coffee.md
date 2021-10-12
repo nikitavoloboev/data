@@ -1,5 +1,9 @@
 # Coffee
 
+## Interesting
+
+- [Raf Coffee](https://www.baristainstitute.com/blog/oksana-shaposhnikova/september-2020/raf-coffee-what-it-and-how-make-it)
+
 ## Notes
 
 - [Caffeine is a stimulant. The avg half life of caffeine in an adult is around 5h. So if you have a coffee at 5pm, it means that only 50% of it is gone by 10pm. Depending on how quickly you metabolise coffee, that half life could actually be up to 9h.](https://twitter.com/m_franceschetti/status/1378402354316328968)

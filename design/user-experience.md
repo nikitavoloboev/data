@@ -125,3 +125,4 @@
 - [Pagination or infinite scrolling?](https://twitter.com/DanHollick/status/1443625461091737612)
 - [First Principles of Interaction Design (2014)](https://asktog.com/atc/principles-of-interaction-design/)
 - [Why We Crave Software With Style Over "Branding" (2021)](https://future.a16z.com/software-style-over-branding/) ([Tweet](https://twitter.com/mollyfmielke/status/1446873224751419398))
+- [Apple Human Interface Guidelines: The Apple Desktop Interface (1987)](https://andymatuschak.org/files/papers/Apple%20Human%20Interface%20Guidelines%201987.pdf) ([Tweet](https://twitter.com/andy_matuschak/status/1447407670403612672))

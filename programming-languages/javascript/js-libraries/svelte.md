@@ -115,3 +115,4 @@
 - [Backend-Only Authentication With Sapper & Firebase Admin (2021)](https://www.marek.page/backend-only-authentication-with-sapper-firebase-admin/)
 - [5 Things I Like In Svelte More Than React (2021)](https://www.youtube.com/watch?v=3fLwkhkYdHM)
 - [Svelte and SvelteKit - Why We Love It and Why You Should Try It (2021)](https://www.youtube.com/watch?v=KJ-qMlZnMCE)
+- [Awesome examples of SvelteKit in the wild](https://github.com/janosh/awesome-svelte-kit)

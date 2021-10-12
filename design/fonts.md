@@ -264,3 +264,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [opentype.js](https://github.com/opentypejs/opentype.js) - JavaScript parser and writer for TrueType and OpenType fonts. ([Web](https://opentype.js.org/))
 - [Improving My Website's Typography (2021)](https://kevq.uk/pimping-my-type-improving-my-websites-typography/)
 - [Blaze Type](https://blazetype.eu/) ([Twitter](https://twitter.com/BlazeFoundry))
+- [Lipi](https://github.com/dfrg/lipi) - Font independent text analysis support for shaping and layout.

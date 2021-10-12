@@ -22,3 +22,4 @@ There are also few nootropics you can take to in some way boost your mental abil
 - [Ask HN: Do You Take Nootropics? (2021)](https://news.ycombinator.com/item?id=26287437)
 - [What are your "secret" lesser known herbs/compounds/extracts that you swear by and not many know about? (2021)](https://www.reddit.com/r/Nootropics/comments/m32fui/what_are_your_secret_lesser_known/)
 - [How to increase dopamine receptors (2021)](https://www.reddit.com/r/Nootropics/comments/o5iibc/how_to_increase_dopamine_receptors/)
+- [Limitless like pill (2021)](https://www.reddit.com/r/researchchemicals/comments/q5fe9l/if_you_were_to_submit_your_combination_of_drugs/)

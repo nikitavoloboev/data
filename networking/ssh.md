@@ -71,3 +71,5 @@
 - [ssh-key-confirmer](https://github.com/benjojo/ssh-key-confirmer) - Test ssh login key acceptance without having the private key.
 - [Hardening SSH with 2fa](https://gist.github.com/lizthegrey/9c21673f33186a9cc775464afbdce820)
 - [SSH Tunneling Explained](https://goteleport.com/blog/ssh-tunneling-explained/) ([HN](https://news.ycombinator.com/item?id=28802493))
+- [SCP for GitHub Actions](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
+- [Massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.

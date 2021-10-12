@@ -85,3 +85,4 @@
 - [Circle](https://github.com/rsta2/circle) - C++ bare metal programming environment for the Raspberry Pi.
 - [Raspberry Pi KVMs Compared: TinyPilot and Pi-KVM v3 (2021)](https://www.jeffgeerling.com/blog/2021/raspberry-pi-kvms-compared-tinypilot-and-pi-kvm-v3) ([HN](https://news.ycombinator.com/item?id=28619388))
 - [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal) ([HN](https://news.ycombinator.com/item?id=28740452))
+- [Rust workspace for RPi4 bare metal things](https://github.com/jonlamb-gh/rpi4-rust-workspace)

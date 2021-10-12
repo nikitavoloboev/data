@@ -220,6 +220,7 @@
 - [Models](https://github.com/tvallotton/models) - Tool for automated migrations for PostgreSQL, SQLite and MySQL.
 - [Atlas](https://atlasgo.io/) - Set of tools designed to help companies better work with their data. It includes several components that can be used individually but are designed to work very well together. ([Code](https://github.com/ariga/atlas))
 - [replikativ](https://github.com/replikativ/replikativ) - Open, scalable and distributive infrastructure for a data-driven community of applications. ([Web](https://replikativ.io/)) ([Unified storage IO](https://whilo.github.io/articles/16/unified-storage-io))
+- [Bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control management tool for developers and DBAs. ([Web](https://bytebase.com/))
 
 ## Notes
 
@@ -439,3 +440,4 @@
 - [Ask HN: Why are relational DBs are the standard instead of graph-based DBs? (2021)](https://news.ycombinator.com/item?id=28736405)
 - [Cheapest / fastest way to load Stripe data into a SQL database (2021)](https://twitter.com/Suhail/status/1441897490312138759)
 - [Pelikan](https://github.com/twitter/pelikan) - Twitter's unified cache backend.
+- [Relational Databases Aren’t Dinosaurs, They’re Sharks (2021)](https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/)

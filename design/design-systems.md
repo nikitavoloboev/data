@@ -71,6 +71,7 @@
 - [Atomize Code](https://github.com/proksh/atomize) - UI Design System for React JS. ([Web](https://atomizecode.com/))
 - [doc-blocks](https://github.com/intuit/doc-blocks) - Design system for doc-blocks UI components, built on @design-systems/cli.
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible component library for building a consistent design system across android, iOS & web. ([Web](https://nativebase.io/))
+- [Plasma UI](https://plasma.sberdevices.ru/) - Позволяет реализовать Canvas App как часть экосистемы виртуальных ассистентов семейства "Салют". ([Code](https://github.com/sberdevices/plasma))
 
 ## Notes
 

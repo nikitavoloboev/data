@@ -44,3 +44,5 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Ask HN: What's your sleeping setup(bed/pillows/sheets)? (2021)](https://news.ycombinator.com/item?id=27327050)
 - [Sleep Loss Can Cause Death through Accumulation of Reactive Oxygen Species in the Gut](<https://www.cell.com/cell/pdf/S0092-8674(20)30555-9.pdf>)
 - [Damage protection from long term stress and sleep deprivation (2021)](https://www.reddit.com/r/Nootropics/comments/ol66wo/damage_protection_from_long_term_stress_and_sleep/)
+- [Tip to sleep soundly](https://twitter.com/michelletandler/status/1447367246075080707)
+- [Tips to improve sleep without buying $5k mattress (2021)](https://twitter.com/MCovBrown/status/1446854566645878787)

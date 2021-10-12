@@ -48,3 +48,4 @@
 - [Google Play Deploy](https://github.com/bitrise-steplib/steps-google-play-deploy) - Upload your Android app to Google Play.
 - [LeakCanary](https://github.com/square/leakcanary) - Memory leak detection library for Android.
 - [Bundletool](https://github.com/google/bundletool) - Command-line tool to manipulate Android App Bundles.
+- [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.

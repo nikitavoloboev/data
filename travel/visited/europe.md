@@ -21,3 +21,4 @@
 - [The 5 coolest trends in urbanism ... in Europe (2021)](https://www.volts.wtf/p/the-5-coolest-trends-in-urbanism) ([Tweet](https://twitter.com/patrickc/status/1408793827234574336))
 - [European Payments Initiative (EPI)](https://www.epicompany.eu/) ([HN](https://news.ycombinator.com/item?id=28392389))
 - [What is your favorite touristic experience in Europe that isn't full of other tourists? (2021)](https://www.reddit.com/r/AskEurope/comments/q32wlz/what_is_your_favorite_touristic_experience_in/)
+- [What's the weirdest or most surreal place you've visited in Europe? (2021)](https://www.reddit.com/r/AskEurope/comments/q55uo8/whats_the_weirdest_or_most_surreal_place_youve/)

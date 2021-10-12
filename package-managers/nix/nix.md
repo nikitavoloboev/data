@@ -213,3 +213,4 @@
 - [Building with Nix on Replit](https://docs.replit.com/tutorials/30-build-with-nix) ([HN](https://news.ycombinator.com/item?id=28733156))
 - [dream2nix](https://github.com/DavHau/dream2nix) - Generic framework for 2nix converters (converting from other build systems to nix).
 - [Novice Nix: Flake Templates (2021)](https://peppe.rs/posts/novice_nix:_flake_templates/)
+- [Personal provisioning machines with Nix](https://github.com/shajra/shajra-provisioning)

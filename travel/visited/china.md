@@ -59,3 +59,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Xi Jinping’s War on Spontaneous Order (2021)](https://scholars-stage.org/xi-jinpings-war-on-spontaneous-order/)
 - [China’s population could halve within next 45 years (2021)](https://www.scmp.com/news/china/science/article/3150699/chinas-population-could-halve-within-next-45-years-new-study) ([Reddit](https://www.reddit.com/r/worldnews/comments/pyv2a2/chinas_population_could_halve_within_next_45_years/))
 - [Patriotic Education Campaign](https://en.wikipedia.org/wiki/Patriotic_Education_Campaign)
+- [History of science and technology in China](https://en.wikipedia.org/wiki/History_of_science_and_technology_in_China)

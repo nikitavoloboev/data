@@ -60,6 +60,7 @@
 - [Slash Go 4](https://github.com/htdvisser/slash) - Router for Slack's slash commands.
 - [Slack Go 5](https://github.com/shomali11/slacker) - Slack Bot Framework in Go.
 - [Stripe Go](https://github.com/stripe/stripe-go)
+- [Stripe Rust](https://github.com/arlyon/async-stripe) - Asynchronous Rust API bindings for the Stripe HTTP API.
 - [Star Wars API](https://swapi.co/) - Nice for testing.
 - [Google Spreadsheet NodeJS](https://github.com/theoephraim/node-google-spreadsheet) - Most popular Google Sheets API wrapper for JavaScript.
 - [Airtable JS](https://github.com/Airtable/airtable.js)

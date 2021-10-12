@@ -266,3 +266,5 @@ I publish most of my work and make it open source for other people to use and re
 - [patch2pr](https://github.com/bluekeyes/patch2pr) - Create GitHub pull requests from Git patches without cloning the repository.
 - [Watchub](http://app.watchub.pw/) - Be notified of people who followed/unfollowed you and starred/unstarred your repositories. ([Code](https://github.com/caarlos0/watchub))
 - [Repo Sync](https://github.com/repo-sync/repo-sync) - Keep a pair of GitHub repos in sync.
+- [GitHub Release Downloader](https://github.com/suyashkumar/getbin) - Easily fetch latest GitHub release binaries (for your OS/arch) using just wget or curl. ([Web](https://getbin.io/))
+- [GitHub Backup](https://github.com/mfinelli/github-backup) - Backup your GitHub repositories (including issues and comments).

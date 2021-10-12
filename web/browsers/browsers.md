@@ -152,3 +152,4 @@
 - [Happo.io](https://happo.io/) - Cross-browser screenshot testing. ([Code](https://github.com/happo/happo.io)) ([GitHub](https://github.com/happo))
 - [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Testing framework for end-to-end testing with WebDriver (or others). It abstracts browser interaction to simple steps that are written from a user perspective. ([Web](https://codecept.io/))
 - [Orion](https://browser.kagi.com/) - WebKit-based browser for Mac. ([HN](https://news.ycombinator.com/item?id=28799049))
+- [Redirector](https://github.com/einaregilsson/Redirector) - Browser extension to redirect URLs based on regex patterns.

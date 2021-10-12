@@ -99,3 +99,7 @@
 - [Cloudflare Terraforming](https://github.com/cloudflare/cf-terraforming) - Command line utility to facilitate terraforming your existing Cloudflare resources. It does this by using your account credentials to retrieve your configurations from the Cloudflare API and converting them to Terraform configurations.
 - [Terraform OVH Provider](https://github.com/ovh/terraform-provider-ovh)
 - [Abusing Terraform to Upload Static Websites to S3 (2021)](https://www.tangramvision.com/blog/abusing-terraform-to-upload-static-websites-to-s3) ([HN](https://news.ycombinator.com/item?id=28776287))
+- [Tools You Should Know About: Terraform (2021)](https://cuddly-octo-palm-tree.com/posts/2021-10-10-tyska-terraform/)
+- [Terraformsh](https://github.com/pwillis-els/terraformsh) - Bash script that makes it easier to run Terraform by performing common steps for you.
+- [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong)
+- [Terraform: From Beginner To Master: With Examples In AWS Book (2021)](https://leanpub.com/terraform-from-beginner-to-master) ([Course](https://www.educative.io/courses/terraform-beginner-master-aws)) ([Code](https://github.com/kevholditch/terraform-beginner-to-master-examples))

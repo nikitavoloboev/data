@@ -73,3 +73,4 @@
 - [Awesome JSON Schema](https://github.com/jviotti/awesome-jsonschema)
 - [Zod to JSON Schema](https://github.com/StefanTerdell/zod-to-json-schema)
 - [JSON5](https://json5.org/) - JSON for Humans. ([Code](https://github.com/json5/json5)) ([HN](https://news.ycombinator.com/item?id=28668282))
+- [Parsing JSON is a Minefield](http://seriot.ch/projects/parsing_json.html) ([HN](https://news.ycombinator.com/item?id=28826600))

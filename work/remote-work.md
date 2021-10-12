@@ -13,6 +13,7 @@
 - [Firm-wide remote work causes a shift to async communication (not more meetings) and makes workers’ collaboration network more siloed.](https://twitter.com/ylongqi/status/1435985696892678148)
 - [I don’t know if I would ever be able to readjust back to the non-remote-first office work. It just feels natural to hop to a plane (train, car) and get somewhere without skipping a beat of your work. To have it safely detached from the matters of physical presence and geography.](https://twitter.com/inazarova/status/1442751094111838208)
 - [The third founder with a remote team sharing the same story: An engineer they hired did great on the interviews but worked unexplainably slow day to day. When pairing: they worked fast. They stopped pairing: slowed down. Turns out, the person had a second job in all cases.](https://twitter.com/GergelyOrosz/status/1445854500443537414)
+- [Steve Jobs and I became close friends. We went for long walks at Castle Rock State Park, shared meals and wide-ranging conversations about life and design. We bounced ideas off each other. Sometimes he would start a conversation with "Here's a crazy idea...", and the idea would go back and forth and evolve into a serious discussion, or occasionally a workable design. Steve listened to me and challenged me. His support at Apple allowed me to made a difference in the world](https://focusmark.hashnode.dev/what-worries-me-about-remote-work)
 
 ## Links
 

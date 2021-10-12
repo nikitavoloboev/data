@@ -112,3 +112,5 @@
 - [PageMetaScraper](https://github.com/olerichter00/page-meta-scraper) - Page metadata scraper with several fallback strategies.
 - [cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl URLs and scan for endpoints, secrets, API keys, file extensions, tokens and more.
 - [Super-Simple Scraper](https://github.com/gotripod/ssscraper) - Crawler/scraper based on Go + colly, configurable via JSON.
+- [Gospider](https://github.com/jaeles-project/gospider) - Fast web spider written in Go.
+- [The State Of Web Scraping in 2021](https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/) ([HN](https://news.ycombinator.com/item?id=28827509))

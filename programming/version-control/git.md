@@ -298,3 +298,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Working With Multiple Git Configs (2021)](https://rossedman.io/blog/computers/working-with-multiple-git-configs/)
 - [Aho](https://github.com/djanderson/aho) - Git implementation in AWK. ([HN](https://news.ycombinator.com/item?id=28771841)) ([Lobsters](https://lobste.rs/s/u7gls0/aho_git_implementation_awk))
 - [Improving Git's Autocorrect Feature (2021)](https://azeemba.com/posts/contributing-to-git.html)
+- [git-stack](https://github.com/epage/git-stack) - Stacked branch management for Git.

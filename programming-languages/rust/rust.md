@@ -582,3 +582,5 @@
 - [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/intro.html)
 - [Rust Graphics Meetup](https://github.com/gfx-rs/meetup)
 - [Plugins in Rust: Diving into Dynamic Loading (2021)](https://nullderef.com/blog/plugin-dynload/)
+- [Fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix.
+- [Crust of Rust: functions, closures, and their traits (2021)](https://www.youtube.com/watch?v=dHkzSZnYXmk)

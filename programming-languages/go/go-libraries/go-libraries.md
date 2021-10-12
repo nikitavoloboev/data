@@ -189,6 +189,9 @@
 - [ratelimiter](https://github.com/Narasimha1997/ratelimiter) - Concurrent rate limiter library for Go based on Sliding-Window rate limiter algorithm.
 - [rehttp](https://github.com/PuerkitoBio/rehttp) - Implements a Go HTTP transport that handles retries.
 - [noctx](https://github.com/sonatard/noctx) - Finds sending http request without context.Context.
+- [Semaphore](https://github.com/jexia/semaphore) - Create advanced and high performing data flows and expose them through endpoints over multiple protocols such as HTTP, GraphQL, and gRPC.
+- [Commander](https://github.com/jeroenrinzema/commander) - Go library for writing event-driven applications. Enabling event sourcing, RPC over messages, SAGA's, bidirectional streaming and more.
+- [socket](https://github.com/mdlayher/socket) - Provides a low-level network connection type which integrates with Go's runtime network poller to provide asynchronous I/O and deadline support.
 
 ## GraphQL
 
@@ -197,6 +200,7 @@
 - [gq](https://github.com/housecanary/gq) - Library to help build GraphQL server in Go.
 - [GGql](https://github.com/UHN/ggql) - GraphQL implementation for Go.
 - [Tutone](https://github.com/newrelic/tutone) - Generate Go types from GraphQL schema introspection.
+- [go-graphql](https://github.com/mjarkk/go-graphql) - Different approach to making graphql servers in Go.
 
 ## Flag parsing
 
@@ -269,6 +273,7 @@
 - [scany](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more.
 - [pglock](https://github.com/cirello-io/pglock) - PostgreSQL Lock Client for Go.
 - [pgxmock](https://github.com/pashagolub/pgxmock) - Mock library implementing pgx - PostgreSQL Driver and Toolkit.
+- [Gendry](https://github.com/didi/gendry) - Go library that helps you operate database.
 
 ## ML
 

@@ -995,6 +995,7 @@
 - [Enarx Keep Loader](https://github.com/enarx/enarx-keepldr) - Provides the enarx-keepldr executable which loads static-pie binaries into an Enarx Keep.
 - [ArcSwap](https://github.com/vorner/arc-swap) - Support atomic operations on Arc itself.
 - [Oddio](https://github.com/Ralith/oddio) - Game-oriented audio library.
+- [async-process](https://github.com/smol-rs/async-process) - Async interface for working with processes.
 
 ## Cargo Plugins
 
@@ -1083,3 +1084,4 @@
 - [Awesome Rust Machine Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - List of machine learning libraries written in Rust.
 - [Registry index for crates.io](https://github.com/rust-lang/crates.io-index)
 - [Rust web frameworks, a new look? (discussion) (2021)](https://www.reddit.com/r/rust/comments/q1vzsx/rust_web_frameworks_a_new_look_discussion/)
+- [Rust: Does the published crate match the upstream source? (2021)](https://codeandbitters.com/published-crate-analysis/) ([HN](https://news.ycombinator.com/item?id=28827648))

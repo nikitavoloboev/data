@@ -256,3 +256,4 @@
 - [Why do we tune in 5ths?](https://www.violinist.com/discussion/archive/17290/) ([HN](https://news.ycombinator.com/item?id=28724210))
 - [Violinist.com](https://www.violinist.com/)
 - [Synthizer](https://github.com/synthizer/synthizer) - Library for game/VR audio applications. 3D audio for headphones.
+- [Computer Music Instruments - Foundations, Design and Development Book (2017)](https://www.springer.com/gp/book/9783319635033) ([Examples](https://github.com/vlazzarini/instruments))

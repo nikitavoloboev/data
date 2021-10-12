@@ -2,6 +2,7 @@
 
 ## Web
 
+- [blaze](https://github.com/http4s/blaze) - Scala library for building asynchronous pipelines, with a focus on network IO.
 - [ZIO HTTP](https://github.com/dream11/zio-http) - Scala library to write HTTP apps. Powered by ZIO and netty and aims at being the defacto solution for writing, highly scalable and performant web applications.
 - [Http4s](https://github.com/http4s/http4s) - Minimal, idiomatic Scala interface for HTTP services.
 - [tapir](https://github.com/softwaremill/tapir) - Describe HTTP API endpoints as immutable Scala values. ([Docs](https://tapir.softwaremill.com/en/latest/))
@@ -23,6 +24,7 @@
 - [doobie](https://github.com/tpolecat/doobie) - Functional JDBC layer for Scala.
 - [ScalikeJDBC](https://github.com/scalikejdbc/scalikejdbc) - Tidy SQL-based DB access library for Scala that naturally wraps JDBC and provides easy-to-use APIs.
 - [Skunk](https://github.com/tpolecat/skunk) - Data access library for Scala + Postgres.
+- [Slick](https://github.com/slick/slick) - Modern database query and access library for Scala. Allows you to work with stored data almost as if you were using Scala collections. ([Web](https://scala-slick.org/))
 
 ## Test
 
@@ -86,6 +88,8 @@
 - [cats-retry](https://github.com/cb372/cats-retry) - Library for retrying actions that can fail.
 - [Quill](https://github.com/getquill/quill) - Compile-time Language Integrated Queries for Scala. ([Web](https://getquill.io/))
 - [ZIO Optics](https://github.com/zio/zio-optics) - Easily modify parts of larger data structures.
+- [scala-typed-holes](https://github.com/cb372/scala-typed-holes) - Scala compiler plugin to emulate the "typed holes" feature of Haskell, Idris, Agda, etc.
+- [ScalaCache](https://github.com/cb372/scalacache) - Simple caching in Scala.
 
 ## Links
 

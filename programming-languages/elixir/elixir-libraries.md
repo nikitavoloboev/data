@@ -14,6 +14,7 @@
 - [Raxx](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 - [Corsica](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
 - [Plug](https://github.com/elixir-plug/plug) - Specification and conveniences for composable modules between web applications.
+- [Quenya](https://github.com/tyrchen/quenya) - Framework to build high-quality REST API applications based on extended OpenAPI spec.
 
 ## DB
 

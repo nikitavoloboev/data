@@ -200,3 +200,4 @@
 - [NVTabular](https://github.com/NVIDIA/NVTabular) - Engineering and preprocessing library for tabular data that is designed to easily manipulate terabyte scale datasets and train deep learning (DL) based recommender systems.
 - [Treeo](https://github.com/cgarciae/treeo) - Small library for creating and manipulating custom JAX Pytree classes.
 - [FedJAX](https://github.com/google/fedjax) - JAX-based open source library for Federated Learning simulations that emphasizes ease-of-use in research.
+- [oneAPI](https://github.com/oneapi-src/oneDNN) - OneAPI Deep Neural Network Library (oneDNN).

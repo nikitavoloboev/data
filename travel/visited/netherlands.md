@@ -18,3 +18,4 @@
 - [Investment Taxation for Expats in the Netherlands](https://www.expatbriefing.com/country/netherlands/taxation/investment-taxation-for-expats-in-the-netherlands.html)
 - [How to become an EXPAT freelancer in the Netherlands (Start a business!) (2021)](https://www.youtube.com/watch?v=ibybpDZlOAA)
 - [Dutch city recommendation (2021)](https://www.reddit.com/r/Netherlands/comments/pljppa/dutch_city_recommendation/)
+- [List of Dutch inventions and innovations](https://en.wikipedia.org/wiki/List_of_Dutch_inventions_and_innovations)

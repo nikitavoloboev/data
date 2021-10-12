@@ -322,3 +322,4 @@
 - [Why we spent the last month eliminating PostgreSQL subtransactions (2021)](https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/) ([Lobsters](https://lobste.rs/s/zyyoma/why_we_spent_last_month_eliminating))
 - [PostgreSQL 14 on Kubernetes (2021)](https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes) ([HN](https://news.ycombinator.com/item?id=28767637))
 - [Lessons learned from sharding Postgres at Notion (2021)](https://www.notion.so/blog/sharding-postgres-at-notion) ([HN](https://news.ycombinator.com/item?id=28776786))
+- [PSQL wire protocol](https://github.com/jeroenrinzema/psql-wire) - Go PostgreSQL server wire protocol implementation. Build your own PostgreSQL server with 15 lines of code.

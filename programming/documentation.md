@@ -117,3 +117,4 @@
 - [When does your team write release notes? (2021)](https://twitter.com/housecor/status/1442457214627631104)
 - [Writing Engineering Guidelines](https://dgryski.medium.com/writing-engineering-guidelines-24fdda53a3f0)
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing Book](https://docsfordevelopers.com/)
+- [SveltePress](https://sveltepress.geopjr.dev/) - Documentation tool built on top of SvelteKit. ([Code](https://github.com/GeopJr/SveltePress))

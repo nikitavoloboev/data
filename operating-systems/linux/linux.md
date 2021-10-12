@@ -383,3 +383,5 @@
 - [Dockerfile examples for containerized systemd](https://github.com/AkihiroSuda/containerized-systemd)
 - [Taming the BPF Superpowers (2021)](https://lwn.net/Articles/870269/) ([HN](https://news.ycombinator.com/item?id=28817794))
 - [Linux from scratch using virtual machines on a Apple Mac M1 laptop](https://philsyme.github.io/lfs-tw/)
+- [So You Want to Rust the Linux Kernel? (2021)](https://paulmck.livejournal.com/62436.html) ([HN](https://news.ycombinator.com/item?id=28826246))
+- [Beginner's Guide to eBPF Programming for Networking](https://github.com/lizrice/ebpf-networking)

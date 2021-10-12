@@ -215,7 +215,7 @@
 - [Multi-Cluster Kubernetes and Service Mesh Patterns (2020)](https://www.solo.io/blog/webinar-recap-multi-cluster-kubernetes-and-service-mesh-patterns/)
 - [Tools to use with the controller-runtime libraries](https://github.com/kubernetes-sigs/controller-tools)
 - [How to Create Ephemeral Environments using Crossplane and ArgoCD? (2020)](https://www.infracloud.io/blogs/how-to-create-ephemeral-environments-using-crossplane-and-argocd/)
-- [Gitpod](https://gitpod.io/) - Open-source Kubernetes application for automated and ready-to-code development environments that blends in your existing workflow. ([Article](https://www.gitpod.io/blog/opensource/)) ([Code](https://github.com/gitpod-io/gitpod))
+- [Gitpod](https://gitpod.io/) - Open-source Kubernetes application for automated and ready-to-code development environments that blends in your existing workflow. ([Article](https://www.gitpod.io/blog/opensource/)) ([Code](https://github.com/gitpod-io/gitpod)) ([Website Code](https://github.com/gitpod-io/website))
 - [HyScale](https://github.com/hyscale/hyscale) - Abstraction framework over Kubernetes. ([HN](https://news.ycombinator.com/item?id=24270669))
 - [Kubernetes: Make your services faster by removing CPU limits (2020)](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/) ([HN](https://news.ycombinator.com/item?id=24351566))
 - [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS.
@@ -450,7 +450,9 @@
 - [hedge](https://github.com/flowerinthenight/hedge) - Distributed systems library for Kubernetes deployments built on top of spindle and Cloud Spanner.
 - [Tanzu Community Edition](https://github.com/vmware-tanzu/community-edition) - Fully-featured, easy to manage, Kubernetes platform for learners and users. ([Web](https://tanzucommunityedition.io/))
 - [Tanzu Framework](https://github.com/vmware-tanzu/tanzu-framework) - Set of building blocks to build atop of the Tanzu platform.
-- [Rancher Desktop](https://github.com/rancher-sandbox/rancher-desktop) - Open-source project to bring Kubernetes and container management to the desktop.
+- [Rancher Desktop](https://github.com/rancher-sandbox/rancher-desktop) - Open-source project to bring Kubernetes and container management to the desktop. ([Web](https://rancherdesktop.io/)) ([HN](https://news.ycombinator.com/item?id=28835690))
 - [Kubernetes Pod Inspector](https://github.com/wangjia184/pod-inspector)
 - [Deploy NATS on Kubernetes with Helm Charts](https://github.com/nats-io/k8s)
 - [kx](https://github.com/onatm/kx) - Interactively switch between kubernetes contexts without any external dependencies.
+- [Local Path Provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes.
+- [Cartographer](https://github.com/vmware-tanzu/cartographer) - Kubernetes native Choreographer. Allows users to configure K8s resources into re-usable Supply Chains that can be used to define all of the stages that an Application Workload must go through to get to an environment.

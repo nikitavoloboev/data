@@ -81,6 +81,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Commento](https://commento.io/) - Fast, privacy-focused commenting platform.
 - [Raindrop](https://raindrop.io/) - All-in-one bookmark manager.
 - [Cosign](https://cosign.co/login)
+- [Parca](https://www.parca.dev/) - Open Source infrastructure-wide continuous profiling. ([Code](https://github.com/parca-dev/parca))
 - [Sonix](https://sonix.ai/) - Transcribe videos from [Zoom](https://sonix.ai/how-to-transcribe-a-zoom-meeting).
 - [Friendly Captcha](https://friendlycaptcha.com/) - User-friendly CAPTCHA alternative.
 - [Polar](https://getpolarized.io/) - Integrated reading environment to build your knowledge base. Actively read, annotate, connect thoughts, create flashcards, and track progress. ([Code](https://github.com/burtonator/polar-bookshelf)) ([HN](https://news.ycombinator.com/item?id=24908227))

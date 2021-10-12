@@ -90,3 +90,6 @@
 - [Learning How to Build on Solana (2021)](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
 - [Merkle Distributor](https://github.com/saber-hq/merkle-distributor) - Smart contract that distributes a balance of tokens according to a Merkle root.
 - [Saber](https://saber.so/) - Stable swapping between stablecoins and other identical assets. ([GitHub](https://github.com/saber-hq))
+- [Solana Go SDK](https://github.com/portto/solana-go-sdk)
+- [Goki](https://github.com/GokiProtocol/goki) - Suite of programs for Solana key management and security.
+- [Setting up a Solana Bigtable Instance](https://github.com/solana-labs/solana-bigtable)

@@ -94,3 +94,5 @@
 - [Scala3 typeclassery with graphs (2021)](https://fabianmurariu.github.io/posts/scala3-typeclassery-graphs/)
 - [Guillaume Martres: An Interactive Compiler (2021)](https://open.spotify.com/episode/0qgBKpc78aBMldBdANoqnR)
 - [Testcontainers-scala](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in scala.
+- [A Dive into how Metals works (2021)](https://www.youtube.com/watch?v=fpzN_vTBy18)
+- [How to accelerate Scala Builds with Bazel (2019)](https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html)

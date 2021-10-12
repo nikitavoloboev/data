@@ -27,3 +27,4 @@
 - [The Emerging Field of Signal Processing on Graphs: Extending High-Dimensional Data Analysis to Networks and Other Irregular Domains (2013)](https://arxiv.org/abs/1211.0053)
 - [Digital signal processing (DSP) consulting](https://www.johndcook.com/blog/digital-signal-processing-and-time-series-analysis/) ([Twitter](https://twitter.com/DSP_fact))
 - [DSP.js](https://github.com/corbanbrook/dsp.js) - Digital Signal Processing for JavaScript.
+- [AutoDSP](https://github.com/jmcasebeer/autodsp) - Train custom adaptive filter optimizers without hand tuning or extra labels.

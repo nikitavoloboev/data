@@ -265,3 +265,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Plan 9 Desktop Guide](https://pspodcasting.net/dan/blog/2019/plan9_desktop.html) ([Lobsters](https://lobste.rs/s/rgch76/plan_9_desktop_guide)) ([HN](https://news.ycombinator.com/item?id=28745148))
 - [Writing a “bare metal” operating system for Raspberry Pi 4](https://www.rpi4os.com/) ([Code](https://github.com/isometimes/rpi4-osdev)) ([HN](https://news.ycombinator.com/item?id=28774022))
 - [OSv Unikernel — Optimizing Guest OS to Run Stateless and Serverless Apps in the Cloud (2021)](https://www.p99conf.io/session/osv-unikernel-optimizing-guest-os-to-run-stateless-and-serverless-apps-in-the-cloud/) ([HN](https://news.ycombinator.com/item?id=28812305))
+- [Bootstrapping a kernel with UEFI using Zig](https://github.com/stakach/uefi-bootstrap)
+- [xsys](https://github.com/rsms/xsys) - Well-defined system API for abstracting the OS platform.

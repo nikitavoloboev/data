@@ -115,6 +115,7 @@
 - [react-drag-elements](https://github.com/timc1/react-drag-elements) - Small & efficient React Hook that allows users to drag items around and update lists of elements.
 - [Web Vitals](https://github.com/schoenwaldnils/web-vitals-react-hook) - Bring web vitals quickly into your react project.
 - [react-use-clipboard](https://github.com/danoc/react-use-clipboard) - React hook that provides copy to clipboard functionality.
+- [AtomicState](https://github.com/immobiliare/atomic-state) - Decentralized state management library for React.
 
 ## Code
 

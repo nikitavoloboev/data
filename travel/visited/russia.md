@@ -284,3 +284,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [The Nobel Peace Prize 2021](https://www.nobelprize.org/prizes/peace/2021/press-release/) ([HN](https://news.ycombinator.com/item?id=28797147))
 - [Почему Путин живёт прошлым? (2021)](https://www.youtube.com/watch?v=UITD5WTITjY)
 - [The Murderous Rise of Russia's Billionaires (2021)](https://www.youtube.com/watch?v=tveVWnS36Nk)
+- [Timeline of Russian innovation](https://en.wikipedia.org/wiki/Timeline_of_Russian_innovation) ([Reddit](https://www.reddit.com/r/AskARussian/comments/q5f57s/what_invention_from_your_country_are_you_most/))

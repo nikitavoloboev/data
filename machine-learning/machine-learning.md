@@ -560,3 +560,4 @@
 - [Курс по машинному обучению для 3 курса факультета ВМК МГУ (2021)](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22)
 - [Deep Learning with Python, Second Edition (2021)](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=keras&a_bid=76564dff) ([Code](https://github.com/fchollet/deep-learning-with-python-notebooks))
 - [Some ML tools (2021)](https://twitter.com/GaryMarcus/status/1447206961045336066)
+- [Unsolved Problems in ML Safety (2021)](https://arxiv.org/abs/2109.13916) ([HN](https://news.ycombinator.com/item?id=28809233))

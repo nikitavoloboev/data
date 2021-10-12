@@ -154,7 +154,7 @@
 - [HYPE4](https://hype4.com/) - Web and mobile / design and development.
 - [FP Complete](https://www.fpcomplete.com/) - Specialize in building Reliable, Repeatable, Scalable and Highly Secure Software.
 - [gskinner](https://gskinner.com/) ([GitHub](https://github.com/gskinnerTeam))
-- [47 Degrees](https://www.47deg.com/) - Engineering the Future of Enterprise.
+- [47 Degrees](https://www.47deg.com/) - Engineering the Future of Enterprise. ([GitHub](https://github.com/47deg))
 - [Moritz Systems](https://www.moritz.systems/) - Code Security, Embedded Solutions, IOT and Edge Computing.
 - [LateCheckout](https://withlatecheckout.com/) - Communities design firm.
 - [Underjord](https://underjord.io/) - Artisanal software development, quality productions and some teaching.
@@ -206,6 +206,7 @@
 - [NuxtLabs](https://nuxtlabs.com/) ([Twitter](https://twitter.com/nuxtlabs)) ([GitHub](https://github.com/nuxtlabs))
 - [Evil Martians](https://evilmartians.com/) - Extraterrestrial product development consultancy. ([GitHub](https://github.com/evilmartians))
 - [Steamclock](https://steamclock.com/) - iOS and Android app development and consulting in Vancouver. ([GitHub](https://github.com/steamclock))
+- [The Foundries](https://www.foundries.dev/) - Offer consultancy and technical analysis across multiple domains in the software industry.
 
 ## Notes
 

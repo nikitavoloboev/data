@@ -162,6 +162,7 @@
 - [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [Funfix](https://github.com/funfix/funfix) - Functional Programming Library for JavaScript, TypeScript.
 - [typeconv](https://github.com/grantila/typeconv) - Convert between JSON Schema, TypeScript, GraphQL, Open API and SureType.
+- [multicloud-jwt](https://github.com/joaomilho/multicloud-jwt) - JWT that works both on AWS and GCP's KMS.
 
 ## Links
 

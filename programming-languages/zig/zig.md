@@ -67,3 +67,4 @@
 - [Zig News](https://zig.news/)
 - [Code Coverage for Zig with Callgrind (2021)](https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/)
 - [Fuzzing Zig Code Using AFL++ (2021)](https://www.ryanliptak.com/blog/fuzzing-zig-code/) ([HN](https://news.ycombinator.com/item?id=28600050))
+- [Building gamedev ecosystem for Zig](https://github.com/michal-z/zig-gamedev)

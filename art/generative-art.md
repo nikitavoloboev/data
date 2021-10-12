@@ -159,3 +159,4 @@
 - [Generative Design, Creative Coding on the Web Book](http://www.generative-gestaltung.de/2/)
 - [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine) - Tool used to create multiple different instances of artworks based on provided layers.
 - [David Mignot IG](https://www.instagram.com/idflood/)
+- [Flora](https://github.com/jaseknighter/flora) - L-systems sequencer and bandpass filtered sawtooth engine for monome norns.

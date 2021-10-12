@@ -323,6 +323,8 @@
 - [On Risk and Imagining the Future (2021)](https://www.nealkhosla.com/blog/on-risk-and-imagining-the-future)
 - [What's the best SaaS starter kit? (2021)](https://news.ycombinator.com/item?id=28774647)
 - [How to Evaluate Startup Offers (2021)](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
+- [My Emotions as a CEO (2021)](https://ryancaldbeck.co/2021/10/08/my-emotions-as-a-ceo/) ([HN](https://news.ycombinator.com/item?id=28809195))
+- [Preferred tools and tech for running a startup](https://github.com/tashburn/stack)
 
 ## Images
 

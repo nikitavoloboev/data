@@ -28,6 +28,7 @@
 - [NimData](https://github.com/bluenote10/NimData) - DataFrame API written in Nim, enabling fast out-of-core data processing.
 - [Questionable](https://github.com/markspanbroek/questionable) - Elegant optional types for Nim.
 - [cinterop](https://github.com/n0bra1n3r/cinterop) - C/C++ interop library for Nim.
+- [nimly](https://github.com/loloicci/nimly) - Lexer Generator and Parser Generator as a Library in Nim.
 
 ## Links
 

@@ -25,10 +25,15 @@
 - [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - Adds interactive maps to Obsidian.md using Leaflet.js.
 - [Obsidian Linter](https://github.com/platers/obsidian-linter) - Obsidian plugin that enforces consistent markdown styling.
 - [Day Planner](https://github.com/lynchjames/obsidian-day-planner) - Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
-- [Minimal](https://github.com/kepano/obsidian-minimal) - Obsidian theme meticulously designed to feel native on desktop, mobile and tablet.
 - [Hider](https://github.com/kepano/obsidian-hider) - Hide Obsidian UI elements such as tooltips, status, titlebar and more.
 - [Minimal Setting](https://github.com/kepano/obsidian-minimal-settings) - Settings plugin to control colors and fonts in Minimal Theme.
 - [Linked Data Vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) - Add linked data to the YAML of your Obsidian notes.
+
+## Themes
+
+- [Sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - Minimalist theme with the aim of creating a serene space of retreat, for thought and uninterrupted work.
+- [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.
+- [Minimal](https://github.com/kepano/obsidian-minimal) - Obsidian theme meticulously designed to feel native on desktop, mobile and tablet.
 
 ## Links
 
@@ -38,6 +43,5 @@
 - [Obsidian Garden](https://obsidian.garden/%F0%9F%91%A9%E2%80%8D%F0%9F%8C%BE+Your+Knowledge+Garden) - Open-source guide to creating your own Knowledge Management System with Obsidian. ([Code](https://github.com/tanepiper/obsidian-garden))
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
 - [Obsidian Alfred](https://github.com/hauselin/obsidian-alfred) - Open vaults and files in Obsidian.
-- [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.
 - [obsidian-react-starter](https://github.com/liamcain/obsidian-react-starter) - Starter template for creating an Obsidian plugin with ReactJS.
 - [Obsidian Export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown.

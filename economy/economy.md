@@ -98,3 +98,6 @@
 - [Against overuse of the Gini coefficient (2021)](https://vitalik.ca/general/2021/07/29/gini.html) ([Tweet](https://twitter.com/VitalikButerin/status/1420616651150528516))
 - [Karl Marx: Capital - A Critique of Political Economy (1887)](https://www.marxists.org/archive/marx/works/1867-c1/)
 - [A catalog of wealth-creation mechanisms (2009)](https://blog.rongarret.info/2009/10/catalog-of-wealth-creation-mechanisms.html) ([HN](https://news.ycombinator.com/item?id=28771006))
+- [Why Does Quantitative Easing Benefit the Rich? (2021)](https://fififinance.com/quantitative-easing) ([HN](https://news.ycombinator.com/item?id=28827293))
+- [A Nobel Prize for the Credibility Revolution (2021)](https://marginalrevolution.com/marginalrevolution/2021/10/the-credibility-revolution-1.html)
+- [2021 Nobel Prize for Economics](https://www.nobelprize.org/prizes/economic-sciences/2021/popular-information/) ([HN](https://news.ycombinator.com/item?id=28830058))

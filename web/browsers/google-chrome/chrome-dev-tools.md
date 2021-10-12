@@ -8,6 +8,7 @@
 - [Can use Chrome DevTools in iOS Safari 15 via the JSBox app](https://twitter.com/Baconbrix/status/1441840354563530756)
 - [Chrome Dev Tools can visualize backend performance with Server Timing](https://twitter.com/addyosmani/status/1445644998477815808)
 - [Can add custom headers to requests in the Network tab. Right-click the columns bar > Response Headers > Manage Header Columns.](https://twitter.com/dhh/status/1445036316023005195)
+- [ChromeDevTools has a CSS Shadow Editor](https://twitter.com/addyosmani/status/1447456939466706946)
 
 ## Links
 

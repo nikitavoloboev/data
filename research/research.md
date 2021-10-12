@@ -68,6 +68,7 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Edinburgh Research Archive](https://era.ed.ac.uk/) - Digital repository of original research produced at The University of Edinburgh.
 - [ScienceDirect.com](https://www.sciencedirect.com/) - Science, health and medical journals, full text articles and books.
 - [Google Research](https://research.google/) ([GitHub](https://github.com/google-research))
+- [Cloudflare Research](https://research.cloudflare.com/) ([Code](https://github.com/cloudflare/research.cloudflare.com)) ([Announcement](https://blog.cloudflare.com/announcing-cloudflare-research-hub/))
 - [Microsoft Research](https://www.microsoft.com/en-us/research/)
 - [Yandex Research](https://research.yandex.com/) ([GitHub](https://github.com/yandex-research))
 - [Adobe Research](https://research.adobe.com/)
