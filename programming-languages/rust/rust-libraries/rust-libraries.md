@@ -141,6 +141,7 @@
 - [Scooby](https://github.com/despawnerer/scooby) - Rust SQL query builder with a pleasant fluent API closely imitating actual SQL.
 - [SeaORM](https://github.com/SeaQL/sea-orm) - Async & dynamic ORM for Rust.
 - [pg-embed](https://github.com/faokunega/pg-embed) - Run a PostgreSQL database locally on Linux, MacOS or Windows as part of another Rust application or test.
+- [ormx](https://github.com/NyxCode/ormx) - Lightweight macros for sqlx.
 
 ## Graphics
 
@@ -172,6 +173,7 @@
 ## Games
 
 - [Tetra](https://github.com/17cupsofcoffee/tetra) - Simple 2D game framework written in Rust.
+- [Emergent AI](https://github.com/PsichiX/emergent) - Toolset for producing emergent gameplay for games written in Rust.
 
 ## Test
 
@@ -249,6 +251,7 @@
 - [serde-encrypt](https://github.com/laysakura/serde-encrypt) - Encrypts all the Serialize.
 - [PLONK](https://github.com/dusk-network/plonk) - Pure Rust implementation of the PLONK proving system over BLS12-381.
 - [Tofn](https://github.com/axelarnetwork/tofn) - Threshold cryptography library in Rust.
+- [RustCrypto: Utilities](https://github.com/RustCrypto/utils) - Utility crates used in RustCrypto.
 
 ## Linux
 
@@ -996,6 +999,9 @@
 - [ArcSwap](https://github.com/vorner/arc-swap) - Support atomic operations on Arc itself.
 - [Oddio](https://github.com/Ralith/oddio) - Game-oriented audio library.
 - [async-process](https://github.com/smol-rs/async-process) - Async interface for working with processes.
+- [tough](https://github.com/awslabs/tough) - Rust libraries and tools for using and generating TUF repositories.
+- [Typical](https://github.com/stepchowfun/typical) - Algebraic data types for data interchange.
+- [Swap Queue](https://github.com/Bajix/swap-queue-rs) - Queue designed for buffer swapping instead of task popping.
 
 ## Cargo Plugins
 
@@ -1085,3 +1091,4 @@
 - [Registry index for crates.io](https://github.com/rust-lang/crates.io-index)
 - [Rust web frameworks, a new look? (discussion) (2021)](https://www.reddit.com/r/rust/comments/q1vzsx/rust_web_frameworks_a_new_look_discussion/)
 - [Rust: Does the published crate match the upstream source? (2021)](https://codeandbitters.com/published-crate-analysis/) ([HN](https://news.ycombinator.com/item?id=28827648))
+- [Whats your favorite open source Rust project that needs more recognition? (2021)](https://www.reddit.com/r/rust/comments/q69sna/whats_your_favourite_open_source_rust_project/)

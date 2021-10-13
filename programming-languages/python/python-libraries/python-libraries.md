@@ -496,6 +496,8 @@
 - [PyContracts](https://github.com/AndreaCensi/contracts) - Python package that allows to declare constraints on function parameters and return values.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
 - [PyPermut](https://github.com/qbarthelemy/PyPermut) - Python package for permutation tests, for statistics and machine learning.
+- [tabmat](https://github.com/Quantco/tabmat) - Efficient matrix representations for working with tabular data.
+- [glum](https://github.com/Quantco/glum) - High performance Python GLMs with all the features.
 
 ## Links
 

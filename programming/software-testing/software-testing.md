@@ -105,3 +105,4 @@
 - [We killed our end-to-end test suite (2021)](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/) ([HN](https://news.ycombinator.com/item?id=28643848))
 - [Coverage is not strongly correlated with test suite effectiveness (2021)](https://neverworkintheory.org/2021/09/24/coverage-is-not-strongly-correlated-with-test-suite-effectiveness.html) ([HN](https://news.ycombinator.com/item?id=28642506))
 - [Good tests don't change (2021)](https://owengage.com/writing/2021-10-09-good-tests-dont-change/)
+- [The Fundamentals of Testing with Persistence Layers (2021)](https://www.infoq.com/articles/Testing-With-Persistence-Layers/)

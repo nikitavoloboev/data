@@ -4,6 +4,7 @@
 
 - `document.querySelector("video").playbackRate = 1.4` will [increase video playback](https://mjtsai.com/blog/2018/06/25/speeding-up-wwdc-videos/).
 - [document.designMode = 'on' lets you edit pages](https://twitter.com/sulco/status/1177559150563344384)
+- [Can automate browser actions with playwright. Click around, edit a bit, run.](https://twitter.com/natfriedman/status/1447965013482770432)
 
 ## Links
 

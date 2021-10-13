@@ -11,6 +11,7 @@
 - [Google Test](https://github.com/google/googletest) - Google Testing and Mocking Framework.
 - [utest.h](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++.
 - [Mutate](https://github.com/nlohmann/mutate_cpp) - C++ Mutation Test Environment.
+- [RapidCheck](https://github.com/emil-e/rapidcheck) - C++ framework for property based testing inspired by QuickCheck and other similar frameworks.
 
 ## Concurrency
 

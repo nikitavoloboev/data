@@ -82,3 +82,4 @@
 - [The select story (2021)](https://aqjune.github.io/posts/2021-10-4.the-select-story.html) - Story about the removal of a compiler optimization that had been in LLVM for a long time.
 - [LLVM 13.0.0 (2021)](https://releases.llvm.org/13.0.0/docs/ReleaseNotes.html) ([HN](https://news.ycombinator.com/item?id=28760685))
 - [llvm-pretty](https://github.com/elliottt/llvm-pretty) - LLVM pretty printer inspired by the Haskell LLVM binding.
+- [Generating relocatable code for ARM processors (2021)](https://blog.llvm.org/posts/2021-10-01-generating-relocatable-code-for-arm-processors/) ([HN](https://news.ycombinator.com/item?id=28830650))

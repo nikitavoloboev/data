@@ -63,3 +63,4 @@
 - [A reminder on qualifying links and our link spam update (2021)](https://developers.google.com/search/blog/2021/07/link-tagging-and-link-spam-update)
 - [SEO for Devs Course](https://seofordevs.com/)
 - [Boring SEO](https://boringseo.org/) - SEO guide for non lazy people. ([HN](https://news.ycombinator.com/item?id=28706570))
+- [How to prioritize pages for content promotion and link building (2021)](https://twitter.com/AlanGGorilla/status/1447955252481724417)

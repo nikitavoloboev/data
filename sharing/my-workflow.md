@@ -23,9 +23,13 @@
 - [Fantastical](../macOS/apps/fantastical.md) - Plan meetings & events.
 - [Calendly](https://calendly.com/) - Sharing my availability for efficient event arrangement.
 
+## Chat
+
+- [Telegram](https://telegram.org) - Best native messenger with great stickers.
+
 ## Video
 
-- [Hangouts](https://hangouts.google.com), [Zoom](http://zoom.us) or [Discord](https://discord.com) (server chats)
+- [Hangouts](https://hangouts.google.com) (preferred to [Zoom](http://zoom.us) as it works on web) or [Discord](https://discord.com) (voice/video chats)
 
 ## Knowledge index
 

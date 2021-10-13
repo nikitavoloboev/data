@@ -116,6 +116,7 @@
 - [Web Vitals](https://github.com/schoenwaldnils/web-vitals-react-hook) - Bring web vitals quickly into your react project.
 - [react-use-clipboard](https://github.com/danoc/react-use-clipboard) - React hook that provides copy to clipboard functionality.
 - [AtomicState](https://github.com/immobiliare/atomic-state) - Decentralized state management library for React.
+- [observable-hooks](https://github.com/crimx/observable-hooks) - Concurrent mode safe React hooks for RxJS Observables. Simple, flexible, testable and performant.
 
 ## Code
 

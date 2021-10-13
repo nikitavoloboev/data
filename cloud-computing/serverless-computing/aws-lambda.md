@@ -77,3 +77,6 @@
 - [aws-websocket-handler](https://github.com/matrus2/aws-websocket-handler) - Module is created to handle AWS Lambda websocket actions as a one default handler.
 - [Abusing AWS Lambda to make an Aussie search engine (2021)](https://boyter.org/posts/abusing-aws-to-make-a-search-engine/) ([HN](https://news.ycombinator.com/item?id=28665395))
 - [Learn AWS Lambda](https://github.com/dwyl/learn-aws-lambda) - Learn how to use AWS Lambda to easily create infinitely scalable web services.
+- [An ideal DX for Rust on AWS Lambda? (2021)](https://github.com/aws-samples/serverless-rust-demo/issues/4)
+- [AWS Lambda Cold Start Times (2021)](https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1) ([HN](https://news.ycombinator.com/item?id=28838716))
+- [Running Rust on AWS Lambda on ARM64 (2021)](https://www.ballpointcarrot.net/posts/rust-arm-lambdas/)

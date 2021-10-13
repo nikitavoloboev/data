@@ -125,3 +125,4 @@
 - [BAZX](https://github.com/Minigugus/bazx) - zx on steroids.
 - [How to compile Rust into WebAssembly and run it in Deno (2021)](https://startfunction.com/rust-webassembly-deno/)
 - [deno.ns](https://github.com/fromdeno/deno.ns) - Deno namespace shim for Node.js.
+- [Diplo](https://github.com/Tricked-dev/diplo) - Script runner and dependency manager made in rust mainly for Deno.

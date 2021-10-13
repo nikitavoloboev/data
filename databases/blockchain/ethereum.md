@@ -157,7 +157,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethermint](https://github.com/cosmos/ethermint) - Scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK. ([Docs](https://docs.ethermint.zone/))
 - [Frontier](https://github.com/paritytech/frontier) - Substrate's Ethereum compatibility layer. It allows you to run unmodified Ethereum dapps.
 - [Solang](https://github.com/hyperledger-labs/solang) - Solidity to wasm compiler written in rust. ([Docs](https://solang.readthedocs.io/en/latest/))
-- [Aave](https://aave.com/) - Open Source DeFi Protocol. ([Code](https://github.com/aave/protocol-v2))
+- [Aave](https://aave.com/) - Open Source DeFi Protocol. ([V2 Code](https://github.com/aave/protocol-v2)) ([V1 Code](https://github.com/aave/aave-protocol))
 - [evmone](https://github.com/ethereum/evmone) - C++ implementation of the Ethereum Virtual Machine (EVM).
 - [A Developer's Guide to Ethereum](https://snakecharmers.ethereum.org/a-developers-guide-to-ethereum-pt-1/)
 - [indexed.wtf](https://indexed.wtf/) - Collectively built hub for indexing scaling solutions for Ethereum.

@@ -621,6 +621,7 @@
 - [Atropos](https://github.com/nolimits4web/atropos) - Lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects. ([Web](https://atroposjs.com/))
 - [Graph Dracula](https://github.com/strathausen/dracula) - JavaScript Graph Library.
 - [date-io](https://github.com/dmtrKovalenko/date-io) - Abstraction over common JavaScript date management libraries.
+- [sdf-csg](https://github.com/wwwtyro/sdf-csg) - Generate meshes from signed distance functions and constructive solid geometry operations.
 
 ## Links
 

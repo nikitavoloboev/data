@@ -135,3 +135,4 @@
 - [Instance-Conditioned GAN (2021)](https://arxiv.org/abs/2109.05070) ([Code](https://github.com/facebookresearch/ic_gan))
 - [PyTorch Pretrained GANs](https://github.com/lukemelas/pytorch-pretrained-gans) - StyleGAN2, BigGAN, BigBiGAN, SAGAN, SNGAN, SelfCondGAN, and more.
 - [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (2016)](https://arxiv.org/abs/1609.04802) ([Code](https://github.com/twtygqyy/pytorch-SRResNet))
+- [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/) ([Code](https://github.com/NVlabs/stylegan3)) ([HN](https://news.ycombinator.com/item?id=28833213))

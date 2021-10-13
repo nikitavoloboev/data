@@ -395,4 +395,6 @@
 - [e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks (2021)](https://arxiv.org/abs/2105.03761) ([Tweet](https://twitter.com/maximek3/status/1438554571756933127))
 - [Attention Gated Networks (Image Classification & Segmentation) in PyTorch](https://github.com/ozan-oktay/Attention-Gated-Networks)
 - [Full-Duplex Strategy for Video Object Segmentation (2021)](https://arxiv.org/abs/2108.03151v2) ([Code](https://github.com/GewelsJI/FSNet))
-- [YoHa](https://handtracking.io/) - Practical hand tracking engine. ([HN](https://news.ycombinator.com/item?id=28825820))
+- [YoHa](https://handtracking.io/) - Practical hand tracking engine. ([HN](https://news.ycombinator.com/item?id=28825820)) ([Code](https://github.com/handtracking-io/yoha))
+- [Deep Learning for Face Anti-Spoofing: A Survey (2021)](https://arxiv.org/abs/2106.14948) ([Code](https://github.com/ZitongYu/DeepFAS))
+- [A-SDF: Learning Disentangled Signed Distance Functions for Articulated Shape Representation (2021)](https://arxiv.org/abs/2104.07645) ([Code](https://github.com/JitengMu/A-SDF))

@@ -64,7 +64,7 @@
 - [Changelog generator for Rust projects](https://github.com/yoshuawuyts/changelog)
 - [Rust: Frequently Asked Questions](https://github.com/dtolnay/rust-faq)
 - [Building fast interpreters in Rust (2019)](https://blog.cloudflare.com/building-fast-interpreters-in-rust/)
-- [Rust RFCs](https://github.com/rust-lang/rfcs)
+- [Rust RFCs](https://www.ncameron.org/rfcs/) ([Code](https://github.com/rust-lang/rfcs)) ([Book](https://rust-lang.github.io/rfcs/))
 - [2019 Roadmap for Rust](https://github.com/rust-lang/rfcs/blob/master/text/2657-roadmap-2019.md)
 - [Rust RFCs](https://github.com/rust-lang/rfcs)
 - [Learning Rust](https://learning-rust.github.io/) - Materials for learning Rust. ([Code](https://github.com/learning-rust/site))
@@ -584,3 +584,4 @@
 - [Plugins in Rust: Diving into Dynamic Loading (2021)](https://nullderef.com/blog/plugin-dynload/)
 - [Fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix.
 - [Crust of Rust: functions, closures, and their traits (2021)](https://www.youtube.com/watch?v=dHkzSZnYXmk)
+- [Rust and GCC, two different ways (2021)](https://lwn.net/SubscriberLink/871283/c437c1364397e70e/)

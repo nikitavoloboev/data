@@ -205,3 +205,5 @@
 - [What are Voxels and why are they so cool? (2021)](https://www.youtube.com/watch?v=WWU8t0CpNQA)
 - [NVIDIA DLSS (Deep Learning Super Sampling](https://developer.nvidia.com/dlss/research) - Deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games.
 - [naia](https://github.com/naia-rs/naia) - Cross-platform (including Wasm!) networking engine that intends to make multiplayer game development in Rust dead simple and lightning fast.
+- [Getting to the bottom of web map performance](https://bdon.org/blog/web-map-performance/)
+- [About Halo game's backend (2021)](https://cleverheap.com/posts/about-halo-backend/)

@@ -101,3 +101,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Why not Signal?](https://dessalines.github.io/essays/why_not_signal.html) ([Lobsters](https://lobste.rs/s/qgkckr/why_not_signal))
 - [Google and Facebook, I am facilitating packet filtering to block your tracking (2021)](https://peguero.xyz/blog/google_and_facebook_i_am_facilitating_packet_filtering_to_block_your_tracking.html) ([Lobsters](https://lobste.rs/s/jpca2y/google_facebook_i_am_facilitating_packet))
 - [Open Privacy Vault](https://openprivacy.io/) - Open Source PII as a Service. ([Code](https://github.com/open-privacy/opv))
+- [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Web extension that redirects Twitter, YouTube, Instagram, Google Maps, Reddit, Google Search, & Google Translate requests to privacy friendly alternatives.

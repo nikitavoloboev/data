@@ -103,3 +103,4 @@
 - [tailwind-merge](https://github.com/dcastil/tailwind-merge) - Utility function to efficiently merge Tailwind CSS classes in JS without style conflicts.
 - [Destack](https://destack-page.vercel.app/) - Build landing pages visually right in your Next.js project. Deploy them zero further configuration. ([Code](https://github.com/LiveDuo/destack))
 - [Most well-known sites you know of that use Tailwind CSS? (2021)](https://twitter.com/adamwathan/status/1441541303372693504)
+- [Tailory](https://rareblocks.xyz/) - Customize your website with rare, unique Tailwind components that are guaranteed to be different from the crowd. ([Twitter](https://twitter.com/_rareblocks))

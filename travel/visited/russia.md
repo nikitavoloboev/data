@@ -36,6 +36,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Пожизненные губернаторы. Дальше передача власти в регионах по наследству.](https://twitter.com/nlyaskin/status/1442389741555572736)
 - [Сейчас и элиты, и военные, и полицейские, и общество, и мировое сообщество знает, что Партия Путина - это партия меньшинства. А узнали мы эту информацию(именно убедительно узнали, чтобы всем и каждому можно доказать) благодаря выборам.](https://twitter.com/mironov_fm/status/1444316401871765504)
 - [К сожалению, тюрьма это ёбаная мясорубка ломающая психическое и физическое здоровье людей. Современные места заключения чудовищны по своему существу и должны быть реформированы.](https://twitter.com/kasablanka_03/status/1446516126364704788)
+- [Власть хочет править как Сталин, а жить как Абрамович.](https://www.youtube.com/watch?v=Id-nklB3eI8)
 
 ## Links
 
@@ -285,3 +286,6 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Почему Путин живёт прошлым? (2021)](https://www.youtube.com/watch?v=UITD5WTITjY)
 - [The Murderous Rise of Russia's Billionaires (2021)](https://www.youtube.com/watch?v=tveVWnS36Nk)
 - [Timeline of Russian innovation](https://en.wikipedia.org/wiki/Timeline_of_Russian_innovation) ([Reddit](https://www.reddit.com/r/AskARussian/comments/q5f57s/what_invention_from_your_country_are_you_most/))
+- [Интернет-магазин Kate Snap](https://www.katesnap.com/shop) ([Tweet](https://twitter.com/andrey_sitnik/status/1447864904774467585))
+- [Новые Известия](https://newizv.ru/)
+- [Why do most Russian regret the fall of the Soviet Union? (2021)](https://www.reddit.com/r/AskARussian/comments/q688v5/why_do_most_russian_regret_the_fall_of_the_soviet/)

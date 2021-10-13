@@ -242,3 +242,4 @@
 - [Categorizing GraphQL Directives into Schema or Query Type (2021)](https://stepzen.com/blog/categorize-graphql-directives) ([Tweet](https://twitter.com/gethackteam/status/1442556133588221954))
 - [OpenAPI-to-GraphQL](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL.
 - [How (Not) To Build Your Own GraphQL Server (2021)](https://stepzen.com/blog/how-not-to-build-graphql-server)
+- [SchemeHub](https://schemehub.vercel.app/) - Web app for collaborative editing of GraphQL Schemas. ([Code](https://github.com/the-guild-org/schemehub))

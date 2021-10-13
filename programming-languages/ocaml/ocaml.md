@@ -88,3 +88,4 @@
 - [BetterOCaml](https://betterocaml.ml/) - Efficient, intuitive and cross-platform web IDE for the OCaml language. ([Code](https://github.com/jbdoderlein/BetterOCaml))
 - [OCaml is getting multicore support in the next major version (v5) (2021)](https://discuss.ocaml.org/t/the-road-to-ocaml-5-0/8584) ([Tweet](https://twitter.com/SusanPotter/status/1446053574329389059)) ([HN](https://news.ycombinator.com/item?id=28785306))
 - [Using, Understanding, and Unraveling The OCaml Language From Practice to Theory and vice versa](https://caml.inria.fr/pub/docs/u3-ocaml/)
+- [Effective Concurrency with Algebraic Effects in Multicore OCaml (2015)](https://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/) ([HN](https://news.ycombinator.com/item?id=28838099))

@@ -23,3 +23,4 @@
 - [FSJam Podcast](https://fsjam.org/) - Conversations about the emerging world of Fullstack Jamstack applications.
 - [Subscription Management in Jamstack Apps](https://github.com/stripe-samples/netlify-stripe-subscriptions) - Example of managing subscriptions with the Stripe Customer Portal and Netlify Identity.
 - [Biggest tradeoff of going with JAMstack (2021)](https://twitter.com/brianleroux/status/1428818839408611328)
+- [Jamstack Conf Keynote 2021: How it Started; How it's Going | Matt Biilmann](https://www.youtube.com/watch?v=phC14xfwvjc)

@@ -96,6 +96,7 @@
 - [MHLib.jl](https://github.com/ac-tuwien/MHLib.jl) - Toolbox for Metaheuristics and Hybrid Optimization Methods.
 - [Erdos](https://github.com/CarloLucibello/Erdos.jl) - Library for graph analysis written Julia.
 - [LinearSolvers](https://github.com/SciML/LinearSolve.jl)
+- [HighDimPDE.jl](https://github.com/vboussange/HighDimPDE.jl) - Julia package that breaks down the curse of dimensionality in solving non local, non linear PDEs.
 
 ## NLP
 

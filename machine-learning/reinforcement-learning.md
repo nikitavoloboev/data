@@ -245,3 +245,4 @@
 - [An Outsider's Tour of Reinforcement Learning (2018)](http://www.argmin.net/2018/06/25/outsider-rl/)
 - [Mastering Atari with Discrete World Models (2020)](https://arxiv.org/abs/2010.02193) ([Code](https://github.com/RajGhugare19/dreamerv2))
 - [Falken](https://github.com/google-research/falken) - Provides developers with a service that allows them to train AI that can play their games.
+- [irl-imitation](https://github.com/yrlu/irl-imitation) - Implementation of Inverse Reinforcement Learning (IRL) algorithms in python/Tensorflow. Deep MaxEnt, MaxEnt, LPIRL.

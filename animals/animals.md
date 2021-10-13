@@ -99,3 +99,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [GBIF](https://www.gbif.org/) - Free and open access to biodiversity data.
 - [Wonderful Life : The Burgess Shale and the Nature of History](https://www.bookdepository.com/Wonderful-Life-Stephen-Jay-Gould/9780393307009)
 - [Massive animal species discovered in half-billion-year-old Burgess Shale](https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old) ([HN](https://news.ycombinator.com/item?id=28462182))
+- [Modern Crocodiles Are Evolving at a Rapid Rate (2021)](https://www.smithsonianmag.com/science-nature/modern-crocodiles-are-evolving-rapid-rate-180978432/) ([HN](https://news.ycombinator.com/item?id=28808741))

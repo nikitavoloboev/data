@@ -202,3 +202,4 @@
 - [Kedro Community](https://github.com/quantumblacklabs/kedro-community) - Examples of data science projects created with Kedro.
 - [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 - [atoti](https://www.atoti.io/) - Free Python BI analytics platform. ([GitHub](https://github.com/atoti)) ([Notebooks](https://github.com/atoti/notebooks))
+- [Tably](https://tably.com/) - Lightning fast exploration, search and analytics, with an intuitive UI and supercharged formula.

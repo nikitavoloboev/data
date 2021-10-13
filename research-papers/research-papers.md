@@ -129,3 +129,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [GitHub Repositories with Links to Academic Papers: Public Access, Traceability, and Evolution (2021)](https://arxiv.org/abs/2004.00199)
 - [arXiv daily papers](https://github.com/weihaox/arxiv-daily-update)
 - [Neat scientific papers on research chemicals (2021)](https://www.reddit.com/r/researchchemicals/comments/q4vz94/some_neat_scientific_papers_on_research_chemicals/)
+- [Awesome paper list](https://github.com/ConanCui/Paper-List)
+- [Open Knowledge Discovery Reading List](https://github.com/thuiar/OKD-Reading-List)

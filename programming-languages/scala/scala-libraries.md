@@ -26,6 +26,10 @@
 - [Skunk](https://github.com/tpolecat/skunk) - Data access library for Scala + Postgres.
 - [Slick](https://github.com/slick/slick) - Modern database query and access library for Scala. Allows you to work with stored data almost as if you were using Scala collections. ([Web](https://scala-slick.org/))
 
+## Math
+
+- [Rainier](https://github.com/stripe/rainier) - Bayesian inference in Scala. ([Web](https://rainier.fit/))
+
 ## Test
 
 - [Weaver-test](https://github.com/disneystreaming/weaver-test) - Test framework that runs everything in parallel.

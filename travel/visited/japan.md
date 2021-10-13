@@ -47,3 +47,6 @@
 - [Japan breaks world record for fastest internet speed (2021)](https://www.freethink.com/technology/fastest-internet-speed) ([HN](https://news.ycombinator.com/item?id=28673726))
 - [GiNZA](https://github.com/megagonlabs/ginza) - Japanese NLP Library using spaCy as framework based on Universal Dependencies.
 - [List of Japanese inventions and discoveries](https://en.wikipedia.org/wiki/List_of_Japanese_inventions_and_discoveries)
+- [Why Japan Looks the Way it Does: Zoning (2021)](https://www.youtube.com/watch?v=wfm2xCKOCNk) ([HN](https://news.ycombinator.com/item?id=28838239))
+- [‎Being Japanese Documentary (2021)](https://letterboxd.com/film/being-japanese/)
+- [Life Where I'm From - YouTube](https://www.youtube.com/channel/UCqwxJts-6yF33rupyF_DCsA)

@@ -34,3 +34,4 @@
 - [Perl & Raku Conference review (2021)](https://dev.to/thibaultduponchelle/tprcic-2021-review-56k3)
 - [The four noisy horsemen of Perl hate (2021)](https://phoenixtrap.com/2021/07/20/the-four-noisy-horsemen-of-perl-hate/) ([Lobsters](https://lobste.rs/s/oa8sgi/four_noisy_horsemen_perl_hate))
 - [93% of Paint Splatters are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
+- [Read The Fantastic Manual: How to get the most out of Perl documentation (2021)](https://phoenixtrap.com/2021/10/12/read-the-fantastic-manual-how-to-get-the-most-out-of-perl-documentation/)

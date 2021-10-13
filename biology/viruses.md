@@ -88,3 +88,4 @@
 - [The mRNA Vaccines Are Extraordinary, but Novavax Is Even Better (2021)](https://www.theatlantic.com/health/archive/2021/06/novavax-now-best-covid-19-vaccine/619276/) ([Tweet](https://twitter.com/DavidSacks/status/1423190473603174403))
 - [The mutation that helps Delta spread (2021)](https://www.nature.com/articles/d41586-021-02275-2) ([HN](https://news.ycombinator.com/item?id=28248945))
 - [The Coronavirus Is Here Forever (2021)](https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/) ([HN](https://news.ycombinator.com/item?id=28274819))
+- [Documents confirming China's role in COVID release (2021)](https://twitter.com/zeynep/status/1441785603100606481)

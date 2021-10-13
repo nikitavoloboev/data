@@ -131,3 +131,4 @@
 - [Remote Job Benefit Ideas](https://twitter.com/levelsio/status/1445993277497380865)
 - [State of Digital Nomads](https://nomadlist.com/digital-nomad-statistics) ([HN](https://news.ycombinator.com/item?id=28798484))
 - [Polar Signals Remote Work Benefits](https://twitter.com/rothgar/status/1446867332748300288)
+- [HN: Amazon will allow many employees to work remotely indefinitely (2021)](https://news.ycombinator.com/item?id=28831031)

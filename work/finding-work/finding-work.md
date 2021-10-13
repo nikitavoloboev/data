@@ -134,3 +134,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Understanding Startup Offers](https://withcompound.com/manual-company-equity/understanding-startup-offers) ([HN](https://news.ycombinator.com/item?id=28644653))
 - [Why Senior Developers Are Leading the Great Resignation Movement (2021)](https://tipsnguts.medium.com/why-senior-developers-are-leading-the-great-resignation-movement-37b93ab9a634) ([HN](https://news.ycombinator.com/item?id=28715218))
 - [Thumbtack](https://www.thumbtack.com/) - Find local professionals for pretty much anything. ([Twitter](https://twitter.com/Thumbtack))
+- [Ask HN: How can I get a tech job that's more social? (2021)](https://news.ycombinator.com/item?id=28839819)

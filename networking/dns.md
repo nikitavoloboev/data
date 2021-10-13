@@ -132,3 +132,4 @@
 - [Running BGP in Data Centers at Scale (2021)](https://research.fb.com/publications/running-bgp-in-data-centers-at-scale/)
 - [What is BGP? | BGP routing explained](https://www.cloudflare.com/it-it/learning/security/glossary/what-is-bgp/) ([HN](https://news.ycombinator.com/item?id=28751520))
 - [Tools to explore BGP](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/) ([HN](https://news.ycombinator.com/item?id=28760731))
+- [Simple, fast DNS-over-TLS forwarding server](https://github.com/mikispag/dns-over-tls-forwarder) - Forwards to an user-specified list of upstream DNS-over-TLS servers in parallel, returning and caching the first result received.

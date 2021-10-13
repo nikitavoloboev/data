@@ -92,3 +92,4 @@
 - [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/) - Summarize the history of AI since March 2020.
 - [The UK AI Strategy: are we listening to the experts? (2021)](https://datasciencesection.org/2021/09/13/the-uk-ai-strategy-are-we-listening-to-the-experts/) ([Tweet](https://twitter.com/stianwestlake/status/1440633819548164098))
 - [Awesome Edge AI](https://github.com/rcmalli/awesome-edge-ai)
+- [ContinualAI](http://www.continualai.org/) - Non-profit Research Organization and Open Community on Continual Learning for AI. ([GitHub](https://github.com/ContinualAI))

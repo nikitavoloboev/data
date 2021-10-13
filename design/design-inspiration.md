@@ -92,6 +92,7 @@ Here are few more things I liked, design wise.
 - [Readng](https://readng.co/)
 - [OpenAI](https://openai.com/)
 - [Zoox](https://zoox.com/)
+- [Noor](https://usenoor.com/)
 - [The Graph](https://thegraph.com/)
 - [Endel](https://endel.io/)
 - [GitBook](https://www.gitbook.com/)

@@ -78,3 +78,4 @@
 - [Timeline of United States inventions](https://en.wikipedia.org/wiki/Timeline_of_United_States_inventions)
 - [The Off-Grid Laws of Every State in America (2021)](https://www.primalsurvivor.net/living-off-grid-legal/)
 - [Top 1% of U.S. Earners Now Hold More Wealth Than All of the Middle Class (2021)](https://www.bloomberg.com/news/articles/2021-10-08/top-1-earners-hold-more-wealth-than-the-u-s-middle-class) ([Reddit](https://www.reddit.com/r/Economics/comments/q5dub2/top_1_of_us_earners_now_hold_more_wealth_than_all/)) ([HN](https://news.ycombinator.com/item?id=28826646))
+- [Why America Imploded. What Americans Still Don’t Understand. (2021)](https://eand.co/why-america-imploded-d52db893acc6) ([Tweet](https://twitter.com/smdiehl/status/1447838693839024132))

@@ -132,3 +132,6 @@
 - [mcl](https://github.com/herumi/mcl) - Portable and fast pairing-based cryptography library.
 - [ecgen](https://github.com/J08nY/ecgen) - Tool for generating Elliptic curve domain parameters.
 - [Conditionally-Perfect Secrecy and a Provably-Secure Randomized Cipher (1992)](https://crypto.ethz.ch/publications/files/Maurer92b.pdf)
+- [Minisign](https://github.com/jedisct1/minisign) - Dead simple tool to sign files and verify digital signatures. ([Web](https://jedisct1.github.io/minisign/))
+- [Minisign in Zig](https://github.com/jedisct1/zig-minisign)
+- [Signify](https://github.com/aperezdc/signify) - OpenBSD tool to signs and verify signatures on files. Portable version.

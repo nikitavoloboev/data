@@ -158,3 +158,4 @@
 - [Protein complex prediction with AlphaFold-Multimer (2021)](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v1) ([Tweet](https://twitter.com/DeepMind/status/1445335773440585729)) ([HN](https://news.ycombinator.com/item?id=28781518))
 - [A cryptography game-changer for biomedical research at scale (2021)](https://www.nature.com/articles/s41467-021-25972-y) ([HN](https://news.ycombinator.com/item?id=28826376))
 - [MoleculeX](https://github.com/divelab/MoleculeX) - New and rapidly growing suite of machine learning methods and software tools for molecule exploration.
+- [Biomappings](https://github.com/biopragmatics/biomappings) - Community curated and predicted equivalences and related mappings between named biological entities that are not available from primary sources.

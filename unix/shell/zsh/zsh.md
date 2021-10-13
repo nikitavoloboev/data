@@ -34,3 +34,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [zsh-bin](https://github.com/romkatv/zsh-bin) - Statically-linked, hermetic, relocatable Zsh.
 - [Zim](https://github.com/zimfw/zimfw) - Modular, customizable, and blazing fast Zsh framework. ([Web](https://zimfw.sh/))
 - [A User's Guide to ZSH](https://zsh.sourceforge.io/Guide/zshguide.html)
+- [zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh.

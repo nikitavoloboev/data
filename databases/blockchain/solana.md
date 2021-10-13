@@ -53,7 +53,7 @@
 - [Marinade](https://marinade.finance/) - Liquid staking protocol built on Solana.
 - [Which validator to choose for SOL? (2021)](https://www.reddit.com/r/solana/comments/nplupv/when_staking_sol_on_solflare_how_do_i_know_which/)
 - [Solana Validators](https://www.validators.app/)
-- [Solana JavaScript API](https://github.com/solana-labs/solana-web3.js) ([Docs](https://solana-labs.github.io/solana-web3.js/))
+- [Solana JavaScript API](https://github.com/solana-labs/solana-web3.js) ([Docs](https://solana-labs.github.io/solana-web3.js/)) ([Guide](https://docs.solana.com/developing/clients/javascript-api))
 - [Metaplex](https://www.metaplex.com/) - Own your own NFT storefront. ([Code](https://github.com/metaplex-foundation/metaplex))
 - [HAPI](https://solana.com/ecosystem/hapi) - Cross-chain protocol, aimed at creating new cybersecurity standards for DeFi market by providing real-time data on stolen funds and compromised wallets.
 - [First impressions of Rust programming on Solana (2021)](https://brson.github.io/2021/06/08/rust-on-solana)
@@ -93,3 +93,4 @@
 - [Solana Go SDK](https://github.com/portto/solana-go-sdk)
 - [Goki](https://github.com/GokiProtocol/goki) - Suite of programs for Solana key management and security.
 - [Setting up a Solana Bigtable Instance](https://github.com/solana-labs/solana-bigtable)
+- [DeployDAO Migrator](https://github.com/DeployDAO/migrator) - Program for deploying and upgrading programs.

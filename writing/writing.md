@@ -116,6 +116,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Moving your team from slides to long form writing is not just a process change. It is first and foremost a culture change. A writing culture values comprehension over aesthetics, nuance over certainty, clarity over charisma, deliberation over impulse, and rigor over hierarchy.](https://twitter.com/shreyas/status/1421143101083512838)
 - [Write like a journalist. Adopt the inverted pyramid. Be curious. Use emotion-based questions. Tell a story. Pay attention to the details, data, & money.](https://twitter.com/ChelseaCastle/status/1422900159311142912)
 - [Good copywriting: Here's your problem. Here's the benefit of solving it. Here's why what you've tried has failed. And by the way here's a product that will help you solve it.](https://twitter.com/dickiebush/status/1445375496636743682)
+- [Immature poets imitate. Mature poets steal.](https://twitter.com/JamesSACorey/status/1447686904636342272)
 
 ## Links
 

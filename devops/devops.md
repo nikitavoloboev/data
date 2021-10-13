@@ -94,3 +94,4 @@
 - [Cachito](https://github.com/release-engineering/cachito) - Caching service for source code and external dependencies.
 - [envsafe](https://github.com/KATT/envsafe) - Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Fancy self-hosted monitoring tool. ([HN](https://news.ycombinator.com/item?id=28809501))
+- [Ask HN: Solo-preneurs, how do you DevOps to save time? (2021)](https://news.ycombinator.com/item?id=28838132)

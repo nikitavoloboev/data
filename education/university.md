@@ -99,3 +99,4 @@ There are many more things that simply would not happen if I didn't try new thin
 - [MIT](https://web.mit.edu/)
 - [Stanford](https://www.stanford.edu/) ([YouTube](https://www.youtube.com/c/stanford/videos))
 - [5 вещей, которые я бы хотел знать на первом курсе технического ВУЗа (2021)](https://www.youtube.com/watch?v=dpr5CMbuqdo)
+- [Imperial College London](https://www.imperial.ac.uk/)

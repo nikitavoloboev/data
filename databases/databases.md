@@ -168,7 +168,7 @@
 - [GQLite](https://github.com/dyedgreen/gqlite) - Embedded graph database implemented with Rust.
 - [Xata](https://www.xata.io/) - Database service for serverless apps. ([HN](https://news.ycombinator.com/item?id=28590816))
 - [SpiceDB](https://github.com/authzed/spicedb) - Zanzibar-inspired database that stores, computes, and validates application permissions. ([Article](https://authzed.com/blog/spicedb-is-open-source/)) ([HN](https://news.ycombinator.com/item?id=28709886)) ([CLI](https://github.com/authzed/zed))
-- [Authzed](https://authzed.com/) - Managed permissions database for everyone. ([GitHub](https://github.com/authzed))
+- [Authzed](https://authzed.com/) - Managed permissions database for everyone. ([GitHub](https://github.com/authzed)) ([Authzed API](https://github.com/authzed/api))
 - [Datomic](https://www.datomic.com/) - Transactional database with a flexible data model, elastic scaling, and rich queries. ([GitHub](https://github.com/Datomic)) ([Replicating with Datomic](https://whilo.github.io/articles/17/replicating-datomic))
 - [EdgelessDB](https://github.com/edgelesssys/edgelessdb) - Open-source MySQL-compatible database for confidential computing. Runs entirely inside a secure enclave and comes with advanced features for collaboration, recovery, and access control. ([Intro](https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-edgelessdb-a-database-designed-for-confidential/ba-p/2813631))
 

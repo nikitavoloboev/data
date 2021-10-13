@@ -61,3 +61,4 @@
 - [10 Figma tricks I wish I knew earlier (2021)](https://uxdesign.cc/10-more-figma-tricks-i-wish-i-knew-earlier-1f802190e31a)
 - [SaaS Blocks Figma UI Kit](https://cogentgene1.gumroad.com/#FbINx)
 - [Figma Mirror](https://www.figma.com/mirror)
+- [How (and why) we built branching (2021)](https://www.figma.com/blog/how-and-why-we-built-branching/) ([Tweet](https://twitter.com/skuwamoto/status/1447980346935439360))

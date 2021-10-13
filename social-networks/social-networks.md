@@ -130,3 +130,4 @@
 - [Statement from Mark Zuckerberg (2021)](https://www.facebook.com/4/posts/10113961365418581/?d=n) ([HN](https://news.ycombinator.com/item?id=28767700)) ([Tweet](https://twitter.com/Snowden/status/1445604626984620039))
 - [Bombshell (2021)](https://www.piratewires.com/p/bombshell) - Instagram's suicide farm, media distortion, and navigating three weeks of Facebook hysteria. ([Tweet](https://twitter.com/micsolana/status/1445137372471988235))
 - [Pinterest](https://pinterest.com/) - Image sharing service. ([GitHub](https://github.com/pinterest))
+- [Fast Facebook Activity Deletion](https://github.com/marcelja/facebook-delete) - Clean up a Facebook account without deleting the entire account.

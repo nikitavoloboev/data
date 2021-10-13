@@ -124,3 +124,4 @@
 - [Why Your Website Should Use Dithered Images (2020)](https://endtimes.dev/why-you-should-dither-images/) ([Lobsters](https://lobste.rs/s/cxxfyx/why_your_website_should_use_dithered))
 - [BackgroundRemover.app](https://backgroundremover.app/) - Command line tool to remove background from video and image. ([Code](https://github.com/nadermx/backgroundremover))
 - [Using Modern Image Formats: AVIF And WebP (2021)](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)
+- [didder](https://github.com/makeworld-the-better-one/didder) - Extensive, fast, and accurate command-line image dithering tool.

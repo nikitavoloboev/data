@@ -323,3 +323,5 @@
 - [PostgreSQL 14 on Kubernetes (2021)](https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes) ([HN](https://news.ycombinator.com/item?id=28767637))
 - [Lessons learned from sharding Postgres at Notion (2021)](https://www.notion.so/blog/sharding-postgres-at-notion) ([HN](https://news.ycombinator.com/item?id=28776786))
 - [PSQL wire protocol](https://github.com/jeroenrinzema/psql-wire) - Go PostgreSQL server wire protocol implementation. Build your own PostgreSQL server with 15 lines of code.
+- [clickhousedb_fdw](https://github.com/Percona-Lab/clickhousedb_fdw) - PostgreSQL's Foreign Data Wrapper For ClickHouse.
+- [Google Cloud Gives Spanner a PostgreSQL Interface (2021)](https://www.datanami.com/2021/10/12/google-cloud-gives-spanner-a-postgresql-interface/)

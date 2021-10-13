@@ -112,3 +112,4 @@ Learning to build [startups](startups/startups.md).
 - [The secret to Cloudflare’s pace of Innovation (2021)](https://blog.cloudflare.com/the-secret-to-cloudflare-pace-of-innovation/)
 - [The Skill of Org Design (2021)](https://commoncog.com/blog/org-design-skill/) ([HN](https://news.ycombinator.com/item?id=28772033))
 - [Business Wire](https://www.businesswire.com/portal/site/home/) - Press release distribution, EDGAR filing, XBRL, regulatory filings.
+- [The Death and Birth of Technological Revolutions (2021)](https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/) ([HN](https://news.ycombinator.com/item?id=28839424)) ([Tweet](https://twitter.com/gordonbrander/status/1447975083469803523))

@@ -31,3 +31,4 @@
 - [bazels3cache](https://github.com/Asana/bazels3cache) - Small web server for a Bazel cache, proxies to S3; allows Bazel to work offline; async uploads to make Bazel faster.
 - [BuildBuddy](https://github.com/buildbuddy-io/buildbuddy) - Open source Bazel build event viewer, result store, and remote cache. ([Web](https://www.buildbuddy.io/))
 - [dbx_build_tools](https://github.com/dropbox/dbx_build_tools) - Dropbox's Bazel rules and tools.
+- [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.

@@ -159,3 +159,4 @@
 - [Access Temporary Authentication (2021)](https://blog.cloudflare.com/announcing-access-temporary-authentication/)
 - [jwt-cli](https://github.com/clarketm/jwt-cli) - Command line tool for working with JSON Web Tokens (JWT).
 - [Casdoor](https://github.com/casbin/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform based on OAuth 2.0 / OIDC. ([Web](https://casdoor.org/))
+- [JWT-to-RBAC](https://github.com/banzaicloud/jwt-to-rbac) - Lets you automatically generate RBAC resources based on JWT tokens.

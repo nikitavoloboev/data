@@ -149,3 +149,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Ask HN: Practically accepting cryptocurrency for businesses without middlemen? (2021)](https://news.ycombinator.com/item?id=28795005)
 - [Your Money and Your Life - by Edward Snowden (2021)](https://edwardsnowden.substack.com/p/cbdcs) - Central Banks Digital Currencies will ransom our future. ([Tweet](https://twitter.com/Snowden/status/1446850805223591938))
 - [go-binance](https://github.com/adshao/go-binance) - Go SDK for Binance API.
+- [Personal finance tools for crypto to help people track yields, ownership, etc. across services (2021)](https://twitter.com/dksf/status/1447981378918748163)

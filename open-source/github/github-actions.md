@@ -121,6 +121,7 @@
 - [Buildah Build](https://github.com/redhat-actions/buildah-build) - GitHub Action for building Docker and Kubernetes-compatible images quickly and easily.
 - [Create Pull Request](https://github.com/peter-evans/create-pull-request) - GitHub action to create a pull request for changes to your repository in the actions workspace.
 - [GitHub Action for Dispatching Workflows](https://github.com/benc-uk/workflow-dispatch) - This action triggers another GitHub Actions workflow, using the workflow_dispatch event.
+- [Semantic Release Action](https://github.com/cycjimmy/semantic-release-action)
 
 ## Go
 

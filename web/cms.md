@@ -10,7 +10,7 @@
 - [Strapi](https://strapi.io/) - Open source Node.js Headless CMS to easily build customisable APIs. ([HN](https://news.ycombinator.com/item?id=23453530)) ([Code](https://github.com/strapi/strapi))
 - [Recommendations for headless CMS (2020)](https://twitter.com/jorilallo/status/1273374053852753921)
 - [Agility CMS](https://agilitycms.com/) - The Fastest Headless CMS. ([Tweet](https://twitter.com/rauchg/status/1274418537126219776))
-- [Sanity](https://www.sanity.io/) - Build with Structured Content. ([Sanity powered landing page builder in Next.js](https://github.com/sanity-io/sanity-template-nextjs-landing-pages)) ([Code](https://github.com/sanity-io/sanity)) ([Sanity Codegen](https://github.com/ricokahler/sanity-codegen))
+- [Sanity](https://www.sanity.io/) - Build with Structured Content. ([Sanity powered landing page builder in Next.js](https://github.com/sanity-io/sanity-template-nextjs-landing-pages)) ([Code](https://github.com/sanity-io/sanity)) ([Sanity Codegen](https://github.com/ricokahler/sanity-codegen)) ([Tweet](https://twitter.com/kmelve/status/1447674577732186114))
 - [Spina CMS](https://github.com/SpinaCMS/Spina) - Easy to use CMS that features a clean interface without distractions.
 - [Contentful](https://www.contentful.com/) - API-first content platform to build digital experiences.
 - [Build and Deploy a Next.js Blog with Cosmic and Vercel (2020)](https://vercel.com/guides/deploying-next-and-cosmic-with-vercel)

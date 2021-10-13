@@ -92,7 +92,7 @@
 - [The Nature of Lisp (2006)](http://www.defmacro.org/ramblings/lisp.html)
 - [awklisp](https://github.com/darius/awklisp) - Lisp interpreter written in Awk.
 - [Pixie](https://github.com/pixie-lang/pixie) - Lightweight lisp suitable for both general use as well as shell scripting.
-- [Awesome Lisp Companies](https://github.com/azzamsa/awesome-lisp-companies) - Curated lisp for companies that use Lisp Extensively in their stack.
+- [Companies that use Lisp extensively](https://github.com/azzamsa/awesome-lisp-companies) ([HN](https://news.ycombinator.com/item?id=28830677))
 - [LISP – Notes on its past and future, by John McCarthy (1980)](http://jmc.stanford.edu/articles/lisp20th/lisp20th.pdf)
 - [Klisp](https://github.com/thesephist/klisp) - Minimal LISP written in about 200 lines of Ink. ([Article](https://dotink.co/posts/klisp/))
 - [baremetalisp](https://github.com/ytakano/baremetalisp)
@@ -143,3 +143,5 @@
 - [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs. ([HN](https://news.ycombinator.com/item?id=28616475))
 - [Liz](https://github.com/dundalek/liz) - Lisp-flavored general-purpose programming language (based on Zig).
 - [Tiny Scheme-like Lisp interpreter written in a weekend](https://github.com/fragglet/yoctolisp/blob/master/yoctolisp.md) ([HN](https://news.ycombinator.com/item?id=28815724))
+- [jrsonnet](https://github.com/CertainLach/jrsonnet) - Rust implementation of Jsonnet language.
+- [The Problem with Macros (2021)](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/) ([HN](https://news.ycombinator.com/item?id=28845971)) ([Lobsters](https://lobste.rs/s/d0hogq/problem_with_macros))
