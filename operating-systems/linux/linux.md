@@ -385,3 +385,4 @@
 - [Linux from scratch using virtual machines on a Apple Mac M1 laptop](https://philsyme.github.io/lfs-tw/)
 - [So You Want to Rust the Linux Kernel? (2021)](https://paulmck.livejournal.com/62436.html) ([HN](https://news.ycombinator.com/item?id=28826246))
 - [Beginner's Guide to eBPF Programming for Networking](https://github.com/lizrice/ebpf-networking)
+- [How does apt render its fancy progress bar? (2021)](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html) ([HN](https://news.ycombinator.com/item?id=28850036))

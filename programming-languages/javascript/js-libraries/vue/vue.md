@@ -73,3 +73,4 @@
 - [Vue Konva](https://github.com/konvajs/vue-konva) - JavaScript library for drawing complex canvas graphics using Vue.
 - [Vue Query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
 - [Vant](https://github.com/youzan/vant) - Mobile UI Components built on Vue.
+- [Nuxt](https://nuxtjs.org/) - Hybrid Vue Framework. ([Code](https://github.com/nuxt/framework)) ([Nuxt 3 Public Beta Launch with Q&A](https://www.youtube.com/watch?v=kXHuaCNfYEY))

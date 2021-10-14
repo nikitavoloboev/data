@@ -94,3 +94,4 @@
 - [Goki](https://github.com/GokiProtocol/goki) - Suite of programs for Solana key management and security.
 - [Setting up a Solana Bigtable Instance](https://github.com/solana-labs/solana-bigtable)
 - [DeployDAO Migrator](https://github.com/DeployDAO/migrator) - Program for deploying and upgrading programs.
+- [Solana Founder Anatoly Yakovenko on scaling the blockchain to warp speed (2021)](https://overcast.fm/+JyEyaW_w)

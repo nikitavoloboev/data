@@ -33,3 +33,4 @@
 - [TChannel Go](https://github.com/uber/tchannel-go) - Go implementation of a multiplexing and framing protocol for RPC calls.
 - [jsonrpc-proxy](https://github.com/tomusdrw/jsonrpc-proxy) - Generic and extensible JSON-RPC proxy, supporting cache and load-balancing.
 - [rpc](https://github.com/deno-libs/rpc) - JSONRPC server implementation with native WebSocket, based on jsonrpc.
+- [Don’t Let RPCs Constrain Your API (2021)](https://www.cs.yale.edu/homes/soule/pubs/hotnets2021.pdf) ([Tweet](https://twitter.com/danielbittman/status/1447997859215945729))

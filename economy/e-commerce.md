@@ -106,3 +106,5 @@
 - [in-toto](https://in-toto.io/) - Framework to secure the integrity of software supply chains. ([Code](https://github.com/in-toto/in-toto))
 - [Teini](https://github.com/zeekrey/teini) - Extremely small web shop leveraging awesome and free solutions like github and vercel.
 - [Lumi](https://www.lumi.com/) - Collaborate with the best packaging & print suppliers. ([GitHub](https://github.com/lumihq))
+- [Shopify Admin API Library for Node](https://github.com/Shopify/shopify-node-api) - Accelerate development with support for authentication, graphql proxy, webhooks.
+- [Free Returns Are Complicated, Laborious, and Gross (2021)](https://www.theatlantic.com/magazine/archive/2021/11/free-returns-online-shopping/620169/) ([HN](https://news.ycombinator.com/item?id=28827355))

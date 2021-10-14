@@ -60,6 +60,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Plain web text editor](https://github.com/pacocoursey/writer)
 - [Opus](https://github.com/pacocoursey/Opus) - Minimal note-taking app.
 - [React Oxide](https://github.com/bootrino/reactoxide) - open source ReactJS code editor with tabs, files & webDAV. ([HN](https://news.ycombinator.com/item?id=28702006))
+- [Tincta](https://github.com/CodingFriends/Tincta) - Free text editor for Mac with focus on speed, stability and ease of use.
 
 ## Web
 

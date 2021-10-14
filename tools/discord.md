@@ -21,6 +21,7 @@
 - [MusicBot](https://github.com/ljgago/MusicBot) - Multi-server music bot for Discord built in Go.
 - [JMusicBot](https://github.com/jagrosh/MusicBot) - Discord music bot that's easy to set up and run yourself. In Java. ([Docs](https://jmusicbot.com/))
 - [Vortex](https://github.com/jagrosh/Vortex) - Discord Moderation Bot.
+- [NFT Discord Bot](https://github.com/lucid-eleven/nft-discord-bot) - Discord bot for ERC721 NFT collections.
 
 ## Libraries
 

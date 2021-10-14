@@ -87,7 +87,7 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Researchers can duplicate keys from the sounds they make in locks (2020)](https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks) ([HN](https://news.ycombinator.com/item?id=24205833))
 - [DEF CON](https://defcon.org/) - Hacking Conference.
 - [Threat modelling case study: bicycles (2020)](http://calpaterson.com/bicycle-threat-model.html) ([Lobsters](https://lobste.rs/s/v1egoc/threat_modelling_case_study_bicycles))
-- [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. ([Code](https://github.com/GTFOBins/GTFOBins.github.io)) ([Lobsters](https://lobste.rs/s/qtb9da/gtfobins))
+- [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. ([Code](https://github.com/GTFOBins/GTFOBins.github.io)) ([Lobsters](https://lobste.rs/s/qtb9da/gtfobins)) ([HN](https://news.ycombinator.com/item?id=28849101))
 - [MinTOTP](https://github.com/susam/mintotp) - Minimal TOTP generator written in Python. ([Lobsters](https://lobste.rs/s/fzkwum/minimal_totp_generator_20_lines_python))
 - [Information Security Requires Strongly-Typed Actors and Theories (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418003)
 - [Intercepting Zoom's encrypted data with BPF (2020)](https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes)

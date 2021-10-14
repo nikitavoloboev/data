@@ -94,3 +94,4 @@
 - [Web3 Jobs](https://web3.career/) - Blockchain, Smart Contract and Crypto Jobs.
 - [The Rise of Micro-Economies (2021)](https://coopahtroopa.mirror.xyz/gWY6Kfebs9wHdfoZZswfiLTBVzfKiyFaIwNf2q8JpgI)
 - [Web3 architecture and how it compares to traditional web apps (2021)](https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/) ([HN](https://news.ycombinator.com/item?id=28800818))
+- [Cwtch](https://cwtch.im/) - Decentralized, Surveillance Resistant Infrastructure. ([Lobsters](https://lobste.rs/s/iftp1p/cwtch_decentralized_surveillance))

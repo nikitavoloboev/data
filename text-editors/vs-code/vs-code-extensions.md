@@ -140,6 +140,7 @@ Below is a list of extensions I use.
 - [Browse Lite](https://marketplace.visualstudio.com/items?itemName=antfu.browse-lite) - Embedded browser in VS Code. ([Code](https://github.com/antfu/vscode-browse-lite))
 - [i18n Ally](https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally) - All in one i18n extension for VSCode. ([Code](https://github.com/lokalise/i18n-ally))
 - [Database Client](https://github.com/cweijan/vscode-database-client) - Supports databases MySQL/MariaDB, Microsoft SQL Server, PostgreSQL, SQLite, MongoDB, Redis, and ElasticSearch.
+- [VSCode MLIR](https://github.com/llvm/vscode-mlir) - Provides MLIR language IDE features for VS code.
 
 ## Shell
 
@@ -197,6 +198,7 @@ Below is a list of extensions I use.
 ## React
 
 - [Glean](https://github.com/wix/vscode-glean) - Extension provides refactoring tools for your React codebase.
+- [Sapling](https://marketplace.visualstudio.com/items?itemName=team-sapling.sapling) - React Component Hierarchy Visualizer. ([Web](https://www.sapling-extension.com/)) ([Code](https://github.com/oslabs-beta/sapling))
 
 ## Svelte
 

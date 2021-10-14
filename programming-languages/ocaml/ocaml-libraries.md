@@ -101,6 +101,7 @@
 - [ortac](https://github.com/ocaml-gospel/ortac) - OCaml Runtime Assertion Checking.
 - [Bloomf](https://github.com/mirage/bloomf) - Efficient Bloom filters for OCaml.
 - [Index](https://github.com/mirage/index) - Scalable implementation of persistent indices in OCaml.
+- [ppx_effects](https://github.com/CraigFe/ppx_effects) - Syntax extensions for untyped effects in OCaml 5.
 
 ## Links
 

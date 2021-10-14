@@ -240,7 +240,7 @@
 - [API Federation: growing scalable API landscapes (2021)](https://engineering.salesforce.com/api-federation-growing-scalable-api-landscapes-a0f1f0dad506)
 - [Zanzibar](https://github.com/uber/zanzibar) - Build system & configuration system to generate versioned API gateways.
 - [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
-- [Micro](https://m3o.com/) - Programmable building blocks for everyday use. ([HN](https://news.ycombinator.com/item?id=27619015))
+- [M3O](https://m3o.com/) - Open source AWS alternative. Programmable building blocks for everyday use. ([HN](https://news.ycombinator.com/item?id=27619015)) ([Code](https://github.com/m3o/m3o)) ([HN](https://news.ycombinator.com/item?id=28851167))
 - [Notes on streaming large API responses](https://simonwillison.net/2021/Jun/25/streaming-large-api-responses/) ([HN](https://news.ycombinator.com/item?id=27632949))
 - [How to Cancel Pending API Requests to Show Correct Data (2021)](https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/)
 - [Give me /events, not webhooks (2021)](https://blog.syncinc.so/events-not-webhooks) ([Lobsters](https://lobste.rs/s/3xrosf/give_me_events_not_webhooks)) ([HN](https://news.ycombinator.com/item?id=27823109))

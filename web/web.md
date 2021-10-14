@@ -315,3 +315,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Reading from the web offline and distraction-free - Unladen swallow (2021)](https://blog.owulveryck.info/2021/10/07/reading-from-the-web-offline-and-distraction-free.html) ([Code](https://github.com/owulveryck/rePocketable))
 - [I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021) ([HN](https://news.ycombinator.com/item?id=28818829))
 - [Дока](https://doka.guide/) - Документация для разработчиков на человеческом языке. ([Code](https://github.com/doka-guide/content)) ([Tweet](https://twitter.com/ABatickaya/status/1447955564068286464))
+- [12ft Ladder](https://12ft.io/) - Hop the paywalls.

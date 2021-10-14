@@ -131,3 +131,4 @@
 - [Bombshell (2021)](https://www.piratewires.com/p/bombshell) - Instagram's suicide farm, media distortion, and navigating three weeks of Facebook hysteria. ([Tweet](https://twitter.com/micsolana/status/1445137372471988235))
 - [Pinterest](https://pinterest.com/) - Image sharing service. ([GitHub](https://github.com/pinterest))
 - [Fast Facebook Activity Deletion](https://github.com/marcelja/facebook-delete) - Clean up a Facebook account without deleting the entire account.
+- [And you will know us by the company we keep (2021)](https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep) ([HN](https://news.ycombinator.com/item?id=28829843))

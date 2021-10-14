@@ -456,3 +456,8 @@
 - [kx](https://github.com/onatm/kx) - Interactively switch between kubernetes contexts without any external dependencies.
 - [Local Path Provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes.
 - [Cartographer](https://github.com/vmware-tanzu/cartographer) - Kubernetes native Choreographer. Allows users to configure K8s resources into re-usable Supply Chains that can be used to define all of the stages that an Application Workload must go through to get to an environment.
+- [Road to Secure Kubernetes](https://github.com/nsmith5/road-to-secure-kubernetes) - Tutorial on security hardening a containerized workload in Kubernetes.
+- [Kubernetes RBAC](https://github.com/alcideio/rbac-tool)
+- [Carina](https://github.com/carina-io/carina) - High performance and ops-free local storage for kubernetes.
+- [Kube-queue](https://github.com/kube-queue/kube-queue) - Designed to manage AI/ML and batch workloads in Kubernetes.
+- [KuberLogic](https://github.com/kuberlogic/kuberlogic) - Open-source platform that deploys and manages software on top of the Kubernetes cluster and turns infrastructure into a managed PaaS.

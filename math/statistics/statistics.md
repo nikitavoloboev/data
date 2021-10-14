@@ -125,3 +125,4 @@
 - [Simplest example of Simpson's paradox (2021)](https://blog.plover.com/2021/10/02/#simpson-paradox) ([Lobsters](https://lobste.rs/s/xegtta/simplest_example_simpson_s_paradox))
 - [Complex Systems: a Physicist's Viewpoint (2021)](https://arxiv.org/abs/cond-mat/0205297)
 - [How to replace estimations and guesses with a Monte Carlo simulation (2021)](https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html) ([HN](https://news.ycombinator.com/item?id=28769331)) ([Code](https://github.com/lucasfcosta/agile-monte-carlo-demo))
+- [Bayesian Methods Research Group](https://bayesgroup.ru/) ([Twitter](https://twitter.com/bayesgroup))

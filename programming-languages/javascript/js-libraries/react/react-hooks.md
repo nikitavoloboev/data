@@ -176,3 +176,5 @@ useEffect(() => {
 - [Prefer Declarative State Updaters (2021)](https://kyleshevlin.com/prefer-declarative-state-updaters) ([Lobsters](https://lobste.rs/s/jt2auz/prefer_declarative_state_updaters))
 - [Scroll events, React Hooks and Refs](https://coding-time.co/scroll-events-react-hooks/)
 - [Making hook work conditionally](https://twitter.com/kyleshevlin/status/1442555297101279236)
+- [React & TypeScript: how to type hooks (a complete guide) (2021)](https://devtrium.com/posts/react-typescript-how-to-type-hooks)
+- [How to use React useReducer hook like a pro (2021)](https://devtrium.com/posts/how-to-use-react-usereducer-hook)

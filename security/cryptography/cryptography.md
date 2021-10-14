@@ -135,3 +135,4 @@
 - [Minisign](https://github.com/jedisct1/minisign) - Dead simple tool to sign files and verify digital signatures. ([Web](https://jedisct1.github.io/minisign/))
 - [Minisign in Zig](https://github.com/jedisct1/zig-minisign)
 - [Signify](https://github.com/aperezdc/signify) - OpenBSD tool to signs and verify signatures on files. Portable version.
+- [O(1) Labs](https://www.o1labs.org/) - Using cryptography and cryptocurrency to build computing systems that put people back in control of their digital lives. ([GitHub](https://github.com/o1-labs))

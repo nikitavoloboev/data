@@ -159,3 +159,4 @@
 - [A cryptography game-changer for biomedical research at scale (2021)](https://www.nature.com/articles/s41467-021-25972-y) ([HN](https://news.ycombinator.com/item?id=28826376))
 - [MoleculeX](https://github.com/divelab/MoleculeX) - New and rapidly growing suite of machine learning methods and software tools for molecule exploration.
 - [Biomappings](https://github.com/biopragmatics/biomappings) - Community curated and predicted equivalences and related mappings between named biological entities that are not available from primary sources.
+- [PheKnowLator](https://github.com/callahantiff/PheKnowLator) - Heterogeneous Biomedical Knowledge Graphs and Benchmarks Constructed Under Alternative Semantic Models.

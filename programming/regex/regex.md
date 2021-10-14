@@ -13,6 +13,7 @@ Small tip, [regex101](https://regex101.com) has night mode.
 
 ## Links
 
+- [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 - [Learn regex](https://github.com/zeeshanu/learn-regex) - Great reference.
 - [DebuggexBeta](https://debuggex.com/)
 - [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.

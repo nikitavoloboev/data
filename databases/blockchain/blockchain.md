@@ -55,6 +55,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Keep L1 simple and decentralized and scale on L2.](https://twitter.com/latetot/status/1437794513389592587)
 - [NFTs are a Ponzi scheme, corroborated by many reputable sources.](https://twitter.com/castpixel/status/1438063396772007937)
 - [Person: web3 is empowering creators! Me: Oh so it's like a decentralized network like mastodon? Person: no it's like web 2.0 plus blockchain.](https://twitter.com/ReinH/status/1442536279409774597)
+- [I would read an essay about how appeals to "community" in crypto have totally obscured power relations, governance, who makes money, and who's scamming who. This is an industry (wildly anarchic, unregulated, unequal, run by capital), not a community.](https://twitter.com/mims/status/1448253915976421376)
 
 ## Links
 
@@ -242,3 +243,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Sonic Chain](https://github.com/kianenigma/SonicChain) - Wait-free, pseudo-static approach toward concurrency in blockchain runtimes.
 - [LootWatcher](https://www.lootwatcher.com/) - Dashboard for Loot Projects. Discover, mint, and expand. ([Twitter](https://twitter.com/lootwatcher_))
 - [multichain](https://github.com/renproject/multichain) - Abstraction over multiple different underlying blockchains (Bitcoin, Ethereum, Zcash, etc.).
+- [How NFTs are a giant scam (2021)](https://twitter.com/smdiehl/status/1445795667826208770) ([HN](https://news.ycombinator.com/item?id=28850326))
+- [Web 3.0: Build money stuff and figure out some non-speculative use for it later (2021)](https://twitter.com/pinboard/status/1448007556656369666)
+- [NFT, but the image renders differently based on who's looking at it (2021)](https://twitter.com/moxie/status/1448066579611234305)
+- [A Guide to Designing Effective NFT Launches (2021)](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)

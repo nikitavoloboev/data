@@ -11,6 +11,7 @@
 - [The minute after you learn something is a really good time to start teaching.](https://twitter.com/jkup/status/1434280206567624705)
 - [The problem with learning from experts is that they are so far removed from square one. Their material assumes some foundational knowledge. Newbies, don't be afraid to share what you're learning. From the beginning. We - even the experts - need your fresh perspective!](https://twitter.com/techgirl1908/status/1441794957543608324)
 - [Building in Public let’s you leverage Cunningham’s Law to positive effect: if you error in your trial, someone is way more likely to pop out of the woodwork to tell you the right answer.](https://twitter.com/mikewavsz/status/1445627803550961669)
+- [Explaining concepts in the chronological order they were developed is vastly overrated as a teaching strategy. Once we have the huge benefit of hindsight we should use that context to give better explanations in a logical order.](https://twitter.com/nick_r_cameron/status/1448227898935099392)
 
 ## Links
 

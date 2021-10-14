@@ -44,6 +44,7 @@
 - [They don’t lie to you because the truth will hurt your feelings. They lie to you because the truth might provoke you to make the choices that won’t serve their interests.](https://www.reddit.com/r/survivinginfidelity/comments/ip1kjh/truth_about_all_liars/)
 - [Take a moment before answering / deciding / reacting. Don't be pulled into someone else's tempo, keep your own rhythm and pace.](https://www.reddit.com/r/AskWomen/comments/pojsoy/what_is_quick_life_hack_every_woman_should_know/)
 - [Trust can be ruined with a single word, and it’s not easy to rebuild.](https://twitter.com/apartovi/status/1447251334814523392) ([HN](https://news.ycombinator.com/item?id=28826437))
+- [If all you get out of incident review is engineers who talk more openly about how their stuff fails, you're winning.](https://twitter.com/MissAmyTobey/status/1448090585424932866)
 
 ## Links
 
@@ -142,3 +143,4 @@
 - [Почему с вами может быть действительно сложно общаться](https://twitter.com/fightwithchilde/status/1445008056262303744)
 - [How to be a nice programmer](https://kennydodrill.net/blog/how-to-be-a-nice-programmer/) ([Lobsters](https://lobste.rs/s/wcqcus/how_be_nice_programmer))
 - [Banal binaries: How power plays into how we communicate (2021)](https://www.tatianamac.com/posts/power-binaries/) ([Tweet](https://twitter.com/TatianaTMac/status/1447922760622223367))
+- [How to have civil discourse without flamebait](https://news.ycombinator.com/item?id=27161491)

@@ -1,4 +1,4 @@
-# [Cloudflare workers](https://www.cloudflare.com/en-gb/products/cloudflare-workers/)
+# [Cloudflare workers](https://workers.cloudflare.com/)
 
 ## Links
 
@@ -74,3 +74,4 @@
 - [Cloudflare worker for embedding polls anywhere](https://github.com/vberlier/poll)
 - [A/B testing with Cloudflare workers (2021)](https://ptrlaszlo.com/posts/cloudflare-ab-testing)
 - [Dynamic Process Isolation: Research by Cloudflare and TU Graz (2021)](https://blog.cloudflare.com/spectre-research-with-tu-graz/) ([Paper](https://arxiv.org/pdf/2110.04751.pdf))
+- [Cloudflare Workers Web Code](https://github.com/cloudflare/workers.cloudflare.com)

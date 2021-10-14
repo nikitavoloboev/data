@@ -533,3 +533,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Behind the Screens Book](https://jpeguin.gumroad.com/l/jOLcS) - Exploring the app dev journey and app developers' stories.
 - [Primal Survivor](https://www.primalsurvivor.net/) - Practical and sensible prepping advice for all.
 - [FMHYedit Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) ([Code](https://github.com/nbats/FMHYedit))
+- [My Experience with Leverage Research (2021)](https://medium.com/@zoecurzi/my-experience-with-leverage-research-17e96a8e540b) ([Tweet](https://twitter.com/CurziRose/status/1448067915375386628))

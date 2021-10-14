@@ -25,3 +25,4 @@ Because that's what life is. Trying to peek under the covers of this reality onl
 - [Memory making involves extensive DNA breaking (2021)](https://picower.mit.edu/news/memory-making-involves-extensive-dna-breaking)
 - [An ultimate guide to memory palaces](https://metacognitive.me/memory-palace/) ([HN](https://news.ycombinator.com/item?id=28640429))
 - [How do you memorize things you read? (2021)](https://news.ycombinator.com/item?id=28839573)
+- [Primate Memory (2021)](https://inference-review.com/article/primate-memory)

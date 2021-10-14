@@ -498,6 +498,7 @@
 - [PyPermut](https://github.com/qbarthelemy/PyPermut) - Python package for permutation tests, for statistics and machine learning.
 - [tabmat](https://github.com/Quantco/tabmat) - Efficient matrix representations for working with tabular data.
 - [glum](https://github.com/Quantco/glum) - High performance Python GLMs with all the features.
+- [fnn](https://github.com/williamgilpin/fnn) - Embed strange attractors using a regularizer for autoencoders.
 
 ## Links
 

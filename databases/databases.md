@@ -216,7 +216,7 @@
 - [dbmigrate](https://github.com/Keats/dbmigrate) - PostgreSQL/SQLite/MySQL migration tool in rust.
 - [Qsh](https://github.com/muhmud/qsh) - Improved database querying from your terminal. ([HN](https://news.ycombinator.com/item?id=28550874))
 - [trona](https://github.com/igorkamyshev/trona) - Write DB migrations with SQL and run them with a CLI.
-- [Azimutt](https://azimutt.app/) - Explore your database schema.
+- [Azimutt](https://azimutt.app/) - Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your SQL schema. ([Code](https://github.com/azimuttapp/azimutt))
 - [Models](https://github.com/tvallotton/models) - Tool for automated migrations for PostgreSQL, SQLite and MySQL.
 - [Atlas](https://atlasgo.io/) - Set of tools designed to help companies better work with their data. It includes several components that can be used individually but are designed to work very well together. ([Code](https://github.com/ariga/atlas))
 - [replikativ](https://github.com/replikativ/replikativ) - Open, scalable and distributive infrastructure for a data-driven community of applications. ([Web](https://replikativ.io/)) ([Unified storage IO](https://whilo.github.io/articles/16/unified-storage-io))

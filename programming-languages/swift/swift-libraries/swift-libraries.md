@@ -777,6 +777,7 @@
 - [BlueSignals](https://github.com/Kitura/BlueSignals) - Generic Cross Platform Signal Handler.
 - [Netable](https://github.com/steamclock/netable) - Swift library for encapsulating network APIs using Codable in a type-oriented way.
 - [Bluejay](https://github.com/steamclock/bluejay) - Simple Swift framework for building reliable Bluetooth LE apps.
+- [CodableCache](https://github.com/asowers1/CodableCache) - Framework that allows for seamless memory caching and disk persistence of your plain old Swift structs.
 
 ## Other (not lib)
 

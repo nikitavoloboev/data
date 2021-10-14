@@ -83,3 +83,4 @@
 - [LLVM 13.0.0 (2021)](https://releases.llvm.org/13.0.0/docs/ReleaseNotes.html) ([HN](https://news.ycombinator.com/item?id=28760685))
 - [llvm-pretty](https://github.com/elliottt/llvm-pretty) - LLVM pretty printer inspired by the Haskell LLVM binding.
 - [Generating relocatable code for ARM processors (2021)](https://blog.llvm.org/posts/2021-10-01-generating-relocatable-code-for-arm-processors/) ([HN](https://news.ycombinator.com/item?id=28830650))
+- [llvmlite](https://github.com/numba/llvmlite) - Lightweight LLVM Python Binding for Writing JIT Compilers. ([Docs](https://llvmlite.readthedocs.io/en/latest/))

@@ -562,3 +562,4 @@
 - [Some ML tools (2021)](https://twitter.com/GaryMarcus/status/1447206961045336066)
 - [Unsolved Problems in ML Safety (2021)](https://arxiv.org/abs/2109.13916) ([HN](https://news.ycombinator.com/item?id=28809233))
 - [Evaluating Predictive Distributions: Does Bayesian Deep Learning Work? (2021)](https://arxiv.org/abs/2110.04629) ([Code](https://github.com/deepmind/neural_testbed)) ([Tweet](https://twitter.com/DeepMind/status/1447975332489859076))
+- [Arsenii Ashukha: Ensemble Generation (2020)](https://www.youtube.com/watch?v=bj933t6rqFw)

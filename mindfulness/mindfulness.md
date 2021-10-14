@@ -52,3 +52,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Guide for Healthy Minds](https://app.projecthealthyminds.com/) - Curation of mental health resources to help get people access to mental health care.
 - [Project Healthy Minds](https://www.projecthealthyminds.com/) - Confronting one of the defining issues of our generation: the mental health crisis. ([Twitter](https://twitter.com/ProjHealthyMind))
 - [fit.dev](https://fit.dev/) - Your Physical and Mental Best. ([Tweet](https://twitter.com/toddmotto/status/1437741239005294597))
+- [I did a Think Week on a remote Scottish island (2021)](https://www.petecodes.io/think-week-scottish-island-2021/) ([Tweet](https://twitter.com/thepatwalls/status/1448242770267738116))

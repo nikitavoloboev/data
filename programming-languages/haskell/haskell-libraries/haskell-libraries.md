@@ -158,6 +158,7 @@
 - [bytesmith](https://github.com/byteverse/bytesmith) - Parse bytes fast.
 - [blanks](https://github.com/ejconlon/blanks) - Fill-in-the-blanks - A library factoring out substitution from ASTs.
 - [cleff](https://github.com/re-xyr/cleff) - Fast and concise extensible effects.
+- [Albatross](https://github.com/habit-lang/alb) - Tool for compiling relatively efficient implementations of priority queues.
 
 ## Links
 

@@ -398,3 +398,4 @@
 - [YoHa](https://handtracking.io/) - Practical hand tracking engine. ([HN](https://news.ycombinator.com/item?id=28825820)) ([Code](https://github.com/handtracking-io/yoha))
 - [Deep Learning for Face Anti-Spoofing: A Survey (2021)](https://arxiv.org/abs/2106.14948) ([Code](https://github.com/ZitongYu/DeepFAS))
 - [A-SDF: Learning Disentangled Signed Distance Functions for Articulated Shape Representation (2021)](https://arxiv.org/abs/2104.07645) ([Code](https://github.com/JitengMu/A-SDF))
+- [Resolution-robust Large Mask Inpainting with Fourier Convolutions (2021)](https://saic-mdal.github.io/lama-project/) ([Code](https://github.com/saic-mdal/lama))

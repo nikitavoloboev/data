@@ -88,6 +88,7 @@
 - [gin-timeout](https://github.com/gin-contrib/timeout) - Timeout middleware for Gin.
 - [gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
+- [Bunrouter](https://github.com/uptrace/bunrouter) - Fast and flexible HTTP router for Go. ([Web](https://bunrouter.uptrace.dev/))
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
 - [httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.

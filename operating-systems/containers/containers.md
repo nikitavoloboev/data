@@ -129,3 +129,6 @@
 - [Netavark](https://github.com/containers/netavark) - Rust based network stack for containers.
 - [Red Hat CodeReady Containers](https://developers.redhat.com/products/codeready-containers/overview) - Quickest way to get started building OpenShift clusters. ([Code](https://github.com/code-ready/crc))
 - [oci-runtime-tool](https://github.com/opencontainers/runtime-tools) - OCI Runtime Tools.
+- [Quadlet](https://github.com/containers/quadlet) - Opinionated tool for easily running podman system containers under systemd in an optimal way. ([Article](https://blogs.gnome.org/alexl/2021/10/12/quadlet-an-easier-way-to-run-system-containers/))
+- [s6 overlay](https://github.com/just-containers/s6-overlay) - Series of init scripts and utilities to ease creating Docker images using s6 as a process supervisor.
+- [Container security best practices: Ultimate guide (2021)](https://sysdig.com/blog/container-security-best-practices/) ([HN](https://news.ycombinator.com/item?id=28854478))

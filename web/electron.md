@@ -36,3 +36,4 @@
 - [Ask HN: How do you create a cross-platform GUI without using Electron? (2021)](https://news.ycombinator.com/item?id=28484658)
 - [Vite Electron Builder Boilerplate v2](https://github.com/cawa-93/vite-electron-builder) - Secure template for electron applications. Written following the latest safety requirements, recommendations and best practices.
 - [Next.js + Electron](https://github.com/saltyshiomix/nextron)
+- [Notes on running Electron (2021)](https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html)

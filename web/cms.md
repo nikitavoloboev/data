@@ -27,3 +27,4 @@
 - [GraphCMS](https://graphcms.com/) - API-first GraphQL Headless CMS.
 - [FireCMS](https://github.com/Camberi/firecms) - Awesome Firestore based CMS. ([Web](https://firecms.co/))
 - [New Strapi live demo: FoodAdvisor v2 using Strapi & Next.js (2021)](https://strapi.io/blog/foodadvisor-v2)
+- [Contentlayer](https://github.com/contentlayerdev/contentlayer) - Turns your content into data - making it super easy to import MD(X) and CMS content in your app.

@@ -269,3 +269,4 @@
 - [Why We Memo All the Things (2020)](https://attardi.org/why-we-memo-all-the-things/)
 - [Performance Optimization in React applications (2021)](https://blog.bloomca.me/2021/10/10/performance-optimization-in-react-applications.html)
 - [How to prepare for React 18 concurrent mode (2021)](https://twitter.com/threepointone/status/1447844881657995266)
+- [React & TypeScript: use generics to improve your types (2021)](https://devtrium.com/posts/react-typescript-using-generics-in-react)

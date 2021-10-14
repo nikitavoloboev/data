@@ -253,3 +253,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Write More, but Shorter (2021)](https://blog.kewah.com/2021/write-more-but-shorter/) ([HN](https://news.ycombinator.com/item?id=28483671))
 - [The Expanse | James S.A.Corey | Talks at Google (2014)](https://www.youtube.com/watch?v=sCsPtUo91B0)
 - [Scaling Engineering Teams via RFCs: Writing Things Down (2021)](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
+- [What I Learned About My Writing By Seeing Only The Punctuation (2021)](https://medium.com/creators-hub/what-i-learned-about-my-writing-by-seeing-only-the-punctuation-efd5334060b1) ([Tool](https://just-the-punctuation.glitch.me/))

@@ -299,6 +299,8 @@
 - [StructArrays](https://github.com/JuliaArrays/StructArrays.jl) - Efficient implementation of struct arrays in Julia.
 - [Seaborn](https://github.com/JuliaPy/Seaborn.jl) - Julia wrapper around the Seaborn data visualization library.
 - [DynamicHMC](https://github.com/tpapp/DynamicHMC.jl) - Implementation of robust dynamic Hamiltonian Monte Carlo methods (NUTS) in Julia.
+- [Clang](https://github.com/JuliaInterop/Clang.jl) - Julia interface to libclang.
+- [InverseFunctions.jl](https://github.com/JuliaMath/InverseFunctions.jl) - Defines an interface to invert functions.
 
 ## Links
 

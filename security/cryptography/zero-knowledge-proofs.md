@@ -40,3 +40,4 @@
 - [Zero-Knowledge Middleboxes (2021)](https://eprint.iacr.org/2021/1022.pdf) ([Code](https://github.com/pag-crypto/zkmbs))
 - [How do modern zero-knowledge proofs, and PLONK specifically, work? (videos) (2021)](https://www.cryptologie.net/article/529/how-does-the-general-purpose-zero-knowledge-proof-system-plonk-work/)
 - [Zero-Knowledge Proofs for Private Web Attestation with Multi-Vendor Hardware (2021)](https://blog.cloudflare.com/introducing-zero-knowledge-proofs-for-private-web-attestation-with-cross-multi-vendor-hardware/) ([HN](https://news.ycombinator.com/item?id=28745951))
+- [snarkyJS](https://github.com/o1-labs/snarkyjs) - TypeScript/JavaScript framework for writing zk-SNARKs and snapps.

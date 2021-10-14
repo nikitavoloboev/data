@@ -179,3 +179,4 @@
 - [Why is C Faster Than My Language? (2021)](https://www.youtube.com/watch?v=vFB0Ot-ZdIM)
 - [Elements of C Style](https://www.teamten.com/lawrence/style/)
 - [pcpp](https://github.com/ned14/pcpp) - C99 preprocessor written in pure Python.
+- [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion) ([HN](https://news.ycombinator.com/item?id=28854808))

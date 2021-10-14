@@ -149,6 +149,7 @@ And these Discord servers:
 - [Real Life](https://reallifemag.com/)
 - [IEEE Spectrum](https://spectrum.ieee.org/)
 - [The MIT Press Reader](https://thereader.mitpress.mit.edu/)
+- [Inference](https://inference-review.com/) - International Review of Science.
 
 ### Other
 

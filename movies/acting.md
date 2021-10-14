@@ -23,3 +23,4 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 - [Bob Odenkirk Got Lucky with Breaking Bad (2021)](https://www.youtube.com/watch?v=cjMlTC8Ikxw)
 - [Better Call Saul’s Bob Odenkirk Reveals How He Writes Comedy Sketches (2016)](https://www.youtube.com/watch?v=AdBBBABtnEs)
 - [Off Camera with Sam Jones](https://www.youtube.com/c/theoffcamerashow/videos) ([Web](https://offcamera.com/))
+- [The Truth About Foreign Actors in K Dramas & Films (2020)](https://www.youtube.com/watch?v=5MQyUKaMewI) ([Reddit](https://www.reddit.com/r/television/comments/px8091/squid_game_the_hellish_horrorshow_taking_the/hemxhd5/?utm_source=reddit&utm_medium=web2x&context=3))

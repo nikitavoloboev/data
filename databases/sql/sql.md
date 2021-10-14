@@ -137,3 +137,5 @@
 - [A single person answered 76,229 questions about SQL on StackOverflow](https://stackoverflow.com/nocaptcha?s=f29968b0-76eb-45d9-8d63-95c38f69a4a4) ([HN](https://news.ycombinator.com/item?id=28642326)) ([Reddit](https://www.reddit.com/r/programming/comments/puok1h/a_single_person_answered_76k_questions_about_sql/))
 - [Why NoSQL](https://rxdb.info/why-nosql.html) ([HN](https://news.ycombinator.com/item?id=28767996))
 - [What ORMs have taught me: just learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/index.html) ([HN](https://news.ycombinator.com/item?id=28812506))
+- [ZetaSQL](https://github.com/google/zetasql) - Analyzer Framework for SQL.
+- [SQL for Distributed Systems (2021)](https://www.babbling.fish/elt-cookbook-sql/) ([HN](https://news.ycombinator.com/item?id=28834117))

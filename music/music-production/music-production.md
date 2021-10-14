@@ -257,3 +257,5 @@
 - [Violinist.com](https://www.violinist.com/)
 - [Synthizer](https://github.com/synthizer/synthizer) - Library for game/VR audio applications. 3D audio for headphones.
 - [Computer Music Instruments - Foundations, Design and Development Book (2017)](https://www.springer.com/gp/book/9783319635033) ([Examples](https://github.com/vlazzarini/instruments))
+- [Sound and Music Analysis (SoMA) Group](https://somagroup.co.uk/) ([Twitter](https://twitter.com/dmtlab_bcu))
+- [Music Demixing Workshop 2021](https://mdx-workshop.github.io/) ([Code](https://github.com/mdx-workshop/mdx-workshop.github.io))

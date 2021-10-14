@@ -265,3 +265,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Improving My Website's Typography (2021)](https://kevq.uk/pimping-my-type-improving-my-websites-typography/)
 - [Blaze Type](https://blazetype.eu/) ([Twitter](https://twitter.com/BlazeFoundry))
 - [Lipi](https://github.com/dfrg/lipi) - Font independent text analysis support for shaping and layout.
+- [Twenty Bits I Learned About Making Fonts Book](https://simplebits.com/collections/books/products/twenty-bits-fonts)
+- [Typography of “2001: A Space Odyssey” (2021)](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/)

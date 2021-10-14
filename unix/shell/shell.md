@@ -158,3 +158,5 @@ All active variables can be seen by running `env`.
 - [Understanding AWK (2021)](https://earthly.dev/blog/awk-examples/) ([HN](https://news.ycombinator.com/item?id=28707463)) ([Lobsters](https://lobste.rs/s/4wxwzh/understanding_awk))
 - [Cloudshell](https://github.com/zephinzer/cloudshell) - Xterm.js frontend that connects to a Go backend to provide a shell to the host system. Basically, access your shell from a browser.
 - [The Return of the Unix Shell (2021)](https://www.sigops.org/2021/the-return-of-the-unix-shell/)
+- [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/introduction.html)
+- [Showing GUIs from Shell Scripts (2021)](https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html) ([HN](https://news.ycombinator.com/item?id=28848858))

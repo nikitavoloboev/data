@@ -184,6 +184,7 @@
 - [TypeScript to ES Module compiler](https://github.com/tszip/tszip)
 - [TypeScript BC](https://github.com/alshdavid/TypeScriptBC) - TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.
 - [Tricks I wish I knew when I learned TypeScript (2021)](https://www.cstrnt.dev/blog/three-typescript-tricks) ([HN](https://news.ycombinator.com/item?id=28837181))
+- [typescript-todo-or-die-plugin](https://github.com/ngnijland/typescript-todo-or-die-plugin) - TODO's that speak up for themselves via the TypeScript Language Server.
 
 ## Images
 

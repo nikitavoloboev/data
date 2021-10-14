@@ -153,3 +153,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS Configuration with Flakes (2021)](https://jdisaacs.com/blog/nixos-config/)
 - [Google Cloud “GCP” native NixOS images build (2021)](https://mudrii.medium.com/google-cloud-gcp-native-nixos-images-build-16f77a412bb7)
 - [NixOS Matrix Chat](https://matrix.to/#/#community:nixos.org)
+- [How I started with NixOS (2021)](https://gianarb.it/blog/how-i-started-with-nixos) ([Reddit](https://www.reddit.com/r/NixOS/comments/q77m1y/how_i_started_with_nixos/))

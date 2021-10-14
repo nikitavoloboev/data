@@ -289,3 +289,8 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Интернет-магазин Kate Snap](https://www.katesnap.com/shop) ([Tweet](https://twitter.com/andrey_sitnik/status/1447864904774467585))
 - [Новые Известия](https://newizv.ru/)
 - [Why do most Russian regret the fall of the Soviet Union? (2021)](https://www.reddit.com/r/AskARussian/comments/q688v5/why_do_most_russian_regret_the_fall_of_the_soviet/)
+- [GetMentor](https://getmentor.dev/) - Открытое сообщество IT-наставников.
+- [Authoritarian Russia: The trajectory of political evolution (2021)](https://www.ridl.io/en/authoritarian-russia-the-trajectory-of-political-evolution/)
+- [Письмо Алексея Навального, адресованное его сотрудникам и соратникам (2021)](https://meduza.io/feature/2021/10/13/poka-tochno-ne-yasno-kakim-zverem-my-stanem-no-tochno-krasivym)
+- [Почему в колониях все время пытают людей? (2021)](https://meduza.io/feature/2021/10/13/mnogie-zaklyuchennye-sami-provotsiruyut) ([Tweet](https://twitter.com/sult/status/1448214492068843521))
+- [Блестящая речь экс-президента Эстонии об Алексее Навальном, России и Западе (2021)](https://www.youtube.com/watch?v=EWdDStlnmxc)
