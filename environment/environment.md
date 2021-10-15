@@ -128,3 +128,6 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Anything But Plastic](https://www.anythingbutplastic.co.uk/) - Alternatives to Plastic.
 - [CarbonPlan](https://carbonplan.org/) - Data and science for climate action. ([Twitter](https://twitter.com/carbonplanorg))
 - [We need to take CO2 out of the sky (2021)](https://www.orbuch.com/carbon-removal/) ([HN](https://news.ycombinator.com/item?id=28765742))
+- [Albedo](https://albedo.com/) - Aerial quality imagery - from space.
+- [Climate.gov](https://www.climate.gov/)
+- [Global Climate Report – September 2021](https://www.ncdc.noaa.gov/sotc/global/202109) ([HN](https://news.ycombinator.com/item?id=28865033))

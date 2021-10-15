@@ -218,7 +218,7 @@
 - [Haskell: The Bad Parts, part 2 (2020)](https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2) ([Lobsters](https://lobste.rs/s/lcvfey/haskell_bad_parts_part_2))
 - [Haskell exercises](https://github.com/neongreen/haskell-ex)
 - [Whole Haskell is Best Haskell (2020)](https://semantic.org/post/whole-haskell-is-best-haskell/) ([Reddit](https://www.reddit.com/r/haskell/comments/jmqow4/whole_haskell_is_best_haskell/))
-- [Haskell Foundation](https://haskell.foundation/) ([New Chapter For Haskell: The Haskell Foundation](https://haskell.foundation/whitepaper/)) ([Reddit AMA](https://www.reddit.com/r/haskell/comments/jnwg7i/haskell_foundation_ama/)) ([Announcement Talk](https://www.youtube.com/watch?v=MEmRarBL9kw)) ([Website Code](https://github.com/haskellfoundation/haskell.foundation))
+- [Haskell Foundation](https://haskell.foundation/) ([New Chapter For Haskell: The Haskell Foundation](https://haskell.foundation/whitepaper/)) ([Reddit AMA](https://www.reddit.com/r/haskell/comments/jnwg7i/haskell_foundation_ama/)) ([Announcement Talk](https://www.youtube.com/watch?v=MEmRarBL9kw)) ([Website Code](https://github.com/haskellfoundation/haskell.foundation)) ([Web Code](https://github.com/haskellfoundation/haskellfoundation.github.io))
 - [Real World Haskell](https://mmhaskell.com/real-world) ([HN](https://news.ycombinator.com/item?id=25005525))
 - [Haskell via Sokoban](https://haskell-via-sokoban.nomeata.de/)
 - [Consider Haskell (2020)](https://gilmi.me/blog/post/2020/04/28/consider-haskell)
@@ -322,3 +322,5 @@
 - [Nested strict data in Haskell](http://h2.jaguarpaw.co.uk/posts/nested-strict-data/) ([Lobsters](https://lobste.rs/s/hxrzm8/nested_strict_data_haskell))
 - [H2 Wiki](http://h2.jaguarpaw.co.uk/) - Wiki dedicated to Haskell, styled in homage to The C2 Wiki.
 - [A Short Overview of Typed Template Haskell (2021)](https://serokell.io/blog/typed-template-haskell-overview)
+- [Thunks, Sharing, Laziness: The Haskell Heap Visualized – Joachim Breitner (2021)](https://www.youtube.com/watch?v=I4lnCG18TaY)
+- [Haskdogs](https://hackage.haskell.org/package/haskdogs) - Generate tags file for Haskell project and its nearest deps. ([Reddit](https://www.reddit.com/r/haskell/comments/q7yi2f/easy_way_to_locally_navigate_into_source_code_of/))

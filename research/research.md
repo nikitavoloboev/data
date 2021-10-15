@@ -123,3 +123,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Inconsistency in Conference Peer Review: Revisiting the 2014 NeurIPS Experiment (2021)](https://arxiv.org/abs/2109.09774) ([Paper Explained](https://www.youtube.com/watch?v=19Q-vMd9bYg))
 - [A World Without Sci-Hub (2021)](https://palladiummag.com/2021/09/24/a-world-without-sci-hub/) ([HN](https://news.ycombinator.com/item?id=28689707))
 - [Patent analysis using the Google Patents Public Datasets on BigQuery](https://github.com/google/patents-public-data)
+- [Links with advice related to grad school applications, research, phd etc.](https://github.com/shaily99/advice)

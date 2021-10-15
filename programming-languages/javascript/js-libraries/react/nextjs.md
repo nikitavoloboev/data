@@ -2,6 +2,7 @@
 
 ## Example sites
 
+- [Next.js with Tailwind, TypeScript and Jest setup](https://github.com/productbrew/next-productbrew-starter)
 - [NextJS + Supabase Instagram Clone](https://github.com/thomas-coldwell/nextjs-supabase-instagram-clone)
 - [Tottem](https://github.com/poulainv/tottem) - Library management made social. Built with NextJS/TailwindCSS/TS/Prisma.
 - [OctoLinker site](https://github.com/OctoLinker/octolinker.now.sh)
@@ -251,3 +252,4 @@
 - [Using Postmark with NextAuth.js](https://www.shadcn.com/next-auth-postmark)
 - [Logging in Next.js (2020)](https://www.netlify.com/blog/2020/12/13/logging-in-next.js/)
 - [Building a Blog With Next.js and MDX (2021)](https://blog.jetbrains.com/webstorm/2021/10/building-a-blog-with-next-js-and-mdx/)
+- [Rakkas](https://github.com/rakkasjs/rakkasjs) - Lightning fast Next.js alternative powered by Vite. ([Web](https://rakkasjs.org/)) ([Reddit](https://www.reddit.com/r/reactjs/comments/q7xtcg/rakkas_nextjs_alternative_powered_by_vite/))

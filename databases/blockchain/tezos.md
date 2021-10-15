@@ -14,6 +14,7 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 
 ## Links
 
+- [Tezos Developer Portal](https://tezos.com/developer-portal/)
 - [TezEdge](https://tezedge.com) - Tezos Explorer. ([Code](https://github.com/simplestaking/tezedge))
 - [Awesome Tezos](https://github.com/jnaulty/awesome-tezos)
 - [Arthur Breitman's blog](https://ex.rs/) - Creator of tezos.
@@ -61,3 +62,5 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Tezos k8s](https://github.com/tqtezos/tezos-k8s) - Deploy a Tezos Blockchain on Kubernetes.
 - [Tezos Homebase](https://github.com/dOrgTech/homebase-app) - Platform designed to let users create and manage DAOs on the Tezos blockchain.
 - [Baking Bad](https://baking-bad.org/) - Tezos Staking Rewards Auditor. ([Docs](https://baking-bad.org/docs/)) ([GitHub](https://github.com/baking-bad))
+- [Set up a Tezos smart contract IDE with SmartPy and Taquito (2021)](https://levelup.gitconnected.com/set-up-a-tezos-smart-contract-ide-with-smartpy-and-taquito-32fe445d274)
+- [Tezos resources (2021)](https://www.reddit.com/r/tezos/comments/q7wxjx/the_numbers_of_tezos_developers_and_lack_of/)

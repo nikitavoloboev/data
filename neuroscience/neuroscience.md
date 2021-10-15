@@ -81,6 +81,7 @@
 - [How Computationally Complex Is a Single Neuron? (2021)](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/) ([HN](https://news.ycombinator.com/item?id=28393358))
 - [Large-scale neural recordings with single-cell resolution in human cortex using high-density Neuropixels probes (2021)](https://www.biorxiv.org/content/10.1101/2021.06.20.449152v2) ([Tweet](https://twitter.com/patrickmineault/status/1438664877682348033))
 - [Neuroscientists roll out first comprehensive atlas of brain cells (2021)](https://news.berkeley.edu/2021/10/06/neuroscientists-roll-out-first-comprehensive-atlas-of-brain-cells/) ([HN](https://news.ycombinator.com/item?id=28838852))
+- [Please stop calling dopamine an addictive rewarding neurochemical (2017)](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive) ([HN](https://news.ycombinator.com/item?id=28852348))
 
 ## Images
 

@@ -201,7 +201,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Gitsight](https://www.gitsight.com/) - Derive insights from open source repositories and their contributors.
 - [Gitopia](https://gitopia.org/#/) - Decentralized Source Code Collaboration Platform.
 - [git wip: What the heck was I just doing? (2020)](https://carolynvanslyck.com/blog/2020/12/git-wip/) ([Lobsters](https://lobste.rs/s/mv8301/git_wip_what_heck_was_i_just_doing))
-- [GitLab](https://gitlab.com/) - Open source end-to-end software development platform. ([Code](https://gitlab.com/gitlab-org/gitlab)) ([GitHub Mirror](https://github.com/gitlabhq/gitlabhq))
+- [GitLab](https://gitlab.com/) - Open source end-to-end software development platform. ([Code](https://gitlab.com/gitlab-org/gitlab)) ([GitHub Mirror](https://github.com/gitlabhq/gitlabhq)) ([HN](https://news.ycombinator.com/item?id=28863993))
 - [mob](https://github.com/remotemobprogramming/mob) - Tool for swift git handover. ([Web](https://mob.sh/))
 - [uncommitted](https://github.com/brandon-rhodes/uncommitted) - Command-line tool to find projects whose changes have not been committed to version control.
 - [Organise your commits (2020)](https://www.ncameron.org/blog/organise-your-commits/)
@@ -299,3 +299,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Aho](https://github.com/djanderson/aho) - Git implementation in AWK. ([HN](https://news.ycombinator.com/item?id=28771841)) ([Lobsters](https://lobste.rs/s/u7gls0/aho_git_implementation_awk))
 - [Improving Git's Autocorrect Feature (2021)](https://azeemba.com/posts/contributing-to-git.html)
 - [git-stack](https://github.com/epage/git-stack) - Stacked branch management for Git.
+- [Lightning-fast rebases with git-move (2021)](https://blog.waleedkhan.name/in-memory-rebases/)

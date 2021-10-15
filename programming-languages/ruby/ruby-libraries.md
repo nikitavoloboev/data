@@ -11,6 +11,7 @@
 
 ## Web
 
+- [Vite Ruby](https://github.com/ElMassimo/vite_ruby) - Vite.js in Ruby, bringing joy to your JavaScript experience. ([Web](https://vite-ruby.netlify.app/))
 - [Rodauth](https://github.com/jeremyevans/rodauth) - Ruby's Most Advanced Authentication Framework.
 - [Apia](https://github.com/krystal/apia) - API framework for building a self-documenting HTTP API in any Ruby application (including Rails).
 

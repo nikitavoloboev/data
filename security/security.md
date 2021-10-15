@@ -198,3 +198,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [SpectralOps](https://spectralops.io/) - Automated Code Security for Modern Teams. ([GitHub](https://github.com/SpectralOps))
 - [sizeof(cat)](https://sizeof.cat/)
 - [Profian](https://www.profian.com/) - Proven security for the untrusted cloud.
+- [Security is a layered approach. No single layer alone can protect us. (2021)](https://twitter.com/migueldeicaza/status/1448655100759592969)

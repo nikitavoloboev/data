@@ -25,3 +25,4 @@
 - [Why F# is the best enterprise languages](https://fsharpforfunandprofit.com/posts/fsharp-is-the-best-enterprise-language/) ([Lobsters](https://lobste.rs/s/tpa2bf/why_f_is_best_enterprise_language))
 - [WS: F# WebSocket Server](https://github.com/erpuno/ws)
 - [FSharp Designer on downsides of Type Level Programming](https://github.com/fsharp/fslang-suggestions/issues/243#issuecomment-916079347) ([Lobsters](https://lobste.rs/s/pkmzlu/fsharp_designer_on_downsides_type_level)) ([Reddit](https://www.reddit.com/r/scala/comments/poqk7f/odersky_comments_on_don_symes_rejection_of/))
+- [What I wish I knew when learning F# (2020)](https://danielbachler.de/2020/12/23/what-i-wish-i-knew-when-learning-fsharp.html) ([HN](https://news.ycombinator.com/item?id=28863205))

@@ -18,7 +18,7 @@
 - [Every Layout](https://github.com/danscan/react-every-layout) - React + styled-components implementations of the layouts from every-layout.dev
 - [Glaze](https://github.com/kripod/glaze) - CSS-in-JS framework for building approachable design systems.
 - [Nyan CSS](https://github.com/nyancss/nyancss) - Write plain CSS while reaping benefits of CSS-in-JS.
-- [@stitches](https://github.com/christianalfoni/stitches) - Tiny configurable CSS-IN-JS library.
+- [Stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. ([Web](https://stitches.dev/)) ([Twitter](https://twitter.com/stitchesjs)) ([Tweet](https://twitter.com/chriscoyier/status/1448667998500409348))
 - [Performance comparison of css approaches](https://github.com/jantimon/css-framework-performance)
 - [Introducing stitches - atomic CSS-IN-JS inspired by Tailwind CSS (2020)](https://www.youtube.com/watch?v=uCiWfQMUUEw)
 - [mystical](https://github.com/dburles/mystical) - Small CSS-in-JS library for atomised constraint based design.

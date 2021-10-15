@@ -20,3 +20,4 @@
 - [glslSmartDeNoise](https://github.com/BrutPitt/glslSmartDeNoise) - Fast glsl deNoise spatial filter, with circular gaussian kernel, full configurable.
 - [PortableGL](https://github.com/rswinkle/PortableGL) - Implementation of OpenGL 3.x-ish in clean C.
 - [Guide to Modern OpenGL Functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions)
+- [zGLFW](https://github.com/Iridescence-Technologies/zglfw) - Thin, idiomatic wrapper for GLFW. Written in Zig.

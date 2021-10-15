@@ -142,7 +142,7 @@
 - [IxJS](https://github.com/ReactiveX/IxJS) - Interactive Extensions for JavaScript.
 - [Renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [The ECMAScript Ecosystem (2020)](https://dev.to/laurieontech/the-ecmascript-ecosystem-2e13)
-- [esbuild](https://github.com/evanw/esbuild/) - Extremely fast JavaScript bundler and minifier written in Go. ([HN](https://news.ycombinator.com/item?id=22335707)) ([Architecture](https://github.com/evanw/esbuild/blob/master/docs/architecture.md)) ([serverless-esbuild](https://github.com/floydspace/serverless-esbuild)) ([Awesome](https://github.com/egoist/awesome-esbuild)) ([Web](https://esbuild.github.io/)) ([Esbuild plugins](https://github.com/remorses/esbuild-plugins)) ([Tweet](https://twitter.com/tannerlinsley/status/1445135850866499586))
+- [ESbuild](https://github.com/evanw/esbuild/) - Extremely fast JavaScript bundler and minifier written in Go. ([HN](https://news.ycombinator.com/item?id=22335707)) ([Architecture](https://github.com/evanw/esbuild/blob/master/docs/architecture.md)) ([serverless-esbuild](https://github.com/floydspace/serverless-esbuild)) ([Awesome](https://github.com/egoist/awesome-esbuild)) ([Web](https://esbuild.github.io/)) ([Esbuild plugins](https://github.com/remorses/esbuild-plugins)) ([Tweet](https://twitter.com/tannerlinsley/status/1445135850866499586)) ([HN](https://news.ycombinator.com/item?id=28860713))
 - [Community plugins for esbuild](https://github.com/esbuild/community-plugins)
 - [Why Is Esbuild Fast?](https://esbuild.github.io/faq/#why-is-esbuild-fast) ([HN](https://news.ycombinator.com/item?id=26154509))
 - [bundless](https://github.com/remorses/bundless) - Dev server and bundler for esbuild. ([Web](https://bundless.vercel.app/))
@@ -320,3 +320,4 @@
 - [EStruct](https://github.com/RayLuxembourg/estruct) - Traverses JavaScript projects and maps all the dependencies and relationships to a JSON.
 - [unbuild](https://github.com/unjs/unbuild) - Unified JavaScript build system.
 - [The Shocking Immaturity of JavaScript (2021)](https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70) ([HN](https://news.ycombinator.com/item?id=28816961))
+- [Nope](https://github.com/bvego/nope-validator) - Small, simple and fast JS validator.

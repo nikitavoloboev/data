@@ -778,6 +778,10 @@
 - [Netable](https://github.com/steamclock/netable) - Swift library for encapsulating network APIs using Codable in a type-oriented way.
 - [Bluejay](https://github.com/steamclock/bluejay) - Simple Swift framework for building reliable Bluetooth LE apps.
 - [CodableCache](https://github.com/asowers1/CodableCache) - Framework that allows for seamless memory caching and disk persistence of your plain old Swift structs.
+- [SymbolKit](https://github.com/apple/swift-docc-symbolkit) - Swift package for encoding and decoding Swift Symbol Graph files.
+- [Swift Jaeger Client](https://github.com/slashmo/jaeger-client-swift) - Jaeger Client built for Swift Distributed Tracing.
+- [OpenTelemetry API for Swift](https://github.com/open-telemetry/opentelemetry-swift)
+- [Doctor Pretty](https://github.com/bkase/DoctorPretty) - Wadler's "A prettier printer" embedded pretty-printer DSL for Swift.
 
 ## Other (not lib)
 
@@ -805,3 +809,5 @@
 - [Create your own Swift Package and release it on Github.com (2021)](https://medium.com/@przemek.jablonski/create-your-own-swift-package-and-release-it-on-github-com-e47a642c259e)
 - [Surmagic](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease.
 - [Awesome SwiftWASM](https://github.com/swiftwasm/awesome-swiftwasm) - Community-driven curated list of SwiftWasm projects and content.
+- [Swift-DocC](https://github.com/apple/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package. ([Release Article](https://swift.org/blog/swift-docc/))
+- [Swift-DocC-Render](https://github.com/apple/swift-docc-render) - Web Single Page Application (SPA) powered by Vue.js for creating rich code documentation websites.

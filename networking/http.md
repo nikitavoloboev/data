@@ -148,4 +148,4 @@
 - [parse-curl.js](https://github.com/tj/parse-curl.js) - Parse curl commands, returning an object representing the request.
 - [CORS Comic](https://wizardzines.com/comics/cors/)
 - [HTTPie and Print HTTP Request](https://kracekumar.com/post/print_http_request/)
-- [How to win at CORS (2021)](https://jakearchibald.com/2021/cors/) ([Code](https://github.com/jakearchibald/cors-playground))
+- [How to win at CORS (2021)](https://jakearchibald.com/2021/cors/) ([Code](https://github.com/jakearchibald/cors-playground)) ([HN](https://news.ycombinator.com/item?id=28861944))

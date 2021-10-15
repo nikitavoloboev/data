@@ -78,3 +78,5 @@
 - [REMS (Rigorous Engineering of Mainstream Systems)](https://www.cl.cam.ac.uk/~pes20/rems/) ([GitHub](https://github.com/rems-project))
 - [The Curry-Howard Correspondence (2021)](https://www.youtube.com/watch?v=GdcOy6zVFC4)
 - [SAWScript](https://github.com/GaloisInc/saw-script) - Scripting language that forms the primary user interface to the Software Analysis Workbench (SAW).
+- [You Already Know Formal Methods (2021)](https://galois.com/blog/2021/10/you-already-know-formal-methods/) ([HN](https://news.ycombinator.com/item?id=28859324))
+- [Verification For Dummies: SMT and Induction Book](https://ocamlpro.github.io/verification_for_dummies/index.html)

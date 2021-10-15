@@ -454,6 +454,7 @@
     - [Eleventy](web/static-sites/eleventy.md)
     - [Jekyll](web/static-sites/jekyll.md)
   - [Node.js](web/nodejs/nodejs.md)
+    - [Fastify](web/nodejs/fastify.md)
   - [Deno](web/deno.md)
   - [WebAssembly](web/webassembly.md)
   - [SEO](web/seo.md)

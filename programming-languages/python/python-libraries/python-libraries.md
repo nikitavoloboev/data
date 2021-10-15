@@ -499,6 +499,7 @@
 - [tabmat](https://github.com/Quantco/tabmat) - Efficient matrix representations for working with tabular data.
 - [glum](https://github.com/Quantco/glum) - High performance Python GLMs with all the features.
 - [fnn](https://github.com/williamgilpin/fnn) - Embed strange attractors using a regularizer for autoencoders.
+- [cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects.
 
 ## Links
 

@@ -23,3 +23,4 @@
 - [Fora Protocol](https://github.com/foranetworks/protocol) - ActivityPub with governance.
 - [GoToSocial](https://github.com/superseriousbusiness/gotosocial) - ActivityPub social network server, written in Go.
 - [activity](https://github.com/go-fed/activity) - Complete ActivityStreams-based ontologies plus middleware handlers implementing ActivityPub in Go.
+- [FChan](https://fchan.xyz/) - Federated image board based on ActivityPub. ([Server](https://github.com/FChannel0/FChannel-Server))

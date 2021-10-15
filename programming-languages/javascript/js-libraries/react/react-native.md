@@ -133,3 +133,4 @@
 - [How To Create a Native Mobile App For Your Supabase Back-End (2021)](https://draftbit.com/blog/how-to-create-a-native-mobile-app-for-your-supabase-back-end)
 - [Vision Camera](https://github.com/mrousavy/react-native-vision-camera) - Camera library that sees the vision.
 - [react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
+- [WebRTC module for React Native](https://github.com/react-native-webrtc/react-native-webrtc)

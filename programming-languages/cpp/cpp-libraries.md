@@ -248,6 +248,7 @@
 - [double-conversion](https://github.com/google/double-conversion) - Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
 - [FastNoise2](https://github.com/Auburn/FastNoise2) - Modular node graph based noise generation library using SIMD, C++17 and templates.
 - [TensorPipe](https://github.com/pytorch/tensorpipe) - Tensor-aware point-to-point communication primitive for machine learning.
+- [Rotor](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework.
 
 ## Links
 

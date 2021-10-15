@@ -160,3 +160,4 @@
 - [jwt-cli](https://github.com/clarketm/jwt-cli) - Command line tool for working with JSON Web Tokens (JWT).
 - [Casdoor](https://github.com/casbin/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform based on OAuth 2.0 / OIDC. ([Web](https://casdoor.org/))
 - [JWT-to-RBAC](https://github.com/banzaicloud/jwt-to-rbac) - Lets you automatically generate RBAC resources based on JWT tokens.
+- [auth-server](https://github.com/reugn/auth-server) - Simple authentication and authorization server.

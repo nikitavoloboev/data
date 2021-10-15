@@ -384,5 +384,7 @@
 - [Taming the BPF Superpowers (2021)](https://lwn.net/Articles/870269/) ([HN](https://news.ycombinator.com/item?id=28817794))
 - [Linux from scratch using virtual machines on a Apple Mac M1 laptop](https://philsyme.github.io/lfs-tw/)
 - [So You Want to Rust the Linux Kernel? (2021)](https://paulmck.livejournal.com/62436.html) ([HN](https://news.ycombinator.com/item?id=28826246))
+- [Memory-Model Recommendations for Rusting the Linux Kernel (2021)](https://paulmck.livejournal.com/65341.html)
 - [Beginner's Guide to eBPF Programming for Networking](https://github.com/lizrice/ebpf-networking)
 - [How does apt render its fancy progress bar? (2021)](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html) ([HN](https://news.ycombinator.com/item?id=28850036))
+- [rust-vmm Community](https://github.com/rust-vmm/community) - Open-source project that empowers the community to build custom Virtual Machine Monitors (VMMs) and hypervisors.

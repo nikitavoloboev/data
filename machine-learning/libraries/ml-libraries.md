@@ -201,3 +201,4 @@
 - [Treeo](https://github.com/cgarciae/treeo) - Small library for creating and manipulating custom JAX Pytree classes.
 - [FedJAX](https://github.com/google/fedjax) - JAX-based open source library for Federated Learning simulations that emphasizes ease-of-use in research.
 - [oneAPI](https://github.com/oneapi-src/oneDNN) - OneAPI Deep Neural Network Library (oneDNN).
+- [MosaicML Composer](https://github.com/mosaicml/composer) - Library of methods, and ways to compose them together for more efficient ML training.

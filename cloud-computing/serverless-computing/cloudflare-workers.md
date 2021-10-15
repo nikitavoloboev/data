@@ -75,3 +75,4 @@
 - [A/B testing with Cloudflare workers (2021)](https://ptrlaszlo.com/posts/cloudflare-ab-testing)
 - [Dynamic Process Isolation: Research by Cloudflare and TU Graz (2021)](https://blog.cloudflare.com/spectre-research-with-tu-graz/) ([Paper](https://arxiv.org/pdf/2110.04751.pdf))
 - [Cloudflare Workers Web Code](https://github.com/cloudflare/workers.cloudflare.com)
+- [How I Automated the Boring with JavaScript, Cloudflare Workers, and Airtable (2021)](https://www.youtube.com/watch?v=tFQ2kbiu1K4&t=2s) ([Tweet](https://twitter.com/CloudflareDev/status/1448035062985883651))

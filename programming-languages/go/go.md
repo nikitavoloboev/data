@@ -328,7 +328,7 @@ Go promotes composition over inheritance.
 - [Break The Golang Context Chain (2020)](https://rodaine.com/2020/07/break-context-cancellation-chain/) ([Lobsters](https://lobste.rs/s/y7hkqj/break_golang_context_chain))
 - [Go vs Rust: Writing a CLI Tool (2020)](https://cuchi.me/posts/go-vs-rust) ([HN](https://news.ycombinator.com/item?id=24044043)) ([Lobsters](https://lobste.rs/s/nyprxb/go_vs_rust_writing_cli_tool))
 - [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md) ([HN](https://news.ycombinator.com/item?id=24065499))
-- [GoPlus](https://github.com/goplus/gop) - Go+ language for data science. ([Web](https://goplus.org/)) ([HN](https://news.ycombinator.com/item?id=26602331))
+- [GoPlus](https://github.com/goplus/gop) - Go+ language for data science. ([Web](https://goplus.org/)) ([HN](https://news.ycombinator.com/item?id=26602331)) ([Reddit](https://www.reddit.com/r/golang/comments/q7v9oz/go_python_go_the_go_language_for_engineering_stem/))
 - [Proposal: Register-based Go calling convention (2020)](https://go.googlesource.com/proposal/+/refs/changes/78/248178/1/design/40724-register-calling.md)
 - [Little Go Book](https://github.com/karlseguin/the-little-go-book/blob/master/en/go.md)
 - [Speeding up json processing in go (2020)](https://klotzandrew.com/blog/speeding-up-json-processing-in-go)

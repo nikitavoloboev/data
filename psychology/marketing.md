@@ -114,7 +114,7 @@
 - [How Loom grew from 0-500K users, and beyond (2021)](https://twitter.com/_shahedk/status/1364964378332823552) ([Part 2](https://twitter.com/_shahedk/status/1367532451594006530))
 - [How Loom built a successful referral program for their SaaS product (2021)](https://twitter.com/_shahedk/status/1367532457075957761)
 - [Zero to Marketing](https://zerotomarketing.com/) - Learn marketing from case studies.
-- [CopyAI](https://www.copy.ai/) - Create Marketing Copy In Seconds.
+- [CopyAI](https://www.copy.ai/) - Create Marketing Copy In Seconds. ([Tweet](https://twitter.com/PaulYacoubian/status/1448696042770337798))
 - [Framework for prioritizing marketing strategy (2021)](https://twitter.com/theandreboso/status/1370101537893146627)
 - [Ask HN: Where do you find potential customers to validate your idea / MVP? (2021)](https://news.ycombinator.com/item?id=26644616)
 - [Ask HN: I built it, nobody came, now what? (2021)](https://news.ycombinator.com/item?id=26734079)

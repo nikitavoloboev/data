@@ -24,3 +24,4 @@
 - [Use of artificial intelligence for image analysis in breast cancer screening (2021)](https://www.bmj.com/content/374/bmj.n1872) ([HN](https://news.ycombinator.com/item?id=28394834))
 - [Norm MacDonald talks about cancer and not wanting to garner sympathy from others (2021)](https://www.youtube.com/watch?v=vAp-igcRhMQ)
 - [The curious DNA circles that make treating cancer so hard (2021)](https://cen.acs.org/pharmaceuticals/oncology/curious-DNA-circles-make-treating/98/i40) ([HN](https://news.ycombinator.com/item?id=28731260))
+- [Engineered B Cells as an Approach to Cancer Therapy (2021)](https://www.fightaging.org/archives/2021/10/engineered-b-cells-as-an-approach-to-cancer-therapy/) ([Reddit](https://www.reddit.com/r/longevity/comments/q80fxh/engineered_b_cells_as_an_approach_to_cancer/))

@@ -17,3 +17,4 @@
 - [VSCode Jest](https://github.com/jest-community/vscode-jest) - Optimal flow for Jest based testing in VS Code.
 - [Jest Test Explorer for Visual Studio Code](https://github.com/kavod-io/vscode-jest-test-adapter) - Run your Jest tests using the Test Explorer UI.
 - [Kont](https://github.com/prisma-labs/kont) - Library for building contextual data for Jest tests. ([Tweet](https://twitter.com/JasonKuhrt/status/1444361957373583361))
+- [swc/jest](https://github.com/swc-project/jest) - swc binding for the jest.

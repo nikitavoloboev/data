@@ -53,3 +53,4 @@
 - [A Beginner's Guide to Coffee Grinders (2021)](https://www.youtube.com/watch?v=bgjvLQu5NlE)
 - [Chazzano Coffee Roasters](https://chazzano-coffee-roasters.square.site/)
 - [Which country has best coffee? (2021)](https://twitter.com/PaulSkallas/status/1445898250783891456)
+- [Открыл кофейню в деревне у границ России: #монолог австрийского оптимиста (2020)](https://www.youtube.com/watch?v=4Qqj0PnHIEI)

@@ -131,6 +131,7 @@
 - [List Homomorphisms and Parallelism](https://sigkill.dk/writings/par/lhomo.html) ([HN](https://news.ycombinator.com/item?id=28520476))
 - [Programs as Values, Part I : Intro & Compositionality](https://systemfw.org/posts/programs-as-values-I.html)
 - [Random Permutations and Sorting](https://apfelmus.nfshost.com/articles/random-permutations.html)
+- [Meta-learning and Monads (2021)](https://www.brunogavranovic.com/posts/2021-10-13-meta-learning-and-monads.html) ([Tweet](https://twitter.com/bgavran3/status/1448426672622129154))
 
 ## Images
 

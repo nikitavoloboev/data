@@ -514,7 +514,7 @@
 - [Rust is not a Company (2021)](https://blog.m-ou.se/rust-is-not-a-company/) ([HN](https://news.ycombinator.com/item?id=27551242))
 - [Type-checked keypaths in Rust (2021)](http://www.cmyr.net/blog/keypaths.html) ([Lobsters](https://lobste.rs/s/z7nqc2/type_checked_keypaths_rust))
 - [Polymorphism in Rust (2021)](https://oswalt.dev/2021/06/polymorphism-in-rust/)
-- [Hands-on Rust Book (2021)](https://pragprog.com/titles/hwrust/hands-on-rust/) - Effective Learning through 2D Game Development and Play. ([Code](https://github.com/thebracket/HandsOnRust))
+- [Hands-on Rust Book (2021)](https://pragprog.com/titles/hwrust/hands-on-rust/) - Effective Learning through 2D Game Development and Play. ([Code](https://github.com/thebracket/HandsOnRust)) ([HN](https://news.ycombinator.com/item?id=28861618))
 - [What Can Coerce, and Where, in Rust (2021)](https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust)
 - [Compiling Rust is NP-hard (2021)](https://niedzejkob.p4.team/rust-np/) ([HN](https://news.ycombinator.com/item?id=27769718)) ([Lobsters](https://lobste.rs/s/ekasr1/compiling_rust_is_np_hard))
 - [Inline In Rust (2021)](https://matklad.github.io//2021/07/09/inline-in-rust.html) ([Lobsters](https://lobste.rs/s/bd6rcd/inline_rust))
@@ -585,3 +585,4 @@
 - [Fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix.
 - [Crust of Rust: functions, closures, and their traits (2021)](https://www.youtube.com/watch?v=dHkzSZnYXmk)
 - [Rust and GCC, two different ways (2021)](https://lwn.net/SubscriberLink/871283/c437c1364397e70e/)
+- [Designing an API Client in Rust: New Rspotify Version a Year Later (2021)](https://nullderef.com/blog/web-api-client/)

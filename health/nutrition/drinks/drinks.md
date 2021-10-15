@@ -12,6 +12,7 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 - [Surely](https://www.hisurely.com/) - Non-Alcoholic Wine.
 - [Masala chai](https://en.wikipedia.org/wiki/Masala_chai)
 - [Tarhun](<https://en.wikipedia.org/wiki/Tarkhuna_(drink)>)
+- [Milk Punch](https://punchdrink.com/articles/clarified-milk-punch-cocktail-recipe-has-lost-its-mind/)
 
 ## Links
 
@@ -23,3 +24,4 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 - [Clink Clink Drink](https://clinkclinkdrink.com/)
 - [Ask a bartender a question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html) ([HN](https://news.ycombinator.com/item?id=27979864))
 - [Cocktail search](https://github.com/snoack/cocktail-search) - Open source web application and crawler for searching cocktail recipes from the web.
+- [Punch Drink](https://punchdrink.com/) - Media brand dedicated to drinks and drinking culture.

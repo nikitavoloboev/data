@@ -215,6 +215,7 @@
 - [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React wrapper for Chart.js.
 - [replicache-react](https://github.com/rocicorp/replicache-react) - Miscellaneous utilities for using Replicache with React.
 - [ClickableBox](https://github.com/danoc/clickable-box) - React component to add `onClick` to HTML elements without sacrificing accessibility.
+- [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 
 ## Links
 

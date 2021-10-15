@@ -161,7 +161,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Bubbles](https://www.usebubbles.com/) - Video and Screenshot Collaboration.
 - [Livepeer](https://livepeer.org/) - Decentralized video transcoding network built on the Ethereum blockchain. ([GitHub](https://github.com/livepeer)) ([Protocol](https://github.com/livepeer/protocol)) ([JS library](https://github.com/livepeer/livepeerjs))
 - [go-livepeer](https://github.com/livepeer/go-livepeer) - Go implementation of the Livepeer protocol.
-- [Luma](https://lu.ma/) - Host Delightful Zoom Events.
+- [Luma](https://lu.ma/) - Activate your community. Foster meaningful relationships with events, newsletters, and community analytics. ([GitHub](https://github.com/luma-team))
 - [Stack Videos Horizontally, Vertically, in a Grid With FFmpeg (2020)](https://ottverse.com/stack-videos-horizontally-vertically-grid-with-ffmpeg/) ([HN](https://news.ycombinator.com/item?id=25022665))
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Color correction and non-linear video editing application.
 - [YouTube Downloader](https://youtubedld.com/) - Free and efficient YouTube downloader. ([HN](https://news.ycombinator.com/item?id=25024849))
@@ -290,3 +290,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Open Video Downloader (youtube-dl-gui)](https://github.com/jely2002/youtube-dl-gui) - Cross-platform GUI for youtube-dl made in Electron and node.js. ([HN](https://news.ycombinator.com/item?id=28478603))
 - [FFmpeg to WebRTC](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from FFmpeg to WebRTC. ([HN](https://news.ycombinator.com/item?id=28614454))
 - [µStreamer](https://github.com/pikvm/ustreamer) - Lightweight and fast MJPG-HTTP streamer.
+- [8 tips to improve Zoom video calls (2021)](https://twitter.com/TrungTPhan/status/1448675891425337345)

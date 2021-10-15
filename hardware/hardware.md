@@ -239,3 +239,4 @@
 - [The Insane Innovation of TI Calculator Hobbyists (2021)](https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/) ([HN](https://news.ycombinator.com/item?id=28779621))
 - [Mac SE/30 odyssey (2021)](https://axio.ms/blog/2021/10/02/MacSE30.html) ([Lobsters](https://lobste.rs/s/qnpjma/mac_se_30_odyssey))
 - [Intel, Mobileye, and Smiling Curves (2017)](https://stratechery.com/2017/intel-mobileye-and-smiling-curves/) ([Tweet](https://twitter.com/Altimor/status/1447243413661921283))
+- [Practice Problems for Hardware Engineers (2021)](https://arxiv.org/abs/2110.06526) ([HN](https://news.ycombinator.com/item?id=28860308))

@@ -147,4 +147,4 @@
 - [Understanding Shannon's Entropy metric for Information](https://arxiv.org/abs/1405.2061) ([HN](https://news.ycombinator.com/item?id=28785902))
 - [MIT Theory of Computation (2020)](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/) ([Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)) ([HN](https://news.ycombinator.com/item?id=28807222))
 - [Computer Science Club](https://compsciclub.ru/) - Открытые лекции и курсы. ([Twitter](https://twitter.com/spbcsclub))
-- [Solving NP-hard puzzles with the oldest trick in the book (2021)](https://davidkoloski.me/blog/intelligent-brute-forcing/) ([HN](https://news.ycombinator.com/item?id=28845593))
+- [Solving NP-hard puzzles with the oldest trick in the book (2021)](https://davidkoloski.me/blog/intelligent-brute-forcing/) ([HN](https://news.ycombinator.com/item?id=28845593)) ([Reddit](https://www.reddit.com/r/programming/comments/q7s7os/solving_nphard_puzzles_with_the_oldest_trick_in/))

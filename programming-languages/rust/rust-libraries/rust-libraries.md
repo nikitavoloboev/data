@@ -2,6 +2,7 @@
 
 ## CLI
 
+- [argi](https://github.com/Owez/argi) - Argument parsing for the future.
 - [slap](https://github.com/agnipau/slap) - Painless shell argument parsing and dependency check.
 - [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things.
 - [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
@@ -252,6 +253,7 @@
 - [PLONK](https://github.com/dusk-network/plonk) - Pure Rust implementation of the PLONK proving system over BLS12-381.
 - [Tofn](https://github.com/axelarnetwork/tofn) - Threshold cryptography library in Rust.
 - [RustCrypto: Utilities](https://github.com/RustCrypto/utils) - Utility crates used in RustCrypto.
+- [Verkle Trie](https://github.com/crate-crypto/rust-verkle)
 
 ## Linux
 
@@ -266,6 +268,7 @@
 - [sev](https://github.com/enarx/sev) - Implementation of AMD Secure Encrypted Virtualization (SEV) APIs.
 - [pam](https://github.com/1wilkens/pam) - Safe Rust API to the Linux Pluggable Authentication Modules (PAM).
 - [rust-bcc](https://github.com/rust-bpf/rust-bcc) - Idiomatic Rust bindings for the BPF compiler collection.
+- [kvm-ioctls](https://github.com/rust-vmm/kvm-ioctls) - Provides safe wrappers over the KVM API, a set of ioctls used for creating and configuring Virtual Machines (VMs) on Linux.
 
 ## ML
 
@@ -1002,6 +1005,9 @@
 - [tough](https://github.com/awslabs/tough) - Rust libraries and tools for using and generating TUF repositories.
 - [Typical](https://github.com/stepchowfun/typical) - Algebraic data types for data interchange.
 - [Swap Queue](https://github.com/Bajix/swap-queue-rs) - Queue designed for buffer swapping instead of task popping.
+- [csv](https://github.com/BurntSushi/rust-csv) - CSV parser for Rust, with Serde support.
+- [schemafy](https://github.com/Marwes/schemafy) - Rust crate which can take a JSON schema and generate Rust types which are serializable with serde.
+- [creativity](https://github.com/utilForever/creativity) - Creative Coding Framework based on Entity Component System (ECS) written in Rust.
 
 ## Cargo Plugins
 
@@ -1092,3 +1098,4 @@
 - [Rust web frameworks, a new look? (discussion) (2021)](https://www.reddit.com/r/rust/comments/q1vzsx/rust_web_frameworks_a_new_look_discussion/)
 - [Rust: Does the published crate match the upstream source? (2021)](https://codeandbitters.com/published-crate-analysis/) ([HN](https://news.ycombinator.com/item?id=28827648))
 - [Whats your favorite open source Rust project that needs more recognition? (2021)](https://www.reddit.com/r/rust/comments/q69sna/whats_your_favourite_open_source_rust_project/)
+- [Rust Bindings Working Group](https://github.com/vfx-rs/organization) - Dedicated to creating a foundation for C and Rust bindings for C++ libraries used by the media and entertainment industry.

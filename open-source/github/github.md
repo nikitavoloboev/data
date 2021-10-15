@@ -269,3 +269,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Repo Sync](https://github.com/repo-sync/repo-sync) - Keep a pair of GitHub repos in sync.
 - [GitHub Release Downloader](https://github.com/suyashkumar/getbin) - Easily fetch latest GitHub release binaries (for your OS/arch) using just wget or curl. ([Web](https://getbin.io/))
 - [GitHub Backup](https://github.com/mfinelli/github-backup) - Backup your GitHub repositories (including issues and comments).
+- [Team manager](https://github.com/cilium/team-manager) - Bot to manage team members in GitHub organizations.

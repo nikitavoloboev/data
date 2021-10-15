@@ -224,3 +224,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Comparing AWS's RDS and PlanetScale (2021)](https://planetscale.com/blog/planetscale-vs-aws-rds)
 - [Terraform vs. AWS CloudFormation (2021)](https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f) ([HN](https://news.ycombinator.com/item?id=28777997))
 - [AWS JWT Verify](https://github.com/awslabs/aws-jwt-verify) - NodeJS library for verifying JWTs signed by Amazon Cognito, and any OIDC-compatible IDP that signs JWTs with RS256.
+- [Free Templates for AWS CloudFormation](https://github.com/widdix/aws-cf-templates) ([Docs](https://templates.cloudonaut.io/en/stable/))

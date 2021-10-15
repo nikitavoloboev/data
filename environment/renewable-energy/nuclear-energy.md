@@ -33,3 +33,4 @@
 - [China prepares to test thorium-fuelled nuclear reactor (2021)](https://www.nature.com/articles/d41586-021-02459-w) ([HN](https://news.ycombinator.com/item?id=28560790))
 - [Lost nuclear weapons history](https://twitter.com/AlcazarBazaar/status/1441388864195764225)
 - [Major nuclear fusion milestone reached as ‘ignition’ triggered in a lab (2021)](https://www.imperial.ac.uk/news/228373/major-nuclear-fusion-milestone-reached-ignition/) ([HN](https://news.ycombinator.com/item?id=28840066))
+- [Nuclear Power in France (2021)](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/france.aspx) ([HN](https://news.ycombinator.com/item?id=28841366))

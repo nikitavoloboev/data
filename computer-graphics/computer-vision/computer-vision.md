@@ -399,3 +399,6 @@
 - [Deep Learning for Face Anti-Spoofing: A Survey (2021)](https://arxiv.org/abs/2106.14948) ([Code](https://github.com/ZitongYu/DeepFAS))
 - [A-SDF: Learning Disentangled Signed Distance Functions for Articulated Shape Representation (2021)](https://arxiv.org/abs/2104.07645) ([Code](https://github.com/JitengMu/A-SDF))
 - [Resolution-robust Large Mask Inpainting with Fourier Convolutions (2021)](https://saic-mdal.github.io/lama-project/) ([Code](https://github.com/saic-mdal/lama))
+- [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (2021)](https://arxiv.org/abs/2103.14030) ([Code](https://github.com/microsoft/Swin-Transformer))
+- [ADOP: Approximate Differentiable One-Pixel Point Rendering (2021)](https://arxiv.org/abs/2110.06635) ([Tweet](https://twitter.com/rodolfor/status/1448655222876741634))
+- [Patches Are All You Need? (2021)](https://openreview.net/forum?id=TVHS5Y4dNvM) ([Code](https://github.com/tmp-iclr/convmixer))

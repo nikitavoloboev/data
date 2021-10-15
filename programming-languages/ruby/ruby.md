@@ -85,3 +85,4 @@
 - [TenderJIT](https://github.com/tenderlove/tenderjit) - JIT for Ruby that is written in Ruby. ([HN](https://news.ycombinator.com/item?id=28613682))
 - [Stamping Out Overflow Checks in Ruby (2021)](https://chrisseaton.com/truffleruby/stamping-out-overflow-checks/) ([HN](https://news.ycombinator.com/item?id=28661051))
 - [Proposal to Merge YJIT into Ruby (2021)](https://bugs.ruby-lang.org/issues/18229) ([HN](https://news.ycombinator.com/item?id=28691048))
+- [ruby-build](https://github.com/rbenv/ruby-build) - Command-line utility that makes it easy to install virtually any version of Ruby, from source.

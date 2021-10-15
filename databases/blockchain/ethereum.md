@@ -311,3 +311,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Gigahorse binary lifter and toolchain](https://github.com/nevillegrech/gigahorse-toolchain) - Binary lifter (and related framework) from low-level EVM code to a higher-level function-based three-address representation, similar to LLVM IR or Jimple.
 - [Best way to stake Ethereum (2021)](https://www.reddit.com/r/ethereum/comments/q1nwt2/i_finally_have_1_eth_and_im_looking_for_the_best/)
 - [Projects for learning solidity and ethereum](https://github.com/antico5/solidity_learning)
+- [ethereal-react](https://github.com/kesne/ethereal-react) - Suspense-compatible React library for Ethereum development.

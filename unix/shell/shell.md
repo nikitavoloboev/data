@@ -160,3 +160,5 @@ All active variables can be seen by running `env`.
 - [The Return of the Unix Shell (2021)](https://www.sigops.org/2021/the-return-of-the-unix-shell/)
 - [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/introduction.html)
 - [Showing GUIs from Shell Scripts (2021)](https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html) ([HN](https://news.ycombinator.com/item?id=28848858))
+- [overdub](https://github.com/zalimeni/overdub) - Create new commands from your shell history or terminal.
+- [async](https://github.com/ctbur/async) - Tool to parallelize shell commands.

@@ -338,3 +338,5 @@
 - [Tips for debugging with print() (2021)](https://adamj.eu/tech/2021/10/08/tips-for-debugging-with-print/) ([Lobsters](https://lobste.rs/s/kkrvku/tips_for_debugging_with_print))
 - [The Many Ways to Exit in Python (2021)](https://adamj.eu/tech/2021/10/10/the-many-ways-to-exit-in-python/)
 - [A Python Script Template, with and without Type Hints and Async (2021)](https://adamj.eu/tech/2021/10/09/a-python-script-template-with-and-without-type-hints-and-async/)
+- [Python Multithreading without GIL](https://github.com/colesbury/nogil)
+- [Violet](https://github.com/LiarPrincess/Violet) - Python VM written in Swift. For Swift <-> Python interop.
