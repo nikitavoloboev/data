@@ -1,5 +1,9 @@
 # [Raycast](https://www.raycast.com/)
 
+## Extensions
+
+- [Airport](https://www.raycast.com/siddharthsharma94/airport) - Discover TestFlight Apps.
+
 ## Links
 
 - [Egoist's Raycast scripts](https://github.com/egoist/raycast-scripts)

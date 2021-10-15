@@ -255,3 +255,4 @@
 - [Building a Blog With Next.js and MDX (2021)](https://blog.jetbrains.com/webstorm/2021/10/building-a-blog-with-next-js-and-mdx/)
 - [Rakkas](https://github.com/rakkasjs/rakkasjs) - Lightning fast Next.js alternative powered by Vite. ([Web](https://rakkasjs.org/)) ([Reddit](https://www.reddit.com/r/reactjs/comments/q7xtcg/rakkas_nextjs_alternative_powered_by_vite/))
 - [How to build a portfolio website using Next.js, Chakra UI, Framer Motion, and Three.js (2021)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
+- [Next.js X Prisma Workshop](https://github.com/m-abdelwahab/nextjs-prisma-workshop) - Build a full stack app using Next.js and Prisma.
