@@ -190,7 +190,7 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [LimeLighter](https://github.com/Tylous/Limelighter) - Tool for generating fake code signing certificates or signing real ones.
 - [cocert](https://github.com/Dentrax/cocert) - Split and distribute your private keys securely amongst untrusted network.
 - [Awesome Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups)
-- [Open Source Security Foundation (OpenSSF)](https://openssf.org/) ([GitHub](https://github.com/ossf))
+- [Open Source Security Foundation (OpenSSF)](https://openssf.org/) ([GitHub](https://github.com/ossf)) ([Reviews](https://github.com/ossf/security-reviews))
 - [Allstar](https://github.com/ossf/allstar) - GitHub App installed on organizations or repositories to set and enforce security policies.
 - [WAFW00F](https://github.com/EnableSecurity/wafw00f) - Web Application Firewall Fingerprinting Tool.
 - [Analyzing the Mario Themed Malware (2021)](https://serhack.me/articles/analyzing-mario-malware-en/)

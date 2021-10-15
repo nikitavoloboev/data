@@ -563,3 +563,7 @@
 - [Unsolved Problems in ML Safety (2021)](https://arxiv.org/abs/2109.13916) ([HN](https://news.ycombinator.com/item?id=28809233))
 - [Evaluating Predictive Distributions: Does Bayesian Deep Learning Work? (2021)](https://arxiv.org/abs/2110.04629) ([Code](https://github.com/deepmind/neural_testbed)) ([Tweet](https://twitter.com/DeepMind/status/1447975332489859076))
 - [Arsenii Ashukha: Ensemble Generation (2020)](https://www.youtube.com/watch?v=bj933t6rqFw)
+- [Imitating Deep Learning Dynamics via Stochastic Differential Equations (2021)](https://arxiv.org/abs/2110.05960) ([HN](https://news.ycombinator.com/item?id=28864171))
+- [What are some ideas that are hyped up in machine learning research but don't actually get used in industry (and vice versa)? (2021)](https://www.reddit.com/r/MachineLearning/comments/q86kqn/d_what_are_some_ideas_that_are_hyped_up_in/)
+- [Variational Graph Auto-Encoders (2016)](https://arxiv.org/abs/1611.07308) ([Code](https://github.com/DaehanKim/vgae_pytorch))
+- [Diffusion Normalizing Flow (2021)](https://arxiv.org/abs/2110.07579)

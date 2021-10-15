@@ -38,3 +38,7 @@
 - [dReal](https://github.com/dreal/dreal4) - SMT Solver for Nonlinear Theories of Reals. ([Web](https://dreal.github.io/))
 - [Proof P = NP was accidentally published in TOCT](https://twitter.com/danluu/status/1417215848633159689) ([HN](https://news.ycombinator.com/item?id=27886900))
 - [PicoSAT.jl](https://github.com/sisl/PicoSAT.jl) - Julia bindings to the SAT solver picosat.
+- [Generative Type-Aware Mutation for Testing SMT Solvers (2021)](https://wintered.github.io/papers/park-etal-oopsla21.pdf) ([Tweet](https://twitter.com/DominikWinterer/status/1449003168168357888))
+- [Mikino](https://github.com/OCamlPro/mikino_bin) - Simple induction and BMC engine.
+- [rsmt2](https://github.com/kino-mc/rsmt2) - Generic library to interact with SMT-LIB 2 compliant solvers running in a separate system process, such as Z3 and CVC4.
+- [SMBC](https://github.com/c-cube/smbc) - Experimental model finder/SMT solver for functional programming.

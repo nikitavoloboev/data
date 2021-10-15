@@ -283,3 +283,5 @@
 - [TorchData](https://github.com/pytorch/data) - PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
 - [Efficient Video Dataset Loading and Augmentation in PyTorch](https://github.com/RaivoKoot/Video-Dataset-Loading-Pytorch)
 - [Accelerate PyTorch models with ONNX Runtime](https://github.com/pytorch/ort)
+- [Bagua](https://github.com/BaguaSys/bagua) - Deep learning training acceleration framework for PyTorch.
+- [TorchMetrics](https://github.com/PyTorchLightning/metrics) - Machine learning metrics for distributed, scalable PyTorch applications. ([Docs](https://torchmetrics.readthedocs.io/en/latest/))

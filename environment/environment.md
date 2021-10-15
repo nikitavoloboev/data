@@ -131,3 +131,5 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Albedo](https://albedo.com/) - Aerial quality imagery - from space.
 - [Climate.gov](https://www.climate.gov/)
 - [Global Climate Report – September 2021](https://www.ncdc.noaa.gov/sotc/global/202109) ([HN](https://news.ycombinator.com/item?id=28865033))
+- [The climate disaster is here – this is what the future looks like (2021)](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
+- [Weather Spark](https://weatherspark.com/map) - The Weather Year Round Anywhere on Earth.

@@ -93,3 +93,5 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LTeX Language Server](https://github.com/valentjn/ltex-ls) - LSP language server for LanguageTool with support for LaTeX, Markdown, and others. ([Docs](https://valentjn.github.io/vscode-ltex/))
 - [katex-rs](https://github.com/xu-cheng/katex-rs) - Rust bindings to KaTeX.
 - [Show Your Work](https://github.com/rodluger/showyourwork) - Fully reproducible, open source scientific articles in LaTeX.
+- [web2js](https://github.com/kisonecat/web2js) - Pascal compiler that targets WebAssembly, designed specifically to compile TeX so it can be run inside the browser.
+- [TikZJax](https://tikzjax.com/) - Converts script tags (containing TikZ code) into SVGs. ([Code](https://github.com/kisonecat/tikzjax))

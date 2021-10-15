@@ -77,3 +77,4 @@
 - [Redis Inventory](https://github.com/obukhov/redis-inventory) - Tool to analyse Redis memory usage by key patterns and displaying it hierarchically.
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client.
 - [Fred](https://github.com/aembke/fred.rs) - Async Redis client for Rust.
+- [y-redis](https://github.com/yjs/y-redis) - Redis persistence layer for Yjs.

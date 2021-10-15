@@ -233,6 +233,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The Best Books for Software Engineers](https://www.briansnotes.io/books/?sort=rating)
 - [Useful Spy Books (2021)](https://berthub.eu/articles/posts/useful-spy-books/)
 - [HackerNews Readings](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0) - 40,000 HackerNews book recommendations identified using NLP and deep learning. ([HN](https://news.ycombinator.com/item?id=28595967))
+- [The Most Influential Sci-Fi Books Of All Time (2021)](https://bookriot.com/the-most-influential-sci-fi-books-of-all-time/)
 
 ## Notes
 

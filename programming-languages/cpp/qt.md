@@ -24,3 +24,4 @@
 - [qt-downloader](https://github.com/engnr/qt-downloader) - CLI to download Qt on headless systems.
 - [QT / QML Signals and Slots with C++ (2021)](https://raymii.org/s/snippets/Cpp_QT_QML_Signals_and_Slots.html)
 - [How to add a dark theme to your Qt application (2021)](https://successfulsoftware.net/2021/03/31/how-to-add-a-dark-theme-to-your-qt-application/)
+- [Qt Base](https://github.com/qt/qtbase) - Core, Gui, Widgets, Network.

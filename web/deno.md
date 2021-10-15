@@ -126,3 +126,4 @@
 - [How to compile Rust into WebAssembly and run it in Deno (2021)](https://startfunction.com/rust-webassembly-deno/)
 - [deno.ns](https://github.com/fromdeno/deno.ns) - Deno namespace shim for Node.js.
 - [Diplo](https://github.com/Tricked-dev/diplo) - Script runner and dependency manager made in rust mainly for Deno.
+- [deno_cache](https://github.com/kitsonk/deno_cache) - TypeScript implementation of Deno CLI's module cache.

@@ -54,3 +54,4 @@
 - [ITT in Idris](https://github.com/ziman/itt-idris) - Quantified dependent calculus with inference of all modalities, implemented in Idris 2.
 - [idris-data-frame](https://github.com/ziman/idris-data-frame) - Data frames for Idris 2.
 - [Idris2GL](https://github.com/ECburx/Idris2GL) - Graphics Library for Idris 2.
+- [TaPL implementation bits in Idris2](https://github.com/andorp/TaPL)

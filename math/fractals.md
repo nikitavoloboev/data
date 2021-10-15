@@ -62,3 +62,4 @@
 - [rust-fractal-gui](https://github.com/rust-fractal/rust-fractal-gui) - GUI for rust-fractal-core, a mandelbrot fractal visualizer.
 - [A Closer Look at Fractals (2013)](https://blog.fract.al/post/62180302979/a-closer-look-at-fractals)
 - [Visualize 3D hyperbolic honeycombs and sphere packings](https://github.com/neozhaoliang/Hyperbolic-Honeycombs)
+- [Fractal Renderer in Swift](https://github.com/hdombach/Fractal-Renderer)

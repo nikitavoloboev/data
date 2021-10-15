@@ -12,6 +12,8 @@
   - Running a small container cluster at work has even changed how I setup single-host projects in my spare time: I will build everything into a container, bind-mount whatever it might need, create a simple systemd unit that just runs / rms the docker container on start and stop. Bliss.
 - [After a couple years on kubernetes, there is a simple joy to a deployment process that looks like "scp binary server: && ssh server systemctl restart service", and takes 5s to complete.](https://twitter.com/dave_universetf/status/1216791280505774080)
 - [In K8S, I think the best is hand-on experience, do it and. you will understand why a certain thing has to do that way.](https://lobste.rs/s/waj0ky/what_are_you_doing_this_weekend#c_s4hcbh)
+- [Despite its reputation, Kubernetes is actually quite easy to master for simple use cases. And affordable enough for more complex ones.
+  The fundamental abstractions are as simple as they can be, representing concepts that you'd already be familiar with in a datacenter environment. A cluster has nodes (machines), and you can run multiple pods (which is the smallest deployable unit on the cluster) on each node. A pod runs various types of workloads such as web services, daemons, jobs and recurring jobs which are made available (to the cluster) as docker/container images. You can attach various types of storage to pods, front your services with load-balancers etc. All of the nouns in the previous paragraph are available as building blocks in Kubernetes. You build your complex system declaratively from these simpler parts.](https://news.ycombinator.com/item?id=28875764)
 
 ## Links
 
@@ -461,3 +463,7 @@
 - [Carina](https://github.com/carina-io/carina) - High performance and ops-free local storage for kubernetes.
 - [Kube-queue](https://github.com/kube-queue/kube-queue) - Designed to manage AI/ML and batch workloads in Kubernetes.
 - [KuberLogic](https://github.com/kuberlogic/kuberlogic) - Open-source platform that deploys and manages software on top of the Kubernetes cluster and turns infrastructure into a managed PaaS.
+- [Nomad vs. Kubernetes](https://www.nomadproject.io/docs/nomad-vs-kubernetes) ([HN](https://news.ycombinator.com/item?id=28875764))
+- [Inspektor Gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF.
+- [nfproxy](https://github.com/sbezverk/nfproxy) - Provide high performance and scalable kubernetes proxy supporting both ipv4 and ipv6.
+- [Rancher Webhook](https://github.com/rancher/webhook) - Validating admission webhook and mutating admission webhook for Kubernetes.

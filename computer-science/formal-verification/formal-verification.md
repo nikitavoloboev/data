@@ -80,3 +80,7 @@
 - [SAWScript](https://github.com/GaloisInc/saw-script) - Scripting language that forms the primary user interface to the Software Analysis Workbench (SAW).
 - [You Already Know Formal Methods (2021)](https://galois.com/blog/2021/10/you-already-know-formal-methods/) ([HN](https://news.ycombinator.com/item?id=28859324))
 - [Verification For Dummies: SMT and Induction Book](https://ocamlpro.github.io/verification_for_dummies/index.html)
+- [Formal verification/analysis tools tutorials](https://github.com/claucece/formal-tutorials)
+- [hoice](https://github.com/hopv/hoice) - ICE-based predicate synthesizer for Horn clauses.
+- [Higher-Order Program Verification](https://github.com/hopv)
+- [SMACK](https://github.com/smackers/smack) - Software Verifier and Verification Toolchain. ([Web](http://smackers.github.io/))

@@ -210,3 +210,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars) - Market calendars to use with pandas for trading applications.
 - [exchange_calendars](https://github.com/gerrymanoim/exchange_calendars) - Calendars for various securities exchanges.
 - [Investments](https://github.com/KonishchevDmitry/investments) - Helps you with managing your investments.
+- [Cabal](https://getcabal.com/) - Help founders get more out of their investors and advisors. ([Twitter](https://twitter.com/GetCabal))

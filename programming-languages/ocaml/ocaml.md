@@ -3,6 +3,7 @@
 ## Links
 
 - [Learn OCaml](https://ocaml-sf.org/learn-ocaml-public/) - Web Application for Learning OCaml. ([Code](https://github.com/ocaml-sf/learn-ocaml))
+- [OCaml Programming: Correct + Efficient + Beautiful Book (2021)](https://cs3110.github.io/textbook/cover.html) - Textbook on functional programming and data structures in OCaml. ([Lectures](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)) ([Tweet](https://twitter.com/avsm/status/1448972909863636993))
 - [Introduction to OCaml (2018)](https://blog.baturin.org/introduction-to-ocaml.html)
 - [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html) ([HN](https://news.ycombinator.com/item?id=22408664)) ([HN](https://news.ycombinator.com/item?id=27972900)) ([Code](https://github.com/cs3110/textbook))
 - [Dune](https://github.com/ocaml/dune) - Composable build system for OCaml.
@@ -83,7 +84,6 @@
 - [Parallel programming in Multicore OCaml](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
 - [denu](https://github.com/thangngoc89/denu) - Toy OCaml builder.
 - [OCaml By Example](https://o1-labs.github.io/ocamlbyexample/)
-- [OCaml Programming: Correct + Efficient + Beautiful Lectures (2021)](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
 - [Writing a REST API with Dream (2021)](https://jsthomas.github.io/ocaml-dream-api.html) ([Code](https://github.com/jsthomas/sensors))
 - [BetterOCaml](https://betterocaml.ml/) - Efficient, intuitive and cross-platform web IDE for the OCaml language. ([Code](https://github.com/jbdoderlein/BetterOCaml))
 - [OCaml is getting multicore support in the next major version (v5) (2021)](https://discuss.ocaml.org/t/the-road-to-ocaml-5-0/8584) ([Tweet](https://twitter.com/SusanPotter/status/1446053574329389059)) ([HN](https://news.ycombinator.com/item?id=28785306))

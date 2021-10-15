@@ -79,3 +79,4 @@
 - [How to Find Packages With CMake: The Basics (2020)](https://izzys.casa/2020/12/how-to-find-packages-with-cmake-the-basics/)
 - [Practical Makefiles, by example (2020)](http://nuclear.mutantstargoat.com/articles/make/)
 - [Learning CMake](https://github.com/Akagi201/learning-cmake) - Simple CMake tutorial project which contains some different scenarios.
+- [Forge](https://github.com/Shinmera/forge) - General, modular build system.

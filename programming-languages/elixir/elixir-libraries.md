@@ -15,6 +15,7 @@
 - [Corsica](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
 - [Plug](https://github.com/elixir-plug/plug) - Specification and conveniences for composable modules between web applications.
 - [Quenya](https://github.com/tyrchen/quenya) - Framework to build high-quality REST API applications based on extended OpenAPI spec.
+- [Bandit](https://github.com/mtrudel/bandit) - HTTP server for Plug apps.
 
 ## DB
 
@@ -85,6 +86,7 @@
 - [Algae](https://github.com/witchcrafters/algae) - Bootstrapped algebraic data types for Elixir.
 - [VegaLite](https://github.com/livebook-dev/vega_lite) - Elixir bindings for Vega-Lite.
 - [Elixir Thrift](https://github.com/pinterest/elixir-thrift)
+- [Uncharted](https://github.com/unchartedelixir/uncharted) - Simple Elixir charting library that generates easy to customize charts.
 
 ## Links
 

@@ -208,6 +208,7 @@
 - [Steamclock](https://steamclock.com/) - iOS and Android app development and consulting in Vancouver. ([GitHub](https://github.com/steamclock))
 - [The Foundries](https://www.foundries.dev/) - Offer consultancy and technical analysis across multiple domains in the software industry.
 - [Product Brew](https://productbrew.com/) - Small team of developers and thinkers that thrive on connection and the creation of your product. ([GitHub](https://github.com/productbrew))
+- [magicstack](http://magic.io/) - Experts in modern reactive web. ([GitHub](https://github.com/MagicStack))
 
 ## Notes
 

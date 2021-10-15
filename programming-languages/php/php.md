@@ -24,3 +24,4 @@
 - [LAMP Stack History: It’s Everywhere, But Developers Hate It (2021)](https://tedium.co/2021/09/01/lamp-stack-php-mysql-apache-history/) ([Lobsters](https://lobste.rs/s/omnbsr/lamp_stack_history_it_s_everywhere))
 - [Codeception](https://github.com/codeception/codeception) - Full-stack testing PHP framework. ([Web](https://codeception.com/))
 - [How Laravel Livewire works (2021)](https://calebporzio.com/how-livewire-works-a-deep-dive) ([HN](https://news.ycombinator.com/item?id=28837333))
+- [Revolt](https://github.com/revoltphp/event-loop) - Rock-solid event loop for concurrent PHP applications.

@@ -72,3 +72,4 @@
 - [Heatshrink](https://github.com/atomicobject/heatshrink) - Data compression library for embedded/real-time systems. ([HN](https://news.ycombinator.com/item?id=28687589))
 - [Neural Network Compression Framework (NNCF)](https://github.com/openvinotoolkit/nncf) - Provides a suite of advanced algorithms for Neural Networks inference optimization in OpenVINO with minimal accuracy drop.
 - [libdeflate](https://github.com/ebiggers/libdeflate) - Heavily optimized library for DEFLATE/zlib/gzip compression and decompression.
+- [sltar](https://github.com/Gottox/sltar) - Minimal implementation of tar.

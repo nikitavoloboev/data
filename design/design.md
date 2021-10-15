@@ -15,6 +15,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Design is about making things look a certain way. Not “make it look pretty” but “surface.” I have had many interactions with smart educated people (even designers!) whom seem to believe design is art, that design is mainly about surface (e.g. “a designer chair.”)](https://twitter.com/rsms/status/1305383261774905346)
 - [Opinions are not ideas. Opinions are not as important as ideas. Opinions are just opinions.](https://twitter.com/bchesky/status/1393305210563403776)
 - [Don’t know where to start a design? literally just copy the next closest thing and then …just keep going.](https://twitter.com/round/status/1407767068263403520)
+- [As Design tools and code are rapidly converging. Designers who can think like developers will have a leg up on everyone.](https://twitter.com/Ridderingand/status/1448680030108729348)
 
 ## Links
 
@@ -196,3 +197,6 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Doodle Ipsum](https://doodleipsum.com/) - Lorem ipsum of illustrations.
 - [Mechanic](https://mechanic.design/) - Open source framework that makes it easy to create custom, web-based design tools that export design assets right in your browser. ([Code](https://github.com/designsystemsinternational/mechanic))
 - [TryShape](https://tryshape.vercel.app/) - Create, Export, Share, and Use any Shapes of your choice. ([Code](https://github.com/TryShape/tryshape))
+- [Mucho](https://wearemucho.com/) - Branding, Packaging, and Graphic Design.
+- [The Future of Design AI: Interview with Sergey Kulinkovich (2021)](https://serokell.io/blog/the-future-of-design-ai)
+- [Globs Designer](https://www.globs.design/)

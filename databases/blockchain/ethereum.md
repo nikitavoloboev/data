@@ -312,3 +312,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Best way to stake Ethereum (2021)](https://www.reddit.com/r/ethereum/comments/q1nwt2/i_finally_have_1_eth_and_im_looking_for_the_best/)
 - [Projects for learning solidity and ethereum](https://github.com/antico5/solidity_learning)
 - [ethereal-react](https://github.com/kesne/ethereal-react) - Suspense-compatible React library for Ethereum development.
+- [Solidity on Replit: Diving into Web3 (2021)](https://blog.replit.com/solidity) ([Tweet](https://twitter.com/Replit/status/1448708682234089477))
+- [Proof of KYC](https://github.com/m1guelpf/proof-of-kyc) - NFT that proves you've gone through an identity verification process, powered by Stripe Identity.
+- [Minority Ethereum Client](https://github.com/karalabe/minority) ([Tweet](https://twitter.com/peter_szilagyi/status/1448956344699064333))

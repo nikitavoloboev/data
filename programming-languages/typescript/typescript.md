@@ -185,6 +185,8 @@
 - [TypeScript BC](https://github.com/alshdavid/TypeScriptBC) - TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.
 - [Tricks I wish I knew when I learned TypeScript (2021)](https://www.cstrnt.dev/blog/three-typescript-tricks) ([HN](https://news.ycombinator.com/item?id=28837181))
 - [typescript-todo-or-die-plugin](https://github.com/ngnijland/typescript-todo-or-die-plugin) - TODO's that speak up for themselves via the TypeScript Language Server.
+- [Reconstructing TypeScript (2021)](https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0)
+- [TypeScript Native Compiler using LLVM](https://github.com/ASDAlexander77/TypeScriptCompiler)
 
 ## Images
 

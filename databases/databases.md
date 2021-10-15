@@ -20,7 +20,7 @@
 - [Sophia](https://github.com/pmwkaa/sophia) - Modern transactional key-value/row storage library.
 - [Bolt](https://github.com/etcd-io/bbolt) - Embedded key/value database for Go.
 - [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics. ([Web](https://www.influxdata.com/))
-- [EdgeDB](https://github.com/edgedb/edgedb) - Open-source object-relational database built on top of PostgreSQL. ([EdgeDB 1.0 Beta](https://www.edgedb.com/blog/edgedb-1-0-beta-1-sirius/))
+- [EdgeDB](https://github.com/edgedb/edgedb) - Open-source object-relational database built on top of PostgreSQL. ([EdgeDB 1.0 Beta](https://www.edgedb.com/blog/edgedb-1-0-beta-1-sirius/)) ([Web](https://www.edgedb.com/)) ([GitHub](https://github.com/edgedb)) ([Talk](https://www.youtube.com/watch?v=CmXB5xqEENs))
 - [Cassandra](https://github.com/apache/cassandra) - Highly-scalable partitioned row store. Rows are organized into tables with a required primary key.
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [Code](https://github.com/scylladb/scylla) ([Scylla University](https://university.scylladb.com/))
 - [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database. ([Web](https://janusgraph.org/)) ([HN](https://news.ycombinator.com/item?id=27762109))
@@ -441,3 +441,4 @@
 - [Cheapest / fastest way to load Stripe data into a SQL database (2021)](https://twitter.com/Suhail/status/1441897490312138759)
 - [Pelikan](https://github.com/twitter/pelikan) - Twitter's unified cache backend.
 - [Relational Databases Aren’t Dinosaurs, They’re Sharks (2021)](https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/)
+- [The One Crucial Difference Between Spanner and CockroachDB (2021)](https://authzed.com/blog/prevent-newenemy-cockroachdb/)

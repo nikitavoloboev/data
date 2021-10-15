@@ -35,3 +35,4 @@
 - [I Don't Think ElasticSearch Is A Good Logging System (2021)](https://blog.sinkingpoint.com/posts/elasticsearch-logging/) ([HN](https://news.ycombinator.com/item?id=28679490))
 - [Eland](https://github.com/elastic/eland) - Python Elasticsearch client for exploring and analyzing data in Elasticsearch with a familiar Pandas-compatible API.
 - [Elasticsearch Node.js client](https://github.com/elastic/elasticsearch-js)
+- [Ansible Elasticsearch](https://github.com/elastic/ansible-elasticsearch)

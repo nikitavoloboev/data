@@ -70,3 +70,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Where/when/how do you feel the most at peace in your daily life? (2021)](https://merveilles.town/web/statuses/107040190832895713)
 - [Ask HN: People who cashed out early and stopped working: What is your life like? (2021)](https://news.ycombinator.com/item?id=28798089)
 - [Ask HN: What's the Point of Life? (2021)](https://news.ycombinator.com/item?id=28866558)
+- [80/20 changes that you've made in your life? Habits implemented that had huge impact. (2021)](https://twitter.com/stephsmithio/status/1448852379076546560)

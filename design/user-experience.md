@@ -15,6 +15,7 @@
 - [Every app should have a cmd+k command palette interface to search actions](https://twitter.com/seanrose/status/1438648231404003331)
 - [Right click logo to get press kit](https://twitter.com/michaelvillar/status/1445079259362562058)
 - [“Modal” is when user input goes into an alternate mode. It is _not_ an overlay window. Better language for an overlay window: “Dialog box” or “Pop-up window.”](https://twitter.com/rsms/status/1435636310371291137)
+- [Stripe's DX: 1. Docs have lots of examples. 2. Helpful error messages. 3. Testing mode. 4. Local dev experience with the CLI is so good. 5. Great-looking pre-built components.](https://twitter.com/thisismahmoud_/status/1448962093638631425)
 
 ## Links
 

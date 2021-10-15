@@ -38,6 +38,7 @@ Go promotes composition over inheritance.
 - [Name your package for what it provides, not what it contains.](https://www.reddit.com/r/golang/comments/mjok5b/help_me_with_golang_project_structures/)
 - [Just use channels on the fly to transfer data concurrently and be done with it.](https://www.reddit.com/r/golang/comments/o9ghpp/explain_go_concurrency_worker_pool_patterns_to_me/)
 - [To improve testability in my Go programs, the only thing I do in func main is call out to another function, passing in the ‘global’ things it needs. I can call run in test code like a normal function, and use a buffer for stdout (to make assertions about what it outputs.)](https://twitter.com/matryer/status/1445651886078525446)
+- [Don't use deferred functions in main(), don't call os.Exit/log.Fatal outside of main()](https://twitter.com/TitPetric/status/1449025794538360839)
 
 ## Links
 
@@ -557,3 +558,7 @@ Go promotes composition over inheritance.
 - [Type-Safe HTTP Servers in Go via Generics (2021)](https://hypirion.com/musings/type-safe-http-servers-in-go-via-generics)
 - [Hey linker, can you spare a meg? (2021)](https://tailscale.com/blog/go-linker/) ([Lobsters](https://lobste.rs/s/hynaq9/hey_linker_can_you_spare_meg))
 - [An Optimisation Story: Building a Code Scanner for Large Go Apps (2021)](https://blog.shiftleft.io/an-optimisation-story-building-a-code-scanner-for-large-golang-apps-efabd17258ea)
+- [asciicheck](https://github.com/tdakkota/asciicheck) - Simple linter to check that your code does not contain non-ASCII identifiers.
+- [Interfaces and Nil in Go, or, Don't Lie to Computers (2021)](http://www.jerf.org/iri/post/2957)
+- [Thoughts on structuring Go projects (2021)](https://twitter.com/matryer/status/1448611708851957760)
+- [State Machines in Go (2021)](https://mt165.co.uk/blog/state-machine-go/)

@@ -95,3 +95,5 @@
 - [Setting up a Solana Bigtable Instance](https://github.com/solana-labs/solana-bigtable)
 - [DeployDAO Migrator](https://github.com/DeployDAO/migrator) - Program for deploying and upgrading programs.
 - [Solana Founder Anatoly Yakovenko on scaling the blockchain to warp speed (2021)](https://overcast.fm/+JyEyaW_w)
+- [Solana Twitter List](https://twitter.com/i/lists/1426205888205918214) ([Tweet](https://twitter.com/joemccann/status/1448501295753531400))
+- [Create Solana Dapp with Next.JS](https://github.com/thuglabs/create-dapp-solana-nextjs)

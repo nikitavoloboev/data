@@ -27,7 +27,7 @@
 - [Prime](https://github.com/birkir/prime) - Standalone, self-hosted, headless CMS with a GraphQL interface powered by TypeScript.
 - [graphql-yoga](https://github.com/prisma/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client.
-- [urql](https://github.com/FormidableLabs/urql) - Highly customisable and versatile GraphQL client for React. ([Comparison](https://formidable.com/open-source/urql/docs/comparison/))
+- [urql](https://github.com/FormidableLabs/urql) - Highly customisable and versatile GraphQL client for React. ([Comparison](https://formidable.com/open-source/urql/docs/comparison/)) ([What makes urql different](https://graphcdn.io/blog/what-makes-urql-different))
 - [GraphQL + Suspense by Jared Palmer (2019)](https://www.youtube.com/watch?v=8mnaI8BpsmE)
 - [Tipple: Stealing Ideas From GraphQL And Putting Them To REST (2019)](https://formidable.com/blog/2019/tipple/)
 - [GraphQL Query Rewriter](https://github.com/ef-eng/graphql-query-rewriter) - Seamlessly turn breaking GraphQL changes into non-breaking changes.

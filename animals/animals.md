@@ -36,6 +36,7 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Gentle Bees](https://twitter.com/texasbeeworks/status/1370395889718681605)
 - [Don't give up](https://twitter.com/benphillips76/status/1376430374121828352)
 - [Rabbit surreptitiously stretches within reach of kisses](https://www.reddit.com/r/aww/comments/i3l7k4/how_to_surreptitiously_stretch_within_reach_of/)
+- [Level of devotion of sea otter mothers for their pups](https://twitter.com/Rainmaker1973/status/1448723919737872384)
 
 ## Links
 
@@ -100,3 +101,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Wonderful Life : The Burgess Shale and the Nature of History](https://www.bookdepository.com/Wonderful-Life-Stephen-Jay-Gould/9780393307009)
 - [Massive animal species discovered in half-billion-year-old Burgess Shale](https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old) ([HN](https://news.ycombinator.com/item?id=28462182))
 - [Modern Crocodiles Are Evolving at a Rapid Rate (2021)](https://www.smithsonianmag.com/science-nature/modern-crocodiles-are-evolving-rapid-rate-180978432/) ([HN](https://news.ycombinator.com/item?id=28808741))
+- [How Animals Map 3D Spaces Surprises Brain Researchers (2021)](https://www.quantamagazine.org/how-animals-map-3d-spaces-surprises-brain-researchers-20211014/)

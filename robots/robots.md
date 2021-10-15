@@ -105,3 +105,4 @@
 - [Learning Periodic Tasks from Human Demonstrations (2021)](https://yjy0625.github.io/projects/viptl/) ([Tweet](https://twitter.com/yjy0625/status/1445473084648034311))
 - [Towards Learning to Play Piano with Dexterous Hands and Touch (2021)](https://arxiv.org/abs/2106.02040)
 - [Bridge Data: Boosting Generalization of Robotic Skills with Cross-Domain Datasets (2021)](https://arxiv.org/abs/2109.13396) ([Web](https://sites.google.com/view/bridgedata)) ([Tweet](https://twitter.com/chelseabfinn/status/1447755432714330114))
+- [dm_robotics](https://github.com/deepmind/dm_robotics) - Libraries, tools and tasks created and used at DeepMind Robotics.

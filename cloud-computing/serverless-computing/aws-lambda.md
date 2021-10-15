@@ -80,3 +80,4 @@
 - [An ideal DX for Rust on AWS Lambda? (2021)](https://github.com/aws-samples/serverless-rust-demo/issues/4)
 - [AWS Lambda Cold Start Times (2021)](https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1) ([HN](https://news.ycombinator.com/item?id=28838716))
 - [Running Rust on AWS Lambda on ARM64 (2021)](https://www.ballpointcarrot.net/posts/rust-arm-lambdas/)
+- [AWS Lambda runtimes](https://github.com/architect/lambda-runtimes) - Canonical list of AWS Lambda runtime identifiers and corresponding CPU architectures.

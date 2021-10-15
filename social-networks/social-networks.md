@@ -132,3 +132,4 @@
 - [Pinterest](https://pinterest.com/) - Image sharing service. ([GitHub](https://github.com/pinterest))
 - [Fast Facebook Activity Deletion](https://github.com/marcelja/facebook-delete) - Clean up a Facebook account without deleting the entire account.
 - [And you will know us by the company we keep (2021)](https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep) ([HN](https://news.ycombinator.com/item?id=28829843))
+- [Unique on Facebook: Formulation and Evidence of (Nano)targeting Individual Users with non-PII Data (2021)](https://arxiv.org/abs/2110.06636) ([Tweet](https://twitter.com/ekr____/status/1448785267872071680))

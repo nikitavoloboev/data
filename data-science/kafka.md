@@ -64,3 +64,4 @@
 - [Exactly once delivery from Kafka to Delta Lake with Rust](https://github.com/delta-io/kafka-delta-ingest)
 - [Optimizing Kafka Performance (2021)](https://granulate.io/optimizing-kafka-performance/) ([Reddit](https://www.reddit.com/r/scala/comments/pr45zg/optimizing_kafka_performance/))
 - [What is Apache Kafka, and what are Kafka use cases? (2021)](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
+- [pg2kafka](https://github.com/blendle/pg2kafka) - Ship changes in Postgres to Kafka.

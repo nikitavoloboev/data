@@ -7,6 +7,7 @@
 - [TeaVM](http://teavm.org/) - Build Fast, Modern Web Apps in Java. ([Code](https://github.com/konsoletyper/teavm)) ([HN](https://news.ycombinator.com/item?id=25978053))
 - [Spring Framework](https://spring.io/projects/spring-framework) ([Code](https://github.com/spring-projects/spring-framework))
 - [Caffeine](https://github.com/ben-manes/caffeine) - High performance, near optimal caching library.
+- [Feign](https://github.com/OpenFeign/feign) - Java to HTTP client binder.
 
 ## GUI
 

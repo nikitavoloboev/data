@@ -400,5 +400,7 @@
 - [A-SDF: Learning Disentangled Signed Distance Functions for Articulated Shape Representation (2021)](https://arxiv.org/abs/2104.07645) ([Code](https://github.com/JitengMu/A-SDF))
 - [Resolution-robust Large Mask Inpainting with Fourier Convolutions (2021)](https://saic-mdal.github.io/lama-project/) ([Code](https://github.com/saic-mdal/lama))
 - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (2021)](https://arxiv.org/abs/2103.14030) ([Code](https://github.com/microsoft/Swin-Transformer))
-- [ADOP: Approximate Differentiable One-Pixel Point Rendering (2021)](https://arxiv.org/abs/2110.06635) ([Tweet](https://twitter.com/rodolfor/status/1448655222876741634))
+- [ADOP: Approximate Differentiable One-Pixel Point Rendering (2021)](https://arxiv.org/abs/2110.06635) ([Tweet](https://twitter.com/rodolfor/status/1448655222876741634)) ([Tweet](https://twitter.com/keenanisalive/status/1448708734511951879)) ([Code](https://github.com/darglein/ADOP))
 - [Patches Are All You Need? (2021)](https://openreview.net/forum?id=TVHS5Y4dNvM) ([Code](https://github.com/tmp-iclr/convmixer))
+- [ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation (2020)](https://arxiv.org/abs/2012.05258) ([Code](https://github.com/joe-siyuan-qiao/ViP-DeepLab))
+- [Video Panoptic Segmentation (2020)](https://arxiv.org/abs/2006.11339) ([Code](https://github.com/mcahny/vps))

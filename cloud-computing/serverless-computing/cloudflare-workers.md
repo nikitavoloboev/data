@@ -36,7 +36,7 @@
 - [saffron](https://github.com/cloudflare/saffron) - Cron parser powering Cron Triggers on Cloudflare Workers.
 - [Introduction to Cloudflare Workers Course](https://egghead.io/playlists/introduction-to-cloudflare-workers-5aa3)
 - [Cloudflare Workers Catalog](https://workers-catalog.pages.dev/) - Explore the existing Workers projects or just look for the right tooling for your next one. ([Code](https://github.com/eidam/cf-workers-catalog))
-- [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack platform for frontend developers to collaborate and deploy websites. ([HN](https://news.ycombinator.com/item?id=26778894))
+- [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack platform for frontend developers to collaborate and deploy websites. ([HN](https://news.ycombinator.com/item?id=26778894)) ([Tweet](https://twitter.com/CloudflareDev/status/1449038115042041862))
 - [workers-pubsub](https://github.com/sagi/workers-pubsub) - Google Pub/Sub API for Cloudflare Workers (and Node.js).
 - [db-connect](https://github.com/cloudflare/db-connect) - Connect your SQL database to Cloudflare Workers.
 - [cf-workers](https://github.com/kv-orm/cf-workers) - Cloudflare Workers KV datastore plugin for kv-orm.

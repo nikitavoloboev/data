@@ -294,3 +294,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Письмо Алексея Навального, адресованное его сотрудникам и соратникам (2021)](https://meduza.io/feature/2021/10/13/poka-tochno-ne-yasno-kakim-zverem-my-stanem-no-tochno-krasivym)
 - [Почему в колониях все время пытают людей? (2021)](https://meduza.io/feature/2021/10/13/mnogie-zaklyuchennye-sami-provotsiruyut) ([Tweet](https://twitter.com/sult/status/1448214492068843521))
 - [Блестящая речь экс-президента Эстонии об Алексее Навальном, России и Западе (2021)](https://www.youtube.com/watch?v=EWdDStlnmxc)
+- [«Наступил Советский союз»: Гельман — о нападении на «Мемориал» и перспективах оппозиции в России (2021)](https://www.youtube.com/watch?v=OlE0dRgdJWU)
+- [Gulagu.net](https://gulagu-net.ru/) - Project against corruption and torture in Russia. ([ФСИН-гейт: как пытки в колониях становятся системой](https://www.youtube.com/watch?v=m4U78EqcqVE))

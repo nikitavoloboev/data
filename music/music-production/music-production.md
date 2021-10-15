@@ -109,6 +109,7 @@
 - [Sorrygle](https://github.com/JJoriping/Sorrygle) - Text-based MIDI writing language and its compiler.
 - [Twang](https://github.com/AldaronLau/twang) - Library for pure Rust advanced audio synthesis.
 - [Leipzig](https://github.com/ctford/leipzig) - Music composition library for Clojure and ClojureScript.
+- [DawDreamer](https://github.com/DBraun/DawDreamer) - Audio-processing Python framework supporting core DAW features.
 
 ## Inspiration
 
@@ -259,3 +260,5 @@
 - [Computer Music Instruments - Foundations, Design and Development Book (2017)](https://www.springer.com/gp/book/9783319635033) ([Examples](https://github.com/vlazzarini/instruments))
 - [Sound and Music Analysis (SoMA) Group](https://somagroup.co.uk/) ([Twitter](https://twitter.com/dmtlab_bcu))
 - [Music Demixing Workshop 2021](https://mdx-workshop.github.io/) ([Code](https://github.com/mdx-workshop/mdx-workshop.github.io))
+- [Music Composer](https://github.com/sberbank-ai/music-composer)
+- [Musicians on Musicians: Lorde & David Byrne (2021)](https://www.rollingstone.com/music/music-features/lorde-david-byrne-musicians-on-musicians-1239284/) ([Tweet](https://twitter.com/RollingStone/status/1448982257360850944))

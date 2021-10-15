@@ -100,3 +100,5 @@
 - [New Testing Features in Django 4.0 (2021)](https://adamj.eu/tech/2021/09/28/new-testing-features-in-django-4.0/)
 - [High Performance Django (2014)](https://lincolnloop.com/high-performance-django/)
 - [New Testing Features in Django 4.0 (2021)](https://adamj.eu/tech/2021/09/28/new-testing-features-in-django-4.0/)
+- [Model Bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django.
+- [The Decline of Django (2021)](https://www.david-dahan.com/blog/the-decline-of-django) ([HN](https://news.ycombinator.com/item?id=28863465))

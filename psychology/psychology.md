@@ -32,3 +32,5 @@
 - [Why Is It So Hard to Be Rational? (2021)](https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational) ([HN](https://news.ycombinator.com/item?id=28197482))
 - [PsychoPy](https://www.psychopy.org/) - For running psychology and neuroscience experiments. ([Code](https://github.com/psychopy/psychopy))
 - [Psychonetics: A nerd's toolset to work with mind and perception](http://deconcentration-of-attention.com/psychonetics.html) ([HN](https://news.ycombinator.com/item?id=28838445))
+- [Эмоционально недоступные родители и их дети](https://twitter.com/wizard_severus/status/1448897620253024258)
+- [Три чашки психологии Telegram](https://t.me/tiredpsychologist)

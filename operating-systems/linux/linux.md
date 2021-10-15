@@ -388,3 +388,4 @@
 - [Beginner's Guide to eBPF Programming for Networking](https://github.com/lizrice/ebpf-networking)
 - [How does apt render its fancy progress bar? (2021)](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html) ([HN](https://news.ycombinator.com/item?id=28850036))
 - [rust-vmm Community](https://github.com/rust-vmm/community) - Open-source project that empowers the community to build custom Virtual Machine Monitors (VMMs) and hypervisors.
+- [Learning Modern Linux](https://modern-linux.info/) - Handbook for the Cloud Native Practitioner. ([Code](https://github.com/mhausenblas/modern-linux.info))

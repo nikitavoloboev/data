@@ -45,6 +45,7 @@
 - [TensorKit.jl](https://github.com/Jutho/TensorKit.jl) - Julia package for large-scale tensor computations, with a hint of category theory.
 - [SymbolicRegression.jl](https://github.com/MilesCranmer/SymbolicRegression.jl) - Distributed High-Performance symbolic regression in Julia.
 - [NeuralPDE](https://github.com/SciML/NeuralPDE.jl) - Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations for Scientific Machine Learning (SciML) accelerated simulation.
+- [SweepContractor.jl](https://github.com/chubbc/SweepContractor.jl) - Julia package for the contraction of tensor networks using the sweep-line-based contraction algorithm.
 
 ## Math
 
@@ -301,6 +302,9 @@
 - [DynamicHMC](https://github.com/tpapp/DynamicHMC.jl) - Implementation of robust dynamic Hamiltonian Monte Carlo methods (NUTS) in Julia.
 - [Clang](https://github.com/JuliaInterop/Clang.jl) - Julia interface to libclang.
 - [InverseFunctions.jl](https://github.com/JuliaMath/InverseFunctions.jl) - Defines an interface to invert functions.
+- [Rematch](https://github.com/RelationalAI-oss/Rematch.jl) - Pattern matching.
+- [Salsa.jl](https://github.com/RelationalAI-oss/Salsa.jl) - Framework for on-demand, incremental computation via memoization, inspired by Rust lang's salsa-rs/salsa.
+- [Blobs](https://github.com/RelationalAI-oss/Blobs.jl) - Binary blobs with on-the-fly pointer patching.
 
 ## Links
 

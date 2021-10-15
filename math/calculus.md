@@ -19,3 +19,5 @@
 - [Mila Computer Calculus RG](https://compcalc.github.io/) - Reading about differential, integral and logical calculi. ([Code](https://github.com/compcalc/compcalc.github.io)) ([HN](https://news.ycombinator.com/item?id=27004278))
 - [Why learn Calculus? (2021)](https://www.reddit.com/r/learnmath/comments/n34jx5/why_learn_calculus/)
 - [Elementary Calculus: An Infinitesimal Approach (2000)](https://people.math.wisc.edu/~keisler/calc.html) ([HN](https://news.ycombinator.com/item?id=27367104))
+- [Sequences and Series course](https://github.com/kisonecat/sequences-and-series)
+- [Multivariable calculus course](https://github.com/kisonecat/m2o2c2)

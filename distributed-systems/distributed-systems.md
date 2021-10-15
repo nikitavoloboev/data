@@ -83,7 +83,7 @@
 - [Teleforking a process onto a different computer! (2020)](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/) ([HN](https://news.ycombinator.com/item?id=22987747)) ([Code](https://github.com/trishume/telefork))
 - [Debugging Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/2927299.2940294) ([HN](https://news.ycombinator.com/item?id=22993377))
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
-- [Temporal](https://temporal.io/) - Open source microservices orchestration engine for running mission critical code at any scale. ([Code](https://github.com/temporalio/temporal)) ([Docs](https://docs.temporal.io/docs/get-started/)) ([Why I joined Temporal](https://docs.temporal.io/blog/sergey-why-i-joined-temporal/)) ([Go SDK](https://github.com/temporalio/sdk-go))
+- [Temporal](https://temporal.io/) - Open source microservices orchestration engine for running mission critical code at any scale. ([Code](https://github.com/temporalio/temporal)) ([Docs](https://docs.temporal.io/docs/get-started/)) ([Why I joined Temporal](https://docs.temporal.io/blog/sergey-why-i-joined-temporal/)) ([Go SDK](https://github.com/temporalio/sdk-go)) ([Talk](https://www.youtube.com/watch?v=WRYozSljSpw))
 - [Temporalite](https://github.com/DataDog/temporalite) - Distribution of Temporal that runs as a single process with zero runtime dependencies.
 - [Stateright](https://github.com/stateright/stateright) - Model checker for implementing distributed systems. ([HN](https://news.ycombinator.com/item?id=27413084))
 - [Arvind Krishnamurthy's research](https://www.cs.washington.edu/people/faculty/arvind)

@@ -291,3 +291,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [FFmpeg to WebRTC](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from FFmpeg to WebRTC. ([HN](https://news.ycombinator.com/item?id=28614454))
 - [µStreamer](https://github.com/pikvm/ustreamer) - Lightweight and fast MJPG-HTTP streamer.
 - [8 tips to improve Zoom video calls (2021)](https://twitter.com/TrungTPhan/status/1448675891425337345)
+- [Video Download Tool](https://videodownloadtool.io/) - Download videos, but only the parts you want. ([HN](https://news.ycombinator.com/item?id=28854823))

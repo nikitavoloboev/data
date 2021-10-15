@@ -47,3 +47,4 @@
 - [Certifi](https://github.com/certifi/python-certifi) - Provides Mozilla's carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
 - [Staging TLS Certificates: Make every deployment a safe deployment (2021)](https://blog.cloudflare.com/staging-tls-certificate-every-deployment-safe-deployment/)
 - [Handshake Encryption: Endgame (an ECH update) (2021)](https://blog.cloudflare.com/handshake-encryption-endgame-an-ech-update/)
+- [Introducing SSL/TLS Recommender (2021)](https://blog.cloudflare.com/ssl-tls-recommender/) ([Tweet](https://twitter.com/paraacha/status/1448899607602384902))

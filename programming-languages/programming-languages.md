@@ -249,3 +249,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Project Verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership. ([Web](https://microsoft.github.io/verona/)) ([Lobsters](https://lobste.rs/s/bh2epv/project_verona))
 - [Beyond ProgrammingLanguages (1979)](https://john.cs.olemiss.edu/~dwilkins/Seminar/S05/winogradPL.pdf) ([Lobsters](https://lobste.rs/s/k0cucj/beyond_programming_languages_1979))
 - [tree-sitter-graph](https://github.com/tree-sitter/tree-sitter-graph) - Construct graphs from parsed source code.
+- [Correct by Construction Language Implementations (2021)](https://ajrouvoet.github.io/files/thesis.pdf) ([Tweet](https://twitter.com/PerezJorgeA_/status/1448902148264284164))

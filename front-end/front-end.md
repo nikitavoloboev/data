@@ -70,3 +70,4 @@
 - [What has your frontend stack journey been so far? (2021)](https://twitter.com/geddski/status/1440762195223089164)
 - [Tips, Tricks, Best Practices for front-end development](https://getfrontend.tips/) ([Code](https://github.com/1milligram/frontend-tips))
 - [How height.app website was rebuilt from ground up (2021)](https://twitter.com/michaelvillar/status/1445079229415239698)
+- [Словари по фронтенду](https://github.com/web-standards-ru/dictionary)

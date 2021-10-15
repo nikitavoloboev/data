@@ -47,3 +47,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [4mmc Synthesis](https://pdfcoffee.com/4mmc-synthesis-pdf-free.html)
 - [The Hive Archive](https://chemistry.mdma.ch/hiveboard/)
 - [What is the longest lasting drug? (2021)](https://www.reddit.com/r/researchchemicals/comments/q43pno/what_is_the_longest_lasting_drug/)
+- [Smoking, Genetics and Schizophrenia: Evidence for Self Medication (2007)](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2613326/) ([Reddit](https://www.reddit.com/r/Drugs/comments/q889gb/when_i_went_from_8_cigarettes_a_day_to_0_my/))

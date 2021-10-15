@@ -782,6 +782,7 @@
 - [Swift Jaeger Client](https://github.com/slashmo/jaeger-client-swift) - Jaeger Client built for Swift Distributed Tracing.
 - [OpenTelemetry API for Swift](https://github.com/open-telemetry/opentelemetry-swift)
 - [Doctor Pretty](https://github.com/bkase/DoctorPretty) - Wadler's "A prettier printer" embedded pretty-printer DSL for Swift.
+- [Environment](https://github.com/wlisac/environment) - Type-safe environment variables in Swift.
 
 ## Other (not lib)
 

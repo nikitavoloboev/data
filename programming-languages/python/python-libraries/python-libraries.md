@@ -105,6 +105,7 @@
 
 ## DB
 
+- [GINO](https://github.com/python-gino/gino) - Not ORM - is a lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
 - [SQLModel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) - Python SQL Toolkit and Object Relational Mapper.
 - [sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy.
@@ -126,6 +127,7 @@
 - [Piccolo](https://github.com/piccolo-orm/piccolo) - Fast, user friendly ORM and query builder which supports asyncio. ([Web](https://piccolo-orm.com/))
 - [Alembic](https://github.com/sqlalchemy/alembic) - Database migrations tool for SQLAlchemy.
 - [data_algebra](https://github.com/WinVector/data_algebra) - Codd method-chained SQL generator and Pandas data processing in Python.
+- [pytest-postgresql](https://github.com/ClearcodeHQ/pytest-postgresql) - Pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database.
 
 ## GUI
 
@@ -272,7 +274,7 @@
 - [Hask](https://github.com/billpmurphy/hask) - Haskell language features and standard libraries in pure Python. ([HN](https://news.ycombinator.com/item?id=24540937))
 - [Fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [environs](https://github.com/sloria/environs) - Python library for parsing environment variables.
-- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python.
+- [Zappa](https://github.com/zappa/Zappa) - Serverless Python.
 - [Falkon](https://github.com/FalkonML/falkon) - Python implementation of the Falkon algorithm for large-scale, approximate kernel ridge regression.
 - [tomotopy](https://github.com/bab2min/tomotopy) - Python extension of tomoto (Topic Modeling Tool) which is a Gibbs-sampling based topic model library written in C++.
 - [magicimport.py](https://github.com/dheera/magicimport.py) - Python code that fetches its dependencies without complaining. ([HN](https://news.ycombinator.com/item?id=24735303))
@@ -500,6 +502,9 @@
 - [glum](https://github.com/Quantco/glum) - High performance Python GLMs with all the features.
 - [fnn](https://github.com/williamgilpin/fnn) - Embed strange attractors using a regularizer for autoencoders.
 - [cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects.
+- [charset_normalizer](https://github.com/Ousret/charset_normalizer) - Helps you read text from an unknown charset encoding.
+- [timemachines](https://github.com/microprediction/timemachines) - Continuously evaluated, functional, incremental, time-series forecasting.
+- [immutables](https://github.com/MagicStack/immutables) - High-performance immutable mapping type for Python.
 
 ## Links
 

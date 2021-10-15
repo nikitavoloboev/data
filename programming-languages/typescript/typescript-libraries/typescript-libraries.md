@@ -7,6 +7,7 @@
 - [Mammoth](https://github.com/Ff00ff/mammoth) - Type-safe Postgres query builder for TypeScript.
 - [Schemats](https://github.com/vramework/schemats) - Postgres to TypeScript Interfaces and Enums. ([HN](https://news.ycombinator.com/item?id=27570058))
 - [sql-dsl](https://github.com/aldy505/sql-dsl) - SQL DSL for your Node App.
+- [IDB-Keyval](https://github.com/jakearchibald/idb-keyval) - Super-simple-small promise-based keyval store implemented with IndexedDB.
 
 ## Web
 
@@ -163,6 +164,7 @@
 - [Funfix](https://github.com/funfix/funfix) - Functional Programming Library for JavaScript, TypeScript.
 - [typeconv](https://github.com/grantila/typeconv) - Convert between JSON Schema, TypeScript, GraphQL, Open API and SureType.
 - [multicloud-jwt](https://github.com/joaomilho/multicloud-jwt) - JWT that works both on AWS and GCP's KMS.
+- [ts-extras](https://github.com/sindresorhus/ts-extras) - Essential utilities for TypeScript projects.
 
 ## Links
 

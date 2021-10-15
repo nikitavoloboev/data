@@ -364,3 +364,4 @@
 - [ELECTRA](https://github.com/google-research/electra) - Pre-training Text Encoders as Discriminators Rather Than Generators.
 - [OpenPrompt](https://github.com/thunlp/OpenPrompt) - Open-Source Toolkit for Prompt-Learning.
 - [Unsupervised Neural Machine Translation with Generative Language Models Only (2021)](https://arxiv.org/abs/2110.05448) ([Tweet](https://twitter.com/jessemhan/status/1447793397675220997))
+- [Grounding Spatio-Temporal Language with Transformers (2021)](https://arxiv.org/abs/2106.08858) ([Code](https://github.com/flowersteam/spatio-temporal-language-transformers/))

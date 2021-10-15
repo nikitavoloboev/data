@@ -11,7 +11,7 @@
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 - [SICP](http://sarabander.github.io/sicp/html/index.xhtml)
 - [Lisp-like DSL for Rust language](https://github.com/JunSuzukiJapan/macro-lisp)
-- [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications.
+- [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications. ([HN](https://news.ycombinator.com/item?id=28875051))
 - [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html) ([HN](https://news.ycombinator.com/item?id=18225870)) ([HN 2](https://news.ycombinator.com/item?id=23163596))
 - [ELS 2018 Keynote: This Old Lisp](https://www.youtube.com/watch?v=MgVuqPgKJQc)
 - [Parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp.
@@ -145,3 +145,4 @@
 - [Tiny Scheme-like Lisp interpreter written in a weekend](https://github.com/fragglet/yoctolisp/blob/master/yoctolisp.md) ([HN](https://news.ycombinator.com/item?id=28815724))
 - [jrsonnet](https://github.com/CertainLach/jrsonnet) - Rust implementation of Jsonnet language.
 - [The Problem with Macros (2021)](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/) ([HN](https://news.ycombinator.com/item?id=28845971)) ([Lobsters](https://lobste.rs/s/d0hogq/problem_with_macros))
+- [sexp-fmt](https://github.com/returntocorp/sexp-fmt) - Basic S-expression formatter.

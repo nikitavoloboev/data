@@ -29,3 +29,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [The Difference Between Anamorphic And Spherical Lenses Explained (2020)](https://www.youtube.com/watch?v=hzuFRgSUIyU)
 - [Как снимает Дени Вильнёв и чем хороша «Дюна» (2021)](https://www.youtube.com/watch?v=I1xbNXQ3Nvw)
 - [Как снимал Андрей Тарковский (2021)](https://www.youtube.com/watch?v=sAxrBwdNQSs)
+- [How Filmmakers Make Cameras Disappear | Mirrors in Movies (2021)](https://www.youtube.com/watch?v=VASwKZAUVSo)

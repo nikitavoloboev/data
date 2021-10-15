@@ -90,3 +90,4 @@
 - [C-Blosc2](https://github.com/Blosc/c-blosc2) - Fast, compressed and persistent data store library for C.
 - [Blitsort](https://github.com/scandum/blitsort) - Rotate merge sort based on quadsort.
 - [Stricks](https://github.com/alcover/stricks) - Managed C strings library.
+- [Zpoline](https://github.com/yasukata/zpoline) - Efficient and versatile system call hook mechanism.

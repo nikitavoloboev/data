@@ -61,3 +61,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Dassana's Veg Recipes](https://www.vegrecipesofindia.com/) - Vegetarian Indian & World Recipes Food Blog.
 - [Just the Recipe](https://www.justtherecipe.com/) - Get just the ingredients and instructions for any recipe.
 - [Tasty](https://tasty.co/) - Food videos and recipes.
+- [Munchy](https://joinmunchy.com/) - Discover recipes you'll love.

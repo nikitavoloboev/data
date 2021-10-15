@@ -56,6 +56,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [NFTs are a Ponzi scheme, corroborated by many reputable sources.](https://twitter.com/castpixel/status/1438063396772007937)
 - [Person: web3 is empowering creators! Me: Oh so it's like a decentralized network like mastodon? Person: no it's like web 2.0 plus blockchain.](https://twitter.com/ReinH/status/1442536279409774597)
 - [I would read an essay about how appeals to "community" in crypto have totally obscured power relations, governance, who makes money, and who's scamming who. This is an industry (wildly anarchic, unregulated, unequal, run by capital), not a community.](https://twitter.com/mims/status/1448253915976421376)
+- [How NFTs can be used for money laundering: Someone pays "for the NFT" when they're actually paying for something illicit. Having the NFT can make it appear to be a legitimate transaction, so they can deposit the funds without the IRS losing their mind.](https://twitter.com/sageheroRC/status/1449020958463901702)
 
 ## Links
 
@@ -247,3 +248,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Web 3.0: Build money stuff and figure out some non-speculative use for it later (2021)](https://twitter.com/pinboard/status/1448007556656369666)
 - [NFT, but the image renders differently based on who's looking at it (2021)](https://twitter.com/moxie/status/1448066579611234305)
 - [A Guide to Designing Effective NFT Launches (2021)](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)
+- [Artist Spotlight: Divergence and the Art of On-Chain Artwork NFTs (2021)](https://www.proof.xyz/brotchain-generative-art-built-entirely-on-blockchain/) ([Tweet](https://twitter.com/kevinrose/status/1449033168967766031))
+- [Why NFT can be worth anything? (2021)](https://twitter.com/kelseyhightower/status/1449126496107315200)

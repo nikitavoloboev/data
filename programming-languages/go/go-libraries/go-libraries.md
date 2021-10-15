@@ -27,7 +27,7 @@
 - [Viper](https://github.com/spf13/viper) - Go configuration with fangs.
 - [Echelon](https://github.com/cirruslabs/echelon) - Hierarchical progress in terminals.
 - [go-glint](https://github.com/mitchellh/go-glint) - Component-based UI framework specifically targeted towards command-line interfaces.
-- [PTerm](https://github.com/pterm/pterm) - Modern go module to beautify console output.
+- [PTerm](https://github.com/pterm/pterm) - Modern go module to beautify console output. ([Reddit](https://www.reddit.com/r/golang/comments/q82dyc/pterm_a_go_module_to_beautify_console_output/))
 - [Box CLI Maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI.
 - [Env](https://github.com/xyproto/env) - Provide default values when fetching environment variables.
 - [Multi Progress Bar](https://github.com/vbauerster/mpb) - Go lib for rendering progress bars in terminal applications.
@@ -78,6 +78,7 @@
 - [dockertest](https://github.com/ory/dockertest) - Use Docker to run your Go language integration tests against third party services.
 - [go-test-trace](https://github.com/rakyll/go-test-trace) - Go test but it also generates distributed traces.
 - [Hazana](https://github.com/emicklei/hazana) - Build load tests for services (http, gRPC, tcp) by implementing an Attacker.
+- [Truthy](https://github.com/carlmjohnson/truthy) - Provides truthy condition testing with Go generics.
 
 ## Web
 
@@ -193,6 +194,7 @@
 - [Semaphore](https://github.com/jexia/semaphore) - Create advanced and high performing data flows and expose them through endpoints over multiple protocols such as HTTP, GraphQL, and gRPC.
 - [Commander](https://github.com/jeroenrinzema/commander) - Go library for writing event-driven applications. Enabling event sourcing, RPC over messages, SAGA's, bidirectional streaming and more.
 - [socket](https://github.com/mdlayher/socket) - Provides a low-level network connection type which integrates with Go's runtime network poller to provide asynchronous I/O and deadline support.
+- [Kyoto](https://github.com/yuriizinets/kyoto) - Build Front End with Go. ([Web](https://kyoto.codes/)) ([HN](https://news.ycombinator.com/item?id=28862611))
 
 ## GraphQL
 
@@ -989,6 +991,7 @@
 - [Go-string](https://github.com/boyter/go-string) - Useful Go String methods.
 - [oversight](https://github.com/cirello-io/oversight) - Erlang-like supervisor trees.
 - [Downsampling Algorithm](https://github.com/haoel/downsampling-algorithm) - Downsampling time series data algorithm in Go.
+- [Go-ReJSON](https://github.com/nitishm/go-rejson) - Go client for ReJSON Redis Module.
 
 ## Links
 

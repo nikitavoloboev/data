@@ -125,3 +125,4 @@
 - [BackgroundRemover.app](https://backgroundremover.app/) - Command line tool to remove background from video and image. ([Code](https://github.com/nadermx/backgroundremover))
 - [Using Modern Image Formats: AVIF And WebP (2021)](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)
 - [didder](https://github.com/makeworld-the-better-one/didder) - Extensive, fast, and accurate command-line image dithering tool.
+- [GL Transitions](https://gl-transitions.com/) - Powerful and easy to learn language, perfect for image effects. ([Code](https://github.com/gl-transitions/gl-transitions))

@@ -327,3 +327,4 @@
 - [Google Cloud Gives Spanner a PostgreSQL Interface (2021)](https://www.datanami.com/2021/10/12/google-cloud-gives-spanner-a-postgresql-interface/) ([HN](https://news.ycombinator.com/item?id=28844770))
 - [StackGres](https://stackgres.io/) - Enterprise Postgres made easy. On Kubernetes. ([Code](https://github.com/ongres/stackgres/))
 - [OnGres](https://www.ongres.com/) - PostgreSQL Professional Services & Products. ([Twitter](https://twitter.com/ongresinc))
+- [Postgres text search: balancing query time and relevancy (2021)](https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/) ([HN](https://news.ycombinator.com/item?id=28873779))

@@ -88,7 +88,7 @@
 - [Getting noticed as a remote engineer (2020)](https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/) ([HN](https://news.ycombinator.com/item?id=24702397))
 - [Slite Remote Coaching](https://slite.com/remote-chat) - Schedule a 30 min chat to untangle remote work.
 - [We Work Remotely](https://weworkremotely.com/) - Remote jobs in design, programming, marketing and more.
-- [RemoteOK](https://remoteok.io/) - Remote Jobs in Programming, Design, Sales and more.
+- [RemoteOK](https://remoteok.io/) - Remote Jobs in Programming, Design, Sales and more. ([Open Startup](https://remoteok.io/open)) ([HN](https://news.ycombinator.com/item?id=28873956))
 - [FreshRemote.work](https://freshremote.work/) - Fresh Remote Jobs Anywhere.
 - [Remote Work Jobs](https://remoteworkjobs.io/) - Simple remote work jobs board.
 - [Remotely People](https://remotelypeople.com/) - Worldwide Remote jobs in design, marketing, programming.

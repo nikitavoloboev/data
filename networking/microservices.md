@@ -1,5 +1,7 @@
 # Microservices
 
+[Temporal](https://temporal.io) seems interesting.
+
 ## Notes
 
 - [Microservices; the act of replacing every SQL query with a gRPC call.](https://twitter.com/davecheney/status/1296033304756404225)

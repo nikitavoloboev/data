@@ -80,3 +80,5 @@
 - [Performance testing using XCTest (2021)](https://cornerbit.tech/performance-testing-using-xctest/)
 - [iSimulator](https://github.com/wigl/iSimulator) - GUI utility to control the Simulator, and manage the app installed on the simulator.
 - [SBTUITestTunnel](https://github.com/Subito-it/SBTUITestTunnel) - Enable network mocks and more in UI Tests.
+- [XCHammer](https://github.com/pinterest/xchammer) - Generates Xcode projects from a Bazel Workspace.
+- [XcodeArchiveCache](https://github.com/sweatco/xcode-archive-cache) - Native targets cache for Xcode archive builds.

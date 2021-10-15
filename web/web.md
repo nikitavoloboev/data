@@ -281,7 +281,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [You have one shot to redesign the Internet. What are you going to change? (2021)](https://news.ycombinator.com/item?id=27663618)
 - [Morty](https://github.com/asciimoo/morty) - Privacy aware web content sanitizer proxy as a service.
 - [Vite SSR Starter](https://github.com/s-kris/vite-ssr-starter) - Quickly build full-stack webapps with SSR using vitejs.
-- [cdnjs](https://cdnjs.com/) - Free and open source CDN built to make life easier for developers.
+- [cdnjs](https://cdnjs.com/) - Free and open source CDN built to make life easier for developers. ([Packages Code](https://github.com/cdnjs/packages))
 - [Remote code execution in cdnjs of Cloudflare (2021)](https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/) ([HN](https://news.ycombinator.com/item?id=27853434))
 - [StaticShield](https://github.com/Lalit2005/staticshield) - Easiest way to password protect your static and dynamic sites. ([Web](https://staticshield.vercel.app/))
 - [URLs: It's complicated (2021)](https://www.netmeister.org/blog/urls.html) ([HN](https://news.ycombinator.com/item?id=27588306))
@@ -316,3 +316,6 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021) ([HN](https://news.ycombinator.com/item?id=28818829))
 - [Дока](https://doka.guide/) - Документация для разработчиков на человеческом языке. ([Code](https://github.com/doka-guide/content)) ([Tweet](https://twitter.com/ABatickaya/status/1447955564068286464))
 - [12ft Ladder](https://12ft.io/) - Hop the paywalls.
+- [Веб-стандарты](https://web-standards.ru/) ([GitHub](https://github.com/web-standards-ru))
+- [The Web’s Grain (2015)](https://frankchimero.com/blog/2015/the-webs-grain/)
+- [The Single-Page-App Morality Play (2021)](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/) ([HN](https://news.ycombinator.com/item?id=28876583)) ([Tweet](https://twitter.com/fakebaldur/status/1434873556903636996))

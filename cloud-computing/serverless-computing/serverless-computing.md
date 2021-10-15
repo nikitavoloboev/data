@@ -40,7 +40,7 @@
 - [Fauna](https://fauna.com/) - Database built for serverless, featuring native GraphQL.
 - [OpenFaaS](https://www.openfaas.com/) - Makes it simple to deploy both functions and existing code to Kubernetes. ([Code](https://github.com/openfaas/faas))
 - [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - Managed OpenFaaS for teams.
-- [Serverless](https://serverless.com/) - Serverless application framework powered by AWS Lambda. ([Code](https://github.com/serverless/serverless))
+- [Serverless](https://serverless.com/) - Serverless application framework powered by AWS Lambda. ([Code](https://github.com/serverless/serverless)) ([Cloud](https://www.serverless.com/cloud)) ([Cloud Code](https://github.com/serverless/cloud))
 - [Is Google Cloud Run really Knative? (2020)](https://ahmet.im/blog/cloud-run-is-a-knative/)
 - [Serverless Jetpack](https://github.com/FormidableLabs/serverless-jetpack) - Faster JavaScript packager for Serverless applications. ([Article](https://formidable.com/blog/2020/jetpack-trace-your-way-to-faster-and-smaller-serverless-packages/))
 - [Living On The Edge: Lazy Static Sites With Modern CDNs And Lambda (2020)](https://formidable.com/blog/2019/modern-cdns-lambda/)

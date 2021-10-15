@@ -35,6 +35,7 @@
 - [jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. ([Web](https://jte.gg/))
 - [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization.
 - [Odyssey](https://github.com/AlexGladkov/Odyssey) - Declarative multiplatform navigation library for Multiplatform Compose.
+- [Micro Template](https://github.com/polarene/micro-template) - Tiny and simple text templating library for Kotlin.
 
 ## Links
 

@@ -586,3 +586,4 @@
 - [Crust of Rust: functions, closures, and their traits (2021)](https://www.youtube.com/watch?v=dHkzSZnYXmk)
 - [Rust and GCC, two different ways (2021)](https://lwn.net/SubscriberLink/871283/c437c1364397e70e/)
 - [Designing an API Client in Rust: New Rspotify Version a Year Later (2021)](https://nullderef.com/blog/web-api-client/)
+- [Contributing to Rust std (2021)](https://www.mdaverde.com/posts/contributing-to-rust-std/)

@@ -2,6 +2,7 @@
 
 ## ML
 
+- [JarvisLabs.ai](https://cloud.jarvislabs.ai/) - One of the best pricing for renting compute. ([Tweet](https://twitter.com/bhutanisanyam1/status/1448971253654556674))
 - [Paperspace](https://www.paperspace.com/) - Effortless infrastructure for Machine Learning and Data Science.
 - [Google Cloud](https://cloud.google.com/) - Has generous [free tier](https://cloud.google.com/free/).
 - [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - Build, train, and deploy machine learning models at scale.

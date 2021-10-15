@@ -194,7 +194,7 @@
 - [nix-graph](https://github.com/awakesecurity/nix-graph) - Reify the Nix build graph into a Haskell graph data structure.
 - [Digga](https://github.com/divnix/digga) - Feature rich and configurable framework for harnessing Nix Flakes.
 - [Nix solves the package manager ejection problem (2021)](https://zeroindexed.com/nix-ejection-problem) ([HN](https://news.ycombinator.com/item?id=27344677))
-- [Cross compilation using Nix](https://nix.dev/tutorials/cross-compilation)
+- [Cross compilation using Nix](https://nix.dev/tutorials/cross-compilation) ([Tweet](https://twitter.com/burdiyan/status/1448778093188030464))
 - [nix-std](https://github.com/chessai/nix-std) - no-nixpkgs standard library for the nix expression language.
 - [Nix unstable installer](https://github.com/numtide/nix-unstable-installer) - Place to host Nix unstable releases.
 - [Nix Learning](https://github.com/humancalico/nix-learning) - Links to blog posts, articles, videos, etc for learning Nix.
@@ -214,3 +214,4 @@
 - [dream2nix](https://github.com/DavHau/dream2nix) - Generic framework for 2nix converters (converting from other build systems to nix).
 - [Novice Nix: Flake Templates (2021)](https://peppe.rs/posts/novice_nix:_flake_templates/)
 - [Personal provisioning machines with Nix](https://github.com/shajra/shajra-provisioning)
+- [Issues you encountered learning Nix? (2021)](https://twitter.com/theprincessxena/status/1448984266071752721)

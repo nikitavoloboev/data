@@ -494,7 +494,7 @@
 - [Signature Pad](https://github.com/szimek/signature_pad) - JavaScript library for drawing smooth signatures.
 - [dom-to-image-retina](https://github.com/egoist/dom-to-image-retina) - dom-to-image but generates high-resolution images.
 - [loglevel](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
-- [Perfect Freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect freehand lines.
+- [Perfect Freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect freehand lines. ([Demo](https://perfect-freehand-example.vercel.app/))
 - [Alo](https://github.com/alojs/alo) - Full-fledged state management. ([Docs](http://www.alojs.com/index.html))
 - [Form-Data](https://github.com/form-data/form-data) - Library to create readable "multipart/form-data" streams. Can be used to submit forms and file uploads to other web applications.
 - [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
@@ -622,6 +622,7 @@
 - [Graph Dracula](https://github.com/strathausen/dracula) - JavaScript Graph Library.
 - [date-io](https://github.com/dmtrKovalenko/date-io) - Abstraction over common JavaScript date management libraries.
 - [sdf-csg](https://github.com/wwwtyro/sdf-csg) - Generate meshes from signed distance functions and constructive solid geometry operations.
+- [littlefoot](https://github.com/goblindegook/littlefoot) - Lightweight JavaScript library that creates exceptional footnotes. ([Web](https://littlefoot.js.org/))
 
 ## Links
 
@@ -643,3 +644,5 @@
 - [Dual Publish](https://github.com/ai/dual-publish) - Publish JS project as dual ES modules and CommonJS package to npm.
 - [Clean Publish](https://github.com/shashkovdanil/clean-publish) - Removing configuration files and fields in package.json before publishing to npm.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
+- [install-pkg](https://github.com/antfu/install-pkg) - Install package programmatically. Detect package managers automatically (npm, yarn and pnpm).
+- [npm-search](https://github.com/algolia/npm-search) - Failure resilient npm registry to Algolia index replication process.

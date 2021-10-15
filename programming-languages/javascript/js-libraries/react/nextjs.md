@@ -87,6 +87,7 @@
 - [next-useragent](https://github.com/tokuda109/next-useragent) - Parses browser user-agent strings for next.js.
 - [Next Opengraph Image](https://github.com/alvarlagerlof/next-opengraph-image) - Generate Open Graph images for Next.js on build.
 - [nextjs-breadcrumbs](https://github.com/NiklasMencke/nextjs-breadcrumbs) - Dynamic, highly customizable breadcrumbs component for Next.js.
+- [Essential Next.js Build Plugin](https://github.com/netlify/netlify-plugin-nextjs) - Build plugin to integrate Next.js seamlessly with Netlify.
 
 ## Notes
 
@@ -253,3 +254,4 @@
 - [Logging in Next.js (2020)](https://www.netlify.com/blog/2020/12/13/logging-in-next.js/)
 - [Building a Blog With Next.js and MDX (2021)](https://blog.jetbrains.com/webstorm/2021/10/building-a-blog-with-next-js-and-mdx/)
 - [Rakkas](https://github.com/rakkasjs/rakkasjs) - Lightning fast Next.js alternative powered by Vite. ([Web](https://rakkasjs.org/)) ([Reddit](https://www.reddit.com/r/reactjs/comments/q7xtcg/rakkas_nextjs_alternative_powered_by_vite/))
+- [How to build a portfolio website using Next.js, Chakra UI, Framer Motion, and Three.js (2021)](https://www.youtube.com/watch?v=bSMZgXzC9AA)

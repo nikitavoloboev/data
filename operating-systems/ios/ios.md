@@ -83,6 +83,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [StackOv](https://stackov.webflow.io/) - Open-source SwiftUI Stack Overflow client. ([Code](https://github.com/surfstudio/StackOv))
 - [OpenSesame](https://github.com/OpenSesameManager/OpenSesame) - Native and encrypted password manager for iOS and macOS. ([Reddit](https://www.reddit.com/r/swift/comments/pa1i90/i_just_released_my_open_source_password_manager/))
 - [Pocket iOS](https://github.com/Pocket/pocket-ios)
+- [Goal & Habit Tracker](https://github.com/Shubham0812/HabitTracker_UI) - Habits and Goal Tracker application using the SwiftUI Framework.
 
 ## Other
 

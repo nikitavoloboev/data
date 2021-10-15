@@ -71,3 +71,4 @@
 - [packwiz](https://github.com/comp500/packwiz) - Command-line tool for creating Minecraft modpacks.
 - [witchcraft](https://github.com/lambdaisland/witchcraft) - Clojure API for manipulating Minecraft, based on Bukkit.
 - [Telecraft](https://github.com/telecraft/telecraft) - Pluggable Minecraft server bridge and administration tools.
+- [Obsidian](https://github.com/ObsidianMC/Obsidian) - C# implementation of the Minecraft server protocol. (.NET 5).

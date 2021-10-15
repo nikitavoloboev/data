@@ -31,7 +31,7 @@
 - [TwitterServer](https://github.com/twitter/twitter-server) - Defines a template from which services at Twitter are built.
 - [curl HTTP cheat sheet](https://curl.github.io/curl-cheat-sheet/http-sheet.html)
 - [Big list of HTTP static server one-liners](https://gist.github.com/willurd/5720255) ([HN](https://news.ycombinator.com/item?id=22082585)) ([HN](https://news.ycombinator.com/item?id=27138978))
-- [miniserve](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP.
+- [miniserve](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. ([Tweet](https://twitter.com/myrrlyn/status/1449010815546318850))
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool.
 - [PollyJS](https://netflix.github.io/pollyjs/#/) - Record, replay, and stub HTTP interactions. ([Code](https://github.com/Netflix/pollyjs))
 - [Broxy](https://github.com/rhaidiz/broxy) - HTTP/HTTPS intercept proxy written in Go.
@@ -149,3 +149,5 @@
 - [CORS Comic](https://wizardzines.com/comics/cors/)
 - [HTTPie and Print HTTP Request](https://kracekumar.com/post/print_http_request/)
 - [How to win at CORS (2021)](https://jakearchibald.com/2021/cors/) ([Code](https://github.com/jakearchibald/cors-playground)) ([HN](https://news.ycombinator.com/item?id=28861944))
+- [Ddosify](https://ddosify.com/) - High-performance load testing tool, written in Go. ([Code](https://github.com/ddosify/ddosify))
+- [Ciao](https://brotandgames.com/ciao/) - HTTP checks & tests (private & public) monitoring - check the status of your URL. ([Code](https://github.com/brotandgames/ciao))

@@ -202,3 +202,4 @@
 - [FedJAX](https://github.com/google/fedjax) - JAX-based open source library for Federated Learning simulations that emphasizes ease-of-use in research.
 - [oneAPI](https://github.com/oneapi-src/oneDNN) - OneAPI Deep Neural Network Library (oneDNN).
 - [MosaicML Composer](https://github.com/mosaicml/composer) - Library of methods, and ways to compose them together for more efficient ML training.
+- [deep-significance](https://github.com/Kaleidophon/deep-significance) - Easy and Better Significance Testing for Deep Neural Networks.

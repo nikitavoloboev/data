@@ -456,6 +456,7 @@ Here are few more things I liked, design wise.
 - [Steve Ruiz](https://steveruiz.me/) ([Code](https://github.com/steveruizok/personal-blog))
 - [Tinnei](https://tinnei.today/index.html)
 - [Stéphanie Walter](https://stephaniewalter.design/)
+- [Iheanyi Ekechukwu](https://iheanyi.com/)
 - [Alyssa X](https://alyssax.com/)
 - [Carlos Becker](https://caarlos0.dev/) ([Code](https://github.com/caarlos0/carlosbecker.com))
 - [Nienke Dekker](https://nienke.dev/)

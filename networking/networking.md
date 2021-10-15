@@ -309,3 +309,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Geneva](https://github.com/Kkevsterrr/geneva) - Automated censorship evasion for the client-side and server-side. ([Web](https://geneva.cs.umd.edu/))
 - [socks](https://github.com/JoshGlazebrook/socks) - Fully featured SOCKS proxy client supporting SOCKSv4, SOCKSv4a, and SOCKSv5. Includes Bind and Associate functionality.
 - [go-netflow](https://github.com/rfyiamcool/go-netflow) - Capture process in/out traffic, similar to c Nethogs.
+- [Preview Local Projects with Cloudflare Tunnel](https://developers.cloudflare.com/pages/how-to/preview-with-cloudflare-tunnel) ([Tweet](https://twitter.com/signalnerve/status/1449038210076655624))
+- [Characterizing CDNs’ latencies with passive measurement (2021)](https://blog.cloudflare.com/cdn-latency-passive-measurement/)

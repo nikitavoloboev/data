@@ -8,3 +8,4 @@
 - [Interview with Crystal language creators (2020)](https://www.youtube.com/watch?v=i9_6IfiPtOI)
 - [Kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework.
 - [Crystal 1.0 – What to expect (2021)](https://crystal-lang.org/2021/03/22/crystal-1.0-what-to-expect.html) ([HN](https://news.ycombinator.com/item?id=26545082))
+- [Crystal 1.2.0 (2021)](https://crystal-lang.org/2021/10/14/1.2.0-released.html) ([HN](https://news.ycombinator.com/item?id=28872769))

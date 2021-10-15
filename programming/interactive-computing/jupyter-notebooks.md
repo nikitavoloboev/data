@@ -140,3 +140,6 @@
 - [Jupyter Releaser](https://github.com/jupyter-server/jupyter_releaser) - Set of helper scripts and GitHub Actions to aid in automated releases of Python and npm packages.
 - [Jupyterlab Language Packs](https://github.com/jupyterlab/language-packs)
 - [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines using Jupyter or your favorite text editor. Develop locally, deploy to the cloud.
+- [Jupyter React](https://github.com/datalayer/jupyter-react) - React.js components for Jupyter. ([Docs](https://docs.datalayer.io/docs/jupyter/react/index/))
+- [Datalayer](https://datalayer.io/) - Cloud-native and React.js Jupyter Platforms. ([GitHub](https://github.com/datalayer)) ([Twitter](https://twitter.com/datalayerio))
+- [Jupyterpool](https://github.com/datalayer/jupyterpool) - Instant Jupyter Kernels and Servers.

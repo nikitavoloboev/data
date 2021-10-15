@@ -194,7 +194,7 @@
 - [Towards a Theory of Generalization in Reinforcement Learning (2021)](https://windowsontheory.org/2021/04/24/towards-a-theory-of-generalization-in-reinforcement-learning-guest-lecture-by-sham-kakade/)
 - [Evolving Reinforcement Learning Algorithms (2021)](https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html)
 - [Model-Based RL for Decentralized Multi-agent Navigation (2021)](https://ai.googleblog.com/2021/04/model-based-rl-for-decentralized-multi.html)
-- [Mastering Atari with Discrete World Models (2021)](https://danijar.com/project/dreamerv2/) ([Code](https://github.com/danijar/dreamerv2))
+- [Mastering Atari with Discrete World Models (2021)](https://danijar.com/project/dreamerv2/) ([Code](https://github.com/danijar/dreamerv2)) ([Code](https://github.com/jurgisp/pydreamer))
 - [RoboDesk](https://github.com/google-research/robodesk) - Multi-Task Reinforcement Learning Benchmark.
 - [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) - Reinforcement learning package for Julia. ([Web](https://juliareinforcementlearning.org/))
 - [Improving Exploration in Soft-Actor-Critic with Normalizing Flows Policies (2019)](https://arxiv.org/abs/1906.02771) ([Code](https://github.com/joeybose/FloRL))
@@ -247,3 +247,4 @@
 - [Falken](https://github.com/google-research/falken) - Provides developers with a service that allows them to train AI that can play their games.
 - [irl-imitation](https://github.com/yrlu/irl-imitation) - Implementation of Inverse Reinforcement Learning (IRL) algorithms in python/Tensorflow. Deep MaxEnt, MaxEnt, LPIRL.
 - [Best RL papers from the past year or two (2021)](https://www.reddit.com/r/reinforcementlearning/comments/q6vlav/best_rl_papers_from_the_past_year_or_two/)
+- [Recurrent Model-Free RL is a Strong Baseline for Many POMDPs (2021)](https://arxiv.org/abs/2110.05038)

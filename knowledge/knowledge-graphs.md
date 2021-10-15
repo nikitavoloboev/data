@@ -86,3 +86,4 @@
 - [Why Young Developers Don’t Get Knowledge Graphs (2021)](https://www.datanami.com/2021/07/30/why-young-developers-dont-get-knowledge-graphs/) ([HN](https://news.ycombinator.com/item?id=28026091))
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs. ([Docs](https://docs.ampligraph.org/))
 - [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/abs/1905.07854) ([Code](https://github.com/LunaBlack/KGAT-pytorch))
+- [RelationalAI](https://www.relational.ai/) - Relational Knowledge Graphs. ([GitHub](https://github.com/RelationalAI-oss))

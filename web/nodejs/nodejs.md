@@ -256,3 +256,5 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [fs-memoize](https://github.com/isaachinman/fs-memoize) - Simple, zero-dependency NodeJs filesystem memoizer.
 - [stream-http](https://github.com/jhiesey/stream-http) - Streaming node http in the browser.
 - [Moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js. ([Web](https://moleculer.services/))
+- [skr canvas](https://github.com/Brooooooklyn/canvas) - Google Skia binding to Node.js via Node-API, 0 System dependencies.
+- [Clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library with no runtime dependencies.

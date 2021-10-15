@@ -95,3 +95,6 @@
 - [The Rise of Micro-Economies (2021)](https://coopahtroopa.mirror.xyz/gWY6Kfebs9wHdfoZZswfiLTBVzfKiyFaIwNf2q8JpgI)
 - [Web3 architecture and how it compares to traditional web apps (2021)](https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/) ([HN](https://news.ycombinator.com/item?id=28800818))
 - [Cwtch](https://cwtch.im/) - Decentralized, Surveillance Resistant Infrastructure. ([Lobsters](https://lobste.rs/s/iftp1p/cwtch_decentralized_surveillance))
+- [Bluesky](https://blueskyweb.org/) - Building a Social Web. ([Twitter](https://twitter.com/bluesky)) ([Discord](https://discord.com/invite/gugTcDrb))
+- [Web3 Devs and Builders Twitter](https://twitter.com/i/lists/1433448123142115329)
+- [Should Your Next Company Be a DAO? (2021)](https://www.coss.community/cossc/should-your-next-company-be-a-dao-2o44)

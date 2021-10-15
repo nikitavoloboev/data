@@ -89,6 +89,7 @@
 - [Hashing techniques to compare large datasets? (2021)](https://www.reddit.com/r/MachineLearning/comments/mjqc2v/d_hashing_techniques_to_compare_large_datasets/)
 - [Machine Learning Datasets | Papers With Code](https://paperswithcode.com/datasets) ([Twitter](https://twitter.com/paperswithdata))
 - [Ocean Market](https://market.oceanprotocol.com/) - Marketplace to find, publish and trade data sets. ([Code](https://github.com/oceanprotocol/market))
+- [Ocean Protocol](https://oceanprotocol.com/) - Tools for the Web3 Data Economy. ([Contracts](https://github.com/oceanprotocol/contracts)) ([GitHub](https://github.com/oceanprotocol))
 - [Generating Datasets with Pretrained Language Models (2021)](https://arxiv.org/abs/2104.07540)
 - [nbodykit](https://github.com/bccp/nbodykit) - Analysis kit for large-scale structure datasets, the massively parallel way.
 - [Dataset Inference: Ownership Resolution in Machine Learning (2021)](https://arxiv.org/abs/2104.10706) ([Tweet](https://twitter.com/NicolasPapernot/status/1387842242744832004))

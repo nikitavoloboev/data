@@ -70,3 +70,4 @@
 - [Measuring cognitive complexity with elm-review (2021)](https://jfmengels.net/cognitive-complexity/)
 - [Awesome Elm PLTD](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
 - [elm2nix](https://github.com/cachix/elm2nix) - Convert an Elm project into Nix expressions.
+- [Elm Optimize, Level 2](https://github.com/mdgriffith/elm-optimize-level-2)

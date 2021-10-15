@@ -4,6 +4,7 @@
 
 - [argi](https://github.com/Owez/argi) - Argument parsing for the future.
 - [slap](https://github.com/agnipau/slap) - Painless shell argument parsing and dependency check.
+- [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
 - [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things.
 - [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
 - [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
@@ -254,6 +255,8 @@
 - [Tofn](https://github.com/axelarnetwork/tofn) - Threshold cryptography library in Rust.
 - [RustCrypto: Utilities](https://github.com/RustCrypto/utils) - Utility crates used in RustCrypto.
 - [Verkle Trie](https://github.com/crate-crypto/rust-verkle)
+- [ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) - Fast and efficient ed25519 signing and verification in Rust.
+- [curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - Pure-Rust implementation of group operations on Ristretto and Curve25519.
 
 ## Linux
 
@@ -279,6 +282,7 @@
 - [Fwumious Wabbit](https://github.com/outbrain/fwumious_wabbit) - Fast on-line machine learning toolkit written in Rust.
 - [Mushin](https://github.com/c0dearm/mushin) - Compile-time creation of neural networks.
 - [Alumina](https://github.com/millardjn/alumina) - Deep learning library for rust.
+- [bhtsne](https://github.com/frjnn/bhtsne) - Parallel Barnes-Hut t-SNE implementation written in Rust.
 
 ## macOS
 
@@ -338,8 +342,7 @@
 
 ## Other
 
-- [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
-- [Serde](https://github.com/serde-rs/serde) - Serialization framework for Rust. ([Docs](https://serde.rs/))
+- [Serde](https://github.com/serde-rs/serde) - Serialization framework for Rust. ([Docs](https://serde.rs/)) ([HN](https://news.ycombinator.com/item?id=28869970))
 - [serde-reflection](https://github.com/novifinancial/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
 - [Miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde.
 - [Microserde](https://github.com/cloudhead/microserde) - Miniserde minus the dependencies.
@@ -1008,6 +1011,12 @@
 - [csv](https://github.com/BurntSushi/rust-csv) - CSV parser for Rust, with Serde support.
 - [schemafy](https://github.com/Marwes/schemafy) - Rust crate which can take a JSON schema and generate Rust types which are serializable with serde.
 - [creativity](https://github.com/utilForever/creativity) - Creative Coding Framework based on Entity Component System (ECS) written in Rust.
+- [tap](https://github.com/myrrlyn/tap) - Generic extensions for tapping values in Rust.
+- [sp-im](https://github.com/yatima-inc/sp-im) - Immutable no_std collection datatypes suitable for use within Substrate.
+- [nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system.
+- [hashconsing](https://github.com/AdrienChampion/hashconsing) - Rust hashconsing library.
+- [safe_index](https://github.com/AdrienChampion/safe_index) - Safe indexing in Rust.
+- [unixstring](https://github.com/vrmiguel/unixstring) - FFI-friendly null-terminated byte string.
 
 ## Cargo Plugins
 

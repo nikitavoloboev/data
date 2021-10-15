@@ -1,10 +1,10 @@
 # [Ngrok](https://ngrok.com/)
 
-I use it to tunnel my localhost server to share with other people. Useful for development.
+I now use [Cloudflare Tunnel](https://twitter.com/signalnerve/status/1449038210076655624) for exposing local services to the web (such as localhost).
 
 ## Using it
 
-Say I started my local server on port 3000. This command: `ngrok http 3000` will create a shareable link of my tunneled server.
+If I started my local server on port 3000. This command: `ngrok http 3000` will create a shareable link of my tunneled server.
 
 ## Notes
 

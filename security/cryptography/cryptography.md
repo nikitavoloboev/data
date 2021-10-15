@@ -38,7 +38,7 @@
 - [Basic Intro to Lattices in Cryptography (2020)](https://qvault.io/2020/01/23/very-basic-intro-to-lattices-in-cryptography/)
 - [SwiftCrypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms. ([Article](https://swift.org/blog/crypto/))
 - [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - Cryptographic Primitive Code Generation by Fiat.
-- [CIRCL](https://github.com/cloudflare/circl) - Cloudflare Interoperable Reusable Cryptographic Library.
+- [CIRCL](https://github.com/cloudflare/circl) - Cloudflare Interoperable Reusable Cryptographic Library. ([Article](https://blog.cloudflare.com/introducing-circl/)) ([Pairings in CIRCL](https://blog.cloudflare.com/circl-pairings-update/))
 - [cosign](https://github.com/osresearch/cosign) - Cooperative RSA signatures.
 - [Practical Cryptography for Developers book](https://cryptobook.nakov.com/) ([Code](https://github.com/nakov/Practical-Cryptography-for-Developers-Book))
 - [Cryptopals](https://cryptopals.com/) - Collection of 48 exercises that demonstrate attacks on real-world crypto. ([Solutions in Go](https://github.com/0xfe/cryptopals))
@@ -136,3 +136,4 @@
 - [Minisign in Zig](https://github.com/jedisct1/zig-minisign)
 - [Signify](https://github.com/aperezdc/signify) - OpenBSD tool to signs and verify signatures on files. Portable version.
 - [O(1) Labs](https://www.o1labs.org/) - Using cryptography and cryptocurrency to build computing systems that put people back in control of their digital lives. ([GitHub](https://github.com/o1-labs))
+- [Bugs in our Pockets: The Risks of Client-Side Scanning (2021)](https://www.cs.columbia.edu/~smb/papers/bugs21.pdf) ([Tweet](https://twitter.com/SteveBellovin/status/1448808323378294786)) ([Lobsters](https://lobste.rs/s/a3taal/bugs_our_pockets_risks_client_side)) ([Article](https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/))

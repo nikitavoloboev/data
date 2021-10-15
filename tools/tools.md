@@ -157,7 +157,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
 - [Boon](https://boon.tv/) - Build your members community.
 - [Isoflow](https://isoflow.io/) - Create beautiful cloud diagrams in minutes. ([HN](https://news.ycombinator.com/item?id=24168152))
-- [Carbon](https://carbon.now.sh/about/) - Create and share beautiful images of your source code. ([HN](https://news.ycombinator.com/item?id=23122529))
+- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code. ([HN](https://news.ycombinator.com/item?id=23122529)) ([About](https://carbon.now.sh/about)) ([HN](https://news.ycombinator.com/item?id=28874123))
 - [Code to Image Monochromatic](https://code-to-image.now.sh/)
 - [livegrep](https://github.com/livegrep/livegrep) - Tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.
 - [webhook](https://github.com/adnanh/webhook) - Lightweight incoming webhook server to run shell commands.
@@ -332,6 +332,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Forethought](https://www.forethought.ai/) - Agatha, A.I. for Customer Support.
 - [Fixmie](https://fixmie.com/) - Automated code fixes.
 - [Magicsheets](https://www.magicsheets.io/) - Machine Learning in your spreadsheet. ([HN](https://news.ycombinator.com/item?id=28643834))
+- [Orca](https://getorca.org/) - Build modern community apps with React and Node. ([Code](https://github.com/ElevenSymbols/orca))
 - [Upptime](https://upptime.js.org/) - GitHub-powered open-source uptime monitor and status page. ([Code](https://github.com/upptime/upptime)) ([HN](https://news.ycombinator.com/item?id=25553445))
 - [Fabric](https://get.fabric.io/) - Platform that helps your mobile team build better apps, understand your users, and grow your business.
 - [Squoosh](https://squoosh.app/) - Make images smaller using best-in-class codecs, right in the browser.

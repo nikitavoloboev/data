@@ -103,6 +103,7 @@
 - [Index](https://github.com/mirage/index) - Scalable implementation of persistent indices in OCaml.
 - [ppx_effects](https://github.com/CraigFe/ppx_effects) - Syntax extensions for untyped effects in OCaml 5.
 - [kv-hash](https://github.com/tomjridge/kv-hash) - Key Value store using a persistent hashtable approach.
+- [DAI](https://github.com/cuplv/dai) - Demanded Abstract Interpretation.
 
 ## Links
 
