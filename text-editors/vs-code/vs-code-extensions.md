@@ -141,6 +141,7 @@ Below is a list of extensions I use.
 - [i18n Ally](https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally) - All in one i18n extension for VSCode. ([Code](https://github.com/lokalise/i18n-ally))
 - [Database Client](https://github.com/cweijan/vscode-database-client) - Supports databases MySQL/MariaDB, Microsoft SQL Server, PostgreSQL, SQLite, MongoDB, Redis, and ElasticSearch.
 - [VSCode MLIR](https://github.com/llvm/vscode-mlir) - Provides MLIR language IDE features for VS code.
+- [Edge Developer Tools](https://github.com/microsoft/vscode-edge-devtools) - VSCode extension that allows you to use browser devtools from within the editor.
 
 ## Shell
 

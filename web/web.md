@@ -29,7 +29,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Google's Long March (2019)](https://doriantaylor.com/googles-long-march)
 - [instant.page](https://github.com/instantpage/instant.page) - Uses just-in-time preloading — it preloads a page right before a user clicks on it.
 - [UI Elements](https://github.com/GoogleChromeLabs/ui-element-samples) - Collection of UI element samples written with vanilla web platform features.
-- [gotify/server](https://github.com/gotify/server) - Simple server for sending and receiving messages in real-time per web socket.
+- [gotify/server](https://github.com/gotify/server) - Simple server for sending and receiving messages in real-time per web socket. ([HN](https://news.ycombinator.com/item?id=28887153))
 - [Sizzy](https://github.com/kitze/sizzy) - Tool for testing responsive websites crazy-fast.
 - [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) - Curated list of tech stacks for building different applications & features.
 - [Build Tracker](https://github.com/paularmstrong/build-tracker) - Set of tools to track the size of your build artifacts over time.

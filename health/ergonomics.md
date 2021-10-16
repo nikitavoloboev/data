@@ -37,6 +37,7 @@
 - [My Stream Setup Tour 2021](https://www.youtube.com/watch?v=3Zd9c-cZ5eE)
 - [MKBHD Studio Tour 2021](https://www.youtube.com/watch?v=pkuxIy3kFZM)
 - [Rasmus Andersson's desk setup](https://twitter.com/rsms/status/1435003133260795904)
+- [Jessica Strelioff](https://www.workspaces.xyz/p/095-jessica-strelioff?)
 
 ## Links
 
@@ -66,3 +67,4 @@
 - [Ask HN: How do you guys prevent back problems? (2019)](https://news.ycombinator.com/item?id=19824656)
 - [Why is standing more tiring than walking?](https://www.bbc.co.uk/programmes/w3ct1pqm) ([HN](https://news.ycombinator.com/item?id=27824885))
 - [Setups](https://setups.co/) - Repository of workspaces, items & tools from the creator community.
+- [Workspaces](https://www.workspaces.xyz/) - Bringing you inside the workspaces of inspiring creatives. Newsletter. ([Twitter](https://twitter.com/workspacesxyz))

@@ -123,3 +123,4 @@
 - [Keynote: Clarity - Saša Jurić | ElixirConf EU 2021](https://www.youtube.com/watch?v=6sNmJtoKDCo)
 - [Elixir Playground](https://playground.functional-rewire.com/) - Sandbox for Elixir to safely evaluate untrusted code from user input. ([Code](https://github.com/functional-rewire/dune))
 - [Under the Hood of Macros in Elixir (2021)](https://blog.appsignal.com/2021/10/05/under-the-hood-of-macros-in-elixir.html) ([HN](https://news.ycombinator.com/item?id=28758883))
+- [Thousand Island](https://github.com/mtrudel/thousand_island) - Modern, pure Elixir socket server, inspired heavily by ranch. ([Talk](https://github.com/mtrudel/talks/blob/main/2020-01-Toronto-Elixir-Night-Thousand-Island.pdf))

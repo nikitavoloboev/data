@@ -86,3 +86,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [TODO apps are meant for robots](https://blog.frantic.im/all/todo-apps-are-meant-for-robots/) ([HN](https://news.ycombinator.com/item?id=28029809))
 - [Dopamine, Smartphones and You: A battle for your time (2018)](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/) ([HN](https://news.ycombinator.com/item?id=28850169))
 - [Laziness Does Not Exist (2018)](https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01) ([HN](https://news.ycombinator.com/item?id=28574627))
+- [Every productivity thought I've ever had, as concisely as possible (2018)](https://guzey.com/productivity/)

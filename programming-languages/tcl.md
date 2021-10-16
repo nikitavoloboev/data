@@ -15,3 +15,4 @@
 - [OttoCompiler](https://wiki.tcl-lang.org/page/OttoCompiler) - Tcl-Compiler compiles Tcl-Scripts into native C-Code.
 - [Partcl](https://github.com/zserge/partcl) - Minimal Tcl interpreter. ([Article](https://zserge.com/posts/tcl-interpreter/))
 - [TIL](https://til-lang.github.io/til/) - Tcl-inspired command language on top of D. ([Code](https://github.com/til-lang/til))
+- [Implementation of in-memory hash tables for Tcl](https://core.tcl-lang.org/tcl/file?name=generic/tclHash.c&ci=tip)

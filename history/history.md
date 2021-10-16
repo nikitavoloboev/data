@@ -143,3 +143,4 @@
 - [Are there more surviving ancient writings in Greek or Latin? (2021)](https://talesoftimesforgotten.com/2021/09/25/are-there-more-surviving-ancient-writings-in-greek-or-latin/) ([HN](https://news.ycombinator.com/item?id=28662809))
 - [The Scholar's Stage](https://scholars-stage.org/) - Place to discuss the intersections of history, politics, culture, behavioral science, and strategic thought—often with a focus on East and Southeast Asian affairs.
 - [Why are old things beautiful and new things ugly? (2015)](https://carcinisation.com/2015/04/01/the-fifteen-fundamental-properties/) ([Tweet](https://twitter.com/literalbanana/status/1445784214838730758))
+- [Trends and fluctuations in the severity of interstate wars (2018)](https://www.science.org/doi/10.1126/sciadv.aao3580)

@@ -15,7 +15,7 @@
 - [Corsica](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
 - [Plug](https://github.com/elixir-plug/plug) - Specification and conveniences for composable modules between web applications.
 - [Quenya](https://github.com/tyrchen/quenya) - Framework to build high-quality REST API applications based on extended OpenAPI spec.
-- [Bandit](https://github.com/mtrudel/bandit) - HTTP server for Plug apps.
+- [Bandit](https://github.com/mtrudel/bandit) - HTTP server for Plug apps. ([Article](https://mat.geeky.net/2021/06/24/bandit-on-the-loose.html)) ([Talk](https://github.com/mtrudel/talks/blob/main/ElixirConf%202021.pdf))
 - [ElixirST](https://github.com/gertab/ElixirST) - Session Types in Elixir.
 
 ## DB

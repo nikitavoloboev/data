@@ -117,7 +117,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Mina Protocol](https://minaprotocol.com/) - Lightest blockchain, powered by participants. ([Code](https://github.com/MinaProtocol/mina)) ([Docs](https://docs.minaprotocol.com/en))
 - [Agoric](https://agoric.com/) - Secure smart contracts. ([Platform SDK](https://github.com/Agoric/agoric-sdk))
 - [You Don’t Need a Blockchain, You Need a Time-Series Database (2020)](https://thenewstack.io/you-dont-need-a-blockchain-you-need-a-time-series-database/) ([Lobsters](https://lobste.rs/s/n1cuh3/you_don_t_need_blockchain_you_need_time)) ([HN](https://news.ycombinator.com/item?id=24887746))
-- [GoChain](https://gochain.io/) - Fast, sustainable web3 based blockchain protocol.
+- [GoChain](https://gochain.io/) - Fast, sustainable web3 based blockchain protocol. ([GitHub](https://github.com/gochain))
 - [Ask HN: What are real-life useful use-cases for blockchain (not currencies)? (2020)](https://news.ycombinator.com/item?id=24881140)
 - [Security and Privacy of Blockchain Protocols and Applications (2020)](https://github.com/s-tikhomirov/phd-thesis)
 - [The Future of Blockchain with Nick Szabo, Adam Back, & David Chaum (2019)](https://www.youtube.com/watch?v=LF2mQI9cTS8)
@@ -251,3 +251,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Artist Spotlight: Divergence and the Art of On-Chain Artwork NFTs (2021)](https://www.proof.xyz/brotchain-generative-art-built-entirely-on-blockchain/) ([Tweet](https://twitter.com/kevinrose/status/1449033168967766031))
 - [Why NFT can be worth anything? (2021)](https://twitter.com/kelseyhightower/status/1449126496107315200)
 - [Tokenization of everything is the biggest thing we have ever seen and will ever see (2021)](https://twitter.com/RaoulGMI/status/1449210646625673217)
+- [web3](https://github.com/gochain/web3) - CLI tool to interact with web3 blockchains - Ethereum, GoChain, etc.

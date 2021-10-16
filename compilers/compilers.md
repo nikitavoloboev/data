@@ -179,3 +179,4 @@
 - [SymCC](https://github.com/eurecom-s3/symcc) - Efficient compiler-based symbolic execution. ([Web](http://www.s3.eurecom.fr/tools/symbolic_execution/symcc.html))
 - [ONNX MLIR](https://github.com/onnx/onnx-mlir) - Open-source project for compiling ONNX models into native code on x86, P and Z machines (and more). ([Web](http://onnx.ai/onnx-mlir/))
 - [nncase](https://github.com/kendryte/nncase) - Neural network compiler for AI accelerators.
+- [KGT: Kate's Grammar Tool](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams.

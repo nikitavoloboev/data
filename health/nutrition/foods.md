@@ -82,6 +82,10 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 
 - mushrooms
 
+## Notes
+
+- [There are many things about food that are legal in the US and forbidden in Europe. Parting agents, dry agents, biocides, certain breeding techniques, medication, disinfectants.](https://twitter.com/vonneudeck/status/1449432810981412872)
+
 ## Links
 
 - [Cheap healthy food](https://www.nomeatathlete.com/cheap-healthy-food/)

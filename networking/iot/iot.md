@@ -35,7 +35,7 @@
 - [EVE](https://www.lfedge.org/projects/eve/) - Aims to do for the IoT edge what Android did for mobile by creating an open edge computing engine that enables the development, orchestration and security of cloud-native and legacy applications on distributed edge compute nodes.
 - [Adam](https://github.com/lf-edge/adam) - Reference implementation of an LF-Edge API-compliant Controller.
 - [rtlamr](https://github.com/bemasher/rtlamr) - rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
-- [Nerves Platform](https://www.nerves-project.org/) - Open-source platform and infrastructure you need to build, deploy, and securely manage your fleet of IoT devices at speed and scale. ([Code](https://github.com/nerves-project/nerves)) ([HN](https://news.ycombinator.com/item?id=24184603))
+- [Nerves Platform](https://www.nerves-project.org/) - Open-source platform and infrastructure you need to build, deploy, and securely manage your fleet of IoT devices at speed and scale. ([Code](https://github.com/nerves-project/nerves)) ([HN](https://news.ycombinator.com/item?id=24184603)) ([Talk](https://github.com/mtrudel/talks/blob/main/2020-07-Toronto-Elixir-Night-Nerves.pdf))
 - [Nerves Livebook Firmware](https://github.com/fhunleth/nerves_livebook) - Lets you try out the Nerves projects on real hardware without needing to build anything.
 - [Espressif IoT Development Framework](https://github.com/espressif/esp-idf)
 - [Towards Secure IoT Programming in Haskell](http://nachivpn.me/haski.pdf)
