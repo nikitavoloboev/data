@@ -3,6 +3,7 @@
 ## Extensions
 
 - [Airport](https://www.raycast.com/siddharthsharma94/airport) - Discover TestFlight Apps.
+- [Vercel Deployments](https://www.raycast.com/matt/vercast) - Quickly open and check the status of your Vercel deployments.
 
 ## Links
 

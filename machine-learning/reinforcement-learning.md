@@ -248,3 +248,4 @@
 - [irl-imitation](https://github.com/yrlu/irl-imitation) - Implementation of Inverse Reinforcement Learning (IRL) algorithms in python/Tensorflow. Deep MaxEnt, MaxEnt, LPIRL.
 - [Best RL papers from the past year or two (2021)](https://www.reddit.com/r/reinforcementlearning/comments/q6vlav/best_rl_papers_from_the_past_year_or_two/)
 - [Recurrent Model-Free RL is a Strong Baseline for Many POMDPs (2021)](https://arxiv.org/abs/2110.05038)
+- [Godot RL Agents](https://github.com/edbeeching/godot_rl_agents) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/q8sx0g/p_introducing_godot_rl_agents/))

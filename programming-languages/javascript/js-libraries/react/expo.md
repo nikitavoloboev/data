@@ -13,3 +13,4 @@
 - [VSCode Expo](https://github.com/expo/vscode-expo)
 - [Expo GitHub Action](https://github.com/expo/expo-github-action) - Publish, build or manage your Expo app with Github Actions.
 - [Expo + Next.js Monorepo Example](https://github.com/axeldelafosse/expo-next-monorepo-example)
+- [Drastically Faster Bundling in React Native (2021)](https://blog.expo.dev/drastically-faster-bundling-in-react-native-a54f268e0ed1) ([Tweet](https://twitter.com/Baconbrix/status/1449043817663905793))

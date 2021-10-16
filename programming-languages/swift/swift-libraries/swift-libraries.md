@@ -784,6 +784,7 @@
 - [Doctor Pretty](https://github.com/bkase/DoctorPretty) - Wadler's "A prettier printer" embedded pretty-printer DSL for Swift.
 - [Environment](https://github.com/wlisac/environment) - Type-safe environment variables in Swift.
 - [Swift BSON](https://github.com/mongodb/swift-bson) - Pure Swift BSON library.
+- [GAppAuth](https://github.com/elsesiy/GAppAuth) - Drop-in class to handle AppAuth with Google Services (iOS & macOS).
 
 ## Other (not lib)
 

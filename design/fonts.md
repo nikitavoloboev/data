@@ -267,3 +267,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Lipi](https://github.com/dfrg/lipi) - Font independent text analysis support for shaping and layout.
 - [Twenty Bits I Learned About Making Fonts Book](https://simplebits.com/collections/books/products/twenty-bits-fonts)
 - [Typography of 2001: A Space Odyssey (2014)](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/) ([HN](https://news.ycombinator.com/item?id=28857373))
+- [OSP-foundry](http://osp.kitchen/foundry/) - All fonts produced by OSP.

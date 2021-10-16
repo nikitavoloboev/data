@@ -59,3 +59,4 @@
 - [The Complex Truth About ‘Junk DNA’](https://www.quantamagazine.org/the-complex-truth-about-junk-dna-20210901/) ([HN](https://news.ycombinator.com/item?id=28381762))
 - [The Technology of Life. A DNA-centric tour of biology.](https://berthub.eu/dna-book/) ([Tweet](https://twitter.com/PowerDNS_Bert/status/1436714417777938436))
 - [Your DNA is in a database (2021)](https://www.youtube.com/watch?v=KT18KJouHWg)
+- [Rosalind Franklin's X-ray photo of DNA as an undergraduate optical diffraction experiment (2013)](https://aapt.scitation.org/doi/full/10.1119/1.5020051) ([Tweet](https://twitter.com/markwbudde/status/1448859316178481157))

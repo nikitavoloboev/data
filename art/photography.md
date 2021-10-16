@@ -149,3 +149,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [International Center of Photography](https://www.icp.org/school)
 - [iPhone Macro: A Big Day for Small Things (2021)](https://lux.camera/iphone-macro-camera-a-big-day-for-small-things/)
 - [Whole Earth Flashbacks - Photo Album](https://photos.google.com/share/AF1QipMZhatDdj9CbnyceCQt2uFpkAiJqxUEXanwPOiHEkvP3tAQ6h7bJ8FN45FH4jySQg?pli=1&key=ZVJFUUVIbGZEQ3pkZ1NRcS11LXJDbThIZ2JQRWJ3) ([Tweet](https://twitter.com/mollyfmielke/status/1448689980390318094))
+- [Photo Editing: Respecting Context (2021)](https://simonsarris.substack.com/p/photo-editing-respecting-context)

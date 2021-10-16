@@ -62,3 +62,4 @@
 - [SaaS Blocks Figma UI Kit](https://cogentgene1.gumroad.com/#FbINx)
 - [Figma Mirror](https://www.figma.com/mirror)
 - [How (and why) we built branching (2021)](https://www.figma.com/blog/how-and-why-we-built-branching/) ([Tweet](https://twitter.com/skuwamoto/status/1447980346935439360))
+- [GraphQL, meet LiveGraph: a real-time data system at scale (2021)](https://www.figma.com/blog/livegraph-real-time-data-fetching-at-figma/) - Real-time data fetching at Figma.
