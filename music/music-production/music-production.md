@@ -262,3 +262,4 @@
 - [Music Demixing Workshop 2021](https://mdx-workshop.github.io/) ([Code](https://github.com/mdx-workshop/mdx-workshop.github.io))
 - [Music Composer](https://github.com/sberbank-ai/music-composer)
 - [Musicians on Musicians: Lorde & David Byrne (2021)](https://www.rollingstone.com/music/music-features/lorde-david-byrne-musicians-on-musicians-1239284/) ([Tweet](https://twitter.com/RollingStone/status/1448982257360850944))
+- [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music.

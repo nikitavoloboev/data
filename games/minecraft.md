@@ -72,3 +72,4 @@
 - [witchcraft](https://github.com/lambdaisland/witchcraft) - Clojure API for manipulating Minecraft, based on Bukkit.
 - [Telecraft](https://github.com/telecraft/telecraft) - Pluggable Minecraft server bridge and administration tools.
 - [Obsidian](https://github.com/ObsidianMC/Obsidian) - C# implementation of the Minecraft server protocol. (.NET 5).
+- [PocketMine-MP](https://pmmp.io/) - Server software for Minecraft: Bedrock Edition written in PHP. ([Code](https://github.com/pmmp/PocketMine-MP))

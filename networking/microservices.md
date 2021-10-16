@@ -85,3 +85,4 @@
 - [Serivce Builder](https://github.com/cnative/servicebuilder) - GRPC based Micro Service scaffolding in Go with HTTP/JSON gRPC gateway and OIDC / JWT Token based auth.
 - [Cloud Native GeoServer](http://geoserver.org/geoserver-cloud/) - GeoServer ready to use in the cloud through dockerized microservices. ([Code](https://github.com/geoserver/geoserver-cloud))
 - [GitHub’s Journey from Monolith to Microservices (2021)](https://www.infoq.com/articles/github-monolith-microservices/) ([Tweet](https://twitter.com/SusanPotter/status/1447861936683634692))
+- [Ergo](https://cloud.ergo.services/) - Cloud platform to enrich services made with Ergo Framework. ([GitHub](https://github.com/ergo-services))

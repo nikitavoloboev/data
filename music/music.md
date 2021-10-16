@@ -149,3 +149,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Tuner](https://github.com/Pauloo27/tuner) - Searches and plays songs from YouTube and SoundCloud inside your terminal.
 - [Spotify Box (2021)](https://evanhailey.com/2021/09/20/spot-box/) ([HN](https://news.ycombinator.com/item?id=28621471))
 - [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/) ([Twitter](https://twitter.com/c4dm))
+- [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening)

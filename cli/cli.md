@@ -64,3 +64,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html) ([HN](https://news.ycombinator.com/item?id=28354194))
 - [Awk: The Power and Promise of a 40-Year-Old Language (2021)](https://www.fosslife.org/awk-power-and-promise-40-year-old-language) ([HN](https://news.ycombinator.com/item?id=28441887))
 - [buke](https://github.com/epilys/buke) - Full text search man pages.
+- [Renamer](https://github.com/75lb/renamer) - Rename files in bulk.

@@ -24,3 +24,5 @@
 - [Was Germany’s 19th century industrial expansion due to an absence of copyright?](https://www.spiegel.de/international/zeitgeist/no-copyright-law-the-real-reason-for-germany-s-industrial-expansion-a-710976.html) ([HN](https://news.ycombinator.com/item?id=28574998))
 - [How Germany's Economy Is Hurt by Supply Chain Shortages (2021)](https://www.nytimes.com/2021/10/05/business/germany-economy.html) ([Tweet](https://twitter.com/eladgil/status/1445735768698208256))
 - [List of German inventions and discoveries](https://en.wikipedia.org/wiki/List_of_German_inventions_and_discoveries)
+- [Germany Tax explained](https://www.expatfinance.us/germany/investment-taxes)
+- [German taxes on capital gains](https://www.expatfinance.us/germany/investment-taxes)

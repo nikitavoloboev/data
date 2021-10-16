@@ -366,3 +366,4 @@
 - [Unsupervised Neural Machine Translation with Generative Language Models Only (2021)](https://arxiv.org/abs/2110.05448) ([Tweet](https://twitter.com/jessemhan/status/1447793397675220997))
 - [Grounding Spatio-Temporal Language with Transformers (2021)](https://arxiv.org/abs/2106.08858) ([Code](https://github.com/flowersteam/spatio-temporal-language-transformers/))
 - [Fast Sentence Embeddings (fse)](https://github.com/oborchers/Fast_Sentence_Embeddings) - Compute Sentence Embeddings Fast.
+- [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models (2021)](https://arxiv.org/abs/2110.07178)

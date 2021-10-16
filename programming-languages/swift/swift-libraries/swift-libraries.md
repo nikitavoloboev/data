@@ -785,6 +785,7 @@
 - [Environment](https://github.com/wlisac/environment) - Type-safe environment variables in Swift.
 - [Swift BSON](https://github.com/mongodb/swift-bson) - Pure Swift BSON library.
 - [GAppAuth](https://github.com/elsesiy/GAppAuth) - Drop-in class to handle AppAuth with Google Services (iOS & macOS).
+- [Maestro](https://github.com/rpwachowski/maestro) - Build complex, conducted animations declaratively without manually managing state.
 
 ## Other (not lib)
 

@@ -17,3 +17,4 @@
 - [EhPanda](https://github.com/tatsuz0u/EhPanda) - E-Hentai App for iOS built with SwiftUI.
 - [My anime recommendations (2021)](https://noahpinion.substack.com/p/my-anime-recommendations) ([Tweet](https://twitter.com/Noahpinion/status/1434059309516673024))
 - [animepahe](https://animepahe.com/) - Okay-ish anime website. ([Downloader](https://github.com/sreekaransrinath/animedownloader))
+- [ani-cli](https://github.com/pystardust/ani-cli) - CLI tool to browse and play anime.

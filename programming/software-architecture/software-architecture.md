@@ -166,3 +166,4 @@
 - [Scaling Large Production Clusters with Partitioned Synchronization (2021)](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
 - [Local-first software with Martin Kleppmann (2021)](https://overcast.fm/+Y-HX8R30E)
 - [How to Safely Think in Systems (2021)](https://lethain.com/how-to-safely-think-in-systems/) ([HN](https://news.ycombinator.com/item?id=28886376))
+- [The lost art of software design (2021)](https://static.architectis.je/sag2021-the-lost-art-of-software-design.pdf)

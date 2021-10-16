@@ -67,6 +67,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Mark Litwintschik](https://tech.marksblogg.com/)
 - [Never Ending Books](http://www.neverendingbooks.org/)
 - [Luca Palmieri](https://www.lpalmieri.com/)
+- [Bartosz Ciechanowski](https://ciechanow.ski/)
 
 ## Notes
 

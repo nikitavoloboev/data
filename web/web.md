@@ -319,3 +319,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Веб-стандарты](https://web-standards.ru/) ([GitHub](https://github.com/web-standards-ru))
 - [The Web’s Grain (2015)](https://frankchimero.com/blog/2015/the-webs-grain/)
 - [The Single-Page-App Morality Play (2021)](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/) ([HN](https://news.ycombinator.com/item?id=28876583)) ([Tweet](https://twitter.com/fakebaldur/status/1434873556903636996))
+- [esbuild-dev-server](https://github.com/Falldot/esbuild-dev-server) - Allows you to start a local server with hot reloading with Esbuild.

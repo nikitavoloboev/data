@@ -75,7 +75,7 @@
 - [HN: Java 17 / JDK 17: General Availability (2021)](https://news.ycombinator.com/item?id=28525378)
 - [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses (2021)](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses) ([HN](https://news.ycombinator.com/item?id=28562874))
 - [Revisiting Java in 2021](https://www.avanwyk.com/revisiting-java-in-2021-ii/) ([HN](https://news.ycombinator.com/item?id=28584518))
-- [Amazon Corretto](https://aws.amazon.com/corretto/) - Production-ready distribution of OpenJDK.
+- [Amazon Corretto](https://aws.amazon.com/corretto/) - Production-ready distribution of OpenJDK. ([Docs](https://docs.aws.amazon.com/corretto/))
 - [Amazon Corretto, A Journey into Latency Reduction (2021)](https://www.youtube.com/watch?v=S4IrAZ5wT3c)
 - [JPype](https://github.com/jpype-project/jpype) - Cross language bridge to allow python programs full access to java class libraries.
 - [Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors Book](https://www.goodreads.com/book/show/11118624-programming-concurrency-on-the-jvm) ([Notes](https://github.com/preslavmihaylov/booknotes/tree/master/java/programming-concurrency-jvm))

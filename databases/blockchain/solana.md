@@ -101,3 +101,4 @@
 - [Easy SPL](https://github.com/solstar-tech/easy-spl) - Making tokens on Solana easy.
 - [Alon](https://lithdew.github.io/alon/) - IDE which allows for developers to rapidly build, iterate, test, and deploy decentralized apps and assets on Solana right from their browser. ([Code](https://github.com/lithdew/alon))
 - [sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter) - Library to allow Solana dApps to use third-party wallets to sign transactions.
+- [Solana: How to send custom instructions via instruction data (2021)](https://dev.to/cogoo/solana-how-to-send-custom-instructions-via-instruction-data-4g9g)

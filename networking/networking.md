@@ -312,3 +312,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Preview Local Projects with Cloudflare Tunnel](https://developers.cloudflare.com/pages/how-to/preview-with-cloudflare-tunnel) ([Tweet](https://twitter.com/signalnerve/status/1449038210076655624))
 - [Characterizing CDNs’ latencies with passive measurement (2021)](https://blog.cloudflare.com/cdn-latency-passive-measurement/)
 - [The Network Simulator](https://github.com/nsnam/ns-3-dev-git) - Free open source project aiming to build a discrete-event network simulator targeted for simulation research and education.
+- [Cuishark](https://github.com/cuishark/cuishark) - Protocol analyzer like a wireshark on CUI.

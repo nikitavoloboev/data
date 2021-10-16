@@ -592,4 +592,4 @@
 - [Password auth in Rust, from scratch - Attacks and best practices (2021)](https://www.lpalmieri.com/posts/password-authentication-in-rust/)
 - [Error Handling In Rust - A Deep Dive (2021)](https://www.lpalmieri.com/posts/error-handling-rust/)
 - [Building Cloud-native applications with Rust - the good, the bad and the ugly - Luca Palmieri (2021)](https://www.youtube.com/watch?v=p4zjgU4RSYM)
-- [Overhead of Returning Optional Values in Java and Rust (2021)](https://pkolaczk.github.io/overhead-of-optional/) ([HN](https://news.ycombinator.com/item?id=28887908))
+- [Rust Option 30x more efficient to return than Java Optional (2021)](https://pkolaczk.github.io/overhead-of-optional/) ([HN](https://news.ycombinator.com/item?id=28887908)) ([Reddit](https://www.reddit.com/r/rust/comments/q99eqe/rust_option_30x_more_efficient_to_return_than/))

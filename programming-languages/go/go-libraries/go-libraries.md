@@ -628,7 +628,7 @@
 - [channels](https://github.com/eapache/channels) - Collection of helper functions and special types for working with and extending Go's existing channels.
 - [combinator](https://github.com/muesli/combinator) - Generates a slice of all possible value combinations for any given struct.
 - [NTP](https://github.com/facebookincubator/ntp) - Collection of Facebook's NTP libraries.
-- [Ergo](https://github.com/halturin/ergo) - Framework for creating mesh networks using technologies and design patterns of Erlang/OTP in Golang. ([Lobsters](https://lobste.rs/s/rqycvz/halturin_ergo_erlang_flavored_go))
+- [Ergo](https://github.com/ergo-services/ergo) - Framework for creating microservices using technologies and design patterns of Erlang/OTP in Go. ([Lobsters](https://lobste.rs/s/rqycvz/halturin_ergo_erlang_flavored_go)) ([Tweet](https://twitter.com/adolfont/status/1449139174276280320))
 - [go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go.
 - [circuitbreaker](https://github.com/rubyist/circuitbreaker) - Provides an easy way to use the Circuit Breaker pattern in a Go program.
 - [UniPDF](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files.

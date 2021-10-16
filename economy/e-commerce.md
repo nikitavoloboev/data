@@ -16,7 +16,7 @@
 - [The Anti-Amazon Alliance (2020)](https://stratechery.com/2020/the-anti-amazon-alliance/) ([HN](https://news.ycombinator.com/item?id=23007365))
 - [Thoughts on Ecommerce: The Status Quo (2020)](https://julian.digital/2020/05/17/thoughts-on-ecommerce-the-status-quo-shopify-shop-amazon/) ([HN](https://news.ycombinator.com/item?id=23238347))
 - [GoCommerce](https://github.com/netlify/gocommerce) - Small go based API for static e-commerce sites.
-- [Saleor Commerce](https://github.com/mirumee/saleor) - Modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS. ([Web](https://saleor.io/))
+- [Saleor Commerce](https://saleor.io/) - Modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React. ([Code](https://github.com/saleor/saleor)) ([Twitter](https://twitter.com/getsaleor))
 - [Amplemarket](https://amplemarket.com/) - Next Generation Sales Intelligence.
 - [Faire](https://www.faire.com/) - Online Wholesale Marketplace & Store.
 - [JAMstack ECommerce Professional](https://github.com/jamstack-cms/jamstack-ecommerce) - Provides a way to quickly get up and running with a fully configurable JAMstack E Commerce site.
@@ -108,3 +108,4 @@
 - [Lumi](https://www.lumi.com/) - Collaborate with the best packaging & print suppliers. ([GitHub](https://github.com/lumihq))
 - [Shopify Admin API Library for Node](https://github.com/Shopify/shopify-node-api) - Accelerate development with support for authentication, graphql proxy, webhooks.
 - [Free Returns Are Complicated, Laborious, and Gross (2021)](https://www.theatlantic.com/magazine/archive/2021/11/free-returns-online-shopping/620169/) ([HN](https://news.ycombinator.com/item?id=28827355))
+- [Saleor Storefront](https://github.com/saleor/saleor-storefront) - GraphQL-powered, NextJs-based, PWA storefront for Saleor.

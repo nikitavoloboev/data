@@ -30,7 +30,7 @@
 - [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://changkun.de/modern-cpp/en-us/00-preface/) ([Code](https://github.com/changkun/modern-cpp-tutorial))
 - [Cling](https://github.com/root-project/cling) - Interactive C++ Interpreter. ([Web](https://root.cern/cling/))
 - [Mesh](https://github.com/plasma-umass/Mesh) - Memory allocator that automatically reduces the memory footprint of C/C++ applications.
-- [Circle](https://github.com/seanbaxter/circle) - C++ Automation Language.
+- [Circle](https://github.com/seanbaxter/circle) - C++ Automation Language. ([Web](https://www.circle-lang.org/)) ([HN](https://news.ycombinator.com/item?id=28886876))
 - [CppCon 2019: Chandler Carruth “There Are No Zero-cost Abstractions” (2019)](https://www.youtube.com/watch?v=rHIkrotSwcc)
 - [Cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code.
 - [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)

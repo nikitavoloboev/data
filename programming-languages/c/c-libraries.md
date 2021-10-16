@@ -91,3 +91,4 @@
 - [Blitsort](https://github.com/scandum/blitsort) - Rotate merge sort based on quadsort.
 - [Stricks](https://github.com/alcover/stricks) - Managed C strings library.
 - [Zpoline](https://github.com/yasukata/zpoline) - Efficient and versatile system call hook mechanism.
+- [STC](https://github.com/tylov/STC) - Modern, user friendly, generic, type-safe and fast C99 container library.

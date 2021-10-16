@@ -54,3 +54,4 @@
 - [How We Got to LiveView (2021)](https://fly.io/blog/how-we-got-to-liveview/) ([HN](https://news.ycombinator.com/item?id=28620490))
 - [PLDS](https://github.com/phoenixframework/plds) - CLI version of Phoenix LiveDashboard.
 - [Hot Reloading with Phoenix and Webpack (2021)](https://felt.com/blog/phoenix-and-webpack-hot-reloading-react)
+- [Preparing a Phoenix 1.6 app for deployment with Elixir Releases (2021)](https://dev.to/miguelcoba/preparing-a-phoenix-1-6-app-for-deploying-with-elixir-releases-3gf6)
