@@ -592,3 +592,4 @@
 - [Password auth in Rust, from scratch - Attacks and best practices (2021)](https://www.lpalmieri.com/posts/password-authentication-in-rust/)
 - [Error Handling In Rust - A Deep Dive (2021)](https://www.lpalmieri.com/posts/error-handling-rust/)
 - [Building Cloud-native applications with Rust - the good, the bad and the ugly - Luca Palmieri (2021)](https://www.youtube.com/watch?v=p4zjgU4RSYM)
+- [Overhead of Returning Optional Values in Java and Rust (2021)](https://pkolaczk.github.io/overhead-of-optional/) ([HN](https://news.ycombinator.com/item?id=28887908))

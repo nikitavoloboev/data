@@ -185,3 +185,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Best tool for generating HTML emails that work in most mail clients (2021)](https://twitter.com/kentcdodds/status/1444660326398496768)
 - [Sublime Security](https://sublimesecurity.com/) - Lets you write and run custom detection and response rules to block phishing attacks, hunt for threats, and more. ([Sublime Rules](https://github.com/sublime-security/sublime-rules))
 - [Write Beautiful Emails in React (2021)](https://lu.ma/p/6a4w1VcZjLwLYaH/Write-Beautiful-Emails-in-React) ([Tweet](https://twitter.com/VictorPontis/status/1447986769077678093)) ([Code](https://github.com/luma-team/email-templates-starter-repo))
+- [Ask HN: Best way to organize 100-200 emails/day in outlook (2021)](https://news.ycombinator.com/item?id=28887234)
