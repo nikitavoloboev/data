@@ -31,3 +31,4 @@
 - [Nim RFCs](https://github.com/nim-lang/RFCs)
 - [Nim: Efficient, Expressive, Elegant - Comparing these Aspects (2021)](https://nim-lang.org/blog/2021/07/28/Nim-Efficient-Expressive-Elegant-Benchmarking.html)
 - [Why I Use Nim instead of Python for Data Processing (2021)](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/) ([HN](https://news.ycombinator.com/item?id=28626947))
+- ["Nim Nuggets: Systems Programming & Metaprogramming Magic" by Aditya Siram (2021)](https://www.youtube.com/watch?v=d2VRuZo2pdA)

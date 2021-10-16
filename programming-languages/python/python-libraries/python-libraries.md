@@ -542,3 +542,4 @@
 - [Python Packages](https://py-pkgs.org/) - Open source book about making Python packages. ([Code](https://github.com/py-pkgs/py-pkgs))
 - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
 - [Writing Python Extensions in Assembly (2020)](https://tonybaloney.github.io/posts/extending-python-with-assembly.html) ([HN](https://news.ycombinator.com/item?id=28702670))
+- [Pip vs Conda: an in-depth comparison of Python’s two packaging systems (2021)](https://pythonspeed.com/articles/conda-vs-pip/)

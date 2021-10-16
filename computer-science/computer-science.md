@@ -148,3 +148,4 @@
 - [MIT Theory of Computation (2020)](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/) ([Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)) ([HN](https://news.ycombinator.com/item?id=28807222))
 - [Computer Science Club](https://compsciclub.ru/) - Открытые лекции и курсы. ([Twitter](https://twitter.com/spbcsclub))
 - [Solving NP-hard puzzles with the oldest trick in the book (2021)](https://davidkoloski.me/blog/intelligent-brute-forcing/) ([HN](https://news.ycombinator.com/item?id=28845593)) ([Reddit](https://www.reddit.com/r/programming/comments/q7s7os/solving_nphard_puzzles_with_the_oldest_trick_in/))
+- [Timed Sets, Functional Complexity, and Computability (2012)](https://www.sciencedirect.com/science/article/pii/S1571066112000394)
