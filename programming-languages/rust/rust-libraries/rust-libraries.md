@@ -1018,6 +1018,7 @@
 - [hashconsing](https://github.com/AdrienChampion/hashconsing) - Rust hashconsing library.
 - [safe_index](https://github.com/AdrienChampion/safe_index) - Safe indexing in Rust.
 - [unixstring](https://github.com/vrmiguel/unixstring) - FFI-friendly null-terminated byte string.
+- [spmc](https://github.com/seanmonstar/spmc) - Single-Producer, Multiple-Consumer channel for Rust.
 
 ## Cargo Plugins
 
