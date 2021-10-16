@@ -179,3 +179,4 @@ useEffect(() => {
 - [Making hook work conditionally](https://twitter.com/kyleshevlin/status/1442555297101279236)
 - [React & TypeScript: how to type hooks (a complete guide) (2021)](https://devtrium.com/posts/react-typescript-how-to-type-hooks)
 - [How to use React useReducer hook like a pro (2021)](https://devtrium.com/posts/how-to-use-react-usereducer-hook)
+- [Calin Tamas – Hooks are a great abstraction model (2021)](https://www.youtube.com/watch?v=G_-KaHOeuu4)

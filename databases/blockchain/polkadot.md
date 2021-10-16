@@ -62,3 +62,5 @@
 - [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - Collection of debug tools and libraries around substrate chains.
 - [Substrate Validator Set Pallet](https://github.com/gautamdhameja/substrate-validator-set)
 - [Gear](https://github.com/gear-tech/gear) - Computational Component of Polkadot Network.
+- [Play Substrate](https://github.com/kaichaosun/play-substrate) - Runtime modules for beginners to play.
+- [substrate-stencil](https://github.com/kaichaosun/substrate-stencil) - Template for kick starting a Substrate based PoS chain.

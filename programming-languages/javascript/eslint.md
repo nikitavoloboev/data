@@ -27,3 +27,4 @@
 - [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - Provide a defineConfig function for .eslintrc.js files.
 - [eslint-plugin-testing-library](https://github.com/testing-library/eslint-plugin-testing-library) - ESLint plugin to follow best practices and anticipate common mistakes when writing tests with Testing Library.
 - [eslint-plugin-react-memo](https://github.com/steadicat/eslint-plugin-react-memo) - Enforce that all function components are wrapped in React.memo, and that all props and deps are wrapped in useMemo/useCallback so they don’t break memo.
+- [kyleshevlin/eslint-plugin](https://github.com/kyleshevlin/eslint-plugin) - Personal collection of ESLint rules. ([Reddit](https://www.reddit.com/r/reactjs/comments/q911mv/any_good_tutorials_for_senior_devs/hgt7u9s/?utm_source=reddit&utm_medium=web2x&context=3))
