@@ -168,7 +168,7 @@ Here are few more things I liked, design wise.
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Code](https://github.com/brandur/sorg))
 - [Phil Pluckthun](https://kitten.sh/) ([Code](https://github.com/kitten/kitten.sh))
 - [Joel Hooks](https://joelhooks.com/) ([Code](https://github.com/joelhooks/joelhooks-com))
-- [Brian Lovin](https://brianlovin.com/) ([Code](https://github.com/brianlovin/brian-lovin-next))
+- [Brian Lovin](https://brianlovin.com/) ([Code](https://github.com/brianlovin/brian-lovin-next)) ([Tweet](https://twitter.com/brian_lovin/status/1437184078063841286))
 - [Tania Rascia](https://www.taniarascia.com/) ([Code](https://github.com/taniarascia/taniarascia.com))
 - [George Kedenburg III](https://gk3.website/)
 - [Alistair Shepherd](https://alistairshepherd.uk/)

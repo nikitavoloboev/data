@@ -2,6 +2,10 @@
 
 > Built on Next.js — Inspired by Ruby on Rails — New Fullstack Data Layer
 
+## OSS Blitz apps
+
+- [Meme generator for Notion](https://github.com/justjake/memegentino) ([Web](https://jitl.notion.site/jitl/Memegentino-a88d462ab4d7482c870b1120d4dc49d5))
+
 ## Links
 
 - [Blitz Code](https://github.com/blitz-js/blitz)

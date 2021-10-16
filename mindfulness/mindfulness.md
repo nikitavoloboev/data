@@ -53,3 +53,5 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Project Healthy Minds](https://www.projecthealthyminds.com/) - Confronting one of the defining issues of our generation: the mental health crisis. ([Twitter](https://twitter.com/ProjHealthyMind))
 - [fit.dev](https://fit.dev/) - Your Physical and Mental Best. ([Tweet](https://twitter.com/toddmotto/status/1437741239005294597))
 - [I did a Think Week on a remote Scottish island (2021)](https://www.petecodes.io/think-week-scottish-island-2021/) ([Tweet](https://twitter.com/thepatwalls/status/1448242770267738116))
+- [Expanding Awareness](https://expandingawareness.org/) - Explores Alexander Technique and all the things it intersects with.
+- [What is the Alexander Technique? (2021)](https://expandingawareness.org/blog/what-is-the-alexander-technique/)

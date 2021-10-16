@@ -250,3 +250,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [A Guide to Designing Effective NFT Launches (2021)](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)
 - [Artist Spotlight: Divergence and the Art of On-Chain Artwork NFTs (2021)](https://www.proof.xyz/brotchain-generative-art-built-entirely-on-blockchain/) ([Tweet](https://twitter.com/kevinrose/status/1449033168967766031))
 - [Why NFT can be worth anything? (2021)](https://twitter.com/kelseyhightower/status/1449126496107315200)
+- [Tokenization of everything is the biggest thing we have ever seen and will ever see (2021)](https://twitter.com/RaoulGMI/status/1449210646625673217)
