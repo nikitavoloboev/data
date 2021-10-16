@@ -78,3 +78,6 @@
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client.
 - [Fred](https://github.com/aembke/fred.rs) - Async Redis client for Rust.
 - [y-redis](https://github.com/yjs/y-redis) - Redis persistence layer for Yjs.
+- [Undermoon](https://github.com/doyoubi/undermoon) - Mordern Redis Cluster solution for easy operation. ([HN](https://news.ycombinator.com/item?id=28885586))
+- [Undermoon Operator](https://github.com/doyoubi/undermoon-operator) - Kubernetes Operator for Redis cluster based on Undermoon.
+- [Corvus](https://github.com/eleme/corvus) - Fast and lightweight Redis Cluster Proxy for Redis 3.0.

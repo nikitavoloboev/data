@@ -4,6 +4,7 @@
 
 - [cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser.
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface.
+- [Command Interface](https://github.com/empirical-soft/command-interface) - Add a command-line interface to any C++ program. ([HN](https://news.ycombinator.com/item?id=28886328))
 
 ## Testing
 

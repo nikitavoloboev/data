@@ -67,4 +67,4 @@
 - [Art of Assembly Language Programming and HLA by Randall Hyde](https://www.randallhyde.com/AssemblyLanguage/www.artofasm.com/index.html)
 - [Zen of Assembly Language (1990)](https://github.com/jagregory/abrash-zen-of-asm)
 - [x86 assembly doesn’t have to be scary (2018)](https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial) ([HN](https://news.ycombinator.com/item?id=28770907))
-- [minias](https://github.com/andrewchambers/minias) - Mini assembler for x86_64, written for fun and learning.
+- [Minias](https://github.com/andrewchambers/minias) - Mini x86-64 assembler for fun and learning. ([HN](https://news.ycombinator.com/item?id=28884768))

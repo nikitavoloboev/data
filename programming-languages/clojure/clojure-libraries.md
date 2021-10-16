@@ -106,6 +106,7 @@
 - [Javelin](https://github.com/hoplon/javelin) - Spreadsheet-like dataflow programming in ClojureScript.
 - [graal-build-time](https://github.com/clj-easy/graal-build-time) - Library to initialize Clojure packages at build time with GraalVM native-image.
 - [Fijit](https://github.com/erp12/fijit) - Clojure library for Scala interop.
+- [luna](https://github.com/AbhinavOmprakash/luna) - DSL that translates to regex.
 
 ## Links
 

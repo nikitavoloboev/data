@@ -368,3 +368,4 @@
 - [A Guide To CSS Debugging (2021)](https://www.smashingmagazine.com/2021/10/guide-debugging-css/)
 - [CSS to XPath](https://github.com/peteboere/csstoxpath)
 - [Conditional Border Radius In CSS (2021)](https://ishadeed.com/article/conditional-border-radius/)
+- [Smart CSS Solutions For Common UI Challenges (2021)](https://www.smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/)

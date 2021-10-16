@@ -68,7 +68,7 @@
 - [Xkit](https://xkit.co/) - Build OAuth integrations in minutes. ([HN](https://news.ycombinator.com/item?id=24121290))
 - [Galileo's Proposed Authentication Algorithm (2020)](https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/)
 - [Let's build the GitHub authorization model (2020)](https://www.osohq.com/post/building-the-github-authorization-model-using-oso)
-- [oso](https://www.osohq.com/) - Open source policy engine for authorization that’s embedded in your application. ([Code](https://github.com/osohq/oso)) ([GitHub](https://github.com/osohq))
+- [Oso](https://www.osohq.com/) - Open source policy engine for authorization that’s embedded in your application. ([Code](https://github.com/osohq/oso)) ([GitHub](https://github.com/osohq)) ([Sam Scott, co-founder and CTO of Oso](https://overcast.fm/+cV8qq9nko))
 - [I Actively Discourage Online Tooling Like Jwt.io and Online JSON Validators (2020)](https://www.jvt.me/posts/2020/09/01/against-online-tooling/) ([Lobsters](https://lobste.rs/s/jxlr73/why_i_actively_discourage_online_tooling)) ([HN](https://news.ycombinator.com/item?id=24352360))
 - [ORY Hydra](https://github.com/ory/hydra) - Hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect Provider optimized for low-latency, high throughput, and low resource consumption.
 - [The different kinds of authentication protocols](https://www.devever.net/~hl/auth)
@@ -161,3 +161,4 @@
 - [Casdoor](https://github.com/casbin/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform based on OAuth 2.0 / OIDC. ([Web](https://casdoor.org/))
 - [JWT-to-RBAC](https://github.com/banzaicloud/jwt-to-rbac) - Lets you automatically generate RBAC resources based on JWT tokens.
 - [auth-server](https://github.com/reugn/auth-server) - Simple authentication and authorization server.
+- [Kanidm](https://github.com/kanidm/kanidm) - Identity management platform written in rust. ([HN](https://news.ycombinator.com/item?id=28886636))

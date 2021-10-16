@@ -98,3 +98,5 @@
 - [Solana Twitter List](https://twitter.com/i/lists/1426205888205918214) ([Tweet](https://twitter.com/joemccann/status/1448501295753531400))
 - [Create Solana Dapp with Next.JS](https://github.com/thuglabs/create-dapp-solana-nextjs)
 - [SolGuard](https://www.solguard.io/) - NFT verifications for Solana. ([Twitter](https://twitter.com/solguard_io)) ([Code](https://github.com/solguard-org/sg-verification))
+- [Easy SPL](https://github.com/solstar-tech/easy-spl) - Making tokens on Solana easy.
+- [Alon](https://lithdew.github.io/alon/) - IDE which allows for developers to rapidly build, iterate, test, and deploy decentralized apps and assets on Solana right from their browser. ([Code](https://github.com/lithdew/alon))

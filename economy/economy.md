@@ -101,3 +101,4 @@
 - [Why Does Quantitative Easing Benefit the Rich? (2021)](https://fififinance.com/quantitative-easing) ([HN](https://news.ycombinator.com/item?id=28827293))
 - [A Nobel Prize for the Credibility Revolution (2021)](https://marginalrevolution.com/marginalrevolution/2021/10/the-credibility-revolution-1.html)
 - [2021 Nobel Prize for Economics](https://www.nobelprize.org/prizes/economic-sciences/2021/popular-information/) ([HN](https://news.ycombinator.com/item?id=28830058))
+- [Institute for New Economic Thinking](https://www.ineteconomics.org/)

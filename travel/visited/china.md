@@ -61,3 +61,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Patriotic Education Campaign](https://en.wikipedia.org/wiki/Patriotic_Education_Campaign)
 - [History of science and technology in China](https://en.wikipedia.org/wiki/History_of_science_and_technology_in_China)
 - ["One company, two systems" won't work for U.S. firms in China (2021)](https://www.axios.com/interview-jacob-helberg-on-us-tech-companies-and-china-3ec0b5f3-8cbe-4607-a956-0f873582fc86.html)
+- [Jim Chanos: China’s “Leveraged Prosperity” Model is Doomed. And That’s Not the Worst. (2021)](https://www.ineteconomics.org/perspectives/blog/jim-chanos-chinas-leveraged-prosperity-model-is-doomed-and-thats-not-the-worst)

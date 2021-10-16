@@ -129,4 +129,4 @@ Success comes from not giving up and doing what you love.
 - [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.goodreads.com/book/show/16256798-the-one-thing) ([Summary](https://emilyyleung.github.io/digitalgarden/books/The%20One%20Thing%20-%20Keller/))
 - [Principles of Wealth](https://principlesofwealth.net/) - Summary of Naval Ravikant’s tweetstorms and podcasts. ([Code](https://github.com/flowen/principlesofwealth))
 - [How to be a successful athlete (2021)](https://twitter.com/nathanbaugh27/status/1438845812642127876)
-- [Productivity and Velocity](https://danluu.com/productivity-velocity/) ([HN](https://news.ycombinator.com/item?id=28882043))
+- [Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/) ([HN](https://news.ycombinator.com/item?id=28882043))

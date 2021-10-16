@@ -562,4 +562,4 @@ Go promotes composition over inheritance.
 - [Interfaces and Nil in Go, or, Don't Lie to Computers (2021)](http://www.jerf.org/iri/post/2957)
 - [Thoughts on structuring Go projects (2021)](https://twitter.com/matryer/status/1448611708851957760)
 - [State Machines in Go (2021)](https://mt165.co.uk/blog/state-machine-go/)
-- [Hunting down a C memory leak in a Go program (2021)](https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d)
+- [Hunting down a C memory leak in a Go program (2021)](https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d) ([HN](https://news.ycombinator.com/item?id=28883359))

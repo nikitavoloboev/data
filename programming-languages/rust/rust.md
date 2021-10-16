@@ -588,3 +588,4 @@
 - [Designing an API Client in Rust: New Rspotify Version a Year Later (2021)](https://nullderef.com/blog/web-api-client/)
 - [Contributing to Rust std (2021)](https://www.mdaverde.com/posts/contributing-to-rust-std/)
 - [Making slow Rust code fast (2021)](https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html)
+- [Phantom Types in Rust (2021)](https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/)

@@ -21,6 +21,7 @@
 - [SOPS: Secrets OPerationS](https://github.com/isindir/sops-secrets-operator) - Operator which manages Kubernetes Secret Resources created from user defined SopsSecrets CRs.
 - [KubePug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker).
 - [Druid Kubernetes Operator](https://github.com/druid-io/druid-operator)
+- [Notifications Engine](https://github.com/argoproj/notifications-engine) - Affordable notifications for Kubernetes.
 
 ## Links
 

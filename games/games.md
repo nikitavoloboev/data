@@ -223,3 +223,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Sid Meier and the meaning of ‘Civilization’ (2021)](https://www.newyorker.com/books/under-review/sid-meier-and-the-meaning-of-civilization) ([HN](https://news.ycombinator.com/item?id=28625315))
 - [So you want to compete with Roblox (2021)](https://www.fortressofdoors.com/so-you-want-to-compete-with-roblox/) ([HN](https://news.ycombinator.com/item?id=28714779)) ([Tweet](https://twitter.com/ID_AA_Carmack/status/1443969641848741897))
 - [Computer Game Play Reduces Intrusive Memories of Experimental Trauma via Reconsolidation-Update Mechanisms (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526368/) ([HN](https://news.ycombinator.com/item?id=28799760))
+- [Deeper Than Pixels: A Reading List on Video Games (2021)](https://longreads.com/2021/10/07/deeper-than-pixels-a-reading-list-on-video-games/) ([HN](https://news.ycombinator.com/item?id=28885867))

@@ -62,3 +62,5 @@
 - [Reticle: A Virtual Machine for Programming Modern FPGAs (2021)](https://www.cs.cornell.edu/~asampson/media/papers/reticle-pldi2021.pdf) ([Tweet](https://twitter.com/lukego/status/1393495710671282177))
 - [iCEBreaker FPGA](https://github.com/icebreaker-fpga/icebreaker) - Low cost, open-source educational FPGA development board.
 - [RapidWright](https://github.com/Xilinx/RapidWright) - Build Customized FPGA Implementations for Vivado. ([Web](http://www.rapidwright.io/))
+- [captouch](https://github.com/stnolting/captouch) - Capacitive Buttons for any FPGA.
+- [FPGA Torture](https://github.com/stnolting/fpga_torture) - Technology-agnostic FPGA stress-test: maximum logic utilization and high dynamic power consumption.

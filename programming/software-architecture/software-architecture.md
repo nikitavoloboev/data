@@ -164,3 +164,5 @@
 - [Clean Architecture by Robert C. Martin Book (2007)](https://www.goodreads.com/book/show/18043011-clean-architecture) ([Notes](https://github.com/preslavmihaylov/booknotes/tree/master/architecture/clean-architecture))
 - [Technology decisions for startups (2021)](https://davidkell.substack.com/p/technology-decisions-for-startups)
 - [Scaling Large Production Clusters with Partitioned Synchronization (2021)](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
+- [Local-first software with Martin Kleppmann (2021)](https://overcast.fm/+Y-HX8R30E)
+- [How to Safely Think in Systems (2021)](https://lethain.com/how-to-safely-think-in-systems/) ([HN](https://news.ycombinator.com/item?id=28886376))
