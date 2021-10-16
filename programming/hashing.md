@@ -49,3 +49,4 @@
 - [Haraka](https://github.com/kste/haraka) - Secure and efficient short-input hash function.
 - [borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing.
 - [Less Hashing, Same Performance: Building a Better Bloom Filter](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.2442&rep=rep1&type=pdf)
+- [Implementing Hash Tables in C (2021)](https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1)

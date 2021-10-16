@@ -298,3 +298,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Gulagu.net](https://gulagu-net.ru/) - Project against corruption and torture in Russia. ([ФСИН-гейт: как пытки в колониях становятся системой](https://www.youtube.com/watch?v=m4U78EqcqVE))
 - [Все о новой Госдуме: клетка для буйных, зарплаты в комитетах и новые полномочия. (2021)](https://www.youtube.com/watch?v=3tmpnx2C4xQ)
 - [Коррупция в России. Перцев и Гаазе обсуждают, как она изменилась за 20 лет (2021)](https://www.youtube.com/watch?v=bqcf2gaIwIg&t=1s)
+- [Когда в России отключат YouTube? И почему теперь враги —и либералы, и коммунисты (2021)](https://www.youtube.com/watch?v=sI9cn7jmtFA)

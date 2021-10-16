@@ -113,6 +113,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [SteinsOS](https://github.com/0x59616e/SteinsOS) - Operating system featuring non-preemptive single-threaded kernel targeting on armv8.
 - [EmbassyOS](https://github.com/Start9Labs/embassy-os) - Graphical operating system for running self-hosted software. ([Web](https://start9.com/))
 - [Singularity](https://codingkaiser.blog/2021/07/23/operating-systems-are-more-exciting-than-you-think/) - Microsoft’s Experimental OS. ([HN](https://news.ycombinator.com/item?id=28816876))
+- [Tupai Kernel](https://github.com/tupai-os/kernel)
+- [Deus](https://github.com/tupai-os/deus) - Portable kernel written in Rust.
 
 ## Notes
 

@@ -83,3 +83,4 @@
 - [Senet and Helium Announce LoRaWAN Network Integration Partnership (2021)](https://www.senetco.com/about/news/senet-and-helium-announce-lorawan-network-integration-partnership/) ([HN](https://news.ycombinator.com/item?id=28617197))
 - [LoRaMac-node](https://github.com/Lora-net/LoRaMac-node) - Reference implementation and documentation of a LoRa network node.
 - [Picotracker Lora](https://github.com/ImperialSpaceSociety/LoRaMac-node)
+- [Generic Node - The Things Industries](https://www.genericnode.com/) - One LoRaWAN node. Endless use cases. ([Code](https://github.com/TheThingsIndustries/generic-node-se))

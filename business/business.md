@@ -114,3 +114,4 @@ Learning to build [startups](startups/startups.md).
 - [Business Wire](https://www.businesswire.com/portal/site/home/) - Press release distribution, EDGAR filing, XBRL, regulatory filings.
 - [The Death and Birth of Technological Revolutions (2021)](https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/) ([HN](https://news.ycombinator.com/item?id=28839424)) ([Tweet](https://twitter.com/gordonbrander/status/1447975083469803523))
 - [Companies that started as spreadsheets (2021)](https://twitter.com/stephsmithio/status/1448784835477008396)
+- [Steve Jobs on Starting A Business](https://www.youtube.com/watch?v=kwkGX-PlTxs)

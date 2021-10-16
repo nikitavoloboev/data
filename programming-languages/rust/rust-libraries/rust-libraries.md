@@ -258,6 +258,7 @@
 - [Verkle Trie](https://github.com/crate-crypto/rust-verkle)
 - [ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) - Fast and efficient ed25519 signing and verification in Rust.
 - [curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - Pure-Rust implementation of group operations on Ristretto and Curve25519.
+- [dryoc](https://github.com/brndnmtthws/dryoc) - Pure-Rust, general-purpose cryptography library.
 
 ## Linux
 
@@ -1019,6 +1020,7 @@
 - [safe_index](https://github.com/AdrienChampion/safe_index) - Safe indexing in Rust.
 - [unixstring](https://github.com/vrmiguel/unixstring) - FFI-friendly null-terminated byte string.
 - [spmc](https://github.com/seanmonstar/spmc) - Single-Producer, Multiple-Consumer channel for Rust.
+- [Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264 encoding framework with per scene quality encoding.
 
 ## Cargo Plugins
 
