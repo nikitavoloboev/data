@@ -67,3 +67,4 @@
 - [Discord Bots](https://discord.com/invite/0cDvIgU2voY8RSYL)
 - [Revolt](https://revolt.chat/) - Open-source alternative to Discord written in Rust. ([HN](https://news.ycombinator.com/item?id=28434012))
 - [Please stop closing forums and moving people to Discord (2021)](https://kotaku.com/please-stop-closing-forums-and-moving-people-to-discord-1847684851) ([HN](https://news.ycombinator.com/item?id=28549739))
+- [Discord Bot built with Fastify Tutorial](https://github.com/Eomm/fastify-discord-bot-demo)

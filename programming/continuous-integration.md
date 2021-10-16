@@ -61,3 +61,4 @@
 - [Tekton Chains](https://github.com/tektoncd/chains) - Kubernetes Custom Resource Definition (CRD) controller that allows you to manage your supply chain security in Tekton.
 - [Bitrise](https://www.bitrise.io/) - Mobile Continuous Integration and Delivery. ([GitHub](https://github.com/bitrise-io)) ([Bitrise Step Libs](https://github.com/bitrise-steplib))
 - [Bitrise (offline) CLI](https://github.com/bitrise-io/bitrise) ([Web](http://app.bitrise.io/cli))
+- [Zero Downtime Deployments (2021)](https://www.lpalmieri.com/posts/zero-downtime-deployments/)

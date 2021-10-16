@@ -117,6 +117,7 @@
 - [react-use-clipboard](https://github.com/danoc/react-use-clipboard) - React hook that provides copy to clipboard functionality.
 - [AtomicState](https://github.com/immobiliare/atomic-state) - Decentralized state management library for React.
 - [observable-hooks](https://github.com/crimx/observable-hooks) - Concurrent mode safe React hooks for RxJS Observables. Simple, flexible, testable and performant.
+- [react-generate-context](https://github.com/kyleshevlin/react-generate-context) - React Context with less boilerplate.
 
 ## Code
 

@@ -100,3 +100,4 @@
 - [SolGuard](https://www.solguard.io/) - NFT verifications for Solana. ([Twitter](https://twitter.com/solguard_io)) ([Code](https://github.com/solguard-org/sg-verification))
 - [Easy SPL](https://github.com/solstar-tech/easy-spl) - Making tokens on Solana easy.
 - [Alon](https://lithdew.github.io/alon/) - IDE which allows for developers to rapidly build, iterate, test, and deploy decentralized apps and assets on Solana right from their browser. ([Code](https://github.com/lithdew/alon))
+- [sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter) - Library to allow Solana dApps to use third-party wallets to sign transactions.

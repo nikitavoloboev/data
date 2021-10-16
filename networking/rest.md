@@ -25,3 +25,4 @@
 - [Tutorial: Build a RESTful API on Go](https://github.com/koddr/tutorial-go-fiber-rest-api) - Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers.
 - [Best Practices for Versioning REST and GraphQL APIs (2021)](https://www.moesif.com/blog/technical/api-design/Best-Practices-for-Versioning-REST-and-GraphQL-APIs/)
 - [Why do Webdevs keep trying to kill REST? (2021)](https://www.swyx.io/client-server-battle/)
+- [How To Write A REST Client In Rust (2021)](https://www.lpalmieri.com/posts/how-to-write-a-rest-client-in-rust-with-reqwest-and-wiremock/)

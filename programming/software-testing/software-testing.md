@@ -106,3 +106,4 @@
 - [Coverage is not strongly correlated with test suite effectiveness (2021)](https://neverworkintheory.org/2021/09/24/coverage-is-not-strongly-correlated-with-test-suite-effectiveness.html) ([HN](https://news.ycombinator.com/item?id=28642506))
 - [Good tests don't change (2021)](https://owengage.com/writing/2021-10-09-good-tests-dont-change/)
 - [The Fundamentals of Testing with Persistence Layers (2021)](https://www.infoq.com/articles/Testing-With-Persistence-Layers/)
+- [Skeleton And Principles For A Maintainable Test Suite (2021)](https://www.lpalmieri.com/posts/skeleton-and-principles-for-a-maintainable-test-suite/)
