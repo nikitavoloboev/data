@@ -127,3 +127,4 @@
 - [deno.ns](https://github.com/fromdeno/deno.ns) - Deno namespace shim for Node.js.
 - [Diplo](https://github.com/Tricked-dev/diplo) - Script runner and dependency manager made in rust mainly for Deno.
 - [deno_cache](https://github.com/kitsonk/deno_cache) - TypeScript implementation of Deno CLI's module cache.
+- [deno_bindgen](https://github.com/littledivy/deno_bindgen) - Simplified glue code generation for Deno FFI libraries written in Rust.
