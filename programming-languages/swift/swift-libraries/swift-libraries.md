@@ -783,6 +783,7 @@
 - [OpenTelemetry API for Swift](https://github.com/open-telemetry/opentelemetry-swift)
 - [Doctor Pretty](https://github.com/bkase/DoctorPretty) - Wadler's "A prettier printer" embedded pretty-printer DSL for Swift.
 - [Environment](https://github.com/wlisac/environment) - Type-safe environment variables in Swift.
+- [Swift BSON](https://github.com/mongodb/swift-bson) - Pure Swift BSON library.
 
 ## Other (not lib)
 
@@ -812,3 +813,4 @@
 - [Awesome SwiftWASM](https://github.com/swiftwasm/awesome-swiftwasm) - Community-driven curated list of SwiftWasm projects and content.
 - [Swift-DocC](https://github.com/apple/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package. ([Release Article](https://swift.org/blog/swift-docc/))
 - [Swift-DocC-Render](https://github.com/apple/swift-docc-render) - Web Single Page Application (SPA) powered by Vue.js for creating rich code documentation websites.
+- [Kaitlin Mahar - Maintaining a Library in a Swiftly Moving Ecosystem (2019)](https://www.youtube.com/watch?v=9-fdbG9jNt4)

@@ -143,7 +143,8 @@
 - [Questions & Answers | Swift by Sundell](https://swiftbysundell.com/questions/)
 - [AppCoda](https://www.appcoda.com/) - Learn Swift, SwiftUI, iOS, and Mac App Programming.
 - [Swift in Depth](https://www.swiftindepth.com/)
-- [Swift Server Work Group](https://swift.org/server/) ([GitHub](https://github.com/swift-server)) ([Code](https://github.com/swift-server/sswg))
+- [Swift on Server](https://swift.org/server/)
+- [Swift Server Work Group](https://swift.org/sswg/) ([GitHub](https://github.com/swift-server)) ([Code](https://github.com/swift-server/sswg))
 - [SwiftRef](https://dabrahams.github.io/SwiftRef/) - Community-Generated Swift Programming Language Reference. ([Code](https://github.com/dabrahams/SwiftRef))
 - [Swift type checking is undecidable (2020)](https://forums.swift.org/t/swift-type-checking-is-undecidable/39024) ([Lobsters](https://lobste.rs/s/yl7a1w/swift_type_checking_is_undecidable)) ([HN](https://news.ycombinator.com/item?id=24047394))
 - [The state of Swift documentation (2020)](https://forums.swift.org/t/the-state-of-swift-documentation/39130)

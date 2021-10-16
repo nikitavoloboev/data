@@ -19,3 +19,6 @@
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
 - [pino-mongodb](https://github.com/pinojs/pino-mongodb) - Insert JSON from stdin into MongoDB.
 - [Motor](https://github.com/mongodb/motor) - Async Python driver for MongoDB and Tornado or asyncio.
+- [MongoDB Rust Driver](https://github.com/mongodb/mongo-rust-driver)
+- [MongoSwift](https://github.com/mongodb/mongo-swift-driver)
+- [Getting Started with Server-Side Swift with MongoDB and Vapor (2021)](https://kaitlin.dev/2021/07/30/mongodb-vapor.html)
