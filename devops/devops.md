@@ -97,3 +97,4 @@
 - [Ask HN: Solo-preneurs, how do you DevOps to save time? (2021)](https://news.ycombinator.com/item?id=28838132)
 - [How to Use Hydra as your Deployment Source of Truth (2021)](https://determinate.systems/posts/hydra-deployment-source-of-truth) ([Lobsters](https://lobste.rs/s/ntm3gd/how_use_hydra_as_your_deployment_source))
 - [What to Ask in an SRE Technical Interview (2021)](https://mt165.co.uk/blog/sre-interview-questions/)
+- [DevOps Newsletters of Note](https://devopsnewsletters.com/)

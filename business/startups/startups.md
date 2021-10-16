@@ -63,6 +63,7 @@
 - [MVP should be usable (functional and reliable).](https://twitter.com/visakanv/status/536346231472013312)
 - [Starting a company is just taking something that used to annoy you every once in a while and spending every waking minute thinking about it.](https://twitter.com/gkoberger/status/1428138994294874115)
 - [Does this get better or worse as more people use it? Better? You're building a product. Worse? You're building a service.](https://twitter.com/Austen/status/1445610785388982277)
+- [Do whatever you think is right; if you end up successful you were right. Everything else are just opinions, ideas or noise. Take them, use them, ignore them. Your choice. You will only win in your own way.](https://twitter.com/andreasklinger/status/1449394745545998350)
 
 ## Links
 

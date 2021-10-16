@@ -17,6 +17,7 @@
 - [lazyblorg](https://github.com/novoid/lazyblorg) - Blogging with Org-mode for very lazy people.
 - [org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Connector between Org-roam, BibTeX-completion, and Org-ref.
 - [rigpa](https://github.com/countvajhula/rigpa) - Modular editing levels and towers for Emacs.
+- [Auto Activating Snippets](https://github.com/ymarco/auto-activating-snippets) - Snippets for Emacs that expand as you type.
 
 ## Elm
 

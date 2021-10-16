@@ -101,3 +101,4 @@
 - [Why Erlang?](https://www.fredrikholmqvist.com/posts/why-erlang/) ([HN](https://news.ycombinator.com/item?id=28365911)) ([Lobsters](https://lobste.rs/s/ibd5bw/why_erlang))
 - [Guide to Tracing in Erlang](http://stratus3d.com/blog/2021/08/24/guide-to-tracing-in-erlang/)
 - [FancyFlow](https://github.com/fenollp/fancyflow) - Experimental Erlang library to bring convenience of things like the elixir pipe operator into Erlang.
+- [CauDEr](https://github.com/mistupv/cauder) - Causal-Consistent Reversible Debugger for Erlang.

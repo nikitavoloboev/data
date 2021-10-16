@@ -589,3 +589,5 @@
 - [Contributing to Rust std (2021)](https://www.mdaverde.com/posts/contributing-to-rust-std/)
 - [Making slow Rust code fast (2021)](https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html)
 - [Phantom Types in Rust (2021)](https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/)
+- [Password auth in Rust, from scratch - Attacks and best practices (2021)](https://www.lpalmieri.com/posts/password-authentication-in-rust/)
+- [Error Handling In Rust - A Deep Dive (2021)](https://www.lpalmieri.com/posts/error-handling-rust/)

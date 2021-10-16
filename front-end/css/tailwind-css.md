@@ -104,3 +104,4 @@
 - [Destack](https://destack-page.vercel.app/) - Build landing pages visually right in your Next.js project. Deploy them zero further configuration. ([Code](https://github.com/LiveDuo/destack))
 - [Most well-known sites you know of that use Tailwind CSS? (2021)](https://twitter.com/adamwathan/status/1441541303372693504)
 - [Tailory](https://rareblocks.xyz/) - Customize your website with rare, unique Tailwind components that are guaranteed to be different from the crowd. ([Twitter](https://twitter.com/_rareblocks))
+- [Wicked Blocks](https://wickedblocks.dev/) - Ready Made Tailwind CSS blocks, for your next project.

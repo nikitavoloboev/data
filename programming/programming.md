@@ -460,3 +460,4 @@
 - [Things I’ve learned in my 20 years as a software engineer (2021)](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) ([HN](https://news.ycombinator.com/item?id=28797485))
 - [Ask HN: Ever lost your love for coding? How did you get it back? (2021)](https://news.ycombinator.com/item?id=28838530)
 - [Always Do Extra (2021)](http://www.bennorthrop.com/Essays/2021/always-do-extra.php) ([HN](https://news.ycombinator.com/item?id=28856730)) ([Reddit](https://www.reddit.com/r/programming/comments/q7c0uw/always_do_extra_a_strategy_for_longevity_in/))
+- [Are You Using The Right Cache? (2021)](https://www.lpalmieri.com/posts/caching-types-in-a-microservice-architecture/)

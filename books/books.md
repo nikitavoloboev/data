@@ -416,3 +416,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Z-Library](https://z-lib.org/) - World's largest ebook library.
 - [Z-Library Books](https://nl1lib.org/)
 - [Z-Library Articles](https://booksc.org/)
+- [Top Shelves | Goodreads](https://www.goodreads.com/shelf)

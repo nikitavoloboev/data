@@ -315,3 +315,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Solidity on Replit: Diving into Web3 (2021)](https://blog.replit.com/solidity) ([Tweet](https://twitter.com/Replit/status/1448708682234089477))
 - [Proof of KYC](https://github.com/m1guelpf/proof-of-kyc) - NFT that proves you've gone through an identity verification process, powered by Stripe Identity.
 - [Minority Ethereum Client](https://github.com/karalabe/minority) ([Tweet](https://twitter.com/peter_szilagyi/status/1448956344699064333))
+- [Abracadabra Money](https://abracadabra.money/) - Loans that pay for themselves. ([Explained](https://www.youtube.com/watch?v=q-iDAkJkbIs)) ([Code](https://github.com/Abracadabra-money/magic-internet-money))

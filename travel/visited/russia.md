@@ -296,3 +296,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Блестящая речь экс-президента Эстонии об Алексее Навальном, России и Западе (2021)](https://www.youtube.com/watch?v=EWdDStlnmxc)
 - [«Наступил Советский союз»: Гельман — о нападении на «Мемориал» и перспективах оппозиции в России (2021)](https://www.youtube.com/watch?v=OlE0dRgdJWU)
 - [Gulagu.net](https://gulagu-net.ru/) - Project against corruption and torture in Russia. ([ФСИН-гейт: как пытки в колониях становятся системой](https://www.youtube.com/watch?v=m4U78EqcqVE))
+- [Все о новой Госдуме: клетка для буйных, зарплаты в комитетах и новые полномочия. (2021)](https://www.youtube.com/watch?v=3tmpnx2C4xQ)

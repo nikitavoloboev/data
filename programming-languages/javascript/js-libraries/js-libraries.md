@@ -646,3 +646,4 @@
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
 - [install-pkg](https://github.com/antfu/install-pkg) - Install package programmatically. Detect package managers automatically (npm, yarn and pnpm).
 - [npm-search](https://github.com/algolia/npm-search) - Failure resilient npm registry to Algolia index replication process.
+- [stable-hash](https://github.com/shuding/stable-hash) - Stable JS value hash.
