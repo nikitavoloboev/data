@@ -48,7 +48,7 @@
 - [Common Voice](https://commonvoice.mozilla.org/en) - Mozilla's initiative to help teach machines how real people speak.
 - [FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement (2021)](https://arxiv.org/abs/2010.15508) ([Code](https://github.com/haoxiangsnr/FullSubNet))
 - [DeepSpeech2 in PyTorch using PyTorch Lightning](https://github.com/SeanNaren/deepspeech.pytorch)
-- [Speech and Language Processing Book (2020)](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf) - Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition.
+- [Speech and Language Processing Book (2021)](https://web.stanford.edu/~jurafsky/slp3/) - Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. ([2020 Version](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf))
 - [voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux. ([Web](https://voice2json.org/))
 - [wav2vec Unsupervised: Speech recognition without supervision (2021)](https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/)
 - [Online Speech recognition using RNN-Transducer](https://github.com/theblackcat102/edgedict)

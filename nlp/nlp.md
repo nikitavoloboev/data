@@ -368,3 +368,4 @@
 - [Fast Sentence Embeddings (fse)](https://github.com/oborchers/Fast_Sentence_Embeddings) - Compute Sentence Embeddings Fast.
 - [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models (2021)](https://arxiv.org/abs/2110.07178)
 - [Surge AI](https://www.surgehq.ai/) - Build powerful NLP datasets using our global labeling force and platform. ([Python SDK](https://github.com/surge-ai/surge-python))
+- [Mirror-BERT: Converting Pretrained Language Models to universal text encoders without labels](https://arxiv.org/abs/2104.08027) ([Code](https://github.com/cambridgeltl/mirror-bert))

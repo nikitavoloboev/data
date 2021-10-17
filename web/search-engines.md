@@ -163,3 +163,4 @@
 - [IndieWeb Search](https://indieweb-search.jamesg.blog/) - Search web sites published by members of the IndieWeb community and related sites. ([Code](https://github.com/capjamesg/indieweb-search))
 - [Felvin Search](https://felvin.com/) - Your search box is now an app store. ([Code](https://github.com/felvin-search/instant-apps))
 - [MiniSearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node.
+- [Search Engine Parser](https://github.com/bisoncorps/search-engine-parser) - Package that lets you query popular search engines and scrape for result titles, links, descriptions and more.

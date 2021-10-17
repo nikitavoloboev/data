@@ -32,6 +32,7 @@
 
 ## Test
 
+- [Bloop](https://scalacenter.github.io/bloop/) - Compile, test and run Scala code fast. ([Code](https://github.com/scalacenter/bloop))
 - [Weaver-test](https://github.com/disneystreaming/weaver-test) - Test framework that runs everything in parallel.
 
 ## ML

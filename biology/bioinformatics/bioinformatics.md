@@ -161,3 +161,4 @@
 - [Biomappings](https://github.com/biopragmatics/biomappings) - Community curated and predicted equivalences and related mappings between named biological entities that are not available from primary sources.
 - [PheKnowLator](https://github.com/callahantiff/PheKnowLator) - Heterogeneous Biomedical Knowledge Graphs and Benchmarks Constructed Under Alternative Semantic Models.
 - [Computational Reproducibility with BioNix (2021)](https://academic.oup.com/gigascience/article/9/11/giaa121/5987272)
+- [Self-Alignment Pretraining for Biomedical Entity Representations (2021)](https://aclanthology.org/2021.naacl-main.334/) ([Code](https://github.com/cambridgeltl/sapbert))

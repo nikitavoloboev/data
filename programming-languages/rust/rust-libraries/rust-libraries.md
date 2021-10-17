@@ -1027,6 +1027,7 @@
 - [TwoX-Hash](https://github.com/shepmaster/twox-hash) - Rust implementation of the XXHash algorithm.
 - [atomic-rs](https://github.com/Amanieu/atomic-rs) - Generic Atomic<T> type for Rust.
 - [Dissimilar](https://github.com/dtolnay/dissimilar) - Diff library with semantic cleanup.
+- [waihona](https://github.com/bisoncorps/waihona) - Rust library for performing basic cloud storage actions across major cloud providers e.g aws.
 
 ## Cargo Plugins
 

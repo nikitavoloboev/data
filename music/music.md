@@ -150,3 +150,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Spotify Box (2021)](https://evanhailey.com/2021/09/20/spot-box/) ([HN](https://news.ycombinator.com/item?id=28621471))
 - [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/) ([Twitter](https://twitter.com/c4dm))
 - [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening)
+- [Mythra](https://github.com/Go-phie/mythra) - Music retrieval CLI and API using rust.
