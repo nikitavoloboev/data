@@ -994,6 +994,7 @@
 - [Go-ReJSON](https://github.com/nitishm/go-rejson) - Go client for ReJSON Redis Module.
 - [q](https://github.com/ryboe/q) - Better way to do print statement debugging.
 - [lumber](https://github.com/gleich/lumber) - Dead simple, pretty, and feature-rich logger for Go.
+- [promise](https://github.com/chebyrash/promise) - Promise / Future library for Go.
 
 ## Links
 

@@ -158,3 +158,4 @@
 - [Erlang inspired error handling with superv.async. (2016)](https://whilo.github.io/articles/16/error-handling1)
 - [Native Clojure with GraalVM (2021)](https://convexhuman.com/graalvm-clojure.html)
 - [Clojure Cookbook](http://clojure-cookbook.com/) ([Code](https://github.com/clojure-cookbook/clojure-cookbook))
+- [Building Stable Foundations - Heart of Clojure 2019 talk](https://danielcompton.net/2021/02/21/building-stable-foundations-heart-of-clojure-2019)

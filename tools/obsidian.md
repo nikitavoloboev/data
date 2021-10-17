@@ -28,6 +28,7 @@
 - [Hider](https://github.com/kepano/obsidian-hider) - Hide Obsidian UI elements such as tooltips, status, titlebar and more.
 - [Minimal Setting](https://github.com/kepano/obsidian-minimal-settings) - Settings plugin to control colors and fonts in Minimal Theme.
 - [Linked Data Vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) - Add linked data to the YAML of your Obsidian notes.
+- [QuickAdd](https://github.com/chhoumann/quickadd) - Quickly add new pages or content to your vault.
 
 ## Themes
 

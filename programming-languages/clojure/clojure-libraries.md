@@ -108,6 +108,7 @@
 - [Fijit](https://github.com/erp12/fijit) - Clojure library for Scala interop.
 - [luna](https://github.com/AbhinavOmprakash/luna) - DSL that translates to regex.
 - [Coffi](https://github.com/IGJoshua/coffi) - Foreign Function Interface in Clojure for JDK 17.
+- [Ring-Codec](https://github.com/ring-clojure/ring-codec) - Utility library for encoding and decoding data.
 
 ## Links
 

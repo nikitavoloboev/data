@@ -786,6 +786,7 @@
 - [Swift BSON](https://github.com/mongodb/swift-bson) - Pure Swift BSON library.
 - [GAppAuth](https://github.com/elsesiy/GAppAuth) - Drop-in class to handle AppAuth with Google Services (iOS & macOS).
 - [Maestro](https://github.com/rpwachowski/maestro) - Build complex, conducted animations declaratively without manually managing state.
+- [Analytics-Swift](https://github.com/segmentio/analytics-swift) - Hassle-free way to add Segment analytics to your Swift app (iOS/tvOS/watchOS/macOS/Linux).
 
 ## Other (not lib)
 
