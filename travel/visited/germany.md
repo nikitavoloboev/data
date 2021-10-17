@@ -26,3 +26,4 @@
 - [List of German inventions and discoveries](https://en.wikipedia.org/wiki/List_of_German_inventions_and_discoveries)
 - [Germany Tax explained](https://www.expatfinance.us/germany/investment-taxes)
 - [German taxes on capital gains](https://www.expatfinance.us/germany/investment-taxes)
+- [Investing in Germany's startups is complex (2021)](https://twitter.com/t_blom/status/1449007004371009536)

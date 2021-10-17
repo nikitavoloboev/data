@@ -38,6 +38,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Anya Taylor-Joy: Working On The Queen’s Gambit Was An IRL Checkmate (2021)](https://www.youtube.com/watch?v=Dz12pCwA41A)
 - [Anya Taylor-Joy on 90's Nostalgia, Going Barefoot, and "Tiny Dancer" | Ask Me Anything (2021)](https://www.youtube.com/watch?v=mKdAsymo9Lk)
 - [Full Elon Musk Interview CodeCon (2021)](https://www.youtube.com/watch?v=ESIjxVudERY)
+- [Notion interview with Alan Kay: On context and catalysts of personal computing (2021)](https://www.notion.so/blog/alan-kay)
 
 ## Interesting bios
 

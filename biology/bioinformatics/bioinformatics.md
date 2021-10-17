@@ -160,3 +160,4 @@
 - [MoleculeX](https://github.com/divelab/MoleculeX) - New and rapidly growing suite of machine learning methods and software tools for molecule exploration.
 - [Biomappings](https://github.com/biopragmatics/biomappings) - Community curated and predicted equivalences and related mappings between named biological entities that are not available from primary sources.
 - [PheKnowLator](https://github.com/callahantiff/PheKnowLator) - Heterogeneous Biomedical Knowledge Graphs and Benchmarks Constructed Under Alternative Semantic Models.
+- [Computational Reproducibility with BioNix (2021)](https://academic.oup.com/gigascience/article/9/11/giaa121/5987272)

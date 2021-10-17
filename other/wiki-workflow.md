@@ -156,6 +156,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Daniel Imfeld's Notes](https://imfeld.dev/notes)
 - [Hrishikesh Bhaskaran's Wiki](https://wiki.stultus.in/)
 - [neeasade's notes](https://notes.neeasade.net/)
+- [Ferreira's Wiki](https://github.com/slowernews/notebook)
 - [マリウス](https://xn--gckvb8fzb.com/)
 - [Robb Knight's Wiki](https://intersect.rknight.me/) ([Code](https://github.com/rknightuk/intersect))
 - [Edward Yerburgh's CS Notes](https://notes.eddyerburgh.me/) ([Code](https://github.com/eddyerburgh/notes))

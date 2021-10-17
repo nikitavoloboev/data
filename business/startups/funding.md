@@ -130,3 +130,4 @@
 - [Funding public goods in identity-free systems (2021)](https://equilibria.club/funding-public-goods-in-identity-free-systems/) ([Tweet](https://twitter.com/VicSintNic/status/1439546213154631680))
 - [Advice on doing a fund raise (2021)](https://twitter.com/oritheorca/status/1441567230945234952)
 - [AngelList Stack](https://www.angellist.com/stack) - Create a fundraising-ready startup. ([HN](https://news.ycombinator.com/item?id=28685308))
+- [VAUBAN](https://vauban.io/) - Pool & deploy capital in clicks. ([Tweet](https://twitter.com/t_blom/status/1449007004371009536))
