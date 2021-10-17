@@ -506,6 +506,7 @@
 - [timemachines](https://github.com/microprediction/timemachines) - Continuously evaluated, functional, incremental, time-series forecasting.
 - [immutables](https://github.com/MagicStack/immutables) - High-performance immutable mapping type for Python.
 - [pydicom](https://github.com/pydicom/pydicom) - Read, modify and write DICOM files with python code.
+- [Hamilton](https://github.com/stitchfix/hamilton) - Micro-framework to create dataframes from functions.
 
 ## Links
 

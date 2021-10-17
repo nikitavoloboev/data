@@ -46,3 +46,4 @@
 - [Obsidian Alfred](https://github.com/hauselin/obsidian-alfred) - Open vaults and files in Obsidian.
 - [obsidian-react-starter](https://github.com/liamcain/obsidian-react-starter) - Starter template for creating an Obsidian plugin with ReactJS.
 - [Obsidian Export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown.
+- [HN: Obsidian (2021)](https://news.ycombinator.com/item?id=28894481)

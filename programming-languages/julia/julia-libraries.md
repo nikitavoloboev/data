@@ -305,6 +305,7 @@
 - [Rematch](https://github.com/RelationalAI-oss/Rematch.jl) - Pattern matching.
 - [Salsa.jl](https://github.com/RelationalAI-oss/Salsa.jl) - Framework for on-demand, incremental computation via memoization, inspired by Rust lang's salsa-rs/salsa.
 - [Blobs](https://github.com/RelationalAI-oss/Blobs.jl) - Binary blobs with on-the-fly pointer patching.
+- [Thrift.jl](https://github.com/tanmaykm/Thrift.jl) - Thrift for Julia.
 
 ## Links
 

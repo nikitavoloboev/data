@@ -46,3 +46,4 @@
 - [SpotML](https://www.spotml.io/) - Managed ML Training on Cheap AWS/GCP Spot Instances. ([HN](https://news.ycombinator.com/item?id=28738141))
 - [Mosaic ML](https://www.mosaicml.com/) - Making ML Training Efficient. ([Tweet](https://twitter.com/mattocko/status/1448492976045363200))
 - [RecoEdge](https://github.com/NimbleEdge/RecoEdge) - Deploy recommendation engines with Edge Computing.
+- [MLRun](https://github.com/mlrun/mlrun) - Open-Source MLOps Orchestration Framework.

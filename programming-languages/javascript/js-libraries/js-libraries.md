@@ -623,6 +623,7 @@
 - [date-io](https://github.com/dmtrKovalenko/date-io) - Abstraction over common JavaScript date management libraries.
 - [sdf-csg](https://github.com/wwwtyro/sdf-csg) - Generate meshes from signed distance functions and constructive solid geometry operations.
 - [littlefoot](https://github.com/goblindegook/littlefoot) - Lightweight JavaScript library that creates exceptional footnotes. ([Web](https://littlefoot.js.org/))
+- [tzdb](https://github.com/vvo/tzdb) - Simplified, grouped and always up to date list of time zones, with major cities.
 
 ## Links
 

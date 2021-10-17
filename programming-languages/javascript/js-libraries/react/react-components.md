@@ -46,7 +46,7 @@
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook cards loading).
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - Performant, flexible and extensible forms with easy to use validation.
 - [rest-hooks](https://github.com/coinbase/rest-hooks) - Delightful data fetching for React.
-- [Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React.
+- [Framer Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React. ([Web](https://www.framer.com/motion/)) ([Visual debugger for Framer Motion](https://github.com/siddharthkp/tracer-motion))
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text.
 - [Hooked-Form](https://github.com/JoviDeCroock/hooked-form) - Form library implemented with Hooks.
 - [stated-bean](https://github.com/mjolnirjs/stated-bean) - Light but scalable state management library with react hooks, inspired by unstated-next.
