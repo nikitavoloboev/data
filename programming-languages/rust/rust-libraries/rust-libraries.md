@@ -1021,6 +1021,12 @@
 - [unixstring](https://github.com/vrmiguel/unixstring) - FFI-friendly null-terminated byte string.
 - [spmc](https://github.com/seanmonstar/spmc) - Single-Producer, Multiple-Consumer channel for Rust.
 - [Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264 encoding framework with per scene quality encoding.
+- [Rubble](https://github.com/jonas-schievink/rubble) - BLE stack for embedded Rust.
+- [Stretto](https://github.com/al8n/stretto) - High performance thread-safe memory-bound Rust cache.
+- [Caches](https://github.com/al8n/caches-rs) - Rust implementation for popular caches.
+- [TwoX-Hash](https://github.com/shepmaster/twox-hash) - Rust implementation of the XXHash algorithm.
+- [atomic-rs](https://github.com/Amanieu/atomic-rs) - Generic Atomic<T> type for Rust.
+- [Dissimilar](https://github.com/dtolnay/dissimilar) - Diff library with semantic cleanup.
 
 ## Cargo Plugins
 

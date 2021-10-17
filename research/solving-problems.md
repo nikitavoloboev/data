@@ -84,3 +84,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [How I Write Code: Pen and Paper (2021)](https://noteflakes.com/articles/2021-09-02-how-i-write-code-pen-paper) ([HN](https://news.ycombinator.com/item?id=28390430))
 - [I Don't Understand This (Yet) (2021)](https://www.iamjonas.me/2021/08/i-dont-understand-this-yet.html) ([HN](https://news.ycombinator.com/item?id=28745598))
 - [Decomplication: How to Find Simple Solutions to Hard Problems (2016)](https://www.nateliason.com/blog/decomplication)
+- [Focused and Diffuse: Two Modes of Thinking (2019)](https://fs.blog/2019/10/focused-diffuse-thinking/) ([Tweet](https://twitter.com/housecor/status/1449731674800013319))

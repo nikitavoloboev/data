@@ -151,3 +151,6 @@
 - [Where Do Type Systems Come From?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/) ([HN](https://news.ycombinator.com/item?id=28702933))
 - [Pure type system implemented in OCaml](https://github.com/mmcqd/pure)
 - [Type Systems Toy Implementations](https://github.com/andreypopp/type-systems)
+- [First Steps in Synthetic Tait Computability: The Objective Metatheory of Cubical Type Theory (2021)](https://www.jonmsterling.com/pdfs/sterling:2021:thesis.pdf)
+- [Topoi — inside and out (2020)](https://blog.jonmsterling.com/Topoi-inside-and-out-7b0b86e39eeb43aeaee3c3af1dd91f2a)
+- [How to define a PER model (2020)](https://blog.jonmsterling.com/How-to-define-a-PER-model-95a7413ee12444f899536f67bbaea28e)

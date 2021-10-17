@@ -134,3 +134,4 @@
 - [Container security best practices: Ultimate guide (2021)](https://sysdig.com/blog/container-security-best-practices/) ([HN](https://news.ycombinator.com/item?id=28854478))
 - [OCI Distribution Specification](https://github.com/opencontainers/distribution-spec) - Defines an API protocol to facilitate and standardize the distribution of content.
 - [GoCSI](https://github.com/rexray/gocsi) - Container Storage Interface (CSI) library, client, and other helpful utilities created with Go.
+- [OCI Runtime, Image and Distribution Spec in Rust](https://github.com/containers/oci-spec-rs)

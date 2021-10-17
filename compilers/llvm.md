@@ -85,3 +85,4 @@
 - [Generating relocatable code for ARM processors (2021)](https://blog.llvm.org/posts/2021-10-01-generating-relocatable-code-for-arm-processors/) ([HN](https://news.ycombinator.com/item?id=28830650))
 - [llvmlite](https://github.com/numba/llvmlite) - Lightweight LLVM Python Binding for Writing JIT Compilers. ([Docs](https://llvmlite.readthedocs.io/en/latest/))
 - [gem5-SALAM (System Architecture for LLVM-based Accelerator Modeling)](https://github.com/TeCSAR-UNCC/gem5-SALAM) - Novel system architecture designed to enable LLVM-based modeling and simulation of custom hardware accelerators.
+- [mlir-hs](https://github.com/google/mlir-hs) - Haskell bindings for MLIR.

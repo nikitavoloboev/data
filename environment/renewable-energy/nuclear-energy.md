@@ -1,5 +1,9 @@
 # [Nuclear energy](https://en.wikipedia.org/wiki/Nuclear_power)
 
+## Notes
+
+- [If elemental power aka nuclear was discovered last week we would be going insane with joy we just solved the climate crisis.](https://twitter.com/wolfejosh/status/1448797519073484807)
+
 ## Links
 
 - [The Next Nuclear Plants Will Be Small, Svelte, and Safer (2019)](https://www.wired.com/story/the-next-nuclear-plants-will-be-small-svelte-and-safer/) ([HN](https://news.ycombinator.com/item?id=21787051))
@@ -35,3 +39,4 @@
 - [Major nuclear fusion milestone reached as ‘ignition’ triggered in a lab (2021)](https://www.imperial.ac.uk/news/228373/major-nuclear-fusion-milestone-reached-ignition/) ([HN](https://news.ycombinator.com/item?id=28840066))
 - [Nuclear Power in France (2021)](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/france.aspx) ([HN](https://news.ycombinator.com/item?id=28841366))
 - [Europe categorize nuclear power as sustainable (2021)](https://twitter.com/balajis/status/1449439525495709696)
+- [How Chernobyl has become an unexpected haven for wildlife (2020)](https://www.unep.org/news-and-stories/story/how-chernobyl-has-become-unexpected-haven-wildlife)
