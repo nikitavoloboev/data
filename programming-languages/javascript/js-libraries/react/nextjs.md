@@ -89,6 +89,7 @@
 - [nextjs-breadcrumbs](https://github.com/NiklasMencke/nextjs-breadcrumbs) - Dynamic, highly customizable breadcrumbs component for Next.js.
 - [Essential Next.js Build Plugin](https://github.com/netlify/netlify-plugin-nextjs) - Build plugin to integrate Next.js seamlessly with Netlify.
 - [next-plugin-imagegen](https://github.com/huozhi/next-plugin-imagegen) - Next.js plugin turns jsx components as image.
+- [next-head-seo](https://github.com/catnose99/next-head-seo) - Light-weight SEO plugin for Next.js.
 
 ## Notes
 

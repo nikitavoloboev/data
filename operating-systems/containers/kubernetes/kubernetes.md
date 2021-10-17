@@ -467,3 +467,4 @@
 - [Inspektor Gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF.
 - [nfproxy](https://github.com/sbezverk/nfproxy) - Provide high performance and scalable kubernetes proxy supporting both ipv4 and ipv6.
 - [Rancher Webhook](https://github.com/rancher/webhook) - Validating admission webhook and mutating admission webhook for Kubernetes.
+- [Kubernetes cleanup](https://github.com/onfido/k8s-cleanup)
