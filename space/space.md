@@ -119,3 +119,4 @@
 - [Zoom out from Earth](https://twitter.com/Rainmaker1973/status/1445470855232778241)
 - [Who is Making Money in Space? (2021)](https://every.to/napkin-math/who-is-making-money-in-space)
 - [American Spaceman, Body and Soul (2021)](https://www.piratewires.com/p/american-spaceman-body-and-soul) ([Tweet](https://twitter.com/micsolana/status/1448692286167080963))
+- [Felicette – The Space Cat](https://stuartatkinson.wordpress.com/felicette-the-space-cat/)

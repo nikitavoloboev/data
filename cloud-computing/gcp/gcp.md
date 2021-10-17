@@ -41,3 +41,4 @@
 - [Rowy](https://www.rowy.io/) - GCP as easy as ABC. ([Article](https://dev.to/harinilabs/gcp-as-easy-as-abc-a-low-code-platform-for-firestore-cloud-functions-deo)) ([Twitter](https://twitter.com/RowyIO)) ([HN](https://news.ycombinator.com/item?id=28758598))
 - [Listing of Rust crates for use with Google Cloud](https://github.com/paulgb/are-we-google-cloud-yet)
 - [gcpdiag](https://github.com/GoogleCloudPlatform/gcpdiag) - Command-line diagnostics tool for GCP customers.
+- [Native Google Cloud Pulumi Provider](https://github.com/pulumi/pulumi-google-native)
