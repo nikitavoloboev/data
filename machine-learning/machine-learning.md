@@ -567,3 +567,4 @@
 - [What are some ideas that are hyped up in machine learning research but don't actually get used in industry (and vice versa)? (2021)](https://www.reddit.com/r/MachineLearning/comments/q86kqn/d_what_are_some_ideas_that_are_hyped_up_in/)
 - [Variational Graph Auto-Encoders (2016)](https://arxiv.org/abs/1611.07308) ([Code](https://github.com/DaehanKim/vgae_pytorch))
 - [Diffusion Normalizing Flow (2021)](https://arxiv.org/abs/2110.07579)
+- [Approximately Correct Machine Intelligence (ACMI) Lab](https://acmilab.org/) - Research on machine learning, its social impacts, and applications to healthcare. ([GitHub](https://github.com/acmi-lab)) ([Twitter](https://twitter.com/acmi_lab))

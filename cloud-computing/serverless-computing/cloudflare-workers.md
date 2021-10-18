@@ -76,3 +76,4 @@
 - [Dynamic Process Isolation: Research by Cloudflare and TU Graz (2021)](https://blog.cloudflare.com/spectre-research-with-tu-graz/) ([Paper](https://arxiv.org/pdf/2110.04751.pdf))
 - [Cloudflare Workers Web Code](https://github.com/cloudflare/workers.cloudflare.com)
 - [How I Automated the Boring with JavaScript, Cloudflare Workers, and Airtable (2021)](https://www.youtube.com/watch?v=tFQ2kbiu1K4&t=2s) ([Tweet](https://twitter.com/CloudflareDev/status/1448035062985883651))
+- [Cloudflare Worker - Status Page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack notification whenever your website status changes.

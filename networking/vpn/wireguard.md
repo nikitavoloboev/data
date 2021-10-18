@@ -13,7 +13,7 @@
 - [HN: WireGuard is in net-next (2019)](https://news.ycombinator.com/item?id=21741133)
 - [HN: WireGuard 1.0.0 (2020)](https://news.ycombinator.com/item?id=22724768)
 - [Getting Started with WireGuard](https://miguelmota.com/blog/getting-started-with-wireguard/) ([Lobsters](https://lobste.rs/s/zozvm1/getting_started_with_wireguard)) ([HN](https://news.ycombinator.com/item?id=22788584))
-- [Why not "Why not WireGuard?" (2020)](https://tailscale.com/blog/why-not-why-not-wireguard/) ([Lobsters](https://lobste.rs/s/y51k7h/why_not_why_not_wireguard))
+- [Why not "Why not WireGuard?" (2020)](https://tailscale.com/blog/why-not-why-not-wireguard/) ([Lobsters](https://lobste.rs/s/y51k7h/why_not_why_not_wireguard)) ([HN](https://news.ycombinator.com/item?id=28897890))
 - [Building a WireGuard Jail with the FreeBSD's Standard Tools (2020)](https://genneko.github.io/playing-with-bsd/networking/freebsd-wireguard-jail/) ([HN](https://news.ycombinator.com/item?id=23004061))
 - [guard](https://github.com/stellarproject/guard) - GRPC server for managing wireguard tunnels.
 - [Subspace](https://github.com/subspacecommunity/subspace) - Simple WireGuard VPN server GUI. ([HN](https://news.ycombinator.com/item?id=23243248))
@@ -51,3 +51,4 @@
 - [Build A Portable Lab In The Cloud Using Tailscale, Terraform and DigitalOcean (2021)](https://rossedman.io/blog/computers/scale-homelab-with-tailscale/)
 - [Tailscale PAM Module](https://github.com/tailscale/pam) - Allows you to SSH using your Tailscale credentials.
 - [onetun](https://github.com/aramperes/onetun) - Cross-platform, user-space WireGuard port-forwarder that requires no system network configurations.
+- [Why Not WireGuard (2020)](https://blog.ipfire.org/post/why-not-wireguard) ([HN](https://news.ycombinator.com/item?id=28896351))

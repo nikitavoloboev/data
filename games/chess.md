@@ -138,3 +138,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [ChessCoach](https://chrisbutner.github.io/ChessCoach/) - Neural chess engine that comments on each player's moves. ([HN](https://news.ycombinator.com/item?id=28765183)) ([Code](https://github.com/chrisbutner/ChessCoach)) ([Data Used](https://github.com/chrisbutner/ChessCoachData))
 - [Thoughts on chess improvement, after gaining 600 points in 6 months (1200-1800)](https://mbuffett.com/posts/chess_improvement_thoughts/) ([HN](https://news.ycombinator.com/item?id=28787221))
 - [poirebot](https://github.com/aramperes/poirebot) - Chess engine and bot written in Rust.
+- [How to Calculate the Trappiest Openings in Chess Using Stats (2021)](https://medium.com/applied-data-science/how-to-calculate-the-trappiest-openings-in-chess-2bc24a6345f7) ([HN](https://news.ycombinator.com/item?id=28887015))

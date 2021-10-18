@@ -164,3 +164,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Bitcoin is a Ponzi (2020)](https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html) ([HN](https://news.ycombinator.com/item?id=28781586))
 - [Len Sassaman and Satoshi: a Cypherpunk history (2021)](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10)
 - [BDK](https://github.com/bitcoindevkit/bdk) - Modern, lightweight, descriptor-based wallet library written in Rust.
+- [Bitcoin and the U.S. Fiscal Reckoning (2021)](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning) ([HN](https://news.ycombinator.com/item?id=28896379))

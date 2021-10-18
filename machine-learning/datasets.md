@@ -118,3 +118,4 @@
 - [Single-dataset Experts for Multi-dataset Question Answering (2021)](https://arxiv.org/abs/2109.13880) ([Code](https://github.com/princeton-nlp/MADE))
 - [LabelFlow](https://labelflow.ai/website) - Open standard platform for image labeling. ([Code](https://github.com/labelflow/labelflow))
 - [Face Synthetics dataset](https://github.com/microsoft/FaceSynthetics)
+- [Toloka](https://toloka.ai/) - Fast and efficient way to collect and label large data sources for machine learning and other business purposes. ([Code](https://github.com/Toloka/toloka-kit))

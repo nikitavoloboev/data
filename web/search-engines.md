@@ -164,3 +164,4 @@
 - [Felvin Search](https://felvin.com/) - Your search box is now an app store. ([Code](https://github.com/felvin-search/instant-apps))
 - [MiniSearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node.
 - [Search Engine Parser](https://github.com/bisoncorps/search-engine-parser) - Package that lets you query popular search engines and scrape for result titles, links, descriptions and more.
+- [What every software engineer should know about search (2017)](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)

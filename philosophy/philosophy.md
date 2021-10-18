@@ -58,3 +58,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Awakening from the Meaning Crisis - YouTube (2019)](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
 - [Remembering Huxley's “Brave New World” (2021)](https://psydef.substack.com/p/brave-new-world) ([HN](https://news.ycombinator.com/item?id=28780388)) ([Reddit](https://www.reddit.com/r/IntellectualDarkWeb/comments/q3pl2j/remembering_huxleys_brave_new_world/))
 - [Feedback Loops are Bullshit (2021)](https://danielbmarkham.com/feedback-loops-are-bullshit/) ([Lobsters](https://lobste.rs/s/qblewn/feedback_loops_are_bullshit))
+- [Philosophical Foundations of Machine Intelligence Course (2021)](https://github.com/acmi-lab/cmu-10721-philosophy-machine-intelligence)

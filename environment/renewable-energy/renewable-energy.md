@@ -22,3 +22,4 @@
 - [The Future of Solid State Wind Energy - No More Blades (2021)](https://www.youtube.com/watch?v=nNp21zTeCDc)
 - [Crystal arrangement results in 1,000x more power from ferroelectric solar cells (2021)](https://www.pv-magazine.com/2021/08/04/crystal-arrangement-results-in-1000x-more-power-from-ferroelectric-solar-cells/) ([HN](https://news.ycombinator.com/item?id=28115094))
 - [How to Build a Low-Tech Solar Panel? (2021)](https://solar.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html) ([HN](https://news.ycombinator.com/item?id=28770953))
+- [The booming business of knitting together the world’s electricity grids (2021)](https://www.economist.com/business/2021/10/16/the-booming-business-of-knitting-together-the-worlds-electricity-grids) ([HN](https://news.ycombinator.com/item?id=28896527))
