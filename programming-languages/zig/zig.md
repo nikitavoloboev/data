@@ -69,3 +69,4 @@
 - [Fuzzing Zig Code Using AFL++ (2021)](https://www.ryanliptak.com/blog/fuzzing-zig-code/) ([HN](https://news.ycombinator.com/item?id=28600050))
 - [Building gamedev ecosystem for Zig](https://github.com/michal-z/zig-gamedev)
 - [Asserting function signatures at compile time in Zig (2021)](https://www.mdaverde.com/posts/zig-asserting-fn-types/)
+- [Mach Engine: The Future of Graphics (With Zig) (2021)](https://devlog.hexops.com/2021/mach-engine-the-future-of-graphics-with-zig) ([HN](https://news.ycombinator.com/item?id=28909786))

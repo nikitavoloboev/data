@@ -132,3 +132,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Awesome paper list](https://github.com/ConanCui/Paper-List)
 - [Open Knowledge Discovery Reading List](https://github.com/thuiar/OKD-Reading-List)
 - [arxiv2notion](https://github.com/denkiwakame/arxiv2notion) - Chrome extension for clipping arXiv articles to Notion.
+- [Paper Style Guide](https://github.com/huggingface/paper-style-guide)

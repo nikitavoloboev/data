@@ -294,3 +294,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Video Download Tool](https://videodownloadtool.io/) - Download videos, but only the parts you want. ([HN](https://news.ycombinator.com/item?id=28854823))
 - [Canva](https://www.canva.com/videos/) - Free and Easy Online Video Editor.
 - [Plopdown](https://plopdown.video/) - Video Annotating Web Extension. ([Code](https://github.com/spaceribs/plopdown))
+- [ZipMessage](https://zipmessage.com/) - Asynchronous video messaging software for remote business. ([Twitter](https://twitter.com/ZipMessageApp))

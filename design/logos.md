@@ -17,3 +17,4 @@
 - [New Discord Logo (2021)](https://blog.discord.com/happy-blurpthday-to-discord-a-place-for-everything-you-can-imagine-fc99ee0a77c0)
 - [Is your logo good?](https://logotester.thework.market/)
 - [Robata](https://wearemucho.com/project/robata/) ([Tweet](https://twitter.com/hofstededesign/status/1448435096646668290))
+- [Logoipsum](https://logoipsum.com/) - Free Placeholder Logo For Your Design Mock-up.

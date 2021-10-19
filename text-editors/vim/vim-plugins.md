@@ -40,6 +40,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
 - [coq.nvim](https://github.com/ms-jpq/coq_nvim) - Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [Navigator](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze. Exploring LSP and Treesitter.
+- [distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment.
 - [Zen Mode](https://github.com/folke/zen-mode.nvim) - Distraction-free coding for Neovim.
 - [mapx.lua](https://github.com/b0o/mapx.lua) - Neovim lua plugin to make mapping more manageable.
 - [Lightspeed](https://github.com/ggandor/lightspeed.nvim) - Making on-screen navigation as quick and efficient as possible.

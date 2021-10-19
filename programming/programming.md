@@ -462,3 +462,4 @@
 - [Always Do Extra (2021)](http://www.bennorthrop.com/Essays/2021/always-do-extra.php) ([HN](https://news.ycombinator.com/item?id=28856730)) ([Reddit](https://www.reddit.com/r/programming/comments/q7c0uw/always_do_extra_a_strategy_for_longevity_in/))
 - [Are You Using The Right Cache? (2021)](https://www.lpalmieri.com/posts/caching-types-in-a-microservice-architecture/)
 - [How I learned to program (2016)](https://danluu.com/learning-to-program/) ([HN](https://news.ycombinator.com/item?id=28886559))
+- [Features of Excellent Code Review Tools (2021)](https://benjamincongdon.me/blog/2021/10/17/Features-of-Excellent-Code-Review-Tools/)

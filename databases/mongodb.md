@@ -22,3 +22,5 @@
 - [MongoDB Rust Driver](https://github.com/mongodb/mongo-rust-driver)
 - [MongoSwift](https://github.com/mongodb/mongo-swift-driver)
 - [Getting Started with Server-Side Swift with MongoDB and Vapor (2021)](https://kaitlin.dev/2021/07/30/mongodb-vapor.html)
+- [Getting started with MongoDB and Redis in Rust (2021)](https://romankudryashov.com/blog/2021/06/mongodb-redis-rust/)
+- [MongoDB exporter](https://github.com/percona/mongodb_exporter) - Prometheus exporter for MongoDB including sharding, replication and storage engines.

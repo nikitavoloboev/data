@@ -216,3 +216,4 @@
 - [Personal provisioning machines with Nix](https://github.com/shajra/shajra-provisioning)
 - [Issues you encountered learning Nix? (2021)](https://twitter.com/theprincessxena/status/1448984266071752721)
 - [Declarative Dev Environments using Nix (2021)](https://marcopolo.io/code/declarative-dev-environments/)
+- [Peerix](https://github.com/cid-chan/peerix) - Peer-to-peer binary cache for nix derivations.

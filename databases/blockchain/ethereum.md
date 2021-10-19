@@ -239,7 +239,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Mantis](https://github.com/input-output-hk/mantis) - Scala based client for Ethereum-like Blockchains.
 - [Awesome-Uniswap v3](https://github.com/GammaStrategies/awesome-uniswap-v3)
 - [StakeWise](https://stakewise.io/) - Ethereum Proof Of Stake Pool and Solo Staking. ([GitHub](https://github.com/stakewise))
-- [Polygon](https://polygon.technology/) - Ethereum's Internet of Blockchains.
+- [Polygon](https://polygon.technology/) - Ethereum's Internet of Blockchains. ([Go SDK](https://github.com/0xPolygon/polygon-sdk))
 - [Connext](https://connext.network/) - Interoperability protocol for L2 Ethereum. ([GitHub](https://github.com/connext))
 - [simple-uniswap-sdk](https://github.com/uniswap-integration/simple-uniswap-sdk) - Uniswap SDK.
 - [Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts. ([Web](https://getwaffle.io/))
@@ -316,3 +316,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Proof of KYC](https://github.com/m1guelpf/proof-of-kyc) - NFT that proves you've gone through an identity verification process, powered by Stripe Identity.
 - [Minority Ethereum Client](https://github.com/karalabe/minority) ([Tweet](https://twitter.com/peter_szilagyi/status/1448956344699064333))
 - [Abracadabra Money](https://abracadabra.money/) - Loans that pay for themselves. ([Explained](https://www.youtube.com/watch?v=q-iDAkJkbIs)) ([Code](https://github.com/Abracadabra-money/magic-internet-money))
+- [Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+- [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper) - Uniswap V2-styled router new pool sniping in under 250 LOC. ([Tweet](https://twitter.com/_anishagnihotri/status/1450004265381007360))
+- [PRBProxy](https://github.com/paulrberg/prb-proxy) - Proxy contract to compose transactions on behalf of the owner.
+- [Helios](https://github.com/taarushv/helios) - Tool built on-top of go-ethereum and the ELK stack to query and monitor the mempool.

@@ -17,3 +17,4 @@ I also use Dropbox for sharing configuration of various apps.
 ## Links
 
 - [Replacing Dropbox in favor of DigitalOcean spaces (2021)](https://mitjafelicijan.com/replacing-dropbox-in-favor-of-digitalocean-spaces.html) ([HN](https://news.ycombinator.com/item?id=25909336))
+- [Maestral](https://maestral.app/) - Open source Dropbox client. ([Code](https://github.com/samschott/maestral))

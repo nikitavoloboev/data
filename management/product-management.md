@@ -83,3 +83,4 @@
 - [We Ship Every Week (2021)](https://pitch.com/blog/every-week) ([HN](https://news.ycombinator.com/item?id=28233743))
 - [Key principles to guide the new product development process (2021)](https://twitter.com/fibery_io/status/1441375124909961219)
 - [Product Design Basics – A toolkit of concepts and frameworks](https://modelthinkers.com/playbook/product-design-basics)
+- [What Type of Job is This: My First Year as Chief Product Officer (2021)](https://caseyaccidental.com/chief-product-officer-first-year)

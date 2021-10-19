@@ -162,3 +162,6 @@
 - [JWT-to-RBAC](https://github.com/banzaicloud/jwt-to-rbac) - Lets you automatically generate RBAC resources based on JWT tokens.
 - [auth-server](https://github.com/reugn/auth-server) - Simple authentication and authorization server.
 - [Kanidm](https://github.com/kanidm/kanidm) - Identity management platform written in rust. ([HN](https://news.ycombinator.com/item?id=28886636))
+- [oxide-auth](https://github.com/HeroicKatora/oxide-auth) - OAuth2 server library, for use in combination with common web servers, featuring a set of configurable and pluggable backends.
+- [external-auth-server](https://github.com/travisghansen/external-auth-server) - Easy auth for reverse proxies.
+- [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless)

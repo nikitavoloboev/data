@@ -132,3 +132,4 @@
 - [State of Digital Nomads](https://nomadlist.com/digital-nomad-statistics) ([HN](https://news.ycombinator.com/item?id=28798484))
 - [Polar Signals Remote Work Benefits](https://twitter.com/rothgar/status/1446867332748300288)
 - [HN: Amazon will allow many employees to work remotely indefinitely (2021)](https://news.ycombinator.com/item?id=28831031)
+- [WorkAdventure](https://workadventu.re/) - Collaborative web application (virtual office) presented as a 16-bit RPG video game. ([Code](https://github.com/thecodingmachine/workadventure))

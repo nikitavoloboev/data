@@ -78,6 +78,8 @@
 - [Perseus](https://github.com/arctic-hen7/perseus) - High-level frontend development framework for Rust with full support for SSR and SSG.
 - [Zap](https://github.com/janpaul123/zaplib) - Fast, cross-platform (web+native), GPU-based application framework, written in Rust.
 - [Poem](https://github.com/poem-web/poem) - Full-featured and easy-to-use web framework. ([Poem OpenAPI](https://github.com/poem-web/poem-openapi))
+- [darpi](https://github.com/darpi-rs/darpi) - Rust web framework with safety and speed in mind.
+- [Vial](https://github.com/xvxx/vial) - Micro micro-framework for rust. ([Docs](https://vial.rs/))
 
 ## WASM
 
@@ -172,6 +174,7 @@
 - [Rendiation](https://github.com/mikialex/rendiation) - Group of crates that can be composed to impl graphics project.
 - [Building Blocks](https://github.com/bonsairobo/building-blocks) - Voxel library for real-time applications.
 - [Relm4](https://github.com/AaronErhardt/relm4) - Idiomatic GUI library inspired by Elm and based on gtk4-rs.
+- [wgpu-pbr](https://github.com/tedsta/wgpu-pbr) - Implementation of PBR using wgpu-rs.
 
 ## Games
 
@@ -1028,6 +1031,8 @@
 - [atomic-rs](https://github.com/Amanieu/atomic-rs) - Generic Atomic<T> type for Rust.
 - [Dissimilar](https://github.com/dtolnay/dissimilar) - Diff library with semantic cleanup.
 - [waihona](https://github.com/bisoncorps/waihona) - Rust library for performing basic cloud storage actions across major cloud providers e.g aws.
+- [simple_logger](https://github.com/borntyping/rust-simple_logger) - Rust logger that prints all messages with a readable output format.
+- [rs-merkle](https://github.com/antouhou/rs-merkle) - Most advanced Merkle tree library for Rust.
 
 ## Cargo Plugins
 

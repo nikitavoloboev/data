@@ -90,3 +90,4 @@
 - [Monoids and Finger Trees](https://apfelmus.nfshost.com/articles/monoid-fingertree.html)
 - [Implicit Heaps](https://apfelmus.nfshost.com/articles/implicit-heaps.html)
 - [Word-Aligned Bloom Filters (2021)](https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/) ([HN](https://news.ycombinator.com/item?id=28737910))
+- [Experimenting with column- and row-oriented data structures (2021)](https://datastation.multiprocess.io/blog/2021-10-18-experimenting-with-column-and-row-oriented-datastructures.html)

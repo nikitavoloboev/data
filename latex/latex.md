@@ -95,3 +95,5 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Show Your Work](https://github.com/rodluger/showyourwork) - Fully reproducible, open source scientific articles in LaTeX.
 - [web2js](https://github.com/kisonecat/web2js) - Pascal compiler that targets WebAssembly, designed specifically to compile TeX so it can be run inside the browser.
 - [TikZJax](https://tikzjax.com/) - Converts script tags (containing TikZ code) into SVGs. ([Code](https://github.com/kisonecat/tikzjax))
+- [Ant](https://github.com/groupoid/ant) - New typesetting system. Resembles TeX, but improves the internal language, which is ML dialect with rich domain-specific features for typesetting.
+- [Asiatic pTeX](https://github.com/clerkma/ptex-ng)

@@ -243,3 +243,7 @@
 - [OpenAPI-to-GraphQL](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL.
 - [How (Not) To Build Your Own GraphQL Server (2021)](https://stepzen.com/blog/how-not-to-build-graphql-server)
 - [SchemeHub](https://schemehub.vercel.app/) - Web app for collaborative editing of GraphQL Schemas. ([Code](https://github.com/the-guild-org/schemehub))
+- [GraphQL Executor](https://github.com/yaacovCR/graphql-executor) - Customizable GraphQL Spec compliant Executor.
+- [GraphQL Rust Demo](https://github.com/rkudryashov/graphql-rust-demo) ([Article](https://romankudryashov.com/blog/2020/12/graphql-rust/))
+- [GraphQL at PayPal: An Adoption Story (2021)](https://medium.com/paypal-tech/graphql-at-paypal-an-adoption-story-b7e01175f2b7) ([Tweet](https://twitter.com/theworstdev/status/1450216673491968009))
+- [supagraphql](https://github.com/dthyresson/supagraphql) - GraphQL server using Supabase, GraphQL Helix, Envelop and Fastify.

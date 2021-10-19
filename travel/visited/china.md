@@ -64,3 +64,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Jim Chanos: China’s “Leveraged Prosperity” Model is Doomed. And That’s Not the Worst. (2021)](https://www.ineteconomics.org/perspectives/blog/jim-chanos-chinas-leveraged-prosperity-model-is-doomed-and-thats-not-the-worst)
 - [Китайское экономическое чудо или почему чудес не бывает (2021)](https://www.youtube.com/watch?v=MwjbT844gNs)
 - [China tested a nuclear-capable hypersonic missile (2021)](https://www.reddit.com/r/worldnews/comments/q9kv2u/china_tested_a_nuclearcapable_hypersonic_missile/)
+- [Understanding China, with Former Australian Prime Minister Kevin Rudd (2021)](https://www.youtube.com/watch?v=gYR92KjKxm8)

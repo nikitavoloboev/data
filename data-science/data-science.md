@@ -204,3 +204,4 @@
 - [atoti](https://www.atoti.io/) - Free Python BI analytics platform. ([GitHub](https://github.com/atoti)) ([Notebooks](https://github.com/atoti/notebooks))
 - [Tably](https://tably.com/) - Lightning fast exploration, search and analytics, with an intuitive UI and supercharged formula.
 - [OpenRefine](https://openrefine.org/) - Free, open source power tool for working with messy data and improving it. ([Code](https://github.com/OpenRefine/OpenRefine))
+- [Authenticated Full-Stack Streamlit](https://github.com/sapped/Authenticated-Full-Stack-Streamlit)

@@ -36,6 +36,8 @@
 - [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization.
 - [Odyssey](https://github.com/AlexGladkov/Odyssey) - Declarative multiplatform navigation library for Multiplatform Compose.
 - [Micro Template](https://github.com/polarene/micro-template) - Tiny and simple text templating library for Kotlin.
+- [KotlinGrad](https://github.com/breandan/kotlingrad) - Shape-Safe Symbolic Differentiation with Algebraic Data Types.
+- [Kaliningraph](https://github.com/breandan/kaliningraph) - Graph based IR in Kotlin.
 
 ## Links
 

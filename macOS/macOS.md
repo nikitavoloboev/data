@@ -173,3 +173,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [macOS persistence – Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond/) ([HN](https://news.ycombinator.com/item?id=28498058))
 - [macOS Security Compliance](https://github.com/usnistgov/macos_security) - Open source effort to provide a programmatic approach to generating security guidance.
 - [Apple M1 Exploration](https://drive.google.com/file/d/1WrMYCZMnhsGP4o3H33ioAUKL_bjuJSPt/view)
+- [WhatsNewViewController](https://github.com/Jonathan-Gander/WhatsNewViewController) - Nice way to present your new app features.

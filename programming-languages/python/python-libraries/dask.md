@@ -32,3 +32,5 @@
 - [Dask Binder template](https://github.com/jrbourbeau/dask-binder-template) - Template for Dask-enabled repositories for use on Binder.
 - [Afar](https://github.com/eriknw/afar) - Run code on a Dask cluster via a context manager or IPython magic.
 - [Dask as a Spark Replacement (2021)](https://coiled.io/blog/dask-as-a-spark-replacement/)
+- [2021 Dask User Survey](https://blog.dask.org/2021/09/15/user-survey)
+- [Dask Working Notes](https://blog.dask.org/)

@@ -144,3 +144,4 @@
 - [The Scholar's Stage](https://scholars-stage.org/) - Place to discuss the intersections of history, politics, culture, behavioral science, and strategic thought—often with a focus on East and Southeast Asian affairs.
 - [Why are old things beautiful and new things ugly? (2015)](https://carcinisation.com/2015/04/01/the-fifteen-fundamental-properties/) ([Tweet](https://twitter.com/literalbanana/status/1445784214838730758))
 - [Trends and fluctuations in the severity of interstate wars (2018)](https://www.science.org/doi/10.1126/sciadv.aao3580)
+- [«Отец кристаллов», на долгие годы забытый на родине: история польского учёного, ускорившего цифровую революцию (2021)](https://tjournal.ru/stories/451043-otec-kristallov-na-dolgie-gody-zabytyy-na-rodine-istoriya-polskogo-uchenogo-uskorivshego-cifrovuyu-revolyuciyu)

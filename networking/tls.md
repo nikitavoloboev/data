@@ -48,3 +48,4 @@
 - [Staging TLS Certificates: Make every deployment a safe deployment (2021)](https://blog.cloudflare.com/staging-tls-certificate-every-deployment-safe-deployment/)
 - [Handshake Encryption: Endgame (an ECH update) (2021)](https://blog.cloudflare.com/handshake-encryption-endgame-an-ech-update/)
 - [Introducing SSL/TLS Recommender (2021)](https://blog.cloudflare.com/ssl-tls-recommender/) ([Tweet](https://twitter.com/paraacha/status/1448899607602384902))
+- [trustme](https://github.com/python-trio/trustme) - #1 quality TLS certs while you wait. ([Docs](https://trustme.readthedocs.io/en/latest/))

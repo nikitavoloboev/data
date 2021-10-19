@@ -380,6 +380,7 @@ Here are few more things I liked, design wise.
 - [Andy McCune](https://andymccune.com/)
 - [Zackary Scholl](https://schollz.com/blog/)
 - [Jed Bridges](https://www.jedbridges.com/)
+- [Danilo Woznica](https://danilowoz.com/)
 - [Ali Abdaal](https://aliabdaal.com/)
 - [Mark Hkr](https://marlom.dev/) ([Code](https://github.com/markhker/marlomdev))
 - [Craig Mulligan](https://hobochild.com/)

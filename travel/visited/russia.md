@@ -299,3 +299,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Все о новой Госдуме: клетка для буйных, зарплаты в комитетах и новые полномочия. (2021)](https://www.youtube.com/watch?v=3tmpnx2C4xQ)
 - [Коррупция в России. Перцев и Гаазе обсуждают, как она изменилась за 20 лет (2021)](https://www.youtube.com/watch?v=bqcf2gaIwIg&t=1s)
 - [Когда в России отключат YouTube? И почему теперь враги —и либералы, и коммунисты (2021)](https://www.youtube.com/watch?v=sI9cn7jmtFA)
+- [Афиша Daily](https://daily.afisha.ru/)
+- [Особое мнение / Илья Новиков (2021)](https://www.youtube.com/watch?v=AJ2Q1PQpJ0w&t=286s)
+- [TJ](https://tjournal.ru/) - Новости интернета.
+- [Стагнация и накопительство. Владимир Милов о новом бюджете (2021)](https://vot-tak.tv/novosti/18-10-2021-byudzhet-milov/)

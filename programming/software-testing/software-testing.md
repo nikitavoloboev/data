@@ -107,3 +107,4 @@
 - [Good tests don't change (2021)](https://owengage.com/writing/2021-10-09-good-tests-dont-change/)
 - [The Fundamentals of Testing with Persistence Layers (2021)](https://www.infoq.com/articles/Testing-With-Persistence-Layers/)
 - [Skeleton And Principles For A Maintainable Test Suite (2021)](https://www.lpalmieri.com/posts/skeleton-and-principles-for-a-maintainable-test-suite/)
+- [Tests aren’t enough: Case study after adding type hints to urllib3 (2021)](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3) ([HN](https://news.ycombinator.com/item?id=28907154))

@@ -162,3 +162,4 @@ All active variables can be seen by running `env`.
 - [Showing GUIs from Shell Scripts (2021)](https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html) ([HN](https://news.ycombinator.com/item?id=28848858))
 - [overdub](https://github.com/zalimeni/overdub) - Create new commands from your shell history or terminal.
 - [async](https://github.com/ctbur/async) - Tool to parallelize shell commands.
+- [Seashells](https://seashells.io/) - Pipe output from command-line programs to the web in real-time. ([HN](https://news.ycombinator.com/item?id=28901580))

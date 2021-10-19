@@ -43,3 +43,6 @@
 - [pprofutils](https://github.com/felixge/pprofutils) - Command line utilities for converting pprof files to Brendan Gregg's folded text format (output by his stackcollapse scripts) and vice versa.
 - [Protoman](https://github.com/spluxx/Protoman) - Postman-like API client for protobuf-based messages.
 - [protoc-gen-gorm](https://github.com/infobloxopen/protoc-gen-gorm) - Protobuf compiler plugin designed to generate GORM models and APIs for simple object persistence tasks.
+- [Creating a protoc plugin to generate Go code with protogen (2021)](https://rotemtam.com/2021/03/22/creating-a-protoc-plugin-to-gen-go-code/)
+- [Protobuf Field Mask utils for Go](https://github.com/mennanov/fieldmask-utils)
+- [Protocol Buffers for Node.js](https://github.com/mafintosh/protocol-buffers)

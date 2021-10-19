@@ -159,3 +159,4 @@
 - [Do you practice? (2021)](https://lobste.rs/s/h45sn7/do_you_practice)
 - [What Is Your Favorite Deep, Elegant, or Beautiful Explanation? (2012)](https://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation)
 - [Open Syllabus Prints](https://open-syllabus.myshopify.com/) - Large 'Galaxy' Prints of Your Favorite Academic Fields. ([Tweet](https://twitter.com/NadiehBremer/status/1449025016733962242))
+- [What to Learn](https://danluu.com/learn-what/) ([HN](https://news.ycombinator.com/item?id=28904021))

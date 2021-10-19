@@ -17,3 +17,4 @@
 - [MiniQueue](https://github.com/tomarrell/miniqueue) - Simple, single binary, message queue.
 - [Broker](https://github.com/apibillme/broker) - Real-time BaaS (Backend as a Service). SSE message broker that requires you write no backend code to have a full real-time API.
 - [JackRabbit](https://github.com/apibillme/jackrabbit) - Real-time Message Queue.
+- [MQ](https://github.com/asim/mq) - Simple distributed in-memory message broker.

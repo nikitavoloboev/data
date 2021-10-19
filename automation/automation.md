@@ -32,6 +32,7 @@
 - [Why Tesla Needed The Giga Press (2021)](https://www.youtube.com/watch?v=qJDSOwf9hpw)
 - [Ironies of Automation (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
 - [Interface ergonomics: automation isn't just about time saved (2021)](https://macoy.me/blog/programming/InterfaceFriction) ([Lobsters](https://lobste.rs/s/ab8v1y/interface_ergonomics_automation_isn_t))
+- [Trust in Automation (2017)](http://breandan.net/2017/02/02/trust-in-automation/)
 
 ## Images
 

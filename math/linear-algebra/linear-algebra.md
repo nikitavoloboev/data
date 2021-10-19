@@ -57,3 +57,4 @@
 - [linalg](https://github.com/kevinzakka/learn-linalg) - Reinforcing my linear algebra and numerical analysis by reimplementing basic, fundamental algorithms in Python.
 - [Linear Algebra for Everyone, Gilbert Strang](http://math.mit.edu/~gs/everyone/) ([Graphic notes](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)) ([HN](https://news.ycombinator.com/item?id=28704164))
 - [I❤️LA](https://github.com/iheartla/iheartla) - Compilable Markdown for Math.
+- [An Introduction to Tensor Calculus](https://grinfeld.org/books/An-Introduction-To-Tensor-Calculus/) ([HN](https://news.ycombinator.com/item?id=28895073))

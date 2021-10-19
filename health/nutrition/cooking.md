@@ -34,3 +34,4 @@ I share some [recipes I like](recipes.md).
 - [Limiting Steps (2021)](https://matt-rickard.com/limiting-steps/)
 - [Cooked: A Natural History of Transformation Book by Michael Pollan (2013)](https://michaelpollan.com/books/cooked/) ([Notes](https://www.kevinslin.com/notes/YIa9Rkc7m9qh131CyNYDk/))
 - [Ask HN: Is Anyone Here a Professional Baker? (2021)](https://news.ycombinator.com/item?id=28886933)
+- [Modernist Cuisine](https://modernistcuisine.com/books/modernist-cuisine/)

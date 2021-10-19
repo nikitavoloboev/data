@@ -118,6 +118,7 @@
 - [AtomicState](https://github.com/immobiliare/atomic-state) - Decentralized state management library for React.
 - [observable-hooks](https://github.com/crimx/observable-hooks) - Concurrent mode safe React hooks for RxJS Observables. Simple, flexible, testable and performant.
 - [react-generate-context](https://github.com/kyleshevlin/react-generate-context) - React Context with less boilerplate.
+- [SomeHooks](https://github.com/taylor-vann/somehooks) - Collection of framework agnostic hooks.
 
 ## Code
 
@@ -180,3 +181,6 @@ useEffect(() => {
 - [React & TypeScript: how to type hooks (a complete guide) (2021)](https://devtrium.com/posts/react-typescript-how-to-type-hooks)
 - [How to use React useReducer hook like a pro (2021)](https://devtrium.com/posts/how-to-use-react-usereducer-hook)
 - [Calin Tamas – Hooks are a great abstraction model (2021)](https://www.youtube.com/watch?v=G_-KaHOeuu4)
+- [How to replace useState with useRef and be a winner (2021)](https://thoughtspile.github.io/2021/10/18/non-react-state/) ([Reddit](https://www.reddit.com/r/reactjs/comments/qals23/how_to_replace_usestate_with_useref_and_be_a/))
+- [Thanks React, I'm fine with an imperative setInterval (2021)](https://thoughtspile.github.io/2021/10/13/really-declarative/)
+- [Are many useStates better than useState(object)? (2021)](https://thoughtspile.github.io/2021/10/11/usestate-object-vs-multiple/)

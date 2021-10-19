@@ -16,6 +16,7 @@
 - [GitHub Swift 3](https://github.com/nerdishbynature/octokit.swift) - Swift API Client for GitHub and GitHub Enterprise.
 - [GitHub Python](https://github.com/PyGithub/PyGithub)
 - [GitHub Julia](https://github.com/JuliaWeb/GitHub.jl)
+- [GitHub OCaml](https://github.com/tmcgilchrist/ocaml-gitlab)
 - [GitHub Gists Python](https://github.com/softvar/simplegist) - Advanced python wrapper for Github Gist API.
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
@@ -46,6 +47,7 @@
 - [Notion TS](https://github.com/cstrnt/notion-api) - Unofficial Notion.so Wrapper.
 - [Notion Go](https://github.com/kjk/notionapi)
 - [Notion Python](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
+- [VK Go](https://github.com/SevereCloud/vksdk)
 - [Google Cloud](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python.
 - [Reddit Python](https://github.com/praw-dev/praw)
 - [Reddit Go](https://github.com/vartanbeno/go-reddit)

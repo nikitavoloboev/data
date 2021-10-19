@@ -102,6 +102,7 @@
 - [docopt-ng](https://github.com/jazzband/docopt-ng) - Humane command line arguments parser. Now with maintenance, typehints, and complete test coverage.
 - [Plotext](https://github.com/piccolomo/plotext) - Python Plotting on the Terminal. ([HN](https://news.ycombinator.com/item?id=27719759))
 - [shpyX](https://github.com/Apakottur/shpyx) - Configurable shell command execution in Python.
+- [survey](https://github.com/Exahilosys/survey) - Simple library for creating beautiful interactive prompts.
 
 ## DB
 
@@ -131,6 +132,7 @@
 
 ## GUI
 
+- [Toga](https://github.com/beeware/toga) - Python native, OS native GUI toolkit.
 - [Guietta](https://github.com/alfiopuglisi/guietta) - Python module to create simple GUIs. ([HN](https://news.ycombinator.com/item?id=23721548)) ([Lobsters](https://lobste.rs/s/d7pkoi/guietta_python_module_create_simple_guis))
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Transforms UI into People-Friendly Pythonic Interfaces. ([HN](https://news.ycombinator.com/item?id=28600922))
 - [Dear PyGui](https://github.com/hoffstadt/DearPyGui) - Simple to use (but powerful) Python GUI framework. ([HN](https://news.ycombinator.com/item?id=24986908))
@@ -140,6 +142,10 @@
 - [Flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python.
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - Cross-platform GUI automation Python module for human beings.
 - [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) - Create Beautiful Tkinter GUIs by Drag and Drop.
+
+## Graphics
+
+- [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 
 ## Crypto
 
@@ -507,6 +513,11 @@
 - [immutables](https://github.com/MagicStack/immutables) - High-performance immutable mapping type for Python.
 - [pydicom](https://github.com/pydicom/pydicom) - Read, modify and write DICOM files with python code.
 - [Hamilton](https://github.com/stitchfix/hamilton) - Micro-framework to create dataframes from functions.
+- [python-dbus-next](https://github.com/altdesktop/python-dbus-next) - Next great DBus library for Python.
+- [keyring](https://github.com/jaraco/keyring) - Provides an easy way to access the system keyring service from python. Can be used in any application that needs safe password storage.
+- [Desktop Notifier](https://github.com/SamSchott/desktop-notifier) - Python library for cross-platform desktop notifications.
+- [Pyro 5](https://github.com/irmen/Pyro5) - Python remote objects for modern python versions.
+- [PyNNDescent](https://github.com/lmcinnes/pynndescent) - Python nearest neighbor descent for approximate nearest neighbors.
 
 ## Links
 
@@ -545,3 +556,4 @@
 - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
 - [Writing Python Extensions in Assembly (2020)](https://tonybaloney.github.io/posts/extending-python-with-assembly.html) ([HN](https://news.ycombinator.com/item?id=28702670))
 - [Pip vs Conda: an in-depth comparison of Python’s two packaging systems (2021)](https://pythonspeed.com/articles/conda-vs-pip/)
+- [packaging](https://github.com/pypa/packaging) - Core utilities for Python packages. ([Docs](https://packaging.pypa.io/en/latest/))

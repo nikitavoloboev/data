@@ -65,6 +65,7 @@
 - [Does this get better or worse as more people use it? Better? You're building a product. Worse? You're building a service.](https://twitter.com/Austen/status/1445610785388982277)
 - [Do whatever you think is right; if you end up successful you were right. Everything else are just opinions, ideas or noise. Take them, use them, ignore them. Your choice. You will only win in your own way.](https://twitter.com/andreasklinger/status/1449394745545998350)
 - [The longer you’re in the startup game the more you realize how big the gulf is between people who talk and people who execute.](https://twitter.com/yongfook/status/1449363950898876419)
+- [When a business model is well understood, we should be able to spend our time on what drives the metrics, not what they are.](https://twitter.com/evancharles/status/1450156809528889346)
 
 ## Links
 
@@ -327,6 +328,8 @@
 - [How to Evaluate Startup Offers (2021)](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
 - [My Emotions as a CEO (2021)](https://ryancaldbeck.co/2021/10/08/my-emotions-as-a-ceo/) ([HN](https://news.ycombinator.com/item?id=28809195))
 - [Preferred tools and tech for running a startup](https://github.com/tashburn/stack)
+- [The SaaS Metrics That Matter (2021)](https://sacks.substack.com/p/the-saas-metrics-that-matter) ([Tweet](https://twitter.com/DavidSacks/status/1450147042429321219)) ([HN](https://news.ycombinator.com/item?id=28914470))
+- [Dividing equity between founders (2009)](https://cdixon.org/2009/08/23/dividing-equity-between-founders)
 
 ## Images
 

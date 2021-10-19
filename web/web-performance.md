@@ -100,7 +100,7 @@
 - [The Ultimate Guide to Web Performance (2020)](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 - [Performance Observer](https://github.com/sumup-oss/performance-observer) - Generic interface for PerformanceObserver API.
 - [Getting Postmark’s Lighthouse Performance Score to 100 (2020)](https://wildbit.com/blog/2020/09/30/getting-postmark-lighthouse-performance-score-to-100)
-- [Speedlify](https://www.speedlify.dev/) - Benchmark web pages over time. ([Code](https://github.com/zachleat/speedlify))
+- [Speedlify](https://www.speedlify.dev/) - Benchmark web pages over time. ([Code](https://github.com/zachleat/speedlify)) ([Article](https://www.zachleat.com/web/speedlify/))
 - [Sitejoy](https://www.sitejoy.dev/) - Fast & responsive websites that will bring you joy.
 - [A Bit of Performance (2019)](https://www.kizu.ru/a-bit-of-performance/)
 - [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions.
@@ -140,3 +140,4 @@
 - [Explore JavaScript Dependencies With Lighthouse Treemap (2021)](https://sia.codes/posts/lighthouse-treemap/)
 - [My Challenge to the Web Performance Community (2021)](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)
 - [Notes on optimizing color library (2021)](https://twitter.com/andrey_sitnik/status/1445829975316123650)
+- [The Art of Deception, Lighthouse Score Edition (2021)](https://www.zachleat.com/web/lighthouse-deception/)

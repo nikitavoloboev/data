@@ -218,3 +218,4 @@
 - [FastPay](https://github.com/novifinancial/fastpay) - High-Performance Byzantine Fault Tolerant Settlement.
 - [Distributed consensus made simple (for real this time!) (2021)](https://decentralizedthoughts.github.io/2021-09-30-distributed-consensus-made-simple-for-real-this-time/)
 - [Hints and Principles for Computer System Design (2021)](https://arxiv.org/abs/2011.02455) ([HN](https://news.ycombinator.com/item?id=28771673))
+- [Guide To Prepare for the Gremlin Certified Chaos Engineering Practitioner Exam](https://github.com/gremlin/certificate-study-guide)

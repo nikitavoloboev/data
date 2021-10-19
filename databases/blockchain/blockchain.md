@@ -252,3 +252,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Why NFT can be worth anything? (2021)](https://twitter.com/kelseyhightower/status/1449126496107315200)
 - [Tokenization of everything is the biggest thing we have ever seen and will ever see (2021)](https://twitter.com/RaoulGMI/status/1449210646625673217)
 - [web3](https://github.com/gochain/web3) - CLI tool to interact with web3 blockchains - Ethereum, GoChain, etc.
+- [Compromised: A story of intrigue, terror, NFTs, and crypto-espionage (2021)](https://steviep.xyz/txt/compromised) ([HN](https://news.ycombinator.com/item?id=28906111))

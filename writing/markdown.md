@@ -85,3 +85,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [SwiftMarkdownBuilder](https://github.com/DoccZz/SwiftMarkdownBuilder) - resultBuilder support for swift-markdown.
 - [UXMD](https://github.com/lobau/uxmd) - Collaborative markdown for designing state flows.
 - [deno-gfm](https://github.com/lucacasonato/deno-gfm) - Server-side GitHub Flavored Markdown rendering for Deno.
+- [md-toc](https://github.com/zeusdeux/md-toc) - Generate a GitHub compatible table of contents from headings in a markdown file.

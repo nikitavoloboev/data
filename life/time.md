@@ -31,3 +31,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Time management tips](https://twitter.com/AliAbdaal/status/1384088804206596097)
 - [Life on the diagonal — adventures in 2-D time (2021)](https://lukeplant.me.uk/blog/posts/life-on-the-diagonal-adventures-in-2d-time/)
 - [Entropy and the Arrow of Time (2021)](https://www.youtube.com/watch?v=NfTmy1ApCvI) ([Reddit](https://www.reddit.com/r/Physics/comments/q6z7w5/entropy_and_the_arrow_of_time/))
+- [The Tail End (2015)](https://waitbutwhy.com/2015/12/the-tail-end.html)

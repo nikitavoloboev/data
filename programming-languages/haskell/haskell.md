@@ -324,3 +324,4 @@
 - [A Short Overview of Typed Template Haskell (2021)](https://serokell.io/blog/typed-template-haskell-overview)
 - [Thunks, Sharing, Laziness: The Haskell Heap Visualized – Joachim Breitner (2021)](https://www.youtube.com/watch?v=I4lnCG18TaY)
 - [Haskdogs](https://hackage.haskell.org/package/haskdogs) - Generate tags file for Haskell project and its nearest deps. ([Reddit](https://www.reddit.com/r/haskell/comments/q7yi2f/easy_way_to_locally_navigate_into_source_code_of/))
+- [tree-sitter-haskell](https://github.com/tree-sitter/tree-sitter-haskell) - Haskell grammar for tree-sitter.

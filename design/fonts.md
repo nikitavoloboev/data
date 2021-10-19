@@ -78,6 +78,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Pretendard](https://cactus.tistory.com/306) ([Code](https://github.com/orioncactus/pretendard))
 - [Basement Grotesque](https://grotesque.basement.studio/) - Inspired by the expressiveness of early 19th-century grotesque typefaces. ([Code](https://github.com/basementstudio/basement-grotesque))
 - [Redaction](https://www.redaction.us/) - Typeface from Titus Kaphar / Reginald Dwayne Betts’ show at MoMA PS1.
+- [Dank Mono](https://philpl.gumroad.com/l/dank-mono) - Coding typeface for aesthetes.
 
 ## Links
 

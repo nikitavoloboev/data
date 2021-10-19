@@ -51,3 +51,4 @@
 - [Mimic](https://github.com/jawline/Mimic) - Gameboy emulator written in Rust.
 - [CHIP-8 emulator written in Rust](https://github.com/jawline/CHIP-9)
 - [Fearless-NES](https://github.com/TomasKralCZ/Fearless-NES) - NES emulator written in Rust.
+- [Chip8 Emulator in Go](https://github.com/ambertide/chip8)

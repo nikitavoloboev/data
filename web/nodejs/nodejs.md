@@ -258,3 +258,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js. ([Web](https://moleculer.services/))
 - [skr canvas](https://github.com/Brooooooklyn/canvas) - Google Skia binding to Node.js via Node-API, 0 System dependencies.
 - [Clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library with no runtime dependencies.
+- [HyperExpress](https://github.com/kartikk221/hyper-express) - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.

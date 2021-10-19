@@ -65,3 +65,5 @@
 - [Optimizing Kafka Performance (2021)](https://granulate.io/optimizing-kafka-performance/) ([Reddit](https://www.reddit.com/r/scala/comments/pr45zg/optimizing_kafka_performance/))
 - [What is Apache Kafka, and what are Kafka use cases? (2021)](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
 - [pg2kafka](https://github.com/blendle/pg2kafka) - Ship changes in Postgres to Kafka.
+- [Issues we've encountered while building a Kafka based data processing pipeline (2021)](https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d) ([HN](https://news.ycombinator.com/item?id=28903614))
+- [josef](https://github.com/joshrotenberg/josef) - Process Kafka streams with Clojure Transducers.

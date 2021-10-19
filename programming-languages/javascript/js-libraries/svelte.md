@@ -5,6 +5,10 @@
 - [Elianiva](https://elianiva.me/) ([Code](https://github.com/elianiva/elianiva.me))
 - [SvelteKit RealWorld App](https://github.com/sveltejs/realworld)
 
+## Notes
+
+- [Svelte & Cloudflare Workers have been an amazing match for a very long time.](https://twitter.com/lukeed05/status/1450200444202991618)
+
 ## Links
 
 - [Svelte 3: Rethinking reactivity (2019)](https://svelte.dev/blog/svelte-3-rethinking-reactivity)

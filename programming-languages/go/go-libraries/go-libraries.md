@@ -455,7 +455,7 @@
 - [Aero](https://github.com/aerogo/aero) - High-performance web server for Go.
 - [rain](https://github.com/cenkalti/rain) - BitTorrent client and library in Go.
 - [Jet](https://github.com/go-jet/jet) - Type safe SQL Builder for Go with automatic scan to desired arbitrary object structure.
-- [ent](https://github.com/ent/ent) - Simple, yet powerful entity framework for Go, that makes it easy to build and maintain applications with large data-models. ([Web](https://entgo.io/)) ([Docs](https://entgo.io/docs/getting-started)) ([GraphQL setup](https://github.com/a8m/ent-graphql-example))
+- [ent](https://github.com/ent/ent) - Simple, yet powerful entity framework for Go, that makes it easy to build and maintain applications with large data-models. ([Web](https://entgo.io/)) ([Docs](https://entgo.io/docs/getting-started)) ([GraphQL setup](https://github.com/a8m/ent-graphql-example)) ([entcache](https://github.com/ariga/entcache)) ([ent-contrib](https://github.com/ent/contrib))
 - [Muon](https://github.com/ImVexed/muon) - Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
 - [gnet](https://github.com/panjf2000/gnet) - High-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [env](https://github.com/caarlos0/env) - Simple lib to parse envs to structs in Go.
@@ -996,6 +996,10 @@
 - [lumber](https://github.com/gleich/lumber) - Dead simple, pretty, and feature-rich logger for Go.
 - [promise](https://github.com/chebyrash/promise) - Promise / Future library for Go.
 - [UUID](https://github.com/skeeto/uuid) - UUID generator for Go.
+- [aho-corasick](https://github.com/petar-dambovaliev/aho-corasick) - Efficient string matching in Go via the aho-corasick algorithm.
+- [Defaults](https://github.com/meowgorithm/defaults) - Enforce default values on struct fields.
+- [Limiters](https://github.com/mennanov/limiters) - Distributed rate limiters for Go.
+- [go-nsq](https://github.com/nsqio/go-nsq) - Official Go package for NSQ.
 
 ## Links
 

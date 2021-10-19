@@ -625,6 +625,7 @@
 - [littlefoot](https://github.com/goblindegook/littlefoot) - Lightweight JavaScript library that creates exceptional footnotes. ([Web](https://littlefoot.js.org/))
 - [tzdb](https://github.com/vvo/tzdb) - Simplified, grouped and always up to date list of time zones, with major cities.
 - [Lazyframe](https://github.com/vb/lazyframe) - Dependency-free library for lazyloading iframes.
+- [msgpack-lite](https://github.com/kawanet/msgpack-lite) - Fast Pure JavaScript MessagePack Encoder and Decoder.
 
 ## Links
 

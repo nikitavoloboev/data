@@ -110,6 +110,7 @@
 - [Twang](https://github.com/AldaronLau/twang) - Library for pure Rust advanced audio synthesis.
 - [Leipzig](https://github.com/ctford/leipzig) - Music composition library for Clojure and ClojureScript.
 - [DawDreamer](https://github.com/DBraun/DawDreamer) - Audio-processing Python framework supporting core DAW features.
+- [soundbytes](https://github.com/petar-dambovaliev/soundbytes) - DSL for composing and playing music.
 
 ## Inspiration
 

@@ -51,7 +51,7 @@
 
 - [DifferentialEquations](https://github.com/JuliaDiffEq/DifferentialEquations.jl) - Julia suite for high-performance solvers of differential equations.
 - [IterativeSolvers](https://github.com/JuliaMath/IterativeSolvers.jl) - Iterative algorithms for solving linear systems, eigensystems, and singular value problems.
-- [JuMP](https://github.com/JuliaOpt/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
+- [JuMP](https://github.com/JuliaOpt/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear). ([Article](https://opensource.googleblog.com/2021/10/jump-modeling-language-for-mathematical-optimization.html))
 - [Multivariate Statistics](https://github.com/JuliaStats/MultivariateStats.jl) - Julia package for multivariate statistics and data analysis (e.g. dimension reduction).
 - [RandomizedLinAlg.jl](https://github.com/haampie/RandomizedLinAlg.jl) - Randomized algorithms for numerical linear algebra in Julia.
 - [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) - ⟨Leibniz-Grassmann-Clifford⟩ differential geometric algebra / multivector simplicial complex.
@@ -306,6 +306,8 @@
 - [Salsa.jl](https://github.com/RelationalAI-oss/Salsa.jl) - Framework for on-demand, incremental computation via memoization, inspired by Rust lang's salsa-rs/salsa.
 - [Blobs](https://github.com/RelationalAI-oss/Blobs.jl) - Binary blobs with on-the-fly pointer patching.
 - [Thrift.jl](https://github.com/tanmaykm/Thrift.jl) - Thrift for Julia.
+- [Graphs](https://github.com/JuliaGraphs/Graphs.jl) - Optimized graphs package for Julia.
+- [ZipFile](https://github.com/fhs/ZipFile.jl) - Read/Write ZIP archives in Julia.
 
 ## Links
 

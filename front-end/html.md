@@ -145,3 +145,4 @@
 - [html-to-image](https://github.com/bubkoo/html-to-image) - Generates an image from a DOM node using HTML5 canvas and SVG.
 - [Safe DOM manipulation with the Sanitizer API (2021)](https://web.dev/sanitizer/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/) ([Code](https://github.com/WICG/sanitizer-api))
+- [HTML Segmentator](https://github.com/fabiospampinato/html-segmentator) - Small library for splitting an HTML string into its top-level sections. Based on htmlparser2.

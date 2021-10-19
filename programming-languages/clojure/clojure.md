@@ -159,3 +159,4 @@
 - [Native Clojure with GraalVM (2021)](https://convexhuman.com/graalvm-clojure.html)
 - [Clojure Cookbook](http://clojure-cookbook.com/) ([Code](https://github.com/clojure-cookbook/clojure-cookbook))
 - [Building Stable Foundations - Heart of Clojure 2019 talk](https://danielcompton.net/2021/02/21/building-stable-foundations-heart-of-clojure-2019)
+- [Geometer](https://github.com/jackrusher/geometer) - Interactive playground for experiments with th.ing's geom libraries.

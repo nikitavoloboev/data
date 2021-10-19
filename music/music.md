@@ -151,3 +151,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/) ([Twitter](https://twitter.com/c4dm))
 - [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening)
 - [Mythra](https://github.com/Go-phie/mythra) - Music retrieval CLI and API using rust.
+- [The 200 Best Albums of the Last 25 Years, According to Pitchfork Readers (2021)](https://pitchfork.com/features/lists-and-guides/peoples-list-25th-anniversary/)

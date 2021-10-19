@@ -51,7 +51,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Citybound](https://github.com/citybound/citybound) - City building game with a focus on realism, collaborative planning and simulation of microscopic details. ([HN](https://news.ycombinator.com/item?id=19583384))
 - [Diablo build for modern operating systems](https://github.com/diasurgical/devilutionX)
 - [OneLife](https://github.com/jasonrohrer/OneLife) - Multiplayer survival game of parenting and civilization building.
-- [OpenMW](https://github.com/OpenMW/openmw) - Open-source open-world RPG game engine that supports playing Morrowind.
+- [OpenMW](https://github.com/OpenMW/openmw) - Open-source open-world RPG game engine that supports playing Morrowind. ([HN](https://news.ycombinator.com/item?id=28903451))
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - Open source re-implementation of Diablo 2.
 - [Pioneer](https://github.com/pioneerspacesim/pioneer) - Game of lonely space adventure.
 - [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine.

@@ -254,3 +254,4 @@
 - [weggli](https://github.com/googleprojectzero/weggli) - Fast and robust semantic search tool for C and C++ codebases. Designed to help security researchers identify interesting functionality in large codebases.
 - [[History of C++] Templates: from C-style macros to concepts (2021)](https://belaycpp.com/2021/10/01/history-of-c-templates-from-c-style-macros-to-concepts/)
 - [The genesis of casting (2021)](https://belaycpp.com/2021/10/14/history-of-c-the-genesis-of-casting/)
+- [Implementing Useful Algorithms in C++ (2020)](https://www.amazon.com/dp/B08PXHJCXY) ([Code](https://github.com/dkedyk/ImplementingUsefulAlgorithms))

@@ -40,3 +40,4 @@ In short, it can be summed down to this:
 - [Set Explicit Help Timeouts (2021)](https://www.swyx.io/help-timeouts/)
 - [How to Ask Useful Questions](https://joshkaufman.net/how-to-ask-useful-questions/)
 - [Effectively asking for help](https://nick.groenen.me/posts/effectively-asking-for-help/)
+- [Stop Asking Questions: How to Lead High-Impact Interviews and Learn Anything from Anyone (2021)](https://www.holloway.com/b/stop-asking-questions)

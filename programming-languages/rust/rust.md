@@ -594,3 +594,4 @@
 - [Error Handling In Rust - A Deep Dive (2021)](https://www.lpalmieri.com/posts/error-handling-rust/)
 - [Building Cloud-native applications with Rust - the good, the bad and the ugly - Luca Palmieri (2021)](https://www.youtube.com/watch?v=p4zjgU4RSYM)
 - [Rust Option 30x more efficient to return than Java Optional (2021)](https://pkolaczk.github.io/overhead-of-optional/) ([HN](https://news.ycombinator.com/item?id=28887908)) ([Reddit](https://www.reddit.com/r/rust/comments/q99eqe/rust_option_30x_more_efficient_to_return_than/))
+- [Rust Adventure](https://www.rustadventure.dev/) - Learn to build reliable and efficient software in Rust. ([Tweet](https://twitter.com/chrisbiscardi/status/1450082301371568133))

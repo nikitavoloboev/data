@@ -135,3 +135,4 @@
 - [Tools to explore BGP](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/) ([HN](https://news.ycombinator.com/item?id=28760731))
 - [Simple, fast DNS-over-TLS forwarding server](https://github.com/mikispag/dns-over-tls-forwarder) - Forwards to an user-specified list of upstream DNS-over-TLS servers in parallel, returning and caching the first result received.
 - [A short overview of DNS (2021)](https://cuddly-octo-palm-tree.com/posts/2021-10-17-dns/) ([Lobsters](https://lobste.rs/s/8lgrpg/short_overview_dns))
+- [SubBrute](https://github.com/TheRook/subbrute) - DNS meta-query spider that enumerates DNS records, and subdomains.

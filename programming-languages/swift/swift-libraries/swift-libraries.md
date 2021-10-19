@@ -341,6 +341,7 @@
 - [AlertKit](https://github.com/rebeloper/AlertKit) - SwiftUI alerts (and action sheets) done right.
 - [ViewCondition](https://github.com/tokijh/ViewCondition) - Super sweet syntactic sugar for SwiftUI.View initializers.
 - [SwiftUI Layout Guides](https://github.com/tgrapperon/swiftui-layout-guides) - Micro-library exposes UIKit's layout margins and readable content guides to SwiftUI.
+- [SnapToScroll](https://github.com/swiftui-library/hstack-snap-to-scroll) - Easy-to-use HStack that snaps to elements on scroll.
 
 ## Test
 

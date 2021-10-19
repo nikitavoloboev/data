@@ -406,3 +406,7 @@
 - [Video Panoptic Segmentation (2020)](https://arxiv.org/abs/2006.11339) ([Code](https://github.com/mcahny/vps))
 - [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision) - Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generation.
 - [Multiple Heads are Better than One: Few-shot Font Generation with Multiple Localized Experts (2021)](https://arxiv.org/abs/2104.00887) ([Code](https://github.com/clovaai/mxfont))
+- [Non-deep Networks (2021)](https://arxiv.org/abs/2110.07641) ([Code](https://github.com/imankgoyal/NonDeepNetworks))
+- [receptivefield](https://github.com/fornaxai/receptivefield) - Gradient based receptive field estimation for Convolutional Neural Networks.
+- [Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations (2021)](https://igl.ethz.ch/projects/iso-points/) ([Code](https://github.com/yifita/iso-points))
+- [Neural Articulated Radiance Field (2021)](https://arxiv.org/abs/2104.03110) ([Code](https://github.com/nogu-atsu/NARF))

@@ -71,3 +71,5 @@
 - [Awesome Elm PLTD](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
 - [elm2nix](https://github.com/cachix/elm2nix) - Convert an Elm project into Nix expressions.
 - [Elm Optimize, Level 2](https://github.com/mdgriffith/elm-optimize-level-2)
+- [elm-ts-interop init Command, Codec and Pipeline APIs, and docs site (2021)](https://incrementalelm.com/elm-ts-interop-improvements/)
+- [Incremental Elm](https://incrementalelm.com/) - Stop Learning Elm Best Practices The Hard Way.

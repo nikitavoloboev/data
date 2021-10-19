@@ -71,3 +71,4 @@
 - [Goofys](https://github.com/kahing/goofys) - High-performance, POSIX-ish Amazon S3 file system written in Go.
 - [GeeseFS](https://github.com/yandex-cloud/geesefs) - High-performance, POSIX-ish S3 (Yandex, Amazon) file system written in Go.
 - [libzetta-rs](https://github.com/Inner-Heaven/libzetta-rs) - Stable interface for programmatic administration of ZFS from Rust.
+- [APFS FUSE Driver for Linux](https://github.com/sgan81/apfs-fuse)

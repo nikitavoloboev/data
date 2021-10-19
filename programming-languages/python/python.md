@@ -343,3 +343,5 @@
 - [Python-Mini-Projects](https://github.com/Python-World/python-mini-projects) - Collection of simple python mini projects to enhance your Python skills.
 - [Magic Python](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code.
 - [Lukasz Langa / Designing With Immutability (2020)](https://www.youtube.com/watch?v=0RInKZR8Weo)
+- [Some thoughts on asynchronous API design in a post-async/await world (2016)](https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/)
+- [Where does all the effort go? Looking at Python core developer activity (2021)](https://lukasz.langa.pl/f15a8851-af26-4e94-a4b1-c146c57c9d20/)

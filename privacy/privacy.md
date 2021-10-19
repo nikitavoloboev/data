@@ -102,3 +102,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Google and Facebook, I am facilitating packet filtering to block your tracking (2021)](https://peguero.xyz/blog/google_and_facebook_i_am_facilitating_packet_filtering_to_block_your_tracking.html) ([Lobsters](https://lobste.rs/s/jpca2y/google_facebook_i_am_facilitating_packet))
 - [Open Privacy Vault](https://openprivacy.io/) - Open Source PII as a Service. ([Code](https://github.com/open-privacy/opv))
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Web extension that redirects Twitter, YouTube, Instagram, Google Maps, Reddit, Google Search, & Google Translate requests to privacy friendly alternatives.
+- [Differentially Private Fine-tuning of Language Models (2021)](https://arxiv.org/abs/2110.06500) ([Tweet](https://twitter.com/thegautamkamath/status/1450113340617940998))

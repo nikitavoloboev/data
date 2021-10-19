@@ -27,3 +27,4 @@
 - [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [Introduction to Dev Tools](https://github.com/jkup/mastering-chrome-devtools)
 - [Abusing the Chromium Devtools Scope Pane (2021)](https://medium.com/@weizmangal/javascript-anti-debugging-some-next-level-sh-t-part-2-abusing-chromium-devtools-scope-pane-b2796c00331d) ([HN](https://news.ycombinator.com/item?id=28422781))
+- [How to debug event listeners with your browser's developer tools (2021)](https://gomakethings.com/how-to-debug-event-listeners-with-your-browsers-developer-tools/)

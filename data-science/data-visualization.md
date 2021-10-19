@@ -15,7 +15,7 @@
 - [Most cited scientific papers within data visualization (2019)](https://www.reddit.com/r/dataisbeautiful/comments/am2xk4/most_cited_scientific_papers_within_data/)
 - [Visualization of related subreddits](https://github.com/anvaka/sayit)
 - [Draco](https://github.com/uwdata/draco) - Formal framework for representing design knowledge about effective visualization design as a collection of constraints.
-- [Observable](https://observablehq.com/) - Magic notebook for visualization.
+- [Observable](https://observablehq.com/) - Magic notebook for visualization. ([Product](https://observablehq.com/product))
 - [Bl.ocks](https://bl.ocks.org/) - Simple viewer for sharing code examples hosted on GitHub Gist.
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components.
 - [deck.gl](https://deck.gl/#/) - WebGL-powered framework for visual exploratory data analysis of large datasets.

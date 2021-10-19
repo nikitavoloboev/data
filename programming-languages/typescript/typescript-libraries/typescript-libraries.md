@@ -21,6 +21,10 @@
 - [TS auto mock](https://github.com/Typescript-TDD/ts-auto-mock) - Typescript transformer to unlock automatic mock creation for interfaces and classes.
 - [intermock](https://github.com/google/intermock) - Mocking library to create mock objects and JSON for TypeScript interfaces via Faker.
 
+## Auth
+
+- [jwt-cache](https://github.com/ForbesLindesay/jwt-cache) - Cache an async function for generating a JSON Web Token.
+
 ## Other
 
 - [ow](https://github.com/sindresorhus/ow) - Argument type validation.
@@ -165,6 +169,8 @@
 - [typeconv](https://github.com/grantila/typeconv) - Convert between JSON Schema, TypeScript, GraphQL, Open API and SureType.
 - [multicloud-jwt](https://github.com/joaomilho/multicloud-jwt) - JWT that works both on AWS and GCP's KMS.
 - [ts-extras](https://github.com/sindresorhus/ts-extras) - Essential utilities for TypeScript projects.
+- [Cacheables](https://github.com/grischaerbe/cacheables) - Simple in-memory cache written in Typescript with automatic cache invalidation and an elegant syntax.
+- [Spatial Keyboard Navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - Visual hierarchy approach to navigate through selectable elements on a page. ([Article](https://danilowoz.com/blog/spatial-keyboard-navigation)) ([HN](https://news.ycombinator.com/item?id=28895961))
 
 ## Links
 

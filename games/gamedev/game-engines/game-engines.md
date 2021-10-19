@@ -91,7 +91,7 @@
 
 ## Physics engines
 
-- [MuJoCo](https://github.com/openai/mujoco-py) - Physics engine for detailed, efficient rigid body simulations with contacts.
+- [MuJoCo](https://mujoco.org/) - Multi-Joint dynamics with Contact. A general purpose physics simulator. ([Code](https://github.com/deepmind/mujoco)) ([Article](https://deepmind.com/blog/announcements/mujoco)) ([HN](https://news.ycombinator.com/item?id=28906333)) ([Old Code](https://github.com/openai/mujoco-py)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/qaouds/n_deepmind_acquires_mujoco_makes_it_freely/))
 
 ## Links
 

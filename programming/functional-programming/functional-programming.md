@@ -133,6 +133,7 @@
 - [Random Permutations and Sorting](https://apfelmus.nfshost.com/articles/random-permutations.html)
 - [Meta-learning and Monads (2021)](https://www.brunogavranovic.com/posts/2021-10-13-meta-learning-and-monads.html) ([Tweet](https://twitter.com/bgavran3/status/1448426672622129154))
 - [Functional Algorithms, Verified (2021)](https://functional-algorithms-verified.org/) ([HN](https://news.ycombinator.com/item?id=28884229))
+- [Std: Execution, Sender/Receiver, and the Continuation Monad (2021)](https://sdowney.org/index.php/2021/10/03/stdexecution-sender-receiver-and-the-continuation-monad/) ([HN](https://news.ycombinator.com/item?id=28894851))
 
 ## Images
 
