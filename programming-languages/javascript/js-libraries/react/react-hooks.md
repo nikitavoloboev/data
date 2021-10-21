@@ -184,3 +184,4 @@ useEffect(() => {
 - [How to replace useState with useRef and be a winner (2021)](https://thoughtspile.github.io/2021/10/18/non-react-state/) ([Reddit](https://www.reddit.com/r/reactjs/comments/qals23/how_to_replace_usestate_with_useref_and_be_a/))
 - [Thanks React, I'm fine with an imperative setInterval (2021)](https://thoughtspile.github.io/2021/10/13/really-declarative/)
 - [Are many useStates better than useState(object)? (2021)](https://thoughtspile.github.io/2021/10/11/usestate-object-vs-multiple/)
+- [Hooks Architec](https://github.com/blockmatic/hooks-architecture) - Simple and powerful project architecture for React and React Native apps.

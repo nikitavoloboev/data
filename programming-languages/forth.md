@@ -32,3 +32,4 @@
 - [How Forth implements exceptions (2021)](https://niedzejkob.p4.team/bootstrap/throw-catch/)
 - [Porth](https://github.com/tsoding/porth) - Like Forth but in Python.
 - [Differentiable Forth Interpreter](https://github.com/uclnlp/d4)
+- [Write a Forth in Haskell (2020)](https://glitchbra.in/post/write-a-forth-in-haskell-intro/)

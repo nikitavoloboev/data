@@ -94,3 +94,5 @@
 - [Fontaudio](https://github.com/fefanto/fontaudio) - Icon toolkit for audio developers.
 - [Font-GIS](https://github.com/Viglino/font-gis) - Icon font set for use with GIS and spatial analysis tools. ([Web](https://viglino.github.io/font-gis/))
 - [Meteocons](https://basmilius.github.io/weather-icons/) - Free to use animated weather icons. ([Code](https://github.com/basmilius/weather-icons))
+- [425k Favicons Analyzed](https://iconmap.io/) ([HN](https://news.ycombinator.com/item?id=28933391))
+- [Free Favicon Maker](https://formito.com/tools/favicon) - Create SVG & PNG favicon in seconds.

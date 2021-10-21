@@ -97,7 +97,7 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [bitcoin-p2p](https://github.com/stevenroose/rust-bitcoin-p2p) - Rust implementation of Bitcoin p2p protocol.
 - [Lightning Bitcoin Core](https://github.com/lbtcio/lbtc-core) - Fully decentralized Internet-of-value protocol for global payments.
 - [BRD](https://brd.com/) - Bitcoin wallet. ([Code](https://github.com/breadwallet/breadwallet-ios))
-- [Stacks](https://www.stacks.co/) - Makes Bitcoin programmable, enabling decentralized apps and smart contracts that inherit all of Bitcoin’s powers.
+- [Stacks](https://www.stacks.co/) - Smart contracts for Bitcoin. ([Code](https://github.com/blockstack/connect)) ([GitHub](https://github.com/blockstack)) ([Library Code](https://github.com/blockstack/connect))
 - [Smart contracts on Bitcoin (2021)](https://avc.com/2021/01/smart-contracts-on-bitcoin/) ([HN](https://news.ycombinator.com/item?id=25781645))
 - [Bitcoin Layer 2: Lightning Network Resources](https://www.lopp.net/lightning-information.html)
 - [Clarity Smart Contract Language](https://clarity-lang.org/) - Lisp-like Smart Contracts on Bitcoin. ([GitHub](https://github.com/clarity-lang))
@@ -165,3 +165,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Len Sassaman and Satoshi: a Cypherpunk history (2021)](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10)
 - [BDK](https://github.com/bitcoindevkit/bdk) - Modern, lightweight, descriptor-based wallet library written in Rust.
 - [Bitcoin and the U.S. Fiscal Reckoning (2021)](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning) ([HN](https://news.ycombinator.com/item?id=28896379))
+- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - JavaScript Bitcoin library for node.js and browsers.

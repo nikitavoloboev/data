@@ -64,3 +64,7 @@
 - [RapidWright](https://github.com/Xilinx/RapidWright) - Build Customized FPGA Implementations for Vivado. ([Web](http://www.rapidwright.io/))
 - [captouch](https://github.com/stnolting/captouch) - Capacitive Buttons for any FPGA.
 - [FPGA Torture](https://github.com/stnolting/fpga_torture) - Technology-agnostic FPGA stress-test: maximum logic utilization and high dynamic power consumption.
+- [A Dive into the Sipeed Tang FPGA (2021)](https://justanotherelectronicsblog.com/?p=986)
+- [Reduceron](https://github.com/tommythorn/Reduceron) - High performance FPGA softcore for running lazy functional programs, complete with hardware garbage collection.
+- [Partial implementation of Knuth's MMIX processor (FPGA softcore)](https://github.com/tommythorn/fpgammix)
+- [hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning in FPGAs using HLS. ([Docs](https://fastmachinelearning.org/hls4ml/))

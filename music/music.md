@@ -152,3 +152,6 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening)
 - [Mythra](https://github.com/Go-phie/mythra) - Music retrieval CLI and API using rust.
 - [The 200 Best Albums of the Last 25 Years, According to Pitchfork Readers (2021)](https://pitchfork.com/features/lists-and-guides/peoples-list-25th-anniversary/)
+- [dStream](https://github.com/DusteDdk/dstream) - Simple access to your music from the web. ([HN](https://news.ycombinator.com/item?id=28910368))
+- [Euterpe](https://listen-to-euterpe.eu/) - Self-hosted music streaming server with RESTful API and Web interface. Think of it as your very own Spotify. ([Code](https://github.com/ironsmile/euterpe))
+- [Music on a Clear Möbius Strip (2021)](https://www.youtube.com/watch?v=sToqbqP0tFk)

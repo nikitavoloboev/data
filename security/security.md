@@ -2,6 +2,10 @@
 
 I use [1Password](https://1password.com/) password manager for saving all my passwords, various other credentials and private notes and it has been a lifesaver thus far. Having a unique password for all my accounts and using 2FA wherever available means I should be quite safe in case any of my accounts gets breached or the password gets leaked.
 
+## Notes
+
+- [SolarWinds supply chain attack: SolarWinds were pushing the malware in updates. The malware itself is your standard DLL injection that establishes C2 and then allows them to come in and install further tools on it. They pushed it to everyone via update and made it look authentic by leveraging SolarWind's token-based authentication in the update process. Delivered through a trusted code signed agent, the software goes to a central management server on your network that is used to inventory and manage network infrastructure. Also whoever did this would have vetted the exploit by running it against all known anti-malware and log analysis systems to ensure it wasn't flagged, there are great videos that show how to obfuscate code to get past signature based detection and this was attack was certainly planned out and not using off the shelf exploit kits that would detected](https://www.reddit.com/r/technology/comments/kda9pl/alleged_russian_solarwinds_hack_probably_an_11_on/)
+
 ## Links
 
 - [Lynis](https://github.com/CISOfy/lynis) - Security auditing and hardening tool, for UNIX-based systems.
@@ -199,3 +203,7 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [sizeof(cat)](https://sizeof.cat/)
 - [Profian](https://www.profian.com/) - Proven security for the untrusted cloud.
 - [Security is a layered approach. No single layer alone can protect us. (2021)](https://twitter.com/migueldeicaza/status/1448655100759592969)
+- [Trustworthy Computing in 2021](https://ariadne.space/2021/10/19/trustworthy-computing-in-2021/) ([HN](https://news.ycombinator.com/item?id=28929261))
+- [Terrascan](https://github.com/accurics/terrascan) - Static code analyzer for Infrastructure as Code.
+- [SLSA (Supply-chain Levels for Software Artifacts)](https://slsa.dev/) - Security framework from source to service, giving anyone working with software a common language for increasing levels of software security and supply chain integrity. ([Code](https://github.com/slsa-framework/slsa))
+- [Modern security stack (2021)](https://twitter.com/zackkanter/status/1416780099081359363)

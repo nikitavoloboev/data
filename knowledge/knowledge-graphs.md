@@ -87,3 +87,4 @@
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs. ([Docs](https://docs.ampligraph.org/))
 - [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/abs/1905.07854) ([Code](https://github.com/LunaBlack/KGAT-pytorch))
 - [RelationalAI](https://www.relational.ai/) - Relational Knowledge Graphs. ([GitHub](https://github.com/RelationalAI-oss))
+- [RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space (2019)](https://openreview.net/forum?id=HkgEQnRqYQ) ([Code](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding))

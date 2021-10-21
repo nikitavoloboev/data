@@ -99,3 +99,4 @@
 - [Bluesky](https://blueskyweb.org/) - Building a Social Web. ([Twitter](https://twitter.com/bluesky)) ([Discord](https://discord.com/invite/gugTcDrb))
 - [Web3 Devs and Builders Twitter](https://twitter.com/i/lists/1433448123142115329)
 - [Should Your Next Company Be a DAO? (2021)](https://www.coss.community/cossc/should-your-next-company-be-a-dao-2o44)
+- [web3 Policy - Andreessen Horowitz](https://a16z.com/web3-policy/)

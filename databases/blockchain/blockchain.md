@@ -57,6 +57,8 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Person: web3 is empowering creators! Me: Oh so it's like a decentralized network like mastodon? Person: no it's like web 2.0 plus blockchain.](https://twitter.com/ReinH/status/1442536279409774597)
 - [I would read an essay about how appeals to "community" in crypto have totally obscured power relations, governance, who makes money, and who's scamming who. This is an industry (wildly anarchic, unregulated, unequal, run by capital), not a community.](https://twitter.com/mims/status/1448253915976421376)
 - [How NFTs can be used for money laundering: Someone pays "for the NFT" when they're actually paying for something illicit. Having the NFT can make it appear to be a legitimate transaction, so they can deposit the funds without the IRS losing their mind.](https://twitter.com/sageheroRC/status/1449020958463901702)
+- [I believe what makes NFTs different is a transformative vision of a future that true believers find inspiring and achievable. In their eyes, the current speculative bubble is a mechanism for growing something enduring.](https://twitter.com/slightlylate/status/1450886698951340033)
+- [Recognizing the spiritual hunger that sits at the core of these movements (and remember how many in the space are young people!) is an important step to understanding them. Crypto culture is a mirror world that feeds off of the unexamined failures of the real world.](https://twitter.com/Pinboard/status/1450886210914709506)
 
 ## Links
 
@@ -253,3 +255,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Tokenization of everything is the biggest thing we have ever seen and will ever see (2021)](https://twitter.com/RaoulGMI/status/1449210646625673217)
 - [web3](https://github.com/gochain/web3) - CLI tool to interact with web3 blockchains - Ethereum, GoChain, etc.
 - [Compromised: A story of intrigue, terror, NFTs, and crypto-espionage (2021)](https://steviep.xyz/txt/compromised) ([HN](https://news.ycombinator.com/item?id=28906111))
+- [Flow](https://www.onflow.org/) - Blockchain for open worlds. ([GitHub](https://github.com/onflow)) ([Playground](https://www.onflow.org/play)) ([Code](https://github.com/onflow/flow-go))
+- [Cadence](https://github.com/onflow/cadence) - Resource-oriented smart contract programming language.
+- [Cairo](https://www.cairo-lang.org/) - Turing-complete language making it possible for all blockchain developers to harness the power of STARKs. ([Code](https://github.com/starkware-libs/cairo-lang))

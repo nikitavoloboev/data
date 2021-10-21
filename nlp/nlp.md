@@ -372,3 +372,7 @@
 - [ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go.
 - [PromptSource](https://github.com/bigscience-workshop/promptsource) - Toolkit for collecting and applying prompts to NLP datasets. ([Web](https://huggingface.co/bigscience/T0pp)) ([HN](https://news.ycombinator.com/item?id=28905640))
 - [Creating User Interface Mock-ups from High-Level Text Descriptions with Deep-Learning Models (2021)](https://arxiv.org/abs/2110.07775)
+- [Filtlong](https://github.com/rrwick/Filtlong) - Tool for filtering long reads by quality. It can take a set of long reads and produce a smaller, better subset.
+- [Multi-Task Pre-Training for Plug-and-Play Task-Oriented Dialogue System (2021)](https://arxiv.org/abs/2109.14739) ([Code](https://github.com/awslabs/pptod))
+- [xFormers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
+- [Language Models As or For Knowledge Bases (2021)](https://arxiv.org/pdf/2110.04888.pdf)

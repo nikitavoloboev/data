@@ -4,6 +4,13 @@
 
 - [Stripe Homepage Website Made with Tailwind CSS](https://codepen.io/andreyazimov/pen/abWWeKp)
 
+## Code
+
+```css
+<!-- unset styles -->
+all: unset
+```
+
 ## Notes
 
 - ID's are unique.
@@ -370,3 +377,4 @@
 - [Conditional Border Radius In CSS (2021)](https://ishadeed.com/article/conditional-border-radius/)
 - [Smart CSS Solutions For Common UI Challenges (2021)](https://www.smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/)
 - [100 bytes of CSS to look great everywhere to style text](https://twitter.com/swyx/status/1449472712720601088)
+- [New Simple and Lighter CSS Reset](https://github.com/elad2412/the-new-css-reset) - Removes all the default styles which we are getting on specific HTML elements except the ‘display’ property. ([Web](https://elad2412.github.io/the-new-css-reset/)) ([Article](https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/))

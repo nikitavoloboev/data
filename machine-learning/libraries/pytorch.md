@@ -285,3 +285,4 @@
 - [Accelerate PyTorch models with ONNX Runtime](https://github.com/pytorch/ort)
 - [Bagua](https://github.com/BaguaSys/bagua) - Deep learning training acceleration framework for PyTorch.
 - [TorchMetrics](https://github.com/PyTorchLightning/metrics) - Machine learning metrics for distributed, scalable PyTorch applications. ([Docs](https://torchmetrics.readthedocs.io/en/latest/))
+- [AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) - Automated deep learning algorithms implemented in PyTorch.

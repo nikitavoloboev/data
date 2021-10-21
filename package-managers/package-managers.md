@@ -32,3 +32,6 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Deps](https://github.com/dropseed/deps) - Command line tool for staying on top of dependencies. It runs updates, automates pull requests, and keeps your local installations in check.
 - [There are (at least) two types of package managers (2021)](https://utcc.utoronto.ca/~cks/space/blog/tech/PackageManagersTwoTypes) ([Lobsters](https://lobste.rs/s/3usbqn/there_are_at_least_two_types_package))
 - [What’s in a package (2021)](https://hpc.guix.info/blog/2021/09/whats-in-a-package/) ([HN](https://news.ycombinator.com/item?id=28618074))
+- [binwrap](https://github.com/avh4/binwrap) - Distribute binaries via npm.
+- [version](https://github.com/bit101/version) - What version do I have of \_\_\_?
+- [rinstall](https://github.com/DanySpin97/rinstall) - Helper tool that installs software and additional data into the system.

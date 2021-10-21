@@ -62,3 +62,7 @@
 - [Bitrise](https://www.bitrise.io/) - Mobile Continuous Integration and Delivery. ([GitHub](https://github.com/bitrise-io)) ([Bitrise Step Libs](https://github.com/bitrise-steplib))
 - [Bitrise (offline) CLI](https://github.com/bitrise-io/bitrise) ([Web](http://app.bitrise.io/cli))
 - [Zero Downtime Deployments (2021)](https://www.lpalmieri.com/posts/zero-downtime-deployments/)
+- [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd)
+- [Visual Studio App Center SDK for iOS and macOS](https://github.com/microsoft/appcenter-sdk-apple)
+- [App Center fastlane plugin](https://github.com/microsoft/fastlane-plugin-appcenter)
+- [snowpatch](https://github.com/ruscur/snowpatch) - Enabling continuous integration for patch-based development workflows.

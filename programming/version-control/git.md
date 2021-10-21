@@ -13,6 +13,126 @@ I love Git and version control. And I use version control over any project I do.
 - [To me the beauty of git stems from the fact that it is an implementation of a functional data structure. It‘s a tree index that is read-only, and updating it involves creating a complete copy of the tree and giving it a new name. Then the only challenge is to make that copy as cheap as possible - for which the tree lends itself, as only the nodes on the path to the root need to get updated. As a result, you get lock-free transactions (branches) and minimal overhead. It is so beautiful in fact that when I think about systems that need to maintain long-running state in concurrent environments, my first reaction is ”split up the state into files, and maintain it through git“.](https://news.ycombinator.com/item?id=21418033)
 - [PRs with mandatory review within a company are a bit of an antipattern/red flag IMO. Cycle time automatically gets long. Even when pairing, changes can be put up for review if the authors want more feedback, so it's not a binary choice.](https://twitter.com/sanityinc/status/1313206571606978560)
 
+## Code
+
+```bash
+# set new git remote origin (https://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-a-git-repository)
+git remote set-url origin git://new.url.here
+
+# Cleanup .git http://gcc.gnu.org/ml/gcc/2007-12/msg00165.html
+git repack -a -d --depth=250 --window=250
+
+# Reset to previous commit
+git reset HEAD~
+
+# Reset to commit
+git reset <commit hash> --hard
+
+# Checkout previous commit
+git checkout HEAD~
+
+# Create new branch
+git checkout -b
+
+# Revert changes to modified files (working changes)
+git reset --hard
+
+# New branch without git history & files
+git checkout --orphan
+
+# Show where git configs get defined
+git config --show-origin -l
+
+# Undo last commit but don't throw away changes
+git reset --soft HEAD^
+
+# List all git submodules
+git submodule--helper list
+
+# Pull from PR
+git pull origin pull/<issue ID>/head
+
+# List remote branches
+git branch -a
+
+# Delete branch
+git branch -d
+
+# Delete remote branch
+git push origin --delete
+
+# Force overwrite git repo. https://stackoverflow.com/questions/10510462/force-git-push-to-overwrite-remote-files
+git push -f <remote> <branch>
+
+# Reset to specific commit
+git reset --hard <commit>
+
+# Remove dir from git
+git rm --cached -r <dir>
+
+# Rename previous commit
+git commit --amend
+
+# Force push overwrite
+git push --force origin master
+
+# Hard reset a branch
+git reset --hard <branch-name>
+
+# Change remote. i.e. when making a fork of a clone to change upstream destination.
+git remote rename origin upstream; git remote rename nikitavoloboev origin
+
+# Change upstream to my name so it pushes there
+git branch --set-upstream-to nikitavoloboev/master master
+
+# Show changes between commits. Where f5352 and be73 are unique commit hashes.
+git diff f5352 be73
+
+# Update submodule
+git submodule update
+
+# Set PGP key for Git globally. <key> = fingerprint w/o spaces
+git config --global user.signingkey <key>
+```
+
+```bash
+# Delete commit from remote.
+
+# 1. Delete commit from local repo
+git reset --hard HEAD~1
+
+# 2. Delete commit from remote repo (can get commit using git log)
+git push -f origin last_known_good_commit:branch_name
+```
+
+### Change old commit message
+
+```bash
+#
+# It is bad practice to rewrite history. Works best if no one has pushed commits on top of remote branch you want to rewrite history of.
+
+# 1. Rebase to commit you want to change (~1 means the first ancestor of the specified commit)
+git rebase -i <hash>~1
+
+# Can also do this
+git rebase -i HEAD~4 # where HEAD~4 = last 3 commits
+
+# 2. Rename pick to reword (in opened editor) & save/quit
+
+# 3. Change commit message in editor and save
+
+# 4. Overwrite and remove duplicate commits
+git push --force-with-lease
+```
+
+### [Quickly pull down PRs](https://davidwalsh.name/5-essential-git-commands-and-utilities)
+
+```bash
+git config --global --add alias.pr '!f() { git fetch -fu ${2:-upstream} refs/pull/$1/head:pr/$1 && git checkout pr/$1; }; f'
+
+git config --global --add alias.pr-clean '!git checkout master ; git for-each-ref refs/heads/pr/* --format="%(refname)" | while read ref ; do branch=${ref#refs/heads/} ; git branch -D $branch ; done'
+```
+
 ## Links
 
 - [Git from the Bottom Up (2008)](https://jwiegley.github.io/git-from-the-bottom-up/) ([HN](https://news.ycombinator.com/item?id=26884318))
@@ -96,7 +216,6 @@ I love Git and version control. And I use version control over any project I do.
 - [Set up Keybase.io, GPG & Git to sign commits on GitHub](https://github.com/pstadler/keybase-gpg-github)
 - [Bliss](https://github.com/ajmwagar/bliss) - "batteries included" .gitignore management tool.
 - [Vaibhav Sagar - I Haskell a Git (2018)](https://www.youtube.com/watch?v=nVvvY5VRs8o)
-- [Nx](https://github.com/nrwl/nx/) - Extensible Dev Tools for Monorepos.
 - [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web. ([Code](https://github.com/summitech/gitexplorer)) ([HN](https://news.ycombinator.com/item?id=28888763))
 - [Please stop recommending Git Flow (2020)](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/) ([HN](https://news.ycombinator.com/item?id=22485489)) ([Lobsters](https://lobste.rs/s/o76cit/please_stop_recommending_git_flow))
 - [git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your tracking branches whose upstream branches are merged or gone.
@@ -299,4 +418,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Aho](https://github.com/djanderson/aho) - Git implementation in AWK. ([HN](https://news.ycombinator.com/item?id=28771841)) ([Lobsters](https://lobste.rs/s/u7gls0/aho_git_implementation_awk))
 - [Improving Git's Autocorrect Feature (2021)](https://azeemba.com/posts/contributing-to-git.html)
 - [git-stack](https://github.com/epage/git-stack) - Stacked branch management for Git.
-- [Lightning-fast rebases with git-move (2021)](https://blog.waleedkhan.name/in-memory-rebases/)
+- [Fast rebases with git-move (2021)](https://blog.waleedkhan.name/in-memory-rebases/) ([HN](https://news.ycombinator.com/item?id=28899661))
+- [go-gitdir](https://github.com/belak/gitdir) - Simple and lightweight SSH git hosting with just a directory.
+- [Rudolfs](https://github.com/jasonwhite/rudolfs) - High-performance, caching Git LFS server with an AWS S3 and local storage back-end.
+- [git-subset](https://github.com/jasonwhite/git-subset) - Super fast Git tree filtering.

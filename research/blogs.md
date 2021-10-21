@@ -68,6 +68,8 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Never Ending Books](http://www.neverendingbooks.org/)
 - [Luca Palmieri](https://www.lpalmieri.com/)
 - [Bartosz Ciechanowski](https://ciechanow.ski/)
+- [Daniel Holden](https://theorangeduck.com/)
+- [Alarming Development](https://alarmingdevelopment.org/)
 
 ## Notes
 

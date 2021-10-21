@@ -126,3 +126,5 @@
 - [Using Modern Image Formats: AVIF And WebP (2021)](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)
 - [didder](https://github.com/makeworld-the-better-one/didder) - Extensive, fast, and accurate command-line image dithering tool.
 - [GL Transitions](https://gl-transitions.com/) - Powerful and easy to learn language, perfect for image effects. ([Code](https://github.com/gl-transitions/gl-transitions))
+- [Media Utility Scripts](https://github.com/cacheflowe/media-utility-scripts) - Bash scripts for common conversion tasks on multimedia (video, image, audio) files.
+- [CleanUp.pictures](https://cleanup.pictures/) - Free web application that lets you quickly cleanup or remove objects in any image. ([Code](https://github.com/initml/cleanup.pictures)) ([Tweet](https://twitter.com/cyrildiagne/status/1450762117255204866))

@@ -100,3 +100,9 @@
 - [Dask Geopandas](https://github.com/mrocklin/dask-geopandas) - Parallelized GeoPandas with Dask.
 - [Sterblue Geospatial](https://github.com/sterblue/geospatial) - Geospatial monorepo for geospatial related packages.
 - [Atlasr](https://github.com/atlasr-org/atlasr) - Truly open-source and free map browser.
+- [osmflat](https://github.com/boxdot/osmflat-rs) - OpenStreetMap flatdata format and compiler.
+- [harp.gl](https://github.com/heremaps/harp.gl) - 3D web map rendering engine written in TypeScript using three.js ([Web](https://www.harp.gl/))
+- [HERE Technologies](https://www.here.com/) - High-precision data and advanced tooling for a safer, more efficient and cleaner world. ([Developer](https://developer.here.com/)) ([GitHub](https://github.com/heremaps))
+- [OSM Lab](https://github.com/osmlab) - Organization for OpenStreetMap related projects - libraries, applications, and other code.
+- [OSM Editor Layer Index](https://osmlab.github.io/editor-layer-index/) - Traceable imagery and other layer sources intended for use in OpenStreetMap. ([Code](https://github.com/osmlab/editor-layer-index))
+- [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson)

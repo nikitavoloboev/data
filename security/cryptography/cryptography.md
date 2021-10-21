@@ -138,3 +138,4 @@
 - [O(1) Labs](https://www.o1labs.org/) - Using cryptography and cryptocurrency to build computing systems that put people back in control of their digital lives. ([GitHub](https://github.com/o1-labs))
 - [Bugs in our Pockets: The Risks of Client-Side Scanning (2021)](https://www.cs.columbia.edu/~smb/papers/bugs21.pdf) ([Tweet](https://twitter.com/SteveBellovin/status/1448808323378294786)) ([Lobsters](https://lobste.rs/s/a3taal/bugs_our_pockets_risks_client_side)) ([Article](https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/))
 - [Cracking Random Number Generators Using Machine Learning (2021)](https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/) ([HN](https://news.ycombinator.com/item?id=28886698))
+- [A Graduate Course in Applied Cryptography (2020)](https://toc.cryptobook.us/book.pdf) ([HN](https://news.ycombinator.com/item?id=28918554))

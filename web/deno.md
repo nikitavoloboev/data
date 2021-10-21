@@ -68,7 +68,8 @@
 - [lexy](https://github.com/littledivy/lexy) - Fast & Non-regex based lexical analysis for Deno.
 - [Deno in 2020](https://deno.land/posts/deno-in-2020)
 - [DenoDB](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno. ([HN](https://news.ycombinator.com/item?id=27546705))
-- [oak](https://github.com/oakserver/oak) - Middleware framework for Deno’s http server, including a router middleware.
+- [oak](https://github.com/oakserver/oak) - Middleware framework for handling HTTP with Deno.
+- [SuperOak](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
 - [ssgo](https://github.com/mdubourg001/ssgo) - Minimalistic but flexible static site generator for Deno.
 - [Template for new Deno projects](https://github.com/starts-with/deno)
 - [Denomander](https://github.com/siokas/denomander) - Deno command-line interfaces made easy.
@@ -128,3 +129,11 @@
 - [Diplo](https://github.com/Tricked-dev/diplo) - Script runner and dependency manager made in rust mainly for Deno.
 - [deno_cache](https://github.com/kitsonk/deno_cache) - TypeScript implementation of Deno CLI's module cache.
 - [deno_bindgen](https://github.com/littledivy/deno_bindgen) - Simplified glue code generation for Deno FFI libraries written in Rust.
+- [God Crypto](https://github.com/invisal/god_crypto) - Pure JavaScript/TypeScript Crypto Implementation for Deno. AES, RSA, HMAC, and TOTP.
+- [deno-bin](https://github.com/kt3k/deno-bin) - Use Deno via npm.
+- [Permission Guard](https://github.com/asos-craigmorten/permission-guard) - Zero-dependency, minimal permission guard for Deno.
+- [SuperDeno](https://github.com/asos-craigmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
+- [Drash](https://github.com/drashland/deno-drash) - REST microframework for Deno's HTTP server with zero 3rd party dependencies.
+- [Rhum](https://github.com/drashland/rhum) - Lightweight testing framework for Deno.
+- [Deno Module Manager](https://github.com/drashland/dmm)
+- [deno_ast](https://github.com/denoland/deno_ast) - Source text parsing, lexing, and AST related functionality for Deno.

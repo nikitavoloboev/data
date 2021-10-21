@@ -59,7 +59,7 @@
 - [SeaTable](https://seatable.io/) - Online lightweight database with a spreadsheet interface. ([Code](https://github.com/seatable/seatable))
 - [Ceph](https://github.com/ceph/ceph) - Distributed object, block, and file storage platform.
 - [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding. ([Web](https://vitess.io/))
-- [MinIO](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage. ([Web](https://min.io/)) ([GitHub](https://github.com/minio)) ([MinIO: A Bare Metal Drop-In for AWS S3](https://tech.marksblogg.com/minio-aws-s3-hdfs.html))
+- [MinIO](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage. ([Web](https://min.io/)) ([GitHub](https://github.com/minio)) ([MinIO: A Bare Metal Drop-In for AWS S3](https://tech.marksblogg.com/minio-aws-s3-hdfs.html)) ([MinIO Console](https://github.com/minio/console)) ([MinIO Operator](https://github.com/minio/operator))
 - [Memory-Efficient Search Trees for Database Management Systems (2020)](http://reports-archive.adm.cs.cmu.edu/anon/2020/CMU-CS-20-101.pdf) ([HN](https://news.ycombinator.com/item?id=22543125))
 - [ShareDB](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT).
 - [Irmin](https://irmin.org/) - Distributed database built on the same principles as Git. ([Code](https://github.com/mirage/irmin)) ([HN](https://news.ycombinator.com/item?id=22591949))
@@ -71,7 +71,7 @@
 - [Akumuli](https://github.com/akumuli/Akumuli) - Time-series database.
 - [SSDB](https://github.com/ideawu/ssdb) - Redis compatible NoSQL database stored on disk.
 - [minikeyvalue](https://github.com/geohot/minikeyvalue) - Distributed key value store in under 1000 lines. ([HN](https://news.ycombinator.com/item?id=25642062))
-- [Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication.
+- [Bedrock](https://github.com/Expensify/Bedrock) - Simple, modular, WAN-replicated, Blockchain-based data foundation for global-scale applications. ([Web](https://bedrockdb.com/))
 - [TerminusDB](https://terminusdb.com/) - Full featured in-memory graph database management system with a rich query language. ([Code](https://github.com/terminusdb/terminus-server)) ([HN](https://news.ycombinator.com/item?id=22867767))
 - [WhiteDB](https://github.com/priitj/whitedb) - Lightweight database library operating fully in main memory. Disk is used only for dumping/restoring database and logging.
 - [FaunaDB](fauna.md) - Database built for serverless, featuring native GraphQL.
@@ -80,8 +80,8 @@
 - [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web.
 - [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL. ([timescaledb-tune](https://github.com/timescale/timescaledb-tune)) ([HN](https://news.ycombinator.com/item?id=24132602)) ([2.0 release](https://blog.timescale.com/blog/timescaledb-2-0-a-multi-node-petabyte-scale-completely-free-relational-database-for-time-series/))
 - [Timescale Cloud](https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/) ([HN](https://news.ycombinator.com/item?id=28761453)) ([HN](https://news.ycombinator.com/item?id=28761566))
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Open-source column-oriented database management system that allows generating analytical data reports in real time. ([How ClickHouse Saved our Data](https://mux.com/blog/from-russia-with-love-how-clickhouse-saved-our-data/)) ([HN](https://news.ycombinator.com/item?id=27310247)) ([Faster ClickHouse Imports](https://tech.marksblogg.com/faster-clickhouse-imports-csv-parquet-mysql.html)) ([HN: ClickHouse, Inc.](https://news.ycombinator.com/item?id=28595419))
-- [ArongoDB](https://www.arangodb.com/) - Natively store data for graph, document and search needs. Utilize feature-rich access with one query language. ([Go Driver](https://github.com/arangodb/go-driver)) ([Arangolite - Go Driver](https://github.com/solher/arangolite))
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Open-source column-oriented database management system that allows generating analytical data reports in real time. ([How ClickHouse Saved our Data](https://mux.com/blog/from-russia-with-love-how-clickhouse-saved-our-data/)) ([HN](https://news.ycombinator.com/item?id=27310247)) ([Faster ClickHouse Imports](https://tech.marksblogg.com/faster-clickhouse-imports-csv-parquet-mysql.html)) ([HN: ClickHouse, Inc.](https://news.ycombinator.com/item?id=28595419)) ([Article](https://blog.timescale.com/blog/what-is-clickhouse-how-does-it-compare-to-postgresql-and-timescaledb-and-how-does-it-perform-for-time-series-data/)) ([HN](https://news.ycombinator.com/item?id=28945903))
+- [ArongoDB](https://www.arangodb.com/) - Natively store data for graph, document and search needs. Utilize feature-rich access with one query language. ([Go Driver](https://github.com/arangodb/go-driver)) ([Arangolite - Go Driver](https://github.com/solher/arangolite)) ([Python Driver](https://github.com/ArangoDB-Community/python-arango))
 - [LiteStore](https://github.com/h3rald/litestore) - Lightweight, self-contained, RESTful, multi-format NoSQL document store server written in Nim and powered by a SQLite backend for storage.
 - [RecallGraph](https://github.com/RecallGraph/RecallGraph) - Versioning data store for time-variant graph data. ([HN](https://news.ycombinator.com/item?id=23455516))
 - [Apache Pinot](https://pinot.apache.org/) - Realtime distributed OLAP datastore. ([Code](https://github.com/apache/incubator-pinot))
@@ -89,6 +89,7 @@
 - [TileDB](https://github.com/TileDB-Inc/TileDB) - Storage Engine for Data Science.
 - [Pravega](https://github.com/pravega/pravega) - Open source distributed storage service implementing Streams. It offers Stream as the main primitive for the foundation of reliable storage systems.
 - [libmdbx](https://github.com/erthink/libmdbx) - Extremely fast, compact, powerful, embedded, transactional key-value store database.
+- [libfpta](https://github.com/erthink/libfpta) - Ultra fast, compact, Embedded Database for tabular and semistructured data.
 - [Realm](https://github.com/realm/realm-core) - Mobile database that runs directly inside phones, tablets or wearables.
 - [HSE](https://github.com/hse-project/hse) - Embeddable key-value store designed for SSDs based on NAND flash or persistent memory.
 - [GhostDB](https://github.com/jakekgrog/GhostDB) - Distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale. ([HN](https://news.ycombinator.com/item?id=23774174))
@@ -221,6 +222,8 @@
 - [Atlas](https://atlasgo.io/) - Set of tools designed to help companies better work with their data. It includes several components that can be used individually but are designed to work very well together. ([Code](https://github.com/ariga/atlas))
 - [replikativ](https://github.com/replikativ/replikativ) - Open, scalable and distributive infrastructure for a data-driven community of applications. ([Web](https://replikativ.io/)) ([Unified storage IO](https://whilo.github.io/articles/16/unified-storage-io))
 - [Bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control management tool for developers and DBAs. ([Web](https://bytebase.com/))
+- [Sequelize-Auto](https://github.com/sequelize/sequelize-auto) - Automatically generate models for SequelizeJS via the command line.
+- [DrawSQL](https://drawsql.app/) - Database schema diagrams.
 
 ## Notes
 
@@ -442,3 +445,6 @@
 - [Pelikan](https://github.com/twitter/pelikan) - Twitter's unified cache backend.
 - [Relational Databases Aren’t Dinosaurs, They’re Sharks (2021)](https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/)
 - [The One Crucial Difference Between Spanner and CockroachDB (2021)](https://authzed.com/blog/prevent-newenemy-cockroachdb/)
+- [TAO: Facebook’s Distributed Data Store for the Social Graph (2021)](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
+- [Can you explain how a database index works in an interview? (2017)](https://news.ycombinator.com/item?id=14498892)
+- [How Time Series Databases Work—and Where They Don't (2021)](https://www.honeycomb.io/blog/time-series-database/) ([HN](https://news.ycombinator.com/item?id=28901063))

@@ -252,3 +252,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Correct by Construction Language Implementations (2021)](https://ajrouvoet.github.io/files/thesis.pdf) ([Tweet](https://twitter.com/PerezJorgeA_/status/1448902148264284164))
 - [How do you write code in statically-typed functional programming languages (2021)](https://twitter.com/jplubin/status/1449159815058522115)
 - [LangSandbox](https://github.com/ftomassetti/LangSandbox) - Project to illustrate how to build a programming language.
+- [Toward a Theory of Programming Language and Reasoning Assistant Design: Minimizing Cognitive Load (2021)](https://arxiv.org/abs/2110.03806v1)
+- [Comparison of enumerations and similar features in different languages](https://github.com/Crell/enum-comparison)

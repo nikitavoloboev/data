@@ -19,6 +19,7 @@
 - [elm-in-elm](https://github.com/elm-in-elm/compiler) - Elm compiler written in Elm.
 - [Elm CLI Options Parser](https://github.com/dillonkearns/elm-cli-options-parser) - Build type-safe command-line utilities in Elm.
 - [another-elm/std](https://github.com/another-elm/std) - Standard libraries for Elm.
+- [Maybe.Extra](https://github.com/elm-community/maybe-extra) - Convenience functions for working with Maybe.
 
 ## Links
 

@@ -41,3 +41,5 @@
 - [All World Languages in One Visualization, By Native Speakers](https://www.visualcapitalist.com/a-world-of-languages/)
 - [LanguageTool](https://languagetool.org/) - Online Grammar, Style & Spell Checker. ([Twitter](https://twitter.com/languagetool))
 - [How to Write a Spelling Corrector (2007)](http://norvig.com/spell-correct.html) ([In Go](https://github.com/montanaflynn/toy-spelling-corrector))
+- [PostgreSQL Translation Proxy](https://github.com/NikolayS/postgrest-translation-proxy) - PostgreSQL / PostgREST proxy to Google Translate API, with caching and multiphrase support.
+- [Divvun.org](https://divvun.org/) - Языковые инструменты для языков коренных народов и меньшинств. ([GitHub](https://github.com/divvun))

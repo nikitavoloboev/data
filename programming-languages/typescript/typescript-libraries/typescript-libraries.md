@@ -171,6 +171,8 @@
 - [ts-extras](https://github.com/sindresorhus/ts-extras) - Essential utilities for TypeScript projects.
 - [Cacheables](https://github.com/grischaerbe/cacheables) - Simple in-memory cache written in Typescript with automatic cache invalidation and an elegant syntax.
 - [Spatial Keyboard Navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - Visual hierarchy approach to navigate through selectable elements on a page. ([Article](https://danilowoz.com/blog/spatial-keyboard-navigation)) ([HN](https://news.ycombinator.com/item?id=28895961))
+- [OpenCensus](https://github.com/census-instrumentation/opencensus-node) - Stats collection and distributed tracing framework.
+- [Config Validator Policy](https://github.com/GoogleCloudPlatform/policy-library) - Library of constraint templates and sample constraints for Forseti Config Validator.
 
 ## Links
 

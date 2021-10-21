@@ -121,6 +121,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Categories for the idle mathematician - YouTube (2021)](https://www.youtube.com/playlist?list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL) - Introductory lectures on category theory.
 - [Category Theory Illustrated - Logic](https://boris-marinov.github.io/category-theory-illustrated/05_logic/) ([HN](https://news.ycombinator.com/item?id=28660157))
 - [Dinatural transformations (2019)](https://www.brunogavranovic.com/posts/2019-09-12-dinatural-transformations.html)
+- [Adventures in Category Theory - The Algebra of Types (2018)](https://miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html) ([HN](https://news.ycombinator.com/item?id=28926834))
 
 ## Images
 

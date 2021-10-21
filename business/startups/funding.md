@@ -131,3 +131,4 @@
 - [Advice on doing a fund raise (2021)](https://twitter.com/oritheorca/status/1441567230945234952)
 - [AngelList Stack](https://www.angellist.com/stack) - Create a fundraising-ready startup. ([HN](https://news.ycombinator.com/item?id=28685308))
 - [VAUBAN](https://vauban.io/) - Pool & deploy capital in clicks. ([Tweet](https://twitter.com/t_blom/status/1449007004371009536))
+- [How to use story telling to get funding (2021)](https://twitter.com/justinkan/status/1450942285995151360)

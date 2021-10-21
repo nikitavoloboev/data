@@ -23,3 +23,4 @@
 - [A Swift Introduction to Geometric Algebra (2020)](https://www.youtube.com/watch?v=60z_hpEAtD8)
 - [GBD.jl](https://github.com/Orbots/GBD.jl) - Geometric algebra Based Dynamics.
 - [GeometricMatrixAlgebras.jl](https://github.com/MasonProtter/GeometricMatricAlgebras.jl) - Geoemtric Algebra using Julia matrices.
+- [Curves of genus 13 explained (2021)](https://arxiv.org/abs/2110.09553) ([Tweet](https://twitter.com/DaveJensenMath/status/1450809787663388679))

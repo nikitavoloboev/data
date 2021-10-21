@@ -159,6 +159,13 @@
 - [blanks](https://github.com/ejconlon/blanks) - Fill-in-the-blanks - A library factoring out substitution from ASTs.
 - [cleff](https://github.com/re-xyr/cleff) - Fast and concise extensible effects.
 - [Albatross](https://github.com/habit-lang/alb) - Tool for compiling relatively efficient implementations of priority queues.
+- [Haskell Protocol Buffers](https://github.com/k-bx/protocol-buffers)
+- [validation-selective](https://github.com/kowainik/validation-selective) - Lightweight pure validation based on Applicative and Selective functors.
+- [Display](https://github.com/Kleidukos/display) - Typeclass for user-facing output.
+- [Witch](https://github.com/tfausak/witch) - Convert values from one type into another.
+- [haskell-lockfree](https://github.com/rrnewton/haskell-lockfree) - Collection of different packages for CAS based data structures.
+- [attoparsec](https://github.com/haskell/attoparsec) - Fast Haskell library for parsing ByteStrings.
+- [uniplate](https://github.com/ndmitchell/uniplate) - Haskell library for simple, concise and fast generic operations.
 
 ## Links
 

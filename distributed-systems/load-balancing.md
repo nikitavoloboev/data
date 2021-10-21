@@ -35,3 +35,4 @@
 - [wirez](https://github.com/v-byte-cpu/wirez) - Simple socks5 round-robin load balancer.
 - [Eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
 - [Using load shedding to avoid overload](https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/) ([HN](https://news.ycombinator.com/item?id=28818622))
+- [AWS Communism: How we cut our Load Balancing cost by more than 96% (2021)](https://www.setops.co/blog/aws-communism-part-1-how-we-cut-our-load-balancing-cost) ([HN](https://news.ycombinator.com/item?id=28917947))

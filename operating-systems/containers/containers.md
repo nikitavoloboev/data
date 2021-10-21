@@ -135,3 +135,5 @@
 - [OCI Distribution Specification](https://github.com/opencontainers/distribution-spec) - Defines an API protocol to facilitate and standardize the distribution of content.
 - [GoCSI](https://github.com/rexray/gocsi) - Container Storage Interface (CSI) library, client, and other helpful utilities created with Go.
 - [OCI Runtime, Image and Distribution Spec in Rust](https://github.com/containers/oci-spec-rs)
+- [Bitnami Containers](https://bitnami.com/stacks/containers)
+- [Security Checklist for Build Container Images](https://krol3.github.io/container-security-checklist/) ([Code](https://github.com/krol3/container-security-checklist))

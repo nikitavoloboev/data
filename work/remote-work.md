@@ -133,3 +133,5 @@
 - [Polar Signals Remote Work Benefits](https://twitter.com/rothgar/status/1446867332748300288)
 - [HN: Amazon will allow many employees to work remotely indefinitely (2021)](https://news.ycombinator.com/item?id=28831031)
 - [WorkAdventure](https://workadventu.re/) - Collaborative web application (virtual office) presented as a 16-bit RPG video game. ([Code](https://github.com/thecodingmachine/workadventure))
+- [Volley](https://www.volleyapp.com/) - Async video messaging built for remote work.
+- [Best way to structure income when switching tax residency often (2021)](https://twitter.com/andreasklinger/status/1451160171699441670)

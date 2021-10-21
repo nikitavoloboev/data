@@ -28,3 +28,4 @@
 - [Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI 3D printer by Prusa Research.
 - [Prusa3D](https://www.prusa3d.com/) - Open-Source 3D printers by Josef Prusa. ([GitHub](https://github.com/prusa3d))
 - [Anatomy of a CNC Router (2021)](https://mattferraro.dev/posts/cnc-router)
+- [Debunking LIES about 3D printed concrete houses (2021)](https://www.youtube.com/watch?v=sz1LM9kwRLY) ([Reddit](https://www.reddit.com/r/videos/comments/qc3ueb/debunking_lies_about_3d_printed_concrete_houses/))

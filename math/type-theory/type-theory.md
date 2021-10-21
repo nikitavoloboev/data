@@ -147,7 +147,7 @@
 - [type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms in Haskell.
 - [Type system innovation propagation (2021)](https://doma.dev/blog/innovation-propagation/)
 - [Shape Irrelevant Reflection in Type Theory](https://github.com/TheoWinterhalter/sirtt)
-- [Human Aspects of Types and Reasoning Assistants (2021)](https://2021.splashcon.org/home/hatra-2021#program)
+- [Human Aspects of Types and Reasoning Assistants (2021)](https://2021.splashcon.org/home/hatra-2021#program) ([Article](https://alarmingdevelopment.org/?p=1557))
 - [Where Do Type Systems Come From?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/) ([HN](https://news.ycombinator.com/item?id=28702933))
 - [Pure type system implemented in OCaml](https://github.com/mmcqd/pure)
 - [Type Systems Toy Implementations](https://github.com/andreypopp/type-systems)

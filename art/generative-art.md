@@ -161,3 +161,9 @@
 - [David Mignot IG](https://www.instagram.com/idflood/)
 - [Flora](https://github.com/jaseknighter/flora) - L-systems sequencer and bandpass filtered sawtooth engine for monome norns.
 - [Suite of tools for NFT generative art](https://github.com/alephao/nftool)
+- [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) - References of Generative Deep Learning tools, works, models, etc.
+- [7 Days of Code](https://7daysofcode.art/) - Monthly social creativity challenge for generating art with code. ([Code](https://github.com/SabinT/7daysofcode))
+- [Generative Art Books](https://github.com/cdr6934/awesome-generative-books)
+- [Creative Coding Notes](https://github.com/cacheflowe/creative-coding-notes)
+- [Haxademic.js](https://github.com/cacheflowe/haxademic.js) - Personal front-end JavaScript toolkit.
+- [Tiny humans](https://tinyhumans.vercel.app/) - Little interactive sandbox for tiny people, tiny thoughts, and their tiny stories. ([Code](https://github.com/thesephist/tinyhumans))

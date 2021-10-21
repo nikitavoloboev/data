@@ -51,3 +51,6 @@
 - [F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption (Extended Version) (2021)](https://arxiv.org/abs/2109.05371) ([Tweet](https://twitter.com/vj_chidambaram/status/1439222843665956870)) ([Tweet](https://twitter.com/Theophite/status/1438738713018699778))
 - [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) - Fastest JS implementation of secp256k1. Independently audited, high-security, 0-dependency ECDSA & Schnorr signatures.
 - [Double-Odd Elliptic Curves](https://doubleodd.group/front.html) ([HN](https://news.ycombinator.com/item?id=28736958))
+- [Mask Network](https://mask.io/) - Send encrypted posts to your friends, participate in cryptocurrencies lucky-draws, and share encrypted files on the platforms you are already using. ([Code](https://github.com/DimensionDev/Maskbook))
+- [libsecp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for ECDSA signatures and secret/public key operations on curve secp256k1. ([Python Lib](https://github.com/rustyrussell/secp256k1-py))
+- [Tanker](https://tanker.io/) - End-to-end encryption as a service. ([GitHub](https://github.com/TankerHQ))

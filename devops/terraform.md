@@ -104,3 +104,4 @@
 - [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong)
 - [Terraform: From Beginner To Master: With Examples In AWS Book (2021)](https://leanpub.com/terraform-from-beginner-to-master) ([Course](https://www.educative.io/courses/terraform-beginner-master-aws)) ([Code](https://github.com/kevholditch/terraform-beginner-to-master-examples))
 - [tfschema-bindgen](https://github.com/gbrigandi/tfschema-bindgen) - Generate (de)serialization Rust code for Terraform Schema.
+- [Terraform AWS IAM System User](https://github.com/cloudposse/terraform-aws-iam-system-user) - Terraform Module to Provision a Basic IAM System User Suitable for CI/CD Systems.

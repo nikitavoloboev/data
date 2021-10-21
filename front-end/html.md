@@ -5,6 +5,42 @@
 - As a general rule, if there will be only one such element on the page, you can use an id. Otherwise, use a class.
 - [`<form method=post>` is good to communicate a mutation.](https://twitter.com/ryanflorence/status/1370403183822921731)
 
+## Code
+
+```html
+<!-- Embed email inside link -->
+<a href="mailto:name@gmail.com">Email me</a>
+```
+
+```html
+<!-- Add image to the side with link -->
+<!-- Useful in GitHub readmes. Can adjust width or add height. -->
+<img
+  src="https://i.imgur.com/hZe2AUY.png"
+  align="right"
+  width="70"
+/>](https://nodejs.org)
+```
+
+```html
+<!-- Breaking space. Can use in readme to separate things. -->
+&nbsp;
+```
+
+```html
+<!-- Collapsable content -->
+<details>
+  <summary>Table of Contents</summary>
+
+  * [About](#about) * [Screenshots](#screenshots) * ..
+</details>
+```
+
+```html
+<!-- line break -->
+<br />
+```
+
 ## Links
 
 - [HTML reference](https://htmlreference.io/)
@@ -144,5 +180,9 @@
 - [Get Your Head Straight Talk](https://speakerdeck.com/csswizardry/get-your-head-straight)
 - [html-to-image](https://github.com/bubkoo/html-to-image) - Generates an image from a DOM node using HTML5 canvas and SVG.
 - [Safe DOM manipulation with the Sanitizer API (2021)](https://web.dev/sanitizer/)
-- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/) ([Code](https://github.com/WICG/sanitizer-api))
+- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/) ([Code](https://github.com/WICG/sanitizer-api)) ([Article](https://portswigger.net/daily-swig/google-mozilla-close-to-finalizing-sanitizer-api-for-chrome-and-firefox-browsers))
 - [HTML Segmentator](https://github.com/fabiospampinato/html-segmentator) - Small library for splitting an HTML string into its top-level sections. Based on htmlparser2.
+- [Embetter](https://github.com/cacheflowe/embetter) - Embed 3rd-party media with lazy-loaded iframes.
+- [Inline Everything Cheat Sheet](https://cacheflowe.github.io/inline-everything/) - Examples for inlining different file types. ([Code](https://github.com/cacheflowe/inline-everything))
+- [HTML Compendium](https://github.com/xdesro/html-compendium) - Omnibus HTML file you can test your CSS cascade and formatting with.
+- [writable-dom ](https://github.com/marko-js/writable-dom) - Utility to stream HTML content into a live document.

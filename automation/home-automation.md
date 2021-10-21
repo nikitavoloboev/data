@@ -50,3 +50,4 @@
 - [HN: Home Assistant (2021)](https://news.ycombinator.com/item?id=28544835)
 - [Home Assistant Amber](https://www.crowdsupply.com/nabu-casa/home-assistant-amber) - Take control of your home as never before.
 - [Control house air conditioner via HomeKit (2021)](https://mat.geeky.net/2021/06/16/Get-at-it-then.html)
+- [Home Assistant Google Home community integration](https://github.com/leikoilja/ha-google-home)

@@ -22,6 +22,7 @@
 - [KubePug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker).
 - [Druid Kubernetes Operator](https://github.com/druid-io/druid-operator)
 - [Notifications Engine](https://github.com/argoproj/notifications-engine) - Affordable notifications for Kubernetes.
+- [k6 Operator](https://github.com/grafana/k6-operator) - Operator for running distributed k6 tests.
 
 ## Links
 

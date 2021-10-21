@@ -5,6 +5,20 @@
 - [Global interpreter lock (or GIL) is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once.](https://wiki.python.org/moin/GlobalInterpreterLock)
 - [Create separate enviornments in Conda for each program to avoid dependency issues.](https://www.reddit.com/r/bioinformatics/comments/n2fwz4/what_is_something_that_you_realized_that_entirely/)
 
+## Code
+
+```python
+# read file line by line
+with open('filename') as f:
+    content = f.readlines()
+```
+
+```python
+# Iterate over list
+for i, _ in enumerate(nums):
+  ..
+```
+
 ## Links
 
 - [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
@@ -345,3 +359,6 @@
 - [Lukasz Langa / Designing With Immutability (2020)](https://www.youtube.com/watch?v=0RInKZR8Weo)
 - [Some thoughts on asynchronous API design in a post-async/await world (2016)](https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/)
 - [Where does all the effort go? Looking at Python core developer activity (2021)](https://lukasz.langa.pl/f15a8851-af26-4e94-a4b1-c146c57c9d20/)
+- [Prospector](https://github.com/PyCQA/prospector) - Tool to analyze Python code and output information about errors, potential problems, convention violations and complexity.
+- [You shouldn't invoke setup.py directly (2021)](https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html) ([HN](https://news.ycombinator.com/item?id=28918440))
+- [astor](https://github.com/berkerpeksag/astor) - Python AST read/write.

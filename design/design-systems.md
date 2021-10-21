@@ -77,6 +77,7 @@
 ## Notes
 
 - [If you have 10 teams working independently, you're already maintaining 10 design systems—or even more. It's cheaper to do it once.](https://twitter.com/markdalgleish/status/1336954195400802308)
+- [Making design system decisions in order to be tech agnostic is actually doing a disservice. Usually the tradeoff becomes less ability to codify the decisions into the system, way more process and effort to evolve and educate, ultimately more expensive.](https://twitter.com/sarah_federman/status/1451039437090025476)
 
 ## Links
 
@@ -143,3 +144,4 @@
 - [A Content Model Is Not a Design System (2021)](https://alistapart.com/article/a-content-model-is-not-a-design-system/)
 - [Dessert Box](https://github.com/TheMightyPenguin/dessert-box) - Library to easily consume your design tokens from a React component, meant to be used with vanilla-extract.
 - [Variant-driven Components (2021)](https://ped.ro/blog/variant-driven-components)
+- [Design systems and magic (2021)](https://twitter.com/danmall/status/1450825066502148102)

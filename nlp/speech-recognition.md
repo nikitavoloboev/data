@@ -70,3 +70,5 @@
 - [PDF to Speech](https://github.com/CypherousSkies/pdf-to-speech) - Deep-learning powered accessibility application which turns PDFs into audio files.
 - [ASV-Subtools](https://github.com/Snowdar/asv-subtools) - Open Source Tools for Speaker Recognition.
 - [VoiceFixer](https://github.com/haoheliu/voicefixer) - General Speech Restoration.
+- [speechmetrics](https://github.com/aliutkus/speechmetrics) - Wrapper around speech quality metrics MOSNet, BSSEval, STOI, PESQ, SRMR, SISDR.
+- [Silero VAD](https://github.com/snakers4/silero-vad) - Pre-trained enterprise-grade Voice Activity Detector, Language Classifier and Spoken Number Detector.

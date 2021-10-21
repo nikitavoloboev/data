@@ -43,6 +43,7 @@
 - [gatekeeper](https://github.com/itsMapleLeaf/gatekeeper) - Supercharge your discord.js commands.
 - [discord.py](https://github.com/Rapptz/discord.py) - API wrapper for Discord written in Python. ([Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)) ([HN](https://news.ycombinator.com/item?id=28334516)) ([Reddit](https://www.reddit.com/r/programming/comments/pd092x/discordpy_development_ceased/))
 - [Discljord](https://github.com/IGJoshua/discljord) - Clojure wrapper library for the Discord API, with full API coverage, and high scalability.
+- [Dis.ml](https://github.com/Mishio595/disml) - OCaml Discord API.
 
 ## Links
 

@@ -75,3 +75,4 @@
 - [Blues Wireless](https://blues.io/) - Fastest path to build cellular IoT products. ([HN](https://news.ycombinator.com/item?id=28051005))
 - [Mainflux](https://www.mainflux.com/) - Modern, scalable, secure, open-source, and patent-free IoT cloud platform written in Go. ([Code](https://github.com/mainflux/mainflux)) ([GitHub](https://github.com/mainflux))
 - [NimbleEdge](https://www.nimbleedge.ai/) - Edge computing solution for all your needs. ([GitHub](https://github.com/NimbleEdge))
+- [Elevate IoT platform](https://www.technocreatives.com/elevate-iot-som) - Utilizing Rust and GraphQL to enable nimble and effective IoT solutions for real problems.

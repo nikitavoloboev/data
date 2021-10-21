@@ -94,3 +94,4 @@
 - [TF/JAX Tutorials (2021)](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part1)
 - [Scaling TensorFlow to 300 million predictions per second (2021)](https://arxiv.org/abs/2109.09541)
 - [TypedFlow](https://github.com/GU-CLASP/TypedFlow) - Typed, higher-order frontend to TensorFlow and a high-level library for deep-learning.
+- [TensorFlow RiemOpt](https://github.com/master/tensorflow-riemopt) - Library for manifold-constrained optimization in TensorFlow.

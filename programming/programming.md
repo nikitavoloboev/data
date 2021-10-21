@@ -59,6 +59,8 @@
 - [You should own your core competencies.](https://lobste.rs/s/uxgclp/benefit_dependency_is_inversely)
 - [If you write software that shows errors to users (so, software) please, do everyone including yourself a favor and keep some way of figuring out the causal chain that drove a certain decision by your program.](https://twitter.com/ekuber/status/1441430291739029505)
 - [Don’t build software systems “to last”: we humans are terrible at predicting what changes we’ll need to make in the future. Instead, develop expertise at replacing systems. You know for sure you’ll need to replace it, so replace often, you’ll get better at it!](https://twitter.com/generativist/status/1441535261255421953)
+- [Writing a program: 1. Analyze the problem. 2. Build the flow chart. 3. Code the instructions. ](https://twitter.com/kevinbaker/status/1450684742916005892)
+- [Better direction is to speed up applications by cutting most of the bullshit (JS/HTML) and move workload to the GPU. Seems like a much cleaner total complexity than go for thin client / fat server again.](https://twitter.com/rikarends/status/1451160562776297473)
 
 ## Links
 
@@ -463,3 +465,6 @@
 - [Are You Using The Right Cache? (2021)](https://www.lpalmieri.com/posts/caching-types-in-a-microservice-architecture/)
 - [How I learned to program (2016)](https://danluu.com/learning-to-program/) ([HN](https://news.ycombinator.com/item?id=28886559))
 - [Features of Excellent Code Review Tools (2021)](https://benjamincongdon.me/blog/2021/10/17/Features-of-Excellent-Code-Review-Tools/)
+- [Programming Aesthetics: I. The Missing Skill (2021)](https://blog.audax-labs.com/posts/2021-10-16-code-aesthetics-1)
+- [Readability verification (2021)](https://blog.ploeh.dk/2021/10/18/readability-verification/)
+- [Why I Hate Frameworks (2005)](https://www.fredrikholmqvist.com/pages/why-i-hate-frameworks.html) ([HN](https://news.ycombinator.com/item?id=28920095))

@@ -26,3 +26,4 @@
 - [Building multiple Progressive Web Apps on the same domain (2021)](https://web.dev/building-multiple-pwas-on-the-same-domain/)
 - [PWA Tricks](https://github.com/karlhorky/pwa-tricks) - Collection of helpful tricks for PWAs.
 - [pwa-lit-template](https://github.com/IBM/pwa-lit-template) - Template for building Progressive Web Applications using LitElement and Vaadin Router.
+- [What does it take to be installable? (2020)](https://web.dev/install-criteria/) ([Tweet](https://twitter.com/tomayac/status/1450861305108340738))

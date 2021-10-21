@@ -72,3 +72,5 @@
 - [GeeseFS](https://github.com/yandex-cloud/geesefs) - High-performance, POSIX-ish S3 (Yandex, Amazon) file system written in Go.
 - [libzetta-rs](https://github.com/Inner-Heaven/libzetta-rs) - Stable interface for programmatic administration of ZFS from Rust.
 - [APFS FUSE Driver for Linux](https://github.com/sgan81/apfs-fuse)
+- [Fuse-Archive](https://github.com/google/fuse-archive) - Program that serves an archive or compressed file (e.g. foo.tar, foo.tar.gz, foo.xz, foo.zip) as a FUSE file system.
+- [Flatdata](https://github.com/heremaps/flatdata) - Write-once, read-many, minimal overhead binary structured file format.

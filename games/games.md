@@ -120,6 +120,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Q1K3](https://github.com/phoboslab/q1k3) - Tiny FPS for the 2021 js13k competition.
 - [Swarm](https://github.com/byorgey/swarm) - 2D programming and resource gathering game. ([Article](https://byorgey.wordpress.com/2021/09/23/swarm-preview-and-call-for-collaboration/)) ([Reddit](https://www.reddit.com/r/haskell/comments/pucika/a_new_programming_game_swarm_by_brent_yorgey/))
 - [pacman.zig](https://github.com/floooh/pacman.zig) - Simple Pacman clone written in Zig.
+- [Electronvolt](https://github.com/gecko0307/electronvolt) - FPS with physics based puzzles.
 
 ## Awesome games (other)
 
@@ -225,3 +226,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [So you want to compete with Roblox (2021)](https://www.fortressofdoors.com/so-you-want-to-compete-with-roblox/) ([HN](https://news.ycombinator.com/item?id=28714779)) ([Tweet](https://twitter.com/ID_AA_Carmack/status/1443969641848741897))
 - [Computer Game Play Reduces Intrusive Memories of Experimental Trauma via Reconsolidation-Update Mechanisms (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526368/) ([HN](https://news.ycombinator.com/item?id=28799760))
 - [Deeper Than Pixels: A Reading List on Video Games (2021)](https://longreads.com/2021/10/07/deeper-than-pixels-a-reading-list-on-video-games/) ([HN](https://news.ycombinator.com/item?id=28885867))
+- [All Atari Games](https://voxodyssey.com/atari-2600) ([HN](https://news.ycombinator.com/item?id=28931183))

@@ -93,3 +93,4 @@
 - [Awesome Binary Rewriting](https://github.com/SystemSecurityStorm/Awesome-Binary-Rewriting)
 - [radius](https://github.com/aemmitt-ns/radius) - Fast binary emulation and symbolic execution framework using radare2.
 - [binocle](https://github.com/sharkdp/binocle) - Graphical tool to visualize binary data.
+- [Zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler library. ([Web](https://zydis.re/))

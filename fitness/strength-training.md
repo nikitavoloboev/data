@@ -20,3 +20,4 @@
 - [How the Deadlift Will Save Your Life (2021)](https://www.theamericanconservative.com/articles/how-the-deadlift-will-save-your-life/)
 - [Strength Training For Non-Athletes](https://joshkaufman.net/strength-training-for-non-athletes/)
 - [What are the primary reasons why someone would choose to focus on bodyweight fitness over weight training? (2021)](https://www.reddit.com/r/bodyweightfitness/comments/pufe0y/what_are_the_primary_reasons_why_someone_would/)
+- [Bodyweight Fitness Beginner Tips (2021)](https://www.reddit.com/r/bodyweightfitness/comments/qbev9a/any_tips_for_an_absolute_like_total_beginner/)

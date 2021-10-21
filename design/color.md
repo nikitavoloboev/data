@@ -99,4 +99,4 @@
 - [Huetone](https://huetone.ardov.me/) - Tool to create and fine-tune your color system.
 - [colorio](https://github.com/nschloe/colorio) - Tools for color research.
 - [LCH Color picker](https://css.land/lch/) ([Code](https://github.com/leaverou/css.land)) ([Tweet](https://twitter.com/JoshWComeau/status/1450092771654742019))
-- [Pick a color](https://eldh.github.io/pick-a-color/#)
+- [Pick a color](https://eldh.github.io/pick-a-color/#) ([Code](https://github.com/eldh/pick-a-color))

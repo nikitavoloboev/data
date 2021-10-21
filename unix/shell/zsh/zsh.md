@@ -11,6 +11,44 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - `zsh -x` - See what Zsh executes when it starts new shell.
 - [`cmd -` and TAB will list options for command.](https://twitter.com/rsms/status/1304877145743790080)
 
+## Code
+
+```bash
+# Read function definition
+whence -f ..
+
+# See where the it was defined
+whence -v
+```
+
+```bash
+# Bind comand to alt key
+# alt+i will run 'a' command.
+# \e means opt key
+bindkey -s '\ei' '^Ua^M'
+```
+
+```bash
+# See what is binded to a key
+# See what is binding to ⌃ + E
+bindkey '^E'
+```
+
+```bash
+# Run zsh without sourcing zshrc
+zsh -f
+```
+
+```bash
+# Set alias to external command
+alias fin='command fd'
+```
+
+```bash
+# List all bindings
+bindkey
+```
+
 ## Links
 
 - [Zsh custom widgets](https://sgeb.io/posts/2014/04/zsh-zle-custom-widgets/)
@@ -35,3 +73,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [Zim](https://github.com/zimfw/zimfw) - Modular, customizable, and blazing fast Zsh framework. ([Web](https://zimfw.sh/))
 - [A User's Guide to ZSH](https://zsh.sourceforge.io/Guide/zshguide.html)
 - [zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh.
+- [s/bash/zsh/g (2021)](https://www.arp242.net/why-zsh.html) ([HN](https://news.ycombinator.com/item?id=28927966))

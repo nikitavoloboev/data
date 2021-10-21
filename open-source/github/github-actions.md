@@ -123,6 +123,7 @@
 - [GitHub Action for Dispatching Workflows](https://github.com/benc-uk/workflow-dispatch) - This action triggers another GitHub Actions workflow, using the workflow_dispatch event.
 - [Semantic Release Action](https://github.com/cycjimmy/semantic-release-action)
 - [Conventional Release Labels](https://github.com/bcoe/conventional-release-labels) - Apply labels for automatically generated release notes, based on conventionalcommits.org.
+- [Changesets Release Action](https://github.com/changesets/action) - Creates a pull request with all of the package versions updated and changelogs updated.
 
 ## Go
 
@@ -172,6 +173,7 @@
 ## OCaml
 
 - [Set up OCaml](https://github.com/ocaml/setup-ocaml) - Set up an OCaml and opam environment and add to PATH.
+- [OCaml CI Actions](https://github.com/smorimoto/ocaml-actions)
 
 ## C++
 

@@ -49,6 +49,7 @@
 - [Giant Sur](https://github.com/soroushchehresa/giant-sur) - macOS Big Sur UI clone for the web built with React, Next.js, TypeScript, and Tailwind CSS. ([Web](https://giantsur.netlify.app/))
 - [Ultimate SAAS template](https://github.com/gmpetrov/utlimate-saas-js) - Typescript/Next.js/NextAuth.js/Prisma/Stripe/TailwindCSS/PostgreSQL. ([HN](https://news.ycombinator.com/item?id=28628615))
 - [TypeScript starter for Next.js](https://github.com/jpedroschmitz/typescript-nextjs-starter)
+- [Next PWA Template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template.
 
 ## NextJS plugins
 
@@ -258,3 +259,4 @@
 - [Rakkas](https://github.com/rakkasjs/rakkasjs) - Lightning fast Next.js alternative powered by Vite. ([Web](https://rakkasjs.org/)) ([Reddit](https://www.reddit.com/r/reactjs/comments/q7xtcg/rakkas_nextjs_alternative_powered_by_vite/))
 - [How to build a portfolio website using Next.js, Chakra UI, Framer Motion, and Three.js (2021)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
 - [Next.js X Prisma Workshop](https://github.com/m-abdelwahab/nextjs-prisma-workshop) - Build a full stack app using Next.js and Prisma.
+- [Next.js Cheat Sheet](https://gourav.io/blog/nextjs-cheatsheet)

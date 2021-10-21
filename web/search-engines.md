@@ -99,7 +99,7 @@
 - [Building a Better Search Engine for Semantic Scholar (2020)](https://medium.com/ai2-blog/building-a-better-search-engine-for-semantic-scholar-ea23a0b661e7)
 - [Google's Search Quality Evaluation Guidelines](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
 - [Txtai](https://github.com/neuml/txtai) - AI-powered search engine in Rust.
-- [Jina](https://github.com/jina-ai/jina) - Deep learning-powered search framework for building cross-/multi-modal search systems (e.g. text, images, video, audio) in the cloud.
+- [Jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data.
 - [Okeano](https://okeano.com/) - Search engine that cleans the ocean and respects your privacy.
 - [Private.sh](https://private.sh/) - Search engine that cryptographically protects your privacy.
 - [Wade](https://github.com/kbrsh/wade) - Blazing fast 1kb search library.
@@ -135,7 +135,7 @@
 - [Ask HN: Has Google search got noticably worse recently? (2021)](https://news.ycombinator.com/item?id=27379083)
 - [Pinecone](https://www.pinecone.io/) - Managed Vector Similarity Search.
 - [Extreme Classification with Vector Similarity Search](https://www.pinecone.io/docs/examples/extreme-classification/)
-- [Brave Search](https://search.brave.com/) - Private search. ([HN](https://news.ycombinator.com/item?id=27593360))
+- [Brave Search](https://search.brave.com/) - Private search. ([HN](https://news.ycombinator.com/item?id=27593360)) ([HN](https://news.ycombinator.com/item?id=28926582))
 - [System Design for Recommendations and Search (2021)](https://eugeneyan.com/writing/system-design-for-discovery/)
 - [How not to break a search engine (2021)](https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/)
 - [Writing an Image Search Engine from Scratch](http://yusukematsui.me/project/sis/sis.html) ([Code](https://github.com/matsui528/sis))
@@ -166,3 +166,7 @@
 - [Search Engine Parser](https://github.com/bisoncorps/search-engine-parser) - Package that lets you query popular search engines and scrape for result titles, links, descriptions and more.
 - [What every software engineer should know about search (2017)](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) ([HN](https://news.ycombinator.com/item?id=28902662))
 - [IndexNow](https://www.indexnow.org/) - Easy way for websites owners to instantly inform search engines about latest content changes on their website. ([Article](https://blogs.bing.com/webmaster/october-2021/IndexNow-Instantly-Index-your-web-content-in-Search-Engines)) ([Article](https://blog.cloudflare.com/cloudflare-now-supports-indexnow/))
+- [typesense-js](https://github.com/typesense/typesense-js) - JavaScript / TypeScript client for Typesense.
+- [Wikipedia search engine](https://github.com/PulakIIIT/Blaze-Search)
+- [googler](https://github.com/jarun/googler) - Google from the terminal.
+- [DuckDuckGo as a TTY](https://duckduckgo.com/tty/) ([HN](https://news.ycombinator.com/item?id=28938265))

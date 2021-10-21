@@ -103,3 +103,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Open Privacy Vault](https://openprivacy.io/) - Open Source PII as a Service. ([Code](https://github.com/open-privacy/opv))
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Web extension that redirects Twitter, YouTube, Instagram, Google Maps, Reddit, Google Search, & Google Translate requests to privacy friendly alternatives.
 - [Differentially Private Fine-tuning of Language Models (2021)](https://arxiv.org/abs/2110.06500) ([Tweet](https://twitter.com/thegautamkamath/status/1450113340617940998))
+- [GDPR documents](https://github.com/good-lly/gdpr-documents) - Your Right to be Informed and Erased.

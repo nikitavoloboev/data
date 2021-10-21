@@ -5,7 +5,7 @@
 - [Taking PHP Seriously (2016)](https://slack.engineering/taking-php-seriously-cf7a60065329)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 - [A look at modern PHP (2020)](https://lwn.net/SubscriberLink/818973/507f4b5e09ab9870/) ([HN](https://news.ycombinator.com/item?id=23077367))
-- [25 Years of PHP History (2020)](https://www.jetbrains.com/lp/php-25/) ([HN](https://news.ycombinator.com/item?id=23463944))
+- [25 Years of PHP History (2020)](https://www.jetbrains.com/lp/php-25/) ([HN](https://news.ycombinator.com/item?id=23463944)) ([Code](https://github.com/JetBrains/php-timeline))
 - [Laravel beyond CRUD](https://laravel-beyond-crud.com/) - Building larger-than-average web applications.
 - [PHP 8: before and after (2020)](https://stitcher.io/blog/php-8-before-and-after) ([HN](https://news.ycombinator.com/item?id=24866190))
 - [Object Oriented PHP](https://front-line-php.com/object-oriented) ([Lobsters](https://lobste.rs/s/knkdj6/object_oriented_php))
@@ -25,3 +25,4 @@
 - [Codeception](https://github.com/codeception/codeception) - Full-stack testing PHP framework. ([Web](https://codeception.com/))
 - [How Laravel Livewire works (2021)](https://calebporzio.com/how-livewire-works-a-deep-dive) ([HN](https://news.ycombinator.com/item?id=28837333))
 - [Revolt](https://github.com/revoltphp/event-loop) - Rock-solid event loop for concurrent PHP applications.
+- [How PHP Opcache Works (2021)](https://www.npopov.com/2021/10/13/How-opcache-works.html) ([HN](https://news.ycombinator.com/item?id=28875791))

@@ -27,7 +27,7 @@
 - [Feedgenerator](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 - [RSS - what are the best technical and social practices? (2020)](https://lobste.rs/s/f1xb2d/rss_what_are_best_technical_social)
 - [The Webpage](https://lobste.rs/s/ureotv/webpage_serverside_rendered_lo_fi_rss) - Online RSS reader and news aggregator, styled like a newspaper. ([HN](https://news.ycombinator.com/item?id=22863536))
-- [Infomate](https://github.com/vas3k/infomate.club) - Small web service that shows multiple RSS sources on one page and performs tricky parsing and summarizing articles using TextRank algorithm.
+- [Infomate](https://infomate.club/) - Small web service that shows multiple RSS sources on one page and performs tricky parsing and summarizing articles using TextRank algorithm. ([Code](https://github.com/vas3k/infomate.club))
 - [PolitePol](https://politepol.com/en/) - RSS feed generator website with user friendly interface. ([Code](https://github.com/taroved/pol))
 - [It's Time to Get Back Into RSS (2020)](https://danielmiessler.com/blog/its-time-to-get-back-into-rss/) ([HN](https://news.ycombinator.com/item?id=23212812))
 - [RSS-proxy](https://github.com/damoeb/rss-proxy) - Allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.

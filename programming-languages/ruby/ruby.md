@@ -86,6 +86,6 @@
 - [Stamping Out Overflow Checks in Ruby (2021)](https://chrisseaton.com/truffleruby/stamping-out-overflow-checks/) ([HN](https://news.ycombinator.com/item?id=28661051))
 - [Proposal to Merge YJIT into Ruby (2021)](https://bugs.ruby-lang.org/issues/18229) ([HN](https://news.ycombinator.com/item?id=28691048))
 - [ruby-build](https://github.com/rbenv/ruby-build) - Command-line utility that makes it easy to install virtually any version of Ruby, from source.
-- [YJIT](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby. ([Article](https://shopify.engineering/yjit-just-in-time-compiler-cruby)) ([HN](https://news.ycombinator.com/item?id=28874283))
+- [YJIT](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby. ([Article](https://shopify.engineering/yjit-just-in-time-compiler-cruby)) ([HN](https://news.ycombinator.com/item?id=28874283)) ([HN](https://news.ycombinator.com/item?id=28938446))
 - [Embracing Infinite Loops with Ruby and Polyphony (2021)](https://noteflakes.com/articles/2021-10-14-embracing-infinite-loops)
 - [A Compositional Approach to Optimizing the Performance of Ruby Apps (2021)](https://noteflakes.com/articles/2021-10-05-a-compositional-approach-to-ruby-performance)

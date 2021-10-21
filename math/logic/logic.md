@@ -65,3 +65,4 @@
 - [Inductive logic programming at 30: a new introduction (2020)](https://arxiv.org/abs/2008.07912)
 - [Poincaré, Heisenberg, Gödel and the limits of scientific knowledge (2013)](https://arxiv.org/abs/1301.7036) ([HN](https://news.ycombinator.com/item?id=28816143))
 - [Семантические аспекты интуиционистской логики (2021)](https://compsciclub.ru/courses/intuitionisticsemantics/2021-autumn/)
+- [Логика для людей](https://denchick.github.io/logic4humans/) ([Code](https://github.com/Denchick/logic4humans))

@@ -70,3 +70,5 @@ I especially like the distinction of distributing content over distributing link
 - [Deno Estuary](https://github.com/deno-libs/estuary) - Deno API client for Estuary, a custom IPFS / Filecoin node.
 - [IPFS Community](https://discuss.ipfs.io/) - General discussion and documentation on community practices. ([Code](https://github.com/ipfs/community))
 - [HTTP is obsolete – it's time for the distributed, permanent web (2015)](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html) ([HN](https://news.ycombinator.com/item?id=28897373))
+- [Bitswap](https://docs.ipfs.io/concepts/bitswap/) - Core module of IPFS for exchanging blocks of data. ([Go Code](https://github.com/ipfs/go-bitswap))
+- [rainbow](https://github.com/ipfs/rainbow) - Standalone IPFS gateway.

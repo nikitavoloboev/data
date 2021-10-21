@@ -226,3 +226,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS JWT Verify](https://github.com/awslabs/aws-jwt-verify) - NodeJS library for verifying JWTs signed by Amazon Cognito, and any OIDC-compatible IDP that signs JWTs with RS256.
 - [Free Templates for AWS CloudFormation](https://github.com/widdix/aws-cf-templates) ([Docs](https://templates.cloudonaut.io/en/stable/))
 - [cfsec](https://github.com/aquasecurity/cfsec) - Static analysis for CloudFormation templates to identify common misconfigurations.
+- [AWS Cloudformation Publisher](https://github.com/aws-samples/aws-cloudformation-publisher) - Packages your CloudFormation templates into an S3 bucket in every AWS region and creates "launch stack" links.
+- [Profiling 25,000 S3 Buckets: The Billion Dollar Opportunity for Cloudflare R2 (2021)](https://www.vantage.sh/blog/the-opportunity-for-cloudflare-r2) ([Tweet](https://twitter.com/benadam11/status/1450901767688843270))

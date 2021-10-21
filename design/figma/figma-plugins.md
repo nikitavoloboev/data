@@ -59,3 +59,5 @@
 - [Create Figma Plugin](https://github.com/yuanqing/create-figma-plugin) - Comprehensive toolkit for developing plugins for Figma and FigJam. ([Docs](https://yuanqing.github.io/create-figma-plugin/))
 - [Image Cutter](https://www.figma.com/community/plugin/899731058839960598/Image-Cutter) - Easy way to cut any image into pieces. ([Code](https://github.com/ardov/Image-Cutter))
 - [GitHub Data](https://github.com/brianlovin/figma-github-data) - Populate data from GitHub into Figma mocks.
+- [Jordan Singer's Figma Plugins](https://www.figma.com/@jordan)
+- [FigJam JavaScript REPL widget](https://github.com/colebemis/figjam-javascript-repl)

@@ -260,9 +260,12 @@
 - [So you want to mock an API (2021)](https://www.getsynth.com/docs/blog/2021/09/07/mocking-a-production-api)
 - [API Star](https://github.com/encode/apistar) - Toolkit for working with OpenAPI or Swagger schemas. ([Docs](https://docs.apistar.com/))
 - [RapiDoc](https://mrin9.github.io/RapiDoc/) - Custom-Element for OpenAPI Spec. Create beautiful, customizable, interactive API documentation from OpenAPI Specification. ([Code](https://github.com/mrin9/RapiDoc))
-- [Appwrite](https://appwrite.io/) - Open-Source End-to-End Backend Server. ([Code](https://github.com/appwrite/appwrite))
+- [Appwrite](https://appwrite.io/) - Open-Source End-to-End Backend Server. ([Code](https://github.com/appwrite/appwrite)) ([Demos for Functions](https://github.com/appwrite/demos-for-functions)) ([Getting Started With Appwrite's Apple SDK](https://www.youtube.com/watch?v=Bk_OFaWDqB8))
 - [gnostic](https://github.com/google/gnostic) - Go command line tool which converts JSON and YAML OpenAPI descriptions to and from equivalent Protocol Buffer representations.
 - [Postman](https://www.postman.com/) - API platform for building and using APIs. ([GitHub](https://github.com/postmanlabs)) ([Tweet](https://twitter.com/yongfook/status/1444866225469726724))
 - [Blobr](https://www.blobr.io/) - Get your branded API portal in minutes.
 - [orval](https://orval.dev/) - Generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in YAML or JSON formats. ([Code](https://github.com/anymaniax/orval))
 - [Exploring Programmers' API Learning Processes (2021)](https://neverworkintheory.org/2021/10/14/api-learning-processes.html)
+- [Opinionated OpenAPI v3 code generator for Go](https://github.com/contiamo/openapi-generator-go)
+- [From feature request to API design (2019)](https://francoischalifour.com/from-feature-request-to-api-design/) - Describe the process of creating an API based on specific users' needs.
+- [APIs.guru](https://apis.guru/) - Directory of API definitions in OpenAPI (or Swagger) 2.0 and 3.x formats. ([Code](https://github.com/APIs-guru/openapi-directory))

@@ -205,3 +205,4 @@
 - [Tably](https://tably.com/) - Lightning fast exploration, search and analytics, with an intuitive UI and supercharged formula.
 - [OpenRefine](https://openrefine.org/) - Free, open source power tool for working with messy data and improving it. ([Code](https://github.com/OpenRefine/OpenRefine))
 - [Authenticated Full-Stack Streamlit](https://github.com/sapped/Authenticated-Full-Stack-Streamlit)
+- [Kaggle Solutions](https://farid.one/kaggle-solutions/) - Comprehensive List of Kaggle Solutions and Ideas. ([Code](https://github.com/faridrashidi/kaggle-solutions))

@@ -132,3 +132,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [I tried 30 mustards this summer (2021)](https://www.insidehook.com/article/food-and-drink/30-best-mustards-tried-summer) ([HN](https://news.ycombinator.com/item?id=28702922))
 - [Open Source Tractor](https://opensourceecology.dozuki.com/c/LifeTrac) ([HN](https://news.ycombinator.com/item?id=28827785))
 - [Growing food](https://100r.co/site/growing_food.html)
+- [San Jose Is the Bay Area’s Great Immigrant Food City (2021)](https://www.kqed.org/arts/13904835/san-jose-immigrant-food) ([Tweet](https://twitter.com/theluketsai/status/1450864730348789762))

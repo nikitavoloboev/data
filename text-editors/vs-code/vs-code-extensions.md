@@ -50,6 +50,7 @@ Below is a list of extensions I use.
 - [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
 - [Postcode](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode) - API client to test and create HTTP/s requests. ([Code](https://github.com/rohinivsenthil/postcode))
 - [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) - Run your tests in the Sidebar. ([Code](https://github.com/hbenl/vscode-test-explorer))
+- [Anycode](https://github.com/microsoft/vscode-anycode) - Tree-sitter-based language extension.
 - [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub) - Remotely browse and edit a GitHub repository. ([Article](https://code.visualstudio.com/blogs/2021/06/10/remote-repositories?WT.mc_id=devcloud-00000-cxa))
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics. ([Code](https://github.com/usernamehw/vscode-error-lens))
 - [Captain Stack](https://github.com/hieunc229/copilot-clone) - Code suggestion for VSCode. Similar to Github Copilot.
@@ -165,6 +166,7 @@ Below is a list of extensions I use.
 - [VSCode Python Docstring Generator](https://github.com/NilsJPWerner/autoDocstring) - Quickly generate docstrings for python functions.
 - [TypeScript Notebooks](https://marketplace.visualstudio.com/items?itemName=donjayamanne.typescript-notebook) - TypeScript with Jupyter Notebooks. ([Code](https://github.com/DonJayamanne/typescript-notebook))
 - [Python Dependencies](https://marketplace.visualstudio.com/items?itemName=patrick91.python-dependencies-vscode) - Utilities for managing Python dependencies. ([Code](https://github.com/patrick91/python-dependencies-vscode))
+- [Pyolite](https://marketplace.visualstudio.com/items?itemName=joyceerhl.vscode-pyodide) - Run Python code in Jupyter notebooks. ([Code](https://github.com/joyceerhl/vscode-pyolite)) ([Tweet](https://twitter.com/simonw/status/1450870181585063936))
 
 ## Git
 
@@ -281,6 +283,7 @@ Below is a list of extensions I use.
 
 ## Vue
 
+- [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) - Language Support plugin built specifically for Vue 3. ([Code](https://github.com/johnsoncodehk/volar))
 - [Vetur](https://vuejs.github.io/vetur/) - Vue tooling for VS Code. ([Code](https://github.com/vuejs/vetur))
 - [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) ([Code](https://github.com/sdras/vue-vscode-snippets))
 
@@ -396,6 +399,7 @@ Below is a list of extensions I use.
 - [Monokai Pro](https://www.monokai.pro/vscode/)
 - [Dracula Pro](https://draculatheme.com/pro/)
 - [Moxer](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-theme) ([Code](https://github.com/moxer-theme/moxer-code))
+- [Sema](https://github.com/arzg/sema) - Theme that focuses on what’s important. ([Web](https://arzg.github.io/sema/))
 
 ## Notes
 

@@ -39,6 +39,16 @@ Go promotes composition over inheritance.
 - [Just use channels on the fly to transfer data concurrently and be done with it.](https://www.reddit.com/r/golang/comments/o9ghpp/explain_go_concurrency_worker_pool_patterns_to_me/)
 - [To improve testability in my Go programs, the only thing I do in func main is call out to another function, passing in the ‘global’ things it needs. I can call run in test code like a normal function, and use a buffer for stdout (to make assertions about what it outputs.)](https://twitter.com/matryer/status/1445651886078525446)
 - [Don't use deferred functions in main(), don't call os.Exit/log.Fatal outside of main()](https://twitter.com/TitPetric/status/1449025794538360839)
+- [`go get` stores downloaded files in `GOMODCACHE` (can be found via `go env`).](https://www.reddit.com/r/golang/comments/qbwyx5/where_does_go_get_store_the_downloaded_files/)
+
+## Code
+
+```go
+// Log error
+if err != nil {
+  log.Fatal(err)
+}
+```
 
 ## Links
 
@@ -563,3 +573,7 @@ Go promotes composition over inheritance.
 - [Thoughts on structuring Go projects (2021)](https://twitter.com/matryer/status/1448611708851957760)
 - [State Machines in Go (2021)](https://mt165.co.uk/blog/state-machine-go/)
 - [Hunting down a C memory leak in a Go program (2021)](https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d) ([HN](https://news.ycombinator.com/item?id=28883359))
+- [You Don't Need a Library for File Walking in Go (2021)](https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations)
+- [Pre-Commit-Go](https://github.com/TekWizely/pre-commit-golang) - Set of git pre-commit hooks for Go with support for multi-module monorepos, the ability to pass arguments to all hooks, and the ability to invoke custom go tools.
+- [Go Concurrency Patterns](https://github.com/lotusirous/go-concurrency-patterns)
+- [Functional Options are named args on steroids (2021)](https://blog.uptrace.dev/posts/go-functional-options-named-args.html) ([Reddit](https://www.reddit.com/r/golang/comments/qcmt8c/functional_options_are_named_args_on_steroids/))

@@ -146,3 +146,4 @@
 - [jrsonnet](https://github.com/CertainLach/jrsonnet) - Rust implementation of Jsonnet language.
 - [The Problem with Macros (2021)](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/) ([HN](https://news.ycombinator.com/item?id=28845971)) ([Lobsters](https://lobste.rs/s/d0hogq/problem_with_macros))
 - [sexp-fmt](https://github.com/returntocorp/sexp-fmt) - Basic S-expression formatter.
+- [Calcit Runner](https://github.com/calcit-lang/calcit_runner.rs) - Lisp compiling to JavaScript ES Modules. ([Web](http://calcit-lang.org/))

@@ -148,6 +148,10 @@
 - [pg-embed](https://github.com/faokunega/pg-embed) - Run a PostgreSQL database locally on Linux, MacOS or Windows as part of another Rust application or test.
 - [ormx](https://github.com/NyxCode/ormx) - Lightweight macros for sqlx.
 
+## Video
+
+- [Nightfall](https://github.com/Dusk-Labs/nightfall) - Easy to use lib for creating on-demand transcoding sessions for efficient media playback.
+
 ## Graphics
 
 - [Miniquad](https://github.com/not-fl3/miniquad) - Safe and cross-platform rendering library focused on portability and low-end platforms support.
@@ -206,6 +210,7 @@
 - [afl.rs](https://github.com/rust-fuzz/afl.rs) - Fuzzing Rust code with AFLplusplus.
 - [heckcheck](https://github.com/yoshuawuyts/heckcheck) - Heckin small test generator.
 - [rust-counter-strings](https://github.com/thomaschaplin/rust-counter-strings) - Counter strings generator written in rust to help aid software testing.
+- [Cucumber Rust](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 
 ## Error
 
@@ -227,6 +232,10 @@
 ## IO
 
 - [Mio](https://github.com/tokio-rs/mio) - Metal IO library.
+
+## iOS
+
+- [cargo-cocoapods](https://github.com/bbqsrc/cargo-cocoapods) - Bundle Cargo crates for use with macOS/iOS in Xcode.
 
 ## UI
 
@@ -262,6 +271,7 @@
 - [ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) - Fast and efficient ed25519 signing and verification in Rust.
 - [curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - Pure-Rust implementation of group operations on Ristretto and Curve25519.
 - [dryoc](https://github.com/brndnmtthws/dryoc) - Pure-Rust, general-purpose cryptography library.
+- [RustCrypto: block ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block ciphers and block modes written in pure Rust.
 
 ## Linux
 
@@ -277,6 +287,7 @@
 - [pam](https://github.com/1wilkens/pam) - Safe Rust API to the Linux Pluggable Authentication Modules (PAM).
 - [rust-bcc](https://github.com/rust-bpf/rust-bcc) - Idiomatic Rust bindings for the BPF compiler collection.
 - [kvm-ioctls](https://github.com/rust-vmm/kvm-ioctls) - Provides safe wrappers over the KVM API, a set of ioctls used for creating and configuring Virtual Machines (VMs) on Linux.
+- [reverie](https://github.com/reverie-rs/reverie) - Trace and intercept linux syscalls.
 
 ## ML
 
@@ -337,6 +348,8 @@
 - [momo](https://github.com/llogiq/momo) - Rust proc_macro_attribute to outline conversions from generic functions.
 - [fixed-map](https://github.com/udoprog/fixed-map) - Map implementation that relies on fixed-size storage derived by a procedural macro.
 - [smlang](https://github.com/korken89/smlang-rs) - State Machine Language DSL procedural macro for Rust.
+- [ergo-pin](https://github.com/Nemo157/ergo-pin-rs) - Ergonomic stack pinning for Rust.
+- [duang](https://github.com/xiaoniu-578fa6bff964d005/duang) - Use macro to provide default parameter and named parameter in Rust.
 
 ## Math
 
@@ -700,7 +713,7 @@
 - [Sparse merkle tree](https://github.com/jjyr/sparse-merkle-tree) - Optimized sparse merkle tree.
 - [X.509 Parser](https://github.com/rusticata/x509-parser) - X.509 parser written in pure Rust. Fast, zero-copy, safe.
 - [swanky](https://github.com/GaloisInc/swanky) - Suite of rust libraries for secure multi-party computation.
-- [lingua-rs](https://github.com/pemistahl/lingua-rs) - Accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike.
+- [lingua-rs](https://github.com/pemistahl/lingua-rs) - Accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike. ([Python](https://github.com/messense/lingua-py))
 - [fastrand](https://github.com/smol-rs/fastrand) - Simple and fast random number generator.
 - [Kompact](https://github.com/kompics/kompact) - Component System in Rust.
 - [faerie](https://github.com/m4b/faerie) - Magical ELF and Mach-o object file writer backend.
@@ -1033,6 +1046,14 @@
 - [waihona](https://github.com/bisoncorps/waihona) - Rust library for performing basic cloud storage actions across major cloud providers e.g aws.
 - [simple_logger](https://github.com/borntyping/rust-simple_logger) - Rust logger that prints all messages with a readable output format.
 - [rs-merkle](https://github.com/antouhou/rs-merkle) - Most advanced Merkle tree library for Rust.
+- [bidiff](https://github.com/divvun/bidiff) - Set of rust crates that generate and apply patches for arbitrary binary files.
+- [FutureSDR](https://github.com/FutureSDR/FutureSDR) - Async SDR Runtime for Heterogeneous Architectures.
+- [ghost](https://github.com/dtolnay/ghost) - Define your own PhantomData.
+- [gltf](https://github.com/gltf-rs/gltf) - Crate for loading glTF 2.0.
+- [Sparsey](https://github.com/LechintanTudor/sparsey) - Sparse set-based Entity Component System with lots of features and nice syntax.
+- [rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings the QuickJS JavaScript engine.
+- [holyhashmap](https://github.com/jasonwhite/holyhashmap) - Hash map with stable indices.
+- [async-socket](https://github.com/xpepermint/async-socket-rs) - General-purpose asynchronous socket stream.
 
 ## Cargo Plugins
 
@@ -1073,6 +1094,7 @@
 - [Cargo Bisection](https://github.com/rust-lang/cargo-bisect-rustc) - Bisects rustc, either nightlies or CI artifacts.
 - [cargo-edit-locally](https://github.com/alexcrichton/cargo-edit-locally) - Subcommand to easily edit crate dependencies locally.
 - [cargo-patch](https://github.com/mettke/cargo-patch) - Cargo Subcommand which allows patching dependencies using patch files.
+- [cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage.
 
 ## Links
 

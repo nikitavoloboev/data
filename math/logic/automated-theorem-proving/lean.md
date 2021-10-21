@@ -50,3 +50,5 @@
 - [quote4](https://github.com/gebner/quote4) - Intuitive, type-safe expression quotations for Lean 4.
 - [leanprover-contrib](https://github.com/leanprover-contrib/leanprover-contrib) - Basic checkin/CI for Lean projects that are not part of mathlib.
 - [mathlib4](https://github.com/leanprover-community/mathlib4) - Mathlib port for Lean 4.
+- [Brown CS 1951x: Formal Proof and Verification, 2021](http://cs.brown.edu/courses/cs1951x/) ([Code](https://github.com/BrownCS1951x/fpv2021))
+- [Introduction to University Mathematics Course: using Lean (2021)](https://github.com/ImperialCollegeLondon/M40001_lean)

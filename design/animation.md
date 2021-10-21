@@ -52,3 +52,5 @@
 - [Animation Is Eating The World (2019)](http://www.michaeldempsey.me/animation/) ([Tweet](https://twitter.com/mhdempsey/status/1151533880412909570))
 - [The Real Story of Pixar (2021)](https://spectrum.ieee.org/the-real-story-of-pixar) ([HN](https://news.ycombinator.com/item?id=28053810))
 - [LottieFiles](https://lottiefiles.com/) - Lightweight, scalable animations for your website and apps. ([GitHub](https://github.com/LottieFiles)) ([Twitter](https://twitter.com/LottieFiles))
+- [Code vs Data Driven Displacement (2021)](https://theorangeduck.com/page/code-vs-data-driven-displacement) ([Code](https://github.com/orangeduck/Motion-Matching))
+- [Animation using Vite + Vue 3 + Tailwind CSS Talk](https://github.com/callumacrae/animation-talk-demo)

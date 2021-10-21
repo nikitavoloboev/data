@@ -179,3 +179,6 @@
 - [How to make simple water graphics](https://twitter.com/Azurexis/status/1445772560923119620)
 - [Awesome Fluid Dynamics](https://github.com/lento234/awesome-fluid-dynamics)
 - [ReactCasting](https://github.com/yurkagon/ReactCasting) - Raycasting algorithm that renders pseudo 3D scene in HTML using React (no canvas) and renders as text in textarea or console.
+- [Exponential Map, Angle Axis, and Angular Velocity (2021)](https://theorangeduck.com/page/exponential-map-angle-axis-angular-velocity)
+- [Visualizing Rotation Spaces (2021)](https://theorangeduck.com/page/visualizing-rotation-spaces)
+- [Learned Motion Matching (2020)](https://theorangeduck.com/page/learned-motion-matching)

@@ -41,6 +41,7 @@
 - [orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-only log with traversable history. Useful for "latest N" use cases or as a message queue.
 - [Announcing the Beaker 1.0 Beta (2020)](https://beakerbrowser.com/2020/05/14/beaker-1-0-beta.html) ([HN](https://news.ycombinator.com/item?id=23182775))
 - [Hyperdrive v10 – a peer-to-peer filesystem (2020)](https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/) ([HN](https://news.ycombinator.com/item?id=23180572)) ([Code](https://github.com/hypercore-protocol/hyperdrive))
+- [Hyperswarm](https://github.com/hyperswarm/hyperswarm) - Distributed networking stack for connecting peers.
 - [hyperswarm/dht](https://github.com/hyperswarm/dht) - DHT powering the HyperSwarm stack.
 - [Testground](https://github.com/testground/testground) - Platform for testing, benchmarking, and simulating distributed and p2p systems at scale. ([Docs](https://docs.testground.ai/))
 - [js-libp2p](https://github.com/libp2p/js-libp2p) - JavaScript Implementation of libp2p networking stack.
@@ -89,4 +90,5 @@
 - [Dione](https://github.com/Dione-Software/dione) - Anonymize and encrypted messaging system build on top on a peer to peer layer.
 - [Backchannel](https://github.com/inkandswitch/backchannel) - Local-first address book.
 - [GGRS](https://github.com/gschup/ggrs) - Reimagination of GGPO, enabling P2P rollback networking in Rust. Rollback to the future.
-- [Atek Spork](https://github.com/atek-cloud/spork) - Command-line p2p sockets tool.
+- [Atek Spork](https://github.com/atek-cloud/spork) - Command-line p2p sockets tool. ([HN](https://news.ycombinator.com/item?id=28915872))
+- [Atek](https://atek.cloud/) - Open source peer-to-peer Home Cloud. ([GitHub](https://github.com/atek-cloud))

@@ -10,7 +10,7 @@ Below are [notes](https://github.com/nikitavoloboev/knowledge/blob/main/SUMMARY.
 
 ![](https://i.imgur.com/ODDdwde.png)
 
-This wiki is large. 60,000+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc/))
+This wiki is large. 70,000+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc/))
 
 ```
 ~/Dropbox/Write/knowledge
@@ -18,7 +18,7 @@ This wiki is large. 60,000+ lines of markdown large (calculated with [loc](https
 --------------------------------------------------------------------------------
  Language             Files        Lines        Blank      Comment         Code
 --------------------------------------------------------------------------------
- Markdown               900        65000         5000            0        60000
+ Markdown               900        75000         5000            0        70000
 ```
 
 ## Using the wiki well
@@ -26,8 +26,6 @@ This wiki is large. 60,000+ lines of markdown large (calculated with [loc](https
 You can quickly search the contents of this wiki above or you can explore the tree view to the left.
 
 You can access any note from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
-
-Aside from this wiki, I am using [Dendron](https://dendron.so) to grow a [more powerful version of my digital second brain](https://epictools.dev/). And build [Learn Anything](ideas/learn-anything.md).
 
 ## Other things I wrote and shared
 

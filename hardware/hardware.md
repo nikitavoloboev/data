@@ -241,3 +241,5 @@
 - [Intel, Mobileye, and Smiling Curves (2017)](https://stratechery.com/2017/intel-mobileye-and-smiling-curves/) ([Tweet](https://twitter.com/Altimor/status/1447243413661921283))
 - [Practice Problems for Hardware Engineers (2021)](https://arxiv.org/abs/2110.06526) ([HN](https://news.ycombinator.com/item?id=28860308))
 - [Ask HN: What does one look for in a laptop these days? (2021)](https://news.ycombinator.com/item?id=28861949)
+- [Apple’s M1 Pro/Max is the second step in a major change in computing (2021)](https://twitter.com/stevesi/status/1450255227945242628)
+- [PlayStation 3 Architecture](https://www.copetti.org/writings/consoles/playstation-3/) ([HN](https://news.ycombinator.com/item?id=28934624))

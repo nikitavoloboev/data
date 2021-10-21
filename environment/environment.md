@@ -133,3 +133,6 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Global Climate Report – September 2021](https://www.ncdc.noaa.gov/sotc/global/202109) ([HN](https://news.ycombinator.com/item?id=28865033))
 - [The climate disaster is here – this is what the future looks like (2021)](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
 - [Weather Spark](https://weatherspark.com/map) - The Weather Year Round Anywhere on Earth.
+- [World Resources Institute](https://www.wri.org/) ([GitHub](https://github.com/wri))
+- [Carbon-neutrality is a tale: the race for renewables is burning Europe's forests (2021)](https://www.theguardian.com/world/2021/jan/14/carbon-neutrality-is-a-fairy-tale-how-the-race-for-renewables-is-burning-europes-forests) ([HN](https://news.ycombinator.com/item?id=28928738))
+- [The Ocean Cleanup Dream of Scooping Plastic From the Seas Is Still Alive (2021)](https://gizmodo.com/the-dream-of-scooping-plastic-from-the-ocean-is-still-a-1847890573) ([Tweet](https://twitter.com/mollytaft/status/1450521824941518855))

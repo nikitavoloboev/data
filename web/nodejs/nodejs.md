@@ -259,3 +259,7 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [skr canvas](https://github.com/Brooooooklyn/canvas) - Google Skia binding to Node.js via Node-API, 0 System dependencies.
 - [Clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library with no runtime dependencies.
 - [HyperExpress](https://github.com/kartikk221/hyper-express) - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.
+- [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) - NodeJS proxy which adds CORS headers to the proxied request.
+- [tsno](https://github.com/egoist/tsno) - `node` with typescript support, importing from URL, etc.
+- [Vite as Node.js runtime](https://github.com/antfu/vite-node)
+- [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration.

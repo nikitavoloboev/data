@@ -264,3 +264,5 @@
 - [Music Composer](https://github.com/sberbank-ai/music-composer)
 - [Musicians on Musicians: Lorde & David Byrne (2021)](https://www.rollingstone.com/music/music-features/lorde-david-byrne-musicians-on-musicians-1239284/) ([Tweet](https://twitter.com/RollingStone/status/1448982257360850944))
 - [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music.
+- [torchaudacity](https://github.com/hugofloresgarcia/torchaudacity) - PyTorch wrappers for using your model in audacity.
+- [OpenSoundControl.org](http://opensoundcontrol.org/) - Data transport specification (an encoding) for realtime message communication among applications and hardware. ([Node Library](https://github.com/MylesBorins/node-osc))

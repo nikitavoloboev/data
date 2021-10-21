@@ -19,6 +19,7 @@
   5. Perfection can't be reached, so don't aim there. Be as good as necessary.
   6. Postpone complexity and introduce it only when really needed.
 - [Duplication is cheaper than the wrong abstraction, it's true. The right abstraction is still cheaper than both of those. Sometimes it's so much cheaper I've seen people build entire businesses from one insight. Duplicate where appropriate but don't stop hunting for the pattern.](https://twitter.com/krisajenkins/status/1440260166637658118)
+- [Real-time local sync engine is very important in providing great user experiences.](https://twitter.com/cjbell_/status/1450881390292127758)
 
 ## Links
 

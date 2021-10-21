@@ -18,6 +18,24 @@ I share [all the macros I use](km-macros.md) with the app.
 - Useful to sort macros by `Date modified`. Applies to most other tools too like Finder.
 - [The trick is to work incrementally. Find out how to successfully evaluate and display something atomic. And then gradually elaborate, layer upon layer.](https://forum.keyboardmaestro.com/t/having-trouble-with-execute-shell-script/19628/9)
 
+## Code
+
+### System Clipboard variable
+
+`%SystemClipboard%`
+
+### Var as token
+
+`%Variable%%{left}{key:⌃L}`
+
+### Var for shell
+
+`"$KMVAR_"{left}{key:⌃L}`
+
+### Variable
+
+`%Variable%{^}%`
+
 ## Links
 
 - [How I manage my huge KM library](https://forum.keyboardmaestro.com/t/notation-i-use-to-manage-my-macros/8907)

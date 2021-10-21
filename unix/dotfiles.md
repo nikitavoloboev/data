@@ -8,6 +8,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 
 ## Interesting dotfiles
 
+- [RiN](https://github.com/ri7nz/.dotifiles)
 - [bluz71](https://github.com/bluz71/dotfiles) - Interesting vim setup.
 - [caarlos0](https://github.com/caarlos0/dotfiles) - Made antibody.
 - [wangsongiam](https://github.com/wangsongiam/dotfiles) - Interesting Hammerspoon and Zsh config.

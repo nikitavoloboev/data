@@ -48,7 +48,23 @@ I publish most of my work and make it open source for other people to use and re
 - [Add .atom to the URL of a commit listing on GitHub and you can subscribe to any repo, directory or file history, ideal for git scraping.](https://twitter.com/simonw/status/1376168593319108621)
 - [To open code from GitHub, just add "blitz" to the domain name (`http://github.com...` becomes `http://githubblitz.com...`)](https://twitter.com/stackblitz/status/1397193629534494722)
 - [gh pr checkout <pr-number> is great command to checkout PRs locally easily.](https://cli.github.com/manual/gh_pr_checkout)
-- [GitHub IOS app has dispatch workflow action shortcut](https://twitter.com/baevdm/status/1447967684814155779)
+- [GitHub iOS app has dispatch workflow action shortcut](https://twitter.com/baevdm/status/1447967684814155779)
+
+## Code
+
+### Badges
+
+GoDoc
+
+```md
+[![GoDoc]({clip}?status.svg)]({clip})
+```
+
+Awesome List
+
+```md
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+```
 
 ## Links
 
@@ -271,3 +287,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Backup](https://github.com/mfinelli/github-backup) - Backup your GitHub repositories (including issues and comments).
 - [Team manager](https://github.com/cilium/team-manager) - Bot to manage team members in GitHub organizations.
 - [fgh](https://github.com/gleich/fgh) - Automate the lifecycle and organization of your cloned GitHub repositories.
+- [10 tips for better Pull Requests (2015)](https://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/)

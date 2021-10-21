@@ -317,3 +317,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [hostsfile](https://github.com/kevinburke/hostsfile) - Go tool for working with /etc/hosts files.
 - [127](https://github.com/lende/127) - Tool for mapping hostnames to random loopback addresses.
 - [What's in a hostname? (2021)](https://www.netmeister.org/blog/hostnames.html)
+- [32 Bit Real Estate (2021)](https://fly.io/blog/32-bit-real-estate/) ([HN](https://news.ycombinator.com/item?id=28920269))
+- [Consul](https://www.consul.io/) - Service Mesh for any runtime or cloud.
+- [Consul Replicate](https://github.com/hashicorp/consul-replicate) - Provides a convenient way to replicate values from one Consul data center to another using the consul-replicate daemon.

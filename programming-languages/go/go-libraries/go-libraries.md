@@ -47,6 +47,8 @@
 - [Nice](https://github.com/SuperPaintman/nice) - Highly customizable and lightweight Go CLI app framework.
 - [Conf](https://github.com/ardanlabs/conf) - Support for using environmental variables and command line arguments for configuration.
 - [cli](https://github.com/cavaliergopher/cli) - Expressive Args for Go.
+- [mow.cli](https://github.com/jawher/mow.cli) - Versatile library for building CLI applications in Go.
+- [term](https://github.com/pkg/term) - Manages POSIX terminals.
 
 ## Test
 
@@ -88,6 +90,7 @@
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin Framework.
 - [gin-timeout](https://github.com/gin-contrib/timeout) - Timeout middleware for Gin.
 - [gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger.
+- [CORS gin](https://github.com/gin-contrib/cors) - Gin middleware/handler to enable CORS support.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [Bunrouter](https://github.com/uptrace/bunrouter) - Fast and flexible HTTP router for Go. ([Web](https://bunrouter.uptrace.dev/))
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
@@ -1000,6 +1003,11 @@
 - [Defaults](https://github.com/meowgorithm/defaults) - Enforce default values on struct fields.
 - [Limiters](https://github.com/mennanov/limiters) - Distributed rate limiters for Go.
 - [go-nsq](https://github.com/nsqio/go-nsq) - Official Go package for NSQ.
+- [go-parsing](https://github.com/TekWizely/go-parsing) - Multi-Package Go Repo Focused on Text Parsing, with Lexers, Parsers, and Related Utils.
+- [Atree](https://github.com/onflow/atree) - Scalable arrays and scalable ordered maps.
+- [go-peertaskqueue](https://github.com/ipfs/go-peertaskqueue) - Prioritized queue of abstract tasks distributed among peers.
+- [GoCSV](https://github.com/gocarina/gocsv) - Package aims to provide easy serialization and deserialization functions to use CSV in Go.
+- [Grafana Dskit](https://github.com/grafana/dskit) - Distributed systems kit.
 
 ## Links
 
@@ -1023,3 +1031,4 @@
 - [genv](https://github.com/nishakm/genv) - Go imitation of Python's venv module.
 - [Vend](https://github.com/nomad-software/vend) - Small command line utility for fully vendoring module dependencies.
 - [Which Go router should I use? (2021)](https://www.alexedwards.net/blog/which-go-router-should-i-use) ([Lobsters](https://lobste.rs/s/njvqgj/which_go_router_should_i_use))
+- [Bingo](https://github.com/TekWizely/bingo) - Missing package manager for Go binaries (its homebrew for "go install").

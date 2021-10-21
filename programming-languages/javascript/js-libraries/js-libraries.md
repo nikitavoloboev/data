@@ -603,7 +603,7 @@
 - [Nano Colors](https://github.com/ai/nanocolors) - Tiny and fast Node.js library for formatting terminal text with ANSI colors. ([Template](https://github.com/usmanyunusov/nanocolors-template)) ([HN](https://news.ycombinator.com/item?id=28659838)) ([Chalk maintainer's thoughts](https://github.com/babel/babel/pull/13783#issuecomment-927317201)) ([Tweet](https://twitter.com/andrey_sitnik/status/1445342703445757957))
 - [picocolors](https://github.com/alexeyraspopov/picocolors) - 2x times faster than nanocolors and use 2x less space in node_modules. ([Tweet](https://twitter.com/alexeyraspopov/status/1442418148951707649))
 - [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Smallest and fastest command-line coloring package on the internet. Trust me.
-- [Fractional Indexing](https://github.com/rocicorp/fractional-indexing) - Technique to create an ordering that can be used for Realtime Editing of Ordered Sequences.
+- [Fractional Indexing](https://github.com/rocicorp/fractional-indexing) - Technique to create an ordering that can be used for Real time Editing of Ordered Sequences.
 - [Atrament](https://github.com/jakubfiala/atrament.js) - Small JS library for beautiful drawing and handwriting on the HTML Canvas. ([Web](https://www.fiala.space/atrament.js/demo/))
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 - [paintvec](https://github.com/seanchas116/paintvec) - JavaScript 2D vector math library.
@@ -626,6 +626,10 @@
 - [tzdb](https://github.com/vvo/tzdb) - Simplified, grouped and always up to date list of time zones, with major cities.
 - [Lazyframe](https://github.com/vb/lazyframe) - Dependency-free library for lazyloading iframes.
 - [msgpack-lite](https://github.com/kawanet/msgpack-lite) - Fast Pure JavaScript MessagePack Encoder and Decoder.
+- [medium-zoom](https://github.com/francoischalifour/medium-zoom) - JavaScript library for zooming images like Medium. ([Web](https://medium-zoom.francoischalifour.com/))
+- [PureImage](https://github.com/joshmarinacci/node-pureimage) - Pure JS implementation of an image drawing and encoding api, based on HTML Canvas.
+- [vanilla-hamburger](https://github.com/web-padawan/vanilla-hamburger) - Animated hamburger menu icons for modern web apps. ([Web](https://web-padawan.github.io/vanilla-hamburger/))
+- [editable.js](https://github.com/livingdocsIO/editable.js) - JavaScript API that defines a friendly and browser-consistent content editable interface.
 
 ## Links
 

@@ -34,3 +34,5 @@
 - [Psychonetics: A nerd's toolset to work with mind and perception](http://deconcentration-of-attention.com/psychonetics.html) ([HN](https://news.ycombinator.com/item?id=28838445))
 - [Эмоционально недоступные родители и их дети](https://twitter.com/wizard_severus/status/1448897620253024258)
 - [Три чашки психологии Telegram](https://t.me/tiredpsychologist)
+- [Envy | ContraPoints (2021)](https://www.youtube.com/watch?v=aPhrTOg1RUk)
+- [A Meta-Scientific Perspective on Thinking: Fast and Slow (2020)](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/) ([HN](https://news.ycombinator.com/item?id=28917017))

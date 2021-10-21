@@ -328,3 +328,12 @@
 - [StackGres](https://stackgres.io/) - Enterprise Postgres made easy. On Kubernetes. ([Code](https://github.com/ongres/stackgres/))
 - [OnGres](https://www.ongres.com/) - PostgreSQL Professional Services & Products. ([Twitter](https://twitter.com/ongresinc))
 - [Postgres text search: balancing query time and relevancy (2021)](https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/) ([HN](https://news.ycombinator.com/item?id=28873779))
+- [Function pipelines: Building functional programming into PostgreSQL (2021)](https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/) ([HN](https://news.ycombinator.com/item?id=28919205))
+- [Stateless Postgres Query Router (SPQR)](https://github.com/pg-sharding/spqr)
+- [PostgresDBA](https://github.com/NikolayS/postgres_dba) - Useful tools for Postgres DBAs and all engineers.
+- [Postgres Checkup](https://gitlab.com/postgres-ai/postgres-checkup/) - PostgreSQL Health Check and SQL Performance Analysis.
+- [Database Lab Engine](https://github.com/postgres-ai/database-lab-engine) - Allows blazing-fast cloning of Postgres databases of any size in seconds. ([How it Works](https://postgres.ai/products/how-it-works)) ([Web](https://postgres.ai/))
+- [PostgreSQL HTTP Client](https://github.com/NikolayS/postgresql-http-client) - Simple HTTP client inside your PostgreSQL. Easy to install. No compilation required.
+- [Supabase SQL](https://database.dev/) - Curated list of SQL to help you find useful script easily. ([Code](https://github.com/supabase-community/database.dev))
+- [Supabase Schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer. ([Web](https://supabase-schema.vercel.app/))
+- [TimescaleDB Toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for more hyperfunctions, fully compatible with TimescaleDB and PostgreSQL.

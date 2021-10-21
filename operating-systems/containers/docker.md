@@ -149,3 +149,6 @@
 - [Docuum](https://github.com/stepchowfun/docuum) - LRU eviction of Docker images.
 - [Docker Socket Proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts.
 - [Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading.
+- [docker-amend](https://gitlab.com/notpushkin/docker-amend) - Amend Docker images by running a command in a separate layer.
+- [Docker Scan](https://github.com/docker/scan-cli-plugin) - Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images.
+- [Crane](https://github.com/InfuseAI/crane) - Easy-to-use and beautiful desktop application helps you build manage your docker images.

@@ -102,3 +102,4 @@
 - [Guide to Tracing in Erlang](http://stratus3d.com/blog/2021/08/24/guide-to-tracing-in-erlang/)
 - [FancyFlow](https://github.com/fenollp/fancyflow) - Experimental Erlang library to bring convenience of things like the elixir pipe operator into Erlang.
 - [CauDEr](https://github.com/mistupv/cauder) - Causal-Consistent Reversible Debugger for Erlang.
+- [jsone](https://github.com/sile/jsone) - Erlang JSON library.

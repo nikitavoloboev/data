@@ -45,7 +45,6 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Hard Problems in Cryptocurrency: Five Years Later (2019)](https://vitalik.ca/general/2019/11/22/progress.html) ([HN](https://news.ycombinator.com/item?id=21618079))
 - [Freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot.
 - [Kong](https://kong.cash/) - Physical crypto cash.
-- [Flow Playground](https://www.onflow.org/play) - Learn resource-oriented programming.
 - [Binance](https://www.binance.com/en) - Trade Bitcoin, BNB, and hundreds of other cryptocurrencies in minutes.
 - [Awesome Cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics)
 - [Coinbase](https://www.coinbase.com/) - Digital currency exchange. ([GitHub](https://github.com/coinbase))
@@ -150,3 +149,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) won't be used due to its [waste
 - [Your Money and Your Life - by Edward Snowden (2021)](https://edwardsnowden.substack.com/p/cbdcs) - Central Banks Digital Currencies will ransom our future. ([Tweet](https://twitter.com/Snowden/status/1446850805223591938))
 - [go-binance](https://github.com/adshao/go-binance) - Go SDK for Binance API.
 - [Personal finance tools for crypto to help people track yields, ownership, etc. across services (2021)](https://twitter.com/dksf/status/1447981378918748163)
+- [Dapper](https://www.meetdapper.com/) - Your account manager for all things Flow. ([Designing Dapper](https://medium.com/dapperlabs/designing-dapper-48c50fcfb063))

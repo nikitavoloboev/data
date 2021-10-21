@@ -49,6 +49,8 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-notify](https://github.com/rcarriga/nvim-notify) - Fancy, configurable, notification manager for NeoVim.
 - [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - UI for nvim-dap which provides a good out of the box configuration.
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
+- [marks.nvim](https://github.com/chentau/marks.nvim) - Better user experience for interacting with and manipulating Vim marks.
+- [nvim-magic](https://github.com/jameshiew/nvim-magic) - Pluggable framework for using AI code assistance in Neovim.
 - [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative editing in Neovim using built-in capabilities.
 - [any-jump.vim](https://github.com/pechorin/any-jump.vim) - Vim code inspection plugin for finding definitions and references/usages.
 - [FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - No nonsense floating terminal written in lua.
@@ -58,6 +60,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - Neovim plugin to make the LSP client use FZF.
 - [Vista.vim](https://github.com/liuchengxu/vista.vim) - View and search LSP symbols, tags in Vim/NeoVim.
 - [vim-clap](https://github.com/liuchengxu/vim-clap) - Modern generic interactive finder and dispatcher.
+- [nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Companion plugin for nvim-lspconfig that allows you to seamlessly install LSP servers locally.
 - [vim-picker](https://github.com/srstevenson/vim-picker) - Vim plugin for fuzzy selection of files, buffers, tags, and more.
 - [Conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet).
 - [Persistence](https://github.com/folke/persistence.nvim) - Simple session management for Neovim.
@@ -159,6 +162,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance.
 - [Gruvbox 8](https://github.com/lifepillar/vim-gruvbox8) - Simplified and optimized Gruvbox colorscheme for Vim.
 - [Nightfox](https://github.com/EdenEast/nightfox.nvim) - Dark Neovim theme written in lua.
+- [Rosé Pine](https://github.com/rose-pine/neovim) - Soho vibes for Neovim.
 
 ## Syntax
 

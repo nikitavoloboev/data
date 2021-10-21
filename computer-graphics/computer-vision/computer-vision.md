@@ -233,7 +233,7 @@
 - [Mobile Computer Vision @ Facebook](https://github.com/facebookresearch/mobile-vision)
 - [Opening the black box of vision AI algorithms (2021)](https://medium.com/hasty-ai/opening-the-black-box-of-vision-ai-algorithms-466fc3d4bf78)
 - [CompreFace](https://github.com/exadel-inc/CompreFace) - Free face recognition solution that can be easily integrated into any IT system without prior machine learning skills.
-- [IBRNet: Learning Multi-View Image-Based Rendering (2021)](https://ibrnet.github.io/)
+- [IBRNet: Learning Multi-View Image-Based Rendering (2021)](https://ibrnet.github.io/) ([Code](https://github.com/googleinterns/IBRNet))
 - [From Coarse to Fine: Robust Hierarchical Localization at Large Scale (2019)](https://arxiv.org/abs/1812.03506) ([Code](https://github.com/ethz-asl/hfnet))
 - [Camera Response Function (2021)](https://roboalgorithms.com/posts/camera-response-function/)
 - [I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image (2020)](https://arxiv.org/abs/2008.03713) ([Code](https://github.com/mks0601/I2L-MeshNet_RELEASE))
@@ -410,3 +410,9 @@
 - [receptivefield](https://github.com/fornaxai/receptivefield) - Gradient based receptive field estimation for Convolutional Neural Networks.
 - [Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations (2021)](https://igl.ethz.ch/projects/iso-points/) ([Code](https://github.com/yifita/iso-points))
 - [Neural Articulated Radiance Field (2021)](https://arxiv.org/abs/2104.03110) ([Code](https://github.com/nogu-atsu/NARF))
+- [Efficient Visual Pretraining with Contrastive Detection (2021)](https://arxiv.org/abs/2103.10957) ([Code](https://github.com/deepmind/detcon))
+- [VoTT (Visual Object Tagging Tool)](https://github.com/microsoft/VoTT) - Source annotation and labeling tool for image and video assets.
+- [FlexConv: Continuous Kernel Convolutions with Differentiable Kernel Sizes (2021)](https://arxiv.org/abs/2110.08059) ([Code](https://github.com/rjbruin/flexconv))
+- [ByteTrack: Multi-Object Tracking by Associating Every Detection Box (2021)](https://arxiv.org/abs/2110.06864) ([Code](https://github.com/ifzhang/ByteTrack))
+- [Dense Video Captioning with Bi-modal Transformer (2020)](https://iashin.ai/bmt) ([Code](https://github.com/v-iashin/BMT))
+- [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding) - CV toolkit for my papers. ([Docs](https://hangzhang.org/PyTorch-Encoding/))

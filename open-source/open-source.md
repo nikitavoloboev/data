@@ -24,6 +24,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Popularity != Quality. Especially for choosing project dependencies.](https://www.youtube.com/watch?v=f8x80EK6Tps)
 - [When opening an open source issue or pull request, don't make the maintainers do homework. Explain what you want/what you're doing, include relevant info, and offer to make changes. Don't make a maintainer to seek out other references or throw stuff over the wall and run.](https://twitter.com/slicknet/status/1441460988407025669)
 - [Always credit the work from which you copied or got inspired greatly from in readme. Lets users of your project that it's a fork and ideally keep the previous git history of forked project too.](https://news.ycombinator.com/item?id=28659838)
+- [Release Early, Release Often](https://lobste.rs/s/gqbpwd/release_early_release_often)
 
 ## Links
 

@@ -271,3 +271,5 @@
 - [How to prepare for React 18 concurrent mode (2021)](https://twitter.com/threepointone/status/1447844881657995266)
 - [React & TypeScript: use generics to improve your types (2021)](https://devtrium.com/posts/react-typescript-using-generics-in-react)
 - [React Render Tutorial - YouTube (2020)](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg7czgqpQIBEAHn8D6l530t)
+- [A Visual Guide to React Rendering - Cheat Sheet (2021)](https://alexsidorenko.com/blog/react-render-cheat-sheet/)
+- [How to Detect Slow Renders in React? (2021)](https://alexsidorenko.com/blog/react-performance-slow-renders/)

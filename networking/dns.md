@@ -136,3 +136,6 @@
 - [Simple, fast DNS-over-TLS forwarding server](https://github.com/mikispag/dns-over-tls-forwarder) - Forwards to an user-specified list of upstream DNS-over-TLS servers in parallel, returning and caching the first result received.
 - [A short overview of DNS (2021)](https://cuddly-octo-palm-tree.com/posts/2021-10-17-dns/) ([Lobsters](https://lobste.rs/s/8lgrpg/short_overview_dns))
 - [SubBrute](https://github.com/TheRook/subbrute) - DNS meta-query spider that enumerates DNS records, and subdomains.
+- [DNS-client](https://github.com/Denchick/dns-client) - Implementation of a DNS-client using a socket library.
+- [Reserved Top Level DNS Names](https://www.rfc-editor.org/rfc/rfc2606.html)
+- [Fixing reachability to 1.1.1.1, Globally (2018)](https://blog.cloudflare.com/fixing-reachability-to-1-1-1-1-globally/)

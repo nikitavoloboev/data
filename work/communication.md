@@ -45,7 +45,7 @@
 - [Take a moment before answering / deciding / reacting. Don't be pulled into someone else's tempo, keep your own rhythm and pace.](https://www.reddit.com/r/AskWomen/comments/pojsoy/what_is_quick_life_hack_every_woman_should_know/)
 - [Trust can be ruined with a single word, and it’s not easy to rebuild.](https://twitter.com/apartovi/status/1447251334814523392) ([HN](https://news.ycombinator.com/item?id=28826437))
 - [If all you get out of incident review is engineers who talk more openly about how their stuff fails, you're winning.](https://twitter.com/MissAmyTobey/status/1448090585424932866)
-- [Intent does not erase impact.](https://twitter.com/cherthedev/status/1448689004887478275)
+- [Intent does not erase impact.](https://twitter.com/cherthedev/status/1448689004887478275) -[ Robust community benefits from intentional sporadic engagement. Not every actor has to contribute to liveness. Has to support different modes for different nodes. Communities thrive on growth of individuals, together. Intentions are good fuel for that.](https://twitter.com/vaisfourlovers/status/1450930799717531656)
 
 ## Links
 

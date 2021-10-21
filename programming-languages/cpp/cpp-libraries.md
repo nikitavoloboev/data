@@ -52,6 +52,8 @@
 - [Methane Kit](https://github.com/egorodet/MethaneKit) - Easy to use modern 3D graphics rendering abstraction API and cross-platform application framework.
 - [Tahoma2D](https://github.com/tahoma2d/tahoma2d) - 2D and Stop Motion Animation Software. ([Web](https://tahoma2d.org/))
 - [gfx](https://github.com/gboisse/gfx) - Minimalist and easy to use graphics API built on top of Direct3D12/HLSL intended for rapid prototyping.
+- [bigger](https://github.com/yuki-koyama/bigger) - Prototype-oriented middleware library for 3D interactive applications.
+- [Treexy](https://github.com/facontidavide/Treexy) - Brutally fast, sparse, 3D Voxel Grid.
 
 ## DB
 
@@ -250,6 +252,9 @@
 - [FastNoise2](https://github.com/Auburn/FastNoise2) - Modular node graph based noise generation library using SIMD, C++17 and templates.
 - [TensorPipe](https://github.com/pytorch/tensorpipe) - Tensor-aware point-to-point communication primitive for machine learning.
 - [Rotor](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework.
+- [optional](https://github.com/TartanLlama/optional) - Single header implementation of std::optional with functional-style extensions and support for references.
+- [ZAB](https://github.com/Donald-Rupin/zab) - Asynchronous framework for building event-driven, multi-threaded programs.
+- [ensmallen](https://github.com/mlpack/ensmallen) - High-quality C++ library for non-linear numerical optimization. ([Web](http://ensmallen.org/))
 
 ## Links
 

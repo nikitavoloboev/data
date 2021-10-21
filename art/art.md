@@ -117,6 +117,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Kevin Hong](https://www.instagram.com/taijuey/) ([Web](https://www.kevinhong.com/))
 - [Leonardo Santamaria](http://www.leonardosantamaria.com/)
 - [Lossapardo](https://www.instagram.com/lossapardo/)
+- [Adrian Bush](https://www.instagram.com/plunteere/) ([Twitter](https://twitter.com/Plunteere))
 - [Michal Kváč](https://www.artstation.com/kvacm)
 - [Marcin Sacha](http://marcinsacha.arte.usermd.net/en/home-2/) ([Instagram](https://www.instagram.com/sachamarcin/))
 - [Nicola Samori](https://www.artsy.net/artist/nicola-samori)

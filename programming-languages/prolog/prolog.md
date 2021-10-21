@@ -14,7 +14,7 @@
 - [It's Elementary, Dear Watson: Applying Logic Programming To Convergent System Management Processes](https://www.usenix.org/legacy/publications/library/proceedings/lisa99/full_papers/couch/couch_html/index.html)
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) - Modern Prolog implementation written mostly in Rust.
 - [chalk](https://github.com/rust-lang/chalk) - PROLOG-ish interpreter written in Rust, intended eventually for use in the compiler.
-- [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter.
+- [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter. ([OCAml Binds](https://github.com/voodoos/elpi-js))
 - [Programming in Tabled Prolog book](https://github.com/SWI-Prolog/tabled-prolog-book)
 - [SWI Prolog](https://www.swi-prolog.org/) - Comprehensive free Prolog environment.
 - [Prolog and Logic Programming Historical Sources Archive](http://www.softwarepreservation.org/projects/prolog/) ([HN](https://news.ycombinator.com/item?id=22658770))

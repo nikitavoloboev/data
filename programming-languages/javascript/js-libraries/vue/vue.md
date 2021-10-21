@@ -76,3 +76,5 @@
 - [Nuxt](https://nuxtjs.org/) - Hybrid Vue Framework. ([Code](https://github.com/nuxt/framework)) ([Nuxt 3 Public Beta Launch with Q&A](https://www.youtube.com/watch?v=kXHuaCNfYEY))
 - [iles](https://github.com/ElMassimo/iles) - Islands of interactivity with Vue in Vite.js.
 - [Nuxt 3 Starter](https://github.com/productfrontenddeveloper/nuxt3-app) - Nuxt3, Tailwindcss, Sass, Headless UI, Vue.
+- [Vue Bleeding Edge](https://github.com/aldy505/vue-bleeding-edge) - Aiming to simulate Nuxt 3 without using Nuxt.
+- [Vue 3 + Vite template](https://github.com/reinink/tailwindui-modal-example)

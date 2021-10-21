@@ -11,6 +11,7 @@
 - [It doesn’t matter what you were paid at your previous gig, and don’t answer if they ask.](https://lobste.rs/s/rwy6lq/what_are_rules_thumb_for_salary)
 - My current compensation is part of the reason why am looking into other opportunities.
 - [Never overplay your hand when negotiating a major deal -- especially not against a stronger player. There are ways to be a strong negotiator without lying.](https://twitter.com/apartovi/status/1447253292686270467)
+- [A deal isn’t done until it’s closed. No matter how much you want to be on the same side of the table as the other party, don’t show your cards until the game is over. Be patient and learn when to keep your mouth shut.](https://twitter.com/apartovi/status/1449858945942794245)
 
 ## Links
 
@@ -29,3 +30,4 @@
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) ([HN](https://news.ycombinator.com/item?id=27160934))
 - [Ask HN: Negotiating Salary (2021)](https://news.ycombinator.com/item?id=27332305)
 - [Fearless Salary Negotiation](https://fearlesssalarynegotiation.com/) - Salary Negotiation for Software Developers.
+- [I once killed a $125M deal by being “too honest”](https://twitter.com/apartovi/status/1449856639331340289) ([HN](https://news.ycombinator.com/item?id=28916372))

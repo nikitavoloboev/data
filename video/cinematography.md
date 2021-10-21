@@ -32,3 +32,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [How Filmmakers Make Cameras Disappear | Mirrors in Movies (2021)](https://www.youtube.com/watch?v=VASwKZAUVSo)
 - [How ‘Dune’ Cinematographer Greig Fraser Created the Look of Denis Villeneuve’s Sci-Fi Epic (2021)](https://www.hollywoodreporter.com/movies/movie-news/dune-cinematographer-denis-villeneuve-movie-1235011592/)
 - [Dune (2021) - Technical Specifications](https://www.imdb.com/title/tt1160419/technical)
+- [DJI Ronin 4D](https://www.dji.com/nl/ronin-4d)

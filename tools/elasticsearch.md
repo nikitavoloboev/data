@@ -36,3 +36,8 @@
 - [Eland](https://github.com/elastic/eland) - Python Elasticsearch client for exploring and analyzing data in Elasticsearch with a familiar Pandas-compatible API.
 - [Elasticsearch Node.js client](https://github.com/elastic/elasticsearch-js)
 - [Ansible Elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+- [Elastic Stack on Docker](https://github.com/sherifabdlnaby/elastdocker) - With Preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics Exporters.
+- [Curator](https://github.com/elastic/curator) - Tending your Elasticsearch indices.
+- [elasticdump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Tools for moving and saving indices.
+- [Elasticsearch DSL written in Rust](https://github.com/vinted/elasticsearch-dsl-rs)
+- [Elasticsearch Python Client](https://github.com/elastic/elasticsearch-py)

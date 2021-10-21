@@ -84,6 +84,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [OpenSesame](https://github.com/OpenSesameManager/OpenSesame) - Native and encrypted password manager for iOS and macOS. ([Reddit](https://www.reddit.com/r/swift/comments/pa1i90/i_just_released_my_open_source_password_manager/))
 - [Pocket iOS](https://github.com/Pocket/pocket-ios)
 - [Goal & Habit Tracker](https://github.com/Shubham0812/HabitTracker_UI) - Habits and Goal Tracker application using the SwiftUI Framework.
+- [TodoApp iOS](https://github.com/elixir-desktop/ios-example-app) - Xcode project wrapper around the Elixir TodoApp Desktop app to run on iOS.
 
 ## Other
 
@@ -358,3 +359,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Gamed 0-day (iOS 15.0)](https://github.com/illusionofchaos/ios-gamed-0day) ([Reddit](https://www.reddit.com/r/apple/comments/pv44qu/researcher_drops_three_ios_zerodays_that_apple/))
 - [iCloudCoreDataStarter](https://github.com/jazzychad/iCloudCoreDataStarter) - Example Xcode swift iOS project for Core Data + iCloud syncing.
 - [Always-on Processor magic: How Find My works while iPhone is powered off (2021)](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html) ([HN](https://news.ycombinator.com/item?id=28711421))
+- [Moving Parts](https://movingparts.io/) - World-class components for iOS, making your app the best it can be. ([Twitter](https://twitter.com/movingpartsio))
+- [Tech Talks - Apple Developer](https://developer.apple.com/tech-talks/)

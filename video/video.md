@@ -295,3 +295,5 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Canva](https://www.canva.com/videos/) - Free and Easy Online Video Editor.
 - [Plopdown](https://plopdown.video/) - Video Annotating Web Extension. ([Code](https://github.com/spaceribs/plopdown))
 - [ZipMessage](https://zipmessage.com/) - Asynchronous video messaging software for remote business. ([Twitter](https://twitter.com/ZipMessageApp))
+- [Rustymedia](https://github.com/kevincox/rustymedia) - Media server. It mimics the DLNA protocol and should work with most DLNA clients.
+- [Tagger](https://github.com/dicej/tagger) - Simple photo and video organizer for the web.

@@ -29,3 +29,4 @@
 - [chatbot](https://github.com/kevwan/chatbot) - Fast responsive, machine learning, conversational dialog engine for creating chat bots, written in Go.
 - [Dialogflow](https://cloud.google.com/dialogflow/docs/) - Natural language understanding platform that makes it easy to design and integrate a conversational user interface. ([Python Client](https://github.com/googleapis/python-dialogflow))
 - [Gort](https://github.com/getgort/gort) - Chatbot framework designed from the ground up for chatops. ([Docs](https://guide.getgort.io/))
+- [Cyclone](https://github.com/top-gg/cyclone) - Pattern matching framework for detecting bots that behave exactly like or very similar to other bots.

@@ -24,6 +24,26 @@
 - [Nix doesn't solve dependency resolution problems. Only pinning. There's ground to break there. Dependency management not being part of flakes is my biggest gripe with it. It would be our chance to be the once size fits all solution but we failed to deliver.](https://twitter.com/ProgrammerDude/status/1375451276234928132)
 - [There's a lot of unexplored potential of Nix in granular build systems and displacing systems like Bazel. If applied correctly, it lets smaller organisations get much of the benefit of Google-style monorepos but without as much maintenance overhead.](https://news.ycombinator.com/item?id=26748696)
 
+## Code
+
+```bash
+# Build nix package locally.
+
+# cd into cloned https://github.com/NixOS/nixpkgs
+
+# Build package from default.nix inside nixpkgs. Will put result as ./result if succeeds
+# i.e. nix-build -A watchexec -> will build watchexec package
+nix-build -A <package>
+
+# Install the build and put it `~/.nix-profile/bin`
+nix-env -i ./result
+```
+
+```bash
+# Garbage collect
+sudo nix-collect-garbage --delete-older-than 30d
+```
+
 ## Links
 
 - [Nix Manual](https://nixos.org/manual/nix/stable/)
@@ -173,7 +193,7 @@
 - [nix-optics](https://github.com/masaeedu/nix-optics) - Using profunctor optics to focus modifications in Nix.
 - [Use Nix flakes without any fluff](https://github.com/gytis-ivaskevicius/flake-utils-plus)
 - [Nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files.
-- [Determinate Systems](https://determinate.systems/) - Nix ecosystem consulting by Graham Christensen.
+- [Determinate Systems](https://determinate.systems/) - Confidently build and deploy to the cloud, stadium, or stock exchange. Expert help with the Nix ecosystem from Graham. ([Twitter](https://twitter.com/DeterminateSys)) ([GitHub](https://github.com/DeterminateSystems))
 - [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/)
 - [Nix is the ultimate DevOps toolkit (2021)](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html) ([HN](https://news.ycombinator.com/item?id=26748696)) ([Lobsters](https://lobste.rs/s/5gbbp2/nix_is_ultimate_devops_toolkit))
 - [devshell](https://github.com/numtide/devshell) - Per project developer environments.
@@ -217,3 +237,4 @@
 - [Issues you encountered learning Nix? (2021)](https://twitter.com/theprincessxena/status/1448984266071752721)
 - [Declarative Dev Environments using Nix (2021)](https://marcopolo.io/code/declarative-dev-environments/)
 - [Peerix](https://github.com/cid-chan/peerix) - Peer-to-peer binary cache for nix derivations.
+- [update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - GitHub Action that will update your flake.lock file whenever it is run.

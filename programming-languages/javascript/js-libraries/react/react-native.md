@@ -134,3 +134,4 @@
 - [Vision Camera](https://github.com/mrousavy/react-native-vision-camera) - Camera library that sees the vision.
 - [react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [WebRTC module for React Native](https://github.com/react-native-webrtc/react-native-webrtc)
+- [React Native Team AUA (2021)](https://www.reddit.com/r/reactnative/comments/pzdo1r/react_native_team_aua_thursday_oct_14_9am_pt/) ([Tweet](https://twitter.com/sebastienlorber/status/1450480102421274625))

@@ -130,3 +130,4 @@
 - [Creandum](https://www.creandum.com/) - Leading European early-stage venture capital firm.
 - [New Layer Capital](https://www.newlayer.capital/) - Private investment firm that invests in cryptocurrencies, tokens, and blockchain companies.
 - [Calm Company Fund](https://calmfund.com/) - Ecosystem of founders and funders of profitable, sustainable, calm businesses. ([What We Invest In](https://calmfund.com/what-we-invest-in)) ([Tweet](https://twitter.com/tylertringas/status/1449425578436739072))
+- [Bowery Capital](https://bowerycap.com/) - Early-stage venture capital. ([Twitter](https://twitter.com/BoweryCapital))

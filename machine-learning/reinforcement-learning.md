@@ -251,3 +251,5 @@
 - [Godot RL Agents](https://github.com/edbeeching/godot_rl_agents) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/q8sx0g/p_introducing_godot_rl_agents/))
 - [SaLinA: Sequential Learning of Agents (2021)](https://arxiv.org/abs/2110.07910) - Flexible and Simple Library for Learning Sequential Agents (including Reinforcement Learning). ([Code](https://github.com/facebookresearch/salina)) ([Tweet](https://twitter.com/LudovicDenoyer/status/1450003583609544704))
 - [EnvironmentLogger](https://github.com/deepmind/envlogger) - Tool for recording RL trajectories.
+- [DrQ-v2](https://github.com/facebookresearch/drqv2) - Improved Data-Augmented Reinforcement Learning.
+- [Arcade Learning Environment (ALE)](https://github.com/mgbellemare/Arcade-Learning-Environment) - Simple framework that allows researchers and hobbyists to develop AI agents for Atari 2600 games.

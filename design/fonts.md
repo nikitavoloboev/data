@@ -168,7 +168,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [When fonts fall (2020)](https://www.figma.com/blog/when-fonts-fall/) ([HN](https://news.ycombinator.com/item?id=24631681))
 - [Design Class – Web Typography](https://rafaltomal.com/design-class-web-typography/?)
 - [typespiration.com](https://typespiration.com/) - Showcase of web typography designs with ready-to-use CSS codes.
-- [Fontsource](https://github.com/fontsource/fontsource) - Updating monorepo full of self-hostable Open Source fonts bundled into individual NPM packages.
+- [Fontsource](https://github.com/fontsource/fontsource) - Updating monorepo full of self-hostable Open Source fonts bundled into individual NPM packages. ([Web](https://fontsource.org/))
 - [Beautiful and Effective Web Typography: An Interview with Richard Rutter (2020)](https://medium.com/ux-and-front-end-interviews/beautiful-and-effective-web-typography-an-interview-with-richard-rutter-7684aff92dc7)
 - [Web Font Loader](https://github.com/typekit/webfontloader) - Gives you added control when using linked fonts via @font-face.
 - [Font Variation Description](https://github.com/typekit/fvd) - Compact and unambiguous way to describe a font in CSS.

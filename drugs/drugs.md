@@ -8,6 +8,7 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 
 - [The drug isn't the issue its our relationship with them.](https://www.reddit.com/r/Psychedelics/comments/mpmmse/this_needs_to_stop/)
 - [The difference between a medicine and a poison is the dose, and the method for finding the right dose varies from person to person.](https://www.reddit.com/r/Psychedelics/comments/mpmmse/this_needs_to_stop/)
+- [Synthetic production has changed the end product and the way it affects the user. It is said that psychosis observed in users of the early 2000's type of ephedrine-sourced meth was typically due to the user being awake for several days, where as modernly produced meth can induce such psychosis within hours of use. This seems to indicate higher neurotoxicity, and the author questions whether it is due increased potency or contamination of product through production.](https://news.ycombinator.com/item?id=28912096)
 
 ## Links
 
@@ -48,3 +49,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [The Hive Archive](https://chemistry.mdma.ch/hiveboard/)
 - [What is the longest lasting drug? (2021)](https://www.reddit.com/r/researchchemicals/comments/q43pno/what_is_the_longest_lasting_drug/)
 - [Smoking, Genetics and Schizophrenia: Evidence for Self Medication (2007)](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2613326/) ([Reddit](https://www.reddit.com/r/Drugs/comments/q889gb/when_i_went_from_8_cigarettes_a_day_to_0_my/))
+- [Long-term risks of stimulants in humans (2021)](https://www.reddit.com/r/slatestarcodex/comments/qc6asr/any_consensus_on_longterm_risks_of_stimulants_in/)

@@ -24,7 +24,8 @@ The structure of each of the posts will often look roughly like this:
 2. Description - My thoughts on the topic.
 3. Subtopics - Various subtopics related to the main topic.
 4. Notes - My own personal notes on the matter as well as things I found interesting on the internet regarding the topic. I often give a link of where I got things from.
-5. Links - Links related to the topic.
+5. Code - Code snippets.
+6. Links - Links related to the topic.
 
 If you are interested in how I maintain and write this wiki, I wrote about it in detail [here](../other/wiki-workflow.md).
 

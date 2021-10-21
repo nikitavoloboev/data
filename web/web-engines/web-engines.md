@@ -18,3 +18,4 @@
 - [V8 Heap Sandbox - High-Level Design Doc (2021)](https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit)
 - [Just](https://github.com/just-js/just) - Very small v8 JS runtime for Linux only.
 - [Enumerating and analyzing 40+ non-V8 JavaScript implementations (2021)](https://notes.eatonphil.com/javascript-implementations.html) ([Tweet](https://twitter.com/phil_eaton/status/1440436962305789952)) ([HN](https://news.ycombinator.com/item?id=28613673))
+- [PyMiniRacer](https://github.com/sqreen/PyMiniRacer) - Minimal, modern embedded V8 for Python.

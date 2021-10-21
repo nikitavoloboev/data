@@ -26,3 +26,4 @@
 - [Best Practices for Versioning REST and GraphQL APIs (2021)](https://www.moesif.com/blog/technical/api-design/Best-Practices-for-Versioning-REST-and-GraphQL-APIs/)
 - [Why do Webdevs keep trying to kill REST? (2021)](https://www.swyx.io/client-server-battle/)
 - [How To Write A REST Client In Rust (2021)](https://www.lpalmieri.com/posts/how-to-write-a-rest-client-in-rust-with-reqwest-and-wiremock/)
+- [Introspected REST: An alternative to REST and GraphQL](https://github.com/vasilakisfil/Introspected-REST) ([Web](https://introspected.rest/))

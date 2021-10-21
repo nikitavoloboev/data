@@ -114,3 +114,6 @@
 - [Super-Simple Scraper](https://github.com/gotripod/ssscraper) - Crawler/scraper based on Go + colly, configurable via JSON.
 - [Gospider](https://github.com/jaeles-project/gospider) - Fast web spider written in Go.
 - [The State Of Web Scraping in 2021](https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/) ([HN](https://news.ycombinator.com/item?id=28827509))
+- [trafilatura](https://github.com/adbar/trafilatura) - Web scraping tool for text discovery and retrieval.
+- [scrapy.js](https://github.com/sijey-praveen/scrapy.js) - Web Scraping library for JavaScript built using BeautifulSoup4.
+- [PHP Goose](https://github.com/scotteh/php-goose) - Readability / HTML Content / Article Extractor & Web Scrapping library written in PHP.

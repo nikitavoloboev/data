@@ -568,3 +568,7 @@
 - [Variational Graph Auto-Encoders (2016)](https://arxiv.org/abs/1611.07308) ([Code](https://github.com/DaehanKim/vgae_pytorch))
 - [Diffusion Normalizing Flow (2021)](https://arxiv.org/abs/2110.07579)
 - [Approximately Correct Machine Intelligence (ACMI) Lab](https://acmilab.org/) - Research on machine learning, its social impacts, and applications to healthcare. ([GitHub](https://github.com/acmi-lab)) ([Twitter](https://twitter.com/acmi_lab))
+- [Machine Learning, Kolmogorov Complexity, and Squishy Bunnies (2019)](https://theorangeduck.com/page/machine-learning-kolmogorov-complexity-squishy-bunnies)
+- [Fast Machine Learning Lab](https://fastmachinelearning.org/) ([GitHub](https://github.com/fastmachinelearning))
+- [Meaning of interpolation in ML (2021)](https://twitter.com/fchollet/status/1450524400227287040)
+- [Learning in High Dimension Always Amounts to Extrapolation (2021)](https://arxiv.org/abs/2110.09485) ([Tweet](https://twitter.com/ylecun/status/1450560732483948545))

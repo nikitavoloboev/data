@@ -143,3 +143,5 @@
 - [Jupyter React](https://github.com/datalayer/jupyter-react) - React.js components for Jupyter. ([Docs](https://docs.datalayer.io/docs/jupyter/react/index/))
 - [Datalayer](https://datalayer.io/) - Cloud-native and React.js Jupyter Platforms. ([GitHub](https://github.com/datalayer)) ([Twitter](https://twitter.com/datalayerio))
 - [Jupyterpool](https://github.com/datalayer/jupyterpool) - Instant Jupyter Kernels and Servers.
+- [Elastic Jupyter Notebooks on Kubernetes](https://github.com/tkestack/elastic-jupyter-operator)
+- [Pure GitHub.Dev Python Jupyter Notebooks experiments using Pyodide](https://github.com/wjptak/githubdev-jupyter-experiments)

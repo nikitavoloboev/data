@@ -36,6 +36,8 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Every time I feel like I lack time, I actually lack focus.](https://twitter.com/anthilemoon/status/1443485224092913669)
 - [Action changes attitude faster than attitude changes action.](https://news.ycombinator.com/item?id=28762362)
 - [Never work on more than three to four initiatives.](https://twitter.com/rakyll/status/1445570363291627665)
+- [One thing that’s really helped me is removing the words like “lazy” or “procrastinating” from my vocabulary. I am never “lazy.” I need rest, I get tired, I may not enjoy what I’m doing, I am a human with complex needs and if I don’t want to do something, I can genuinely ask why.](https://twitter.com/sehurlburt/status/1450648082685779969)
+- [Do things with proper and specific intention. By setting the intention it’ll prime your automatic processes to be more selective to observe data related/in support of that intention.](https://twitter.com/vaisfourlovers/status/1450929596438810631)
 
 ## Links
 
@@ -87,3 +89,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Dopamine, Smartphones and You: A battle for your time (2018)](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/) ([HN](https://news.ycombinator.com/item?id=28850169))
 - [Laziness Does Not Exist (2018)](https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01) ([HN](https://news.ycombinator.com/item?id=28574627))
 - [Every productivity thought I've ever had, as concisely as possible (2018)](https://guzey.com/productivity/)
+- [Oliver Burkeman's Advice for Time Management (2021)](https://www.theatlantic.com/family/archive/2021/08/oliver-burkeman-advice-time-productivity/619723/)

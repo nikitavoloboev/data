@@ -11,6 +11,14 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - `.*` = will select all occurrences
 - A regex is useful for validating simple patterns and for finding patterns in text. For anything beyond that it’s almost certainly a terrible choice.
 
+## Code
+
+[Match if it has notes or twitter in input](https://regex101.com/r/eKyP11/2)
+`^(?=.*(?:notes|twitter)).*`
+
+Match all that don't have notes or twitter in input
+`^(?!._(?:notes|twitter))._`
+
 ## Links
 
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex)

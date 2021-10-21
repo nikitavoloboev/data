@@ -207,3 +207,4 @@ And these Discord servers:
 - [Ask HN: Hacker News like forums for other niches? (2021)](https://news.ycombinator.com/item?id=27802233)
 - [Ask HN: Do any discussion boards that aren't Facebook/Reddit still exist? (2021)](https://news.ycombinator.com/item?id=28394321)
 - [Ask HN: What are some other general link aggregators aside from HN? (2021)](https://news.ycombinator.com/item?id=28632002)
+- [News](https://github.com/Denchick/news) - Collect news from different sources in just one place.

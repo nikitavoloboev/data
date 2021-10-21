@@ -181,3 +181,5 @@
 - [pcpp](https://github.com/ned14/pcpp) - C99 preprocessor written in pure Python.
 - [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion) ([HN](https://news.ycombinator.com/item?id=28854808))
 - [Proposal to add constexpr to C (2021)](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2851.pdf) ([HN](https://news.ycombinator.com/item?id=28861672))
+- [rust-cexpr](https://github.com/jethrogb/rust-cexpr) - C expression parser and evaluator.
+- [When to Use Goto](https://beej.us/guide/bgc/html/split/goto.html) ([HN](https://news.ycombinator.com/item?id=28943153))

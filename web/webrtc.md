@@ -58,3 +58,7 @@
 - [WebRTC-404 (2021)](https://speakerdeck.com/hellsquirrel/webrtc-404)
 - [SDP-Rust](https://github.com/webrtc-rs/sdp) - Pure Rust implementation of SDP.
 - [DTLS-Rust](https://github.com/webrtc-rs/dtls) - Pure Rust implementation of DTLS.
+- [ICE](https://github.com/webrtc-rs/ice) - Pure Rust implementation of ICE.
+- [WebRTC remote view](https://github.com/rviscarra/webrtc-remote-screen) - Stream a remote desktop screen directly to your browser. ([Article](https://viscarra.dev/post/webrtc-remote-screen/))
+- [WebRTC speech to text server](https://github.com/rviscarra/webrtc-speech-to-text) - Speech transcription on the browser using WebRTC and Google Speech. ([Article](https://viscarra.dev/post/webrtc-gspeech/))
+- [OvenPlayer](https://github.com/AirenSoft/OvenPlayer) - JavaScript-based WebRTC Player for OvenMediaEngine. It also supports LL-DASH, MPEG-DASH, and HLS. Open-Source HTML5 Player. ([Web](https://www.ovenmediaengine.com/ovenplayer))

@@ -17,6 +17,7 @@
 
 - [jOOQ](https://github.com/jOOQ/jOOQ) - Fluent API for typesafe SQL query construction and execution. ([Web](https://www.jooq.org/))
 - [ObjectiveSQL](https://github.com/braisdom/ObjectiveSql) - ORM framework in Java based on ActiveRecord pattern. ([HN](https://news.ycombinator.com/item?id=25170053))
+- [Database Queue](https://github.com/yoomoney/db-queue) - Worker-queue implementation on top of Java and database.
 
 ## Test
 
@@ -32,6 +33,7 @@
 - [JavaPlex](https://github.com/appliedtopology/javaplex) - Persistent Homology and Topological Data Analysis Library.
 - [Mixin](https://github.com/SpongePowered/Mixin) - Trait/mixin and bytecode weaving framework for Java using ASM.
 - [Gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back.
+- [Manifold](https://github.com/manifold-systems/manifold) - Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. ([Docs](http://manifold.systems/))
 
 ## Links
 

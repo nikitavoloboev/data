@@ -105,3 +105,5 @@
 - [Most well-known sites you know of that use Tailwind CSS? (2021)](https://twitter.com/adamwathan/status/1441541303372693504)
 - [Tailory](https://rareblocks.xyz/) - Customize your website with rare, unique Tailwind components that are guaranteed to be different from the crowd. ([Twitter](https://twitter.com/_rareblocks))
 - [Wicked Blocks](https://wickedblocks.dev/) - Ready Made Tailwind CSS blocks, for your next project.
+- [Tailwind class madness. Never again. (2021)](https://itnext.io/tailwind-class-madness-never-again-75ec6ebfd3a0)
+- [Discord-Inspired Dashboard with Tailwind CSS](https://github.com/fireship-io/tailwind-dashboard)

@@ -53,3 +53,4 @@
 - [VulkanAutomata](https://github.com/Slackermanz/VulkanAutomata) - GPU-Accelerated Cellular Automata Render Engine using the Vulkan API.
 - [Computational Hierarchy of Elementary Cellular Automata (2021)](https://arxiv.org/abs/2108.00415)
 - [Simple Rust implementation of Conway's Game of Life](https://github.com/brundonsmith/life)
+- [WebGPU Compute Cellular Automata](https://github.com/dawidgorny/webgpu-cca)

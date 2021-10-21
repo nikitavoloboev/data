@@ -40,3 +40,4 @@
 - [Nuclear Power in France (2021)](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/france.aspx) ([HN](https://news.ycombinator.com/item?id=28841366))
 - [Europe categorize nuclear power as sustainable (2021)](https://twitter.com/balajis/status/1449439525495709696)
 - [How Chernobyl has become an unexpected haven for wildlife (2020)](https://www.unep.org/news-and-stories/story/how-chernobyl-has-become-unexpected-haven-wildlife)
+- [Global Power Plant Database](https://github.com/wri/global-power-plant-database)

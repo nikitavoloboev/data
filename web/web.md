@@ -46,7 +46,6 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Various books on web tech](https://flaviocopes.com/page/ebooks-links/)
 - [Lite YouTube Embed](https://github.com/paulirish/lite-youtube-embed) - Provide videos with a supercharged focus on visual performance.
 - [Hands-on with Portals: seamless navigation on the Web (2019)](https://web.dev/hands-on-portals/)
-- [Nx](https://github.com/nrwl/nx) - Extensible Dev Tools for Monorepos.
 - [Web Platform Course](https://webplatformcourse.com/7XoqGASUulHqaQUWuqXR/)
 - [Principles for making things for the web](https://github.com/veltman/principles)
 - [Cloudflare Learning Center](https://www.cloudflare.com/learning/) - Resources on Cyber-Security and How the Internet Works From Cloudflare.
@@ -265,7 +264,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Paid in Full: an internet where every interaction is a financial transaction (2021)](https://reallifemag.com/paid-in-full/) ([HN](https://news.ycombinator.com/item?id=26935057))
 - [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets from Vite.
 - [IndieWebify.Me](https://indiewebify.me/) - Guide to getting you on the IndieWeb. ([Code](https://github.com/indieweb/indiewebify-me))
-- [Facts every Web Dev should know before they Burn Out](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/)
+- [Facts every Web Dev should know before they Burn Out](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/) ([HN](https://news.ycombinator.com/item?id=28895128))
 - [The Internet explained from first principles](https://explained-from-first-principles.com/internet/)
 - [What’s the web dev equivalent of SICP? (2021)](https://news.ycombinator.com/item?id=27084854)
 - [mmm.page](https://build.mmm.page/) - Dead simple, drag & drop personal websites.
@@ -320,3 +319,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The Web’s Grain (2015)](https://frankchimero.com/blog/2015/the-webs-grain/)
 - [The Single-Page-App Morality Play (2021)](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/) ([HN](https://news.ycombinator.com/item?id=28876583)) ([Tweet](https://twitter.com/fakebaldur/status/1434873556903636996))
 - [esbuild-dev-server](https://github.com/Falldot/esbuild-dev-server) - Allows you to start a local server with hot reloading with Esbuild.
+- [Hypertext tools from the 80s (2021)](https://fibery.io/blog/hypertext-tools-from-the-80s/) ([HN](https://news.ycombinator.com/item?id=28903469))

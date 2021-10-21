@@ -8,6 +8,7 @@
 - [tapir](https://github.com/softwaremill/tapir) - Describe HTTP API endpoints as immutable Scala values. ([Docs](https://tapir.softwaremill.com/en/latest/))
 - [sttp](https://github.com/softwaremill/sttp) - Scala HTTP client you always wanted. ([Docs](https://sttp.softwaremill.com/en/latest/))
 - [Scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra. ([Web](https://scalatra.org/))
+- [Scala.js](https://github.com/scala-js/scala-js) - Scala to JavaScript compiler. ([Web](https://www.scala-js.org/))
 
 ## CLI
 
@@ -34,6 +35,12 @@
 
 - [Bloop](https://scalacenter.github.io/bloop/) - Compile, test and run Scala code fast. ([Code](https://github.com/scalacenter/bloop))
 - [Weaver-test](https://github.com/disneystreaming/weaver-test) - Test framework that runs everything in parallel.
+
+## GraphQL
+
+- [Caliban](https://github.com/ghostdogpr/caliban) - Purely functional library for building GraphQL servers and clients in Scala. ([Docs](https://ghostdogpr.github.io/caliban/docs/))
+- [Sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL implementation.
+- [Sangria Relay](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
 
 ## ML
 
@@ -95,6 +102,9 @@
 - [ZIO Optics](https://github.com/zio/zio-optics) - Easily modify parts of larger data structures.
 - [scala-typed-holes](https://github.com/cb372/scala-typed-holes) - Scala compiler plugin to emulate the "typed holes" feature of Haskell, Idris, Agda, etc.
 - [ScalaCache](https://github.com/cb372/scalacache) - Simple caching in Scala.
+- [Scaldi](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library.
+- [Zinc](https://github.com/sbt/zinc) - Incremental compiler for Scala.
+- [zio-webhooks](https://github.com/zio/zio-webhooks) - Microlibrary for reliable and persistent webhook delivery.
 
 ## Links
 

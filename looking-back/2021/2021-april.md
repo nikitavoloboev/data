@@ -12,7 +12,7 @@ Anyway. Need to focus better. Build real things! I do this wiki for myself, ther
 
 I am getting a better hang of how to use and utilize my wiki more. Starting from May, I want to truly focus my [monkey mind](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) and start building.
 
-Finish up [CSS course](https://css-for-js.dev). Release [EpicTools](https://epictools.dev) site with course content on Karabiner/KM/NextJS/WikiManagement/.. in similar way to what [Josh](https://twitter.com/JoshWComeau) has done with his course. Hopefully that will be something that people will buy, I will do my best to pack as much knowledge as I can into it and make it worth it's money.
+Finish up [CSS course](https://css-for-js.dev). Release my site with course content on Karabiner/KM/NextJS/WikiManagement/.. in similar way to what [Josh](https://twitter.com/JoshWComeau) has done with his course. Hopefully that will be something that people will buy, I will do my best to pack as much knowledge as I can into it and make it worth it's money.
 
 And after that, focus on LA. I need the money from that course to push me forward to building an MVP of LA that people can buy too. Those are the goals.
 

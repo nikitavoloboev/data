@@ -28,3 +28,5 @@
 - [Digital signal processing (DSP) consulting](https://www.johndcook.com/blog/digital-signal-processing-and-time-series-analysis/) ([Twitter](https://twitter.com/DSP_fact))
 - [DSP.js](https://github.com/corbanbrook/dsp.js) - Digital Signal Processing for JavaScript.
 - [AutoDSP](https://github.com/jmcasebeer/autodsp) - Train custom adaptive filter optimizers without hand tuning or extra labels.
+- [Control mechanisms to the U-Net architecture for doing multiple source separation instruments](https://github.com/gabolsgabs/cunet)
+- [Soundpipe](https://github.com/PaulBatchelor/Soundpipe) - Lightweight music DSP library written in C.

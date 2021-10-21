@@ -24,6 +24,30 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [To code sign binaries ad hoc, run `codesign -s - <path_to_binary>`.](https://github.com/golang/go/issues/42684) This will give users a gatekeeper warning but they could still run the binary. To sign so users can run binary without warning, you need Apple developer account.
 - [I basically install nothing except GUI apps on my Mac. I don’t even have a bashrc (or any shell rc for that matter). I never open the terminal on Mac. I live in the VM for dev work, and use GUI apps like calendar, email, messages, browser, etc. on Mac.](https://twitter.com/mitchellh/status/1449151623092060164)
 
+## Code
+
+### macOS Defaults
+
+```bash
+# Remove dock animation. https://www.reddit.com/r/apple/comments/6xg9xq/tip_of_the_day_one_thing_i_cant_live_without_in/
+defaults write com.apple.dock autohide-delay -int 0
+defaults write com.apple.dock autohide-time-modifier -float 0.4
+killall Dock
+
+# Revert
+defaults delete com.apple.dock autohide-delay
+defaults delete com.apple.dock autohide-time-modifier
+killall Dock
+```
+
+```bash
+# Turn internal keyboard off. https://discussions.apple.com/thread/5044946?answerId=26556362022#26556362022
+sudo kextunload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/AppleUSBTCKeyboard.kext/
+
+# Turn internal keyboard on
+sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/AppleUSBTCKeyboard.kext/
+```
+
 ## Links
 
 - [macOS developer tutorials](https://www.raywenderlich.com/category/macos)
@@ -174,3 +198,6 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [macOS Security Compliance](https://github.com/usnistgov/macos_security) - Open source effort to provide a programmatic approach to generating security guidance.
 - [Apple M1 Exploration](https://drive.google.com/file/d/1WrMYCZMnhsGP4o3H33ioAUKL_bjuJSPt/view)
 - [WhatsNewViewController](https://github.com/Jonathan-Gander/WhatsNewViewController) - Nice way to present your new app features.
+- [macOS Cross toolchain for Linux and \*BSD](https://github.com/tpoechtrager/osxcross)
+- [Guide to moving to M1 mac (2021)](https://twitter.com/vvoyer/status/1451116237132533765)
+- [macOS Orb](https://github.com/CircleCI-Public/macos-orb) - Convenient tools and settings for utilizing MacOS on CircleCI.

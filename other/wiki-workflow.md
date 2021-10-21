@@ -209,6 +209,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Don't waste energy chasing fancy tools and methodologies without already having a simple workflow in place. Once you have a good idea of what works for you, then introduce tools designed to make your life easier.](https://news.ycombinator.com/item?id=24251068)
 - [Reading without taking notes is useless.](https://twitter.com/anthilemoon/status/1261991953593401346)
 - [Feed your personal wiki into GTP-3 to automatically answer emails/..](https://twitter.com/maccaw/status/1441773166079184896)
+- [People are obsessed with migrating their notes and todos from one tool to another. The obsession with meta work as an excuse for not doing actual work is such an odd one.](https://twitter.com/ninarstepanov/status/1450515900822523907)
 
 ## Links
 
@@ -403,3 +404,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Wiki.js](https://js.wiki/) - Modern, lightweight and powerful wiki app built on NodeJS. ([Code](https://github.com/Requarks/wiki))
 - [Gollum](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. ([HN](https://news.ycombinator.com/item?id=28730764))
 - [Meta](https://projectmeta.app/) - Note-taking tool for visual learning.
+- [Ikke](https://github.com/laffra/Ikke) - Index and search your personal data quickly and privately.

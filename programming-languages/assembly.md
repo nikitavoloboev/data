@@ -68,3 +68,5 @@
 - [Zen of Assembly Language (1990)](https://github.com/jagregory/abrash-zen-of-asm)
 - [x86 assembly doesn’t have to be scary (2018)](https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial) ([HN](https://news.ycombinator.com/item?id=28770907))
 - [Minias](https://github.com/andrewchambers/minias) - Mini x86-64 assembler for fun and learning. ([HN](https://news.ycombinator.com/item?id=28884768))
+- [Binja Arm64 Disassembler](https://github.com/yrp604/bad64)
+- [Rappel](https://github.com/yrp604/rappel) - Linux-based assembly REPL for x86, amd64, armv7, and armv8.

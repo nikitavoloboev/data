@@ -53,3 +53,5 @@
 - [Programming with evidence](https://github.com/umazalakain/agda-bcam) - Tutorial series introducing Agda.
 - [Agda Formalization](https://github.com/glangmead/formalization)
 - [Semisimplicial types in Agda](https://github.com/tcampion/Semisimplicial)
+- [A Type and Scope Safe Universe of Syntaxes with Binding: Their Semantics and Proofs (2018)](https://gallais.github.io/pdf/icfp18.pdf) ([Agda Library](https://github.com/gallais/generic-syntax))
+- [Tic Tac Toe, formalized in Agda](https://github.com/TOTBWF/agda-tic-tac-toe)

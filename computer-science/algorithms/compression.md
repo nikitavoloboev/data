@@ -73,3 +73,5 @@
 - [Neural Network Compression Framework (NNCF)](https://github.com/openvinotoolkit/nncf) - Provides a suite of advanced algorithms for Neural Networks inference optimization in OpenVINO with minimal accuracy drop.
 - [libdeflate](https://github.com/ebiggers/libdeflate) - Heavily optimized library for DEFLATE/zlib/gzip compression and decompression.
 - [sltar](https://github.com/Gottox/sltar) - Minimal implementation of tar.
+- [Box](https://github.com/bbqsrc/box) - Open Standard Archive Format, akin to zip or 7z but without the legacy baggage.
+- [Box in D](https://github.com/gecko0307/box) - Simple archive format with UTF-8 filenames.

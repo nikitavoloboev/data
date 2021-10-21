@@ -80,3 +80,5 @@
 - [Faster File Distribution with HDFS and S3 (2019)](https://tech.marksblogg.com/faster-file-distribution-hadoop-hdfs-s3.html)
 - [LuminS](https://github.com/wchang22/LuminS) - Fast and reliable alternative to rsync for synchronizing local files.
 - [Using rclone for Cloud to Cloud Transfer](https://www.rsync.net/resources/howto/rclone.html)
+- [Ubercopy](https://github.com/jasonwhite/ubercopy) - Quickly and intelligently copies files based on a generated list.
+- [Bindle](https://github.com/deislabs/bindle) - Object Storage for Collections.

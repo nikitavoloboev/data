@@ -46,6 +46,7 @@
 - [SymbolicRegression.jl](https://github.com/MilesCranmer/SymbolicRegression.jl) - Distributed High-Performance symbolic regression in Julia.
 - [NeuralPDE](https://github.com/SciML/NeuralPDE.jl) - Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations for Scientific Machine Learning (SciML) accelerated simulation.
 - [SweepContractor.jl](https://github.com/chubbc/SweepContractor.jl) - Julia package for the contraction of tensor networks using the sweep-line-based contraction algorithm.
+- [CellMLToolkit.jl](https://github.com/SciML/CellMLToolkit.jl) - Julia library that connects CellML models to the Scientific Julia ecosystem.
 
 ## Math
 
@@ -124,6 +125,7 @@
 
 - [Genie](https://github.com/GenieFramework/Genie.jl) - Highly productive Julia web framework. ([Docs](https://genieframework.github.io/Genie.jl/dev/))
 - [Elixir for AWS Lambda](https://github.com/amolenaar/elixir_lambda)
+- [Diana.jl](https://github.com/neomatrixcode/Diana.jl) - GraphQL for Julia.
 
 ## Test
 
@@ -308,6 +310,8 @@
 - [Thrift.jl](https://github.com/tanmaykm/Thrift.jl) - Thrift for Julia.
 - [Graphs](https://github.com/JuliaGraphs/Graphs.jl) - Optimized graphs package for Julia.
 - [ZipFile](https://github.com/fhs/ZipFile.jl) - Read/Write ZIP archives in Julia.
+- [Manifolds.jl](https://github.com/JuliaManifolds/Manifolds.jl) - Unified interface to define and use manifolds.
+- [AtomsBase](https://github.com/JuliaMolSim/AtomsBase.jl) - Abstract interface for representation of atomic geometries in Julia.
 
 ## Links
 

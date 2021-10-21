@@ -37,7 +37,7 @@
 - [Learning Elixir, Phoenix and LiveView: A Primer for Experienced Programmers (2021)](https://amattn.com/p/learning_elixir_phoenix_and_liveview_a_primer_for_experienced_programmers.html)
 - [Elixir and Phoenix after two years (2021)](https://nts.strzibny.name/elixir-phoenix-after-two-year/) ([HN](https://news.ycombinator.com/item?id=26702222))
 - [Phoenix LiveView Counter Tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
-- [Livebook](https://github.com/elixir-nx/livebook) - Interactive and collaborative code notebooks - made with Phoenix LiveView. ([HN](https://news.ycombinator.com/item?id=26853285))
+- [Livebook](https://livebook.dev/) - Write interactive & collaborative code notebooks in Elixir. ([HN](https://news.ycombinator.com/item?id=26853285)) ([Code](https://github.com/livebook-dev/livebook)) ([Web Code](https://github.com/livebook-dev/livebook_website)) ([Tweet](https://twitter.com/josevalim/status/1450460641601462282))
 - [PhoenixIntegration](https://github.com/boydm/phoenix_integration) - Set of lightweight, server-side integration test functions for Phoenix.
 - [Let's Build An Instagram Clone With The PETAL(Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView) Stack (2021)](https://dev.to/elixirprogrammer/let-s-build-an-instagram-clone-with-the-petal-phoenix-elixir-tailwindcss-alpinejs-liveview-stack-263n)
 - [Let’s build a real time chat application with Elixir and Phoenix LiveView (2021)](https://www.youtube.com/watch?v=_rTFZbvMfJA)

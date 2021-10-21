@@ -9,7 +9,7 @@
 - [End-User Probabilistic Programming paper by Microsoft Research](https://www.cs.uoregon.edu/research/summerschool/summer19/lecture_notes/DRAFT___Probabilistic_Programming_for_End_Users.pdf)
 - [monad-bayes](https://github.com/adscib/monad-bayes) - Library for probabilistic programming in Haskell.
 - [Funsor](https://github.com/pyro-ppl/funsor) - Functional tensors for probabilistic programming.
-- [Pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch.
+- [Pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch. ([Web](https://pyro.ai/))
 - [TensorFlow Probability](https://github.com/tensorflow/probability) - Library for probabilistic reasoning and statistical analysis in TensorFlow.
 - [Soss: Probabilistic Programming with Julia (2020)](https://notamonadtutorial.com/soss-probabilistic-programming-with-julia-6acc5add5549)
 - [NumPyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU.
@@ -29,3 +29,4 @@
 - [Gen](https://www.gen.dev/) - Open-source stack for generative modeling and probabilistic inference. ([Code](https://github.com/probcomp/Gen.jl))
 - [CLASP](https://www.gu.se/en/clasp) - Centre for linguistic theory and studies in probability, University of Gothenburg. ([GitHub](https://github.com/GU-CLASP))
 - [Daphne](https://github.com/plai-group/daphne) - Probabilistic programming compiler.
+- [FOPPL](https://github.com/rmascarenhas/foppl) - First-Order Probabilistic Programming Language.

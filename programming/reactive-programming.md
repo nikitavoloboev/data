@@ -17,3 +17,4 @@
 - [Kairo.js](https://github.com/3Shain/kairo) - Refined reactive programming pattern for web applications, the framework over frameworks.
 - [A Hands-on Introduction to Fine-Grained Reactivity (2021)](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
 - [FRP Guides](https://github.com/HeinrichApfelmus/frp-guides) - Tutorials, guidelines, examples, patterns and half-baked ideas on functional reactive programming (FRP).
+- [ShapeRankai](https://github.com/f5devcentral/shapeRank) - Targeted at data analytics, machine learning and reactive programming. Purely functional and statically typed. ([Talk](https://www.youtube.com/watch?v=vMO-CFlbYf8))

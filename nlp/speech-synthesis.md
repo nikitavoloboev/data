@@ -41,3 +41,6 @@
 - [TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis (2020)](https://arxiv.org/abs/2011.12206) ([Code](https://github.com/rishikksh20/TFGAN))
 - [EdiTTS: Score-based Editing for Controllable Text-to-Speech](https://github.com/neosapience/EdiTTS)
 - [PortaSpeech: Portable and High-Quality Generative Text-to-Speech (2021)](https://arxiv.org/abs/2109.15166) ([Code](https://github.com/keonlee9420/PortaSpeech))
+- [Speech Resynthesis from Discrete Disentangled Self-Supervised Representations (2021)](https://arxiv.org/abs/2104.00355) ([Code](https://github.com/facebookresearch/speech-resynthesis))
+- [Neural Lexicon Reader: Reduce Pronunciation Errors in End-to-end TTS by Leveraging External Textual Knowledge (2021)](https://arxiv.org/abs/2110.09698) ([Code](https://github.com/mutiann/neural-lexicon-reader))
+- [Grail-rs](https://github.com/Dimev/grail-rs) - Rust speech synth.

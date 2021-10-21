@@ -53,3 +53,4 @@
 - [Skia shaders in Compose Desktop (2021)](https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html) ([HN](https://news.ycombinator.com/item?id=28636087))
 - [Nuance](https://github.com/Gui-Yom/nuance) - Tool to run your shaders on the gpu. Also a good demo application for wgpu-rs.
 - [Unified Shader Programming in C++ (2021)](https://arxiv.org/abs/2109.14682) ([HN](https://news.ycombinator.com/item?id=28738750))
+- [Shader playground](https://github.com/gtibo/Shader-playground) - Uses VisualShader of Godot.

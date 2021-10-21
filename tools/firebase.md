@@ -43,3 +43,5 @@
 - [React Query Firebase](https://github.com/invertase/react-query-firebase) - React Query hooks for Firebase.
 - [Next.js serverless PWA with Firebase and React Hooks](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate)
 - [Firebase Admin Node.js SDK](https://github.com/firebase/firebase-admin-node)
+- [TS-Mock-Firebase](https://github.com/mindhivefi/ts-mock-firebase) - Mock for Firebase services on web and admin.
+- [Firebase Testing Quick starts](https://github.com/firebase/quickstart-testing)

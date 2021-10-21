@@ -86,3 +86,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [UXMD](https://github.com/lobau/uxmd) - Collaborative markdown for designing state flows.
 - [deno-gfm](https://github.com/lucacasonato/deno-gfm) - Server-side GitHub Flavored Markdown rendering for Deno.
 - [md-toc](https://github.com/zeusdeux/md-toc) - Generate a GitHub compatible table of contents from headings in a markdown file.
+- [markdown-link-check](https://github.com/tcort/markdown-link-check) - Checks that all of the hyperlinks in a markdown text to determine if they are alive or dead.

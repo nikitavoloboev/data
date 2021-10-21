@@ -165,3 +165,4 @@
 - [SwiftUI Previews: Validating views in different states (2021)](https://www.avanderlee.com/swiftui/previews-different-states/)
 - [Best way to learn SwiftUI? With interactive examples. (2021)](https://twitter.com/round/status/1442582320121323521)
 - [How do I customize the NavigationView in SwiftUI? (2021)](https://www.bigmountainstudio.com/community/public/posts/80041-how-do-i-customize-the-navigationview-in-swiftui)
+- [SwiftUI under the Hood: Fonts - Moving parts (2021)](https://movingparts.io/fonts-in-swiftui)

@@ -193,6 +193,7 @@
 - [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) - Powerful navigation library for iOS based on the coordinator pattern.
 - [SegementSlide](https://github.com/Jiar/SegementSlide) - Multi-tier UIScrollView nested scrolling solution.
 - [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS devices using BLE.
+- [Yoshi](https://github.com/prolificinteractive/Yoshi) - Convenient wrapper around the UI code that is often needed for displaying debug menus.
 
 ## macOS
 
@@ -380,6 +381,7 @@
 ## Graphics
 
 - [Swift Graphics](https://github.com/fwcd/swift-graphics) - Cross-platform 2D graphics library for Swift.
+- [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance & easy to use GIF engine.
 
 ## Other
 
@@ -788,6 +790,10 @@
 - [GAppAuth](https://github.com/elsesiy/GAppAuth) - Drop-in class to handle AppAuth with Google Services (iOS & macOS).
 - [Maestro](https://github.com/rpwachowski/maestro) - Build complex, conducted animations declaratively without manually managing state.
 - [Analytics-Swift](https://github.com/segmentio/analytics-swift) - Hassle-free way to add Segment analytics to your Swift app (iOS/tvOS/watchOS/macOS/Linux).
+- [SourceKitten](https://github.com/jpsim/SourceKitten) - Little framework and command line tool for interacting with SourceKit.
+- [SwiftExif](https://github.com/kradalby/SwiftExif) - Wrapping library for libexif and libiptcdata for Swift to provide a JPEG metadata extraction.
+- [JSONElement](https://github.com/rundfunk47/jsonelement) - Bridging the gap between untyped and typed when dealing with JSON data in Swift.
+- [ReMVVM](https://github.com/ReMVVM/ReMVVM) - Application architecture concept, marriage of Unidirectional Data Flow (Redux) with MVVM.
 
 ## Other (not lib)
 
@@ -818,3 +824,5 @@
 - [Swift-DocC](https://github.com/apple/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package. ([Release Article](https://swift.org/blog/swift-docc/))
 - [Swift-DocC-Render](https://github.com/apple/swift-docc-render) - Web Single Page Application (SPA) powered by Vue.js for creating rich code documentation websites.
 - [Kaitlin Mahar - Maintaining a Library in a Swiftly Moving Ecosystem (2019)](https://www.youtube.com/watch?v=9-fdbG9jNt4)
+- [Guise](https://github.com/ollieatkinson/Guise) - Generate Public API for Swift Frameworks/Libraries.
+- [CocoaPods Pod Linkage plugin](https://github.com/microsoft/cocoapods-pod-linkage) - CocoaPod plugin that allows you to mix how you link libraries. ([Tweet](https://twitter.com/parrots/status/1450879990661361669))

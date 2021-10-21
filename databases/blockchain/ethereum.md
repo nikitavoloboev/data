@@ -320,3 +320,11 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper) - Uniswap V2-styled router new pool sniping in under 250 LOC. ([Tweet](https://twitter.com/_anishagnihotri/status/1450004265381007360))
 - [PRBProxy](https://github.com/paulrberg/prb-proxy) - Proxy contract to compose transactions on behalf of the owner.
 - [Helios](https://github.com/taarushv/helios) - Tool built on-top of go-ethereum and the ELK stack to query and monitor the mempool.
+- [SLOAD2](https://github.com/0xsequence/sstore2) - Faster & cheaper contract key-value storage for Ethereum Contracts.
+- [Smart Batched Auctions](https://github.com/FrankieIsLost/smart-batched-auction) - Smart batch auctions follow the spankchain ICO model: during a bidding period, users are able to submit bids for a specificied quantity of tokens and price. ([Tweet](https://twitter.com/FrankieIsLost/status/1450490193136422918))
+- [Simple web3 starter with metamask and walletconnect](https://github.com/shivkanthb/web3-starter)
+- [Flashbots Resources](https://github.com/flashbots/pm)
+- [ethereum-multicall](https://github.com/joshstevens19/ethereum-multicall) - Ability to call many ethereum constant function calls in 1 JSONRPC request.
+- [Freely.Finance](https://freely.finance/) - Liquity protocol is controlled by nobody. All operations are algorithmic and fully automated using Ethereum smart contracts. ([Tweet](https://twitter.com/ErikVoorhees/status/1450905489793896448))
+- [zkEVM Specifications](https://github.com/appliedzkp/zkevm-specs) - Aims to define a validity snark proof for Ethereum transactions.
+- [Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)

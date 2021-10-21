@@ -102,3 +102,4 @@
 - [A Nobel Prize for the Credibility Revolution (2021)](https://marginalrevolution.com/marginalrevolution/2021/10/the-credibility-revolution-1.html)
 - [2021 Nobel Prize for Economics](https://www.nobelprize.org/prizes/economic-sciences/2021/popular-information/) ([HN](https://news.ycombinator.com/item?id=28830058))
 - [Institute for New Economic Thinking](https://www.ineteconomics.org/)
+- [Lift the minimum wage and employment still rises? How to anger the establishment and win a Nobel Prize (2021)](https://www.abc.net.au/news/2021-10-13/nobel-prize-in-economics-2021-david-card-minimum-wage/100531994) ([Reddit](https://www.reddit.com/r/Economics/comments/qbbilk/lift_the_minimum_wage_and_employment_still_rises/))

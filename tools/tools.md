@@ -246,6 +246,8 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 - [Precursor](https://precursorapp.com/) - Fast prototyping web app, makes collaboration easy. ([Code](https://github.com/PrecursorApp/precursor))
 - [Front](https://frontapp.com/) - Inbox for teams.
+- [CloudConvert](https://cloudconvert.com/) - Online file converter.
+- [Knock](https://knock.app/) - Reliable, managed API to turn user activity into product notifications. ([Twitter](https://twitter.com/knocklabs))
 - [Testimonial](https://testimonial.to/) - Collect video testimonials.
 - [unavatar.io](https://unavatar.io/) - Get unified user avatar from Twitter, GitHub, Intagram, Reddit, etc. ([Code](https://github.com/microlinkhq/unavatar))
 - [Code Bench](https://www.codebench.cloud/) - Platform to keep track of your benchmarks.
@@ -302,6 +304,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Gistlink](https://github.com/lukejacksonn/gistlink) - JavaScript sandbox environments that you can share via URL.
 - [Glide](https://www.glideapps.com/) - Create a mobile app from a Google Sheet in 5 minutes, for free.
 - [Gauguin](https://github.com/micheleriva/gauguin) - High performances Go server for generating open graph images dynamically.
+- [Livingdocs](https://livingdocs.io/) - Modern Digital Content Creation and Publishing System. ([GitHub](https://github.com/livingdocsIO))
 - [Namechk](https://namechk.com/) - Username, Domain, and Trademark Search.
 - [Changemap](https://changemap.co/) - Involve users and manage features from suggestion to changelog.
 - [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
@@ -310,6 +313,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [flowchart.fun](https://flowchart.fun/) - Generate Flowcharts from Text. ([Code](https://github.com/tone-row/flowchart-fun)) ([HN](https://news.ycombinator.com/item?id=26303784))
 - [Inverse](https://www.inverse.network/) - Lets you have discussions, take notes, and share knowledge across any app or page on the web.
 - [Replies](https://replies.io/) - Helps to reduce the effort required to process customer enquiries to a minimum. Numerous functions optimize the entire process - from receiving to resolving the request.
+- [Telegraph](https://telegra.ph/) - Edit Publish. ([Mirror](https://graph.org/)) ([Mirror 2](https://te.legra.ph/))
 - [Larder](https://larder.io/) - Bookmarking for developers. ([HN](https://news.ycombinator.com/item?id=23442165))
 - [Ready](https://ready.so/) - The calendar you need to meet.
 - [Diahook](https://www.diahook.com/) - Webhooks as a Service. ([HN](https://news.ycombinator.com/item?id=26399672))

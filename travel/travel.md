@@ -1,5 +1,7 @@
 # Travel
 
+I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=PLfO1QINjvak9KoBetr7ThGHVB2owBLH1C) travel vlog (it's in Russian). What's amazing is how he mixes in atmospheric music with nice edits of both the city and his standup and voice audios of people he talked to.
+
 ## Notes
 
 - Visiting subreddits of cities/countries you are going to as well as the respective `AskA..` communities is great way to know about a place. [AskARussian](https://www.reddit.com/r/AskARussian/) is one such subreddit, it links to more similar subreddits in the sidebar.
@@ -90,3 +92,4 @@
 - [Lonely Planet](https://www.lonelyplanet.com/) - Travel Guides & Travel Information - Lonely Planet.
 - [The longest possible train travel in the world](https://www.reddit.com/r/MapPorn/comments/po1ggb/the_longest_possible_train_travel_in_the_world/)
 - [Ask HN: What is your story of immigrating to another country? (2021)](https://news.ycombinator.com/item?id=28808468)
+- [Rome2rio](https://www.rome2rio.com/) - Discover how to get anywhere.

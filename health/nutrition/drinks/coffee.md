@@ -54,3 +54,4 @@
 - [Chazzano Coffee Roasters](https://chazzano-coffee-roasters.square.site/)
 - [Which country has best coffee? (2021)](https://twitter.com/PaulSkallas/status/1445898250783891456)
 - [Открыл кофейню в деревне у границ России: #монолог австрийского оптимиста (2020)](https://www.youtube.com/watch?v=4Qqj0PnHIEI)
+- [Breville Barista Express Espresso Maker](https://www.gearpatrol.com/deals/a557390/breville-barista-express-espresso-machine-deal/) ([Tweet](https://twitter.com/einarvollset/status/1450325845097140227))

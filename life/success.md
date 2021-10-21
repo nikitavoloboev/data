@@ -47,6 +47,7 @@ Success comes from not giving up and doing what you love.
 - [Things that don’t get encouraged by traditional workplaces/managers, but are still important for you to practice: Identity/self-worth that's independent of work. Trusting your instincts. Boundaries. Boundaries. Boundaries.](https://twitter.com/jenistyping/status/1311858405439533056)
 - [Unhealed workplace trauma can manifest as: Irritability, paranoia. Anxiety, depression. Difficulty with feedback. Poor boundaries. People-pleasing. Intense fear of failure (or success). Being drawn to more toxic orgs/leaders. Chronic guilt/shame.](https://twitter.com/jenistyping/status/1441432244661411846)
 - [The times I've done the best work in my career are times I've been able to fully connect who I am with what I'm doing. For anyone who needs to hear it: it is career suicide to let your soul die a slow death by suppressing anything unique you can contribute.](https://twitter.com/jeanqasaur/status/1448786763636305923)
+- [Google’s greatest evil is grooming brilliant 22 year olds into becoming complacent careerists instead of ambitious founders who might one day compete with them.](https://twitter.com/justindross/status/1450686720584921088)
 
 ## Links
 

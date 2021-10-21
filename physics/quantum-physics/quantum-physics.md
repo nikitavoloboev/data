@@ -80,3 +80,4 @@
 - [What is Wave Particle Duality? (2020)](https://www.youtube.com/watch?v=k581_XpaTnU)
 - [The Golden Age of Quantum Physics (1927)](https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7) ([HN](https://news.ycombinator.com/item?id=28414005))
 - [What is the difference between quantum and thermal correlations? (2021)](https://www.youtube.com/watch?v=xPc7L_mDkeM)
+- [Lectures on quantum supreme matter (2021)](https://arxiv.org/abs/2110.00961)

@@ -15,7 +15,7 @@
 - [April](https://github.com/phantomics/april) - APL programming language (a subset thereof) compiling to Common Lisp. ([HN](https://news.ycombinator.com/item?id=22225136))
 - [APL a Day](https://www.sacrideo.us/tag/apl-a-day/)
 - [Ode to J](https://zserge.com/posts/j/)
-- [Is APL Dead? Not anymore (2020)](https://www.sacrideo.us/is-apl-dead/) ([HN](https://news.ycombinator.com/item?id=23055793))
+- [Is APL Dead? Not anymore (2020)](https://www.sacrideo.us/is-apl-dead/) ([HN](https://news.ycombinator.com/item?id=23055793)) ([HN](https://news.ycombinator.com/item?id=28929709))
 - [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm) ([Lobsters](https://lobste.rs/s/niyjrs/dictionary_apl)) ([PDF](http://www.softwarepreservation.org/projects/apl/Books/ADICTIONARYOFAPL))
 - [APL Since 1978](https://dl.acm.org/doi/pdf/10.1145/3386319) ([HN](https://news.ycombinator.com/item?id=23510433))
 - [APL In Exposition by K. E. Iverson (1972)](http://www.softwarepreservation.org/projects/apl/Papers/197201_APL%20In%20Exposition_320-3010.pdf)

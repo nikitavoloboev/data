@@ -80,3 +80,7 @@
 - [Practical Makefiles, by example (2020)](http://nuclear.mutantstargoat.com/articles/make/)
 - [Learning CMake](https://github.com/Akagi201/learning-cmake) - Simple CMake tutorial project which contains some different scenarios.
 - [Forge](https://github.com/Shinmera/forge) - General, modular build system.
+- [Ekam](https://github.com/capnproto/ekam) - Build system which automatically figures out what to build and how to build it purely based on the source code.
+- [Button](https://github.com/jasonwhite/button-rs) - Low-level back end build system.
+- [Nx](https://nx.dev/) - Smart, Extensible Build Framework. ([Code](https://github.com/nrwl/nx)) ([Example](https://github.com/nrwl/nx-examples)) ([Console](https://github.com/nrwl/nx-console))
+- [Premake](https://github.com/premake/premake-core) - Powerfully simple build configuration. ([Web](https://premake.github.io/)) ([Tweet](https://twitter.com/KageKirin/status/1450677219014021121))

@@ -70,3 +70,4 @@
 - [Prisma Documentation Generator](https://github.com/pantharshit00/prisma-docs-generator) - Automatically generate a reference from your Prisma Schema.
 - [Prisma project with Nix](https://github.com/pimeys/nix-prisma-example)
 - [Upload and display images using Prisma (2021)](https://mediajams.dev/post/upload-and-display-images-using-prisma)
+- [Prisma e2e Tests](https://github.com/prisma/e2e-tests) - Continuously tests Prisma Client on various operating systems, frameworks and platforms.

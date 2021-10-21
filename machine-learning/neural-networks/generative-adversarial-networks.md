@@ -136,3 +136,6 @@
 - [PyTorch Pretrained GANs](https://github.com/lukemelas/pytorch-pretrained-gans) - StyleGAN2, BigGAN, BigBiGAN, SAGAN, SNGAN, SelfCondGAN, and more.
 - [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (2016)](https://arxiv.org/abs/1609.04802) ([Code](https://github.com/twtygqyy/pytorch-SRResNet))
 - [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/) ([Code](https://github.com/NVlabs/stylegan3)) ([HN](https://news.ycombinator.com/item?id=28833213))
+- [Taming Visually Guided Sound Generation (2021)](https://iashin.ai/SpecVQGAN) ([Code](https://github.com/v-iashin/SpecVQGAN))
+- [TecoGAN-PyTorch](https://github.com/skycrapers/TecoGAN-PyTorch) - PyTorch Reimplementation of TecoGAN: Temporally Coherent GAN for Video Super-Resolution.
+- [Chunked Autoregressive GAN (CARGAN)](https://github.com/descriptinc/cargan)

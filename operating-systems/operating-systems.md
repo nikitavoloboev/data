@@ -115,6 +115,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Singularity](https://codingkaiser.blog/2021/07/23/operating-systems-are-more-exciting-than-you-think/) - Microsoft’s Experimental OS. ([HN](https://news.ycombinator.com/item?id=28816876))
 - [Tupai Kernel](https://github.com/tupai-os/kernel)
 - [Deus](https://github.com/tupai-os/deus) - Portable kernel written in Rust.
+- [Funk](https://github.com/smimram/funk) - Functional kernel written in OCaml.
 
 ## Notes
 
@@ -269,3 +270,6 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [OSv Unikernel — Optimizing Guest OS to Run Stateless and Serverless Apps in the Cloud (2021)](https://www.p99conf.io/session/osv-unikernel-optimizing-guest-os-to-run-stateless-and-serverless-apps-in-the-cloud/) ([HN](https://news.ycombinator.com/item?id=28812305))
 - [Bootstrapping a kernel with UEFI using Zig](https://github.com/stakach/uefi-bootstrap)
 - [xsys](https://github.com/rsms/xsys) - Well-defined system API for abstracting the OS platform.
+- [pylddwrap](https://github.com/Parquery/pylddwrap) - Python 3 wrapper around ldd \*nix utility to determine shared libraries of a program.
+- [Pilot: An Operating System for a Personal Computer (1980)](https://courses.cs.washington.edu/courses/cse550/20au/papers/CSE550.Pilot.pdf) ([HN](https://news.ycombinator.com/item?id=28920913))
+- [Rust OS comparison](https://github.com/flosse/rust-os-comparison) - Comparison of operating systems written in Rust.

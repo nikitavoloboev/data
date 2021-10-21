@@ -595,3 +595,7 @@
 - [Building Cloud-native applications with Rust - the good, the bad and the ugly - Luca Palmieri (2021)](https://www.youtube.com/watch?v=p4zjgU4RSYM)
 - [Rust Option 30x more efficient to return than Java Optional (2021)](https://pkolaczk.github.io/overhead-of-optional/) ([HN](https://news.ycombinator.com/item?id=28887908)) ([Reddit](https://www.reddit.com/r/rust/comments/q99eqe/rust_option_30x_more_efficient_to_return_than/))
 - [Rust Adventure](https://www.rustadventure.dev/) - Learn to build reliable and efficient software in Rust. ([Tweet](https://twitter.com/chrisbiscardi/status/1450082301371568133))
+- [Structuring, testing and debugging procedural macro crates (2021)](https://ferrous-systems.com/blog/testing-proc-macros/)
+- [Builder pattern in Rust (2021)](https://www.greyblake.com/blog/2021-10-19-builder-pattern-in-rust/) ([HN](https://news.ycombinator.com/item?id=28930083)) ([Lobsters](https://lobste.rs/s/v1krlk/builder_pattern_rust))
+- [What is Rust written in? (2021)](https://www.reddit.com/r/rust/comments/qbv2l8/what_is_rust_written_in/)
+- [WebApp.rs](https://github.com/saschagrunert/webapp.rs) - Web application completely written in Rust.

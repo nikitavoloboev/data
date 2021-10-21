@@ -48,7 +48,7 @@
 - [GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python.
 - [Chaospy](https://github.com/jonathf/chaospy) - Toolbox for performing uncertainty quantification.
 - [Categorical Encoding Methods](https://github.com/scikit-learn-contrib/categorical-encoding) - Library of sklearn compatible categorical variable encoders.
-- [Pyodide](https://github.com/iodide-project/pyodide) - Python scientific stack, compiled to WebAssembly.
+- [Pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly. ([Docs](https://pyodide.org/en/stable/)) ([Tweet](https://twitter.com/DynamicWebPaige/status/1449235466809589767))
 - [AtsPy](https://github.com/firmai/atspy) - Automated Time Series Models in Python.
 - [iterative-stratification](https://github.com/trent-b/iterative-stratification) - scikit-learn cross validators for iterative stratification of multilabel data.
 - [PyMeasure](https://github.com/ralph-group/pymeasure) - Scientific measurement library for instruments, experiments, and live-plotting.
@@ -106,7 +106,7 @@
 
 ## DB
 
-- [GINO](https://github.com/python-gino/gino) - Not ORM - is a lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
+- [GINO](https://github.com/python-gino/gino) - Not ORM - is a lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio. ([Web](https://python-gino.org/))
 - [SQLModel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) - Python SQL Toolkit and Object Relational Mapper.
 - [sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy.
@@ -518,6 +518,9 @@
 - [Desktop Notifier](https://github.com/SamSchott/desktop-notifier) - Python library for cross-platform desktop notifications.
 - [Pyro 5](https://github.com/irmen/Pyro5) - Python remote objects for modern python versions.
 - [PyNNDescent](https://github.com/lmcinnes/pynndescent) - Python nearest neighbor descent for approximate nearest neighbors.
+- [Boxes.py](https://github.com/florianfesti/boxes) - Laser cutting boxes and more.
+- [Sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Provides a bridge between Scikit-Learn's machine learning methods and pandas-style Data Frames.
+- [Mau](https://github.com/Project-Mau/mau) - Lightweight markup language heavily inspired by AsciiDoc, Asciidoctor and Markdown.
 
 ## Links
 
@@ -557,3 +560,5 @@
 - [Writing Python Extensions in Assembly (2020)](https://tonybaloney.github.io/posts/extending-python-with-assembly.html) ([HN](https://news.ycombinator.com/item?id=28702670))
 - [Pip vs Conda: an in-depth comparison of Python’s two packaging systems (2021)](https://pythonspeed.com/articles/conda-vs-pip/)
 - [packaging](https://github.com/pypa/packaging) - Core utilities for Python packages. ([Docs](https://packaging.pypa.io/en/latest/))
+- [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder. ([Docs](https://virtualenv.pypa.io/en/latest/))
+- [PyPI Data](https://github.com/sethmlarson/pypi-data) - Mostly up-to-date data about almost every package on PyPI.

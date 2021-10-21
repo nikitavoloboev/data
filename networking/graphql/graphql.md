@@ -66,7 +66,6 @@
 - [Graphile Starter](https://github.com/graphile/starter) - Opinionated quick-start with pre-built user account system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. ([Web](https://graphile-starter.herokuapp.com/))
 - [Designing GraphQL Schemas (2019)](https://egghead.io/courses/designing-graphql-schemas-99db)
 - [graphql-santa](https://github.com/prisma-labs/graphql-santa) - GraphQL API framework. It takes a code-first approach and brings together a set of tools that provide robust type safety so that if your app compiles, you have a high degree of confidence that it works.
-- [Caliban](https://github.com/ghostdogpr/caliban) - Purely functional library for creating GraphQL backends in Scala.
 - [GraphQL JIT](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler.
 - [Herm](https://www.herm.dev/) - Free online workshop on everything you need to build fullstack GraphQL apps with Hasura, Next.js, and Serverless.
 - [GraphQL Tooling, Today & Tomorrow, Sean Grove, Founder @ OneGraph (2019)](https://www.youtube.com/watch?v=gAjQ1mg614o)
@@ -247,3 +246,7 @@
 - [GraphQL Rust Demo](https://github.com/rkudryashov/graphql-rust-demo) ([Article](https://romankudryashov.com/blog/2020/12/graphql-rust/))
 - [GraphQL at PayPal: An Adoption Story (2021)](https://medium.com/paypal-tech/graphql-at-paypal-an-adoption-story-b7e01175f2b7) ([Tweet](https://twitter.com/theworstdev/status/1450216673491968009))
 - [supagraphql](https://github.com/dthyresson/supagraphql) - GraphQL server using Supabase, GraphQL Helix, Envelop and Fastify.
+- [Apollo Server Vercel](https://github.com/Saeris/apollo-server-vercel) - Production-ready Node.js GraphQL server for Vercel Serverless Functions.
+- [Modeling GraphQL Mutations (2018)](https://techblog.commercetools.com/modeling-graphql-mutations-52d4369f73b1)
+- [graphql-schema-linter](https://github.com/cjoudrey/graphql-schema-linter) - Validate GraphQL schema definitions against a set of rules.
+- [Why GraphQL Is Perfect as Data Layer for Microservices (2021)](https://stepzen.com/blog/why-graphql-is-perfect-as-data-layer-for-microservices)

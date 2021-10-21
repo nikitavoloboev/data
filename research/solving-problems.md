@@ -86,3 +86,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Decomplication: How to Find Simple Solutions to Hard Problems (2016)](https://www.nateliason.com/blog/decomplication)
 - [Focused and Diffuse: Two Modes of Thinking (2019)](https://fs.blog/2019/10/focused-diffuse-thinking/) ([Tweet](https://twitter.com/housecor/status/1449731674800013319))
 - [Getting Unstuck (2021)](https://www.kevinlondon.com/2021/10/14/asking-for-help.html)
+- [How to think like a detective (2021)](https://psyche.co/guides/how-to-solve-problems-by-thinking-like-a-detective) ([HN](https://news.ycombinator.com/item?id=28902211))

@@ -18,3 +18,6 @@
 - [Jest Test Explorer for Visual Studio Code](https://github.com/kavod-io/vscode-jest-test-adapter) - Run your Jest tests using the Test Explorer UI.
 - [Kont](https://github.com/prisma-labs/kont) - Library for building contextual data for Jest tests. ([Tweet](https://twitter.com/JasonKuhrt/status/1444361957373583361))
 - [swc/jest](https://github.com/swc-project/jest) - swc binding for the jest.
+- [Jest Playwright](https://github.com/playwright-community/jest-playwright) - Running tests using Jest & Playwright.
+- [jest-runner-tsd](https://github.com/jest-community/jest-runner-tsd) - Jest runner to test typescript typings.
+- [Unhandled Async Calls Cause Flaky Jest Tests (2021)](https://www.dariacaraway.com/blog/jest-async-flakes)

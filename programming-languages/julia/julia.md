@@ -96,3 +96,4 @@
 - [Julia Enhancement Proposals](https://github.com/JuliaLang/Juleps)
 - [Julia Data Science Book](https://juliadatascience.io/) ([Code](https://github.com/JuliaDataScience/JuliaDataScience))
 - [New features coming in Julia 1.7 (2021)](https://lwn.net/SubscriberLink/871486/e4ae97b79d72bb25/) ([HN](https://news.ycombinator.com/item?id=28753182))
+- [SciMLTutorials.jl](https://github.com/SciML/SciMLTutorials.jl) - Tutorials for Scientific Machine Learning and Differential Equations. ([Web](https://tutorials.sciml.ai/))

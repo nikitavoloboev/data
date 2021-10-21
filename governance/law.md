@@ -33,3 +33,4 @@
 - [Day in my Life as a Corporate Lawyer (2021)](https://www.youtube.com/watch?v=HjZ9U9DGqW8)
 - [The Diversity of International Law (2009)](https://brill.com/view/title/18005)
 - [Open Terms Archive](https://www.opentermsarchive.org/en) - Follow changes to terms of service. ([HN](https://news.ycombinator.com/item?id=28006249))
+- [Was Google Earth Stolen? (2021)](https://avibarzeev.medium.com/was-google-earth-stolen-7d1b821e589b) ([HN](https://news.ycombinator.com/item?id=28913378))

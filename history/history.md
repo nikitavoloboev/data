@@ -145,3 +145,5 @@
 - [Why are old things beautiful and new things ugly? (2015)](https://carcinisation.com/2015/04/01/the-fifteen-fundamental-properties/) ([Tweet](https://twitter.com/literalbanana/status/1445784214838730758))
 - [Trends and fluctuations in the severity of interstate wars (2018)](https://www.science.org/doi/10.1126/sciadv.aao3580)
 - [«Отец кристаллов», на долгие годы забытый на родине: история польского учёного, ускорившего цифровую революцию (2021)](https://tjournal.ru/stories/451043-otec-kristallov-na-dolgie-gody-zabytyy-na-rodine-istoriya-polskogo-uchenogo-uskorivshego-cifrovuyu-revolyuciyu)
+- [Human History Gets a Rewrite (2021)](https://www.theatlantic.com/magazine/archive/2021/11/graeber-wengrow-dawn-of-everything-history-humanity/620177/) ([HN](https://news.ycombinator.com/item?id=28908960))
+- [Evidence for European presence in the Americas in AD 1021](https://www.nature.com/articles/s41586-021-03972-8) ([HN](https://news.ycombinator.com/item?id=28934530)) ([Reddit](https://www.reddit.com/r/science/comments/qc3xn7/vikings_discovered_america_500_years_before/))

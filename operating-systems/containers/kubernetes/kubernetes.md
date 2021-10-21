@@ -26,7 +26,7 @@
 - [Nix Kubernetes](https://github.com/xtruder/nix-kubernetes) - Kubernetes deployment manager written in Nix.
 - [Knative Serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute.
 - [Rancher Kubernetes](https://rancher.com/kubernetes/) - Complete container management platform. Makes it easy to run Kubernetes everywhere. ([Code](https://github.com/rancher/rancher))
-- [OpenShift](https://www.openshift.com/)
+- [OpenShift](https://www.openshift.com/) - Enterprise-ready Kubernetes container platform with full-stack automated operations. ([GitHub](https://github.com/openshift)) ([assisted-service](https://github.com/openshift/assisted-service))
 - [Portainer](https://portainer.io) - Lighter than Rancher (for Docker).
 - [Kubernetes 101 (2018)](https://www.stavros.io/posts/kubernetes-101/)
 - [node-problem-detector](https://github.com/kubernetes/node-problem-detector) - Aims to make various node problems visible to the upstream layers in cluster management stack.
@@ -293,7 +293,7 @@
 - [Image Builder](https://github.com/kubernetes-sigs/image-builder) - Cross provider Kubernetes image building utility.
 - [Kubernetes Template Project](https://github.com/kubernetes/kubernetes-template-project)
 - [kube-vip](https://github.com/plunder-app/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer.
-- [Akri](https://github.com/deislabs/akri) - Kubernetes Resource Interface for the Edge.
+- [Akri](https://github.com/deislabs/akri) - Kubernetes Resource Interface for the Edge. ([Akri a Year Later](https://deislabs.io/posts/akri-a-year-later/))
 - [KubeEdge](https://kubeedge.io/en/) - Kubernetes Native Edge Computing Framework. ([Code](https://github.com/kubeedge/kubeedge))
 - [Picking a Kubernetes Orchestrator: Airflow, Argo, and Prefect (2020)](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b) ([HN](https://news.ycombinator.com/item?id=25455896))
 - [Operator SDK](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. ([Web](https://sdk.operatorframework.io/))
@@ -368,7 +368,7 @@
 - [Exploring the Kubernetes API with Curl (2021)](https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html) ([HN](https://news.ycombinator.com/item?id=26800094))
 - [kubesql](https://github.com/Dentrax/kubesql) - Experimental tool to query K8s API using plain SQL.
 - [Tilt](https://tilt.dev/) - Multi-service dev environment for teams on Kubernetes. ([Code](https://github.com/tilt-dev/tilt))
-- [Datree](https://www.datree.io/) - Prevent Kubernetes misconfigurations. ([Code](https://github.com/datreeio/datree))
+- [Datree](https://www.datree.io/) - Prevent Kubernetes misconfigurations. ([Code](https://github.com/datreeio/datree)) ([HN](https://news.ycombinator.com/item?id=28918850))
 - [AutoK3s](https://github.com/cnrancher/autok3s) - Fully certified Kubernetes offering, it can replace the "full-fat" K8s in some cases.
 - [Scaling Kubernetes with Assurance at Pinterest (2021)](https://medium.com/pinterest-engineering/scaling-kubernetes-with-assurance-at-pinterest-a23f821168da)
 - [Admission Control](https://github.com/elithrar/admission-control) - Helpful micro-framework for writing Kubernetes Admission Controllers.
@@ -468,3 +468,9 @@
 - [nfproxy](https://github.com/sbezverk/nfproxy) - Provide high performance and scalable kubernetes proxy supporting both ipv4 and ipv6.
 - [Rancher Webhook](https://github.com/rancher/webhook) - Validating admission webhook and mutating admission webhook for Kubernetes.
 - [Kubernetes cleanup](https://github.com/onfido/k8s-cleanup)
+- [Civo Kubernetes Marketplace](https://github.com/civo/kubernetes-marketplace) - Marketplace of Kubernetes applications available for quick and easy installation in to Civo Kubernetes clusters.
+- [Sieve](https://github.com/sieve-project/sieve) - Automated, Distributed Systems Testing for Kubernetes Controllers.
+- [Armada](https://github.com/G-Research/armada) - Multi-cluster batch queuing system for high-throughput workloads on Kubernetes. ([Web](https://armadaproject.io/))
+- [Automatically generated secrets for Kubernetes](https://github.com/mittwald/kubernetes-secret-generator) - Kubernetes controller for automatically generating and updating secrets.
+- [Buildpacks in a Pod](https://github.com/imjasonh/buildpack-in-a-pod) - Demonstrates running CNCF Buildpacks in a regular Kubernetes Pod.
+- [Networking and Kubernetes Book (2021)](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/) ([Twitter](https://twitter.com/NetworkAndK8s))

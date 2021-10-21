@@ -41,3 +41,4 @@
 - [Kernel](https://www.kernel.com/) - Creates the interfaces and insights necessary to unlock the greatest scientific unknown: the inner workings of the human brain and mind.
 - [Low-cost brain computer interface for everyday use (2021)](https://www.researchgate.net/publication/354935534_Low-cost_brain_computer_interface_for_everyday_use) ([HN](https://news.ycombinator.com/item?id=28702983))
 - [Brain-Computer Interface, ADS1299 and STM32](https://github.com/Ildaron/ironbci)
+- [Neuralink and the Brain's Magical Future (2017)](https://waitbutwhy.com/2017/04/neuralink.html)

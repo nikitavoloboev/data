@@ -88,6 +88,8 @@
 - [Vega Strike Space Simulation Engine](https://github.com/vegastrike/Vega-Strike-Engine-Source) - Allows a player to explore, trade, and fight in the vast open space.
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS) - Lightweight 2D JavaScript game engine with a super fast WebGL rendering system.
 - [ezEngine](https://github.com/ezEngine/ezEngine) - Open source C++ game engine.
+- [Dagon](https://github.com/gecko0307/dagon) - 3D game engine for D. ([Web](https://gecko0307.github.io/dagon/))
+- [LambdaHack](https://github.com/LambdaHack/LambdaHack) - Haskell game engine library for roguelike dungeon crawlers.
 
 ## Physics engines
 

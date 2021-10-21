@@ -73,3 +73,5 @@
 - [Elm Optimize, Level 2](https://github.com/mdgriffith/elm-optimize-level-2)
 - [elm-ts-interop init Command, Codec and Pipeline APIs, and docs site (2021)](https://incrementalelm.com/elm-ts-interop-improvements/)
 - [Incremental Elm](https://incrementalelm.com/) - Stop Learning Elm Best Practices The Hard Way.
+- [Using Fission with Elm - Part 1: Using Vite to manage Elm applications (2021)](https://dev.to/xeticode/using-fission-with-elm-part-1-using-vite-to-manage-elm-applications-4ahk)
+- [Elm Full-Stack](https://github.com/elm-fullstack/elm-fullstack) - Tool for developing web services and full-stack web applications.

@@ -123,7 +123,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Bit](https://github.com/teambit/bit) - Platform for collaborating on components.
 - [tuf](https://github.com/theupdateframework/tuf) - Framework for securing software update systems.
 - [Collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
-- [Cue](https://github.com/cue-lang/cue) - Validate and define text-based and dynamic configuration. ([Web](https://cuelang.org/)) ([Cuetorials](https://cuetorials.com/)) ([Playground](https://cuelang.org/play/)) ([How CUE Wins (2021)](https://blog.cedriccharly.com/post/20210523-how-cue-wins/))
+- [Cue](https://github.com/cue-lang/cue) - Validate and define text-based and dynamic configuration. ([Web](https://cuelang.org/)) ([Cuetorials](https://cuetorials.com/)) ([Playground](https://cuelang.org/play/)) ([How CUE Wins (2021)](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)) ([HN](https://news.ycombinator.com/item?id=28915655))
 - [phonograph](https://github.com/Rich-Harris/phonograph) - Stream large audio files without the dreaded 'DOMException: play() can only be initiated by a user gesture' error.
 - [Source code to all the tutorials on emulator101.com](https://github.com/kpmiller/emulator101)
 - [Loss functions for image segmentation](https://github.com/JunMa11/SegLoss)
@@ -469,6 +469,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Glob Editor](https://globs-steveruiz.vercel.app/) - Globs-based vector editor. ([Code](https://github.com/steveruizok/globs))
 - [Awesome Forensics](https://github.com/cugu/awesome-forensics)
 - [DevRel Collective](https://devrelcollective.fun/) - Place forsharing information, resources, and encouragement among the Developer Relations community. ([Code](https://github.com/devrelcollective/devrelcollective.fun))
+- [Awesome DevRel](https://github.com/devrelcollective/awesome-devrel)
 - [Maze Generator in Go in WebAssembly](http://frigidriver.com/mazes/) ([Lobsters](https://lobste.rs/s/kwzuqn/maze_generator_go_webassembly))
 - [flowkit](https://flowkit.vercel.app/) - Simple online flow chart editor. ([Code](https://github.com/egoist/flowkit))
 - [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
@@ -535,3 +536,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [FMHYedit Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) ([Code](https://github.com/nbats/FMHYedit))
 - [My Experience with Leverage Research (2021)](https://medium.com/@zoecurzi/my-experience-with-leverage-research-17e96a8e540b) ([Tweet](https://twitter.com/CurziRose/status/1448067915375386628))
 - [Legitimacy Lost (2021)](https://li.substack.com/p/legitimacy-lost) ([Tweet](https://twitter.com/ljin18/status/1449440177190051849))
+- [Thing that everyone in your field knows and nobody in your industry talks about because it would lead to general chaos](https://twitter.com/mykola/status/1198719315589160960)

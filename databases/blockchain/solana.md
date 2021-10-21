@@ -102,3 +102,5 @@
 - [Alon](https://lithdew.github.io/alon/) - IDE which allows for developers to rapidly build, iterate, test, and deploy decentralized apps and assets on Solana right from their browser. ([Code](https://github.com/lithdew/alon))
 - [sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter) - Library to allow Solana dApps to use third-party wallets to sign transactions.
 - [Solana: How to send custom instructions via instruction data (2021)](https://dev.to/cogoo/solana-how-to-send-custom-instructions-via-instruction-data-4g9g)
+- [captain](https://github.com/saber-hq/captain) - Version control and key management for Solana programs.
+- [Solana CEO Advice on SOL staking (2021)](https://www.reddit.com/r/solana/comments/qch4cu/when_you_ask_for_tips_about_staking_and_the_ceo/)

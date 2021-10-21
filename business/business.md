@@ -44,6 +44,7 @@ Learning to build [startups](startups/startups.md).
 - [In corporate jobs, the best employees make their manager’s lives easier which encourages giving them more scope and responsibility. You get there by being autonomous instead of needing regular guidance, bringing solutions not problems and taking ownership when you don’t have to.](https://twitter.com/Carnage4Life/status/1408423307494400004)
 - [The moment you initiate a business relationship with anyone outside of your company, you should be registering it, as the contracts should be between the corporate entity and the vendor rather than you (personally) with the vendor.](https://www.reddit.com/r/SaaS/comments/oz8m6m/registering_a_company/)
 - [As a principal engineer, sometimes my title intimidates people (at my job). I see it when people are sharing ideas or code. I’m thinking of ways to tackle this, but wanted to share that your title may carry weight. What are you doing to build inclusive and equitable environments?](https://twitter.com/bryanl/status/1441441208321069060)
+- [40 hour workweek was established over a century ago. Since then, we've invented 5G networks, automation, 3D printing, AR/VR, and a computer that can fit in your pocket. Nearly all of the tools have changed, yet somehow people still think the way we work needs to stay the same.](https://twitter.com/stephsmithio/status/1433939023278456833)
 
 ## Links
 
@@ -109,9 +110,10 @@ Learning to build [startups](startups/startups.md).
 - [2013 Elon email to employees on why he wants to keep SpaceX private](https://twitter.com/TrungTPhan/status/1433992813444669445)
 - [As More Workers Go Solo, the Software Stack Is the New Firm (2021)](https://future.a16z.com/solo-workers-software-stack/)
 - [α-Indirect Control in Onion-like Networks (2021)](https://arxiv.org/abs/2109.07181v2) - Algorithm that detects the ultimate controlling owners of companies. ([Article](https://www.skoltech.ru/en/2021/09/new-tool-reveals-ultimate-owners-of-companies/)) ([HN](https://news.ycombinator.com/item?id=28688906))
-- [The secret to Cloudflare’s pace of Innovation (2021)](https://blog.cloudflare.com/the-secret-to-cloudflare-pace-of-innovation/)
+- [Cloudflare’s Pace of Innovation (2021)](https://blog.cloudflare.com/the-secret-to-cloudflare-pace-of-innovation/) ([HN](https://news.ycombinator.com/item?id=28943970))
 - [The Skill of Org Design (2021)](https://commoncog.com/blog/org-design-skill/) ([HN](https://news.ycombinator.com/item?id=28772033))
 - [Business Wire](https://www.businesswire.com/portal/site/home/) - Press release distribution, EDGAR filing, XBRL, regulatory filings.
 - [The Death and Birth of Technological Revolutions (2021)](https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/) ([HN](https://news.ycombinator.com/item?id=28839424)) ([Tweet](https://twitter.com/gordonbrander/status/1447975083469803523))
 - [Companies that started as spreadsheets (2021)](https://twitter.com/stephsmithio/status/1448784835477008396)
 - [Steve Jobs on Starting A Business](https://www.youtube.com/watch?v=kwkGX-PlTxs)
+- [trademarks](https://github.com/Denchick/trademarks) - Small service that helps to check if there was already a registered trademark.

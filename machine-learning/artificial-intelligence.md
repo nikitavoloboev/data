@@ -94,3 +94,5 @@
 - [Awesome Edge AI](https://github.com/rcmalli/awesome-edge-ai)
 - [ContinualAI](http://www.continualai.org/) - Non-profit Research Organization and Open Community on Continual Learning for AI. ([GitHub](https://github.com/ContinualAI))
 - [Resources for Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
+- [Responsible-AI-Widgets](https://github.com/microsoft/responsible-ai-widgets) - Responsible AI user interfaces for Fairlearn, interpret-community, and Error Analysis, as well as foundational building blocks that they rely on.
+- [Notes on Artificial Intelligence](http://frnsys.com/notes/ai/) ([Code](https://github.com/frnsys/ai_notes))

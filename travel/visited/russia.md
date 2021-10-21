@@ -1,6 +1,6 @@
 # Russia
 
-The number of crimes against humanity committed by [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies & jail existing dictators with all their helpers.
+The number of crimes against humanity committed by governments of [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against its citizens is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies & judge existing dictators with all their helpers accordingly.
 
 It's a travesty that citizen's taxes are are being stolen to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
 
@@ -37,6 +37,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Сейчас и элиты, и военные, и полицейские, и общество, и мировое сообщество знает, что Партия Путина - это партия меньшинства. А узнали мы эту информацию(именно убедительно узнали, чтобы всем и каждому можно доказать) благодаря выборам.](https://twitter.com/mironov_fm/status/1444316401871765504)
 - [К сожалению, тюрьма это ёбаная мясорубка ломающая психическое и физическое здоровье людей. Современные места заключения чудовищны по своему существу и должны быть реформированы.](https://twitter.com/kasablanka_03/status/1446516126364704788)
 - [Власть хочет править как Сталин, а жить как Абрамович.](https://www.youtube.com/watch?v=Id-nklB3eI8)
+- [Главная проблема людей "советской формации" довольно проста - это инфантилизм. Запретив частную собственность, экспериментаторы разрушили нормальный ход вещей. В итоге что главное у совков - виноваты все вокруг, нам все должны, а мы - люди маленькие, за нас решат.](https://twitter.com/maximov_vasily/status/1450570590297919492)
 
 ## Links
 
@@ -303,3 +304,10 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Особое мнение / Илья Новиков (2021)](https://www.youtube.com/watch?v=AJ2Q1PQpJ0w&t=286s)
 - [TJ](https://tjournal.ru/) - Новости интернета.
 - [Стагнация и накопительство. Владимир Милов о новом бюджете (2021)](https://vot-tak.tv/novosti/18-10-2021-byudzhet-milov/)
+- [Новая цифровая Россия](https://twitter.com/AA_Sergeev/status/1450076572191494147)
+- [Как хорошо вы знаете Россию?](https://motovskikh.ru/russia/)
+- [China-Russia axis (2021)](https://twitter.com/AlexGabuev/status/1450195682409816069) ([Tweet](https://twitter.com/leonidragozin/status/1450720094384963584))
+- [Движение Альтернатива](https://alternative.help/) ([TG](https://t.me/alternative_help/))
+- [Лучшее из русского рэпа (2021)](https://twitter.com/lotareva3/status/1450754441544671232)
+- [The Language of a Successful Dictator: How to Remain Popular Without Ending Repressions (2021)](https://www.ridl.io/en/the-language-of-a-successful-dictator-how-to-remain-popular-without-ending-repressions/)
+- [Ужасная Россия будущего. 10 страшных вещей, которые могут случиться с нашей страной (2021)](https://www.youtube.com/watch?v=9gXBCoUQWo8)

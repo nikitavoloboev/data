@@ -47,3 +47,4 @@
 - [Mosaic ML](https://www.mosaicml.com/) - Making ML Training Efficient. ([Tweet](https://twitter.com/mattocko/status/1448492976045363200))
 - [RecoEdge](https://github.com/NimbleEdge/RecoEdge) - Deploy recommendation engines with Edge Computing.
 - [MLRun](https://github.com/mlrun/mlrun) - Open-Source MLOps Orchestration Framework.
+- [PrimeHub](https://github.com/InfuseAI/primehub) - Toil-free multi-tenancy machine learning platform in your Kubernetes cluster. ([Docs](https://docs.primehub.io/))

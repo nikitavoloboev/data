@@ -91,3 +91,6 @@
 - [Implicit Heaps](https://apfelmus.nfshost.com/articles/implicit-heaps.html)
 - [Word-Aligned Bloom Filters (2021)](https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/) ([HN](https://news.ycombinator.com/item?id=28737910))
 - [Experimenting with column- and row-oriented data structures (2021)](https://datastation.multiprocess.io/blog/2021-10-18-experimenting-with-column-and-row-oriented-datastructures.html)
+- [Real time Editing of Ordered Sequences (2017)](https://www.figma.com/blog/realtime-editing-of-ordered-sequences/)
+- [Implementing Fractional Indexing (2020)](https://observablehq.com/@dgreensp/implementing-fractional-indexing) ([Tweet](https://twitter.com/tmcw/status/1450878278416441347))
+- [A Common-Sense Guide to Data Structures and Algorithms Book (2017)](https://www.goodreads.com/en/book/show/34695800)

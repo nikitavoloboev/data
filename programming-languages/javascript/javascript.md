@@ -13,6 +13,38 @@
 - [JS proxy can observe a nested object for changes made to it. That means there's none of the traditional selecting or diffing.](https://twitter.com/0xca0a/status/1328756186288713730)
 - [One optimization that turned out well: storing JavaScript strings as either UTF-16 or UTF-8, depending on whats inside. It turns out this is also what JavaScript engines do, so it makes converting from a string in a JavaScript VM to a string in Bun's AST fast.](https://twitter.com/jarredsumner/status/1441876861106024449)
 
+## Code
+
+```js
+// Click on buttons in a page
+// https://twitter.com/brian_lovin/status/1240662440666222597
+
+let buttons = document.getElementsByClassName("unfollow");
+
+for (let [i, v] of [...buttons].entries()) {
+  setTimeout(() => {
+    buttons[i].click();
+  }, i * 500);
+}
+```
+
+```js
+// Go to specific URL
+window.location.href = "https://www.google.com";
+```
+
+```js
+// Speed up video playback. Put in console of open page.
+$("video").playbackRate = 2;
+```
+
+```js
+// click on all the expand buttons on https://github.com/
+var inputs = document.querySelectorAll("svg[aria-label=Expand]");
+var buttons = Array.from(inputs).map((e) => e.parentElement.parentElement);
+buttons.forEach((b) => b.click());
+```
+
 ## Links
 
 - [JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)

@@ -330,6 +330,7 @@
 - [Preferred tools and tech for running a startup](https://github.com/tashburn/stack)
 - [The SaaS Metrics That Matter (2021)](https://sacks.substack.com/p/the-saas-metrics-that-matter) ([Tweet](https://twitter.com/DavidSacks/status/1450147042429321219)) ([HN](https://news.ycombinator.com/item?id=28914470))
 - [Dividing equity between founders (2009)](https://cdixon.org/2009/08/23/dividing-equity-between-founders)
+- [How to Create a SaaS and Compete with the Big Players as a Solo Founder (2021)](https://www.mikealche.com/product-development/an-underdog-guide-to-creating-alternative-in-markets) ([HN](https://news.ycombinator.com/item?id=28917184))
 
 ## Images
 

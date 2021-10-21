@@ -79,3 +79,6 @@
 - [The Off-Grid Laws of Every State in America (2021)](https://www.primalsurvivor.net/living-off-grid-legal/)
 - [Top 1% of U.S. Earners Now Hold More Wealth Than All of the Middle Class (2021)](https://www.bloomberg.com/news/articles/2021-10-08/top-1-earners-hold-more-wealth-than-the-u-s-middle-class) ([Reddit](https://www.reddit.com/r/Economics/comments/q5dub2/top_1_of_us_earners_now_hold_more_wealth_than_all/)) ([HN](https://news.ycombinator.com/item?id=28826646))
 - [Why America Imploded. What Americans Still Don’t Understand. (2021)](https://eand.co/why-america-imploded-d52db893acc6) ([Tweet](https://twitter.com/smdiehl/status/1447838693839024132))
+- [When 10 major S.F. Bay Area transportation projects will be done (2021)](https://www.sfchronicle.com/projects/2021/sf-bay-area-transportation-projects/) ([Tweet](https://twitter.com/chrisarvinsf/status/1450835293209194507))
+- [Transit Recovery](https://transitrecovery.com/) - Track restoration of transit service and ridership across the U.S.
+- [List of US amendments that were proposed but never ratified](https://twitter.com/radicalpragmat1/status/1450514588005457920)

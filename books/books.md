@@ -236,6 +236,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The Most Influential Sci-Fi Books Of All Time (2021)](https://bookriot.com/the-most-influential-sci-fi-books-of-all-time/)
 - [Краткое содержание: лучшие новые рассказы на русском (2021)](https://daily.afisha.ru/specials/21348-kratkoe-soderzhanie-luchshie-novye-rasskazy-na-russkom-v-specproekte-afishi-daily/)
 - [Books you can’t put down (page-turners)? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qasbyt/books_you_cant_put_down_pageturners/)
+- [Josh Wolfe's bookshelf](https://twitter.com/wolfejosh/status/1449731287594541065)
+- [What are your favorite books under 250 pages? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qc2r4i/what_are_your_favorite_books_under_250_pages/)
 
 ## Notes
 
@@ -243,6 +245,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Kindle changed the way we read books and then… stopped there. I want social highlights, notes, flash cards, and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)](https://twitter.com/Altimor/status/1003408586553294856)
 - [Some day you will be old enough to start reading fairy tales again.](https://www.reddit.com/r/RationalPsychonaut/comments/n2p74z/i_wish_great_geniuses_physicists_scientists_etc/)
 - [Read what you love until you love to read.](https://twitter.com/id_aa_carmack/status/1445424833181925376)
+- [I used to read a lot of old books growing up, and they were all different. And... being extremely online and reading contemporary things all day does have a sort of tunnel-vision effect. The way we live, the way we think, the way we talk. Go read a really old book from a different time, from a different place.](https://twitter.com/visakanv/status/1450889450532134917)
 
 ## Links
 
