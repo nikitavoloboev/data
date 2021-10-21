@@ -22,3 +22,4 @@
 - [apollo-augmented-hooks](https://github.com/appmotion/apollo-augmented-hooks) - Drop-in replacements for @apollo/client's useQuery, useMutation and useSubscription hooks with reduced overhead and additional functionality.
 - [Server-Side Caching with Apollo GraphQL (2021)](https://garrit.xyz/posts/2021-10-04-server-side-caching-with-apollo-graphql)
 - [apollo-rs](https://github.com/apollographql/apollo-rs) - Spec compliant GraphQL Tools in Rust. ([Tweet](https://twitter.com/_lrlna/status/1448643017842122759))
+- [SQLDataSource](https://github.com/cvburgess/SQLDataSource) - SQL DataSource for Apollo GraphQL projects.
