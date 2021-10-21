@@ -41,3 +41,4 @@ In short, it can be summed down to this:
 - [How to Ask Useful Questions](https://joshkaufman.net/how-to-ask-useful-questions/)
 - [Effectively asking for help](https://nick.groenen.me/posts/effectively-asking-for-help/)
 - [Stop Asking Questions: How to Lead High-Impact Interviews and Learn Anything from Anyone (2021)](https://www.holloway.com/b/stop-asking-questions)
+- [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) ([HN](https://news.ycombinator.com/item?id=28947926))

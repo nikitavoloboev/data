@@ -48,7 +48,7 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Blog](https://www.notion.so/blog)
 - [Creating a MVP landing page using nothing but Notion and a little CSS](https://noahbragg.com/blog/how-i-created-my-landing-page)
 - [Reverse-Engineering Notion's and Clubhouse's API (2021)](https://www.youtube.com/watch?v=h6rpahb8_nk)
-- [Potion](https://www.potion.so/) - Create custom websites in minutes. All on Notion. ([Code](https://github.com/benborgers/potion))
+- [Potion](https://www.potion.so/) - Create custom websites in minutes. All on Notion. ([Code](https://github.com/benborgers/potion)) ([HN](https://news.ycombinator.com/item?id=28946723))
 - [Notionery](https://www.notionery.com/) - Discover the latest Notion templates, products, and more.
 - [Next.js Notion Starter Kit](https://github.com/wzulfikar/nextjs-notion) - Jamstack blog with Next.js and Notion. ([Web](https://wzulfikar.com/))
 - [Joonbot](https://www.joonbot.com/chatbot-in-notion/) - Build and embed a chatbot in minutes in your Notion page.
