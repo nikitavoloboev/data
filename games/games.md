@@ -129,7 +129,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Tabletop Simulator](https://tabletopsimulator.com/) ([HN](https://news.ycombinator.com/item?id=24906634))
 - [Hades](https://store.steampowered.com/app/1145360/Hades/) ([Tweet](https://twitter.com/notdetails/status/1323022661698682881))
 - [Disco Elysium](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/) ([Tweet](https://twitter.com/andreysitnik/status/1380098420598276103))
-- [» I Have No Mouth, and I Must Scream](https://www.filfre.net/2021/10/i-have-no-mouth-and-i-must-scream/) ([HN](https://news.ycombinator.com/item?id=28958140))
+- [I Have No Mouth, and I Must Scream](https://www.filfre.net/2021/10/i-have-no-mouth-and-i-must-scream/) ([HN](https://news.ycombinator.com/item?id=28958140))
 
 ## Other
 
