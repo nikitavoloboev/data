@@ -1,4 +1,4 @@
-# [Mastodon](https://mastodon.social)
+# [Mastodon](https://joinmastodon.org/)
 
 ## Interesting communities
 
@@ -19,3 +19,6 @@
 - [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon, Pleroma and Misskey API client library for node.js and browser.
 - [Hyperspace Desktop](https://github.com/hyperspacedev/hyperspace) - Beautiful, fluffy client for Mastodon in React + TypeScript.
 - [Mastodon: what are your accounts and who do you recommend? (2021)](https://lobste.rs/s/w9a9xr/mastodon_what_are_your_accounts_who_do_you)
+- [Mastodon](https://github.com/mastodon/mastodon) - Self-hosted, globally interconnected microblogging community.
+- [mastodon.social](https://mastodon.social/about) - Server run by the main developers of the project.
+- [HN: Mastodon (2021)](https://news.ycombinator.com/item?id=28950727)

@@ -117,3 +117,4 @@
 - [trafilatura](https://github.com/adbar/trafilatura) - Web scraping tool for text discovery and retrieval.
 - [scrapy.js](https://github.com/sijey-praveen/scrapy.js) - Web Scraping library for JavaScript built using BeautifulSoup4.
 - [PHP Goose](https://github.com/scotteh/php-goose) - Readability / HTML Content / Article Extractor & Web Scrapping library written in PHP.
+- [Web scraping by watching requests (2021)](https://en.jeffprod.com/blog/2021/web-scraping-by-watching-requests/)

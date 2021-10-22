@@ -288,6 +288,7 @@
 - [rust-bcc](https://github.com/rust-bpf/rust-bcc) - Idiomatic Rust bindings for the BPF compiler collection.
 - [kvm-ioctls](https://github.com/rust-vmm/kvm-ioctls) - Provides safe wrappers over the KVM API, a set of ioctls used for creating and configuring Virtual Machines (VMs) on Linux.
 - [reverie](https://github.com/reverie-rs/reverie) - Trace and intercept linux syscalls.
+- [BlueR](https://github.com/bluez/bluer) - Rust interface to the Linux Bluetooth protocol stack (BlueZ).
 
 ## ML
 
@@ -1054,6 +1055,7 @@
 - [rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings the QuickJS JavaScript engine.
 - [holyhashmap](https://github.com/jasonwhite/holyhashmap) - Hash map with stable indices.
 - [async-socket](https://github.com/xpepermint/async-socket-rs) - General-purpose asynchronous socket stream.
+- [Remoc](https://github.com/ENQT-GmbH/remoc) - Remote multiplexed objects and channels for Rust.
 
 ## Cargo Plugins
 

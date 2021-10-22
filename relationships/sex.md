@@ -75,3 +75,4 @@
 - [Список интимных товаров](https://twitter.com/vzrosly_content/status/1418190252452241409)
 - [Overly analytical guide to escorting (2021)](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/) ([HN](https://news.ycombinator.com/item?id=28924751))
 - [What advice have you gotten that has changed your sex life? (2021)](https://www.reddit.com/r/sex/comments/qcnfzn/what_advice_have_you_gotten_that_has_changed_your/)
+- [Hamilton Morris: The Relationship Between Sex and Psychedelics](https://www.youtube.com/watch?v=MQA81YwYI0c)

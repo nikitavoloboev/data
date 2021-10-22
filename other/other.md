@@ -537,3 +537,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [My Experience with Leverage Research (2021)](https://medium.com/@zoecurzi/my-experience-with-leverage-research-17e96a8e540b) ([Tweet](https://twitter.com/CurziRose/status/1448067915375386628))
 - [Legitimacy Lost (2021)](https://li.substack.com/p/legitimacy-lost) ([Tweet](https://twitter.com/ljin18/status/1449440177190051849))
 - [Thing that everyone in your field knows and nobody in your industry talks about because it would lead to general chaos](https://twitter.com/mykola/status/1198719315589160960)
+- [Beyond Smart (2021)](http://paulgraham.com/smart.html) ([HN](https://news.ycombinator.com/item?id=28947558))

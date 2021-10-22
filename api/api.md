@@ -269,3 +269,4 @@
 - [Opinionated OpenAPI v3 code generator for Go](https://github.com/contiamo/openapi-generator-go)
 - [From feature request to API design (2019)](https://francoischalifour.com/from-feature-request-to-api-design/) - Describe the process of creating an API based on specific users' needs.
 - [APIs.guru](https://apis.guru/) - Directory of API definitions in OpenAPI (or Swagger) 2.0 and 3.x formats. ([Code](https://github.com/APIs-guru/openapi-directory))
+- [Building the Brex API (2021)](https://building.brex.com/building-the-brex-api-52dcb26cacc8) ([HN](https://news.ycombinator.com/item?id=28947928))

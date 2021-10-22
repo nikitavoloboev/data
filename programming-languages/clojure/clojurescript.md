@@ -36,3 +36,4 @@
 - [Writing Mobile apps in ClojureScript in 2021](https://www.juxt.pro/blog/clojurescript-native-apps-2021)
 - [Vlojure](https://github.com/Ella-Hoeppner/Vlojure) - Visual programming interface for ClojureScript.
 - [The Missing Guide for ClojureScript](https://github.com/dundalek/clojurescript-guide)
+- [Speed up your ClojureScript Web App (2021)](https://www.juxt.pro/blog/clojurescript-app-performance)

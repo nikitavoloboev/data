@@ -220,3 +220,5 @@
 - [Hints and Principles for Computer System Design (2021)](https://arxiv.org/abs/2011.02455) ([HN](https://news.ycombinator.com/item?id=28771673))
 - [Guide To Prepare for the Gremlin Certified Chaos Engineering Practitioner Exam](https://github.com/gremlin/certificate-study-guide)
 - [Balsam](https://github.com/argonne-lcf/balsam) - High throughput workflows and automation for HPC.
+- [Hypercore](https://github.com/hypercore-protocol/hypercore) - Secure, distributed append-only log.
+- [Hypercore Next](https://github.com/hypercore-protocol/hypercore-next) - Append only log with multi-writer primitives built in.

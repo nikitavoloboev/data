@@ -599,3 +599,4 @@
 - [Builder pattern in Rust (2021)](https://www.greyblake.com/blog/2021-10-19-builder-pattern-in-rust/) ([HN](https://news.ycombinator.com/item?id=28930083)) ([Lobsters](https://lobste.rs/s/v1krlk/builder_pattern_rust))
 - [What is Rust written in? (2021)](https://www.reddit.com/r/rust/comments/qbv2l8/what_is_rust_written_in/)
 - [WebApp.rs](https://github.com/saschagrunert/webapp.rs) - Web application completely written in Rust.
+- [Rust 1.56.0 and Rust 2021](https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html) ([HN](https://news.ycombinator.com/item?id=28945420))

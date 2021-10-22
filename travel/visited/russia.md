@@ -311,3 +311,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Лучшее из русского рэпа (2021)](https://twitter.com/lotareva3/status/1450754441544671232)
 - [The Language of a Successful Dictator: How to Remain Popular Without Ending Repressions (2021)](https://www.ridl.io/en/the-language-of-a-successful-dictator-how-to-remain-popular-without-ending-repressions/)
 - [Ужасная Россия будущего. 10 страшных вещей, которые могут случиться с нашей страной (2021)](https://www.youtube.com/watch?v=9gXBCoUQWo8)
+- [Близкий друг Путина миллиардер Пугачев. Вся правда о Путине, его семье и деньгах. (2021)](https://www.youtube.com/watch?v=UttgyZCppyA)

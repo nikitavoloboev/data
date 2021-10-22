@@ -151,3 +151,4 @@
 - [How to win at CORS (2021)](https://jakearchibald.com/2021/cors/) ([Code](https://github.com/jakearchibald/cors-playground)) ([HN](https://news.ycombinator.com/item?id=28861944))
 - [Ddosify](https://ddosify.com/) - High-performance load testing tool, written in Go. ([Code](https://github.com/ddosify/ddosify))
 - [Ciao](https://brotandgames.com/ciao/) - HTTP checks & tests (private & public) monitoring - check the status of your URL. ([Code](https://github.com/brotandgames/ciao))
+- [New HTTP standards for caching on the modern web (2021)](https://httptoolkit.tech/blog/status-targeted-caching-headers/) ([HN](https://news.ycombinator.com/item?id=28930941))
