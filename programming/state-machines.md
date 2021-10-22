@@ -23,3 +23,4 @@
 - [State Machine cat](https://state-machine-cat.js.org/) - Write beautiful state charts. ([Code](https://github.com/sverweij/state-machine-cat))
 - [Why XState?](https://kentcdodds.com/calls/01/29/why-x-state) ([Tweet](https://twitter.com/mpocock1/status/1451486390911373314))
 - [Stately Office Hours September (2021)](https://www.youtube.com/watch?v=RbF5EkkA9ss)
+- [XState: the Visual Future of State Management (2021)(https://www.youtube.com/watch?v=4Mue0Qr_apE)
