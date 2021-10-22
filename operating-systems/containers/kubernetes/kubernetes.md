@@ -474,3 +474,5 @@
 - [Automatically generated secrets for Kubernetes](https://github.com/mittwald/kubernetes-secret-generator) - Kubernetes controller for automatically generating and updating secrets.
 - [Buildpacks in a Pod](https://github.com/imjasonh/buildpack-in-a-pod) - Demonstrates running CNCF Buildpacks in a regular Kubernetes Pod.
 - [Networking and Kubernetes Book (2021)](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/) ([Twitter](https://twitter.com/NetworkAndK8s))
+- [Kubeconform](https://github.com/yannh/kubeconform) - Kubernetes manifests validation tool. Build it into your CI to validate your Kubernetes configuration.
+- [policy-server](https://github.com/kubewarden/policy-server) - Webhook server that evaluates WebAssembly policies to validate Kubernetes requests.

@@ -577,3 +577,4 @@ if err != nil {
 - [Pre-Commit-Go](https://github.com/TekWizely/pre-commit-golang) - Set of git pre-commit hooks for Go with support for multi-module monorepos, the ability to pass arguments to all hooks, and the ability to invoke custom go tools.
 - [Go Concurrency Patterns](https://github.com/lotusirous/go-concurrency-patterns)
 - [Functional Options are named args on steroids (2021)](https://blog.uptrace.dev/posts/go-functional-options-named-args.html) ([Reddit](https://www.reddit.com/r/golang/comments/qcmt8c/functional_options_are_named_args_on_steroids/))
+- [rustgo: calling Rust from Go with near-zero overhead (2017)](https://blog.filippo.io/rustgo/)

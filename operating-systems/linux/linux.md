@@ -392,3 +392,6 @@
 - [pwru](https://github.com/cilium/pwru) - Packet, where are you? -- Linux kernel networking debugger.
 - [How a simple Linux kernel memory corruption bug can lead to complete system compromise (2021)](https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html)
 - [Rust for Linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
+- [LinuxKit](https://github.com/linuxkit/linuxkit) - Toolkit for building custom minimal, immutable Linux distributions.
+- [Reasons to switch from Windows to Linux (2021)](https://www.lpi.org/blog/2021/10/05/eleven-reasons-switch-windows-linux) ([HN](https://news.ycombinator.com/item?id=28957211))
+- [live-bootstrap](https://github.com/fosslinux/live-bootstrap) - Use of a Linux initramfs to fully automate the bootstrapping process.

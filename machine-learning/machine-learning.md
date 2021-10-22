@@ -573,3 +573,4 @@
 - [Meaning of interpolation in ML (2021)](https://twitter.com/fchollet/status/1450524400227287040)
 - [Learning in High Dimension Always Amounts to Extrapolation (2021)](https://arxiv.org/abs/2110.09485) ([Tweet](https://twitter.com/ylecun/status/1450560732483948545))
 - [Awesome Transformer Architecture Search](https://github.com/automl/awesome-transformer-search)
+- [Katana ML Skipper](https://github.com/katanaml/katana-skipper) - Simple and flexible ML workflow engine. It helps to orchestrate events across a set of microservices and create executable flow to handle requests.

@@ -362,3 +362,4 @@ for i, _ in enumerate(nums):
 - [Prospector](https://github.com/PyCQA/prospector) - Tool to analyze Python code and output information about errors, potential problems, convention violations and complexity.
 - [You shouldn't invoke setup.py directly (2021)](https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html) ([HN](https://news.ycombinator.com/item?id=28918440))
 - [astor](https://github.com/berkerpeksag/astor) - Python AST read/write.
+- [pravda](https://github.com/wemake-services/pravda) - Python type-checker written in Rust.

@@ -61,3 +61,5 @@
 - [GitHub Data](https://github.com/brianlovin/figma-github-data) - Populate data from GitHub into Figma mocks.
 - [Jordan Singer's Figma Plugins](https://www.figma.com/@jordan)
 - [FigJam JavaScript REPL widget](https://github.com/colebemis/figjam-javascript-repl)
+- [Figmint](https://github.com/tiltshift/figmint) - Sync Figma styles to JS.
+- [Device Models](https://www.figma.com/community/plugin/906973799344127422/Device-Models) - Create 3D device mockups from your layers in Figma. Choose a model, set a camera angle, and change device color. ([Code](https://github.com/CodyJasonBennett/device-models))

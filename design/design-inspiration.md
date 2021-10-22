@@ -356,6 +356,7 @@ Here are few more things I liked, design wise.
 - [Jared Pereira](https://awarm.space/) ([Code](https://gitlab.com/jaredpereira/site))
 - [John Quach](https://jonquach.com/) ([Code](https://github.com/itsjonq/jonquach))
 - [Michaël Villar](http://www.michaelvillar.com/)
+- [Cody Bennett](https://codyb.co/) ([Code](https://github.com/CodyJasonBennett/portfolio))
 - [Jendrik Poloczek](https://madewithtea.com/)
 - [Alex Fallenstedt](https://fallenstedt.com/)
 - [Sarah Lim](https://slim.computer/)

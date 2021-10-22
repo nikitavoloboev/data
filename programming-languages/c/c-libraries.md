@@ -93,3 +93,4 @@
 - [Zpoline](https://github.com/yasukata/zpoline) - Efficient and versatile system call hook mechanism.
 - [STC](https://github.com/tylov/STC) - Modern, user friendly, generic, type-safe and fast C99 container library.
 - [vx32](https://github.com/9fans/vx32) - Portable, efficient, safe execution of untrusted x86 code.
+- [Metalang99](https://github.com/Hirrolot/metalang99) - Full-blown preprocessor metaprogramming.

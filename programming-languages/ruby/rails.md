@@ -88,3 +88,4 @@
 - [Propshaft](https://github.com/rails/propshaft) - Asset pipeline library for Rails.
 - [Active Event Store](https://github.com/palkan/active_event_store) - Rails Event Store in a more Rails way.
 - [Optimistic Locking in Rails REST APIs (2021)](https://blog.appsignal.com/2021/10/20/optimistic-locking-in-rails-rest-apis.html)
+- [Ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails.

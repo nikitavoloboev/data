@@ -89,6 +89,7 @@
 - [Elixir Thrift](https://github.com/pinterest/elixir-thrift)
 - [Uncharted](https://github.com/unchartedelixir/uncharted) - Simple Elixir charting library that generates easy to customize charts.
 - [Rustic Result](https://github.com/linkdd/rustic_result) - Result monad for Elixir inspired by Rust Result type. ([HN](https://news.ycombinator.com/item?id=28913884))
+- [Explorer](https://github.com/elixir-nx/explorer) - Dataframes for Elixir.
 
 ## Links
 

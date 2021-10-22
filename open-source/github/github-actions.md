@@ -303,3 +303,4 @@
 - [Learning about GitHub actions](https://github.com/Al-un/ci-github-actions)
 - [Using Composite Actions with GitHub Actions (2021)](https://doug.sh/posts/using-composite-actions-with-github-actions/)
 - [GitHub Actions: DRY your GitHub Actions configuration by reusing workflows (2021)](https://github.blog/changelog/2021-10-05-github-actions-dry-your-github-actions-configuration-by-reusing-workflows/)
+- [GitHub Actions Exporter](https://github.com/cpanato/github_actions_exporter) - Prometheus exporter exposing GitHub Actions metrics.

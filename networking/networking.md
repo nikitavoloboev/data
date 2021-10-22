@@ -320,3 +320,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [32 Bit Real Estate (2021)](https://fly.io/blog/32-bit-real-estate/) ([HN](https://news.ycombinator.com/item?id=28920269))
 - [Consul](https://www.consul.io/) - Service Mesh for any runtime or cloud.
 - [Consul Replicate](https://github.com/hashicorp/consul-replicate) - Provides a convenient way to replicate values from one Consul data center to another using the consul-replicate daemon.
+- [multiping](https://github.com/ckauhaus/multiping) - Pings several hosts at once to test outside connectivity.

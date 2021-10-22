@@ -62,3 +62,4 @@
 - [WebRTC remote view](https://github.com/rviscarra/webrtc-remote-screen) - Stream a remote desktop screen directly to your browser. ([Article](https://viscarra.dev/post/webrtc-remote-screen/))
 - [WebRTC speech to text server](https://github.com/rviscarra/webrtc-speech-to-text) - Speech transcription on the browser using WebRTC and Google Speech. ([Article](https://viscarra.dev/post/webrtc-gspeech/))
 - [OvenPlayer](https://github.com/AirenSoft/OvenPlayer) - JavaScript-based WebRTC Player for OvenMediaEngine. It also supports LL-DASH, MPEG-DASH, and HLS. Open-Source HTML5 Player. ([Web](https://www.ovenmediaengine.com/ovenplayer))
+- [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) - Python interface to the WebRTC Voice Activity Detector.

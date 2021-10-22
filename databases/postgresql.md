@@ -337,3 +337,4 @@
 - [Supabase SQL](https://database.dev/) - Curated list of SQL to help you find useful script easily. ([Code](https://github.com/supabase-community/database.dev))
 - [Supabase Schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer. ([Web](https://supabase-schema.vercel.app/))
 - [TimescaleDB Toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for more hyperfunctions, fully compatible with TimescaleDB and PostgreSQL.
+- [flaco](https://github.com/milesgranger/flaco) - Fastest and most memory efficient way to pull data from PostgreSQL into pandas and numpy.

@@ -207,3 +207,8 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Terrascan](https://github.com/accurics/terrascan) - Static code analyzer for Infrastructure as Code.
 - [SLSA (Supply-chain Levels for Software Artifacts)](https://slsa.dev/) - Security framework from source to service, giving anyone working with software a common language for increasing levels of software security and supply chain integrity. ([Code](https://github.com/slsa-framework/slsa))
 - [Modern security stack (2021)](https://twitter.com/zackkanter/status/1416780099081359363)
+- [Notary](https://github.com/notaryproject/notary) - Aims to make the internet more secure by making it easy for people to publish and verify content.
+- [Sigstore](https://sigstore.dev/) - New standard for signing, verifying and protecting software. ([GitHub](https://github.com/sigstore)) ([Web Code](https://github.com/sigstore/sigstore-website))
+- [Rekor](https://github.com/sigstore/rekor) - Fulfills the signature transparency role of sigstore's software signing infrastructure.
+- [Keylime](https://keylime.dev/) - Bootstrap & Maintain Trust on the Edge / Cloud and IoT. ([Code](https://github.com/keylime/keylime))
+- [fulcio](https://github.com/sigstore/fulcio) - Sigstore WebPKI.

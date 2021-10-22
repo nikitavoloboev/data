@@ -320,3 +320,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The Single-Page-App Morality Play (2021)](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/) ([HN](https://news.ycombinator.com/item?id=28876583)) ([Tweet](https://twitter.com/fakebaldur/status/1434873556903636996))
 - [esbuild-dev-server](https://github.com/Falldot/esbuild-dev-server) - Allows you to start a local server with hot reloading with Esbuild.
 - [Hypertext tools from the 80s (2021)](https://fibery.io/blog/hypertext-tools-from-the-80s/) ([HN](https://news.ycombinator.com/item?id=28903469))
+- [Ask HN: Best way to host a website for 500 years? (2021)](https://news.ycombinator.com/item?id=28957573)

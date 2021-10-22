@@ -103,3 +103,4 @@
 - [FancyFlow](https://github.com/fenollp/fancyflow) - Experimental Erlang library to bring convenience of things like the elixir pipe operator into Erlang.
 - [CauDEr](https://github.com/mistupv/cauder) - Causal-Consistent Reversible Debugger for Erlang.
 - [jsone](https://github.com/sile/jsone) - Erlang JSON library.
+- [ETC](https://github.com/vrnithinkumar/ETC) - Erlang Type Checker Prototype Based on Bidirectional Typechecking.

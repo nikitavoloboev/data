@@ -630,6 +630,8 @@
 - [PureImage](https://github.com/joshmarinacci/node-pureimage) - Pure JS implementation of an image drawing and encoding api, based on HTML Canvas.
 - [vanilla-hamburger](https://github.com/web-padawan/vanilla-hamburger) - Animated hamburger menu icons for modern web apps. ([Web](https://web-padawan.github.io/vanilla-hamburger/))
 - [editable.js](https://github.com/livingdocsIO/editable.js) - JavaScript API that defines a friendly and browser-consistent content editable interface.
+- [Fireworks.js](https://github.com/crashmax-dev/fireworks-js) - Simple fireworks library.
+- [module-error](https://github.com/vweevers/module-error) - Create errors with code and cause properties.
 
 ## Links
 

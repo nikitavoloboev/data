@@ -156,3 +156,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [How I started with NixOS (2021)](https://gianarb.it/blog/how-i-started-with-nixos) ([Reddit](https://www.reddit.com/r/NixOS/comments/q77m1y/how_i_started_with_nixos/))
 - [NixOS and the Art of OS Configuration (2018)](https://www.rousette.org.uk/archives/nixos-and-the-art-of-os-configuration/) ([HN](https://news.ycombinator.com/item?id=28884609))
 - [nix-simple-deploy](https://github.com/misuzu/nix-simple-deploy) - Deploy software or an entire NixOS system configuration to another NixOS system.
+- [Flying Circus NixOS Platform](https://github.com/flyingcircusio/fc-nixos)

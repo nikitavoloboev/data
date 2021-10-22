@@ -135,3 +135,5 @@
 - [react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [WebRTC module for React Native](https://github.com/react-native-webrtc/react-native-webrtc)
 - [React Native Team AUA (2021)](https://www.reddit.com/r/reactnative/comments/pzdo1r/react_native_team_aua_thursday_oct_14_9am_pt/) ([Tweet](https://twitter.com/sebastienlorber/status/1450480102421274625))
+- [React Native Image Viewing](https://github.com/jobtoday/react-native-image-viewing) - Tiny, purely TS, modal component for viewing images.
+- [React Native Navigation](https://github.com/wix/react-native-navigation) - Complete native navigation solution for React Native.

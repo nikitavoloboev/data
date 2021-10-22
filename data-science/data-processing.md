@@ -45,6 +45,7 @@
 - [Winterfell](https://github.com/novifinancial/winterfell) - Distributed STARK prover.
 - [Python to Distributed Python to Airflow task in ~5 lines of code](https://www.astronomer.io/blog/airflow-ray-data-science-story)
 - [DataFusion](https://github.com/apache/arrow-datafusion) - Extensible query execution framework, written in Rust, that uses Apache Arrow as its in-memory format.
+- [Delta Lake](https://delta.io/) - Reliable Data Lakes at Scale. ([GitHub](https://github.com/delta-io))
 - [Delta Sharing](https://delta.io/sharing/) - Open Protocol for Secure Data Sharing. ([Article](https://databricks.com/blog/2021/05/26/introducing-delta-sharing-an-open-protocol-for-secure-data-sharing.html)) ([Tweet](https://twitter.com/matei_zaharia/status/1397585545849540612))
 - [Dataform](https://dataform.co/) - Manage data pipelines in BigQuery.
 - [Legate Pandas](https://github.com/nv-legate/legate.pandas) - Aspiring Drop-In Replacement for Pandas at Scale.

@@ -50,3 +50,4 @@
 - [Bundletool](https://github.com/google/bundletool) - Command-line tool to manipulate Android App Bundles.
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [Android phones are sending significant amount of user data with no opt-out (2021)](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) ([HN](https://news.ycombinator.com/item?id=28830328))
+- [Nix-on-Droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.

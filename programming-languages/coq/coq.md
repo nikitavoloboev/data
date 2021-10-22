@@ -80,3 +80,4 @@
 - [W-in-Coq](https://github.com/rafaelcgs10/W-in-Coq) - Coq formalization of Damas-Milner type system and its algorithm W.
 - [coq-bonsai](https://github.com/foobar-land/coq-bonsai) - Generate a fresh bonsai in your terminal. Written in Coq.
 - [Coq-Combi](https://github.com/math-comp/Coq-Combi) - Algebraic Combinatorics in Coq.
+- [Toy Hoare Logic Formalization for IMP](https://github.com/codyroux/hoare-toy)

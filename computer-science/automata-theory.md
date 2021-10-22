@@ -54,3 +54,4 @@
 - [Computational Hierarchy of Elementary Cellular Automata (2021)](https://arxiv.org/abs/2108.00415)
 - [Simple Rust implementation of Conway's Game of Life](https://github.com/brundonsmith/life)
 - [WebGPU Compute Cellular Automata](https://github.com/dawidgorny/webgpu-cca)
+- [CellularAutomata](https://github.com/MartinuzziFrancesco/CellularAutomata.jl) - Cellular automata creation and analysis tools in Julia.

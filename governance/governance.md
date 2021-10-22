@@ -77,3 +77,4 @@
 - [Voting example based on MoonZoon and Solana](https://github.com/MartinKavik/voting-solana-moonzoon)
 - [Canada's nice green urban project (2021)](https://twitter.com/IDoTheThinking/status/1443636143707222019)
 - [Moov Watchman](https://oss.moov.io/watchman/) - Service which downloads, parses and indexes numerous trade, government and non-profit lists of blocked individuals and entities to comply with those regions laws. ([Code](https://github.com/moov-io/watchman))
+- [QuadraticVote.co](https://quadraticvote.co/) - Real-time Quadratic Voting dashboard to encourage mathematically optimal voting in democratic communities. ([Code](https://github.com/Anish-Agnihotri/quadratic-voting))

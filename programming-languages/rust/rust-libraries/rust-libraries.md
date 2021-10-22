@@ -561,7 +561,7 @@
 - [Bytes](https://github.com/tokio-rs/bytes) - Utility library for working with bytes.
 - [Internment](https://github.com/droundy/internment) - Interning of data in rust.
 - [merkle-tree-stream](https://github.com/datrs/merkle-tree-stream) - Stream that generates a merkle tree based on the incoming data.
-- [async-graphql](https://github.com/sunli829/async-graphql) - GraphQL server library that fully supports async/await and is easy to use.
+- [async-graphql](https://github.com/sunli829/async-graphql) - GraphQL server library that fully supports async/await and is easy to use. ([Examples](https://github.com/async-graphql/examples))
 - [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer.
 - [generational-arena](https://github.com/fitzgen/generational-arena) - Safe arena allocator that allows deletion without suffering from the ABA problem by using generational indices.
 - [printpdf](https://github.com/fschutt/printpdf) - Library designed for creating printable PDF documents.
@@ -1056,6 +1056,9 @@
 - [holyhashmap](https://github.com/jasonwhite/holyhashmap) - Hash map with stable indices.
 - [async-socket](https://github.com/xpepermint/async-socket-rs) - General-purpose asynchronous socket stream.
 - [Remoc](https://github.com/ENQT-GmbH/remoc) - Remote multiplexed objects and channels for Rust.
+- [delta-rs](https://github.com/delta-io/delta-rs) - Native Rust library for Delta Lake, with bindings into Python and Ruby. ([Diving into Delta-rs: kafka-delta-ingest (2021)](https://www.youtube.com/watch?v=mLmsZ3qYfB0))
+- [rust-lapper](https://github.com/sstadick/rust-lapper) - Rust implementation of a fast, easy, interval tree library nim-lapper.
+- [sigstore-rs](https://github.com/sigstore/sigstore-rs) - Rust crate for sigstore.
 
 ## Cargo Plugins
 

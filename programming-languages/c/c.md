@@ -183,3 +183,5 @@
 - [Proposal to add constexpr to C (2021)](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2851.pdf) ([HN](https://news.ycombinator.com/item?id=28861672))
 - [rust-cexpr](https://github.com/jethrogb/rust-cexpr) - C expression parser and evaluator.
 - [When to Use Goto](https://beej.us/guide/bgc/html/split/goto.html) ([HN](https://news.ycombinator.com/item?id=28943153))
+- [There is no 'printf' (2021)](https://www.netmeister.org/blog/return-printf.html) ([HN](https://news.ycombinator.com/item?id=28931457))
+- [Comparing the c ffi overhead on various programming languages](https://github.com/dyu/ffi-overhead)

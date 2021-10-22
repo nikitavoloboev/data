@@ -1,5 +1,10 @@
 # State machines
 
+## Notes
+
+- [When should you use XState? When you have something complex to build, with: 1. Many side effects, especially long-running ones like call recording. 2. Sequences of things that MUST happen in a certain order (choose devices, record, preview). Either dead simple (useState) or everything else (XState).](https://twitter.com/mpocock1/status/1451486390911373314)
+- [I use XState anytime I have to write my own useState and it is more than a single boolean per component, or anytime I'd use useEffect.](https://twitter.com/triangulo_dev/status/1451533181329547304)
+
 ## Links
 
 - [State Machine In Real Life](https://www.solipsys.co.uk/new/StateMachineInRealLife.html?te02lo) ([Lobsters](https://lobste.rs/s/3exvcc/state_machine_real_life)) ([HN](https://news.ycombinator.com/item?id=23050231))
@@ -15,3 +20,6 @@
 - [Lucy](https://lucylang.org/) - DSL for Finite State Machines. ([Code](https://github.com/lucydsl/liblucy))
 - [Introduction to State Machines Using XState (2021)](https://egghead.io/courses/introduction-to-state-machines-using-xstate)
 - [State Machines & XState Workshop](https://github.com/davidkpiano/frontend-masters-xstate-v2)
+- [State Machine cat](https://state-machine-cat.js.org/) - Write beautiful state charts. ([Code](https://github.com/sverweij/state-machine-cat))
+- [Why XState?](https://kentcdodds.com/calls/01/29/why-x-state) ([Tweet](https://twitter.com/mpocock1/status/1451486390911373314))
+- [Stately Office Hours September (2021)](https://www.youtube.com/watch?v=RbF5EkkA9ss)

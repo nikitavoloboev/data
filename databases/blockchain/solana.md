@@ -49,7 +49,7 @@
 - [Solana overview to average non technical reader (2021)](https://twitter.com/srinathariharan/status/1396916432202502152)
 - [Multicoin Capital: Technical Scalability Creates Social Scalability (2021)](https://multicoin.capital/2021/05/25/technical-scalability-creates-social-scalability/) ([Tweet](https://twitter.com/KyleSamani/status/1397602061932433411))
 - [Solana Season Hackathon](https://solana.com/solanaszn)
-- [Solana Ecosystem](https://solana.com/ecosystem)
+- [Solana Ecosystem](https://solana.com/ecosystem) ([Code](https://github.com/solana-labs/ecosystem))
 - [Marinade](https://marinade.finance/) - Liquid staking protocol built on Solana.
 - [Which validator to choose for SOL? (2021)](https://www.reddit.com/r/solana/comments/nplupv/when_staking_sol_on_solflare_how_do_i_know_which/)
 - [Solana Validators](https://www.validators.app/)
@@ -104,3 +104,4 @@
 - [Solana: How to send custom instructions via instruction data (2021)](https://dev.to/cogoo/solana-how-to-send-custom-instructions-via-instruction-data-4g9g)
 - [captain](https://github.com/saber-hq/captain) - Version control and key management for Solana programs.
 - [Solana CEO Advice on SOL staking (2021)](https://www.reddit.com/r/solana/comments/qch4cu/when_you_ask_for_tips_about_staking_and_the_ceo/)
+- [SPL Token Wallet](https://github.com/project-serum/spl-token-wallet) - Example Solana wallet with support for SPL tokens and Serum integration.

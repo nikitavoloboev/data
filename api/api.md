@@ -26,6 +26,7 @@
 - [Twitter Python](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.
 - [Twitter Python 2](https://github.com/tweepy/tweepy)
 - [Twitter Python 3](https://github.com/geduldig/TwitterAPI)
+- [Twitter Python 4](https://github.com/ChrisVojnich/twerk_df)
 - [Twitter Rust](https://github.com/egg-mode-rs/egg-mode)
 - [Twitter R](https://github.com/ropensci/rtweet)
 - [Twitter Node](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
@@ -35,6 +36,7 @@
 - [Twitter Lite JS](https://github.com/draftbit/twitter-lite) - Tiny, full-featured, flexible client / server library for the Twitter API.
 - [Twitter Go](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Twitter Go 2](https://github.com/bloveless/tweetgo)
+- [Twitter Go 3](https://github.com/sivchari/gotwtr)
 - [Twitter Haskell](https://github.com/himura/twitter-conduit)
 - [Twitter API proxy server using gRPC](https://github.com/Pantonshire/goldcrest)
 - [Twitter profile dumper (downloader) with authorization swapping](https://github.com/snovvcrash/tweetlord)

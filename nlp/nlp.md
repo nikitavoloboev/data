@@ -376,3 +376,4 @@
 - [Multi-Task Pre-Training for Plug-and-Play Task-Oriented Dialogue System (2021)](https://arxiv.org/abs/2109.14739) ([Code](https://github.com/awslabs/pptod))
 - [xFormers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [Language Models As or For Knowledge Bases (2021)](https://arxiv.org/pdf/2110.04888.pdf)
+- [Wikipedia2Vec](https://wikipedia2vec.github.io/wikipedia2vec/) - Tool for learning vector representations of words and entities from Wikipedia. ([Code](https://github.com/wikipedia2vec/wikipedia2vec))

@@ -52,3 +52,4 @@
 - [Tailscale PAM Module](https://github.com/tailscale/pam) - Allows you to SSH using your Tailscale credentials.
 - [onetun](https://github.com/aramperes/onetun) - Cross-platform, user-space WireGuard port-forwarder that requires no system network configurations. ([HN](https://news.ycombinator.com/item?id=28884938))
 - [Why Not WireGuard (2020)](https://blog.ipfire.org/post/why-not-wireguard) ([HN](https://news.ycombinator.com/item?id=28896351))
+- [Terraform Provider Tailscale](https://github.com/davidsbond/terraform-provider-tailscale) - Terraform provider implementation for interacting with the Tailscale API.

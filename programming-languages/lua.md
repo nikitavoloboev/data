@@ -72,3 +72,4 @@
 - [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) - Lua-land LRU Cache based on LuaJIT FFI.
 - [Python and Lua (2019)](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/) ([HN](https://news.ycombinator.com/item?id=28814141))
 - [Lua Functional](https://github.com/luafun/luafun) - High-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind. ([Docs](https://luafun.github.io/))
+- [LuaJIT Unix syscall FFI](https://github.com/justincormack/ljsyscall)

@@ -112,3 +112,4 @@
 - [RSS by email](https://rssby.email/) - Subscribe to RSS Feeds over Email. ([HN](https://news.ycombinator.com/item?id=28571528)) ([Code](https://github.com/skx/rss2email))
 - [Using RSS to replace social media](https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media) ([HN](https://news.ycombinator.com/item?id=28645871))
 - [Miniflux](https://miniflux.app/) - Minimalist and Opinionated Feed Reader.
+- [rss](https://github.com/rust-syndication/rss) - Rust library for serializing the RSS web content syndication format.

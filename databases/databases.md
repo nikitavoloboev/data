@@ -189,7 +189,7 @@
 - [SHMIG](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
 - [goose](https://github.com/pressly/goose) - Database migration tool. Manage your database schema by creating incremental SQL changes or Go functions.
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations written in Go. Use as CLI or import as library.
-- [Flyway](https://flywaydb.org/) - Database Migrations Made Easy. ([Tweet](https://twitter.com/felixge/status/1333478995678130177))
+- [Flyway](https://flywaydb.org/) - Database Migrations Made Easy. ([Tweet](https://twitter.com/felixge/status/1333478995678130177)) ([Code](https://github.com/flyway/flyway))
 - [Liquibase](https://www.liquibase.org/) - Open Source Version Control for Your Database.
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL.
 - [Dbmate](https://github.com/amacneil/dbmate) - Lightweight, framework-agnostic database migration tool.

@@ -185,3 +185,4 @@ useEffect(() => {
 - [Thanks React, I'm fine with an imperative setInterval (2021)](https://thoughtspile.github.io/2021/10/13/really-declarative/)
 - [Are many useStates better than useState(object)? (2021)](https://thoughtspile.github.io/2021/10/11/usestate-object-vs-multiple/)
 - [Hooks Architec](https://github.com/blockmatic/hooks-architecture) - Simple and powerful project architecture for React and React Native apps.
+- [Linear's Hooks](https://twitter.com/tommoor/status/1451331907707236368)

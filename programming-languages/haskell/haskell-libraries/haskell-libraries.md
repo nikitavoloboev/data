@@ -166,6 +166,8 @@
 - [haskell-lockfree](https://github.com/rrnewton/haskell-lockfree) - Collection of different packages for CAS based data structures.
 - [attoparsec](https://github.com/haskell/attoparsec) - Fast Haskell library for parsing ByteStrings.
 - [uniplate](https://github.com/ndmitchell/uniplate) - Haskell library for simple, concise and fast generic operations.
+- [Weeder](https://github.com/ocharles/weeder) - Application to perform whole-program dead-code analysis.
+- [Deli](https://github.com/github/deli) - Performance modeling tool, allowing you to understand and experiment with new designs.
 
 ## Links
 

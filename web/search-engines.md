@@ -170,3 +170,4 @@
 - [Wikipedia search engine](https://github.com/PulakIIIT/Blaze-Search)
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
 - [DuckDuckGo as a TTY](https://duckduckgo.com/tty/) ([HN](https://news.ycombinator.com/item?id=28938265))
+- [Recoll](https://www.lesbonscomptes.com/recoll/) - Desktop full-text search tool. ([HN](https://news.ycombinator.com/item?id=28950947))

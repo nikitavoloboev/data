@@ -14,7 +14,7 @@
 - [Resources to learn to implement Knowledge Graph (2020)](https://www.reddit.com/r/MachineLearning/comments/et705g/r_p_resources_to_learn_to_implement_knowledge/)
 - [TopicDB](https://github.com/brettkromkamp/topic-db) - Topic map-based graph library (using PostgreSQL for persistence).
 - [Joint Embedding in Named Entity Linking on Sentence Level](https://arxiv.org/pdf/2002.04936.pdf)
-- [Knowledge Graphs (2020)](https://arxiv.org/abs/2003.02320) ([HN](https://news.ycombinator.com/item?id=22504133))
+- [Knowledge Graphs (2020)](https://arxiv.org/abs/2003.02320) ([HN](https://news.ycombinator.com/item?id=22504133)) ([HN](https://news.ycombinator.com/item?id=28953155))
 - [Combining knowledge graphs, quickly and accurately (2020)](https://www.amazon.science/blog/combining-knowledge-graphs-quickly-and-accurately)
 - [Akutan](https://github.com/eBay/akutan) - Distributed knowledge graph store, sometimes called an RDF store or a triple store.
 - [Global domain mind map tool build on top of IPFS and IPLD](https://github.com/interplanetarymindmap/mind-map)

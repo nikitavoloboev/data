@@ -280,6 +280,8 @@
 - [pglock](https://github.com/cirello-io/pglock) - PostgreSQL Lock Client for Go.
 - [pgxmock](https://github.com/pashagolub/pgxmock) - Mock library implementing pgx - PostgreSQL Driver and Toolkit.
 - [Gendry](https://github.com/didi/gendry) - Go library that helps you operate database.
+- [otelsql](https://github.com/XSAM/otelsql) - OpenTelemetry instrumentation for database/sql.
+- [CockroachDB Go](https://github.com/cockroachdb/cockroach-go) - Helpers for CockroachDB users writing in Go.
 
 ## ML
 
@@ -1008,6 +1010,8 @@
 - [go-peertaskqueue](https://github.com/ipfs/go-peertaskqueue) - Prioritized queue of abstract tasks distributed among peers.
 - [GoCSV](https://github.com/gocarina/gocsv) - Package aims to provide easy serialization and deserialization functions to use CSV in Go.
 - [Grafana Dskit](https://github.com/grafana/dskit) - Distributed systems kit.
+- [pongo2](https://github.com/flosch/pongo2) - Django-syntax like template-engine for Go.
+- [sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients.
 
 ## Links
 

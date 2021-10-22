@@ -139,3 +139,7 @@
 - [Taming Visually Guided Sound Generation (2021)](https://iashin.ai/SpecVQGAN) ([Code](https://github.com/v-iashin/SpecVQGAN))
 - [TecoGAN-PyTorch](https://github.com/skycrapers/TecoGAN-PyTorch) - PyTorch Reimplementation of TecoGAN: Temporally Coherent GAN for Video Super-Resolution.
 - [Chunked Autoregressive GAN (CARGAN)](https://github.com/descriptinc/cargan)
+- [CIPS-3D: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis (2021)](https://arxiv.org/abs/2110.09788) ([Code](https://github.com/PeterouZh/CIPS-3D))
+- [GAN-Inversion Papers](https://github.com/PeterouZh/GAN-Inversion)
+- [Searching towards Class-Aware Generators for Conditional Generative Adversarial Networks (2020)](https://arxiv.org/abs/2006.14208) ([Code](https://github.com/PeterouZh/NAS_cGAN))
+- [Omni-GAN: On the Secrets of cGANs and Beyond (2021)](https://arxiv.org/abs/2011.13074) ([Code](https://github.com/PeterouZh/Omni-GAN-PyTorch))

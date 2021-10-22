@@ -106,3 +106,4 @@
 - [OSM Lab](https://github.com/osmlab) - Organization for OpenStreetMap related projects - libraries, applications, and other code.
 - [OSM Editor Layer Index](https://osmlab.github.io/editor-layer-index/) - Traceable imagery and other layer sources intended for use in OpenStreetMap. ([Code](https://github.com/osmlab/editor-layer-index))
 - [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson)
+- [QGIS](https://qgis.org/en/site/) - Free and Open Source Geographic Information System. ([Code](https://github.com/qgis/QGIS))

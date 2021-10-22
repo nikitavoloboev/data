@@ -99,6 +99,8 @@
 - [Erdos](https://github.com/CarloLucibello/Erdos.jl) - Library for graph analysis written Julia.
 - [LinearSolvers](https://github.com/SciML/LinearSolve.jl)
 - [HighDimPDE.jl](https://github.com/vboussange/HighDimPDE.jl) - Julia package that breaks down the curse of dimensionality in solving non local, non linear PDEs.
+- [Polynomials.jl](https://github.com/JuliaMath/Polynomials.jl) - Polynomial manipulations in Julia.
+- [Roots](https://github.com/JuliaMath/Roots.jl) - Root finding functions for Julia.
 
 ## NLP
 
