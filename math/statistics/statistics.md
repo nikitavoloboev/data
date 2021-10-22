@@ -128,3 +128,4 @@
 - [Bayesian Methods Research Group](https://bayesgroup.ru/) ([Twitter](https://twitter.com/bayesgroup))
 - [Awesome Bayesian Statistics](https://github.com/aayushmalik/awesome-bayesian-statistics)
 - [Bayesian histograms for rare event classification (2021)](https://dionhaefner.github.io/2021/09/bayesian-histograms-for-rare-event-classification/)
+- [Exact Bias Correction for Linear Adjustment of Randomized Controlled Trials (2021)](https://arxiv.org/abs/2110.08425) ([Tweet](https://twitter.com/deaneckles/status/1451603255503556621))

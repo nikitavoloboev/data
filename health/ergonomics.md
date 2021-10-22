@@ -10,6 +10,7 @@
 - [Ask HN: What kind of chair are you using for WFH? (2021)](https://news.ycombinator.com/item?id=27265275)
 - [The Best Office Chair Tier List (2021)](https://www.youtube.com/watch?v=zpIPhAGHSV4)
 - [Cosm](https://twitter.com/UltraLinx/status/1435985680207843336)
+- [Steelcase Think](https://www.steelcase.com/products/office-chairs/think/) ([Tweet](https://twitter.com/stroughtonsmith/status/1451604715817603076))
 
 ## Standing desks
 
