@@ -68,7 +68,7 @@
 - [popmotion](https://github.com/Popmotion/popmotion) - Functional, reactive animation library.
 - [impress.js](https://github.com/impress/impress.js) - Presentation framework based on the power of CSS3 transforms and transitions.
 - [Pts](https://github.com/williamngan/pts) - Library for visualization and creative-coding. ([Web](https://ptsjs.org/))
-- [lax.js](https://github.com/alexfoxy/laxxx) - Simple & light weight (<2kb gzipped) vanilla JS plugin to create smooth & beautiful animations when you scroll.
+- [lax.js](https://github.com/alexfoxy/laxxx) - Simple & light weight (&lt;2kb gzipped) vanilla JS plugin to create smooth & beautiful animations when you scroll.
 - [Flipping](https://github.com/davidkpiano/flipping) - Library (and collection of adapters) for implementing FLIP transitions.
 - [Ola](https://github.com/franciscop/ola) - Smooth animation library for interpolating numbers.
 - [react-spring](https://github.com/react-spring/react-spring) - Spring physics based React animation library.
@@ -204,7 +204,7 @@
 - [RequireJS](https://github.com/requirejs/requirejs) - File and module loader for JavaScript.
 - [Zero](https://github.com/sinclairzx81/zero) - 3D graphics rendering pipeline. Implemented in JavaScript. Run in a terminal.
 - [xstate-viz](https://github.com/statecharts/xstate-viz) - Visualize state charts.
-- [htmr](https://github.com/pveyes/htmr) - Simple and lightweight (< 2kB) HTML string to React element conversion library.
+- [htmr](https://github.com/pveyes/htmr) - Simple and lightweight (&lt; 2kB) HTML string to React element conversion library.
 - [react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - React component which can parse JSX and output rendered React Components.
 - [Static Land](https://github.com/fantasyland/static-land) - Specification for common algebraic structures in JavaScript based on Fantasy Land.
 - [sorted-queue](https://github.com/jviide/sorted-queue) - Sorted queue, based on an array-backed binary heap.
@@ -249,7 +249,7 @@
 - [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control.
 - [gsheets](https://github.com/interactivethings/gsheets) - Get public Google Sheets as plain JavaScript/JSON.
 - [alga-ts](https://github.com/YBogomolov/alga-ts) - Algebraic graphs implementation in TypeScript.
-- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag. ([Awesome](https://github.com/chartjs/awesome))
+- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag. ([Awesome](https://github.com/chartjs/awesome))
 - [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
 - [clean-set](https://github.com/fwilkerson/clean-set) - Deep assignment alternative to the object spread operator and Object.assign.
 - [Search Query Syntax Parser](https://github.com/nepsilon/search-query-parser)
@@ -334,7 +334,7 @@
 - [sonic-boom](https://github.com/mcollina/sonic-boom) - Extremely fast utf8 only stream implementation.
 - [Rough Notation](https://github.com/pshihn/rough-notation) - Small JavaScript library to create and animate annotations on a web page. ([HN](https://news.ycombinator.com/item?id=23339244))
 - [SqueakJS](https://github.com/codefrau/SqueakJS) - Squeak VM for the Web and Node.js. ([Web](https://squeak.js.org/))
-- [fit-textarea](https://github.com/fregante/fit-textarea) - Automatically expand a <textarea> to fit its content, in a few bytes.
+- [fit-textarea](https://github.com/fregante/fit-textarea) - Automatically expand a &lt;textarea&gt; to fit its content, in a few bytes.
 - [NanoPop](https://github.com/Simonwep/nanopop) - Ultra Tiny, Opinionated Positioning Engine. ([Web](https://simonwep.github.io/nanopop/))
 - [Angelfire](https://github.com/rish-16/Angelfire) - Lets you quickly build right-click-enabled context menus and drop-down menus for any element on your webpage.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
@@ -351,7 +351,7 @@
 - [bpmn-js](https://github.com/bpmn-io/bpmn-js) - BPMN 2.0 rendering toolkit and web modeler.
 - [fit-curve](https://github.com/soswow/fit-curve) - JavaScript implementation of Philip J. Schneider's "Algorithm for Automatically Fitting Digitized Curves" from the book "Graphics Gems".
 - [clean-deep](https://github.com/nunofgs/clean-deep) - Remove falsy, empty or nullable values from objects.
-- [regular-table](https://github.com/jpmorganchase/regular-table) - Regular <table> library, for async and virtual data models.
+- [regular-table](https://github.com/jpmorganchase/regular-table) - Regular &lt;table&gt; library, for async and virtual data models.
 - [Stimulus](https://github.com/hotwired/stimulus) - Modest JavaScript framework for the HTML you already have. ([Web](https://stimulus.hotwire.dev/)) ([Awesome](https://github.com/skatkov/awesome-stimulusjs))
 - [bigpicture.js](https://github.com/josephernest/bigpicture.js/) - Library that allows infinite panning and infinite zooming in HTML pages. ([Web](https://josephernest.github.io/bigpicture.js/index.html))
 - [Tragopan](https://github.com/team-video/tragopan) - Minimal dependency-free pan/zoom library. ([HN](https://news.ycombinator.com/item?id=23579102))
