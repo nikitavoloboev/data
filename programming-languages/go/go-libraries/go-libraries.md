@@ -1012,6 +1012,7 @@
 - [Grafana Dskit](https://github.com/grafana/dskit) - Distributed systems kit.
 - [pongo2](https://github.com/flosch/pongo2) - Django-syntax like template-engine for Go.
 - [sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients.
+- [procfs](https://github.com/prometheus/procfs) - Functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
 
 ## Links
 

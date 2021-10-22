@@ -64,3 +64,5 @@
 - [Three.js - Template - Complex](https://github.com/brunosimon/threejs-template-complex)
 - [Three.js Modern App](https://github.com/marcofugaro/threejs-modern-app) - Boilerplate and utils for a full screen Three.js app.
 - [A technical breakdown of react-three-fiber (2021)](https://codyb.co/articles/a-technical-breakdown-of-react-three-fiber) ([Tweet](https://twitter.com/0xca0a/status/1451599485977731078))
+- [THREE-CSGMesh](https://github.com/manthrax/THREE-CSGMesh) - Conversion of a CSG library for use with modern THREE.js.
+- [three-csg-ts](https://github.com/Jiro-Digital/three-csg-ts) - CSG library for use with THREE.js

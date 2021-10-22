@@ -1059,6 +1059,7 @@
 - [delta-rs](https://github.com/delta-io/delta-rs) - Native Rust library for Delta Lake, with bindings into Python and Ruby. ([Diving into Delta-rs: kafka-delta-ingest (2021)](https://www.youtube.com/watch?v=mLmsZ3qYfB0))
 - [rust-lapper](https://github.com/sstadick/rust-lapper) - Rust implementation of a fast, easy, interval tree library nim-lapper.
 - [sigstore-rs](https://github.com/sigstore/sigstore-rs) - Rust crate for sigstore.
+- [image-png](https://github.com/image-rs/image-png) - PNG Decoder/Encoder.
 
 ## Cargo Plugins
 

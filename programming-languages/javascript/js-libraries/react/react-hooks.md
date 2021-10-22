@@ -119,6 +119,7 @@
 - [observable-hooks](https://github.com/crimx/observable-hooks) - Concurrent mode safe React hooks for RxJS Observables. Simple, flexible, testable and performant.
 - [react-generate-context](https://github.com/kyleshevlin/react-generate-context) - React Context with less boilerplate.
 - [SomeHooks](https://github.com/taylor-vann/somehooks) - Collection of framework agnostic hooks.
+- [useItemList](https://github.com/souporserious/use-item-list) - Primitive React hook used to coordinate indexed collections effortlessly.
 
 ## Code
 

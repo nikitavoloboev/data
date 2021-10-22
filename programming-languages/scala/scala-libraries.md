@@ -55,6 +55,7 @@
 - [Scala STM](https://nbronson.github.io/scala-stm/) - Lightweight software transactional memory for Scala, inspired by the STMs in Haskell and Clojure while taking advantage of Scala’s power and performance.
 - [Scalaz](https://github.com/scalaz/scalaz) - Principled Functional Programming in Scala.
 - [ZIO](https://github.com/zio/zio) - Type-safe, composable library for asynchronous and concurrent programming in Scala. ([Web](https://zio.dev/)) ([Advanced ZIO Workshop](https://github.com/jdegoes/advanced-zio))
+- [ZIO ZMX](https://github.com/zio/zio-zmx) - Monitoring, Metrics and Diagnostics for ZIO.
 - [Matryoshka](https://github.com/slamdata/matryoshka) - Generalized recursion schemes and traversals for Scala.
 - [Scrimage](https://github.com/sksamuel/scrimage) - Scala image processing library.
 - [Fastring](https://github.com/Atry/fastring) - Extremely fast string formatting.

@@ -321,3 +321,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [esbuild-dev-server](https://github.com/Falldot/esbuild-dev-server) - Allows you to start a local server with hot reloading with Esbuild.
 - [Hypertext tools from the 80s (2021)](https://fibery.io/blog/hypertext-tools-from-the-80s/) ([HN](https://news.ycombinator.com/item?id=28903469))
 - [Ask HN: Best way to host a website for 500 years? (2021)](https://news.ycombinator.com/item?id=28957573)
+- [pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives.

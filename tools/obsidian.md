@@ -29,6 +29,7 @@
 - [Minimal Setting](https://github.com/kepano/obsidian-minimal-settings) - Settings plugin to control colors and fonts in Minimal Theme.
 - [Linked Data Vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) - Add linked data to the YAML of your Obsidian notes.
 - [QuickAdd](https://github.com/chhoumann/quickadd) - Quickly add new pages or content to your vault.
+- [Metatable](https://github.com/arnau/obsidian-metatable) - Plugin to display the full frontmatter block instead of just the list of tags.
 
 ## Themes
 

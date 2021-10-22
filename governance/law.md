@@ -34,3 +34,4 @@
 - [The Diversity of International Law (2009)](https://brill.com/view/title/18005)
 - [Open Terms Archive](https://www.opentermsarchive.org/en) - Follow changes to terms of service. ([HN](https://news.ycombinator.com/item?id=28006249))
 - [Was Google Earth Stolen? (2021)](https://avibarzeev.medium.com/was-google-earth-stolen-7d1b821e589b) ([HN](https://news.ycombinator.com/item?id=28913378))
+- [Research Threats: Legal Threats Against Security Researchers](https://github.com/disclose/research-threats) ([Web](https://threats.disclose.io/))

@@ -205,3 +205,4 @@
 - [wasmCloud Host Runtime](https://github.com/wasmCloud/wasmcloud-otp) - Server process that securely hosts and provides dispatch for actors and capability providers.
 - [How I Failed to Change Wasmer (2021)](https://mnt.io/2021/10/04/i-leave-wasmer/) ([HN](https://news.ycombinator.com/item?id=28772863))
 - [witx-bindgen](https://github.com/bytecodealliance/witx-bindgen) - Bindings generator framework for WebAssembly programs and embeddings of WebAssembly.
+- [Pikt.js](https://github.com/arnau/piktjs) - WebAssembly JavaScript library for Pikchr.

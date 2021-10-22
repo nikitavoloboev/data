@@ -17,6 +17,7 @@
 - [Prolens nice ASCII diagrams](https://twitter.com/kowainik/status/1316297938667220992)
 - [Rome Toolchain](https://rome.tools/) - Nice sidebar with table of contents + search.
 - [PlanetScale Docs](https://docs.planetscale.com/) ([Code](https://github.com/planetscale/docs))
+- [Datadog Docs](https://docs.datadoghq.com/) ([Code](https://github.com/DataDog/documentation))
 
 ## Notes
 

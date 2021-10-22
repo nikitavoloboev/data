@@ -139,3 +139,4 @@
 - [What ORMs have taught me: just learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/index.html) ([HN](https://news.ycombinator.com/item?id=28812506))
 - [ZetaSQL](https://github.com/google/zetasql) - Analyzer Framework for SQL.
 - [SQL for Distributed Systems (2021)](https://www.babbling.fish/elt-cookbook-sql/) ([HN](https://news.ycombinator.com/item?id=28834117))
+- [sqlcommenter](https://google.github.io/sqlcommenter/) - Suite of middlewares/plugins that enable your ORMs to augment SQL statements. ([Code](https://github.com/google/sqlcommenter))

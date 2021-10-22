@@ -321,3 +321,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Consul](https://www.consul.io/) - Service Mesh for any runtime or cloud.
 - [Consul Replicate](https://github.com/hashicorp/consul-replicate) - Provides a convenient way to replicate values from one Consul data center to another using the consul-replicate daemon.
 - [multiping](https://github.com/ckauhaus/multiping) - Pings several hosts at once to test outside connectivity.
+- [Ethox](https://github.com/HeroicKatora/ethox) - Standalone library for user-space networking and unikernel systems with a focus on speeed and stability.

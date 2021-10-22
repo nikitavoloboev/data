@@ -172,6 +172,8 @@
 - [Authzed](https://authzed.com/) - Managed permissions database for everyone. ([GitHub](https://github.com/authzed)) ([Authzed API](https://github.com/authzed/api))
 - [Datomic](https://www.datomic.com/) - Transactional database with a flexible data model, elastic scaling, and rich queries. ([GitHub](https://github.com/Datomic)) ([Replicating with Datomic](https://whilo.github.io/articles/17/replicating-datomic))
 - [EdgelessDB](https://github.com/edgelesssys/edgelessdb) - Open-source MySQL-compatible database for confidential computing. Runs entirely inside a secure enclave and comes with advanced features for collaboration, recovery, and access control. ([Intro](https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-edgelessdb-a-database-designed-for-confidential/ba-p/2813631))
+- [Infinitree](https://github.com/symmetree-labs/infinitree) - Scalable and encrypted embedded database with 3-tier caching.
+- [Zerostash](https://github.com/symmetree-labs/zerostash) - Deduplicated, encrypted data store that provides native versioning capabilities, and was designed to secure all metadata related to the files.
 
 ## Tools
 

@@ -21,3 +21,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [1PasswordSuite](https://github.com/djhohnstein/1PasswordSuite) - Utilities to extract secrets from 1Password.
 - [Setting Env Vars From 1password (2021)](https://rossedman.io/blog/computers/setting-env-vars-from-1password/)
 - [Can securely share 1Password items with anyone (2021)](https://blog.1password.com/psst-item-sharing/)
+- [1Password Connect Kubernetes Operator](https://github.com/1Password/onepassword-operator)
