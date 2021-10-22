@@ -56,7 +56,7 @@ buttons.forEach((b) => b.click());
 - [The Definitive Guide to Object-Oriented JavaScript](https://www.youtube.com/watch?v=PMfcsYzj-9M) - Amazing video to understand JS inheritance & objects.
 - [JavaScript: The Core](http:J//dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
 - [JavaScript is Good, Actually](https://ashfurrow.com/blog/javascript-is-good-actually/) ([HN](https://news.ycombinator.com/item?id=17079952))
-- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings. ([HN](https://news.ycombinator.com/item?id=28933618))
 - [EC6 Features](http://es6-features.org/)
 - [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Ask HN: “Expert Level” JavaScript questions?](https://news.ycombinator.com/item?id=17324538)

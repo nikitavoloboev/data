@@ -121,3 +121,4 @@
 - [Svelte and SvelteKit - Why We Love It and Why You Should Try It (2021)](https://www.youtube.com/watch?v=KJ-qMlZnMCE)
 - [Awesome examples of SvelteKit in the wild](https://github.com/janosh/awesome-svelte-kit)
 - [URQL Svelte Template Project](https://github.com/JoviDeCroock/urql-svelte-kit)
+- [React Hooks in Svelte](https://github.com/joshnuss/react-hooks-in-svelte)

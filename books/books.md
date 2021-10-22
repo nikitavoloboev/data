@@ -422,3 +422,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Z-Library Books](https://nl1lib.org/)
 - [Z-Library Articles](https://booksc.org/)
 - [Top Shelves | Goodreads](https://www.goodreads.com/shelf)
+- [Royal Road](https://www.royalroad.com/welcome) - Home of web fiction.

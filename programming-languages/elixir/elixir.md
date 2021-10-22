@@ -125,3 +125,4 @@
 - [Under the Hood of Macros in Elixir (2021)](https://blog.appsignal.com/2021/10/05/under-the-hood-of-macros-in-elixir.html) ([HN](https://news.ycombinator.com/item?id=28758883))
 - [Thousand Island](https://github.com/mtrudel/thousand_island) - Modern, pure Elixir socket server, inspired heavily by ranch. ([Talk](https://github.com/mtrudel/talks/blob/main/2020-01-Toronto-Elixir-Night-Thousand-Island.pdf))
 - [TodoApp with Elixir LiveView](https://github.com/elixir-desktop/desktop-example-app)
+- [Design Patterns in Elixir](https://github.com/joshnuss/design-patterns-in-elixir)

@@ -208,3 +208,4 @@ And these Discord servers:
 - [Ask HN: Do any discussion boards that aren't Facebook/Reddit still exist? (2021)](https://news.ycombinator.com/item?id=28394321)
 - [Ask HN: What are some other general link aggregators aside from HN? (2021)](https://news.ycombinator.com/item?id=28632002)
 - [News](https://github.com/Denchick/news) - Collect news from different sources in just one place.
+- [What websites do you all check more than once per week? (2021)](https://www.reddit.com/r/slatestarcodex/comments/qdjf9m/what_websites_do_you_all_check_more_than_once_per/)

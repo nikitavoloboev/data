@@ -19,6 +19,10 @@
 - [rigpa](https://github.com/countvajhula/rigpa) - Modular editing levels and towers for Emacs.
 - [Auto Activating Snippets](https://github.com/ymarco/auto-activating-snippets) - Snippets for Emacs that expand as you type.
 
+## Git
+
+- [Magit](https://github.com/magit/magit) - Interface to the version control system Git, implemented as an Emacs package. ([Web](https://magit.vc/)) ([Article](https://emacsair.me/2017/09/01/the-magical-git-interface/)) ([HN](https://news.ycombinator.com/item?id=28954058))
+
 ## Elm
 
 - [elm-mode](https://github.com/jcollard/elm-mode) - Elm mode for emacs.
