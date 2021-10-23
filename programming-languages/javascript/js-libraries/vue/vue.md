@@ -78,3 +78,4 @@
 - [Nuxt 3 Starter](https://github.com/productfrontenddeveloper/nuxt3-app) - Nuxt3, Tailwindcss, Sass, Headless UI, Vue.
 - [Vue Bleeding Edge](https://github.com/aldy505/vue-bleeding-edge) - Aiming to simulate Nuxt 3 without using Nuxt.
 - [Vue 3 + Vite template](https://github.com/reinink/tailwindui-modal-example)
+- [Is Nuxt 3 ready?](https://isnuxt3ready.owln.ai/) ([Code](https://github.com/owlnai/isnuxt3ready))

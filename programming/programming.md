@@ -468,3 +468,5 @@
 - [Programming Aesthetics: I. The Missing Skill (2021)](https://blog.audax-labs.com/posts/2021-10-16-code-aesthetics-1)
 - [Readability verification (2021)](https://blog.ploeh.dk/2021/10/18/readability-verification/)
 - [Why I Hate Frameworks (2005)](https://www.fredrikholmqvist.com/pages/why-i-hate-frameworks.html) ([HN](https://news.ycombinator.com/item?id=28920095))
+- [Hello, declarative world](https://tomstu.art/hello-declarative-world)
+- [Personal programming guidelines](https://github.com/guettli/programming-guidelines)

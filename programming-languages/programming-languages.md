@@ -254,3 +254,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [LangSandbox](https://github.com/ftomassetti/LangSandbox) - Project to illustrate how to build a programming language.
 - [Toward a Theory of Programming Language and Reasoning Assistant Design: Minimizing Cognitive Load (2021)](https://arxiv.org/abs/2110.03806v1)
 - [Comparison of enumerations and similar features in different languages](https://github.com/Crell/enum-comparison)
+- [Static Analysis: An Introduction (2021)](https://queue.acm.org/detail.cfm?id=3487021)

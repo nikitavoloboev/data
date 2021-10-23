@@ -416,3 +416,4 @@
 - [ByteTrack: Multi-Object Tracking by Associating Every Detection Box (2021)](https://arxiv.org/abs/2110.06864) ([Code](https://github.com/ifzhang/ByteTrack))
 - [Dense Video Captioning with Bi-modal Transformer (2020)](https://iashin.ai/bmt) ([Code](https://github.com/v-iashin/BMT))
 - [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding) - CV toolkit for my papers. ([Docs](https://hangzhang.org/PyTorch-Encoding/))
+- [Space Time Recurrent Memory Network (2021)](https://arxiv.org/abs/2109.06474) ([Code](https://github.com/lucidrains/spacetime-recurrent-memory-network))

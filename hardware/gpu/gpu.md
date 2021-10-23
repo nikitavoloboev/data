@@ -67,3 +67,4 @@
 - [How to train large models on many GPUs? (2021)](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html) ([HN](https://news.ycombinator.com/item?id=28657797))
 - [Gentle introduction to GPUs inner workings (2021)](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/) ([HN](https://news.ycombinator.com/item?id=28728138))
 - [Heterogeneous Systems Course: Meeting 2: SIMD processors and GPU architecture (2021)](https://www.youtube.com/watch?v=fO8Yw1pmyyc)
+- [Implementing a GPU-driven debug line renderer (2021)](https://www.gijskaerts.com/wordpress/?p=190)

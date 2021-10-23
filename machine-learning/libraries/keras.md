@@ -21,3 +21,4 @@
 - [aXeleRate](https://github.com/AIWintermuteAI/aXeleRate) - Keras-based framework for AI on the Edge.
 - [Insightface Keras implementation](https://github.com/leondgarse/Keras_insightface)
 - [Conditional RNN (Tensorflow Keras)](https://github.com/philipperemy/cond_rnn)
+- [MobileViT: A mobile-friendly Transformer-based model for image classification](https://keras.io/examples/vision/mobilevit/) ([Tweet](https://twitter.com/fchollet/status/1451977110860406789))

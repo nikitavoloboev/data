@@ -150,6 +150,7 @@ And these Discord servers:
 - [IEEE Spectrum](https://spectrum.ieee.org/)
 - [The MIT Press Reader](https://thereader.mitpress.mit.edu/)
 - [Inference](https://inference-review.com/) - International Review of Science.
+- [A Cup of Jo](https://cupofjo.com/) - Style, Culture, Motherhood, Travel, Food & Life.
 
 ### Other
 

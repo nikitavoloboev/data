@@ -254,3 +254,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [The Expanse | James S.A.Corey | Talks at Google (2014)](https://www.youtube.com/watch?v=sCsPtUo91B0)
 - [Scaling Engineering Teams via RFCs: Writing Things Down (2021)](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
 - [Learning about writing by seeing only the punctuation (2021)](https://medium.com/creators-hub/what-i-learned-about-my-writing-by-seeing-only-the-punctuation-efd5334060b1) ([Tool](https://just-the-punctuation.glitch.me/)) ([HN](https://news.ycombinator.com/item?id=28899242))
+- [More Asemic Writing (2020)](https://inconvergent.net/2020/asemic-writing/)

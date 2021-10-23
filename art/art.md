@@ -464,3 +464,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [KnownOrigin](https://knownorigin.io/) - Digital Art Marketplace.NFT Crypto Art.
 - [Botto](https://botto.com/) - Decentralized, autonomous artist governed by the people. ([Twitter](https://twitter.com/bottoproject)) ([Tweet](https://twitter.com/quasimondo/status/1446767627519602692))
 - [50 Watts](http://50watts.com/) - Growing archive of weird and wonderful visual ephemera from around the world. ([IG](https://www.instagram.com/50wattsdotcom/))
+- [Seb Lester](https://www.seblester.com/) - Lettering Artist. ([Twitter](https://twitter.com/SebLester))

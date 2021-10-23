@@ -226,6 +226,7 @@
 - [Bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control management tool for developers and DBAs. ([Web](https://bytebase.com/))
 - [Sequelize-Auto](https://github.com/sequelize/sequelize-auto) - Automatically generate models for SequelizeJS via the command line.
 - [DrawSQL](https://drawsql.app/) - Database schema diagrams.
+- [SQLize](https://github.com/sunary/sqlize) - Generate MySQL/PostgreSQL Migration from Go struct and existing SQL.
 
 ## Notes
 

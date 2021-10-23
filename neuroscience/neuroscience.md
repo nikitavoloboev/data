@@ -83,6 +83,8 @@
 - [Neuroscientists roll out first comprehensive atlas of brain cells (2021)](https://news.berkeley.edu/2021/10/06/neuroscientists-roll-out-first-comprehensive-atlas-of-brain-cells/) ([HN](https://news.ycombinator.com/item?id=28838852))
 - [Please stop calling dopamine an addictive rewarding neurochemical (2017)](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive) ([HN](https://news.ycombinator.com/item?id=28852348))
 - [Операции на мозге и звонки с того света. Откровения нейрохирурга (2021)](https://www.youtube.com/watch?v=2H0-uqGNDtw)
+- [Visual percepts evoked with an Intracortical 96-channel microelectrode array inserted in human occipital cortex (2021)](https://www.jci.org/articles/view/151331) ([Tweet](https://twitter.com/AntonioLozanoDL/status/1451125781967560706))
+- [Neurolight: A Deep Learning Neural Interface for Cortical Visual Prostheses (2020)](https://www.worldscientific.com/doi/10.1142/S0129065720500458?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) ([Tweet](https://twitter.com/fchollet/status/1451973437652566017))
 
 ## Images
 

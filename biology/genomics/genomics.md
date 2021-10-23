@@ -106,3 +106,4 @@
 - [Polypolish](https://github.com/rrwick/Polypolish) - Short-read polishing tool for long-read assemblies.
 - [Holt Lab](https://holtlab.net/) - Microbial genomics.
 - [Prodigal](https://github.com/hyattpd/Prodigal) - Prodigal Gene Prediction Software.
+- [Predicting gene expression with AI | DeepMind (2021)](https://deepmind.com/blog/article/enformer) ([Code](https://github.com/lucidrains/enformer-pytorch))

@@ -1,5 +1,7 @@
 # Machine learning
 
+[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch.
+
 ## Notes
 
 - A big part of the utility of math (especially in ML) is having breadth rather than depth. The strategy of picking out specific things you don't know from papers and looking them up is only effective if you have the breadth in your background to understand the answers you find.
@@ -574,3 +576,4 @@
 - [Learning in High Dimension Always Amounts to Extrapolation (2021)](https://arxiv.org/abs/2110.09485) ([Tweet](https://twitter.com/ylecun/status/1450560732483948545))
 - [Awesome Transformer Architecture Search](https://github.com/automl/awesome-transformer-search)
 - [Katana ML Skipper](https://github.com/katanaml/katana-skipper) - Simple and flexible ML workflow engine. It helps to orchestrate events across a set of microservices and create executable flow to handle requests.
+- [PaRoT: A Practical Framework for Robust Deep Neural Network Training (2021)](https://arxiv.org/abs/2001.02152)

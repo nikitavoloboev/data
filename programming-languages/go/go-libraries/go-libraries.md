@@ -1013,6 +1013,7 @@
 - [pongo2](https://github.com/flosch/pongo2) - Django-syntax like template-engine for Go.
 - [sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients.
 - [procfs](https://github.com/prometheus/procfs) - Functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
+- [Hunch](https://github.com/AaronJan/Hunch) - Provides functions like: All, First, Retry, Waterfall etc., that makes asynchronous flow control more intuitive.
 
 ## Links
 

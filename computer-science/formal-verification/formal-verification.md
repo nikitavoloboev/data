@@ -84,3 +84,4 @@
 - [hoice](https://github.com/hopv/hoice) - ICE-based predicate synthesizer for Horn clauses.
 - [Higher-Order Program Verification](https://github.com/hopv)
 - [SMACK](https://github.com/smackers/smack) - Software Verifier and Verification Toolchain. ([Web](http://smackers.github.io/))
+- [A Tool for Producing Verified, Explainable Proofs Thesis (2021)](https://www.edayers.com/thesis/) ([Code](https://github.com/EdAyers/lean-humanproof-thesis))

@@ -33,3 +33,4 @@
 - [Porth](https://github.com/tsoding/porth) - Like Forth but in Python.
 - [Differentiable Forth Interpreter](https://github.com/uclnlp/d4)
 - [Write a Forth in Haskell (2020)](https://glitchbra.in/post/write-a-forth-in-haskell-intro/)
+- [muforth](https://github.com/nimblemachines/muforth) - Small, simple, fast, indirect-threaded code (ITC) Forth intended for use as a cross-compiler for microcontrollers and other embedded devices.
