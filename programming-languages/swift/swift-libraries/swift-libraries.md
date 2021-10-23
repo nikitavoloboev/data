@@ -794,6 +794,7 @@
 - [SwiftExif](https://github.com/kradalby/SwiftExif) - Wrapping library for libexif and libiptcdata for Swift to provide a JPEG metadata extraction.
 - [JSONElement](https://github.com/rundfunk47/jsonelement) - Bridging the gap between untyped and typed when dealing with JSON data in Swift.
 - [ReMVVM](https://github.com/ReMVVM/ReMVVM) - Application architecture concept, marriage of Unidirectional Data Flow (Redux) with MVVM.
+- [LanguageServerProtocol](https://github.com/ChimeHQ/LanguageServerProtocol) - Swift library for working with LSP.
 
 ## Other (not lib)
 

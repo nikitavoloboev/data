@@ -46,3 +46,4 @@
 - [GCP Tau VMs](https://cloud.google.com/tau-vm) - Compute Engine virtual machines optimized for scale-out workloads. ([Tweet](https://twitter.com/uhoelzle/status/1450881369114963973))
 - [Local Emulator for Google Cloud Storage](https://github.com/oittaa/gcp-storage-emulator)
 - [csi-gcs](https://github.com/ofek/csi-gcs) - Kubernetes CSI driver for Google Cloud Storage.
+- [Google Cloud Build Local Builder](https://github.com/GoogleCloudPlatform/cloud-build-local)

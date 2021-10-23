@@ -106,3 +106,4 @@
 - [Solana CEO Advice on SOL staking (2021)](https://www.reddit.com/r/solana/comments/qch4cu/when_you_ask_for_tips_about_staking_and_the_ceo/)
 - [SPL Token Wallet](https://github.com/project-serum/spl-token-wallet) - Example Solana wallet with support for SPL tokens and Serum integration.
 - [How to Build and Deploy a Solana Smart Contract (2021)](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
+- [Treat Toolbox](https://github.com/theskeletoncrew/treat-toolbox) - Generative NFT Utility for Candy Machine / Solana.
