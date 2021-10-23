@@ -139,3 +139,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Thoughts on chess improvement, after gaining 600 points in 6 months (1200-1800)](https://mbuffett.com/posts/chess_improvement_thoughts/) ([HN](https://news.ycombinator.com/item?id=28787221))
 - [poirebot](https://github.com/aramperes/poirebot) - Chess engine and bot written in Rust.
 - [How to Calculate the Trappiest Openings in Chess Using Stats (2021)](https://medium.com/applied-data-science/how-to-calculate-the-trappiest-openings-in-chess-2bc24a6345f7) ([HN](https://news.ycombinator.com/item?id=28887015))
+- [Blunder](https://github.com/algerbrex/blunder) - UCI compatible chess engine written in Go.
