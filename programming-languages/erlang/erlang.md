@@ -20,7 +20,7 @@
 - [Enigma VM](https://github.com/archseer/enigma) - Simple Erlang VM implementation in Rust.
 - [ErlangRT](https://github.com/kvakvs/ErlangRT) - Attempt to make Erlang runtime (BEAM emulator) in Rust.
 - [BEAM VM Wisdoms (2019)](http://beam-wisdoms.clau.se/en/latest/) - In-depth knowledge such as VM internals, memory layout, opcodes etc. ([HN](https://news.ycombinator.com/item?id=26889048))
-- [Adopting Erlang](https://adoptingerlang.org/) - Ongoing effort to gather all the resources that will help you use Erlang in a business.
+- [Adopting Erlang](https://adoptingerlang.org/) - Ongoing effort to gather all the resources that will help you use Erlang in a business. ([HN](https://news.ycombinator.com/item?id=28940337))
 - [Lumen](https://github.com/lumen/lumen) - New compiler and runtime for BEAM languages.
 - [Études for Erlang book](http://www.r-5.org/files/books/computers/languages/erlang/erlang/David_Eisenberg-Etudes_for_Erlang-EN.pdf) - Companion exercises for introducing Erlang. ([Code](https://github.com/oreillymedia/etudes-for-erlang))
 - [Spawned Shelter](http://spawnedshelter.com/) - Collection of the best articles, videos and books for learning Erlang.
