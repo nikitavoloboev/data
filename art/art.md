@@ -465,3 +465,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Botto](https://botto.com/) - Decentralized, autonomous artist governed by the people. ([Twitter](https://twitter.com/bottoproject)) ([Tweet](https://twitter.com/quasimondo/status/1446767627519602692))
 - [50 Watts](http://50watts.com/) - Growing archive of weird and wonderful visual ephemera from around the world. ([IG](https://www.instagram.com/50wattsdotcom/))
 - [Seb Lester](https://www.seblester.com/) - Lettering Artist. ([Twitter](https://twitter.com/SebLester))
+- [The Klimt Color Enigma](https://artsandculture.google.com/story/the-klimt-color-enigma/SQWxuZfE5ki3mQ?hl=en) - Colorizing Klimt’s Vanished Paintings with Artificial Intelligence and Klimt Experts. ([HN](https://news.ycombinator.com/item?id=28955639))

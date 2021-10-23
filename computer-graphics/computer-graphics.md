@@ -182,3 +182,4 @@
 - [Exponential Map, Angle Axis, and Angular Velocity (2021)](https://theorangeduck.com/page/exponential-map-angle-axis-angular-velocity)
 - [Visualizing Rotation Spaces (2021)](https://theorangeduck.com/page/visualizing-rotation-spaces)
 - [Learned Motion Matching (2020)](https://theorangeduck.com/page/learned-motion-matching)
+- [Swapchains and Frame Pacing (2021)](https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html) ([HN](https://news.ycombinator.com/item?id=28963392))

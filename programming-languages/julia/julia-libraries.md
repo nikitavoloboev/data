@@ -314,6 +314,7 @@
 - [ZipFile](https://github.com/fhs/ZipFile.jl) - Read/Write ZIP archives in Julia.
 - [Manifolds.jl](https://github.com/JuliaManifolds/Manifolds.jl) - Unified interface to define and use manifolds.
 - [AtomsBase](https://github.com/JuliaMolSim/AtomsBase.jl) - Abstract interface for representation of atomic geometries in Julia.
+- [Combinatorics](https://github.com/JuliaMath/Combinatorics.jl) - Combinatorics library. Focusing on enumerative combinatorics and permutations.
 
 ## Links
 

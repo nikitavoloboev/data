@@ -151,3 +151,4 @@
 - [What does my engineering manager do all day? (2021)](https://parkjoon.medium.com/what-does-my-engineering-manager-do-all-day-ebdc37c45d8) ([HN](https://news.ycombinator.com/item?id=28676581))
 - [Why is everything so hard in a large organization?](https://graphthinking.blogspot.com/2021/09/why-is-everything-so-hard-in-large.html) ([HN](https://news.ycombinator.com/item?id=28692026))
 - [Best management books about thinking in non-linear environments (2021)](https://twitter.com/Plinz/status/1448060124174553093)
+- [Managing up: How to get what you want & give your boss what they need](https://twitter.com/wes_kao/status/1451926441239719947)

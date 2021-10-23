@@ -578,3 +578,4 @@ if err != nil {
 - [Go Concurrency Patterns](https://github.com/lotusirous/go-concurrency-patterns)
 - [Functional Options are named args on steroids (2021)](https://blog.uptrace.dev/posts/go-functional-options-named-args.html) ([Reddit](https://www.reddit.com/r/golang/comments/qcmt8c/functional_options_are_named_args_on_steroids/))
 - [rustgo: calling Rust from Go with near-zero overhead (2017)](https://blog.filippo.io/rustgo/)
+- [Discord Gophers](https://discord.com/invite/0f1SbxBZjYoCtNPP) ([GitHub](https://github.com/DiscordGophers))

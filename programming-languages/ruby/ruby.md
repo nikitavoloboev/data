@@ -89,3 +89,4 @@
 - [YJIT](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby. ([Article](https://shopify.engineering/yjit-just-in-time-compiler-cruby)) ([HN](https://news.ycombinator.com/item?id=28874283)) ([HN](https://news.ycombinator.com/item?id=28938446))
 - [Embracing Infinite Loops with Ruby and Polyphony (2021)](https://noteflakes.com/articles/2021-10-14-embracing-infinite-loops)
 - [A Compositional Approach to Optimizing the Performance of Ruby Apps (2021)](https://noteflakes.com/articles/2021-10-05-a-compositional-approach-to-ruby-performance)
+- [Rufo](https://github.com/ruby-formatter/rufo) - Ruby Formatter.

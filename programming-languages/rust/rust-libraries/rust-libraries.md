@@ -1060,6 +1060,7 @@
 - [rust-lapper](https://github.com/sstadick/rust-lapper) - Rust implementation of a fast, easy, interval tree library nim-lapper.
 - [sigstore-rs](https://github.com/sigstore/sigstore-rs) - Rust crate for sigstore.
 - [image-png](https://github.com/image-rs/image-png) - PNG Decoder/Encoder.
+- [streamline](https://github.com/NAlexPear/streamline) - Reversible streaming state machine library for Rust.
 
 ## Cargo Plugins
 

@@ -52,3 +52,4 @@
 - [Web Components interlop advantage](https://twitter.com/justinfagnani/status/1444739792017653763)
 - [Web Components Community Group](https://github.com/w3c/webcomponents-cg)
 - [HTML with Superpowers (2021)](https://daverupert.com/2021/10/html-with-superpowers/) - Talk about Web Components. ([Video](https://www.youtube.com/watch?v=fEhBkSZ15qM))
+- [Simplr Router](https://github.com/Simplr/simplr-router) - Small and effective routing solution for Web Components. ([Web](https://simplr.github.io/simplr-router/))

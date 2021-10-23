@@ -1,5 +1,9 @@
 # [Reddit](https://www.reddit.com/)
 
+## Bots
+
+- [Music recognition bot for Reddit powered by audd.io](https://github.com/AudDMusic/RedditBot)
+
 ## Links
 
 - [Libreddit](https://libredd.it/) - Private front-end for Reddit written in Rust. ([Code](https://github.com/spikecodes/libreddit)) ([HN](https://news.ycombinator.com/item?id=28451882))

@@ -153,3 +153,4 @@
 - [Docker Scan](https://github.com/docker/scan-cli-plugin) - Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images.
 - [Crane](https://github.com/InfuseAI/crane) - Easy-to-use and beautiful desktop application helps you build manage your docker images.
 - [Docker Compose Specification](https://compose-spec.io/) ([Code](https://github.com/compose-spec/compose-ref))
+- [Containernet](https://github.com/containernet/containernet) - Mininet fork adding support for container-based (e.g. Docker) emulated hosts. ([Web](https://containernet.github.io/))

@@ -129,6 +129,7 @@
 - [Alembic](https://github.com/sqlalchemy/alembic) - Database migrations tool for SQLAlchemy.
 - [data_algebra](https://github.com/WinVector/data_algebra) - Codd method-chained SQL generator and Pandas data processing in Python.
 - [pytest-postgresql](https://github.com/ClearcodeHQ/pytest-postgresql) - Pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database.
+- [omniduct](https://github.com/airbnb/omniduct) - Uniform interfaces for connecting to and extracting data from a wide variety of (potentially remote) data stores.
 
 ## GUI
 
@@ -521,6 +522,9 @@
 - [Boxes.py](https://github.com/florianfesti/boxes) - Laser cutting boxes and more.
 - [Sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Provides a bridge between Scikit-Learn's machine learning methods and pandas-style Data Frames.
 - [Mau](https://github.com/Project-Mau/mau) - Lightweight markup language heavily inspired by AsciiDoc, Asciidoctor and Markdown.
+- [Formulaic](https://github.com/matthewwardrop/formulaic) - High-performance implementation of Wilkinson formulas for Python.
+- [spec_classes](https://github.com/matthewwardrop/spec-classes) - Simple way to incrementally build type-checked specifications.
+- [Mensor](https://github.com/matthewwardrop/mensor) - Graph-based computation engine for computing measures and metrics.
 
 ## Links
 

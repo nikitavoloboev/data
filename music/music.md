@@ -156,3 +156,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Euterpe](https://listen-to-euterpe.eu/) - Self-hosted music streaming server with RESTful API and Web interface. Think of it as your very own Spotify. ([Code](https://github.com/ironsmile/euterpe))
 - [Music on a Clear Möbius Strip (2021)](https://www.youtube.com/watch?v=sToqbqP0tFk)
 - [Using Graph Embeddings for Music Visualization + Discovery with node2vec](https://cprimozic.net/blog/graph-embeddings-for-music-discovery/) ([Lobsters](https://lobste.rs/s/ktd9ew/using_graph_embeddings_for_music))
+- [AudD](https://audd.io/) - Music Recognition API. ([Go API Library](https://github.com/AudDMusic/audd-go))
