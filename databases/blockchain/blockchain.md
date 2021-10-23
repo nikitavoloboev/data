@@ -259,3 +259,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Cadence](https://github.com/onflow/cadence) - Resource-oriented smart contract programming language.
 - [Cairo](https://www.cairo-lang.org/) - Turing-complete language making it possible for all blockchain developers to harness the power of STARKs. ([Code](https://github.com/starkware-libs/cairo-lang))
 - [TokenScript](http://tokenscript.org/) - JavaScript / XML framework for blockchain token which creates a layer between a blockchain and user devices. ([Specs](https://github.com/TokenScript/TokenScript))
+- [What is an NFT?](https://twitter.com/punk6529/status/1451896453065023493)

@@ -167,3 +167,4 @@
 - [Creative Coding Notes](https://github.com/cacheflowe/creative-coding-notes)
 - [Haxademic.js](https://github.com/cacheflowe/haxademic.js) - Personal front-end JavaScript toolkit.
 - [Tiny humans](https://tinyhumans.vercel.app/) - Little interactive sandbox for tiny people, tiny thoughts, and their tiny stories. ([Code](https://github.com/thesephist/tinyhumans))
+- [Tyler Hobbs - Designing NFT Generative Art with a Traditional Touch (2021)](https://www.proof.xyz/tyler-hobbs-designing-nft-generative-art/)

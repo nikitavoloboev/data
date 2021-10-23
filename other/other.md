@@ -251,7 +251,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [skill-tree](https://github.com/nikomatsakis/skill-tree) - Tool for rendering "skill trees", currently using graphviz.
 - [unFTP](https://github.com/bolcom/unFTP) - FTP(S) server with a couple of twists written in Rust.
 - [Zenoh](http://zenoh.io/) - Zero Overhead, Pub/Sub, Store, Query, and Compute Protocol. ([Code](https://github.com/eclipse-zenoh/zenoh))
-- [Replicache](https://replicache.dev/) - Easy Offline-First for Existing Applications. ([Code](https://github.com/rocicorp/replicache)) ([Design](https://github.com/rocicorp/replicache/blob/master/design.md)) ([Tweet](https://twitter.com/replicache/status/1359690468892626944))
+- [Replicache](https://replicache.dev/) - Easy Offline-First for Existing Applications. ([Code](https://github.com/rocicorp/replicache)) ([Design](https://github.com/rocicorp/replicache/blob/master/design.md)) ([Tweet](https://twitter.com/replicache/status/1359690468892626944)) ([Tweet](https://twitter.com/dpeeky/status/1451701841847222273))
 - [Engineering Ladders](https://github.com/bmoeskau/engineering-ladders) - Collection of engineering ladders for reference and inspiration.
 - [Practical tips that can help you be evaluated more fairly during performance review (2018)](https://twitter.com/mekkaokereke/status/1027552459873378304)
 - [Tonari](https://tonari.no/) - Open doorway to another place, enabling you to be together and communicate naturally, just like you're really there. ([GitHub](https://github.com/tonarino))
