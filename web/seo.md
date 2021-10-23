@@ -65,3 +65,4 @@
 - [Boring SEO](https://boringseo.org/) - SEO guide for non lazy people. ([HN](https://news.ycombinator.com/item?id=28706570))
 - [How to prioritize pages for content promotion and link building (2021)](https://twitter.com/AlanGGorilla/status/1447955252481724417)
 - [Are you making SEO Strategically Important? (2021)](https://seomba.substack.com/p/are-you-making-seo-strategically)
+- [Introduction to Keywords via Understanding Searcher Psychology (2021)](https://daedtech.com/introduction-to-keywords-via-understanding-searcher-psychology/)
