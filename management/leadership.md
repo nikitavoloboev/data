@@ -5,6 +5,7 @@
 - [If you are in a leadership position, part of your job is to say "no" on behalf of others who don't have the security to do so.](https://twitter.com/rakyll/status/1369502879023726596)
 - [Leadership is not about being in charge. Leadership is about taking care of those in your charge.](https://twitter.com/simonsinek/status/1372249895894183942)
 - [My advice for young people starting out in their careers: choose leaders who are competent, compassionate, and secure in themselves (not just pretending to be). Careers are long, and early role models have a disproportionately large impact on your trajectory—for better or worse.](https://twitter.com/jenistyping/status/1385393700855943170)
+- [Be the senior you needed when you were a junior.](https://twitter.com/decodeVeronika/status/1451394626984759312)
 
 ## Links
 

@@ -377,3 +377,4 @@
 - [xFormers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [Language Models As or For Knowledge Bases (2021)](https://arxiv.org/pdf/2110.04888.pdf)
 - [Wikipedia2Vec](https://wikipedia2vec.github.io/wikipedia2vec/) - Tool for learning vector representations of words and entities from Wikipedia. ([Code](https://github.com/wikipedia2vec/wikipedia2vec))
+- [Reflections on Foundation Models (2021)](https://crfm.stanford.edu/2021/10/18/reflections.html) ([Tweet](https://twitter.com/erikbryn/status/1451720985132945415))
