@@ -113,3 +113,4 @@
 - [Using RSS to replace social media](https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media) ([HN](https://news.ycombinator.com/item?id=28645871))
 - [Miniflux](https://miniflux.app/) - Minimalist and Opinionated Feed Reader.
 - [rss](https://github.com/rust-syndication/rss) - Rust library for serializing the RSS web content syndication format.
+- [RSS is wonderful (2021)](https://quakkels.com/posts/rss-is-wonderful/) ([HN](https://news.ycombinator.com/item?id=28967540))

@@ -288,3 +288,4 @@ Awesome List
 - [Team manager](https://github.com/cilium/team-manager) - Bot to manage team members in GitHub organizations.
 - [fgh](https://github.com/gleich/fgh) - Automate the lifecycle and organization of your cloned GitHub repositories.
 - [10 tips for better Pull Requests (2015)](https://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/)
+- [bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases.

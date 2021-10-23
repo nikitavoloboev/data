@@ -117,3 +117,4 @@ Learning to build [startups](startups/startups.md).
 - [Companies that started as spreadsheets (2021)](https://twitter.com/stephsmithio/status/1448784835477008396)
 - [Steve Jobs on Starting A Business](https://www.youtube.com/watch?v=kwkGX-PlTxs)
 - [trademarks](https://github.com/Denchick/trademarks) - Small service that helps to check if there was already a registered trademark.
+- [Leaving Google (2021)](https://jayconrod.com/posts/122/leaving-google) ([HN](https://news.ycombinator.com/item?id=28965282))

@@ -600,3 +600,4 @@
 - [What is Rust written in? (2021)](https://www.reddit.com/r/rust/comments/qbv2l8/what_is_rust_written_in/)
 - [WebApp.rs](https://github.com/saschagrunert/webapp.rs) - Web application completely written in Rust.
 - [Rust 1.56.0 and Rust 2021](https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html) ([HN](https://news.ycombinator.com/item?id=28945420))
+- [A Rust optimization story (2021)](https://quickwit.io/blog/search-a-sorted-block/) ([HN](https://news.ycombinator.com/item?id=28955461))

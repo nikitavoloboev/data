@@ -49,7 +49,7 @@ All active variables can be seen by running `env`.
 - [Wez's Terminal](https://github.com/wez/wezterm) - GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust.
 - [Text processing in the shell (2020)](https://blog.balthazar-rouberol.com/text-processing-in-the-shell) ([HN](https://news.ycombinator.com/item?id=22590824))
 - [Crush](https://github.com/liljencrantz/crush) - Attempt to make a command line shell that is also a powerful modern programming language.
-- [nsh](https://github.com/nuta/nsh) - Command-line shell like fish, but POSIX compatible.
+- [Nsh](https://github.com/nuta/nsh) - Fish/bash-like Posix shell in Rust. ([HN](https://news.ycombinator.com/item?id=28967257))
 - [Three Comics For Understanding Unix Shell (2020)](http://www.oilshell.org/blog/2020/04/comics.html)
 - [Oil Shell](http://www.oilshell.org/) - New Unix shell. ([Blog](http://www.oilshell.org/blog/)) ([Idioms](http://www.oilshell.org/preview/doc/idioms.html))
 - [asciinema](https://asciinema.org/) - Web player for terminal session recordings. ([Code](https://github.com/asciinema/asciinema-player))

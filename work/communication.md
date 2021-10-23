@@ -146,3 +146,4 @@
 - [Banal binaries: How power plays into how we communicate (2021)](https://www.tatianamac.com/posts/power-binaries/) ([Tweet](https://twitter.com/TatianaTMac/status/1447922760622223367))
 - [How to have civil discourse without flamebait](https://news.ycombinator.com/item?id=27161491)
 - [Manipulation versus Communication (2021)](http://charltonteaching.blogspot.com/2021/09/what-is-meaning-of-establishment.html) ([HN](https://news.ycombinator.com/item?id=28890584))
+- [Ask HN: I'm making like 0 friends at college, how to fix it? (2021)](https://news.ycombinator.com/item?id=28968506)

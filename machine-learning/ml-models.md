@@ -48,3 +48,4 @@
 - [RecoEdge](https://github.com/NimbleEdge/RecoEdge) - Deploy recommendation engines with Edge Computing.
 - [MLRun](https://github.com/mlrun/mlrun) - Open-Source MLOps Orchestration Framework.
 - [PrimeHub](https://github.com/InfuseAI/primehub) - Toil-free multi-tenancy machine learning platform in your Kubernetes cluster. ([Docs](https://docs.primehub.io/))
+- [MLeap](https://github.com/combust/mleap) - Deploy ML Pipelines to Production. ([Docs](https://combust.github.io/mleap-docs/))

@@ -273,3 +273,4 @@
 - [React Render Tutorial - YouTube (2020)](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg7czgqpQIBEAHn8D6l530t)
 - [A Visual Guide to React Rendering - Cheat Sheet (2021)](https://alexsidorenko.com/blog/react-render-cheat-sheet/)
 - [How to Detect Slow Renders in React? (2021)](https://alexsidorenko.com/blog/react-performance-slow-renders/)
+- [React Docs Beta](https://beta.reactjs.org/) ([HN](https://news.ycombinator.com/item?id=28969194))

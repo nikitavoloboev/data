@@ -379,3 +379,4 @@ all: unset
 - [100 bytes of CSS to look great everywhere to style text](https://twitter.com/swyx/status/1449472712720601088)
 - [New Simple and Lighter CSS Reset](https://github.com/elad2412/the-new-css-reset) - Removes all the default styles which we are getting on specific HTML elements except the ‘display’ property. ([Web](https://elad2412.github.io/the-new-css-reset/)) ([Article](https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/))
 - [Pylon](https://almonk.github.io/pylon/) - Declarative layout primitives for CSS & HTML. ([Code](https://github.com/almonk/pylon))
+- [What do I need to read to be a great at CSS? (2021)](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/) ([HN](https://news.ycombinator.com/item?id=28968137))

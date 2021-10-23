@@ -96,3 +96,4 @@
 - [Resources for Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
 - [Responsible-AI-Widgets](https://github.com/microsoft/responsible-ai-widgets) - Responsible AI user interfaces for Fairlearn, interpret-community, and Error Analysis, as well as foundational building blocks that they rely on.
 - [Notes on Artificial Intelligence](http://frnsys.com/notes/ai/) ([Code](https://github.com/frnsys/ai_notes))
+- [Using AI to accelerate scientific discovery - Demis Hassabis (2021)](https://www.youtube.com/watch?v=sm-VkgVX-2o)

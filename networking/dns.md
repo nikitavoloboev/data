@@ -139,3 +139,5 @@
 - [DNS-client](https://github.com/Denchick/dns-client) - Implementation of a DNS-client using a socket library.
 - [Reserved Top Level DNS Names](https://www.rfc-editor.org/rfc/rfc2606.html)
 - [Fixing reachability to 1.1.1.1, Globally (2018)](https://blog.cloudflare.com/fixing-reachability-to-1-1-1-1-globally/)
+- [Bob Wallet](https://bobwallet.io/) - Desktop application for DNS management and name auctions on Handshake. ([Code](https://github.com/kyokan/bob-wallet))
+- [shakedex](https://github.com/kurumiimari/shakedex) - Decentralized exchange for Handshake names.

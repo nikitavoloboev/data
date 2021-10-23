@@ -12,7 +12,7 @@
 - [Database The Prolog Way](https://www.i-programmer.info/programming/artificial-intelligence/1331-database-the-prolog-way.html)
 - [Prodog](http://www.cs.tufts.edu/~couch/archives/prodog/) - System Administration in Prolog. ([Lobsters](https://lobste.rs/s/v6nomp/database_prolog_way))
 - [It's Elementary, Dear Watson: Applying Logic Programming To Convergent System Management Processes](https://www.usenix.org/legacy/publications/library/proceedings/lisa99/full_papers/couch/couch_html/index.html)
-- [Scryer Prolog](https://github.com/mthom/scryer-prolog) - Modern Prolog implementation written mostly in Rust.
+- [Scryer Prolog](https://github.com/mthom/scryer-prolog) - Modern Prolog implementation written mostly in Rust. ([HN](https://news.ycombinator.com/item?id=28966133))
 - [chalk](https://github.com/rust-lang/chalk) - PROLOG-ish interpreter written in Rust, intended eventually for use in the compiler.
 - [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter. ([OCAml Binds](https://github.com/voodoos/elpi-js))
 - [Programming in Tabled Prolog book](https://github.com/SWI-Prolog/tabled-prolog-book)

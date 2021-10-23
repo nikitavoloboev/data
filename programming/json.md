@@ -76,3 +76,4 @@
 - [Parsing JSON is a Minefield](http://seriot.ch/projects/parsing_json.html) ([HN](https://news.ycombinator.com/item?id=28826600))
 - [Hyperjump](https://json-schema.hyperjump.io/) - JSON Schema Validator. ([Code](https://github.com/hyperjump-io/json-schema-validator))
 - [JSON Schema for Humans](https://github.com/coveooss/json-schema-for-humans) - Quickly generate a beautiful static HTML or Markdown page documenting a JSON schema.
+- [Parsing Gigabytes of JSON per Second (2020)](https://arxiv.org/abs/1902.08318) ([HN](https://news.ycombinator.com/item?id=28941207))
