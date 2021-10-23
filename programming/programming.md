@@ -470,3 +470,4 @@
 - [Why I Hate Frameworks (2005)](https://www.fredrikholmqvist.com/pages/why-i-hate-frameworks.html) ([HN](https://news.ycombinator.com/item?id=28920095))
 - [Hello, declarative world](https://tomstu.art/hello-declarative-world)
 - [Personal programming guidelines](https://github.com/guettli/programming-guidelines)
+- [Programming as Architecture, Design, and Urban Planning (2021)](https://www.youtube.com/watch?v=B2JF2eAbQWo) ([Tweet](https://twitter.com/jmatsushita/status/1451488598021316612))

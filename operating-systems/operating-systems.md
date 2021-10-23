@@ -273,3 +273,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [pylddwrap](https://github.com/Parquery/pylddwrap) - Python 3 wrapper around ldd \*nix utility to determine shared libraries of a program.
 - [Pilot: An Operating System for a Personal Computer (1980)](https://courses.cs.washington.edu/courses/cse550/20au/papers/CSE550.Pilot.pdf) ([HN](https://news.ycombinator.com/item?id=28920913))
 - [Rust OS comparison](https://github.com/flosse/rust-os-comparison) - Comparison of operating systems written in Rust.
+- [OS synchronization techniques resources (2021)](https://twitter.com/johnregehr/status/1451355617583460355)

@@ -34,6 +34,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - Play stupid games win stupid prizes.
 - [Social consensus is not the same thing as truth.](https://twitter.com/balajis/status/1398245943128956936)
 - [Stop coming to overarching conclusions](https://twitter.com/tszzl/status/1445163212572401674)
+- [Girls just want one thing and it’s a home surrounded by nature with giant open windows and a backyard full of trees and japanese style seating arrangements and and in home-library and babies to read books to and it’s disgusting.](https://twitter.com/rawmilkhoney/status/1451728076203651077)
 
 ## Other
 

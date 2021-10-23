@@ -74,3 +74,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [80/20 changes that you've made in your life? Habits implemented that had huge impact. (2021)](https://twitter.com/stephsmithio/status/1448852379076546560)
 - [How to Live: 27 conflicting answers and one weird conclusion | Derek Sivers (2021)](https://sive.rs/h)
 - [Scientists weighed all life on Earth. It’s mind-boggling. (2018)](https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas)
+- [Things you probably don’t need in your life](https://twitter.com/Mochievous/status/1452015750382866435)
