@@ -70,6 +70,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Bartosz Ciechanowski](https://ciechanow.ski/)
 - [Daniel Holden](https://theorangeduck.com/)
 - [Alarming Development](https://alarmingdevelopment.org/)
+- [Eric Jang](https://evjang.com/)
 
 ## Notes
 

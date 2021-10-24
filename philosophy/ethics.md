@@ -20,3 +20,4 @@
 - [NeurIPS Ethics Guidelines](https://neurips.cc/public/EthicsGuidelines)
 - [Notes on Ethics](https://paul.copplest.one/knowledge/philosophy/ethics.html)
 - [Are we cut out for universal morality? (2021)](https://nautil.us/issue/100/outsiders/are-we-cut-out-for-universal-morality) ([HN](https://news.ycombinator.com/item?id=27336272))
+- [Technology Isn't Neutral - A Manifesto For Radical Software Development](http://cryto.net/~joepie91/manifesto.html)

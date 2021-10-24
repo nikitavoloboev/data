@@ -106,3 +106,4 @@
 - [Towards Learning to Play Piano with Dexterous Hands and Touch (2021)](https://arxiv.org/abs/2106.02040)
 - [Bridge Data: Boosting Generalization of Robotic Skills with Cross-Domain Datasets (2021)](https://arxiv.org/abs/2109.13396) ([Web](https://sites.google.com/view/bridgedata)) ([Tweet](https://twitter.com/chelseabfinn/status/1447755432714330114))
 - [dm_robotics](https://github.com/deepmind/dm_robotics) - Libraries, tools and tasks created and used at DeepMind Robotics.
+- [Robots Must Be Ephemeralized (2021)](https://evjang.com/2021/09/20/ephemeralization.html)

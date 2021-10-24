@@ -253,3 +253,4 @@
 - [EnvironmentLogger](https://github.com/deepmind/envlogger) - Tool for recording RL trajectories.
 - [DrQ-v2](https://github.com/facebookresearch/drqv2) - Improved Data-Augmented Reinforcement Learning.
 - [Arcade Learning Environment (ALE)](https://github.com/mgbellemare/Arcade-Learning-Environment) - Simple framework that allows researchers and hobbyists to develop AI agents for Atari 2600 games.
+- [ML Mentorship: Some Q/A about RL (2021)](https://evjang.com/2021/07/30/rl-qa.html)

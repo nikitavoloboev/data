@@ -309,3 +309,4 @@
 - [Riding upon the fields on the horse of mathematics (2021)](https://www.brunogavranovic.com/posts/2021-08-15-horse_of_mathematics.html)
 - [Math Foundations from Scratch](https://learnaifromscratch.github.io/math.html) ([HN](https://news.ycombinator.com/item?id=28922989))
 - [AsciiMath](http://asciimath.org/) - Easy-to-write markup language for mathematics. ([Code](https://github.com/asciimath/asciimathml))
+- [Self Studying the MIT Applied Math Curriculum](https://www.smallstepcap.com/) ([HN](https://news.ycombinator.com/item?id=28979872))

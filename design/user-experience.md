@@ -127,3 +127,4 @@
 - [First Principles of Interaction Design (2014)](https://asktog.com/atc/principles-of-interaction-design/)
 - [Why We Crave Software With Style Over "Branding" (2021)](https://future.a16z.com/software-style-over-branding/) ([Tweet](https://twitter.com/mollyfmielke/status/1446873224751419398))
 - [Apple Human Interface Guidelines: The Apple Desktop Interface (1987)](https://andymatuschak.org/files/papers/Apple%20Human%20Interface%20Guidelines%201987.pdf) ([Tweet](https://twitter.com/andy_matuschak/status/1447407670403612672))
+- [Modern trend towards data-driven decision making (2021)](https://twitter.com/nicklockwood/status/1452288380398710784)

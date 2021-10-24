@@ -64,3 +64,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [How does IRC's federation model compare to ActivityPub? (2021)](https://drewdevault.com/2021/07/03/How-does-IRC-federate.html)
 - [tiny](https://github.com/osa1/tiny) - Terminal IRC client.
 - [go-irc](https://github.com/go-irc/irc) - Simple go irc library meant to be a building block for other projects.
+- [Why is IRC distributed across multiple servers?](https://gist.github.com/rain-1/c4be54e6506116c7b99e8f474a3b1ca8)

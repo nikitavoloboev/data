@@ -197,3 +197,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [What can be considered open source? (2021)](https://twitter.com/ChristianSelig/status/1443227711653154821)
 - [Open Source Tips](https://eddiejaoude.github.io/book-open-source-tips/) ([Code](https://github.com/eddiejaoude/book-open-source-tips))
 - [Ask HN: How to get compeitors to use our open source interop-prototcol? (2021)](https://news.ycombinator.com/item?id=28747428)
+- [Why you should use a BSD style license for your Open Source Project](https://docs.freebsd.org/en/articles/bsdl-gpl/)

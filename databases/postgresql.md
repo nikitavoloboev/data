@@ -340,3 +340,4 @@
 - [flaco](https://github.com/milesgranger/flaco) - Fastest and most memory efficient way to pull data from PostgreSQL into pandas and numpy.
 - [PostgRPC](https://github.com/boilerplatter/postgrpc) - Query your Postgres databases directly using gRPC or transcoded JSON.
 - [Platter](https://platter.dev/) - Branching Postgres for the Cloud. Database platform optimized for your Git-based workflows.
+- [Strings, arrays, recursion, and parsing JSON: Exploring PL/pgSQL (2021)](https://notes.eatonphil.com/exploring-plpgsql.html)

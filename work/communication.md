@@ -46,6 +46,7 @@
 - [Trust can be ruined with a single word, and it’s not easy to rebuild.](https://twitter.com/apartovi/status/1447251334814523392) ([HN](https://news.ycombinator.com/item?id=28826437))
 - [If all you get out of incident review is engineers who talk more openly about how their stuff fails, you're winning.](https://twitter.com/MissAmyTobey/status/1448090585424932866)
 - [Intent does not erase impact.](https://twitter.com/cherthedev/status/1448689004887478275) -[ Robust community benefits from intentional sporadic engagement. Not every actor has to contribute to liveness. Has to support different modes for different nodes. Communities thrive on growth of individuals, together. Intentions are good fuel for that.](https://twitter.com/vaisfourlovers/status/1450930799717531656)
+- [Basic principles of constructive feedback: 1. Before you give it, ask if they want to receive it. 2. Be clear that you believe in their potential and care about their success. 3. Be as candid as possible in what you say, and as thoughtful as possible in how you say it.](https://twitter.com/AdamMGrant/status/1451169253877555204)
 
 ## Links
 

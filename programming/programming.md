@@ -471,3 +471,5 @@
 - [Hello, declarative world](https://tomstu.art/hello-declarative-world)
 - [Personal programming guidelines](https://github.com/guettli/programming-guidelines)
 - [Programming as Architecture, Design, and Urban Planning (2021)](https://www.youtube.com/watch?v=B2JF2eAbQWo) ([Tweet](https://twitter.com/jmatsushita/status/1451488598021316612))
+- [Moving faster (2021)](https://scattered-thoughts.net/writing/moving-faster/) ([Lobsters](https://lobste.rs/s/raxxgj/moving_faster))
+- [Habits I've Developed for Fast + Efficient Programming](https://cprimozic.net/blog/programming-speed-strategies/) ([Lobsters](https://lobste.rs/s/3fp2mj/habits_i_ve_developed_for_fast_efficient))

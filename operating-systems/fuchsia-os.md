@@ -17,3 +17,4 @@
 - [Taking a look at Google's Fuchsia OS (2021)](https://www.youtube.com/watch?v=P76hq28dPxQ)
 - [A few thoughts on Fuchsia security (2021)](https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html) ([HN](https://news.ycombinator.com/item?id=27487465))
 - [A Tour of the Fuchsia Operating System (2021)](https://www.youtube.com/watch?v=gIT1ISCioDY)
+- [Getting to know Fuchsia, Google's open-source operating system](https://blog.codemagic.io/fuchsia-os-preview/) ([Lobsters](https://lobste.rs/s/p8bizb/getting_know_fuchsia_google_s_open_source))

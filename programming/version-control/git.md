@@ -423,3 +423,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Rudolfs](https://github.com/jasonwhite/rudolfs) - High-performance, caching Git LFS server with an AWS S3 and local storage back-end.
 - [git-subset](https://github.com/jasonwhite/git-subset) - Super fast Git tree filtering.
 - [chronicle](https://github.com/anchore/chronicle) - Fast changelog generator that sources changes from GitHub PRs and issues, organized by labels.
+- [16 Year History of the Git Init Command (2021)](https://initialcommit.com/blog/history-git-init-command)

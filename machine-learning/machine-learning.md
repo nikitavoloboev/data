@@ -578,3 +578,4 @@
 - [Katana ML Skipper](https://github.com/katanaml/katana-skipper) - Simple and flexible ML workflow engine. It helps to orchestrate events across a set of microservices and create executable flow to handle requests.
 - [PaRoT: A Practical Framework for Robust Deep Neural Network Training (2021)](https://arxiv.org/abs/2001.02152)
 - [Superposition of many models into one (2019)](https://arxiv.org/abs/1902.05522) ([Tweet](https://twitter.com/thisismyhat/status/1096480539601657856))
+- [Meta-Learning Requires Meta-Augmentation (2020)](https://arxiv.org/abs/2007.05549)

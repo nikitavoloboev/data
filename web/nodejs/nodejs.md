@@ -263,3 +263,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [tsno](https://github.com/egoist/tsno) - `node` with typescript support, importing from URL, etc.
 - [Vite as Node.js runtime](https://github.com/antfu/vite-node)
 - [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration.
+- [Supercharge Your Node.js with Rust (2021)](https://yieldcode.blog/supercharge-nodejs-with-rust/) ([HN](https://news.ycombinator.com/item?id=28976341))
