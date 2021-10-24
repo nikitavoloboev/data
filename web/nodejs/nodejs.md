@@ -264,3 +264,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Vite as Node.js runtime](https://github.com/antfu/vite-node)
 - [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration.
 - [Supercharge Your Node.js with Rust (2021)](https://yieldcode.blog/supercharge-nodejs-with-rust/) ([HN](https://news.ycombinator.com/item?id=28976341))
+- [cli-ux](https://github.com/oclif/cli-ux) - CLI IO utilities.

@@ -44,7 +44,7 @@ It's annoying that a lot of [people/projects use these distributed ledgers as po
 - [The Quiet Master of Cryptocurrency - Nick Szabo (2017)](https://overcast.fm/+KebvPT3c8)
 - [Hard Problems in Cryptocurrency: Five Years Later (2019)](https://vitalik.ca/general/2019/11/22/progress.html) ([HN](https://news.ycombinator.com/item?id=21618079))
 - [Freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot.
-- [Kong](https://kong.cash/) - Physical crypto cash.
+- [Kong](https://kong.cash/) - Physical crypto cash. ([Twitter](https://twitter.com/kongiscash))
 - [Binance](https://www.binance.com/en) - Trade Bitcoin, BNB, and hundreds of other cryptocurrencies in minutes.
 - [Awesome Cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics)
 - [Coinbase](https://www.coinbase.com/) - Digital currency exchange. ([GitHub](https://github.com/coinbase))

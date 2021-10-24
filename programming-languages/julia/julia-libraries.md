@@ -315,6 +315,7 @@
 - [Manifolds.jl](https://github.com/JuliaManifolds/Manifolds.jl) - Unified interface to define and use manifolds.
 - [AtomsBase](https://github.com/JuliaMolSim/AtomsBase.jl) - Abstract interface for representation of atomic geometries in Julia.
 - [Combinatorics](https://github.com/JuliaMath/Combinatorics.jl) - Combinatorics library. Focusing on enumerative combinatorics and permutations.
+- [NamedDims](https://github.com/invenia/NamedDims.jl) - Zero-cost abstraction to add names to the dimensions of an array.
 
 ## Links
 

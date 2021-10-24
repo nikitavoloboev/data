@@ -30,3 +30,4 @@
 - [CLASP](https://www.gu.se/en/clasp) - Centre for linguistic theory and studies in probability, University of Gothenburg. ([GitHub](https://github.com/GU-CLASP))
 - [Daphne](https://github.com/plai-group/daphne) - Probabilistic programming compiler.
 - [FOPPL](https://github.com/rmascarenhas/foppl) - First-Order Probabilistic Programming Language.
+- [ProbLog: Probabilistic Programming](https://dtai.cs.kuleuven.be/problog/index.html#)

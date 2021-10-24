@@ -128,6 +128,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [What's a podcast you used to listen to all the time, but never do anymore?](https://www.reddit.com/r/podcasts/comments/mhxwy6/whats_a_podcast_you_used_to_listen_to_all_the/)
 - [What are your favorite obscure podcasts? (2021)](https://www.reddit.com/r/podcasts/comments/mk4t7o/what_are_your_favourite_obscure_podcasts/)
 - [Podcasts for bootstrappers and indie hackers](https://transistor.fm/podcasts-for-bootstrappers/)
+- [Top podcasts founders consume (2021)](https://twitter.com/volodarik/status/1451216738683539461)
 
 ## Notes
 

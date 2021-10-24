@@ -1,8 +1,8 @@
 # [Telegram](https://telegram.org)
 
-Telegram is by far the best messenger that exists right now.
+Telegram is the best messenger that exists right now. I use it for personal messaging, following many group chats & channels. I run a [channel of my own too where I post a stream of things I liked & thought about](https://t.me/niki_log).
 
-I created a few public Telegram groups that I often contribute to. [macOS/iOS Automation](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) being the biggest one.
+I also created [macOS/iOS Automation](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) & [Karabiner](https://t.me/joinchat/UDlL5H7VIwAVK0_7) groups.
 
 I mapped my most visited chats with KM macros that call URL schemes like so:
 

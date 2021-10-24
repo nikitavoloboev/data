@@ -190,6 +190,7 @@
 - [ts-strictify](https://github.com/cschroeter/ts-strictify) - Runs TypeScript in strict mode on your changed files.
 - [Introduction to TypeScript with Josh Goldberg (2021)](https://www.youtube.com/watch?v=5_RIHHpQcoM)
 - [Making Illegal States Unrepresentable in TypeScript (2021)](https://www.youtube.com/watch?v=T7i2wlCqgJk) ([Code](https://github.com/YBogomolov/talk-making-illegal-states-unrepresentable))
+- [Stop catching errors in TypeScript; Use the Either type to make your code predictable (2021)](https://antman-does-software.com/stop-catching-errors-in-typescript-use-the-either-type-to-make-your-code-predictable) ([Reddit](https://www.reddit.com/r/typescript/comments/qelaqw/stop_catching_errors_in_typescript_use_the_either/))
 
 ## Images
 

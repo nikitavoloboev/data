@@ -173,6 +173,7 @@
 - [Spatial Keyboard Navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - Visual hierarchy approach to navigate through selectable elements on a page. ([Article](https://danilowoz.com/blog/spatial-keyboard-navigation)) ([HN](https://news.ycombinator.com/item?id=28895961))
 - [OpenCensus](https://github.com/census-instrumentation/opencensus-node) - Stats collection and distributed tracing framework.
 - [Config Validator Policy](https://github.com/GoogleCloudPlatform/policy-library) - Library of constraint templates and sample constraints for Forseti Config Validator.
+- [safety-match](https://github.com/suchipi/safety-match) - Rust-style pattern matching for TypeScript.
 
 ## Links
 

@@ -49,3 +49,4 @@
 - [My Fractal Of Pain From Trying To Do TCP Sockets The First Time (2021)](https://rtpg.co/2021/09/29/fractal-of-pain.html)
 - [udig](https://github.com/mkmik/udig) - Public-key addressed TCP tunnel broker.
 - [libuinet](https://github.com/pkelsey/libuinet) - Library version of FreeBSD's TCP/IP stack plus extras.
+- [go-finger](https://github.com/mitchellh/go-finger) - Finger protocol library. Finger protocol is an extremely simple TCP protocol.

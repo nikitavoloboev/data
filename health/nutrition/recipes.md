@@ -10,6 +10,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 
 ## Interesting
 
+- [Curried Butternut Squash Soup](https://minimalistbaker.com/curried-butternut-squash-soup/#wprm-recipe-container-35467)
 - [Garlic bread](https://www.simplyrecipes.com/recipes/garlic_bread/)
 - [Bhel Puri](https://www.vegrecipesofindia.com/bhel-puri-mumbai-bhel-puri/)
 - [Samosa Chaat](https://www.cookwithmanali.com/samosa-chaat/)
@@ -64,3 +65,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Munchy](https://joinmunchy.com/) - Discover recipes you'll love.
 - [Mealie](https://hay-kot.github.io/mealie/) - Hosted recipe manager and meal planner with a RestAPI backend. ([Code](https://github.com/hay-kot/mealie))
 - [RecipeSage](https://recipesage.com/#/welcome) - Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form. ([Code](https://github.com/julianpoy/RecipeSage))
+- [Minimalist Baker](https://minimalistbaker.com/) - Simple Recipes That Make You Feel Good.

@@ -72,3 +72,4 @@
 - [Mach Engine: The Future of Graphics (With Zig) (2021)](https://devlog.hexops.com/2021/mach-engine-the-future-of-graphics-with-zig) ([HN](https://news.ycombinator.com/item?id=28909786)) ([Code](https://github.com/hexops/mach))
 - [Andrew Kelley, Lead Developer & President of the Zig Software Foundation (2021)](https://overcast.fm/+cV8pJX6iU)
 - [zig-snapshots](https://github.com/kubkon/zig-snapshots) - Preview Zig's incremental linker state in interactive HTML.
+- [Zig LSP](https://github.com/ziglibs/zig-lsp) - LSP implemented in Zig.

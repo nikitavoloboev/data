@@ -1061,6 +1061,8 @@
 - [sigstore-rs](https://github.com/sigstore/sigstore-rs) - Rust crate for sigstore.
 - [image-png](https://github.com/image-rs/image-png) - PNG Decoder/Encoder.
 - [streamline](https://github.com/NAlexPear/streamline) - Reversible streaming state machine library for Rust.
+- [num-bigint](https://github.com/rust-num/num-bigint) - Big integer types for Rust.
+- [async-tungstenite](https://github.com/sdroege/async-tungstenite) - Asynchronous WebSockets for async-std, tokio, gio and any std Futures runtime.
 
 ## Cargo Plugins
 

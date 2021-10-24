@@ -183,3 +183,6 @@
 - [Visualizing Rotation Spaces (2021)](https://theorangeduck.com/page/visualizing-rotation-spaces)
 - [Learned Motion Matching (2020)](https://theorangeduck.com/page/learned-motion-matching)
 - [Swapchains and Frame Pacing (2021)](https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html) ([HN](https://news.ycombinator.com/item?id=28963392))
+- [Graphics Programming Resources List](https://github.com/Graphics-Programming-Virtual-Meetup/Resources)
+- [Graphics Programming Virtual Meetup Meeting Notes](https://github.com/Graphics-Programming-Virtual-Meetup/meeting-notes)
+- [Graphics Programming Virtual Meetup](https://www.meetup.com/Graphics-Programming-Virtual-Meetup/) ([Discord](https://discord.com/invite/6TTRA5h)) ([Twitter](https://twitter.com/GraphicsMeetup))

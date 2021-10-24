@@ -51,3 +51,4 @@
 - [Ugly Truths about social media and kids (2021)](https://twitter.com/alexstamos/status/1442527773042438147)
 - [Ask HN: How to teach young kids about money? (2021)](https://news.ycombinator.com/item?id=28774683)
 - [Please Don't Give Up on Having Kids Because of Climate Change (2021)](https://astralcodexten.substack.com/p/please-dont-give-up-on-having-kids) ([HN](https://news.ycombinator.com/item?id=28827377)) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/q5udvg/please_dont_give_up_on_having_kids_because_of/))
+- [Как общаться с молодыми родителями, если у вас нет детей](https://kinzhal.media/pokakali/)

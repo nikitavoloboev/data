@@ -49,3 +49,4 @@
 - [Blender and the Rabbids (2021)](https://www.blender.org/user-stories/blender-and-the-rabbids/) ([HN](https://news.ycombinator.com/item?id=27729331))
 - [Blender Toolbox](https://github.com/HTDerekLiu/BlenderToolbox) - Python scripts for rendering 3D shapes in Blender.
 - [Shaded Relief Maps in Blender](https://github.com/JoeWDavies/geoblender) ([HN](https://news.ycombinator.com/item?id=28748881))
+- [Malt](https://github.com/bnpr/Malt) - Fully customizable real-time rendering framework for animation and illustration.

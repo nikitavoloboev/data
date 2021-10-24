@@ -65,3 +65,4 @@
 - [Video Game Pricing (2021)](https://www.youtube.com/watch?v=zvPkAYT6B1Q) ([HN](https://news.ycombinator.com/item?id=28200360))
 - [Framework for pricing (not revenue maximizing)](https://twitter.com/ravisparikh/status/1437441229956997120)
 - [Estii](https://estii.com/) - Presales estimation platform for software & services.
+- [Ask For Money — Under the Radar (2021)](https://overcast.fm/+FgnaClmOk) ([Tweet](https://twitter.com/_vojto/status/1451872628709511171))

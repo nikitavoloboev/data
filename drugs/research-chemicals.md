@@ -47,3 +47,4 @@
 - [[Discussion Megathread] Which research chemical is most similar to <x>? (2021)](https://www.reddit.com/r/researchchemicals/comments/py4m1a/discussion_megathread_which_research_chemical_is/)
 - [Best RCs for abstract thinking? (2021)](https://www.reddit.com/r/researchchemicals/comments/q26e4t/best_rcs_for_abstract_thinking/)
 - [Best vapeable or smokeable rc's? (2021)](https://www.reddit.com/r/researchchemicals/comments/q6w42s/best_vapeable_or_smokeable_rcs/)
+- [Research chemicals to try at least once? (2021)](https://www.reddit.com/r/researchchemicals/comments/qepnro/what_are_some_research_chemicals_to_try_at_least/)

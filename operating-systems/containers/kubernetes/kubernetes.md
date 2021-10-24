@@ -476,3 +476,4 @@
 - [Networking and Kubernetes Book (2021)](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/) ([Twitter](https://twitter.com/NetworkAndK8s))
 - [Kubeconform](https://github.com/yannh/kubeconform) - Kubernetes manifests validation tool. Build it into your CI to validate your Kubernetes configuration.
 - [policy-server](https://github.com/kubewarden/policy-server) - Webhook server that evaluates WebAssembly policies to validate Kubernetes requests.
+- [Descheduler for Kubernetes](https://github.com/kubernetes-sigs/descheduler)

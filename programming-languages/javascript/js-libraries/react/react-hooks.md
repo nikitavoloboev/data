@@ -187,3 +187,4 @@ useEffect(() => {
 - [Are many useStates better than useState(object)? (2021)](https://thoughtspile.github.io/2021/10/11/usestate-object-vs-multiple/)
 - [Hooks Architec](https://github.com/blockmatic/hooks-architecture) - Simple and powerful project architecture for React and React Native apps.
 - [Linear's Hooks](https://twitter.com/tommoor/status/1451331907707236368)
+- [Mental model for useEffect](https://twitter.com/threepointone/status/1452346139487965186)

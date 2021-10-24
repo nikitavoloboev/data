@@ -103,6 +103,7 @@ Here are few more things I liked, design wise.
 - [Numinus](https://numinus.ca/)
 - [Scout](https://onscout.com/) ([Tweet](https://twitter.com/zackhargett/status/1387479783085326341))
 - [Calibre](https://calibreapp.com/)
+- [KONG Land](https://kong.land/)
 - [Logology](https://www.logology.co/)
 - [Quill](https://quill.chat/) - Nice mobile & desktop view.
 - [Staff Design](https://staff.design/) - Amazing mobile view too.
