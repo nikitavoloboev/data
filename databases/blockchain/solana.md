@@ -15,6 +15,7 @@
 
 ## Links
 
+- [A Starter Kit for New Solana Developer (2021)](https://hackmd.io/@ironaddicteddog/solana-starter-kit) ([Tweet](https://twitter.com/ironaddicteddog/status/1452845276864004105?s=28))
 - [Solana Code](https://github.com/solana-labs/solana)
 - [Solana Reddit](https://www.reddit.com/r/solana/)
 - [Solana Core Concepts](https://www.youtube.com/watch?v=4dNuMXBjpr0)

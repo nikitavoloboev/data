@@ -340,4 +340,6 @@
 - [flaco](https://github.com/milesgranger/flaco) - Fastest and most memory efficient way to pull data from PostgreSQL into pandas and numpy.
 - [PostgRPC](https://github.com/boilerplatter/postgrpc) - Query your Postgres databases directly using gRPC or transcoded JSON.
 - [Platter](https://platter.dev/) - Branching Postgres for the Cloud. Database platform optimized for your Git-based workflows.
-- [Strings, arrays, recursion, and parsing JSON: Exploring PL/pgSQL (2021)](https://notes.eatonphil.com/exploring-plpgsql.html)
+- [Exploring PL/pgSQL: Strings, arrays, recursion, and parsing JSON (2021)](https://notes.eatonphil.com/exploring-plpgsql.html) ([HN](https://news.ycombinator.com/item?id=28984959))
+- [postgresql-to-sqlite](https://github.com/caiiiycuk/postgresql-to-sqlite) - Easy to use solution to create sqlite database from postgresql dump.
+- [How Postgres Audit Tables Saved Us From Taking Down Production (2021)](https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production)

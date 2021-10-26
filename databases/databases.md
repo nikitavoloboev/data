@@ -451,3 +451,6 @@
 - [TAO: Facebook’s Distributed Data Store for the Social Graph (2021)](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
 - [Can you explain how a database index works in an interview? (2017)](https://news.ycombinator.com/item?id=14498892)
 - [How Time Series Databases Work—and Where They Don't (2021)](https://www.honeycomb.io/blog/time-series-database/) ([HN](https://news.ycombinator.com/item?id=28901063))
+- [Awesome Database Development](https://github.com/huachaohuang/awesome-dbdev)
+- [Offline-First Database Comparison](https://github.com/pubkey/client-side-databases) ([HN](https://news.ycombinator.com/item?id=28995268))
+- [How we built a serverless SQL database (2021)](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/) ([HN](https://news.ycombinator.com/item?id=29001285))

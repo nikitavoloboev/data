@@ -64,3 +64,5 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Baking Bad](https://baking-bad.org/) - Tezos Staking Rewards Auditor. ([Docs](https://baking-bad.org/docs/)) ([GitHub](https://github.com/baking-bad))
 - [Set up a Tezos smart contract IDE with SmartPy and Taquito (2021)](https://levelup.gitconnected.com/set-up-a-tezos-smart-contract-ide-with-smartpy-and-taquito-32fe445d274)
 - [Tezos resources (2021)](https://www.reddit.com/r/tezos/comments/q7wxjx/the_numbers_of_tezos_developers_and_lack_of/)
+- [Concerns with Tezos Foundation not focusing enough on DeFi (2021)](https://www.reddit.com/r/tezos/comments/qfpu1b/a_word_from_sr_staff_engineer_from_coinbase_about/)
+- [Tezos: Approaches to Scalability (2021)](https://www.youtube.com/watch?v=oqBSs0DSuzQ) ([Tweet](https://twitter.com/epolynya/status/1446110487633031181))

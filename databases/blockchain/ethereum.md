@@ -329,3 +329,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [zkEVM Specifications](https://github.com/appliedzkp/zkevm-specs) - Aims to define a validity snark proof for Ethereum transactions.
 - [Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)
 - [HyperCube](https://github.com/hypercube-lab/hypercube) - Ethereum 2-layer solution based on proof of POD dedication and an independent public chain.
+- [zero-protocol](https://github.com/zerodao-finance/zero-protocol) - Short term lending on Ethereum as a framework for cross-chain asset transfer.
