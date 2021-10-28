@@ -83,3 +83,5 @@
 - [XCHammer](https://github.com/pinterest/xchammer) - Generates Xcode projects from a Bazel Workspace.
 - [XcodeArchiveCache](https://github.com/sweatco/xcode-archive-cache) - Native targets cache for Xcode archive builds.
 - [xcresulttool GitHub Action](https://github.com/kishikawakatsumi/xcresulttool) - Generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.
+- [pbxproj](https://github.com/kronenthaler/mod-pbxproj) - Python module to manipulate XCode projects.
+- [XcodeProject](https://github.com/bannzai/XcodeProject) - Xcode utility for reading and writing pbxproj file format.

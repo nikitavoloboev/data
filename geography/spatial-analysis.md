@@ -108,3 +108,5 @@
 - [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson)
 - [QGIS](https://qgis.org/en/site/) - Free and Open Source Geographic Information System. ([Code](https://github.com/qgis/QGIS))
 - [Comprehensive map of GIS file formats](https://github.com/jahow/map-of-formats)
+- [wkt](https://github.com/benrei/wkt) - Parse WKT (Well-known text) into GeoJSON or stringify GeoJSON into WKT.
+- [Flatmap](https://github.com/onthegomap/flatmap) - Tool to make vector tiles from OpenStreetMap data fast. ([HN](https://news.ycombinator.com/item?id=28986762))

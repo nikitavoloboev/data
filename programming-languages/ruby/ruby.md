@@ -39,7 +39,7 @@
 - [Shopify Ruby Style Guide](https://github.com/Shopify/ruby-style-guide)
 - [Context on STM in Ruby (2020)](https://chrisseaton.com/truffleruby/ruby-stm/) ([HN](https://news.ycombinator.com/item?id=24921657))
 - [Error handling with Monads in Ruby (2020)](http://nywkap.com/programming/either-monads-ruby.html)
-- [Why's (Poignant) Guide to Ruby (2004)](https://poignant.guide/book/chapter-2.html) ([HN](https://news.ycombinator.com/item?id=25043544)) ([Web](https://poignant.guide/book/)) ([Article](https://github.com/readme/featured/why-the-lucky-stiff))
+- [Why's (Poignant) Guide to Ruby (2004)](https://poignant.guide/book/chapter-2.html) ([HN](https://news.ycombinator.com/item?id=25043544)) ([Web](https://poignant.guide/book/)) ([Article](https://github.com/readme/featured/why-the-lucky-stiff)) ([Reddit](https://www.reddit.com/r/programming/comments/qfn5ln/what_we_can_learn_from_why_the_long_lost_open/))
 - [Ruby Refinements Have One Good Use Case (2020)](http://www.soulcutter.com/articles/ruby-refinements-have-one-good-use-case.html)
 - [rspec-core](https://github.com/rspec/rspec-core) - RSpec runner and formatters.
 - [My Beef With RuboCop (2020)](https://www.rubypigeon.com/posts/my-beef-with-rubocop/) ([Lobsters](https://lobste.rs/s/wgi0rn/my_beef_with_rubocop)) ([HN](https://news.ycombinator.com/item?id=25147990))

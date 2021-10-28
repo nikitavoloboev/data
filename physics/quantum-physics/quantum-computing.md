@@ -104,3 +104,5 @@
 - [Qrack](https://github.com/vm6502q/qrack) - Comprehensive, GPU accelerated framework for developing universal virtual quantum processors.
 - [Quantum Computer-Aided design of Quantum Optics Hardware (2020)](https://arxiv.org/abs/2006.03075) ([Article](https://www.scientificamerican.com/article/ai-designs-quantum-physics-experiments-beyond-what-any-human-has-conceived/))
 - [Quantum Machine Learning Community Course](https://github.com/SemyonSinchenko/qmlcourse)
+- [Exploring Quantum Technology: Qiskit and RasQberry (2021)](https://www.eetimes.com/exploring-quantum-technology-qiskit-and-rasqberry/)
+- [BQSKit](https://github.com/BQSKit/bqskit) - Berkeley Quantum Synthesis Toolkit.

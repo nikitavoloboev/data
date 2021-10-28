@@ -89,3 +89,4 @@
 - [Active Event Store](https://github.com/palkan/active_event_store) - Rails Event Store in a more Rails way.
 - [Optimistic Locking in Rails REST APIs (2021)](https://blog.appsignal.com/2021/10/20/optimistic-locking-in-rails-rest-apis.html)
 - [Ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails.
+- [A Love Letter to Ruby and Rails (2021)](https://jmarchello.com/a-love-letter-to-ruby-and-rails) ([HN](https://news.ycombinator.com/item?id=28996172))

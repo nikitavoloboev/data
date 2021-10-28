@@ -310,3 +310,4 @@
 - [Math Foundations from Scratch](https://learnaifromscratch.github.io/math.html) ([HN](https://news.ycombinator.com/item?id=28922989))
 - [AsciiMath](http://asciimath.org/) - Easy-to-write markup language for mathematics. ([Code](https://github.com/asciimath/asciimathml))
 - [Self Studying the MIT Applied Math Curriculum](https://www.smallstepcap.com/) ([HN](https://news.ycombinator.com/item?id=28979872))
+- [How to learn mathematics: the asterisk method](http://www.geometry.org/tex/conc/mathlearn.html) ([HN](https://news.ycombinator.com/item?id=28953781))

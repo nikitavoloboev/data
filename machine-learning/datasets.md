@@ -121,3 +121,4 @@
 - [Toloka](https://toloka.ai/) - Fast and efficient way to collect and label large data sources for machine learning and other business purposes. ([Code](https://github.com/Toloka/toloka-kit))
 - [PlainTextWikipedia](https://github.com/daveshap/PlainTextWikipedia) - Convert Wikipedia database dumps into plaintext files.
 - [Discovering Anomalous Data with Self-Supervised Learning (2021)](https://ai.googleblog.com/2021/09/discovering-anomalous-data-with-self.html)
+- [Resources to get you the best quality of ML datasets (2021)](https://twitter.com/JanaSunrise/status/1453028804566286339)

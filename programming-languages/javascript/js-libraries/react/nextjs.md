@@ -2,6 +2,7 @@
 
 ## Example sites
 
+- [Collaborative drawing app built with Replicache](https://github.com/steveruizok/replisketch)
 - [Next.js with Tailwind, TypeScript and Jest setup](https://github.com/productbrew/next-productbrew-starter)
 - [NextJS + Supabase Instagram Clone](https://github.com/thomas-coldwell/nextjs-supabase-instagram-clone)
 - [Tottem](https://github.com/poulainv/tottem) - Library management made social. Built with NextJS/TailwindCSS/TS/Prisma.
@@ -91,6 +92,7 @@
 - [Essential Next.js Build Plugin](https://github.com/netlify/netlify-plugin-nextjs) - Build plugin to integrate Next.js seamlessly with Netlify.
 - [next-plugin-imagegen](https://github.com/huozhi/next-plugin-imagegen) - Next.js plugin turns jsx components as image.
 - [next-head-seo](https://github.com/catnose99/next-head-seo) - Light-weight SEO plugin for Next.js.
+- [Next.js drop-in analytics support](https://github.com/ian/analytics)
 
 ## Notes
 
@@ -260,3 +262,5 @@
 - [How to build a portfolio website using Next.js, Chakra UI, Framer Motion, and Three.js (2021)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
 - [Next.js X Prisma Workshop](https://github.com/m-abdelwahab/nextjs-prisma-workshop) - Build a full stack app using Next.js and Prisma.
 - [Next.js Cheat Sheet](https://gourav.io/blog/nextjs-cheatsheet)
+- [NextGraphQL.js](https://github.com/ian/next-graphql) - Zero-config GraphQL server for Next.js, supporting Vercel Serverless environment runtime.
+- [Next.js 12 (2021)](https://nextjs.org/blog/next-12) ([HN](https://news.ycombinator.com/item?id=29001721)) ([Tweet](https://twitter.com/vercel/status/1453029090106040321?s=28)) ([Keynote](https://www.youtube.com/watch?v=dMBYI7pTR4Q))

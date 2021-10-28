@@ -13,6 +13,7 @@ Here are few more things I liked, design wise.
 - [Stitches](https://stitches.dev/) ([Code](https://github.com/modulz/stitches-site))
 - [PlanetScale](https://planetscale.com/)
 - [Draftbit](https://draftbit.com/)
+- [Radix UI](https://www.radix-ui.com/)
 - [Solana](https://solana.com/)
 - [Scale](https://scale.com/)
 - [Arrival](https://arrival.com/)
@@ -745,7 +746,7 @@ Here are few more things I liked, design wise.
 - [Stephanie Nemeth](https://stephanie.lol/#about)
 - [Dave Whyte](http://beesandbombs.com/)
 - [John Morris](http://johnmorris.io/) - Simple. [Code](https://github.com/johnpmorris/johnpmorris.github.io).
-- [Alex Carpenter](https://alexcarpenter.me/)
+- [Alex Carpenter](https://alexcarpenter.me/) ([Code](https://github.com/alexcarpenter/alexcarpenter-next))
 - [Nuno Leites](https://nunoleites.com/)
 - [Alexey Taktarov](https://molefrog.com/) - Simple. ([Code](https://github.com/molefrog/molefrog.github.io))
 - [Mathieu Dutour](https://mathieu.dutour.me/) - Minimal.

@@ -342,4 +342,6 @@
 - [Platter](https://platter.dev/) - Branching Postgres for the Cloud. Database platform optimized for your Git-based workflows.
 - [Exploring PL/pgSQL: Strings, arrays, recursion, and parsing JSON (2021)](https://notes.eatonphil.com/exploring-plpgsql.html) ([HN](https://news.ycombinator.com/item?id=28984959))
 - [postgresql-to-sqlite](https://github.com/caiiiycuk/postgresql-to-sqlite) - Easy to use solution to create sqlite database from postgresql dump.
-- [How Postgres Audit Tables Saved Us From Taking Down Production (2021)](https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production)
+- [How Postgres Audit Tables Saved Us From Taking Down Production (2021)](https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production) ([HN](https://news.ycombinator.com/item?id=29003356))
+- [Building a recommendation engine inside Postgres with Python and Pandas (2020)](https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python) ([HN](https://news.ycombinator.com/item?id=29005863))
+- [postguard](https://github.com/andywer/postguard) - Statically validate Postgres SQL queries in JS / TS code and derive schemas.

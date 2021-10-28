@@ -20,3 +20,4 @@ Best to not ever take opiates if you can avoid it.
 - [Is it possible to make an opioid that is also a psychedelic? (2020)](https://www.reddit.com/r/researchchemicals/comments/i1a2w3/is_it_possible_to_make_an_opioid_that_is_also_a/)
 - [I am a heroin user. I do not have a drug problem (2021)](https://nautil.us/issue/96/rewired/i-am-a-heroin-user-i-do-not-have-a-drug-problem) ([HN](https://news.ycombinator.com/item?id=26179003))
 - [Decided to try heroin - here’s what happened (2021)](https://www.reddit.com/r/Drugs/comments/prpx5o/decided_to_try_heroin_heres_what_happenend/)
+- [My experience of losing a friend to heroin (2020)](https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/) ([HN](https://news.ycombinator.com/item?id=28993567))

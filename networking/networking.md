@@ -325,3 +325,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
 - [Gomiko](https://github.com/Ali-aqrabawi/gomiko) - Go implementation of Netmiko.
 - [hBPF](https://github.com/rprinz08/hBPF) - Extended Berkley Packet Filter (eBPF) CPU written entirely in Python3 for PC and FPGA.
+- [Comparing Open Source BGP Stacks (2021)](https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/)

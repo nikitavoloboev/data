@@ -579,3 +579,4 @@
 - [PaRoT: A Practical Framework for Robust Deep Neural Network Training (2021)](https://arxiv.org/abs/2001.02152)
 - [Superposition of many models into one (2019)](https://arxiv.org/abs/1902.05522) ([Tweet](https://twitter.com/thisismyhat/status/1096480539601657856))
 - [Meta-Learning Requires Meta-Augmentation (2020)](https://arxiv.org/abs/2007.05549)
+- [Shaking the foundations: delusions in sequence models for interaction and control (2021)](https://arxiv.org/abs/2110.10819) ([Tweet](https://twitter.com/janexwang/status/1453027447151157251))

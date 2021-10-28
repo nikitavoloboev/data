@@ -43,3 +43,5 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices. ([HN](https://news.ycombinator.com/item?id=28869462))
 - [vrLauncher](https://github.com/basti564/vrLauncher) - Allows you to launch various /hidden/ options of the Oculus Quest.
 - [The metaverse is bad, sorry (2021)](https://www.theatlantic.com/technology/archive/2021/10/facebook-metaverse-name-change/620449/) ([Tweet](https://twitter.com/ibogost/status/1451291837650673665))
+- [Pimax](https://pimax.com/) - VR Headset | Virtual Reality Equipment. ([Twitter](https://twitter.com/pimaxofficial)) ([12k Reality Series](https://twitter.com/kentbye/status/1452740892708667393))
+- [Voices of VR Podcast](http://voicesofvr.com/)

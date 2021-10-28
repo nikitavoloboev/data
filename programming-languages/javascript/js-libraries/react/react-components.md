@@ -185,7 +185,7 @@
 - [react-loosely-lazy](https://github.com/atlassian-labs/react-loosely-lazy) - Use advanced React async components patterns today.
 - [Supabase Grid](https://github.com/supabase/grid) - React component to display your PostgreSQL table data.
 - [threaded-comments](https://github.com/lawrencecchen/threaded-comments) - Reddit styled threaded comments using Supabase and Next.js.
-- [Nano Stores](https://github.com/ai/nanostores) - Tiny (152 bytes) state manager for React/Preact/Vue/Svelte with many atomic tree-shakable stores.
+- [Nano Stores](https://github.com/nanostores/nanostores) - Tiny (198 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores. ([Tweet](https://twitter.com/andrey_sitnik/status/1452627442179391501))
 - [React Lazy Hydration](https://github.com/hadeeb/react-lazy-hydration) - Lazy Hydration for Server Rendered React Components.
 - [React Super Command](https://github.com/saharmor/react-super-cmd) - Sleek command line modal for React apps.
 - [React Complex Tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop.
@@ -219,6 +219,8 @@
 - [react-ux-form](https://github.com/swan-io/react-ux-form) - Simple, fast, and opinionated form library for React & React Native focusing on UX.
 - [React Overlay Trigger](https://github.com/huozhi/react-overlay-trigger) - Auto repositioning overlay component for react. ([Article](https://huozhi.im/post/why-position-tooltip-so-complicated))
 - [Nice Modal](https://github.com/eBay/nice-modal-react) - Small, zero dependency utility to manage modals in a natural way for React.
+- [React InfiniteGrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/react-infinitegrid) - React component that can arrange items infinitely according to the type of grids.
+- [React-Location](https://github.com/tannerlinsley/react-location) - Enterprise Client-Side Routing for React. ([Docs](https://react-location.tanstack.com/docs/overview))
 
 ## Links
 

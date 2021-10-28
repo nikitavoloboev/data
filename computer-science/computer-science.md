@@ -153,3 +153,4 @@
 - [MIT CSAIL](https://www.csail.mit.edu/) - MIT’s Computer Science and Artificial Intelligence Laboratory.
 - [What CS Books Should Everyone Read?](https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read) ([Lobsters](https://lobste.rs/s/9r8qpj/what_books_should_everyone_read))
 - [Strange Loop 2021 - YouTube](https://www.youtube.com/playlist?list=PLcGKfGEEONaBjSfQaSiU9yQsjPxxDQyV8)
+- [MPhil in Advanced Computer Science | Cambridge Uni](https://www.cst.cam.ac.uk/admissions/acs)

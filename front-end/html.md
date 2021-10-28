@@ -138,7 +138,7 @@
 - [Gorillas’ nav: a case study (2021)](https://kittygiraudel.com/2021/03/13/gorillas-nav-a-case-study/)
 - [Under-Engineered Select Menus (2021)](https://adrianroselli.com/2021/03/under-engineered-select-menus.html)
 - [Parsed HTML Rewriter](https://github.com/worker-tools/parsed-html-rewriter) - DOM-based implementation of Cloudflare Worker's HTMLRewriter.
-- [htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. Uses CSS selectors to extract bits content from HTML files. ([HN](https://news.ycombinator.com/item?id=28441880))
+- [htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. Uses CSS selectors to extract bits content from HTML files. ([HN](https://news.ycombinator.com/item?id=28441880)) ([Lobsters](https://lobste.rs/s/9ljgez/htmlq_like_jq_for_html))
 - [Beautiful PDFs from HTML](https://pdf.math.dev/) ([Code](https://github.com/ashok-khanna/pdf)) ([HN](https://news.ycombinator.com/item?id=26691626))
 - [SelectMadu](https://github.com/pavish/select-madu) - Replacement for the select menu, with support for searching, multiple selections, async data loading and more.
 - [Sortable Table Columns (2021)](https://adrianroselli.com/2021/04/sortable-table-columns.html)
@@ -186,3 +186,6 @@
 - [Inline Everything Cheat Sheet](https://cacheflowe.github.io/inline-everything/) - Examples for inlining different file types. ([Code](https://github.com/cacheflowe/inline-everything))
 - [HTML Compendium](https://github.com/xdesro/html-compendium) - Omnibus HTML file you can test your CSS cascade and formatting with.
 - [writable-dom ](https://github.com/marko-js/writable-dom) - Utility to stream HTML content into a live document.
+- [Tasty HTML buttons](https://www.htmhell.dev/26-tasty-buttons/)
+- [HTMHell](https://www.htmhell.dev/) - Collection of bad practices in HTML, copied from real websites.
+- [HTML Tips & Tricks](https://www.htmhell.dev/tips/)

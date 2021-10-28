@@ -49,3 +49,6 @@
 - [Obsidian Export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown.
 - [HN: Obsidian (2021)](https://news.ycombinator.com/item?id=28894481)
 - [Notion to Obsidian Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter)
+- [Obsidian CSS Snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets)
+- [Obsidian Starter Templates](https://github.com/masonlr/obsidian-starter-templates)
+- [Open source Obsidian Publish alternative](https://github.com/obsidian-userland/publish)

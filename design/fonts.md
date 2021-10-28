@@ -7,6 +7,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 ## Interesting fonts
 
 - [Inter](https://github.com/rsms/inter) - Typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens. ([Web](https://rsms.me/inter/)) ([The story behind Inter](https://overcast.fm/+HZUeSpUyE)) ([HN](https://news.ycombinator.com/item?id=28009042))
+- [Anchor](https://processtypefoundry.com/fonts/anchor/) - Informal family of round display gothics, with a serious side. ([Anchor in use: Charm](https://processtypefoundry.com/blog/2021/10/anchor-in-use-charm/))
 - [Sigurd](https://www.behance.net/gallery/127110261/Sigurd-Font-Family)
 - [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) ([Code](https://github.com/googlefonts/Inconsolata))
 - [Public Sans](https://github.com/uswds/public-sans) - Strong, neutral, principles-driven, open source typeface for text or display.
@@ -271,3 +272,6 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [OSP-foundry](http://osp.kitchen/foundry/) - All fonts produced by OSP.
 - [Examples of the letter ‘B’ through history](https://twitter.com/SebLester/status/1451918896458514439)
 - [#calligraphy - Twitter](https://twitter.com/hashtag/calligraphy?src=hashtag_click)
+- [Process Type Foundry](https://processtypefoundry.com/) ([Twitter](https://twitter.com/processtype))
+- [Practica Program](https://www.practicaprogram.com/) - Learn typeface design, together. ([Twitter](https://twitter.com/practicatype))
+- [Coding Font](https://www.codingfont.com/) - Game to find your favorite coding font. ([HN](https://news.ycombinator.com/item?id=29010443))

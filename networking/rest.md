@@ -10,7 +10,7 @@
 - [Build Your First Rest API with Go (2019)](https://dev.to/moficodes/build-your-first-rest-api-with-go-2gcj)
 - [RESTful API Design Tips from Experience](https://github.com/ptboyer/restful-api-design-tips)
 - [RQL](https://github.com/a8m/rql) - Resource query language for REST. It provides a simple and light-weight API for adding dynamic querying capabilities to web-applications that use SQL-based database.
-- [Roy Fielding's Misappropriated REST Dissertation (2020)](https://twobithistory.org/2020/06/28/rest.html) ([Lobsters](https://lobste.rs/s/rbom5a/roy_fielding_s_misappropriated_rest)) ([HN](https://news.ycombinator.com/item?id=23670238))
+- [Roy Fielding's Misappropriated REST Dissertation (2020)](https://twobithistory.org/2020/06/28/rest.html) ([Lobsters](https://lobste.rs/s/rbom5a/roy_fielding_s_misappropriated_rest)) ([HN](https://news.ycombinator.com/item?id=23670238)) ([HN](https://news.ycombinator.com/item?id=29009729))
 - [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping. Powered by JSON Server + LowDB.
 - [Steps for Designing REST API](https://www.wutsi.com/read/246/5-steps-for-designing-your-rest-apis)

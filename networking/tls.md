@@ -49,3 +49,7 @@
 - [Handshake Encryption: Endgame (an ECH update) (2021)](https://blog.cloudflare.com/handshake-encryption-endgame-an-ech-update/)
 - [Introducing SSL/TLS Recommender (2021)](https://blog.cloudflare.com/ssl-tls-recommender/) ([Tweet](https://twitter.com/paraacha/status/1448899607602384902))
 - [trustme](https://github.com/python-trio/trustme) - #1 quality TLS certs while you wait. ([Docs](https://trustme.readthedocs.io/en/latest/))
+- [go-tunnel](https://github.com/opencoff/go-tunnel) - TLS/SSL Tunnel - A modern STunnel replacement written in Go.
+- [Automating TLS certificate management in Docker (2021)](https://smallstep.com/blog/automate-docker-ssl-tls-certificates/)
+- [Mutual TLS (mTLS)](https://smallstep.com/hello-mtls) - Documentation on how to configure a broad array of technologies to perform mutual TLS. ([Code](https://github.com/smallstep/hello-mtls))
+- [s2n](https://github.com/aws/s2n-tls) - Implementation of the TLS/SSL protocols. ([Lobsters](https://lobste.rs/s/i1jdij/aws_s_implementation_tls_ssl))

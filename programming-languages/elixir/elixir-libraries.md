@@ -17,6 +17,7 @@
 - [Quenya](https://github.com/tyrchen/quenya) - Framework to build high-quality REST API applications based on extended OpenAPI spec.
 - [Bandit](https://github.com/mtrudel/bandit) - HTTP server for Plug apps. ([Article](https://mat.geeky.net/2021/06/24/bandit-on-the-loose.html)) ([Talk](https://github.com/mtrudel/talks/blob/main/ElixirConf%202021.pdf))
 - [ElixirST](https://github.com/gertab/ElixirST) - Session Types in Elixir.
+- [PardallMarkdown](https://github.com/alfredbaudisch/pardall_markdown) - Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding. Written in Elixir.
 
 ## DB
 
@@ -90,6 +91,7 @@
 - [Uncharted](https://github.com/unchartedelixir/uncharted) - Simple Elixir charting library that generates easy to customize charts.
 - [Rustic Result](https://github.com/linkdd/rustic_result) - Result monad for Elixir inspired by Rust Result type. ([HN](https://news.ycombinator.com/item?id=28913884))
 - [Explorer](https://github.com/elixir-nx/explorer) - Dataframes for Elixir.
+- [Burrito](https://github.com/burrito-elixir/burrito) - Cross-Platform Elixir Deployments.
 
 ## Links
 

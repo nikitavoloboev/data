@@ -260,3 +260,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Cairo](https://www.cairo-lang.org/) - Turing-complete language making it possible for all blockchain developers to harness the power of STARKs. ([Code](https://github.com/starkware-libs/cairo-lang))
 - [TokenScript](http://tokenscript.org/) - JavaScript / XML framework for blockchain token which creates a layer between a blockchain and user devices. ([Specs](https://github.com/TokenScript/TokenScript))
 - [What is an NFT?](https://twitter.com/punk6529/status/1451896453065023493)
+- [Best tax solution when dealing with NFTs (2021)](https://twitter.com/sterlingcrispin/status/1453079792077533185)
+- [Deso](https://www.deso.org/) - Decentralized Social Blockchain. ([GitHub](https://github.com/deso-protocol))

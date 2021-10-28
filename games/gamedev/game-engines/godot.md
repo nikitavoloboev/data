@@ -34,3 +34,4 @@
 - [Stop Waiting for Godot (2021)](https://itch.io/jam/stop-waiting-for-godot) ([HN](https://news.ycombinator.com/item?id=28352397))
 - [Godot Export](https://github.com/firebelley/godot-export) - Workflow action to automatically export your Godot games.
 - [Godot Lua PluginScript](https://github.com/gilzoide/godot-lua-pluginscript) - Adds support for Lua as a scripting language in Godot.
+- [Godot FSM (Finite State Machine)](https://github.com/godot-addons/godot-finite-state-machine)

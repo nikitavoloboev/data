@@ -120,6 +120,8 @@
 - [react-generate-context](https://github.com/kyleshevlin/react-generate-context) - React Context with less boilerplate.
 - [SomeHooks](https://github.com/taylor-vann/somehooks) - Collection of framework agnostic hooks.
 - [useItemList](https://github.com/souporserious/use-item-list) - Primitive React hook used to coordinate indexed collections effortlessly.
+- [use-lax](https://github.com/arthurdenner/use-lax) - React hook to use with lax.js.
+- [fp-ts-react-stable-hooks](https://github.com/mblink/fp-ts-react-stable-hooks) - Reduce unnecessary rerenders when using fp-ts data types with React hooks.
 
 ## Code
 

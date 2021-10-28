@@ -68,3 +68,4 @@
 - [Gentle introduction to GPUs inner workings (2021)](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/) ([HN](https://news.ycombinator.com/item?id=28728138))
 - [Heterogeneous Systems Course: Meeting 2: SIMD processors and GPU architecture (2021)](https://www.youtube.com/watch?v=fO8Yw1pmyyc)
 - [Implementing a GPU-driven debug line renderer (2021)](https://www.gijskaerts.com/wordpress/?p=190)
+- [Rendering on the Apple M1 Max Chip (2021)](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html) ([HN](https://news.ycombinator.com/item?id=28994800)) ([Reddit](https://www.reddit.com/r/apple/comments/qfogld/the_m1max_is_the_fastest_gpu_we_have_ever/)) ([Tweet](https://twitter.com/yiningkarlli/status/1452783165970386945))

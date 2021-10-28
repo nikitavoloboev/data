@@ -72,3 +72,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Demystifying Public Speaking by Lara Callender Hogan](https://demystifying-public-speaking.com/)
 - [Best of 2020 in Tech Talks](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
 - [Presentation tips for performing professional Swift talks (2021)](https://www.avanderlee.com/optimization/presentation-tips-swift-talks/)
+- [Reflection of Speaking in Public (2021)](https://antfu.me/posts/reflection-of-speaking-in-public)

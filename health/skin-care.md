@@ -30,3 +30,4 @@ I gently shave after shower and use [Brushless Shave Cream](https://www.amazon.c
 - [For those of you 40+, what did you wish you did in your 30's for your skincare? (2021)](https://www.reddit.com/r/SkincareAddiction/comments/o79oyc/personal_for_those_of_you_40_what_did_you_wish/)
 - [Skin care routine](https://twitter.com/ayusique/status/1396035862039777286)
 - [2021 skincare trends to leave behind? (2021)](https://www.reddit.com/r/SkincareAddiction/comments/qciask/misc_2021_skincare_trends_to_leave_behind/)
+- [Aesop](https://www.aesop.com/fr/en/) - Formulations for Skin, Hair & Body. ([Tweet](https://twitter.com/patagucci_girl/status/1452717137093533700))

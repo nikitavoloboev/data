@@ -35,3 +35,4 @@
 - [Some stuff I found interesting about number theory research (2021)](https://twitter.com/benskuhn/status/1419281153983500290) ([HN](https://news.ycombinator.com/item?id=27955372))
 - [Finding prime monomials (2021)](https://jasdev.me/prime-monomials)
 - [The Trip to the Prime Number Theorem (2021)](https://offbeat.cc/blog/the-trip-to-the-prime-number-theorem.html)
+- [Constructively Complete Finite Sets (1988)](https://onlinelibrary.wiley.com/doi/10.1002/malq.19880340202) ([Tweet](https://twitter.com/gro_tsen/status/1452319122067501064))

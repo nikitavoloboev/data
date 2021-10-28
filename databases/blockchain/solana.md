@@ -4,6 +4,7 @@
 
 ## Apps
 
+- [Holaplex](https://www.holaplex.com/) - Design and Host Your Metaplex NFT Storefront. ([Twitter](https://twitter.com/holaplex))
 - [Zoolana](https://www.zoolana.com/#/) - P2P meeting app built on Solana.
 - [Sollectify](https://sollectify.com/) - Fast and easy to use NFT marketplace on Solana blockchain.
 - [Synthetify](https://synthetify.io/) - Decentralized synthetic assets exchange.
@@ -108,3 +109,5 @@
 - [SPL Token Wallet](https://github.com/project-serum/spl-token-wallet) - Example Solana wallet with support for SPL tokens and Serum integration.
 - [How to Build and Deploy a Solana Smart Contract (2021)](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
 - [Treat Toolbox](https://github.com/theskeletoncrew/treat-toolbox) - Generative NFT Utility for Candy Machine / Solana.
+- [What do you do with your stables on Solana? (2021)](https://twitter.com/Melt_Dem/status/1453127401848774658)
+- [Solana dev tips (2021)](https://twitter.com/exploresolands/status/1453155153343696896?s=28)

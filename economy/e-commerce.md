@@ -111,3 +111,4 @@
 - [Saleor Storefront](https://github.com/saleor/saleor-storefront) - GraphQL-powered, NextJs-based, PWA storefront for Saleor.
 - [IKEA designs its stores with various psychological tricks to get you to spend more money](https://twitter.com/TrungTPhan/status/1450855104685375493)
 - [Debugging the supply chain bottleneck (2021)](https://twitter.com/patio11/status/1451596750171426824)
+- [E-commerce prototyping with Hasura and CartQL (2021)](https://www.youtube.com/watch?v=r5_muFvMcvc)

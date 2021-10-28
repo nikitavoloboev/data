@@ -70,3 +70,6 @@
 - [Minias](https://github.com/andrewchambers/minias) - Mini x86-64 assembler for fun and learning. ([HN](https://news.ycombinator.com/item?id=28884768))
 - [Binja Arm64 Disassembler](https://github.com/yrp604/bad64)
 - [Rappel](https://github.com/yrp604/rappel) - Linux-based assembly REPL for x86, amd64, armv7, and armv8.
+- [opv86](https://hikalium.github.io/opv86/) - Opcode / Instruction finder for x86_64. ([Code](https://github.com/hikalium/opv86))
+- [Comparing SIMD on x86-64 and arm64 (2021)](https://blog.yiningkarlli.com/2021/09/neon-vs-sse.html)
+- [Cheat sheet for x86-64 Unix systems programming](https://github.com/jstrieb/systems-programming-cheat-sheet)

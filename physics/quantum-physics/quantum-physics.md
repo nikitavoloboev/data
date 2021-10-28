@@ -81,3 +81,5 @@
 - [The Golden Age of Quantum Physics (1927)](https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7) ([HN](https://news.ycombinator.com/item?id=28414005))
 - [What is the difference between quantum and thermal correlations? (2021)](https://www.youtube.com/watch?v=xPc7L_mDkeM)
 - [Lectures on quantum supreme matter (2021)](https://arxiv.org/abs/2110.00961)
+- [An ultra-precise clock shows how to link the quantum world with gravity (2021)](https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/) ([HN](https://news.ycombinator.com/item?id=28988350))
+- [Beyond Quantum Mechanics and Relativity (2021)](https://www.youtube.com/watch?v=Lk-8fF-eMow)

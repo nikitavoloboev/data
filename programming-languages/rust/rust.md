@@ -601,3 +601,6 @@
 - [WebApp.rs](https://github.com/saschagrunert/webapp.rs) - Web application completely written in Rust.
 - [Rust 1.56.0 and Rust 2021](https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html) ([HN](https://news.ycombinator.com/item?id=28945420))
 - [A Rust optimization story (2021)](https://quickwit.io/blog/search-a-sorted-block/) ([HN](https://news.ycombinator.com/item?id=28955461))
+- [Debounce (2021)](https://softwaremaniacs.org/blog/2021/10/25/debounce/en/)
+- [My ideal Rust workflow (2021)](https://fasterthanli.me/articles/my-ideal-rust-workflow) ([HN](https://news.ycombinator.com/item?id=29010327))
+- [Former HFT C++ programmer, on how Rust fixes C++'s serious issues (2021)](https://www.thecodedmessage.com/posts/hello-rust/) ([Reddit](https://www.reddit.com/r/rust/comments/qgmo10/im_a_former_hft_c_programmer_starting_a_series_on/))

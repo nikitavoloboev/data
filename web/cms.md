@@ -29,3 +29,4 @@
 - [New Strapi live demo: FoodAdvisor v2 using Strapi & Next.js (2021)](https://strapi.io/blog/foodadvisor-v2)
 - [Contentlayer](https://github.com/contentlayerdev/contentlayer) - Turns your content into data - making it super easy to import MD(X) and CMS content in your app.
 - [Slicknode](https://slicknode.com/) - GraphQL CMS, Headless Content Management. ([Code](https://github.com/slicknode/slicknode))
+- [Collaborative CMS options (2021)](https://twitter.com/derrickreimer/status/1453017970645602304)

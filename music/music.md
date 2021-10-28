@@ -88,7 +88,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Resident Advisor](https://www.residentadvisor.net/) - Electronic music online.
 - [Stereogum](https://www.stereogum.com/) - Music blog.
 - [Bliss music analyzer](https://github.com/Polochon-street/bliss) - Open-source library that evaluates distance between songs. ([Web](https://lelele.io/bliss.html)) ([Lobsters](https://lobste.rs/s/b4lrmb/bliss_v2_library_for_making_audio))
-- [Resonate](https://resonate.is/) - Community-owned music network.
+- [Resonate](https://resonate.is/) - Community-owned music network. ([HN](https://news.ycombinator.com/item?id=28991637))
 - [Socialfy](https://www.socialfy.app/) - Your Spotify listening, more socially. Share what you're currently listening too, your top artists, and more. ([Code](https://github.com/rdrnt/socialfy-frontend))
 - [80% of musicians earn less than £200 a year from streaming (2020)](https://www.nme.com/news/music/82-per-cent-of-musicians-earn-less-than-200-a-year-from-streaming-2833510) ([HN](https://news.ycombinator.com/item?id=25352088))
 - [TIDAL](https://tidal.com/) - High Fidelity Music Streaming.
@@ -157,3 +157,6 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Music on a Clear Möbius Strip (2021)](https://www.youtube.com/watch?v=sToqbqP0tFk)
 - [Using Graph Embeddings for Music Visualization + Discovery with node2vec](https://cprimozic.net/blog/graph-embeddings-for-music-discovery/) ([Lobsters](https://lobste.rs/s/ktd9ew/using_graph_embeddings_for_music))
 - [AudD](https://audd.io/) - Music Recognition API. ([Go API Library](https://github.com/AudDMusic/audd-go))
+- [A Comprehensive Guide to 250+ of Apple Music's New Mood and Activity Playlists (2021)](https://www.macstories.net/stories/a-comprehensive-guide-to-250-of-apple-musics-new-mood-and-activity-playlists/)
+- [ZSpotify](https://github.com/Footsiefat/zspotify) - Spotify downloader needing only a python interpreter and ffmpeg.
+- [Universal Music Group: The Gatekeepers of Music (2021)](https://www.joincolossus.com/episodes/25864787/gokgol-kline-universal-music-group-the-gatekeepers-of-music?tab=blocks)

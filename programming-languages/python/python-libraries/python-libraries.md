@@ -146,6 +146,7 @@
 
 ## Graphics
 
+- [pygmsh](https://github.com/nschloe/pygmsh) - Provides useful abstractions from Gmsh's own Python interface so you can create complex geometries more easily.
 - [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 
 ## Crypto
@@ -525,6 +526,7 @@
 - [Formulaic](https://github.com/matthewwardrop/formulaic) - High-performance implementation of Wilkinson formulas for Python.
 - [spec_classes](https://github.com/matthewwardrop/spec-classes) - Simple way to incrementally build type-checked specifications.
 - [Mensor](https://github.com/matthewwardrop/mensor) - Graph-based computation engine for computing measures and metrics.
+- [dirty_cat](https://github.com/dirty-cat/dirty_cat) - Encoding methods for dirty categorical variables. ([Docs](https://dirty-cat.github.io/stable/))
 
 ## Links
 
@@ -566,3 +568,4 @@
 - [packaging](https://github.com/pypa/packaging) - Core utilities for Python packages. ([Docs](https://packaging.pypa.io/en/latest/))
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder. ([Docs](https://virtualenv.pypa.io/en/latest/))
 - [PyPI Data](https://github.com/sethmlarson/pypi-data) - Mostly up-to-date data about almost every package on PyPI.
+- [Python libraries to make your code readable, reliable and maintainable (2020)](https://isaak.dev/2020/08/python-libraries-to-make-your-code-readable-and-maintainable)

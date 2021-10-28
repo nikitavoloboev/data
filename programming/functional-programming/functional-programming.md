@@ -136,6 +136,7 @@
 - [Std: Execution, Sender/Receiver, and the Continuation Monad (2021)](https://sdowney.org/index.php/2021/10/03/stdexecution-sender-receiver-and-the-continuation-monad/) ([HN](https://news.ycombinator.com/item?id=28894851))
 - [PCF](https://github.com/jozefg/pcf) - Tiny typed, higher-order functional language. Compiled to C.
 - [Functors, Applicatives, and Monads in Pictures (2013)](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) ([HN](https://news.ycombinator.com/item?id=28916247))
+- [United Monoids (2018)](https://blogs.ncl.ac.uk/andreymokhov/united-monoids/) ([Code](https://github.com/snowleopard/united))
 
 ## Images
 

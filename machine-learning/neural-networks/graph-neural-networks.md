@@ -61,3 +61,6 @@
 - [Understanding Convolutions on Graphs (2021)](https://distill.pub/2021/understanding-gnns/)
 - [GraphNeuralNetworks.jl](https://github.com/CarloLucibello/GraphNeuralNetworks.jl) - Graph Neural Networks in Julia.
 - [MilaGraph](https://github.com/DeepGraphLearning) - Research group focusing on graph representation learning and graph neural networks.
+- [Modeling Relational Data with Graph Convolutional Networks (2017)](https://arxiv.org/abs/1703.06103) ([Code](https://github.com/MichSchli/RelationPrediction))
+- [GNNLens2](https://github.com/dmlc/GNNLens2) - Visualization tool for Graph Neural Networks.
+- [Hierarchical Graph Representation Learning with Differentiable Pooling (2018)](https://arxiv.org/abs/1806.08804) ([Code](https://github.com/RexYing/diffpool))

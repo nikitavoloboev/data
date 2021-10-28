@@ -62,6 +62,7 @@ Below is a list of plugins I use.
 
 ## Clojure
 
+- [Clojure support for Sublime Text 4](https://github.com/tonsky/sublime-clojure)
 - [Pep](https://github.com/pedrorgirardi/Pep) - Elemental Clojure & ClojureScript code navigation, documentation, and usages analysis for Sublime Text.
 
 ## Lint

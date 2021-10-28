@@ -186,3 +186,8 @@
 - [Graphics Programming Resources List](https://github.com/Graphics-Programming-Virtual-Meetup/Resources)
 - [Graphics Programming Virtual Meetup Meeting Notes](https://github.com/Graphics-Programming-Virtual-Meetup/meeting-notes)
 - [Graphics Programming Virtual Meetup](https://www.meetup.com/Graphics-Programming-Virtual-Meetup/) ([Discord](https://discord.com/invite/6TTRA5h)) ([Twitter](https://twitter.com/GraphicsMeetup))
+- [Unbiased Emission and Scattering Importance Sampling For Heterogeneous Volumes (2021)](https://www.yiningkarlli.com/projects/emissionscattervolumes.html) ([Article](https://blog.yiningkarlli.com/2021/08/unbiased-emission-and-scattering-volumes.html))
+- [Takua Renderer](https://www.yiningkarlli.com/projects/takuarender.html) - Physically-based photorealistic global illumination renderer. ([Porting Takua Renderer to 64-bit ARM](https://blog.yiningkarlli.com/2021/05/porting-takua-to-arm-pt1.html)) ([Shadow Terminator in Takua](https://blog.yiningkarlli.com/2020/02/shadow-terminator-in-takua.html))
+- [Magic Shop RenderMan Art Challenge (2021)](https://blog.yiningkarlli.com/2021/04/magic-shop-renderman-challenge.html)
+- [Raya and the Last Dragon (2021)](https://blog.yiningkarlli.com/2021/03/raya-and-the-last-dragon.html)
+- [Shipshape RenderMan Art Challenge (2020)](https://blog.yiningkarlli.com/2020/07/shipshape-renderman-challenge.html)

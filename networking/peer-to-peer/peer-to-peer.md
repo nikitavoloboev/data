@@ -90,6 +90,6 @@
 - [Dione](https://github.com/Dione-Software/dione) - Anonymize and encrypted messaging system build on top on a peer to peer layer.
 - [Backchannel](https://github.com/inkandswitch/backchannel) - Local-first address book.
 - [GGRS](https://github.com/gschup/ggrs) - Reimagination of GGPO, enabling P2P rollback networking in Rust. Rollback to the future.
-- [Atek Spork](https://github.com/atek-cloud/spork) - Command-line p2p sockets tool. ([HN](https://news.ycombinator.com/item?id=28915872))
+- [Atek Spork](https://github.com/atek-cloud/spork) - Command-line p2p sockets tool. ([HN](https://news.ycombinator.com/item?id=28915872)) ([Web](https://spork.sh/)) ([Tweet](https://twitter.com/pfrazee/status/1453113591939403780))
 - [Atek](https://atek.cloud/) - Open source peer-to-peer Home Cloud. ([GitHub](https://github.com/atek-cloud))
 - [Building Collaborative P2P Applications with Autobase](https://github.com/hypercore-protocol/p2p-multiwriter-with-autobase)

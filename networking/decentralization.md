@@ -29,7 +29,6 @@
 - [Local-first software: you own your data, in spite of the cloud](https://blog.acolyer.org/2019/11/20/local-first-software/) ([HN](https://news.ycombinator.com/item?id=21581444))
 - [Protocols, Not Platforms: A Technological Approach to Free Speech (2019)](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 - [The ecosystem is moving - Moxie (2019)](https://www.youtube.com/watch?v=Nj3YFprqAr8)
-- [Misskey](https://github.com/syuilo/misskey) - Federated blogging platform.
 - [GUN](https://github.com/amark/gun) - Realtime, decentralized, offline-first, graph protocol to sync the web. ([Web](https://gun.eco/))
 - [Towards decentralized code collaboration](https://radicle.xyz/towards-decentralized-code-collaboration.html)
 - [SAFE Network Primer](https://primer.safenetwork.org/) - Introductory guide to the world's first fully autonomous data and communications network.
@@ -48,6 +47,7 @@
 - [The unrealized potential of federation (2020)](https://drewdevault.com/2020/09/20/The-potential-of-federation.html) ([HN](https://news.ycombinator.com/item?id=24534148))
 - [Spritely](https://spritelyproject.org/) - Project to level up the federated social web. ([Lobsters](https://lobste.rs/s/whaf2t/spritely))
 - [Filecoin](https://filecoin.io/) - Decentralized storage network for humanity's most important information. ([Tweet](https://twitter.com/smdiehl/status/1318143467613192194)) ([What Information Should we be Preserving in Filecoin?](https://blog.archive.org/2020/10/22/what-information-should-we-be-preserving-in-filecoin/)) ([Review](https://www.reddit.com/r/Arweave/comments/m14o0a/disappointed_by_filecoin/)) ([How storage and retrieval deals work on Filecoin](https://filecoin.io/blog/posts/how-storage-and-retrieval-deals-work-on-filecoin/)) ([GitHub](https://github.com/filecoin-project)) ([Community](https://github.com/filecoin-project/community))
+- [Venus](https://github.com/filecoin-project/venus) - Filecoin Full Node Implementation in Go. ([Web](https://venus.filecoin.io/))
 - [Lotus](https://github.com/filecoin-project/lotus) - Implementation of the Filecoin Distributed Storage Network.
 - [Forest](https://github.com/ChainSafe/forest) - Rust Filecoin Node Implementation.
 - [witnet-rust](https://github.com/witnet/witnet-rust) - Open source implementation of the Witnet Decentralized Oracle Network protocol written in Rust.
@@ -100,3 +100,4 @@
 - [Web3 Devs and Builders Twitter](https://twitter.com/i/lists/1433448123142115329)
 - [Should Your Next Company Be a DAO? (2021)](https://www.coss.community/cossc/should-your-next-company-be-a-dao-2o44)
 - [web3 Policy - Andreessen Horowitz](https://a16z.com/web3-policy/)
+- [A Legal Framework for Decentralized Autonomous Organizations (2021)](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) ([Tweet](https://twitter.com/milesjennings/status/1453080226179608577))

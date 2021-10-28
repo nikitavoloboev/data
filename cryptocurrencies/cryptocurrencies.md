@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md) are great distributed consensus systems for transacting assets and running code ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins ([Monero](monero.md)) to be most interesting use cases of crypto right now.
+I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md) are great distributed consensus systems for transacting assets and running code ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins ([Monero](monero.md)) to be most interesting use cases of crypto right now.
 
 It's annoying that a lot of [people/projects use these distributed ledgers as ponzi schemes](https://twitter.com/eddyb_r/status/1451679543702478860) or still use super wasteful consensus system ([Bitcoin](bitcoin.md)).
 
@@ -150,3 +150,4 @@ It's annoying that a lot of [people/projects use these distributed ledgers as po
 - [go-binance](https://github.com/adshao/go-binance) - Go SDK for Binance API.
 - [Personal finance tools for crypto to help people track yields, ownership, etc. across services (2021)](https://twitter.com/dksf/status/1447981378918748163)
 - [Dapper](https://www.meetdapper.com/) - Your account manager for all things Flow. ([Designing Dapper](https://medium.com/dapperlabs/designing-dapper-48c50fcfb063))
+- [Why Wallets Excite Me Again (2021)](https://ricburton.mirror.xyz/2FFEmghrC3_-jhQSRSIGr8s1LOmaJTEsdYFoxj4xKpQ) ([Tweet](https://twitter.com/ricburton/status/1452700629948764162))

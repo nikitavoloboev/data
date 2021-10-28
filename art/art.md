@@ -62,6 +62,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nydia Lilian](https://www.instagram.com/nydialilian/)
 - [Moonassi](http://www.moonassi.com/)
 - [Liam Wong](https://www.liamwong.com/)
+- [Julia Zhuravleva](https://www.instagram.com/eleth_art/)
 - [Guim Tió](https://www.instagram.com/guimtio/)
 - [Pascal Campion](https://www.instagram.com/pascalcampionart/)
 - [Bastien Grivet](https://www.artstation.com/grivetart)
@@ -399,7 +400,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Writing Machines](https://writing-machines.tumblr.com/) - Resource dedicated to various projects related to electronic literature/books/writing/art.
 - [Archillect](https://archillect.com/) - AI created to discover and share stimulating visual content.
 - [Shibuya Pixel Art 2020](https://www.lexaloffle.com/bbs/?tid=37971) ([HN](https://news.ycombinator.com/item?id=23200246))
-- [WikiArt](https://www.wikiart.org/) - Visual Art Encyclopedia.
+- [WikiArt](https://www.wikiart.org/) - Visual Art Encyclopedia. ([WikiArt Retriever](https://github.com/lucasdavid/wikiart))
 - [Artvee](https://artvee.com/) - Discover Classical Art. Browse and download high-resolution, public domain artworks.
 - [Ghostly](https://ghostly.com/) - Music and art company supporting work of high quality, integrity, and individuality.
 - [Milton Glaser's advice on making art](https://twitter.com/johnleedraws/status/1276721178841841664)

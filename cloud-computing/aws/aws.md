@@ -228,3 +228,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [cfsec](https://github.com/aquasecurity/cfsec) - Static analysis for CloudFormation templates to identify common misconfigurations.
 - [AWS Cloudformation Publisher](https://github.com/aws-samples/aws-cloudformation-publisher) - Packages your CloudFormation templates into an S3 bucket in every AWS region and creates "launch stack" links.
 - [Profiling 25,000 S3 Buckets: The Billion Dollar Opportunity for Cloudflare R2 (2021)](https://www.vantage.sh/blog/the-opportunity-for-cloudflare-r2) ([Tweet](https://twitter.com/benadam11/status/1450901767688843270))
+- [AWS Recon](https://github.com/darkbitio/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
+- [Get AWS costs posted directly to Slack](https://www.vantage.sh/blog/vantage-slack-notifications) ([HN](https://news.ycombinator.com/item?id=29004934))

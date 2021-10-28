@@ -63,3 +63,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Lost In Film](https://twitter.com/LostInFilm) - Visual publication dedicated to cinema that celebrates the best arthouse, independent & classic films. ([IG](https://www.instagram.com/_lostinfilm/))
 - [Flick Metrix](https://flickmetrix.com/) - Best Movies on Netflix Right Now.
 - [Movio](https://movio.co/) - Shaping the future of movie marketing. ([GitHub](https://github.com/movio))
+- [8 Books That Should Be Movies: What Hollywood Should Adapt After Dune (2021)](https://variety.com/2021/film/news/book-movie-adaptations-1235095659/)
+- [“Dune” (The Movie), Annotated (2021)](https://maxread.substack.com/p/dune-annotated) ([HN](https://news.ycombinator.com/item?id=29011467))

@@ -107,6 +107,9 @@
 - [Scaldi](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library.
 - [Zinc](https://github.com/sbt/zinc) - Incremental compiler for Scala.
 - [zio-webhooks](https://github.com/zio/zio-webhooks) - Microlibrary for reliable and persistent webhook delivery.
+- [Iron](https://github.com/Iltotore/iron) - Type constraint system for Scala. It allows creating type-level assertions, evaluable at compile time and/or runtime.
+- [ECScala](https://github.com/nicolasfara/ecscala) - ECS Scala framework.
+- [ZIO Akka Cluster](https://github.com/zio/zio-akka-cluster)
 
 ## Links
 
@@ -114,3 +117,4 @@
 - [Useful Scala libraries (2020)](https://twitter.com/hmemcpy/status/1318473961236291584)
 - [Scalaland.io](https://scalalandio.github.io/) - Umbrella for various Scala projects. ([GitHub](https://github.com/scalalandio))
 - [Awesome Scala Native](https://github.com/tindzk/awesome-scala-native)
+- [ZIO Cheat Sheet](https://github.com/ghostdogpr/zio-cheatsheet)

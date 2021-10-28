@@ -150,7 +150,8 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Conventional Commits](https://www.conventionalcommits.org/) - Specification for adding human and machine readable meaning to commit messages.
 - [glint](https://github.com/brigand/glint) - Friendly tool for creating commits in the Conventional Commit style.
 - [git absorb](https://github.com/tummychow/git-absorb) - Git commit --fixup, but automatic.
-- [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
+- [ghq](https://github.com/x-motemen/ghq) - Manage remote repository clones.
+- [gst](https://github.com/uetchy/gst) - Toolbox that offers additional commands (list, new, rm, doctor, update, fetch) over ghq enabled environment.
 - [git-flow](https://github.com/nvie/gitflow) - Collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
 - [gitin](https://github.com/isacikgoz/gitin) - Commit/branch/status explorer for git.
 - [Lab](https://github.com/zaquestion/lab) - Wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab.
@@ -424,3 +425,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-subset](https://github.com/jasonwhite/git-subset) - Super fast Git tree filtering.
 - [chronicle](https://github.com/anchore/chronicle) - Fast changelog generator that sources changes from GitHub PRs and issues, organized by labels.
 - [16 Year History of the Git Init Command (2021)](https://initialcommit.com/blog/history-git-init-command)
+- [Git: ssh signing: Add commit & tag signing/verification via SSH keys using ssh-keygen](https://github.com/git/git/pull/1041) ([Lobsters](https://lobste.rs/s/l5h2ct/git_ssh_signing_add_commit_tag_signing)) ([Tweet](https://twitter.com/FiloSottile/status/1452821944781443078))
+- [When to Use Each of the Git Diff Algorithms (2020)](https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/)

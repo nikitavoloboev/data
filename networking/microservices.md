@@ -86,3 +86,4 @@
 - [Cloud Native GeoServer](http://geoserver.org/geoserver-cloud/) - GeoServer ready to use in the cloud through dockerized microservices. ([Code](https://github.com/geoserver/geoserver-cloud))
 - [GitHub’s Journey from Monolith to Microservices (2021)](https://www.infoq.com/articles/github-monolith-microservices/) ([Tweet](https://twitter.com/SusanPotter/status/1447861936683634692))
 - [Ergo](https://cloud.ergo.services/) - Cloud platform to enrich services made with Ergo Framework. ([GitHub](https://github.com/ergo-services))
+- [Bootstrapping Microservices with Docker, Kubernetes, and Terraform Book (2021)](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform)

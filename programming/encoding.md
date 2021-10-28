@@ -34,3 +34,4 @@
 - [Entropy coding in Oodle Data: Huffman coding (2021)](https://fgiesen.wordpress.com/2021/08/30/entropy-coding-in-oodle-data-huffman-coding/)
 - [Fun with Morse Code](https://apfelmus.nfshost.com/articles/fun-with-morse-code.html)
 - [Latinendian vs Arabendian (2020)](https://theorangeduck.com/page/latinendian-arabendian)
+- [ICU - International Components for Unicode](https://icu.unicode.org/) ([Code](https://github.com/unicode-org/icu))

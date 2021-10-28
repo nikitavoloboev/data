@@ -21,3 +21,5 @@
 - [Notes on Ethics](https://paul.copplest.one/knowledge/philosophy/ethics.html)
 - [Are we cut out for universal morality? (2021)](https://nautil.us/issue/100/outsiders/are-we-cut-out-for-universal-morality) ([HN](https://news.ycombinator.com/item?id=27336272))
 - [Technology Isn't Neutral - A Manifesto For Radical Software Development](http://cryto.net/~joepie91/manifesto.html)
+- [Descriptive ethics - Wikipedia](https://en.wikipedia.org/wiki/Descriptive_ethics)
+- [Ask Delphi](https://delphi.allenai.org/) - Delphi is computational model for descriptive ethics.

@@ -68,7 +68,7 @@
 - [popmotion](https://github.com/Popmotion/popmotion) - Functional, reactive animation library.
 - [impress.js](https://github.com/impress/impress.js) - Presentation framework based on the power of CSS3 transforms and transitions.
 - [Pts](https://github.com/williamngan/pts) - Library for visualization and creative-coding. ([Web](https://ptsjs.org/))
-- [lax.js](https://github.com/alexfoxy/laxxx) - Simple & light weight (&lt;2kb gzipped) vanilla JS plugin to create smooth & beautiful animations when you scroll.
+- [lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [Flipping](https://github.com/davidkpiano/flipping) - Library (and collection of adapters) for implementing FLIP transitions.
 - [Ola](https://github.com/franciscop/ola) - Smooth animation library for interpolating numbers.
 - [react-spring](https://github.com/react-spring/react-spring) - Spring physics based React animation library.
@@ -632,6 +632,8 @@
 - [editable.js](https://github.com/livingdocsIO/editable.js) - JavaScript API that defines a friendly and browser-consistent content editable interface.
 - [Fireworks.js](https://github.com/crashmax-dev/fireworks-js) - Simple fireworks library.
 - [module-error](https://github.com/vweevers/module-error) - Create errors with code and cause properties.
+- [InfiniteGrid](https://github.com/naver/egjs-infinitegrid) - Module used to arrange card elements including content infinitely on a grid layout. ([Web](https://naver.github.io/egjs-infinitegrid/))
+- [Okiba](https://github.com/okiba-gang/okiba) - Sharp collection of tools for front-end development, created with performance in mind.
 
 ## Links
 
@@ -656,3 +658,4 @@
 - [install-pkg](https://github.com/antfu/install-pkg) - Install package programmatically. Detect package managers automatically (npm, yarn and pnpm).
 - [npm-search](https://github.com/algolia/npm-search) - Failure resilient npm registry to Algolia index replication process.
 - [stable-hash](https://github.com/shuding/stable-hash) - Stable JS value hash.
+- [npm-registry-fetch](https://github.com/npm/npm-registry-fetch) - Node.js library that implements a fetch-like API for accessing npm registry APIs consistently.

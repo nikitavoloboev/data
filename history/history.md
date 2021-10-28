@@ -148,3 +148,4 @@
 - [Human History Gets a Rewrite (2021)](https://www.theatlantic.com/magazine/archive/2021/11/graeber-wengrow-dawn-of-everything-history-humanity/620177/) ([HN](https://news.ycombinator.com/item?id=28908960))
 - [Evidence for European presence in the Americas in AD 1021](https://www.nature.com/articles/s41586-021-03972-8) ([HN](https://news.ycombinator.com/item?id=28934530)) ([Reddit](https://www.reddit.com/r/science/comments/qc3xn7/vikings_discovered_america_500_years_before/))
 - [Apprentice to Genius: The Making of a Scientific Dynasty by Robert Kanigel (1993)](https://www.goodreads.com/book/show/532944.Apprentice_to_Genius)
+- [The Gold Standard and the Great Depression (1997)](https://www.nber.org/papers/w6060) ([HN](https://news.ycombinator.com/item?id=29003199))

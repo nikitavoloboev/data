@@ -94,3 +94,4 @@
 - [Real time Editing of Ordered Sequences (2017)](https://www.figma.com/blog/realtime-editing-of-ordered-sequences/)
 - [Implementing Fractional Indexing (2020)](https://observablehq.com/@dgreensp/implementing-fractional-indexing) ([Tweet](https://twitter.com/tmcw/status/1450878278416441347))
 - [A Common-Sense Guide to Data Structures and Algorithms Book (2017)](https://www.goodreads.com/en/book/show/34695800)
+- [Array Layouts for Comparison-Based Searching (2015)](https://arxiv.org/abs/1509.05053) ([Lobsters](https://lobste.rs/s/jdxjm8/array_layouts_for_comparison_based))

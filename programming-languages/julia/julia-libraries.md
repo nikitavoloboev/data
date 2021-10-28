@@ -47,6 +47,7 @@
 - [NeuralPDE](https://github.com/SciML/NeuralPDE.jl) - Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations for Scientific Machine Learning (SciML) accelerated simulation.
 - [SweepContractor.jl](https://github.com/chubbc/SweepContractor.jl) - Julia package for the contraction of tensor networks using the sweep-line-based contraction algorithm.
 - [CellMLToolkit.jl](https://github.com/SciML/CellMLToolkit.jl) - Julia library that connects CellML models to the Scientific Julia ecosystem.
+- [LossFunctions](https://github.com/JuliaML/LossFunctions.jl) - Julia package of loss functions for machine learning.
 
 ## Math
 
@@ -331,3 +332,4 @@
 - [PkgTemplates](https://github.com/invenia/PkgTemplates.jl) - Creates new Julia packages in an easy, repeatable, and customizable way.
 - [Welcome to DataFrames.jl Workshop](https://github.com/JuliaAcademy/DataFrames)
 - [Aqua.jl](https://github.com/JuliaTesting/Aqua.jl) - Auto QUality Assurance for Julia packages. Provides functions to run a few automatable checks for Julia packages.
+- [The Algorithms - Julia](https://github.com/TheAlgorithms/Julia) - Algorithms implemented in the Julia programming language.

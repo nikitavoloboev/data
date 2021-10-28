@@ -477,3 +477,6 @@
 - [Kubeconform](https://github.com/yannh/kubeconform) - Kubernetes manifests validation tool. Build it into your CI to validate your Kubernetes configuration.
 - [policy-server](https://github.com/kubewarden/policy-server) - Webhook server that evaluates WebAssembly policies to validate Kubernetes requests.
 - [Descheduler for Kubernetes](https://github.com/kubernetes-sigs/descheduler)
+- [Kubernetes in Action Book (2021)](https://www.manning.com/books/kubernetes-in-action-second-edition)
+- [Autocert](https://github.com/smallstep/autocert) - Kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers.
+- [Step Issuer](https://github.com/smallstep/step-issuer) - Certificate issuer for cert-manager using step certificates CA.

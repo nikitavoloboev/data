@@ -240,3 +240,4 @@
 - [What’s new in Swift 5.5?](https://github.com/twostraws/whats-new-in-swift-5-5) - Xcode playground that demonstrates the new features introduced in Swift 5.5.
 - [What is a KeyPath in Swift (2021)](https://sarunw.com/posts/what-is-keypath-in-swift/)
 - [Learn the Essentials of Swift in one hour (2021)](https://www.youtube.com/watch?v=n5X_V81OYnQ) ([Article](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour))
+- [Discover | Swift by Sundell](https://swiftbysundell.com/discover/)

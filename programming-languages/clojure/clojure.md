@@ -39,7 +39,7 @@
 - [SICP Distilled](http://www.sicpdistilled.com/) - Idiosyncratic tour of SICP in Clojure.
 - [The Clojure Mindshare (2019)](https://groundedsage.netlify.com/posts/the-clojure-mindshare/)
 - [Clojure Katas](https://github.com/chefy-io/clojure-katas)
-- [Babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting. ([Talk](https://www.youtube.com/watch?v=Nw8aN-nrdEk)) ([Docs](https://book.babashka.org/)) ([Migrating blog from Octopress to Babashka](https://blog.michielborkent.nl/migrating-octopress-to-babashka.html))
+- [Babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting. ([Talk](https://www.youtube.com/watch?v=Nw8aN-nrdEk)) ([Docs](https://book.babashka.org/)) ([Migrating blog from Octopress to Babashka](https://blog.michielborkent.nl/migrating-octopress-to-babashka.html)) ([HN](https://news.ycombinator.com/item?id=28982952))
 - [Clojure Koans](https://github.com/functional-koans/clojure-koans) - Set of exercises for learning Clojure.
 - [State of Clojure 2020](https://clojure.org/news/2020/02/20/state-of-clojure-2020) ([HN](https://news.ycombinator.com/item?id=22379603))
 - [Clojurians Zulip Chat](https://clojurians.zulipchat.com/login/)
@@ -162,3 +162,4 @@
 - [Geometer](https://github.com/jackrusher/geometer) - Interactive playground for experiments with th.ing's geom libraries.
 - [CIDER nREPL](https://github.com/clojure-emacs/cider-nrepl) - Collection of nREPL middleware, originally designed to enhance CIDER. ([Docs](https://docs.cider.mx/cider-nrepl/))
 - [Fast and Elegant Clojure (2021)](https://bsless.github.io/fast-and-elegant-clojure/) ([HN](https://news.ycombinator.com/item?id=28956316))
+- [formatting-stack](https://github.com/nedap/formatting-stack) - Efficient, smart, graceful composition of Clojure formatters, linters.

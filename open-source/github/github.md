@@ -49,6 +49,7 @@ I publish most of my work and make it open source for other people to use and re
 - [To open code from GitHub, just add "blitz" to the domain name (`http://github.com...` becomes `http://githubblitz.com...`)](https://twitter.com/stackblitz/status/1397193629534494722)
 - [gh pr checkout <pr-number> is great command to checkout PRs locally easily.](https://cli.github.com/manual/gh_pr_checkout)
 - [GitHub iOS app has dispatch workflow action shortcut](https://twitter.com/baevdm/status/1447967684814155779)
+- [gh command supports creating, listing, and SSHing into codespaces](https://twitter.com/nicknisi/status/1452830729793150987) ([Tweet](https://twitter.com/corywilkerson/status/1453072826718515202))
 
 ## Code
 
@@ -289,3 +290,5 @@ Awesome List
 - [fgh](https://github.com/gleich/fgh) - Automate the lifecycle and organization of your cloned GitHub repositories.
 - [10 tips for better Pull Requests (2015)](https://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/)
 - [bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases.
+- [GitHub stale bot considered harmful (2021)](https://drewdevault.com/2021/10/26/stalebot.html) ([HN](https://news.ycombinator.com/item?id=28998374))
+- [gisture](https://github.com/mufeedvh/gisture) - Utilizing GitHub Gists as a Blogging Platform.

@@ -169,3 +169,4 @@
 - [Tiny humans](https://tinyhumans.vercel.app/) - Little interactive sandbox for tiny people, tiny thoughts, and their tiny stories. ([Code](https://github.com/thesephist/tinyhumans))
 - [Tyler Hobbs - Designing NFT Generative Art with a Traditional Touch (2021)](https://www.proof.xyz/tyler-hobbs-designing-nft-generative-art/)
 - [aRt](https://github.com/nrennie/aRt) - R package to create generative art.
+- [GenerativeArt-SwiftUI](https://github.com/martinhoeller/GenerativeArt-SwiftUI)

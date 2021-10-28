@@ -256,3 +256,4 @@
 - [[History of C++] Templates: from C-style macros to concepts (2021)](https://belaycpp.com/2021/10/01/history-of-c-templates-from-c-style-macros-to-concepts/)
 - [The genesis of casting (2021)](https://belaycpp.com/2021/10/14/history-of-c-the-genesis-of-casting/)
 - [Implementing Useful Algorithms in C++ (2020)](https://www.amazon.com/dp/B08PXHJCXY) ([Code](https://github.com/dkedyk/ImplementingUsefulAlgorithms))
+- [Borrowing Trouble: The Difficulties Of A C++ Borrow-Checker (2021)](https://docs.google.com/document/d/e/2PACX-1vSt2VB1zQAJ6JDMaIA9PlmEgBxz2K5Tx6w2JqJNeYCy0gU4aoubdTxlENSKNSrQ2TXqPWcuwtXe6PlO/pub) ([Lobsters](https://lobste.rs/s/7832sw/borrowing_trouble_difficulties_c_borrow))

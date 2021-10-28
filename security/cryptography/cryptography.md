@@ -9,7 +9,6 @@
 - [Making Private Communication Simple - Moxie Marlinspike](https://www.youtube.com/watch?v=kp-b8iTZqzM)
 - [trezor-crypto](https://github.com/trezor/trezor-crypto) - Heavily optimized cryptography algorithms for embedded devices.
 - [emmy](https://github.com/xlab-si/emmy) - Library for zero-knowledge proof based applications (like anonymous credentials).
-- [s2n](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols. ([Lobsters](https://lobste.rs/s/i1jdij/aws_s_implementation_tls_ssl))
 - [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 - [LibHydrogen](https://github.com/jedisct1/libhydrogen) - Lightweight, secure, easy-to-use crypto library suitable for constrained environments.
 - [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
@@ -139,3 +138,4 @@
 - [Bugs in our Pockets: The Risks of Client-Side Scanning (2021)](https://www.cs.columbia.edu/~smb/papers/bugs21.pdf) ([Tweet](https://twitter.com/SteveBellovin/status/1448808323378294786)) ([Lobsters](https://lobste.rs/s/a3taal/bugs_our_pockets_risks_client_side)) ([Article](https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/))
 - [Cracking Random Number Generators Using Machine Learning (2021)](https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/) ([HN](https://news.ycombinator.com/item?id=28886698))
 - [A Graduate Course in Applied Cryptography (2020)](https://toc.cryptobook.us/book.pdf) ([HN](https://news.ycombinator.com/item?id=28918554))
+- [HACL\*](https://github.com/project-everest/hacl-star) - Formally verified cryptographic library written in F\*.

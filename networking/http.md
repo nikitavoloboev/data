@@ -153,3 +153,5 @@
 - [Ciao](https://brotandgames.com/ciao/) - HTTP checks & tests (private & public) monitoring - check the status of your URL. ([Code](https://github.com/brotandgames/ciao))
 - [New HTTP standards for caching on the modern web (2021)](https://httptoolkit.tech/blog/status-targeted-caching-headers/) ([HN](https://news.ycombinator.com/item?id=28930941))
 - [An alternative approach to rate limiting (2017)](https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/)
+- [Hedged http requests to reduce tail latency (2021)](https://1pkg.github.io/posts/hedged_http_requests_to_reduce_tail_latency/)
+- [QuickServ](https://github.com/jstrieb/quickserv) - User-friendly web server. ([HN](https://news.ycombinator.com/item?id=29002694))

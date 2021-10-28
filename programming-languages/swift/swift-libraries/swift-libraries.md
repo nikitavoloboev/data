@@ -9,6 +9,7 @@
 - [SwiftShell](https://github.com/kareman/SwiftShell) - Library for creating command-line applications and running shell commands in Swift.
 - [Spinner](https://github.com/dominicegginton/spinner) - Powerful Swift CLI Spinners.
 - [TerminalUI](https://github.com/chriseidhof/TerminalUI) - Way to build TUI apps with a layout system and API that's similar to SwiftUI.
+- [ANSITerminal](https://github.com/pakLebah/ANSITerminal) - Swift library to access features of ANSI terminal on Unixes console (Linux and Mac).
 
 ## Animation
 
@@ -194,6 +195,7 @@
 - [SegementSlide](https://github.com/Jiar/SegementSlide) - Multi-tier UIScrollView nested scrolling solution.
 - [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS devices using BLE.
 - [Yoshi](https://github.com/prolificinteractive/Yoshi) - Convenient wrapper around the UI code that is often needed for displaying debug menus.
+- [MeshKit](https://github.com/EthanLipnik/MeshKit) - Powerful and easy to use live mesh gradient renderer for iOS.
 
 ## macOS
 
@@ -795,6 +797,8 @@
 - [JSONElement](https://github.com/rundfunk47/jsonelement) - Bridging the gap between untyped and typed when dealing with JSON data in Swift.
 - [ReMVVM](https://github.com/ReMVVM/ReMVVM) - Application architecture concept, marriage of Unidirectional Data Flow (Redux) with MVVM.
 - [LanguageServerProtocol](https://github.com/ChimeHQ/LanguageServerProtocol) - Swift library for working with LSP.
+- [Flagsmith iOS](https://github.com/Flagsmith/flagsmith-ios-client) - iOS Client written in Swift for Flagsmith. Ship features with confidence using feature flags and remote config.
+- [Lightweight Observable](https://github.com/fxm90/LightweightObservable) - Lightweight implementation of an observable sequence that you can subscribe to.
 
 ## Other (not lib)
 

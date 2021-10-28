@@ -80,3 +80,4 @@
 - [Ray casting in 2D game engines](https://sszczep.github.io/ray-casting-in-2d-game-engines/) ([Code](https://github.com/sszczep/ray-casting-in-2d-game-engines)) ([Cheat Sheet](https://sszczep.github.io/ray-casting-in-2d-game-engines/cheatsheet.html))
 - [Ray tracer in Rust](https://github.com/brundonsmith/raytracer)
 - [Helios](https://github.com/diharaw/Helios) - Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
+- [Peter Shirley Ray Tracing (in C++ 17)](https://github.com/define-private-public/PSRayTracing)

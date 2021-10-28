@@ -154,3 +154,4 @@
 - [Managing up: How to get what you want & give your boss what they need](https://twitter.com/wes_kao/status/1451926441239719947) ([Tweet](https://twitter.com/DazeEnd/status/1452318494947782664))
 - [Why 'bring solutions not problems' doesn’t work (2021)](https://larahogan.me/blog/bring-solutions-not-problems/)
 - [Awesome Project Management](https://github.com/shahedbd/awesome-project-management)
+- [Understanding the reasoning behind the four agile values](https://rchaves.app/why-agile-works/) ([HN](https://news.ycombinator.com/item?id=28980435))

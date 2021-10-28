@@ -205,3 +205,5 @@
 - [deep-significance](https://github.com/Kaleidophon/deep-significance) - Easy and Better Significance Testing for Deep Neural Networks.
 - [Finetuner](https://github.com/jina-ai/finetuner) - Finetuning any DNN for better embedding on neural search tasks. ([Docs](https://finetuner.jina.ai/))
 - [mlcrate](https://github.com/mxbi/mlcrate) - Hon module of handy tools and functions, mainly for ML and Kaggle.
+- [mle-hyperopt](https://github.com/RobertTLange/mle-hyperopt) - Lightweight Hyperparameter Optimization Tool.
+- [Feature Engine](https://github.com/feature-engine/feature_engine) - Python library with multiple transformers to engineer and select features for use in machine learning models.

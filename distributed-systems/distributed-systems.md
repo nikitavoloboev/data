@@ -222,3 +222,4 @@
 - [Balsam](https://github.com/argonne-lcf/balsam) - High throughput workflows and automation for HPC.
 - [Hypercore](https://github.com/hypercore-protocol/hypercore) - Secure, distributed append-only log.
 - [Hypercore Next](https://github.com/hypercore-protocol/hypercore-next) - Append only log with multi-writer primitives built in.
+- ["Waterpark: Distributed Actors vs the Pandemic" by Bryan Hunter (2021)](https://www.youtube.com/watch?v=9qUfX3XFi_4) - Building reliable, actor-based systems.

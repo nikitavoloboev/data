@@ -120,3 +120,4 @@
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing Book](https://docsfordevelopers.com/)
 - [SveltePress](https://sveltepress.geopjr.dev/) - Documentation tool built on top of SvelteKit. ([Code](https://github.com/GeopJr/SveltePress))
 - [Q&A: How We Document Software Projects (2020)](https://embeddedartistry.com/blog/2020/06/08/qa-how-we-document-software-projects/)
+- [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works. ([Web](https://squidfunk.github.io/mkdocs-material/))

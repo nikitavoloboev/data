@@ -166,3 +166,4 @@
 - [external-auth-server](https://github.com/travisghansen/external-auth-server) - Easy auth for reverse proxies.
 - [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless)
 - [Single sign-on: What we learned during our identity alpha (2021)](https://gds.blog.gov.uk/2021/10/19/single-sign-on-what-we-learned-during-our-identity-alpha/) ([HN](https://news.ycombinator.com/item?id=28924300))
+- [OAuth “Sign In With Google” in a WkWebView (2021)](https://cnr.sh/essays/google-oauth-wkwebview)

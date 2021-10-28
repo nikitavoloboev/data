@@ -274,3 +274,4 @@
 - [A Visual Guide to React Rendering - Cheat Sheet (2021)](https://alexsidorenko.com/blog/react-render-cheat-sheet/)
 - [How to Detect Slow Renders in React? (2021)](https://alexsidorenko.com/blog/react-performance-slow-renders/)
 - [React Docs Beta](https://beta.reactjs.org/) ([HN](https://news.ycombinator.com/item?id=28969194))
+- [How I'd build a react framework today (2021)](https://twitter.com/threepointone/status/1452730999561990148)

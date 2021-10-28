@@ -111,3 +111,4 @@
 - [Next-gen chips will be powered from below (2021)](https://spectrum.ieee.org/next-gen-chips-will-be-powered-from-below) ([HN](https://news.ycombinator.com/item?id=28337836))
 - [Upgraded Homemade Silicon Chips (2021)](https://www.youtube.com/watch?v=IS5ycm7VfXg)
 - [Turing Complete Game](https://store.steampowered.com/app/1444480/Turing_Complete/) - Game where you build a CPU and assembly language from circuits.
+- [A bug that doesn’t exist on x86: Exploiting an ARM-only race condition](https://github.com/stong/how-to-exploit-a-double-free) ([HN](https://news.ycombinator.com/item?id=28996500))

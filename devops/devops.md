@@ -99,3 +99,4 @@
 - [What to Ask in an SRE Technical Interview (2021)](https://mt165.co.uk/blog/sre-interview-questions/)
 - [DevOps Newsletters of Note](https://devopsnewsletters.com/)
 - [batou](https://github.com/flyingcircusio/batou) - Helps you to automate your application deployments using Python DSL. ([Docs](https://batou.readthedocs.io/en/stable/))
+- [Smallstep](https://smallstep.com/) - Automated Certificate Management for DevOps. ([GitHub](https://github.com/smallstep))

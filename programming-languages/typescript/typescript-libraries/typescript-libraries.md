@@ -8,6 +8,7 @@
 - [Schemats](https://github.com/vramework/schemats) - Postgres to TypeScript Interfaces and Enums. ([HN](https://news.ycombinator.com/item?id=27570058))
 - [sql-dsl](https://github.com/aldy505/sql-dsl) - SQL DSL for your Node App.
 - [IDB-Keyval](https://github.com/jakearchibald/idb-keyval) - Super-simple-small promise-based keyval store implemented with IndexedDB.
+- [squid](https://github.com/andywer/squid) - SQL tagged template strings and schema definitions for JavaScript & TypeScript.
 
 ## Web
 
@@ -174,6 +175,8 @@
 - [OpenCensus](https://github.com/census-instrumentation/opencensus-node) - Stats collection and distributed tracing framework.
 - [Config Validator Policy](https://github.com/GoogleCloudPlatform/policy-library) - Library of constraint templates and sample constraints for Forseti Config Validator.
 - [safety-match](https://github.com/suchipi/safety-match) - Rust-style pattern matching for TypeScript.
+- [tsutils](https://github.com/ajafff/tsutils) - Utility functions for working with typescript's AST.
+- [as-typed](https://github.com/lbguilherme/as-typed) - Static TypeScript types from a literal JSONSchema type.
 
 ## Links
 

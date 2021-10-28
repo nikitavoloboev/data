@@ -4,7 +4,7 @@
 
 - [Herman Miller Mirra 2](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/mirra-2-chairs/)
 - [Herman Miller Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/)
-- [Herman Miller Sayl](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/sayl-chairs/)
+- [Herman Miller Sayl](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/sayl-chairs/) ([Tweet](https://twitter.com/AndrewProjDent/status/1452986311141363719))
 - [Capisco Ergonomic Office Chair](https://www.fully.com/hag-capisco-chair.html) ([Tweet](https://twitter.com/rafahari/status/1317042132205641733))
 - [Sukhasana](https://sukhasana.com/) - Ergonomic Desk Chairs. ([Tweet](https://twitter.com/malwareunicorn/status/1317246340984795136))
 - [Ask HN: What kind of chair are you using for WFH? (2021)](https://news.ycombinator.com/item?id=27265275)
@@ -39,6 +39,7 @@
 - [MKBHD Studio Tour 2021](https://www.youtube.com/watch?v=pkuxIy3kFZM)
 - [Rasmus Andersson's desk setup](https://twitter.com/rsms/status/1435003133260795904)
 - [Jessica Strelioff](https://www.workspaces.xyz/p/095-jessica-strelioff?)
+- [Creator’s dream setup](https://twitter.com/MengTo/status/1453121908204003335)
 
 ## Links
 

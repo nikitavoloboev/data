@@ -131,3 +131,5 @@
 - [New Layer Capital](https://www.newlayer.capital/) - Private investment firm that invests in cryptocurrencies, tokens, and blockchain companies.
 - [Calm Company Fund](https://calmfund.com/) - Ecosystem of founders and funders of profitable, sustainable, calm businesses. ([What We Invest In](https://calmfund.com/what-we-invest-in)) ([Tweet](https://twitter.com/tylertringas/status/1449425578436739072))
 - [Bowery Capital](https://bowerycap.com/) - Early-stage venture capital. ([Twitter](https://twitter.com/BoweryCapital))
+- [June Fund](https://june.fund/)
+- [The Sequoia Fund: Patient Capital for Building Enduring Companies (2021)](https://medium.com/sequoia-capital/the-sequoia-fund-patient-capital-for-building-enduring-companies-9ed7bcd6c7da) ([Tweet](https://twitter.com/sequoia/status/1452999422988718084)) ([HN](https://news.ycombinator.com/item?id=29000939))

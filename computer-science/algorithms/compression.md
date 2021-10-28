@@ -75,3 +75,6 @@
 - [sltar](https://github.com/Gottox/sltar) - Minimal implementation of tar.
 - [Box](https://github.com/bbqsrc/box) - Open Standard Archive Format, akin to zip or 7z but without the legacy baggage.
 - [Box in D](https://github.com/gecko0307/box) - Simple archive format with UTF-8 filenames.
+- [Bitbottle](https://code.lag.net/robey/bitbottle) - Modern archive format. ([Lobsters](https://lobste.rs/s/ywxuxj/bitbottle_modern_archive_file_format))
+- [libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. ([Web](http://www.libarchive.org/))
+- [zlib by Cloudflare](https://github.com/cloudflare/zlib) - Cloudflare fork of zlib with massive performance improvements.

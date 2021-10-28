@@ -162,7 +162,7 @@ for i, _ in enumerate(nums):
 - [Dive Into Python 3 book](https://diveintopython3.net/) ([Code](https://github.com/diveintomark/diveintopython3))
 - [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
 - [I know Python basics, what next? (2020)](https://www.reddit.com/r/Python/comments/i0m2sy/i_know_python_basics_what_next/)
-- [Fluent Python (2015)](https://www.oreilly.com/library/view/fluent-python/9781491946237/) ([Code](https://github.com/fluentpython/example-code))
+- [Fluent Python (2021)](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) ([Code](https://github.com/fluentpython/example-code-2e))
 - [Awesome Python Typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Sparking Joy with Python (2020)](https://maxwellforbes.com/posts/spark-joy-python-why)
 - [Options for packaging your Python code: Wheels, Conda, Docker, and more (2020)](https://pythonspeed.com/articles/distributing-software/) ([HN](https://news.ycombinator.com/item?id=24117464))
@@ -363,3 +363,4 @@ for i, _ in enumerate(nums):
 - [You shouldn't invoke setup.py directly (2021)](https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html) ([HN](https://news.ycombinator.com/item?id=28918440))
 - [astor](https://github.com/berkerpeksag/astor) - Python AST read/write.
 - [pravda](https://github.com/wemake-services/pravda) - Python type-checker written in Rust.
+- [On code isolation in Python (2020)](https://rushter.com/blog/python-code-isolation/)

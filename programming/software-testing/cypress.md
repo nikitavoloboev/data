@@ -37,3 +37,4 @@
 - [Cypress Visual Regression](https://github.com/mjhea0/cypress-visual-regression) - Module for adding visual regression testing to Cypress.
 - [Cypress GitHub Action](https://github.com/cypress-io/github-action)
 - [Cypress Real World App](https://github.com/cypress-io/cypress-realworld-app) - Payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
+- [cypress-cucumber-preprocessor](https://github.com/TheBrainFamily/cypress-cucumber-preprocessor) - Adds support for using feature files when testing with Cypress.

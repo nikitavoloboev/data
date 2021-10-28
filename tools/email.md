@@ -187,3 +187,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Write Beautiful Emails in React (2021)](https://lu.ma/p/6a4w1VcZjLwLYaH/Write-Beautiful-Emails-in-React) ([Tweet](https://twitter.com/VictorPontis/status/1447986769077678093)) ([Code](https://github.com/luma-team/email-templates-starter-repo))
 - [Ask HN: Best way to organize 100-200 emails/day in outlook (2021)](https://news.ycombinator.com/item?id=28887234)
 - [svelte-mail](https://github.com/ls-age/svelte-mail) - Renders Svelte components for emails. Inlines styles and renders additional plain text version.
+- [Userlist](https://userlist.com/) - Email Marketing & Lifecycle Automation for SaaS Companies. ([Product](https://userlist.com/features/marketing-email/)) ([Tweet](https://twitter.com/benediktdeicke/status/1452967216681472004))

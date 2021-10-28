@@ -124,6 +124,7 @@
 - [Semantic Release Action](https://github.com/cycjimmy/semantic-release-action)
 - [Conventional Release Labels](https://github.com/bcoe/conventional-release-labels) - Apply labels for automatically generated release notes, based on conventionalcommits.org.
 - [Changesets Release Action](https://github.com/changesets/action) - Creates a pull request with all of the package versions updated and changelogs updated.
+- [action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - Github Action that ensures that your PR title matches the Conventional Commits spec.
 
 ## Go
 
@@ -304,3 +305,4 @@
 - [Using Composite Actions with GitHub Actions (2021)](https://doug.sh/posts/using-composite-actions-with-github-actions/)
 - [GitHub Actions: DRY your GitHub Actions configuration by reusing workflows (2021)](https://github.blog/changelog/2021-10-05-github-actions-dry-your-github-actions-configuration-by-reusing-workflows/)
 - [GitHub Actions Exporter](https://github.com/cpanato/github_actions_exporter) - Prometheus exporter exposing GitHub Actions metrics.
+- [Collaborative programming environment inside GitHub Actions](https://github.com/jstrieb/ctf-collab)

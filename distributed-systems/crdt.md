@@ -56,3 +56,4 @@
 - [Faster CRDTs: An Adventure in Optimization (2021)](https://josephg.com/blog/crdts-go-brrr/) ([HN](https://news.ycombinator.com/item?id=28017204))
 - [Chronofold](https://github.com/dkellner/chronofold) - Conflict-free replicated data structure (a.k.a. CRDT) for versioned text.
 - [What to use to build collaborative web application today (2021)](https://twitter.com/tmcw/status/1433436431658196997)
+- [HN: CRDT resources (2021)](https://news.ycombinator.com/item?id=28998767)

@@ -75,3 +75,5 @@
 - [Incremental Elm](https://incrementalelm.com/) - Stop Learning Elm Best Practices The Hard Way.
 - [Using Fission with Elm - Part 1: Using Vite to manage Elm applications (2021)](https://dev.to/xeticode/using-fission-with-elm-part-1-using-vite-to-manage-elm-applications-4ahk)
 - [Elm Full-Stack](https://github.com/elm-fullstack/elm-fullstack) - Tool for developing web services and full-stack web applications.
+- [Comparing TypeScript and Elm's Type Systems](https://elm-radio.com/episode/ts-and-elm-type-systems/)
+- [Elm Radio Podcast](https://elm-radio.com/)

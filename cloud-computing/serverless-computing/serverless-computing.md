@@ -4,6 +4,7 @@
 
 - [What if a program was just running. There's no start or stop, just pause and resume. You can snapshot it at any time and restore that snapshot later. You can share or sync its state across multiple instances. The way you program this is like a REPL, not compiled files.](https://twitter.com/rsms/status/1389958973621563395)
 - [Testing locally isn't nice to have. It's table stakes for developer velocity. A dev without local feedback is slower. You don't want to be slower!](https://twitter.com/brianleroux/status/1399734769663971330)
+- [Give developers straight forward ways to express their intent, and let the platform quietly manage all the complexity this demands on their behalf.](https://twitter.com/philhawksworth/status/1452940698907553792)
 
 ## Links
 
@@ -116,3 +117,5 @@
 - [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.usenix.org/conference/nsdi20/presentation/agache) ([Review](https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html))
 - [Cloudash](https://cloudash.dev/) - Monitoring and troubleshooting desktop app for serverless architectures. ([Twitter](https://twitter.com/cloudashdev))
 - [Viceroy](https://github.com/fastly/Viceroy) - Local testing for developers working with Compute@Edge.
+- [Faster, more reliable page loads with update to On-demand Builders (2021)](https://www.netlify.com/blog/2021/10/25/faster-more-reliable-page-loads-with-update-to-on-demand-builders/) ([Tweet](https://twitter.com/biilmann/status/1452755558306508800))
+- [Edge Functions – Vercel](https://vercel.com/features/edge-functions) ([Tweet](https://twitter.com/vercel/status/1453034541463916549)) ([Tweet](https://twitter.com/lcasdev/status/1453046218490253320))

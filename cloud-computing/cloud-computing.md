@@ -91,3 +91,5 @@
 - [AWS is playing Chess. Cloudflare is playing Go. (2021)](https://www.swyx.io/cloudflare-go/) ([HN](https://news.ycombinator.com/item?id=28903982))
 - [Awesome PaaS](https://github.com/debarshibasak/awesome-paas) - Curated list of PaaS, developer platforms tools to emulate PaaS on cloud, Cloud IDEs and ADNs.
 - [Cloudflare announced four major new features that could disrupt industries (2021)](https://www.indiehackers.com/post/cloudflare-just-disrupted-3-industries-in-1-week-907e44a8f5) ([HN](https://news.ycombinator.com/item?id=28746880))
+- [Cloud Native Computing Foundation](https://www.cncf.io/) ([Technical Oversight Committee (TOC)](https://github.com/cncf/toc))
+- [Cross-Cloud Access to SaaS Application Books](https://www.manning.com/liveprojectseries/cross-cloud-access-to-SaaS-application)

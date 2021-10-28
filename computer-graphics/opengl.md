@@ -21,3 +21,4 @@
 - [PortableGL](https://github.com/rswinkle/PortableGL) - Implementation of OpenGL 3.x-ish in clean C.
 - [Guide to Modern OpenGL Functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions)
 - [zGLFW](https://github.com/Iridescence-Technologies/zglfw) - Thin, idiomatic wrapper for GLFW. Written in Zig.
+- [Thoughts on Emulating Command Buffers for OpenGL (2018)](https://gpfault.net/posts/opengl-command-buffers.txt.html)

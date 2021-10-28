@@ -120,3 +120,4 @@
 - [Nios V – Intel's RISC-V Processor](https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html) ([HN](https://news.ycombinator.com/item?id=28767046))
 - [Alibaba Open Source XuanTie RISC-V Cores, Introduces In-House Armv9 Server Chip (2021)](https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/) ([HN](https://news.ycombinator.com/item?id=28939287))
 - [RISC-V and the CPU Revolution, Yunsup Lee (2018)](https://www.youtube.com/watch?v=AOC7KmHvx9w)
+- [RISC-V CPU In TypeScript - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)

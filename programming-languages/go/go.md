@@ -60,6 +60,7 @@ if err != nil {
 - [Go 101](https://go101.org/article/101.html) - Book focusing on Go syntax/semantics and all kinds of runtime related things.
 - [Notes on Go](https://brandur.org/go)
 - [Avoiding complexity in Go](https://bradgignac.com/2014/09/24/avoiding-complexity-with-go.html)
+- [Go Spec](https://golang.org/ref/spec)
 - [Gopher reading list](https://github.com/enocom/gopher-reading-list)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Performance without the event loop (2015)](https://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
@@ -579,3 +580,10 @@ if err != nil {
 - [Functional Options are named args on steroids (2021)](https://blog.uptrace.dev/posts/go-functional-options-named-args.html) ([Reddit](https://www.reddit.com/r/golang/comments/qcmt8c/functional_options_are_named_args_on_steroids/))
 - [rustgo: calling Rust from Go with near-zero overhead (2017)](https://blog.filippo.io/rustgo/)
 - [Discord Gophers](https://discord.com/invite/0f1SbxBZjYoCtNPP) ([GitHub](https://github.com/DiscordGophers))
+- [Make your Go go faster! Optimising performance through reducing memory allocations (2018)](https://www.youtube.com/watch?v=NS1hmEWv4Ac)
+- [Gofire](https://github.com/1pkg/gofire) - Command Line Interface Generator tool for Go.
+- [Sorting a Dependency Graph in Go (2021)](https://kendru.github.io/go/2021/10/26/sorting-a-dependency-graph-in-go/)
+- [Go 1.18 will embed source version information into binaries (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionOfYourSource) ([HN](https://news.ycombinator.com/item?id=29008811)) ([Reddit](https://www.reddit.com/r/golang/comments/qg6jsa/go_118_will_embed_source_version_information_into/))
+- [What annoys you about Go? (2021)](https://www.reddit.com/r/golang/comments/qgj2th/what_annoys_you_about_go/)
+- [A comprehensive guide to go generate (2021)](https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/)
+- [What could Go wrong with a mutex, or the Go profiling story (2021)](https://evilmartians.com/chronicles/what-could-go-wrong-with-a-mutex-or-the-go-profiling-story)

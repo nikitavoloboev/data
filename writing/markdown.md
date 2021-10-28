@@ -88,3 +88,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [md-toc](https://github.com/zeusdeux/md-toc) - Generate a GitHub compatible table of contents from headings in a markdown file.
 - [markdown-link-check](https://github.com/tcort/markdown-link-check) - Checks that all of the hyperlinks in a markdown text to determine if they are alive or dead.
 - [Markdown Transform](https://github.com/accordproject/markdown-transform) - Library for Markdown Transformations and Markdown Templates.
+- [markdown-it-texmath](https://github.com/goessner/markdown-it-texmath) - Support TeX math equations with your Markdown documents.

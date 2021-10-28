@@ -334,6 +334,7 @@
 - [Cloudflare for SaaS for All (2021)](https://blog.cloudflare.com/cloudflare-for-saas-for-all-now-generally-available/) - One-stop shop for SaaS providers looking to provide fast load times, unparalleled redundancy, and the strongest security to their customers.
 - [YC Application Resources](https://www.ycprep.app/) - Videos, Tips, Interviews.
 - [Interviuu](https://www.interviuu.com/) - Mock Interviews for YC and ODX.
+- [Founderkit](https://founderkit.com/) - Reviews and Recommendations from Leading Startup Founders.
 
 ## Images
 

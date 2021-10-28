@@ -211,3 +211,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [exchange_calendars](https://github.com/gerrymanoim/exchange_calendars) - Calendars for various securities exchanges.
 - [Investments](https://github.com/KonishchevDmitry/investments) - Helps you with managing your investments.
 - [Cabal](https://getcabal.com/) - Help founders get more out of their investors and advisors. ([Twitter](https://twitter.com/GetCabal))
+- [Blankly](https://blankly.finance/) - Rapidly Build Quant Models Across Exchanges. ([Code](https://github.com/Blankly-Finance/Blankly)) ([GitHub](https://github.com/Blankly-Finance))

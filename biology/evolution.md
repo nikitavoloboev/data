@@ -15,3 +15,4 @@
 - [Learning to Fly: Let's simulate evolution in Rust](https://pwy.io/en/posts/learning-to-fly-pt1/) ([Code](https://github.com/Patryk27/shorelark))
 - [Evol](https://github.com/godatadriven/evol) - Python grammar for evolutionary algorithms and heuristics. ([Docs](https://evol.readthedocs.io/en/latest/))
 - [Mating Contests Among Females May Shape Their Evolution (2021)](https://www.quantamagazine.org/mating-contests-among-females-may-shape-their-evolution-20210802/)
+- [Stanford reinforcement learning system simulates evolution (2021)](https://bdtechtalks.com/2021/10/25/stanford-deep-evolutionary-reinforcement-learning/)

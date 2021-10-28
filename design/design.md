@@ -202,3 +202,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Globs Designer](https://www.globs.design/)
 - [Apps for collecting/organizing designs/images (2021)](https://twitter.com/jasonlong/status/1450805712309870598)
 - [Дизайн в Злых марсианах (2021)](https://teletype.in/@romanshamin/design-at-evil-martians) ([Tweet](https://twitter.com/strongeron/status/1450914217335349250))
+- [IKEA catalogue through the ages](https://ikeamuseum.com/en/digital/ikea-catalogues-through-the-ages/) ([HN](https://news.ycombinator.com/item?id=28997461))

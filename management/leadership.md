@@ -21,3 +21,4 @@
 - [Soft Skills in Engineering Leadership (2021)](https://codingsans.com/blog/leadership-soft-skills) ([HN](https://news.ycombinator.com/item?id=26165282))
 - [Ask HN: What was the biggest leadership challenge of your career? (2021)](https://news.ycombinator.com/item?id=26847816)
 - [Conscious Leadership](https://themanagershandbook.com/consciousness/the-line) - Set of principles designed to promote curiosity.
+- [What steps to take if your reports are burned out? (2021)](https://twitter.com/EricaJoy/status/1453047253199818754)

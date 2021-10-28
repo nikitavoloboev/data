@@ -214,6 +214,7 @@
 
 ## DB
 
+- [BuntDB](https://github.com/tidwall/buntdb) - Embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
 - [reform](https://github.com/go-reform/reform) - Better ORM for Go and database/sql.
 - [db](https://github.com/upper/db) - Productive data access layer for Go.
 - [Gorm](https://github.com/go-gorm/gorm) - Fantastic ORM library for Golang, aims to be developer friendly. ([Web](https://gorm.io/))

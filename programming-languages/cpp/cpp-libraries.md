@@ -61,6 +61,10 @@
 - [taoPQ](https://github.com/taocpp/taopq) - C++ client library for PostgreSQL.
 - [Velox](https://github.com/facebookincubator/velox) - C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
 
+## Crypto
+
+- [OpenABE](https://github.com/zeutro/openabe) - Open source cryptographic library with attribute-based encryption implementations in C/C++.
+
 ## Other
 
 - [{fmt}](https://github.com/fmtlib/fmt) - Modern formatting library.
@@ -268,3 +272,4 @@
 - [hdoc](https://hdoc.io/) - Modern C++ documentation tool. ([HN](https://news.ycombinator.com/item?id=26038816)) ([Code](https://github.com/hdoc/hdoc))
 - [Mason](https://github.com/mapbox/mason) - Cross-platform, command-line package manager for C/C++ applications.
 - [Boost C++ Libraries](https://www.boost.org/) - Free peer-reviewed portable C++ source libraries. ([GitHub](https://github.com/boostorg))
+- [Kokkos](https://github.com/kokkos) - C++ Performance Portability Programming EcoSystem. ([HN](https://news.ycombinator.com/item?id=28987037))

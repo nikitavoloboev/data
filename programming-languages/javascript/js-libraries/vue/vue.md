@@ -79,3 +79,4 @@
 - [Vue Bleeding Edge](https://github.com/aldy505/vue-bleeding-edge) - Aiming to simulate Nuxt 3 without using Nuxt.
 - [Vue 3 + Vite template](https://github.com/reinink/tailwindui-modal-example)
 - [Is Nuxt 3 ready?](https://isnuxt3ready.owln.ai/) ([Code](https://github.com/owlnai/isnuxt3ready))
+- [Async with Composition API (2021)](https://antfu.me/posts/async-with-composition-api)

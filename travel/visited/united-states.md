@@ -82,3 +82,4 @@
 - [When 10 major S.F. Bay Area transportation projects will be done (2021)](https://www.sfchronicle.com/projects/2021/sf-bay-area-transportation-projects/) ([Tweet](https://twitter.com/chrisarvinsf/status/1450835293209194507))
 - [Transit Recovery](https://transitrecovery.com/) - Track restoration of transit service and ridership across the U.S.
 - [List of US amendments that were proposed but never ratified](https://twitter.com/radicalpragmat1/status/1450514588005457920)
+- [How American Billionaires Pass Wealth to Heirs Tax-Free (2021)](https://www.bloomberg.com/features/how-billionaires-pass-wealth-to-heirs-tax-free-2021/) ([HN](https://news.ycombinator.com/item?id=29001788))

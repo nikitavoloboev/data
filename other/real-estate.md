@@ -17,3 +17,4 @@
 - [Jasper](https://www.jasper.io/) - Smarter, Better Way to Invest in Commercial Real Estate.
 - [The Housing Theory of Everything (2021)](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/) ([HN](https://news.ycombinator.com/item?id=28531025))
 - [How To Make Housing More Affordable (2021)](https://www.hoover.org/research/how-make-housing-more-affordable) ([HN](https://news.ycombinator.com/item?id=28654849))
+- [Urbyo](https://urbyo.com/en) - Become a property owner with Urbyo. It's safe. It's easy. It's fair.

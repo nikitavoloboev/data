@@ -326,3 +326,6 @@
 - [Haskdogs](https://hackage.haskell.org/package/haskdogs) - Generate tags file for Haskell project and its nearest deps. ([Reddit](https://www.reddit.com/r/haskell/comments/q7yi2f/easy_way_to_locally_navigate_into_source_code_of/))
 - [tree-sitter-haskell](https://github.com/tree-sitter/tree-sitter-haskell) - Haskell grammar for tree-sitter.
 - [Induction without core-size blow-up (a.k.a. Large records: anonymous edition) (2021)](https://well-typed.com/blog/2021/10/large-records-part-2/)
+- [Tuning Haskell RTS for Kubernetes (2021)](https://blog.noredink.com/post/666020751977168896/tuning-haskell-rts-for-kubernetes-part-1)
+- [Type-checking plugins, Part I: Why write a type-checking plugin? (2021)](https://www.tweag.io/blog/2021-10-21-tcplugins-1/)
+- [Ode to a Streaming ByteString Or: Lazy I/O without Shooting Yourself in the Foot (2021)](https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html) ([HN](https://news.ycombinator.com/item?id=29007035))

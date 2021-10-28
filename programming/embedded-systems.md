@@ -135,3 +135,4 @@
 - [pyOCD](https://github.com/pyocd/pyOCD) - Open source Python library for programming and debugging Arm Cortex-M microcontrollers. ([Web](https://pyocd.io/))
 - [CMSIS](https://arm-software.github.io/CMSIS_5/latest/General/html/index.html) - Common Microcontroller Software Interface Standard. ([Version 5](https://github.com/ARM-software/CMSIS_5))
 - [Rusty High-speed Probe](https://github.com/probe-rs/hs-probe) - Open hardware probe for the Serial Wire Debug (SWD) and JTAG protocol.
+- [Rust on Espressif chips (2021)](https://mabez.dev/blog/posts/esp-rust-18-10-2021/) ([HN](https://news.ycombinator.com/item?id=29000870))

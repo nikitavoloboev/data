@@ -355,3 +355,4 @@ buttons.forEach((b) => b.click());
 - [Nope](https://github.com/bvego/nope-validator) - Small, simple and fast JS validator.
 - [jstime](https://github.com/jstime/jstime) - Another JavaScript Runtime.
 - [JavaScript Concrete Syntax Tree](https://github.com/cst/cst)
+- [Fastly Compute@Edge JS Runtime](https://github.com/fastly/js-compute-runtime)

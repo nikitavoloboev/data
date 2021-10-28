@@ -153,3 +153,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Photo Editing: Respecting Context (2021)](https://simonsarris.substack.com/p/photo-editing-respecting-context)
 - [Munin](https://github.com/kradalby/munin) - Opinionated image gallery backend generator.
 - [Hugin](https://github.com/kradalby/hugin) - Front-end for image galleries generated with Munin.
+- [GoGallery](https://github.com/robrotheram/gogallery) - Simple gallery server in go.

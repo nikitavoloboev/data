@@ -138,3 +138,5 @@
 - [Bitnami Containers](https://bitnami.com/stacks/containers)
 - [Security Checklist for Build Container Images](https://krol3.github.io/container-security-checklist/) ([Code](https://github.com/krol3/container-security-checklist))
 - [Anchore](https://anchore.com/) - Container Security Solutions For DevSecOps. ([GitHub](https://github.com/anchore))
+- [Direktiv](https://github.com/vorteil/direktiv) - Event-driven container orchestration engine, running on Kubernetes and Knative. ([Web](https://direktiv.io/))
+- [Navio](https://github.com/viniciusbds/navio) - Simple tool for creating and managing linux containers.

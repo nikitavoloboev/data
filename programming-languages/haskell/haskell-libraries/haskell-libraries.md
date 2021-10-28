@@ -170,6 +170,7 @@
 - [Weeder](https://github.com/ocharles/weeder) - Application to perform whole-program dead-code analysis.
 - [Deli](https://github.com/github/deli) - Performance modeling tool, allowing you to understand and experiment with new designs.
 - [Shpadoinkle](https://hackage.haskell.org/package/Shpadoinkle) - Programming model for declarative, high performance user interface. ([Episode](https://overcast.fm/+i6QFg3tpw))
+- [structure-kit](https://github.com/nikita-volkov/structure-kit) - Immutable data structures for all kinds of purposes.
 
 ## Links
 

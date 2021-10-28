@@ -351,6 +351,7 @@
 - [smlang](https://github.com/korken89/smlang-rs) - State Machine Language DSL procedural macro for Rust.
 - [ergo-pin](https://github.com/Nemo157/ergo-pin-rs) - Ergonomic stack pinning for Rust.
 - [duang](https://github.com/xiaoniu-578fa6bff964d005/duang) - Use macro to provide default parameter and named parameter in Rust.
+- [self_cell](https://github.com/Voultapher/self_cell) - Safe-to-use proc-macro-free self-referential structs in stable Rust.
 
 ## Math
 
@@ -1063,6 +1064,9 @@
 - [streamline](https://github.com/NAlexPear/streamline) - Reversible streaming state machine library for Rust.
 - [num-bigint](https://github.com/rust-num/num-bigint) - Big integer types for Rust.
 - [async-tungstenite](https://github.com/sdroege/async-tungstenite) - Asynchronous WebSockets for async-std, tokio, gio and any std Futures runtime.
+- [FastCDC](https://github.com/nlfiedler/fastcdc-rs) - Implements the "FastCDC" content defined chunking algorithm in pure Rust.
+- [whorl](https://github.com/mgattozzi/whorl) - Single file, std only, async Rust executor.
+- [threadpool](https://github.com/rust-threadpool/rust-threadpool) - Thread pool for running a number of jobs on a fixed set of worker threads.
 
 ## Cargo Plugins
 
@@ -1155,3 +1159,4 @@
 - [Rust: Does the published crate match the upstream source? (2021)](https://codeandbitters.com/published-crate-analysis/) ([HN](https://news.ycombinator.com/item?id=28827648))
 - [Whats your favorite open source Rust project that needs more recognition? (2021)](https://www.reddit.com/r/rust/comments/q69sna/whats_your_favourite_open_source_rust_project/)
 - [Rust Bindings Working Group](https://github.com/vfx-rs/organization) - Dedicated to creating a foundation for C and Rust bindings for C++ libraries used by the media and entertainment industry.
+- [A 2021 Survey of Rust GUI Libraries](https://www.boringcactus.com/2021/10/24/2021-survey-of-rust-gui-libraries.html) ([Lobsters](https://lobste.rs/s/hmvrcj/2021_survey_rust_gui_libraries))

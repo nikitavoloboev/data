@@ -405,3 +405,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Gollum](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. ([HN](https://news.ycombinator.com/item?id=28730764))
 - [Meta](https://projectmeta.app/) - Note-taking tool for visual learning.
 - [Ikke](https://github.com/laffra/Ikke) - Index and search your personal data quickly and privately.
+- [Reflect Academy](https://reflect.academy/) - Learn how to take great notes. ([Tweet](https://twitter.com/maccaw/status/1452657502441648141))

@@ -24,3 +24,4 @@
 - [I18n in Go: Managing Translations (2021)](https://www.alexedwards.net/blog/i18n-managing-translations)
 - [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js.
 - [How to design in every language at once (2021)](https://canvatechblog.com/how-to-design-in-every-language-at-once-f2dd66a2780f) - Technology that powers Continuous Localization at Canva. ([HN](https://news.ycombinator.com/item?id=28931601))
+- [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for JavaScript - i18n Plural and Gender Capable Messages. ([Docs](https://messageformat.github.io/messageformat/))

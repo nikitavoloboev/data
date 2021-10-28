@@ -9,6 +9,7 @@
 - [ENet](https://github.com/lsalzman/enet) - Reliable UDP networking library. ([Web](http://enet.bespin.org/))
 - [CivetWeb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server.
 - [Libwebsockets](https://libwebsockets.org/) - C library for implementing modern network protocols. ([HN](https://news.ycombinator.com/item?id=28439447))
+- [PicoHTTPParser](https://github.com/h2o/picohttpparser) - Tiny, primitive, fast HTTP request/response parser.
 
 ## GUI
 
@@ -94,3 +95,4 @@
 - [STC](https://github.com/tylov/STC) - Modern, user friendly, generic, type-safe and fast C99 container library.
 - [vx32](https://github.com/9fans/vx32) - Portable, efficient, safe execution of untrusted x86 code.
 - [Metalang99](https://github.com/Hirrolot/metalang99) - Full-blown preprocessor metaprogramming.
+- [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C.

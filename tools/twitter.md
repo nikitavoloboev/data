@@ -125,3 +125,4 @@
 - [Twitter audit trail backup](https://github.com/ahmetb/twitter-audit-log) - Backs up my follower list, following list, blocked accounts list and muted accounts list periodically using GitHub Actions.
 - [retweeters](https://github.com/craftweg/retweeters) - Micro-CLI powered by NodeJS for fetching the retweeters of a tweet.
 - [Brain Marks](https://github.com/mikaelacaron/brain-marks) - Categorize your Twitter bookmarks, being created during the Big Brain Hacks Hackathon.
+- [A small DOCUMERICA Twitter bot (2021)](https://blog.yossarian.net/2021/10/25/A-small-documerica-twitter-bot)

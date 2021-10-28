@@ -198,3 +198,5 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open Source Tips](https://eddiejaoude.github.io/book-open-source-tips/) ([Code](https://github.com/eddiejaoude/book-open-source-tips))
 - [Ask HN: How to get compeitors to use our open source interop-prototcol? (2021)](https://news.ycombinator.com/item?id=28747428)
 - [Why you should use a BSD style license for your Open Source Project](https://docs.freebsd.org/en/articles/bsdl-gpl/)
+- [Can we trust Microsoft with open source? (2021)](https://dusted.codes/can-we-trust-microsoft-with-open-source) ([HN](https://news.ycombinator.com/item?id=28968231))
+- [About Yak Shaving (2021)](https://antfu.me/posts/about-yak-shaving)

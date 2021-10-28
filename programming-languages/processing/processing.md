@@ -16,3 +16,5 @@
 - [Processing Posters](https://github.com/Volorf/Processing-Posters) - Collection of generative posters I designed with p5.js.
 - [p5](https://github.com/p5py/p5) - Python package based on the core ideas of Processing.
 - [Haxademicai](https://github.com/cacheflowe/haxademic) - Personal Processing-based creative coding toolkit.
+- [Processing + p5.js iCompiler for iOS](https://processing-app.org/) ([Code](https://github.com/Processing-iOS/Processing-iOS))
+- [SwiftProcessing](https://github.com/jjkaufman/SwiftProcessing) - iOS Swift Package for creative coding. ([Web](https://swiftprocessing.org/))

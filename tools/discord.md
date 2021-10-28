@@ -23,6 +23,8 @@
 - [Vortex](https://github.com/jagrosh/Vortex) - Discord Moderation Bot.
 - [NFT Discord Bot](https://github.com/lucid-eleven/nft-discord-bot) - Discord bot for ERC721 NFT collections.
 - [instant-poll](https://github.com/JohnnyJayJay/instant-poll) - Discord bot that lets you create polls in your server.
+- [Rustbot](https://github.com/kangalioo/rustbot) - Rust programming language bot for Discord.
+- [Next.js Discord Bot](https://github.com/vercel/nextjs-discord-bot)
 
 ## Libraries
 

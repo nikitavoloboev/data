@@ -15,7 +15,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
 - [OS67](https://github.com/SilverRainZ/OS67) - Unix-like toy kernel.
 - [SerenityOS](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers. ([Web](http://serenityos.org/)) ([Year 3 in review](https://serenityos.org/happy/3rd/)) ([HN](https://news.ycombinator.com/item?id=28817599))
-- [Resea](https://github.com/seiyanuta/resea) - Pure microkernel-based hackable operating system written from scratch in C and Rust.
+- [Resea](https://github.com/nuta/resea) - Microkernel-based hackable operating system. ([Implementing Resea GUI](https://seiya.me/resea-gui-1-poring-cairo))
 - [Rux](https://github.com/sorpaas/rux) - Hobbyist microkernel written in Rust, featuring a capability-based system similar to seL4.
 - [redshirt](https://github.com/tomaka/redshirt) - Experiment to build some kind of operating-system-like environment where executables are all in WASM and are loaded from an IPFS-like decentralized network.
 - [Spectrum OS](https://spectrum-os.org/) - Declarative, reproducible, compartmentalized Linux. ([Developer manual](https://spectrum-os.org/doc/developer-manual.html)) ([Discussions](https://spectrum-os.org/lists/hyperkitty/list/discuss@spectrum-os.org/)) ([HN](https://news.ycombinator.com/item?id=28530861))
@@ -97,7 +97,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Harvey](https://github.com/Harvey-OS/harvey) - Distributed operating system. ([Web](https://harvey-os.org/))
 - [TypOS](https://github.com/msp-strath/TypOS) - Operating system for typechecking processes.
 - [KolibriOS](http://www.kolibrios.org/en/) - Tiny yet incredibly powerful and fast operating system. ([HN](https://news.ycombinator.com/item?id=27249075))
-- [Kerla](https://github.com/nuta/kerla) - New operating system kernel with Linux binary compatibility written in Rust.
+- [Kerla](https://github.com/nuta/kerla) - Monolithic kernel in Rust, aiming for Linux ABI compatibility. ([HN](https://news.ycombinator.com/item?id=28986229)) ([Writing a Linux-compatible kernel in Rust](https://seiya.me/writing-linux-clone-in-rust)) ([HN](https://news.ycombinator.com/item?id=28997668)) ([Lobsters](https://lobste.rs/s/axeb5x/nuta_kerla_new_operating_system_kernel))
 - [rustboot](https://github.com/haileysome/rustboot) - Tiny 32 bit kernel written in Rust.
 - [mycelium](https://github.com/hawkw/mycelium) - Hobby OS in Rust.
 - [WINIX OS](https://github.com/halfer53/winix) - UNIX-style Operating System for the Waikato RISC Architecture Microprocessor. ([HN](https://news.ycombinator.com/item?id=27647079))
@@ -116,6 +116,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Tupai Kernel](https://github.com/tupai-os/kernel)
 - [Deus](https://github.com/tupai-os/deus) - Portable kernel written in Rust.
 - [Funk](https://github.com/smimram/funk) - Functional kernel written in OCaml.
+- [liumOS](https://github.com/hikalium/liumos) - Toy operating system which supports NVDIMM natively.
 
 ## Notes
 

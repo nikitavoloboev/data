@@ -6,7 +6,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 
 - [Screen](https://screen.so/) - Fast screen sharing with multiplayer control, drawing & video. ([HN](https://news.ycombinator.com/item?id=22676040))
 - [Tuple](https://tuple.app/) - Best remote pair programming app on macOS.
-- [Loom](https://www.loom.com/) - Combines the expressiveness of video with the convenience of messaging.
+- [Loom](https://www.loom.com/) - Combines the expressiveness of video with the convenience of messaging. ([SDK](https://www.loom.com/sdk)) ([Tweet](https://twitter.com/loom/status/1453014022090117133))
 - [Lark](https://www.larksuite.com/) - Simplest way to create and collaborate.
 - [Clay](https://clay.run/) - Brings together the best parts of spreadsheets, coding & simple automation.
 - [Graph of Related Subreddits](https://anvaka.github.io/sayit/?query=) ([HN](https://news.ycombinator.com/item?id=22177942))
@@ -135,7 +135,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Float](https://www.float.com/) - Resource Planning & Management Software.
 - [SheetUI](https://sheetui.com/) - Turn Google Sheets into Web Pages. ([HN](https://news.ycombinator.com/item?id=23760846))
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
-- [Flagsmith](https://flagsmith.com/) - Open Source Feature Flag & Remote Config Service. ([Code](https://github.com/Flagsmith/flagsmith))
+- [Flagsmith](https://flagsmith.com/) - Open Source Feature Flag & Remote Config Service. ([Code](https://github.com/Flagsmith/flagsmith)) ([GitHub](https://github.com/Flagsmith))
 - [linus.zone](https://linus.zone/) - URL shortener / note sharing service. ([Code](https://github.com/thesephist/zone))
 - [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools. ([Raycast Script Commands](https://github.com/raycast/script-commands)) ([HN](https://news.ycombinator.com/item?id=24932600)) ([Write Script Commands in Swift to trigger every-day tasks from Raycast](https://raycast.com/blog/automate-your-mac-with-swift/))
 - [Updwn](http://updwn.co/) - See what everybody thinks.
@@ -163,6 +163,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [webhook](https://github.com/adnanh/webhook) - Lightweight incoming webhook server to run shell commands.
 - [Remove Image Background](https://www.remove.bg/) ([Node API](https://github.com/EddyVerbruggen/remove.bg))
 - [PerfectXL](https://www.perfectxl.com/) - Excel Risk Eliminator.
+- [Link Lock](https://jstrieb.github.io/link-lock/create/) - Password-protect links. ([Code](https://github.com/jstrieb/link-lock))
 - [Canny](https://canny.io) - Track feedback to build better products.
 - [EditorConfig](https://editorconfig.org/) - Helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 - [Apprise](https://github.com/caronc/apprise) - Push Notifications that work with just about every platform.
@@ -197,6 +198,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Speedscope](https://github.com/jlfwong/speedscope) - Fast, interactive web-based viewer for performance profiles.
 - [Dependabot](https://dependabot.com/) - Creates pull requests to keep your dependencies secure and up-to-date.
 - [Causal](https://www.causal.app/) - Clearer way to work with numbers.
+- [Tinysheet](https://tinysheet.com/) ([HN](https://news.ycombinator.com/item?id=28967514))
 - [Taler](https://www.taler.app/) - Social design sandbox.
 - [Buildanevent.com](https://buildanevent.com/) - Simple, fast, modular event builder. ([Article](https://www.timcchang.com/posts/buildanevent))
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
@@ -372,6 +374,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Stripe CLI](https://github.com/stripe/stripe-cli) - Command-line tool for Stripe.
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
+- [Scribe](https://scribehow.com/welcome) - Step-by-step guides for GUI workflows. ([HN](https://news.ycombinator.com/item?id=29001486))
 - [modd](https://github.com/cortesi/modd) - Flexible developer tool that runs processes and responds to filesystem changes.
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [Qatalog](https://qatalog.com/) - All your people, work and tools.
@@ -588,3 +591,5 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Leaving Apples ecosystem and choosing tools which align with my mindset (2021)](https://h2x.sh/apple/) ([HN](https://news.ycombinator.com/item?id=28616202)) ([Lobsters](https://lobste.rs/s/jcwyax/leaving_apples_ecosystem_choosing_tools))
 - [Indie Apps Catalog](https://indiecatalog.app/)
 - [No-Code Fundamentals Course](https://www.makerpad.co/cohort-courses/no-code-fundamentals)
+- [Ask HN: Which NoCode platforms are fine? (2021)](https://news.ycombinator.com/item?id=28984955)
+- [Creator Stash](https://stash.thesocio.club/) - Library of tools for creators to create, grow, manage and monetize.

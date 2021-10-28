@@ -140,3 +140,4 @@
 - [Multistep form handling | React Native, TypeScript, XState and Formik (2020)](https://thewidlarzgroup.com/multistep-form-xstate-formik/) ([Code](https://github.com/TheWidlarzGroup/multistep-form-xstate-formik))
 - [React Native Testing Library](https://github.com/callstack/react-native-testing-library) - Simple and complete React Native testing utilities that encourage good testing practices.
 - [react-native-native-runtime](https://github.com/shirakaba/react-native-native-runtime) - Access the native APIs directly from the React Native JS context.
+- [Toward Hermes being the Default (2021)](https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default) ([Tweet](https://twitter.com/janicduplessis/status/1453127558011183104))

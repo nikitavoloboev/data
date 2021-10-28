@@ -85,6 +85,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Pocket iOS](https://github.com/Pocket/pocket-ios)
 - [Goal & Habit Tracker](https://github.com/Shubham0812/HabitTracker_UI) - Habits and Goal Tracker application using the SwiftUI Framework.
 - [TodoApp iOS](https://github.com/elixir-desktop/ios-example-app) - Xcode project wrapper around the Elixir TodoApp Desktop app to run on iOS.
+- [Zotero iOS](https://github.com/zotero/zotero-ios)
 
 ## Other
 
@@ -361,3 +362,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Always-on Processor magic: How Find My works while iPhone is powered off (2021)](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html) ([HN](https://news.ycombinator.com/item?id=28711421))
 - [Moving Parts](https://movingparts.io/) - World-class components for iOS, making your app the best it can be. ([Twitter](https://twitter.com/movingpartsio))
 - [Tech Talks - Apple Developer](https://developer.apple.com/tech-talks/)
+- [Lower Level iOS Notes](https://github.com/qyang-nj/llios)

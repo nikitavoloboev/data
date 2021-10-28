@@ -3,6 +3,7 @@
 ## Notes
 
 - Shift+ESC = clear all unread messages.
+- [Slack workspace owners can see everything, including private channels and DMs.](https://twitter.com/fasterthanlime/status/1452974665874423815)
 
 ## Links
 

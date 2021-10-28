@@ -88,3 +88,5 @@
 - [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/abs/1905.07854) ([Code](https://github.com/LunaBlack/KGAT-pytorch))
 - [RelationalAI](https://www.relational.ai/) - Relational Knowledge Graphs. ([GitHub](https://github.com/RelationalAI-oss))
 - [RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space (2019)](https://openreview.net/forum?id=HkgEQnRqYQ) ([Code](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding))
+- [Creating Knowledge Graphs Subsets using Shape Expressions (2021)](https://arxiv.org/abs/2110.11709) ([Tweet](https://twitter.com/andrawaag/status/1452933423148978180))
+- [Wikimedia Enterprise](https://enterprise.wikimedia.com/) - Modern REST APIs for Wikimedia Projects. ([Article](https://wikimediafoundation.org/news/2021/10/25/wikimedia-foundation-launches-wikimedia-enterprise-the-new-opt-in-product-for-companies-and-organizations-to-easily-reuse-content-from-wikipedia-and-wikimedia-projects/)) ([HN](https://news.ycombinator.com/item?id=29014523))

@@ -96,3 +96,5 @@
 - [Meteocons](https://basmilius.github.io/weather-icons/) - Free to use animated weather icons. ([Code](https://github.com/basmilius/weather-icons))
 - [425k Favicons Analyzed](https://iconmap.io/) ([HN](https://news.ycombinator.com/item?id=28933391))
 - [Free Favicon Maker](https://formito.com/tools/favicon) - Create SVG & PNG favicon in seconds.
+- [Journey with Icons Continues (2021)](https://antfu.me/posts/journey-with-icons-continues)
+- [Iconsax React](https://iconsax-react.pages.dev/) ([Code](https://github.com/rendinjast/iconsax-react))

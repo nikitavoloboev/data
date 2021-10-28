@@ -132,3 +132,4 @@ Success comes from not giving up and doing what you love.
 - [How to be a successful athlete (2021)](https://twitter.com/nathanbaugh27/status/1438845812642127876)
 - [Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/) ([HN](https://news.ycombinator.com/item?id=28882043))
 - [Don't be afraid to start over to climb higher](https://www.instagram.com/p/CVD3xmkj7NE/)
+- [10 threads to accelerate your career](https://twitter.com/SahilBloom/status/1453077828023451651)

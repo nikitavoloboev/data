@@ -98,7 +98,7 @@
 - [EnTT](https://github.com/skypjack/entt) - Header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model.
 - [Yet Another Doom Clone (In 13kb of JavaScript) (2019)](https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html)
 - [Magic Tools](https://github.com/ellisonleao/magictools) - Game Development resources to make magic happen.
-- [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
+- [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html) ([HN](https://news.ycombinator.com/item?id=29003727))
 - [Nakama](https://heroiclabs.com/) - Distributed server for social and real time games and apps. ([Code](https://github.com/heroiclabs/nakama))
 - [Nakama JavaScript client](https://github.com/heroiclabs/nakama-js) - JavaScript client for Nakama server written in TypeScript.
 - [Peeking under the hood of Command & Conquer (2020)](http://www.hydrogen18.com/blog/peeking-under-the-hood-of-command-conquer.html)

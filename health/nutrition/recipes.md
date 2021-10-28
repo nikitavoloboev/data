@@ -66,3 +66,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Mealie](https://hay-kot.github.io/mealie/) - Hosted recipe manager and meal planner with a RestAPI backend. ([Code](https://github.com/hay-kot/mealie))
 - [RecipeSage](https://recipesage.com/#/welcome) - Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form. ([Code](https://github.com/julianpoy/RecipeSage))
 - [Minimalist Baker](https://minimalistbaker.com/) - Simple Recipes That Make You Feel Good.
+- [CookLang](https://cooklang.org/) - Recipe markup language. ([HN](https://news.ycombinator.com/item?id=28997309)) ([CookCLI](https://github.com/cooklang/CookCLI)) ([Community Recipes](https://github.com/cooklang/recipes)) ([Lobsters](https://lobste.rs/s/dihrpr/cooklang_recipe_markup_language))

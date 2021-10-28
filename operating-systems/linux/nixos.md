@@ -11,6 +11,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 
 ## Nix configs (NixOS)
 
+- [Mitchell Hashimoto](https://github.com/mitchellh/nixos-config) - Work for both Intel and Apple Silicon. ([Tweet](https://twitter.com/mitchellh/status/1452721115009191938)) ([NixOS VM on Mac Setup](https://www.youtube.com/watch?v=ubDMLoWz76U))
 - [Infrastructure](https://github.com/rvolosatovs/infrastructure) ([How to use it](https://github.com/rvolosatovs/infrastructure/issues/3))
 - [Bob nix-home](https://github.com/bobvanderlinden/nix-home)
 - [Brian McKenna Nix Files](https://github.com/puffnfresh/nix-files) - NixOS configuration and custom Nix derivations.

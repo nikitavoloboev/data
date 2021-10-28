@@ -289,3 +289,5 @@
 - [PyTorch 1.10 (2021)](https://pytorch.org/blog/pytorch-1.10-released/) ([HN](https://news.ycombinator.com/item?id=28955146))
 - [TorchX](https://github.com/pytorch/torchx) - Library containing standard DSLs for authoring and running PyTorch related components for an E2E production ML pipeline.
 - [classy](https://github.com/sunglasses-ai/classy) - PyTorch-based library for fast prototyping and sharing of deep neural network models.
+- [Probabilistic Torch](https://github.com/probtorch/probtorch) - Library for deep generative models that extends PyTorch.
+- [jax2torch](https://github.com/lucidrains/jax2torch) - Use JAX functions in PyTorch with DLPack.

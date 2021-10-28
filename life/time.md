@@ -15,7 +15,7 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [How well are you investing your time?](https://www.youtube.com/watch?v=nH5K0yo-o1A)
 - [List of artists and hackers using homegrown time-tracking tools](https://github.com/merveilles/Time-Travelers)
 - [Devine's Calendar Journal](https://wiki.xxiivv.com/#calendar)
-- [Does time really flow? New clues from intuitionist math (2020)](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/) ([HN](https://news.ycombinator.com/item?id=22848766))
+- [Does time really flow? New clues from intuitionist math (2020)](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/) ([HN](https://news.ycombinator.com/item?id=22848766)) ([Tweet](https://twitter.com/QuantaMagazine/status/1452672049323839489))
 - [Time is the only real currency we have (2020)](https://blog.theboringtech.io/2020/04/16/time_is_the_real_currency.html) ([HN](https://news.ycombinator.com/item?id=22977637))
 - [No, you cannot have a third of my life! (2020)](https://www.unixsheikh.com/articles/no-you-cannot-have-a-third-of-my-life.html)
 - [Reasons Revealed for the Brain’s Elastic Sense of Time (2020)](https://www.quantamagazine.org/reasons-revealed-for-the-brains-elastic-sense-of-time-20200924/) ([HN](https://news.ycombinator.com/item?id=24659683))

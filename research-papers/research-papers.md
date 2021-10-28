@@ -134,3 +134,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arxiv2notion](https://github.com/denkiwakame/arxiv2notion) - Chrome extension for clipping arXiv articles to Notion.
 - [Paper Style Guide](https://github.com/huggingface/paper-style-guide)
 - [Fermat's Last Margin](https://github.com/shapr/fermatslastmargin) - Tool for creating and sharing annotations, using github for storage and social network.
+- [Giant, free index to world's research papers released online (2021)](https://www.nature.com/articles/d41586-021-02895-8) ([HN](https://news.ycombinator.com/item?id=29008367))

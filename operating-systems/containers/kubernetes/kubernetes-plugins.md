@@ -28,3 +28,4 @@
 
 - [krew](https://github.com/kubernetes-sigs/krew/) - Package manager for kubectl plugins.
 - [Awesome kubectl plugins](https://github.com/ishantanu/awesome-kubectl-plugins)
+- [Go Helm Client](https://github.com/mittwald/go-helm-client) - Go client for accessing the Helm package manager.

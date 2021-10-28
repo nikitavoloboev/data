@@ -74,3 +74,4 @@
 - [Obsidian](https://github.com/ObsidianMC/Obsidian) - C# implementation of the Minecraft server protocol. (.NET 5).
 - [PocketMine-MP](https://pmmp.io/) - Server software for Minecraft: Bedrock Edition written in PHP. ([Code](https://github.com/pmmp/PocketMine-MP))
 - [ServerTap](https://github.com/phybros/servertap) - REST API for Bukkit/Spigot/Paper Minecraft servers. ([Web](https://servertap.io/))
+- [BuildTheEarth](https://buildtheearth.net/) - Recreating the entire planet in Minecraft.

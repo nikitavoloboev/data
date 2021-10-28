@@ -111,6 +111,7 @@
 - [Leipzig](https://github.com/ctford/leipzig) - Music composition library for Clojure and ClojureScript.
 - [DawDreamer](https://github.com/DBraun/DawDreamer) - Audio-processing Python framework supporting core DAW features.
 - [soundbytes](https://github.com/petar-dambovaliev/soundbytes) - DSL for composing and playing music.
+- [MIDISequencer](https://github.com/AudioKit/MIDISequencer) - MIDI Sequencer that sends MIDI events to other apps.
 
 ## Inspiration
 
@@ -266,3 +267,4 @@
 - [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music.
 - [torchaudacity](https://github.com/hugofloresgarcia/torchaudacity) - PyTorch wrappers for using your model in audacity.
 - [OpenSoundControl.org](http://opensoundcontrol.org/) - Data transport specification (an encoding) for realtime message communication among applications and hardware. ([Node Library](https://github.com/MylesBorins/node-osc))
+- [Sublive](https://sub.live/) - Online Live Rooms with Super Fast Sound live.
