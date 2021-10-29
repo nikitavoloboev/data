@@ -254,7 +254,7 @@ Awesome List
 - [Prometheus GitHub Exporter](https://github.com/infinityworks/github-exporter) - Exposes basic metrics for your repositories from the GitHub API, to a Prometheus compatible endpoint.
 - [ghissue](https://github.com/hcgatewood/ghissue) - Bulk-upload GitHub Issues.
 - [Maintainers](https://maintainers.app/) - Maintain your GitHub Projects.
-- [GitHub Copilot](https://copilot.github.com/) - Your AI pair programmer. ([HN](https://news.ycombinator.com/item?id=27676266)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/oaambv/n_github_and_openai_release_copilot_an_ai_pair/)) ([Lobsters](https://lobste.rs/s/rxml1k/github_copilot_your_ai_pair_programmer)) ([Preview](https://github.com/github/copilot-preview))
+- [GitHub Copilot](https://copilot.github.com/) - Your AI pair programmer. ([HN](https://news.ycombinator.com/item?id=27676266)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/oaambv/n_github_and_openai_release_copilot_an_ai_pair/)) ([Lobsters](https://lobste.rs/s/rxml1k/github_copilot_your_ai_pair_programmer)) ([Preview](https://github.com/github/copilot-preview)) ([Docs](https://github.com/github/copilot-docs))
 - [Grafana GitHub datasource](https://github.com/grafana/github-datasource) - GitHub datasource allows GitHub API data to be visually represented in Grafana dashboards.
 - [Awesome GitHub Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ([Web](https://awesomegithubprofile.tech/))
 - [HN: GitHub confirmed using all public code for training copilot regardless license (2021)](https://news.ycombinator.com/item?id=27769440)

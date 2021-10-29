@@ -1,6 +1,6 @@
 # Russia
 
-The number of crimes against humanity committed by governments of [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against its citizens is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies & judge existing dictators with all their helpers accordingly.
+The number of crimes against humanity committed by governments of [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies & judge existing dictators with all their helpers accordingly.
 
 It's a travesty that citizen's taxes are are being stolen to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
 
@@ -38,6 +38,8 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [К сожалению, тюрьма это ёбаная мясорубка ломающая психическое и физическое здоровье людей. Современные места заключения чудовищны по своему существу и должны быть реформированы.](https://twitter.com/kasablanka_03/status/1446516126364704788)
 - [Власть хочет править как Сталин, а жить как Абрамович.](https://www.youtube.com/watch?v=Id-nklB3eI8)
 - [Главная проблема людей "советской формации" довольно проста - это инфантилизм. Запретив частную собственность, экспериментаторы разрушили нормальный ход вещей. В итоге что главное у совков - виноваты все вокруг, нам все должны, а мы - люди маленькие, за нас решат.](https://twitter.com/maximov_vasily/status/1450570590297919492)
+- [Russia is truly cruel towards its citizens, jailing a person for 10 months who was just married for a crime of just 'going to a protest'. Given the amount of torture that anyone jailed goes through in these systems, it's insane to think that it's 21st century. This fascist government, judges & police can't fall soon enough.](https://twitter.com/gusevaolyaa/status/1453388863192322062) ([Оппозиционный активист Глеб Марьясов отправлен в колонию на 10 месяцев за участие в январских митингах. Все эти кадры прощаний из судов просто рвут душу. Русская тоска.](https://twitter.com/ilyayashin/status/1453372613137477636) ([Video](https://www.youtube.com/watch?v=lv4wJQg2MUE))
+- [Пытать в России - не преступление, преступление - рассказывать об этом.](https://twitter.com/Kira_Yarmysh/status/1453606229096517636) ([Reddit](https://www.reddit.com/r/AskARussian/comments/qhis55/%D0%BC%D0%B2%D0%B4_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B8%D0%BB%D0%BE_%D0%BE_%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%BE%D0%BC_%D0%B0%D1%80%D0%B5%D1%81%D1%82%D0%B5_%D0%B1%D1%8B%D0%B2%D1%88%D0%B5%D0%B3%D0%BE/))
 
 ## Links
 
@@ -315,3 +317,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Архивы Вечер в хату, россияне](https://vot-tak.tv/proyekt/vecher-v-hatu/) ([Tweet](https://twitter.com/v_milov/status/1451522323740303386))
 - [Бомба на 100 гигабайт. Первое интервью с Сергеем Савельевым, который выкрал “пыточный архив” ФСИ (2021)](https://www.youtube.com/watch?v=ipdvxlTaaqc) ([Tweet](https://twitter.com/B4cchus/status/1451832989160202248))
 - [Тихон Дзядко — о клейме «иноагента», «крыше» Медведева и будущем журналистики (2021)](https://www.youtube.com/watch?v=Dw_sSScSmSQ)
+- [Книжные памятники — собрание ценных изданий](https://kp.rusneb.ru/)
+- [НЭБ](https://rusneb.ru/) - Национальная электронная библиотека.

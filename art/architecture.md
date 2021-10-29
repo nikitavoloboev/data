@@ -67,3 +67,4 @@
 - [SHED Architecture & Design](https://www.shedbuilt.com/) - Seattle Modern Architects.
 - [Structurae: Structures and Projects Database](https://structurae.net/en/structures/)
 - [Architecture Telegram](https://t.me/Architecture2021) - Уникальные места нашей планеты.
+- [Bizarre Buildings Twitter](https://twitter.com/BizarreBuiIding)

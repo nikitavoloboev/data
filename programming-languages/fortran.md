@@ -8,3 +8,4 @@
 - [Fortran Web Framework](https://fortran.io/) ([HN](https://news.ycombinator.com/item?id=28509333)) ([Code](https://github.com/mapmeld/fortran-machine))
 - [FortranCon 2021](https://tcevents.chem.uzh.ch/event/14/contributions/)
 - [In Search of the Original Fortran Compiler](http://ed-thelen.org/FortranHistories/1%20Paul%20McJones%20-%20In%20Searchof%20the%20Original%20FORTRAN%20compiler.pdf)
+- [Can Tensor Programming Be Liberated from the Fortran Data Paradigm?](https://www.cs.ox.ac.uk/seminars/2418.html) ([Code](https://github.com/conal/talk-2021-can-tensor-programming-be-liberated))

@@ -109,3 +109,5 @@
 - [Skeleton And Principles For A Maintainable Test Suite (2021)](https://www.lpalmieri.com/posts/skeleton-and-principles-for-a-maintainable-test-suite/)
 - [Tests aren’t enough: Case study after adding type hints to urllib3 (2021)](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3) ([HN](https://news.ycombinator.com/item?id=28907154))
 - [Testing Without Mocks: A Pattern Language (2018)](https://www.jamesshore.com/v2/blog/2018/testing-without-mocks)
+- [FlakyBot](https://www.flakybot.com/) - Flaky test management. ([HN](https://news.ycombinator.com/item?id=29028681))
+- [Awesome Testing Courses & Tutorials](https://github.com/upgundecha/awesome-testing-courses)

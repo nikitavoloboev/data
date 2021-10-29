@@ -1,5 +1,7 @@
 # [Kubernetes](https://kubernetes.io/)
 
+[Ivan Velichko](https://iximiuz.com/en/) has lots of great posts on containers & k8s.
+
 ## Notes
 
 - Kubernetes runs pods that contain 1 to n docker containers. So if you have your apps in the form of docker images you are ready to go.
@@ -327,7 +329,7 @@
 - [Kubernetes API Visualized (2021)](https://twitter.com/iximiuz/status/1353045442087571456)
 - [Swift K8s Service Discovery](https://github.com/tuplestream/swift-k8s-service-discovery) - Discover pods of interest in a Kubernetes cluster as they become available.
 - [k8dash](https://github.com/indeedeng/k8dash) - Simple Kubernetes real time dashboard and management.
-- [Flux](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+- [Flux](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit. ([Web](https://fluxcd.io/))
 - [How to get to speak at KubeCon (2020)](https://blog.alexellis.io/how-to-speak-at-kubecon/)
 - [EdgeNet](https://edge-net.org/) - Kubernetes adapted for the network edge. It allows you to deploy applications to hundreds of nodes that are scattered across the internet. ([Code](https://github.com/EdgeNet-project/edgenet))
 - [Rancher](https://rancher.com/) - Enterprise Kubernetes Management. ([Website Code](https://github.com/rancher/ui)) ([GitHub](https://github.com/rancher))
@@ -480,3 +482,4 @@
 - [Kubernetes in Action Book (2021)](https://www.manning.com/books/kubernetes-in-action-second-edition)
 - [Autocert](https://github.com/smallstep/autocert) - Kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers.
 - [Step Issuer](https://github.com/smallstep/step-issuer) - Certificate issuer for cert-manager using step certificates CA.
+- [Service Discovery in Kubernetes - Combining the Best of Two Worlds (2021)](https://iximiuz.com/en/posts/service-discovery-in-kubernetes/)

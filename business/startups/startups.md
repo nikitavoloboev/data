@@ -66,6 +66,7 @@
 - [Do whatever you think is right; if you end up successful you were right. Everything else are just opinions, ideas or noise. Take them, use them, ignore them. Your choice. You will only win in your own way.](https://twitter.com/andreasklinger/status/1449394745545998350)
 - [The longer you’re in the startup game the more you realize how big the gulf is between people who talk and people who execute.](https://twitter.com/yongfook/status/1449363950898876419)
 - [When a business model is well understood, we should be able to spend our time on what drives the metrics, not what they are.](https://twitter.com/evancharles/status/1450156809528889346)
+- [Startup ideas framework: What do you want that money can't buy?](https://twitter.com/maksim_s/status/1453818810851487771)
 
 ## Links
 
@@ -335,6 +336,7 @@
 - [YC Application Resources](https://www.ycprep.app/) - Videos, Tips, Interviews.
 - [Interviuu](https://www.interviuu.com/) - Mock Interviews for YC and ODX.
 - [Founderkit](https://founderkit.com/) - Reviews and Recommendations from Leading Startup Founders.
+- [How to turn chaos in startups into repeatable processes (2021)](https://twitter.com/dunkhippo33/status/1453604780996132865)
 
 ## Images
 

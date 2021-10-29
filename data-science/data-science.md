@@ -74,7 +74,7 @@
 - [Ask HN: What does your BI stack look like? (2019)](https://news.ycombinator.com/item?id=21513566)
 - [Easy Data Transform](https://www.easydatatransform.com/) - Transform Your Data Without Programming. ([HN](https://news.ycombinator.com/item?id=21165736))
 - [Prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-- [Dagster](https://github.com/dagster-io/dagster) - Python library for building data applications: ETL, ML, Data Pipelines, and more. ([Dagster: The Data Orchestrator](https://www.dagster.io/blog/dagster-the-data-orchestrator)) ([Lobsters](https://lobste.rs/s/v7ws9l/dagster_data_orchestrator))
+- [Dagster](https://dagster.io/) - Data orchestrator for machine learning, analytics, and ETL. ([Dagster: The Data Orchestrator](https://www.dagster.io/blog/dagster-the-data-orchestrator)) ([Lobsters](https://lobste.rs/s/v7ws9l/dagster_data_orchestrator)) ([Code](https://github.com/dagster-io/dagster)) ([Tweet](https://twitter.com/schrockn/status/1453827850021130242))
 - [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
 - [An Introduction To Data Science On The Linux Command Line (2019)](https://blog.robertelder.org/data-science-linux-command-line/) ([HN](https://news.ycombinator.com/item?id=21605077))
 - [How to analyse 100 GB of data on your laptop with Python (2019)](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)

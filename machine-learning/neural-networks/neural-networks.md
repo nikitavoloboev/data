@@ -250,3 +250,4 @@
 - [What nice mathematical results there are about neural networks? (2021)](https://www.reddit.com/r/MachineLearning/comments/q072ov/d_what_nice_mathematical_results_there_are_about/)
 - [Temporal and Object Quantification Networks (2021)](http://toqnet.csail.mit.edu/) ([Code](https://github.com/C-SUNSHINE/TOQ-Nets-PyTorch-Release))
 - [Encoding Events for Neural Networks (2021)](https://theorangeduck.com/page/encoding-events-neural-networks)
+- [Telestrations Neural Networks (2020)](https://danielegrattarola.github.io/posts/2020-01-21/telestrations.html)

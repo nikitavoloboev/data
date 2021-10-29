@@ -31,6 +31,7 @@ It's annoying that a lot of [people/projects use these distributed ledgers as po
 - [Chains that charge users more than 2-4x the bandwidth it takes to replicate a tx will fail.](https://twitter.com/aeyakovenko/status/1441904517939810313)
 - [Use a hardware wallet.](https://twitter.com/armaniferrante/status/1444023272836775937)
 - [One of the most obvious flaws in using blockchains for anything involving regular human beings is one I've not seen much discussion of: Regular human beings cannot protect their passwords, credentials or private keys. They just can't. The idea of encouraging anyone who doesn't have a deep understanding of personal information security to attach a sizable portion of their net worth to an irreversible "code is law" distributed system is utterly appalling.](https://twitter.com/simonw/status/1444071543902912513)
+- [Mercury Bank is great for dealing with DeFi, crypto, or NFTs](https://twitter.com/BankMercury/status/1453765293214474242)
 
 ## Links
 

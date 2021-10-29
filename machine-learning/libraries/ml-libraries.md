@@ -46,7 +46,7 @@
 - [FATE](https://github.com/FederatedAI/FATE) - Industrial Level Federated Learning Framework.
 - [Deepkit](https://github.com/deepkit/deepkit) - Collaborative and real-time machine learning training suite: Experiment execution, tracking, and debugging.
 - [Sls](https://github.com/IssamLaradji/sls) - Stochastic Line Search.
-- [PyCaret](https://github.com/pycaret/pycaret) - Open source low-code machine learning library in Python that aims to reduce the hypothesis to insights cycle time in a ML experiment.
+- [PyCaret](https://github.com/pycaret/pycaret) - Open source low-code machine learning library in Python that aims to reduce the hypothesis to insights cycle time in a ML experiment. ([Web](https://pycaret.org/))
 - [Flax](https://github.com/google/flax) - Neural network library for JAX designed for flexibility. ([Docs](https://flax.readthedocs.io/en/latest/))
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Python module capable of performing multi-label learning tasks.
 - [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Python package offering a number of re-sampling techniques commonly used in datasets showing strong between-class imbalance.
@@ -207,3 +207,4 @@
 - [mlcrate](https://github.com/mxbi/mlcrate) - Hon module of handy tools and functions, mainly for ML and Kaggle.
 - [mle-hyperopt](https://github.com/RobertTLange/mle-hyperopt) - Lightweight Hyperparameter Optimization Tool.
 - [Feature Engine](https://github.com/feature-engine/feature_engine) - Python library with multiple transformers to engineer and select features for use in machine learning models.
+- [BaaL](https://github.com/ElementAI/baal) - Bayesian active learning library.

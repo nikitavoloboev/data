@@ -137,6 +137,8 @@
 - [PCF](https://github.com/jozefg/pcf) - Tiny typed, higher-order functional language. Compiled to C.
 - [Functors, Applicatives, and Monads in Pictures (2013)](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) ([HN](https://news.ycombinator.com/item?id=28916247))
 - [United Monoids (2018)](https://blogs.ncl.ac.uk/andreymokhov/united-monoids/) ([Code](https://github.com/snowleopard/united))
+- [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/) ([HN](https://news.ycombinator.com/item?id=29033003))
+- [Distillation: extracting the essence of programs (2007)](https://dl.acm.org/doi/10.1145/1244381.1244391) - Transformation algorithm called distillation which can automatically transform higher-order functional programs into equivalent tail-recursive programs. ([Code](https://github.com/poitin/Distiller))
 
 ## Images
 

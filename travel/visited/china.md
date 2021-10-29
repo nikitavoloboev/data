@@ -5,6 +5,7 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 ## Notes
 
 - [China can push fraudulent news to phones of all the citizens all the time.](https://www.youtube.com/watch?v=x0CjXkb99Z4)
+- [Two largest political factions in China excluding the princeling are the Tuanpai and the Shanghai clique but keep in mind internal faction are very informal.](https://www.reddit.com/r/worldnews/comments/qhazu9/taiwans_president_says_the_threat_from_china_is/hicmtbk/?utm_source=reddit&utm_medium=web2x&context=3)
 
 ## Links
 

@@ -32,3 +32,4 @@
 - [GPCRs in VR: Structure of LSD bound to human serotonin receptor (2021)](https://www.youtube.com/watch?v=cqH6PunEsac)
 - [Does LSD one time](https://twitter.com/incertaspecie/status/1340738678218399744)
 - [What’s everyone’s favorite LSD analog and why? (2021)](https://www.reddit.com/r/researchchemicals/comments/pjrput/whats_everyones_favorite_lsd_analog_and_why/)
+- [Movies to watch on LSD (2021)](https://www.reddit.com/r/Drugs/comments/qhmhwj/movies_to_watch_on_lsd/)

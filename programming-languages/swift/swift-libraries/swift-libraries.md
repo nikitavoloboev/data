@@ -799,6 +799,8 @@
 - [LanguageServerProtocol](https://github.com/ChimeHQ/LanguageServerProtocol) - Swift library for working with LSP.
 - [Flagsmith iOS](https://github.com/Flagsmith/flagsmith-ios-client) - iOS Client written in Swift for Flagsmith. Ship features with confidence using feature flags and remote config.
 - [Lightweight Observable](https://github.com/fxm90/LightweightObservable) - Lightweight implementation of an observable sequence that you can subscribe to.
+- [Swift Distributed Actors](https://github.com/apple/swift-distributed-actors/) - Peer-to-peer cluster implementation for Swift Distributed Actors. ([Article](https://swift.org/blog/distributed-actors/)) ([HN](https://news.ycombinator.com/item?id=29034188))
+- [Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread.
 
 ## Other (not lib)
 

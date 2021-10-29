@@ -140,3 +140,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [poirebot](https://github.com/aramperes/poirebot) - Chess engine and bot written in Rust.
 - [How to Calculate the Trappiest Openings in Chess Using Stats (2021)](https://medium.com/applied-data-science/how-to-calculate-the-trappiest-openings-in-chess-2bc24a6345f7) ([HN](https://news.ycombinator.com/item?id=28887015))
 - [Blunder](https://github.com/algerbrex/blunder) - UCI compatible chess engine written in Go.
+- [Drofa](https://github.com/justNo4b/Drofa) - UCI chess engine written in C++.

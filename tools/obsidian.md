@@ -30,6 +30,10 @@
 - [Linked Data Vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) - Add linked data to the YAML of your Obsidian notes.
 - [QuickAdd](https://github.com/chhoumann/quickadd) - Quickly add new pages or content to your vault.
 - [Metatable](https://github.com/arnau/obsidian-metatable) - Plugin to display the full frontmatter block instead of just the list of tags.
+- [Obsidian Annotator](https://github.com/elias-sundqvist/obsidian-annotator) - Plugin for reading and annotating PDFs and EPUBs in obsidian.
+- [Breadcrumb Trail](https://github.com/SkepticMystic/breadcrumbs) - Visualise a custom hierarchy in your Obsidian vault.
+- [Quick Switcher++](https://github.com/darlal/obsidian-switcher-plus) - Enhanced Quick Switcher plugin.
+- [Draw.io](https://github.com/zapthedingbat/drawio-obsidian) - Draw.io plugin for obsidian.md.
 
 ## Themes
 
@@ -52,3 +56,4 @@
 - [Obsidian CSS Snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets)
 - [Obsidian Starter Templates](https://github.com/masonlr/obsidian-starter-templates)
 - [Open source Obsidian Publish alternative](https://github.com/obsidian-userland/publish)
+- [Shimmering Obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.

@@ -6,6 +6,7 @@
 
 ## Links
 
+- [DevOps, SRE, and Platform Engineering (2021)](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
 - [We're Reddit's Infrastructure team, ask us anything! (2018)](https://www.reddit.com/r/sysadmin/comments/9x577m/were_reddits_infrastructure_team_ask_us_anything/)
 - [Vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. ([Web](https://vercel.com/dashboard))
 - [Now Examples](https://github.com/vercel/now-examples) - Examples of Now deployments you can use.
@@ -100,3 +101,4 @@
 - [DevOps Newsletters of Note](https://devopsnewsletters.com/)
 - [batou](https://github.com/flyingcircusio/batou) - Helps you to automate your application deployments using Python DSL. ([Docs](https://batou.readthedocs.io/en/stable/))
 - [Smallstep](https://smallstep.com/) - Automated Certificate Management for DevOps. ([GitHub](https://github.com/smallstep))
+- [Learn-by-Doing Platforms for Dev, DevOps, and SRE Folks (2021)](https://iximiuz.com/en/posts/learn-by-doing-platforms/)

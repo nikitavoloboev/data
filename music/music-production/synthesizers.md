@@ -36,3 +36,4 @@
 - [Scout](https://github.com/oskitone/scout) - 3D-printed, Arduino-compatible, 17-key mono synth. ([Web](https://www.oskitone.com/product/scout-synth))
 - [Oskitone](https://www.oskitone.com/) - DIY Synthesizers. ([GitHub](https://github.com/oskitone))
 - [The Signal State](https://signalstate.io/) - Game about making modular synths. ([Tweet](https://twitter.com/notch/status/1449855636842311680))
+- [I built an analog synthesizer from scratch. Here is how I did it. (2021)](https://www.youtube.com/watch?v=PATlf0W3m7k)

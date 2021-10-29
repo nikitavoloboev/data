@@ -1,5 +1,9 @@
 # Medicine
 
+## Notes
+
+- [Aimovig & Ajovi can help remove migraines](https://twitter.com/olgaserhi/status/1453765604217790470)
+
 ## Links
 
 - [After Surgery in Germany, I Wanted Vicodin, Not Herbal Tea](https://www.nytimes.com/2018/01/27/opinion/sunday/surgery-germany-vicodin.html)

@@ -363,3 +363,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Moving Parts](https://movingparts.io/) - World-class components for iOS, making your app the best it can be. ([Twitter](https://twitter.com/movingpartsio))
 - [Tech Talks - Apple Developer](https://developer.apple.com/tech-talks/)
 - [Lower Level iOS Notes](https://github.com/qyang-nj/llios)
+- [iOS Code Review Newsletter](https://newsletter.ioscodereview.com/) - Curated code improvement tips. ([Twitter](https://twitter.com/ios_code_review))

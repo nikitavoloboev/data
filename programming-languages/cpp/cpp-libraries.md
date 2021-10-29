@@ -259,6 +259,10 @@
 - [optional](https://github.com/TartanLlama/optional) - Single header implementation of std::optional with functional-style extensions and support for references.
 - [ZAB](https://github.com/Donald-Rupin/zab) - Asynchronous framework for building event-driven, multi-threaded programs.
 - [ensmallen](https://github.com/mlpack/ensmallen) - High-quality C++ library for non-linear numerical optimization. ([Web](http://ensmallen.org/))
+- [Fleet](https://github.com/piantado/Fleet) - C++ library for programming language of thought models.
+- [MatX](https://github.com/NVIDIA/MatX) - Efficient C++17 GPU numerical computing library with Python-like syntax.
+- [oneMKL](https://github.com/oneapi-src/oneMKL) - Open-source implementation of the oneMKL Data Parallel C++ (DPC++) interface according to the oneMKL specification.
+- [mathiu.cpp](https://github.com/BowenFu/mathiu.cpp) - Simple computer algebra system in C++.
 
 ## Links
 

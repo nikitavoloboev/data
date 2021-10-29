@@ -11,6 +11,7 @@
 - [The Best Office Chair Tier List (2021)](https://www.youtube.com/watch?v=zpIPhAGHSV4)
 - [Cosm](https://twitter.com/UltraLinx/status/1435985680207843336)
 - [Steelcase Think](https://www.steelcase.com/products/office-chairs/think/) ([Tweet](https://twitter.com/stroughtonsmith/status/1451604715817603076))
+- [Favorite office chairs (2021)](https://twitter.com/mjackson/status/1453815791707582485)
 
 ## Standing desks
 
@@ -40,6 +41,8 @@
 - [Rasmus Andersson's desk setup](https://twitter.com/rsms/status/1435003133260795904)
 - [Jessica Strelioff](https://www.workspaces.xyz/p/095-jessica-strelioff?)
 - [Creator’s dream setup](https://twitter.com/MengTo/status/1453121908204003335)
+- [Nice setup with pad for keyboard](https://twitter.com/lukeredpath/status/1453723374862045186)
+- [Apple Event lounge](https://twitter.com/jamesjgill/status/1450146286833913860)
 
 ## Links
 

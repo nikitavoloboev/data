@@ -57,3 +57,6 @@
 - [Chronofold](https://github.com/dkellner/chronofold) - Conflict-free replicated data structure (a.k.a. CRDT) for versioned text.
 - [What to use to build collaborative web application today (2021)](https://twitter.com/tmcw/status/1433436431658196997)
 - [HN: CRDT resources (2021)](https://news.ycombinator.com/item?id=28998767)
+- [How do CRDTs solve distributed data consistency challenges? (2021)](https://ably.com/blog/crdts-distributed-data-consistency-challenges) ([HN](https://news.ycombinator.com/item?id=29025724))
+- [LWW-element-graphs study](https://github.com/agravier/crdt-study) ([Comment](https://news.ycombinator.com/item?id=29026978))
+- [go-ds-crdt](https://github.com/ipfs/go-ds-crdt) - Distributed go-datastore implementation using Merkle-CRDTs.

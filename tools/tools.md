@@ -17,7 +17,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Shapecatcher](https://shapecatcher.com/) - Helps you find most similar unicode characters.
 - [Tiny Helpers](https://tiny-helpers.dev/) - Collection of single-purpose online tools for web developers. ([Code](https://github.com/stefanjudis/tiny-helpers))
 - [ProcessKit](https://processkit.com/) - Streamlines repeatable client work, makes your team more efficient, and sets your business up for predictable growth.
-- [HASH](https://hash.ai/) - Complex Systems Simulation. ([Mission](https://hash.ai/about/mission)) ([HN](https://news.ycombinator.com/item?id=21728776))
+- [HASH](https://hash.ai/) - Complex Systems Simulation. ([Mission](https://hash.ai/about/mission)) ([HN](https://news.ycombinator.com/item?id=21728776)) ([Code](https://github.com/hashintel/hash))
 - [Espial](https://github.com/jonschoning/espial) - Open-source, web-based bookmarking server.
 - [Generated Photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI.
 - [faktory](https://github.com/contribsys/faktory) - At a high level, Faktory is a work server. It is the repository for background jobs within your application.
@@ -206,6 +206,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Builder](https://www.builder.io/) - Drag and Drop Page Building for Any Tech Stack. ([GitHub](https://github.com/BuilderIO)) ([Code](https://github.com/BuilderIO/builder))
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. ([Web](https://grafana.com/oss/loki/))
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
+- [Secoda](https://www.secoda.co/) - Data discovery built for modern data teams. ([HN](https://news.ycombinator.com/item?id=29038087))
 - [grokhat](https://grokhat.com/) - Web app built on top of WebSockets and WebRTC. Made for programmers, focusing to be the best pair programming / chat with hacking features.
 - [Creo](https://creolabs.com/) - Next generation iOS, macOS and Android cross-platform app builder.
 - [SafeGraph](https://www.safegraph.com/) - Places Data & Foot Traffic Insights.
@@ -273,6 +274,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
 - [Helm](https://thehelm.com/) - Encrypted Email, Contacts, Calendar and Files. ([HN](https://news.ycombinator.com/item?id=28350466))
 - [Murmur](https://www.murmur.com/) - Collaborative platform where teams create, test, scale, and share working agreements.
+- [Community](https://www.community.com/) - Build Your Community | Text Messaging At Scale.
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
 - [btw](https://www.btw.so/) - Open source platform to understand, engage and convert your visitors into customers.
 - [Ditto](http://www.ditto.live/) - Sync Without Internet.

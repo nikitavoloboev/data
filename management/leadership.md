@@ -22,3 +22,4 @@
 - [Ask HN: What was the biggest leadership challenge of your career? (2021)](https://news.ycombinator.com/item?id=26847816)
 - [Conscious Leadership](https://themanagershandbook.com/consciousness/the-line) - Set of principles designed to promote curiosity.
 - [What steps to take if your reports are burned out? (2021)](https://twitter.com/EricaJoy/status/1453047253199818754)
+- [Naval Ravikant, co-founder of AngelList, explains why you don't need to be CEO (2021)](https://www.youtube.com/watch?v=WJuQLzr6PJQ) ([Tweet](https://twitter.com/mattmochary/status/1453503022064029703))

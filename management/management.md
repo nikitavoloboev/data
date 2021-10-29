@@ -20,6 +20,7 @@
 - [At Shopify, we tend to do whatever our engineers want in this regard. My team meets weekly and looks at a kanban project board. If we need to adjust, we have retros, etc and change the process. We have the autonomy. IMO while you need some consistency to get alignment on goals at a high level and coarse quarter-level goals, at the team level you can more or less let the team decide and then judge them on their effectiveness.](https://news.ycombinator.com/item?id=28669734) ([Tweet](https://twitter.com/GergelyOrosz/status/1442489057381134345))
 - [Holding others accountable is overrated. Holding yourself accountable is underrated.](https://twitter.com/ResilienttHuman/status/1445188664062001199)
 - [Organize to reduce context switch and communication overhead.](https://twitter.com/rakyll/status/1450924862055190528)
+- [Two hardest problems in engineering management: 1. What's the priority? 2. How will we measure impact?](https://twitter.com/dxna/status/1453375754889224204)
 
 ## Links
 
@@ -155,3 +156,4 @@
 - [Why 'bring solutions not problems' doesn’t work (2021)](https://larahogan.me/blog/bring-solutions-not-problems/)
 - [Awesome Project Management](https://github.com/shahedbd/awesome-project-management)
 - [Understanding the reasoning behind the four agile values](https://rchaves.app/why-agile-works/) ([HN](https://news.ycombinator.com/item?id=28980435))
+- [FactorialHR](https://factorialhr.com/) - All-in-One Human Resources (HR) Software.

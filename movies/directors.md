@@ -1,6 +1,6 @@
 # Film directors
 
-I made a list of my [favorite movie directors](https://www.imdb.com/list/ls080580530/).
+I made a list of my [favorite movie directors](https://www.imdb.com/list/ls080580530/) together with my [favorite screenwriters](https://www.imdb.com/list/ls551694473/).
 
 ## Interesting
 

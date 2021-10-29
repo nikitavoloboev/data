@@ -160,3 +160,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [A Comprehensive Guide to 250+ of Apple Music's New Mood and Activity Playlists (2021)](https://www.macstories.net/stories/a-comprehensive-guide-to-250-of-apple-musics-new-mood-and-activity-playlists/)
 - [ZSpotify](https://github.com/Footsiefat/zspotify) - Spotify downloader needing only a python interpreter and ffmpeg.
 - [Universal Music Group: The Gatekeepers of Music (2021)](https://www.joincolossus.com/episodes/25864787/gokgol-kline-universal-music-group-the-gatekeepers-of-music?tab=blocks)
+- [Audius](https://audius.co/) - Fully decentralized music streaming protocol. ([Discord](https://discord.com/invite/audius)) ([Twitter](https://twitter.com/audiusproject))
+- [What's on your On Repeat Spotify playlist](https://twitter.com/ellenkorbes/status/1453811828069388296/photo/2)

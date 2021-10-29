@@ -387,7 +387,7 @@
 - [Video Super-Resolution Transformer (2021)](https://arxiv.org/abs/2106.06847) ([Code](https://github.com/caojiezhang/VSR-Transformer))
 - [NeRF Atlas](https://github.com/JulianKnodt/nerf_atlas) - Collection of NeRF extensions for fun and experimentation.
 - [Training and testing codes for USRNet, DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, BSRGAN, SwinIR](https://github.com/cszn/KAIR)
-- [Uformer: A General U-Shaped Transformer for Image Restoration (2021)](https://arxiv.org/abs/2106.03106) ([Code](https://github.com/ZhendongWang6/Uformer))
+- [Uformer: A General U-Shaped Transformer for Image Restoration (2021)](https://arxiv.org/abs/2106.03106) ([Code](https://github.com/ZhendongWang6/Uformer)) ([Code](https://github.com/lucidrains/uformer-pytorch))
 - [Self-Supervised Pretraining Improves Self-Supervised Pretraining (2021)](https://arxiv.org/abs/2103.12718) ([Code](https://github.com/cjrd/self-supervised-pretraining))
 - [SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes (2021)](https://xuchen-ethz.github.io/snarf/) ([Code](https://github.com/xuchen-ethz/snarf))
 - [HRFormer: High-Resolution Transformer for Dense Prediction, NeurIPS 2021](https://github.com/HRNet/HRFormer)
@@ -420,3 +420,5 @@
 - [CVNets](https://github.com/apple/ml-cvnets) - Library for training computer vision networks.
 - [Scenic](https://github.com/google-research/scenic) - Jax Library for Computer Vision Research and Beyond. ([Paper](https://arxiv.org/abs/2110.11403))
 - [CV Arxiv Daily](http://vincentqin.tech/cv-arxiv-daily/) ([Code](https://github.com/Vincentqyw/cv-arxiv-daily))
+- [OpenVisionCapsules](https://github.com/opencv/open_vision_capsules) - Set of libraries for encapsulating smart vision algorithms.
+- [MedMNIST: Large-Scale Lightweight Benchmark for 2D and 3D Biomedical Image Classification](https://medmnist.com/) ([Code](https://github.com/MedMNIST/MedMNIST))

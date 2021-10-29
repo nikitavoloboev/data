@@ -1,5 +1,9 @@
 # [OCaml](https://ocaml.org)
 
+## Notes
+
+- [Just try OCaml for a bit, you'll have trouble going back to bad languages.](https://twitter.com/TaliaRinger/status/1453244728749826048)
+
 ## Links
 
 - [Learn OCaml](https://ocaml-sf.org/learn-ocaml-public/) - Web Application for Learning OCaml. ([Code](https://github.com/ocaml-sf/learn-ocaml))

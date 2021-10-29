@@ -46,3 +46,4 @@
 - [Slip](https://www.slip.so/) - Build and sell interactive programming courses. ([HN](https://news.ycombinator.com/item?id=28141462)) ([GitHub](https://github.com/slipHQ))
 - [Stepik Course Catalog](https://stepik.org/catalog)
 - [Udemy](https://www.udemy.com/) - Online Courses - Learn Anything, On Your Schedule. ([HN](https://news.ycombinator.com/item?id=28758236))
+- [Maven](https://maven.com/) - Create and teach cohort-based courses. ([Twitter](https://twitter.com/mavenhq))

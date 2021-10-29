@@ -97,3 +97,4 @@
 - [Drauu](https://drauu.netlify.app/) - Headless SVG-based drawboard in browser. ([Code](https://github.com/antfu/drauu))
 - [svg-pan-zoom](https://github.com/bumbu/svg-pan-zoom) - JavaScript library that enables panning and zooming of an SVG in an HTML document, with mouse events or custom JavaScript hooks.
 - [Basic Pattern Repository](https://patterns.helloyes.dev/) - Simple patterns for <use>. Just SVG - for your delight. ([Code](https://github.com/nachtfunke/basic-pattern-repository))
+- [Which SVG technique performs best for way too many icons? (2021)](https://cloudfour.com/thinks/svg-icon-stress-test/)

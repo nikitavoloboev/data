@@ -33,6 +33,7 @@
 
 - [React as a UI Runtime (2019)](https://overreacted.io/react-as-a-ui-runtime/) ([HN](https://news.ycombinator.com/item?id=19067302))
 - [React is Changing How We Think, Again (2019)](https://rjzaworski.com/2019/02/react-is-changing-how-we-think-again)
+- [React RFCs](https://github.com/reactjs/rfcs)
 - [A practical understanding of Flux](http://drewdevault.com/2015/07/20/A-practical-understanding-of-Flux.html)
 - [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 - [Introduction to The Beginner's Guide to ReactJS](https://egghead.io/lessons/react-introduction-to-the-beginner-s-guide-to-reactjs)

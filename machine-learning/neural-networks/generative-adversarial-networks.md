@@ -107,6 +107,7 @@
 - [Assessing Generative Models via Precision and Recall (2018)](https://arxiv.org/abs/1806.00035) ([Code](https://github.com/msmsajjadi/precision-recall-distributions))
 - [Few-shot Image Generation via Cross-domain Correspondence (2021)](https://arxiv.org/abs/2104.06820) ([Code](https://github.com/utkarshojha/few-shot-gan-adaptation))
 - [StarGAN v2: Diverse Image Synthesis for Multiple Domains (2020)](https://arxiv.org/abs/1912.01865) ([Code](https://github.com/clovaai/stargan-v2))
+- [StarGAN2 for practice](https://github.com/eps696/stargan2) - Version of StarGAN2 intended mostly for fellow artists.
 - [Generative Adversarial Network in Go via Gorgonia](https://github.com/LdDl/gan-go)
 - [Controllable Person Image Synthesis with Attribute-Decomposed GAN (2020)](https://arxiv.org/abs/2003.12267) ([Code](https://github.com/menyifang/ADGAN))
 - [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort (2021)](https://nv-tlabs.github.io/datasetGAN/)

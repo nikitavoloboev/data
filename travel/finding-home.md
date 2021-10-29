@@ -51,7 +51,7 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [IKEA Tiny House](https://www.architecturaldigest.com/story/ikea-tiny-house)
 - [ICON](https://www.iconbuild.com/) - 3D-Printed Homes for Sale.
 - [Automate Construction](https://automate.construction/) - Construction Industry Is Transforming.
-- [Cover](https://buildcover.com/) - Making thoughtfully designed and well-built homes for everyone. ([IG](https://www.instagram.com/coverbuild/)) ([Tweet](https://twitter.com/alexisxrivas/status/1423400137091518466))
+- [Cover](https://buildcover.com/) - Making thoughtfully designed and well-built homes for everyone. ([IG](https://www.instagram.com/coverbuild/)) ([Tweet](https://twitter.com/alexisxrivas/status/1423400137091518466)) ([Tweet](https://twitter.com/alexisxrivas/status/1453746511108476934))
 - [Dwelling](https://dwelling.co/) - Home buying for humans.
 - [Favorite furniture brand? (2021)](https://twitter.com/Suhail/status/1378474655640473602)
 - [Compass](https://www.compass.com/) - Real Estate, Homes for Sale & Apartments for Rent.
@@ -65,3 +65,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [How to Live in Airbnbs for the Price of an Apartment Lease (2020)](https://esimoney.com/how-to-live-in-airbnbs-for-the-price-of-an-apartment-lease/) ([HN](https://news.ycombinator.com/item?id=28659170))
 - [Solar Shed Summary: My Off Grid Office (2021)](https://www.sevarg.net/2016/07/31/solar-shed-summary-my-off-grid-office/) ([HN](https://news.ycombinator.com/item?id=28735687))
 - [Wander](https://www.wander.com/) - Book the perfect Wander-owned smart home for your next workcation, vacation or anything in-between. ([Twitter](https://twitter.com/wander))
+- [Glide Pod](https://www.pod-space.co.uk/pods/glide-pod/) - Design Award-Winning Garden Office Buildings.

@@ -29,3 +29,4 @@
 - [Mixed Reality with Passthrough (2021)](https://developer.oculus.com/blog/mixed-reality-with-passthrough/) ([HN](https://news.ycombinator.com/item?id=27939264))
 - [Mark Zuckerberg says Facebook will turn into a ‘metaverse’ (2021)](https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview) ([HN](https://news.ycombinator.com/item?id=27930791))
 - [The Metaverse Has Always Been a Dystopian Idea (2021)](https://www.vice.com/en/article/v7eqbb/the-metaverse-has-always-been-a-dystopia) ([HN](https://news.ycombinator.com/item?id=28017330))
+- [XR Engine](https://github.com/XRFoundation/XREngine) - Metaverse infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more.

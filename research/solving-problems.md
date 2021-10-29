@@ -87,3 +87,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Focused and Diffuse: Two Modes of Thinking (2019)](https://fs.blog/2019/10/focused-diffuse-thinking/) ([Tweet](https://twitter.com/housecor/status/1449731674800013319))
 - [Getting Unstuck (2021)](https://www.kevinlondon.com/2021/10/14/asking-for-help.html)
 - [How to think like a detective (2021)](https://psyche.co/guides/how-to-solve-problems-by-thinking-like-a-detective) ([HN](https://news.ycombinator.com/item?id=28902211))
+- [Elon Musk's 5-Step Protocol for Successful Engineering (2021)](https://insideevs.com/news/526954/elon-musk-5-steps-success/)

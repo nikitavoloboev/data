@@ -35,7 +35,7 @@
 - [Container technologies at Coinbase: Why Kubernetes is not part of our stack (2020)](https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c) ([HN](https://news.ycombinator.com/item?id=23460066))
 - [Kata Containers](https://github.com/kata-containers/kata-containers) - Open source container runtime, building lightweight virtual machines that seamlessly plug into the containers ecosystem.
 - [dumb-init](https://github.com/Yelp/dumb-init) - Simple process supervisor and init system designed to run as PID 1 inside minimal container environments (such as Docker).
-- [containerd](https://github.com/containerd/containerd) - Industry-standard container runtime with an emphasis on simplicity, robustness and portability. ([Web](https://containerd.io/))
+- [containerd](https://github.com/containerd/containerd) - Industry-standard container runtime with an emphasis on simplicity, robustness and portability. ([Web](https://containerd.io/)) ([Why and How to Use containerd from the Command Line](https://iximiuz.com/en/))
 - [Clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
 - [GCR Cleaner](https://github.com/sethvargo/gcr-cleaner) - Delete untagged image refs in Google Container Registry, as a service.
 - [Rootless Containers](https://rootlesscontaine.rs/)
@@ -140,3 +140,6 @@
 - [Anchore](https://anchore.com/) - Container Security Solutions For DevSecOps. ([GitHub](https://github.com/anchore))
 - [Direktiv](https://github.com/vorteil/direktiv) - Event-driven container orchestration engine, running on Kubernetes and Knative. ([Web](https://direktiv.io/))
 - [Navio](https://github.com/viniciusbds/navio) - Simple tool for creating and managing linux containers.
+- [Containers vs. Pods - Taking a Deeper Look (2021)](https://iximiuz.com/en/posts/containers-vs-pods/)
+- [Multiple Containers On the Same Port without Reverse Proxy (2021)](https://iximiuz.com/en/posts/multiple-containers-same-port-reverse-proxy/)
+- [Journey From Containerization to Orchestration and Beyond (2021)](https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond/)

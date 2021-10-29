@@ -122,3 +122,4 @@
 - [Awesome examples of SvelteKit in the wild](https://github.com/janosh/awesome-svelte-kit)
 - [URQL Svelte Template Project](https://github.com/JoviDeCroock/urql-svelte-kit)
 - [React Hooks in Svelte](https://github.com/joshnuss/react-hooks-in-svelte)
+- [Starter for Svelte Kit and the Ory Stack](https://github.com/MicLeey/sveltekit-ory-starter)

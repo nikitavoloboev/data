@@ -634,6 +634,7 @@
 - [module-error](https://github.com/vweevers/module-error) - Create errors with code and cause properties.
 - [InfiniteGrid](https://github.com/naver/egjs-infinitegrid) - Module used to arrange card elements including content infinitely on a grid layout. ([Web](https://naver.github.io/egjs-infinitegrid/))
 - [Okiba](https://github.com/okiba-gang/okiba) - Sharp collection of tools for front-end development, created with performance in mind.
+- [FastPriorityQueue.js](https://github.com/lemire/FastPriorityQueue.js) - Fast heap-based priority queue in JavaScript.
 
 ## Links
 

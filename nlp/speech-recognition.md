@@ -72,3 +72,4 @@
 - [VoiceFixer](https://github.com/haoheliu/voicefixer) - General Speech Restoration.
 - [speechmetrics](https://github.com/aliutkus/speechmetrics) - Wrapper around speech quality metrics MOSNet, BSSEval, STOI, PESQ, SRMR, SISDR.
 - [Silero VAD](https://github.com/snakers4/silero-vad) - Pre-trained enterprise-grade Voice Activity Detector, Language Classifier and Spoken Number Detector.
+- [A New AI Lexicon: Voice (2021)](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-voice-340316c30d87) - The Legacies and Limits of Automated Voice Analysis.

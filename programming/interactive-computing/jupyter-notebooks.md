@@ -146,3 +146,4 @@
 - [Elastic Jupyter Notebooks on Kubernetes](https://github.com/tkestack/elastic-jupyter-operator)
 - [Pure GitHub.Dev Python Jupyter Notebooks experiments using Pyodide](https://github.com/wjptak/githubdev-jupyter-experiments)
 - [ipylab](https://github.com/jtpio/ipylab) - Control JupyterLab from Python notebooks.
+- [Notebooks, Machine Learning, and MLOps (2021)](https://www.youtube.com/watch?v=_yM7IyZNQx0)

@@ -11,6 +11,7 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 ## Notes
 
 - [The simplest way but still having your own keys is using a software wallet such as Exodus. It's what I use, around 5.5% in Exodus Earn, just activate Earn and every Tezos you have in your wallet will be staked. Otherwise, use Temple Wallet for example and use a baker that you like.](https://www.reddit.com/r/tezos/comments/njtn3h/best_place_to_stake_my_tezos/)
+- [Can buy Tezos on Coinbase Pro, delegate through Ledger or a wallet and make closer to 6% interest](https://www.reddit.com/r/tezos/comments/qh2mrb/can_someone_share_some_knowledge_about_tezos/)
 
 ## Links
 
@@ -66,3 +67,6 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Tezos resources (2021)](https://www.reddit.com/r/tezos/comments/q7wxjx/the_numbers_of_tezos_developers_and_lack_of/)
 - [Concerns with Tezos Foundation not focusing enough on DeFi (2021)](https://www.reddit.com/r/tezos/comments/qfpu1b/a_word_from_sr_staff_engineer_from_coinbase_about/)
 - [Tezos: Approaches to Scalability (2021)](https://www.youtube.com/watch?v=oqBSs0DSuzQ) ([Tweet](https://twitter.com/epolynya/status/1446110487633031181))
+- [Explore Tezos](https://exploretezos.com/) - All the Tezos Dapps in one organized place.
+- [Temple Wallet](https://github.com/madfish-solutions/templewallet-mobile) - Non-custodial crypto wallet for interacting with the Tezos ecosystem.
+- [Rarible Protocol](https://rarible.org/) - Create, access, and monetize digital items. ([Twitter](https://twitter.com/raribledao))

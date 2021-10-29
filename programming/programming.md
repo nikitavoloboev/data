@@ -475,3 +475,5 @@
 - [Habits I've Developed for Fast + Efficient Programming](https://cprimozic.net/blog/programming-speed-strategies/) ([Lobsters](https://lobste.rs/s/3fp2mj/habits_i_ve_developed_for_fast_efficient))
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 - [A word about benchmarking (2021)](https://1pkg.github.io/posts/a_word_about_benchmarking/)
+- [Codeamigo](https://codeamigo.dev/) - Byte-sized interactive coding tutorials. ([HN](https://news.ycombinator.com/item?id=29025401))
+- [Coding guidelines for an easier life (2021)](https://www.mcdermottroe.com/coding-guidlines-for-an-easier-life/)

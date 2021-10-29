@@ -540,3 +540,8 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Legitimacy Lost (2021)](https://li.substack.com/p/legitimacy-lost) ([Tweet](https://twitter.com/ljin18/status/1449440177190051849))
 - [Thing that everyone in your field knows and nobody in your industry talks about because it would lead to general chaos](https://twitter.com/mykola/status/1198719315589160960)
 - [Beyond Smart (2021)](http://paulgraham.com/smart.html) ([HN](https://news.ycombinator.com/item?id=28947558))
+- [Open secrets about Hacker News (2021)](https://bengtan.com/blog/open-secrets-hacker-news/) ([HN](https://news.ycombinator.com/item?id=29024032))
+- [Friends with Benefits](https://www.fwb.help) - Digital cornerstone between technology and culture communities. ([Twitter](https://twitter.com/fwbtweets))
+- [List of hypothetical technologies - Wikipedia](https://en.wikipedia.org/wiki/List_of_hypothetical_technologies)
+- [Switchyards](https://switchyards.com/) - Neighborhood Work Club. ([Twitter](https://twitter.com/switchyards))
+- [Open Microscopy List](https://github.com/HohlbeinLab/OpenMicroscopy) - List of projects and resources related to open microscopy.

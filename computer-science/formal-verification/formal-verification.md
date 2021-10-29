@@ -85,3 +85,4 @@
 - [Higher-Order Program Verification](https://github.com/hopv)
 - [SMACK](https://github.com/smackers/smack) - Software Verifier and Verification Toolchain. ([Web](http://smackers.github.io/))
 - [A Tool for Producing Verified, Explainable Proofs Thesis (2021)](https://www.edayers.com/thesis/) ([Code](https://github.com/EdAyers/lean-humanproof-thesis))
+- [Cogent: uniqueness types and certifying compilation (2021)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/cogent-uniqueness-types-and-certifying-compilation/47AC86F02534818B95A56FA1A283A0A6) ([Tweet](https://twitter.com/kamatsu8/status/1453322917853470720))

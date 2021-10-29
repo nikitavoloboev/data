@@ -151,6 +151,7 @@ And these Discord servers:
 - [The MIT Press Reader](https://thereader.mitpress.mit.edu/)
 - [Inference](https://inference-review.com/) - International Review of Science.
 - [A Cup of Jo](https://cupofjo.com/) - Style, Culture, Motherhood, Travel, Food & Life.
+- [Interesting Engineering](https://interestingengineering.com/)
 
 ### Other
 

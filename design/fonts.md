@@ -80,6 +80,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Basement Grotesque](https://grotesque.basement.studio/) - Inspired by the expressiveness of early 19th-century grotesque typefaces. ([Code](https://github.com/basementstudio/basement-grotesque))
 - [Redaction](https://www.redaction.us/) - Typeface from Titus Kaphar / Reginald Dwayne Betts’ show at MoMA PS1.
 - [Dank Mono](https://philpl.gumroad.com/l/dank-mono) - Coding typeface for aesthetes.
+- [scientifica](https://github.com/nerdypepper/scientifica) - Tall, condensed, bitmap font for geeks.
 
 ## Links
 
@@ -274,4 +275,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [#calligraphy - Twitter](https://twitter.com/hashtag/calligraphy?src=hashtag_click)
 - [Process Type Foundry](https://processtypefoundry.com/) ([Twitter](https://twitter.com/processtype))
 - [Practica Program](https://www.practicaprogram.com/) - Learn typeface design, together. ([Twitter](https://twitter.com/practicatype))
-- [Coding Font](https://www.codingfont.com/) - Game to find your favorite coding font. ([HN](https://news.ycombinator.com/item?id=29010443))
+- [Coding Font](https://www.codingfont.com/) - Game to find your favorite coding font. ([HN](https://news.ycombinator.com/item?id=29010443)) ([Lobsters](https://lobste.rs/s/rfaj1q/play_game_find_your_true_love_coding_fonts))

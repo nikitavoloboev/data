@@ -221,6 +221,7 @@
 - [Nice Modal](https://github.com/eBay/nice-modal-react) - Small, zero dependency utility to manage modals in a natural way for React.
 - [React InfiniteGrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/react-infinitegrid) - React component that can arrange items infinitely according to the type of grids.
 - [React-Location](https://github.com/tannerlinsley/react-location) - Enterprise Client-Side Routing for React. ([Docs](https://react-location.tanstack.com/docs/overview))
+- [tldraw/core](https://github.com/tldraw/core) - TLDraw core renderer and utilities.
 
 ## Links
 

@@ -170,3 +170,4 @@
 - [Tyler Hobbs - Designing NFT Generative Art with a Traditional Touch (2021)](https://www.proof.xyz/tyler-hobbs-designing-nft-generative-art/)
 - [aRt](https://github.com/nrennie/aRt) - R package to create generative art.
 - [GenerativeArt-SwiftUI](https://github.com/martinhoeller/GenerativeArt-SwiftUI)
+- [Cubeverse](https://cubeversenft.com/) - Generative, unique and random NFTs of beautiful structures, of different shapes and sizes. ([Twitter](https://twitter.com/TheCubeverse))

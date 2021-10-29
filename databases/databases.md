@@ -454,3 +454,4 @@
 - [Awesome Database Development](https://github.com/huachaohuang/awesome-dbdev)
 - [Offline-First Database Comparison](https://github.com/pubkey/client-side-databases) ([HN](https://news.ycombinator.com/item?id=28995268))
 - [How we built a serverless SQL database (2021)](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/) ([HN](https://news.ycombinator.com/item?id=29001285))
+- [A Return to the General Purpose Database (2021)](https://redmonk.com/sogrady/2021/10/26/general-purpose-database/) ([HN](https://news.ycombinator.com/item?id=29014055))

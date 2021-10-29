@@ -39,6 +39,7 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [In an age of decreasing time between ideas and implementations what matters the most is the “generating function” — what culture, mental models, traits, network etc that’s responsible for innovations. That’s something copycats can never copy; they can only copy the last idea.](https://twitter.com/amasad/status/1394802328058793984)
 - [A culture is not a set of beliefs, it's a set of actions.](https://twitter.com/dhaber/status/1445479484472262663)
 - [The culture is made by people who join, not the other way around.](https://twitter.com/threepointone/status/1445397597447929857)
+- [Taking care of the people who work with you is an _investment_. It doesn't show up on the balance sheet immediately, but creates resilience that is necessary when the inevitable challenge hits.](https://twitter.com/aboodman/status/1453821646620409860)
 
 ## Links
 

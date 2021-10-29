@@ -99,3 +99,4 @@
 - [Strategic Scala Style: Principle of Least Power (2016)](https://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
 - [New to Scala advice (2021)](https://www.reddit.com/r/scala/comments/q85nu1/new_to_scala/)
 - [Scala CLI](https://scala-cli.virtuslab.org/) - Tool to run/compile/test Scala that aims at being a better scala command. ([Code](https://github.com/VirtusLab/scala-cli))
+- [How to Master Scala Step by Step (2021)](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)

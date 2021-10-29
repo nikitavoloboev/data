@@ -7,6 +7,7 @@
 - [Decentralized technical systems do not necessarily produce decentralized political power.](https://twitter.com/keikreutler/status/1442438737678544896)
 - [The economic reward function is very important. As long as there are uncapped returns, centralization is inevitable.](https://twitter.com/BlackForestBoi/status/1442444302408470530)
 - [Web1: content distributed to users. Web2: content produced by users and distributed to users. Web3: content produced by users and distributed to users on user controlled platforms.](https://twitter.com/ArthurB/status/1444620432280330241)
+- [Web 3: People create + People profit](https://twitter.com/levelsio/status/1453712519919403016)
 
 ## Links
 
@@ -101,3 +102,4 @@
 - [Should Your Next Company Be a DAO? (2021)](https://www.coss.community/cossc/should-your-next-company-be-a-dao-2o44)
 - [web3 Policy - Andreessen Horowitz](https://a16z.com/web3-policy/)
 - [A Legal Framework for Decentralized Autonomous Organizations (2021)](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) ([Tweet](https://twitter.com/milesjennings/status/1453080226179608577))
+- [What Even Is A DAO (2021)](https://www.youtube.com/watch?v=IooTahsgXTs)

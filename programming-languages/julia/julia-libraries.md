@@ -317,6 +317,7 @@
 - [AtomsBase](https://github.com/JuliaMolSim/AtomsBase.jl) - Abstract interface for representation of atomic geometries in Julia.
 - [Combinatorics](https://github.com/JuliaMath/Combinatorics.jl) - Combinatorics library. Focusing on enumerative combinatorics and permutations.
 - [NamedDims](https://github.com/invenia/NamedDims.jl) - Zero-cost abstraction to add names to the dimensions of an array.
+- [PairPlots.jl](https://github.com/sefffal/PairPlots.jl) - Produces corner plots, otherwise known as pair plots or scatter plot matrices: grids of 1D and 2D histograms that allow you to visualize high dimensional data.
 
 ## Links
 

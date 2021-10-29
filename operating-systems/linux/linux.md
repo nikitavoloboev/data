@@ -396,3 +396,5 @@
 - [Reasons to switch from Windows to Linux (2021)](https://www.lpi.org/blog/2021/10/05/eleven-reasons-switch-windows-linux) ([HN](https://news.ycombinator.com/item?id=28957211))
 - [live-bootstrap](https://github.com/fosslinux/live-bootstrap) - Use of a Linux initramfs to fully automate the bootstrapping process.
 - [Dropwatch](https://github.com/nhorman/dropwatch) - Diagnose problems in the Linux Networking stack. Diagnose where packets are getting dropped.
+- [Moving Google toward the mainline (2021)](https://lwn.net/Articles/871195/) ([HN](https://news.ycombinator.com/item?id=28767854))
+- [proot-rs](https://github.com/proot-me/proot-rs) - Rust implementation of PRoot, a ptrace-based sandbox.

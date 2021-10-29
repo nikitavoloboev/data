@@ -326,3 +326,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Gomiko](https://github.com/Ali-aqrabawi/gomiko) - Go implementation of Netmiko.
 - [hBPF](https://github.com/rprinz08/hBPF) - Extended Berkley Packet Filter (eBPF) CPU written entirely in Python3 for PC and FPGA.
 - [Comparing Open Source BGP Stacks (2021)](https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/)
+- [Open IP over VHF/UHF 5 (2021)](https://www.rowetel.com/?p=7898) ([HN](https://news.ycombinator.com/item?id=29022189))
+- [Linux, Netlink, and Go - Part 1: netlink (2017)](https://mdlayher.com/blog/linux-netlink-and-go-part-1-netlink/)
+- [ZMap](https://github.com/zmap/zmap) - Fast single packet network scanner designed for Internet-wide network surveys. ([Web](https://zmap.io/))

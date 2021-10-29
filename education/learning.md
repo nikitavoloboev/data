@@ -13,6 +13,7 @@
 - [Building in Public let’s you leverage Cunningham’s Law to positive effect: if you error in your trial, someone is way more likely to pop out of the woodwork to tell you the right answer.](https://twitter.com/mikewavsz/status/1445627803550961669)
 - [Explaining concepts in the chronological order they were developed is vastly overrated as a teaching strategy. Once we have the huge benefit of hindsight we should use that context to give better explanations in a logical order.](https://twitter.com/nick_r_cameron/status/1448227898935099392)
 - [I think this is the real externality of having everything be algo-ranked for maximum engagement. I don't think many people are being polarized/radicalized politically. But we end up getting compacted into a more rigid version of ourselves in a thousand mundane ways. A partial cure has been to get myself back into reading books -- hard books. It is the only medium that can afford you a sufficient sense of occupying someone else's mind for a while when you're sick of yours. But somehow my attention span is shattered.](https://twitter.com/DanGrover/status/1443419300023263233)
+- [Every act of conscious learning requires the willingness to suffer an injury to one’s self esteem.](https://twitter.com/mollyfmielke/status/1452658271190278144)
 
 ## Links
 
@@ -121,7 +122,7 @@
 - [Traverse](https://traverse.link/) - Learning tool designed to help you remember.
 - [Kyla Scanlon's Reading List](https://www.notion.so/Reading-List-1b7b6b0c0c0646849124942c3e23e39c)
 - [Ask HN: What lessons did you learn from your best or worst colleagues? (2021)](https://news.ycombinator.com/item?id=27161901)
-- [Learney](https://app.learney.me/) - Online learning platform that lets you take your own path.
+- [Learney](https://app.learney.me/#) - Online learning platform that lets you take your own path.
 - [Caught in the Study Web (2021)](https://every.to/cybernaut/caught-in-the-study-web) ([Tweet](https://twitter.com/fadeke_adegbuyi/status/1396908868656005123))
 - [Neso Academy - YouTube](https://www.youtube.com/c/nesoacademy/videos) - On a mission to provide free and subsidized education.
 - [Stanford Course Schedule 2020-2021](https://cs.stanford.edu/courses/schedules/2020-2021.autumn.php) ([Tweet](https://twitter.com/karpathy/status/1398737554761863168))

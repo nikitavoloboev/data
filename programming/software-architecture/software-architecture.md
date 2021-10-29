@@ -168,3 +168,6 @@
 - [Local-first software with Martin Kleppmann (2021)](https://overcast.fm/+Y-HX8R30E)
 - [How to Safely Think in Systems (2021)](https://lethain.com/how-to-safely-think-in-systems/) ([HN](https://news.ycombinator.com/item?id=28886376))
 - [The lost art of software design (2021)](https://static.architectis.je/sag2021-the-lost-art-of-software-design.pdf)
+- [Software Architecture Patterns (2021)](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2) ([HN](https://news.ycombinator.com/item?id=29024767))
+- [Software architecture patterns Book (2015)](https://www.oreilly.com/content/software-architecture-patterns/)
+- [Fundamentals of Software Architecture Book (2020)](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)

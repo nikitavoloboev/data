@@ -2,8 +2,9 @@
 
 ## Links
 
+- [A practical introduction to GNNs (2021)](https://danielegrattarola.github.io/posts/2021-03-03/gnn-lecture-part-1.html)
+- [Spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2. ([Docs](https://graphneural.network/))
 - [A Comprehensive Survey on Graph Neural Networks (2019)](https://arxiv.org/pdf/1901.00596.pdf)
-- [Spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow.
 - [Graph Neural Networks in TF2](https://github.com/microsoft/tf2-gnn)
 - [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (2019)](https://github.com/KangchengHou/gntk)
 - [Strategies for Pre-training Graph Neural Networks](https://github.com/snap-stanford/pretrain-gnns)
@@ -64,3 +65,7 @@
 - [Modeling Relational Data with Graph Convolutional Networks (2017)](https://arxiv.org/abs/1703.06103) ([Code](https://github.com/MichSchli/RelationPrediction))
 - [GNNLens2](https://github.com/dmlc/GNNLens2) - Visualization tool for Graph Neural Networks.
 - [Hierarchical Graph Representation Learning with Differentiable Pooling (2018)](https://arxiv.org/abs/1806.08804) ([Code](https://github.com/RexYing/diffpool))
+- [VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization (2021)](https://arxiv.org/abs/2110.14363)
+- [Pitfalls of Graph Neural Network Evaluation (2019)](https://arxiv.org/abs/1811.05868) ([Code](https://github.com/shchur/gnn-benchmark))
+- [Understanding Pooling in Graph Neural Networks (2021)](https://arxiv.org/abs/2110.05292) ([Code](https://github.com/danielegrattarola/SRC))
+- [Spectral Clustering with Graph Neural Networks for Graph Pooling (2020)](https://arxiv.org/abs/1907.00481) ([Code](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling))

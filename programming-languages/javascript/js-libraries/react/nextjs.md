@@ -130,7 +130,7 @@
 - [Next.js Stats GitHub Action](https://github.com/vercel/next-stats-action) - Downloads and runs project with provided configs gathering stats to compare branches.
 - [React ESI](https://github.com/dunglas/react-esi) - Blazing-fast Server-Side Rendering for React and Next.js.
 - [Server-side Only React with Next (2020)](https://webcloud.se/blog/2020-03-12-nextjs-without-client-side-react/) ([HN](https://news.ycombinator.com/item?id=22717900))
-- [Serverless Nextjs Component](https://github.com/danielcondemarin/serverless-next.js) - Deploy your next apps using the serverless framework.
+- [Serverless NextJS](https://github.com/danielcondemarin/serverless-next.js) - Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components.
 - [next-aws-lambda-webpack-plugin](https://github.com/vincent-herlemont/next-aws-lambda-webpack-plugin) - Pack a compat layer between next.js serverless page and AWS Lambda.
 - [Next.js Static Props](https://pomb.us/nextjs-static-props/)
 - [Next.js Team AMA (2020)](https://hashnode.com/post/nextjs-team-ama-ask-us-anything-ck8q81sii002wems178vw6r5v)
@@ -264,3 +264,7 @@
 - [Next.js Cheat Sheet](https://gourav.io/blog/nextjs-cheatsheet)
 - [NextGraphQL.js](https://github.com/ian/next-graphql) - Zero-config GraphQL server for Next.js, supporting Vercel Serverless environment runtime.
 - [Next.js 12 (2021)](https://nextjs.org/blog/next-12) ([HN](https://news.ycombinator.com/item?id=29001721)) ([Tweet](https://twitter.com/vercel/status/1453029090106040321?s=28)) ([Keynote](https://www.youtube.com/watch?v=dMBYI7pTR4Q))
+- [How Next Middleware / Edge Functions work (2021)](https://twitter.com/ascorbic/status/1453431784205701121)
+- [Streaming in Next.js - Kara Erickson (2021)](https://www.youtube.com/watch?v=Nl4OwNhh2QI)
+- ["So You Think You Can Build A Dropdown?" — Pedro Duarte (2021)](https://www.youtube.com/watch?v=lY-RQjWeweo)
+- [Next.js 12 React Server Components Demo](https://github.com/vercel/next-rsc-demo)

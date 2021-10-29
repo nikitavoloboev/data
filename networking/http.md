@@ -155,3 +155,6 @@
 - [An alternative approach to rate limiting (2017)](https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/)
 - [Hedged http requests to reduce tail latency (2021)](https://1pkg.github.io/posts/hedged_http_requests_to_reduce_tail_latency/)
 - [QuickServ](https://github.com/jstrieb/quickserv) - User-friendly web server. ([HN](https://news.ycombinator.com/item?id=29002694))
+- [Pocket load tester](https://github.com/vearutop/plt) - Scale curl requests, cousin of ab, siege, hey.
+- [How HTTP Keep-Alive can cause TCP race condition (2021)](https://iximiuz.com/en/posts/reverse-proxy-http-keep-alive-and-502s/)
+- [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests.

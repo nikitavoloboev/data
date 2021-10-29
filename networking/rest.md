@@ -29,3 +29,4 @@
 - [Introspected REST: An alternative to REST and GraphQL](https://github.com/vasilakisfil/Introspected-REST) ([Web](https://introspected.rest/))
 - [AutoRest](https://github.com/Azure/autorest) - Generates client libraries for accessing RESTful web services.
 - [AutoRest Go Generator](https://github.com/Azure/autorest.go)
+- [REST with Clean Architecture for Go](https://github.com/swaggest/rest) - Web services with OpenAPI and JSON Schema done quick in Go.

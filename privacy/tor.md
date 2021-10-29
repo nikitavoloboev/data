@@ -28,3 +28,4 @@
 - [Lightnion](https://github.com/spring-epfl/lightnion) - JavaScript library that you can include on your webpage to let any modern browser make anonymous requests. Light version of Tor.
 - [Real-World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites) - List of substantial, commercial-or-social-good mainstream websites which provide onion services.
 - [DoHoT](https://github.com/alecmuffett/dohot) - Making practical use of DNS over HTTPS over Tor.
+- [finshir](https://github.com/isgasho/finshir) - High-performant, coroutines-driven, and fully customisable implementation of Low & Slow load generator designed for real-world pentesting. Complete undetectability is achieved by connecting through Tor.

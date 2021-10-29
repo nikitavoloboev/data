@@ -71,6 +71,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Daniel Holden](https://theorangeduck.com/)
 - [Alarming Development](https://alarmingdevelopment.org/)
 - [Eric Jang](https://evjang.com/)
+- [Ivan Velichko](https://iximiuz.com/en/)
 
 ## Notes
 

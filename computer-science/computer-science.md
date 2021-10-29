@@ -154,3 +154,4 @@
 - [What CS Books Should Everyone Read?](https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read) ([Lobsters](https://lobste.rs/s/9r8qpj/what_books_should_everyone_read))
 - [Strange Loop 2021 - YouTube](https://www.youtube.com/playlist?list=PLcGKfGEEONaBjSfQaSiU9yQsjPxxDQyV8)
 - [MPhil in Advanced Computer Science | Cambridge Uni](https://www.cst.cam.ac.uk/admissions/acs)
+- [Domain Theory (1994)](https://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf)

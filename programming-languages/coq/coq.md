@@ -81,3 +81,4 @@
 - [coq-bonsai](https://github.com/foobar-land/coq-bonsai) - Generate a fresh bonsai in your terminal. Written in Coq.
 - [Coq-Combi](https://github.com/math-comp/Coq-Combi) - Algebraic Combinatorics in Coq.
 - [Toy Hoare Logic Formalization for IMP](https://github.com/codyroux/hoare-toy)
+- [Reasoning about the garden of forking paths (2021)](https://arxiv.org/abs/2103.07543) ([Coq Code](https://github.com/lastland/ClairvoyanceMonad))

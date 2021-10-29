@@ -185,3 +185,4 @@
 - [When to Use Goto](https://beej.us/guide/bgc/html/split/goto.html) ([HN](https://news.ycombinator.com/item?id=28943153))
 - [There is no 'printf' (2021)](https://www.netmeister.org/blog/return-printf.html) ([HN](https://news.ycombinator.com/item?id=28931457))
 - [Comparing the c ffi overhead on various programming languages](https://github.com/dyu/ffi-overhead)
+- [55GiB/s FizzBuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz) ([HN](https://news.ycombinator.com/item?id=29031488)) ([Lobsters](https://lobste.rs/s/ploajb/high_throughput_fizz_buzz_31gib_fizz_buzz))

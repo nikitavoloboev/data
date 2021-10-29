@@ -580,3 +580,5 @@
 - [Superposition of many models into one (2019)](https://arxiv.org/abs/1902.05522) ([Tweet](https://twitter.com/thisismyhat/status/1096480539601657856))
 - [Meta-Learning Requires Meta-Augmentation (2020)](https://arxiv.org/abs/2007.05549)
 - [Shaking the foundations: delusions in sequence models for interaction and control (2021)](https://arxiv.org/abs/2110.10819) ([Tweet](https://twitter.com/janexwang/status/1453027447151157251))
+- [Introduction to Deep Learning (I2DL) (2021)](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e)
+- [Mosaicking to Distill: Knowledge Distillation from Out-of-Domain Data (2021)](https://arxiv.org/abs/2110.15094) ([Code](https://github.com/zju-vipa/MosaicKD))

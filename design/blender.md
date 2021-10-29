@@ -50,3 +50,4 @@
 - [Blender Toolbox](https://github.com/HTDerekLiu/BlenderToolbox) - Python scripts for rendering 3D shapes in Blender.
 - [Shaded Relief Maps in Blender](https://github.com/JoeWDavies/geoblender) ([HN](https://news.ycombinator.com/item?id=28748881))
 - [Malt](https://github.com/bnpr/Malt) - Fully customizable real-time rendering framework for animation and illustration.
+- [Blender 3.x roadmap (2021)](https://code.blender.org/2021/10/blender-3-x-roadmap/) ([HN](https://news.ycombinator.com/item?id=29024572))

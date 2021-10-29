@@ -198,6 +198,7 @@
 - [Commander](https://github.com/jeroenrinzema/commander) - Go library for writing event-driven applications. Enabling event sourcing, RPC over messages, SAGA's, bidirectional streaming and more.
 - [socket](https://github.com/mdlayher/socket) - Provides a low-level network connection type which integrates with Go's runtime network poller to provide asynchronous I/O and deadline support.
 - [Kyoto](https://github.com/yuriizinets/kyoto) - Build Front End with Go. ([Web](https://kyoto.codes/)) ([HN](https://news.ycombinator.com/item?id=28862611))
+- [Retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs.
 
 ## GraphQL
 
@@ -283,6 +284,7 @@
 - [Gendry](https://github.com/didi/gendry) - Go library that helps you operate database.
 - [otelsql](https://github.com/XSAM/otelsql) - OpenTelemetry instrumentation for database/sql.
 - [CockroachDB Go](https://github.com/cockroachdb/cockroach-go) - Helpers for CockroachDB users writing in Go.
+- [go-sstables](https://github.com/thomasjungblut/go-sstables) - Go library for protobuf compatible sstables, a skiplist, a recordio format and other database building blocks like a write-ahead log.
 
 ## ML
 
@@ -1015,6 +1017,8 @@
 - [sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients.
 - [procfs](https://github.com/prometheus/procfs) - Functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
 - [Hunch](https://github.com/AaronJan/Hunch) - Provides functions like: All, First, Retry, Waterfall etc., that makes asynchronous flow control more intuitive.
+- [Expect](https://github.com/google/goexpect) - Implementation of Expect in Go.
+- [Go development helpers](https://github.com/bool64/dev) ([Article](https://dev.to/vearutop/identifying-breaking-changes-in-pull-request-of-a-go-library-1db2))
 
 ## Links
 
@@ -1041,3 +1045,4 @@
 - [Bingo](https://github.com/TekWizely/bingo) - Missing package manager for Go binaries (its homebrew for "go install").
 - [doc](https://github.com/hhhapz/doc) - Query Go module documentation.
 - [Dr-Docso](https://github.com/DiscordGophers/dr-docso) - Go documentation bot for Discord.
+- [Exploring Go net/http Package - On How Not To Set Socket Options (2021)](https://iximiuz.com/en/posts/go-net-http-setsockopt-example/)

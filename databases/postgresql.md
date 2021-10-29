@@ -345,3 +345,4 @@
 - [How Postgres Audit Tables Saved Us From Taking Down Production (2021)](https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production) ([HN](https://news.ycombinator.com/item?id=29003356))
 - [Building a recommendation engine inside Postgres with Python and Pandas (2020)](https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python) ([HN](https://news.ycombinator.com/item?id=29005863))
 - [postguard](https://github.com/andywer/postguard) - Statically validate Postgres SQL queries in JS / TS code and derive schemas.
+- [Babelfish for PostgreSQL](https://babelfishpg.org/) - SQL Server to Postgres translator. ([Article](https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/)) ([HN](https://news.ycombinator.com/item?id=29031116))

@@ -109,3 +109,4 @@ I try to give my full attention to any ideas I am working on.
 - [Minimum Viable Testing framework (2021)](https://twitter.com/gaganbiyani/status/1438505843444502539)
 - [Ideas for Software that People Would Actually Use](https://github.com/Divide-By-0/app-ideas-people-would-use)
 - [Startup Ideas](https://www.gwern.net/Startup-ideas) ([HN](https://news.ycombinator.com/item?id=28757980))
+- [Being a maker is 1% ideas, 99% mindset. Tips (2021)](https://twitter.com/thisiskp_/status/1453012295391526924)

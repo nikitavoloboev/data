@@ -25,6 +25,12 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 
 - [Sam Robbins's photos](https://photos.samrobbins.uk/) - Uses Next.js. ([Code](https://github.com/samrobbins85/photos))
 
+## Notes
+
+- [I do a lot of street and my advice is to keep going out there. Have your camera hang around your neck, let the public see you’re a photographer. And when you want to take a photo, bring that camera up your your eye, stand tall, and take your shot. The less you seem creepy about it, people won’t care. Also, take photos of interesting things. Let the subject come INTO your frame.](https://www.reddit.com/r/fujifilm/comments/qhmlri/x100v_my_first_time_trying_street_photography/)
+- [As someone who enjoys street photography but is also uncomfortable taking photos of strangers, one piece of advice I would give is to go 'fishing' as opposed to 'hunting'. With hunting - you go around searching for subjects and shots and it can all feel a bit... predatory. With fishing, however, you find your spot (maybe an interesting shaft of light, or background) and then hang about waiting for people to come into frame. This allows people to see what you're doing as they walk by and can always step out of the frame if they really don't want their picture taken. I also think you get better shots since you have time to assess and try a few different perspectives on the same scene.](https://www.reddit.com/r/fujifilm/comments/qhmlri/x100v_my_first_time_trying_street_photography/)
+- [Think more about getting the shot and less about what anyone else thinks about you or what you are doing.](https://www.reddit.com/r/fujifilm/comments/qhmlri/x100v_my_first_time_trying_street_photography/)
+
 ## Links
 
 - [Top 25 Landscape Photographers of 2017](https://www.capturelandscapes.com/top-25-landscape-photographers-of-2017/)

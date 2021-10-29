@@ -262,3 +262,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [What is an NFT?](https://twitter.com/punk6529/status/1451896453065023493)
 - [Best tax solution when dealing with NFTs (2021)](https://twitter.com/sterlingcrispin/status/1453079792077533185)
 - [Deso](https://www.deso.org/) - Decentralized Social Blockchain. ([GitHub](https://github.com/deso-protocol))
+- [The Problem with Smart Contracts Today (2021)](https://www.radixdlt.com/post/the-problem-with-smart-contracts-today) ([Tweet](https://twitter.com/lawmaster/status/1453375048140697606))

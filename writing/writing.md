@@ -255,3 +255,5 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Scaling Engineering Teams via RFCs: Writing Things Down (2021)](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
 - [Learning about writing by seeing only the punctuation (2021)](https://medium.com/creators-hub/what-i-learned-about-my-writing-by-seeing-only-the-punctuation-efd5334060b1) ([Tool](https://just-the-punctuation.glitch.me/)) ([HN](https://news.ycombinator.com/item?id=28899242))
 - [More Asemic Writing (2020)](https://inconvergent.net/2020/asemic-writing/)
+- [Creative Spark: Eric Roth (2014)](https://www.youtube.com/watch?v=N3_QmiNs52o) ([Article](https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos)) ([HN](https://news.ycombinator.com/item?id=29000175))
+- [Greatest Screenwriters of All Time](https://www.imdb.com/poll/5qmz3dF9sYg/)

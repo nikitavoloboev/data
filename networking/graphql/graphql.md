@@ -252,3 +252,5 @@
 - [Why GraphQL Is Perfect as Data Layer for Microservices (2021)](https://stepzen.com/blog/why-graphql-is-perfect-as-data-layer-for-microservices)
 - [Bramble](https://github.com/movio/bramble) - Production-ready GraphQL federation gateway. It is built to be a simple, reliable and scalable way to aggregate GraphQL services together. ([Docs](https://movio.github.io/bramble/#/))
 - [AutoCloud](https://www.autocloud.dev/) - Visualize and Query Cloud Infrastructure. ([CLI](https://github.com/cloudgraphdev/cli))
+- [What we can learn from GraphQLConf 2021](https://blog.logrocket.com/graphqlconf-2021-round-up/)
+- [GraphQL authorization layer](https://github.com/AstrumU/graphql-authz) - Flexible, (not only) directive-based, compatible with all modern GraphQL architectures.

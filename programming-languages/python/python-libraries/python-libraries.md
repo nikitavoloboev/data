@@ -205,7 +205,7 @@
 - [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python.
 - [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
 - [Thorn](https://github.com/robinhood/thorn) - Webhook framework for Python, focusing on flexibility and ease of use, both when getting started and when maintaining a production system.
-- [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python.
+- [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python. ([How to use Flask with gevent (uWSGI and Gunicorn editions)](https://iximiuz.com/en/posts/flask-gevent-tutorial/))
 - [Meshio](https://github.com/nschloe/meshio) - I/O for mesh files.
 - [Streamz](https://github.com/python-streamz/streamz) - Real-time stream processing for python.
 - [Hypothesis](https://github.com/HypothesisWorks/hypothesis) - Powerful, flexible, and easy to use library for property-based testing.

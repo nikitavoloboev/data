@@ -239,3 +239,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Peerix](https://github.com/cid-chan/peerix) - Peer-to-peer binary cache for nix derivations.
 - [update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - GitHub Action that will update your flake.lock file whenever it is run.
 - [Replit - Faster Nix Repl Startup (2021)](https://blog.replit.com/nix-perf-improvements)
+- [Statix](https://github.com/nerdypepper/statix) - Lints and suggestions for the nix programming language. ([Reddit](https://www.reddit.com/r/NixOS/comments/qh47fz/statix_lints_and_suggestions_for_the_nix/))

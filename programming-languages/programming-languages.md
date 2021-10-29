@@ -256,3 +256,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Comparison of enumerations and similar features in different languages](https://github.com/Crell/enum-comparison)
 - [Static Analysis: An Introduction (2021)](https://queue.acm.org/detail.cfm?id=3487021)
 - [Static Analysis at GitHub (2021)](https://queue.acm.org/detail.cfm?id=3487022)
+- [Most accessible programming language (2021)](https://twitter.com/ellenkorbes/status/1452437940299309063)

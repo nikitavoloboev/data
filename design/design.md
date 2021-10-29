@@ -16,6 +16,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Opinions are not ideas. Opinions are not as important as ideas. Opinions are just opinions.](https://twitter.com/bchesky/status/1393305210563403776)
 - [Don’t know where to start a design? literally just copy the next closest thing and then …just keep going.](https://twitter.com/round/status/1407767068263403520)
 - [As Design tools and code are rapidly converging. Designers who can think like developers will have a leg up on everyone.](https://twitter.com/Ridderingand/status/1448680030108729348)
+- [Designing for dark mode is incredibly hard as an afterthought. If you plan to support dark mode, try designing it first and doing the light version after.](https://twitter.com/steveschoger/status/1453823790560026625)
 
 ## Links
 
@@ -203,3 +204,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Apps for collecting/organizing designs/images (2021)](https://twitter.com/jasonlong/status/1450805712309870598)
 - [Дизайн в Злых марсианах (2021)](https://teletype.in/@romanshamin/design-at-evil-martians) ([Tweet](https://twitter.com/strongeron/status/1450914217335349250))
 - [IKEA catalogue through the ages](https://ikeamuseum.com/en/digital/ikea-catalogues-through-the-ages/) ([HN](https://news.ycombinator.com/item?id=28997461))
+- [Lunacy](https://icons8.com/lunacy) - Figma-like design tool, not in Electron, in Avalonia.

@@ -22,3 +22,4 @@
 - [Sequences and Series course](https://github.com/kisonecat/sequences-and-series)
 - [Multivariable calculus course](https://github.com/kisonecat/m2o2c2)
 - [Differential Calculus in 3 Minutes & 29 Seconds (2020)](https://www.youtube.com/watch?v=3gLKF20M3xw)
+- [Essential calculus ideas](https://www.youtube.com/watch?v=KyUPwfBLjEQ) ([HN](https://news.ycombinator.com/item?id=29011549))

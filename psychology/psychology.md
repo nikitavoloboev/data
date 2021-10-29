@@ -37,3 +37,5 @@
 - [Envy | ContraPoints (2021)](https://www.youtube.com/watch?v=aPhrTOg1RUk)
 - [A Meta-Scientific Perspective on Thinking: Fast and Slow (2020)](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/) ([HN](https://news.ycombinator.com/item?id=28917017))
 - [The fatiguing effects of camera use in virtual meetings: A within-person field experiment. (2021)](https://doi.apa.org/fulltext/2021-77825-003.html)
+- [The Distance Cure: A History of Teletherapy (2021)](https://mitpress.mit.edu/books/distance-cure)
+- [Psychologists who study "stereotype accuracy"](https://twitter.com/spiantado/status/1453779561515159552)

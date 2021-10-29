@@ -26,6 +26,7 @@
   2. Assuming people are stupid
 - [If asked a question twice, respond the 3rd time with a URL.](https://ben.balter.com/2020/08/14/tools-of-the-trade/)
 - [When done right your documentation is also part of your support, marketing, and even sales.](https://twitter.com/ianstormtaylor/status/1376601005597544448)
+- [Documentation and processes are super important -- don't go for too long without documenting everything -- even at the expense of it being half-baked, and this should be the task of many people are your company. It will save everyone time in the long run.](https://twitter.com/dunkhippo33/status/1453604800180809741)
 
 ## Links
 
@@ -121,3 +122,4 @@
 - [SveltePress](https://sveltepress.geopjr.dev/) - Documentation tool built on top of SvelteKit. ([Code](https://github.com/GeopJr/SveltePress))
 - [Q&A: How We Document Software Projects (2020)](https://embeddedartistry.com/blog/2020/06/08/qa-how-we-document-software-projects/)
 - [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works. ([Web](https://squidfunk.github.io/mkdocs-material/))
+- [Almanac for Public Documentation](https://get.almanac.io/for/public-documentation) - Let anyone suggest changes to technical & community docs.

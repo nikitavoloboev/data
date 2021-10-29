@@ -54,3 +54,5 @@
 - [Mask Network](https://mask.io/) - Send encrypted posts to your friends, participate in cryptocurrencies lucky-draws, and share encrypted files on the platforms you are already using. ([Code](https://github.com/DimensionDev/Maskbook))
 - [libsecp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for ECDSA signatures and secret/public key operations on curve secp256k1. ([Python Lib](https://github.com/rustyrussell/secp256k1-py))
 - [Tanker](https://tanker.io/) - End-to-end encryption as a service. ([GitHub](https://github.com/TankerHQ))
+- [Electronic Health Certificates Spec](https://github.com/ehn-dcc-development/hcert-spec) - Proposal for encoding and signing the Electronic Health Certificate (HCERT).
+- [Authenticated Cipher MORUS (2016)](https://competitions.cr.yp.to/round3/morusv2.pdf) - Fast authenticated cipher for platforms without hardware AES acceleration. ([Zig Code](https://github.com/jedisct1/zig-morus))

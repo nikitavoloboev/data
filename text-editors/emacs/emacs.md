@@ -94,3 +94,5 @@ Might give it a go sometime.
 - [Emacs Love Tale (2021)](https://emacs.love/tales/emacs-love-tale-by-sdp.html) ([HN](https://news.ycombinator.com/item?id=27516073))
 - [The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy (2021)](https://karl-voit.at/2021/07/23/emacs-lock-in/) ([HN](https://news.ycombinator.com/item?id=28091520))
 - [Emacs Lisp Readable Closures (2013)](https://nullprogram.com/blog/2013/12/30/) ([HN](https://news.ycombinator.com/item?id=28862735))
+- [The Animated Guide to Symex (Emacs Structural Editing with Lisp) (2021)](https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/)
+- [Building an Emacs lisp VM in Rust (2021)](https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/)

@@ -110,7 +110,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts) - Guidelines and training material to write secure smart contracts.
 - [Slither](https://github.com/crytic/slither) - Static Analyzer for Solidity.
 - [Crytic](https://crytic.io/) - SaaS-based GitHub application that continuously assures your Ethereum smart contracts are safe and functional. ([GitHub](https://github.com/crytic))
-- [Cryptovoxels](https://www.cryptovoxels.com/) - Ethereum Virtual World.
+- [Cryptovoxels](https://www.cryptovoxels.com/) - Ethereum Virtual World. ([Look at Cryptovoxels](https://fragosti.com/posts/a-look-at-cryptovoxels/))
 - [Slingshot](https://slingshot.finance/) - Next Generation Decentralized Trading.
 - [K Semantics of the Ethereum Virtual Machine (EVM)](https://github.com/kframework/evm-semantics)
 - [beaconcha.in](https://beaconcha.in/) - Open Source Ethereum 2.0 Beacon Chain Explorer. ([Code](https://github.com/gobitfly/eth2-beaconchain-explorer))
@@ -330,3 +330,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)
 - [HyperCube](https://github.com/hypercube-lab/hypercube) - Ethereum 2-layer solution based on proof of POD dedication and an independent public chain.
 - [zero-protocol](https://github.com/zerodao-finance/zero-protocol) - Short term lending on Ethereum as a framework for cross-chain asset transfer.
+- [Radix DLT](https://www.radixdlt.com/) - Layer 1 DeFi done right.
+- [Niftyswap](https://github.com/0xsequence/niftyswap) - Decentralized swap protocol for ERC-1155 tokens, inspired by Uniswap.
+- [Origin](https://github.com/application-research/origin) - Fast web3 application toolkit.
+- [EVM Shell](https://github.com/tintinweb/evm-shell) - Hands-on interactive EVM repl/shell. Low-level ethereum virtual machine inspection.

@@ -183,3 +183,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Amazing macOS apps list (2021)](https://twitter.com/mxstbr/status/1404777523456716801)
 - [Dynamic Universal App](https://github.com/figma/dynamic-universal-app) - Size efficient alternative to macOS universal binaries.
 - [Microverse](https://github.com/jspahrsummers/Microverse) - macOS virtualization app for M1/Apple Silicon.
+- [Run MacOS Software On Linux Using Darling (2021)](https://ostechnix.com/run-macos-software-on-linux-using-darling/) ([Lobsters](https://lobste.rs/s/ju4vut/run_macos_software_on_linux_using_darling))

@@ -6,7 +6,7 @@
 - Set [tasks](../macOS/apps/2do.md) & [goals](../focusing/goals.md). [Plan](../macOS/apps/fantastical.md). [Focus](../focusing/focusing.md).
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm. Value time.
 - First make it work. Then optimize.
-- [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge. Learn/Build in public.
+- [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document everything (thoughts/decisions/[processes](https://twitter.com/dunkhippo33/status/1453604780996132865)/knowledge). Learn/Build in public.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need. [Focus on things I can control](https://twitter.com/techgirl1908/status/1450569064414388233).
 - Cut out noise (no analytics, likes..). No time wasted. Decide on what matters to me. Focus on it. Maximize impact & growth. Filter consumed information to optimize for signal.
 - Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply (from first principles). Move in right direction. [Move fast](https://news.ycombinator.com/item?id=27691586). No regrets.
@@ -32,7 +32,7 @@
 - Drink lots of water & [tea](../health/nutrition/drinks/tea.md). Limit [coffee](../health/nutrition/drinks/coffee.md). No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
 - Go on walks or do exercise throughout the day when possible as breaks.
-- Brush/floss teeth properly (morning/evening) & wash + [clean face](../health/skin-care.md) daily. Smell nice. Wear clean clothes.
+- Brush/floss teeth properly (morning/evening) & wash + [clean face](../health/skin-care.md) daily. Smell nice. Wear clean clothes that make me feel great.
 - Apply sunscreen when going out for long time. Don't frown. Don't touch face or mouth with dirty hands.
 - Accept and love my body and self. I am perfect as I am. Don't care what other people might think of me.
 - Never sit for long. Sit up right (good posture, never slouch). Use great chair. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing. Take breaks.

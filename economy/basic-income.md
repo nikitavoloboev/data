@@ -7,6 +7,7 @@ Technology and automation will not stop and more things will be automated with e
 ## Notes
 
 - [Turns out the best way to reduce poverty is to give people money instead of inventing labyrinthine welfare programs that are more expensive and less effective.](https://twitter.com/InternetHippo/status/1437793731529396229)
+- [I used to be a proponent of universal basic income, but after this past year it's become clear, rent and housing prices will just increase to match whatever extra income people receive. Unless there is real housing reform (not treating housing as an investment) UBI won't be effective.](https://news.ycombinator.com/item?id=29028179)
 
 ## Links
 

@@ -239,6 +239,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Josh Wolfe's bookshelf](https://twitter.com/wolfejosh/status/1449731287594541065)
 - [What are your favorite books under 250 pages? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qc2r4i/what_are_your_favorite_books_under_250_pages/)
 - [Best and most engaging Sci-Fi books (2021)](https://www.reddit.com/r/suggestmeabook/comments/qfdrhp/what_are_the_best_and_most_engaging_scifi_books/)
+- [Favorite weird short story collections (2021)](https://www.reddit.com/r/WeirdLit/comments/qh406m/what_are_your_favorite_weird_short_story/)
 
 ## Notes
 
@@ -426,3 +427,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Royal Road](https://www.royalroad.com/welcome) - Home of web fiction.
 - [Why did Dostoyevsky write Crime and Punishment? (2021)](https://www.theatlantic.com/magazine/archive/2021/11/dostoyevsky-crime-punishment-birmingham-sinner-saint/620175/) ([HN](https://news.ycombinator.com/item?id=28975061))
 - [Manning Deal of the Day](https://www.manning.com/dotd)
+- [So you want to write a technical book (2021)](http://terathon.com/blog/so-you-want-to-write-a-technical-book/) ([HN](https://news.ycombinator.com/item?id=29022499))

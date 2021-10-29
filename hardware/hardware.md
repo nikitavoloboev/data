@@ -244,3 +244,4 @@
 - [Apple’s M1 Pro/Max is the second step in a major change in computing (2021)](https://twitter.com/stevesi/status/1450255227945242628)
 - [PlayStation 3 Architecture](https://www.copetti.org/writings/consoles/playstation-3/) ([HN](https://news.ycombinator.com/item?id=28934624))
 - [Tesla Dojo White Paper (2021)](https://tesla-cdn.thron.com/static/SBY4B9_tesla-dojo-technology_OPNZ0M.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22tesla-dojo-technology.pdf%22) - Guide to Tesla’s Configurable Floating Point Formats & Arithmetic. ([HN](https://news.ycombinator.com/item?id=28999206)) ([Tweet](https://twitter.com/Tesla/status/1452961309734096900))
+- [Teenage Engineering Computer-1 mini-ITX Chassis](https://teenage.engineering/products/computer-1) ([HN](https://news.ycombinator.com/item?id=29027328))

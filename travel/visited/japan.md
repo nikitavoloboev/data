@@ -52,3 +52,4 @@
 - [Life Where I'm From - YouTube](https://www.youtube.com/channel/UCqwxJts-6yF33rupyF_DCsA)
 - [Orthographic Gradients to Learn the Kanji (2021)](https://japanesecomplete.com/articles/?p=1512)
 - [Intuition for Japanese](https://japanesecomplete.com/articles/) - Learn Japanese, avoid the Struggle.
+- [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/) ([HN](https://news.ycombinator.com/item?id=29022906))

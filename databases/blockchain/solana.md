@@ -2,6 +2,8 @@
 
 > Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
+Diving into building dApps with Solana. Stake my SOL with [Shinobi Systems](https://www.shinobi-systems.com/) & [Phantom](https://phantom.app/).
+
 ## Apps
 
 - [Holaplex](https://www.holaplex.com/) - Design and Host Your Metaplex NFT Storefront. ([Twitter](https://twitter.com/holaplex))
@@ -111,3 +113,4 @@
 - [Treat Toolbox](https://github.com/theskeletoncrew/treat-toolbox) - Generative NFT Utility for Candy Machine / Solana.
 - [What do you do with your stables on Solana? (2021)](https://twitter.com/Melt_Dem/status/1453127401848774658)
 - [Solana dev tips (2021)](https://twitter.com/exploresolands/status/1453155153343696896?s=28)
+- [Solend](https://solend.fi/) - Lend and borrow on Solana. ([GitHub](https://github.com/solendprotocol))

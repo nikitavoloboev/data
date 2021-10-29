@@ -256,3 +256,4 @@
 - [ML Mentorship: Some Q/A about RL (2021)](https://evjang.com/2021/07/30/rl-qa.html)
 - [RLs](https://github.com/StepNeverStop/RLs) - Reinforcement Learning Algorithms Based on PyTorch.
 - [DeepMind Alchemy environment](https://github.com/deepmind/dm_alchemy) - Meta-reinforcement learning benchmark.
+- [gym-hybrid](https://github.com/thomashirtz/gym-hybrid) - Collection of environment for reinforcement learning task possessing discrete-continuous hybrid action space.

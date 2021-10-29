@@ -379,3 +379,4 @@
 - [Wikipedia2Vec](https://wikipedia2vec.github.io/wikipedia2vec/) - Tool for learning vector representations of words and entities from Wikipedia. ([Code](https://github.com/wikipedia2vec/wikipedia2vec))
 - [Reflections on Foundation Models (2021)](https://crfm.stanford.edu/2021/10/18/reflections.html) ([Tweet](https://twitter.com/erikbryn/status/1451720985132945415))
 - [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy.
+- [Natural Language Processing Specialization Course](https://www.coursera.org/specializations/natural-language-processing) ([Tweet](https://twitter.com/LysandreJik/status/1453436693391060997))

@@ -25,3 +25,4 @@ I share music I liked on SoundCloud on [my profile](https://soundcloud.com/nikit
 
 - [PLYST](https://plylst.app/) - Create smart playlists for your Spotify library. ([Code](https://github.com/Shpigford/plylst))
 - [DiscoverWeekly.dev](https://discoverweekly.dev/) - Website to find music playlists made by devs.
+- [Song Sonar](https://songsonar.rocks/) - Smart Spotify playlist with new releases from artists you follow. ([Code](https://github.com/raffomania/songsonar))

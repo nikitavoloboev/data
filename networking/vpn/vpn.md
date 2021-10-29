@@ -47,3 +47,5 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Selecting and Hardening Remote Access VPN Solutions (2021)](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF) ([HN](https://news.ycombinator.com/item?id=28689570))
 - [kytan](https://github.com/changlan/kytan) - High Performance Peer-to-Peer VPN.
 - [vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces.
+- [1.1.1.1 for Families (2021)](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) ([HN](https://news.ycombinator.com/item?id=29024195))
+- [Setting Up 1.1.1.1 for Families on a Pi-Hole (2021)](https://uglyduck.ca/pihole-cloudflare/) ([HN](https://news.ycombinator.com/item?id=29034807))

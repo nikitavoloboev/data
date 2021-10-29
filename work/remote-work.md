@@ -14,6 +14,7 @@
 - [I don’t know if I would ever be able to readjust back to the non-remote-first office work. It just feels natural to hop to a plane (train, car) and get somewhere without skipping a beat of your work. To have it safely detached from the matters of physical presence and geography.](https://twitter.com/inazarova/status/1442751094111838208)
 - [The third founder with a remote team sharing the same story: An engineer they hired did great on the interviews but worked unexplainably slow day to day. When pairing: they worked fast. They stopped pairing: slowed down. Turns out, the person had a second job in all cases.](https://twitter.com/GergelyOrosz/status/1445854500443537414)
 - [Steve Jobs and I became close friends. We went for long walks at Castle Rock State Park, shared meals and wide-ranging conversations about life and design. We bounced ideas off each other. Sometimes he would start a conversation with "Here's a crazy idea...", and the idea would go back and forth and evolve into a serious discussion, or occasionally a workable design. Steve listened to me and challenged me. His support at Apple allowed me to made a difference in the world](https://focusmark.hashnode.dev/what-worries-me-about-remote-work)
+- [Linear does nice all team bake/cook together over zoom once a quarter](https://twitter.com/karrisaarinen/status/1453821275307077646)
 
 ## Links
 
@@ -135,3 +136,4 @@
 - [WorkAdventure](https://workadventu.re/) - Collaborative web application (virtual office) presented as a 16-bit RPG video game. ([Code](https://github.com/thecodingmachine/workadventure))
 - [Volley](https://www.volleyapp.com/) - Async video messaging built for remote work.
 - [Best way to structure income when switching tax residency often (2021)](https://twitter.com/andreasklinger/status/1451160171699441670)
+- [Remote-first work is taking over the rich world – research hints at why (2021)](https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world) ([HN](https://news.ycombinator.com/item?id=29034159))

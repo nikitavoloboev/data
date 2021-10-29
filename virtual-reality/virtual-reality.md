@@ -6,6 +6,10 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 
 - [Lambda1VR](https://github.com/DrBeef/Lambda1VR) - Port of the Xash3D-FWGS Half Life Engine to Oculus Quest.
 
+## Notes
+
+- [It’s only a metaverse if it’s decentralized and trustless, otherwise it’s just sparkling virtual reality.](https://twitter.com/max_hodak/status/1446651117899694083)
+
 ## Links
 
 - [Glen Keane – Step into the Page](https://www.youtube.com/watch?v=GSbkn6mCfXE)
@@ -45,3 +49,6 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [The metaverse is bad, sorry (2021)](https://www.theatlantic.com/technology/archive/2021/10/facebook-metaverse-name-change/620449/) ([Tweet](https://twitter.com/ibogost/status/1451291837650673665))
 - [Pimax](https://pimax.com/) - VR Headset | Virtual Reality Equipment. ([Twitter](https://twitter.com/pimaxofficial)) ([12k Reality Series](https://twitter.com/kentbye/status/1452740892708667393))
 - [Voices of VR Podcast](http://voicesofvr.com/)
+- [Facebook Connect 2021](https://www.youtube.com/watch?v=0294iXEPO4Y)
+- [Facebook Meta](https://about.facebook.com/meta/) ([HN](https://news.ycombinator.com/item?id=29029317)) ([Founder's Letter](https://about.fb.com/news/2021/10/founders-letter/))
+- [Interview with Mark Zuckerberg about the Metaverse (2021)](https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/) ([HN](https://news.ycombinator.com/item?id=29032196))
