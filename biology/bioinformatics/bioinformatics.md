@@ -166,3 +166,4 @@
 - [Viv](https://github.com/hms-dbmi/viv) - Multiscale visualization of high-resolution multiplexed bioimaging data on the web.
 - [PHATE](https://github.com/KrishnaswamyLab/PHATE) - Visualizing Transitions and Structure for Biological Data Exploration.
 - [Artificial intelligence reveals nuclear pore complexity (2021)](https://www.biorxiv.org/content/10.1101/2021.10.26.465776v1) ([Tweet](https://twitter.com/jankosinski/status/1453530872427253765))
+- [BioNix](https://github.com/PapenfussLab/bionix) - Functional highly reproducible bioinformatics pipelines.
