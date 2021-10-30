@@ -222,6 +222,7 @@
 - [React InfiniteGrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/react-infinitegrid) - React component that can arrange items infinitely according to the type of grids.
 - [React-Location](https://github.com/tannerlinsley/react-location) - Enterprise Client-Side Routing for React. ([Docs](https://react-location.tanstack.com/docs/overview))
 - [tldraw/core](https://github.com/tldraw/core) - TLDraw core renderer and utilities.
+- [React Freeze](https://github.com/software-mansion-labs/react-freeze) - Prevent React component subtrees from rendering.
 
 ## Links
 

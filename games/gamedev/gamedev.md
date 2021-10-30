@@ -208,3 +208,4 @@
 - [Getting to the bottom of web map performance](https://bdon.org/blog/web-map-performance/)
 - [About Halo game's backend (2021)](https://cleverheap.com/posts/about-halo-backend/)
 - [Spring-It-On: The Game Developer's Spring-Roll-Call (2021)](https://theorangeduck.com/page/spring-roll-call#)
+- [apecs](https://github.com/jonascarpay/apecs) - Fast, type driven, extensible ECS for game development.

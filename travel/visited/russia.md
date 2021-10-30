@@ -319,3 +319,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Тихон Дзядко — о клейме «иноагента», «крыше» Медведева и будущем журналистики (2021)](https://www.youtube.com/watch?v=Dw_sSScSmSQ)
 - [Книжные памятники — собрание ценных изданий](https://kp.rusneb.ru/)
 - [НЭБ](https://rusneb.ru/) - Национальная электронная библиотека.
+- [Почему в России ТАКАЯ власть? Государство в двух словах. (2021)](https://www.youtube.com/watch?v=65YBwgOPrSE)

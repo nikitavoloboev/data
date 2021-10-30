@@ -49,6 +49,7 @@
 - [cli](https://github.com/cavaliergopher/cli) - Expressive Args for Go.
 - [mow.cli](https://github.com/jawher/mow.cli) - Versatile library for building CLI applications in Go.
 - [term](https://github.com/pkg/term) - Manages POSIX terminals.
+- [opts](https://github.com/jpillora/opts) - Building frictionless command-line interfaces.
 
 ## Test
 

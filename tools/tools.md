@@ -114,6 +114,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Typeform](https://www.typeform.com/) - Forms & surveys for the people.
 - [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
 - [Minymon](https://www.minymon.com/) - Cute and helpful pets for your website.
+- [Centered](https://www.centered.app/) - Flow Music & automated Productivity Coaching, Mono-Tasking, Do-Not-Disturb.
 - [Threads](https://threads.com/) - Empowers teams to easily share, discuss, and make decisions no matter where they are.
 - [Typedream](https://typedream.com/) - No-code site builder, easy as Notion, pretty as Webflow.
 - [Diagram generation tool](https://www.diagram.codes/) ([HN](https://news.ycombinator.com/item?id=21615978))

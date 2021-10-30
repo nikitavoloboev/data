@@ -46,6 +46,10 @@
 - [Threepenny-GUI](https://github.com/HeinrichApfelmus/threepenny-gui) - GUI framework that uses the web browser as a display.
 - [Monomer](https://github.com/fjvallarino/monomer) - Easy to use, cross platform, GUI library for writing Haskell applications.
 
+## ML
+
+- [convoluted](https://github.com/jonascarpay/convoluted) - Dependently typed convolutional neural networks.
+
 ## Other
 
 - [generic-lens](https://github.com/kcsongor/generic-lens) - Generically derive traversals, lenses, and prisms.
@@ -182,3 +186,4 @@
 - [Hkgr](https://github.com/juhp/hkgr) - Tool for making releases of Haskell packages on Hackage.
 - [haskell-docs-cli](https://github.com/lazamar/haskell-docs-cli) - Allows you to perform Hoogle searches and to navigate Hackage documentation from the command line.
 - [hs-nix-template](https://github.com/utdemir/hs-nix-template) - Haskell project template that uses Nix and comes with cabal-install, ghcid, ormolu, haskell-language-server and more.
+- [Template for Haskell + Nix projects](https://github.com/jonascarpay/template-haskell)

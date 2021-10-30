@@ -334,3 +334,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Niftyswap](https://github.com/0xsequence/niftyswap) - Decentralized swap protocol for ERC-1155 tokens, inspired by Uniswap.
 - [Origin](https://github.com/application-research/origin) - Fast web3 application toolkit.
 - [EVM Shell](https://github.com/tintinweb/evm-shell) - Hands-on interactive EVM repl/shell. Low-level ethereum virtual machine inspection.
+- [zkml core](https://github.com/zk-ml/demo) - Truly private machine learning, with zk-SNARKs and blockchain.

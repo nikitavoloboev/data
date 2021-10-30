@@ -428,3 +428,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Why did Dostoyevsky write Crime and Punishment? (2021)](https://www.theatlantic.com/magazine/archive/2021/11/dostoyevsky-crime-punishment-birmingham-sinner-saint/620175/) ([HN](https://news.ycombinator.com/item?id=28975061))
 - [Manning Deal of the Day](https://www.manning.com/dotd)
 - [So you want to write a technical book (2021)](http://terathon.com/blog/so-you-want-to-write-a-technical-book/) ([HN](https://news.ycombinator.com/item?id=29022499))
+- [Ytalki](https://ytalki.com/) - Find books in a foreign language according to your language level.

@@ -67,3 +67,5 @@
 - [pg2kafka](https://github.com/blendle/pg2kafka) - Ship changes in Postgres to Kafka.
 - [Issues we've encountered while building a Kafka based data processing pipeline (2021)](https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d) ([HN](https://news.ycombinator.com/item?id=28903614))
 - [josef](https://github.com/joshrotenberg/josef) - Process Kafka streams with Clojure Transducers.
+- [Kafka Streams in Scala (2021)](https://www.youtube.com/watch?v=MYTFPTtOoLs)
+- [Kafka Streams 101 (2021)](https://blog.rockthejvm.com/kafka-streams/)

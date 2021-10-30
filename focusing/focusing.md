@@ -91,4 +91,3 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Laziness Does Not Exist (2018)](https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01) ([HN](https://news.ycombinator.com/item?id=28574627))
 - [Every productivity thought I've ever had, as concisely as possible (2018)](https://guzey.com/productivity/)
 - [Oliver Burkeman's Advice for Time Management (2021)](https://www.theatlantic.com/family/archive/2021/08/oliver-burkeman-advice-time-productivity/619723/)
-- [Centered](https://www.centered.app/) - Flow Music & automated Productivity Coaching, Mono-Tasking, Do-Not-Disturb.

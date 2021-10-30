@@ -39,6 +39,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Anya Taylor-Joy on 90's Nostalgia, Going Barefoot, and "Tiny Dancer" | Ask Me Anything (2021)](https://www.youtube.com/watch?v=mKdAsymo9Lk)
 - [Full Elon Musk Interview CodeCon (2021)](https://www.youtube.com/watch?v=ESIjxVudERY)
 - [Notion interview with Alan Kay: On context and catalysts of personal computing (2021)](https://www.notion.so/blog/alan-kay)
+- [Бардаш. Драки с женой и ее измена, отношения с Лободой, Кузьма, Дудь, Баста. В гостях у Гордона (2021)](https://www.youtube.com/watch?v=eZMGNk4tt6M)
 
 ## Interesting bios
 

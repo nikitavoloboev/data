@@ -345,6 +345,7 @@
 - [ViewCondition](https://github.com/tokijh/ViewCondition) - Super sweet syntactic sugar for SwiftUI.View initializers.
 - [SwiftUI Layout Guides](https://github.com/tgrapperon/swiftui-layout-guides) - Micro-library exposes UIKit's layout margins and readable content guides to SwiftUI.
 - [SnapToScroll](https://github.com/swiftui-library/hstack-snap-to-scroll) - Easy-to-use HStack that snaps to elements on scroll.
+- [CodeEditor](https://github.com/ZeeZide/CodeEditor) - SwiftUI TextEditor View with syntax highlighting using Highlight.js.
 
 ## Test
 

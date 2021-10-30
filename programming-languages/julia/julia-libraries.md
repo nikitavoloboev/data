@@ -129,6 +129,7 @@
 - [Genie](https://github.com/GenieFramework/Genie.jl) - Highly productive Julia web framework. ([Docs](https://genieframework.github.io/Genie.jl/dev/))
 - [Elixir for AWS Lambda](https://github.com/amolenaar/elixir_lambda)
 - [Diana.jl](https://github.com/neomatrixcode/Diana.jl) - GraphQL for Julia.
+- [WebAPI.jl](https://github.com/eliascarv/WebAPI.jl) - Abstraction of two Julia packages: HTTP.jl and JSON3.jl. These abstractions allow you to develop APIs in Julia in a simpler and more readable way.
 
 ## Test
 

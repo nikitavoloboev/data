@@ -257,3 +257,4 @@
 - [RLs](https://github.com/StepNeverStop/RLs) - Reinforcement Learning Algorithms Based on PyTorch.
 - [DeepMind Alchemy environment](https://github.com/deepmind/dm_alchemy) - Meta-reinforcement learning benchmark.
 - [gym-hybrid](https://github.com/thomashirtz/gym-hybrid) - Collection of environment for reinforcement learning task possessing discrete-continuous hybrid action space.
+- [Simple PyTorch Implementations of Deep RL Algorithms for Continuous Control Research](https://github.com/jakegrigsby/deep_control)
