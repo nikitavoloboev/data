@@ -83,3 +83,4 @@
 - [Transit Recovery](https://transitrecovery.com/) - Track restoration of transit service and ridership across the U.S.
 - [List of US amendments that were proposed but never ratified](https://twitter.com/radicalpragmat1/status/1450514588005457920)
 - [How American Billionaires Pass Wealth to Heirs Tax-Free (2021)](https://www.bloomberg.com/features/how-billionaires-pass-wealth-to-heirs-tax-free-2021/) ([HN](https://news.ycombinator.com/item?id=29001788))
+- [Internal Revenue Service (IRS)](https://www.irs.gov/) - Responsible for collecting taxes and administering the Internal Revenue Code.
