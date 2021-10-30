@@ -140,3 +140,4 @@
 - [ZetaSQL](https://github.com/google/zetasql) - Analyzer Framework for SQL.
 - [SQL for Distributed Systems (2021)](https://www.babbling.fish/elt-cookbook-sql/) ([HN](https://news.ycombinator.com/item?id=28834117))
 - [sqlcommenter](https://google.github.io/sqlcommenter/) - Suite of middlewares/plugins that enable your ORMs to augment SQL statements. ([Code](https://github.com/google/sqlcommenter))
+- [What is a slow SQL query? (2021)](https://postgres.ai/blog/20210909-what-is-a-slow-sql-query)

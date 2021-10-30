@@ -151,3 +151,4 @@
 - [Atomizer](https://github.com/contrast-zone/atomizer) - S-expression visualization tool.
 - [Interim](https://github.com/eudoxia0/interim) - Statically-typed, low-level dialect of Lisp featuring compile-time, GC-free memory management.
 - [Why Lisp? (2015)](http://blog.rongarret.info/2015/05/why-lisp.html) ([HN](https://news.ycombinator.com/item?id=29006172))
+- [Autumn Lisp Game Jam 2021 Postmortem](https://wiki.alopex.li/ALGJ2021Postmortem)

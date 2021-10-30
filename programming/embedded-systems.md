@@ -137,3 +137,4 @@
 - [Rusty High-speed Probe](https://github.com/probe-rs/hs-probe) - Open hardware probe for the Serial Wire Debug (SWD) and JTAG protocol.
 - [Rust on Espressif chips (2021)](https://mabez.dev/blog/posts/esp-rust-18-10-2021/) ([HN](https://news.ycombinator.com/item?id=29000870))
 - [Why Embedded Software Development is Harder (2021)](https://beza1e1.tuxen.de/embedded.html)
+- [Async on Embedded: Present & Future (2021)](https://tweedegolf.nl/blog/63/async-on-embedded-present-and-future)

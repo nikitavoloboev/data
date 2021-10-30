@@ -336,3 +336,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [EVM Shell](https://github.com/tintinweb/evm-shell) - Hands-on interactive EVM repl/shell. Low-level ethereum virtual machine inspection.
 - [zkml core](https://github.com/zk-ml/demo) - Truly private machine learning, with zk-SNARKs and blockchain.
 - [Sword](https://github.com/Sword-Smith/Sword) - Declarative language for expressing fully-collateralized financial contracts.
+- [wETH](https://weth.io/) - ERC20 tradable version of ETH.

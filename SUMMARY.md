@@ -582,6 +582,7 @@
     - [France](travel/visited/france.md)
     - [Korea](travel/visited/korea.md)
     - [Greece](travel/visited/greece.md)
+    - [Portugal](travel/visited/portugal.md)
     - [Kazakhstan](travel/visited/kazakhstan.md)
     - [Europe](travel/visited/europe.md)
   - [Cities](travel/cities.md)

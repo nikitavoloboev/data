@@ -90,3 +90,4 @@
 - [Embracing Infinite Loops with Ruby and Polyphony (2021)](https://noteflakes.com/articles/2021-10-14-embracing-infinite-loops)
 - [A Compositional Approach to Optimizing the Performance of Ruby Apps (2021)](https://noteflakes.com/articles/2021-10-05-a-compositional-approach-to-ruby-performance)
 - [Rufo](https://github.com/ruby-formatter/rufo) - Ruby Formatter.
+- [Async Ruby (2021)](https://brunosutic.com/blog/async-ruby)

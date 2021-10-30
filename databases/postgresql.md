@@ -346,3 +346,6 @@
 - [Building a recommendation engine inside Postgres with Python and Pandas (2020)](https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python) ([HN](https://news.ycombinator.com/item?id=29005863))
 - [postguard](https://github.com/andywer/postguard) - Statically validate Postgres SQL queries in JS / TS code and derive schemas.
 - [Babelfish for PostgreSQL](https://babelfishpg.org/) - SQL Server to Postgres translator. ([Article](https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/)) ([HN](https://news.ycombinator.com/item?id=29031116))
+- [How partial, covering, and multicolumn indexes may slow down UPDATEs in PostgreSQL (2021)](https://postgres.ai/blog/20211029-how-partial-and-covering-indexes-affect-update-performance-in-postgresql)
+- [Useful queries to analyze PostgreSQL lock trees (a.k.a. lock queues) (2021)](https://postgres.ai/blog/20211018-postgresql-lock-trees)
+- [Zero-downtime Postgres schema migrations need this: lock_timeout and retries (2021)](https://postgres.ai/blog/20210923-zero-downtime-postgres-schema-migrations-lock-timeout-and-retries)

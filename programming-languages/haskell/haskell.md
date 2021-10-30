@@ -329,3 +329,4 @@
 - [Tuning Haskell RTS for Kubernetes (2021)](https://blog.noredink.com/post/666020751977168896/tuning-haskell-rts-for-kubernetes-part-1)
 - [Type-checking plugins, Part I: Why write a type-checking plugin? (2021)](https://www.tweag.io/blog/2021-10-21-tcplugins-1/)
 - [Ode to a Streaming ByteString Or: Lazy I/O without Shooting Yourself in the Foot (2021)](https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html) ([HN](https://news.ycombinator.com/item?id=29007035))
+- [Dont Worry Be Happy (2021)](https://blog.cofree.coffee/2021-10-29-dont-worry-be-happy/) ([Lobsters](https://lobste.rs/s/d2f3ze/dont_worry_be_happy))

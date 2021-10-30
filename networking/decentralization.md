@@ -103,3 +103,4 @@
 - [web3 Policy - Andreessen Horowitz](https://a16z.com/web3-policy/)
 - [A Legal Framework for Decentralized Autonomous Organizations (2021)](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) ([Tweet](https://twitter.com/milesjennings/status/1453080226179608577))
 - [What Even Is A DAO (2021)](https://www.youtube.com/watch?v=IooTahsgXTs)
+- [Chris Dixon and Naval Ravikant — The Wonders of Web3, How to Pick the Right Hill to Climb, Finding the Right Amount of Crypto Regulation, Friends with Benefits, and the Untapped Potential of NFTs (2021)](https://overcast.fm/+KebvA5eGA)

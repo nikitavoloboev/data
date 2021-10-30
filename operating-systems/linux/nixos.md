@@ -40,6 +40,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configurations.
 - [Julius Bruijn](https://github.com/pimeys/nixos)
 - [Michael Lingelbach](https://github.com/mjlbach/nix-dotfiles)
+- [Thiago Okada](https://github.com/thiagokokada/nix-configs)
 - [Pablo Corral](https://github.com/pinpox/nixos)
 
 ## Nix configs (macOS)
@@ -159,3 +160,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [nix-simple-deploy](https://github.com/misuzu/nix-simple-deploy) - Deploy software or an entire NixOS system configuration to another NixOS system.
 - [Flying Circus NixOS Platform](https://github.com/flyingcircusio/fc-nixos)
 - [Low-footprint NixOS images](https://github.com/lourkeur/miniguest)
+- [nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS.

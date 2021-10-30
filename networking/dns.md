@@ -142,3 +142,4 @@
 - [Bob Wallet](https://bobwallet.io/) - Desktop application for DNS management and name auctions on Handshake. ([Code](https://github.com/kyokan/bob-wallet))
 - [shakedex](https://github.com/kurumiimari/shakedex) - Decentralized exchange for Handshake names.
 - [LLMNR, Multicast DNS and names on your LAN (2021)](https://www.eiman.tv/blog/posts/lannames/)
+- [Google Public DNS](https://dns.google/)

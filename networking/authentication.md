@@ -167,3 +167,4 @@
 - [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless)
 - [Single sign-on: What we learned during our identity alpha (2021)](https://gds.blog.gov.uk/2021/10/19/single-sign-on-what-we-learned-during-our-identity-alpha/) ([HN](https://news.ycombinator.com/item?id=28924300))
 - [OAuth “Sign In With Google” in a WkWebView (2021)](https://cnr.sh/essays/google-oauth-wkwebview)
+- [Using Kerberos for Authentication Relay Attacks (2021)](https://googleprojectzero.blogspot.com/2021/10/using-kerberos-for-authentication-relay.html)

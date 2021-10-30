@@ -2,6 +2,8 @@
 
 Knowledge is knowing where the answers might lie. Solving problems is knowing how to apply the knowledge you have to solve a thing.
 
+Elon Musk has a [great 5-step engineering process to solve technical problems](https://twitter.com/jeff_weinstein/status/1454518683653459968).
+
 I like to be methodical when approaching and solving problems I have.
 
 For me solving a problem usually involves going through these four steps:
