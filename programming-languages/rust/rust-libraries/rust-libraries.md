@@ -352,6 +352,7 @@
 - [ergo-pin](https://github.com/Nemo157/ergo-pin-rs) - Ergonomic stack pinning for Rust.
 - [duang](https://github.com/xiaoniu-578fa6bff964d005/duang) - Use macro to provide default parameter and named parameter in Rust.
 - [self_cell](https://github.com/Voultapher/self_cell) - Safe-to-use proc-macro-free self-referential structs in stable Rust.
+- [impls](https://github.com/nvzqz/impls) - Rust macro to determine if a type implements a logical trait expression.
 
 ## Math
 
