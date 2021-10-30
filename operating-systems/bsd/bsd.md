@@ -79,3 +79,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [FreeBSD Audio (2021)](https://meka.rs/blog/2021/10/12/freebsd-audio/) ([HN](https://news.ycombinator.com/item?id=28850513))
 - [OpenBSD 7.0 (2021)](https://www.openbsd.org/70.html) ([HN](https://news.ycombinator.com/item?id=28862439))
 - [How BSD Authentication Works (2021)](https://blog.lambda.cx/posts/how-bsd-authentication-works/)
+- [OpenBSD: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/) ([HN](https://news.ycombinator.com/item?id=29037108))

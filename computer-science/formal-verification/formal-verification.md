@@ -86,3 +86,6 @@
 - [SMACK](https://github.com/smackers/smack) - Software Verifier and Verification Toolchain. ([Web](http://smackers.github.io/))
 - [A Tool for Producing Verified, Explainable Proofs Thesis (2021)](https://www.edayers.com/thesis/) ([Code](https://github.com/EdAyers/lean-humanproof-thesis))
 - [Cogent: uniqueness types and certifying compilation (2021)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/cogent-uniqueness-types-and-certifying-compilation/47AC86F02534818B95A56FA1A283A0A6) ([Tweet](https://twitter.com/kamatsu8/status/1453322917853470720))
+- [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/) - Tutorial explaining the mechanics of the STARK proof system. ([HN](https://news.ycombinator.com/item?id=29026311)) ([Code](https://github.com/aszepieniec/stark-anatomy))
+- [Kind](http://uwu.tech/App.Kind) - Minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. ([Code](https://github.com/kind-lang/Kind))
+- [Beyond inductive datatypes: exploring Self types](https://github.com/kind-lang/Kind/blob/master/blog/1-beyond-inductive-datatypes.md)

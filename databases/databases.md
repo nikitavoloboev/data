@@ -25,6 +25,7 @@
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [Code](https://github.com/scylladb/scylla) ([Scylla University](https://university.scylladb.com/))
 - [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database. ([Web](https://janusgraph.org/)) ([HN](https://news.ycombinator.com/item?id=27762109))
 - [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System. ([HN](https://news.ycombinator.com/item?id=24531085)) ([Playing With DuckDB](https://www.turtle-techies.com/playing-with-duck-db/)) ([5 minute intro](https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/)) ([Web](https://duckdb.org/))
+- [DuckDB-Wasm](https://duckdb.org/2021/10/29/duckdb-wasm.html) - Efficient Analytical SQL in the Browser. ([HN](https://news.ycombinator.com/item?id=29039235))
 - [sled](https://github.com/spacejam/sled) - Modern embedded database. ([sledtool - CLI tool to work with Sled key-value databases](https://github.com/vi/sledtool))
 - [Genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database, works with Bolt, Badger and memory. ([Web](https://genji.dev/))
 - [Atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
@@ -448,7 +449,7 @@
 - [Pelikan](https://github.com/twitter/pelikan) - Twitter's unified cache backend.
 - [Relational Databases Aren’t Dinosaurs, They’re Sharks (2021)](https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/)
 - [The One Crucial Difference Between Spanner and CockroachDB (2021)](https://authzed.com/blog/prevent-newenemy-cockroachdb/)
-- [TAO: Facebook’s Distributed Data Store for the Social Graph (2021)](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
+- [TAO: Facebook’s Distributed Data Store for the Social Graph (2021)](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html) ([HN](https://news.ycombinator.com/item?id=29045443))
 - [Can you explain how a database index works in an interview? (2017)](https://news.ycombinator.com/item?id=14498892)
 - [How Time Series Databases Work—and Where They Don't (2021)](https://www.honeycomb.io/blog/time-series-database/) ([HN](https://news.ycombinator.com/item?id=28901063))
 - [Awesome Database Development](https://github.com/huachaohuang/awesome-dbdev)

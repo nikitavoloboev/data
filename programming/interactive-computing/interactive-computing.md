@@ -32,3 +32,4 @@
 - [Dynamicland](https://dynamicland.org/) - Our mission is to incubate a humane dynamic medium whose full power is accessible to all people. ([HN](https://news.ycombinator.com/item?id=26725370))
 - [Enso](https://enso.org/) - Hybrid visual and textual functional programming. ([Code](https://github.com/enso-org/enso)) ([HN](https://news.ycombinator.com/item?id=27748738))
 - [In search of a dynamic medium (2021)](https://www.dgsiegel.net/articles/in-search-of-a-dynamic-medium)
+- [Ossia](https://ossia.io/) - Open Software System for Interactive Applications. ([Code](https://github.com/ossia/score))

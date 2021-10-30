@@ -14,6 +14,10 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Honeycode](https://www.honeycode.aws/) - Build Web & Mobile Apps Without Writing Code. ([Announcement](https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/)) ([HN](https://news.ycombinator.com/item?id=23633110))
 - [AWS App Runner](https://aws.amazon.com/apprunner/) - Fully managed container application service.
 
+## Notes
+
+- [If you have an S3 bucket with zero files in it, it doesn’t incur storage charges. You can put a lifecycle rule on an S3 bucket that will automatically expire files after say 30 days.](https://lobste.rs/s/w36hds/packing_encrypting_uploading)
+
 ## Links
 
 - [AWS in plain English](https://www.expeditedssl.com/aws-in-plain-english) - Great reference.

@@ -111,3 +111,4 @@
 - [Testing Without Mocks: A Pattern Language (2018)](https://www.jamesshore.com/v2/blog/2018/testing-without-mocks)
 - [FlakyBot](https://www.flakybot.com/) - Flaky test management. ([HN](https://news.ycombinator.com/item?id=29028681))
 - [Awesome Testing Courses & Tutorials](https://github.com/upgundecha/awesome-testing-courses)
+- [Interpreting A/B test results: false positives and statistical significance (2021)](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) ([HN](https://news.ycombinator.com/item?id=29042562))

@@ -107,3 +107,5 @@
 - [NBER](https://www.nber.org/) - National Bureau of Economic Research.
 - [What caused all the supply chain bottlenecks? (2021)](https://twitter.com/typesfast/status/1453753924960219145) ([HN](https://news.ycombinator.com/item?id=29029825))
 - [Indexing the creator economy (2021)](https://stripe.com/blog/creator-economy) ([Tweet](https://twitter.com/edwinwee/status/1451188399629500422))
+- [Collection of economic resources introducing neoclassical and Austrian economics](https://github.com/Sword-Smith/economics)
+- [Financial innovations brought by technology (2021)](https://bam.kalzumeus.com/archive/financial-innovation-is-happening/) ([HN](https://news.ycombinator.com/item?id=29039345))

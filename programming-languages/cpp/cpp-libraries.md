@@ -263,6 +263,8 @@
 - [MatX](https://github.com/NVIDIA/MatX) - Efficient C++17 GPU numerical computing library with Python-like syntax.
 - [oneMKL](https://github.com/oneapi-src/oneMKL) - Open-source implementation of the oneMKL Data Parallel C++ (DPC++) interface according to the oneMKL specification.
 - [mathiu.cpp](https://github.com/BowenFu/mathiu.cpp) - Simple computer algebra system in C++.
+- [Avendish](https://github.com/celtera/avendish) - Declarative, non-intrusive, compile-time C++ reflection.
+- [libossia](https://github.com/ossia/libossia) - Modern C++, cross-environment distributed object model for creative coding.
 
 ## Links
 

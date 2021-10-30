@@ -106,3 +106,4 @@
 - [tfschema-bindgen](https://github.com/gbrigandi/tfschema-bindgen) - Generate (de)serialization Rust code for Terraform Schema.
 - [Terraform AWS IAM System User](https://github.com/cloudposse/terraform-aws-iam-system-user) - Terraform Module to Provision a Basic IAM System User Suitable for CI/CD Systems.
 - [Terraform in Action Book (2021)](https://www.manning.com/books/terraform-in-action)
+- [Creating my personal cloud with HashiCorp (2021)](https://cgamesplay.com/post/2021/10/27/creating-my-personal-cloud-with-hashicorp/) ([HN](https://news.ycombinator.com/item?id=29020460))

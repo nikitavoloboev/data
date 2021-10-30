@@ -149,3 +149,4 @@
 - [How to have civil discourse without flamebait](https://news.ycombinator.com/item?id=27161491)
 - [Manipulation versus Communication (2021)](http://charltonteaching.blogspot.com/2021/09/what-is-meaning-of-establishment.html) ([HN](https://news.ycombinator.com/item?id=28890584))
 - [Ask HN: I'm making like 0 friends at college, how to fix it? (2021)](https://news.ycombinator.com/item?id=28968506)
+- [Programmer's emotions (2021)](https://blog.sidebits.tech/programmers-emotions/) ([HN](https://news.ycombinator.com/item?id=29047689))

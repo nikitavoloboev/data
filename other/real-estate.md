@@ -19,3 +19,4 @@
 - [How To Make Housing More Affordable (2021)](https://www.hoover.org/research/how-make-housing-more-affordable) ([HN](https://news.ycombinator.com/item?id=28654849))
 - [Urbyo](https://urbyo.com/en) - Become a property owner with Urbyo. It's safe. It's easy. It's fair.
 - [How to be a real estate operator (2021)](https://twitter.com/iononrecourse/status/1453497446634561542)
+- [U.S. house prices are rising exponentially faster than income (2021)](https://www.realestatewitch.com/house-price-to-income-ratio-2021/) ([HN](https://news.ycombinator.com/item?id=29046046))

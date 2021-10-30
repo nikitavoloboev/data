@@ -99,3 +99,5 @@
 - [Using AI to accelerate scientific discovery - Demis Hassabis (2021)](https://www.youtube.com/watch?v=sm-VkgVX-2o)
 - [Just Ask for Generalization (2021)](https://evjang.com/2021/10/23/generalization.html) ([Tweet](https://twitter.com/karpathy/status/1452312576331862023))
 - [Short Story on AI: Forward Pass (2021)](http://karpathy.github.io/2021/03/27/forward-pass/) ([Tweet](https://twitter.com/karpathy/status/1452312582216376341))
+- [Solving Math Word Problems (2021)](https://openai.com/blog/grade-school-math/) ([HN](https://news.ycombinator.com/item?id=29042256))
+- [Training Verifiers to Solve Math Word Problems (2021)](https://arxiv.org/abs/2110.14168) ([Article](https://openai.com/blog/grade-school-math/)) ([HN](https://news.ycombinator.com/item?id=29042256))

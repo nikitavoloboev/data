@@ -600,6 +600,7 @@
   - [Pricing](business/pricing.md)
   - [Payroll](business/startups/payroll.md)
   - [Restaurants](business/restaurants.md)
+  - [DAOs](business/dao.md)
 - [Relationships](relationships/relationships.md)
   - [Seduction](relationships/seduction.md)
   - [Sex](relationships/sex.md)

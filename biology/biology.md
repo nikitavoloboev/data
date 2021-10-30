@@ -89,3 +89,5 @@
 - [Syllabus: Advanced Biological Statistics II (2018)](https://petrelharp.github.io/bio_610B/syllabus.html) ([Code](https://github.com/petrelharp/bio_610B))
 - [Short graduate population biology course](https://github.com/petrelharp/popbio)
 - [Analogies between Biology and Deep Learning (2021)](http://colah.github.io/notes/bio-analogies/) ([Tweet](https://twitter.com/ch402/status/1444769243568898048))
+- [Conception](https://conception.bio/) - Turning stem cells into human eggs. ([HN](https://news.ycombinator.com/item?id=29040823))
+- [OpenWorm](https://openworm.org/) - Open-source project dedicated to creating a virtual C. elegans nematode in a computer. ([Code](https://github.com/openworm/OpenWorm)) ([HN](https://news.ycombinator.com/item?id=29045198))
