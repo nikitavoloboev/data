@@ -123,3 +123,4 @@
 - [Planet Hunters TESS](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess) - Looking for planets using NASA data. ([Twitter](https://twitter.com/planethunters))
 - [Which stars can see Earth as a transiting exoplanet? (2020)](https://academic.oup.com/mnrasl/article/499/1/L111/5931805) ([HN](https://news.ycombinator.com/item?id=29019356))
 - [The Milky Way according to Anton Pannekoek](https://publicdomainreview.org/essay/marxist-astronomy-the-milky-way-according-to-anton-pannekoek)
+- [Ad Astra: The coming battle over space (2021)](https://harpers.org/archive/2021/11/ad-astra-the-coming-battle-over-space/) ([HN](https://news.ycombinator.com/item?id=29045286))

@@ -137,3 +137,5 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Carbon-neutrality is a tale: the race for renewables is burning Europe's forests (2021)](https://www.theguardian.com/world/2021/jan/14/carbon-neutrality-is-a-fairy-tale-how-the-race-for-renewables-is-burning-europes-forests) ([HN](https://news.ycombinator.com/item?id=28928738))
 - [The Ocean Cleanup Dream of Scooping Plastic From the Seas Is Still Alive (2021)](https://gizmodo.com/the-dream-of-scooping-plastic-from-the-ocean-is-still-a-1847890573) ([Tweet](https://twitter.com/mollytaft/status/1450521824941518855))
 - [Why longtermism is the world’s most dangerous secular credo (2021)](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
+- [Climate Realism (2021)](https://www.americanpurpose.com/blog/fukuyama/climate-realism/)
+- [Sustainable Energy without the Hot Air (Revised, Community Edition)](https://climate.lifeitself.us/without-hot-air/) ([HN](https://news.ycombinator.com/item?id=29056343))

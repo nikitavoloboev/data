@@ -26,6 +26,7 @@
 - [Whenever](https://github.com/javan/whenever) - Ruby gem that provides a clear syntax for writing and deploying cron jobs.
 - [Flipper](https://github.com/jnunemaker/flipper) - Beautiful, performant feature flags for Ruby.
 - [debug.rb](https://github.com/ruby/debug) - Debugging functionality for Ruby. ([Article](https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa))
+- [Async](https://github.com/socketry/async) - Composable asynchronous I/O framework for Ruby based on nio4r and timers.
 
 ## Links
 

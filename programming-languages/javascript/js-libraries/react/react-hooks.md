@@ -190,3 +190,4 @@ useEffect(() => {
 - [Hooks Architec](https://github.com/blockmatic/hooks-architecture) - Simple and powerful project architecture for React and React Native apps.
 - [Linear's Hooks](https://twitter.com/tommoor/status/1451331907707236368)
 - [Mental model for useEffect](https://twitter.com/threepointone/status/1452346139487965186)
+- [Why you shouldn't put refs in a dependency array](https://epicreact.dev/why-you-shouldnt-put-refs-in-a-dependency-array/)

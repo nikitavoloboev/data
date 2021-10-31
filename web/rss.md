@@ -115,3 +115,4 @@
 - [rss](https://github.com/rust-syndication/rss) - Rust library for serializing the RSS web content syndication format.
 - [RSS is wonderful (2021)](https://quakkels.com/posts/rss-is-wonderful/) ([HN](https://news.ycombinator.com/item?id=28967540)) ([Lobsters](https://lobste.rs/s/s68iid/rss_is_wonderful))
 - [splitflap](https://github.com/otherjoel/splitflap) - RSS / Atom feed generation library for Racket.
+- [The Arsse](https://thearsse.com/) - Clean & modern RSS server that doesn’t give you any crap. ([Code](https://github.com/mensbeam/arsse))

@@ -105,3 +105,5 @@
 - [Profiling Django App](https://kracekumar.com/post/profiling_django/) ([Lobsters](https://lobste.rs/s/04c6zh/three_tools_profile_django_app))
 - [Reactor](https://github.com/edelvalle/reactor) - Phoenix LiveView but for Django.
 - [Observing a Django backend with Honeycomb.io (2020)](https://www.yanglinzhao.com/posts/using-honeycomb/)
+- [django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Postgres trigger support integrated with Django models.
+- [django-pghistory](https://github.com/Opus10/django-pghistory) - Provides automated and customizable history tracking for Django models using Postgres triggers.

@@ -349,3 +349,4 @@
 - [How partial, covering, and multicolumn indexes may slow down UPDATEs in PostgreSQL (2021)](https://postgres.ai/blog/20211029-how-partial-and-covering-indexes-affect-update-performance-in-postgresql)
 - [Useful queries to analyze PostgreSQL lock trees (a.k.a. lock queues) (2021)](https://postgres.ai/blog/20211018-postgresql-lock-trees)
 - [Zero-downtime Postgres schema migrations need this: lock_timeout and retries (2021)](https://postgres.ai/blog/20210923-zero-downtime-postgres-schema-migrations-lock-timeout-and-retries)
+- [Encrypting Postgres Data at Rest in Kubernetes (2021)](https://blog.crunchydata.com/blog/encrypting-postgres-data-at-rest-in-kubernetes) ([HN](https://news.ycombinator.com/item?id=29057505))

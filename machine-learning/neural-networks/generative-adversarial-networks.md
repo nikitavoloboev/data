@@ -144,3 +144,4 @@
 - [GAN-Inversion Papers](https://github.com/PeterouZh/GAN-Inversion)
 - [Searching towards Class-Aware Generators for Conditional Generative Adversarial Networks (2020)](https://arxiv.org/abs/2006.14208) ([Code](https://github.com/PeterouZh/NAS_cGAN))
 - [Omni-GAN: On the Secrets of cGANs and Beyond (2021)](https://arxiv.org/abs/2011.13074) ([Code](https://github.com/PeterouZh/Omni-GAN-PyTorch))
+- [Helena Sarin: Why Bigger Isn’t Always Better With GANs And AI Art (2018)](https://www.artnome.com/news/2018/11/14/helena-sarin-why-bigger-isnt-always-better-with-gans-and-ai-art)

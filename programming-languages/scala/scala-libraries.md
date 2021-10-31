@@ -110,6 +110,7 @@
 - [Iron](https://github.com/Iltotore/iron) - Type constraint system for Scala. It allows creating type-level assertions, evaluable at compile time and/or runtime.
 - [ECScala](https://github.com/nicolasfara/ecscala) - ECS Scala framework.
 - [ZIO Akka Cluster](https://github.com/zio/zio-akka-cluster)
+- [Squants](https://github.com/typelevel/squants) - Scala API for Quantities, Units of Measure and Dimensional Analysis.
 
 ## Links
 

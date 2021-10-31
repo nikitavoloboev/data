@@ -292,6 +292,7 @@
 
 ## ML
 
+- [autograph](https://github.com/charles-r-earp/autograph) - Machine Learning Library for Rust.
 - [Neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
 - [Juice](https://github.com/spearow/juice) - Hacker's Machine Learning Engine.
 - [linfa](https://github.com/LukeMathWalker/linfa) - Rust machine learning framework.
@@ -1068,6 +1069,7 @@
 - [FastCDC](https://github.com/nlfiedler/fastcdc-rs) - Implements the "FastCDC" content defined chunking algorithm in pure Rust.
 - [whorl](https://github.com/mgattozzi/whorl) - Single file, std only, async Rust executor.
 - [threadpool](https://github.com/rust-threadpool/rust-threadpool) - Thread pool for running a number of jobs on a fixed set of worker threads.
+- [Mimalloc Rust](https://github.com/purpleprotocol/mimalloc_rust) - Rust wrapper over Microsoft's MiMalloc memory allocator.
 
 ## Cargo Plugins
 

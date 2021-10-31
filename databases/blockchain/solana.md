@@ -11,6 +11,7 @@ Diving into building dApps with Solana. Stake my SOL with [Shinobi Systems](http
 - [Sollectify](https://sollectify.com/) - Fast and easy to use NFT marketplace on Solana blockchain.
 - [Synthetify](https://synthetify.io/) - Decentralized synthetic assets exchange.
 - [Star Atlas](https://staratlas.com/) - Grand strategy game of space exploration, territorial conquest, political domination, and more.
+- [Break Solana Game](https://break.solana.com/) - Consists of a 3 parts: a web client frontend, a web server backend, and an on-chain Solana program. ([Code](https://github.com/solana-labs/break))
 
 ## Notes
 
@@ -115,3 +116,4 @@ Diving into building dApps with Solana. Stake my SOL with [Shinobi Systems](http
 - [Solana dev tips (2021)](https://twitter.com/exploresolands/status/1453155153343696896?s=28)
 - [Solend](https://solend.fi/) - Lend and borrow on Solana. ([GitHub](https://github.com/solendprotocol))
 - [Squads](https://sqds.io/) - One app for all your DAO needs. ([Twitter](https://twitter.com/squads_dapp))
+- [Program deploys in Solana](https://jstarry.notion.site/Program-deploys-29780c48794c47308d5f138074dd9838)

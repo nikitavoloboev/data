@@ -39,3 +39,4 @@
 - [Voxel Space](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code.
 - [fishdraw](https://fishdraw.glitch.me/) - Procedurally generated fish drawings. ([Code](https://github.com/LingDong-/fishdraw))
 - [Procedurally generating a rounded box mesh (2021)](https://wwwtyro.net/2021/09/24/rounded-box.html) ([HN](https://news.ycombinator.com/item?id=28677064)) ([Code](https://github.com/wwwtyro/rounded-box-figures))
+- [Constraint-Based Tile Generators (2021)](https://www.boristhebrave.com/2021/10/31/constraint-based-tile-generators/)

@@ -483,3 +483,5 @@
 - [Autocert](https://github.com/smallstep/autocert) - Kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers.
 - [Step Issuer](https://github.com/smallstep/step-issuer) - Certificate issuer for cert-manager using step certificates CA.
 - [Service Discovery in Kubernetes - Combining the Best of Two Worlds (2021)](https://iximiuz.com/en/posts/service-discovery-in-kubernetes/)
+- [LINSTOR](https://github.com/LINBIT/linstor-server) - High Performance Software-Defined Block Storage for container, cloud and virtualisation. Fully integrated with Docker, Kubernetes, Openstack, Proxmox etc.
+- [Piraeus Operator](https://github.com/piraeusdatastore/piraeus-operator) - Manages LINSTOR clusters in Kubernetes.

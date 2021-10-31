@@ -117,6 +117,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Deus](https://github.com/tupai-os/deus) - Portable kernel written in Rust.
 - [Funk](https://github.com/smimram/funk) - Functional kernel written in OCaml.
 - [liumOS](https://github.com/hikalium/liumos) - Toy operating system which supports NVDIMM natively.
+- [Tofita](https://github.com/GreenteaOS/Tofita) - All-new kernel for the Greentea OS.
 
 ## Notes
 

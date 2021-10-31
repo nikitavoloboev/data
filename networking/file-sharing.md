@@ -84,3 +84,4 @@
 - [Bindle](https://github.com/deislabs/bindle) - Object Storage for Collections.
 - [Portal](https://github.com/landhb/portal) - Secure file transfer protocol, written in Rust.
 - [THRON](https://www.thron.com/en/) - Digital Content Management Software.
+- [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) - Open-source P2P-based Image and File Distribution System. ([Web](https://d7y.io/en-us/))

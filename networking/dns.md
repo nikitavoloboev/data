@@ -143,3 +143,4 @@
 - [shakedex](https://github.com/kurumiimari/shakedex) - Decentralized exchange for Handshake names.
 - [LLMNR, Multicast DNS and names on your LAN (2021)](https://www.eiman.tv/blog/posts/lannames/)
 - [Google Public DNS](https://dns.google/)
+- [dnstrace](https://github.com/rs/dnstrace) - DNS resolution tracing tool.
