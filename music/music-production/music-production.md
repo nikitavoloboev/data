@@ -124,7 +124,7 @@
 
 ## Links
 
-- [Get started making music](https://learningmusic.ableton.com/) ([HN](https://news.ycombinator.com/item?id=20965386)) ([HN 2](https://news.ycombinator.com/item?id=14299628))
+- [Get started making music](https://learningmusic.ableton.com/) ([HN](https://news.ycombinator.com/item?id=29055433))
 - [The Bare Maximum | Steve Lacy | TED](https://www.youtube.com/watch?v=SUnmrQfdYpg)
 - [NSynth Super](https://nsynthsuper.withgoogle.com/)
 - [Music concepts explained](https://www.youtube.com/playlist?list=PL-NzMNM2cyt-RYr-8YmF0yFVDwhdklaiT)

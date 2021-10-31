@@ -158,3 +158,4 @@
 - [Pocket load tester](https://github.com/vearutop/plt) - Scale curl requests, cousin of ab, siege, hey.
 - [How HTTP Keep-Alive can cause TCP race condition (2021)](https://iximiuz.com/en/posts/reverse-proxy-http-keep-alive-and-502s/)
 - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests.
+- [HTTP Server Online](https://github.com/EtherDream/http-server-online) - Start a local HTTP server without any tools, just open a web page. ([HN](https://news.ycombinator.com/item?id=29047269))
