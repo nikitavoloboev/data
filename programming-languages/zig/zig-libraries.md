@@ -15,6 +15,7 @@
 ## DB
 
 - [OkRedis](https://github.com/kristoff-it/zig-okredis) - Zero-allocation Client for Redis 6+.
+- [lmdb-zig](https://github.com/lithdew/lmdb-zig) - Lightweight, fully-featured, idiomatic cross-platform Zig bindings to Lightning Memory-Mapped Database (LMDB).
 
 ## Other
 

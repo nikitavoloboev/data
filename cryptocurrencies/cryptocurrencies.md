@@ -153,3 +153,4 @@ It's annoying that a lot of [people/projects use these distributed ledgers as po
 - [Dapper](https://www.meetdapper.com/) - Your account manager for all things Flow. ([Designing Dapper](https://medium.com/dapperlabs/designing-dapper-48c50fcfb063))
 - [Why Wallets Excite Me Again (2021)](https://ricburton.mirror.xyz/2FFEmghrC3_-jhQSRSIGr8s1LOmaJTEsdYFoxj4xKpQ) ([Tweet](https://twitter.com/ricburton/status/1452700629948764162))
 - [Matcha](https://matcha.xyz/) - Trade all DEXs at once. Finds you the best prices across exchanges and combines them into one trade. ([Twitter](https://twitter.com/matchaxyz))
+- [Staking Rewards](https://www.stakingrewards.com/) - Data provider for staking and crypto-growth tools.

@@ -53,3 +53,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Facebook Meta](https://about.facebook.com/meta/) ([HN](https://news.ycombinator.com/item?id=29029317)) ([Founder's Letter](https://about.fb.com/news/2021/10/founders-letter/)) ([Article](https://stratechery.com/2021/meta/))
 - [Interview with Mark Zuckerberg about the Metaverse (2021)](https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/) ([HN](https://news.ycombinator.com/item?id=29032196))
 - [The metaverse is bullshit (2021)](https://outline.com/DUdr8Y) ([HN](https://news.ycombinator.com/item?id=29045930))
+- [Billionaires See VR as a Way to Avoid Radical Social Change (2021)](https://www.wired.com/story/billionaires-use-vr-avoid-social-change/) ([Tweet](https://twitter.com/JoshuaPotash/status/1454128902687928331))

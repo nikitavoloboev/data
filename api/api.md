@@ -88,6 +88,7 @@
 - [WhatsApp Go](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API.
 - [Facebook Graph API SDK Go](https://github.com/huandu/facebook)
 - [Trello Go](https://github.com/adlio/trello) - Trello API wrapper for Go.
+- [Gumroad Node](https://github.com/noahbuscher/gumnode)
 - [LinkedIn Node](https://github.com/eilonmore/linkedin-private-api)
 - [Gophercloud Go](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
 - [AWS SDK Rust](https://github.com/rusoto/rusoto)

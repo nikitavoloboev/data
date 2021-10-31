@@ -73,3 +73,4 @@
 - [Why is standing more tiring than walking?](https://www.bbc.co.uk/programmes/w3ct1pqm) ([HN](https://news.ycombinator.com/item?id=27824885))
 - [Setups](https://setups.co/) - Repository of workspaces, items & tools from the creator community.
 - [Workspaces](https://www.workspaces.xyz/) - Bringing you inside the workspaces of inspiring creatives. Newsletter. ([Twitter](https://twitter.com/workspacesxyz))
+- [Best features of a perfect home office (2021)](https://twitter.com/patrick_oshag/status/1454421428632231939)

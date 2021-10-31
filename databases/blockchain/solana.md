@@ -114,3 +114,4 @@ Diving into building dApps with Solana. Stake my SOL with [Shinobi Systems](http
 - [What do you do with your stables on Solana? (2021)](https://twitter.com/Melt_Dem/status/1453127401848774658)
 - [Solana dev tips (2021)](https://twitter.com/exploresolands/status/1453155153343696896?s=28)
 - [Solend](https://solend.fi/) - Lend and borrow on Solana. ([GitHub](https://github.com/solendprotocol))
+- [Squads](https://sqds.io/) - One app for all your DAO needs. ([Twitter](https://twitter.com/squads_dapp))

@@ -3,6 +3,7 @@
 ## Notes
 
 - [Most cost-effective way (aka costs nothing) to get to work in the US is to get hired by a multinational Corp and after 1 year get an L visa and move to the US.](https://twitter.com/copyconstruct/status/1280953429527900160)
+- [US has exit tax when renouncing citizenship if net worth is $2m+ or high federal taxes or not compliant; easier to leave before triggering. If just leaving to live overseas, you still must file and pay USA subject to exclusions, treaties, credits, etc](https://twitter.com/nomadcapitalist/status/1454574254566019080)
 
 ## Links
 
