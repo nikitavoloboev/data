@@ -108,3 +108,4 @@
 - [SQLime](https://sqlime.org/) - Online SQLite playground for debugging and sharing SQL snippets. ([Code](https://github.com/nalgeon/sqlime)) ([HN](https://news.ycombinator.com/item?id=28669703))
 - [Implementing a graph database in SQLite](https://sqlite.org/draft/lang_with.html#rcex3)
 - [Comparing SQLite, DuckDB and Arrow (2021)](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/) ([HN](https://news.ycombinator.com/item?id=29010103))
+- [sqlite3 Rewritten in RiiR Rust](https://github.com/epilys/rsqlite3) ([Lobsters](https://lobste.rs/s/c5jotg/epilys_rsqlite3_sqlite3_rewritten_riir))

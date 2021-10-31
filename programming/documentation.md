@@ -123,3 +123,4 @@
 - [Q&A: How We Document Software Projects (2020)](https://embeddedartistry.com/blog/2020/06/08/qa-how-we-document-software-projects/)
 - [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works. ([Web](https://squidfunk.github.io/mkdocs-material/))
 - [Almanac for Public Documentation](https://get.almanac.io/for/public-documentation) - Let anyone suggest changes to technical & community docs.
+- [Computers can be understood (2020)](https://blog.nelhage.com/post/computers-can-be-understood/)

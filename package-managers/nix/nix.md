@@ -241,3 +241,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Replit - Faster Nix Repl Startup (2021)](https://blog.replit.com/nix-perf-improvements)
 - [Statix](https://github.com/nerdypepper/statix) - Lints and suggestions for the nix programming language. ([Reddit](https://www.reddit.com/r/NixOS/comments/qh47fz/statix_lints_and_suggestions_for_the_nix/))
 - [Cicero](https://github.com/input-output-hk/cicero) - Workflow execution engine. Workflow is a description of (dependent) steps using the Nix configuration language.
+- [Cross-compiling and Static-linking with Nix (2021)](https://functor.tokyo/blog/2021-10-20-nix-cross-static)

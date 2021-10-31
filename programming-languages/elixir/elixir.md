@@ -126,3 +126,4 @@
 - [Thousand Island](https://github.com/mtrudel/thousand_island) - Modern, pure Elixir socket server, inspired heavily by ranch. ([Talk](https://github.com/mtrudel/talks/blob/main/2020-01-Toronto-Elixir-Night-Thousand-Island.pdf))
 - [TodoApp with Elixir LiveView](https://github.com/elixir-desktop/desktop-example-app)
 - [Design Patterns in Elixir](https://github.com/joshnuss/design-patterns-in-elixir)
+- [ElixirConf 2021 - José Valim - Elixir 1.13](https://www.youtube.com/watch?v=ydjx2kKHzrM)

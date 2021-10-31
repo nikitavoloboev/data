@@ -478,3 +478,4 @@
 - [Codeamigo](https://codeamigo.dev/) - Byte-sized interactive coding tutorials. ([HN](https://news.ycombinator.com/item?id=29025401))
 - [Coding guidelines for an easier life (2021)](https://www.mcdermottroe.com/coding-guidlines-for-an-easier-life/)
 - [Simple Code, High Performance (2021)](https://www.youtube.com/watch?v=Ge3aKEmZcqY) ([HN](https://news.ycombinator.com/item?id=29045482))
+- [A developer's guide to programatically overcome fear of failure (2021)](https://www.pagerduty.com/blog/engineers-guide-on-the-importance-of-failure/) ([HN](https://news.ycombinator.com/item?id=29056215))

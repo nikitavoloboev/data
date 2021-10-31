@@ -91,7 +91,7 @@
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable.
 - [Rust CLI working group](https://github.com/rust-lang-nursery/cli-wg)
-- [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust.
+- [C2Rust](https://github.com/immunant/c2rust) - Migrate C code to Rust. ([Web](https://c2rust.com/))
 - [cargo-play](https://github.com/fanzeyi/cargo-play) - Tool to help you running your Rust code file without manually setting up a Cargo project.
 - [[cargo-]flamegraph](https://github.com/ferrous-systems/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes.
 - [Analysis of various tricky Rust code](https://github.com/dtolnay/case-studies)

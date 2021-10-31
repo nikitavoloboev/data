@@ -35,3 +35,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [binwrap](https://github.com/avh4/binwrap) - Distribute binaries via npm.
 - [version](https://github.com/bit101/version) - What version do I have of \_\_\_?
 - [rinstall](https://github.com/DanySpin97/rinstall) - Helper tool that installs software and additional data into the system.
+- [asdf](https://github.com/asdf-vm/asdf) - Manage multiple runtime versions with a single CLI tool, extendable via plugins.

@@ -67,6 +67,7 @@
 - [The longer you’re in the startup game the more you realize how big the gulf is between people who talk and people who execute.](https://twitter.com/yongfook/status/1449363950898876419)
 - [When a business model is well understood, we should be able to spend our time on what drives the metrics, not what they are.](https://twitter.com/evancharles/status/1450156809528889346)
 - [Startup ideas framework: What do you want that money can't buy?](https://twitter.com/maksim_s/status/1453818810851487771)
+- [Jeff Bezos’ advice for startups on how to spend their money: Pick the biggest problems and eliminate them one at a time.](https://twitter.com/JonErlichman/status/1454841337728090114)
 
 ## Links
 

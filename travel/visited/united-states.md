@@ -85,3 +85,4 @@
 - [List of US amendments that were proposed but never ratified](https://twitter.com/radicalpragmat1/status/1450514588005457920)
 - [How American Billionaires Pass Wealth to Heirs Tax-Free (2021)](https://www.bloomberg.com/features/how-billionaires-pass-wealth-to-heirs-tax-free-2021/) ([HN](https://news.ycombinator.com/item?id=29001788))
 - [Internal Revenue Service (IRS)](https://www.irs.gov/) - Responsible for collecting taxes and administering the Internal Revenue Code.
+- [Would any of you guys live in the USA , or stay in Netherlands? (2021)](https://www.reddit.com/r/Netherlands/comments/qjmds0/would_any_of_you_guys_live_in_the_usa_or_stay_in/)
