@@ -40,3 +40,4 @@ javascript: ((b) =>
 
 - [Powerlet](https://github.com/anthonyec/powerlet) - Chrome Extension to quickly find and run bookmarklets.
 - [Awesome Bookmarklets](https://github.com/marcobiedermann/awesome-bookmarklets)
+- [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts) ([HN](https://news.ycombinator.com/item?id=29054673))

@@ -191,3 +191,4 @@
 - [Magic Shop RenderMan Art Challenge (2021)](https://blog.yiningkarlli.com/2021/04/magic-shop-renderman-challenge.html)
 - [Raya and the Last Dragon (2021)](https://blog.yiningkarlli.com/2021/03/raya-and-the-last-dragon.html)
 - [Shipshape RenderMan Art Challenge (2020)](https://blog.yiningkarlli.com/2020/07/shipshape-renderman-challenge.html)
+- [Can Data Die? Tracking the Lenna Image (2021)](https://pudding.cool/2021/10/lenna/)

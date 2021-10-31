@@ -241,3 +241,4 @@
 - [What is a KeyPath in Swift (2021)](https://sarunw.com/posts/what-is-keypath-in-swift/)
 - [Learn the Essentials of Swift in one hour (2021)](https://www.youtube.com/watch?v=n5X_V81OYnQ) ([Article](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour))
 - [Discover | Swift by Sundell](https://swiftbysundell.com/discover/)
+- [Dangerous Logging in Swift (2021)](https://indiestack.com/2021/10/dangerous-logging-in-swift/) ([HN](https://news.ycombinator.com/item?id=29051720))

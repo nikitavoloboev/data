@@ -203,3 +203,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Guide to moving to M1 mac (2021)](https://twitter.com/vvoyer/status/1451116237132533765)
 - [macOS Orb](https://github.com/CircleCI-Public/macos-orb) - Convenient tools and settings for utilizing MacOS on CircleCI.
 - [macOS Monterey: The MacStories Review (2021)](https://www.macstories.net/stories/macos-monterey-the-macstories-review/)
+- [How macOS is more reliable, and doesn’t need reinstalling (2021)](https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/)

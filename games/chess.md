@@ -141,3 +141,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [How to Calculate the Trappiest Openings in Chess Using Stats (2021)](https://medium.com/applied-data-science/how-to-calculate-the-trappiest-openings-in-chess-2bc24a6345f7) ([HN](https://news.ycombinator.com/item?id=28887015))
 - [Blunder](https://github.com/algerbrex/blunder) - UCI compatible chess engine written in Go.
 - [Drofa](https://github.com/justNo4b/Drofa) - UCI chess engine written in C++.
+- [How long does it take ordinary people to “get good” at chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md) ([HN](https://news.ycombinator.com/item?id=29035416))

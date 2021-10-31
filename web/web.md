@@ -324,3 +324,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives.
 - [Photoshop's journey to the web (2021)](https://web.dev/ps-on-the-web/) ([HN](https://news.ycombinator.com/item?id=29001093)) ([Tweet](https://twitter.com/slightlylate/status/1453020364011802624))
 - [The metaverse is already here, it's called the internet (2021)](https://canolcer.com/post/metaverse-is-already-here/) ([HN](https://news.ycombinator.com/item?id=29046838))
+- [Ask HN: If the Internet were redesigned today, what changes would you make? (2021)](https://news.ycombinator.com/item?id=29053266)

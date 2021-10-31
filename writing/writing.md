@@ -257,3 +257,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [More Asemic Writing (2020)](https://inconvergent.net/2020/asemic-writing/)
 - [Creative Spark: Eric Roth (2014)](https://www.youtube.com/watch?v=N3_QmiNs52o) ([Article](https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos)) ([HN](https://news.ycombinator.com/item?id=29000175))
 - [Greatest Screenwriters of All Time](https://www.imdb.com/poll/5qmz3dF9sYg/)
+- [How I motivate myself to write](https://blog.pragmaticengineer.com/writing-motivation/) ([HN](https://news.ycombinator.com/item?id=29035995))

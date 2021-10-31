@@ -268,3 +268,5 @@
 - [torchaudacity](https://github.com/hugofloresgarcia/torchaudacity) - PyTorch wrappers for using your model in audacity.
 - [OpenSoundControl.org](http://opensoundcontrol.org/) - Data transport specification (an encoding) for realtime message communication among applications and hardware. ([Node Library](https://github.com/MylesBorins/node-osc))
 - [Sublive](https://sub.live/) - Online Live Rooms with Super Fast Sound live.
+- [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/) ([Code](https://github.com/gmoe/piano_fundamentals)) ([HN](https://news.ycombinator.com/item?id=29052747))
+- [How will MIDI 2.0 change music? (2020)](https://qz.com/1788828/how-will-midi-2-0-change-music/) ([HN](https://news.ycombinator.com/item?id=29051616))

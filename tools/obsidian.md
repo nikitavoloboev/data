@@ -2,6 +2,7 @@
 
 ## Plugins
 
+- [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian. ([Article](https://paulbricman.com/thoughtware/dual))
 - [Obsidian Sample Plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Sample plugin for Obsidian.
 - [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve & note aging by reviewing notes using spaced repetition on Obsidian.md.
 - [Review](https://github.com/ryanjamurphy/review-obsidian) - Add the current note to a future daily note to remember to review it.
@@ -14,7 +15,6 @@
 - [Obsidian Internal Links supercharger](https://github.com/mdelobelle/obsidian_supercharged_links) - Add attributes and context menu options to internal links.
 - [Obsidian Git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git.
 - [Obsidian Roundup](https://obsidianroundup.org/) - Weekly roundup of Obsidian.md tips, news & resources.
-- [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian.
 - [Obsidian Tracker](https://github.com/pyrochlore/obsidian-tracker) - Helps you collect data from notes and represent it comprehensively.
 - [Citation](https://github.com/hans/obsidian-citation-plugin) - Plugin for Obsidian integrates your academic reference manager with the Obsidian editing experience.
 - [Readwise](https://github.com/readwiseio/obsidian-readwise) - Enables you to easily and automatically export all your digital highlights to Obsidian from a variety of sources.

@@ -105,7 +105,7 @@
 - [Lift the minimum wage and employment still rises? How to anger the establishment and win a Nobel Prize (2021)](https://www.abc.net.au/news/2021-10-13/nobel-prize-in-economics-2021-david-card-minimum-wage/100531994) ([Reddit](https://www.reddit.com/r/Economics/comments/qbbilk/lift_the_minimum_wage_and_employment_still_rises/))
 - [List of countries by total wealth - Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_total_wealth)
 - [NBER](https://www.nber.org/) - National Bureau of Economic Research.
-- [What caused all the supply chain bottlenecks? (2021)](https://twitter.com/typesfast/status/1453753924960219145) ([HN](https://news.ycombinator.com/item?id=29029825))
+- [What caused all the supply chain bottlenecks? (2021)](https://twitter.com/typesfast/status/1453753924960219145) ([HN](https://news.ycombinator.com/item?id=29029825)) ([Summary](https://thezvi.wordpress.com/2021/10/28/an-unexpected-victory-container-stacking-at-the-port-of-los-angeles/))
 - [Indexing the creator economy (2021)](https://stripe.com/blog/creator-economy) ([Tweet](https://twitter.com/edwinwee/status/1451188399629500422))
 - [Collection of economic resources introducing neoclassical and Austrian economics](https://github.com/Sword-Smith/economics)
 - [Financial innovations brought by technology (2021)](https://bam.kalzumeus.com/archive/financial-innovation-is-happening/) ([HN](https://news.ycombinator.com/item?id=29039345))

@@ -101,3 +101,4 @@
 - [Short Story on AI: Forward Pass (2021)](http://karpathy.github.io/2021/03/27/forward-pass/) ([Tweet](https://twitter.com/karpathy/status/1452312582216376341))
 - [Solving Math Word Problems (2021)](https://openai.com/blog/grade-school-math/) ([HN](https://news.ycombinator.com/item?id=29042256))
 - [Training Verifiers to Solve Math Word Problems (2021)](https://arxiv.org/abs/2110.14168) ([Article](https://openai.com/blog/grade-school-math/)) ([HN](https://news.ycombinator.com/item?id=29042256))
+- [Pathways: A next-generation AI architecture (2021)](https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/)

@@ -545,3 +545,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [List of hypothetical technologies - Wikipedia](https://en.wikipedia.org/wiki/List_of_hypothetical_technologies)
 - [Switchyards](https://switchyards.com/) - Neighborhood Work Club. ([Twitter](https://twitter.com/switchyards))
 - [Open Microscopy List](https://github.com/HohlbeinLab/OpenMicroscopy) - List of projects and resources related to open microscopy.
+- [The Staff Engineer's Path Book](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)

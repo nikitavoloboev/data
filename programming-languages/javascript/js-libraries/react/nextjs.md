@@ -94,6 +94,7 @@
 - [next-plugin-imagegen](https://github.com/huozhi/next-plugin-imagegen) - Next.js plugin turns jsx components as image.
 - [next-head-seo](https://github.com/catnose99/next-head-seo) - Light-weight SEO plugin for Next.js.
 - [Next.js drop-in analytics support](https://github.com/ian/analytics)
+- [next-composition](https://github.com/neet/next-composition) - Next.js utility for reusing getServerSideProps and getStaticProps logics. ([Reddit](https://www.reddit.com/r/nextjs/comments/qjkez7/github_neetnextcomposition_nextjs_utility_for/))
 
 ## Notes
 

@@ -118,7 +118,7 @@
 - [A Lisp REPL as my main shell](https://ambrevar.xyz/lisp-repl-shell/index.html) ([HN](https://news.ycombinator.com/item?id=26059023))
 - [Ask HN: Why should we learn Lisp? (2021)](https://news.ycombinator.com/item?id=26162522)
 - [My experience of writing Lisp in Pony (2020)](https://stereobooster.com/posts/my-experience-of-writing-lisp-in-pony/)
-- [SectorLISP](https://justine.lol/sectorlisp/) - 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator on bare metal. ([Code](https://github.com/jart/sectorlisp)) ([HN](https://news.ycombinator.com/item?id=29047584))
+- [SectorLISP](https://justine.lol/sectorlisp/) - 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator on bare metal. ([Code](https://github.com/jart/sectorlisp)) ([HN](https://news.ycombinator.com/item?id=29047584)) ([Lobsters](https://lobste.rs/s/cpqdjs/sectorlisp_now_fits_one_sector))
 - [SectorLISP Now Fits in One Sector](https://justine.lol/sectorlisp/)
 - [Fancy defines](https://idiomdrottning.org/fancy-defines) ([Lobsters](https://lobste.rs/s/mgfnix/fancy_defines))
 - [Swift LispKit](https://github.com/objecthub/swift-lispkit) - Framework for building Lisp-based extension and scripting languages for macOS and iOS applications.

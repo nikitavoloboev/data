@@ -22,3 +22,4 @@
 - [Mastodon](https://github.com/mastodon/mastodon) - Self-hosted, globally interconnected microblogging community.
 - [mastodon.social](https://mastodon.social/about) - Server run by the main developers of the project.
 - [HN: Mastodon (2021)](https://news.ycombinator.com/item?id=28950727)
+- [Masto.js](https://github.com/neet/masto.js) - Mastodon API client for JavaScript, TypeScript, Node.js, browsers.

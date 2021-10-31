@@ -129,3 +129,4 @@
 - [Media Utility Scripts](https://github.com/cacheflowe/media-utility-scripts) - Bash scripts for common conversion tasks on multimedia (video, image, audio) files.
 - [CleanUp.pictures](https://cleanup.pictures/) - Free web application that lets you quickly cleanup or remove objects in any image. ([Code](https://github.com/initml/cleanup.pictures)) ([Tweet](https://twitter.com/cyrildiagne/status/1450762117255204866))
 - [AVIF Converter](https://avif.io/) - Convert all images to AVIF for free. No data is sent. ([Code](https://github.com/justinschmitz97/avif.io))
+- [Online GIF Tools](https://onlinegiftools.com/)

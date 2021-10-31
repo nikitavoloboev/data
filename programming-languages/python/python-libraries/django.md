@@ -104,3 +104,4 @@
 - [The Decline of Django (2021)](https://www.david-dahan.com/blog/the-decline-of-django) ([HN](https://news.ycombinator.com/item?id=28863465))
 - [Profiling Django App](https://kracekumar.com/post/profiling_django/) ([Lobsters](https://lobste.rs/s/04c6zh/three_tools_profile_django_app))
 - [Reactor](https://github.com/edelvalle/reactor) - Phoenix LiveView but for Django.
+- [Observing a Django backend with Honeycomb.io (2020)](https://www.yanglinzhao.com/posts/using-honeycomb/)
