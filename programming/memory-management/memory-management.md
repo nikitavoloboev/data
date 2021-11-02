@@ -56,3 +56,5 @@
 - [Awesome Allocators](https://github.com/rain-1/awesome-allocators)
 - [Interesting Garbage Collection Patterns (2021)](https://blog.gceasy.io/2021/10/15/interesting-garbage-collection-patterns/)
 - [SuperMalloc](https://github.com/kuszmaul/SuperMalloc) - Super Fast Multithreaded malloc() for 64-bit Machines.
+- [Mimalloc](https://github.com/microsoft/mimalloc) - Compact general purpose allocator with excellent performance.
+- [Mimalloc: Free List Sharding in Action](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf)
