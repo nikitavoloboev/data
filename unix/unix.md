@@ -68,3 +68,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [On Unix composability](https://p.janouch.name/text/on-unix-composability.html)
 - [Bringing the Unix Philosophy to the 21st Century: Make JSON a default output option. (2019)](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/) ([HN](https://news.ycombinator.com/item?id=28266193)) ([Reddit](https://www.reddit.com/r/programming/comments/pa4cbb/bringing_the_unix_philosophy_to_the_21st_century/))
 - [I’m not sure that UNIX won (2021)](https://rubenerd.com/im-not-sure-that-unix-won/) ([Lobsters](https://lobste.rs/s/ezqjv5/i_m_not_sure_unix_won))
+- [Unix as IDE (2012)](https://blog.sanctum.geek.nz/series/unix-as-ide/)

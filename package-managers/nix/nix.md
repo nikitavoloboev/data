@@ -1,5 +1,7 @@
 # [Nix](https://github.com/NixOS/nix)
 
+[nix.dev](https://nix.dev/) is great place to start learning/using Nix.
+
 ## Notes
 
 - Nix never uses host dependencies, it always builds with exactly precise dependencies every time, and will always refer to them from then on.
@@ -242,3 +244,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Statix](https://github.com/nerdypepper/statix) - Lints and suggestions for the nix programming language. ([Reddit](https://www.reddit.com/r/NixOS/comments/qh47fz/statix_lints_and_suggestions_for_the_nix/))
 - [Cicero](https://github.com/input-output-hk/cicero) - Workflow execution engine. Workflow is a description of (dependent) steps using the Nix configuration language.
 - [Cross-compiling and Static-linking with Nix (2021)](https://functor.tokyo/blog/2021-10-20-nix-cross-static)
+- [Nix 2.4 (2021)](https://discourse.nixos.org/t/nix-2-4-released/15822) ([Lobsters](https://lobste.rs/s/cumwee/nix_2_4_released))

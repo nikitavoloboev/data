@@ -188,3 +188,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Ask HN: Best way to organize 100-200 emails/day in outlook (2021)](https://news.ycombinator.com/item?id=28887234)
 - [svelte-mail](https://github.com/ls-age/svelte-mail) - Renders Svelte components for emails. Inlines styles and renders additional plain text version.
 - [Userlist](https://userlist.com/) - Email Marketing & Lifecycle Automation for SaaS Companies. ([Product](https://userlist.com/features/marketing-email/)) ([Tweet](https://twitter.com/benediktdeicke/status/1452967216681472004))
+- [mail-parser](https://github.com/stalwartlabs/mail-parser) - Fast and robust e-mail parsing library for Rust.

@@ -68,3 +68,4 @@
 - [Reduceron](https://github.com/tommythorn/Reduceron) - High performance FPGA softcore for running lazy functional programs, complete with hardware garbage collection.
 - [Partial implementation of Knuth's MMIX processor (FPGA softcore)](https://github.com/tommythorn/fpgammix)
 - [hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning in FPGAs using HLS. ([Docs](https://fastmachinelearning.org/hls4ml/))
+- [Charbel](https://github.com/m1kal/charbel) - Write synthesizable FPGA code with Clojure syntax.

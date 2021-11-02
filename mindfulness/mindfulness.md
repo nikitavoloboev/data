@@ -56,3 +56,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [I did a Think Week on a remote Scottish island (2021)](https://www.petecodes.io/think-week-scottish-island-2021/) ([Tweet](https://twitter.com/thepatwalls/status/1448242770267738116))
 - [Expanding Awareness](https://expandingawareness.org/) - Explores Alexander Technique and all the things it intersects with.
 - [What is the Alexander Technique? (2021)](https://expandingawareness.org/blog/what-is-the-alexander-technique/)
+- [Ask HN: How do you tackle your own negativity? (2021)](https://news.ycombinator.com/item?id=29060798)

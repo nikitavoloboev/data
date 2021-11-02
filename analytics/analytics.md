@@ -86,3 +86,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Monitor ClickHouse with Prometheus & Grafana (2021)](https://tech.marksblogg.com/clickhouse-prometheus-grafana.html)
 - [Pirsch Analytics](https://pirsch.io/) - Cookie-Free Alternative to Google Analytics.
 - [Dune Analytics](https://dune.xyz/home) - Free crypto analytics by and for the community.
+- [Bast](https://github.com/kooparse/bast) - Web analytics focusing on privacy and simplicity.

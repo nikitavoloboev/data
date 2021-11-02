@@ -105,3 +105,5 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Differentially Private Fine-tuning of Language Models (2021)](https://arxiv.org/abs/2110.06500) ([Tweet](https://twitter.com/thegautamkamath/status/1450113340617940998))
 - [GDPR documents](https://github.com/good-lly/gdpr-documents) - Your Right to be Informed and Erased.
 - [Privacy Is a Human Right (2021)](https://blog.torproject.org/privacy-is-a-human-right) ([HN](https://news.ycombinator.com/item?id=28997501))
+- [Fides](https://github.com/ethyca/fides) - Declaratively enforce your data privacy requirements from within your software development life-cycle. ([Docs](https://ethyca.github.io/fides/))
+- [Practical Differentially Private Clustering (2021)](https://ai.googleblog.com/2021/10/practical-differentially-private.html)

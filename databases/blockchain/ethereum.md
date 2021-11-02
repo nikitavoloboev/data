@@ -337,3 +337,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [zkml core](https://github.com/zk-ml/demo) - Truly private machine learning, with zk-SNARKs and blockchain.
 - [Sword](https://github.com/Sword-Smith/Sword) - Declarative language for expressing fully-collateralized financial contracts.
 - [wETH](https://weth.io/) - ERC20 tradable version of ETH.
+- [zk-NFT](https://github.com/kevinz917/zk-NFT) - NFT powered by zkSNARKs that flips the concept of an NFT upside down.
+- [Notional Contracts V2](https://github.com/notional-finance/contracts-v2) - Fixed rate lending and borrowing platform, built on Ethereum.

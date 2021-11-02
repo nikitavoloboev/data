@@ -175,6 +175,8 @@
 - [Deli](https://github.com/github/deli) - Performance modeling tool, allowing you to understand and experiment with new designs.
 - [Shpadoinkle](https://hackage.haskell.org/package/Shpadoinkle) - Programming model for declarative, high performance user interface. ([Episode](https://overcast.fm/+i6QFg3tpw))
 - [structure-kit](https://github.com/nikita-volkov/structure-kit) - Immutable data structures for all kinds of purposes.
+- [Casimir](https://github.com/maybevoid/casimir) - Algebraic Effects in Haskell using Implicit Parameters.
+- [lifted-async](https://github.com/maoe/lifted-async) - Run lifted IO operations asynchronously and wait for their results.
 
 ## Links
 

@@ -16,6 +16,10 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 
 ![](https://i.imgur.com/l3x5S2k.png)
 
+I love listening to [Inspired](https://open.spotify.com/playlist/5fIL0WiQ79QtgsP4Y4L20V)/[Focus](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5) playlists when working.
+
+If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene](https://youtu.be/GbKva43khvI?t=148) from it always gets me going.
+
 ## Notes
 
 - You can't manage projects. You can only manage actions related to projects.

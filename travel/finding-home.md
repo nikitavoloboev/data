@@ -66,3 +66,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [Solar Shed Summary: My Off Grid Office (2021)](https://www.sevarg.net/2016/07/31/solar-shed-summary-my-off-grid-office/) ([HN](https://news.ycombinator.com/item?id=28735687))
 - [Wander](https://www.wander.com/) - Book the perfect Wander-owned smart home for your next workcation, vacation or anything in-between. ([Twitter](https://twitter.com/wander))
 - [Glide Pod](https://www.pod-space.co.uk/pods/glide-pod/) - Design Award-Winning Garden Office Buildings.
+- [Best floor planning tool (2021)](https://twitter.com/adamwathan/status/1448811803077656580)

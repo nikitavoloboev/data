@@ -207,3 +207,4 @@
 - [Authenticated Full-Stack Streamlit](https://github.com/sapped/Authenticated-Full-Stack-Streamlit)
 - [Kaggle Solutions](https://farid.one/kaggle-solutions/) - Comprehensive List of Kaggle Solutions and Ideas. ([Code](https://github.com/faridrashidi/kaggle-solutions))
 - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) - Curated knowledge sharing platform for data scientists and other technical professions.
+- [Book: The Science of Science — Dashun Wang (2021)](https://www.dashunwang.com/book/the-science-of-science)

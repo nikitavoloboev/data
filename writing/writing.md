@@ -259,3 +259,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Greatest Screenwriters of All Time](https://www.imdb.com/poll/5qmz3dF9sYg/)
 - [How I motivate myself to write](https://blog.pragmaticengineer.com/writing-motivation/) ([HN](https://news.ycombinator.com/item?id=29035995))
 - [50 Resources And Tools To Turbocharge Your Copywriting Skills (2021)](https://www.smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/)
+- [Best Story Wins (2021)](https://www.collaborativefund.com/blog/story/) ([Tweet](https://twitter.com/mollyfmielke/status/1455257395542695936))

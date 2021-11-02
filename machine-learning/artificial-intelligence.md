@@ -102,3 +102,4 @@
 - [Solving Math Word Problems (2021)](https://openai.com/blog/grade-school-math/) ([HN](https://news.ycombinator.com/item?id=29042256))
 - [Training Verifiers to Solve Math Word Problems (2021)](https://arxiv.org/abs/2110.14168) ([Article](https://openai.com/blog/grade-school-math/)) ([HN](https://news.ycombinator.com/item?id=29042256)) ([Tweet](https://twitter.com/sama/status/1454191236210839555))
 - [Pathways: A next-generation AI architecture (2021)](https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/)
+- [Strong AI Requires Autonomous Building of Composable Models (2021)](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/)

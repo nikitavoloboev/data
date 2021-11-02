@@ -205,3 +205,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Дизайн в Злых марсианах (2021)](https://teletype.in/@romanshamin/design-at-evil-martians) ([Tweet](https://twitter.com/strongeron/status/1450914217335349250))
 - [IKEA catalogue through the ages](https://ikeamuseum.com/en/digital/ikea-catalogues-through-the-ages/) ([HN](https://news.ycombinator.com/item?id=28997461))
 - [Lunacy](https://icons8.com/lunacy) - Figma-like design tool, not in Electron, in Avalonia.
+- [Interview with Frederique Matti (2021)](https://www.loversmagazine.com/interviews/frederique-matti)
+- [Lovers Magazine](https://www.loversmagazine.com/) - Online magazine for creative professionals. ([Twitter](https://twitter.com/theloversmag))

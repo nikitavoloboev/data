@@ -80,3 +80,4 @@
 - [Vue 3 + Vite template](https://github.com/reinink/tailwindui-modal-example)
 - [Is Nuxt 3 ready?](https://isnuxt3ready.owln.ai/) ([Code](https://github.com/owlnai/isnuxt3ready))
 - [Async with Composition API (2021)](https://antfu.me/posts/async-with-composition-api)
+- [Nuxt 3 Minimal Starter](https://github.com/kenny-io/Nuxt3-Tailwind-Supabase-Demo) - Uses Tailwind/Supabase.

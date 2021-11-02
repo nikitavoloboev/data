@@ -6,6 +6,7 @@ No longer need to remember passwords and I now have a unique password for every 
 
 ## Links
 
+- [1Password for Open Source Projects](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project. ([Tweet](https://twitter.com/bitandbang/status/1455235268244643846))
 - [Ask HN: How do you share password simply and securely? (2020)](https://news.ycombinator.com/item?id=23020183)
 - [1pass](https://github.com/dcreemer/1pass) - Caching wrapper for the 1Passworld CLI.
 - [Terraform provider for 1Password](https://github.com/anasinnyk/terraform-provider-onepassword)

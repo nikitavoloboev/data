@@ -210,6 +210,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Reading without taking notes is useless.](https://twitter.com/anthilemoon/status/1261991953593401346)
 - [Feed your personal wiki into GTP-3 to automatically answer emails/..](https://twitter.com/maccaw/status/1441773166079184896)
 - [People are obsessed with migrating their notes and todos from one tool to another. The obsession with meta work as an excuse for not doing actual work is such an odd one.](https://twitter.com/ninarstepanov/status/1450515900822523907)
+- [A tragically underutilized fact in productivity software today is that most people's entire textual datasets for a lifetime can fit in modern PCs' RAM. Just load it up & search it in memory. We don't need to send everything across the planet. Things can be /so much/ faster.](https://twitter.com/thesephist/status/1455279982322749440)
 
 ## Links
 
@@ -406,3 +407,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Meta](https://projectmeta.app/) - Note-taking tool for visual learning.
 - [Ikke](https://github.com/laffra/Ikke) - Index and search your personal data quickly and privately.
 - [Reflect Academy](https://reflect.academy/) - Learn how to take great notes. ([Tweet](https://twitter.com/maccaw/status/1452657502441648141))
+- [Remnote](https://www.remnote.com/) - All-in-One Tool for Thinking and Learning. ([Twitter](https://twitter.com/rem_note))
+- [The Science of Tools for Thought and Cognition Augmentation Software (2021)](https://moritz.digital/blog/cas) ([Video](https://www.youtube.com/watch?v=zVuaOECnUJE))

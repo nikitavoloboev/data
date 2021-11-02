@@ -429,3 +429,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [When to Use Each of the Git Diff Algorithms (2020)](https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/)
 - [Low budget P2P content distribution with git](https://portal.mozz.us/gemini/gemini.circumlunar.space/~solderpunk/gemlog/low-budget-p2p-content-distribution-with-git.gmi) ([Lobsters](https://lobste.rs/s/k5rmv3/low_budget_p2p_content_distribution_with))
 - [go-git-providers](https://github.com/fluxcd/go-git-providers) - general-purpose Go client for interacting with Git providers' APIs (GitHub, GitLab).
+- [Oaf](https://github.com/abentley/oaf) - Git client that brings a more user-friendly CLI to Git.

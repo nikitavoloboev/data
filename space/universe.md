@@ -48,3 +48,4 @@
 - [The vastness of the Universe surpasses even the most "drawn" science fiction (2021)](https://frontnet.eu/the-vastness-of-the-universe-surpasses-even-the-most-drawn-science-fiction/) ([Reddit](https://www.reddit.com/r/Physics/comments/q99hyj/the_vastness_of_the_universe_surpasses_even_the/))
 - [94% of the universe’s galaxies are permanently beyond our reach (2021)](https://bigthink.com/starts-with-a-bang/universes-galaxies-unreachable/) ([HN](https://news.ycombinator.com/item?id=28913986))
 - [Grand mosaic of the Milky Way is now larger than ever (2021)](https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html) ([HN](https://news.ycombinator.com/item?id=28991537))
+- [CosmoScout VR](https://github.com/cosmoscout/cosmoscout-vr) - Virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time.

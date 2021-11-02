@@ -7,6 +7,7 @@
 
 ## Links
 
+- [C++ By Example](https://cppbyexample.com/)
 - [Draft C++ Standard: Contents](https://timsong-cpp.github.io/cppwp/) ([Code](https://github.com/timsong-cpp/cppwp))
 - [C++ resources](https://github.com/MattPD/cpplinks)
 - [Immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++.
@@ -259,3 +260,5 @@
 - [Borrowing Trouble: The Difficulties Of A C++ Borrow-Checker (2021)](https://docs.google.com/document/d/e/2PACX-1vSt2VB1zQAJ6JDMaIA9PlmEgBxz2K5Tx6w2JqJNeYCy0gU4aoubdTxlENSKNSrQ2TXqPWcuwtXe6PlO/pub) ([Lobsters](https://lobste.rs/s/7832sw/borrowing_trouble_difficulties_c_borrow))
 - [In C++, is empty() faster than comparing the size with zero? (2021)](https://lemire.me/blog/2021/10/26/in-c-is-empty-faster-than-comparing-the-size-with-zero/) ([HN](https://news.ycombinator.com/item?id=29010864))
 - [C++ Teaching Manifesto](https://github.com/jcelerier/cpp-teaching-manifesto)
+- [C++ Coroutines Do Not Spark Joy (2021)](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/) ([HN](https://news.ycombinator.com/item?id=29064233))
+- [uftrace](https://github.com/namhyung/uftrace) - Function graph tracer for C/C++/Rust. ([Web](https://uftrace.github.io/slide/#1))

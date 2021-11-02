@@ -376,7 +376,7 @@
 - [Principles of Developer Experience (2021)](https://cpojer.net/posts/principles-of-devx)
 - [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
 - [Fundamentals of Optimal Code Style](https://optimal-codestyle.github.io/) ([Lobsters](https://lobste.rs/s/g145c1/fundamentals_optimal_code_style))
-- [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) ([HN](https://news.ycombinator.com/item?id=26537298))
+- [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) ([HN](https://news.ycombinator.com/item?id=26537298)) ([Code](https://github.com/paulmckrcu/perfbook))
 - [StatesML](https://github.com/StatesML/StatesML-grammar) - States Modeling Language.
 - [Ask HN: I've realized I'm a bad software engineer and I'm over 30, what's next? (2021)](https://news.ycombinator.com/item?id=26647717)
 - [Modern Code Review: A Case Study at Google (2018)](https://sback.it/publications/icse2018seip.pdf)
@@ -479,3 +479,4 @@
 - [Coding guidelines for an easier life (2021)](https://www.mcdermottroe.com/coding-guidlines-for-an-easier-life/)
 - [Simple Code, High Performance (2021)](https://www.youtube.com/watch?v=Ge3aKEmZcqY) ([HN](https://news.ycombinator.com/item?id=29045482))
 - [A developer's guide to programatically overcome fear of failure (2021)](https://www.pagerduty.com/blog/engineers-guide-on-the-importance-of-failure/) ([HN](https://news.ycombinator.com/item?id=29056215))
+- [Programming projects to work on for skill development](https://www.reddit.com/r/gamedev/comments/1bc8tz/looking_for_resources_for_java_game_programming/)

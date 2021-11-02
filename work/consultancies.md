@@ -69,6 +69,7 @@
 - [Simple Thread](https://www.simplethread.com/) - Digital Product Agency.
 - [Charmer](https://charmerstudio.com/ru) - Дизайн-студия.
 - [Utsubo](https://www.utsubo.co/) - Technology-first creative studio. ([Twitter](https://twitter.com/utsuboco))
+- [Friendly Studio](https://friendly.studio/) - Design Studio for Startups.
 
 ## DB
 

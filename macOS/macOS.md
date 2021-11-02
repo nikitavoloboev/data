@@ -204,3 +204,5 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [macOS Orb](https://github.com/CircleCI-Public/macos-orb) - Convenient tools and settings for utilizing MacOS on CircleCI.
 - [macOS Monterey: The MacStories Review (2021)](https://www.macstories.net/stories/macos-monterey-the-macstories-review/)
 - [How macOS is more reliable, and doesn’t need reinstalling (2021)](https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/)
+- [Faster Mac Dev Tools with Custom Allocators (2021)](https://eisel.me/devtool-allocators) ([HN](https://news.ycombinator.com/item?id=29068828))
+- [perfrecord](https://github.com/mstange/perfrecord) - macOS-only command line CPU profiler that displays the result in the Firefox profiler.

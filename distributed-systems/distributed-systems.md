@@ -16,6 +16,7 @@
 - [Fear and Loathing in Lock-Free Programming (2017)](https://medium.com/@tylerneely/fear-and-loathing-in-lock-free-programming-7158b1cdd50c)
 - [Reliable Systems Series: Model-Based Testing (2018)](https://medium.com/@tylerneely/reliable-systems-series-model-based-property-testing-e89a433b360)
 - [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
+- [Awesome Distributed Systems 2](https://github.com/FedericoPonzi/awesome-distributed-systems)
 - [Kong](https://github.com/Kong/kong) - Cloud-Native API Gateway & Service Mesh.
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Mesh](https://github.com/weaveworks/mesh) - Tool for building distributed applications.

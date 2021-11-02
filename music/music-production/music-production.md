@@ -270,3 +270,4 @@
 - [Sublive](https://sub.live/) - Online Live Rooms with Super Fast Sound live.
 - [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/) ([Code](https://github.com/gmoe/piano_fundamentals)) ([HN](https://news.ycombinator.com/item?id=29052747))
 - [How will MIDI 2.0 change music? (2020)](https://qz.com/1788828/how-will-midi-2-0-change-music/) ([HN](https://news.ycombinator.com/item?id=29051616))
+- [SMS Tools](https://github.com/MTG/sms-tools) - Sound analysis/synthesis tools for music applications. ([Web](https://www.upf.edu/web/mtg/sms-tools))

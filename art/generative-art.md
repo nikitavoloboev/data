@@ -171,3 +171,4 @@
 - [aRt](https://github.com/nrennie/aRt) - R package to create generative art.
 - [GenerativeArt-SwiftUI](https://github.com/martinhoeller/GenerativeArt-SwiftUI)
 - [Cubeverse](https://cubeversenft.com/) - Generative, unique and random NFTs of beautiful structures, of different shapes and sizes. ([Twitter](https://twitter.com/TheCubeverse))
+- [Magically Rearranging Patterns - CSS Houdini](https://codepen.io/georgedoescode/pen/YzxrRZe) ([Tweet](https://codepen.io/georgedoescode/pen/YzxrRZe))

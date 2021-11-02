@@ -63,3 +63,4 @@
 - [WebRTC speech to text server](https://github.com/rviscarra/webrtc-speech-to-text) - Speech transcription on the browser using WebRTC and Google Speech. ([Article](https://viscarra.dev/post/webrtc-gspeech/))
 - [OvenPlayer](https://github.com/AirenSoft/OvenPlayer) - JavaScript-based WebRTC Player for OvenMediaEngine. It also supports LL-DASH, MPEG-DASH, and HLS. Open-Source HTML5 Player. ([Web](https://www.ovenmediaengine.com/ovenplayer))
 - [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) - Python interface to the WebRTC Voice Activity Detector.
+- [Examples WebRTC Applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries.

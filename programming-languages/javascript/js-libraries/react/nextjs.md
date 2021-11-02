@@ -95,6 +95,7 @@
 - [next-head-seo](https://github.com/catnose99/next-head-seo) - Light-weight SEO plugin for Next.js.
 - [Next.js drop-in analytics support](https://github.com/ian/analytics)
 - [next-composition](https://github.com/neet/next-composition) - Next.js utility for reusing getServerSideProps and getStaticProps logics. ([Reddit](https://www.reddit.com/r/nextjs/comments/qjkez7/github_neetnextcomposition_nextjs_utility_for/))
+- [next-router-query](https://github.com/KATT/next-router-query) - Drop-in alternative of `useRouter().query` that tries it's best to get the query params on the first mount.
 
 ## Notes
 

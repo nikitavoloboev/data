@@ -73,3 +73,4 @@
 - [Andrew Kelley, Lead Developer & President of the Zig Software Foundation (2021)](https://overcast.fm/+cV8pJX6iU)
 - [zig-snapshots](https://github.com/kubkon/zig-snapshots) - Preview Zig's incremental linker state in interactive HTML.
 - [Zig LSP](https://github.com/ziglibs/zig-lsp) - LSP implemented in Zig.
+- [Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnot (2021)](https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior) ([HN](https://news.ycombinator.com/item?id=29060200))

@@ -223,6 +223,7 @@
 - [React-Location](https://github.com/tannerlinsley/react-location) - Enterprise Client-Side Routing for React. ([Docs](https://react-location.tanstack.com/docs/overview))
 - [tldraw/core](https://github.com/tldraw/core) - TLDraw core renderer and utilities.
 - [React Freeze](https://github.com/software-mansion-labs/react-freeze) - Prevent React component subtrees from rendering.
+- [react-ancenstry](https://github.com/grantila/react-ancestry) - Get the component ancestry in React.
 
 ## Links
 

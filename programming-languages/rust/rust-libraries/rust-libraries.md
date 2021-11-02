@@ -1070,6 +1070,10 @@
 - [whorl](https://github.com/mgattozzi/whorl) - Single file, std only, async Rust executor.
 - [threadpool](https://github.com/rust-threadpool/rust-threadpool) - Thread pool for running a number of jobs on a fixed set of worker threads.
 - [Mimalloc Rust](https://github.com/purpleprotocol/mimalloc_rust) - Rust wrapper over Microsoft's MiMalloc memory allocator.
+- [distant](https://github.com/chipsenkbeil/distant) - Remotely edit files and run programs.
+- [Mononym](https://github.com/maybevoid/mononym) - Type-level named values with partial dependent type support in Rust. ([Article](https://maybevoid.com/blog/mononym-part-1/))
+- [Lambek](https://github.com/maybevoid/lambek) - Type-Level Programming in Rust.
+- [SmolStr](https://github.com/rust-analyzer/smol_str)
 
 ## Cargo Plugins
 
@@ -1163,3 +1167,4 @@
 - [Whats your favorite open source Rust project that needs more recognition? (2021)](https://www.reddit.com/r/rust/comments/q69sna/whats_your_favourite_open_source_rust_project/)
 - [Rust Bindings Working Group](https://github.com/vfx-rs/organization) - Dedicated to creating a foundation for C and Rust bindings for C++ libraries used by the media and entertainment industry.
 - [A 2021 Survey of Rust GUI Libraries](https://www.boringcactus.com/2021/10/24/2021-survey-of-rust-gui-libraries.html) ([Lobsters](https://lobste.rs/s/hmvrcj/2021_survey_rust_gui_libraries))
+- [import-cargo](https://github.com/edolstra/import-cargo) - Function for fetching the crates listed in a Cargo lock file.

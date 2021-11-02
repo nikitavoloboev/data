@@ -2,7 +2,7 @@
 
 > Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-Diving into building dApps with Solana. Stake my SOL with [Shinobi Systems](https://www.shinobi-systems.com/) & [Phantom](https://phantom.app/).
+Diving into building dApps with Solana. [Stake my SOL](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) ([tutorial](https://www.youtube.com/watch?v=GNgSzJ4KxZg)) with [Marinade](https://marinade.finance/app/staking) & [Phantom Wallet](https://phantom.app/). mSOL I get from Marinade is [pooled](https://www.youtube.com/watch?v=cizLhxSKrAc&t=32s) with [Orca](https://www.orca.so/).
 
 ## Apps
 
@@ -117,3 +117,11 @@ Diving into building dApps with Solana. Stake my SOL with [Shinobi Systems](http
 - [Solend](https://solend.fi/) - Lend and borrow on Solana. ([GitHub](https://github.com/solendprotocol))
 - [Squads](https://sqds.io/) - One app for all your DAO needs. ([Twitter](https://twitter.com/squads_dapp))
 - [Program deploys in Solana](https://jstarry.notion.site/Program-deploys-29780c48794c47308d5f138074dd9838)
+- [Solana Staking (2021)](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/)
+- [Francium](https://francium.io/) - DeFi Yield Strategy Platform.
+- [3 Epic Solana Apps mSOL, Marinade.finance, PORT, Port.finance, & ORCA, Orca.so (2021)](https://www.youtube.com/watch?v=2UdKaktBvKQ)
+- [Deep Dive: Marinade Finance: Solana Liquid Staking, 6.6% APY plus Lending, DeFi Farming, & More (2021)](https://www.youtube.com/watch?v=aOWvlL1ColA&t=1s)
+- [How to bridge across assets from Ethereum to Solana using Phantom, Metamask, and the Wormhole (2021)](https://www.youtube.com/watch?v=OBme9dR031s)
+- [Jupiter Aggregator](https://jup.ag/) - Best swap aggregator on Solana. ([Twitter](https://twitter.com/jupiterexchange)) ([Video](https://www.youtube.com/watch?v=WzqXOPB_WPc))
+- [Solscan](https://solscan.io/) - User-friendly and real-time update Scanning Tool for Solana.
+- [SolTricks](https://soltricks.io/) - Create all kinds of Solana Tricks.

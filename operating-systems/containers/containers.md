@@ -140,6 +140,8 @@
 - [Anchore](https://anchore.com/) - Container Security Solutions For DevSecOps. ([GitHub](https://github.com/anchore))
 - [Direktiv](https://github.com/vorteil/direktiv) - Event-driven container orchestration engine, running on Kubernetes and Knative. ([Web](https://direktiv.io/))
 - [Navio](https://github.com/viniciusbds/navio) - Simple tool for creating and managing linux containers.
-- [Containers vs. Pods - Taking a Deeper Look (2021)](https://iximiuz.com/en/posts/containers-vs-pods/)
+- [Containers vs. Pods - Taking a Deeper Look (2021)](https://iximiuz.com/en/posts/containers-vs-pods/) ([HN](https://news.ycombinator.com/item?id=29055715))
 - [Multiple Containers On the Same Port without Reverse Proxy (2021)](https://iximiuz.com/en/posts/multiple-containers-same-port-reverse-proxy/)
 - [Journey From Containerization to Orchestration and Beyond (2021)](https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond/)
+- [Porto](https://github.com/yandex/porto) - Linux container management system, developed by Yandex.
+- [Horust](https://github.com/FedericoPonzi/Horust) - Supervisor / init system written in rust and designed to be run inside containers.

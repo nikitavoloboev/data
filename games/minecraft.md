@@ -75,3 +75,4 @@
 - [PocketMine-MP](https://pmmp.io/) - Server software for Minecraft: Bedrock Edition written in PHP. ([Code](https://github.com/pmmp/PocketMine-MP))
 - [ServerTap](https://github.com/phybros/servertap) - REST API for Bukkit/Spigot/Paper Minecraft servers. ([Web](https://servertap.io/))
 - [BuildTheEarth](https://buildtheearth.net/) - Recreating the entire planet in Minecraft.
+- [Sheaves in Minecraft (2021)](https://quoteme.github.io/posts/sheaves_in_minecraft) ([HN](https://news.ycombinator.com/item?id=29055847))

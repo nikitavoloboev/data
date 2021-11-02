@@ -102,6 +102,7 @@
 - [HighDimPDE.jl](https://github.com/vboussange/HighDimPDE.jl) - Julia package that breaks down the curse of dimensionality in solving non local, non linear PDEs.
 - [Polynomials.jl](https://github.com/JuliaMath/Polynomials.jl) - Polynomial manipulations in Julia.
 - [Roots](https://github.com/JuliaMath/Roots.jl) - Root finding functions for Julia.
+- [LatexPrint](https://github.com/scheinerman/LatexPrint.jl) - Print Julia objects in LaTeX form.
 
 ## NLP
 
@@ -115,6 +116,7 @@
 - [FASTX](https://github.com/BioJulia/FASTX.jl) - Parse and process FASTA and FASTQ formatted files of biological sequences.
 - [Molly.jl](https://github.com/JuliaMolSim/Molly.jl) - Molecular simulation in Julia.
 - [DFTK](https://github.com/JuliaMolSim/DFTK.jl) - Density-functional toolkit.
+- [AtomicGraphNets.jl](https://github.com/Chemellia/AtomicGraphNets.jl) - Atomic graph models for molecules and crystals in Julia.
 
 ## Computer Vision
 
@@ -320,6 +322,7 @@
 - [NamedDims](https://github.com/invenia/NamedDims.jl) - Zero-cost abstraction to add names to the dimensions of an array.
 - [PairPlots.jl](https://github.com/sefffal/PairPlots.jl) - Produces corner plots, otherwise known as pair plots or scatter plot matrices: grids of 1D and 2D histograms that allow you to visualize high dimensional data.
 - [ReadableRegex](https://github.com/jkrumbiegel/ReadableRegex.jl) - Syntax that is much easier to write and understand than the rather cryptic standard Regex.
+- [Permutations](https://github.com/scheinerman/Permutations.jl) - Permutations class for Julia.
 
 ## Links
 

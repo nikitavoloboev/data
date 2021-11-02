@@ -116,3 +116,4 @@
 - [RSS is wonderful (2021)](https://quakkels.com/posts/rss-is-wonderful/) ([HN](https://news.ycombinator.com/item?id=28967540)) ([Lobsters](https://lobste.rs/s/s68iid/rss_is_wonderful))
 - [splitflap](https://github.com/otherjoel/splitflap) - RSS / Atom feed generation library for Racket.
 - [The Arsse](https://thearsse.com/) - Clean & modern RSS server that doesn’t give you any crap. ([Code](https://github.com/mensbeam/arsse))
+- [RSS Discovery Engine](https://rdengine.herokuapp.com/) - Encourage people to use RSS for finding and consuming their news and current events. ([Code](https://github.com/quakkels/rssdiscoveryengine))

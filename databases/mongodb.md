@@ -24,3 +24,4 @@
 - [Getting Started with Server-Side Swift with MongoDB and Vapor (2021)](https://kaitlin.dev/2021/07/30/mongodb-vapor.html)
 - [Getting started with MongoDB and Redis in Rust (2021)](https://romankudryashov.com/blog/2021/06/mongodb-redis-rust/)
 - [MongoDB exporter](https://github.com/percona/mongodb_exporter) - Prometheus exporter for MongoDB including sharding, replication and storage engines.
+- [MangoDB](https://www.mangodb.io/) - Truly open-source MongoDB alternative. ([HN](https://news.ycombinator.com/item?id=29071623)) ([Code](https://github.com/MangoDB-io/MangoDB))

@@ -24,3 +24,4 @@
 - [Gumroad: The Android of the Creator Economy That Powered $142M in GMV (2021)](https://sacra.com/research/gumroad-android-creator-economy/) ([Tweet](https://twitter.com/nansterio/status/1367546648340144132))
 - [The Guide To No Code Marketplaces](https://gumroad.com/l/TheGuideToNoCodeMarketplaces)
 - [Lessons Learnt Building for the Atlassian Marketplace (2021)](https://engineering.kablamo.com.au/posts/2021/lessons-learnt-building-for-the-atlassian-marketplace)
+- [Promoted](https://www.promoted.ai/) - Search and feed ranking for marketplaces. ([HN](https://news.ycombinator.com/item?id=29071609))

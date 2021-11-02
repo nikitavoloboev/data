@@ -259,3 +259,5 @@
 - [gym-hybrid](https://github.com/thomashirtz/gym-hybrid) - Collection of environment for reinforcement learning task possessing discrete-continuous hybrid action space.
 - [Simple PyTorch Implementations of Deep RL Algorithms for Continuous Control Research](https://github.com/jakegrigsby/deep_control)
 - [Learning to Ground Multi-Agent Communication with Autoencoders (2021)](https://arxiv.org/abs/2110.15349)
+- [Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives (2021)](https://mihdalal.github.io/raps/) ([Code](https://github.com/mihdalal/raps))
+- [Unsupervised Reinforcement Learning Benchmark (URLB)](https://github.com/rll-research/url_benchmark)

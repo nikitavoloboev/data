@@ -42,3 +42,4 @@
 - [Zero-Knowledge Proofs for Private Web Attestation with Multi-Vendor Hardware (2021)](https://blog.cloudflare.com/introducing-zero-knowledge-proofs-for-private-web-attestation-with-cross-multi-vendor-hardware/) ([HN](https://news.ycombinator.com/item?id=28745951))
 - [snarkyJS](https://github.com/o1-labs/snarkyjs) - TypeScript/JavaScript framework for writing zk-SNARKs and snapps.
 - [circom](https://github.com/iden3/circom) - zkSnark circuit compiler.
+- [zkSNARKs Library](https://github.com/kevinz917/zksnarks-library) - Library of zkSNARKS circuits written in the Circom language.

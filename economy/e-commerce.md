@@ -112,3 +112,5 @@
 - [IKEA designs its stores with various psychological tricks to get you to spend more money](https://twitter.com/TrungTPhan/status/1450855104685375493)
 - [Debugging the supply chain bottleneck (2021)](https://twitter.com/patio11/status/1451596750171426824)
 - [E-commerce prototyping with Hasura and CartQL (2021)](https://www.youtube.com/watch?v=r5_muFvMcvc)
+- [Headless Dropshipping Starter](https://github.com/notrab/headless-dropshipping-starter) - Create your own dropshipping store with Next.js, Snipcart & Printful.
+- [Custom Cart With Shopify Storefront API (2021)](https://www.youtube.com/watch?v=FJOJmKFngLI&list=PLz8Iz-Fnk_eRnX8lBMTwpM4XDLFZHmtyq)

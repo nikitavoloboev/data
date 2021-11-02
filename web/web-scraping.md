@@ -119,3 +119,5 @@
 - [PHP Goose](https://github.com/scotteh/php-goose) - Readability / HTML Content / Article Extractor & Web Scrapping library written in PHP.
 - [Web scraping by watching requests (2021)](https://en.jeffprod.com/blog/2021/web-scraping-by-watching-requests/)
 - [Effortless Crawling with Scrapy with one method (2021)](https://www.youtube.com/watch?v=o1g8prnkuiQ)
+- [Avoiding bot detection: How to scrape the web without getting blocked?](https://github.com/niespodd/browser-fingerprinting)
+- [crawley](https://github.com/s0rg/crawley) - Crawls web pages and prints any link it can find.

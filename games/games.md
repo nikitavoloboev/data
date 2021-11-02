@@ -230,3 +230,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Computer Game Play Reduces Intrusive Memories of Experimental Trauma via Reconsolidation-Update Mechanisms (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526368/) ([HN](https://news.ycombinator.com/item?id=28799760))
 - [Deeper Than Pixels: A Reading List on Video Games (2021)](https://longreads.com/2021/10/07/deeper-than-pixels-a-reading-list-on-video-games/) ([HN](https://news.ycombinator.com/item?id=28885867))
 - [All Atari Games](https://voxodyssey.com/atari-2600) ([HN](https://news.ycombinator.com/item?id=28931183))
+- [The Rise of Nintendo: A Story in 8 Bits (2014)](https://grantland.com/features/the-rise-of-nintendo-video-games-history/) ([HN](https://news.ycombinator.com/item?id=29055544))

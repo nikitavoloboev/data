@@ -292,3 +292,4 @@ Awesome List
 - [bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases.
 - [GitHub stale bot considered harmful (2021)](https://drewdevault.com/2021/10/26/stalebot.html) ([HN](https://news.ycombinator.com/item?id=28998374))
 - [gisture](https://github.com/mufeedvh/gisture) - Utilizing GitHub Gists as a Blogging Platform.
+- [repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate.

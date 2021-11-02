@@ -32,6 +32,7 @@
 - [Mox](https://github.com/dashbitco/mox) - Library for defining concurrent mocks in Elixir.
 - [Hammox](https://github.com/msz/hammox) - Automated contract testing for Elixir functions and mocks.
 - [PropCheck](https://github.com/alfert/propcheck) - Property based testing for Elixir.
+- [Mock](https://github.com/jjh42/mock) - Mocking library for Elixir language.
 
 ## ML
 
@@ -92,6 +93,7 @@
 - [Rustic Result](https://github.com/linkdd/rustic_result) - Result monad for Elixir inspired by Rust Result type. ([HN](https://news.ycombinator.com/item?id=28913884))
 - [Explorer](https://github.com/elixir-nx/explorer) - Dataframes for Elixir.
 - [Burrito](https://github.com/burrito-elixir/burrito) - Cross-Platform Elixir Deployments.
+- [ex_cldr](https://github.com/elixir-cldr/cldr) - Elixir implementation of CLDR/ICU.
 
 ## Links
 

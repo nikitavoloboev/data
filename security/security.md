@@ -212,3 +212,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Rekor](https://github.com/sigstore/rekor) - Fulfills the signature transparency role of sigstore's software signing infrastructure.
 - [Keylime](https://keylime.dev/) - Bootstrap & Maintain Trust on the Edge / Cloud and IoT. ([Code](https://github.com/keylime/keylime))
 - [fulcio](https://github.com/sigstore/fulcio) - Sigstore WebPKI.
+- [Trojan Source Attacks](https://trojansource.codes/) - Attack the encoding of source code files to inject vulnerabilities. ([HN](https://news.ycombinator.com/item?id=29062982)) ([Code](https://github.com/nickboucher/trojan-source))

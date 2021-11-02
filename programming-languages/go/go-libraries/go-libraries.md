@@ -82,6 +82,8 @@
 - [go-test-trace](https://github.com/rakyll/go-test-trace) - Go test but it also generates distributed traces.
 - [Hazana](https://github.com/emicklei/hazana) - Build load tests for services (http, gRPC, tcp) by implementing an Attacker.
 - [Truthy](https://github.com/carlmjohnson/truthy) - Provides truthy condition testing with Go generics.
+- [Moq](https://github.com/matryer/moq) - Interface mocking tool for go generate.
+- [testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, mocking, input testing, output capturing, and much more.
 
 ## Web
 
@@ -1020,6 +1022,7 @@
 - [Hunch](https://github.com/AaronJan/Hunch) - Provides functions like: All, First, Retry, Waterfall etc., that makes asynchronous flow control more intuitive.
 - [Expect](https://github.com/google/goexpect) - Implementation of Expect in Go.
 - [Go development helpers](https://github.com/bool64/dev) ([Article](https://dev.to/vearutop/identifying-breaking-changes-in-pull-request-of-a-go-library-1db2))
+- [replace](https://github.com/icholy/replace) - Streaming text replacement for Go.
 
 ## Links
 

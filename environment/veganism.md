@@ -52,3 +52,5 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Alternative Milks (2021)](https://blog.bramp.net/post/2021/04/03/alternative-milks/) ([HN](https://news.ycombinator.com/item?id=28356136))
 - [Consider Veganism](http://considerveganism.com/) - Straightforward arguments for veganism. ([Code](https://github.com/squeek502/considerveganism.com))
 - [Lab-grown meat may never be cost-competitive enough to displace traditional meat (2021)](https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/) ([HN](https://news.ycombinator.com/item?id=28621288))
+- [Веганство - это единственная справедливая позиция по отношению к животным](https://twitter.com/polina_txt/status/1443465929959018497)
+- [«Животные страдают, а я не могу один день поголодать?» (2021)](https://takiedela.ru/2021/11/zhivotnye-stradayut/) ([Tweet](https://twitter.com/polina_txt/status/1455103445208289282))

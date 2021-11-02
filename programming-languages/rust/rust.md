@@ -604,3 +604,5 @@
 - [Debounce (2021)](https://softwaremaniacs.org/blog/2021/10/25/debounce/en/)
 - [My ideal Rust workflow (2021)](https://fasterthanli.me/articles/my-ideal-rust-workflow) ([HN](https://news.ycombinator.com/item?id=29010327))
 - [Former HFT C++ programmer, on how Rust fixes C++'s serious issues (2021)](https://www.thecodedmessage.com/posts/hello-rust/) ([Reddit](https://www.reddit.com/r/rust/comments/qgmo10/im_a_former_hft_c_programmer_starting_a_series_on/))
+- [rftrace](https://github.com/tlambertz/rftrace) - Rust Function Tracer.
+- [Test-Driving the Rust Model Checker (RMC) (2021)](https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/)

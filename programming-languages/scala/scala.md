@@ -100,3 +100,5 @@
 - [New to Scala advice (2021)](https://www.reddit.com/r/scala/comments/q85nu1/new_to_scala/)
 - [Scala CLI](https://scala-cli.virtuslab.org/) - Tool to run/compile/test Scala that aims at being a better scala command. ([Code](https://github.com/VirtusLab/scala-cli))
 - [How to Master Scala Step by Step (2021)](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)
+- [Petr Zapletal's This week in Scala Newsletter](https://petr-zapletal.medium.com/)
+- [Demystifying Akka Streams' Materialized Values (2021)](http://nivox.github.io/posts/akka-stream-materialized-values/) ([Reddit](https://www.reddit.com/r/scala/comments/qja6m6/demystifying_akka_streams_materialized_values/))

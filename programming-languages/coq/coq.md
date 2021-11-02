@@ -82,3 +82,6 @@
 - [Coq-Combi](https://github.com/math-comp/Coq-Combi) - Algebraic Combinatorics in Coq.
 - [Toy Hoare Logic Formalization for IMP](https://github.com/codyroux/hoare-toy)
 - [Reasoning about the garden of forking paths (2021)](https://arxiv.org/abs/2103.07543) ([Coq Code](https://github.com/lastland/ClairvoyanceMonad))
+- [Formalization of the basic actuarial mathematics using Coq](https://github.com/Yosuke-Ito-345/Actuary)
+- [Sniper](https://github.com/smtcoq/sniper) - Coq plugin that provides a new Coq tactic, snipe, that provides general proof automation.
+- [SMTCoq](https://github.com/smtcoq/smtcoq) - Communication between Coq and SAT/SMT solvers.

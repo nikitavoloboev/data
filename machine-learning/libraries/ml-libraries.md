@@ -208,3 +208,5 @@
 - [mle-hyperopt](https://github.com/RobertTLange/mle-hyperopt) - Lightweight Hyperparameter Optimization Tool.
 - [Feature Engine](https://github.com/feature-engine/feature_engine) - Python library with multiple transformers to engineer and select features for use in machine learning models.
 - [BaaL](https://github.com/ElementAI/baal) - Bayesian active learning library.
+- [TorchArrow](https://github.com/facebookresearch/torcharrow) - torch.Tensor-like DataFrame library supporting multiple execution runtimes and Arrow as a common memory format.
+- [Arm NN](https://github.com/ARM-software/armnn) - Software and tools that enables machine learning workloads on power-efficient devices.

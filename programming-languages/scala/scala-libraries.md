@@ -111,6 +111,7 @@
 - [ECScala](https://github.com/nicolasfara/ecscala) - ECS Scala framework.
 - [ZIO Akka Cluster](https://github.com/zio/zio-akka-cluster)
 - [Squants](https://github.com/typelevel/squants) - Scala API for Quantities, Units of Measure and Dimensional Analysis.
+- [dynamic](https://github.com/reugn/dynamic) - Scala library that allows copying a case class using a dynamic property name.
 
 ## Links
 
@@ -119,3 +120,4 @@
 - [Scalaland.io](https://scalalandio.github.io/) - Umbrella for various Scala projects. ([GitHub](https://github.com/scalalandio))
 - [Awesome Scala Native](https://github.com/tindzk/awesome-scala-native)
 - [ZIO Cheat Sheet](https://github.com/ghostdogpr/zio-cheatsheet)
+- [Best Scala framework / libraries (2021)](https://www.reddit.com/r/scala/comments/qilhao/best_scala_framework_libraries_out_there/)

@@ -9,6 +9,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Inter](https://github.com/rsms/inter) - Typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens. ([Web](https://rsms.me/inter/)) ([The story behind Inter](https://overcast.fm/+HZUeSpUyE)) ([HN](https://news.ycombinator.com/item?id=28009042))
 - [Anchor](https://processtypefoundry.com/fonts/anchor/) - Informal family of round display gothics, with a serious side. ([Anchor in use: Charm](https://processtypefoundry.com/blog/2021/10/anchor-in-use-charm/))
 - [Sigurd](https://www.behance.net/gallery/127110261/Sigurd-Font-Family)
+- [Graphik](https://commercialtype.com/catalog/graphik)
 - [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) ([Code](https://github.com/googlefonts/Inconsolata))
 - [Public Sans](https://github.com/uswds/public-sans) - Strong, neutral, principles-driven, open source typeface for text or display.
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) - Fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.

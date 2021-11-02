@@ -595,3 +595,4 @@ if err != nil {
 - [Mocking interfaces with typed functions in Go (2021)](https://dev.to/vearutop/mocking-interfaces-in-go-4nfn)
 - [Continuous benchmarking with Go and GitHub Actions (2021)](https://dev.to/vearutop/continuous-benchmarking-with-go-and-github-actions-41ok)
 - [Improving JSON readability in Go (2021)](https://dev.to/vearutop/reducing-indented-json-height-in-go-40nd)
+- [Pandora](https://github.com/yandex/pandora) - High-performance load generator in Go language.

@@ -26,6 +26,7 @@
 
 - [rawdraw](https://github.com/cntools/rawdraw) - Fundamental Graphics Library.
 - [LVGL](https://github.com/lvgl/lvgl) - Light and Versatile Graphics Library. ([Web](https://lvgl.io/))
+- [Kinc](https://github.com/Kode/Kinc) - Modern low level game library and hardware abstraction.
 
 ## Test
 
@@ -96,3 +97,4 @@
 - [vx32](https://github.com/9fans/vx32) - Portable, efficient, safe execution of untrusted x86 code.
 - [Metalang99](https://github.com/Hirrolot/metalang99) - Full-blown preprocessor metaprogramming.
 - [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C.
+- [libuvc](https://github.com/libuvc/libuvc) - Cross-platform library for USB video devices.

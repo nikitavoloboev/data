@@ -67,3 +67,4 @@
 - [App Center fastlane plugin](https://github.com/microsoft/fastlane-plugin-appcenter)
 - [snowpatch](https://github.com/ruscur/snowpatch) - Enabling continuous integration for patch-based development workflows.
 - [ci-env](https://github.com/siddharthkp/ci-env) - Environment variables exposed by CI tools.
+- [go-circleci](https://github.com/grezar/go-circleci) - CircleCI API (V2) Client Library in Go.

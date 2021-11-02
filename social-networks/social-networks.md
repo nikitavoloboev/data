@@ -135,3 +135,4 @@
 - [Unique on Facebook: Formulation and Evidence of (Nano)targeting Individual Users with non-PII Data (2021)](https://arxiv.org/abs/2110.06636) ([Tweet](https://twitter.com/ekr____/status/1448785267872071680))
 - [Facebook Papers: ‘History Will Not Judge Us Kindly’ (2021)](https://www.theatlantic.com/ideas/archive/2021/10/facebook-papers-democracy-election-zuckerberg/620478/)
 - [In many parts of the world, Facebook IS the internet (2021)](https://twitter.com/telliotter/status/1452660453641969665)
+- [Feedless](https://feedless.social/) - Non-addictive social network. ([Code](https://github.com/rogeriochaves/feedless))

@@ -53,3 +53,5 @@
 - [pHash](https://github.com/aetilius/pHash) - Open source perceptual hash library. ([Web](https://www.phash.org/))
 - [Consistent Hashing for Dummies (2021)](https://www.franzoni.eu/consistent-hashing-for-dummies/)
 - [Meow Hash](https://mollyrocket.com/meowhash) ([HN](https://news.ycombinator.com/item?id=29038813))
+- [Poseidon Hash](https://www.poseidon-hash.info/) - ZK-friendly Hashing.
+- [Neptune](https://github.com/filecoin-project/neptune) - Rust implementation of the Poseidon hash function tuned for Filecoin.

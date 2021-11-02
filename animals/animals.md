@@ -39,6 +39,10 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Level of devotion of sea otter mothers for their pups](https://twitter.com/Rainmaker1973/status/1448723919737872384)
 - [Sea Otters hold hands with their friends and family members whilst sleeping. This is so they don't drift apart, and lose each other.](https://twitter.com/gunsnrosesgirl3/status/1449373228242198533)
 
+## Notes
+
+- [Dogs evolved to live with humans when we had very different lifestyles. Most people no longer have lives and jobs which align with the social & mental needs of a dog. That leads to a very one sided relationship where the dog's needs get overly relegated or neglected. Therefore most people shouldn't own a dog, especially not just one.](https://news.ycombinator.com/item?id=29055956)
+
 ## Links
 
 - [BrushyBrushy subreddit](https://www.reddit.com/r/brushybrushy)

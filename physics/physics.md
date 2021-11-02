@@ -250,3 +250,4 @@
 - [The Nobel Prize in Physics 2021- Physics for climate and other complex phenomena](https://www.nobelprize.org/prizes/physics/2021/press-release/) ([HN](https://news.ycombinator.com/item?id=28757304)) ([Reddit](https://www.reddit.com/r/Physics/comments/q1t338/the_nobel_prize_in_physics_2021/)) ([Tweet](https://twitter.com/C4COMPUTATION/status/1445600154799656971))
 - [Atomic resolution video of salt crystals forming in real time (2021)](https://phys.org/news/2021-01-first-ever-atomic-resolution-video-salt.html) ([HN](https://news.ycombinator.com/item?id=28785602))
 - [Five Things We Still Don’t Know About Water (2015)](https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water) ([HN](https://news.ycombinator.com/item?id=28921543))
+- [Nature Physics](https://www.nature.com/nphys/) ([Twitter](https://twitter.com/NaturePhysics))

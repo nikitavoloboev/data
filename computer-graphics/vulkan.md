@@ -50,3 +50,4 @@
 - [Simplified Vulkan Synchronization](https://github.com/Tobski/simple_vulkan_synchronization) - Single-header library with a simplified interface for Vulkan synchronization.
 - [Samples to illustrate Vulkan API on Android](https://github.com/googlesamples/android-vulkan-tutorials)
 - [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap) - Vulkan bootstraping library.
+- [vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig.

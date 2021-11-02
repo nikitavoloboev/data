@@ -6,6 +6,7 @@
 
 ## Links
 
+- [Getting Started with OCaml in 2021](https://lambdafoo.com/posts/2021-10-29-getting-started-with-ocaml.html)
 - [Learn OCaml](https://ocaml-sf.org/learn-ocaml-public/) - Web Application for Learning OCaml. ([Code](https://github.com/ocaml-sf/learn-ocaml))
 - [OCaml Programming: Correct + Efficient + Beautiful Book (2021)](https://cs3110.github.io/textbook/cover.html) - Textbook on functional programming and data structures in OCaml. ([Lectures](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)) ([Tweet](https://twitter.com/avsm/status/1448972909863636993))
 - [Introduction to OCaml (2018)](https://blog.baturin.org/introduction-to-ocaml.html)
@@ -94,3 +95,4 @@
 - [Using, Understanding, and Unraveling The OCaml Language From Practice to Theory and vice versa](https://caml.inria.fr/pub/docs/u3-ocaml/)
 - [Effective Concurrency with Algebraic Effects in Multicore OCaml (2015)](https://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/) ([HN](https://news.ycombinator.com/item?id=28838099))
 - [MetaML and MetaOCaml bibliography](https://github.com/metaocaml/metaocaml-bibliography)
+- [Plans to choose an official package/project manager? (2021)](https://discuss.ocaml.org/t/plans-to-choose-an-official-package-project-manager/8620) - Current state of tooling and where it falls short.

@@ -81,7 +81,7 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [simple-markdown](https://github.com/Khan/simple-markdown) - JavaScript markdown parsing, made simple.
 - [Improving The Accessibility Of Your Markdown (2021)](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/)
 - [Markmap](https://github.com/dundalek/markmap) - JavaScript component that will visualize your markdown documents as mindmaps.
-- [Swift Markdown](https://github.com/apple/swift-markdown) - Swift package for parsing, building, editing, and analyzing Markdown documents.
+- [Swift Markdown](https://github.com/apple/swift-markdown) - Swift package for parsing, building, editing, and analyzing Markdown documents. ([Tweet](https://twitter.com/ChristianSelig/status/1455222872125935619))
 - [SwiftMarkdownBuilder](https://github.com/DoccZz/SwiftMarkdownBuilder) - resultBuilder support for swift-markdown.
 - [UXMD](https://github.com/lobau/uxmd) - Collaborative markdown for designing state flows.
 - [deno-gfm](https://github.com/lucacasonato/deno-gfm) - Server-side GitHub Flavored Markdown rendering for Deno.

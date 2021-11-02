@@ -75,3 +75,4 @@
 - [Fuse-Archive](https://github.com/google/fuse-archive) - Program that serves an archive or compressed file (e.g. foo.tar, foo.tar.gz, foo.xz, foo.zip) as a FUSE file system.
 - [Flatdata](https://github.com/heremaps/flatdata) - Write-once, read-many, minimal overhead binary structured file format.
 - [AetherFS](https://github.com/mjpitz/aetherfs) - Virtual file system for small to medium sized datasets (MB or GB, not TB or PB). Like Docker, but for data. ([Web](https://aetherfs.tech/))
+- [ChubaoFS](https://github.com/chubaofs/chubaofs) - Cloud native distributed file system and object store.

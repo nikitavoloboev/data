@@ -55,3 +55,4 @@
 - [Memory Performance in a Nutshell](https://www.intel.com/content/www/us/en/developer/articles/technical/memory-performance-in-a-nutshell.html)
 - [Awesome Allocators](https://github.com/rain-1/awesome-allocators)
 - [Interesting Garbage Collection Patterns (2021)](https://blog.gceasy.io/2021/10/15/interesting-garbage-collection-patterns/)
+- [SuperMalloc](https://github.com/kuszmaul/SuperMalloc) - Super Fast Multithreaded malloc() for 64-bit Machines.

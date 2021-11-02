@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md) are great distributed consensus systems for transacting assets and running code ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins ([Monero](monero.md)) to be most interesting use cases of crypto right now.
+I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md)/[AVAX](https://www.avax.network/) are great distributed consensus systems for transacting assets and running code ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins ([Monero](monero.md)) to be most interesting use cases of crypto right now.
 
 It's annoying that a lot of [people/projects use these distributed ledgers as ponzi schemes](https://twitter.com/eddyb_r/status/1451679543702478860) or still use super wasteful consensus system ([Bitcoin](bitcoin.md)).
 
@@ -154,3 +154,12 @@ It's annoying that a lot of [people/projects use these distributed ledgers as po
 - [Why Wallets Excite Me Again (2021)](https://ricburton.mirror.xyz/2FFEmghrC3_-jhQSRSIGr8s1LOmaJTEsdYFoxj4xKpQ) ([Tweet](https://twitter.com/ricburton/status/1452700629948764162))
 - [Matcha](https://matcha.xyz/) - Trade all DEXs at once. Finds you the best prices across exchanges and combines them into one trade. ([Twitter](https://twitter.com/matchaxyz))
 - [Staking Rewards](https://www.stakingrewards.com/) - Data provider for staking and crypto-growth tools.
+- [Crypto Cities (2021)](https://vitalik.ca/general/2021/10/31/cities.html) ([HN](https://news.ycombinator.com/item?id=29063335)) ([Tweet](https://twitter.com/VitalikButerin/status/1455043525809213443))
+- [CityCoins](https://www.citycoins.co/) - Give communities the power to improve and program their cities. ([Twitter](https://twitter.com/minecitycoins))
+- [Orca](https://www.orca.so/) - DEX for people, not programs. ([TS SDK](https://github.com/orca-so/typescript-sdk))
+- [How do liquidity pools work? (Uniswap, Curve, Balancer)](https://www.youtube.com/watch?v=cizLhxSKrAc&t=32s)
+- [Port Finance](https://port.finance/) - Lending protocol.
+- [Yield Farming Tutorials](https://www.youtube.com/playlist?list=PL-NLevh5gXjnb8N_k27bCZwYJC-pMcfnQ)
+- [Seb Montgomery - YouTube](https://www.youtube.com/c/SebMontgomery/playlists) - Trying to make the most simple explanations and videos on cryptocurrencies.
+- [Alongside](https://www.alongside.finance/) - Smart & simple way to invest in cryptoassets with indexes. ([Twitter](https://twitter.com/alongsidefi)) ([Tweet](https://twitter.com/AustinLDiamond/status/1455229850717990918))
+- [Report on Stablecoins (2021)](https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf) ([HN](https://news.ycombinator.com/item?id=29071895))

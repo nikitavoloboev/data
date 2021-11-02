@@ -17,6 +17,10 @@
 - [OkRedis](https://github.com/kristoff-it/zig-okredis) - Zero-allocation Client for Redis 6+.
 - [lmdb-zig](https://github.com/lithdew/lmdb-zig) - Lightweight, fully-featured, idiomatic cross-platform Zig bindings to Lightning Memory-Mapped Database (LMDB).
 
+## Crypto
+
+- [charm](https://github.com/jedisct1/zig-charm) - Zig version of the Charm crypto library.
+
 ## Other
 
 - [Zig ECS](https://github.com/prime31/zig-ecs)
@@ -32,6 +36,8 @@
 - [ziglyph](https://github.com/jecolon/ziglyph) - Unicode text processing.
 - [Zigstr](https://github.com/jecolon/zigstr) - UTF-8 string type.
 - [Zig Interfaces](https://github.com/alexnask/interface.zig) - Dynamic dispatch for zig made easy.
+- [hyperia](https://github.com/lithdew/hyperia) - Playground of Zig async code.
+- [zigimg](https://github.com/zigimg/zigimg) - Create, process, read and write different image formats with Zig.
 
 ## Links
 

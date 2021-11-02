@@ -114,3 +114,4 @@
 - [Avoiding the audience paradox when writing job descriptions (2021)](https://blog.interviewing.io/how-to-write-good-job-descriptions/) ([HN](https://news.ycombinator.com/item?id=28630431))
 - [Better alternative to giving out option grants (2021)](https://twitter.com/harryhurst/status/1270562546206912514)
 - [Monzo's on-call compensation](https://twitter.com/bradleyjkemp/status/1445706941028704272)
+- [They don't even know the fundamentals (2021)](https://blog.royalsloth.eu/posts/they-dont-even-know-the-fundamentals/) ([HN](https://news.ycombinator.com/item?id=29064822))

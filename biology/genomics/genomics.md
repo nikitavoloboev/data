@@ -107,3 +107,4 @@
 - [Holt Lab](https://holtlab.net/) - Microbial genomics.
 - [Prodigal](https://github.com/hyattpd/Prodigal) - Prodigal Gene Prediction Software.
 - [Predicting gene expression with AI | DeepMind (2021)](https://deepmind.com/blog/article/enformer) ([Code](https://github.com/lucidrains/enformer-pytorch))
+- [Clonal dominance in excitable cell networks (2021)](https://www.nature.com/articles/s41567-021-01383-0)

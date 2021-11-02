@@ -4,7 +4,7 @@ The number of crimes against humanity committed by governments of [China, Russia
 
 It's a travesty that citizen's taxes are are being stolen to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
 
-As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are [so brainwashed that they are ok with being abused](https://www.youtube.com/watch?v=K_tEHkJkbEU). Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are willing to put their lives at risk in order to live a better future.
+As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are [so brainwashed that they are ok with being abused](https://www.youtube.com/watch?v=qL2wVKAQqLI&t=1s). Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are [willing to put their lives at risk in order to live a better future](https://www.youtube.com/watch?v=DvLKpqtxCg4).
 
 My current plan/hope to do my part in crushing these systems is by helping to build best tools available for all things learning & organizing around causes/ideas. Everyone should be able to think critically and know how to be effective and how to stop being abused by their environment.
 
@@ -321,3 +321,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Книжные памятники — собрание ценных изданий](https://kp.rusneb.ru/)
 - [НЭБ](https://rusneb.ru/) - Национальная электронная библиотека.
 - [Почему в России ТАКАЯ власть? Государство в двух словах. (2021)](https://www.youtube.com/watch?v=65YBwgOPrSE)
+- [Yes, It Was An 'Evil Empire' (2021)](https://reason.com/2021/11/01/yes-it-was-an-evil-empire/)
+- [The Stunning Grandeur of Soviet-Era Metros (2021)](https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html)

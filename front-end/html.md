@@ -190,3 +190,4 @@
 - [HTMHell](https://www.htmhell.dev/) - Collection of bad practices in HTML, copied from real websites.
 - [HTML Tips & Tricks](https://www.htmhell.dev/tips/)
 - [The HTML video element needs to go back on the drawing board (2021)](https://www.ctrl.blog/entry/html-responsive-video.html) ([HN](https://news.ycombinator.com/item?id=29024868))
+- [Percollate](https://github.com/danburzo/percollate) - Command-line tool that turns web pages into beautifully formatted PDF, EPUB, or HTML files.

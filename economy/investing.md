@@ -1,6 +1,6 @@
 # Investing
 
-I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebrokers.co.uk/en/home.php) & [Trading 212](https://www.trading212.com/).
+I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebrokers.co.uk/en/home.php) & [Trading 212](https://www.trading212.com/). I also hold & stake some [crypto](../cryptocurrencies/cryptocurrencies.md), mainly [Solana](../databases/blockchain/solana.md).
 
 ## Notes
 
@@ -28,6 +28,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [VTWAX fund seems good](https://news.ycombinator.com/item?id=27747934)
 - [One of the best times to buy a stock is when a good company sells off on earnings due to investor overreaction. It requires a bit of digging and judgment to determine whether the selloff was justified or an overreaction, but it can be very profitable.](https://www.reddit.com/r/investing/comments/oz6a2y/trader_do_you_buy_stocks_right_after_a_large_drop/)
 - [You don’t get wealthy from “taking profit” every chance you get. You get wealthy by finding long term profitable companies that you buy in to and hold for years.](https://www.reddit.com/r/investing/comments/p0r3o4/time_to_take_aapl_gains_and_gtfo/)
+- [Wealthiest 10% of Americans own a record 89% of all U.S. stocks. Remember this next time a politician tries to point to the stock market as a sign of economic health.](https://twitter.com/JordanUhl/status/1454943968186097664)
 
 ## Links
 

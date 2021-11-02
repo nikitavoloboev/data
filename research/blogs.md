@@ -167,3 +167,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Why the Substack hype is much ado about very little (2020)](https://dankennedy.net/2020/12/09/blogging-is-dead-long-live-blogging-or-why-the-substack-hype-is-much-ado-about-very-little/) ([HN](https://news.ycombinator.com/item?id=27968203))
 - [The stream](https://github.com/thesephist/stream) - Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak.
 - [Blogging for Business Course](https://ahrefs.com/academy/blogging-for-business)
+- [Salto](https://www.salto.so/) - Build a programming blog without the hassle.

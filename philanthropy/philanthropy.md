@@ -16,3 +16,4 @@ I also support [Archive.org](https://archive.org/donate/) & [Wikipedia](https://
 - [Against Malaria](https://www.againstmalaria.com/default.aspx)
 - [GiveWell](https://www.givewell.org/) - Charity Reviews and Research.
 - [Deed](https://www.joindeed.com/) - Helping companies retain employees by doing good deeds.
+- [What I learnt building a software company in volunteering (2021)](https://tycho.substack.com/p/building-a-volunteering-saas-company)

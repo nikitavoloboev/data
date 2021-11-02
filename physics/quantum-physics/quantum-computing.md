@@ -106,3 +106,4 @@
 - [Quantum Machine Learning Community Course](https://github.com/SemyonSinchenko/qmlcourse)
 - [Exploring Quantum Technology: Qiskit and RasQberry (2021)](https://www.eetimes.com/exploring-quantum-technology-qiskit-and-rasqberry/)
 - [BQSKit](https://github.com/BQSKit/bqskit) - Berkeley Quantum Synthesis Toolkit.
+- [Quantum computing with Chris Granade (2021)](https://overcast.fm/+i6QEMvrbY)

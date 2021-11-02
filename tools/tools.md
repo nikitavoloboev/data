@@ -207,6 +207,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Builder](https://www.builder.io/) - Drag and Drop Page Building for Any Tech Stack. ([GitHub](https://github.com/BuilderIO)) ([Code](https://github.com/BuilderIO/builder))
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. ([Web](https://grafana.com/oss/loki/))
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
+- [Notifire](https://www.notifire.co/) - Open-source notification infrastructure for products. ([Code](https://github.com/notifirehq/notifire))
 - [Secoda](https://www.secoda.co/) - Data discovery built for modern data teams. ([HN](https://news.ycombinator.com/item?id=29038087))
 - [grokhat](https://grokhat.com/) - Web app built on top of WebSockets and WebRTC. Made for programmers, focusing to be the best pair programming / chat with hacking features.
 - [Creo](https://creolabs.com/) - Next generation iOS, macOS and Android cross-platform app builder.

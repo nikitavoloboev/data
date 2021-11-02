@@ -398,3 +398,4 @@
 - [Dropwatch](https://github.com/nhorman/dropwatch) - Diagnose problems in the Linux Networking stack. Diagnose where packets are getting dropped.
 - [Moving Google toward the mainline (2021)](https://lwn.net/Articles/871195/) ([HN](https://news.ycombinator.com/item?id=28767854))
 - [proot-rs](https://github.com/proot-me/proot-rs) - Rust implementation of PRoot, a ptrace-based sandbox.
+- [finit](https://github.com/troglobit/finit) - Fast init for Linux systems. ([Web](https://troglobit.com/projects/finit/))

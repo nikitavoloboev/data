@@ -107,3 +107,5 @@
 - [Bridge Data: Boosting Generalization of Robotic Skills with Cross-Domain Datasets (2021)](https://arxiv.org/abs/2109.13396) ([Web](https://sites.google.com/view/bridgedata)) ([Tweet](https://twitter.com/chelseabfinn/status/1447755432714330114))
 - [dm_robotics](https://github.com/deepmind/dm_robotics) - Libraries, tools and tasks created and used at DeepMind Robotics.
 - [Robots Must Be Ephemeralized (2021)](https://evjang.com/2021/09/20/ephemeralization.html)
+- [Attention-driven Robotic Manipulation (ARM)](https://github.com/stepjam/ARM)
+- [PyTouch: A Machine Learning Library for Touch Processing (2021)](https://arxiv.org/abs/2105.12791) ([Code](https://github.com/facebookresearch/PyTouch))

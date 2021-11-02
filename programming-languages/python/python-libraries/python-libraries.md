@@ -527,6 +527,7 @@
 - [spec_classes](https://github.com/matthewwardrop/spec-classes) - Simple way to incrementally build type-checked specifications.
 - [Mensor](https://github.com/matthewwardrop/mensor) - Graph-based computation engine for computing measures and metrics.
 - [dirty_cat](https://github.com/dirty-cat/dirty_cat) - Encoding methods for dirty categorical variables. ([Docs](https://dirty-cat.github.io/stable/))
+- [XState Python](https://github.com/statelyai/xstate-python)
 
 ## Links
 

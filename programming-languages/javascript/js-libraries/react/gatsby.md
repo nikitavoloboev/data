@@ -83,3 +83,4 @@
 - [Build a Developer Blog with Gatsby (2021)](https://egghead.io/courses/build-a-developer-blog-with-gatsby-bd96)
 - [TypeScript starter for Gatsby](https://github.com/jpedroschmitz/gatsby-starter-ts) - Great for advanced users.
 - [Monetize Open-Source Software With Gatsby Functions And Stripe (2021)](https://www.smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/)
+- [Gatsby Discord](https://discord.com/invite/gatsby)

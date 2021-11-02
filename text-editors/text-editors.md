@@ -91,6 +91,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Milkdown](https://github.com/Saul-Mirone/milkdown) - WYSIWYG markdown editor.
 - [Rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative text editor, self-hosted, no database required. ([Web](https://rustpad.io/)) ([HN](https://news.ycombinator.com/item?id=27408326))
 - [ProseMirror + React + TypeScript example editor](https://github.com/TeemuKoivisto/prosemirror-react-typescript-example)
+- [deepnotes-editor](https://github.com/mukeshsoni/deepnotes-editor) - Workflowy like editor built with draft-js.
 
 ## Links
 

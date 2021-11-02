@@ -49,6 +49,10 @@
 - [Dis.ml](https://github.com/Mishio595/disml) - OCaml Discord API.
 - [discordjs/voice](https://github.com/discordjs/voice) - Implementation of the Discord Voice API for discord.js and other JS/TS libraries.
 
+## Notes
+
+- [Can right click on Discord server > privacy settings > disallow direct messages from the server. To remove spam being sent from those servers.](https://youtu.be/2UdKaktBvKQ?t=1063)
+
 ## Links
 
 - [rsPhate](https://github.com/Phate6660/rsPhate) - Discord bot written in Rust.
@@ -71,7 +75,9 @@
 - [discord-sdk](https://github.com/EmbarkStudios/discord-sdk) - Open implementation of the Discord Game SDK in Rust.
 - [Fosscord](https://github.com/fosscord/fosscord) - Free open source self hostable chat, voice and video discord-compatible platform.
 - [Discord Bots](https://discord.com/invite/0cDvIgU2voY8RSYL)
-- [Revolt](https://revolt.chat/) - Open-source alternative to Discord written in Rust. ([HN](https://news.ycombinator.com/item?id=28434012))
+- [Revolt](https://revolt.chat/) - Open-source alternative to Discord written in Rust. ([HN](https://news.ycombinator.com/item?id=28434012)) ([Docs](https://developers.revolt.chat/)) ([Awesome](https://github.com/insertish/awesome-revolt)) ([Issues/Discussion](https://github.com/revoltchat/revolt))
+- [Revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
+- [Delta](https://github.com/revoltchat/delta) - Revolt backend API server, built with Rust.
 - [Please stop closing forums and moving people to Discord (2021)](https://kotaku.com/please-stop-closing-forums-and-moving-people-to-discord-1847684851) ([HN](https://news.ycombinator.com/item?id=28549739))
 - [Discord Bot built with Fastify Tutorial](https://github.com/Eomm/fastify-discord-bot-demo)
 - [Fosscord Server](https://github.com/fosscord/fosscord-server) - Free and open source software compatible with Discord. It's a chat, voice and video platform similar to Slack and Rocket.chat. ([Web](https://fosscord.com/))

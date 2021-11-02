@@ -15,6 +15,7 @@
 - [The third founder with a remote team sharing the same story: An engineer they hired did great on the interviews but worked unexplainably slow day to day. When pairing: they worked fast. They stopped pairing: slowed down. Turns out, the person had a second job in all cases.](https://twitter.com/GergelyOrosz/status/1445854500443537414)
 - [Steve Jobs and I became close friends. We went for long walks at Castle Rock State Park, shared meals and wide-ranging conversations about life and design. We bounced ideas off each other. Sometimes he would start a conversation with "Here's a crazy idea...", and the idea would go back and forth and evolve into a serious discussion, or occasionally a workable design. Steve listened to me and challenged me. His support at Apple allowed me to made a difference in the world](https://focusmark.hashnode.dev/what-worries-me-about-remote-work)
 - [Linear does nice all team bake/cook together over zoom once a quarter](https://twitter.com/karrisaarinen/status/1453821275307077646)
+- [A single in person meeting with a coworker brought me closer to them than a year of weekly zoom 1:1s. claiming there’s no difference feels delusional to me.](https://twitter.com/gem_ray/status/1455218628358402048)
 
 ## Links
 
