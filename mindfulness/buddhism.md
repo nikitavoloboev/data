@@ -18,3 +18,4 @@
 - [The Buddhist Society](https://www.thebuddhistsociety.org/) ([Twitter](https://twitter.com/buddhistsociety))
 - [Intro to Buddhism Resources](https://www.reddit.com/r/RationalPsychonaut/comments/pkr0kz/existential_questions_after_a_trip/hc7xlwa/)
 - [There are no separate things](https://www.reddit.com/r/RationalPsychonaut/comments/pw3f83/there_are_no_separate_things_struggling_to/)
+- [Awesome Buddhism](https://github.com/sirredbeard/Awesome-Buddhism)

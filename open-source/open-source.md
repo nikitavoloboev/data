@@ -200,3 +200,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Why you should use a BSD style license for your Open Source Project](https://docs.freebsd.org/en/articles/bsdl-gpl/)
 - [Can we trust Microsoft with open source? (2021)](https://dusted.codes/can-we-trust-microsoft-with-open-source) ([HN](https://news.ycombinator.com/item?id=28968231))
 - [About Yak Shaving (2021)](https://antfu.me/posts/about-yak-shaving)
+- [Open Source Design](https://opensourcedesign.net/#page-top) - Connecting open source & design. ([GitHub](https://github.com/opensourcedesign))

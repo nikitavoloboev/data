@@ -141,3 +141,6 @@
 - [React Native Testing Library](https://github.com/callstack/react-native-testing-library) - Simple and complete React Native testing utilities that encourage good testing practices.
 - [react-native-native-runtime](https://github.com/shirakaba/react-native-native-runtime) - Access the native APIs directly from the React Native JS context.
 - [Toward Hermes being the Default (2021)](https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default) ([Tweet](https://twitter.com/janicduplessis/status/1453127558011183104))
+- [React Native UI kit](https://github.com/breeffy/react-native-monorepo) - Monorepo with UI components.
+- [react-native-share-menu](https://github.com/meedan/react-native-share-menu) - Module for React Native that adds your app to the share menu of the device.
+- [Spotify for React Native](https://github.com/lufinkey/react-native-spotify) - React native module for the Spotify SDK. Works on both iOS and Android.

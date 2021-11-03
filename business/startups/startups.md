@@ -68,6 +68,7 @@
 - [When a business model is well understood, we should be able to spend our time on what drives the metrics, not what they are.](https://twitter.com/evancharles/status/1450156809528889346)
 - [Startup ideas framework: What do you want that money can't buy?](https://twitter.com/maksim_s/status/1453818810851487771)
 - [Jeff Bezos’ advice for startups on how to spend their money: Pick the biggest problems and eliminate them one at a time.](https://twitter.com/JonErlichman/status/1454841337728090114)
+- [One excellent use for competitors: send your horrible prospective customers to them. When people ask me again and again (rudely) for a discount, after establishing we are not a good fit, I list out a bunch of Bannerbear competitors and tell them to take a look. Having awful customers is like death by a thousand cuts. Don’t tolerate abusive or passive aggressive BS in your customer support. Life is too short!](https://twitter.com/yongfook/status/1428356724528795657)
 
 ## Links
 

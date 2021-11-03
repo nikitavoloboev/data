@@ -19,3 +19,4 @@
 - [Processing + p5.js iCompiler for iOS](https://processing-app.org/) ([Code](https://github.com/Processing-iOS/Processing-iOS))
 - [SwiftProcessing](https://github.com/jjkaufman/SwiftProcessing) - iOS Swift Package for creative coding. ([Web](https://swiftprocessing.org/))
 - [Playful, beautiful, original p5xjs projects (2021)](https://twitter.com/sableRaph/status/1420379326621667335)
+- [Processing: the Software that Shaped Creative Coding (2021)](https://eyeondesign.aiga.org/processing-the-software-that-shaped-creative-coding) ([Tweet](https://twitter.com/ben_fry/status/1454110169500114945))

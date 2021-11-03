@@ -9,6 +9,7 @@
 
 ## Other
 
+- [suspend-react](https://github.com/pmndrs/suspend-react) - Integrate React Suspense into your apps.
 - [Rooks](https://github.com/imbhargav5/rooks) - Collection of regularly used custom hooks as utils for React.
 - [Constate](https://github.com/diegohaz/constate) - Scalable state manager using React Hooks & Context.
 - [Collection of essential React Hooks](https://github.com/streamich/react-use)
@@ -122,6 +123,7 @@
 - [useItemList](https://github.com/souporserious/use-item-list) - Primitive React hook used to coordinate indexed collections effortlessly.
 - [use-lax](https://github.com/arthurdenner/use-lax) - React hook to use with lax.js.
 - [fp-ts-react-stable-hooks](https://github.com/mblink/fp-ts-react-stable-hooks) - Reduce unnecessary rerenders when using fp-ts data types with React hooks.
+- [use-callback-ref](https://github.com/theKashey/use-callback-ref) - Same useRef, but it will callback.
 
 ## Code
 

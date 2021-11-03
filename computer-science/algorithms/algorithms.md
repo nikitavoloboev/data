@@ -84,6 +84,7 @@
 - [Unconventional Sorting Algorithms (2021)](https://codingkaiser.blog/2021/10/20/most-bizzare-sorting-algorithms-you-will-ever-see/) ([HN](https://news.ycombinator.com/item?id=28946451))
 - [What does algorithm intuition really mean (2021)](https://1pkg.github.io/posts/what_does_algorithm_intuition_really_mean/)
 - [The Design and Topology of an Algorithm](https://www.densebit.com/posts/24)
+- [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) ([Java Code](https://algs4.cs.princeton.edu/code/)) ([Go Code](https://github.com/youngzhu/algs4-go))
 
 ## Images
 

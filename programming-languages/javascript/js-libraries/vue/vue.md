@@ -81,3 +81,5 @@
 - [Is Nuxt 3 ready?](https://isnuxt3ready.owln.ai/) ([Code](https://github.com/owlnai/isnuxt3ready))
 - [Async with Composition API (2021)](https://antfu.me/posts/async-with-composition-api)
 - [Nuxt 3 Minimal Starter](https://github.com/kenny-io/Nuxt3-Tailwind-Supabase-Demo) - Uses Tailwind/Supabase.
+- [Arco Design Vue](https://github.com/arco-design/arco-design-vue)
+- [nuxt3-supabase](https://github.com/wobsoriano/nuxt3-supabase) - Nuxt 3 module and composables for Supabase.

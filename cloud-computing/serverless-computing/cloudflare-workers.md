@@ -1,5 +1,9 @@
 # [Cloudflare workers](https://workers.cloudflare.com/)
 
+## OSS tools build with CW
+
+- [Edge Comments](https://github.com/umstek/edge-comments) - Comments engine on the edge with Cloudflare.
+
 ## Links
 
 - [worker-template curl](https://github.com/Gaafar/curl-worker) - Cloudflare worker template that intercepts requests from curl command and returns something different.

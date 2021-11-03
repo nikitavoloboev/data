@@ -34,6 +34,7 @@
 - [Breadcrumb Trail](https://github.com/SkepticMystic/breadcrumbs) - Visualise a custom hierarchy in your Obsidian vault.
 - [Quick Switcher++](https://github.com/darlal/obsidian-switcher-plus) - Enhanced Quick Switcher plugin.
 - [Draw.io](https://github.com/zapthedingbat/drawio-obsidian) - Draw.io plugin for obsidian.md.
+- [Obsidian Kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 
 ## Themes
 

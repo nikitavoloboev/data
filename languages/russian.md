@@ -16,3 +16,4 @@
 - [Балабоба](https://yandex.ru/lab/yalm)
 - [Устаёшь и не успеваешь отдыхать?](https://www.youtube.com/watch?v=x5X61rXP0NY)
 - [Russian GPT-3 models](https://github.com/sberbank-ai/ru-gpts)
+- [Russian DALL-E](https://rudalle.ru/) - Generate images from texts. In Russian. ([Code](https://github.com/sberbank-ai/ru-dalle))

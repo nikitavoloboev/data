@@ -260,3 +260,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [How I motivate myself to write](https://blog.pragmaticengineer.com/writing-motivation/) ([HN](https://news.ycombinator.com/item?id=29035995))
 - [50 Resources And Tools To Turbocharge Your Copywriting Skills (2021)](https://www.smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/)
 - [Best Story Wins (2021)](https://www.collaborativefund.com/blog/story/) ([Tweet](https://twitter.com/mollyfmielke/status/1455257395542695936))
+- [What I learned from a year on Substack (2021)](https://www.niemanlab.org/2021/09/what-i-learned-from-a-year-on-substack/) ([HN](https://news.ycombinator.com/item?id=29090448))

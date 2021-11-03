@@ -2,7 +2,7 @@
 
 > Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-Diving into building dApps with Solana. [Stake my SOL](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) ([tutorial](https://www.youtube.com/watch?v=GNgSzJ4KxZg)) with [Marinade](https://marinade.finance/app/staking) & [Phantom Wallet](https://phantom.app/). mSOL I get from Marinade is [pooled](https://www.youtube.com/watch?v=cizLhxSKrAc&t=32s) with [Orca](https://www.orca.so/).
+Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. [Stake my SOL](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) ([tutorial](https://www.youtube.com/watch?v=GNgSzJ4KxZg)) with [Marinade](https://marinade.finance/app/staking) & [Phantom Wallet](https://phantom.app/). mSOL I get from Marinade is [pooled](https://www.youtube.com/watch?v=cizLhxSKrAc&t=32s) with [Orca](https://www.orca.so/).
 
 ## Apps
 
@@ -125,3 +125,7 @@ Diving into building dApps with Solana. [Stake my SOL](https://www.reddit.com/r/
 - [Jupiter Aggregator](https://jup.ag/) - Best swap aggregator on Solana. ([Twitter](https://twitter.com/jupiterexchange)) ([Video](https://www.youtube.com/watch?v=WzqXOPB_WPc))
 - [Solscan](https://solscan.io/) - User-friendly and real-time update Scanning Tool for Solana.
 - [SolTricks](https://soltricks.io/) - Create all kinds of Solana Tricks.
+- [Anchor Example: Escrow Program](https://github.com/ironaddicteddog/anchor-escrow)
+- [Anchor Example: Token Swap AMM](https://github.com/ironaddicteddog/anchor-amm)
+- [Bonfida](https://bonfida.org/#/) - Full product suite that bridges the gap between Serum, Solana and the user. ([Twitter](https://twitter.com/bonfida)) ([Docs](https://docs.bonfida.org/collection/v/help/))
+- [AnchorPy](https://github.com/kevinheavey/anchorpy) - Python client for Anchor. It allows you to interact with Anchor programs using Python.

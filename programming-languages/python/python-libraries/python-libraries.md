@@ -170,6 +170,7 @@
 - [Parameterized](https://github.com/wolever/parameterized) - Parameterized testing for nose, parameterized testing for py.test, parameterized testing for unittest.
 - [hyppo](https://github.com/neurodata/hyppo) - Python package for multivariate hypothesis testing.
 - [pytest-instafail](https://github.com/pytest-dev/pytest-instafail) - Plugin for pytest that shows failures and errors instantly instead of waiting until the end of test session.
+- [pytest-mock](https://github.com/pytest-dev/pytest-mock) - Thin-wrapper around the mock package for easier use with pytest.
 
 ## Other
 
@@ -528,6 +529,8 @@
 - [Mensor](https://github.com/matthewwardrop/mensor) - Graph-based computation engine for computing measures and metrics.
 - [dirty_cat](https://github.com/dirty-cat/dirty_cat) - Encoding methods for dirty categorical variables. ([Docs](https://dirty-cat.github.io/stable/))
 - [XState Python](https://github.com/statelyai/xstate-python)
+- [construct-typing](https://github.com/timrid/construct-typing) - Extension of the python package construct, which is a powerful declarative and symmetrical parser and builder for binary data.
+- [pyembc](https://github.com/waszil/pyembc) - Declarative library for for describing embedded C data types in python.
 
 ## Links
 

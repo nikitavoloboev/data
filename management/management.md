@@ -157,3 +157,5 @@
 - [Awesome Project Management](https://github.com/shahedbd/awesome-project-management)
 - [Understanding the reasoning behind the four agile values](https://rchaves.app/why-agile-works/) ([HN](https://news.ycombinator.com/item?id=28980435))
 - [FactorialHR](https://factorialhr.com/) - All-in-One Human Resources (HR) Software.
+- [How we build software at Cloudflare (2021)](https://blog.cloudflare.com/building-software-at-cloudflare/)
+- [How learned helplessness happens in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams) ([HN](https://news.ycombinator.com/item?id=29060693))

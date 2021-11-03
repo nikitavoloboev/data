@@ -107,3 +107,6 @@
 - [Exploring Quantum Technology: Qiskit and RasQberry (2021)](https://www.eetimes.com/exploring-quantum-technology-qiskit-and-rasqberry/)
 - [BQSKit](https://github.com/BQSKit/bqskit) - Berkeley Quantum Synthesis Toolkit.
 - [Quantum computing with Chris Granade (2021)](https://overcast.fm/+i6QEMvrbY)
+- [Learn Quantum Computing with Python and Q# (2021)](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp)
+- [Why do we need Q# (2018)](https://devblogs.microsoft.com/qsharp/why-do-we-need-q/)
+- [Favorite way to explain quantum computers to a layperson (2021)](https://twitter.com/AnnaGHughes/status/1455538667301179392)

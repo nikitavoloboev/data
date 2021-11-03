@@ -177,6 +177,8 @@
 - [safety-match](https://github.com/suchipi/safety-match) - Rust-style pattern matching for TypeScript.
 - [tsutils](https://github.com/ajafff/tsutils) - Utility functions for working with typescript's AST.
 - [as-typed](https://github.com/lbguilherme/as-typed) - Static TypeScript types from a literal JSONSchema type.
+- [fast-sort](https://github.com/snovakovic/fast-sort) - Blazing fast array sorting with TypeScript support.
+- [NativeScript plugins](https://github.com/NativeScript/plugins)
 
 ## Links
 

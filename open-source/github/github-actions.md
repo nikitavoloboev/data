@@ -170,6 +170,7 @@
 ## Julia
 
 - [setup-julia](https://github.com/julia-actions/setup-julia) - Sets up a Julia environment for use in actions by downloading a specified version of Julia and adding it to PATH.
+- [RegisterAction](https://github.com/julia-actions/RegisterAction) - Register Julia packages via GitHub Actions.
 
 ## OCaml
 

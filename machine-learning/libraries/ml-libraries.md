@@ -210,3 +210,5 @@
 - [BaaL](https://github.com/ElementAI/baal) - Bayesian active learning library.
 - [TorchArrow](https://github.com/facebookresearch/torcharrow) - torch.Tensor-like DataFrame library supporting multiple execution runtimes and Arrow as a common memory format.
 - [Arm NN](https://github.com/ARM-software/armnn) - Software and tools that enables machine learning workloads on power-efficient devices.
+- [OpenRec](https://github.com/ylongqi/openrec) - Open-source and modular library for neural network-inspired recommendation algorithms.
+- [FlexFlow](https://github.com/facebookresearch/DLRM-FlexFlow) - Distributed deep learning framework that supports flexible parallelization strategies.

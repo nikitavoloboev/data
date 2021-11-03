@@ -189,3 +189,4 @@
 - [haskell-docs-cli](https://github.com/lazamar/haskell-docs-cli) - Allows you to perform Hoogle searches and to navigate Hackage documentation from the command line.
 - [hs-nix-template](https://github.com/utdemir/hs-nix-template) - Haskell project template that uses Nix and comes with cabal-install, ghcid, ormolu, haskell-language-server and more.
 - [Template for Haskell + Nix projects](https://github.com/jonascarpay/template-haskell)
+- [hackage-cli](https://github.com/hackage-trustees/hackage-cli) - CLI tool for Hackage.

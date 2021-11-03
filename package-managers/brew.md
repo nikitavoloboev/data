@@ -31,3 +31,5 @@
 - [Brewlet](https://github.com/zkokaja/Brewlet) - Missing menulet for brew.sh: keeping your packages up-to-date, and your system secure.
 - [Homebrew 3.0 (2021)](https://brew.sh/2021/02/05/homebrew-3.0.0/) ([HN](https://news.ycombinator.com/item?id=26035787))
 - [Homebrew bump formula GitHub Action](https://github.com/dawidd6/action-homebrew-bump-formula)
+- [Ask HN: Best Alternative to Homebrew in 2021?](https://news.ycombinator.com/item?id=29079096)
+- [homebrew-rmtree](https://github.com/beeftornado/homebrew-rmtree) - Remove a formula and its unused dependencies.

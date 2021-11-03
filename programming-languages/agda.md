@@ -56,3 +56,5 @@
 - [A Type and Scope Safe Universe of Syntaxes with Binding: Their Semantics and Proofs (2018)](https://gallais.github.io/pdf/icfp18.pdf) ([Agda Library](https://github.com/gallais/generic-syntax))
 - [Tic Tac Toe, formalized in Agda](https://github.com/TOTBWF/agda-tic-tac-toe)
 - [Intrinsically-Typed Definitional Interpreters à la Carte](https://github.com/casvdrest/composable-semantics)
+- [ModTT in Agda](https://github.com/HarrisonGrodin/agda-modtt)
+- [Generic](https://github.com/effectfully/Generic) - Library for doing generic programming in Agda.

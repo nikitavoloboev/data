@@ -364,3 +364,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Tech Talks - Apple Developer](https://developer.apple.com/tech-talks/)
 - [Lower Level iOS Notes](https://github.com/qyang-nj/llios)
 - [iOS Code Review Newsletter](https://newsletter.ioscodereview.com/) - Curated code improvement tips. ([Twitter](https://twitter.com/ios_code_review))
+- [Advanced Static vs Dynamic libraries and frameworks on iOS (and macOS) (2021)](https://bpoplauschi.github.io/2021/10/25/Advanced-static-vs-dynamic-libraries-and-frameworks.html)
+- [Introduction to static and dynamic, libraries and frameworks on iOS (and macOS) (2021)](https://bpoplauschi.github.io/2021/10/24/Intro-to-static-and-dynamic-libraries-frameworks.html)
+- [Clean Code on iOS (2021)](https://bpoplauschi.github.io/2021/09/20/Clean-Code-on-iOS.html)
+- [Clean Architecture on iOS (2021)](https://bpoplauschi.github.io/2021/09/21/Clean-Architecture-on-iOS.html)

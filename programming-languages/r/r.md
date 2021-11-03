@@ -87,3 +87,4 @@
 - [see](https://github.com/easystats/see) - Visualization toolbox for beautiful and publication-ready figures.
 - [lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier.
 - [butcher](https://github.com/tidymodels/butcher) - Reduce the size of model objects saved to disk.
+- [Awesome R package development](https://github.com/IndrajeetPatil/awesome-r-pkgtools)

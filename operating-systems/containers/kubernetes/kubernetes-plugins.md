@@ -23,6 +23,7 @@
 - [Druid Kubernetes Operator](https://github.com/druid-io/druid-operator)
 - [Notifications Engine](https://github.com/argoproj/notifications-engine) - Affordable notifications for Kubernetes.
 - [k6 Operator](https://github.com/grafana/k6-operator) - Operator for running distributed k6 tests.
+- [TiDB Operator](https://github.com/pingcap/tidb-operator) - TiDB operator creates and manages TiDB clusters running in Kubernetes.
 
 ## Links
 

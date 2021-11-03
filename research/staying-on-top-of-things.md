@@ -152,6 +152,7 @@ And these Discord servers:
 - [Inference](https://inference-review.com/) - International Review of Science.
 - [A Cup of Jo](https://cupofjo.com/) - Style, Culture, Motherhood, Travel, Food & Life.
 - [Interesting Engineering](https://interestingengineering.com/)
+- [Eye on Design](https://eyeondesign.aiga.org/)
 
 ### Other
 

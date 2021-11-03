@@ -87,3 +87,4 @@
 - [gem5-SALAM (System Architecture for LLVM-based Accelerator Modeling)](https://github.com/TeCSAR-UNCC/gem5-SALAM) - Novel system architecture designed to enable LLVM-based modeling and simulation of custom hardware accelerators.
 - [mlir-hs](https://github.com/google/mlir-hs) - Haskell bindings for MLIR.
 - [Make LLVM fast again (2020)](https://www.npopov.com/2020/05/10/Make-LLVM-fast-again.html)
+- [Building a Distribution of LLVM](https://llvm.org/docs/BuildingADistribution.html)

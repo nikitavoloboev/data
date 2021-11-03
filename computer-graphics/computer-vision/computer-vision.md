@@ -422,3 +422,7 @@
 - [CV Arxiv Daily](http://vincentqin.tech/cv-arxiv-daily/) ([Code](https://github.com/Vincentqyw/cv-arxiv-daily))
 - [OpenVisionCapsules](https://github.com/opencv/open_vision_capsules) - Set of libraries for encapsulating smart vision algorithms.
 - [MedMNIST: Large-Scale Lightweight Benchmark for 2D and 3D Biomedical Image Classification](https://medmnist.com/) ([Code](https://github.com/MedMNIST/MedMNIST))
+- [Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language (2021)](https://arxiv.org/abs/2110.15358) ([Code](https://github.com/dingmyu/VRDP))
+- [Neural-Pull: Learning Signed Distance Functions from Point Clouds by Learning to Pull Space onto Surfaces (2021)](https://arxiv.org/abs/2011.13495) ([Code](https://github.com/mabaorui/NeuralPull))
+- [The 2021 Image Similarity Dataset and Challenge (2021)](https://arxiv.org/abs/2106.09672) ([Code](https://github.com/facebookresearch/isc2021))
+- [K-Net: Towards Unified Image Segmentation (2021)](https://arxiv.org/abs/2106.14855) ([Code](https://github.com/ZwwWayne/K-Net))

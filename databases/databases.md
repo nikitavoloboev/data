@@ -228,6 +228,7 @@
 - [Sequelize-Auto](https://github.com/sequelize/sequelize-auto) - Automatically generate models for SequelizeJS via the command line.
 - [DrawSQL](https://drawsql.app/) - Database schema diagrams.
 - [SQLize](https://github.com/sunary/sqlize) - Generate MySQL/PostgreSQL Migration from Go struct and existing SQL.
+- [OmniDB](https://omnidb.org/) - Web tool for database management. ([Code](https://github.com/OmniDB/OmniDB))
 
 ## Notes
 

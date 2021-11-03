@@ -103,6 +103,9 @@
 - [Polynomials.jl](https://github.com/JuliaMath/Polynomials.jl) - Polynomial manipulations in Julia.
 - [Roots](https://github.com/JuliaMath/Roots.jl) - Root finding functions for Julia.
 - [LatexPrint](https://github.com/scheinerman/LatexPrint.jl) - Print Julia objects in LaTeX form.
+- [Distances](https://github.com/JuliaStats/Distances.jl) - Julia package for evaluating distances (metrics) between vectors.
+- [Rewrite.jl](https://github.com/HarrisonGrodin/Rewrite.jl) - Efficient symbolic term rewriting engine.
+- [Simplify.jl](https://github.com/HarrisonGrodin/Simplify.jl) - Algebraic simplification in Julia.
 
 ## NLP
 

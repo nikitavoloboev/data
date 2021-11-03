@@ -165,3 +165,4 @@ All active variables can be seen by running `env`.
 - [Seashells](https://seashells.io/) - Pipe output from command-line programs to the web in real-time. ([HN](https://news.ycombinator.com/item?id=28901580)) ([Go Client](https://github.com/hans-strudle/seashells))
 - [Run](https://github.com/TekWizely/run) - Easily manage and invoke small scripts and wrappers.
 - [Stephen Bourne: Early days of Unix and design of sh (2015)](https://www.youtube.com/watch?v=2kEJoWfobpA)
+- [Anatomy of a Terminal Emulator (2021)](https://www.poor.dev/blog/terminal-anatomy/) ([HN](https://news.ycombinator.com/item?id=29080561))

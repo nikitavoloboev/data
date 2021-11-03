@@ -20,3 +20,5 @@
 - [Dutch city recommendation (2021)](https://www.reddit.com/r/Netherlands/comments/pljppa/dutch_city_recommendation/)
 - [List of Dutch inventions and innovations](https://en.wikipedia.org/wiki/List_of_Dutch_inventions_and_innovations)
 - [Elections in Holland: Dutch Democracy explained (2021)](https://www.youtube.com/watch?v=6yMiq96BgRc)
+- [What is the Dutch Political Structure? (2021)](https://www.youtube.com/watch?app=desktop&v=flBqZq8xhaE)
+- [Dutch politics resources](https://www.reddit.com/r/Netherlands/comments/qka59b/dutch_politics/)

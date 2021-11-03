@@ -122,3 +122,5 @@
 - [RISC-V and the CPU Revolution, Yunsup Lee (2018)](https://www.youtube.com/watch?v=AOC7KmHvx9w)
 - [RISC-V CPU In TypeScript - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)
 - [High-Level Synthesis For RISC-V (2021)](https://semiengineering.com/high-level-synthesis-for-risc-v/) ([HN](https://news.ycombinator.com/item?id=29028633))
+- [The Genius of the RISC-V Microprocessor - Erik Engheim (2021)](https://www.youtube.com/watch?v=v0ssX-JiV-s)
+- [RISC-V Open Source Supervisor Binary Interface (OpenSBI)](https://github.com/riscv-software-src/opensbi)

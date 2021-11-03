@@ -121,6 +121,8 @@
 - [Skui](https://github.com/skui-org/skui) - Skia-based C++ UI framework.
 - [nuklear-rust](https://github.com/snuk182/nuklear-rust) - Bindings to the Nuklear 2D immediate GUI library.
 - [Tuix](https://github.com/geom3trik/tuix) - Cross-platform GUI toolkit written in Rust.
+- [Elvis](https://github.com/clearloop/elvis) - WASM UI library.
+- [egui-gizmo](https://github.com/urholaukkarinen/egui-gizmo) - 3d transformation gizmo built on top of the egui library.
 
 ## DB
 
@@ -354,6 +356,7 @@
 - [duang](https://github.com/xiaoniu-578fa6bff964d005/duang) - Use macro to provide default parameter and named parameter in Rust.
 - [self_cell](https://github.com/Voultapher/self_cell) - Safe-to-use proc-macro-free self-referential structs in stable Rust.
 - [impls](https://github.com/nvzqz/impls) - Rust macro to determine if a type implements a logical trait expression.
+- [rust-derive-macro-guide](https://github.com/imbolc/rust-derive-macro-guide) - Simple derive macros in Rust.
 
 ## Math
 
@@ -1074,6 +1077,8 @@
 - [Mononym](https://github.com/maybevoid/mononym) - Type-level named values with partial dependent type support in Rust. ([Article](https://maybevoid.com/blog/mononym-part-1/))
 - [Lambek](https://github.com/maybevoid/lambek) - Type-Level Programming in Rust.
 - [SmolStr](https://github.com/rust-analyzer/smol_str)
+- [ATAT](https://github.com/BlackbirdHQ/atat) - no_std crate for parsing AT commands.
+- [Shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
 
 ## Cargo Plugins
 

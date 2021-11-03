@@ -54,3 +54,4 @@
 - [LottieFiles](https://lottiefiles.com/) - Lightweight, scalable animations for your website and apps. ([GitHub](https://github.com/LottieFiles)) ([Twitter](https://twitter.com/LottieFiles))
 - [Code vs Data Driven Displacement (2021)](https://theorangeduck.com/page/code-vs-data-driven-displacement) ([Code](https://github.com/orangeduck/Motion-Matching))
 - [Animation using Vite + Vue 3 + Tailwind CSS Talk](https://github.com/callumacrae/animation-talk-demo)
+- [Bringing back Cartoon Modern, a rare animation artbook (2021)](https://animationobsessive.substack.com/p/our-treat-to-you) ([HN](https://news.ycombinator.com/item?id=29075386))

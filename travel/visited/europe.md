@@ -24,3 +24,4 @@
 - [What's the weirdest or most surreal place you've visited in Europe? (2021)](https://www.reddit.com/r/AskEurope/comments/q55uo8/whats_the_weirdest_or_most_surreal_place_youve/)
 - [Ask HN: A US programmer makes 3 times that of a EU programmer. Why? (2021)](https://news.ycombinator.com/item?id=28837590)
 - [EU Chatcontrol 2.0 (2021)](https://peertube.european-pirates.eu/videos/watch/d64e6e10-0ad0-4b37-8813-3f5bc329f03b) ([HN](https://news.ycombinator.com/item?id=29066894))
+- [TLDR News EU - YouTube](https://www.youtube.com/c/TLDRNewsEU/videos)

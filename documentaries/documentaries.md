@@ -16,3 +16,4 @@ I saw a [few documentaries](https://letterboxd.com/nikitavoloboev/films/genre/do
 - [CuriosityStream](https://curiositystream.com/) - Thousands of documentaries that enlighten, entertain & inspire.
 - [Documentaries: The Best Of (2021)](https://www.reddit.com/r/MovieSuggestions/comments/pb7ue0/documentaries_the_best_of/)
 - [WaterBear](https://www.waterbear.com/) - Free library of documentaries and shorts. ([HN](https://news.ycombinator.com/item?id=28413951))
+- [The most interesting documentary you've seen (2021)](https://www.reddit.com/r/MovieSuggestions/comments/qkpd18/the_most_interesting_documentary_youve_seen_is/)

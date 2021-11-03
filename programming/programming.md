@@ -61,6 +61,7 @@
 - [Don’t build software systems “to last”: we humans are terrible at predicting what changes we’ll need to make in the future. Instead, develop expertise at replacing systems. You know for sure you’ll need to replace it, so replace often, you’ll get better at it!](https://twitter.com/generativist/status/1441535261255421953)
 - [Writing a program: 1. Analyze the problem. 2. Build the flow chart. 3. Code the instructions. ](https://twitter.com/kevinbaker/status/1450684742916005892)
 - [Better direction is to speed up applications by cutting most of the bullshit (JS/HTML) and move workload to the GPU. Seems like a much cleaner total complexity than go for thin client / fat server again.](https://twitter.com/rikarends/status/1451160562776297473)
+- [Recommendation I give everybody starting up in tech is: read the source. No matter what, read code.](https://twitter.com/matteocollina/status/1455581471859744770)
 
 ## Links
 

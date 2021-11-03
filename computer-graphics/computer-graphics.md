@@ -80,7 +80,7 @@
 - [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/) ([HN](https://news.ycombinator.com/item?id=23702552))
 - [Can’t Invert the CDF? The Triangle-Cut Parameterization of the Region under the Curve (2020)](https://eheitzresearch.wordpress.com/792-2/) ([Talk](https://www.youtube.com/watch?v=ZvgpbP0DyHs))
 - [Coding Adventure: Portals (2020)](https://www.youtube.com/watch?v=cWpFZbjtSQg)
-- [Computation graphs and graph computation (2020)](http://breandan.net/2020/06/30/graph-computation/) ([Lobsters](https://lobste.rs/s/flhjdb/computation_graphs_graph_computation))
+- [Computation graphs and graph computation (2020)](https://breandan.net/2020/06/30/graph-computation/) ([Lobsters](https://lobste.rs/s/flhjdb/computation_graphs_graph_computation)) ([HN](https://news.ycombinator.com/item?id=29066780))
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - [Motion Capture from Internet Videos (2020)](https://zju3dv.github.io/iMoCap/)
 - [SPIR-V](https://www.khronos.org/registry/spir-v/) - Binary intermediate language for representing graphical-shader stages and compute kernels for multiple Khronos APIs, including OpenCL, OpenGL, and Vulkan.
@@ -192,3 +192,4 @@
 - [Raya and the Last Dragon (2021)](https://blog.yiningkarlli.com/2021/03/raya-and-the-last-dragon.html)
 - [Shipshape RenderMan Art Challenge (2020)](https://blog.yiningkarlli.com/2020/07/shipshape-renderman-challenge.html)
 - [Can Data Die? Tracking the Lenna Image (2021)](https://pudding.cool/2021/10/lenna/)
+- [Curves and Surfaces (2021)](https://ciechanow.ski/curves-and-surfaces/) ([HN](https://news.ycombinator.com/item?id=29083349))

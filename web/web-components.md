@@ -54,3 +54,4 @@
 - [HTML with Superpowers (2021)](https://daverupert.com/2021/10/html-with-superpowers/) - Talk about Web Components. ([Video](https://www.youtube.com/watch?v=fEhBkSZ15qM))
 - [Simplr Router](https://github.com/Simplr/simplr-router) - Small and effective routing solution for Web Components. ([Web](https://simplr.github.io/simplr-router/))
 - [Spectrum Web Components](https://opensource.adobe.com/spectrum-web-components/) ([Code](https://github.com/adobe/spectrum-web-components))
+- [Switzerland](https://github.com/Wildhoney/Switzerland) - Takes a functional approach to Web Components by applying middleware to your components.

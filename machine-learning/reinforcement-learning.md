@@ -261,3 +261,6 @@
 - [Learning to Ground Multi-Agent Communication with Autoencoders (2021)](https://arxiv.org/abs/2110.15349)
 - [Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives (2021)](https://mihdalal.github.io/raps/) ([Code](https://github.com/mihdalal/raps))
 - [Unsupervised Reinforcement Learning Benchmark (URLB)](https://github.com/rll-research/url_benchmark)
+- [Mastering Atari Games with Limited Data (2021)](https://arxiv.org/abs/2111.00210) ([Code](https://github.com/YeWR/EfficientZero))
+- [RL Starter Files](https://github.com/lcswillems/rl-starter-files) - RL starter files in order to immediately train, visualize and evaluate an agent without writing any line of code.
+- [JORLDY](https://github.com/kakaoenterprise/JORLDY) - Open Source Reinforcement Learning Framework.

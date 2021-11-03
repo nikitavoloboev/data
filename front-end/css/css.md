@@ -383,3 +383,4 @@ all: unset
 - [The strangely difficult problem of drawing a box around text](https://blog.battlefy.com/the-strangely-difficult-problem-of-drawing-a-box-around-text-e6a70bdf6bb9) ([HN](https://news.ycombinator.com/item?id=28990145))
 - [Evaluating Clever CSS Solutions (2021)](https://css-irl.info/evaluating-clever-css-solutions/)
 - [GUI Challenges - YouTube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ)
+- [Squircle CSS Houdini](https://github.com/PavelLaptev/squircle-houdini-css) - Tiny CSS Houdini module that allows to add a squircle shape to HTML elements.

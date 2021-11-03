@@ -278,3 +278,5 @@
 - [How to Detect Slow Renders in React? (2021)](https://alexsidorenko.com/blog/react-performance-slow-renders/)
 - [React Docs Beta](https://beta.reactjs.org/) ([HN](https://news.ycombinator.com/item?id=28969194))
 - [How I'd build a react framework today (2021)](https://twitter.com/threepointone/status/1452730999561990148)
+- [Using Composition in React to Avoid "Prop Drilling" (2019)](https://www.youtube.com/watch?v=3XaXKiXtNjw)
+- [I hate passing props but don't need Redux. Which tool should I use? (2021)](https://www.reddit.com/r/reactjs/comments/qljqai/i_hate_passing_props_but_dont_need_redux_which/)

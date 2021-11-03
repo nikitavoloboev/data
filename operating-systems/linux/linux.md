@@ -399,3 +399,5 @@
 - [Moving Google toward the mainline (2021)](https://lwn.net/Articles/871195/) ([HN](https://news.ycombinator.com/item?id=28767854))
 - [proot-rs](https://github.com/proot-me/proot-rs) - Rust implementation of PRoot, a ptrace-based sandbox.
 - [finit](https://github.com/troglobit/finit) - Fast init for Linux systems. ([Web](https://troglobit.com/projects/finit/))
+- [Core scheduling lands in Linux 5.14 (2021)](https://lwn.net/Articles/861251/) ([HN](https://news.ycombinator.com/item?id=29075423))
+- [Leaving Debian With Joey Hess (2021)](https://corecursive.com/leaving-debian/) ([HN](https://news.ycombinator.com/item?id=29081087))

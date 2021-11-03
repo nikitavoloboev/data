@@ -76,3 +76,4 @@
 - [ServerTap](https://github.com/phybros/servertap) - REST API for Bukkit/Spigot/Paper Minecraft servers. ([Web](https://servertap.io/))
 - [BuildTheEarth](https://buildtheearth.net/) - Recreating the entire planet in Minecraft.
 - [Sheaves in Minecraft (2021)](https://quoteme.github.io/posts/sheaves_in_minecraft) ([HN](https://news.ycombinator.com/item?id=29055847))
+- [The metaverse is already here – it's Minecraft (2021)](https://clivethompson.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2) ([HN](https://news.ycombinator.com/item?id=29083271))

@@ -21,6 +21,7 @@
 - [DAOs are perfectly designed tech brain VC bait. Imagine if we could replace the gross messy human business of making decisions with a system of clean computed votes cast by perfectly rational actors with compatible incentive systems. on the blockchain](https://twitter.com/isosteph/status/1441437320289341445)
 - [In DAOs, we often conflate leadership with centralization. The reality is decentralization comes from having many leaders, not zero leaders. To optimize for decentralization, DAOs need to create many pathways for contributors to become leaders.](https://twitter.com/chaserchapman/status/1441458730277629958)
 - [Governance means conflict. It also means resolution. Accept the former, focus on the latter, and trust your team. With transparency.](https://twitter.com/armaniferrante/status/1450878886535839745)
+- [Regulation is often better for the incumbents than the challengers.](https://twitter.com/benedictevans/status/1455531071588679689)
 
 ## Links
 

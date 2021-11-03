@@ -102,7 +102,7 @@
 - [Overmind](https://github.com/cerebral/overmind) - Frictionless state management. ([Docs](https://overmindjs.org/)) ([HN](https://news.ycombinator.com/item?id=24750620))
 - [Storeon](https://github.com/ai/storeon) - Tiny event-based Redux-like state manager for React and Preact.
 - [Overstated](https://github.com/fabiospampinato/overstated) - React state management library that's delightful to use, without sacrificing performance or scalability.
-- [Effector](https://github.com/effector/effector) - Reactive state manager. ([Awesome](https://github.com/ilyalesik/awesome-effector)) ([Docs](https://effector.now.sh/docs/introduction/installation)) ([effector-storage](https://github.com/yumauri/effector-storage)) ([Пишем фичу в проекте с EffectorJS](https://www.youtube.com/watch?v=dtrWzH8O_4k)) ([The best part of Effector](https://dev.to/effector/the-best-part-of-effector-4c27))
+- [Effector](https://github.com/effector/effector) - Reactive state manager. ([Awesome](https://github.com/ilyalesik/awesome-effector)) ([Docs](https://effector.now.sh/docs/introduction/installation)) ([effector-storage](https://github.com/yumauri/effector-storage)) ([Пишем фичу в проекте с EffectorJS](https://www.youtube.com/watch?v=dtrWzH8O_4k)) ([The best part of Effector](https://dev.to/effector/the-best-part-of-effector-4c27)) ([Playground](https://share.effector.dev/)) ([Playground Code](https://github.com/effector/repl))
 - [Akita](https://github.com/datorama/akita) - State Management Tailored-Made for JS Applications.
 - [Observable Store](https://github.com/DanWahlin/Observable-Store) - Provides a simple way to manage state in Angular, React, Vue.js and other front-end applications.
 - [Cerebral](https://github.com/cerebral/cerebral) - Declarative state and side effects management solution for popular JavaScript frameworks.
@@ -132,6 +132,10 @@
 ## React
 
 - [state-machines-in-react](https://github.com/tanem/state-machines-in-react) - Small React, xstate and Framer Motion demo.
+
+## Math
+
+- [Eigen.js](https://github.com/BertrandBev/eigen-js) - Port of the Eigen C++ linear algebra library.
 
 ## Other
 
@@ -635,6 +639,9 @@
 - [InfiniteGrid](https://github.com/naver/egjs-infinitegrid) - Module used to arrange card elements including content infinitely on a grid layout. ([Web](https://naver.github.io/egjs-infinitegrid/))
 - [Okiba](https://github.com/okiba-gang/okiba) - Sharp collection of tools for front-end development, created with performance in mind.
 - [FastPriorityQueue.js](https://github.com/lemire/FastPriorityQueue.js) - Fast heap-based priority queue in JavaScript.
+- [Autobee](https://github.com/pfrazee/autobee) - Multiwriter Hyperbee comprised of multiple input Hyperbees using Autobase and Hypercore 10.
+- [std-env](https://github.com/unjs/std-env) - Detect current JavaScript environment.
+- [Nova Text Tools](https://github.com/biati-digital/nova-text-tools) - Swiss Army knife for text manipulation and selection.
 
 ## Links
 

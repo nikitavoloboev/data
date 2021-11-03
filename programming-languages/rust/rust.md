@@ -536,7 +536,7 @@
 - [Rust Cloud Native](https://rust-cloud-native.github.io/) - Collection of resources about cloud native Rust. ([Code](https://github.com/rust-cloud-native/rust-cloud-native.github.io)) ([HN](https://news.ycombinator.com/item?id=28049787))
 - [wg-async-foundations](https://rust-lang.github.io/wg-async-foundations/) - Working group dedicated to improving the foundations of async I/O in Rust. ([Code](https://github.com/rust-lang/wg-async-foundations))
 - [When Zero Cost Abstractions Aren’t Zero Cost (2021)](https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html) ([Reddit](https://www.reddit.com/r/rust/comments/p0ul6b/when_zero_cost_abstractions_arent_zero_cost/)) ([HN](https://news.ycombinator.com/item?id=28121108))
-- [Rudra](https://github.com/sslab-gatech/Rudra) - Static analyzer to detect common undefined behaviors in Rust programs.
+- [Rudra](https://github.com/sslab-gatech/Rudra) - Static analyzer to detect common undefined behaviors in Rust programs. ([Paper](https://www.micahlerner.com/2021/10/31/rudra-finding-memory-safety-bugs-in-rust-at-the-ecosystem-scale.html))
 - [I probably didn't backdoor this: Using Reproducible Builds to verify a Rust binary](https://github.com/kpcyrd/i-probably-didnt-backdoor-this) -
 - [Index 1.6B Keys with Automata and Rust (2015)](https://blog.burntsushi.net/transducers/) ([HN](https://news.ycombinator.com/item?id=28243636))
 - [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html) - Guidelines that the Rust language standard library holds itself too. ([HN](https://news.ycombinator.com/item?id=28223738))

@@ -2,6 +2,11 @@
 
 I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebrokers.co.uk/en/home.php) & [Trading 212](https://www.trading212.com/). I also hold & stake some [crypto](../cryptocurrencies/cryptocurrencies.md), mainly [Solana](../databases/blockchain/solana.md).
 
+## Interesting ETFs
+
+- [VTI](https://finance.yahoo.com/quote/VTI/)
+- [VOO](https://finance.yahoo.com/quote/VOO/)
+
 ## Notes
 
 - Don't try to time the market. Time in the market is better than timing the market.
@@ -214,3 +219,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Cabal](https://getcabal.com/) - Help founders get more out of their investors and advisors. ([Twitter](https://twitter.com/GetCabal))
 - [Blankly](https://blankly.finance/) - Rapidly Build Quant Models Across Exchanges. ([Code](https://github.com/Blankly-Finance/Blankly)) ([GitHub](https://github.com/Blankly-Finance))
 - [Ask HN: How to start learning about investments (2021)](https://news.ycombinator.com/item?id=29056262)
+- [Goldman Sachs - Quantitative Strategies Research Notes](https://github.com/colejhudson/goldman-sachs-quantitative-strategies-research-notes)

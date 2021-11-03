@@ -163,3 +163,4 @@
 - [CIDER nREPL](https://github.com/clojure-emacs/cider-nrepl) - Collection of nREPL middleware, originally designed to enhance CIDER. ([Docs](https://docs.cider.mx/cider-nrepl/))
 - [Fast and Elegant Clojure (2021)](https://bsless.github.io/fast-and-elegant-clojure/) ([HN](https://news.ycombinator.com/item?id=28956316))
 - [formatting-stack](https://github.com/nedap/formatting-stack) - Efficient, smart, graceful composition of Clojure formatters, linters.
+- [Clojure - Differences with other Lisps](https://clojure.org/reference/lisps) ([HN](https://news.ycombinator.com/item?id=29064942))

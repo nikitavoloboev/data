@@ -35,3 +35,4 @@
 - [Godot Export](https://github.com/firebelley/godot-export) - Workflow action to automatically export your Godot games.
 - [Godot Lua PluginScript](https://github.com/gilzoide/godot-lua-pluginscript) - Adds support for Lua as a scripting language in Godot.
 - [Godot FSM (Finite State Machine)](https://github.com/godot-addons/godot-finite-state-machine)
+- [Improvements to shaders and visual shaders in Godot 4.0 (2021)](https://godotengine.org/article/improvements-shaders-visual-shaders-godot-4)

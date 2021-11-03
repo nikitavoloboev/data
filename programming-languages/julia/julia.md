@@ -98,3 +98,4 @@
 - [New features coming in Julia 1.7 (2021)](https://lwn.net/SubscriberLink/871486/e4ae97b79d72bb25/) ([HN](https://news.ycombinator.com/item?id=28753182))
 - [SciMLTutorials.jl](https://github.com/SciML/SciMLTutorials.jl) - Tutorials for Scientific Machine Learning and Differential Equations. ([Web](https://tutorials.sciml.ai/))
 - [Composability in Julia: Implementing Deep Equilibrium Models via Neural ODEs (2021)](https://julialang.org/blog/2021/10/DEQ/) ([HN](https://news.ycombinator.com/item?id=28945191))
+- [Exercises in avoiding common performance traps with Julia](https://github.com/AdvancedScientificComputingInJuliaWashU/Performance.jl)

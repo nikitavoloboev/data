@@ -28,3 +28,4 @@
 - [RedGPU](https://github.com/redcamel/RedGPU) - JavaScript WebGPU Engine.
 - [wgpu-profiler](https://github.com/Wumpf/wgpu-profiler) - Simple profiler scopes for wgpu using timer queries.
 - [WebGPU Webpack Starter](https://github.com/Twinklebear/webgpu-webpack-starter)
+- [WebGPU Best Practices](https://github.com/toji/webgpu-best-practices) ([Web](https://toji.github.io/webgpu-best-practices/))

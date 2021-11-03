@@ -73,6 +73,8 @@
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible component library for building a consistent design system across android, iOS & web. ([Web](https://nativebase.io/))
 - [Plasma UI](https://plasma.sberdevices.ru/) - Позволяет реализовать Canvas App как часть экосистемы виртуальных ассистентов семейства "Салют". ([Code](https://github.com/sberdevices/plasma))
 - [Apache Superset UI packages](https://github.com/apache-superset/superset-ui)
+- [Mirror Design](https://degen-xyz.vercel.app/) - Design system for Mirror.xyz built with React and vanilla-extract. ([Code](https://github.com/mirror-xyz/degen))
+- [Arco Design React](https://github.com/arco-design/arco-design)
 
 ## Notes
 

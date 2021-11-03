@@ -16,3 +16,4 @@
 - [Poetry in the Abstract: What happens when scientists write haiku? (2021)](https://theamericanscholar.org/poetry-in-the-abstract/)
 - [Lit2Go](https://etc.usf.edu/lit2go/) - Free online collection of stories and poems in Mp3 (audiobook) format.
 - ["Poems in an accidental language" by Kate Compton (2021)](https://www.youtube.com/watch?v=NlClzGbemu8)
+- [Стихи.ру](https://stihi.ru/)

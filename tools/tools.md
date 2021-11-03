@@ -116,7 +116,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Minymon](https://www.minymon.com/) - Cute and helpful pets for your website.
 - [Centered](https://www.centered.app/) - Flow Music & automated Productivity Coaching, Mono-Tasking, Do-Not-Disturb.
 - [Threads](https://threads.com/) - Empowers teams to easily share, discuss, and make decisions no matter where they are.
-- [Typedream](https://typedream.com/) - No-code site builder, easy as Notion, pretty as Webflow.
+- [Typedream](https://typedream.com/) - No-code site builder, easy as Notion, pretty as Webflow. ([HN](https://news.ycombinator.com/item?id=29084309))
 - [Diagram generation tool](https://www.diagram.codes/) ([HN](https://news.ycombinator.com/item?id=21615978))
 - [Circle](https://circle.so/) - Modern community platform for creators.
 - [Nodebook](https://github.com/netgusto/nodebook) - Multi-Lang Web REPL + CLI Code runner.
@@ -189,6 +189,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [ToolJet](https://tooljet.io/) - Build and deploy internal tools. ([Code](https://github.com/ToolJet/ToolJet)) ([HN](https://news.ycombinator.com/item?id=27421408))
 - [Lucidchart](https://www.lucidchart.com/pages/) - Online Diagram Software & Visual Solution.
 - [Airplane](https://www.airplane.dev/) - Code to internal apps in minutes.
+- [Motor Admin](https://www.getmotoradmin.com/) - No-Code Admin Panel. ([Code](https://github.com/motor-admin/motor-admin))
 - [SpatialChat](https://spatial.chat/) - In-person virtual meetings.
 - [Over](https://www.madewithover.com/) - Makes beautiful design, easy.
 - [Universe](https://onuniverse.com/) - Website builder made for your iPhone. Build your brand from your hand with the GRID. ([Twitter](https://twitter.com/onuniverse))
@@ -205,6 +206,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
 - [Builder](https://www.builder.io/) - Drag and Drop Page Building for Any Tech Stack. ([GitHub](https://github.com/BuilderIO)) ([Code](https://github.com/BuilderIO/builder))
+- [Inspo](https://www.getinspo.co/) - Your Search Engine For Inspiration.
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. ([Web](https://grafana.com/oss/loki/))
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
 - [Notifire](https://www.notifire.co/) - Open-source notification infrastructure for products. ([Code](https://github.com/notifirehq/notifire))

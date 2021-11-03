@@ -339,3 +339,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [wETH](https://weth.io/) - ERC20 tradable version of ETH.
 - [zk-NFT](https://github.com/kevinz917/zk-NFT) - NFT powered by zkSNARKs that flips the concept of an NFT upside down.
 - [Notional Contracts V2](https://github.com/notional-finance/contracts-v2) - Fixed rate lending and borrowing platform, built on Ethereum.
+- [The Solcurity Standard](https://github.com/Rari-Capital/solcurity) - Opinionated security and code quality standard for Solidity smart contracts.
+- [Revolutionary Machine (revm)](https://github.com/bluealloy/revm) - Rust Ethereum Virtual Machine that is focused on speed and simplicity.
+- [REVMjs](https://github.com/bluealloy/revm/tree/main/crates/revmjs) - REVM library for JS.

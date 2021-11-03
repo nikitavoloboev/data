@@ -96,3 +96,5 @@
 - [Effective Concurrency with Algebraic Effects in Multicore OCaml (2015)](https://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/) ([HN](https://news.ycombinator.com/item?id=28838099))
 - [MetaML and MetaOCaml bibliography](https://github.com/metaocaml/metaocaml-bibliography)
 - [Plans to choose an official package/project manager? (2021)](https://discuss.ocaml.org/t/plans-to-choose-an-official-package-project-manager/8620) - Current state of tooling and where it falls short.
+- [How to use MetaOCaml with Dune](https://github.com/fpottier/metaocaml-hello-world)
+- [Fromager](https://github.com/mimoo/fromager) - Format your OCaml code.

@@ -181,3 +181,4 @@
 - [nncase](https://github.com/kendryte/nncase) - Neural network compiler for AI accelerators.
 - [KGT: Kate's Grammar Tool](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams.
 - [Knossos-KSC](https://github.com/microsoft/knossos-ksc) - Compile a lisp-like IR with automatic differentiation and user-defined rewrites.
+- [pyMLIR](https://github.com/spcl/pymlir) - Python Interface for the Multi-Level Intermediate Representation.

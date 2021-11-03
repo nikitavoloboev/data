@@ -63,3 +63,4 @@ Is logical theory of computable functions.
 - [CosmicOS](https://github.com/paulfitz/cosmicos) - Sending the lambda calculus into deep space.
 - [Ane-Language](https://github.com/caotic123/Ane-Language) - Tool for analyze lambda calculus terms.
 - [Fibonacci sequence in JS using pure Lambda Calculus](https://github.com/OscarSaharoy/lambda-fibonacci)
+- [Lambda Calculus Visualizer](https://yanamal.github.io/lambda-js/) ([Code](https://github.com/yanamal/lambda-js))

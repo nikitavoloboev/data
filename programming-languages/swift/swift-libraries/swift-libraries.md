@@ -380,6 +380,7 @@
 - [SwiftDB](https://github.com/vmanot/SwiftDB) - Type-safe, SwiftUI-inspired wrapper around CoreData.
 - [Dflat](https://github.com/liuliu/dflat) - Structured Data Store for Mobile. SQLite ❤️ FlatBuffers. ([HN](https://news.ycombinator.com/item?id=26687871))
 - [RediStack](https://github.com/Mordil/RediStack) - Non-blocking Swift client for Redis built on top of SwiftNIO.
+- [PersistDB](https://github.com/PersistX/PersistDB) - Projection-based Database Persistence in Swift.
 
 ## Graphics
 
@@ -802,6 +803,7 @@
 - [Lightweight Observable](https://github.com/fxm90/LightweightObservable) - Lightweight implementation of an observable sequence that you can subscribe to.
 - [Swift Distributed Actors](https://github.com/apple/swift-distributed-actors/) - Peer-to-peer cluster implementation for Swift Distributed Actors. ([Article](https://swift.org/blog/distributed-actors/)) ([HN](https://news.ycombinator.com/item?id=29034188))
 - [Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread.
+- [StyledTextKit](https://github.com/GitHawkApp/StyledTextKit) - Declarative building and fast rendering attributed string library.
 
 ## Other (not lib)
 
@@ -834,3 +836,4 @@
 - [Kaitlin Mahar - Maintaining a Library in a Swiftly Moving Ecosystem (2019)](https://www.youtube.com/watch?v=9-fdbG9jNt4)
 - [Guise](https://github.com/ollieatkinson/Guise) - Generate Public API for Swift Frameworks/Libraries.
 - [CocoaPods Pod Linkage plugin](https://github.com/microsoft/cocoapods-pod-linkage) - CocoaPod plugin that allows you to mix how you link libraries. ([Tweet](https://twitter.com/parrots/status/1450879990661361669))
+- [MOKO KSwift](https://github.com/icerockdev/moko-kswift) - Swift-friendly API generator for Kotlin/Native frameworks.

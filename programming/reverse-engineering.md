@@ -94,3 +94,5 @@
 - [radius](https://github.com/aemmitt-ns/radius) - Fast binary emulation and symbolic execution framework using radare2.
 - [binocle](https://github.com/sharkdp/binocle) - Graphical tool to visualize binary data.
 - [Zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler library. ([Web](https://zydis.re/))
+- [Degate](https://github.com/DegateCommunity/Degate) - Modern and open-source cross-platform software for chips reverse engineering. ([Web](https://www.degate.org/))
+- [An opinionated guide on how to reverse engineer software (2021)](https://margin.re/media/an-opinionated-guide-on-how-to-reverse-engineer-software-part-1.aspx) ([HN](https://news.ycombinator.com/item?id=29084716))

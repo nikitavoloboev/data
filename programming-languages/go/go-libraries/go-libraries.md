@@ -216,6 +216,10 @@
 
 - [go-flags](https://github.com/jessevdk/go-flags) - Provides an extensive command line option parser.
 
+## Search
+
+- [go-sonic](https://github.com/expectedsh/go-sonic) - Sonic driver written in Go.
+
 ## DB
 
 - [BuntDB](https://github.com/tidwall/buntdb) - Embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
@@ -1023,6 +1027,10 @@
 - [Expect](https://github.com/google/goexpect) - Implementation of Expect in Go.
 - [Go development helpers](https://github.com/bool64/dev) ([Article](https://dev.to/vearutop/identifying-breaking-changes-in-pull-request-of-a-go-library-1db2))
 - [replace](https://github.com/icholy/replace) - Streaming text replacement for Go.
+- [Zapr](https://github.com/go-logr/zapr) - logr implementation using Zap.
+- [weightedrand](https://github.com/mroth/weightedrand) - Fast weighted random selection for Go.
+- [zlog](https://github.com/m-mizutani/zlog) - Secure logger in Go to avoid output sensitive data in log.
+- [periph](https://github.com/periph/cmd) - Peripherals I/O in Go.
 
 ## Links
 
@@ -1050,3 +1058,4 @@
 - [doc](https://github.com/hhhapz/doc) - Query Go module documentation.
 - [Dr-Docso](https://github.com/DiscordGophers/dr-docso) - Go documentation bot for Discord.
 - [Exploring Go net/http Package - On How Not To Set Socket Options (2021)](https://iximiuz.com/en/posts/go-net-http-setsockopt-example/)
+- [Cap'n Proto bindings for Go](https://github.com/capnproto/go-capnproto2)

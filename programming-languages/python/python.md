@@ -364,3 +364,4 @@ for i, _ in enumerate(nums):
 - [astor](https://github.com/berkerpeksag/astor) - Python AST read/write.
 - [pravda](https://github.com/wemake-services/pravda) - Python type-checker written in Rust.
 - [On code isolation in Python (2020)](https://rushter.com/blog/python-code-isolation/)
+- [Pynsights](https://github.com/laffra/pynsights) - Understanding Python programs by visualizing how modules interact.

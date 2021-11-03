@@ -82,6 +82,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Redaction](https://www.redaction.us/) - Typeface from Titus Kaphar / Reginald Dwayne Betts’ show at MoMA PS1.
 - [Dank Mono](https://philpl.gumroad.com/l/dank-mono) - Coding typeface for aesthetes.
 - [scientifica](https://github.com/nerdypepper/scientifica) - Tall, condensed, bitmap font for geeks.
+- [Cal Sans](https://github.com/calendso/font) - Geometric sanserif tuned for display, that is, large point sizes.
 
 ## Links
 

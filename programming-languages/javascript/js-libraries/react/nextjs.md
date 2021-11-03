@@ -52,12 +52,13 @@
 - [Ultimate SAAS template](https://github.com/gmpetrov/utlimate-saas-js) - Typescript/Next.js/NextAuth.js/Prisma/Stripe/TailwindCSS/PostgreSQL. ([HN](https://news.ycombinator.com/item?id=28628615))
 - [TypeScript starter for Next.js](https://github.com/jpedroschmitz/typescript-nextjs-starter)
 - [Next PWA Template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template.
+- [NextJS Monorepo](https://github.com/belgattitude/nextjs-monorepo-example) - Monorepo / workspaces concepts oriented around NextJS.
 
 ## NextJS plugins
 
 - [Next SEO](https://github.com/garmeeh/next-seo) - Plugin that makes managing your SEO easier in Next.js projects.
 - [Next.js + MDX Enhanced](https://github.com/hashicorp/next-mdx-enhanced) - Enables MDX pages, layouts, and front matter.
-- [Zero Config PWA Plugin](https://github.com/shadowwalker/next-pwa)
+- [Zero Config PWA Plugin](https://github.com/shadowwalker/next-pwa) ([How to Create a PWA With Next.js in 10 Minutes](https://www.youtube.com/watch?v=ARNN_zmrwcw))
 - [next-translate](https://github.com/vinissimus/next-translate) - Tool to translate Next.js applications.
 - [next-i18next](https://github.com/isaachinman/next-i18next) - Easiest way to translate your NextJs apps. ([Video](https://www.youtube.com/watch?v=SJDYCw5KC7s))
 - [Netlify Next.js cache](https://github.com/pizzafox/netlify-cache-nextjs) - Cache the Next.js build folder in your Netlify builds.

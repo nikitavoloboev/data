@@ -34,6 +34,7 @@
 - [Interface ergonomics: automation isn't just about time saved (2021)](https://macoy.me/blog/programming/InterfaceFriction) ([Lobsters](https://lobste.rs/s/ab8v1y/interface_ergonomics_automation_isn_t))
 - [Trust in Automation (2017)](http://breandan.net/2017/02/02/trust-in-automation/)
 - [doit](https://github.com/pydoit/doit) - Bringing the power of build-tools to execute any kind of task. ([Web](https://pydoit.org/))
+- [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) ([HN](https://news.ycombinator.com/item?id=29083367))
 
 ## Images
 

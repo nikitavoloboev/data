@@ -3,6 +3,7 @@
 ## Notes
 
 - [Figuring out correctly when/what to escalate to a human would change customer service more than anything else.](https://twitter.com/_abhisheksankar/status/1441793453864620044)
+- [GPT-3 was created by mining a human-written internet that will never again exist thanks to the creation of GPT-3](https://twitter.com/alexhern/status/1455439743165124608)
 
 ## Links
 
@@ -382,3 +383,4 @@
 - [Natural Language Processing Specialization Course](https://www.coursera.org/specializations/natural-language-processing) ([Tweet](https://twitter.com/LysandreJik/status/1453436693391060997))
 - [Hugging Face on Amazon SageMaker Workshop](https://github.com/philschmid/huggingface-sagemaker-workshop-series)
 - [CS224N: Natural Language Processing with Deep Learning | Winter 2021 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+- [GPT-3 creates geofoam, but out of text (2021)](https://twitter.com/jjvincent/status/1455194365169700864)

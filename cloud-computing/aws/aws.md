@@ -234,3 +234,6 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Profiling 25,000 S3 Buckets: The Billion Dollar Opportunity for Cloudflare R2 (2021)](https://www.vantage.sh/blog/the-opportunity-for-cloudflare-r2) ([Tweet](https://twitter.com/benadam11/status/1450901767688843270))
 - [AWS Recon](https://github.com/darkbitio/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
 - [Get AWS costs posted directly to Slack](https://www.vantage.sh/blog/vantage-slack-notifications) ([HN](https://news.ycombinator.com/item?id=29004934))
+- [Tools to Build on AWS](https://aws.amazon.com/tools/) ([Code](https://github.com/aws/aws-sdk))
+- [s3-credentials](https://github.com/simonw/s3-credentials) - Tool for creating credentials for accessing S3 buckets.
+- [aws-auth](https://github.com/iamarkadyt/aws-auth) - AWS credentials management CLI tool. ([HN](https://news.ycombinator.com/item?id=29090858))

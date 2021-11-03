@@ -150,3 +150,4 @@
 - [Apprentice to Genius: The Making of a Scientific Dynasty by Robert Kanigel (1993)](https://www.goodreads.com/book/show/532944.Apprentice_to_Genius)
 - [The Gold Standard and the Great Depression (1997)](https://www.nber.org/papers/w6060) ([HN](https://news.ycombinator.com/item?id=29003199))
 - [Our ancestors may not have been rich, but they had an abundance of leisure](https://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html) ([HN](https://news.ycombinator.com/item?id=29050351))
+- [Outline of history - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_history)

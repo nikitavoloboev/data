@@ -56,3 +56,4 @@
 - [Idris2GL](https://github.com/ECburx/Idris2GL) - Graphics Library for Idris 2.
 - [TaPL implementation bits in Idris2](https://github.com/andorp/TaPL)
 - [idris-collections](https://github.com/polendri/idris-collections) - Verified data structures in Idris 2.
+- [idris2dart](https://github.com/bamboo/idris2dart) - Idris 2 code generator that outputs Dart code.

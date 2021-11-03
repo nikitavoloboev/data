@@ -14,6 +14,7 @@
 - [Explaining concepts in the chronological order they were developed is vastly overrated as a teaching strategy. Once we have the huge benefit of hindsight we should use that context to give better explanations in a logical order.](https://twitter.com/nick_r_cameron/status/1448227898935099392)
 - [I think this is the real externality of having everything be algo-ranked for maximum engagement. I don't think many people are being polarized/radicalized politically. But we end up getting compacted into a more rigid version of ourselves in a thousand mundane ways. A partial cure has been to get myself back into reading books -- hard books. It is the only medium that can afford you a sufficient sense of occupying someone else's mind for a while when you're sick of yours. But somehow my attention span is shattered.](https://twitter.com/DanGrover/status/1443419300023263233)
 - [Every act of conscious learning requires the willingness to suffer an injury to one’s self esteem.](https://twitter.com/mollyfmielke/status/1452658271190278144)
+- [More “senior” engineers should do live coding or infra building exercises. You can read all about the basics in a book or online, but seeing a seasoned person tackle problems and handle exceptions in real time is the real gem.](https://twitter.com/bryanl/status/1455568889107128327)
 
 ## Links
 
@@ -164,3 +165,4 @@
 - [What to Learn](https://danluu.com/learn-what/) ([HN](https://news.ycombinator.com/item?id=28904021))
 - [Great YouTube learning channels (2021)](https://twitter.com/balajis/status/1443128820249214979)
 - [Willingness to Look Stupid](https://danluu.com/look-stupid/) ([HN](https://news.ycombinator.com/item?id=28942189))
+- [How Learning Works: Components, Systems, and Loops (2021)](https://romandesign.co/how-learning-works-components-systems-and-loops/)

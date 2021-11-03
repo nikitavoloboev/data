@@ -34,3 +34,4 @@
 - [purs-nix](https://github.com/ursi/purs-nix) - Manage your PureScript projects with Nix.
 - [PureScript Docs](https://github.com/purescript/documentation)
 - [PureNix](https://github.com/purenix-org/purenix) - Nix backend for PureScript. Transpile PureScript code to Nix.
+- [Dovetail](https://github.com/paf31/dovetail) - General-purpose PureScript interpreter written in Haskell.

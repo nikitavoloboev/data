@@ -409,3 +409,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Reflect Academy](https://reflect.academy/) - Learn how to take great notes. ([Tweet](https://twitter.com/maccaw/status/1452657502441648141))
 - [Remnote](https://www.remnote.com/) - All-in-One Tool for Thinking and Learning. ([Twitter](https://twitter.com/rem_note))
 - [The Science of Tools for Thought and Cognition Augmentation Software (2021)](https://moritz.digital/blog/cas) ([Video](https://www.youtube.com/watch?v=zVuaOECnUJE))
+- [OpenMemex](https://github.com/austinvhuang/openmemex) - Open source, local-first knowledge platform.

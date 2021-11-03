@@ -84,3 +84,4 @@
 - [Stream, Mutate and Sign Images with AWS Lambda and ECR (2021)](https://martin.baillie.id/wrote/stream-mutate-and-sign-images-with-aws-lambda-and-ecr/) ([Code](https://github.com/martinbaillie/ocistow))
 - [lambroll](https://github.com/fujiwara/lambroll) - Minimal deployment tool for AWS Lambda.
 - [Middy](https://github.com/middyjs/middy) - Simple middleware engine that allows you to simplify your AWS Lambda code when using Node.js.
+- [Klayers](https://github.com/keithrozario/Klayers) - Python Packages as AWS Lambda Layers.

@@ -26,3 +26,4 @@
 - [How to add a dark theme to your Qt application (2021)](https://successfulsoftware.net/2021/03/31/how-to-add-a-dark-theme-to-your-qt-application/)
 - [Qt Base](https://github.com/qt/qtbase) - Core, Gui, Widgets, Network.
 - [CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - Used to deploy applications written using QML, qt or other С / С++ frameworks.
+- [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book) ([Code](https://github.com/qmlbook/qt6book))

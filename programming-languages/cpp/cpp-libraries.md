@@ -265,6 +265,10 @@
 - [mathiu.cpp](https://github.com/BowenFu/mathiu.cpp) - Simple computer algebra system in C++.
 - [Avendish](https://github.com/celtera/avendish) - Declarative, non-intrusive, compile-time C++ reflection.
 - [libossia](https://github.com/ossia/libossia) - Modern C++, cross-environment distributed object model for creative coding.
+- [RtAudio](https://github.com/thestk/rtaudio) - Set of C++ classes that provide a common API for real time audio input/output.
+- [RtMidi](https://github.com/thestk/rtmidi) - Set of C++ classes that provide a common API for real time MIDI input/output.
+- [HPX](https://github.com/STEllAR-GROUP/hpx) - C++ Standard Library for Parallelism and Concurrency.
+- [agrpc](https://github.com/npuichigo/agrpc) - Async GRPC with C++20 coroutine support.
 
 ## Links
 
@@ -279,3 +283,4 @@
 - [Mason](https://github.com/mapbox/mason) - Cross-platform, command-line package manager for C/C++ applications.
 - [Boost C++ Libraries](https://www.boost.org/) - Free peer-reviewed portable C++ source libraries. ([GitHub](https://github.com/boostorg))
 - [Kokkos](https://github.com/kokkos) - C++ Performance Portability Programming EcoSystem. ([HN](https://news.ycombinator.com/item?id=28987037))
+- [Boost C++ libraries packaged for build2 (2021)](https://build2.org/blog/build2-boost.xhtml) ([Lobsters](https://lobste.rs/s/f3nvif/boost_c_libraries_packaged_for_build2))

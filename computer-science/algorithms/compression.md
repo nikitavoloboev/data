@@ -78,3 +78,4 @@
 - [Bitbottle](https://code.lag.net/robey/bitbottle) - Modern archive format. ([Lobsters](https://lobste.rs/s/ywxuxj/bitbottle_modern_archive_file_format))
 - [libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. ([Web](http://www.libarchive.org/))
 - [zlib by Cloudflare](https://github.com/cloudflare/zlib) - Cloudflare fork of zlib with massive performance improvements.
+- [Inflate.jl](https://github.com/GunnarFarneback/Inflate.jl) - Julia implementation of zlib decompression.

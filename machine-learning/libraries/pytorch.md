@@ -292,3 +292,4 @@
 - [Probabilistic Torch](https://github.com/probtorch/probtorch) - Library for deep generative models that extends PyTorch.
 - [jax2torch](https://github.com/lucidrains/jax2torch) - Use JAX functions in PyTorch with DLPack.
 - [Differentiable Neural Computers, Sparse Access Memory and Sparse Differentiable Neural Computers, for Pytorch](https://github.com/ixaxaar/pytorch-dnc)
+- [Toroidal](https://github.com/MathInf/toroidal) - Lightweight transformer library for PyTorch.

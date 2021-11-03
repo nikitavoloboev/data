@@ -119,7 +119,7 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Run yarn/npm scripts with fzf (2020)](https://sancho.dev/blog/better-yarn-npm-run/)
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. ([Docs](https://pnpm.js.org/en/motivation))
 - [node-request-interceptor](https://github.com/mswjs/node-request-interceptor) - Low-level HTTP/HTTPS/XHR request interception library for Node.
-- [napi-rs](https://github.com/napi-rs/napi-rs) - Minimal library for building compiled NodeJS add-ons in Rust.
+- [napi-rs](https://github.com/napi-rs/napi-rs) - Minimal library for building compiled NodeJS add-ons in Rust. ([Docs](https://napi.rs/)) ([Web Code](https://github.com/napi-rs/website))
 - [Template project for writing node package with napi-rs](https://github.com/napi-rs/package-template)
 - [esno](https://github.com/antfu/esno) - TypeScript/ESNext node runtime powered by esbuild.
 - [TypeScript Tools for Node.js](https://github.com/AviVahl/ts-tools)
@@ -266,3 +266,5 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Supercharge Your Node.js with Rust (2021)](https://yieldcode.blog/supercharge-nodejs-with-rust/) ([HN](https://news.ycombinator.com/item?id=28976341))
 - [cli-ux](https://github.com/oclif/cli-ux) - CLI IO utilities.
 - [Better SSE](https://github.com/MatthewWid/better-sse) - Dead simple, dependency-less, spec-compliant server-side events implementation for Node, written in TypeScript.
+- [cache-interop](https://github.com/soluble-io/cache-interop) - Interoperable cache adapters for node and browsers.
+- [How to distribute pre-built node binaries (2021)](https://twitter.com/MylesBorins/status/1455552470411845632)

@@ -87,6 +87,8 @@
 - [Neurolight: A Deep Learning Neural Interface for Cortical Visual Prostheses (2020)](https://www.worldscientific.com/doi/10.1142/S0129065720500458?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) ([Tweet](https://twitter.com/fchollet/status/1451973437652566017))
 - [Why are our brains shrinking? (2018)](https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking/) ([HN](https://news.ycombinator.com/item?id=29031999))
 - [Virtual 3D Fly Brain](https://v2.virtualflybrain.org/org.geppetto.frontend/geppetto?id=VFB_00101567&i=VFB_00101567) ([HN](https://news.ycombinator.com/item?id=29016849))
+- [Generalized Shape Metrics on Neural Representations (2021)](https://arxiv.org/abs/2110.14739) ([Tweet](https://twitter.com/ItsNeuronal/status/1455300536442388482))
+- [The strange path of accepting how your brain works (2021)](https://alexanderell.is/posts/limitations/) ([HN](https://news.ycombinator.com/item?id=29057510))
 
 ## Images
 

@@ -16,3 +16,4 @@
 - [Azure Terrafy](https://github.com/magodo/aztfy) - Tool to bring existing Azure resources under Terraform's management.
 - [It's tough being an Azure fan (2021)](https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan/) ([HN](https://news.ycombinator.com/item?id=28617663))
 - [Azure Machine Learning Python SDK notebooks](https://github.com/Azure/MachineLearningNotebooks)
+- [Azure Container Apps](https://azure.microsoft.com/en-us/services/container-apps/) - Easily deploy container microservices. ([Tweet](https://twitter.com/kelseyhightower/status/1455575229107826688))

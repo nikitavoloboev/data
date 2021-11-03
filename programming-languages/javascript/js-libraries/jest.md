@@ -1,5 +1,7 @@
 # [Jest](https://jestjs.io)
 
+[uvu](https://github.com/lukeed/uvu) seems like a nice alternative.
+
 ## Links
 
 - [Majestic](https://github.com/Raathigesh/majestic) - Zero config GUI for Jest.
