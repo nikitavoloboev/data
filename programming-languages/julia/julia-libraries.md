@@ -326,6 +326,7 @@
 - [PairPlots.jl](https://github.com/sefffal/PairPlots.jl) - Produces corner plots, otherwise known as pair plots or scatter plot matrices: grids of 1D and 2D histograms that allow you to visualize high dimensional data.
 - [ReadableRegex](https://github.com/jkrumbiegel/ReadableRegex.jl) - Syntax that is much easier to write and understand than the rather cryptic standard Regex.
 - [Permutations](https://github.com/scheinerman/Permutations.jl) - Permutations class for Julia.
+- [Tokenize](https://github.com/JuliaLang/Tokenize.jl) - Tokenization for Julia source code.
 
 ## Links
 
