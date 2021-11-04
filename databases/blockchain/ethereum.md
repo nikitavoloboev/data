@@ -342,3 +342,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [The Solcurity Standard](https://github.com/Rari-Capital/solcurity) - Opinionated security and code quality standard for Solidity smart contracts.
 - [Revolutionary Machine (revm)](https://github.com/bluealloy/revm) - Rust Ethereum Virtual Machine that is focused on speed and simplicity.
 - [REVMjs](https://github.com/bluealloy/revm/tree/main/crates/revmjs) - REVM library for JS.
+- [evmodin](https://github.com/vorot93/evmodin) - Fast EVM implementation with support for resumability. Port of evmone to Rust.
+- [Web3 Starter](https://github.com/iMuzz/web3-starter) ([Web](https://www.web3starter.xyz/))
