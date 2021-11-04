@@ -276,3 +276,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Pilot: An Operating System for a Personal Computer (1980)](https://courses.cs.washington.edu/courses/cse550/20au/papers/CSE550.Pilot.pdf) ([HN](https://news.ycombinator.com/item?id=28920913))
 - [Rust OS comparison](https://github.com/flosse/rust-os-comparison) - Comparison of operating systems written in Rust.
 - [OS synchronization techniques resources (2021)](https://twitter.com/johnregehr/status/1451355617583460355)
+- [Signals and Threads | What is an Operating System? (2021)](https://signalsandthreads.com/what-is-an-operating-system/)
+- [A fork() in the road (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)

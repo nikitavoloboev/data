@@ -7,6 +7,7 @@
 
 ## Links
 
+- [Luau](https://luau-lang.org/) - Fast, small, safe, gradually typed embeddable scripting language derived from Lua. ([Code](https://github.com/Roblox/luau)) ([HN](https://news.ycombinator.com/item?id=29097692))
 - [Luacheck](https://github.com/luarocks/luacheck) - Tool for linting and static analysis of Lua code.
 - [Fennel](https://fennel-lang.org/) - Programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system. ([Code](https://github.com/bakpakin/Fennel)) ([Rationale](https://fennel-lang.org/rationale)) ([Lobsters](https://lobste.rs/s/6bphbw/fennel_programming_language_rationale)) ([HN](https://news.ycombinator.com/item?id=24390904)) ([FennelConf](https://conf.fennel-lang.org/))
 - [rlua](https://github.com/kyren/rlua) - High level bindings between Rust and Lua.

@@ -487,3 +487,5 @@
 - [Piraeus Operator](https://github.com/piraeusdatastore/piraeus-operator) - Manages LINSTOR clusters in Kubernetes.
 - [pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes.
 - [kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) - Split Kubernetes YAMLs into files.
+- [kVDI](https://github.com/kvdi/kvdi) - Virtual Desktop Infrastructure running on Kubernetes.
+- [kubectl-select](https://github.com/n3wscott/kubectl-select) - kubectl extension to select from local config.

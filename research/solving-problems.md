@@ -62,6 +62,7 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [When someone comes to you with a problem, before you start to fix it, ask “What are you trying to achieve?”](https://twitter.com/kyleshevlin/status/1387050277199486984)
 - [Reframing your problem can be a potent way to find solutions. “How can I grow?” Open, generic, often not actionable. “What’s stopping me from growing?” Direct, specific, insightful, and it requires radical honesty and self awareness.](https://twitter.com/linuz90/status/1434488113015963650)
 - [When confronted with a problem I don’t understand: don’t just guess. Investigate.](https://twitter.com/optshiftk/status/1449031889096830977)
+- [The first step to solve any problem is to recognize what problem spaces you are in.](https://twitter.com/rakyll/status/1455986549288439812)
 
 ## Links
 

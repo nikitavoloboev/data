@@ -458,3 +458,5 @@
 - [How we built a serverless SQL database (2021)](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/) ([HN](https://news.ycombinator.com/item?id=29001285))
 - [A Return to the General Purpose Database (2021)](https://redmonk.com/sogrady/2021/10/26/general-purpose-database/) ([HN](https://news.ycombinator.com/item?id=29014055))
 - [Are Stored Procedures and Triggers Anti-Patterns in the Cloud Native World? (2021)](https://blog.yugabyte.com/are-stored-procedures-and-triggers-anti-patterns-in-the-cloud-native-world/)
+- [TimescaleDB vs ClickHouse (2021)](https://pradeepchhetri.xyz/clickhousevstimescaledb/) ([HN](https://news.ycombinator.com/item?id=29096541))
+- [OLAP Databases (2020)](https://pradeepchhetri.xyz/olap/)

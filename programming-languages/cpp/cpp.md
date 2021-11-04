@@ -262,3 +262,4 @@
 - [C++ Teaching Manifesto](https://github.com/jcelerier/cpp-teaching-manifesto)
 - [C++ Coroutines Do Not Spark Joy (2021)](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/) ([HN](https://news.ycombinator.com/item?id=29064233))
 - [uftrace](https://github.com/namhyung/uftrace) - Function graph tracer for C/C++/Rust. ([Web](https://uftrace.github.io/slide/#1))
+- [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/) ([Reddit](https://www.reddit.com/r/rust/comments/qlycje/move_semantics_c_vs_rust/))

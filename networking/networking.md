@@ -332,3 +332,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [net2o](https://fossil.net2o.de/net2o/doc/trunk/wiki/net2o.md) - Reinventing the Internet. ([Lobsters](https://lobste.rs/s/5ztiyl/net2o_reinventing_internet))
 - [Network intersubjectives (2021)](https://subconscious.substack.com/p/network-intersubjectives) ([Tweet](https://twitter.com/gordonbrander/status/1454517797636116480))
 - [Viska](https://github.com/vasilakisfil/viska) - SIP server/framework built in Rust.
+- [libSRTP](https://github.com/cisco/libsrtp) - Implementation of the Secure Real-time Transport Protocol (SRTP), the Universal Security Transform (UST), and a supporting cryptographic kernel.

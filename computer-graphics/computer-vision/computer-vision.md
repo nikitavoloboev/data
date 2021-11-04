@@ -426,3 +426,4 @@
 - [Neural-Pull: Learning Signed Distance Functions from Point Clouds by Learning to Pull Space onto Surfaces (2021)](https://arxiv.org/abs/2011.13495) ([Code](https://github.com/mabaorui/NeuralPull))
 - [The 2021 Image Similarity Dataset and Challenge (2021)](https://arxiv.org/abs/2106.09672) ([Code](https://github.com/facebookresearch/isc2021))
 - [K-Net: Towards Unified Image Segmentation (2021)](https://arxiv.org/abs/2106.14855) ([Code](https://github.com/ZwwWayne/K-Net))
+- [Yolov5 + Deep Sort with PyTorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)

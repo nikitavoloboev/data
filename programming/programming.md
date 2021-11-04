@@ -481,3 +481,5 @@
 - [Simple Code, High Performance (2021)](https://www.youtube.com/watch?v=Ge3aKEmZcqY) ([HN](https://news.ycombinator.com/item?id=29045482))
 - [A developer's guide to programatically overcome fear of failure (2021)](https://www.pagerduty.com/blog/engineers-guide-on-the-importance-of-failure/) ([HN](https://news.ycombinator.com/item?id=29056215))
 - [Programming projects to work on for skill development](https://www.reddit.com/r/gamedev/comments/1bc8tz/looking_for_resources_for_java_game_programming/)
+- [The tale of a single register value (2021)](https://blog.cloudflare.com/the-tale-of-a-single-register-value/)
+- [Codecademy Docs](https://www.codecademy.com/resources/docs) - Collection of information for all things code. ([Code](https://github.com/Codecademy/docs))

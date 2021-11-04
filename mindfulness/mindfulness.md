@@ -57,3 +57,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Expanding Awareness](https://expandingawareness.org/) - Explores Alexander Technique and all the things it intersects with.
 - [What is the Alexander Technique? (2021)](https://expandingawareness.org/blog/what-is-the-alexander-technique/)
 - [Ask HN: How do you tackle your own negativity? (2021)](https://news.ycombinator.com/item?id=29060798)
+- [9 Ways to ‘Rewild Your Attention’ (2021)](https://forge.medium.com/9-ways-to-rewild-your-attention-d7c9334b6b90)

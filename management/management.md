@@ -159,3 +159,4 @@
 - [FactorialHR](https://factorialhr.com/) - All-in-One Human Resources (HR) Software.
 - [How we build software at Cloudflare (2021)](https://blog.cloudflare.com/building-software-at-cloudflare/)
 - [How learned helplessness happens in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams) ([HN](https://news.ycombinator.com/item?id=29060693))
+- [Are daily standups hurting your team? (2021)](https://ideas.krishnan.ca/are-daily-standups-hurting-your-team) ([HN](https://news.ycombinator.com/item?id=29093833))

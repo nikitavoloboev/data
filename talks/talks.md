@@ -73,3 +73,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Best of 2020 in Tech Talks](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
 - [Presentation tips for performing professional Swift talks (2021)](https://www.avanderlee.com/optimization/presentation-tips-swift-talks/)
 - [Reflection of Speaking in Public (2021)](https://antfu.me/posts/reflection-of-speaking-in-public)
+- [Public speaking tips I’ve learned through trial and error](https://twitter.com/ceeoreo_/status/1455954539224383491)

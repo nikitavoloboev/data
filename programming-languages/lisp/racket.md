@@ -71,3 +71,4 @@
 - [How do I implement Racket from scratch? (2021)](https://www.reddit.com/r/Racket/comments/pfjs2e/how_do_i_implement_racket_from_scratch/)
 - [What drew you to Racket? (2021)](https://www.reddit.com/r/Racket/comments/ptimod/what_drew_you_to_racket/)
 - [fmt](https://github.com/sorawee/fmt) - Code formatter for Racket.
+- [Abstract Machine for Racket Bytecode](https://github.com/akeep/abstract-racket)

@@ -32,6 +32,7 @@
 - [sydtest](https://github.com/NorfairKing/sydtest) - Experimental testing framework for Haskell with great defaults advanced testing features.
 - [Tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell.
 - [StrictCheck](https://github.com/kwf/StrictCheck) - Property-based random testing framework for observing, specifying, and testing the strictness behaviors of Haskell functions.
+- [Hspec](https://github.com/hspec/hspec) - Testing Framework for Haskell.
 
 ## CLI
 

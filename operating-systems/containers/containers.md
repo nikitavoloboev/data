@@ -100,7 +100,7 @@
 - [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - Launch containers on demand. ([Web](https://containerssh.io/))
 - [Podman](https://podman.io/) - Tool for managing OCI containers and pods. ([Code](https://github.com/containers/podman)) ([HN](https://news.ycombinator.com/item?id=26101608)) ([HN](https://news.ycombinator.com/item?id=28376686))
 - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
-- [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
+- [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry. ([How to use](https://pradeepchhetri.xyz/til/cosign/))
 - [Compiling Containers - Dockerfiles, LLVM and BuildKit (2021)](https://blog.earthly.dev/compiling-containers-dockerfiles-llvm-and-buildkit/)
 - [Youki](https://github.com/utam0k/youki) - Experimental implementation of the oci-runtime in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/ng2zns/youki_a_container_runtime_in_rust_passed_all_the/)) ([Reddit](https://www.reddit.com/r/rust/comments/pweqkb/youki_a_container_runtime_written_in_rust_that/))
 - [Stargz Snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast docker image distribution plugin for containerd, based on CRFS/stargz.

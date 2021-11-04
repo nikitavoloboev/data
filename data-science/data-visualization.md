@@ -115,3 +115,4 @@
 - [Vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 - [Yagr](https://github.com/yandex-cloud/yagr) - High performance HTML5 canvas chart renderer based on uPlot. It provides high-level features for uPlot charts.
 - [Pandas_Alive](https://github.com/JackMcKew/pandas_alive) - Animated plotting extension for Pandas with Matplotlib.
+- [Literate Visualization](https://github.com/gicentre/litvis) - Light-touch approach to designing, building and describing visualization. ([Web](https://www.gicentre.net/litvis))

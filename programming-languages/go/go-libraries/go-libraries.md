@@ -88,6 +88,7 @@
 ## Web
 
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance.
+- [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community.
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management.
 - [Authz](https://github.com/gin-contrib/authz) - Authorization middleware for Gin.
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin Framework.
@@ -292,6 +293,7 @@
 - [otelsql](https://github.com/XSAM/otelsql) - OpenTelemetry instrumentation for database/sql.
 - [CockroachDB Go](https://github.com/cockroachdb/cockroach-go) - Helpers for CockroachDB users writing in Go.
 - [go-sstables](https://github.com/thomasjungblut/go-sstables) - Go library for protobuf compatible sstables, a skiplist, a recordio format and other database building blocks like a write-ahead log.
+- [sqlcommenter](https://github.com/jbub/sqlcommenter)
 
 ## ML
 

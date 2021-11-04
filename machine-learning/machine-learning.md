@@ -585,3 +585,4 @@
 - [Advanced-Foundations-of-ML](https://github.com/yashsavani/Advanced-Foundations-of-ML)
 - [Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions (2021)](https://arxiv.org/abs/2106.01798) ([Code](https://github.com/uclnlp/torch-imle))
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://github.com/facebookresearch/dlrm)
+- [MLflow Examples](https://github.com/amesar/mlflow-examples)

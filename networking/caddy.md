@@ -35,3 +35,4 @@
 - [caddy-json-parse](https://github.com/abiosoft/caddy-json-parse) - Caddy v2 module for parsing json request body.
 - [Simple A/B testing with Caddy and Plausible Analytics (2021)](https://bradleyjkemp.dev/post/simple-a/b-testing-with-caddy-and-plausible-analytics/)
 - [tsid](https://github.com/astrophena/tsid) - Tailscale integration for Caddy.
+- [kwatch](https://github.com/ibrokemypie/kwatch) - Watch videos from a caddy fileserver.

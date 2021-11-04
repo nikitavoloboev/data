@@ -10,7 +10,7 @@
 - [TLA+ model checking made symbolic (2019)](https://blog.acolyer.org/2019/11/29/tla-model-checking-made-symbolic/) ([HN](https://news.ycombinator.com/item?id=21662484))
 - [The TLA+ Toolbox (2019)](https://arxiv.org/abs/1912.10633)
 - [BlockingQueue](https://github.com/lemmy/BlockingQueue) - Tutorial-style talk "Weeks of debugging can save you hours of TLA+".
-- [APALACHE](https://github.com/konnov/apalache) - Symbolic model checker for TLA+.
+- [APALACHE](https://github.com/informalsystems/apalache) - Symbolic model checker for TLA+. ([Web](https://apalache.informal.systems/))
 - [TLA+ Model Checking Made Symbolic (2019)](https://hal.archives-ouvertes.fr/hal-02280888/document)
 - [TLA+ Examples](https://github.com/tlaplus/Examples) - Collection of TLA+ specifications of varying complexities.
 - [Using TLA+ in the Real World to Understand a Glibc Bug (2020)](https://probablydance.com/2020/10/31/using-tla-in-the-real-world-to-understand-a-glibc-bug/) ([HN](https://news.ycombinator.com/item?id=24958504))

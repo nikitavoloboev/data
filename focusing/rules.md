@@ -122,7 +122,7 @@
 
 ## Relationships
 
-- Communicate everything. Be honest, kind and empathetic. Don't avoid/ignore conflicts.
+- Communicate everything clearly. Be honest, kind and empathetic. Don't avoid/ignore conflicts.
 - Acknowledge and apologize for any mistakes made. Learn and improve.
 - Don't be cruel in my actions and words. Treat my partner and friends with respect. You are only as pretty as you treat people.
 - Never underestimate how hurt someone can feel by your words and actions. Stop your behavior as soon as you see a person you care about hurt by you.
@@ -239,7 +239,7 @@
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
 - Use [same profile photo](https://twitter.com/nikitavoloboev/photo) & [cover photo](https://twitter.com/nikitavoloboev/header_photo) (only if it's better than without) across all profiles. Don't change it often.
 - Add appropriate short description with link to personal site.
-- Use same username on all services. Preferred (`nikivi`). Otherwise, full name (`nikitavoloboev`) or `nikivi_` if `nikivi` is taken.
+- Use same username on all services. Preferred (`nikiv`). If service requires full name username, use it (`nikitavoloboev`). If `nikiv` is taken, use `nikivi`. If all fails, use `nikiv_`.
 - Interact with content/discussions freely. Upvote/Like things appropriately. Can later index & search this data.
 - Quality of followers > Quantity. Try cultivate positive online experiences. Filter out negativity.
 

@@ -38,3 +38,4 @@
 - [AWS Communism: How we cut our Load Balancing cost by more than 96% (2021)](https://www.setops.co/blog/aws-communism-part-1-how-we-cut-our-load-balancing-cost) ([HN](https://news.ycombinator.com/item?id=28917947))
 - [Istio in Action Book (2018)](https://www.manning.com/books/istio-in-action)
 - [Testing Client-Side Load Balancing Strategies (2021)](https://faun.pub/testing-client-side-load-balancing-strategies-9d99246d99dc)
+- [Load Shedding for Evil Wizards - Tony Allen (2021)](https://www.youtube.com/watch?v=UInZ9yViUS0)

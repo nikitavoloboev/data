@@ -88,3 +88,4 @@
 - [New language features since Java 8 to 17 (2021)](https://advancedweb.hu/new-language-features-since-java-8-to-17/) ([HN](https://news.ycombinator.com/item?id=28979048))
 - [Rock the JVM Blog](https://blog.rockthejvm.com/)
 - [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Plug-in to OpenJDK and GraalVM that allows programmers to automatically run Java programs on heterogeneous hardware. ([Web](https://www.tornadovm.org/))
+- [Jython](https://github.com/jython/jython) - Python for the Java Platform. ([Web](https://www.jython.org/))

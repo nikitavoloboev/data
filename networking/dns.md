@@ -144,3 +144,5 @@
 - [LLMNR, Multicast DNS and names on your LAN (2021)](https://www.eiman.tv/blog/posts/lannames/)
 - [Google Public DNS](https://dns.google/)
 - [dnstrace](https://github.com/rs/dnstrace) - DNS resolution tracing tool.
+- [Lepus](https://github.com/gfek/Lepus) - Subdomain finder.
+- [Hunting Newly Registered Domains](https://github.com/gfek/Hunting-New-Registered-Domains)

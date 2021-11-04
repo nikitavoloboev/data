@@ -48,6 +48,7 @@
 - [Intent does not erase impact.](https://twitter.com/cherthedev/status/1448689004887478275) -[ Robust community benefits from intentional sporadic engagement. Not every actor has to contribute to liveness. Has to support different modes for different nodes. Communities thrive on growth of individuals, together. Intentions are good fuel for that.](https://twitter.com/vaisfourlovers/status/1450930799717531656)
 - [Basic principles of constructive feedback: 1. Before you give it, ask if they want to receive it. 2. Be clear that you believe in their potential and care about their success. 3. Be as candid as possible in what you say, and as thoughtful as possible in how you say it.](https://twitter.com/AdamMGrant/status/1451169253877555204)
 - [People try ridiculously hard to make themselves look smart when they’d leave a more lasting positive impression by listening, loosening the other person up, and making them laugh — i.e. making the other person feel smart.](https://twitter.com/mollyfmielke/status/1453735260387045380)
+- [There are 2 kinds of critics. Some respect the work + want it to be better. Others lack the guts to show their own work and jealously nit pick. 1's are medicine (tastes bad, good for the work). 2's are poison. Knowing the difference is hard but important](https://twitter.com/aprildunford/status/1455673783109529606)
 
 ## Links
 

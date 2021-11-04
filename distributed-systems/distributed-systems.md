@@ -224,3 +224,4 @@
 - [Hypercore](https://github.com/hypercore-protocol/hypercore) - Secure, distributed append-only log.
 - [Hypercore Next](https://github.com/hypercore-protocol/hypercore-next) - Append only log with multi-writer primitives built in.
 - ["Waterpark: Distributed Actors vs the Pandemic" by Bryan Hunter (2021)](https://www.youtube.com/watch?v=9qUfX3XFi_4) - Building reliable, actor-based systems.
+- [P language](https://github.com/p-org/P) - Modular and Safe Programming for Distributed Systems. ([Docs](https://p-org.github.io/P/)) ([Tweet](https://twitter.com/MarcJBrooker/status/1455955892633886720))

@@ -269,6 +269,7 @@
 - [RtMidi](https://github.com/thestk/rtmidi) - Set of C++ classes that provide a common API for real time MIDI input/output.
 - [HPX](https://github.com/STEllAR-GROUP/hpx) - C++ Standard Library for Parallelism and Concurrency.
 - [agrpc](https://github.com/npuichigo/agrpc) - Async GRPC with C++20 coroutine support.
+- [Marius](https://github.com/marius-team/marius) - Large scale embeddings on a single machine.
 
 ## Links
 

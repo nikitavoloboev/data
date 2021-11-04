@@ -17,6 +17,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 ## Notes
 
 - [If you have an S3 bucket with zero files in it, it doesn’t incur storage charges. You can put a lifecycle rule on an S3 bucket that will automatically expire files after say 30 days.](https://lobste.rs/s/w36hds/packing_encrypting_uploading)
+- [Can store everything in SSM & not use environment variables.](https://twitter.com/thdxr/status/1455944479626743809)
 
 ## Links
 
@@ -237,3 +238,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Tools to Build on AWS](https://aws.amazon.com/tools/) ([Code](https://github.com/aws/aws-sdk))
 - [s3-credentials](https://github.com/simonw/s3-credentials) - Tool for creating credentials for accessing S3 buckets.
 - [aws-auth](https://github.com/iamarkadyt/aws-auth) - AWS credentials management CLI tool. ([HN](https://news.ycombinator.com/item?id=29090858))
+- [AWS Exposable Resources](https://github.com/SummitRoute/aws_exposable_resources) - Resource types that can be publicly exposed on AWS.

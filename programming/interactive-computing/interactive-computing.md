@@ -33,3 +33,4 @@
 - [Enso](https://enso.org/) - Hybrid visual and textual functional programming. ([Code](https://github.com/enso-org/enso)) ([HN](https://news.ycombinator.com/item?id=27748738))
 - [In search of a dynamic medium (2021)](https://www.dgsiegel.net/articles/in-search-of-a-dynamic-medium)
 - [Ossia](https://ossia.io/) - Open Software System for Interactive Applications. ([Code](https://github.com/ossia/score))
+- [Fabrik - A Visual Programming Environment (1988)](https://web.archive.org/web/20070927190552/http://users.ipa.net/~dwighth/smalltalk/Fabrik/Fabrik.html) ([HN](https://news.ycombinator.com/item?id=29094633))

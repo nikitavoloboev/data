@@ -152,6 +152,7 @@
 - [Affilimate](https://affilimate.com/) - Affiliate Dashboard and Link Tracking Tool. ([Tweet](https://twitter.com/monicalent/status/1446054504894541830))
 - [Promote Your Next Startup](https://github.com/trekhleb/promote-your-next-startup) - Free resources you may use to promote your next startup. ([HN](https://news.ycombinator.com/item?id=28807413))
 - [GoSquared](https://www.gosquared.com/) - Effective customer engagement tools for happier customers. ([Twitter](https://twitter.com/GoSquared))
+- [Why You Should Repeat Yourself, A Lot (2021)](https://tomtunguz.com/why-you-should-repeat-yourself/)
 
 ## Images
 

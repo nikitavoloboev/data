@@ -70,3 +70,4 @@
 - [Optimising Common Lisp to try and beat Java and Rust on phone encoding 2/2 (2021)](https://renato.athaydes.com/posts/revenge_of_lisp-part-2.html) ([HN](https://news.ycombinator.com/item?id=28825307))
 - [DRAKMA](https://github.com/edicl/drakma) - HTTP client written in Common Lisp.
 - [Kina Knowledge, using Common Lisp extensively in their document processing stack (2021)](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/) ([HN](https://news.ycombinator.com/item?id=28961987))
+- [Roswell](https://github.com/roswell/roswell) - Common Lisp environment setup Utility.

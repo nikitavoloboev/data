@@ -96,7 +96,7 @@ It's annoying that a lot of [people/projects use these distributed ledgers as po
 - [Binance Trading Bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with trailing buy/sell strategy.
 - [ShapeShift](https://shapeshift.com/) - Offers global trading of a variety of digital assets.
 - [cointop](https://cointop.sh/) - Coin tracking for hackers. ([Code](https://github.com/miguelmota/cointop))
-- [FTX](https://ftx.com/en) - Cryptocurrency Derivatives Exchange.
+- [FTX](https://ftx.com/en) - Cryptocurrency Derivatives Exchange. ([Sample Code](https://github.com/ftexchange/ftx))
 - [Raydium](https://raydium.io/) - Next-level liquidity. Friction-less yield. Light-speed swaps. ([Code](https://github.com/raydium-io/raydium-ui))
 - [The FTX Podcast](https://www.youtube.com/playlist?list=PLLDdsQN_5infQ9Ee-KPxcH3gvMIbymZEg) - Tristan Yver looks into the stories of emerging and established cryptocurrency companies and technologies.
 - [Phantom](https://phantom.app/) - Digital wallet reimagined for DeFi & NFTs. Supports Solana and Ethereum.
@@ -163,3 +163,4 @@ It's annoying that a lot of [people/projects use these distributed ledgers as po
 - [Seb Montgomery - YouTube](https://www.youtube.com/c/SebMontgomery/playlists) - Trying to make the most simple explanations and videos on cryptocurrencies.
 - [Alongside](https://www.alongside.finance/) - Smart & simple way to invest in cryptoassets with indexes. ([Twitter](https://twitter.com/alongsidefi)) ([Tweet](https://twitter.com/AustinLDiamond/status/1455229850717990918))
 - [Report on Stablecoins (2021)](https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf) ([HN](https://news.ycombinator.com/item?id=29071895))
+- [TokenTax](https://tokentax.co/) - Calculate your crypto taxes and file your return.

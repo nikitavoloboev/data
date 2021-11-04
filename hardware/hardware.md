@@ -245,3 +245,4 @@
 - [PlayStation 3 Architecture](https://www.copetti.org/writings/consoles/playstation-3/) ([HN](https://news.ycombinator.com/item?id=28934624))
 - [Tesla Dojo White Paper (2021)](https://tesla-cdn.thron.com/static/SBY4B9_tesla-dojo-technology_OPNZ0M.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22tesla-dojo-technology.pdf%22) - Guide to Tesla’s Configurable Floating Point Formats & Arithmetic. ([HN](https://news.ycombinator.com/item?id=28999206)) ([Tweet](https://twitter.com/Tesla/status/1452961309734096900))
 - [Teenage Engineering Computer-1 mini-ITX Chassis](https://teenage.engineering/products/computer-1) ([HN](https://news.ycombinator.com/item?id=29027328))
+- [hgdb](https://github.com/Kuree/hgdb) - Flexible hardware debugging framework. It offers runtime APIs to interact with the simulator.

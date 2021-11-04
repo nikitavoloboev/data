@@ -34,6 +34,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [One of the best times to buy a stock is when a good company sells off on earnings due to investor overreaction. It requires a bit of digging and judgment to determine whether the selloff was justified or an overreaction, but it can be very profitable.](https://www.reddit.com/r/investing/comments/oz6a2y/trader_do_you_buy_stocks_right_after_a_large_drop/)
 - [You don’t get wealthy from “taking profit” every chance you get. You get wealthy by finding long term profitable companies that you buy in to and hold for years.](https://www.reddit.com/r/investing/comments/p0r3o4/time_to_take_aapl_gains_and_gtfo/)
 - [Wealthiest 10% of Americans own a record 89% of all U.S. stocks. Remember this next time a politician tries to point to the stock market as a sign of economic health.](https://twitter.com/JordanUhl/status/1454943968186097664)
+- [Always buy into a project and it’s fundamentals, ecosystem, growth potential. If the price goes up or down is irrelevant.](https://www.reddit.com/r/solana/comments/qlr599/how_you_decide_when_its_the_best_time_to_buy_sol/)
 
 ## Links
 

@@ -212,3 +212,5 @@
 - [Arm NN](https://github.com/ARM-software/armnn) - Software and tools that enables machine learning workloads on power-efficient devices.
 - [OpenRec](https://github.com/ylongqi/openrec) - Open-source and modular library for neural network-inspired recommendation algorithms.
 - [FlexFlow](https://github.com/facebookresearch/DLRM-FlexFlow) - Distributed deep learning framework that supports flexible parallelization strategies.
+- [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Unified Deep Learning System for Large-Scale Parallel Training. ([Docs](https://www.colossalai.org/))
+- [XManager](https://github.com/deepmind/xmanager) - Framework for managing machine learning experiments.

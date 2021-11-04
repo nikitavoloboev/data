@@ -323,3 +323,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Почему в России ТАКАЯ власть? Государство в двух словах. (2021)](https://www.youtube.com/watch?v=65YBwgOPrSE)
 - [Yes, It Was An 'Evil Empire' (2021)](https://reason.com/2021/11/01/yes-it-was-an-evil-empire/)
 - [The Stunning Grandeur of Soviet-Era Metros (2021)](https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html)
+- [Герой своего романа](https://iamhero.special.ink/)

@@ -73,3 +73,5 @@
 - [Designing Billions of Circuits with Code (2021)](https://www.youtube.com/watch?v=ihz2WY-E2C8)
 - [Teach Me PCB](https://teachmepcb.com/) ([HN](https://news.ycombinator.com/item?id=28742902))
 - [The NAND gate. One gate to rule them all](https://sebastiancarlos.medium.com/the-nand-gate-one-gate-to-rule-them-all-ee1a5dbc83dd) ([HN](https://news.ycombinator.com/item?id=28756727))
+- [How to build your own CNC machine from scratch](https://github.com/maxvfischer/DIY-CNC-machine) ([HN](https://news.ycombinator.com/item?id=29096954))
+- [How to build your own full-size arcade machine from scratch](https://github.com/maxvfischer/DIY-arcade)

@@ -213,3 +213,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Keylime](https://keylime.dev/) - Bootstrap & Maintain Trust on the Edge / Cloud and IoT. ([Code](https://github.com/keylime/keylime))
 - [fulcio](https://github.com/sigstore/fulcio) - Sigstore WebPKI.
 - [Trojan Source Attacks](https://trojansource.codes/) - Attack the encoding of source code files to inject vulnerabilities. ([HN](https://news.ycombinator.com/item?id=29062982)) ([Code](https://github.com/nickboucher/trojan-source))
+- [Ask HN: Is the ISO 27001 certification worth it? (2021)](https://news.ycombinator.com/item?id=29094889)

@@ -106,6 +106,7 @@
 - [Distances](https://github.com/JuliaStats/Distances.jl) - Julia package for evaluating distances (metrics) between vectors.
 - [Rewrite.jl](https://github.com/HarrisonGrodin/Rewrite.jl) - Efficient symbolic term rewriting engine.
 - [Simplify.jl](https://github.com/HarrisonGrodin/Simplify.jl) - Algebraic simplification in Julia.
+- [InfiniteOpt.jl](https://github.com/pulsipher/InfiniteOpt.jl) - Intuitive modeling interface for infinite-dimensional optimization problems.
 
 ## NLP
 
@@ -327,6 +328,7 @@
 - [ReadableRegex](https://github.com/jkrumbiegel/ReadableRegex.jl) - Syntax that is much easier to write and understand than the rather cryptic standard Regex.
 - [Permutations](https://github.com/scheinerman/Permutations.jl) - Permutations class for Julia.
 - [Tokenize](https://github.com/JuliaLang/Tokenize.jl) - Tokenization for Julia source code.
+- [UnsafeArrays](https://github.com/JuliaArrays/UnsafeArrays.jl) - Stack-allocated pointer-based array views.
 
 ## Links
 

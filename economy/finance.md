@@ -26,6 +26,7 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [It's a different way of thinking about budgeting. It's an envelope system. You have a pile of dollars (real dollars - these are all the dollars you own, right now, in your accounts), and a pile of envelopes. You begin stuffing dollar bills into envelopes - some into the bills coming due before you get paid again, some for groceries until you get paid again, some for gas until you get paid again, and with the smaller pile of dollars after those needs are taken care of, you begin to stuff dollars into your True Expenses - things like Car Maintenance, Insurance Payment, etc. When you run out of dollars, you STOP.](https://www.reddit.com/r/ynab/comments/93l0gm/im_missing_something_here_possibly_a_brain/)
   - You stop, because you can't put imaginary dollars into envelopes.
   - YNAB is all about the now - about giving jobs to the money you have. Not to the money you might have later on. It is a different way of thinking, but once you make that mental shift, it comes clear and works beautifully.
+- [Invoiced has great invoice generator.](https://invoice-generator.com/#/1)
 
 ## Links
 

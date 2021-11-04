@@ -193,6 +193,7 @@
 - [Stop catching errors in TypeScript; Use the Either type to make your code predictable (2021)](https://antman-does-software.com/stop-catching-errors-in-typescript-use-the-either-type-to-make-your-code-predictable) ([Reddit](https://www.reddit.com/r/typescript/comments/qelaqw/stop_catching_errors_in_typescript_use_the_either/))
 - [TypeType](https://github.com/mistlog/typetype) - Programming language designed for typescript type generation. ([Playground](https://mistlog.github.io/typetype-playground/))
 - [TSCC](https://github.com/theseanl/tscc) - Collection of tools to seamlessly bundle, minify Typescript with Closure Compiler.
+- [TypeScript: Control flow analysis for destructured discriminated unions](https://github.com/microsoft/TypeScript/pull/46266) ([HN](https://news.ycombinator.com/item?id=29099331))
 
 ## Images
 

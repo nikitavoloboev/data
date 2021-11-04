@@ -642,6 +642,7 @@
 - [Autobee](https://github.com/pfrazee/autobee) - Multiwriter Hyperbee comprised of multiple input Hyperbees using Autobase and Hypercore 10.
 - [std-env](https://github.com/unjs/std-env) - Detect current JavaScript environment.
 - [Nova Text Tools](https://github.com/biati-digital/nova-text-tools) - Swiss Army knife for text manipulation and selection.
+- [Ninja Keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 
 ## Links
 
@@ -667,3 +668,4 @@
 - [npm-search](https://github.com/algolia/npm-search) - Failure resilient npm registry to Algolia index replication process.
 - [stable-hash](https://github.com/shuding/stable-hash) - Stable JS value hash.
 - [npm-registry-fetch](https://github.com/npm/npm-registry-fetch) - Node.js library that implements a fetch-like API for accessing npm registry APIs consistently.
+- [Depp](https://github.com/CryogenicPlanet/depp) - Check your npm modules for unused and duplicate dependencies fast.

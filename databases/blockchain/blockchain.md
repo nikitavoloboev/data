@@ -103,6 +103,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Rosetta](https://www.rosetta-api.org/) - Open standard designed to simplify blockchain deployment and interaction.
 - [Band Protocol](https://bandprotocol.com/) - Cross-Chain Data Oracle. ([Code](https://github.com/bandprotocol/bandchain))
 - [Tendermint Core](https://github.com/tendermint/tendermint) - Byzantine Fault Tolerant (BFT) middleware that takes a state transition machine - written in any programming language - and securely replicates it on many machines. ([Web](https://tendermint.com/))
+- [tendermint.rs](https://github.com/informalsystems/tendermint-rs) - Tendermint in Rust with TLA+ specifications.
 - [Orga](https://github.com/nomic-io/orga) - Stack for building blockchain applications powered by Tendermint consensus.
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - Framework for building blockchain applications in Golang.
 - [Gaia](https://github.com/cosmos/gaia) - Implementation of Cosmos Hub, built using the Cosmos SDK.
@@ -264,3 +265,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Deso](https://www.deso.org/) - Decentralized Social Blockchain. ([GitHub](https://github.com/deso-protocol))
 - [The Problem with Smart Contracts Today (2021)](https://www.radixdlt.com/post/the-problem-with-smart-contracts-today) ([Tweet](https://twitter.com/lawmaster/status/1453375048140697606))
 - [Blockchain Security DB](https://consensys.github.io/blockchainSecurityDB/) - Open-source database created by ConsenSys Diligence for all things blockchain security. ([Code](https://github.com/ConsenSys/blockchainSecurityDB))
+- [Informal Systems](https://informal.systems/) - Verifiable distributed systems (of machines) and organizations (of humans). ([Twitter](https://twitter.com/informalinc)) ([GitHub](https://github.com/informalsystems))
+- [Inter-Blockchain Communication Protocol (IBC)](https://ibcprotocol.org/) - Interoperability protocol for communicating arbitrary data between arbitrary state machines. ([Rust Code](https://github.com/informalsystems/ibc-rs))

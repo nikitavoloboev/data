@@ -586,7 +586,7 @@ if err != nil {
 - [Go 1.18 will embed source version information into binaries (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionOfYourSource) ([HN](https://news.ycombinator.com/item?id=29008811)) ([Reddit](https://www.reddit.com/r/golang/comments/qg6jsa/go_118_will_embed_source_version_information_into/))
 - [What annoys you about Go? (2021)](https://www.reddit.com/r/golang/comments/qgj2th/what_annoys_you_about_go/)
 - [A comprehensive guide to go generate (2021)](https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/)
-- [What could Go wrong with a mutex, or the Go profiling story (2021)](https://evilmartians.com/chronicles/what-could-go-wrong-with-a-mutex-or-the-go-profiling-story)
+- [What could Go wrong with a mutex, or the Go profiling story (2021)](https://evilmartians.com/chronicles/what-could-go-wrong-with-a-mutex-or-the-go-profiling-story) ([HN](https://news.ycombinator.com/item?id=29084288))
 - [Expectations for generics in Go 1.18 (2021)](https://groups.google.com/g/golang-dev/c/iuB22_G9Kbo/m/7B1jd1I3BQAJ) ([HN](https://news.ycombinator.com/item?id=29020695)) ([Reddit](https://www.reddit.com/r/golang/comments/qh7hk6/expectations_for_generics_in_go_118_russ_cox_on/))
 - [golang-dev - Google Groups](https://groups.google.com/g/golang-dev/)
 - [Extracting type information from Go binaries (2021)](https://securelist.com/extracting-type-information-from-go-binaries/104715/)
@@ -597,3 +597,4 @@ if err != nil {
 - [Improving JSON readability in Go (2021)](https://dev.to/vearutop/reducing-indented-json-height-in-go-40nd)
 - [Pandora](https://github.com/yandex/pandora) - High-performance load generator in Go language.
 - [Uber Go Rules](https://github.com/quasilyte/uber-rules) - Set of ruleguard rules that try to cover some parts of the Uber Go Style Guide.
+- [Visualize a hierarchy of embedded Go structs](https://github.com/davidschlachter/embedded-struct-visualizer)

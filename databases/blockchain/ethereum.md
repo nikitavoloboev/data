@@ -57,7 +57,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Slither](https://github.com/crytic/slither) - Solidity source analyzer.
 - [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool.
 - [Ethereum APIs](https://github.com/prysmaticlabs/ethereumapis)
-- [Ethereum Name Service](https://ens.domains/) - Offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names. ([App](https://app.ens.domains/))
+- [Ethereum Name Service](https://ens.domains/) - Offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names. ([App](https://app.ens.domains/)) ([Docs](https://docs.ens.domains/)) ([Tweet](https://twitter.com/seldo/status/1455640706786099203))
 - [HN: Reddit rolls out community currencies on Ethereum (2020)](https://news.ycombinator.com/item?id=23178277)
 - [Arbitrum](https://offchainlabs.com/) - Layer 2 cryptocurrency platform that makes smart contracts scalable, fast, and private. Arbitrum interoperates closely with Ethereum. ([Code](https://github.com/OffchainLabs/arbitrum))
 - [teth](https://github.com/bwasty/teth) - Toy Ethereum implementation.
@@ -91,7 +91,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Solidity](https://github.com/ethereum/solidity) - Contract-Oriented Programming Language. ([Docs](https://solidity.readthedocs.io/))
 - [EVM Opcodes](https://github.com/wolflo/evm-opcodes) - Quick reference for EVM opcodes.
 - [Eth2 News](https://eth2.news)
-- [Lido](https://lido.fi/) - Liquid staking solution for Ethereum. ([Introducing Lido](https://medium.com/lido-finance/introducing-lido-ca193431c82))
+- [Lido](https://lido.fi/) - Liquid staking solution for Ethereum. ([Introducing Lido](https://medium.com/lido-finance/introducing-lido-ca193431c82)) ([Discord](https://discord.gg/vgdPfhZ))
 - [Matter Labs](https://matter-labs.io/) - Unchaining Ethereum with Zero-Knowledge Proofs.
 - [zkSync](https://zksync.io/) - Secure, scalable crypto payments. Fully trustless, secure, user-centric protocol for scaling payments and smart contracts on Ethereum. ([Code](https://github.com/matter-labs/zksync))
 - [Ethereum wallet application for Ledger Blue and Nano S](https://github.com/LedgerHQ/app-ethereum)

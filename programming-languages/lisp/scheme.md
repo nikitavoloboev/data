@@ -56,3 +56,5 @@
 - [BiwaScheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter written in JavaScript. ([Web](https://www.biwascheme.org/))
 - [Exploring Scheme implementations for API programming coming from Node.js, Go (2019)](https://taoofmac.com/space/blog/2019/06/20/2310)
 - [Ribbit](https://github.com/udem-dlteam/ribbit) - Small and portable Scheme implementation with AOT and incremental compilers that fits in 4K.
+- [Scheme-to-C](https://github.com/akeep/scheme-to-c) - Tiny nanopass compiler for compiling a small subset of Scheme to C.
+- [Scheme-to-LLVM](https://github.com/akeep/scheme-to-llvm)

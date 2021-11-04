@@ -30,3 +30,4 @@
 - [kyleshevlin/eslint-plugin](https://github.com/kyleshevlin/eslint-plugin) - Personal collection of ESLint rules. ([Reddit](https://www.reddit.com/r/reactjs/comments/q911mv/any_good_tutorials_for_senior_devs/hgt7u9s/?utm_source=reddit&utm_medium=web2x&context=3))
 - [eslint-plugin-arca](https://github.com/arcanis/eslint-plugin-arca) - Various ESLint rules tailored to the author's preferred style.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
+- [Canonical ESLint Config](https://github.com/gajus/eslint-config-canonical) - Most comprehensive ES code style guide.

@@ -25,3 +25,4 @@
 - [Nobel Prize in Physiology or Medicine 2021](https://www.nobelprize.org/prizes/medicine/2021/press-release/) ([HN](https://news.ycombinator.com/item?id=28745101))
 - [Chronic pain is surprisingly treatable — when patients focus on the brain (2021)](https://www.washingtonpost.com/s/outlook/2021/10/15/chronic-pain-brain-plasticity/) ([Tweet](https://twitter.com/AllenDowney/status/1450200820528689162?s=20))
 - [ivadomed](https://github.com/ivadomed/ivadomed) - Integrated framework for medical image analysis with deep learning. ([Docs](https://ivadomed.org/))
+- [Medallion](https://medallion.co/) - Medical Credentialing & Licensing Made Simple. ([Tweet](https://twitter.com/andrew__reed/status/1455902525337452550))

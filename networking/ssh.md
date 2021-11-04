@@ -74,3 +74,4 @@
 - [SCP for GitHub Actions](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
 - [Massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.
 - [SSH alternatives for mobile, low-latency or unreliable connections (2021)](https://console.dev/articles/ssh-alternatives-for-mobile-low-latency-unreliable-connections/) ([HN](https://news.ycombinator.com/item?id=29081008))
+- [signmykey](https://github.com/signmykeyio/signmykey) - Automated SSH Certificate Authority.

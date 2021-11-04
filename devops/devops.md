@@ -72,7 +72,7 @@
 - [CloudARK](https://cloudark.io/) - Platform-As-Code. ([GitHub](https://github.com/cloud-ark))
 - [Meltano](https://meltano.com/) - ELT for the DataOps era.
 - [DigitalOcean Agent](https://github.com/digitalocean/do-agent) - Collects system metrics from DigitalOcean Droplets.
-- [Pulumi](https://www.pulumi.com/) - Modern Infrastructure as Code. Any cloud, any language. ([Code](https://github.com/pulumi/pulumi)) ([HN](https://news.ycombinator.com/item?id=22866714)) ([HN 2](https://news.ycombinator.com/item?id=26880935))
+- [Pulumi](https://www.pulumi.com/) - Modern Infrastructure as Code. Any cloud, any language. ([Code](https://github.com/pulumi/pulumi)) ([HN](https://news.ycombinator.com/item?id=22866714)) ([HN 2](https://news.ycombinator.com/item?id=26880935)) ([Awesome](https://github.com/pulumiverse/awesome-pulumi))
 - [Piku](https://github.com/piku/piku) - Tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. ([GitHub](https://github.com/piku))
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Fleet](https://fleetdm.com/) - Open source device management. ([Code](https://github.com/fleetdm/fleet))

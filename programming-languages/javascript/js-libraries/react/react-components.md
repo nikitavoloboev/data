@@ -224,6 +224,7 @@
 - [tldraw/core](https://github.com/tldraw/core) - TLDraw core renderer and utilities.
 - [React Freeze](https://github.com/software-mansion-labs/react-freeze) - Prevent React component subtrees from rendering.
 - [react-ancenstry](https://github.com/grantila/react-ancestry) - Get the component ancestry in React.
+- [typeahead](https://github.com/tomocchino/typeahead) - Small, fast, opinionated autocomplete input for React.
 
 ## Links
 

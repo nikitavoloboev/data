@@ -257,3 +257,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Static Analysis: An Introduction (2021)](https://queue.acm.org/detail.cfm?id=3487021)
 - [Static Analysis at GitHub (2021)](https://queue.acm.org/detail.cfm?id=3487022)
 - [Most accessible programming language (2021)](https://twitter.com/ellenkorbes/status/1452437940299309063)
+- [Ask HN: If you designed a new programming language, what would its features be? (2021)](https://news.ycombinator.com/item?id=29092998)
+- [glot.io](https://glot.io/) - Open source pastebin with runnable snippets and API. ([Code](https://github.com/glotcode/glot-www))

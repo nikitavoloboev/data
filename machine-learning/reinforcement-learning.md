@@ -264,3 +264,4 @@
 - [Mastering Atari Games with Limited Data (2021)](https://arxiv.org/abs/2111.00210) ([Code](https://github.com/YeWR/EfficientZero))
 - [RL Starter Files](https://github.com/lcswillems/rl-starter-files) - RL starter files in order to immediately train, visualize and evaluate an agent without writing any line of code.
 - [JORLDY](https://github.com/kakaoenterprise/JORLDY) - Open Source Reinforcement Learning Framework.
+- [sinergym](https://github.com/jajimer/sinergym) - Gym environment for building simulation and control using reinforcement learning.

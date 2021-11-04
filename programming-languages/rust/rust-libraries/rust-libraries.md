@@ -152,6 +152,7 @@
 
 ## Video
 
+- [rust-ac-ffmpeg](https://github.com/angelcam/rust-ac-ffmpeg) - Rust wrapper for FFmpeg libraries.
 - [Nightfall](https://github.com/Dusk-Labs/nightfall) - Easy to use lib for creating on-demand transcoding sessions for efficient media playback.
 
 ## Graphics
@@ -357,6 +358,7 @@
 - [self_cell](https://github.com/Voultapher/self_cell) - Safe-to-use proc-macro-free self-referential structs in stable Rust.
 - [impls](https://github.com/nvzqz/impls) - Rust macro to determine if a type implements a logical trait expression.
 - [rust-derive-macro-guide](https://github.com/imbolc/rust-derive-macro-guide) - Simple derive macros in Rust.
+- [reflect](https://github.com/dtolnay/reflect) - Compile-time reflection API for developing robust procedural macros.
 
 ## Math
 
@@ -1079,6 +1081,7 @@
 - [SmolStr](https://github.com/rust-analyzer/smol_str)
 - [ATAT](https://github.com/BlackbirdHQ/atat) - no_std crate for parsing AT commands.
 - [Shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
+- [sallyport](https://github.com/enarx/sallyport) - API for the hypervisor-microkernel boundary.
 
 ## Cargo Plugins
 

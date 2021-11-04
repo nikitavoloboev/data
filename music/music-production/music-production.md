@@ -114,6 +114,7 @@
 - [MIDISequencer](https://github.com/AudioKit/MIDISequencer) - MIDI Sequencer that sends MIDI events to other apps.
 - [Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - Fully-featured DAW written in Rust. ([HN](https://news.ycombinator.com/item?id=29082142))
 - [Harmonicon](https://harmonicon.studio/) - Experimental DAW for music as code. ([Code](https://github.com/JamesRyanATX/Harmonicon))
+- [GridSound](https://gridsound.com/) - Open source online digital audio workstation following the new WebAudio API. ([Code](https://github.com/gridsound/daw))
 
 ## Inspiration
 

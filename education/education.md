@@ -89,3 +89,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Sprout9](https://sprout9.net/) - Platform for students to find tutors. ([HN](https://news.ycombinator.com/item?id=28699718))
 - [Is college worth it? A return-on-investment analysis (2021)](https://freopp.org/is-college-worth-it-a-comprehensive-return-on-investment-analysis-1b2ad17f84c8) ([HN](https://news.ycombinator.com/item?id=29001389))
 - [Thread of studies in learning and education](https://twitter.com/Phillips_M_G/status/1436017478358941697)
+- [Is public education compatible with free speech? (2021)](https://www.youtube.com/watch?v=_7zMtX0W82s) ([Tweet](https://twitter.com/shlevy/status/1455993055400628232))

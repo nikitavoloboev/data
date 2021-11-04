@@ -105,3 +105,4 @@
 - [What Even Is A DAO (2021)](https://www.youtube.com/watch?v=IooTahsgXTs)
 - [Chris Dixon and Naval Ravikant — The Wonders of Web3, How to Pick the Right Hill to Climb, Finding the Right Amount of Crypto Regulation, Friends with Benefits, and the Untapped Potential of NFTs (2021)](https://overcast.fm/+KebvA5eGA)
 - [Keyko](https://www.keyko.io/) - Create Unstoppable Digital Ecosystems.
+- [Criticizing Web 3 focus on money making (2021)](https://twitter.com/Foone/status/1455601328479092739)
