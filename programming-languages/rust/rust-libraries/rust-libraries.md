@@ -292,6 +292,7 @@
 - [kvm-ioctls](https://github.com/rust-vmm/kvm-ioctls) - Provides safe wrappers over the KVM API, a set of ioctls used for creating and configuring Virtual Machines (VMs) on Linux.
 - [reverie](https://github.com/reverie-rs/reverie) - Trace and intercept linux syscalls.
 - [BlueR](https://github.com/bluez/bluer) - Rust interface to the Linux Bluetooth protocol stack (BlueZ).
+- [oxidebpf](https://github.com/redcanaryco/oxidebpf) - Rust library for managing eBPF programs.
 
 ## ML
 
@@ -359,6 +360,8 @@
 - [impls](https://github.com/nvzqz/impls) - Rust macro to determine if a type implements a logical trait expression.
 - [rust-derive-macro-guide](https://github.com/imbolc/rust-derive-macro-guide) - Simple derive macros in Rust.
 - [reflect](https://github.com/dtolnay/reflect) - Compile-time reflection API for developing robust procedural macros.
+- [parse-display](https://github.com/frozenlib/parse-display) - Procedural macro to implement Display and FromStr using common settings.
+- [Derivative](https://github.com/mcarton/rust-derivative) - Set of alternative `derive` attributes for Rust.
 
 ## Math
 
@@ -1082,6 +1085,8 @@
 - [ATAT](https://github.com/BlackbirdHQ/atat) - no_std crate for parsing AT commands.
 - [Shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
 - [sallyport](https://github.com/enarx/sallyport) - API for the hypervisor-microkernel boundary.
+- [Threadfin](https://github.com/sagebind/threadfin) - Thread pool for running multiple tasks on a configurable group of threads.
+- [eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust.
 
 ## Cargo Plugins
 

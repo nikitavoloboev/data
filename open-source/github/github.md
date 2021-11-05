@@ -294,3 +294,4 @@ Awesome List
 - [gisture](https://github.com/mufeedvh/gisture) - Utilizing GitHub Gists as a Blogging Platform.
 - [repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate.
 - [Top GitHub Users By Country](https://github.com/gayanvoice/top-github-users)
+- [Stacked Pull Requests on GitHub](https://github.com/ejoffe/spr)

@@ -44,3 +44,5 @@
 - [PostgreSQL Translation Proxy](https://github.com/NikolayS/postgrest-translation-proxy) - PostgreSQL / PostgREST proxy to Google Translate API, with caching and multiphrase support.
 - [Divvun.org](https://divvun.org/) - Языковые инструменты для языков коренных народов и меньшинств. ([GitHub](https://github.com/divvun))
 - [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) ([HN](https://news.ycombinator.com/item?id=29002776))
+- [Gender in Latin and Beyond: A Philologist’s Take (2021)](https://antigonejournal.com/2021/10/gender-in-latin-and-beyond/) ([HN](https://news.ycombinator.com/item?id=29040746))
+- [Holmes](https://github.com/msg-systems/holmes-extractor) - Information extraction from English and German texts based on predicate logic.

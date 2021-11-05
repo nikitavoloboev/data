@@ -42,6 +42,7 @@
 - [Hadean](https://hadean.com/) - Distributed Computing at Massive Scale.
 - [Renderro](https://renderro.com/) - Powerful Cloud Computer For Creatives.
 - [Yandex Cloud](https://cloud.yandex.com/en/) ([GitHub](https://github.com/yandex-cloud))
+- [Akash Network](https://akash.network/) - Secure, transparent, and peer-to-peer cloud computing network. ([Code](https://github.com/ovrclk/akash)) ([GitHub](https://github.com/ovrclk)) ([Awesome](https://github.com/ovrclk/awesome-akash))
 
 ## Notes
 

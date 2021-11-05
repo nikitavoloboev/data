@@ -10,3 +10,4 @@ I'm learning to make sketches as notes similar to [this](https://twitter.com/_lr
 - [Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications)
 - [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis)
 - [Sketch Toy](https://sketchtoy.com/) - Draw sketches and share replays with friends. ([Twitter](https://twitter.com/sketchtoy))
+- [Why is Excalidraw so good? (2021)](https://offbyone.us/posts/why-is-excalidraw-so-good/) ([HN](https://news.ycombinator.com/item?id=29109995))

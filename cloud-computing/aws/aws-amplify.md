@@ -23,3 +23,4 @@
 - [AWS Amplify Admin UI](https://github.com/aws-amplify/amplify-adminui) - Helps You Develop App Backends, No Cloud Experience Required. ([Issues](https://github.com/aws-amplify/amplify-adminui))
 - [Next.js with Amplify DataStore](https://github.com/dabit3/next.js-amplify-datastore) - Example app using Amplify DataStore with Next.js for static site generation, pre-rendering, and SSR.
 - [Get Started with the AWS Amplify Admin UI (2020)](https://egghead.io/playlists/get-started-with-the-amplify-admin-ui-9e79)
+- [Amplify Codegen](https://github.com/aws-amplify/amplify-codegen) - JavaScript toolkit library for frontend and mobile developers building Amplify applications.

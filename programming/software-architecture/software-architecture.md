@@ -42,7 +42,7 @@
 - [Introduction to Computer Systems course (2019)](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/)
 - [The Cloud (2019)](https://txt.black/~jack/cloud.txt) ([HN](https://news.ycombinator.com/item?id=20639359))
 - [Ask HN: Which are the best resources to learn software architecture? (2020)](https://news.ycombinator.com/item?id=22202769)
-- [Cosmic Python](https://www.cosmicpython.com/) - Simple patterns for building complex applications. ([Code](https://github.com/cosmicpython/book))
+- [Cosmic Python](https://www.cosmicpython.com/) - Simple patterns for building complex applications. ([Code](https://github.com/cosmicpython/book)) ([Book](https://www.cosmicpython.com/book/preface.html)) ([Article](https://klaviyo.tech/managing-complexity-with-architecture-patterns-in-python-626b895710ca))
 - [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/) ([Lab Assignments](http://csapp.cs.cmu.edu/3e/labs.html))
 - [Introduction to Computer Systems course (2019)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/schedule.html)
 - [Diagrams](https://diagrams.mingrammer.com/) - Lets you draw the cloud system architecture in Python code. ([Code](https://github.com/mingrammer/diagrams)) ([HN](https://news.ycombinator.com/item?id=23154846)) ([TS lib](https://github.com/balles/diagrams-ts))

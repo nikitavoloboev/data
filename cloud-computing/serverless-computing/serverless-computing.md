@@ -5,6 +5,7 @@
 - [What if a program was just running. There's no start or stop, just pause and resume. You can snapshot it at any time and restore that snapshot later. You can share or sync its state across multiple instances. The way you program this is like a REPL, not compiled files.](https://twitter.com/rsms/status/1389958973621563395)
 - [Testing locally isn't nice to have. It's table stakes for developer velocity. A dev without local feedback is slower. You don't want to be slower!](https://twitter.com/brianleroux/status/1399734769663971330)
 - [Give developers straight forward ways to express their intent, and let the platform quietly manage all the complexity this demands on their behalf.](https://twitter.com/philhawksworth/status/1452940698907553792)
+- [Edge caching (while cool) is not as necessary if you can just do compute on the edge (via fly in this case) and cache everything on the server (like the content itself). It's pretty sweet.](https://twitter.com/kentcdodds/status/1456232073111343104)
 
 ## Links
 

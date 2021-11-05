@@ -129,3 +129,4 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Anchor Example: Token Swap AMM](https://github.com/ironaddicteddog/anchor-amm)
 - [Bonfida](https://bonfida.org/#/) - Full product suite that bridges the gap between Serum, Solana and the user. ([Twitter](https://twitter.com/bonfida)) ([Docs](https://docs.bonfida.org/collection/v/help/))
 - [AnchorPy](https://github.com/kevinheavey/anchorpy) - Python client for Anchor. It allows you to interact with Anchor programs using Python.
+- [Solana.Swift](https://github.com/ajamaica/Solana.Swift) - Open source library on pure swift for Solana protocol.

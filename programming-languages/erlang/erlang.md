@@ -106,3 +106,4 @@
 - [ETC](https://github.com/vrnithinkumar/ETC) - Erlang Type Checker Prototype Based on Bidirectional Typechecking.
 - [WhatsApp scaled to 1B users with only 50 engineers](https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion) ([HN](https://news.ycombinator.com/item?id=28985169))
 - [Erlang Forums](https://erlangforums.com/)
+- [Languages, and about languages, on the BEAM](https://github.com/llaisdy/beam_languages)

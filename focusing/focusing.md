@@ -95,4 +95,3 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Laziness Does Not Exist (2018)](https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01) ([HN](https://news.ycombinator.com/item?id=28574627))
 - [Every productivity thought I've ever had, as concisely as possible (2018)](https://guzey.com/productivity/)
 - [Oliver Burkeman's Advice for Time Management (2021)](https://www.theatlantic.com/family/archive/2021/08/oliver-burkeman-advice-time-productivity/619723/)
-- [Energy, and How to Get It (2021)](https://www.newyorker.com/magazine/2021/11/08/energy-and-how-to-get-it)

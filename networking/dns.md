@@ -146,3 +146,5 @@
 - [dnstrace](https://github.com/rs/dnstrace) - DNS resolution tracing tool.
 - [Lepus](https://github.com/gfek/Lepus) - Subdomain finder.
 - [Hunting Newly Registered Domains](https://github.com/gfek/Hunting-New-Registered-Domains)
+- [q](https://github.com/natesales/q) - Tiny command line DNS client with support for UDP, DoT, DoH, DoQ, and ODoH.
+- [PacketFrame](https://github.com/packetframe/cdn) - Open Source CDN for authoritative DNS and HTTP caching. ([Web](https://packetframe.com/))

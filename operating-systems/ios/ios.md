@@ -86,6 +86,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Goal & Habit Tracker](https://github.com/Shubham0812/HabitTracker_UI) - Habits and Goal Tracker application using the SwiftUI Framework.
 - [TodoApp iOS](https://github.com/elixir-desktop/ios-example-app) - Xcode project wrapper around the Elixir TodoApp Desktop app to run on iOS.
 - [Zotero iOS](https://github.com/zotero/zotero-ios)
+- [DeTeXt](https://venkatasg.net/apps/detext) - Find the LaTeX Command You Want. ([Code](https://github.com/venkatasg/DeTeXt))
 
 ## Other
 

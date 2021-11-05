@@ -85,3 +85,4 @@
 - [Product Design Basics – A toolkit of concepts and frameworks](https://modelthinkers.com/playbook/product-design-basics)
 - [What Type of Job is This: My First Year as Chief Product Officer (2021)](https://caseyaccidental.com/chief-product-officer-first-year)
 - [Simple Product Management Tricks (2021)](https://jacobian.org/2021/oct/20/simple-pm-tricks/) ([HN](https://news.ycombinator.com/item?id=29068652))
+- [A product management reading list (2021)](https://mikehudack.substack.com/p/a-product-management-reading-list)

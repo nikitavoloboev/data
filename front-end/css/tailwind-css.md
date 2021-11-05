@@ -107,3 +107,4 @@
 - [Wicked Blocks](https://wickedblocks.dev/) - Ready Made Tailwind CSS blocks, for your next project.
 - [Tailwind class madness. Never again. (2021)](https://itnext.io/tailwind-class-madness-never-again-75ec6ebfd3a0)
 - [Discord-Inspired Dashboard with Tailwind CSS](https://github.com/fireship-io/tailwind-dashboard)
+- [Goodbye CSS Modules, Hello TailwindCSS](https://www.polytomic.com/blog-posts/goodbye-css-modules-hello-tailwindcss) ([HN](https://news.ycombinator.com/item?id=29109881))

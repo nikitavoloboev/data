@@ -267,3 +267,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Blockchain Security DB](https://consensys.github.io/blockchainSecurityDB/) - Open-source database created by ConsenSys Diligence for all things blockchain security. ([Code](https://github.com/ConsenSys/blockchainSecurityDB))
 - [Informal Systems](https://informal.systems/) - Verifiable distributed systems (of machines) and organizations (of humans). ([Twitter](https://twitter.com/informalinc)) ([GitHub](https://github.com/informalsystems))
 - [Inter-Blockchain Communication Protocol (IBC)](https://ibcprotocol.org/) - Interoperability protocol for communicating arbitrary data between arbitrary state machines. ([Rust Code](https://github.com/informalsystems/ibc-rs))
+- [What is Harberger Tax & Where Does The Blockchain Fit In? (2018)](https://medium.com/@simondlr/what-is-harberger-tax-where-does-the-blockchain-fit-in-1329046922c6)

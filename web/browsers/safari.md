@@ -22,10 +22,11 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Open in Apollo Safari Extension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo.
 - [Paint it Red](https://github.com/kukushechkin/paint-it-red) - Safari Web Extension to custom color Safari 15 pages with theme-color.
 - [HighlightJSON](https://github.com/lexrus/HighlightJSON) - Tiny Safari Web Extension for presenting highlighted JSON files.
+- [Svadilfari](https://apps.apple.com/us/app/svadilfari/id1586432379) - Gesture Control for Safari on iOS and iPadOS. ([Code](https://github.com/shumbo/Svadilfari))
 
 ## Other
 
-- [‎Noir](https://apps.apple.com/app/id1581140954) - Dark Mode for Safari. ([Reddit](https://www.reddit.com/r/apple/comments/q5ahll/give_every_website_a_dark_mode_with_noir_my_new/))
+- [Noir](https://apps.apple.com/app/id1581140954) - Dark Mode for Safari. ([Reddit](https://www.reddit.com/r/apple/comments/q5ahll/give_every_website_a_dark_mode_with_noir_my_new/))
 
 ## Notes
 

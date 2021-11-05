@@ -124,6 +124,7 @@
 - [use-lax](https://github.com/arthurdenner/use-lax) - React hook to use with lax.js.
 - [fp-ts-react-stable-hooks](https://github.com/mblink/fp-ts-react-stable-hooks) - Reduce unnecessary rerenders when using fp-ts data types with React hooks.
 - [use-callback-ref](https://github.com/theKashey/use-callback-ref) - Same useRef, but it will callback.
+- [use-reducer-async](https://github.com/dai-shi/use-reducer-async) - React useReducer with async actions.
 
 ## Code
 
@@ -193,3 +194,4 @@ useEffect(() => {
 - [Linear's Hooks](https://twitter.com/tommoor/status/1451331907707236368)
 - [Mental model for useEffect](https://twitter.com/threepointone/status/1452346139487965186)
 - [Why you shouldn't put refs in a dependency array](https://epicreact.dev/why-you-shouldnt-put-refs-in-a-dependency-array/)
+- [How to Handle Async Actions for Global State With React Hooks and Context (2019)](https://blog.axlight.com/posts/how-to-handle-async-actions-for-global-state-with-react-hooks-and-context/)

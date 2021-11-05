@@ -265,3 +265,4 @@
 - [RL Starter Files](https://github.com/lcswillems/rl-starter-files) - RL starter files in order to immediately train, visualize and evaluate an agent without writing any line of code.
 - [JORLDY](https://github.com/kakaoenterprise/JORLDY) - Open Source Reinforcement Learning Framework.
 - [sinergym](https://github.com/jajimer/sinergym) - Gym environment for building simulation and control using reinforcement learning.
+- [MetaDrive](https://github.com/decisionforce/metadrive) - Composing Diverse Driving Scenarios for Generalizable RL.

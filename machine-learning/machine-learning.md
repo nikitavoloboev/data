@@ -586,3 +586,6 @@
 - [Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions (2021)](https://arxiv.org/abs/2106.01798) ([Code](https://github.com/uclnlp/torch-imle))
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://github.com/facebookresearch/dlrm)
 - [MLflow Examples](https://github.com/amesar/mlflow-examples)
+- [8-bit Optimizers via Block-wise Quantization (2021)](https://arxiv.org/abs/2110.02861) ([Code](https://github.com/facebookresearch/bitsandbytes))
+- [Efficiently Modeling Long Sequences with Structured State Spaces (2021)](https://arxiv.org/abs/2111.00396) ([Code](https://github.com/HazyResearch/state-spaces))
+- [Get started with JAX](https://github.com/gordicaleksa/get-started-with-JAX) ([Videos](https://www.youtube.com/playlist?list=PLBoQnSflObckOARbMK9Lt98Id0AKcZurq))

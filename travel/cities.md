@@ -39,3 +39,4 @@
 - [The Liberation of Paris From Cars Is Working (2021)](https://slate.com/business/2021/09/paris-cars-bicycles-walking-david-belliard-anne-hidalgo.html) ([Tweet](https://twitter.com/travis_robert/status/1438577403295682564))
 - [How Manchester Fixed Its Industrial Decline (2021)](https://www.youtube.com/watch?v=fuTIDc5ug-Y)
 - [Prague's Brutalist Buildings](https://www.calvertjournal.com/features/show/13210/best-brutalist-buildings-in-prague-czech-republic-socialist-modernist-architecture) ([HN](https://news.ycombinator.com/item?id=29047075))
+- [Our self imposed scarcity of nice places (2021)](https://www.strongtowns.org/journal/2021/11/3/our-self-imposed-scarcity-of-nice-places) ([HN](https://news.ycombinator.com/item?id=29104323))

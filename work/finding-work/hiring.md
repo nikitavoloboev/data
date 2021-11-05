@@ -116,3 +116,4 @@
 - [Monzo's on-call compensation](https://twitter.com/bradleyjkemp/status/1445706941028704272)
 - [They don't even know the fundamentals (2021)](https://blog.royalsloth.eu/posts/they-dont-even-know-the-fundamentals/) ([HN](https://news.ycombinator.com/item?id=29064822))
 - [Onboarding to a New Company (2021)](https://newsletter.pragmaticengineer.com/p/onboarding-to-a-new-company)
+- [Ask HN: What kind of projects make a junior candidate stand out from the rest? (2021)](https://news.ycombinator.com/item?id=29108881)

@@ -255,3 +255,4 @@
 - [What we can learn from GraphQLConf 2021](https://blog.logrocket.com/graphqlconf-2021-round-up/)
 - [GraphQL authorization layer](https://github.com/AstrumU/graphql-authz) - Flexible, (not only) directive-based, compatible with all modern GraphQL architectures.
 - [Altair GraphQL Client](https://github.com/altair-graphql/altair) - Helps you debug GraphQL queries and implementations. ([Web](https://altair.sirmuel.design/))
+- [Developing GraphQL APIs using Nexus (2021)](https://formidable.com/blog/2021/graphql-with-nexus/)

@@ -41,3 +41,4 @@
 - [elasticdump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Tools for moving and saving indices.
 - [Elasticsearch DSL written in Rust](https://github.com/vinted/elasticsearch-dsl-rs)
 - [Elasticsearch Python Client](https://github.com/elastic/elasticsearch-py)
+- [BERT models with Solr and Elasticsearch](https://github.com/DmitryKey/bert-solr-search)

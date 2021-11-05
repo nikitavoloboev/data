@@ -333,3 +333,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Network intersubjectives (2021)](https://subconscious.substack.com/p/network-intersubjectives) ([Tweet](https://twitter.com/gordonbrander/status/1454517797636116480))
 - [Viska](https://github.com/vasilakisfil/viska) - SIP server/framework built in Rust.
 - [libSRTP](https://github.com/cisco/libsrtp) - Implementation of the Secure Real-time Transport Protocol (SRTP), the Universal Security Transform (UST), and a supporting cryptographic kernel.
+- [Pathvector](https://github.com/natesales/pathvector) - Declarative edge routing platform that automates route optimization and control plane configuration with secure and repeatable routing policy. ([Web](https://pathvector.io/))
+- [inlets-on-fly](https://github.com/jsiebens/inlets-on-fly) - Automates the task of creating an inlets-pro exit-server (tunnel server) on the fly.io platform.

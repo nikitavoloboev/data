@@ -427,3 +427,7 @@
 - [The 2021 Image Similarity Dataset and Challenge (2021)](https://arxiv.org/abs/2106.09672) ([Code](https://github.com/facebookresearch/isc2021))
 - [K-Net: Towards Unified Image Segmentation (2021)](https://arxiv.org/abs/2106.14855) ([Code](https://github.com/ZwwWayne/K-Net))
 - [Yolov5 + Deep Sort with PyTorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)
+- [Shape As Points: A Differentiable Poisson Solver (2021)](https://arxiv.org/abs/2106.03452) ([Code](https://github.com/autonomousvision/shape_as_points))
+- [Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm (2021)](https://arxiv.org/abs/2110.05208) ([Code](https://github.com/Sense-GVT/DeCLIP))
+- [Awesome Vision-Language Navigation](https://github.com/daqingliu/awesome-vln)
+- [An Exploration of Embodied Visual Exploration (2021)](http://vision.cs.utexas.edu/projects/exploring-exploration/) ([Code](https://github.com/facebookresearch/exploring_exploration))

@@ -431,3 +431,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [go-git-providers](https://github.com/fluxcd/go-git-providers) - general-purpose Go client for interacting with Git providers' APIs (GitHub, GitLab).
 - [Oaf](https://github.com/abentley/oaf) - Git client that brings a more user-friendly CLI to Git.
 - [GitPython](https://github.com/gitpython-developers/GitPython) - Python library used to interact with Git repositories.
+- [GitFlow ToolKit](https://github.com/mritd/gitflow-toolkit) - Simple toolkit for GitFlow.

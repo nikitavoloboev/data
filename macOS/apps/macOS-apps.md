@@ -65,7 +65,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.
 - [eqMac](https://github.com/bitgapp/eqMac) - macOS System-wide Audio Equalizer.
 - [SensibleSideButtons](https://sensible-side-buttons.archagon.net/) - Side navigation for third-party mice in macOS. ([HN](https://news.ycombinator.com/item?id=24389977))
-- [DevUtils](https://devutils.app/) - Developer Utilities for macOS. ([Code](https://github.com/DevUtilsApp/DevUtils-app)) ([HN](https://news.ycombinator.com/item?id=24604291))
+- [DevUtils](https://devutils.app/) - Developer Utilities for macOS. ([Code](https://github.com/DevUtilsApp/DevUtils-app)) ([HN](https://news.ycombinator.com/item?id=24604291)) ([HN](https://news.ycombinator.com/item?id=29077933))
 - [5 GUIs](https://github.com/ZeeZide/5GUIs) - Tiny macOS app that can detect the GUI technologies used in other apps.
 - [Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar.
 - [Stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.

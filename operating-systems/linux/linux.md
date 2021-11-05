@@ -403,3 +403,4 @@
 - [Leaving Debian With Joey Hess (2021)](https://corecursive.com/leaving-debian/) ([HN](https://news.ycombinator.com/item?id=29081087))
 - [AppImage](https://appimage.org/) - Linux apps that run anywhere. ([Awesome](https://github.com/AppImage/awesome-appimage))
 - [Dynamic Kernel Module System (DKMS)](https://github.com/dell/dkms)
+- [PREVAIL](https://github.com/vbpf/ebpf-verifier) - Polynomial-Runtime EBPF Verifier using an Abstract Interpretation Layer.

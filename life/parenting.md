@@ -53,3 +53,5 @@
 - [Please Don't Give Up on Having Kids Because of Climate Change (2021)](https://astralcodexten.substack.com/p/please-dont-give-up-on-having-kids) ([HN](https://news.ycombinator.com/item?id=28827377)) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/q5udvg/please_dont_give_up_on_having_kids_because_of/))
 - [Как общаться с молодыми родителями, если у вас нет детей](https://kinzhal.media/pokakali/)
 - [The main thing with kids is to keep them alive (2021)](https://freddiedeboer.substack.com/p/short-week-the-main-thing-with-kids) ([HN](https://news.ycombinator.com/item?id=29001414))
+- [What was a book you read after having kids that meant a LOT to you (2021)](https://twitter.com/DanielleMorrill/status/1456017558419746822)
+- [The Present Parent Handbook: 26 Simple Tools to Discover that This Moment, This Action, This Thought, This Feeling Is Exactly Why I Am Here](https://www.goodreads.com/book/show/34065333-the-present-parent-handbook)

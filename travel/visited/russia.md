@@ -324,3 +324,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Yes, It Was An 'Evil Empire' (2021)](https://reason.com/2021/11/01/yes-it-was-an-evil-empire/)
 - [The Stunning Grandeur of Soviet-Era Metros (2021)](https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html)
 - [Герой своего романа](https://iamhero.special.ink/)
+- [Пытки для Навального: кем его окружили в колонии, как компрометируют и ломают (2021)](https://tvrain.ru/news/byvshie_zakljuchennye_pokrovskoj_kolonii_rasskazali_ob_izdevatelstvah_nad_navalnym-541267/) ([Tweet](https://twitter.com/Kira_Yarmysh/status/1456170822410899458)) ([Tweet](https://twitter.com/team_milov/status/1456205700296847361))

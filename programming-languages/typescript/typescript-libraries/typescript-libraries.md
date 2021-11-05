@@ -179,6 +179,7 @@
 - [as-typed](https://github.com/lbguilherme/as-typed) - Static TypeScript types from a literal JSONSchema type.
 - [fast-sort](https://github.com/snovakovic/fast-sort) - Blazing fast array sorting with TypeScript support.
 - [NativeScript plugins](https://github.com/NativeScript/plugins)
+- [Trie](https://github.com/shortwave/trie) - Fast trie implementation for TypeScript.
 
 ## Links
 

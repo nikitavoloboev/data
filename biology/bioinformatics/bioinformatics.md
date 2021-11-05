@@ -168,3 +168,4 @@
 - [Artificial intelligence reveals nuclear pore complexity (2021)](https://www.biorxiv.org/content/10.1101/2021.10.26.465776v1) ([Tweet](https://twitter.com/jankosinski/status/1453530872427253765))
 - [BioNix](https://github.com/PapenfussLab/bionix) - Functional highly reproducible bioinformatics pipelines.
 - [Awesome Bioinformatics Formats](https://github.com/kmhernan/awesome-bioinformatics-formats)
+- [BioShape Lab](https://bioshape.ece.ucsb.edu/)

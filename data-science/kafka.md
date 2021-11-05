@@ -69,3 +69,4 @@
 - [josef](https://github.com/joshrotenberg/josef) - Process Kafka streams with Clojure Transducers.
 - [Kafka Streams in Scala (2021)](https://www.youtube.com/watch?v=MYTFPTtOoLs)
 - [Kafka Streams 101 (2021)](https://blog.rockthejvm.com/kafka-streams/)
+- [Kafka Streams 101 – resources to get started (2021)](https://forum.confluent.io/t/kafka-streams-101-resources-to-get-started/3283)

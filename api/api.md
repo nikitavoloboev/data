@@ -8,6 +8,7 @@
 - [GitHub Swift](https://github.com/Einstore/GitHubKit)
 - [GitHub JS](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs.
 - [GitHub JS 2](https://github.com/jviotti/ghrequest) - GitHub API HTTP client with cache support to get the most of your rate limit.
+- [GitHub JS 3](https://github.com/octokit/octokit.js) - All-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [GitHub JS REST](https://github.com/octokit/rest.js)
 - [GitHub Rust](https://github.com/softprops/hubcaps)
 - [GitHub Rust 2](https://github.com/XAMPPRocky/octocrab)

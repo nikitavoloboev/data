@@ -140,3 +140,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Climate Realism (2021)](https://www.americanpurpose.com/blog/fukuyama/climate-realism/)
 - [Sustainable Energy without the Hot Air (Revised, Community Edition)](https://climate.lifeitself.us/without-hot-air/) ([HN](https://news.ycombinator.com/item?id=29056343))
 - [What 3°C of global warming looks like (2021)](https://www.economist.com/films/2021/10/30/this-is-what-3degc-of-global-warming-looks-like) ([HN](https://news.ycombinator.com/item?id=29070774)) ([Tweet](https://twitter.com/FinancialTimes/status/1455232381464502273))
+- [Citizen Spring](https://citizenspring.earth/) - Citizens coming together to rebuild local communities.

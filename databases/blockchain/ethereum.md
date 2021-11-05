@@ -344,3 +344,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [REVMjs](https://github.com/bluealloy/revm/tree/main/crates/revmjs) - REVM library for JS.
 - [evmodin](https://github.com/vorot93/evmodin) - Fast EVM implementation with support for resumability. Port of evmone to Rust.
 - [Web3 Starter](https://github.com/iMuzz/web3-starter) ([Web](https://www.web3starter.xyz/))
+- [EIP validator](https://github.com/lightclient/eipv) - Ethereum Improvement Proposal Validator.
+- [Best ways to stake Eth (2021)](https://www.reddit.com/r/ethereum/comments/qmfx43/coinbase_eth_staking_rewards_have_dropped_down/)

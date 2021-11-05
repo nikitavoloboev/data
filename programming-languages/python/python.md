@@ -365,3 +365,5 @@ for i, _ in enumerate(nums):
 - [pravda](https://github.com/wemake-services/pravda) - Python type-checker written in Rust.
 - [On code isolation in Python (2020)](https://rushter.com/blog/python-code-isolation/)
 - [Pynsights](https://github.com/laffra/pynsights) - Understanding Python programs by visualizing how modules interact.
+- [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html) ([HN](https://news.ycombinator.com/item?id=29104047))
+- [GraalVM Python](https://www.graalvm.org/python/) - On average, Python in GraalVM is 8.92x faster than CPython. ([HN](https://news.ycombinator.com/item?id=29097715))

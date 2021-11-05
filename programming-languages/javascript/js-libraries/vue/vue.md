@@ -83,3 +83,4 @@
 - [Nuxt 3 Minimal Starter](https://github.com/kenny-io/Nuxt3-Tailwind-Supabase-Demo) - Uses Tailwind/Supabase.
 - [Arco Design Vue](https://github.com/arco-design/arco-design-vue)
 - [nuxt3-supabase](https://github.com/wobsoriano/nuxt3-supabase) - Nuxt 3 module and composables for Supabase.
+- [Vitesse for Nuxt 3](https://github.com/antfu/vitesse-nuxt3)

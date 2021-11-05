@@ -97,3 +97,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [TikZJax](https://tikzjax.com/) - Converts script tags (containing TikZ code) into SVGs. ([Code](https://github.com/kisonecat/tikzjax))
 - [Ant](https://github.com/groupoid/ant) - New typesetting system. Resembles TeX, but improves the internal language, which is ML dialect with rich domain-specific features for typesetting.
 - [Asiatic pTeX](https://github.com/clerkma/ptex-ng)
+- [ClutTeX](https://github.com/minoki/cluttex) - Process LaTeX document without cluttering your directory.

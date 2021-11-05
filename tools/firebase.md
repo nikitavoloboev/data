@@ -45,3 +45,4 @@
 - [Firebase Admin Node.js SDK](https://github.com/firebase/firebase-admin-node)
 - [TS-Mock-Firebase](https://github.com/mindhivefi/ts-mock-firebase) - Mock for Firebase services on web and admin.
 - [Firebase Testing Quick starts](https://github.com/firebase/quickstart-testing)
+- [Virgil E3Kit JS Web + Firebase Demo](https://github.com/VirgilSecurity/demo-firebase-js) - End-to-end encrypted HIPAA-compliant demo chat app for Firebase that is using Virgil Security's E3Kit JavaScript SDK.

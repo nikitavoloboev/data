@@ -240,6 +240,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [What are your favorite books under 250 pages? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qc2r4i/what_are_your_favorite_books_under_250_pages/)
 - [Best and most engaging Sci-Fi books (2021)](https://www.reddit.com/r/suggestmeabook/comments/qfdrhp/what_are_the_best_and_most_engaging_scifi_books/)
 - [Favorite weird short story collections (2021)](https://www.reddit.com/r/WeirdLit/comments/qh406m/what_are_your_favorite_weird_short_story/)
+- [Whats your favorite book? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qma7aj/whats_your_favorite_book/)
 
 ## Notes
 

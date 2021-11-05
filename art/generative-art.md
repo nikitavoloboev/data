@@ -172,3 +172,4 @@
 - [GenerativeArt-SwiftUI](https://github.com/martinhoeller/GenerativeArt-SwiftUI)
 - [Cubeverse](https://cubeversenft.com/) - Generative, unique and random NFTs of beautiful structures, of different shapes and sizes. ([Twitter](https://twitter.com/TheCubeverse))
 - [Magically Rearranging Patterns - CSS Houdini](https://codepen.io/georgedoescode/pen/YzxrRZe) ([Tweet](https://codepen.io/georgedoescode/pen/YzxrRZe))
+- [genartlib](https://github.com/thobbs/genartlib) - Utilities for creating generative artwork with Clojure.

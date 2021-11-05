@@ -307,3 +307,4 @@
 - [GitHub Actions: DRY your GitHub Actions configuration by reusing workflows (2021)](https://github.blog/changelog/2021-10-05-github-actions-dry-your-github-actions-configuration-by-reusing-workflows/)
 - [GitHub Actions Exporter](https://github.com/cpanato/github_actions_exporter) - Prometheus exporter exposing GitHub Actions metrics.
 - [Collaborative programming environment inside GitHub Actions](https://github.com/jstrieb/ctf-collab)
+- [auto-doc](https://github.com/tj-actions/auto-doc) - Auto generate documentation from actions.yml.

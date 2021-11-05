@@ -531,6 +531,8 @@
 - [XState Python](https://github.com/statelyai/xstate-python)
 - [construct-typing](https://github.com/timrid/construct-typing) - Extension of the python package construct, which is a powerful declarative and symmetrical parser and builder for binary data.
 - [pyembc](https://github.com/waszil/pyembc) - Declarative library for for describing embedded C data types in python.
+- [backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry.
+- [stringparser](https://github.com/hgrecco/stringparser) - Easy to use pattern matching and information extraction for Python.
 
 ## Links
 

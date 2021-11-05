@@ -69,7 +69,7 @@
 - [C++ Lifetime Profile: How It Plans to Make C++ Code Safer (2020)](https://pspdfkit.com/blog/2020/the-cpp-lifetime-profile/)
 - [Improving Compilation Time of C/C++ Projects (2020)](https://interrupt.memfault.com/blog/improving-compilation-times-c-cpp-projects)
 - [C++ revision changes (2020)](https://www.reddit.com/r/cpp/comments/f47x4o/202002_prague_iso_c_committee_trip_report_c20_is/)
-- [SWIG](https://github.com/swig/swig) - Software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
+- [SWIG](https://github.com/swig/swig) - Software development tool that connects programs written in C and C++ with a variety of high-level programming languages. ([Web](http://www.swig.org/))
 - [Move, simply (2020)](https://herbsutter.com/2020/02/17/move-simply/) ([HN](https://news.ycombinator.com/item?id=22349302))
 - [C++ Closure (2020)](https://leimao.github.io/blog/CPP-Closure/)
 - [Where to Get Started Learing C++ and What Resources to Use (2019)](https://shafik.github.io/c++/learning/2019/09/05/getting_started_learning_cpp.html)

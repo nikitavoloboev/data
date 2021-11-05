@@ -88,3 +88,5 @@
 - [lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier.
 - [butcher](https://github.com/tidymodels/butcher) - Reduce the size of model objects saved to disk.
 - [Awesome R package development](https://github.com/IndrajeetPatil/awesome-r-pkgtools)
+- [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `{ggplot2}` plots with statistical analysis.
+- [esquisse](https://github.com/dreamRs/esquisse) - RStudio add-in to make plots interactively with ggplot2.

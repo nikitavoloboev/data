@@ -1,5 +1,9 @@
 # Internationalization
 
+## Notes
+
+- [Made i18n strictly typed and every time I render a string that is not translated yet - typescript shows an error, so I can't forget it.](https://twitter.com/oleg008/status/1456205531153055755)
+
 ## Links
 
 - [i18next](https://github.com/i18next/i18next) - Very popular internationalization framework for browser or any other JavaScript environment.

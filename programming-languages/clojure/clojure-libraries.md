@@ -117,3 +117,4 @@
 - [How-to: Clojure libraries on Maven Central (2021)](https://www.juxt.pro/blog/maven-central)
 - [Antq](https://github.com/liquidz/antq) - Point out your outdated dependencies.
 - [SciCloj](https://scicloj.github.io/) - Community of people creating high-quality open source solutions for data science in Clojure. ([GitHub](https://github.com/scicloj))
+- [deps-modules](https://github.com/exoscale/deps-modules) - Clojure "tool" that attempts to solve one of the "multi module" project problems with tools.deps in a minimalistic way.

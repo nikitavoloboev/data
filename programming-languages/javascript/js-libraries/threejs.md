@@ -49,6 +49,7 @@
 - [three-mesh-ui](https://github.com/felixmariotto/three-mesh-ui) - Make VR user interfaces for Three.js.
 - [ThreeJS Globe Visualization](https://github.com/vasturiano/three-globe)
 - [Three.js Globe Tutorial (2020)](https://www.timcchang.com/posts/threejs-globe)
+- [Github Globe](https://github.com/janarosmonaliev/github-globe) - Globe from Github's homepage implemented in ThreeJS with beautiful shading.
 - [Raymarching shaders](https://github.com/gsimone/r3f-raymarching) - Collection of raymarching experiments using react-three-fiber & family.
 - [Three Material Editor](https://github.com/RenaudRohlinger/three-material-editor) - GLSL editor for Threejs scene.
 - [Recreating Real-World Terrain with React, Three.js and WebGL Shaders (2021)](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1) ([HN](https://news.ycombinator.com/item?id=26239236))
@@ -66,3 +67,4 @@
 - [A technical breakdown of react-three-fiber (2021)](https://codyb.co/articles/a-technical-breakdown-of-react-three-fiber) ([Tweet](https://twitter.com/0xca0a/status/1451599485977731078))
 - [THREE-CSGMesh](https://github.com/manthrax/THREE-CSGMesh) - Conversion of a CSG library for use with modern THREE.js.
 - [three-csg-ts](https://github.com/Jiro-Digital/three-csg-ts) - CSG library for use with THREE.js
+- [THREE.js-PathTracing-Renderer](https://github.com/erichlof/THREE.js-PathTracing-Renderer) - Real-time PathTracing with global illumination and progressive rendering.

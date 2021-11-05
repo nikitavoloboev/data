@@ -119,3 +119,4 @@ Learning to build [startups](startups/startups.md).
 - [trademarks](https://github.com/Denchick/trademarks) - Small service that helps to check if there was already a registered trademark.
 - [Leaving Google (2021)](https://jayconrod.com/posts/122/leaving-google) ([HN](https://news.ycombinator.com/item?id=28965282))
 - [Influence Explorer](https://techinquiry.org/explorer/) - Tool for browsing an integrated stream of multinational procurement, lobbying, and labor relations data feeds. ([Code](https://gitlab.com/tech-inquiry/InfluenceExplorer))
+- [HashiCorp – S1 (2021)](https://www.sec.gov/Archives/edgar/data/1720671/000119312521319849/d205906ds1.htm) ([HN](https://news.ycombinator.com/item?id=29110444))

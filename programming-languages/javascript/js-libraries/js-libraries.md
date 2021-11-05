@@ -643,6 +643,8 @@
 - [std-env](https://github.com/unjs/std-env) - Detect current JavaScript environment.
 - [Nova Text Tools](https://github.com/biati-digital/nova-text-tools) - Swiss Army knife for text manipulation and selection.
 - [Ninja Keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
+- [remoteStorage.js](https://github.com/remotestorage/remotestorage.js) - JavaScript library for storing user data locally in the browser, as well as connecting to remoteStorage servers and syncing data across devices and applications. ([Docs](https://remotestorage.io/))
+- [JS Data Structures](https://github.com/make-github-pseudonymous-again/js-data-structures)
 
 ## Links
 
@@ -669,3 +671,4 @@
 - [stable-hash](https://github.com/shuding/stable-hash) - Stable JS value hash.
 - [npm-registry-fetch](https://github.com/npm/npm-registry-fetch) - Node.js library that implements a fetch-like API for accessing npm registry APIs consistently.
 - [Depp](https://github.com/CryogenicPlanet/depp) - Check your npm modules for unused and duplicate dependencies fast.
+- [Ask HN: How do you (security) audit external software using NPM packages? (2021)](https://news.ycombinator.com/item?id=29078836)

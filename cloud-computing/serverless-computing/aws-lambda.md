@@ -85,3 +85,4 @@
 - [lambroll](https://github.com/fujiwara/lambroll) - Minimal deployment tool for AWS Lambda.
 - [Middy](https://github.com/middyjs/middy) - Simple middleware engine that allows you to simplify your AWS Lambda code when using Node.js.
 - [Klayers](https://github.com/keithrozario/Klayers) - Python Packages as AWS Lambda Layers.
+- [lmdrouter](https://github.com/aquasecurity/lmdrouter) - Go HTTP router library for AWS API Gateway-invoked Lambda Functions.

@@ -96,3 +96,4 @@ Might give it a go sometime.
 - [Emacs Lisp Readable Closures (2013)](https://nullprogram.com/blog/2013/12/30/) ([HN](https://news.ycombinator.com/item?id=28862735))
 - [The Animated Guide to Symex (Emacs Structural Editing with Lisp) (2021)](https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/)
 - [Building an Emacs lisp VM in Rust (2021)](https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/)
+- [Making Emacs Popular Again (2020)](https://lwn.net/Articles/819452/) ([HN](https://news.ycombinator.com/item?id=29105032))

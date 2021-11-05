@@ -384,3 +384,5 @@
 - [Hugging Face on Amazon SageMaker Workshop](https://github.com/philschmid/huggingface-sagemaker-workshop-series)
 - [CS224N: Natural Language Processing with Deep Learning | Winter 2021 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 - [GPT-3 creates geofoam, but out of text (2021)](https://twitter.com/jjvincent/status/1455194365169700864)
+- [Towards Efficient NLP: A Standard Evaluation and A Strong Baseline (2021)](https://arxiv.org/abs/2110.07038) ([Code](https://github.com/fastnlp/ElasticBERT))
+- [Hierarchical Transformers Are More Efficient Language Models (2021)](https://arxiv.org/abs/2110.13711) ([HN](https://news.ycombinator.com/item?id=29112983))

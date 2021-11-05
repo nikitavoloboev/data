@@ -607,3 +607,4 @@
 - [rftrace](https://github.com/tlambertz/rftrace) - Rust Function Tracer.
 - [Test-Driving the Rust Model Checker (RMC) (2021)](https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/)
 - [khaki](https://github.com/staktrace/khaki) - Tool to write rust "scripts" with less boilerplate.
+- [What Memory Model Should the Rust Language Use? (2021)](https://paulmck.livejournal.com/66175.html) ([Reddit](https://www.reddit.com/r/rust/comments/qmi0s5/what_memory_model_should_the_rust_language_use/)) ([HN](https://news.ycombinator.com/item?id=29109156))

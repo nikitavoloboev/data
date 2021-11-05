@@ -184,7 +184,7 @@
 - [auraloss](https://github.com/csteinmetz1/auraloss) - Collection of audio-focused loss functions in PyTorch.
 - [Normalizing flows with PyTorch](https://github.com/acids-ircam/pytorch_flows) - Implementation and tutorials of normalizing flows with the novel distributions module.
 - [PyTorch Lightning Snippets](https://github.com/awaelchli/pytorch-lightning-snippets)
-- [Stylized Neural Painting](https://github.com/jiupinjia/stylized-neural-painting) - In PyTorch.
+- [Stylized Neural Painting (2021)](https://jiupinjia.github.io/neuralpainter/) ([PyTorch Code](https://github.com/jiupinjia/stylized-neural-painting))
 - [PyTorch Tools, Best Practices & Style Guide](https://github.com/IgorSusmelj/pytorch-styleguide)
 - [NeuralProphet](https://github.com/ourownstory/neural_prophet) - Neural Network based Time-Series model, inspired by Facebook Prophet and AR-Net, built on PyTorch.
 - [Pytorch-Lightning Implementation of Self-Supervised algorithms](https://github.com/untitled-ai/self_supervised)

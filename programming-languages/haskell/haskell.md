@@ -332,3 +332,4 @@
 - [Dont Worry Be Happy (2021)](https://blog.cofree.coffee/2021-10-29-dont-worry-be-happy/) ([Lobsters](https://lobste.rs/s/d2f3ze/dont_worry_be_happy))
 - [Best practices on how to be efficient with Haskell in production](https://github.com/wasp-lang/haskell-handbook)
 - [Explanation of eliminating left recursion in Haskell parsers](https://github.com/glebec/left-recursion)
+- [Using Haskell for scientific computing (2021)](https://twitter.com/Electricfire13/status/1455947842690830339)
