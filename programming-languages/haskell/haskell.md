@@ -333,3 +333,4 @@
 - [Best practices on how to be efficient with Haskell in production](https://github.com/wasp-lang/haskell-handbook)
 - [Explanation of eliminating left recursion in Haskell parsers](https://github.com/glebec/left-recursion)
 - [Using Haskell for scientific computing (2021)](https://twitter.com/Electricfire13/status/1455947842690830339)
+- [Why Co–Star Uses Haskell](https://www.costarastrology.com/why-haskell) ([HN](https://news.ycombinator.com/item?id=29119787))

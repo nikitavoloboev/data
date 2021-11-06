@@ -29,7 +29,7 @@
 - [go2ll](https://github.com/pwaller/go2ll) - Toy go compiler to LLVM.
 - [Where does YOUR compiler come from? - Vincent Ambo (2018)](https://www.youtube.com/watch?v=b3r6GvCBbw4)
 - [libFirm](https://github.com/libfirm/libfirm) - Graph based intermediate representation and backend for optimising compilers.
-- [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries. ([HN](https://news.ycombinator.com/item?id=22654229))
+- [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries. ([HN](https://news.ycombinator.com/item?id=22654229)) ([Reddit](https://www.reddit.com/r/rust/comments/qnacdr/facebooks_bolt_nearing_mainline_llvm_for/))
 - [Propeller](https://github.com/google/llvm-propeller) - Profile Guided Optimizing Large Scale LLVM-based Relinker.
 - [Intel(r) SPMD Program Compiler](https://github.com/ispc/ispc) - Compiler for a variant of the C programming language, with extensions for single program, multiple data programming.
 - [hobbes](https://github.com/Morgan-Stanley/hobbes) - Language and an embedded JIT compiler.
@@ -182,3 +182,4 @@
 - [KGT: Kate's Grammar Tool](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams.
 - [Knossos-KSC](https://github.com/microsoft/knossos-ksc) - Compile a lisp-like IR with automatic differentiation and user-defined rewrites.
 - [pyMLIR](https://github.com/spcl/pymlir) - Python Interface for the Multi-Level Intermediate Representation.
+- [An Incremental Approach to Compiler Construction (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf) ([HN](https://news.ycombinator.com/item?id=29123715))

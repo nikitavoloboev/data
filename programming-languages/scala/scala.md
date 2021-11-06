@@ -103,3 +103,4 @@
 - [Petr Zapletal's This week in Scala Newsletter](https://petr-zapletal.medium.com/)
 - [Demystifying Akka Streams' Materialized Values (2021)](http://nivox.github.io/posts/akka-stream-materialized-values/) ([Reddit](https://www.reddit.com/r/scala/comments/qja6m6/demystifying_akka_streams_materialized_values/))
 - [Scala Beyond 3.0 - The Quest for Simplicity - Martin Odersky (2021)](https://www.youtube.com/watch?v=NXTjnowBx-c)
+- [Introduction to Programming with ZIO Functional Effects (2021)](https://scalac.io/blog/introduction-to-programming-with-zio-functional-effects/)

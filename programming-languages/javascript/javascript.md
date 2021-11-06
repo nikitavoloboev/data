@@ -357,3 +357,4 @@ buttons.forEach((b) => b.click());
 - [JavaScript Concrete Syntax Tree](https://github.com/cst/cst)
 - [Fastly Compute@Edge JS Runtime](https://github.com/fastly/js-compute-runtime)
 - [Responsible JavaScript Book](https://responsiblejs.dev/) ([Twitter](https://twitter.com/responsiblejs))
+- [Creating Callable Objects in JavaScript (2019)](https://hackernoon.com/creating-callable-objects-in-javascript-d21l3te1)

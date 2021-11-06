@@ -274,3 +274,4 @@
 - [Next.js 12 React Server Components Demo](https://github.com/vercel/next-rsc-demo)
 - [Next.js Conf 2021 - YouTube](https://www.youtube.com/playlist?list=PLBnKlKpPeagnJYpc5geAHU40ld5hk8i82)
 - [Vercel Examples](https://github.com/vercel/examples)
+- [Next.js - Replace React with Preact (2021)](https://darrenwhite.dev/blog/nextjs-replace-react-with-preact)

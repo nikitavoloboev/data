@@ -139,6 +139,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Flagsmith](https://flagsmith.com/) - Open Source Feature Flag & Remote Config Service. ([Code](https://github.com/Flagsmith/flagsmith)) ([GitHub](https://github.com/Flagsmith))
 - [linus.zone](https://linus.zone/) - URL shortener / note sharing service. ([Code](https://github.com/thesephist/zone))
 - [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools. ([Raycast Script Commands](https://github.com/raycast/script-commands)) ([HN](https://news.ycombinator.com/item?id=24932600)) ([Write Script Commands in Swift to trigger every-day tasks from Raycast](https://raycast.com/blog/automate-your-mac-with-swift/))
+- [Quarchive](https://quarchive.com/) - Traditional "Web 2.0" social bookmarking, with small improvements. ([Code](https://github.com/calpaterson/quarchive))
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
 - [RescueTime](https://www.rescuetime.com/) - App you install on your computer and mobile devices that automatically pays attention to the apps you use. ([HN](https://news.ycombinator.com/item?id=28683597))

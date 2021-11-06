@@ -215,3 +215,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Trojan Source Attacks](https://trojansource.codes/) - Attack the encoding of source code files to inject vulnerabilities. ([HN](https://news.ycombinator.com/item?id=29062982)) ([Code](https://github.com/nickboucher/trojan-source))
 - [Ask HN: Is the ISO 27001 certification worth it? (2021)](https://news.ycombinator.com/item?id=29094889)
 - [CNCF Security Technical Advisory Group](https://github.com/cncf/tag-security) - Secure access, policy control, privacy, auditing, explainability and more.
+- [Klaro](https://heyklaro.com/) - Privacy and security tool for your website. ([Code](https://github.com/kiprotect/klaro)) ([Comment](https://news.ycombinator.com/item?id=29122187))

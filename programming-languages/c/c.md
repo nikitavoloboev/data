@@ -186,3 +186,5 @@
 - [There is no 'printf' (2021)](https://www.netmeister.org/blog/return-printf.html) ([HN](https://news.ycombinator.com/item?id=28931457))
 - [Comparing the c ffi overhead on various programming languages](https://github.com/dyu/ffi-overhead)
 - [55GiB/s FizzBuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz) ([HN](https://news.ycombinator.com/item?id=29031488)) ([Lobsters](https://lobste.rs/s/ploajb/high_throughput_fizz_buzz_31gib_fizz_buzz))
+- [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/) ([HN](https://news.ycombinator.com/item?id=29123678))
+- [cc65](https://github.com/cc65/cc65) - Freeware C compiler for 6502 based systems. ([Docs](https://cc65.github.io/doc/))

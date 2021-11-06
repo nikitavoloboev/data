@@ -14,3 +14,4 @@
 - [FoundationDB: How I Learned to Stop Worrying and Trust the Database (2020)](https://www.youtube.com/watch?v=OJb8A6h9jQQ)
 - [FoundationDB: A Distributed, Unbundled, Transactional Key Value Store](https://www.foundationdb.org/files/fdb-paper.pdf) ([HN](https://news.ycombinator.com/item?id=27424605)) ([Review](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html)) ([HN](https://news.ycombinator.com/item?id=28740497))
 - [FoundationDB NodeJS bindings](https://github.com/josephg/node-foundationdb)
+- [Building an object store with FoundationDB (2018)](https://fabianlindfors.se/blog/building-an-object-store-with-foundation-db/)

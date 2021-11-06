@@ -331,7 +331,7 @@
 - [Database of Databases](https://dbdb.io/) - Discover and learn about database management systems. ([Code](https://github.com/cmu-db/dbdb.io))
 - [DB-Engines](https://db-engines.com/en/) - Knowledge Base of Relational and NoSQL Database Management Systems.
 - [Old, Good Database Design (2020)](https://relinx.io/2020/09/14/old-good-database-design/)
-- [Berkeley: Introduction to Database Systems course (2020)](https://cs186berkeley.net/)
+- [Berkeley: Introduction to Database Systems Course](https://cs186berkeley.net/) ([Tweet](https://twitter.com/andy_pavlo/status/1456630080977969153))
 - [The Datacenter as a Computer](http://bnrg.eecs.berkeley.edu/~randy/Courses/CS294.F09/wharehousesizedcomputers.pdf) - Introduction to the Design of Warehouse-Scale Machines.
 - [Database migrations lessons learned (2020)](https://octopus.com/blog/database-migrations-lessons-learned)
 - [Delos: Simple, flexible control plane storage (2019)](https://engineering.fb.com/data-center-engineering/delos/)

@@ -107,3 +107,5 @@
 - [WhatsApp scaled to 1B users with only 50 engineers](https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion) ([HN](https://news.ycombinator.com/item?id=28985169))
 - [Erlang Forums](https://erlangforums.com/)
 - [Languages, and about languages, on the BEAM](https://github.com/llaisdy/beam_languages)
+- [The Many-to-One Parallel Signal Sending Optimization - Erlang/OTP (2021)](https://www.erlang.org/blog/parallel-signal-sending-optimization/)
+- [Announcing the new erlang.org (2021)](https://www.erlang.org/news/151)

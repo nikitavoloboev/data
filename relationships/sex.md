@@ -77,3 +77,4 @@
 - [What advice have you gotten that has changed your sex life? (2021)](https://www.reddit.com/r/sex/comments/qcnfzn/what_advice_have_you_gotten_that_has_changed_your/)
 - [Hamilton Morris: The Relationship Between Sex and Psychedelics](https://www.youtube.com/watch?v=MQA81YwYI0c)
 - [What is the biggest reason people are having so little sex?](https://twitter.com/willlowthewhisp/status/1453423456268296194)
+- [Ringing The Devil’s Doorbell: A Light-Hearted, Practical Guide (2021)](https://johannestevans.medium.com/ringing-the-devils-doorbell-a-light-hearted-practical-guide-82dca6e9a576)

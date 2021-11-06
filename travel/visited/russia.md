@@ -12,7 +12,7 @@ Overthrowing [oppressive regimes](https://www.youtube.com/watch?v=WGYYI1zhp2Y) s
 
 The people in charge [lack any kind of ethics](https://twitter.com/teamnavalny/status/1356712217387937796) and [will go to any lengths to stop the protests](https://twitter.com/pevchikh/status/1356701669271105537) including [killing/jailing everyone involved](https://www.youtube.com/watch?v=TW5GmgCOTHE). The police should grow conscience and [stop committing further crimes on behalf of the government](https://twitter.com/egor_mq/status/1355873294126346240). For police that understand they are supporting an oppressive regime but have families and can't afford to lose jobs, financial support should be provided.
 
-It would be great if all countries cut ties with these oppressive regimes and go beyond just sanctions.
+It would be great if all countries cut ties with these [oppressive regimes](https://www.youtube.com/watch?v=AWUsaUcd0I8&t=1s) and go beyond just sanctions.
 
 Alexey Navalny says: [It is impossible to jail millions and hundreds of thousands, and I very much hope that people will become more and more aware of this, and when they realize this, such a moment will come, you will not jail the whole country.](https://twitter.com/teamnavalny_mos/status/1356594998603616256)
 
@@ -324,4 +324,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Yes, It Was An 'Evil Empire' (2021)](https://reason.com/2021/11/01/yes-it-was-an-evil-empire/)
 - [The Stunning Grandeur of Soviet-Era Metros (2021)](https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html)
 - [Герой своего романа](https://iamhero.special.ink/)
-- [Пытки для Навального: кем его окружили в колонии, как компрометируют и ломают (2021)](https://tvrain.ru/news/byvshie_zakljuchennye_pokrovskoj_kolonii_rasskazali_ob_izdevatelstvah_nad_navalnym-541267/) ([Tweet](https://twitter.com/Kira_Yarmysh/status/1456170822410899458)) ([Tweet](https://twitter.com/team_milov/status/1456205700296847361))
+- [Пытки для Навального: кем его окружили в колонии, как компрометируют и ломают (2021)](https://www.youtube.com/watch?v=AWUsaUcd0I8&t=1s) ([Tweet](https://twitter.com/Kira_Yarmysh/status/1456170822410899458)) ([Tweet](https://twitter.com/team_milov/status/1456205700296847361)) ([Transcript](https://tvrain.ru/news/byvshie_zakljuchennye_pokrovskoj_kolonii_rasskazali_ob_izdevatelstvah_nad_navalnym-541267/))

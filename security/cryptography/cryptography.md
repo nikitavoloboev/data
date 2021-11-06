@@ -139,3 +139,4 @@
 - [Cracking Random Number Generators Using Machine Learning (2021)](https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/) ([HN](https://news.ycombinator.com/item?id=28886698))
 - [A Graduate Course in Applied Cryptography (2020)](https://toc.cryptobook.us/book.pdf) ([HN](https://news.ycombinator.com/item?id=28918554))
 - [HACL\*](https://github.com/project-everest/hacl-star) - Formally verified cryptographic library written in F\*.
+- [Threema: Three Strikes, You’re Out (2021)](https://soatok.blog/2021/11/05/threema-three-strikes-youre-out/) ([Lobsters](https://lobste.rs/s/fxrzbw/threema_three_strikes_you_re_out))

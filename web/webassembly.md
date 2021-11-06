@@ -207,3 +207,4 @@
 - [witx-bindgen](https://github.com/bytecodealliance/witx-bindgen) - Bindings generator framework for WebAssembly programs and embeddings of WebAssembly.
 - [Pikt.js](https://github.com/arnau/piktjs) - WebAssembly JavaScript library for Pikchr.
 - [Multi Memory Proposal for WebAssembly](https://github.com/WebAssembly/multi-memory)
+- [Wasp](https://github.com/pannous/wasp) - WASM Programming Language. ([HN](https://news.ycombinator.com/item?id=29117478))

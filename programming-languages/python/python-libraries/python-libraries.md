@@ -143,6 +143,7 @@
 - [Flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python.
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - Cross-platform GUI automation Python module for human beings.
 - [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) - Create Beautiful Tkinter GUIs by Drag and Drop.
+- [Textual](https://github.com/willmcgugan/textual) - TUI (Text User Interface) framework for Python inspired by modern web development.
 
 ## Graphics
 
@@ -533,6 +534,9 @@
 - [pyembc](https://github.com/waszil/pyembc) - Declarative library for for describing embedded C data types in python.
 - [backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry.
 - [stringparser](https://github.com/hgrecco/stringparser) - Easy to use pattern matching and information extraction for Python.
+- [pickle](https://docs.python.org/3/library/pickle.html) - Python object serialization.
+- [zlib](https://docs.python.org/3/library/zlib.html) - Compression compatible with gzip.
+- [Pyappcache](https://github.com/calpaterson/pyappcache) - Library for application-level caching.
 
 ## Links
 

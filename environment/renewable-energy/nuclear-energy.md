@@ -41,3 +41,4 @@
 - [Europe categorize nuclear power as sustainable (2021)](https://twitter.com/balajis/status/1449439525495709696)
 - [How Chernobyl has become an unexpected haven for wildlife (2020)](https://www.unep.org/news-and-stories/story/how-chernobyl-has-become-unexpected-haven-wildlife)
 - [Global Power Plant Database](https://github.com/wri/global-power-plant-database)
+- [Helion](https://www.helionenergy.com/) - Building the world’s first fusion power plant, enabling a future with unlimited clean electricity. ([HN](https://news.ycombinator.com/item?id=29119180))

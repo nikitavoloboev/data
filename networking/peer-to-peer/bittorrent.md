@@ -67,3 +67,4 @@
 - [XD](https://github.com/majestrate/XD) - BitTorrent Client written in Go.
 - [dht](https://github.com/anacrolix/dht) - Used by anacrolix/torrent, and is intended for use as a library in other projects both torrent related and otherwise.
 - [Transmission Swift](https://github.com/jameshurst/Transmission-Swift) - Combine powered Transmission RPC API client.
+- [The High Seas](https://github.com/calpaterson/thehighseas) - Very straightforward BitTorrent tracker.

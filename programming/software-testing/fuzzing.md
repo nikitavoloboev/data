@@ -58,3 +58,4 @@
 - [gramfuzz](https://github.com/d0c-s4vage/gramfuzz) - Grammar-based fuzzer that lets one define complex grammars to model text and binary data formats.
 - [GOFUZZ](https://github.com/souvikinator/gofuzz) - Fast web fuzzer which takes in URL as input and test the URL for different set of inputs provided by the user.
 - [The Challenges of Fuzzing 5G Protocols (2021)](https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols/) ([Lobsters](https://lobste.rs/s/nro2ty/challenges_fuzzing_5g_protocols))
+- [Nyx-Net: Network Fuzzing with Incremental Snapshots (2021)](https://arxiv.org/abs/2111.03013)

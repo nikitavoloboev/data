@@ -28,6 +28,7 @@
 - [Operational UI Components](https://github.com/contiamo/operational-ui) - Contains simple, stateless UI building blocks - your typical input fields, buttons, cards, grids, and so on.
 - [react-ui](https://github.com/siddharthkp/react-ui) - Customisable components and primitives based on design tokens.
 - [Spectrum](https://spectrum.adobe.com/) - Adobe’s design system. ([Code](https://github.com/adobe/spectrum-css)) ([Version 3](https://github.com/adobe-private/react-spectrum-v3)) ([HN](https://news.ycombinator.com/item?id=23919509)) ([React Spectrum Libraries](https://react-spectrum.adobe.com/)) ([Docs](https://react-spectrum.adobe.com/react-aria/getting-started.html))
+- [React Aria](https://react-spectrum.adobe.com/react-aria/) - Library of React Hooks that provides accessible UI primitives for your design system. ([HN](https://news.ycombinator.com/item?id=29116450))
 - [Stacks](https://stackoverflow.design/) - Stack Overflow’s Design System. ([Code](https://github.com/StackExchange/Stacks))
 - [Elastic UI framework](https://elastic.github.io/eui/#/) - Design library in use at Elastic to build internal products. ([Code](https://github.com/elastic/eui))
 - [gov.uk](https://design-system.service.gov.uk/) - Design your service using GOV.UK styles, components and patterns.

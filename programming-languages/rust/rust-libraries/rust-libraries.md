@@ -1087,6 +1087,7 @@
 - [sallyport](https://github.com/enarx/sallyport) - API for the hypervisor-microkernel boundary.
 - [Threadfin](https://github.com/sagebind/threadfin) - Thread pool for running multiple tasks on a configurable group of threads.
 - [eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust.
+- [Foca](https://github.com/caio/foca) - Gossip-based cluster membership discovery (SWIM).
 
 ## Cargo Plugins
 

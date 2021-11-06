@@ -28,3 +28,4 @@
 - [What I wish I knew when learning F# (2020)](https://danielbachler.de/2020/12/23/what-i-wish-i-knew-when-learning-fsharp.html) ([HN](https://news.ycombinator.com/item?id=28863205))
 - [milone-lang](https://github.com/vain0x/milone-lang) - Self-hosting F#-subset compiler.
 - [Narratives and Lessons from The Early History of F# (2021)](https://www.youtube.com/watch?v=ynIe8Q7kMSg)
+- [WebFrame](https://github.com/RussBaz/WebFrame) - F# framework for rapid prototyping with ASP.NET Core. ([HN](https://news.ycombinator.com/item?id=29121612))

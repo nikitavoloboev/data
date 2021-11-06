@@ -297,6 +297,7 @@
 
 ## ML
 
+- [go-deep](https://github.com/patrikeh/go-deep) - Feed forward/backpropagation neural network implementation.
 - [gobrain](https://github.com/goml/gobrain) - Neural Networks written in go.
 - [wann](https://github.com/xyproto/wann) - Weight Agnostic Neural Networks in Go.
 - [spaGO](https://github.com/nlpodyssey/spago) - Supports relevant neural network architectures in natural language processing tasks.
@@ -1033,6 +1034,8 @@
 - [weightedrand](https://github.com/mroth/weightedrand) - Fast weighted random selection for Go.
 - [zlog](https://github.com/m-mizutani/zlog) - Secure logger in Go to avoid output sensitive data in log.
 - [periph](https://github.com/periph/cmd) - Peripherals I/O in Go.
+- [T-Digest](https://github.com/caio/go-tdigest) - Fast map-reduce and parallel streaming friendly data-structure for accurate quantile approximation.
+- [go-topics](https://github.com/patrikeh/go-topics) - Latent Dirichlet Allocation.
 
 ## Links
 
@@ -1061,3 +1064,4 @@
 - [Dr-Docso](https://github.com/DiscordGophers/dr-docso) - Go documentation bot for Discord.
 - [Exploring Go net/http Package - On How Not To Set Socket Options (2021)](https://iximiuz.com/en/posts/go-net-http-setsockopt-example/)
 - [Cap'n Proto bindings for Go](https://github.com/capnproto/go-capnproto2)
+- [Go net/http.ServeMux and Trailing Slashes (2021)](https://christine.website/blog/go-servemux-slash-2021-11-04) ([Lobsters](https://lobste.rs/s/iym5pi/go_net_http_servemux_trailing_slashes))

@@ -148,3 +148,4 @@
 - [Hunting Newly Registered Domains](https://github.com/gfek/Hunting-New-Registered-Domains)
 - [q](https://github.com/natesales/q) - Tiny command line DNS client with support for UDP, DoT, DoH, DoQ, and ODoH.
 - [PacketFrame](https://github.com/packetframe/cdn) - Open Source CDN for authoritative DNS and HTTP caching. ([Web](https://packetframe.com/))
+- [How do you tell if a problem is caused by DNS? (2021)](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/) ([Lobsters](https://lobste.rs/s/qtsklv/how_do_you_tell_if_problem_is_caused_by_dns))

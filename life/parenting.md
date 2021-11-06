@@ -55,3 +55,4 @@
 - [The main thing with kids is to keep them alive (2021)](https://freddiedeboer.substack.com/p/short-week-the-main-thing-with-kids) ([HN](https://news.ycombinator.com/item?id=29001414))
 - [What was a book you read after having kids that meant a LOT to you (2021)](https://twitter.com/DanielleMorrill/status/1456017558419746822)
 - [The Present Parent Handbook: 26 Simple Tools to Discover that This Moment, This Action, This Thought, This Feeling Is Exactly Why I Am Here](https://www.goodreads.com/book/show/34065333-the-present-parent-handbook)
+- [Simple, private tool to help pick a baby name](https://nomdebebe.app/) ([HN](https://news.ycombinator.com/item?id=29118785))

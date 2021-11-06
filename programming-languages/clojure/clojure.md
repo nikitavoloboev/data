@@ -166,3 +166,4 @@
 - [Clojure - Differences with other Lisps](https://clojure.org/reference/lisps) ([HN](https://news.ycombinator.com/item?id=29064942))
 - [Clerk](https://github.com/nextjournal/clerk) - Local-First Notebooks for Clojure. ([HN](https://news.ycombinator.com/item?id=29107392))
 - [Functional Composition - Chris Ford (2013)](https://www.youtube.com/watch?v=Mfsnlbd-4xQ)
+- [Efficient Recursive Levenshtein (Edit) Distance Algorithm](https://www.occasionalenthusiast.com/efficient-recursive-levenshtein-edit-distance-algorithm/) ([Lobsters](https://lobste.rs/s/ubi3eh/efficient_recursive_levenshtein_edit))

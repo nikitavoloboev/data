@@ -58,3 +58,4 @@
 - [SuperMalloc](https://github.com/kuszmaul/SuperMalloc) - Super Fast Multithreaded malloc() for 64-bit Machines.
 - [Mimalloc](https://github.com/microsoft/mimalloc) - Compact general purpose allocator with excellent performance.
 - [Mimalloc: Free List Sharding in Action (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf) ([Lobsters](https://lobste.rs/s/4awecj/mimalloc_free_list_sharding_action))
+- [Garbage collection algorithms](https://twitter.com/pcwalton/status/1456518483315810308)
