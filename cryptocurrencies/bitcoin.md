@@ -167,3 +167,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [BDK](https://github.com/bitcoindevkit/bdk) - Modern, lightweight, descriptor-based wallet library written in Rust.
 - [Bitcoin and the U.S. Fiscal Reckoning (2021)](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning) ([HN](https://news.ycombinator.com/item?id=28896379))
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - JavaScript Bitcoin library for node.js and browsers.
+- [Sapio](https://github.com/sapio-lang/sapio) - Framework for creating composable multi-transaction Bitcoin Smart Contracts.

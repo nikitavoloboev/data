@@ -178,6 +178,8 @@
 - [structure-kit](https://github.com/nikita-volkov/structure-kit) - Immutable data structures for all kinds of purposes.
 - [Casimir](https://github.com/maybevoid/casimir) - Algebraic Effects in Haskell using Implicit Parameters.
 - [lifted-async](https://github.com/maoe/lifted-async) - Run lifted IO operations asynchronously and wait for their results.
+- [Autodocodec](https://github.com/NorfairKing/autodocodec) - Self(auto)- documenting encoder and decoder.
+- [Vinyl](https://github.com/VinylRecords/Vinyl) - Extensible Records for Haskell.
 
 ## Links
 

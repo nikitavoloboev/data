@@ -180,6 +180,7 @@
 - [fast-sort](https://github.com/snovakovic/fast-sort) - Blazing fast array sorting with TypeScript support.
 - [NativeScript plugins](https://github.com/NativeScript/plugins)
 - [Trie](https://github.com/shortwave/trie) - Fast trie implementation for TypeScript.
+- [Effect-TS](https://github.com/Effect-TS/query) - Efficient pipelining, batching, and caching to any data source (port of zio-query).
 
 ## Links
 

@@ -221,6 +221,10 @@
 
 - [go-sonic](https://github.com/expectedsh/go-sonic) - Sonic driver written in Go.
 
+## Auth
+
+- [go-srp](https://github.com/opencoff/go-srp) - SRP-6a implementation in Go.
+
 ## DB
 
 - [BuntDB](https://github.com/tidwall/buntdb) - Embeddable, in-memory key/value database for Go with custom indexing and geospatial support.

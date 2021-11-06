@@ -295,3 +295,5 @@ Awesome List
 - [repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate.
 - [Top GitHub Users By Country](https://github.com/gayanvoice/top-github-users)
 - [Stacked Pull Requests on GitHub](https://github.com/ejoffe/spr)
+- [How to add your dotfiles to GitHub Codespaces (2021)](https://dev.to/burkeholland/how-to-add-your-dotfiles-to-github-codespaces-23gm)
+- [Snitch](https://github.com/tsoding/snitch) - Tool that collects TODOs in the source code and reports them as GitHub issues.

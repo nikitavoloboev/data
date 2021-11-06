@@ -1088,6 +1088,8 @@
 - [Threadfin](https://github.com/sagebind/threadfin) - Thread pool for running multiple tasks on a configurable group of threads.
 - [eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust.
 - [Foca](https://github.com/caio/foca) - Gossip-based cluster membership discovery (SWIM).
+- [CloudEvents SDK Rust](https://github.com/cloudevents/sdk-rust)
+- [rust-cached-path](https://github.com/epwalsh/rust-cached-path) - Rust utility for accessing both local and remote files through a unified interface.
 
 ## Cargo Plugins
 

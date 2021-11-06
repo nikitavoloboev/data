@@ -208,3 +208,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Faster Mac Dev Tools with Custom Allocators (2021)](https://eisel.me/devtool-allocators) ([HN](https://news.ycombinator.com/item?id=29068828))
 - [perfrecord](https://github.com/mstange/perfrecord) - macOS-only command line CPU profiler that displays the result in the Firefox profiler.
 - [vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
+- [diskspace](https://github.com/scriptingosx/diskspace) - macOS command line tool to return the available disk space on APFS volumes.

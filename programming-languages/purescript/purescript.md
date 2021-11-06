@@ -8,7 +8,8 @@
 - [Asynchronous PureScript (2019)](https://blog.drewolson.org/asynchronous-purescript)
 - [Halogen](https://github.com/purescript-halogen/purescript-halogen) - Declarative, type-safe UI library for PureScript.
 - [Real World Halogen](https://github.com/thomashoneyman/purescript-halogen-realworld) - Exemplary real world application built with PureScript + Halogen. ([Web](https://thomashoneyman.com/guides/real-world-halogen/))
-- [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
+- [spago](https://github.com/purescript/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
+- [Spago2Nix](https://github.com/justinwoo/spago2nix) - Generate a derivation of Spago dependencies, and use them to install them into the directory structure used by Spago.
 - [PUX](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
 - [Functional Programming for the Web: PureScript Foreign Import and DOM Events (2020)](https://medium.com/@KevinBGreene/functional-programming-for-the-web-purescript-foreign-import-and-dom-events-8c76f6f5a16e)
 - [purescript-selda](https://github.com/Kamirus/purescript-selda) - Type-safe, high-level SQL library for PureScript.
@@ -35,3 +36,4 @@
 - [PureScript Docs](https://github.com/purescript/documentation)
 - [PureNix](https://github.com/purenix-org/purenix) - Nix backend for PureScript. Transpile PureScript code to Nix.
 - [Dovetail](https://github.com/paf31/dovetail) - General-purpose PureScript interpreter written in Haskell.
+- [HTTPure](https://github.com/cprussin/purescript-httpure) - Web framework written in PureScript.

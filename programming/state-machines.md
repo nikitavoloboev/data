@@ -25,3 +25,4 @@
 - [Stately Office Hours September (2021)](https://www.youtube.com/watch?v=RbF5EkkA9ss)
 - [XState: the Visual Future of State Management (2021)](https://www.youtube.com/watch?v=4Mue0Qr_apE)
 - [Build Better Apps With State Machines (with David Khourshid) (2021)](https://www.youtube.com/watch?v=onEGFGNHEV0)
+- [Ragel State Machine Compiler](https://github.com/adrian-thurston/ragel)

@@ -266,3 +266,4 @@
 - [JORLDY](https://github.com/kakaoenterprise/JORLDY) - Open Source Reinforcement Learning Framework.
 - [sinergym](https://github.com/jajimer/sinergym) - Gym environment for building simulation and control using reinforcement learning.
 - [MetaDrive](https://github.com/decisionforce/metadrive) - Composing Diverse Driving Scenarios for Generalizable RL.
+- [Crafter](https://github.com/danijar/crafter) - Benchmarking the Spectrum of Agent Capabilities.

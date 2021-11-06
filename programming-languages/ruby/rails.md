@@ -91,3 +91,5 @@
 - [Ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails.
 - [A Love Letter to Ruby and Rails (2021)](https://jmarchello.com/a-love-letter-to-ruby-and-rails) ([HN](https://news.ycombinator.com/item?id=28996172))
 - [AnyCable](https://anycable.io/) - Build lightning fast, reliable real-time applications with Ruby and Rails. ([GitHub](https://github.com/anycable)) ([Code](https://github.com/anycable/anycable))
+- [Esbuild Rails plugin](https://github.com/excid3/esbuild-rails)
+- [Example Rails + Docker app](https://github.com/nickjj/docker-rails-example)

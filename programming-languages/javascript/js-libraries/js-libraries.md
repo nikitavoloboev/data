@@ -95,6 +95,7 @@
 - [StrykerJS](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends. ([Web](https://stryker-mutator.io/))
 - [xv](https://github.com/typicode/xv) - Simple, fast and small test runner.
 - [Peeky](https://github.com/Akryum/peeky) - Test framework for the curious minds. ([Web](https://peeky.netlify.app/))
+- [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js.
 
 ## State management
 

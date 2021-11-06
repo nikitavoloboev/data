@@ -125,6 +125,7 @@
 - [Conventional Release Labels](https://github.com/bcoe/conventional-release-labels) - Apply labels for automatically generated release notes, based on conventionalcommits.org.
 - [Changesets Release Action](https://github.com/changesets/action) - Creates a pull request with all of the package versions updated and changelogs updated.
 - [action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - Github Action that ensures that your PR title matches the Conventional Commits spec.
+- [Metadata Action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker.
 
 ## Go
 

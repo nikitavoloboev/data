@@ -599,3 +599,4 @@ if err != nil {
 - [Uber Go Rules](https://github.com/quasilyte/uber-rules) - Set of ruleguard rules that try to cover some parts of the Uber Go Style Guide.
 - [Visualize a hierarchy of embedded Go structs](https://github.com/davidschlachter/embedded-struct-visualizer)
 - [Go 1.18 summary](https://twitter.com/mvdan_/status/1456947756925399040)
+- [goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) - Interactive tool to analyze Go goroutine dump.
