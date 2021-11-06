@@ -108,3 +108,5 @@
 - [Tailwind class madness. Never again. (2021)](https://itnext.io/tailwind-class-madness-never-again-75ec6ebfd3a0)
 - [Discord-Inspired Dashboard with Tailwind CSS](https://github.com/fireship-io/tailwind-dashboard)
 - [Goodbye CSS Modules, Hello TailwindCSS](https://www.polytomic.com/blog-posts/goodbye-css-modules-hello-tailwindcss) ([HN](https://news.ycombinator.com/item?id=29109881))
+- [artis3n.tailscale](https://github.com/artis3n/ansible-role-tailscale) - Ansible role to install and enable a Tailscale node.
+- [Create a Responsive Navbar using React and Tailwind (2021)](https://dev.to/franciscomendes10866/create-a-responsive-navbar-using-react-and-tailwind-3768)

@@ -28,7 +28,8 @@
 - [Extracting Structured Data from Templatic Documents (2020)](https://ai.googleblog.com/2020/06/extracting-structured-data-from.html) ([HN](https://news.ycombinator.com/item?id=23502131))
 - [Knowledge Search](http://knowledgesearch.us/) - Graph-based knowledge search engine powered by Wikipedia. ([Code](https://github.com/marksibrahim/knowledge_search))
 - [Low-Dimensional Hyperbolic Knowledge Graph Embeddings (ACL 2020)](https://www.youtube.com/watch?v=Yf03-CBYKe4)
-- [Underlay](https://www.underlay.org/) - Free and open source system for structuring, storing, and aggregating open, distributed graph data. Its goal is to make machine-readable public knowledge accessible to all as a public good. ([Lobsters](https://lobste.rs/s/toc0px/underlay_world_s_distributed_knowledge))
+- [Underlay](https://www.underlay.org/) - Free and open source system for structuring, storing, and aggregating open, distributed graph data. Its goal is to make machine-readable public knowledge accessible to all as a public good. ([Lobsters](https://lobste.rs/s/toc0px/underlay_world_s_distributed_knowledge)) ([GitHub](https://github.com/underlay))
+- [ARC Protocol](https://github.com/underlay/arc-protocol) - Describes assertions, reduction, and collections for the Underlay.
 - [Knowledge Futures Group](https://www.knowledgefutures.org/) - Builds technology for the production, curation, and preservation of knowledge in service of the public good.
 - [w2g](https://github.com/w2g/w2g) - World Wide Graph: A memex for semantic notetaking. ([Web](https://graph.global/?id=))
 - [Khan Academy knowledge map editor tool](https://github.com/beneater/kmap-editor)
@@ -90,3 +91,4 @@
 - [RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space (2019)](https://openreview.net/forum?id=HkgEQnRqYQ) ([Code](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding))
 - [Creating Knowledge Graphs Subsets using Shape Expressions (2021)](https://arxiv.org/abs/2110.11709) ([Tweet](https://twitter.com/andrawaag/status/1452933423148978180))
 - [Wikimedia Enterprise](https://enterprise.wikimedia.com/) - Modern REST APIs for Wikimedia Projects. ([Article](https://wikimediafoundation.org/news/2021/10/25/wikimedia-foundation-launches-wikimedia-enterprise-the-new-opt-in-product-for-companies-and-organizations-to-easily-reuse-content-from-wikipedia-and-wikimedia-projects/)) ([HN](https://news.ycombinator.com/item?id=29014523))
+- [Geometric Graphs](https://github.com/cthoyt/geometric-graphs) - Generate knowledge graphs with interesting geometries, like lattices.

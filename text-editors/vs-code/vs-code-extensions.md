@@ -49,6 +49,7 @@ Below is a list of extensions I use.
 
 - [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
 - [Macros](https://marketplace.visualstudio.com/items?itemName=EXCEEDSYSTEM.vscode-macros) - Add a simple JavaScript macro features to your VSCode. ([Code](https://github.com/exceedsystem/vscode-macros))
+- [Simple REST Client](https://github.com/HoangNguyen17193/vscode-simple-rest-client) - Easy to examine your API’s responses directly within Visual Studio Code. Send requests to verify your API.
 - [Postcode](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode) - API client to test and create HTTP/s requests. ([Code](https://github.com/rohinivsenthil/postcode))
 - [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) - Run your tests in the Sidebar. ([Code](https://github.com/hbenl/vscode-test-explorer))
 - [Anycode](https://github.com/microsoft/vscode-anycode) - Tree-sitter-based language extension.

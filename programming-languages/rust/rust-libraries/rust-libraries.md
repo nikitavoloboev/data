@@ -1184,3 +1184,4 @@
 - [Rust Bindings Working Group](https://github.com/vfx-rs/organization) - Dedicated to creating a foundation for C and Rust bindings for C++ libraries used by the media and entertainment industry.
 - [A 2021 Survey of Rust GUI Libraries](https://www.boringcactus.com/2021/10/24/2021-survey-of-rust-gui-libraries.html) ([Lobsters](https://lobste.rs/s/hmvrcj/2021_survey_rust_gui_libraries))
 - [import-cargo](https://github.com/edolstra/import-cargo) - Function for fetching the crates listed in a Cargo lock file.
+- [rust-crates-index](https://github.com/frewsxcv/rust-crates-index) - Rust library for retrieving and interacting with the crates.io index.

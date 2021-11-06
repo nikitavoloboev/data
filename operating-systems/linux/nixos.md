@@ -162,3 +162,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Flying Circus NixOS Platform](https://github.com/flyingcircusio/fc-nixos)
 - [Low-footprint NixOS images](https://github.com/lourkeur/miniguest)
 - [nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS.
+- [extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds.

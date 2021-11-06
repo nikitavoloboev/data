@@ -490,3 +490,4 @@
 - [kVDI](https://github.com/kvdi/kvdi) - Virtual Desktop Infrastructure running on Kubernetes.
 - [kubectl-select](https://github.com/n3wscott/kubectl-select) - kubectl extension to select from local config.
 - [Operator Lifecycle Manager](https://github.com/operator-framework/operator-lifecycle-manager) - Management framework for extending Kubernetes with Operators.
+- [k](https://github.com/rothgar/k) - Experimental wrapper for kubectl.

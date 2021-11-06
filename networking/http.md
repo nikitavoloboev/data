@@ -160,3 +160,4 @@
 - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests.
 - [HTTP Server Online](https://github.com/EtherDream/http-server-online) - Start a local HTTP server without any tools, just open a web page. ([HN](https://news.ycombinator.com/item?id=29047269))
 - [Timing With Curl (2010)](https://susam.in/maze/timing-with-curl.html) - Command I use often while measuring why an HTTP request is taking too long.
+- [duma](https://github.com/mattgathu/duma) - Minimal file downloader written in Rust.

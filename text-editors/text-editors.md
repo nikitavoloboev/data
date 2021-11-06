@@ -23,7 +23,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [RichEditorView](https://github.com/YoomamaFTW/RichEditorView) - Rich Text Editor in Swift.
 - [lite](https://github.com/rxi/lite) - Lightweight text editor written in Lua. ([Plugins](https://github.com/rxi/lite-plugins)) ([Implementation Overview](https://rxi.github.io/lite_an_implementation_overview.html)) ([Cached Software Rendering](https://rxi.github.io/cached_software_rendering.html))
 - [Blockly](https://github.com/google/blockly) - Web-based, visual programming editor.
-- [Micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor. ([HN](https://news.ycombinator.com/item?id=23334190))
+- [Micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor. ([HN](https://news.ycombinator.com/item?id=23334190)) ([Web](https://micro-editor.github.io/)) ([HN](https://news.ycombinator.com/item?id=29128702))
 - [Lime Text](https://github.com/limetext/lime) - Powerful and elegant text editor primarily developed in Go.
 - [Geany](https://www.geany.org/) - Fast and lightweight IDE. ([Code](https://github.com/geany/geany)) ([HN](https://news.ycombinator.com/item?id=23524336))
 - [Xi Editor](https://github.com/xi-editor/xi-editor) - Modern editor with a backend written in Rust. ([Web](https://xi-editor.io/)) ([Lobsters](https://lobste.rs/s/zkupa1/xi_editor))

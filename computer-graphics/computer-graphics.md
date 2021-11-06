@@ -192,4 +192,4 @@
 - [Raya and the Last Dragon (2021)](https://blog.yiningkarlli.com/2021/03/raya-and-the-last-dragon.html)
 - [Shipshape RenderMan Art Challenge (2020)](https://blog.yiningkarlli.com/2020/07/shipshape-renderman-challenge.html)
 - [Can Data Die? Tracking the Lenna Image (2021)](https://pudding.cool/2021/10/lenna/)
-- [Curves and Surfaces (2021)](https://ciechanow.ski/curves-and-surfaces/) ([HN](https://news.ycombinator.com/item?id=29083349))
+- [Curves and Surfaces (2021)](https://ciechanow.ski/curves-and-surfaces/) ([HN](https://news.ycombinator.com/item?id=29083349)) ([Tweet](https://twitter.com/BCiechanowski/status/1455569586653302785))

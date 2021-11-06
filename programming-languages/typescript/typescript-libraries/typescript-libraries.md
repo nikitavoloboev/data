@@ -200,3 +200,4 @@
 - [TypeScript Module Loader](https://github.com/lukeed/tsm)
 - [bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for JavaScript/TypeScript/JSX library. ([Article](https://huozhi.im/post/create-a-zero-config-bundler))
 - [Generate readme from TypeScript](https://github.com/LinusU/ts-readme-generator) - Generate API documentation straight into the readme file from TypeScript typings.
+- [TSDX Monorepo Example/Playground](https://github.com/jaredpalmer/tsdx-monorepo)

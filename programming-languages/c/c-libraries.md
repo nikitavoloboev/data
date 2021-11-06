@@ -40,6 +40,10 @@
 
 - [IOWOW](https://github.com/Softmotions/iowow) - C11 persistent key/value storage based on skip list data structure. ([Web](https://iowow.io/))
 
+## Math
+
+- [Calcium](https://github.com/fredrik-johansson/calcium) - Exact real and complex numbers in C.
+
 ## Other
 
 - [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc implementation that emphasizes fragmentation avoidance and scalable concurrency support.

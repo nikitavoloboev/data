@@ -804,6 +804,8 @@
 - [Swift Distributed Actors](https://github.com/apple/swift-distributed-actors/) - Peer-to-peer cluster implementation for Swift Distributed Actors. ([Article](https://swift.org/blog/distributed-actors/)) ([HN](https://news.ycombinator.com/item?id=29034188))
 - [Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread.
 - [StyledTextKit](https://github.com/GitHawkApp/StyledTextKit) - Declarative building and fast rendering attributed string library.
+- [Clangler](https://github.com/daltonclaybrook/Clangler) - Swift package for parsing Clang module map files.
+- [Swimi](https://github.com/kainosk/Swimi) - MIDI/SMF parser written in Swift.
 
 ## Other (not lib)
 

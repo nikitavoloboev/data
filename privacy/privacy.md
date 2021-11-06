@@ -83,7 +83,7 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Tim Cook keynote on privacy from the CPCD conference (2021)](https://www.youtube.com/watch?v=wmHL7xe1JIY) ([Transcript](https://www.inc.com/justin-bariso/tim-cook-may-have-just-ended-facebook.html))
 - [What Do You Actually Agree To When You Accept All Cookies (2021)](https://www.conradakunga.com/blog/what-do-you-actually-agree-to-when-you-accept-all-cookies/) ([Lobsters](https://lobste.rs/s/f3jncp/what_do_you_actually_agree_when_you_accept))
 - [How Corporations Harvest Data](https://dkzlv.com/en/how-they-harvest-data/) ([HN](https://news.ycombinator.com/item?id=26153055))
-- [Zero Data App](https://0data.app/) - Curated collection of five best-in-class libraries/frameworks that enable building SPA apps with user controlled data. ([HN](https://news.ycombinator.com/item?id=26365835))
+- [Zero Data App](https://0data.app/) - Curated collection of five best-in-class libraries/frameworks that enable building SPA apps with user controlled data. ([HN](https://news.ycombinator.com/item?id=26365835)) ([Awesome](https://github.com/0dataapp/awesome-0data))
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
 - [Blacklight](https://themarkup.org/blacklight) - Real-Time Website Privacy Inspector.
 - [Data Leverage Roundup](https://github.com/nickmvincent/DataLeverageRoundup)

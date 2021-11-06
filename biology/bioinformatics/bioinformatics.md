@@ -169,3 +169,4 @@
 - [BioNix](https://github.com/PapenfussLab/bionix) - Functional highly reproducible bioinformatics pipelines.
 - [Awesome Bioinformatics Formats](https://github.com/kmhernan/awesome-bioinformatics-formats)
 - [BioShape Lab](https://bioshape.ece.ucsb.edu/)
+- [Bioinformatics repository with more and newer packages](https://github.com/BioArchLinux/Packages)

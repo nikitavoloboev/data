@@ -126,6 +126,7 @@
 - [use-callback-ref](https://github.com/theKashey/use-callback-ref) - Same useRef, but it will callback.
 - [use-reducer-async](https://github.com/dai-shi/use-reducer-async) - React useReducer with async actions.
 - [axios-hooks](https://github.com/simoneb/axios-hooks) - React hooks for axios, with built-in support for server side rendering.
+- [React Cool Portal](https://github.com/wellyshen/react-cool-portal) - React hook for Portals, which renders modals, dropdowns, tooltips etc. to <body> or else.
 
 ## Code
 

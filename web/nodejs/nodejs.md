@@ -270,3 +270,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [How to distribute pre-built node binaries (2021)](https://twitter.com/MylesBorins/status/1455552470411845632)
 - [Designing Error Messages and a Logging Strategy in Node.js (2021)](https://blog.appsignal.com/2021/11/03/designing-error-messages-and-a-logging-strategy-in-nodejs.html)
 - [await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch.
+- [formidable](https://github.com/node-formidable/formidable) - Node.js module for parsing form data, especially file uploads.

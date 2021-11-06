@@ -109,3 +109,4 @@
 - [Predicting gene expression with AI | DeepMind (2021)](https://deepmind.com/blog/article/enformer) ([Code](https://github.com/lucidrains/enformer-pytorch))
 - [Clonal dominance in excitable cell networks (2021)](https://www.nature.com/articles/s41567-021-01383-0)
 - ['Useless Specks of Dust' Turn Out to Be Building Blocks of All Vertebrate Genome (2021)](https://www.sciencealert.com/useless-specks-of-dust-turn-out-to-be-ancient-building-blocks-of-all-vertebrate-genomes) ([HN](https://news.ycombinator.com/item?id=29093585))
+- [RNA-responsive elements for eukaryotic translational control (2021)](https://www.nature.com/articles/s41587-021-01068-2)
