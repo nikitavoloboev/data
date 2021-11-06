@@ -1091,6 +1091,7 @@
 - [CloudEvents SDK Rust](https://github.com/cloudevents/sdk-rust)
 - [rust-cached-path](https://github.com/epwalsh/rust-cached-path) - Rust utility for accessing both local and remote files through a unified interface.
 - [gray-matter-rs](https://github.com/the-alchemists-of-arland/gray-matter-rs) - Tool for easily extracting front matter out of a string.
+- [srt-rs](https://github.com/russelltg/srt-rs) - SRT implementation in Rust.
 
 ## Cargo Plugins
 

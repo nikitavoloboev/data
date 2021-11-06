@@ -72,6 +72,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Alarming Development](https://alarmingdevelopment.org/)
 - [Eric Jang](https://evjang.com/)
 - [Ivan Velichko](https://iximiuz.com/en/)
+- [John Regehr](https://blog.regehr.org/)
 
 ## Notes
 

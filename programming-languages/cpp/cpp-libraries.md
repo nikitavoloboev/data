@@ -270,6 +270,8 @@
 - [HPX](https://github.com/STEllAR-GROUP/hpx) - C++ Standard Library for Parallelism and Concurrency.
 - [agrpc](https://github.com/npuichigo/agrpc) - Async GRPC with C++20 coroutine support.
 - [Marius](https://github.com/marius-team/marius) - Large scale embeddings on a single machine.
+- [Compute Library](https://github.com/ARM-software/ComputeLibrary) - Set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+- [ahsohtoa](https://github.com/celtera/ahsohtoa) - Structure-of-array synthesis in C++20.
 
 ## Links
 

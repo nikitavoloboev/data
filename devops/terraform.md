@@ -109,3 +109,4 @@
 - [Creating my personal cloud with HashiCorp (2021)](https://cgamesplay.com/post/2021/10/27/creating-my-personal-cloud-with-hashicorp/) ([HN](https://news.ycombinator.com/item?id=29020460))
 - [Personal Cloud IaC](https://github.com/CGamesPlay/infra) - My personal cloud server, hosted as a VPS.
 - [A comprehensive guide to managing secrets in your Terraform code (2020)](https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terraform-code-1d586955ace1)
+- [Terraform Provider Lint Tool](https://github.com/bflad/tfproviderlint)

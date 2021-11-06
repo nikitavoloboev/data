@@ -260,3 +260,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Ask HN: If you designed a new programming language, what would its features be? (2021)](https://news.ycombinator.com/item?id=29092998)
 - [glot.io](https://glot.io/) - Open source pastebin with runnable snippets and API. ([Code](https://github.com/glotcode/glot-www))
 - [1001 Representations of Syntax with Binding (2021)](https://jesper.sikanda.be/posts/1001-syntax-representations.html) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/qnm5n6/1001_representations_of_syntax_with_binding/))
+- [Chigraph](https://chigraph.io/) - Visual systems language for beginners compiled using LLVM. ([Code](https://github.com/chigraph/chigraph))

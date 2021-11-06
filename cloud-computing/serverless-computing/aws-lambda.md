@@ -86,3 +86,5 @@
 - [Middy](https://github.com/middyjs/middy) - Simple middleware engine that allows you to simplify your AWS Lambda code when using Node.js.
 - [Klayers](https://github.com/keithrozario/Klayers) - Python Packages as AWS Lambda Layers.
 - [lmdrouter](https://github.com/aquasecurity/lmdrouter) - Go HTTP router library for AWS API Gateway-invoked Lambda Functions.
+- [aws-lambda-image](https://github.com/ysugimoto/aws-lambda-image) - Automatic image resize/reduce on AWS Lambda.
+- [API Gateway REST API: Step Functions direct integration – AWS CDK guide (2021)](https://dev.to/aws-builders/api-gateway-rest-api-step-functions-direct-integration-aws-cdk-guide-13c4)

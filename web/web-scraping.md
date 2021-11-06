@@ -121,3 +121,4 @@
 - [Effortless Crawling with Scrapy with one method (2021)](https://www.youtube.com/watch?v=o1g8prnkuiQ)
 - [Avoiding bot detection: How to scrape the web without getting blocked?](https://github.com/niespodd/browser-fingerprinting)
 - [crawley](https://github.com/s0rg/crawley) - Crawls web pages and prints any link it can find.
+- [grab-site](https://github.com/ArchiveTeam/grab-site) - Archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.

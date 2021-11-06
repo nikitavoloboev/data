@@ -226,6 +226,7 @@
 - [react-ancenstry](https://github.com/grantila/react-ancestry) - Get the component ancestry in React.
 - [typeahead](https://github.com/tomocchino/typeahead) - Small, fast, opinionated autocomplete input for React.
 - [co-media](https://github.com/cocoss-org/co-media) - React library for accessing browser media like camera, microphone, screen capture, etc.
+- [React Responsive Carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 
 ## Links
 

@@ -114,3 +114,4 @@
 - [A bug that doesn’t exist on x86: Exploiting an ARM-only race condition](https://github.com/stong/how-to-exploit-a-double-free) ([HN](https://news.ycombinator.com/item?id=28996500))
 - [The Soviet 1801VM2 LSI-11 Processor (2021)](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/) ([HN](https://news.ycombinator.com/item?id=29114087))
 - [Designing a MIPS CPU in Hardcaml](https://ceramichacker.com/blog/1-1x-hardcaml-mips-intro-what-and-why) ([HN](https://news.ycombinator.com/item?id=29105348))
+- [A Close Look at a Spinlock (2021)](https://blog.regehr.org/archives/2173)

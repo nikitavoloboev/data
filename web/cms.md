@@ -31,3 +31,4 @@
 - [Slicknode](https://slicknode.com/) - GraphQL CMS, Headless Content Management. ([Code](https://github.com/slicknode/slicknode))
 - [Collaborative CMS options (2021)](https://twitter.com/derrickreimer/status/1453017970645602304)
 - [Craft CMS](https://craftcms.com/) - Flexible, user-friendly CMS for creating custom digital experiences on the web and beyond. ([Code](https://github.com/craftcms/cms))
+- [Best CMS for NextJS (2021)](https://www.reddit.com/r/nextjs/comments/qnx4rd/guys_whats_the_best_cms_for_my_nextjs_app/)

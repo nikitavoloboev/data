@@ -102,3 +102,4 @@
 - [batou](https://github.com/flyingcircusio/batou) - Helps you to automate your application deployments using Python DSL. ([Docs](https://batou.readthedocs.io/en/stable/))
 - [Smallstep](https://smallstep.com/) - Automated Certificate Management for DevOps. ([GitHub](https://github.com/smallstep))
 - [Learn-by-Doing Platforms for Dev, DevOps, and SRE Folks (2021)](https://iximiuz.com/en/posts/learn-by-doing-platforms/)
+- [StackStorm](https://stackstorm.com/) - Platform for integration and automation across services and tools, taking actions in response to events. ([Code](https://github.com/StackStorm/st2))

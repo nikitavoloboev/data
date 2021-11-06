@@ -346,6 +346,7 @@
 - [SwiftUI Layout Guides](https://github.com/tgrapperon/swiftui-layout-guides) - Micro-library exposes UIKit's layout margins and readable content guides to SwiftUI.
 - [SnapToScroll](https://github.com/swiftui-library/hstack-snap-to-scroll) - Easy-to-use HStack that snaps to elements on scroll.
 - [CodeEditor](https://github.com/ZeeZide/CodeEditor) - SwiftUI TextEditor View with syntax highlighting using Highlight.js.
+- [DropView](https://github.com/sbertix/DropView) - SwiftUI-based library to display alerts inspired by the Apple Pencil and pasteboard stock ones.
 
 ## Test
 
@@ -806,6 +807,7 @@
 - [StyledTextKit](https://github.com/GitHawkApp/StyledTextKit) - Declarative building and fast rendering attributed string library.
 - [Clangler](https://github.com/daltonclaybrook/Clangler) - Swift package for parsing Clang module map files.
 - [Swimi](https://github.com/kainosk/Swimi) - MIDI/SMF parser written in Swift.
+- [BinaryCoder](https://github.com/mikeash/BinaryCoder) - Example implementation of Swift.Codable using a simple binary format.
 
 ## Other (not lib)
 

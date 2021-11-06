@@ -51,3 +51,4 @@
 - [MLeap](https://github.com/combust/mleap) - Deploy ML Pipelines to Production. ([Docs](https://combust.github.io/mleap-docs/))
 - [ServingMLFastCelery](https://github.com/jonathanreadshaw/ServingMLFastCelery) - Working example for serving a ML model using FastAPI and Celery.
 - [Cog](https://github.com/replicate/cog) - Containers for machine learning.
+- [Explaining Machine Learning Models: A Non-Technical Guide to Interpreting SHAP Analyses (2021)](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)

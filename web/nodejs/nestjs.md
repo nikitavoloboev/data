@@ -9,3 +9,4 @@
 - [NestJS Commander](https://github.com/jmcdo29/nest-commander) - Module for using NestJS to build up CLI applications.
 - [testing-nestjs](https://github.com/jmcdo29/testing-nestjs) - Community methods of testing NestJS.
 - [Ogma](https://github.com/jmcdo29/ogma) - No-nonsense logger developed to make logging simple, and easy to read in development.
+- [Mapped Types](https://github.com/nestjs/mapped-types) - Configuration module for Nest framework.

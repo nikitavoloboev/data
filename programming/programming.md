@@ -483,3 +483,4 @@
 - [Programming projects to work on for skill development](https://www.reddit.com/r/gamedev/comments/1bc8tz/looking_for_resources_for_java_game_programming/)
 - [The tale of a single register value (2021)](https://blog.cloudflare.com/the-tale-of-a-single-register-value/)
 - [Codecademy Docs](https://www.codecademy.com/resources/docs) - Collection of information for all things code. ([Code](https://github.com/Codecademy/docs))
+- [Responsible and Effective Bugfinding](https://blog.regehr.org/archives/2037)

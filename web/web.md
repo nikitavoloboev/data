@@ -326,3 +326,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The metaverse is already here, it's called the internet (2021)](https://canolcer.com/post/metaverse-is-already-here/) ([HN](https://news.ycombinator.com/item?id=29046838))
 - [Ask HN: If the Internet were redesigned today, what changes would you make? (2021)](https://news.ycombinator.com/item?id=29053266)
 - [Building a multi-select component (2021)](https://web.dev/building-a-multi-select-component/)
+- [Stumbled](https://stumbled.to/stumble) - Greatest Sites of the Internet.
+- [Sharkle](https://sharkle.com/) - Generator of random awesomeness.

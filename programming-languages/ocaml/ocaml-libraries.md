@@ -105,6 +105,7 @@
 - [kv-hash](https://github.com/tomjridge/kv-hash) - Key Value store using a persistent hashtable approach.
 - [DAI](https://github.com/cuplv/dai) - Demanded Abstract Interpretation.
 - [field_repr](https://github.com/CraigFe/field_repr) - Efficient run-time representations of OCaml record fields.
+- [CacheCache](https://github.com/pascutto/cachecache) - Efficient caching library for OCaml.
 
 ## Links
 

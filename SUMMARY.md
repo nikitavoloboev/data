@@ -582,6 +582,7 @@
     - [Finland](travel/visited/finland.md)
     - [France](travel/visited/france.md)
     - [Korea](travel/visited/korea.md)
+    - [Cyprus](travel/visited/cyprus.md)
     - [Denmark](travel/visited/denmark.md)
     - [Greece](travel/visited/greece.md)
     - [Portugal](travel/visited/portugal.md)

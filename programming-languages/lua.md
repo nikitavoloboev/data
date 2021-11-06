@@ -76,3 +76,4 @@
 - [LuaJIT Unix syscall FFI](https://github.com/justincormack/ljsyscall)
 - [Hematita Da Lua](https://github.com/danii/hematita) - Memory safe Lua interpreter.
 - [LuaJIT Garbage Collector Design Doc](http://wiki.luajit.org/New-Garbage-Collector)
+- [f-strings](https://github.com/hishamhm/f-strings) - String interpolation for Lua.

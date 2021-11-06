@@ -161,3 +161,4 @@
 - [How learned helplessness happens in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams) ([HN](https://news.ycombinator.com/item?id=29060693))
 - [Are daily standups hurting your team? (2021)](https://ideas.krishnan.ca/are-daily-standups-hurting-your-team) ([HN](https://news.ycombinator.com/item?id=29093833))
 - [OKRs vs. KPIs: understanding measurements for your SaaS business](https://userpilot.com/blog/okrs-vs-kpis/) ([HN](https://news.ycombinator.com/item?id=29130039))
+- [Don’t be spooky](https://therealadam.com/2021/11/01/dont-be-spooky/) ([HN](https://news.ycombinator.com/item?id=29130590))

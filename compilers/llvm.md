@@ -89,3 +89,4 @@
 - [Make LLVM fast again (2020)](https://www.npopov.com/2020/05/10/Make-LLVM-fast-again.html)
 - [Building a Distribution of LLVM](https://llvm.org/docs/BuildingADistribution.html)
 - [How to learn compilers: LLVM Edition (2021)](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/) ([HN](https://news.ycombinator.com/item?id=29112482))
+- [llvm-reduce (2021)](https://blog.regehr.org/archives/2109)

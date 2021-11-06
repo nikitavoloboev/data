@@ -267,3 +267,4 @@
 - [sinergym](https://github.com/jajimer/sinergym) - Gym environment for building simulation and control using reinforcement learning.
 - [MetaDrive](https://github.com/decisionforce/metadrive) - Composing Diverse Driving Scenarios for Generalizable RL.
 - [Crafter](https://github.com/danijar/crafter) - Benchmarking the Spectrum of Agent Capabilities.
+- [RLDS](https://github.com/google-research/rlds) - Reinforcement Learning Datasets.

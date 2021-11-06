@@ -142,6 +142,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Quarchive](https://quarchive.com/) - Traditional "Web 2.0" social bookmarking, with small improvements. ([Code](https://github.com/calpaterson/quarchive))
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
+- [Snapcode](https://snapcode.vercel.app/) - Code Snippets Manager. ([Code](https://github.com/Kholid060/snapcode))
 - [RescueTime](https://www.rescuetime.com/) - App you install on your computer and mobile devices that automatically pays attention to the apps you use. ([HN](https://news.ycombinator.com/item?id=28683597))
 - [Fleetsmith](https://www.fleetsmith.com/) - Secure, cloud-based Apple device management via G Suite or Office 365. ([HN](https://news.ycombinator.com/item?id=23629438))
 - [Matter](https://matterapp.com/) - Recognize your team members with Kudos, gather continuous feedback, and so much more.

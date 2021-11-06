@@ -35,9 +35,12 @@
 - [Quick Switcher++](https://github.com/darlal/obsidian-switcher-plus) - Enhanced Quick Switcher plugin.
 - [Draw.io](https://github.com/zapthedingbat/drawio-obsidian) - Draw.io plugin for obsidian.md.
 - [Obsidian Kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [Graph Analysis](https://github.com/SkepticMystic/graph-analysis) - Analyze the structure of your Obsidian graph using various analysis techniques.
+- [Customize cursor blinking in Obsidian](https://github.com/xnhp/obsidian-cursor-blink)
 
 ## Themes
 
+- [Things Theme](https://github.com/colineckert/obsidian-things)
 - [Sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - Minimalist theme with the aim of creating a serene space of retreat, for thought and uninterrupted work.
 - [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.
 - [Minimal](https://github.com/kepano/obsidian-minimal) - Obsidian theme meticulously designed to feel native on desktop, mobile and tablet.
@@ -58,3 +61,4 @@
 - [Obsidian Starter Templates](https://github.com/masonlr/obsidian-starter-templates)
 - [Open source Obsidian Publish alternative](https://github.com/obsidian-userland/publish)
 - [Shimmering Obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
+- [How to get started with developing a custom Obsidian Plugin?](https://forum.obsidian.md/t/how-to-get-started-with-developing-a-custom-plugin/8157/9)
