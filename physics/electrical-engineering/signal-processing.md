@@ -30,3 +30,4 @@
 - [AutoDSP](https://github.com/jmcasebeer/autodsp) - Train custom adaptive filter optimizers without hand tuning or extra labels.
 - [Control mechanisms to the U-Net architecture for doing multiple source separation instruments](https://github.com/gabolsgabs/cunet)
 - [Soundpipe](https://github.com/PaulBatchelor/Soundpipe) - Lightweight music DSP library written in C.
+- [Spectrograms – audio signal processing for machine learning](https://selectfrom.dev/spectrograms-or-how-i-learned-to-stop-worrying-and-love-audio-signal-processing-for-machine-d28c022ca5ca) ([HN](https://news.ycombinator.com/item?id=29113998))

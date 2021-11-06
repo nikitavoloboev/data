@@ -22,6 +22,7 @@
 - [In DAOs, we often conflate leadership with centralization. The reality is decentralization comes from having many leaders, not zero leaders. To optimize for decentralization, DAOs need to create many pathways for contributors to become leaders.](https://twitter.com/chaserchapman/status/1441458730277629958)
 - [Governance means conflict. It also means resolution. Accept the former, focus on the latter, and trust your team. With transparency.](https://twitter.com/armaniferrante/status/1450878886535839745)
 - [Regulation is often better for the incumbents than the challengers.](https://twitter.com/benedictevans/status/1455531071588679689)
+- [Polls as easy as a tweet, civic engagement, allocating funds. Just need some DAO tools on this.](https://twitter.com/yanivgraph/status/1457104839620677632)
 
 ## Links
 

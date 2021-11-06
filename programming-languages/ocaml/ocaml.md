@@ -98,3 +98,4 @@
 - [Plans to choose an official package/project manager? (2021)](https://discuss.ocaml.org/t/plans-to-choose-an-official-package-project-manager/8620) - Current state of tooling and where it falls short.
 - [How to use MetaOCaml with Dune](https://github.com/fpottier/metaocaml-hello-world)
 - [Fromager](https://github.com/mimoo/fromager) - Format your OCaml code.
+- [GADTs - Real World OCaml](https://dev.realworldocaml.org/gadts.html) ([Tweet](https://twitter.com/yminsky/status/1456745330104492045))

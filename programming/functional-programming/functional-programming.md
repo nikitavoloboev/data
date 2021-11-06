@@ -139,6 +139,7 @@
 - [United Monoids (2018)](https://blogs.ncl.ac.uk/andreymokhov/united-monoids/) ([Code](https://github.com/snowleopard/united))
 - [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/) ([HN](https://news.ycombinator.com/item?id=29033003))
 - [Distillation: extracting the essence of programs (2007)](https://dl.acm.org/doi/10.1145/1244381.1244391) - Transformation algorithm called distillation which can automatically transform higher-order functional programs into equivalent tail-recursive programs. ([Code](https://github.com/poitin/Distiller))
+- [On the correctness of monadic backward induction (2021)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-the-correctness-of-monadic-backward-induction/0F71FFE6AE1222E77F52341C695E366A) ([Tweet](https://twitter.com/CUP_JFP/status/1457060107087450115))
 
 ## Images
 

@@ -412,3 +412,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [The Science of Tools for Thought and Cognition Augmentation Software (2021)](https://moritz.digital/blog/cas) ([Video](https://www.youtube.com/watch?v=zVuaOECnUJE))
 - [OpenMemex](https://github.com/austinvhuang/openmemex) - Open source, local-first knowledge platform.
 - [mdzk](https://github.com/mdzk-rs/mdzk) - Plain text Zettelkasten system that is based on the mdBook API.
+- [Good examples of wikis with custom software (2021)](https://twitter.com/LauraDeming/status/1457101797076586496?s=20)

@@ -130,3 +130,5 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [ExpatFinance.us](https://www.expatfinance.us/home) - Resources for bureaucratic and financial matters when moving to a new country.
 - [Stripe's low-hanging fruits (2021)](https://twitter.com/patrickc/status/1450208990974021635)
 - [How you can track your personal finances using Python](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/) ([Lobsters](https://lobste.rs/s/uq4vpy/how_you_can_track_your_personal_finances))
+- [How credit cards make money (2021)](https://bam.kalzumeus.com/archive/how-credit-cards-make-money/) ([HN](https://news.ycombinator.com/item?id=29121353))
+- [Bits about Money by Patrick McKenzie (patio11)](https://bam.kalzumeus.com/) - About the modern financial infrastructure that the world sits atop of.

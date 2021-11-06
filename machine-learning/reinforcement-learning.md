@@ -268,3 +268,4 @@
 - [MetaDrive](https://github.com/decisionforce/metadrive) - Composing Diverse Driving Scenarios for Generalizable RL.
 - [Crafter](https://github.com/danijar/crafter) - Benchmarking the Spectrum of Agent Capabilities.
 - [RLDS](https://github.com/google-research/rlds) - Reinforcement Learning Datasets.
+- [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability (2021)](https://bair.berkeley.edu/blog/2021/11/05/epistemic-pomdp/) ([Paper](https://arxiv.org/abs/2107.06277))

@@ -601,3 +601,4 @@ if err != nil {
 - [Go 1.18 summary](https://twitter.com/mvdan_/status/1456947756925399040)
 - [goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) - Interactive tool to analyze Go goroutine dump.
 - [Golang AST visualizer](https://yuroyoro.github.io/goast-viewer/index.html) ([Code](https://github.com/yuroyoro/goast-viewer))
+- [errchkjson](https://github.com/breml/errchkjson) - Go linter that checks types that are json encoded - reports unsupported types and unnecessary error checks.

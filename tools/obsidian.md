@@ -37,6 +37,7 @@
 - [Obsidian Kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [Graph Analysis](https://github.com/SkepticMystic/graph-analysis) - Analyze the structure of your Obsidian graph using various analysis techniques.
 - [Customize cursor blinking in Obsidian](https://github.com/xnhp/obsidian-cursor-blink)
+- [BRAT (Beta Reviewers Auto-update Tester)](https://github.com/TfTHacker/obsidian42-brat) - Plugin that makes it easier for you to assist other developers with reviewing and testing their plugins.
 
 ## Themes
 
