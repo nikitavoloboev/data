@@ -648,6 +648,7 @@
 - [JS Data Structures](https://github.com/make-github-pseudonymous-again/js-data-structures)
 - [Oby](https://github.com/fabiospampinato/oby) - Tiny Observable implementation. ([Tweet](https://twitter.com/fabiospampinato/status/1456675914377478144))
 - [trkl](https://github.com/jbreckmckye/trkl) - Reactive JavaScript programming in less than half a kilobyte.
+- [Microdiff](https://github.com/AsyncBanana/microdiff) - Fast, zero dependency object and array comparison library. ([HN](https://news.ycombinator.com/item?id=29130661))
 
 ## Links
 

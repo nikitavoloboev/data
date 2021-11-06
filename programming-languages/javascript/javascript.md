@@ -358,3 +358,5 @@ buttons.forEach((b) => b.click());
 - [Fastly Compute@Edge JS Runtime](https://github.com/fastly/js-compute-runtime)
 - [Responsible JavaScript Book](https://responsiblejs.dev/) ([Twitter](https://twitter.com/responsiblejs))
 - [Creating Callable Objects in JavaScript (2019)](https://hackernoon.com/creating-callable-objects-in-javascript-d21l3te1)
+- [Reflection at Reflect: The Reflect and Proxy APIs (2021)](https://reflect.run/articles/reflection-at-reflect/)
+- [Deep-copying in JavaScript (2018)](https://surma.dev/things/deep-copy/index.html) ([Tweet](https://twitter.com/DasSurma/status/1456999878798807044))

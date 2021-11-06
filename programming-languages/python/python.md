@@ -368,3 +368,5 @@ for i, _ in enumerate(nums):
 - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html) ([HN](https://news.ycombinator.com/item?id=29104047))
 - [GraalVM Python](https://www.graalvm.org/python/) - On average, Python in GraalVM is 8.92x faster than CPython. ([HN](https://news.ycombinator.com/item?id=29097715))
 - [Mini Inch App in Python](https://github.com/jokull/python-ts-graphql-demo) - Python asyncio backend querying with SQLAlchemy and Strawberry serving GraphQL with Starlette.
+- [Guide of CPython’s Parser](https://devguide.python.org/parser/)
+- [Python Developer's Guide](https://devguide.python.org/)

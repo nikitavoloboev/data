@@ -64,3 +64,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Saving a restic backup the hard way (2021)](http://blog.pkh.me/p/30-saving-a-restic-backup-the-hard-way.html)
 - [Ask HN: How should I back up data on devices if I'm not smart? (2021)](https://news.ycombinator.com/item?id=28758415)
 - [Asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups.
+- [Backups and Corruption (2021)](https://www.collicutt.co.uk/notebook/backups.html)
