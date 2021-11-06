@@ -153,6 +153,7 @@
 - [Promote Your Next Startup](https://github.com/trekhleb/promote-your-next-startup) - Free resources you may use to promote your next startup. ([HN](https://news.ycombinator.com/item?id=28807413))
 - [GoSquared](https://www.gosquared.com/) - Effective customer engagement tools for happier customers. ([Twitter](https://twitter.com/GoSquared))
 - [Why You Should Repeat Yourself, A Lot (2021)](https://tomtunguz.com/why-you-should-repeat-yourself/)
+- [Marketing for SaaS (2021)](https://twitter.com/yongfook/status/1456546766837280771)
 
 ## Images
 
