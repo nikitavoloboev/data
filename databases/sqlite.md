@@ -111,3 +111,4 @@
 - [sqlite3 Rewritten in RiiR Rust](https://github.com/epilys/rsqlite3) ([Lobsters](https://lobste.rs/s/c5jotg/epilys_rsqlite3_sqlite3_rewritten_riir))
 - [SQLite WAL Mode](https://pradeepchhetri.xyz/til/sqlite/)
 - [SQLite Index Recommendations](https://pradeepchhetri.xyz/til/expert/)
+- [APSW](https://github.com/rogerbinns/apsw) - Python SQLite wrapper.

@@ -101,3 +101,4 @@
 - [svgen](https://github.com/vkottler/svgen) - Tool for working with scalable vector graphics.
 - [tldraw/svg](https://github.com/tldraw/svg) - SVG utility functions used by tldraw.
 - [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter. ([Code](https://github.com/visioncortex/vtracer))
+- [llline](https://fffuel.co/llline/) - Smooth SVG Line/Stroke Generator.

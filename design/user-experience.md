@@ -129,3 +129,4 @@
 - [Apple Human Interface Guidelines: The Apple Desktop Interface (1987)](https://andymatuschak.org/files/papers/Apple%20Human%20Interface%20Guidelines%201987.pdf) ([Tweet](https://twitter.com/andy_matuschak/status/1447407670403612672))
 - [Modern trend towards data-driven decision making (2021)](https://twitter.com/nicklockwood/status/1452288380398710784)
 - [Software with the most interesting self-serve onboarding flow (2021)](https://twitter.com/joshm/status/1453389875214839815)
+- [The Golden Ratio and User-Interface Design (2021)](https://www.nngroup.com/articles/golden-ratio-ui-design/)

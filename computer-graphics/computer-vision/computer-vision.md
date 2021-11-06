@@ -431,3 +431,4 @@
 - [Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm (2021)](https://arxiv.org/abs/2110.05208) ([Code](https://github.com/Sense-GVT/DeCLIP))
 - [Awesome Vision-Language Navigation](https://github.com/daqingliu/awesome-vln)
 - [An Exploration of Embodied Visual Exploration (2021)](http://vision.cs.utexas.edu/projects/exploring-exploration/) ([Code](https://github.com/facebookresearch/exploring_exploration))
+- [DVC: An End-to-end Deep Video Compression Framework (2019)](https://arxiv.org/abs/1812.00101) ([Code](https://github.com/GuoLusjtu/DVC))

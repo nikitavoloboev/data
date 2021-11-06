@@ -537,6 +537,7 @@
 - [pickle](https://docs.python.org/3/library/pickle.html) - Python object serialization.
 - [zlib](https://docs.python.org/3/library/zlib.html) - Compression compatible with gzip.
 - [Pyappcache](https://github.com/calpaterson/pyappcache) - Library for application-level caching.
+- [redun](https://github.com/insitro/redun/) - Expressive and efficient workflow framework.
 
 ## Links
 

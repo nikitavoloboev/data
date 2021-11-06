@@ -125,6 +125,7 @@
 - [fp-ts-react-stable-hooks](https://github.com/mblink/fp-ts-react-stable-hooks) - Reduce unnecessary rerenders when using fp-ts data types with React hooks.
 - [use-callback-ref](https://github.com/theKashey/use-callback-ref) - Same useRef, but it will callback.
 - [use-reducer-async](https://github.com/dai-shi/use-reducer-async) - React useReducer with async actions.
+- [axios-hooks](https://github.com/simoneb/axios-hooks) - React hooks for axios, with built-in support for server side rendering.
 
 ## Code
 

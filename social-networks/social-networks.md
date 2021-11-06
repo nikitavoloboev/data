@@ -137,3 +137,4 @@
 - [In many parts of the world, Facebook IS the internet (2021)](https://twitter.com/telliotter/status/1452660453641969665)
 - [Feedless](https://feedless.social/) - Non-addictive social network. ([Code](https://github.com/rogeriochaves/feedless))
 - [How Instagram and Twitter buried the hatchet (2021)](https://www.platformer.news/p/how-instagram-and-twitter-buried)
+- [A Beginner's Guide to Social Media Verification (2021)](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)
