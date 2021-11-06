@@ -195,3 +195,4 @@ useEffect(() => {
 - [Mental model for useEffect](https://twitter.com/threepointone/status/1452346139487965186)
 - [Why you shouldn't put refs in a dependency array](https://epicreact.dev/why-you-shouldnt-put-refs-in-a-dependency-array/)
 - [How to Handle Async Actions for Global State With React Hooks and Context (2019)](https://blog.axlight.com/posts/how-to-handle-async-actions-for-global-state-with-react-hooks-and-context/)
+- [How React Uses Closures to Avoid Bugs](https://epicreact.dev/how-react-uses-closures-to-avoid-bugs/)

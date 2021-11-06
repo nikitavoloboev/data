@@ -23,6 +23,7 @@ Here are few more things I liked, design wise.
 - [Linear](https://linear.app/) ([Tweet](https://twitter.com/Stammy/status/1333466442235322370))
 - [Apple](https://www.apple.com/)
 - [Primer](https://www.withprimer.com/)
+- [Dune Analytics](https://dune.xyz/home)
 - [Prisma](https://www.prisma.io/)
 - [Legend](https://legendapp.com/)
 - [Supernotes](https://supernotes.app/)

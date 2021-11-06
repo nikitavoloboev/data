@@ -81,3 +81,4 @@
 - [Please stop closing forums and moving people to Discord (2021)](https://kotaku.com/please-stop-closing-forums-and-moving-people-to-discord-1847684851) ([HN](https://news.ycombinator.com/item?id=28549739))
 - [Discord Bot built with Fastify Tutorial](https://github.com/Eomm/fastify-discord-bot-demo)
 - [Fosscord Server](https://github.com/fosscord/fosscord-server) - Free and open source software compatible with Discord. It's a chat, voice and video platform similar to Slack and Rocket.chat. ([Web](https://fosscord.com/))
+- [Against Discord Channels](https://becca.ooo/discord) ([HN](https://news.ycombinator.com/item?id=29128361))

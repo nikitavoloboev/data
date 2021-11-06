@@ -293,3 +293,4 @@
 - [jax2torch](https://github.com/lucidrains/jax2torch) - Use JAX functions in PyTorch with DLPack.
 - [Differentiable Neural Computers, Sparse Access Memory and Sparse Differentiable Neural Computers, for Pytorch](https://github.com/ixaxaar/pytorch-dnc)
 - [Toroidal](https://github.com/MathInf/toroidal) - Lightweight transformer library for PyTorch.
+- [Ultimate PyTorch Source-Build Template](https://github.com/veritas9872/PyTorch-Universal-Docker-Template) - Template repository to build PyTorch projects from source on any version of PyTorch/CUDA/cuDNN.

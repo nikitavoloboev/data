@@ -216,3 +216,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Ask HN: Is the ISO 27001 certification worth it? (2021)](https://news.ycombinator.com/item?id=29094889)
 - [CNCF Security Technical Advisory Group](https://github.com/cncf/tag-security) - Secure access, policy control, privacy, auditing, explainability and more.
 - [Klaro](https://heyklaro.com/) - Privacy and security tool for your website. ([Code](https://github.com/kiprotect/klaro)) ([Comment](https://news.ycombinator.com/item?id=29122187))
+- [Never update anything (2021)](https://blog.kronis.dev/articles/never-update-anything) ([Lobsters](https://lobste.rs/s/ypzaht/never_update_anything)) ([HN](https://news.ycombinator.com/item?id=29106159))

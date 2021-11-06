@@ -136,3 +136,4 @@
 - [Facebook Papers: ‘History Will Not Judge Us Kindly’ (2021)](https://www.theatlantic.com/ideas/archive/2021/10/facebook-papers-democracy-election-zuckerberg/620478/)
 - [In many parts of the world, Facebook IS the internet (2021)](https://twitter.com/telliotter/status/1452660453641969665)
 - [Feedless](https://feedless.social/) - Non-addictive social network. ([Code](https://github.com/rogeriochaves/feedless))
+- [How Instagram and Twitter buried the hatchet (2021)](https://www.platformer.news/p/how-instagram-and-twitter-buried)

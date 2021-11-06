@@ -109,3 +109,4 @@
 - [Languages, and about languages, on the BEAM](https://github.com/llaisdy/beam_languages)
 - [The Many-to-One Parallel Signal Sending Optimization - Erlang/OTP (2021)](https://www.erlang.org/blog/parallel-signal-sending-optimization/)
 - [Announcing the new erlang.org (2021)](https://www.erlang.org/news/151)
+- [Decentralized ETS Counters for Better Scalability (2021)](https://www.erlang.org/blog/scalable-ets-counters/)

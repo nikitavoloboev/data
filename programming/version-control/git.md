@@ -343,7 +343,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-url-parse](https://github.com/IonicaBizau/git-url-parse) - High level git url parser for common git providers.
 - [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit.
 - [Cheatsheet to Rewrite Git History (2021)](https://blog.gitguardian.com/rewriting-git-history-cheatsheet/)
-- [Why SQLite Does Not Use Git](https://sqlite.org/whynotgit.html)
+- [Why SQLite Does Not Use Git (2018)](https://sqlite.org/whynotgit.html) ([HN](https://news.ycombinator.com/item?id=29125934))
 - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 - [Commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects. Auto bump versions. Auto changelog generation.
 - [simple-pre-commit](https://github.com/toplenboren/simple-pre-commit) - Simple pre commit hook for small open source projects.
