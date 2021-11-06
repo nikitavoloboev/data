@@ -7,3 +7,4 @@
 - [Build Your Next Project with Wolfram Alpha API and Python (2020)](https://martinheinz.dev/blog/36)
 - [Stephen Wolfram on Computer Language Design, SMP, Mathematica, and Wolfram Language (2020)](https://www.infoq.com/podcasts/wolfram-language-mathematica/)
 - [Wolfram Application Server](https://www.wolfram.com/application-server/) - Scalable Deployment of Wolfram-Powered Web Applications.
+- [Ask HN: Whatever happened to Wolfram Alpha? (2021)](https://news.ycombinator.com/item?id=29131931)

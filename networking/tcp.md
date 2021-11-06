@@ -51,3 +51,4 @@
 - [libuinet](https://github.com/pkelsey/libuinet) - Library version of FreeBSD's TCP/IP stack plus extras.
 - [go-finger](https://github.com/mitchellh/go-finger) - Finger protocol library. Finger protocol is an extremely simple TCP protocol.
 - [lwIP](https://github.com/lwip-tcpip/lwip) - Small independent implementation of the TCP/IP protocol suite.
+- [cproxy](https://github.com/NOBLES5E/cproxy) - Redirect TCP and UDP traffic made by a program to a proxy, without requiring the program supporting a proxy.

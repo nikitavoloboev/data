@@ -146,6 +146,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Neorg](https://github.com/vhyrro/neorg) - Life Organization Tool Written in Lua. ([HN](https://news.ycombinator.com/item?id=27802153))
 - [nabla.nvim](https://github.com/jbyuki/nabla.nvim) - Take your scientific notes in Neovim.
 - [Copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot.
+- [harpoon](https://github.com/ThePrimeagen/harpoon) - Get you where you want with the fewest keystrokes.
 
 ## Looks
 

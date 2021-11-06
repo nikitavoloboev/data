@@ -114,7 +114,7 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Treat Toolbox](https://github.com/theskeletoncrew/treat-toolbox) - Generative NFT Utility for Candy Machine / Solana.
 - [What do you do with your stables on Solana? (2021)](https://twitter.com/Melt_Dem/status/1453127401848774658)
 - [Solana dev tips (2021)](https://twitter.com/exploresolands/status/1453155153343696896?s=28)
-- [Solend](https://solend.fi/) - Lend and borrow on Solana. ([GitHub](https://github.com/solendprotocol))
+- [Solend](https://solend.fi/) - Lend and borrow on Solana. ([GitHub](https://github.com/solendprotocol)) ([Explained](https://www.youtube.com/watch?v=qiOUgh7b8ng))
 - [Squads](https://sqds.io/) - One app for all your DAO needs. ([Twitter](https://twitter.com/squads_dapp))
 - [Program deploys in Solana](https://jstarry.notion.site/Program-deploys-29780c48794c47308d5f138074dd9838)
 - [Solana Staking (2021)](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/)
@@ -132,3 +132,4 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Solana.Swift](https://github.com/ajamaica/Solana.Swift) - Open source library on pure swift for Solana protocol.
 - [Solana Tutorial - Create Your Own Token and NFT (2021)](https://www.youtube.com/watch?v=L4WWQzOBNIg)
 - [How to Anchor: An introduction to the Anchor Framework (2021)](https://www.youtube.com/watch?v=FmdPAwsqJC4)
+- [Sonar](https://sonar.watch/) - Track your Yield Farming and Liquidity Pool performance on Solana blockchain.

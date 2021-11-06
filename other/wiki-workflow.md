@@ -137,6 +137,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Aurelio](https://github.com/nobitagit/knowledge)
 - [Thomasorus's Garden](https://thomasorus.com/home.html)
 - [Yenly Ma TIL](https://til.yenly.wtf/)
+- [Magnus's Brain](https://kmaasrud.com/brain/)
 - [Abhinav's Notes](https://notes.abhinavsarkar.net/)
 - [Hugo Cisneros](https://hugocisneros.com/notes/)
 - [Rosano Garden](https://rosano.hmm.garden/)
@@ -410,3 +411,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Remnote](https://www.remnote.com/) - All-in-One Tool for Thinking and Learning. ([Twitter](https://twitter.com/rem_note))
 - [The Science of Tools for Thought and Cognition Augmentation Software (2021)](https://moritz.digital/blog/cas) ([Video](https://www.youtube.com/watch?v=zVuaOECnUJE))
 - [OpenMemex](https://github.com/austinvhuang/openmemex) - Open source, local-first knowledge platform.
+- [mdzk](https://github.com/mdzk-rs/mdzk) - Plain text Zettelkasten system that is based on the mdBook API.

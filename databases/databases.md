@@ -460,3 +460,4 @@
 - [Are Stored Procedures and Triggers Anti-Patterns in the Cloud Native World? (2021)](https://blog.yugabyte.com/are-stored-procedures-and-triggers-anti-patterns-in-the-cloud-native-world/)
 - [TimescaleDB vs ClickHouse (2021)](https://pradeepchhetri.xyz/clickhousevstimescaledb/) ([HN](https://news.ycombinator.com/item?id=29096541))
 - [OLAP Databases (2020)](https://pradeepchhetri.xyz/olap/)
+- [Spending $5k to learn how database indexes work (2021)](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/) ([HN](https://news.ycombinator.com/item?id=29132572))
