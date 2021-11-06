@@ -76,3 +76,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Scientists weighed all life on Earth. It’s mind-boggling. (2018)](https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas)
 - [Things you probably don’t need in your life](https://twitter.com/Mochievous/status/1452015750382866435)
 - [Modest (2021)](https://milky.substack.com/p/modest)
+- [What piece of advice have you received that you also find yourself regularly giving? (2021)](https://www.reddit.com/r/AskMenOver30/comments/qnvwdl/what_piece_of_advice_have_you_received_that_you/)

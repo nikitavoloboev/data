@@ -72,3 +72,4 @@
 - [What drew you to Racket? (2021)](https://www.reddit.com/r/Racket/comments/ptimod/what_drew_you_to_racket/)
 - [fmt](https://github.com/sorawee/fmt) - Code formatter for Racket.
 - [Abstract Machine for Racket Bytecode](https://github.com/akeep/abstract-racket)
+- [Realm of Racket](https://nostarch.com/realmofracket.htm) - Learn to Program, One Game at a Time.
