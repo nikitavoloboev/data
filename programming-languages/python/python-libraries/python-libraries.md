@@ -580,3 +580,4 @@
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder. ([Docs](https://virtualenv.pypa.io/en/latest/))
 - [PyPI Data](https://github.com/sethmlarson/pypi-data) - Mostly up-to-date data about almost every package on PyPI.
 - [Python libraries to make your code readable, reliable and maintainable (2020)](https://isaak.dev/2020/08/python-libraries-to-make-your-code-readable-and-maintainable)
+- [Pyflow](https://github.com/David-OConnor/pyflow) - Installation and dependency system for Python.
