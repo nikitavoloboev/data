@@ -100,6 +100,7 @@
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
 - [httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
+- [Router](https://github.com/fasthttp/router) - Router implementation for fasthttp.
 - [Macaron](https://github.com/go-macaron/macaron) - High productive and modular web framework in Go.
 - [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
 - [Buffalo](https://gobuffalo.io/docs/overview)

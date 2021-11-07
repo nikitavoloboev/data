@@ -37,6 +37,7 @@
 - [Bloop](https://scalacenter.github.io/bloop/) - Compile, test and run Scala code fast. ([Code](https://github.com/scalacenter/bloop))
 - [Weaver-test](https://github.com/disneystreaming/weaver-test) - Test framework that runs everything in parallel.
 - [ScalaCheck](https://github.com/typelevel/scalacheck) - Property-based testing for Scala. ([Web](https://scalacheck.org/)) ([Web Code](https://github.com/typelevel/scalacheck-web))
+- [Test-State](https://github.com/japgolly/test-state) - Test stateful stuff statelessly, and reasonably.
 
 ## GraphQL
 

@@ -294,3 +294,4 @@
 - [Differentiable Neural Computers, Sparse Access Memory and Sparse Differentiable Neural Computers, for Pytorch](https://github.com/ixaxaar/pytorch-dnc)
 - [Toroidal](https://github.com/MathInf/toroidal) - Lightweight transformer library for PyTorch.
 - [Ultimate PyTorch Source-Build Template](https://github.com/veritas9872/PyTorch-Universal-Docker-Template) - Template repository to build PyTorch projects from source on any version of PyTorch/CUDA/cuDNN.
+- [hf-hub-lightning](https://github.com/nateraw/hf-hub-lightning) - PyTorch Lightning Callback for pushing models to the Hugging Face Hub.

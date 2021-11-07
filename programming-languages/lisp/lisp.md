@@ -152,3 +152,4 @@
 - [Interim](https://github.com/eudoxia0/interim) - Statically-typed, low-level dialect of Lisp featuring compile-time, GC-free memory management.
 - [Why Lisp? (2015)](http://blog.rongarret.info/2015/05/why-lisp.html) ([HN](https://news.ycombinator.com/item?id=29006172))
 - [Autumn Lisp Game Jam 2021 Postmortem](https://wiki.alopex.li/ALGJ2021Postmortem)
+- [Slick](https://github.com/pcostanza/slick) - Lisp/Scheme-style s-expression surface syntax for the Go programming language, with a few additional features.

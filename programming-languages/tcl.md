@@ -16,3 +16,4 @@
 - [Partcl](https://github.com/zserge/partcl) - Minimal Tcl interpreter. ([Article](https://zserge.com/posts/tcl-interpreter/))
 - [TIL](https://til-lang.github.io/til/) - Tcl-inspired command language on top of D. ([Code](https://github.com/til-lang/til))
 - [Implementation of in-memory hash tables for Tcl](https://core.tcl-lang.org/tcl/file?name=generic/tclHash.c&ci=tip)
+- [Why is TCL syntax so weird (2013)](https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird) ([HN](https://news.ycombinator.com/item?id=29143346))

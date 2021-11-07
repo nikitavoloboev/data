@@ -434,3 +434,4 @@
 - [DVC: An End-to-end Deep Video Compression Framework (2019)](https://arxiv.org/abs/1812.00101) ([Code](https://github.com/GuoLusjtu/DVC))
 - [Pixray](https://github.com/dribnet/pixray) - Neural image generation.
 - [Unsupervised Learning of Compositional Energy Concepts (2021)](https://arxiv.org/abs/2111.03042) ([Tweet](https://twitter.com/du_yilun/status/1456630363040751616))
+- [Learning with Noisy Labels for Robust Point Cloud Segmentation (2021)](https://shuquanye.com/PNAL_website/) ([Code](https://github.com/pleaseconnectwifi/PNAL))

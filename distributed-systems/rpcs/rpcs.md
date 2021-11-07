@@ -35,3 +35,4 @@
 - [rpc](https://github.com/deno-libs/rpc) - JSONRPC server implementation with native WebSocket, based on jsonrpc.
 - [Don’t Let RPCs Constrain Your API (2021)](https://www.cs.yale.edu/homes/soule/pubs/hotnets2021.pdf) ([Tweet](https://twitter.com/danielbittman/status/1447997859215945729))
 - [Rony](https://github.com/ronaksoft/rony) - Fast and Scalable RPC Framework. In Go.
+- [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more.

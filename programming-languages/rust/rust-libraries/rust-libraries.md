@@ -81,6 +81,7 @@
 - [Poem](https://github.com/poem-web/poem) - Full-featured and easy-to-use web framework. ([Poem OpenAPI](https://github.com/poem-web/poem-openapi))
 - [darpi](https://github.com/darpi-rs/darpi) - Rust web framework with safety and speed in mind.
 - [Vial](https://github.com/xvxx/vial) - Micro micro-framework for rust. ([Docs](https://vial.rs/))
+- [Nuts](https://github.com/jakmeier/nuts) - Library that offers a simple publish-subscribe API, featuring decoupled creation of the publisher and the subscriber.
 
 ## WASM
 
@@ -295,6 +296,7 @@
 - [reverie](https://github.com/reverie-rs/reverie) - Trace and intercept linux syscalls.
 - [BlueR](https://github.com/bluez/bluer) - Rust interface to the Linux Bluetooth protocol stack (BlueZ).
 - [oxidebpf](https://github.com/redcanaryco/oxidebpf) - Rust library for managing eBPF programs.
+- [inotify-rs](https://github.com/hannobraun/inotify-rs) - Idiomatic inotify wrapper for Rust.
 
 ## ML
 

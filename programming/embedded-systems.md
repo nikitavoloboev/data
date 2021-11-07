@@ -139,3 +139,5 @@
 - [Why Embedded Software Development is Harder (2021)](https://beza1e1.tuxen.de/embedded.html)
 - [Async on Embedded: Present & Future (2021)](https://tweedegolf.nl/blog/63/async-on-embedded-present-and-future)
 - [stm32g0xx-hal](https://github.com/stm32-rs/stm32g0xx-hal) - Peripheral access API for STM32G0 series microcontrollers.
+- [Kari](https://github.com/hannobraun/kari) - Embeddable programming language, written in and for Rust.
+- [LPC8xx HAL](https://github.com/lpc-rs/lpc8xx-hal) - Hardware Abstraction Layer (HAL) for NXP LPC800 series of microcontrollers, written in Rust.

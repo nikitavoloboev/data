@@ -37,3 +37,5 @@
 - [Vite Electron Builder Boilerplate v2](https://github.com/cawa-93/vite-electron-builder) - Secure template for electron applications. Written following the latest safety requirements, recommendations and best practices.
 - [Next.js + Electron](https://github.com/saltyshiomix/nextron)
 - [Notes on running Electron (2021)](https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html)
+- [Electron Chrome Extension](https://github.com/getstation/electron-chrome-extension) - Implementation of Chrome extension APIs for Electron.
+- [Electron Settings](https://github.com/nathanbuchar/electron-settings) - Simple persistent user settings framework for Electron.
