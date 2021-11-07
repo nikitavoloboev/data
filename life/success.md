@@ -133,3 +133,4 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/) ([HN](https://news.ycombinator.com/item?id=28882043))
 - [Don't be afraid to start over to climb higher](https://www.instagram.com/p/CVD3xmkj7NE/)
 - [10 threads to accelerate your career](https://twitter.com/SahilBloom/status/1453077828023451651)
+- [Why Success Won't Make You Happy (2020)](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/) ([Tweet](https://twitter.com/ShriramKMurthi/status/1457328115160657920))

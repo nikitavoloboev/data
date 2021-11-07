@@ -52,3 +52,4 @@
 - [go-finger](https://github.com/mitchellh/go-finger) - Finger protocol library. Finger protocol is an extremely simple TCP protocol.
 - [lwIP](https://github.com/lwip-tcpip/lwip) - Small independent implementation of the TCP/IP protocol suite.
 - [cproxy](https://github.com/NOBLES5E/cproxy) - Redirect TCP and UDP traffic made by a program to a proxy, without requiring the program supporting a proxy.
+- [TCP (Transmission Control Protocol) in OCaml](https://github.com/roburio/tcp)

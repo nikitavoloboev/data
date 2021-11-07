@@ -140,3 +140,4 @@
 - [Remote-first work is taking over the rich world – research hints at why (2021)](https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world) ([HN](https://news.ycombinator.com/item?id=29034159))
 - [Productive tools for remote teams](https://github.com/CKGrafico/remote-teams)
 - [High Fidelity Remote Communication (2021)](https://olivierlacan.com/posts/high-fidelity-remote-communication/)
+- [The Future of Work at Cloudflare (2021)](https://blog.cloudflare.com/the-future-of-work-at-cloudflare/)

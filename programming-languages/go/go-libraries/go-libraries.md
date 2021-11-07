@@ -1041,6 +1041,7 @@
 - [periph](https://github.com/periph/cmd) - Peripherals I/O in Go.
 - [T-Digest](https://github.com/caio/go-tdigest) - Fast map-reduce and parallel streaming friendly data-structure for accurate quantile approximation.
 - [go-topics](https://github.com/patrikeh/go-topics) - Latent Dirichlet Allocation.
+- [jx](https://github.com/go-faster/jx) - JSON encoding and decoding.
 
 ## Links
 
