@@ -83,3 +83,4 @@
 - [Cloudflare Worker - Status Page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack notification whenever your website status changes.
 - [Backwards-compatibility in Cloudflare Workers (2021)](https://blog.cloudflare.com/backwards-compatibility-in-cloudflare-workers/)
 - [CF Pages Await](https://github.com/WalshyDev/cf-pages-await) - Wait for a Cloudflare Pages build to finish so you can do actions like purge cache, update Workers, etc.
+- [Build a link shortener in under 50 lines of code with Cloudflare Workers and KV (2021)](https://www.unravelled.dev/cloudflare-workers-link-shortener/) ([Tweet](https://twitter.com/kzhen/status/1457373214234091523))

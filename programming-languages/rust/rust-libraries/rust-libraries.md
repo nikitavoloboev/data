@@ -1096,6 +1096,7 @@
 - [srt-rs](https://github.com/russelltg/srt-rs) - SRT implementation in Rust.
 - [hotwatch](https://github.com/francesca64/hotwatch) - Rust library for conveniently watching and handling file changes.
 - [tiny_id](https://github.com/paulgb/tiny_id) - Rust library for generating non-sequential, tightly-packed short IDs.
+- [libmacchina](https://github.com/Macchina-CLI/libmacchina) - Library providing access to all sorts of system information.
 
 ## Cargo Plugins
 

@@ -114,3 +114,4 @@
 - [Interpreting A/B test results: false positives and statistical significance (2021)](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) ([HN](https://news.ycombinator.com/item?id=29042562))
 - [CI::Queue](https://github.com/Shopify/ci-queue) - Distribute tests over many workers using a queue.
 - [Reflect](https://reflect.run/) - Automated Web Testing.
+- [Generate All the Things (2021)](https://matklad.github.io//2021/11/07/generate-all-the-things.html)

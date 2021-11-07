@@ -29,3 +29,4 @@
 - [wgpu-profiler](https://github.com/Wumpf/wgpu-profiler) - Simple profiler scopes for wgpu using timer queries.
 - [WebGPU Webpack Starter](https://github.com/Twinklebear/webgpu-webpack-starter)
 - [WebGPU Best Practices](https://github.com/toji/webgpu-best-practices) ([Web](https://toji.github.io/webgpu-best-practices/))
+- [wgpu-native](https://github.com/gfx-rs/wgpu-native) - Native WebGPU implementation based on wgpu-core.

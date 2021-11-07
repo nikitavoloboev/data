@@ -112,3 +112,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Why do dogs tilt their heads? New study offers clues](https://www.science.org/content/article/why-do-dogs-tilt-their-heads-new-study-offers-clues) ([HN](https://news.ycombinator.com/item?id=29034364))
 - [Arctic sea ice is disappearing and it’s harming polar bears (2021)](https://projects.apnews.com/features/2021/polar-bears-sea-ice/index.html)
 - [To Save the Whales, Feed the Whales (2021)](https://www.theatlantic.com/science/archive/2021/11/whaling-whales-food-krill-iron/620604/)
+- [How We Domesticated Cats (Twice)](https://www.youtube.com/watch?v=CYPJzQppANo)

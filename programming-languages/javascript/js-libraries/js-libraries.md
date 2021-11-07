@@ -650,6 +650,7 @@
 - [trkl](https://github.com/jbreckmckye/trkl) - Reactive JavaScript programming in less than half a kilobyte.
 - [Microdiff](https://github.com/AsyncBanana/microdiff) - Fast, zero dependency object and array comparison library. ([HN](https://news.ycombinator.com/item?id=29130661))
 - [lfi](https://github.com/TomerAberbach/lfi) - Lazy functional iteration library supporting sync, async, and concurrent iteration.
+- [Speed Highlight JS](https://github.com/matubu/speed_highlight_js) - Light, fast, and easy to use, dependencies free javascript syntax highlighter.
 
 ## Links
 

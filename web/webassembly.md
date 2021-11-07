@@ -209,3 +209,4 @@
 - [Multi Memory Proposal for WebAssembly](https://github.com/WebAssembly/multi-memory)
 - [Wasp](https://github.com/pannous/wasp) - WASM Programming Language. ([HN](https://news.ycombinator.com/item?id=29117478))
 - [Emception](https://github.com/jprendes/emception) - Compile C/C++ code with Emscripten in the browser.
+- [WASICaml](https://github.com/remixlabs/wasicaml) - Translate OCaml bytecode to WebAssembly.
