@@ -183,6 +183,7 @@
 - [Building Blocks](https://github.com/bonsairobo/building-blocks) - Voxel library for real-time applications.
 - [Relm4](https://github.com/AaronErhardt/relm4) - Idiomatic GUI library inspired by Elm and based on gtk4-rs.
 - [wgpu-pbr](https://github.com/tedsta/wgpu-pbr) - Implementation of PBR using wgpu-rs.
+- [Kludgine](https://github.com/khonsulabs/kludgine) - 2d game engine written in rust atop of wgpu.
 
 ## Games
 
@@ -1097,6 +1098,7 @@
 - [hotwatch](https://github.com/francesca64/hotwatch) - Rust library for conveniently watching and handling file changes.
 - [tiny_id](https://github.com/paulgb/tiny_id) - Rust library for generating non-sequential, tightly-packed short IDs.
 - [libmacchina](https://github.com/Macchina-CLI/libmacchina) - Library providing access to all sorts of system information.
+- [nebari](https://github.com/khonsulabs/nebari) - Pure Rust database implementation using an append-only B-Tree file format.
 
 ## Cargo Plugins
 

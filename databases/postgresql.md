@@ -352,3 +352,4 @@
 - [Encrypting Postgres Data at Rest in Kubernetes (2021)](https://blog.crunchydata.com/blog/encrypting-postgres-data-at-rest-in-kubernetes) ([HN](https://news.ycombinator.com/item?id=29057505))
 - [Postgres migrations](https://github.com/ThomWright/postgres-migrations) - Stack Overflow-inspired PostgreSQL migration library with strict ordering and immutable migrations.
 - [Zero-downtime schema migrations in Postgres using views (2021)](https://fabianlindfors.se/blog/schema-migrations-in-postgres/)
+- [Zenith](https://github.com/zenithdb/zenith) - Substitutes PostgreSQL storage layer and redistributes data across a cluster of nodes.

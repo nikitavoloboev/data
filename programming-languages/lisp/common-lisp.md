@@ -71,3 +71,4 @@
 - [DRAKMA](https://github.com/edicl/drakma) - HTTP client written in Common Lisp.
 - [Kina Knowledge, using Common Lisp extensively in their document processing stack (2021)](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/) ([HN](https://news.ycombinator.com/item?id=28961987))
 - [Roswell](https://github.com/roswell/roswell) - Common Lisp environment setup Utility.
+- [Common Lisp code optimisation (2020)](https://write.as/loke/common-lisp-code-optimisation) ([HN](https://news.ycombinator.com/item?id=29140521))

@@ -123,6 +123,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Electronvolt](https://github.com/gecko0307/electronvolt) - FPS with physics based puzzles.
 - [Quake 3 in Haskell & Vulkan](https://github.com/ocharles/zero-to-quake-3)
 - [Vange-rs](https://github.com/kvark/vange-rs) - Game uses wgpu-rs for graphics and winit for windowing.
+- [Cosmic Verge](https://github.com/khonsulabs/cosmicverge) - 2d, persistent multiplayer, single-universe game written in Rust.
 
 ## Awesome games (other)
 
