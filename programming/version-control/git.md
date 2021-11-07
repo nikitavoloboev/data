@@ -432,3 +432,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Oaf](https://github.com/abentley/oaf) - Git client that brings a more user-friendly CLI to Git.
 - [GitPython](https://github.com/gitpython-developers/GitPython) - Python library used to interact with Git repositories.
 - [GitFlow ToolKit](https://github.com/mritd/gitflow-toolkit) - Simple toolkit for GitFlow.
+- [git-rewrite-author](https://github.com/crazy-max/git-rewrite-author) - Rewrite authors / commiters history of a git repository with ease.

@@ -79,3 +79,4 @@
 - [libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. ([Web](http://www.libarchive.org/))
 - [zlib by Cloudflare](https://github.com/cloudflare/zlib) - Cloudflare fork of zlib with massive performance improvements.
 - [Inflate.jl](https://github.com/GunnarFarneback/Inflate.jl) - Julia implementation of zlib decompression.
+- [miniz_oxide](https://github.com/Frommi/miniz_oxide) - Rust replacement for the miniz deflate/zlib encoder/decoder.

@@ -166,3 +166,4 @@ It's annoying that a lot of [people/projects use these distributed ledgers as po
 - [TokenTax](https://tokentax.co/) - Calculate your crypto taxes and file your return.
 - [DefiLlama](https://defillama.com/) - DeFi Dashboard.
 - [Ask HN: Why crypto is rising so fast when its not creating value? (2021)](https://news.ycombinator.com/item?id=29135226)
+- [The intellectual incoherence of cryptoassets](https://www.stephendiehl.com/blog/crypto-absurd.html) ([HN](https://news.ycombinator.com/item?id=29141611))
