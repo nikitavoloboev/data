@@ -98,3 +98,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Ant](https://github.com/groupoid/ant) - New typesetting system. Resembles TeX, but improves the internal language, which is ML dialect with rich domain-specific features for typesetting.
 - [Asiatic pTeX](https://github.com/clerkma/ptex-ng)
 - [ClutTeX](https://github.com/minoki/cluttex) - Process LaTeX document without cluttering your directory.
+- [LaTeX Input for Impatient Scholars (2021)](https://karthinks.com/software/latex-input-for-impatient-scholars/) ([HN](https://news.ycombinator.com/item?id=29131928))

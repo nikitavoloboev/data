@@ -51,3 +51,4 @@ Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status
 - [Cardano validators explained (2021)](https://twitter.com/_KtorZ_/status/1439168735810555906)
 - [Introduction to the Cardano blockchain ledger and smart contracts](https://apfelmus.nfshost.com/articles/cardano-ledger-intro.html)
 - [Awesome Plutus](https://github.com/mlabs-haskell/awesome-plutus)
+- [Cardano Serialization Lib](https://github.com/Emurgo/cardano-serialization-lib) - Library for serialization & deserialization of data structures used in Cardano's Haskell implementation of Shelley along with useful utility functions.

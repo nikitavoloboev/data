@@ -21,3 +21,4 @@
 - [Homer](https://github.com/bastienwirtz/homer) - Very simple static homepage for your server.
 - [KubeSail](https://kubesail.com/) - Self hosting company.
 - [Flame](https://github.com/pawelmalak/flame) - Self-hosted start page for your server.
+- [POSSE: Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) ([HN](https://news.ycombinator.com/item?id=29115696))

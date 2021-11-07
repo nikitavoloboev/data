@@ -17,7 +17,7 @@
 - [Ode to J](https://zserge.com/posts/j/)
 - [Is APL Dead? Not anymore (2020)](https://www.sacrideo.us/is-apl-dead/) ([HN](https://news.ycombinator.com/item?id=23055793)) ([HN](https://news.ycombinator.com/item?id=28929709))
 - [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm) ([Lobsters](https://lobste.rs/s/niyjrs/dictionary_apl)) ([PDF](http://www.softwarepreservation.org/projects/apl/Books/ADICTIONARYOFAPL))
-- [APL Since 1978](https://dl.acm.org/doi/pdf/10.1145/3386319) ([HN](https://news.ycombinator.com/item?id=23510433))
+- [APL Since 1978](https://dl.acm.org/doi/pdf/10.1145/3386319) ([HN](https://news.ycombinator.com/item?id=23510433)) ([Video](https://www.pldi21.org/prerecorded_hopl.2.html)) ([HN](https://news.ycombinator.com/item?id=29106109))
 - [APL In Exposition by K. E. Iverson (1972)](http://www.softwarepreservation.org/projects/apl/Papers/197201_APL%20In%20Exposition_320-3010.pdf)
 - [An APL Machine (1970)](https://www.slac.stanford.edu/pubs/slacreports/reports07/slac-r-114.pdf) ([Lobsters](https://lobste.rs/s/zfwv49/apl_machine_1970))
 - [Compiling APL to JavaScript](http://archive.vector.org.uk/art10501160) ([Lobsters](https://lobste.rs/s/4c5joc/compiling_apl_javascript))

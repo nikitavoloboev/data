@@ -1,6 +1,6 @@
 # [Ethereum](https://www.ethereum.org)
 
-Ethereum is a virtual machine built on top of the blockchain that lets you create and run smart contracts that then run on the blockchain.
+Ethereum is a virtual machine built on top of the blockchain that lets you create and run smart contracts that then run on the blockchain. Unfortunately it has [too high fees compared to any other proper PoS chain](https://twitter.com/austerity_sucks/status/1457064593591840773).
 
 ## Notes
 

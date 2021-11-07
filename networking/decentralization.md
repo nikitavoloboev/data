@@ -108,3 +108,4 @@
 - [Criticizing Web 3 focus on money making (2021)](https://twitter.com/Foone/status/1455601328479092739)
 - [Web 3 summary](https://twitter.com/andymewborn/status/1455649863249498113)
 - [Which classic web property would make great sense re-imagined in web3 terms (token + DAO with community incentives) (2021)](https://twitter.com/sriramk/status/1457063383992176643)
+- [Fission](https://fission.codes/) - Bringing decentralized web tech to all devs by solving today’s challenges. ([Twitter](https://twitter.com/FISSIONcodes)) ([CLI & server](https://github.com/fission-suite/fission))

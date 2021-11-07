@@ -173,3 +173,4 @@
 - [Recoll](https://www.lesbonscomptes.com/recoll/) - Desktop full-text search tool. ([HN](https://news.ycombinator.com/item?id=28950947))
 - [Qdrant](https://qdrant.tech/) - Vector Search Engine. ([Code](https://github.com/qdrant/qdrant))
 - [Trie in JavaScript: the data structure behind autocomplete (2021)](https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete) ([HN](https://news.ycombinator.com/item?id=29078919))
+- [We need more boutique search engines (2021)](https://sariazout.mirror.xyz/7gSSTJ96SEyvXeljymglO3zN4H6DCgVnrNZq8_2NX1A) ([HN](https://news.ycombinator.com/item?id=29130017))

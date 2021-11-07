@@ -347,6 +347,7 @@
 - [SnapToScroll](https://github.com/swiftui-library/hstack-snap-to-scroll) - Easy-to-use HStack that snaps to elements on scroll.
 - [CodeEditor](https://github.com/ZeeZide/CodeEditor) - SwiftUI TextEditor View with syntax highlighting using Highlight.js.
 - [DropView](https://github.com/sbertix/DropView) - SwiftUI-based library to display alerts inspired by the Apple Pencil and pasteboard stock ones.
+- [Observable](https://github.com/cookednick/Observable) - Property wrapper type that creates an ObservableObject for just a single property.
 
 ## Test
 

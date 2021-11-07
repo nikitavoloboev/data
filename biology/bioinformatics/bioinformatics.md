@@ -171,3 +171,4 @@
 - [BioShape Lab](https://bioshape.ece.ucsb.edu/)
 - [Bioinformatics repository with more and newer packages](https://github.com/BioArchLinux/Packages)
 - [The History of Microbiology – A Personal Interpretation](https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648)
+- [SeqFu](https://github.com/telatin/seqfu2) - General-purpose program to manipulate and parse information from FASTA/FASTQ files, supporting gzipped input files.

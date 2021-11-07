@@ -45,3 +45,4 @@
 - [Slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers. ([Web](https://sli.dev/))
 - [Slidev for VSCode](https://github.com/slidevjs/slidev-vscode)
 - [Slides](https://github.com/maaslalani/slides) - Terminal based presentation tool.
+- [Excalideck](https://excalideck.com/) - Use Excalidraw to make slides. ([HN](https://news.ycombinator.com/item?id=29139581))

@@ -325,3 +325,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [The Stunning Grandeur of Soviet-Era Metros (2021)](https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html)
 - [Герой своего романа](https://iamhero.special.ink/)
 - [Пытки для Навального: кем его окружили в колонии, как компрометируют и ломают (2021)](https://www.youtube.com/watch?v=AWUsaUcd0I8&t=1s) ([Tweet](https://twitter.com/Kira_Yarmysh/status/1456170822410899458)) ([Tweet](https://twitter.com/team_milov/status/1456205700296847361)) ([Transcript](https://tvrain.ru/news/byvshie_zakljuchennye_pokrovskoj_kolonii_rasskazali_ob_izdevatelstvah_nad_navalnym-541267/))
+- [Куда в России можно сгонять, чтобы пожить рядом с горами](https://twitter.com/vzrosly_content/status/1457366581131059204)

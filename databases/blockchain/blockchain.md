@@ -166,7 +166,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Staking Facilities](https://stakingfacilities.com/) - Web 3.0 Infrastructure & Services.
 - [Rust in Blockchain](https://rustinblockchain.org/) ([Twitter](https://twitter.com/rust_blockchain))
 - [Loom Network](https://loomx.io/) - Production-Ready, Multichain Interop Platform for Serious Dapp Developers. ([GitHub](https://github.com/loomnetwork)) ([Code](https://github.com/loomnetwork/loomchain))
-- [Chainlink](https://chain.link/) - Blockchain Oracles for Connected Smart Contracts.
+- [Chainlink](https://chain.link/) - Blockchain Oracles for Connected Smart Contracts. ([Code](https://github.com/smartcontractkit/chainlink))
 - [What actually happens in cryptocurrency space (2021)](https://twitter.com/jonsyu/status/1389635626698297344)
 - [The Internet Computer Protocol (ICP)](https://github.com/dfinity/ic) - World’s first blockchain that runs at web speed and can increase its capacity without bound.
 - [Dan Guido - What the hell are the blockchain people doing & why isn't it a dumpster fire? (2021)](https://www.youtube.com/watch?v=wT-AmR7wtI8)

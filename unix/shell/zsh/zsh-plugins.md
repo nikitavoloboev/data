@@ -37,6 +37,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [Zsh Vi Mode](https://github.com/jeffreytse/zsh-vi-mode) - Better and friendly vi(vim) mode plugin for ZSH.
 - [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf.
 - [fzf-zsh-plugin](https://github.com/unixorn/fzf-zsh-plugin) - ZSH plugin enables using fzf to search your command history and do file searches.
+- [You Should Use](https://github.com/MichaelAquilina/zsh-you-should-use) - ZSH plugin that reminds you to use existing aliases for commands you just typed.
 
 ## Prompt
 

@@ -11,3 +11,4 @@
 - [Ogma](https://github.com/jmcdo29/ogma) - No-nonsense logger developed to make logging simple, and easy to read in development.
 - [Mapped Types](https://github.com/nestjs/mapped-types) - Configuration module for Nest framework.
 - [NestJS Shell](https://github.com/bmstefanski/nestjs-shell) - Interactive shell for NestJS which allows you to plug-in your custom commands and use them when the app's running.
+- [NestJS npm Library Template](https://github.com/bzuker/nestjs-library-template)

@@ -27,6 +27,7 @@
 - [youchoose](https://github.com/nathom/youchoose) - Lightweight terminal menu for Rust.
 - [Lexopt](https://github.com/blyxxyz/lexopt) - Minimalist pedantic command line parser.
 - [Tuikit](https://github.com/lotabout/tuikit) - Tool kit for writing TUI applications in Rust.
+- [argv](https://github.com/dtolnay/argv) - Command line arguments by reference.
 
 ## Web
 
@@ -362,6 +363,7 @@
 - [reflect](https://github.com/dtolnay/reflect) - Compile-time reflection API for developing robust procedural macros.
 - [parse-display](https://github.com/frozenlib/parse-display) - Procedural macro to implement Display and FromStr using common settings.
 - [Derivative](https://github.com/mcarton/rust-derivative) - Set of alternative `derive` attributes for Rust.
+- [enum-as-inner](https://github.com/bluejekyll/enum-as-inner) - Macros for deriving as functions to access Enums as their inner components.
 
 ## Math
 

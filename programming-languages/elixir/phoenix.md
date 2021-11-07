@@ -2,6 +2,10 @@
 
 > Productive web framework that does not compromise speed or maintainability.
 
+## Phoenix OSS apps
+
+- [Calendlex](https://github.com/bigardone/calendlex) - Simple Calendly clone with Phoenix LiveView.
+
 ## Links
 
 - [Surface](https://github.com/msaraiva/surface) - Server-side rendering component library for Phoenix.

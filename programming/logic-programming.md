@@ -17,4 +17,4 @@
 - [Leverage the Power of Logic Programming With Souffle-haskell (2021)](https://luctielen.com/videos/leverage_the_power_of_logic_programming/)
 - [Popper](https://github.com/logic-and-learning-lab/Popper) - Inductive logic programming (ILP) system.
 - [Inductive logic programming at 30 (2021)](https://arxiv.org/pdf/2102.10556.pdf)
-- [An Introduction to Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
+- [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt) ([HN](https://news.ycombinator.com/item?id=29139437))
