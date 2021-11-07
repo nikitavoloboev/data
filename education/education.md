@@ -9,6 +9,7 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [We have a system where everyone is forced to be educated, but no one is allowed to think, ever.](https://twitter.com/SamoBurja/status/1376585579115245568)
 - [The future of education isn't cohort-based courses.](https://twitter.com/tomosman/status/1382809955582021637)
 - [An honest reorganization of the school system would focus on food first, pleasant environments second, and "education" third.](https://twitter.com/simonsarris/status/1441442667225763851)
+- [Degrees are often expensive and correlate primarily with parental wealth rather than actual ability. Companies should not require them.](https://twitter.com/seldo/status/1457063811760812032)
 
 ## Links
 

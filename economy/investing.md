@@ -173,7 +173,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Historically it's way better to invest at market close than at market open, most gains occur overnight (2021)](https://www.reddit.com/r/investing/comments/lhtodm/historically_its_way_better_to_invest_at_market/)
 - [Investing 101: Risk by Chamath Palihapitiya (2020)](https://twitter.com/chamath/status/1308073763842351104)
 - [Buffett FAQ](http://buffettfaq.com/) - Compendium of Q&A sessions with Warren Buffett.
-- [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) - Awesome stock market terminal that has been developed for fun.
+- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Awesome stock market terminal that has been developed for fun.
 - [Are You Trading or Gambling? (2021)](https://investinglessons.substack.com/p/are-you-trading-or-gambling) ([HN](https://news.ycombinator.com/item?id=26283650))
 - [Investments you own that you believe have the highest chance of 10X'ing in 5-10 years (2021)](https://www.reddit.com/r/investing/comments/lu6i2t/investments_you_own_that_you_believe_have_the/)
 - [M1 Chart](https://m1chart.com/) - Stock market adjusted for the US-dollar money supply. ([HN](https://news.ycombinator.com/item?id=26128388))

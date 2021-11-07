@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md)/[AVAX](https://www.avax.network/) are great distributed consensus systems for transacting assets and running code ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins ([Monero](monero.md)) to be most interesting use cases of crypto right now.
+I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md)/[AVAX](https://www.avax.network/)/[Dfinity](https://dfinity.org/) are great distributed consensus systems for transacting assets and running code ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins ([Monero](monero.md)) to be most interesting use cases of crypto right now.
 
 It's annoying that a lot of [people/projects use these distributed ledgers as ponzi schemes](https://twitter.com/eddyb_r/status/1451679543702478860) or still use super wasteful consensus system ([Bitcoin](bitcoin.md)).
 

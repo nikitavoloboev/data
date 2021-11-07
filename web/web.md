@@ -328,4 +328,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Building a multi-select component (2021)](https://web.dev/building-a-multi-select-component/)
 - [Stumbled](https://stumbled.to/stumble) - Greatest Sites of the Internet.
 - [Sharkle](https://sharkle.com/) - Generator of random awesomeness.
-- [An inside look into the illicit ad industry (2021)](https://ariadne.space/2021/11/04/an-inside-look-into-the-illicit-ad-industry/) ([HN](https://news.ycombinator.com/item?id=29120343))
+- [An inside look into the illicit ad industry (2021)](https://ariadne.space/2021/11/04/an-inside-look-into-the-illicit-ad-industry/) ([HN](https://news.ycombinator.com/item?id=29120343)) ([Lobsters](https://lobste.rs/s/yif3tc/inside_look_into_illicit_ad_industry))

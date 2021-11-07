@@ -37,3 +37,4 @@
 - [The Ultimate Topic List (with Resources, Problems and Templates)](https://codeforces.com/blog/entry/95106)
 - [Templates, algorithms and data structures implemented and collected for programming contests](https://github.com/ShahjalalShohag/code-library)
 - [Competitive Programming: Complete Guideline](https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline)
+- [Grind tracking](https://github.com/prius/learning) - Leetcode solutions, contests and some other algorithm-related stuff.

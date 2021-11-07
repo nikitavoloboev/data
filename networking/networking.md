@@ -336,3 +336,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Pathvector](https://github.com/natesales/pathvector) - Declarative edge routing platform that automates route optimization and control plane configuration with secure and repeatable routing policy. ([Web](https://pathvector.io/))
 - [inlets-on-fly](https://github.com/jsiebens/inlets-on-fly) - Automates the task of creating an inlets-pro exit-server (tunnel server) on the fly.io platform.
 - [Ask HN: Connect to the Internet the old way during next Ethiopian lockdown? (2021)](https://news.ycombinator.com/item?id=29129133)
+- [“Illegal” Moscow state university network built by students (2002-2013)](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9) ([HN](https://news.ycombinator.com/item?id=29135056))
