@@ -17,3 +17,4 @@
 - [It's tough being an Azure fan (2021)](https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan/) ([HN](https://news.ycombinator.com/item?id=28617663))
 - [Azure Machine Learning Python SDK notebooks](https://github.com/Azure/MachineLearningNotebooks)
 - [Azure Container Apps](https://azure.microsoft.com/en-us/services/container-apps/) - Easily deploy container microservices. ([Tweet](https://twitter.com/kelseyhightower/status/1455575229107826688))
+- [Language server for Azure Pipelines YAML](https://github.com/microsoft/azure-pipelines-language-server)

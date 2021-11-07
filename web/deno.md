@@ -141,3 +141,4 @@
 - [Deno Deploy Projects](https://dash.deno.com/projects)
 - [Deno Deploy Demo: a multi-datacenter chat, client+server in 23 lines of TS](https://dash.deno.com/playground/mini-ws-chat) ([HN](https://news.ycombinator.com/item?id=29131751)) ([Annotated](https://til.simonwillison.net/deno/annotated-deno-deploy-demo))
 - [Deno Deploy Beta 3 (2021)](https://deno.com/blog/deploy-beta3/) ([HN](https://news.ycombinator.com/item?id=29032816))
+- [Denoflare](https://denoflare.dev/) - Develop, test, and deploy Cloudflare Workers with Deno. ([Code](https://github.com/skymethod/denoflare)) ([HN](https://news.ycombinator.com/item?id=29142772))

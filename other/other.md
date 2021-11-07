@@ -548,3 +548,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Staff Engineer's Path Book](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
 - [Track Awesome List](https://www.trackawesomelist.com/) - Track your Favorite Github Awesome Repo.
 - [daily.dev](https://daily.dev/) - Homepage Every Developer Deserves. ([Code](https://github.com/dailydotdev/daily))
+- [Awesome GraphViz](https://github.com/CodeFreezr/awesome-graphviz)

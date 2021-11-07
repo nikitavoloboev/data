@@ -23,6 +23,7 @@
 - [Nice wooden room](https://twitter.com/dimillian/status/1438159663925800965)
 - [A. Quincy Jones home in Laurel Canyon](https://twitter.com/tylerwatamanuk/status/1445444405381320712)
 - [Nice kitchen](https://twitter.com/kelseymwhelan/status/1447229740725661709)
+- [Inside Vanessa Hudgens's Enchanting L.A. Home](https://www.youtube.com/watch?v=Axg27gwEqCE)
 
 ## Links
 

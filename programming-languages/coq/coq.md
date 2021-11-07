@@ -86,3 +86,4 @@
 - [Sniper](https://github.com/smtcoq/sniper) - Coq plugin that provides a new Coq tactic, snipe, that provides general proof automation.
 - [SMTCoq](https://github.com/smtcoq/smtcoq) - Communication between Coq and SAT/SMT solvers.
 - [TLC](https://github.com/charguer/tlc) - Library for Classical Coq.
+- [Formalization of some elementary mathematical theories in Coq](https://github.com/ivashkev/math-formalizations)

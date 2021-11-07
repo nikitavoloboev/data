@@ -49,3 +49,4 @@
 - [Injecting environment variables into static websites using Nginx (2021)](https://www.innoq.com/de/blog/nginx-ssi-env/) ([HN](https://news.ycombinator.com/item?id=28703680))
 - [NGINXpy](https://github.com/decentfox/nginxpy) - Embed Python in NGINX.
 - [The Architecture of Open Source Applications: Nginx (2012)](https://aosabook.org/en/nginx.html) ([HN](https://news.ycombinator.com/item?id=29088134))
+- [OpenResty](https://github.com/openresty/openresty) - Turning Nginx into a Full-Fledged Scriptable Web Platform.
