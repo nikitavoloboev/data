@@ -138,7 +138,7 @@
 - [Ask HN: What Are You Learning? (2021)](https://news.ycombinator.com/item?id=27627381)
 - [Code House](https://codehouse.vercel.app/) - Store House of 300+ Developer Cheatsheets.
 - [Learners](https://learn.rs/) - Learn fast with peer to peer community mentoring.
-- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) ([HN](https://news.ycombinator.com/item?id=27882895))
+- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) ([HN](https://news.ycombinator.com/item?id=27882895)) ([HN](https://news.ycombinator.com/item?id=29116026))
 - [Primer](https://primerlabs.io/) - Conversational Courses to learn on your own. ([HN](https://news.ycombinator.com/item?id=27884189))
 - [What Everyone in Tech Should Know About Teaching and Learning (2021)](https://www.youtube.com/watch?v=ewXvFQByRqY)
 - [Teaching Tech Together (2019)](https://teachtogether.tech/en/index.html) ([HN](https://news.ycombinator.com/item?id=27902459))

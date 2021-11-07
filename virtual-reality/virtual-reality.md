@@ -55,3 +55,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [The metaverse is bullshit (2021)](https://outline.com/DUdr8Y) ([HN](https://news.ycombinator.com/item?id=29045930))
 - [Billionaires See VR as a Way to Avoid Radical Social Change (2021)](https://www.wired.com/story/billionaires-use-vr-avoid-social-change/) ([Tweet](https://twitter.com/JoshuaPotash/status/1454128902687928331))
 - [Inevitabilities in Facebook’s Meta play: exploitation, crime, regulation](https://twitter.com/juliapowles/status/1454819169078177793)
+- [Ask HN: How is the “metaverse” concept different from the Second Life boom (2021)](https://news.ycombinator.com/item?id=29136478)

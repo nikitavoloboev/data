@@ -115,3 +115,4 @@
 - [Solving the Right Problems for Engine Programmers - Mike Acton (2017)](https://www.youtube.com/watch?v=4B00hV3wmMY)
 - [A Deep Dive into Nanite Virtualized Geometry (2021)](http://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf) ([Lobsters](https://lobste.rs/s/i2vpnd/deep_dive_into_nanite_virtualized))
 - [Game Engines on Steam: The Definitive Breakdown (2021)](https://www.gamedeveloper.com/business/game-engines-on-steam-the-definitive-breakdown) ([HN](https://news.ycombinator.com/item?id=28394818))
+- [How does a Game Engine work? An Overview (2016)](https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine) ([HN](https://news.ycombinator.com/item?id=29136429))

@@ -139,4 +139,4 @@
 - [deno_ast](https://github.com/denoland/deno_ast) - Source text parsing, lexing, and AST related functionality for Deno.
 - [dnt](https://github.com/denoland/dnt) - Deno to Node Transform.
 - [Deno Deploy Projects](https://dash.deno.com/projects)
-- [Deno Deploy Demo: a multi-datacenter chat, client+server in 23 lines of TS](https://dash.deno.com/playground/mini-ws-chat) ([HN](https://news.ycombinator.com/item?id=29131751))
+- [Deno Deploy Demo: a multi-datacenter chat, client+server in 23 lines of TS](https://dash.deno.com/playground/mini-ws-chat) ([HN](https://news.ycombinator.com/item?id=29131751)) ([Annotated](https://til.simonwillison.net/deno/annotated-deno-deploy-demo))

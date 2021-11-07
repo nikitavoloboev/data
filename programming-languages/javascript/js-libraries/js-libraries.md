@@ -678,3 +678,4 @@
 - [Depp](https://github.com/CryogenicPlanet/depp) - Check your npm modules for unused and duplicate dependencies fast.
 - [Ask HN: How do you (security) audit external software using NPM packages? (2021)](https://news.ycombinator.com/item?id=29078836)
 - [npm install is curl (2021)](https://btao.org/2021/09/09/npm-install-is-curl-bash/) ([Lobsters](https://lobste.rs/s/wf3piq/npm_install_is_curl_bash))
+- [ES Modules Are Terrible](https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3) ([HN](https://news.ycombinator.com/item?id=29137663))

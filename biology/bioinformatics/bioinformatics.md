@@ -170,3 +170,4 @@
 - [Awesome Bioinformatics Formats](https://github.com/kmhernan/awesome-bioinformatics-formats)
 - [BioShape Lab](https://bioshape.ece.ucsb.edu/)
 - [Bioinformatics repository with more and newer packages](https://github.com/BioArchLinux/Packages)
+- [The History of Microbiology – A Personal Interpretation](https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648)
