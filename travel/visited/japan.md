@@ -53,5 +53,5 @@
 - [Orthographic Gradients to Learn the Kanji (2021)](https://japanesecomplete.com/articles/?p=1512)
 - [Intuition for Japanese](https://japanesecomplete.com/articles/) - Learn Japanese, avoid the Struggle.
 - [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/) ([HN](https://news.ycombinator.com/item?id=29022906))
-- [Why Tokyo Works (2021)](https://metropolisjapan.com/why-tokyo-works/)
+- [Why Tokyo Works (2021)](https://metropolisjapan.com/why-tokyo-works/) ([HN](https://news.ycombinator.com/item?id=29134481))
 - [Metropolis Japan](https://metropolisjapan.com/)

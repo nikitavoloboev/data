@@ -309,3 +309,4 @@
 - [GitHub Actions Exporter](https://github.com/cpanato/github_actions_exporter) - Prometheus exporter exposing GitHub Actions metrics.
 - [Collaborative programming environment inside GitHub Actions](https://github.com/jstrieb/ctf-collab)
 - [auto-doc](https://github.com/tj-actions/auto-doc) - Auto generate documentation from actions.yml.
+- [go-actions-cache](https://github.com/tonistiigi/go-actions-cache)

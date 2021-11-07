@@ -110,3 +110,4 @@
 - [Learn Quantum Computing with Python and Q# (2021)](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp)
 - [Why do we need Q# (2018)](https://devblogs.microsoft.com/qsharp/why-do-we-need-q/)
 - [Favorite way to explain quantum computers to a layperson (2021)](https://twitter.com/AnnaGHughes/status/1455538667301179392)
+- [Quantum Programming Languages and Verification Literature Bibliography](https://quantumpl.github.io/bib/) ([Code](https://github.com/QuantumPL/bib))

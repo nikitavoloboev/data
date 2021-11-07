@@ -215,3 +215,4 @@
 - [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Unified Deep Learning System for Large-Scale Parallel Training. ([Docs](https://www.colossalai.org/))
 - [XManager](https://github.com/deepmind/xmanager) - Framework for managing machine learning experiments.
 - [T5X](https://github.com/google-research/t5x) - Modular, composable, research-friendly framework for high-performance, configurable, self-service training.
+- [mlinspect](https://github.com/stefan-grafberger/mlinspect) - Inspect ML Pipelines in Python in the form of a DAG.

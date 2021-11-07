@@ -155,3 +155,4 @@
 - [Docker Compose Specification](https://compose-spec.io/) ([Code](https://github.com/compose-spec/compose-ref))
 - [Containernet](https://github.com/containernet/containernet) - Mininet fork adding support for container-based (e.g. Docker) emulated hosts. ([Web](https://containernet.github.io/))
 - [From Docker Container to Bootable Linux Disk Image (2021)](https://iximiuz.com/en/posts/from-docker-container-to-bootable-linux-disk-image/) ([Code](https://github.com/iximiuz/docker-to-linux))
+- [go-dockerfile](https://github.com/dekkagaijin/go-dockerfile) - Utilities for interacting with Dockerfiles.

@@ -117,3 +117,4 @@
 - [splitflap](https://github.com/otherjoel/splitflap) - RSS / Atom feed generation library for Racket.
 - [The Arsse](https://thearsse.com/) - Clean & modern RSS server that doesn’t give you any crap. ([Code](https://github.com/mensbeam/arsse))
 - [RSS Discovery Engine](https://rdengine.herokuapp.com/) - Encourage people to use RSS for finding and consuming their news and current events. ([Code](https://github.com/quakkels/rssdiscoveryengine))
+- [DecSync (Decentralized Synchronization)](https://github.com/39aldo39/DecSync) - Synchronize RSS, contacts, calendars, tasks and more without a server.
