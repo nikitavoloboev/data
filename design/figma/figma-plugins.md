@@ -65,3 +65,4 @@
 - [Device Models](https://www.figma.com/community/plugin/906973799344127422/Device-Models) - Create 3D device mockups from your layers in Figma. Choose a model, set a camera angle, and change device color. ([Code](https://github.com/CodyJasonBennett/device-models))
 - [Figma interface language: Grammar](https://github.com/parkerhendo/figma-interface-language) - Simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
 - [fig-gen](https://github.com/iamnbutler/fig-gen) - Figma Automator actions that create generative visuals.
+- [Automating Figma - Building a general purpose tool to automate Figma (2021)](https://ibuildmyideas.substack.com/p/automating-figma)

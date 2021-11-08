@@ -169,3 +169,4 @@
 - [Efficient Recursive Levenshtein (Edit) Distance Algorithm](https://www.occasionalenthusiast.com/efficient-recursive-levenshtein-edit-distance-algorithm/) ([Lobsters](https://lobste.rs/s/ubi3eh/efficient_recursive_levenshtein_edit))
 - [Moldable Emacs: a Clojure Playground with Babashka (2021)](https://ag91.github.io/blog/2021/11/05/moldable-emacs-a-clojure-playground-with-babashka/)
 - [Clojure Experience Report (2020)](https://www.collicutt.co.uk/notebook/clojure_experience.html)
+- [Writing a Clojure highlighter from scratch (2021)](https://blog.michielborkent.nl/writing-clojure-highlighter.html)

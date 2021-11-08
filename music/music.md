@@ -162,3 +162,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Universal Music Group: The Gatekeepers of Music (2021)](https://www.joincolossus.com/episodes/25864787/gokgol-kline-universal-music-group-the-gatekeepers-of-music?tab=blocks)
 - [Audius](https://audius.co/) - Fully decentralized music streaming protocol. ([Discord](https://discord.com/invite/audius)) ([Twitter](https://twitter.com/audiusproject))
 - [What's on your On Repeat Spotify playlist](https://twitter.com/ellenkorbes/status/1453811828069388296/photo/2)
+- [Musidex](https://github.com/Uriopass/Musidex) - Your musical pokedex, Plex for music.
