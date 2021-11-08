@@ -66,3 +66,5 @@
 - [substrate-stencil](https://github.com/kaichaosun/substrate-stencil) - Template for kick starting a Substrate based PoS chain.
 - [protocol-substrate](https://github.com/webb-tools/protocol-substrate) - Webb protocol implementation in Substrate.
 - [filecoindot](https://github.com/ChainSafe/filecoindot) - Filecoin to substrate bridge.
+- [Talisman](https://app.talisman.xyz/portfolio) - Polkadot, Kusama & Parachain dashboard for the community. ([Web Code](https://github.com/TalismanSociety/talisman-web))
+- [Kusama](https://kusama.network/) - Polkadot's Canary Network.

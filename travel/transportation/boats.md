@@ -18,3 +18,4 @@
 - [Autonomous Boats Seem More Solvable Than Autonomous Cars (2021)](https://spectrum.ieee.org/mit-robot-boats) ([HN](https://news.ycombinator.com/item?id=29024204))
 - [MIT deploys autonomous Roboat on canals of Amsterdam (2021)](https://news.mit.edu/2021/autonomous-taxi-roboats-1027) ([HN](https://news.ycombinator.com/item?id=29023983))
 - [How hard can it be to design a self-driving boat for inland shipping? (2020)](https://thomas.toye.io/posts/self-driving-boat/) ([HN](https://news.ycombinator.com/item?id=29024748))
+- [A situational awareness system to make seafaring safer, one vessel at a time (2021)](https://aqworks.com/en/work/groke/)

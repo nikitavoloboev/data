@@ -4,6 +4,8 @@ I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockch
 
 It's annoying that a lot of [people/projects use these distributed ledgers as ponzi schemes](https://twitter.com/eddyb_r/status/1451679543702478860) or still use super wasteful consensus system ([Bitcoin](bitcoin.md)).
 
+I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchange that lets me trade between FIAT/crypto.
+
 ## Interesting
 
 - [Nano](nano.md) - Peer-to-peer digital currency with fast & cheap transactions. ([Benefits of Nano](https://www.reddit.com/r/nanocurrency/comments/ksz0hi/all_the_benefits_of_nano_summarized/))

@@ -2,7 +2,7 @@
 
 > Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. [Stake my SOL](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) ([tutorial](https://www.youtube.com/watch?v=GNgSzJ4KxZg)) with [Marinade](https://marinade.finance/app/staking) & [Phantom Wallet](https://phantom.app/). mSOL I get from Marinade is [pooled](https://www.youtube.com/watch?v=cizLhxSKrAc&t=32s) with [Orca](https://www.orca.so/).
+Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. [Stake my SOL](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) (bought with [FTX](https://ftx.com/referrals#a=58425911)) ([tutorial](https://www.youtube.com/watch?v=GNgSzJ4KxZg)) with [Marinade](https://marinade.finance/app/staking) & [Phantom Wallet](https://phantom.app/). mSOL I get from Marinade is [pooled](https://www.youtube.com/watch?v=cizLhxSKrAc&t=32s) with [Orca](https://www.orca.so/).
 
 ## Apps
 
