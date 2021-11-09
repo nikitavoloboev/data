@@ -355,3 +355,4 @@
 - [Zenith](https://github.com/zenithdb/zenith) - Substitutes PostgreSQL storage layer and redistributes data across a cluster of nodes.
 - [The LZ4 introduced in PostgreSQL 14 provides faster compression (2021)](https://www.postgresql.fastware.com/blog/what-is-the-new-lz4-toast-compression-in-postgresql-14) ([HN](https://news.ycombinator.com/item?id=29147656))
 - [Lesser Known PostgreSQL Features (2021)](https://hakibenita.com/postgresql-unknown-features) ([Lobsters](https://lobste.rs/s/rhrj2z/lesser_known_postgresql_features)) ([HN](https://news.ycombinator.com/item?id=29163319))
+- [pg_probackup](https://github.com/postgrespro/pg_probackup) - Backup and recovery manager for PostgreSQL. ([Docs](https://postgrespro.github.io/pg_probackup/))

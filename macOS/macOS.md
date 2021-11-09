@@ -210,3 +210,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
 - [diskspace](https://github.com/scriptingosx/diskspace) - macOS command line tool to return the available disk space on APFS volumes.
 - [PlayCover](https://github.com/iVoider/PlayCover) - Run iOS apps & games on M1 Mac with mouse, keyboard and controller support.
+- [Sideload iOS apps regardless of security settings](https://github.com/EricRabil/m1-ios-sideloader)

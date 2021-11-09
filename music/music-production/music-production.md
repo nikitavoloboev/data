@@ -276,3 +276,4 @@
 - [SMS Tools](https://github.com/MTG/sms-tools) - Sound analysis/synthesis tools for music applications. ([Web](https://www.upf.edu/web/mtg/sms-tools))
 - [Audiomate](https://github.com/ynop/audiomate) - Python library for handling audio datasets.
 - [Interactive music co-creation with PyTorch and TensorFlow.js](https://github.com/chrisdonahue/music-cocreation-tutorial)
+- [Scales, Chords, and Cadences: Practical Music Theory for MIR Researchers](https://github.com/jcdevaney/ISMIR-musicTheoryTutorial)
