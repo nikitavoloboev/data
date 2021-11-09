@@ -145,3 +145,4 @@
 - [What I Look for in Interviews (2021)](https://mt165.co.uk/blog/how-i-interview/)
 - [Interviewing Advice from the Other Side of the Table (2020)](https://theorangeduck.com/page/interviewing-advice-from-other-side-table)
 - [Notes on interviewing candidates](https://www.remnote.com/a/interview/617fc61068286e00169b947a)
+- [Don’t do interviews, do discussions](https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions) ([HN](https://news.ycombinator.com/item?id=29141983))

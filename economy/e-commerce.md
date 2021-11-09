@@ -85,7 +85,7 @@
 - [Jam Pony Delivery](https://www.jampony.delivery/) - Help Small Businesses Keep 100% of Their Revenue.
 - [Vendure](https://github.com/vendure-ecommerce/vendure) - Modern, headless GraphQL-based e-commerce framework built with TypeScript & NodeJS. ([Web](https://www.vendure.io/))
 - [Shopify CLI](https://github.com/Shopify/shopify-cli) - Helps you build Shopify themes and apps.
-- [Hydrogen](https://shopify.dev/hydrogen) - Build custom storefronts faster and easier than ever powered by Shopify.
+- [Hydrogen](https://shopify.dev/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts. ([Code](https://github.com/Shopify/hydrogen)) ([Examples](https://github.com/Shopify/hydrogen-examples))
 - [Tailwind Ecommerce CSS UI Components](https://tailwindui.com/ecommerce)
 - [Dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [Swipe E-Commerce](https://cogentgene1.gumroad.com/#oDkcG) - Increase conversions, average order value and customer lifetime value.
@@ -114,3 +114,4 @@
 - [E-commerce prototyping with Hasura and CartQL (2021)](https://www.youtube.com/watch?v=r5_muFvMcvc)
 - [Headless Dropshipping Starter](https://github.com/notrab/headless-dropshipping-starter) - Create your own dropshipping store with Next.js, Snipcart & Printful.
 - [Custom Cart With Shopify Storefront API (2021)](https://www.youtube.com/watch?v=FJOJmKFngLI&list=PLz8Iz-Fnk_eRnX8lBMTwpM4XDLFZHmtyq)
+- [next-shopify](https://github.com/basementstudio/next-shopify) - Context, a hook, and an API route handler, to manage a Shopify Storefront in your Next.js app.

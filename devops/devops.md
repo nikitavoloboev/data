@@ -103,3 +103,4 @@
 - [Smallstep](https://smallstep.com/) - Automated Certificate Management for DevOps. ([GitHub](https://github.com/smallstep))
 - [Learn-by-Doing Platforms for Dev, DevOps, and SRE Folks (2021)](https://iximiuz.com/en/posts/learn-by-doing-platforms/)
 - [StackStorm](https://stackstorm.com/) - Platform for integration and automation across services and tools, taking actions in response to events. ([Code](https://github.com/StackStorm/st2))
+- [Grafana OnCall](https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/) - Easy-to-use on-call management tool. ([HN](https://news.ycombinator.com/item?id=29164386))

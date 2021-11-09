@@ -47,3 +47,5 @@
 - [Local Emulator for Google Cloud Storage](https://github.com/oittaa/gcp-storage-emulator)
 - [csi-gcs](https://github.com/ofek/csi-gcs) - Kubernetes CSI driver for Google Cloud Storage.
 - [Google Cloud Build Local Builder](https://github.com/GoogleCloudPlatform/cloud-build-local)
+- [cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp)
+- [Push to GCR GitHub Action](https://github.com/RafikFarhad/push-to-gcr-github-action)

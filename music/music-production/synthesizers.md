@@ -37,3 +37,4 @@
 - [Oskitone](https://www.oskitone.com/) - DIY Synthesizers. ([GitHub](https://github.com/oskitone))
 - [The Signal State](https://signalstate.io/) - Game about making modular synths. ([Tweet](https://twitter.com/notch/status/1449855636842311680))
 - [I built an analog synthesizer from scratch. Here is how I did it. (2021)](https://www.youtube.com/watch?v=PATlf0W3m7k)
+- [OctaSine](https://github.com/greatest-ape/OctaSine) - VST2 frequency modulation synthesizer written in Rust.

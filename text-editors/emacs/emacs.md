@@ -97,3 +97,4 @@ Might give it a go sometime.
 - [The Animated Guide to Symex (Emacs Structural Editing with Lisp) (2021)](https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/)
 - [Building an Emacs lisp VM in Rust (2021)](https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/)
 - [Making Emacs Popular Again (2020)](https://lwn.net/Articles/819452/) ([HN](https://news.ycombinator.com/item?id=29105032))
+- [Hacking your way around in Emacs (2021)](https://leanpub.com/hacking-your-way-emacs/) ([Article](http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished)) ([HN](https://news.ycombinator.com/item?id=29157859))

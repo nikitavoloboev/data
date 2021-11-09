@@ -75,3 +75,4 @@
 - [A New AI Lexicon: Voice (2021)](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-voice-340316c30d87) - The Legacies and Limits of Automated Voice Analysis.
 - [Octopus](https://github.com/Picovoice/octopus) - On-device speech-to-index engine powered by deep learning.
 - [Open Audio Search](https://github.com/openaudiosearch/openaudiosearch) - Full text search engine with automatic speech recognition for podcasts.
+- [HuBERT: How to Apply BERT to Speech, Visually Explained (2021)](https://jonathanbgn.com/2021/10/30/hubert-visually-explained.html)

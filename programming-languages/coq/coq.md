@@ -87,3 +87,5 @@
 - [SMTCoq](https://github.com/smtcoq/smtcoq) - Communication between Coq and SAT/SMT solvers.
 - [TLC](https://github.com/charguer/tlc) - Library for Classical Coq.
 - [Formalization of some elementary mathematical theories in Coq](https://github.com/ivashkev/math-formalizations)
+- [Stable sort algorithms in Coq](https://github.com/pi8027/stablesort)
+- [CertiCoq](https://github.com/CertiCoq/certicoq) - Compiler for Gallina, the specification language of the Coq proof assistant.

@@ -66,3 +66,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Tesla's values (2021)](https://twitter.com/MichaelRihani/status/1441854910442586118)
 - [1 Year of Coinbase as a mission focused company (2021)](https://twitter.com/brian_armstrong/status/1443727729476530178) ([HN](https://news.ycombinator.com/item?id=28802438))
 - [Культура в Злых марсианах (2021)](https://www.facebook.com/anton.lovchikov/posts/10226811497938112)
+- [Culturally transmitted skills and values](https://danluu.com/culture/) ([HN](https://news.ycombinator.com/item?id=29155502))

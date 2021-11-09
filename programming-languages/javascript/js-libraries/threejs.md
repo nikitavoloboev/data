@@ -68,3 +68,4 @@
 - [THREE-CSGMesh](https://github.com/manthrax/THREE-CSGMesh) - Conversion of a CSG library for use with modern THREE.js.
 - [three-csg-ts](https://github.com/Jiro-Digital/three-csg-ts) - CSG library for use with THREE.js
 - [THREE.js-PathTracing-Renderer](https://github.com/erichlof/THREE.js-PathTracing-Renderer) - Real-time PathTracing with global illumination and progressive rendering.
+- [Ombra](https://github.com/gsimone/ombra) - Collection of shader-related utilities for react-three-fiber.

@@ -99,3 +99,4 @@
 - [How to use MetaOCaml with Dune](https://github.com/fpottier/metaocaml-hello-world)
 - [Fromager](https://github.com/mimoo/fromager) - Format your OCaml code.
 - [GADTs - Real World OCaml](https://dev.realworldocaml.org/gadts.html) ([Tweet](https://twitter.com/yminsky/status/1456745330104492045))
+- [Exercism exercises in OCaml](https://exercism.org/tracks/ocaml) ([Code](https://github.com/exercism/ocaml))

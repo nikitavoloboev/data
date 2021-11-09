@@ -94,7 +94,7 @@
 - [Fast Autocomplete Search for Your Website (2018)](https://24ways.org/2018/fast-autocomplete-search-for-your-website/)
 - [Whoogle Search](https://benbusby.com/projects/whoogle-search/) - Self hosted, ad-free, privacy-respecting Google metasearch engine. ([Code](https://github.com/benbusby/whoogle-search)) ([HN](https://news.ycombinator.com/item?id=28326180))
 - [Mojeek](https://www.mojeek.com/) - Alternative search engine that puts the people who use it first. Uses independent web spider. ([HN](https://news.ycombinator.com/item?id=25372401))
-- [You.com](https://you.com/) - Trusted Search.
+- [You.com](https://you.com/) - Private search engine that summarizes the web – built for devs. ([HN](https://news.ycombinator.com/item?id=29165601)) ([Tweet](https://twitter.com/RichardSocher/status/1458096982287917071))
 - [Devbook](https://usedevbook.com/) - Search Engine for Developers. ([HN](https://news.ycombinator.com/item?id=25394567))
 - [Building a Better Search Engine for Semantic Scholar (2020)](https://medium.com/ai2-blog/building-a-better-search-engine-for-semantic-scholar-ea23a0b661e7)
 - [Google's Search Quality Evaluation Guidelines](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
@@ -123,7 +123,7 @@
 - [OpenGameArt Search + Reverse Image Search](https://emh.lart.no/ogasearch/) - Reverse image search for pixel art. ([Code](https://github.com/emnh/PixelArtSearch)) ([HN](https://news.ycombinator.com/item?id=26735700))
 - [RapidFuzz](https://github.com/maxbachmann/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics.
 - [Dedupe Python Library](https://github.com/dedupeio/dedupe) - Python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.
-- [Weaviate](https://github.com/semi-technologies/weaviate) - Cloud-native, modular, real-time vector search engine.
+- [Weaviate](https://github.com/semi-technologies/weaviate) - Cloud-native, modular, real-time vector search engine. ([Docs](https://www.semi.technology/developers/weaviate/current/)) ([Awesome](https://github.com/semi-technologies/awesome-weaviate))
 - [Internet Search Tips](https://www.gwern.net/Search) - Description of advanced tips and tricks for effective Internet research of papers/books.
 - [Get better at Googling (2021)](https://markodenic.com/use-google-like-a-pro/) ([HN](https://news.ycombinator.com/item?id=26911629))
 - [Metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more.
@@ -175,3 +175,4 @@
 - [Trie in JavaScript: the data structure behind autocomplete (2021)](https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete) ([HN](https://news.ycombinator.com/item?id=29078919))
 - [We need more boutique search engines (2021)](https://sariazout.mirror.xyz/7gSSTJ96SEyvXeljymglO3zN4H6DCgVnrNZq8_2NX1A) ([HN](https://news.ycombinator.com/item?id=29130017))
 - [liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser and search engine.
+- [Zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.

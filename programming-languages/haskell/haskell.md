@@ -334,3 +334,5 @@
 - [Explanation of eliminating left recursion in Haskell parsers](https://github.com/glebec/left-recursion)
 - [Using Haskell for scientific computing (2021)](https://twitter.com/Electricfire13/status/1455947842690830339)
 - [Why Co–Star Uses Haskell](https://www.costarastrology.com/why-haskell) ([HN](https://news.ycombinator.com/item?id=29119787))
+- [Simple, type-safe string formatting in Haskell (2021)](https://danso.ca/blog/type-safe-printf/)
+- [Hard things to figure out in Haskell (2021)](https://twitter.com/trupill/status/1454871730888093698)

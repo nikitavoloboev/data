@@ -80,6 +80,7 @@
 - [SimpleX chat](https://simplex.chat/) - Private, decentralized, no global identities. ([Code](https://github.com/simplex-chat/simplex-chat)) ([GitHub](https://github.com/simplex-chat))
 - [The Defiant](https://thedefiant.io/) - Defi News, Daily Briefings, DeFi Interviews and Defi Recaps.
 - [Helium](https://www.helium.com/) - Peer-to-peer wireless network. ([Twitter](https://twitter.com/helium)) ([Summary](https://twitter.com/MessariCrypto/status/1438512856199139336)) ([GitHub](https://github.com/helium))
+- [Helium Vote](https://heliumvote.com/) - Straw poll website that enables a simple straw-poll for Helium related initiatives. ([Code](https://github.com/helium/helium-vote)) ([Tweet](https://twitter.com/helium/status/1458072811512086531))
 - [Helium Gateway](https://github.com/helium/gateway-rs) - Service designed to run on Linux-based LoRaWAN gateways.
 - [Lokinet](https://github.com/oxen-io/lokinet) - Anonymous, decentralized and IP based overlay network for the internet. ([Web](https://lokinet.org/))
 - [Project Liberty](https://www.projectliberty.io/) - Building a more equitable civic architecture for the next generation of the web. ([GitHub](https://github.com/LibertyDSNP))
@@ -109,3 +110,4 @@
 - [Web 3 summary](https://twitter.com/andymewborn/status/1455649863249498113)
 - [Which classic web property would make great sense re-imagined in web3 terms (token + DAO with community incentives) (2021)](https://twitter.com/sriramk/status/1457063383992176643)
 - [Fission](https://fission.codes/) - Bringing decentralized web tech to all devs by solving today’s challenges. ([Twitter](https://twitter.com/FISSIONcodes)) ([CLI & server](https://github.com/fission-suite/fission))
+- [Web3 Ecosystem Overview (2021)](https://twitter.com/yb_effect/status/1458129586428932103)

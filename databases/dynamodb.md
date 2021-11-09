@@ -8,6 +8,7 @@
 
 ## Links
 
+- [Dynamo: Amazon’s Highly Available Key-value Store (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 - [Intro to Dynamo](https://gist.github.com/jlafon/d8f91086e3d00c4bff3b)
 - [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB.
 - [SQL, NoSQL, and Scale: How DynamoDB scales where relational databases don't (2020)](https://www.alexdebrie.com/posts/dynamodb-no-bad-queries/)

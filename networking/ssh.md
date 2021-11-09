@@ -76,3 +76,5 @@
 - [SSH alternatives for mobile, low-latency or unreliable connections (2021)](https://console.dev/articles/ssh-alternatives-for-mobile-low-latency-unreliable-connections/) ([HN](https://news.ycombinator.com/item?id=29081008))
 - [signmykey](https://github.com/signmykeyio/signmykey) - Automated SSH Certificate Authority.
 - [ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings to libssh2, an ssh client library.
+- [Simple SSH Security (2021)](https://disknotifier.com/blog/simple-ssh-security/) ([HN](https://news.ycombinator.com/item?id=29153223))
+- [OpenSSH Guide](https://infosec.mozilla.org/guidelines/openssh)

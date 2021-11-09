@@ -141,3 +141,4 @@
 - [Productive tools for remote teams](https://github.com/CKGrafico/remote-teams)
 - [High Fidelity Remote Communication (2021)](https://olivierlacan.com/posts/high-fidelity-remote-communication/)
 - [The Future of Work at Cloudflare (2021)](https://blog.cloudflare.com/the-future-of-work-at-cloudflare/)
+- [Remote work will break the US monopoly on global talent (2021)](https://devonzuegel.com/post/remote-work-will-break-the-us-monopoly-on-talent) ([HN](https://news.ycombinator.com/item?id=29150674)) ([Tweet](https://twitter.com/devonzuegel/status/1457762388153966597))

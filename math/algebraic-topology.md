@@ -10,3 +10,4 @@
 - [Algebraic K-theory, combinatorial K-theory and geometry - Inna Zakharevich (2018)](https://www.youtube.com/watch?v=wEz7fCvK6sM)
 - [You Could Have Invented Homology (2021)](https://www.youtube.com/playlist?list=PLcaesJ30fdQ_qyizYsFvlm9LkJvj2CxxU)
 - [Computational Algebraic Topology Lecture Notes](http://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf)
+- [Proof that every polynomial of odd degree over the real numbers has a real root](https://twitter.com/niveknosdunk/status/1457799163735789569)

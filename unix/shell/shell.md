@@ -167,3 +167,4 @@ All active variables can be seen by running `env`.
 - [Stephen Bourne: Early days of Unix and design of sh (2015)](https://www.youtube.com/watch?v=2kEJoWfobpA)
 - [Anatomy of a Terminal Emulator (2021)](https://www.poor.dev/blog/terminal-anatomy/) ([HN](https://news.ycombinator.com/item?id=29080561))
 - [GNU Utility: envsubst](https://pradeepchhetri.xyz/til/envsubst/)
+- [shell.how](https://www.shell.how/) - Write down a command-line to see how it works. ([Code](https://github.com/phuctm97/shell.how))

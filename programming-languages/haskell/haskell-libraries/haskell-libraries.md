@@ -180,6 +180,7 @@
 - [lifted-async](https://github.com/maoe/lifted-async) - Run lifted IO operations asynchronously and wait for their results.
 - [Autodocodec](https://github.com/NorfairKing/autodocodec) - Self(auto)- documenting encoder and decoder.
 - [Vinyl](https://github.com/VinylRecords/Vinyl) - Extensible Records for Haskell.
+- [constraints-extras](https://github.com/obsidiansystems/constraints-extras) - Convenience functions and template haskell for working with constraints.
 
 ## Links
 
@@ -194,3 +195,5 @@
 - [Template for Haskell + Nix projects](https://github.com/jonascarpay/template-haskell)
 - [hackage-cli](https://github.com/hackage-trustees/hackage-cli) - CLI tool for Hackage.
 - [Haskell Cabal](https://www.haskell.org/cabal/) - System for building and packaging Haskell libraries and programs. ([Awesome](https://github.com/kowainik/awesome-cabal)) ([Code](https://github.com/haskell/cabal))
+- [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Awesome Haskell links, frameworks, libraries and software.
+- [Awesome Haskell 2](https://github.com/uhub/awesome-haskell)

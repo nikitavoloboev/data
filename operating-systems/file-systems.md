@@ -78,3 +78,4 @@
 - [ChubaoFS](https://github.com/chubaofs/chubaofs) - Cloud native distributed file system and object store.
 - [The Tree Structure of File Systems (2021)](https://fkohlgrueber.github.io/blog/tree-structure-of-file-systems/) ([Lobsters](https://lobste.rs/s/ydno8w/tree_structure_file_systems))
 - [Designing better file organization around tags, not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies) ([HN](https://news.ycombinator.com/item?id=29141800))
+- [We saved millions in SSD costs by upgrading our filesystem (2021)](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem) ([HN](https://news.ycombinator.com/item?id=29164727))

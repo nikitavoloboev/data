@@ -54,6 +54,7 @@
 - [gfx](https://github.com/gboisse/gfx) - Minimalist and easy to use graphics API built on top of Direct3D12/HLSL intended for rapid prototyping.
 - [bigger](https://github.com/yuki-koyama/bigger) - Prototype-oriented middleware library for 3D interactive applications.
 - [Treexy](https://github.com/facontidavide/Treexy) - Brutally fast, sparse, 3D Voxel Grid.
+- [neoGFX](https://github.com/i42output/neoGFX) - Cross-platform GPU-oriented C++ application/game framework. ([Web](https://neogfx.org/))
 
 ## DB
 
@@ -272,6 +273,9 @@
 - [Marius](https://github.com/marius-team/marius) - Large scale embeddings on a single machine.
 - [Compute Library](https://github.com/ARM-software/ComputeLibrary) - Set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ahsohtoa](https://github.com/celtera/ahsohtoa) - Structure-of-array synthesis in C++20.
+- [LIEF](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats.
+- [AStarix](https://github.com/eth-sri/astarix) - Fast and Optimal Sequence-to-Graph Aligner.
+- [dtl](https://github.com/cubicdaiya/dtl) - Diff template library written by C++.
 
 ## Links
 

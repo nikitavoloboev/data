@@ -181,6 +181,9 @@
 - [NativeScript plugins](https://github.com/NativeScript/plugins)
 - [Trie](https://github.com/shortwave/trie) - Fast trie implementation for TypeScript.
 - [Effect-TS](https://github.com/Effect-TS/query) - Efficient pipelining, batching, and caching to any data source (port of zio-query).
+- [Typanion](https://github.com/arcanis/typanion) - Static and runtime type assertion library with no dependencies.
+- [maath](https://github.com/pmndrs/maath) - Math helpers for the rest of us.
+- [Typed-Emitter](https://github.com/andywer/typed-emitter) - Strictly typed event emitter interface for TypeScript.
 
 ## Links
 
@@ -201,3 +204,5 @@
 - [bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for JavaScript/TypeScript/JSX library. ([Article](https://huozhi.im/post/create-a-zero-config-bundler))
 - [Generate readme from TypeScript](https://github.com/LinusU/ts-readme-generator) - Generate API documentation straight into the readme file from TypeScript typings.
 - [TSDX Monorepo Example/Playground](https://github.com/jaredpalmer/tsdx-monorepo)
+- [npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages.
+- [ts2ocaml](https://github.com/ocsigen/ts2ocaml) - Generate OCaml bindings from TypeScript definitions via the TypeScript compiler API.

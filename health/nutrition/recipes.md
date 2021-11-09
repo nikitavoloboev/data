@@ -69,3 +69,5 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [CookLang](https://cooklang.org/) - Recipe markup language. ([HN](https://news.ycombinator.com/item?id=28997309)) ([CookCLI](https://github.com/cooklang/CookCLI)) ([Community Recipes](https://github.com/cooklang/recipes)) ([Lobsters](https://lobste.rs/s/dihrpr/cooklang_recipe_markup_language))
 - [Collection of cooking recipes in JSON format generated using the recipebook application](https://github.com/dpapathanasiou/recipes)
 - [recipebook](https://github.com/dpapathanasiou/recipebook) - Simple application for scraping and parsing food recipe data found on the web in hRecipe format, producing results in JSON.
+- [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more. ([Docs](https://docs.tandoor.dev/)) ([Web](https://tandoor.dev/))
+- [Stovetop](https://stovetop.app/) - Recipe Search. ([HN](https://news.ycombinator.com/item?id=29161585))

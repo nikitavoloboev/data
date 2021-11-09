@@ -80,6 +80,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way.
 - [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing.
 - [NCM2](https://github.com/ncm2/ncm2) - Slim, Fast and Hackable Completion Framework for Neovim.
+- [nest.nvim](https://github.com/LionC/nest.nvim) - Neovim utility plugin to define keymaps in concise, readable, cascading lists and trees.
 - [Neoformat](https://github.com/sbdchd/neoformat) - Format code.
 - [Snippets](https://github.com/honza/vim-snippets) - Snippet files for various programming languages.
 - [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Next generation library for creating floating pickers with advanced features.

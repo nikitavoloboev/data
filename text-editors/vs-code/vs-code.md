@@ -66,3 +66,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [How OpenVSCode Server turns VS Code into a web IDE](https://sourcegraph.com/github.com/gitpod-io/openvscode-server/-/blob/docs/sourcedive.snb.md) ([HN](https://news.ycombinator.com/item?id=28685978))
 - [How We Made Bracket Pair Colorization 10,000x Faster (2021)](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization) ([HN](https://news.ycombinator.com/item?id=28692470)) ([Lobsters](https://lobste.rs/s/ujj1cu/how_we_made_bracket_pair_colorization_10)) ([Tweet](https://twitter.com/kmett/status/1443213748840325132))
 - [VSCode.dev](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev) - Online VSCode Editor. ([Article](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)) ([HN](https://news.ycombinator.com/item?id=28932206))
+- [Ask HN: Could VSCode be the new Emacs? (2021)](https://news.ycombinator.com/item?id=29159192)

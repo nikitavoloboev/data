@@ -134,3 +134,6 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [How to Anchor: An introduction to the Anchor Framework (2021)](https://www.youtube.com/watch?v=FmdPAwsqJC4)
 - [Sonar](https://sonar.watch/) - Track your Yield Farming and Liquidity Pool performance on Solana blockchain.
 - [Atrix](https://www.atrix.finance/) - Serum AMM that allows you to easily create liquidity pools and farms.
+- [RunNode.com](https://runnode.com/) - Fastest RPC Endpoints on Solana.
+- [Rendering the Metaverse on Solana (Jules Urbach - CEO, OTOY)](https://www.youtube.com/watch?v=mVFeohWusPU)
+- [Neon EVM](https://neon-labs.org/) - Enables dApp developers to use Ethereum tooling to scale and get access to liquidity on Solana. ([Docs](https://github.com/neonlabsorg/neon-evm.docs)) ([Code](https://github.com/neonlabsorg/neon-evm)) ([Twitter](https://twitter.com/neonlabsorg))

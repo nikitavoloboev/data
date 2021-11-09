@@ -591,3 +591,4 @@
 - [Get started with JAX](https://github.com/gordicaleksa/get-started-with-JAX) ([Videos](https://www.youtube.com/playlist?list=PLBoQnSflObckOARbMK9Lt98Id0AKcZurq))
 - [How does Jax allocate memory on a TPU? An interactive C++ walkthrough](https://gist.github.com/shawwn/0e524d4a7a5d8fb152a86616559cc02a) ([HN](https://news.ycombinator.com/item?id=29128998))
 - [Skyformer: Remodel Self-Attention with Gaussian Kernel and Nyström Method (2021)](https://arxiv.org/abs/2111.00035) ([Code](https://github.com/pkuzengqi/Skyformer))
+- [Introduction to Deep Learning (2021)](https://sebastianraschka.com/blog/2021/dl-course.html) - 170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers.

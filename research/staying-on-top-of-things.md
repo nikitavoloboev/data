@@ -153,6 +153,7 @@ And these Discord servers:
 - [A Cup of Jo](https://cupofjo.com/) - Style, Culture, Motherhood, Travel, Food & Life.
 - [Interesting Engineering](https://interestingengineering.com/)
 - [Eye on Design](https://eyeondesign.aiga.org/)
+- [Current Affairs](https://www.currentaffairs.org/)
 
 ### Other
 

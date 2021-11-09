@@ -405,3 +405,4 @@
 - [Dynamic Kernel Module System (DKMS)](https://github.com/dell/dkms)
 - [PREVAIL](https://github.com/vbpf/ebpf-verifier) - Polynomial-Runtime EBPF Verifier using an Abstract Interpretation Layer.
 - [difuze](https://github.com/ucsb-seclab/difuze) - Fuzzer for Linux Kernel Drivers.
+- [Liblinux](https://github.com/matheusmoreira/liblinux) - C library that provides architecture-independent access to Linux system calls. ([HN](https://news.ycombinator.com/item?id=29158425))

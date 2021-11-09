@@ -339,6 +339,7 @@
 - [Interviuu](https://www.interviuu.com/) - Mock Interviews for YC and ODX.
 - [Founderkit](https://founderkit.com/) - Reviews and Recommendations from Leading Startup Founders.
 - [How to turn chaos in startups into repeatable processes (2021)](https://twitter.com/dunkhippo33/status/1453604780996132865)
+- [Resources for growing SaaS startup (2021)](https://twitter.com/DanielZarick/status/1458093573581250571)
 
 ## Images
 

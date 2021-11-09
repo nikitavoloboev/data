@@ -72,3 +72,4 @@
 - [How height.app website was rebuilt from ground up (2021)](https://twitter.com/michaelvillar/status/1445079229415239698)
 - [Словари по фронтенду](https://github.com/web-standards-ru/dictionary)
 - [Grab Front End Guide](https://github.com/grab/front-end-guide)
+- [Frontend Horse](https://frontend.horse/) - Learn techniques from the best creative frontend developers. ([Twitter](https://twitter.com/FrontendHorse))

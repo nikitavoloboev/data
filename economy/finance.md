@@ -132,3 +132,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [How you can track your personal finances using Python](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/) ([Lobsters](https://lobste.rs/s/uq4vpy/how_you_can_track_your_personal_finances))
 - [How credit cards make money (2021)](https://bam.kalzumeus.com/archive/how-credit-cards-make-money/) ([HN](https://news.ycombinator.com/item?id=29121353))
 - [Bits about Money by Patrick McKenzie (patio11)](https://bam.kalzumeus.com/) - About the modern financial infrastructure that the world sits atop of.
+- [Stripe for book-keeping tools (2021)](https://twitter.com/maccaw/status/1457509961970372608)

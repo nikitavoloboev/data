@@ -81,6 +81,8 @@
 - [pymdp](https://github.com/infer-actively/pymdp) - Python implementation of active inference for Markov Decision Processes.
 - [pypc](https://github.com/infer-actively/pypc) - Predictive coding in Python.
 - [PyNN](https://github.com/NeuralEnsemble/PyNN) - Python package for simulator-independent specification of neuronal network models.
+- [JAX-CFD](https://github.com/google/jax-cfd) - Computational Fluid Dynamics in JAX.
+- [pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python.
 
 ## Biology
 
@@ -113,6 +115,7 @@
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - Lightweight library for converting complex objects to and from simple Python datatypes. ([Docs](https://marshmallow.readthedocs.io/en/stable/))
 - [marshmallow-dataclass](https://github.com/lovasoa/marshmallow_dataclass) - Automatic generation of marshmallow schemas from dataclasses.
 - [psycopg2](https://github.com/psycopg/psycopg2) - Python-PostgreSQL Database Adapter. ([Web](https://www.psycopg.org/))
+- [Psycopg 3](https://github.com/psycopg/psycopg) - Modern implementation of a PostgreSQL adapter for Python.
 - [Databases](https://github.com/encode/databases) - Gives you simple asyncio support for a range of databases.
 - [aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python.
 - [Plyvel](https://github.com/wbolster/plyvel) - Fast and feature-rich Python interface to LevelDB.
@@ -130,6 +133,7 @@
 - [data_algebra](https://github.com/WinVector/data_algebra) - Codd method-chained SQL generator and Pandas data processing in Python.
 - [pytest-postgresql](https://github.com/ClearcodeHQ/pytest-postgresql) - Pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database.
 - [omniduct](https://github.com/airbnb/omniduct) - Uniform interfaces for connecting to and extracting data from a wide variety of (potentially remote) data stores.
+- [PugSQL](https://github.com/mcfunley/pugsql) - HugSQL-inspired database library for Python.
 
 ## GUI
 
@@ -538,6 +542,7 @@
 - [zlib](https://docs.python.org/3/library/zlib.html) - Compression compatible with gzip.
 - [Pyappcache](https://github.com/calpaterson/pyappcache) - Library for application-level caching.
 - [redun](https://github.com/insitro/redun/) - Expressive and efficient workflow framework.
+- [retworkx](https://github.com/Qiskit/retworkx) - High performance Python graph library implemented in Rust.
 
 ## Links
 
@@ -581,3 +586,4 @@
 - [PyPI Data](https://github.com/sethmlarson/pypi-data) - Mostly up-to-date data about almost every package on PyPI.
 - [Python libraries to make your code readable, reliable and maintainable (2020)](https://isaak.dev/2020/08/python-libraries-to-make-your-code-readable-and-maintainable)
 - [Pyflow](https://github.com/David-OConnor/pyflow) - Installation and dependency system for Python.
+- [davos](https://github.com/ContextLab/davos) - Import packages in Python, even if they aren't installed.

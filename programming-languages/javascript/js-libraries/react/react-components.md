@@ -222,11 +222,13 @@
 - [React InfiniteGrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/react-infinitegrid) - React component that can arrange items infinitely according to the type of grids.
 - [React-Location](https://github.com/tannerlinsley/react-location) - Enterprise Client-Side Routing for React. ([Docs](https://react-location.tanstack.com/docs/overview))
 - [tldraw/core](https://github.com/tldraw/core) - TLDraw core renderer and utilities.
-- [React Freeze](https://github.com/software-mansion-labs/react-freeze) - Prevent React component subtrees from rendering.
+- [React Freeze](https://github.com/software-mansion-labs/react-freeze) - Prevent React component subtrees from rendering. ([Experimenting with React Freeze](https://blog.swmansion.com/experimenting-with-react-freeze-71da578e2fa6))
 - [react-ancenstry](https://github.com/grantila/react-ancestry) - Get the component ancestry in React.
 - [typeahead](https://github.com/tomocchino/typeahead) - Small, fast, opinionated autocomplete input for React.
 - [co-media](https://github.com/cocoss-org/co-media) - React library for accessing browser media like camera, microphone, screen capture, etc.
 - [React Responsive Carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
+- [Theme Provider](https://github.com/callstack/react-theme-provider) - Set of utilities that help you create your own React theming system in few easy steps.
+- [Splitter](https://github.com/DevbookHQ/splitter) - React component for building split views like in VS Code.
 
 ## Links
 

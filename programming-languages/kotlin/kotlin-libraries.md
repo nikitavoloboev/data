@@ -38,6 +38,7 @@
 - [Micro Template](https://github.com/polarene/micro-template) - Tiny and simple text templating library for Kotlin.
 - [KotlinGrad](https://github.com/breandan/kotlingrad) - Shape-Safe Symbolic Differentiation with Algebraic Data Types.
 - [Kaliningraph](https://github.com/breandan/kaliningraph) - Graph based IR in Kotlin.
+- [projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely.
 
 ## Links
 

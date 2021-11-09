@@ -109,3 +109,4 @@
 - [Robots Must Be Ephemeralized (2021)](https://evjang.com/2021/09/20/ephemeralization.html)
 - [Attention-driven Robotic Manipulation (ARM)](https://github.com/stepjam/ARM)
 - [PyTouch: A Machine Learning Library for Touch Processing (2021)](https://arxiv.org/abs/2105.12791) ([Code](https://github.com/facebookresearch/PyTouch))
+- [Implicit Behavioral Cloning (2021)](https://implicitbc.github.io/) ([Code](https://github.com/google-research/ibc))

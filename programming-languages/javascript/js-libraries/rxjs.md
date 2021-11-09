@@ -15,3 +15,4 @@
 - [Build Reactive Websites with RxJS: Master Observables and Wrangle Events](https://pragprog.com/titles/rkrxjs/build-reactive-websites-with-rxjs/)
 - [ESLint rules for RxJS](https://github.com/cartant/eslint-plugin-rxjs)
 - [Elf](https://github.com/ngneat/elf) - Reactive immutable state management solution built on top of RxJS. ([Web](https://ngneat.github.io/elf/))
+- [rxjs-etc](https://github.com/cartant/rxjs-etc) - Observables and operators for RxJS.

@@ -549,3 +549,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Track Awesome List](https://www.trackawesomelist.com/) - Track your Favorite Github Awesome Repo.
 - [daily.dev](https://daily.dev/) - Homepage Every Developer Deserves. ([Code](https://github.com/dailydotdev/daily))
 - [Awesome GraphViz](https://github.com/CodeFreezr/awesome-graphviz)
+- [\_why's Estate](https://viewsourcecode.org/why/) ([HN](https://news.ycombinator.com/item?id=29142915))
+- [Beyond Based And Cringe](https://donotresearch.net/posts/beyond-based-and-cringe)

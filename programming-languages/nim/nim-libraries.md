@@ -29,6 +29,7 @@
 - [Questionable](https://github.com/markspanbroek/questionable) - Elegant optional types for Nim.
 - [cinterop](https://github.com/n0bra1n3r/cinterop) - C/C++ interop library for Nim.
 - [nimly](https://github.com/loloicci/nimly) - Lexer Generator and Parser Generator as a Library in Nim.
+- [Nimscripter](https://github.com/beef331/nimscripter) - Quick and easy Nim <-> Nimscript interop.
 
 ## Links
 

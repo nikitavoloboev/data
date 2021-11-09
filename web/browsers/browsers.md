@@ -156,3 +156,4 @@
 - [Redirector](https://github.com/einaregilsson/Redirector) - Browser extension to redirect URLs based on regex patterns.
 - [Get started with Web Bundles (2021)](https://web.dev/web-bundles/)
 - [Synthetic Monitoring with Real Browsers](https://github.com/elastic/synthetics)
+- [PrivacyTests.org](https://privacytests.org/) - Open-source tests of web browser privacy. ([Code](https://github.com/arthuredelstein/privacytests.org))

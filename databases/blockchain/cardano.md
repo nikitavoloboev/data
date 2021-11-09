@@ -1,6 +1,6 @@
 # [Cardano](https://cardano.org/)
 
-Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status/1433653091493195794). Research done by [IOHK](https://iohk.io/en/research/) is interesting though.
+Cardano appears to be a [project that didn't meet its goals](https://twitter.com/froggyfrogster/status/1433653091493195794) (especially when compared to [alternatives](../../cryptocurrencies/cryptocurrencies.md)). Research done by [IOHK](https://iohk.io/en/research/) is interesting though.
 
 ## Notes
 

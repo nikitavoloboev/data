@@ -110,4 +110,5 @@
 - [Personal Cloud IaC](https://github.com/CGamesPlay/infra) - My personal cloud server, hosted as a VPS.
 - [A comprehensive guide to managing secrets in your Terraform code (2020)](https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terraform-code-1d586955ace1)
 - [Terraform Provider Lint Tool](https://github.com/bflad/tfproviderlint)
-- [PoC Terraform Provider in Rust (2021)](https://tevps.net/blog/2021/11/7/poc-terraform-provider-rust/)
+- [PoC Terraform Provider in Rust (2021)](https://tevps.net/blog/2021/11/7/poc-terraform-provider-rust/) ([Lobsters](https://lobste.rs/s/lztopq/poc_terraform_provider_rust)) ([Code](https://github.com/palfrey/terraform-provider-helloworld))
+- [Terraforge](https://terraforge.vercel.app/) - Graphical Terraform cofiguration generator. ([Code](https://github.com/badarsebard/terraforge))

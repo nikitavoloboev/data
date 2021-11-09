@@ -36,3 +36,6 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [version](https://github.com/bit101/version) - What version do I have of \_\_\_?
 - [rinstall](https://github.com/DanySpin97/rinstall) - Helper tool that installs software and additional data into the system.
 - [asdf](https://github.com/asdf-vm/asdf) - Manage multiple runtime versions with a single CLI tool, extendable via plugins.
+- [Code Galaxies Visualization](https://anvaka.github.io/pm/) - Combines visualizations of major software package managers. ([Code](https://github.com/anvaka/pm))
+- [Package management document library](https://github.com/andrew/package-managers)
+- [PackagingCon](https://packaging-con.org/) - Conference for package manager developers and packagers. ([Twitter](https://twitter.com/packagingcon)) ([2021 Schedule](https://pretalx.com/packagingcon-2021/schedule/#))

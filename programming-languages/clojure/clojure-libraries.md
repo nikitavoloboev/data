@@ -41,6 +41,7 @@
 ## Test
 
 - [Mockery](https://github.com/igrishaev/mockery) - Clojure mocking library.
+- [humane-test-output](https://github.com/pjstadig/humane-test-output) - Humane test output for clojure.test.
 
 ## Other
 
@@ -109,6 +110,7 @@
 - [luna](https://github.com/AbhinavOmprakash/luna) - DSL that translates to regex.
 - [Coffi](https://github.com/IGJoshua/coffi) - Foreign Function Interface in Clojure for JDK 17.
 - [Ring-Codec](https://github.com/ring-clojure/ring-codec) - Utility library for encoding and decoding data.
+- [joinery](https://github.com/cjsauer/joinery) - Library to enable traversal of in-memory graph-like data structures using Clojure(Script) map protocols.
 
 ## Links
 

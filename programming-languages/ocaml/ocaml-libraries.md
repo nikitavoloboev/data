@@ -106,6 +106,8 @@
 - [DAI](https://github.com/cuplv/dai) - Demanded Abstract Interpretation.
 - [field_repr](https://github.com/CraigFe/field_repr) - Efficient run-time representations of OCaml record fields.
 - [CacheCache](https://github.com/pascutto/cachecache) - Efficient caching library for OCaml.
+- [ocaml-extlib](https://github.com/ygrek/ocaml-extlib) - Extended Standard Library for OCaml.
+- [MParser](https://github.com/murmour/mparser) - Simple monadic parser combinator library for OCaml.
 
 ## Links
 

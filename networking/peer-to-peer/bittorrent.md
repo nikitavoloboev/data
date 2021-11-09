@@ -68,3 +68,4 @@
 - [dht](https://github.com/anacrolix/dht) - Used by anacrolix/torrent, and is intended for use as a library in other projects both torrent related and otherwise.
 - [Transmission Swift](https://github.com/jameshurst/Transmission-Swift) - Combine powered Transmission RPC API client.
 - [The High Seas](https://github.com/calpaterson/thehighseas) - Very straightforward BitTorrent tracker.
+- [aquatic](https://github.com/greatest-ape/aquatic) - Blazingly fast, multi-threaded BitTorrent tracker (UDP, HTTP, WebTorrent) written in Rust.

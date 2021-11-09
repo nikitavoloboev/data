@@ -127,3 +127,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Channels](https://telegramchannels.me/) - 18000+ Telegram Channels, Groups, Bots and Stickers List.
 - [Telegram Developer Challenges](https://contest.com/)
 - [TGNews](https://github.com/IlyaGusev/tgcontest) - Telegram Data Clustering contest solution by Mindful Squirrel.
+- [Telegram Ad Platform](https://promote.telegram.org/) ([HN](https://news.ycombinator.com/item?id=29146147))

@@ -128,6 +128,7 @@
 - [axios-hooks](https://github.com/simoneb/axios-hooks) - React hooks for axios, with built-in support for server side rendering.
 - [React Cool Portal](https://github.com/wellyshen/react-cool-portal) - React hook for Portals, which renders modals, dropdowns, tooltips etc. to <body> or else.
 - [use-web-animations](https://github.com/wellyshen/use-web-animations) - React hook for highly-performant and manipulable animations using Web Animations API.
+- [use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland.
 
 ## Code
 

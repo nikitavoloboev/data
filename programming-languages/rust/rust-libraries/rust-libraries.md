@@ -82,6 +82,9 @@
 - [darpi](https://github.com/darpi-rs/darpi) - Rust web framework with safety and speed in mind.
 - [Vial](https://github.com/xvxx/vial) - Micro micro-framework for rust. ([Docs](https://vial.rs/))
 - [Nuts](https://github.com/jakmeier/nuts) - Library that offers a simple publish-subscribe API, featuring decoupled creation of the publisher and the subscriber.
+- [javascriptcore-rs](https://github.com/tauri-apps/javascriptcore-rs) - JavaScriptCore bindings and wrappers for Rust.
+- [Wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
+- [webkit2gtk](https://github.com/tauri-apps/webkit2gtk-rs) - Rust bindings and wrappers for webkit2gtk.
 
 ## WASM
 
@@ -95,7 +98,7 @@
 
 ## GUI
 
-- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831))
+- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps))
 - [Tao](https://github.com/tauri-apps/tao) - Cross-platform application window creation library in Rust that supports all major platforms. Maintained for Tauri.
 - [Egui](https://github.com/emilk/egui) - Immediate mode GUI written in Rust, made for WASM. ([Example](https://github.com/hasenbanck/egui_example))
 - [rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust.
@@ -185,6 +188,7 @@
 - [Relm4](https://github.com/AaronErhardt/relm4) - Idiomatic GUI library inspired by Elm and based on gtk4-rs.
 - [wgpu-pbr](https://github.com/tedsta/wgpu-pbr) - Implementation of PBR using wgpu-rs.
 - [Kludgine](https://github.com/khonsulabs/kludgine) - 2d game engine written in rust atop of wgpu.
+- [Blue Engine](https://github.com/ElhamAryanpur/BlueEngine) - General-purpose, easy-to-use, fast, extendable, secure, and portable graphics engine written in rust.
 
 ## Games
 
@@ -1102,6 +1106,8 @@
 - [tiny_id](https://github.com/paulgb/tiny_id) - Rust library for generating non-sequential, tightly-packed short IDs.
 - [libmacchina](https://github.com/Macchina-CLI/libmacchina) - Library providing access to all sorts of system information.
 - [nebari](https://github.com/khonsulabs/nebari) - Pure Rust database implementation using an append-only B-Tree file format.
+- [rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs.
+- [abi_stable_crates](https://github.com/rodrimati1992/abi_stable_crates) - Rust-to-Rust ffi,ffi-safe equivalents of std types,and creating libraries loaded at startup.
 
 ## Cargo Plugins
 
@@ -1197,3 +1203,5 @@
 - [A 2021 Survey of Rust GUI Libraries](https://www.boringcactus.com/2021/10/24/2021-survey-of-rust-gui-libraries.html) ([Lobsters](https://lobste.rs/s/hmvrcj/2021_survey_rust_gui_libraries))
 - [import-cargo](https://github.com/edolstra/import-cargo) - Function for fetching the crates listed in a Cargo lock file.
 - [rust-crates-index](https://github.com/frewsxcv/rust-crates-index) - Rust library for retrieving and interacting with the crates.io index.
+- [Plugins in Rust: Reducing the Pain with Dependencies (2021)](https://nullderef.com/blog/plugin-abi-stable/)
+- [Typify](https://github.com/oxidecomputer/typify) - JSON Schema -> Rust type converter.

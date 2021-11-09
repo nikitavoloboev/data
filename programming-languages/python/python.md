@@ -370,3 +370,5 @@ for i, _ in enumerate(nums):
 - [Mini Inch App in Python](https://github.com/jokull/python-ts-graphql-demo) - Python asyncio backend querying with SQLAlchemy and Strawberry serving GraphQL with Starlette.
 - [Guide of CPython’s Parser](https://devguide.python.org/parser/)
 - [Python Developer's Guide](https://devguide.python.org/)
+- [Bandit](https://github.com/PyCQA/bandit) - Tool designed to find common security issues in Python code.
+- [Pyjion](https://www.trypyjion.com/) - Python JIT Compiler. ([HN](https://news.ycombinator.com/item?id=29159545)) ([Code](https://github.com/tonybaloney/Pyjion))

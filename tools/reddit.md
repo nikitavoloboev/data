@@ -33,3 +33,5 @@
 - [Saveddit](https://saveddit4reddit.herokuapp.com/) - Search and Filter through your Saved Reddit Posts. ([Code](https://github.com/ahmed-zubair-1998/Saveddit))
 - [Reddit TV Series Discussions](https://www.redditdiscuss.com/) - Find Reddit discussion threads for your TV shows. ([HN](https://news.ycombinator.com/item?id=28665718))
 - [Reddit Scraper](https://github.com/basaldella/reddit-scraper) - Python Reddit scraper based on Praw and Pushshift.
+- [Async PRAW](https://github.com/praw-dev/asyncpraw) - Asynchronous Python Reddit API Wrapper. ([Docs](https://asyncpraw.readthedocs.io/en/stable/))
+- [Reddit 1.0 Code](https://github.com/reddit-archive/reddit1.0) - In Common Lisp.

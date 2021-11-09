@@ -57,3 +57,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Inevitabilities in Facebook’s Meta play: exploitation, crime, regulation](https://twitter.com/juliapowles/status/1454819169078177793)
 - [Ask HN: How is the “metaverse” concept different from the Second Life boom (2021)](https://news.ycombinator.com/item?id=29136478)
 - [Checklist for Virtual Reality game developers](https://github.com/SuperV1234/vr-game-checklist)
+- [Microsoft and the Metaverse (2021)](https://stratechery.com/2021/microsoft-and-the-metaverse/) ([HN](https://news.ycombinator.com/item?id=29163856))

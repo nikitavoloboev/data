@@ -221,3 +221,6 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Blankly](https://blankly.finance/) - Rapidly Build Quant Models Across Exchanges. ([Code](https://github.com/Blankly-Finance/Blankly)) ([GitHub](https://github.com/Blankly-Finance))
 - [Ask HN: How to start learning about investments (2021)](https://news.ycombinator.com/item?id=29056262)
 - [Goldman Sachs - Quantitative Strategies Research Notes](https://github.com/colejhudson/goldman-sachs-quantitative-strategies-research-notes)
+- [justETF](https://www.justetf.com/en/) - ETF portfolios made simple.
+- [Bankeronwheels.com](https://www.bankeronwheels.com/) - Index Investing for European and UK Investors. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qpeu1n/picking_a_bond_etf/))
+- [Ask HN: How do you find funds to invest in? (2021)](https://news.ycombinator.com/item?id=29161098)

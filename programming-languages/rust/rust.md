@@ -611,3 +611,4 @@
 - [View types for Rust (2021)](https://smallcultfollowing.com/babysteps//blog/2021/11/05/view-types/) ([Reddit](https://www.reddit.com/r/rust/comments/qnedvn/view_types_for_rust/))
 - [Const Generics in Rust (2021)](https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/) ([HN](https://news.ycombinator.com/item?id=29131624))
 - [Causing problems with Rust traits (then fixing them) (2021)](https://www.youtube.com/watch?v=sNyEgAGkDN8) ([Tweet](https://twitter.com/fasterthanlime/status/1457113276685430789))
+- [Working with signals in Rust - some things that signal handlers can't handle (2021)](https://www.jameselford.com/blog/working-with-signals-in-rust-pt1-whats-a-signal/)

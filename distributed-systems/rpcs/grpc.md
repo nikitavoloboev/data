@@ -59,3 +59,4 @@
 - [Protocol Buffers + Docker](https://github.com/znly/docker-protobuf) - All inclusive Protocol Buffer and gRPC suite, powered by Docker and Alpine.
 - [grpctl](https://github.com/njhale/grpctl) - Crisp command-line experience for your gRPC services without writing a line of code.
 - [Introduction to gRPC in Rust (2021)](https://romankudryashov.com/blog/2021/04/grpc-rust/)
+- [asio-grpc](https://github.com/Tradias/asio-grpc) - Asynchronous gRPC with Asio/unified executors.

@@ -810,6 +810,7 @@
 - [Clangler](https://github.com/daltonclaybrook/Clangler) - Swift package for parsing Clang module map files.
 - [Swimi](https://github.com/kainosk/Swimi) - MIDI/SMF parser written in Swift.
 - [BinaryCoder](https://github.com/mikeash/BinaryCoder) - Example implementation of Swift.Codable using a simple binary format.
+- [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
 
 ## Other (not lib)
 

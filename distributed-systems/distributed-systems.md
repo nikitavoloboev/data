@@ -227,3 +227,6 @@
 - [P language](https://github.com/p-org/P) - Modular and Safe Programming for Distributed Systems. ([Docs](https://p-org.github.io/P/)) ([Tweet](https://twitter.com/MarcJBrooker/status/1455955892633886720))
 - [Raft Consensus Protocol](https://www.consul.io/docs/architecture/consensus) ([HN](https://news.ycombinator.com/item?id=29079079))
 - [Paper review: Scaling Large Production Clusters with Partitioned Synchronization (2021)](https://emptysqua.re/blog/parsync/)
+- [MadSim](https://github.com/madsys-dev/madsim) - Magical Deterministic Simulator for distributed systems in Rust.
+- [Deep dive into Yrs architecture (2021)](https://bartoszsypytkowski.com/yrs-architecture/)
+- [fantoch](https://github.com/vitorenesduarte/fantoch) - Framework for evaluating (planet-scale) consensus protocols.

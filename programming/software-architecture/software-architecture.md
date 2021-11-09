@@ -171,3 +171,4 @@
 - [Software Architecture Patterns (2021)](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2) ([HN](https://news.ycombinator.com/item?id=29024767))
 - [Software architecture patterns Book (2015)](https://www.oreilly.com/content/software-architecture-patterns/)
 - [Fundamentals of Software Architecture Book (2020)](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+- [Netflix's Cloud Edge Architecture (2021)](https://www.linkedin.com/pulse/netlfixs-cloud-edge-architecture-philip-fisher-ogden/) ([Tweet](https://twitter.com/philip_pfo/status/1353853706995978243))

@@ -13,3 +13,4 @@
 - [Exercises for Day to Day Life](https://www.webshealth.com/health/nine-exercises-for-every-one/)
 - [Images show how muscles heal themselves after a workout](https://www.livescience.com/muscle-repair-by-roaming-nuclei)
 - [My indoor rowing tips after 15M meters (2021)](https://onlyrss.org/posts/my-rowing-tips-after-15-million-meters.html) ([HN](https://news.ycombinator.com/item?id=28911503))
+- [How do you exercise? (2021)](https://www.reddit.com/r/slatestarcodex/comments/qpb408/how_do_you_exercise/)

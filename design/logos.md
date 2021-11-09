@@ -18,3 +18,4 @@
 - [Is your logo good?](https://logotester.thework.market/)
 - [Robata](https://wearemucho.com/project/robata/) ([Tweet](https://twitter.com/hofstededesign/status/1448435096646668290))
 - [Logoipsum](https://logoipsum.com/) - Free Placeholder Logo For Your Design Mock-up.
+- [Uniswap Brand Update (2021)](https://uniswap.org/blog/brand-update/) ([Tweet](https://twitter.com/Uniswap/status/1457826935950675973))

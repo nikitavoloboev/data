@@ -216,3 +216,4 @@
 - [XManager](https://github.com/deepmind/xmanager) - Framework for managing machine learning experiments.
 - [T5X](https://github.com/google-research/t5x) - Modular, composable, research-friendly framework for high-performance, configurable, self-service training.
 - [mlinspect](https://github.com/stefan-grafberger/mlinspect) - Inspect ML Pipelines in Python in the form of a DAG.
+- [Privacy Lint](https://github.com/facebookresearch/privacy_lint) - Library that allows you to perform a privacy analysis (Membership Inference) of your model in PyTorch.

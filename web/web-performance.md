@@ -143,3 +143,4 @@
 - [The Art of Deception, Lighthouse Score Edition (2021)](https://www.zachleat.com/web/lighthouse-deception/)
 - [Measure user flows with Lighthouse (2021)](https://web.dev/lighthouse-user-flows/)
 - [Small Bundles, Fast Pages: What To Do With Too Much JavaScript (2021)](https://calibreapp.com/blog/bundle-size-optimization) ([Tweet](https://twitter.com/benschwarz/status/1455757843412389892))
+- [Building an effective Image Component (2021)](https://web.dev/image-component/)

@@ -107,6 +107,7 @@
 - [Rewrite.jl](https://github.com/HarrisonGrodin/Rewrite.jl) - Efficient symbolic term rewriting engine.
 - [Simplify.jl](https://github.com/HarrisonGrodin/Simplify.jl) - Algebraic simplification in Julia.
 - [InfiniteOpt.jl](https://github.com/pulsipher/InfiniteOpt.jl) - Intuitive modeling interface for infinite-dimensional optimization problems.
+- [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
 
 ## NLP
 
@@ -329,6 +330,7 @@
 - [Permutations](https://github.com/scheinerman/Permutations.jl) - Permutations class for Julia.
 - [Tokenize](https://github.com/JuliaLang/Tokenize.jl) - Tokenization for Julia source code.
 - [UnsafeArrays](https://github.com/JuliaArrays/UnsafeArrays.jl) - Stack-allocated pointer-based array views.
+- [Traceur](https://github.com/JunoLab/Traceur.jl) - Codified version of the Julia performance tips. You run your code, it tells you about any obvious performance traps.
 
 ## Links
 

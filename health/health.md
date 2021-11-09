@@ -63,3 +63,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [It's not your age that's slowing your metabolism, new research says (2021)](https://lite.cnn.com/en/article/h_6393a3cab16cabbe7bfa1e77505a6ef8) ([HN](https://news.ycombinator.com/item?id=28666060))
 - [What’s your go to mental health improvement strategy? (2021)](https://twitter.com/stack_tracy_/status/1450087943125835780)
 - [Awesome Biomarkers](https://github.com/markwk/awesome-biomarkers) - Curated List of Biomarkers, Blood Tests, and Blood Tracking.
+- [Mapping the electronic health record (2021)](https://wardle.org/strategy/2021/10/21/mapping-the-epr-1.html) ([Tweet](https://twitter.com/mwardle/status/1451096305535700995))

@@ -96,6 +96,7 @@
 - [ex_cldr](https://github.com/elixir-cldr/cldr) - Elixir implementation of CLDR/ICU.
 - [TypedStruct](https://github.com/ejpcmac/typed_struct) - Library for defining structs with a type without writing boilerplate code.
 - [CSV](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+- [Daat](https://github.com/QuinnWilton/daat) - Parameterized modules for Elixir.
 
 ## Links
 

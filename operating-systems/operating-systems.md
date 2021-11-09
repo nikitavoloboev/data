@@ -118,6 +118,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Funk](https://github.com/smimram/funk) - Functional kernel written in OCaml.
 - [liumOS](https://github.com/hikalium/liumos) - Toy operating system which supports NVDIMM natively.
 - [Tofita](https://github.com/GreenteaOS/Tofita) - All-new kernel for the Greentea OS.
+- [RISC-V OS in Rust](https://github.com/sgmarz/osblog)
 
 ## Notes
 

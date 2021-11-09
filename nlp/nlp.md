@@ -388,3 +388,4 @@
 - [Hierarchical Transformers Are More Efficient Language Models (2021)](https://arxiv.org/abs/2110.13711) ([HN](https://news.ycombinator.com/item?id=29112983))
 - [Phrase-BERT: Improved Phrase Embeddings from BERT with an Application to Corpus Exploration (2021)](https://arxiv.org/abs/2109.06304) ([Code](https://github.com/sf-wa-326/phrase-bert-topic-model))
 - [GPT-3 is no longer the only game in town (2021)](https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game) ([HN](https://news.ycombinator.com/item?id=29139884))
+- [PatrickStar](https://github.com/Tencent/PatrickStar) - Parallel Training of Large Language Models via a Chunk-based Memory Management.

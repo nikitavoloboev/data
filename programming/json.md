@@ -79,3 +79,4 @@
 - [Parsing Gigabytes of JSON per Second (2020)](https://arxiv.org/abs/1902.08318) ([HN](https://news.ycombinator.com/item?id=28941207))
 - [JSON-RPC server for Go](https://github.com/swaggest/jsonrpc/) ([Article](https://dev.to/vearutop/json-rpc-2-0-with-swagger-ui-2h3g))
 - [MistQL](https://github.com/evinism/mistql) - Miniature embeddable query language for JSON-like structures, built for embedding within applications. ([Web](https://www.mistql.com/))
+- [JSONiq](https://www.jsoniq.org/) - JSON Query Language. ([HN](https://news.ycombinator.com/item?id=29159343))

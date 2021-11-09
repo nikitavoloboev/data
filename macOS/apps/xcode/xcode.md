@@ -85,3 +85,4 @@
 - [xcresulttool GitHub Action](https://github.com/kishikawakatsumi/xcresulttool) - Generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.
 - [pbxproj](https://github.com/kronenthaler/mod-pbxproj) - Python module to manipulate XCode projects.
 - [XcodeProject](https://github.com/bannzai/XcodeProject) - Xcode utility for reading and writing pbxproj file format.
+- [Create Custom Xcode Templates (2021)](https://medium.com/mindful-engineering/create-custom-xcode-templates-908fdd14fbd8)

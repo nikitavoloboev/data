@@ -37,3 +37,4 @@
 - [@slack/webhook](https://www.npmjs.com/package/@slack/webhook) - JS package contains a helper for making requests to Slack's Incoming Webhooks.
 - [Building a Slack App with Express and the Node SDK (2020)](https://www.javascriptjanuary.com/blog/building-a-slack-app-with-express-and-the-node-sdk)
 - [Slack Send GitHub Action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action.
+- [Slackboard](https://github.com/cubicdaiya/slackboard) - Proxy server for Slack.

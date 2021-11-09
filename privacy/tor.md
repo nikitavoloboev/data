@@ -30,3 +30,5 @@
 - [DoHoT](https://github.com/alecmuffett/dohot) - Making practical use of DNS over HTTPS over Tor.
 - [finshir](https://github.com/isgasho/finshir) - High-performant, coroutines-driven, and fully customisable implementation of Low & Slow load generator designed for real-world pentesting. Complete undetectability is achieved by connecting through Tor.
 - [Emerald Onion](https://emeraldonion.org/) - Tor host with a mission to protect privacy, anonymity, access to information, and free speech online.
+- [mkp224o](https://github.com/cathugger/mkp224o) - Vanity address generator for ed25519 onion services.
+- [Tor Browser 11.0 (2021)](https://blog.torproject.org/new-release-tor-browser-11-0) ([HN](https://news.ycombinator.com/item?id=29165747))

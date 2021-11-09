@@ -33,3 +33,4 @@
 - [Apollo](https://github.com/apolloconfig/apollo) - Reliable configuration management system suitable for microservice configuration management scenarios. ([Web](https://www.apolloconfig.com/#/))
 - [envy](https://github.com/matt4biz/envy) - Use envy to manage environment variables with your OS keychain.
 - [OmegaConf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
+- [Dotenv CLI](https://github.com/dotenv-org/cli) - Command line tool that syncs your .env files across machines and between your team members. Like 1Password, but for developers.

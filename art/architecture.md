@@ -69,3 +69,4 @@
 - [Structurae: Structures and Projects Database](https://structurae.net/en/structures/)
 - [Architecture Telegram](https://t.me/Architecture2021) - Уникальные места нашей планеты.
 - [Bizarre Buildings Twitter](https://twitter.com/BizarreBuiIding)
+- [When is the revolution in architecture coming? (2021)](https://www.currentaffairs.org/2021/04/when-is-the-revolution-in-architecture-coming) ([HN](https://news.ycombinator.com/item?id=29155987))

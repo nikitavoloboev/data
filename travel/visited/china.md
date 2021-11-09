@@ -66,4 +66,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Китайское экономическое чудо или почему чудес не бывает (2021)](https://www.youtube.com/watch?v=MwjbT844gNs)
 - [China tested a nuclear-capable hypersonic missile (2021)](https://www.reddit.com/r/worldnews/comments/q9kv2u/china_tested_a_nuclearcapable_hypersonic_missile/)
 - [Understanding China, with Former Australian Prime Minister Kevin Rudd (2021)](https://www.youtube.com/watch?v=gYR92KjKxm8)
-- [China planning at least 150 new nuclear reactors (2021)](https://twitter.com/balajis/status/1455870589244088326) ([HN](https://news.ycombinator.com/item?id=29094422))
+- [China to supercharge uranium race with 150 new nuclear reactors (2021)](https://twitter.com/balajis/status/1455870589244088326) ([HN](https://news.ycombinator.com/item?id=29094422)) ([HN](https://news.ycombinator.com/item?id=29151741))

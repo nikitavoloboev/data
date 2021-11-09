@@ -146,7 +146,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Shortcat](https://shortcatapp.com/) - Keyboard productivity app for macOS.
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly.
 - [Flume](https://flumeapp.com/) - Beautiful Instagram experience for your Mac.
-- [‎Aqua Swatch](https://apps.apple.com/us/app/aqua-swatch/id1565479346?mt=12) - Match Color, Material & Icons.
+- [Aqua Swatch](https://apps.apple.com/us/app/aqua-swatch/id1565479346?mt=12) - Match Color, Material & Icons.
 - [Screenotate](https://screenotate.com/) - Recognize text in your screenshots.
 - [Hera](https://hera.so/) - macOS app to prepare, join and take notes in meetings. ([HN](https://news.ycombinator.com/item?id=27771091))
 - [Mumu X](https://getmumu.com/) - Handy emoji picker on macOS, using GPT-3.
@@ -155,6 +155,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [TextSniper](https://textsniper.app/) - Capture and extract any text from your Mac's screen.
 - [Lunar](https://lunar.fyi/) - Control your monitors.
 - [Keystroke Pro](https://ixeau.com/keystroke-pro/) - Visualize Your Keypresses.
+- [Pulse](https://kean.blog/pulse/home) - Network Inspector and Logger for Apple Platforms. ([Twitter](https://twitter.com/PulseLogger))
 
 ## Links
 
@@ -184,3 +185,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Dynamic Universal App](https://github.com/figma/dynamic-universal-app) - Size efficient alternative to macOS universal binaries.
 - [Microverse](https://github.com/jspahrsummers/Microverse) - macOS virtualization app for M1/Apple Silicon.
 - [Run MacOS Software On Linux Using Darling (2021)](https://ostechnix.com/run-macos-software-on-linux-using-darling/) ([Lobsters](https://lobste.rs/s/ju4vut/run_macos_software_on_linux_using_darling))
+- [Pacifist](https://www.charlessoft.com/) - Powerful multi-tool for working with macOS package files, disk images, and file archives.

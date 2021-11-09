@@ -651,6 +651,8 @@
 - [Microdiff](https://github.com/AsyncBanana/microdiff) - Fast, zero dependency object and array comparison library. ([HN](https://news.ycombinator.com/item?id=29130661))
 - [lfi](https://github.com/TomerAberbach/lfi) - Lazy functional iteration library supporting sync, async, and concurrent iteration.
 - [Speed Highlight JS](https://github.com/matubu/speed_highlight_js) - Light, fast, and easy to use, dependencies free javascript syntax highlighter.
+- [Proload](https://github.com/natemoo-re/proload) - Searches for and loads your tool's JavaScript configuration files.
+- [Sticksy.js](https://github.com/kovart/sticksy) - Zero-dependency JavaScript library that sticks your elements to the top until they reaching the bottom.
 
 ## Links
 
@@ -680,3 +682,4 @@
 - [Ask HN: How do you (security) audit external software using NPM packages? (2021)](https://news.ycombinator.com/item?id=29078836)
 - [npm install is curl (2021)](https://btao.org/2021/09/09/npm-install-is-curl-bash/) ([Lobsters](https://lobste.rs/s/wf3piq/npm_install_is_curl_bash))
 - [ES Modules Are Terrible](https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3) ([HN](https://news.ycombinator.com/item?id=29137663))
+- [npq](https://github.com/lirantal/npq) - Safely\* install packages with npm/yarn by auditing them as part of your install process.

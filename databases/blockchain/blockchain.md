@@ -269,3 +269,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Inter-Blockchain Communication Protocol (IBC)](https://ibcprotocol.org/) - Interoperability protocol for communicating arbitrary data between arbitrary state machines. ([Rust Code](https://github.com/informalsystems/ibc-rs))
 - [What is Harberger Tax & Where Does The Blockchain Fit In? (2018)](https://medium.com/@simondlr/what-is-harberger-tax-where-does-the-blockchain-fit-in-1329046922c6)
 - [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape (2021)](https://blog.celestia.org/clusters/)
+- [Pocket Network](https://www.pokt.network/) - Decentralized infrastructure for developers to build peer to peer applications. ([Code](https://github.com/pokt-network/pocket-core))
+- [WalletConnect](https://walletconnect.com/) - Web3 standard to connect blockchain wallets to dapps. ([Code](https://github.com/WalletConnect/walletconnect-monorepo)) ([GitHub](https://github.com/WalletConnect))

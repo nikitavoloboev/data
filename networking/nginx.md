@@ -50,3 +50,5 @@
 - [NGINXpy](https://github.com/decentfox/nginxpy) - Embed Python in NGINX.
 - [The Architecture of Open Source Applications: Nginx (2012)](https://aosabook.org/en/nginx.html) ([HN](https://news.ycombinator.com/item?id=29088134))
 - [OpenResty](https://github.com/openresty/openresty) - Turning Nginx into a Full-Fledged Scriptable Web Platform.
+- [nginx-build](https://github.com/cubicdaiya/nginx-build) - Seamless nginx builder.
+- [ngx_dynamic_upstream](https://github.com/cubicdaiya/ngx_dynamic_upstream) - Dynamic upstream for nginx.

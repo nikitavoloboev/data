@@ -30,3 +30,6 @@
 - [Mark Zuckerberg says Facebook will turn into a ‘metaverse’ (2021)](https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview) ([HN](https://news.ycombinator.com/item?id=27930791))
 - [The Metaverse Has Always Been a Dystopian Idea (2021)](https://www.vice.com/en/article/v7eqbb/the-metaverse-has-always-been-a-dystopia) ([HN](https://news.ycombinator.com/item?id=28017330))
 - [XR Engine](https://github.com/XRFoundation/XREngine) - Metaverse infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more.
+- [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Hololens.
+- [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum) - First affordable AR headset experience.
+- [Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone](https://github.com/philipturner/scene-color-reconstruction)

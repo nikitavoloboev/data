@@ -173,3 +173,5 @@
 - [Cubeverse](https://cubeversenft.com/) - Generative, unique and random NFTs of beautiful structures, of different shapes and sizes. ([Twitter](https://twitter.com/TheCubeverse))
 - [Magically Rearranging Patterns - CSS Houdini](https://codepen.io/georgedoescode/pen/YzxrRZe) ([Tweet](https://codepen.io/georgedoescode/pen/YzxrRZe))
 - [genartlib](https://github.com/thobbs/genartlib) - Utilities for creating generative artwork with Clojure.
+- [Open source and generative art](https://www.somebits.com/weblog/culture/generative-art-and-open-source.html)
+- [Programmable Pen Tool](https://s.baku89.com/pentool/) - Vector graphics editor with programmable pen tools. ([Code](https://github.com/baku89/pentool))

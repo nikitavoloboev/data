@@ -172,3 +172,5 @@
 - [Bioinformatics repository with more and newer packages](https://github.com/BioArchLinux/Packages)
 - [The History of Microbiology – A Personal Interpretation](https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648)
 - [SeqFu](https://github.com/telatin/seqfu2) - General-purpose program to manipulate and parse information from FASTA/FASTQ files, supporting gzipped input files.
+- [Bioinformatics algorithms covered in Cambridge Uni Bio Course](https://github.com/A-F-V/Bioinformatics)
+- [block aligner](https://github.com/Daniel-Liu-c0deb0t/block-aligner) - SIMD-accelerated library for computing global and X-drop affine gap sequence alignments using an adaptive block-based algorithm.

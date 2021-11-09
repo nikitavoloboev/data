@@ -99,3 +99,4 @@
 - [Journey with Icons Continues (2021)](https://antfu.me/posts/journey-with-icons-continues)
 - [Iconsax React](https://iconsax-react.pages.dev/) ([Code](https://github.com/rendinjast/iconsax-react))
 - [codicon](https://microsoft.github.io/vscode-codicons/dist/codicon.html) - Icon font for Visual Studio Code. ([Code](https://github.com/microsoft/vscode-codicons))
+- [The App Icon Book](https://www.appiconbook.com/)

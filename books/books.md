@@ -431,3 +431,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [So you want to write a technical book (2021)](http://terathon.com/blog/so-you-want-to-write-a-technical-book/) ([HN](https://news.ycombinator.com/item?id=29022499))
 - [Ytalki](https://ytalki.com/) - Find books in a foreign language according to your language level.
 - [The Internet Archive transforms access to books in a digital world (2021)](https://www.eff.org/deeplinks/2021/10/internet-archive-transforms-access-books-digital-world) ([HN](https://news.ycombinator.com/item?id=29043066))
+- [Philip K. Dick’s Novels Of The '50s Are Underrated And (Mostly) Untouched By Hollywood](https://neotextcorp.com/culture/philip-k-dicks-novels-of-the-50s-are-underrated-and-mostly-untouched-by-hollywood/)
+- [AutoBook](https://zachernuk.neocities.org/autobook/) - Procedural 3D book configurator. ([Tweet](https://twitter.com/zachernuk/status/1457767271418327045))

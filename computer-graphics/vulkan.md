@@ -34,7 +34,7 @@
 - [Vulkan Diagrams](https://github.com/David-DiGioia/vulkan-diagrams) - Diagrams showing relationships between Vulkan objects and how they're used.
 - [TAA-STAR](https://github.com/cg-tuwien/TAA-STAR) - C++/Vulkan Implementations of State of the Art Temporal Anti-Aliasing Techniques.
 - [vkvg](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library.
-- [Practical guide to graphics programming with Vulkan](https://vkguide.dev/)
+- [Practical guide to graphics programming with Vulkan](https://vkguide.dev/) ([Code](https://github.com/vblanco20-1/vulkan-guide))
 - [Vulkan Ecosystem Tools](https://github.com/LunarG/VulkanTools) - Tools to aid in Vulkan development including useful layers, trace and replay, and tests.
 - [VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) - Modern, cross platform, high performance scene graph library built upon Vulkan graphics/compute API. ([Web](https://vsg-dev.github.io/VulkanSceneGraph/))
 - [Vulkan-Headers](https://github.com/KhronosGroup/Vulkan-Headers) - Vulkan Header files and API registry.

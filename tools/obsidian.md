@@ -17,7 +17,7 @@
 - [Obsidian Roundup](https://obsidianroundup.org/) - Weekly roundup of Obsidian.md tips, news & resources.
 - [Obsidian Tracker](https://github.com/pyrochlore/obsidian-tracker) - Helps you collect data from notes and represent it comprehensively.
 - [Citation](https://github.com/hans/obsidian-citation-plugin) - Plugin for Obsidian integrates your academic reference manager with the Obsidian editing experience.
-- [Readwise](https://github.com/readwiseio/obsidian-readwise) - Enables you to easily and automatically export all your digital highlights to Obsidian from a variety of sources.
+- [Readwise](https://github.com/readwiseio/obsidian-readwise) - Enables you to easily and automatically export all your digital highlights to Obsidian from a variety of sources. ([Tweet](https://twitter.com/readwiseio/status/1457776445015552008))
 - [Smart Random Note](https://github.com/erichalldev/obsidian-smart-random-note) - Enhances opening random notes.
 - [Sliding Panes (Andy Matuschak Mode)](https://github.com/deathau/sliding-panes-obsidian) - Changes the way panes in the main workspace are handled — inspired by the UI of Andy Matuschak's notes.
 - [Local Images](https://github.com/aleksey-rezvov/obsidian-local-images) - Finds hotlinked images in your notes, downloads and saves them locally and finally adjusts the link in your note to point to the local file.
@@ -38,6 +38,7 @@
 - [Graph Analysis](https://github.com/SkepticMystic/graph-analysis) - Analyze the structure of your Obsidian graph using various analysis techniques.
 - [Customize cursor blinking in Obsidian](https://github.com/xnhp/obsidian-cursor-blink)
 - [BRAT (Beta Reviewers Auto-update Tester)](https://github.com/TfTHacker/obsidian42-brat) - Plugin that makes it easier for you to assist other developers with reviewing and testing their plugins.
+- [Zoottelkeeper](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin) - Automated folder-level index file generator and maintainer.
 
 ## Themes
 

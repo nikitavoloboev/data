@@ -9,3 +9,5 @@
 - [Tim Wallace's Work](https://timwallace.net/) - Senior Editor for Geography at The New York Times.
 - [World Population by Country](https://worldpopulationreview.com/)
 - [Geography Realm](https://www.geographyrealm.com/) - Geography, Maps, and GIS.
+- [Ultimate Geography - AnkiWeb](https://ankiweb.net/shared/info/2109889812) ([Code](https://github.com/anki-geo/ultimate-geography))
+- [Geo Memorizer](https://geo-memorizer.web.app/) - Game to memorize facts about every country. ([Code](https://github.com/carltheperson/geo-memorizer)) ([Article](https://carltheperson.com/posts/geo-memorizer/)) ([HN](https://news.ycombinator.com/item?id=29129584))

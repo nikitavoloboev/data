@@ -193,3 +193,6 @@
 - [Shipshape RenderMan Art Challenge (2020)](https://blog.yiningkarlli.com/2020/07/shipshape-renderman-challenge.html)
 - [Can Data Die? Tracking the Lenna Image (2021)](https://pudding.cool/2021/10/lenna/)
 - [Curves and Surfaces (2021)](https://ciechanow.ski/curves-and-surfaces/) ([HN](https://news.ycombinator.com/item?id=29083349)) ([Tweet](https://twitter.com/BCiechanowski/status/1455569586653302785))
+- [OctaneRender](https://home.otoy.com/render/octane-render/) - Fastest unbiased, spectrally correct GPU render engine, delivering quality and speed.
+- [OTOY](https://home.otoy.com/) - Future of holographic rendering is in the cloud. ([Twitter](https://twitter.com/OTOY))
+- [NAP Framework](https://www.napframework.com/) - Open source, low overhead, real-time control & visualization platform. ([Code](https://github.com/napframework/nap))

@@ -275,3 +275,7 @@
 - [Next.js Conf 2021 - YouTube](https://www.youtube.com/playlist?list=PLBnKlKpPeagnJYpc5geAHU40ld5hk8i82)
 - [Vercel Examples](https://github.com/vercel/examples)
 - [Next.js - Replace React with Preact (2021)](https://darrenwhite.dev/blog/nextjs-replace-react-with-preact)
+- [Break Stuff Until it Works — Optimizing performance in NextJS (2021)](https://rasmussendev.medium.com/break-stuff-until-it-works-optimizing-performance-in-nextjs-1e1ad338e959)
+- [Integrate Storybook in a Next.js Application (2021)](https://egghead.io/courses/integrate-storybook-in-a-next-js-application-b6dd4df3)
+- [How to create a generic protected route in Next.js (2021)](https://shipsaas.com/blog/create-protected-route-nextjs)
+- [Guide to using images in Next.js (2021)](https://shipsaas.com/blog/guide-to-using-images-in-nextjs) ([Reddit](https://www.reddit.com/r/nextjs/comments/qqcj8u/guide_to_using_images_in_nextjs/))

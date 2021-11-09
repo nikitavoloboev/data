@@ -169,3 +169,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [DefiLlama](https://defillama.com/) - DeFi Dashboard.
 - [Ask HN: Why crypto is rising so fast when its not creating value? (2021)](https://news.ycombinator.com/item?id=29135226)
 - [The intellectual incoherence of cryptoassets](https://www.stephendiehl.com/blog/crypto-absurd.html) ([HN](https://news.ycombinator.com/item?id=29141611))
+- [Capital.com](https://capital.com/) - Online Trading with Smart Investment App.

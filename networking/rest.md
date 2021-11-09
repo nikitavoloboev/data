@@ -31,3 +31,4 @@
 - [AutoRest Go Generator](https://github.com/Azure/autorest.go)
 - [REST with Clean Architecture for Go](https://github.com/swaggest/rest) - Web services with OpenAPI and JSON Schema done quick in Go.
 - [resty](https://github.com/brielov/resty) - Syntactic sugar for RESTful APIs.
+- [REST Book](https://github.com/tanhakabir/rest-book) - VSCode Extension that allows you to perform REST calls in a Notebook interface.

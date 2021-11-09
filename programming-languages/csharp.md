@@ -15,3 +15,4 @@
 - [ASP.NET Core Diagnostic Scenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
 - [The Journey of a .NET Object - from allocation to collection (2021)](https://www.youtube.com/watch?v=1Qmvme70w9c)
 - [How the .NET Foundation kerfuffle became a brouhaha (2021)](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/) ([HN](https://news.ycombinator.com/item?id=28794352))
+- [.NET 6 Released (2021)](https://devblogs.microsoft.com/dotnet/announcing-net-6/) ([HN](https://news.ycombinator.com/item?id=29150982))

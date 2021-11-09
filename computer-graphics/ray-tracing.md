@@ -22,7 +22,7 @@
 - [Revisiting the Businesscard Raytracer (2020)](http://fabiensanglard.net/revisiting_the_businesscard_raytracer/index.html)
 - [Ray Tracing In Notepad.exe At 30 FPS (2020)](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html) ([HN](https://news.ycombinator.com/item?id=23246221))
 - [MentisOculi Pytorch Path Tracer](https://github.com/mmirman/MentisOculi)
-- [Ray Tracing implemented in multiple languages](https://github.com/matt77hias/smallpt)
+- [Ray Tracing implemented in multiple languages](https://github.com/matt77hias/smallpt) ([Web](http://www.kevinbeason.com/smallpt/))
 - [SwiftlyRT](https://github.com/sbehnke/SwiftlyRT) - Implementation of the Ray Tracer Challenge in Swift.
 - [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive (2020)](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
 - [Ray Tracer in OCaml](https://github.com/Kamirus/ray-tracer)

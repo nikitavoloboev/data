@@ -105,3 +105,6 @@
 - [Scala Beyond 3.0 - The Quest for Simplicity - Martin Odersky (2021)](https://www.youtube.com/watch?v=NXTjnowBx-c)
 - [Introduction to Programming with ZIO Functional Effects (2021)](https://scalac.io/blog/introduction-to-programming-with-zio-functional-effects/)
 - [DevInsideYou - YouTube](https://www.youtube.com/c/DevInsideYou/playlists)
+- [Scala at Scale at Databricks - Li Haoyi (2021)](https://www.youtube.com/watch?app=desktop&v=UiN6yZPAYww)
+- [ScalaCon](http://www.scalacon.org/) ([Videos](https://www.youtube.com/channel/UCEvZRFnLl65Dg1sMgb8yIBQ/videos))
+- [No Need for NIH: Leveraging the Typelevel Stack in the Enterprise - Adam Rosien (2021)](https://www.youtube.com/watch?v=KjDG9c5zuKs)

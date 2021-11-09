@@ -433,3 +433,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [GitPython](https://github.com/gitpython-developers/GitPython) - Python library used to interact with Git repositories.
 - [GitFlow ToolKit](https://github.com/mritd/gitflow-toolkit) - Simple toolkit for GitFlow.
 - [git-rewrite-author](https://github.com/crazy-max/git-rewrite-author) - Rewrite authors / commiters history of a git repository with ease.
+- [Git Articles - CSS-Tricks](https://css-tricks.com/tag/git/)
+- [GoIgnore](https://github.com/ntk148v/goignore) - gitignore wizard in your command line written in Go.

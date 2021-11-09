@@ -491,3 +491,8 @@
 - [kubectl-select](https://github.com/n3wscott/kubectl-select) - kubectl extension to select from local config.
 - [Operator Lifecycle Manager](https://github.com/operator-framework/operator-lifecycle-manager) - Management framework for extending Kubernetes with Operators.
 - [k](https://github.com/rothgar/k) - Experimental wrapper for kubectl.
+- [kube-green](https://github.com/davidebianchi/kube-green) - Make your k8s clusters more green.
+- [Flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments). ([Web](https://flagger.app/))
+- [Hadron](https://github.com/hadron-project/hadron) - The Kubernetes native and CloudEvents native distributed event streaming, event orchestration & messaging platform.
+- [Caelus](https://github.com/Tencent/caelus) - Set of Kubernetes solutions for reusing idle resources of nodes by running extra batch jobs.
+- [Tricks](https://github.com/vitorenesduarte/tricks) - Run experiments effortlessly on top of Kubernetes.

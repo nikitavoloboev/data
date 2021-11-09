@@ -39,3 +39,4 @@
 - [Notes on running Electron (2021)](https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html)
 - [Electron Chrome Extension](https://github.com/getstation/electron-chrome-extension) - Implementation of Chrome extension APIs for Electron.
 - [Electron Settings](https://github.com/nathanbuchar/electron-settings) - Simple persistent user settings framework for Electron.
+- [Electron is very broken way of building cross platform apps (2021)](https://twitter.com/rsms/status/1457946661032849413)

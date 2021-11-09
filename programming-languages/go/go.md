@@ -598,9 +598,10 @@ if err != nil {
 - [Pandora](https://github.com/yandex/pandora) - High-performance load generator in Go language.
 - [Uber Go Rules](https://github.com/quasilyte/uber-rules) - Set of ruleguard rules that try to cover some parts of the Uber Go Style Guide.
 - [Visualize a hierarchy of embedded Go structs](https://github.com/davidschlachter/embedded-struct-visualizer)
-- [Go 1.18 summary](https://twitter.com/mvdan_/status/1456947756925399040)
+- [Go 1.18 summary](https://twitter.com/mvdan_/status/1456947756925399040) ([Article](https://sebastian-holstein.de/post/2021-11-08-go-1.18-features/))
 - [goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) - Interactive tool to analyze Go goroutine dump.
 - [Golang AST visualizer](https://yuroyoro.github.io/goast-viewer/index.html) ([Code](https://github.com/yuroyoro/goast-viewer))
 - [errchkjson](https://github.com/breml/errchkjson) - Go linter that checks types that are json encoded - reports unsupported types and unnecessary error checks.
 - [Golang News](https://golangnews.com/)
 - [Using Generics in Go (2021)](https://www.youtube.com/watch?v=nr8EpUO9jhw)
+- [ineffassign](https://github.com/gordonklaus/ineffassign) - Detect ineffectual assignments in Go code.

@@ -91,3 +91,4 @@
 - [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `{ggplot2}` plots with statistical analysis.
 - [esquisse](https://github.com/dreamRs/esquisse) - RStudio add-in to make plots interactively with ggplot2.
 - [GitHub Actions for the R language](https://github.com/r-lib/actions)
+- [Awesome R Data Viz](https://github.com/krzjoa/awesome-r-dataviz)

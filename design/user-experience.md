@@ -130,3 +130,5 @@
 - [Modern trend towards data-driven decision making (2021)](https://twitter.com/nicklockwood/status/1452288380398710784)
 - [Software with the most interesting self-serve onboarding flow (2021)](https://twitter.com/joshm/status/1453389875214839815)
 - [The Golden Ratio and User-Interface Design (2021)](https://www.nngroup.com/articles/golden-ratio-ui-design/)
+- [Your users will do what you make easy](https://c3.handmade.network/blog/p/8208-when_making_things_easy_is_bad) ([HN](https://news.ycombinator.com/item?id=29142861))
+- [Fewer options can create more optionality (2021)](https://world.hey.com/jason/fewer-options-can-create-more-optionality-4ac9b067)

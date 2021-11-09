@@ -337,3 +337,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [inlets-on-fly](https://github.com/jsiebens/inlets-on-fly) - Automates the task of creating an inlets-pro exit-server (tunnel server) on the fly.io platform.
 - [Ask HN: Connect to the Internet the old way during next Ethiopian lockdown? (2021)](https://news.ycombinator.com/item?id=29129133)
 - [“Illegal” Moscow state university network built by students (2002-2013)](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9) ([HN](https://news.ycombinator.com/item?id=29135056))
+- [dstp](https://github.com/ycd/dstp) - Run common networking tests against your site.
+- [Test Certificates for localhost (2021)](https://www.hardill.me.uk/wordpress/2021/09/27/test-certificates-for-localhost/)

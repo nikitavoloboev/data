@@ -50,6 +50,7 @@
 - [mow.cli](https://github.com/jawher/mow.cli) - Versatile library for building CLI applications in Go.
 - [term](https://github.com/pkg/term) - Manages POSIX terminals.
 - [opts](https://github.com/jpillora/opts) - Building frictionless command-line interfaces.
+- [Cobra](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions. ([Web](https://cobra.dev/)) ([cobrautil](https://github.com/jzelinskie/cobrautil))
 
 ## Test
 
@@ -204,6 +205,7 @@
 - [socket](https://github.com/mdlayher/socket) - Provides a low-level network connection type which integrates with Go's runtime network poller to provide asynchronous I/O and deadline support.
 - [Kyoto](https://github.com/yuriizinets/kyoto) - Build Front End with Go. ([Web](https://kyoto.codes/)) ([HN](https://news.ycombinator.com/item?id=28862611))
 - [Retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs.
+- [h2conn](https://github.com/posener/h2conn) - HTTP2 client-server full-duplex connection.
 
 ## GraphQL
 
@@ -300,6 +302,8 @@
 - [go-sstables](https://github.com/thomasjungblut/go-sstables) - Go library for protobuf compatible sstables, a skiplist, a recordio format and other database building blocks like a write-ahead log.
 - [sqlcommenter](https://github.com/jbub/sqlcommenter)
 - [sqlhooks](https://github.com/qustavo/sqlhooks) - Attach hooks to any database/sql driver.
+- [vitess-sqlparser](https://github.com/blastrain/vitess-sqlparser) - Simply SQL Parser for Go (powered by vitess and TiDB).
+- [Authzed Go](https://github.com/authzed/authzed-go)
 
 ## ML
 
@@ -358,6 +362,7 @@
 - [libbpfgo](https://github.com/aquasecurity/libbpfgo) - Go library for working with Linux's eBPF.
 - [Sysinfo](https://github.com/zcalusic/sysinfo) - Go library providing Linux OS / kernel / hardware system information.
 - [tenus](https://github.com/milosgajdos/tenus) - Allows you to configure and manage Linux network devices programmatically.
+- [CAN Go](https://github.com/einride/can-go) - Makes use of the Linux SocketCAN abstraction for CAN communication.
 
 ## Error
 
@@ -1043,6 +1048,9 @@
 - [T-Digest](https://github.com/caio/go-tdigest) - Fast map-reduce and parallel streaming friendly data-structure for accurate quantile approximation.
 - [go-topics](https://github.com/patrikeh/go-topics) - Latent Dirichlet Allocation.
 - [jx](https://github.com/go-faster/jx) - JSON encoding and decoding.
+- [fastlfu](https://github.com/arl/fastlfu) - LFU cache with O(1) runtime complexity for all operations: insertion, access and deletion (eviction).
+- [Sudo](https://github.com/zeebo/sudo) - Bypasses restrictions on reflect.
+- [gonp](https://github.com/cubicdaiya/gonp) - diff algorithm in Go.
 
 ## Links
 

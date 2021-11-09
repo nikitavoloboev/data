@@ -315,7 +315,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021) ([HN](https://news.ycombinator.com/item?id=28818829))
 - [Дока](https://doka.guide/) - Документация для разработчиков на человеческом языке. ([Code](https://github.com/doka-guide/content)) ([Tweet](https://twitter.com/ABatickaya/status/1447955564068286464)) ([Интервью про doka.guide / Ник Лопин](https://www.youtube.com/watch?v=KNgSZzvCEKo))
 - [12ft Ladder](https://12ft.io/) - Hop the paywalls.
-- [Веб-стандарты](https://web-standards.ru/) ([GitHub](https://github.com/web-standards-ru))
+- [Веб-стандарты](https://web-standards.ru/) ([GitHub](https://github.com/web-standards-ru)) ([Code](https://github.com/web-standards-ru/web-standards.ru))
 - [The Web’s Grain (2015)](https://frankchimero.com/blog/2015/the-webs-grain/)
 - [The Single-Page-App Morality Play (2021)](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/) ([HN](https://news.ycombinator.com/item?id=28876583)) ([Tweet](https://twitter.com/fakebaldur/status/1434873556903636996))
 - [esbuild-dev-server](https://github.com/Falldot/esbuild-dev-server) - Allows you to start a local server with hot reloading with Esbuild.
@@ -329,3 +329,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Stumbled](https://stumbled.to/stumble) - Greatest Sites of the Internet.
 - [Sharkle](https://sharkle.com/) - Generator of random awesomeness.
 - [An inside look into the illicit ad industry (2021)](https://ariadne.space/2021/11/04/an-inside-look-into-the-illicit-ad-industry/) ([HN](https://news.ycombinator.com/item?id=29120343)) ([Lobsters](https://lobste.rs/s/yif3tc/inside_look_into_illicit_ad_industry))
+- [Favicons: How to Make Sure Browsers Only Download the SVG Version (2021)](https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/)

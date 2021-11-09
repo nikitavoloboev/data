@@ -384,3 +384,5 @@ all: unset
 - [Evaluating Clever CSS Solutions (2021)](https://css-irl.info/evaluating-clever-css-solutions/)
 - [GUI Challenges - YouTube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ)
 - [Squircle CSS Houdini](https://github.com/PavelLaptev/squircle-houdini-css) - Tiny CSS Houdini module that allows to add a squircle shape to HTML elements.
+- [CSS Destructured Course](https://cssdestructured.com/)
+- [Improving CSS Architecture with Cascade Layers, Container Queries, Scope, by Miriam Suzanne (2021)](https://www.youtube.com/watch?v=vK8vj1l_oRk)

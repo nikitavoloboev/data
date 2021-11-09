@@ -77,3 +77,5 @@
 - [Elm Full-Stack](https://github.com/elm-fullstack/elm-fullstack) - Tool for developing web services and full-stack web applications.
 - [Comparing TypeScript and Elm's Type Systems](https://elm-radio.com/episode/ts-and-elm-type-systems/)
 - [Elm Radio Podcast](https://elm-radio.com/)
+- [Elm Decoder Koans](https://github.com/dillonkearns/elm-decoder-koans) - Learn about elm decoders by filling in the blanks in test cases.
+- [elm-publish-action](https://github.com/dillonkearns/elm-publish-action) - Publishes your elm package if you're on the main or master branch.

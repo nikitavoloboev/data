@@ -58,3 +58,4 @@
 - [Ribbit](https://github.com/udem-dlteam/ribbit) - Small and portable Scheme implementation with AOT and incremental compilers that fits in 4K.
 - [Scheme-to-C](https://github.com/akeep/scheme-to-c) - Tiny nanopass compiler for compiling a small subset of Scheme to C.
 - [Scheme-to-LLVM](https://github.com/akeep/scheme-to-llvm)
+- [Normalization-by-evaluation in miniKanren](https://github.com/webyrd/normalization-by-evaluation)

@@ -66,3 +66,6 @@
 - [Figma interface language: Grammar](https://github.com/parkerhendo/figma-interface-language) - Simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
 - [fig-gen](https://github.com/iamnbutler/fig-gen) - Figma Automator actions that create generative visuals.
 - [Automating Figma - Building a general purpose tool to automate Figma (2021)](https://ibuildmyideas.substack.com/p/automating-figma)
+- [20 Awesome Figma Plugins to improve your Workflow (2021)](https://www.marcandrew.me/20-awesome-figma-plugins-to-improve-your-workflow/)
+- [figma-icon-extractor](https://github.com/bem/figma-icon-extractor) - Tool for extract icons from figma in jsx and svg.
+- [Figma Plugins for keyboard (2021)](https://twitter.com/figmadesign/status/1458124921305853960)

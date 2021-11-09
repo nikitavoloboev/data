@@ -295,3 +295,4 @@
 - [Toroidal](https://github.com/MathInf/toroidal) - Lightweight transformer library for PyTorch.
 - [Ultimate PyTorch Source-Build Template](https://github.com/veritas9872/PyTorch-Universal-Docker-Template) - Template repository to build PyTorch projects from source on any version of PyTorch/CUDA/cuDNN.
 - [hf-hub-lightning](https://github.com/nateraw/hf-hub-lightning) - PyTorch Lightning Callback for pushing models to the Hugging Face Hub.
+- [Audio Augmentations](https://github.com/Spijkervet/torchaudio-augmentations) - Library for PyTorch for audio in the time-domain, with support for stochastic data augmentations.

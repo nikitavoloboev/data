@@ -19,3 +19,4 @@
 - [Unbricking a $2,000 Bike With a $10 Raspberry Pi (2020)](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/) ([HN](https://news.ycombinator.com/item?id=24022751))
 - [Cycling is 10x more important than electric cars for reaching net-zero cities (2021)](https://theconversation.com/cycling-is-ten-times-more-important-than-electric-cars-for-reaching-net-zero-cities-157163) ([HN](https://news.ycombinator.com/item?id=26728216))
 - [Myths in cycling: wider tires are slower](https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/) ([HN](https://news.ycombinator.com/item?id=27506550))
+- [The popularity of e-bikes isn’t slowing down (2021)](https://www.nytimes.com/2021/11/08/business/e-bikes-urban-transit.html) ([HN](https://news.ycombinator.com/item?id=29152433))

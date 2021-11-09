@@ -247,3 +247,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix 2.4 (2021)](https://discourse.nixos.org/t/nix-2-4-released/15822) ([Lobsters](https://lobste.rs/s/cumwee/nix_2_4_released)) ([HN](https://news.ycombinator.com/item?id=29073301))
 - [nixcrpkgs](https://github.com/pololu/nixcrpkgs) - Tools for cross-compiling standalone applications using Nix.
 - [Flake structure](https://github.com/freezeboy/flake-example)
+- [nix-patchtools](https://github.com/svanderburg/nix-patchtools) - Autopatching binary packages to make them work with Nix.

@@ -100,3 +100,4 @@
 - [Composability in Julia: Implementing Deep Equilibrium Models via Neural ODEs (2021)](https://julialang.org/blog/2021/10/DEQ/) ([HN](https://news.ycombinator.com/item?id=28945191))
 - [Exercises in avoiding common performance traps with Julia](https://github.com/AdvancedScientificComputingInJuliaWashU/Performance.jl)
 - [Implementing a fixed-bit-width string type in JuliaLang with LLVM (2021)](https://quinnj.hashnode.dev/inlinestringsjl-fun-with-primitive-types-and-llvm-in-julia)
+- [Concurrency in Julia (2021)](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/) ([HN](https://news.ycombinator.com/item?id=29165123))

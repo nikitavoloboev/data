@@ -6,6 +6,7 @@
 
 ## Links
 
+- [Rosefinch](https://rosefinchapp.com/) - SQLite client for Mac. ([HN](https://news.ycombinator.com/item?id=29152008))
 - [EXPLAIN QUERY PLAN](https://sqlite.org/eqp.html) - SQL command that is used to obtain a high-level description of the strategy or plan that SQLite uses to implement a specific SQL query.
 - [FTS5](https://www.sqlite.org/fts5.html) - SQLite virtual table module that provides full-text search functionality to database applications.
 - [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite)
@@ -112,3 +113,4 @@
 - [SQLite WAL Mode](https://pradeepchhetri.xyz/til/sqlite/)
 - [SQLite Index Recommendations](https://pradeepchhetri.xyz/til/expert/)
 - [APSW](https://github.com/rogerbinns/apsw) - Python SQLite wrapper.
+- [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite.

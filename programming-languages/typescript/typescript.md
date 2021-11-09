@@ -195,6 +195,7 @@
 - [TSCC](https://github.com/theseanl/tscc) - Collection of tools to seamlessly bundle, minify Typescript with Closure Compiler.
 - [TypeScript: Control flow analysis for destructured discriminated unions](https://github.com/microsoft/TypeScript/pull/46266) ([HN](https://news.ycombinator.com/item?id=29099331))
 - [How the TypeScript Compiler Compiles - understanding the compiler internal (2021)](https://www.youtube.com/watch?v=X8k_4tZ16qU)
+- [Etsy’s Journey to TypeScript (2021)](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/)
 
 ## Images
 

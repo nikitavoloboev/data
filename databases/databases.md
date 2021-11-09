@@ -176,6 +176,7 @@
 - [Infinitree](https://github.com/symmetree-labs/infinitree) - Scalable and encrypted embedded database with 3-tier caching.
 - [Zerostash](https://github.com/symmetree-labs/zerostash) - Deduplicated, encrypted data store that provides native versioning capabilities, and was designed to secure all metadata related to the files.
 - [BonsaiDb](https://github.com/khonsulabs/bonsaidb) - Rust-written, ACID-compliant, document-database inspired by CouchDB. ([Web](https://dev.bonsaidb.io/))
+- [Amazon Timestream](https://aws.amazon.com/timestream/) - Fast, scalable, serverless time series database. ([Tools and Samples](https://github.com/awslabs/amazon-timestream-tools))
 
 ## Tools
 
@@ -303,7 +304,7 @@
 - [Stanford Future Data Systems Research Group](http://futuredata.stanford.edu/)
 - [Stanford Data Management and Data Systems (2017)](https://cs145-fa19.github.io/)
 - [Concept-oriented model: Modeling and processing data using functions (2019)](https://www.researchgate.net/publication/337336089_Concept-oriented_model_Modeling_and_processing_data_using_functions) ([Summary](https://news.ycombinator.com/item?id=23516526))
-- [DBCore](https://www.dbcore.org/) - Generate applications powered by your database. ([Lobsters](https://lobste.rs/s/qqhiiq/generate_go_rest_api_from_postgresql)) ([Code](https://github.com/eatonphil/dbcore)) ([Article](https://notes.eatonphil.com/generating-a-full-stack-application-from-a-database.html))
+- [DBCore](https://www.dbcore.org/) - Generate applications powered by your database. ([Lobsters](https://lobste.rs/s/qqhiiq/generate_go_rest_api_from_postgresql)) ([Code](https://github.com/eatonphil/dbcore)) ([Article](https://notes.eatonphil.com/generating-a-full-stack-application-from-a-database.html)) ([HN](https://news.ycombinator.com/item?id=29154461))
 - [Recent database technology that should be on your radar (2020)](https://lucperkins.dev/blog/new-db-tech-1/) ([HN](https://news.ycombinator.com/item?id=23531825))
 - [DB Weekly](https://dbweekly.com/) - Weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
 - [Making Databases Work: The Pragmatic Wisdom of Michael Stonebraker (2018)](https://dl.acm.org/doi/book/10.1145/3226595) ([HN](https://news.ycombinator.com/item?id=23531649))
@@ -462,3 +463,4 @@
 - [TimescaleDB vs ClickHouse (2021)](https://pradeepchhetri.xyz/clickhousevstimescaledb/) ([HN](https://news.ycombinator.com/item?id=29096541))
 - [OLAP Databases (2020)](https://pradeepchhetri.xyz/olap/)
 - [Spending $5k to learn how database indexes work (2021)](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/) ([HN](https://news.ycombinator.com/item?id=29132572))
+- [A terrible schema from a clueless programmer (2021)](http://rachelbythebay.com/w/2021/11/06/sql/) ([HN](https://news.ycombinator.com/item?id=29139902)) ([Lobsters](https://lobste.rs/s/wld7fb/terrible_schema_from_clueless))

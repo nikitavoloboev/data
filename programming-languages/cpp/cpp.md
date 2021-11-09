@@ -264,3 +264,4 @@
 - [uftrace](https://github.com/namhyung/uftrace) - Function graph tracer for C/C++/Rust. ([Web](https://uftrace.github.io/slide/#1))
 - [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/) ([Reddit](https://www.reddit.com/r/rust/comments/qlycje/move_semantics_c_vs_rust/))
 - [celtera](https://celtera.dev/) - Boutique c++ consulting. ([GitHub](https://github.com/celtera))
+- [C++ Tip of The Week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week)

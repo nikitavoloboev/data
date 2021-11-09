@@ -46,6 +46,7 @@
 - [Sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API.
 - [Cloudflare](https://github.com/cloudflare/cloudflare-rs) - Rust library for the Cloudflare v4 API.
 - [GIPHY SDKs](https://github.com/Giphy/giphy-js)
+- [OpenAI JS](https://github.com/Njerschow/openai-api) - Tiny client module for the openAI API.
 - [Notion JS](https://github.com/dragonman225/notionapi-agent) - Unofficial Node.js API client for Notion.
 - [Notion TS](https://github.com/cstrnt/notion-api) - Unofficial Notion.so Wrapper.
 - [Notion Go](https://github.com/kjk/notionapi)
@@ -274,3 +275,4 @@
 - [From feature request to API design (2019)](https://francoischalifour.com/from-feature-request-to-api-design/) - Describe the process of creating an API based on specific users' needs.
 - [APIs.guru](https://apis.guru/) - Directory of API definitions in OpenAPI (or Swagger) 2.0 and 3.x formats. ([Code](https://github.com/APIs-guru/openapi-directory))
 - [Building the Brex API (2021)](https://building.brex.com/building-the-brex-api-52dcb26cacc8) ([HN](https://news.ycombinator.com/item?id=28947928))
+- [Anatomy of a Great API Library (2021)](https://brandur.org/nanoglyphs/019-api-libraries)

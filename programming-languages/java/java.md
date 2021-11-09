@@ -89,3 +89,4 @@
 - [Rock the JVM Blog](https://blog.rockthejvm.com/)
 - [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Plug-in to OpenJDK and GraalVM that allows programmers to automatically run Java programs on heterogeneous hardware. ([Web](https://www.tornadovm.org/))
 - [Jython](https://github.com/jython/jython) - Python for the Java Platform. ([Web](https://www.jython.org/))
+- [JavaParser](https://github.com/javaparser/javaparser) - Set of libraries implementing a Java 1.0 - Java 15 Parser with advanced analysis functionalities. ([Web](https://javaparser.org/))

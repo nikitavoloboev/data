@@ -1,6 +1,6 @@
 # [Ethereum](https://www.ethereum.org)
 
-Ethereum is a virtual machine built on top of the blockchain that lets you create and run smart contracts that then run on the blockchain. Unfortunately it has [too high fees compared to any other proper PoS chain](https://twitter.com/austerity_sucks/status/1457064593591840773).
+Ethereum is a virtual machine built on top of the blockchain that lets you create and run smart contracts that then run on the blockchain. Unfortunately it has [too high fees](https://twitter.com/austerity_sucks/status/1457064593591840773) compared to [any other proper PoS chain](https://twitter.com/immaterial_ink/status/1457453404087857162).
 
 ## Notes
 
@@ -347,3 +347,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [EIP validator](https://github.com/lightclient/eipv) - Ethereum Improvement Proposal Validator.
 - [Best ways to stake Eth (2021)](https://www.reddit.com/r/ethereum/comments/qmfx43/coinbase_eth_staking_rewards_have_dropped_down/)
 - [StarkNet](https://starkware.co/starknet/) - Permissionless Decentralized ZK-Rollup. Operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation. [(JS Client](https://github.com/seanjameshan/starknet.js))
+- [Yield Protocol Liquidator](https://github.com/yieldprotocol/yield-liquidator) - Utility for force-closing undercollateralized Yield Protocol loans and participating in dutch auctions with liquidity sourced by Uniswap flash loans.
+- [Ray tracing on the Ethereum Virtual Machine](https://github.com/axic/snailtracer)

@@ -232,3 +232,5 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Deeper Than Pixels: A Reading List on Video Games (2021)](https://longreads.com/2021/10/07/deeper-than-pixels-a-reading-list-on-video-games/) ([HN](https://news.ycombinator.com/item?id=28885867))
 - [All Atari Games](https://voxodyssey.com/atari-2600) ([HN](https://news.ycombinator.com/item?id=28931183))
 - [The Rise of Nintendo: A Story in 8 Bits (2014)](https://grantland.com/features/the-rise-of-nintendo-video-games-history/) ([HN](https://news.ycombinator.com/item?id=29055544))
+- [Your 5 most important video games during your youth years (2021)](https://twitter.com/porkironandwine/status/1457640224066920450)
+- [100 Thieves](https://twitter.com/100Thieves) - Gaming, entertainment, and apparel. ([Tweet](https://twitter.com/jacksondahl/status/1458152429564792835))

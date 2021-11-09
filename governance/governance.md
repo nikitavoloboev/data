@@ -81,3 +81,4 @@
 - [Moov Watchman](https://oss.moov.io/watchman/) - Service which downloads, parses and indexes numerous trade, government and non-profit lists of blocked individuals and entities to comply with those regions laws. ([Code](https://github.com/moov-io/watchman))
 - [QuadraticVote.co](https://quadraticvote.co/) - Real-time Quadratic Voting dashboard to encourage mathematically optimal voting in democratic communities. ([Code](https://github.com/Anish-Agnihotri/quadratic-voting))
 - [Harberger Taxation has an elegant application that has been overlooked: Taxing Intellectual Property](https://ristret.com/s/ftmbkg/harberger_taxation_has_elegant)
+- [Zero-knowledge voting implementations (2021)](https://twitter.com/dwr/status/1458127746912047107)

@@ -1,5 +1,9 @@
 # Memory management
 
+## Notes
+
+- [Reference counting is a form of garbage collection](https://twitter.com/pcwalton/status/1457170874402967553)
+
 ## Links
 
 - [What Every Programmer Should Know About Memory (2007)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) ([Web](https://lwn.net/Articles/250967/))
@@ -59,3 +63,5 @@
 - [Mimalloc](https://github.com/microsoft/mimalloc) - Compact general purpose allocator with excellent performance.
 - [Mimalloc: Free List Sharding in Action (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf) ([Lobsters](https://lobste.rs/s/4awecj/mimalloc_free_list_sharding_action))
 - [Garbage collection algorithms](https://twitter.com/pcwalton/status/1456518483315810308)
+- [Vizzy](https://github.com/zznop/vizzy) - Tool for profiling heap usage and memory management.
+- [GCGC : Garbage Collection Graph Collector](https://github.com/apple/GCGC)

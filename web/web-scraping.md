@@ -122,3 +122,4 @@
 - [Avoiding bot detection: How to scrape the web without getting blocked?](https://github.com/niespodd/browser-fingerprinting)
 - [crawley](https://github.com/s0rg/crawley) - Crawls web pages and prints any link it can find.
 - [grab-site](https://github.com/ArchiveTeam/grab-site) - Archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
+- [cloudscraper](https://github.com/VeNoMouS/cloudscraper) - Python module to bypass Cloudflare's anti-bot page.

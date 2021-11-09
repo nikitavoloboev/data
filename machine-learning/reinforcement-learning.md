@@ -270,3 +270,4 @@
 - [RLDS](https://github.com/google-research/rlds) - Reinforcement Learning Datasets.
 - [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability (2021)](https://bair.berkeley.edu/blog/2021/11/05/epistemic-pomdp/) ([Paper](https://arxiv.org/abs/2107.06277))
 - [Offline Reinforcement Learning: BayLearn 2021 Keynote Talk](https://www.youtube.com/watch?v=k08N5a0gG0A)
+- [Baby Robot's Guide to Reinforcement Learning](https://github.com/WhatIThinkAbout/BabyRobot)

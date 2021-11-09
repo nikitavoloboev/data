@@ -11,6 +11,7 @@ Below is a list of extensions I use.
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
 - [CodeStream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) - Developer collaboration.
 - [Liquid](https://marketplace.visualstudio.com/items?itemName=sissel.shopify-liquid) - Liquid language support for VS Code. ([Code](https://github.com/panoply/vscode-liquid))
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics. ([Code](https://github.com/usernamehw/vscode-error-lens))
 
 ## Go
 
@@ -54,7 +55,6 @@ Below is a list of extensions I use.
 - [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) - Run your tests in the Sidebar. ([Code](https://github.com/hbenl/vscode-test-explorer))
 - [Anycode](https://github.com/microsoft/vscode-anycode) - Tree-sitter-based language extension.
 - [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub) - Remotely browse and edit a GitHub repository. ([Article](https://code.visualstudio.com/blogs/2021/06/10/remote-repositories?WT.mc_id=devcloud-00000-cxa))
-- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics. ([Code](https://github.com/usernamehw/vscode-error-lens))
 - [Captain Stack](https://github.com/hieunc229/copilot-clone) - Code suggestion for VSCode. Similar to Github Copilot.
 - [Code Snippet Generator](https://github.com/JohannesHa/VSCode-Code-Snippet-Generation-Extension) - Provides a similar user experience to Github CoPilot with the addition that you can select your preferred Code Generation Model.
 - [Dance](https://marketplace.visualstudio.com/items?itemName=gregoire.dance) - Kakoune-inspired key bindings for VSCode. ([Code](https://github.com/71/dance))
@@ -200,6 +200,10 @@ Below is a list of extensions I use.
 - [Abracadabra](https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra) - Automated refactorings for VS Code (JS & TS). ([Code](https://github.com/nicoespeon/abracadabra))
 - [Vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite) - VS Code for Vite. ([Code](https://github.com/antfu/vscode-vite))
 - [Typehole](https://marketplace.visualstudio.com/items?itemName=rikurouvila.typehole) - Automatically generate TypeScript types and interfaces for all serializable runtime values. ([Code](https://github.com/rikukissa/typehole))
+
+## DB
+
+- [VS Code SQL Notebook](https://github.com/cmoog/vscode-sql-notebook) - Open SQL files in the VS Code Notebook interface. Execute query blocks and view output interactively.
 
 ## React
 

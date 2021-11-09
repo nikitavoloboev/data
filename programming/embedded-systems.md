@@ -141,3 +141,4 @@
 - [stm32g0xx-hal](https://github.com/stm32-rs/stm32g0xx-hal) - Peripheral access API for STM32G0 series microcontrollers.
 - [Kari](https://github.com/hannobraun/kari) - Embeddable programming language, written in and for Rust.
 - [LPC8xx HAL](https://github.com/lpc-rs/lpc8xx-hal) - Hardware Abstraction Layer (HAL) for NXP LPC800 series of microcontrollers, written in Rust.
+- [Snek](https://sneklang.org/) - Python-inspired Language for Embedded Devices. ([Code](https://github.com/keith-packard/snek))

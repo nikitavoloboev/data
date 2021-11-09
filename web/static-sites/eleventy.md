@@ -31,3 +31,5 @@
 - [Optimize Images in Eleventy Using Cloudinary (2021)](https://sia.codes/posts/eleventy-and-cloudinary-images/)
 - [Architecting data in Eleventy (2021)](https://sia.codes/posts/architecting-data-in-eleventy/)
 - [Eleventy with Vite](https://github.com/fpapado/eleventy-with-vite) ([Article](https://www.brycewray.com/posts/2021/07/eleventy-vite-elite/))
+- [Eleventy Demo Serverless Auth](https://github.com/11ty/demo-eleventy-serverless-oauth) ([Tweet](https://twitter.com/zachleat/status/1458122880068292611))
+- [Slinkity](https://slinkity.dev/) - Tool for bringing dynamic, clientside interactions to your static 11ty site. ([Code](https://github.com/slinkity/slinkity))

@@ -14,6 +14,10 @@ I also use Dropbox for sharing configuration of various apps.
 
 ![](https://i.imgur.com/F9nsqBn.png)
 
+## Notes
+
+- [Dropbox on mac can slow down Swift compilation](https://twitter.com/macguru17/status/1458037982435418119)
+
 ## Links
 
 - [Replacing Dropbox in favor of DigitalOcean spaces (2021)](https://mitjafelicijan.com/replacing-dropbox-in-favor-of-digitalocean-spaces.html) ([HN](https://news.ycombinator.com/item?id=25909336))

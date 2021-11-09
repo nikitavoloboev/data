@@ -76,6 +76,7 @@ Here are few more things I liked, design wise.
 - [Hex](https://hex.tech/)
 - [Uniswap](https://uniswap.org/)
 - [Panic](https://panic.com/)
+- [Italic](https://italic.com/)
 - [Podia](https://www.podia.com/)
 - [Reeder](https://reeder.app/)
 - [Remotive](https://remotive.io/)

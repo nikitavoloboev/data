@@ -1,6 +1,6 @@
 # Russia
 
-The number of crimes against humanity committed by governments of [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies & judge existing dictators with all their helpers accordingly.
+The number of [crimes against humanity](https://www.youtube.com/watch?v=hdXG7sPPew0) committed by governments of [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies & judge existing dictators with all their helpers accordingly.
 
 It's a travesty that citizen's taxes are are being stolen to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
 
@@ -326,3 +326,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Герой своего романа](https://iamhero.special.ink/)
 - [Пытки для Навального: кем его окружили в колонии, как компрометируют и ломают (2021)](https://www.youtube.com/watch?v=AWUsaUcd0I8&t=1s) ([Tweet](https://twitter.com/Kira_Yarmysh/status/1456170822410899458)) ([Tweet](https://twitter.com/team_milov/status/1456205700296847361)) ([Transcript](https://tvrain.ru/news/byvshie_zakljuchennye_pokrovskoj_kolonii_rasskazali_ob_izdevatelstvah_nad_navalnym-541267/))
 - [Куда в России можно сгонять, чтобы пожить рядом с горами](https://twitter.com/vzrosly_content/status/1457366581131059204)
+- [Pikabu](https://pikabu.ru/) - Уютное информационно-развлекательное сообщество.

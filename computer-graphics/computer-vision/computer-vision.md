@@ -435,3 +435,7 @@
 - [Pixray](https://github.com/dribnet/pixray) - Neural image generation.
 - [Unsupervised Learning of Compositional Energy Concepts (2021)](https://arxiv.org/abs/2111.03042) ([Tweet](https://twitter.com/du_yilun/status/1456630363040751616))
 - [Learning with Noisy Labels for Robust Point Cloud Segmentation (2021)](https://shuquanye.com/PNAL_website/) ([Code](https://github.com/pleaseconnectwifi/PNAL))
+- [Kalidoface](https://github.com/yeemachine/kalidoface) - Become a virtual character with just your webcam. ([Web](https://kalidoface.com/))
+- [KalidoKit](https://github.com/yeemachine/kalidokit) - Face, Pose, and Hand Tracking Kinematics.
+- [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/)
+- [Unsupervised Real-world Image Super Resolution via Domain-distance Aware Training (2020)](https://arxiv.org/abs/2004.01178) ([Code](https://github.com/ShuhangGu/DASR))

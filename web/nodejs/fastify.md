@@ -8,3 +8,6 @@
 - [Fastify TypeBox](https://github.com/sinclairzx81/fastify-typebox) - Enhanced TypeBox support for Fastify.
 - [fastify-zod](https://github.com/elierotenberg/fastify-zod) - Zod integration with Fastify.
 - [fastify-sensible](https://github.com/fastify/fastify-sensible) - Defaults for Fastify that everyone can agree on.
+- [fastify-overview](https://github.com/Eomm/fastify-overview) - Draw a schema graph of your Fastify application.
+- [fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin to serve Vite SSR applications with universal API, data fetching and hydration utilities.
+- [Fastify Now](https://github.com/yonathan06/fastify-now) - File based routing for fastify.

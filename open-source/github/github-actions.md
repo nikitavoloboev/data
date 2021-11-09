@@ -85,6 +85,7 @@
 - [GitHub Repo Stats](https://github.com/jgehrcke/github-repo-stats) - GitHub Action to periodically inspect a target repository and generate a report for it.
 - [GitHub Label Sync](https://github.com/Financial-Times/github-label-sync) - Synchronize your GitHub labels with as few destructive operations as possible.
 - [release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
+- [changerelease](https://github.com/dropseed/changerelease) - Automatically update your GitHub Releases from CHANGELOG.md (Keep a Changelog).
 - [Comment on PR via GitHub Action](https://github.com/unsplash/comment-on-pr) - GitHub action to comment on the relevant open PR when a commit is pushed.
 - [GitHub Actions for deploying to Azure Functions](https://github.com/Azure/functions-action)
 - [GitHub Action for Azure CLI](https://github.com/Azure/cli)
@@ -311,3 +312,4 @@
 - [Collaborative programming environment inside GitHub Actions](https://github.com/jstrieb/ctf-collab)
 - [auto-doc](https://github.com/tj-actions/auto-doc) - Auto generate documentation from actions.yml.
 - [go-actions-cache](https://github.com/tonistiigi/go-actions-cache)
+- [GitHub Actions Cheat Sheet](https://github.github.io/actions-cheat-sheet/actions-cheat-sheet.pdf) ([Code](https://github.com/github/actions-cheat-sheet))

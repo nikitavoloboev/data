@@ -94,4 +94,6 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Ask HN: What is your story of immigrating to another country? (2021)](https://news.ycombinator.com/item?id=28808468)
 - [Rome2rio](https://www.rome2rio.com/) - Discover how to get anywhere.
 - [CanITravel](https://canitravel.net/) - Covid entry requirements to any destination.
-- [Geo Memorizer](https://geo-memorizer.web.app/) - Game to memorize facts about every country. ([Code](https://github.com/carltheperson/geo-memorizer)) ([Article](https://carltheperson.com/posts/geo-memorizer/))
+- [Hewell App](https://hewellapp.com/) - Travel app powered by WikiData. ([HN](https://news.ycombinator.com/item?id=29144207))
+- [Awesome Immigration](https://github.com/acacess/awesome-immigration) - Awesome list of long-term visas.
+- [Airheart](https://airheart.com/) - Trip Planner, for Solo Travelers and Groups.

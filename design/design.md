@@ -207,3 +207,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Lunacy](https://icons8.com/lunacy) - Figma-like design tool, not in Electron, in Avalonia.
 - [Interview with Frederique Matti (2021)](https://www.loversmagazine.com/interviews/frederique-matti)
 - [Lovers Magazine](https://www.loversmagazine.com/) - Online magazine for creative professionals. ([Twitter](https://twitter.com/theloversmag))
+- [Inclusive Web Design Checklist](https://github.com/Heydon/inclusive-design-checklist)
+- [Jony Ive's foral designs (2021)](https://www.fastcompany.com/90693444/jony-ives-first-major-design-since-leaving-apple-isnt-what-youd-expect)
