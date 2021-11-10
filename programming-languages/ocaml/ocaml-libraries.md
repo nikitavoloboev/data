@@ -108,6 +108,8 @@
 - [CacheCache](https://github.com/pascutto/cachecache) - Efficient caching library for OCaml.
 - [ocaml-extlib](https://github.com/ygrek/ocaml-extlib) - Extended Standard Library for OCaml.
 - [MParser](https://github.com/murmour/mparser) - Simple monadic parser combinator library for OCaml.
+- [futurama](https://github.com/ghuysmans/futurama) - Finite permutation library with an optimizing compiler.
+- [algebra](https://github.com/ghuysmans/algebra) - Definitions for common algebraic structures.
 
 ## Links
 
