@@ -141,3 +141,4 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Solana PoC Framework](https://github.com/neodyme-labs/solana-poc-framework) - Framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way.
 - [Solana Smart Contracts: Common Pitfalls and How to Avoid Them (2021)](https://blog.neodyme.io/posts/solana_common_pitfalls)
 - [Drift](https://www.drift.trade/) - Lightning-fast and scalable perpetual futures DEX. ([Protocol Code](https://github.com/drift-labs/protocol-v1)) ([Example Bots](https://github.com/drift-labs/example-bots)) ([Twitter](https://twitter.com/DriftProtocol))
+- [sol-rayz](https://github.com/NftEyez/sol-rayz) - Package to simplify parsing NFTs on Solana.

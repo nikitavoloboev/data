@@ -386,6 +386,7 @@ Here are few more things I liked, design wise.
 - [Yenly Ma](https://www.yenly.wtf/)
 - [Bargava Subramanian](https://www.bargava.com/)
 - [Kent C. Dodds](https://kentcdodds.com/) ([Code](https://github.com/kentcdodds/kentcdodds.com))
+- [Jon Rundle](https://jonrundle.design/)
 - [Tom Moor](https://blog.tommoor.com/about/)
 - [Raluca Nicola](https://raluca-nicola.net/)
 - [Andy McCune](https://andymccune.com/)

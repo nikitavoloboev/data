@@ -81,7 +81,7 @@
 - [OpenMusic](https://github.com/openmusic-project/openmusic) - Visual programming language based on Lisp.
 - [Scribbletune](https://scribbletune.com/) - Create music with JavaScript. ([Code](https://github.com/scribbletune/scribbletune))
 - [auditok](https://github.com/amsehili/auditok) - Audio/acoustic activity detection and audio segmentation tool.
-- [‎Flip Sampler](https://apps.apple.com/us/app/flip-make-music-everywhere/id1486629619#?platform=iphone)
+- [Flip Sampler](https://apps.apple.com/us/app/flip-make-music-everywhere/id1486629619#?platform=iphone)
 - [Fragment](https://www.fsynth.com/) - Real-time audiovisual live coding environment.
 - [SOUL](https://soul.dev/) - Language and infrastructure for writing and deploying audio code. ([Code](https://github.com/soul-lang/SOUL))
 - [libpd](https://github.com/libpd/libpd) - Pure Data embeddable audio synthesis library.
@@ -105,7 +105,7 @@
 - [Sonic Visualiser](https://sonicvisualiser.org/) - Visualization, analysis, and annotation of music audio recordings. ([Code](https://github.com/sonic-visualiser/sonic-visualiser))
 - [Sound GLSL](https://github.com/soundshader/soundshader.github.io)
 - [SongKit](https://songkit.app/) - AI-powered songbook app for your iPhone and iPad, letting you organize, view, and edit your songs sheets on any of your devices.
-- [wavesurfer.js](https://wavesurfer-js.org/) - Customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas. ([Code](https://github.com/katspaugh/wavesurfer.js))
+- [wavesurfer.js](https://wavesurfer-js.org/) - Customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas. ([Code](https://github.com/katspaugh/wavesurfer.js)) ([Use with React](https://dev.to/jamland/audio-player-with-wavesurfer-js-react-1g3b))
 - [Sorrygle](https://github.com/JJoriping/Sorrygle) - Text-based MIDI writing language and its compiler.
 - [Twang](https://github.com/AldaronLau/twang) - Library for pure Rust advanced audio synthesis.
 - [Leipzig](https://github.com/ctford/leipzig) - Music composition library for Clojure and ClojureScript.
@@ -277,3 +277,4 @@
 - [Audiomate](https://github.com/ynop/audiomate) - Python library for handling audio datasets.
 - [Interactive music co-creation with PyTorch and TensorFlow.js](https://github.com/chrisdonahue/music-cocreation-tutorial)
 - [Scales, Chords, and Cadences: Practical Music Theory for MIR Researchers](https://github.com/jcdevaney/ISMIR-musicTheoryTutorial)
+- [Samplescope](https://samplescope.app/) - App to search audio samples over internet. ([Code](https://github.com/jamland/samplescope))

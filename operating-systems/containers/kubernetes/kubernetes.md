@@ -498,3 +498,4 @@
 - [Tricks](https://github.com/vitorenesduarte/tricks) - Run experiments effortlessly on top of Kubernetes.
 - [Sunstone](https://about.sunstone.dev/) - Deploy Kubernetes resources with ease.
 - [Kubernetes webhook certificate generator and patcher](https://github.com/jet/kube-webhook-certgen) - Tools to help with self signed cert generation for Kubernetes test environment.
+- [Watch and print changes in k8s](https://github.com/ibuildthecloud/wtfk8s)

@@ -12,3 +12,7 @@
 - [DAOs for non-profit fundraising](https://twitter.com/zoink/status/1457520821233078277)
 - [guild.xyz](https://github.com/AgoraSpaceDAO/guild.xyz) - Tool for token-curated communities.
 - [dgrants](https://github.com/dcgtc/dgrants) - Decentralized Grant platform that implements quadratic funding.
+- [Developer DAO](https://www.developerdao.com/) - Community of builders who believe in collective ownership of the internet. ([Code](https://github.com/Developer-DAO/developerdao.com)) ([Twitter](https://twitter.com/developer_dao))
+- [DeveloperDAO Knowledge Base](https://github.com/Developer-DAO/resources) - Help you learn and grow in your Web3 journey.
+- [Citizen DAO](https://citizendao.com/) - Crypto Community for Social Impact Projects.
+- [Diamond DAO](https://www.diamonddao.xyz/) - Home for DAO data nerds.

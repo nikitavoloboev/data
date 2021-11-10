@@ -370,3 +370,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Clean Code on iOS (2021)](https://bpoplauschi.github.io/2021/09/20/Clean-Code-on-iOS.html)
 - [Clean Architecture on iOS (2021)](https://bpoplauschi.github.io/2021/09/21/Clean-Architecture-on-iOS.html)
 - [Proof of concept: iOS app written in pure Rust](https://github.com/wooden-worm/ios-app-rs) ([Reddit](https://www.reddit.com/r/rust/comments/qpruup/proof_of_concept_ios_app_written_in_pure_rust/))
+- [iOS apps should support cmd+k searches natively](https://twitter.com/jonrundle/status/1458540615642275847)

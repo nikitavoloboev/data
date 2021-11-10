@@ -37,3 +37,4 @@
 - [Arweave NFT Metadata Uploaded](https://github.com/thuglabs/arweave-image-uploader) - This package can be used to create metadata files on the Arweave network.
 - [Permanent, decentralized data storage with Arweave featuring Sam Williams (2021)](https://www.youtube.com/watch?v=8wwXoj_Lqi8)
 - [Arweave Wiki](https://arwiki.wiki/#/en/main)
+- [ArDB](https://github.com/textury/ardb) - Best way to interact with the weave, without having to write any GQL and trying to remember param names.

@@ -59,6 +59,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [How NFTs can be used for money laundering: Someone pays "for the NFT" when they're actually paying for something illicit. Having the NFT can make it appear to be a legitimate transaction, so they can deposit the funds without the IRS losing their mind.](https://twitter.com/sageheroRC/status/1449020958463901702)
 - [I believe what makes NFTs different is a transformative vision of a future that true believers find inspiring and achievable. In their eyes, the current speculative bubble is a mechanism for growing something enduring.](https://twitter.com/slightlylate/status/1450886698951340033)
 - [Recognizing the spiritual hunger that sits at the core of these movements (and remember how many in the space are young people!) is an important step to understanding them. Crypto culture is a mirror world that feeds off of the unexamined failures of the real world.](https://twitter.com/Pinboard/status/1450886210914709506)
+- [One of the coolest things about crypto is being able to fork mainnet locally and just like...experiment with building on top of other peoples' contracts without hitting them. Such a mindset shift from web2. like you can turn the whole web into a staging environment. wild.](https://twitter.com/jongold/status/1458553279562989571)
 
 ## Links
 
@@ -274,3 +275,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Reflections on Trusting ‘Trustlessness’ in the Era of “Crypto”/Blockchains (2021)](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/cbit-4-2.pdf)
 - [Secret Network](https://scrt.network/) - Blockchain with data privacy by default.
 - [Tenk NFT](https://github.com/willemneal/tenk) - Template for making a NFT contract with a raffle of tokens.
+- [Issues with blockchain/crypto tech (2021)](https://twitter.com/mountain_ghosts/status/1458544957757788169)

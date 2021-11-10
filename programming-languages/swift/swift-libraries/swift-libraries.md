@@ -813,6 +813,7 @@
 - [BinaryCoder](https://github.com/mikeash/BinaryCoder) - Example implementation of Swift.Codable using a simple binary format.
 - [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
 - [Dwifft](https://github.com/jflinter/Dwifft) - Small Swift library that tells you what the "diff" is between two collections.
+- [CachedAsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) - AsyncImage, but with cache capabilities.
 
 ## Other (not lib)
 
