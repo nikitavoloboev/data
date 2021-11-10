@@ -38,12 +38,17 @@
 - [Weaver-test](https://github.com/disneystreaming/weaver-test) - Test framework that runs everything in parallel.
 - [ScalaCheck](https://github.com/typelevel/scalacheck) - Property-based testing for Scala. ([Web](https://scalacheck.org/)) ([Web Code](https://github.com/typelevel/scalacheck-web))
 - [Test-State](https://github.com/japgolly/test-state) - Test stateful stuff statelessly, and reasonably.
+- [kallikrein](https://github.com/tek/kallikrein) - Scala testing framework for sbt focused on running cats-effect based programs.
 
 ## GraphQL
 
 - [Caliban](https://github.com/ghostdogpr/caliban) - Purely functional library for building GraphQL servers and clients in Scala. ([Docs](https://ghostdogpr.github.io/caliban/docs/))
 - [Sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL implementation.
 - [Sangria Relay](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
+
+## Error
+
+- [splain](https://github.com/tek/splain) - Scala compiler plugin for more concise errors.
 
 ## ML
 

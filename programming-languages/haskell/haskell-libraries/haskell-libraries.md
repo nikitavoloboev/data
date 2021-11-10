@@ -181,6 +181,7 @@
 - [Autodocodec](https://github.com/NorfairKing/autodocodec) - Self(auto)- documenting encoder and decoder.
 - [Vinyl](https://github.com/VinylRecords/Vinyl) - Extensible Records for Haskell.
 - [constraints-extras](https://github.com/obsidiansystems/constraints-extras) - Convenience functions and template haskell for working with constraints.
+- [some](https://github.com/haskellari/some) - Defines several versions of an existential type 'Some'.
 
 ## Links
 
@@ -197,3 +198,4 @@
 - [Haskell Cabal](https://www.haskell.org/cabal/) - System for building and packaging Haskell libraries and programs. ([Awesome](https://github.com/kowainik/awesome-cabal)) ([Code](https://github.com/haskell/cabal))
 - [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Awesome Haskell links, frameworks, libraries and software.
 - [Awesome Haskell 2](https://github.com/uhub/awesome-haskell)
+- [Haskell Development Build Tools using Nix](https://github.com/tek/hix)

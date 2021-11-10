@@ -111,6 +111,8 @@
 - [Coffi](https://github.com/IGJoshua/coffi) - Foreign Function Interface in Clojure for JDK 17.
 - [Ring-Codec](https://github.com/ring-clojure/ring-codec) - Utility library for encoding and decoding data.
 - [joinery](https://github.com/cjsauer/joinery) - Library to enable traversal of in-memory graph-like data structures using Clojure(Script) map protocols.
+- [tools.namespace](https://github.com/clojure/tools.namespace) - Tools for managing namespaces in Clojure.
+- [svg-clj](https://github.com/adam-james-v/svg-clj) - DSL for compiling SVG elements with Clojure(script).
 
 ## Links
 

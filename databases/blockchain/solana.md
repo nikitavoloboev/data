@@ -137,3 +137,7 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [RunNode.com](https://runnode.com/) - Fastest RPC Endpoints on Solana.
 - [Rendering the Metaverse on Solana (Jules Urbach - CEO, OTOY)](https://www.youtube.com/watch?v=mVFeohWusPU)
 - [Neon EVM](https://neon-labs.org/) - Enables dApp developers to use Ethereum tooling to scale and get access to liquidity on Solana. ([Docs](https://github.com/neonlabsorg/neon-evm.docs)) ([Code](https://github.com/neonlabsorg/neon-evm)) ([Twitter](https://twitter.com/neonlabsorg))
+- [Solana Security Workshop](https://github.com/neodyme-labs/neodyme-breakpoint-workshop) ([Web](https://workshop.neodyme.io/))
+- [Solana PoC Framework](https://github.com/neodyme-labs/solana-poc-framework) - Framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way.
+- [Solana Smart Contracts: Common Pitfalls and How to Avoid Them (2021)](https://blog.neodyme.io/posts/solana_common_pitfalls)
+- [Drift](https://www.drift.trade/) - Lightning-fast and scalable perpetual futures DEX. ([Protocol Code](https://github.com/drift-labs/protocol-v1)) ([Example Bots](https://github.com/drift-labs/example-bots)) ([Twitter](https://twitter.com/DriftProtocol))

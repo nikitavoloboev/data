@@ -276,6 +276,10 @@
 - [LIEF](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats.
 - [AStarix](https://github.com/eth-sri/astarix) - Fast and Optimal Sequence-to-Graph Aligner.
 - [dtl](https://github.com/cubicdaiya/dtl) - Diff template library written by C++.
+- [TinyFSM](https://github.com/digint/tinyfsm) - Simple C++ finite state machine library.
+- [Tongrams](https://github.com/jermp/tongrams) - C++ library providing fast language model queries in compressed space.
+- [Autocomplete](https://github.com/jermp/autocomplete) - Efficient and effective query auto-completion in C++.
+- [Sexpresso](https://github.com/BitPuffin/sexpresso) - C++ centric s-expression parser library.
 
 ## Links
 

@@ -27,6 +27,7 @@
 - [Flipper](https://github.com/jnunemaker/flipper) - Beautiful, performant feature flags for Ruby.
 - [debug.rb](https://github.com/ruby/debug) - Debugging functionality for Ruby. ([Article](https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa))
 - [Async](https://github.com/socketry/async) - Composable asynchronous I/O framework for Ruby based on nio4r and timers.
+- [MemoWise](https://github.com/panorama-ed/memo_wise) - Wise choice for Ruby memoization.
 
 ## Links
 

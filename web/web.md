@@ -330,3 +330,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Sharkle](https://sharkle.com/) - Generator of random awesomeness.
 - [An inside look into the illicit ad industry (2021)](https://ariadne.space/2021/11/04/an-inside-look-into-the-illicit-ad-industry/) ([HN](https://news.ycombinator.com/item?id=29120343)) ([Lobsters](https://lobste.rs/s/yif3tc/inside_look_into_illicit_ad_industry))
 - [Favicons: How to Make Sure Browsers Only Download the SVG Version (2021)](https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/)
+- [Bun](https://bun.sh/) - Fast JavaScript & CSS bundler. ([Code](https://github.com/Jarred-Sumner/bun)) ([HN](https://news.ycombinator.com/item?id=29179848))

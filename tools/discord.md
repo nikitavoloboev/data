@@ -48,6 +48,7 @@
 - [Discljord](https://github.com/IGJoshua/discljord) - Clojure wrapper library for the Discord API, with full API coverage, and high scalability.
 - [Dis.ml](https://github.com/Mishio595/disml) - OCaml Discord API.
 - [discordjs/voice](https://github.com/discordjs/voice) - Implementation of the Discord Voice API for discord.js and other JS/TS libraries.
+- [discord-hero](https://github.com/discord-hero/discord-hero) - Powerful, modular and easy-to-use Discord Python bot framework. Batteries included.
 
 ## Notes
 

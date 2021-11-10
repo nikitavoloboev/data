@@ -48,6 +48,7 @@
 - [SweepContractor.jl](https://github.com/chubbc/SweepContractor.jl) - Julia package for the contraction of tensor networks using the sweep-line-based contraction algorithm.
 - [CellMLToolkit.jl](https://github.com/SciML/CellMLToolkit.jl) - Julia library that connects CellML models to the Scientific Julia ecosystem.
 - [LossFunctions](https://github.com/JuliaML/LossFunctions.jl) - Julia package of loss functions for machine learning.
+- [FluxMPI.jl](https://github.com/avik-pal/FluxMPI.jl) - MultiGPU / MultiNode Training of Flux Models.
 
 ## Math
 
@@ -108,6 +109,7 @@
 - [Simplify.jl](https://github.com/HarrisonGrodin/Simplify.jl) - Algebraic simplification in Julia.
 - [InfiniteOpt.jl](https://github.com/pulsipher/InfiniteOpt.jl) - Intuitive modeling interface for infinite-dimensional optimization problems.
 - [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
+- [Algebraic Multigrid](https://github.com/JuliaLinearAlgebra/AlgebraicMultigrid.jl) - Lets you solve sparse linear systems using Algebraic Multigrid (AMG).
 
 ## NLP
 

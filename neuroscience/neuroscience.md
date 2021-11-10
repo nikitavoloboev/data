@@ -89,6 +89,7 @@
 - [Virtual 3D Fly Brain](https://v2.virtualflybrain.org/org.geppetto.frontend/geppetto?id=VFB_00101567&i=VFB_00101567) ([HN](https://news.ycombinator.com/item?id=29016849))
 - [Generalized Shape Metrics on Neural Representations (2021)](https://arxiv.org/abs/2110.14739) ([Tweet](https://twitter.com/ItsNeuronal/status/1455300536442388482))
 - [The strange path of accepting how your brain works (2021)](https://alexanderell.is/posts/limitations/) ([HN](https://news.ycombinator.com/item?id=29057510))
+- [Standardized Brain Molecular Atlas for Systems Modeling and Simulation (2021)](https://www.frontiersin.org/articles/10.3389/fnmol.2021.604559/full)
 
 ## Images
 

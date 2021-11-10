@@ -3,6 +3,7 @@
 ## Web
 
 - [Mint](https://github.com/elixir-mint/mint) - Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2.
+- [Finch](https://github.com/keathley/finch) - HTTP client with a focus on performance, built on top of Mint and NimblePool.
 - [Ash](https://github.com/ash-project/ash) - Resource based framework for building Elixir applications.
 - [SiteEncrypt](https://github.com/sasa1977/site_encrypt) - Integrated certification via Let's encrypt for Elixir-powered sites.
 - [ExVCR](https://github.com/parroty/exvcr) - Record and replay HTTP interactions library for Elixir.

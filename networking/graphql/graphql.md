@@ -257,3 +257,4 @@
 - [Altair GraphQL Client](https://github.com/altair-graphql/altair) - Helps you debug GraphQL queries and implementations. ([Web](https://altair.sirmuel.design/))
 - [Developing GraphQL APIs using Nexus (2021)](https://formidable.com/blog/2021/graphql-with-nexus/)
 - [TypeGraphQL-DataLoader](https://github.com/slaypni/type-graphql-dataloader) - TypeGraphQL + DataLoader + TypeORM made easy.
+- [Nexus Input Transformation](https://github.com/koaninc/nexus-input-transformation) - Package of tools for creating transformations of input arguments on nexus GraphQL resolvers.

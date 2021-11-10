@@ -129,6 +129,7 @@
 - [React Cool Portal](https://github.com/wellyshen/react-cool-portal) - React hook for Portals, which renders modals, dropdowns, tooltips etc. to <body> or else.
 - [use-web-animations](https://github.com/wellyshen/use-web-animations) - React hook for highly-performant and manipulable animations using Web Animations API.
 - [use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland.
+- [OIDC React](https://github.com/bjerkio/oidc-react) - React component/hooks to provide OpenID Connect and OAuth2 protocol support.
 
 ## Code
 

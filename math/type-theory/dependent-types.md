@@ -57,3 +57,4 @@
 - [datatt](https://github.com/mmcqd/datatt) - Implementation of a dependent type theory with user defined datatypes.
 - [Pompom](https://github.com/caotic123/PomPom-Language) - Dependently typed language for proofs that you can implement in one day. ([HN](https://news.ycombinator.com/item?id=28725803))
 - [Specification for Dependent Types in Haskell (Core)](https://github.com/sweirich/corespec)
+- [(2) Program Adverbs: Structures for Embedding Effectful Programs (2021)](https://lastland.github.io/media/papers/adverbs-preprint.pdf)

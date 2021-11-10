@@ -57,3 +57,4 @@
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - Takes a functional approach to Web Components by applying middleware to your components.
 - [Pixano Elements](https://github.com/pixano/pixano-elements) - Library of web components dedicated to data annotation tasks.
 - [Lion](https://lion-web.netlify.app/) - Fundamental white label web components for building your design system. ([Code](https://github.com/ing-bank/lion))
+- [Web Components API Viewer](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.

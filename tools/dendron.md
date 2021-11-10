@@ -14,3 +14,4 @@
 - [Note taking With Dendron (2021)](https://twit.tv/shows/floss-weekly/episodes/619)
 - [Dendron Handbook](https://handbook.dendron.so/) ([Code](https://github.com/dendronhq/handbook))
 - [Dendron Seed Bank - A Public Registry for General Knowledge](https://blog.dendron.so/notes/qTeL51LFD0Y8uC9ect7QV.html) ([Tweet](https://twitter.com/kevins8/status/1409912699031457793))
+- [HN: Dendron (2021)](https://news.ycombinator.com/item?id=29176158)

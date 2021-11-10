@@ -196,3 +196,4 @@
 - [OctaneRender](https://home.otoy.com/render/octane-render/) - Fastest unbiased, spectrally correct GPU render engine, delivering quality and speed.
 - [OTOY](https://home.otoy.com/) - Future of holographic rendering is in the cloud. ([Twitter](https://twitter.com/OTOY))
 - [NAP Framework](https://www.napframework.com/) - Open source, low overhead, real-time control & visualization platform. ([Code](https://github.com/napframework/nap))
+- [Awesome Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)

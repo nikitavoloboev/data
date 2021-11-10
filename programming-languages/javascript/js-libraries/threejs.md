@@ -69,3 +69,6 @@
 - [three-csg-ts](https://github.com/Jiro-Digital/three-csg-ts) - CSG library for use with THREE.js
 - [THREE.js-PathTracing-Renderer](https://github.com/erichlof/THREE.js-PathTracing-Renderer) - Real-time PathTracing with global illumination and progressive rendering.
 - [Ombra](https://github.com/gsimone/ombra) - Collection of shader-related utilities for react-three-fiber.
+- [iTowns](https://github.com/iTowns/itowns) - Three.js-based framework written in JavaScript/WebGL for visualizing 3D geospatial data. ([Web](http://www.itowns-project.org/))
+- [3DTilesViewer](https://github.com/ebeaufay/3DTilesViewer) - 3DTiles viewer for three.js.
+- [three-loader-3dtiles](https://github.com/nytimes/three-loader-3dtiles) - Three.js loader module for handling OGC 3D Tiles, created by Cesium.

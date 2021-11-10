@@ -144,7 +144,7 @@
 - [Rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes.
 - [Solo](https://www.solo.io/) - Next generation API gateway to connect, secure and control traffic to any application on any infrastructure.
 - [Gloo](https://github.com/solo-io/gloo) - Envoy-Powered API Gateway.
-- [Keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates.
+- [Keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates. ([Web](https://keel.sh/))
 - [GLBC](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud.
 - [Kube Profefe](https://github.com/profefe/kube-profefe) - Continuous profiling made easy in Kubernetes with profefe.
 - [Octant](https://github.com/vmware-tanzu/octant) - Web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -496,3 +496,5 @@
 - [Hadron](https://github.com/hadron-project/hadron) - The Kubernetes native and CloudEvents native distributed event streaming, event orchestration & messaging platform.
 - [Caelus](https://github.com/Tencent/caelus) - Set of Kubernetes solutions for reusing idle resources of nodes by running extra batch jobs.
 - [Tricks](https://github.com/vitorenesduarte/tricks) - Run experiments effortlessly on top of Kubernetes.
+- [Sunstone](https://about.sunstone.dev/) - Deploy Kubernetes resources with ease.
+- [Kubernetes webhook certificate generator and patcher](https://github.com/jet/kube-webhook-certgen) - Tools to help with self signed cert generation for Kubernetes test environment.

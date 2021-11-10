@@ -1,5 +1,9 @@
 # [DynamoDB](https://aws.amazon.com/dynamodb)
 
+## OSS DynamoDB apps
+
+- [Note Service (Next Generation)](https://github.com/deeheber/note-service-next-generation) - GraphQL CRUD API built using AWS AppSync, Lambda, DynamoDB, CDK, Typescript.
+
 ## Notes
 
 - Each item has a unique primary key and any number of attributes.

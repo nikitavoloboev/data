@@ -12,3 +12,4 @@
 - [MyMonero](https://mymonero.com/) - Simplest way to use the next-generation private digital currency Monero.
 - [Monero P2Pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining.
 - [Bitcoin–Monero Cross-chain Atomic Swap](https://github.com/comit-network/xmr-btc-swap)
+- [Monero and Proof of Stake (2021)](https://www.reddit.com/r/Monero/comments/mwppuz/monero_and_proof_of_stake/)

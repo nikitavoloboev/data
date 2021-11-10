@@ -19,6 +19,7 @@ I try to give my full attention to any ideas I am working on.
 - [Personal website is the perfect side project / try out new ideas / learn new things playground.](https://twitter.com/Gavmn/status/1399089921814634501)
 - [If I have an apple and you have an apple and we exchange them, we both still have one apple. However, if I have an idea and you also have an idea and we exchange them, we both have two ideas.](https://twitter.com/Julian/status/1411882234970132481)
 - [Audience (who needs help?) > Problem (what do they need help with?) > Product (this solves a problem for my audience) > Success](https://twitter.com/PocketBryan/status/1438615537987293191)
+- [Only 4 out of 70+ projects I ever did made money and grew. > 95% of everything I ever did failed. My hit rate is only about ~5%. So...ship more.](https://twitter.com/levelsio/status/1457315274466594817)
 
 ## Links
 

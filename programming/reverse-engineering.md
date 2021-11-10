@@ -97,3 +97,4 @@
 - [Degate](https://github.com/DegateCommunity/Degate) - Modern and open-source cross-platform software for chips reverse engineering. ([Web](https://www.degate.org/))
 - [An opinionated guide on how to reverse engineer software (2021)](https://margin.re/media/an-opinionated-guide-on-how-to-reverse-engineer-software-part-1.aspx) ([HN](https://news.ycombinator.com/item?id=29084716))
 - [List of open source reverse engineering tools with a focus on binary analysis](https://github.com/extremecoders-re/re-list)
+- [Binary Reversing Methodologies (2021)](https://justintaft.com/blog/2021/11/07/binary-reversing-methodologies)

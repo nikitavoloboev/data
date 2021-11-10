@@ -112,3 +112,4 @@
 - [Terraform Provider Lint Tool](https://github.com/bflad/tfproviderlint)
 - [PoC Terraform Provider in Rust (2021)](https://tevps.net/blog/2021/11/7/poc-terraform-provider-rust/) ([Lobsters](https://lobste.rs/s/lztopq/poc_terraform_provider_rust)) ([Code](https://github.com/palfrey/terraform-provider-helloworld))
 - [Terraforge](https://terraforge.vercel.app/) - Graphical Terraform cofiguration generator. ([Code](https://github.com/badarsebard/terraforge))
+- [Auth0 Terraform Provider](https://github.com/alekc/terraform-provider-auth0)

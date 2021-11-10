@@ -605,3 +605,4 @@ if err != nil {
 - [Golang News](https://golangnews.com/)
 - [Using Generics in Go (2021)](https://www.youtube.com/watch?v=nr8EpUO9jhw)
 - [ineffassign](https://github.com/gordonklaus/ineffassign) - Detect ineffectual assignments in Go code.
+- [Twelve Years of Go (2021)](https://go.dev/blog/12years) ([HN](https://news.ycombinator.com/item?id=29176360))

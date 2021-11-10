@@ -128,6 +128,8 @@
 - [action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - Github Action that ensures that your PR title matches the Conventional Commits spec.
 - [Metadata Action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker.
 - [GitHub Sponsors Readme Action](https://github.com/JamesIves/github-sponsors-readme-action) - Automatically add your GitHub Sponsors to your README.
+- [Pulumi GitHub Actions](https://github.com/pulumi/actions) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub.
+- [Import Codesign Certs](https://github.com/Apple-Actions/import-codesign-certs) - GitHub Action for Importing Code-signing Certificates into a Keychain.
 
 ## Go
 

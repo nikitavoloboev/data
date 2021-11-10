@@ -1,6 +1,6 @@
 # Russia
 
-The number of [crimes against humanity](https://www.youtube.com/watch?v=hdXG7sPPew0) committed by governments of [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies & judge existing dictators with all their helpers accordingly.
+The number of crimes against humanity committed by governments of [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies & judge existing dictators with all their helpers accordingly.
 
 It's a travesty that citizen's taxes are are being stolen to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
 
@@ -17,6 +17,10 @@ It would be great if all countries cut ties with these [oppressive regimes](http
 Alexey Navalny says: [It is impossible to jail millions and hundreds of thousands, and I very much hope that people will become more and more aware of this, and when they realize this, such a moment will come, you will not jail the whole country.](https://twitter.com/teamnavalny_mos/status/1356594998603616256)
 
 Change comes gradually, then suddenly. I am hopeful that this [change comes soon](../../future/future.md) and am trying my best to make that happen.
+
+Aside from the unfortunate series of historical events that led to the current abuse of power from government over people, Russia is beautiful country with amazing people. Things won't improve in the country financially though if there is always a risk of someone coming in 'from the government' to take over your business and putting you in jail. Not including the fact that [most young people want to leave it at any opportunity they can get](https://twitter.com/dan_abramov/status/1458101197500473355).
+
+With that said, no matter what country/community you live in, you have to do your best within what's possible given your surroundings. Whilst seeking to move to an environment that helps you express yourself best. Don't waste time on pointless arguing and value action & proper actionable discourse above all.
 
 ## Notes
 

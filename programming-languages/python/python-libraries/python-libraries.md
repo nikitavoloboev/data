@@ -543,6 +543,9 @@
 - [Pyappcache](https://github.com/calpaterson/pyappcache) - Library for application-level caching.
 - [redun](https://github.com/insitro/redun/) - Expressive and efficient workflow framework.
 - [retworkx](https://github.com/Qiskit/retworkx) - High performance Python graph library implemented in Rust.
+- [ahocorasick_rs](https://github.com/G-Research/ahocorasick_rs) - Check for multiple patterns in a single string at the same time: a fast Aho-Corasick algorithm for Python.
+- [Eliot](https://github.com/itamarst/eliot) - Logging that tells you why it happened.
+- [Crochet](https://github.com/itamarst/crochet) - Use Twisted anywhere.
 
 ## Links
 

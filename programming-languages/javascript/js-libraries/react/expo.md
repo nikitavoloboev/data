@@ -16,3 +16,4 @@
 - [Drastically Faster Bundling in React Native (2021)](https://blog.expo.dev/drastically-faster-bundling-in-react-native-a54f268e0ed1) ([Tweet](https://twitter.com/Baconbrix/status/1449043817663905793))
 - [expo.fyi](https://github.com/expo/fyi) - Information that you may find useful when interacting with Expo tools and service.
 - [Expo + Next.js Router + React Navigation](https://github.com/nandorojo/expo-next-react-navigation) - Set of hooks that wrap the react-navigation API that you're used to, and make it work with next/router.
+- [How to create an Expo app with serverless (2021)](https://serverless-stack.com/examples/how-to-create-an-expo-app-with-serverless.html)

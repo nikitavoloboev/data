@@ -22,6 +22,10 @@
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
 - [Dropbox JS](https://github.com/dropbox/dropbox-sdk-js) - Dropbox JavaScript SDK.
+- [Twitter Go](https://github.com/mattn/twty)
+- [Twitter Go 2](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
+- [Twitter Go 3](https://github.com/bloveless/tweetgo)
+- [Twitter Go 4](https://github.com/sivchari/gotwtr)
 - [Twitter Ruby](https://github.com/nov/twitter_oauth2) - Twitter OAuth 2.0 Client Library in Ruby.
 - [Twitter Swift](https://github.com/mattdonnelly/Swifter)
 - [Twitter Python](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.
@@ -35,9 +39,6 @@
 - [Twitter Node 3](https://github.com/FeedHive/twitter-api-client)
 - [Twitter Node 4](https://github.com/yarnaimo/twimo-v2) - Twitter API v2 client for TypeScript auto-generated from official OpenAPI specification.
 - [Twitter Lite JS](https://github.com/draftbit/twitter-lite) - Tiny, full-featured, flexible client / server library for the Twitter API.
-- [Twitter Go](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
-- [Twitter Go 2](https://github.com/bloveless/tweetgo)
-- [Twitter Go 3](https://github.com/sivchari/gotwtr)
 - [Twitter Haskell](https://github.com/himura/twitter-conduit)
 - [Twitter API proxy server using gRPC](https://github.com/Pantonshire/goldcrest)
 - [Twitter profile dumper (downloader) with authorization swapping](https://github.com/snovvcrash/tweetlord)
@@ -276,3 +277,4 @@
 - [APIs.guru](https://apis.guru/) - Directory of API definitions in OpenAPI (or Swagger) 2.0 and 3.x formats. ([Code](https://github.com/APIs-guru/openapi-directory))
 - [Building the Brex API (2021)](https://building.brex.com/building-the-brex-api-52dcb26cacc8) ([HN](https://news.ycombinator.com/item?id=28947928))
 - [Anatomy of a Great API Library (2021)](https://brandur.org/nanoglyphs/019-api-libraries)
+- [Making retries safe with idempotent APIs](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/) ([Tweet](https://twitter.com/marknca/status/1458066748322684932))

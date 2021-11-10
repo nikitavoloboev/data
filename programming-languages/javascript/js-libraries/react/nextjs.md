@@ -83,7 +83,7 @@
 - [next-joi](https://github.com/codecoolture/next-joi) - Validate NEXT.js API Routes with joi.
 - [next-plugin-query-cache](https://github.com/ricokahler/next-plugin-query-cache) - Build-time query cache for Next.js. Works by creating an HTTP server during the build that caches responses.
 - [next-plugin-preval](https://github.com/ricokahler/next-plugin-preval) - Pre-evaluate async functions during builds and import them like JSON.
-- [next-api-decorators](https://github.com/storyofams/next-api-decorators) - Collection of decorators to create typed Next.js API routes, with easy request validation and transformation.
+- [next-api-decorators](https://github.com/storyofams/next-api-decorators) - Collection of decorators to create typed Next.js API routes, with easy request validation and transformation. ([Article](https://www.tpjnorton.com/blog/posts/awesome-next-js-api-routes-with-next-api-decorators))
 - [Next.js + Linaria](https://github.com/Mistereo/next-linaria)
 - [nextjs-multi-domain-locale](https://github.com/tomsoderlund/nextjs-multi-domain-locale) - Hosting multiple domains on the same Next.js site (while maintaining multiple languages and SSG).
 - [next-rpc](https://github.com/Janpot/next-rpc) - Makes exported functions from API routes accessible in the browser. Just import your API function and call it anywhere you want.
@@ -279,3 +279,4 @@
 - [Integrate Storybook in a Next.js Application (2021)](https://egghead.io/courses/integrate-storybook-in-a-next-js-application-b6dd4df3)
 - [How to create a generic protected route in Next.js (2021)](https://shipsaas.com/blog/create-protected-route-nextjs)
 - [Guide to using images in Next.js (2021)](https://shipsaas.com/blog/guide-to-using-images-in-nextjs) ([Reddit](https://www.reddit.com/r/nextjs/comments/qqcj8u/guide_to_using_images_in_nextjs/))
+- [Code Walkthrough for Next.js / Tailwind / Prisma / PlanetScale App (2021)](https://www.youtube.com/watch?v=WZZFW5xDjJ4)

@@ -102,3 +102,4 @@ Alfred  Apps  Config  IFTTT  Public  Shared  Temp  upload.sh  Write
 - [Ask HN: How do you keep your files organized on macOS? (2019)](https://news.ycombinator.com/item?id=19327264)
 - [How do you organize your \$HOME directory? (2019)](https://lobste.rs/s/zpw6py/how_do_you_organize_your_home_directory)
 - [Ask HN: How do you organise your files and folders? (2020)](https://news.ycombinator.com/item?id=23404900)
+- [Ask HN: How do you manage your personal documents? (2021)](https://news.ycombinator.com/item?id=29161110)

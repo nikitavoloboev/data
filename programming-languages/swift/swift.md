@@ -197,7 +197,6 @@
 - [Classes vs. Structs in Swift — Basics and Memory Management (2021)](https://betterprogramming.pub/classes-vs-structs-basics-and-memory-management-4707714d82e7)
 - [Strings, characters, and performance in Swift — a deep dive (2016)](https://medium.com/@tonyallevato/strings-characters-and-performance-in-swift-a-deep-dive-b7b5bde58d53)
 - [How C and Objective-C declarations are translated to Swift](https://github.com/apple/swift/blob/main/docs/CToSwiftNameTranslation.md)
-- [Swift on Server Deployment Guide](https://github.com/swift-server/guides) - Guides for building, debugging and deploying Swift Server applications.
 - [How to Use iCloud While Only Kinda Using iCloud (2021)](https://www.swiftjectivec.com/how-to-use-icloud-without-really-using-icloud/)
 - [Building an App with ZIO (2021)](https://www.youtube.com/watch?v=XUwynbWUlhg)
 - [How to index Swift strings for fast read outs (2021)](https://twitter.com/nicklockwood/status/1382020582393454595)
@@ -243,3 +242,4 @@
 - [Discover | Swift by Sundell](https://swiftbysundell.com/discover/)
 - [Dangerous Logging in Swift (2021)](https://indiestack.com/2021/10/dangerous-logging-in-swift/) ([HN](https://news.ycombinator.com/item?id=29051720))
 - [Async await in Swift explained with code examples (2021)](https://www.avanderlee.com/swift/async-await/)
+- [Property Wrappers in Swift explained with code examples (2021)](https://www.avanderlee.com/swift/property-wrappers/)

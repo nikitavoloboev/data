@@ -349,3 +349,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [StarkNet](https://starkware.co/starknet/) - Permissionless Decentralized ZK-Rollup. Operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation. [(JS Client](https://github.com/seanjameshan/starknet.js))
 - [Yield Protocol Liquidator](https://github.com/yieldprotocol/yield-liquidator) - Utility for force-closing undercollateralized Yield Protocol loans and participating in dutch auctions with liquidity sourced by Uniswap flash loans.
 - [Ray tracing on the Ethereum Virtual Machine](https://github.com/axic/snailtracer)
+- [Ethereum Sentry](https://github.com/akula-bft/sentry) - Ethereum P2P network service.
+- [nextjs-dapp-starter-ts](https://github.com/G3root/nextjs-dapp-starter-ts) - Full stack monorepo template to develop ethereum dapps.

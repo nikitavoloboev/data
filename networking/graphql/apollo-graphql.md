@@ -23,3 +23,5 @@
 - [Server-Side Caching with Apollo GraphQL (2021)](https://garrit.xyz/posts/2021-10-04-server-side-caching-with-apollo-graphql)
 - [apollo-rs](https://github.com/apollographql/apollo-rs) - Spec compliant GraphQL Tools in Rust. ([Tweet](https://twitter.com/_lrlna/status/1448643017842122759))
 - [SQLDataSource](https://github.com/cvburgess/SQLDataSource) - SQL DataSource for Apollo GraphQL projects.
+- [Apollo Router](https://github.com/apollographql/router) - Configurable, high-performance graph router for a federated graph.
+- [Laika](https://github.com/zendesk/laika) - Log, test, intercept and modify Apollo Client's operations. ([Web](https://zendesk.github.io/laika/))

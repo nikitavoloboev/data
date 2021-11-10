@@ -139,3 +139,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Doctor](https://github.com/kmaasrud/doctor) - Document builder and command line tool that uses Pandoc coupled with a TeX engine to produce high-quality documents. ([Docs](https://kmaasrud.com/doctor/))
 - [How to read more research papers? (2021)](https://www.reddit.com/r/learnmachinelearning/comments/o7l9sv/how_to_read_more_research_papers/) ([Tweet](https://twitter.com/anvaka/status/1457435710999257090))
 - [2021 AI Papers List](https://github.com/louisfb01/best_AI_papers_2021)
+- [Quarto](https://quarto.org/) - Open-source scientific and technical publishing system built on Pandoc. ([Code](https://github.com/quarto-dev/quarto-cli))

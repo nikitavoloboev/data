@@ -653,6 +653,10 @@
 - [Speed Highlight JS](https://github.com/matubu/speed_highlight_js) - Light, fast, and easy to use, dependencies free javascript syntax highlighter.
 - [Proload](https://github.com/natemoo-re/proload) - Searches for and loads your tool's JavaScript configuration files.
 - [Sticksy.js](https://github.com/kovart/sticksy) - Zero-dependency JavaScript library that sticks your elements to the top until they reaching the bottom.
+- [Async Tasks Runner](https://github.com/ms-fadaei/async-tasks-runner) - Super tiny (< 1kb gzipped), side-effect free, tree shakable, zero dependencies, and fully typed Tasks Runner.
+- [ULID JS](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier.
+- [Avsc](https://github.com/mtth/avsc) - Avro for JavaScript.
+- [msgpackr](https://github.com/kriszyp/msgpackr) - Ultra-fast MessagePack implementation with extension for record and structural cloning.
 
 ## Links
 
@@ -683,3 +687,5 @@
 - [npm install is curl (2021)](https://btao.org/2021/09/09/npm-install-is-curl-bash/) ([Lobsters](https://lobste.rs/s/wf3piq/npm_install_is_curl_bash))
 - [ES Modules Are Terrible](https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3) ([HN](https://news.ycombinator.com/item?id=29137663))
 - [npq](https://github.com/lirantal/npq) - Safely\* install packages with npm/yarn by auditing them as part of your install process.
+- [njt](https://njt.vercel.app/) - Quick navigation tool for npm packages. ([Code](https://github.com/kachkaev/njt))
+- [fixpack](https://github.com/HenrikJoreteg/fixpack) - package.json file scrubber for the truly insane.

@@ -43,3 +43,4 @@
 - [snarkyJS](https://github.com/o1-labs/snarkyjs) - TypeScript/JavaScript framework for writing zk-SNARKs and snapps.
 - [circom](https://github.com/iden3/circom) - zkSnark circuit compiler.
 - [zkSNARKs Library](https://github.com/kevinz917/zksnarks-library) - Library of zkSNARKS circuits written in the Circom language.
+- [arkworks::std](https://github.com/arkworks-rs/std) - Standard library wrapper for use in the `arkworks` ecosystem.

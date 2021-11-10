@@ -439,3 +439,5 @@
 - [KalidoKit](https://github.com/yeemachine/kalidokit) - Face, Pose, and Hand Tracking Kinematics.
 - [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/)
 - [Unsupervised Real-world Image Super Resolution via Domain-distance Aware Training (2020)](https://arxiv.org/abs/2004.01178) ([Code](https://github.com/ShuhangGu/DASR))
+- [PyGaze](https://www.pygaze.org/) - Open source eye-tracking software and more. ([HN](https://news.ycombinator.com/item?id=29171416))
+- [Exploring Relational Context for Multi-Task Dense Prediction (2021)](https://arxiv.org/abs/2104.13874) ([Code](https://github.com/brdav/atrc))

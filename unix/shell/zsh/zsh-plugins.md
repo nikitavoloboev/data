@@ -63,3 +63,4 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [Zsh Framework Benchmark](https://github.com/zimfw/zsh-framework-benchmark) - Small utility to benchmark various Zsh frameworks.
 - [zgenom](https://github.com/jandamm/zgenom) - Lightweight and fast plugin manager for ZSH.
 - [Znap](https://github.com/marlonrichert/zsh-snap) - Light-weight Git repo manager for Zsh. Tailored to managing Zsh plugins.
+- [zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - Perhaps you don't need a Zsh plugin manager after all.

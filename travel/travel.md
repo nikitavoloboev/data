@@ -97,3 +97,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Hewell App](https://hewellapp.com/) - Travel app powered by WikiData. ([HN](https://news.ycombinator.com/item?id=29144207))
 - [Awesome Immigration](https://github.com/acacess/awesome-immigration) - Awesome list of long-term visas.
 - [Airheart](https://airheart.com/) - Trip Planner, for Solo Travelers and Groups.
+- [Future of travel (2021)](https://twitter.com/bchesky/status/1457904388366692354)

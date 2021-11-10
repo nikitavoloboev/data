@@ -217,3 +217,5 @@
 - [T5X](https://github.com/google-research/t5x) - Modular, composable, research-friendly framework for high-performance, configurable, self-service training.
 - [mlinspect](https://github.com/stefan-grafberger/mlinspect) - Inspect ML Pipelines in Python in the form of a DAG.
 - [Privacy Lint](https://github.com/facebookresearch/privacy_lint) - Library that allows you to perform a privacy analysis (Membership Inference) of your model in PyTorch.
+- [NVIDIA Object Detection Toolkit (ODTK)](https://github.com/NVIDIA/retinanet-examples) - Fast and accurate single stage object detection with end-to-end GPU optimization.
+- [DeAI](https://github.com/epfml/DeAI) - Decentralized privacy-preserving ML training software framework, using p2p networking.

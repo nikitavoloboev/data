@@ -133,3 +133,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [How credit cards make money (2021)](https://bam.kalzumeus.com/archive/how-credit-cards-make-money/) ([HN](https://news.ycombinator.com/item?id=29121353))
 - [Bits about Money by Patrick McKenzie (patio11)](https://bam.kalzumeus.com/) - About the modern financial infrastructure that the world sits atop of.
 - [Stripe for book-keeping tools (2021)](https://twitter.com/maccaw/status/1457509961970372608)
+- [Which Stripe improvement you want to see most (2021)](https://twitter.com/patrickc/status/1458263819776512001)

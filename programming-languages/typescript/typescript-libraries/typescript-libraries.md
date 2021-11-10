@@ -184,6 +184,8 @@
 - [Typanion](https://github.com/arcanis/typanion) - Static and runtime type assertion library with no dependencies.
 - [maath](https://github.com/pmndrs/maath) - Math helpers for the rest of us.
 - [Typed-Emitter](https://github.com/andywer/typed-emitter) - Strictly typed event emitter interface for TypeScript.
+- [parser-ts](https://github.com/gcanti/parser-ts) - String parser combinators for TypeScript.
+- [koan-chunked](https://github.com/koaninc/koan-chunked) - Helper functions to create and apply chunks.
 
 ## Links
 

@@ -60,7 +60,7 @@
 - [Decentralized Websites](https://github.com/unstoppabledomains/decentralized-websites) - Resources on building decentralized websites.
 - [Ask HN: Truly successful applications based on decentralized networks? (2021)](https://news.ycombinator.com/item?id=26206504)
 - [Awesome Decentralized Web](https://github.com/gdamdam/awesome-decentralized-web)
-- [Decentralization Off The Shelf](https://decentpatterns.xyz/) - Patterns for decentralized protocols and applications. ([Code](https://github.com/simplysecure/dots-patterns))
+- [Decentralization Off The Shelf](https://decentpatterns.xyz/) - Patterns for decentralized protocols and applications. ([Code](https://github.com/simplysecure/dots-patterns)) ([Web Code](https://github.com/simplysecure/dots-website))
 - [The Most Important Scarce Resource is Legitimacy (2021)](https://vitalik.ca/general/2021/03/23/legitimacy.html) ([Reddit](https://www.reddit.com/r/ethereum/comments/mbph0b/the_most_important_scarce_resource_is_legitimacy/)) ([HN](https://news.ycombinator.com/item?id=26560626))
 - [Ouinet](https://github.com/equalitie/ouinet) - Library to enable decentralized web requests.
 - [Edge & Node](https://edgeandnode.com/) - Initial team behind The Graph. We create and support protocols and dApps that empower individuals and move humanity forward.

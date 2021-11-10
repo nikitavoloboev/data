@@ -385,7 +385,9 @@
 - [CS224N: Natural Language Processing with Deep Learning | Winter 2021 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 - [GPT-3 creates geofoam, but out of text (2021)](https://twitter.com/jjvincent/status/1455194365169700864)
 - [Towards Efficient NLP: A Standard Evaluation and A Strong Baseline (2021)](https://arxiv.org/abs/2110.07038) ([Code](https://github.com/fastnlp/ElasticBERT))
-- [Hierarchical Transformers Are More Efficient Language Models (2021)](https://arxiv.org/abs/2110.13711) ([HN](https://news.ycombinator.com/item?id=29112983))
+- [Hierarchical Transformers Are More Efficient Language Models (2021)](https://arxiv.org/abs/2110.13711) ([HN](https://news.ycombinator.com/item?id=29112983)) ([Code](https://github.com/lucidrains/hourglass-transformer-pytorch))
 - [Phrase-BERT: Improved Phrase Embeddings from BERT with an Application to Corpus Exploration (2021)](https://arxiv.org/abs/2109.06304) ([Code](https://github.com/sf-wa-326/phrase-bert-topic-model))
 - [GPT-3 is no longer the only game in town (2021)](https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game) ([HN](https://news.ycombinator.com/item?id=29139884))
 - [PatrickStar](https://github.com/Tencent/PatrickStar) - Parallel Training of Large Language Models via a Chunk-based Memory Management.
+- [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) (2021)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- [Text2Art](https://github.com/mfrashad/text2art) - AI Powered Text-to-Art Generator.

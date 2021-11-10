@@ -142,3 +142,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Blunder](https://github.com/algerbrex/blunder) - UCI compatible chess engine written in Go.
 - [Drofa](https://github.com/justNo4b/Drofa) - UCI chess engine written in C++.
 - [How long does it take ordinary people to “get good” at chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md) ([HN](https://news.ycombinator.com/item?id=29035416))
+- [React chess piece component](https://github.com/chessire-cat/pieces)

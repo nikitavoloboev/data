@@ -61,6 +61,7 @@
 - [Kyrix](https://github.com/tracyhenry/Kyrix) - Interactive details-on-demand data visualizations at scale.
 - [Dash Deck](https://github.com/plotly/dash-deck) - Library for building 3D interactive maps and graphical visualizations directly in Dash.
 - [Apache ECharts](https://github.com/apache/incubator-echarts) - Powerful, interactive charting and data visualization library for browser. ([Web](https://echarts.apache.org/en/index.html))
+- [ECHARTS-GL](https://github.com/ecomfe/echarts-gl) - Extension pack of Apache ECharts, which providing 3D plots, globe visualization and WebGL acceleration.
 - [plotly.py](https://github.com/plotly/plotly.py) - Interactive graphing library for Python (includes Plotly Express).
 - [Gnuplot 5 book](https://alogus.com/g5script/gnuplot5/)
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
@@ -116,3 +117,4 @@
 - [Yagr](https://github.com/yandex-cloud/yagr) - High performance HTML5 canvas chart renderer based on uPlot. It provides high-level features for uPlot charts.
 - [Pandas_Alive](https://github.com/JackMcKew/pandas_alive) - Animated plotting extension for Pandas with Matplotlib.
 - [Literate Visualization](https://github.com/gicentre/litvis) - Light-touch approach to designing, building and describing visualization. ([Web](https://www.gicentre.net/litvis))
+- [Irydium](https://github.com/irydium/irydium) - Interactive documents and data visualizations in markdown. ([Web](https://irydium.dev/))

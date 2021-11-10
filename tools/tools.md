@@ -149,7 +149,6 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Fleetsmith](https://www.fleetsmith.com/) - Secure, cloud-based Apple device management via G Suite or Office 365. ([HN](https://news.ycombinator.com/item?id=23629438))
 - [Matter](https://matterapp.com/) - Recognize your team members with Kudos, gather continuous feedback, and so much more.
 - [Kolide](https://www.kolide.com/) - Endpoint security solution for teams that value productivity, transparency, and employee happiness.
-- [Axiom](https://axiom.co/) - Store and query unlimited machine data. ([GitHub](https://github.com/axiomhq))
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together. ([Verify your Paddle.com Webhooks](https://github.com/daveagill/verify-paddle-webhook))
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [OpenReplay](https://openreplay.com/) - Open-Source Session Replay. ([Code](https://github.com/openreplay/openreplay))

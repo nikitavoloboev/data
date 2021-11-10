@@ -162,3 +162,4 @@
 - [Timing With Curl (2010)](https://susam.in/maze/timing-with-curl.html) - Command I use often while measuring why an HTTP request is taking too long.
 - [duma](https://github.com/mattgathu/duma) - Minimal file downloader written in Rust.
 - [Varnish Cache](https://github.com/varnishcache/varnish-cache) - High-performance HTTP accelerator. ([Docs](https://varnish-cache.org/))
+- [HTTP QUERY Method (2021)](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)

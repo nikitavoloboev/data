@@ -224,3 +224,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [justETF](https://www.justetf.com/en/) - ETF portfolios made simple.
 - [Bankeronwheels.com](https://www.bankeronwheels.com/) - Index Investing for European and UK Investors. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qpeu1n/picking_a_bond_etf/))
 - [Ask HN: How do you find funds to invest in? (2021)](https://news.ycombinator.com/item?id=29161098)
+- [How to invest in ETFs w/ Cullen Roche (2021)](https://overcast.fm/+I6zEe-P5A)

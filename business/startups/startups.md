@@ -340,6 +340,7 @@
 - [Founderkit](https://founderkit.com/) - Reviews and Recommendations from Leading Startup Founders.
 - [How to turn chaos in startups into repeatable processes (2021)](https://twitter.com/dunkhippo33/status/1453604780996132865)
 - [Resources for growing SaaS startup (2021)](https://twitter.com/DanielZarick/status/1458093573581250571)
+- [Ask HN: What HN threads most influenced your thinking about startups? (2021)](https://news.ycombinator.com/item?id=29148698)
 
 ## Images
 

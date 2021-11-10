@@ -46,3 +46,4 @@
 - [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) ([HN](https://news.ycombinator.com/item?id=29002776))
 - [Gender in Latin and Beyond: A Philologist’s Take (2021)](https://antigonejournal.com/2021/10/gender-in-latin-and-beyond/) ([HN](https://news.ycombinator.com/item?id=29040746))
 - [Holmes](https://github.com/msg-systems/holmes-extractor) - Information extraction from English and German texts based on predicate logic.
+- [Unbabel](https://unbabel.com/) - Seamless Multilingual Translation Services.

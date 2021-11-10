@@ -84,3 +84,6 @@
 - [Arco Design Vue](https://github.com/arco-design/arco-design-vue)
 - [nuxt3-supabase](https://github.com/wobsoriano/nuxt3-supabase) - Nuxt 3 module and composables for Supabase.
 - [Vitesse for Nuxt 3](https://github.com/antfu/vitesse-nuxt3)
+- [Nano Stores Vue](https://github.com/nanostores/vue) - Vue integration for Nano Stores, a tiny state manager with many atomic tree-shakable stores.
+- [Moon](https://github.com/ulissesferreira/moon) - Lightweight Vue 3 component library.
+- [Vue Stripe.js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js.

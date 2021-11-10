@@ -369,6 +369,10 @@ for i, _ in enumerate(nums):
 - [GraalVM Python](https://www.graalvm.org/python/) - On average, Python in GraalVM is 8.92x faster than CPython. ([HN](https://news.ycombinator.com/item?id=29097715))
 - [Mini Inch App in Python](https://github.com/jokull/python-ts-graphql-demo) - Python asyncio backend querying with SQLAlchemy and Strawberry serving GraphQL with Starlette.
 - [Guide of CPython’s Parser](https://devguide.python.org/parser/)
-- [Python Developer's Guide](https://devguide.python.org/)
+- [Python Developer's Guide](https://devguide.python.org/) ([Code](https://github.com/python/devguide))
 - [Bandit](https://github.com/PyCQA/bandit) - Tool designed to find common security issues in Python code.
 - [Pyjion](https://www.trypyjion.com/) - Python JIT Compiler. ([HN](https://news.ycombinator.com/item?id=29159545)) ([Code](https://github.com/tonybaloney/Pyjion))
+- [Ask HN: How did Python become the lingua franca of ML/AI? (2021)](https://news.ycombinator.com/item?id=29171319)
+- [Why Python needs to be paused during profiling - but Ruby doesn't always (2021)](https://www.benfrederickson.com/why-python-needs-paused-during-profiling/) ([HN](https://news.ycombinator.com/item?id=29170093))
+- [debugpy](https://github.com/microsoft/debugpy) - Debugger for Python.
+- [Cython, Rust, and more: choosing a language for Python extensions (2021)](https://pythonspeed.com/articles/rust-cython-python-extensions/)

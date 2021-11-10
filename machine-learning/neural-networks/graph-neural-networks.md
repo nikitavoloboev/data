@@ -69,3 +69,4 @@
 - [Pitfalls of Graph Neural Network Evaluation (2019)](https://arxiv.org/abs/1811.05868) ([Code](https://github.com/shchur/gnn-benchmark))
 - [Understanding Pooling in Graph Neural Networks (2021)](https://arxiv.org/abs/2110.05292) ([Code](https://github.com/danielegrattarola/SRC))
 - [Spectral Clustering with Graph Neural Networks for Graph Pooling (2020)](https://arxiv.org/abs/1907.00481) ([Code](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling))
+- [Graph Robustness Benchmark (GRB)](https://github.com/THUDM/grb) - Scalable, unified, modular, and reproducible benchmark for evaluating the adversarial robustness of Graph Machine Learning.

@@ -95,3 +95,4 @@
 - [Spork Beam](https://atek.cloud/blog/spork-beam) - Encrypted, Networked Pipes.Cloud.
 - [Building Collaborative P2P Applications with Autobase](https://github.com/hypercore-protocol/p2p-multiwriter-with-autobase)
 - [Peergos](https://peergos.org/) - p2p, secure file storage, social network and application protocol. ([GitHub](https://github.com/Peergos)) ([Code](https://github.com/Peergos/Peergos))
+- [Hyperswarm discovery stack](https://github.com/hyperswarm/discovery)

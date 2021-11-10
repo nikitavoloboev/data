@@ -66,3 +66,4 @@
 - [flutter_gen](https://github.com/FlutterGen/flutter_gen) - Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
 - [Perfect Freehand Flutter](https://github.com/steveruizok/perfect-freehand-dart) - Draw perfect pressure-sensitive freehand lines.
 - [Flutter and Dart Tips and Tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
+- [Using Flutter to build a native-looking desktop app for macOS and Windows (2021)](https://blog.whidev.com/native-looking-desktop-app-with-flutter/) ([HN](https://news.ycombinator.com/item?id=29170955))

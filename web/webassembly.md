@@ -1,5 +1,7 @@
 # [WebAssembly](https://webassembly.org/)
 
+[swc](https://github.com/swc-project/swc)/[esbuild](https://github.com/evanw/esbuild)/[vite](https://vitejs.dev/) are faster alternatives.
+
 ## Links
 
 - [WebAssemblyLanguages](https://github.com/AppCypher/WebAssemblyLanguages)
@@ -211,3 +213,4 @@
 - [Emception](https://github.com/jprendes/emception) - Compile C/C++ code with Emscripten in the browser.
 - [WASICaml](https://github.com/remixlabs/wasicaml) - Translate OCaml bytecode to WebAssembly.
 - [ZBar.wasm](https://github.com/samsam2310/zbar.wasm) - WASM build of C/C++ ZBar barcode scanning library.
+- [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - wasm-pack plugin for Vite.

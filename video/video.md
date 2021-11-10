@@ -300,3 +300,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Viidoo Chat](https://viidoo.chat/) - Secure, Real time, Collaborative. ([GitHub](https://github.com/viidoo-it))
 - [hls-video](https://github.com/muxinc/hls-video-element) - Custom element (web component) for playing HTTP Live Streaming (HLS) videos.
 - [Modfy](https://modfy.video/) - WASM Video Transcoder. ([Code](https://github.com/modfy/modfy.video))
+- [Another Video Player](https://github.com/rust-av/avp) - Simple player based on rust-av and SDL2.

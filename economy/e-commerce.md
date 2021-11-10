@@ -115,3 +115,4 @@
 - [Headless Dropshipping Starter](https://github.com/notrab/headless-dropshipping-starter) - Create your own dropshipping store with Next.js, Snipcart & Printful.
 - [Custom Cart With Shopify Storefront API (2021)](https://www.youtube.com/watch?v=FJOJmKFngLI&list=PLz8Iz-Fnk_eRnX8lBMTwpM4XDLFZHmtyq)
 - [next-shopify](https://github.com/basementstudio/next-shopify) - Context, a hook, and an API route handler, to manage a Shopify Storefront in your Next.js app.
+- [Kara's Coffee](https://karas-coffee.web.app/) - Demo ecommerce application showcasing Firebase Extensions and other Firebase products. ([Code](https://github.com/FirebaseExtended/karas-coffee))

@@ -176,3 +176,4 @@
 - [We need more boutique search engines (2021)](https://sariazout.mirror.xyz/7gSSTJ96SEyvXeljymglO3zN4H6DCgVnrNZq8_2NX1A) ([HN](https://news.ycombinator.com/item?id=29130017))
 - [liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser and search engine.
 - [Zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
+- [How Not To Sort By Average Rating (2009)](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)

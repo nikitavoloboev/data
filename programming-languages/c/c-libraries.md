@@ -103,3 +103,4 @@
 - [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C.
 - [libuvc](https://github.com/libuvc/libuvc) - Cross-platform library for USB video devices.
 - [mlib](https://github.com/P-p-H-d/mlib) - Library of generic and type safe containers in pure C language (C99 or C11) for a wide collection of container (comparable to the C++ STL).
+- [TinyUSB](https://github.com/hathach/tinyusb) - Open source cross-platform USB stack for embedded system.

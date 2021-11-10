@@ -27,4 +27,4 @@
 - [Scripting Shortcuts](https://github.com/mralexhay/ScriptingShortcuts) - Example project to demonstrate the new scripting capabilities of Shortcuts For Mac.
 - [Shortcuts for Mac: 27 of Our Favorite Third-Party Integrations (2021)](https://www.macstories.net/news/shortcuts-for-mac-27-of-our-favorite-third-party-integrations/)
 - [Building cross-platform shortcuts (2021)](https://sixcolors.com/post/2021/10/building-cross-platform-shortcuts/)
-- [Actions App](https://sindresorhus.com/actions) - Additional actions for the Shortcuts app.
+- [Actions App](https://sindresorhus.com/actions) - Additional actions for the Shortcuts app. ([Code](https://github.com/sindresorhus/Actions))

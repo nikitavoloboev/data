@@ -364,6 +364,7 @@
 - [Pages](https://github.com/nachonavarro/Pages) - Lightweight, paging view solution for SwiftUI.
 - [Mockolo](https://github.com/uber/mockolo) - Efficient Mock Generator for Swift.
 - [Mocker](https://github.com/WeTransfer/Mocker) - Library written in Swift which makes it possible to mock data requests using a custom URLProtocol.
+- [XCTAssertNoLeak](https://github.com/tarunon/XCTAssertNoLeak) - Provides assert function that check memory leak in Swift.
 
 ## API
 
@@ -811,6 +812,7 @@
 - [Swimi](https://github.com/kainosk/Swimi) - MIDI/SMF parser written in Swift.
 - [BinaryCoder](https://github.com/mikeash/BinaryCoder) - Example implementation of Swift.Codable using a simple binary format.
 - [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
+- [Dwifft](https://github.com/jflinter/Dwifft) - Small Swift library that tells you what the "diff" is between two collections.
 
 ## Other (not lib)
 
@@ -844,3 +846,5 @@
 - [Guise](https://github.com/ollieatkinson/Guise) - Generate Public API for Swift Frameworks/Libraries.
 - [CocoaPods Pod Linkage plugin](https://github.com/microsoft/cocoapods-pod-linkage) - CocoaPod plugin that allows you to mix how you link libraries. ([Tweet](https://twitter.com/parrots/status/1450879990661361669))
 - [MOKO KSwift](https://github.com/icerockdev/moko-kswift) - Swift-friendly API generator for Kotlin/Native frameworks.
+- [Swift on Server Deployment Guide](https://github.com/swift-server/guides) - Guides for building, debugging and deploying Swift Server applications.
+- [Swift Concurrency adoption guidelines for Swift Server Libraries](https://github.com/swift-server/guides/blob/main/docs/concurrency-adoption-guidelines.md)

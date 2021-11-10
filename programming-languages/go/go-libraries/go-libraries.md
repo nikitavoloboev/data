@@ -206,6 +206,7 @@
 - [Kyoto](https://github.com/yuriizinets/kyoto) - Build Front End with Go. ([Web](https://kyoto.codes/)) ([HN](https://news.ycombinator.com/item?id=28862611))
 - [Retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs.
 - [h2conn](https://github.com/posener/h2conn) - HTTP2 client-server full-duplex connection.
+- [go-sockaddr](https://github.com/hashicorp/go-sockaddr) - IP Address/UNIX Socket convenience functions.
 
 ## GraphQL
 
@@ -1051,6 +1052,9 @@
 - [fastlfu](https://github.com/arl/fastlfu) - LFU cache with O(1) runtime complexity for all operations: insertion, access and deletion (eviction).
 - [Sudo](https://github.com/zeebo/sudo) - Bypasses restrictions on reflect.
 - [gonp](https://github.com/cubicdaiya/gonp) - diff algorithm in Go.
+- [gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language in Go.
+- [Kazaam](https://github.com/qntfy/kazaam) - Arbitrary transformations of JSON in Go.
+- [Schema Registry Client](https://github.com/riferrei/srclient)
 
 ## Links
 

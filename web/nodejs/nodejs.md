@@ -271,3 +271,6 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Designing Error Messages and a Logging Strategy in Node.js (2021)](https://blog.appsignal.com/2021/11/03/designing-error-messages-and-a-logging-strategy-in-nodejs.html)
 - [await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch.
 - [formidable](https://github.com/node-formidable/formidable) - Node.js module for parsing form data, especially file uploads.
+- [thread-stream](https://github.com/pinojs/thread-stream) - Streaming way to send data to a Node.js Worker Thread.
+- [next-10](https://github.com/nodejs/next-10) - Discussion on strategic directions for next 10 years of Node.js.
+- [p4ssw0rd](https://github.com/Munkkeli/p4ssw0rd) - Hash passwords with SHA-256 + bcrypt in Node.js.

@@ -271,3 +271,5 @@
 - [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability (2021)](https://bair.berkeley.edu/blog/2021/11/05/epistemic-pomdp/) ([Paper](https://arxiv.org/abs/2107.06277))
 - [Offline Reinforcement Learning: BayLearn 2021 Keynote Talk](https://www.youtube.com/watch?v=k08N5a0gG0A)
 - [Baby Robot's Guide to Reinforcement Learning](https://github.com/WhatIThinkAbout/BabyRobot)
+- [Learning Off-Policy with Online Planning (2020)](https://arxiv.org/abs/2008.10066) ([Code](https://github.com/hari-sikchi/LOOP))
+- [f-IRL: Inverse Reinforcement Learning via State Marginal Matching (2020)](https://arxiv.org/abs/2011.04709) ([Code](https://github.com/twni2016/f-IRL))

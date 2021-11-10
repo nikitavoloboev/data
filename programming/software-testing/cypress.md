@@ -38,4 +38,4 @@
 - [Cypress GitHub Action](https://github.com/cypress-io/github-action)
 - [Cypress Real World App](https://github.com/cypress-io/cypress-realworld-app) - Payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
 - [cypress-cucumber-preprocessor](https://github.com/TheBrainFamily/cypress-cucumber-preprocessor) - Adds support for using feature files when testing with Cypress.
-- [Cyprus Limited](https://www.cypruslimited.com/) - Cyprus Limited Formation, made easy. ([Videos](https://www.youtube.com/channel/UC0x2a-cTEPbUWzj4PH5V3KA/videos))
+- [cypress-network-idle](https://github.com/bahmutov/cypress-network-idle) - Little Cypress.io plugin for waiting for network to be idle before continuing with the test.

@@ -78,3 +78,4 @@
 - [LuaJIT Garbage Collector Design Doc](http://wiki.luajit.org/New-Garbage-Collector)
 - [f-strings](https://github.com/hishamhm/f-strings) - String interpolation for Lua.
 - [Lua Filters](https://github.com/pandoc/lua-filters) - Collection of lua filters for pandoc.
+- [StackTracePlus](https://github.com/ignacio/StackTracePlus) - Provides enhanced stack traces for Lua.

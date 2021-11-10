@@ -92,4 +92,4 @@
 - [Rufo](https://github.com/ruby-formatter/rufo) - Ruby Formatter.
 - [Async Ruby (2021)](https://brunosutic.com/blog/async-ruby)
 - [Explaining Ruby Fibers (2021)](https://noteflakes.com/articles/2021-10-20-explaining-ruby-fibers) ([HN](https://news.ycombinator.com/item?id=29036818))
-- [Writing Go in Ruby with Ruby Next (2021)](https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next)
+- [Writing Go in Ruby with Ruby Next (2021)](https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next) ([HN](https://news.ycombinator.com/item?id=29170736))

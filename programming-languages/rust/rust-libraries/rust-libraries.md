@@ -28,6 +28,7 @@
 - [Lexopt](https://github.com/blyxxyz/lexopt) - Minimalist pedantic command line parser.
 - [Tuikit](https://github.com/lotabout/tuikit) - Tool kit for writing TUI applications in Rust.
 - [argv](https://github.com/dtolnay/argv) - Command line arguments by reference.
+- [ansi_colours](https://github.com/mina86/ansi_colours) - Rust, C and C++ library for converting between 24-bit sRGB colors and ANSI terminal 8-bit palette.
 
 ## Web
 
@@ -282,6 +283,8 @@
 - [curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - Pure-Rust implementation of group operations on Ristretto and Curve25519.
 - [dryoc](https://github.com/brndnmtthws/dryoc) - Pure-Rust, general-purpose cryptography library.
 - [RustCrypto: block ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block ciphers and block modes written in pure Rust.
+- [Curves](https://github.com/arkworks-rs/curves) - Implementations of popular elliptic curves.
+- [ark-circom](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
 
 ## Linux
 
@@ -301,6 +304,7 @@
 - [BlueR](https://github.com/bluez/bluer) - Rust interface to the Linux Bluetooth protocol stack (BlueZ).
 - [oxidebpf](https://github.com/redcanaryco/oxidebpf) - Rust library for managing eBPF programs.
 - [inotify-rs](https://github.com/hannobraun/inotify-rs) - Idiomatic inotify wrapper for Rust.
+- [Netlink](https://github.com/little-dude/netlink) - netlink libraries for rust.
 
 ## ML
 
@@ -371,6 +375,8 @@
 - [parse-display](https://github.com/frozenlib/parse-display) - Procedural macro to implement Display and FromStr using common settings.
 - [Derivative](https://github.com/mcarton/rust-derivative) - Set of alternative `derive` attributes for Rust.
 - [enum-as-inner](https://github.com/bluejekyll/enum-as-inner) - Macros for deriving as functions to access Enums as their inner components.
+- [Debug Plotter](https://github.com/fabianboesiger/debug-plotter) - Rust crate that provides a convenient macro to quickly plot variables.
+- [Supertype](https://github.com/zephraph/supertype) - Macro that strives to make it easier to derive a subset of a type from another type.
 
 ## Math
 
@@ -1108,6 +1114,7 @@
 - [nebari](https://github.com/khonsulabs/nebari) - Pure Rust database implementation using an append-only B-Tree file format.
 - [rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs.
 - [abi_stable_crates](https://github.com/rodrimati1992/abi_stable_crates) - Rust-to-Rust ffi,ffi-safe equivalents of std types,and creating libraries loaded at startup.
+- [gaffer](https://github.com/survemobility/gaffer) - Prioritized, parallel job scheduler with concurrent exclusion, job merging, recurring jobs and load limiting for lower priorities.
 
 ## Cargo Plugins
 

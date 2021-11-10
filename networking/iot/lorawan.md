@@ -84,3 +84,4 @@
 - [LoRaMac-node](https://github.com/Lora-net/LoRaMac-node) - Reference implementation and documentation of a LoRa network node.
 - [Picotracker Lora](https://github.com/ImperialSpaceSociety/LoRaMac-node)
 - [Generic Node - The Things Industries](https://www.genericnode.com/) - One LoRaWAN node. Endless use cases. ([Code](https://github.com/TheThingsIndustries/generic-node-se))
+- [Arduino-LMIC library](https://github.com/mcci-catena/arduino-lmic) - Adapted to run under the Arduino environment.

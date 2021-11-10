@@ -65,3 +65,5 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Ask HN: How should I back up data on devices if I'm not smart? (2021)](https://news.ycombinator.com/item?id=28758415)
 - [Asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups.
 - [Backups and Corruption (2021)](https://www.collicutt.co.uk/notebook/backups.html)
+- [What is the best backup solution for self-hosted services? (2021)](https://www.reddit.com/r/selfhosted/comments/qq1zpv/what_is_the_best_backup_solution_for_selfhosted/)
+- [Btrbk](httpvs://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes. ([Web](https://digint.ch/btrbk/))

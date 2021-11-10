@@ -153,6 +153,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Artyom's tech notes](https://tek.brick.do/)
 - [D. Bohdan's Wiki](https://dbohdan.com/wiki/sitemap)
 - [Albert Zeyer](https://github.com/albertz/wiki)
+- [Fabian Bösiger's Docs](https://github.com/fabianboesiger/documents)
 - [Juliette Rapala](https://github.com/jrapala/wiki)
 - [Daniel Imfeld's Notes](https://imfeld.dev/notes)
 - [Hrishikesh Bhaskaran's Wiki](https://wiki.stultus.in/)

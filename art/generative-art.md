@@ -175,3 +175,5 @@
 - [genartlib](https://github.com/thobbs/genartlib) - Utilities for creating generative artwork with Clojure.
 - [Open source and generative art](https://www.somebits.com/weblog/culture/generative-art-and-open-source.html)
 - [Programmable Pen Tool](https://s.baku89.com/pentool/) - Vector graphics editor with programmable pen tools. ([Code](https://github.com/baku89/pentool))
+- [Samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator.
+- [Create Generative Art with R](https://github.com/cutterkom/generativeart)

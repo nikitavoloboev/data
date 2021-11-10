@@ -165,3 +165,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds.
 - [nix-autobahn](https://github.com/wucke13/nix-autobahn)
 - [homeage](https://github.com/jordanisaacs/homeage) - Module for home-manager that enables runtime decryption of declarative age files.
+- [How Nix and NixOS Get So Close to Perfect (2021)](https://christine.website/talks/nixos-pain-2021-11-10) ([Lobsters](https://lobste.rs/s/ff54p1/how_nix_nixos_get_so_close_perfect))

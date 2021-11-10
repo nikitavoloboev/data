@@ -299,3 +299,4 @@ Awesome List
 - [Snitch](https://github.com/tsoding/snitch) - Tool that collects TODOs in the source code and reports them as GitHub issues.
 - [Repository Viewer](https://repo-viewer.vercel.app/) - View your GitHub repositories grouped by tag to make them easier to find. ([Code](https://github.com/samrobbins85/repo-viewer))
 - [goh](https://github.com/breakthatbass/goh) - Navigate github repos in a tui.
+- [Repobeats](https://repobeats.axiom.co/) - Gorgeous embeddable GitHub insights. ([Tweet](https://twitter.com/rauchg/status/1458519720202698759))

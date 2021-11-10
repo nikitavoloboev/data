@@ -271,3 +271,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape (2021)](https://blog.celestia.org/clusters/)
 - [Pocket Network](https://www.pokt.network/) - Decentralized infrastructure for developers to build peer to peer applications. ([Code](https://github.com/pokt-network/pocket-core))
 - [WalletConnect](https://walletconnect.com/) - Web3 standard to connect blockchain wallets to dapps. ([Code](https://github.com/WalletConnect/walletconnect-monorepo)) ([GitHub](https://github.com/WalletConnect))
+- [Reflections on Trusting ‘Trustlessness’ in the Era of “Crypto”/Blockchains (2021)](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/cbit-4-2.pdf)
+- [Secret Network](https://scrt.network/) - Blockchain with data privacy by default.
+- [Tenk NFT](https://github.com/willemneal/tenk) - Template for making a NFT contract with a raffle of tokens.
