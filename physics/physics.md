@@ -251,3 +251,4 @@
 - [Atomic resolution video of salt crystals forming in real time (2021)](https://phys.org/news/2021-01-first-ever-atomic-resolution-video-salt.html) ([HN](https://news.ycombinator.com/item?id=28785602))
 - [Five Things We Still Don’t Know About Water (2015)](https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water) ([HN](https://news.ycombinator.com/item?id=28921543))
 - [Nature Physics](https://www.nature.com/nphys/) ([Twitter](https://twitter.com/NaturePhysics))
+- [MIT Introduction to Special Relativity (2021)](https://ocw.mit.edu/courses/physics/8-20-introduction-to-special-relativity-january-iap-2021/index.htm)
