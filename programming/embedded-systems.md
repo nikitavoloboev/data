@@ -143,5 +143,5 @@
 - [LPC8xx HAL](https://github.com/lpc-rs/lpc8xx-hal) - Hardware Abstraction Layer (HAL) for NXP LPC800 series of microcontrollers, written in Rust.
 - [Snek](https://sneklang.org/) - Python-inspired Language for Embedded Devices. ([Code](https://github.com/keith-packard/snek))
 - [stm32f1xx-hal](https://github.com/stm32-rs/stm32f1xx-hal) - Rust embedded-hal HAL impl for the STM32F1 family based on japarics stm32f103xx-hal.
-- [Bryan Cantrill - The Coming Firmware Revolution (2021)](https://www.youtube.com/watch?v=XbBzSSvT_P0) ([Slides](https://www.slideshare.net/bcantrill/the-coming-firmware-revolution))
+- [Bryan Cantrill - The Coming Firmware Revolution (2021)](https://www.youtube.com/watch?v=XbBzSSvT_P0) ([Slides](https://www.slideshare.net/bcantrill/the-coming-firmware-revolution)) ([Lobsters](https://lobste.rs/s/fwdrda/coming_firmware_revolution))
 - [Open Source Firmware Foundation](https://osfw.foundation/) ([Twitter](https://twitter.com/osfw_foundation))

@@ -66,3 +66,4 @@
 - [Vizzy](https://github.com/zznop/vizzy) - Tool for profiling heap usage and memory management.
 - [GCGC : Garbage Collection Graph Collector](https://github.com/apple/GCGC)
 - [mem](https://github.com/smasher164/mem) - Memory allocator for Go.
+- [100LOC C impl of memset, that is faster than glibc's](https://github.com/nadavrot/memset_benchmark) ([HN](https://news.ycombinator.com/item?id=29197161))

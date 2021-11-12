@@ -57,4 +57,4 @@
 - [CellularAutomata](https://github.com/MartinuzziFrancesco/CellularAutomata.jl) - Cellular automata creation and analysis tools in Julia.
 - [Learning Graph Cellular Automata (2021)](https://arxiv.org/abs/2110.14237) ([Tweet](https://twitter.com/riceasphait/status/1453731163592290306)) ([Code](https://github.com/danielegrattarola/GNCA))
 - [Cellular Automata in F# (2020)](https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/) ([HN](https://news.ycombinator.com/item?id=29133075))
-- [Lifeee](https://github.com/scastiel/lifeee-rs) - Conway’s Game of Life with an infinite zoomable grid.
+- [Lifeee](https://github.com/scastiel/lifeee-rs) - Conway’s Game of Life with an infinite zoomable grid. ([HN](https://news.ycombinator.com/item?id=29203502))

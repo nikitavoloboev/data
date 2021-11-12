@@ -111,3 +111,4 @@
 - ['Useless Specks of Dust' Turn Out to Be Building Blocks of All Vertebrate Genome (2021)](https://www.sciencealert.com/useless-specks-of-dust-turn-out-to-be-ancient-building-blocks-of-all-vertebrate-genomes) ([HN](https://news.ycombinator.com/item?id=29093585))
 - [RNA-responsive elements for eukaryotic translational control (2021)](https://www.nature.com/articles/s41587-021-01068-2)
 - [souporcell](https://github.com/wheaton5/souporcell) - Clustering scRNAseq by genotypes.
+- [Vireo](https://github.com/single-cell-genetics/vireo) - Variational Inference for Reconstructing Ensemble Origin by expressed SNPs in multiplexed scRNA-seq data.

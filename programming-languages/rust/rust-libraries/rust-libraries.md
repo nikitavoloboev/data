@@ -266,6 +266,7 @@
 
 - [zksnark-rs](https://github.com/republicprotocol/zksnark-rs) - Zero knowledge succinct arguments of knowledge, written in Rust.
 - [bellman](https://github.com/zkcrypto/bellman) - Crate for building zk-SNARK circuits.
+- [bellperson](https://github.com/filecoin-project/bellperson) - Crate for building zk-SNARK circuits. Fork of the great bellman library.
 - [Spartan](https://github.com/microsoft/Spartan) - High-speed zkSNARKs without trusted setup.
 - [RustCrypto: hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust.
 - [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order). ([HN](https://news.ycombinator.com/item?id=25434349))
@@ -1126,6 +1127,7 @@
 - [evalexpr](https://github.com/ISibboI/evalexpr) - Expression evaluator and tiny scripting language in Rust.
 - [SPIR-Q](https://github.com/PENGUINLIONG/spirq-rs) - Light weight SPIR-V reflection library.
 - [Pythonize](https://github.com/davidhewitt/pythonize) - Serializer for Rust's serde ecosystem, which can convert Rust objects to Python values and back.
+- [enumset](https://github.com/Lymia/enumset) - Library for compact bit sets based on enums.
 
 ## Cargo Plugins
 

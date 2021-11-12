@@ -818,6 +818,7 @@
 - [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
 - [Dwifft](https://github.com/jflinter/Dwifft) - Small Swift library that tells you what the "diff" is between two collections.
 - [CachedAsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) - AsyncImage, but with cache capabilities.
+- [Fusion](https://github.com/alchemy-swift/fusion) - Dependency Injection via Swift property wrappers.
 
 ## Other (not lib)
 
