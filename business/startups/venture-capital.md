@@ -135,3 +135,4 @@
 - [The Sequoia Fund: Patient Capital for Building Enduring Companies (2021)](https://medium.com/sequoia-capital/the-sequoia-fund-patient-capital-for-building-enduring-companies-9ed7bcd6c7da) ([Tweet](https://twitter.com/sequoia/status/1452999422988718084)) ([HN](https://news.ycombinator.com/item?id=29000939))
 - [Variant](https://variant.fund/) - First-check crypto fund investing in the ownership economy. ([Twitter](https://twitter.com/variantfund)) ([Tweet](https://twitter.com/JasonYanowitz/status/1453435566666682374))
 - [Seven Seven Six](https://sevensevensix.com/) - Venture capital firm, founded by builders, built with software.
+- [An Engineer's View of Venture Capitalists (2001)](https://spectrum.ieee.org/an-engineers-view-of-venture-capitalists) ([HN](https://news.ycombinator.com/item?id=29187684))

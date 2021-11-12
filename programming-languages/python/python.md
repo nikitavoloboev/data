@@ -376,3 +376,5 @@ for i, _ in enumerate(nums):
 - [Why Python needs to be paused during profiling - but Ruby doesn't always (2021)](https://www.benfrederickson.com/why-python-needs-paused-during-profiling/) ([HN](https://news.ycombinator.com/item?id=29170093))
 - [debugpy](https://github.com/microsoft/debugpy) - Debugger for Python.
 - [Cython, Rust, and more: choosing a language for Python extensions (2021)](https://pythonspeed.com/articles/rust-cython-python-extensions/)
+- [What Did You Find Hardest To Learn As A Beginner In Python? (2021)](https://www.reddit.com/r/Python/comments/qrd1kj/what_did_you_find_hardest_to_learn_as_a_beginner/)
+- [What are the advanced concepts someone should learn to be considered as an expert in Python? (2021)](https://www.reddit.com/r/Python/comments/qsc3g3/what_are_the_advanced_concepts_someone_should/)

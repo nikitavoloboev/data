@@ -171,7 +171,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Text as an interface (2020)](https://thesephist.com/posts/text/)
 - [Alex](https://alexjs.com/) - Catch insensitive, inconsiderate writing. ([Code](https://github.com/get-alex/alex)) ([Article](https://wooorm.com/blog/alex/))
 - [Fuzzy](https://github.com/sajari/fuzzy) - Spell checking and fuzzy search suggestion written in Go.
-- [Self-Defined](https://www.selfdefined.app/) - Seeks to provide more inclusive, holistic, and fluid definitions to reflect the modern world. ([Code](https://github.com/tatianamac/selfdefined))
+- [Self-Defined](https://www.selfdefined.app/) - Seeks to provide more inclusive, holistic, and fluid definitions to reflect the modern world. ([Code](https://github.com/tatianamac/selfdefined)) ([Twitter](https://twitter.com/SelfDefinedApp))
 - [Monzo – Tone of Voice](https://monzo.com/tone-of-voice/) - Brief overview of how we write. ([HN](https://news.ycombinator.com/item?id=23361531))
 - [E-Prime](https://zencephalon.com/e-prime/) - Variant of English in which one avoids the use of the word ‘is’ and all its conjugations.
 - [Ask HN: I find writing difficult, how do I make it easy? (2020)](https://news.ycombinator.com/item?id=23465908)
@@ -262,3 +262,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Best Story Wins (2021)](https://www.collaborativefund.com/blog/story/) ([Tweet](https://twitter.com/mollyfmielke/status/1455257395542695936))
 - [What I learned from a year on Substack (2021)](https://www.niemanlab.org/2021/09/what-i-learned-from-a-year-on-substack/) ([HN](https://news.ycombinator.com/item?id=29090448))
 - [Advice for aspiring bloggers (2021)](https://www.haskellforall.com/2021/10/advice-for-aspiring-bloggers.html)
+- [Awesome Writing](https://github.com/jenniferlynparsons/awesome-writing)

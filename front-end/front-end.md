@@ -73,3 +73,4 @@
 - [Словари по фронтенду](https://github.com/web-standards-ru/dictionary)
 - [Grab Front End Guide](https://github.com/grab/front-end-guide)
 - [Frontend Horse](https://frontend.horse/) - Learn techniques from the best creative frontend developers. ([Twitter](https://twitter.com/FrontendHorse))
+- [Building Resilient Frontend Architecture • Monica Lent (2019)](https://www.youtube.com/watch?v=TqfbAXCCVwE)

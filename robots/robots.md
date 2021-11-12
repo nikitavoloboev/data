@@ -110,3 +110,5 @@
 - [Attention-driven Robotic Manipulation (ARM)](https://github.com/stepjam/ARM)
 - [PyTouch: A Machine Learning Library for Touch Processing (2021)](https://arxiv.org/abs/2105.12791) ([Code](https://github.com/facebookresearch/PyTouch))
 - [Implicit Behavioral Cloning (2021)](https://implicitbc.github.io/) ([Code](https://github.com/google-research/ibc))
+- [STORM](https://github.com/NVlabs/storm) - Stochastic Tensor Optimization for Robot Motion - A GPU Robot Motion Toolkit.
+- [Geometry-ware multi-task policy can not only manipulate 100+ objects but also outperform single-task RL experts](https://twitter.com/pathak2206/status/1458883761555206149)

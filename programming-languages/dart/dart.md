@@ -24,3 +24,4 @@
 - [Fpdart](https://github.com/SandroMaglione/fpdart) - Functional programming in Dart and Flutter.
 - [gql-dart/gql](https://github.com/gql-dart/gql) - Libraries supporting GraphQL in Dart.
 - [Context](https://github.com/lesnitsky/contextualized) - HashMap with shadowing (inherits parent values) and helpers to work with Types as keys.
+- [supabase-dart](https://github.com/supabase/supabase-dart) - Dart client for Supabase.

@@ -16,6 +16,7 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 ## Notes
 
 - [I don’t think Solana is at war with ETH or any other blockchain - our community is just focused on building stuff people want and will use. Please minimize the toxicity and let’s focus on utility not price.](https://twitter.com/VinnyLingham/status/1434304520050249731)
+- [Can create a verifiable build for _any_ solana program via `anchor build --verifiable` and we have a (minimal) source verification registry at Anchor Project Serum](https://twitter.com/armaniferrante/status/1458490295708966918)
 
 ## Links
 
@@ -142,3 +143,7 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Solana Smart Contracts: Common Pitfalls and How to Avoid Them (2021)](https://blog.neodyme.io/posts/solana_common_pitfalls)
 - [Drift](https://www.drift.trade/) - Lightning-fast and scalable perpetual futures DEX. ([Protocol Code](https://github.com/drift-labs/protocol-v1)) ([Example Bots](https://github.com/drift-labs/example-bots)) ([Twitter](https://twitter.com/DriftProtocol))
 - [sol-rayz](https://github.com/NftEyez/sol-rayz) - Package to simplify parsing NFTs on Solana.
+- [Best Solana Code -> Test Environment (2021)](https://twitter.com/dhof/status/1458798167676358657)
+- [serum-crank](https://github.com/sol-farm/serum-crank) - Performance and cost optimized serum-dex crank that allows combining multiple market cranking instructions into a single transaction.
+- [Tulip Protocol](https://tulip.garden/) - Efficient Solana Yield Aggregator. ([GitHub](https://github.com/sol-farm))
+- [Solana JSON-RPC caching server](https://github.com/zubr-exchange/cacherpc)

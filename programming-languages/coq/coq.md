@@ -89,3 +89,6 @@
 - [Formalization of some elementary mathematical theories in Coq](https://github.com/ivashkev/math-formalizations)
 - [Stable sort algorithms in Coq](https://github.com/pi8027/stablesort)
 - [CertiCoq](https://github.com/CertiCoq/certicoq) - Compiler for Gallina, the specification language of the Coq proof assistant.
+- [Tealeaves](https://github.com/dunnl/tealeaves) - Coq library for proving theorems about syntax abstractly.
+- [Connectivity Graphs Coq Development](https://github.com/julesjacobs/cgraphs)
+- [Hemiola](https://github.com/mit-plv/hemiola) - Coq framework to support structural design and proof of hardware cache-coherence protocols.

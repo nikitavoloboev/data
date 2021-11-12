@@ -53,6 +53,7 @@
 - [TypeScript starter for Next.js](https://github.com/jpedroschmitz/typescript-nextjs-starter)
 - [Next PWA Template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template.
 - [NextJS Monorepo](https://github.com/belgattitude/nextjs-monorepo-example) - Monorepo / workspaces concepts oriented around NextJS.
+- [Ask Me Anything](https://ama-prisma.vercel.app/) ([Code](https://github.com/2color/ama-prisma))
 
 ## NextJS plugins
 
@@ -97,6 +98,8 @@
 - [Next.js drop-in analytics support](https://github.com/ian/analytics)
 - [next-composition](https://github.com/neet/next-composition) - Next.js utility for reusing getServerSideProps and getStaticProps logics. ([Reddit](https://www.reddit.com/r/nextjs/comments/qjkez7/github_neetnextcomposition_nextjs_utility_for/))
 - [next-router-query](https://github.com/KATT/next-router-query) - Drop-in alternative of `useRouter().query` that tries it's best to get the query params on the first mount.
+- [next-sanity](https://github.com/sanity-io/next-sanity) - Sanity.io toolkit for Next.js
+- [next-g11n](https://github.com/atilafassina/next-g11n) - Translate and localize your Next.js app smoothly.
 
 ## Notes
 
@@ -280,3 +283,4 @@
 - [How to create a generic protected route in Next.js (2021)](https://shipsaas.com/blog/create-protected-route-nextjs)
 - [Guide to using images in Next.js (2021)](https://shipsaas.com/blog/guide-to-using-images-in-nextjs) ([Reddit](https://www.reddit.com/r/nextjs/comments/qqcj8u/guide_to_using_images_in_nextjs/))
 - [Code Walkthrough for Next.js / Tailwind / Prisma / PlanetScale App (2021)](https://www.youtube.com/watch?v=WZZFW5xDjJ4)
+- [React Server Components Roadmap for Next.js (2021)](https://github.com/vercel/next.js/discussions/31263)

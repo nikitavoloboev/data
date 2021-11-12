@@ -93,3 +93,4 @@
 - [Wikimedia Enterprise](https://enterprise.wikimedia.com/) - Modern REST APIs for Wikimedia Projects. ([Article](https://wikimediafoundation.org/news/2021/10/25/wikimedia-foundation-launches-wikimedia-enterprise-the-new-opt-in-product-for-companies-and-organizations-to-easily-reuse-content-from-wikipedia-and-wikimedia-projects/)) ([HN](https://news.ycombinator.com/item?id=29014523))
 - [Geometric Graphs](https://github.com/cthoyt/geometric-graphs) - Generate knowledge graphs with interesting geometries, like lattices.
 - [Relation Prediction as an Auxiliary Training Objective for Knowledge Graph Completion (2021)](https://github.com/facebookresearch/ssl-relation-prediction)
+- [wikitextprocessor](https://github.com/tatuylonen/wikitextprocessor) - Python package for WikiMedia dump processing (Wiktionary, Wikipedia etc).

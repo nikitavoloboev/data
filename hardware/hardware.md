@@ -248,3 +248,4 @@
 - [Teenage Engineering Computer-1 mini-ITX Chassis](https://teenage.engineering/products/computer-1) ([HN](https://news.ycombinator.com/item?id=29027328))
 - [hgdb](https://github.com/Kuree/hgdb) - Flexible hardware debugging framework. It offers runtime APIs to interact with the simulator.
 - [A History of Modern 64-bit Computing (2007)](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-64-bit.pdf)
+- [Titan M tools](https://github.com/quarkslab/titanm) - Tools we used in our research on the Google Titan M chip.

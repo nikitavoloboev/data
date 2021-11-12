@@ -24,3 +24,4 @@
 - [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html) ([HN](https://news.ycombinator.com/item?id=28477046))
 - [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf) ([HN](https://news.ycombinator.com/item?id=28711019))
 - [AURA: Ada User Repository Annex](https://aura-docs.readthedocs.io/en/latest/) - Native package manager and build system for Ada. ([Article](https://annexi-strayline.com/blog/posts/4)) ([HN](https://news.ycombinator.com/item?id=29115620))
+- [Ada on any ARM Cortex-M device, in just a couple minutes (2021)](https://blog.adacore.com/ada-on-any-arm-cortex-m-device-in-just-a-couple-minutes)

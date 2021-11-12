@@ -69,3 +69,5 @@
 - [20 Awesome Figma Plugins to improve your Workflow (2021)](https://www.marcandrew.me/20-awesome-figma-plugins-to-improve-your-workflow/)
 - [figma-icon-extractor](https://github.com/bem/figma-icon-extractor) - Tool for extract icons from figma in jsx and svg.
 - [Figma Plugins for keyboard (2021)](https://twitter.com/figmadesign/status/1458124921305853960)
+- [My top 10 favorite Figma plugins (2021)](https://twitter.com/buninux/status/1458113472407945223)
+- [Chunk Icons](https://www.figma.com/community/file/889863427421594653) - Set of 144 consistent & commonly-needed glyphs, all tailored to look nice and sharp at 16px.

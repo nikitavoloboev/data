@@ -22,6 +22,7 @@
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
 - [Dropbox JS](https://github.com/dropbox/dropbox-sdk-js) - Dropbox JavaScript SDK.
+- [Twitter TS](https://github.com/twitterjs/twitter.js)
 - [Twitter Go](https://github.com/mattn/twty)
 - [Twitter Go 2](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Twitter Go 3](https://github.com/bloveless/tweetgo)
@@ -95,6 +96,7 @@
 - [LinkedIn Node](https://github.com/eilonmore/linkedin-private-api)
 - [Gophercloud Go](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
 - [AWS SDK Rust](https://github.com/rusoto/rusoto)
+- [Spotify TS](https://github.com/tspotify/tspotify)
 - [Spotify Go](https://github.com/zmb3/spotify)
 - [Spotify GraphQL](https://github.com/wittydeveloper/spotify-graphql) - GraphQL schema for Spotify WebAPI.
 - [Spotify Python](https://github.com/plamere/spotipy)
@@ -278,3 +280,4 @@
 - [Building the Brex API (2021)](https://building.brex.com/building-the-brex-api-52dcb26cacc8) ([HN](https://news.ycombinator.com/item?id=28947928))
 - [Anatomy of a Great API Library (2021)](https://brandur.org/nanoglyphs/019-api-libraries)
 - [Making retries safe with idempotent APIs](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/) ([Tweet](https://twitter.com/marknca/status/1458066748322684932))
+- [Backpressure And The Replicator (2021)](https://github.com/couchbase/couchbase-lite-core/wiki/Backpressure) ([Lobsters](https://lobste.rs/s/x9kwgp/backpressure_replicator))

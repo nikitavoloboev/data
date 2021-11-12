@@ -234,3 +234,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [The Rise of Nintendo: A Story in 8 Bits (2014)](https://grantland.com/features/the-rise-of-nintendo-video-games-history/) ([HN](https://news.ycombinator.com/item?id=29055544))
 - [Your 5 most important video games during your youth years (2021)](https://twitter.com/porkironandwine/status/1457640224066920450)
 - [100 Thieves](https://twitter.com/100Thieves) - Gaming, entertainment, and apparel. ([Tweet](https://twitter.com/jacksondahl/status/1458152429564792835))
+- [Games are well-positioned to become the true fans of web3, and why that matters (2021)](https://twitter.com/brianjcho/status/1459176570174672897)

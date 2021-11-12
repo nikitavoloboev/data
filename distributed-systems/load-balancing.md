@@ -39,3 +39,5 @@
 - [Istio in Action Book (2018)](https://www.manning.com/books/istio-in-action)
 - [Testing Client-Side Load Balancing Strategies (2021)](https://faun.pub/testing-client-side-load-balancing-strategies-9d99246d99dc)
 - [Load Shedding for Evil Wizards - Tony Allen (2021)](https://www.youtube.com/watch?v=UInZ9yViUS0)
+- [Istio's networking: an in-depth look at traffic and architecture (2021)](https://www.solo.io/blog/istios-networking-in-depth/)
+- [slb](https://github.com/steel-load-balancer/slb) - Load-balancer made from steel.

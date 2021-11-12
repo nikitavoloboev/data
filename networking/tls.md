@@ -54,3 +54,4 @@
 - [Mutual TLS (mTLS)](https://smallstep.com/hello-mtls) - Documentation on how to configure a broad array of technologies to perform mutual TLS. ([Code](https://github.com/smallstep/hello-mtls))
 - [s2n](https://github.com/aws/s2n-tls) - Implementation of the TLS/SSL protocols. ([Lobsters](https://lobste.rs/s/i1jdij/aws_s_implementation_tls_ssl))
 - [TLS-Attacker](https://github.com/tls-attacker/TLS-Attacker) - Java-based framework for analyzing TLS libraries.
+- [TLS Fingerprinting](https://github.com/LeeBrotherston/tls-fingerprinting)

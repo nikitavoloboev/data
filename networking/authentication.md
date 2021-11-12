@@ -171,3 +171,4 @@
 - [Jumio](https://www.jumio.com/) - End-to-End ID and Identity Verification Solutions.
 - [AuthX](https://github.com/yezz123/AuthX) - Ready to use and customizable Authentications and Oauth2 management for FastAPI.
 - [OpenID Connect SDK (client and server) for Go](https://github.com/caos/oidc)
+- [How to use OAuth to Add Authentication to Your React App (2021)](https://fusionauth.io/blog/2021/11/11/how-to-authenticate-your-react-app/) ([HN](https://news.ycombinator.com/item?id=29198675))

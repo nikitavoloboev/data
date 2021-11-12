@@ -149,6 +149,7 @@
 - The relationship can only get better if both want it to improve.
 - [Don't waste time on maintaining one sided relationships.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/h3ydwgi/?utm_source=reddit&utm_medium=web2x&context=3)
 - Don't burn bridges unnecessarily. Try be remembered as a good friend.
+- Set your own [boundaries for what make you feel well](https://twitter.com/titsay/status/1458749929686384647) and have everyone you interact respect them or cut ties with them.
 
 ## Communication
 

@@ -75,3 +75,4 @@
 - [Realm of Racket](https://nostarch.com/realmofracket.htm) - Learn to Program, One Game at a Time.
 - [Racket v8.3 (2021)](https://blog.racket-lang.org/2021/11/racket-v8-3.html) ([HN](https://news.ycombinator.com/item?id=29134609))
 - [Racket Discussions](https://racket.discourse.group/)
+- [Scribble](https://github.com/racket/scribble) - Racket Documentation Tool.

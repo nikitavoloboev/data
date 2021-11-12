@@ -337,3 +337,5 @@
 - [Simple, type-safe string formatting in Haskell (2021)](https://danso.ca/blog/type-safe-printf/)
 - [Hard things to figure out in Haskell (2021)](https://twitter.com/trupill/status/1454871730888093698)
 - [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md) ([Reddit](https://www.reddit.com/r/haskell/comments/qq7tki/l%C3%B6b_and_m%C3%B6b_strange_loops_in_haskell/))
+- [All about `deriving` in GHC (2021)](https://www.youtube.com/watch?v=xQFon5b2ABg)
+- [Applying File Changes with fix and GADTs (2021)](https://dfithian.github.io/2021/11/12/applying-file-changes-with-fix-and-gadts.html)

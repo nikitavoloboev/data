@@ -20,6 +20,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [I don't really give a shit about purpose as much as I am interested in just kind of exploring all the weird and funny places our felt experience can go. It's been very freeing.](https://www.reddit.com/r/RationalPsychonaut/comments/oxv9vt/have_psychedelicsmind_exploration_techniques/)
 - [Life is just a thing that is happening to you, let it happen. Novelty occurs in things that are outside of our control, and it cannot happen if you are stuck in your own head imposing limits on yourself.](https://www.reddit.com/r/RationalPsychonaut/comments/pz6oid/given_the_absurdity_of_life_how_do_you_go_about/)
 - [When you don’t create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. So create.](https://lobste.rs/s/lbero9/what_we_can_learn_from_why_long_lost_open)
+- [Don’t spend time attacking people. Don’t spend your time on the people you hate. Instead, spend time on building your own products, spend time on yourself. Some people still don’t get this. Time is the most limited resource.](https://twitter.com/cz_binance/status/1458916521355403274)
 
 ## Links
 
@@ -77,3 +78,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Things you probably don’t need in your life](https://twitter.com/Mochievous/status/1452015750382866435)
 - [Modest (2021)](https://milky.substack.com/p/modest)
 - [What piece of advice have you received that you also find yourself regularly giving? (2021)](https://www.reddit.com/r/AskMenOver30/comments/qnvwdl/what_piece_of_advice_have_you_received_that_you/)
+- [This Weirdly Smart, Creeping Slime Is Redefining Our Understanding of Intelligence (2021)](https://www.sciencealert.com/this-creeping-slime-is-changing-how-we-think-about-intelligence) ([Tweet](https://twitter.com/Plinz/status/1458851074186485763))

@@ -435,3 +435,6 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-rewrite-author](https://github.com/crazy-max/git-rewrite-author) - Rewrite authors / commiters history of a git repository with ease.
 - [Git Articles - CSS-Tricks](https://css-tricks.com/tag/git/)
 - [GoIgnore](https://github.com/ntk148v/goignore) - gitignore wizard in your command line written in Go.
+- [Mani](https://github.com/alajmo/mani) - CLI tool to help you manage multiple repositories. ([Docs](https://manicli.com/))
+- [Git techniques (2021)](https://riskledger.com/blog/git-basics-at-risk-ledger/) ([HN](https://news.ycombinator.com/item?id=29162234))
+- [Make your monorepo feel small with Git’s sparse index (2021)](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)

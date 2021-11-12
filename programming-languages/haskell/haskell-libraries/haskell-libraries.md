@@ -182,6 +182,7 @@
 - [Vinyl](https://github.com/VinylRecords/Vinyl) - Extensible Records for Haskell.
 - [constraints-extras](https://github.com/obsidiansystems/constraints-extras) - Convenience functions and template haskell for working with constraints.
 - [some](https://github.com/haskellari/some) - Defines several versions of an existential type 'Some'.
+- [rio](https://github.com/commercialhaskell/rio) - Standard library for Haskell.
 
 ## Links
 
@@ -199,3 +200,4 @@
 - [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Awesome Haskell links, frameworks, libraries and software.
 - [Awesome Haskell 2](https://github.com/uhub/awesome-haskell)
 - [Haskell Development Build Tools using Nix](https://github.com/tek/hix)
+- [nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages.

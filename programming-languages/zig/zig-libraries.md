@@ -39,9 +39,11 @@
 - [Zig Interfaces](https://github.com/alexnask/interface.zig) - Dynamic dispatch for zig made easy.
 - [hyperia](https://github.com/lithdew/hyperia) - Playground of Zig async code.
 - [zigimg](https://github.com/zigimg/zigimg) - Create, process, read and write different image formats with Zig.
+- [simdjzon](https://github.com/travisstaloch/simdjzon) - Port of simdjson, a high performance JSON parser.
 
 ## Links
 
 - [zigmod](https://github.com/nektro/zigmod) - Package manager for the Zig programming language.
 - [gyro](https://github.com/mattnite/gyro) - Zig package manager with an index, build runner, and build dependencies. ([Web](https://astrolabe.pm/))
 - [zigpkgs](https://github.com/joachimschmidt557/zigpkgs) - Collection of zig packages built with Nix.
+- [Aquila](https://github.com/nektro/aquila) - Federated package index and CI system for Zig. ([Web](https://aquila.red/))

@@ -1,6 +1,6 @@
 # [WebAssembly](https://webassembly.org/)
 
-[swc](https://github.com/swc-project/swc)/[esbuild](https://github.com/evanw/esbuild)/[vite](https://vitejs.dev/) are faster alternatives.
+[Wasmer](https://docs.wasmer.io/) is great runtime to execute WebAssembly on the server.
 
 ## Links
 
@@ -214,3 +214,4 @@
 - [WASICaml](https://github.com/remixlabs/wasicaml) - Translate OCaml bytecode to WebAssembly.
 - [ZBar.wasm](https://github.com/samsam2310/zbar.wasm) - WASM build of C/C++ ZBar barcode scanning library.
 - [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - wasm-pack plugin for Vite.
+- [WebAssembly for Proxies (Rust SDK)](https://github.com/proxy-wasm/proxy-wasm-rust-sdk)

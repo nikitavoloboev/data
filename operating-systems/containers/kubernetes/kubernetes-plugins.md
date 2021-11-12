@@ -24,6 +24,7 @@
 - [Notifications Engine](https://github.com/argoproj/notifications-engine) - Affordable notifications for Kubernetes.
 - [k6 Operator](https://github.com/grafana/k6-operator) - Operator for running distributed k6 tests.
 - [TiDB Operator](https://github.com/pingcap/tidb-operator) - TiDB operator creates and manages TiDB clusters running in Kubernetes.
+- [kube-watch-diff](https://github.com/leopoldxx/kube-watch-diff) - kubectl plugin for watching resources and generating diffs.
 
 ## Links
 

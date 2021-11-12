@@ -68,3 +68,4 @@
 - [filecoindot](https://github.com/ChainSafe/filecoindot) - Filecoin to substrate bridge.
 - [Talisman](https://app.talisman.xyz/portfolio) - Polkadot, Kusama & Parachain dashboard for the community. ([Web Code](https://github.com/TalismanSociety/talisman-web))
 - [Kusama](https://kusama.network/) - Polkadot's Canary Network.
+- [Polka Domain](https://github.com/polka-domain/polka-domain) - Decentralized, privacy preserving blockchain naming service and exchange built on Polkadot for everyone.

@@ -44,3 +44,4 @@
 - [Helion](https://www.helionenergy.com/) - Building the world’s first fusion power plant, enabling a future with unlimited clean electricity. ([HN](https://news.ycombinator.com/item?id=29119180))
 - [Nuclear power is the best climate-change solution (2021)](https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581) ([HN](https://news.ycombinator.com/item?id=29125576))
 - [Why nuclear fusion yields more energy than fission](https://www.physlink.com/education/askexperts/ae534.cfm) ([HN](https://news.ycombinator.com/item?id=29127608))
+- [Nuclear energy is long-term sustainable (2021)](https://whatisnuclear.com/blog/2020-10-28-nuclear-energy-is-longterm-sustainable.html) ([HN](https://news.ycombinator.com/item?id=29199777))

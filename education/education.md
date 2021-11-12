@@ -92,3 +92,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Thread of studies in learning and education](https://twitter.com/Phillips_M_G/status/1436017478358941697)
 - [Is public education compatible with free speech? (2021)](https://www.youtube.com/watch?v=_7zMtX0W82s) ([Tweet](https://twitter.com/shlevy/status/1455993055400628232))
 - [Helping students with pair programming (2021)](https://offbyone.us/posts/pairing/) ([HN](https://news.ycombinator.com/item?id=29129378))
+- [teach-in - YouTube](https://www.youtube.com/c/NAUKA0/playlists)

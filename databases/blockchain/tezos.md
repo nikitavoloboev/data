@@ -6,7 +6,9 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 
 ## Applications
 
+- [objkt.com](https://objkt.com/) - Largest NFT marketplace on Tezos. ([Tweet](https://twitter.com/objktcom/status/1458853223490592774))
 - [Werenode](http://werenode.com/index.html) - Boost the EV charging network. Make it auditable thanks to Tezos blockchain. ([Reddit](https://www.reddit.com/r/tezos/comments/l3o4cr/werenode/))
+- [hic et nunc](https://hicetnunc.art/) - Smart contracts and distributed systems designs. ([Tweet](https://twitter.com/matdryhurst/status/1458966893503594500)) ([Tweet](https://twitter.com/sableRaph/status/1459151151119704069))
 
 ## Notes
 
@@ -71,3 +73,5 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Temple Wallet](https://github.com/madfish-solutions/templewallet-mobile) - Non-custodial crypto wallet for interacting with the Tezos ecosystem.
 - [Rarible Protocol](https://rarible.org/) - Create, access, and monetize digital items. ([Twitter](https://twitter.com/raribledao))
 - [Tezos Octez](https://github.com/ocaml-multicore/tezos) - Tezos running on Multicore OCaml.
+- [Why Are Exchanges So Different on Tezos? (2021)](https://story.madfish.solutions/why-are-exchanges-so-different-on-tezos/)
+- [Preferred way to make collections on HEN/Tezos (2021)](https://twitter.com/thomasp85/status/1455821645676007424)

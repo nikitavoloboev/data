@@ -86,3 +86,4 @@
 - [pbxproj](https://github.com/kronenthaler/mod-pbxproj) - Python module to manipulate XCode projects.
 - [XcodeProject](https://github.com/bannzai/XcodeProject) - Xcode utility for reading and writing pbxproj file format.
 - [Create Custom Xcode Templates (2021)](https://medium.com/mindful-engineering/create-custom-xcode-templates-908fdd14fbd8)
+- [xcconfig-extractor](https://github.com/toshi0383/xcconfig-extractor) - Refactor buildSettings into xcconfigs.

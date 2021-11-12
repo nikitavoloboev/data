@@ -9,6 +9,7 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 ## Notes
 
 - [It’s only a metaverse if it’s decentralized and trustless, otherwise it’s just sparkling virtual reality.](https://twitter.com/max_hodak/status/1446651117899694083)
+- [Facebook has a patent for a real-time online ad auction system that turns "organic objects" within a virtual world into "sponsored objects". The patent describes a similar process for advertisers to bid on "sponsored locations" within the metaverse.](https://twitter.com/notjeffrichards/status/1458432253587906569)
 
 ## Links
 

@@ -12,7 +12,7 @@ If analytics are used, it's best to implement them server side with something li
 
 ## Links
 
-- [Fathom](https://usefathom.com/) - Simple, trustworthy website analytics. Built with Go & Preact. ([Code](https://github.com/usefathom/fathom))
+- [Fathom](https://usefathom.com/) - Simple, trustworthy website analytics. Built with Go & Preact. ([Code](https://github.com/usefathom/fathom)) ([Best option for GDPR compliance](https://usefathom.com/features/eu-isolation))
 - [Matamo](https://matomo.org/) - Open source alternative to Google Analytics.
 - [LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [Grafana](https://github.com/grafana/grafana) - Tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More. ([Grafana Backup Tool](https://github.com/ysde/grafana-backup-tool))
@@ -87,3 +87,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Pirsch Analytics](https://pirsch.io/) - Cookie-Free Alternative to Google Analytics.
 - [Dune Analytics](https://dune.xyz/home) - Free crypto analytics by and for the community.
 - [Bast](https://github.com/kooparse/bast) - Web analytics focusing on privacy and simplicity.
+- [Sensor Tower](https://sensortower.com/) - Mobile App Store Marketing Intelligence.

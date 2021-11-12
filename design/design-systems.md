@@ -76,11 +76,13 @@
 - [Apache Superset UI packages](https://github.com/apache-superset/superset-ui)
 - [Mirror Design](https://degen-xyz.vercel.app/) - Design system for Mirror.xyz built with React and vanilla-extract. ([Code](https://github.com/mirror-xyz/degen))
 - [Arco Design React](https://github.com/arco-design/arco-design)
+- [Equinor Design System](https://github.com/equinor/design-system)
 
 ## Notes
 
 - [If you have 10 teams working independently, you're already maintaining 10 design systems—or even more. It's cheaper to do it once.](https://twitter.com/markdalgleish/status/1336954195400802308)
 - [Making design system decisions in order to be tech agnostic is actually doing a disservice. Usually the tradeoff becomes less ability to codify the decisions into the system, way more process and effort to evolve and educate, ultimately more expensive.](https://twitter.com/sarah_federman/status/1451039437090025476)
+- [If you're not a designer the easiest way to make your site look pro is to keep your Artist palette color palette VERY limited. Most sites have only: 1. brand color (red, blue, green, orange, purple). 2. main color (black). 3. secondary color (gray).](https://twitter.com/levelsio/status/1458742837269327879)
 
 ## Links
 

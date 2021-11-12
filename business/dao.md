@@ -16,3 +16,4 @@
 - [DeveloperDAO Knowledge Base](https://github.com/Developer-DAO/resources) - Help you learn and grow in your Web3 journey.
 - [Citizen DAO](https://citizendao.com/) - Crypto Community for Social Impact Projects.
 - [Diamond DAO](https://www.diamonddao.xyz/) - Home for DAO data nerds.
+- [DAO community treasuries are being criminally underused](https://twitter.com/AntonioMJuliano/status/1458844848560087070)

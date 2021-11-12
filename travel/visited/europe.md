@@ -26,3 +26,4 @@
 - [EU Chatcontrol 2.0 (2021)](https://peertube.european-pirates.eu/videos/watch/d64e6e10-0ad0-4b37-8813-3f5bc329f03b) ([HN](https://news.ycombinator.com/item?id=29066894))
 - [TLDR News EU - YouTube](https://www.youtube.com/c/TLDRNewsEU/videos)
 - [Low tax country to offload stocks for capital gains (2021)](https://www.reddit.com/r/EuropeFIRE/comments/qn7ied/looking_for_a_low_tax_country_to_offload_my/)
+- [How trains could replace planes in Europe (2021)](https://www.economist.com/europe/2021/11/11/how-trains-could-replace-planes-in-europe) ([HN](https://news.ycombinator.com/item?id=29190495))

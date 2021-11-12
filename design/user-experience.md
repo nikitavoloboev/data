@@ -132,3 +132,6 @@
 - [The Golden Ratio and User-Interface Design (2021)](https://www.nngroup.com/articles/golden-ratio-ui-design/)
 - [Your users will do what you make easy](https://c3.handmade.network/blog/p/8208-when_making_things_easy_is_bad) ([HN](https://news.ycombinator.com/item?id=29142861))
 - [Fewer options can create more optionality (2021)](https://world.hey.com/jason/fewer-options-can-create-more-optionality-4ac9b067)
+- [The shape of software (2021)](https://brianlovin.com/writing/the-shape-of-software)
+- [UI & UX Design Tips by Jim Raptis](https://www.uidesign.tips/)
+- [Great How it Works Pages](https://twitter.com/monicalent/status/1459118768756568065)

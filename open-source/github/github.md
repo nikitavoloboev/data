@@ -80,7 +80,7 @@ Awesome List
 - [How to collaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github) - Mini book about collaborating on GitHub.
 - [Gitrob](https://github.com/michenriksen/gitrob) - Tool to help find potentially sensitive files pushed to public repositories on GitHub.
 - [Octoverse](https://octoverse.github.com/)
-- [utterances](https://github.com/utterance/utterances) - Lightweight comments widget built on GitHub issues. ([Web](https://utteranc.es/))
+- [Utterances](https://github.com/utterance/utterances) - Lightweight comments widget built on GitHub issues. ([Web](https://utteranc.es/)) ([HN](https://news.ycombinator.com/item?id=29189923))
 - [github-drama](https://github.com/nikolas/github-drama) - Curated collection of "dramatic" GitHub interactions.
 - [DevHub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Android, iOS and Web.
 - [Probot](https://github.com/probot/probot) - Framework for building GitHub Apps to automate and improve your workflow.
@@ -300,3 +300,4 @@ Awesome List
 - [Repository Viewer](https://repo-viewer.vercel.app/) - View your GitHub repositories grouped by tag to make them easier to find. ([Code](https://github.com/samrobbins85/repo-viewer))
 - [goh](https://github.com/breakthatbass/goh) - Navigate github repos in a tui.
 - [Repobeats](https://repobeats.axiom.co/) - Gorgeous embeddable GitHub insights. ([Tweet](https://twitter.com/rauchg/status/1458519720202698759))
+- [auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript.

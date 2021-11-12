@@ -340,3 +340,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [dstp](https://github.com/ycd/dstp) - Run common networking tests against your site.
 - [Test Certificates for localhost (2021)](https://www.hardill.me.uk/wordpress/2021/09/27/test-certificates-for-localhost/)
 - [Webhook Relay](https://webhookrelay.com/) - Relay and proxy all your webhooks to public and internal destinations.
+- [Fast checksum computation (2018)](https://blogs.igalia.com/dpino/2018/06/14/fast-checksum-computation/)
+- [Rport](https://github.com/cloudradar-monitoring/rport) - Manage remote systems with ease. ([Web](https://rport.io/))

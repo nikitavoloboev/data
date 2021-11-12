@@ -35,3 +35,4 @@
 - [Reddit Scraper](https://github.com/basaldella/reddit-scraper) - Python Reddit scraper based on Praw and Pushshift.
 - [Async PRAW](https://github.com/praw-dev/asyncpraw) - Asynchronous Python Reddit API Wrapper. ([Docs](https://asyncpraw.readthedocs.io/en/stable/))
 - [Reddit 1.0 Code](https://github.com/reddit-archive/reddit1.0) - In Common Lisp.
+- [Pushshift Reddit API Documentation](https://github.com/pushshift/api)

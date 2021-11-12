@@ -8,6 +8,7 @@
 - [The economic reward function is very important. As long as there are uncapped returns, centralization is inevitable.](https://twitter.com/BlackForestBoi/status/1442444302408470530)
 - [Web1: content distributed to users. Web2: content produced by users and distributed to users. Web3: content produced by users and distributed to users on user controlled platforms.](https://twitter.com/ArthurB/status/1444620432280330241)
 - [Web 3: People create + People profit](https://twitter.com/levelsio/status/1453712519919403016)
+- [Decentralization doesn't mean the absence of leaders but the abundance of them.](https://twitter.com/Echecrates/status/1458589782427279366)
 
 ## Links
 
@@ -109,3 +110,4 @@
 - [Which classic web property would make great sense re-imagined in web3 terms (token + DAO with community incentives) (2021)](https://twitter.com/sriramk/status/1457063383992176643)
 - [Fission](https://fission.codes/) - Bringing decentralized web tech to all devs by solving today’s challenges. ([Twitter](https://twitter.com/FISSIONcodes)) ([CLI & server](https://github.com/fission-suite/fission))
 - [Web3 Ecosystem Overview (2021)](https://twitter.com/yb_effect/status/1458129586428932103)
+- [Notes on Web3: Meager counterweight to the growing hype (2021)](https://society.robinsloan.com/archive/notes-on-web3/) ([Tweet](https://twitter.com/rich_harris/status/1458815995523514372))

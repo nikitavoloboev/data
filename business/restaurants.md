@@ -25,3 +25,4 @@
 - [Bring back menus, QR codes are terrible (2021)](https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html) ([HN](https://news.ycombinator.com/item?id=27671392))
 - [Restaurant workers quit at record rate (2021)](https://www.npr.org/2021/07/20/1016081936/low-pay-no-benefits-rude-customers-restaurant-workers-quit-at-record-rate) ([HN](https://news.ycombinator.com/item?id=27894640))
 - [Best Restaurants Guide](https://brguide.com/) - Top 1% of All Restaurants.
+- [Restaurant food supply digitized (2021)](https://twitter.com/patrick_oshag/status/1458955349734662152?s=20)

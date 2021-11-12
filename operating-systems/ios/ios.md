@@ -87,6 +87,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [TodoApp iOS](https://github.com/elixir-desktop/ios-example-app) - Xcode project wrapper around the Elixir TodoApp Desktop app to run on iOS.
 - [Zotero iOS](https://github.com/zotero/zotero-ios)
 - [DeTeXt](https://venkatasg.net/apps/detext) - Find the LaTeX Command You Want. ([Code](https://github.com/venkatasg/DeTeXt))
+- [Aphrodite](https://github.com/joey-gm/Aphrodite) - Asset Catalog Editor for iOS.
 
 ## Other
 
@@ -112,6 +113,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 
 ## Links
 
+- [iOS Starter Kit](https://github.com/jrasmusson/ios-starter-kit) - Starter kit for those interested in iOS programming.
 - [iOS Dev Directory](https://iosdevdirectory.com/) - Comprehensive list of blogs & sites covering iOS development. ([Code](https://github.com/daveverwer/iOSDevDirectory))
 - [iOS Security paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 - [iOS landing page](https://github.com/sindresorhus/ios-landing-page)
@@ -371,3 +373,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Clean Architecture on iOS (2021)](https://bpoplauschi.github.io/2021/09/21/Clean-Architecture-on-iOS.html)
 - [Proof of concept: iOS app written in pure Rust](https://github.com/wooden-worm/ios-app-rs) ([Reddit](https://www.reddit.com/r/rust/comments/qpruup/proof_of_concept_ios_app_written_in_pure_rust/))
 - [iOS apps should support cmd+k searches natively](https://twitter.com/jonrundle/status/1458540615642275847)
+- [Optimize & improve discoverability in iOS App Store (2021)](https://twitter.com/nielsmouthaan/status/1458795004042874883)

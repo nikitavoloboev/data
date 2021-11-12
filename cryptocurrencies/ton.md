@@ -1,4 +1,4 @@
-# [TON](https://test.ton.org/)
+# [TON](https://ton.org/)
 
 ## Links
 
@@ -10,3 +10,4 @@
 - [SEC TON complaint](https://www.sec.gov/litigation/complaints/2019/comp-pr2019-212.pdf)
 - [Free TON Community](https://freeton.org/main)
 - [Everscale Docs](https://docs.tonalliance.org/)
+- [TON Blockchain Test Network — files and resources](https://test.ton.org/)

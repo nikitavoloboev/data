@@ -36,3 +36,4 @@
 - [Finding prime monomials (2021)](https://jasdev.me/prime-monomials)
 - [The Trip to the Prime Number Theorem (2021)](https://offbeat.cc/blog/the-trip-to-the-prime-number-theorem.html)
 - [Constructively Complete Finite Sets (1988)](https://onlinelibrary.wiley.com/doi/10.1002/malq.19880340202) ([Tweet](https://twitter.com/gro_tsen/status/1452319122067501064))
+- [How imaginary numbers were invented (2021)](https://www.youtube.com/watch?v=cUzklzVXJwo) ([Reddit](https://www.reddit.com/r/Physics/comments/qkf0mb/veritasium_history_of_cubics_this_problem_broke/)) ([HN](https://news.ycombinator.com/item?id=29185238))

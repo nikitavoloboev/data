@@ -61,3 +61,4 @@
 - [LWW-element-graphs study](https://github.com/agravier/crdt-study) ([Comment](https://news.ycombinator.com/item?id=29026978))
 - [go-ds-crdt](https://github.com/ipfs/go-ds-crdt) - Distributed go-datastore implementation using Merkle-CRDTs.
 - [ldb](https://github.com/vitorenesduarte/ldb) - Replication of CRDTs in Erlang.
+- [CRDTs meet Redux](https://github.com/HerbCaudill/crdx)

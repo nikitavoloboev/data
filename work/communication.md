@@ -152,3 +152,4 @@
 - [Ask HN: I'm making like 0 friends at college, how to fix it? (2021)](https://news.ycombinator.com/item?id=28968506)
 - [Programmer's emotions (2021)](https://blog.sidebits.tech/programmers-emotions/) ([HN](https://news.ycombinator.com/item?id=29047689))
 - [Use forums rather than Slack/Discord to support developer community (2021)](https://www.mooreds.com/wordpress/archives/3451) ([HN](https://news.ycombinator.com/item?id=29154216)) ([Reddit](https://www.reddit.com/r/programming/comments/qpz8jz/you_should_use_forums_rather_than_slackdiscord_to/))
+- [How to work better async through using Loom (2021)](https://twitter.com/Jobvo/status/1456276277501906962)

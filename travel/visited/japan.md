@@ -55,3 +55,4 @@
 - [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/) ([HN](https://news.ycombinator.com/item?id=29022906))
 - [Why Tokyo Works (2021)](https://metropolisjapan.com/why-tokyo-works/) ([HN](https://news.ycombinator.com/item?id=29134481))
 - [Metropolis Japan](https://metropolisjapan.com/)
+- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) - Browser extension to translate Japanese by hovering over words.

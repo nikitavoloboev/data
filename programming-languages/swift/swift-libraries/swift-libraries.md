@@ -26,6 +26,7 @@
 
 ## iOS
 
+- [UIComponent](https://github.com/lkzhao/UIComponent) - Write UI in crazy speed, with great perf & no limitations.
 - [Permission](https://github.com/delba/Permission) - Exposes a unified API to request permissions on iOS.
 - [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Modal controller as in mail or Apple music application.
 - [SPPermission](https://github.com/IvanVorobei/SPPermission) - Simple request permission with native UI and interactive animation.
@@ -349,6 +350,8 @@
 - [DropView](https://github.com/sbertix/DropView) - SwiftUI-based library to display alerts inspired by the Apple Pencil and pasteboard stock ones.
 - [Observable](https://github.com/cookednick/Observable) - Property wrapper type that creates an ObservableObject for just a single property.
 - [APDynamicGrid](https://github.com/antoniopantaleo/APDynamicGrid) - SwiftUI Package for an easy grid management.
+- [Subsonic](https://github.com/twostraws/Subsonic) - Small library that makes it easier to play audio with SwiftUI.
+- [PageView](https://github.com/fredyshox/PageView) - SwiftUI view enabling page-based navigation.
 
 ## Test
 
@@ -385,6 +388,7 @@
 - [Dflat](https://github.com/liuliu/dflat) - Structured Data Store for Mobile. SQLite ❤️ FlatBuffers. ([HN](https://news.ycombinator.com/item?id=26687871))
 - [RediStack](https://github.com/Mordil/RediStack) - Non-blocking Swift client for Redis built on top of SwiftNIO.
 - [PersistDB](https://github.com/PersistX/PersistDB) - Projection-based Database Persistence in Swift.
+- [RSocket Swift](https://github.com/rsocket/rsocket-swift) - Client and Server implementation of the RSocket (Reactive Socket) network protocol on top of SwiftNIO.
 
 ## Graphics
 

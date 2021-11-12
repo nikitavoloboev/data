@@ -406,3 +406,6 @@
 - [PREVAIL](https://github.com/vbpf/ebpf-verifier) - Polynomial-Runtime EBPF Verifier using an Abstract Interpretation Layer.
 - [difuze](https://github.com/ucsb-seclab/difuze) - Fuzzer for Linux Kernel Drivers.
 - [Liblinux](https://github.com/matheusmoreira/liblinux) - C library that provides architecture-independent access to Linux system calls. ([HN](https://news.ycombinator.com/item?id=29158425))
+- [BPF Linker](https://github.com/aya-rs/bpf-linker) - Simple BPF static linker.
+- [NetNS Exec](https://github.com/johnae/netns-exec) - Simple command for executing a process within a Linux network namespace.
+- [Running a law firm on Linux (2021)](https://decoded.legal/blog/2021/11/running-a-law-firm-on-linux) ([HN](https://news.ycombinator.com/item?id=29199395))

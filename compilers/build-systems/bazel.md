@@ -33,3 +33,4 @@
 - [dbx_build_tools](https://github.com/dropbox/dbx_build_tools) - Dropbox's Bazel rules and tools.
 - [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [Bazel Buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Bazel remote caching and execution service.
+- [Example Bazel Monorepo](https://github.com/thundergolfer/example-bazel-monorepo) - Example Bazel-ified monorepo, supporting Golang, Java, Python, Scala, and Typescript.

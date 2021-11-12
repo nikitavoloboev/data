@@ -113,6 +113,8 @@
 - [joinery](https://github.com/cjsauer/joinery) - Library to enable traversal of in-memory graph-like data structures using Clojure(Script) map protocols.
 - [tools.namespace](https://github.com/clojure/tools.namespace) - Tools for managing namespaces in Clojure.
 - [svg-clj](https://github.com/adam-james-v/svg-clj) - DSL for compiling SVG elements with Clojure(script).
+- [task](https://github.com/ane/task) - Simple and functional concurrency primitives for Clojure.
+- [Vigil](https://github.com/ane/vigil) - Turn files into asynchronous streams.
 
 ## Links
 

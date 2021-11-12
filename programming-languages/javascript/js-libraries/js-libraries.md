@@ -689,3 +689,5 @@
 - [npq](https://github.com/lirantal/npq) - Safely\* install packages with npm/yarn by auditing them as part of your install process.
 - [njt](https://njt.vercel.app/) - Quick navigation tool for npm packages. ([Code](https://github.com/kachkaev/njt))
 - [fixpack](https://github.com/HenrikJoreteg/fixpack) - package.json file scrubber for the truly insane.
+- [tiny-module-compiler](https://github.com/little-core-labs/tiny-module-compiler) - Compile, archive, unpack, and load compiled modules leveraging v8 cached data.
+- [ims](https://github.com/mafintosh/ims) - Install My Stuff - an opinionated npm module installer.

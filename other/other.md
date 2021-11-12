@@ -551,3 +551,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome GraphViz](https://github.com/CodeFreezr/awesome-graphviz)
 - [\_why's Estate](https://viewsourcecode.org/why/) ([HN](https://news.ycombinator.com/item?id=29142915))
 - [Beyond Based And Cringe](https://donotresearch.net/posts/beyond-based-and-cringe)
+- [Equinor](https://www.equinor.com/) - Petroleum refining company. ([GitHub](https://github.com/equinor))

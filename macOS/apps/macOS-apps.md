@@ -113,6 +113,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Lantern](https://github.com/RoyalIcing/Lantern) - Mac app for website auditing and crawling. ([Web](https://icing.space/tools/lantern/))
 - [TrackerZapper](https://rknight.me/apps/tracker-zapper/) - Mac app that sits in your menubar and silently removes tracking parameters from any links you copy. ([Code](https://github.com/rknightuk/TrackerZapper))
 - [Zavala](https://github.com/vincode-io/Zavala) - Dedicated outliner for macOS, iPadOS, and iOS.
+- [Pareto Mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
 
 ## Other interesting apps
 
@@ -140,7 +141,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Application launcher for macOS. ([Assimilated Theme](https://github.com/benjaminwil/assimilated))
 - [Irradiated Software macOS apps](https://www.irradiatedsoftware.com/labs/)
 - [Freeze](https://freeze.app/) - Save your open windows and tabs for later.
-- [FastScripts](https://redsweater.com/fastscripts/) - Powerful script management utility.
+- [FastScripts](https://redsweater.com/fastscripts/) - Powerful script management utility. ([3.0 release](https://redsweater.com/blog/3784/fastscripts-3))
 - [LaunchControl](https://www.soma-zone.com/LaunchControl/) - Fully-featured launchd GUI allowing you to create, manage and debug system- and user services on your Mac.
 - [HextEdit](https://hextedit.app/) - Fast and native hex editor for macOS.
 - [Shortcat](https://shortcatapp.com/) - Keyboard productivity app for macOS.

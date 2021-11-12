@@ -80,3 +80,4 @@
 - [JSON-RPC server for Go](https://github.com/swaggest/jsonrpc/) ([Article](https://dev.to/vearutop/json-rpc-2-0-with-swagger-ui-2h3g))
 - [MistQL](https://github.com/evinism/mistql) - Miniature embeddable query language for JSON-like structures, built for embedding within applications. ([Web](https://www.mistql.com/))
 - [JSONiq](https://www.jsoniq.org/) - JSON Query Language. ([HN](https://news.ycombinator.com/item?id=29159343))
+- [EEL](https://github.com/Comcast/eel) - Simple proxy service to forward JSON events and transform or filter them along the way.

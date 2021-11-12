@@ -192,3 +192,4 @@
 - [The HTML video element needs to go back on the drawing board (2021)](https://www.ctrl.blog/entry/html-responsive-video.html) ([HN](https://news.ycombinator.com/item?id=29024868))
 - [Percollate](https://github.com/danburzo/percollate) - Command-line tool that turns web pages into beautifully formatted PDF, EPUB, or HTML files.
 - [In Defence Of Dialog (2021)](https://whistlr.info/2021/in-defence-of-dialog/)
+- [python](https://github.com/byteface/domonic) - Generate HTML with python 3.

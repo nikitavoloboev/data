@@ -50,3 +50,4 @@
 - [Pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone.
 - [A different and often better way to downsample your Prometheus metrics (2021)](https://blog.timescale.com/blog/a-different-and-often-better-way-to-downsample-your-prometheus-metrics/) ([HN](https://news.ycombinator.com/item?id=28957501))
 - [Writing a Prometheus exporter from IDE to deployed in 20 minutes (2021)](https://www.youtube.com/watch?v=2USCcDbbAZc)
+- [domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics.

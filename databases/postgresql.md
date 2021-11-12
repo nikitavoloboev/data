@@ -44,7 +44,7 @@
 - [PGLoader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command. ([HN](https://news.ycombinator.com/item?id=21628094)) ([Web](https://pgloader.io/))
 - [PgHero](https://github.com/ankane/pghero) - Performance dashboard for Postgres.
 - [pg-structure](https://github.com/ozum/pg-structure) - Get PostgreSQL database structure as a detailed JS Object.
-- [Odyssey](https://github.com/yandex/odyssey) - Advanced multi-threaded PostgreSQL connection pooler and request router.
+- [Odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL Connection Pooler. ([HN](https://news.ycombinator.com/item?id=29201000))
 - [PostgreSQL at low level: stay curious! (2019)](https://erthalion.info/2019/12/06/postgresql-stay-curious/)
 - [pgAudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension.
 - [Message DB: Event Store and Message Store for PostgreSQL (2019)](https://blog.eventide-project.org/articles/announcing-message-db/) ([HN](https://news.ycombinator.com/item?id=21810272)) ([Code](https://github.com/message-db/message-db))

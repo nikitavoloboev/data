@@ -85,7 +85,7 @@
 - [Jam Pony Delivery](https://www.jampony.delivery/) - Help Small Businesses Keep 100% of Their Revenue.
 - [Vendure](https://github.com/vendure-ecommerce/vendure) - Modern, headless GraphQL-based e-commerce framework built with TypeScript & NodeJS. ([Web](https://www.vendure.io/))
 - [Shopify CLI](https://github.com/Shopify/shopify-cli) - Helps you build Shopify themes and apps.
-- [Hydrogen](https://shopify.dev/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts. ([Code](https://github.com/Shopify/hydrogen)) ([Examples](https://github.com/Shopify/hydrogen-examples))
+- [Hydrogen](https://shopify.dev/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts. ([Code](https://github.com/Shopify/hydrogen)) ([Examples](https://github.com/Shopify/hydrogen-examples)) ([Video](https://www.youtube.com/watch?v=mAsM9c2sGjA))
 - [Tailwind Ecommerce CSS UI Components](https://tailwindui.com/ecommerce)
 - [Dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [Swipe E-Commerce](https://cogentgene1.gumroad.com/#oDkcG) - Increase conversions, average order value and customer lifetime value.
@@ -116,3 +116,4 @@
 - [Custom Cart With Shopify Storefront API (2021)](https://www.youtube.com/watch?v=FJOJmKFngLI&list=PLz8Iz-Fnk_eRnX8lBMTwpM4XDLFZHmtyq)
 - [next-shopify](https://github.com/basementstudio/next-shopify) - Context, a hook, and an API route handler, to manage a Shopify Storefront in your Next.js app.
 - [Kara's Coffee](https://karas-coffee.web.app/) - Demo ecommerce application showcasing Firebase Extensions and other Firebase products. ([Code](https://github.com/FirebaseExtended/karas-coffee))
+- [EasyPost](https://www.easypost.com/) - Simple Shipping API.

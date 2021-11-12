@@ -92,3 +92,4 @@
 - [esquisse](https://github.com/dreamRs/esquisse) - RStudio add-in to make plots interactively with ggplot2.
 - [GitHub Actions for the R language](https://github.com/r-lib/actions)
 - [Awesome R Data Viz](https://github.com/krzjoa/awesome-r-dataviz)
+- [datawizard](https://github.com/easystats/datawizard) - Lightweight package to easily manipulate, clean, transform, and prepare your data for analysis.

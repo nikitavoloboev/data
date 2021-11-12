@@ -9,6 +9,7 @@
 - [Console Newsletter](https://console.dev/) - Best tools for developers.
 - [Product Drops](https://productdrops.com/) - Discover slick products. Early. ([Twitter](https://twitter.com/productdrops)) ([Tweet](https://twitter.com/toddg777/status/1438164336883556352))
 - [Designer Favorites](https://www.designerfavorites.com/) - Weekly newsletter to learn from other designers and discover inspiration.
+- [Robin Sloan's Society of the Double Dagger](https://society.robinsloan.com/)
 
 ## Notes
 

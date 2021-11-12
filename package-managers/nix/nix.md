@@ -248,3 +248,6 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nixcrpkgs](https://github.com/pololu/nixcrpkgs) - Tools for cross-compiling standalone applications using Nix.
 - [Flake structure](https://github.com/freezeboy/flake-example)
 - [nix-patchtools](https://github.com/svanderburg/nix-patchtools) - Autopatching binary packages to make them work with Nix.
+- [A Critique of Nix Package Manager](https://www.iohannes.us/en/commentary/nix-critique/) ([Reddit](https://www.reddit.com/r/NixOS/comments/qs529l/a_critique_of_nix_package_manager/))
+- [rusty-nix](https://github.com/Kloenk/rusty-nix) - Nix written in rust.
+- [Some Nix questions (2021)](https://www.reddit.com/r/NixOS/comments/qsfkow/new_to_nix_some_questions/)

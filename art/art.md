@@ -39,6 +39,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
 - [Dmitry Markov](https://www.instagram.com/dcim.ru/)
 - [Sam Yang](https://www.instagram.com/samdoesarts/) ([YouTube](https://www.youtube.com/channel/UCNNOvB507MRfny7Jcv8MmOw))
+- [Jennifer Gennari](https://www.instagram.com/jen_art/) ([Web](https://www.jennifergennari.com/))
 
 ## Interesting artists
 

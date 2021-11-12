@@ -51,3 +51,5 @@
 - [Exposing NSMutableArray (2014)](https://ciechanow.ski/exposing-nsmutablearray/)
 - [Rubicon-ObjC](https://github.com/beeware/rubicon-objc) - Bridge between Objective-C and Python.
 - [Objective-C Cheat Sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
+- [Apple Runtime Headers](https://github.com/LeoNatan/Apple-Runtime-Headers) - Objective-C runtime headers for Apple's iOS, macOS, tvOS and watchOS frameworks.
+- [Twitter Network Layer (TNL)](https://github.com/twitter/ios-twitter-network-layer) - Framework for interfacing with the Apple provided NSURLSession stack that provides additional levels of control and insight over networking requests.

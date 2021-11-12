@@ -1,5 +1,9 @@
 # [Brain Computer Interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)
 
+## Notes
+
+- [Brain implant translates paralyzed man’s thoughts into text with 94% accuracy.](https://twitter.com/AlecStapp/status/1458831358453714955)
+
 ## Links
 
 - [Neuralink](https://neuralink.com/) - Developing ultra high bandwidth brain-machine interfaces to connect humans and computers.
@@ -40,5 +44,5 @@
 - [Bryan Johnson: Kernel Brain-Computer Interfaces (2021)](https://overcast.fm/+eZyCHNnz8)
 - [Kernel](https://www.kernel.com/) - Creates the interfaces and insights necessary to unlock the greatest scientific unknown: the inner workings of the human brain and mind.
 - [Low-cost brain computer interface for everyday use (2021)](https://www.researchgate.net/publication/354935534_Low-cost_brain_computer_interface_for_everyday_use) ([HN](https://news.ycombinator.com/item?id=28702983))
-- [Brain-Computer Interface, ADS1299 and STM32](https://github.com/Ildaron/ironbci)
+- [Ironbci: Open-Source Brain Computer Interface](https://github.com/Ildaron/ironbci) ([HN](https://news.ycombinator.com/item?id=29192073))
 - [Neuralink and the Brain's Magical Future (2017)](https://waitbutwhy.com/2017/04/neuralink.html)

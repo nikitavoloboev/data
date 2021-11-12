@@ -391,3 +391,9 @@
 - [PatrickStar](https://github.com/Tencent/PatrickStar) - Parallel Training of Large Language Models via a Chunk-based Memory Management.
 - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) (2021)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 - [Text2Art](https://github.com/mfrashad/text2art) - AI Powered Text-to-Art Generator.
+- [Emergent Communication of Generalizations (2021)](https://arxiv.org/abs/2106.02668) ([Code](https://github.com/jayelm/emergent-generalization))
+- [Awesome Pretrained Models for Information Retrieval](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
+- [SummerTime](https://github.com/Yale-LILY/SummerTime) - Text Summarization Toolkit for Non-experts.
+- [NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework (2021)](https://arxiv.org/abs/2111.04130) ([Code](https://github.com/yaoxingcheng/TLM))
+- [Differentially Private Fine-tuning of Language Models (2021)](https://arxiv.org/abs/2110.06500) ([Tweet](https://twitter.com/thegautamkamath/status/1450113340617940998))
+- [TaCL: Improving BERT Pre-training with Token-aware Contrastive Learning (2021)](https://arxiv.org/abs/2111.04198) ([Code](https://github.com/yxuansu/TaCL))

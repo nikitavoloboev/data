@@ -266,3 +266,4 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Lorde: Stoned at the Nail Salon](https://www.youtube.com/watch?v=ycH3P8EiVv0)
 - [Bon Iver - "Heavenly Father" (Acapella)](https://www.youtube.com/watch?v=vAoADCSpD-8)
 - [Keaton Henson - Impromptu On A Theme From Six Lethargies ft. Ren Ford | Mahogany Session](https://www.youtube.com/watch?v=d9nJ8o0AfbE)
+- [Наталия Власова - Я у Твоих Ног Live](https://www.youtube.com/watch?v=z9MLGk2yDYU)

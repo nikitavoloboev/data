@@ -115,6 +115,7 @@
 - [Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - Fully-featured DAW written in Rust. ([HN](https://news.ycombinator.com/item?id=29082142))
 - [Harmonicon](https://harmonicon.studio/) - Experimental DAW for music as code. ([Code](https://github.com/JamesRyanATX/Harmonicon))
 - [GridSound](https://gridsound.com/) - Open source online digital audio workstation following the new WebAudio API. ([Code](https://github.com/gridsound/daw))
+- [MidiTok](https://github.com/Natooz/MidiTok) - A convenient MIDI tokenizer for Deep Learning networks, with multiple encoding strategies.
 
 ## Inspiration
 
@@ -278,3 +279,4 @@
 - [Interactive music co-creation with PyTorch and TensorFlow.js](https://github.com/chrisdonahue/music-cocreation-tutorial)
 - [Scales, Chords, and Cadences: Practical Music Theory for MIR Researchers](https://github.com/jcdevaney/ISMIR-musicTheoryTutorial)
 - [Samplescope](https://samplescope.app/) - App to search audio samples over internet. ([Code](https://github.com/jamland/samplescope))
+- [Music Classification: Beyond Supervised Learning, Towards Real-world Applications](https://github.com/music-classification/tutorial)

@@ -128,3 +128,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Developer Challenges](https://contest.com/)
 - [TGNews](https://github.com/IlyaGusev/tgcontest) - Telegram Data Clustering contest solution by Mindful Squirrel.
 - [Telegram Ad Platform](https://promote.telegram.org/) ([HN](https://news.ycombinator.com/item?id=29146147))
+- [Pushshift Telegram Ingest API](https://github.com/pushshift/telegram) - Ingests data from numerous Telegram channels / groups and stores that data in Postgres and Elasticsearch.

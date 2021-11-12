@@ -32,3 +32,4 @@
 - [Podcast Transcript](https://www.getwelder.com/podcast-transcript) - Get your podcast transcription for free, in browser.
 - [Decentralized podcast platforms](https://twitter.com/cgcardona/status/1417848042665828363)
 - [What makes an interview podcast good or great? (2021)](https://marginalrevolution.com/marginalrevolution/2021/08/what-makes-a-podcast-good-or-great.html) ([HN](https://news.ycombinator.com/item?id=28059889))
+- [SquadCast](https://squadcast.fm/) - The Remote Recording Studio That Your Audience Will Love. ([Twitter](https://twitter.com/SquadCastFM))

@@ -499,3 +499,7 @@
 - [Sunstone](https://about.sunstone.dev/) - Deploy Kubernetes resources with ease.
 - [Kubernetes webhook certificate generator and patcher](https://github.com/jet/kube-webhook-certgen) - Tools to help with self signed cert generation for Kubernetes test environment.
 - [Watch and print changes in k8s](https://github.com/ibuildthecloud/wtfk8s)
+- [Argo CD Image Updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD.
+- [Clusternet](https://github.com/clusternet/clusternet) - Managing Your Clusters (including public, private, hybrid, edge, etc) as easily as Visiting the Internet.
+- [Build a Platform with KRM](https://github.com/askmeegs/build-a-platform-with-krm) - Build a platform with the Kubernetes resource model.
+- [Giant Swarm](https://www.giantswarm.io/) - Managed Kubernetes as a Service. ([GitHub](https://github.com/giantswarm))

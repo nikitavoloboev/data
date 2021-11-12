@@ -93,3 +93,7 @@
 - [Async Ruby (2021)](https://brunosutic.com/blog/async-ruby)
 - [Explaining Ruby Fibers (2021)](https://noteflakes.com/articles/2021-10-20-explaining-ruby-fibers) ([HN](https://news.ycombinator.com/item?id=29036818))
 - [Writing Go in Ruby with Ruby Next (2021)](https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next) ([HN](https://news.ycombinator.com/item?id=29170736))
+- [The Ruby Compiler Survey](https://ruby-compilers.com/)
+- [Programming with Something (2021)](https://tomstu.art/programming-with-something)
+- [The Ruby Compiler Survey - Rubinius](https://ruby-compilers.com/rubinius/) - Metacircular implementation of Ruby. ([HN](https://news.ycombinator.com/item?id=29178232))
+- [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html) ([HN](https://news.ycombinator.com/item?id=29199810))

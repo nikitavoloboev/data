@@ -64,3 +64,5 @@
 - [Luma AI](https://lumalabs.ai/) - Make 3D models as easy as waving a phone around. ([Twitter](https://twitter.com/LumaLabsAI)) ([Tweet](https://twitter.com/mikecurtis/status/1455222329533812741))
 - [SetPose](https://setpose.com/) - Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More.
 - [Fornjot](https://github.com/hannobraun/fornjot) - Experimental CAD system.
+- [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array) ([HN](https://news.ycombinator.com/item?id=29191918))
+- [replicad](https://github.com/sgenoud/replicad) - Library to build browser based 3D models with code.

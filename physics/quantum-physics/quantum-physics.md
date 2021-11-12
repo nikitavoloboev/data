@@ -84,4 +84,3 @@
 - [An ultra-precise clock shows how to link the quantum world with gravity (2021)](https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/) ([HN](https://news.ycombinator.com/item?id=28988350))
 - [Beyond Quantum Mechanics and Relativity (2021)](https://www.youtube.com/watch?v=Lk-8fF-eMow)
 - [Brian Greene: Quantum Gravity, The Big Bang, Aliens, Death, and Meaning (2021)](https://www.youtube.com/watch?v=98HZanvAJ8Y)
-- [This Problem Broke Math (and led to Quantum Physics) (2021)](https://www.youtube.com/watch?v=cUzklzVXJwo) ([Reddit](https://www.reddit.com/r/Physics/comments/qkf0mb/veritasium_history_of_cubics_this_problem_broke/))

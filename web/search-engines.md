@@ -14,6 +14,7 @@
 - [Hands on with: MeiliSearch - A next generation search engine for modern web (2020)](https://codefibershq.com/blog/hands-on-meilisearch-a-next-generation-search-engine-for-modern-web)
 - [The Joy of Search](https://mitpress.mit.edu/books/joy-search) - Google Insider's Guide to Going Beyond the Basics.
 - [searX](https://searx.me/) - Metasearch engine, aggregating the results of other search engines while not storing information about its users.
+- [Searx: moving away from DuckDuckGo (2021)](https://sagrista.info/blog/2021/searx-or-duckduckgo/) ([HN](https://news.ycombinator.com/item?id=29198575))
 - [DarkDarkGo](https://github.com/Bennington-Distributed-Systems-2017/DarkDarkGo) - Modeled Google and Bing to build a distributed search engine for the dark web.
 - [How is search so bad? A case study (2020)](https://svilentodorov.xyz/blog/bad-search/) ([HN](https://news.ycombinator.com/item?id=22091944))
 - [Lobsters: How would one build a search engine today? (2020)](https://lobste.rs/s/n8g3sj/how_would_one_build_search_engine_today)
@@ -176,4 +177,4 @@
 - [We need more boutique search engines (2021)](https://sariazout.mirror.xyz/7gSSTJ96SEyvXeljymglO3zN4H6DCgVnrNZq8_2NX1A) ([HN](https://news.ycombinator.com/item?id=29130017))
 - [liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser and search engine.
 - [Zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
-- [How Not To Sort By Average Rating (2009)](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+- [How Not To Sort By Average Rating (2009)](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html) ([HN](https://news.ycombinator.com/item?id=29200103))

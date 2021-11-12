@@ -130,9 +130,12 @@
 - [GitHub Sponsors Readme Action](https://github.com/JamesIves/github-sponsors-readme-action) - Automatically add your GitHub Sponsors to your README.
 - [Pulumi GitHub Actions](https://github.com/pulumi/actions) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub.
 - [Import Codesign Certs](https://github.com/Apple-Actions/import-codesign-certs) - GitHub Action for Importing Code-signing Certificates into a Keychain.
+- [Maximize available disk space for build tasks](https://github.com/easimon/maximize-build-space) - Github action to maximize the available disk space on Github runners.
+- [install-binary-action](https://github.com/giantswarm/install-binary-action) - GitHub action installing a binary from a tarball behind URL.
 
 ## Go
 
+- [staticcheck-action](https://github.com/dominikh/staticcheck-action) - Runs Staticcheck to find bugs and other problems in your Go code.
 - [gobenchdata](https://github.com/bobheadxi/gobenchdata) - Tool for inspecting go test -bench data, and a GitHub Action for continuous benchmarking.
 - [golangci-lint](https://github.com/golangci/golangci-lint-action) - Runs golangci-lint and reports issues from linters.
 - [action-update-go](https://github.com/thepwagner/action-update-go) - GitHub Action to open PRs proposing dependency updates.
@@ -203,6 +206,10 @@
 
 - [Haskell Github Actions](https://github.com/haskell/actions) - Github actions for Haskell CI.
 - [hackage-publish](https://github.com/haskell-actions/hackage-publish) - GitHub action for publishing packages and documentation to Hackage.
+
+## LLVM
+
+- [install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - GitHub Action for downloading and installing LLVM and Clang binaries.
 
 ## Elixir
 
@@ -315,3 +322,4 @@
 - [auto-doc](https://github.com/tj-actions/auto-doc) - Auto generate documentation from actions.yml.
 - [go-actions-cache](https://github.com/tonistiigi/go-actions-cache)
 - [GitHub Actions Cheat Sheet](https://github.github.io/actions-cheat-sheet/actions-cheat-sheet.pdf) ([Code](https://github.com/github/actions-cheat-sheet))
+- [Local self-hosted runners](https://github.com/martinwoodward/pideploy) - Shows using local self-hosted runners on-premises by making use of a runner on a Raspberry Pi with LED's attached to it.

@@ -73,7 +73,7 @@
 - [Tufts Uni: Levin Biology Lab](https://ase.tufts.edu/biology/labs/levin/Default.htm) - Investigating information storage and processing in biological systems.
 - [Nextflow](https://github.com/nextflow-io/nextflow) - Bioinformatics workflow manager that enables the development of portable and reproducible workflows. ([Web](https://nf-co.re/)) ([GitHub](https://github.com/nf-core))
 - [Quantum deep field for molecule](https://github.com/masashitsubaki/QuantumDeepField_molecule)
-- [AlQuraishi Lab at Columbia University](https://www.aqlab.io/) - Machine Learning, Molecules, Systems Biology research.
+- [AlQuraishi Lab at Columbia University](https://www.aqlab.io/) - Machine Learning, Molecules, Systems Biology research. ([GitHub](https://github.com/aqlaboratory))
 - [AlphaFold: a solution to a 50-year-old grand challenge in biology, protein folding (2020)](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology) ([HN](https://news.ycombinator.com/item?id=25253488)) ([Explained](https://twitter.com/AdamRutherford/status/1333449928316743683)) ([Lex explains](https://www.youtube.com/watch?v=W7wJDJ56c88))
 - [AlphaFold2 @ CASP14: “It feels like one’s child has left home.” (2020)](https://moalquraishi.wordpress.com/2020/12/08/alphafold2-casp14-it-feels-like-ones-child-has-left-home/) ([Tweet](https://twitter.com/MoAlQuraishi/status/1336351187369603088)) ([HN](https://news.ycombinator.com/item?id=25396736))
 - [Alphafold2 in PyTorch](https://github.com/lucidrains/alphafold2)
@@ -174,3 +174,5 @@
 - [SeqFu](https://github.com/telatin/seqfu2) - General-purpose program to manipulate and parse information from FASTA/FASTQ files, supporting gzipped input files.
 - [Bioinformatics algorithms covered in Cambridge Uni Bio Course](https://github.com/A-F-V/Bioinformatics)
 - [block aligner](https://github.com/Daniel-Liu-c0deb0t/block-aligner) - SIMD-accelerated library for computing global and X-drop affine gap sequence alignments using an adaptive block-based algorithm.
+- [OpenFold](https://github.com/aqlaboratory/openfold) - Trainable & open-source PyTorch reproduction of AlphaFold 2.
+- [HSM (Hierarchical Statistical Mechanical model)](https://github.com/aqlaboratory/hsm) - Biophysical prediction of protein-peptide interactions and signaling networks using machine learning. ([Web](https://proteinpeptide.io/))

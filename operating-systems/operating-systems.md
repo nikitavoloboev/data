@@ -11,7 +11,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Plan 9](https://9p.io/plan9/) ([Plan 9 C Compiler for RISC-V](https://www.youtube.com/watch?v=LHJqdXGb0uc))
 - [Fuchsia](fuchsia-os.md)
 - [DahliaOS](https://dahliaos.io/) - Modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS. ([GitHub](https://github.com/dahlia-os)) ([HN](https://news.ycombinator.com/item?id=24976732)) ([Pangolin Desktop UI](https://github.com/dahlia-os/pangolin-desktop)) ([ISO releases](https://github.com/dahliaOS/releases))
-- [Redox](https://github.com/redox-os/redox) - Unix-like Operating System written in Rust. ([Web](https://www.redox-os.org/))
+- [Redox](https://github.com/redox-os/redox) - Unix-like Operating System written in Rust. ([Web](https://www.redox-os.org/)) ([Kernel Code](https://github.com/redox-os/kernel))
 - [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
 - [OS67](https://github.com/SilverRainZ/OS67) - Unix-like toy kernel.
 - [SerenityOS](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers. ([Web](http://serenityos.org/)) ([Year 3 in review](https://serenityos.org/happy/3rd/)) ([HN](https://news.ycombinator.com/item?id=28817599))
@@ -119,6 +119,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [liumOS](https://github.com/hikalium/liumos) - Toy operating system which supports NVDIMM natively.
 - [Tofita](https://github.com/GreenteaOS/Tofita) - All-new kernel for the Greentea OS.
 - [RISC-V OS in Rust](https://github.com/sgmarz/osblog)
+- [RedLeaf](https://github.com/mars-research/redleaf) - Research operating system developed from scratch in Rust to explore the impact of language safety on operating system organization.
+- [Kwast](https://github.com/kwast-os/kwast) - Rust operating system running WebAssembly as userspace in ring 0.
 
 ## Notes
 
@@ -279,3 +281,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [OS synchronization techniques resources (2021)](https://twitter.com/johnregehr/status/1451355617583460355)
 - [Signals and Threads | What is an Operating System? (2021)](https://signalsandthreads.com/what-is-an-operating-system/)
 - [A fork() in the road (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
+- [Make It Go Faster! How We Sped Up OS Provisioning On Bare Metal at Scale (2021)](https://metal.equinix.com/blog/make-it-go-faster-how-we-sped-up-os-provisioning-on-bare-metal-at-scale/)

@@ -167,3 +167,5 @@
 - [How do I customize the NavigationView in SwiftUI? (2021)](https://www.bigmountainstudio.com/community/public/posts/80041-how-do-i-customize-the-navigationview-in-swiftui)
 - [SwiftUI under the Hood: Fonts - Moving parts (2021)](https://movingparts.io/fonts-in-swiftui)
 - [Awaiting WebSockets in SwiftUI (2021)](https://obscuredpixels.com/awaiting-websockets-in-swiftui)
+- [The Easiest way to use Firestore in SwiftUI | FirestoreQuery (2021)](https://www.youtube.com/watch?v=TogxXiDmyss)
+- [Displaying badges in SwiftUI (2021)](https://swiftwithmajid.com/2021/11/10/displaying-badges-in-swiftui/)

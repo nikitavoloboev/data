@@ -219,3 +219,5 @@
 - [Privacy Lint](https://github.com/facebookresearch/privacy_lint) - Library that allows you to perform a privacy analysis (Membership Inference) of your model in PyTorch.
 - [NVIDIA Object Detection Toolkit (ODTK)](https://github.com/NVIDIA/retinanet-examples) - Fast and accurate single stage object detection with end-to-end GPU optimization.
 - [DeAI](https://github.com/epfml/DeAI) - Decentralized privacy-preserving ML training software framework, using p2p networking.
+- [Varuna](https://github.com/microsoft/varuna) - Tool for efficient training of large DNN models on commodity GPUs and networking.
+- [reXmeX](https://github.com/AstraZeneca/rexmex) - General purpose recommender metrics library for fair evaluation.

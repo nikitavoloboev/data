@@ -176,6 +176,7 @@
 - [hyppo](https://github.com/neurodata/hyppo) - Python package for multivariate hypothesis testing.
 - [pytest-instafail](https://github.com/pytest-dev/pytest-instafail) - Plugin for pytest that shows failures and errors instantly instead of waiting until the end of test session.
 - [pytest-mock](https://github.com/pytest-dev/pytest-mock) - Thin-wrapper around the mock package for easier use with pytest.
+- [Responses](https://github.com/getsentry/responses) - Utility for mocking out the Python Requests library.
 
 ## Other
 
@@ -546,6 +547,13 @@
 - [ahocorasick_rs](https://github.com/G-Research/ahocorasick_rs) - Check for multiple patterns in a single string at the same time: a fast Aho-Corasick algorithm for Python.
 - [Eliot](https://github.com/itamarst/eliot) - Logging that tells you why it happened.
 - [Crochet](https://github.com/itamarst/crochet) - Use Twisted anywhere.
+- [pytimeparse](https://github.com/wroberts/pytimeparse) - Small Python module to parse various kinds of time expressions.
+- [pandas-selectable](https://github.com/jseabold/pandas-selectable) - Adds a select accessor to pandas DataFrames and Series.
+- [TheFuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python.
+- [portion](https://github.com/AlexandreDecan/portion) - Python library providing data structure and operations for intervals.
+- [TextDescriptives](https://github.com/HLasse/TextDescriptives) - Python library for calculating a large variety of statistics from text.
+- [ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces.
+- [Rusty results](https://github.com/danielsanchezq/rusty_results) - Rust-inspired Option and Result types. Pattern matching ready.
 
 ## Links
 

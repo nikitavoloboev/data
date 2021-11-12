@@ -56,3 +56,4 @@
 - [Tanker](https://tanker.io/) - End-to-end encryption as a service. ([GitHub](https://github.com/TankerHQ))
 - [Electronic Health Certificates Spec](https://github.com/ehn-dcc-development/hcert-spec) - Proposal for encoding and signing the Electronic Health Certificate (HCERT).
 - [Authenticated Cipher MORUS (2016)](https://competitions.cr.yp.to/round3/morusv2.pdf) - Fast authenticated cipher for platforms without hardware AES acceleration. ([Zig Code](https://github.com/jedisct1/zig-morus))
+- [goRecrypt](https://github.com/SherLzp/goRecrypt) - Proxy Re-Encryption go implementation.

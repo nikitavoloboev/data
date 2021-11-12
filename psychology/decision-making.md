@@ -5,6 +5,7 @@ Like using [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 ## Notes
 
 - [Obama used 'decision memos' with choices of: 1. agree. 2. disagree 3. let's discuss](https://twitter.com/Conaw/status/1399850705435955200)
+- [Never judge a decision just by its outcome as there are many unknowns.](https://twitter.com/rob_england/status/1458386368829161472)
 
 ## Links
 

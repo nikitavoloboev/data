@@ -25,3 +25,4 @@
 - [SQLDataSource](https://github.com/cvburgess/SQLDataSource) - SQL DataSource for Apollo GraphQL projects.
 - [Apollo Router](https://github.com/apollographql/router) - Configurable, high-performance graph router for a federated graph. ([Article](https://www.apollographql.com/blog/announcement/backend/apollo-router-our-graphql-federation-runtime-in-rust/))
 - [Laika](https://github.com/zendesk/laika) - Log, test, intercept and modify Apollo Client's operations. ([Web](https://zendesk.github.io/laika/))
+- [Learn GraphQL with Apollo](https://odyssey.apollographql.com/) - Level up with these practical, hands-on trainings.

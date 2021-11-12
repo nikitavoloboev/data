@@ -21,6 +21,7 @@
 
 - [TS auto mock](https://github.com/Typescript-TDD/ts-auto-mock) - Typescript transformer to unlock automatic mock creation for interfaces and classes.
 - [intermock](https://github.com/google/intermock) - Mocking library to create mock objects and JSON for TypeScript interfaces via Faker.
+- [Typical Data](https://github.com/davidtkramer/typical-data) - Test data factory written in TypeScript.
 
 ## Auth
 
@@ -186,6 +187,10 @@
 - [Typed-Emitter](https://github.com/andywer/typed-emitter) - Strictly typed event emitter interface for TypeScript.
 - [parser-ts](https://github.com/gcanti/parser-ts) - String parser combinators for TypeScript.
 - [koan-chunked](https://github.com/koaninc/koan-chunked) - Helper functions to create and apply chunks.
+- [XActor](https://github.com/statelyai/xactor) - Actor model implementation for JavaScript and TypeScript, heavily inspired by Akka.
+- [typescript-monads](https://github.com/patrickmichalina/typescript-monads) - Write safer TypeScript using Maybe, List, Result, and Either monads.
+- [Splide](https://github.com/Splidejs/splide) - Lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
+- [Decoders](https://github.com/nvie/decoders) - Elegant and battle-tested validation library for type-safe input data for TypeScript.
 
 ## Links
 
@@ -208,3 +213,5 @@
 - [TSDX Monorepo Example/Playground](https://github.com/jaredpalmer/tsdx-monorepo)
 - [npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages.
 - [ts2ocaml](https://github.com/ocsigen/ts2ocaml) - Generate OCaml bindings from TypeScript definitions via the TypeScript compiler API.
+- [Tangerine monorepo](https://github.com/mmazzarolo/tangerine-monorepo) - Fast TypeScript-based Node.js monorepo setup powered by esbuild.
+- [What would you use to publish/build a TypeScript package (i.e. publish on npm) today? (2021)](https://twitter.com/jsjoeio/status/1458807179708796931)

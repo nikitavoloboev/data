@@ -83,3 +83,4 @@
 - [Discord Bot built with Fastify Tutorial](https://github.com/Eomm/fastify-discord-bot-demo)
 - [Fosscord Server](https://github.com/fosscord/fosscord-server) - Free and open source software compatible with Discord. It's a chat, voice and video platform similar to Slack and Rocket.chat. ([Web](https://fosscord.com/))
 - [Against Discord Channels](https://becca.ooo/discord) ([HN](https://news.ycombinator.com/item?id=29128361))
+- [Discord: Imagine a Place (2021)](https://www.notboring.co/p/discord-imagine-a-place)

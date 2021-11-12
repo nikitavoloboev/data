@@ -14,3 +14,4 @@
 - [Images show how muscles heal themselves after a workout](https://www.livescience.com/muscle-repair-by-roaming-nuclei)
 - [My indoor rowing tips after 15M meters (2021)](https://onlyrss.org/posts/my-rowing-tips-after-15-million-meters.html) ([HN](https://news.ycombinator.com/item?id=28911503))
 - [How do you exercise? (2021)](https://www.reddit.com/r/slatestarcodex/comments/qpb408/how_do_you_exercise/)
+- [DAREBEE 1700+ Workouts](https://darebee.com/workouts) - 1700+ 1-sheet workouts on a clean, no-nonsense website. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/qr4z4o/1700_1sheet_workouts_on_a_clean_nononsense_website/))

@@ -414,3 +414,6 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [OpenMemex](https://github.com/austinvhuang/openmemex) - Open source, local-first knowledge platform.
 - [mdzk](https://github.com/mdzk-rs/mdzk) - Plain text Zettelkasten system that is based on the mdBook API.
 - [Good examples of wikis with custom software (2021)](https://twitter.com/LauraDeming/status/1457101797076586496?s=20)
+- [Quartz](https://github.com/jackyzha0/quartz) - Host your own second brain and digital garden for free.
+- [How to build a second brain as a software developer (2021)](https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/) ([HN](https://news.ycombinator.com/item?id=29188418))
+- [ff](https://github.com/ff-notes/ff) - Distributed note taker and task manager.

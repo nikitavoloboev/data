@@ -243,3 +243,4 @@
 - [Dangerous Logging in Swift (2021)](https://indiestack.com/2021/10/dangerous-logging-in-swift/) ([HN](https://news.ycombinator.com/item?id=29051720))
 - [Async await in Swift explained with code examples (2021)](https://www.avanderlee.com/swift/async-await/)
 - [Property Wrappers in Swift explained with code examples (2021)](https://www.avanderlee.com/swift/property-wrappers/)
+- [How to use CGO to call Swift code from Go](https://github.com/smasher164/swift-cgo-example)

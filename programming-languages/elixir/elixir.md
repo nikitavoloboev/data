@@ -17,7 +17,7 @@
 - [Elixir Forum](https://elixirforum.com/)
 - [An Interview with Jose Valim, Creator of Elixir (2019)](https://www.welcometothejungle.co/en/articles/btc-elixir-jose-valim) ([HN](https://news.ycombinator.com/item?id=21280092))
 - [GOTO 2019 • The Soul of Erlang and Elixir • Saša Jurić](https://www.youtube.com/watch?v=JvBT4XBdoUE)
-- [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition?a_aid=sjuric) ([Code](https://github.com/sasa1977/elixir-in-action))
+- [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) ([Code](https://github.com/sasa1977/elixir-in-action))
 - [Elixir Companies](https://github.com/beam-community/elixir-companies) - List of companies currently using Elixir in production.
 - [Thinking Elixir](https://thinkingelixir.com/)
 - [Elixir in VS Code](https://thinkingelixir.com/elixir-in-vs-code/) ([Reddit](https://www.reddit.com/r/elixir/comments/dq3k7v/elixir_in_vs_code_extensions_and_recommendations/))

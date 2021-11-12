@@ -155,3 +155,4 @@
 - [Strange Loop 2021 - YouTube](https://www.youtube.com/playlist?list=PLcGKfGEEONaBjSfQaSiU9yQsjPxxDQyV8)
 - [MPhil in Advanced Computer Science | Cambridge Uni](https://www.cst.cam.ac.uk/admissions/acs)
 - [Domain Theory (1994)](https://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf)
+- [ETH Zurich Computer Science Cheat Sheets](https://github.com/flavioschneider/ethzcheatsheets)

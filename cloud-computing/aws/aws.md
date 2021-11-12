@@ -241,3 +241,6 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Exposable Resources](https://github.com/SummitRoute/aws_exposable_resources) - Resource types that can be publicly exposed on AWS.
 - [CDK-Dia](https://github.com/pistazie/cdk-dia) - Automated diagrams for CDK infrastructure.
 - [ECS Best Practices](https://gist.github.com/ejlp12/94dd91596680fe5a0efa8153927e1922)
+- [Amazon EKS Workshop](https://www.eksworkshop.com/) ([Code](https://github.com/aws-samples/eks-workshop))
+- [The CDK Book](https://thecdkbook.com/) - Comprehensive Guide to the AWS Cloud Development Kit.
+- [Querying AWS at scale across APIs, regions, and accounts (2021)](https://aws.amazon.com/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/) ([HN](https://news.ycombinator.com/item?id=29191428))

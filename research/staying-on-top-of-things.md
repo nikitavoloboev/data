@@ -154,6 +154,7 @@ And these Discord servers:
 - [Interesting Engineering](https://interestingengineering.com/)
 - [Eye on Design](https://eyeondesign.aiga.org/)
 - [Current Affairs](https://www.currentaffairs.org/)
+- [ScienceAlert](https://www.sciencealert.com/) - The Best in Science News and Amazing Breakthroughs.
 
 ### Other
 

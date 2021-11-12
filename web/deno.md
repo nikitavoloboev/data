@@ -143,3 +143,4 @@
 - [Deno Deploy Beta 3 (2021)](https://deno.com/blog/deploy-beta3/) ([HN](https://news.ycombinator.com/item?id=29032816))
 - [Denoflare](https://denoflare.dev/) - Develop, test, and deploy Cloudflare Workers with Deno. ([Code](https://github.com/skymethod/denoflare)) ([HN](https://news.ycombinator.com/item?id=29142772))
 - [crux.land](https://crux.land/) - Free open-source registry for permanently hosting small scripts. ([Code](https://github.com/denosaurs/crux.land))
+- [deno2node](https://github.com/wojpawlik/deno2node) - Transpiles Deno projects into .js and .d.ts for Node.js.

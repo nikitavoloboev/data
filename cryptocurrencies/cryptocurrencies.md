@@ -1,8 +1,8 @@
 # Cryptocurrencies
 
-I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md)/[AVAX](https://www.avax.network/)/[Dfinity](https://dfinity.org/) are great distributed consensus systems for transacting assets and running code ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins ([Monero](monero.md)) to be most interesting use cases of crypto right now.
+I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md)/[AVAX](https://www.avax.network/)/[Dfinity](https://dfinity.org/) are great distributed consensus systems for transacting assets and running code ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins/contracts ([Monero](monero.md)/[SRCT](https://scrt.network/)) to be most interesting use cases of crypto right now.
 
-It's annoying that a lot of [people/projects use these distributed ledgers as ponzi schemes](https://twitter.com/eddyb_r/status/1451679543702478860) or still use super wasteful consensus system ([Bitcoin](bitcoin.md)).
+It's unfortunate that a lot of [people/projects use these distributed ledgers as ponzi schemes](https://twitter.com/eddyb_r/status/1451679543702478860) or still use [super wasteful consensus systems](https://twitter.com/smdiehl/status/1350869944888664064) (like [Bitcoin](bitcoin.md)).
 
 I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchange that lets me trade between FIAT/crypto.
 
@@ -48,7 +48,6 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Hard Problems in Cryptocurrency: Five Years Later (2019)](https://vitalik.ca/general/2019/11/22/progress.html) ([HN](https://news.ycombinator.com/item?id=21618079))
 - [Freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot.
 - [Kong](https://kong.cash/) - Physical crypto cash. ([Twitter](https://twitter.com/kongiscash))
-- [Binance](https://www.binance.com/en) - Trade Bitcoin, BNB, and hundreds of other cryptocurrencies in minutes.
 - [Awesome Cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics)
 - [Coinbase](https://www.coinbase.com/) - Digital currency exchange. ([GitHub](https://github.com/coinbase))
 - [CoinTracker](https://www.cointracker.io/) - Bitcoin Taxes, Crypto Portfolio & Prices.
@@ -172,3 +171,8 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Capital.com](https://capital.com/) - Online Trading with Smart Investment App.
 - [THORChain](https://thorchain.org/) - Decentralized Liquidity Network.
 - [FTX Rust API](https://github.com/fabianboesiger/ftx) - Unofficial Rust API bindings for the FTX exchange.
+- [How an era of financial precarity set the stage for crypto (2021)](https://www.motherjones.com/politics/2021/11/who-goes-crypto-eth-bitcoin-etc-financialization-gamestop-class-wealth/) ([Tweet](https://twitter.com/smdiehl/status/1458841954066714629))
+- [ZUBR Exchange](https://zubr.io/) - Trade Crypto Perpetuals. Lowest 0.01% Commission and Great Tech. ([GitHub](https://github.com/zubr-exchange))
+- [XCAD Network](https://xcadnetwork.com/) - Global platform harnessing the power and value of Content Creator audiences via Creator tokenization.
+- [What CryptoCurrencies have you personally found legitimate use cases for? (2021)](https://www.reddit.com/r/CryptoCurrency/comments/qrwwpw/what_cryptocurrencies_have_you_personally_found/)
+- [Tokemak](https://www.tokemak.xyz/) - Utility for Sustainable DeFi Liquidity. ([Twitter](https://twitter.com/tokenreactor)) ([Article](https://medium.com/tokemak/introducing-tokemak-the-utility-for-sustainable-liquidity-8b99a4757301))

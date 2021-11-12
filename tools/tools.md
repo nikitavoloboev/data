@@ -222,6 +222,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Appstitch](https://appstitch.dev/) - Low-code alternative for Stripe/Twilio Integrations. ([HN](https://news.ycombinator.com/item?id=25821898))
 - [Kosmik](https://lithium.paris/) - Your all-in-one creative space.
 - [PlantText UML Editor](https://www.planttext.com/)
+- [Twist](https://twist.com/) - Async messaging for the flexible future of work. ([Twitter](https://twitter.com/TwistWork)) ([Tweet](https://twitter.com/bkaneMN/status/1458843005843124228))
 - [Orbit](https://github.com/gulien/orbit) - Cross-platform task runner for executing commands and generating files from templates.
 - [Paysly](https://paysly.io/) - Verifiable Payments in a single API call.
 - [Gaupol](https://otsaloma.io/gaupol/) - Editor for text-based subtitles. ([Code](https://github.com/otsaloma/gaupol))
@@ -238,6 +239,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Shove](https://github.com/pennersr/shove) - Asynchronous & persistent push notification service.
 - [Athens](https://github.com/athensresearch/athens) - Open-Source Roam Research. ([HN](https://news.ycombinator.com/item?id=26316793)) ([Web](https://athensresearch.github.io/athens/))
 - [RustDesk](https://rustdesk.com/) - Best open source remote desktop software. ([Code](https://github.com/rustdesk/rustdesk))
+- [Hightouch](https://www.hightouch.io/) - Sync your customer data to business tools. ([HN](https://news.ycombinator.com/item?id=29188544))
 - [Spore](https://spore.build/) - Free, all-in-one tool for creators to build websites to truly own, grow, & monetize their relationship with fans. ([Tweet](https://twitter.com/JoshConstine/status/1408116841554219011))
 - [Gotenberg](https://gotenberg.dev/) - Docker-powered stateless API for PDF files. ([Code](https://github.com/gotenberg/gotenberg))
 - [Macrov](https://www.usemacro.com/) - Checklists, reimagined - supercharge your team’s processes.
@@ -604,3 +606,5 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [No-Code Fundamentals Course](https://www.makerpad.co/cohort-courses/no-code-fundamentals)
 - [Ask HN: Which NoCode platforms are fine? (2021)](https://news.ycombinator.com/item?id=28984955)
 - [Creator Stash](https://stash.thesocio.club/) - Library of tools for creators to create, grow, manage and monetize.
+- [Dev Resources](https://devresourc.es/) - Collaborative list of resources for developers. ([Code](https://github.com/marcelscruz/dev-resources))
+- [Ask HN: What do you think about the no-code movement? (2021)](https://news.ycombinator.com/item?id=29188355)

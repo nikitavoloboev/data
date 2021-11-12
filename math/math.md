@@ -313,3 +313,4 @@
 - [How to learn mathematics: the asterisk method](http://www.geometry.org/tex/conc/mathlearn.html) ([HN](https://news.ycombinator.com/item?id=28953781))
 - [Measuring Mathematical Problem Solving With the MATH Dataset (2021)](https://arxiv.org/abs/2103.03874) ([Code](https://github.com/hendrycks/math))
 - [SoME1 results (2021)](https://www.3blue1brown.com/blog/some1-results) ([HN](https://news.ycombinator.com/item?id=29063617))
+- [3Blue1Brown - Puzzling through exact sequences (2021)](https://www.3blue1brown.com/blog/exact-sequence-picturebook) ([Tweet](https://twitter.com/3blue1brown/status/1458925301572857865))

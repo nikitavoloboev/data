@@ -1,5 +1,7 @@
 # [Webpack](https://webpack.js.org/)
 
+[swc](https://github.com/swc-project/swc)/[esbuild](https://github.com/evanw/esbuild)/[vite](https://vitejs.dev/) are faster alternatives.
+
 ## Plugins
 
 - [Webpack Summary](https://github.com/fabiospampinato/webpack-summary) - Webpack plugin for displaying a short summary at the end of the build process.

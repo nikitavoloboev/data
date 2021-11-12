@@ -4,6 +4,10 @@
 
 - [Netflix Clone](https://github.com/calebnance/expo-netflix) - Expo / react native || web support.
 
+## Notes
+
+- [‘expo init’ is the blanket solution to most config issues](https://twitter.com/FernandoTheRojo/status/1455397012841631744)
+
 ## Links
 
 - [Build it Once with Expo for Web - Evan Bacon (2019)](https://www.youtube.com/watch?v=ykBxY01j_rA)
@@ -17,3 +21,4 @@
 - [expo.fyi](https://github.com/expo/fyi) - Information that you may find useful when interacting with Expo tools and service.
 - [Expo + Next.js Router + React Navigation](https://github.com/nandorojo/expo-next-react-navigation) - Set of hooks that wrap the react-navigation API that you're used to, and make it work with next/router.
 - [How to create an Expo app with serverless (2021)](https://serverless-stack.com/examples/how-to-create-an-expo-app-with-serverless.html)
+- [Introducing Expo Application Services (EAS)](https://blog.expo.dev/introducing-eas-395d4809cc6f) - Fastest way to get your Expo app from development to the app stores. ([Tweet](https://twitter.com/JI/status/1458600696752717826)) ([Tweet](https://twitter.com/baconbrix/status/1458600548152721409?s=28))

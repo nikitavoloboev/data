@@ -80,3 +80,4 @@
 - [Designing better file organization around tags, not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies) ([HN](https://news.ycombinator.com/item?id=29141800))
 - [We saved millions in SSD costs by upgrading our filesystem (2021)](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem) ([HN](https://news.ycombinator.com/item?id=29164727))
 - [edwork](https://github.com/eduardsui/edwork) - Decentralized, distributed read-write filesystem.
+- [I'm “still afraid to use spaces in file names” years old](https://twitter.com/TheIdOfAlan/status/1458117496087748618) ([HN](https://news.ycombinator.com/item?id=29186222))

@@ -90,3 +90,4 @@
 - [The Coronavirus Is Here Forever (2021)](https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/) ([HN](https://news.ycombinator.com/item?id=28274819))
 - [Documents confirming China's role in COVID release (2021)](https://twitter.com/zeynep/status/1441785603100606481)
 - [SARS-CoV-2 variant A.30 is heavily mutated and evades vaccine-induced antibodies (2021)](https://www.nature.com/articles/s41423-021-00779-5) ([HN](https://news.ycombinator.com/item?id=29004006))
+- [How highly effective mRNA vaccines work (nice visual) (2021)](https://twitter.com/SamIAm2021MD/status/1459051952831189013)

@@ -265,3 +265,7 @@
 - [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/) ([Reddit](https://www.reddit.com/r/rust/comments/qlycje/move_semantics_c_vs_rust/))
 - [celtera](https://celtera.dev/) - Boutique c++ consulting. ([GitHub](https://github.com/celtera))
 - [C++ Tip of The Week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week)
+- [Embracing Modern C++ Safely Book (2021)](https://www.informit.com/store/embracing-modern-c-plus-plus-safely-9780137380350) ([Tweet](https://twitter.com/supahvee1234/status/1458808300569567236))
+- [{fmt} Formatting & Printing C++ Library Cheat Sheet](https://hackingcpp.com/cpp/libs/fmt.html) ([Tweet](https://twitter.com/hackingcpp/status/1458904364362485769))
+- [Hacking C++](https://hackingcpp.com/index.html) - Learn Contemporary C++ // code examples, concise explanations and infographics. ([Twitter](https://twitter.com/hackingcpp))
+- [Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming Book (2021)](https://link.springer.com/book/10.1007/978-3-662-62996-3) ([Code](https://github.com/ckormanyos/real-time-cpp))

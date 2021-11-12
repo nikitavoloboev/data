@@ -1,6 +1,8 @@
 # [Ethereum](https://www.ethereum.org)
 
-Ethereum is a virtual machine built on top of the blockchain that lets you create and run smart contracts that then run on the blockchain. Unfortunately it has [too high fees](https://twitter.com/austerity_sucks/status/1457064593591840773) compared to [any other proper PoS chain](https://twitter.com/immaterial_ink/status/1457453404087857162).
+Ethereum is a virtual machine built using a blockchain (spread around many clients) that lets you create and run smart contracts (arbitrary code) that then run in perpetuity.
+
+It is quite useless however due to it having [too high fees](https://twitter.com/austerity_sucks/status/1457064593591840773) compared to [any other proper PoS chain](https://twitter.com/immaterial_ink/status/1457453404087857162). [Solidity](https://soliditylang.org) is nice prototype language which you can use with [Solang](https://solang.readthedocs.io/en/latest/) & compile it to [more efficient chains](https://twitter.com/deepfates/status/1458937791430098947).
 
 ## Notes
 
@@ -351,3 +353,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ray tracing on the Ethereum Virtual Machine](https://github.com/axic/snailtracer)
 - [Ethereum Sentry](https://github.com/akula-bft/sentry) - Ethereum P2P network service.
 - [nextjs-dapp-starter-ts](https://github.com/G3root/nextjs-dapp-starter-ts) - Full stack monorepo template to develop ethereum dapps.
+- [Hiding in Plain Sight (2021)](https://www.paradigm.xyz/2021/11/hiding-in-plain-sight/) ([Tweet](https://twitter.com/samczsun/status/1458818301199540226))
+- [Studio 721](https://www.721.so/) - Free tool for configuring, compiling, deploying, and verifying custom ERC 721 NFT smart contracts.
+- [Birthblock](https://www.birthblock.art/) - NFT with art and attributes based on the data from your first transaction on Ethereum. ([Tweet](https://twitter.com/BrennerSpear/status/1458946945880244228))

@@ -3,6 +3,7 @@
 ## Interesting cars
 
 - [Citroën Karin (1980)](https://twitter.com/emhaasch/status/1394798032223277058)
+- [Hyundai Grandeur Heritage EV Concept](https://twitter.com/slate_akita/status/1458822858122088452)
 
 ## Links
 

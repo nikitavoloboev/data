@@ -29,6 +29,7 @@
 - [Tuikit](https://github.com/lotabout/tuikit) - Tool kit for writing TUI applications in Rust.
 - [argv](https://github.com/dtolnay/argv) - Command line arguments by reference.
 - [ansi_colours](https://github.com/mina86/ansi_colours) - Rust, C and C++ library for converting between 24-bit sRGB colors and ANSI terminal 8-bit palette.
+- [Cursive](https://github.com/gyscos/cursive) - TUI (Text User Interface) library for rust.
 
 ## Web
 
@@ -86,6 +87,8 @@
 - [javascriptcore-rs](https://github.com/tauri-apps/javascriptcore-rs) - JavaScriptCore bindings and wrappers for Rust.
 - [Wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [webkit2gtk](https://github.com/tauri-apps/webkit2gtk-rs) - Rust bindings and wrappers for webkit2gtk.
+- [Catnip](https://github.com/demikernel/catnip) - Fast User-Space TCP/UDP Stack.
+- [Capsule](https://github.com/capsule-rs/capsule) - Framework for network function development.
 
 ## WASM
 
@@ -190,6 +193,7 @@
 - [wgpu-pbr](https://github.com/tedsta/wgpu-pbr) - Implementation of PBR using wgpu-rs.
 - [Kludgine](https://github.com/khonsulabs/kludgine) - 2d game engine written in rust atop of wgpu.
 - [Blue Engine](https://github.com/ElhamAryanpur/BlueEngine) - General-purpose, easy-to-use, fast, extendable, secure, and portable graphics engine written in rust.
+- [Flou](https://github.com/Asha20/flou) - Flowchart description language. ([Docs](https://asha20.github.io/flou/)) ([Reddit](https://www.reddit.com/r/rust/comments/qrgjky/excited_to_share_my_first_crate_flou_a_flowchart/))
 
 ## Games
 
@@ -222,6 +226,7 @@
 - [heckcheck](https://github.com/yoshuawuyts/heckcheck) - Heckin small test generator.
 - [rust-counter-strings](https://github.com/thomaschaplin/rust-counter-strings) - Counter strings generator written in rust to help aid software testing.
 - [Cucumber Rust](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
+- [test-fuzz](https://github.com/trailofbits/test-fuzz) - Make fuzzing Rust easy.
 
 ## Error
 
@@ -1115,6 +1120,12 @@
 - [rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs.
 - [abi_stable_crates](https://github.com/rodrimati1992/abi_stable_crates) - Rust-to-Rust ffi,ffi-safe equivalents of std types,and creating libraries loaded at startup.
 - [gaffer](https://github.com/survemobility/gaffer) - Prioritized, parallel job scheduler with concurrent exclusion, job merging, recurring jobs and load limiting for lower priorities.
+- [Cadence](https://github.com/56quarters/cadence) - Extensible Statsd client for Rust.
+- [arrayvec](https://github.com/bluss/arrayvec) - Vector with a fixed capacity.
+- [open-rs](https://github.com/Byron/open-rs) - Open a path or URL with the system-defined program.
+- [evalexpr](https://github.com/ISibboI/evalexpr) - Expression evaluator and tiny scripting language in Rust.
+- [SPIR-Q](https://github.com/PENGUINLIONG/spirq-rs) - Light weight SPIR-V reflection library.
+- [Pythonize](https://github.com/davidhewitt/pythonize) - Serializer for Rust's serde ecosystem, which can convert Rust objects to Python values and back.
 
 ## Cargo Plugins
 
@@ -1212,3 +1223,4 @@
 - [rust-crates-index](https://github.com/frewsxcv/rust-crates-index) - Rust library for retrieving and interacting with the crates.io index.
 - [Plugins in Rust: Reducing the Pain with Dependencies (2021)](https://nullderef.com/blog/plugin-abi-stable/)
 - [Typify](https://github.com/oxidecomputer/typify) - JSON Schema -> Rust type converter.
+- [Dylint](https://github.com/trailofbits/dylint) - Tool for running Rust lints from dynamic libraries.

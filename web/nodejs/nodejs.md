@@ -119,7 +119,7 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Run yarn/npm scripts with fzf (2020)](https://sancho.dev/blog/better-yarn-npm-run/)
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. ([Docs](https://pnpm.js.org/en/motivation))
 - [node-request-interceptor](https://github.com/mswjs/node-request-interceptor) - Low-level HTTP/HTTPS/XHR request interception library for Node.
-- [napi-rs](https://github.com/napi-rs/napi-rs) - Minimal library for building compiled NodeJS add-ons in Rust. ([Docs](https://napi.rs/)) ([Web Code](https://github.com/napi-rs/website))
+- [napi-rs](https://github.com/napi-rs/napi-rs) - Minimal library for building compiled NodeJS add-ons in Rust. ([Docs](https://napi.rs/)) ([Web Code](https://github.com/napi-rs/website)) ([Tweet](https://twitter.com/Brooooook_lyn/status/1458961303897141249))
 - [Template project for writing node package with napi-rs](https://github.com/napi-rs/package-template)
 - [esno](https://github.com/antfu/esno) - TypeScript/ESNext node runtime powered by esbuild.
 - [TypeScript Tools for Node.js](https://github.com/AviVahl/ts-tools)
@@ -274,3 +274,5 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [thread-stream](https://github.com/pinojs/thread-stream) - Streaming way to send data to a Node.js Worker Thread.
 - [next-10](https://github.com/nodejs/next-10) - Discussion on strategic directions for next 10 years of Node.js.
 - [p4ssw0rd](https://github.com/Munkkeli/p4ssw0rd) - Hash passwords with SHA-256 + bcrypt in Node.js.
+- [A Guide to Load Testing Node.js APIs with Artillery (2021)](https://blog.appsignal.com/2021/11/10/a-guide-to-load-testing-nodejs-apis-with-artillery.html)
+- [find-my-way](https://github.com/delvedor/find-my-way) - Crazy fast HTTP router.

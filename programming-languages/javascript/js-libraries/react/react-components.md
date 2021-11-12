@@ -155,7 +155,7 @@
 - [Procedural GL React](https://github.com/felixpalmer/procedural-gl-react) - React component for the Procedural GL JS library. ([HN](https://news.ycombinator.com/item?id=25821535))
 - [Renderlesskit React](https://github.com/timelessco/renderlesskit-react) - Headless components/hooks that are accessible, composable, customizable from low level to build your own UI & Design System.
 - [react-virtualized-tree](https://github.com/diogofcunha/react-virtualized-tree) - Virtualized tree view component making use of react.
-- [Glide Data Grid](https://github.com/glideapps/glide-data-grid) - High-performance React grid component, with rich rendering and first-class TypeScript support.
+- [Glide Data Grid](https://github.com/glideapps/glide-data-grid) - High-performance React grid component, with rich rendering and first-class TypeScript support. ([Reddit](https://www.reddit.com/r/reactjs/comments/qrt86r/data_grid_30_bigger_better_faster/))
 - [React Colorful](https://github.com/omgovich/react-colorful) - Tiny color picker component for React and Preact apps.
 - [Homebase React](https://github.com/homebaseio/homebase-react) - Graph database for delightful React state management.
 - [react-svg](https://github.com/tanem/react-svg) - React component that injects SVG into the DOM.
@@ -230,6 +230,8 @@
 - [Theme Provider](https://github.com/callstack/react-theme-provider) - Set of utilities that help you create your own React theming system in few easy steps.
 - [Splitter](https://github.com/DevbookHQ/splitter) - React component for building split views like in VS Code.
 - [React-Transition-State](https://github.com/szhsin/react-transition-state) - Perform animation and transition of React component with ease.
+- [Graphire](https://github.com/flavioschneider/graphire) - Declarative and unopinionated graph visualization library for React.
+- [React Flow Smart Edge](https://github.com/tisoap/react-flow-smart-edge) - Special Edge for React Flow that never intersects with other nodes.
 
 ## Links
 

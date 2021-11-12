@@ -7,6 +7,7 @@
 - [My advice for young people starting out in their careers: choose leaders who are competent, compassionate, and secure in themselves (not just pretending to be). Careers are long, and early role models have a disproportionately large impact on your trajectory—for better or worse.](https://twitter.com/jenistyping/status/1385393700855943170)
 - [Be the senior you needed when you were a junior.](https://twitter.com/decodeVeronika/status/1451394626984759312)
 - [Elon Musk is present in all design reviews. It's always ok to contradict another person's opinion & accept you being wrong.](https://youtu.be/hTOtAniwC18?t=1298)
+- [Leaders must pursue excellence everywhere, at all times. The product of excellent and mediocre is mediocre. Organizations devolve to their lowest common denominator. Leading this way is exhausting. But if you’re not willing to make the sacrifice, please move out of the way.](https://twitter.com/laserlikemike/status/1458857100298403844)
 
 ## Links
 

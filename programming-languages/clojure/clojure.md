@@ -170,3 +170,4 @@
 - [Moldable Emacs: a Clojure Playground with Babashka (2021)](https://ag91.github.io/blog/2021/11/05/moldable-emacs-a-clojure-playground-with-babashka/)
 - [Clojure Experience Report (2020)](https://www.collicutt.co.uk/notebook/clojure_experience.html)
 - [Writing a Clojure highlighter from scratch (2021)](https://blog.michielborkent.nl/writing-clojure-highlighter.html)
+- [Why Clojure is great (2021)](https://twitter.com/furkan3ayraktar/status/1458503075547787266)

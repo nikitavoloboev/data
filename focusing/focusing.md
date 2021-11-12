@@ -97,3 +97,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Oliver Burkeman's Advice for Time Management (2021)](https://www.theatlantic.com/family/archive/2021/08/oliver-burkeman-advice-time-productivity/619723/)
 - [Have a distraction log (2021)](https://twitter.com/visakanv/status/1456801019644428288) - Somewhere to write down all distractive thoughts as they arise to log them but keep working.
 - [Ask HN: Tips for more energy during day? (2021)](https://news.ycombinator.com/item?id=29140964)
+- [Scattered thoughts on why I waste my own time (2021)](https://mbuffett.com/posts/wasting_time/) ([HN](https://news.ycombinator.com/item?id=29176416))

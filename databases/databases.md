@@ -177,6 +177,8 @@
 - [Zerostash](https://github.com/symmetree-labs/zerostash) - Deduplicated, encrypted data store that provides native versioning capabilities, and was designed to secure all metadata related to the files.
 - [BonsaiDb](https://github.com/khonsulabs/bonsaidb) - Rust-written, ACID-compliant, document-database inspired by CouchDB. ([Web](https://dev.bonsaidb.io/))
 - [Amazon Timestream](https://aws.amazon.com/timestream/) - Fast, scalable, serverless time series database. ([Tools and Samples](https://github.com/awslabs/amazon-timestream-tools))
+- [Hive](https://github.com/hivedb/hive) - Lightweight and blazing fast key-value database written in pure Dart. ([Docs](https://docs.hivedb.dev/#/))
+- [Couchbase Lite for iOS and MacOS](https://github.com/couchbase/couchbase-lite-ios) - Lightweight, embedded, syncable NoSQL database engine for iOS and MacOS apps.
 
 ## Tools
 
@@ -231,6 +233,10 @@
 - [DrawSQL](https://drawsql.app/) - Database schema diagrams.
 - [SQLize](https://github.com/sunary/sqlize) - Generate MySQL/PostgreSQL Migration from Go struct and existing SQL.
 - [OmniDB](https://omnidb.org/) - Web tool for database management. ([Code](https://github.com/OmniDB/OmniDB))
+- [Maxwell's Daemon](http://maxwells-daemon.io/) - Application that reads MySQL binlogs and writes row updates as JSON to Kafka, Kinesis, or other streaming platforms. ([Code](https://github.com/zendesk/maxwell))
+- [MaxScale](https://github.com/mariadb-corporation/MaxScale) - Intelligent database proxy. ([Docs](https://github.com/mariadb-corporation/MaxScale/wiki))
+- [Couchbase](https://www.couchbase.com/) - Modern Database for Enterprise Applications.
+- [Couchbase Mobile](https://www.couchbase.com/products/mobile) - SQLite Alternative. ([C++ Client](https://github.com/couchbase/couchbase-lite-core))
 
 ## Notes
 

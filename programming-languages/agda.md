@@ -58,3 +58,4 @@
 - [Intrinsically-Typed Definitional Interpreters à la Carte](https://github.com/casvdrest/composable-semantics)
 - [ModTT in Agda](https://github.com/HarrisonGrodin/agda-modtt)
 - [Generic](https://github.com/effectfully/Generic) - Library for doing generic programming in Agda.
+- [Agda Playground](https://github.com/oisdk/agda-playground)

@@ -20,7 +20,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 
 Aside from the unfortunate series of historical events that led to the current abuse of power from government over people, Russia is beautiful country with amazing people. Things won't improve in the country financially though if there is always a risk of someone coming in 'from the government' to take over your business and putting you in jail. Not including the fact that [most young people want to leave it at any opportunity they can get](https://twitter.com/dan_abramov/status/1458101197500473355).
 
-With that said, no matter what country/community you live in, you have to do your best within what's possible given your surroundings. Whilst seeking to move to an environment that helps you express yourself best. Don't waste time on pointless arguing and value action & proper actionable discourse above all.
+With that said, no matter what country/community you live in, you have to [do your best within what's possible given your surroundings](https://twitter.com/ioannZH/status/1458669114826928128). Whilst seeking to move to an environment that helps you express yourself best. Don't waste time on pointless arguing and value action & proper actionable discourse above all.
 
 ## Notes
 
@@ -45,6 +45,7 @@ With that said, no matter what country/community you live in, you have to do you
 - [Russia is truly cruel towards its citizens, jailing a person for 10 months who was just married for a crime of just 'going to a protest'. Given the amount of torture that anyone jailed goes through in these systems, it's insane to think that it's 21st century. This fascist government, judges & police can't fall soon enough.](https://twitter.com/gusevaolyaa/status/1453388863192322062) ([Оппозиционный активист Глеб Марьясов отправлен в колонию на 10 месяцев за участие в январских митингах. Все эти кадры прощаний из судов просто рвут душу. Русская тоска.](https://twitter.com/ilyayashin/status/1453372613137477636) ([Video](https://www.youtube.com/watch?v=lv4wJQg2MUE))
 - [Пытать в России - не преступление, преступление - рассказывать об этом.](https://twitter.com/Kira_Yarmysh/status/1453606229096517636) ([Reddit](https://www.reddit.com/r/AskARussian/comments/qhis55/%D0%BC%D0%B2%D0%B4_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B8%D0%BB%D0%BE_%D0%BE_%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%BE%D0%BC_%D0%B0%D1%80%D0%B5%D1%81%D1%82%D0%B5_%D0%B1%D1%8B%D0%B2%D1%88%D0%B5%D0%B3%D0%BE/))
 - [Россия перешла в привычный режим "осажденной крепости" и будет так жить еще долгие годы, десятилетия. Плевать они хотели на любые рейтинги. У Кремля есть труба и огромный потребительский рынок — это их оружие.](https://twitter.com/adagamov/status/1454480993394561032)
+- [Literally no rule of law (constitution) in Russia. Anyone can go to jail for anything if government wants it.](https://twitter.com/YLatynina/status/1458771869646176258)
 
 ## Links
 
@@ -331,3 +332,9 @@ With that said, no matter what country/community you live in, you have to do you
 - [Пытки для Навального: кем его окружили в колонии, как компрометируют и ломают (2021)](https://www.youtube.com/watch?v=AWUsaUcd0I8&t=1s) ([Tweet](https://twitter.com/Kira_Yarmysh/status/1456170822410899458)) ([Tweet](https://twitter.com/team_milov/status/1456205700296847361)) ([Transcript](https://tvrain.ru/news/byvshie_zakljuchennye_pokrovskoj_kolonii_rasskazali_ob_izdevatelstvah_nad_navalnym-541267/))
 - [Куда в России можно сгонять, чтобы пожить рядом с горами](https://twitter.com/vzrosly_content/status/1457366581131059204)
 - [Pikabu](https://pikabu.ru/) - Уютное информационно-развлекательное сообщество.
+- [Что делать когда в стране все плохо политечки](https://twitter.com/ioannZH/status/1458669114826928128)
+- [Arrested in my pyjamas: I became a political prisoner at 23 (2021)](https://www.economist.com/1843/2021/11/10/arrested-in-my-pyjamas-i-became-a-political-prisoner-at-23)
+- [Breezzly](https://breezzly.ru/) - Онлайн-курсы по веб-дизайну и анимации UX/UI.
+- [How Putin is silencing his opponents (2021)](https://www.youtube.com/watch?v=_NrV0UegeuM)
+- ["У нас запрет на реальность". Почему в российском кино и сериалах все больше табу (2021)](https://www.bbc.com/russian/features-59255248)
+- [BBC News Русская служба](https://www.bbc.com/russian)

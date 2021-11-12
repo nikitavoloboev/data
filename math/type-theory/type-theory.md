@@ -33,7 +33,7 @@
 - [Lambdas are Codatatypes (2019)](http://blog.ielliott.io/lambdas-are-codatatypes/)
 - [On the Relationship Between Static Analysis and Type Theory (2019)](https://semantic-domain.blogspot.com/2019/08/on-relationship-between-static-analysis.html) ([Lobsters](https://lobste.rs/s/irow0u/on_relationship_between_static_analysis))
 - [Timeline for Logic, λ-Calculus, and Programming Language Theory (2012)(http://fm.csl.sri.com/SSFT15/Timeline.pages.pdf) ([HN](https://news.ycombinator.com/item?id=20860888))
-- [Types and Programming Languages book](https://www.cis.upenn.edu/~bcpierce/tapl/) ([Code](https://github.com/lazear/types-and-programming-languages))
+- [Types and Programming Languages Book (2002)](https://www.cis.upenn.edu/~bcpierce/tapl/) ([Code](https://github.com/lazear/types-and-programming-languages)) ([Book Page](https://mitpress.mit.edu/books/types-and-programming-languages)) ([HN](https://news.ycombinator.com/item?id=29182480))
 - [Type Theory and Formal Proof book](https://www.cambridge.org/core/books/type-theory-and-formal-proof/0472640AAD34E045C7F140B46A57A67C)
 - [qtt](https://github.com/LightAndLight/qtt) - Quantitative Type Theory implementation.
 - [Normalization by evaluation for Martin-Löf Type Theory with dependent records](https://github.com/brendanzab/rust-nbe-for-mltt)
@@ -155,3 +155,4 @@
 - [Topoi — inside and out (2020)](https://blog.jonmsterling.com/Topoi-inside-and-out-7b0b86e39eeb43aeaee3c3af1dd91f2a)
 - [How to define a PER model (2020)](https://blog.jonmsterling.com/How-to-define-a-PER-model-95a7413ee12444f899536f67bbaea28e)
 - [Grothendieck's Pursuing Stacks (1983)](https://agrothendieck.github.io/divers/ps.pdf) ([Code](https://github.com/thescrivener/PursuingStacks))
+- [Should Type Theory replace Set Theory as the Foundation of Mathematics (2021)](https://arxiv.org/abs/2111.06368)

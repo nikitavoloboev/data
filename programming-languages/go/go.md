@@ -40,6 +40,7 @@ Go promotes composition over inheritance.
 - [To improve testability in my Go programs, the only thing I do in func main is call out to another function, passing in the ‘global’ things it needs. I can call run in test code like a normal function, and use a buffer for stdout (to make assertions about what it outputs.)](https://twitter.com/matryer/status/1445651886078525446)
 - [Don't use deferred functions in main(), don't call os.Exit/log.Fatal outside of main()](https://twitter.com/TitPetric/status/1449025794538360839)
 - [`go get` stores downloaded files in `GOMODCACHE` (can be found via `go env`).](https://www.reddit.com/r/golang/comments/qbwyx5/where_does_go_get_store_the_downloaded_files/)
+- [gotip allows you to use Go from the tip. It’s much easier than building Go from source code](https://twitter.com/rakyll/status/1458915856134520874)
 
 ## Code
 
@@ -606,3 +607,8 @@ if err != nil {
 - [Using Generics in Go (2021)](https://www.youtube.com/watch?v=nr8EpUO9jhw)
 - [ineffassign](https://github.com/gordonklaus/ineffassign) - Detect ineffectual assignments in Go code.
 - [Twelve Years of Go (2021)](https://go.dev/blog/12years) ([HN](https://news.ycombinator.com/item?id=29176360))
+- [go-perftuner](https://github.com/go-perf/go-perftuner) - Helper tool for manual Go code optimization.
+- [Rust + Go](https://github.com/mediremi/rust-plus-golang) - Shows how, by combining cgo and Rust's FFI capabilities, we can call Rust code from Go.
+- [Go Vulnerability Database](https://github.com/golang/vulndb)
+- [Wild Workouts](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
+- [Best ways to learn Go for experienced devs (2021)](https://twitter.com/dabeaz/status/1459167457969639444)

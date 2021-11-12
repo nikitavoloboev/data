@@ -105,3 +105,6 @@
 - [StackStorm](https://stackstorm.com/) - Platform for integration and automation across services and tools, taking actions in response to events. ([Code](https://github.com/StackStorm/st2))
 - [Grafana OnCall](https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/) - Easy-to-use on-call management tool. ([HN](https://news.ycombinator.com/item?id=29164386))
 - [Ironic](https://github.com/openstack/ironic) - Service for managing and provisioning Bare Metal servers.
+- [Scaled Agile DevOps Maturity Framework](https://scaledagiledevops.com/) - Enterprise transformation without the risk of culture change.
+- [Plunder](https://github.com/plunder-app/plunder) - Single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier.
+- [Equinix Metal Images](https://github.com/packethost/packet-images)

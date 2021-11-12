@@ -3,6 +3,7 @@
 ## Web
 
 - [Mint](https://github.com/elixir-mint/mint) - Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2.
+- [Req](https://github.com/wojtekmach/req) - HTTP client with a focus on ease of use and composability, built on top of Finch.
 - [Finch](https://github.com/keathley/finch) - HTTP client with a focus on performance, built on top of Mint and NimblePool.
 - [Ash](https://github.com/ash-project/ash) - Resource based framework for building Elixir applications.
 - [SiteEncrypt](https://github.com/sasa1977/site_encrypt) - Integrated certification via Let's encrypt for Elixir-powered sites.
@@ -19,6 +20,7 @@
 - [Bandit](https://github.com/mtrudel/bandit) - HTTP server for Plug apps. ([Article](https://mat.geeky.net/2021/06/24/bandit-on-the-loose.html)) ([Talk](https://github.com/mtrudel/talks/blob/main/ElixirConf%202021.pdf))
 - [ElixirST](https://github.com/gertab/ElixirST) - Session Types in Elixir.
 - [PardallMarkdown](https://github.com/alfredbaudisch/pardall_markdown) - Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding. Written in Elixir.
+- [OAuth2](https://github.com/scrogson/oauth2) - Elixir OAuth 2.0 Client Library.
 
 ## DB
 

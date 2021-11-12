@@ -146,6 +146,7 @@ Below is a list of extensions I use.
 - [VSCode MLIR](https://github.com/llvm/vscode-mlir) - Provides MLIR language IDE features for VS code.
 - [Edge Developer Tools](https://github.com/microsoft/vscode-edge-devtools) - VSCode extension that allows you to use browser devtools from within the editor.
 - [Terrascan Rego Editor](https://marketplace.visualstudio.com/items?itemName=accuricsinc.terrascan-rego-editor) - Develop custom policies for Terrascan. ([Code](https://github.com/accurics/terrascan-rego-editor))
+- [dprint](https://github.com/dprint/dprint-vscode) - Format code with dprint.
 
 ## Shell
 

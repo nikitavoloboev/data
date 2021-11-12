@@ -139,7 +139,7 @@
 - [I redesigned my site & added some generative art (2021)](https://meowni.ca/posts/redesign/) ([Tweet](https://twitter.com/notwaldorf/status/1408094426031747072))
 - [Mondrian Art Generator](https://tool.graphics/mondrian) ([Code](https://github.com/andronov04/mondrian-art))
 - [Subscapes by Matt DesLauriers](https://artblocks.io/project/53) - Generative algorithm that draws the impression of a landscape from a multitude of possibilities. ([Code](https://github.com/mattdesl/subscapes))
-- [Javad Tabatabaei's generative art](https://www.hicetnunc.xyz/tz/tz1MuBZEBbqmPDqf67jDErYKn1RUScc2Zx7A/creations)
+- [Javad Tabatabaei's generative art](https://hicetnunc.art/tz/tz1MuBZEBbqmPDqf67jDErYKn1RUScc2Zx7A/creations)
 - [Non-Circular Packing (2021)](https://ippsketch.com/posts/non-circular-packing/)
 - [Sketching - A Language for Creative Coding](https://soegaard.github.io/sketching/)
 - [The Rise of Long-Form Generative Art (2021)](https://tylerxhobbs.com/essays/2021/the-rise-of-long-form-generative-art)
@@ -177,3 +177,4 @@
 - [Programmable Pen Tool](https://s.baku89.com/pentool/) - Vector graphics editor with programmable pen tools. ([Code](https://github.com/baku89/pentool))
 - [Samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator.
 - [Create Generative Art with R](https://github.com/cutterkom/generativeart)
+- [Women in Generative Art Twitter List](https://twitter.com/i/lists/1458840272046071825)

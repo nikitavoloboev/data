@@ -107,3 +107,4 @@
 - [Observing a Django backend with Honeycomb.io (2020)](https://www.yanglinzhao.com/posts/using-honeycomb/)
 - [django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Postgres trigger support integrated with Django models.
 - [django-pghistory](https://github.com/Opus10/django-pghistory) - Provides automated and customizable history tracking for Django models using Postgres triggers.
+- [A complete guide to organizing settings in Django (2021)](https://apibakery.com/blog/django-settings-howto/) ([HN](https://news.ycombinator.com/item?id=29198346))

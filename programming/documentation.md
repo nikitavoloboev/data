@@ -128,3 +128,4 @@
 - [Computers can be understood (2020)](https://blog.nelhage.com/post/computers-can-be-understood/)
 - [Doctave](https://github.com/Doctave/doctave) - Batteries-included developer documentation site generator.
 - [Documentation could be so much better (2021)](https://buttondown.email/hillelwayne/archive/documentation-could-be-so-much-better/)
+- [Best developer doc examples (2021)](https://twitter.com/alexellisuk/status/1458776636040560648)

@@ -66,3 +66,4 @@
 - [How (and why) we built branching (2021)](https://www.figma.com/blog/how-and-why-we-built-branching/) ([Tweet](https://twitter.com/skuwamoto/status/1447980346935439360))
 - [GraphQL, meet LiveGraph: a real-time data system at scale (2021)](https://www.figma.com/blog/livegraph-real-time-data-fetching-at-figma/) - Real-time data fetching at Figma.
 - [Introducing new FigJam prices and a more open platform (2021)](https://www.figma.com/blog/introducing-new-figjam-prices-and-a-more-open-platform/) ([Tweet](https://twitter.com/zoink/status/1450522306862739459))
+- [What should Figma add (2021)](https://twitter.com/skuwamoto/status/1458819457761955841)

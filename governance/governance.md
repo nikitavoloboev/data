@@ -82,3 +82,7 @@
 - [QuadraticVote.co](https://quadraticvote.co/) - Real-time Quadratic Voting dashboard to encourage mathematically optimal voting in democratic communities. ([Code](https://github.com/Anish-Agnihotri/quadratic-voting))
 - [Harberger Taxation has an elegant application that has been overlooked: Taxing Intellectual Property](https://ristret.com/s/ftmbkg/harberger_taxation_has_elegant)
 - [Zero-knowledge voting implementations (2021)](https://twitter.com/dwr/status/1458127746912047107)
+- [VotingWorks](https://www.voting.works/) - Nonpartisan nonprofit making elections more trustworthy with modern technology.
+- [Arlo](https://github.com/votingworks/arlo) - Web-based risk-limiting audit (RLA) tool used to conduct post-election audits in the United States.
+- [Freedom is not a goal, but a direction (2021)](https://edwardsnowden.substack.com/p/culturalrevolutions) ([Tweet](https://twitter.com/Snowden/status/1458903893052690433))
+- [Belenios](https://www.belenios.org/) - Verifiable online voting system. ([Code](https://github.com/glondu/belenios))

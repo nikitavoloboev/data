@@ -21,6 +21,7 @@
 - [Holding others accountable is overrated. Holding yourself accountable is underrated.](https://twitter.com/ResilienttHuman/status/1445188664062001199)
 - [Organize to reduce context switch and communication overhead.](https://twitter.com/rakyll/status/1450924862055190528)
 - [Two hardest problems in engineering management: 1. What's the priority? 2. How will we measure impact?](https://twitter.com/dxna/status/1453375754889224204)
+- [Annual planning: remember that goals must be set top down by the leader, and that bets (and resources) to hit the goals must be set bottoms-up by the team. And have weekly iterations for the two (goals and bets/resources) to converge.](https://twitter.com/gokulr/status/1458490916939862017)
 
 ## Links
 

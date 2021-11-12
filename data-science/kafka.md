@@ -70,3 +70,4 @@
 - [Kafka Streams in Scala (2021)](https://www.youtube.com/watch?v=MYTFPTtOoLs)
 - [Kafka Streams 101 (2021)](https://blog.rockthejvm.com/kafka-streams/)
 - [Kafka Streams 101 – resources to get started (2021)](https://forum.confluent.io/t/kafka-streams-101-resources-to-get-started/3283)
+- [rust-rdkafka](https://github.com/fede1024/rust-rdkafka) - Fully asynchronous, futures-enabled Apache Kafka client library for Rust based on librdkafka.

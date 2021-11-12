@@ -17,6 +17,7 @@
 - [Radicle](https://radicle.xyz/) - Peer-to-peer stack for building software together. ([GitHub](https://github.com/radicle-dev)) ([HN](https://news.ycombinator.com/item?id=25313010)) ([Lobsters](https://lobste.rs/s/6tbq79/radicle_peer_peer_stack_for_code)) ([[Brand Journey](https://twitter.com/brandonhaslegs/status/1334207549273419777)])
 - [Radicle Link](https://github.com/radicle-dev/radicle-link) - Working repo for the second iteration of the Radicle code collaboration protocol and stack.
 - [Radicle Bins](https://github.com/radicle-dev/radicle-bins) - Collection of radicle binaries.
+- [Radicle Client Services](https://github.com/radicle-dev/radicle-client-services) - Services backing the Radicle client interfaces.
 - [Upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for the radicle code collaboration and registry protocols.
 - [How it Works — Radicle Link (2020)](https://radicle.xyz/radicle-link.html) ([HN](https://news.ycombinator.com/item?id=24382589))
 - [List of peer-to-peer resources](https://github.com/kgryte/awesome-peer-to-peer)
@@ -96,3 +97,4 @@
 - [Building Collaborative P2P Applications with Autobase](https://github.com/hypercore-protocol/p2p-multiwriter-with-autobase)
 - [Peergos](https://peergos.org/) - p2p, secure file storage, social network and application protocol. ([GitHub](https://github.com/Peergos)) ([Code](https://github.com/Peergos/Peergos))
 - [Hyperswarm discovery stack](https://github.com/hyperswarm/discovery)
+- [Hyper-VCR](https://github.com/pfrazee/hyper-vcr) - p2p version-controlled repo (built on hypercore).

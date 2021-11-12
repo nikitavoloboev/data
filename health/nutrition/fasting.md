@@ -10,6 +10,7 @@ I sometimes do one day fasts but not routinely.
 - [Fasting activates autophagy which is the body's process of cleansing at cell level. This is the major reason for health improvements related to it.](https://www.reddit.com/r/longevity/comments/8e3eov/is_there_actually_anything_out_on_the_market_that/)
 - [Seems like a lot of the benefits of calorie restriction and fasting may come from the fact consuming food produces damaging by-products, note the way you cook the food strongly influences how much of these by products come in the food itself, but your body also produces the. AGE's = Glycation products](https://news.ycombinator.com/item?id=24854571)
 - [Skipping meals while maintaining adequate nutrition is not only good for you but will make you live longer.](https://twitter.com/davidasinclair/status/1449719923337580545)
+- [Once-daily feeding is associated with better cognitive function and health in companion dogs](https://twitter.com/mkaeberlein/status/1458933929319174148)
 
 ## Links
 

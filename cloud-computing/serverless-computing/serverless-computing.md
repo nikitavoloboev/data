@@ -122,3 +122,5 @@
 - [Faster, more reliable page loads with update to On-demand Builders (2021)](https://www.netlify.com/blog/2021/10/25/faster-more-reliable-page-loads-with-update-to-on-demand-builders/) ([Tweet](https://twitter.com/biilmann/status/1452755558306508800))
 - [Edge Functions – Vercel](https://vercel.com/features/edge-functions) ([Tweet](https://twitter.com/vercel/status/1453034541463916549)) ([Tweet](https://twitter.com/lcasdev/status/1453046218490253320))
 - [Improving long-running jobs for OpenFaaS users (2021)](https://www.openfaas.com/blog/long-running-jobs/)
+- [Serverless WebSockets at Scale | Simon Tabor (2020)](https://www.youtube.com/watch?v=lXNw2RTaD8g)
+- [Prisma Serverless Conference](https://www.prisma.io/serverless)

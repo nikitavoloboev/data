@@ -39,6 +39,7 @@
 - [Customize cursor blinking in Obsidian](https://github.com/xnhp/obsidian-cursor-blink)
 - [BRAT (Beta Reviewers Auto-update Tester)](https://github.com/TfTHacker/obsidian42-brat) - Plugin that makes it easier for you to assist other developers with reviewing and testing their plugins.
 - [Zoottelkeeper](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin) - Automated folder-level index file generator and maintainer.
+- [Obsidian Typing](https://github.com/konodyuk/obsidian-typing) - Strict note typing for Obsidian.
 
 ## Themes
 

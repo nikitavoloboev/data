@@ -132,7 +132,7 @@
 - [minGPT](https://github.com/karpathy/minGPT) - Minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training. ([Code](https://news.ycombinator.com/item?id=24189497))
 - [MiniTorch](https://minitorch.github.io/) - Teaching library for machine learning engineers who wish to learn about the internal concepts underlying deep learning systems.
 - [PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA (2020)](https://www.youtube.com/watch?v=9mS1fIYj1So) ([Summary](https://twitter.com/karpathy/status/1299921324333170689))
-- [Opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy.
+- [Opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy. ([Web](https://opacus.ai/)) ([Opacus Lab Research](https://github.com/facebookresearch/Opacus-lab))
 - [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://github.com/cleardusk/3DDFA_V2)
 - [Hivemind](https://github.com/learning-at-home/hivemind) - Library to train large neural networks across the internet. Imagine training one huge transformer on thousands of computers from universities, companies, and volunteers.
 - [Prediction and Policy-learning Under Uncertainty (PPUU)](https://github.com/Atcold/pytorch-PPUU)
@@ -296,3 +296,5 @@
 - [Ultimate PyTorch Source-Build Template](https://github.com/veritas9872/PyTorch-Universal-Docker-Template) - Template repository to build PyTorch projects from source on any version of PyTorch/CUDA/cuDNN.
 - [hf-hub-lightning](https://github.com/nateraw/hf-hub-lightning) - PyTorch Lightning Callback for pushing models to the Hugging Face Hub.
 - [Audio Augmentations](https://github.com/Spijkervet/torchaudio-augmentations) - Library for PyTorch for audio in the time-domain, with support for stochastic data augmentations.
+- [e2cnn](https://github.com/QUVA-Lab/e2cnn) - PyTorch extension for equivariant deep learning.
+- [Deep Learning With PyTorch - Full Course (2021)](https://www.youtube.com/watch?v=c36lUUr864M)

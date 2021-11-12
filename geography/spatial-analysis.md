@@ -112,3 +112,4 @@
 - [Flatmap](https://github.com/onthegomap/flatmap) - Tool to make vector tiles from OpenStreetMap data fast. ([HN](https://news.ycombinator.com/item?id=28986762))
 - [PlacesDAO](https://www.places.xyz/) - Open atlas curated by the world and stored on chain. ([Places.xyz Google Maps Integration](https://github.com/hmprt/places-xyz-plotter))
 - [MapProxy](https://github.com/mapproxy/mapproxy) - Open source proxy for geospatial data. It caches, accelerates and transforms data from existing map services and serves any desktop or web GIS client. ([Web](https://mapproxy.org/))
+- [TorchGeo](https://github.com/microsoft/torchgeo) - Datasets, transforms, and models for geospatial data.

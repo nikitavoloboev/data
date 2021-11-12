@@ -305,6 +305,8 @@
 - [sqlhooks](https://github.com/qustavo/sqlhooks) - Attach hooks to any database/sql driver.
 - [vitess-sqlparser](https://github.com/blastrain/vitess-sqlparser) - Simply SQL Parser for Go (powered by vitess and TiDB).
 - [Authzed Go](https://github.com/authzed/authzed-go)
+- [Datastore Wrapper](https://github.com/mercari/datastore) - AppEngine | Cloud Datastore wrapper for Go.
+- [moss](https://github.com/couchbase/moss) - Simple, fast, ordered, persistable, key-val storage library for Go.
 
 ## ML
 
@@ -327,10 +329,11 @@
 
 ## GUI
 
-- [Gio](https://gioui.org/) - Implements portable immediate mode GUI programs in Go. ([Code](https://github.com/gioui/gio)) ([HN](https://news.ycombinator.com/item?id=27287270)) ([Let’s build a Gui with Gio](https://jonegil.github.io/gui-with-gio/))
+- [Gio](https://gioui.org/) - Implements portable immediate mode GUI programs in Go. ([Code](https://github.com/gioui/gio)) ([HN](https://news.ycombinator.com/item?id=27287270)) ([Let’s build a Gui with Gio](https://jonegil.github.io/gui-with-gio/)) ([Tutorials](https://github.com/jonegil/gui-with-gio))
 - [ui](https://github.com/andlabs/ui) - Platform-native GUI library for Go.
 - [Nucular](https://github.com/aarzilli/nucular) - GUI toolkit for go.
 - [Gorough](https://github.com/NovikovRoman/gorough) - Create graphics with a hand-drawn, sketchy, appearance. Based on Rough.js.
+- [giocanvas](https://github.com/ajstarks/giocanvas) - Canvas API built with Gio.
 
 ## macOS
 
@@ -1055,6 +1058,9 @@
 - [gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language in Go.
 - [Kazaam](https://github.com/qntfy/kazaam) - Arbitrary transformations of JSON in Go.
 - [Schema Registry Client](https://github.com/riferrei/srclient)
+- [GAAD](https://github.com/Comcast/gaad) - Go Advanced Audio Decoder.
+- [modbus](https://github.com/goburrow/modbus) - Fault-tolerant, fail-fast implementation of Modbus protocol in Go.
+- [packngo](https://github.com/packethost/packngo) - Go client for the Equinix Metal API.
 
 ## Links
 

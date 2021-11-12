@@ -61,3 +61,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Philosophical Foundations of Machine Intelligence Course (2021)](https://github.com/acmi-lab/cmu-10721-philosophy-machine-intelligence)
 - [How to cope with an existential crisis (2021)](https://psyche.co/guides/how-kierkegaard-can-help-you-cope-with-an-existential-crisis)
 - [Platonism in the Philosophy of Mathematics](https://plato.stanford.edu/entries/platonism-mathematics/) ([HN](https://news.ycombinator.com/item?id=28935718))
+- [The Best Books on Immanuel Kant](https://fivebooks.com/best-books/kant/)

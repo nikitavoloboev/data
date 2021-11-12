@@ -30,7 +30,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Metapurse](https://metapurse.fund/) - Crypto-exclusive fund.
 - [Rarible](https://rarible.com/) - Create, sell or collect digital items secured with Blockchain.
 - [OpenSea](https://opensea.io/) - Largest NFT marketplace. Buy, sell, and discover rare digital items. ([JS SDK](https://github.com/ProjectOpenSea/opensea-js))
-- [hicetnunc2000](https://www.hicetnunc.xyz/) - Smart contracts and distributed systems designs. ([Web](https://www.hicetnunc.xyz/))
 - [Polymarket](https://polymarket.com/) - Global Information Markets Platform.
 - [Tokenlog](https://tokenlog.xyz/) - Token-weighted backlogs. ([Code](https://github.com/wslyvh/tokenlog))
 - [RabbitHole](https://rabbithole.gg/) - Earn crypto by using the latest crypto applications.
@@ -276,3 +275,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Secret Network](https://scrt.network/) - Blockchain with data privacy by default.
 - [Tenk NFT](https://github.com/willemneal/tenk) - Template for making a NFT contract with a raffle of tokens.
 - [Issues with blockchain/crypto tech (2021)](https://twitter.com/mountain_ghosts/status/1458544957757788169)
+- [The 10,000 Faces That Launched an NFT Revolution (2021)](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution/) ([Tweet](https://twitter.com/pixelpete/status/1458818880453947393))
+- [The Nihilism and Exploitation of the NFT Industry (2021)](https://ez.substack.com/p/the-nihilism-and-exploitation-of) - Industry custom-built to enrich the wealthy. ([Tweet](https://twitter.com/edzitron/status/1458934946534285313))
+- [Cortex - AI on Blockchain written in Go](https://github.com/CortexFoundation/CortexTheseus)
+- [Scrypto](https://github.com/radixdlt/radixdlt-scrypto) - Language for building DeFi apps on Radix.

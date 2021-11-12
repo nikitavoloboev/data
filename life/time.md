@@ -34,3 +34,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [The Tail End (2015)](https://waitbutwhy.com/2015/12/the-tail-end.html)
 - [Practical Time Machines (2021)](https://textslashplain.com/2021/10/01/practical-time-machines/)
 - [Time Travel: Probability and Impossibility (2021)](https://ndpr.nd.edu/reviews/time-travel-probability-and-impossibility/) ([HN](https://news.ycombinator.com/item?id=29154582))
+- [timezones.json](https://github.com/dmfilipenko/timezones.json) - Full list of UTC timezones.

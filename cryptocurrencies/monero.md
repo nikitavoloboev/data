@@ -1,5 +1,9 @@
 # [Monero](https://www.getmonero.org/)
 
+## Notes
+
+- [Can buy Monero on Kraken/KuCoin/TradeOgre and transfer it out (to Exodus/Cake wallet).](https://www.reddit.com/r/CryptoCurrency/comments/qrwwpw/what_cryptocurrencies_have_you_personally_found/)
+
 ## Links
 
 - [Why Monero (2021)](https://benkaiser.dev/why-monero/) ([HN](https://news.ycombinator.com/item?id=28517870))

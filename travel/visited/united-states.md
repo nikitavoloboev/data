@@ -87,3 +87,4 @@
 - [Internal Revenue Service (IRS)](https://www.irs.gov/) - Responsible for collecting taxes and administering the Internal Revenue Code.
 - [Would any of you guys live in the USA , or stay in Netherlands? (2021)](https://www.reddit.com/r/Netherlands/comments/qjmds0/would_any_of_you_guys_live_in_the_usa_or_stay_in/)
 - [Culture Shock: Looking at the United States as an Indian, two months in (2021)](https://siddhesh.substack.com/p/culture-shock) ([HN](https://news.ycombinator.com/item?id=29073899))
+- [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA (2021)](https://news.ycombinator.com/item?id=29200687)
