@@ -335,8 +335,9 @@ With that said, no matter what country/community you live in, you have to [do yo
 - [Что делать когда в стране все плохо политечки](https://twitter.com/ioannZH/status/1458669114826928128)
 - [Arrested in my pyjamas: I became a political prisoner at 23 (2021)](https://www.economist.com/1843/2021/11/10/arrested-in-my-pyjamas-i-became-a-political-prisoner-at-23)
 - [Breezzly](https://breezzly.ru/) - Онлайн-курсы по веб-дизайну и анимации UX/UI.
-- [How Putin is silencing his opponents (2021)](https://www.youtube.com/watch?v=_NrV0UegeuM)
+- [How Putin is silencing his opponents (2021)](https://www.youtube.com/watch?v=_NrV0UegeuM) ([Article](https://www.economist.com/leaders/2021/11/13/russias-new-era-of-repression))
 - ["У нас запрет на реальность". Почему в российском кино и сериалах все больше табу (2021)](https://www.bbc.com/russian/features-59255248)
 - [BBC News Русская служба](https://www.bbc.com/russian)
 - [30 лет «шоковой терапии»: Сергей Гуриев о том, что пошло не так в 91-м и кто виноват (2021)](https://www.youtube.com/watch?v=qhOKQPA0llk)
 - [Чем опасно для режима усиление силовиков? Похоже, элиты начали истреблять сами себя (2021)](https://www.youtube.com/watch?v=mnK2O6UkMv8)
+- [Kremlin.ru](http://www.kremlin.ru/)

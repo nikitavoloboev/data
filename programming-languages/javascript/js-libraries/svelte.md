@@ -127,3 +127,4 @@
 - [Compile Svelte in your head](https://lihautan.com/compile-svelte-in-your-head/)
 - [Contributing to Svelte - Implement {#key}](https://lihautan.com/contributing-to-svelte-implement-key-block/)
 - [WebJeda - YouTube](https://www.youtube.com/c/WebJeda/videos)
+- [Would you use Sveltekit for production? (2021)](https://www.reddit.com/r/sveltejs/comments/qt14c6/would_you_use_sveltekit_for_production/)

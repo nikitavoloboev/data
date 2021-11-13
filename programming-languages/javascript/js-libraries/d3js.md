@@ -43,3 +43,4 @@
 - [Data Visualization with D3, React, visx and Typescript (2021)](https://www.youtube.com/playlist?list=PLIHT2Jhq922bBwhH07uT_QRaPCaKZGgR_)
 - [Billboard.js](https://github.com/naver/billboard.js) - Re-usable, easy interface JavaScript chart library based on D3.js.
 - [D3 Charts](https://observablehq.com/@d3/charts?collection=@d3/charts)
+- [Creating a Force Graph using React, D3, and PixiJS (2021)](https://levelup.gitconnected.com/creating-a-force-graph-using-react-d3-and-pixijs-95616051aba)

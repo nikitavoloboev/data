@@ -9,6 +9,7 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [objkt.com](https://objkt.com/) - Largest NFT marketplace on Tezos. ([Tweet](https://twitter.com/objktcom/status/1458853223490592774))
 - [Werenode](http://werenode.com/index.html) - Boost the EV charging network. Make it auditable thanks to Tezos blockchain. ([Reddit](https://www.reddit.com/r/tezos/comments/l3o4cr/werenode/))
 - [hic et nunc](https://hicetnunc.art/) - Smart contracts and distributed systems designs. ([Tweet](https://twitter.com/matdryhurst/status/1458966893503594500)) ([Tweet](https://twitter.com/sableRaph/status/1459151151119704069))
+- [fxhash](https://www.fxhash.xyz/) - Open platform to create and collect generative NFTs on the tezos blockchain.
 
 ## Notes
 

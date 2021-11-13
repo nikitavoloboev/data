@@ -157,3 +157,4 @@
 - [Get started with Web Bundles (2021)](https://web.dev/web-bundles/)
 - [Synthetic Monitoring with Real Browsers](https://github.com/elastic/synthetics)
 - [PrivacyTests.org](https://privacytests.org/) - Open-source tests of web browser privacy. ([Code](https://github.com/arthuredelstein/privacytests.org))
+- [Stringmark](https://www.stringmark.com/) - Chrome extension that makes online research easier. ([HN](https://news.ycombinator.com/item?id=29199004))

@@ -33,3 +33,4 @@
 - [This boat-plane hybrid could transform inter-city travel (2021)](https://edition.cnn.com/travel/article/regent-seaglider-wing-in-ground-effect-vehicle/index.html) ([Tweet](https://twitter.com/billythalheimer/status/1433459258595717122))
 - [Citroën Karin car](https://rarehistoricalphotos.com/citroen-karin-concept-car-photographs/) ([Tweet](https://twitter.com/kevinbaker/status/1450903327475126275))
 - [Surve Mobility](https://survemobility.com/) - Europe’s No 1 for intelligent shared mobility operations. ([GitHub](https://github.com/survemobility))
+- [Tesla's Founders On Elon Musk And The Early Days (2021)](https://www.youtube.com/watch?v=eblPwXFb7TE)
