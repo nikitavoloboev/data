@@ -34,6 +34,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Use a hardware wallet.](https://twitter.com/armaniferrante/status/1444023272836775937)
 - [One of the most obvious flaws in using blockchains for anything involving regular human beings is one I've not seen much discussion of: Regular human beings cannot protect their passwords, credentials or private keys. They just can't. The idea of encouraging anyone who doesn't have a deep understanding of personal information security to attach a sizable portion of their net worth to an irreversible "code is law" distributed system is utterly appalling.](https://twitter.com/simonw/status/1444071543902912513)
 - [Mercury Bank is great for dealing with DeFi, crypto, or NFTs](https://twitter.com/BankMercury/status/1453765293214474242)
+- [Even if tokens are securities, they are securities that fix everything the SEC has ruined in the public markets: 1. Networks launch before all value creation is captured by VCs. 2. Democratic ownership and user ownership and contributor ownership. 3. Fixes problems with stock options.](https://twitter.com/twobitidiot/status/1459497183217164290)
 
 ## Links
 

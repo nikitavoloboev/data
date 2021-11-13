@@ -188,7 +188,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [Argo](https://argoblockchain.com/) - Publicly-traded blockchain technology.
 - [The ABCs of DAOs (2021)](https://1729.com/daos/) ([Tweet](https://twitter.com/brian_armstrong/status/1410280852454400004))
-- [KYVE Network](https://kyve.network/) - Protocol that enables blockchain networks to reliably store and verify their data streams. ([Code](https://github.com/KYVENetwork/kyve)) ([Talk](https://www.youtube.com/watch?v=nBnPElcIV_g))
+- [KYVE Network](https://kyve.network/) - Protocol that enables blockchain networks to reliably store and verify their data streams. ([Code](https://github.com/KYVENetwork/kyve)) ([Talk](https://www.youtube.com/watch?v=nBnPElcIV_g)) ([Investing in KYVE](https://viktorbunin.medium.com/investing-in-kyve-2b87241786b9))
 - [Building Blockchain in Go (2017)](https://jeiwan.net/posts/building-blockchain-in-go-part-1/) ([Code](https://github.com/Jeiwan/blockchain_go))
 - [Pact](https://github.com/kadena-io/pact) - Open-source, Turing-incomplete smart contract language that has been purpose-built with blockchains first in mind.
 - [Theta Blockchain Ledger Protocol](https://github.com/thetatoken/theta-protocol-ledger) - Proof-of-Stake decentralized ledger designed for the video streaming industry. ([Docs](https://docs.thetatoken.org/))

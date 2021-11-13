@@ -356,3 +356,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Hiding in Plain Sight (2021)](https://www.paradigm.xyz/2021/11/hiding-in-plain-sight/) ([Tweet](https://twitter.com/samczsun/status/1458818301199540226))
 - [Studio 721](https://www.721.so/) - Free tool for configuring, compiling, deploying, and verifying custom ERC 721 NFT smart contracts.
 - [Birthblock](https://www.birthblock.art/) - NFT with art and attributes based on the data from your first transaction on Ethereum. ([Tweet](https://twitter.com/BrennerSpear/status/1458946945880244228))
+- [Manipulating Uniswap v3 TWAP Oracles (2021)](https://github.com/euler-xyz/uni-v3-twap-manipulation/blob/master/cost-of-attack.pdf) ([Tweet](https://twitter.com/euler_mab/status/1459314402059034634))
+- [Euler](https://www.euler.finance/#/) - Non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset. ([GitHub](https://github.com/euler-xyz))

@@ -6,6 +6,7 @@
 
 ## Links
 
+- [What is Monero? XMR Explained with Animations (2021)](https://www.youtube.com/watch?v=B7sLnmlZ-kU)
 - [Why Monero (2021)](https://benkaiser.dev/why-monero/) ([HN](https://news.ycombinator.com/item?id=28517870))
 - [Mastering Monero](https://masteringmonero.com/)
 - [Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)
@@ -17,3 +18,4 @@
 - [Monero P2Pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining.
 - [Bitcoin–Monero Cross-chain Atomic Swap](https://github.com/comit-network/xmr-btc-swap)
 - [Monero and Proof of Stake (2021)](https://www.reddit.com/r/Monero/comments/mwppuz/monero_and_proof_of_stake/)
+- [Tari](https://www.tari.com/) - Digital assets focused blockchain protocol that is built in Rust, private by default, open source, and is being architected as a merge-mined sidechain with Monero.

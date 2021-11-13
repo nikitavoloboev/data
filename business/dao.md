@@ -5,6 +5,10 @@
 - [Station](https://www.station.express/) - Connecting people and projects in Web3. ([Twitter](https://twitter.com/0xStation))
 - [Nouns DAO](https://nouns.wtf/) - Generative avatar art collective run by a group of crypto misfits. ([Code](https://github.com/nounsDAO/nouns-monorepo))
 
+## Notes
+
+- [Turns out one of the killer use cases of NFTs has nothing to do with art. Instead they allow the bootstrapping of a community of thousands of smart, hungry people working towards a common goal. all of them sharing ownership and equity.](https://twitter.com/dabit3/status/1459546438531264514)
+
 ## Links
 
 - [What is a DAO in Crypto? (Decentralized Autonomous Organization)](https://www.youtube.com/watch?v=KHm0uUPqmVE)

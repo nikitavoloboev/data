@@ -338,3 +338,5 @@ With that said, no matter what country/community you live in, you have to [do yo
 - [How Putin is silencing his opponents (2021)](https://www.youtube.com/watch?v=_NrV0UegeuM)
 - ["У нас запрет на реальность". Почему в российском кино и сериалах все больше табу (2021)](https://www.bbc.com/russian/features-59255248)
 - [BBC News Русская служба](https://www.bbc.com/russian)
+- [30 лет «шоковой терапии»: Сергей Гуриев о том, что пошло не так в 91-м и кто виноват (2021)](https://www.youtube.com/watch?v=qhOKQPA0llk)
+- [Чем опасно для режима усиление силовиков? Похоже, элиты начали истреблять сами себя (2021)](https://www.youtube.com/watch?v=mnK2O6UkMv8)

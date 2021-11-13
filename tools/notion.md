@@ -29,7 +29,7 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Help & Support](https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004)
 - [My 2020 Setup in Notion](https://joeyabanks.io/notes/my-2020-setup-in-notion)
 - [Notion for Artists and Creatives](https://flowarte.com/notion-for-artists-and-creatives/)
-- [Super](https://super.so/) - Custom domains, fonts, and analytics for Notion.
+- [Super](https://super.so/) - Custom domains, fonts, and analytics for Notion. ([Docs](https://docs.super.so/))
 - [Notion Tools](https://www.notion.so/Notion-Tools-25d054da911344199cdf403cc04f317c)
 - [Notion Landing Pages, Ultimate Guide](https://optemization.com/notion-landing-page-guide)
 - [Notion Automations](https://notion-automations.com/) - Automate your Workflows on Notion with Zapier. ([HN](https://news.ycombinator.com/item?id=24931344))

@@ -117,3 +117,4 @@
 - [next-shopify](https://github.com/basementstudio/next-shopify) - Context, a hook, and an API route handler, to manage a Shopify Storefront in your Next.js app.
 - [Kara's Coffee](https://karas-coffee.web.app/) - Demo ecommerce application showcasing Firebase Extensions and other Firebase products. ([Code](https://github.com/FirebaseExtended/karas-coffee))
 - [EasyPost](https://www.easypost.com/) - Simple Shipping API.
+- [Container Logistics (2021)](https://www.lesswrong.com/posts/PHmYhE4sKnwzYgvkh/a-brief-introduction-to-container-logistics) ([HN](https://news.ycombinator.com/item?id=29205160))

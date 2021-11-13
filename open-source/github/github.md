@@ -301,3 +301,4 @@ Awesome List
 - [goh](https://github.com/breakthatbass/goh) - Navigate github repos in a tui.
 - [Repobeats](https://repobeats.axiom.co/) - Gorgeous embeddable GitHub insights. ([Tweet](https://twitter.com/rauchg/status/1458519720202698759))
 - [auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript.
+- [Archive of GitHub Trending](https://github.com/larsbijl/trending_archive)

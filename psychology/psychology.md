@@ -40,3 +40,4 @@
 - [The Distance Cure: A History of Teletherapy (2021)](https://mitpress.mit.edu/books/distance-cure)
 - [Psychologists who study "stereotype accuracy"](https://twitter.com/spiantado/status/1453779561515159552)
 - [The Melancholy of Subculture Society](https://www.gwern.net/The-Melancholy-of-Subculture-Society) ([HN](https://news.ycombinator.com/item?id=29142614))
+- [Harsh Psychology truths](https://twitter.com/thebrometheus/status/1357419737278386179)

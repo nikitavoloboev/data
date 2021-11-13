@@ -485,3 +485,4 @@
 - [Codecademy Docs](https://www.codecademy.com/resources/docs) - Collection of information for all things code. ([Code](https://github.com/Codecademy/docs))
 - [Responsible and Effective Bugfinding](https://blog.regehr.org/archives/2037)
 - [Which developer are you most inspired by, and why? (2021)](https://twitter.com/themarcba/status/1458483053978869760)
+- [Life is too short to depend on unstable software (2021)](https://blog.sidebits.tech/life-is-too-short-to-depend-on-unstable-software/) ([HN](https://news.ycombinator.com/item?id=29209353))

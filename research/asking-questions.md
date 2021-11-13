@@ -21,6 +21,7 @@ In short, it can be summed down to this:
 - [Half the battle of getting good advice is simply asking the right person.](https://twitter.com/APompliano/status/1384682388140306433)
 - [I catch myself saying “Sorry for being so dense” to colleagues when I don’t know something. There’s nothing to be sorry about. If you don’t have the context, that has nothing to do with your ability to understand it.](https://twitter.com/NovallSwift/status/1408068231449874436)
 - [Tired: Hey I'm looking for advice - do you have 15 min for a coffee chat? Wired: Hey I'm looking for advice - I've written a document about my situation; are you willing to read and provide feedback?](https://twitter.com/gaganbiyani/status/1458483552224366596)
+- [Think in questions, not statements.](https://twitter.com/Kpaxs/status/1459551651325353985)
 
 ## Links
 

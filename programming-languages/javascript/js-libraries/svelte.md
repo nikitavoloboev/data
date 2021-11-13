@@ -123,3 +123,7 @@
 - [URQL Svelte Template Project](https://github.com/JoviDeCroock/urql-svelte-kit)
 - [React Hooks in Svelte](https://github.com/joshnuss/react-hooks-in-svelte)
 - [Starter for Svelte Kit and the Ory Stack](https://github.com/MicLeey/sveltekit-ory-starter)
+- [lihautan - YouTube](https://www.youtube.com/c/lihautan/videos) - Sharing tips on Svelte, React, CSS.
+- [Compile Svelte in your head](https://lihautan.com/compile-svelte-in-your-head/)
+- [Contributing to Svelte - Implement {#key}](https://lihautan.com/contributing-to-svelte-implement-key-block/)
+- [WebJeda - YouTube](https://www.youtube.com/c/WebJeda/videos)

@@ -47,6 +47,7 @@
 - [У нас собеседование не идёт в реальном времени — кандидат пишет текстом большой ответ на все наши вопросы сразу. Общаемся лично только в самом конце. Проверка на культуру — самая сложная. Её надо проводить с минимальным потоком людей, когда отсеяли по остальным критериям](https://twitter.com/andrey_sitnik/status/1419261221681999874)
 - [The best people you hire are awesome pretty much immediately. Slow starters rarely become stars.](https://twitter.com/ShaanVP/status/1424431446823895043)
 - [Mandatory PTO, besides being good for the wellness of the employees, ensures nobody in your org is solely relied on for a task or responsibility. Nobody should be a keystone. Smart leaders should make PTO hours taken over x time a deliverable.](https://twitter.com/r0wdy_/status/1443595429271285762)
+- [Don’t evaluate others based on their function, but rather their contribution to the mission. Recruiters are an extension of your team.](https://twitter.com/laserlikemike/status/1459534198318854151)
 
 ## Links
 

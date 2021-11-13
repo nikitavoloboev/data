@@ -442,3 +442,4 @@
 - [PyGaze](https://www.pygaze.org/) - Open source eye-tracking software and more. ([HN](https://news.ycombinator.com/item?id=29171416))
 - [Exploring Relational Context for Multi-Task Dense Prediction (2021)](https://arxiv.org/abs/2104.13874) ([Code](https://github.com/brdav/atrc))
 - [Neural Scene Graphs for Dynamic Scenes (2021)](https://light.princeton.edu/publication/neural-scene-graphs/) ([Code](https://github.com/princeton-computational-imaging/neural-scene-graphs))
+- [Image Super-Resolution via Iterative Refinement](https://iterative-refinement.github.io/) ([HN](https://news.ycombinator.com/item?id=29202899))

@@ -360,3 +360,5 @@ buttons.forEach((b) => b.click());
 - [Creating Callable Objects in JavaScript (2019)](https://hackernoon.com/creating-callable-objects-in-javascript-d21l3te1)
 - [Reflection at Reflect: The Reflect and Proxy APIs (2021)](https://reflect.run/articles/reflection-at-reflect/)
 - [Deep-copying in JavaScript (2018)](https://surma.dev/things/deep-copy/index.html) ([Tweet](https://twitter.com/DasSurma/status/1456999878798807044))
+- [Reduce minified code size by property mangling](https://lihautan.com/reduce-minified-code-size-by-property-mangling/)
+- [ECMAScript Pattern Matching](https://github.com/tc39/proposal-pattern-matching)

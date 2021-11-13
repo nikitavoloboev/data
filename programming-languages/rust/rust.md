@@ -464,7 +464,7 @@
 - [Async programming in Rust | A video essay (2021)](https://diode.zone/videos/watch/9d0f20fc-6b17-48db-acda-67e0d623814c)
 - [A brief history of Rust at Facebook (2021)](https://engineering.fb.com/2021/04/29/developer-tools/rust/) ([HN](https://news.ycombinator.com/item?id=26982879))
 - [Building an Emulator with Rust](https://read.cv/mehdi/uNGQ7pgWb2CO1QfJkb1n)
-- [Why asynchronous Rust doesn't work (2021)](https://theta.eu.org/2021/03/08/async-rust-2.html) ([HN](https://news.ycombinator.com/item?id=26406989))
+- [Why asynchronous Rust doesn't work (2021)](https://eta.st/2021/03/08/async-rust-2.html) ([HN](https://news.ycombinator.com/item?id=26406989)) ([HN](https://news.ycombinator.com/item?id=29208196))
 - [Rust's Most Unrecognized Contributor (2021)](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor) ([Lobsters](https://lobste.rs/s/nw07cy/rust_s_most_unrecognized_contributor)) ([Reddit](https://www.reddit.com/r/rust/comments/n3ar6s/rusts_most_unrecognized_contributor/))
 - [xargo](https://github.com/japaric/xargo) - Sysroot manager that lets you build and customize `std`.
 - [cargo-xbuild](https://github.com/rust-osdev/cargo-xbuild) - Automatically cross-compiles the sysroot crates core, compiler_builtins, and alloc.
@@ -618,3 +618,4 @@
 - [Rust Is The Future of JavaScript Infrastructure (2021)](https://leerob.io/blog/rust) ([HN](https://news.ycombinator.com/item?id=29192088)) ([Tweet](https://twitter.com/leeerob/status/1458878573532651527))
 - [The Rust compiler has gotten faster again (2021)](https://nnethercote.github.io/2021/11/12/the-rust-compiler-has-gotten-faster-again.html) ([HN](https://news.ycombinator.com/item?id=29194902)) ([Reddit](https://www.reddit.com/r/rust/comments/qryt8m/the_rust_compiler_has_gotten_faster_again/))
 - [What does `&mut &[T]` mean? (2021)](https://ihatereality.space/04-what-mutref-to-slice-ref-means/) ([Lobsters](https://lobste.rs/s/w0buyv/what_does_mut_t_mean))
+- [Rust data structures with circular references (2021)](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/) ([HN](https://news.ycombinator.com/item?id=29207397))

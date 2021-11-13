@@ -221,3 +221,4 @@
 - [DeAI](https://github.com/epfml/DeAI) - Decentralized privacy-preserving ML training software framework, using p2p networking.
 - [Varuna](https://github.com/microsoft/varuna) - Tool for efficient training of large DNN models on commodity GPUs and networking.
 - [reXmeX](https://github.com/AstraZeneca/rexmex) - General purpose recommender metrics library for fair evaluation.
+- [Einshape](https://github.com/deepmind/einshape) - DSL-based reshaping library for JAX and other frameworks.

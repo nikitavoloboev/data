@@ -54,3 +54,4 @@
 - [How to Migrate an App From Webpack to Snowpack (2021)](https://primalskill.blog/how-to-migrate-an-app-from-webpack-to-snowpack)
 - [Why we switched from Webpack to Vite (2021)](https://blog.replit.com/vite) ([HN](https://news.ycombinator.com/item?id=26972400))
 - [Get autocompletion for your webpack config with one line of code](https://twitter.com/Joelbdenning/status/1441146336003325956)
+- [Building a simplified webpack clone](https://lihautan.com/building-a-simplified-webpack-clone/)
