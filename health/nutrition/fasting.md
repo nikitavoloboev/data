@@ -29,3 +29,4 @@ I sometimes do one day fasts but not routinely.
 - [How Often Should You Do Intermittent Fasting? (2019)](https://www.youtube.com/watch?v=ZY0_GoROp6I) ([Tweet](https://twitter.com/IOHK_Charles/status/1407926703108902912))
 - [Intermittent fasting in mice improves long-term memory retention (2021)](https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention) ([HN](https://news.ycombinator.com/item?id=28768146))
 - [Fasting Improves Physiological and Molecular Markers of Aging (2019)](https://www.cell.com/action/showPdf?pii=S1550-4131%2819%2930429-2) ([HN](https://news.ycombinator.com/item?id=29106941))
+- [Intermittent fasting prompts anti-inflammatory response (2021)](https://academic.oup.com/ehjopen/article/1/2/oeab026/6363797) ([HN](https://news.ycombinator.com/item?id=29210352))

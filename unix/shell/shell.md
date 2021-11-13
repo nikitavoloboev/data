@@ -169,3 +169,4 @@ All active variables can be seen by running `env`.
 - [GNU Utility: envsubst](https://pradeepchhetri.xyz/til/envsubst/)
 - [shell.how](https://www.shell.how/) - Write down a command-line to see how it works. ([Code](https://github.com/phuctm97/shell.how))
 - [Useful sed scripts & patterns](https://github.com/adrianscheff/useful-sed) ([HN](https://news.ycombinator.com/item?id=29196221))
+- [nhi](https://github.com/strang1ato/nhi) - Capture every information about each executed command. ([HN](https://news.ycombinator.com/item?id=29205169))

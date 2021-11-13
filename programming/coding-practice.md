@@ -4,7 +4,7 @@
 
 - [LeetCode](https://leetcode.com)
 - [Exercism](https://exercism.io/) ([CLI in Go](https://github.com/exercism/cli)) ([Issues](https://github.com/exercism/exercism))
-- [Project Euler](https://projecteuler.net/archives)
+- [Project Euler](https://projecteuler.net/archives) ([HN](https://news.ycombinator.com/item?id=29211532))
 - [Advent of Code](https://adventofcode.com/) ([Lobsters Promo Thread 2020](https://lobste.rs/s/3uxtgb/advent_code_2020_promotion_thread))
 - [HackerRank](https://www.hackerrank.com/)
 - [HackerEarth](https://www.hackerearth.com/)
