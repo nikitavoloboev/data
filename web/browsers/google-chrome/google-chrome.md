@@ -70,3 +70,4 @@ And here are Chrome extensions I use:
 - [RenderingNG: an architecture that makes and keeps Chrome fast for the long term (2021)](https://blog.chromium.org/2021/10/renderingng.html)
 - [captive-browser](https://github.com/FiloSottile/captive-browser) - Dedicated Chrome instance to log into captive portals without messing with DNS settings. ([Article](https://blog.filippo.io/captive-browser/))
 - [Automa](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/) - Extension for automating your browser by connecting blocks. ([Code](https://github.com/Kholid060/automa))
+- [Introducing Aurora (2021)](https://web.dev/introducing-aurora/) ([Tweet](https://twitter.com/shubhie/status/1459226030883831812))

@@ -59,3 +59,4 @@
 - [I❤️LA](https://github.com/iheartla/iheartla) - Compilable Markdown for Math.
 - [An Introduction to Tensor Calculus](https://grinfeld.org/books/An-Introduction-To-Tensor-Calculus/) ([HN](https://news.ycombinator.com/item?id=28895073))
 - [What is the inverse of a vector? (2021)](https://mattferraro.dev/posts/geometric-algebra) ([HN](https://news.ycombinator.com/item?id=29080360))
+- [Efficient matrix multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)

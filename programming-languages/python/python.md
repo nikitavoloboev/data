@@ -378,3 +378,5 @@ for i, _ in enumerate(nums):
 - [Cython, Rust, and more: choosing a language for Python extensions (2021)](https://pythonspeed.com/articles/rust-cython-python-extensions/)
 - [What Did You Find Hardest To Learn As A Beginner In Python? (2021)](https://www.reddit.com/r/Python/comments/qrd1kj/what_did_you_find_hardest_to_learn_as_a_beginner/)
 - [What are the advanced concepts someone should learn to be considered as an expert in Python? (2021)](https://www.reddit.com/r/Python/comments/qsc3g3/what_are_the_advanced_concepts_someone_should/)
+- [Infinitely Nested Dictionary (2021)](https://susam.in/maze/infinitely-nested-dictionary.html)
+- [Understanding partial functions (2021)](https://www.abhinavomprakash.com/posts/understanding-partial-functions/)

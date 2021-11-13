@@ -78,4 +78,4 @@
 - [ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings to libssh2, an ssh client library.
 - [Simple SSH Security (2021)](https://disknotifier.com/blog/simple-ssh-security/) ([HN](https://news.ycombinator.com/item?id=29153223))
 - [OpenSSH Guide](https://infosec.mozilla.org/guidelines/openssh)
-- [It's Now Possible To Sign Arbitrary Data With Your SSH Keys (2021)](https://www.agwa.name/blog/post/ssh_signatures) ([HN](https://news.ycombinator.com/item?id=29208518))
+- [It's Now Possible To Sign Arbitrary Data With Your SSH Keys (2021)](https://www.agwa.name/blog/post/ssh_signatures) ([HN](https://news.ycombinator.com/item?id=29208518)) ([Lobsters](https://lobste.rs/s/a0byrl/it_s_now_possible_sign_arbitrary_data_with))

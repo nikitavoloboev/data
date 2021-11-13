@@ -67,3 +67,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Backups and Corruption (2021)](https://www.collicutt.co.uk/notebook/backups.html)
 - [What is the best backup solution for self-hosted services? (2021)](https://www.reddit.com/r/selfhosted/comments/qq1zpv/what_is_the_best_backup_solution_for_selfhosted/)
 - [Btrbk](httpvs://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes. ([Web](https://digint.ch/btrbk/))
+- [Frictionless external backups with systemd (2021)](https://jmtd.net/log/systemd_ext_backups/) ([Lobsters](https://lobste.rs/s/wjxxin/frictionless_external_backups_with))

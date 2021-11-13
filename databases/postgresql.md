@@ -357,3 +357,5 @@
 - [Lesser Known PostgreSQL Features (2021)](https://hakibenita.com/postgresql-unknown-features) ([Lobsters](https://lobste.rs/s/rhrj2z/lesser_known_postgresql_features)) ([HN](https://news.ycombinator.com/item?id=29163319))
 - [pg_probackup](https://github.com/postgrespro/pg_probackup) - Backup and recovery manager for PostgreSQL. ([Docs](https://postgrespro.github.io/pg_probackup/))
 - [pgquarrel](https://github.com/eulerto/pgquarrel) - Program that compares PostgreSQL database schemas (DDL).
+- [Scaling Postgres Episodes - YouTube](https://www.youtube.com/playlist?list=PLdTaEgcmPg9Kl539gyIFtWL0-cqk3m7v9)
+- [PostgreSQL Tutorials - YouTube](https://www.youtube.com/playlist?list=PLdTaEgcmPg9KiTCPWh-K961tiZrvhgfFu)

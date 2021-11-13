@@ -23,3 +23,4 @@ Like using [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 - [Issue / Proposed Solution template](https://docs.google.com/document/d/10JEFVl3pEk7HUT82oM3LbHtP8hRQvlzK9SQyuJFMyCo/edit#)
 - [Mochary Method Class](https://lu.ma/4d7518ej)
 - [Decision Making Under Uncertainty with POMDPs.jl](https://github.com/JuliaAcademy/Decision-Making-Under-Uncertainty)
+- [Does data make us cowards? (2021)](https://benn.substack.com/p/does-data-make-us-cowards) - About making hard decisions.

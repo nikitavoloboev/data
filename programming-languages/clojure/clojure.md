@@ -171,3 +171,5 @@
 - [Clojure Experience Report (2020)](https://www.collicutt.co.uk/notebook/clojure_experience.html)
 - [Writing a Clojure highlighter from scratch (2021)](https://blog.michielborkent.nl/writing-clojure-highlighter.html)
 - [Why Clojure is great (2021)](https://twitter.com/furkan3ayraktar/status/1458503075547787266)
+- [Macrobrew: Clojure macros distilled (2021)](https://www.abhinavomprakash.com/posts/macrobrew/)
+- [Clojure Tutorial for Beginners (2021)](https://www.abhinavomprakash.com/posts/clojure-tutorial-for-beginners-1/)

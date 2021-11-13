@@ -21,3 +21,4 @@
 - [How to get better at recursion (2021)](https://notes.eatonphil.com/practicing-recursion.html)
 - [Unifying Structured Recursion Schemes (2013)](https://www.cs.ox.ac.uk/people/nicolas.wu/papers/URS.pdf)
 - [Program Reduction: A Win for Recursion Schemes (2018)](http://newartisans.com/2018/04/win-for-recursion-schemes/)
+- [Recursion is recursion is recursion is... (2021)](https://www.abhinavomprakash.com/posts/recursion/)
