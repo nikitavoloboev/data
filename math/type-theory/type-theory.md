@@ -156,3 +156,5 @@
 - [How to define a PER model (2020)](https://blog.jonmsterling.com/How-to-define-a-PER-model-95a7413ee12444f899536f67bbaea28e)
 - [Grothendieck's Pursuing Stacks (1983)](https://agrothendieck.github.io/divers/ps.pdf) ([Code](https://github.com/thescrivener/PursuingStacks))
 - [Should Type Theory replace Set Theory as the Foundation of Mathematics (2021)](https://arxiv.org/abs/2111.06368)
+- [Implementation of a Zeilberger-style linear type theory](https://github.com/Trebor-Huang/agda-linear)
+- [TypicalMath](https://github.com/Trebor-Huang/typical-math) - General-purpose type theory and proof checker generator.

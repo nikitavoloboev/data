@@ -211,3 +211,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [diskspace](https://github.com/scriptingosx/diskspace) - macOS command line tool to return the available disk space on APFS volumes.
 - [PlayCover](https://github.com/iVoider/PlayCover) - Run iOS apps & games on M1 Mac with mouse, keyboard and controller support.
 - [Sideload iOS apps regardless of security settings](https://github.com/EricRabil/m1-ios-sideloader)
+- [node-mac-userdefaults](https://github.com/codebytere/node-mac-userdefaults) - Native Node.js module that provides an interface to the user’s defaults database on macOS.

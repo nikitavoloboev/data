@@ -597,3 +597,4 @@
 - [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modelingvon (2018)](https://arxiv.org/abs/1803.01271) ([Code](https://github.com/locuslab/TCN))
 - [Model compression via distillation and quantization (2019)](https://arxiv.org/abs/1802.05668) ([Code](https://github.com/antspy/quantized_distillation))
 - [ML Collective](https://mlcollective.org/) - Independent, nonprofit organization with a mission to make research opportunities accessible and free. ([Classics and Trends](https://mlcollective.org/dlct/))
+- [Awesome MLOps](https://github.com/kelvins/awesome-mlops)

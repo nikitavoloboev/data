@@ -1061,6 +1061,7 @@
 - [GAAD](https://github.com/Comcast/gaad) - Go Advanced Audio Decoder.
 - [modbus](https://github.com/goburrow/modbus) - Fault-tolerant, fail-fast implementation of Modbus protocol in Go.
 - [packngo](https://github.com/packethost/packngo) - Go client for the Equinix Metal API.
+- [HybridCache](https://github.com/cshum/hybridcache) - Multi-level cache library with cache stampede prevention for Go.
 
 ## Links
 

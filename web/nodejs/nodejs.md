@@ -276,3 +276,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [p4ssw0rd](https://github.com/Munkkeli/p4ssw0rd) - Hash passwords with SHA-256 + bcrypt in Node.js.
 - [A Guide to Load Testing Node.js APIs with Artillery (2021)](https://blog.appsignal.com/2021/11/10/a-guide-to-load-testing-nodejs-apis-with-artillery.html)
 - [find-my-way](https://github.com/delvedor/find-my-way) - Crazy fast HTTP router.
+- [fastest-validator](https://github.com/icebob/fastest-validator) - Fastest JS validator library for NodeJS | Browser | Deno.

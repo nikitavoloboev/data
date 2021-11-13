@@ -244,3 +244,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Amazon EKS Workshop](https://www.eksworkshop.com/) ([Code](https://github.com/aws-samples/eks-workshop))
 - [The CDK Book](https://thecdkbook.com/) - Comprehensive Guide to the AWS Cloud Development Kit.
 - [Querying AWS at scale across APIs, regions, and accounts (2021)](https://aws.amazon.com/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/) ([HN](https://news.ycombinator.com/item?id=29191428))
+- [go-aws-sso](https://github.com/theurichde/go-aws-sso) - Makes dealing with AWS SSO Logins an ease.
+- [Amazon Web Services (AWS) Pulumi resource package](https://github.com/pulumi/pulumi-aws) - Providing multi-language access to AWS.

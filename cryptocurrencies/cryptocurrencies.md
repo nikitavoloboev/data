@@ -177,3 +177,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [XCAD Network](https://xcadnetwork.com/) - Global platform harnessing the power and value of Content Creator audiences via Creator tokenization.
 - [What CryptoCurrencies have you personally found legitimate use cases for? (2021)](https://www.reddit.com/r/CryptoCurrency/comments/qrwwpw/what_cryptocurrencies_have_you_personally_found/)
 - [Tokemak](https://www.tokemak.xyz/) - Utility for Sustainable DeFi Liquidity. ([Twitter](https://twitter.com/tokenreactor)) ([Article](https://medium.com/tokemak/introducing-tokemak-the-utility-for-sustainable-liquidity-8b99a4757301))
+- [Coinbase Pro client for Rust](https://github.com/inv2004/coinbase-pro-rs)

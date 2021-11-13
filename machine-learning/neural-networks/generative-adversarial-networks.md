@@ -58,7 +58,7 @@
 - [StackGAN-v2](https://github.com/hanzhanggit/StackGAN-v2) - PyTorch implementation.
 - [Self-Attention-GAN TensorFlow](https://github.com/taki0112/Self-Attention-GAN-Tensorflow)
 - [Self-Attention GAN PyTorch](https://github.com/heykeetae/Self-Attention-GAN)
-- [StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a PyTorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
+- [StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a PyTorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation. ([Reddit](https://www.reddit.com/r/MachineLearning/comments/qt10az/project_pytorch_implementations_of_37_gan_papers/))
 - [Implementation of an extremely 'lightweight' GAN proposed in ICLR 2021, in PyTorch](https://github.com/lucidrains/lightweight-gan)
 - [Instance Selection for GANs](https://github.com/uoguelph-mlrg/instance_selection_for_gans)
 - [StyleGAN2 with adaptive discriminator augmentation (ADA) in TensorFlow](https://github.com/dvschultz/stylegan2-ada)

@@ -2,6 +2,7 @@
 
 ## Links
 
+- [PureScript by Example](https://book.purescript.org/) ([Code](https://github.com/purescript-contrib/purescript-book))
 - [Purescript Concur](https://github.com/ajnsit/purescript-concur) - Brand new client side Web UI framework that explores an entirely new paradigm.
 - [vidtracker](https://github.com/justinwoo/vidtracker) - Small, "full-stack" Purescript "video tracker" for me to track what shows I've watched locally.
 - [vt](https://github.com/justinwoo/vt) - Vidtracker but with a Rust backend. PureScript frontend.
