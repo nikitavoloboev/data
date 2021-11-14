@@ -19,6 +19,7 @@
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Complete my [6 life habits](habits.md).
 - [Don't judge/hate anyone](https://www.goodreads.com/quotes/7684047-hate-is-like-a-poison-you-make-for-your-enemy). Attempt to see another person's point of view. [Be kind](https://twitter.com/ainhoamarzol/status/1393691237107093505). Show love & empathy. Self love. [No ego](../consciousness/ego.md).
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Seek & give candid feedback. Respond politely.
+- Always seek to improve and change myself, not others. [Grass is not greener on the other side, it's greener where you water it](https://coachcarly.com/blogs/the-grass-isnt-greener-on-the-other-side-its-greener-where-you-water-it/). Don't dwell on imperfections, find beauty in everything.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits. Seek new novel experiences/relationships. Collect stories.
 - Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Let past go. Don't fixate on anything. Anything outside of this moment is imagination. Move onwards. Live through each moment.
@@ -81,7 +82,7 @@
 - Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Add useful details where needed.
 - Remove unnecessary and [filler words](../writing/writing.md#dont-use). Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
 - Don't assume and say that something is straightforward or clear.
-- Don't write assertively when reflecting on personal experiences (no `should do`, `you have to`, `do ..`). Instead say it from personal point of view (`I try`, `I seek`). Does not apply for docs/guidelines (where assertion is useful and needed).
+- Don't write assertively when reflecting on personal experiences (no `should do`, `you have to`, `do ..`). Instead say it from personal point of view (`I try`, `I seek`). Does not apply to docs/guidelines (where assertion is useful and needed).
 - Writing/teaching in earliest stages of understanding something is most valuable as you haven't built any biases and approach thing with a fresh mind. Its okay to be wrong (sincerely) and update my writing based off new constructive feedback.
 - Minimize use of articles (`a`, `an`, `the`) as they in most cases add noise.
 - Hyperlink words/phrases appropriately. Use descriptive link labels ([no `this`](https://lobste.rs/s/absbtc/search_personal_websites)).
@@ -244,6 +245,8 @@
 - Use same username on all services. Preferred (`nikivi`). If service requires full name, use it (`nikitavoloboev`). If `nikivi` is taken, can use `nikiv` or `nikiv_`.
 - Interact with content/discussions freely. Upvote/Like things appropriately. Can later index & search this data.
 - Quality of followers > Quantity. Try cultivate positive online experiences. Filter out negativity.
+- Don't be afraid to express myself (without hurting someone deliberately) out of fear I will get unfollowed/blocked/mocked. It's just [their opinion](https://www.youtube.com/watch?v=Z-xI1384Ry4), I have mine.
+- Be open to change. But never ignore my principles/rules (respect my boundaries). My personal happiness and mental well being always comes first.
 
 ## Web
 

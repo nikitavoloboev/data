@@ -503,3 +503,4 @@
 - [Clusternet](https://github.com/clusternet/clusternet) - Managing Your Clusters (including public, private, hybrid, edge, etc) as easily as Visiting the Internet.
 - [Build a Platform with KRM](https://github.com/askmeegs/build-a-platform-with-krm) - Build a platform with the Kubernetes resource model.
 - [Giant Swarm](https://www.giantswarm.io/) - Managed Kubernetes as a Service. ([GitHub](https://github.com/giantswarm))
+- [Loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes.

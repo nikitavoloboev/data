@@ -598,3 +598,4 @@
 - [Model compression via distillation and quantization (2019)](https://arxiv.org/abs/1802.05668) ([Code](https://github.com/antspy/quantized_distillation))
 - [ML Collective](https://mlcollective.org/) - Independent, nonprofit organization with a mission to make research opportunities accessible and free. ([Classics and Trends](https://mlcollective.org/dlct/))
 - [Awesome MLOps](https://github.com/kelvins/awesome-mlops)
+- [Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) ([Code](https://github.com/ziritrion/ml-zoomcamp))

@@ -197,6 +197,8 @@
 - [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS devices using BLE.
 - [Yoshi](https://github.com/prolificinteractive/Yoshi) - Convenient wrapper around the UI code that is often needed for displaying debug menus.
 - [MeshKit](https://github.com/EthanLipnik/MeshKit) - Powerful and easy to use live mesh gradient renderer for iOS.
+- [GSMessages](https://github.com/wxxsw/GSMessages) - Simple style messages/notifications, in Swift.
+- [Swash](https://github.com/Mindgrub/Swash) - Fonts in iOS made safe, expressive, and dynamic.
 
 ## macOS
 

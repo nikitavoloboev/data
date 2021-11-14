@@ -207,6 +207,7 @@
 - [Retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs.
 - [h2conn](https://github.com/posener/h2conn) - HTTP2 client-server full-duplex connection.
 - [go-sockaddr](https://github.com/hashicorp/go-sockaddr) - IP Address/UNIX Socket convenience functions.
+- [go-webview2](https://github.com/jchv/go-webview2) - WebView2 bindings for pure Go, without CGo, based on the webview/webview bindings.
 
 ## GraphQL
 
@@ -1062,6 +1063,7 @@
 - [modbus](https://github.com/goburrow/modbus) - Fault-tolerant, fail-fast implementation of Modbus protocol in Go.
 - [packngo](https://github.com/packethost/packngo) - Go client for the Equinix Metal API.
 - [HybridCache](https://github.com/cshum/hybridcache) - Multi-level cache library with cache stampede prevention for Go.
+- [zerodriver](https://github.com/hirosassa/zerodriver) - Zerolog based logging library optimized for Cloud Logging.
 
 ## Links
 

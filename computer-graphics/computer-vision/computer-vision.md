@@ -443,3 +443,4 @@
 - [Exploring Relational Context for Multi-Task Dense Prediction (2021)](https://arxiv.org/abs/2104.13874) ([Code](https://github.com/brdav/atrc))
 - [Neural Scene Graphs for Dynamic Scenes (2021)](https://light.princeton.edu/publication/neural-scene-graphs/) ([Code](https://github.com/princeton-computational-imaging/neural-scene-graphs))
 - [Image Super-Resolution via Iterative Refinement](https://iterative-refinement.github.io/) ([HN](https://news.ycombinator.com/item?id=29202899))
+- [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning (2021)](https://openreview.net/forum?id=nBU_u6DLvoK) ([Code](https://github.com/lucidrains/uniformer-pytorch))

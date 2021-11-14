@@ -112,3 +112,4 @@
 - [Implicit Behavioral Cloning (2021)](https://implicitbc.github.io/) ([Code](https://github.com/google-research/ibc))
 - [STORM](https://github.com/NVlabs/storm) - Stochastic Tensor Optimization for Robot Motion - A GPU Robot Motion Toolkit.
 - [Geometry-ware multi-task policy can not only manipulate 100+ objects but also outperform single-task RL experts](https://twitter.com/pathak2206/status/1458883761555206149)
+- [SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation (2020)](https://sites.google.com/view/softgym/home) ([Code](https://github.com/Xingyu-Lin/softgym))
