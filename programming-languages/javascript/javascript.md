@@ -45,6 +45,22 @@ var buttons = Array.from(inputs).map((e) => e.parentElement.parentElement);
 buttons.forEach((b) => b.click());
 ```
 
+```js
+// start/close PiP video from currently open tab
+var video = document.querySelectorAll("video")[0];
+if (
+  video !== undefined &&
+  video.webkitSupportsPresentationMode &&
+  typeof video.webkitSetPresentationMode === "function"
+) {
+  video.webkitSetPresentationMode(
+    video.webkitPresentationMode === "picture-in-picture"
+      ? "inline"
+      : "picture-in-picture"
+  );
+}
+```
+
 ## Links
 
 - [JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)

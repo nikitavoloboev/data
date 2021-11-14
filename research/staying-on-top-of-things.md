@@ -155,6 +155,7 @@ And these Discord servers:
 - [Eye on Design](https://eyeondesign.aiga.org/)
 - [Current Affairs](https://www.currentaffairs.org/)
 - [ScienceAlert](https://www.sciencealert.com/) - The Best in Science News and Amazing Breakthroughs.
+- [Coffee or Die Magazine](https://coffeeordie.com/)
 
 ### Other
 
