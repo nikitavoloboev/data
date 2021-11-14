@@ -612,3 +612,4 @@ if err != nil {
 - [Go Vulnerability Database](https://github.com/golang/vulndb)
 - [Wild Workouts](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [Best ways to learn Go for experienced devs (2021)](https://twitter.com/dabeaz/status/1459167457969639444)
+- [Maintainable Go Projects (2021)](https://huseyinbabal.com/2021/11/14/maintainable-go-projects/)

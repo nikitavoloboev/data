@@ -10,3 +10,4 @@
 - [Awesome Redwood](https://github.com/redwoodjs/awesome-redwood)
 - [Tom Preston-Werner on RedwoodJS | React Podcast (2020)](https://reactpodcast.simplecast.com/episodes/117)
 - [Build a full-stack app with RedwoodJS and GraphQL (2020)](https://hasura.io/blog/redwoodjs-with-graphql-hasura/)
+- [I tried RedwoodJS - Fullstack Framework for Startups? (2021)](https://www.youtube.com/watch?v=qAHTAYAh9zk)

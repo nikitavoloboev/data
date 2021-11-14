@@ -148,3 +148,4 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Tulip Protocol](https://tulip.garden/) - Efficient Solana Yield Aggregator. ([GitHub](https://github.com/sol-farm))
 - [Solana JSON-RPC caching server](https://github.com/zubr-exchange/cacherpc)
 - [Solana Breakpoint Conference](https://solana.com/breakpoint) ([Reddit](https://www.reddit.com/r/solana/comments/qpjlmm/solana_breakpoint_2021_events_starts_november_8/))
+- [Secretum](https://secretum.io/) - Secure Messaging & Trading dapp on Solana.

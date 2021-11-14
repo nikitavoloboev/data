@@ -74,4 +74,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notero](https://github.com/dvanoni/notero) - Zotero plugin that syncs items into a Notion database when added to a specific collection.
 - [NotionSwift](https://github.com/chojnac/NotionSwift) - Unofficial Notion API SDK for iOS & macOS.
 - [7 tools we built on Notion instead of buying (2021)](https://www.notion.so/blog/7-tools-we-built-on-notion)
-- [How I use Notion (2021)](https://reasonabledeviations.com/2021/09/18/how-i-use-notion/)
+- [How I use Notion (2021)](https://reasonabledeviations.com/2021/09/18/how-i-use-notion/) ([HN](https://news.ycombinator.com/item?id=29195417))

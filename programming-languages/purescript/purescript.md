@@ -38,3 +38,4 @@
 - [PureNix](https://github.com/purenix-org/purenix) - Nix backend for PureScript. Transpile PureScript code to Nix.
 - [Dovetail](https://github.com/paf31/dovetail) - General-purpose PureScript interpreter written in Haskell.
 - [HTTPure](https://github.com/cprussin/purescript-httpure) - Web framework written in PureScript.
+- [dovetail](https://hackage.haskell.org/package/dovetail) - PureScript interpreter with a Haskell FFI.

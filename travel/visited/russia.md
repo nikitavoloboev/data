@@ -343,3 +343,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Kremlin.ru](http://www.kremlin.ru/)
 - [Жертвы политического террора в СССР](https://base.memo.ru/) - Более 3 000 000 записей в базе.
 - [Личное дело каждого](https://dostup.memo.ru/)
+- [Введение в феминизм](https://twitter.com/SunnySwamp/status/1388833195353903111)
