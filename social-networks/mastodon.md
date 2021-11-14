@@ -24,3 +24,4 @@
 - [HN: Mastodon (2021)](https://news.ycombinator.com/item?id=28950727)
 - [Masto.js](https://github.com/neet/masto.js) - Mastodon API client for JavaScript, TypeScript, Node.js, browsers.
 - [Mastodon iOS App Code](https://github.com/mastodon/mastodon-ios)
+- [tootstream](https://github.com/magicalraccoon/tootstream) - Command line interface for interacting with Mastodon instances.

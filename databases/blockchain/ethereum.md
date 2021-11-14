@@ -13,6 +13,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 ## Links
 
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+- [Solidity by Example](https://solidity-by-example.org/) - Introduction to Solidity with simple examples. ([Code](https://github.com/solidity-by-example/solidity-by-example.github.io))
 - [When New Tech and Dated Policies Collide a Conversation with Vitalik Buterin](https://www.youtube.com/watch?v=KlIFQ7GIdBA&t=2s)
 - [Dapp](https://github.com/dapphub/dapp) - Simple tool for creating Ethereum-based dapps.
 - [Ethereum FAQ](http://www.ethdocs.org/en/latest/frequently-asked-questions/frequently-asked-questions.html#what-is-ethereum)

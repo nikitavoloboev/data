@@ -191,6 +191,7 @@
 - [typescript-monads](https://github.com/patrickmichalina/typescript-monads) - Write safer TypeScript using Maybe, List, Result, and Either monads.
 - [Splide](https://github.com/Splidejs/splide) - Lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [Decoders](https://github.com/nvie/decoders) - Elegant and battle-tested validation library for type-safe input data for TypeScript.
+- [B+ tree](https://github.com/qwertie/btree-typescript) - B+ trees are ordered collections of key-value pairs, sorted by key.
 
 ## Links
 

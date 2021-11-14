@@ -33,6 +33,7 @@
 - [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables. ([Web](https://pikax.me/vue-composable/))
 - [Ream](https://github.com/ream/ream) - Full-stack framework for building web apps, powered by Vue 3.
 - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator. ([Awesome VuePress](https://github.com/vuepress/awesome-vuepress))
+- [VuePress 2](https://github.com/vuepress/vuepress-next) ([Web](https://v2.vuepress.vuejs.org/))
 - [Using State Machines in Vue.js with XState (2020)](https://frontstuff.io/using-state-machines-in-vuejs-with-xstate)
 - [swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 - [What Vue.js Does Better Than React (2020)](https://hswolff.com/blog/what-vuejs-does-better-than-react/)

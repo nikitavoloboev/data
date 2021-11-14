@@ -96,3 +96,4 @@
 - [A Common-Sense Guide to Data Structures and Algorithms Book (2017)](https://www.goodreads.com/en/book/show/34695800)
 - [Array Layouts for Comparison-Based Searching (2015)](https://arxiv.org/abs/1509.05053) ([Lobsters](https://lobste.rs/s/jdxjm8/array_layouts_for_comparison_based))
 - [The Great Tree-List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.html) ([HN](https://news.ycombinator.com/item?id=29067098))
+- [On Dynamic Succinct Graph Representations (2020)](https://ieeexplore.ieee.org/document/9105823) ([Code](https://github.com/aplf/sdk2tree))

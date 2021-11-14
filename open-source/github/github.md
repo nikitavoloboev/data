@@ -302,3 +302,4 @@ Awesome List
 - [Repobeats](https://repobeats.axiom.co/) - Gorgeous embeddable GitHub insights. ([Tweet](https://twitter.com/rauchg/status/1458519720202698759))
 - [auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript.
 - [Archive of GitHub Trending](https://github.com/larsbijl/trending_archive)
+- [GitMan](https://github.com/fabiospampinato/gitman) - Simple yet powerful opinionated tool for managing GitHub repositories.

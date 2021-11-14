@@ -61,6 +61,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Opus](https://github.com/pacocoursey/Opus) - Minimal note-taking app.
 - [React Oxide](https://github.com/bootrino/reactoxide) - open source ReactJS code editor with tabs, files & webDAV. ([HN](https://news.ycombinator.com/item?id=28702006))
 - [Tincta](https://github.com/CodingFriends/Tincta) - Free text editor for Mac with focus on speed, stability and ease of use.
+- [Zee](https://github.com/mcobzarenco/zee) - Modern text editor for the terminal written in Rust.
 
 ## Web
 
@@ -144,3 +145,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Thoughts on Structured Editing: Breaking Away from Syntax (2020)](https://mbuffett.com/posts/structured-editing-syntax/)
 - [Subtext](https://github.com/gordonbrander/subtext) - Text-based, block-oriented hypertext format.
 - [Vite Plugin Monaco Editor](https://github.com/vdesjs/vite-plugin-monaco-editor) - Plugin to simplify loading the Monaco Editor with vite.
+- [prisma/text-editors](https://github.com/prisma/text-editors) - Exports a bunch of batteries-included code editors for Typescript, JSON, SQL & Prisma Schemas.

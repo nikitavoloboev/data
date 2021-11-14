@@ -75,3 +75,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Element One](https://ems.element.io/element-one) - All of Matrix, WhatsApp, Signal and Telegram in one place. ([Article](https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/)) ([HN](https://news.ycombinator.com/item?id=28997898))
 - [Is Matrix less private than other E2EE messaging protocols? (2019)](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md) ([HN](https://news.ycombinator.com/item?id=29105098))
 - [Hemppa](https://github.com/vranki/hemppa) - Generic modular bot for Matrix.
+- [Matrix Discord Bridge](https://github.com/Half-Shot/matrix-appservice-discord)
