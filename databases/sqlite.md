@@ -114,3 +114,4 @@
 - [SQLite Index Recommendations](https://pradeepchhetri.xyz/til/expert/)
 - [APSW](https://github.com/rogerbinns/apsw) - Python SQLite wrapper.
 - [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite.
+- [deno_sqlite3](https://github.com/littledivy/deno_sqlite3) - Non-blocking, asynchronous FFI bindings to SQlite3.

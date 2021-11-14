@@ -227,3 +227,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [How to invest in ETFs w/ Cullen Roche (2021)](https://overcast.fm/+I6zEe-P5A)
 - [Understanding Candlestick Charts for Beginners (2015)](https://www.youtube.com/watch?v=1rwVV_8uUxc)
 - [Is Dollar-Cost Averaging Better Than Lump-Sum Investing? (2020)](https://www.youtube.com/watch?v=nCp2bZbaBdw)
+- [Portfolio Performance](https://www.portfolio-performance.info/en/) - Open source tool to calculate the overall performance of an investment portfolio - across all accounts. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qtc4p5/portfolio_tracker_for_degiro_users/))

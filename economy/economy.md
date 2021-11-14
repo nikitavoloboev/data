@@ -110,3 +110,4 @@
 - [Indexing the creator economy (2021)](https://stripe.com/blog/creator-economy) ([Tweet](https://twitter.com/edwinwee/status/1451188399629500422))
 - [Collection of economic resources introducing neoclassical and Austrian economics](https://github.com/Sword-Smith/economics)
 - [Financial innovations brought by technology (2021)](https://bam.kalzumeus.com/archive/financial-innovation-is-happening/) ([HN](https://news.ycombinator.com/item?id=29039345))
+- [Why Everything is Suddenly Getting More Expensive — And Why It Won’t Stop (2021)](https://eand.co/why-everything-is-suddenly-getting-more-expensive-and-why-it-wont-stop-cbf5a091f403)

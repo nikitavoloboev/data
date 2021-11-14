@@ -341,3 +341,5 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [30 лет «шоковой терапии»: Сергей Гуриев о том, что пошло не так в 91-м и кто виноват (2021)](https://www.youtube.com/watch?v=qhOKQPA0llk)
 - [Чем опасно для режима усиление силовиков? Похоже, элиты начали истреблять сами себя (2021)](https://www.youtube.com/watch?v=mnK2O6UkMv8)
 - [Kremlin.ru](http://www.kremlin.ru/)
+- [Жертвы политического террора в СССР](https://base.memo.ru/) - Более 3 000 000 записей в базе.
+- [Личное дело каждого](https://dostup.memo.ru/)
