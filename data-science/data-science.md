@@ -212,3 +212,4 @@
 - [Evidence](https://www.evidence.dev/) - Enables analysts to deliver a polished business intelligence system using SQL and markdown. ([Code](https://github.com/evidence-dev/evidence))
 - [Future of Data Work: Collaboration and No Limits (2021)](https://observablehq.com/@observablehq/future-of-data-work-collaboration-and-no-limits)
 - [Rows](https://rows.com/) - Spreadsheet where teams work faster.
+- [RDMkit](https://rdmkit.elixir-europe.org/) - Online guide containing good data management practices applicable to research projects from the beginning to the end. ([Code](https://github.com/elixir-europe/rdmkit))

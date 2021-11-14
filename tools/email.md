@@ -191,3 +191,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [mail-parser](https://github.com/stalwartlabs/mail-parser) - Fast and robust e-mail parsing library for Rust.
 - [Server Accepts Email](https://github.com/LinusU/server-accepts-email) - Check if an SMTP server accepts emails to a given address.
 - [mailparse](https://github.com/staktrace/mailparse) - Rust library to parse mail files.
+- [Nexium](https://github.com/nexiumapp/nexium) - Next generation email server in Rust.

@@ -277,3 +277,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [A Guide to Load Testing Node.js APIs with Artillery (2021)](https://blog.appsignal.com/2021/11/10/a-guide-to-load-testing-nodejs-apis-with-artillery.html)
 - [find-my-way](https://github.com/delvedor/find-my-way) - Crazy fast HTTP router.
 - [fastest-validator](https://github.com/icebob/fastest-validator) - Fastest JS validator library for NodeJS | Browser | Deno.
+- [fast-gateway](https://github.com/BackendStack21/fast-gateway) - Super fast, framework agnostic Node.js API Gateway for the masses. ([Article](https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c))

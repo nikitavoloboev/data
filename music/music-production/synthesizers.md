@@ -38,5 +38,5 @@
 - [The Signal State](https://signalstate.io/) - Game about making modular synths. ([Tweet](https://twitter.com/notch/status/1449855636842311680))
 - [I built an analog synthesizer from scratch. Here is how I did it. (2021)](https://www.youtube.com/watch?v=PATlf0W3m7k)
 - [OctaSine](https://github.com/greatest-ape/OctaSine) - VST2 frequency modulation synthesizer written in Rust.
-- [Inside of Yamaha DX7 synthesizer](https://twitter.com/kenshirriff/status/1459572903213613056)
+- [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html) ([Tweet](https://twitter.com/kenshirriff/status/1459572903213613056))
 - [What Makes It Sound ’80s? Yamaha DX7 Electric Piano Sound](https://meganlavengood.com/wp-content/uploads/2019/09/Lavengood-2019-%E2%80%9CWhat-Makes-It-Sound-%E2%80%9980s%E2%80%9D-The-Yamaha-DX7-Electr.pdf) ([Tweet](https://twitter.com/kenshirriff/status/1459579767410216963))

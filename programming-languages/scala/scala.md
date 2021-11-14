@@ -17,7 +17,7 @@
 - [scala-steward](https://github.com/fthomas/scala-steward) - Robot that helps you keeping your Scala projects up-to-date.
 - [Mill](https://github.com/lihaoyi/mill) - Your shiny new Java/Scala build tool. ([Build Tool based on Pure Functional Programming](https://www.youtube.com/watch?v=j6uThGxx-18))
 - [Functional Programming for Mortals with Scala book](https://leanpub.com/fpmortals/read)
-- [Functional Programming in Scala book](https://www.manning.com/books/functional-programming-in-scala)
+- [Functional Programming in Scala Book](https://www.manning.com/books/functional-programming-in-scala) ([Review](https://www.youtube.com/watch?v=SehqPOijwUg))
 - [Scala Almost Succeeded (2019)](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5) ([Lobsters](https://lobste.rs/s/ku13t3/scala_almost_succeeded))
 - [Scala Exercises](https://www.scala-exercises.org/) - Easy way to learn Scala. ([Code](https://github.com/scala-exercises/scala-exercises))
 - [Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"](https://github.com/fpinscala/fpinscala)
