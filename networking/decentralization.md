@@ -111,3 +111,4 @@
 - [Fission](https://fission.codes/) - Bringing decentralized web tech to all devs by solving today’s challenges. ([Twitter](https://twitter.com/FISSIONcodes)) ([CLI & server](https://github.com/fission-suite/fission))
 - [Web3 Ecosystem Overview (2021)](https://twitter.com/yb_effect/status/1458129586428932103)
 - [Notes on Web3: Meager counterweight to the growing hype (2021)](https://society.robinsloan.com/archive/notes-on-web3/) ([Tweet](https://twitter.com/rich_harris/status/1458815995523514372))
+- [On falling down the rabbit hole (web3) (2021)](https://mirror.xyz/theodorachu.eth/TJU1w2Z49KvzcrKnPEwJodTvBDWLLyjtWKXvhrFz1Rs) ([Tweet](https://twitter.com/chu_onthis/status/1459619112003555328))

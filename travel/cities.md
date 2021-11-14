@@ -43,3 +43,4 @@
 - [Our self imposed scarcity of nice places (2021)](https://www.strongtowns.org/journal/2021/11/3/our-self-imposed-scarcity-of-nice-places) ([HN](https://news.ycombinator.com/item?id=29104323))
 - [Ask HN: What's your ideal city in a 100% remote world? (2021)](https://news.ycombinator.com/item?id=29120254)
 - [Introducing Praxis (2021)](https://mirror.xyz/0x7a02D50B22cC79a3dc667E80B413996b81f5ED6E/ZIUh2ni7rm7j7IaxyLJMtJT5KzbU9xg6P-SQbSJhHj4) - Building the city-cryptostate to realize a more vital future. ([Tweet](https://twitter.com/drydenwtbrown/status/1459286570071113730))
+- [Urban planning of Barcelona](https://twitter.com/MarkTomasovic/status/1459318924701585410)

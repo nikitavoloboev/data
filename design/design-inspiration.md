@@ -241,6 +241,7 @@ Here are few more things I liked, design wise.
 - [Amanda Pinsker](https://amandapinsker.com/) ([Code](https://github.com/ampinsk/ampinsk.github.io))
 - [Kyle Mitchell](https://writing.kemitchell.com/) ([Code](https://github.com/kemitchell/writing.kemitchell.com))
 - [Stefan Judis](https://www.stefanjudis.com/)
+- [Jane Flowers](https://jane.flowers/)
 - [Louis Pilfold](https://lpil.uk/) ([Code](https://github.com/lpil/lpil.github.io))
 - [Fabian Tamp](https://capnfabs.net/)
 - [Dan Talala](https://talala.ru/)
