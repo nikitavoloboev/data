@@ -281,3 +281,4 @@
 - [Anatomy of a Great API Library (2021)](https://brandur.org/nanoglyphs/019-api-libraries)
 - [Making retries safe with idempotent APIs](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/) ([Tweet](https://twitter.com/marknca/status/1458066748322684932))
 - [Backpressure And The Replicator (2021)](https://github.com/couchbase/couchbase-lite-core/wiki/Backpressure) ([Lobsters](https://lobste.rs/s/x9kwgp/backpressure_replicator))
+- [The Little Manual of API Design (2008)](https://www.cs.vu.nl/~jbe248/api-design.pdf)

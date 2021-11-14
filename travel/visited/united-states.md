@@ -4,6 +4,7 @@
 
 - [Most cost-effective way (aka costs nothing) to get to work in the US is to get hired by a multinational Corp and after 1 year get an L visa and move to the US.](https://twitter.com/copyconstruct/status/1280953429527900160)
 - [US has exit tax when renouncing citizenship if net worth is $2m+ or high federal taxes or not compliant; easier to leave before triggering. If just leaving to live overseas, you still must file and pay USA subject to exclusions, treaties, credits, etc](https://twitter.com/nomadcapitalist/status/1454574254566019080)
+- [If the USA had a core KPI, it would be immigration. It has a monopoly on ambitious migrants—if that disappears, the product inevitably fails.](https://twitter.com/cpaik/status/1459534475042435083)
 
 ## Links
 
@@ -88,3 +89,4 @@
 - [Would any of you guys live in the USA , or stay in Netherlands? (2021)](https://www.reddit.com/r/Netherlands/comments/qjmds0/would_any_of_you_guys_live_in_the_usa_or_stay_in/)
 - [Culture Shock: Looking at the United States as an Indian, two months in (2021)](https://siddhesh.substack.com/p/culture-shock) ([HN](https://news.ycombinator.com/item?id=29073899))
 - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA (2021)](https://news.ycombinator.com/item?id=29200687)
+- [Immigration as the new abortion (2021)](https://noahpinion.substack.com/p/immigration-as-the-new-abortion) - Why I'm still pessimistic that the Age of Immigration can be restored soon. ([Tweet](https://twitter.com/Noahpinion/status/1459339040507920390))

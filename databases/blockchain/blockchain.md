@@ -279,3 +279,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [The Nihilism and Exploitation of the NFT Industry (2021)](https://ez.substack.com/p/the-nihilism-and-exploitation-of) - Industry custom-built to enrich the wealthy. ([Tweet](https://twitter.com/edzitron/status/1458934946534285313))
 - [Cortex - AI on Blockchain written in Go](https://github.com/CortexFoundation/CortexTheseus)
 - [Scrypto](https://github.com/radixdlt/radixdlt-scrypto) - Language for building DeFi apps on Radix.
+- [NFT Canon](https://future.a16z.com/nft-canon/)

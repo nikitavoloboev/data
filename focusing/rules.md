@@ -245,8 +245,9 @@
 - Use same username on all services. Preferred (`nikivi`). If service requires full name, use it (`nikitavoloboev`). If `nikivi` is taken, can use `nikiv` or `nikiv_`.
 - Interact with content/discussions freely. Upvote/Like things appropriately. Can later index & search this data.
 - Quality of followers > Quantity. Try cultivate positive online experiences. Filter out negativity.
-- Don't be afraid to express myself (without hurting someone deliberately) out of fear I will get unfollowed/blocked/mocked. It's just [their opinion](https://www.youtube.com/watch?v=Z-xI1384Ry4), I have mine.
+- Don't be afraid to express myself (without hurting someone deliberately) out of fear I will get unfollowed/blocked/mocked. It's just [their opinion/tastes](https://www.youtube.com/watch?v=Z-xI1384Ry4), I have mine. Feel free.
 - Be open to change. But never ignore my principles/rules (respect my boundaries). My personal happiness and mental well being always comes first.
+- [Share more things about what I love rather than dislike/hate.](https://twitter.com/pbrian0206/status/1458972624047026177)
 
 ## Web
 

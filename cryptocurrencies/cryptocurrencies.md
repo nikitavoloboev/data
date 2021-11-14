@@ -179,3 +179,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Tokemak](https://www.tokemak.xyz/) - Utility for Sustainable DeFi Liquidity. ([Twitter](https://twitter.com/tokenreactor)) ([Article](https://medium.com/tokemak/introducing-tokemak-the-utility-for-sustainable-liquidity-8b99a4757301))
 - [Coinbase Pro client for Rust](https://github.com/inv2004/coinbase-pro-rs)
 - [Uniswap in 155 lines of code](https://www.reddit.com/r/CryptoTechnology/comments/qsuw6n/uniswap_in_155_lines_of_code/)
+- [Crypto Startup School](https://a16z.com/crypto-startup-school/)

@@ -21,3 +21,4 @@
 - [Citizen DAO](https://citizendao.com/) - Crypto Community for Social Impact Projects.
 - [Diamond DAO](https://www.diamonddao.xyz/) - Home for DAO data nerds.
 - [DAO community treasuries are being criminally underused](https://twitter.com/AntonioMJuliano/status/1458844848560087070)
+- [ConstitutionDAO](https://www.constitutiondao.com/) - Put The US Constitution in the hands of The People. ([Twitter](https://twitter.com/ConstitutionDAO))

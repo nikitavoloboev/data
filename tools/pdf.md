@@ -1,5 +1,9 @@
 # PDF
 
+## Notes
+
+- [If you can't copy text in PDF, it's locked. Can open it in Chrome > Print > Save. Can then copy text freely.](https://superuser.com/questions/47462/cant-copy-text-from-a-pdf-file)
+
 ## Links
 
 - [pdf-diff](https://github.com/JoshData/pdf-diff) - PDF comparison utility in Python.
