@@ -358,3 +358,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Birthblock](https://www.birthblock.art/) - NFT with art and attributes based on the data from your first transaction on Ethereum. ([Tweet](https://twitter.com/BrennerSpear/status/1458946945880244228))
 - [Manipulating Uniswap v3 TWAP Oracles (2021)](https://github.com/euler-xyz/uni-v3-twap-manipulation/blob/master/cost-of-attack.pdf) ([Tweet](https://twitter.com/euler_mab/status/1459314402059034634))
 - [Euler](https://www.euler.finance/#/) - Non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset. ([GitHub](https://github.com/euler-xyz))
+- [eth-sdk](https://github.com/dethcrypto/eth-sdk) - Type-safe, lightweight SDKs for your Ethereum smart contracts.

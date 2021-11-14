@@ -20,7 +20,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 
 Aside from the unfortunate series of historical events that led to the current abuse of power from government over people, Russia is beautiful country with amazing people. Things won't improve in the country financially though if there is always a risk of someone coming in 'from the government' to take over your business and putting you in jail. Not including the fact that [most young people want to leave it at any opportunity they can get](https://twitter.com/dan_abramov/status/1458101197500473355).
 
-With that said, no matter what country/community you live in, you have to [do your best within what's possible given your surroundings](https://twitter.com/ioannZH/status/1458669114826928128). Whilst seeking to move to an environment that helps you express yourself best. Don't waste time on pointless arguing and value action & proper actionable discourse above all.
+With that said, no matter what country/community you live in, I try to [do my best within what's possible given my surroundings](https://twitter.com/ioannZH/status/1458669114826928128). Always seeking to move to an environment that helps me express myself best. Not wasting time on pointless arguing/news and valuing personal growth through actions & useful discourse/relationships.
 
 ## Notes
 

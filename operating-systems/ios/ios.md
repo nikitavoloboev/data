@@ -374,3 +374,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Proof of concept: iOS app written in pure Rust](https://github.com/wooden-worm/ios-app-rs) ([Reddit](https://www.reddit.com/r/rust/comments/qpruup/proof_of_concept_ios_app_written_in_pure_rust/))
 - [iOS apps should support cmd+k searches natively](https://twitter.com/jonrundle/status/1458540615642275847)
 - [Optimize & improve discoverability in iOS App Store (2021)](https://twitter.com/nielsmouthaan/status/1458795004042874883)
+- [Learn Modern Auto Layout For iOS](https://useyourloaf.com/autolayout/) ([Code](https://github.com/kharrison/albookcode))

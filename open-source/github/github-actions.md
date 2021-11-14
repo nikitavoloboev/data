@@ -189,6 +189,10 @@
 
 - [run-cmake](https://github.com/lukka/run-cmake) - GitHub Action to build C++ applications with CMake.
 
+## Bash
+
+- [ShellCheck](https://github.com/ludeeus/action-shellcheck)
+
 ## Docker
 
 - [build-push-action](https://github.com/docker/build-push-action) - Builds and pushes Docker images and will log in to a Docker registry if required.

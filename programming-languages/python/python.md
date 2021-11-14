@@ -380,3 +380,5 @@ for i, _ in enumerate(nums):
 - [What are the advanced concepts someone should learn to be considered as an expert in Python? (2021)](https://www.reddit.com/r/Python/comments/qsc3g3/what_are_the_advanced_concepts_someone_should/)
 - [Infinitely Nested Dictionary (2021)](https://susam.in/maze/infinitely-nested-dictionary.html)
 - [Understanding partial functions (2021)](https://www.abhinavomprakash.com/posts/understanding-partial-functions/)
+- [uncompyle6](https://github.com/rocky/python-uncompyle6) - Cross-version Python bytecode decompiler.
+- [decompyle3](https://github.com/rocky/python-decompile3) - Python decompiler for 3.7-3.8 Stripped down from uncompyle6 so we can refactor and start to fix up some long-standing problems.

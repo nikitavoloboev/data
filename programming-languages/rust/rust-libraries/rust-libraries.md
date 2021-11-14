@@ -1226,3 +1226,4 @@
 - [Plugins in Rust: Reducing the Pain with Dependencies (2021)](https://nullderef.com/blog/plugin-abi-stable/)
 - [Typify](https://github.com/oxidecomputer/typify) - JSON Schema -> Rust type converter.
 - [Dylint](https://github.com/trailofbits/dylint) - Tool for running Rust lints from dynamic libraries.
+- [cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies.

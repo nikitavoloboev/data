@@ -55,3 +55,4 @@
 - [s2n](https://github.com/aws/s2n-tls) - Implementation of the TLS/SSL protocols. ([Lobsters](https://lobste.rs/s/i1jdij/aws_s_implementation_tls_ssl))
 - [TLS-Attacker](https://github.com/tls-attacker/TLS-Attacker) - Java-based framework for analyzing TLS libraries.
 - [TLS Fingerprinting](https://github.com/LeeBrotherston/tls-fingerprinting)
+- [acme-rs](https://github.com/kariustobias/acme-rs) - ACME Client for Let's Encrypt written in Rust to request SSL/TLS certificates.

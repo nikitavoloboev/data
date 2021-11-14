@@ -819,6 +819,7 @@
 - [Dwifft](https://github.com/jflinter/Dwifft) - Small Swift library that tells you what the "diff" is between two collections.
 - [CachedAsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) - AsyncImage, but with cache capabilities.
 - [Fusion](https://github.com/alchemy-swift/fusion) - Dependency Injection via Swift property wrappers.
+- [MachKit](https://github.com/pvieito/MachKit) - Inspect, write and patch processes virtual memory.
 
 ## Other (not lib)
 

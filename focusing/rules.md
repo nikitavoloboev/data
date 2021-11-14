@@ -81,6 +81,7 @@
 - Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Add useful details where needed.
 - Remove unnecessary and [filler words](../writing/writing.md#dont-use). Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
 - Don't assume and say that something is straightforward or clear.
+- Don't write assertively when reflecting on personal experiences (no `should do`, `you have to`, `do ..`). Instead say it from personal point of view (`I try`, `I seek`). Does not apply for docs/guidelines (where assertion is useful and needed).
 - Writing/teaching in earliest stages of understanding something is most valuable as you haven't built any biases and approach thing with a fresh mind. Its okay to be wrong (sincerely) and update my writing based off new constructive feedback.
 - Minimize use of articles (`a`, `an`, `the`) as they in most cases add noise.
 - Hyperlink words/phrases appropriately. Use descriptive link labels ([no `this`](https://lobste.rs/s/absbtc/search_personal_websites)).

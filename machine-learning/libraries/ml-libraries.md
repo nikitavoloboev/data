@@ -222,3 +222,4 @@
 - [Varuna](https://github.com/microsoft/varuna) - Tool for efficient training of large DNN models on commodity GPUs and networking.
 - [reXmeX](https://github.com/AstraZeneca/rexmex) - General purpose recommender metrics library for fair evaluation.
 - [Einshape](https://github.com/deepmind/einshape) - DSL-based reshaping library for JAX and other frameworks.
+- [BlobCity AutoAI](https://github.com/blobcity/autoai) - Framework to find the best performing AI/ML model for any AI problem.
