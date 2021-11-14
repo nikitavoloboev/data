@@ -124,6 +124,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Adventures in Category Theory - The Algebra of Types (2018)](https://miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html) ([HN](https://news.ycombinator.com/item?id=28926834))
 - [Further remarks on Bourbaki](https://www.dpmms.cam.ac.uk/~ardm/segal.pdf) ([Tweet](https://twitter.com/sigfpe/status/1453824591621541892))
 - [Category Theory relation to consciousness](https://github.com/drever/ct-consciousness)
+- [Thoughts on adjoint, norm and such](https://github.com/adamnemecek/adjoint)
 
 ## Images
 

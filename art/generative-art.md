@@ -178,3 +178,4 @@
 - [Samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator.
 - [Create Generative Art with R](https://github.com/cutterkom/generativeart)
 - [Women in Generative Art Twitter List](https://twitter.com/i/lists/1458840272046071825)
+- [Generative Art Using Neural Visual Grammars and Dual Encoders](https://github.com/deepmind/arnheim)

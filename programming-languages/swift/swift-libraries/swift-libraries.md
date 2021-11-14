@@ -822,6 +822,10 @@
 - [CachedAsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) - AsyncImage, but with cache capabilities.
 - [Fusion](https://github.com/alchemy-swift/fusion) - Dependency Injection via Swift property wrappers.
 - [MachKit](https://github.com/pvieito/MachKit) - Inspect, write and patch processes virtual memory.
+- [WebMIDIKit](https://github.com/adamnemecek/WebMIDIKit) - Simplest MIDI Swift library.
+- [Arena](https://github.com/adamnemecek/Arena) - Implementation of the generational arena data structure in Swift.
+- [Focus](https://github.com/typelift/Focus) - Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
+- [Operadics](https://github.com/typelift/Operadics) - Standard Operators for the working Swift Librarian.
 
 ## Other (not lib)
 

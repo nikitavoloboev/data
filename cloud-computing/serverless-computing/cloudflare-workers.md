@@ -84,3 +84,4 @@
 - [Backwards-compatibility in Cloudflare Workers (2021)](https://blog.cloudflare.com/backwards-compatibility-in-cloudflare-workers/)
 - [CF Pages Await](https://github.com/WalshyDev/cf-pages-await) - Wait for a Cloudflare Pages build to finish so you can do actions like purge cache, update Workers, etc.
 - [Build a link shortener in under 50 lines of code with Cloudflare Workers and KV (2021)](https://www.unravelled.dev/cloudflare-workers-link-shortener/) ([Tweet](https://twitter.com/kzhen/status/1457373214234091523))
+- [Proxies in Cloudflare Workers](https://github.com/GitbookIO/proxies-on-cloudflare) - Makes it easy to build Cloudflare Workers, by providing high-level proxying primitives addressing common needs.

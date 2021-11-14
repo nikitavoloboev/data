@@ -353,6 +353,7 @@
 - [Secure IO](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption (DARE) format.
 - [Secure Bytes](https://github.com/meehow/securebytes) - Take any Go data type, serialize it to JSON or GOB and encrypt it with AES.
 - [ec3](https://github.com/mmcloughlin/ec3) - Elliptic Curve Cryptography Compiler.
+- [XXH3](https://github.com/zeebo/xxh3) - XXH3 algorithm in Go.
 
 ## Linux
 

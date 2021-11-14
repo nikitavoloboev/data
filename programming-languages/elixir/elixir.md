@@ -129,3 +129,4 @@
 - [ElixirConf 2021 - José Valim - Elixir 1.13](https://www.youtube.com/watch?v=ydjx2kKHzrM)
 - [ElixirConf 2021 - Chris McCord - The Future of Full-stack](https://www.youtube.com/watch?v=Of1phFsC4ZI)
 - [Elixir Boilerplate](https://github.com/mirego/elixir-boilerplate) - Stable base upon which we build our Elixir projects at Mirego.
+- [Elixir REPL](https://github.com/mrshankly/tryelixir)

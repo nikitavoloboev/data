@@ -40,6 +40,7 @@
 - [hyperia](https://github.com/lithdew/hyperia) - Playground of Zig async code.
 - [zigimg](https://github.com/zigimg/zigimg) - Create, process, read and write different image formats with Zig.
 - [simdjzon](https://github.com/travisstaloch/simdjzon) - Port of simdjson, a high performance JSON parser.
+- [zig-nodejs-example](https://github.com/staltz/zig-nodejs-example) - Node.js Native Module written in Zig.
 
 ## Links
 

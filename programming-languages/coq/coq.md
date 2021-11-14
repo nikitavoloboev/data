@@ -92,3 +92,5 @@
 - [Tealeaves](https://github.com/dunnl/tealeaves) - Coq library for proving theorems about syntax abstractly.
 - [Connectivity Graphs Coq Development](https://github.com/julesjacobs/cgraphs)
 - [Hemiola](https://github.com/mit-plv/hemiola) - Coq framework to support structural design and proof of hardware cache-coherence protocols.
+- [Mczify](https://github.com/math-comp/mczify) - Micromega tactics for Mathematical Components.
+- [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder) - High level commands to declare a hierarchy based on packed classes.

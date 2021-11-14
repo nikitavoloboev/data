@@ -65,3 +65,4 @@ Is logical theory of computable functions.
 - [Fibonacci sequence in JS using pure Lambda Calculus](https://github.com/OscarSaharoy/lambda-fibonacci)
 - [Lambda Calculus Visualizer](https://yanamal.github.io/lambda-js/) ([Code](https://github.com/yanamal/lambda-js))
 - [glam](https://github.com/ncfavier/glam) - Implementation of the guarded λ-calculus.
+- [Formalization of Typed and Untyped λ-Calculi in Coq and Agda2](https://github.com/pi8027/lambda-calculus)

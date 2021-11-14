@@ -116,6 +116,7 @@
 - [Harmonicon](https://harmonicon.studio/) - Experimental DAW for music as code. ([Code](https://github.com/JamesRyanATX/Harmonicon))
 - [GridSound](https://gridsound.com/) - Open source online digital audio workstation following the new WebAudio API. ([Code](https://github.com/gridsound/daw))
 - [MidiTok](https://github.com/Natooz/MidiTok) - A convenient MIDI tokenizer for Deep Learning networks, with multiple encoding strategies.
+- [ngrid](https://www.ngrid.io/) - Revolutionary way to compose music.
 
 ## Inspiration
 

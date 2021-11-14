@@ -89,6 +89,7 @@
 - [webkit2gtk](https://github.com/tauri-apps/webkit2gtk-rs) - Rust bindings and wrappers for webkit2gtk.
 - [Catnip](https://github.com/demikernel/catnip) - Fast User-Space TCP/UDP Stack.
 - [Capsule](https://github.com/capsule-rs/capsule) - Framework for network function development.
+- [webview2](https://github.com/sopium/webview2) - Rust bindings for WebView2.
 
 ## WASM
 
@@ -195,6 +196,7 @@
 - [Kludgine](https://github.com/khonsulabs/kludgine) - 2d game engine written in rust atop of wgpu.
 - [Blue Engine](https://github.com/ElhamAryanpur/BlueEngine) - General-purpose, easy-to-use, fast, extendable, secure, and portable graphics engine written in rust.
 - [Flou](https://github.com/Asha20/flou) - Flowchart description language. ([Docs](https://asha20.github.io/flou/)) ([Reddit](https://www.reddit.com/r/rust/comments/qrgjky/excited_to_share_my_first_crate_flou_a_flowchart/))
+- [geom3d](https://github.com/J-F-Liu/geom3d) - Data structures and algorithms for 3D geometric modeling.
 
 ## Games
 
@@ -1129,6 +1131,7 @@
 - [SPIR-Q](https://github.com/PENGUINLIONG/spirq-rs) - Light weight SPIR-V reflection library.
 - [Pythonize](https://github.com/davidhewitt/pythonize) - Serializer for Rust's serde ecosystem, which can convert Rust objects to Python values and back.
 - [enumset](https://github.com/Lymia/enumset) - Library for compact bit sets based on enums.
+- [pom](https://github.com/J-F-Liu/pom) - PEG parser combinators created using operator overloading without macros.
 
 ## Cargo Plugins
 

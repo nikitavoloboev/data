@@ -397,3 +397,4 @@
 - [NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework (2021)](https://arxiv.org/abs/2111.04130) ([Code](https://github.com/yaoxingcheng/TLM))
 - [Differentially Private Fine-tuning of Language Models (2021)](https://arxiv.org/abs/2110.06500) ([Tweet](https://twitter.com/thegautamkamath/status/1450113340617940998))
 - [TaCL: Improving BERT Pre-training with Token-aware Contrastive Learning (2021)](https://arxiv.org/abs/2111.04198) ([Code](https://github.com/yxuansu/TaCL))
+- [Aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = text to image/video.

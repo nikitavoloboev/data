@@ -273,3 +273,4 @@
 - [Baby Robot's Guide to Reinforcement Learning](https://github.com/WhatIThinkAbout/BabyRobot)
 - [Learning Off-Policy with Online Planning (2020)](https://arxiv.org/abs/2008.10066) ([Code](https://github.com/hari-sikchi/LOOP))
 - [f-IRL: Inverse Reinforcement Learning via State Marginal Matching (2020)](https://arxiv.org/abs/2011.04709) ([Code](https://github.com/twni2016/f-IRL))
+- [TD3+BC](https://github.com/sfujim/TD3_BC) - Minimalist Approach to Offline Reinforcement Learning.

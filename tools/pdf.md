@@ -8,3 +8,5 @@
 - [Markdown to PDF](https://github.com/arnabsen1729/md2pdf) - Will take a markdown file as input and then create a PDF file with the markdown formatting.
 - [PDF Reader in Go](https://github.com/ledongthuc/pdf)
 - [lopdf](https://github.com/J-F-Liu/lopdf) - Rust library for PDF document manipulation.
+- [pdf_render](https://github.com/pdf-rs/pdf_render) - Experimental PDF viewer.
+- [pdf-rs](https://github.com/pdf-rs/pdf) - Read, alter and write PDF files.
