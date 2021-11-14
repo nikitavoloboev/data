@@ -10,6 +10,7 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Werenode](http://werenode.com/index.html) - Boost the EV charging network. Make it auditable thanks to Tezos blockchain. ([Reddit](https://www.reddit.com/r/tezos/comments/l3o4cr/werenode/))
 - [hic et nunc](https://hicetnunc.art/) - Smart contracts and distributed systems designs. ([Tweet](https://twitter.com/matdryhurst/status/1458966893503594500)) ([Tweet](https://twitter.com/sableRaph/status/1459151151119704069))
 - [fxhash](https://www.fxhash.xyz/) - Open platform to create and collect generative NFTs on the tezos blockchain.
+- [OneOf](https://www.oneof.com/) - Eco-friendly NFT platform built on Tezos to connect fans and collectors at all levels to their favorite artists.
 
 ## Notes
 
@@ -76,3 +77,6 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Tezos Octez](https://github.com/ocaml-multicore/tezos) - Tezos running on Multicore OCaml.
 - [Why Are Exchanges So Different on Tezos? (2021)](https://story.madfish.solutions/why-are-exchanges-so-different-on-tezos/)
 - [Preferred way to make collections on HEN/Tezos (2021)](https://twitter.com/thomasp85/status/1455821645676007424)
+- [QuipuSwap](https://quipuswap.com/swap) - Tezos DEX with on-chain governance for baking rewards.
+- [Tezos : past, present, and future (2021)](https://www.youtube.com/watch?v=lo1bYTLmQFg)
+- [Wrap Protocol](https://app.tzwrap.com/wrap) - Bridge between Ethereum and Tezos. ([Reddit](https://www.reddit.com/r/tezos/comments/qs5lh8/how_to_convert_eth_to_tezos/hkbks23/?utm_source=reddit&utm_medium=web2x&context=3))

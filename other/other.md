@@ -355,7 +355,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Sunday Sites](https://sundaysites.cafe/) - Place to write code and socialize. A couple of sundays a month, we meet on Zoom and write HTML for around two hours.
 - [How does a gas pump know to shut itself off? (1981)](https://www.straightdope.com/21341412/how-does-a-gas-pump-know-to-shut-itself-off) ([HN](https://news.ycombinator.com/item?id=24741029))
 - [Hacker News Lists](https://news.ycombinator.com/lists) - Top HN users/threads/..
-- [Fonos](https://github.com/fonoster/fonos) - Open-source telecommunications for the cloud. ([Docs](https://fonoster.github.io/fonos/))
+- [Fonoster](https://github.com/fonoster/fonoster) - Open Source Twilio Alternative. Engage with your customer with voice or messaging with a single easy-to-use platform. ([Docs](https://fonoster.github.io/fonos/)) ([Web](https://fonoster.com/))
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [hncheck](https://github.com/brandur/hncheck) - Simple app that checks to see if something under one of your domains has been submitted to HN, and emails you if it has. ([Runner](https://github.com/brandur/hncheck-runner))
 - [pure JS WiFi QR Code Generator](https://qifi.org/)

@@ -42,3 +42,4 @@
 - [Elasticsearch DSL written in Rust](https://github.com/vinted/elasticsearch-dsl-rs)
 - [Elasticsearch Python Client](https://github.com/elastic/elasticsearch-py)
 - [BERT models with Solr and Elasticsearch](https://github.com/DmitryKey/bert-solr-search)
+- [Is ELK stack really worth it? (2021)](https://www.reddit.com/r/devops/comments/qt6isb/is_elk_stack_really_worth_it/)

@@ -87,3 +87,4 @@
 - [Freedom is not a goal, but a direction (2021)](https://edwardsnowden.substack.com/p/culturalrevolutions) ([Tweet](https://twitter.com/Snowden/status/1458903893052690433))
 - [Belenios](https://www.belenios.org/) - Verifiable online voting system. ([Code](https://github.com/glondu/belenios))
 - [Global Corruption Index](https://risk-indexes.com/global-corruption-index/)
+- [The Rules for Rulers (2016)](https://www.youtube.com/watch?v=rStL7niR7gs)

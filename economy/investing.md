@@ -226,3 +226,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Ask HN: How do you find funds to invest in? (2021)](https://news.ycombinator.com/item?id=29161098)
 - [How to invest in ETFs w/ Cullen Roche (2021)](https://overcast.fm/+I6zEe-P5A)
 - [Understanding Candlestick Charts for Beginners (2015)](https://www.youtube.com/watch?v=1rwVV_8uUxc)
+- [Is Dollar-Cost Averaging Better Than Lump-Sum Investing? (2020)](https://www.youtube.com/watch?v=nCp2bZbaBdw)

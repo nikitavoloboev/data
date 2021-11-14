@@ -249,3 +249,4 @@
 - [hgdb](https://github.com/Kuree/hgdb) - Flexible hardware debugging framework. It offers runtime APIs to interact with the simulator.
 - [A History of Modern 64-bit Computing (2007)](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-64-bit.pdf)
 - [Titan M tools](https://github.com/quarkslab/titanm) - Tools we used in our research on the Google Titan M chip.
+- [How do hardware timers work? (2021)](https://www.youtube.com/watch?v=g_koa00MBLg) ([Reddit](https://www.reddit.com/r/programming/comments/qt2wr6/ben_eater_how_do_hardware_timers_work/))

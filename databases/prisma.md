@@ -72,3 +72,4 @@
 - [Upload and display images using Prisma (2021)](https://mediajams.dev/post/upload-and-display-images-using-prisma)
 - [Prisma e2e Tests](https://github.com/prisma/e2e-tests) - Continuously tests Prisma Client on various operating systems, frameworks and platforms.
 - [Declarative Prisma Authorization layer](https://github.com/joindeed/prisma-auth)
+- [Prisma JSON Schema Generator](https://github.com/valentinpalkovic/prisma-json-schema-generator) - Generator, which takes a Prisma 2 schema.prisma and generates a JSON Schema.
