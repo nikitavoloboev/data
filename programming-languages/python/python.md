@@ -382,3 +382,4 @@ for i, _ in enumerate(nums):
 - [Understanding partial functions (2021)](https://www.abhinavomprakash.com/posts/understanding-partial-functions/)
 - [uncompyle6](https://github.com/rocky/python-uncompyle6) - Cross-version Python bytecode decompiler.
 - [decompyle3](https://github.com/rocky/python-decompile3) - Python decompiler for 3.7-3.8 Stripped down from uncompyle6 so we can refactor and start to fix up some long-standing problems.
+- [How Python List Works](https://antonz.org/list-internals/) ([HN](https://news.ycombinator.com/item?id=29217038))
