@@ -119,3 +119,4 @@
 - [Onboarding to a New Company (2021)](https://newsletter.pragmaticengineer.com/p/onboarding-to-a-new-company)
 - [Ask HN: What kind of projects make a junior candidate stand out from the rest? (2021)](https://news.ycombinator.com/item?id=29108881)
 - [Introduction to Work Sample Tests (2021)](https://jacobian.org/2021/nov/9/wst-intro/) - Hands-on, practical exercises.
+- [Ask HN: How much equity should an early employee get? (2021)](https://news.ycombinator.com/item?id=29222783)

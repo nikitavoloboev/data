@@ -132,4 +132,4 @@
 - [The Non-parametric Bootstrap as a Bayesian Model (2015)](https://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/)
 - [Prediction, Estimation, and Attribution (2019)](https://efron.ckirby.su.domains//papers/2019PredictEstimatAttribut.pdf) ([Tweet](https://twitter.com/sandwichmaker/status/1458315417294761984))
 - [Probability and Statistics Cheat Sheet (2021)](https://rethinks.org/blog/SKQmqcEUw4)
-- [Bayesian Optimization Book (2021)](https://bayesoptbook.com/) ([Code](https://github.com/bayesoptbook/bayesoptbook.github.io))
+- [Bayesian Optimization Book (2021)](https://bayesoptbook.com/) ([Code](https://github.com/bayesoptbook/bayesoptbook.github.io)) ([HN](https://news.ycombinator.com/item?id=29197908))

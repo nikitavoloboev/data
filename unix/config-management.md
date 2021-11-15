@@ -35,3 +35,4 @@
 - [OmegaConf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [Dotenv CLI](https://github.com/dotenv-org/cli) - Command line tool that syncs your .env files across machines and between your team members. Like 1Password, but for developers.
 - [carvel-imgpkg](https://github.com/vmware-tanzu/carvel-imgpkg) - Store application configuration files in Docker/OCI registries.
+- [YAML: It's Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml) ([HN](https://news.ycombinator.com/item?id=29220320))

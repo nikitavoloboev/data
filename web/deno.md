@@ -144,3 +144,4 @@
 - [Denoflare](https://denoflare.dev/) - Develop, test, and deploy Cloudflare Workers with Deno. ([Code](https://github.com/skymethod/denoflare)) ([HN](https://news.ycombinator.com/item?id=29142772))
 - [crux.land](https://crux.land/) - Free open-source registry for permanently hosting small scripts. ([Code](https://github.com/denosaurs/crux.land))
 - [deno2node](https://github.com/wojpawlik/deno2node) - Transpiles Deno projects into .js and .d.ts for Node.js.
+- [bertml](https://github.com/sno2/bertml) - Use common pre-trained ML models in Deno.

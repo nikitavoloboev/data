@@ -79,3 +79,4 @@
 - [The metaverse is already here – it's Minecraft (2021)](https://clivethompson.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2) ([HN](https://news.ycombinator.com/item?id=29083271))
 - [lazymc](https://github.com/timvisee/lazymc) - Put your Minecraft server to rest when idle.
 - [The Metaverse Is Already Here — It’s Minecraft (2021)](https://debugger.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2)
+- [Run Minecraft on Apple Silicon](https://github.com/ezfe/m1craft)
