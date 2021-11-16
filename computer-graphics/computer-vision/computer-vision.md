@@ -447,3 +447,5 @@
 - [Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers (2021)](https://arxiv.org/abs/2106.05392) ([Code](https://github.com/facebookresearch/Motionformer))
 - [Multimodal Virtual Point 3D Detection (2021)](https://tianweiy.github.io/mvp/) ([Code](https://github.com/tianweiy/MVP))
 - [SiT: Self-supervised vIsion Transformer](https://github.com/Sara-Ahmed/SiT)
+- [Attention Mechanisms in Computer Vision: A Survey (2021)](https://arxiv.org/abs/2111.07624)
+- [Awesome Vision Attention Papers](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)
