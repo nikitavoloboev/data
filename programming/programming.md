@@ -487,3 +487,5 @@
 - [Which developer are you most inspired by, and why? (2021)](https://twitter.com/themarcba/status/1458483053978869760)
 - [Life is too short to depend on unstable software (2021)](https://blog.sidebits.tech/life-is-too-short-to-depend-on-unstable-software/) ([HN](https://news.ycombinator.com/item?id=29209353))
 - [Software process antipatterns catalogue](https://github.com/ReliSA/Software-process-antipatterns-catalogue)
+- [Make your technology sustainable - GOV.UK](https://www.gov.uk/guidance/make-your-technology-sustainable) ([Tweet](https://twitter.com/swardley/status/1460164004412809216))
+- [io.livecode.ch](https://io.livecode.ch/) - Interactive programming tutorials, powered by Github and Docker. ([Code](https://github.com/namin/io.livecode.ch))

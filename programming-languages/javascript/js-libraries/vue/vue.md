@@ -88,3 +88,4 @@
 - [Nano Stores Vue](https://github.com/nanostores/vue) - Vue integration for Nano Stores, a tiny state manager with many atomic tree-shakable stores.
 - [Moon](https://github.com/ulissesferreira/moon) - Lightweight Vue 3 component library.
 - [Vue Stripe.js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js.
+- [Vuestic UI](https://vuestic.dev/) - Vue.js 3.0 UI Framework. ([Code](https://github.com/epicmaxco/vuestic-ui))

@@ -112,3 +112,5 @@
 - [RNA-responsive elements for eukaryotic translational control (2021)](https://www.nature.com/articles/s41587-021-01068-2)
 - [souporcell](https://github.com/wheaton5/souporcell) - Clustering scRNAseq by genotypes.
 - [Vireo](https://github.com/single-cell-genetics/vireo) - Variational Inference for Reconstructing Ensemble Origin by expressed SNPs in multiplexed scRNA-seq data.
+- [Naturally occurring modified ribonucleosides (2020)](https://wires.onlinelibrary.wiley.com/doi/10.1002/wrna.1595)
+- [microPIPE](https://github.com/BeatsonLab-MicrobialGenomics/micropipe) - Pipeline for high-quality bacterial genome construction using ONT sequencing.

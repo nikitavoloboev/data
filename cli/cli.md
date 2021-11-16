@@ -65,3 +65,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Awk: The Power and Promise of a 40-Year-Old Language (2021)](https://www.fosslife.org/awk-power-and-promise-40-year-old-language) ([HN](https://news.ycombinator.com/item?id=28441887))
 - [buke](https://github.com/epilys/buke) - Full text search man pages.
 - [Renamer](https://github.com/75lb/renamer) - Rename files in bulk.
+- [CLI Testing Tool](https://github.com/saurabhdaware/cli-testing-tool) - Testing library that allows you to test input and outputs of your CLI command.

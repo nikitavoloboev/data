@@ -148,3 +148,4 @@
 - [ipylab](https://github.com/jtpio/ipylab) - Control JupyterLab from Python notebooks.
 - [Notebooks, Machine Learning, and MLOps (2021)](https://www.youtube.com/watch?v=_yM7IyZNQx0)
 - [Pyheatmagic](https://github.com/csurfer/pyheatmagic) - Profile and view your Python code as a heat map. ([HN](https://news.ycombinator.com/item?id=29091062))
+- [RetroLab](https://github.com/jupyterlab/retrolab) - JupyterLab distribution with a retro look and feel.

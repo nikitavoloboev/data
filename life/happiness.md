@@ -87,3 +87,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [On Solitude (2021)](https://eriktorenberg.substack.com/p/on-solitude) ([HN](https://news.ycombinator.com/item?id=28667978))
 - [Definite optimism as human capital (2017)](https://danwang.co/definite-optimism-as-human-capital/) ([Tweet](https://twitter.com/patrickc/status/904849193201573888))
 - [Best cortisol lower techniques](https://twitter.com/AlmostMedia/status/1455958395521953793)
+- [Ten Steps Towards Happiness](http://hintjens.com/blog:99) ([HN](https://news.ycombinator.com/item?id=29215967))

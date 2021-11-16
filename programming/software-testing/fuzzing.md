@@ -60,3 +60,5 @@
 - [The Challenges of Fuzzing 5G Protocols (2021)](https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols/) ([Lobsters](https://lobste.rs/s/nro2ty/challenges_fuzzing_5g_protocols))
 - [Nyx-Net: Network Fuzzing with Incremental Snapshots (2021)](https://arxiv.org/abs/2111.03013)
 - [ClusterFuzzLite](https://github.com/google/clusterfuzzlite) - Simple continuous fuzzing that runs in CI.
+- [Revizor](https://github.com/hw-sw-contracts/revizor) - Microarchitectural fuzzer. Searches for microarchitectural bugs in CPUs.
+- [OpenAPI fuzzer](https://github.com/matusf/openapi-fuzzer) - Fuzzing APIs based on OpenAPI specification. ([HN](https://news.ycombinator.com/item?id=29231804))

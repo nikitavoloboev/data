@@ -49,6 +49,8 @@
 - [CellMLToolkit.jl](https://github.com/SciML/CellMLToolkit.jl) - Julia library that connects CellML models to the Scientific Julia ecosystem.
 - [LossFunctions](https://github.com/JuliaML/LossFunctions.jl) - Julia package of loss functions for machine learning.
 - [FluxMPI.jl](https://github.com/avik-pal/FluxMPI.jl) - MultiGPU / MultiNode Training of Flux Models.
+- [MLJTuringInterface](https://github.com/rikhuijzer/MLJTuringInterface.jl) - Interface for Turing models with MLJ.
+- [MLFlowClient](https://github.com/JuliaAI/MLFlowClient.jl) - Julia client for MLFlow.
 
 ## Math
 
@@ -148,6 +150,7 @@
 ## DB
 
 - [FunSQL](https://github.com/MechanicalRabbit/FunSQL.jl) - Julia library for compositional construction of SQL queries.
+- [SparkSQL](https://github.com/propelledanalytics/SparkSQL.jl) - Enables Julia programs to work with Apache Spark data using just SQL.
 
 ## Error
 

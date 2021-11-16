@@ -40,3 +40,4 @@
 - [How would you grow £30k in UK? (2021)](https://www.reddit.com/r/FIREUK/comments/pa6nhj/how_would_you_grow_30k/)
 - [List of British innovations and discoveries](https://en.wikipedia.org/wiki/List_of_British_innovations_and_discoveries)
 - [Brexit guidance change explorer](https://govukdiff.njk.onl/) ([Code](https://github.com/platy/gitgovuk))
+- [Cunk On Britain](https://www.youtube.com/watch?v=MUM89s4N2BQ)

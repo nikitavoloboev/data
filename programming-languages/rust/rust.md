@@ -10,6 +10,7 @@
 - [For error handling: We use anyhow for applications, thiserror for libraries.](https://lobste.rs/s/xbncik/rust_first_thoughts)
 - [Once you internalize Rust's concept of ownership and its criticality to memory safety, it forever changes how you look at C/C++ code. You will constantly be amazed - and demoralized - by how often C/C++ code doesn't document memory lifetimes/ownership in its API contracts.](https://twitter.com/indygreg/status/1425314471950491650)
 - [Rust enums are amazing. They are also known as Sum Types.](https://twitter.com/clementd/status/1434583356969308160)
+- [If you're building a database , OS, or other systems-level infrastructure, choose Rust. If you're not building those things, choose not-Rust. Rust is the better C we've all been hoping for. But most companies have no business writing programs in C, or even in a better C.](https://twitter.com/jdegoes/status/1459899722358009860)
 
 ## Links
 
@@ -619,3 +620,4 @@
 - [The Rust compiler has gotten faster again (2021)](https://nnethercote.github.io/2021/11/12/the-rust-compiler-has-gotten-faster-again.html) ([HN](https://news.ycombinator.com/item?id=29194902)) ([Reddit](https://www.reddit.com/r/rust/comments/qryt8m/the_rust_compiler_has_gotten_faster_again/))
 - [What does `&mut &[T]` mean? (2021)](https://ihatereality.space/04-what-mutref-to-slice-ref-means/) ([Lobsters](https://lobste.rs/s/w0buyv/what_does_mut_t_mean))
 - [Rust data structures with circular references (2021)](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/) ([HN](https://news.ycombinator.com/item?id=29207397))
+- [Testing multiple implementations of a trait in Rust (2021)](https://eli.thegreenplace.net/2021/testing-multiple-implementations-of-a-trait-in-rust/)

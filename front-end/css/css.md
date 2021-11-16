@@ -387,3 +387,4 @@ all: unset
 - [CSS Destructured Course](https://cssdestructured.com/)
 - [Improving CSS Architecture with Cascade Layers, Container Queries, Scope, by Miriam Suzanne (2021)](https://www.youtube.com/watch?v=vK8vj1l_oRk)
 - [Complete Guide to CSS Flex and Grid Book](https://shrutibalasa.gumroad.com/l/css-flex-and-grid)
+- [CSS Tricks to Create that Dark Futuristic Web3 Look (2021)](https://dev.to/trishathecookie/css-tricks-to-create-that-dark-futuristic-web3-look-53bm)

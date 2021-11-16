@@ -444,3 +444,6 @@
 - [Neural Scene Graphs for Dynamic Scenes (2021)](https://light.princeton.edu/publication/neural-scene-graphs/) ([Code](https://github.com/princeton-computational-imaging/neural-scene-graphs))
 - [Image Super-Resolution via Iterative Refinement](https://iterative-refinement.github.io/) ([HN](https://news.ycombinator.com/item?id=29202899))
 - [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning (2021)](https://openreview.net/forum?id=nBU_u6DLvoK) ([Code](https://github.com/lucidrains/uniformer-pytorch))
+- [Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers (2021)](https://arxiv.org/abs/2106.05392) ([Code](https://github.com/facebookresearch/Motionformer))
+- [Multimodal Virtual Point 3D Detection (2021)](https://tianweiy.github.io/mvp/) ([Code](https://github.com/tianweiy/MVP))
+- [SiT: Self-supervised vIsion Transformer](https://github.com/Sara-Ahmed/SiT)

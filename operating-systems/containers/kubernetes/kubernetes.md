@@ -504,3 +504,6 @@
 - [Build a Platform with KRM](https://github.com/askmeegs/build-a-platform-with-krm) - Build a platform with the Kubernetes resource model.
 - [Giant Swarm](https://www.giantswarm.io/) - Managed Kubernetes as a Service. ([GitHub](https://github.com/giantswarm))
 - [Loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes.
+- [kubesec.io](https://kubesec.io/) - Security risk analysis for Kubernetes resources. ([Code](https://github.com/controlplaneio/kubesec))
+- [Control Plane](https://control-plane.io/) - Secure Kubernetes from supply-chain and runtime attacks with a zero trust, continuous security approach. ([GitHub](https://github.com/controlplaneio))
+- [Hacking Kubernetes Book](https://control-plane.io/hackingkubernetes/)

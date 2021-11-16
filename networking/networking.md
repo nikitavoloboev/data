@@ -342,3 +342,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Webhook Relay](https://webhookrelay.com/) - Relay and proxy all your webhooks to public and internal destinations.
 - [Fast checksum computation (2018)](https://blogs.igalia.com/dpino/2018/06/14/fast-checksum-computation/)
 - [Rport](https://github.com/cloudradar-monitoring/rport) - Manage remote systems with ease. ([Web](https://rport.io/))
+- [The Challenge of Bluetooth Distance Estimation (2020)](http://www.davidgyoungtech.com/2020/05/15/how-far-can-you-go)
+- [getssl](https://github.com/srvrco/getssl) - Obtain SSL certificates from the letsencrypt.org ACME server. Suitable for automating the process on remote servers.

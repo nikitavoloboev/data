@@ -85,3 +85,4 @@
 - [Picotracker Lora](https://github.com/ImperialSpaceSociety/LoRaMac-node)
 - [Generic Node - The Things Industries](https://www.genericnode.com/) - One LoRaWAN node. Endless use cases. ([Code](https://github.com/TheThingsIndustries/generic-node-se))
 - [Arduino-LMIC library](https://github.com/mcci-catena/arduino-lmic) - Adapted to run under the Arduino environment.
+- [Airtime calculator for LoRaWAN](https://avbentem.github.io/airtime-calculator/ttn/eu868) ([Code](https://github.com/avbentem/airtime-calculator))

@@ -67,3 +67,4 @@
 - [GCGC : Garbage Collection Graph Collector](https://github.com/apple/GCGC)
 - [mem](https://github.com/smasher164/mem) - Memory allocator for Go.
 - [100LOC C impl of memset, that is faster than glibc's](https://github.com/nadavrot/memset_benchmark) ([HN](https://news.ycombinator.com/item?id=29197161))
+- [Debugging memory corruption: who the hell writes “2” into my stack? (2016)](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2) ([HN](https://news.ycombinator.com/item?id=29215725))

@@ -157,3 +157,4 @@
 - [From Docker Container to Bootable Linux Disk Image (2021)](https://iximiuz.com/en/posts/from-docker-container-to-bootable-linux-disk-image/) ([Code](https://github.com/iximiuz/docker-to-linux))
 - [go-dockerfile](https://github.com/dekkagaijin/go-dockerfile) - Utilities for interacting with Dockerfiles.
 - [The Case of the Failed Docker Connection](https://mysteries.wizardzines.com/docker-connection.html)
+- [regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.

@@ -118,3 +118,7 @@
 - [The Arsse](https://thearsse.com/) - Clean & modern RSS server that doesn’t give you any crap. ([Code](https://github.com/mensbeam/arsse))
 - [RSS Discovery Engine](https://rdengine.herokuapp.com/) - Encourage people to use RSS for finding and consuming their news and current events. ([Code](https://github.com/quakkels/rssdiscoveryengine))
 - [DecSync (Decentralized Synchronization)](https://github.com/39aldo39/DecSync) - Synchronize RSS, contacts, calendars, tasks and more without a server.
+- [Crssnt](https://github.com/tgel0/crssnt) - Open source RSS feed generator for Google Sheets.
+- [RSS Combine](https://github.com/chase-seibert/rsscombine) - Combine many RSS feeds into one feed.
+- [reader](https://github.com/lemon24/reader) - Python feed reader library.
+- [rss_parsers](https://github.com/hussein-esmail7/rss-parsers) - Convert an HTML page to RSS with URL support.

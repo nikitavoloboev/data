@@ -520,7 +520,7 @@
 - [quick-protobuf](https://github.com/tafia/quick-protobuf) - Rust implementation of protobuf parser.
 - [Deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await.
 - [cuneiform](https://github.com/vertexclique/cuneiform) - Cache optimizations for Rust, revived from the slabs of Sumer.
-- [insta](https://github.com/mitsuhiko/insta) - Snapshot testing library for rust.
+- [insta](https://github.com/mitsuhiko/insta) - Snapshot testing library for rust. ([Web](https://insta.rs/))
 - [pretty.rs](https://github.com/Marwes/pretty.rs) - Wadler-style pretty-printing combinators in Rust.
 - [Rusty V8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust.
 - [WS-RS](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
@@ -1132,6 +1132,7 @@
 - [Pythonize](https://github.com/davidhewitt/pythonize) - Serializer for Rust's serde ecosystem, which can convert Rust objects to Python values and back.
 - [enumset](https://github.com/Lymia/enumset) - Library for compact bit sets based on enums.
 - [pom](https://github.com/J-F-Liu/pom) - PEG parser combinators created using operator overloading without macros.
+- [path-to-error](https://github.com/dtolnay/path-to-error) - Find out path at which a deserialization error occurred.
 
 ## Cargo Plugins
 
@@ -1231,3 +1232,4 @@
 - [Typify](https://github.com/oxidecomputer/typify) - JSON Schema -> Rust type converter.
 - [Dylint](https://github.com/trailofbits/dylint) - Tool for running Rust lints from dynamic libraries.
 - [cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies.
+- [Meili crates browser](https://crates.meilisearch.com/) - Expose all crates from crates.io with MeiliSearch. ([Code](https://github.com/meilisearch/demo-finding-crates))

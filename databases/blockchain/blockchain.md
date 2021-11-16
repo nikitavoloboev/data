@@ -280,3 +280,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Cortex - AI on Blockchain written in Go](https://github.com/CortexFoundation/CortexTheseus)
 - [Scrypto](https://github.com/radixdlt/radixdlt-scrypto) - Language for building DeFi apps on Radix.
 - [NFT Canon](https://future.a16z.com/nft-canon/)
+- [CryptoJobList](https://cryptojobslist.com/) - The web's biggest list of Cryptocurrency Jobs and Blockchain Jobs.

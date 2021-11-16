@@ -21,7 +21,7 @@
 - [Data Observability: Building Your Own Data Quality Monitors Using SQL (2021)](https://ryanothnielkearns.medium.com/data-observability-building-your-own-data-quality-monitors-using-sql-a4c848b6882d)
 - [Data Observability Universe (2020)](https://metaplane.dev/data-observability)
 - [Observability: What it is and why you need it | Logging, Metrics & Alerts (2021)](https://elastisys.com/what-was-observability-again/)
-- [Metaplane](https://www.metaplane.dev/) - Observability for modern data stacks.
+- [Metaplane](https://www.metaplane.dev/) - Observability for modern data stacks. ([HN](https://news.ycombinator.com/item?id=29226864))
 - [Testing vs Observability: Which is right for your data quality needs? (2021)](https://medium.com/bigeye/testing-vs-observability-which-is-right-for-your-data-quality-needs-1ceb34a12867)
 - [Observability: A New Theory Based on the Group of Invariance (2020)](https://www.maa.org/press/maa-reviews/observability-a-new-theory-based-on-the-group-of-invariance) ([HN](https://news.ycombinator.com/item?id=28285988))
 - [Unpacking Observability: The Observability Stack (2021)](https://adri-v.medium.com/unpacking-observability-the-observability-stack-93d4733e2a72)

@@ -45,3 +45,4 @@
 - [Polystat](https://github.com/polystat/polystat) - Polyglot Static Analyzer for Object-Oriented Programs Based on EOLANG and 𝜑-Calculus.
 - [Design Patterns VS Design Principles: Iterator, Mediator and Memento (2021)](https://www.fluentcpp.com/2021/09/12/design-patterns-vs-design-principles-iterator-mediator-and-memento/)
 - [Learn Object Oriented Programming Basics in 30 Minutes: A Free Crash Course (2020)](https://www.freecodecamp.org/news/object-oriented-programming-crash-course/)
+- [The Essence of Inheritance (2016)](https://arxiv.org/pdf/1601.02059.pdf)

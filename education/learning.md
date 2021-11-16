@@ -166,3 +166,4 @@
 - [Great YouTube learning channels (2021)](https://twitter.com/balajis/status/1443128820249214979)
 - [Willingness to Look Stupid](https://danluu.com/look-stupid/) ([HN](https://news.ycombinator.com/item?id=28942189))
 - [How Learning Works: Components, Systems, and Loops (2021)](https://romandesign.co/how-learning-works-components-systems-and-loops/)
+- [100R — resources](https://100r.co/site/resources.html)

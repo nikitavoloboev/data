@@ -3,6 +3,7 @@
 ## Notes
 
 - [Tools are interpreted by the brain as an extension of the human body.](https://twitter.com/provisionalidea/status/1392854515347513351)
+- [Nerve innervations (sensitivity) is physiological while pleasure is neurological/psychological. The brain does a lot of processing of signals before it can become pleasure. Pleasure is most commonly agreed to be a function of dopaminergic receptor activating in the amygdala. What makes it even harder to quantify is that those receptors are subject to acclimatization and as an example for how strong it can be is that it's one of the theorized pathways for addiction to work.](https://www.reddit.com/r/science/comments/qtvm4z/foreskin_found_to_be_extraordinarily_innervated/hko0snt/?context=3)
 
 ## Links
 
@@ -90,6 +91,7 @@
 - [Generalized Shape Metrics on Neural Representations (2021)](https://arxiv.org/abs/2110.14739) ([Tweet](https://twitter.com/ItsNeuronal/status/1455300536442388482))
 - [The strange path of accepting how your brain works (2021)](https://alexanderell.is/posts/limitations/) ([HN](https://news.ycombinator.com/item?id=29057510))
 - [Standardized Brain Molecular Atlas for Systems Modeling and Simulation (2021)](https://www.frontiersin.org/articles/10.3389/fnmol.2021.604559/full)
+- [Study finds a difference between neurons of humans and other mammals (2021)](https://www.nature.com/articles/s41586-021-04072-3) ([HN](https://news.ycombinator.com/item?id=29213806))
 
 ## Images
 

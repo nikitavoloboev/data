@@ -134,3 +134,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Growing food](https://100r.co/site/growing_food.html)
 - [San Jose Is the Bay Area’s Great Immigrant Food City (2021)](https://www.kqed.org/arts/13904835/san-jose-immigrant-food) ([Tweet](https://twitter.com/theluketsai/status/1450864730348789762))
 - [Mojo Microdose Soft Chews](https://mojo.shop/)
+- [Fukuoka Eats](https://fukuokaeats.com/)

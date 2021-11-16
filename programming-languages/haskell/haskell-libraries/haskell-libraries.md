@@ -46,6 +46,7 @@
 
 - [Threepenny-GUI](https://github.com/HeinrichApfelmus/threepenny-gui) - GUI framework that uses the web browser as a display.
 - [Monomer](https://github.com/fjvallarino/monomer) - Easy to use, cross platform, GUI library for writing Haskell applications.
+- [haskell-chart](https://github.com/timbod7/haskell-chart) - 2D charting library.
 
 ## ML
 

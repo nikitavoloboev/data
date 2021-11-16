@@ -23,4 +23,6 @@
 - [Citizen DAO](https://citizendao.com/) - Crypto Community for Social Impact Projects.
 - [Diamond DAO](https://www.diamonddao.xyz/) - Home for DAO data nerds.
 - [DAO community treasuries are being criminally underused](https://twitter.com/AntonioMJuliano/status/1458844848560087070)
-- [ConstitutionDAO](https://www.constitutiondao.com/) - Put The US Constitution in the hands of The People. ([Twitter](https://twitter.com/ConstitutionDAO))
+- [ConstitutionDAO](https://www.constitutiondao.com/) - Put The US Constitution in the hands of The People. ([Twitter](https://twitter.com/ConstitutionDAO)) ([Code](https://github.com/Constitution-DAO/contracts))
+- [Liquidity miners: hands of 💎 or 🧻? (2021)](https://mirror.xyz/0x7B542178633f16940a131F8F6d670ffdbBe6b2Ab/HoTLzeiTUBn7c-uZoVcZ6PO9AlGrVQI_4WYDSeJFTiA) ([Tweet](https://twitter.com/alex_kroeger/status/1460053068460924930))
+- [H=N creates DAO to manage the website by community (2021)](https://twitter.com/jongold/status/1459991195128504320)

@@ -24,3 +24,5 @@
 - [Solid state batteries, ready to ship (2021)](https://hackaday.com/2021/08/03/murata-to-deliver-solid-state-batteries-to-market-in-the-fall/)
 - [Stanford researchers make rechargeable batteries that store 6x more charge (2021)](https://news.stanford.edu/2021/08/25/researchers-make-alkali-metal-chlorine-batteries-rechargeable/) ([HN](https://news.ycombinator.com/item?id=28353289))
 - [Study: Recycled Lithium Batteries as Good as Newly Mined (2021)](https://spectrum.ieee.org/recycled-batteries-good-as-newly-mined) ([HN](https://news.ycombinator.com/item?id=28921083))
+- [The Most Ethical Batteries for Renewable Energy Systems (2018)](https://www.youtube.com/watch?v=PQ-Ibc1zCYk)
+- [Nickel-Iron 'Edison' Batteries](https://permies.com/t/40/36069/Nickel-Iron-Edison-Batteries) ([Tweet](https://merveilles.town/web/statuses/107243804074372375))

@@ -146,3 +146,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Subtext](https://github.com/gordonbrander/subtext) - Text-based, block-oriented hypertext format.
 - [Vite Plugin Monaco Editor](https://github.com/vdesjs/vite-plugin-monaco-editor) - Plugin to simplify loading the Monaco Editor with vite.
 - [prisma/text-editors](https://github.com/prisma/text-editors) - Exports a bunch of batteries-included code editors for Typescript, JSON, SQL & Prisma Schemas.
+- [prosemirror-dev-toolkit](https://github.com/TeemuKoivisto/prosemirror-dev-toolkit) - Injectable developer tools for ProseMirror rich-text editors implemented in Svelte and TypeScript.

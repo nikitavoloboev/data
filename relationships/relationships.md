@@ -130,3 +130,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Leave a Cheater, Gain a Life: The Chump Lady's Survival Guide by Tracy Schorn (2016)](https://www.goodreads.com/en/book/show/25898115)
 - [Love Must Be Tough: New Hope for Marriages in Crisis by James C. Dobson (2004)](https://www.goodreads.com/book/show/56415.Love_Must_Be_Tough)
 - [People like you more than you think](https://journals.sagepub.com/doi/abs/10.1177/0956797618783714) ([Tweet](https://twitter.com/MaxCRoser/status/1456224689727094784))
+- [Divorce does funny things (2021)](https://www.theparisreview.org/blog/2021/11/09/divorce-does-funny-things/) ([HN](https://news.ycombinator.com/item?id=29236676))

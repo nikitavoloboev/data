@@ -213,3 +213,4 @@
 - [Future of Data Work: Collaboration and No Limits (2021)](https://observablehq.com/@observablehq/future-of-data-work-collaboration-and-no-limits)
 - [Rows](https://rows.com/) - Spreadsheet where teams work faster.
 - [RDMkit](https://rdmkit.elixir-europe.org/) - Online guide containing good data management practices applicable to research projects from the beginning to the end. ([Code](https://github.com/elixir-europe/rdmkit))
+- [Select Star](https://www.selectstar.com/) - Data discovery made easy.

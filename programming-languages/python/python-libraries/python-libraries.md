@@ -554,6 +554,9 @@
 - [TextDescriptives](https://github.com/HLasse/TextDescriptives) - Python library for calculating a large variety of statistics from text.
 - [ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces.
 - [Rusty results](https://github.com/danielsanchezq/rusty_results) - Rust-inspired Option and Result types. Pattern matching ready.
+- [Astroid](https://github.com/PyCQA/astroid) - Common base representation of python source code for pylint and other projects.
+- [Babel](https://github.com/python-babel/babel) - Python library that provides an integrated collection of utilities that assist with internationalizing and localizing Python applications.
+- [snoop](https://github.com/alexmojaki/snoop) - Powerful set of Python debugging tools, based on PySnooper.
 
 ## Links
 

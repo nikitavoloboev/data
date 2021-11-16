@@ -25,6 +25,10 @@
 - [k6 Operator](https://github.com/grafana/k6-operator) - Operator for running distributed k6 tests.
 - [TiDB Operator](https://github.com/pingcap/tidb-operator) - TiDB operator creates and manages TiDB clusters running in Kubernetes.
 - [kube-watch-diff](https://github.com/leopoldxx/kube-watch-diff) - kubectl plugin for watching resources and generating diffs.
+- [ksniff](https://github.com/eldadru/ksniff) - Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark.
+- [kubelogin](https://github.com/int128/kubelogin) - Kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication.
+- [kubectl-kubesec](https://github.com/controlplaneio/kubectl-kubesec) - Security risk analysis for Kubernetes resources.
+- [kubectl janitor](https://github.com/dastergon/kubectl-janitor) - List Kubernetes objects in a problematic state.
 
 ## Links
 

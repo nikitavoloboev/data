@@ -54,7 +54,7 @@
 - [Simple Systems Have Less Downtime (2020)](https://www.gkogan.co/blog/simple-systems/?r=0) ([HN](https://news.ycombinator.com/item?id=22471355))
 - [A primer on functional architecture (2020)](https://increment.com/software-architecture/primer-on-functional-architecture/)
 - [Colloquium on Computer Systems videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
-- [Data-Oriented Architecture (2020)](https://blog.eyas.sh/2020/03/data-oriented-architecture/) ([HN](https://news.ycombinator.com/item?id=22519974))
+- [Data-Oriented Architecture (2020)](https://blog.eyas.sh/2020/03/data-oriented-architecture/) ([HN](https://news.ycombinator.com/item?id=22519974)) ([HN](https://news.ycombinator.com/item?id=29209365))
 - [Ready for changes with Hexagonal Architecture (2020)](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749) ([HN](https://news.ycombinator.com/item?id=22540610))
 - [List of Post-mortems](https://github.com/danluu/post-mortems) ([HN](https://news.ycombinator.com/item?id=24743965))
 - [Simplify Full-Stack Development with a Unified Architecture (2019)](https://liaison.dev/blog/articles/Simplify-Full-Stack-Development-with-a-Unified-Architecture-187fr1)
@@ -172,3 +172,4 @@
 - [Software architecture patterns Book (2015)](https://www.oreilly.com/content/software-architecture-patterns/)
 - [Fundamentals of Software Architecture Book (2020)](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 - [Netflix's Cloud Edge Architecture (2021)](https://www.linkedin.com/pulse/netlfixs-cloud-edge-architecture-philip-fisher-ogden/) ([Tweet](https://twitter.com/philip_pfo/status/1353853706995978243))
+- [Processing billions of events in real time (2021)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-) ([HN](https://news.ycombinator.com/item?id=29233463))

@@ -51,6 +51,7 @@
 - [term](https://github.com/pkg/term) - Manages POSIX terminals.
 - [opts](https://github.com/jpillora/opts) - Building frictionless command-line interfaces.
 - [Cobra](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions. ([Web](https://cobra.dev/)) ([cobrautil](https://github.com/jzelinskie/cobrautil))
+- [oauth2cli](https://github.com/int128/oauth2cli) - Go package of OAuth 2.0 authorization for command line tools, which allows simple authorization flow for better UX.
 
 ## Test
 
@@ -476,6 +477,7 @@
 - [pstree](https://github.com/sbinet/pstree) - Simple minded package to retrieve the process tree from a given PID.
 - [mysql](https://github.com/go-sql-driver/mysql) - MySQL driver for Go's (golang) database/sql package.
 - [fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimzes GC overhead.
+- [fastcache](https://github.com/zerodha/fastcache) - HTTP response caching package that plugs into fastglue that simplifies "dumb" caching of API endpoints.
 - [expr](https://github.com/antonmedv/expr) - Evaluate expression in Go.
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages.
 - [Casbin](https://github.com/casbin/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Go. ([Web](https://casbin.org/en/)) ([HN](https://news.ycombinator.com/item?id=26934520))
@@ -1065,6 +1067,11 @@
 - [packngo](https://github.com/packethost/packngo) - Go client for the Equinix Metal API.
 - [HybridCache](https://github.com/cshum/hybridcache) - Multi-level cache library with cache stampede prevention for Go.
 - [zerodriver](https://github.com/hirosassa/zerodriver) - Zerolog based logging library optimized for Cloud Logging.
+- [go-misc](https://github.com/aclements/go-misc) - Miscellaneous Go hacks.
+- [log](https://github.com/go-playground/log) - Simple, highly configurable, Structured Logging library.
+- [form](https://github.com/go-playground/form) - Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support.
+- [mold](https://github.com/go-playground/mold) - General library to help modify or set data within data structures and other objects.
+- [pkg](https://github.com/go-playground/pkg) - Extends the core Go packages with missing or additional functionality built in.
 
 ## Links
 

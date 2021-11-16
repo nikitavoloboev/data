@@ -298,3 +298,5 @@
 - [Audio Augmentations](https://github.com/Spijkervet/torchaudio-augmentations) - Library for PyTorch for audio in the time-domain, with support for stochastic data augmentations.
 - [e2cnn](https://github.com/QUVA-Lab/e2cnn) - PyTorch extension for equivariant deep learning.
 - [Deep Learning With PyTorch - Full Course (2021)](https://www.youtube.com/watch?v=c36lUUr864M)
+- [All You Need to Know About PyTorch (2021)](https://taying-cheng.medium.com/all-you-need-to-know-about-pytorch-a0ba3af897fa)
+- [TorchSnooper](https://github.com/zasdfgbnm/TorchSnooper) - Debug PyTorch code using PySnooper.

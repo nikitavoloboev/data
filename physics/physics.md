@@ -253,3 +253,4 @@
 - [Nature Physics](https://www.nature.com/nphys/) ([Twitter](https://twitter.com/NaturePhysics))
 - [MIT Introduction to Special Relativity (2021)](https://ocw.mit.edu/courses/physics/8-20-introduction-to-special-relativity-january-iap-2021/index.htm)
 - [What does it mean for light to be a wave? (2021)](https://www.reddit.com/r/quantum/comments/qsrbi1/what_does_it_mean_for_light_to_be_a_wave/)
+- [Invariant Tensors in Gauge Theories (2018)](https://arxiv.org/abs/1806.04332) ([Tweet](https://twitter.com/SamuelGWalters/status/1459828154546065411))

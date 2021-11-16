@@ -78,3 +78,4 @@
 - [Visible](https://github.com/visible/visible) - Accessibility testing framework at the next level.
 - [A guide to designing accessible, WCAG-compliant focus indicators (2021)](https://www.sarasoueidan.com/blog/focus-indicators/) ([HN](https://news.ycombinator.com/item?id=29123990))
 - [The effect of CSS on screen readers (2021)](https://uselessdivs.com/blog/the-effect-of-css-on-screen-readers)
+- [Testing Accessibility workshop series](https://github.com/marcysutton/testing-accessibility-demos)

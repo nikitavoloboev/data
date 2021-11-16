@@ -469,3 +469,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Seb Lester](https://www.seblester.com/) - Lettering Artist. ([Twitter](https://twitter.com/SebLester))
 - [The Klimt Color Enigma](https://artsandculture.google.com/story/the-klimt-color-enigma/SQWxuZfE5ki3mQ?hl=en) - Colorizing Klimt’s Vanished Paintings with Artificial Intelligence and Klimt Experts. ([HN](https://news.ycombinator.com/item?id=28955639))
 - [NFT's Aren't the Answer to the IRL Problems of Digital Art (2021)](https://www.jacquescorbytuech.com/writing/irl-problem-digital-art-nft) ([HN](https://news.ycombinator.com/item?id=29159693))
+- [Why Beauty Matters (2009)](https://topdocumentaryfilms.com/why-beauty-matters/)

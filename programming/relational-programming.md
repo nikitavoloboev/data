@@ -11,3 +11,4 @@
 - [metaKanren: Towards a self-synthesizing miniKanren](https://icfp21.sigplan.org/details/minikanren-2021-papers/4/metaKanren-Towards-a-self-synthesizing-miniKanren) ([Code](https://github.com/iambrj/metaKanren))
 - [µKanren-rs](https://github.com/ekzhang/ukanren-rs) - Rust implementation of µKanren, a featherweight relational programming language.
 - [µKanren](https://github.com/jasonhemann/microKanren) - Implementation of microKanren, a featherweight relational programming language.
+- [staged-miniKanren](https://github.com/namin/staged-miniKanren) - Staged relational interpreters: running with holes, faster.

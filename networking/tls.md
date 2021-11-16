@@ -56,3 +56,5 @@
 - [TLS-Attacker](https://github.com/tls-attacker/TLS-Attacker) - Java-based framework for analyzing TLS libraries.
 - [TLS Fingerprinting](https://github.com/LeeBrotherston/tls-fingerprinting)
 - [acme-rs](https://github.com/kariustobias/acme-rs) - ACME Client for Let's Encrypt written in Rust to request SSL/TLS certificates.
+- [TLS Poison](https://github.com/jmdx/TLS-poison) - Tool that allows for generic SSRF via TLS, as well as CSRF via image tags in most browsers.
+- [TLA+ Foundation](https://github.com/tlaplus/foundation)

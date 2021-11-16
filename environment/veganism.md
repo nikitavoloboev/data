@@ -55,3 +55,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Веганство - это единственная справедливая позиция по отношению к животным](https://twitter.com/polina_txt/status/1443465929959018497)
 - [«Животные страдают, а я не могу один день поголодать?» (2021)](https://takiedela.ru/2021/11/zhivotnye-stradayut/) ([Tweet](https://twitter.com/polina_txt/status/1455103445208289282))
 - [Low budget, vegan meals](https://twitter.com/tyrathetaurus/status/1081995886345900032)
+- [Vegan Hacktivists](https://veganhacktivists.org/) - Compassion, Creativity, Code!

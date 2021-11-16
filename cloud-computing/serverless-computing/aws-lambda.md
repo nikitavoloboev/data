@@ -89,3 +89,4 @@
 - [aws-lambda-image](https://github.com/ysugimoto/aws-lambda-image) - Automatic image resize/reduce on AWS Lambda.
 - [API Gateway REST API: Step Functions direct integration – AWS CDK guide (2021)](https://dev.to/aws-builders/api-gateway-rest-api-step-functions-direct-integration-aws-cdk-guide-13c4)
 - [Implementing header-based API Gateway versioning with Amazon CloudFront (2021)](https://aws.amazon.com/blogs/compute/implementing-header-based-api-gateway-versioning-with-amazon-cloudfront/)
+- [Tips to prevent a serverless wreck (2021)](https://dev.to/aws-heroes/tips-to-prevent-a-serverless-wreck-15af)

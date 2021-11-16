@@ -410,3 +410,4 @@
 - [NetNS Exec](https://github.com/johnae/netns-exec) - Simple command for executing a process within a Linux network namespace.
 - [Running a law firm on Linux (2021)](https://decoded.legal/blog/2021/11/running-a-law-firm-on-linux) ([HN](https://news.ycombinator.com/item?id=29199395))
 - [Holy Build Box](https://github.com/FooBarWidget/holy-build-box) - System for building "portable" binaries for Linux: binaries that work on pretty much any Linux distribution. ([Web](http://foobarwidget.github.io/holy-build-box/))
+- [Uroboros](https://github.com/evilsocket/uroboros) - GNU/Linux monitoring and profiling tool focused on single processes.

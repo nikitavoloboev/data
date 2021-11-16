@@ -471,3 +471,4 @@
 - [Spending $5k to learn how database indexes work (2021)](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/) ([HN](https://news.ycombinator.com/item?id=29132572))
 - [A terrible schema from a clueless programmer (2021)](http://rachelbythebay.com/w/2021/11/06/sql/) ([HN](https://news.ycombinator.com/item?id=29139902)) ([Lobsters](https://lobste.rs/s/wld7fb/terrible_schema_from_clueless))
 - [How do/would you approach storing "likes"? (2021)](https://twitter.com/techgirl1908/status/1459281360498089988)
+- [The Story behind The Truth: Designing a Data Model (2018)](https://ourmachinery.com/post/the-story-behind-the-truth-designing-a-data-model/)

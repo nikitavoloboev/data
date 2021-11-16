@@ -23,6 +23,7 @@
 - [Governance means conflict. It also means resolution. Accept the former, focus on the latter, and trust your team. With transparency.](https://twitter.com/armaniferrante/status/1450878886535839745)
 - [Regulation is often better for the incumbents than the challengers.](https://twitter.com/benedictevans/status/1455531071588679689)
 - [Polls as easy as a tweet, civic engagement, allocating funds. Just need some DAO tools on this.](https://twitter.com/yanivgraph/status/1457104839620677632)
+- [Socialism and dictatorship fit together like two jigsaw puzzle pieces, because in practice communal ownership = state control](https://twitter.com/paulg/status/1460212725938900995)
 
 ## Links
 

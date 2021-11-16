@@ -136,3 +136,4 @@
 - [Variant](https://variant.fund/) - First-check crypto fund investing in the ownership economy. ([Twitter](https://twitter.com/variantfund)) ([Tweet](https://twitter.com/JasonYanowitz/status/1453435566666682374))
 - [Seven Seven Six](https://sevensevensix.com/) - Venture capital firm, founded by builders, built with software.
 - [An Engineer's View of Venture Capitalists (2001)](https://spectrum.ieee.org/an-engineers-view-of-venture-capitalists) ([HN](https://news.ycombinator.com/item?id=29187684))
+- [Tiger Global: How to Win (2021)](https://www.readthegeneralist.com/briefing/tiger-global) ([Tweet](https://twitter.com/mariogabriele/status/1459961594344050692))

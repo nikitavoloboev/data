@@ -263,3 +263,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [VimScript Language Server](https://github.com/iamcco/vim-language-server)
 - [Denops](https://github.com/vim-denops/denops.vim) - Ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno.
 - [impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim.
+- [From init.vim to init.lua (2021)](https://www.notonlycode.org/neovim-lua-config/)

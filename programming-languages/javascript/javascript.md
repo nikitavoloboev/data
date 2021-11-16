@@ -378,3 +378,5 @@ if (
 - [Deep-copying in JavaScript (2018)](https://surma.dev/things/deep-copy/index.html) ([Tweet](https://twitter.com/DasSurma/status/1456999878798807044))
 - [Reduce minified code size by property mangling](https://lihautan.com/reduce-minified-code-size-by-property-mangling/)
 - [ECMAScript Pattern Matching](https://github.com/tc39/proposal-pattern-matching)
+- [JSConf](https://www.jsconf.in/) ([Twitter](https://twitter.com/jsconfin))
+- [JS Sockets API Proposal](https://github.com/jasnell/sockets-api)

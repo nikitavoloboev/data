@@ -150,3 +150,4 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Solana Breakpoint Conference](https://solana.com/breakpoint) ([Reddit](https://www.reddit.com/r/solana/comments/qpjlmm/solana_breakpoint_2021_events_starts_november_8/))
 - [Secretum](https://secretum.io/) - Secure Messaging & Trading dapp on Solana.
 - [Lava Cash](https://lava.cash/) - Decentralized Privacy Preservation Protocol built on Solana. ([Reddit](https://www.reddit.com/r/solana/comments/qtp7xh/is_it_possible_to_mask_sol_address_for_receiving/))
+- [NFT Armory](https://www.nftarmory.me/) - Simple tool to display, mint, and modify your Metaplex NFTs. ([Code](https://github.com/ilmoi/nft-armory))

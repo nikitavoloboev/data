@@ -339,3 +339,5 @@
 - [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md) ([Reddit](https://www.reddit.com/r/haskell/comments/qq7tki/l%C3%B6b_and_m%C3%B6b_strange_loops_in_haskell/))
 - [All about `deriving` in GHC (2021)](https://www.youtube.com/watch?v=xQFon5b2ABg)
 - [Applying File Changes with fix and GADTs (2021)](https://dfithian.github.io/2021/11/12/applying-file-changes-with-fix-and-gadts.html)
+- [A Beginner's Guide to Haskell](https://serras.github.io/haskell-exchange-2021/slides#1)
+- [A Beginner's Guide to Haskell and its Ecosystem (2021)](https://serras.github.io/haskell-exchange-2021/slides#1)

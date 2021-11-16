@@ -116,6 +116,7 @@
 - [task](https://github.com/ane/task) - Simple and functional concurrency primitives for Clojure.
 - [Vigil](https://github.com/ane/vigil) - Turn files into asynchronous streams.
 - [tools.build](https://github.com/clojure/tools.build) - Library of functions for building Clojure projects.
+- [pronto](https://github.com/AppsFlyer/pronto) - Clojure support for protocol buffers.
 
 ## Links
 

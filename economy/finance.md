@@ -136,3 +136,5 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Stripe for book-keeping tools (2021)](https://twitter.com/maccaw/status/1457509961970372608)
 - [Which Stripe improvement you want to see most (2021)](https://twitter.com/patrickc/status/1458263819776512001)
 - [Debit cards are hidden financial infrastructure (2021)](https://bam.kalzumeus.com/archive/debit-cards-are-hidden-financial-infrastructure/) ([HN](https://news.ycombinator.com/item?id=29206462))
+- [Breaking down the 'payment for order flow' debate (2021)](https://a16z.com/2021/02/17/payment-for-order-flow/) ([HN](https://news.ycombinator.com/item?id=29210628))
+- [Wise](https://wise.com/) - Online Money Transfers | International Banking Features.

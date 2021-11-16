@@ -223,6 +223,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Kosmik](https://lithium.paris/) - Your all-in-one creative space.
 - [PlantText UML Editor](https://www.planttext.com/)
 - [Twist](https://twist.com/) - Async messaging for the flexible future of work. ([Twitter](https://twitter.com/TwistWork)) ([Tweet](https://twitter.com/bkaneMN/status/1458843005843124228))
+- [Taplink](https://taplink.cc/) - Multilinks and micro landing pages for Instagram.
 - [Orbit](https://github.com/gulien/orbit) - Cross-platform task runner for executing commands and generating files from templates.
 - [Paysly](https://paysly.io/) - Verifiable Payments in a single API call.
 - [Gaupol](https://otsaloma.io/gaupol/) - Editor for text-based subtitles. ([Code](https://github.com/otsaloma/gaupol))
@@ -233,6 +234,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Quest AI](https://www.quest.ai/) - Design to live web pages automatically with nocode.
 - [Refermo](https://refermo.co/) - Referral software for SaaS running on Paddle.
 - [FreeScout](https://freescout.net/) - Free self-hosted Zendesk & Help Scout alternative.
+- [Dala](https://dala.craftedbygc.com/) - Ask Dala to instantly find anything or anyone from any workplace system.
 - [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
 - [FlowForge](https://flowforge.com/) - Open source low-code development platform. ([Twitter](https://twitter.com/FlowForgeInc))
@@ -420,6 +422,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [LiveDocs](https://livedocs.io/) - Programmable, self-updating document for futuristic companies.
 - [Statebox](https://statebox.org/) - Building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination.
 - [Serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
+- [ClickUp](https://clickup.com/) - One app to replace them all.
 - [Assembled](https://www.assembled.com/) - Modern Workforce Management Platform.
 - [Crisp](https://crisp.chat/en/) - Give your customer messaging experience a human touch.
 - [Polynote](https://github.com/polynote/polynote) - Better notebook for Scala (and more). ([Article](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)) ([HN](https://news.ycombinator.com/item?id=21337260))

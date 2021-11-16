@@ -461,6 +461,7 @@
   - [WebAssembly](web/webassembly.md)
   - [SEO](web/seo.md)
   - [Electron](web/electron.md)
+  - [Vite](web/vite.md)
   - [Webpack](web/webpack.md)
   - [Rollup](web/rollup.md)
   - [WebRTC](web/webrtc.md)

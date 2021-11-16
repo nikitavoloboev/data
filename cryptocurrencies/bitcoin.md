@@ -169,3 +169,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - JavaScript Bitcoin library for node.js and browsers.
 - [Sapio](https://github.com/sapio-lang/sapio) - Framework for creating composable multi-transaction Bitcoin Smart Contracts.
 - [TokenSwap](https://tswap.io/#/) - AMM DEX running on BSV. ([Twitter](https://twitter.com/tswap_io))
+- [Mako](https://github.com/chjj/mako) - Full Bitcoin implementation in C. ([HN](https://news.ycombinator.com/item?id=29230068))

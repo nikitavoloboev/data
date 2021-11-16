@@ -98,3 +98,5 @@
 - [Peergos](https://peergos.org/) - p2p, secure file storage, social network and application protocol. ([GitHub](https://github.com/Peergos)) ([Code](https://github.com/Peergos/Peergos))
 - [Hyperswarm discovery stack](https://github.com/hyperswarm/discovery)
 - [Hyper-VCR](https://github.com/pfrazee/hyper-vcr) - p2p version-controlled repo (built on hypercore).
+- [Twitter without Twitter: Distributed apps in the browser (2021)](https://www.youtube.com/watch?v=YJ6hX_x4_tw)
+- [Phonon Network Specification](https://github.com/GridPlus/phonon-network) - Peer-to-peer network independent of the internet.

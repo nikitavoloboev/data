@@ -173,3 +173,4 @@
 - [Why Clojure is great (2021)](https://twitter.com/furkan3ayraktar/status/1458503075547787266)
 - [Macrobrew: Clojure macros distilled (2021)](https://www.abhinavomprakash.com/posts/macrobrew/)
 - [Clojure Tutorial for Beginners (2021)](https://www.abhinavomprakash.com/posts/clojure-tutorial-for-beginners-1/)
+- [logically](https://github.com/namin/logically) - Explorations of logic programming in Clojure's core.logic.

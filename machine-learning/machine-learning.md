@@ -599,3 +599,4 @@
 - [ML Collective](https://mlcollective.org/) - Independent, nonprofit organization with a mission to make research opportunities accessible and free. ([Classics and Trends](https://mlcollective.org/dlct/))
 - [Awesome MLOps](https://github.com/kelvins/awesome-mlops)
 - [Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) ([Code](https://github.com/ziritrion/ml-zoomcamp))
+- [Yann LeCun’s 2021 Deep Learning Course at CDS (2021)](https://cds.nyu.edu/deep-learning/) ([HN](https://news.ycombinator.com/item?id=29218520))

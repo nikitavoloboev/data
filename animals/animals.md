@@ -38,6 +38,8 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Rabbit surreptitiously stretches within reach of kisses](https://www.reddit.com/r/aww/comments/i3l7k4/how_to_surreptitiously_stretch_within_reach_of/)
 - [Level of devotion of sea otter mothers for their pups](https://twitter.com/Rainmaker1973/status/1448723919737872384)
 - [Sea Otters hold hands with their friends and family members whilst sleeping. This is so they don't drift apart, and lose each other.](https://twitter.com/gunsnrosesgirl3/status/1449373228242198533)
+- [hedgehog dust-bathing](https://twitter.com/Rainmaker1973/status/1459931869110226951)
+- [foxes: us](https://twitter.com/qonqon_biyori/status/1459849427934269440)
 
 ## Notes
 

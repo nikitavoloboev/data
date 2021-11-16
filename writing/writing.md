@@ -263,3 +263,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [What I learned from a year on Substack (2021)](https://www.niemanlab.org/2021/09/what-i-learned-from-a-year-on-substack/) ([HN](https://news.ycombinator.com/item?id=29090448))
 - [Advice for aspiring bloggers (2021)](https://www.haskellforall.com/2021/10/advice-for-aspiring-bloggers.html)
 - [Awesome Writing](https://github.com/jenniferlynparsons/awesome-writing)
+- [Writer](https://writer.com/) - AI Writing Assistant for Teams. ([Twitter](https://twitter.com/Get_Writer))

@@ -359,3 +359,5 @@
 - [pgquarrel](https://github.com/eulerto/pgquarrel) - Program that compares PostgreSQL database schemas (DDL).
 - [Scaling Postgres Episodes - YouTube](https://www.youtube.com/playlist?list=PLdTaEgcmPg9Kl539gyIFtWL0-cqk3m7v9)
 - [PostgreSQL Tutorials - YouTube](https://www.youtube.com/playlist?list=PLdTaEgcmPg9KiTCPWh-K961tiZrvhgfFu)
+- [Fun with PostGIS: Mandelbrot set, game of life, and more (2021)](https://blog.jooq.org/fun-with-postgis-mandelbrot-set-game-of-life-and-more/)
+- [Cloudflare Workers + PostgreSQL Template](https://github.com/cloudflare/worker-template-postgres)

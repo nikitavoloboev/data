@@ -34,3 +34,4 @@
 - ["Nim Nuggets: Systems Programming & Metaprogramming Magic" by Aditya Siram (2021)](https://www.youtube.com/watch?v=d2VRuZo2pdA)
 - [Nim 1.6 (2021)](https://nim-lang.org/blog/2021/10/19/version-160-released.html) ([HN](https://news.ycombinator.com/item?id=28916172))
 - [Metaprogramming in Nim (2021)](https://www.youtube.com/watch?v=2EWLE-IFgGM)
+- [Zen of Nim (2021)](https://nim-lang.org/blog/2021/11/15/zen-of-nim.html)

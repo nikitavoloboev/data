@@ -146,7 +146,7 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Tools to manage a Nix-based project](https://github.com/shajra/nix-project)
 - [Building static Haskell binary with Nix on Linux (2020)](https://blog.patchgirl.io/haskell/2020/07/13/static-haskell-binary.html)
 - [Template for NUR repositories](https://github.com/rvolosatovs/nur-packages)
-- [Bramble](https://github.com/maxmcd/bramble) - Functional build system inspired by nix.
+- [Bramble](https://github.com/maxmcd/bramble) - Functional build system inspired by nix. ([Article](https://maxmcd.com/posts/bramble/)) ([Lobsters](https://lobste.rs/s/g1tqfe/bramble_purely_functional_build_system))
 - [The easiest way (I've found) to create your own Nix channel (2020)](https://lucperkins.dev/blog/nix-channel/)
 - [Nix Monorepo](https://github.com/lucperkins/nix-monorepo) - How you might use Nix in a larger, multi-language project.
 - [A Tutorial Introduction to Nix (2020)](https://rgoswami.me/posts/ccon-tut-nix/)

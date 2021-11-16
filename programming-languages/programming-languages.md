@@ -263,3 +263,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Chigraph](https://chigraph.io/) - Visual systems language for beginners compiled using LLVM. ([Code](https://github.com/chigraph/chigraph))
 - [Which programming language is fastest?](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) - Website that shows toy-program performance measurements for ~24 language implementations. ([Code](https://salsa.debian.org/benchmarksgame-team/benchmarksgame))
 - [What's your favorite GC-based language? (2021)](https://twitter.com/sunshowers6/status/1457162357591838721)
+- [Selecting a programming language can be a form of premature optimization (2021)](https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/)
+- [Shawn Wang - Growing a Meta-Language (2021)](https://www.youtube.com/watch?v=Dz4q_bNDqfo)

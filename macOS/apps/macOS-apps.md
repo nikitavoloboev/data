@@ -187,3 +187,5 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Microverse](https://github.com/jspahrsummers/Microverse) - macOS virtualization app for M1/Apple Silicon.
 - [Run MacOS Software On Linux Using Darling (2021)](https://ostechnix.com/run-macos-software-on-linux-using-darling/) ([Lobsters](https://lobste.rs/s/ju4vut/run_macos_software_on_linux_using_darling))
 - [Pacifist](https://www.charlessoft.com/) - Powerful multi-tool for working with macOS package files, disk images, and file archives.
+- [macOS Monterey's new network quality tool is surprisingly good (2021)](https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html)
+- [IconSur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator.

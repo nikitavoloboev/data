@@ -133,3 +133,4 @@
 - [Prediction, Estimation, and Attribution (2019)](https://efron.ckirby.su.domains//papers/2019PredictEstimatAttribut.pdf) ([Tweet](https://twitter.com/sandwichmaker/status/1458315417294761984))
 - [Probability and Statistics Cheat Sheet (2021)](https://rethinks.org/blog/SKQmqcEUw4)
 - [Bayesian Optimization Book (2021)](https://bayesoptbook.com/) ([Code](https://github.com/bayesoptbook/bayesoptbook.github.io)) ([HN](https://news.ycombinator.com/item?id=29197908))
+- [Monte Carlo Methods or Why It's a Bad Idea to Go to the Casino](https://easylang.online/apps/tutorial_monte_carlo_methods.html) ([HN](https://news.ycombinator.com/item?id=29217539))

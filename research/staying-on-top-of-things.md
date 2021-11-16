@@ -156,6 +156,7 @@ And these Discord servers:
 - [Current Affairs](https://www.currentaffairs.org/)
 - [ScienceAlert](https://www.sciencealert.com/) - The Best in Science News and Amazing Breakthroughs.
 - [Coffee or Die Magazine](https://coffeeordie.com/)
+- [Paris Review](https://www.theparisreview.org/) - Writers, Quotes, Biography, Interviews, Artists.
 
 ### Other
 
@@ -216,3 +217,4 @@ And these Discord servers:
 - [News](https://github.com/Denchick/news) - Collect news from different sources in just one place.
 - [What websites do you all check more than once per week? (2021)](https://www.reddit.com/r/slatestarcodex/comments/qdjf9m/what_websites_do_you_all_check_more_than_once_per/)
 - [Ask HN: Whatever happened to exploring the internet? (2021)](https://news.ycombinator.com/item?id=28976069)
+- [HN Best Comments](https://news.ycombinator.com/bestcomments)

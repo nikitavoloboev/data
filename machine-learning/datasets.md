@@ -124,3 +124,4 @@
 - [Resources to get you the best quality of ML datasets (2021)](https://twitter.com/JanaSunrise/status/1453028804566286339)
 - [Hugging Face Datasets](https://huggingface.co/datasets)
 - [SDMetrics](https://github.com/sdv-dev/SDMetrics) - Metrics to evaluate quality and efficacy of synthetic datasets.
+- [doubtlab](https://github.com/koaning/doubtlab) - General tricks that may help you find bad, or noisy, labels in your dataset.

@@ -199,6 +199,8 @@
 - [MeshKit](https://github.com/EthanLipnik/MeshKit) - Powerful and easy to use live mesh gradient renderer for iOS.
 - [GSMessages](https://github.com/wxxsw/GSMessages) - Simple style messages/notifications, in Swift.
 - [Swash](https://github.com/Mindgrub/Swash) - Fonts in iOS made safe, expressive, and dynamic.
+- [TwitterProfile](https://github.com/OfTheWolf/TwitterProfile) - Nested scrolling with pager just like in Twitter and Instagram profile.
+- [UBottomSheet](https://github.com/OfTheWolf/UBottomSheet) - iPhone Maps App bottom sheet - A Protocol Oriented Approach.
 
 ## macOS
 
@@ -370,6 +372,7 @@
 - [Mockolo](https://github.com/uber/mockolo) - Efficient Mock Generator for Swift.
 - [Mocker](https://github.com/WeTransfer/Mocker) - Library written in Swift which makes it possible to mock data requests using a custom URLProtocol.
 - [XCTAssertNoLeak](https://github.com/tarunon/XCTAssertNoLeak) - Provides assert function that check memory leak in Swift.
+- [MockingKit](https://github.com/danielsaidi/MockingKit) - Swift-based mocking library that makes it easy to mock protocols and classes.
 
 ## API
 
@@ -826,6 +829,7 @@
 - [Arena](https://github.com/adamnemecek/Arena) - Implementation of the generational arena data structure in Swift.
 - [Focus](https://github.com/typelift/Focus) - Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 - [Operadics](https://github.com/typelift/Operadics) - Standard Operators for the working Swift Librarian.
+- [AsyncCollections](https://github.com/adam-fowler/async-collections) - Functions for running async processes on Swift Collections.
 
 ## Other (not lib)
 

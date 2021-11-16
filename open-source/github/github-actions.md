@@ -132,6 +132,8 @@
 - [Import Codesign Certs](https://github.com/Apple-Actions/import-codesign-certs) - GitHub Action for Importing Code-signing Certificates into a Keychain.
 - [Maximize available disk space for build tasks](https://github.com/easimon/maximize-build-space) - Github action to maximize the available disk space on Github runners.
 - [install-binary-action](https://github.com/giantswarm/install-binary-action) - GitHub action installing a binary from a tarball behind URL.
+- [datadog-actions-metrics](https://github.com/int128/datadog-actions-metrics) - Send GitHub Actions metrics to Datadog.
+- [kustomize-action](https://github.com/int128/kustomize-action) - GitHub Action to run kustomize build in parallel.
 
 ## Go
 

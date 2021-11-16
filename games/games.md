@@ -44,6 +44,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Evolve](https://pmotschmann.github.io/Evolve/) - Incremental game about evolving a civilization. ([Code](https://github.com/pmotschmann/Evolve))
 - [Wayfinder](https://wayfinder.nfb.ca/) - Relaxing 'art game' in the browser. ([HN](https://news.ycombinator.com/item?id=27532068))
 - [Freeciv-Web](https://www.freecivweb.org/) - Open source turn-based strategy game. ([HN](https://news.ycombinator.com/item?id=27614434))
+- [Puzzle Panda](https://puzzlepanda.com/) - Play Jigsaw Puzzles Online. ([HN](https://news.ycombinator.com/item?id=29218401))
 
 ## Awesome OSS games
 

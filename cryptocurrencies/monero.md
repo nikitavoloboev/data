@@ -3,6 +3,7 @@
 ## Notes
 
 - [Can buy Monero on Kraken/KuCoin/TradeOgre and transfer it out (to Exodus/Cake wallet).](https://www.reddit.com/r/CryptoCurrency/comments/qrwwpw/what_cryptocurrencies_have_you_personally_found/)
+- [Can also buy LiteCoin on coin base, send to cake wallet address, convert to Monero.](https://www.reddit.com/r/Monero/comments/qu2dhq/monero_has_a_serious_user_friendly_problem/)
 
 ## Links
 
@@ -19,3 +20,5 @@
 - [Bitcoin–Monero Cross-chain Atomic Swap](https://github.com/comit-network/xmr-btc-swap)
 - [Monero and Proof of Stake (2021)](https://www.reddit.com/r/Monero/comments/mwppuz/monero_and_proof_of_stake/)
 - [Tari](https://www.tari.com/) - Digital assets focused blockchain protocol that is built in Rust, private by default, open source, and is being architected as a merge-mined sidechain with Monero.
+- [Monero has a serious user friendly problem (2021)](https://www.reddit.com/r/Monero/comments/qu2dhq/monero_has_a_serious_user_friendly_problem/)
+- [Cake Wallet](https://cakewallet.com/) - Open Source Monero and Bitcoin Wallet. ([Code](https://github.com/cake-tech/cake_wallet))

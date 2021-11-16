@@ -23,3 +23,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Setting Env Vars From 1password (2021)](https://rossedman.io/blog/computers/setting-env-vars-from-1password/)
 - [Can securely share 1Password items with anyone (2021)](https://blog.1password.com/psst-item-sharing/)
 - [1Password Connect Kubernetes Operator](https://github.com/1Password/onepassword-operator)
+- [1Password is all in on its web stack (2021)](https://overcast.fm/+HZUd9uoxs)

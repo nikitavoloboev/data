@@ -110,3 +110,4 @@
 - [No Need for NIH: Leveraging the Typelevel Stack in the Enterprise - Adam Rosien (2021)](https://www.youtube.com/watch?v=KjDG9c5zuKs)
 - [Hands-on full-stack Scala 3 application - Adrien Piquerez (2021)](https://www.youtube.com/watch?v=Gs-sMpUZiEo)
 - [Builder Pattern in Scala with Phantom Types (2017)](https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863)
+- [Scala Center at EPFL](https://scala.epfl.ch/) ([Web Code](https://github.com/scala/scala.epfl.ch))

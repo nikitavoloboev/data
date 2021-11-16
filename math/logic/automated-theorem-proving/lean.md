@@ -54,3 +54,4 @@
 - [Introduction to University Mathematics Course: using Lean (2021)](https://github.com/ImperialCollegeLondon/M40001_lean)
 - [Mathport](https://github.com/leanprover/mathport) - Tool for porting Lean3 projects to Lean4.
 - [Lean Tutorials](https://github.com/leanprover-community/tutorials)
+- [lean-gym](https://github.com/openai/lean-gym) - Interact with Lean through a REPL.

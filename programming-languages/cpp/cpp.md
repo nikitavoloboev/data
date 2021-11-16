@@ -269,3 +269,4 @@
 - [{fmt} Formatting & Printing C++ Library Cheat Sheet](https://hackingcpp.com/cpp/libs/fmt.html) ([Tweet](https://twitter.com/hackingcpp/status/1458904364362485769))
 - [Hacking C++](https://hackingcpp.com/index.html) - Learn Contemporary C++ // code examples, concise explanations and infographics. ([Twitter](https://twitter.com/hackingcpp))
 - [Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming Book (2021)](https://link.springer.com/book/10.1007/978-3-662-62996-3) ([Code](https://github.com/ckormanyos/real-time-cpp))
+- [easy_profiler](https://github.com/yse/easy_profiler) - Lightweight profiler library for c++.

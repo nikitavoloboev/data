@@ -149,7 +149,7 @@
 - [GraphQL over HTTP spec](https://github.com/graphql/graphql-over-http)
 - [GraphQL website code](https://github.com/graphql/graphql.github.io)
 - [Why not use GraphQL? (2020)](https://wundergraph.com/blog/why_not_use_graphql) ([HN](https://news.ycombinator.com/item?id=25014582))
-- [GraphQL Helix](https://github.com/contrawork/graphql-helix) - Collection of utility functions for building your own GraphQL HTTP server.
+- [GraphQL Helix](https://github.com/contra/graphql-helix) - Collection of utility functions for building your own GraphQL HTTP server. ([GraphQL Helix API Route with Next.js](https://graphql.wtf/episodes/16-graphql-helix-api-route-with-nextjs))
 - [Caching Strategies in a Federated GraphQL Architecture (2020)](https://www.apollographql.com/blog/caching-strategies-in-a-federated-graphql-architecture/)
 - [How Netflix Scales its API with GraphQL Federation (2020)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 - [Executing GraphQL Queries (2020)](https://jemma.dev/blog/executing-graphql-queries)
@@ -259,3 +259,4 @@
 - [Developing GraphQL APIs using Nexus (2021)](https://formidable.com/blog/2021/graphql-with-nexus/)
 - [TypeGraphQL-DataLoader](https://github.com/slaypni/type-graphql-dataloader) - TypeGraphQL + DataLoader + TypeORM made easy.
 - [Nexus Input Transformation](https://github.com/koaninc/nexus-input-transformation) - Package of tools for creating transformations of input arguments on nexus GraphQL resolvers.
+- [graphql.wtf](https://graphql.wtf/) - Weekly GraphQL Screencasts.

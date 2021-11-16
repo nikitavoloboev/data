@@ -213,3 +213,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Sideload iOS apps regardless of security settings](https://github.com/EricRabil/m1-ios-sideloader)
 - [node-mac-userdefaults](https://github.com/codebytere/node-mac-userdefaults) - Native Node.js module that provides an interface to the user’s defaults database on macOS.
 - [Resources about macOS/iOS system security](https://github.com/houjingyi233/macOS-iOS-system-security)
+- [asitop](https://github.com/tlkh/asitop) - Performance monitoring CLI tool for Apple Silicon. ([Web](https://tlkh.github.io/asitop/))

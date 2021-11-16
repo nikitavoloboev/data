@@ -170,3 +170,4 @@ All active variables can be seen by running `env`.
 - [shell.how](https://www.shell.how/) - Write down a command-line to see how it works. ([Code](https://github.com/phuctm97/shell.how))
 - [Useful sed scripts & patterns](https://github.com/adrianscheff/useful-sed) ([HN](https://news.ycombinator.com/item?id=29196221))
 - [nhi](https://github.com/strang1ato/nhi) - Capture every information about each executed command. ([HN](https://news.ycombinator.com/item?id=29205169))
+- [Demo Magic](https://github.com/paxtonhare/demo-magic) - Handy shell script that enables you to write repeatable demos in a bash environment.

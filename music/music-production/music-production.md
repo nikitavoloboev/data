@@ -281,3 +281,4 @@
 - [Scales, Chords, and Cadences: Practical Music Theory for MIR Researchers](https://github.com/jcdevaney/ISMIR-musicTheoryTutorial)
 - [Samplescope](https://samplescope.app/) - App to search audio samples over internet. ([Code](https://github.com/jamland/samplescope))
 - [Music Classification: Beyond Supervised Learning, Towards Real-world Applications](https://github.com/music-classification/tutorial)
+- [Livecoding the Elektron Octatrack with ORCΛ (2021)](https://www.youtube.com/watch?v=moASjsWeLMQ)

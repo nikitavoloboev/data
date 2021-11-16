@@ -59,3 +59,4 @@
 - [ModTT in Agda](https://github.com/HarrisonGrodin/agda-modtt)
 - [Generic](https://github.com/effectfully/Generic) - Library for doing generic programming in Agda.
 - [Agda Playground](https://github.com/oisdk/agda-playground)
+- [Formalizing polynomials in groupoids](https://github.com/smimram/fibred-polynomials)

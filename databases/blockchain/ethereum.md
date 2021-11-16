@@ -360,3 +360,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Manipulating Uniswap v3 TWAP Oracles (2021)](https://github.com/euler-xyz/uni-v3-twap-manipulation/blob/master/cost-of-attack.pdf) ([Tweet](https://twitter.com/euler_mab/status/1459314402059034634))
 - [Euler](https://www.euler.finance/#/) - Non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset. ([GitHub](https://github.com/euler-xyz))
 - [eth-sdk](https://github.com/dethcrypto/eth-sdk) - Type-safe, lightweight SDKs for your Ethereum smart contracts.
+- [Qasr](https://github.com/mortimr/qasr) - ETH <=> Starknet NFT Bridge.
+- [evmdis](https://github.com/Arachnid/evmdis) - EVM disassembler.
+- [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/) - Geth, Truffle,Drizzle web3.js,ethers.js, smart contract patterns and solidity assembly. ([Code](https://github.com/GeorgeBrownCollege-Toronto/Advanced-Smart-Contracts))

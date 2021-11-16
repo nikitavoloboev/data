@@ -83,3 +83,4 @@
 - [Corvus](https://github.com/eleme/corvus) - Fast and lightweight Redis Cluster Proxy for Redis 3.0.
 - [Redis Anti-Patterns Every Developer Should Avoid](https://developer.redis.com/howtos/antipatterns/) ([HN](https://news.ycombinator.com/item?id=28914764))
 - [Build an Elixir Redis Server that’s faster than HTTP (2021)](https://docs.statetrace.com/blog/redis-server/) ([HN](https://news.ycombinator.com/item?id=29199717))
+- [Redis Dataloader](https://github.com/PatrickJS/redis-dataloader) - Batching and Caching layer using Redis as the Caching layer.

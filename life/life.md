@@ -79,3 +79,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Modest (2021)](https://milky.substack.com/p/modest)
 - [What piece of advice have you received that you also find yourself regularly giving? (2021)](https://www.reddit.com/r/AskMenOver30/comments/qnvwdl/what_piece_of_advice_have_you_received_that_you/)
 - [This Weirdly Smart, Creeping Slime Is Redefining Our Understanding of Intelligence (2021)](https://www.sciencealert.com/this-creeping-slime-is-changing-how-we-think-about-intelligence) ([Tweet](https://twitter.com/Plinz/status/1458851074186485763))
+- [Where do you hope to see yourself in five years? Earnestly. (2021)](https://twitter.com/dan_abramov/status/1459998825574248458)

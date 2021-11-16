@@ -27,3 +27,4 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 - [Kumail Nanjiani on Eternals, His Superhero Transformation (2021)](https://www.vulture.com/article/kumail-nanjiani-eternals-profile.html)
 - [DUNE Cinema Q&A | TIFF 2021](https://www.youtube.com/watch?v=hbMBvesE3T4&list=WL&index=21)
 - [Theatricalia](https://theatricalia.com/) - Database of past and future theatre productions. ([Code](https://github.com/dracos/Theatricalia))
+- [Who is your highest rated actor? (2021)](https://www.reddit.com/r/Letterboxd/comments/qudjqb/who_is_your_highest_rated_actor/)

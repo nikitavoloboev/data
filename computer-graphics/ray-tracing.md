@@ -81,3 +81,4 @@
 - [Ray tracer in Rust](https://github.com/brundonsmith/raytracer)
 - [Helios](https://github.com/diharaw/Helios) - Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
 - [Peter Shirley Ray Tracing (in C++ 17)](https://github.com/define-private-public/PSRayTracing)
+- [Simulating the Colors of the Sky](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/simulating-sky)

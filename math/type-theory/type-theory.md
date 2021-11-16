@@ -10,6 +10,7 @@
 - Types are types and propositions are propositions; types come from programming languages, and propositions from logic, and they seem to have no relation to each other.
 - [Types are specifications of behavior.](https://www.youtube.com/watch?v=LE0SSLizYUI)
 - Roughly speaking, a [type is a specification of its possible values](https://github.com/skaslev/why-types/blob/master/why-types.pdf).
+- [Generics should not force you to mention irrelevant information.](https://twitter.com/BrandonBloom/status/1459657997555097601)
 
 ## Links
 

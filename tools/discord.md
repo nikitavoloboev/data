@@ -25,6 +25,7 @@
 - [instant-poll](https://github.com/JohnnyJayJay/instant-poll) - Discord bot that lets you create polls in your server.
 - [Rustbot](https://github.com/kangalioo/rustbot) - Rust programming language bot for Discord.
 - [Next.js Discord Bot](https://github.com/vercel/nextjs-discord-bot)
+- [ArtBot](https://github.com/ArtBlocks/artbot) - Discord bot for ArtBlocks.
 
 ## Libraries
 
@@ -84,3 +85,4 @@
 - [Fosscord Server](https://github.com/fosscord/fosscord-server) - Free and open source software compatible with Discord. It's a chat, voice and video platform similar to Slack and Rocket.chat. ([Web](https://fosscord.com/))
 - [Against Discord Channels](https://becca.ooo/discord) ([HN](https://news.ycombinator.com/item?id=29128361))
 - [Discord: Imagine a Place (2021)](https://www.notboring.co/p/discord-imagine-a-place)
+- [HammerTime](https://hammertime.djdavid98.art/) - Generate timestamp indicators for Discord chat messages. ([Code](https://github.com/DJDavid98/HammerTime))

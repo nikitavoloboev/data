@@ -659,6 +659,8 @@
 - [msgpackr](https://github.com/kriszyp/msgpackr) - Ultra-fast MessagePack implementation with extension for record and structural cloning.
 - [Lib0](https://github.com/dmonad/lib0) - Monorepo of isomorphic utility functions.
 - [node-stdlib-browser](https://github.com/niksy/node-stdlib-browser) - Node standard library for browser.
+- [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
+- [cuid](https://github.com/ericelliott/cuid) - Collision-resistant ids optimized for horizontal scaling and performance.
 
 ## Links
 

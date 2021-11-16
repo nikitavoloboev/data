@@ -148,3 +148,4 @@
 - [MMGeneration](https://github.com/open-mmlab/mmgeneration) - Powerful toolkit for generative models, based on PyTorch and MMCV.
 - [Projected GANs Converge Faster (2021)](https://sites.google.com/view/projected-gan/) ([Code](https://github.com/autonomousvision/projected_gan))
 - [A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis (2021)](https://arxiv.org/abs/2110.15678) ([Code](https://github.com/XingangPan/ShadeGAN))
+- [DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis (2021)](https://arxiv.org/abs/2008.05865) ([Code](https://github.com/tobran/DF-GAN))
