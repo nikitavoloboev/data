@@ -114,3 +114,5 @@
 - [Terraforge](https://terraforge.vercel.app/) - Graphical Terraform cofiguration generator. ([Code](https://github.com/badarsebard/terraforge))
 - [Auth0 Terraform Provider](https://github.com/alekc/terraform-provider-auth0)
 - [terraform-module-versions](https://github.com/keilerkonzept/terraform-module-versions) - CLI tool that checks Terraform code for module updates.
+- [Terraform Provider for ArgoCD](https://github.com/oboukili/terraform-provider-argocd)
+- [Terraform Controller](https://github.com/oam-dev/terraform-controller) - Kubernetes Controller for Terraform.

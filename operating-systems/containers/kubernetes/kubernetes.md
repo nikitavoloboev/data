@@ -508,3 +508,4 @@
 - [kubesec.io](https://kubesec.io/) - Security risk analysis for Kubernetes resources. ([Code](https://github.com/controlplaneio/kubesec))
 - [Control Plane](https://control-plane.io/) - Secure Kubernetes from supply-chain and runtime attacks with a zero trust, continuous security approach. ([GitHub](https://github.com/controlplaneio))
 - [Hacking Kubernetes Book](https://control-plane.io/hackingkubernetes/)
+- [Argo-CD Autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Tool which offers an opinionated way of installing Argo-CD and managing GitOps repositories.
