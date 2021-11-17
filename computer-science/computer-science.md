@@ -156,3 +156,5 @@
 - [MPhil in Advanced Computer Science | Cambridge Uni](https://www.cst.cam.ac.uk/admissions/acs)
 - [Domain Theory (1994)](https://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf)
 - [ETH Zurich Computer Science Cheat Sheets](https://github.com/flavioschneider/ethzcheatsheets)
+- [When Did Computer Science Theory Get So Hard? (2021)](http://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html) ([HN](https://news.ycombinator.com/item?id=29223934))
+- [Why Philosophers Should Care About Computational Complexity (2011)](https://arxiv.org/abs/1108.1791) ([HN](https://news.ycombinator.com/item?id=29242498))

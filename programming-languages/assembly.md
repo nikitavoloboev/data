@@ -74,3 +74,5 @@
 - [Comparing SIMD on x86-64 and arm64 (2021)](https://blog.yiningkarlli.com/2021/09/neon-vs-sse.html)
 - [Cheat sheet for x86-64 Unix systems programming](https://github.com/jstrieb/systems-programming-cheat-sheet)
 - [Famicom Party: Making NES Games in Assembly](https://famicom.party/book/) ([HN](https://news.ycombinator.com/item?id=29069095))
+- [ELF Science Part 1 (2021)](https://greatergoodest.github.io/post/elf_science_p1/)
+- [BLASFEO](https://github.com/giaf/blasfeo) - Basic linear algebra subroutines for embedded optimization.

@@ -177,7 +177,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Standards (2018)](https://blog.carlmjohnson.net/post/2018/git-gud/)
 - [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 - [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command.
-- [git-revise](https://github.com/mystor/git-revise) - Handy tool for doing efficient in-memory commit rebases & fixups.
+- [git-revise](https://github.com/mystor/git-revise) - Handy tool for doing efficient in-memory commit rebases & fixups. ([Tweet](https://twitter.com/badboy_/status/1460557723242844169))
 - [git-secret](https://github.com/sobolevn/git-secret) - Bash-tool to store your private data inside a git repository.
 - [pre-commit](https://github.com/pre-commit/pre-commit) - Framework for managing and maintaining multi-language pre-commit hooks.
 - [git-o-matic](https://github.com/muesli/gitomatic) - Tool to monitor git repositories and automatically pull & push changes.
@@ -438,3 +438,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Mani](https://github.com/alajmo/mani) - CLI tool to help you manage multiple repositories. ([Docs](https://manicli.com/))
 - [Git techniques (2021)](https://riskledger.com/blog/git-basics-at-risk-ledger/) ([HN](https://news.ycombinator.com/item?id=29162234))
 - [Make your monorepo feel small with Git’s sparse index (2021)](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
+- [Git as a source of truth for network automation (2021)](https://vincent.bernat.ch/en/blog/2021-source-of-truth-network)

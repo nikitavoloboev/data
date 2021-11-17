@@ -6,6 +6,8 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 
 - [VTI](https://finance.yahoo.com/quote/VTI/)
 - [VOO](https://finance.yahoo.com/quote/VOO/)
+- [VWCE](https://finance.yahoo.com/quote/VWCE.DE/) ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qv75by/investing_800_yearly_into_vusa_as_a_polish/))
+- [List of some](https://twitter.com/levelsio/status/1278035707412520968)
 
 ## Notes
 
@@ -228,3 +230,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Understanding Candlestick Charts for Beginners (2015)](https://www.youtube.com/watch?v=1rwVV_8uUxc)
 - [Is Dollar-Cost Averaging Better Than Lump-Sum Investing? (2020)](https://www.youtube.com/watch?v=nCp2bZbaBdw)
 - [Portfolio Performance](https://www.portfolio-performance.info/en/) - Open source tool to calculate the overall performance of an investment portfolio - across all accounts. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qtc4p5/portfolio_tracker_for_degiro_users/))
+- [Arbitrage as a Shortest Path Problem (2021)](https://blog.skz.dev/arbitrage-as-a-shortest-path-problem)

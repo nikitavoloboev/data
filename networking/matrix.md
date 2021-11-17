@@ -76,3 +76,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Is Matrix less private than other E2EE messaging protocols? (2019)](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md) ([HN](https://news.ycombinator.com/item?id=29105098))
 - [Hemppa](https://github.com/vranki/hemppa) - Generic modular bot for Matrix.
 - [Matrix Discord Bridge](https://github.com/Half-Shot/matrix-appservice-discord)
+- [Sign in with Matrix](https://github.com/mishushakov/signin-with-matrix) - Federated sign-in component for your web app (using Matrix). ([HN](https://news.ycombinator.com/item?id=29240154))

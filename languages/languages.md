@@ -38,7 +38,7 @@
 - [The Fastest Way to Learn a New Language: The Video Game Map Theory (2021)](https://www.youtube.com/watch?v=3i1lNJPY-4Q)
 - [Forgetting My First Language (2021)](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language) ([HN](https://news.ycombinator.com/item?id=28411104))
 - [Speaking Latin (2021)](https://psyche.co/ideas/speaking-latin-brings-an-unmediated-thrill-to-the-classics) ([HN](https://news.ycombinator.com/item?id=28510232))
-- [All World Languages in One Visualization, By Native Speakers](https://www.visualcapitalist.com/a-world-of-languages/)
+- [All World Languages in One Visualization, By Native Speakers](https://www.visualcapitalist.com/a-world-of-languages/) ([Reddit](https://www.reddit.com/r/dataisbeautiful/comments/qqx55r/oc_looking_at_the_100_most_spoken_languages/)) ([Tweet](https://twitter.com/simongerman600/status/1460339351259422720))
 - [LanguageTool](https://languagetool.org/) - Online Grammar, Style & Spell Checker. ([Twitter](https://twitter.com/languagetool))
 - [How to Write a Spelling Corrector (2007)](http://norvig.com/spell-correct.html) ([In Go](https://github.com/montanaflynn/toy-spelling-corrector))
 - [PostgreSQL Translation Proxy](https://github.com/NikolayS/postgrest-translation-proxy) - PostgreSQL / PostgREST proxy to Google Translate API, with caching and multiphrase support.

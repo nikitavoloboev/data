@@ -21,7 +21,7 @@
 - [deck.gl](https://deck.gl/#/) - WebGL-powered framework for visual exploratory data analysis of large datasets.
 - [Flourish](https://flourish.studio/) - Quickly turn your spreadsheets into stunning online charts, maps and interactive stories.
 - [Dash App Gallery](https://dash-gallery.plotly.host/Portal/)
-- [Scientific Visualization – Python & Matplotlib book](https://github.com/rougier/scientific-visualization-book)
+- [Scientific Visualization: Python + Matplotlib Book (2021)](https://github.com/rougier/scientific-visualization-book)
 - [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
 - [SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [Bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.

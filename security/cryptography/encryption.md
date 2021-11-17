@@ -57,3 +57,6 @@
 - [Electronic Health Certificates Spec](https://github.com/ehn-dcc-development/hcert-spec) - Proposal for encoding and signing the Electronic Health Certificate (HCERT).
 - [Authenticated Cipher MORUS (2016)](https://competitions.cr.yp.to/round3/morusv2.pdf) - Fast authenticated cipher for platforms without hardware AES acceleration. ([Zig Code](https://github.com/jedisct1/zig-morus))
 - [goRecrypt](https://github.com/SherLzp/goRecrypt) - Proxy Re-Encryption go implementation.
+- [WebPush](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
+- [Elliptic Curves - Computerphile (2018)](https://www.youtube.com/watch?v=NF1pwjL9-DE)
+- [An Introduction to the Arithmetic of Elliptic Curves (2021)](https://www.youtube.com/playlist?list=PLYpVTXjEi1oe1OeAllJpNhFoI4B7Ws8Yl)

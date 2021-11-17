@@ -52,3 +52,4 @@
 - [CHIP-8 emulator written in Rust](https://github.com/jawline/CHIP-9)
 - [Fearless-NES](https://github.com/TomasKralCZ/Fearless-NES) - NES emulator written in Rust.
 - [Chip8 Emulator in Go](https://github.com/ambertide/chip8)
+- [How to Write a Computer Emulator](https://fms.komkon.org/EMUL8/HOWTO.html) ([HN](https://news.ycombinator.com/item?id=29237372))

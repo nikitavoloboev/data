@@ -2,7 +2,7 @@
 
 Exploring my mind has always been one of the most interesting things in life for me.
 
-Exploring different states of consciousness both naturally or chemically induced. There is a certain sense of mystery how one chemical can radically change your perception in such a short time and leave you with more questions than you started with.
+Exploring different states of consciousness both naturally or [chemically induced](https://www.youtube.com/watch?v=6hfsIbib_50). There is a certain sense of mystery how one chemical can radically change your perception in such a short time and leave you with more questions than you started with.
 
 Sadly, there is a rather negative stigma attached to most illegal drugs. It's sad that drugs like alcohol that numb your senses and your perception are socially acceptable yet drugs that let you explore and see things in a new light are banned and frowned upon.
 
@@ -52,6 +52,7 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [The brain is very susceptible to this sort of "I'll never recover. Thing will always be this way." type of thinking. People who get high for the first time start thinking it's going to last forever, after only minutes to an hour of being high! The brain is really bad at predicting future mental and emotional states, but very good at convincing you that its predictions are absolutely correct.](https://www.reddit.com/r/RationalPsychonaut/comments/oape6y/might_kill_myself/)
 - [While we should take our perceptions seriously, we should not take them literally.](https://www.reddit.com/r/RationalPsychonaut/comments/pf3ym7/what_are_some_of_the_weirdest_things_youve_heard/)
 - [The most persistent thing I see on the various psychedelic subreddits is the notion that our waking sober reality is an illusion and that the trip reality is more real.](https://www.reddit.com/r/RationalPsychonaut/comments/pf3ym7/what_are_some_of_the_weirdest_things_youve_heard/)
+- [Everyone's practice is different because everyone is different. I take a macrodose on a Saturday, like every 1-3 months as needed. I spend the week(s) beforehand preparing mentally, journaling, setting intentions, and taking excellent care of myself (diet, exercise, yoga, friends, etc). I really only do a healing trip if I feel like I am getting stuck in my old unhealthy habits and need some internal change. If you don't know how to facilitate a proper healing setting for yourself, I would recommend starting to work on this while sober first. Learn mindfulness and meditation and how you can heal in shallow waters before diving off the deep end. Then, start with smaller doses like <1g, and increase if helpful. It can help to set an intention (for this trip, I want to work on \_\_\_\_). And of course, set and setting and all that.](https://www.reddit.com/r/RationalPsychonaut/comments/qqzgpq/anyone_here_regularly_solo_trip_for/)
 
 ## Links
 
@@ -131,3 +132,5 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [Most psychoactive book you know (any genre) (2021)](https://twitter.com/sashachapin/status/1441413739886960649)
 - [Awesome Psychedelics](https://github.com/kianenigma/awesome-psychedelics)
 - [Books Like LSD Psychotherapy - Grof (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/q5a83f/books_like_lsd_psychotherapy_grof/)
+- [Best way(s) to take shrooms? (2021)](https://www.reddit.com/r/Drugs/comments/qut2w2/best_ways_to_take_shrooms/)
+- [From Bench to Bedside: Progress in Psychedelic Research - David Nichols, PhD (Mapping the Mind 2019)](https://www.youtube.com/watch?v=6hfsIbib_50)

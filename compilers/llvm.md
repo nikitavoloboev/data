@@ -90,3 +90,4 @@
 - [Building a Distribution of LLVM](https://llvm.org/docs/BuildingADistribution.html)
 - [How to learn compilers: LLVM Edition (2021)](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/) ([HN](https://news.ycombinator.com/item?id=29112482))
 - [llvm-reduce (2021)](https://blog.regehr.org/archives/2109)
+- [2021 LLVM Developers' Meeting](https://llvm.swoogo.com/2021devmtg/1538015)

@@ -232,6 +232,7 @@
 - [React-Transition-State](https://github.com/szhsin/react-transition-state) - Perform animation and transition of React component with ease.
 - [Graphire](https://github.com/flavioschneider/graphire) - Declarative and unopinionated graph visualization library for React.
 - [React Flow Smart Edge](https://github.com/tisoap/react-flow-smart-edge) - Special Edge for React Flow that never intersects with other nodes.
+- [rci](https://github.com/leonardodino/rci) - Better code inputs for the web.
 
 ## Links
 

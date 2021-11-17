@@ -160,3 +160,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Munin](https://github.com/kradalby/munin) - Opinionated image gallery backend generator.
 - [Hugin](https://github.com/kradalby/hugin) - Front-end for image galleries generated with Munin.
 - [GoGallery](https://github.com/robrotheram/gogallery) - Simple gallery server in go.
+- [Bringing Color and Life to Black and White Photos (2021)](https://blog.skz.dev/bringing-colour-and-life-to-black-and-white-photos)

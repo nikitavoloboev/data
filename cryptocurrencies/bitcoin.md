@@ -10,6 +10,7 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 
 ## Links
 
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://textframe.app/examples/bitcoin) - Annotated white paper.
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. ([Web](https://bitcoinbook.info/))
 - [Bitcoin for laypeople (2018)](https://mafinto.sh/blog/bitcoin-for-laypeople.html)
 - [The Stories We Tell About Money](https://www.youtube.com/watch?v=ONvg9SbauMg)

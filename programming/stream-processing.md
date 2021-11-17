@@ -26,3 +26,4 @@
 - [Apache Heron](https://heron.incubator.apache.org/) - Real time, distributed, fault-tolerant stream processing engine. ([Code](https://github.com/apache/incubator-heron))
 - [The Art of the Meta Stream Protocol: Torrents of Streams](https://programming-journal.org/2022/6/2/)
 - [rlink-rs](https://github.com/rlink-rs/rlink-rs) - High-performance Stream Processing Framework. An alternative to Apache Flink.
+- [Architecting a Boring Stream Processing Tool With Ashley Jeffs of Benthos (2021)](https://www.youtube.com/watch?v=-A8EOb5lzxM)

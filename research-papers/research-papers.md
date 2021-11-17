@@ -142,3 +142,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Quarto](https://quarto.org/) - Open-source scientific and technical publishing system built on Pandoc. ([Code](https://github.com/quarto-dev/quarto-cli))
 - [Papers List Generation](https://papers-ai.vercel.app/) ([Code](https://github.com/flavioschneider/papers-ai))
 - [arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - Lighter-weight arxiv-sanity re-write.
+- [TextFrame](https://textframe.app/) - No-code tool to create animated technical papers. ([HN](https://news.ycombinator.com/item?id=29234636))

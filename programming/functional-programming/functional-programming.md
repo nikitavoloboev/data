@@ -6,6 +6,7 @@
 - Think of monads as of codification of imperative effectful computations in a more general way.
 - [Monads are a pattern of using types to encapsulate some data.](https://www.reddit.com/r/Clojure/comments/9cpyqc/should_i_learn_haskell_to_reveal_functional/)
 - [Ah, the functional paradigm. Your brain is screwing with you. You have to stop thinking about telling computer when to do things, you know, do this, then do this, then do this... let computer decide when to do what. Your brain is confused and is trying to tell computer in which order to do things, but did you ever think about the order when creating Excel spreadsheet with formulas? Clojure is like Excel. You focus on the formulas, and Clojure figures out order of execution.](https://www.reddit.com/r/Clojure/comments/9geecc/how_does_anyone_learn_this/)
+- [If you have a pure function that is deterministic, its entire call can be replaced with the output. This is referential transparency. If you store outputs in a cache and map inputs to cache locations, sometimes you avoid calling entirely by just hitting the cache. Referential transparency is the property being leveraged. Caching and mapping inputs is the implementation detail. Memoization is the name of this implemented behavior.](https://www.reddit.com/r/NixOS/comments/quqiqr/2022_devops_pipelines_be_like/)
 
 ## Links
 

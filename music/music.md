@@ -164,3 +164,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [What's on your On Repeat Spotify playlist](https://twitter.com/ellenkorbes/status/1453811828069388296/photo/2)
 - [Musidex](https://github.com/Uriopass/Musidex) - Your musical pokedex, Plex for music.
 - [Spotify Rainbow Collage Generator](https://www.chartmymusic.com/spotify/rainbowcollage/)
+- [Loft Radio](https://loft.radio/) - Exploring new ways of supporting artists online. ([Twitter](https://twitter.com/loftradio_))
+- [Indify](https://www.indify.io/) - Helping artists raise funding. ([Twitter](https://twitter.com/indify))

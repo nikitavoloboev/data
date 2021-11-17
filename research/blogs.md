@@ -73,6 +73,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Eric Jang](https://evjang.com/)
 - [Ivan Velichko](https://iximiuz.com/en/)
 - [John Regehr](https://blog.regehr.org/)
+- [Shtetl-Optimized](https://scottaaronson.blog/)
 
 ## Notes
 
@@ -169,3 +170,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [The stream](https://github.com/thesephist/stream) - Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak.
 - [Blogging for Business Course](https://ahrefs.com/academy/blogging-for-business)
 - [Salto](https://www.salto.so/) - Build a programming blog without the hassle.
+- [Ask HN: What are some great engineering blogs? (2021)](https://news.ycombinator.com/item?id=29237308)

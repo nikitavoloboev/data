@@ -16,6 +16,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 ## Bot libraries
 
+- [botgram](https://github.com/botgram/botgram) - Microframework to build Telegram bots. ([Web](https://botgram.js.org/))
 - [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)
 - [Go bindings to Telegram API](https://github.com/go-telegram-bot-api/telegram-bot-api) ([Docs](https://go-telegram-bot-api.dev/))
 - [Telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node. ([Docs](https://telegraf.js.org/#/)) ([NestJS module](https://github.com/bukhalo/nestjs-telegraf))
@@ -43,6 +44,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 ## Bots
 
+- [shell-bot](https://github.com/botgram/shell-bot) - Telegram bot that executes commands and sends the live output.
 - [vzmuinebot](https://github.com/ArtHome12/vzmuinebot) - Telegram bot for food menu navigate.
 - [TgDev](https://tgdev.io/) - Telegram bots development.
 - [Funda new house alerts on Telegram](https://github.com/dstotijn/funda-alert)
@@ -63,6 +65,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Olgram Bot](https://t.me/olgrambot) - Конструктор ботов обратной связи. Open source альтернатива Livegram бота. Telegram feedback bot constructor. ([Code](https://github.com/civsocit/olgram))
 - [piston_bot](https://github.com/tusharsadhwani/piston_bot) - Telegram bot that will run code for you.
 - [TelegramBotsList](https://github.com/DanySpin97/TelegramBotsList) - List of Telegram bots with open source code in alphabetical order.
+- [MySubredditsBot](https://github.com/Recursing/MySubredditsBot) - Telegram bot to track posts in subreddits.
 
 ## Notes
 
@@ -129,3 +132,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [TGNews](https://github.com/IlyaGusev/tgcontest) - Telegram Data Clustering contest solution by Mindful Squirrel.
 - [Telegram Ad Platform](https://promote.telegram.org/) ([HN](https://news.ycombinator.com/item?id=29146147))
 - [Pushshift Telegram Ingest API](https://github.com/pushshift/telegram) - Ingests data from numerous Telegram channels / groups and stores that data in Postgres and Elasticsearch.
+- [Telegram bot that has the ability to /eval code](https://vimsical.notion.site/REPL-Chat-35c36c3da44c4d8c9b42c211cb0c67ef)

@@ -16,6 +16,10 @@ I quite like [Fabian's retrospectives](https://capnfabs.net/tags/retrospective/)
 
 ![](https://i.imgur.com/vxT4AqW.png)
 
+## Notes
+
+- [Much progress is a spiral; you keep realizing the same things, just in more depth, and more deeply integrated.](https://twitter.com/ElodesNL/status/1460213414119329797)
+
 ## Links
 
 - [Susan Fowler's Year In Review: 2019](https://www.susanjfowler.com/blog/2019/12/10/my-year-in-review-2019)

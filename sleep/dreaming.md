@@ -16,7 +16,7 @@ In order to have lucid dreams you need two do three things consistently:
    - First time you will realize you are indeed in a dream, you will most likely wake up straight away because you will be excited that you are indeed lucid and in a dream.
    - You can prevent this by trying to focus on something inside the dream like rubbing your hands together very fast or spinning. This often makes you gain more control of the lucid dream. You will also be able to stay in a lucid dream longer by simply having more lucid dreams and more practice.
 
-## Personal workflow
+## Personal lucid dreaming workflow
 
 - I personally write digitally all my dream recollections in [Day One](https://dayoneapp.com) under `Dreams` diary.
 - To be more consistent with my diary and to develop the habit, I have my phone prompt me on waking up to open Day One and write what I remember from my dream.
@@ -27,3 +27,11 @@ In order to have lucid dreams you need two do three things consistently:
 - [Real-time dialogue with a dreaming person is possible (2021)](https://news.northwestern.edu/stories/2021/02/lucid-dreams-ken-paller/)
 - [The overfitted brain: Dreams evolved to assist generalization (2021)](<https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7>) ([HN](https://news.ycombinator.com/item?id=27198505))
 - [Mammals dream about the world they are about to experience before they are born (2021)](https://news.yale.edu/2021/07/22/eyes-wide-shut-how-newborn-mammals-dream-world-theyre-entering) ([HN](https://news.ycombinator.com/item?id=27966782))
+
+## Notes
+
+- [Dreams are for generating training data, and certainly not randomly. It generates training data it thinks will be most useful, which reveals a lot about what it thinks is important for you.](https://twitter.com/nickcammarata/status/1460517401443770370)
+
+## Links
+
+- [The Overfitted Brain: Dreams evolved to assist generalization (2020)](https://arxiv.org/abs/2007.09560) ([Tweet](https://twitter.com/RuneKvist/status/1460524352726831104))

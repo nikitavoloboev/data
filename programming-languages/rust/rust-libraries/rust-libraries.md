@@ -90,6 +90,7 @@
 - [Catnip](https://github.com/demikernel/catnip) - Fast User-Space TCP/UDP Stack.
 - [Capsule](https://github.com/capsule-rs/capsule) - Framework for network function development.
 - [webview2](https://github.com/sopium/webview2) - Rust bindings for WebView2.
+- [lol-async](https://github.com/jbr/lol-async) - Provides an awkward async interface for cloudflare/lol-html.
 
 ## WASM
 
@@ -160,6 +161,7 @@
 - [SeaORM](https://github.com/SeaQL/sea-orm) - Async & dynamic ORM for Rust.
 - [pg-embed](https://github.com/faokunega/pg-embed) - Run a PostgreSQL database locally on Linux, MacOS or Windows as part of another Rust application or test.
 - [ormx](https://github.com/NyxCode/ormx) - Lightweight macros for sqlx.
+- [influxdb-rust](https://github.com/influxdb-rs/influxdb-rust) - Rust Client for the InfluxDB Time Series Database.
 
 ## Video
 
@@ -247,6 +249,7 @@
 - [thisdiagnostic](https://github.com/zkat/thisdiagnostic) - Rust library for adding rich diagnostic metadata to errors.
 - [miette](https://github.com/zkat/miette) - Fancy upgrade to std::error::Error.
 - [color-eyre](https://github.com/yaahc/color-eyre) - Custom hooks for colorful human oriented error reports via panics and the eyre crate.
+- [woah](https://github.com/alilleybrinker/woah) - Result type that differentiates between local errors (which can be handled) and fatal errors (which can't).
 
 ## IO
 
@@ -386,6 +389,7 @@
 - [enum-as-inner](https://github.com/bluejekyll/enum-as-inner) - Macros for deriving as functions to access Enums as their inner components.
 - [Debug Plotter](https://github.com/fabianboesiger/debug-plotter) - Rust crate that provides a convenient macro to quickly plot variables.
 - [Supertype](https://github.com/zephraph/supertype) - Macro that strives to make it easier to derive a subset of a type from another type.
+- [arrayref](https://github.com/droundy/arrayref) - Two macros for taking array references in rust.
 
 ## Math
 
@@ -1133,6 +1137,10 @@
 - [enumset](https://github.com/Lymia/enumset) - Library for compact bit sets based on enums.
 - [pom](https://github.com/J-F-Liu/pom) - PEG parser combinators created using operator overloading without macros.
 - [path-to-error](https://github.com/dtolnay/path-to-error) - Find out path at which a deserialization error occurred.
+- [ulid-rs](https://github.com/dylanhart/ulid-rs) - Rust implementation of the ulid project which provides Universally Unique Lexicographically Sortable Identifiers.
+- [resize](https://github.com/PistonDevelopers/resize) - Image resampling library in pure Rust.
+- [backtrace-rs](https://github.com/rust-lang/backtrace-rs) - Library for acquiring backtraces at runtime for Rust.
+- [lrpeg](https://github.com/seanyoung/lrpeg) - Left Recursive PEG for rust. ([Article](https://www.mess.org/2021/03/26/Left-Recursive-PEG-Parser-Generator/))
 
 ## Cargo Plugins
 
@@ -1174,6 +1182,7 @@
 - [cargo-edit-locally](https://github.com/alexcrichton/cargo-edit-locally) - Subcommand to easily edit crate dependencies locally.
 - [cargo-patch](https://github.com/mettke/cargo-patch) - Cargo Subcommand which allows patching dependencies using patch files.
 - [cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage.
+- [Cargo rdme](https://github.com/orium/cargo-rdme) - Cargo command to create the readme.md from your crate's documentation.
 
 ## Links
 

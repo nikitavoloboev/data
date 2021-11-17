@@ -24,6 +24,7 @@
 - [Regulation is often better for the incumbents than the challengers.](https://twitter.com/benedictevans/status/1455531071588679689)
 - [Polls as easy as a tweet, civic engagement, allocating funds. Just need some DAO tools on this.](https://twitter.com/yanivgraph/status/1457104839620677632)
 - [Socialism and dictatorship fit together like two jigsaw puzzle pieces, because in practice communal ownership = state control](https://twitter.com/paulg/status/1460212725938900995)
+- [Taxes are best applied to (especially extravagant) consumption, whereas capital allocation taxes reduce goods & services output, so actually bad for the people. Probable capital allocation skill of heirs is lower than original creator, so I am in favor of an estate tax.](https://twitter.com/noahpinion/status/1460449757076226049?s=28)
 
 ## Links
 
@@ -89,3 +90,5 @@
 - [Belenios](https://www.belenios.org/) - Verifiable online voting system. ([Code](https://github.com/glondu/belenios))
 - [Global Corruption Index](https://risk-indexes.com/global-corruption-index/)
 - [The Rules for Rulers (2016)](https://www.youtube.com/watch?v=rStL7niR7gs)
+- [RadicalxChange](https://www.radicalxchange.org/#message) - Social movement for next-generation political economies. ([Twitter](https://twitter.com/RadxChange))
+- [Autocracy Is Winning (2021)](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) ([HN](https://news.ycombinator.com/item?id=29229386))

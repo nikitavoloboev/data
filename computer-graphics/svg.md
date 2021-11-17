@@ -103,3 +103,4 @@
 - [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter. ([Code](https://github.com/visioncortex/vtracer))
 - [llline](https://fffuel.co/llline/) - Smooth SVG Line/Stroke Generator.
 - [Scour](https://github.com/scour-project/scour) - SVG optimizer/cleaner written in Python that reduces the size of scalable vector graphics by optimizing structure and removing unnecessary data.
+- [Flip, Invert, and Reverse (2021)](https://yuanchuan.dev/flip-invert-reverse) - 3 kinds of transformations for the SVG path commands.

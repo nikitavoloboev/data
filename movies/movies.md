@@ -66,3 +66,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [8 Books That Should Be Movies: What Hollywood Should Adapt After Dune (2021)](https://variety.com/2021/film/news/book-movie-adaptations-1235095659/)
 - [“Dune” (The Movie), Annotated (2021)](https://maxread.substack.com/p/dune-annotated) ([HN](https://news.ycombinator.com/item?id=29011467))
 - [Your top movies for 2021](https://twitter.com/letterboxd/status/1456005237588692992)
+- [Netflix Top 10 Movies - Global](https://top10.netflix.com/) ([HN](https://news.ycombinator.com/item?id=29246485))

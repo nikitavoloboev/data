@@ -19,3 +19,5 @@
 - [Broker](https://github.com/apibillme/broker) - Real-time BaaS (Backend as a Service). SSE message broker that requires you write no backend code to have a full real-time API.
 - [JackRabbit](https://github.com/apibillme/jackrabbit) - Real-time Message Queue.
 - [MQ](https://github.com/asim/mq) - Simple distributed in-memory message broker.
+- [nerve](https://github.com/queer/singyeong) - Cloud-native messaging/pubsub with powerful routing.
+- [Thoughts on inter-service messaging (2021)](https://b.amy.gg/thoughts-on-inter-service-messaging)

@@ -66,3 +66,5 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [buke](https://github.com/epilys/buke) - Full text search man pages.
 - [Renamer](https://github.com/75lb/renamer) - Rename files in bulk.
 - [CLI Testing Tool](https://github.com/saurabhdaware/cli-testing-tool) - Testing library that allows you to test input and outputs of your CLI command.
+- [bvm](https://github.com/bvm/bvm) - Binary Version Manager.
+- [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.

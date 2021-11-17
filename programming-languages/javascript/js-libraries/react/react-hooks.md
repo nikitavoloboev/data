@@ -203,3 +203,4 @@ useEffect(() => {
 - [Why you shouldn't put refs in a dependency array](https://epicreact.dev/why-you-shouldnt-put-refs-in-a-dependency-array/)
 - [How to Handle Async Actions for Global State With React Hooks and Context (2019)](https://blog.axlight.com/posts/how-to-handle-async-actions-for-global-state-with-react-hooks-and-context/)
 - [How React Uses Closures to Avoid Bugs](https://epicreact.dev/how-react-uses-closures-to-avoid-bugs/)
+- [Recoil Design Tool](https://github.com/jacques-blom/recoil-design-tool) - Simple example design tool, built using Recoil and React Suspense.

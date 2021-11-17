@@ -193,3 +193,4 @@
 - [Percollate](https://github.com/danburzo/percollate) - Command-line tool that turns web pages into beautifully formatted PDF, EPUB, or HTML files.
 - [In Defence Of Dialog (2021)](https://whistlr.info/2021/in-defence-of-dialog/)
 - [python](https://github.com/byteface/domonic) - Generate HTML with python 3.
+- [rehype-prism-plus](https://github.com/timlrx/rehype-prism-plus) - Rehype plugin to highlight code blocks in HTML with Prism (via refractor) with line highlighting and line numbers.

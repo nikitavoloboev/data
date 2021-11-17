@@ -111,3 +111,6 @@
 - [Announcing the new erlang.org (2021)](https://www.erlang.org/news/151)
 - [Decentralized ETS Counters for Better Scalability (2021)](https://www.erlang.org/blog/scalable-ets-counters/)
 - [erldb](https://github.com/erldb/erldb) - ORM implementation in Erlang.
+- [Nova](https://github.com/novaframework/nova) - Web framework for Erlang. ([Web](http://www.novaframework.org/))
+- [Erlang: The Movie (2012)](https://www.youtube.com/watch?v=xrIjfIjssLE)
+- [Erlang: The Movie II: The Sequel (2013)](https://www.youtube.com/watch?v=rRbY3TMUcgQ)

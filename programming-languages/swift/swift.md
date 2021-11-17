@@ -244,3 +244,6 @@
 - [Async await in Swift explained with code examples (2021)](https://www.avanderlee.com/swift/async-await/)
 - [Property Wrappers in Swift explained with code examples (2021)](https://www.avanderlee.com/swift/property-wrappers/)
 - [How to use CGO to call Swift code from Go](https://github.com/smasher164/swift-cgo-example)
+- [Swift on Balena](https://github.com/wlisac/swift-on-balena) - Docker images for Swift on Raspberry Pi and other ARM devices from balena's base images.
+- [Unit testing Swift code that uses async/await (2021)](https://www.swiftbysundell.com/articles/unit-testing-code-that-uses-async-await/)
+- [How to Handle Errors in Swift Task Groups (2021)](https://swiftsenpai.com/swift/task-groups-error-handling/)

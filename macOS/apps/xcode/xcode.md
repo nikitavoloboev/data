@@ -87,3 +87,5 @@
 - [XcodeProject](https://github.com/bannzai/XcodeProject) - Xcode utility for reading and writing pbxproj file format.
 - [Create Custom Xcode Templates (2021)](https://medium.com/mindful-engineering/create-custom-xcode-templates-908fdd14fbd8)
 - [xcconfig-extractor](https://github.com/toshi0383/xcconfig-extractor) - Refactor buildSettings into xcconfigs.
+- [XCRemoteCache](https://github.com/spotify/XCRemoteCache) - Remote cache tool for Xcode projects. It reuses target artifacts generated on a remote machine, served from a simple REST server. ([Article](https://engineering.atspotify.com/2021/11/16/introducing-xcremotecache-the-ios-remote-caching-tool-that-cut-our-clean-build-times-by-70/))
+- [XCGrapher](https://github.com/maxchuquimia/xcgrapher) - Framework-level dependency graph generator for Xcode projects - with support for custom graphing.

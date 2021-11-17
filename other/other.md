@@ -554,3 +554,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Equinor](https://www.equinor.com/) - Petroleum refining company. ([GitHub](https://github.com/equinor))
 - [Introduction to the Oil and Gas Sector (2015)](https://www.youtube.com/watch?v=k4cVxGndh9g)
 - [My Hacker News knowledge assimilation stack (2021)](https://abishekmuthian.com/my-hacker-news-knowledge-assimilation-stack/) ([HN](https://news.ycombinator.com/item?id=29217485))
+- [The Orwell Foundation](https://www.orwellfoundation.com/)
+- [Любимые цветы](https://twitter.com/elisavetaaaaaaa/status/1460637107790266378)

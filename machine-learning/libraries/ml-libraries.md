@@ -223,3 +223,5 @@
 - [reXmeX](https://github.com/AstraZeneca/rexmex) - General purpose recommender metrics library for fair evaluation.
 - [Einshape](https://github.com/deepmind/einshape) - DSL-based reshaping library for JAX and other frameworks.
 - [BlobCity AutoAI](https://github.com/blobcity/autoai) - Framework to find the best performing AI/ML model for any AI problem.
+- [PyPAL](https://github.com/kjappelbaum/pyepal) - Multiobjective active learning with tunable accuracy/efficiency tradeoff and clear stopping criterion.
+- [RecList](https://github.com/jacopotagliabue/reclist) - Behavioral "black-box" testing for recommender systems.

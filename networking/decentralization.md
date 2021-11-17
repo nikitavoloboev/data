@@ -116,3 +116,4 @@
 - [Web3 is about networks — new kinds defined by ownership (2021)](https://twitter.com/natemodi/status/1459963479637385221)
 - [Web3 Podcast - How Miguel Piedrafita Shipped 160 Apps By 19 Years Old, Pivoted To Web3 and How You Can Get Started In It Too](https://web3.career/podcast/miguel-piedrafita)
 - [Why Web3 is going to be transformational (composing state) (2021)](https://twitter.com/jaltma/status/1459967934046953475)
+- [Decentralized Woo Hoo (2021)](https://www.stephendiehl.com/blog/decentralized-woo.html) ([HN](https://news.ycombinator.com/item?id=29240785))

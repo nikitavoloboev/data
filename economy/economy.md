@@ -111,3 +111,4 @@
 - [Collection of economic resources introducing neoclassical and Austrian economics](https://github.com/Sword-Smith/economics)
 - [Financial innovations brought by technology (2021)](https://bam.kalzumeus.com/archive/financial-innovation-is-happening/) ([HN](https://news.ycombinator.com/item?id=29039345))
 - [Why Everything is Suddenly Getting More Expensive — And Why It Won’t Stop (2021)](https://eand.co/why-everything-is-suddenly-getting-more-expensive-and-why-it-wont-stop-cbf5a091f403)
+- [Does QE Cause Wealth Inequality? (2021)](https://www.lynalden.com/qe-and-inequality/) ([HN](https://news.ycombinator.com/item?id=29243061))

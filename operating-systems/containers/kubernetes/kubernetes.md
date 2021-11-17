@@ -65,6 +65,7 @@
 - [Knative build](https://github.com/knative/build) - Kubernetes-native Build resource.
 - [Kubernetes as an API standard (2019)](https://www.cloudatomiclab.com/rustyk8s/)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+- [Awesome Kubernetes 2](https://github.com/run-x/awesome-kubernetes)
 - [Cerebral](https://github.com/containership/cerebral) - Kubernetes cluster autoscaler with pluggable metrics backends and scaling engines.
 - [Skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development.
 - [Talos](https://github.com/autonomy/talos) - Modern Linux distribution for Kubernetes.

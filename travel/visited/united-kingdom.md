@@ -41,3 +41,4 @@
 - [List of British innovations and discoveries](https://en.wikipedia.org/wiki/List_of_British_innovations_and_discoveries)
 - [Brexit guidance change explorer](https://govukdiff.njk.onl/) ([Code](https://github.com/platy/gitgovuk))
 - [Cunk On Britain](https://www.youtube.com/watch?v=MUM89s4N2BQ)
+- [In Britain we process happiness... differently, Bill Bailey](https://www.youtube.com/watch?v=V7d79Knc8p4)

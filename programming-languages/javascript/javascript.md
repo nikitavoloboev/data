@@ -379,4 +379,6 @@ if (
 - [Reduce minified code size by property mangling](https://lihautan.com/reduce-minified-code-size-by-property-mangling/)
 - [ECMAScript Pattern Matching](https://github.com/tc39/proposal-pattern-matching)
 - [JSConf](https://www.jsconf.in/) ([Twitter](https://twitter.com/jsconfin))
-- [JS Sockets API Proposal](https://github.com/jasnell/sockets-api)
+- [JS Sockets API Proposal](https://github.com/jasnell/sockets-api) ([Tweet](https://twitter.com/jasnell/status/1460415509459968003))
+- [JS Enum Proposal](https://github.com/Jack-Works/proposal-enum) ([Tweet](https://twitter.com/robpalmer2/status/1459834460954890243))
+- [JS Records & Tuples Proposal](https://github.com/tc39/proposal-record-tuple)

@@ -39,3 +39,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Code Galaxies Visualization](https://anvaka.github.io/pm/) - Combines visualizations of major software package managers. ([Code](https://github.com/anvaka/pm))
 - [Package management document library](https://github.com/andrew/package-managers)
 - [PackagingCon](https://packaging-con.org/) - Conference for package manager developers and packagers. ([Twitter](https://twitter.com/packagingcon)) ([2021 Schedule](https://pretalx.com/packagingcon-2021/schedule/#))
+- [Denxi](https://github.com/zyrolasting/denxi) - Programming model for distributing data. It reduces the cost of producing package managers, storefronts, operating systems, and CI/CD systems.

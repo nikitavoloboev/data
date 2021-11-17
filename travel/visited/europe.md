@@ -28,3 +28,4 @@
 - [Low tax country to offload stocks for capital gains (2021)](https://www.reddit.com/r/EuropeFIRE/comments/qn7ied/looking_for_a_low_tax_country_to_offload_my/)
 - [How trains could replace planes in Europe (2021)](https://www.economist.com/europe/2021/11/11/how-trains-could-replace-planes-in-europe) ([HN](https://news.ycombinator.com/item?id=29190495))
 - [In which European countries or cities have you had the best food on your travels? (2021)](https://www.reddit.com/r/AskEurope/comments/qtjz7w/in_which_european_countries_or_cities_have_you/)
+- [Best EU country for online income](https://www.reddit.com/r/EuropeFIRE/comments/qvd4bk/best_eu_country_for_online_income/)

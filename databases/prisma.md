@@ -74,3 +74,4 @@
 - [Declarative Prisma Authorization layer](https://github.com/joindeed/prisma-auth)
 - [Prisma JSON Schema Generator](https://github.com/valentinpalkovic/prisma-json-schema-generator) - Generator, which takes a Prisma 2 schema.prisma and generates a JSON Schema.
 - [Prisma Entity Relationship Diagram Generator](https://github.com/keonik/prisma-erd-generator)
+- [Prisma TypeGraphQL Types Generator](https://github.com/YassinEldeeb/prisma-tgql-types-gen)

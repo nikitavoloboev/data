@@ -115,3 +115,4 @@
 - [CI::Queue](https://github.com/Shopify/ci-queue) - Distribute tests over many workers using a queue.
 - [Reflect](https://reflect.run/) - Automated Web Testing.
 - [Generate All the Things (2021)](https://matklad.github.io//2021/11/07/generate-all-the-things.html) ([Lobsters](https://lobste.rs/s/khbbac/generate_all_things))
+- [Tests in a box: Shipping your tests in a container for fun and profit - Federico Paolinelli (2020)](https://www.youtube.com/watch?v=QeQs5wRZ4ac&list=PLGN1AjiJJv0nelnAohIhyPdzpXd0IstM5&index=5)

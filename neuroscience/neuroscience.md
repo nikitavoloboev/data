@@ -92,6 +92,8 @@
 - [The strange path of accepting how your brain works (2021)](https://alexanderell.is/posts/limitations/) ([HN](https://news.ycombinator.com/item?id=29057510))
 - [Standardized Brain Molecular Atlas for Systems Modeling and Simulation (2021)](https://www.frontiersin.org/articles/10.3389/fnmol.2021.604559/full)
 - [Study finds a difference between neurons of humans and other mammals (2021)](https://www.nature.com/articles/s41586-021-04072-3) ([HN](https://news.ycombinator.com/item?id=29213806))
+- [Do mirror neurons explain understanding, or is it the other way round? (2013)](https://yohanjohn.com/neurologism/do-mirror-neurons-explain-understanding-or-is-it-the-other-way-round/)
+- [To Be Energy-Efficient, Brains Predict Their Perceptions (2021)](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
 
 ## Images
 

@@ -50,6 +50,7 @@
 - [Dis.ml](https://github.com/Mishio595/disml) - OCaml Discord API.
 - [discordjs/voice](https://github.com/discordjs/voice) - Implementation of the Discord Voice API for discord.js and other JS/TS libraries.
 - [discord-hero](https://github.com/discord-hero/discord-hero) - Powerful, modular and easy-to-use Discord Python bot framework. Batteries included.
+- [catnip](https://github.com/mewna/catnip) - Reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
 
 ## Notes
 
@@ -86,3 +87,5 @@
 - [Against Discord Channels](https://becca.ooo/discord) ([HN](https://news.ycombinator.com/item?id=29128361))
 - [Discord: Imagine a Place (2021)](https://www.notboring.co/p/discord-imagine-a-place)
 - [HammerTime](https://hammertime.djdavid98.art/) - Generate timestamp indicators for Discord chat messages. ([Code](https://github.com/DJDavid98/HammerTime))
+- [Potential Web3 Discord alternative (2021)](https://twitter.com/jacksondame/status/1459517582302715904)
+- [Why Discord walked back on integrating Crypto wallet (2021)](https://twitter.com/amytongwu/status/1459384682676736006)

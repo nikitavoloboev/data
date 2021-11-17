@@ -145,7 +145,7 @@
 - [InfluxDB IOx](https://github.com/influxdata/influxdb_iox) - Future core of InfluxDB, an open source time series database.
 - [EliasDB](https://github.com/krotik/eliasdb) - Graph-based database.
 - [Resql](https://github.com/tezc/resql) - SQL database server that uses SQLite as its SQL engine and it provides replication and automatic failover capabilities.
-- [Tarantool](https://www.tarantool.io/en/) - In-memory computing platform. ([Go client](https://github.com/FZambia/tarantool))
+- [Tarantool](https://www.tarantool.io/en/) - In-memory computing platform. ([Go client](https://github.com/FZambia/tarantool)) ([Lua Code](https://github.com/tarantool/tarantool))
 - [EventQL](https://eventql.io/) - Database for large-scale event analytics. ([Code](https://github.com/eventql/eventql))
 - [OceanBase](https://github.com/oceanbase/oceanbase) - Distributed, banking suitable, open-source related database featuring high scalability and high compatibility. ([HN](https://news.ycombinator.com/item?id=27350108))
 - [Kvrocks](https://github.com/bitleak/kvrocks) - Distributed key value NoSQL database based on RocksDB and compatible with Redis protocol.
@@ -472,3 +472,4 @@
 - [A terrible schema from a clueless programmer (2021)](http://rachelbythebay.com/w/2021/11/06/sql/) ([HN](https://news.ycombinator.com/item?id=29139902)) ([Lobsters](https://lobste.rs/s/wld7fb/terrible_schema_from_clueless))
 - [How do/would you approach storing "likes"? (2021)](https://twitter.com/techgirl1908/status/1459281360498089988)
 - [The Story behind The Truth: Designing a Data Model (2018)](https://ourmachinery.com/post/the-story-behind-the-truth-designing-a-data-model/)
+- [I hate databases (2021)](https://b.amy.gg/i-hate-databases)

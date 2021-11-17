@@ -10,3 +10,4 @@
 - [WASM in web 3 Workshop with Maksym Zavershynskyi using NEAR (2021)](https://www.youtube.com/watch?v=bF8PCJ3nU-Y)
 - [NEAR Indexer for Explorer](https://github.com/near/near-indexer-for-explorer)
 - [NEAR Wallet](https://wallet.near.org/)
+- [near-contract-helper](https://github.com/near/near-contract-helper) - Micro-service used by NEAR Wallet to store & send recovery methods.

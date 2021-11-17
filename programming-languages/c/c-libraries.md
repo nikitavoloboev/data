@@ -104,3 +104,4 @@
 - [libuvc](https://github.com/libuvc/libuvc) - Cross-platform library for USB video devices.
 - [mlib](https://github.com/P-p-H-d/mlib) - Library of generic and type safe containers in pure C language (C99 or C11) for a wide collection of container (comparable to the C++ STL).
 - [TinyUSB](https://github.com/hathach/tinyusb) - Open source cross-platform USB stack for embedded system.
+- [HPIPM](https://github.com/giaf/hpipm) - High-performance interior-point method solver for dense, optimal control- and tree-structured convex quadratic programs.

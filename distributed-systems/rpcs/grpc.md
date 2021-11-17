@@ -61,3 +61,4 @@
 - [Introduction to gRPC in Rust (2021)](https://romankudryashov.com/blog/2021/04/grpc-rust/)
 - [asio-grpc](https://github.com/Tradias/asio-grpc) - Asynchronous gRPC with Asio/unified executors.
 - [ProtoFuzz](https://github.com/trailofbits/protofuzz) - Generic fuzzer for Google’s Protocol Buffers format.
+- [protobuf-inspector](https://github.com/mildsunrise/protobuf-inspector) - Tool to reverse-engineer Protocol Buffers with unknown definition.

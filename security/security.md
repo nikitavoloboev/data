@@ -219,3 +219,6 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Never update anything (2021)](https://blog.kronis.dev/articles/never-update-anything) ([Lobsters](https://lobste.rs/s/ypzaht/never_update_anything)) ([HN](https://news.ycombinator.com/item?id=29106159))
 - [Nym Privacy Platform](https://github.com/nymtech/nym) - Provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials. ([Web](https://nymtech.net/))
 - [Living Off Trusted Sites](https://lots-project.com/) - List of legitimate domains that can be abused by attackers. ([Tweet](https://twitter.com/mrd0x/status/1459210707321380874))
+- [I hate password rules (2021)](https://www.schneier.com/blog/archives/2021/11/why-i-hate-password-rules.html) ([HN](https://news.ycombinator.com/item?id=29239587))
+- [trufflehog3](https://github.com/feeltheajf/trufflehog3) - Find secrets in your codebase.
+- [Accidentally a hacker (2020)](https://www.vladionescu.me/posts/how-i-became-a-hacker/)

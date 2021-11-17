@@ -137,3 +137,4 @@
 - [Seven Seven Six](https://sevensevensix.com/) - Venture capital firm, founded by builders, built with software.
 - [An Engineer's View of Venture Capitalists (2001)](https://spectrum.ieee.org/an-engineers-view-of-venture-capitalists) ([HN](https://news.ycombinator.com/item?id=29187684))
 - [Tiger Global: How to Win (2021)](https://www.readthegeneralist.com/briefing/tiger-global) ([Tweet](https://twitter.com/mariogabriele/status/1459961594344050692))
+- [Long Journey Ventures](https://www.longjourney.vc/) - Early Stage Investing for the long-term. ([Twitter](https://twitter.com/LongJourneyVC)) ([Tweet](https://twitter.com/LeeJacobs/status/1460986903352602634))

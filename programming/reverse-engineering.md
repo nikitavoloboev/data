@@ -98,3 +98,4 @@
 - [An opinionated guide on how to reverse engineer software (2021)](https://margin.re/media/an-opinionated-guide-on-how-to-reverse-engineer-software-part-1.aspx) ([HN](https://news.ycombinator.com/item?id=29084716))
 - [List of open source reverse engineering tools with a focus on binary analysis](https://github.com/extremecoders-re/re-list)
 - [Binary Reversing Methodologies (2021)](https://justintaft.com/blog/2021/11/07/binary-reversing-methodologies)
+- [MUI: Visualizing symbolic execution with Manticore and Binary Ninja (2021)](https://blog.trailofbits.com/2021/11/17/mui-visualizing-symbolic-execution-with-manticore-and-binary-ninja/)

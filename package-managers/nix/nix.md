@@ -251,3 +251,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [A Critique of Nix Package Manager](https://www.iohannes.us/en/commentary/nix-critique/) ([Reddit](https://www.reddit.com/r/NixOS/comments/qs529l/a_critique_of_nix_package_manager/))
 - [rusty-nix](https://github.com/Kloenk/rusty-nix) - Nix written in rust.
 - [Some Nix questions (2021)](https://www.reddit.com/r/NixOS/comments/qsfkow/new_to_nix_some_questions/)
+- [Nix - Flakes for out-of-tree code (2021)](https://www.youtube.com/watch?v=90P-Ml1318U)
+- [Is it worth learning and migrating to Flakes as of November 2021?](https://www.reddit.com/r/NixOS/comments/qv9ag1/is_it_worth_learning_and_migrating_to_flakes_as/)

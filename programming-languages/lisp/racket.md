@@ -3,7 +3,7 @@
 ## Links
 
 - [Racket documentation](https://docs.racket-lang.org/)
-- [The Racket Guide](https://docs.racket-lang.org/guide/index.html)
+- [The Racket Guide](https://docs.racket-lang.org/guide/)
 - [Why language-oriented programming? Why Racket? (2019)](https://beautifulracket.com/appendix/why-lop-why-racket.html) ([HN](https://news.ycombinator.com/item?id=19232068))
 - [DrRacket](https://github.com/racket/drracket) - IDE for Racket.
 - [Racket 7.3](https://download.racket-lang.org/v7.3.html) ([HN](https://news.ycombinator.com/item?id=19925832))
@@ -76,3 +76,4 @@
 - [Racket v8.3 (2021)](https://blog.racket-lang.org/2021/11/racket-v8-3.html) ([HN](https://news.ycombinator.com/item?id=29134609))
 - [Racket Discussions](https://racket.discourse.group/)
 - [Scribble](https://github.com/racket/scribble) - Racket Documentation Tool.
+- [Learn Racket by doing](https://github.com/zyrolasting/racket-koans) - Practice language features by fixing topic-oriented unit tests.

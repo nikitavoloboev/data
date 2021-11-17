@@ -180,3 +180,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Coinbase Pro client for Rust](https://github.com/inv2004/coinbase-pro-rs)
 - [Uniswap in 155 lines of code](https://www.reddit.com/r/CryptoTechnology/comments/qsuw6n/uniswap_in_155_lines_of_code/)
 - [Crypto Startup School](https://a16z.com/crypto-startup-school/)
+- [Use a burner and cold storage in order to not get your wallet stolen! (2021)](https://twitter.com/aeyakovenko/status/1460033960587632645)
+- [Securing Crypto with Gnosis Safe (2021)](https://medium.com/@mrkmcknz/securing-crypto-with-gnosis-safe-fd292eb99636) ([Tweet](https://twitter.com/mrkmcknz/status/1460371849875972096))
+- [Tips on keeping your crypto wallet safe (2021)](https://twitter.com/OrcatronEth/status/1457983343514030080)
+- [Cryptocurrencies: how regulators lost control (2021)](https://www.youtube.com/watch?v=CVsYMVHW17c) ([Tweet](https://twitter.com/SBF_FTX/status/1460658155101298690))

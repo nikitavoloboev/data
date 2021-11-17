@@ -86,3 +86,4 @@
 - [THRON](https://www.thron.com/en/) - Digital Content Management Software.
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) - Open-source P2P-based Image and File Distribution System. ([Web](https://d7y.io/en-us/))
 - [portal](https://github.com/ZinoKader/portal) - Quick and easy CLI file transfer utility.
+- [raw.githack.com](https://raw.githack.com/) - Serves raw files directly from various source code hosting services with proper Content-Type headers.

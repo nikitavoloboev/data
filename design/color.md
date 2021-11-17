@@ -102,3 +102,4 @@
 - [Pick a color](https://eldh.github.io/pick-a-color/#) ([Code](https://github.com/eldh/pick-a-color))
 - [Color Accessibility for Tailwind CSS](https://colour-a11y.vercel.app/) ([Code](https://github.com/samrobbins85/colour-a11y-for-tailwind))
 - [Shadowlord](https://noeldelgado.github.io/shadowlord/) - Tints and Shades Generator Tool. ([Code](https://github.com/noeldelgado/shadowlord))
+- [Harmonic Coloring](http://www.musanim.com/HarmonicColoring/) - Method for assigning colors to musical pitches. ([HN](https://news.ycombinator.com/item?id=29241387))

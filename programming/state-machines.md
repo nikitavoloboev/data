@@ -27,3 +27,4 @@
 - [Build Better Apps With State Machines (with David Khourshid) (2021)](https://www.youtube.com/watch?v=onEGFGNHEV0)
 - [Ragel State Machine Compiler](https://github.com/adrian-thurston/ragel)
 - [Stately Tutorials Code](https://github.com/statelyai/stately-tutorials)
+- [xstate-awaitable-send](https://github.com/sebinsua/xstate-awaitable-send) - Fire an event into an XState `Machine` and then wait for it to resolve.

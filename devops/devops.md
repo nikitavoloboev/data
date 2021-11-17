@@ -6,6 +6,7 @@
 
 ## Links
 
+- [Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP? (2021)](https://news.ycombinator.com/item?id=29251343)
 - [DevOps, SRE, and Platform Engineering (2021)](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
 - [We're Reddit's Infrastructure team, ask us anything! (2018)](https://www.reddit.com/r/sysadmin/comments/9x577m/were_reddits_infrastructure_team_ask_us_anything/)
 - [Vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. ([Web](https://vercel.com/dashboard))
@@ -108,3 +109,4 @@
 - [Scaled Agile DevOps Maturity Framework](https://scaledagiledevops.com/) - Enterprise transformation without the risk of culture change.
 - [Plunder](https://github.com/plunder-app/plunder) - Single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier.
 - [Equinix Metal Images](https://github.com/packethost/packet-images)
+- [Cloud Droid](https://github.com/cloud-sniper/cloud-droid) - Cloud Incident and Response Simulations.

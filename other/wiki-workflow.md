@@ -183,6 +183,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Eduardo Julian's bookmarks](https://github.com/LuxLang/lux/tree/master/documentation/bookmark)
 - [Raphael Sprenger](https://garden.raphaelsprenger.de/index.html)
 - [Личная вики](https://ndrewnee.gitbook.io/wiki/)
+- [Boris Mann](https://bmannconsulting.com/)
 - [Constantin Campean's Almanacs](https://github.com/costinEEST/almanacs)
 - [Allen Lee's Digital Brain](https://github.com/ale0sx/brains)
 - [Ruben Rodrigues's Wiki](https://github.com/rubrodc/ruben-2.0)
@@ -417,3 +418,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Quartz](https://github.com/jackyzha0/quartz) - Host your own second brain and digital garden for free.
 - [How to build a second brain as a software developer (2021)](https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/) ([HN](https://news.ycombinator.com/item?id=29188418))
 - [ff](https://github.com/ff-notes/ff) - Distributed note taker and task manager.
+- [Learn In Public](https://www.swyx.io/learn-in-public/)

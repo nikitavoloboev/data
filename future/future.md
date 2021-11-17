@@ -74,3 +74,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [What type of companies/industry do you think will be one of the biggest 20 years from now but doesn’t exist at the moment. (2021)](https://www.reddit.com/r/stocks/comments/pe8tsa/what_type_of_companiesindustry_do_you_think_will/)
 - [Technological stagnation: Why I came around (2021)](https://rootsofprogress.org/technological-stagnation) ([Tweet](https://twitter.com/altluu/status/1443759755449626637))
 - [Films that are optimistic about the future (2021)](https://twitter.com/zhusu/status/1444131834086887428)
+- [Things Vitalik is excited about (2020)](https://twitter.com/VitalikButerin/status/1273742863688499203)

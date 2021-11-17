@@ -47,3 +47,4 @@
 - [Firebase Testing Quick starts](https://github.com/firebase/quickstart-testing)
 - [Virgil E3Kit JS Web + Firebase Demo](https://github.com/VirgilSecurity/demo-firebase-js) - End-to-end encrypted HIPAA-compliant demo chat app for Firebase that is using Virgil Security's E3Kit JavaScript SDK.
 - [Using Firebase Cloud Functions to trigger in-app messages (2021)](https://blog.gist.build/guides-using-firebase-cloud-functions-to-trigger-in-app-messages/)
+- [cypress-firebase](https://github.com/prescottprue/cypress-firebase) - Cypress plugin and custom commands for testing Firebase projects.

@@ -114,6 +114,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [TrackerZapper](https://rknight.me/apps/tracker-zapper/) - Mac app that sits in your menubar and silently removes tracking parameters from any links you copy. ([Code](https://github.com/rknightuk/TrackerZapper))
 - [Zavala](https://github.com/vincode-io/Zavala) - Dedicated outliner for macOS, iPadOS, and iOS.
 - [Pareto Mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
+- [Quick Draw](https://github.com/maxchuquimia/quickdraw) - macOS app for drawing over the screen.
 
 ## Other interesting apps
 

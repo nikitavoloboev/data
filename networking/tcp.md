@@ -53,3 +53,5 @@
 - [lwIP](https://github.com/lwip-tcpip/lwip) - Small independent implementation of the TCP/IP protocol suite.
 - [cproxy](https://github.com/NOBLES5E/cproxy) - Redirect TCP and UDP traffic made by a program to a proxy, without requiring the program supporting a proxy.
 - [TCP (Transmission Control Protocol) in OCaml](https://github.com/roburio/tcp)
+- [Van Jacobson’s Congestion Avoidance and Control](http://protocols.netlab.uky.edu/~calvert/classes/571/lectureslides/congestion.pdf)
+- [No PortScan](https://git.encryp.ch/g00g1/no-portscan) - Watching for TCP port scanning behavior on your networks.

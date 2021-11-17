@@ -16,6 +16,7 @@
 - [The business case for formal methods (2020)](https://www.hillelwayne.com/post/business-case-formal-methods/) ([Lobsters](https://lobste.rs/s/ywgjhd/business_case_for_formal_methods)) ([HN](https://news.ycombinator.com/item?id=22321756))
 - [Logipedia](https://github.com/Deducteam/Logipedia) - Project that aims to share formal proofs between several systems.
 - [Alloy](http://alloytools.org/about.html) - Language for describing structures and a tool for exploring them. ([Docs](https://alloy.readthedocs.io/en/latest/)) ([Article](https://www.hillelwayne.com/post/alloydocs/)) ([Lobsters](https://lobste.rs/s/g41wko/announcing_alloydocs)) ([Tweet](https://twitter.com/trupill/status/1458006761286377472)) ([Being Formal Yet Lightweight](https://serras.github.io/dddeu21/))
+- [Alloy 6 First Impressions (2021)](https://buttondown.email/hillelwayne/archive/alloy-6-first-impressions/)
 - [Software Abstractions book](http://softwareabstractions.org/)
 - [Safe and Efficient, Now](http://okmij.org/ftp/Computation/lightweight-static-guarantees.html)
 - [Experiences moving from tests to strong typing? (2020)](https://lobste.rs/s/olecii/experiences_moving_from_tests_strong)

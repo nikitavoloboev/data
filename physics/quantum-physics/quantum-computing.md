@@ -112,3 +112,5 @@
 - [Favorite way to explain quantum computers to a layperson (2021)](https://twitter.com/AnnaGHughes/status/1455538667301179392)
 - [Quantum Programming Languages and Verification Literature Bibliography](https://quantumpl.github.io/bib/) ([Code](https://github.com/QuantumPL/bib))
 - [Tequila](https://github.com/tequilahub/tequila) - Rapid development of novel quantum algorithms. ([Tutorials](https://github.com/tequilahub/tequila-tutorials))
+- [IBM unveils 127-qubit quantum processor (2021)](https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor) ([HN](https://news.ycombinator.com/item?id=29244732)) ([Reddit](https://www.reddit.com/r/Physics/comments/qv81ux/ibm_quantum_breaks_the_100qubit_processor_barrier/))
+- [Scott Aaronson, when reached for comment, said (2021)](https://scottaaronson.blog/?p=6111) ([HN](https://news.ycombinator.com/item?id=29247753))

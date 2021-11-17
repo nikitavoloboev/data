@@ -155,6 +155,7 @@
 - [Why You Should Repeat Yourself, A Lot (2021)](https://tomtunguz.com/why-you-should-repeat-yourself/)
 - [Marketing for SaaS (2021)](https://twitter.com/yongfook/status/1456546766837280771)
 - [What company really hit the jackpot with their slogan? (2021)](https://www.reddit.com/r/AskUK/comments/qs7dyj/what_company_really_hit_the_jackpot_with_their/)
+- [The Developer Advocate's Guide Series (2021)](https://twitter.com/theworstdev/status/1460002492813651970)
 
 ## Images
 

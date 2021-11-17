@@ -339,7 +339,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Dona](https://www.dona.ai/) - A more humane to-do list.
 - [Clockwise](https://www.getclockwise.com/) - Smart calendar assistant that frees up your time so you can focus on what matters.
 - [Beehive](https://github.com/muesli/beehive) - Flexible event/agent & automation system with lots of bees.
-- [Budibase](https://www.budibase.com/) - Build internal tools on your own infrastructure. ([Code](https://github.com/Budibase/budibase))
+- [Budibase](https://www.budibase.com/) - Build internal tools on your own infrastructure. ([Code](https://github.com/Budibase/budibase)) ([HN](https://news.ycombinator.com/item?id=29242466))
 - [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
 - [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services. ([Code](https://github.com/darklang/dark))
 - [Flick](https://www.flick.tech/) - Find, manage and analyze Instagram hashtags.
@@ -383,7 +383,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Napkin](https://www.napkin.io/) - Backend in the Browser.
 - [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
 - [Dialup](https://dialup.com/) - Serendipitous voice chat. ([HN](https://news.ycombinator.com/item?id=25557779))
-- [Craft](https://www.craft.do/) - Native macOS/iOS competitor to Notion.
+- [Craft](https://www.craft.do/) - Native macOS/iOS competitor to Notion. ([Twitter](https://twitter.com/craftdocsapp)) ([Approach to data ownership](https://twitter.com/geoffreylitt/status/1374144532976168967))
 - [Fireworq](https://github.com/fireworq/fireworq) - Lightweight, high-performance, language-independent job queue system.
 - [Notifly](https://www.notifly.io/) - Let us handle your web app notifications.
 - [Stripe CLI](https://github.com/stripe/stripe-cli) - Command-line tool for Stripe.
@@ -611,3 +611,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Creator Stash](https://stash.thesocio.club/) - Library of tools for creators to create, grow, manage and monetize.
 - [Dev Resources](https://devresourc.es/) - Collaborative list of resources for developers. ([Code](https://github.com/marcelscruz/dev-resources))
 - [Ask HN: What do you think about the no-code movement? (2021)](https://news.ycombinator.com/item?id=29188355)
+- [Dream productivity stack tools (2021)](https://twitter.com/ashleymayer/status/1460312782646104067)

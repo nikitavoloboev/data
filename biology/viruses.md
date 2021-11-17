@@ -92,3 +92,4 @@
 - [SARS-CoV-2 variant A.30 is heavily mutated and evades vaccine-induced antibodies (2021)](https://www.nature.com/articles/s41423-021-00779-5) ([HN](https://news.ycombinator.com/item?id=29004006))
 - [How highly effective mRNA vaccines work (nice visual) (2021)](https://twitter.com/SamIAm2021MD/status/1459051952831189013)
 - [Chemical composition of the mRNA vaccines (2021)](https://twitter.com/ENirenberg/status/1460107641481531392)
+- [Python-for-Epidemiologists Course](https://github.com/pzivich/Python-for-Epidemiologists)

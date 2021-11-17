@@ -107,3 +107,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Privacy Is a Human Right (2021)](https://blog.torproject.org/privacy-is-a-human-right) ([HN](https://news.ycombinator.com/item?id=28997501))
 - [Fides](https://github.com/ethyca/fides) - Declaratively enforce your data privacy requirements from within your software development life-cycle. ([Docs](https://ethyca.github.io/fides/))
 - [Practical Differentially Private Clustering (2021)](https://ai.googleblog.com/2021/10/practical-differentially-private.html)
+- [Securing your digital life (2021)](https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/)

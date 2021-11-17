@@ -14,3 +14,5 @@
 - [lopdf](https://github.com/J-F-Liu/lopdf) - Rust library for PDF document manipulation.
 - [pdf_render](https://github.com/pdf-rs/pdf_render) - Experimental PDF viewer.
 - [pdf-rs](https://github.com/pdf-rs/pdf) - Read, alter and write PDF files.
+- [PEP](https://macpep.org/) - Open Source & Free PDF Editor for Mac. ([Code](https://github.com/orklann/PEP))
+- [Make any PDF look like scanned](https://www.scanyourpdf.com/) ([Code](https://github.com/baicunko/scanyourpdf)) ([CLI](https://github.com/apurvmishra99/pdf-to-scan))

@@ -118,3 +118,5 @@
 - [Kara's Coffee](https://karas-coffee.web.app/) - Demo ecommerce application showcasing Firebase Extensions and other Firebase products. ([Code](https://github.com/FirebaseExtended/karas-coffee))
 - [EasyPost](https://www.easypost.com/) - Simple Shipping API.
 - [Container Logistics (2021)](https://www.lesswrong.com/posts/PHmYhE4sKnwzYgvkh/a-brief-introduction-to-container-logistics) ([HN](https://news.ycombinator.com/item?id=29205160))
+- [Govalo](https://govalo.com/) - Reinventing the digital gifting experience. ([Twitter](https://twitter.com/fromgovalo))
+- [Shopify App Store](https://apps.shopify.com/) - Ecommerce App Marketplace.

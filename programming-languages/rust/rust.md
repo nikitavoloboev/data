@@ -621,3 +621,6 @@
 - [What does `&mut &[T]` mean? (2021)](https://ihatereality.space/04-what-mutref-to-slice-ref-means/) ([Lobsters](https://lobste.rs/s/w0buyv/what_does_mut_t_mean))
 - [Rust data structures with circular references (2021)](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/) ([HN](https://news.ycombinator.com/item?id=29207397))
 - [Testing multiple implementations of a trait in Rust (2021)](https://eli.thegreenplace.net/2021/testing-multiple-implementations-of-a-trait-in-rust/)
+- [SIMD explained using waffles](https://www.reddit.com/r/rust/comments/qucind/stdsimd_is_now_available_on_nightly/hkpy4y4/)
+- [How to find difference between sum and product types (2021)](https://twitter.com/pcwalton/status/1460446159265165316)
+- [The Little Book of Rust Books](https://lborb.github.io/book/) - Catalogue of Rust mdbooks. ([Code](https://github.com/lborb/book))

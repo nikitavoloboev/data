@@ -40,3 +40,4 @@
 - [OctaSine](https://github.com/greatest-ape/OctaSine) - VST2 frequency modulation synthesizer written in Rust.
 - [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html) ([Tweet](https://twitter.com/kenshirriff/status/1459572903213613056)) ([HN](https://news.ycombinator.com/item?id=29211401))
 - [What Makes It Sound ’80s? Yamaha DX7 Electric Piano Sound](https://meganlavengood.com/wp-content/uploads/2019/09/Lavengood-2019-%E2%80%9CWhat-Makes-It-Sound-%E2%80%9980s%E2%80%9D-The-Yamaha-DX7-Electr.pdf) ([Tweet](https://twitter.com/kenshirriff/status/1459579767410216963))
+- [libfmsynth](https://github.com/Themaister/libfmsynth) - C library which implements an FM synthesizer.

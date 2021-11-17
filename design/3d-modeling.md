@@ -66,3 +66,4 @@
 - [Fornjot](https://github.com/hannobraun/fornjot) - Experimental CAD system.
 - [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array) ([HN](https://news.ycombinator.com/item?id=29191918))
 - [replicad](https://github.com/sgenoud/replicad) - Library to build browser based 3D models with code.
+- [The Lucid Motors Configurator is A Video Game Streaming to Your Browser (2021)](https://blog.skz.dev/lucid-configurator-is-a-streaming-video-game)

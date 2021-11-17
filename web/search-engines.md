@@ -178,3 +178,4 @@
 - [liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser and search engine.
 - [Zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
 - [How Not To Sort By Average Rating (2009)](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html) ([HN](https://news.ycombinator.com/item?id=29200103))
+- [T-Wand: Beat Lucene in Less Than 600 Lines of Code (2021)](https://yyhh.org/blog/2021/11/t-wand-beat-lucene-in-less-than-600-lines-of-code/) ([HN](https://news.ycombinator.com/item?id=29237644))

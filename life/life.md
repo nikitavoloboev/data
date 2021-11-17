@@ -21,6 +21,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Life is just a thing that is happening to you, let it happen. Novelty occurs in things that are outside of our control, and it cannot happen if you are stuck in your own head imposing limits on yourself.](https://www.reddit.com/r/RationalPsychonaut/comments/pz6oid/given_the_absurdity_of_life_how_do_you_go_about/)
 - [When you don’t create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. So create.](https://lobste.rs/s/lbero9/what_we_can_learn_from_why_long_lost_open)
 - [Don’t spend time attacking people. Don’t spend your time on the people you hate. Instead, spend time on building your own products, spend time on yourself. Some people still don’t get this. Time is the most limited resource.](https://twitter.com/cz_binance/status/1458916521355403274)
+- [Life is a game and self belief is the cheat code](https://www.reddit.com/r/Psychonaut/comments/quoa7p/whats_the_big_secret/)
 
 ## Links
 

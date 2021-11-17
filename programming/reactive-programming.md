@@ -18,3 +18,6 @@
 - [A Hands-on Introduction to Fine-Grained Reactivity (2021)](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
 - [FRP Guides](https://github.com/HeinrichApfelmus/frp-guides) - Tutorials, guidelines, examples, patterns and half-baked ideas on functional reactive programming (FRP).
 - [ShapeRankai](https://github.com/f5devcentral/shapeRank) - Targeted at data analytics, machine learning and reactive programming. Purely functional and statically typed. ([Talk](https://www.youtube.com/watch?v=vMO-CFlbYf8))
+- [Main aspects of reactivity (2021)](https://dev.to/ninjin/main-aspects-of-reactivity-58co)
+- [cellx](https://github.com/Riim/cellx) - Ultra-fast implementation of reactivity for JS.
+- [Разбираемся в сортах реактивности](https://github.com/nin-jin/slides/blob/master/reactivity/readme.md) ([Tweet](https://twitter.com/andrey_sitnik/status/1460956157854752768))

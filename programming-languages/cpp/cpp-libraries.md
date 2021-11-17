@@ -56,6 +56,7 @@
 - [Treexy](https://github.com/facontidavide/Treexy) - Brutally fast, sparse, 3D Voxel Grid.
 - [neoGFX](https://github.com/i42output/neoGFX) - Cross-platform GPU-oriented C++ application/game framework. ([Web](https://neogfx.org/))
 - [NanoGUI](https://github.com/mitsuba-renderer/nanogui) - Minimalistic C++/Python GUI library for OpenGL, GLES2/3, Metal, and WebAssembly/WebGL.
+- [Anti-Grain Geometry](https://github.com/ghaerr/agg-2.6) - Open Source, 2D vector graphics library. Produces pixel images in memory from vectorial data.
 
 ## DB
 
@@ -282,6 +283,7 @@
 - [Autocomplete](https://github.com/jermp/autocomplete) - Efficient and effective query auto-completion in C++.
 - [Sexpresso](https://github.com/BitPuffin/sexpresso) - C++ centric s-expression parser library.
 - [baidu-allreduce](https://github.com/baidu-research/baidu-allreduce) - Small C++ library, demonstrating the ring allreduce and ring allgather techniques.
+- [HIP](https://github.com/ROCm-Developer-Tools/HIP) - C++ Heterogeneous-Compute Interface for Portability.
 
 ## Links
 

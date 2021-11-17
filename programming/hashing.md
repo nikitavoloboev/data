@@ -55,3 +55,4 @@
 - [Meow Hash](https://mollyrocket.com/meowhash) ([HN](https://news.ycombinator.com/item?id=29038813))
 - [Poseidon Hash](https://www.poseidon-hash.info/) - ZK-friendly Hashing.
 - [Neptune](https://github.com/filecoin-project/neptune) - Rust implementation of the Poseidon hash function tuned for Filecoin.
+- [On the Optimal Time/Space Tradeoff for Hash Tables (2021)](https://arxiv.org/pdf/2111.00602.pdf)

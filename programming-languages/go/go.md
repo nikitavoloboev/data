@@ -288,7 +288,6 @@ if err != nil {
 - [Pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries.
 - [asmfmt](https://github.com/klauspost/asmfmt) - Go Assembler Formatter.
 - [Diving into Go by building a CLI application (2020)](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html) ([[HN](https://news.ycombinator.com/item?id=23318137)]) ([Reddit](https://www.reddit.com/r/golang/comments/grgvlu/diving_into_go_by_building_a_cli_application/))
-- [Testify](https://github.com/stretchr/testify) - Toolkit with common assertions and mocks that plays nicely with the standard library.
 - [Go and CPU Caches (2020)](https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592)
 - [go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Easy way to find outdated dependencies of your Go projects.
 - [Featherweight Go (2020)](https://arxiv.org/abs/2005.11710) ([HN](https://news.ycombinator.com/item?id=23368453)) ([Talk](https://www.youtube.com/watch?v=Dq0WFigax_c)) ([Implementation](https://github.com/rhu1/fgg))
@@ -613,3 +612,6 @@ if err != nil {
 - [Wild Workouts](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [Best ways to learn Go for experienced devs (2021)](https://twitter.com/dabeaz/status/1459167457969639444)
 - [Maintainable Go Projects (2021)](https://huseyinbabal.com/2021/11/14/maintainable-go-projects/)
+- [A rough proposal for sum types in Go (2018)](https://manishearth.github.io/blog/2018/02/01/a-rough-proposal-for-sum-types-in-go/) ([HN](https://news.ycombinator.com/item?id=29230537))
+- [Contributing the Go Compiler: Adding New Tilde (~) Operator (2021)](https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7) ([Lobsters](https://lobste.rs/s/jqjsdw/contributing_go_compiler_adding_new))
+- [Improving the code from the official Go RESTful API tutorial (2021)](https://benhoyt.com/writings/web-service-stdlib/) ([Lobsters](https://lobste.rs/s/9fjnrw/improving_code_from_official_go_restful))

@@ -600,3 +600,6 @@
 - [Awesome MLOps](https://github.com/kelvins/awesome-mlops)
 - [Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) ([Code](https://github.com/ziritrion/ml-zoomcamp))
 - [Yann LeCun’s 2021 Deep Learning Course at CDS (2021)](https://cds.nyu.edu/deep-learning/) ([HN](https://news.ycombinator.com/item?id=29218520))
+- [Interactive Gradient Descent Demo (2021)](https://blog.skz.dev/gradient-descent)
+- [Why Momentum Really Works (2017)](https://distill.pub/2017/momentum/)
+- [HNPE: Leveraging Global Parameters for Neural Posterior Estimation (2021)](https://arxiv.org/abs/2102.06477) ([Tweet](https://twitter.com/plc_rodrigues/status/1460654220944809986))

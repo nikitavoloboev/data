@@ -32,3 +32,4 @@
 - [REST with Clean Architecture for Go](https://github.com/swaggest/rest) - Web services with OpenAPI and JSON Schema done quick in Go.
 - [resty](https://github.com/brielov/resty) - Syntactic sugar for RESTful APIs.
 - [REST Book](https://github.com/tanhakabir/rest-book) - VSCode Extension that allows you to perform REST calls in a Notebook interface.
+- [caffeine](https://github.com/rehacktive/caffeine) - Very basic REST service for JSON data - enough for prototyping and MVPs. In Go. ([HN](https://news.ycombinator.com/item?id=29238563))

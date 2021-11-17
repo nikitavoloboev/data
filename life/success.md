@@ -135,3 +135,4 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [10 threads to accelerate your career](https://twitter.com/SahilBloom/status/1453077828023451651)
 - [Why Success Won't Make You Happy (2020)](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/) ([Tweet](https://twitter.com/ShriramKMurthi/status/1457328115160657920))
 - [How to consistently generate great work (2021)](https://twitter.com/Julian/status/1457422738491011079)
+- [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

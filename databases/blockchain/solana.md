@@ -12,6 +12,7 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Synthetify](https://synthetify.io/) - Decentralized synthetic assets exchange.
 - [Star Atlas](https://staratlas.com/) - Grand strategy game of space exploration, territorial conquest, political domination, and more.
 - [Break Solana Game](https://break.solana.com/) - Consists of a 3 parts: a web client frontend, a web server backend, and an on-chain Solana program. ([Code](https://github.com/solana-labs/break))
+- [SolDate](https://www.soldate.org/) - Make love happen on Blockchain. Receive rewards on finding a match. ([Twitter](https://twitter.com/SolDate_org))
 
 ## Notes
 
@@ -151,3 +152,12 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Secretum](https://secretum.io/) - Secure Messaging & Trading dapp on Solana.
 - [Lava Cash](https://lava.cash/) - Decentralized Privacy Preservation Protocol built on Solana. ([Reddit](https://www.reddit.com/r/solana/comments/qtp7xh/is_it_possible_to_mask_sol_address_for_receiving/))
 - [NFT Armory](https://www.nftarmory.me/) - Simple tool to display, mint, and modify your Metaplex NFTs. ([Code](https://github.com/ilmoi/nft-armory))
+- [Writing Smart Contracts on Solana with Anchor (2021)](https://www.youtube.com/watch?v=cvW8EwGHw8U) ([Tweet](https://twitter.com/armaniferrante/status/1460281186501070848))
+- [Solana and rollups (2021)](https://twitter.com/pencilflip/status/1460075605668495366)
+- [Solana Transaction Fees (2021)](https://jstarry.notion.site/Transaction-Fees-f09387e6a8d84287aa16a34ecb58e239)
+- [Solana Shadow](https://github.com/hubble-markets/solana-shadow) - Adds shadows to solana on-chain accounts for off-chain processing.
+- [Awesome Solana NFTs](https://github.com/ilmoi/awesome-solana-nfts)
+- [How Solana could reach 1 billion users in the next five years | Interview with Solana Labs CEO (2021)](https://www.youtube.com/watch?v=qAehzKsDOd4)
+- [Anatoly Yakovenko Reflects on Solana’s Breakout Year (2021)](https://cryptobriefing.com/anatoly-yakovenko-reflects-solanas-breakout-year/) ([Tweet](https://twitter.com/dreamsofdefi/status/1460637884248215555))
+- [Virtual Machines: Interoperability and Maximalism (2021)](https://www.youtube.com/watch?v=JPIBBhtkZBE)
+- [solana/solidity](https://github.com/solana-labs/solana-solidity.js) - Compile, deploy, and use Solidity contracts on Solana. ([Tweet](https://twitter.com/aeyakovenko/status/1460981759378477057))

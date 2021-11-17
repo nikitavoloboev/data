@@ -86,6 +86,8 @@
 - [Truthy](https://github.com/carlmjohnson/truthy) - Provides truthy condition testing with Go generics.
 - [Moq](https://github.com/matryer/moq) - Interface mocking tool for go generate.
 - [testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, mocking, input testing, output capturing, and much more.
+- [Testify](https://github.com/stretchr/testify) - Toolkit with common assertions and mocks that plays nicely with the standard library.
+- [testify-rules](https://github.com/tdakkota/testify-rules) - Ruleguard ruleset bundle for testify.
 
 ## Web
 
@@ -370,6 +372,10 @@
 - [Sysinfo](https://github.com/zcalusic/sysinfo) - Go library providing Linux OS / kernel / hardware system information.
 - [tenus](https://github.com/milosgajdos/tenus) - Allows you to configure and manage Linux network devices programmatically.
 - [CAN Go](https://github.com/einride/can-go) - Makes use of the Linux SocketCAN abstraction for CAN communication.
+
+## Apple
+
+- [go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go.
 
 ## Error
 
@@ -1072,6 +1078,8 @@
 - [form](https://github.com/go-playground/form) - Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support.
 - [mold](https://github.com/go-playground/mold) - General library to help modify or set data within data structures and other objects.
 - [pkg](https://github.com/go-playground/pkg) - Extends the core Go packages with missing or additional functionality built in.
+- [mod](https://github.com/golang/mod) - Go module mechanics libraries.
+- [IAVL](https://github.com/cosmos/iavl) - Merkleized IAVL+ Tree implementation in Go.
 
 ## Links
 

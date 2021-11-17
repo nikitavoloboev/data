@@ -25,4 +25,4 @@ Some interesting words I like:
 - [Why is English so weirdly different from other languages?](https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages)
 - [The History of English Podcast](https://historyofenglishpodcast.com/) - The Spoken History of a Global Language. ([Twitter](https://twitter.com/englishhistpod))
 - [Typos, tricks and misprints](https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent) ([HN](https://news.ycombinator.com/item?id=28018293))
-- [Politics and the English Language (1946)](https://gutenberg.net.au/ebooks02/0200151h.html) ([HN](https://news.ycombinator.com/item?id=29031529))
+- [Politics and the English Language (1946)](https://gutenberg.net.au/ebooks02/0200151h.html) ([HN](https://news.ycombinator.com/item?id=29031529)) ([Other UI](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/?curius=737))

@@ -114,3 +114,4 @@
 - [Vireo](https://github.com/single-cell-genetics/vireo) - Variational Inference for Reconstructing Ensemble Origin by expressed SNPs in multiplexed scRNA-seq data.
 - [Naturally occurring modified ribonucleosides (2020)](https://wires.onlinelibrary.wiley.com/doi/10.1002/wrna.1595)
 - [microPIPE](https://github.com/BeatsonLab-MicrobialGenomics/micropipe) - Pipeline for high-quality bacterial genome construction using ONT sequencing.
+- [Genomic Medicine and Statistics DPhil Programme](https://www.well.ox.ac.uk/study/gms)

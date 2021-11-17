@@ -131,3 +131,5 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Love Must Be Tough: New Hope for Marriages in Crisis by James C. Dobson (2004)](https://www.goodreads.com/book/show/56415.Love_Must_Be_Tough)
 - [People like you more than you think](https://journals.sagepub.com/doi/abs/10.1177/0956797618783714) ([Tweet](https://twitter.com/MaxCRoser/status/1456224689727094784))
 - [Divorce does funny things (2021)](https://www.theparisreview.org/blog/2021/11/09/divorce-does-funny-things/) ([HN](https://news.ycombinator.com/item?id=29236676))
+- [How to become a "boyfriend" material from a "husband" material? (2021)](https://www.reddit.com/r/AskMen/comments/qulz07/how_to_become_a_boyfriend_material_from_a_husband/)
+- [Любовная зависимость и обсессия. Как избавиться от мыслей о человеке (2021)](https://www.youtube.com/watch?v=Genp4WQgWts)

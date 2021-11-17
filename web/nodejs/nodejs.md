@@ -279,3 +279,5 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [fastest-validator](https://github.com/icebob/fastest-validator) - Fastest JS validator library for NodeJS | Browser | Deno.
 - [fast-gateway](https://github.com/BackendStack21/fast-gateway) - Super fast, framework agnostic Node.js API Gateway for the masses. ([Article](https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c))
 - [Easily build NodeJS projects inside a docker container](https://gist.github.com/rain-1/2f5551e34f32b1ef3cd58d01478a4916) ([Lobsters](https://lobste.rs/s/cwhckf/easily_build_nodejs_projects_inside))
+- [Agenda](https://github.com/agenda/agenda) - Light-weight job scheduling library for Node.js.
+- [synchronous-worker](https://github.com/addaleax/synchronous-worker) - Run Node.js APIs synchronously.

@@ -28,3 +28,4 @@
 - [Medallion](https://medallion.co/) - Medical Credentialing & Licensing Made Simple. ([Tweet](https://twitter.com/andrew__reed/status/1455902525337452550))
 - [I was terrified of an eyeball injection (2021)](https://www.ctrl.blog/entry/eyeball-fright.html) ([HN](https://news.ycombinator.com/item?id=29104527))
 - [Lunit](https://www.lunit.io/en) - With AI, we aim to make data-driven medicine the new standard of care.
+- [Ivermectin: Much More Than You Wanted to Know (2021)](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted) ([HN](https://news.ycombinator.com/item?id=29249686))

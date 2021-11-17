@@ -115,3 +115,5 @@
 - [APSW](https://github.com/rogerbinns/apsw) - Python SQLite wrapper.
 - [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite.
 - [deno_sqlite3](https://github.com/littledivy/deno_sqlite3) - Non-blocking, asynchronous FFI bindings to SQlite3.
+- [SQLite grammar for tree-sitter](https://github.com/dhcmrlchtdj/tree-sitter-sqlite)
+- [libsqlfs](https://github.com/guardianproject/libsqlfs) - Library that implements a POSIX style filesystem on top of an SQLite database.

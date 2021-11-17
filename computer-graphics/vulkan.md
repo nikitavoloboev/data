@@ -51,3 +51,5 @@
 - [Samples to illustrate Vulkan API on Android](https://github.com/googlesamples/android-vulkan-tutorials)
 - [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap) - Vulkan bootstraping library.
 - [vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig.
+- [Racket Vulkan](https://github.com/zyrolasting/racket-vulkan) - Vulkan API integration and utilities for Racket.
+- [Granite](https://github.com/Themaister/Granite) - Personal Vulkan renderer.

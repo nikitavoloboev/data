@@ -344,3 +344,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Rport](https://github.com/cloudradar-monitoring/rport) - Manage remote systems with ease. ([Web](https://rport.io/))
 - [The Challenge of Bluetooth Distance Estimation (2020)](http://www.davidgyoungtech.com/2020/05/15/how-far-can-you-go)
 - [getssl](https://github.com/srvrco/getssl) - Obtain SSL certificates from the letsencrypt.org ACME server. Suitable for automating the process on remote servers.
+- [dhcparse](https://github.com/axelf4/dhcparse) - Zero-copy Rust DHCPv4 parser.

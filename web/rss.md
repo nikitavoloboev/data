@@ -122,3 +122,5 @@
 - [RSS Combine](https://github.com/chase-seibert/rsscombine) - Combine many RSS feeds into one feed.
 - [reader](https://github.com/lemon24/reader) - Python feed reader library.
 - [rss_parsers](https://github.com/hussein-esmail7/rss-parsers) - Convert an HTML page to RSS with URL support.
+- [node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
+- [rss-parser](https://github.com/rbren/rss-parser) - Lightweight RSS parser, for Node and the browser.

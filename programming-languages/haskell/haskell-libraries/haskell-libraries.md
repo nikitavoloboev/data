@@ -202,4 +202,5 @@
 - [Awesome Haskell 2](https://github.com/uhub/awesome-haskell)
 - [Haskell Development Build Tools using Nix](https://github.com/tek/hix)
 - [nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages.
-- [Haskell Breaking Changes](https://github.com/fumieval/Haskell-breaking-changes) - List of upcoming/proposed changes to Haskell core/de facto libraries.
+- [Haskell Breaking Changes](https://github.com/fumieval/Haskell-breaking-changes) - List of upcoming/proposed changes to Haskell core/de facto libraries. ([HN](https://news.ycombinator.com/item?id=29250504))
+- [Immutable Publishing Policy](https://gist.github.com/chrisdone/f71a2eca728a805c181091863c339fc2) ([Tweet](https://twitter.com/christopherdone/status/1460575119395495936))

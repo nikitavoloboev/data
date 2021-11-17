@@ -57,3 +57,4 @@
 - [The Present Parent Handbook: 26 Simple Tools to Discover that This Moment, This Action, This Thought, This Feeling Is Exactly Why I Am Here](https://www.goodreads.com/book/show/34065333-the-present-parent-handbook)
 - [Simple, private tool to help pick a baby name](https://nomdebebe.app/) ([HN](https://news.ycombinator.com/item?id=29118785))
 - [Secrets Of The Great Families (2021)](https://astralcodexten.substack.com/p/secrets-of-the-great-families) ([HN](https://news.ycombinator.com/item?id=29167208))
+- [Introducing Kiddos to a Big World of Awesomeness](https://github.com/obensource/little-kiddo-learning)

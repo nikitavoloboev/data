@@ -253,6 +253,7 @@
 - [More Itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools.
 - [awkward-array](https://github.com/scikit-hep/awkward-array) - Manipulate arrays of complex data structures as easily as Numpy.
 - [pydantic](https://github.com/samuelcolvin/pydantic/) - Data parsing and validation using Python type hints. ([Docs](https://pydantic-docs.helpmanual.io/))
+- [Goodconf](https://github.com/lincolnloop/goodconf) - Transparently load variables from environment or JSON/YAML file.
 - [graphene-pydantic](https://github.com/graphql-python/graphene-pydantic) - Integrate GraphQL with your Pydantic models.
 - [Python Sorted Containers](https://github.com/grantjenks/python-sortedcontainers) - Sorted List, Sorted Dict, and Sorted Set.
 - [MacroPy3](https://macropy3.readthedocs.io/en/latest/) - Provides a mechanism for user-defined functions (macros) to perform transformations on the abstract syntax tree (AST) of a Python program at import time.
@@ -557,6 +558,7 @@
 - [Astroid](https://github.com/PyCQA/astroid) - Common base representation of python source code for pylint and other projects.
 - [Babel](https://github.com/python-babel/babel) - Python library that provides an integrated collection of utilities that assist with internationalizing and localizing Python applications.
 - [snoop](https://github.com/alexmojaki/snoop) - Powerful set of Python debugging tools, based on PySnooper.
+- [Acoular](https://github.com/acoular/acoular) - Library for acoustic beamforming.
 
 ## Links
 
@@ -601,3 +603,4 @@
 - [Python libraries to make your code readable, reliable and maintainable (2020)](https://isaak.dev/2020/08/python-libraries-to-make-your-code-readable-and-maintainable)
 - [Pyflow](https://github.com/David-OConnor/pyflow) - Installation and dependency system for Python.
 - [davos](https://github.com/ContextLab/davos) - Import packages in Python, even if they aren't installed.
+- [Speed up your Conda installs with Mamba (2021)](https://pythonspeed.com/articles/faster-conda-install/)

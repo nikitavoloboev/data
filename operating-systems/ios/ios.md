@@ -110,6 +110,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS app dev tip: If you wanted an app name but it's not available, change the primary language on App Store Connect. Apps are region specific, and you may end up finding that it's still available in most languages (English US is usually taken).](https://twitter.com/JPEGuin/status/1269915954424791041)
 - [Texture is great library for iOS if you need top performance.](https://twitter.com/JordanMorgan10/status/1296774307218169856)
 - [How to disable "rate my app" notifications in iOS](https://twitter.com/hunterwalk/status/1397036572684345348)
+- [You can escape emoji search keyboard by clicking on the original text box](https://twitter.com/nateparrott/status/1460327450416664587)
 
 ## Links
 

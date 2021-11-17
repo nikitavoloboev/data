@@ -36,3 +36,4 @@
 - [Simple A/B testing with Caddy and Plausible Analytics (2021)](https://bradleyjkemp.dev/post/simple-a/b-testing-with-caddy-and-plausible-analytics/)
 - [tsid](https://github.com/astrophena/tsid) - Tailscale integration for Caddy.
 - [kwatch](https://github.com/ibrokemypie/kwatch) - Watch videos from a caddy fileserver.
+- [caddy-watch](https://github.com/losfair/caddy-watch) - Watch for interesting patterns in Caddy logs and send a Telegram notification.

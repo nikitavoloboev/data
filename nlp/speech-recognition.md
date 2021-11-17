@@ -76,3 +76,4 @@
 - [Octopus](https://github.com/Picovoice/octopus) - On-device speech-to-index engine powered by deep learning.
 - [Open Audio Search](https://github.com/openaudiosearch/openaudiosearch) - Full text search engine with automatic speech recognition for podcasts.
 - [HuBERT: How to Apply BERT to Speech, Visually Explained (2021)](https://jonathanbgn.com/2021/10/30/hubert-visually-explained.html)
+- [Happy Scribe](https://www.happyscribe.com/) - Audio Transcription & Video Subtitles.

@@ -45,3 +45,4 @@
 - [zkSNARKs Library](https://github.com/kevinz917/zksnarks-library) - Library of zkSNARKS circuits written in the Circom language.
 - [arkworks::std](https://github.com/arkworks-rs/std) - Standard library wrapper for use in the `arkworks` ecosystem.
 - [Proof Systems](https://github.com/o1-labs/proof-systems) - Contains various zk-SNARK protocol implementations for recursive SNARK composition.
+- [Polygon Miden](https://github.com/maticnetwork/miden) - Zero-knowledge virtual machine written in Rust.

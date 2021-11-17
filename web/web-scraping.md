@@ -124,3 +124,4 @@
 - [grab-site](https://github.com/ArchiveTeam/grab-site) - Archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
 - [cloudscraper](https://github.com/VeNoMouS/cloudscraper) - Python module to bypass Cloudflare's anti-bot page.
 - [Papercut](https://github.com/armand1m/papercut) - Scraping/crawling library for Node.js, written in Typescript.
+- [Marple](https://github.com/soxoj/marple) - Collect links to profiles by username through search engines.

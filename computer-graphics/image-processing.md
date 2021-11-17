@@ -133,3 +133,4 @@
 - [Rustagram](https://github.com/ha-shine/rustagram) - Instagram filters in Rust.
 - [Image File Formats That Didn’t Make It (2021)](https://tedium.co/2021/11/10/10-forgotten-image-formats/) ([HN](https://news.ycombinator.com/item?id=29175656))
 - [Imagetools](https://github.com/JonasKruckenberg/imagetools) - Toolbox of easy-to-use import directives that transform and optimize your images at compile-time.
+- [Why Your Website Should Not Use Dithered Images (2021)](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)

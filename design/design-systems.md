@@ -77,6 +77,7 @@
 - [Mirror Design](https://degen-xyz.vercel.app/) - Design system for Mirror.xyz built with React and vanilla-extract. ([Code](https://github.com/mirror-xyz/degen))
 - [Arco Design React](https://github.com/arco-design/arco-design)
 - [Equinor Design System](https://github.com/equinor/design-system)
+- [Style Guide of republik.ch](https://styleguide.republik.ch/) - Exporting React components for typography, forms and various article elements. ([Code](https://github.com/orbiting/styleguide))
 
 ## Notes
 
@@ -150,3 +151,4 @@
 - [Dessert Box](https://github.com/TheMightyPenguin/dessert-box) - Library to easily consume your design tokens from a React component, meant to be used with vanilla-extract.
 - [Variant-driven Components (2021)](https://ped.ro/blog/variant-driven-components)
 - [Design systems and magic (2021)](https://twitter.com/danmall/status/1450825066502148102)
+- [Design Systems are for user interfaces (2021)](https://bradfrost.com/blog/post/design-systems-are-for-user-interfaces/)

@@ -30,3 +30,5 @@
 - [Simulating Light Diffraction with Lenses - Visualizing Fourier Optics (2021)](https://rafael-fuente.github.io/simulating-light-diffraction-with-lenses-visualizing-fourier-optics.html)
 - [torchkbnufft](https://github.com/mmuckley/torchkbnufft) - High-level, easy-to-deploy non-uniform Fast Fourier Transform in PyTorch.
 - [Fourier Series Visualization with D3](https://bl.ocks.org/jinroh/7524988) ([HN](https://news.ycombinator.com/item?id=28632776))
+- [muFFT](https://github.com/Themaister/muFFT) - Library for computing the Fast Fourier Transform (FFT) in one or two dimensions.
+- [GLFFT](https://github.com/Themaister/GLFFT) - C++11/OpenGL library for the Fast Fourier Transform.

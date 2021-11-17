@@ -4,6 +4,10 @@
 
 - [Edge Comments](https://github.com/umstek/edge-comments) - Comments engine on the edge with Cloudflare.
 
+## Notes
+
+- [Think of Durable Objects as in memory cache in JavaScript spread across all edges globally with two specialties: 1. It’s automatically scaled and persisted to durable storage after workers finish execution. 2. It’s single threaded globally so you effectively get a write lock on them. The object actually only runs in one single location. And then based on the requests coming to it, Cloudflare moves it around to the most optimum location.](https://twitter.com/chatsidhartha/status/1460511611756728323?s=28)
+
 ## Links
 
 - [worker-template curl](https://github.com/Gaafar/curl-worker) - Cloudflare worker template that intercepts requests from curl command and returns something different.
@@ -89,3 +93,10 @@
 - [Relational Database Connectors for Cloudflare Workers (2021)](https://blog.cloudflare.com/relational-database-connectors/) ([HN](https://news.ycombinator.com/item?id=29227519))
 - [Making connections with TCP and Sockets for Workers (2021)](https://blog.cloudflare.com/introducing-socket-workers/)
 - [Durable Object Groups](https://github.com/cloudflare/dog) - Setup named clusters of related Durable Objects.
+- [Remix on Cloudflare Template](https://github.com/jacob-ebey/remix-cloudflare-demo) - Demo of Remix running on Cloudflare workers. ([Web](https://remix-cloudflare-demo.jacob-ebey.workers.dev/))
+- [wrangler2](https://github.com/cloudflare/wrangler2) - Command line tool for building Cloudflare Workers. ([Tweet](https://twitter.com/jevakallio/status/1460617288638468103)) ([Tweet](https://twitter.com/threepointone/status/1460611387735134209))
+- [Automatically generating types for Cloudflare Workers (2021)](https://blog.cloudflare.com/automatically-generated-types/) ([Tweet](https://twitter.com/_mrbbot/status/1460619162108280835))
+- [Introducing Services: Build Composable, Distributed Applications on Cloudflare Workers (2021)](https://blog.cloudflare.com/introducing-worker-services/)
+- [Durable Objects Counter template](https://github.com/cloudflare/durable-objects-rollup-esm)
+- [JavaScript modules are now supported on Cloudflare Workers (2021)](https://blog.cloudflare.com/workers-javascript-modules/)
+- [Cloudflare Pages Goes Full Stack (2021)](https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/) ([HN](https://news.ycombinator.com/item?id=29253032))

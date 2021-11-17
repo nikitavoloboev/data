@@ -185,6 +185,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Jim](https://jimllpaintit.tumblr.com/)
 - [Azlen Elza](https://www.instagram.com/azlenelza/)
 - [Jie Ma](https://www.behance.net/jiema37?)
+- [Alex Tomlinson](https://www.instagram.com/hoot.alex/)
 - [Eric Wallis](https://www.ericwallis.com/originals-store)
 - [Cole Peters](https://colepeters.com/)
 - [Mattis Dovier](https://mattisdovier.tumblr.com/) ([YouTube](https://www.youtube.com/channel/UCKhi8wL3aIlRCUkHWC-aHHg))

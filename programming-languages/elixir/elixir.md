@@ -130,3 +130,6 @@
 - [ElixirConf 2021 - Chris McCord - The Future of Full-stack](https://www.youtube.com/watch?v=Of1phFsC4ZI)
 - [Elixir Boilerplate](https://github.com/mirego/elixir-boilerplate) - Stable base upon which we build our Elixir projects at Mirego.
 - [Elixir REPL](https://github.com/mrshankly/tryelixir)
+- [Building app infrastructure in Elixir: Data/state store (2021)](https://b.amy.gg/building-infrastructure-in-elixir-part-1)
+- [Building app infrastructure in Elixir: Time-traveling state (2021)](https://b.amy.gg/building-app-infrastructure-in-elixir-time-traveling-state)
+- [Dynamic function “definitions” in Elixir (2020)](https://b.amy.gg/dynamic-function-definitions-in-elixir)

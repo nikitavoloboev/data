@@ -39,7 +39,7 @@
 - Never sit for long. Sit up right (good posture, never slouch). Use great chair. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing. Take breaks.
 - [Sleep](../sleep/sleep.md) fully & well. Don't limit sleep. If need to wake up early, go to sleep early. Sleep as much as body needs (~ 8h often).
 - Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all. Limit [psychedelic](../drugs/psychedelics/psychedelics.md) use.
-- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. No worries. No anxieties. Be calm. Clean up.
+- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. [No worries. No anxieties. Be calm.](https://twitter.com/flybayer/status/1460974092757131266) Clean up.
 
 ## Focus
 
@@ -247,7 +247,7 @@
 - Quality of followers > Quantity. Try cultivate positive online experiences. Filter out negativity.
 - Don't be afraid to express myself (without hurting someone deliberately) out of fear I will get unfollowed/blocked/mocked. It's just [their opinion/tastes](https://www.youtube.com/watch?v=Z-xI1384Ry4), I have mine. Feel free.
 - Be open to change. But never ignore my principles/rules (respect my boundaries). My personal happiness and mental well being always comes first.
-- [Share more things about what I love rather than dislike/hate.](https://twitter.com/pbrian0206/status/1458972624047026177)
+- [Share things of what I love more than what I dislike/hate.](https://twitter.com/pbrian0206/status/1458972624047026177)
 
 ## Web
 

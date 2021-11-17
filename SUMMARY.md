@@ -742,6 +742,7 @@
   - [Dgraph](databases/dgraph.md)
   - [Cassandra](databases/cassandra.md)
   - [MariaDB](databases/mariadb.md)
+  - [PlanetScale](databases/planetscale.md)
   - [Blockchain](databases/blockchain/blockchain.md)
     - [Solana](databases/blockchain/solana.md)
     - [Ethereum](databases/blockchain/ethereum.md)

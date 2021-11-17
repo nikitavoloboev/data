@@ -94,3 +94,5 @@
 - [Raspberry Pi Zero 2 W (2021)](https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/) ([HN](https://news.ycombinator.com/item?id=29022955))
 - [First Impressions with the Raspberry Pi Zero 2 W (2021)](https://blog.alexellis.io/raspberry-pi-zero-2/) ([HN](https://news.ycombinator.com/item?id=29024702))
 - [Gilbraltar](https://github.com/dinosaure/gilbraltar) - MirageOS on RPi4.
+- [PiKISS For Raspberry Pi](https://github.com/jmcerrejon/PiKISS) - Bunch Of Scripts With Menu To Make Your Life Easier.
+- [I built a $5k Raspberry Pi server (yes, it's ridiculous) (2021)](https://www.jeffgeerling.com/blog/2021/i-built-5000-raspberry-pi-server-yes-its-ridiculous) ([HN](https://news.ycombinator.com/item?id=29253928))

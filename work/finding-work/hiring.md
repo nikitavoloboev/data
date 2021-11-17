@@ -28,6 +28,7 @@
 - [BeReal](https://www.notion.so/Join-us-d2c00d488ee944e8baab3e9365ee6c10)
 - [Aviasales](https://www.aviasales.ru/about/vacancies)
 - [Encore](https://jobs.encore.dev/)
+- [The Browser Company](https://thebrowser.company/careers/)
 
 ## Questions to ask
 
@@ -121,3 +122,4 @@
 - [Introduction to Work Sample Tests (2021)](https://jacobian.org/2021/nov/9/wst-intro/) - Hands-on, practical exercises.
 - [Ask HN: How much equity should an early employee get? (2021)](https://news.ycombinator.com/item?id=29222783)
 - [Karat](https://karat.com/) - The Interviewing Cloud | Accelerate technical hiring.
+- [Growing a Junior-Heavy Team (2021)](https://twitter.com/GergelyOrosz/status/1459183541682593794) ([Tweet](https://twitter.com/GergelyOrosz/status/1459183541682593794))

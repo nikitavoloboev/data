@@ -50,6 +50,7 @@ I publish most of my work and make it open source for other people to use and re
 - [gh pr checkout <pr-number> is great command to checkout PRs locally easily.](https://cli.github.com/manual/gh_pr_checkout)
 - [GitHub iOS app has dispatch workflow action shortcut](https://twitter.com/baevdm/status/1447967684814155779)
 - [gh command supports creating, listing, and SSHing into codespaces](https://twitter.com/nicknisi/status/1452830729793150987) ([Tweet](https://twitter.com/corywilkerson/status/1453072826718515202))
+- [Describe what your function should do in a comment before you implement the function & GitHubCopilot might just write the damn thing for you.](https://twitter.com/erikras/status/1460562819452129284)
 
 ## Code
 
@@ -303,3 +304,4 @@ Awesome List
 - [auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript.
 - [Archive of GitHub Trending](https://github.com/larsbijl/trending_archive)
 - [GitMan](https://github.com/fabiospampinato/gitman) - Simple yet powerful opinionated tool for managing GitHub repositories.
+- [Meet the Fans](https://github.com/evoluteur/meet-the-fans) - Query and Visualize the network graph of your GitHub repositories, followers, stargazers, and forks.

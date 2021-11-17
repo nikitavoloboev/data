@@ -9,6 +9,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [The problem is that money (paper money/currency) is not the only thing that has value which human beings transfer among each other. We share music, art, poetry, equity in companies, ideas, code, etc. What Ethereum does is take the idea of "Digital trustless money transfer" and expands it to "Digital trustless value transfer"](https://news.ycombinator.com/item?id=25264694)
 - [Let's say I own TSLA stock and I want to sell it to you. I can't, without going through a middle-person. I need to send my shares to a brokerage (they take cuts and fees and do insider trading crap that they disguise as legal) then you buy the shares from then. If it's mine, why can't I just transfer the shares straight to you for the listed price (Currently $567.60)? Because there is no platform digital trustless value transfer that will ensure that we both get what we want: Me getting the money, and you getting the shares.](https://news.ycombinator.com/item?id=25264694)
 - [Outside of actual layer2, Aurora is the best and most trustless bridge to Ethereum that I've seen to date.](https://twitter.com/evan_van_ness/status/1429924278632390656)
+- [Rollup is a network, that plugs in to layer 1 and pushes a cryptographic proof of all txs to the main chain every set interval. So one rollup tx contains thousands of txs on the rollup chain, anchoring proof into layer 1. Costs on a rollup are thus much cheaper.](https://www.reddit.com/r/ethereum/comments/qv2k1w/why_build_anything_on_ethereum_network/)
 
 ## Links
 
@@ -242,7 +243,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Mantis](https://github.com/input-output-hk/mantis) - Scala based client for Ethereum-like Blockchains.
 - [Awesome-Uniswap v3](https://github.com/GammaStrategies/awesome-uniswap-v3)
 - [StakeWise](https://stakewise.io/) - Ethereum Proof Of Stake Pool and Solo Staking. ([GitHub](https://github.com/stakewise))
-- [Polygon](https://polygon.technology/) - Ethereum's Internet of Blockchains. ([Go SDK](https://github.com/0xPolygon/polygon-sdk))
+- [Polygon](https://polygon.technology/) - Ethereum's Internet of Blockchains. ([Go SDK](https://github.com/0xPolygon/polygon-sdk)) ([Awesome](https://awesomepolygon.com/)) ([Explained](https://www.youtube.com/watch?v=IijtdpAtOt0))
 - [Connext](https://connext.network/) - Interoperability protocol for L2 Ethereum. ([GitHub](https://github.com/connext))
 - [simple-uniswap-sdk](https://github.com/uniswap-integration/simple-uniswap-sdk) - Uniswap SDK.
 - [Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts. ([Web](https://getwaffle.io/))
@@ -363,3 +364,12 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Qasr](https://github.com/mortimr/qasr) - ETH <=> Starknet NFT Bridge.
 - [evmdis](https://github.com/Arachnid/evmdis) - EVM disassembler.
 - [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/) - Geth, Truffle,Drizzle web3.js,ethers.js, smart contract patterns and solidity assembly. ([Code](https://github.com/GeorgeBrownCollege-Toronto/Advanced-Smart-Contracts))
+- [Cut Minting Gas Costs By Up To 70% With One Smart Contract Tweak (2021)](https://shiny.mirror.xyz/OUampBbIz9ebEicfGnQf5At_ReMHlZy0tB4glb9xQ0E)
+- [Solidity team AMAs](https://forum.soliditylang.org/t/solidity-team-ama-3-on-wed-17th-of-november-2021/627)
+- [EVM Bytecode Disassembler](https://github.com/0xalpharush/evm-disassembler) - Disassembler parses evm bytecode from the command line or from a file.
+- [L2Fees.info](https://l2fees.info/) - Ethereum Layer-1 is expensive. How much does it cost to use Layer-2?
+- [L2BEAT](https://l2beat.com/) - The state of the layer two ecosystem. ([Code](https://github.com/l2beat/l2beat))
+- [Layer 2 Rollups | Ethereum](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
+- [Guide: How to use Loopring L2 (2021)](https://medium.com/loopring-protocol/guide-how-to-use-loopring-l2-a267d005255b)
+- [StarkOps](https://github.com/seanjameshan/starkops) - StarkNet Toolchain CLI written in TypeScript.
+- [zkPorter offers 1-3 cent transaction fees, yet is magnitudes more secure and decentralized than any other L1 or sidechain ELI (2021)](https://twitter.com/0xangelfish/status/1460741464757919744)

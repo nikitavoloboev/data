@@ -265,3 +265,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [What's your favorite GC-based language? (2021)](https://twitter.com/sunshowers6/status/1457162357591838721)
 - [Selecting a programming language can be a form of premature optimization (2021)](https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/)
 - [Shawn Wang - Growing a Meta-Language (2021)](https://www.youtube.com/watch?v=Dz4q_bNDqfo)
+- [Kindly Bent to Free Us (2019)](https://arxiv.org/abs/1908.09681)

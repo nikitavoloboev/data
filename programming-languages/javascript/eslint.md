@@ -31,3 +31,4 @@
 - [eslint-plugin-arca](https://github.com/arcanis/eslint-plugin-arca) - Various ESLint rules tailored to the author's preferred style.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
 - [Canonical ESLint Config](https://github.com/gajus/eslint-config-canonical) - Most comprehensive ES code style guide.
+- [Airbnb's ESLint config with TypeScript support](https://github.com/iamturns/eslint-config-airbnb-typescript)

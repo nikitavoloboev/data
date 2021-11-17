@@ -150,3 +150,6 @@
 - [PacketFrame](https://github.com/packetframe/cdn) - Open Source CDN for authoritative DNS and HTTP caching. ([Web](https://packetframe.com/))
 - [How do you tell if a problem is caused by DNS? (2021)](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/) ([Lobsters](https://lobste.rs/s/qtsklv/how_do_you_tell_if_problem_is_caused_by_dns))
 - [DNS Comparison](https://dns-compare.vercel.app/) - Enter a domain to compare it on different DNS providers. ([Code](https://github.com/samrobbins85/dns-comparison))
+- [nip.io](https://nip.io/) - Wildcard DNS for any IP Address. ([Code](https://github.com/exentriquesolutions/nip.io))
+- [sslip.io](https://sslip.io/) - Go-based DNS server which maps DNS records with embedded IP addresses to those addresses. ([Code](https://github.com/cunnie/sslip.io))
+- [DNSControl](https://stackexchange.github.io/dnscontrol/) - Opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure. ([Code](https://github.com/StackExchange/dnscontrol))

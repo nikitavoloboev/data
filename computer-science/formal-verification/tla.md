@@ -1,5 +1,9 @@
 # [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
 
+## Notes
+
+- [Alloy is a better starting point to teach formal modelling than TLA+.](https://twitter.com/trupill/status/1460559265412825090)
+
 ## Links
 
 - [TLA+ Proof Manager](https://github.com/tlaplus/tlapm) - General-purpose formal specification language that is particularly useful for describing concurrent and distributed systems. ([Web](https://tla.msr-inria.inria.fr/tlaps/content/Home.html))

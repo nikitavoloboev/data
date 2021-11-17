@@ -102,7 +102,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [BlockAtlas](https://github.com/trustwallet/blockatlas) - Clean explorer API and transaction observer for cryptocurrencies.
 - [Rosetta](https://www.rosetta-api.org/) - Open standard designed to simplify blockchain deployment and interaction.
 - [Band Protocol](https://bandprotocol.com/) - Cross-Chain Data Oracle. ([Code](https://github.com/bandprotocol/bandchain))
-- [Tendermint Core](https://github.com/tendermint/tendermint) - Byzantine Fault Tolerant (BFT) middleware that takes a state transition machine - written in any programming language - and securely replicates it on many machines. ([Web](https://tendermint.com/))
+- [Tendermint Core](https://github.com/tendermint/tendermint) - Byzantine Fault Tolerant (BFT) middleware that takes a state transition machine - written in any programming language - and securely replicates it on many machines. ([Web](https://tendermint.com/)) ([Spec](https://github.com/tendermint/spec))
 - [tendermint.rs](https://github.com/informalsystems/tendermint-rs) - Tendermint in Rust with TLA+ specifications.
 - [Orga](https://github.com/nomic-io/orga) - Stack for building blockchain applications powered by Tendermint consensus.
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - Framework for building blockchain applications in Golang.
@@ -281,3 +281,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Scrypto](https://github.com/radixdlt/radixdlt-scrypto) - Language for building DeFi apps on Radix.
 - [NFT Canon](https://future.a16z.com/nft-canon/)
 - [CryptoJobList](https://cryptojobslist.com/) - The web's biggest list of Cryptocurrency Jobs and Blockchain Jobs.
+- [Issues with blockchain and NFTs (2021)](https://twitter.com/eevee/status/1460357576906850306?s=28)
+- [Rollups, data availability layers & modular blockchains: introductory meta post (2021)](https://polynya.medium.com/rollups-data-availability-layers-modular-blockchains-introductory-meta-post-5a1e7a60119d)
+- [Tendermint DB](https://github.com/tendermint/tm-db) - Common database interface for various database backends for Tendermint Core and Cosmos SDK.

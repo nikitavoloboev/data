@@ -76,3 +76,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [7 tools we built on Notion instead of buying (2021)](https://www.notion.so/blog/7-tools-we-built-on-notion)
 - [How I use Notion (2021)](https://reasonabledeviations.com/2021/09/18/how-i-use-notion/) ([HN](https://news.ycombinator.com/item?id=29195417))
 - [Stacks](https://stacks.super.site/) - Minimal, modular portfolio template for Notion & Super.
+- [AppFlowy](https://www.appflowy.io/) - Open-source Notion Alternative. ([Code](https://github.com/AppFlowy-IO/appflowy)) ([HN](https://news.ycombinator.com/item?id=29234805))

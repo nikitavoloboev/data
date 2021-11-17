@@ -275,3 +275,5 @@
 - [f-IRL: Inverse Reinforcement Learning via State Marginal Matching (2020)](https://arxiv.org/abs/2011.04709) ([Code](https://github.com/twni2016/f-IRL))
 - [TD3+BC](https://github.com/sfujim/TD3_BC) - Minimalist Approach to Offline Reinforcement Learning.
 - [Reinforcement Learning Course Materials](https://github.com/upb-lea/reinforcement_learning_course_materials)
+- [On the Expressivity of Markov Reward (2021)](https://arxiv.org/abs/2111.00876) ([Tweet](https://twitter.com/dabelcs/status/1460575866212212739))
+- [Isaac Gym Benchmark Environments](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) - Contains example RL environments for the NVIDIA Isaac Gym high performance environments.

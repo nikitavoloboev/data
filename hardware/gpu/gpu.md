@@ -70,3 +70,4 @@
 - [Implementing a GPU-driven debug line renderer (2021)](https://www.gijskaerts.com/wordpress/?p=190)
 - [Rendering on the Apple M1 Max Chip (2021)](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html) ([HN](https://news.ycombinator.com/item?id=28994800)) ([Reddit](https://www.reddit.com/r/apple/comments/qfogld/the_m1max_is_the_fastest_gpu_we_have_ever/)) ([Tweet](https://twitter.com/yiningkarlli/status/1452783165970386945))
 - [Ask HN: Will there ever be a vendor agnostic GPU interface? (2021)](https://news.ycombinator.com/item?id=29058681)
+- [NVIDIA Omniverse Platform](https://developer.nvidia.com/nvidia-omniverse-platform) - Scalable, multi-GPU real-time reference development platform for 3D simulation and design collaboration. ([GitHub](https://github.com/NVIDIA-Omniverse))

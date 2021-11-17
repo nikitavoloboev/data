@@ -98,3 +98,4 @@
 - [The Ruby Compiler Survey - Rubinius](https://ruby-compilers.com/rubinius/) - Metacircular implementation of Ruby. ([HN](https://news.ycombinator.com/item?id=29178232))
 - [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html) ([HN](https://news.ycombinator.com/item?id=29199810))
 - [Future of Ruby – AST Tooling (2019)](https://dev.to/baweaver/future-of-ruby-ast-tooling-9i1)
+- [Learning Ruby from a JavaScript background](https://github.com/gauthamchandra/learning-ruby-from-js)

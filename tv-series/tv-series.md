@@ -35,3 +35,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Посоветуйте сериал](https://twitter.com/ritafloresss/status/1444009985525092400)
 - [Dim](https://github.com/Dusk-Labs/dim) - Self hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 - [The 100 greatest TV series of the 21st Century (2021)](https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century)
+- [Netflix Top 10 Series - Global](https://top10.netflix.com/tv.html)

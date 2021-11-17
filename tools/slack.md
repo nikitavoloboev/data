@@ -39,3 +39,6 @@
 - [Slack Send GitHub Action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action.
 - [Slackboard](https://github.com/cubicdaiya/slackboard) - Proxy server for Slack.
 - [Allma](https://allma.io/) - Slack-native Incident Collaboration. ([Twitter](https://twitter.com/tryallma))
+- [Flexible automation for everyone | Slack](https://api.slack.com/future)
+- [Bolt Python](https://github.com/slackapi/bolt-python) - Framework to build Slack apps using Python.
+- [Getting started with our Slack beta platform](https://api.slack.com/future/get-started) ([HN](https://news.ycombinator.com/item?id=29254197))

@@ -61,6 +61,7 @@
 - [Piral](https://piral.io/) - Easily build a next generation portal application using microfrontends. ([Code](https://github.com/smapiot/piral))
 - [Qiankun](https://github.com/umijs/qiankun) - Implementation of Micro Frontends, which based on single-spa. It aims to make it easier and painless to build a production-ready microfront-end architecture system. ([Web](https://qiankun.umijs.org/))
 - [Deepkit](https://github.com/deepkit/deepkit-framework) - Full-featured and high-performance web framework for sophisticated web applications. ([Web](https://deepkit.io/))
+- [Drayman](https://github.com/Claviz/drayman) - Server-side component framework.
 
 ## Animation
 
@@ -661,6 +662,9 @@
 - [node-stdlib-browser](https://github.com/niksy/node-stdlib-browser) - Node standard library for browser.
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [cuid](https://github.com/ericelliott/cuid) - Collision-resistant ids optimized for horizontal scaling and performance.
+- [Spacing JS](https://github.com/stevenlei/spacingjs) - JavaScript utility for measuring the spacing between elements on webpage.
+- [co-share](https://github.com/cocoss-org/co-share) - JavaScript library for easily building shared applications such as chats and games. ([Tweet](https://twitter.com/BelaBohlender/status/1460563413327921156))
+- [bellboy](https://github.com/Claviz/bellboy) - Highly performant JavaScript data stream ETL engine.
 
 ## Links
 

@@ -73,3 +73,4 @@
 - [3DTilesViewer](https://github.com/ebeaufay/3DTilesViewer) - 3DTiles viewer for three.js.
 - [three-loader-3dtiles](https://github.com/nytimes/three-loader-3dtiles) - Three.js loader module for handling OGC 3D Tiles, created by Cesium.
 - [react-ogl](https://github.com/pmndrs/react-ogl) - Declaratively create scenes with re-usable OGL components that have their own state and effects and can tap into React's infinite ecosystem.
+- [three-vrm](https://github.com/pixiv/three-vrm) - Use VRM on Three.js.
