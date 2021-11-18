@@ -27,3 +27,4 @@
 - [Revolt](https://github.com/revoltphp/event-loop) - Rock-solid event loop for concurrent PHP applications.
 - [How PHP Opcache Works (2021)](https://www.npopov.com/2021/10/13/How-opcache-works.html) ([HN](https://news.ycombinator.com/item?id=28875791))
 - [The Road to PHP: Static Analysis](https://road-to-php.com/static)
+- [Yes, PHP Is Worth Learning/Using in $Current_year (2021)](https://bulletproofphp.dev/yes-php-is-worth-using) ([HN](https://news.ycombinator.com/item?id=29260242))

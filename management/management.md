@@ -164,3 +164,4 @@
 - [OKRs vs. KPIs: understanding measurements for your SaaS business](https://userpilot.com/blog/okrs-vs-kpis/) ([HN](https://news.ycombinator.com/item?id=29130039))
 - [Don’t be spooky](https://therealadam.com/2021/11/01/dont-be-spooky/) ([HN](https://news.ycombinator.com/item?id=29130590))
 - [OKRs masquerade as strategy (2021)](https://rogermartin.medium.com/stop-letting-okrs-masquerade-as-strategy-a57fc2cea915) ([HN](https://news.ycombinator.com/item?id=29231936)) ([Tweet](https://twitter.com/bernhardsson/status/1460358224075538432?s=28))
+- [Ask HN: What was your experience like moving from an IC to a manager role? (2021)](https://news.ycombinator.com/item?id=29256913)

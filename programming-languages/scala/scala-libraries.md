@@ -83,7 +83,7 @@
 - [scodec](https://github.com/scodec/scodec) - Scala combinator library for working with binary data.
 - [circe](https://github.com/circe/circe) - JSON library for Scala.
 - [Ciris](https://github.com/vlovgr/ciris) - Functional Configurations for Scala.
-- [ScalaPy](https://github.com/shadaj/scalapy) - Allows you to use any Python library from your Scala code with an intuitive API.
+- [ScalaPy](https://github.com/shadaj/scalapy) - Allows you to use any Python library from your Scala code with an intuitive API. ([Data Science in Scala with ScalaPy - Shadaj Laddad](https://www.youtube.com/watch?v=vFUsEg-hni0))
 - [Treadle](https://github.com/freechipsproject/treadle) - Experimental circuit simulator that executes low Firrtl IR.
 - [graalnative4s](https://github.com/usommerl/graalnative4s) - Employ Scala for serverless applications.
 - [Cats Effect](https://github.com/typelevel/cats-effect) - Purely functional runtime system for Scala.

@@ -556,3 +556,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [My Hacker News knowledge assimilation stack (2021)](https://abishekmuthian.com/my-hacker-news-knowledge-assimilation-stack/) ([HN](https://news.ycombinator.com/item?id=29217485))
 - [The Orwell Foundation](https://www.orwellfoundation.com/)
 - [Любимые цветы](https://twitter.com/elisavetaaaaaaa/status/1460637107790266378)
+- [Slant](https://www.slant.co/) - Product recommendation community. ([Discord](https://discord.com/invite/0dNv9Dc5KvI2cY54))

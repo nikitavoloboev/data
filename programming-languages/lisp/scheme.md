@@ -59,3 +59,4 @@
 - [Scheme-to-C](https://github.com/akeep/scheme-to-c) - Tiny nanopass compiler for compiling a small subset of Scheme to C.
 - [Scheme-to-LLVM](https://github.com/akeep/scheme-to-llvm)
 - [Normalization-by-evaluation in miniKanren](https://github.com/webyrd/normalization-by-evaluation)
+- [schemeCompiler](https://github.com/mhuesch/schemeCompiler) - Compiler for a subset of Scheme in Haskell.

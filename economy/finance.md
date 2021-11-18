@@ -140,3 +140,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Wise](https://wise.com/) - Online Money Transfers | International Banking Features.
 - [An Introduction to Machine Learning in Quantitative Finance](https://github.com/deepintomlf/mlfbook)
 - [Modern Treasury](https://www.moderntreasury.com/) - Makes payment operations simple, scalable and secure.
+- [Ucelofka](https://github.com/shenek/ucelofka) - Simple program to issue invoices (CLI/Web).

@@ -161,3 +161,6 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Anatoly Yakovenko Reflects on Solana’s Breakout Year (2021)](https://cryptobriefing.com/anatoly-yakovenko-reflects-solanas-breakout-year/) ([Tweet](https://twitter.com/dreamsofdefi/status/1460637884248215555))
 - [Virtual Machines: Interoperability and Maximalism (2021)](https://www.youtube.com/watch?v=JPIBBhtkZBE)
 - [solana/solidity](https://github.com/solana-labs/solana-solidity.js) - Compile, deploy, and use Solidity contracts on Solana. ([Tweet](https://twitter.com/aeyakovenko/status/1460981759378477057))
+- [Key learnings from Solana dev (2021)](https://twitter.com/pirosb3/status/1460679770396520448)
+- [Using PDAs and SPL Token in Anchor (2021)](https://medium.com/@pirosb3/using-pdas-and-spl-token-in-anchor-and-solana-df05c57ccd04) ([Code](https://github.com/PirosB3/SafePaySolana))
+- [Resources for learning Solana (2021)](https://twitter.com/pencilflip/status/1451949960065335302)

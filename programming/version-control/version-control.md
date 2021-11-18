@@ -30,3 +30,5 @@
 - [Sturdy](https://getsturdy.com/) - Online-first version control focused on collaboration. ([HN](https://news.ycombinator.com/item?id=28221109))
 - [Version Control for Structure Editing (2021)](https://alarmingdevelopment.org/?p=1570)
 - [BlackBox](https://github.com/StackExchange/blackbox) - Store secrets in a VCS repo.
+- [Stacked changes: how FB and Google engineers stay unblocked and ship faster (2021)](https://graphite.dev/blog/post/DThX8ffP1gmxWJChEv0y) ([HN](https://news.ycombinator.com/item?id=29255195))
+- [Graphite](https://graphite.dev/) - Fast, simple code review.

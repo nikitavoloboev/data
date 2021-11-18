@@ -615,3 +615,7 @@ if err != nil {
 - [A rough proposal for sum types in Go (2018)](https://manishearth.github.io/blog/2018/02/01/a-rough-proposal-for-sum-types-in-go/) ([HN](https://news.ycombinator.com/item?id=29230537))
 - [Contributing the Go Compiler: Adding New Tilde (~) Operator (2021)](https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7) ([Lobsters](https://lobste.rs/s/jqjsdw/contributing_go_compiler_adding_new))
 - [Improving the code from the official Go RESTful API tutorial (2021)](https://benhoyt.com/writings/web-service-stdlib/) ([Lobsters](https://lobste.rs/s/9fjnrw/improving_code_from_official_go_restful))
+- [Go Pattern: Scoped HTTP Handlers (2021)](https://adnaan.badr.in/blog/2021/02/19/go-pattern-scoped-http-handlers/)
+- [GOMODEST](https://github.com/adnaan/gomodest-starter) - Complex SAAS starter kit using Go, the HTML/template package, and sprinkles of JS. ([Article](https://adnaan.badr.in/blog/2020/12/24/go-modest/)) ([Template](https://github.com/adnaan/gomodest-template))
+- [Berkeley Packet Filter in Go (2021)](https://riyazali.net/posts/berkeley-packet-filter-in-golang/)
+- [Using interfaces in Go (2021)](https://riyazali.net/posts/using-interfaces-in-go/)

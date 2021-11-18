@@ -93,3 +93,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Mmark](https://github.com/mmarkdown/mmark) - Powerful markdown processor written in Go, geared towards writing IETF documents.
 - [RunMD](https://github.com/broofa/runmd) - Executable markdown files.
 - [Prose](https://github.com/HGHimself/prose) - Turning your markdown into lovely HTML.
+- [markdown-clj](https://github.com/yogthos/markdown-clj) - Markdown parser in Clojure. ([Making markdown-clj babashka-compatible](https://blog.michielborkent.nl/markdown-clj-babashka-compatible.html))

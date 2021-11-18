@@ -110,3 +110,4 @@
 - [Plunder](https://github.com/plunder-app/plunder) - Single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier.
 - [Equinix Metal Images](https://github.com/packethost/packet-images)
 - [Cloud Droid](https://github.com/cloud-sniper/cloud-droid) - Cloud Incident and Response Simulations.
+- [The Reports of Devops's death are greatly exaggerated (2021)](https://adnaan.badr.in/blog/2021/01/25/the-reports-of-devopss-death-are-greatly-exaggerated/)

@@ -214,3 +214,4 @@
 - [I Tried Creating a Game Using Real-world Geographic Data (2021)](https://www.youtube.com/watch?v=sLqXFF8mlEU&t=2s)
 - [Ask HN: How were video games from the 90s so efficient? (2021)](https://news.ycombinator.com/item?id=29127098)
 - [SLADE3](https://github.com/sirjuddington/SLADE) - Modern editor for Doom-engine based games and source ports.
+- [Where to start to become a game designer? (2021)](https://www.reddit.com/r/gamedev/comments/qvpobx/where_to_start_to_become_a_game_designer/)

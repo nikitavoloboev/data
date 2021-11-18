@@ -148,3 +148,4 @@
 - [lockc](https://github.com/rancher-sandbox/lockc) - Making containers more secure with eBPF and Linux Security Modules (LSM).
 - [squish](https://github.com/queer/squish) - Experimental, rootless, Alpine-based container runtime.
 - [Scaling containers in AWS (2021)](https://www.vladionescu.me/posts/scaling-containers-in-aws/)
+- [Reasons to choose VMs over containers? (2021)](https://www.reddit.com/r/devops/comments/qvzrkm/are_there_any_reasons_to_choose_vms_over/)

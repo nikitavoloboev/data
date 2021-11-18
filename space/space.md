@@ -125,3 +125,4 @@
 - [The Milky Way according to Anton Pannekoek](https://publicdomainreview.org/essay/marxist-astronomy-the-milky-way-according-to-anton-pannekoek)
 - [Ad Astra: The coming battle over space (2021)](https://harpers.org/archive/2021/11/ad-astra-the-coming-battle-over-space/) ([HN](https://news.ycombinator.com/item?id=29045286))
 - [Astrophysicists unveil glut of gravitational-wave detections (2021)](https://www.nature.com/articles/d41586-021-03089-y) ([HN](https://news.ycombinator.com/item?id=29175256))
+- [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) ([Code](https://github.com/datacarpentry/astronomy-python))

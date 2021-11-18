@@ -134,3 +134,4 @@
 - [Image File Formats That Didn’t Make It (2021)](https://tedium.co/2021/11/10/10-forgotten-image-formats/) ([HN](https://news.ycombinator.com/item?id=29175656))
 - [Imagetools](https://github.com/JonasKruckenberg/imagetools) - Toolbox of easy-to-use import directives that transform and optimize your images at compile-time.
 - [Why Your Website Should Not Use Dithered Images (2021)](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
+- [Digital Image Processing, 4th Edition Book (2018)](https://www.pearson.com/us/higher-education/program/Gonzalez-Digital-Image-Processing-4th-Edition/PGM241219.html) ([Python Code](https://github.com/merveenoyan/Digital_Image_Processing_Python))

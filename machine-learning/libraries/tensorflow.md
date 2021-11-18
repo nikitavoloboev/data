@@ -95,3 +95,4 @@
 - [Scaling TensorFlow to 300 million predictions per second (2021)](https://arxiv.org/abs/2109.09541)
 - [TypedFlow](https://github.com/GU-CLASP/TypedFlow) - Typed, higher-order frontend to TensorFlow and a high-level library for deep-learning.
 - [TensorFlow RiemOpt](https://github.com/master/tensorflow-riemopt) - Library for manifold-constrained optimization in TensorFlow.
+- [TensorFlow aarch64](https://github.com/KumaTea/tensorflow-aarch64) - TensorFlow wheels (whl) for aarch64 / ARMv8 / ARM64.

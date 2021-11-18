@@ -177,6 +177,7 @@
 - [pytest-instafail](https://github.com/pytest-dev/pytest-instafail) - Plugin for pytest that shows failures and errors instantly instead of waiting until the end of test session.
 - [pytest-mock](https://github.com/pytest-dev/pytest-mock) - Thin-wrapper around the mock package for easier use with pytest.
 - [Responses](https://github.com/getsentry/responses) - Utility for mocking out the Python Requests library.
+- [pytest-timeout](https://github.com/pytest-dev/pytest-timeout) - Time each test and terminate it when it takes too long.
 
 ## Other
 

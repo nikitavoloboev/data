@@ -23,10 +23,11 @@
 - [Citizen DAO](https://citizendao.com/) - Crypto Community for Social Impact Projects.
 - [Diamond DAO](https://www.diamonddao.xyz/) - Home for DAO data nerds.
 - [DAO community treasuries are being criminally underused](https://twitter.com/AntonioMJuliano/status/1458844848560087070)
-- [ConstitutionDAO](https://www.constitutiondao.com/) - Put The US Constitution in the hands of The People. ([Twitter](https://twitter.com/ConstitutionDAO)) ([Code](https://github.com/Constitution-DAO/contracts)) ([Tweet](https://twitter.com/nateliason/status/1461002096279535617))
+- [ConstitutionDAO](https://www.constitutiondao.com/) - Put The US Constitution in the hands of The People. ([Twitter](https://twitter.com/ConstitutionDAO)) ([Code](https://github.com/Constitution-DAO/contracts)) ([Tweet](https://twitter.com/nateliason/status/1461002096279535617)) ([HN](https://news.ycombinator.com/item?id=29258195))
 - [Liquidity miners: hands of 💎 or 🧻? (2021)](https://mirror.xyz/0x7B542178633f16940a131F8F6d670ffdbBe6b2Ab/HoTLzeiTUBn7c-uZoVcZ6PO9AlGrVQI_4WYDSeJFTiA) ([Tweet](https://twitter.com/alex_kroeger/status/1460053068460924930))
 - [H=N creates DAO to manage the website by community (2021)](https://twitter.com/jongold/status/1459991195128504320)
 - [Wikipedia was, in some ways, the first Media DAO](https://twitter.com/chaserchapman/status/1459281794302451715)
 - [Tools for contributing/building DAOs (2021)](https://twitter.com/alexdphan/status/1459219461852991488)
 - [“Let's Run The Experiment”: about DAOs and the future of organizations online (2021)](https://adjacentpossible.substack.com/p/lets-run-the-experiment-a-conversation) ([HN](https://news.ycombinator.com/item?id=29229834))
 - [Let's Buy the US Constitution (2021)](https://www.notboring.co/p/lets-buy-the-us-constitution)
+- [Breakpoint 2021: DAO or Die](https://www.youtube.com/watch?v=EQs1okZjO54)

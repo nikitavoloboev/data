@@ -35,3 +35,4 @@
 - [2021 Dask User Survey](https://blog.dask.org/2021/09/15/user-survey)
 - [Dask Working Notes](https://blog.dask.org/)
 - [Choosing good chunk sizes in Dask (2021)](https://blog.dask.org/2021/11/02/choosing-dask-chunk-sizes)
+- [HN: Dask (2021)](https://news.ycombinator.com/item?id=29260492)

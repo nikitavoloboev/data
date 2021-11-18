@@ -161,3 +161,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Hugin](https://github.com/kradalby/hugin) - Front-end for image galleries generated with Munin.
 - [GoGallery](https://github.com/robrotheram/gogallery) - Simple gallery server in go.
 - [Bringing Color and Life to Black and White Photos (2021)](https://blog.skz.dev/bringing-colour-and-life-to-black-and-white-photos)
+- [The features that more cameras should have (2021)](https://photographylife.com/features-more-cameras-need) ([HN](https://news.ycombinator.com/item?id=29257334))

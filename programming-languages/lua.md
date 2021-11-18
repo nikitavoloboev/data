@@ -80,3 +80,4 @@
 - [Lua Filters](https://github.com/pandoc/lua-filters) - Collection of lua filters for pandoc.
 - [StackTracePlus](https://github.com/ignacio/StackTracePlus) - Provides enhanced stack traces for Lua.
 - [Teliva](https://github.com/akkartik/teliva) - Fork of Lua 5.1 to encourage end-user programming. ([HN](https://news.ycombinator.com/item?id=29231563))
+- [checks](https://github.com/fab13n/checks) - Runtime argument type checking API for Lua.

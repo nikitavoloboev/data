@@ -284,3 +284,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Issues with blockchain and NFTs (2021)](https://twitter.com/eevee/status/1460357576906850306?s=28)
 - [Rollups, data availability layers & modular blockchains: introductory meta post (2021)](https://polynya.medium.com/rollups-data-availability-layers-modular-blockchains-introductory-meta-post-5a1e7a60119d)
 - [Tendermint DB](https://github.com/tendermint/tm-db) - Common database interface for various database backends for Tendermint Core and Cosmos SDK.
+- [Transfer Layer: Scalability and Cross Chain Bridges (2021)](https://www.youtube.com/watch?v=YH0FvcHdLX8)

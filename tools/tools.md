@@ -281,6 +281,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [IMGZ](https://imgz.org/) - IMGZ – Paid image sharing. ([HN](https://news.ycombinator.com/item?id=28676468))
 - [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.
 - [Wix.com](https://www.wix.com/) - Free Website Builder.
+- [CryptPad](https://cryptpad.fr/) - Collaboration suite, encrypted and open-source. ([Code](https://github.com/xwiki-labs/cryptpad))
 - [Smallpdf](https://smallpdf.com/) - All-in-one easy-to-use online PDF tools
 - [Diffchecker](https://www.diffchecker.com/) - Compare text differences between two text files.
 - [Reform](https://www.reform.app/) - Hosted forms. No code required. ([Launch Article](https://www.reform.app/launch/)) ([Twitter](https://twitter.com/heyreform))
@@ -612,3 +613,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Dev Resources](https://devresourc.es/) - Collaborative list of resources for developers. ([Code](https://github.com/marcelscruz/dev-resources))
 - [Ask HN: What do you think about the no-code movement? (2021)](https://news.ycombinator.com/item?id=29188355)
 - [Dream productivity stack tools (2021)](https://twitter.com/ashleymayer/status/1460312782646104067)
+- [Low-Code and the Democratization of Programming (2021)](https://www.oreilly.com/radar/low-code-and-the-democratization-of-programming/) ([HN](https://news.ycombinator.com/item?id=29240702))

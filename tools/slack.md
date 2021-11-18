@@ -42,3 +42,4 @@
 - [Flexible automation for everyone | Slack](https://api.slack.com/future)
 - [Bolt Python](https://github.com/slackapi/bolt-python) - Framework to build Slack apps using Python.
 - [Getting started with our Slack beta platform](https://api.slack.com/future/get-started) ([HN](https://news.ycombinator.com/item?id=29254197))
+- [Slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack. ([Web](http://slackcat.chat/))

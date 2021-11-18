@@ -69,3 +69,4 @@
 - [DynamoDB Examples](https://github.com/aws-samples/aws-dynamodb-examples)
 - [DonutDB](https://github.com/psanford/donutdb) - SQL database implemented on DynamoDB and SQLite.
 - [DynamoDB Lock Client for Go](https://github.com/cirello-io/dynamolock)
+- [DynamoDB Foreign Data Wrapper for PostgreSQL](https://github.com/pgspider/dynamodb_fdw)

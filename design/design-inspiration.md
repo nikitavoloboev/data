@@ -258,6 +258,7 @@ Here are few more things I liked, design wise.
 - [Hansen Zhang](https://hansenzhang.com/)
 - [Nicholas Jitkoff](https://nicholas.jitkoff.com/)
 - [Roxane Jammet](http://roxane.me/)
+- [Daniel Pyrathon](https://pirosb3.io/)
 - [Rob Hope](https://robhope.com/)
 - [Andy Sparks](https://www.andysparks.co/)
 - [Andrea Limjoco](http://andrealimjo.co/)

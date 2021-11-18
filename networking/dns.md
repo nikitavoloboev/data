@@ -153,3 +153,4 @@
 - [nip.io](https://nip.io/) - Wildcard DNS for any IP Address. ([Code](https://github.com/exentriquesolutions/nip.io))
 - [sslip.io](https://sslip.io/) - Go-based DNS server which maps DNS records with embedded IP addresses to those addresses. ([Code](https://github.com/cunnie/sslip.io))
 - [DNSControl](https://stackexchange.github.io/dnscontrol/) - Opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure. ([Code](https://github.com/StackExchange/dnscontrol))
+- [Minica](https://github.com/jsha/minica) - Small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.

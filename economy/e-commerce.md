@@ -16,7 +16,7 @@
 - [The Anti-Amazon Alliance (2020)](https://stratechery.com/2020/the-anti-amazon-alliance/) ([HN](https://news.ycombinator.com/item?id=23007365))
 - [Thoughts on Ecommerce: The Status Quo (2020)](https://julian.digital/2020/05/17/thoughts-on-ecommerce-the-status-quo-shopify-shop-amazon/) ([HN](https://news.ycombinator.com/item?id=23238347))
 - [GoCommerce](https://github.com/netlify/gocommerce) - Small go based API for static e-commerce sites.
-- [Saleor Commerce](https://saleor.io/) - Modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React. ([Code](https://github.com/saleor/saleor)) ([Twitter](https://twitter.com/getsaleor))
+- [Saleor Commerce](https://saleor.io/) - Modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React. ([Code](https://github.com/saleor/saleor)) ([Twitter](https://twitter.com/getsaleor)) ([GitHub](https://github.com/saleor))
 - [Amplemarket](https://amplemarket.com/) - Next Generation Sales Intelligence.
 - [Faire](https://www.faire.com/) - Online Wholesale Marketplace & Store.
 - [JAMstack ECommerce Professional](https://github.com/jamstack-cms/jamstack-ecommerce) - Provides a way to quickly get up and running with a fully configurable JAMstack E Commerce site.
@@ -120,3 +120,4 @@
 - [Container Logistics (2021)](https://www.lesswrong.com/posts/PHmYhE4sKnwzYgvkh/a-brief-introduction-to-container-logistics) ([HN](https://news.ycombinator.com/item?id=29205160))
 - [Govalo](https://govalo.com/) - Reinventing the digital gifting experience. ([Twitter](https://twitter.com/fromgovalo))
 - [Shopify App Store](https://apps.shopify.com/) - Ecommerce App Marketplace.
+- [React Storefront](https://github.com/saleor/react-storefront) - Open-source storefront in React.js with Next.js. Built for Headless Commerce.

@@ -54,7 +54,7 @@ And here are Chrome extensions I use:
 - [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome) - High-level API to control headless Chrome or Chromium over the DevTools Protocol.
 - [Chromium spelling and grammar features (2021)](https://www.azabani.com/2021/05/17/spelling-grammar.html)
 - [Chrome Extensions samples](https://github.com/GoogleChrome/chrome-extensions-samples)
-- [Browserflow](https://browserflow.app/) - Automate the boring stuff with Chrome extension.
+- [Browserflow](https://browserflow.app/) - Automate the boring stuff with Chrome extension. ([HN](https://news.ycombinator.com/item?id=29254147))
 - [Introducing chrome.scripting (2021)](https://developer.chrome.com/blog/crx-scripting-api/) ([HN](https://news.ycombinator.com/item?id=27441898)) ([Lobsters](https://lobste.rs/s/tfa1lp/introducing_chrome_scripting))
 - [Chrome Developers](https://developer.chrome.com/) - Resource for developers of all backgrounds to learn about what's new in Chrome. ([Code](https://github.com/GoogleChrome/developer.chrome.com))
 - [How the new rendering engine on Chrome works (2021)](https://developer.chrome.com/blog/renderingng/)

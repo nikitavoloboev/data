@@ -174,3 +174,4 @@
 - [Macrobrew: Clojure macros distilled (2021)](https://www.abhinavomprakash.com/posts/macrobrew/)
 - [Clojure Tutorial for Beginners (2021)](https://www.abhinavomprakash.com/posts/clojure-tutorial-for-beginners-1/)
 - [logically](https://github.com/namin/logically) - Explorations of logic programming in Clojure's core.logic.
+- [Why Clojure (Lisp) is good for writing transpilers (2020)](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/)

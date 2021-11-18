@@ -135,3 +135,4 @@
 - [How to use story telling to get funding (2021)](https://twitter.com/justinkan/status/1450942285995151360)
 - [Grants/funding sources for individuals (2021)](https://twitter.com/mollyfmielke/status/1455888525950218242)
 - [Juicebox](https://juicebox.money/#/) - Community funding for people and projects.
+- [A pitch that is music to the ears](https://www.erwanderlyn.com/p/startup-pitch-deck) ([HN](https://news.ycombinator.com/item?id=29244964))

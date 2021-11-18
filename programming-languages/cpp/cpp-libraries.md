@@ -284,6 +284,7 @@
 - [Sexpresso](https://github.com/BitPuffin/sexpresso) - C++ centric s-expression parser library.
 - [baidu-allreduce](https://github.com/baidu-research/baidu-allreduce) - Small C++ library, demonstrating the ring allreduce and ring allgather techniques.
 - [HIP](https://github.com/ROCm-Developer-Tools/HIP) - C++ Heterogeneous-Compute Interface for Portability.
+- [SMACC](https://github.com/reelrbtx/SMACC) - Event-driven, asynchronous, behavioral state machine library for real-time ROS (Robotic Operating System) applications written in C++.
 
 ## Links
 

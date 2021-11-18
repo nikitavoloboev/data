@@ -439,3 +439,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git techniques (2021)](https://riskledger.com/blog/git-basics-at-risk-ledger/) ([HN](https://news.ycombinator.com/item?id=29162234))
 - [Make your monorepo feel small with Git’s sparse index (2021)](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
 - [Git as a source of truth for network automation (2021)](https://vincent.bernat.ch/en/blog/2021-source-of-truth-network)
+- [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
+- [ChangeSets – group PRs across multiple Git repos (2021)](https://blog.mergequeue.com/changesets-coordinate-code-changes-across-multiple-repositories/) ([HN](https://news.ycombinator.com/item?id=29256878))

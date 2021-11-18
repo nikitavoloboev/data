@@ -37,3 +37,5 @@
 - [carvel-imgpkg](https://github.com/vmware-tanzu/carvel-imgpkg) - Store application configuration files in Docker/OCI registries.
 - [YAML: It's Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml) ([HN](https://news.ycombinator.com/item?id=29220320))
 - [The Perfect Configuration Format? Try TypeScript](https://reflect.run/articles/typescript-the-perfect-file-format/) ([HN](https://news.ycombinator.com/item?id=29254679))
+- [jk](https://github.com/jkcfg/jk) - Configuration as Code with ECMAScript. ([Web](https://jkcfg.github.io/#/))
+- [dxcfg](https://github.com/dxcfg/dxcfg) - Configuration as code tooling for the masses. Opinionated port of jkcfg API to deno.

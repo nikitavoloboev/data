@@ -54,3 +54,4 @@
 - [Nuance](https://github.com/Gui-Yom/nuance) - Tool to run your shaders on the gpu. Also a good demo application for wgpu-rs.
 - [Unified Shader Programming in C++ (2021)](https://arxiv.org/abs/2109.14682) ([HN](https://news.ycombinator.com/item?id=28738750))
 - [Shader playground](https://github.com/gtibo/Shader-playground) - Uses VisualShader of Godot.
+- [Prefix sum on portable compute shaders (2021)](https://raphlinus.github.io/gpu/2021/11/17/prefix-sum-portable.html) ([HN](https://news.ycombinator.com/item?id=29254668))

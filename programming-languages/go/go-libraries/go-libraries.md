@@ -88,6 +88,7 @@
 - [testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, mocking, input testing, output capturing, and much more.
 - [Testify](https://github.com/stretchr/testify) - Toolkit with common assertions and mocks that plays nicely with the standard library.
 - [testify-rules](https://github.com/tdakkota/testify-rules) - Ruleguard ruleset bundle for testify.
+- [httpx](https://github.com/riyaz-ali/httpx) - Simple and expressive HTTP testing framework.
 
 ## Web
 
@@ -1080,6 +1081,7 @@
 - [pkg](https://github.com/go-playground/pkg) - Extends the core Go packages with missing or additional functionality built in.
 - [mod](https://github.com/golang/mod) - Go module mechanics libraries.
 - [IAVL](https://github.com/cosmos/iavl) - Merkleized IAVL+ Tree implementation in Go.
+- [Pipeline](https://github.com/myntra/pipeline) - Package to build multi-staged concurrent workflows with a centralized logging output.
 
 ## Links
 

@@ -125,3 +125,4 @@
 - [cloudscraper](https://github.com/VeNoMouS/cloudscraper) - Python module to bypass Cloudflare's anti-bot page.
 - [Papercut](https://github.com/armand1m/papercut) - Scraping/crawling library for Node.js, written in Typescript.
 - [Marple](https://github.com/soxoj/marple) - Collect links to profiles by username through search engines.
+- [Web Scraping with Go (2021)](https://www.scrapingbee.com/blog/web-scraping-go/) ([Reddit](https://www.reddit.com/r/golang/comments/qw0io1/web_scraping_with_go/))

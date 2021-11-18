@@ -150,6 +150,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot.
 - [harpoon](https://github.com/ThePrimeagen/harpoon) - Get you where you want with the fewest keystrokes.
 - [ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8.
+- [mini.nvim](https://github.com/echasnovski/mini.nvim) - Collection of minimal, independent, and fast Lua modules dedicated to improve Neovim.
 
 ## Looks
 

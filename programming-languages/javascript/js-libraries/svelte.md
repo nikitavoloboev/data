@@ -2,6 +2,7 @@
 
 ## Example sites
 
+- [Svelte with Cloudflare Workers](https://github.com/lukeed/pages-fullstack)
 - [Elianiva](https://elianiva.me/) ([Code](https://github.com/elianiva/elianiva.me))
 - [SvelteKit RealWorld App](https://github.com/sveltejs/realworld)
 

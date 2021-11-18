@@ -91,6 +91,7 @@
 - [Capsule](https://github.com/capsule-rs/capsule) - Framework for network function development.
 - [webview2](https://github.com/sopium/webview2) - Rust bindings for WebView2.
 - [lol-async](https://github.com/jbr/lol-async) - Provides an awkward async interface for cloudflare/lol-html.
+- [Reqwasm](https://github.com/hamza1311/reqwasm) - HTTP requests library for WASM Apps.
 
 ## WASM
 
@@ -1141,6 +1142,8 @@
 - [resize](https://github.com/PistonDevelopers/resize) - Image resampling library in pure Rust.
 - [backtrace-rs](https://github.com/rust-lang/backtrace-rs) - Library for acquiring backtraces at runtime for Rust.
 - [lrpeg](https://github.com/seanyoung/lrpeg) - Left Recursive PEG for rust. ([Article](https://www.mess.org/2021/03/26/Left-Recursive-PEG-Parser-Generator/))
+- [dynstack](https://github.com/archshift/dynstack) - Stack for rust trait objects that minimizes allocations.
+- [Streamson](https://github.com/shenek/streamson) - Memory efficient handling of large JSON data.
 
 ## Cargo Plugins
 

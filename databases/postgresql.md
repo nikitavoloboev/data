@@ -361,3 +361,4 @@
 - [PostgreSQL Tutorials - YouTube](https://www.youtube.com/playlist?list=PLdTaEgcmPg9KiTCPWh-K961tiZrvhgfFu)
 - [Fun with PostGIS: Mandelbrot set, game of life, and more (2021)](https://blog.jooq.org/fun-with-postgis-mandelbrot-set-game-of-life-and-more/)
 - [Cloudflare Workers + PostgreSQL Template](https://github.com/cloudflare/worker-template-postgres)
+- [Ephemeral Postgres Databases](https://eradman.com/posts/ephemeral-databases.html) ([HN](https://news.ycombinator.com/item?id=29248299))

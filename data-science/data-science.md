@@ -148,7 +148,7 @@
 - [5th International Summer School on Data Science (2020)](https://sites.google.com/view/ssdatascience2020) ([Code](https://github.com/SSDS-Croatia/SSDS-2020))
 - [Scalable Data Science](https://lamastex.github.io/scalable-data-science/) - Course sets in big data Using Apache Spark over databricks and their mathematical, statistical and computational foundations using SageMath. ([Code](https://github.com/lamastex/scalable-data-science))
 - [Datatap](https://datatap.dev/) - Free user-friendly platform for visual data management. ([Code](https://github.com/zensors/datatap-python))
-- [Data Carpentry](https://datacarpentry.org/) - Develops and teaches workshops on the fundamental data skills needed to conduct research.
+- [Data Carpentry](https://datacarpentry.org/) - Develops and teaches workshops on the fundamental data skills needed to conduct research. ([GitHub](https://github.com/datacarpentry))
 - [Data Carpentry Lessons](https://datacarpentry.org/lessons/)
 - [Doing Symbolic Math with SymPy (2020)](https://lwn.net/Articles/840986/) ([HN](https://news.ycombinator.com/item?id=25683420))
 - [How To Become a Data Engineer (2021)](https://khashtamov.com/en/how-to-become-a-data-engineer/) ([HN](https://news.ycombinator.com/item?id=25728198))

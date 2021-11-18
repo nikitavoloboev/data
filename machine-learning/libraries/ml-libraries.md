@@ -225,3 +225,4 @@
 - [BlobCity AutoAI](https://github.com/blobcity/autoai) - Framework to find the best performing AI/ML model for any AI problem.
 - [PyPAL](https://github.com/kjappelbaum/pyepal) - Multiobjective active learning with tunable accuracy/efficiency tradeoff and clear stopping criterion.
 - [RecList](https://github.com/jacopotagliabue/reclist) - Behavioral "black-box" testing for recommender systems.
+- [dcbench](https://github.com/data-centric-ai/dcbench) - Benchmark of data-centric tasks from across the machine learning lifecycle.

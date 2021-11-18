@@ -54,3 +54,4 @@
 - [My Logging Best Practices (2020)](https://tuhrig.de/my-logging-best-practices/) ([HN](https://news.ycombinator.com/item?id=28759492))
 - [Uptrace](https://uptrace.dev/) - Cost-effective tracing solution that helps you monitor, understand, and optimize complex distributed systems.
 - [Logs and tracing: not just for production, local development too (2021)](https://incident.io/blog/tracing) ([HN](https://news.ycombinator.com/item?id=29187250))
+- [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems.
