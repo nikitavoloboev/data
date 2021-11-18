@@ -451,3 +451,4 @@
 - [Awesome Vision Attention Papers](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)
 - [FastFlowNet: A Lightweight Network for Fast Optical Flow Estimation (2021)](https://arxiv.org/abs/2103.04524) ([Code](https://github.com/ltkong218/FastFlowNet))
 - [RenderNet: A deep convolutional network for differentiable rendering from 3D shapes (2018)](https://www.monkeyoverflow.com/#/rendernet-a-cnn-for-differentiable-rendering-from-3d-shapes/) ([Code](https://github.com/thunguyenphuoc/RenderNet))
+- [Masked Autoencoders Are Scalable Vision Learners (2021)](https://arxiv.org/abs/2111.06377) ([Code](https://github.com/pengzhiliang/MAE-pytorch))
