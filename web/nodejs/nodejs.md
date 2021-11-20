@@ -281,3 +281,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Easily build NodeJS projects inside a docker container](https://gist.github.com/rain-1/2f5551e34f32b1ef3cd58d01478a4916) ([Lobsters](https://lobste.rs/s/cwhckf/easily_build_nodejs_projects_inside))
 - [Agenda](https://github.com/agenda/agenda) - Light-weight job scheduling library for Node.js.
 - [synchronous-worker](https://github.com/addaleax/synchronous-worker) - Run Node.js APIs synchronously.
+- [Base](https://github.com/base/base) - Foundation for creating modular, unit testable and highly pluggable, server-side node.js applications.
