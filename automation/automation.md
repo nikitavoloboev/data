@@ -4,6 +4,7 @@
 
 - One important thing to remember is that when people talk about technology replacing jobs, it's easy to imagine exactly one robot being brought in to completely replace exactly one human worker, and that isn't really how it works.
 - [Don't spend 3 days automating something you can manually do in 20 min.](https://www.reddit.com/r/bioinformatics/comments/n2fwz4/what_is_something_that_you_realized_that_entirely/)
+- [Chief Automation Officer will be a highly paid and much coveted exec position in the future at all companies.](https://twitter.com/bentossell/status/1461665360806035456)
 
 ## Links
 

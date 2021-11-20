@@ -45,6 +45,7 @@ Learning to build [startups](startups/startups.md).
 - [The moment you initiate a business relationship with anyone outside of your company, you should be registering it, as the contracts should be between the corporate entity and the vendor rather than you (personally) with the vendor.](https://www.reddit.com/r/SaaS/comments/oz8m6m/registering_a_company/)
 - [As a principal engineer, sometimes my title intimidates people (at my job). I see it when people are sharing ideas or code. I’m thinking of ways to tackle this, but wanted to share that your title may carry weight. What are you doing to build inclusive and equitable environments?](https://twitter.com/bryanl/status/1441441208321069060)
 - [40 hour workweek was established over a century ago. Since then, we've invented 5G networks, automation, 3D printing, AR/VR, and a computer that can fit in your pocket. Nearly all of the tools have changed, yet somehow people still think the way we work needs to stay the same.](https://twitter.com/stephsmithio/status/1433939023278456833)
+- [Checking items off a list feels productive but it’s not effective. Effectiveness is staying focused on tasks that drive customer value.](https://twitter.com/techgirl1908/status/1462104303959695366)
 
 ## Links
 

@@ -385,3 +385,4 @@ if (
 - [ECMAScript Proposals](https://www.proposals.es/) ([Code](https://github.com/saadq/proposals.es))
 - [dum](https://github.com/egoist/dum) - npm scripts runner written in Rust.
 - [Esprima-python](https://github.com/Kronuz/esprima-python) - ECMAScript parsing infrastructure for multipurpose analysis.
+- [Software Tools in JavaScript by Greg Wilson Book (2021)](https://leanpub.com/stjs/)

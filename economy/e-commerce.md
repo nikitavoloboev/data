@@ -19,7 +19,7 @@
 - [GoCommerce](https://github.com/netlify/gocommerce) - Small go based API for static e-commerce sites.
 - [Saleor Commerce](https://saleor.io/) - Modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React. ([Code](https://github.com/saleor/saleor)) ([Twitter](https://twitter.com/getsaleor)) ([GitHub](https://github.com/saleor))
 - [Amplemarket](https://amplemarket.com/) - Next Generation Sales Intelligence.
-- [Faire](https://www.faire.com/) - Online Wholesale Marketplace & Store.
+- [Faire](https://www.faire.com/) - Online Wholesale Marketplace & Store. ([Tweet](https://twitter.com/ryan_caldbeck/status/1462127018196230152))
 - [JAMstack ECommerce Professional](https://github.com/jamstack-cms/jamstack-ecommerce) - Provides a way to quickly get up and running with a fully configurable JAMstack E Commerce site.
 - [Headless Commerce Resources](https://headlesscommerce.org/) ([Code](https://github.com/chec/headlesscommerce.org))
 - [CommerceJS](https://commercejs.com/) - Headless eCommerce platform for developers & designers.

@@ -170,3 +170,4 @@
 - [Tasking developers with creating detailed estimates is a waste of time (2020)](https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42) ([HN](https://news.ycombinator.com/item?id=29275659))
 - [Preparing for the (semi-)annual planning](https://twitter.com/GergelyOrosz/status/1461034113822044171)
 - [Why do large companies do planning once, max twice a year?](https://twitter.com/GergelyOrosz/status/1462016666003554308)
+- [#NoEstimates (Allen Holub) (2021)](https://www.youtube.com/watch?v=QVBlnCTu9Ms) ([Tweet](https://twitter.com/jollife/status/1461990386470162435))

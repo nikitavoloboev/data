@@ -74,6 +74,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Ivan Velichko](https://iximiuz.com/en/)
 - [John Regehr](https://blog.regehr.org/)
 - [Shtetl-Optimized](https://scottaaronson.blog/)
+- [Matt Rickard](https://matt-rickard.com/archive/)
 
 ## Notes
 
