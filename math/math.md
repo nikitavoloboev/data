@@ -31,6 +31,7 @@
 - [Monad on Set is a way to describe some sort of gadget that's a set equipped with a bunch of operations obeying a bunch of equations](https://twitter.com/johncarlosbaez/status/1294054900289028096)
 - [There's no closed-form solution for the motion of 3 gravitational masses in space, because solving that would tell us whether some guy's pure math construct halts or not.](https://twitter.com/hillelogram/status/1395847898739445761)
 - [To learn math/anything: 1. Grab a book/paper (try to understand what it's teaching). 2. Do exercises to understand (or build something). 3. Repeat.](https://www.youtube.com/watch?v=L4SBok--uyU)
+- [e^x is convex](https://twitter.com/ProfKinyon/status/1462100363360694275)
 
 ## Links
 

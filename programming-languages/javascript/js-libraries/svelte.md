@@ -136,3 +136,4 @@
 - [My Svelte Code Ordering Style (2021)](https://bjornlu.com/blog/my-svelte-code-ordering-style)
 - [Using Apollo Client in Sapper (2020)](https://bjornlu.com/blog/using-apollo-client-in-sapper)
 - [SvelteKit is now fully supported in WebContainers (2021)](https://blog.stackblitz.com/posts/sveltekit-supported-in-webcontainers/)
+- [Svelte Cubed](https://svelte-cubed.vercel.app/) - Power of Three.js in Svelte.

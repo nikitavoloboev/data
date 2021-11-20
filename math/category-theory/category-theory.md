@@ -126,6 +126,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category Theory relation to consciousness](https://github.com/drever/ct-consciousness)
 - [Thoughts on adjoint, norm and such](https://github.com/adamnemecek/adjoint)
 - [Category Theory Resources](https://github.com/bgavran/Category_Theory_Resources)
+- [Introduction to Category Theory](http://www.cs.nott.ac.uk/~pszgmh/cat.html)
 
 ## Images
 

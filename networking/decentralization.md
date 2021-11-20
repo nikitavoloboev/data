@@ -120,3 +120,4 @@
 - [DIDKit](https://github.com/spruceid/didkit) - Cross-platform toolkit for decentralized identity. ([Docs](https://spruceid.dev/docs/didkit/))
 - [SSI](https://github.com/spruceid/ssi) - Core Verifiable Credential and Decentralized Identifier functionality in Rust.
 - [Decentralised Tech & the Future of Organising (2021)](https://richdecibels.substack.com/p/9-decentralised-tech-and-the-future) ([Tweet](https://twitter.com/RichDecibels/status/1461698873974575106))
+- [The web3 stack (2021)](https://twitter.com/dabit3/status/1462169151041064966)

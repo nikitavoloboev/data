@@ -10,6 +10,7 @@
 - [Turns out one of the killer use cases of NFTs has nothing to do with art. Instead they allow the bootstrapping of a community of thousands of smart, hungry people working towards a common goal. all of them sharing ownership and equity.](https://twitter.com/dabit3/status/1459546438531264514)
 - [Web3 returns us to a p2p world. Corporations can't advertise effectively. People can. And that means people need three ingredients: 1. Incentives (reasons). 2. Memes (talking points). 3. Values (belief). Projects to bet on are the ones that optimize for all three.](https://twitter.com/divine_economy/status/1459638301967716360)
 - [You do not need past experience to start a DAO. The best communities discover web3 as a natural growth solution. There are no pre-requisites to sharing ownership with those who deserve it.](https://twitter.com/Cooopahtroopa/status/1459620316024557570)
+- [Creating a DAO showcases how web3 can support methods of giving a voice to those who have been voiceless and/or discriminated against in the past.](https://twitter.com/WRLobkowicz/status/1461401594122182662)
 
 ## Links
 

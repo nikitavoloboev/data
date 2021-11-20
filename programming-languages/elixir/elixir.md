@@ -133,3 +133,4 @@
 - [Building app infrastructure in Elixir: Data/state store (2021)](https://b.amy.gg/building-infrastructure-in-elixir-part-1)
 - [Building app infrastructure in Elixir: Time-traveling state (2021)](https://b.amy.gg/building-app-infrastructure-in-elixir-time-traveling-state)
 - [Dynamic function “definitions” in Elixir (2020)](https://b.amy.gg/dynamic-function-definitions-in-elixir)
+- [Writing a Genetic Algorithm in Nx (2021)](https://medium.com/pragmatic-programmers/writing-a-genetic-algorithm-in-nx-3ddc7cf62fc9)

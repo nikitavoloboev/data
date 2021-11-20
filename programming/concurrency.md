@@ -32,3 +32,4 @@ Concurrency is the composition of independently executing computations.
 - [What is structured concurrency? (2021)](https://oleb.net/2021/structured-concurrency/) ([Lobsters](https://lobste.rs/s/hsivmm/what_is_structured_concurrency))
 - [Advanced Topics in Concurrency Course (2020)](https://github.com/anthezium/CS510-Advanced-Topics-in-Concurrency)
 - [Syndicated Actors for Conversational Concurrency](https://syndicate-lang.org/) ([Lobsters](https://lobste.rs/s/bghtup/syndicated_actors_for_conversational))
+- [Concepts of Concurrency (1997)](http://www.cs.nott.ac.uk/~pszgmh/con.pdf)
