@@ -1,5 +1,9 @@
 # [Rails](https://github.com/rails/rails)
 
+## Notes
+
+- [Render.com can host Rails code bases nicely](https://twitter.com/signalnerve/status/1462171434147532801)
+
 ## Links
 
 - [RailsConf 2019 - Rethinking the View Layer with Components by Joel Hawksley (2019)](https://www.youtube.com/watch?v=y5Z5a6QdA-M)

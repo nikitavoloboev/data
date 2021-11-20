@@ -95,3 +95,4 @@
 - [Cloud Native Computing Foundation](https://www.cncf.io/) ([Technical Oversight Committee (TOC)](https://github.com/cncf/toc))
 - [Cross-Cloud Access to SaaS Application Books](https://www.manning.com/liveprojectseries/cross-cloud-access-to-SaaS-application)
 - [What is the next "cloud computing"? (2021)](https://www.reddit.com/r/investing/comments/qw71tf/what_is_the_next_cloud_computing/)
+- [Interview: Matthew Prince with Eric Goldman (2021)](https://www.youtube.com/watch?v=30QNAMBdkbc) ([Transcript](https://knightfoundation.org/interview-matthew-prince-with-eric-goldman/))
