@@ -153,3 +153,4 @@
 - [Outline of history - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_history)
 - [The Myth of the West I (2021)](https://clerestory.netlify.app/west/myth-1/)
 - [History Matters - YouTube](https://www.youtube.com/channel/UC22BdTgxefuvUivrjesETjg)
+- [Oil, Power, and War: A Dark History by Matthieu Auzanneau (2015)](https://www.goodreads.com/book/show/42527868-oil-power-and-war)

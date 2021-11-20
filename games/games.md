@@ -129,7 +129,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 
 ## Awesome games (other)
 
-- [Factorio](https://factorio.com) ([HN](https://news.ycombinator.com/item?id=24155609))
+- [Factorio](https://factorio.com) ([HN](https://news.ycombinator.com/item?id=24155609)) ([Optimal belt balancing in Factorio](https://oliviercorradi.com/blog/factorio-belt-balancer/))
 - [Tabletop Simulator](https://tabletopsimulator.com/) ([HN](https://news.ycombinator.com/item?id=24906634))
 - [Hades](https://store.steampowered.com/app/1145360/Hades/) ([Tweet](https://twitter.com/notdetails/status/1323022661698682881))
 - [Disco Elysium](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/) ([Tweet](https://twitter.com/andreysitnik/status/1380098420598276103))

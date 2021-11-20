@@ -76,3 +76,4 @@
 - [How to build your own CNC machine from scratch](https://github.com/maxvfischer/DIY-CNC-machine) ([HN](https://news.ycombinator.com/item?id=29096954))
 - [How to build your own full-size arcade machine from scratch](https://github.com/maxvfischer/DIY-arcade)
 - [The Big Misconception About Electricity (2021)](https://www.youtube.com/watch?v=bHIhgxav9LY) ([Tweet](https://twitter.com/BartoszMilewski/status/1461845001407660035))
+- [How to trace back the origin of electricity (2021)](https://api.electricitymap.org/blog/flow-tracing/)

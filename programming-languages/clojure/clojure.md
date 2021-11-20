@@ -178,3 +178,4 @@
 - [OpenFaaS Clojure Template](https://github.com/tessellator/openfaas-clojure-template) - OpenFaaS template for writing functions in Clojure.
 - [Kalai Transpiler](https://github.com/echeran/kalai) - Source-to-source transpiler from Clojure to other languages (Rust, Java, C++, ...).
 - [Sayid](https://github.com/clojure-emacs/sayid) - Debugger for Clojure.
+- ["Inside core.async Channels" by Rich Hickey (2014)](https://www.youtube.com/watch?v=hMEX6lfBeRM)

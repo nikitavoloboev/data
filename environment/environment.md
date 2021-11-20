@@ -29,7 +29,6 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Climate.Careers](https://climate.careers/) - Work on solving climate change. Find a job in climate. Be a part of the solution.
 - [Stripe’s first negative emissions purchases (2020)](https://stripe.com/blog/first-negative-emissions-purchases)
 - [Source materials supporting Stripe's 2020 negative emissions purchases](https://github.com/stripe/negative-emissions-source-materials)
-- [electricityMap](https://www.electricitymap.org/map) - Real-time visualisation of the CO2 emissions of electricity consumption.
 - [Tomorrow](https://www.tmrow.com/) - Data Driven Climate Action.
 - [Pachama](https://pachama.com/) - Offset your Carbon Emissions with Verified Reforestation.
 - [Greyparrot](https://greyparrot.ai/) - Computer Vision for Waste Management.
@@ -147,3 +146,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Evergrow](https://evergrow.com/) - Carbon offtake company. ([Twitter](https://twitter.com/EvergrowHQ)) ([Tweet](https://twitter.com/EvergrowHQ/status/1458466979203797001))
 - [Treehugger](https://www.treehugger.com/) - Sustainability for All.
 - [Open Source Plastic Scanner](https://plasticscanner.com/) ([HN](https://news.ycombinator.com/item?id=29269584))
+- [Lessons learned after 5 years of climate tech entrepreneurship (2021)](https://oliviercorradi.com/blog/lessons-learned-climate-tech/) ([HN](https://news.ycombinator.com/item?id=29265216))

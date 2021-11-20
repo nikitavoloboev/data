@@ -257,3 +257,4 @@
 - [Five mysteries the Standard Model can’t explain (2021)](https://www.symmetrymagazine.org/article/five-mysteries-the-standard-model-cant-explain) ([HN](https://news.ycombinator.com/item?id=29264091))
 - [Symmetry Magazine](https://www.symmetrymagazine.org/) - Dimensions of particle physics.
 - [Ultracold, superdense atoms become invisible (2021)](https://news.mit.edu/2021/atoms-ultracold-scatter-light-1118) ([HN](https://news.ycombinator.com/item?id=29280780))
+- [Into the Cool: Energy Flow, Thermodynamics, and Life by Eric D. Schneider (2006)](https://www.goodreads.com/book/show/52737.Into_the_Cool)

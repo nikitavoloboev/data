@@ -94,3 +94,4 @@
 - [The secret lives of cells – as never seen before](https://www.nature.com/articles/d41586-021-02904-w) ([HN](https://news.ycombinator.com/item?id=29123843))
 - [How to Synbio](https://github.com/TimothyStiles/how-to-synbio) - Resources I always recommend to new synthetic biologists.
 - [Poly](https://github.com/TimothyStiles/poly) - Go package for engineering organisms.
+- [Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology (1972)](https://www.goodreads.com/en/book/show/493746)

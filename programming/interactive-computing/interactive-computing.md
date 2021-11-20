@@ -38,3 +38,4 @@
 - [Interactions Book](https://interactions.pt/)
 - [Twine JS](https://github.com/klembot/twinejs) - Tool for telling interactive, nonlinear stories.
 - [Joy.js](https://github.com/ncase/joy) - Make happy little programs. ([Web](https://ncase.me/joy/)) ([HN](https://news.ycombinator.com/item?id=29267109))
+- [Magic Ink: Information Software and the Graphical Interface (2006)](http://worrydream.com/MagicInk/)

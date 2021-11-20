@@ -53,7 +53,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Functioning ‘mechanical gears’ seen in nature for the first time](https://www.cam.ac.uk/research/news/functioning-mechanical-gears-seen-in-nature-for-the-first-time)
 - [Jordan Peterson on Rules for Life, Psychedelics, The Bible, and Much More (2021)](https://www.youtube.com/watch?v=C1sEHNw4UIg)
 - [What Is Life? Its Vast Diversity Defies Easy Definition. (2021)](https://www.quantamagazine.org/what-is-life-its-vast-diversity-defies-easy-definition-20210309/)
-- [What Is Life? Book by Erwin Schrödinger (1944)](http://strangebeautiful.com/other-texts/schrodinger-what-is-life-mind-matter-auto-sketches.pdf) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/mfpq7l/quantum_physics_pioneer_erwin_schrodingers/))
+- [What Is Life? with Mind and Matter and Autobiographical Sketches by Erwin Schrödinger (1944)](https://www.goodreads.com/book/show/162780.What_Is_Life_with_Mind_and_Matter_and_Autobiographical_Sketches) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/mfpq7l/quantum_physics_pioneer_erwin_schrodingers/)) ([PDF](http://strangebeautiful.com/other-texts/schrodinger-what-is-life-mind-matter-auto-sketches.pdf))
 - [How to Build a Life - The Atlantic](https://www.theatlantic.com/projects/how-build-life/) - Column about pointing yourself toward happiness.
 - [Ask HN: What small thing helped you appreciate life more? (2021)](https://news.ycombinator.com/item?id=26731289)
 - [99 Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
@@ -82,3 +82,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [What piece of advice have you received that you also find yourself regularly giving? (2021)](https://www.reddit.com/r/AskMenOver30/comments/qnvwdl/what_piece_of_advice_have_you_received_that_you/)
 - [This Weirdly Smart, Creeping Slime Is Redefining Our Understanding of Intelligence (2021)](https://www.sciencealert.com/this-creeping-slime-is-changing-how-we-think-about-intelligence) ([Tweet](https://twitter.com/Plinz/status/1458851074186485763))
 - [Where do you hope to see yourself in five years? Earnestly. (2021)](https://twitter.com/dan_abramov/status/1459998825574248458)
+- [Life as a manifestation of the second law of thermodynamics (1994)](https://www.sciencedirect.com/science/article/pii/0895717794901880)
