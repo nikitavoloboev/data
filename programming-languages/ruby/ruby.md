@@ -99,3 +99,4 @@
 - [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html) ([HN](https://news.ycombinator.com/item?id=29199810))
 - [Future of Ruby – AST Tooling (2019)](https://dev.to/baweaver/future-of-ruby-ast-tooling-9i1)
 - [Learning Ruby from a JavaScript background](https://github.com/gauthamchandra/learning-ruby-from-js)
+- [Where is Ruby Headed in 2021?](https://bignerdranch.com/blog/where-is-ruby-headed-in-2021/) ([HN](https://news.ycombinator.com/item?id=29272682))

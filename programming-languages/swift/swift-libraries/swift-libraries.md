@@ -201,6 +201,10 @@
 - [Swash](https://github.com/Mindgrub/Swash) - Fonts in iOS made safe, expressive, and dynamic.
 - [TwitterProfile](https://github.com/OfTheWolf/TwitterProfile) - Nested scrolling with pager just like in Twitter and Instagram profile.
 - [UBottomSheet](https://github.com/OfTheWolf/UBottomSheet) - iPhone Maps App bottom sheet - A Protocol Oriented Approach.
+- [Stream Chat iOS SDK](https://github.com/GetStream/stream-chat-swift) - Build your own chat experience for iOS.
+- [Useful-Swift-Extensions](https://github.com/narner/Useful-Swift-Extensions) - Personally useful Swift Extensions for iOS Development.
+- [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Custom transition between controllers. Settings controller for your iOS app.
+- [BottomPopup](https://github.com/ergunemr/BottomPopup) - Provides a popup-like presentation style to any view controller.
 
 ## macOS
 
@@ -832,6 +836,8 @@
 - [Focus](https://github.com/typelift/Focus) - Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 - [Operadics](https://github.com/typelift/Operadics) - Standard Operators for the working Swift Librarian.
 - [AsyncCollections](https://github.com/adam-fowler/async-collections) - Functions for running async processes on Swift Collections.
+- [SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift wrappers for the tree-sitter incremental parsing system.
+- [Then](https://github.com/freshOS/Then) - Tame async code with battle-tested promises.
 
 ## Other (not lib)
 
@@ -859,7 +865,7 @@
 - [Create your own Swift Package and release it on Github.com (2021)](https://medium.com/@przemek.jablonski/create-your-own-swift-package-and-release-it-on-github-com-e47a642c259e)
 - [Surmagic](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease.
 - [Awesome SwiftWASM](https://github.com/swiftwasm/awesome-swiftwasm) - Community-driven curated list of SwiftWasm projects and content.
-- [Swift-DocC](https://github.com/apple/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package. ([Release Article](https://swift.org/blog/swift-docc/))
+- [Swift-DocC](https://github.com/apple/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package. ([Release Article](https://swift.org/blog/swift-docc/)) ([Hosting DocC archives in static hosting environments](https://forums.swift.org/t/support-hosting-docc-archives-in-static-hosting-environments/53572))
 - [Swift-DocC-Render](https://github.com/apple/swift-docc-render) - Web Single Page Application (SPA) powered by Vue.js for creating rich code documentation websites.
 - [Kaitlin Mahar - Maintaining a Library in a Swiftly Moving Ecosystem (2019)](https://www.youtube.com/watch?v=9-fdbG9jNt4)
 - [Guise](https://github.com/ollieatkinson/Guise) - Generate Public API for Swift Frameworks/Libraries.

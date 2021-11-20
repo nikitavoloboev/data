@@ -36,3 +36,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Dim](https://github.com/Dusk-Labs/dim) - Self hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 - [The 100 greatest TV series of the 21st Century (2021)](https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century)
 - [Netflix Top 10 Series - Global](https://top10.netflix.com/tv.html)
+- [Universal Trakt Scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - Extension that allows you to automatically scrobble TV shows and movies that you are watching.

@@ -35,3 +35,4 @@
 - [Bazel Buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Bazel remote caching and execution service.
 - [Example Bazel Monorepo](https://github.com/thundergolfer/example-bazel-monorepo) - Example Bazel-ified monorepo, supporting Golang, Java, Python, Scala, and Typescript.
 - [Apple Rules for Bazel](https://github.com/bazelbuild/rules_apple) - Bazel rules to build apps for Apple platforms.
+- [BazelCon](https://conf.bazel.build/) ([Supporting files for BazelCon](https://github.com/bazelbuild/bazelcon))

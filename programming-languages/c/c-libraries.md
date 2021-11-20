@@ -10,6 +10,7 @@
 - [CivetWeb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server.
 - [Libwebsockets](https://libwebsockets.org/) - C library for implementing modern network protocols. ([HN](https://news.ycombinator.com/item?id=28439447))
 - [PicoHTTPParser](https://github.com/h2o/picohttpparser) - Tiny, primitive, fast HTTP request/response parser.
+- [picoev](https://github.com/kazuho/picoev) - Tiny, lightning fast event loop for network applications.
 
 ## GUI
 

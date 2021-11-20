@@ -4,7 +4,7 @@ I'm learning to make sketches as notes similar to [this](https://twitter.com/_lr
 
 ## Links
 
-- [tldraw](https://www.tldraw.com/) - Tiny little drawing app. ([Code](https://github.com/tldraw/tldraw))
+- [tldraw](https://www.tldraw.com/) - Tiny little drawing app. ([Code](https://github.com/tldraw/tldraw)) ([HN](https://news.ycombinator.com/item?id=29261733))
 - [Irina Shestak's sketches](https://github.com/lrlna/sketchin)
 - [Sketching and Logo Creation (with Maggie Appleton) (2019)](https://www.youtube.com/watch?v=4mrrNAjiTvk)
 - [Sketch Notes and Doodles – GirlieMac](https://girliemac.com/doodles/)

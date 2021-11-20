@@ -142,3 +142,5 @@
 - [sqlcommenter](https://google.github.io/sqlcommenter/) - Suite of middlewares/plugins that enable your ORMs to augment SQL statements. ([Code](https://github.com/google/sqlcommenter))
 - [What is a slow SQL query? (2021)](https://postgres.ai/blog/20210909-what-is-a-slow-sql-query)
 - [xyr](https://github.com/alash3al/xyr) - Lightweight, simple, and powerful data ETL platform that helps you to query available data sources using SQL.
+- [go-mysql-server](https://github.com/dolthub/go-mysql-server) - SQL engine which parses standard SQL (based on MySQL syntax) and executes queries on data sources of your choice.
+- [List of MySQL joins types](https://twitter.com/DataScienceDojo/status/1461122230394540038)

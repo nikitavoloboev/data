@@ -68,3 +68,5 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [CLI Testing Tool](https://github.com/saurabhdaware/cli-testing-tool) - Testing library that allows you to test input and outputs of your CLI command.
 - [bvm](https://github.com/bvm/bvm) - Binary Version Manager.
 - [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
+- [mdbook-man](https://github.com/vv9k/mdbook-man) - Generate man pages from mdBooks.
+- [Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development (2021)](https://www.smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/)

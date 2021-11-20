@@ -111,3 +111,5 @@
 - [Equinix Metal Images](https://github.com/packethost/packet-images)
 - [Cloud Droid](https://github.com/cloud-sniper/cloud-droid) - Cloud Incident and Response Simulations.
 - [The Reports of Devops's death are greatly exaggerated (2021)](https://adnaan.badr.in/blog/2021/01/25/the-reports-of-devopss-death-are-greatly-exaggerated/)
+- [hcltm](https://github.com/xntrik/hcltm) - Threat Modeling with HCL.
+- [Hyperping](https://hyperping.io/) - Uptime monitoring with public status pages.

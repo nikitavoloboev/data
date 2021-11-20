@@ -34,3 +34,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Dune (2021) - Technical Specifications](https://www.imdb.com/title/tt1160419/technical)
 - [DJI Ronin 4D](https://www.dji.com/nl/ronin-4d)
 - [Why Dune's Visual Effects Feel So Different (2021)](https://www.youtube.com/watch?v=uIKupTibxKQ)
+- [The Succession Character You Never See (2021)](https://www.youtube.com/watch?v=_lU91279xZk)

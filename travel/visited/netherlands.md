@@ -22,3 +22,4 @@
 - [Elections in Holland: Dutch Democracy explained (2021)](https://www.youtube.com/watch?v=6yMiq96BgRc)
 - [What is the Dutch Political Structure? (2021)](https://www.youtube.com/watch?app=desktop&v=flBqZq8xhaE)
 - [Dutch politics resources](https://www.reddit.com/r/Netherlands/comments/qka59b/dutch_politics/)
+- [What are some 'Hidden Gems' throughout the Netherlands? (2021)](https://www.reddit.com/r/Netherlands/comments/qxchgr/what_are_some_hidden_gems_throughout_the/)

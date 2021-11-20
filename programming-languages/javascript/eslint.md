@@ -32,3 +32,5 @@
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
 - [Canonical ESLint Config](https://github.com/gajus/eslint-config-canonical) - Most comprehensive ES code style guide.
 - [Airbnb's ESLint config with TypeScript support](https://github.com/iamturns/eslint-config-airbnb-typescript)
+- [eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Find and remove unused es6 module imports.
+- [eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript) - Extension of eslint-config-standard, made for TypeScript.

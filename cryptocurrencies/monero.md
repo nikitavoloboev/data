@@ -4,6 +4,7 @@
 
 - [Can buy Monero on Kraken/KuCoin/TradeOgre and transfer it out (to Exodus/Cake wallet).](https://www.reddit.com/r/CryptoCurrency/comments/qrwwpw/what_cryptocurrencies_have_you_personally_found/)
 - [Can also buy LiteCoin on coin base, send to cake wallet address, convert to Monero.](https://www.reddit.com/r/Monero/comments/qu2dhq/monero_has_a_serious_user_friendly_problem/)
+- [Bisq can be a nice decentralized exchange to swap coins for Monero.](https://www.reddit.com/r/Monero/comments/qwuycs/kraken_no_longer_supporting_monero_in_uk/)
 
 ## Links
 
@@ -21,4 +22,5 @@
 - [Monero and Proof of Stake (2021)](https://www.reddit.com/r/Monero/comments/mwppuz/monero_and_proof_of_stake/)
 - [Tari](https://www.tari.com/) - Digital assets focused blockchain protocol that is built in Rust, private by default, open source, and is being architected as a merge-mined sidechain with Monero.
 - [Monero has a serious user friendly problem (2021)](https://www.reddit.com/r/Monero/comments/qu2dhq/monero_has_a_serious_user_friendly_problem/)
-- [Cake Wallet](https://cakewallet.com/) - Open Source Monero and Bitcoin Wallet. ([Code](https://github.com/cake-tech/cake_wallet))
+- [Cake Wallet](https://cakewallet.com/) - Open Source Monero and Bitcoin Wallet. ([Code](https://github.com/cake-tech/cake_wallet)) ([Reddit](https://www.reddit.com/r/Monero/comments/qxi3yn/kraken_uk_monero_users_we_welcome_you_to_cake/))
+- [LocalMonero](https://localmonero.co/) - Buy or Sell Monero Anonymously, Quick and Easy.

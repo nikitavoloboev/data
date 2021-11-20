@@ -337,3 +337,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web History by Jay Hoffman](https://css-tricks.com/chapter-1-birth/) ([Narrated](https://adactio.com/journal/18602))
 - [Who is web3 for? (2021)](https://www.robinrendle.com/notes/web-history/)
 - [Netlify Drop](https://app.netlify.com/drop) - Drag & Drop. It’s online. ([HN](https://news.ycombinator.com/item?id=29254405))
+- [Tilda Education](https://tilda.education/en/) - Practical guides to web design and digital marketing.

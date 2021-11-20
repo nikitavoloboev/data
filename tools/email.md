@@ -192,3 +192,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Server Accepts Email](https://github.com/LinusU/server-accepts-email) - Check if an SMTP server accepts emails to a given address.
 - [mailparse](https://github.com/staktrace/mailparse) - Rust library to parse mail files.
 - [Nexium](https://github.com/nexiumapp/nexium) - Next generation email server in Rust.
+- [List of burner email providers](https://github.com/wesbos/burner-email-providers)

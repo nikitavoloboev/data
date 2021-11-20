@@ -51,6 +51,7 @@
 - [FluxMPI.jl](https://github.com/avik-pal/FluxMPI.jl) - MultiGPU / MultiNode Training of Flux Models.
 - [MLJTuringInterface](https://github.com/rikhuijzer/MLJTuringInterface.jl) - Interface for Turing models with MLJ.
 - [MLFlowClient](https://github.com/JuliaAI/MLFlowClient.jl) - Julia client for MLFlow.
+- [LinearRegression](https://github.com/st--/LinearRegression.jl)
 
 ## Math
 
@@ -336,6 +337,8 @@
 - [Tokenize](https://github.com/JuliaLang/Tokenize.jl) - Tokenization for Julia source code.
 - [UnsafeArrays](https://github.com/JuliaArrays/UnsafeArrays.jl) - Stack-allocated pointer-based array views.
 - [Traceur](https://github.com/JunoLab/Traceur.jl) - Codified version of the Julia performance tips. You run your code, it tells you about any obvious performance traps.
+- [ImageClipboard](https://github.com/hyrodium/ImageClipboard.jl) - Copy & Paste images with Julia.
+- [Dictionaries](https://github.com/andyferris/Dictionaries.jl) - Alternative interface for dictionaries in Julia, for improved productivity and performance.
 
 ## Links
 

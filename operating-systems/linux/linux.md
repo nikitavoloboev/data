@@ -413,3 +413,6 @@
 - [Uroboros](https://github.com/evilsocket/uroboros) - GNU/Linux monitoring and profiling tool focused on single processes.
 - [Memit](https://github.com/liamg/memit) - Run binaries straight from memory in Linux.
 - [Kernel Maintainer Handbook](https://www.kernel.org/doc/html/latest/maintainer/index.html) - Manual for kernel maintainers.
+- [Miscellaneous eBPF Tooling](https://github.com/nccgroup/ebpf)
+- [scanmem](https://github.com/scanmem/scanmem) - Memory scanner for Linux.
+- [Debugging a Linux network stack crash via a single register value (2021)](https://blog.cloudflare.com/the-tale-of-a-single-register-value/?a) ([HN](https://news.ycombinator.com/item?id=29260464))

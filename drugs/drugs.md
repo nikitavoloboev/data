@@ -51,3 +51,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Smoking, Genetics and Schizophrenia: Evidence for Self Medication (2007)](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2613326/) ([Reddit](https://www.reddit.com/r/Drugs/comments/q889gb/when_i_went_from_8_cigarettes_a_day_to_0_my/))
 - [Long-term risks of stimulants in humans (2021)](https://www.reddit.com/r/slatestarcodex/comments/qc6asr/any_consensus_on_longterm_risks_of_stimulants_in/)
 - [The main thing about Phenylacetone meth is that there's so much of it](https://dynomight.net/p2p-meth/) ([HN](https://news.ycombinator.com/item?id=29027284))
+- [Bluelight.org](https://www.bluelight.org/xf/)

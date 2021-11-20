@@ -111,6 +111,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Texture is great library for iOS if you need top performance.](https://twitter.com/JordanMorgan10/status/1296774307218169856)
 - [How to disable "rate my app" notifications in iOS](https://twitter.com/hunterwalk/status/1397036572684345348)
 - [You can escape emoji search keyboard by clicking on the original text box](https://twitter.com/nateparrott/status/1460327450416664587)
+- On Google Maps iOS you can double tap & then with one finger swipe up/down to zoom on/out.
 
 ## Links
 
@@ -376,3 +377,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS apps should support cmd+k searches natively](https://twitter.com/jonrundle/status/1458540615642275847)
 - [Optimize & improve discoverability in iOS App Store (2021)](https://twitter.com/nielsmouthaan/status/1458795004042874883)
 - [Learn Modern Auto Layout For iOS](https://useyourloaf.com/autolayout/) ([Code](https://github.com/kharrison/albookcode))
+- [Silencing iOS simulator log noise (2021)](https://www.smileykeith.com/2021/11/16/simulator-log-spew/)
+- [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard.

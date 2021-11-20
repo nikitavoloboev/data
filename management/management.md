@@ -165,3 +165,5 @@
 - [Don’t be spooky](https://therealadam.com/2021/11/01/dont-be-spooky/) ([HN](https://news.ycombinator.com/item?id=29130590))
 - [OKRs masquerade as strategy (2021)](https://rogermartin.medium.com/stop-letting-okrs-masquerade-as-strategy-a57fc2cea915) ([HN](https://news.ycombinator.com/item?id=29231936)) ([Tweet](https://twitter.com/bernhardsson/status/1460358224075538432?s=28))
 - [Ask HN: What was your experience like moving from an IC to a manager role? (2021)](https://news.ycombinator.com/item?id=29256913)
+- [Get your OKRs out of my GEMs (2021)](https://kathkeating.com/get-your-okrs-out-of-my-gems/)
+- [Tasking developers with creating detailed estimates is a waste of time (2020)](https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42) ([HN](https://news.ycombinator.com/item?id=29275659))

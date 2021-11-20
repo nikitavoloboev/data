@@ -119,6 +119,9 @@
 - [ZIO Akka Cluster](https://github.com/zio/zio-akka-cluster)
 - [Squants](https://github.com/typelevel/squants) - Scala API for Quantities, Units of Measure and Dimensional Analysis.
 - [dynamic](https://github.com/reugn/dynamic) - Scala library that allows copying a case class using a dynamic property name.
+- [crjdt](https://github.com/fthomas/crjdt) - Conflict-free replicated JSON datatype (CRDT) in Scala.
+- [Droste](https://github.com/higherkindness/droste) - Recursion library for Scala.
+- [Iota](https://github.com/frees-io/iota) - Fast [co]product types with a clean syntax. For Cats & Scalaz.
 
 ## Links
 

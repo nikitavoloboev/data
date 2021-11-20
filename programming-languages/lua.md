@@ -81,3 +81,5 @@
 - [StackTracePlus](https://github.com/ignacio/StackTracePlus) - Provides enhanced stack traces for Lua.
 - [Teliva](https://github.com/akkartik/teliva) - Fork of Lua 5.1 to encourage end-user programming. ([HN](https://news.ycombinator.com/item?id=29231563))
 - [checks](https://github.com/fab13n/checks) - Runtime argument type checking API for Lua.
+- [Lua Async Await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
+- [luastatic](https://github.com/ers35/luastatic) - Build a standalone executable from a Lua program.

@@ -94,3 +94,6 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [RunMD](https://github.com/broofa/runmd) - Executable markdown files.
 - [Prose](https://github.com/HGHimself/prose) - Turning your markdown into lovely HTML.
 - [markdown-clj](https://github.com/yogthos/markdown-clj) - Markdown parser in Clojure. ([Making markdown-clj babashka-compatible](https://blog.michielborkent.nl/markdown-clj-babashka-compatible.html))
+- [MDBook Link-Check](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - Backend for mdbook which will check your links for you.
+- [MDBook EPUB Backend](https://github.com/Michael-F-Bryan/mdbook-epub)
+- [Noteworthy](https://github.com/SeaDve/Noteworthy) - Modern, Fast, and Version-Controlled Markdown Notes App.

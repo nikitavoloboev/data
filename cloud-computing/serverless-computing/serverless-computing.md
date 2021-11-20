@@ -124,3 +124,4 @@
 - [Improving long-running jobs for OpenFaaS users (2021)](https://www.openfaas.com/blog/long-running-jobs/)
 - [Serverless WebSockets at Scale | Simon Tabor (2020)](https://www.youtube.com/watch?v=lXNw2RTaD8g)
 - [Prisma Serverless Conference](https://www.prisma.io/serverless)
+- [fnrun](https://github.com/fnrun/fnrun) - Tools for building business functions and runners. ([Web](https://fnrun.dev/))

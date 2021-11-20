@@ -21,6 +21,10 @@
 
 I try to get to this future as soon as possible by setting and completing my own personal [life goals](../focusing/goals.md).
 
+## Notes
+
+- [The primary ingredient for progress is optimism. The unwavering belief that something can be better is what drives the human race forward.](https://twitter.com/simonsinek/status/1461705827560136707)
+
 ## Links
 
 - [Jeremy Rifkin: "The Zero Marginal Cost Society"](https://www.youtube.com/watch?v=5-iDUcETjvo) - Moving into the world where it costs nearly nothing to manufacture, share or create things. The growing economy of _sharing_ things and less need for ownership.
@@ -75,3 +79,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Technological stagnation: Why I came around (2021)](https://rootsofprogress.org/technological-stagnation) ([Tweet](https://twitter.com/altluu/status/1443759755449626637))
 - [Films that are optimistic about the future (2021)](https://twitter.com/zhusu/status/1444131834086887428)
 - [Things Vitalik is excited about (2020)](https://twitter.com/VitalikButerin/status/1273742863688499203)
+- [Ask HN: What are you 2022 predictions?](https://news.ycombinator.com/item?id=29281732)

@@ -29,6 +29,7 @@
 - [EctoMorph](https://github.com/Adzz/ecto_morph) - Morphs your Ecto capabilities.
 - [DBConnection](https://github.com/elixir-ecto/db_connection) - Database connection behavior.
 - [Hierarch](https://github.com/Byzanteam-Labs/hierarch) - Tree structure & hierarchy for ecto models with ltree (Postgres).
+- [Excellent Migrations](https://github.com/Artur-Sulej/excellent_migrations) - Detect potentially dangerous or destructive operations in your database migrations.
 
 ## Test
 
@@ -45,6 +46,10 @@
 
 - [Vexil](https://github.com/Ovyerus/vexil) - Elixir flag parser that does just enough.
 - [Artificery](https://github.com/bitwalker/artificery) - Toolkit for creating terminal user interfaces in Elixir.
+
+## Math
+
+- [Statistics](https://github.com/msharp/elixir-statistics) - Statistical functions and distributions for Elixir.
 
 ## Other
 

@@ -36,3 +36,5 @@
 - [Fabrik - A Visual Programming Environment (1988)](https://web.archive.org/web/20070927190552/http://users.ipa.net/~dwighth/smalltalk/Fabrik/Fabrik.html) ([HN](https://news.ycombinator.com/item?id=29094633))
 - [Future of computing explorations](https://matthewsiu.notion.site/matthewsiu/Future-of-computing-explorations-4272fef350a94980b645f8cbdf9911ea#b2806ae111914e52a38b34707462b908)
 - [Interactions Book](https://interactions.pt/)
+- [Twine JS](https://github.com/klembot/twinejs) - Tool for telling interactive, nonlinear stories.
+- [Joy.js](https://github.com/ncase/joy) - Make happy little programs. ([Web](https://ncase.me/joy/)) ([HN](https://news.ycombinator.com/item?id=29267109))

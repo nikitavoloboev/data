@@ -59,6 +59,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [I believe what makes NFTs different is a transformative vision of a future that true believers find inspiring and achievable. In their eyes, the current speculative bubble is a mechanism for growing something enduring.](https://twitter.com/slightlylate/status/1450886698951340033)
 - [Recognizing the spiritual hunger that sits at the core of these movements (and remember how many in the space are young people!) is an important step to understanding them. Crypto culture is a mirror world that feeds off of the unexamined failures of the real world.](https://twitter.com/Pinboard/status/1450886210914709506)
 - [One of the coolest things about crypto is being able to fork mainnet locally and just like...experiment with building on top of other peoples' contracts without hitting them. Such a mindset shift from web2. like you can turn the whole web into a staging environment. wild.](https://twitter.com/jongold/status/1458553279562989571)
+- [The only API you should trust is one controlled by a blockchain. Can’t be evil > don’t be evil. There’s key digital information (money, identity, digital assets, etc.) that users should have ultimate control of, and if this was trivially easy to access between apps, that would lead to vastly more innovation in software.](https://twitter.com/cdixon/status/1461723922336915459)
 
 ## Links
 
@@ -285,3 +286,8 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Rollups, data availability layers & modular blockchains: introductory meta post (2021)](https://polynya.medium.com/rollups-data-availability-layers-modular-blockchains-introductory-meta-post-5a1e7a60119d)
 - [Tendermint DB](https://github.com/tendermint/tm-db) - Common database interface for various database backends for Tendermint Core and Cosmos SDK.
 - [Transfer Layer: Scalability and Cross Chain Bridges (2021)](https://www.youtube.com/watch?v=YH0FvcHdLX8)
+- [Capsule](https://github.com/nervosnetwork/capsule) - Development framework for creating smart contract for Nervos' CKB layer 1 blockchain.
+- [The NFT Bay](https://thenftbay.org/index.html) - Resilient NFT BitTorrent site. ([Code](https://github.com/ghuntley/thenftbay.org))
+- [TheNFTbay.org – The Billion Dollar Torrent (All NFT's from Ethereum and Solana)](https://thenftbay.org/description.html) ([HN](https://news.ycombinator.com/item?id=29265064))
+- [XuperChain](https://github.com/xuperchain/xuperchain) - Highly flexible blockchain architecture with great transaction performance.
+- [Why NFTs are bad: the long version (2021)](https://antsstyle.medium.com/why-nfts-are-bad-the-long-version-2c16dae145e2) ([HN](https://news.ycombinator.com/item?id=29280317))

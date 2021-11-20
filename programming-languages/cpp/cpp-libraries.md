@@ -57,6 +57,7 @@
 - [neoGFX](https://github.com/i42output/neoGFX) - Cross-platform GPU-oriented C++ application/game framework. ([Web](https://neogfx.org/))
 - [NanoGUI](https://github.com/mitsuba-renderer/nanogui) - Minimalistic C++/Python GUI library for OpenGL, GLES2/3, Metal, and WebAssembly/WebGL.
 - [Anti-Grain Geometry](https://github.com/ghaerr/agg-2.6) - Open Source, 2D vector graphics library. Produces pixel images in memory from vectorial data.
+- [JNGL](https://github.com/jhasse/jngl) - Easy to use cross-platform 2D game library for C++.
 
 ## DB
 
@@ -285,6 +286,7 @@
 - [baidu-allreduce](https://github.com/baidu-research/baidu-allreduce) - Small C++ library, demonstrating the ring allreduce and ring allgather techniques.
 - [HIP](https://github.com/ROCm-Developer-Tools/HIP) - C++ Heterogeneous-Compute Interface for Portability.
 - [SMACC](https://github.com/reelrbtx/SMACC) - Event-driven, asynchronous, behavioral state machine library for real-time ROS (Robotic Operating System) applications written in C++.
+- [refl-cpp](https://github.com/veselink1/refl-cpp) - Modern compile-time reflection library for C++ with support for overloads, templates, attributes and proxies.
 
 ## Links
 
@@ -292,7 +294,7 @@
 - [Desktop App Toolkit](https://github.com/desktop-app) - Set of C++ libraries for developing nice desktop applications (by Telegram).
 - [How to export C++ library](https://github.com/robotology/how-to-export-cpp-library) - OS-agnostic C++ library template in plain CMake.
 - [List of single-file C/C++ libraries](https://github.com/nothings/single_file_libs) ([HN](https://news.ycombinator.com/item?id=24892400))
-- [Sandboxed API](https://github.com/google/sandboxed-api) - Generates sandboxes for C/C++ libraries automatically.
+- [Sandboxed API](https://github.com/google/sandboxed-api) - Generates sandboxes for C/C++ libraries automatically. ([HN](https://news.ycombinator.com/item?id=29273530))
 - [The Art of C++](https://github.com/taocpp) - Collection of high-quality C++ libraries. ([Web](https://taocpp.github.io/))
 - [Conan](https://github.com/conan-io/conan) - Decentralized, open-source, C/C++ package manager. ([Web](https://conan.io/))
 - [hdoc](https://hdoc.io/) - Modern C++ documentation tool. ([HN](https://news.ycombinator.com/item?id=26038816)) ([Code](https://github.com/hdoc/hdoc))

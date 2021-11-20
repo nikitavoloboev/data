@@ -266,3 +266,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Selecting a programming language can be a form of premature optimization (2021)](https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/)
 - [Shawn Wang - Growing a Meta-Language (2021)](https://www.youtube.com/watch?v=Dz4q_bNDqfo)
 - [Kindly Bent to Free Us (2019)](https://arxiv.org/abs/1908.09681)
+- [Microsoft Power Fx](https://github.com/microsoft/power-fx) - Low-code general purpose programming language based on spreadsheet-like formulas. ([Article](https://powerapps.microsoft.com/en-us/blog/power-fx-open-source-now-available/)) ([HN](https://news.ycombinator.com/item?id=29261413))
+- [Undefined Behavior deserves a better reputation (2021)](https://blog.sigplan.org/2021/11/18/undefined-behavior-deserves-a-better-reputation/) ([Lobsters](https://lobste.rs/s/llbhtg/undefined_behavior_deserves_better))

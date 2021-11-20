@@ -194,6 +194,11 @@
 - [B+ tree](https://github.com/qwertie/btree-typescript) - B+ trees are ordered collections of key-value pairs, sorted by key.
 - [Arcsecond](https://github.com/francisrstokes/arcsecond) - Zero Dependency Parser Combinator Library for JS Based on Haskell's Parsec.
 - [Freehold](https://github.com/tcoulter/freehold) - Library to help users gain freehold of their data, using in-browser cryptography coupled with the power of popular crypto wallets.
+- [cancelable-promise](https://github.com/alkemics/CancelablePromise) - Simple Cancelable Promise.
+- [pkg-types](https://github.com/unjs/pkg-types) - Node.js utilities and TypeScript definitions for package.json and tsconfig.json.
+- [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - Text buffer used in VS Code/Monaco.
+- [TS-Collection](https://github.com/always-maap/TS-Collection) - Performant Algorithms and Data-Structures for the Web & NodeJS. ([Docs](https://ts-collection.vercel.app/docs/overview))
+- [tldraw/intersect](https://github.com/tldraw/intersect) - 2D intersection utilities for TLDraw and maybe you, too.
 
 ## Links
 

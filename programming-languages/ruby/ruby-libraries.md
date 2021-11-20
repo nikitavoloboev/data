@@ -28,6 +28,8 @@
 - [debug.rb](https://github.com/ruby/debug) - Debugging functionality for Ruby. ([Article](https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa))
 - [Async](https://github.com/socketry/async) - Composable asynchronous I/O framework for Ruby based on nio4r and timers.
 - [MemoWise](https://github.com/panorama-ed/memo_wise) - Wise choice for Ruby memoization.
+- [Zhong](https://github.com/nickelser/zhong) - Useful, reliable distributed cron. Uses Redis to acquire exclusive locks on jobs, as well as recording when they last ran.
+- [unparser](https://github.com/mbj/unparser) - Turn Ruby AST into semantically equivalent Ruby source.
 
 ## Links
 

@@ -75,3 +75,4 @@
 - [Frontend Horse](https://frontend.horse/) - Learn techniques from the best creative frontend developers. ([Twitter](https://twitter.com/FrontendHorse))
 - [Building Resilient Frontend Architecture • Monica Lent (2019)](https://www.youtube.com/watch?v=TqfbAXCCVwE)
 - [Perry](https://github.com/perry-js/perry) - Agnostic front-end bug reporting. Collect logs, errors, clicks, and session data easily. ([Web](https://perry-js.netlify.app/))
+- [Micro frontend resources](https://github.com/billyjov/microfrontend-resources)

@@ -8,8 +8,8 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 
 - [objkt.com](https://objkt.com/) - Largest NFT marketplace on Tezos. ([Tweet](https://twitter.com/objktcom/status/1458853223490592774))
 - [Werenode](http://werenode.com/index.html) - Boost the EV charging network. Make it auditable thanks to Tezos blockchain. ([Reddit](https://www.reddit.com/r/tezos/comments/l3o4cr/werenode/))
-- [hic et nunc](https://hicetnunc.art/) - Smart contracts and distributed systems designs. ([Tweet](https://twitter.com/matdryhurst/status/1458966893503594500)) ([Tweet](https://twitter.com/sableRaph/status/1459151151119704069)) ([Twitter](https://twitter.com/hen_community))
-- [fxhash](https://www.fxhash.xyz/) - Open platform to create and collect generative NFTs on the tezos blockchain. ([Twitter](https://twitter.com/fx_hash_))
+- [hic et nunc](https://hicetnunc.art/) - Smart contracts and distributed systems designs. ([Tweet](https://twitter.com/matdryhurst/status/1458966893503594500)) ([Tweet](https://twitter.com/sableRaph/status/1459151151119704069)) ([Twitter](https://twitter.com/hen_community)) ([Tweet](https://twitter.com/hen_community/status/1461116691589394435))
+- [fxhash](https://www.fxhash.xyz/) - Open platform to create and collect generative NFTs on the tezos blockchain. ([Twitter](https://twitter.com/fx_hash_)) ([Web Code](https://github.com/fxhash/fxhash-website))
 - [OneOf](https://www.oneof.com/) - Eco-friendly NFT platform built on Tezos to connect fans and collectors at all levels to their favorite artists.
 
 ## Notes
@@ -80,3 +80,6 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [QuipuSwap](https://quipuswap.com/swap) - Tezos DEX with on-chain governance for baking rewards.
 - [Tezos : past, present, and future (2021)](https://www.youtube.com/watch?v=lo1bYTLmQFg)
 - [Wrap Protocol](https://app.tzwrap.com/wrap) - Bridge between Ethereum and Tezos. ([Reddit](https://www.reddit.com/r/tezos/comments/qs5lh8/how_to_convert_eth_to_tezos/hkbks23/?utm_source=reddit&utm_medium=web2x&context=3))
+- [TzStats](https://tzstats.com/) - Tezos Block Explorer by Blockwatch. ([Activity](https://tzstats.com/activity))
+- [How decentralized is Tezos? (2021)](https://www.reddit.com/r/tezos/comments/qwm92e/how_much_decentralized_is_tezos/)
+- [Tezos: Driving Social, Political, and Economic Innovation (2021)](https://www.youtube.com/watch?v=UwpvrgaOFB8)

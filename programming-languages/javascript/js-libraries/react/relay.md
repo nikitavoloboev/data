@@ -25,3 +25,4 @@
 - [Awesome Relay](https://github.com/expede/awesome-relay)
 - [fgs](https://github.com/maraisr/fgs) - Fetch GraphQL Schema from a GraphQL HTTP Endpoint from grphql-config that is Relay (rust) aware.
 - [Relay Library for GraphQL.js](https://github.com/graphql/graphql-relay-js)
+- [Relay Client Guide](https://github.com/rafasanmartinez/relay-client-guide)

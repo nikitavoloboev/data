@@ -99,7 +99,7 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [bitcoin-p2p](https://github.com/stevenroose/rust-bitcoin-p2p) - Rust implementation of Bitcoin p2p protocol.
 - [Lightning Bitcoin Core](https://github.com/lbtcio/lbtc-core) - Fully decentralized Internet-of-value protocol for global payments.
 - [BRD](https://brd.com/) - Bitcoin wallet. ([Code](https://github.com/breadwallet/breadwallet-ios))
-- [Stacks](https://www.stacks.co/) - Smart contracts for Bitcoin. ([Code](https://github.com/blockstack/connect)) ([GitHub](https://github.com/blockstack)) ([Library Code](https://github.com/blockstack/connect))
+- [Stacks](https://www.stacks.co/) - Smart contracts for Bitcoin. ([Code](https://github.com/blockstack/connect)) ([GitHub](https://github.com/blockstack)) ([Library Code](https://github.com/blockstack/connect)) ([Explorer](https://explorer.stacks.co/?chain=mainnet)) ([Explorer Code](https://github.com/hirosystems/explorer))
 - [Smart contracts on Bitcoin (2021)](https://avc.com/2021/01/smart-contracts-on-bitcoin/) ([HN](https://news.ycombinator.com/item?id=25781645))
 - [Bitcoin Layer 2: Lightning Network Resources](https://www.lopp.net/lightning-information.html)
 - [Clarity Smart Contract Language](https://clarity-lang.org/) - Lisp-like Smart Contracts on Bitcoin. ([GitHub](https://github.com/clarity-lang))
@@ -171,3 +171,8 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Sapio](https://github.com/sapio-lang/sapio) - Framework for creating composable multi-transaction Bitcoin Smart Contracts.
 - [TokenSwap](https://tswap.io/#/) - AMM DEX running on BSV. ([Twitter](https://twitter.com/tswap_io))
 - [Mako](https://github.com/chjj/mako) - Full Bitcoin implementation in C. ([HN](https://news.ycombinator.com/item?id=29230068))
+- [Elastos](https://www.elastos.org/) - Web3, secured by Bitcoin hashpower. ([Twitter](https://twitter.com/ElastosInfo))
+- [Glide Finance](https://glidefinance.io/) - Frictionless finance. The Elastos AMM. ([GitHub](https://github.com/glide-finance))
+- [BitcoinBinary.org](https://bitcoinbinary.org/) - Repository of Reproducible Build Proofs for Bitcoin Projects.
+- [Hiro](https://www.hiro.so/) - Builds developer tools for Stacks. ([GitHub](https://github.com/hirosystems))
+- [Clarinet](https://github.com/hirosystems/clarinet) - Simple, modern and opinionated runtime for writing, testing and integrating Clarity Smart contracts.

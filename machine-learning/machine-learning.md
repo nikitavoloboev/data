@@ -208,7 +208,7 @@
 - [MIT Introduction to Deep Learning course (2020)](http://introtodeeplearning.com/) ([Code](https://github.com/aamini/introtodeeplearning)) ([Videos](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI))
 - [Stanford Deep Multi-Task and Meta Learning course (2019)](http://cs330.stanford.edu/)
 - [FastAI book draft (2020)](https://github.com/fastai/fastbook) ([HN](https://news.ycombinator.com/item?id=22449562)) ([Notebooks](https://github.com/fastai/book_nbs))
-- [Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning"](https://github.com/ctgk/PRML)
+- [Pattern Recognition and Machine Learning by Christopher M. Bishop Book](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning) ([Code](https://github.com/ctgk/PRML)) ([PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)) ([Code/Notes](https://github.com/gerdm/prml))
 - [Google Colaboratory](https://github.com/googlecolab/backend-container) - Research project created to help disseminate machine learning education and research.
 - [Resources for teaching machine learning](https://github.com/kierisi/teaching_ml/blob/master/teaching_ml_resources.md)
 - [Population Based Augmentation](https://github.com/arcelien/pba) - Algorithm that quickly and efficiently learns data augmentation functions for neural network training.

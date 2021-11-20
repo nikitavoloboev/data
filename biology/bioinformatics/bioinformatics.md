@@ -176,3 +176,5 @@
 - [block aligner](https://github.com/Daniel-Liu-c0deb0t/block-aligner) - SIMD-accelerated library for computing global and X-drop affine gap sequence alignments using an adaptive block-based algorithm.
 - [OpenFold](https://github.com/aqlaboratory/openfold) - Trainable & open-source PyTorch reproduction of AlphaFold 2.
 - [HSM (Hierarchical Statistical Mechanical model)](https://github.com/aqlaboratory/hsm) - Biophysical prediction of protein-peptide interactions and signaling networks using machine learning. ([Web](https://proteinpeptide.io/))
+- [Foregen and the Science of Regeneration with Tyler Drzod and Eric Cunningham (2021)](https://www.youtube.com/watch?v=JTOoc8ToSjc) ([Links & Transcript](https://brendonmarotta.com/8090/foregen-and-regeneration/))
+- [Foregen](https://www.foregen.org/) - Regenerating Foreskins. ([Reddit](https://www.reddit.com/r/Foregen/))

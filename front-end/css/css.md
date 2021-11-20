@@ -393,3 +393,4 @@ all: unset
 - [CSS Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) ([Article](https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/)) ([HN](https://news.ycombinator.com/item?id=29245315))
 - [Layout patterns](https://web.dev/patterns/layout/) - Collection of layout patterns built using modern CSS APIs.
 - [The new responsive design (2021)](https://www.youtube.com/watch?v=dhrX_biPH8c)
+- [Discover CSS polygon shapes](https://css-doodle.com/shapes/) ([Code](https://github.com/css-doodle/shapes))

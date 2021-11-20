@@ -143,3 +143,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Drofa](https://github.com/justNo4b/Drofa) - UCI chess engine written in C++.
 - [How long does it take ordinary people to “get good” at chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md) ([HN](https://news.ycombinator.com/item?id=29035416))
 - [React chess piece component](https://github.com/chessire-cat/pieces)
+- [Acquisition of Chess Knowledge in AlphaZero (2021)](https://arxiv.org/abs/2111.09259) ([Article](https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero)) ([HN](https://news.ycombinator.com/item?id=29272000))

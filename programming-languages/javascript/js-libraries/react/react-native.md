@@ -148,3 +148,5 @@
 - [intercom-react-native](https://github.com/intercom/intercom-react-native) - React Native wrapper to bridge our iOS and Android SDK.
 - [react-native-context-menu-view](https://github.com/mpiannucci/react-native-context-menu-view) - Use native context menus in React Native.
 - [React Native Bluetooth Low Energy](https://github.com/dotintent/react-native-ble-plx)
+- [React Native Performance Monitor Flipper plugin](https://github.com/bamlab/react-native-performance)
+- [react-native-header](https://github.com/oguzturker8/react-native-header) - Header library for react-native. Uses power of reanimated2.

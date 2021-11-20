@@ -89,3 +89,4 @@
 - [Moon](https://github.com/ulissesferreira/moon) - Lightweight Vue 3 component library.
 - [Vue Stripe.js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js.
 - [Vuestic UI](https://vuestic.dev/) - Vue.js 3.0 UI Framework. ([Code](https://github.com/epicmaxco/vuestic-ui))
+- [Explore Nuxt Modules](https://modules.nuxtjs.org/) ([Code](https://github.com/nuxt/modules))

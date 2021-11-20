@@ -18,7 +18,7 @@ Alexey Navalny says: [It is impossible to jail millions and hundreds of thousand
 
 Change comes gradually, then suddenly. I am hopeful that this [change comes soon](../../future/future.md) and am trying my best to make that happen.
 
-Aside from the unfortunate series of historical events that led to the current abuse of power from government over people & its disgusting policies towards its neighbors like [Ukraine](ukraine.md), Russia is beautiful country with amazing people. Things won't improve in the country financially though if there is always a risk of someone coming in 'from the government' to take over your business and putting you in jail. Not including the fact that [most young people want to leave it at any opportunity they can get](https://twitter.com/dan_abramov/status/1458101197500473355) due to reasons above plus the stealing of your life that is Russian military conscription.
+Aside from the unfortunate series of historical events that led to the current abuse of power from government over people & its disgusting policies towards its neighbors like [Ukraine](ukraine.md), Russia is beautiful country with amazing people. Things won't improve in the country financially though if there is [always a risk of someone coming in 'from the government' to take over your business and putting you in jail](https://twitter.com/TanuXaPacman/status/1460987534515884042). Not including the fact that [most young people want to leave it at any opportunity they can get](https://twitter.com/dan_abramov/status/1458101197500473355) due to reasons above plus the stealing of your life that is Russian military conscription.
 
 With that said, no matter what country/community I get to live in, I try to [do my best within what's possible given my surroundings](https://twitter.com/ioannZH/status/1458669114826928128). Always seeking to move to an environment that helps me express myself best. Not wasting time on pointless arguing/news and valuing personal growth through actions & useful discourse/relationships. And above all, staying [positive and optimistic whilst not hating/complaining on things needlessly](https://twitter.com/pbrian0206/status/1458972624047026177).
 
@@ -345,3 +345,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Личное дело каждого](https://dostup.memo.ru/)
 - [Введение в феминизм](https://twitter.com/SunnySwamp/status/1388833195353903111)
 - [Душняк. Советский диссидент Александр Подрабинек об издевательствах над Навальным (2021)](https://theins.ru/opinions/aleksandr-podrabinek/246355)
+- [vc.ru](https://vc.ru/) - Бизнес, технологии, идеи, модели роста, стартапы.

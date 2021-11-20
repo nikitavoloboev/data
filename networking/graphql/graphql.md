@@ -260,3 +260,9 @@
 - [TypeGraphQL-DataLoader](https://github.com/slaypni/type-graphql-dataloader) - TypeGraphQL + DataLoader + TypeORM made easy.
 - [Nexus Input Transformation](https://github.com/koaninc/nexus-input-transformation) - Package of tools for creating transformations of input arguments on nexus GraphQL resolvers.
 - [graphql.wtf](https://graphql.wtf/) - Weekly GraphQL Screencasts.
+- [GraphQL schema registry](https://github.com/basselalaraaj/graphql-schema-registry)
+- [PersistQL](https://github.com/PersistX/PersistQL) - Projection-based GraphQL Clients and Servers in Swift.
+- [protoc-gen-twirpql](https://github.com/marwan-at-work/protoc-gen-twirpql) - Protoc plugin that generates a GraphQL layer on top of Twirp servers.
+- [Graphql Lambda Subscriptions](https://github.com/reconbot/graphql-lambda-subscriptions) - Graphql-WS compatible Lambda Powered Subscriptions.
+- [graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
+- [GraphQL over SSE (Server-Sent Events) (2021)](https://the-guild.dev/blog/graphql-over-sse)

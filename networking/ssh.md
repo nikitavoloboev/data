@@ -81,3 +81,4 @@
 - [It's Now Possible To Sign Arbitrary Data With Your SSH Keys (2021)](https://www.agwa.name/blog/post/ssh_signatures) ([HN](https://news.ycombinator.com/item?id=29208518)) ([Lobsters](https://lobste.rs/s/a0byrl/it_s_now_possible_sign_arbitrary_data_with))
 - [Portable OpenSSH](https://github.com/openssh/openssh-portable) - Complete implementation of the SSH protocol for secure remote login, command execution and file transfer.
 - [SSH-MITM](https://github.com/ssh-mitm/ssh-mitm) - SSH audits made simple. ([HN](https://news.ycombinator.com/item?id=29256572))
+- [SSH2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for NodeJS.

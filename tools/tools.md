@@ -614,3 +614,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Ask HN: What do you think about the no-code movement? (2021)](https://news.ycombinator.com/item?id=29188355)
 - [Dream productivity stack tools (2021)](https://twitter.com/ashleymayer/status/1460312782646104067)
 - [Low-Code and the Democratization of Programming (2021)](https://www.oreilly.com/radar/low-code-and-the-democratization-of-programming/) ([HN](https://news.ycombinator.com/item?id=29240702))
+- [Lowbeer's Tipstaff; Cool Tools (2021)](https://brandur.org/nanoglyphs/028-cool-tools)

@@ -217,3 +217,4 @@
 - [WebAssembly for Proxies (Rust SDK)](https://github.com/proxy-wasm/proxy-wasm-rust-sdk)
 - [Building Rust WASM projects with Nix (2021)](https://www.tomhoule.com/building-rust-wasm-with-nix-flakes/) ([Code](https://github.com/tomhoule/rust-nix-wasm32-unknown-unknown-example))
 - [Wasi Tools](https://github.com/WebAssembly/wasi-tools)
+- [wasm-streams](https://github.com/MattiasBuelens/wasm-streams) - Bridging between web streams and Rust streams using WebAssembly.

@@ -29,3 +29,4 @@
 - [Hydrolix](https://www.hydrolix.io/) - Elastic cloud data platform built for observability. ([1.1 Billion Taxi Rides using Hydrolix on AWS](https://tech.marksblogg.com/hydrolix-1b-taxi-rides-aws.html))
 - [Axiom](https://www.axiom.co/) - Serverless log management solution. ([GitHub](https://github.com/axiomhq)) ([Twitter](https://twitter.com/AxiomFM))
 - [Free Your Services From Vendor Lock-in With OpenTelemetry (2021)](https://www.youtube.com/watch?v=G-WjD2bg6co)
+- [A tale of Distributed Context (2021)](https://mattburman.com/a-tale-of-distributed-context/)

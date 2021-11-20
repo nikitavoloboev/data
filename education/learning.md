@@ -164,7 +164,7 @@
 - [Open Syllabus Prints](https://open-syllabus.myshopify.com/) - Large 'Galaxy' Prints of Your Favorite Academic Fields. ([Tweet](https://twitter.com/NadiehBremer/status/1449025016733962242))
 - [What to Learn](https://danluu.com/learn-what/) ([HN](https://news.ycombinator.com/item?id=28904021))
 - [Great YouTube learning channels (2021)](https://twitter.com/balajis/status/1443128820249214979)
-- [Willingness to Look Stupid](https://danluu.com/look-stupid/) ([HN](https://news.ycombinator.com/item?id=28942189))
+- [Willingness to Look Stupid](https://danluu.com/look-stupid/) ([HN](https://news.ycombinator.com/item?id=28942189)) ([Tweet](https://twitter.com/danluu/status/1451114505438568448))
 - [How Learning Works: Components, Systems, and Loops (2021)](https://romandesign.co/how-learning-works-components-systems-and-loops/)
 - [100R — resources](https://100r.co/site/resources.html)
 - [Дмитрий Карловский: слайды для конференций](https://github.com/nin-jin/slides)

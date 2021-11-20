@@ -108,3 +108,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Fides](https://github.com/ethyca/fides) - Declaratively enforce your data privacy requirements from within your software development life-cycle. ([Docs](https://ethyca.github.io/fides/))
 - [Practical Differentially Private Clustering (2021)](https://ai.googleblog.com/2021/10/practical-differentially-private.html)
 - [Securing your digital life (2021)](https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/)
+- [A Right to Reasonable Inferences: Re-Thinking Data Protection Law in the Age of Big Data and AI (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3248829) ([Tweet](https://twitter.com/ziebrah/status/1461033739409141771))

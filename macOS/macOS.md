@@ -25,7 +25,7 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [I basically install nothing except GUI apps on my Mac. I don’t even have a bashrc (or any shell rc for that matter). I never open the terminal on Mac. I live in the VM for dev work, and use GUI apps like calendar, email, messages, browser, etc. on Mac.](https://twitter.com/mitchellh/status/1449151623092060164)
 - [`ls -lha /Library/Developer/CommandLineTools/usr/bin` to see what xcode command line developer tools installs.](https://twitter.com/nikitonsky/status/1453019511502909441)
 - [Can right-click on a 2-factor authentication code to set it up with iCloud Keychain.](https://twitter.com/rafahari/status/1456013646144933893)
-- [macOS has network quality command: networkQuality](https://twitter.com/justsitandgrin/status/1460286405578563595)
+- [macOS has network quality command: networkQuality](https://twitter.com/justsitandgrin/status/1460286405578563595) ([Reddit](https://www.reddit.com/r/MacOS/comments/qxa933/builtin_network_bandwidth_test_tool_on_macos/))
 
 ## Code
 
@@ -216,3 +216,5 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Resources about macOS/iOS system security](https://github.com/houjingyi233/macOS-iOS-system-security)
 - [asitop](https://github.com/tlkh/asitop) - Performance monitoring CLI tool for Apple Silicon. ([Web](https://tlkh.github.io/asitop/))
 - [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM.
+- [macOS Optimizer](https://github.com/sickcodes/osx-optimizer) - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
+- [How to sync multiple macs (work/personal) (2021)](https://twitter.com/tenderlove/status/1461461938592878594)

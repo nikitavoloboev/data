@@ -143,3 +143,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Papers List Generation](https://papers-ai.vercel.app/) ([Code](https://github.com/flavioschneider/papers-ai))
 - [arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - Lighter-weight arxiv-sanity re-write.
 - [TextFrame](https://textframe.app/) - No-code tool to create animated technical papers. ([HN](https://news.ycombinator.com/item?id=29234636))
+- [Pulling Google Scholar Citation Counts with a Zotero Plugin for Sorting Papers (2021)](https://justinribeiro.com/chronicle/2021/11/17/pulling-google-scholar-citation-counts-with-a-zotero-plugin-for-sorting-papers/)

@@ -316,3 +316,4 @@
 - [3Blue1Brown - Puzzling through exact sequences (2021)](https://www.3blue1brown.com/blog/exact-sequence-picturebook) ([Tweet](https://twitter.com/3blue1brown/status/1458925301572857865))
 - [Higher Math for Beginners (1987)](https://archive.org/details/ZeldovichYaglomHigherMathematics) ([HN](https://news.ycombinator.com/item?id=29207021))
 - [Algebra: Chapter 0 by Paolo Aluffi (2009)](https://www.goodreads.com/en/book/show/6829004) ([Tweet](https://twitter.com/topoillogical/status/1460306431731810310))
+- [A friendly introduction to Principal Component Analysis (2020)](http://peterbloem.nl/blog/pca)

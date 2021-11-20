@@ -48,3 +48,4 @@
 - [Holmes](https://github.com/msg-systems/holmes-extractor) - Information extraction from English and German texts based on predicate logic.
 - [Unbabel](https://unbabel.com/) - Seamless Multilingual Translation Services.
 - [WantWords](https://wantwords.thunlp.org/) - Open-source online reverse dictionary. ([Code](https://github.com/thunlp/WantWords))
+- [Free Dictionary API](https://dictionaryapi.dev/) ([Code](https://github.com/meetDeveloper/freeDictionaryAPI))

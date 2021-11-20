@@ -21,3 +21,4 @@
 - [Publishing a Unity WebGL game from scratch in under 30 minutes (2021)](https://refactoring.ninja/posts/2021-07-15-publishing-a-unity-webgl-game-from-scratch-in-under-30-minutes/#premise)
 - [Unity Actions](https://github.com/game-ci/unity-actions) - Github actions for testing and building Unity projects.
 - [Unity Asset Store](https://assetstore.unity.com/) - Best Assets for Game Making.
+- [Unity, Weta, and Faceless Platforms (2021)](https://stratechery.com/2021/unity-weta-and-faceless-platforms/)

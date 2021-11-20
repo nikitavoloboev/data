@@ -42,7 +42,7 @@
 
 ## ML
 
-- [JAX](https://github.com/google/jax) - GPU- and TPU-backed NumPy with differentiation and JIT compilation. ([HN](https://news.ycombinator.com/item?id=22812312)) ([Docs](https://jax.readthedocs.io/en/latest/index.html)) ([JAX: accelerated machine learning research via composable function transformations in Python (2020)](https://www.youtube.com/watch?v=BzuEGdGHKjc))
+- [JAX](https://github.com/google/jax) - GPU- and TPU-backed NumPy with differentiation and JIT compilation. ([HN](https://news.ycombinator.com/item?id=22812312)) ([Docs](https://jax.readthedocs.io/en/latest/index.html)) ([JAX: accelerated machine learning research via composable function transformations in Python (2020)](https://www.youtube.com/watch?v=BzuEGdGHKjc)) ([Intro to JAX](https://www.youtube.com/watch?v=WdTeDXsOSj4))
 - [Autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [GluonTS](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python.
 - [GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python.
@@ -560,6 +560,7 @@
 - [Babel](https://github.com/python-babel/babel) - Python library that provides an integrated collection of utilities that assist with internationalizing and localizing Python applications.
 - [snoop](https://github.com/alexmojaki/snoop) - Powerful set of Python debugging tools, based on PySnooper.
 - [Acoular](https://github.com/acoular/acoular) - Library for acoustic beamforming.
+- [whey](https://github.com/repo-helper/whey) - Simple Python wheel builder for simple projects.
 
 ## Links
 
@@ -605,3 +606,4 @@
 - [Pyflow](https://github.com/David-OConnor/pyflow) - Installation and dependency system for Python.
 - [davos](https://github.com/ContextLab/davos) - Import packages in Python, even if they aren't installed.
 - [Speed up your Conda installs with Mamba (2021)](https://pythonspeed.com/articles/faster-conda-install/)
+- [pip-tools](https://github.com/jazzband/pip-tools) - Set of tools to keep your pinned Python dependencies fresh.

@@ -8,6 +8,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 
 ## Interesting dotfiles
 
+- [Ian Macalinao](https://github.com/macalinao/dotfiles)
 - [RiN](https://github.com/ri7nz/.dotifiles)
 - [Carlos Becker](https://github.com/caarlos0/dotfiles.fish)
 - [bluz71](https://github.com/bluz71/dotfiles) - Interesting vim setup.

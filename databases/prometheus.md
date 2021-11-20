@@ -52,3 +52,4 @@
 - [Writing a Prometheus exporter from IDE to deployed in 20 minutes (2021)](https://www.youtube.com/watch?v=2USCcDbbAZc)
 - [domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics.
 - [Google Cloud Managed Service for Prometheus (2021)](https://cloud.google.com/blog/products/operations/introducing-google-cloud-managed-service-for-prometheus) ([Tweet](https://twitter.com/rseroter/status/1460309366205153285))
+- [Prometheus Engine for GCP](https://github.com/GoogleCloudPlatform/prometheus-engine)

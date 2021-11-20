@@ -29,6 +29,13 @@
 - [kubelogin](https://github.com/int128/kubelogin) - Kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication.
 - [kubectl-kubesec](https://github.com/controlplaneio/kubectl-kubesec) - Security risk analysis for Kubernetes resources.
 - [kubectl janitor](https://github.com/dastergon/kubectl-janitor) - List Kubernetes objects in a problematic state.
+- [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator) - Kubernetes operator for managing Argo CD clusters.
+- [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets.
+- [kubectl-iexec](https://github.com/gabeduke/kubectl-iexec) - Kubectl plugin to interactively exec into a pod.
+
+## Helm Charts
+
+- [Victoria Metrics Helm Charts](https://github.com/VictoriaMetrics/helm-charts)
 
 ## Links
 

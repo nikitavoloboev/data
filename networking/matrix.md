@@ -9,6 +9,10 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [IRC](https://github.com/matrix-org/matrix-ircd)
 - [WhatsApp](https://github.com/tulir/mautrix-whatsapp)
 
+## Bots
+
+- [hebbot](https://github.com/haecker-felix/hebbot) - Matrix bot which can generate "This Week in X" like blog posts.
+
 ## Notes
 
 - Dendrite: You don't need to run Kafka unless working on distributed stuff. It is composed of several microservices (room server, sync api, media api...). Kafka is used to transfer messages between those microservices.

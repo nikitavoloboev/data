@@ -231,3 +231,5 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Is Dollar-Cost Averaging Better Than Lump-Sum Investing? (2020)](https://www.youtube.com/watch?v=nCp2bZbaBdw)
 - [Portfolio Performance](https://www.portfolio-performance.info/en/) - Open source tool to calculate the overall performance of an investment portfolio - across all accounts. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qtc4p5/portfolio_tracker_for_degiro_users/))
 - [Arbitrage as a Shortest Path Problem (2021)](https://blog.skz.dev/arbitrage-as-a-shortest-path-problem)
+- [Stocketa](https://stocketa.com/) - Premium portfolio tracker for iOS. ([Twitter](https://twitter.com/StocketaApp))
+- [Degiro](https://www.degiro.com/) - Online Stock Trading. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qxc47l/summary_of_degiro_new_fee_schedule_from_20122021/))

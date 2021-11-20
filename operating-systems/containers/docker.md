@@ -158,3 +158,4 @@
 - [go-dockerfile](https://github.com/dekkagaijin/go-dockerfile) - Utilities for interacting with Dockerfiles.
 - [The Case of the Failed Docker Connection](https://mysteries.wizardzines.com/docker-connection.html)
 - [regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [Composerize](https://www.composerize.com/) - Turns docker run commands into docker-compose files. ([Code](https://github.com/magicmark/composerize))

@@ -159,3 +159,5 @@
 - [Should Type Theory replace Set Theory as the Foundation of Mathematics (2021)](https://arxiv.org/abs/2111.06368)
 - [Implementation of a Zeilberger-style linear type theory](https://github.com/Trebor-Huang/agda-linear)
 - [TypicalMath](https://github.com/Trebor-Huang/typical-math) - General-purpose type theory and proof checker generator.
+- [Proofs and Types (1990)](http://www.paultaylor.eu/~pt/stable/Proofs+Types)
+- [EUTYPES-TYPES 2020 - Abstracts](https://types2020.di.unito.it/abstracts/BookOfAbstractsTYPES2020.pdf) ([Tweet](https://twitter.com/mietek/status/1461734839061676032))

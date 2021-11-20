@@ -115,3 +115,4 @@
 - [SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation (2020)](https://sites.google.com/view/softgym/home) ([Code](https://github.com/Xingyu-Lin/softgym))
 - [Conference of Robotic Learning 2021](https://www.youtube.com/watch?v=7cQMaXlxIP4)
 - [RoboStack](https://robostack.github.io/) - Bundling of the Robot Operating System (ROS) by Open Robotics. ([Paper](https://arxiv.org/abs/2104.12910)) ([Tweet](https://twitter.com/soumithchintala/status/1460132259114192897))
+- [Everyday Robots](https://everydayrobots.com/) - Helper robots that learn. ([Tweet](https://twitter.com/maxbraun/status/1461728438130204676))

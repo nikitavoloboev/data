@@ -60,3 +60,4 @@
 - [WebPush](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
 - [Elliptic Curves - Computerphile (2018)](https://www.youtube.com/watch?v=NF1pwjL9-DE)
 - [An Introduction to the Arithmetic of Elliptic Curves (2021)](https://www.youtube.com/playlist?list=PLYpVTXjEi1oe1OeAllJpNhFoI4B7Ws8Yl)
+- [Secret](https://github.com/fabiospampinato/secret) - Simplest command to encrypt/decrypt a file, useful for committing encrypted ".env" files to version control, among other things.

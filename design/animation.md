@@ -57,3 +57,5 @@
 - [Bringing back Cartoon Modern, a rare animation artbook (2021)](https://animationobsessive.substack.com/p/our-treat-to-you) ([HN](https://news.ycombinator.com/item?id=29075386))
 - [Towards an animation smoothness metric (2021)](https://web.dev/smoothness/)
 - [MakeItTalk: Speaker-Aware Talking-Head Animation (2020)](https://people.umass.edu/~yangzhou/MakeItTalk/) ([Code](https://github.com/czczup/URST)) ([Code](https://github.com/adobe-research/MakeItTalk))
+- [Free Practical Guide to Web Animation](https://tilda.education/en/web-animation-course)
+- [Editor and Presenter for Manim Generated Content](https://github.com/ManimCommunity/manim_editor)

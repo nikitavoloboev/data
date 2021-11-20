@@ -34,5 +34,6 @@
 - [Metal/MetalKit Glossary (2021)](http://ioloro.com/2021/01/18/metalmetalkit-glossary.html)
 - [Discover advances in Metal for A15 Bionic (2021)](https://developer.apple.com/videos/play/tech-talks/10876) ([Tweet](https://twitter.com/FlohOfWoe/status/1440273085328814090))
 - [MetalPetal](https://github.com/MetalPetal/MetalPetal) - GPU accelerated image and video processing framework built on Metal.
+- [MetalFilters](https://github.com/alexiscn/MetalFilters) - Instagram filters implemented in Metal.
 - [MetalEDR-iOS](https://github.com/Naituw/MetalEDR-iOS) - Demo of using Metal to render EDR / HDR content on iOS platform. ([Tweet](https://twitter.com/ChristianSelig/status/1450214423612862464))
 - [Metal Camera](https://github.com/gsurma/metal_camera) - iOS metal camera with GPU shaders.

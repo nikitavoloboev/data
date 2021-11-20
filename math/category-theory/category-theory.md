@@ -125,6 +125,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Further remarks on Bourbaki](https://www.dpmms.cam.ac.uk/~ardm/segal.pdf) ([Tweet](https://twitter.com/sigfpe/status/1453824591621541892))
 - [Category Theory relation to consciousness](https://github.com/drever/ct-consciousness)
 - [Thoughts on adjoint, norm and such](https://github.com/adamnemecek/adjoint)
+- [Category Theory Resources](https://github.com/bgavran/Category_Theory_Resources)
 
 ## Images
 

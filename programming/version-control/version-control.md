@@ -32,3 +32,4 @@
 - [BlackBox](https://github.com/StackExchange/blackbox) - Store secrets in a VCS repo.
 - [Stacked changes: how FB and Google engineers stay unblocked and ship faster (2021)](https://graphite.dev/blog/post/DThX8ffP1gmxWJChEv0y) ([HN](https://news.ycombinator.com/item?id=29255195))
 - [Graphite](https://graphite.dev/) - Fast, simple code review.
+- [elfshaker](https://github.com/elfshaker/elfshaker) - Low-footprint, high-performance version control system fine-tuned for binaries. ([HN](https://news.ycombinator.com/item?id=29276557))

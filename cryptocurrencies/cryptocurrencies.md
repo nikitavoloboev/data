@@ -1,8 +1,8 @@
 # Cryptocurrencies
 
-I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md)/[AVAX](https://www.avax.network/)/[Dfinity](https://dfinity.org/) are great distributed consensus systems for transacting assets and running code ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins/contracts ([Monero](monero.md)/[SRCT](https://scrt.network/)) to be most interesting use cases of crypto right now.
+I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md)/[AVAX](https://www.avax.network/)/[Dfinity](https://dfinity.org/) are great [distributed consensus systems for transacting assets and running code](https://twitter.com/levie/status/1461099049461981189) ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins/contracts ([Monero](monero.md)/[SRCT](https://scrt.network/)) to be most interesting use cases of crypto right now.
 
-It's unfortunate that a lot of [people/projects use these distributed ledgers as ponzi schemes](https://twitter.com/eddyb_r/status/1451679543702478860) or still use [super wasteful consensus systems](https://twitter.com/smdiehl/status/1350869944888664064) (like [Bitcoin](bitcoin.md)).
+It's unfortunate that a lot of people/projects use these distributed ledgers as [ponzi schemes](https://twitter.com/eddyb_r/status/1451679543702478860) or [wash trading](https://twitter.com/smdiehl/status/1461301086363529219) or still use [super wasteful consensus systems](https://twitter.com/smdiehl/status/1350869944888664064) (like [Bitcoin](bitcoin.md)).
 
 I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchange that lets me trade between FIAT/crypto.
 
@@ -15,7 +15,6 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices. ([Web](https://www.mobilecoin.com))
 - [zcoin](https://github.com/zcoinofficial/zcoin) - Privacy-focused cryptocurrency.
 - [dcc](https://github.com/PaulGustafson/dcc) - Proof of concept for a blockchain with variable hash functions for ASIC resistance. Decentralized cryptocurrency.
-- [Maker](https://makerdao.com/en/) - Comprised of a decentralized stablecoin, collateral loans, and community governance. ([Forum](https://forum.makerdao.com/))
 - [Celo](https://celo.org/) - Platform for fast, secure, stable digital payments. ([GitHub](https://github.com/celo-org)) ([Code](https://github.com/celo-org/celo-monorepo)) ([Celo Blockchain Code](https://github.com/celo-org/celo-blockchain))
 - [Reserve](https://reserve.org/) - Flexible pool of stablecoins designed to reduce risk through diversification and decentralized governance. ([HN](https://news.ycombinator.com/item?id=25899418))
 - [Bolt Labs](https://boltlabs.tech/) - Instant, cheap and private payments. ([GitHub](https://github.com/boltlabs-inc))
@@ -184,3 +183,9 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Securing Crypto with Gnosis Safe (2021)](https://medium.com/@mrkmcknz/securing-crypto-with-gnosis-safe-fd292eb99636) ([Tweet](https://twitter.com/mrkmcknz/status/1460371849875972096))
 - [Tips on keeping your crypto wallet safe (2021)](https://twitter.com/OrcatronEth/status/1457983343514030080)
 - [Cryptocurrencies: how regulators lost control (2021)](https://www.youtube.com/watch?v=CVsYMVHW17c) ([Tweet](https://twitter.com/SBF_FTX/status/1460658155101298690))
+- [70% of the volume in the top crypto exchanges is fraudulent wash trading (2021)](https://arxiv.org/abs/2108.10984) ([Tweet](https://twitter.com/smdiehl/status/1461301086363529219)) ([Reddit](https://www.reddit.com/r/Economics/comments/qx9z47/crypto_wash_trading_from_cornell_university/)) ([HN](https://news.ycombinator.com/item?id=29279146))
+- [10 years of whatever this has been (2021)](https://apenwarr.ca/log/20211117) ([HN](https://news.ycombinator.com/item?id=29261439))
+- [The Black Hole Effect of Uniswap on Algorithmic Stablecoins (2021)](https://ian.pw/posts/2021-01-17-black-hole-effect-of-uniswap-on-stablecoins)
+- [Understanding Compound protocol's interest rates (2020)](https://ian.pw/posts/2020-12-20-understanding-compound-protocols-interest-rates)
+- [Tally](https://tally.cash/) - Community owned & operated Web3 wallet. ([Code](https://github.com/tallycash/tally-extension))
+- [Crypto devs have predisposition towards anti-pattern design (2021)](https://twitter.com/kevinsekniqi/status/1461730535848431619)

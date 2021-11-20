@@ -54,6 +54,7 @@
 - [Notion Go](https://github.com/kjk/notionapi)
 - [Notion Python](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [VK Go](https://github.com/SevereCloud/vksdk)
+- [VK Python](https://github.com/voronind/vk)
 - [Google Cloud](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python.
 - [Reddit Python](https://github.com/praw-dev/praw)
 - [Reddit Go](https://github.com/vartanbeno/go-reddit)
@@ -124,6 +125,7 @@
 - [GitLab Node](https://github.com/jdalrymple/gitbeaker) - GitLab API NodeJS library with full support of all the Gitlab API services.
 - [GitLab Go](https://github.com/xanzy/go-gitlab)
 - [GitLab Go 2](https://github.com/profclems/glab)
+- [N26 Go](https://github.com/nhatthm/n26api)
 - [GCP Haskell](https://github.com/brendanhay/gogol) - Comprehensive Google Services SDK for Haskell.
 - [Robintrack](https://github.com/Ameobea/robintrack) - Scrapes the Robinhood API to retrieve + store popularity and price data. ([Web](http://robintrack.net/))
 - [OpenAI API](https://beta.openai.com/) ([HN](https://news.ycombinator.com/item?id=23489653))

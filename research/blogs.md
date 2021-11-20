@@ -171,3 +171,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Blogging for Business Course](https://ahrefs.com/academy/blogging-for-business)
 - [Salto](https://www.salto.so/) - Build a programming blog without the hassle.
 - [Ask HN: What are some great engineering blogs? (2021)](https://news.ycombinator.com/item?id=29237308)
+- [Ask HN: What makes a good engineering blog? (2021)](https://news.ycombinator.com/item?id=29264754)

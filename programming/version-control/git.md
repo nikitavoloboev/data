@@ -381,7 +381,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [When it comes to git history, less is more (2021)](https://brennan.io/2021/06/15/git-less-is-more/) ([Lobsters](https://lobste.rs/s/b9pddy/when_it_comes_git_history_less_is_more)) ([HN](https://news.ycombinator.com/item?id=27643057))
 - [Git undo: We can do better (2021)](https://blog.waleedkhan.name/git-undo/) ([HN](https://news.ycombinator.com/item?id=27579701))
 - [Collection of Useful .gitattributes Templates](https://github.com/alexkaratarakis/gitattributes)
-- [git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git. Suite of tools to help you visualize, navigate, manipulate, and repair your commit history.
+- [git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git. Suite of tools to help you visualize, navigate, manipulate, and repair your commit history. ([Lobsters](https://lobste.rs/s/rqphcq/git_branchless_high_velocity_monorepo))
 - [No Code Reviews by Default (2021)](https://raycast.com/blog/no-code-reviews-by-default/) ([HN](https://news.ycombinator.com/item?id=27606066))
 - [git-sync](https://github.com/kubernetes/git-sync) - Simple command that pulls a git repository into a local directory. Keeps it in sync with the upstream.
 - [git-peek](https://github.com/Jarred-Sumner/git-peek) - Open a remote git repository in your local text editor.

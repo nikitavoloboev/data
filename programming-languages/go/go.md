@@ -619,3 +619,5 @@ if err != nil {
 - [GOMODEST](https://github.com/adnaan/gomodest-starter) - Complex SAAS starter kit using Go, the HTML/template package, and sprinkles of JS. ([Article](https://adnaan.badr.in/blog/2020/12/24/go-modest/)) ([Template](https://github.com/adnaan/gomodest-template))
 - [Berkeley Packet Filter in Go (2021)](https://riyazali.net/posts/berkeley-packet-filter-in-golang/)
 - [Using interfaces in Go (2021)](https://riyazali.net/posts/using-interfaces-in-go/)
+- [go2cpp](https://github.com/hajimehoshi/go2cpp) - Converter from Go to C++.
+- [Go Race Detector (2013)](https://go.dev/blog/race-detector) ([Tweet](https://twitter.com/jboursiquot/status/1461717148435243009))

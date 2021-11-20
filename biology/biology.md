@@ -92,3 +92,5 @@
 - [Conception](https://conception.bio/) - Turning stem cells into human eggs. ([HN](https://news.ycombinator.com/item?id=29040823)) ([Article](https://www.technologyreview.com/2021/10/28/1038172/conception-eggs-reproduction-vitro-gametogenesis/))
 - [OpenWorm](https://openworm.org/) - Open-source project dedicated to creating a virtual C. elegans nematode in a computer. ([Code](https://github.com/openworm/OpenWorm)) ([HN](https://news.ycombinator.com/item?id=29045198))
 - [The secret lives of cells – as never seen before](https://www.nature.com/articles/d41586-021-02904-w) ([HN](https://news.ycombinator.com/item?id=29123843))
+- [How to Synbio](https://github.com/TimothyStiles/how-to-synbio) - Resources I always recommend to new synthetic biologists.
+- [Poly](https://github.com/TimothyStiles/poly) - Go package for engineering organisms.

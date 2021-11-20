@@ -171,3 +171,5 @@ All active variables can be seen by running `env`.
 - [Useful sed scripts & patterns](https://github.com/adrianscheff/useful-sed) ([HN](https://news.ycombinator.com/item?id=29196221))
 - [nhi](https://github.com/strang1ato/nhi) - Capture every information about each executed command. ([HN](https://news.ycombinator.com/item?id=29205169))
 - [Demo Magic](https://github.com/paxtonhare/demo-magic) - Handy shell script that enables you to write repeatable demos in a bash environment.
+- [Tiny Shell (tish)](https://github.com/shibukawa/tish) - Written in Go.
+- [terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML. ([Web](http://buildkite.github.io/terminal-to-html/))

@@ -100,3 +100,10 @@
 - [Durable Objects Counter template](https://github.com/cloudflare/durable-objects-rollup-esm)
 - [JavaScript modules are now supported on Cloudflare Workers (2021)](https://blog.cloudflare.com/workers-javascript-modules/)
 - [Cloudflare Pages Goes Full Stack (2021)](https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/) ([HN](https://news.ycombinator.com/item?id=29253032))
+- [Image sharing platform build with Cloudflare Pages](https://github.com/cloudflare/images.pages.dev) - Powered by Cloudflare Workers.
+- [Developer Spotlight: Automating Workflows with Airtable and Cloudflare Workers (2021)](https://blog.cloudflare.com/developer-spotlight-jacob-hands-tritails/)
+- [graphql-ws on Cloudflare Workers](https://github.com/enisdenjo/cloudflare-worker-graphql-ws-template) - Template for WebSockets powered Cloudflare Worker project using graphql-ws.
+- [Cloudflare Stream/Images/SaaS explained (2021)](https://twitter.com/signalnerve/status/1461729892983353347)
+- [Announcing native support for Stripe’s JavaScript SDK in Cloudflare Workers (2021)](https://blog.cloudflare.com/announcing-stripe-support-in-workers/)
+- [Example SaaS application built in public on the Cloudflare stack](https://github.com/cloudflare/production-saas) ([Article](https://blog.cloudflare.com/production-saas-intro/))
+- [github-proxy](https://github.com/mchaNetwork/github-proxy) - GitHub proxy running on Cloudflare Workers.

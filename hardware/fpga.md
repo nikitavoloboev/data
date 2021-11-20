@@ -69,3 +69,6 @@
 - [Partial implementation of Knuth's MMIX processor (FPGA softcore)](https://github.com/tommythorn/fpgammix)
 - [hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning in FPGAs using HLS. ([Docs](https://fastmachinelearning.org/hls4ml/))
 - [Charbel](https://github.com/m1kal/charbel) - Write synthesizable FPGA code with Clojure syntax.
+- [Renesas enters FPGA market with the first ultra-low-power, low-cost family (2021)](https://www.renesas.com/us/en/about/press-room/renesas-enters-fpga-market-first-ultra-low-power-low-cost-family-addressing-low-density-high-volume) ([HN](https://news.ycombinator.com/item?id=29261574))
+- [fpga_puf](https://github.com/stnolting/fpga_puf) - Technology-agnostic Physical Unclonable Function (PUF) hardware module for any FPGA.
+- [PiDRAM: A Holistic End-to-end FPGA-based Framework for Processing-in-DRAM (2021)](https://arxiv.org/abs/2111.00082) ([Code](https://github.com/CMU-SAFARI/PiDRAM))

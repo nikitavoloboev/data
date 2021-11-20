@@ -93,3 +93,6 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Is public education compatible with free speech? (2021)](https://www.youtube.com/watch?v=_7zMtX0W82s) ([Tweet](https://twitter.com/shlevy/status/1455993055400628232))
 - [Helping students with pair programming (2021)](https://offbyone.us/posts/pairing/) ([HN](https://news.ycombinator.com/item?id=29129378))
 - [teach-in - YouTube](https://www.youtube.com/c/NAUKA0/playlists)
+- [Things You Are Allowed To Do, Academic Edition (2021)](https://bastian.rieck.me/blog/posts/2021/things/)
+- [Ask HN: Why is there no good open-source LMS? (2021)](https://news.ycombinator.com/item?id=29275470)
+- [Pupilfirst](https://www.pupilfirst.com/) - Online Teaching Platform & LMS. ([Code](https://github.com/pupilfirst/pupilfirst))

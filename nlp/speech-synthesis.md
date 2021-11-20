@@ -44,3 +44,6 @@
 - [Speech Resynthesis from Discrete Disentangled Self-Supervised Representations (2021)](https://arxiv.org/abs/2104.00355) ([Code](https://github.com/facebookresearch/speech-resynthesis))
 - [Neural Lexicon Reader: Reduce Pronunciation Errors in End-to-end TTS by Leveraging External Textual Knowledge (2021)](https://arxiv.org/abs/2110.09698) ([Code](https://github.com/mutiann/neural-lexicon-reader))
 - [Grail-rs](https://github.com/Dimev/grail-rs) - Rust speech synth.
+- [RAVE: A variational autoencoder for fast and high-quality neural audio synthesis (2021)](https://arxiv.org/abs/2111.05011) ([Code](https://github.com/caillonantoine/RAVE))
+- [WaveFlow: A Compact Flow-based Model for Raw Audio (2020)](https://arxiv.org/abs/1912.01219) ([Code](https://github.com/L0SG/WaveFlow))
+- [VoiceFixer](https://github.com/haoheliu/voicefixer_main) - Framework for general speech restoration.

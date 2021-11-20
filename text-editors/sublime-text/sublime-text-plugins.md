@@ -81,3 +81,5 @@ Below is a list of plugins I use.
 - [GitGutter](https://github.com/jisaacks/GitGutter) - See git diff in gutter.
 - [Package Control](https://packagecontrol.io/) - Sublime Text package manager.
 - [Sublime Packages](https://github.com/sublimehq/Packages)
+- [Package Control Default Channel](https://github.com/wbond/package_control_channel)
+- [Docs - Package Control](https://packagecontrol.io/docs#Package_Developers)

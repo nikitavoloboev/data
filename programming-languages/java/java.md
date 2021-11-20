@@ -91,3 +91,4 @@
 - [Jython](https://github.com/jython/jython) - Python for the Java Platform. ([Web](https://www.jython.org/))
 - [JavaParser](https://github.com/javaparser/javaparser) - Set of libraries implementing a Java 1.0 - Java 15 Parser with advanced analysis functionalities. ([Web](https://javaparser.org/))
 - [Java Virtual Threads Preview (2021)](https://openjdk.java.net/jeps/8277131) ([HN](https://news.ycombinator.com/item?id=29236375))
+- [Bytecoder](https://github.com/mirkosertic/Bytecoder) - Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.

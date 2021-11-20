@@ -62,3 +62,4 @@
 - [ClusterFuzzLite](https://github.com/google/clusterfuzzlite) - Simple continuous fuzzing that runs in CI.
 - [Revizor](https://github.com/hw-sw-contracts/revizor) - Microarchitectural fuzzer. Searches for microarchitectural bugs in CPUs.
 - [OpenAPI fuzzer](https://github.com/matusf/openapi-fuzzer) - Fuzzing APIs based on OpenAPI specification. ([HN](https://news.ycombinator.com/item?id=29231804))
+- [FuzzBench](https://github.com/google/fuzzbench) - Fuzzer Benchmarking As a Service. ([Docs](https://google.github.io/fuzzbench/))

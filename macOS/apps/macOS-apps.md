@@ -13,7 +13,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
 - [LuLu](https://github.com/objective-see/LuLu) - Free macOS firewall. ([Web](https://objective-see.com/products/lulu.html)) ([HN](https://news.ycombinator.com/item?id=25743546))
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch the latest and greatest conference videos on your Mac.
-- [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac.
+- [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs on your Mac.
 - [Sourceful](https://github.com/twostraws/Sourceful) - Native source editor for iOS and macOS.
 - [Shifty](https://github.com/thompsonate/Shifty) - MacOS menu bar app that gives you more control over Night Shift.
 - [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application, gimp light.
@@ -115,6 +115,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Zavala](https://github.com/vincode-io/Zavala) - Dedicated outliner for macOS, iPadOS, and iOS.
 - [Pareto Mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
 - [Quick Draw](https://github.com/maxchuquimia/quickdraw) - macOS app for drawing over the screen.
+- [Ultra for Music](https://github.com/revblaze/AppleMusicUltra) - Music Client for macOS.
 
 ## Other interesting apps
 

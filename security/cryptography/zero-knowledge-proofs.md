@@ -46,3 +46,5 @@
 - [arkworks::std](https://github.com/arkworks-rs/std) - Standard library wrapper for use in the `arkworks` ecosystem.
 - [Proof Systems](https://github.com/o1-labs/proof-systems) - Contains various zk-SNARK protocol implementations for recursive SNARK composition.
 - [Polygon Miden](https://github.com/maticnetwork/miden) - Zero-knowledge virtual machine written in Rust.
+- [Plonky](https://github.com/mir-protocol/plonky) - Recursive SNARKs based on Plonk and Halo.
+- [Mir Protocol](https://mirprotocol.org/) - Open-source platform that allows anyone to run private and scalable decentralized applications / ZKP-powered. ([Twitter](https://twitter.com/mirprotocol))

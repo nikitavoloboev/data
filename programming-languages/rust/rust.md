@@ -624,3 +624,5 @@
 - [SIMD explained using waffles](https://www.reddit.com/r/rust/comments/qucind/stdsimd_is_now_available_on_nightly/hkpy4y4/)
 - [How to find difference between sum and product types (2021)](https://twitter.com/pcwalton/status/1460446159265165316)
 - [The Little Book of Rust Books](https://lborb.github.io/book/) - Catalogue of Rust mdbooks. ([Code](https://github.com/lborb/book))
+- [Rust Edition Guide](https://doc.rust-lang.org/stable/edition-guide/) - Guide to changes between various editions of Rust. ([Code](https://github.com/rust-lang/edition-guide))
+- [Beginner's Series to Rust](https://github.com/microsoft/beginners-series-rust)

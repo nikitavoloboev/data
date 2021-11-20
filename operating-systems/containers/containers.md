@@ -149,3 +149,5 @@
 - [squish](https://github.com/queer/squish) - Experimental, rootless, Alpine-based container runtime.
 - [Scaling containers in AWS (2021)](https://www.vladionescu.me/posts/scaling-containers-in-aws/)
 - [Reasons to choose VMs over containers? (2021)](https://www.reddit.com/r/devops/comments/qvzrkm/are_there_any_reasons_to_choose_vms_over/)
+- [OCI Distribution in Rust](https://github.com/krustlet/oci-distribution) - Goal of this crate is to provide a way to pull WASM modules from a Docker registry.
+- [Learning Containers From The Bottom Up (2021)](https://iximiuz.com/en/posts/container-learning-path/)

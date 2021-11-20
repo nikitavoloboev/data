@@ -305,3 +305,5 @@ Awesome List
 - [Archive of GitHub Trending](https://github.com/larsbijl/trending_archive)
 - [GitMan](https://github.com/fabiospampinato/gitman) - Simple yet powerful opinionated tool for managing GitHub repositories.
 - [Meet the Fans](https://github.com/evoluteur/meet-the-fans) - Query and Visualize the network graph of your GitHub repositories, followers, stargazers, and forks.
+- [ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory.
+- [stargazers](https://github.com/spencerkimball/stargazers) - Illuminate your GitHub community by delving into your repo's stars.

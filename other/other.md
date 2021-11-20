@@ -557,3 +557,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Orwell Foundation](https://www.orwellfoundation.com/)
 - [Любимые цветы](https://twitter.com/elisavetaaaaaaa/status/1460637107790266378)
 - [Slant](https://www.slant.co/) - Product recommendation community. ([Discord](https://discord.com/invite/0dNv9Dc5KvI2cY54))
+- [Sandro's cheat sheet](https://github.com/SuperSandro2000/cheat-sheet)

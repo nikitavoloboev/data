@@ -116,3 +116,4 @@
 - [terraform-module-versions](https://github.com/keilerkonzept/terraform-module-versions) - CLI tool that checks Terraform code for module updates.
 - [Terraform Provider for ArgoCD](https://github.com/oboukili/terraform-provider-argocd)
 - [Terraform Controller](https://github.com/oam-dev/terraform-controller) - Kubernetes Controller for Terraform.
+- [m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip.

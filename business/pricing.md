@@ -69,3 +69,4 @@
 - [Apps are not coffee (2021)](https://ia.net/topics/on-apps-and-coffee)
 - [How to monetize fully decentralized, local-first, multiplayer, end-to-end encrypted Notion/Roam (2021)](https://twitter.com/ibdknox/status/1458099415462318080)
 - [4 things nobody tells you about preselling your product (2021)](https://stackingthebricks.com/4-things-preselling/) ([Tweet](https://twitter.com/JoshWComeau/status/1458903882231435265))
+- [I Analyzed SaaS Billing Dark Patterns (2021)](https://quolum.com/blog/saas/i-analyzed-saas-billing-dark-patterns/) ([HN](https://news.ycombinator.com/item?id=29255445))

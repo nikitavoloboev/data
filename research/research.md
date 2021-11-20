@@ -127,3 +127,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Why Can't I Reproduce Their Results? (2020)](https://theorangeduck.com/page/reproduce-their-results)
 - [It's hard to overstate what a scam academic and scientific publishing is](https://pluralistic.net/2021/10/28/clintons-ghost/#cornucopia-concordance) ([HN](https://news.ycombinator.com/item?id=29061356))
 - [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics)
+- [How to Research Almost Anything](https://github.com/TimothyStiles/how-to-research-almost-anything) - Three part tutorial series on how to access all of the MOOCs, books, and scientific papers.

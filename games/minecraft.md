@@ -80,3 +80,7 @@
 - [lazymc](https://github.com/timvisee/lazymc) - Put your Minecraft server to rest when idle.
 - [The Metaverse Is Already Here — It’s Minecraft (2021)](https://debugger.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2)
 - [Run Minecraft on Apple Silicon](https://github.com/ezfe/m1craft)
+- [PGM](https://github.com/PGMDev/PGM) - PvP Game Manager for Minecraft. ([Docs](https://pgm.dev/))
+- [mojang-api](https://github.com/Electroid/mojang-api) - Bundle multiple Minecraft APIs into a single GET request.
+- [Replicating Minecraft World Generation in Python (2021)](https://towardsdatascience.com/replicating-minecraft-world-generation-in-python-1b491bc9b9a4)
+- [Three.js powered Minecraft skin viewer](https://bs-community.github.io/skinview3d/) ([Code](https://github.com/bs-community/skinview3d))

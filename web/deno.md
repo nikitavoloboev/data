@@ -90,7 +90,7 @@
 - [The Deno Company (2021)](https://deno.com/blog/the-deno-company) ([HN](https://news.ycombinator.com/item?id=26620116)) ([Reddit](https://www.reddit.com/r/rust/comments/mg8d0y/announcing_the_deno_company/))
 - [Sift](https://github.com/satyarohith/sift) - Routing library for Deno Deploy.
 - [deployctl](https://github.com/denoland/deployctl) - Command line tool for Deno Deploy.
-- [aws_api](https://github.com/cloudydeno/deno-aws_api) - From-scratch Typescript AWS API client built for Deno.
+- [aws_api](https://github.com/cloudydeno/deno-aws_api) - AWS SDK for Deno. ([Web](https://aws-api.deno.dev/))
 - [Custom Stack](https://github.com/ihack2712/cstack) - Create custom cool errors in Deno.
 - [Onyx Deno](https://github.com/oslabs-beta/onyx) - Onyx is authentication middleware for Deno.
 - [Vercel Deno](https://github.com/TooTallNate/vercel-deno) - Vercel Runtime for Deno serverless functions.
@@ -145,3 +145,4 @@
 - [crux.land](https://crux.land/) - Free open-source registry for permanently hosting small scripts. ([Code](https://github.com/denosaurs/crux.land))
 - [deno2node](https://github.com/wojpawlik/deno2node) - Transpiles Deno projects into .js and .d.ts for Node.js.
 - [bertml](https://github.com/sno2/bertml) - Use common pre-trained ML models in Deno.
+- [deno_notify](https://github.com/Pandawan/deno_notify) - Send desktop notifications on all platforms in Deno.

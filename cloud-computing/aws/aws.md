@@ -249,3 +249,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Events and Webinars](https://aws.amazon.com/events/) ([AWS Conferences One-Pagers](https://github.com/zoph-io/awscon-onepager))
 - [Answering some misconceptions about AWS Cloud Development Kit (2020)](https://nathanpeck.com/some-misconceptions-about-aws-cloud-development-kit/)
 - [Flowchart: How should I run containers on AWS? (2021)](https://www.vladionescu.me/posts/flowchart-how-should-i-run-containers-on-aws-2021/)
+- [AWS Load Balancer Controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - Controller to help manage Elastic Load Balancers for a Kubernetes cluster.

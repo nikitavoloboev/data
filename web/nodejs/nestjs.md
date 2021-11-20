@@ -13,3 +13,4 @@
 - [NestJS Shell](https://github.com/bmstefanski/nestjs-shell) - Interactive shell for NestJS which allows you to plug-in your custom commands and use them when the app's running.
 - [NestJS npm Library Template](https://github.com/bzuker/nestjs-library-template)
 - [NestJS TypeScript, Prisma, Apollo Server GraphQL project](https://github.com/MileTwo/nestjs-gql-prisma)
+- [nestjs-sentry](https://github.com/ntegral/nestjs-sentry) - Provides an injectable sentry.io client to provide enterprise logging nestjs modules.

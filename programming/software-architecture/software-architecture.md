@@ -117,7 +117,7 @@
 - [BrainBoard](https://www.brainboard.co/) - Design, Deploy and Depict powerful architectures.
 - [Uber’s Real-Time Push Platform (2020)](https://eng.uber.com/real-time-push-platform/) ([HN](https://news.ycombinator.com/item?id=25592127))
 - [Defold engine code overview (2020)](https://defold.com/2020/12/27/engine-overview-pt1/) ([HN](https://news.ycombinator.com/item?id=25569224))
-- [System Design Interview - An Insider's Guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide) ([Review](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)) ([HN](https://news.ycombinator.com/item?id=25647025))
+- [System Design Interview - An Insider's Guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide) ([Review](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)) ([HN](https://news.ycombinator.com/item?id=25647025)) ([Review](https://ahmet.im/blog/system-design-book-review/))
 - [Great Ideas in Computer Architecture (Machine Structures) Course (2020)](https://cs61c.org/fa20/)
 - [A Simple and Efficient Real Time Application Powered by Materialize’s TAIL Command (2021)](https://materialize.com/a-simple-and-efficient-real-time-application-powered-by-materializes-tail-command/)
 - [Behaviors to avoid in a software architecture role](https://www.danielwatts.info/post/7-behaviours-to-avoid-software-architect/) ([HN](https://news.ycombinator.com/item?id=26002543))

@@ -130,3 +130,4 @@
 - [Documentation could be so much better (2021)](https://buttondown.email/hillelwayne/archive/documentation-could-be-so-much-better/)
 - [Best developer doc examples (2021)](https://twitter.com/alexellisuk/status/1458776636040560648)
 - [Documenting Architecture Decisions (2011)](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
+- [Ask HN: What are you using for public documentation these days? (2021)](https://news.ycombinator.com/item?id=29264374)

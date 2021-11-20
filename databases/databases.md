@@ -179,6 +179,7 @@
 - [Amazon Timestream](https://aws.amazon.com/timestream/) - Fast, scalable, serverless time series database. ([Tools and Samples](https://github.com/awslabs/amazon-timestream-tools))
 - [Hive](https://github.com/hivedb/hive) - Lightweight and blazing fast key-value database written in pure Dart. ([Docs](https://docs.hivedb.dev/#/))
 - [Couchbase Lite for iOS and MacOS](https://github.com/couchbase/couchbase-lite-ios) - Lightweight, embedded, syncable NoSQL database engine for iOS and MacOS apps.
+- [Kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
 
 ## Tools
 
@@ -473,3 +474,4 @@
 - [How do/would you approach storing "likes"? (2021)](https://twitter.com/techgirl1908/status/1459281360498089988)
 - [The Story behind The Truth: Designing a Data Model (2018)](https://ourmachinery.com/post/the-story-behind-the-truth-designing-a-data-model/)
 - [I hate databases (2021)](https://b.amy.gg/i-hate-databases)
+- [Flags v. gates (2021)](https://brandur.org/fragments/flags-v-gates)

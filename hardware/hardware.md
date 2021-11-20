@@ -76,7 +76,7 @@
 - [Home Network Overview (2020)](https://shipilev.net/labs/network-de/)
 - [Nintendo DS Architecture](https://www.copetti.org/projects/consoles/nintendo-ds/) ([HN](https://news.ycombinator.com/item?id=24195751))
 - [Digital Design and Computer Architecture course (2020)](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php) ([Lectures](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2))
-- [SAFARI Research Group](https://safari.ethz.ch/) - Part of the Institute for High Performance Computing Systems in the Department of Computer Science at ETH Zurich.
+- [SAFARI Research Group](https://safari.ethz.ch/) - Part of the Institute for High Performance Computing Systems in the Department of Computer Science at ETH Zurich. ([GitHub](https://github.com/CMU-SAFARI))
 - [Mantis: Reactive Programmable Switches](http://vincen.tl/files/mantis-sigcomm20.pdf)
 - [Computer Architecture Takeaways (2020)](https://venam.nixers.net/blog/programming/2020/08/24/computer-architecture.html)
 - [XLS: Accelerated HW Synthesis](https://github.com/google/xls) - - Aims to enable the rapid development of hardware IP that also runs as efficient host software via "software style" methodology. ([Docs](https://google.github.io/xls/))
@@ -252,3 +252,4 @@
 - [How do hardware timers work? (2021)](https://www.youtube.com/watch?v=g_koa00MBLg) ([Reddit](https://www.reddit.com/r/programming/comments/qt2wr6/ben_eater_how_do_hardware_timers_work/))
 - [Exploring the Processing-in-Memory Paradigm for Future Computing Systems](https://safari.ethz.ch/projects_and_seminars/fall2021/doku.php?id=processing_in_memory) ([Tweet](https://twitter.com/el1goluj/status/1459864658123309058))
 - [Blacksmith – Rowhammer bit flips on all DRAM devices today despite mitigations](https://comsec.ethz.ch/research/dram/blacksmith/) ([HN](https://news.ycombinator.com/item?id=29229200))
+- [80386DX ISA single board microcomputer](https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html) ([HN](https://news.ycombinator.com/item?id=29273829))

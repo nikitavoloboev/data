@@ -114,3 +114,5 @@
 - [Tequila](https://github.com/tequilahub/tequila) - Rapid development of novel quantum algorithms. ([Tutorials](https://github.com/tequilahub/tequila-tutorials))
 - [IBM unveils 127-qubit quantum processor (2021)](https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor) ([HN](https://news.ycombinator.com/item?id=29244732)) ([Reddit](https://www.reddit.com/r/Physics/comments/qv81ux/ibm_quantum_breaks_the_100qubit_processor_barrier/))
 - [Scott Aaronson, when reached for comment, said (2021)](https://scottaaronson.blog/?p=6111) ([HN](https://news.ycombinator.com/item?id=29247753))
+- [How Quantum Computers Will Correct Their Errors (2021)](https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/)
+- [Autonomous Quantum Error Correction in a Bosonic Qubit | Qiskit Seminar Series with Chen Wang (2021)](https://www.youtube.com/watch?v=q4wOhKNxDxs)

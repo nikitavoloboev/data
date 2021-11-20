@@ -94,6 +94,7 @@
 - [Study finds a difference between neurons of humans and other mammals (2021)](https://www.nature.com/articles/s41586-021-04072-3) ([HN](https://news.ycombinator.com/item?id=29213806))
 - [Do mirror neurons explain understanding, or is it the other way round? (2013)](https://yohanjohn.com/neurologism/do-mirror-neurons-explain-understanding-or-is-it-the-other-way-round/)
 - [To Be Energy-Efficient, Brains Predict Their Perceptions (2021)](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
+- [Extent of myosin penetration within the actin cortex regulates cell surface mechanics (2021)](https://www.nature.com/articles/s41467-021-26611-2) ([Tweet](https://twitter.com/PaluchLab/status/1461288840136691716))
 
 ## Images
 

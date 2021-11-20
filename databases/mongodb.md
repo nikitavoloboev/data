@@ -27,3 +27,5 @@
 - [MangoDB](https://www.mangodb.io/) - Truly open-source MongoDB alternative. ([HN](https://news.ycombinator.com/item?id=29071623)) ([Code](https://github.com/MangoDB-io/MangoDB))
 - [fastify-mongodb](https://github.com/fastify/fastify-mongodb) - Fastify MongoDB connection plugin.
 - [sqlite2mongo](https://github.com/J-F-Liu/sqlite2mongo) - Import sqlite database to mongodb.
+- [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB driver for Deno.
+- [Mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment. ([Web](https://mongoosejs.com/))

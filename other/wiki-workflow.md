@@ -419,3 +419,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [How to build a second brain as a software developer (2021)](https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/) ([HN](https://news.ycombinator.com/item?id=29188418))
 - [ff](https://github.com/ff-notes/ff) - Distributed note taker and task manager.
 - [Learn In Public](https://www.swyx.io/learn-in-public/)
+- [unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - Local-first and universal graph database, knowledge engine, and workspace for your life.

@@ -73,3 +73,4 @@
 - [TatSu Jobs](https://github.com/neogeny/TatSu) - Generates Python parsers from grammars in a variation of EBNF.
 - [Progger](https://github.com/Jezza/progger) - Simple set of parser and lexer tools. Built on top of logos and bumpalo.
 - [Types of Parser Combinators (2021)](https://sgt.hootr.club/molten-matter/types-of-parser-combinators/) ([Lobsters](https://lobste.rs/s/5agmsv/types_parser_combinators)) ([HN](https://news.ycombinator.com/item?id=29246227))
+- [Parsing Permutations (2021)](https://blog.drewolson.org/parsing-permutations)

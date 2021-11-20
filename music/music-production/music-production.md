@@ -282,3 +282,5 @@
 - [Samplescope](https://samplescope.app/) - App to search audio samples over internet. ([Code](https://github.com/jamland/samplescope))
 - [Music Classification: Beyond Supervised Learning, Towards Real-world Applications](https://github.com/music-classification/tutorial)
 - [Livecoding the Elektron Octatrack with ORCΛ (2021)](https://www.youtube.com/watch?v=moASjsWeLMQ)
+- [PianoBooster](https://www.pianobooster.org/) - MIDI file player that displays the musical notes AND teaches you how to play the piano. ([Code](https://github.com/pianobooster/PianoBooster))
+- [The Carefully Crafted Narrative of Taylor Swift | Video Essay (2020)](https://www.youtube.com/watch?v=w2XtejIt4p8)

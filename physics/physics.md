@@ -254,3 +254,6 @@
 - [MIT Introduction to Special Relativity (2021)](https://ocw.mit.edu/courses/physics/8-20-introduction-to-special-relativity-january-iap-2021/index.htm)
 - [What does it mean for light to be a wave? (2021)](https://www.reddit.com/r/quantum/comments/qsrbi1/what_does_it_mean_for_light_to_be_a_wave/)
 - [Invariant Tensors in Gauge Theories (2018)](https://arxiv.org/abs/1806.04332) ([Tweet](https://twitter.com/SamuelGWalters/status/1459828154546065411))
+- [Five mysteries the Standard Model can’t explain (2021)](https://www.symmetrymagazine.org/article/five-mysteries-the-standard-model-cant-explain) ([HN](https://news.ycombinator.com/item?id=29264091))
+- [Symmetry Magazine](https://www.symmetrymagazine.org/) - Dimensions of particle physics.
+- [Ultracold, superdense atoms become invisible (2021)](https://news.mit.edu/2021/atoms-ultracold-scatter-light-1118) ([HN](https://news.ycombinator.com/item?id=29280780))

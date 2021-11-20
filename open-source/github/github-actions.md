@@ -134,6 +134,8 @@
 - [install-binary-action](https://github.com/giantswarm/install-binary-action) - GitHub action installing a binary from a tarball behind URL.
 - [datadog-actions-metrics](https://github.com/int128/datadog-actions-metrics) - Send GitHub Actions metrics to Datadog.
 - [kustomize-action](https://github.com/int128/kustomize-action) - GitHub Action to run kustomize build in parallel.
+- [git-auto-commit](https://github.com/stefanzweifel/git-auto-commit-action) - GitHub Action to detect changed files during a Workflow run and to commit and push them back to the GitHub repository.
+- [PuRe Bot](https://github.com/syndesisio/pure-bot) - Pull Request Bot to automate development workflow.
 
 ## Go
 
@@ -201,6 +203,7 @@
 - [Code for all Docker's github actions](https://github.com/docker/github-actions)
 - [setup-kind](https://github.com/engineerd/setup-kind) - Setup KinD (Kubernetes in Docker) with a single GitHub Action.
 - [GitHub Action to set up Docker Buildx](https://github.com/docker/setup-buildx-action)
+- [bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command.
 
 ## Nix
 

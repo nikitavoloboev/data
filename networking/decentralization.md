@@ -110,10 +110,13 @@
 - [Which classic web property would make great sense re-imagined in web3 terms (token + DAO with community incentives) (2021)](https://twitter.com/sriramk/status/1457063383992176643)
 - [Fission](https://fission.codes/) - Bringing decentralized web tech to all devs by solving today’s challenges. ([Twitter](https://twitter.com/FISSIONcodes)) ([CLI & server](https://github.com/fission-suite/fission))
 - [Web3 Ecosystem Overview (2021)](https://twitter.com/yb_effect/status/1458129586428932103)
-- [Notes on Web3: Meager counterweight to the growing hype (2021)](https://society.robinsloan.com/archive/notes-on-web3/) ([Tweet](https://twitter.com/rich_harris/status/1458815995523514372))
+- [Notes on Web3: Meager counterweight to the growing hype (2021)](https://society.robinsloan.com/archive/notes-on-web3/) ([Tweet](https://twitter.com/rich_harris/status/1458815995523514372)) ([HN](https://news.ycombinator.com/item?id=29270718))
 - [On falling down the rabbit hole (web3) (2021)](https://mirror.xyz/theodorachu.eth/TJU1w2Z49KvzcrKnPEwJodTvBDWLLyjtWKXvhrFz1Rs) ([Tweet](https://twitter.com/chu_onthis/status/1459619112003555328))
 - [locutus](https://github.com/freenet/locutus) - Distributed, decentralized, key-value store in which keys are cryptographic contracts that determine what values are valid under that key.
 - [Web3 is about networks — new kinds defined by ownership (2021)](https://twitter.com/natemodi/status/1459963479637385221)
 - [Web3 Podcast - How Miguel Piedrafita Shipped 160 Apps By 19 Years Old, Pivoted To Web3 and How You Can Get Started In It Too](https://web3.career/podcast/miguel-piedrafita)
 - [Why Web3 is going to be transformational (composing state) (2021)](https://twitter.com/jaltma/status/1459967934046953475)
 - [Decentralized Woo Hoo (2021)](https://www.stephendiehl.com/blog/decentralized-woo.html) ([HN](https://news.ycombinator.com/item?id=29240785))
+- [DIDKit](https://github.com/spruceid/didkit) - Cross-platform toolkit for decentralized identity. ([Docs](https://spruceid.dev/docs/didkit/))
+- [SSI](https://github.com/spruceid/ssi) - Core Verifiable Credential and Decentralized Identifier functionality in Rust.
+- [Decentralised Tech & the Future of Organising (2021)](https://richdecibels.substack.com/p/9-decentralised-tech-and-the-future) ([Tweet](https://twitter.com/RichDecibels/status/1461698873974575106))

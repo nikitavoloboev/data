@@ -52,6 +52,8 @@
 - [opts](https://github.com/jpillora/opts) - Building frictionless command-line interfaces.
 - [Cobra](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions. ([Web](https://cobra.dev/)) ([cobrautil](https://github.com/jzelinskie/cobrautil))
 - [oauth2cli](https://github.com/int128/oauth2cli) - Go package of OAuth 2.0 authorization for command line tools, which allows simple authorization flow for better UX.
+- [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications.
+- [acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
 
 ## Test
 
@@ -89,6 +91,8 @@
 - [Testify](https://github.com/stretchr/testify) - Toolkit with common assertions and mocks that plays nicely with the standard library.
 - [testify-rules](https://github.com/tdakkota/testify-rules) - Ruleguard ruleset bundle for testify.
 - [httpx](https://github.com/riyaz-ali/httpx) - Simple and expressive HTTP testing framework.
+- [httpmock](https://github.com/nhatthm/httpmock) - Mock library implementing httptest.Server to support HTTP behavioral tests.
+- [clock](https://github.com/benbjohnson/clock) - Small library for mocking time in Go.
 
 ## Web
 
@@ -212,6 +216,8 @@
 - [h2conn](https://github.com/posener/h2conn) - HTTP2 client-server full-duplex connection.
 - [go-sockaddr](https://github.com/hashicorp/go-sockaddr) - IP Address/UNIX Socket convenience functions.
 - [go-webview2](https://github.com/jchv/go-webview2) - WebView2 bindings for pure Go, without CGo, based on the webview/webview bindings.
+- [Redeo](https://github.com/bsm/redeo) - High-performance framework for building redis-protocol compatible TCP servers/services.
+- [httpin](https://github.com/ggicci/httpin) - HTTP Input for Go - Decode an HTTP request into a custom struct.
 
 ## GraphQL
 
@@ -358,6 +364,7 @@
 - [Secure Bytes](https://github.com/meehow/securebytes) - Take any Go data type, serialize it to JSON or GOB and encrypt it with AES.
 - [ec3](https://github.com/mmcloughlin/ec3) - Elliptic Curve Cryptography Compiler.
 - [XXH3](https://github.com/zeebo/xxh3) - XXH3 algorithm in Go.
+- [smt](https://github.com/celestiaorg/smt) - Go library that implements a Sparse Merkle tree for a key-value map.
 
 ## Linux
 
@@ -373,6 +380,7 @@
 - [Sysinfo](https://github.com/zcalusic/sysinfo) - Go library providing Linux OS / kernel / hardware system information.
 - [tenus](https://github.com/milosgajdos/tenus) - Allows you to configure and manage Linux network devices programmatically.
 - [CAN Go](https://github.com/einride/can-go) - Makes use of the Linux SocketCAN abstraction for CAN communication.
+- [ethtool](https://github.com/safchain/ethtool) - Simple access to the Linux SIOCETHTOOL ioctl operations.
 
 ## Apple
 
@@ -1082,6 +1090,15 @@
 - [mod](https://github.com/golang/mod) - Go module mechanics libraries.
 - [IAVL](https://github.com/cosmos/iavl) - Merkleized IAVL+ Tree implementation in Go.
 - [Pipeline](https://github.com/myntra/pipeline) - Package to build multi-staged concurrent workflows with a centralized logging output.
+- [randid](https://github.com/mattrobenolt/go-randid) - Alternative random id generation to UUID.
+- [SJSON](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go.
+- [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go.
+- [Roulette](https://github.com/myntra/roulette) - text/template based package which triggers actions from rules defined in an xml file.
+- [pond](https://github.com/alitto/pond) - Minimalistic and High-performance goroutine worker pool written in Go.
+- [localcache](https://github.com/alecthomas/localcache) - Local atomic cache manager.
+- [redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis.
+- [docconv](https://github.com/sajari/docconv) - Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text.
+- [parquet-go](https://github.com/fraugster/parquet-go) - Go package to read and write parquet files.
 
 ## Links
 
@@ -1111,3 +1128,4 @@
 - [Exploring Go net/http Package - On How Not To Set Socket Options (2021)](https://iximiuz.com/en/posts/go-net-http-setsockopt-example/)
 - [Cap'n Proto bindings for Go](https://github.com/capnproto/go-capnproto2)
 - [Go net/http.ServeMux and Trailing Slashes (2021)](https://christine.website/blog/go-servemux-slash-2021-11-04) ([Lobsters](https://lobste.rs/s/iym5pi/go_net_http_servemux_trailing_slashes))
+- [Mod](https://github.com/marwan-at-work/mod) - Command line tool to upgrade/downgrade Semantic Import Versioning in Go Modules.

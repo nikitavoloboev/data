@@ -136,3 +136,5 @@
 - [Grants/funding sources for individuals (2021)](https://twitter.com/mollyfmielke/status/1455888525950218242)
 - [Juicebox](https://juicebox.money/#/) - Community funding for people and projects.
 - [A pitch that is music to the ears](https://www.erwanderlyn.com/p/startup-pitch-deck) ([HN](https://news.ycombinator.com/item?id=29244964))
+- [Party Round](https://partyround.com/) - Automated fundraising tool for founders. ([Twitter](https://twitter.com/PartyRound))
+- [Introducing Calm Company Scouts | Calm Company Fund (2021)](https://calmfund.com/writing/introducing-calm-company-scouts)

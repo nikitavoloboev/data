@@ -49,3 +49,8 @@
 - [Google Cloud Build Local Builder](https://github.com/GoogleCloudPlatform/cloud-build-local)
 - [cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp)
 - [Push to GCR GitHub Action](https://github.com/RafikFarhad/push-to-gcr-github-action)
+- [GCP Developer Center](https://cloud.google.com/developers) ([Code](https://github.com/GoogleCloudPlatform/community))
+- [gcloud](https://github.com/actions-hub/gcloud) - GitHub Action for interacting with Google Cloud Platform (GCP).
+- [Cloud Run: multiple processes in a container (the lazy way) (2019)](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/index.html) ([Code](https://github.com/ahmetb/multi-process-container-lazy-solution))
+- [Serving gRPC+HTTP from a Go app on Cloud Run (and elsewhere) (2021)](https://ahmet.im/blog/grpc-http-mux-go/)
+- [Deploying to Cloud Run with Go (2021)](https://ahmet.im/blog/cloud-run-deploy-api/)

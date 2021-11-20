@@ -34,3 +34,4 @@
 - [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum) - First affordable AR headset experience.
 - [Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone](https://github.com/philipturner/scene-color-reconstruction)
 - [Grapic](https://www.grapic.co/) - Real whiteboards online using AR. ([HN](https://news.ycombinator.com/item?id=29225588))
+- [‘AR Is Where the Real Metaverse Is Going to Happen’ (2021)](https://www.wired.com/story/john-hanke-niantic-augmented-reality-real-metaverse/)

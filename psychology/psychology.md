@@ -41,3 +41,4 @@
 - [Psychologists who study "stereotype accuracy"](https://twitter.com/spiantado/status/1453779561515159552)
 - [The Melancholy of Subculture Society](https://www.gwern.net/The-Melancholy-of-Subculture-Society) ([HN](https://news.ycombinator.com/item?id=29142614))
 - [Harsh Psychology truths](https://twitter.com/thebrometheus/status/1357419737278386179)
+- [Chess Grandmaster Kasparov on Mob Mentality and Groupthink](https://www.wsj.com/articles/woke-is-a-bad-word-for-a-real-threat-to-american-democracy-cancel-culture-freedom-11637184284) ([HN](https://news.ycombinator.com/item?id=29269142))

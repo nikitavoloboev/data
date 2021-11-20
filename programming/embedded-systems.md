@@ -146,3 +146,4 @@
 - [Bryan Cantrill - The Coming Firmware Revolution (2021)](https://www.youtube.com/watch?v=XbBzSSvT_P0) ([Slides](https://www.slideshare.net/bcantrill/the-coming-firmware-revolution)) ([Lobsters](https://lobste.rs/s/fwdrda/coming_firmware_revolution))
 - [Open Source Firmware Foundation](https://osfw.foundation/) ([Twitter](https://twitter.com/osfw_foundation))
 - [acados](https://github.com/acados/acados) - Fast and embedded solvers for nonlinear optimal control.
+- [Learning Rust For Embedded Systems (2021)](https://www.embeddedrelated.com/showarticle/1432.php) ([HN](https://news.ycombinator.com/item?id=29269218))

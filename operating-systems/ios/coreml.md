@@ -14,3 +14,5 @@
 - [YOLOv3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch > ONNX > CoreML > iOS.
 - [Creating an Image Classifier Model with CoreML](https://developer.apple.com/documentation/createml/creating_an_image_classifier_model)
 - [Core ML Survival Guide](https://leanpub.com/coreml-survival-guide) ([Code](https://github.com/hollance/coreml-survival-guide))
+- [Awesome Machine Learning DEMOs with iOS](https://github.com/tucan9389/awesome-ml-demos-with-ios)
+- [PoseEstimation-CoreML](https://github.com/tucan9389/PoseEstimation-CoreML) - Example project of inferencing Pose Estimation using Core ML.

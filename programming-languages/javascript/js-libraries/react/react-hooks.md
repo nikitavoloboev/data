@@ -131,6 +131,7 @@
 - [use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland.
 - [OIDC React](https://github.com/bjerkio/oidc-react) - React component/hooks to provide OpenID Connect and OAuth2 protocol support.
 - [useDescendants](https://github.com/pacocoursey/use-descendants) - React hook for keeping track of descendant components and their relative indeces.
+- [use-color](https://github.com/junhoyeo/use-color) - Powerful color hook that all designers deserve.
 
 ## Code
 

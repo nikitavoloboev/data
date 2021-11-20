@@ -7,6 +7,7 @@
 - [Unit tests are a waste of time when building a product. The only thing that matters is that the product works for your users. The best way to verify that is with e2e tests.](https://twitter.com/mxstbr/status/1371828851811172359)
 - [Almost all the advice you hear about software testing is bad. It's either bad on its face or it leads to bad outcomes or it distracts by focusing on the wrong thing (usually tools).](https://twitter.com/searls/status/1393571227650908162)
 - [People love debating what percentage of which type of tests to write, but it's a distraction. Nearly zero teams write expressive tests that establish clear boundaries, run quickly & reliably, and only fail for useful reasons. Focus on that instead.](https://twitter.com/searls/status/1393385209089990659)
+- [We are moving away from data-testid completely in favor of accessibility attributes like role and aria-label to encourage better semantics and make tests be more human-like.](https://twitter.com/okonetchnikov/status/1461302342733766657)
 
 ## Links
 

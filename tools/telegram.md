@@ -66,6 +66,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [piston_bot](https://github.com/tusharsadhwani/piston_bot) - Telegram bot that will run code for you.
 - [TelegramBotsList](https://github.com/DanySpin97/TelegramBotsList) - List of Telegram bots with open source code in alphabetical order.
 - [MySubredditsBot](https://github.com/Recursing/MySubredditsBot) - Telegram bot to track posts in subreddits.
+- [telegram-bot-dumper](https://github.com/soxoj/telegram-bot-dumper) - Easy dumping of all Telegram bot stuff.
 
 ## Notes
 

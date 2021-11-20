@@ -100,6 +100,7 @@
 - [next-router-query](https://github.com/KATT/next-router-query) - Drop-in alternative of `useRouter().query` that tries it's best to get the query params on the first mount.
 - [next-sanity](https://github.com/sanity-io/next-sanity) - Sanity.io toolkit for Next.js
 - [next-g11n](https://github.com/atilafassina/next-g11n) - Translate and localize your Next.js app smoothly.
+- [next-multilingual](https://github.com/Avansai/next-multilingual) - Opinionated end-to-end solution for Next.js applications that requires multiple languages.
 
 ## Notes
 

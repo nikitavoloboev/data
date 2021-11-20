@@ -32,7 +32,7 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Solana vs Algorand (2021)](https://www.reddit.com/r/solana/comments/n1yc3j/solana_vs_algorand/)
 - [In Rust We Trust - Berkeley Packet Filter and Rust (2019)](https://www.youtube.com/watch?v=oBW2KJq3FnA)
 - [Programming on Solana - An Introduction (2021)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
-- [Project Serum](https://projectserum.com/) - Decentralized exchange (DEX) and ecosystem that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless. ([GitHub](https://github.com/project-serum)) ([Code](https://github.com/project-serum/serum-dex))
+- [Project Serum](https://projectserum.com/) - Decentralized exchange (DEX) and ecosystem that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless. ([GitHub](https://github.com/project-serum)) ([Code](https://github.com/project-serum/serum-dex)) ([serum-ts](https://github.com/project-serum/serum-ts))
 - [Awesome Solana](https://github.com/paul-schaaf/awesome-solana)
 - [SPL Token UI](https://www.spl-token-ui.com/#/) - UI for the creation and management of SPL tokens. ([Code](https://github.com/paul-schaaf/spl-token-ui))
 - [Solana Beach](https://solanabeach.io/) - Search Solana blocks, accounts, transactions, programs and tokens.
@@ -96,7 +96,7 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [P2P Wallet | Solana](https://solana.com/ecosystem/p2p)
 - [Learning How to Build on Solana (2021)](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
 - [Merkle Distributor](https://github.com/saber-hq/merkle-distributor) - Smart contract that distributes a balance of tokens according to a Merkle root.
-- [Saber](https://saber.so/) - Stable swapping between stablecoins and other identical assets. ([GitHub](https://github.com/saber-hq))
+- [Saber](https://saber.so/) - Stable swapping between stablecoins and other identical assets. ([GitHub](https://github.com/saber-hq)) ([How Saber Became the Biggest DeFi App on Solana](https://www.youtube.com/watch?v=LzUWP_JUX4Q)) ([How it started](https://www.youtube.com/watch?v=uGhqALj8IrA))
 - [Solana Go SDK](https://github.com/portto/solana-go-sdk)
 - [Goki](https://github.com/GokiProtocol/goki) - Suite of programs for Solana key management and security.
 - [Setting up a Solana Bigtable Instance](https://github.com/solana-labs/solana-bigtable)
@@ -164,3 +164,7 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [Key learnings from Solana dev (2021)](https://twitter.com/pirosb3/status/1460679770396520448)
 - [Using PDAs and SPL Token in Anchor (2021)](https://medium.com/@pirosb3/using-pdas-and-spl-token-in-anchor-and-solana-df05c57ccd04) ([Code](https://github.com/PirosB3/SafePaySolana))
 - [Resources for learning Solana (2021)](https://twitter.com/pencilflip/status/1451949960065335302)
+- [Zeta Markets](https://zeta.markets/) - DeFi Options built on Solana.
+- [The Barrelling Wave of Collateral: Lending Cycles and the Crypto Revolution (2021)](https://www.youtube.com/watch?v=mR0Ya71GOO0)
+- [vipers](https://github.com/saber-hq/vipers) - Assorted checks and validations for writing safer Solana programs.
+- [Why You Should Build Your DeFi Dapp Using Anchor (2021)](https://www.youtube.com/watch?v=725ddOvfWjk)

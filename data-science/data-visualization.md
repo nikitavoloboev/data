@@ -118,3 +118,4 @@
 - [Pandas_Alive](https://github.com/JackMcKew/pandas_alive) - Animated plotting extension for Pandas with Matplotlib.
 - [Literate Visualization](https://github.com/gicentre/litvis) - Light-touch approach to designing, building and describing visualization. ([Web](https://www.gicentre.net/litvis))
 - [Irydium](https://github.com/irydium/irydium) - Interactive documents and data visualizations in markdown. ([Web](https://irydium.dev/))
+- [Data Visualization: attribute types and their graphical elements (2021)](https://robertodip.com/blog/data-visualization-marks-and-channels/)

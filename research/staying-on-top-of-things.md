@@ -157,6 +157,7 @@ And these Discord servers:
 - [ScienceAlert](https://www.sciencealert.com/) - The Best in Science News and Amazing Breakthroughs.
 - [Coffee or Die Magazine](https://coffeeordie.com/)
 - [Paris Review](https://www.theparisreview.org/) - Writers, Quotes, Biography, Interviews, Artists.
+- [UnHerd](https://unherd.com/)
 
 ### Other
 

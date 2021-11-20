@@ -13,6 +13,7 @@
 
 ## Other
 
+- [SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning. ([Web](https://microsoft.github.io/SynapseML/)) ([Article](https://www.microsoft.com/en-us/research/blog/synapseml-a-simple-multilingual-and-massively-parallel-machine-learning-library/))
 - [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
 - [PlaidML](https://github.com/plaidml/plaidml) - Framework for making deep learning work everywhere.
 - [Leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU).
@@ -226,3 +227,5 @@
 - [PyPAL](https://github.com/kjappelbaum/pyepal) - Multiobjective active learning with tunable accuracy/efficiency tradeoff and clear stopping criterion.
 - [RecList](https://github.com/jacopotagliabue/reclist) - Behavioral "black-box" testing for recommender systems.
 - [dcbench](https://github.com/data-centric-ai/dcbench) - Benchmark of data-centric tasks from across the machine learning lifecycle.
+- [Cockpit](https://github.com/f-dangel/cockpit) - Visual and statistical debugger specifically designed for deep learning.
+- [CatBoost](https://github.com/catboost/catboost) - Machine learning method based on gradient boosting over decision trees. ([Web](https://catboost.ai/))

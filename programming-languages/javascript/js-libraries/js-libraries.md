@@ -62,6 +62,8 @@
 - [Qiankun](https://github.com/umijs/qiankun) - Implementation of Micro Frontends, which based on single-spa. It aims to make it easier and painless to build a production-ready microfront-end architecture system. ([Web](https://qiankun.umijs.org/))
 - [Deepkit](https://github.com/deepkit/deepkit-framework) - Full-featured and high-performance web framework for sophisticated web applications. ([Web](https://deepkit.io/))
 - [Drayman](https://github.com/Claviz/drayman) - Server-side component framework.
+- [yeet](https://github.com/tornqvist/yeet) - Teeny-weeny front end framework.
+- [Xeact](https://github.com/Xe/Xeact) - Revolutionary Femtoframework For High Efficiency JavaScript Development. ([Article](https://christine.website/blog/xeact-0.0.69-2021-11-18))
 
 ## Animation
 
@@ -665,6 +667,11 @@
 - [Spacing JS](https://github.com/stevenlei/spacingjs) - JavaScript utility for measuring the spacing between elements on webpage.
 - [co-share](https://github.com/cocoss-org/co-share) - JavaScript library for easily building shared applications such as chats and games. ([Tweet](https://twitter.com/BelaBohlender/status/1460563413327921156))
 - [bellboy](https://github.com/Claviz/bellboy) - Highly performant JavaScript data stream ETL engine.
+- [fnv-plus](https://github.com/tjwebb/fnv-plus) - JavaScript FNV-1a Hash Algorithm (up to 1024 bit) implementation.
+- [remote-web-streams](https://github.com/MattiasBuelens/remote-web-streams) - Web streams that work across web workers and iframes.
+- [web-streams-adapter](https://github.com/MattiasBuelens/web-streams-adapter) - Adapters for converting between different implementations of WHATWG Streams.
+- [pan-zoom](https://github.com/dy/pan-zoom) - Panning and zooming events for any target.
+- [bind-event-listener](https://github.com/alexreardon/bind-event-listener) - Utility to make binding and (especially) unbinding DOM events easier.
 
 ## Links
 

@@ -55,6 +55,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Anatoly Yakovenko](http://aeyakovenko.github.io/resume.html)
 - [Andrew Carr](https://andrewnc.github.io/)
 - [Rådell.net](https://radell.net/) - Like ability to see highlights for each of the jobs.
+- [Ian Macalinao](https://macalinao.github.io/resume/resume.pdf) ([Code](https://github.com/macalinao/resume))
 
 ## Notes
 
@@ -105,3 +106,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Resume.io](https://resume.io/) - Free online resume maker.
 - [The greatest resume I've ever seen](https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen) ([HN](https://news.ycombinator.com/item?id=28705805))
 - [SkillNer](https://github.com/AnasAito/SkillNER) - NLP module to automatically Extract skills and certifications from unstructured job postings, texts, and applicant's resumes.
+- [CV auto-generated via GitHub Actions](https://github.com/dionhaefner/cv)

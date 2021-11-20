@@ -50,3 +50,4 @@
 - [Cortical](https://github.com/owulveryck/cortical) - Browser sends events through websockets, Cortical dispatch them to processing unit, concurently.
 - [How We Improved Reliability of our WebSocket Connections (2021)](https://making.close.com/posts/reliable-websockets/) ([HN](https://news.ycombinator.com/item?id=29026740))
 - [Example template for working with the WebSocketPair API in Cloudflare Workers](https://github.com/cloudflare/websocket-template)
+- [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.

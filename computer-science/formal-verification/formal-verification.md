@@ -93,3 +93,4 @@
 - [Misspecification: The Blind Spot of Formal Verification (2021)](https://concerningquality.com/misspecification/) ([Lobsters](https://lobste.rs/s/h5sd63/misspecification_blind_spot_formal))
 - [Verification-Driven Development Guide](https://github.com/informalsystems/vdd)
 - [Electrum Analyzer](https://github.com/haslab/Electrum) - Model checker for relational first-order temporal specifications. ([Tutorial](https://github.com/haslab/Electrum/wiki/Tutorial))
+- [Simple proof checker in OCaml](https://github.com/neel-krishnaswami/proof-checker)

@@ -229,7 +229,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Easy video converting for the web (2021)](https://mefody.dev/chunks/ffmpeg-alias/)
 - [Tips for having video calls with strangers (2021)](https://twitter.com/chrishlad/status/1377724246793801730)
 - [Meet with Spot](https://www.meetwithspot.com/) - Step away from the screen and try a walking meeting with Spot.
-- [Jellyfin](https://jellyfin.org/) - Free Software Media System. ([Desktop Code](https://github.com/jellyfin/jellyfin-desktop)) ([GitHub](https://github.com/jellyfin)) ([HN](https://news.ycombinator.com/item?id=28664802))
+- [Jellyfin](https://jellyfin.org/) - Free Software Media System. ([Desktop Code](https://github.com/jellyfin/jellyfin-desktop)) ([GitHub](https://github.com/jellyfin)) ([HN](https://news.ycombinator.com/item?id=28664802)) ([Web Code](https://github.com/jellyfin/jellyfin-web)) ([iOS/tvOS Code](https://github.com/jellyfin/Swiftfin))
 - [cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera.
 - [FFmpeg 4.4](http://ffmpeg.org/index.html#pr4.4) ([HN](https://news.ycombinator.com/item?id=26746537))
 - [goav](https://github.com/giorgisio/goav) - Go bindings for FFmpeg.

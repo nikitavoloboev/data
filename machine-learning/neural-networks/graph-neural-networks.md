@@ -70,3 +70,5 @@
 - [Understanding Pooling in Graph Neural Networks (2021)](https://arxiv.org/abs/2110.05292) ([Code](https://github.com/danielegrattarola/SRC))
 - [Spectral Clustering with Graph Neural Networks for Graph Pooling (2020)](https://arxiv.org/abs/1907.00481) ([Code](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling))
 - [Graph Robustness Benchmark (GRB)](https://github.com/THUDM/grb) - Scalable, unified, modular, and reproducible benchmark for evaluating the adversarial robustness of Graph Machine Learning.
+- [TensorFlow GNN](https://github.com/tensorflow/gnn) - Library to build Graph Neural Networks on the TensorFlow platform. ([Article](https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html))
+- [Graph Neural Networks through the lens of Differential Geometry and Algebraic Topology (2021)](https://towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f) ([Tweet](https://twitter.com/mmbronstein/status/1461366066282569734))

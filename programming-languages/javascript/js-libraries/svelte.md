@@ -129,3 +129,5 @@
 - [Contributing to Svelte - Implement {#key}](https://lihautan.com/contributing-to-svelte-implement-key-block/)
 - [WebJeda - YouTube](https://www.youtube.com/c/WebJeda/videos)
 - [Would you use Sveltekit for production? (2021)](https://www.reddit.com/r/sveltejs/comments/qt14c6/would_you_use_sveltekit_for_production/)
+- [svelte-select](https://github.com/rob-balfre/svelte-select) - Select/autocomplete component for Svelte apps. With support for grouping, filtering, async and more.
+- [adapter-cloudflare](https://www.npmjs.com/package/@sveltejs/adapter-cloudflare) - Adapter for building SvelteKit applications on Cloudflare Pages with Workers integration. ([Tweet](https://twitter.com/lukeed05/status/1461417536151457795))

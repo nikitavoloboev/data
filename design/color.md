@@ -103,3 +103,4 @@
 - [Color Accessibility for Tailwind CSS](https://colour-a11y.vercel.app/) ([Code](https://github.com/samrobbins85/colour-a11y-for-tailwind))
 - [Shadowlord](https://noeldelgado.github.io/shadowlord/) - Tints and Shades Generator Tool. ([Code](https://github.com/noeldelgado/shadowlord))
 - [Harmonic Coloring](http://www.musanim.com/HarmonicColoring/) - Method for assigning colors to musical pitches. ([HN](https://news.ycombinator.com/item?id=29241387))
+- [A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH (2021)](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)

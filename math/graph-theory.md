@@ -48,3 +48,4 @@
 - [Algorithms Course - Graph Theory Tutorial from a Google Engineer (2019)](https://www.youtube.com/watch?v=09_LlHjoEiY)
 - [Master thesis: Minimum degree ordering (2021)](https://opensourc.es/blog/master-thesis-minimum-degree-ordering/)
 - [How Big Data Carried Graph Theory into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/) ([HN](https://news.ycombinator.com/item?id=28241398))
+- [Partition and Code: learning how to compress graphs (2021)](https://arxiv.org/abs/2107.01952) ([Code](https://github.com/gbouritsas/PnC))

@@ -141,3 +141,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [An Introduction to Machine Learning in Quantitative Finance](https://github.com/deepintomlf/mlfbook)
 - [Modern Treasury](https://www.moderntreasury.com/) - Makes payment operations simple, scalable and secure.
 - [Ucelofka](https://github.com/shenek/ucelofka) - Simple program to issue invoices (CLI/Web).
+- [Building Stripe Tax (2021)](https://stripe.com/blog/building-stripe-tax)

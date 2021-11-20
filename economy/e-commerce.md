@@ -6,6 +6,7 @@
 - [Joycraft Handmade](https://joycrafthandmade.com/) - Polymer Clay Earrings. ([IG](https://www.instagram.com/joycrafthandmade/?igshid=ohv58u0xnoxk)) ([Tweet](https://twitter.com/coreyhainesco/status/1294721370589245440))
 - [Recess](https://takearecess.com/)
 - [Magic Mind](https://magicmind.co/)
+- [Misc. Goods Co.](https://misc-goods-co.com/) - Custom Playing Cards | Natural Deodorant | Etc. ([Twitter](https://twitter.com/Misc_Goods_Co))
 
 ## Links
 
@@ -121,3 +122,4 @@
 - [Govalo](https://govalo.com/) - Reinventing the digital gifting experience. ([Twitter](https://twitter.com/fromgovalo))
 - [Shopify App Store](https://apps.shopify.com/) - Ecommerce App Marketplace.
 - [React Storefront](https://github.com/saleor/react-storefront) - Open-source storefront in React.js with Next.js. Built for Headless Commerce.
+- [OpenStore](https://open.store/) - Sell your e-commerce business instantly.

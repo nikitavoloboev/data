@@ -110,6 +110,7 @@
 - [MParser](https://github.com/murmour/mparser) - Simple monadic parser combinator library for OCaml.
 - [futurama](https://github.com/ghuysmans/futurama) - Finite permutation library with an optimizing compiler.
 - [algebra](https://github.com/ghuysmans/algebra) - Definitions for common algebraic structures.
+- [ocaml-lp](https://github.com/ktahar/ocaml-lp) - Helps the modeling of Linear Programming (LP) and Mixed Integer Programming (MIP) in OCaml.
 
 ## Links
 

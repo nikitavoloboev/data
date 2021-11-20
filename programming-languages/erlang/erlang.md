@@ -114,3 +114,4 @@
 - [Nova](https://github.com/novaframework/nova) - Web framework for Erlang. ([Web](http://www.novaframework.org/))
 - [Erlang: The Movie (2012)](https://www.youtube.com/watch?v=xrIjfIjssLE)
 - [Erlang: The Movie II: The Sequel (2013)](https://www.youtube.com/watch?v=rRbY3TMUcgQ)
+- [100 Years of Erlang | Quinn Wilton (2021)](https://www.youtube.com/watch?v=y8-9yZlye30)

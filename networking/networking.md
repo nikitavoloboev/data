@@ -345,4 +345,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [The Challenge of Bluetooth Distance Estimation (2020)](http://www.davidgyoungtech.com/2020/05/15/how-far-can-you-go)
 - [getssl](https://github.com/srvrco/getssl) - Obtain SSL certificates from the letsencrypt.org ACME server. Suitable for automating the process on remote servers.
 - [dhcparse](https://github.com/axelf4/dhcparse) - Zero-copy Rust DHCPv4 parser.
-- [XMPP, a Comeback Story: A Protocol for Robust, Private and Decentralized Comms (2021)](https://takebackourtech.org/xmpp-comeback/) ([HN](https://news.ycombinator.com/item?id=29256618))
+- [XMPP, a comeback story (2021)](https://takebackourtech.org/xmpp-comeback/) ([HN](https://news.ycombinator.com/item?id=29256618)) ([Lobsters](https://lobste.rs/s/8q1qd4/xmpp_comeback_story))
+- [Network Protocol Breakdown: Ethernet and Go (2017)](https://medium.com/@mdlayher/network-protocol-breakdown-ethernet-and-go-de985d726cc1)

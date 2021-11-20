@@ -373,3 +373,11 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Guide: How to use Loopring L2 (2021)](https://medium.com/loopring-protocol/guide-how-to-use-loopring-l2-a267d005255b)
 - [StarkOps](https://github.com/seanjameshan/starkops) - StarkNet Toolchain CLI written in TypeScript.
 - [zkPorter offers 1-3 cent transaction fees, yet is magnitudes more secure and decentralized than any other L1 or sidechain ELI (2021)](https://twitter.com/0xangelfish/status/1460741464757919744)
+- [Tinlake Contracts](https://github.com/centrifuge/tinlake) - Bringing individual, non-fungible assets to DeFi.
+- [EthDecoder](https://ethtx.info/) - Open source decoder of blockchain transactions. ([Code](https://github.com/EthTx/ethtx_ce))
+- [YAM Protocol](https://github.com/yam-finance/yam-protocol) - Stablizing reserve currency protocol.
+- [ethereum-tx-sign](https://github.com/synlestidae/ethereum-tx-sign) - Allows you to sign Ethereum transactions offline.
+- [Sign-In with Ethereum library and example app](https://github.com/spruceid/siwe)
+- [OpenLaw](https://www.openlaw.io/) - Next generation smart legal agreements. ([GitHub](https://github.com/openlawteam))
+- [Multi Collateral Dai](https://github.com/makerdao/dss)
+- [Ethereum Project Management: Meeting notes and agenda items](https://github.com/ethereum/pm)

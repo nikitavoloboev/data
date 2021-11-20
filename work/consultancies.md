@@ -38,6 +38,7 @@
 
 ## Design
 
+- [Raureif](https://raureif.net/) - Experts in typography and user interface design.
 - [Supercreative](https://supercreative.design/)
 - [Filament Group](https://www.filamentgroup.com/) - Design and front-end development studio.
 - [MOXY](https://moxy.studio/about) - Interdisciplinary studio, we specialise in designing and developing.
@@ -211,6 +212,7 @@
 - [The Foundries](https://www.foundries.dev/) - Offer consultancy and technical analysis across multiple domains in the software industry.
 - [Product Brew](https://productbrew.com/) - Small team of developers and thinkers that thrive on connection and the creation of your product. ([GitHub](https://github.com/productbrew))
 - [magicstack](http://magic.io/) - Experts in modern reactive web. ([GitHub](https://github.com/MagicStack))
+- [Black Square Media](https://blacksquaremedia.com/) ([GitHub](https://github.com/bsm))
 
 ## Notes
 

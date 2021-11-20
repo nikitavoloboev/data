@@ -17,3 +17,4 @@ I saw a [few documentaries](https://letterboxd.com/nikitavoloboev/films/genre/do
 - [Documentaries: The Best Of (2021)](https://www.reddit.com/r/MovieSuggestions/comments/pb7ue0/documentaries_the_best_of/)
 - [WaterBear](https://www.waterbear.com/) - Free library of documentaries and shorts. ([HN](https://news.ycombinator.com/item?id=28413951))
 - [The most interesting documentary you've seen (2021)](https://www.reddit.com/r/MovieSuggestions/comments/qkpd18/the_most_interesting_documentary_youve_seen_is/)
+- [What is the most disturbing/unsettling/scary/sobering documentary you've ever seen? (2021)](https://www.reddit.com/r/MovieSuggestions/comments/qx65g1/what_is_the_most/)

@@ -14,7 +14,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Redox](https://github.com/redox-os/redox) - Unix-like Operating System written in Rust. ([Web](https://www.redox-os.org/)) ([Kernel Code](https://github.com/redox-os/kernel))
 - [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
 - [OS67](https://github.com/SilverRainZ/OS67) - Unix-like toy kernel.
-- [SerenityOS](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers. ([Web](http://serenityos.org/)) ([Year 3 in review](https://serenityos.org/happy/3rd/)) ([HN](https://news.ycombinator.com/item?id=28817599))
+- [SerenityOS](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers. ([Web](http://serenityos.org/)) ([Year 3 in review](https://serenityos.org/happy/3rd/)) ([HN](https://news.ycombinator.com/item?id=28817599)) ([HN](https://news.ycombinator.com/item?id=29270776))
 - [Resea](https://github.com/nuta/resea) - Microkernel-based hackable operating system. ([Implementing Resea GUI](https://seiya.me/resea-gui-1-poring-cairo))
 - [Rux](https://github.com/sorpaas/rux) - Hobbyist microkernel written in Rust, featuring a capability-based system similar to seL4.
 - [redshirt](https://github.com/tomaka/redshirt) - Experiment to build some kind of operating-system-like environment where executables are all in WASM and are loaded from an IPFS-like decentralized network.
@@ -122,6 +122,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [RedLeaf](https://github.com/mars-research/redleaf) - Research operating system developed from scratch in Rust to explore the impact of language safety on operating system organization.
 - [Kwast](https://github.com/kwast-os/kwast) - Rust operating system running WebAssembly as userspace in ring 0.
 - [seL4 Core Platform](https://github.com/BreakawayConsulting/sel4cp) - Simple operating system for the seL4 microkernel.
+- [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) - Operating system targeting x86 and ARMv7.
 
 ## Notes
 

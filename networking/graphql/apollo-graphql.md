@@ -26,3 +26,4 @@
 - [Apollo Router](https://github.com/apollographql/router) - Configurable, high-performance graph router for a federated graph. ([Article](https://www.apollographql.com/blog/announcement/backend/apollo-router-our-graphql-federation-runtime-in-rust/))
 - [Laika](https://github.com/zendesk/laika) - Log, test, intercept and modify Apollo Client's operations. ([Web](https://zendesk.github.io/laika/))
 - [Learn GraphQL with Apollo](https://odyssey.apollographql.com/) - Level up with these practical, hands-on trainings.
+- [Understanding Caching in Apollo Client 3 (2021)](https://www.youtube.com/watch?v=vwpqHYuSAXE)

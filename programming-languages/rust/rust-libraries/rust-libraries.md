@@ -30,6 +30,7 @@
 - [argv](https://github.com/dtolnay/argv) - Command line arguments by reference.
 - [ansi_colours](https://github.com/mina86/ansi_colours) - Rust, C and C++ library for converting between 24-bit sRGB colors and ANSI terminal 8-bit palette.
 - [Cursive](https://github.com/gyscos/cursive) - TUI (Text User Interface) library for rust.
+- [CtrlC](https://github.com/Detegr/rust-ctrlc) - Simple easy to use wrapper around Ctrl-C signal.
 
 ## Web
 
@@ -92,6 +93,8 @@
 - [webview2](https://github.com/sopium/webview2) - Rust bindings for WebView2.
 - [lol-async](https://github.com/jbr/lol-async) - Provides an awkward async interface for cloudflare/lol-html.
 - [Reqwasm](https://github.com/hamza1311/reqwasm) - HTTP requests library for WASM Apps.
+- [Cookie](https://github.com/SergioBenitez/cookie-rs) - HTTP cookie parsing and cookie jar management for Rust.
+- [backoff](https://github.com/ihrwein/backoff) - Small crate which allows you to retry operations according to backoff policies.
 
 ## WASM
 
@@ -298,6 +301,7 @@
 - [RustCrypto: block ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block ciphers and block modes written in pure Rust.
 - [Curves](https://github.com/arkworks-rs/curves) - Implementations of popular elliptic curves.
 - [ark-circom](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
+- [r1cs](https://github.com/mir-protocol/r1cs) - Rust library for building R1CS gadgets over prime fields, which are useful in SNARKs and other argument systems.
 
 ## Linux
 
@@ -318,6 +322,7 @@
 - [oxidebpf](https://github.com/redcanaryco/oxidebpf) - Rust library for managing eBPF programs.
 - [inotify-rs](https://github.com/hannobraun/inotify-rs) - Idiomatic inotify wrapper for Rust.
 - [Netlink](https://github.com/little-dude/netlink) - netlink libraries for rust.
+- [libbpf-rs](https://github.com/libbpf/libbpf-rs) - Minimal and opinionated eBPF tooling for the Rust ecosystem.
 
 ## ML
 
@@ -1144,6 +1149,12 @@
 - [lrpeg](https://github.com/seanyoung/lrpeg) - Left Recursive PEG for rust. ([Article](https://www.mess.org/2021/03/26/Left-Recursive-PEG-Parser-Generator/))
 - [dynstack](https://github.com/archshift/dynstack) - Stack for rust trait objects that minimizes allocations.
 - [Streamson](https://github.com/shenek/streamson) - Memory efficient handling of large JSON data.
+- [bytelines](https://github.com/whitfin/bytelines) - Read input lines as byte slices for high efficiency.
+- [fronma](https://github.com/r7kamura/fronma) - Front Matter parser for Rust.
+- [ta](https://github.com/greyblake/ta-rs) - Technical analysis library for Rust.
+- [Wait Map](https://github.com/withoutboats/waitmap) - Async/await concurrency primitive implemented as a concurrent hashmap.
+- [Encoding](https://github.com/lifthrasiir/rust-encoding) - Character encoding support for Rust.
+- [Pbjson](https://github.com/influxdata/pbjson) - Auto-generate serde implementations for prost types.
 
 ## Cargo Plugins
 
@@ -1245,3 +1256,5 @@
 - [Dylint](https://github.com/trailofbits/dylint) - Tool for running Rust lints from dynamic libraries.
 - [cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies.
 - [Meili crates browser](https://crates.meilisearch.com/) - Expose all crates from crates.io with MeiliSearch. ([Code](https://github.com/meilisearch/demo-finding-crates))
+- [Backdooring Rust crates for fun and profit (2021)](https://kerkour.com/rust-crate-backdoor/) ([Lobsters](https://lobste.rs/s/cjt83n/backdooring_rust_crates_for_fun_profit)) ([HN](https://news.ycombinator.com/item?id=29265765))
+- [Rust LibHunt](https://rust.libhunt.com/) - Your go-to Rust Toolbox. ([Twitter](https://twitter.com/RustLibHunt))

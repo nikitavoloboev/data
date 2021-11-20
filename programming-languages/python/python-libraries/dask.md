@@ -36,3 +36,5 @@
 - [Dask Working Notes](https://blog.dask.org/)
 - [Choosing good chunk sizes in Dask (2021)](https://blog.dask.org/2021/11/02/choosing-dask-chunk-sizes)
 - [HN: Dask (2021)](https://news.ycombinator.com/item?id=29260492)
+- [dask-awkward](https://github.com/ContinuumIO/dask-awkward) - Connecting Dask with Awkward Arrays.
+- [flox](https://github.com/dcherian/flox) - Fast & furious GroupBy operations for dask.array.

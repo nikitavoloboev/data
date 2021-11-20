@@ -65,3 +65,6 @@
 - [Open source Obsidian Publish alternative](https://github.com/obsidian-userland/publish)
 - [Shimmering Obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
 - [How to get started with developing a custom Obsidian Plugin?](https://forum.obsidian.md/t/how-to-get-started-with-developing-a-custom-plugin/8157/9)
+- [Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) - Resource hub for Obsidian resources. ([Code](https://github.com/obsidian-community/obsidian-hub))
+- [Obsidian PreactJS Template](https://github.com/obsidian-community/obsidian-preact-template)
+- [Obsidian Community Lib](https://github.com/obsidian-community/obsidian-community-lib) - Community-maintained library of commonly used functions when developing Obsidian plugins.

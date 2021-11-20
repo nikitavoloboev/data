@@ -29,7 +29,7 @@
 - [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
 - [Ingestion Data Mapping Language](http://idml.io/)
 - [The reference implementation of IDML for the JVM](https://github.com/IDML/idml)
-- [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python data analysis toolkit. ([Ongoing list of pandas quirks](https://github.com/chiphuyen/just-pandas-things)) ([Manual](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf)) ([HN](https://news.ycombinator.com/item?id=28096493))
+- [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python data analysis toolkit. ([Ongoing list of pandas quirks](https://github.com/chiphuyen/just-pandas-things)) ([Manual](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf)) ([HN](https://news.ycombinator.com/item?id=28096493)) ([Pandas Cookbook](https://github.com/jvns/pandas-cookbook))
 - [Programming Language Support for Data-intensive Applications meeting (2019)](https://github.com/avsm/shonan-143)
 - [Datasette](https://github.com/simonw/datasette) - Open source multi-tool for exploring and publishing data. ([Web](https://datasette.io/)) ([datasette-graphql](https://github.com/simonw/datasette-graphql)) ([Running Datasette on DigitalOcean App Platform](https://til.simonwillison.net/til/til/digitalocean_datasette-on-digitalocean-app-platform.md)) ([Interesting ideas in Datasette](https://simonwillison.net/2018/Oct/4/datasette-ideas/)) ([HN](https://news.ycombinator.com/item?id=25385296))
 - [Weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications.
@@ -214,3 +214,4 @@
 - [Rows](https://rows.com/) - Spreadsheet where teams work faster.
 - [RDMkit](https://rdmkit.elixir-europe.org/) - Online guide containing good data management practices applicable to research projects from the beginning to the end. ([Code](https://github.com/elixir-europe/rdmkit))
 - [Select Star](https://www.selectstar.com/) - Data discovery made easy.
+- [Data Engineering Principles - Cogent](https://cogent.co/blog/data-engineering-principles/)
