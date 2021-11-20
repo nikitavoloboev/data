@@ -164,3 +164,4 @@
 - [Varnish Cache](https://github.com/varnishcache/varnish-cache) - High-performance HTTP accelerator. ([Docs](https://varnish-cache.org/))
 - [HTTP QUERY Method (2021)](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
 - [Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond (2021)](https://www.intruder.io/research/practical-http-header-smuggling) ([Tweet](https://twitter.com/albinowax/status/1458469363879759872)) ([HN](https://news.ycombinator.com/item?id=29189212))
+- [httpd](https://github.com/docker-library/httpd) - Docker Official Image packaging for Apache HTTP Server.

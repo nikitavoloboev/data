@@ -258,7 +258,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Sudo](https://github.com/sudo-project/sudo) - Program designed to allow a sysadmin to give limited root privileges to users and log root activity.
 - [I wrote a linker everyone can understand (2021)](https://briancallahan.net/blog/20210609.html) ([HN](https://news.ycombinator.com/item?id=27444647))
 - [The Wrong Way to Switch Operating Systems on Your Server (2021)](https://figbert.com/posts/wrong-way-to-switch-server-os/) ([Lobsters](https://lobste.rs/s/ofcfbq/wrong_way_switch_operating_systems_on))
-- [Programming thought experiment: stuck in a room with a PC without an OS](https://www.reddit.com/r/programming/comments/9x15g/programming_thought_experiment_stuck_in_a_room/c0ewj2c/?utm_source=reddit&utm_medium=web2x&context=3)
+- [Programming thought experiment: stuck in a room with a PC without an OS](https://www.reddit.com/r/programming/comments/9x15g/programming_thought_experiment_stuck_in_a_room/c0ewj2c/)
 - [x86 Bare Metal Examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Minimal operating systems, learn x86 system programming. ([HN](https://news.ycombinator.com/item?id=27654257))
 - [iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - Inter-process-communication middleware that enables virtually limitless data transmissions at constant time. ([Web](https://iceoryx.io/v1.0.1/))
 - [Operating Systems Notes (2010)](https://andrewharvey4.wordpress.com/2010/07/31/operating-systems-notes/)

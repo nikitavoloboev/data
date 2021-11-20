@@ -17,7 +17,7 @@
 - [Can I ever roll on MDMA like the first time? (2021)](https://www.reddit.com/r/askdrugs/comments/kp54bq/can_i_ever_roll_on_mdma_like_the_first_time/)
 - [MDMA Reaches Next Step Toward Approval for Treatment (2021)](https://www.nytimes.com/2021/05/03/health/mdma-approval.html)
 - [Why does MDMA cause a comedown while psilocybin may promote neurogenesis? (2021)](https://www.reddit.com/r/AskDrugNerds/comments/ogdvnd/why_does_mdma_cause_a_comedown_while_psilocybin/)
-- [How MDMA works briefly](https://www.reddit.com/r/MDMA/comments/oh3k1x/am_i_doing_mdma_too_frequently_what_are_the_risks/h4mp9t2?utm_source=share&utm_medium=web2x&context=3)
+- [How MDMA works briefly](https://www.reddit.com/r/MDMA/comments/oh3k1x/am_i_doing_mdma_too_frequently_what_are_the_risks/h4mp9t2)
 - [Neurotoxicity of "ecstasy" and its metabolites in human dopaminergic differentiated SH-SY5Y cells](https://pubmed.ncbi.nlm.nih.gov/23194825/)
 - [MDMA Supplementation](https://www.reddit.com/r/DrugNerds/comments/15m9sf/mdma_supplementation/)
 - [RaveSafer](https://ravesafer.com/)

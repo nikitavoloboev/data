@@ -59,3 +59,4 @@
 - [idris2dart](https://github.com/bamboo/idris2dart) - Idris 2 code generator that outputs Dart code.
 - [Secrets of type driven program synthesis - Edwin Brady (2021)](https://www.youtube.com/watch?v=E7uSsL8r_mU)
 - [DepSec](https://github.com/simongregersen/DepSec) - Static Information-Flow Control in Idris.
+- [Idris WebAssembly CodeGen](https://github.com/SPY/idris-codegen-wasm)

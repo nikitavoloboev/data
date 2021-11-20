@@ -79,7 +79,7 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Preferred way to make collections on HEN/Tezos (2021)](https://twitter.com/thomasp85/status/1455821645676007424)
 - [QuipuSwap](https://quipuswap.com/swap) - Tezos DEX with on-chain governance for baking rewards.
 - [Tezos : past, present, and future (2021)](https://www.youtube.com/watch?v=lo1bYTLmQFg)
-- [Wrap Protocol](https://app.tzwrap.com/wrap) - Bridge between Ethereum and Tezos. ([Reddit](https://www.reddit.com/r/tezos/comments/qs5lh8/how_to_convert_eth_to_tezos/hkbks23/?utm_source=reddit&utm_medium=web2x&context=3))
+- [Wrap Protocol](https://app.tzwrap.com/wrap) - Bridge between Ethereum and Tezos. ([Reddit](https://www.reddit.com/r/tezos/comments/qs5lh8/how_to_convert_eth_to_tezos/hkbks23/))
 - [TzStats](https://tzstats.com/) - Tezos Block Explorer by Blockwatch. ([Activity](https://tzstats.com/activity))
 - [How decentralized is Tezos? (2021)](https://www.reddit.com/r/tezos/comments/qwm92e/how_much_decentralized_is_tezos/)
 - [Tezos: Driving Social, Political, and Economic Innovation (2021)](https://www.youtube.com/watch?v=UwpvrgaOFB8)

@@ -5,7 +5,7 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 ## Notes
 
 - [China can push fraudulent news to phones of all the citizens all the time.](https://www.youtube.com/watch?v=x0CjXkb99Z4)
-- [Two largest political factions in China excluding the princeling are the Tuanpai and the Shanghai clique but keep in mind internal faction are very informal.](https://www.reddit.com/r/worldnews/comments/qhazu9/taiwans_president_says_the_threat_from_china_is/hicmtbk/?utm_source=reddit&utm_medium=web2x&context=3)
+- [Two largest political factions in China excluding the princeling are the Tuanpai and the Shanghai clique but keep in mind internal faction are very informal.](https://www.reddit.com/r/worldnews/comments/qhazu9/taiwans_president_says_the_threat_from_china_is/hicmtbk/)
 
 ## Links
 
@@ -39,7 +39,7 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [The Sad End Of Jack Ma Inc. (2021)](https://www.forbes.com/sites/georgecalhoun/2021/06/07/the-sad-end-of-jack-ma-inc/) ([HN](https://news.ycombinator.com/item?id=27448998))
 - [China: A Normal Country? (2021)](https://diff.substack.com/p/a-normal-country)
 - [Book Review: How Asia Works (2021)](https://astralcodexten.substack.com/p/book-review-how-asia-works)
-- [China's AI Policy](https://futureoflife.org/ai-policy-china/) ([Summary](https://www.reddit.com/r/geopolitics/comments/onu1sg/why_does_xi_jinping_insist_on_continuing_to_poke/h5ubqo9?utm_source=share&utm_medium=web2x&context=3))
+- [China's AI Policy](https://futureoflife.org/ai-policy-china/) ([Summary](https://www.reddit.com/r/geopolitics/comments/onu1sg/why_does_xi_jinping_insist_on_continuing_to_poke/h5ubqo9))
 - [AI Superpowers: China, Silicon Valley, and the New World Order by Kai-Fu Lee](https://www.goodreads.com/book/show/38242135-ai-superpowers)
 - [At this point, will we ever be be able to trust Chinese stocks? (2021)](https://www.reddit.com/r/stocks/comments/oqbe3d/at_this_point_will_we_ever_be_be_able_to_trust/)
 - [Why is China smashing its tech industry? (2021)](https://noahpinion.substack.com/p/why-is-china-smashing-its-tech-industry) ([HN](https://news.ycombinator.com/item?id=27949019)) ([HN](https://news.ycombinator.com/item?id=28036847))

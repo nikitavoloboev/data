@@ -11,6 +11,7 @@
 - [type-of-html](https://github.com/knupfer/type-of-html) - High performance type safe html generation.
 - [EulerHS](https://github.com/juspay/euler-hs) - Free monadic framework for easy building backend and console applications in Haskell.
 - [websockets](https://github.com/jaspervdj/websockets) - Haskell library for creating WebSocket-capable servers.
+- [haskell-wasm](https://github.com/SPY/haskell-wasm) - Haskell WebAssembly Toolkit.
 
 ## DB
 
