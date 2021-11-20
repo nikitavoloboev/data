@@ -115,6 +115,7 @@
 
 - Separate information into two levels of quality if necessary (i.e. Twitter Follows / Other).
 - Subscribe to Atom over RSS feed if possible.
+- Be wary of the fact that anyone can lie (on every side) especially when it comes to political news. The truth is often more complicated. Don't jump to conclusions. Have my own opinion/thoughts.
 
 ## Compassion
 

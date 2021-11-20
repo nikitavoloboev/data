@@ -125,3 +125,4 @@
 - [Serverless WebSockets at Scale | Simon Tabor (2020)](https://www.youtube.com/watch?v=lXNw2RTaD8g)
 - [Prisma Serverless Conference](https://www.prisma.io/serverless)
 - [fnrun](https://github.com/fnrun/fnrun) - Tools for building business functions and runners. ([Web](https://fnrun.dev/))
+- [The Unfulfilled Promise of Serverless (2021)](https://www.lastweekinaws.com/blog/the-unfulfilled-promise-of-serverless/) ([HN](https://news.ycombinator.com/item?id=29282824))

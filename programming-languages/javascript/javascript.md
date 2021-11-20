@@ -384,3 +384,4 @@ if (
 - [JS Records & Tuples Proposal](https://github.com/tc39/proposal-record-tuple)
 - [ECMAScript Proposals](https://www.proposals.es/) ([Code](https://github.com/saadq/proposals.es))
 - [dum](https://github.com/egoist/dum) - npm scripts runner written in Rust.
+- [Esprima-python](https://github.com/Kronuz/esprima-python) - ECMAScript parsing infrastructure for multipurpose analysis.

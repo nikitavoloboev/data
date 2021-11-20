@@ -113,6 +113,7 @@
 - [InfiniteOpt.jl](https://github.com/pulsipher/InfiniteOpt.jl) - Intuitive modeling interface for infinite-dimensional optimization problems.
 - [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
 - [Algebraic Multigrid](https://github.com/JuliaLinearAlgebra/AlgebraicMultigrid.jl) - Lets you solve sparse linear systems using Algebraic Multigrid (AMG).
+- [MetaGraphs](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
 
 ## NLP
 

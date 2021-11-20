@@ -168,3 +168,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [How Nix and NixOS Get So Close to Perfect (2021)](https://christine.website/talks/nixos-pain-2021-11-10) ([Lobsters](https://lobste.rs/s/ff54p1/how_nix_nixos_get_so_close_perfect))
 - [NixOps is easier than I thought (2021)](https://sgt.hootr.club/molten-matter/nixops-on-the-pi/)
 - [Nix System Configuration](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager.
+- [bootspec](https://github.com/DeterminateSystems/bootspec) - Research project that aims to improve the bootloader story in NixOS.

@@ -60,6 +60,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Recognizing the spiritual hunger that sits at the core of these movements (and remember how many in the space are young people!) is an important step to understanding them. Crypto culture is a mirror world that feeds off of the unexamined failures of the real world.](https://twitter.com/Pinboard/status/1450886210914709506)
 - [One of the coolest things about crypto is being able to fork mainnet locally and just like...experiment with building on top of other peoples' contracts without hitting them. Such a mindset shift from web2. like you can turn the whole web into a staging environment. wild.](https://twitter.com/jongold/status/1458553279562989571)
 - [The only API you should trust is one controlled by a blockchain. Can’t be evil > don’t be evil. There’s key digital information (money, identity, digital assets, etc.) that users should have ultimate control of, and if this was trivially easy to access between apps, that would lead to vastly more innovation in software.](https://twitter.com/cdixon/status/1461723922336915459)
+- [You can actually download all NFT images stored on sol/eth/tezos chains. Write software that will scan every block on any chain from genesis and if the links to an image (probably IPFS url), then download it to a directory. Do it for any chain and can do it continuously as a running program then create a gallery URL perhaps. Essentially build a web page in which images stored on chain are streamed and shown in real from different chains.](https://news.ycombinator.com/item?id=29290156)
 
 ## Links
 
@@ -291,3 +292,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [TheNFTbay.org – The Billion Dollar Torrent (All NFT's from Ethereum and Solana)](https://thenftbay.org/description.html) ([HN](https://news.ycombinator.com/item?id=29265064))
 - [XuperChain](https://github.com/xuperchain/xuperchain) - Highly flexible blockchain architecture with great transaction performance.
 - [Why NFTs are bad: the long version (2021)](https://antsstyle.medium.com/why-nfts-are-bad-the-long-version-2c16dae145e2) ([HN](https://news.ycombinator.com/item?id=29280317))
+- [TheNFTBay: Fake, but Worth Discussing (2021)](https://www.clubnft.com/blog/the-trillion-byte-let-down) ([HN](https://news.ycombinator.com/item?id=29290156))

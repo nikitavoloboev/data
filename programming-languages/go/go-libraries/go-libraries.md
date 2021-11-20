@@ -54,6 +54,7 @@
 - [oauth2cli](https://github.com/int128/oauth2cli) - Go package of OAuth 2.0 authorization for command line tools, which allows simple authorization flow for better UX.
 - [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications.
 - [acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
+- [uiprogress](https://github.com/gosuri/uiprogress) - Go library to render progress bars in terminal applications.
 
 ## Test
 

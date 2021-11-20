@@ -43,3 +43,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Reflections on Burnout (2021)](https://medium.com/@vaidehijoshi/reflections-on-burnout-bea0ebf87b9)
 - [Avoiding Burnout](https://andrewdumont.me/avoiding-burnout/) ([HN](https://news.ycombinator.com/item?id=5630445)) ([Summary](https://twitter.com/senotrusov/status/1439103386964615170))
 - [Depression is more than low mood – it’s a change of consciousness (2021)](https://psyche.co/ideas/depression-is-more-than-low-mood-its-a-change-of-consciousness) ([HN](https://news.ycombinator.com/item?id=29223641))
+- [How I Got My Brain Back (2021)](https://every.to/superorganizers/how-i-got-my-brain-back) - Using observation, investigation, and productivity methods to understand my depression. ([HN](https://news.ycombinator.com/item?id=29263182))

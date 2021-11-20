@@ -351,6 +351,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [EIP validator](https://github.com/lightclient/eipv) - Ethereum Improvement Proposal Validator.
 - [Best ways to stake Eth (2021)](https://www.reddit.com/r/ethereum/comments/qmfx43/coinbase_eth_staking_rewards_have_dropped_down/)
 - [StarkNet](https://starkware.co/starknet/) - Permissionless Decentralized ZK-Rollup. Operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation. [(JS Client](https://github.com/seanjameshan/starknet.js))
+- [OpenZeppelin Nile](https://github.com/OpenZeppelin/nile) - CLI tool to develop StarkNet projects written in Cairo.
 - [Yield Protocol Liquidator](https://github.com/yieldprotocol/yield-liquidator) - Utility for force-closing undercollateralized Yield Protocol loans and participating in dutch auctions with liquidity sourced by Uniswap flash loans.
 - [Ray tracing on the Ethereum Virtual Machine](https://github.com/axic/snailtracer)
 - [Ethereum Sentry](https://github.com/akula-bft/sentry) - Ethereum P2P network service.
