@@ -258,3 +258,4 @@
 - [Symmetry Magazine](https://www.symmetrymagazine.org/) - Dimensions of particle physics.
 - [Ultracold, superdense atoms become invisible (2021)](https://news.mit.edu/2021/atoms-ultracold-scatter-light-1118) ([HN](https://news.ycombinator.com/item?id=29280780))
 - [Into the Cool: Energy Flow, Thermodynamics, and Life by Eric D. Schneider (2006)](https://www.goodreads.com/book/show/52737.Into_the_Cool)
+- [Gauss Linking Number and Electro-magnetic Uncertainty Principle (1997)](https://arxiv.org/abs/hep-th/9701136) ([Tweet](https://twitter.com/johncarlosbaez/status/1462152095658876929))

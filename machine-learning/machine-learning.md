@@ -603,3 +603,4 @@
 - [Interactive Gradient Descent Demo (2021)](https://blog.skz.dev/gradient-descent)
 - [Why Momentum Really Works (2017)](https://distill.pub/2017/momentum/)
 - [HNPE: Leveraging Global Parameters for Neural Posterior Estimation (2021)](https://arxiv.org/abs/2102.06477) ([Tweet](https://twitter.com/plc_rodrigues/status/1460654220944809986))
+- [Facebook AI Similarity Search (Faiss)](https://www.pinecone.io/learn/faiss-tutorial/) ([HN](https://news.ycombinator.com/item?id=29291047))

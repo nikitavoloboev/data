@@ -23,6 +23,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Don’t spend time attacking people. Don’t spend your time on the people you hate. Instead, spend time on building your own products, spend time on yourself. Some people still don’t get this. Time is the most limited resource.](https://twitter.com/cz_binance/status/1458916521355403274)
 - [Life is a game and self belief is the cheat code](https://www.reddit.com/r/Psychonaut/comments/quoa7p/whats_the_big_secret/)
 - [It took me like a year to condense a paragraph of “what is a nerd?” into “directed by curiosity”, and “what is friendship?” into “shared understanding”, and I have been quite seriously considering that my definition of ambition is in the ballpark of “cursed with giving a shit”.](https://twitter.com/visakanv/status/1461633919695032320)
+- [How we spend our days is, of course, how we spend our lives.](https://twitter.com/lorde)
 
 ## Links
 

@@ -416,3 +416,4 @@
 - [Miscellaneous eBPF Tooling](https://github.com/nccgroup/ebpf)
 - [scanmem](https://github.com/scanmem/scanmem) - Memory scanner for Linux.
 - [Debugging a Linux network stack crash via a single register value (2021)](https://blog.cloudflare.com/the-tale-of-a-single-register-value/?a) ([HN](https://news.ycombinator.com/item?id=29260464))
+- [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules (2021)](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
