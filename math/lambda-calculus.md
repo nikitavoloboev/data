@@ -66,3 +66,4 @@ Is logical theory of computable functions.
 - [Lambda Calculus Visualizer](https://yanamal.github.io/lambda-js/) ([Code](https://github.com/yanamal/lambda-js))
 - [glam](https://github.com/ncfavier/glam) - Implementation of the guarded λ-calculus.
 - [Formalization of Typed and Untyped λ-Calculi in Coq and Agda2](https://github.com/pi8027/lambda-calculus)
+- [Foundations of Dawn: The Untyped Concatenative Calculus (2021)](https://www.dawn-lang.org/posts/foundations-ucc/)

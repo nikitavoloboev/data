@@ -21,3 +21,4 @@ Best to not ever take opiates if you can avoid it.
 - [I am a heroin user. I do not have a drug problem (2021)](https://nautil.us/issue/96/rewired/i-am-a-heroin-user-i-do-not-have-a-drug-problem) ([HN](https://news.ycombinator.com/item?id=26179003))
 - [Decided to try heroin - here’s what happened (2021)](https://www.reddit.com/r/Drugs/comments/prpx5o/decided_to_try_heroin_heres_what_happenend/)
 - [My experience of losing a friend to heroin (2020)](https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/) ([HN](https://news.ycombinator.com/item?id=28993567))
+- [Americans Invented Modern Life. Now We’re Using Opioids to Escape It. (2018)](https://nymag.com/intelligencer/2018/02/americas-opioid-epidemic.html) ([Tweet](https://twitter.com/profplum99/status/1462038235375226880))

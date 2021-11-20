@@ -11,7 +11,7 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Repology](https://repology.org/) - Monitors a huge number of package repositories and other sources comparing packages versions across them and gathering other information.
 - [Managing Developer Environments with Conda (2020)](https://interrupt.memfault.com/blog/conda-developer-environments)
 - [Developers shouldn't distribute their own software (2020)](https://lobste.rs/s/6ame3m/developers_shouldn_t_distribute_their)
-- [Spack](https://github.com/spack/spack) - Flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [Spack](https://github.com/spack/spack) - Flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Docs](https://spack.readthedocs.io/en/latest/))
 - [rebuilderd](https://github.com/kpcyrd/rebuilderd) - Independent verification of binary packages - reproducible builds.
 - [dripip](https://github.com/prisma-labs/dripip) - Opinionated CLI for continuous delivery of npm packages.
 - [PRIVJS](https://privjs.com/) - Implement access control to your npm packages.

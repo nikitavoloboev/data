@@ -279,3 +279,4 @@
 - [Isaac Gym Benchmark Environments](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) - Contains example RL environments for the NVIDIA Isaac Gym high performance environments.
 - [Offline Reinforcement Learning with Implicit Q-Learning (2021)](https://arxiv.org/abs/2110.06169) ([Code](https://github.com/ikostrikov/implicit_q_learning))
 - [A Survey of Generalisation in Deep Reinforcement Learning (2021)](https://arxiv.org/abs/2111.09794) ([Tweet](https://twitter.com/OriolVinyalsML/status/1461729731301167112))
+- [Permutation-Invariant Neural Networks for Reinforcement Learning (2021)](https://ai.googleblog.com/2021/11/permutation-invariant-neural-networks.html)

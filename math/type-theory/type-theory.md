@@ -161,3 +161,4 @@
 - [TypicalMath](https://github.com/Trebor-Huang/typical-math) - General-purpose type theory and proof checker generator.
 - [Proofs and Types (1990)](http://www.paultaylor.eu/~pt/stable/Proofs+Types)
 - [EUTYPES-TYPES 2020 - Abstracts](https://types2020.di.unito.it/abstracts/BookOfAbstractsTYPES2020.pdf) ([Tweet](https://twitter.com/mietek/status/1461734839061676032))
+- [The critical dimension as an invariant of Type III odometers (2013)](https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay/unsworks_12203/UNSWORKS)
