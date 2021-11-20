@@ -229,3 +229,4 @@
 - [dcbench](https://github.com/data-centric-ai/dcbench) - Benchmark of data-centric tasks from across the machine learning lifecycle.
 - [Cockpit](https://github.com/f-dangel/cockpit) - Visual and statistical debugger specifically designed for deep learning.
 - [CatBoost](https://github.com/catboost/catboost) - Machine learning method based on gradient boosting over decision trees. ([Web](https://catboost.ai/))
+- [Xplique](https://github.com/deel-ai/xplique) - Neural Networks Explainability Toolbox.

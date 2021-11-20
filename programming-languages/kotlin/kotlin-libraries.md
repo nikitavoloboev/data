@@ -3,6 +3,7 @@
 ## Web
 
 - [Javalin](https://github.com/tipsy/javalin) - Simple and modern Java and Kotlin web framework. ([Web](https://javalin.io/))
+- [NetworkResponseAdapter](https://github.com/haroldadmin/NetworkResponseAdapter) - Kotlin Coroutines based Retrofit call adapter that handles errors as a part of state.
 
 ## Graphics
 

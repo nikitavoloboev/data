@@ -347,3 +347,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [dhcparse](https://github.com/axelf4/dhcparse) - Zero-copy Rust DHCPv4 parser.
 - [XMPP, a comeback story (2021)](https://takebackourtech.org/xmpp-comeback/) ([HN](https://news.ycombinator.com/item?id=29256618)) ([Lobsters](https://lobste.rs/s/8q1qd4/xmpp_comeback_story))
 - [Network Protocol Breakdown: Ethernet and Go (2017)](https://medium.com/@mdlayher/network-protocol-breakdown-ethernet-and-go-de985d726cc1)
+- [OpenThread](https://github.com/openthread/openthread) - Open-source implementation of the Thread networking protocol. ([Web](https://openthread.io/))

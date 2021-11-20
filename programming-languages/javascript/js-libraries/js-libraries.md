@@ -672,6 +672,7 @@
 - [web-streams-adapter](https://github.com/MattiasBuelens/web-streams-adapter) - Adapters for converting between different implementations of WHATWG Streams.
 - [pan-zoom](https://github.com/dy/pan-zoom) - Panning and zooming events for any target.
 - [bind-event-listener](https://github.com/alexreardon/bind-event-listener) - Utility to make binding and (especially) unbinding DOM events easier.
+- [Chrono](https://github.com/wanasit/chrono) - Natural language date parser in JavaScript.
 
 ## Links
 

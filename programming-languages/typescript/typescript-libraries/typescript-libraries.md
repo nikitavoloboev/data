@@ -199,6 +199,7 @@
 - [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - Text buffer used in VS Code/Monaco.
 - [TS-Collection](https://github.com/always-maap/TS-Collection) - Performant Algorithms and Data-Structures for the Web & NodeJS. ([Docs](https://ts-collection.vercel.app/docs/overview))
 - [tldraw/intersect](https://github.com/tldraw/intersect) - 2D intersection utilities for TLDraw and maybe you, too.
+- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - Opinionated, fully type-safe, lightweight localization library for TypeScript and JavaScript projects with no external dependencies.
 
 ## Links
 

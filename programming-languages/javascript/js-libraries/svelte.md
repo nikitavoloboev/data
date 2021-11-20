@@ -132,3 +132,7 @@
 - [svelte-select](https://github.com/rob-balfre/svelte-select) - Select/autocomplete component for Svelte apps. With support for grouping, filtering, async and more.
 - [adapter-cloudflare](https://www.npmjs.com/package/@sveltejs/adapter-cloudflare) - Adapter for building SvelteKit applications on Cloudflare Pages with Workers integration. ([Tweet](https://twitter.com/lukeed05/status/1461417536151457795))
 - [Svelte Summit Spring 2021](https://www.youtube.com/watch?v=fnr9XWvjJHw)
+- [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Official Svelte plugin for Vite.
+- [My Svelte Code Ordering Style (2021)](https://bjornlu.com/blog/my-svelte-code-ordering-style)
+- [Using Apollo Client in Sapper (2020)](https://bjornlu.com/blog/using-apollo-client-in-sapper)
+- [SvelteKit is now fully supported in WebContainers (2021)](https://blog.stackblitz.com/posts/sveltekit-supported-in-webcontainers/)

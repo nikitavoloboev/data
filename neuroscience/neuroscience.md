@@ -95,6 +95,7 @@
 - [Do mirror neurons explain understanding, or is it the other way round? (2013)](https://yohanjohn.com/neurologism/do-mirror-neurons-explain-understanding-or-is-it-the-other-way-round/)
 - [To Be Energy-Efficient, Brains Predict Their Perceptions (2021)](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
 - [Extent of myosin penetration within the actin cortex regulates cell surface mechanics (2021)](https://www.nature.com/articles/s41467-021-26611-2) ([Tweet](https://twitter.com/PaluchLab/status/1461288840136691716))
+- [Mapping the Human Brain (2021)](https://www.youtube.com/watch?v=T8yfZ4JhlbY)
 
 ## Images
 

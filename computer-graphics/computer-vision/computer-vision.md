@@ -457,3 +457,4 @@
 - [Learning to Compose Visual Relations (2021)](https://composevisualrelations.github.io/) ([Code](https://github.com/nanlliu/compose-visual-relations))
 - [LF-Net: Learning Local Features from Images (2018)](https://arxiv.org/abs/1805.09662) ([Code](https://github.com/vcg-uvic/lf-net-release))
 - [Aligning Pretraining for Detection via Object-Level Contrastive Learning (2021)](https://arxiv.org/abs/2106.02637) ([Code](https://github.com/hologerry/SoCo))
+- [Look at the Variance! Efficient Black-box Explanations with Sobol-based Sensitivity Analysis (2021)](https://arxiv.org/abs/2111.04138) ([Code](https://github.com/fel-thomas/Sobol-Attribution-Method))

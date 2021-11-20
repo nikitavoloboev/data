@@ -266,3 +266,4 @@
 - [Graphql Lambda Subscriptions](https://github.com/reconbot/graphql-lambda-subscriptions) - Graphql-WS compatible Lambda Powered Subscriptions.
 - [graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
 - [GraphQL over SSE (Server-Sent Events) (2021)](https://the-guild.dev/blog/graphql-over-sse)
+- [graphql-http-test](https://github.com/jaydenseric/graphql-http-test) - JavaScript API and CLI to test a GraphQL server for GraphQL over HTTP spec compliance.
