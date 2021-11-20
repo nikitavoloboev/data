@@ -365,6 +365,7 @@
 - [ec3](https://github.com/mmcloughlin/ec3) - Elliptic Curve Cryptography Compiler.
 - [XXH3](https://github.com/zeebo/xxh3) - XXH3 algorithm in Go.
 - [smt](https://github.com/celestiaorg/smt) - Go library that implements a Sparse Merkle tree for a key-value map.
+- [tss-lib](https://github.com/binance-chain/tss-lib) - Multi-Party Threshold Signature Scheme.
 
 ## Linux
 

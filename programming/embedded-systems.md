@@ -147,3 +147,4 @@
 - [Open Source Firmware Foundation](https://osfw.foundation/) ([Twitter](https://twitter.com/osfw_foundation))
 - [acados](https://github.com/acados/acados) - Fast and embedded solvers for nonlinear optimal control.
 - [Learning Rust For Embedded Systems (2021)](https://www.embeddedrelated.com/showarticle/1432.php) ([HN](https://news.ycombinator.com/item?id=29269218))
+- [esptool.py](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility.

@@ -75,3 +75,4 @@
 - [The NAND gate. One gate to rule them all](https://sebastiancarlos.medium.com/the-nand-gate-one-gate-to-rule-them-all-ee1a5dbc83dd) ([HN](https://news.ycombinator.com/item?id=28756727))
 - [How to build your own CNC machine from scratch](https://github.com/maxvfischer/DIY-CNC-machine) ([HN](https://news.ycombinator.com/item?id=29096954))
 - [How to build your own full-size arcade machine from scratch](https://github.com/maxvfischer/DIY-arcade)
+- [The Big Misconception About Electricity (2021)](https://www.youtube.com/watch?v=bHIhgxav9LY) ([Tweet](https://twitter.com/BartoszMilewski/status/1461845001407660035))

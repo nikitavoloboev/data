@@ -130,6 +130,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [What are your favorite obscure podcasts? (2021)](https://www.reddit.com/r/podcasts/comments/mk4t7o/what_are_your_favourite_obscure_podcasts/)
 - [Podcasts for bootstrappers and indie hackers](https://transistor.fm/podcasts-for-bootstrappers/)
 - [Top podcasts founders consume (2021)](https://twitter.com/volodarik/status/1451216738683539461)
+- [Fast, snappy, high content podcasts (2021)](https://twitter.com/HarryStebbings/status/1462023893103915014)
 
 ## Notes
 

@@ -29,6 +29,7 @@
 - [Aviasales](https://www.aviasales.ru/about/vacancies)
 - [Encore](https://jobs.encore.dev/)
 - [The Browser Company](https://thebrowser.company/careers/)
+- [Scrimba typical dev day](https://twitter.com/perborgen/status/1461684234561667080)
 
 ## Questions to ask
 

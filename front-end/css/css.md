@@ -394,3 +394,4 @@ all: unset
 - [Layout patterns](https://web.dev/patterns/layout/) - Collection of layout patterns built using modern CSS APIs.
 - [The new responsive design (2021)](https://www.youtube.com/watch?v=dhrX_biPH8c)
 - [Discover CSS polygon shapes](https://css-doodle.com/shapes/) ([Code](https://github.com/css-doodle/shapes))
+- [Parallax Powered by CSS Custom Properties (2021)](https://css-tricks.com/parallax-powered-by-css-custom-properties/)

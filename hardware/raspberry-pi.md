@@ -96,3 +96,4 @@
 - [Gilbraltar](https://github.com/dinosaure/gilbraltar) - MirageOS on RPi4.
 - [PiKISS For Raspberry Pi](https://github.com/jmcerrejon/PiKISS) - Bunch Of Scripts With Menu To Make Your Life Easier.
 - [I built a $5k Raspberry Pi server (yes, it's ridiculous) (2021)](https://www.jeffgeerling.com/blog/2021/i-built-5000-raspberry-pi-server-yes-its-ridiculous) ([HN](https://news.ycombinator.com/item?id=29253928))
+- [Argo CD for your private Raspberry Pi k3s cluster (2020)](https://johansiebens.dev/posts/2020/08/argo-cd-for-your-private-raspberry-pi-k3s-cluster/)

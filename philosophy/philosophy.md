@@ -63,3 +63,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Platonism in the Philosophy of Mathematics](https://plato.stanford.edu/entries/platonism-mathematics/) ([HN](https://news.ycombinator.com/item?id=28935718))
 - [The Best Books on Immanuel Kant](https://fivebooks.com/best-books/kant/)
 - [Journey to the Edge of Reason: The life of Kurt Gödel (2021)](https://www.the-tls.co.uk/articles/journey-to-the-edge-of-reason-kurt-godel-stephen-budianksy-book-review-cheryl-misak/) ([HN](https://news.ycombinator.com/item?id=29202234))
+- [A Little History of Philosophy (2011)](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy)

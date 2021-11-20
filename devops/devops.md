@@ -113,3 +113,6 @@
 - [The Reports of Devops's death are greatly exaggerated (2021)](https://adnaan.badr.in/blog/2021/01/25/the-reports-of-devopss-death-are-greatly-exaggerated/)
 - [hcltm](https://github.com/xntrik/hcltm) - Threat Modeling with HCL.
 - [Hyperping](https://hyperping.io/) - Uptime monitoring with public status pages.
+- [hashi-up](https://github.com/jsiebens/hashi-up) - Bootstrap HashiCorp Consul, Nomad, or Vault over SSH < 1 minute.
+- [faas-nomad](https://github.com/jsiebens/faas-nomad) - OpenFaas provider for Nomad.
+- [A Multi Cluster and Multi Orchestrator home lab (2021)](https://johansiebens.dev/posts/2021/05/a-multi-cluster-and-multi-orchestrator-home-lab/)

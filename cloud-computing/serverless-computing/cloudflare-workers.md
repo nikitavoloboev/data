@@ -7,6 +7,7 @@
 ## Notes
 
 - [Think of Durable Objects as in memory cache in JavaScript spread across all edges globally with two specialties: 1. It’s automatically scaled and persisted to durable storage after workers finish execution. 2. It’s single threaded globally so you effectively get a write lock on them. The object actually only runs in one single location. And then based on the requests coming to it, Cloudflare moves it around to the most optimum location.](https://twitter.com/chatsidhartha/status/1460511611756728323?s=28)
+- [All the pieces are in place to build $1B company using Cloudflare Workers](https://twitter.com/eastdakota/status/1461722959639240713)
 
 ## Links
 

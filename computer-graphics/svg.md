@@ -105,3 +105,4 @@
 - [Scour](https://github.com/scour-project/scour) - SVG optimizer/cleaner written in Python that reduces the size of scalable vector graphics by optimizing structure and removing unnecessary data.
 - [Flip, Invert, and Reverse (2021)](https://yuanchuan.dev/flip-invert-reverse) - 3 kinds of transformations for the SVG path commands.
 - [resvg-js](https://github.com/yisibl/resvg-js) - High-performance SVG renderer, powered by Rust based resvg and napi-rs.
+- [SVGcode](https://svgco.de/) - Convert raster images to SVG vector graphics. ([Article](https://web.dev/svgcode/))

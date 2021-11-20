@@ -131,3 +131,4 @@
 - [Tweet Hunter](https://tweethunter.io/) - Grow Your Twitter Audience.
 - [Awesome Twitter Communities](https://github.com/caarlos0/awesome-twitter-communities)
 - [TwitterFOMO.dev](https://twitterfomo.dev/) - Best WebDev Tweets. ([Code](https://github.com/tomdohnal/twitter-fomo))
+- [How Twitter got research right (2021)](https://www.theverge.com/2021/11/19/22790174/twitter-research-transparency-published-findings)

@@ -106,3 +106,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Lessons from Building a Static Site Generator (2020)](https://nicholasreese.com/lessons-from-building-a-static-site-generator/) ([HN](https://news.ycombinator.com/item?id=27687899))
 - [How to set up your blog with Haskell, Slick and Netlify (2020)](https://luctielen.com/posts/how_to_setup_blog_with_haskell_slick_and_netlify/)
 - [Commento++](https://github.com/souramoo/commentoplusplus) - Free, open source, fast & lightweight comments box that you can embed in your static website instead of Disqus.
+- [Using Netlify API Authentication for Static Site Builds (2021)](https://den.dev/blog/api-authentication-netlify-builds/)

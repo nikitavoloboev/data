@@ -382,3 +382,5 @@ if (
 - [JS Sockets API Proposal](https://github.com/jasnell/sockets-api) ([Tweet](https://twitter.com/jasnell/status/1460415509459968003))
 - [JS Enum Proposal](https://github.com/Jack-Works/proposal-enum) ([Tweet](https://twitter.com/robpalmer2/status/1459834460954890243))
 - [JS Records & Tuples Proposal](https://github.com/tc39/proposal-record-tuple)
+- [ECMAScript Proposals](https://www.proposals.es/) ([Code](https://github.com/saadq/proposals.es))
+- [dum](https://github.com/egoist/dum) - npm scripts runner written in Rust.
