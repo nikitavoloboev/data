@@ -61,6 +61,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Bridgetown](https://www.bridgetownrb.com/) - Webpack-aware, Ruby-powered static site generator for the modern Jamstack era. ([Code](https://github.com/bridgetownrb/bridgetown)) ([Twitter](https://twitter.com/bridgetownrb))
 - [babe](https://github.com/askonomm/babe) - Data oriented static site generator.
 - [Lume](https://github.com/lumeland/lume) - Static site generator for Deno.
+- [Retype](https://github.com/retypeapp/retype) - Ultra-high-performance generator that builds a website based on simple text files. ([Docs](https://retype.com/))
 
 ## Notes
 

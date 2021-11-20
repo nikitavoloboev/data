@@ -106,3 +106,4 @@
 - [Flip, Invert, and Reverse (2021)](https://yuanchuan.dev/flip-invert-reverse) - 3 kinds of transformations for the SVG path commands.
 - [resvg-js](https://github.com/yisibl/resvg-js) - High-performance SVG renderer, powered by Rust based resvg and napi-rs.
 - [SVGcode](https://svgco.de/) - Convert raster images to SVG vector graphics. ([Article](https://web.dev/svgcode/))
+- [Pablo](https://github.com/premasagar/pablo) - Lightweight, expressive JavaScript SVG library. ([Web](http://pablojs.com/)) ([HN](https://news.ycombinator.com/item?id=29287595))

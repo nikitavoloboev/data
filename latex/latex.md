@@ -99,3 +99,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Asiatic pTeX](https://github.com/clerkma/ptex-ng)
 - [ClutTeX](https://github.com/minoki/cluttex) - Process LaTeX document without cluttering your directory.
 - [LaTeX Input for Impatient Scholars (2021)](https://karthinks.com/software/latex-input-for-impatient-scholars/) ([HN](https://news.ycombinator.com/item?id=29131928))
+- [LaTeXPad](https://www.latexpad.dev/) - Minimalist LaTeX scratch pad with symbol autocompletion and instant previews. ([Code](https://github.com/cmoog/latexpad))

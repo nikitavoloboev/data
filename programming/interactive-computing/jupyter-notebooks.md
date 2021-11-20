@@ -151,3 +151,4 @@
 - [RetroLab](https://github.com/jupyterlab/retrolab) - JupyterLab distribution with a retro look and feel.
 - [observable_jupyter](https://github.com/thomasballinger/observable-jupyter) - Embed cells from Observable notebooks into Jupyter notebooks.
 - [jupyterlab-nvdashboard](https://github.com/rapidsai/jupyterlab-nvdashboard) - JupyterLab extension for displaying GPU usage dashboards.
+- [CFD Python](https://github.com/barbagroup/CFDPython) - Sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes".

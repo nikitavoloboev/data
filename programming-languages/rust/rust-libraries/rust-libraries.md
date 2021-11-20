@@ -1155,6 +1155,7 @@
 - [Wait Map](https://github.com/withoutboats/waitmap) - Async/await concurrency primitive implemented as a concurrent hashmap.
 - [Encoding](https://github.com/lifthrasiir/rust-encoding) - Character encoding support for Rust.
 - [Pbjson](https://github.com/influxdata/pbjson) - Auto-generate serde implementations for prost types.
+- [griddle](https://github.com/jonhoo/griddle) - HashMap variant that spreads resize load across inserts.
 
 ## Cargo Plugins
 

@@ -15,3 +15,4 @@
 - [NestJS npm Library Template](https://github.com/bzuker/nestjs-library-template)
 - [NestJS TypeScript, Prisma, Apollo Server GraphQL project](https://github.com/MileTwo/nestjs-gql-prisma)
 - [nestjs-sentry](https://github.com/ntegral/nestjs-sentry) - Provides an injectable sentry.io client to provide enterprise logging nestjs modules.
+- [NestJS Authentication: JWTs, Sessions, logins, and more! | NestJS PassportJS Tutorial (2021)](https://www.youtube.com/watch?v=_L225zpUK0M)

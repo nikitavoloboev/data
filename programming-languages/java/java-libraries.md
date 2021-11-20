@@ -35,6 +35,7 @@
 - [Gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back.
 - [Manifold](https://github.com/manifold-systems/manifold) - Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. ([Docs](http://manifold.systems/))
 - [JavaCPP](https://github.com/bytedeco/javacpp) - Efficient access to native C++ inside Java.
+- [Amazon Ion Java](https://github.com/amzn/ion-java) - Java streaming parser/serializer for Ion.
 
 ## Links
 
