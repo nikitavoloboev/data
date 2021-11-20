@@ -44,6 +44,10 @@ Below is a list of extensions I use.
 - [Scala (Metals)](https://marketplace.visualstudio.com/items?itemName=scalameta.metals) - Scala language server with rich IDE features. ([Code](https://github.com/scalameta/metals-vscode))
 - [Scala Syntax (official)](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) ([Code](https://github.com/scala/vscode-scala-syntax))
 
+## Nix
+
+- [Nix IDE](https://marketplace.visualstudio.com/items?itemName=jnoortheen.nix-ide) - Nix language support with formatting and error report. ([Code](https://github.com/nix-community/vscode-nix-ide))
+
 ## Theme
 
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) ([Code](https://github.com/primer/github-vscode-theme))

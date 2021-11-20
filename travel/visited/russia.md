@@ -346,3 +346,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Введение в феминизм](https://twitter.com/SunnySwamp/status/1388833195353903111)
 - [Душняк. Советский диссидент Александр Подрабинек об издевательствах над Навальным (2021)](https://theins.ru/opinions/aleksandr-podrabinek/246355)
 - [vc.ru](https://vc.ru/) - Бизнес, технологии, идеи, модели роста, стартапы.
+- [Yuri Andropov](https://www.youtube.com/watch?v=AxzXdqqHND0)
