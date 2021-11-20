@@ -60,3 +60,4 @@
 - [(2) Program Adverbs: Structures for Embedding Effectful Programs (2021)](https://lastland.github.io/media/papers/adverbs-preprint.pdf)
 - [Dependent Object Types (DOT)](https://github.com/namin/dot) - Formalization of the Dependent Object Types (DOT) calculus.
 - [Magma](https://github.com/blainehansen/magma) - Dependently-typed language.
+- [Formal Metatheory of Second-Order Abstract Syntax](https://www.cl.cam.ac.uk/~ds709/agda-soas/)

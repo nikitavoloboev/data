@@ -68,3 +68,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Understanding China, with Former Australian Prime Minister Kevin Rudd (2021)](https://www.youtube.com/watch?v=gYR92KjKxm8)
 - [China to supercharge uranium race with 150 new nuclear reactors (2021)](https://twitter.com/balajis/status/1455870589244088326) ([HN](https://news.ycombinator.com/item?id=29094422)) ([HN](https://news.ycombinator.com/item?id=29151741))
 - [Removing China’s “Startup Debt” (2021)](https://interconnected.blog/removing-china-startup-debt/)
+- [Red Star Over the Pacific by Toshi Yoshihara (2010)](https://www.goodreads.com/book/show/8313321-red-star-over-the-pacific) ([Tweet](https://twitter.com/rabois/status/1462153717201911809))

@@ -233,3 +233,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Arbitrage as a Shortest Path Problem (2021)](https://blog.skz.dev/arbitrage-as-a-shortest-path-problem)
 - [Stocketa](https://stocketa.com/) - Premium portfolio tracker for iOS. ([Twitter](https://twitter.com/StocketaApp))
 - [Degiro](https://www.degiro.com/) - Online Stock Trading. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qxc47l/summary_of_degiro_new_fee_schedule_from_20122021/))
+- [How ETFs work behind the scenes, rebalancing and preventing capital gains (2021)](https://www.reddit.com/r/investing/comments/qy7q2x/how_etfs_work_behind_the_scenes_rebalancing_and/)

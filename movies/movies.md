@@ -67,3 +67,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [“Dune” (The Movie), Annotated (2021)](https://maxread.substack.com/p/dune-annotated) ([HN](https://news.ycombinator.com/item?id=29011467))
 - [Your top movies for 2021](https://twitter.com/letterboxd/status/1456005237588692992)
 - [Netflix Top 10 Movies - Global](https://top10.netflix.com/) ([HN](https://news.ycombinator.com/item?id=29246485))
+- [What are your favorite movie podcasts? (2021)](https://www.reddit.com/r/Letterboxd/comments/qy8ojg/what_are_your_favorite_movie_podcasts/)

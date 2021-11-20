@@ -9,6 +9,7 @@
 - [Elon Musk is present in all design reviews. It's always ok to contradict another person's opinion & accept you being wrong.](https://youtu.be/hTOtAniwC18?t=1298)
 - [Leaders must pursue excellence everywhere, at all times. The product of excellent and mediocre is mediocre. Organizations devolve to their lowest common denominator. Leading this way is exhausting. But if you’re not willing to make the sacrifice, please move out of the way.](https://twitter.com/laserlikemike/status/1458857100298403844)
 - [How to make what you work on great: Clear vision and objective function. Great leadership. Small, elite, cross-functional teams. Focus on excellence all around. Obsession with building an amazing product that delights customers. Intellectual honesty. And intense work ethic.](https://twitter.com/laserlikemike/status/1460637838110691328)
+- [Nothing destroys an organization faster than a leader with the desire to be well liked.](https://twitter.com/laserlikemike/status/1462061981758746624)
 
 ## Links
 

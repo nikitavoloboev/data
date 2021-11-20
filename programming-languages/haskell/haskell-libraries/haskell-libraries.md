@@ -186,6 +186,10 @@
 - [some](https://github.com/haskellari/some) - Defines several versions of an existential type 'Some'.
 - [rio](https://github.com/commercialhaskell/rio) - Standard library for Haskell.
 
+## Notes
+
+- [Nix is the only Haskell build tool that can download pre-built dependencies from a remote cache](https://twitter.com/GabriellaG439/status/1462150727837487107)
+
 ## Links
 
 - [Hackage](https://hackage.haskell.org/) - Haskell Package Repository. ([Code](https://github.com/haskell/hackage-server))

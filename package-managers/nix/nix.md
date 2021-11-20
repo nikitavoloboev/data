@@ -1,6 +1,6 @@
 # [Nix](https://github.com/NixOS/nix)
 
-[nix.dev](https://nix.dev/) is great place to start learning/using Nix.
+[nix.dev](https://nix.dev/) & [Nix One Pager](https://github.com/tazjin/nix-1p) are great places to start learning/using Nix.
 
 ## Notes
 
@@ -25,6 +25,7 @@
 - [I think Nix's approach is the right way to build container images--build the image layers declaratively, reproducibly, incrementally (no, Dockerfile builds aren't incremental because dependency trees aren't linear), and without a container runtime dependency.](https://twitter.com/weberc2/status/1334927112550174721)
 - [Nix doesn't solve dependency resolution problems. Only pinning. There's ground to break there. Dependency management not being part of flakes is my biggest gripe with it. It would be our chance to be the once size fits all solution but we failed to deliver.](https://twitter.com/ProgrammerDude/status/1375451276234928132)
 - [There's a lot of unexplored potential of Nix in granular build systems and displacing systems like Bazel. If applied correctly, it lets smaller organisations get much of the benefit of Google-style monorepos but without as much maintenance overhead.](https://news.ycombinator.com/item?id=26748696)
+- [Nix doesn't have an issue with metadata revisions: they're just another explicitly declared input to the build so they don't violate purity.](https://twitter.com/GabriellaG439/status/1462150287871787009)
 
 ## Code
 
