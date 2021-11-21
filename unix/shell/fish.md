@@ -16,3 +16,4 @@
 - [Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) - Of recipes to solve specific programming problems using the fish-shell.
 - [Fish Posters of the World](http://www.fishposters.com/)
 - [Questions about global fish stocks, fisheries, overfishing, seafood, state of our oceans (2021)](https://twitter.com/_HannahRitchie/status/1419575591712575493)
+- [A modern, ergonomic Unix shell configuration with Fish (2021)](https://dev.to/yonkeltron/a-modern-ergonomic-unix-shell-configuration-with-fish-4dio)

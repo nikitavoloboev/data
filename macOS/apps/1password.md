@@ -24,3 +24,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Can securely share 1Password items with anyone (2021)](https://blog.1password.com/psst-item-sharing/)
 - [1Password Connect Kubernetes Operator](https://github.com/1Password/onepassword-operator)
 - [1Password is all in on its web stack (2021)](https://overcast.fm/+HZUd9uoxs)
+- [Moving from 1Password to iCloud Keychain (2021)](https://simonbs.dev/posts/moving-from-1password-to-icloud-keychain/) ([Tweet](https://twitter.com/simonbs/status/1462416489991000071))

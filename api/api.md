@@ -1,5 +1,7 @@
 # API
 
+[Linear API](https://developers.linear.app/docs) is interestingly made. [Stripe](https://stripe.com/docs/api) has nice API docs too.
+
 ## Other
 
 - [Google Drive](https://github.com/prasmussen/gdrive)

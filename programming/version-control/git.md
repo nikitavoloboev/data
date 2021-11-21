@@ -441,3 +441,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git as a source of truth for network automation (2021)](https://vincent.bernat.ch/en/blog/2021-source-of-truth-network)
 - [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [ChangeSets – group PRs across multiple Git repos (2021)](https://blog.mergequeue.com/changesets-coordinate-code-changes-across-multiple-repositories/) ([HN](https://news.ycombinator.com/item?id=29256878))
+- [Git ls-files is Faster Than Fd and Find (2021)](https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/)

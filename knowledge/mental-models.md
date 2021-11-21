@@ -24,3 +24,4 @@
 - [Convex and Concave Dispositions (2020)](https://vitalik.ca/general/2020/11/08/concave.html)
 - [Thomas Sowell, a lesson in critical thinking (1995)](https://www.youtube.com/watch?v=waEc4YbQQX0)
 - [Guide to my favorite mental models (2021)](https://twitter.com/gregisenberg/status/1398664821139255298)
+- [Ask HN: What mental models do you use everyday?](https://news.ycombinator.com/item?id=29297594)

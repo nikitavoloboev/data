@@ -622,3 +622,4 @@ if err != nil {
 - [go2cpp](https://github.com/hajimehoshi/go2cpp) - Converter from Go to C++.
 - [Go Race Detector (2013)](https://go.dev/blog/race-detector) ([Tweet](https://twitter.com/jboursiquot/status/1461717148435243009))
 - [AWKGo, an AWK-to-Go compiler (2021)](https://benhoyt.com/writings/awkgo/)
+- [From JPEG to JFIF via an io.Writer (2021)](https://nigeltao.github.io/blog/2021/from-jpeg-to-jfif.html)

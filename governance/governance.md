@@ -92,3 +92,5 @@
 - [The Rules for Rulers (2016)](https://www.youtube.com/watch?v=rStL7niR7gs)
 - [RadicalxChange](https://www.radicalxchange.org/#message) - Social movement for next-generation political economies. ([Twitter](https://twitter.com/RadxChange))
 - [Autocracy Is Winning (2021)](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) ([HN](https://news.ycombinator.com/item?id=29229386))
+- [The Equal Vote Coalition](https://www.equal.vote/)
+- [STAR Voting in under five minutes](https://www.youtube.com/watch?v=aiQ9Z5sME00)
