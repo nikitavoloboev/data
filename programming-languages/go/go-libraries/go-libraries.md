@@ -320,6 +320,7 @@
 - [Datastore Wrapper](https://github.com/mercari/datastore) - AppEngine | Cloud Datastore wrapper for Go.
 - [moss](https://github.com/couchbase/moss) - Simple, fast, ordered, persistable, key-val storage library for Go.
 - [Chestnut](https://github.com/jrapoport/chestnut) - Encrypted storage for Go.
+- [spindle](https://github.com/flowerinthenight/spindle) - Distributed locking library built on top of Cloud Spanner and TrueTime.
 
 ## ML
 
@@ -1103,6 +1104,7 @@
 - [docconv](https://github.com/sajari/docconv) - Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text.
 - [parquet-go](https://github.com/fraugster/parquet-go) - Go package to read and write parquet files.
 - [tail](https://github.com/nxadm/tail) - Go package for reading from continuously updated files (tail -f).
+- [gcslock](https://github.com/mco-gh/gcslock) - Simple, scalable, distributed mutex for serializing computations anywhere on the Internet.
 
 ## Links
 

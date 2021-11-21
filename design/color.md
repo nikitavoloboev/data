@@ -104,3 +104,4 @@
 - [Shadowlord](https://noeldelgado.github.io/shadowlord/) - Tints and Shades Generator Tool. ([Code](https://github.com/noeldelgado/shadowlord))
 - [Harmonic Coloring](http://www.musanim.com/HarmonicColoring/) - Method for assigning colors to musical pitches. ([HN](https://news.ycombinator.com/item?id=29241387))
 - [A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH (2021)](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
+- [Inkspot](https://github.com/rm-hull/inkspot) - Small Clojure/ClojureScript library for creating color swatches.

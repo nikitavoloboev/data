@@ -363,6 +363,7 @@
 - [Subsonic](https://github.com/twostraws/Subsonic) - Small library that makes it easier to play audio with SwiftUI.
 - [PageView](https://github.com/fredyshox/PageView) - SwiftUI view enabling page-based navigation.
 - [View+Bleed](https://github.com/ericlewis/View-Bleed) - Opposite of padding.
+- [Visual Effects](https://github.com/twostraws/VisualEffects) - SwiftUI wrapper for UIVisualEffectView.
 
 ## Test
 

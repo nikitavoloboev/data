@@ -47,3 +47,4 @@
 - [RAVE: A variational autoencoder for fast and high-quality neural audio synthesis (2021)](https://arxiv.org/abs/2111.05011) ([Code](https://github.com/caillonantoine/RAVE))
 - [WaveFlow: A Compact Flow-based Model for Raw Audio (2020)](https://arxiv.org/abs/1912.01219) ([Code](https://github.com/L0SG/WaveFlow))
 - [VoiceFixer](https://github.com/haoheliu/voicefixer_main) - Framework for general speech restoration.
+- [TTS-RS](https://github.com/ndarilek/tts-rs) - High-level Text-To-Speech (TTS) interface supporting various backends.

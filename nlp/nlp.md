@@ -399,3 +399,4 @@
 - [TaCL: Improving BERT Pre-training with Token-aware Contrastive Learning (2021)](https://arxiv.org/abs/2111.04198) ([Code](https://github.com/yxuansu/TaCL))
 - [Aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = text to image/video.
 - [OpenAI’s API Now Available with No Waitlist (2021)](https://openai.com/blog/api-no-waitlist/) ([HN](https://news.ycombinator.com/item?id=29265640))
+- [Recent trends of Entity Linking, Disambiguation, and Representation](https://github.com/izuna385/Entity-Linking-Recent-Trends)

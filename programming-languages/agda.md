@@ -60,3 +60,4 @@
 - [Generic](https://github.com/effectfully/Generic) - Library for doing generic programming in Agda.
 - [Agda Playground](https://github.com/oisdk/agda-playground)
 - [Formalizing polynomials in groupoids](https://github.com/smimram/fibred-polynomials)
+- [Formalization in Agda of the Symmetry book](https://github.com/UniMath/SymmetryBookFormalization)

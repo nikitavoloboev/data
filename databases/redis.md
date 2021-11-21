@@ -85,3 +85,4 @@
 - [Build an Elixir Redis Server that’s faster than HTTP (2021)](https://docs.statetrace.com/blog/redis-server/) ([HN](https://news.ycombinator.com/item?id=29199717))
 - [Redis Dataloader](https://github.com/PatrickJS/redis-dataloader) - Batching and Caching layer using Redis as the Caching layer.
 - [Pika](https://github.com/OpenAtomFoundation/pika) - Persistent huge storage service , compatible with the vast majority of Redis interfaces.
+- [Redigo](https://github.com/gomodule/redigo) - Go client for Redis. ([Examples](https://github.com/pete911/examples-redigo))
