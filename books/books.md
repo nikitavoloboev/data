@@ -243,6 +243,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Whats your favorite book? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qma7aj/whats_your_favorite_book/)
 - [Best book you read lately? (2021)](https://twitter.com/Miles_Brundage/status/1459386999249399809)
 - [Books that are better than therapy (2021)](https://twitter.com/DRMacIver/status/1459481901505388546)
+- [Eric Button's Books Read](https://ericbutton.co/blog/books)
 
 ## Interesting Prose Books
 

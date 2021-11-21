@@ -227,3 +227,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Software security paper list](https://github.com/AdaLogics/software-security-paper-list)
 - [LunaSec](https://github.com/lunasec-io/lunasec) - End-to-end security system designed to protect your application by transparently encrypting sensitive data, from browser to database.
 - [certinfo](https://github.com/pete911/certinfo) - Print x509 certificate info.
+- [Notes and writeups on CTFs](https://github.com/abhaynayar/obsidian)

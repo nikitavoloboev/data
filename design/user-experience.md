@@ -137,3 +137,4 @@
 - [Great How it Works Pages](https://twitter.com/monicalent/status/1459118768756568065)
 - [Letting users tick a ‘none’ checkbox (2021)](https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/) ([HN](https://news.ycombinator.com/item?id=29238159))
 - [5 Prioritization Methods in UX Roadmapping (2021)](https://www.nngroup.com/articles/prioritization-methods/)
+- [Interfaces: Advanced Easing](https://ericbutton.co/blog/interfaces-advanced-easing) ([HN](https://news.ycombinator.com/item?id=29270942))

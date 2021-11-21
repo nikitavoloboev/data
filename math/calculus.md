@@ -24,3 +24,4 @@
 - [Differential Calculus in 3 Minutes & 29 Seconds (2020)](https://www.youtube.com/watch?v=3gLKF20M3xw)
 - [Essential calculus ideas](https://www.youtube.com/watch?v=KyUPwfBLjEQ) ([HN](https://news.ycombinator.com/item?id=29011549))
 - [Integrating Factor (2021)](https://susam.in/blog/integrating-factor.html)
+- [An Introduction to Lagrange Multipliers](http://www.slimy.com/~steuard/teaching/tutorials/Lagrange.html) ([HN](https://news.ycombinator.com/item?id=29292294))

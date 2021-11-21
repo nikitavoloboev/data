@@ -165,3 +165,5 @@
 - [HTTP QUERY Method (2021)](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
 - [Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond (2021)](https://www.intruder.io/research/practical-http-header-smuggling) ([Tweet](https://twitter.com/albinowax/status/1458469363879759872)) ([HN](https://news.ycombinator.com/item?id=29189212))
 - [httpd](https://github.com/docker-library/httpd) - Docker Official Image packaging for Apache HTTP Server.
+- [HTTP Message Signatures (2021)](https://httpwg.org/http-extensions/draft-ietf-httpbis-message-signatures.html) ([HN](https://news.ycombinator.com/item?id=29281449))
+- [HTTP Extensions in progress](https://httpwg.org/http-extensions/) ([Code](https://github.com/httpwg/http-extensions))

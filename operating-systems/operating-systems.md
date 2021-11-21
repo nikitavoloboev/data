@@ -123,6 +123,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Kwast](https://github.com/kwast-os/kwast) - Rust operating system running WebAssembly as userspace in ring 0.
 - [seL4 Core Platform](https://github.com/BreakawayConsulting/sel4cp) - Simple operating system for the seL4 microkernel.
 - [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) - Operating system targeting x86 and ARMv7.
+- [Genesis](https://github.com/abhaynayar/genesis) - Minimal OS written in Jack.
 
 ## Notes
 

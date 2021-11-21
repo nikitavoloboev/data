@@ -181,6 +181,7 @@
 - [Couchbase Lite for iOS and MacOS](https://github.com/couchbase/couchbase-lite-ios) - Lightweight, embedded, syncable NoSQL database engine for iOS and MacOS apps.
 - [Kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
 - [Ambry](https://github.com/linkedin/ambry) - Distributed object store that supports storage of trillion of small immutable objects (50K -100K) as well as billions of large objects.
+- [ChaosDB](https://chaosdb.wiz.io/) - Unauthorized Privileged Access to Microsoft Azure Cosmos DB. ([Explained](https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough)) ([HN](https://news.ycombinator.com/item?id=29283057))
 
 ## Tools
 

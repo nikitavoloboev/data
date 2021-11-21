@@ -116,3 +116,5 @@
 - [Designing a MIPS CPU in Hardcaml](https://ceramichacker.com/blog/1-1x-hardcaml-mips-intro-what-and-why) ([HN](https://news.ycombinator.com/item?id=29105348))
 - [A Close Look at a Spinlock (2021)](https://blog.regehr.org/archives/2173)
 - [How to Make a CPU – A Simple Picture Based Explanation (2021)](https://blog.robertelder.org/how-to-make-a-cpu/) ([HN](https://news.ycombinator.com/item?id=29175402))
+- [Implementing CHIP-8 in Jack (2021)](https://abhaynayar.com/blog/chip8-in-jack.html)
+- [n2t-wasm](https://github.com/abhaynayar/n2t-wasm) - Emulator for the nand2tetris computer (Hack CPU).
