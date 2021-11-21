@@ -121,3 +121,4 @@
 - [SSI](https://github.com/spruceid/ssi) - Core Verifiable Credential and Decentralized Identifier functionality in Rust.
 - [Decentralised Tech & the Future of Organising (2021)](https://richdecibels.substack.com/p/9-decentralised-tech-and-the-future) ([Tweet](https://twitter.com/RichDecibels/status/1461698873974575106))
 - [The web3 stack (2021)](https://twitter.com/dabit3/status/1462169151041064966)
+- [Webb](https://www.webb.tools/) - Multi-chain privacy hub for blockchains. ([GitHub](https://github.com/webb-tools)) ([Code](https://github.com/webb-tools/protocol-solidity))

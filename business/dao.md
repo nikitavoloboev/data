@@ -38,3 +38,4 @@
 - [TributeDAO](https://tributedao.com/) - New modular DAO framework, inspired by the Moloch smart contracts. ([Code](https://github.com/openlawteam/tribute-contracts))
 - [Council](https://github.com/element-fi/council) - Decentralized governance system that allows a community to manage a DAO.
 - [MakerDAO](https://makerdao.com/en/) - Unbiased Global Financial System. ([Forum](https://forum.makerdao.com/)) ([Awesome](https://github.com/makerdao/awesome-makerdao)) ([Maker Improvement Proposals (MIPs)](https://github.com/makerdao/mips))
+- [Commonwealth](https://commonwealth.im/) - Community for every token.
