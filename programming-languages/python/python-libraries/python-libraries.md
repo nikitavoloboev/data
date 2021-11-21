@@ -562,6 +562,7 @@
 - [Acoular](https://github.com/acoular/acoular) - Library for acoustic beamforming.
 - [whey](https://github.com/repo-helper/whey) - Simple Python wheel builder for simple projects.
 - [zeus](https://github.com/minaskar/zeus) - Python implementation of the Ensemble Slice Sampling method.
+- [PyTraits](https://github.com/xrudelis/pytrait) - Traits for Python3.
 
 ## Links
 

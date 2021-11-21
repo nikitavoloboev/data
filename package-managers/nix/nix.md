@@ -257,3 +257,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [dreampkgs](https://github.com/nix-community/dreampkgs) - Collection of software packages managed with dream2nix, a framework for automated packaging.
 - [Flake templates](https://github.com/NixOS/templates)
 - [libnix](https://github.com/Profpatsch/libnix-haskell) - Haskell library to interface with the nix package manager.
+- [nix-exec](https://github.com/shlevy/nix-exec) - Run programs defined in nix expressions.

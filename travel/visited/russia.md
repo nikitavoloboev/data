@@ -351,3 +351,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [История России. Все серии. От Рюрика до Революции](https://www.youtube.com/watch?v=7jR3QgUGPcQ)
 - [Революции 1917 года в России](https://www.youtube.com/watch?v=6FNr9eF8e_s)
 - [О чем на самом деле любимые советские фильмы? (2021)](https://www.youtube.com/watch?v=1aDB1TksfUU)
+- [Summary of Soviet economics at the fall of USSR](https://echelon.pl/nikolay-shmelyov-avansy-i-dolgi-credits-and-debts-novyi-mir-1987-6.html)

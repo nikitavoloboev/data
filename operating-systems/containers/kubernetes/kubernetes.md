@@ -518,3 +518,4 @@
 - [Kr8s](https://github.com/oslabs-beta/kr8s) - Docker/Kubernetes Visualization Tool.
 - [Kubernikus](https://github.com/sapcc/kubernikus) - Kubernetes as a Service for Openstack.
 - [Keppel](https://github.com/sapcc/keppel) - Multi-tenant container image registry.
+- [Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers)

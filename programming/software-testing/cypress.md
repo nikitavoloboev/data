@@ -39,3 +39,4 @@
 - [Cypress Real World App](https://github.com/cypress-io/cypress-realworld-app) - Payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
 - [cypress-cucumber-preprocessor](https://github.com/TheBrainFamily/cypress-cucumber-preprocessor) - Adds support for using feature files when testing with Cypress.
 - [cypress-network-idle](https://github.com/bahmutov/cypress-network-idle) - Little Cypress.io plugin for waiting for network to be idle before continuing with the test.
+- [cypress-recurse](https://github.com/bahmutov/cypress-recurse) - Way to re-run Cypress commands until a predicate function returns true.

@@ -173,3 +173,4 @@ All active variables can be seen by running `env`.
 - [Demo Magic](https://github.com/paxtonhare/demo-magic) - Handy shell script that enables you to write repeatable demos in a bash environment.
 - [Tiny Shell (tish)](https://github.com/shibukawa/tish) - Written in Go.
 - [terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML. ([Web](http://buildkite.github.io/terminal-to-html/))
+- [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell language and command prompt. ([Web](https://xon.sh/))

@@ -420,6 +420,7 @@ Below is a list of extensions I use.
 - [Dracula Pro](https://draculatheme.com/pro/)
 - [Moxer](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-theme) ([Code](https://github.com/moxer-theme/moxer-code))
 - [Sema](https://github.com/arzg/sema) - Theme that focuses on what’s important. ([Web](https://arzg.github.io/sema/))
+- [MuPanda](https://github.com/Veykril/MuPanda)
 
 ## Notes
 

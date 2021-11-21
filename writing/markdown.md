@@ -98,3 +98,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [MDBook EPUB Backend](https://github.com/Michael-F-Bryan/mdbook-epub)
 - [Noteworthy](https://github.com/SeaDve/Noteworthy) - Modern, Fast, and Version-Controlled Markdown Notes App.
 - [safe-marked](https://github.com/azu/safe-marked) - Markdown to HTML using marked and DOMPurify.
+- [markdown-function](https://github.com/azu/markdown-function) - Markdown builder functions.

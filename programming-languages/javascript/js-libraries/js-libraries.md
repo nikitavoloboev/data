@@ -708,3 +708,4 @@
 - [fixpack](https://github.com/HenrikJoreteg/fixpack) - package.json file scrubber for the truly insane.
 - [tiny-module-compiler](https://github.com/little-core-labs/tiny-module-compiler) - Compile, archive, unpack, and load compiled modules leveraging v8 cached data.
 - [ims](https://github.com/mafintosh/ims) - Install My Stuff - an opinionated npm module installer.
+- [can-npm-publish](https://github.com/azu/can-npm-publish) - Command line tool that check to see if npm publish is possible.

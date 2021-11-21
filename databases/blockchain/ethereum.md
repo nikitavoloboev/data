@@ -383,3 +383,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Multi Collateral Dai](https://github.com/makerdao/dss)
 - [Ethereum Project Management: Meeting notes and agenda items](https://github.com/ethereum/pm)
 - [Chainlist](https://networklist-org.vercel.app/) - Helping users connect to EVM powered networks. ([Code](https://github.com/antonnell/networklist-org))
+- [MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - Drips ETH, tokens, and NFTs across many testnet networks, at once.

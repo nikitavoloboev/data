@@ -230,3 +230,4 @@
 - [Cockpit](https://github.com/f-dangel/cockpit) - Visual and statistical debugger specifically designed for deep learning.
 - [CatBoost](https://github.com/catboost/catboost) - Machine learning method based on gradient boosting over decision trees. ([Web](https://catboost.ai/))
 - [Xplique](https://github.com/deel-ai/xplique) - Neural Networks Explainability Toolbox.
+- [Causal ML](https://github.com/uber/causalml) - Python Package for Uplift Modeling and Causal Inference with ML.

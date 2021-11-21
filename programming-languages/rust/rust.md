@@ -626,4 +626,4 @@
 - [The Little Book of Rust Books](https://lborb.github.io/book/) - Catalogue of Rust mdbooks. ([Code](https://github.com/lborb/book))
 - [Rust Edition Guide](https://doc.rust-lang.org/stable/edition-guide/) - Guide to changes between various editions of Rust. ([Code](https://github.com/rust-lang/edition-guide))
 - [Beginner's Series to Rust](https://github.com/microsoft/beginners-series-rust)
-- [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html) ([Code](https://github.com/DanielKeep/tlborm/))
+- [The Little Book of Rust Macros](https://veykril.github.io/tlborm/) ([Code](https://github.com/Veykril/tlborm)) ([Old Version](https://danielkeep.github.io/tlborm/book/README.html))

@@ -1168,6 +1168,7 @@
 - [Ciborium](https://github.com/enarx/ciborium) - CBOR serialization and deserialization implementations for serde.
 - [Rust Onig](https://github.com/rust-onig/rust-onig) - Rust bindings for the Oniguruma regex library.
 - [region-rs](https://github.com/darfink/region-rs) - Cross-platform virtual memory API.
+- [hidapi](https://github.com/ruabmbua/hidapi-rs) - Rust bindings for the hidapi C library.
 
 ## Cargo Plugins
 

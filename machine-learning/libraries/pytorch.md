@@ -301,3 +301,4 @@
 - [All You Need to Know About PyTorch (2021)](https://taying-cheng.medium.com/all-you-need-to-know-about-pytorch-a0ba3af897fa)
 - [TorchSnooper](https://github.com/zasdfgbnm/TorchSnooper) - Debug PyTorch code using PySnooper.
 - [PyTorch-LIT](https://github.com/AminRezaei0x443/PyTorch-LIT) - Lite Inference Toolkit (LIT) for PyTorch which focuses on easy and fast inference of large models on end-devices.
+- [Interactive Deep Colorization in PyTorch](https://github.com/richzhang/colorization-pytorch)
