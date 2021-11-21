@@ -259,3 +259,6 @@
 - [Ultracold, superdense atoms become invisible (2021)](https://news.mit.edu/2021/atoms-ultracold-scatter-light-1118) ([HN](https://news.ycombinator.com/item?id=29280780))
 - [Into the Cool: Energy Flow, Thermodynamics, and Life by Eric D. Schneider (2006)](https://www.goodreads.com/book/show/52737.Into_the_Cool)
 - [Gauss Linking Number and Electro-magnetic Uncertainty Principle (1997)](https://arxiv.org/abs/hep-th/9701136) ([Tweet](https://twitter.com/johncarlosbaez/status/1462152095658876929))
+- [Something Interesting about Albert Einstein’s Ph.D. Thesis](https://www.cantorsparadise.com/something-interesting-about-albert-einsteins-ph-d-thesis-a7bf1869059e)
+- [Gravitation without the equivalence principle (2003)](https://arxiv.org/abs/gr-qc/0304106)
+- [Gravitation without the equivalence principle (1957)](http://www.fuchs-braun.com/media/8a5e157dba163e00ffff8016ffffffef.pdf)

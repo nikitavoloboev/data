@@ -83,3 +83,4 @@
 - [I'm “still afraid to use spaces in file names” years old](https://twitter.com/TheIdOfAlan/status/1458117496087748618) ([HN](https://news.ycombinator.com/item?id=29186222))
 - [Libnvmmio](https://github.com/chjs/libnvmmio) - User-level file system designed for byte-addressable non-volatile memories.
 - [rusix](https://github.com/cholcombe973/rusix) - Distributed filesystem in Rust.
+- [Bcachefs: The COW filesystem for Linux that won't eat your data](https://bcachefs.org/) ([Lobsters](https://lobste.rs/s/zbhdyu/bcachefs_cow_filesystem_for_linux_won_t))

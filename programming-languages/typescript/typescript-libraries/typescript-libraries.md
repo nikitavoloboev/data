@@ -229,3 +229,4 @@
 - [ts2ocaml](https://github.com/ocsigen/ts2ocaml) - Generate OCaml bindings from TypeScript definitions via the TypeScript compiler API.
 - [Tangerine monorepo](https://github.com/mmazzarolo/tangerine-monorepo) - Fast TypeScript-based Node.js monorepo setup powered by esbuild.
 - [What would you use to publish/build a TypeScript package (i.e. publish on npm) today? (2021)](https://twitter.com/jsjoeio/status/1458807179708796931)
+- [Type-Safe Event Emitter in TypeScript (2021)](https://danilafe.com/blog/typescript_typesafe_events/)
