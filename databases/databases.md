@@ -478,3 +478,4 @@
 - [I hate databases (2021)](https://b.amy.gg/i-hate-databases)
 - [Flags v. gates (2021)](https://brandur.org/fragments/flags-v-gates)
 - [The history of Berkeley DB (2021)](https://queue.acm.org/detail.cfm?id=3501713)
+- [Papers for database systems powered by artificial intelligence (machine learning for database)](https://github.com/LumingSun/ML4DB-paper-list)

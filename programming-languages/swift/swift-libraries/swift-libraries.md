@@ -875,3 +875,4 @@
 - [MOKO KSwift](https://github.com/icerockdev/moko-kswift) - Swift-friendly API generator for Kotlin/Native frameworks.
 - [Swift on Server Deployment Guide](https://github.com/swift-server/guides) - Guides for building, debugging and deploying Swift Server applications.
 - [Swift Concurrency adoption guidelines for Swift Server Libraries](https://github.com/swift-server/guides/blob/main/docs/concurrency-adoption-guidelines.md)
+- [Web API Client in Swift (2021)](https://kean.blog/post/new-api-client) ([Code](https://github.com/kean/APIClient))

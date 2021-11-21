@@ -357,3 +357,4 @@
 - [Welcome to DataFrames.jl Workshop](https://github.com/JuliaAcademy/DataFrames)
 - [Aqua.jl](https://github.com/JuliaTesting/Aqua.jl) - Auto QUality Assurance for Julia packages. Provides functions to run a few automatable checks for Julia packages.
 - [The Algorithms - Julia](https://github.com/TheAlgorithms/Julia) - Algorithms implemented in the Julia programming language.
+- [JuliaSymbolics](https://juliasymbolics.org/) - Symbolic programming in Julia.

@@ -516,3 +516,5 @@
 - [Bovine](https://github.com/nickgerace/bovine) - Manage single node Rancher clusters with a single binary.
 - [Mirantis](https://www.mirantis.com/) - Data Center as-a-Service built on Kubernetes. ([GitHub](https://github.com/Mirantis))
 - [Kr8s](https://github.com/oslabs-beta/kr8s) - Docker/Kubernetes Visualization Tool.
+- [Kubernikus](https://github.com/sapcc/kubernikus) - Kubernetes as a Service for Openstack.
+- [Keppel](https://github.com/sapcc/keppel) - Multi-tenant container image registry.

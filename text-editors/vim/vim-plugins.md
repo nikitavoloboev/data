@@ -151,6 +151,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [harpoon](https://github.com/ThePrimeagen/harpoon) - Get you where you want with the fewest keystrokes.
 - [ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8.
 - [mini.nvim](https://github.com/echasnovski/mini.nvim) - Collection of minimal, independent, and fast Lua modules dedicated to improve Neovim.
+- [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - Blazing fast and easy to configure neovim statusline plugin written in pure lua.
 
 ## Looks
 

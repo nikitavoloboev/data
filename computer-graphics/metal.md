@@ -37,4 +37,4 @@
 - [MetalFilters](https://github.com/alexiscn/MetalFilters) - Instagram filters implemented in Metal.
 - [MetalEDR-iOS](https://github.com/Naituw/MetalEDR-iOS) - Demo of using Metal to render EDR / HDR content on iOS platform. ([Tweet](https://twitter.com/ChristianSelig/status/1450214423612862464))
 - [Metal Camera](https://github.com/gsurma/metal_camera) - iOS metal camera with GPU shaders.
-- [Getting started with Metal-cpp](https://developer.apple.com/metal/cpp/) - Official C++ bindings for Metal.
+- [Metal-cpp](https://github.com/bkaradzic/metal-cpp) - Low-overhead C++ interface for Metal.. ([Docs](https://developer.apple.com/metal/cpp/))

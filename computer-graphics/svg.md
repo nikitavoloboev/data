@@ -107,3 +107,4 @@
 - [resvg-js](https://github.com/yisibl/resvg-js) - High-performance SVG renderer, powered by Rust based resvg and napi-rs.
 - [SVGcode](https://svgco.de/) - Convert raster images to SVG vector graphics. ([Article](https://web.dev/svgcode/)) ([Code](https://github.com/tomayac/SVGcode)) ([Video](https://www.youtube.com/watch?v=kcvfyQh6J-0))
 - [Pablo](https://github.com/premasagar/pablo) - Lightweight, expressive JavaScript SVG library. ([Web](http://pablojs.com/)) ([HN](https://news.ycombinator.com/item?id=29287595))
+- [shape2path](https://github.com/HarryStevens/shape2path) - Convert SVG shapes to SVG paths.

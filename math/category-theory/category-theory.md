@@ -127,6 +127,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Thoughts on adjoint, norm and such](https://github.com/adamnemecek/adjoint)
 - [Category Theory Resources](https://github.com/bgavran/Category_Theory_Resources)
 - [Introduction to Category Theory](http://www.cs.nott.ac.uk/~pszgmh/cat.html)
+- [Collected works of F. W. Lawvere](https://github.com/mattearnshaw/lawvere)
 
 ## Images
 

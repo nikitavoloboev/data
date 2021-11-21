@@ -95,3 +95,4 @@
 - [Mczify](https://github.com/math-comp/mczify) - Micromega tactics for Mathematical Components.
 - [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder) - High level commands to declare a hierarchy based on packed classes.
 - [Coq Package Index](https://coq.inria.fr/opam/www/) - Archive for all Coq related OPAM packages organized in various repositories. ([Code](https://github.com/coq/opam-coq-archive))
+- [Formalizing Dawn in Coq (2021)](https://danilafe.com/blog/coq_dawn/)
