@@ -1101,6 +1101,7 @@
 - [redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis.
 - [docconv](https://github.com/sajari/docconv) - Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text.
 - [parquet-go](https://github.com/fraugster/parquet-go) - Go package to read and write parquet files.
+- [tail](https://github.com/nxadm/tail) - Go package for reading from continuously updated files (tail -f).
 
 ## Links
 

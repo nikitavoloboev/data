@@ -385,3 +385,4 @@ for i, _ in enumerate(nums):
 - [How Python List Works](https://antonz.org/list-internals/) ([HN](https://news.ycombinator.com/item?id=29217038))
 - [prometeo](https://github.com/zanellia/prometeo) - Python-to-C transpiler for high-performance computing. ([HN](https://news.ycombinator.com/item?id=29253039))
 - [Why does a = a[0] = [0] create a self-referential list in Python? (2021)](https://susam.in/blog/peculiar-self-references.html) ([HN](https://news.ycombinator.com/item?id=29269805))
+- [Memory Profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code.

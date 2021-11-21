@@ -16,3 +16,4 @@
 - [NestJS TypeScript, Prisma, Apollo Server GraphQL project](https://github.com/MileTwo/nestjs-gql-prisma)
 - [nestjs-sentry](https://github.com/ntegral/nestjs-sentry) - Provides an injectable sentry.io client to provide enterprise logging nestjs modules.
 - [NestJS Authentication: JWTs, Sessions, logins, and more! | NestJS PassportJS Tutorial (2021)](https://www.youtube.com/watch?v=_L225zpUK0M)
+- [Nest Access Control](https://github.com/nestjsx/nest-access-control) - Helper Module for building a Role and Attribute based Access Control System for Nestjs.

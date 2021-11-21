@@ -267,3 +267,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Denops](https://github.com/vim-denops/denops.vim) - Ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno.
 - [impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim.
 - [From init.vim to init.lua (2021)](https://www.notonlycode.org/neovim-lua-config/)
+- [lsp-command](https://github.com/ii14/lsp-command) - Command interface for neovim LSP.

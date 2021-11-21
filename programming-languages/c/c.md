@@ -191,3 +191,4 @@
 - [cc65](https://github.com/cc65/cc65) - Freeware C compiler for 6502 based systems. ([Docs](https://cc65.github.io/doc/))
 - [Beware of fast-math (2021)](https://simonbyrne.github.io/notes/fastmath/) ([HN](https://news.ycombinator.com/item?id=29201473))
 - [A Simple, Possibly Correct LR Parser for C11 (2017)](https://hal.archives-ouvertes.fr/hal-01633123/document)
+- [Pointers in C / C++ [Full Course] (2020)](https://www.youtube.com/watch?v=zuegQmMdy8M)

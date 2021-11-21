@@ -185,6 +185,7 @@
 - [constraints-extras](https://github.com/obsidiansystems/constraints-extras) - Convenience functions and template haskell for working with constraints.
 - [some](https://github.com/haskellari/some) - Defines several versions of an existential type 'Some'.
 - [rio](https://github.com/commercialhaskell/rio) - Standard library for Haskell.
+- [vector](https://github.com/haskell/vector) - Efficient implementation of Int-indexed arrays (both mutable and immutable), with a powerful loop optimization framework.
 
 ## Notes
 

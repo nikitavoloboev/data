@@ -251,6 +251,7 @@
 - [WebURL](https://github.com/karwa/swift-url) - New URL type for Swift.
 - [Criollo](https://github.com/thecatalinstan/Criollo) - Powerful Cocoa web framework and HTTP server for macOS, iOS and tvOS.
 - [Postie](https://github.com/kula-app/Postie) - Structured HTTP Client using Combine.
+- [SwiftHtml](https://github.com/BinaryBirds/swift-html) - Awesome Swift HTML DSL library using result builders.
 
 ## SwiftUI
 

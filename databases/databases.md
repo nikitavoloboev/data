@@ -180,6 +180,7 @@
 - [Hive](https://github.com/hivedb/hive) - Lightweight and blazing fast key-value database written in pure Dart. ([Docs](https://docs.hivedb.dev/#/))
 - [Couchbase Lite for iOS and MacOS](https://github.com/couchbase/couchbase-lite-ios) - Lightweight, embedded, syncable NoSQL database engine for iOS and MacOS apps.
 - [Kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
+- [Ambry](https://github.com/linkedin/ambry) - Distributed object store that supports storage of trillion of small immutable objects (50K -100K) as well as billions of large objects.
 
 ## Tools
 

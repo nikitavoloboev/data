@@ -100,3 +100,4 @@
 - [Hyper-VCR](https://github.com/pfrazee/hyper-vcr) - p2p version-controlled repo (built on hypercore).
 - [Twitter without Twitter: Distributed apps in the browser (2021)](https://www.youtube.com/watch?v=YJ6hX_x4_tw)
 - [Phonon Network Specification](https://github.com/GridPlus/phonon-network) - Peer-to-peer network independent of the internet.
+- [qTox](https://qtox.github.io/) - Chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol. ([Code](https://github.com/qTox/qTox))

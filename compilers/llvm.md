@@ -92,3 +92,4 @@
 - [llvm-reduce (2021)](https://blog.regehr.org/archives/2109)
 - [2021 LLVM Developers' Meeting](https://llvm.swoogo.com/2021devmtg/1538015)
 - [manyclangs](https://github.com/elfshaker/manyclangs) - Project enabling you to run any commit of clang within a few seconds, without having to build it.
+- [LLVM relicensing update and call for help (2021)](https://blog.llvm.org/posts/2021-11-18-relicensing-update/) ([HN](https://news.ycombinator.com/item?id=29292516)) ([Lobsters](https://lobste.rs/s/uxuudg/llvm_relicensing_update_call_for_help))

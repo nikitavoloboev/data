@@ -271,3 +271,4 @@
 - [Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming Book (2021)](https://link.springer.com/book/10.1007/978-3-662-62996-3) ([Code](https://github.com/ckormanyos/real-time-cpp))
 - [easy_profiler](https://github.com/yse/easy_profiler) - Lightweight profiler library for c++.
 - [Virtual inheritance in C++ (2021)](https://mariusbancila.ro/blog/2021/11/16/virtual-inheritance-in-c/)
+- [I want to show a thing (C++ to machine code) (2021)](https://www.bitsnbites.eu/i-want-to-show-a-thing-cpp-code-generation/)

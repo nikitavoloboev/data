@@ -196,3 +196,4 @@
 - [rehype-prism-plus](https://github.com/timlrx/rehype-prism-plus) - Rehype plugin to highlight code blocks in HTML with Prism (via refractor) with line highlighting and line numbers.
 - [A Clever Sticky Footer Technique (2021)](https://css-tricks.com/a-clever-sticky-footer-technique/)
 - [Canvas Txt](https://github.com/geongeorge/Canvas-Txt) - Better way to render text on HTML5 Canvas.
+- [sanitize-html](https://github.com/apostrophecms/sanitize-html) - Simple HTML sanitizer with a clear API.

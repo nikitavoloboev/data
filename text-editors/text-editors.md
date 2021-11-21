@@ -62,6 +62,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [React Oxide](https://github.com/bootrino/reactoxide) - open source ReactJS code editor with tabs, files & webDAV. ([HN](https://news.ycombinator.com/item?id=28702006))
 - [Tincta](https://github.com/CodingFriends/Tincta) - Free text editor for Mac with focus on speed, stability and ease of use.
 - [Zee](https://github.com/mcobzarenco/zee) - Modern text editor for the terminal written in Rust.
+- [Glyph](https://github.com/zackradisic/glyph) - Personal code editor built with Rust + OpenGL.
 
 ## Web
 
