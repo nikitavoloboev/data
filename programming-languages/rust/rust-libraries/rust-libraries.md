@@ -1161,6 +1161,7 @@
 - [rust-bigtable](https://github.com/durch/rust-bigtable) - Rust library for working with Google Bigtable Data API.
 - [rust-goauth](https://github.com/durch/rust-goauth) - Crate for authenticating Server to Server Apps for Google Cloud Engine.
 - [rust-bloom-filter](https://github.com/jedisct1/rust-bloom-filter) - Fast Bloom filter implementation in Rust.
+- [Typenum](https://github.com/paholg/typenum) - Compile time numbers in Rust.
 
 ## Cargo Plugins
 

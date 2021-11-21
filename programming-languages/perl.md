@@ -37,3 +37,5 @@
 - [Read The Fantastic Manual: How to get the most out of Perl documentation (2021)](https://phoenixtrap.com/2021/10/12/read-the-fantastic-manual-how-to-get-the-most-out-of-perl-documentation/)
 - [Better Perl: Four list processing best practices with map, grep, and more (2021)](https://phoenixtrap.com/2021/10/26/better-perl-four-list-processing-best-practices-with-map-grep-and-more/)
 - [Rakudo](https://github.com/rakudo/rakudo) - Raku on MoarVM, JVM, and JS. Most mature, production-ready implementation of the Raku language. ([Web](https://rakudo.org/))
+- [mi6](https://github.com/skaji/mi6) - Minimal authoring tool for Raku.
+- [Self-contained, portable perl binaries](https://github.com/skaji/relocatable-perl)

@@ -293,3 +293,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [XuperChain](https://github.com/xuperchain/xuperchain) - Highly flexible blockchain architecture with great transaction performance.
 - [Why NFTs are bad: the long version (2021)](https://antsstyle.medium.com/why-nfts-are-bad-the-long-version-2c16dae145e2) ([HN](https://news.ycombinator.com/item?id=29280317))
 - [TheNFTBay: Fake, but Worth Discussing (2021)](https://www.clubnft.com/blog/the-trillion-byte-let-down) ([HN](https://news.ycombinator.com/item?id=29290156))
+- [Substrate Cumulus Parachain Template](https://github.com/substrate-developer-hub/substrate-parachain-template) - New Cumulus-based Substrate node, ready for hacking.

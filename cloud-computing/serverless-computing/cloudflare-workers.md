@@ -108,3 +108,4 @@
 - [Announcing native support for Stripe’s JavaScript SDK in Cloudflare Workers (2021)](https://blog.cloudflare.com/announcing-stripe-support-in-workers/)
 - [Example SaaS application built in public on the Cloudflare stack](https://github.com/cloudflare/production-saas) ([Article](https://blog.cloudflare.com/production-saas-intro/))
 - [github-proxy](https://github.com/mchaNetwork/github-proxy) - GitHub proxy running on Cloudflare Workers.
+- [Durable Objects TypeScript Counter template](https://github.com/cloudflare/durable-objects-typescript-rollup-esm)
