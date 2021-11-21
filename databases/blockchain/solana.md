@@ -168,3 +168,4 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [The Barrelling Wave of Collateral: Lending Cycles and the Crypto Revolution (2021)](https://www.youtube.com/watch?v=mR0Ya71GOO0)
 - [vipers](https://github.com/saber-hq/vipers) - Assorted checks and validations for writing safer Solana programs.
 - [Why You Should Build Your DeFi Dapp Using Anchor (2021)](https://www.youtube.com/watch?v=725ddOvfWjk)
+- [anchor-go](https://github.com/gagliardetto/anchor-go) - Generate Go clients from anchor IDLs for Solana blockchain programs.

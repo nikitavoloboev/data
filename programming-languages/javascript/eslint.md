@@ -34,3 +34,4 @@
 - [Airbnb's ESLint config with TypeScript support](https://github.com/iamturns/eslint-config-airbnb-typescript)
 - [eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Find and remove unused es6 module imports.
 - [eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript) - Extension of eslint-config-standard, made for TypeScript.
+- [standard-engine](https://github.com/standard/standard-engine) - Wrap your own eslint rules in a easy-to-use command line tool and/or a JS module.

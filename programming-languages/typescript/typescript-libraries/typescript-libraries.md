@@ -28,6 +28,10 @@
 
 - [jwt-cache](https://github.com/ForbesLindesay/jwt-cache) - Cache an async function for generating a JSON Web Token.
 
+## CLI
+
+- [Pero](https://github.com/h-a-n-a/pero) - Easy to use route-based tool for building large-scale command-line interfaces.
+
 ## Other
 
 - [ow](https://github.com/sindresorhus/ow) - Argument type validation.

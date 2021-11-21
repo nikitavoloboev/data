@@ -90,6 +90,7 @@
 - [ezEngine](https://github.com/ezEngine/ezEngine) - Open source C++ game engine.
 - [Dagon](https://github.com/gecko0307/dagon) - 3D game engine for D. ([Web](https://gecko0307.github.io/dagon/))
 - [LambdaHack](https://github.com/LambdaHack/LambdaHack) - Haskell game engine library for roguelike dungeon crawlers.
+- [vengi](https://mgerhardy.github.io/engine/) - C++ voxel game engine and its tools. ([Code](https://github.com/mgerhardy/engine))
 
 ## Physics engines
 

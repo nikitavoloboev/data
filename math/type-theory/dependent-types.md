@@ -61,3 +61,4 @@
 - [Dependent Object Types (DOT)](https://github.com/namin/dot) - Formalization of the Dependent Object Types (DOT) calculus.
 - [Magma](https://github.com/blainehansen/magma) - Dependently-typed language.
 - [Formal Metatheory of Second-Order Abstract Syntax](https://www.cl.cam.ac.uk/~ds709/agda-soas/)
+- [Aya](https://github.com/aya-prover/aya-dev) - Programming language and a proof assistant designed for formalizing math and type-directed programming. ([Web](https://www.aya-prover.org/))

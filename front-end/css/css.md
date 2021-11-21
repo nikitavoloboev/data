@@ -395,3 +395,4 @@ all: unset
 - [The new responsive design (2021)](https://www.youtube.com/watch?v=dhrX_biPH8c)
 - [Discover CSS polygon shapes](https://css-doodle.com/shapes/) ([Code](https://github.com/css-doodle/shapes))
 - [Parallax Powered by CSS Custom Properties (2021)](https://css-tricks.com/parallax-powered-by-css-custom-properties/)
+- [1-Line CSS Layouts](https://1linelayouts.glitch.me/) ([HN](https://news.ycombinator.com/item?id=29295963))

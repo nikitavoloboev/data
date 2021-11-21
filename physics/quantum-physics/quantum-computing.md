@@ -116,3 +116,8 @@
 - [Scott Aaronson, when reached for comment, said (2021)](https://scottaaronson.blog/?p=6111) ([HN](https://news.ycombinator.com/item?id=29247753))
 - [How Quantum Computers Will Correct Their Errors (2021)](https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/)
 - [Autonomous Quantum Error Correction in a Bosonic Qubit | Qiskit Seminar Series with Chen Wang (2021)](https://www.youtube.com/watch?v=q4wOhKNxDxs)
+- [Rust Post-Quantum cryptography](https://github.com/rustpq/pqcrypto)
+- [PQClean](https://github.com/PQClean/PQClean) - Clean, portable, tested implementations of post-quantum cryptography.
+- [liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust) - Rust wrappers for the Open Quantum Safe liboqs C library.
+- [Solving LPN using Large Covering Codes (2018)](https://thomwiggers.nl/publication/masters-thesis/)
+- [Practically Solving LPN (2021)](https://thomwiggers.nl/publication/lpn/) ([Code](https://github.com/thomwiggers/lpn))

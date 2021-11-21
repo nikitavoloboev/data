@@ -155,3 +155,5 @@
 - [History Matters - YouTube](https://www.youtube.com/channel/UC22BdTgxefuvUivrjesETjg)
 - [Oil, Power, and War: A Dark History by Matthieu Auzanneau (2015)](https://www.goodreads.com/book/show/42527868-oil-power-and-war)
 - [Sergey Radchenko Twitter](https://twitter.com/DrRadchenko) - Writes about history.
+- [Эпичная История - YouTube](https://www.youtube.com/c/%D0%AD%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/videos)
+- [Humanizing Hitler - What Downfall is Really About (Film Analysis)](https://www.youtube.com/watch?v=uI5ZsEy8ASg)

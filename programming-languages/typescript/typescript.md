@@ -199,6 +199,7 @@
 - [Convert JSON to TypeScript](https://cryptojobslist.com/json-to-typescript)
 - [Speed up your TypeScript monorepo with esbuild (2021)](https://mmazzarolo.com/blog/2021-11-06-speed-up-your-typescript-monorepo-with-esbuild/)
 - [Tame VSCode autoimports in a TS monorepo](https://github.com/nandorojo/ts-monorepo-autoimport-guide)
+- [StaticScript](https://github.com/ovr/StaticScript) - TypeScript compiler on top of TypeScript as frontend and LLVM as backend.
 
 ## Images
 

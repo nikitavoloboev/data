@@ -348,3 +348,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [vc.ru](https://vc.ru/) - Бизнес, технологии, идеи, модели роста, стартапы.
 - [Yuri Andropov](https://www.youtube.com/watch?v=AxzXdqqHND0)
 - [Про Путинское политбюро и политбюро ЦК КПСС](https://twitter.com/mironov_fm/status/1462390762331521026)
+- [История России. Все серии. От Рюрика до Революции](https://www.youtube.com/watch?v=7jR3QgUGPcQ)
+- [Революции 1917 года в России](https://www.youtube.com/watch?v=6FNr9eF8e_s)
+- [О чем на самом деле любимые советские фильмы? (2021)](https://www.youtube.com/watch?v=1aDB1TksfUU)

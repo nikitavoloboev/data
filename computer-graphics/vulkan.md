@@ -53,3 +53,4 @@
 - [vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig.
 - [Racket Vulkan](https://github.com/zyrolasting/racket-vulkan) - Vulkan API integration and utilities for Racket.
 - [Granite](https://github.com/Themaister/Granite) - Personal Vulkan renderer.
+- [Vulkan-ExtensionLayer](https://github.com/KhronosGroup/Vulkan-ExtensionLayer) - Layer providing Vulkan features when native support is unavailable.

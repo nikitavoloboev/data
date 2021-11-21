@@ -382,3 +382,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [OpenLaw](https://www.openlaw.io/) - Next generation smart legal agreements. ([GitHub](https://github.com/openlawteam))
 - [Multi Collateral Dai](https://github.com/makerdao/dss)
 - [Ethereum Project Management: Meeting notes and agenda items](https://github.com/ethereum/pm)
+- [Chainlist](https://networklist-org.vercel.app/) - Helping users connect to EVM powered networks. ([Code](https://github.com/antonnell/networklist-org))

@@ -307,3 +307,5 @@ Awesome List
 - [Meet the Fans](https://github.com/evoluteur/meet-the-fans) - Query and Visualize the network graph of your GitHub repositories, followers, stargazers, and forks.
 - [ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory.
 - [stargazers](https://github.com/spencerkimball/stargazers) - Illuminate your GitHub community by delving into your repo's stars.
+- [missue](https://github.com/azu/missue) - Toolkit helps you to management your TODO based on GitHub Issues.
+- [GitHub Search Results as RSS Feeds via GitHub Actions](https://github.com/azu/github-search-rss)

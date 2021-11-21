@@ -379,3 +379,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Learn Modern Auto Layout For iOS](https://useyourloaf.com/autolayout/) ([Code](https://github.com/kharrison/albookcode))
 - [Silencing iOS simulator log noise (2021)](https://www.smileykeith.com/2021/11/16/simulator-log-spew/)
 - [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard.
+- [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app.

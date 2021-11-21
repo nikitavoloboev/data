@@ -70,3 +70,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 - [mdbook-man](https://github.com/vv9k/mdbook-man) - Generate man pages from mdBooks.
 - [Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development (2021)](https://www.smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/)
+- [GoAWK](https://github.com/benhoyt/goawk) - AWK interpreter written in Go. ([Article](https://benhoyt.com/writings/goawk/))

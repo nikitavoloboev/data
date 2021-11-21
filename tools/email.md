@@ -193,3 +193,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [mailparse](https://github.com/staktrace/mailparse) - Rust library to parse mail files.
 - [Nexium](https://github.com/nexiumapp/nexium) - Next generation email server in Rust.
 - [List of burner email providers](https://github.com/wesbos/burner-email-providers)
+- [Pigeon](https://github.com/quambene/pigeon-rs) - Command line tool for cheap and efficient email automation written in Rust.

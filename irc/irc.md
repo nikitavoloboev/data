@@ -67,3 +67,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Why is IRC distributed across multiple servers?](https://gist.github.com/rain-1/c4be54e6506116c7b99e8f474a3b1ca8)
 - [IRCv3 Spec round-up (2021)](https://ircv3.net/2021/11/17/spec-round-up) ([HN](https://news.ycombinator.com/item?id=29264296))
 - [soju](https://github.com/emersion/soju) - User-friendly IRC bouncer. ([Code](https://sr.ht/~emersion/soju/))
+- [OneBot](https://github.com/thomwiggers/onebot) - IRC bot in Python, based on irc3.

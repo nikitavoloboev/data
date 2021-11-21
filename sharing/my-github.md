@@ -16,7 +16,6 @@
 
 ## Personal
 
-- [Code (2020)](https://github.com/nikitavoloboev/code) - Snippets of code.
 - [Learning (2019)](https://github.com/nikitavoloboev/learning) - Learn by building.
 - [CV (2018)](https://github.com/nikitavoloboev/cv) - My CV.
 - [Knowledge (2017)](https://github.com/nikitavoloboev/knowledge) - Everything I know.

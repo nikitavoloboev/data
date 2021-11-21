@@ -349,3 +349,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Network Protocol Breakdown: Ethernet and Go (2017)](https://medium.com/@mdlayher/network-protocol-breakdown-ethernet-and-go-de985d726cc1)
 - [OpenThread](https://github.com/openthread/openthread) - Open-source implementation of the Thread networking protocol. ([Web](https://openthread.io/))
 - [udplb](https://github.com/moolen/udplb) - UDP packet forwarder using eBPF.
+- [Mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server / Embedded Networking Library. Implements event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT. ([Web](https://mongoose.ws/))

@@ -186,6 +186,7 @@
 - [some](https://github.com/haskellari/some) - Defines several versions of an existential type 'Some'.
 - [rio](https://github.com/commercialhaskell/rio) - Standard library for Haskell.
 - [vector](https://github.com/haskell/vector) - Efficient implementation of Int-indexed arrays (both mutable and immutable), with a powerful loop optimization framework.
+- [dejafu](https://github.com/barrucadu/dejafu) - Systematic concurrency testing meets Haskell.
 
 ## Notes
 

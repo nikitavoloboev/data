@@ -86,3 +86,4 @@
 - [Redis Dataloader](https://github.com/PatrickJS/redis-dataloader) - Batching and Caching layer using Redis as the Caching layer.
 - [Pika](https://github.com/OpenAtomFoundation/pika) - Persistent huge storage service , compatible with the vast majority of Redis interfaces.
 - [Redigo](https://github.com/gomodule/redigo) - Go client for Redis. ([Examples](https://github.com/pete911/examples-redigo))
+- [IRedis](https://iredis.io/) - Terminal Client for Redis with AutoCompletion and Syntax Highlighting. ([Code](https://github.com/laixintao/iredis))

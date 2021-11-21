@@ -52,6 +52,7 @@
 - [MLJTuringInterface](https://github.com/rikhuijzer/MLJTuringInterface.jl) - Interface for Turing models with MLJ.
 - [MLFlowClient](https://github.com/JuliaAI/MLFlowClient.jl) - Julia client for MLFlow.
 - [LinearRegression](https://github.com/st--/LinearRegression.jl)
+- [KernelFunctions](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl) - Julia package for kernel functions for machine learning.
 
 ## Math
 

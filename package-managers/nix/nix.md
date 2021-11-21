@@ -256,3 +256,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Is it worth learning and migrating to Flakes as of November 2021?](https://www.reddit.com/r/NixOS/comments/qv9ag1/is_it_worth_learning_and_migrating_to_flakes_as/)
 - [dreampkgs](https://github.com/nix-community/dreampkgs) - Collection of software packages managed with dream2nix, a framework for automated packaging.
 - [Flake templates](https://github.com/NixOS/templates)
+- [libnix](https://github.com/Profpatsch/libnix-haskell) - Haskell library to interface with the nix package manager.

@@ -151,3 +151,4 @@
 - [DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis (2021)](https://arxiv.org/abs/2008.05865) ([Code](https://github.com/tobran/DF-GAN))
 - [GANformer: Generative Adversarial Transformers](https://github.com/dorarad/ganformer)
 - [ProteinGAN](https://github.com/Biomatter-Designs/ProteinGAN) - Generative network architecture that may be used to produce de-novo protein sequences.
+- [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - High-performance implementation of classic and SOTA Generative Adversarial Networks.

@@ -107,7 +107,7 @@
 - [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time (2020)](https://carolchen.me/blog/jits-intro/) ([HN](https://news.ycombinator.com/item?id=23740655))
 - [How JIT Compilers are Implemented and Fast: Julia, Pypy, LuaJIT, Graal and More (2020)](https://carolchen.me/blog/jits-impls/)
 - [Compilers Resources by Yosh](https://github.com/yoshuawuyts/notes/blob/master/compilers/resources.md)
-- [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
+- [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript. ([In Rust](https://github.com/h-a-n-a/the-super-tiny-rusty-compiler))
 - [Awesome machine learning for compilers and program optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers)
 - [Compiler Fuzzing: How Much Does It Matter? (2019)](https://www.youtube.com/watch?v=5TX5R_aX3ec)
 - [SOIL: Single Open Intermediate Language](http://soil-initiative.org/) ([Lobsters](https://lobste.rs/s/2kdxph/soil_single_open_intermediate_language))
