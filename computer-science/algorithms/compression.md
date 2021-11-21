@@ -81,4 +81,4 @@
 - [Inflate.jl](https://github.com/GunnarFarneback/Inflate.jl) - Julia implementation of zlib decompression.
 - [miniz_oxide](https://github.com/Frommi/miniz_oxide) - Rust replacement for the miniz deflate/zlib encoder/decoder.
 - [Hop](https://github.com/Jarred-Sumner/hop) - 25x faster than unzip and 10x faster than tar at reading individual files. ([HN](https://news.ycombinator.com/item?id=29178710))
-- [Buzon](https://github.com/BuzonIO/zipfly) - Writing large ZIP archives without memory inflation.
+- [Buzon](https://github.com/BuzonIO/zipfly) - Writing large ZIP archives without memory inflation. ([HN](https://news.ycombinator.com/item?id=29291381))

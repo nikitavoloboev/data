@@ -124,3 +124,4 @@
 - [rss_parsers](https://github.com/hussein-esmail7/rss-parsers) - Convert an HTML page to RSS with URL support.
 - [node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
 - [rss-parser](https://github.com/rbren/rss-parser) - Lightweight RSS parser, for Node and the browser.
+- [rss-to-email](https://github.com/rsslove/rss-to-email) - Generate HTML emails from your RSS feeds.

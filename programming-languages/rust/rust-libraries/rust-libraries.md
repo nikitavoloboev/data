@@ -397,6 +397,7 @@
 - [Debug Plotter](https://github.com/fabianboesiger/debug-plotter) - Rust crate that provides a convenient macro to quickly plot variables.
 - [Supertype](https://github.com/zephraph/supertype) - Macro that strives to make it easier to derive a subset of a type from another type.
 - [arrayref](https://github.com/droundy/arrayref) - Two macros for taking array references in rust.
+- [macro-attr](https://github.com/DanielKeep/rust-custom-derive) - Custom derivation macro for Rust.
 
 ## Math
 
@@ -1162,6 +1163,7 @@
 - [rust-goauth](https://github.com/durch/rust-goauth) - Crate for authenticating Server to Server Apps for Google Cloud Engine.
 - [rust-bloom-filter](https://github.com/jedisct1/rust-bloom-filter) - Fast Bloom filter implementation in Rust.
 - [Typenum](https://github.com/paholg/typenum) - Compile time numbers in Rust.
+- [boolinator](https://github.com/DanielKeep/rust-boolinator) - Provides the Boolinator trait, which lets you use Option and Result-style combinators with bools.
 
 ## Cargo Plugins
 
@@ -1204,6 +1206,7 @@
 - [cargo-patch](https://github.com/mettke/cargo-patch) - Cargo Subcommand which allows patching dependencies using patch files.
 - [cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage.
 - [Cargo rdme](https://github.com/orium/cargo-rdme) - Cargo command to create the readme.md from your crate's documentation.
+- [cargo-script](https://github.com/DanielKeep/cargo-script) - Cargo subcommand designed to let people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem.
 
 ## Links
 

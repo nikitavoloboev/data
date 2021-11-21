@@ -157,6 +157,7 @@
 - [What company really hit the jackpot with their slogan? (2021)](https://www.reddit.com/r/AskUK/comments/qs7dyj/what_company_really_hit_the_jackpot_with_their/)
 - [The Developer Advocate's Guide Series (2021)](https://twitter.com/theworstdev/status/1460002492813651970)
 - [Accord](https://inaccord.com/) - Build Your Repeatable Sales & Onboarding Process. ([HN](https://news.ycombinator.com/item?id=29265591))
+- [The Startup Marketing Checklist](https://draft.dev/learn/marketing-checklist) ([Code](https://github.com/draftdev/startup-marketing-checklist))
 
 ## Images
 

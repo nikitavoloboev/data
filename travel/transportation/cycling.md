@@ -22,3 +22,5 @@
 - [The popularity of e-bikes isn’t slowing down (2021)](https://www.nytimes.com/2021/11/08/business/e-bikes-urban-transit.html) ([HN](https://news.ycombinator.com/item?id=29152433))
 - [Reflections on E-Bikes](https://ebikes.neighbor-ryan.org/reflections) ([HN](https://news.ycombinator.com/item?id=29184064))
 - [Long Range E-Bike (2021)](https://jacquesmattheij.com/long-range-ebike/) ([HN](https://news.ycombinator.com/item?id=29198205))
+- [What it's like to ride 900 km in a day (2021)](https://cyclingtips.com/2021/11/what-its-like-to-ride-900-km-in-a-day/) ([HN](https://news.ycombinator.com/item?id=29291443))
+- [CyclingTips](https://cyclingtips.com/)
