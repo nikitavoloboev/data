@@ -362,3 +362,4 @@
 - [Fun with PostGIS: Mandelbrot set, game of life, and more (2021)](https://blog.jooq.org/fun-with-postgis-mandelbrot-set-game-of-life-and-more/)
 - [Cloudflare Workers + PostgreSQL Template](https://github.com/cloudflare/worker-template-postgres)
 - [Ephemeral Postgres Databases](https://eradman.com/posts/ephemeral-databases.html) ([HN](https://news.ycombinator.com/item?id=29248299))
+- [imcs](https://github.com/knizhnik/imcs) - In-Memory Columnar Store extension for PostgreSQL.

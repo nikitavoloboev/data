@@ -284,3 +284,4 @@
 - [Livecoding the Elektron Octatrack with ORCΛ (2021)](https://www.youtube.com/watch?v=moASjsWeLMQ)
 - [PianoBooster](https://www.pianobooster.org/) - MIDI file player that displays the musical notes AND teaches you how to play the piano. ([Code](https://github.com/pianobooster/PianoBooster))
 - [The Carefully Crafted Narrative of Taylor Swift | Video Essay (2020)](https://www.youtube.com/watch?v=w2XtejIt4p8)
+- [LabSound](https://github.com/LabSound/LabSound) - C++ graph-based audio engine.

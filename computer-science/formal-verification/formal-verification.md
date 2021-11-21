@@ -94,3 +94,4 @@
 - [Verification-Driven Development Guide](https://github.com/informalsystems/vdd)
 - [Electrum Analyzer](https://github.com/haslab/Electrum) - Model checker for relational first-order temporal specifications. ([Tutorial](https://github.com/haslab/Electrum/wiki/Tutorial))
 - [Simple proof checker in OCaml](https://github.com/neel-krishnaswami/proof-checker)
+- [Provably-correct versions of Leftpad](https://github.com/hwayne/lets-prove-leftpad)

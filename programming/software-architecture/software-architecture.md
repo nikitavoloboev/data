@@ -173,3 +173,4 @@
 - [Fundamentals of Software Architecture Book (2020)](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 - [Netflix's Cloud Edge Architecture (2021)](https://www.linkedin.com/pulse/netlfixs-cloud-edge-architecture-philip-fisher-ogden/) ([Tweet](https://twitter.com/philip_pfo/status/1353853706995978243))
 - [Processing billions of events in real time (2021)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-) ([HN](https://news.ycombinator.com/item?id=29233463))
+- [Simlin](https://simlin.com/) - System dynamics modeling tool. ([Code](https://github.com/bpowers/simlin))

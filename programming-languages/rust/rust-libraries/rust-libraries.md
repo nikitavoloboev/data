@@ -343,6 +343,7 @@
 - [Cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS).
 - [Fruity](https://github.com/nvzqz/fruity) - Rusty bindings for Apple libraries.
 - [core-foundation-rs](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS.
+- [Plist](https://github.com/ebarnard/rust-plist) - Rusty plist parser.
 
 ## Macros
 
@@ -1164,6 +1165,9 @@
 - [rust-bloom-filter](https://github.com/jedisct1/rust-bloom-filter) - Fast Bloom filter implementation in Rust.
 - [Typenum](https://github.com/paholg/typenum) - Compile time numbers in Rust.
 - [boolinator](https://github.com/DanielKeep/rust-boolinator) - Provides the Boolinator trait, which lets you use Option and Result-style combinators with bools.
+- [Ciborium](https://github.com/enarx/ciborium) - CBOR serialization and deserialization implementations for serde.
+- [Rust Onig](https://github.com/rust-onig/rust-onig) - Rust bindings for the Oniguruma regex library.
+- [region-rs](https://github.com/darfink/region-rs) - Cross-platform virtual memory API.
 
 ## Cargo Plugins
 

@@ -68,3 +68,4 @@
 - [Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) - Resource hub for Obsidian resources. ([Code](https://github.com/obsidian-community/obsidian-hub))
 - [Obsidian PreactJS Template](https://github.com/obsidian-community/obsidian-preact-template)
 - [Obsidian Community Lib](https://github.com/obsidian-community/obsidian-community-lib) - Community-maintained library of commonly used functions when developing Obsidian plugins.
+- [Obsidian Link Scrapper](https://github.com/jackyzha0/hugo-obsidian) - Simple GitHub action to parse Markdown Links into a .yaml file for Hugo.

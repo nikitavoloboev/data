@@ -1105,6 +1105,7 @@
 - [parquet-go](https://github.com/fraugster/parquet-go) - Go package to read and write parquet files.
 - [tail](https://github.com/nxadm/tail) - Go package for reading from continuously updated files (tail -f).
 - [gcslock](https://github.com/mco-gh/gcslock) - Simple, scalable, distributed mutex for serializing computations anywhere on the Internet.
+- [xxhash](https://github.com/cespare/xxhash) - Go implementation of the 64-bit xxHash algorithm (XXH64).
 
 ## Links
 

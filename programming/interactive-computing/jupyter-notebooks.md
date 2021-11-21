@@ -152,3 +152,4 @@
 - [observable_jupyter](https://github.com/thomasballinger/observable-jupyter) - Embed cells from Observable notebooks into Jupyter notebooks.
 - [jupyterlab-nvdashboard](https://github.com/rapidsai/jupyterlab-nvdashboard) - JupyterLab extension for displaying GPU usage dashboards.
 - [CFD Python](https://github.com/barbagroup/CFDPython) - Sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes".
+- [nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks.

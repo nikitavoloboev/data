@@ -126,3 +126,4 @@
 - [Prisma Serverless Conference](https://www.prisma.io/serverless)
 - [fnrun](https://github.com/fnrun/fnrun) - Tools for building business functions and runners. ([Web](https://fnrun.dev/))
 - [The Unfulfilled Promise of Serverless (2021)](https://www.lastweekinaws.com/blog/the-unfulfilled-promise-of-serverless/) ([HN](https://news.ycombinator.com/item?id=29282824))
+- [OpenFaaS Function Store](https://github.com/openfaas/store) - Curated index of OpenFaaS functions which have been tested by the community.
