@@ -287,3 +287,4 @@
 - [React Server Components Roadmap for Next.js (2021)](https://github.com/vercel/next.js/discussions/31263)
 - [What are using getInitialProps for? (2021)](https://twitter.com/devknoll/status/1457422200324046852)
 - [Latest recommendation on CSS for a Next.js site (2021)](https://twitter.com/Gavmn/status/1459649806511460354)
+- [Production-Grade Next.js](https://production-grade-nextjs.vercel.app/) ([Code](https://github.com/Hendrixer/production-grade-nextjs))

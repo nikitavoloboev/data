@@ -319,6 +319,7 @@
 - [Authzed Go](https://github.com/authzed/authzed-go)
 - [Datastore Wrapper](https://github.com/mercari/datastore) - AppEngine | Cloud Datastore wrapper for Go.
 - [moss](https://github.com/couchbase/moss) - Simple, fast, ordered, persistable, key-val storage library for Go.
+- [Chestnut](https://github.com/jrapoport/chestnut) - Encrypted storage for Go.
 
 ## ML
 

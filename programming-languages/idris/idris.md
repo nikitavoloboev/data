@@ -60,3 +60,4 @@
 - [Secrets of type driven program synthesis - Edwin Brady (2021)](https://www.youtube.com/watch?v=E7uSsL8r_mU)
 - [DepSec](https://github.com/simongregersen/DepSec) - Static Information-Flow Control in Idris.
 - [Idris WebAssembly CodeGen](https://github.com/SPY/idris-codegen-wasm)
+- [TyRE](https://github.com/kasiaMarek/TyRE) - Dependently-typed regex parser in Idris 2.

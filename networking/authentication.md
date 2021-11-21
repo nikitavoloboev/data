@@ -174,3 +174,4 @@
 - [How to use OAuth to Add Authentication to Your React App (2021)](https://fusionauth.io/blog/2021/11/11/how-to-authenticate-your-react-app/) ([HN](https://news.ycombinator.com/item?id=29198675))
 - [WebAuthn OCaml Server](https://github.com/roburio/webauthn) - Authenticating users to services using public key cryptography.
 - [UCAN: Authorizing Users Without a Back End (2021)](https://fission.codes/blog/auth-without-backend/) ([Demo](https://github.com/Gozala/ucan-demo))
+- [Gothic](https://github.com/jrapoport/gothic) - User registration and authentication SWT/JWT microservice. It supports REST, gRPC, and gRPC Web API, reCAPTCHA & a variety of DBs with Gorm.

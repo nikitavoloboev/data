@@ -287,6 +287,7 @@
 - [HIP](https://github.com/ROCm-Developer-Tools/HIP) - C++ Heterogeneous-Compute Interface for Portability.
 - [SMACC](https://github.com/reelrbtx/SMACC) - Event-driven, asynchronous, behavioral state machine library for real-time ROS (Robotic Operating System) applications written in C++.
 - [refl-cpp](https://github.com/veselink1/refl-cpp) - Modern compile-time reflection library for C++ with support for overloads, templates, attributes and proxies.
+- [NymphRPC](https://github.com/MayaPosch/NymphRPC) - Compact, C++-based Remote Procedure Call (RPC) library.
 
 ## Links
 
