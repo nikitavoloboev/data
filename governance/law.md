@@ -19,7 +19,7 @@
 - [judyrecords](https://www.judyrecords.com/) - Full text search on 400M US court cases. ([HN](https://news.ycombinator.com/item?id=25150702))
 - [Legal Concepts for Founders](https://handbook.clerky.com/)
 - [CS50 for Lawyers](https://online-learning.harvard.edu/course/cs50-lawyers)
-- [Terms of Service; Didn’t Read](https://tosdr.org/en/frontpage) ([HN](https://news.ycombinator.com/item?id=25714093))
+- [Terms of Service; Didn’t Read](https://tosdr.org/) ([HN](https://news.ycombinator.com/item?id=25714093)) ([Edit](https://edit.tosdr.org/)) ([Code](https://github.com/tosdr/edit.tosdr.org))
 - [L4: Domain Specific Languages for Computational Law](https://github.com/smucclaw/dsl)
 - [Legalese](https://legalese.com/) - Software is eating law. ([GitHub](https://github.com/legalese))
 - [GPT-3, Esq? Evaluating AI Legal Summaries](http://www.davidvictorrodriguez.com/uploads/2/6/4/2/26420847/gpt-3_esq_-_evaluating_ai_legal_summaries.pdf) ([HN](https://news.ycombinator.com/item?id=26183114))

@@ -288,6 +288,9 @@
 - [SMACC](https://github.com/reelrbtx/SMACC) - Event-driven, asynchronous, behavioral state machine library for real-time ROS (Robotic Operating System) applications written in C++.
 - [refl-cpp](https://github.com/veselink1/refl-cpp) - Modern compile-time reflection library for C++ with support for overloads, templates, attributes and proxies.
 - [NymphRPC](https://github.com/MayaPosch/NymphRPC) - Compact, C++-based Remote Procedure Call (RPC) library.
+- [libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11.
+- [xatlas](https://github.com/jpcy/xatlas) - Mesh parameterization / UV unwrapping library.
+- [ohm](https://github.com/csiro-robotics/ohm) - Efficient, extensible occupancy map supporting probabilistic occupancy, normal distribution transforms in CPU and GPU.
 
 ## Links
 

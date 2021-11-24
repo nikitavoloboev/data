@@ -396,3 +396,6 @@ all: unset
 - [Discover CSS polygon shapes](https://css-doodle.com/shapes/) ([Code](https://github.com/css-doodle/shapes))
 - [Parallax Powered by CSS Custom Properties (2021)](https://css-tricks.com/parallax-powered-by-css-custom-properties/)
 - [1-Line CSS Layouts](https://1linelayouts.glitch.me/) ([HN](https://news.ycombinator.com/item?id=29295963))
+- [Full Page: 20 Advanced CSS & HTML techniques: clip-path, @property, aspect-ratio and blend-mode (2021)](https://www.youtube.com/watch?v=PpheLuPbP5Y) ([Article](https://dev.to/astrit/full-page-20-advanced-css-html-techniques-clip-path-property-aspect-ratio-and-blend-mode-2p31))
+- [CSSBattle](https://cssbattle.dev/) - CSS code-golfing game.
+- [CSS Animation: translate3d, backdrop-filter and custom tags (2021)](https://www.youtube.com/watch?v=RTLM2SyEL6o)

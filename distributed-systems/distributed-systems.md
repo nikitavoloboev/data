@@ -230,3 +230,5 @@
 - [MadSim](https://github.com/madsys-dev/madsim) - Magical Deterministic Simulator for distributed systems in Rust.
 - [Deep dive into Yrs architecture (2021)](https://bartoszsypytkowski.com/yrs-architecture/)
 - [fantoch](https://github.com/vitorenesduarte/fantoch) - Framework for evaluating (planet-scale) consensus protocols.
+- [MultiPaxos made Simple (2021)](https://maheshba.bitbucket.io/blog/2021/11/20/MultiPaxos.html)
+- [Paxos made Abstract (2021)](https://maheshba.bitbucket.io/blog/2021/11/15/Paxos.html)

@@ -71,3 +71,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [mdbook-man](https://github.com/vv9k/mdbook-man) - Generate man pages from mdBooks.
 - [Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development (2021)](https://www.smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/)
 - [GoAWK](https://github.com/benhoyt/goawk) - AWK interpreter written in Go. ([Article](https://benhoyt.com/writings/goawk/))
+- [htop](https://github.com/htop-dev/htop) - Cross-platform interactive process viewer. ([Web](https://htop.dev/))

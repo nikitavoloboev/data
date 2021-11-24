@@ -55,3 +55,4 @@
 - [Terraform Provider Tailscale](https://github.com/davidsbond/terraform-provider-tailscale) - Terraform provider implementation for interacting with the Tailscale API.
 - [Taildrop](https://tailscale.com/kb/1106/taildrop/) - Feature that makes it easy to send files between your personal devices on a Tailscale network.
 - [Building WireGate: A WireGuard front to detect compromised keys (2021)](https://blog.thinkst.com/2021/11/building-wiregate-wireguard-front-to.html)
+- [Netmaker](https://github.com/gravitl/netmaker) - Platform for creating and managing fast, secure, and dynamic virtual overlay networks using WireGuard. ([Docs](https://netmaker.org/))

@@ -146,3 +146,4 @@
 - [deno2node](https://github.com/wojpawlik/deno2node) - Transpiles Deno projects into .js and .d.ts for Node.js.
 - [bertml](https://github.com/sno2/bertml) - Use common pre-trained ML models in Deno.
 - [deno_notify](https://github.com/Pandawan/deno_notify) - Send desktop notifications on all platforms in Deno.
+- [deno_mysql](https://github.com/denodrivers/mysql) - MySQL driver for Deno.

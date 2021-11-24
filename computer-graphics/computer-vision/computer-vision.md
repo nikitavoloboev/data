@@ -459,3 +459,7 @@
 - [Aligning Pretraining for Detection via Object-Level Contrastive Learning (2021)](https://arxiv.org/abs/2106.02637) ([Code](https://github.com/hologerry/SoCo))
 - [Look at the Variance! Efficient Black-box Explanations with Sobol-based Sensitivity Analysis (2021)](https://arxiv.org/abs/2111.04138) ([Code](https://github.com/fel-thomas/Sobol-Attribution-Method))
 - [Deep unfolding network for image super-resolution (2020)](https://github.com/cszn/USRNet)
+- [VOLO: Vision Outlooker for Visual Recognition (2021)](https://arxiv.org/abs/2106.13112) ([Code](https://github.com/sail-sg/volo))
+- [Direct Multi-view Multi-person 3D Pose Estimation (2021)](https://arxiv.org/abs/2111.04076) ([Code](https://github.com/sail-sg/mvp))
+- [Image2Mesh: A learning framework for single image 3D reconstruction (2019)](https://jhonykaesemodel.com/publication/image2mesh/) ([Code](https://github.com/jhonykaesemodel/image2mesh))
+- [GammaCV](https://github.com/PeculiarVentures/GammaCV) - WebGL accelerated Computer Vision library for modern web applications. ([Web](https://gammacv.com/))

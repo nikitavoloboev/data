@@ -123,7 +123,7 @@
 - [Traverse](https://traverse.link/) - Learning tool designed to help you remember.
 - [Kyla Scanlon's Reading List](https://www.notion.so/Reading-List-1b7b6b0c0c0646849124942c3e23e39c)
 - [Ask HN: What lessons did you learn from your best or worst colleagues? (2021)](https://news.ycombinator.com/item?id=27161901)
-- [Learney](https://app.learney.me/#) - Online learning platform that lets you take your own path.
+- [Learney](https://app.learney.me/#) - Online learning platform that lets you take your own path. ([Reddit](https://www.reddit.com/r/learnmachinelearning/comments/qzjwb0/build_your_own_interactive_learning_roadmaps/))
 - [Caught in the Study Web (2021)](https://every.to/cybernaut/caught-in-the-study-web) ([Tweet](https://twitter.com/fadeke_adegbuyi/status/1396908868656005123))
 - [Neso Academy - YouTube](https://www.youtube.com/c/nesoacademy/videos) - On a mission to provide free and subsidized education.
 - [Stanford Course Schedule 2020-2021](https://cs.stanford.edu/courses/schedules/2020-2021.autumn.php) ([Tweet](https://twitter.com/karpathy/status/1398737554761863168))

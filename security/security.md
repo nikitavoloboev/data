@@ -228,3 +228,6 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [LunaSec](https://github.com/lunasec-io/lunasec) - End-to-end security system designed to protect your application by transparently encrypting sensitive data, from browser to database.
 - [certinfo](https://github.com/pete911/certinfo) - Print x509 certificate info.
 - [Notes and writeups on CTFs](https://github.com/abhaynayar/obsidian)
+- [ZLint](https://github.com/zmap/zlint) - X.509 Certificate Linter focused on Web PKI standards and requirements.
+- [Exploiting the Qualcomm NPU (neural processing unit) kernel driver (2021)](https://securitylab.github.com/research/qualcomm_npu/)
+- [In-House CA](https://github.com/paurkedal/inhca) - Simple online X.509 certificate authority.

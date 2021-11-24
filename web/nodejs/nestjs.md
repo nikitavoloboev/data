@@ -17,3 +17,7 @@
 - [nestjs-sentry](https://github.com/ntegral/nestjs-sentry) - Provides an injectable sentry.io client to provide enterprise logging nestjs modules.
 - [NestJS Authentication: JWTs, Sessions, logins, and more! | NestJS PassportJS Tutorial (2021)](https://www.youtube.com/watch?v=_L225zpUK0M)
 - [Nest Access Control](https://github.com/nestjsx/nest-access-control) - Helper Module for building a Role and Attribute based Access Control System for Nestjs.
+- [NestJS: Type-safe File Uploads (2021)](https://notiz.dev/blog/type-safe-file-uploads)
+- [OpenApi for your REST APIs in NestJS (2021)](https://notiz.dev/blog/openapi-in-nestjs)
+- [Send Emails with NestJS (2021)](https://notiz.dev/blog/send-emails-with-nestjs)
+- [Introducing NestJS Prisma Library and Schematics (2021)](https://notiz.dev/blog/nestjs-prisma-schematics)

@@ -167,3 +167,4 @@
 - [httpd](https://github.com/docker-library/httpd) - Docker Official Image packaging for Apache HTTP Server.
 - [HTTP Message Signatures (2021)](https://httpwg.org/http-extensions/draft-ietf-httpbis-message-signatures.html) ([HN](https://news.ycombinator.com/item?id=29281449))
 - [HTTP Extensions in progress](https://httpwg.org/http-extensions/) ([Code](https://github.com/httpwg/http-extensions))
+- [Rusqbin](https://github.com/lloydmeta/rusqbin) - Web server that stashes your requests for later retrieval. It is available as a Docker image, a binary, and a library.

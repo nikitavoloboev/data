@@ -39,3 +39,4 @@
 - [Dovetail](https://github.com/paf31/dovetail) - General-purpose PureScript interpreter written in Haskell.
 - [HTTPure](https://github.com/cprussin/purescript-httpure) - Web framework written in PureScript.
 - [dovetail](https://hackage.haskell.org/package/dovetail) - PureScript interpreter with a Haskell FFI.
+- [Purescript for Elm devs](https://github.com/alpacaaa/elm-to-purescript-cheatsheet)

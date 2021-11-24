@@ -55,6 +55,7 @@
 - [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications.
 - [acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
 - [uiprogress](https://github.com/gosuri/uiprogress) - Go library to render progress bars in terminal applications.
+- [GOCUI](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 
 ## Test
 
@@ -219,6 +220,9 @@
 - [go-webview2](https://github.com/jchv/go-webview2) - WebView2 bindings for pure Go, without CGo, based on the webview/webview bindings.
 - [Redeo](https://github.com/bsm/redeo) - High-performance framework for building redis-protocol compatible TCP servers/services.
 - [httpin](https://github.com/ggicci/httpin) - HTTP Input for Go - Decode an HTTP request into a custom struct.
+- [Adaptive Throttler](https://github.com/jessicaxiejw/adaptive_throttler) - Thread-safe throttler library.
+- [IndieAuth Helpers](https://github.com/hacdias/indieauth)
+- [R2](https://github.com/aofei/r2) - Minimalist HTTP request routing helper for Go.
 
 ## GraphQL
 
@@ -1107,6 +1111,9 @@
 - [gcslock](https://github.com/mco-gh/gcslock) - Simple, scalable, distributed mutex for serializing computations anywhere on the Internet.
 - [xxhash](https://github.com/cespare/xxhash) - Go implementation of the 64-bit xxHash algorithm (XXH64).
 - [go-qemu](https://github.com/digitalocean/go-qemu) - Go packages to interact with QEMU using the QEMU Machine Protocol (QMP).
+- [Proto Actor](https://github.com/asynkron/protoactor-go) - Ultra fast distributed actors for Go, C# and Java/Kotlin.
+- [cache](https://github.com/gozeloglu/cache) - LRU-based cache package for Go. ([Reddit](https://www.reddit.com/r/golang/comments/qytr4r/lrubased_cache_package_written_in_go/))
+- [ps](https://github.com/tklauser/ps) - List, find and inspect operating system processes in Go.
 
 ## Links
 
@@ -1137,3 +1144,4 @@
 - [Cap'n Proto bindings for Go](https://github.com/capnproto/go-capnproto2)
 - [Go net/http.ServeMux and Trailing Slashes (2021)](https://christine.website/blog/go-servemux-slash-2021-11-04) ([Lobsters](https://lobste.rs/s/iym5pi/go_net_http_servemux_trailing_slashes))
 - [Mod](https://github.com/marwan-at-work/mod) - Command line tool to upgrade/downgrade Semantic Import Versioning in Go Modules.
+- [Examples for dealing with the reflect package](https://github.com/a8m/reflect-examples)

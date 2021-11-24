@@ -112,3 +112,4 @@
 - [Builder Pattern in Scala with Phantom Types (2017)](https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863)
 - [Scala Center at EPFL](https://scala.epfl.ch/) ([Web Code](https://github.com/scala/scala.epfl.ch))
 - [What's the name of that operator/symbol/syntax/thing, for Scala](https://github.com/andyscott/scala-whats-that-called)
+- [Debugging and Observing Your Scala Code - Will Sargent (2021)](https://www.youtube.com/watch?v=wPpyWz2zEmM)

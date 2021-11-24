@@ -30,3 +30,5 @@
 - [How to design in every language at once (2021)](https://canvatechblog.com/how-to-design-in-every-language-at-once-f2dd66a2780f) - Technology that powers Continuous Localization at Canva. ([HN](https://news.ycombinator.com/item?id=28931601))
 - [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for JavaScript - i18n Plural and Gender Capable Messages. ([Docs](https://messageformat.github.io/messageformat/))
 - [Nano Stores I18n](https://github.com/nanostores/i18n) - Tiny and flexible JS library to make your web application translatable.
+- [Arisu](https://github.com/auguwu/Arisu) - Translation made with simplicity, yet robust. In TypeScript.
+- [Awesome i18n](https://github.com/jpomykala/awesome-i18n)

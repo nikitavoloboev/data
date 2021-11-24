@@ -133,3 +133,4 @@
 - [TwitterFOMO.dev](https://twitterfomo.dev/) - Best WebDev Tweets. ([Code](https://github.com/tomdohnal/twitter-fomo))
 - [How Twitter got research right (2021)](https://www.theverge.com/2021/11/19/22790174/twitter-research-transparency-published-findings)
 - [Search your all tweets](https://github.com/azu/mytweets)
+- [Twitter App Ideas](https://app.simplenote.com/publish/jlwK77) ([Tweet](https://twitter.com/swyx/status/1462534363535626244))

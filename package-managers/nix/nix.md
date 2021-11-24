@@ -197,7 +197,7 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Use Nix flakes without any fluff](https://github.com/gytis-ivaskevicius/flake-utils-plus)
 - [Nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files.
 - [Determinate Systems](https://determinate.systems/) - Confidently build and deploy to the cloud, stadium, or stock exchange. Expert help with the Nix ecosystem from Graham. ([Twitter](https://twitter.com/DeterminateSys)) ([GitHub](https://github.com/DeterminateSystems))
-- [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/)
+- [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) ([HN](https://news.ycombinator.com/item?id=29303641))
 - [Nix is the ultimate DevOps toolkit (2021)](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html) ([HN](https://news.ycombinator.com/item?id=26748696)) ([Lobsters](https://lobste.rs/s/5gbbp2/nix_is_ultimate_devops_toolkit))
 - [devshell](https://github.com/numtide/devshell) - Per project developer environments.
 - [Nix Data](https://github.com/nix-community/nix-data) - Set of packages for data-scientists with batteries-included.
@@ -258,3 +258,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Flake templates](https://github.com/NixOS/templates)
 - [libnix](https://github.com/Profpatsch/libnix-haskell) - Haskell library to interface with the nix package manager.
 - [nix-exec](https://github.com/shlevy/nix-exec) - Run programs defined in nix expressions.
+- [Closure vs. derivation in the Nix package manager (2018)](https://medium.com/scientific-breakthrough-of-the-afternoon/closure-vs-derivation-in-the-nix-package-manager-ec0eccc53407)

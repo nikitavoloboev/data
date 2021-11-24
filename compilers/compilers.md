@@ -184,3 +184,5 @@
 - [pyMLIR](https://github.com/spcl/pymlir) - Python Interface for the Multi-Level Intermediate Representation.
 - [An Incremental Approach to Compiler Construction (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf) ([HN](https://news.ycombinator.com/item?id=29123715))
 - [Learning C to x86 Translation: An Experiment in Neural Compilation (2021)](https://arxiv.org/abs/2108.07639) ([Code](https://github.com/jordiae/neural-compilers))
+- [Essentials of Compilation [book and video lectures] (2020)](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/) ([HN](https://news.ycombinator.com/item?id=29295880))
+- [Staged Abstract Interpreters (2019)](https://www.cs.purdue.edu/homes/rompf/papers/wei-oopsla19.pdf)

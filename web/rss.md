@@ -125,3 +125,4 @@
 - [node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
 - [rss-parser](https://github.com/rbren/rss-parser) - Lightweight RSS parser, for Node and the browser.
 - [rss-to-email](https://github.com/rsslove/rss-to-email) - Generate HTML emails from your RSS feeds.
+- [How to Add an RSS Feed to a NextJS Blog (2021)](https://www.daan.fyi/writings/rss)

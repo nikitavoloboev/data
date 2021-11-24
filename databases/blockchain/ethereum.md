@@ -135,7 +135,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Radspec](https://github.com/aragon/radspec) - Safe interpreter for dynamic expressions in Ethereum's NatSpec.
 - [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - Ethereum evm bytecode disassembler and static/dynamic analysis tool.
 - [ethers.rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust.
-- [parsec](https://parsec.finance/) - DeFi Pro Trading and Analytics.
+- [parsec](https://parsec.finance/) - DeFi Pro Trading and Analytics. ([Twitter](https://twitter.com/parsec_finance))
 - [Solidity Koans](https://soliditykoans.org/) - Learn Ethereum Solidity programming through test driven development. ([Code](https://github.com/nczhu/solidity-koans))
 - [Solidity Cheatsheet and Best practices](https://github.com/manojpramesh/solidity-cheatsheet) ([Web](https://manojpramesh.github.io/solidity-cheatsheet/))
 - [Mirror Protocol](https://mirror.finance/) - Synthetics protocol for on-chain price exposure to real world assets. ([GitHub](https://github.com/Mirror-Protocol))
@@ -384,3 +384,8 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ethereum Project Management: Meeting notes and agenda items](https://github.com/ethereum/pm)
 - [Chainlist](https://networklist-org.vercel.app/) - Helping users connect to EVM powered networks. ([Code](https://github.com/antonnell/networklist-org))
 - [MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - Drips ETH, tokens, and NFTs across many testnet networks, at once.
+- [Awesome StarkNet](https://github.com/gakonst/awesome-starknet)
+- [Loopring](https://loopring.org/#/) - zkRollup DEX & Payment Protocol. ([Code](https://github.com/Loopring/protocols)) ([GitHub](https://github.com/Loopring))
+- [Resources on StarkWare/Cairo/StarkNet (2021)](https://twitter.com/gakonst/status/1463138930992295942)
+- [SolGrep](https://github.com/tintinweb/solgrep) - Scriptable semantic grep utility for solidity.
+- [Starknet DAI Bridge](https://github.com/makerdao/starknet-dai-bridge)

@@ -195,3 +195,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [PodClips](https://podclips.com/) - Discover the Best Podcast Clips.
 - [Callin](https://www.callin.com/) - First Social Podcasting Platform. ([Article](https://medium.com/callin-blog/meet-callin-the-first-social-podcasting-platform-4e60e84cb48f))
 - [Podcasts are my new Wikipedia (2021)](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/) ([HN](https://news.ycombinator.com/item?id=29102027))
+- [node-podcast-parser](https://github.com/akupila/node-podcast-parser) - Parses a podcast RSS feed and returns easy to use object.

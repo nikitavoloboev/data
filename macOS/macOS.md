@@ -218,3 +218,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM.
 - [macOS Optimizer](https://github.com/sickcodes/osx-optimizer) - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
 - [How to sync multiple macs (work/personal) (2021)](https://twitter.com/tenderlove/status/1461461938592878594)
+- [Mach-O Binaries (2015)](http://www.m4b.io/reverse/engineering/mach/binaries/2015/03/29/mach-binaries.html)

@@ -56,3 +56,6 @@
 - [Why Tokyo Works (2021)](https://metropolisjapan.com/why-tokyo-works/) ([HN](https://news.ycombinator.com/item?id=29134481))
 - [Metropolis Japan](https://metropolisjapan.com/)
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) - Browser extension to translate Japanese by hovering over words.
+- [Manga Translator](https://github.com/cameronkinsella/manga-translator) - Easy-to-use OCR and Japanese to English translation tool.
+- [The Economy of Japan: how a Superpower FELL from Grace in Four Decades (2021)](https://www.youtube.com/watch?v=pU_yyadYgG8)
+- [Japan’s curiously quiescent inflation rate (2021)](https://www.economist.com/finance-and-economics/2021/11/20/the-case-of-the-curiously-quiescent-inflation-rate) ([HN](https://news.ycombinator.com/item?id=29312300))

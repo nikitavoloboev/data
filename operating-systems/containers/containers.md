@@ -1,5 +1,9 @@
 # Containers
 
+## Notes
+
+- [Running code in containers means I don't ever have to think about what version of Python/PostgreSQL/Redis/etc is supported by the stable release of the host operating system.](https://twitter.com/simonw/status/1463224255433220098)
+
 ## Links
 
 - [Awesome containers](https://github.com/tcnksm/awesome-container)

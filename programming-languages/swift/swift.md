@@ -247,3 +247,4 @@
 - [Swift on Balena](https://github.com/wlisac/swift-on-balena) - Docker images for Swift on Raspberry Pi and other ARM devices from balena's base images.
 - [Unit testing Swift code that uses async/await (2021)](https://www.swiftbysundell.com/articles/unit-testing-code-that-uses-async-await/)
 - [How to Handle Errors in Swift Task Groups (2021)](https://swiftsenpai.com/swift/task-groups-error-handling/)
+- [Non-fatal errors vs fatal crashes: The differences explained (2021)](https://www.avanderlee.com/optimization/non-fatal-errors-vs-fatal-crashes/)

@@ -12,3 +12,4 @@
 - [fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin to serve Vite SSR applications with universal API, data fetching and hydration utilities.
 - [Fastify Now](https://github.com/yonathan06/fastify-now) - File based routing for fastify.
 - [fastify-basic-auth](https://github.com/fastify/fastify-basic-auth) - Fastify basic auth plugin.
+- [fastify-cookie](https://github.com/fastify/fastify-cookie) - Plugin for Fastify that adds support for reading and setting cookies.

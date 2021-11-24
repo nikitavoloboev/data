@@ -108,3 +108,6 @@
 - [django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Postgres trigger support integrated with Django models.
 - [django-pghistory](https://github.com/Opus10/django-pghistory) - Provides automated and customizable history tracking for Django models using Postgres triggers.
 - [A complete guide to organizing settings in Django (2021)](https://apibakery.com/blog/django-settings-howto/) ([HN](https://news.ycombinator.com/item?id=29198346))
+- [Why I Run Django on Kubernetes as a One-Man SaaS (2021)](https://anthonynsimon.com/blog/tools-of-the-trade/)
+- [Django, HTMX and Alpine.js: Modern websites, JavaScript optional (2021)](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/) ([HN](https://news.ycombinator.com/item?id=29319034))
+- [django-fsm](https://github.com/viewflow/django-fsm) - Adds simple declarative state management for django models.

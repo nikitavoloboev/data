@@ -339,3 +339,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Netlify Drop](https://app.netlify.com/drop) - Drag & Drop. It’s online. ([HN](https://news.ycombinator.com/item?id=29254405))
 - [Tilda Education](https://tilda.education/en/) - Practical guides to web design and digital marketing.
 - [Only 90s Web Developers Remember This (2014)](https://zachholman.com/posts/only-90s-developers/) ([HN](https://news.ycombinator.com/item?id=29296003))
+- [Ask HN: Simplest stack to build web apps in 2021?](https://news.ycombinator.com/item?id=29311761)

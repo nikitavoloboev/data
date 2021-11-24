@@ -105,3 +105,4 @@
 - [Harmonic Coloring](http://www.musanim.com/HarmonicColoring/) - Method for assigning colors to musical pitches. ([HN](https://news.ycombinator.com/item?id=29241387))
 - [A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH (2021)](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
 - [Inkspot](https://github.com/rm-hull/inkspot) - Small Clojure/ClojureScript library for creating color swatches.
+- [Dynamic Color Manipulation with CSS Relative Colors (2021)](https://blog.jim-nielsen.com/2021/css-relative-colors/) ([Tweet](https://twitter.com/stefanjudis/status/1463075616375377922))

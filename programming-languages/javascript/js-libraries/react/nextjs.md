@@ -101,6 +101,9 @@
 - [next-sanity](https://github.com/sanity-io/next-sanity) - Sanity.io toolkit for Next.js
 - [next-g11n](https://github.com/atilafassina/next-g11n) - Translate and localize your Next.js app smoothly.
 - [next-multilingual](https://github.com/Avansai/next-multilingual) - Opinionated end-to-end solution for Next.js applications that requires multiple languages.
+- [HappyKit Flags](https://github.com/happykit/flags) - Feature Flags for Next.js. ([Web](https://happykit.dev/))
+- [HappyAuth](https://github.com/happykit/auth-email) - Lightweight authentication specifically designed for Next.js.
+- [HappyKit Analytics](https://github.com/happykit/analytics) - Analytics specifically designed for Next.js.
 
 ## Notes
 

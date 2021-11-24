@@ -76,3 +76,4 @@
 - [Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnot (2021)](https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior) ([HN](https://news.ycombinator.com/item?id=29060200))
 - [Zig monthly](https://zigmonthly.org/) - Once-a-month publication where I curate all things Zig.
 - [zig build explained (2021)](https://zig.news/xq/zig-build-explained-part-1-59lf)
+- [A Practical Guide to Applying Data-Oriented Design - Andrew Kelley (2021)](https://media.handmade-seattle.com/practical-data-oriented-design/)

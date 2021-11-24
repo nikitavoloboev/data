@@ -1,6 +1,6 @@
 # API
 
-[Linear API](https://developers.linear.app/docs) is interestingly made. [Stripe](https://stripe.com/docs/api) has nice API docs too.
+[Linear API](https://developers.linear.app/docs) is interestingly made. [Stripe](https://stripe.com/docs/api) has nice API docs too. Currently looking into [Apiker](https://github.com/hodgef/apiker) for releasing my APIs.
 
 ## Other
 
@@ -286,3 +286,4 @@
 - [Making retries safe with idempotent APIs](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/) ([Tweet](https://twitter.com/marknca/status/1458066748322684932))
 - [Backpressure And The Replicator (2021)](https://github.com/couchbase/couchbase-lite-core/wiki/Backpressure) ([Lobsters](https://lobste.rs/s/x9kwgp/backpressure_replicator))
 - [The Little Manual of API Design (2008)](https://www.cs.vu.nl/~jbe248/api-design.pdf)
+- [Remote Execution API](https://github.com/bazelbuild/remote-apis) - API that, at its most general, allows clients to request execution of binaries on a remote system.

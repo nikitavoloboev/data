@@ -31,5 +31,6 @@
 - [Version Control for Structure Editing (2021)](https://alarmingdevelopment.org/?p=1570)
 - [BlackBox](https://github.com/StackExchange/blackbox) - Store secrets in a VCS repo.
 - [Stacked changes: how FB and Google engineers stay unblocked and ship faster (2021)](https://graphite.dev/blog/post/DThX8ffP1gmxWJChEv0y) ([HN](https://news.ycombinator.com/item?id=29255195))
-- [Graphite](https://graphite.dev/) - Fast, simple code review.
+- [Graphite](https://graphite.dev/) - Fast, simple code review. ([App](https://app.graphite.dev/)) ([CLI](https://github.com/screenplaydev/graphite-cli))
 - [elfshaker](https://github.com/elfshaker/elfshaker) - Low-footprint, high-performance version control system fine-tuned for binaries. ([HN](https://news.ycombinator.com/item?id=29276557))
+- [The Guide to Data Versioning (2021)](https://lakefs.io/data-versioning/)

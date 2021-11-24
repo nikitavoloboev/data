@@ -4,6 +4,8 @@ Values help improve decision making. When faced with multiple tough decisions, c
 
 My personal values are encoded as [rules](../../focusing/rules.md) I try to follow.
 
+[Tesla's anti handbook](https://twitter.com/alex_avoigt/status/1462953513890336771) is neat.
+
 ## Interesting values/principles
 
 - [Oxide Principles of Operation](https://oxide.computer/principles/)
@@ -67,3 +69,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [1 Year of Coinbase as a mission focused company (2021)](https://twitter.com/brian_armstrong/status/1443727729476530178) ([HN](https://news.ycombinator.com/item?id=28802438))
 - [Культура в Злых марсианах (2021)](https://www.facebook.com/anton.lovchikov/posts/10226811497938112)
 - [Culturally transmitted skills and values](https://danluu.com/culture/) ([HN](https://news.ycombinator.com/item?id=29155502))
+- [Tesla Anti-Handbook Handbook](https://twitter.com/alex_avoigt/status/1462953513890336771)

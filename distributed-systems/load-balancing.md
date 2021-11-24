@@ -42,3 +42,4 @@
 - [Istio's networking: an in-depth look at traffic and architecture (2021)](https://www.solo.io/blog/istios-networking-in-depth/)
 - [slb](https://github.com/steel-load-balancer/slb) - Load-balancer made from steel.
 - [A deep dive on load balancing algorithms](https://lafikl.notion.site/A-deep-dive-on-load-balancing-algorithms-4e6211ec7f7846238c38f3819212457c) ([HN](https://news.ycombinator.com/item?id=29252656))
+- [Envoy Proxy Big Book of Examples](https://github.com/repenno/envoybigbook)

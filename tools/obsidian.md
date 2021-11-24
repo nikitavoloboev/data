@@ -41,6 +41,8 @@
 - [Zoottelkeeper](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin) - Automated folder-level index file generator and maintainer.
 - [Obsidian Typing](https://github.com/konodyuk/obsidian-typing) - Strict note typing for Obsidian.
 - [Smarter Markdown Hotkeys](https://github.com/chrisgrieser/obsidian-smarter-md-hotkeys) - Markdown hotkeys that automatically select words before applying markup.
+- [Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc) - Adds command palette options to export your notes to a variety of formats.
+- [CardBoard](https://github.com/roovo/obsidian-card-board) - Obsidian plugin to make working with tasks a pleasure.
 
 ## Themes
 

@@ -154,3 +154,4 @@
 - [Use forums rather than Slack/Discord to support developer community (2021)](https://www.mooreds.com/wordpress/archives/3451) ([HN](https://news.ycombinator.com/item?id=29154216)) ([Reddit](https://www.reddit.com/r/programming/comments/qpz8jz/you_should_use_forums_rather_than_slackdiscord_to/))
 - [How to work better async through using Loom (2021)](https://twitter.com/Jobvo/status/1456276277501906962)
 - [Rocket.Chat](https://rocket.chat/) - Communication platform. ([Docs](https://docs.rocket.chat/)) ([Docs Code](https://github.com/RocketChat/docs))
+- [Don't soften feedback](https://larahogan.me/blog/dont-soften-feedback/) ([HN](https://news.ycombinator.com/item?id=29297911))

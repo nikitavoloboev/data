@@ -240,7 +240,7 @@ for i, _ in enumerate(nums):
 - [The History of Python: From List Comprehensions to Generator Expressions (2010)](http://python-history.blogspot.com/2010/06/from-list-comprehensions-to-generator.html)
 - [blackdoc](https://github.com/keewis/blackdoc) - Tool that applies black to code in documentation.
 - [Exhaustiveness Checking with Mypy (2020)](https://hakibenita.com/python-mypy-exhaustive-checking) ([HN](https://news.ycombinator.com/item?id=25428583))
-- [Beartype](https://github.com/beartype/beartype) - Fast O(1) runtime type-checking in pure Python.
+- [Beartype](https://github.com/beartype/beartype) - Fast O(1) runtime type-checking in pure Python. ([HN](https://news.ycombinator.com/item?id=29288402))
 - [Python behind the scenes (2020)](https://tenthousandmeters.com/tag/python-behind-the-scenes/)
 - [Python behind the scenes: a list of resources](https://tenthousandmeters.com/materials/python-behind-the-scenes-a-list-of-resources/)
 - [Darker](https://github.com/akaihola/darker) - Reformat and lint modified Python code.
@@ -267,7 +267,7 @@ for i, _ in enumerate(nums):
 - [Tracing and visualizing the Python GIL with perf and VizTracer (2021)](https://www.maartenbreddels.com/perf/jupyter/python/tracing/gil/2021/01/14/Tracing-the-Python-GIL.html)
 - [MesaPy](https://github.com/mesalock-linux/mesapy) - Memory-Safe Python Implementation based on PyPy.
 - [Makefile.venv](https://github.com/sio/Makefile.venv) - Seamlessly manage Python virtual environment with a Makefile.
-- [Research Software Engineering with Python Course](https://alan-turing-institute.github.io/rsd-engineeringcourse/) ([Code](https://github.com/alan-turing-institute/rsd-engineeringcourse))
+- [Research Software Engineering with Python Course](https://alan-turing-institute.github.io/rse-course/html/index.html) ([Code](https://github.com/alan-turing-institute/rse-course))
 - [OO in Python is mostly pointless](https://leontrolski.github.io/mostly-pointless.html) ([HN](https://news.ycombinator.com/item?id=25933121)) ([Lobsters](https://lobste.rs/s/ldzfsw/oo_python_is_mostly_pointless))
 - [Constant Folding in Python (2021)](https://arpitbhayani.me/blogs/constant-folding-python)
 - [You don't really need a virtualenv (2021)](https://frostming.com/2021/01-22/introducing-pdm/) ([HN](https://news.ycombinator.com/item?id=26020732))
@@ -386,3 +386,5 @@ for i, _ in enumerate(nums):
 - [prometeo](https://github.com/zanellia/prometeo) - Python-to-C transpiler for high-performance computing. ([HN](https://news.ycombinator.com/item?id=29253039))
 - [Why does a = a[0] = [0] create a self-referential list in Python? (2021)](https://susam.in/blog/peculiar-self-references.html) ([HN](https://news.ycombinator.com/item?id=29269805))
 - [Memory Profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code.
+- [Research Software Engineering with Python: Building software that makes research possible (2021)](https://merely-useful.tech/py-rse/)
+- [Static Duck Typing in Python with Protocols (2021)](https://www.daan.fyi/writings/python-protocols) ([HN](https://news.ycombinator.com/item?id=29295535))

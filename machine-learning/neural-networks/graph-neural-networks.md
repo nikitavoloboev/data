@@ -72,3 +72,5 @@
 - [Graph Robustness Benchmark (GRB)](https://github.com/THUDM/grb) - Scalable, unified, modular, and reproducible benchmark for evaluating the adversarial robustness of Graph Machine Learning.
 - [TensorFlow GNN](https://github.com/tensorflow/gnn) - Library to build Graph Neural Networks on the TensorFlow platform. ([Article](https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html))
 - [Graph Neural Networks through the lens of Differential Geometry and Algebraic Topology (2021)](https://towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f) ([Tweet](https://twitter.com/mmbronstein/status/1461366066282569734))
+- [DGN](https://github.com/PKU-AI-Edge/DGN) - Graph convolutional reinforcement learning, where the multi-agent environment is modeled as a graph, each agent is a node, and the encoding of local observation of agent is the feature of node.
+- [SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials (2021)](https://arxiv.org/abs/2101.03164) ([Tweet](https://twitter.com/simonbatzner/status/1348642158308425732))

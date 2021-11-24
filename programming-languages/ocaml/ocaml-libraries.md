@@ -24,6 +24,7 @@
 
 ## DB
 
+- [Caqti](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data.
 - [PostgreSQL-OCaml](https://github.com/mmottl/postgresql-ocaml) - PostgreSQL Bindings for OCaml.
 
 ## Bindings
@@ -63,7 +64,6 @@
 - [Landmarks](https://github.com/LexiFi/landmarks) - Simple Profiling Library for OCaml.
 - [pfff](https://github.com/returntocorp/pfff) - Set of tools and APIs to perform static analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [ppx_stage](https://github.com/stedolan/ppx_stage) - Staged metaprogramming in stock OCaml.
-- [Caqti](https://github.com/paurkedal/ocaml-caqti) - Provides a monadic cooperative-threaded OCaml connector API for relational databases.
 - [Streaming](https://github.com/odis-labs/streaming) - Fast, safe and composable streaming abstractions. ([Announcement](https://discuss.ocaml.org/t/ann-first-release-of-streaming/5961))
 - [cameleer](https://github.com/mariojppereira/cameleer) - Deductive Verification Tool for OCaml Programs.
 - [Ppxlib](https://github.com/ocaml-ppx/ppxlib) - Base library and tools for ppx rewriters.
@@ -111,6 +111,7 @@
 - [futurama](https://github.com/ghuysmans/futurama) - Finite permutation library with an optimizing compiler.
 - [algebra](https://github.com/ghuysmans/algebra) - Definitions for common algebraic structures.
 - [ocaml-lp](https://github.com/ktahar/ocaml-lp) - Helps the modeling of Linear Programming (LP) and Mixed Integer Programming (MIP) in OCaml.
+- [ppx_regexp](https://github.com/paurkedal/ppx_regexp) - Matching Regular Expressions with OCaml Patterns.
 
 ## Links
 

@@ -60,3 +60,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Note Garden](https://notegarden.web.app/) - Tool for your learning, like Anki and Notion in one. ([HN](https://news.ycombinator.com/item?id=28400446))
 - [genanki-rs](https://github.com/yannickfunk/genanki-rs) - Rust Crate for Generating Anki Decks.
 - [Cloze Overlapper for Anki](https://github.com/glutanimate/cloze-overlapper) - List memorization made easy.
+- [apy](https://github.com/lervag/apy) - CLI script for interacting with local Anki collection.

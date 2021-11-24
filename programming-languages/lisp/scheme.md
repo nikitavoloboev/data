@@ -61,3 +61,4 @@
 - [Normalization-by-evaluation in miniKanren](https://github.com/webyrd/normalization-by-evaluation)
 - [schemeCompiler](https://github.com/mhuesch/schemeCompiler) - Compiler for a subset of Scheme in Haskell.
 - [Write You a Scheme in Haskell](https://github.com/write-you-a-scheme-v2/scheme) ([Web](https://www.wespiser.com/writings/wyas/home.html))
+- [Interactive Scheme Primer, written in Scheme](https://github.com/webyrd/scheme-primer)

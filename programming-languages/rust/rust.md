@@ -626,4 +626,7 @@
 - [The Little Book of Rust Books](https://lborb.github.io/book/) - Catalogue of Rust mdbooks. ([Code](https://github.com/lborb/book))
 - [Rust Edition Guide](https://doc.rust-lang.org/stable/edition-guide/) - Guide to changes between various editions of Rust. ([Code](https://github.com/rust-lang/edition-guide))
 - [Beginner's Series to Rust](https://github.com/microsoft/beginners-series-rust)
-- [The Little Book of Rust Macros](https://veykril.github.io/tlborm/) ([Code](https://github.com/Veykril/tlborm)) ([Old Version](https://danielkeep.github.io/tlborm/book/README.html))
+- [The Little Book of Rust Macros](https://veykril.github.io/tlborm/) ([Code](https://github.com/Veykril/tlborm)) ([Old Version](https://danielkeep.github.io/tlborm/book/README.html)) ([HN](https://news.ycombinator.com/item?id=29297507))
+- [What do you NOT like about Rust? (2021)](https://www.reddit.com/r/rust/comments/qzbd05/what_do_you_not_like_about_rust/)
+- [Instrument a Rust Application with OpenTelemetry (2021)](https://21-lessons.com/how-to-instrument-a-rust-application-with-opentelemetry/)
+- [A Tale of Three Rust Codebases (2021)](https://blog.convex.dev/a-tale-of-three-codebases/)

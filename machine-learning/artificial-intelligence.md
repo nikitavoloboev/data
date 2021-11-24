@@ -106,3 +106,4 @@
 - [Fast indoor 2D localization using ceiling lights (2021)](https://www.a1k0n.net/2021/01/22/indoor-localization.html)
 - [Shannon entropy in the context of machine learning and AI (2018)](https://medium.com/swlh/shannon-entropy-in-the-context-of-machine-learning-and-ai-24aee2709e32)
 - [An argument for the impossibility of machine intelligence (2021)](https://arxiv.org/abs/2111.07765)
+- [Sea AI Lab](https://sail.sea.com/) ([GitHub](https://github.com/sail-sg))

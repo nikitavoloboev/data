@@ -92,3 +92,6 @@
 - [JavaParser](https://github.com/javaparser/javaparser) - Set of libraries implementing a Java 1.0 - Java 15 Parser with advanced analysis functionalities. ([Web](https://javaparser.org/))
 - [Java Virtual Threads Preview (2021)](https://openjdk.java.net/jeps/8277131) ([HN](https://news.ycombinator.com/item?id=29236375))
 - [Bytecoder](https://github.com/mirkosertic/Bytecoder) - Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.
+- [Optimizing Java: Practical Techniques for Improving JVM Application Performance (2018)](https://www.goodreads.com/book/show/27015350-optimizing-java)
+- [Java and Scala’s type systems are unsound (2016)](https://dl.acm.org/doi/10.1145/2983990.2984004) ([HN](https://news.ycombinator.com/item?id=29317024))
+- [A tale of Java Hash Tables (2021)](https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables) ([HN](https://news.ycombinator.com/item?id=29319151))

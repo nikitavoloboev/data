@@ -22,7 +22,7 @@
 - [Things you can do with a browser in 2020](https://github.com/luruke/browser-2020)
 - [Karmatic](https://github.com/developit/karmatic) - Easy automatic (headless) browser testing. Powered by Karma, Webpack & Jasmine.
 - [n.eko](https://github.com/nurdism/neko) - Self hosted virtual browser (rabb.it clone) that runs in docker.
-- [Playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit browsers. ([Playwright Fixture-based test runner](https://github.com/microsoft/playwright-test-runner)) ([End-to-end tests with Playwright](https://github.com/microsoft/playwright-test)) ([playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda))
+- [Playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit browsers. ([Playwright Fixture-based test runner](https://github.com/microsoft/playwright-test-runner)) ([End-to-end tests with Playwright](https://github.com/microsoft/playwright-test)) ([playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda)) ([Intro](https://www.youtube.com/watch?v=JjhY2aFBTTk))
 - [Playwright for Python](https://github.com/microsoft/playwright-python) - Python library to automate Chromium, Firefox and WebKit browsers with a single API.
 - [Playwright for Go](https://github.com/mxschmitt/playwright-go) - Go library to automate Chromium, Firefox and WebKit with a single API.
 - [Robot Framework](https://github.com/MarketSquare/robotframework-browser) - Browser library powered by Playwright.
@@ -158,3 +158,4 @@
 - [Synthetic Monitoring with Real Browsers](https://github.com/elastic/synthetics)
 - [PrivacyTests.org](https://privacytests.org/) - Open-source tests of web browser privacy. ([Code](https://github.com/arthuredelstein/privacytests.org))
 - [Stringmark](https://www.stringmark.com/) - Chrome extension that makes online research easier. ([HN](https://news.ycombinator.com/item?id=29199004))
+- [Ask HN: What browser extensions are a must-have in 2021?](https://news.ycombinator.com/item?id=29314560)

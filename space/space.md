@@ -126,3 +126,5 @@
 - [Ad Astra: The coming battle over space (2021)](https://harpers.org/archive/2021/11/ad-astra-the-coming-battle-over-space/) ([HN](https://news.ycombinator.com/item?id=29045286))
 - [Astrophysicists unveil glut of gravitational-wave detections (2021)](https://www.nature.com/articles/d41586-021-03089-y) ([HN](https://news.ycombinator.com/item?id=29175256))
 - [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) ([Code](https://github.com/datacarpentry/astronomy-python))
+- [How to create an artificial magnetosphere for Mars (2021)](https://arxiv.org/abs/2111.06887)
+- [Searching for Exomoons with Alex Teachey (2021)](https://www.youtube.com/watch?v=J2SjAgc8JAs&t=58s)

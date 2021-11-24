@@ -262,3 +262,4 @@
 - [Something Interesting about Albert Einstein’s Ph.D. Thesis](https://www.cantorsparadise.com/something-interesting-about-albert-einsteins-ph-d-thesis-a7bf1869059e)
 - [Gravitation without the equivalence principle (2003)](https://arxiv.org/abs/gr-qc/0304106)
 - [Gravitation without the equivalence principle (1957)](http://www.fuchs-braun.com/media/8a5e157dba163e00ffff8016ffffffef.pdf)
+- [Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers (2020)](https://arxiv.org/abs/2007.00016) ([Code](https://github.com/tum-pbs/Solver-in-the-Loop))

@@ -95,3 +95,4 @@
 - [Electrum Analyzer](https://github.com/haslab/Electrum) - Model checker for relational first-order temporal specifications. ([Tutorial](https://github.com/haslab/Electrum/wiki/Tutorial))
 - [Simple proof checker in OCaml](https://github.com/neel-krishnaswami/proof-checker)
 - [Provably-correct versions of Leftpad](https://github.com/hwayne/lets-prove-leftpad)
+- [Structured derivations: a unified proof style for teaching mathematics](https://hal.archives-ouvertes.fr/hal-00540025) ([Tweet](https://twitter.com/brendanzab/status/1462560273554821121))

@@ -40,7 +40,7 @@
 - [Prettier plugin for Prisma](https://github.com/umidbekk/prettier-plugin-prisma)
 - [NextJS with Prisma](https://github.com/chenkie/next-prisma) - Sample project shows how to use NextJS with Prisma.
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) - Extend Prisma's findMany method to support Relay Cursor Connections.
-- [Prisma DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator) - Automatically generate a DBML schema from your Prisma Schema.
+- [Prisma DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator) - Automatically generate a DBML schema from your Prisma Schema. ([Article](https://notiz.dev/blog/prisma-dbml-generator))
 - [Hassle-Free Database Migrations with Prisma Migrate (2021)](https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b) ([HN](https://news.ycombinator.com/item?id=26480466))
 - [nexus-prisma](https://github.com/prisma/nexus-prisma) - Official Prisma plugin for Nexus.
 - [How to deploy Prisma in AWS Lambda with Serverless (2021)](https://dev.to/eddeee888/how-to-deploy-prisma-in-aws-lambda-with-serverless-1m76) ([Code](https://github.com/eddeee888/topic-prisma-aws-lambda-deployment))
@@ -76,3 +76,6 @@
 - [Prisma Entity Relationship Diagram Generator](https://github.com/keonik/prisma-erd-generator)
 - [Prisma TypeGraphQL Types Generator](https://github.com/YassinEldeeb/prisma-tgql-types-gen)
 - [Prisma Serverless Conference 2021 - YouTube](https://www.youtube.com/watch?v=fAcHR5dqt_4)
+- [Prisma Migrate: Deploy Migration with Docker (2021)](https://notiz.dev/blog/prisma-migrate-deploy-with-docker)
+- [Prisma Chats with Shanon Jackson - end-to-end type safety with Next.js and Prisma (2021)](https://www.youtube.com/watch?v=ur-SYNqADTY)
+- [Zod Prisma](https://github.com/CarterGrimmeisen/zod-prisma) - Custom Prisma generator that creates Zod schemas from your Prisma model.

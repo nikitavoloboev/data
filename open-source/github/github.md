@@ -51,6 +51,7 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub iOS app has dispatch workflow action shortcut](https://twitter.com/baevdm/status/1447967684814155779)
 - [gh command supports creating, listing, and SSHing into codespaces](https://twitter.com/nicknisi/status/1452830729793150987) ([Tweet](https://twitter.com/corywilkerson/status/1453072826718515202))
 - [Describe what your function should do in a comment before you implement the function & GitHubCopilot might just write the damn thing for you.](https://twitter.com/erikras/status/1460562819452129284)
+- [Pull request habit: Provide before and after screenshots in the pull request description](https://twitter.com/housecor/status/1463132466202488836)
 
 ## Code
 
@@ -310,3 +311,4 @@ Awesome List
 - [missue](https://github.com/azu/missue) - Toolkit helps you to management your TODO based on GitHub Issues.
 - [GitHub Search Results as RSS Feeds via GitHub Actions](https://github.com/azu/github-search-rss)
 - [CLI: Delete GitHub Branches that match patterns](https://github.com/azu/delete-github-branches)
+- [Discuss with Atinux](https://github.com/Atinux/discuss) - Demo of using Nuxt 3 with GitHub authentication and creating issues with real-time updates.

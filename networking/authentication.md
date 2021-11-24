@@ -175,3 +175,4 @@
 - [WebAuthn OCaml Server](https://github.com/roburio/webauthn) - Authenticating users to services using public key cryptography.
 - [UCAN: Authorizing Users Without a Back End (2021)](https://fission.codes/blog/auth-without-backend/) ([Demo](https://github.com/Gozala/ucan-demo))
 - [Gothic](https://github.com/jrapoport/gothic) - User registration and authentication SWT/JWT microservice. It supports REST, gRPC, and gRPC Web API, reCAPTCHA & a variety of DBs with Gorm.
+- [How We Turn Authorization Logic into SQL (2021)](https://www.osohq.com/post/logic-into-sql) ([HN](https://news.ycombinator.com/item?id=29321504))

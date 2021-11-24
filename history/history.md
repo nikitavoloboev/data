@@ -158,3 +158,5 @@
 - [Эпичная История - YouTube](https://www.youtube.com/c/%D0%AD%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/videos)
 - [Humanizing Hitler - What Downfall is Really About (Film Analysis)](https://www.youtube.com/watch?v=uI5ZsEy8ASg)
 - [Cold War Lessons and Fallacies for US-China Relations Today (2020)](https://www.tandfonline.com/doi/abs/10.1080/0163660X.2020.1850406?journalCode=rwaq20#.YZq9-uBiJqI.twitter)
+- [Cocaine Paraphernalia Ads in the 70s](https://rarehistoricalphotos.com/cocaine-paraphernalia-ads-1970s/) ([HN](https://news.ycombinator.com/item?id=29316180))
+- [Rare Historical Photos](https://rarehistoricalphotos.com/)

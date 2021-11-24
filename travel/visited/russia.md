@@ -8,7 +8,7 @@ As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 
 
 My current plan/hope to do my part in crushing these systems is by helping to build best tools available for all things learning & organizing around causes/ideas. Everyone should be able to think critically and know how to be effective and how to stop being abused by their environment.
 
-Overthrowing [oppressive regimes](https://www.youtube.com/watch?v=WGYYI1zhp2Y) such as [Russia](https://www.youtube.com/c/Гулагунетофициальныйканал/videos) and China is hard and requires courage and coordination given the amount of money being spent on police & military by these dictators and the [depths in which they go](https://varlamov.ru/4200776.html) to try and [jail for even thinking the wrong thing](https://twitter.com/adagamov/status/1356519608111542277).
+Overthrowing [oppressive regimes](https://www.youtube.com/watch?v=WGYYI1zhp2Y) such as [Russia](https://www.youtube.com/c/Гулагунетофициальныйканал/videos) and China is hard and requires courage, coordination and hard tech ([decentralization](../../networking/decentralization.md) / [anonymity](../../privacy/privacy.md)) investments given the amount of money being spent on police & military by these dictators and the [depths in which they go](https://varlamov.ru/4200776.html) to try and [jail for even thinking the wrong thing](https://twitter.com/adagamov/status/1356519608111542277).
 
 The people in charge [lack any kind of ethics](https://twitter.com/teamnavalny/status/1356712217387937796) and [will go to any lengths to stop the protests](https://twitter.com/pevchikh/status/1356701669271105537) including [killing/jailing everyone involved](https://www.youtube.com/watch?v=TW5GmgCOTHE). The police should grow conscience and [stop committing further crimes on behalf of the government](https://twitter.com/egor_mq/status/1355873294126346240). For police that understand they are supporting an oppressive regime but have families and can't afford to lose jobs, financial support should be provided.
 
@@ -352,3 +352,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Революции 1917 года в России](https://www.youtube.com/watch?v=6FNr9eF8e_s)
 - [О чем на самом деле любимые советские фильмы? (2021)](https://www.youtube.com/watch?v=1aDB1TksfUU)
 - [Summary of Soviet economics at the fall of USSR](https://echelon.pl/nikolay-shmelyov-avansy-i-dolgi-credits-and-debts-novyi-mir-1987-6.html)
+- [Colta.ru](https://www.colta.ru/) - Всё о культуре и духе времени. ([Twitter](https://twitter.com/ColtaRu))

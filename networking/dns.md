@@ -154,3 +154,5 @@
 - [sslip.io](https://sslip.io/) - Go-based DNS server which maps DNS records with embedded IP addresses to those addresses. ([Code](https://github.com/cunnie/sslip.io))
 - [DNSControl](https://stackexchange.github.io/dnscontrol/) - Opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure. ([Code](https://github.com/StackExchange/dnscontrol))
 - [Minica](https://github.com/jsha/minica) - Small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
+- [LDNS](https://github.com/NLnetLabs/ldns) - DNS library that facilitates DNS tool programming. ([Web](https://nlnetlabs.nl/projects/ldns/about/))
+- [Go-Wild-DNS](https://github.com/AndrianBdn/go-wild-dns) - Micro DNS-server that implements wildcard-ip DNS magic functionality.

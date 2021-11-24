@@ -40,3 +40,4 @@
 - [cypress-cucumber-preprocessor](https://github.com/TheBrainFamily/cypress-cucumber-preprocessor) - Adds support for using feature files when testing with Cypress.
 - [cypress-network-idle](https://github.com/bahmutov/cypress-network-idle) - Little Cypress.io plugin for waiting for network to be idle before continuing with the test.
 - [cypress-recurse](https://github.com/bahmutov/cypress-recurse) - Way to re-run Cypress commands until a predicate function returns true.
+- [Cypress terminal report](https://github.com/archfz/cypress-terminal-report) - Better terminal and file output for cypress test logs.

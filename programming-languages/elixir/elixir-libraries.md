@@ -51,6 +51,10 @@
 
 - [Statistics](https://github.com/msharp/elixir-statistics) - Statistical functions and distributions for Elixir.
 
+## Livebook
+
+- [Kino](https://github.com/livebook-dev/kino) - Client-driven interactive widgets for Livebook.
+
 ## Other
 
 - [GraphQL toolkit for Elixir](https://github.com/absinthe-graphql/absinthe)

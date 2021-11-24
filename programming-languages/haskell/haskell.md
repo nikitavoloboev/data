@@ -341,3 +341,7 @@
 - [Applying File Changes with fix and GADTs (2021)](https://dfithian.github.io/2021/11/12/applying-file-changes-with-fix-and-gadts.html)
 - [A Beginner's Guide to Haskell](https://serras.github.io/haskell-exchange-2021/slides#1)
 - [A Beginner's Guide to Haskell and its Ecosystem (2021)](https://serras.github.io/haskell-exchange-2021/slides#1)
+- [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems) ([Code](https://github.com/DrearyLisper/99-haskell-problems))
+- [Median Heaps in Haskell (2021)](https://www.micahcantor.com/blog/median-heap-haskell/)
+- [Solving a few Leetcode questions in Haskell (2021)](https://www.micahcantor.com/blog/haskell-leetcode/)
+- [Learn Haskell, without the bullshit](https://github.com/alpacaaa/zero-bullshit-haskell)

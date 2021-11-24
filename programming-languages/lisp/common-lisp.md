@@ -74,3 +74,4 @@
 - [Common Lisp code optimisation (2020)](https://write.as/loke/common-lisp-code-optimisation) ([HN](https://news.ycombinator.com/item?id=29140521))
 - [Dexador](https://github.com/fukamachi/dexador) - Fast HTTP client for Common Lisp.
 - [Learn Common Lisp by Example: GTK GUI with SBCL (2021)](https://blog.matthewdmiller.net/learn-common-lisp-by-example-gtk-gui-with-sbcl)
+- [Sketch](https://github.com/vydd/sketch) - Common Lisp environment for the creation of electronic art, visual design.

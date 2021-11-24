@@ -132,6 +132,7 @@
 - [SyncedDB](https://github.com/paldepind/synceddb) - Makes it easy to write offline-first applications with realtime syncing and server side persistence.
 - [Dexie.js](https://dexie.org/) - Minimalistic IndexedDB Wrapper. ([Docs](https://dexie.org/docs/))
 - [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
+- [Dexie.js](https://github.com/dfahlander/Dexie.js) - Minimalistic Wrapper for IndexedDB. ([Web](https://dexie.org/))
 
 ## React
 
@@ -709,3 +710,4 @@
 - [tiny-module-compiler](https://github.com/little-core-labs/tiny-module-compiler) - Compile, archive, unpack, and load compiled modules leveraging v8 cached data.
 - [ims](https://github.com/mafintosh/ims) - Install My Stuff - an opinionated npm module installer.
 - [can-npm-publish](https://github.com/azu/can-npm-publish) - Command line tool that check to see if npm publish is possible.
+- [prebuildify](https://github.com/prebuild/prebuildify) - Create and package prebuilds for native modules.

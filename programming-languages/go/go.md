@@ -432,7 +432,7 @@ if err != nil {
 - [A Proposal for Adding Generics to Go (2021)](https://blog.golang.org/generics-proposal) ([HN](https://news.ycombinator.com/item?id=25750582)) ([Reddit](https://www.reddit.com/r/golang/comments/kvwub9/go_generics_proposal/))
 - [Gomod2nix](https://github.com/tweag/gomod2nix) - Convert applications using Go modules -> Nix.
 - [So just how fast are channels anyway? (2017)](https://syslog.ravelin.com/so-just-how-fast-are-channels-anyway-4c156a407e45)
-- [Go Slice Tricks Cheat Sheet](https://ueokande.github.io/go-slice-tricks/)
+- [Go Slice Tricks Cheat Sheet](https://ueokande.github.io/go-slice-tricks/) ([Code](https://github.com/ueokande/go-slice-tricks))
 - [REST Servers in Go (2021)](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/) ([HN](https://news.ycombinator.com/item?id=25805158))
 - [Non-blocking I/O in Go (2019)](https://container42.com/2019/02/18/non-blocking-io-in-go/)
 - [Go Profiler Notes](https://github.com/felixge/go-profiler-notes) - Notes on the various go profiling methods that are available.
@@ -622,3 +622,8 @@ if err != nil {
 - [go2cpp](https://github.com/hajimehoshi/go2cpp) - Converter from Go to C++.
 - [Go Race Detector (2013)](https://go.dev/blog/race-detector) ([Tweet](https://twitter.com/jboursiquot/status/1461717148435243009))
 - [From JPEG to JFIF via an io.Writer (2021)](https://nigeltao.github.io/blog/2021/from-jpeg-to-jfif.html)
+- [golang-tip](https://github.com/AlekSi/golang-tip) - Daily builds of active Go development branches.
+- [Writing an application using Go and PostgreSQL (2021)](https://henvic.dev/posts/go-postgres/) ([HN](https://news.ycombinator.com/item?id=29311632))
+- [Go Playground](https://go.dev/play/)
+- [Go Play Space](https://goplay.space/) - Advanced Go Playground frontend written in Go, with syntax highlighting, turtle graphics mode, and more. ([Code](https://github.com/iafan/goplayspace))
+- [Go Does Not Need a Java Style GC (2021)](https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60) ([HN](https://news.ycombinator.com/item?id=29319160))

@@ -91,6 +91,7 @@
 - [Dagon](https://github.com/gecko0307/dagon) - 3D game engine for D. ([Web](https://gecko0307.github.io/dagon/))
 - [LambdaHack](https://github.com/LambdaHack/LambdaHack) - Haskell game engine library for roguelike dungeon crawlers.
 - [vengi](https://mgerhardy.github.io/engine/) - C++ voxel game engine and its tools. ([Code](https://github.com/mgerhardy/engine))
+- [Scion](https://github.com/grzi/scion) - Tiny 2D game engine built on top of wgpu, winit and legion.
 
 ## Physics engines
 

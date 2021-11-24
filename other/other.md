@@ -559,3 +559,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Slant](https://www.slant.co/) - Product recommendation community. ([Discord](https://discord.com/invite/0dNv9Dc5KvI2cY54))
 - [Sandro's cheat sheet](https://github.com/SuperSandro2000/cheat-sheet)
 - [TuneIn](https://tunein.com/) - Free Internet Radio.
+- [Beliefs about how things are and how they should be (2018)](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md)

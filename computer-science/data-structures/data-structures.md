@@ -97,3 +97,5 @@
 - [Array Layouts for Comparison-Based Searching (2015)](https://arxiv.org/abs/1509.05053) ([Lobsters](https://lobste.rs/s/jdxjm8/array_layouts_for_comparison_based))
 - [The Great Tree-List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.html) ([HN](https://news.ycombinator.com/item?id=29067098))
 - [On Dynamic Succinct Graph Representations (2020)](https://ieeexplore.ieee.org/document/9105823) ([Code](https://github.com/aplf/sdk2tree))
+- [When are enums not a code smell?](https://softwareengineering.stackexchange.com/questions/300080/when-are-enums-not-a-code-smell) ([HN](https://news.ycombinator.com/item?id=29295412))
+- [Data Structures - Full Course Using C and C++ (2021)](https://www.youtube.com/watch?v=B31LgI4Y4DQ)

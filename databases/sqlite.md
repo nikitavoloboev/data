@@ -118,3 +118,5 @@
 - [SQLite grammar for tree-sitter](https://github.com/dhcmrlchtdj/tree-sitter-sqlite)
 - [libsqlfs](https://github.com/guardianproject/libsqlfs) - Library that implements a POSIX style filesystem on top of an SQLite database.
 - [The less trodden path with sqlite (2021)](https://riyazali.net/posts/the-less-trodden-path-with-sqlite/)
+- [SQLiteGraph](https://github.com/joshday/SQLiteGraph.jl) - Graph Database for Julia, built on top of SQLite.jl.
+- [SQLite.jl](https://github.com/JuliaDatabases/SQLite.jl) - Julia interface to the SQLite library.

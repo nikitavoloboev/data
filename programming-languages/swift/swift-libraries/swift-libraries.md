@@ -466,6 +466,7 @@
 - [Pulley](https://github.com/52inc/Pulley) - Library to imitate the iOS 10 Maps UI.
 - [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 - [Stencil](https://github.com/stencilproject/Stencil) - Simple and powerful template language for Swift.
+- [StencilSwiftKit](https://github.com/SwiftGen/StencilSwiftKit) - Framework bringing additional nodes & filters to Stencil dedicated to Swift code generation.
 - [Prelude](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools.
 - [Swift Protobuf](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift.
 - [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - Micro-framework for observing file changes, both local and remote. Helpful in building developer tools.
@@ -840,6 +841,7 @@
 - [AsyncCollections](https://github.com/adam-fowler/async-collections) - Functions for running async processes on Swift Collections.
 - [SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift wrappers for the tree-sitter incremental parsing system.
 - [Then](https://github.com/freshOS/Then) - Tame async code with battle-tested promises.
+- [NIOCronScheduler](https://github.com/MihaelIsaev/NIOCronScheduler) - Swift cron scheduler based on Swift NIO.
 
 ## Other (not lib)
 

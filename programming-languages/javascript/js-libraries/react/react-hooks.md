@@ -132,6 +132,8 @@
 - [OIDC React](https://github.com/bjerkio/oidc-react) - React component/hooks to provide OpenID Connect and OAuth2 protocol support.
 - [useDescendants](https://github.com/pacocoursey/use-descendants) - React hook for keeping track of descendant components and their relative indeces.
 - [use-color](https://github.com/junhoyeo/use-color) - Powerful color hook that all designers deserve.
+- [Zustood](https://github.com/udecode/zustood) - Modular store factory using zustand.
+- [use-double-click](https://github.com/tim-soft/use-double-click) - Simple React hook for differentiating single and double clicks on the same component.
 
 ## Code
 

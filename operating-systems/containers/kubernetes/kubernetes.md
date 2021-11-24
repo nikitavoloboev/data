@@ -519,3 +519,11 @@
 - [Kubernikus](https://github.com/sapcc/kubernikus) - Kubernetes as a Service for Openstack.
 - [Keppel](https://github.com/sapcc/keppel) - Multi-tenant container image registry.
 - [Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers)
+- [Building a bare-metal Kubernetes cluster on Raspberry Pi (2021)](https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/) ([HN](https://news.ycombinator.com/item?id=29306616))
+- [flagger-k6-webhook](https://github.com/grafana/flagger-k6-webhook) - Using k6 to do load testing of the canary before rolling out traffic.
+- [From Docker to Kubernetes using Minikube remotely (2021)](https://www.chevdor.com/post/2021/02/docker_to_k8s/)
+- [Argo CD Notifications](https://github.com/argoproj-labs/argocd-notifications)
+- [Certified Kubernetes Application Developer (CKAD) Crash Course](https://github.com/bmuschko/ckad-crash-course)
+- [KubeMQ](https://kubemq.io/) - Kubernetes Message Queue Broker Platform. ([Code](https://github.com/kubemq-io/kubemq-community))
+- [Kubedev](https://github.com/relferreira/kubedev) - Simpler and more powerful Kubernetes Dashboard.
+- [EKS Connector](https://github.com/aws/amazon-eks-connector) - Client-side agent that connects any Kubernetes cluster to AWS.

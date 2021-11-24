@@ -211,3 +211,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Jony Ive's foral designs (2021)](https://www.fastcompany.com/90693444/jony-ives-first-major-design-since-leaving-apple-isnt-what-youd-expect)
 - [LibreSprite](https://libresprite.github.io/#!/) - Free and open source program for creating and animating your sprites. ([Code](https://github.com/LibreSprite/LibreSprite))
 - [Design for yourself! (Sometimes) (2021)](https://borism.medium.com/design-for-yourself-sometimes-7c9b8118fb63) - Individual creativity has a strong and positive impact on the design process.
+- [Web design & art history](https://webflow.com/web-design-art-history)

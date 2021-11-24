@@ -1,5 +1,9 @@
 # Web accessibility
 
+## Notes
+
+- [UI component libraries are using the term “accessible” too freely. Adding focus styles and copy-pasting some ARIA roles doesn't make your library accessible, neither does adding an “accessibility” page where you claim to conform to WCAG just because you ran a Lighthouse test.](https://twitter.com/mmatuzo/status/1462884917671604228)
+
 ## Links
 
 - [WebAIM Million](https://webaim.org/projects/million/) - Accessibility analysis of the top 1,000,000 home pages.

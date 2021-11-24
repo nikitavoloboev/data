@@ -136,6 +136,7 @@
 - [kustomize-action](https://github.com/int128/kustomize-action) - GitHub Action to run kustomize build in parallel.
 - [git-auto-commit](https://github.com/stefanzweifel/git-auto-commit-action) - GitHub Action to detect changed files during a Workflow run and to commit and push them back to the GitHub repository.
 - [PuRe Bot](https://github.com/syndesisio/pure-bot) - Pull Request Bot to automate development workflow.
+- [Workflow Run Wait](https://github.com/ahmadnassri/action-workflow-queue) - If the same workflow is already running from a previous commit, wait for it to finish.
 
 ## Go
 
@@ -333,3 +334,5 @@
 - [GitHub Actions Cheat Sheet](https://github.github.io/actions-cheat-sheet/actions-cheat-sheet.pdf) ([Code](https://github.com/github/actions-cheat-sheet))
 - [Local self-hosted runners](https://github.com/martinwoodward/pideploy) - Shows using local self-hosted runners on-premises by making use of a runner on a Raspberry Pi with LED's attached to it.
 - [GitHub Action Dashboard](https://github.com/chriskinsman/github-action-dashboard) - Dashboard to keep track of the status of your GitHub Actions.
+- [Testing Linux packages on GitHub Actions (2021)](https://carlosbecker.com/posts/linux-pkgs-github-actions/)
+- [GitHub Actions Badge](https://actions-badge.atrox.dev/) - Shields.io Badge for your GitHub Actions. ([Code](https://github.com/Atrox/github-actions-badge))

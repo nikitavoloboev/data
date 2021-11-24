@@ -149,3 +149,5 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [prisma/text-editors](https://github.com/prisma/text-editors) - Exports a bunch of batteries-included code editors for Typescript, JSON, SQL & Prisma Schemas.
 - [prosemirror-dev-toolkit](https://github.com/TeemuKoivisto/prosemirror-dev-toolkit) - Injectable developer tools for ProseMirror rich-text editors implemented in Svelte and TypeScript.
 - [IDEs and Macros (2021)](https://rust-analyzer.github.io//blog/2021/11/21/ides-and-macros.html)
+- [ProseMirror + CodeMirror 6](https://github.com/sibiraj-s/prosemirror-codemirror-6)
+- [codemirror/autocomplete](https://github.com/codemirror/autocomplete) - Autocompletion for the CodeMirror code editor.

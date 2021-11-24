@@ -118,3 +118,4 @@
 - [How to Make a CPU – A Simple Picture Based Explanation (2021)](https://blog.robertelder.org/how-to-make-a-cpu/) ([HN](https://news.ycombinator.com/item?id=29175402))
 - [Implementing CHIP-8 in Jack (2021)](https://abhaynayar.com/blog/chip8-in-jack.html)
 - [n2t-wasm](https://github.com/abhaynayar/n2t-wasm) - Emulator for the nand2tetris computer (Hack CPU).
+- [memu](https://github.com/hlandau/memu) - ARMv8-M/Cortex-M emulator/simulator.

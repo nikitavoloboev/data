@@ -562,7 +562,7 @@
 - [Acoular](https://github.com/acoular/acoular) - Library for acoustic beamforming.
 - [whey](https://github.com/repo-helper/whey) - Simple Python wheel builder for simple projects.
 - [zeus](https://github.com/minaskar/zeus) - Python implementation of the Ensemble Slice Sampling method.
-- [PyTraits](https://github.com/xrudelis/pytrait) - Traits for Python3.
+- [PyTraits](https://github.com/xrudelis/pytrait) - Traits for Python3. ([HN](https://news.ycombinator.com/item?id=29299210))
 
 ## Links
 
@@ -609,3 +609,4 @@
 - [davos](https://github.com/ContextLab/davos) - Import packages in Python, even if they aren't installed.
 - [Speed up your Conda installs with Mamba (2021)](https://pythonspeed.com/articles/faster-conda-install/)
 - [pip-tools](https://github.com/jazzband/pip-tools) - Set of tools to keep your pinned Python dependencies fresh.
+- [devpi](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.

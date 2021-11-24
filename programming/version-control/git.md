@@ -442,3 +442,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [ChangeSets – group PRs across multiple Git repos (2021)](https://blog.mergequeue.com/changesets-coordinate-code-changes-across-multiple-repositories/) ([HN](https://news.ycombinator.com/item?id=29256878))
 - [Git ls-files is Faster Than Fd and Find (2021)](https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/)
+- [Nano Staged](https://github.com/usmanyunusov/nano-staged) - Tool to run commands only on git staged files.

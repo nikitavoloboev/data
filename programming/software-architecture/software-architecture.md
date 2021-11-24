@@ -174,3 +174,4 @@
 - [Netflix's Cloud Edge Architecture (2021)](https://www.linkedin.com/pulse/netlfixs-cloud-edge-architecture-philip-fisher-ogden/) ([Tweet](https://twitter.com/philip_pfo/status/1353853706995978243))
 - [Processing billions of events in real time (2021)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-) ([HN](https://news.ycombinator.com/item?id=29233463))
 - [Simlin](https://simlin.com/) - System dynamics modeling tool. ([Code](https://github.com/bpowers/simlin))
+- [Living with single-tenant and multi-tenant architectures (2021)](https://medium.com/schibsted-engineering/living-with-single-tenant-and-multi-tenant-architectures-b2d7027db24e)

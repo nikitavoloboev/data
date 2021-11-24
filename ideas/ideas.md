@@ -112,3 +112,4 @@ I try to give my full attention to any ideas I am working on.
 - [Startup Ideas](https://www.gwern.net/Startup-ideas) ([HN](https://news.ycombinator.com/item?id=28757980))
 - [Being a maker is 1% ideas, 99% mindset. Tips (2021)](https://twitter.com/thisiskp_/status/1453012295391526924)
 - [Cool Ideas](https://github.com/0xngmi/ideas)
+- [Self-Organizing Ideas (2021)](https://subconscious.substack.com/p/self-organizing-ideas)

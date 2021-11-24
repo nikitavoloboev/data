@@ -139,3 +139,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Ask HN: Who's not sucky to work for? (2021)](https://news.ycombinator.com/item?id=29099746)
 - [How should I answer 'I see you are changing company very often, why is that and how long you plan to stay with us?' (2021)](https://www.reddit.com/r/cscareerquestionsEU/comments/qlzfm8/how_should_i_answer_i_see_you_are_changing/)
 - [Ask HN: Starting a career as a programmer in my mid-40s (2021)](https://news.ycombinator.com/item?id=29140927)
+- [Ask HN: How do you start a new career with minimal qualifications? (2021)](https://news.ycombinator.com/item?id=29305389)

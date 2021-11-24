@@ -30,3 +30,6 @@
 - [In which European countries or cities have you had the best food on your travels? (2021)](https://www.reddit.com/r/AskEurope/comments/qtjz7w/in_which_european_countries_or_cities_have_you/)
 - [Best EU country for online income](https://www.reddit.com/r/EuropeFIRE/comments/qvd4bk/best_eu_country_for_online_income/)
 - [Into Europe - YouTube](https://www.youtube.com/c/IntoEurope/videos)
+- [Why Europe Invented Central Banking (2021)](https://www.youtube.com/watch?v=0TBAJb-O2Oo)
+- [EUobserver](https://euobserver.com/)
+- [Investing for European residents explained in plain language](https://indexfundinvestor.eu/)

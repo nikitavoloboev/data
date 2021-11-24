@@ -117,3 +117,5 @@
 - [RoboStack](https://robostack.github.io/) - Bundling of the Robot Operating System (ROS) by Open Robotics. ([Paper](https://arxiv.org/abs/2104.12910)) ([Tweet](https://twitter.com/soumithchintala/status/1460132259114192897))
 - [Everyday Robots](https://everydayrobots.com/) - Helper robots that learn. ([Tweet](https://twitter.com/maxbraun/status/1461728438130204676))
 - [Weekly Selection of Robot Videos](https://spectrum.ieee.org/video-friday-dronut)
+- [Robotics and Autonomous Systems Group](https://research.csiro.au/robotics/) ([GitHub](https://github.com/csiro-robotics))
+- [Rex](https://github.com/nicrusso7/rex-gym) - OpenAI Gym environments for an open-source quadruped robot (SpotMicro).

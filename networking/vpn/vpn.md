@@ -51,3 +51,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [1.1.1.1 for Families (2021)](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) ([HN](https://news.ycombinator.com/item?id=29024195))
 - [Setting Up 1.1.1.1 for Families on a Pi-Hole (2021)](https://uglyduck.ca/pihole-cloudflare/) ([HN](https://news.ycombinator.com/item?id=29034807))
 - [ZudVPN](https://github.com/zudvpn/ZudVPN) - Mobile application to deploy private VPN servers in the cloud with DNS ad-blocking and other features.
+- [EdgeVPN](https://github.com/mudler/edgevpn) - Fully Decentralized. Immutable. Portable. Easy to use Statically compiled VPN and a reverse proxy over p2p.

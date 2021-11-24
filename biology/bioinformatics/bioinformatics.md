@@ -178,3 +178,4 @@
 - [HSM (Hierarchical Statistical Mechanical model)](https://github.com/aqlaboratory/hsm) - Biophysical prediction of protein-peptide interactions and signaling networks using machine learning. ([Web](https://proteinpeptide.io/))
 - [Foregen and the Science of Regeneration with Tyler Drzod and Eric Cunningham (2021)](https://www.youtube.com/watch?v=JTOoc8ToSjc) ([Links & Transcript](https://brendonmarotta.com/8090/foregen-and-regeneration/))
 - [Foregen](https://www.foregen.org/) - Regenerating Foreskins. ([Reddit](https://www.reddit.com/r/Foregen/))
+- [DeepMind releases massive protein structure database (2021)](https://www.freethink.com/science/protein-structure)

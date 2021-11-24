@@ -68,3 +68,4 @@
 - [replicad](https://github.com/sgenoud/replicad) - Library to build browser based 3D models with code.
 - [The Lucid Motors Configurator is A Video Game Streaming to Your Browser (2021)](https://blog.skz.dev/lucid-configurator-is-a-streaming-video-game)
 - [F3D](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer. ([Web](https://f3d-app.github.io/f3d/))
+- [Ziva Dynamics Announces A New ML-Trained Facial Rigging Service (2021)](https://80.lv/articles/ziva-dynamics-announces-a-new-ml-trained-facial-rigging-service/) ([Tweet](https://twitter.com/80Level/status/1462836062368284672))

@@ -53,6 +53,8 @@
 - [MLFlowClient](https://github.com/JuliaAI/MLFlowClient.jl) - Julia client for MLFlow.
 - [LinearRegression](https://github.com/st--/LinearRegression.jl)
 - [KernelFunctions](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl) - Julia package for kernel functions for machine learning.
+- [NLPModels](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) - Data Structures for Optimization Models.
+- [MLDataPattern](https://github.com/JuliaML/MLDataPattern.jl) - Utility package for subsetting, resampling, iteration, and partitioning of various types of data sets in Machine Learning.
 
 ## Math
 
@@ -115,6 +117,7 @@
 - [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
 - [Algebraic Multigrid](https://github.com/JuliaLinearAlgebra/AlgebraicMultigrid.jl) - Lets you solve sparse linear systems using Algebraic Multigrid (AMG).
 - [MetaGraphs](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
+- [CliffordAlgebras.jl](https://github.com/ATell-SoundTheory/CliffordAlgebras.jl) - Fast and lightweight Julia package for Clifford and geometric algebras.
 
 ## NLP
 
@@ -129,6 +132,7 @@
 - [Molly.jl](https://github.com/JuliaMolSim/Molly.jl) - Molecular simulation in Julia.
 - [DFTK](https://github.com/JuliaMolSim/DFTK.jl) - Density-functional toolkit.
 - [AtomicGraphNets.jl](https://github.com/Chemellia/AtomicGraphNets.jl) - Atomic graph models for molecules and crystals in Julia.
+- [BioAlignments.jl](https://github.com/BioJulia/BioAlignments.jl) - Sequence alignment tools.
 
 ## Computer Vision
 
@@ -358,3 +362,4 @@
 - [Aqua.jl](https://github.com/JuliaTesting/Aqua.jl) - Auto QUality Assurance for Julia packages. Provides functions to run a few automatable checks for Julia packages.
 - [The Algorithms - Julia](https://github.com/TheAlgorithms/Julia) - Algorithms implemented in the Julia programming language.
 - [JuliaSymbolics](https://juliasymbolics.org/) - Symbolic programming in Julia.
+- [LocalPackageServer](https://github.com/GunnarFarneback/LocalPackageServer.jl) - Julia storage and package server for local packages.

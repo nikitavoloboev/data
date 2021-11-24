@@ -78,6 +78,8 @@
 - [Arco Design React](https://github.com/arco-design/arco-design)
 - [Equinor Design System](https://github.com/equinor/design-system)
 - [Style Guide of republik.ch](https://styleguide.republik.ch/) - Exporting React components for typography, forms and various article elements. ([Code](https://github.com/orbiting/styleguide))
+- [Orbit](https://github.com/gsoft-inc/sg-orbit) - Design system for ShareGate.
+- [Talend](https://design.talend.com/) - Design system used to build accessible, consistent, customizable and high quality customer experiences at Talend. ([Code](https://github.com/Talend/design-system))
 
 ## Notes
 

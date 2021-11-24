@@ -62,3 +62,4 @@
 - [go-ds-crdt](https://github.com/ipfs/go-ds-crdt) - Distributed go-datastore implementation using Merkle-CRDTs.
 - [ldb](https://github.com/vitorenesduarte/ldb) - Replication of CRDTs in Erlang.
 - [CRDTs meet Redux](https://github.com/HerbCaudill/crdx)
+- [Peritext](https://github.com/inkandswitch/peritext) - CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes. ([Article](https://www.inkandswitch.com/peritext/))

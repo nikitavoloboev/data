@@ -29,3 +29,4 @@
 - [Stately Tutorials Code](https://github.com/statelyai/stately-tutorials)
 - [xstate-awaitable-send](https://github.com/sebinsua/xstate-awaitable-send) - Fire an event into an XState `Machine` and then wait for it to resolve.
 - [Frontend Masters React + XState workshop (2020)](https://frontendmasters.com/workshops/xstate-react/) ([Code](https://github.com/davidkpiano/frontend-masters-react-workshop))
+- [How to design state machines for microservices (2021)](https://developers.redhat.com/articles/2021/11/23/how-design-state-machines-microservices)

@@ -35,3 +35,4 @@
 - [eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Find and remove unused es6 module imports.
 - [eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript) - Extension of eslint-config-standard, made for TypeScript.
 - [standard-engine](https://github.com/standard/standard-engine) - Wrap your own eslint rules in a easy-to-use command line tool and/or a JS module.
+- [eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - Most strict (yet practical) ESLint config. 32 plugins. 1023 rules.

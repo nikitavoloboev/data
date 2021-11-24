@@ -34,3 +34,4 @@
 - [What makes an interview podcast good or great? (2021)](https://marginalrevolution.com/marginalrevolution/2021/08/what-makes-a-podcast-good-or-great.html) ([HN](https://news.ycombinator.com/item?id=28059889))
 - [SquadCast](https://squadcast.fm/) - The Remote Recording Studio That Your Audience Will Love. ([Twitter](https://twitter.com/SquadCastFM))
 - [Cleanvoice](https://cleanvoice.ai/) - Automated Podcast Editing. ([HN](https://news.ycombinator.com/item?id=29288618))
+- [Easiest way to record a podcast (with video for YouTube + separate, high-quality audio tracks)](https://twitter.com/mxstbr/status/1463124899044773894)

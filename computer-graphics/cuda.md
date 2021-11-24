@@ -25,3 +25,5 @@
 - [RustaCUDA](https://github.com/bheisler/RustaCUDA) - Rusty wrapper for the CUDA Driver API.
 - [ec-gpu](https://github.com/filecoin-project/ec-gpu) - CUDA/OpenCL code generator for finite-field arithmetic over prime fields and elliptic curve arithmetic constructed with Rust.
 - [Python venv Setup for Deep Learning Resources](https://c4science.ch/w/bioimaging_and_optics_platform_biop/computers-servers/software/gpu-deep-learning/python-venv/) ([Tweet](https://twitter.com/haesleinhuepf/status/1460519069967392769))
+- [Rust CUDA](https://github.com/RDambrosio016/Rust-CUDA) - Extremely fast GPU code fully in Rust. ([HN](https://news.ycombinator.com/item?id=29311709)) ([Reddit](https://www.reddit.com/r/rust/comments/qzv428/announcing_the_rust_cuda_project_an_ecosystem_of/))
+- [cuda-toolkit](https://github.com/Jimver/cuda-toolkit) - GitHub Action to install CUDA.

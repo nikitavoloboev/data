@@ -191,3 +191,6 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Tally](https://tally.cash/) - Community owned & operated Web3 wallet. ([Code](https://github.com/tallycash/tally-extension))
 - [Crypto devs have predisposition towards anti-pattern design (2021)](https://twitter.com/kevinsekniqi/status/1461730535848431619)
 - [Gemini dollar (GUSD)](https://www.gemini.com/dollar) - 1:1 USD-backed stablecoin built by a secure, reliable, and regulated cryptocurrency exchange. ([Code](https://github.com/gemini/dollar)) ([Tweet](https://twitter.com/KyleLogiks/status/1462122551782653969))
+- [How to Get Into Crypto and Web3 as a Developer (2021)](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
+- [DarkFi](https://dark.fi/) - Anonymous DeFi network. ([Code](https://github.com/darkrenaissance/darkfi))
+- [Tuned](https://www.tuned.com/) - Build advanced crypto trading bots. ([HN](https://news.ycombinator.com/item?id=29318163))

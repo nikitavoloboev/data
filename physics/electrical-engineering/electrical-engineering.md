@@ -77,3 +77,5 @@
 - [How to build your own full-size arcade machine from scratch](https://github.com/maxvfischer/DIY-arcade)
 - [The Big Misconception About Electricity (2021)](https://www.youtube.com/watch?v=bHIhgxav9LY) ([Tweet](https://twitter.com/BartoszMilewski/status/1461845001407660035))
 - [How to trace back the origin of electricity (2021)](https://api.electricitymap.org/blog/flow-tracing/)
+- [Everything You Need to Know about Designing a PCB Layout](https://www.ourpcb.com/pcb-layout-the-ultimate-guide-best-for-beginners.html)
+- [HDL Containers](https://github.com/hdl/containers) - Building and deploying container images for open source electronic design automation (EDA).

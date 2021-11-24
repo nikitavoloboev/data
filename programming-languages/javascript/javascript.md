@@ -258,7 +258,7 @@ if (
 - [Speakeasy JS](https://speakeasyjs.com/) - Weekly JavaScript meetup.
 - [Elsa](https://github.com/elsaland/elsa) - Minimal, fast and secure QuickJS wrapper written in Go. ([HN](https://news.ycombinator.com/item?id=24626655))
 - [quickjs-rs](https://github.com/theduke/quickjs-rs) - Rust wrapper for QuickJS.
-- [RSLint](https://github.com/RDambrosio016/RSLint) - JavaScript linter written in Rust designed to be as fast as possible, customizable, and easy to use.
+- [RSLint](https://github.com/rslint/rslint) - Extremely fast JavaScript and TypeScript linter and Rust crate. ([Web](https://rslint.org/))
 - [Beginner's Series to: JavaScript by Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) ([Code](https://github.com/microsoft/beginners-intro-javascript-node))
 - [Please stop using CDNs for external Javascript libraries (2020)](https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/) ([Lobsters](https://lobste.rs/s/mpznhm/please_stop_using_cdns_for_external)) ([HN](https://news.ycombinator.com/item?id=24745194))
 - [ESM Hot Module Replacement (ESM-HMR) Spec](https://github.com/pikapkg/esm-hmr)

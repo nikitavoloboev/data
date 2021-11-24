@@ -33,3 +33,4 @@
 - [SoftWire](https://github.com/stevemarple/SoftWire) - Software I2C implementation for Arduino and other Wiring-type environments.
 - [Arduino core for ESP8266 WiFi chip](https://github.com/esp8266/Arduino)
 - [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - Small Arduino library for GSM modules, that just works.
+- [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - JSON library for Arduino and embedded C++. Simple and efficient.

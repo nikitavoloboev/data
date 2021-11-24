@@ -18,6 +18,7 @@
 - [Lambda Island](https://lambdaisland.com/) - Screencast series about ClojureScript and Clojure.
 - [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/) - Open source book about ClojureScript. ([Code](https://github.com/funcool/clojurescript-unraveled))
 - [Piggieback](https://github.com/nrepl/piggieback) - nREPL middleware that enables the use of a ClojureScript REPL on top of an nREPL session.
+- [Figwheel Main](https://github.com/bhauman/figwheel-main) - Builds your ClojureScript code and hot loads it as you are coding.
 - [figwheel.main template](https://github.com/bhauman/figwheel-main-template) - Template generator that will produce a minimal ClojureScript project that includes figwheel.main tooling.
 - [Learn You a ClojureScript for Great Good (2021)](https://juxt.pro/blog/learn-you-a-cljs)
 - [CLJSJS Packages](https://github.com/cljsjs/packages) - Effort to package JavaScript libraries to be able to use them from within ClojureScript.

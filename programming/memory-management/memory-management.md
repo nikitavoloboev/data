@@ -70,3 +70,4 @@
 - [Debugging memory corruption: who the hell writes “2” into my stack? (2016)](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2) ([HN](https://news.ycombinator.com/item?id=29215725))
 - [bustd](https://github.com/pop-os/bustd) - Lightweight process killer daemon for out-of-memory scenarios for Linux.
 - [What's a Memory Allocator Anyway? - Benjamin Feng (2021)](https://www.youtube.com/watch?v=vHWiDx_l4V0)
+- [The Garbage Collection Handbook: The art of automatic memory management (2020)](https://gchandbook.org/)

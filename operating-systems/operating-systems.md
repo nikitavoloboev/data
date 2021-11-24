@@ -287,3 +287,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Make It Go Faster! How We Sped Up OS Provisioning On Bare Metal at Scale (2021)](https://metal.equinix.com/blog/make-it-go-faster-how-we-sped-up-os-provisioning-on-bare-metal-at-scale/)
 - [Why not to whitelist operating system user agents (2021)](https://www.neelc.org/posts/chase-how-not-to-design-a-website/) ([HN](https://news.ycombinator.com/item?id=29224182))
 - [The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems (2021)](https://www.micahlerner.com/2021/11/09/the-demikernel-datapath-os-architecture-for-microsecond-scale-datacenter-systems.html)
+- [TinyLFU: A Highly Efficient Cache Admission Policy (2015)](https://arxiv.org/abs/1512.00727)

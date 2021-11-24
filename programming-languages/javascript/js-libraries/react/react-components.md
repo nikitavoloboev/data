@@ -233,6 +233,8 @@
 - [Graphire](https://github.com/flavioschneider/graphire) - Declarative and unopinionated graph visualization library for React.
 - [React Flow Smart Edge](https://github.com/tisoap/react-flow-smart-edge) - Special Edge for React Flow that never intersects with other nodes.
 - [rci](https://github.com/leonardodino/rci) - Better code inputs for the web.
+- [Formiz](https://github.com/ivan-dalmet/formiz) - React forms with ease! Composable, headless & with built-in multi steps.
+- [restack](https://github.com/bfollington/restack) - SwiftUI inspired layouts for React.
 
 ## Links
 

@@ -346,6 +346,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Arseniy Kotov](https://www.instagram.com/northern.friend/) - Architecture and life in post-soviet world.
 - [Caleb Zulawski](https://portfolio.calebzulawski.com/)
 - [Mark Del Mar](https://www.markdelmar.com/)
+- [Dan Otis](https://www.instagram.com/danotis/)
 - [Chantal Convertini](https://www.instagram.com/paeulini/)
 - [Evgeny Feldman](https://www.feldmanphotography.com/) ([IG](https://www.instagram.com/evgenyfeldman/))
 - [Tyler Mitchell](https://www.instagram.com/tylersphotos/)

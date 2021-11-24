@@ -1,6 +1,6 @@
 # Ukraine
 
-Feel sorry for [what Ukraine has to deal through](https://www.youtube.com/watch?v=8Flf1grUWCU). [Russia](russia.md)'s 'leaders' are disgustingly evil. Not only due to lives lost but all the waste of human/financial resources that are spent on military and distraction.
+It's unfortunate [what Ukraine has to deal through](https://www.youtube.com/watch?v=8Flf1grUWCU) due to [Russian](russia.md) 'leaders' decisions. Instead of wasting lives and finances on waging war on both its neighbors and its own citizens, it would be great if they focused in improving the well being of the population.
 
 ## Links
 

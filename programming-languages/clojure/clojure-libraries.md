@@ -2,6 +2,7 @@
 
 ## Web
 
+- [Rum](https://github.com/tonsky/rum) - Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript.
 - [Joy](https://joyframework.com/) - Web framework written in janet for people who like clojure syntax, fast startup time and very low memory usage. ([Code](https://github.com/joy-framework/joy)) ([HN](https://news.ycombinator.com/item?id=23046568))
 - [Luminus](https://luminusweb.com/) - Clojure micro-framework based on a set of lightweight libraries. ([HN](https://news.ycombinator.com/item?id=22852375))
 - [bootleg](https://github.com/retrogradeorbit/bootleg) - Simple template processing command line tool to help build static websites.
@@ -119,6 +120,7 @@
 - [tools.build](https://github.com/clojure/tools.build) - Library of functions for building Clojure projects.
 - [pronto](https://github.com/AppsFlyer/pronto) - Clojure support for protocol buffers.
 - [encore](https://github.com/ptaoussanis/encore) - Core utils library for Clojure/Script.
+- [sweet-array](https://github.com/athos/sweet-array) - Array manipulation library for Clojure with "sweet" array type notation and more safety by static types.
 
 ## Links
 

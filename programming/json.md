@@ -81,3 +81,6 @@
 - [MistQL](https://github.com/evinism/mistql) - Miniature embeddable query language for JSON-like structures, built for embedding within applications. ([Web](https://www.mistql.com/))
 - [JSONiq](https://www.jsoniq.org/) - JSON Query Language. ([HN](https://news.ycombinator.com/item?id=29159343))
 - [EEL](https://github.com/Comcast/eel) - Simple proxy service to forward JSON events and transform or filter them along the way.
+- [jtd-infer](https://github.com/jsontypedef/json-typedef-infer) - CLI tool that generates JSON Typedef schemas from example data.
+- [JSON Type Definition](https://jsontypedef.com/) - Easy-to-learn, portable, and standardized way to describe the shape of your JSON data. ([GitHub](https://github.com/jsontypedef))
+- [GROQ](https://groq.dev/) - Query language for JSON documents. ([JS lib](https://github.com/sanity-io/groq-js))

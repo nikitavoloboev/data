@@ -41,7 +41,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Split](https://www.split.io/) - Feature Delivery Platform for engineering teams that want to confidently release features.
 - [Muse](https://museapp.com/) - iPad sketchbook. ([HN](https://news.ycombinator.com/item?id=24294397))
 - [MentorCruise](https://mentorcruise.com/) - Connecting Mentors & Mentees in Tech.
-- [Linear](https://linear.app/) - Issue tracking tool you'll enjoy using. ([HN](https://news.ycombinator.com/item?id=23693029))
+- [Linear](https://linear.app/) - Issue tracking tool you'll enjoy using. ([HN](https://news.ycombinator.com/item?id=23693029)) ([Awesome](https://github.com/dalys/awesome-linear))
 - [Reploy](https://getreploy.com/) - Staging environments done right. ([HN](https://news.ycombinator.com/item?id=23917956))
 - [Zapier](https://zapier.com/) - Easy automation for busy people. Zapier moves info between your web apps automatically.
 - [Outline](https://outline.com/) - Read & annotate without distractions.
@@ -251,6 +251,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [OnlineOrNot](https://onlineornot.com/) - Know your site is down before your customers do. ([How it was built](https://twitter.com/RozenMD/status/1364881512500404224))
 - [Sextant](https://github.com/mattpocock/sextant) - GUI that lets you chart your application flows, then implement them with generated code.
 - [Windsor](https://windsor.io/) - Simplifying User Data.
+- [Kairo](https://getkairo.com/) - Engaging and straightforward yet delightful time, habit and goal tracking dashboard. ([Tracker](https://getkairo.com/tracker))
 - [Ray.so](https://ray.so/) - Create beautiful images of your code. ([HN](https://news.ycombinator.com/item?id=26168285))
 - [Taplink](https://tap.link/) - Connects social media and messenger users to your content with just one link.
 - [Judo](https://www.judo.app/) - Build Native App Experiences with No Code. ([HN](https://news.ycombinator.com/item?id=28167368))

@@ -63,3 +63,4 @@
 - [go-stash](https://github.com/tal-tech/go-stash) - High performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
 - [pypely](https://github.com/stoney95/pypely) - Make your data processing easy - build pipelines in a functional manner.
 - [An opinionated map of incremental and streaming systems (2021)](https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems/)
+- [Crossjoin](https://github.com/crossjoin-io/crossjoin) - Joins together your data from anywhere.

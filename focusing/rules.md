@@ -14,7 +14,7 @@
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - [Don't compare myself to other people and be jealous](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Learn from them and every other human I admire/like instead. Use it to improve my life. [Don't listen to haters and nonconstructive feedback. Pay attention to genuine feedback and learn from it](https://twitter.com/EricRWeinstein/status/1387219408645361665).
 - Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
-- Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people. Do what I love. Value myself and my work.
+- Create art. Meet people (friendly reach out). See places. Be inspired. Reuse work & ideas. Do what I love. Value myself and my work.
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Complete my [6 life habits](habits.md).
 - [Don't judge/hate anyone](https://www.goodreads.com/quotes/7684047-hate-is-like-a-poison-you-make-for-your-enemy). Attempt to see another person's point of view. [Be kind](https://twitter.com/ainhoamarzol/status/1393691237107093505). Show love & empathy. Self love. [No ego](../consciousness/ego.md).
@@ -295,7 +295,7 @@
 - Share images freely with [Imgur](https://imgur.com) (not tied to account) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
 - Use package manager to install things. Keep packages updated.
-- Change OS appearance where appropriate (light interface in sunny areas, dark otherwise).
+- Change OS appearance where appropriate (light interface in sunny areas, dark otherwise). Light is preferred as it's easier to keep focus with lighter backgrounds (more stimulating).
 
 ## Trello
 

@@ -23,3 +23,4 @@
 - [Compiler for Standard ML in Rust](https://github.com/SomewhatML/sml-compiler) ([HN](https://news.ycombinator.com/item?id=28465185))
 - [Higher Standard](https://github.com/mmcqd/higher-standard) - Higher kinded polymorphism in Standard ML.
 - [LunarML](https://github.com/minoki/LunarML) - Standard ML compiler that produces Lua.
+- [Getting started with Standard ML](https://www.reddit.com/r/sml/comments/qyy2gs/getting_started_with_standard_ml/)

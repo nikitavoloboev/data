@@ -269,3 +269,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Microsoft Power Fx](https://github.com/microsoft/power-fx) - Low-code general purpose programming language based on spreadsheet-like formulas. ([Article](https://powerapps.microsoft.com/en-us/blog/power-fx-open-source-now-available/)) ([HN](https://news.ycombinator.com/item?id=29261413))
 - [Undefined Behavior deserves a better reputation (2021)](https://blog.sigplan.org/2021/11/18/undefined-behavior-deserves-a-better-reputation/) ([Lobsters](https://lobste.rs/s/llbhtg/undefined_behavior_deserves_better))
 - [Runno](https://runno.dev/) - Helps you make runnable code examples that can be embedded in web pages. ([Code](https://github.com/taybenlor/runno))
+- [Pattern matching in concatenative programming languages (2009)](http://micsymposium.org/mics_2009_proceedings/mics2009_submission_72.pdf)
+- [Static Value-Flow Analysis Framework for Source Code](https://github.com/SVF-tools/SVF)

@@ -26,3 +26,4 @@
 - [Study: Recycled Lithium Batteries as Good as Newly Mined (2021)](https://spectrum.ieee.org/recycled-batteries-good-as-newly-mined) ([HN](https://news.ycombinator.com/item?id=28921083))
 - [The Most Ethical Batteries for Renewable Energy Systems (2018)](https://www.youtube.com/watch?v=PQ-Ibc1zCYk)
 - [Nickel-Iron 'Edison' Batteries](https://permies.com/t/40/36069/Nickel-Iron-Edison-Batteries) ([Tweet](https://merveilles.town/web/statuses/107243804074372375))
+- [Plunge in lithium-ion battery costs (2021)](https://news.mit.edu/2021/lithium-ion-battery-costs-0323) ([HN](https://news.ycombinator.com/item?id=29304926))

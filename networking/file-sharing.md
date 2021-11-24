@@ -59,7 +59,7 @@
 - [Sync](https://www.sync.com/) - Secure Cloud Storage.
 - [Pydio](https://pydio.com/) - Enterprise File Sharing & Sync Platform. ([Code](https://github.com/pydio/cells))
 - [Cacheroach](https://github.com/bobvawter/cacheroach) - Multi-tenant, multi-region, multi-cloud file store built using CockroachDB.
-- [Teleport](https://goteleport.com/) - Access Computing Resources Anywhere. ([Code](https://github.com/gravitational/teleport))
+- [Teleport](https://goteleport.com/) - Access Computing Resources Anywhere. ([Code](https://github.com/gravitational/teleport)) ([GitHub](https://github.com/gravitational))
 - [ownCloud](https://owncloud.com/) - Share files and folders, easy and secure. ([Code](https://github.com/owncloud/core))
 - [Wormhole](https://wormhole.app/) - Simple, private file sharing. ([HN](https://news.ycombinator.com/item?id=26666142))
 - [SkyTransfer](https://skytransfer.hns.siasky.net/#/) - Free, Open-Source, Decentralized and Encrypted File-Sharing. ([Code](https://github.com/kamy22/skytransfer)) ([HN](https://news.ycombinator.com/item?id=27017805))
@@ -88,3 +88,5 @@
 - [portal](https://github.com/ZinoKader/portal) - Quick and easy CLI file transfer utility.
 - [raw.githack.com](https://raw.githack.com/) - Serves raw files directly from various source code hosting services with proper Content-Type headers.
 - [Buzon](https://buzon.io/) - Send large files.
+- [Upload](https://upload.io/) - File Upload Platform. ([JS lib](https://github.com/upload-js/upload-js)) ([Upload Plugin SDK](https://github.com/upload-js/upload-plugin-sdk)) ([Compression Plugin](https://github.com/upload-js/upload-compression-plugin))
+- [File Browser](https://github.com/filebrowser/filebrowser) - Directory and it can be used to upload, delete, preview, rename and edit your files. ([Docs](https://filebrowser.org/))

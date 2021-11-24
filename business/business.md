@@ -122,3 +122,5 @@ Learning to build [startups](startups/startups.md).
 - [Influence Explorer](https://techinquiry.org/explorer/) - Tool for browsing an integrated stream of multinational procurement, lobbying, and labor relations data feeds. ([Code](https://gitlab.com/tech-inquiry/InfluenceExplorer))
 - [HashiCorp – S1 (2021)](https://www.sec.gov/Archives/edgar/data/1720671/000119312521319849/d205906ds1.htm) ([HN](https://news.ycombinator.com/item?id=29110444))
 - [What acquisition (one company buying another) would make the most sense to you? (2021)](https://twitter.com/patrick_oshag/status/1457060774178918406)
+- [Elon Musk on why tech patents are not great](https://twitter.com/manishm/status/1462179343925346307)
+- [Firstbase](https://www.firstbase.io/) - Start your business in the US from anywhere. ([Twitter](https://twitter.com/tryfirstbase))

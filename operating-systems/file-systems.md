@@ -84,3 +84,4 @@
 - [Libnvmmio](https://github.com/chjs/libnvmmio) - User-level file system designed for byte-addressable non-volatile memories.
 - [rusix](https://github.com/cholcombe973/rusix) - Distributed filesystem in Rust.
 - [Bcachefs: The COW filesystem for Linux that won't eat your data](https://bcachefs.org/) ([Lobsters](https://lobste.rs/s/zbhdyu/bcachefs_cow_filesystem_for_linux_won_t))
+- [zectl](https://github.com/johnramsden/zectl) - ZFS Boot Environment manager for Linux.

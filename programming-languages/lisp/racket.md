@@ -31,7 +31,7 @@
 - [PasteRack](http://www.pasterack.org/) - Evaluating pastebin for Racket. ([Code](https://github.com/stchang/pasterack))
 - [cKanren](https://github.com/calvis/cKanren) - Constraint programming language embedded in Racket.
 - [Deploying Racket Web Apps (2020)](https://defn.io/2020/06/28/racket-deployment/) ([Lobsters](https://lobste.rs/s/lzv4iu/deploying_racket_web_apps))
-- [Racket Programming the Fun Way by James Stelly (2020)](https://www.penguinrandomhouse.com/books/645955/racket-programming-the-fun-way-by-james-stelly/)
+- [Racket Programming the Fun Way by James Stelly (2020)](https://www.penguinrandomhouse.com/books/645955/racket-programming-the-fun-way-by-james-stelly/) ([Review](https://www.micahcantor.com/blog/racket-programming-the-fun-way-review/))
 - [Rebuilding Racket on Chez Scheme Experience Report (2020)](https://www.youtube.com/watch?v=s3Q3M2wZ7rI)
 - [Practical guide to Racket macros](https://github.com/greghendershott/fear-of-macros)
 - [Learn Racket in Y Minutes](https://learnxinyminutes.com/docs/racket/)
@@ -77,3 +77,6 @@
 - [Racket Discussions](https://racket.discourse.group/)
 - [Scribble](https://github.com/racket/scribble) - Racket Documentation Tool.
 - [Learn Racket by doing](https://github.com/zyrolasting/racket-koans) - Practice language features by fixing topic-oriented unit tests.
+- [Crafting Interpreters in Typed Racket (2021)](https://www.micahcantor.com/blog/crafting-interpreters-typed-racket/)
+- [Parsing propositional logic in 33 lines of Racket (2020)](https://www.micahcantor.com/blog/logic-racket-parser/)
+- [Implementing Simple Hash Tables in Racket (2020)](https://www.micahcantor.com/blog/mutable-hash-racket/)

@@ -294,3 +294,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Why NFTs are bad: the long version (2021)](https://antsstyle.medium.com/why-nfts-are-bad-the-long-version-2c16dae145e2) ([HN](https://news.ycombinator.com/item?id=29280317))
 - [TheNFTBay: Fake, but Worth Discussing (2021)](https://www.clubnft.com/blog/the-trillion-byte-let-down) ([HN](https://news.ycombinator.com/item?id=29290156))
 - [Substrate Cumulus Parachain Template](https://github.com/substrate-developer-hub/substrate-parachain-template) - New Cumulus-based Substrate node, ready for hacking.
+- [Anoma](https://anoma.network/) - Sovereign, proof-of-stake blockchain protocol that enables private, asset-agnostic cash and private bartering among any number of parties. ([Code](https://github.com/anoma/anoma))
+- [Celestia](https://celestia.org/) - Pluggable consensus and data availability layer, to enable anyone to quickly deploy a decentralised blockchain without the overhead of bootstrapping a new consensus network. ([Code](https://github.com/celestiaorg/celestia-core))

@@ -420,3 +420,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [ff](https://github.com/ff-notes/ff) - Distributed note taker and task manager.
 - [Learn In Public](https://www.swyx.io/learn-in-public/)
 - [unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - Local-first and universal graph database, knowledge engine, and workspace for your life.
+- [ummm](https://www.ummm.co/) - Organize your thoughts. ([HN](https://news.ycombinator.com/item?id=29304438))

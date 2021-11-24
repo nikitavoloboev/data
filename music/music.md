@@ -167,3 +167,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Loft Radio](https://loft.radio/) - Exploring new ways of supporting artists online. ([Twitter](https://twitter.com/loftradio_))
 - [Indify](https://www.indify.io/) - Helping artists raise funding. ([Twitter](https://twitter.com/indify))
 - [Born to be cool: The life and music of Chet Baker (2021)](https://www.thesmartset.com/born-to-be-cool/) ([HN](https://news.ycombinator.com/item?id=29235423))
+- [MTG-Jamendo Dataset](https://github.com/MTG/mtg-jamendo-dataset) - Open dataset for music auto-tagging.

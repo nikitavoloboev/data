@@ -70,3 +70,4 @@
 - [go-circleci](https://github.com/grezar/go-circleci) - CircleCI API (V2) Client Library in Go.
 - [bkl](https://github.com/lox/bkl) - Run Buildkite Pipelines locally.
 - [Example Pipelines | Buildkite](https://buildkite.com/docs/pipelines/example-pipelines)
+- [What we learnt by migrating from CircleCI to Buildkite (2021)](https://hasura.io/blog/what-we-learnt-by-migrating-from-circleci-to-buildkite/)

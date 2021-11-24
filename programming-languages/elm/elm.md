@@ -79,3 +79,4 @@
 - [Elm Radio Podcast](https://elm-radio.com/)
 - [Elm Decoder Koans](https://github.com/dillonkearns/elm-decoder-koans) - Learn about elm decoders by filling in the blanks in test cases.
 - [elm-publish-action](https://github.com/dillonkearns/elm-publish-action) - Publishes your elm package if you're on the main or master branch.
+- [Successes, and failures, optimizing Elm’s runtime (2021)](https://blogg.bekk.no/successes-and-failures-in-optimizing-elms-runtime-performance-c8dc88f4e623)

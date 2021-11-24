@@ -244,6 +244,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Best book you read lately? (2021)](https://twitter.com/Miles_Brundage/status/1459386999249399809)
 - [Books that are better than therapy (2021)](https://twitter.com/DRMacIver/status/1459481901505388546)
 - [Eric Button's Books Read](https://ericbutton.co/blog/books)
+- [Ask HN: Most interesting, mildly impractical, well-written books on software? (2021)](https://news.ycombinator.com/item?id=29306651)
+- [5 books I loved reading this year | Bill Gates](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021) ([HN](https://news.ycombinator.com/item?id=29309758))
 
 ## Interesting Prose Books
 
@@ -440,3 +442,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The Internet Archive transforms access to books in a digital world (2021)](https://www.eff.org/deeplinks/2021/10/internet-archive-transforms-access-books-digital-world) ([HN](https://news.ycombinator.com/item?id=29043066))
 - [Philip K. Dick’s Novels Of The '50s Are Underrated And (Mostly) Untouched By Hollywood](https://neotextcorp.com/culture/philip-k-dicks-novels-of-the-50s-are-underrated-and-mostly-untouched-by-hollywood/)
 - [AutoBook](https://zachernuk.neocities.org/autobook/) - Procedural 3D book configurator. ([Tweet](https://twitter.com/zachernuk/status/1457767271418327045))
+- [BookNLP](https://github.com/booknlp/booknlp) - Natural language processing pipeline for books.

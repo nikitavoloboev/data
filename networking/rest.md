@@ -33,3 +33,4 @@
 - [resty](https://github.com/brielov/resty) - Syntactic sugar for RESTful APIs.
 - [REST Book](https://github.com/tanhakabir/rest-book) - VSCode Extension that allows you to perform REST calls in a Notebook interface.
 - [caffeine](https://github.com/rehacktive/caffeine) - Very basic REST service for JSON data - enough for prototyping and MVPs. In Go. ([HN](https://news.ycombinator.com/item?id=29238563))
+- [Restly](https://github.com/brokenhandsio/Restly) - Simple open source REST client for macOS, iOS and iPadOS.

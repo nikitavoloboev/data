@@ -121,3 +121,4 @@
 - [liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust) - Rust wrappers for the Open Quantum Safe liboqs C library.
 - [Solving LPN using Large Covering Codes (2018)](https://thomwiggers.nl/publication/masters-thesis/)
 - [Practically Solving LPN (2021)](https://thomwiggers.nl/publication/lpn/) ([Code](https://github.com/thomwiggers/lpn))
+- [Quandary](https://github.com/LLNL/quandary) - Optimal control for open quantum systems.

@@ -162,3 +162,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [GoGallery](https://github.com/robrotheram/gogallery) - Simple gallery server in go.
 - [Bringing Color and Life to Black and White Photos (2021)](https://blog.skz.dev/bringing-colour-and-life-to-black-and-white-photos)
 - [The features that more cameras should have (2021)](https://photographylife.com/features-more-cameras-need) ([HN](https://news.ycombinator.com/item?id=29257334))
+- [Top Priority in Outdoor Photography (2021)](https://www.youtube.com/watch?v=ucKnru5dx88)

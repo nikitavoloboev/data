@@ -207,6 +207,10 @@
 - [tldraw/intersect](https://github.com/tldraw/intersect) - 2D intersection utilities for TLDraw and maybe you, too.
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - Opinionated, fully type-safe, lightweight localization library for TypeScript and JavaScript projects with no external dependencies.
 - [queueable](https://github.com/slikts/queueable) - Convert streams to async iterables.
+- [sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript) - Decorators and some other features for sequelize.
+- [tiny-invariant](https://github.com/alexreardon/tiny-invariant) - Takes a value, and if the value is falsy then the invariant function will throw.
+- [tinykeys](https://github.com/jamiebuilds/tinykeys) - Tiny (~400 B) & modern library for keybindings.
+- [Algebraify](https://github.com/Protowalker/algebraify) - Algebraic effects library for JS and TS using generators.
 
 ## Links
 
@@ -232,3 +236,4 @@
 - [Tangerine monorepo](https://github.com/mmazzarolo/tangerine-monorepo) - Fast TypeScript-based Node.js monorepo setup powered by esbuild.
 - [What would you use to publish/build a TypeScript package (i.e. publish on npm) today? (2021)](https://twitter.com/jsjoeio/status/1458807179708796931)
 - [Type-Safe Event Emitter in TypeScript (2021)](https://danilafe.com/blog/typescript_typesafe_events/)
+- [type-predicates-generator](https://github.com/d-kimuson/type-predicates-generator) - Tool to automatically generate type predicates functions from type definitions.

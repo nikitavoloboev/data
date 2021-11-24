@@ -106,6 +106,7 @@
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
 - [Watt](https://github.com/dtolnay/watt) - Runtime for executing Rust procedural macros compiled as WebAssembly.
 - [Draco](https://github.com/utkarshkukreti/draco) - Rust library to build client side web applications with Web Assembly.
+- [ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM.
 
 ## GUI
 
@@ -167,6 +168,9 @@
 - [pg-embed](https://github.com/faokunega/pg-embed) - Run a PostgreSQL database locally on Linux, MacOS or Windows as part of another Rust application or test.
 - [ormx](https://github.com/NyxCode/ormx) - Lightweight macros for sqlx.
 - [influxdb-rust](https://github.com/influxdb-rs/influxdb-rust) - Rust Client for the InfluxDB Time Series Database.
+- [clickhouse-rs](https://github.com/suharev7/clickhouse-rs) - Asynchronous Yandex ClickHouse client library for Rust.
+- [Tesseract](https://github.com/tesseract-olap/tesseract) - ROLAP engine for web applications, in Rust.
+- [dgraph-tonic](https://github.com/selmeci/dgraph-tonic) - Async/Sync gRPC client for Dgraph DB.
 
 ## Video
 
@@ -399,6 +403,7 @@
 - [Supertype](https://github.com/zephraph/supertype) - Macro that strives to make it easier to derive a subset of a type from another type.
 - [arrayref](https://github.com/droundy/arrayref) - Two macros for taking array references in rust.
 - [macro-attr](https://github.com/DanielKeep/rust-custom-derive) - Custom derivation macro for Rust.
+- [deepsize](https://github.com/Aeledfyr/deepsize) - Trait and derive macro to recursively find the size of an object and the size of allocations that it owns.
 
 ## Math
 
@@ -1169,6 +1174,14 @@
 - [Rust Onig](https://github.com/rust-onig/rust-onig) - Rust bindings for the Oniguruma regex library.
 - [region-rs](https://github.com/darfink/region-rs) - Cross-platform virtual memory API.
 - [hidapi](https://github.com/ruabmbua/hidapi-rs) - Rust bindings for the hidapi C library.
+- [cascara](https://github.com/selmeci/cascara) - Implementation of TinyLFU cache.
+- [Ustr](https://github.com/anderslanglands/ustr) - Fast, FFI-friendly string interning for Rust.
+- [Inflector](https://github.com/whatisinternet/Inflector) - Rust inflection library.
+- [Frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
+- [twilio-rs](https://github.com/neil-lobracco/twilio-rs) - Twilio library for Rust.
+- [annotate-snippets](https://github.com/rust-lang/annotate-snippets-rs) - Rust library for annotation of programming code slices.
+- [iceoryx-rs](https://github.com/eclipse-iceoryx/iceoryx-rs) - Rust wrapper for Eclipse iceoryx - true zero-copy inter-process-communication.
+- [FLAME](https://github.com/llogiq/flame) - Intrusive flamegraph profiling tool for rust.
 
 ## Cargo Plugins
 
@@ -1273,3 +1286,5 @@
 - [Meili crates browser](https://crates.meilisearch.com/) - Expose all crates from crates.io with MeiliSearch. ([Code](https://github.com/meilisearch/demo-finding-crates))
 - [Backdooring Rust crates for fun and profit (2021)](https://kerkour.com/rust-crate-backdoor/) ([Lobsters](https://lobste.rs/s/cjt83n/backdooring_rust_crates_for_fun_profit)) ([HN](https://news.ycombinator.com/item?id=29265765))
 - [Rust LibHunt](https://rust.libhunt.com/) - Your go-to Rust Toolbox. ([Twitter](https://twitter.com/RustLibHunt))
+- [dep_doc](https://github.com/scrabsha/dep-doc) - Add a cute dependency declaration snippet in your crate documentation.
+- [tracing-tree](https://github.com/davidbarsky/tracing-tree) - Instrument your application with tracing and get tree-structured summaries of your application activity with timing information on the console.

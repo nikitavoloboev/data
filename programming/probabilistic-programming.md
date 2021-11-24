@@ -32,3 +32,4 @@
 - [FOPPL](https://github.com/rmascarenhas/foppl) - First-Order Probabilistic Programming Language.
 - [ProbLog: Probabilistic Programming](https://dtai.cs.kuleuven.be/problog/index.html#)
 - [WebPPL](https://github.com/probmods/webppl) - Probabilistic programming for the web. ([Web](http://webppl.org/))
+- [Storm](https://github.com/moves-rwth/storm) - Modern Probabilistic Model Checker. ([Web](https://www.stormchecker.org/))

@@ -194,3 +194,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Nexium](https://github.com/nexiumapp/nexium) - Next generation email server in Rust.
 - [List of burner email providers](https://github.com/wesbos/burner-email-providers)
 - [Pigeon](https://github.com/quambene/pigeon-rs) - Command line tool for cheap and efficient email automation written in Rust.
+- [Letters](https://github.com/oxidizing/letters) - OCaml library for creating and sending emails over SMTP using LWT.
+- [hydroxide](https://github.com/emersion/hydroxide) - Third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge.

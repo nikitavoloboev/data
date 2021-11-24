@@ -15,3 +15,4 @@
 - [Differentiation with higher infinitesimals](https://github.com/konn/smooth) - Exploring connections between automatic differentiation and smooth infinitesimal analysis, or smooth algebras.
 - [AD4SM.jl](https://github.com/avigliotti/AD4SM.jl) - Automatic Differentiation for Solid Mechanics.
 - [ceviche](https://github.com/fancompute/ceviche) - Electromagnetic Simulation Tools + Automatic Differentiation.
+- [Tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.

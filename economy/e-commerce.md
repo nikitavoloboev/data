@@ -123,3 +123,5 @@
 - [Shopify App Store](https://apps.shopify.com/) - Ecommerce App Marketplace.
 - [React Storefront](https://github.com/saleor/react-storefront) - Open-source storefront in React.js with Next.js. Built for Headless Commerce.
 - [OpenStore](https://open.store/) - Sell your e-commerce business instantly.
+- [Centra](https://www.centra.com/) - Headless direct-to-consumer and digital wholesale eCommerce.
+- [Shopify’s vision for the future of commerce (2021)](https://overcast.fm/+HZUfgEat0)

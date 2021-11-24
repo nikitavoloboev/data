@@ -43,6 +43,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Thiago Okada](https://github.com/thiagokokada/nix-configs)
 - [Pablo Corral](https://github.com/pinpox/nixos)
 - [jkachmar](https://github.com/jkachmar/dotnix)
+- [Xe](https://github.com/Xe/nixos-configs)
 
 ## Nix configs (macOS)
 

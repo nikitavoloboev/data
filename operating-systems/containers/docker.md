@@ -159,3 +159,7 @@
 - [The Case of the Failed Docker Connection](https://mysteries.wizardzines.com/docker-connection.html)
 - [regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [Composerize](https://www.composerize.com/) - Turns docker run commands into docker-compose files. ([Code](https://github.com/magicmark/composerize))
+- [Use docker image tagging to speedup the builds (2021)](https://dev.to/istarkov/use-docker-image-tagging-to-speedup-the-builds-3n4m)
+- [Docker Registry Helm Chart](https://github.com/twuni/docker-registry.helm)
+- [compose-go](https://github.com/compose-spec/compose-go) - Go reference library for parsing and loading Compose files as specified by the Compose specification.
+- [Anchore Engine](https://github.com/anchore/anchore-engine) - Service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification.

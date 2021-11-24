@@ -117,3 +117,6 @@
 - [faas-nomad](https://github.com/jsiebens/faas-nomad) - OpenFaas provider for Nomad.
 - [A Multi Cluster and Multi Orchestrator home lab (2021)](https://johansiebens.dev/posts/2021/05/a-multi-cluster-and-multi-orchestrator-home-lab/)
 - [DevOps in academic research (2021)](https://mattsegal.dev/devops-academic-research.html)
+- [Hetzner Pulumi Intro (2021)](https://shibumi.dev/posts/hetzner-pulumi-intro/)
+- [The Operator Pattern in Nomad (2021)](https://andydote.co.uk/2021/11/22/nomad-operator-pattern/)
+- [Dev Lake](https://github.com/merico-dev/lake) - Brings all your DevOps data into one practical, personalized, extensible view. Ingest, analyze, and visualize data.

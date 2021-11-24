@@ -163,3 +163,4 @@
 - [EUTYPES-TYPES 2020 - Abstracts](https://types2020.di.unito.it/abstracts/BookOfAbstractsTYPES2020.pdf) ([Tweet](https://twitter.com/mietek/status/1461734839061676032))
 - [The critical dimension as an invariant of Type III odometers (2013)](https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay/unsworks_12203/UNSWORKS)
 - [Introduction to Domain Theory](http://www.cs.nott.ac.uk/~pszgmh/domains.html)
+- [Brown Benchmark for Table Types](https://github.com/brownplt/B2T2)

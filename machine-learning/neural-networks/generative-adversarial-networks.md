@@ -152,3 +152,4 @@
 - [GANformer: Generative Adversarial Transformers](https://github.com/dorarad/ganformer)
 - [ProteinGAN](https://github.com/Biomatter-Designs/ProteinGAN) - Generative network architecture that may be used to produce de-novo protein sequences.
 - [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - High-performance implementation of classic and SOTA Generative Adversarial Networks.
+- [SofGAN: A Portrait Image Generator with Dynamic Styling (2021)](https://apchenstu.github.io/sofgan/) ([Code](https://github.com/apchenstu/sofgan))

@@ -179,3 +179,4 @@
 - [Kalai Transpiler](https://github.com/echeran/kalai) - Source-to-source transpiler from Clojure to other languages (Rust, Java, C++, ...).
 - [Sayid](https://github.com/clojure-emacs/sayid) - Debugger for Clojure.
 - ["Inside core.async Channels" by Rich Hickey (2014)](https://www.youtube.com/watch?v=hMEX6lfBeRM)
+- [Circular Programming in Clojure (2021)](https://cuddly-octo-palm-tree.com/posts/2021-11-21-circular-clojure/)

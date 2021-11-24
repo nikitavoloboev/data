@@ -49,3 +49,4 @@
 - [Unbabel](https://unbabel.com/) - Seamless Multilingual Translation Services.
 - [WantWords](https://wantwords.thunlp.org/) - Open-source online reverse dictionary. ([Code](https://github.com/thunlp/WantWords))
 - [Free Dictionary API](https://dictionaryapi.dev/) ([Code](https://github.com/meetDeveloper/freeDictionaryAPI))
+- [Sheldon](https://github.com/inaka/sheldon/) - Very Simple Erlang Spell Checker. ([Article](https://medium.com/erlang-battleground/sheldon-the-erlang-spell-checker-b5223d5f7b70))

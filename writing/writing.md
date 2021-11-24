@@ -264,3 +264,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Advice for aspiring bloggers (2021)](https://www.haskellforall.com/2021/10/advice-for-aspiring-bloggers.html)
 - [Awesome Writing](https://github.com/jenniferlynparsons/awesome-writing)
 - [Writer](https://writer.com/) - AI Writing Assistant for Teams. ([Twitter](https://twitter.com/Get_Writer))
+- [Writing is networking for introverts](https://byrnehobart.medium.com/writing-is-networking-for-introverts-5cac14ad4c77) ([HN](https://news.ycombinator.com/item?id=29299986))

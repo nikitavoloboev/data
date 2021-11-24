@@ -72,3 +72,4 @@
 - [Ask HN: Will there ever be a vendor agnostic GPU interface? (2021)](https://news.ycombinator.com/item?id=29058681)
 - [NVIDIA Omniverse Platform](https://developer.nvidia.com/nvidia-omniverse-platform) - Scalable, multi-GPU real-time reference development platform for 3D simulation and design collaboration. ([GitHub](https://github.com/NVIDIA-Omniverse))
 - [AmgX](https://github.com/NVIDIA/AMGX) - Distributed multigrid linear solver library on GPU.
+- [GPU Accelerated Non-rigid ICP for surface registration](https://github.com/wuhaozhe/pytorch-nicp)

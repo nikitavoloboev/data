@@ -54,3 +54,5 @@
 - [Racket Vulkan](https://github.com/zyrolasting/racket-vulkan) - Vulkan API integration and utilities for Racket.
 - [Granite](https://github.com/Themaister/Granite) - Personal Vulkan renderer.
 - [Vulkan-ExtensionLayer](https://github.com/KhronosGroup/Vulkan-ExtensionLayer) - Layer providing Vulkan features when native support is unavailable.
+- [Vulkan API Specification and related tools](https://github.com/KhronosGroup/Vulkan-Docs)
+- [Descriptorless Rendering in Vulkan (2021)](https://msiglreith.gitbook.io/blog/descriptorless-rendering-in-vulkan)

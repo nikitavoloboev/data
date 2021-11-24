@@ -34,6 +34,7 @@
 - [Tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell.
 - [StrictCheck](https://github.com/kwf/StrictCheck) - Property-based random testing framework for observing, specifying, and testing the strictness behaviors of Haskell functions.
 - [Hspec](https://github.com/hspec/hspec) - Testing Framework for Haskell.
+- [generic-random](https://github.com/Lysxia/generic-random) - Generic random generators to implement Arbitrary instances for QuickCheck.
 
 ## CLI
 
@@ -188,6 +189,8 @@
 - [vector](https://github.com/haskell/vector) - Efficient implementation of Int-indexed arrays (both mutable and immutable), with a powerful loop optimization framework.
 - [dejafu](https://github.com/barrucadu/dejafu) - Systematic concurrency testing meets Haskell.
 - [Random](https://github.com/haskell/random) - Random number library.
+- [G2](https://github.com/BillHallahan/G2) - Haskell Symbolic Execution Engine.
+- [Frames](https://github.com/acowley/Frames) - Data Frames for Haskell.
 
 ## Notes
 

@@ -24,3 +24,4 @@
 - [tmux lets you select and copy text with your keyboard (2021)](https://ianthehenry.com/posts/tmux-psa/)
 - [Gentle Guide to Get Started With tmux (2021)](https://pragmaticpineapple.com/gentle-guide-to-get-started-with-tmux/)
 - [Chaakoo](https://github.com/pallavJha/chaakoo) - Slice and dice your TMUX windows and panes.
+- [Useful Tmux Configuration Examples (2021)](https://dev.to/iggredible/useful-tmux-configuration-examples-k3g)

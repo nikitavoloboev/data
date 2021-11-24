@@ -117,3 +117,7 @@
 - [Reflect](https://reflect.run/) - Automated Web Testing.
 - [Generate All the Things (2021)](https://matklad.github.io//2021/11/07/generate-all-the-things.html) ([Lobsters](https://lobste.rs/s/khbbac/generate_all_things))
 - [Tests in a box: Shipping your tests in a container for fun and profit - Federico Paolinelli (2020)](https://www.youtube.com/watch?v=QeQs5wRZ4ac&list=PLGN1AjiJJv0nelnAohIhyPdzpXd0IstM5&index=5)
+- [I test in prod (2021)](https://increment.com/testing/i-test-in-production/) ([HN](https://news.ycombinator.com/item?id=29313565))
+- [Argos](https://github.com/argos-ci/argos) - Automate visual regression testing. ([Web](https://www.argos-ci.com/))
+- [Gnomock](https://github.com/orlangure/gnomock) - Integration and end-to-end testing toolkit. It uses Docker to create temporary containers for application dependencies, setup their initial state and clean them up in the end.
+- [Automated, Targeted Testing of Property-Based Testing Predicates](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/)

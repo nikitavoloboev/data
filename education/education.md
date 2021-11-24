@@ -97,3 +97,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Things You Are Allowed To Do, Academic Edition (2021)](https://bastian.rieck.me/blog/posts/2021/things/)
 - [Ask HN: Why is there no good open-source LMS? (2021)](https://news.ycombinator.com/item?id=29275470)
 - [Pupilfirst](https://www.pupilfirst.com/) - Online Teaching Platform & LMS. ([Code](https://github.com/pupilfirst/pupilfirst))
+- [Udemus](https://udemus.com/) - Learning community.

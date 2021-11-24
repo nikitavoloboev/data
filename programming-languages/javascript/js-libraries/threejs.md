@@ -75,3 +75,4 @@
 - [react-ogl](https://github.com/pmndrs/react-ogl) - Declaratively create scenes with re-usable OGL components that have their own state and effects and can tap into React's infinite ecosystem.
 - [three-vrm](https://github.com/pixiv/three-vrm) - Use VRM on Three.js.
 - [Understanding the Three.js Transmission example (2021)](https://medium.com/geekculture/understanding-the-three-js-transmission-example-13e952a8ab55)
+- [Cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.

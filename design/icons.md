@@ -26,7 +26,7 @@
 - [Streamline](https://streamlineicons.com/) - World’s largest icon pack. ([Streamline symbols in VS Code](https://www.streamlinehq.com/dsp)) ([App](https://app.streamlineicons.com/home))
 - [7 Principles of Icon Design (2020)](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2) ([HN](https://news.ycombinator.com/item?id=22364230))
 - [Iconic Icons: Designing the World of Windows (2020)](https://medium.com/microsoft-design/iconic-icons-designing-the-world-of-windows-5e70e25e5416)
-- [css.gg](https://css.gg/) - Minimalistic icon library Designed by code. Customizable & Retina-Ready icons — entirely built in CSS. ([Code](https://github.com/astrit/css.gg))
+- [css.gg](https://css.gg/) - Minimalistic icon library Designed by code. Customizable & Retina-Ready icons — entirely built in CSS. ([Code](https://github.com/astrit/css.gg)) ([Why & How I built css.gg](https://dev.to/astrit/why-how-did-i-build-500-css-only-icons-library-a-life-story-34on))
 - [Heroicons](https://heroicons.dev/) - Set of free MIT-licensed high-quality SVG icons for UI development. ([Code](https://github.com/tailwindlabs/heroicons))
 - [Glyphfinder](https://www.glyphfinder.com/) - Missing character search for designers, developers and writers.
 - [Shape](https://shape.so/) - 4300+ Customizable, animated icons & illustrations exportable to code.

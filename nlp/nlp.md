@@ -400,3 +400,8 @@
 - [Aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = text to image/video.
 - [OpenAI’s API Now Available with No Waitlist (2021)](https://openai.com/blog/api-no-waitlist/) ([HN](https://news.ycombinator.com/item?id=29265640))
 - [Recent trends of Entity Linking, Disambiguation, and Representation](https://github.com/izuna385/Entity-Linking-Recent-Trends)
+- [Intro to Large Language Models with Cohere](https://docs.cohere.ai/intro-to-llms/)
+- [spacy-experimental](https://github.com/explosion/spacy-experimental) - Cutting-edge experimental spaCy components and features.
+- [AdaptNLP](https://github.com/Novetta/adaptnlp) - High level framework and library for running, training, and deploying state-of-the-art Natural Language Processing (NLP) models for end to end tasks. ([Docs](https://novetta.github.io/adaptnlp/))
+- [Reading list for Awesome Sentiment Analysis papers](https://github.com/declare-lab/awesome-sentiment-analysis)
+- [Aspect-Based-Sentiment-Analysis: Transformer & Explainable ML (TensorFlow)](https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis)

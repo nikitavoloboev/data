@@ -109,3 +109,5 @@
 - [Example SaaS application built in public on the Cloudflare stack](https://github.com/cloudflare/production-saas) ([Article](https://blog.cloudflare.com/production-saas-intro/))
 - [github-proxy](https://github.com/mchaNetwork/github-proxy) - GitHub proxy running on Cloudflare Workers.
 - [Durable Objects TypeScript Counter template](https://github.com/cloudflare/durable-objects-typescript-rollup-esm)
+- [Apiker](https://github.com/hodgef/apiker) - Create Serverless APIs with Cloudflare Workers, Durable Objects & Wrangler.
+- [Blueboat](https://github.com/losfair/blueboat) - Open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps. ([HN](https://news.ycombinator.com/item?id=29321442))
