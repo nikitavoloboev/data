@@ -211,6 +211,7 @@
 - [tiny-invariant](https://github.com/alexreardon/tiny-invariant) - Takes a value, and if the value is falsy then the invariant function will throw.
 - [tinykeys](https://github.com/jamiebuilds/tinykeys) - Tiny (~400 B) & modern library for keybindings.
 - [Algebraify](https://github.com/Protowalker/algebraify) - Algebraic effects library for JS and TS using generators.
+- [defu](https://github.com/unjs/defu) - Assign default properties, recursively.
 
 ## Links
 

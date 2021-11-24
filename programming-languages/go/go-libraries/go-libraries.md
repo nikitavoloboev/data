@@ -959,7 +959,7 @@
 - [Render](https://github.com/unrolled/render) - Provides functionality for easily rendering JSON, XML, text, binary data, and HTML templates.
 - [LimitIO](https://github.com/nanmu42/limitio) - Go io.Reader and io.Writer with limit.
 - [notify](https://github.com/rjeczalik/notify) - File system event notification library on steroids.
-- [Sonic](https://github.com/bytedance/sonic) - Blazingly fast JSON serializing & deserializing library.
+- [Sonic](https://github.com/bytedance/sonic) - Blazingly fast JSON serializing & deserializing library. ([HN](https://news.ycombinator.com/item?id=29296601))
 - [Mango Cache](https://github.com/goburrow/cache) - Partial implementations of Guava Cache in Go.
 - [Go Nanoid](https://github.com/matoous/go-nanoid) - Go random IDs generator.
 - [glog](https://github.com/golang/glog) - Leveled execution logs for Go.
