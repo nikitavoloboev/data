@@ -306,3 +306,4 @@
 - [PyTorch Adapt](https://github.com/KevinMusgrave/pytorch-adapt) - Modular domain adaptation library written in PyTorch.
 - [Torch Memory-adaptive Algorithms (TOMA)](https://github.com/BlackHC/toma) - Helps you write algorithms in PyTorch that adapt to the available (CUDA) memory.
 - [Bayesian-Torch](https://github.com/IntelLabs/bayesian-torch) - Bayesian neural network layers for uncertainty estimation.
+- [PyTorch: Where we are headed and why it looks a lot like Julia (but not exactly)](https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276) ([HN](https://news.ycombinator.com/item?id=29354474))
