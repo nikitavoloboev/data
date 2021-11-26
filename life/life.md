@@ -24,6 +24,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Life is a game and self belief is the cheat code](https://www.reddit.com/r/Psychonaut/comments/quoa7p/whats_the_big_secret/)
 - [It took me like a year to condense a paragraph of “what is a nerd?” into “directed by curiosity”, and “what is friendship?” into “shared understanding”, and I have been quite seriously considering that my definition of ambition is in the ballpark of “cursed with giving a shit”.](https://twitter.com/visakanv/status/1461633919695032320)
 - [How we spend our days is, of course, how we spend our lives.](https://twitter.com/lorde)
+- [Die with memories, not dreams.](https://twitter.com/rubenharris/status/1464220512830124032)
 
 ## Links
 
@@ -84,3 +85,6 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [This Weirdly Smart, Creeping Slime Is Redefining Our Understanding of Intelligence (2021)](https://www.sciencealert.com/this-creeping-slime-is-changing-how-we-think-about-intelligence) ([Tweet](https://twitter.com/Plinz/status/1458851074186485763))
 - [Where do you hope to see yourself in five years? Earnestly. (2021)](https://twitter.com/dan_abramov/status/1459998825574248458)
 - [Life as a manifestation of the second law of thermodynamics (1994)](https://www.sciencedirect.com/science/article/pii/0895717794901880)
+- [If money was no object, what would you do with your life?](https://twitter.com/rrhoover/status/1463487875341856771)
+- [Ask HN: What is something important I should start doing in my 20s? (2021)](https://news.ycombinator.com/item?id=29347579)
+- [You can't win](https://twitter.com/maccaw/status/1464264533623676928)

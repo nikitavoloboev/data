@@ -108,3 +108,5 @@
 - [SVGcode](https://svgco.de/) - Convert raster images to SVG vector graphics. ([Article](https://web.dev/svgcode/)) ([Code](https://github.com/tomayac/SVGcode)) ([Video](https://www.youtube.com/watch?v=kcvfyQh6J-0))
 - [Pablo](https://github.com/premasagar/pablo) - Lightweight, expressive JavaScript SVG library. ([Web](http://pablojs.com/)) ([HN](https://news.ycombinator.com/item?id=29287595))
 - [shape2path](https://github.com/HarryStevens/shape2path) - Convert SVG shapes to SVG paths.
+- [SVG.js](https://github.com/svgdotjs/svg.js) - Lightweight library for manipulating and animating SVG.
+- [Country Flags in SVG](https://flagicons.lipis.dev/) ([Code](https://github.com/lipis/flag-icons))

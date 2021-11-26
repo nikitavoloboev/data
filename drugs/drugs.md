@@ -52,3 +52,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Long-term risks of stimulants in humans (2021)](https://www.reddit.com/r/slatestarcodex/comments/qc6asr/any_consensus_on_longterm_risks_of_stimulants_in/)
 - [The main thing about Phenylacetone meth is that there's so much of it](https://dynomight.net/p2p-meth/) ([HN](https://news.ycombinator.com/item?id=29027284))
 - [Bluelight.org](https://www.bluelight.org/xf/)
+- [What’s the druggiest drug to you? (2021)](https://www.reddit.com/r/Drugs/comments/r2but1/whats_the_druggiest_drug_to_you/)

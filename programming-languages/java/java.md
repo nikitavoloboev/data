@@ -95,3 +95,6 @@
 - [Optimizing Java: Practical Techniques for Improving JVM Application Performance (2018)](https://www.goodreads.com/book/show/27015350-optimizing-java)
 - [Java and Scala’s type systems are unsound (2016)](https://dl.acm.org/doi/10.1145/2983990.2984004) ([HN](https://news.ycombinator.com/item?id=29317024))
 - [A tale of Java Hash Tables (2021)](https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables) ([HN](https://news.ycombinator.com/item?id=29319151))
+- [Serverless for Java: Key-Value Store as a Service (KVSaaS) (2021)](https://www.youtube.com/watch?v=jbxZvAqJ_MU)
+- [Implementing a non-blocking I/O server (2021)](https://tuhuynh.com/posts/implement-nio-server/)
+- [GC Progress from Java 8 to 17 (2021)](https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html) ([HN](https://news.ycombinator.com/item?id=29330109))

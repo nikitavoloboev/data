@@ -4,6 +4,10 @@ You can listen through a lot of the songs I liked on [Spotify](https://open.spot
 
 You can also see my most listened to [artists](https://www.last.fm/user/playfullyExist/library/artists), [songs](https://www.last.fm/user/playfullyExist/library/tracks) and [albums](https://www.last.fm/user/playfullyExist/library/albums) alongside my [yearly music stats](https://www.last.fm/user/playfullyExist/listening-report/year) tracked with [last.fm](https://www.last.fm/user/playfullyExist). And here are [my Spotify stats](https://volt.fm/nikitavoloboev) together with the song I am listening to now.
 
+## Interesting clips
+
+- [Everyone You Know - The Drive](https://www.youtube.com/watch?v=nzsMGm9m-kE)
+
 ## Notes
 
 - [Today in music theory, I learned that chords can use different octaves. It's painfully obvious when you think about it, but for some reason it never occurred to me.](https://merveilles.town/web/statuses/105834224452459065)

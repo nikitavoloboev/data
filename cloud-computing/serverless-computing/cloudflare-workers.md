@@ -111,3 +111,5 @@
 - [Durable Objects TypeScript Counter template](https://github.com/cloudflare/durable-objects-typescript-rollup-esm)
 - [Apiker](https://github.com/hodgef/apiker) - Create Serverless APIs with Cloudflare Workers, Durable Objects & Wrangler.
 - [Blueboat](https://github.com/losfair/blueboat) - Open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps. ([HN](https://news.ycombinator.com/item?id=29321442))
+- [wasm-service](https://github.com/stevelr/wasm-service) - Base library for serverless WASM on Cloudflare Workers.
+- [wasm-service-oauth](https://github.com/stevelr/wasm-service-oauth) - Use OAuth with Cloudflare Workers.

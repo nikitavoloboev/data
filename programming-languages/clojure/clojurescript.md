@@ -40,3 +40,4 @@
 - [Speed up your ClojureScript Web App (2021)](https://www.juxt.pro/blog/clojurescript-app-performance)
 - [re-frame](https://github.com/Day8/re-frame) - ClojureScript framework for building user interfaces. ([Web](http://day8.github.io/re-frame/))
 - [re-flow](https://github.com/Guaranteed-Rate/re-flow) - Library that adds tools for building and executing workflows in re-frame applications.
+- [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) - Leiningen plugin to make ClojureScript development easy.

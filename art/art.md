@@ -285,6 +285,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Julien Gauthier's dystopian, post–global-warming Bangkok](https://twitter.com/FedeItaliano76/status/1296827295806758912)
 - [Anna Niess Tumblr](https://glerpie.tumblr.com/)
 - [3D pic of paint 'Girl with Pearl Earring' with 10Bs of pixels](https://www.micro-pano.com/pearl/)
+- [Van Gogh's virtual painting](https://static.kuula.io/share/79QMS)
 - [The Beautiful Drawings of Richard Feynman](https://abakcus.com/the-beautiful-drawings-of-richard-feynman/)
 
 ## Photography
@@ -366,8 +367,10 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Om Malik](https://www.instagram.com/om/)
 - [Florian](https://www.instagram.com/analoguevibez/)
 - [Ivan Bideac](https://www.ivanbideac.com/)
+- [Luke Beard](https://www.instagram.com/lukesbeard/)
 - [Richard Avedon](https://www.avedonfoundation.org/the-work)
 - [George Jejeya](https://www.instagram.com/gerudes/)
+- [Baurjan Bismildin](https://www.instagram.com/bbismildin/)
 - [Eva Milkonskaya](https://www.instagram.com/evamilkonskaya/)
 - [Bao Ngo's photos](https://twitter.com/coldtakesonly/status/1315838653206323200)
 - [Pip](https://www.instagram.com/bypip/) ([Web](https://www.bypip.co.uk/))
@@ -473,3 +476,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [The Klimt Color Enigma](https://artsandculture.google.com/story/the-klimt-color-enigma/SQWxuZfE5ki3mQ?hl=en) - Colorizing Klimt’s Vanished Paintings with Artificial Intelligence and Klimt Experts. ([HN](https://news.ycombinator.com/item?id=28955639))
 - [NFT's Aren't the Answer to the IRL Problems of Digital Art (2021)](https://www.jacquescorbytuech.com/writing/irl-problem-digital-art-nft) ([HN](https://news.ycombinator.com/item?id=29159693))
 - [Why Beauty Matters (2009)](https://topdocumentaryfilms.com/why-beauty-matters/)
+- [Kuula](https://kuula.co/about) - 360 Virtual Tours made easy. Create. Edit. Share.

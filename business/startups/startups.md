@@ -346,6 +346,7 @@
 - [Startups people are working on (2021)](https://twitter.com/FounderEric/status/1458138589284339716)
 - [How I helped build a profitable MVP over a weekend](https://mzrn.sh/2021/11/14/how-i-helped-build-a-profitable-mvp-over-a-weekend) ([HN](https://news.ycombinator.com/item?id=29230511))
 - [Ask HN: Great tools for solo SaaS founders? (2021)](https://news.ycombinator.com/item?id=29297229)
+- [Boards are dangerous to founder/CEOs (2021)](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html) ([HN](https://news.ycombinator.com/item?id=29320078))
 
 ## Images
 

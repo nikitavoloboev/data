@@ -1,5 +1,9 @@
 # Artificial intelligence
 
+## Notes
+
+- [Best part of I, Robot is how it consistently presents robots doing undesirable things not as AI “gone evil” or “run amok” but implications of their programming that humans did not anticipate, which must be understood and fixed like any other engineering problem.](https://twitter.com/lexi_lambda/status/1464269135169339393)
+
 ## Links
 
 - [What worries me about AI (2018)](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
@@ -107,3 +111,4 @@
 - [Shannon entropy in the context of machine learning and AI (2018)](https://medium.com/swlh/shannon-entropy-in-the-context-of-machine-learning-and-ai-24aee2709e32)
 - [An argument for the impossibility of machine intelligence (2021)](https://arxiv.org/abs/2111.07765)
 - [Sea AI Lab](https://sail.sea.com/) ([GitHub](https://github.com/sail-sg))
+- [Ask HN: What are the early signs of singularity? (2021)](https://news.ycombinator.com/item?id=29343774)

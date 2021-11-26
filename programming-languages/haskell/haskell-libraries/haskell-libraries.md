@@ -191,6 +191,7 @@
 - [Random](https://github.com/haskell/random) - Random number library.
 - [G2](https://github.com/BillHallahan/G2) - Haskell Symbolic Execution Engine.
 - [Frames](https://github.com/acowley/Frames) - Data Frames for Haskell.
+- [fuzzyfind](https://github.com/runarorama/fuzzyfind) - Haskell library for fuzzy text search.
 
 ## Notes
 

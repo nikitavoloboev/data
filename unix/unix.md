@@ -70,3 +70,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [I’m not sure that UNIX won (2021)](https://rubenerd.com/im-not-sure-that-unix-won/) ([Lobsters](https://lobste.rs/s/ezqjv5/i_m_not_sure_unix_won))
 - [Unix as IDE (2012)](https://blog.sanctum.geek.nz/series/unix-as-ide/)
 - [.plan](https://plan.cat/) ([Lobsters](https://lobste.rs/s/woxgih/plan)) ([HN](https://news.ycombinator.com/item?id=29248368))
+- [Why V7 Unix matters so much (2021)](https://utcc.utoronto.ca/~cks/space/blog/unix/V7WhyItMattersSoMuch) ([HN](https://news.ycombinator.com/item?id=29308246))

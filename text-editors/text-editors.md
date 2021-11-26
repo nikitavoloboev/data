@@ -151,3 +151,5 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [IDEs and Macros (2021)](https://rust-analyzer.github.io//blog/2021/11/21/ides-and-macros.html)
 - [ProseMirror + CodeMirror 6](https://github.com/sibiraj-s/prosemirror-codemirror-6)
 - [codemirror/autocomplete](https://github.com/codemirror/autocomplete) - Autocompletion for the CodeMirror code editor.
+- [What's the Future of IDEs? (2021)](https://giansegato.com/essays/what-future-ides/) ([HN](https://news.ycombinator.com/item?id=29304667))
+- [use-prosemirror](https://github.com/dminkovsky/use-prosemirror) - ProseMirror + React made easy.

@@ -121,3 +121,4 @@
 - [Argos](https://github.com/argos-ci/argos) - Automate visual regression testing. ([Web](https://www.argos-ci.com/))
 - [Gnomock](https://github.com/orlangure/gnomock) - Integration and end-to-end testing toolkit. It uses Docker to create temporary containers for application dependencies, setup their initial state and clean them up in the end.
 - [Automated, Targeted Testing of Property-Based Testing Predicates](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/)
+- [Testing (2021)](https://www.scattered-thoughts.net/writing/testing/)

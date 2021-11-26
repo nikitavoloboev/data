@@ -1,5 +1,7 @@
 # Serverless computing
 
+Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functions](https://vercel.com/docs/concepts/functions/introduction) (NextJS) & [Cloudflare Workers](https://workers.cloudflare.com/) (Rust) for [serverless workloads](https://twitter.com/algo_luca/status/1464275828519448580).
+
 ## Notes
 
 - [What if a program was just running. There's no start or stop, just pause and resume. You can snapshot it at any time and restore that snapshot later. You can share or sync its state across multiple instances. The way you program this is like a REPL, not compiled files.](https://twitter.com/rsms/status/1389958973621563395)
@@ -127,3 +129,8 @@
 - [fnrun](https://github.com/fnrun/fnrun) - Tools for building business functions and runners. ([Web](https://fnrun.dev/))
 - [The Unfulfilled Promise of Serverless (2021)](https://www.lastweekinaws.com/blog/the-unfulfilled-promise-of-serverless/) ([HN](https://news.ycombinator.com/item?id=29282824))
 - [OpenFaaS Function Store](https://github.com/openfaas/store) - Curated index of OpenFaaS functions which have been tested by the community.
+- [faas-provider](https://github.com/openfaas/faas-provider) - Backend provider interface for OpenFaaS.
+- [queue-worker for NATS Streaming](https://github.com/openfaas/nats-queue-worker) - Queue-worker for OpenFaaS with NATS Streaming.
+- [faas-cli](https://github.com/openfaas/faas-cli) - Official CLI for OpenFaaS.
+- [Fly Init](https://github.com/superfly/init-snapshot) - Public snapshot of Fly's init code. It powers every Firecracker microvm we run for our users.
+- [OpenFaaS Classic templates](https://github.com/openfaas/templates)

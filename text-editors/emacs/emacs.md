@@ -74,7 +74,7 @@ Might give it a go sometime.
 - [Why Emacs itself is my “favourite Emacs package” (2020)](https://protesilaos.com/codelog/2020-10-21-emacs-favourite-package/)
 - [Org mode for Emacs](https://orgmode.org/) - Convenient plain text markup and more. ([Code](https://github.com/bzg/org-mode)) ([HN](https://news.ycombinator.com/item?id=24903311))
 - [Org mode Almanac](https://alphapapa.github.io/org-almanac/) ([Code](https://github.com/alphapapa/org-almanac))
-- [Batteries included with Emacs (2020)](https://karthinks.com/software/batteries-included-with-emacs/)
+- [Batteries included with Emacs (2020)](https://karthinks.com/software/batteries-included-with-emacs/) ([HN](https://news.ycombinator.com/item?id=29342176))
 - [Emacs Should Be Emacs Lisp - Thoughts on the Future of Emacs (2020)](https://archive.fosdem.org/2020/schedule/event/emacsthoughts/)
 - [Emacs Survey 2020 Results](https://emacssurvey.org/2020/) ([HN](https://news.ycombinator.com/item?id=25388353))
 - [Org-Mode Is One of the Most Reasonable Markup Languages to Use for Text (2017)](https://karl-voit.at/2017/09/23/orgmode-as-markup-only/)

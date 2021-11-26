@@ -2,7 +2,11 @@
 
 > Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. [Stake my SOL](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) (bought with [FTX](https://ftx.com/referrals#a=58425911)) with [Marinade](https://marinade.finance/app/staking) & [Phantom Wallet](https://phantom.app/). mSOL I get from Marinade is [pooled](https://www.youtube.com/watch?v=cizLhxSKrAc&t=32s) with [Orca](https://www.orca.so/) ([tutorial](https://www.youtube.com/watch?v=GNgSzJ4KxZg)).
+Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana.
+
+I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/)). I then [stake](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) it with [Marinade](https://marinade.finance/app/staking) & use mSOL I get to add it [liquidity pool in Marinade](https://marinade.finance/app/mnde) (MSOL-SOL LP). If I need liquidity in real world, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out.
+
+Until you can purchase ownership of stocks with blockchain, I buy [stocks/ETFs](../../economy/investing.md) with [Interactive Brokers](https://ibkr.com/referral/nikita206).
 
 ## Apps
 
@@ -169,3 +173,7 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 - [vipers](https://github.com/saber-hq/vipers) - Assorted checks and validations for writing safer Solana programs.
 - [Why You Should Build Your DeFi Dapp Using Anchor (2021)](https://www.youtube.com/watch?v=725ddOvfWjk)
 - [anchor-go](https://github.com/gagliardetto/anchor-go) - Generate Go clients from anchor IDLs for Solana blockchain programs.
+- [Solana Validator 101: Transaction Processing (2021)](https://jito-labs.medium.com/solana-validator-101-transaction-processing-90bcdc271143)
+- [All the different parts of a Solana transaction](https://twitter.com/pencilflip/status/1463284754841681920)
+- [Mango v3 Client Library](https://github.com/blockworks-foundation/mango-client-v3)
+- [Solana Cookbook](https://solanacookbook.com/recipes/getting-started.html#install-web3js) ([Code](https://github.com/solana-dev-adv/solana-cookbook))

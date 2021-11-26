@@ -154,3 +154,4 @@
 - [jupyterlab-nvdashboard](https://github.com/rapidsai/jupyterlab-nvdashboard) - JupyterLab extension for displaying GPU usage dashboards.
 - [CFD Python](https://github.com/barbagroup/CFDPython) - Sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes".
 - [nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks.
+- [Naas](https://github.com/jupyter-naas/naas) - Open-source, it transforms Jupyter Notebooks in a safe production environment thanks to micro-services. ([Web](https://www.naas.ai/))

@@ -21,3 +21,4 @@
 - [Holdem](https://holdem.fun/#/) - Lightweight Texas Hold'em Poker Game in Clojure. ([Code](https://github.com/DogLooksGood/holdem?))
 - [How To Play Poker (And Beat Your Friends) (2021)](https://www.coreyhaines.co/blog/poker)
 - [Poker Now](https://www.pokernow.club/) - Poker with Friends.
+- [poker-engine](https://github.com/chevtek/poker-engine) - Headless no-limit Texas Hold'em engine written completely in node.

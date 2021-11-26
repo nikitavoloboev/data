@@ -99,3 +99,7 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Noteworthy](https://github.com/SeaDve/Noteworthy) - Modern, Fast, and Version-Controlled Markdown Notes App.
 - [safe-marked](https://github.com/azu/safe-marked) - Markdown to HTML using marked and DOMPurify.
 - [markdown-function](https://github.com/azu/markdown-function) - Markdown builder functions.
+- [tree-sitter-markdown](https://github.com/MDeiml/tree-sitter-markdown) - Markdown parser for tree-sitter.
+- [Specify theme context for images in Markdown (2021)](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/)
+- [md-block](https://github.com/LeaVerou/md-block) - Custom element for rendering stylable (light DOM) Markdown. ([Article](https://lea.verou.me/2021/11/on-yak-shaving-and-md-block-an-html-element-for-markdown/))
+- [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown.

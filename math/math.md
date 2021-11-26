@@ -320,3 +320,5 @@
 - [A friendly introduction to Principal Component Analysis (2020)](http://peterbloem.nl/blog/pca)
 - [In simple English, what does it mean to be transcendental? (2021)](https://blog.plover.com/2021/11/18/#transcendental) ([Lobsters](https://lobste.rs/s/xo4tcg/simple_english_what_does_it_mean_be))
 - [Introduction to stacks and moduli (2021)](https://sites.math.washington.edu/~jarod/math582C.html)
+- [Mathematics and Computation Blog](http://math.andrej.com/) ([Code](https://github.com/andrejbauer/mathematics-and-computation))
+- [Ask HN: How did you learn math notation? (2021)](https://news.ycombinator.com/item?id=29341152)

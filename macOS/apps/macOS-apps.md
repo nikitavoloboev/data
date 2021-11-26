@@ -159,6 +159,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Lunar](https://lunar.fyi/) - Control your monitors.
 - [Keystroke Pro](https://ixeau.com/keystroke-pro/) - Visualize Your Keypresses.
 - [Pulse](https://kean.blog/pulse/home) - Network Inspector and Logger for Apple Platforms. ([Twitter](https://twitter.com/PulseLogger))
+- [Keka](https://www.keka.io/en/) - macOS file archiver. ([Twitter](https://twitter.com/kekaosx))
 
 ## Links
 

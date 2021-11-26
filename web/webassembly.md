@@ -220,3 +220,5 @@
 - [wasm-streams](https://github.com/MattiasBuelens/wasm-streams) - Bridging between web streams and Rust streams using WebAssembly.
 - [Module Linking proposal](https://github.com/WebAssembly/module-linking) - Proposal for allowing modules to define, import and export modules and instances.
 - [Subwasm](https://github.com/chevdor/subwasm) - CLI utility to help you know more about WASM Runtimes.
+- [js-wasm](https://github.com/richardanaya/js-wasm) - JavaScript-WebAssembly interop library for C, Rust, Assemblyscript.
+- [wasm-pack-template](https://github.com/rustwasm/wasm-pack-template) - Template for kick starting a Rust and WebAssembly project using wasm-pack.

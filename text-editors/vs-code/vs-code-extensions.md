@@ -158,6 +158,7 @@ Below is a list of extensions I use.
 - [Dendron](https://marketplace.visualstudio.com/items?itemName=dendron.dendron) - Hierarchal note taking tool that grows as you do.
 - [CodeStream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) - Developer collaboration.
 - [Liquid](https://marketplace.visualstudio.com/items?itemName=sissel.shopify-liquid) - Liquid language support for VS Code. ([Code](https://github.com/panoply/vscode-liquid))
+- [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx) - VSCode emacs keybinding with multi cursor support. ([Code](https://github.com/whitphx/vscode-emacs-mcx))
 
 ## Shell
 

@@ -5,6 +5,7 @@
 - [Fathom](https://app.usefathom.com/register)
 - [Monica](https://www.monicahq.com/pricing)
 - [Splitbee](https://splitbee.io/pricing)
+- [BlackMagic.so](https://blackmagic.so/membership/) - Shows GIFs on hover for each pricing point. ([Tweet](https://twitter.com/tdinh_me/status/1464105494008635396))
 - [Reflect's billing page includes a letter from the team](https://twitter.com/maccaw/status/1437208734929850369)
 
 ## Notes

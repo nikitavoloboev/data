@@ -64,3 +64,5 @@
 - [OpenAPI fuzzer](https://github.com/matusf/openapi-fuzzer) - Fuzzing APIs based on OpenAPI specification. ([HN](https://news.ycombinator.com/item?id=29231804))
 - [FuzzBench](https://github.com/google/fuzzbench) - Fuzzer Benchmarking As a Service. ([Docs](https://google.github.io/fuzzbench/))
 - [Blacksmith Rowhammer Fuzzer](https://github.com/comsec-group/blacksmith) - Crafts novel non-uniform Rowhammer access patterns based on the concepts of frequency, phase, and amplitude.
+- [Fuzzing](https://github.com/palekh/fuzzing) - Tool set for fuzz and stress testing your functions.
+- [Recent Papers Related To Fuzzing](https://github.com/wcventure/FuzzingPaper)

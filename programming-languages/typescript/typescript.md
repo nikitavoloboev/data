@@ -1,6 +1,6 @@
 # [TypeScript](https://www.typescriptlang.org/)
 
-[TS Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html) and [this article](https://toddmotto.com/typescript-introduction) are great intros.
+[TS Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html) and [this article](https://toddmotto.com/typescript-introduction) are great intros. [Execute Program](https://www.executeprogram.com/) is amazing too.
 
 ## Notes
 
@@ -200,6 +200,7 @@
 - [Speed up your TypeScript monorepo with esbuild (2021)](https://mmazzarolo.com/blog/2021-11-06-speed-up-your-typescript-monorepo-with-esbuild/)
 - [Tame VSCode autoimports in a TS monorepo](https://github.com/nandorojo/ts-monorepo-autoimport-guide)
 - [StaticScript](https://github.com/ovr/StaticScript) - TypeScript compiler on top of TypeScript as frontend and LLVM as backend.
+- [tsplay.dev](https://tsplay-dev.vercel.app/) - TypeScript Playground Shortener. ([Code](https://github.com/gillchristian/tsplay.dev))
 
 ## Images
 

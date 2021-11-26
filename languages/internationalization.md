@@ -32,3 +32,4 @@
 - [Nano Stores I18n](https://github.com/nanostores/i18n) - Tiny and flexible JS library to make your web application translatable.
 - [Arisu](https://github.com/auguwu/Arisu) - Translation made with simplicity, yet robust. In TypeScript.
 - [Awesome i18n](https://github.com/jpomykala/awesome-i18n)
+- [Weblate](https://weblate.org/en/) - Web-based localization. ([Code](https://github.com/WeblateOrg/weblate))

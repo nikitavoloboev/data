@@ -64,6 +64,7 @@
 - [SOCI](https://github.com/SOCI/soci) - C++ Database Access Library.
 - [taoPQ](https://github.com/taocpp/taopq) - C++ client library for PostgreSQL.
 - [Velox](https://github.com/facebookincubator/velox) - C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
+- [Supersonic](https://github.com/google/supersonic) - Ultra-fast, column oriented query engine library written in C++.
 
 ## Crypto
 
@@ -291,6 +292,10 @@
 - [libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11.
 - [xatlas](https://github.com/jpcy/xatlas) - Mesh parameterization / UV unwrapping library.
 - [ohm](https://github.com/csiro-robotics/ohm) - Efficient, extensible occupancy map supporting probabilistic occupancy, normal distribution transforms in CPU and GPU.
+- [Flecs](https://github.com/SanderMertens/flecs) - Fast entity component system (ECS) for C & C++.
+- [Caches](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation.
+- [SML](https://github.com/boost-ext/sml) - C++14 State Machine Library.
+- [Kokkos](https://github.com/kokkos/kokkos) - Programming model in C++ for writing performance portable applications targeting all major HPC platforms.
 
 ## Links
 

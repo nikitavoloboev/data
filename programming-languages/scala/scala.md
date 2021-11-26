@@ -113,3 +113,4 @@
 - [Scala Center at EPFL](https://scala.epfl.ch/) ([Web Code](https://github.com/scala/scala.epfl.ch))
 - [What's the name of that operator/symbol/syntax/thing, for Scala](https://github.com/andyscott/scala-whats-that-called)
 - [Debugging and Observing Your Scala Code - Will Sargent (2021)](https://www.youtube.com/watch?v=wPpyWz2zEmM)
+- [Shapeless 3 and type class derivation in Scala 3 - Miles Sabin (2021)](https://www.youtube.com/watch?v=CFyypCbLRAo)

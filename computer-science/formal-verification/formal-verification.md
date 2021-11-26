@@ -96,3 +96,4 @@
 - [Simple proof checker in OCaml](https://github.com/neel-krishnaswami/proof-checker)
 - [Provably-correct versions of Leftpad](https://github.com/hwayne/lets-prove-leftpad)
 - [Structured derivations: a unified proof style for teaching mathematics](https://hal.archives-ouvertes.fr/hal-00540025) ([Tweet](https://twitter.com/brendanzab/status/1462560273554821121))
+- [Gospel](https://github.com/ocaml-gospel/gospel) - Tool-agnostic formal specification language for OCaml. ([Docs](https://ocaml-gospel.github.io/gospel/))

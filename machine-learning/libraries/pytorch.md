@@ -305,3 +305,4 @@
 - [PyTorch Batched SVD](https://github.com/KinglittleQ/torch-batch-svd) - 100x faster SVD for PyTorch.
 - [PyTorch Adapt](https://github.com/KevinMusgrave/pytorch-adapt) - Modular domain adaptation library written in PyTorch.
 - [Torch Memory-adaptive Algorithms (TOMA)](https://github.com/BlackHC/toma) - Helps you write algorithms in PyTorch that adapt to the available (CUDA) memory.
+- [Bayesian-Torch](https://github.com/IntelLabs/bayesian-torch) - Bayesian neural network layers for uncertainty estimation.

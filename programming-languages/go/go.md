@@ -119,7 +119,7 @@ if err != nil {
 - [Retool](https://github.com/twitchtv/retool) - Vendoring for executables written in Go.
 - [Why Go? – Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python/)
 - [Go Creeping In (2019)](https://www.tbray.org/ongoing/When/201x/2019/06/12/Go-Creeping-In) ([HN](https://news.ycombinator.com/item?id=20210850))
-- [Getting to Go: The Journey of Go's Garbage Collector (2018)](https://blog.golang.org/ismmkeynote)
+- [Getting to Go: The Journey of Go's Garbage Collector (2018)](https://go.dev/blog/ismmkeynote)
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article) - Reference for the Go community that aims to help developers write cleaner code.
 - [Go Language Server](https://github.com/sourcegraph/go-langserver) - Adds Go support to editors and other tools that use the Language Server Protocol (LSP).
 - [Go talks](https://github.com/golang/talks)
@@ -626,4 +626,12 @@ if err != nil {
 - [Writing an application using Go and PostgreSQL (2021)](https://henvic.dev/posts/go-postgres/) ([HN](https://news.ycombinator.com/item?id=29311632))
 - [Go Playground](https://go.dev/play/)
 - [Go Play Space](https://goplay.space/) - Advanced Go Playground frontend written in Go, with syntax highlighting, turtle graphics mode, and more. ([Code](https://github.com/iafan/goplayspace))
-- [Go Does Not Need a Java Style GC (2021)](https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60) ([HN](https://news.ycombinator.com/item?id=29319160))
+- [Go Does Not Need a Java Style GC (2021)](https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60) ([HN](https://news.ycombinator.com/item?id=29319160)) ([Reddit](https://www.reddit.com/r/golang/comments/r1g14g/go_does_not_need_a_java_style_gc/))
+- [Golang 1.18: What You Need To Know (2021)](https://betterprogramming.pub/golang-1-18-what-you-need-to-know-a5701f7e14ab) ([Reddit](https://www.reddit.com/r/golang/comments/r0hwvn/golang_118_what_you_need_to_know/))
+- [Practical SOLID in Go series](https://levelup.gitconnected.com/practical-solid-in-golang-single-responsibility-principle-20afb8643483)
+- [Practical DDD in Go series](https://levelup.gitconnected.com/practical-ddd-in-golang-value-object-4fc97bcad70)
+- [GOOS=libc](https://github.com/hajimehoshi/gooslibc)
+- [Faster software through register based calling (2021)](https://menno.io/posts/golang-register-calling/) ([Lobsters](https://lobste.rs/s/anqgcy/faster_software_through_register_based)) ([HN](https://news.ycombinator.com/item?id=29316415))
+- [Property-Based Testing In Go (2021)](https://earthly.dev/blog/property-based-testing/) ([Reddit](https://www.reddit.com/r/golang/comments/r2qm3e/propertybased_testing_in_go/))
+- [golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver)
+- [Demo app showing an end-to-end CI pipeline with Github Actions, goreleaser and ko](https://github.com/embano1/ci-demo-app)

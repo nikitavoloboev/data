@@ -53,3 +53,4 @@
 - [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
 - [DNWebSocket](https://github.com/GlebRadchenko/DNWebSocket) - WebSocket(RFC-6455) library written using Swift.
 - [localfirst/relay](https://github.com/local-first-web/relay) - Tiny relay server that bridges two WebSocket connections, allowing the clients to talk directly to each other.
+- [Bidirectional Server-sent Events](https://github.com/WebReflection/bidi-sse)

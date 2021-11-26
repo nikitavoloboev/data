@@ -76,3 +76,5 @@ Match all that don't have notes or twitter in input
 - [Regex-like domain-specific language for pattern matching syntax trees](https://github.com/fkohlgrueber/pattern-matching)
 - [rxe](https://github.com/mtrencseni/rxe) - Literate and composable regular expressions.
 - [Recognize Regex Easily (2020)](https://dev.to/jamland/recognize-regex-easily-4k5i)
+- [Regex literals optimization (2020)](https://nitely.github.io/2020/11/30/regex-literals-optimization.html)
+- [A DFA for submatches extraction (2020)](https://nitely.github.io/2020/01/19/a-dfa-for-submatches-extraction.html)

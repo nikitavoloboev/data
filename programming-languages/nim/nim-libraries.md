@@ -4,6 +4,7 @@
 
 - [Prologue](https://github.com/planety/prologue) - Full-Stack Web Framework which is ideal for building elegant and high performance web services. ([HN](https://news.ycombinator.com/item?id=24846828))
 - [Rosencrantz](https://github.com/andreaferretti/rosencrantz) - DSL to write web servers.
+- [nim-libp2p](https://github.com/status-im/nim-libp2p) - libp2p implementation in Nim.
 
 ## Math
 
@@ -30,6 +31,9 @@
 - [cinterop](https://github.com/n0bra1n3r/cinterop) - C/C++ interop library for Nim.
 - [nimly](https://github.com/loloicci/nimly) - Lexer Generator and Parser Generator as a Library in Nim.
 - [Nimscripter](https://github.com/beef331/nimscripter) - Quick and easy Nim <-> Nimscript interop.
+- [nimpy](https://github.com/yglukhov/nimpy) - Native language integration with Python.
+- [Regex](https://github.com/nitely/nim-regex) - Pure Nim regex engine. Guarantees linear time matching.
+- [nim-plotly](https://github.com/SciNim/nim-plotly) - Plotly wrapper for Nim.
 
 ## Links
 

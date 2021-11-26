@@ -93,7 +93,7 @@
 - [llvm-hs](https://github.com/llvm-hs/llvm-hs) - Haskell bindings for LLVM.
 - [Releaser](https://github.com/domenkozar/releaser) - Automation of Haskell package release process.
 - [CodeWorld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell.
-- [Summoner](https://github.com/kowainik/summoner) - Tool for scaffolding batteries-included production-level Haskell projects.
+- [Summoner](https://github.com/kowainik/summoner) - Tool for scaffolding batteries-included production-level Haskell projects. ([Web](https://kowainik.github.io/projects/summoner))
 - ["Building Haskell Programs with Fused Effects" by Patrick Thomson (2019)](https://www.youtube.com/watch?v=vfDazZfxlNs)
 - [Haste Compiler](https://github.com/valderman/haste-compiler) - GHC-based Haskell to JavaScript compiler.
 - [What is Good About Haskell? (2019)](https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html) ([HN](https://news.ycombinator.com/item?id=21145014))
@@ -345,3 +345,5 @@
 - [Median Heaps in Haskell (2021)](https://www.micahcantor.com/blog/median-heap-haskell/)
 - [Solving a few Leetcode questions in Haskell (2021)](https://www.micahcantor.com/blog/haskell-leetcode/)
 - [Learn Haskell, without the bullshit](https://github.com/alpacaaa/zero-bullshit-haskell)
+- [The Varieties of the Haskelling Experience (2021)](https://www.tweag.io/blog/2021-11-25-varieties-of-haskelling-experience/)
+- [What's current best practice for starting a project with Haskell? (2021)](https://www.reddit.com/r/haskell/comments/r2rir2/whats_current_best_practice_for_starting_a/)

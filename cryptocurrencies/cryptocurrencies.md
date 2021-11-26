@@ -115,7 +115,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [All Cryptos by Year/Month](https://washingtonindependent.com/all-cryptos-by-year-month/)
 - [Rafiki](https://github.com/coilhq/rafiki) - Open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
 - [Proof of stake will not save us (2021)](https://www.somethinginteresting.news/p/proof-of-stake-will-not-save-us) - Proof-of-stake doesn't eliminate costs it only makes them harder to reason about. ([Tweet](https://twitter.com/knifefight/status/1398063621251366915))
-- [Mango Markets](https://mango.markets/) - Decentralized, cross-margin trading. ([Code](https://github.com/blockworks-foundation/mango))
+- [Mango Markets](https://mango.markets/) - Decentralized, cross-margin trading. ([Code](https://github.com/blockworks-foundation/mango)) ([Daffy Durairaj Interview](https://www.youtube.com/watch?v=UjeKpc-Y31E))
 - [Index Coop](https://www.indexcoop.com/) - Community-led initiative focused on enabling the creation and adoption of crypto index primitives.
 - [binance-rs](https://github.com/wisespace-io/binance-rs) - Rust Library for the Binance API.
 - [Hedgehog](https://hedgehog.app/) - Cryptocurrency Portfolio Manager. ([HN](https://news.ycombinator.com/item?id=27550255))
@@ -194,3 +194,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [How to Get Into Crypto and Web3 as a Developer (2021)](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - [DarkFi](https://dark.fi/) - Anonymous DeFi network. ([Code](https://github.com/darkrenaissance/darkfi))
 - [Tuned](https://www.tuned.com/) - Build advanced crypto trading bots. ([HN](https://news.ycombinator.com/item?id=29318163))
+- [Jump Crypto](https://jumpcrypto.com/) - Building the next frontier in crypto infrastructure. ([Twitter](https://twitter.com/JumpCryptoHQ))
+- [Post-2016 crypto classics](https://twitter.com/mattigags/status/1463430142081093641)
+- [Crypto design challenges (2021)](https://paulstamatiou.com/crypto-design-challenges/)
+- [Snapshot](https://snapshot.org/#/) - Off-chain gasless multi-governance client. ([Code](https://github.com/snapshot-labs/snapshot))

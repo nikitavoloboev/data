@@ -101,3 +101,4 @@
 - [GADTs - Real World OCaml](https://dev.realworldocaml.org/gadts.html) ([Tweet](https://twitter.com/yminsky/status/1456745330104492045))
 - [Exercism exercises in OCaml](https://exercism.org/tracks/ocaml) ([Code](https://github.com/exercism/ocaml))
 - [Robur](https://robur.coop/) - Software development cooperative specializing in robust and secure digital infrastructure written in OCaml. ([GitHub](https://github.com/roburio))
+- [OCaml plus Jane Street extensions](https://github.com/ocaml-flambda/ocaml-jst)

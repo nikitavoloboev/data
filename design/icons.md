@@ -101,3 +101,6 @@
 - [codicon](https://microsoft.github.io/vscode-codicons/dist/codicon.html) - Icon font for Visual Studio Code. ([Code](https://github.com/microsoft/vscode-codicons))
 - [The App Icon Book](https://www.appiconbook.com/)
 - [IcoMoon](https://icomoon.io/) - Icon Font & SVG Icon Sets. ([Code](https://github.com/Keyamoon/IcoMoon-Free))
+- [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web..
+- [FlagKit for React](https://github.com/umidbekk/react-flag-kit)
+- [Designing the Finder App Icon with Photoshop (2021)](https://www.youtube.com/watch?v=8nP5GgJ5CXg)

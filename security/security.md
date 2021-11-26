@@ -231,3 +231,6 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [ZLint](https://github.com/zmap/zlint) - X.509 Certificate Linter focused on Web PKI standards and requirements.
 - [Exploiting the Qualcomm NPU (neural processing unit) kernel driver (2021)](https://securitylab.github.com/research/qualcomm_npu/)
 - [In-House CA](https://github.com/paurkedal/inhca) - Simple online X.509 certificate authority.
+- [Caido](https://caido.io/) - Lightweight Web Security Auditing Toolkit.
+- [Personal Zero-Trust HashiCorp Vault](https://github.com/eidam/personal-zero-trust-hashicorp-vault) ([Tweet](https://twitter.com/adam_janis/status/1463591750069538818))
+- [extrude](https://github.com/liamg/extrude) - Scan binaries for missing security features, information disclosure and more.

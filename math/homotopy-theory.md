@@ -37,3 +37,4 @@
 - [Univalent Foundations of Mathematics Links](https://www.math.ias.edu/~vladimir/Site3/Univalent_Foundations.html)
 - [Foundations](https://github.com/UniMath/Foundations) - Univalent foundations of mathematics in Coq.
 - [Learning Material for Univalent Mathematics and the UniMath library](https://github.com/UniMath/Schools)
+- [The HoTT Game](https://github.com/thehottgame/TheHoTTGame)

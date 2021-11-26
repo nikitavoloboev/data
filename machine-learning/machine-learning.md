@@ -606,3 +606,4 @@
 - [Facebook AI Similarity Search (Faiss)](https://www.pinecone.io/learn/faiss-tutorial/) ([HN](https://news.ycombinator.com/item?id=29291047))
 - [Combined Scaling for Zero-shot Transfer Learning (2021)](https://arxiv.org/abs/2111.10050)
 - [Awesome Distributed Deep Learning](https://github.com/bharathgs/Awesome-Distributed-Deep-Learning)
+- [Neuro Evolution Of Augmented Topologies (2021)](https://fev.al/posts/neat/) ([HN](https://news.ycombinator.com/item?id=29296158))

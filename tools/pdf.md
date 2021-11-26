@@ -18,3 +18,4 @@
 - [Make any PDF look like scanned](https://www.scanyourpdf.com/) ([Code](https://github.com/baicunko/scanyourpdf)) ([CLI](https://github.com/apurvmishra99/pdf-to-scan))
 - [TPPDF](https://github.com/techprimate/TPPDF) - Fast PDF builder for iOS & macOS using simple commands to create advanced documents.
 - [PDF-Lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment. ([Docs](https://pdf-lib.js.org/))
+- [PDF to CSV converter](https://github.com/SahilChoudhary22/pdf2csv-converter)

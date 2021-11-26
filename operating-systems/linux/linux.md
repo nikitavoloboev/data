@@ -420,3 +420,8 @@
 - [Distro Chooser](https://distrochooser.de/) - Test to help you choose a suitable Linux distribution. ([Code](https://github.com/distrochooser/distrochooser))
 - [An intro to finding things in Linux (2021)](https://www.madebygps.com/an-intro-to-finding-things-in-linux/) ([HN](https://news.ycombinator.com/item?id=29292830))
 - [ipftrace2](https://github.com/YutaroHayakawa/ipftrace2) - Packet oriented Linux kernel function call tracer.
+- [Reliably allocating huge pages in Linux (2021)](https://mazzo.li/posts/check-huge-page.html) ([Lobsters](https://lobste.rs/s/upbigm/reliably_allocating_huge_pages_linux))
+- [Flatpak Is Not the Future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future) ([Lobsters](https://lobste.rs/s/ljsx5r/flatpak_is_not_future)) ([HN](https://news.ycombinator.com/item?id=29316024))
+- [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux.
+- [Amazon Linux 2022](https://aws.amazon.com/linux/amazon-linux-2022/) ([HN](https://news.ycombinator.com/item?id=29343255))
+- [systemd by example (2021)](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)

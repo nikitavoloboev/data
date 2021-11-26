@@ -33,3 +33,4 @@
 - [Homebrew bump formula GitHub Action](https://github.com/dawidd6/action-homebrew-bump-formula)
 - [Ask HN: Best Alternative to Homebrew in 2021?](https://news.ycombinator.com/item?id=29079096)
 - [homebrew-rmtree](https://github.com/beeftornado/homebrew-rmtree) - Remove a formula and its unused dependencies.
+- [homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions) - Alternate versions of Casks.

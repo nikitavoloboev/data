@@ -34,3 +34,4 @@
 - [Arduino core for ESP8266 WiFi chip](https://github.com/esp8266/Arduino)
 - [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - Small Arduino library for GSM modules, that just works.
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - JSON library for Arduino and embedded C++. Simple and efficient.
+- [ESP8266 Deauther Version 2](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning.

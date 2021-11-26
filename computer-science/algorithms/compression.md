@@ -82,3 +82,12 @@
 - [miniz_oxide](https://github.com/Frommi/miniz_oxide) - Rust replacement for the miniz deflate/zlib encoder/decoder.
 - [Hop](https://github.com/Jarred-Sumner/hop) - 25x faster than unzip and 10x faster than tar at reading individual files. ([HN](https://news.ycombinator.com/item?id=29178710))
 - [Buzon](https://github.com/BuzonIO/zipfly) - Writing large ZIP archives without memory inflation. ([HN](https://news.ycombinator.com/item?id=29291381))
+- [QOI: Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression) ([Tweet](https://twitter.com/phoboslab/status/1463451635540180992)) ([HN](https://news.ycombinator.com/item?id=29328750)) ([Code](https://github.com/phoboslab/qoi)) ([Lobsters](https://lobste.rs/s/1hafjp/lossless_image_compression_o_n_time))
+- [qoi_rs](https://github.com/whentze/qoi_rs) - Rust port of the Quite Okay Image format.
+- [qoi](https://github.com/steven-joruk/qoi) - Rust implementation of the “Quite OK Image” format for fast, lossless image compression.
+- [zig-qoi](https://github.com/MasterQ32/zig-qoi) - Implementation of the Quite-OK-Image format for Zig.
+- [Implementing zip archiving in Golang: unzipping (2021)](https://notes.eatonphil.com/implementing-zip-in-go-unzipping.html) ([Lobsters](https://lobste.rs/s/0vrgbm/implementing_zip_archiving_golang))
+- [lz-fear](https://github.com/main--/rust-lz-fear) - Fast pure-rust no-unsafe implementation of LZ4 compression and decompression.
+- [Decompressing a Gzip File by Hand](https://ttay.me/blog/gzip_investigations/) ([HN](https://news.ycombinator.com/item?id=29336271))
+- [librsync](https://github.com/librsync/librsync) - Remote delta-compression library.
+- [Quantile Compression](https://github.com/mwlon/quantile-compression) - Lossless compressor and decompressor for numerical data using quantiles. ([Reddit](https://www.reddit.com/r/rust/comments/r2oinm/quantile_compression_qcompress_a_new_compression/)) ([Article](https://graphallthethings.com/posts/quantile-compression))

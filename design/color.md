@@ -106,3 +106,4 @@
 - [A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH (2021)](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
 - [Inkspot](https://github.com/rm-hull/inkspot) - Small Clojure/ClojureScript library for creating color swatches.
 - [Dynamic Color Manipulation with CSS Relative Colors (2021)](https://blog.jim-nielsen.com/2021/css-relative-colors/) ([Tweet](https://twitter.com/stefanjudis/status/1463075616375377922))
+- [Every Color Picker](https://everycolorpicker.com/) - Color picker components. Framework independent. ([Code](https://github.com/pshihn/every-color-picker))

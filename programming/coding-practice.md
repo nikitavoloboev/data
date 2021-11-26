@@ -40,6 +40,7 @@
 - [JS](https://github.com/suguru03/leetcode)
 - [Solve LeetCode problems in VS Code](https://github.com/LeetCode-OpenSource/vscode-leetcode)
 - [LeetCode Solutions Explained](https://beizhedenglong.github.io/leetcode-solutions/docs/two-sum) ([Code](https://github.com/beizhedenglong/leetcode-site-generator))
+- [Algos & Data Structures for Leetcode](https://github.com/the2pizza/to-the-moon)
 
 ## Project Euler solutions
 
@@ -47,6 +48,7 @@
 - [Python](https://github.com/davidnsun/project-euler-py)
 - [Python](https://johnloeber.com/docs/projecteuler.html)
 - [Haskell](https://github.com/yfeldblum/haskell-euler)
+- [Haskell 2](https://github.com/DrearyLisper/project-euler)
 - [Python, Haskell](https://github.com/zacharydenton/euler)
 - [Java, Python, Mathematica, Haskell](https://github.com/nayuki/Project-Euler-solutions)
 

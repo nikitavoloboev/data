@@ -93,3 +93,5 @@
 - [How highly effective mRNA vaccines work (nice visual) (2021)](https://twitter.com/SamIAm2021MD/status/1459051952831189013)
 - [Chemical composition of the mRNA vaccines (2021)](https://twitter.com/ENirenberg/status/1460107641481531392)
 - [Python-for-Epidemiologists Course](https://github.com/pzivich/Python-for-Epidemiologists)
+- [Heavily mutated coronavirus variant puts scientists on alert (2021)](https://www.nature.com/articles/d41586-021-03552-w) ([HN](https://news.ycombinator.com/item?id=29345194))
+- [pangolin](https://github.com/cov-lineages/pangolin) - Software package for assigning SARS-CoV-2 genome sequences to global lineages.

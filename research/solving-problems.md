@@ -92,3 +92,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [How to think like a detective (2021)](https://psyche.co/guides/how-to-solve-problems-by-thinking-like-a-detective) ([HN](https://news.ycombinator.com/item?id=28902211))
 - [Elon Musk's 5-Step Protocol for Successful Engineering (2021)](https://insideevs.com/news/526954/elon-musk-5-steps-success/)
 - [The programmer's brain in the lands of exploration and production (2021)](http://veekaybee.github.io/2021/11/07/typed-pipe/)
+- [System Dynamics: Systems Thinking and Modeling for a Complex World (2020)](https://www.youtube.com/watch?v=o-Yp8A7BPE8)

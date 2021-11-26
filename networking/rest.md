@@ -34,3 +34,4 @@
 - [REST Book](https://github.com/tanhakabir/rest-book) - VSCode Extension that allows you to perform REST calls in a Notebook interface.
 - [caffeine](https://github.com/rehacktive/caffeine) - Very basic REST service for JSON data - enough for prototyping and MVPs. In Go. ([HN](https://news.ycombinator.com/item?id=29238563))
 - [Restly](https://github.com/brokenhandsio/Restly) - Simple open source REST client for macOS, iOS and iPadOS.
+- [What are the REST API reference projects that can be used as a guide in 2021?](https://www.reddit.com/r/golang/comments/r11ime/what_are_the_rest_api_reference_projects_that_can/)

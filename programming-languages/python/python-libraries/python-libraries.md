@@ -18,6 +18,7 @@
 - [Flask-Marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Thin integration layer for Flask and marshmallow.
 - [python-proxy](https://github.com/qwj/python-proxy) - HTTP/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python3 asyncio.
 - [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses. ([Web](https://strawberry.rocks/))
+- [EasyAuth](https://github.com/codemation/easyauth) - Create a centralized Authentication and Authorization token server.
 - [FastAPI Cloud Auth](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) - Ready-to-use and customizable users management for FastAPI.
 - [fastapi-cache](https://github.com/long2ice/fastapi-cache) - Tool to cache fastapi response and function result, with backends support redis and memcache.
@@ -563,6 +564,10 @@
 - [whey](https://github.com/repo-helper/whey) - Simple Python wheel builder for simple projects.
 - [zeus](https://github.com/minaskar/zeus) - Python implementation of the Ensemble Slice Sampling method.
 - [PyTraits](https://github.com/xrudelis/pytrait) - Traits for Python3. ([HN](https://news.ycombinator.com/item?id=29299210))
+- [Transforms3d](https://github.com/matthew-brett/transforms3d) - 3 dimensional spatial transformations.
+- [dill](https://github.com/uqfoundation/dill) - Extends python's pickle module for serializing and de-serializing python objects to the majority of the built-in python types.
+- [mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization framework on top of dataclasses.
+- [msgspec](https://github.com/jcrist/msgspec) - Fast and friendly MessagePack library for Python.
 
 ## Links
 
@@ -610,3 +615,6 @@
 - [Speed up your Conda installs with Mamba (2021)](https://pythonspeed.com/articles/faster-conda-install/)
 - [pip-tools](https://github.com/jazzband/pip-tools) - Set of tools to keep your pinned Python dependencies fresh.
 - [devpi](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
+- [Python Semantic Release](https://github.com/relekang/python-semantic-release) - Automatic semantic versioning for python projects.
+- [Blueprint/Boilerplate For Python Projects](https://github.com/MartinHeinz/python-project-blueprint)
+- [Customize Python dependency resolution with machine learning (2021)](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning#)

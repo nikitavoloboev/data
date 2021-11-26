@@ -71,3 +71,7 @@
 - [bustd](https://github.com/pop-os/bustd) - Lightweight process killer daemon for out-of-memory scenarios for Linux.
 - [What's a Memory Allocator Anyway? - Benjamin Feng (2021)](https://www.youtube.com/watch?v=vHWiDx_l4V0)
 - [The Garbage Collection Handbook: The art of automatic memory management (2020)](https://gchandbook.org/)
+- [memflow](https://github.com/memflow/memflow) - Physical memory introspection framework. ([Web](https://memflow.github.io/#/home))
+- [scanflow](https://github.com/memflow/scanflow) - Comprehensive memory scanning library based on memflow.
+- [tinyalloc](https://github.com/thi-ng/tinyalloc) - Replacement for malloc / free in unmanaged, linear memory situations, e.g. WASM and embedded devices.
+- [gcmodule](https://github.com/quark-zju/gcmodule) - Garbage collection for Rust inspired by CPython's gcmodule.

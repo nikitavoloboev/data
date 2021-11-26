@@ -30,3 +30,5 @@
 - [From tech founder to CEO (2020)](https://oliviercorradi.com/blog/from-tech-founder-to-ceo/)
 - [How to crash an airplane – Nickolas Means (2016)](https://www.youtube.com/watch?v=099cHWSbAL8)
 - [Leadership Program - Ascend](https://weascend.co/)
+- [Webflow Tech Lead Guide](https://github.com/webflow/leadership/blob/master/tech_lead.md)
+- [Ask HN: I’d like to hire a personal/executive assistant – any tips or advice? (2021)](https://news.ycombinator.com/item?id=29336234)

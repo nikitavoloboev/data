@@ -212,6 +212,9 @@
 - [tinykeys](https://github.com/jamiebuilds/tinykeys) - Tiny (~400 B) & modern library for keybindings.
 - [Algebraify](https://github.com/Protowalker/algebraify) - Algebraic effects library for JS and TS using generators.
 - [defu](https://github.com/unjs/defu) - Assign default properties, recursively.
+- [FxTS](https://github.com/marpple/FxTS) - Functional library for TypeScript/JavaScript programmers. ([Web](https://fxts.dev/))
+- [tsconfck](https://github.com/dominikg/tsconfck) - Utility to find and parse tsconfig files without depending on typescript.
+- [proxy-compare](https://github.com/dai-shi/proxy-compare) - Compare two objects using accessed properties with Proxy.
 
 ## Links
 

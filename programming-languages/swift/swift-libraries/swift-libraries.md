@@ -205,6 +205,7 @@
 - [Useful-Swift-Extensions](https://github.com/narner/Useful-Swift-Extensions) - Personally useful Swift Extensions for iOS Development.
 - [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Custom transition between controllers. Settings controller for your iOS app.
 - [BottomPopup](https://github.com/ergunemr/BottomPopup) - Provides a popup-like presentation style to any view controller.
+- [AudioStreaming](https://github.com/dimitris-c/AudioStreaming) - AudioPlayer/Streaming library for iOS written in Swift using AVAudioEngine.
 
 ## macOS
 

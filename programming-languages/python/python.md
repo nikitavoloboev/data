@@ -388,3 +388,5 @@ for i, _ in enumerate(nums):
 - [Memory Profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code.
 - [Research Software Engineering with Python: Building software that makes research possible (2021)](https://merely-useful.tech/py-rse/)
 - [Static Duck Typing in Python with Protocols (2021)](https://www.daan.fyi/writings/python-protocols) ([HN](https://news.ycombinator.com/item?id=29295535))
+- [flake8-black](https://github.com/peterjc/flake8-black) - flake8 plugin to run black for checking Python coding style.
+- [RestrictedPython](https://github.com/zopefoundation/RestrictedPython) - Restricted execution environment for Python to run untrusted code.

@@ -136,3 +136,5 @@
 - [Why Your Website Should Not Use Dithered Images (2021)](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
 - [Digital Image Processing, 4th Edition Book (2018)](https://www.pearson.com/us/higher-education/program/Gonzalez-Digital-Image-Processing-4th-Edition/PGM241219.html) ([Python Code](https://github.com/merveenoyan/Digital_Image_Processing_Python))
 - [One of these JPEGs is not like the other (2021)](https://blog.benjojo.co.uk/post/not-all-jpegs-are-the-same) ([HN](https://news.ycombinator.com/item?id=29276300))
+- [Pixel It](https://github.com/giventofly/pixelit) - Create pixel art from an image. ([Web](https://giventofly.github.io/pixelit/))
+- [Datamosh](https://github.com/Datamosh-js/datamosh) - Mess around with image data using buffers, create some interesting & artistic results.

@@ -168,3 +168,4 @@
 - [How Learning Works: Components, Systems, and Loops (2021)](https://romandesign.co/how-learning-works-components-systems-and-loops/)
 - [100R — resources](https://100r.co/site/resources.html)
 - [Дмитрий Карловский: слайды для конференций](https://github.com/nin-jin/slides)
+- [Ask HN: I feel so shallow and dumb when I see what other smart people are doing (2021)](https://news.ycombinator.com/item?id=29281468)

@@ -54,3 +54,4 @@
 - [Apple Runtime Headers](https://github.com/LeoNatan/Apple-Runtime-Headers) - Objective-C runtime headers for Apple's iOS, macOS, tvOS and watchOS frameworks.
 - [Twitter Network Layer (TNL)](https://github.com/twitter/ios-twitter-network-layer) - Framework for interfacing with the Apple provided NSURLSession stack that provides additional levels of control and insight over networking requests.
 - [Cocoa Text System (2006)](http://www.hcs.harvard.edu/~jrus/Site/Cocoa%20Text%20System.html) ([HN](https://news.ycombinator.com/item?id=29292918))
+- [J2ObjC](https://developers.google.com/j2objc) - Command-line tool that translates Java to Objective-C. ([HN](https://news.ycombinator.com/item?id=29328678))

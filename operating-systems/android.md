@@ -54,3 +54,5 @@
 - [Android phones are sending significant amount of user data with no opt-out (2021)](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) ([HN](https://news.ycombinator.com/item?id=28830328))
 - [Nix-on-Droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
 - [Ask HN: Why there are no Android mini phones? (2021)](https://news.ycombinator.com/item?id=29287158)
+- [Mavericks](https://github.com/airbnb/mavericks) - Android on Autopilot.
+- [SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android.

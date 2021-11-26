@@ -153,6 +153,8 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [mini.nvim](https://github.com/echasnovski/mini.nvim) - Collection of minimal, independent, and fast Lua modules dedicated to improve Neovim.
 - [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - Blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvim-spectre](https://github.com/windwp/nvim-spectre) - Search panel for neovim.
+- [Fine Command Line](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
+- [Searchbox](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner.
 
 ## Looks
 

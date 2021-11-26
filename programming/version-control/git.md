@@ -443,3 +443,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [ChangeSets – group PRs across multiple Git repos (2021)](https://blog.mergequeue.com/changesets-coordinate-code-changes-across-multiple-repositories/) ([HN](https://news.ycombinator.com/item?id=29256878))
 - [Git ls-files is Faster Than Fd and Find (2021)](https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/)
 - [Nano Staged](https://github.com/usmanyunusov/nano-staged) - Tool to run commands only on git staged files.
+- [Git Plugins](https://github.com/afeld/git-plugins) - Collection of custom git commands.

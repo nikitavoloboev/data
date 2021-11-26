@@ -18,3 +18,4 @@
 - [Questions about global fish stocks, fisheries, overfishing, seafood, state of our oceans (2021)](https://twitter.com/_HannahRitchie/status/1419575591712575493)
 - [A modern, ergonomic Unix shell configuration with Fish (2021)](https://dev.to/yonkeltron/a-modern-ergonomic-unix-shell-configuration-with-fish-4dio)
 - [Hydro](https://github.com/jorgebucaran/hydro) - Ultra-pure, lag-free prompt with async Git status. Designed for Fish.
+- [The fish shell is amazing (2021)](https://rmpr.xyz/the-fish-shell-is-amazing/) ([HN](https://news.ycombinator.com/item?id=29341390)) ([Lobsters](https://lobste.rs/s/pj0byo/fish_shell_is_amazing))

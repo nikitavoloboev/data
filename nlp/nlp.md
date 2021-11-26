@@ -405,3 +405,7 @@
 - [AdaptNLP](https://github.com/Novetta/adaptnlp) - High level framework and library for running, training, and deploying state-of-the-art Natural Language Processing (NLP) models for end to end tasks. ([Docs](https://novetta.github.io/adaptnlp/))
 - [Reading list for Awesome Sentiment Analysis papers](https://github.com/declare-lab/awesome-sentiment-analysis)
 - [Aspect-Based-Sentiment-Analysis: Transformer & Explainable ML (TensorFlow)](https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis)
+- [Deploy optimized transformer based models in production](https://github.com/ELS-RD/transformer-deploy)
+- [PyConverse](https://github.com/AnjanaRita/converse) - Conversational text Analysis using various NLP techniques.
+- [KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks.
+- [RoFormer: Enhanced Transformer with Rotary Position Embedding (2021)](https://arxiv.org/abs/2104.09864) ([Code](https://github.com/lucidrains/rotary-embedding-torch))

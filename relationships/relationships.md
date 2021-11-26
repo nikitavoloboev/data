@@ -62,6 +62,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Mentorship/menteeship is one of the easiest way to learn and network. The people I can access through this always had a huge impact in my life.](https://twitter.com/rakyll/status/1444075610637094917)
 - [What the world needs more than sympathy and empathy is compassion. Sympathy: I'm sorry you're in pain. Empathy: I feel your pain. Compassion: I'll do whatever I can to alleviate your pain. You don't have to feel other people's feelings. You just have to care about their feelings.](https://twitter.com/AdamMGrant/status/1458786852069167105)
 - [I have enough and can afford to be taken advantage of, but what if he really needed help and I didn’t give it. That would be a real crime.](https://twitter.com/amrakunj/status/1462153115902304264)
+- [When you’re with a healthy person they bring out the best in you and you have a blast with them everyday. Conflicts do happen but they lead to growth not destruction.](https://www.reddit.com/r/NarcissisticAbuse/comments/r2kaex/what_do_healthy_relationships_look_like/)
 
 ## Links
 

@@ -527,3 +527,8 @@
 - [KubeMQ](https://kubemq.io/) - Kubernetes Message Queue Broker Platform. ([Code](https://github.com/kubemq-io/kubemq-community))
 - [Kubedev](https://github.com/relferreira/kubedev) - Simpler and more powerful Kubernetes Dashboard.
 - [EKS Connector](https://github.com/aws/amazon-eks-connector) - Client-side agent that connects any Kubernetes cluster to AWS.
+- [APIClarity](https://github.com/apiclarity/apiclarity) - Reconstruct Open API Specifications from real-time workload traffic seamlessly. ([Web](https://apiclarity.io/))
+- [Service Mesh Interface](https://smi-spec.io/) - Standard interface for service meshes on Kubernetes. ([Spec](https://github.com/servicemeshinterface/smi-spec))
+- [Meshery](https://meshery.io/) - Service Mesh Manager. ([Code](https://github.com/meshery/meshery))
+- [Argo Workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes.
+- [tsk](https://github.com/adamgoose/tsk) - Quickly connect to your Kubernetes Cluster with Tailscale.

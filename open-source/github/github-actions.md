@@ -137,6 +137,10 @@
 - [git-auto-commit](https://github.com/stefanzweifel/git-auto-commit-action) - GitHub Action to detect changed files during a Workflow run and to commit and push them back to the GitHub repository.
 - [PuRe Bot](https://github.com/syndesisio/pure-bot) - Pull Request Bot to automate development workflow.
 - [Workflow Run Wait](https://github.com/ahmadnassri/action-workflow-queue) - If the same workflow is already running from a previous commit, wait for it to finish.
+- [GitHub Action for curl](https://github.com/wei/curl)
+- [GitHub Deployments](https://github.com/bobheadxi/deployments) - GitHub Action for working painlessly with deployment statuses.
+- [Find Comment](https://github.com/peter-evans/find-comment) - GitHub action to find an issue or pull request comment.
+- [kube-tools](https://github.com/stefanprodan/kube-tools) - Kubernetes tools for GitHub Actions CI.
 
 ## Go
 
@@ -236,6 +240,10 @@
 ## Scala
 
 - [Scala Steward](https://github.com/scala-steward-org/scala-steward-action) - Github Action to launch Scala Steward in your repository.
+
+## Flutter
+
+- [flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in actions.
 
 ## Templates
 

@@ -86,6 +86,9 @@
 - [The Design and Topology of an Algorithm](https://www.densebit.com/posts/24)
 - [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) ([Java Code](https://algs4.cs.princeton.edu/code/)) ([Go Code](https://github.com/youngzhu/algs4-go))
 - [Ask HN: Looking for a book on algorithms and data structures (2021)](https://news.ycombinator.com/item?id=29217252)
+- [The Sliding Window Pattern (2021)](https://nan.fyi/sliding-window) - Chocolates and a way to make your array algorithms a bit faster.
+- [Visual Debugger](https://playground.narendras.vercel.app/) - Playground for algorithm writing. ([Code](https://github.com/narendrasss/playground))
+- [Visualizer for common algorithm patterns](https://visualizer-sepia.vercel.app/patterns/sliding-window/find-all-averages) ([Code](https://github.com/narendrasss/visualizer))
 
 ## Images
 

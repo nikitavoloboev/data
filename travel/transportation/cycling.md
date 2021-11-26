@@ -24,3 +24,4 @@
 - [Long Range E-Bike (2021)](https://jacquesmattheij.com/long-range-ebike/) ([HN](https://news.ycombinator.com/item?id=29198205))
 - [What it's like to ride 900 km in a day (2021)](https://cyclingtips.com/2021/11/what-its-like-to-ride-900-km-in-a-day/) ([HN](https://news.ycombinator.com/item?id=29291443))
 - [CyclingTips](https://cyclingtips.com/)
+- [Rules for buying an ebike, and ebikes to buy now (2021)](https://ryanj.substack.com/p/ebikes) ([HN](https://news.ycombinator.com/item?id=29337902))

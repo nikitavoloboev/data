@@ -117,6 +117,7 @@
 - [GridSound](https://gridsound.com/) - Open source online digital audio workstation following the new WebAudio API. ([Code](https://github.com/gridsound/daw))
 - [MidiTok](https://github.com/Natooz/MidiTok) - A convenient MIDI tokenizer for Deep Learning networks, with multiple encoding strategies.
 - [ngrid](https://www.ngrid.io/) - Revolutionary way to compose music.
+- [Phrasa](https://github.com/progressive-instruments/phrasa) - Language for Making Music.
 
 ## Inspiration
 
@@ -285,3 +286,6 @@
 - [PianoBooster](https://www.pianobooster.org/) - MIDI file player that displays the musical notes AND teaches you how to play the piano. ([Code](https://github.com/pianobooster/PianoBooster))
 - [The Carefully Crafted Narrative of Taylor Swift | Video Essay (2020)](https://www.youtube.com/watch?v=w2XtejIt4p8)
 - [LabSound](https://github.com/LabSound/LabSound) - C++ graph-based audio engine.
+- [Audio Editor Online](https://editor.audio/)
+- [Jamulus](https://jamulus.io/) - Play music online. With friends. For free. ([Code](https://github.com/jamulussoftware/jamulus)) ([HN](https://news.ycombinator.com/item?id=29338455))
+- [Let's make a music teacher (2021)](https://swiftindepth.com/articles/lets-make-a-music-teacher-1/index.html) ([Code](https://github.com/tjeerdintveen/music))

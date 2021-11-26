@@ -67,6 +67,7 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Tezos k8s](https://github.com/tqtezos/tezos-k8s) - Deploy a Tezos Blockchain on Kubernetes.
 - [Tezos Homebase](https://github.com/dOrgTech/homebase-app) - Platform designed to let users create and manage DAOs on the Tezos blockchain.
 - [Baking Bad](https://baking-bad.org/) - Tezos Staking Rewards Auditor. ([Docs](https://baking-bad.org/docs/)) ([GitHub](https://github.com/baking-bad))
+- [SmartPy](https://smartpy.io/) - Python library for building and analyzing Tezos smart contracts.
 - [Set up a Tezos smart contract IDE with SmartPy and Taquito (2021)](https://levelup.gitconnected.com/set-up-a-tezos-smart-contract-ide-with-smartpy-and-taquito-32fe445d274)
 - [Tezos resources (2021)](https://www.reddit.com/r/tezos/comments/q7wxjx/the_numbers_of_tezos_developers_and_lack_of/)
 - [Concerns with Tezos Foundation not focusing enough on DeFi (2021)](https://www.reddit.com/r/tezos/comments/qfpu1b/a_word_from_sr_staff_engineer_from_coinbase_about/)
@@ -83,3 +84,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [TzStats](https://tzstats.com/) - Tezos Block Explorer by Blockwatch. ([Activity](https://tzstats.com/activity))
 - [How decentralized is Tezos? (2021)](https://www.reddit.com/r/tezos/comments/qwm92e/how_much_decentralized_is_tezos/)
 - [Tezos: Driving Social, Political, and Economic Innovation (2021)](https://www.youtube.com/watch?v=UwpvrgaOFB8)
+- [TzFlow](https://tzflow.com/) - Watch Tezos transactions as they happen.

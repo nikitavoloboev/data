@@ -98,3 +98,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Ask HN: Why is there no good open-source LMS? (2021)](https://news.ycombinator.com/item?id=29275470)
 - [Pupilfirst](https://www.pupilfirst.com/) - Online Teaching Platform & LMS. ([Code](https://github.com/pupilfirst/pupilfirst))
 - [Udemus](https://udemus.com/) - Learning community.
+- [HN: California moves to recommend delaying algebra to 9th grade statewide (2021)](https://news.ycombinator.com/item?id=29324551)

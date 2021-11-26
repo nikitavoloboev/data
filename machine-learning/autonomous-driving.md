@@ -46,3 +46,4 @@
 - [Self-Parking Car in 500 Lines of Code (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) ([Lobsters](https://lobste.rs/s/sfzmwa/self_parking_car_500_lines_code)) ([HN](https://news.ycombinator.com/item?id=28811477))
 - [Self-Parking Car Evolution](https://trekhleb.dev/self-parking-car-evolution/#/) - Training the car to do self-parking using genetic algorithm. ([Code](https://github.com/trekhleb/self-parking-car-evolution))
 - [Samples for TensorRT/Deepstream for Tesla & Jetson](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps)
+- [Gym environments and agents for autonomous driving](https://github.com/bark-simulator/bark-ml)

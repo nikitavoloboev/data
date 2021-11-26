@@ -30,6 +30,7 @@
 - [MemoWise](https://github.com/panorama-ed/memo_wise) - Wise choice for Ruby memoization.
 - [Zhong](https://github.com/nickelser/zhong) - Useful, reliable distributed cron. Uses Redis to acquire exclusive locks on jobs, as well as recording when they last ran.
 - [unparser](https://github.com/mbj/unparser) - Turn Ruby AST into semantically equivalent Ruby source.
+- [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby. ([Web](https://sidekiq.org/))
 
 ## Links
 

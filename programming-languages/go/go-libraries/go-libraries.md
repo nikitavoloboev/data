@@ -2,7 +2,7 @@
 
 ## CLI
 
-- [Bubble Tea](https://github.com/charmbracelet/bubbletea) - Fun, functional and stateful way to build terminal apps.
+- [Bubble Tea](https://github.com/charmbracelet/bubbletea) - Fun, functional and stateful way to build terminal apps. ([Tutorial](https://www.youtube.com/watch?v=j5p5SpqWS8E))
 - [Bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea. ([Non Official](https://github.com/mritd/bubbles))
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) - CSS-like layout library for the terminal for Go.
 - [cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go.
@@ -11,7 +11,7 @@
 - [ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progressbar for Go apps.
 - [flagga](https://github.com/erizocosmico/flagga) - Extensible Go library for handling program configuration using flags.
-- [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration.
+- [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration. ([Tweet](https://twitter.com/fatih/status/1464234787741347843))
 - [go-sh](https://github.com/codeskyblue/go-sh) - Like python-sh, for easy call shell with golang.
 - [Docli](https://github.com/celicoo/docli) - Declarative language for describing command-line interfaces.
 - [uilive](https://github.com/gosuri/uilive) - Go library for updating terminal output in realtime.
@@ -223,6 +223,7 @@
 - [Adaptive Throttler](https://github.com/jessicaxiejw/adaptive_throttler) - Thread-safe throttler library.
 - [IndieAuth Helpers](https://github.com/hacdias/indieauth)
 - [R2](https://github.com/aofei/r2) - Minimalist HTTP request routing helper for Go.
+- [qtalk-go](https://github.com/progrium/qtalk-go) - Versatile RPC and IO stream based IPC stack for Go.
 
 ## GraphQL
 
@@ -325,6 +326,7 @@
 - [moss](https://github.com/couchbase/moss) - Simple, fast, ordered, persistable, key-val storage library for Go.
 - [Chestnut](https://github.com/jrapoport/chestnut) - Encrypted storage for Go.
 - [spindle](https://github.com/flowerinthenight/spindle) - Distributed locking library built on top of Cloud Spanner and TrueTime.
+- [Bokchoy](https://github.com/thoas/bokchoy) - Simple job queues for Go backed by Redis.
 
 ## ML
 
@@ -344,6 +346,7 @@
 - [gfx](https://github.com/peterhellberg/gfx) - Convenience package for dealing with graphics in my pixel drawing experiments.
 - [gg](https://github.com/fogleman/gg) - 2D rendering in Go with a simple API.
 - [goworld](https://github.com/johanhenriksson/goworld) - OpenGL-based 3D Engine.
+- [Tetra3D](https://github.com/SolarLune/Tetra3d) - 3D software renderer written in Go and Ebiten and made for games.
 
 ## GUI
 
@@ -401,6 +404,7 @@
 - [multierr](https://github.com/andreyvit/multierr) - Merges multiple errors into a single error value in idiomatic Go way.
 - [multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together.
 - [fail](https://github.com/srvc/fail) - Better error handling solution especially for application servers.
+- [errorx](https://github.com/joomcode/errorx) - Comprehensive error handling library for Go.
 
 ## Other
 
@@ -1114,6 +1118,14 @@
 - [Proto Actor](https://github.com/asynkron/protoactor-go) - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 - [cache](https://github.com/gozeloglu/cache) - LRU-based cache package for Go. ([Reddit](https://www.reddit.com/r/golang/comments/qytr4r/lrubased_cache_package_written_in_go/))
 - [ps](https://github.com/tklauser/ps) - List, find and inspect operating system processes in Go.
+- [lane](https://github.com/oleiade/lane) - Queue, priority queue, stack and deque data structures implementations.
+- [Reflections](https://github.com/oleiade/reflections) - High level abstractions over reflect library.
+- [dynamic-struct](https://github.com/Ompluscator/dynamic-struct) - Go package for editing struct's fields during runtime and mapping structs to other structs.
+- [decimal](https://github.com/ericlagergren/decimal) - High-performance, arbitrary-precision, floating-point decimal library.
+- [apd](https://github.com/cockroachdb/apd) - Arbitrary-precision decimals for Go.
+- [now](https://github.com/jinzhu/now) - Time toolkit for Go.
+- [reflectwalk](https://github.com/mitchellh/reflectwalk) - Go library for "walking" complex structures, similar to walking a filesystem.
+- [go-diskfs](https://github.com/diskfs/go-diskfs) - Go library for performing manipulation of disks, disk images and filesystems.
 
 ## Links
 
@@ -1145,3 +1157,4 @@
 - [Go net/http.ServeMux and Trailing Slashes (2021)](https://christine.website/blog/go-servemux-slash-2021-11-04) ([Lobsters](https://lobste.rs/s/iym5pi/go_net_http_servemux_trailing_slashes))
 - [Mod](https://github.com/marwan-at-work/mod) - Command line tool to upgrade/downgrade Semantic Import Versioning in Go Modules.
 - [Examples for dealing with the reflect package](https://github.com/a8m/reflect-examples)
+- [vgo2nix](https://github.com/nix-community/vgo2nix) - Convert go.mod files to nixpkgs buildGoPackage compatible deps.nix files.

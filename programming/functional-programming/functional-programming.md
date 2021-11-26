@@ -43,7 +43,7 @@
 - [Structure and Decomposition of Computer Programs book (2019)](https://github.com/isovector/structure-and-decomposition-of-computer-programs)
 - [Speaker Interview with Edward Kmett (2019)](https://confengine.com/functional-conf-2019/speaker/interview/edward-kmett)
 - [Why Isn't Functional Programming the Norm? – Richard Feldman (2019)](https://www.youtube.com/watch?v=QyJZzq0v7Z4) ([HN](https://news.ycombinator.com/item?id=21280429)) ([Lobsters](https://lobste.rs/s/dbsvr5/why_isn_t_functional_programming_norm))
-- [Purely Functional Data Structures by Chris Okasaki (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+- [Purely Functional Data Structures by Chris Okasaki (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) ([OCaml Code](https://github.com/tianyicui/pfds-ocaml))
 - [A Type of Programming by Renzo Carbonara](https://atypeofprogramming.com/)
 - [3 examples of algebraic thinking (2019)](https://lispcast.com/3-examples-of-algebraic-thinking/)
 - [Functional Design and Architecture book (2020)](https://leanpub.com/functional-design-and-architecture) ([Draft](https://docs.google.com/document/d/1al1kW7X4ZncBP_RKR0DZMY84pUtcbbiPQTtkDsjafsw/edit)) ([Reddit](https://www.reddit.com/r/haskell/comments/illft7/the_book_functional_design_and_architecture_is/))

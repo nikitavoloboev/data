@@ -1,6 +1,8 @@
 # [Open Source](https://opensource.guide)
 
-The key to success in Open Source lies in understanding that it's not just about software, it's about the people.
+The key to success in open source lies in understanding that it's not just about software, it's about the people (great and clear communication with proper documentation).
+
+Dan has great tips on what it means to be [high quality software maintainers](https://twitter.com/dan_abramov/status/1463718359262973953).
 
 ## Nice contributing pages
 
@@ -25,6 +27,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [When opening an open source issue or pull request, don't make the maintainers do homework. Explain what you want/what you're doing, include relevant info, and offer to make changes. Don't make a maintainer to seek out other references or throw stuff over the wall and run.](https://twitter.com/slicknet/status/1441460988407025669)
 - [Always credit the work from which you copied or got inspired greatly from in readme. Lets users of your project that it's a fork and ideally keep the previous git history of forked project too.](https://news.ycombinator.com/item?id=28659838)
 - [Release Early, Release Often](https://lobste.rs/s/gqbpwd/release_early_release_often)
+- [Ember's successful oss project management: 1. RFCs for design. 2. Canary, beta, and release stability branches. 3. LTS releases for community coordination and cadence management. 4. Major releases that don't add new features by design. 5. Backwards-compatible editions to consolidate changes for documentation and communication.](https://twitter.com/wycats/status/1463210573936558082)
 
 ## Links
 
@@ -204,3 +207,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Moving Apollo Federation 2 to the Elastic License v2 (2021)](https://www.apollographql.com/blog/announcement/moving-apollo-federation-2-to-the-elastic-license-v2/) ([HN](https://news.ycombinator.com/item?id=29115263))
 - [Microsoft Open Source](https://opensource.microsoft.com/) ([Twitter](https://twitter.com/OpenAtMicrosoft))
 - [Tips For Making a Popular Open Source Project in 2021](https://skerritt.blog/make-popular-open-source-projects/) ([HN](https://news.ycombinator.com/item?id=29197806))
+- [Open Software Licensing Primer](https://blueoakcouncil.org/primer)

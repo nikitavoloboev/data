@@ -158,6 +158,7 @@
 
 - [FunSQL](https://github.com/MechanicalRabbit/FunSQL.jl) - Julia library for compositional construction of SQL queries.
 - [SparkSQL](https://github.com/propelledanalytics/SparkSQL.jl) - Enables Julia programs to work with Apache Spark data using just SQL.
+- [Redis.jl](https://github.com/JuliaDatabases/Redis.jl) - Fully-featured Redis client for the Julia programming language.
 
 ## Error
 
@@ -345,6 +346,7 @@
 - [Traceur](https://github.com/JunoLab/Traceur.jl) - Codified version of the Julia performance tips. You run your code, it tells you about any obvious performance traps.
 - [ImageClipboard](https://github.com/hyrodium/ImageClipboard.jl) - Copy & Paste images with Julia.
 - [Dictionaries](https://github.com/andyferris/Dictionaries.jl) - Alternative interface for dictionaries in Julia, for improved productivity and performance.
+- [PrettyPrinting.jl](https://github.com/MechanicalRabbit/PrettyPrinting.jl) - Julia library for optimal formatting of composite data structures.
 
 ## Links
 

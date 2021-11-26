@@ -90,3 +90,4 @@
 - [Vue Stripe.js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js.
 - [Vuestic UI](https://vuestic.dev/) - Vue.js 3.0 UI Framework. ([Code](https://github.com/epicmaxco/vuestic-ui))
 - [Explore Nuxt Modules](https://modules.nuxtjs.org/) ([Code](https://github.com/nuxt/modules))
+- [Vue 3 Spring](https://github.com/ismail9k/vue3-spring) - Spring-physics based animation library, and more.

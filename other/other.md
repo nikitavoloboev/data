@@ -560,3 +560,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Sandro's cheat sheet](https://github.com/SuperSandro2000/cheat-sheet)
 - [TuneIn](https://tunein.com/) - Free Internet Radio.
 - [Beliefs about how things are and how they should be (2018)](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md)
+- [EmojiMix](https://tikolu.net/emojimix/) ([HN](https://news.ycombinator.com/item?id=29305546))
+- [HackerNews Toolkit in Rust (CLI/API)](https://github.com/scastiel/hn)

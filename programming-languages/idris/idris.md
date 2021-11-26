@@ -62,3 +62,5 @@
 - [Idris WebAssembly CodeGen](https://github.com/SPY/idris-codegen-wasm)
 - [TyRE](https://github.com/kasiaMarek/TyRE) - Dependently-typed regex parser in Idris 2.
 - [idris2-eff](https://github.com/stefan-hoeck/idris2-eff) - Extensible, stack safe effects for Idris2.
+- [Katla](https://github.com/idris-community/katla) - LaTeX & HTML code listing generator for Idris2.
+- [Collie](https://github.com/ohad/collie) - Command line interface for Idris2 applications.

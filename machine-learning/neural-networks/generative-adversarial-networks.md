@@ -153,3 +153,4 @@
 - [ProteinGAN](https://github.com/Biomatter-Designs/ProteinGAN) - Generative network architecture that may be used to produce de-novo protein sequences.
 - [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - High-performance implementation of classic and SOTA Generative Adversarial Networks.
 - [SofGAN: A Portrait Image Generator with Dynamic Styling (2021)](https://apchenstu.github.io/sofgan/) ([Code](https://github.com/apchenstu/sofgan))
+- [BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation (2021)](https://onion-liu.github.io/BlendGAN/) ([Code](https://github.com/onion-liu/BlendGAN))

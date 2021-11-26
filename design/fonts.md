@@ -84,6 +84,9 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [scientifica](https://github.com/nerdypepper/scientifica) - Tall, condensed, bitmap font for geeks.
 - [Cal Sans](https://github.com/calendso/font) - Geometric sanserif tuned for display, that is, large point sizes.
 - [Tilt](https://github.com/andyclymer/Tilt-Typeface) - Family of type inspired by the dimensional lettering found in storefront signage.
+- [Outfit Fonts](https://github.com/Outfitio/Outfit-Fonts)
+- [Lora Fonts](https://github.com/cyrealtype/Lora-Cyrillic) - Well-balanced contemporary serif with roots in calligraphy.
+- [Chomsky](https://github.com/ctrlcctrlv/chomsky) - Font in the style of the New York Times masthead.
 
 ## Links
 
@@ -280,3 +283,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Practica Program](https://www.practicaprogram.com/) - Learn typeface design, together. ([Twitter](https://twitter.com/practicatype))
 - [Coding Font](https://www.codingfont.com/) - Game to find your favorite coding font. ([HN](https://news.ycombinator.com/item?id=29010443)) ([Lobsters](https://lobste.rs/s/rfaj1q/play_game_find_your_true_love_coding_fonts))
 - [Nice, modern font stack that you recommend? (2021)](https://twitter.com/dabit3/status/1458926883001847809)
+- [Please Stop “Fixing” Font Smoothing (2012)](https://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/) ([HN](https://news.ycombinator.com/item?id=29328838))
+- [Modular Font Editor K (MFEK)](https://mfek.org/) - Open source modular font editor. ([GitHub](https://github.com/MFEK))

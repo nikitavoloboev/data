@@ -30,6 +30,7 @@
 - [DBConnection](https://github.com/elixir-ecto/db_connection) - Database connection behavior.
 - [Hierarch](https://github.com/Byzanteam-Labs/hierarch) - Tree structure & hierarchy for ecto models with ltree (Postgres).
 - [Excellent Migrations](https://github.com/Artur-Sulej/excellent_migrations) - Detect potentially dangerous or destructive operations in your database migrations.
+- [Params](https://github.com/vic/params) - Easily define parameter structure and validate/cast with Ecto.Schema.
 
 ## Test
 
@@ -109,6 +110,7 @@
 - [TypedStruct](https://github.com/ejpcmac/typed_struct) - Library for defining structs with a type without writing boilerplate code.
 - [CSV](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 - [Daat](https://github.com/QuinnWilton/daat) - Parameterized modules for Elixir.
+- [Expat](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 
 ## Links
 

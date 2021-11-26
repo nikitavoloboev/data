@@ -77,3 +77,5 @@
 - [NimbleEdge](https://www.nimbleedge.ai/) - Edge computing solution for all your needs. ([GitHub](https://github.com/NimbleEdge))
 - [Elevate IoT platform](https://www.technocreatives.com/elevate-iot-som) - Utilizing Rust and GraphQL to enable nimble and effective IoT solutions for real problems.
 - [IoT Nixie Tubes (2021)](https://bert.org/2021/11/16/iot-nixie-tubes/) ([HN](https://news.ycombinator.com/item?id=29244225))
+- [Rust IoT Radio Abstraction(s)](https://github.com/rust-iot/radio-hal)
+- [Toit](https://toit.io/) - IoT software platform for the ESP32.

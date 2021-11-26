@@ -463,3 +463,9 @@
 - [Direct Multi-view Multi-person 3D Pose Estimation (2021)](https://arxiv.org/abs/2111.04076) ([Code](https://github.com/sail-sg/mvp))
 - [Image2Mesh: A learning framework for single image 3D reconstruction (2019)](https://jhonykaesemodel.com/publication/image2mesh/) ([Code](https://github.com/jhonykaesemodel/image2mesh))
 - [GammaCV](https://github.com/PeculiarVentures/GammaCV) - WebGL accelerated Computer Vision library for modern web applications. ([Web](https://gammacv.com/))
+- [Localizing Objects with Self-Supervised Transformers and no Labels (2021)](https://arxiv.org/abs/2109.14279) ([Code](https://github.com/valeoai/LOST))
+- [Harvester](https://github.com/genicam/harvesters) - GenICam-based Image Acquisition Python Library.
+- [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (2021)](https://arxiv.org/abs/2111.12417) ([Code](https://github.com/microsoft/NUWA))
+- [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision (2021)](https://arxiv.org/abs/2102.03334) ([Code](https://github.com/dandelin/ViLT))
+- [MetaFormer is Actually What You Need for Vision (2021)](https://arxiv.org/abs/2111.11418) ([Code](https://github.com/sail-sg/poolformer))
+- [ARAPReg: An As-Rigid-As Possible Regularization Loss for Learning Deformable Shape Generators (2021)](https://arxiv.org/abs/2108.09432) ([Code](https://github.com/GitBoSun/ARAPReg))

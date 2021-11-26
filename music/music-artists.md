@@ -217,6 +217,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 
 - [Ólafur Arnalds - A Sunrise Session with JFDR (some kind of peace)](https://www.youtube.com/watch?v=KrQV8nTCwqg)
 - [Ólafur Arnalds: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=TpO_8tk6yNQ)
+- [Ólafur Arnalds - Live at Sydney Opera House | Digital Season (2020)](https://www.youtube.com/watch?v=bcln2AL_L1M&t=18s)
 - [Apparat dans Passengers (Full Show HiRes) - ARTE Concert](https://www.youtube.com/watch?v=NOol5V4Tlk8)
 - [Ishome at Krasnaya Polyana @37tunes](https://www.youtube.com/watch?v=yo2zLZkWmhE)
 - [Diane Cluck: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=SyETsd-rKP8&t=408)
@@ -268,3 +269,4 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Bon Iver - "Heavenly Father" (Acapella)](https://www.youtube.com/watch?v=vAoADCSpD-8)
 - [Keaton Henson - Impromptu On A Theme From Six Lethargies ft. Ren Ford | Mahogany Session](https://www.youtube.com/watch?v=d9nJ8o0AfbE)
 - [Наталия Власова - Я у Твоих Ног Live](https://www.youtube.com/watch?v=z9MLGk2yDYU)
+- [Wilderland / Young Man in America - Anaïs Mitchell | Live from Here with Chris Thile](https://www.youtube.com/watch?v=mEf6Oas5Htg)

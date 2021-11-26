@@ -16,6 +16,8 @@
 - [reitit](https://github.com/metosin/reitit) - Fast data-driven router for Clojure/Script.
 - [ctmx](https://github.com/whamtet/ctmx) - App development tool for fast product development and even faster page load times. It uses htmx on the frontend. ([Web](https://whamtet.github.io/ctmx/))
 - [Ruuter](https://github.com/askonomm/ruuter) - Tiny, zero-dependency HTTP router.
+- [Garden](https://github.com/noprompt/garden) - Generate CSS with Clojure.
+- [Compojure-API](https://github.com/metosin/compojure-api) - Sweet web APIs with Compojure & Swagger.
 
 ## DB
 
@@ -29,6 +31,7 @@
 - [dbee](https://github.com/tessellator/dbee) - Convenient API for executing HoneySQL queries.
 - [HugSQL](https://github.com/layerware/hugsql) - Clojure library for embracing SQL. ([Docs](https://www.hugsql.org/))
 - [Pathom](https://github.com/wilkerlucio/pathom) - Clojure(script) engine for processing EQL requests.
+- [porsas](https://github.com/metosin/porsas) - Experimental stuff for going fast with Clojure + JDBC & Async SQL.
 
 ## ML
 
@@ -44,6 +47,7 @@
 
 - [Mockery](https://github.com/igrishaev/mockery) - Clojure mocking library.
 - [humane-test-output](https://github.com/pjstadig/humane-test-output) - Humane test output for clojure.test.
+- [spec-tools](https://github.com/metosin/spec-tools) - Clojure(Script) tools for clojure.spec.
 
 ## Other
 

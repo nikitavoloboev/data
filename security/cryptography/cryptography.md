@@ -143,3 +143,4 @@
 - [Lightweight Cryptography](https://csrc.nist.gov/Projects/Lightweight-Cryptography) ([HN](https://news.ycombinator.com/item?id=29137897))
 - [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data.
 - [Drand](https://github.com/drand/drand) - Distributed Randomness Beacon Daemon. ([Web](https://drand.love/))
+- [Jasmin](https://github.com/jasmin-lang/jasmin) - Workbench for high-assurance and high-speed cryptography. ([Wiki](https://github.com/jasmin-lang/jasmin/wiki))

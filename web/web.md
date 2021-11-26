@@ -340,3 +340,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Tilda Education](https://tilda.education/en/) - Practical guides to web design and digital marketing.
 - [Only 90s Web Developers Remember This (2014)](https://zachholman.com/posts/only-90s-developers/) ([HN](https://news.ycombinator.com/item?id=29296003))
 - [Ask HN: Simplest stack to build web apps in 2021?](https://news.ycombinator.com/item?id=29311761)
+- [Как мы строим веб-платформу в Авиасейлс (2021)](https://blog.kamyshev.me/salo-selene/)

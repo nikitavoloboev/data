@@ -13,3 +13,4 @@
 - [Fastify Now](https://github.com/yonathan06/fastify-now) - File based routing for fastify.
 - [fastify-basic-auth](https://github.com/fastify/fastify-basic-auth) - Fastify basic auth plugin.
 - [fastify-cookie](https://github.com/fastify/fastify-cookie) - Plugin for Fastify that adds support for reading and setting cookies.
+- [Fastify SSE Plugin](https://github.com/NodeFactoryIo/fastify-sse-v2) - Fastify plugin for sending Server-sent events.

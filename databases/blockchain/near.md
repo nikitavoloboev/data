@@ -11,3 +11,5 @@
 - [NEAR Indexer for Explorer](https://github.com/near/near-indexer-for-explorer)
 - [NEAR Wallet](https://wallet.near.org/)
 - [near-contract-helper](https://github.com/near/near-contract-helper) - Micro-service used by NEAR Wallet to store & send recovery methods.
+- [NEAR Workspaces (Rust Edition)](https://github.com/near/workspaces-rs) - Write tests once, run them both on NEAR TestNet and a controlled NEAR Sandbox local environment via Rust.
+- [NEAR Protocol Specifications and Standards](https://github.com/near/NEPs)

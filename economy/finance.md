@@ -1,10 +1,12 @@
 # Finance
 
-For my own personal finance, I budget & manage my money with [Monzo](https://monzo.com) (UK/US) & [N26](https://n26.com/en-gb/) (EU).
+I manage my money with [N26](https://n26.com/en-gb/) (great in EU). When I lived in UK, [Monzo](https://monzo.com) was great.
 
-I keep a minimum of 3,000 euro on the account at any time (to cover emergency spending). The rest I [invest into stocks/ETFs](investing.md) and [ideas that interest me](../ideas/ideas.md). I also support open source projects & people I love.
+I keep a minimum of 3,000 euro on the account at any time (to cover emergency spending + monthly bills). I budget the next month (make sure enough money is on main account for the month) as well as rebalance my [investment portfolio of stocks/ETFs/crypto](investing.md) (if necessary) at first Sunday of each month as part of a monthly [look back](../looking-back/looking-back.md). I also invest into [ideas that interest me](../ideas/ideas.md) & support open source projects & people I love.
 
-I use [YNAB methodology](https://www.youneedabudget.com/method/) to somewhat manage my spending but not proactively. I try to be mindful with my spending at all times and try to never disregard spending on quality healthy food and essentials for my well being. Both N26 & Monzo track spending into categories and do a good job of it.
+I use a variation of [YNAB methodology](https://www.youneedabudget.com/method/) to somewhat mindfully manage my spending. I try to be mindful of more expensive things I buy try to never disregard spending on quality healthy food and essentials for my well being. Both N26 & Monzo track spending into categories and do a good job of it.
+
+In future it would be nice to automate moving money to main account from less liquid assets I own quickly. FIAT tends to deprecate quickly so it's good idea to own hard assets (good ETFs being the safest investment).
 
 ## Ongoing subscriptions
 
@@ -142,3 +144,6 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Modern Treasury](https://www.moderntreasury.com/) - Makes payment operations simple, scalable and secure.
 - [Ucelofka](https://github.com/shenek/ucelofka) - Simple program to issue invoices (CLI/Web).
 - [Building Stripe Tax (2021)](https://stripe.com/blog/building-stripe-tax)
+- [Arc Invoice](https://arcinvoice.com/) - Free Invoicing App for Freelancers and Small Businesses. ([Code](https://github.com/Panshak/arcinvoice))
+- [Monzo](https://monzo.com/) - Online bank based in the United Kingdom. ([GitHub](https://github.com/monzo)) ([Awesome](https://github.com/rdingwall/awesome-monzo))
+- [Wealthsimple](https://www.wealthsimple.com/en-gb/) - Powerful financial tools to help you grow and manage your money. ([Twitter](https://twitter.com/wealthsimple))

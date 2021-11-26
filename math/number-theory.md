@@ -37,3 +37,5 @@
 - [The Trip to the Prime Number Theorem (2021)](https://offbeat.cc/blog/the-trip-to-the-prime-number-theorem.html)
 - [Constructively Complete Finite Sets (1988)](https://onlinelibrary.wiley.com/doi/10.1002/malq.19880340202) ([Tweet](https://twitter.com/gro_tsen/status/1452319122067501064))
 - [How imaginary numbers were invented (2021)](https://www.youtube.com/watch?v=cUzklzVXJwo) ([Reddit](https://www.reddit.com/r/Physics/comments/qkf0mb/veritasium_history_of_cubics_this_problem_broke/)) ([HN](https://news.ycombinator.com/item?id=29185238))
+- [Why Euler’s Number Is Just the Best (2021)](https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/)
+- [What is the square root of two? | The Fundamental Theorem of Galois Theory (2021)](https://www.youtube.com/watch?v=CwvuZ8aHyH4) ([Tweet](https://twitter.com/Atrix256/status/1464321511821508609))

@@ -79,3 +79,5 @@
 - [Prisma Migrate: Deploy Migration with Docker (2021)](https://notiz.dev/blog/prisma-migrate-deploy-with-docker)
 - [Prisma Chats with Shanon Jackson - end-to-end type safety with Next.js and Prisma (2021)](https://www.youtube.com/watch?v=ur-SYNqADTY)
 - [Zod Prisma](https://github.com/CarterGrimmeisen/zod-prisma) - Custom Prisma generator that creates Zod schemas from your Prisma model.
+- [Transparent field-level encryption at rest for Prisma](https://github.com/47ng/prisma-field-encryption)
+- [Prisma Schema Builder](https://www.prismabuilder.io/) - Build your Prisma schema visually in this easy-to-use web based tool. ([Code](https://github.com/albingroen/prismabuilder.io))

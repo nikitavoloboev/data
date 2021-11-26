@@ -16,6 +16,8 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 ## Bot libraries
 
+- [grammY](https://grammy.dev/) - Telegram Bot Framework in TS. ([Code](https://github.com/grammyjs/grammY)) ([Examples](https://github.com/grammyjs/examples))
+- [grammY runner](https://github.com/grammyjs/runner) - Scale grammY bots.
 - [botgram](https://github.com/botgram/botgram) - Microframework to build Telegram bots. ([Web](https://botgram.js.org/))
 - [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)
 - [Go bindings to Telegram API](https://github.com/go-telegram-bot-api/telegram-bot-api) ([Docs](https://go-telegram-bot-api.dev/))
@@ -67,6 +69,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [TelegramBotsList](https://github.com/DanySpin97/TelegramBotsList) - List of Telegram bots with open source code in alphabetical order.
 - [MySubredditsBot](https://github.com/Recursing/MySubredditsBot) - Telegram bot to track posts in subreddits.
 - [telegram-bot-dumper](https://github.com/soxoj/telegram-bot-dumper) - Easy dumping of all Telegram bot stuff.
+- [Cloud Convert Bot](https://t.me/cloud_convert_bot) - Telegram bot to do file conversions. ([Code](https://github.com/KnorpelSenf/cloudconvert-bot))
 
 ## Notes
 
@@ -134,3 +137,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Ad Platform](https://promote.telegram.org/) ([HN](https://news.ycombinator.com/item?id=29146147))
 - [Pushshift Telegram Ingest API](https://github.com/pushshift/telegram) - Ingests data from numerous Telegram channels / groups and stores that data in Postgres and Elasticsearch.
 - [Telegram bot that has the ability to /eval code](https://vimsical.notion.site/REPL-Chat-35c36c3da44c4d8c9b42c211cb0c67ef)
+- [TypeScript types for the entire Telegram Bot API](https://github.com/KnorpelSenf/typegram)

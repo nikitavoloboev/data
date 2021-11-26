@@ -158,6 +158,8 @@ And these Discord servers:
 - [Coffee or Die Magazine](https://coffeeordie.com/)
 - [Paris Review](https://www.theparisreview.org/) - Writers, Quotes, Biography, Interviews, Artists.
 - [UnHerd](https://unherd.com/)
+- [Atlantic Council](https://www.atlanticcouncil.org/)
+- [Esquire](https://www.esquire.com/) - Men's Fashion, Cocktails, Politics, Interviews, and Women.
 
 ### Other
 

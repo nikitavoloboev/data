@@ -34,3 +34,4 @@
 - [Citroën Karin car](https://rarehistoricalphotos.com/citroen-karin-concept-car-photographs/) ([Tweet](https://twitter.com/kevinbaker/status/1450903327475126275))
 - [Surve Mobility](https://survemobility.com/) - Europe’s No 1 for intelligent shared mobility operations. ([GitHub](https://github.com/survemobility))
 - [Tesla's Founders On Elon Musk And The Early Days (2021)](https://www.youtube.com/watch?v=eblPwXFb7TE)
+- [German car that was super-aerodynamic but impractical](https://rarehistoricalphotos.com/schlorwagen-photographs-1939/) ([HN](https://news.ycombinator.com/item?id=29321519))

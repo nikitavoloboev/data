@@ -156,7 +156,7 @@
 - [three-d](https://github.com/asny/three-d) - Renderer written in Rust which compiles to both desktop (OpenGL) and web (WebAssembly + WebGL)..
 - [Top 100 3D Renders from the Internet's Largest CG Challenge | Alternate Realities (2021)](https://www.youtube.com/watch?v=iKBs9l8jS6Q)
 - [ThorVG](https://github.com/Samsung/thorvg) - Platform-independent portable library for drawing vector-based scenes and animations. ([Web](https://www.thorvg.org/))
-- [NVIDIA Canvas](https://www.nvidia.com/en-gb/studio/canvas/) - Turn Simple Brushstrokes into Realistic Images. ([HN](https://news.ycombinator.com/item?id=27626610))
+- [NVIDIA Canvas](https://www.nvidia.com/en-gb/studio/canvas/) - Turn Simple Brushstrokes into Realistic Images. ([HN](https://news.ycombinator.com/item?id=27626610)) ([Article](https://blogs.nvidia.com/blog/2021/11/22/gaugan2-ai-art-demo/))
 - [How do games render their scenes? (2021)](https://www.youtube.com/watch?v=Oct4Oi-KfVQ)
 - [Visibility Buffer Rendering with Material Graphs (2021)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
 - [Smoothstep Integral](https://iquilezles.org/www/articles/smoothstepintegral/smoothstepintegral.htm) ([HN](https://news.ycombinator.com/item?id=27588977))

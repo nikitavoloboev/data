@@ -42,3 +42,4 @@
 - [Brexit guidance change explorer](https://govukdiff.njk.onl/) ([Code](https://github.com/platy/gitgovuk))
 - [Cunk On Britain](https://www.youtube.com/watch?v=MUM89s4N2BQ)
 - [In Britain we process happiness... differently, Bill Bailey](https://www.youtube.com/watch?v=V7d79Knc8p4)
+- [What the world can learn from Britain’s humble hedge (2021)](https://knowablemagazine.org/article/food-environment/2021/what-world-can-learn-britains-humble-hedge) ([HN](https://news.ycombinator.com/item?id=29344605))

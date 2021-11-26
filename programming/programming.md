@@ -492,3 +492,5 @@
 - [io.livecode.ch](https://io.livecode.ch/) - Interactive programming tutorials, powered by Github and Docker. ([Code](https://github.com/namin/io.livecode.ch))
 - [Quality in Software (2021)](https://media.handmade-seattle.com/quality-in-software/)
 - [Andreas Fredriksson - Context is Everything (2021)](https://vimeo.com/644068002) ([Lobsters](https://lobste.rs/s/tari2b/andreas_fredriksson_context_is))
+- [Overengineering can kill a product (2021)](https://www.mindtheproduct.com/overengineering-can-kill-your-product/) ([HN](https://news.ycombinator.com/item?id=29328761))
+- [Programming as Theory Building Paper by Peter Naur (1985)](https://hackernoon.com/programming-as-theory-building-lts3eqr)

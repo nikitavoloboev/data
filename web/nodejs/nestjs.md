@@ -21,3 +21,4 @@
 - [OpenApi for your REST APIs in NestJS (2021)](https://notiz.dev/blog/openapi-in-nestjs)
 - [Send Emails with NestJS (2021)](https://notiz.dev/blog/send-emails-with-nestjs)
 - [Introducing NestJS Prisma Library and Schematics (2021)](https://notiz.dev/blog/nestjs-prisma-schematics)
+- [NestJS - RabbitMQ custom strategy](https://github.com/AlariCode/nestjs-rmq) - Custom library for NestJS microservice. It allows you to use RabbitMQ or AMQP.

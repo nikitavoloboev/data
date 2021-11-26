@@ -59,3 +59,4 @@
 - [Manga Translator](https://github.com/cameronkinsella/manga-translator) - Easy-to-use OCR and Japanese to English translation tool.
 - [The Economy of Japan: how a Superpower FELL from Grace in Four Decades (2021)](https://www.youtube.com/watch?v=pU_yyadYgG8)
 - [Japan’s curiously quiescent inflation rate (2021)](https://www.economist.com/finance-and-economics/2021/11/20/the-case-of-the-curiously-quiescent-inflation-rate) ([HN](https://news.ycombinator.com/item?id=29312300))
+- [Japan to implement bank-deposit-backed digital currency in 2022](https://asia.nikkei.com/Business/Finance/Japan-to-launch-bank-deposit-backed-digital-currency-in-2022) ([HN](https://news.ycombinator.com/item?id=29330819))

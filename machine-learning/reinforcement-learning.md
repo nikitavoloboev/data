@@ -281,3 +281,5 @@
 - [A Survey of Generalisation in Deep Reinforcement Learning (2021)](https://arxiv.org/abs/2111.09794) ([Tweet](https://twitter.com/OriolVinyalsML/status/1461729731301167112))
 - [Permutation-Invariant Neural Networks for Reinforcement Learning (2021)](https://ai.googleblog.com/2021/11/permutation-invariant-neural-networks.html)
 - [EnvPool](https://github.com/sail-sg/envpool) - C++-based high-performance parallel environment execution engine for general RL environments. ([Docs](https://envpool.readthedocs.io/en/latest/))
+- [Magi RL library in JAX](https://github.com/ethanluoyc/magi)
+- [WarpDrive](https://github.com/salesforce/warp-drive) - Extremely Fast End-to-End Deep Multi-Agent Reinforcement Learning Framework on a GPU.

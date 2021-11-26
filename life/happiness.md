@@ -56,6 +56,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Stress primarily comes from not taking action over something that you can have some control over… stress comes from ignoring things that you shouldn’t be ignoring.](https://twitter.com/austen/status/1438157425744306176)
 - [For a long time I thought I wasn’t ambitious until I realized my ambition is to live a good life.](https://twitter.com/schlaf/status/1438293177673396227)
 - [Living a good life is largely just being around people with good vibes.](https://twitter.com/zachtratar/status/1440552661460258816)
+- [The secret successful people don't want you to know? You can literally walk away from anything or anyone that doesn't make you happy and start over.](https://twitter.com/elizalian/status/1463953252500729856)
 
 ## Links
 
@@ -88,3 +89,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Definite optimism as human capital (2017)](https://danwang.co/definite-optimism-as-human-capital/) ([Tweet](https://twitter.com/patrickc/status/904849193201573888))
 - [Best cortisol lower techniques](https://twitter.com/AlmostMedia/status/1455958395521953793)
 - [Ten Steps Towards Happiness](http://hintjens.com/blog:99) ([HN](https://news.ycombinator.com/item?id=29215967))
+- [Underrated Reasons to Be Thankful](https://dynomight.net/thanks/) ([HN](https://news.ycombinator.com/item?id=29341055))

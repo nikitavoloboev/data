@@ -25,7 +25,7 @@
 - [Citizen DAO](https://citizendao.com/) - Crypto Community for Social Impact Projects.
 - [Diamond DAO](https://www.diamonddao.xyz/) - Home for DAO data nerds.
 - [DAO community treasuries are being criminally underused](https://twitter.com/AntonioMJuliano/status/1458844848560087070)
-- [ConstitutionDAO](https://www.constitutiondao.com/) - Put The US Constitution in the hands of The People. ([Twitter](https://twitter.com/ConstitutionDAO)) ([Code](https://github.com/Constitution-DAO/contracts)) ([Tweet](https://twitter.com/nateliason/status/1461002096279535617)) ([HN](https://news.ycombinator.com/item?id=29258195))
+- [ConstitutionDAO](https://www.constitutiondao.com/) - Put The US Constitution in the hands of The People. ([Twitter](https://twitter.com/ConstitutionDAO)) ([Code](https://github.com/Constitution-DAO/contracts)) ([Tweet](https://twitter.com/nateliason/status/1461002096279535617)) ([HN](https://news.ycombinator.com/item?id=29258195)) ([Aftermath](https://www.vice.com/en/article/qjb8av/constitutiondao-aftermath-everyone-very-mad-confused-losing-lots-of-money-fighting-crying-etc))
 - [Notes on ConstitutionDAO](https://every.to/divinations/notes-on-constitutiondao) ([HN](https://news.ycombinator.com/item?id=29273425))
 - [Liquidity miners: hands of 💎 or 🧻? (2021)](https://mirror.xyz/0x7B542178633f16940a131F8F6d670ffdbBe6b2Ab/HoTLzeiTUBn7c-uZoVcZ6PO9AlGrVQI_4WYDSeJFTiA) ([Tweet](https://twitter.com/alex_kroeger/status/1460053068460924930))
 - [H=N creates DAO to manage the website by community (2021)](https://twitter.com/jongold/status/1459991195128504320)
@@ -40,3 +40,5 @@
 - [Council](https://github.com/element-fi/council) - Decentralized governance system that allows a community to manage a DAO.
 - [MakerDAO](https://makerdao.com/en/) - Unbiased Global Financial System. ([Forum](https://forum.makerdao.com/)) ([Awesome](https://github.com/makerdao/awesome-makerdao)) ([Maker Improvement Proposals (MIPs)](https://github.com/makerdao/mips))
 - [Commonwealth](https://commonwealth.im/) - Community for every token.
+- [DAOs, A Canon (2021)](https://future.a16z.com/dao-canon/)
+- [Rebasing DAOs & Olympus OHM: Tokenomic Revolution Or Ponzi Scheme? (2021)](https://www.youtube.com/watch?v=-ZodrK_V8Fw)

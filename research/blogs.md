@@ -75,6 +75,8 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [John Regehr](https://blog.regehr.org/)
 - [Shtetl-Optimized](https://scottaaronson.blog/)
 - [Matt Rickard](https://matt-rickard.com/archive/)
+- [Not a Number](https://nan.fyi/) - Interactive blog on computer science and web development. ([Code](https://github.com/narendrasss/NotANumber))
+- [Dynomight](https://dynomight.net/)
 
 ## Notes
 

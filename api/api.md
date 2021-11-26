@@ -115,6 +115,7 @@
 - [TensorFlow Rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
 - [libgit2 Rust](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
 - [LLVM Rust](https://github.com/zshipko/llama) - Friendly LLVM library for Rust.
+- [Instagram Python](https://github.com/adw0rd/instagrapi) - Fastest and powerful Python library for Instagram Private API.
 - [SwiftyInsta](https://github.com/TheM4hd1/SwiftyInsta) - Instagram Private API Swift.
 - [Instagram Private API in Python](https://github.com/ping/instagram_private_api)
 - [Instagram Scraper Python](https://github.com/realsirjoe/instagram-scraper) - Scrapes medias, likes, followers, tags and all metadata.
@@ -287,3 +288,4 @@
 - [Backpressure And The Replicator (2021)](https://github.com/couchbase/couchbase-lite-core/wiki/Backpressure) ([Lobsters](https://lobste.rs/s/x9kwgp/backpressure_replicator))
 - [The Little Manual of API Design (2008)](https://www.cs.vu.nl/~jbe248/api-design.pdf)
 - [Remote Execution API](https://github.com/bazelbuild/remote-apis) - API that, at its most general, allows clients to request execution of binaries on a remote system.
+- [SwagGen](https://github.com/yonaskolb/SwagGen) - OpenAPI/Swagger 3.0 Parser and Swift code generator.

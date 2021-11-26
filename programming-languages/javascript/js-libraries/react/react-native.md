@@ -150,3 +150,6 @@
 - [React Native Bluetooth Low Energy](https://github.com/dotintent/react-native-ble-plx)
 - [React Native Performance Monitor Flipper plugin](https://github.com/bamlab/react-native-performance)
 - [react-native-header](https://github.com/oguzturker8/react-native-header) - Header library for react-native. Uses power of reanimated2.
+- [react-native-ridge-navigation](https://github.com/web-ridge/react-native-ridge-navigation) - Simple, performant & type-safe cross platform navigation in React Native / React Native Web.
+- [React Native Module Template](https://github.com/demchenkoalex/react-native-module-template) - Starter for the React Native library written in TypeScript, with linked example project and optional native code in Swift and Kotlin.
+- [React Native Keyboard Accessory View](https://github.com/flyerhq/react-native-keyboard-accessory-view) - Keyboard accessory (sticky) view for your React Native app. Supports interactive dismiss on iOS.

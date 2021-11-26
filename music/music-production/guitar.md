@@ -34,3 +34,4 @@
 - [A Catalogue of Chords Example (2021)](https://jpreston.xyz/a-catalogue-of-chords-example.html) ([HN](https://news.ycombinator.com/item?id=28365015))
 - [Fretonator](https://www.fretonator.com/) - Interactive tool for learning common modes on the guitar, understanding the chord theory behind the modes. ([Code](https://github.com/whitep4nth3r/fretonator))
 - [Chord](http://getchord.com/) - Definitive guitar app.
+- [React-Guitar](https://github.com/4lejandrito/react-guitar) - Beautiful and accessible guitar component for React. ([Web](https://react-guitar.com/))

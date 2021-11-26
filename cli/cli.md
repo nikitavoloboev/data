@@ -72,3 +72,5 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development (2021)](https://www.smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/)
 - [GoAWK](https://github.com/benhoyt/goawk) - AWK interpreter written in Go. ([Article](https://benhoyt.com/writings/goawk/))
 - [htop](https://github.com/htop-dev/htop) - Cross-platform interactive process viewer. ([Web](https://htop.dev/))
+- [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
+- [Ask HN: What are the best and worst command-line interfaces you have used? (2021)](https://news.ycombinator.com/item?id=29329607)

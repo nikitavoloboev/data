@@ -253,3 +253,5 @@
 - [Exploring the Processing-in-Memory Paradigm for Future Computing Systems](https://safari.ethz.ch/projects_and_seminars/fall2021/doku.php?id=processing_in_memory) ([Tweet](https://twitter.com/el1goluj/status/1459864658123309058))
 - [Blacksmith – Rowhammer bit flips on all DRAM devices today despite mitigations](https://comsec.ethz.ch/research/dram/blacksmith/) ([HN](https://news.ycombinator.com/item?id=29229200))
 - [80386DX ISA single board microcomputer](https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html) ([HN](https://news.ycombinator.com/item?id=29273829))
+- [Ask HN: What’s the best TV to buy? (2021)](https://news.ycombinator.com/item?id=29343338)
+- [bazel_rules_hdl](https://github.com/hdl/bazel_rules_hdl) - Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel.

@@ -235,6 +235,9 @@
 - [rci](https://github.com/leonardodino/rci) - Better code inputs for the web.
 - [Formiz](https://github.com/ivan-dalmet/formiz) - React forms with ease! Composable, headless & with built-in multi steps.
 - [restack](https://github.com/bfollington/restack) - SwiftUI inspired layouts for React.
+- [react-rewards](https://github.com/thedevelobear/react-rewards) - Microinteractions you can use to reward your users for little things and make them smile.
+- [Informed](https://github.com/joepuzzo/informed) - Lightweight framework and utility for building powerful forms in React applications.
+- [react-lineto](https://github.com/kdeloach/react-lineto) - Draw a line between two elements in React.
 
 ## Links
 

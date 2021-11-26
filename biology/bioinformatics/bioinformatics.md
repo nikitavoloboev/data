@@ -179,3 +179,4 @@
 - [Foregen and the Science of Regeneration with Tyler Drzod and Eric Cunningham (2021)](https://www.youtube.com/watch?v=JTOoc8ToSjc) ([Links & Transcript](https://brendonmarotta.com/8090/foregen-and-regeneration/))
 - [Foregen](https://www.foregen.org/) - Regenerating Foreskins. ([Reddit](https://www.reddit.com/r/Foregen/))
 - [DeepMind releases massive protein structure database (2021)](https://www.freethink.com/science/protein-structure)
+- [ATOM3D: Tasks on Molecules in Three Dimensions](https://www.atom3d.ai/) ([Code](https://github.com/drorlab/atom3d))

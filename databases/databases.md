@@ -479,4 +479,4 @@
 - [Flags v. gates (2021)](https://brandur.org/fragments/flags-v-gates)
 - [The history of Berkeley DB (2021)](https://queue.acm.org/detail.cfm?id=3501713)
 - [Papers for database systems powered by artificial intelligence (machine learning for database)](https://github.com/LumingSun/ML4DB-paper-list)
-- [42 things I learned from building a production database (2021)](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
+- [Things I learned from building a production database (2021)](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html) ([HN](https://news.ycombinator.com/item?id=29322515))

@@ -47,7 +47,7 @@
 - [Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet (2021)](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
 - [Best Books to Learn Apache Kafka (2021)](https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9)
 - [Kafka-Penguin](https://github.com/oslabs-beta/kafka-penguin) - Easy-to-use, lightweight KafkaJS library for message processing.
-- [Understanding Kafka with Factorio (2019)](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
+- [Understanding Kafka with Factorio (2019)](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181) ([HN](https://news.ycombinator.com/item?id=29304414))
 - [Google Pub/Sub Lite for Kafka Users (2021)](https://medium.com/google-cloud/google-pub-sub-lite-for-kafka-users-dec8a7cfc5e5)
 - [Teach Yourself Apache Kafka and Python with a Jupyter Notebook](https://aiven.io/blog/teach-yourself-apache-kafka-and-python-with-a-jupyter-notebook)
 - [Confluent Hub](https://www.confluent.io/hub/) - Discover Kafka connectors and more.
@@ -72,3 +72,5 @@
 - [Kafka Streams 101 – resources to get started (2021)](https://forum.confluent.io/t/kafka-streams-101-resources-to-get-started/3283)
 - [rust-rdkafka](https://github.com/fede1024/rust-rdkafka) - Fully asynchronous, futures-enabled Apache Kafka client library for Rust based on librdkafka.
 - [Sarama](https://github.com/Shopify/sarama) - Go library for Apache Kafka.
+- [kcctl](https://github.com/kcctl/kcctl) - CLI for Apache Kafka Connect.
+- [Pinterest Secor](https://github.com/pinterest/secor) - Service implementing Kafka log persistence.

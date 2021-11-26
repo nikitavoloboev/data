@@ -94,3 +94,4 @@
 - [Autocracy Is Winning (2021)](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) ([HN](https://news.ycombinator.com/item?id=29229386))
 - [The Equal Vote Coalition](https://www.equal.vote/)
 - [STAR Voting in under five minutes](https://www.youtube.com/watch?v=aiQ9Z5sME00)
+- [Tax calculators](https://twitter.com/AlexSukhorukov_/status/1464254455038287877)

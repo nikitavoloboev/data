@@ -9,6 +9,7 @@
 - [Web1: content distributed to users. Web2: content produced by users and distributed to users. Web3: content produced by users and distributed to users on user controlled platforms.](https://twitter.com/ArthurB/status/1444620432280330241)
 - [Web 3: People create + People profit](https://twitter.com/levelsio/status/1453712519919403016)
 - [Decentralization doesn't mean the absence of leaders but the abundance of them.](https://twitter.com/Echecrates/status/1458589782427279366)
+- [The most important (and least understood) change of the millennium thus far is that decentralisation and incentives have given _sovereignty_ to machines. We now build machines that nobody can turn off. They live unto themselves.](https://twitter.com/samecwilliams/status/1463389066100154368)
 
 ## Links
 
@@ -123,4 +124,4 @@
 - [The web3 stack (2021)](https://twitter.com/dabit3/status/1462169151041064966)
 - [Webb](https://www.webb.tools/) - Multi-chain privacy hub for blockchains. ([GitHub](https://github.com/webb-tools)) ([Code](https://github.com/webb-tools/protocol-solidity))
 - [Measuring the Web3.0 Stack (2021)](https://www.youtube.com/watch?v=yylsaXz00_g)
-- [An Engineer's Hype-Free Observations on Web3 (and Its Possibilities) (2021)](https://www.psl.com/feed-posts/web3-engineer-take)
+- [An Engineer's Hype-Free Observations on Web3 (and Its Possibilities) (2021)](https://www.psl.com/feed-posts/web3-engineer-take) ([HN](https://news.ycombinator.com/item?id=29321987))

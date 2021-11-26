@@ -15,7 +15,7 @@
 - [Arm Mbed DAPLink](https://github.com/ARMmbed/DAPLink) - Open-source software project that enables programming and debugging application software running on Arm Cortex CPUs.
 - [Mbed TLS](https://github.com/ARMmbed/mbedtls) - Open source, portable, easy to use, readable and flexible SSL library.
 - [Modern Microprocessors a 90-Minute Guide](http://www.lighterra.com/papers/modernmicroprocessors/) - Brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture. ([HN](https://news.ycombinator.com/item?id=27014027))
-- [MicroPython](https://github.com/micropython/micropython) - Lean and efficient Python implementation for microcontrollers and constrained systems. ([HN](https://news.ycombinator.com/item?id=24166861))
+- [MicroPython](https://github.com/micropython/micropython) - Lean and efficient Python implementation for microcontrollers and constrained systems. ([HN](https://news.ycombinator.com/item?id=24166861)) ([Awesome](https://github.com/mcauser/awesome-micropython))
 - [CircuitPython](https://github.com/adafruit/circuitpython) - Programming Hardware in Python. ([HN](https://news.ycombinator.com/item?id=25923491))
 - [What's your preferred embedded/application scripting language? (2019)](https://lobste.rs/s/jtrbrj/what_s_your_preferred_embedded)
 - [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) ([HN](https://news.ycombinator.com/item?id=28660915))
@@ -85,7 +85,7 @@
 - [Using Rust for a simple hardware project (2020)](https://blog.tonari.no/rust-simple-hardware-project)
 - [elfload](https://github.com/erincandescent/elfload) - ELF loader for embedded systems.
 - [Introduction to Embedded Linux Security (2020)](https://embeddedbits.org/introduction-embedded-linux-security-part-1/)
-- [Handmade Seattle](https://www.handmade-seattle.com/) - Indie Systems Programming Conference. ([Lobsters](https://lobste.rs/s/uynlxo/indie_systems_programming_conference)) ([Day 1 video](https://vimeo.com/479193681)) ([Media](https://media.handmade-seattle.com/)) ([Twitter](https://twitter.com/handmade_seattl))
+- [Handmade Seattle](https://www.handmade-seattle.com/) - Indie Systems Programming Conference. ([Lobsters](https://lobste.rs/s/uynlxo/indie_systems_programming_conference)) ([Day 1 video](https://vimeo.com/479193681)) ([Media](https://media.handmade-seattle.com/)) ([Twitter](https://twitter.com/handmade_seattl)) ([Videos](https://vimeo.com/handmadeseattle))
 - [The Best and Worst Microcontroller SDKs (2020)](https://interrupt.memfault.com/blog/the-best-and-worst-mcu-sdks) ([HN](https://news.ycombinator.com/item?id=25094956))
 - [SwiftIO](https://github.com/madmachineio/SwiftIO) - Swift framework for microcontrollers.
 - [MadMachine](https://www.madmachine.io/) - Swift for microcontrollers. ([GitHub](https://github.com/madmachineio))

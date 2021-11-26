@@ -312,3 +312,4 @@ Awesome List
 - [GitHub Search Results as RSS Feeds via GitHub Actions](https://github.com/azu/github-search-rss)
 - [CLI: Delete GitHub Branches that match patterns](https://github.com/azu/delete-github-branches)
 - [Discuss with Atinux](https://github.com/Atinux/discuss) - Demo of using Nuxt 3 with GitHub authentication and creating issues with real-time updates.
+- [gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.

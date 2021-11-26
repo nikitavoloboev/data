@@ -58,3 +58,4 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [Barry’s](https://www.barrys.com/) - Best Workout In The World.
 - [Is Workout Volume Actually Killing Your Gains?](https://www.youtube.com/watch?v=Mja2fDwYA5s)
 - [What is the best way to lose body fat without losing so much muscle? (2021)](https://www.reddit.com/r/bodyweightfitness/comments/qr81da/what_is_the_best_way_to_lose_body_fat_without/)
+- [Skadefri](https://fittoplay.org/) - Evidence-based resource developed for anyone who engage in or facilitate sport.

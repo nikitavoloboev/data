@@ -120,3 +120,5 @@
 - [Hetzner Pulumi Intro (2021)](https://shibumi.dev/posts/hetzner-pulumi-intro/)
 - [The Operator Pattern in Nomad (2021)](https://andydote.co.uk/2021/11/22/nomad-operator-pattern/)
 - [Dev Lake](https://github.com/merico-dev/lake) - Brings all your DevOps data into one practical, personalized, extensible view. Ingest, analyze, and visualize data.
+- [Fastly Resource Provider](https://github.com/pulumi/pulumi-fastly)
+- [OOPS (Learning from the incident you didn't have) writeup template (2021)](https://surfingcomplexity.blog/2021/11/21/oops-writeups/)

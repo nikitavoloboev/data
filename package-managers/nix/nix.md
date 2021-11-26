@@ -259,3 +259,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [libnix](https://github.com/Profpatsch/libnix-haskell) - Haskell library to interface with the nix package manager.
 - [nix-exec](https://github.com/shlevy/nix-exec) - Run programs defined in nix expressions.
 - [Closure vs. derivation in the Nix package manager (2018)](https://medium.com/scientific-breakthrough-of-the-afternoon/closure-vs-derivation-in-the-nix-package-manager-ec0eccc53407)
+- [mk-darwin-system](https://github.com/vic/mk-darwin-system) - Small Nix utility to create an M1 aarch64-darwin (nixFlakes + nix-darwin + home-manager) system.
+- [Nix language for JavaScript developers](https://github.com/rofrol/nix-for-javascript-developers)

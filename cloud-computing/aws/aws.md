@@ -251,3 +251,8 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Flowchart: How should I run containers on AWS? (2021)](https://www.vladionescu.me/posts/flowchart-how-should-i-run-containers-on-aws-2021/)
 - [AWS Load Balancer Controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - Controller to help manage Elastic Load Balancers for a Kubernetes cluster.
 - [Serverless Data Streaming on AWS | Anahit Pogosova (2021)](https://www.youtube.com/watch?v=BmdJHAVEsdY&list=PLvL2NEhYV4Zu0Jrp0l90aU83_AfuFcN_q&index=20)
+- [IPv6-only subnets and EC2 instances (2021)](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-ipv6-only-subnets-and-ec2-instances/) ([HN](https://news.ycombinator.com/item?id=29327190))
+- [Enumerate IAM permissions](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set.
+- [AWS Marketplace - Serverless integration for SaaS products (Example)](https://github.com/aws-samples/aws-marketplace-serverless-saas-integration)
+- [Getting Started with Amazon Web Services](https://aws.amazon.com/getting-started/)
+- [AWS Samples GitHub](https://github.com/aws-samples)

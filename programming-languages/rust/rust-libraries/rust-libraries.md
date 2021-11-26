@@ -5,6 +5,7 @@
 - [argi](https://github.com/Owez/argi) - Argument parsing for the future.
 - [slap](https://github.com/agnipau/slap) - Painless shell argument parsing and dependency check.
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
+- [fncmd](https://github.com/yuhr/fncmd) - Opinionated command line parser frontend that wraps around clap.
 - [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things.
 - [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
 - [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
@@ -171,6 +172,8 @@
 - [clickhouse-rs](https://github.com/suharev7/clickhouse-rs) - Asynchronous Yandex ClickHouse client library for Rust.
 - [Tesseract](https://github.com/tesseract-olap/tesseract) - ROLAP engine for web applications, in Rust.
 - [dgraph-tonic](https://github.com/selmeci/dgraph-tonic) - Async/Sync gRPC client for Dgraph DB.
+- [ScyllaDB Rust Driver](https://github.com/scylladb/scylla-rust-driver) - Async CQL driver for Rust, optimized for Scylla.
+- [Quaint](https://github.com/prisma/quaint) - SQL Query AST and Visitor for Rust.
 
 ## Video
 
@@ -307,6 +310,7 @@
 - [Curves](https://github.com/arkworks-rs/curves) - Implementations of popular elliptic curves.
 - [ark-circom](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
 - [r1cs](https://github.com/mir-protocol/r1cs) - Rust library for building R1CS gadgets over prime fields, which are useful in SNARKs and other argument systems.
+- [Cipher-crypt](https://github.com/arosspope/cipher-crypt) - Library of historic cryptographic algorithms implemented in rust.
 
 ## Linux
 
@@ -328,6 +332,11 @@
 - [inotify-rs](https://github.com/hannobraun/inotify-rs) - Idiomatic inotify wrapper for Rust.
 - [Netlink](https://github.com/little-dude/netlink) - netlink libraries for rust.
 - [libbpf-rs](https://github.com/libbpf/libbpf-rs) - Minimal and opinionated eBPF tooling for the Rust ecosystem.
+- [cgroups-rs](https://github.com/kata-containers/cgroups-rs) - Native Rust library for managing control groups under Linux.
+
+## Embedded
+
+- [volatile-register](https://github.com/japaric/volatile-register) - Volatile access to memory mapped hardware registers.
 
 ## ML
 
@@ -348,6 +357,7 @@
 - [Fruity](https://github.com/nvzqz/fruity) - Rusty bindings for Apple libraries.
 - [core-foundation-rs](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS.
 - [Plist](https://github.com/ebarnard/rust-plist) - Rusty plist parser.
+- [oslog](https://github.com/steven-joruk/oslog) - Rust wrapper around Apple's unified logging system.
 
 ## Macros
 
@@ -445,7 +455,7 @@
 - [Rust-AV](https://github.com/rust-av/rust-av) - Multimedia Toolkit written in pure rust.
 - [cookie-rs](https://github.com/alexcrichton/cookie-rs) - HTTP cookie parsing and cookie jar management for rust.
 - [yoga-rs](https://github.com/bschwind/yoga-rs) - Rust Wrapper of Facebook's Yoga, a Flexbox layout engine.
-- [redux-rs](https://github.com/redux-rs/redux-rs) - Rust implementation of Redux.
+- [redux-rs](https://github.com/redux-rs/redux-rs) - Rust implementation of Redux. ([Fork](https://github.com/tezedge/redux-rs))
 - [Datafrog](https://github.com/rust-lang-nursery/datafrog) - Lightweight Datalog engine intended to be embedded in other Rust programs.
 - [kubernetes-rs](https://github.com/anguslees/kubernetes-rs) - Kubernetes API client library for Rust.
 - [jemallocator](https://github.com/gnzlbg/jemallocator) - Rust allocator using jemalloc as a backend.
@@ -1182,6 +1192,13 @@
 - [annotate-snippets](https://github.com/rust-lang/annotate-snippets-rs) - Rust library for annotation of programming code slices.
 - [iceoryx-rs](https://github.com/eclipse-iceoryx/iceoryx-rs) - Rust wrapper for Eclipse iceoryx - true zero-copy inter-process-communication.
 - [FLAME](https://github.com/llogiq/flame) - Intrusive flamegraph profiling tool for rust.
+- [async-ffi](https://github.com/oxalica/async-ffi) - FFI-compatible futures.
+- [rust-sidekiq](https://github.com/spk/rust-sidekiq) - Rust Sidekiq Client.
+- [generic-str](https://github.com/conradludgate/generic-str) - One true string type in Rust.
+- [CGlue](https://github.com/h33p/cglue) - Rust ABI safe code generator.
+- [cl-traits](https://github.com/c410-f3r/cl-traits) - Library that generalizes collections.
+- [kaze](https://github.com/yupferris/kaze) - HDL embedded in Rust.
+- [tokio-file](https://github.com/asomers/tokio-file) - Asynchronous file I/O for Tokio.
 
 ## Cargo Plugins
 

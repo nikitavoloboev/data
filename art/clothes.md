@@ -1,5 +1,7 @@
 # Clothes
 
+Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/movies/a38241136/keanu-reeves-interview-2021/).
+
 ## Interesting
 
 - [Cat Cardigan](https://www.etsy.com/listing/855368476/cat-cardigan-vintage-christine-foley)

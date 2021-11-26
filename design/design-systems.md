@@ -80,6 +80,8 @@
 - [Style Guide of republik.ch](https://styleguide.republik.ch/) - Exporting React components for typography, forms and various article elements. ([Code](https://github.com/orbiting/styleguide))
 - [Orbit](https://github.com/gsoft-inc/sg-orbit) - Design system for ShareGate.
 - [Talend](https://design.talend.com/) - Design system used to build accessible, consistent, customizable and high quality customer experiences at Talend. ([Code](https://github.com/Talend/design-system))
+- [Moai UI Kit](https://moaijs.com/) - React Component Library, Where Buttons Look Like Buttons. ([Code](https://github.com/moaijs/moai))
+- [Tamagui](https://tamagui.dev/) - React Native + Web UI kit. ([Code](https://github.com/tamagui/tamagui))
 
 ## Notes
 

@@ -98,3 +98,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Awesome Immigration](https://github.com/acacess/awesome-immigration) - Awesome list of long-term visas.
 - [Airheart](https://airheart.com/) - Trip Planner, for Solo Travelers and Groups.
 - [Future of travel (2021)](https://twitter.com/bchesky/status/1457904388366692354)
+- [Location History Visualizer](https://locationhistoryvisualizer.com/heatmap/) - Tool for visualizing your complete, consolidated, collected Google Location History. ([Code](https://github.com/theopolisme/location-history-visualizer))

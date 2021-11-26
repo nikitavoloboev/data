@@ -64,3 +64,5 @@
 - [protobuf-inspector](https://github.com/mildsunrise/protobuf-inspector) - Tool to reverse-engineer Protocol Buffers with unknown definition.
 - [gRPC-Web Dev Tools](https://github.com/SafetyCulture/grpc-web-devtools) - Chrome & Firefox Browser extension to aid gRPC-Web development. ([Fork](https://github.com/jrapoport/grpc-web-devtools))
 - [Using Wireshark to decrypt TLS gRPC Client-Server protobuf messages](https://github.com/salrashid123/grpc_sslkeylog)
+- [Documenting a gRPC API - tools comparison (2021)](https://blog.gendocu.com/posts/documenting-grpc/)
+- [GenDocu](https://gendocu.com/) - gRPC SDK and Documentation generator.

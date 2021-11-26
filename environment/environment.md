@@ -2,6 +2,8 @@
 
 I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [minimize the damage I induce on our planet](https://twitter.com/dino_comics/status/1433485733101293576).
 
+All of that is not enough though unless a [global carbon tax is implemented](https://news.ycombinator.com/item?id=29349066).
+
 ## Notes
 
 - [Over 90% of climate scientists think global warming will be so severe by 2038 or so that we'll hit temperatures shown to be hot enough to wreck the basic crops humanity relies upon for decent survival.](https://twitter.com/ClimateBen/status/1279378054549250059)
@@ -147,3 +149,5 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Treehugger](https://www.treehugger.com/) - Sustainability for All.
 - [Open Source Plastic Scanner](https://plasticscanner.com/) ([HN](https://news.ycombinator.com/item?id=29269584))
 - [Lessons learned after 5 years of climate tech entrepreneurship (2021)](https://oliviercorradi.com/blog/lessons-learned-climate-tech/) ([HN](https://news.ycombinator.com/item?id=29265216))
+- [Greening of the Earth mitigates surface warming (2020)](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming) ([HN](https://news.ycombinator.com/item?id=29335646))
+- [Why Carbon Taxes Work (2021)](https://timharford.com/2021/11/why-carbon-taxes-really-work/) ([HN](https://news.ycombinator.com/item?id=29349066))

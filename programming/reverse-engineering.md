@@ -101,3 +101,4 @@
 - [MUI: Visualizing symbolic execution with Manticore and Binary Ninja (2021)](https://blog.trailofbits.com/2021/11/17/mui-visualizing-symbolic-execution-with-manticore-and-binary-ninja/)
 - [Falcon](https://github.com/falconre/falcon) - Binary Analysis Framework in Rust.
 - [Finch](https://github.com/falconre/finch) - Symbolic Executor over Falcon IL. If it lifts to Falcon IL, it symbolically executes with Finch.
+- [Nintendo Switch reverse engineering attempts](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering)

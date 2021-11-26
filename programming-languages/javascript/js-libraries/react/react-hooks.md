@@ -134,6 +134,7 @@
 - [use-color](https://github.com/junhoyeo/use-color) - Powerful color hook that all designers deserve.
 - [Zustood](https://github.com/udecode/zustood) - Modular store factory using zustand.
 - [use-double-click](https://github.com/tim-soft/use-double-click) - Simple React hook for differentiating single and double clicks on the same component.
+- [react-query-helper](https://github.com/dano-inc/react-query-helper) - Helper library to use react-query more efficient, consistency. ([Reddit](https://www.reddit.com/r/reactjs/comments/r2cyp3/reactqueryhelper_a_helper_library_to_use/))
 
 ## Code
 

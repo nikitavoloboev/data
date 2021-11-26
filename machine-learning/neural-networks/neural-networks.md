@@ -254,4 +254,5 @@
 - [NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics. ([Web](http://alexlenail.me/NN-SVG/))
 - [Scientists built deep neural networks that can map between infinite dimensional spaces (2021)](https://www.quantamagazine.org/latest-neural-nets-solve-worlds-hardest-equations-faster-than-ever-before-20210419)
 - [CNN Explainer - Interpreting Convolutional Neural Networks (2021)](https://gsurma.medium.com/cnn-explainer-interpreting-convolutional-neural-networks-1-n-e81c62cbb660)
-- [Transformers from scratch (2019)](http://peterbloem.nl/blog/transformers)
+- [Transformers from Scratch (2019)](http://peterbloem.nl/blog/transformers)
+- [Transformers from Scratch (2021)](https://e2eml.school/transformers.html) ([HN](https://news.ycombinator.com/item?id=29315107))

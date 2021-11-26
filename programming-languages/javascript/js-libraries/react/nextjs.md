@@ -104,6 +104,8 @@
 - [HappyKit Flags](https://github.com/happykit/flags) - Feature Flags for Next.js. ([Web](https://happykit.dev/))
 - [HappyAuth](https://github.com/happykit/auth-email) - Lightweight authentication specifically designed for Next.js.
 - [HappyKit Analytics](https://github.com/happykit/analytics) - Analytics specifically designed for Next.js.
+- [Next-Plausible](https://github.com/4lejandrito/next-plausible) - Simple integration for Plausible Analytics.
+- [NextAuth.js Adapters](https://github.com/nextauthjs/adapters) - Next-auth adapters that are maintained by the community to support any database.
 
 ## Notes
 
@@ -291,3 +293,5 @@
 - [What are using getInitialProps for? (2021)](https://twitter.com/devknoll/status/1457422200324046852)
 - [Latest recommendation on CSS for a Next.js site (2021)](https://twitter.com/Gavmn/status/1459649806511460354)
 - [Production-Grade Next.js](https://production-grade-nextjs.vercel.app/) ([Code](https://github.com/Hendrixer/production-grade-nextjs))
+- [Open-Source Auth for NextJS (2021)](https://ory.dev/login-spa-react-nextjs-authentication-example-api-open-source/) ([HN](https://news.ycombinator.com/item?id=29329610))
+- [Let's build Twitter with (Next.js, Tailwind CSS, Firebase v9, NextAuth, Recoil) (2021)](https://www.youtube.com/watch?v=5Wak0iyGCrc) ([Code](https://github.com/lukef7fywmrp/twitter-clone))

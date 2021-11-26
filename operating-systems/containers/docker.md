@@ -163,3 +163,4 @@
 - [Docker Registry Helm Chart](https://github.com/twuni/docker-registry.helm)
 - [compose-go](https://github.com/compose-spec/compose-go) - Go reference library for parsing and loading Compose files as specified by the Compose specification.
 - [Anchore Engine](https://github.com/anchore/anchore-engine) - Service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification.
+- [Small Docker Images (2021)](https://mattglei.ch/blog/small-docker-images)

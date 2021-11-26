@@ -79,3 +79,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [AppFlowy](https://www.appflowy.io/) - Open-source Notion Alternative. ([Code](https://github.com/AppFlowy-IO/appflowy)) ([HN](https://news.ycombinator.com/item?id=29234805))
 - [Notaku](https://notaku.website/) - Docs website from Notion content. ([Tweet](https://twitter.com/__morse/status/1461738430698860544))
 - [Hoppa](https://gethoppa.com/) - Turn your Notion page into help center.
+- [Notion Generator](https://github.com/Mathspy/notion-generator) - Generate an HTML page based on a Notion document.

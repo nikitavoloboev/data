@@ -5,6 +5,7 @@
 ## OSS Remix apps
 
 - [Remix Jokes](https://github.com/remix-run/remix-jokes)
+- [Tim's site](https://github.com/timc1/tim)
 
 ## Links
 
@@ -17,3 +18,8 @@
 - [HN: Remix (2021)](https://news.ycombinator.com/item?id=29312067)
 - [Where Remix shines at (2021)](https://twitter.com/flybayer/status/1463125540135649284)
 - [Remix Tutorial with Kent (2021)](https://www.youtube.com/watch?v=hsIWJpuxNj0) ([Code](https://github.com/kentcdodds/remix-tutorial-walkthrough))
+- [Remix Utils](https://github.com/sergiodxa/remix-utils) - Set of utility functions and types to use with Remix.run.
+- [Remix Tailwind Starter](https://github.com/mcansh/remix-tailwind-starter)
+- [Remix Guide](https://remix.guide/) - Interactive list of awesome stuffs about Remix. ([Code](https://github.com/edmundhung/remix-guide))
+- [remix-worker-template](https://github.com/edmundhung/remix-worker-template) - All-in-one remix starter template for Cloudflare Workers.
+- [Remix Validated Form](https://github.com/airjp73/remix-validated-form) - Form library built for remix to make validation easy.

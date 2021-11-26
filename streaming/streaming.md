@@ -68,3 +68,4 @@ Here are tools I use for streaming:
 - [Starting to livestream with OBS](https://ryanharris.dev/posts/going-live-with-obs/)
 - [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
 - [Twitch](https://www.twitch.tv/) - Interactive live streaming service. ([Code Hacked](https://news.ycombinator.com/item?id=28774910))
+- [Virtual Log-Structured Storage for High-Performance Streaming (2021)](https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf)

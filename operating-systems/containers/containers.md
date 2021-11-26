@@ -155,3 +155,4 @@
 - [Reasons to choose VMs over containers? (2021)](https://www.reddit.com/r/devops/comments/qvzrkm/are_there_any_reasons_to_choose_vms_over/)
 - [OCI Distribution in Rust](https://github.com/krustlet/oci-distribution) - Goal of this crate is to provide a way to pull WASM modules from a Docker registry.
 - [Learning Containers From The Bottom Up (2021)](https://iximiuz.com/en/posts/container-learning-path/) ([HN](https://news.ycombinator.com/item?id=29265061))
+- [P2P Container Image Distribution on IPFS With Containerd (2021)](https://medium.com/nttlabs/nerdctl-ipfs-975569520e3d) ([Tweet](https://twitter.com/TokunagaKohei/status/1463438249137827840))

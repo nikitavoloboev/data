@@ -169,3 +169,5 @@
 - [Awaiting WebSockets in SwiftUI (2021)](https://obscuredpixels.com/awaiting-websockets-in-swiftui)
 - [The Easiest way to use Firestore in SwiftUI | FirestoreQuery (2021)](https://www.youtube.com/watch?v=TogxXiDmyss)
 - [Displaying badges in SwiftUI (2021)](https://swiftwithmajid.com/2021/11/10/displaying-badges-in-swiftui/)
+- [Three beautiful macOS sidebars. Two built in Cocoa, and the third in SwiftUI](https://github.com/revblaze/SimpleSidebar)
+- [Transactions and Animations (2021)](https://www.objc.io/blog/2021/11/25/transactions-and-animations/)

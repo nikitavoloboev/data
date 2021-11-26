@@ -232,3 +232,6 @@
 - [Xplique](https://github.com/deel-ai/xplique) - Neural Networks Explainability Toolbox.
 - [Causal ML](https://github.com/uber/causalml) - Python Package for Uplift Modeling and Causal Inference with ML.
 - [sklearn-onnx](https://github.com/onnx/sklearn-onnx) - Convert scikit-learn models and pipelines to ONNX.
+- [Tools for JAX](https://github.com/NeilGirdhar/tjax) - Variety of tools for the differential programming library JAX.
+- [KML](https://github.com/sbu-fsl/kernel-ml) - Machine Learning Framework for Operating Systems & Storage Systems. ([HN](https://news.ycombinator.com/item?id=29315135))
+- [ENN Incubator](https://github.com/entity-neural-network/incubator) - Collection of in-progress libraries for entity neural networks.

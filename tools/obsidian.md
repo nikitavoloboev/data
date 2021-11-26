@@ -43,6 +43,7 @@
 - [Smarter Markdown Hotkeys](https://github.com/chrisgrieser/obsidian-smarter-md-hotkeys) - Markdown hotkeys that automatically select words before applying markup.
 - [Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc) - Adds command palette options to export your notes to a variety of formats.
 - [CardBoard](https://github.com/roovo/obsidian-card-board) - Obsidian plugin to make working with tasks a pleasure.
+- [Metadata Extractor](https://github.com/kometenstaub/metadata-extractor) - Allows you to write Obsidian vault metadata, which is only accessible via plugin, onto the hard drive.
 
 ## Themes
 
@@ -72,3 +73,5 @@
 - [Obsidian PreactJS Template](https://github.com/obsidian-community/obsidian-preact-template)
 - [Obsidian Community Lib](https://github.com/obsidian-community/obsidian-community-lib) - Community-maintained library of commonly used functions when developing Obsidian plugins.
 - [Obsidian Link Scrapper](https://github.com/jackyzha0/hugo-obsidian) - Simple GitHub action to parse Markdown Links into a .yaml file for Hugo.
+- [Obsidian Tools](https://github.com/obsidian-tools/obsidian-tools) - Collection of tools that helps devs build plugins for obsidian.
+- [Obsidian Python lab plugin](https://github.com/cristianvasquez/obsidian-lab) - Collection of dumb interfaces to enable python developers to use/test functionality within Obsidian.

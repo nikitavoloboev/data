@@ -350,7 +350,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Web3 Starter](https://github.com/iMuzz/web3-starter) ([Web](https://www.web3starter.xyz/))
 - [EIP validator](https://github.com/lightclient/eipv) - Ethereum Improvement Proposal Validator.
 - [Best ways to stake Eth (2021)](https://www.reddit.com/r/ethereum/comments/qmfx43/coinbase_eth_staking_rewards_have_dropped_down/)
-- [StarkNet](https://starkware.co/starknet/) - Permissionless Decentralized ZK-Rollup. Operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation. [(JS Client](https://github.com/seanjameshan/starknet.js))
+- [StarkNet](https://starkware.co/starknet/) - Permissionless Decentralized ZK-Rollup. Operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation. [(JS Client](https://github.com/seanjameshan/starknet.js)) ([Starknet Rust Code](https://github.com/eqlabs/pathfinder))
 - [OpenZeppelin Nile](https://github.com/OpenZeppelin/nile) - CLI tool to develop StarkNet projects written in Cairo.
 - [Yield Protocol Liquidator](https://github.com/yieldprotocol/yield-liquidator) - Utility for force-closing undercollateralized Yield Protocol loans and participating in dutch auctions with liquidity sourced by Uniswap flash loans.
 - [Ray tracing on the Ethereum Virtual Machine](https://github.com/axic/snailtracer)
@@ -389,3 +389,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Resources on StarkWare/Cairo/StarkNet (2021)](https://twitter.com/gakonst/status/1463138930992295942)
 - [SolGrep](https://github.com/tintinweb/solgrep) - Scriptable semantic grep utility for solidity.
 - [Starknet DAI Bridge](https://github.com/makerdao/starknet-dai-bridge)
+- [Remix Project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions. ([Docs](https://remix-ide.readthedocs.io/en/latest/))
+- [Eth2 Remote Signer](https://github.com/prysmaticlabs/remote-signer) - Remote signer server reference implementation for eth2.
+- [The Senior Solidity Engineer's Book](https://solidity-book.netlify.app/) ([Code](https://github.com/gakonst/solidity-book))
+- [Peggo](https://github.com/celestiaorg/quantum-gravity-bridge) - Celestia -> EVM bridge.

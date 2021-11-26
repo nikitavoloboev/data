@@ -65,3 +65,6 @@
 - [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) - Python interface to the WebRTC Voice Activity Detector.
 - [Examples WebRTC Applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries.
 - [WebRTC peer-to-peer](https://github.com/js-platform/p2p) - JS library that makes it easy to manage RTC peer connections, streams and data channels.
+- [WebRTC connector for Yjs](https://github.com/yjs/y-webrtc)
+- [WebRTCStats](https://github.com/peermetrics/webrtc-stats) - Helps you collect stats for peer connections.
+- [Socket.IO P2P](https://github.com/socketio/socket.io-p2p) - Easy and reliable way to setup a WebRTC connection between peers and communicate using events.

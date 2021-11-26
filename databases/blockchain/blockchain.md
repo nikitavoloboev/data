@@ -61,6 +61,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [One of the coolest things about crypto is being able to fork mainnet locally and just like...experiment with building on top of other peoples' contracts without hitting them. Such a mindset shift from web2. like you can turn the whole web into a staging environment. wild.](https://twitter.com/jongold/status/1458553279562989571)
 - [The only API you should trust is one controlled by a blockchain. Can’t be evil > don’t be evil. There’s key digital information (money, identity, digital assets, etc.) that users should have ultimate control of, and if this was trivially easy to access between apps, that would lead to vastly more innovation in software.](https://twitter.com/cdixon/status/1461723922336915459)
 - [You can actually download all NFT images stored on sol/eth/tezos chains. Write software that will scan every block on any chain from genesis and if the links to an image (probably IPFS url), then download it to a directory. Do it for any chain and can do it continuously as a running program then create a gallery URL perhaps. Essentially build a web page in which images stored on chain are streamed and shown in real from different chains.](https://news.ycombinator.com/item?id=29290156)
+- [Many people misunderstand NFTs as 'paying for access' because that's the only (direct) relationship money has had with digital media until now. ownership without gated access is a conceptual leap, but it's worth making.](https://twitter.com/jstn/status/1464207143934910468)
 
 ## Links
 
@@ -295,4 +296,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [TheNFTBay: Fake, but Worth Discussing (2021)](https://www.clubnft.com/blog/the-trillion-byte-let-down) ([HN](https://news.ycombinator.com/item?id=29290156))
 - [Substrate Cumulus Parachain Template](https://github.com/substrate-developer-hub/substrate-parachain-template) - New Cumulus-based Substrate node, ready for hacking.
 - [Anoma](https://anoma.network/) - Sovereign, proof-of-stake blockchain protocol that enables private, asset-agnostic cash and private bartering among any number of parties. ([Code](https://github.com/anoma/anoma))
-- [Celestia](https://celestia.org/) - Pluggable consensus and data availability layer, to enable anyone to quickly deploy a decentralised blockchain without the overhead of bootstrapping a new consensus network. ([Code](https://github.com/celestiaorg/celestia-core))
+- [Celestia](https://celestia.org/) - Pluggable consensus and data availability layer, to enable anyone to quickly deploy a decentralised blockchain without the overhead of bootstrapping a new consensus network. ([Code](https://github.com/celestiaorg/celestia-core)) ([GitHub](https://github.com/celestiaorg))
+- [Awesome Blockchain Rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
+- [Decentralized versions of Patreon/OnlyFans (2021)](https://twitter.com/albertwenger/status/1464305621394759684)

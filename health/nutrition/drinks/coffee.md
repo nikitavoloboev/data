@@ -56,3 +56,4 @@
 - [Открыл кофейню в деревне у границ России: #монолог австрийского оптимиста (2020)](https://www.youtube.com/watch?v=4Qqj0PnHIEI)
 - [Breville Barista Express Espresso Maker](https://www.gearpatrol.com/deals/a557390/breville-barista-express-espresso-machine-deal/) ([Tweet](https://twitter.com/einarvollset/status/1450325845097140227))
 - [Ultimate set of machines and tools to be able to make espresso, lattes, and everything in between (2021)](https://twitter.com/patrick_oshag/status/1457346856254586885)
+- [The Humble Brilliance of Italy's Moka Coffee Pot (2018)](https://www.atlasobscura.com/articles/make-coffee-moka-pot) ([HN](https://news.ycombinator.com/item?id=29347665))

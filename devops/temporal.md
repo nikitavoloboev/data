@@ -10,3 +10,4 @@
 - [Temporal Web Code](https://github.com/temporalio/temporaldotio)
 - [Temporal TypeScript SDK](https://github.com/temporalio/sdk-typescript)
 - [Temporal Rust Core SDK](https://github.com/temporalio/sdk-core)
+- [Temporal TypeScript Samples](https://github.com/temporalio/samples-typescript)

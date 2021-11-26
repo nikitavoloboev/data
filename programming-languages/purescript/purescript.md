@@ -40,3 +40,4 @@
 - [HTTPure](https://github.com/cprussin/purescript-httpure) - Web framework written in PureScript.
 - [dovetail](https://hackage.haskell.org/package/dovetail) - PureScript interpreter with a Haskell FFI.
 - [Purescript for Elm devs](https://github.com/alpacaaa/elm-to-purescript-cheatsheet)
+- [purescript2nix](https://github.com/cdepillabout/purescript2nix) - Tool for easily building PureScript projects with Nix.

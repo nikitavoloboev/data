@@ -131,3 +131,4 @@ source script
 - [Bash-TPL](https://github.com/TekWizely/bash-tpl) - Smart, lightweight shell script templating engine, written in Bash.
 - [Bash functions are better than I thought (2021)](https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/) ([Reddit](https://www.reddit.com/r/programming/comments/qjnzmn/underwhelmed_by_bash_functions_maybe_youre_using/)) ([HN](https://news.ycombinator.com/item?id=29058140))
 - [bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash.
+- [Bash patterns I use weekly](https://will-keleher.com/posts/5-Useful-Bash-Patterns.html) ([HN](https://news.ycombinator.com/item?id=29318751))

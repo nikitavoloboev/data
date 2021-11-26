@@ -62,3 +62,4 @@
 - [schemeCompiler](https://github.com/mhuesch/schemeCompiler) - Compiler for a subset of Scheme in Haskell.
 - [Write You a Scheme in Haskell](https://github.com/write-you-a-scheme-v2/scheme) ([Web](https://www.wespiser.com/writings/wyas/home.html))
 - [Interactive Scheme Primer, written in Scheme](https://github.com/webyrd/scheme-primer)
+- [A small scheme VM, compiler, and REPL in 4k (2021)](https://dl.acm.org/doi/10.1145/3486606.3486783) ([HN](https://news.ycombinator.com/item?id=29348033))

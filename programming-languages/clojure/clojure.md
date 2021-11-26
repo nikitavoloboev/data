@@ -180,3 +180,5 @@
 - [Sayid](https://github.com/clojure-emacs/sayid) - Debugger for Clojure.
 - ["Inside core.async Channels" by Rich Hickey (2014)](https://www.youtube.com/watch?v=hMEX6lfBeRM)
 - [Circular Programming in Clojure (2021)](https://cuddly-octo-palm-tree.com/posts/2021-11-21-circular-clojure/)
+- [Abstract Clojure (2021)](https://www.juxt.pro/blog/abstract-clojure)
+- [Clojure and ClojureScript Posts](https://quanttype.net/tags/clojure.html)
