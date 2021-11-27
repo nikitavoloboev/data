@@ -90,3 +90,4 @@
 - [Keva](https://keva.dev/) - High performance key-value store, used as Redis replacement. ([Code](https://github.com/keva-dev/keva))
 - [RedisPipe](https://github.com/joomcode/redispipe) - High-throughput Redis client for Go with implicit pipelining.
 - [TairHash](https://github.com/alibaba/TairHash) - Redis module, similar to redis hash, but you can set expiration and version for field.
+- [Kredis](https://github.com/rails/kredis) - Higher-level data structures built on Redis.

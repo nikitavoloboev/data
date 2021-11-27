@@ -201,6 +201,7 @@
 - [Tame VSCode autoimports in a TS monorepo](https://github.com/nandorojo/ts-monorepo-autoimport-guide)
 - [StaticScript](https://github.com/ovr/StaticScript) - TypeScript compiler on top of TypeScript as frontend and LLVM as backend.
 - [tsplay.dev](https://tsplay-dev.vercel.app/) - TypeScript Playground Shortener. ([Code](https://github.com/gillchristian/tsplay.dev))
+- [TypeScript's excess properties can bite you (2021)](https://www.executeprogram.com/blog/typescripts-excess-properties-can-bite-you)
 
 ## Images
 
