@@ -73,3 +73,4 @@
 - [fpga_puf](https://github.com/stnolting/fpga_puf) - Technology-agnostic Physical Unclonable Function (PUF) hardware module for any FPGA.
 - [PiDRAM: A Holistic End-to-end FPGA-based Framework for Processing-in-DRAM (2021)](https://arxiv.org/abs/2111.00082) ([Code](https://github.com/CMU-SAFARI/PiDRAM))
 - [Retrocomputing with Clash: Haskell for FPGA Hardware Design](https://unsafeperform.io/retroclash/) ([HN](https://news.ycombinator.com/item?id=29313350))
+- [Quicklogic FPGA Toolchain](https://github.com/QuickLogic-Corp/quicklogic-fpga-toolchain) - Open Source FPGA toolchain and documentation for QuickLogic devices and eFPGA IP.

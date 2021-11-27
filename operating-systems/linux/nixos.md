@@ -44,6 +44,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Pablo Corral](https://github.com/pinpox/nixos)
 - [jkachmar](https://github.com/jkachmar/dotnix)
 - [Xe](https://github.com/Xe/nixos-configs)
+- [Eric Dallo](https://github.com/ericdallo/dotfiles)
 
 ## Nix configs (macOS)
 
@@ -52,6 +53,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [cmacrae](https://github.com/cmacrae/.nixpkgs/blob/master/darwin-configuration.nix)
 - [Tom's nix-configs](https://github.com/nocoolnametom/nix-configs)
 - [Phil Pluckthun](https://github.com/kitten/nix-system)
+- [Nix-Darwin-Dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles)
 
 ## Notes
 
@@ -170,3 +172,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOps is easier than I thought (2021)](https://sgt.hootr.club/molten-matter/nixops-on-the-pi/)
 - [Nix System Configuration](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager.
 - [bootspec](https://github.com/DeterminateSystems/bootspec) - Research project that aims to improve the bootloader story in NixOS.
+- [NixOS: Headless Home Assistant VM (2021)](https://myme.no/posts/2021-11-25-nixos-home-assistant.html)

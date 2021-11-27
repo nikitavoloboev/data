@@ -301,7 +301,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Digital gardens (2020)](https://schof.co/digital-garden/)
 - [Zettlr](https://www.zettlr.com/) - A Markdown Editor for the 21st Century. ([Why is Zettlr Open Source?](https://www.zettlr.com/post/why-zettlr-open-source)) ([Code](https://github.com/Zettlr/Zettlr))
 - [CodiMD](https://github.com/codimd/server) - Self-hosted, real-time collaborative markdown notes. ([HN](https://news.ycombinator.com/item?id=23997361))
-- [logseq](https://logseq.com/) - Local-first knowledge base which syncs using Github. ([Code](https://github.com/logseq/logseq)) ([HN](https://news.ycombinator.com/item?id=25090176)) ([Awesome](https://github.com/logseq/awesome-logseq))
+- [Logseq](https://logseq.com/) - Local-first knowledge base which syncs using Github. ([Code](https://github.com/logseq/logseq)) ([HN](https://news.ycombinator.com/item?id=25090176)) ([Awesome](https://github.com/logseq/awesome-logseq)) ([Plugin Samples](https://github.com/logseq/logseq-plugin-samples))
 - [Sharing knowledge in a remote team, across timezones (2020)](https://erickhun.com/posts/sharing-knowledge-in-a-remote-team/) ([HN](https://news.ycombinator.com/item?id=24021103))
 - [Foam: One Month In (2020)](https://jevakallio.github.io/notes/foam-one-month-in)
 - [If you take notes, which note-taking tool do you use? (2020)](https://twitter.com/anthilemoon/status/1291646162919993344)

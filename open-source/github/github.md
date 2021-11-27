@@ -313,3 +313,4 @@ Awesome List
 - [CLI: Delete GitHub Branches that match patterns](https://github.com/azu/delete-github-branches)
 - [Discuss with Atinux](https://github.com/Atinux/discuss) - Demo of using Nuxt 3 with GitHub authentication and creating issues with real-time updates.
 - [gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
+- [gh label](https://github.com/heaths/gh-label) - GitHub CLI extension for issue label management.

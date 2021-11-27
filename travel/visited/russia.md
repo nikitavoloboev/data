@@ -353,3 +353,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [О чем на самом деле любимые советские фильмы? (2021)](https://www.youtube.com/watch?v=1aDB1TksfUU)
 - [Summary of Soviet economics at the fall of USSR](https://echelon.pl/nikolay-shmelyov-avansy-i-dolgi-credits-and-debts-novyi-mir-1987-6.html)
 - [Colta.ru](https://www.colta.ru/) - Всё о культуре и духе времени. ([Twitter](https://twitter.com/ColtaRu))
+- [Соратница Навального Ирина Фатьянова уехала из России, опасаясь преследования. Она рассказывает о том, как ей пришлось бросить все — и почему она не отчаивается (2021)](https://meduza.io/episodes/2021/11/26/soratnitsa-navalnogo-irina-fatyanova-uehala-iz-rossii-opasayas-presledovaniya-ona-rasskazyvaet-o-tom-kak-ey-prishlos-brosit-vse-i-pochemu-ona-ne-otchaivaetsya)

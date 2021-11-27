@@ -199,3 +199,4 @@
 - [sanitize-html](https://github.com/apostrophecms/sanitize-html) - Simple HTML sanitizer with a clear API.
 - [Cross-fading any two DOM elements is currently impossible (2021)](https://jakearchibald.com/2021/dom-cross-fade/) ([Tweet](https://twitter.com/jaffathecake/status/1462803936679763971))
 - [html5gum](https://github.com/untitaker/html5gum) - WHATWG-compliant HTML tokenizer in Rust.
+- [Super OG Images](https://superblog.ai/og) - API to create opengraph images programmatically. ([Code](https://github.com/s-kris/super-og-images))

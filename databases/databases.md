@@ -182,6 +182,7 @@
 - [Kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
 - [Ambry](https://github.com/linkedin/ambry) - Distributed object store that supports storage of trillion of small immutable objects (50K -100K) as well as billions of large objects.
 - [ChaosDB](https://chaosdb.wiz.io/) - Unauthorized Privileged Access to Microsoft Azure Cosmos DB. ([Explained](https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough)) ([HN](https://news.ycombinator.com/item?id=29283057))
+- [MirDB](https://github.com/yetone/mirdb) - Persistent Key-Value Store with Memcached protocol.
 
 ## Tools
 
@@ -480,3 +481,5 @@
 - [The history of Berkeley DB (2021)](https://queue.acm.org/detail.cfm?id=3501713)
 - [Papers for database systems powered by artificial intelligence (machine learning for database)](https://github.com/LumingSun/ML4DB-paper-list)
 - [Things I learned from building a production database (2021)](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html) ([HN](https://news.ycombinator.com/item?id=29322515))
+- [LSM-Tree Key-Value Store based on RocksDB](https://github.com/adambcomer/database-engine)
+- [Build a Simple Database Tutorial](https://adambcomer.com/blog/simple-database/)

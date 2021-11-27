@@ -174,6 +174,7 @@
 - [dgraph-tonic](https://github.com/selmeci/dgraph-tonic) - Async/Sync gRPC client for Dgraph DB.
 - [ScyllaDB Rust Driver](https://github.com/scylladb/scylla-rust-driver) - Async CQL driver for Rust, optimized for Scylla.
 - [Quaint](https://github.com/prisma/quaint) - SQL Query AST and Visitor for Rust.
+- [lsm_engine](https://github.com/NavyaZaveri/lsm_engine) - Rust implementation of a key-value store with Log-Structured Merge Trees.
 
 ## Video
 
@@ -211,6 +212,7 @@
 - [Blue Engine](https://github.com/ElhamAryanpur/BlueEngine) - General-purpose, easy-to-use, fast, extendable, secure, and portable graphics engine written in rust.
 - [Flou](https://github.com/Asha20/flou) - Flowchart description language. ([Docs](https://asha20.github.io/flou/)) ([Reddit](https://www.reddit.com/r/rust/comments/qrgjky/excited_to_share_my_first_crate_flou_a_flowchart/))
 - [geom3d](https://github.com/J-F-Liu/geom3d) - Data structures and algorithms for 3D geometric modeling.
+- [dolly](https://github.com/h3r2tic/dolly) - Composable camera rigs.
 
 ## Games
 
@@ -333,6 +335,7 @@
 - [Netlink](https://github.com/little-dude/netlink) - netlink libraries for rust.
 - [libbpf-rs](https://github.com/libbpf/libbpf-rs) - Minimal and opinionated eBPF tooling for the Rust ecosystem.
 - [cgroups-rs](https://github.com/kata-containers/cgroups-rs) - Native Rust library for managing control groups under Linux.
+- [Rust iptables](https://github.com/yaa110/rust-iptables) - Bindings for iptables application in Linux.
 
 ## Embedded
 

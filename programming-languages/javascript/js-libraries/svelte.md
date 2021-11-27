@@ -141,3 +141,4 @@
 - [Svelte Summit Fall 2021](https://www.youtube.com/watch?v=1Df-9EKvZr0)
 - [NOVAS](https://github.com/NOVASland/NOVAS) - Build tool that lets developers easily set up Svelte applications in a Deno runtime.
 - [cloudflare-workers-svelte](https://github.com/hazcod/cloudflare-workers-svelte) - Example repository for running a sveltejs/sveltekit website on Cloudflare Workers.
+- [Introduction to Svelte Actions (2021)](https://blog.logrocket.com/svelte-actions-introduction/)

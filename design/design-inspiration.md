@@ -377,6 +377,7 @@ Here are few more things I liked, design wise.
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Zach Bruggeman](https://bruggie.com/)
 - [MaybeVoid](https://maybevoid.com/)
+- [Nikita Kolmogorov](https://borodutch.com/)
 - [Paul Copplestone](https://paul.copplest.one/)
 - [Sequoia McDowell](https://sequoia.makes.software/)
 - [Femke van Schoonhoven](https://www.femke.co.nz/)
@@ -867,3 +868,4 @@ Here are few more things I liked, design wise.
 - [Brutalist Websites](https://brutalistwebsites.com/)
 - [Ask HN: Best Tip for Landing Pages? (2021)](https://news.ycombinator.com/item?id=28693542)
 - [A Showcase Of Lovely Little Websites (2021)](https://www.smashingmagazine.com/2021/11/showcase-lovely-little-websites/)
+- [Ask HN: What are the best-designed things you've ever used? (2021)](https://news.ycombinator.com/item?id=29353980)

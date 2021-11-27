@@ -29,3 +29,4 @@
 - [The Road to PHP: Static Analysis](https://road-to-php.com/static)
 - [Yes, PHP Is Worth Learning/Using in $Current_year (2021)](https://bulletproofphp.dev/yes-php-is-worth-using) ([HN](https://news.ycombinator.com/item?id=29260242))
 - [What's Next In PHP? (with James Brooks and Freek Van der Herten) (2021)](https://www.youtube.com/watch?v=KnaR_IIXQH0)
+- [Termwind](https://github.com/nunomaduro/termwind) - Build unique and beautiful PHP command-line applications, using the Tailwind CSS API.

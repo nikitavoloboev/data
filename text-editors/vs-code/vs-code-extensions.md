@@ -375,6 +375,7 @@ Below is a list of extensions I use.
 
 ## Swift
 
+- [Swift for VSCode](https://github.com/swift-server/vscode-swift)
 - [Swift Development Environment](https://marketplace.visualstudio.com/items?itemName=vknabel.vscode-swift-development-environment) ([Code](https://github.com/vknabel/vscode-swift-development-environment))
 
 ## Deploy

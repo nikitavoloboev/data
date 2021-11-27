@@ -347,6 +347,7 @@
 - [ImageClipboard](https://github.com/hyrodium/ImageClipboard.jl) - Copy & Paste images with Julia.
 - [Dictionaries](https://github.com/andyferris/Dictionaries.jl) - Alternative interface for dictionaries in Julia, for improved productivity and performance.
 - [PrettyPrinting.jl](https://github.com/MechanicalRabbit/PrettyPrinting.jl) - Julia library for optimal formatting of composite data structures.
+- [Cpp.jl](https://github.com/timholy/Cpp.jl) - Utilities for calling C++ from Julia.
 
 ## Links
 

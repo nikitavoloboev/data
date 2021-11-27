@@ -56,3 +56,4 @@
 - [NGINX Prometheus Exporter](https://github.com/nginxinc/nginx-prometheus-exporter)
 - [NGINX GitHub](https://github.com/nginxinc)
 - [nginx testing](https://github.com/jirutka/nginx-testing) - Support for integration/acceptance testing of nginx configuration in TypeScript/JavaScript.
+- [nginx-rs](https://github.com/arvancloud/nginx-rs) - Nginx bindings for Rust.

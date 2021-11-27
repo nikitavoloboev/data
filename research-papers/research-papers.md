@@ -146,3 +146,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Pulling Google Scholar Citation Counts with a Zotero Plugin for Sorting Papers (2021)](https://justinribeiro.com/chronicle/2021/11/17/pulling-google-scholar-citation-counts-with-a-zotero-plugin-for-sorting-papers/)
 - [Online BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/) - Clean up BibTeX files. ([Code](https://github.com/FlamingTempura/bibtex-tidy)) ([HN](https://news.ycombinator.com/item?id=29339853))
 - [betterbib](https://github.com/nschloe/betterbib) - Update BibTeX files with info from online resources.
+- [arxiv-utils](https://github.com/j3soon/arxiv-utils) - Meaningful titles for tabs and PDF downloads! Also supports tab search.
