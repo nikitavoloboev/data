@@ -163,6 +163,7 @@
 ## Error
 
 - [ErrorTypes](https://github.com/jakobnissen/ErrorTypes.jl) - Rust-like error types in Julia.
+- [InteractiveErrors.jl](https://github.com/MichaelHatherly/InteractiveErrors.jl) - Interactive error messages for the Julia REPL.
 
 ## Other
 

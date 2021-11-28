@@ -104,3 +104,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [md-block](https://github.com/LeaVerou/md-block) - Custom element for rendering stylable (light DOM) Markdown. ([Article](https://lea.verou.me/2021/11/on-yak-shaving-and-md-block-an-html-element-for-markdown/))
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown.
 - [mdsh](https://github.com/zimbatm/mdsh) - Markdown shell pre-processor.
+- [markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx) - Most lightweight, customizable React markdown component.
