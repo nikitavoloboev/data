@@ -134,3 +134,4 @@
 - [ZIO Cheat Sheet](https://github.com/ghostdogpr/zio-cheatsheet)
 - [Best Scala framework / libraries (2021)](https://www.reddit.com/r/scala/comments/qilhao/best_scala_framework_libraries_out_there/)
 - [FP libraries that target scala 3 exclusively? (2021)](https://www.reddit.com/r/scala/comments/qznudw/fp_libraries_that_target_scala_3_exclusively/)
+- [Scala libraries for ML (2021)](https://www.reddit.com/r/scala/comments/r3x8mm/what_libraries_do_you_use_for_machine_learning/)

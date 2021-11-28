@@ -256,3 +256,4 @@
 - [Ask HN: What’s the best TV to buy? (2021)](https://news.ycombinator.com/item?id=29343338)
 - [bazel_rules_hdl](https://github.com/hdl/bazel_rules_hdl) - Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel.
 - [How to jailbreak an Amazon Echo Dot?](https://lobste.rs/s/qmoy4y/how_jailbreak_amazon_echo_dot)
+- [What's the best PC gaming setup these days? (2021)](https://twitter.com/aeyakovenko/status/1465017842915446787)

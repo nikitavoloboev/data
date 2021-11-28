@@ -30,7 +30,7 @@
 - [Infomate](https://infomate.club/) - Small web service that shows multiple RSS sources on one page and performs tricky parsing and summarizing articles using TextRank algorithm. ([Code](https://github.com/vas3k/infomate.club))
 - [PolitePol](https://politepol.com/en/) - RSS feed generator website with user friendly interface. ([Code](https://github.com/taroved/pol))
 - [It's Time to Get Back Into RSS (2020)](https://danielmiessler.com/blog/its-time-to-get-back-into-rss/) ([HN](https://news.ycombinator.com/item?id=23212812))
-- [RSS-proxy](https://github.com/damoeb/rss-proxy) - Allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
+- [RSS-proxy](https://github.com/damoeb/rss-proxy) - Create an RSS/ATOM or JSON feed of almost any website. ([HN](https://news.ycombinator.com/item?id=29369706))
 - [RSParser](https://github.com/Ranchero-Software/RSParser) - Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
 - [HTTP Conditional Get for RSS Hackers (2002)](https://fishbowl.pastiche.org/2002/10/21/http_conditional_get_for_rss_hackers)
 - [Bespoke software, and a really simple RSS aggregator (2020)](https://routley.io/posts/bespoke-software-rss-aggregator/) ([HN](https://news.ycombinator.com/item?id=23304512))

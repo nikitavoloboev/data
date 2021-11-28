@@ -283,3 +283,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [synchronous-worker](https://github.com/addaleax/synchronous-worker) - Run Node.js APIs synchronously.
 - [Base](https://github.com/base/base) - Foundation for creating modular, unit testable and highly pluggable, server-side node.js applications.
 - [node-safe](https://github.com/berstend/node-safe) - Make using Node.js safe again with Deno-like permissions.
+- [shrun](https://github.com/rylandg/shrun) - Test NodeJS CLI commands in isolated docker containers.

@@ -562,3 +562,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Beliefs about how things are and how they should be (2018)](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md)
 - [EmojiMix](https://tikolu.net/emojimix/) ([HN](https://news.ycombinator.com/item?id=29305546))
 - [HackerNews Toolkit in Rust (CLI/API)](https://github.com/scastiel/hn)
+- [SuperTunnel Simulator](https://supertunnel.app/) - Find Out What’s on the Other Side of the World. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/r3xe9g/find_out_whats_on_the_other_side_of_the_world/))

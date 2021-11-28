@@ -848,6 +848,10 @@ Here are few more things I liked, design wise.
 
 - [Nice use of Inter font](https://the-brandidentity.com/feed/no-service-24-7s-campaign-electric-scooter-brand-unu-lets-product-talking/)
 
+## Notes
+
+- [Like the top bar on hover instantly showing more info.](https://www.lvmh.fr/)
+
 ## Links
 
 - [Awesome Creative Portfolios](https://github.com/iRaul/awesome-portfolios)

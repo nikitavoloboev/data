@@ -179,3 +179,4 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [All the different parts of a Solana transaction](https://twitter.com/pencilflip/status/1463284754841681920)
 - [Mango v3 Client Library](https://github.com/blockworks-foundation/mango-client-v3)
 - [Solana Cookbook](https://solanacookbook.com/recipes/getting-started.html#install-web3js) ([Code](https://github.com/solana-dev-adv/solana-cookbook))
+- [Where to get best yield on mSOL (marinade) without impermanent loss risk? (2021)](https://www.reddit.com/r/solana/comments/r46s4o/where_to_get_best_yield_on_msol_marinade_without/)
