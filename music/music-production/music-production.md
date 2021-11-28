@@ -289,3 +289,4 @@
 - [Audio Editor Online](https://editor.audio/)
 - [Jamulus](https://jamulus.io/) - Play music online. With friends. For free. ([Code](https://github.com/jamulussoftware/jamulus)) ([HN](https://news.ycombinator.com/item?id=29338455))
 - [Let's make a music teacher (2021)](https://swiftindepth.com/articles/lets-make-a-music-teacher-1/index.html) ([Code](https://github.com/tjeerdintveen/music))
+- [Generate Musical Accompaniment with R (2021)](https://flujoo.github.io/en/generate-accompaniment-progression/) ([HN](https://news.ycombinator.com/item?id=29368549))

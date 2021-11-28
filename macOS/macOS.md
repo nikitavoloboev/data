@@ -219,3 +219,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [macOS Optimizer](https://github.com/sickcodes/osx-optimizer) - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
 - [How to sync multiple macs (work/personal) (2021)](https://twitter.com/tenderlove/status/1461461938592878594)
 - [Mach-O Binaries (2015)](http://www.m4b.io/reverse/engineering/mach/binaries/2015/03/29/mach-binaries.html)
+- [Explainer: .DS_Store Files (2021)](https://eclecticlight.co/2021/11/27/explainer-ds_store-files/) ([HN](https://news.ycombinator.com/item?id=29358932))

@@ -390,3 +390,6 @@ for i, _ in enumerate(nums):
 - [Static Duck Typing in Python with Protocols (2021)](https://www.daan.fyi/writings/python-protocols) ([HN](https://news.ycombinator.com/item?id=29295535))
 - [flake8-black](https://github.com/peterjc/flake8-black) - flake8 plugin to run black for checking Python coding style.
 - [RestrictedPython](https://github.com/zopefoundation/RestrictedPython) - Restricted execution environment for Python to run untrusted code.
+- [CPython on WASM](https://github.com/ethanhs/python-wasm) - Build scripts and configuration for building CPython for Emscripten.
+- [Calling Rust from Python using PyO3 (2021)](http://saidvandeklundert.net/learn/2021-11-18-calling-rust-from-python-using-pyo3/) ([HN](https://news.ycombinator.com/item?id=29368530))
+- [Late-bound argument defaults for Python (2021)](https://lwn.net/Articles/875441/) ([Lobsters](https://lobste.rs/s/tvextk/late_bound_argument_defaults_for_python))

@@ -75,3 +75,5 @@
 - [scanflow](https://github.com/memflow/scanflow) - Comprehensive memory scanning library based on memflow.
 - [tinyalloc](https://github.com/thi-ng/tinyalloc) - Replacement for malloc / free in unmanaged, linear memory situations, e.g. WASM and embedded devices.
 - [gcmodule](https://github.com/quark-zju/gcmodule) - Garbage collection for Rust inspired by CPython's gcmodule.
+- [Optimising memset and memcpy](https://twitter.com/nadavrot/status/1464364562409422852) ([HN](https://news.ycombinator.com/item?id=29359906))
+- [Deconstructing the Garbage-First Collector (2020)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/g1-vee-2020.pdf)

@@ -48,3 +48,4 @@
 - [Euclidean plane and its relatives: minimalist introduction](http://anton-petrunin.github.io/birkhoff/) ([Code](https://github.com/anton-petrunin/birkhoff))
 - [Introduction to Diﬀerential Geometry (2017)](https://superadditive.com/notes/intro-to-differential-geometry/)
 - [Non-Euclidean Geometry: Interactive Hyperbolic Tiling in the Poincaré Disc](http://www.malinc.se/noneuclidean/en/poincaretiling.php)
+- [Vertex-Edge-Face format](http://paulbourke.net/dataformats/vef/) - Formal file format but is used by many people to describe single geometric objects. ([Tweet](https://twitter.com/mariuswatz/status/1464415708557758466))

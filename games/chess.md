@@ -9,6 +9,10 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 
 - [Jan-Krzysztof Duda](https://www.youtube.com/results?search_query=Jan-Krzysztof+Duda)
 
+## Favorite games
+
+- [World Chess Championship: Magnus vs Ian (2021)](https://www.youtube.com/watch?v=CcXcdoG0W2c&t=2s) ([Talk after](https://www.youtube.com/watch?v=ld-RZLyWrvg))
+
 ## Notes
 
 - [Most "best moves" in a game are quite obvious. Most blunders occur in the endgame because the position is complicated and there's usually only 1 good move and everything else is terrible. So you think a lot trying to find the 1 good move and then fail.](https://www.reddit.com/r/chess/comments/nwq4qk/blunder_rate_versus_time_spent_on_move_25_million/)

@@ -284,3 +284,4 @@
 - [Magi RL library in JAX](https://github.com/ethanluoyc/magi)
 - [WarpDrive](https://github.com/salesforce/warp-drive) - Extremely Fast End-to-End Deep Multi-Agent Reinforcement Learning Framework on a GPU.
 - [Embodied](https://github.com/danijar/embodied) - Fast reinforcement learning research.
+- [Permutation-Invariant Neural Networks for Reinforcement Learning (2021)](https://blog.otoro.net/2021/11/18/attentionneuron/) ([HN](https://news.ycombinator.com/item?id=29364890))

@@ -172,4 +172,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOps is easier than I thought (2021)](https://sgt.hootr.club/molten-matter/nixops-on-the-pi/)
 - [Nix System Configuration](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager.
 - [bootspec](https://github.com/DeterminateSystems/bootspec) - Research project that aims to improve the bootloader story in NixOS.
-- [NixOS: Headless Home Assistant VM (2021)](https://myme.no/posts/2021-11-25-nixos-home-assistant.html)
+- [NixOS: Headless Home Assistant VM (2021)](https://myme.no/posts/2021-11-25-nixos-home-assistant.html) ([Lobsters](https://lobste.rs/s/xi9jcs/nixos_headless_home_assistant_vm))

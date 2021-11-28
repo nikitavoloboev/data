@@ -36,3 +36,4 @@
 - [Was Google Earth Stolen? (2021)](https://avibarzeev.medium.com/was-google-earth-stolen-7d1b821e589b) ([HN](https://news.ycombinator.com/item?id=28913378))
 - [Research Threats: Legal Threats Against Security Researchers](https://github.com/disclose/research-threats) ([Web](https://threats.disclose.io/))
 - [Themis Contract](https://github.com/informalsystems/themis-contract) - Command line-based tool to help with legal contracting.
+- [Ask HN: Why is Docusign a $50B company? (2021)](https://news.ycombinator.com/item?id=29363897)

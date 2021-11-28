@@ -42,6 +42,7 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [A culture is not a set of beliefs, it's a set of actions.](https://twitter.com/dhaber/status/1445479484472262663)
 - [The culture is made by people who join, not the other way around.](https://twitter.com/threepointone/status/1445397597447929857)
 - [Taking care of the people who work with you is an _investment_. It doesn't show up on the balance sheet immediately, but creates resilience that is necessary when the inevitable challenge hits.](https://twitter.com/aboodman/status/1453821646620409860)
+- [Curiosity, thoroughness, humility and empathy.](https://twitter.com/fasterthanlime/status/1464544526673063936)
 
 ## Links
 

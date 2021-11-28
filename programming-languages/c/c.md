@@ -194,3 +194,4 @@
 - [Pointers in C / C++ [Full Course] (2020)](https://www.youtube.com/watch?v=zuegQmMdy8M)
 - [Smaller C](https://github.com/alexfru/SmallerC) - Simple and small single-pass C compiler.
 - [Comprehensive guide to 50 years of evolution of strict C programming](https://github.com/agavrel/42_CheatSheet) ([HN](https://news.ycombinator.com/item?id=29347623))
+- [Some obscure C features (2019)](https://multun.net/obscure-c-features.html) ([Lobsters](https://lobste.rs/s/p0vejb/some_obscure_c_features))

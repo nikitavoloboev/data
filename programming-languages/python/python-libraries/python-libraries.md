@@ -17,7 +17,7 @@
 - [instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods.
 - [Flask-Marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Thin integration layer for Flask and marshmallow.
 - [python-proxy](https://github.com/qwj/python-proxy) - HTTP/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python3 asyncio.
-- [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses. ([Web](https://strawberry.rocks/))
+- [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses. ([Web](https://strawberry.rocks/)) ([Playground](https://la4de.github.io/strawberry-playground/)) ([Tweet](https://twitter.com/simonw/status/1464617638512922629))
 - [EasyAuth](https://github.com/codemation/easyauth) - Create a centralized Authentication and Authorization token server.
 - [FastAPI Cloud Auth](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) - Ready-to-use and customizable users management for FastAPI.

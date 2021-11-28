@@ -36,3 +36,4 @@
 - [Godot Lua PluginScript](https://github.com/gilzoide/godot-lua-pluginscript) - Adds support for Lua as a scripting language in Godot.
 - [Godot FSM (Finite State Machine)](https://github.com/godot-addons/godot-finite-state-machine)
 - [Improvements to shaders and visual shaders in Godot 4.0 (2021)](https://godotengine.org/article/improvements-shaders-visual-shaders-godot-4)
+- [Multiplayer in Godot 4.0: Scene Replication (Part 1) (2021)](https://godotengine.org/article/multiplayer-changes-godot-4-0-report-4) ([HN](https://news.ycombinator.com/item?id=29362912))

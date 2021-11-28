@@ -22,3 +22,4 @@
 - [U.S. house prices are rising exponentially faster than income (2021)](https://www.realestatewitch.com/house-price-to-income-ratio-2021/) ([HN](https://news.ycombinator.com/item?id=29046046))
 - [Will real estate ever be normal again? (2021)](https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html) ([HN](https://news.ycombinator.com/item?id=29218930))
 - [Fronted](https://fronted.rent/) - Pay your rental deposit in bite-size chunks. ([Twitter](https://twitter.com/getfronted))
+- [Zillow lost money because they weren't willing to lose money (2021)](https://www.stevenbuccini.com/zillow-offers) ([HN](https://news.ycombinator.com/item?id=29333217))

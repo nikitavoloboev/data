@@ -532,3 +532,4 @@
 - [Meshery](https://meshery.io/) - Service Mesh Manager. ([Code](https://github.com/meshery/meshery))
 - [Argo Workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes.
 - [tsk](https://github.com/adamgoose/tsk) - Quickly connect to your Kubernetes Cluster with Tailscale.
+- [Generically working with Kubernetes objects in Go (2021)](https://itnext.io/generically-working-with-kubernetes-resources-in-go-53bce678f887)

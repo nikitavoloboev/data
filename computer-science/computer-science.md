@@ -159,3 +159,4 @@
 - [When Did Computer Science Theory Get So Hard? (2021)](http://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html) ([HN](https://news.ycombinator.com/item?id=29223934))
 - [Why Philosophers Should Care About Computational Complexity (2011)](https://arxiv.org/abs/1108.1791) ([HN](https://news.ycombinator.com/item?id=29242498))
 - [Theoretical Computer Science Cheat Sheet](https://www.tug.org/texshowcase/cheat.pdf) ([HN](https://news.ycombinator.com/item?id=29347885))
+- [CS1000](https://cs1000.vercel.app/) - Reference site for a beginner, to gain insight into various subjects present around CS and Software engineering. ([Code](https://github.com/tpkahlon/cs1000))

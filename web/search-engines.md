@@ -184,3 +184,4 @@
 - [SeekStorm](https://seekstorm.com/) - Affordable high-performance search API.
 - [UIRecord](https://github.com/SaraVieira/uirecord) - UI for managing your meilisearch instances.
 - [lnx](https://github.com/lnx-search/lnx) - Ultra-fast, adaptable deployment of the tantivy search engine via REST. ([Web](https://lnx.rs/))
+- [Occamm](https://www.occamm.com/) - Search engine that lets you refine your queries. ([HN](https://news.ycombinator.com/item?id=29365749))

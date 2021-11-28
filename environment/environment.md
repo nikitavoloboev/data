@@ -10,6 +10,7 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [If we stop emissions tomorrow, the earth will remain around 1.2C above preindustrial temps. If we get to net-zero emissions by 2060 or so, we can still limit warming to well below 2C.](https://twitter.com/hausfath/status/1327121668851060738)
 - [Don't tell me you are committed to net-zero 2050. Tell me how you plan to reduce emissions by at least 3% of their current value during this year, next year, and every year after that until you actually get to zero.](https://twitter.com/RARohde/status/1441397729381519360)
 - [If we actually lived in a democracy, we'd halt climate breakdown.](https://twitter.com/ClimateHuman/status/1458272108266418176)
+- [The world dumps a jaw-dropping 17.6 billion pounds (8 billion kilograms) of new plastic into the oceans each year.](https://gizmodo.com/why-trying-to-clean-up-all-the-ocean-plastic-is-pointle-1848111529)
 
 ## Links
 

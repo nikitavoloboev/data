@@ -33,3 +33,5 @@
 - [Why Europe Invented Central Banking (2021)](https://www.youtube.com/watch?v=0TBAJb-O2Oo)
 - [EUobserver](https://euobserver.com/)
 - [Investing for European residents explained in plain language](https://indexfundinvestor.eu/)
+- [Glossary of summaries - EUR-Lex](https://eur-lex.europa.eu/summary/glossary/eu_institutions.html)
+- [EUR-Lex - Access to European Union law](https://eur-lex.europa.eu/homepage.html)

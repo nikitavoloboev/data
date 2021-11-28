@@ -399,7 +399,10 @@ all: unset
 - [Full Page: 20 Advanced CSS & HTML techniques: clip-path, @property, aspect-ratio and blend-mode (2021)](https://www.youtube.com/watch?v=PpheLuPbP5Y) ([Article](https://dev.to/astrit/full-page-20-advanced-css-html-techniques-clip-path-property-aspect-ratio-and-blend-mode-2p31))
 - [CSSBattle](https://cssbattle.dev/) - CSS code-golfing game.
 - [CSS Animation: translate3d, backdrop-filter and custom tags (2021)](https://www.youtube.com/watch?v=RTLM2SyEL6o)
-- [My Custom CSS Reset (2021)](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [My Custom CSS Reset (2021)](https://www.joshwcomeau.com/css/custom-css-reset/) ([HN](https://news.ycombinator.com/item?id=29330335))
 - [Container Query Polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill)
 - [parcel-css](https://github.com/parcel-bundler/parcel-css) - CSS parser, transformer, and minifier written in Rust.
 - [Two flexbox & grid behaviors most people don't know about (2021)](https://www.youtube.com/watch?v=s3wHkfMz8oE)
+- [postcss-rs](https://github.com/postcss-rs/postcss-rs) - Fast and 100% API compatible postcss replacer, built in Rust.
+- [A Handy Little System for Animated Entrances in CSS (2021)](https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/)
+- [Responsive Layouts, Fewer Media Queries (2021)](https://css-tricks.com/responsive-layouts-fewer-media-queries/)

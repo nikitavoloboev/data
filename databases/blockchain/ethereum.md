@@ -323,6 +323,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 - [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper) - Uniswap V2-styled router new pool sniping in under 250 LOC. ([Tweet](https://twitter.com/_anishagnihotri/status/1450004265381007360))
 - [PRBProxy](https://github.com/paulrberg/prb-proxy) - Proxy contract to compose transactions on behalf of the owner.
+- [Go Ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol. ([Web](https://geth.ethereum.org/))
 - [Helios](https://github.com/taarushv/helios) - Tool built on-top of go-ethereum and the ELK stack to query and monitor the mempool.
 - [SLOAD2](https://github.com/0xsequence/sstore2) - Faster & cheaper contract key-value storage for Ethereum Contracts.
 - [Smart Batched Auctions](https://github.com/FrankieIsLost/smart-batched-auction) - Smart batch auctions follow the spankchain ICO model: during a bidding period, users are able to submit bids for a specificied quantity of tokens and price. ([Tweet](https://twitter.com/FrankieIsLost/status/1450490193136422918))

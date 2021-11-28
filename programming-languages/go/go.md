@@ -635,3 +635,4 @@ if err != nil {
 - [Property-Based Testing In Go (2021)](https://earthly.dev/blog/property-based-testing/) ([Reddit](https://www.reddit.com/r/golang/comments/r2qm3e/propertybased_testing_in_go/))
 - [golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver)
 - [Demo app showing an end-to-end CI pipeline with Github Actions, goreleaser and ko](https://github.com/embano1/ci-demo-app)
+- [GopherCon UK 2021 - YouTube](https://www.youtube.com/playlist?list=PLDWZ5uzn69ex0U5MmbKWorsTuVBgUePxw)

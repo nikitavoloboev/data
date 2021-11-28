@@ -87,3 +87,4 @@
 - [zectl](https://github.com/johnramsden/zectl) - ZFS Boot Environment manager for Linux.
 - [Diskplorer](https://github.com/scylladb/diskplorer) - Disk latency/bandwidth grapher.
 - [ZboxFS](https://github.com/zboxfs/zbox) - Zero-details, privacy-focused in-app file system. ([Web](https://zbox.io/fs/))
+- [The fastest way to copy a file? (2021)](https://alexsaveau.dev/blog/performance/files/kernel/the-fastest-way-to-copy-a-file) ([HN](https://news.ycombinator.com/item?id=29358499))

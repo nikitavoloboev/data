@@ -433,7 +433,7 @@
 - [Miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde.
 - [Microserde](https://github.com/cloudhead/microserde) - Miniserde minus the dependencies.
 - [Abomonation](https://github.com/TimelyDataflow/abomonation) - Mortifying serialization library for Rust.
-- [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter. ([HN](https://news.ycombinator.com/item?id=25956502)) ([Maturin - Build and publish crates with pyo3](https://github.com/PyO3/maturin))
+- [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter. ([HN](https://news.ycombinator.com/item?id=25956502)) ([Maturin - Build and publish crates with pyo3](https://github.com/PyO3/maturin))
 - [actix](https://github.com/actix/actix)
 - [tokio](https://github.com/tokio-rs/tokio)
 - [nom](https://github.com/Geal/nom) - Parser combinators library.

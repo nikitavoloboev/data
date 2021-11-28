@@ -95,3 +95,5 @@
 - [Python-for-Epidemiologists Course](https://github.com/pzivich/Python-for-Epidemiologists)
 - [Heavily mutated coronavirus variant puts scientists on alert (2021)](https://www.nature.com/articles/d41586-021-03552-w) ([HN](https://news.ycombinator.com/item?id=29345194))
 - [pangolin](https://github.com/cov-lineages/pangolin) - Software package for assigning SARS-CoV-2 genome sequences to global lineages.
+- [How PCR (Polymerase Chain Reaction) Test works (2021)](https://www.reddit.com/r/worldnews/comments/r3e6el/comment/hmavmn0/?utm_source=reddit&utm_medium=web2x&context=3)
+- [Your Local Epidemiologist - by Katelyn Jetelina](https://yourlocalepidemiologist.substack.com/)

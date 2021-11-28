@@ -58,3 +58,4 @@
 - [Learning Graph Cellular Automata (2021)](https://arxiv.org/abs/2110.14237) ([Tweet](https://twitter.com/riceasphait/status/1453731163592290306)) ([Code](https://github.com/danielegrattarola/GNCA))
 - [Cellular Automata in F# (2020)](https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/) ([HN](https://news.ycombinator.com/item?id=29133075))
 - [Lifeee](https://github.com/scastiel/lifeee-rs) - Conway’s Game of Life with an infinite zoomable grid. ([HN](https://news.ycombinator.com/item?id=29203502))
+- [Life Simulation Written in Rust](https://joelthelion.github.io/life_web/demo/) ([Code](https://github.com/joelthelion/life_web))

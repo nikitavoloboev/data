@@ -95,3 +95,4 @@
 - [The Equal Vote Coalition](https://www.equal.vote/)
 - [STAR Voting in under five minutes](https://www.youtube.com/watch?v=aiQ9Z5sME00)
 - [Tax calculators](https://twitter.com/AlexSukhorukov_/status/1464254455038287877)
+- [Twilight of Democracy: The Seductive Lure of Authoritarianism (2020)](https://twitter.com/wolfejosh/status/1464619768648974348) ([Tweet](https://twitter.com/wolfejosh/status/1464619768648974348))

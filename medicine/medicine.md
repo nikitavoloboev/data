@@ -30,3 +30,4 @@
 - [Lunit](https://www.lunit.io/en) - With AI, we aim to make data-driven medicine the new standard of care.
 - [Ivermectin: Much More Than You Wanted to Know (2021)](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted) ([HN](https://news.ycombinator.com/item?id=29249686))
 - [Med3D: Transfer Learning for 3D Medical Image Analysis (2019)](https://arxiv.org/abs/1904.00625) ([Code](https://github.com/Tencent/MedicalNet))
+- [Novel mind-body program outperforms other treatments for chronic back pain (2021)](https://www.bidmc.org/about-bidmc/news/2021/09/researchers-mind-body-program-outperforms-other-chronic-back-pain-treatment) ([HN](https://news.ycombinator.com/item?id=29357009))

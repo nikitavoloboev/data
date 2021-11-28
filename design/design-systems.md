@@ -82,6 +82,7 @@
 - [Talend](https://design.talend.com/) - Design system used to build accessible, consistent, customizable and high quality customer experiences at Talend. ([Code](https://github.com/Talend/design-system))
 - [Moai UI Kit](https://moaijs.com/) - React Component Library, Where Buttons Look Like Buttons. ([Code](https://github.com/moaijs/moai))
 - [Tamagui](https://tamagui.dev/) - React Native + Web UI kit. ([Code](https://github.com/tamagui/tamagui))
+- [Brix UI](https://github.com/uStudioTeam/brix-ui) - Library of reusable UI components for React, made in minimalistic and light style.
 
 ## Notes
 

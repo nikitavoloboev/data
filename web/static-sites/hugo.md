@@ -67,3 +67,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [How to use GitHub Actions and private repositories to deploy a Hugo static site (2021)](https://reverse.put.as/2021/03/11/hugo-githubactions/)
 - [A Love Letter To Hugo (2021)](https://akondas.com/blog/a-love-letter-to-hugo/)
 - [Hugo Ranked](https://hugoranked.com/) - Hugo Themes ranked by GitHub Stars. ([HN](https://news.ycombinator.com/item?id=28795478))
+- [Run a website off a Google Sheets Database, with Hugo (2021)](https://www.markhansen.co.nz/build-a-website-off-a-google-sheets-database-using-hugo-netlify/) ([Lobsters](https://lobste.rs/s/eu9fjn/run_website_off_google_sheets_database))

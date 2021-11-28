@@ -120,3 +120,4 @@
 - [The less trodden path with sqlite (2021)](https://riyazali.net/posts/the-less-trodden-path-with-sqlite/)
 - [SQLiteGraph](https://github.com/joshday/SQLiteGraph.jl) - Graph Database for Julia, built on top of SQLite.jl.
 - [SQLite.jl](https://github.com/JuliaDatabases/SQLite.jl) - Julia interface to the SQLite library.
+- [SQLite Release 3.37.0 (2021)](https://www.sqlite.org/releaselog/3_37_0.html) ([HN](https://news.ycombinator.com/item?id=29363054))

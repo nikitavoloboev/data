@@ -215,6 +215,7 @@
 - [FxTS](https://github.com/marpple/FxTS) - Functional library for TypeScript/JavaScript programmers. ([Web](https://fxts.dev/))
 - [tsconfck](https://github.com/dominikg/tsconfck) - Utility to find and parse tsconfig files without depending on typescript.
 - [proxy-compare](https://github.com/dai-shi/proxy-compare) - Compare two objects using accessed properties with Proxy.
+- [fnts](https://github.com/drizzer14/fnts) - Minimal Functional Programming Utilities for TypeScript & JavaScript. ([Docs](https://drizzer14.github.io/fnts/))
 
 ## Links
 

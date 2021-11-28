@@ -165,3 +165,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Top Priority in Outdoor Photography (2021)](https://www.youtube.com/watch?v=ucKnru5dx88)
 - [The Sticky Issue of Consent in Street Photography](https://dinalitovsky.bulletin.com/312411763768865/)
 - [Photographing Strangers: Introvert's guide to street photography](https://dinalitovsky.bulletin.com/569660374228892)
+- [Robert Adams: Beauty in Photography (2005)](https://aperture.org/books/beauty-in-photography/)
+- [Retrato: A Guide to Portrait Photography](https://gitpuller.gumroad.com/l/retratobook)

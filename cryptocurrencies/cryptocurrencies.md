@@ -198,3 +198,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Post-2016 crypto classics](https://twitter.com/mattigags/status/1463430142081093641)
 - [Crypto design challenges (2021)](https://paulstamatiou.com/crypto-design-challenges/)
 - [Snapshot](https://snapshot.org/#/) - Off-chain gasless multi-governance client. ([Code](https://github.com/snapshot-labs/snapshot))
+- [Proof of stake is a scam and the people promoting it are scammers (2021)](https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/) ([HN](https://news.ycombinator.com/item?id=29366310))

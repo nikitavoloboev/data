@@ -40,3 +40,4 @@
 - [Notes on CSS Grid](https://emilyyleung.github.io/digitalgarden/tags/css-grid/)
 - [Minding the "gap" (2021)](https://css-tricks.com/minding-the-gap/)
 - [Expandable Sections Within a CSS Grid (2021)](https://css-tricks.com/expandable-sections-within-a-css-grid/)
+- [Learn CSS Grid the easy way (2021)](https://www.youtube.com/watch?v=rg7Fvvl3taU)
