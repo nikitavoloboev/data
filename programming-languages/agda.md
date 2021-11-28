@@ -61,3 +61,4 @@
 - [Agda Playground](https://github.com/oisdk/agda-playground)
 - [Formalizing polynomials in groupoids](https://github.com/smimram/fibred-polynomials)
 - [Formalization in Agda of the Symmetry book](https://github.com/UniMath/SymmetryBookFormalization)
+- [Generic parallel algorithms in Agda](https://github.com/conal/agda-generic-parallel)

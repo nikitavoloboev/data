@@ -176,3 +176,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [BitcoinBinary.org](https://bitcoinbinary.org/) - Repository of Reproducible Build Proofs for Bitcoin Projects.
 - [Hiro](https://www.hiro.so/) - Builds developer tools for Stacks. ([GitHub](https://github.com/hirosystems))
 - [Clarinet](https://github.com/hirosystems/clarinet) - Simple, modern and opinionated runtime for writing, testing and integrating Clarity Smart contracts.
+- [Understanding Bitcoin Lightning (2020)](https://martyjon.es/bitcoin/2020/09/06/understanding-lightning-1.html)

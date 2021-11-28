@@ -357,3 +357,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Вперед в 1937-й. За что на самом деле уничтожают «Мемориал» (2021)](https://www.youtube.com/watch?v=3o4Qyq0_NKk)
 - [Gulag: A History (2003)](https://www.goodreads.com/book/show/224379.Gulag)
 - [Система власти в России сломалась. Как будет устроен новый режим? (2021)](https://www.youtube.com/watch?v=mX98k1GOOxY)
+- [Russia around the period of the Russian Revolution in color! (1917-1919) [A.I. enhanced & colorized]](https://www.youtube.com/watch?v=Buk1dBv8h88)

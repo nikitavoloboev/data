@@ -568,6 +568,7 @@
 - [dill](https://github.com/uqfoundation/dill) - Extends python's pickle module for serializing and de-serializing python objects to the majority of the built-in python types.
 - [mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization framework on top of dataclasses.
 - [msgspec](https://github.com/jcrist/msgspec) - Fast and friendly MessagePack library for Python.
+- [Cashews](https://github.com/Krukov/cashews) - Cache with async power.
 
 ## Links
 

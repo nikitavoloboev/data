@@ -11,7 +11,7 @@
 - [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/) - Tool to make "sandwich" OCR pdf files. ([HN](https://news.ycombinator.com/item?id=29124994))
 - [Markdown to PDF](https://github.com/arnabsen1729/md2pdf) - Will take a markdown file as input and then create a PDF file with the markdown formatting.
 - [PDF Reader in Go](https://github.com/ledongthuc/pdf)
-- [lopdf](https://github.com/J-F-Liu/lopdf) - Rust library for PDF document manipulation.
+- [lopdf](https://github.com/J-F-Liu/lopdf) - Rust library for PDF document manipulation. ([Breakdown Of How Lopdf Reads PDFs](https://martyjon.es/2021/05/08/A-breakdown-of-how-lopdf-reads-PDFs.html))
 - [pdf_render](https://github.com/pdf-rs/pdf_render) - Experimental PDF viewer.
 - [pdf-rs](https://github.com/pdf-rs/pdf) - Read, alter and write PDF files.
 - [PEP](https://macpep.org/) - Open Source & Free PDF Editor for Mac. ([Code](https://github.com/orklann/PEP))
@@ -19,3 +19,4 @@
 - [TPPDF](https://github.com/techprimate/TPPDF) - Fast PDF builder for iOS & macOS using simple commands to create advanced documents.
 - [PDF-Lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment. ([Docs](https://pdf-lib.js.org/))
 - [PDF to CSV converter](https://github.com/SahilChoudhary22/pdf2csv-converter)
+- [pikepdf](https://github.com/pikepdf/pikepdf) - Python library for reading and writing PDF files.

@@ -24,3 +24,4 @@
 - [Monero has a serious user friendly problem (2021)](https://www.reddit.com/r/Monero/comments/qu2dhq/monero_has_a_serious_user_friendly_problem/)
 - [Cake Wallet](https://cakewallet.com/) - Open Source Monero and Bitcoin Wallet. ([Code](https://github.com/cake-tech/cake_wallet)) ([Reddit](https://www.reddit.com/r/Monero/comments/qxi3yn/kraken_uk_monero_users_we_welcome_you_to_cake/))
 - [LocalMonero](https://localmonero.co/) - Buy or Sell Monero Anonymously, Quick and Easy.
+- [XMR and the decoupling of Fiat (2021)](https://www.reddit.com/r/Monero/comments/r418zf/xmr_and_the_decoupling_of_fiat/)
