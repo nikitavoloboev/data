@@ -182,3 +182,4 @@
 - [Circular Programming in Clojure (2021)](https://cuddly-octo-palm-tree.com/posts/2021-11-21-circular-clojure/)
 - [Abstract Clojure (2021)](https://www.juxt.pro/blog/abstract-clojure)
 - [Clojure and ClojureScript Posts](https://quanttype.net/tags/clojure.html)
+- [makejack](https://github.com/hugoduncan/makejack) - Clojure CLI build tool, and build library.

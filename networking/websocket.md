@@ -54,3 +54,4 @@
 - [DNWebSocket](https://github.com/GlebRadchenko/DNWebSocket) - WebSocket(RFC-6455) library written using Swift.
 - [localfirst/relay](https://github.com/local-first-web/relay) - Tiny relay server that bridges two WebSocket connections, allowing the clients to talk directly to each other.
 - [Bidirectional Server-sent Events](https://github.com/WebReflection/bidi-sse)
+- [python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client.

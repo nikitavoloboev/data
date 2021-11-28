@@ -11,7 +11,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 
 ## Favorite games
 
-- [World Chess Championship: Magnus vs Ian (2021)](https://www.youtube.com/watch?v=CcXcdoG0W2c&t=2s) ([Talk after](https://www.youtube.com/watch?v=ld-RZLyWrvg))
+- [World Chess Championship: Magnus vs Ian (2021)](https://www.youtube.com/watch?v=CcXcdoG0W2c&t=2s) ([Talk after](https://www.youtube.com/watch?v=ld-RZLyWrvg)) ([Reddit](https://www.reddit.com/r/chess/comments/r3i5m5/2021_world_championship_game_2_post_game_player/))
 
 ## Notes
 
