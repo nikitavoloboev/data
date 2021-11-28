@@ -409,3 +409,4 @@
 - [PyConverse](https://github.com/AnjanaRita/converse) - Conversational text Analysis using various NLP techniques.
 - [KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks.
 - [RoFormer: Enhanced Transformer with Rotary Position Embedding (2021)](https://arxiv.org/abs/2104.09864) ([Code](https://github.com/lucidrains/rotary-embedding-torch))
+- [N-grammer: Augmenting Transformers with latent n-grams (2021)](https://openreview.net/forum?id=GxjCYmQAody) ([Code](https://github.com/lucidrains/n-grammer-pytorch))

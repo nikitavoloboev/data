@@ -32,3 +32,4 @@
 - [wgpu-native](https://github.com/gfx-rs/wgpu-native) - Native WebGPU implementation based on wgpu-core.
 - [Tiny WebGPU renderer written in Rust](https://github.com/takahirox/wgpu-rust-renderer)
 - [GWebGPUEngine](https://github.com/antvis/GWebGPUEngine) - WebGPU Engine for real-time rendering and GPGPU.
+- [deno_desktop](https://github.com/DjDeveloperr/deno_desktop) - Implements WebGPU Surface API by embedding Deno.

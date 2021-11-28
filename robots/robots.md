@@ -121,3 +121,4 @@
 - [Rex](https://github.com/nicrusso7/rex-gym) - OpenAI Gym environments for an open-source quadruped robot (SpotMicro).
 - [robo-gym](https://github.com/jr-robotics/robo-gym) - Open source toolkit for Distributed Deep Reinforcement Learning on real and simulated robots.
 - [Neural-Control Family: What Deep Learning + Control Enables in the Real World (2021)](https://www.gshi.me/blog/NeuralControl/) ([Tweet](https://twitter.com/balajis/status/1463968367283367941))
+- [RPA Framework](https://github.com/robocorp/rpaframework) - Open-source libraries and tools for Robotic Process Automation (RPA).
