@@ -58,6 +58,7 @@
 - [linux-inject](https://github.com/gaffe23/linux-inject) - Tool for injecting a shared object into a Linux process.
 - [xkeysnail](https://github.com/mooz/xkeysnail) - Keyboard remapping tool for X environment.
 - [Kinto](https://github.com/rbreaves/kinto/) - Mac-style shortcut keys for Linux and Windows. ([HN](https://news.ycombinator.com/item?id=26430240))
+- [Map2](https://github.com/shiro/map2) - Scripting language that allows complex key remapping on Linux.
 
 ## Links
 

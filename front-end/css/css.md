@@ -406,3 +406,5 @@ all: unset
 - [postcss-rs](https://github.com/postcss-rs/postcss-rs) - Fast and 100% API compatible postcss replacer, built in Rust.
 - [A Handy Little System for Animated Entrances in CSS (2021)](https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/)
 - [Responsive Layouts, Fewer Media Queries (2021)](https://css-tricks.com/responsive-layouts-fewer-media-queries/)
+- [Popular third-party library everyone's heard of that you style by overriding their CSS/targeting their classes](https://twitter.com/adamwathan/status/1464802517074726917)
+- [Improving performance with Islands Architecture and PostCSS (2021)](https://blog.oliverturner.cloud/posts/mqs-in-js/) ([Tweet](https://twitter.com/oliverturner/status/1465332351509094407))

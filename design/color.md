@@ -107,3 +107,4 @@
 - [Inkspot](https://github.com/rm-hull/inkspot) - Small Clojure/ClojureScript library for creating color swatches.
 - [Dynamic Color Manipulation with CSS Relative Colors (2021)](https://blog.jim-nielsen.com/2021/css-relative-colors/) ([Tweet](https://twitter.com/stefanjudis/status/1463075616375377922))
 - [Every Color Picker](https://everycolorpicker.com/) - Color picker components. Framework independent. ([Code](https://github.com/pshihn/every-color-picker))
+- [dominant_colours](https://github.com/alexwlchan/dominant_colours) - CLI tool to find the dominant colors in an image.

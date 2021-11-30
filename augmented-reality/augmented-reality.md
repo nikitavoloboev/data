@@ -35,3 +35,4 @@
 - [Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone](https://github.com/philipturner/scene-color-reconstruction)
 - [Grapic](https://www.grapic.co/) - Real whiteboards online using AR. ([HN](https://news.ycombinator.com/item?id=29225588))
 - [‘AR Is Where the Real Metaverse Is Going to Happen’ (2021)](https://www.wired.com/story/john-hanke-niantic-augmented-reality-real-metaverse/)
+- [Showing cities being passed by on train in AR](https://twitter.com/V_Kurbatov/status/1465311637771071490)

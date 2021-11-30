@@ -54,6 +54,7 @@
 - [Next PWA Template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template.
 - [NextJS Monorepo](https://github.com/belgattitude/nextjs-monorepo-example) - Monorepo / workspaces concepts oriented around NextJS.
 - [Ask Me Anything](https://ama-prisma.vercel.app/) ([Code](https://github.com/2color/ama-prisma))
+- [Typescript + NextJS + React Native + GraphQL + Prisma](https://github.com/NoQuarterTeam/boilerplate)
 
 ## NextJS plugins
 

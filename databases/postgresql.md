@@ -364,3 +364,4 @@
 - [Ephemeral Postgres Databases](https://eradman.com/posts/ephemeral-databases.html) ([HN](https://news.ycombinator.com/item?id=29248299))
 - [imcs](https://github.com/knizhnik/imcs) - In-Memory Columnar Store extension for PostgreSQL.
 - [pgTAP](https://pgtap.org/) - Unit Testing for PostgreSQL. ([Code](https://github.com/theory/pgtap))
+- [Pagila](https://github.com/devrimgunduz/pagila) - PostgreSQL Sample Database.

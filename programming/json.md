@@ -86,3 +86,4 @@
 - [GROQ](https://groq.dev/) - Query language for JSON documents. ([JS lib](https://github.com/sanity-io/groq-js))
 - [Command-line tool for converting anything to JSON](https://github.com/antonmedv/eat)
 - [any-json](https://github.com/any-json/any-json) - Convert (almost) anything to JSON.
+- [Jet](https://github.com/ChrisPenner/jet) - Structural editor for JSON values.

@@ -59,3 +59,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Ask HN: How is the “metaverse” concept different from the Second Life boom (2021)](https://news.ycombinator.com/item?id=29136478)
 - [Checklist for Virtual Reality game developers](https://github.com/SuperV1234/vr-game-checklist)
 - [Microsoft and the Metaverse (2021)](https://stratechery.com/2021/microsoft-and-the-metaverse/) ([HN](https://news.ycombinator.com/item?id=29163856))
+- [Rats in Doom VR](https://medium.com/mindsoft/rats-in-doom-eb6c52c73aca) ([HN](https://news.ycombinator.com/item?id=29341007))

@@ -393,3 +393,4 @@ for i, _ in enumerate(nums):
 - [CPython on WASM](https://github.com/ethanhs/python-wasm) - Build scripts and configuration for building CPython for Emscripten.
 - [Calling Rust from Python using PyO3 (2021)](http://saidvandeklundert.net/learn/2021-11-18-calling-rust-from-python-using-pyo3/) ([HN](https://news.ycombinator.com/item?id=29368530))
 - [Late-bound argument defaults for Python (2021)](https://lwn.net/Articles/875441/) ([Lobsters](https://lobste.rs/s/tvextk/late_bound_argument_defaults_for_python))
+- [CPython's main branch running in the browser with WebAssembly](https://twitter.com/ethanhs/status/1464308141105967104) ([HN](https://news.ycombinator.com/item?id=29376105))

@@ -365,6 +365,7 @@
 - [PageView](https://github.com/fredyshox/PageView) - SwiftUI view enabling page-based navigation.
 - [View+Bleed](https://github.com/ericlewis/View-Bleed) - Opposite of padding.
 - [Visual Effects](https://github.com/twostraws/VisualEffects) - SwiftUI wrapper for UIVisualEffectView.
+- [StackUI](https://github.com/pujiaxin33/StackUI) - Use UIStackView like SwiftUI.
 
 ## Test
 
@@ -843,6 +844,9 @@
 - [SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift wrappers for the tree-sitter incremental parsing system.
 - [Then](https://github.com/freshOS/Then) - Tame async code with battle-tested promises.
 - [NIOCronScheduler](https://github.com/MihaelIsaev/NIOCronScheduler) - Swift cron scheduler based on Swift NIO.
+- [RealEventsBus](https://github.com/malcommac/RealEventsBus) - Simple type-safe event bus implementation in swift.
+- [AppUpdately](https://github.com/AvdLee/AppUpdately) - Fetch the update available status for iOS or macOS apps based on the bundle identifier.
+- [SwiftGD](https://github.com/twostraws/SwiftGD) - Simple Swift wrapper for libgd, allowing for basic graphic rendering on server-side Swift where Core Graphics is not available.
 
 ## Other (not lib)
 

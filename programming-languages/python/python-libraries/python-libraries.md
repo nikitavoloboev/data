@@ -193,7 +193,7 @@
 - [Blaze](https://github.com/blaze/blaze) - Translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems.
 - [Dash Table](https://github.com/plotly/dash-table) - First-Class Interactive DataTable for Dash.
 - [Kombu](https://github.com/celery/kombu) - Messaging library for Python.
-- [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi))
+- [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi)) ([FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator))
 - [Starlette](https://github.com/encode/starlette) - Little ASGI framework that shines. ([Docs](https://www.starlette.io/))
 - [Poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [POT: Python Optimal Transport](https://github.com/PythonOT/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
@@ -569,6 +569,8 @@
 - [mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization framework on top of dataclasses.
 - [msgspec](https://github.com/jcrist/msgspec) - Fast and friendly MessagePack library for Python.
 - [Cashews](https://github.com/Krukov/cashews) - Cache with async power.
+- [Injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice.
+- [jMetalPy](https://github.com/jMetal/jMetalPy) - Framework for single/multi-objective optimization with metaheuristics.
 
 ## Links
 

@@ -27,3 +27,4 @@
 - [Best Restaurants Guide](https://brguide.com/) - Top 1% of All Restaurants.
 - [Restaurant food supply digitized (2021)](https://twitter.com/patrick_oshag/status/1458955349734662152?s=20)
 - [Menu Cards](https://menu.cards/) - App to create QR Menu's.
+- [Hyphen](https://usehyphen.com/) - Put your kitchen operations on autopilot. ([Twitter](https://twitter.com/gethyphen))

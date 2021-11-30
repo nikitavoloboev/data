@@ -257,3 +257,4 @@
 - [bazel_rules_hdl](https://github.com/hdl/bazel_rules_hdl) - Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel.
 - [How to jailbreak an Amazon Echo Dot?](https://lobste.rs/s/qmoy4y/how_jailbreak_amazon_echo_dot)
 - [What's the best PC gaming setup these days? (2021)](https://twitter.com/aeyakovenko/status/1465017842915446787)
+- [Ask HN: Are there any 4K “dumb” televisions? (2021)](https://news.ycombinator.com/item?id=29382643)

@@ -156,3 +156,4 @@
 - [Minica](https://github.com/jsha/minica) - Small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [LDNS](https://github.com/NLnetLabs/ldns) - DNS library that facilitates DNS tool programming. ([Web](https://nlnetlabs.nl/projects/ldns/about/))
 - [Go-Wild-DNS](https://github.com/AndrianBdn/go-wild-dns) - Micro DNS-server that implements wildcard-ip DNS magic functionality.
+- [The case of the recursive resolvers: What happened during Slack’s DNSSEC rollout (2021)](https://slack.engineering/what-happened-during-slacks-dnssec-rollout/) ([HN](https://news.ycombinator.com/item?id=29378633))

@@ -44,6 +44,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [telegram-bot-swift](https://github.com/rapierorg/telegram-bot-swift) - Telegram Bot SDK for Swift.
 - [Telegrask](https://github.com/samedamci/telegrask) - Flask-inspired Telegram bot micro framework for Python.
 - [TGBF](https://github.com/Endogen/tgbf) - Telegram Bot Framework.
+- [Kotlin Telegram Bot Library](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) ([Template](https://github.com/demidko/telegram))
 
 ## Bots
 

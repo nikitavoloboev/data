@@ -35,6 +35,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Mercury Bank is great for dealing with DeFi, crypto, or NFTs](https://twitter.com/BankMercury/status/1453765293214474242)
 - [Even if tokens are securities, they are securities that fix everything the SEC has ruined in the public markets: 1. Networks launch before all value creation is captured by VCs. 2. Democratic ownership and user ownership and contributor ownership. 3. Fixes problems with stock options.](https://twitter.com/twobitidiot/status/1459497183217164290)
 - [One crypto application I'm fully convinced by is decentralized money: Money the government can't touch.](https://twitter.com/devonzuegel/status/1462138666520883208)
+- [Many crypto projects are thinly disguised securities sales, designed to skirt around regulation.](https://twitter.com/smdiehl/status/1465356549707251717)
 
 ## Links
 

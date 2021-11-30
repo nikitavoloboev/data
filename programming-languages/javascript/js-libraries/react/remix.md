@@ -7,6 +7,11 @@
 - [Remix Jokes](https://github.com/remix-run/remix-jokes)
 - [Tim's site](https://github.com/timc1/tim)
 
+## Notes
+
+- [If you're using Remix you don't need react-query/Apollo/redux or even axios for making network requests. It's all handled for you + much more by the framework.](https://twitter.com/kentcdodds/status/1463994662281048074)
+- [Moving back to the server it makes GraphQL less interesting since you can get faster access to your db via Prisma and direct db connection.](https://twitter.com/jmarbutt/status/1464003898973339656)
+
 ## Links
 
 - [Remix Auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix.
@@ -23,3 +28,5 @@
 - [Remix Guide](https://remix.guide/) - Interactive list of awesome stuffs about Remix. ([Code](https://github.com/edmundhung/remix-guide))
 - [remix-worker-template](https://github.com/edmundhung/remix-worker-template) - All-in-one remix starter template for Cloudflare Workers.
 - [Remix Validated Form](https://github.com/airjp73/remix-validated-form) - Form library built for remix to make validation easy.
+- [Remix Starter Kit](https://github.com/one-aalam/remix-starter-kit) - Remix + Supabase starter for Typescript lovers.
+- [Remix + Render starter kit](https://github.com/sjones6/remix-render-starter)

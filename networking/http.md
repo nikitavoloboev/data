@@ -170,3 +170,5 @@
 - [Rusqbin](https://github.com/lloydmeta/rusqbin) - Web server that stashes your requests for later retrieval. It is available as a Docker image, a binary, and a library.
 - [New differential fuzzing tool reveals novel HTTP request smuggling techniques (2021)](https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques) ([HN](https://news.ycombinator.com/item?id=29342944))
 - [T-Reqs HTTP Fuzzer](https://github.com/bahruzjabiyev/t-reqs-http-fuzzer) - Grammar-based HTTP Fuzzer.
+- [Updog](https://github.com/sc0tfree/updog) - Replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use HTTP basic auth.
+- [Armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server.

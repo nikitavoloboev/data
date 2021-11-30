@@ -31,3 +31,4 @@
 - [Frontend Masters React + XState workshop (2020)](https://frontendmasters.com/workshops/xstate-react/) ([Code](https://github.com/davidkpiano/frontend-masters-react-workshop))
 - [How to design state machines for microservices (2021)](https://developers.redhat.com/articles/2021/11/23/how-design-state-machines-microservices)
 - [Making a feedback form with state machines (2021)](https://mannhowie.com/finite-state-machines) ([HN](https://news.ycombinator.com/item?id=29359174))
+- [Rustfst](https://github.com/Garvys/rustfst) - Library for constructing, combining, optimizing, and searching weighted finite-state transducers (FSTs).

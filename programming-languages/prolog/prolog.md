@@ -34,7 +34,7 @@
 - [CLP(FD)](https://github.com/triska/clpfd) - Constraint Logic Programming over Finite Domains.
 - [Some Global Optimizations for a Prolog Compiler (1985)](https://core.ac.uk/download/pdf/82661515.pdf)
 - [99 Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
-- [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
+- [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) ([Code](https://github.com/shonfeder/99-lambda-prolog-problems))
 - [Prolog Meta-interpreters (2021)](https://www.youtube.com/watch?v=nmBkU-l1zyc)
 - [Prolog for Beginners](https://www.coursera.org/projects/prolog-for-beginners-fhqrd) ([HN](https://news.ycombinator.com/item?id=26872770))
 - [A Hitchhiker's Guide to Reinventing a Prolog Machine (2018)](https://drops.dagstuhl.de/opus/volltexte/2018/8453/) ([HN](https://news.ycombinator.com/item?id=26913859))

@@ -3,6 +3,7 @@
 ## Notes
 
 - [Setting a random background color is a great way to detect an accidental SwiftUI loop.](https://twitter.com/steipete/status/1379483193708052480)
+- [SwiftUI is basically just a wrapper around UIKit. You can use UIHostingController to show SwiftUI views inside UIKit hierarchy, and UIViewRepresentable to wrap UIView in a SwiftUI View.](https://www.reddit.com/r/swift/comments/r4houz/can_you_combine_swiftui_and_uikit_together/)
 
 ## Links
 
@@ -171,3 +172,4 @@
 - [Displaying badges in SwiftUI (2021)](https://swiftwithmajid.com/2021/11/10/displaying-badges-in-swiftui/)
 - [Three beautiful macOS sidebars. Two built in Cocoa, and the third in SwiftUI](https://github.com/revblaze/SimpleSidebar)
 - [Transactions and Animations (2021)](https://www.objc.io/blog/2021/11/25/transactions-and-animations/)
+- [SwiftUI Library](https://swiftuilibrary.com/) - Rebuilt the most common iOS design components into a library of reusable container views. ([GitHub](https://github.com/swiftui-library/)) ([Tweet](https://twitter.com/TR3NTG/status/1463540204715659266))

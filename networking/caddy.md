@@ -38,3 +38,4 @@
 - [kwatch](https://github.com/ibrokemypie/kwatch) - Watch videos from a caddy fileserver.
 - [caddy-watch](https://github.com/losfair/caddy-watch) - Watch for interesting patterns in Caddy logs and send a Telegram notification.
 - [caddy-jwt](https://github.com/ggicci/caddy-jwt) - Caddy Module JWT Authentication.
+- [HN: Caddy (2021)](https://news.ycombinator.com/item?id=29378030)

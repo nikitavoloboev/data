@@ -632,3 +632,4 @@
 - [A Tale of Three Rust Codebases (2021)](https://blog.convex.dev/a-tale-of-three-codebases/)
 - [Will rust ever have a futures executor in std? (2021)](https://www.reddit.com/r/rust/comments/r10pp1/will_rust_ever_have_a_futures_executor_in_std/)
 - [A prioritised micro-batch scheduler in rust (2021)](https://njk.onl/blog/gaffer.html)
+- [Endianness, API Design, and Polymorphism in Rust (2021)](https://www.thecodedmessage.com/posts/endian_polymorphism/) ([HN](https://news.ycombinator.com/item?id=29359828))

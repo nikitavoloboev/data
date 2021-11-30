@@ -11,6 +11,7 @@
 - [reason-urql](https://github.com/FormidableLabs/reason-urql) - Reason bindings for Formidable's Universal React Query Library, urql.
 - [rescript-query](https://github.com/rescriptbr/react-query) - ReScript bindings for React Query.
 - [rescript-chakra](https://github.com/ri7nz/rescript-chakra) - ReScript bindings for Chakra-UI.
+- [Routes](https://github.com/anuragsoni/routes) - Typed bidirectional router for OCaml/ReasonML web applications.
 
 ## Test
 

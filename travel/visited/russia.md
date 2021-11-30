@@ -46,6 +46,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Пытать в России - не преступление, преступление - рассказывать об этом.](https://twitter.com/Kira_Yarmysh/status/1453606229096517636) ([Reddit](https://www.reddit.com/r/AskARussian/comments/qhis55/%D0%BC%D0%B2%D0%B4_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B8%D0%BB%D0%BE_%D0%BE_%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%BE%D0%BC_%D0%B0%D1%80%D0%B5%D1%81%D1%82%D0%B5_%D0%B1%D1%8B%D0%B2%D1%88%D0%B5%D0%B3%D0%BE/))
 - [Россия перешла в привычный режим "осажденной крепости" и будет так жить еще долгие годы, десятилетия. Плевать они хотели на любые рейтинги. У Кремля есть труба и огромный потребительский рынок — это их оружие.](https://twitter.com/adagamov/status/1454480993394561032)
 - [Literally no rule of law (constitution) in Russia. Anyone can go to jail for anything if government wants it.](https://twitter.com/YLatynina/status/1458771869646176258)
+- [Новое модное молодёжное движение известное как права человека.](https://twitter.com/_de1337ed/status/1464870544961064963)
 
 ## Links
 

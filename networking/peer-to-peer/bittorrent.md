@@ -71,3 +71,4 @@
 - [aquatic](https://github.com/greatest-ape/aquatic) - Blazingly fast, multi-threaded BitTorrent tracker (UDP, HTTP, WebTorrent) written in Rust.
 - [mtorrent](https://github.com/nektro/mtorrent) - Totally configurable terminal torrent client.
 - [P2P file system of cortex full node](https://github.com/CortexFoundation/torrentfs)
+- [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - Simple, robust, BitTorrent DHT implementation.

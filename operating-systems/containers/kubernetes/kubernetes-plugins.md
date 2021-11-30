@@ -32,6 +32,8 @@
 - [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator) - Kubernetes operator for managing Argo CD clusters.
 - [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets.
 - [kubectl-iexec](https://github.com/gabeduke/kubectl-iexec) - Kubectl plugin to interactively exec into a pod.
+- [Coil](https://github.com/cybozu-go/coil) - CNI plugin for Kubernetes designed for scalability and extensibility.
+- [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Policy Controller for Kubernetes.
 
 ## Helm Charts
 
@@ -43,3 +45,5 @@
 - [Awesome kubectl plugins](https://github.com/ishantanu/awesome-kubectl-plugins)
 - [Go Helm Client](https://github.com/mittwald/go-helm-client) - Go client for accessing the Helm package manager.
 - [Addon-operator](https://github.com/flant/addon-operator) - System to manage additional components for Kubernetes cluster in a simple, consistent and automated way.
+- [controller-rs](https://github.com/kube-rs/controller-rs) - Kubernetes example controller.
+- [kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - Toolkit for building declarative operators with kubebuilder.

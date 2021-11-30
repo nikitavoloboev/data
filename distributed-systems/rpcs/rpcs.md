@@ -37,3 +37,4 @@
 - [Rony](https://github.com/ronaksoft/rony) - Fast and Scalable RPC Framework. In Go.
 - [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more.
 - [OpenRPC Generator](https://github.com/open-rpc/generator) - Multi-Component & Multi-Language Generators for OpenRPC.
+- [OCaml Cap'n Proto RPC library](https://github.com/mirage/capnp-rpc)

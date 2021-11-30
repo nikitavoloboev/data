@@ -235,3 +235,4 @@
 - [Tools for JAX](https://github.com/NeilGirdhar/tjax) - Variety of tools for the differential programming library JAX.
 - [KML](https://github.com/sbu-fsl/kernel-ml) - Machine Learning Framework for Operating Systems & Storage Systems. ([HN](https://news.ycombinator.com/item?id=29315135))
 - [ENN Incubator](https://github.com/entity-neural-network/incubator) - Collection of in-progress libraries for entity neural networks.
+- [Syne Tune](https://github.com/awslabs/syne-tune) - Large scale and asynchronous Hyperparameter Optimization at your fingertip.

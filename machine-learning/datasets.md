@@ -125,3 +125,5 @@
 - [Hugging Face Datasets](https://huggingface.co/datasets)
 - [SDMetrics](https://github.com/sdv-dev/SDMetrics) - Metrics to evaluate quality and efficacy of synthetic datasets.
 - [doubtlab](https://github.com/koaning/doubtlab) - General tricks that may help you find bad, or noisy, labels in your dataset.
+- [Gretel Synthetics](https://github.com/gretelai/gretel-synthetics) - Synthetic data generators for structured and unstructured text, featuring differentially private learning.
+- [Great datasets to teach with (2021)](https://twitter.com/seankross/status/1465352844421312514)

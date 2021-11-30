@@ -10,3 +10,4 @@
 - [Unison: An Introduction and Q&A with Rúnar Bjarnason (2020)](https://www.youtube.com/watch?v=yicXcdLI2YA)
 - [Unison base libraries](https://github.com/unisonweb/base)
 - [Documenting Unison code](https://www.unisonweb.org/docs/documentation/)
+- [unison-nix](https://github.com/ceedubs/unison-nix) - Nix support for the Unison programming language.

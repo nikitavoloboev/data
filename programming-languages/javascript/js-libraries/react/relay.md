@@ -2,6 +2,10 @@
 
 > Production-ready GraphQL client for React
 
+## Notes
+
+- [Relay is about declaring per-component data dependencies that can be composed bottom-up into a single query for a route.b](https://twitter.com/andrewingram/status/1464000899731402757)
+
 ## Links
 
 - [Relay code](https://github.com/facebook/relay)

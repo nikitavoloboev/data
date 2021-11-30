@@ -12,6 +12,7 @@
 - [You do not need past experience to start a DAO. The best communities discover web3 as a natural growth solution. There are no pre-requisites to sharing ownership with those who deserve it.](https://twitter.com/Cooopahtroopa/status/1459620316024557570)
 - [Creating a DAO showcases how web3 can support methods of giving a voice to those who have been voiceless and/or discriminated against in the past.](https://twitter.com/WRLobkowicz/status/1461401594122182662)
 - [Would love to see a platform launch DAOs that don’t bother using crypto: LLC, buy membership via Stripe/Plaid, legally enforceable contracts, voting via web app + a proxy. We have all the tools to do it without massive gas fees and other problems right now.](https://twitter.com/tylertringas/status/1463134973473570819)
+- [Tezos, a blockchain that is self-amending with staking & on-chain governance, is an example of a large DAO. Bakers and delegates are (perhaps unwittingly) participants in a decentralized autonomous organization, with the shared goal of maintaining the protocol](https://twitter.com/mattdesl/status/1465334632388378636)
 
 ## Links
 

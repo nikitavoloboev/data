@@ -175,6 +175,7 @@
 - [ScyllaDB Rust Driver](https://github.com/scylladb/scylla-rust-driver) - Async CQL driver for Rust, optimized for Scylla.
 - [Quaint](https://github.com/prisma/quaint) - SQL Query AST and Visitor for Rust.
 - [lsm_engine](https://github.com/NavyaZaveri/lsm_engine) - Rust implementation of a key-value store with Log-Structured Merge Trees.
+- [hotpot-db](https://github.com/drbh/hotpot-db) - Easy to use database system. Uses SQLite3.
 
 ## Video
 
@@ -1202,6 +1203,7 @@
 - [cl-traits](https://github.com/c410-f3r/cl-traits) - Library that generalizes collections.
 - [kaze](https://github.com/yupferris/kaze) - HDL embedded in Rust.
 - [tokio-file](https://github.com/asomers/tokio-file) - Asynchronous file I/O for Tokio.
+- [Calm I/O](https://github.com/myrrlyn/calm_io) - Calm I/O operations for Rust.
 
 ## Cargo Plugins
 
@@ -1249,7 +1251,7 @@
 ## Links
 
 - [Docs.rs](https://docs.rs/) - Search rust packages. ([Code](https://github.com/rust-lang/docs.rs))
-- [Lib.rs](https://lib.rs/) - Fast, lightweight, opinionated, unofficial alternative to crates.io. ([Code](https://gitlab.com/crates.rs/crates.rs))
+- [Lib.rs](https://lib.rs/) - Fast, lightweight, opinionated, unofficial alternative to crates.io. ([Code](https://gitlab.com/crates.rs/crates.rs)) ([Reddit](https://www.reddit.com/r/rust/comments/r4f9cj/ysk_about_librs_a_pretty_alternative_to_cratesio/))
 - [Some more rust packages](https://github.com/yoshuawuyts/knowledge/blob/dd5cbf2d68bb85fa2e150a607b3267c2d36bc37b/computers/rust/packages.md)
 - [Curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
 - [Crates that don't exist, but should](https://github.com/dtolnay/request-for-implementation)
@@ -1308,3 +1310,4 @@
 - [Rust LibHunt](https://rust.libhunt.com/) - Your go-to Rust Toolbox. ([Twitter](https://twitter.com/RustLibHunt))
 - [dep_doc](https://github.com/scrabsha/dep-doc) - Add a cute dependency declaration snippet in your crate documentation.
 - [tracing-tree](https://github.com/davidbarsky/tracing-tree) - Instrument your application with tracing and get tree-structured summaries of your application activity with timing information on the console.
+- [Pinning in plain English (2021)](https://blog.schichler.dev/pinning-in-plain-english-ckwdq3pd0065zwks10raohh85) ([HN](https://news.ycombinator.com/item?id=29359521))

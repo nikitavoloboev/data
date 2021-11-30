@@ -49,3 +49,4 @@
 - [Plonky](https://github.com/mir-protocol/plonky) - Recursive SNARKs based on Plonk and Halo.
 - [Mir Protocol](https://mirprotocol.org/) - Open-source platform that allows anyone to run private and scalable decentralized applications / ZKP-powered. ([Twitter](https://twitter.com/mirprotocol))
 - [snarkjs](https://github.com/iden3/snarkjs) - ZkSNARK implementation in JavaScript & WASM.
+- [Learning zero knowledge proof technologies in public](https://github.com/JofArnold/zkp-learning-in-public)

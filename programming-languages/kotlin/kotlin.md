@@ -38,3 +38,4 @@
 - [Writing Unadulterated Services with Kotlin and Coroutines (2021)](https://www.youtube.com/watch?v=wTvNNc3A7QU)
 - [Building backend services with Kotlin (2021)](https://medium.com/brexeng/building-backend-services-with-kotlin-7c8410795e4b)
 - [Teaching Introductory Computer Science in Kotlin (2021)](https://www.youtube.com/watch?v=X8Az9X0mwUE)
+- [Kotlin service template](https://github.com/demidko/service)

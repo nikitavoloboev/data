@@ -112,3 +112,4 @@
 - [Django, HTMX and Alpine.js: Modern websites, JavaScript optional (2021)](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/) ([HN](https://news.ycombinator.com/item?id=29319034))
 - [django-fsm](https://github.com/viewflow/django-fsm) - Adds simple declarative state management for django models.
 - [Django APScheduler](https://github.com/jcass77/django-apscheduler) - Adds a lightweight wrapper around APScheduler. It enables storing persistent jobs in the database using Django's ORM.
+- [Swapper](https://github.com/openwisp/django-swappable-models) - Django Swappable Models.

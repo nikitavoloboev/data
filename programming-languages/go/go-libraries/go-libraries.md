@@ -1127,6 +1127,9 @@
 - [reflectwalk](https://github.com/mitchellh/reflectwalk) - Go library for "walking" complex structures, similar to walking a filesystem.
 - [go-diskfs](https://github.com/diskfs/go-diskfs) - Go library for performing manipulation of disks, disk images and filesystems.
 - [uint256](https://github.com/holiman/uint256) - Fixed size 256-bit math library.
+- [hcloud](https://github.com/hetznercloud/hcloud-go) - Go library for the Hetzner Cloud API.
+- [dProxy](https://github.com/koron/go-dproxy) - Proxy to access interface{} (document) by simple query.
+- [Gommon](https://github.com/labstack/gommon) - Common packages for Go.
 
 ## Links
 

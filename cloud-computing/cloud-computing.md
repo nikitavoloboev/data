@@ -17,7 +17,7 @@
 - [Digital Ocean](https://www.digitalocean.com/) - Cloud infrastructure provider.
 - [Vultr](https://www.vultr.com/) - SSD VPS Servers, Cloud Servers and Cloud Hosting. ([Vultr CLI](https://github.com/vultr/vultr-cli)) ([GitHub](https://github.com/vultr))
 - [OVHcloud](https://www.ovh.com/world/) - Web hosting, cloud computing and dedicated servers.
-- [Hetzner](https://www.hetzner.com/) - Dedicated Root Server, VPS & Hosting. ([Moving To Hetzner Cloud from DigitalOcean](https://figbert.com/posts/moving-to-hetzner-from-digitalocean/)) ([Lobsters](https://lobste.rs/s/anzwio/moving_hetzner_cloud_from_digitalocean))
+- [Hetzner](https://www.hetzner.com/) - Dedicated Root Server, VPS & Hosting. ([Moving To Hetzner Cloud from DigitalOcean](https://figbert.com/posts/moving-to-hetzner-from-digitalocean/)) ([Lobsters](https://lobste.rs/s/anzwio/moving_hetzner_cloud_from_digitalocean)) ([CLI](https://github.com/hetznercloud/cli)) ([Terraform](https://github.com/hetznercloud/terraform-provider-hcloud)) ([GitHub](https://github.com/hetznercloud)) ([Awesome](https://github.com/hetznercloud/awesome-hcloud))
 - [Prgmr](https://prgmr.com/xen/) - Linux & BSD virtual private servers.
 - [Scaleway](https://www.scaleway.com/en/) - Cloud instances delivered in seconds with backup, network and security options. ([Scaleway cheaper than AWS for VMs](https://twitter.com/jpetazzo/status/1294561330805059585))
 - [Feral Hosting](https://www.feralhosting.com/pricing)

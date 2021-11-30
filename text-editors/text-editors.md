@@ -153,3 +153,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [codemirror/autocomplete](https://github.com/codemirror/autocomplete) - Autocompletion for the CodeMirror code editor.
 - [What's the Future of IDEs? (2021)](https://giansegato.com/essays/what-future-ides/) ([HN](https://news.ycombinator.com/item?id=29304667))
 - [use-prosemirror](https://github.com/dminkovsky/use-prosemirror) - ProseMirror + React made easy.
+- [JetBrains Fleet](https://www.jetbrains.com/fleet/) - The Next-Generation IDE by JetBrains. ([HN](https://news.ycombinator.com/item?id=29377412))

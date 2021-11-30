@@ -138,3 +138,4 @@
 - [Letting users tick a ‘none’ checkbox (2021)](https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/) ([HN](https://news.ycombinator.com/item?id=29238159))
 - [5 Prioritization Methods in UX Roadmapping (2021)](https://www.nngroup.com/articles/prioritization-methods/)
 - [Interfaces: Advanced Easing](https://ericbutton.co/blog/interfaces-advanced-easing) ([HN](https://news.ycombinator.com/item?id=29270942))
+- [Command palettes: how typing commands became the norm again](https://capiche.com/e/consumer-dev-tools-command-palette) ([HN](https://news.ycombinator.com/item?id=29373536))
