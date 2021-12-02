@@ -264,3 +264,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Will Nix Overtake Docker (2021)](https://blog.replit.com/nix-vs-docker) ([HN](https://news.ycombinator.com/item?id=29387137)) ([Lobsters](https://lobste.rs/s/65xymz/will_nix_overtake_docker))
 - [One too many shell (2021)](https://blog.ysndr.de/posts/guides/2021-12-01-nix-shells/)
 - [Building a reproducible blog with Nix (2020)](https://blog.ysndr.de/posts/internals/2020-04-10-built-with-nix/)
+- [Tvix: We Are Rewriting Nix (2021)](https://tvl.fyi/blog/rewriting-nix) ([HN](https://news.ycombinator.com/item?id=29412971))
