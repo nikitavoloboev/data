@@ -444,3 +444,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git ls-files is Faster Than Fd and Find (2021)](https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/)
 - [Nano Staged](https://github.com/usmanyunusov/nano-staged) - Tool to run commands only on git staged files.
 - [Git Plugins](https://github.com/afeld/git-plugins) - Collection of custom git commands.
+- [git-mediate](https://github.com/Peaker/git-mediate) - Become a conflict resolution hero.

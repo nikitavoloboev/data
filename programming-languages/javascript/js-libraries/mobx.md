@@ -31,3 +31,4 @@
 - [Normi](https://github.com/colinhacks/normi) - Zero-config normalized cache for MobX.
 - [Next.js, NestJS, MobX and how I structured my open-source project (2021)](https://dev.to/zvikfir/next-js-nestjs-mobx-and-how-i-structured-my-open-source-project-5gco)
 - [lit-mobx](https://github.com/adobe/lit-mobx) - Mixin and base class for using mobx with lit-element.
+- [MobX Easy Form](https://github.com/hrastnik/mobx-easy-form) - Simple and performant form library built with MobX.

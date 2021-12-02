@@ -119,3 +119,4 @@
 - [Implementing CHIP-8 in Jack (2021)](https://abhaynayar.com/blog/chip8-in-jack.html)
 - [n2t-wasm](https://github.com/abhaynayar/n2t-wasm) - Emulator for the nand2tetris computer (Hack CPU).
 - [memu](https://github.com/hlandau/memu) - ARMv8-M/Cortex-M emulator/simulator.
+- [SCAMP CPU](https://github.com/jes/scamp-cpu) - Homebrew 16-bit CPU with a homebrew Unix-like-ish operating system. ([Web](https://incoherency.co.uk/scamp/))

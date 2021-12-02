@@ -35,7 +35,7 @@
 - [PostgreSQL for Beginners book](https://postgrespro.com/education/books/introbook) - Intended for those who only start getting acquainted with the world of PostgreSQL.
 - [PostgreSQL Notes](https://github.com/poudel/notes/blob/master/notes/postgresql.org)
 - [pg_flame](https://github.com/mgartner/pg_flame) - Flamegraph generator for Postgres EXPLAIN ANALYZE output.
-- [PostgREST](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. ([HN](https://news.ycombinator.com/item?id=21435195)) ([HN 2](https://news.ycombinator.com/item?id=25159097)) ([Introduction to Postgrest](https://samkhawase.com/blog/postgrest/postgrest_introduction/))
+- [PostgREST](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. ([HN](https://news.ycombinator.com/item?id=21435195)) ([HN 2](https://news.ycombinator.com/item?id=25159097)) ([Introduction to Postgrest](https://samkhawase.com/blog/postgrest/postgrest_introduction/)) ([HN](https://news.ycombinator.com/item?id=29389576))
 - [Postgres Explain Visualizer (pev)](https://github.com/AlexTatiyants/pev)
 - [Dexter](https://github.com/ankane/dexter) - Automatic indexer for Postgres.
 - [Hypothetical Indexes in PostgreSQL (2019)](https://www.percona.com/blog/2019/06/21/hypothetical-indexes-in-postgresql/)
@@ -365,3 +365,7 @@
 - [imcs](https://github.com/knizhnik/imcs) - In-Memory Columnar Store extension for PostgreSQL.
 - [pgTAP](https://pgtap.org/) - Unit Testing for PostgreSQL. ([Code](https://github.com/theory/pgtap))
 - [Pagila](https://github.com/devrimgunduz/pagila) - PostgreSQL Sample Database.
+- [Supabase Studio](https://github.com/supabase/supabase/tree/master/studio) - Dashboard for managing your self-hosted Supabase project, and used on our hosted platform. ([HN](https://news.ycombinator.com/item?id=29401589)) ([Article](https://supabase.com/blog/2021/11/30/supabase-studio))
+- [pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL.
+- [Realtime Postgres RLS Now Available on Supabase (2021)](https://supabase.com/blog/2021/12/01/realtime-row-level-security-in-postgresql) ([HN](https://news.ycombinator.com/item?id=29404222))
+- [walrus](https://github.com/supabase/walrus) - Write Ahead Log Realtime Unified Security (WALRUS).

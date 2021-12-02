@@ -63,7 +63,7 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Multicoin Capital: Technical Scalability Creates Social Scalability (2021)](https://multicoin.capital/2021/05/25/technical-scalability-creates-social-scalability/) ([Tweet](https://twitter.com/KyleSamani/status/1397602061932433411))
 - [Solana Season Hackathon](https://solana.com/solanaszn)
 - [Solana Ecosystem](https://solana.com/ecosystem) ([Code](https://github.com/solana-labs/ecosystem))
-- [Marinade](https://marinade.finance/) - Liquid staking protocol built on Solana.
+- [Marinade](https://marinade.finance/) - Liquid staking protocol built on Solana. ([Marinade.finance on liquid staking](https://www.youtube.com/watch?v=WaLkb0K3zAE))
 - [Which validator to choose for SOL? (2021)](https://www.reddit.com/r/solana/comments/nplupv/when_staking_sol_on_solflare_how_do_i_know_which/)
 - [Solana Validators](https://www.validators.app/)
 - [Solana JavaScript API](https://github.com/solana-labs/solana-web3.js) ([Docs](https://solana-labs.github.io/solana-web3.js/)) ([Guide](https://docs.solana.com/developing/clients/javascript-api))
@@ -180,3 +180,4 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Mango v3 Client Library](https://github.com/blockworks-foundation/mango-client-v3)
 - [Solana Cookbook](https://solanacookbook.com/recipes/getting-started.html#install-web3js) ([Code](https://github.com/solana-dev-adv/solana-cookbook))
 - [Where to get best yield on mSOL (marinade) without impermanent loss risk? (2021)](https://www.reddit.com/r/solana/comments/r46s4o/where_to_get_best_yield_on_msol_marinade_without/)
+- [metaplex-auth](https://github.com/nftstorage/metaplex-auth) - Client library for nft.storage designed for metaplex NFT uploads.

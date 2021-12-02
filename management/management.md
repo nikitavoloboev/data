@@ -23,6 +23,7 @@
 - [Two hardest problems in engineering management: 1. What's the priority? 2. How will we measure impact?](https://twitter.com/dxna/status/1453375754889224204)
 - [Annual planning: remember that goals must be set top down by the leader, and that bets (and resources) to hit the goals must be set bottoms-up by the team. And have weekly iterations for the two (goals and bets/resources) to converge.](https://twitter.com/gokulr/status/1458490916939862017)
 - [Picard management tip: If you're on red alert every day, then red alert means nothing](https://twitter.com/PicardTips/status/1461798823609737219)
+- [Keep the decisions you're making visible and discoverable. When it's done well, all the other work is a lot easier.](https://twitter.com/RobStuttaford/status/1466080210907017220)
 
 ## Links
 

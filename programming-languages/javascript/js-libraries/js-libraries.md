@@ -3,7 +3,7 @@
 ## Web Dev frameworks
 
 - [Next.js](https://github.com/vercel/next.js) - Framework for server-rendered or statically-exported React apps.
-- [Solid](https://www.solidjs.com/) - Declarative, efficient, and flexible JavaScript library for building user interfaces. ([Code](https://github.com/solidjs/solid)) ([Website Code](https://github.com/solidjs/solid-site)) ([Awesome](https://github.com/one-aalam/awesome-solid-js))
+- [Solid](https://www.solidjs.com/) - Declarative, efficient, and flexible JavaScript library for building user interfaces. ([Code](https://github.com/solidjs/solid)) ([Website Code](https://github.com/solidjs/solid-site)) ([Awesome](https://github.com/one-aalam/awesome-solid-js)) ([HN](https://news.ycombinator.com/item?id=29388296))
 - [San](https://github.com/baidu/san) - Flexible JavaScript component framework.
 - [hapi](https://hapijs.com/) - Rich framework for building applications and services.
 - [Koa](https://koajs.com/#introduction) - Smaller, more expressive, and more robust foundation for web applications and APIs.
@@ -79,6 +79,7 @@
 - [React Easy Flip](https://github.com/jlkiri/react-easy-flip) - Lightweight React library for smooth FLIP animations.
 - [AOS](https://github.com/michalsnik/aos) - Animate on scroll library.
 - [flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
+- [tatween](https://github.com/paraboul/tatween) - JavaScript library providing a block-based animation API.
 
 ## CLI
 
@@ -678,6 +679,10 @@
 - [queue-microtask](https://github.com/feross/queue-microtask) - Fast, tiny `queueMicrotask` shim for modern engines.
 - [Cerbero](https://github.com/thecreazy/cerbero) - Simple js library that gives you the ability to track everything your users are doing on your web page.
 - [Two.js](https://github.com/jonobr1/two.js) - Renderer agnostic two-dimensional drawing api for the web. ([Docs](https://two.js.org/))
+- [markup-it](https://github.com/GitbookIO/markup-it) - JavaScript library to parse and serialize markup content (Markdown and HTML).
+- [h3-js](https://github.com/uber/h3-js) - JavaScript version of H3, a hexagon-based geospatial indexing system.
+- [Floating UI](https://github.com/atomiks/floating-ui) - JavaScript positioning library for tooltips, popovers, dropdowns, and more. ([Web](https://www.floating-ui.com/))
+- [flow-field](https://github.com/romellogoodman/flow-field.js) - Library for generating flow fields.
 
 ## Links
 

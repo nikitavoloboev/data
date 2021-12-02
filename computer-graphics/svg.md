@@ -110,3 +110,6 @@
 - [shape2path](https://github.com/HarryStevens/shape2path) - Convert SVG shapes to SVG paths.
 - [SVG.js](https://github.com/svgdotjs/svg.js) - Lightweight library for manipulating and animating SVG.
 - [Country Flags in SVG](https://flagicons.lipis.dev/) ([Code](https://github.com/lipis/flag-icons))
+- [SVG Silh](https://svgsilh.com/) - Free SVG Image & Icon.
+- [svgson](https://github.com/elrumordelaluz/svgson) - Transform SVG files to JSON notation.
+- [goodgraphics](https://github.com/romellogoodman/goodgraphics.js) - Library for scripting SVGs.

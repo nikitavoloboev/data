@@ -636,3 +636,5 @@ if err != nil {
 - [golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver)
 - [Demo app showing an end-to-end CI pipeline with Github Actions, goreleaser and ko](https://github.com/embano1/ci-demo-app)
 - [GopherCon UK 2021 - YouTube](https://www.youtube.com/playlist?list=PLDWZ5uzn69ex0U5MmbKWorsTuVBgUePxw)
+- [Faster Top Level Domain Name Extraction with Go (2021)](https://tech.marksblogg.com/rdns-domain-name-tld-extract-golang.html) ([Lobsters](https://lobste.rs/s/emrwnm/faster_top_level_domain_name_extraction))
+- [Go memory watchdog](https://github.com/raulk/go-watchdog) - Library to curb OOMs by running Go GC according to a user-defined policy.

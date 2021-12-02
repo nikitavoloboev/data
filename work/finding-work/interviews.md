@@ -146,3 +146,5 @@
 - [Interviewing Advice from the Other Side of the Table (2020)](https://theorangeduck.com/page/interviewing-advice-from-other-side-table)
 - [Notes on interviewing candidates](https://www.remnote.com/a/interview/617fc61068286e00169b947a)
 - [Don’t do interviews, do discussions](https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions) ([HN](https://news.ycombinator.com/item?id=29141983))
+- [Accepted and ghosted: interviewing for a leadership position at Stripe (2021)](https://news.ycombinator.com/item?id=29387264)
+- [What I learned about interviewing](https://lanie.dev/tech/interviewing/) ([HN](https://news.ycombinator.com/item?id=29392032))

@@ -470,3 +470,6 @@
 - [MetaFormer is Actually What You Need for Vision (2021)](https://arxiv.org/abs/2111.11418) ([Code](https://github.com/sail-sg/poolformer))
 - [ARAPReg: An As-Rigid-As Possible Regularization Loss for Learning Deformable Shape Generators (2021)](https://arxiv.org/abs/2108.09432) ([Code](https://github.com/GitBoSun/ARAPReg))
 - [Mesa: A Memory-saving Training Framework for Transformers (2021)](https://arxiv.org/abs/2111.11124) ([Code](https://github.com/zhuang-group/Mesa))
+- [MMPose](https://github.com/open-mmlab/mmpose) - Open-source toolbox for pose estimation based on PyTorch. ([Docs](https://mmpose.readthedocs.io/en/latest/))
+- [An Empirical Study of Training End-to-End Vision-and-Language Transformers (2021)](https://arxiv.org/abs/2111.02387) ([Code](https://github.com/zdou0830/METER))
+- [Useful computer vision PhD resources](https://github.com/hassony2/useful-computer-vision-phd-resources)

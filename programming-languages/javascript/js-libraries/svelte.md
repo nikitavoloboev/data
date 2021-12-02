@@ -143,3 +143,5 @@
 - [cloudflare-workers-svelte](https://github.com/hazcod/cloudflare-workers-svelte) - Example repository for running a sveltejs/sveltekit website on Cloudflare Workers.
 - [Introduction to Svelte Actions (2021)](https://blog.logrocket.com/svelte-actions-introduction/)
 - [How to use a Rust WebAssembly module in Svelte with Web Workers (2021)](https://martyjon.es/webassembly/rust/svelte/2021/11/28/svelte-wasm-workers-how-to.html)
+- [Svelte's lifecycle methods can be used anywhere (2021)](https://geoffrich.net/posts/svelte-lifecycle-examples/)
+- [svelte-forms](https://github.com/chainlist/svelte-forms) - Svelte forms validation made easy.

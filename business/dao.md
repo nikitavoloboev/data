@@ -43,3 +43,4 @@
 - [Commonwealth](https://commonwealth.im/) - Community for every token.
 - [DAOs, A Canon (2021)](https://future.a16z.com/dao-canon/)
 - [Rebasing DAOs & Olympus OHM: Tokenomic Revolution Or Ponzi Scheme? (2021)](https://www.youtube.com/watch?v=-ZodrK_V8Fw)
+- [Moloch v2](https://github.com/MolochVentures/moloch) - Upgraded version of MolochDAO that allows the DAO to acquire and spend multiple different tokens, instead of just one.

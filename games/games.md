@@ -45,6 +45,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Wayfinder](https://wayfinder.nfb.ca/) - Relaxing 'art game' in the browser. ([HN](https://news.ycombinator.com/item?id=27532068))
 - [Freeciv-Web](https://www.freecivweb.org/) - Open source turn-based strategy game. ([HN](https://news.ycombinator.com/item?id=27614434))
 - [Puzzle Panda](https://puzzlepanda.com/) - Play Jigsaw Puzzles Online. ([HN](https://news.ycombinator.com/item?id=29218401))
+- [Pokémon Showdown](https://pokemonshowdown.com/) - Pokémon battle simulator. ([Code](https://github.com/smogon/pokemon-showdown))
 
 ## Awesome OSS games
 
@@ -237,3 +238,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Your 5 most important video games during your youth years (2021)](https://twitter.com/jakeregal/status/1260449257821216768)
 - [100 Thieves](https://twitter.com/100Thieves) - Gaming, entertainment, and apparel. ([Tweet](https://twitter.com/jacksondahl/status/1458152429564792835))
 - [Games are well-positioned to become the true fans of web3, and why that matters (2021)](https://twitter.com/brianjcho/status/1459176570174672897)
+- [Best single player games (2021)](https://twitter.com/sult/status/1465406873629245443)

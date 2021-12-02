@@ -281,3 +281,5 @@
 - [How I'd build a react framework today (2021)](https://twitter.com/threepointone/status/1452730999561990148)
 - [Using Composition in React to Avoid "Prop Drilling" (2019)](https://www.youtube.com/watch?v=3XaXKiXtNjw)
 - [I hate passing props but don't need Redux. Which tool should I use? (2021)](https://www.reddit.com/r/reactjs/comments/qljqai/i_hate_passing_props_but_dont_need_redux_which/)
+- [React Holiday](https://react.holiday/) - Celebrate React 18 beta with 18 lessons delivered to your inbox.
+- [react-chicane](https://github.com/zoontek/react-chicane) - Simple and safe router for React and TypeScript.

@@ -53,3 +53,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [The main thing about Phenylacetone meth is that there's so much of it](https://dynomight.net/p2p-meth/) ([HN](https://news.ycombinator.com/item?id=29027284))
 - [Bluelight.org](https://www.bluelight.org/xf/)
 - [What’s the druggiest drug to you? (2021)](https://www.reddit.com/r/Drugs/comments/r2but1/whats_the_druggiest_drug_to_you/)
+- [What are your personal favorite drugs in every category? (2021)](https://www.reddit.com/r/researchchemicals/comments/r5jsau/what_are_your_personal_favorites_in_every_category/)

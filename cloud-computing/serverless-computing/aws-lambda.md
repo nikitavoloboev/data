@@ -91,3 +91,4 @@
 - [Implementing header-based API Gateway versioning with Amazon CloudFront (2021)](https://aws.amazon.com/blogs/compute/implementing-header-based-api-gateway-versioning-with-amazon-cloudfront/)
 - [Tips to prevent a serverless wreck (2021)](https://dev.to/aws-heroes/tips-to-prevent-a-serverless-wreck-15af)
 - [Serverless WarmUp Plugin](https://github.com/juanjoDiaz/serverless-plugin-warmup) - Keep your lambdas warm during winter.
+- [Fat Functions are an Anti-Pattern (2021)](https://blog.begin.com/posts/2021-12-01-fat-function-anti-pattern) ([Tweet](https://twitter.com/brianleroux/status/1466102082662899712))

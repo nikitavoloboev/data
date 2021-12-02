@@ -141,7 +141,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [2021 AI Papers List](https://github.com/louisfb01/best_AI_papers_2021)
 - [Quarto](https://quarto.org/) - Open-source scientific and technical publishing system built on Pandoc. ([Code](https://github.com/quarto-dev/quarto-cli))
 - [Papers List Generation](https://papers-ai.vercel.app/) ([Code](https://github.com/flavioschneider/papers-ai))
-- [arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - Lighter-weight arxiv-sanity re-write.
+- [arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - Lighter-weight arxiv-sanity re-write. ([Tweet](https://twitter.com/karpathy/status/1466094087296012289))
 - [TextFrame](https://textframe.app/) - No-code tool to create animated technical papers. ([HN](https://news.ycombinator.com/item?id=29234636))
 - [Pulling Google Scholar Citation Counts with a Zotero Plugin for Sorting Papers (2021)](https://justinribeiro.com/chronicle/2021/11/17/pulling-google-scholar-citation-counts-with-a-zotero-plugin-for-sorting-papers/)
 - [Online BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/) - Clean up BibTeX files. ([Code](https://github.com/FlamingTempura/bibtex-tidy)) ([HN](https://news.ycombinator.com/item?id=29339853))

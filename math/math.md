@@ -322,3 +322,4 @@
 - [Introduction to stacks and moduli (2021)](https://sites.math.washington.edu/~jarod/math582C.html)
 - [Mathematics and Computation Blog](http://math.andrej.com/) ([Code](https://github.com/andrejbauer/mathematics-and-computation))
 - [Ask HN: How did you learn math notation? (2021)](https://news.ycombinator.com/item?id=29341152)
+- [Exploring the beauty of pure mathematics in novel ways (2021)](https://deepmind.com/blog/article/exploring-the-beauty-of-pure-mathematics-in-novel-ways) ([HN](https://news.ycombinator.com/item?id=29405380)) ([Paper](https://www.nature.com/articles/s41586-021-04086-x)) ([Tweet](https://twitter.com/DeepMind/status/1466080533050535940))

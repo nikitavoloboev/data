@@ -19,3 +19,4 @@
 - [Azure Container Apps](https://azure.microsoft.com/en-us/services/container-apps/) - Easily deploy container microservices. ([Tweet](https://twitter.com/kelseyhightower/status/1455575229107826688))
 - [Language server for Azure Pipelines YAML](https://github.com/microsoft/azure-pipelines-language-server)
 - [NubesGen](https://nubesgen.com/) - Going to production on Azure is only one `git push` away. ([Code](https://github.com/microsoft/NubesGen))
+- [Azure.jl](https://github.com/JuliaComputing/Azure.jl) - Julia interface to Azure APIs.

@@ -66,3 +66,4 @@
 - [Poincaré, Heisenberg, Gödel and the limits of scientific knowledge (2013)](https://arxiv.org/abs/1301.7036) ([HN](https://news.ycombinator.com/item?id=28816143))
 - [Семантические аспекты интуиционистской логики (2021)](https://compsciclub.ru/courses/intuitionisticsemantics/2021-autumn/)
 - [Логика для людей](https://denchick.github.io/logic4humans/) ([Code](https://github.com/Denchick/logic4humans))
+- [On the unity of logic](https://www.sciencedirect.com/science/article/pii/016800729390093S) ([Tweet](https://twitter.com/vamchale/status/1466185099427422210))

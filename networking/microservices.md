@@ -90,3 +90,4 @@
 - [Bootstrapping Microservices with Docker, Kubernetes, and Terraform Book (2021)](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform)
 - [mahou](https://github.com/queer/mahou) - Highly-opinionated yet quite magical research project into microservice-oriented application infrastructure. ([Web](https://mahou.io/))
 - [What could better cross-(micro)service messaging look like? (2021)](https://b.amy.gg/what-might-messaging-be)
+- [Some Thoughts on Microservices (2021)](https://filipnikolovski.com/posts/thoughts-on-microservices/) ([HN](https://news.ycombinator.com/item?id=29379926))

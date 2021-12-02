@@ -296,6 +296,7 @@
 - [Caches](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation.
 - [SML](https://github.com/boost-ext/sml) - C++14 State Machine Library.
 - [Kokkos](https://github.com/kokkos/kokkos) - Programming model in C++ for writing performance portable applications targeting all major HPC platforms.
+- [CPPItertools](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library.
 
 ## Links
 

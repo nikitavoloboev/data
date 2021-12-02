@@ -289,3 +289,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems (2021)](https://www.micahlerner.com/2021/11/09/the-demikernel-datapath-os-architecture-for-microsecond-scale-datacenter-systems.html)
 - [TinyLFU: A Highly Efficient Cache Admission Policy (2015)](https://arxiv.org/abs/1512.00727)
 - [Comparison of Operating System Complexity (2020)](https://pspodcasting.net/dan/blog/2020/complexity.pdf) ([HN](https://news.ycombinator.com/item?id=29362274))
+- [Virtual Machine Showdown: Stack Versus Registers (2005)](https://www.usenix.org/legacy/events%2Fvee05%2Ffull_papers/p153-yunhe.pdf)

@@ -141,6 +141,7 @@
 - [GitHub Deployments](https://github.com/bobheadxi/deployments) - GitHub Action for working painlessly with deployment statuses.
 - [Find Comment](https://github.com/peter-evans/find-comment) - GitHub action to find an issue or pull request comment.
 - [kube-tools](https://github.com/stefanprodan/kube-tools) - Kubernetes tools for GitHub Actions CI.
+- [Deploy to Gist](https://github.com/exuanbo/actions-deploy-gist) - Github Action to deploy your file to Github Gist.
 
 ## Go
 
@@ -220,6 +221,7 @@
 
 - [Haskell Github Actions](https://github.com/haskell/actions) - Github actions for Haskell CI.
 - [hackage-publish](https://github.com/haskell-actions/hackage-publish) - GitHub action for publishing packages and documentation to Hackage.
+- [HLint action](https://github.com/tfausak/hlint-action) - Checks that Haskell files are linted with HLint.
 
 ## LLVM
 
@@ -344,3 +346,4 @@
 - [GitHub Action Dashboard](https://github.com/chriskinsman/github-action-dashboard) - Dashboard to keep track of the status of your GitHub Actions.
 - [Testing Linux packages on GitHub Actions (2021)](https://carlosbecker.com/posts/linux-pkgs-github-actions/)
 - [GitHub Actions Badge](https://actions-badge.atrox.dev/) - Shields.io Badge for your GitHub Actions. ([Code](https://github.com/Atrox/github-actions-badge))
+- [Keyless signing with GitHub Actions](https://github.com/mattmoor/zero-friction-actions)

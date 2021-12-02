@@ -75,3 +75,5 @@
 - [regl-gpu-lines](https://github.com/rreusser/regl-gpu-lines) - Pure GPU instanced, screen-projected lines for regl.
 - [Phenomenon](https://github.com/vaneenige/phenomenon) - Fast 2kB low-level WebGL API.
 - [WebGL Water](http://madebyevan.com/webgl-water/) ([Code](https://github.com/evanw/webgl-water)) ([HN](https://news.ycombinator.com/item?id=29376037))
+- [MeshCat Python](https://github.com/rdeits/meshcat-python) - Python Bindings to the MeshCat WebGL viewer.
+- [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) - Julia bindings to the MeshCat WebGL viewer.

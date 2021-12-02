@@ -135,6 +135,7 @@
 - [pytest-postgresql](https://github.com/ClearcodeHQ/pytest-postgresql) - Pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database.
 - [omniduct](https://github.com/airbnb/omniduct) - Uniform interfaces for connecting to and extracting data from a wide variety of (potentially remote) data stores.
 - [PugSQL](https://github.com/mcfunley/pugsql) - HugSQL-inspired database library for Python.
+- [PyStow](https://github.com/cthoyt/pystow) - Easily pick a place to store data for your Python code.
 
 ## GUI
 
@@ -193,7 +194,7 @@
 - [Blaze](https://github.com/blaze/blaze) - Translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems.
 - [Dash Table](https://github.com/plotly/dash-table) - First-Class Interactive DataTable for Dash.
 - [Kombu](https://github.com/celery/kombu) - Messaging library for Python.
-- [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi)) ([FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator))
+- [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi)) ([FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator)) ([FastAPI Auth](https://github.com/Kludex/fastapi-authorization))
 - [Starlette](https://github.com/encode/starlette) - Little ASGI framework that shines. ([Docs](https://www.starlette.io/))
 - [Poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [POT: Python Optimal Transport](https://github.com/PythonOT/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
@@ -571,6 +572,9 @@
 - [Cashews](https://github.com/Krukov/cashews) - Cache with async power.
 - [Injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice.
 - [jMetalPy](https://github.com/jMetal/jMetalPy) - Framework for single/multi-objective optimization with metaheuristics.
+- [Pygal](https://github.com/Kozea/pygal) - Dynamic SVG charting library written in python.
+- [json2html](https://github.com/softvar/json2html) - Python module to convert JSON into a human readable HTML Table representation.
+- [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
 
 ## Links
 

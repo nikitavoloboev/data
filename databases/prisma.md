@@ -81,3 +81,5 @@
 - [Zod Prisma](https://github.com/CarterGrimmeisen/zod-prisma) - Custom Prisma generator that creates Zod schemas from your Prisma model.
 - [Transparent field-level encryption at rest for Prisma](https://github.com/47ng/prisma-field-encryption)
 - [Prisma Schema Builder](https://www.prismabuilder.io/) - Build your Prisma schema visually in this easy-to-use web based tool. ([Code](https://github.com/albingroen/prismabuilder.io))
+- [Improving the Prisma VS Code Extension with WebAssembly (2021)](https://www.prisma.io/blog/vscode-extension-prisma-rust-webassembly)
+- [prisma-fmt-wasm](https://github.com/prisma/prisma-fmt-wasm) - Build logic to package the prisma-fmt engine into a Node package as a WASM module.

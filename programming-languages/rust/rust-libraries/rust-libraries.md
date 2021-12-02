@@ -353,6 +353,7 @@
 - [Mushin](https://github.com/c0dearm/mushin) - Compile-time creation of neural networks.
 - [Alumina](https://github.com/millardjn/alumina) - Deep learning library for rust.
 - [bhtsne](https://github.com/frjnn/bhtsne) - Parallel Barnes-Hut t-SNE implementation written in Rust.
+- [ONNX Runtime](https://github.com/nbigaouette/onnxruntime-rs) - Rust wrapper for Microsoft's ONNX Runtime.
 
 ## macOS
 
@@ -418,6 +419,7 @@
 - [arrayref](https://github.com/droundy/arrayref) - Two macros for taking array references in rust.
 - [macro-attr](https://github.com/DanielKeep/rust-custom-derive) - Custom derivation macro for Rust.
 - [deepsize](https://github.com/Aeledfyr/deepsize) - Trait and derive macro to recursively find the size of an object and the size of allocations that it owns.
+- [async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions.
 
 ## Math
 
@@ -1204,6 +1206,7 @@
 - [kaze](https://github.com/yupferris/kaze) - HDL embedded in Rust.
 - [tokio-file](https://github.com/asomers/tokio-file) - Asynchronous file I/O for Tokio.
 - [Calm I/O](https://github.com/myrrlyn/calm_io) - Calm I/O operations for Rust.
+- [GeoZero](https://github.com/georust/geozero) - Zero-Copy reading and writing of geospatial data.
 
 ## Cargo Plugins
 
@@ -1311,3 +1314,5 @@
 - [dep_doc](https://github.com/scrabsha/dep-doc) - Add a cute dependency declaration snippet in your crate documentation.
 - [tracing-tree](https://github.com/davidbarsky/tracing-tree) - Instrument your application with tracing and get tree-structured summaries of your application activity with timing information on the console.
 - [Pinning in plain English (2021)](https://blog.schichler.dev/pinning-in-plain-english-ckwdq3pd0065zwks10raohh85) ([HN](https://news.ycombinator.com/item?id=29359521))
+- [Build environment for third-party Rust crates](https://github.com/rust-lang/crates-build-env)
+- [cargo2nix](https://github.com/cargo2nix/cargo2nix) - Build Rust crates with Nix.

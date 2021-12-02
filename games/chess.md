@@ -8,10 +8,12 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 ## Nice players
 
 - [Jan-Krzysztof Duda](https://www.youtube.com/results?search_query=Jan-Krzysztof+Duda)
+- [Morozevich, Alexander](https://ratings.fide.com/profile/4116992)
 
 ## Favorite games
 
 - [World Chess Championship: Magnus vs Ian (2021)](https://www.youtube.com/watch?v=CcXcdoG0W2c&t=2s) ([Talk after](https://www.youtube.com/watch?v=ld-RZLyWrvg)) ([Reddit](https://www.reddit.com/r/chess/comments/r3i5m5/2021_world_championship_game_2_post_game_player/))
+- [Carlsen-Morozevich, World Blitz Championship 2012](https://www.youtube.com/watch?v=-wRdgOllrzM)
 
 ## Notes
 
@@ -149,3 +151,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [React chess piece component](https://github.com/chessire-cat/pieces)
 - [Acquisition of Chess Knowledge in AlphaZero (2021)](https://arxiv.org/abs/2111.09259) ([Article](https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero)) ([HN](https://news.ycombinator.com/item?id=29272000))
 - [Typesetting Chess in LATEX with the skak Package (2018)](http://tug.ctan.org/fonts/skak/doc/skakdoc.pdf)
+- [How Magnus Carlsen Became World Champion (2021)](https://www.youtube.com/watch?v=RcXZDc9T02I)

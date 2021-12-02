@@ -246,6 +246,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Spore](https://spore.build/) - Free, all-in-one tool for creators to build websites to truly own, grow, & monetize their relationship with fans. ([Tweet](https://twitter.com/JoshConstine/status/1408116841554219011))
 - [Gotenberg](https://gotenberg.dev/) - Docker-powered stateless API for PDF files. ([Code](https://github.com/gotenberg/gotenberg))
 - [Macrov](https://www.usemacro.com/) - Checklists, reimagined - supercharge your team’s processes.
+- [Readup](https://readup.com/) - Social Reading.
 - [Stackby](https://stackby.com/) - Spreadsheets Databases and APIs in single workspace. ([HN](https://news.ycombinator.com/item?id=26601502))
 - [Bloom](https://bloom.sh/) - All-in-one workspace. Open Source Inbox, Calendar, Files, Contacts & much more. ([Code](https://github.com/skerkour/bloom))
 - [ConfigCat](https://configcat.com/) - Feature flags for teams. ([JS SDK](https://github.com/configcat/js-sdk))
@@ -327,7 +328,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Livingdocs](https://livingdocs.io/) - Modern Digital Content Creation and Publishing System. ([GitHub](https://github.com/livingdocsIO))
 - [Namechk](https://namechk.com/) - Username, Domain, and Trademark Search.
 - [Changemap](https://changemap.co/) - Involve users and manage features from suggestion to changelog.
-- [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely. ([Web](https://wallabag.org/en))
 - [Project Iris](http://iris.karalabe.com/) - Completely decentralized cloud messaging.
 - [yq](https://github.com/mikefarah/yq) - Lightweight and portable command-line YAML processor.
 - [flowchart.fun](https://flowchart.fun/) - Generate Flowcharts from Text. ([Code](https://github.com/tone-row/flowchart-fun)) ([HN](https://news.ycombinator.com/item?id=26303784))
@@ -512,6 +513,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Monitoror](https://monitoror.com/) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything. ([Code](https://github.com/monitoror/monitoror))
 - [Cmdstalk](https://github.com/99designs/cmdstalk) - Unix-process-based beanstalkd queue broker.
 - [codemod](https://github.com/facebook/codemod) - Tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention.
+- [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
 - [Castodia](https://www.castodia.com/) - Pull data from your database directly into Google Sheets.
 - [Ask User](https://askuser.xyz/) - Survey your customers and build exactly what they want.
 - [NeuraCache](https://neuracache.com/) - Take notes & highlights, clip articles & screenshots using your favorite tool.

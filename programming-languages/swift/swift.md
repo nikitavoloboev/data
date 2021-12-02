@@ -249,3 +249,5 @@
 - [How to Handle Errors in Swift Task Groups (2021)](https://swiftsenpai.com/swift/task-groups-error-handling/)
 - [Non-fatal errors vs fatal crashes: The differences explained (2021)](https://www.avanderlee.com/optimization/non-fatal-errors-vs-fatal-crashes/)
 - [Set of blog posts about Swift Coding](https://github.com/stevencurtis/SwiftCoding)
+- [Swift actors: How do they work, and what kinds of problems do they solve? (2021)](https://www.swiftbysundell.com/articles/swift-actors/)
+- [Modern Concurrency in Swift Book (2021)](https://www.raywenderlich.com/books/modern-concurrency-in-swift) ([Code](https://github.com/raywenderlich/mcon-materials))

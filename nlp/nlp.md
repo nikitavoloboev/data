@@ -90,7 +90,7 @@
 - [NLP 100 Exercise](https://nlp100.github.io/en/) - Bootcamp designed for learning skills for programming, data analysis, and research activities. ([Code](https://github.com/nlp100/nlp100.github.io))
 - [The Transformer Family (2020)](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 - [Minimalist Implementation of a BERT Sentence Classifier](https://github.com/ricardorei/lightning-text-classification)
-- [fastText](https://fasttext.cc/) - Library for efficient text classification and representation learning. ([Code](https://github.com/facebookresearch/fastText/)) ([Article](https://rolisz.com/the-best-text-classification-library-for-a-quick-baseline/)) ([HN](https://news.ycombinator.com/item?id=27583185))
+- [fastText](https://fasttext.cc/) - Library for efficient text classification and representation learning. ([Code](https://github.com/facebookresearch/fastText/)) ([Article](https://rolisz.com/the-best-text-classification-library-for-a-quick-baseline/)) ([HN](https://news.ycombinator.com/item?id=27583185)) ([Fork](https://github.com/explosion/floret))
 - [Awesome NLP Paper Discussions](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day.
 - [SynST: Syntactically Supervised Transformers](https://github.com/dojoteef/synst)
 - [The Cost of Training NLP Models: A Concise Overview (2020)](https://arxiv.org/abs/2004.08900)
@@ -411,3 +411,5 @@
 - [RoFormer: Enhanced Transformer with Rotary Position Embedding (2021)](https://arxiv.org/abs/2104.09864) ([Code](https://github.com/lucidrains/rotary-embedding-torch))
 - [N-grammer: Augmenting Transformers with latent n-grams (2021)](https://openreview.net/forum?id=GxjCYmQAody) ([Code](https://github.com/lucidrains/n-grammer-pytorch))
 - [textsearch](https://github.com/kootenpv/textsearch) - Find strings/words in text; convenience and C speed.
+- [Mastering spaCy Book (2021)](https://www.packtpub.com/product/mastering-spacy/9781800563353) ([Code](https://github.com/PacktPublishing/Mastering-spaCy))
+- [sense2vec](https://github.com/explosion/sense2vec) - Contextually-keyed word vectors.

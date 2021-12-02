@@ -3,6 +3,7 @@
 ## Notes
 
 - [Lift weights. An increase in muscle will pull the skin tighter. Without any muscle size you'll just be 'skinny fat.'](https://www.reddit.com/r/bodyweightfitness/comments/ncpysn/how_can_i_lose_this_last_bit_of_fat_and_just_have/)
+- [If you have a squat rack, a bench, and a bar, I recommend the 5x5 program. There’s an app called StrongLifts that does a solid job of helping guide form and track your progress. You start out with the empty bar and work up in 5lb increments on 5 different core barbell lifts (10lb increments on deadlift), 3 times per week, alternating A and B programs, always with the squat in the mix. Within about 8 weeks you will notice a big difference.](https://news.ycombinator.com/item?id=29403113)
 
 ## Links
 

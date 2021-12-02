@@ -79,7 +79,9 @@
 
 ## Scala
 
+- [Underscore](https://underscore.io/) - Scala software development, consultancy, and training.
 - [Propensive](https://propensive.com/) - European technology company, specializing in supporting the Scala programming community.
+- [Inner Product](https://www.inner-product.com/)
 
 ## Clojure
 

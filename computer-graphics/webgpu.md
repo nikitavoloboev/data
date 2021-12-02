@@ -33,3 +33,4 @@
 - [Tiny WebGPU renderer written in Rust](https://github.com/takahirox/wgpu-rust-renderer)
 - [GWebGPUEngine](https://github.com/antvis/GWebGPUEngine) - WebGPU Engine for real-time rendering and GPGPU.
 - [deno_desktop](https://github.com/DjDeveloperr/deno_desktop) - Implements WebGPU Surface API by embedding Deno.
+- [WebGPU computations performance in comparison to WebGL (2021)](https://pixelscommander.com/javascript/webgpu-computations-performance-in-comparison-to-webgl/) ([HN](https://news.ycombinator.com/item?id=29403494))

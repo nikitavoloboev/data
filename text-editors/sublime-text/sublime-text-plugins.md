@@ -31,6 +31,7 @@ Below is a list of plugins I use.
 - [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
 - [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Advanced Vim emulation layer for Sublime Text.
 - [Emmet](https://github.com/emmetio/sublime-text-plugin)
+- [Sublime Debugger](https://github.com/daveleroy/sublime_debugger) - Graphical Debugger for sublime text for debuggers that support the debug adapter protocol.
 
 ## Markdown
 

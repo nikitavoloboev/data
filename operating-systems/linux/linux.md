@@ -426,3 +426,5 @@
 - [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux.
 - [Amazon Linux 2022](https://aws.amazon.com/linux/amazon-linux-2022/) ([HN](https://news.ycombinator.com/item?id=29343255))
 - [systemd by example (2021)](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
+- [pier](https://github.com/pier-cli/pier) - Linux script management CLI written in Rust.
+- [Digging into Linux namespaces (2021)](https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html)

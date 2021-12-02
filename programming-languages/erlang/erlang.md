@@ -118,3 +118,4 @@
 - [Leveled](https://github.com/martinsumner/leveled) - Simple Erlang Key-Value store based on the concept of Log-Structured Merge Trees.
 - [Apns4erl](https://github.com/inaka/apns4erl) - Apple Push Notification Server for Erlang.
 - [PGO](https://github.com/erleans/pgo) - Erlang Postgres client and connection pool.
+- [efmt](https://github.com/sile/efmt) - Erlang code formatter.

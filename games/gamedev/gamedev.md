@@ -217,3 +217,4 @@
 - [Where to start to become a game designer? (2021)](https://www.reddit.com/r/gamedev/comments/qvpobx/where_to_start_to_become_a_game_designer/)
 - [Q1K3 – Making Of (2021)](https://phoboslab.org/log/2021/09/q1k3-making-of)
 - [Voidcall – Making Of (2019)](https://phoboslab.org/log/2019/09/voidcall-making-of)
+- [Procedural storytelling is exploding the possibilities of video game narratives (2021)](https://www.theverge.com/2021/11/30/22807568/procedural-storytelling-video-games-dwarf-fortress-wildermyth-blaseball)

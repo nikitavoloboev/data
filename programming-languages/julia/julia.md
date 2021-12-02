@@ -103,3 +103,5 @@
 - [Concurrency in Julia (2021)](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/) ([HN](https://news.ycombinator.com/item?id=29165123))
 - [Differentiable Programming with Julia by Mike Innes (2019)](https://www.youtube.com/watch?v=LjWzgTPFu14)
 - [Zero-to-Hero Julia workshop (2020)](https://github.com/Datseris/Zero2Hero-JuliaWorkshop) ([Video](https://www.youtube.com/watch?v=Fi7Pf2NveH0))
+- [Julia 1.7 Highlights (2021)](https://julialang.org/blog/2021/11/julia-1.7-highlights/) ([HN](https://news.ycombinator.com/item?id=29399844))
+- [GPU Programming with Julia course (2021)](https://github.com/omlins/julia-gpu-course)

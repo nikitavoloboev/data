@@ -160,6 +160,7 @@ And these Discord servers:
 - [UnHerd](https://unherd.com/)
 - [Atlantic Council](https://www.atlanticcouncil.org/)
 - [Esquire](https://www.esquire.com/) - Men's Fashion, Cocktails, Politics, Interviews, and Women.
+- [TLS](https://www.the-tls.co.uk/) - Times Literary Supplement.
 
 ### Other
 

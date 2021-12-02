@@ -44,6 +44,9 @@
 - [Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc) - Adds command palette options to export your notes to a variety of formats.
 - [CardBoard](https://github.com/roovo/obsidian-card-board) - Obsidian plugin to make working with tasks a pleasure.
 - [Metadata Extractor](https://github.com/kometenstaub/metadata-extractor) - Allows you to write Obsidian vault metadata, which is only accessible via plugin, onto the hard drive.
+- [Image Window](https://github.com/valentine195/obsidian-image-window) - Adds the ability to open images in new Obsidian windows.
+- [Obsidian Vale](https://github.com/marcusolsson/obsidian-vale) - Vale client for Obsidian.
+- [Obsidian AnkiBridge](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge) - Anki integration for Obsidian.
 
 ## Themes
 

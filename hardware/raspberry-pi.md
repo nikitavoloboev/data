@@ -98,3 +98,4 @@
 - [I built a $5k Raspberry Pi server (yes, it's ridiculous) (2021)](https://www.jeffgeerling.com/blog/2021/i-built-5000-raspberry-pi-server-yes-its-ridiculous) ([HN](https://news.ycombinator.com/item?id=29253928))
 - [Argo CD for your private Raspberry Pi k3s cluster (2020)](https://johansiebens.dev/posts/2020/08/argo-cd-for-your-private-raspberry-pi-k3s-cluster/)
 - [Setting up Cloudflare Argo & Access on a Raspberry Pi (2021)](https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi) ([HN](https://news.ycombinator.com/item?id=29382906))
+- [Turing Pi 2: 4 Raspberry Pi nodes on a mini ITX board (2021)](https://www.jeffgeerling.com/blog/2021/turing-pi-2-4-raspberry-pi-nodes-on-mini-itx-board) ([HN](https://news.ycombinator.com/item?id=29405614)) ([Code](https://github.com/geerlingguy/turing-pi-2-cluster))

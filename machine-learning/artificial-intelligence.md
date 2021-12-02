@@ -112,3 +112,4 @@
 - [An argument for the impossibility of machine intelligence (2021)](https://arxiv.org/abs/2111.07765)
 - [Sea AI Lab](https://sail.sea.com/) ([GitHub](https://github.com/sail-sg))
 - [Ask HN: What are the early signs of singularity? (2021)](https://news.ycombinator.com/item?id=29343774)
+- [Aligning AI With Shared Human Values (2020)](https://arxiv.org/abs/2008.02275) ([Code](https://github.com/hendrycks/ethics))

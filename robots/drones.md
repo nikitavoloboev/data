@@ -12,3 +12,4 @@
 - [Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning (2021)](https://arxiv.org/abs/2003.02437) ([Code](https://github.com/VisDrone/DroneVehicle))
 - [VisDrone-Dataset](https://github.com/VisDrone/VisDrone-Dataset)
 - [Cleo Dronut](https://cleorobotics.com/product/) - First UAV designed specifically for GPS-denied environments. ([HN](https://news.ycombinator.com/item?id=29341005))
+- [Adventures in Drone Photogrammetry Using Rust and Machine Learning (2021)](http://cmoran.xyz/writing/adventures_in_photogrammetry)

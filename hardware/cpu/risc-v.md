@@ -114,7 +114,7 @@
 - [Berkeley Out-of-Order Machine (BOOM](https://github.com/riscv-boom/riscv-boom) - Synthesizable and parameterizable open source RV64GC RISC-V core written in the Chisel hardware construction language.
 - [HiFive Unmatched](https://www.sifive.com/boards/hifive-unmatched) - RISC-V Linux development platform. ([HN](https://news.ycombinator.com/item?id=28468118))
 - [RVirt](https://github.com/mit-pdos/RVirt) - S-mode trap-and-emulate hypervisor for RISC-V.
-- [Vortex RISC-V GPGPU](https://github.com/vortexgpgpu/vortex) - Full-system RISCV-based GPGPU processor. ([Web](http://vortex.cc.gatech.edu/)) ([Tutorials](https://github.com/vortexgpgpu/vortex_tutorials))
+- [Vortex RISC-V GPGPU](https://github.com/vortexgpgpu/vortex) - Full-system RISCV-based GPGPU processor. ([Web](http://vortex.cc.gatech.edu/)) ([Tutorials](https://github.com/vortexgpgpu/vortex_tutorials)) ([HN](https://news.ycombinator.com/item?id=29388213))
 - [RISC-V: The New Architecture on the Block](https://klarasystems.com/articles/risc-v-the-new-architecture-on-the-block/) ([HN](https://news.ycombinator.com/item?id=28696450))
 - [riscv](https://github.com/rust-embedded/riscv) - Low level access to RISC-V processors using Rust.
 - [Nios V – Intel's RISC-V Processor](https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html) ([HN](https://news.ycombinator.com/item?id=28767046))

@@ -633,3 +633,5 @@
 - [Will rust ever have a futures executor in std? (2021)](https://www.reddit.com/r/rust/comments/r10pp1/will_rust_ever_have_a_futures_executor_in_std/)
 - [A prioritised micro-batch scheduler in rust (2021)](https://njk.onl/blog/gaffer.html)
 - [Endianness, API Design, and Polymorphism in Rust (2021)](https://www.thecodedmessage.com/posts/endian_polymorphism/) ([HN](https://news.ycombinator.com/item?id=29359828))
+- [Rust Machine Learning Book](https://rust-ml.github.io/book/) ([Code](https://github.com/rust-ml/book))
+- [The Rust Build System (2021)](https://blog.ysndr.de/posts/essays/2021-04-30-the-rust-build-system/)

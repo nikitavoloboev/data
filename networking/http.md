@@ -172,3 +172,4 @@
 - [T-Reqs HTTP Fuzzer](https://github.com/bahruzjabiyev/t-reqs-http-fuzzer) - Grammar-based HTTP Fuzzer.
 - [Updog](https://github.com/sc0tfree/updog) - Replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use HTTP basic auth.
 - [Armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server.
+- [Statically Prevent 404s - Gary Bernhardt (2021)](https://www.youtube.com/watch?v=KRMJIiGE0ds) ([Tweet](https://twitter.com/garybernhardt/status/1466104868498817032))

@@ -118,6 +118,7 @@
 - [Algebraic Multigrid](https://github.com/JuliaLinearAlgebra/AlgebraicMultigrid.jl) - Lets you solve sparse linear systems using Algebraic Multigrid (AMG).
 - [MetaGraphs](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
 - [CliffordAlgebras.jl](https://github.com/ATell-SoundTheory/CliffordAlgebras.jl) - Fast and lightweight Julia package for Clifford and geometric algebras.
+- [Oscar.jl](https://github.com/oscar-system/Oscar.jl) - Computer algebra system which combines the capabilities of four cornerstone systems: GAP, Polymake, Antic and Singular.
 
 ## NLP
 
@@ -137,6 +138,11 @@
 ## Computer Vision
 
 - [Flux3D.jl](https://github.com/nirmal-suthar/Flux3D.jl) - 3D computer vision library in Julia.
+
+## Graphics
+
+- [FreeTypeAbstraction](https://github.com/JuliaGraphics/FreeTypeAbstraction.jl) - Draw text into a Matrix.
+- [Animations](https://github.com/jkrumbiegel/Animations.jl) - Animations, easings and interpolations for animated visualizations.
 
 ## CLI
 
@@ -164,6 +170,11 @@
 
 - [ErrorTypes](https://github.com/jakobnissen/ErrorTypes.jl) - Rust-like error types in Julia.
 - [InteractiveErrors.jl](https://github.com/MichaelHatherly/InteractiveErrors.jl) - Interactive error messages for the Julia REPL.
+
+## LaTeX
+
+- [LaTeXStrings](https://github.com/stevengj/LaTeXStrings.jl) - Make it easier to type LaTeX equations in string literals in the Julia language.
+- [MathTeXEngine](https://github.com/Kolaru/MathTeXEngine.jl) - Latex math mode engine in pure Julia.
 
 ## Other
 
@@ -349,6 +360,9 @@
 - [Dictionaries](https://github.com/andyferris/Dictionaries.jl) - Alternative interface for dictionaries in Julia, for improved productivity and performance.
 - [PrettyPrinting.jl](https://github.com/MechanicalRabbit/PrettyPrinting.jl) - Julia library for optimal formatting of composite data structures.
 - [Cpp.jl](https://github.com/timholy/Cpp.jl) - Utilities for calling C++ from Julia.
+- [DataFrameMacros.jl](https://github.com/jkrumbiegel/DataFrameMacros.jl) - Macros for DataFrame manipulation with a syntax geared towards clarity, brevity and convenience.
+- [Chain](https://github.com/jkrumbiegel/Chain.jl) - Piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
+- [RegionTrees.jl](https://github.com/rdeits/RegionTrees.jl) - Quadtrees, Octrees, and their N-Dimensional Cousins.
 
 ## Links
 
@@ -367,3 +381,4 @@
 - [The Algorithms - Julia](https://github.com/TheAlgorithms/Julia) - Algorithms implemented in the Julia programming language.
 - [JuliaSymbolics](https://juliasymbolics.org/) - Symbolic programming in Julia.
 - [LocalPackageServer](https://github.com/GunnarFarneback/LocalPackageServer.jl) - Julia storage and package server for local packages.
+- [Pkg](https://github.com/JuliaLang/Pkg.jl) - Package manager for the Julia programming language. ([Docs](https://pkgdocs.julialang.org/))

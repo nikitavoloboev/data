@@ -148,3 +148,6 @@
 - [deno_notify](https://github.com/Pandawan/deno_notify) - Send desktop notifications on all platforms in Deno.
 - [deno_mysql](https://github.com/denodrivers/mysql) - MySQL driver for Deno.
 - [feign](https://github.com/sno2/feign) - Parser combinator module for Deno with compile-time type parsing support.
+- [Web Streams at the Edge (2021)](https://deno.com/blog/deploy-streams) ([HN](https://news.ycombinator.com/item?id=29391784))
+- [Deno SDL2](https://github.com/littledivy/deno_sdl2) - Cross platform bindings to SDL2.
+- [caviar](https://github.com/load1n9/caviar) - Game engine built on top of deno_sdl2.

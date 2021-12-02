@@ -95,3 +95,5 @@
 - [datawizard](https://github.com/easystats/datawizard) - Lightweight package to easily manipulate, clean, transform, and prepare your data for analysis.
 - [glue](https://github.com/tidyverse/glue) - Glue strings to data in R. Small, fast, dependency free interpreted string literals.
 - [Hole punch](https://github.com/karthik/holepunch) - Make your R project Binder ready.
+- [Simple Features for R](https://github.com/r-spatial/sf)
+- [metafor](https://github.com/wviechtb/metafor) - Meta-analysis package for R.

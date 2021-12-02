@@ -62,3 +62,4 @@
 - [Rosalind Franklin's X-ray photo of DNA as an undergraduate optical diffraction experiment (2013)](https://aapt.scitation.org/doi/full/10.1119/1.5020051) ([Tweet](https://twitter.com/markwbudde/status/1448859316178481157))
 - [Is DNA append only?](https://twitter.com/nikitavoloboev/status/1462579862728761344)
 - [MetaGraph](https://github.com/ratschlab/metagraph) - Tool for scalable construction of annotated genome graphs and sequence-to-graph alignment.
+- [SNAP (Scalable Nucleotide Alignment Program)](https://github.com/amplab/snap)

@@ -75,6 +75,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Video Downloader](https://github.com/Borodutch/VideoDownloadBot) - Telegram bot to download videos from URLs.
 - [ArbeitBot](https://github.com/ArbeitBot/ArbeitBot) - Free open-source Telegram freelance market.
 - [Shieldy](https://t.me/shieldy_bot) - Best solution in Telegram to fight annoying spammers. ([Code](https://github.com/1inch/shieldy))
+- [Telegram Advent Calendar](https://github.com/KrauseFx/telegram-advent-calendar)
 
 ## Notes
 

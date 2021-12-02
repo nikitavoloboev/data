@@ -52,7 +52,7 @@ All active variables can be seen by running `env`.
 - [Nsh](https://github.com/nuta/nsh) - Fish/bash-like Posix shell in Rust. ([HN](https://news.ycombinator.com/item?id=28967257))
 - [Three Comics For Understanding Unix Shell (2020)](http://www.oilshell.org/blog/2020/04/comics.html)
 - [Oil Shell](http://www.oilshell.org/) - New Unix shell. ([Blog](http://www.oilshell.org/blog/)) ([Idioms](http://www.oilshell.org/preview/doc/idioms.html))
-- [asciinema](https://asciinema.org/) - Web player for terminal session recordings. ([Code](https://github.com/asciinema/asciinema-player))
+- [asciinema](https://asciinema.org/) - Web player for terminal session recordings. ([Code](https://github.com/asciinema/asciinema-player)) ([4x smaller, 50x faster](https://blog.asciinema.org/post/smaller-faster/)) ([HN](https://news.ycombinator.com/item?id=29387761))
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS.
 - [Customizing your shell (2020)](https://blog.balthazar-rouberol.com/customizing-your-shell.html) ([HN](https://news.ycombinator.com/item?id=22898577))
 - [tmate](https://tmate.io/) - Instant terminal sharing. ([Code](https://github.com/tmate-io/tmate))

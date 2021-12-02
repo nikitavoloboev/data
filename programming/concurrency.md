@@ -33,3 +33,4 @@ Concurrency is the composition of independently executing computations.
 - [Advanced Topics in Concurrency Course (2020)](https://github.com/anthezium/CS510-Advanced-Topics-in-Concurrency)
 - [Syndicated Actors for Conversational Concurrency](https://syndicate-lang.org/) ([Lobsters](https://lobste.rs/s/bghtup/syndicated_actors_for_conversational))
 - [Concepts of Concurrency (1997)](http://www.cs.nott.ac.uk/~pszgmh/con.pdf)
+- [On parallelism and concurrency (2021)](https://inside.java/2021/11/30/on-parallelism-and-concurrency/)

@@ -353,3 +353,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Everything you ever wanted to know about UDP sockets but were afraid to ask (2021)](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 - [Apache Traffic Control](https://trafficcontrol.apache.org/) - Build a large scale content delivery network using open source. ([Code](https://github.com/apache/trafficcontrol))
 - [The internet is held together with spit and baling wire (2021)](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/) ([HN](https://news.ycombinator.com/item?id=29353076))
+- [How The Internet Travels Across Oceans (2021)](https://www.youtube.com/watch?v=yd1JhZzoS6A)
+- [sockdump](https://github.com/mechpen/sockdump) - Dump unix domain socket traffic with bpf.

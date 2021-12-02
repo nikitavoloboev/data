@@ -122,3 +122,5 @@
 - [SQLite.jl](https://github.com/JuliaDatabases/SQLite.jl) - Julia interface to the SQLite library.
 - [SQLite Release 3.37.0 (2021)](https://www.sqlite.org/releaselog/3_37_0.html) ([HN](https://news.ycombinator.com/item?id=29363054))
 - [SQLite Viewer](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer) - SQLite Viewer for VSCode. ([Code](https://github.com/qwtel/sqlite-viewer-vscode))
+- [SQLite in a PWA (Anita) with FileSystemAccessAPI (2021)](https://anita-app.com/blog/articles/sqlite-in-a-pwa-with-file-system-access-api.html) ([HN](https://news.ycombinator.com/item?id=29403661))
+- [Production Applications Using SQLite & Go (2021)](https://github.com/benbjohnson/production-sqlite-go)

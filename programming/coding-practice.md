@@ -77,6 +77,10 @@
 - [aoc](https://github.com/jakzo/aoc) - CLI for reading, running and submitting Advent of Code challenges.
 - [Peter Norvig's Pytudes: Advent of Code 2020](https://lobste.rs/s/aryngm/peter_norvig_s_pytudes_advent_code_2020) ([HN](https://news.ycombinator.com/item?id=25654955))
 - [Advent of Code walkthroughs by Marco Bonelli](https://github.com/mebeim/aoc)
+- [Advent Of Code Zig TemplaHaskell Advent of Code 2021te](https://github.com/SpexGuy/Zig-AoC-Template)
+- [Advent of Code 2021 OCaml](https://github.com/p1xelHer0/advent-of-code-2021-ocaml)
+- [Haskell Advent of Code 2021](https://github.com/siraben/haoc-2021)
+- [Swift Advent of Code 2021](https://github.com/eliperkins/aoc-2021)
 
 ## Exercism exercise solutions
 
@@ -96,3 +100,4 @@
 - [Leetcode company problems](https://github.com/xizhengszhang/Leetcode_company_frequency)
 - [practice.dev](https://practice.dev/) - Practice programming. ([Code](https://github.com/practice-dev/practice-dev))
 - [Ace your leetcode preparations (2021)](https://sadh.life/post/leetcode-prep/)
+- [Advent of Code 2021](https://adventofcode.com/2021) ([HN](https://news.ycombinator.com/item?id=29292818)) ([Lobsters](https://lobste.rs/s/qx2azv/advent_code_2021)) ([HN](https://news.ycombinator.com/item?id=29403522))

@@ -408,3 +408,4 @@ all: unset
 - [Responsive Layouts, Fewer Media Queries (2021)](https://css-tricks.com/responsive-layouts-fewer-media-queries/)
 - [Popular third-party library everyone's heard of that you style by overriding their CSS/targeting their classes](https://twitter.com/adamwathan/status/1464802517074726917)
 - [Improving performance with Islands Architecture and PostCSS (2021)](https://blog.oliverturner.cloud/posts/mqs-in-js/) ([Tweet](https://twitter.com/oliverturner/status/1465332351509094407))
+- [Open Props](https://open-props.style/) - CSS custom properties to help accelerate adaptive and consistent design. ([Code](https://github.com/argyleink/open-props)) ([Tweet](https://twitter.com/argyleink/status/1466086683577700352))

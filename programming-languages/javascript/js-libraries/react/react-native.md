@@ -153,3 +153,5 @@
 - [react-native-ridge-navigation](https://github.com/web-ridge/react-native-ridge-navigation) - Simple, performant & type-safe cross platform navigation in React Native / React Native Web.
 - [React Native Module Template](https://github.com/demchenkoalex/react-native-module-template) - Starter for the React Native library written in TypeScript, with linked example project and optional native code in Swift and Kotlin.
 - [React Native Keyboard Accessory View](https://github.com/flyerhq/react-native-keyboard-accessory-view) - Keyboard accessory (sticky) view for your React Native app. Supports interactive dismiss on iOS.
+- [React Native WebView](https://github.com/react-native-webview/react-native-webview) - Modern, Cross-Platform WebView for React Native.
+- [React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler) - Native-driven gesture management APIs for building best possible touch-based experiences in React Native. ([Docs](https://docs.swmansion.com/react-native-gesture-handler/)) ([2.0 release](https://blog.swmansion.com/introducing-gesture-handler-2-0-50515f1c4afc))

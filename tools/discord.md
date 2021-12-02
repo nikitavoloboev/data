@@ -91,3 +91,4 @@
 - [Why Discord walked back on integrating Crypto wallet (2021)](https://twitter.com/amytongwu/status/1459384682676736006)
 - [Rovel Discord List](https://discord.rovelstars.com/) - Ultimate Discord List for Emojis, Users, Servers & Bots. ([Code](https://github.com/rovelstars/discord-list))
 - [python-discord-webhook](https://github.com/lovvskillz/python-discord-webhook) - Execute discord webhooks.
+- [Awesome Discord](https://github.com/jacc/awesome-discord)

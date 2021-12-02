@@ -43,6 +43,7 @@
 - [Creator’s dream setup](https://twitter.com/MengTo/status/1453121908204003335)
 - [Nice setup with pad for keyboard](https://twitter.com/lukeredpath/status/1453723374862045186)
 - [Apple Event lounge](https://twitter.com/jamesjgill/status/1450146286833913860)
+- [Hakim's dual screen setup](https://twitter.com/hakimel/status/1466016817730633734)
 
 ## Links
 

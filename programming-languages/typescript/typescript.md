@@ -203,6 +203,7 @@
 - [tsplay.dev](https://tsplay-dev.vercel.app/) - TypeScript Playground Shortener. ([Code](https://github.com/gillchristian/tsplay.dev))
 - [TypeScript's excess properties can bite you (2021)](https://www.executeprogram.com/blog/typescripts-excess-properties-can-bite-you)
 - [TS Patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality.
+- [ts-standardx](https://github.com/exuanbo/ts-standardx) - Configurable linter for TypeScript and JavaScript.
 
 ## Images
 

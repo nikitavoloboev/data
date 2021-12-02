@@ -192,3 +192,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Pacifist](https://www.charlessoft.com/) - Powerful multi-tool for working with macOS package files, disk images, and file archives.
 - [macOS Monterey's new network quality tool is surprisingly good (2021)](https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html)
 - [IconSur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator.
+- [Swift Bundler](https://github.com/stackotter/swift-bundler) - Create macOS apps with Swift packages instead of Xcode projects.

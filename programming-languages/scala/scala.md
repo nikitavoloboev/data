@@ -90,7 +90,7 @@
 - [Scala 3 for Scala 2 Developers Workshop](https://github.com/jdegoes/scala3-for-scala2-developers)
 - [Functional Data Modeling Workshop](https://github.com/jdegoes/functional-data-modeling)
 - [Books - Underscore](https://underscore.io/books/)
-- [Creative Scala Book (2020)](https://www.creativescala.org/creative-scala.html)
+- [Creative Scala Book (2020)](https://www.creativescala.org/creative-scala.html) ([Code](https://github.com/creativescala/creative-scala))
 - [Scala3 typeclassery with graphs (2021)](https://fabianmurariu.github.io/posts/scala3-typeclassery-graphs/)
 - [Guillaume Martres: An Interactive Compiler (2021)](https://open.spotify.com/episode/0qgBKpc78aBMldBdANoqnR)
 - [Testcontainers-scala](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in scala.
@@ -114,3 +114,6 @@
 - [What's the name of that operator/symbol/syntax/thing, for Scala](https://github.com/andyscott/scala-whats-that-called)
 - [Debugging and Observing Your Scala Code - Will Sargent (2021)](https://www.youtube.com/watch?v=wPpyWz2zEmM)
 - [Shapeless 3 and type class derivation in Scala 3 - Miles Sabin (2021)](https://www.youtube.com/watch?v=CFyypCbLRAo)
+- [Scala with Cats](https://www.scalawithcats.com/) - Teaches core functional abstractions of monoids, functors, monads, and applicative functors using the Cats library and a number of case studies. ([Code](https://github.com/scalawithcats/scala-with-cats))
+- [Essential Scala Book](https://underscore.io/books/essential-scala/) ([Code](https://github.com/underscoreio/essential-scala))
+- [Coursier and scala-cli - Changing the Way You Start Scala (2021)](https://www.tooling-talks.com/episode-7)

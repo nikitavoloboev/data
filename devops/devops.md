@@ -122,3 +122,5 @@
 - [Dev Lake](https://github.com/merico-dev/lake) - Brings all your DevOps data into one practical, personalized, extensible view. Ingest, analyze, and visualize data.
 - [Fastly Resource Provider](https://github.com/pulumi/pulumi-fastly)
 - [OOPS (Learning from the incident you didn't have) writeup template (2021)](https://surfingcomplexity.blog/2021/11/21/oops-writeups/)
+- [Awesome DevOps](https://github.com/wmariuss/awesome-devops)
+- [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps)

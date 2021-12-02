@@ -142,3 +142,4 @@
 - [A Beginner's Guide to Social Media Verification (2021)](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)
 - [The benefits of staying off social media (2021)](https://durmonski.com/life-advice/benefits-of-staying-off-social-media/) ([HN](https://news.ycombinator.com/item?id=29149961))
 - [Racket](https://racket.com/) - Audio twitter. ([Twitter](https://twitter.com/racket100)) ([Tweet](https://twitter.com/racket100/status/1460689432282025985))
+- [Junto](https://junto.foundation/) - Evolution of social media begins with redesigning the fundamentals. ([GitHub](https://github.com/juntofoundation))

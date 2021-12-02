@@ -3,6 +3,7 @@
 ## CLI
 
 - [zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
+- [Zig Argument Parser](https://github.com/MasterQ32/zig-args) - Simple-to-use argument parser with struct-based config.
 
 ## Web
 
@@ -21,6 +22,11 @@
 ## Crypto
 
 - [charm](https://github.com/jedisct1/zig-charm) - Zig version of the Charm crypto library.
+
+## Graphics
+
+- [zgt](https://github.com/zenith391/zgt) - Zig GUI Toolkit.
+- [tvg](https://github.com/MasterQ32/tvg) - Tiny Vector Graphics.
 
 ## Other
 

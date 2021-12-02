@@ -13,7 +13,7 @@
 - [Towards the neural population doctrine](https://www.sciencedirect.com/science/article/abs/pii/S0959438818300990)
 - [The Brain That Changes Itself book](https://www.goodreads.com/book/show/570172.The_Brain_That_Changes_Itself)
 - [Brain Map](https://portal.brain-map.org/) - Accelerating progress toward understanding the brain.
-- [Could a neuroscientist understand a microprocessor? (2017)](http://ericmjonas.github.io/neuroproc/)
+- [Could a neuroscientist understand a microprocessor? (2017)](http://ericmjonas.github.io/neuroproc/) ([Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268)) ([Tweet](https://twitter.com/juliagalef/status/1465818518310383616))
 - [Leonardo Da Vinci and the Brain](http://www.davinciandthebrain.org/)
 - [Fundamentals of Neuroscience course by Harvard](https://www.mcb80x.org/)
 - [Synapses, Neurons and Brains course](https://www.coursera.org/learn/synapses)

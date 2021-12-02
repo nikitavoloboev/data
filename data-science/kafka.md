@@ -74,3 +74,6 @@
 - [Sarama](https://github.com/Shopify/sarama) - Go library for Apache Kafka.
 - [kcctl](https://github.com/kcctl/kcctl) - CLI for Apache Kafka Connect.
 - [Pinterest Secor](https://github.com/pinterest/secor) - Service implementing Kafka log persistence.
+- [Scaling Kafka at Honeycomb (2021)](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/) ([HN](https://news.ycombinator.com/item?id=29396319))
+- [kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka.
+- [Kasper](https://github.com/nmaquet/kasper) - Lightweight library for processing Kafka topics.

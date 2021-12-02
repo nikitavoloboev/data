@@ -90,3 +90,5 @@ There are [better approaches to manage state in React now](https://twitter.com/k
 - [localfirst/state](https://github.com/local-first-web/state) - Automatically replicated Redux store that gives your app offline capabilities and secure peer-to-peer synchronization superpowers.
 - [Is Redux still recommended in 2021?](https://www.reddit.com/r/reactjs/comments/pwfubd/is_redux_still_recommended_in_2021/)
 - [Redux Toolkit Query vs React Query (2021)](https://www.youtube.com/watch?v=LDS1ll93P-s) ([Tweet](https://twitter.com/acemarke/status/1450219978813288448))
+- [use-redux-effect](https://github.com/Qeepsake/use-redux-effect) - Powerful React hook that subscribes to Redux store events.
+- [Should you use Redux still (2021)](https://twitter.com/traversymedia/status/1466034407609974786)

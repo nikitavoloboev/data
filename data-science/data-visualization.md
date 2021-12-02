@@ -120,3 +120,4 @@
 - [Irydium](https://github.com/irydium/irydium) - Interactive documents and data visualizations in markdown. ([Web](https://irydium.dev/))
 - [Data Visualization: attribute types and their graphical elements (2021)](https://robertodip.com/blog/data-visualization-marks-and-channels/)
 - [Mermaid Live Editor](https://mermaid.live/) - Online FlowChart & Diagrams Editor. ([Code](https://github.com/mermaid-js/mermaid-live-editor))
+- [Percival](https://github.com/ekzhang/percival) - Declarative data query and visualization language.

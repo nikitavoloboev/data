@@ -16,6 +16,7 @@
 - [Right click logo to get press kit](https://twitter.com/michaelvillar/status/1445079259362562058)
 - [“Modal” is when user input goes into an alternate mode. It is _not_ an overlay window. Better language for an overlay window: “Dialog box” or “Pop-up window.”](https://twitter.com/rsms/status/1435636310371291137)
 - [Stripe's DX: 1. Docs have lots of examples. 2. Helpful error messages. 3. Testing mode. 4. Local dev experience with the CLI is so good. 5. Great-looking pre-built components.](https://twitter.com/thisismahmoud_/status/1448962093638631425)
+- [Decrease CTAs to only meaningful interactions.](https://twitter.com/joycekettering/status/1465404791987703810)
 
 ## Links
 
@@ -139,3 +140,4 @@
 - [5 Prioritization Methods in UX Roadmapping (2021)](https://www.nngroup.com/articles/prioritization-methods/)
 - [Interfaces: Advanced Easing](https://ericbutton.co/blog/interfaces-advanced-easing) ([HN](https://news.ycombinator.com/item?id=29270942))
 - [Command palettes: how typing commands became the norm again](https://capiche.com/e/consumer-dev-tools-command-palette) ([HN](https://news.ycombinator.com/item?id=29373536))
+- [9 changes took our signup rates from 5% to 16% on the homepage (2021)](https://twitter.com/joycekettering/status/1465404778654023680)

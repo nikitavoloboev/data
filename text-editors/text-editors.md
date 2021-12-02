@@ -154,3 +154,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [What's the Future of IDEs? (2021)](https://giansegato.com/essays/what-future-ides/) ([HN](https://news.ycombinator.com/item?id=29304667))
 - [use-prosemirror](https://github.com/dminkovsky/use-prosemirror) - ProseMirror + React made easy.
 - [JetBrains Fleet](https://www.jetbrains.com/fleet/) - The Next-Generation IDE by JetBrains. ([HN](https://news.ycombinator.com/item?id=29377412))
+- [On the design of text editors (2020)](https://arxiv.org/abs/2008.06030) ([Tweet](https://twitter.com/jackrusher/status/1465600879382437892))

@@ -193,6 +193,7 @@
 - [Frames](https://github.com/acowley/Frames) - Data Frames for Haskell.
 - [fuzzyfind](https://github.com/runarorama/fuzzyfind) - Haskell library for fuzzy text search.
 - [aeson-typescript](https://github.com/codedownio/aeson-typescript) - Generate TypeScript definition files from your ADTs.
+- [MissingH](https://github.com/haskell-hvr/missingh) - Collection of Haskell-related utilities.
 
 ## Notes
 

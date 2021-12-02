@@ -46,3 +46,4 @@
 - [Slack Block Builder](https://github.com/raycharius/slack-block-builder) - Lightweight, zero-dependency library for declaratively building Slack Block Kit UI. ([Web](https://www.blockbuilder.dev/#/))
 - [Slack Block Builder Demo](https://github.com/raycharius/slack-block-builder-demo)
 - [Awesome Slack](https://github.com/matiassingers/awesome-slack)
+- [Blockkit](https://github.com/imryche/blockkit) - Python library for building UI interfaces for Slack apps.

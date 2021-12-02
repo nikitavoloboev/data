@@ -55,3 +55,5 @@
 - [Improving a Machine Learning System Is Hard (2021)](https://danshiebler.com/2021-11-06-ml-systems-1/)
 - [Removal-based explanations](https://github.com/iancovert/removal-explanations) - Lightweight implementation of removal-based explanations for ML models.
 - [Gordo](https://github.com/equinor/gordo) - Building thousands of models with timeseries data to monitor systems.
+- [Mosec](https://github.com/mosecorg/mosec) - Model Serving made Efficient in the Cloud.
+- [MLNotify](https://github.com/aporia-ai/mlnotify) - Add just 1 import line and MLNotify will let you know the second it's done.

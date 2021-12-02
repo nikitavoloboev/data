@@ -35,7 +35,7 @@
 - [photon](https://github.com/silvia-odwyer/photon) - Rust/WebAssembly image processing library.
 - [imageproc](https://github.com/image-rs/imageproc) - Image processing operations as rust library.
 - [Thumbor](https://github.com/thumbor/thumbor) - Open-source smart on-demand image cropping, resizing and filters.
-- [ImageMagick](https://imagemagick.org/index.php) - Convert, Edit, or Compose Bitmap Images. ([WASM implementation](https://github.com/dlemstra/Magick.WASM)) ([Deno port](https://github.com/leonelv/deno-imagemagick)) ([Code](https://github.com/ImageMagick/ImageMagick))
+- [ImageMagick](https://imagemagick.org/index.php) - Convert, Edit, or Compose Bitmap Images. ([WASM implementation](https://github.com/dlemstra/Magick.WASM)) ([Deno port](https://github.com/leonelv/deno-imagemagick)) ([Code](https://github.com/ImageMagick/ImageMagick)) ([HN](https://news.ycombinator.com/item?id=29408341))
 - [Leptonica](https://github.com/DanBloomberg/leptonica) - Open source library containing software that is broadly useful for image processing and image analysis applications. ([Web](http://leptonica.org/))
 - [libspng](https://github.com/randy408/libspng) - C library for reading and writing Portable Network Graphics (PNG) format files with a focus on security and ease of use.
 - [Visualizing and Understanding JPEG Format](https://github.com/corkami/formats/blob/master/image/jpeg.md) ([HN](https://news.ycombinator.com/item?id=23787674))

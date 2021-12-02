@@ -95,6 +95,7 @@
 - [httpx](https://github.com/riyaz-ali/httpx) - Simple and expressive HTTP testing framework.
 - [httpmock](https://github.com/nhatthm/httpmock) - Mock library implementing httptest.Server to support HTTP behavioral tests.
 - [clock](https://github.com/benbjohnson/clock) - Small library for mocking time in Go.
+- [gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - Go test output for humans.
 
 ## Web
 
@@ -224,6 +225,7 @@
 - [IndieAuth Helpers](https://github.com/hacdias/indieauth)
 - [R2](https://github.com/aofei/r2) - Minimalist HTTP request routing helper for Go.
 - [qtalk-go](https://github.com/progrium/qtalk-go) - Versatile RPC and IO stream based IPC stack for Go.
+- [hedgedhttp](https://github.com/cristalhq/hedgedhttp) - Hedged HTTP client which helps to reduce tail latency at scale.
 
 ## GraphQL
 
@@ -251,7 +253,9 @@
 - [BuntDB](https://github.com/tidwall/buntdb) - Embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
 - [reform](https://github.com/go-reform/reform) - Better ORM for Go and database/sql.
 - [db](https://github.com/upper/db) - Productive data access layer for Go.
-- [Gorm](https://github.com/go-gorm/gorm) - Fantastic ORM library for Golang, aims to be developer friendly. ([Web](https://gorm.io/))
+- [GORM](https://github.com/go-gorm/gorm) - Fantastic ORM library for Golang, aims to be developer friendly.. ([Web](https://gorm.io/))
+- [DBResolver](https://github.com/go-gorm/dbresolver) - Multiple databases, read-write splitting FOR GORM.
+- [GORM/GEN](https://github.com/go-gorm/gen) - Safer ORM base on GORM.
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance.
 - [zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine for Go built on Redis.
 - [bolter](https://github.com/hasit/bolter) - View BoltDB file in your terminal.
@@ -1130,6 +1134,9 @@
 - [hcloud](https://github.com/hetznercloud/hcloud-go) - Go library for the Hetzner Cloud API.
 - [dProxy](https://github.com/koron/go-dproxy) - Proxy to access interface{} (document) by simple query.
 - [Gommon](https://github.com/labstack/gommon) - Common packages for Go.
+- [Jin](https://github.com/ecoshub/jin) - Fastest JSON interperter for Go.
+- [clockwork](https://github.com/jonboulle/clockwork) - Simple fake clock for Go.
+- [go-heaps](https://github.com/theodesp/go-heaps) - Reference implementations of heap data structures in Go.
 
 ## Links
 

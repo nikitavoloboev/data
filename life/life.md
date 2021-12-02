@@ -88,3 +88,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [If money was no object, what would you do with your life?](https://twitter.com/rrhoover/status/1463487875341856771)
 - [Ask HN: What is something important I should start doing in my 20s? (2021)](https://news.ycombinator.com/item?id=29347579)
 - [You can't win](https://twitter.com/maccaw/status/1464264533623676928)
+- [Physical Models of Living Systems | Philip Nelson Book (2014)](https://www.physics.upenn.edu/biophys/PMLS/) ([Tweet](https://twitter.com/redblobgames/status/1466191200315080710))

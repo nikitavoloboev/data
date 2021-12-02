@@ -64,3 +64,4 @@
 - [pypely](https://github.com/stoney95/pypely) - Make your data processing easy - build pipelines in a functional manner.
 - [An opinionated map of incremental and streaming systems (2021)](https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems/)
 - [Crossjoin](https://github.com/crossjoin-io/crossjoin) - Joins together your data from anywhere.
+- [Ceramic Network](https://ceramic.network/) - Decentralized, open source platform for creating, hosting, and sharing streams of data. ([TS Code](https://github.com/ceramicnetwork/js-ceramic)) ([GitHub](https://github.com/ceramicnetwork))

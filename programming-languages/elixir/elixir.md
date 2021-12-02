@@ -135,3 +135,4 @@
 - [Dynamic function “definitions” in Elixir (2020)](https://b.amy.gg/dynamic-function-definitions-in-elixir)
 - [Writing a Genetic Algorithm in Nx (2021)](https://medium.com/pragmatic-programmers/writing-a-genetic-algorithm-in-nx-3ddc7cf62fc9)
 - [Elixir grammar for tree-sitter](https://github.com/elixir-lang/tree-sitter-elixir)
+- [Elixir как второй язык](https://ru.code-basics.com/languages/elixir)

@@ -209,3 +209,4 @@ useEffect(() => {
 - [How to Handle Async Actions for Global State With React Hooks and Context (2019)](https://blog.axlight.com/posts/how-to-handle-async-actions-for-global-state-with-react-hooks-and-context/)
 - [How React Uses Closures to Avoid Bugs](https://epicreact.dev/how-react-uses-closures-to-avoid-bugs/)
 - [Recoil Design Tool](https://github.com/jacques-blom/recoil-design-tool) - Simple example design tool, built using Recoil and React Suspense.
+- [Make useRef lazy — 4 ways (2021)](https://thoughtspile.github.io/2021/11/30/lazy-useref/) ([Reddit](https://www.reddit.com/r/reactjs/comments/r5luer/make_useref_lazy_4_ways/))

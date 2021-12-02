@@ -386,3 +386,4 @@ if (
 - [dum](https://github.com/egoist/dum) - npm scripts runner written in Rust.
 - [Esprima-python](https://github.com/Kronuz/esprima-python) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [Software Tools in JavaScript by Greg Wilson Book (2021)](https://leanpub.com/stjs/)
+- [ReevaJS](https://github.com/ReevaJS/reeva) - JavaScript engine written from scratch using Kotlin.

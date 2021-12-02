@@ -256,3 +256,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Marketplace - Serverless integration for SaaS products (Example)](https://github.com/aws-samples/aws-marketplace-serverless-saas-integration)
 - [Getting Started with Amazon Web Services](https://aws.amazon.com/getting-started/)
 - [AWS Samples GitHub](https://github.com/aws-samples)
+- [AWS SDK for iOS](https://github.com/aws-amplify/aws-sdk-ios)

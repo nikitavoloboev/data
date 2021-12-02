@@ -42,6 +42,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Бардаш. Драки с женой и ее измена, отношения с Лободой, Кузьма, Дудь, Баста. В гостях у Гордона (2021)](https://www.youtube.com/watch?v=eZMGNk4tt6M)
 - [Elon Musk Interview (2013)](https://www.youtube.com/watch?v=jMkwsSAIAfY)
 - [Keanu Reeves interview 2021 - Keanu Reeves on Matrix Resurrection, John Wick, His Personal Life](https://www.esquire.com/entertainment/movies/a38241136/keanu-reeves-interview-2021/)
+- [Kevin Systrom: Instagram (2021)](https://overcast.fm/+eZyDZHzsI)
 
 ## Interesting bios
 
@@ -90,3 +91,4 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Sakharov Prize - Wikipedia](https://en.wikipedia.org/wiki/Sakharov_Prize)
 - [Individuals Matter](https://danluu.com/people-matter/) ([HN](https://news.ycombinator.com/item?id=29235257))
 - [The genius of John von Neumann (2021)](https://unherd.com/2021/11/the-genius-of-john-von-neumann/) ([HN](https://news.ycombinator.com/item?id=29246182))
+- [The Bloomberg 50: The People Who Changed Global Business in 2021](https://www.bloomberg.com/features/2021-bloomberg-50/)

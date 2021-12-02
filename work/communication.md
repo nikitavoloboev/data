@@ -156,3 +156,4 @@
 - [How to work better async through using Loom (2021)](https://twitter.com/Jobvo/status/1456276277501906962)
 - [Rocket.Chat](https://rocket.chat/) - Communication platform. ([Docs](https://docs.rocket.chat/)) ([Docs Code](https://github.com/RocketChat/docs))
 - [Don't soften feedback](https://larahogan.me/blog/dont-soften-feedback/) ([HN](https://news.ycombinator.com/item?id=29297911))
+- [Who gives the best feedback? (2021)](https://johnsillings.com/2021/11/27/high-quality-feedback.html) ([HN](https://news.ycombinator.com/item?id=29364577))

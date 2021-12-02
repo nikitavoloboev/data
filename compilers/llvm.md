@@ -94,3 +94,4 @@
 - [manyclangs](https://github.com/elfshaker/manyclangs) - Project enabling you to run any commit of clang within a few seconds, without having to build it.
 - [LLVM relicensing update and call for help (2021)](https://blog.llvm.org/posts/2021-11-18-relicensing-update/) ([HN](https://news.ycombinator.com/item?id=29292516)) ([Lobsters](https://lobste.rs/s/uxuudg/llvm_relicensing_update_call_for_help))
 - [Remill](https://github.com/lifting-bits/remill) - Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode.
+- [mollusc](https://github.com/woodruffw/mollusc) - Pure-Rust libraries for parsing, interpreting, and analyzing LLVM.

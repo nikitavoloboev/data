@@ -30,3 +30,6 @@
 - [Remix Validated Form](https://github.com/airjp73/remix-validated-form) - Form library built for remix to make validation easy.
 - [Remix Starter Kit](https://github.com/one-aalam/remix-starter-kit) - Remix + Supabase starter for Typescript lovers.
 - [Remix + Render starter kit](https://github.com/sjones6/remix-render-starter)
+- [Remix Fastify](https://github.com/mcansh/remix-fastify) - Fastify server request handler for Remix.
+- [Remix | Data Loading](https://remix.run/docs/en/v1/guides/data-loading) ([Tweet](https://twitter.com/remix_run/status/1466029318081953798))
+- [mixtarter-chakra](https://github.com/sozonome/mixtarter-chakra) - Remix starter template with chakra-ui and typescript setup.

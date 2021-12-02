@@ -261,4 +261,6 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Closure vs. derivation in the Nix package manager (2018)](https://medium.com/scientific-breakthrough-of-the-afternoon/closure-vs-derivation-in-the-nix-package-manager-ec0eccc53407)
 - [mk-darwin-system](https://github.com/vic/mk-darwin-system) - Small Nix utility to create an M1 aarch64-darwin (nixFlakes + nix-darwin + home-manager) system.
 - [Nix language for JavaScript developers](https://github.com/rofrol/nix-for-javascript-developers)
-- [Will Nix Overtake Docker (2021)](https://blog.replit.com/nix-vs-docker) ([HN](https://news.ycombinator.com/item?id=29387137))
+- [Will Nix Overtake Docker (2021)](https://blog.replit.com/nix-vs-docker) ([HN](https://news.ycombinator.com/item?id=29387137)) ([Lobsters](https://lobste.rs/s/65xymz/will_nix_overtake_docker))
+- [One too many shell (2021)](https://blog.ysndr.de/posts/guides/2021-12-01-nix-shells/)
+- [Building a reproducible blog with Nix (2020)](https://blog.ysndr.de/posts/internals/2020-04-10-built-with-nix/)

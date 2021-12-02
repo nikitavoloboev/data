@@ -88,3 +88,4 @@
 - [Diskplorer](https://github.com/scylladb/diskplorer) - Disk latency/bandwidth grapher.
 - [ZboxFS](https://github.com/zboxfs/zbox) - Zero-details, privacy-focused in-app file system. ([Web](https://zbox.io/fs/))
 - [The fastest way to copy a file? (2021)](https://alexsaveau.dev/blog/performance/files/kernel/the-fastest-way-to-copy-a-file) ([HN](https://news.ycombinator.com/item?id=29358499))
+- [BetrFS](https://www.betrfs.org/) - File system that uses Bε trees. ([HN](https://news.ycombinator.com/item?id=29403320)) ([Code](https://github.com/oscarlab/betrfs))

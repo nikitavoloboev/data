@@ -32,6 +32,7 @@
 - [HugSQL](https://github.com/layerware/hugsql) - Clojure library for embracing SQL. ([Docs](https://www.hugsql.org/))
 - [Pathom](https://github.com/wilkerlucio/pathom) - Clojure(script) engine for processing EQL requests.
 - [porsas](https://github.com/metosin/porsas) - Experimental stuff for going fast with Clojure + JDBC & Async SQL.
+- [EQL](https://github.com/edn-query-language/eql) - Declarative way to make hierarchical (and possibly nested) selections of information about data requirements.
 
 ## ML
 
@@ -48,6 +49,7 @@
 - [Mockery](https://github.com/igrishaev/mockery) - Clojure mocking library.
 - [humane-test-output](https://github.com/pjstadig/humane-test-output) - Humane test output for clojure.test.
 - [spec-tools](https://github.com/metosin/spec-tools) - Clojure(Script) tools for clojure.spec.
+- [test-runner](https://github.com/cognitect-labs/test-runner) - Small library for discovering and running tests in projects using native Clojure deps.
 
 ## Other
 
@@ -125,6 +127,7 @@
 - [pronto](https://github.com/AppsFlyer/pronto) - Clojure support for protocol buffers.
 - [encore](https://github.com/ptaoussanis/encore) - Core utils library for Clojure/Script.
 - [sweet-array](https://github.com/athos/sweet-array) - Array manipulation library for Clojure with "sweet" array type notation and more safety by static types.
+- [process](https://github.com/babashka/process) - Clojure wrapper for java.lang.ProcessBuilder.
 
 ## Links
 
@@ -134,3 +137,4 @@
 - [Antq](https://github.com/liquidz/antq) - Point out your outdated dependencies.
 - [SciCloj](https://scicloj.github.io/) - Community of people creating high-quality open source solutions for data science in Clojure. ([GitHub](https://github.com/scicloj))
 - [deps-modules](https://github.com/exoscale/deps-modules) - Clojure "tool" that attempts to solve one of the "multi module" project problems with tools.deps in a minimalistic way.
+- [deps-new](https://github.com/seancorfield/deps-new) - New, simpler alternative to clj-new.

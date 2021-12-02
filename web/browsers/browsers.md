@@ -159,3 +159,4 @@
 - [PrivacyTests.org](https://privacytests.org/) - Open-source tests of web browser privacy. ([Code](https://github.com/arthuredelstein/privacytests.org))
 - [Stringmark](https://www.stringmark.com/) - Chrome extension that makes online research easier. ([HN](https://news.ycombinator.com/item?id=29199004))
 - [Ask HN: What browser extensions are a must-have in 2021?](https://news.ycombinator.com/item?id=29314560)
+- [Neko](https://github.com/m1k1o/neko) - Self hosted virtual browser that runs in docker and uses WebRTC. ([HN](https://news.ycombinator.com/item?id=29406112))

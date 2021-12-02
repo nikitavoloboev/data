@@ -9,6 +9,7 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 ## Notes
 
 - [Some film critics to follow](https://www.reddit.com/r/flicks/comments/7lgwp1/having_a_hard_time_finding_quality_critics_on/)
+- [It's good to sort reviews by recent as you can find fresh perspectives/accounts this way.](https://www.reddit.com/r/Letterboxd/comments/r6914v/something_ive_been_doing_on_letterboxd_that_i/)
 
 ## Links
 

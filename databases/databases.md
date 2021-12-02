@@ -483,3 +483,4 @@
 - [Things I learned from building a production database (2021)](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html) ([HN](https://news.ycombinator.com/item?id=29322515))
 - [LSM-Tree Key-Value Store based on RocksDB](https://github.com/adambcomer/database-engine)
 - [Build a Simple Database Tutorial](https://adambcomer.com/blog/simple-database/)
+- [Database Development Reddit](https://www.reddit.com/r/databasedevelopment/)

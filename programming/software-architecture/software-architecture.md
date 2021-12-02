@@ -175,3 +175,5 @@
 - [Processing billions of events in real time (2021)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-) ([HN](https://news.ycombinator.com/item?id=29233463))
 - [Simlin](https://simlin.com/) - System dynamics modeling tool. ([Code](https://github.com/bpowers/simlin))
 - [Living with single-tenant and multi-tenant architectures (2021)](https://medium.com/schibsted-engineering/living-with-single-tenant-and-multi-tenant-architectures-b2d7027db24e)
+- [Event Sourcing Is Hard (2019)](https://chriskiehl.com/article/event-sourcing-is-hard) ([HN](https://news.ycombinator.com/item?id=29390483))
+- [Cache warming at Netflix: Leveraging EBS for moving petabytes of data (2021)](https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3) ([HN](https://news.ycombinator.com/item?id=29388588))

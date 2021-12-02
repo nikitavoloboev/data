@@ -394,3 +394,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Eth2 Remote Signer](https://github.com/prysmaticlabs/remote-signer) - Remote signer server reference implementation for eth2.
 - [The Senior Solidity Engineer's Book](https://solidity-book.netlify.app/) ([Code](https://github.com/gakonst/solidity-book))
 - [Peggo](https://github.com/celestiaorg/quantum-gravity-bridge) - Celestia -> EVM bridge.
+- [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
+- [Smock](https://github.com/defi-wonderland/smock) - Solidity mocking library.
+- [Interfaces for turbo-geth components](https://github.com/ledgerwatch/interfaces)

@@ -477,7 +477,7 @@
 - [Pay Attention to MLPs (2021)](https://arxiv.org/abs/2105.08050) ([Tweet](https://twitter.com/Hanxiao_6/status/1394742841033641985)) ([Code](https://github.com/lucidrains/g-mlp-pytorch))
 - [E(n) Equivariant Normalizing Flows for Molecule Generation in 3D (2021)](https://arxiv.org/abs/2105.09016) ([Tweet](https://twitter.com/wellingmax/status/1395281027824857088))
 - [Fast and Slow Learning of Recurrent Independent Mechanisms (2021)](https://arxiv.org/abs/2105.08710) ([Tweet](https://twitter.com/anirudhg9119/status/1395889099102380032))
-- [Find Trending Machine Learning Research Papers on Twitter](https://papers.labml.ai/papers/daily)
+- [Weekly Papers](https://papers.labml.ai/papers/weekly) ([Daily](https://papers.labml.ai/papers/daily))
 - [Sharpness-Aware Minimization for Efficiently Improving Generalization (2020)](https://arxiv.org/abs/2010.01412) ([Code](https://github.com/Jannoshh/simple-sam))
 - [Apple - Making Mobile Applications Accessible with Machine Learning (2021)](https://machinelearning.apple.com/research/mobile-applications-accessible)
 - [NYU Deep Learning Spring 2021](https://github.com/Atcold/NYU-DLSP21) ([Videos](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI))
@@ -607,3 +607,6 @@
 - [Combined Scaling for Zero-shot Transfer Learning (2021)](https://arxiv.org/abs/2111.10050)
 - [Awesome Distributed Deep Learning](https://github.com/bharathgs/Awesome-Distributed-Deep-Learning)
 - [Neuro Evolution Of Augmented Topologies (2021)](https://fev.al/posts/neat/) ([HN](https://news.ycombinator.com/item?id=29296158))
+- [machine-config-operator](https://github.com/openshift/machine-config-operator) - Managing updates and configuration changes to essentially everything between the kernel and kubelet.
+- [Factorized Fourier Neural Operators (2021)](https://arxiv.org/abs/2111.13802) ([Code](https://github.com/alasdairtran/fourierflow))
+- [NeurIPS 2021 Best Paper Awards (2021)](https://blog.neurips.cc/2021/11/30/announcing-the-neurips-2021-award-recipients/)

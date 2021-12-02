@@ -74,3 +74,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [RecipeFilter Chrome Extension](https://github.com/sean-public/RecipeFilter) - Focuses recipes front and center on food blogs.
 - [Raveny](https://raveny.netlify.app/search) - Website where people can find recipes and find them based on different criteria. ([Code](https://github.com/tigerabrodi/Raveny))
 - [Rapid Recipe](https://rapidrecipe.reichel.dev/) - Reader mode for recipes. ([HN](https://news.ycombinator.com/item?id=29379415))
+- [100 No-Cook Meal Items For When You Refuse to Adult](https://blackgirllostkeys.com/adhd/100-no-cook-meal-items/)

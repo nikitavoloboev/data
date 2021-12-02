@@ -188,3 +188,4 @@
 - [Staged Abstract Interpreters (2019)](https://www.cs.purdue.edu/homes/rompf/papers/wei-oopsla19.pdf)
 - [target-lexicon](https://github.com/bytecodealliance/target-lexicon) - Library for managing targets for compilers and related tools.
 - [cce](https://github.com/ethanhs/cce) - Compiler Explorer from CLI.
+- [On relational compilation](https://people.csail.mit.edu/cpitcla/thesis/relational-compilation.html) ([Lobsters](https://lobste.rs/s/dj04ud/on_relational_compilation))

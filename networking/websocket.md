@@ -55,3 +55,5 @@
 - [localfirst/relay](https://github.com/local-first-web/relay) - Tiny relay server that bridges two WebSocket connections, allowing the clients to talk directly to each other.
 - [Bidirectional Server-sent Events](https://github.com/WebReflection/bidi-sse)
 - [python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client.
+- [websocket-ts](https://github.com/jjxxs/websocket-ts) - Convenient TypeScript-first client-websocket for browsers.
+- [simple-websocket](https://github.com/feross/simple-websocket) - Simple, EventEmitter API for WebSockets.

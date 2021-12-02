@@ -29,6 +29,8 @@
 - [Kite Autocomplete Extension for JupyterLab](https://github.com/kiteco/jupyterlab-kite)
 - [ipycanvas](https://github.com/martinRenou/ipycanvas) - Interactive Canvas in Jupyter.
 - [JupyterLab Prodigy](https://github.com/explosion/jupyterlab-prodigy) - JupyterLab extension for annotating data with Prodigy.
+- [ipyflex](https://github.com/trungleduc/ipyflex) - WYSIWYG layout editor for Jupyter widgets.
+- [jupyterlab-fonts](https://github.com/deathbeds/jupyterlab-fonts) - Data-driven Style and Typography for JupyterLab powered by JSS.
 
 ## Links
 
@@ -155,3 +157,5 @@
 - [CFD Python](https://github.com/barbagroup/CFDPython) - Sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes".
 - [nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks.
 - [Naas](https://github.com/jupyter-naas/naas) - Open-source, it transforms Jupyter Notebooks in a safe production environment thanks to micro-services. ([Web](https://www.naas.ai/))
+- [kubespawner](https://github.com/jupyterhub/kubespawner) - Enables JupyterHub to spawn single-user notebook servers on a Kubernetes cluster.
+- [Zero to JupyterHub with Kubernetes](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)

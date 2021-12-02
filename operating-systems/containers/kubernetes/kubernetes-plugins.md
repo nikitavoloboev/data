@@ -34,6 +34,7 @@
 - [kubectl-iexec](https://github.com/gabeduke/kubectl-iexec) - Kubectl plugin to interactively exec into a pod.
 - [Coil](https://github.com/cybozu-go/coil) - CNI plugin for Kubernetes designed for scalability and extensibility.
 - [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Policy Controller for Kubernetes.
+- [Kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - Kubernetes operator for running synthetic checks as pods. Works great with Prometheus.
 
 ## Helm Charts
 

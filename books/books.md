@@ -247,6 +247,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: Most interesting, mildly impractical, well-written books on software? (2021)](https://news.ycombinator.com/item?id=29306651)
 - [5 books I loved reading this year | Bill Gates](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021) ([HN](https://news.ycombinator.com/item?id=29309758))
 - [Books that changed my career as a software engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer) ([HN](https://news.ycombinator.com/item?id=29364892))
+- [Very very short book you read (< 150 pages) (2021)](https://twitter.com/patrick_oshag/status/1466137479661170688)
 
 ## Interesting Prose Books
 
@@ -445,3 +446,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [AutoBook](https://zachernuk.neocities.org/autobook/) - Procedural 3D book configurator. ([Tweet](https://twitter.com/zachernuk/status/1457767271418327045))
 - [BookNLP](https://github.com/booknlp/booknlp) - Natural language processing pipeline for books.
 - [London Review of Books](https://lrb.co.uk/)
+- [Kavita](https://www.kavitareader.com/) - Browse your Manga, Comics and Books.

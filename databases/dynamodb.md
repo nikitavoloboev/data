@@ -70,3 +70,4 @@
 - [DonutDB](https://github.com/psanford/donutdb) - SQL database implemented on DynamoDB and SQLite.
 - [DynamoDB Lock Client for Go](https://github.com/cirello-io/dynamolock)
 - [DynamoDB Foreign Data Wrapper for PostgreSQL](https://github.com/pgspider/dynamodb_fdw)
+- [New DynamoDB Table Class – Save Up To 60% in Your DynamoDB Costs (2021)](https://aws.amazon.com/blogs/aws/new-dynamodb-table-class-save-up-to-60-in-your-dynamodb-costs/)

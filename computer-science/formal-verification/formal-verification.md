@@ -97,3 +97,5 @@
 - [Provably-correct versions of Leftpad](https://github.com/hwayne/lets-prove-leftpad)
 - [Structured derivations: a unified proof style for teaching mathematics](https://hal.archives-ouvertes.fr/hal-00540025) ([Tweet](https://twitter.com/brendanzab/status/1462560273554821121))
 - [Gospel](https://github.com/ocaml-gospel/gospel) - Tool-agnostic formal specification language for OCaml. ([Docs](https://ocaml-gospel.github.io/gospel/))
+- [Alloy 6: it's about Time (2021)](https://www.hillelwayne.com/post/alloy6/) ([Lobsters](https://lobste.rs/s/0d4s5q/alloy_6_it_s_about_time))
+- [Refinement: Formalizing the Simplicity Underneath Complex Programs (2021)](https://concerningquality.com/refinement/)

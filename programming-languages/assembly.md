@@ -77,3 +77,4 @@
 - [ELF Science Part 1 (2021)](https://greatergoodest.github.io/post/elf_science_p1/)
 - [BLASFEO](https://github.com/giaf/blasfeo) - Basic linear algebra subroutines for embedded optimization.
 - [NASM](https://github.com/netwide-assembler/nasm) - Cross-platform x86 assembler with an Intel-like syntax. ([Web](https://nasm.us/))
+- [ASMREPL](https://github.com/tenderlove/asmrepl) - REPL for x86 assembly language. ([HN](https://news.ycombinator.com/item?id=29385006))

@@ -2,6 +2,7 @@
 
 ## Web
 
+- [h2](https://github.com/anmonteiro/ocaml-h2) - HTTP/2 implementation written in pure OCaml.
 - [Opium](https://github.com/rgrinberg/opium) - Sinatra like web toolkit for OCaml.
 - [OCaml On Ice](https://github.com/roddyyaga/ocoi) - Web framework for OCaml in the style of Ruby on Rails.
 - [http/af](https://github.com/inhabitedtype/httpaf) - High performance, memory efficient, and scalable web server written in OCaml.
@@ -26,6 +27,7 @@
 
 - [Caqti](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data.
 - [PostgreSQL-OCaml](https://github.com/mmottl/postgresql-ocaml) - PostgreSQL Bindings for OCaml.
+- [postgres-protocol](https://github.com/anuragsoni/postgres-protocol) - IO independent postgres protocol implementation.
 
 ## Bindings
 
@@ -112,6 +114,8 @@
 - [algebra](https://github.com/ghuysmans/algebra) - Definitions for common algebraic structures.
 - [ocaml-lp](https://github.com/ktahar/ocaml-lp) - Helps the modeling of Linear Programming (LP) and Mixed Integer Programming (MIP) in OCaml.
 - [ppx_regexp](https://github.com/paurkedal/ppx_regexp) - Matching Regular Expressions with OCaml Patterns.
+- [Shuttle](https://github.com/anuragsoni/shuttle) - Buffered channels for async.
+- [Poll](https://github.com/anuragsoni/poll) - Portable OCaml API to poll file descriptors for IO readiness. Supports kqueue and epoll for now.
 
 ## Links
 

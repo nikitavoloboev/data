@@ -138,3 +138,4 @@
 - [A pitch that is music to the ears](https://www.erwanderlyn.com/p/startup-pitch-deck) ([HN](https://news.ycombinator.com/item?id=29244964))
 - [Party Round](https://partyround.com/) - Automated fundraising tool for founders. ([Twitter](https://twitter.com/PartyRound))
 - [Introducing Calm Company Scouts | Calm Company Fund (2021)](https://calmfund.com/writing/introducing-calm-company-scouts)
+- [Moth Minds](https://www.mothminds.com/) - Fund individuals doing work you believe in. ([Twitter](https://twitter.com/mothminds)) ([HN](https://news.ycombinator.com/item?id=29407858))

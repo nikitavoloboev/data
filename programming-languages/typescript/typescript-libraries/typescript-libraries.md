@@ -10,6 +10,7 @@
 - [IDB-Keyval](https://github.com/jakearchibald/idb-keyval) - Super-simple-small promise-based keyval store implemented with IndexedDB.
 - [squid](https://github.com/andywer/squid) - SQL tagged template strings and schema definitions for JavaScript & TypeScript.
 - [KVS](https://github.com/azu/kvs) - Lightweight key-value storage library for Browser, Node.js, and In-Memory.
+- [Kysely](https://github.com/koskimas/kysely) - Type-safe typescript SQL query builder.
 
 ## Web
 
@@ -216,6 +217,7 @@
 - [tsconfck](https://github.com/dominikg/tsconfck) - Utility to find and parse tsconfig files without depending on typescript.
 - [proxy-compare](https://github.com/dai-shi/proxy-compare) - Compare two objects using accessed properties with Proxy.
 - [fnts](https://github.com/drizzer14/fnts) - Minimal Functional Programming Utilities for TypeScript & JavaScript. ([Docs](https://drizzer14.github.io/fnts/))
+- [Crunker](https://github.com/jackedgson/crunker) - Simple way to merge or concatenate audio files with the Web Audio API.
 
 ## Links
 
@@ -242,3 +244,5 @@
 - [What would you use to publish/build a TypeScript package (i.e. publish on npm) today? (2021)](https://twitter.com/jsjoeio/status/1458807179708796931)
 - [Type-Safe Event Emitter in TypeScript (2021)](https://danilafe.com/blog/typescript_typesafe_events/)
 - [type-predicates-generator](https://github.com/d-kimuson/type-predicates-generator) - Tool to automatically generate type predicates functions from type definitions.
+- [OpenAPI Typescript Codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - Node.js library that generates Typescript clients based on the OpenAPI specification.
+- [DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) - Infrastructure for DefinitelyTyped.
