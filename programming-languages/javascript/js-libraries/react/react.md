@@ -156,7 +156,7 @@
 - [The rise of React (2020)](https://increment.com/frontend/the-rise-of-react/) ([HN](https://news.ycombinator.com/item?id=23366041))
 - [storybook-addon-react-docgen](https://github.com/hipstersmoothie/storybook-addon-react-docgen) - Storybook addon to display react docgen info.
 - [Rendering to iFrames in React (2018)](https://medium.com/@ryanseddon/rendering-to-iframes-in-react-d1cb92274f86)
-- [React Testing Library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices. ([How to use React Testing Library (2020)](https://www.robinwieruch.de/react-testing-library)) ([Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library/))
+- [React Testing Library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices. ([How to use React Testing Library (2020)](https://www.robinwieruch.de/react-testing-library)) ([Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library/)) ([React Testing Library Recipes](https://blog.fildon.me/react-testing-library-recipes))
 - [rehype-react](https://github.com/rehypejs/rehype-react) - Plugin to transform to React.
 - [React Deep Dive book (2020)](https://book.react-js.dev/)
 - [Tuomas Artman: Real-time sync for web apps (2020)](https://www.youtube.com/watch?v=WxK11RsLqp4&t=2171)

@@ -80,7 +80,7 @@ for i, _ in enumerate(nums):
 - [Python debugger package for use with Visual Studio and Visual Studio Code](https://github.com/microsoft/ptvsd)
 - [Pyflame](https://github.com/uber/pyflame) - Ptracing Profiler For Python.
 - [Classic Computer Science Problems in Python book (2019)](https://www.manning.com/books/classic-computer-science-problems-in-python)
-- [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables.
+- [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables. ([Web](https://www.pyinstaller.org/)) ([HN](https://news.ycombinator.com/item?id=29439149))
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/) ([HN](https://news.ycombinator.com/item?id=21732821))
 - [Pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy. ([Web](https://python-poetry.org/)) ([HN](https://news.ycombinator.com/item?id=24081125))

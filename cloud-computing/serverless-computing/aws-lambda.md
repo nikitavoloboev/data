@@ -92,3 +92,4 @@
 - [Tips to prevent a serverless wreck (2021)](https://dev.to/aws-heroes/tips-to-prevent-a-serverless-wreck-15af)
 - [Serverless WarmUp Plugin](https://github.com/juanjoDiaz/serverless-plugin-warmup) - Keep your lambdas warm during winter.
 - [Fat Functions are an Anti-Pattern (2021)](https://blog.begin.com/posts/2021-12-01-fat-function-anti-pattern) ([Tweet](https://twitter.com/brianleroux/status/1466102082662899712))
+- [Make the most of AWS Lambda with Go](https://kevinmcconnell.gumroad.com/l/lambda-go-book/hn) ([HN](https://news.ycombinator.com/item?id=29441272))

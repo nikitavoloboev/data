@@ -10,6 +10,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Anchor](https://processtypefoundry.com/fonts/anchor/) - Informal family of round display gothics, with a serious side. ([Anchor in use: Charm](https://processtypefoundry.com/blog/2021/10/anchor-in-use-charm/))
 - [Sigurd](https://www.behance.net/gallery/127110261/Sigurd-Font-Family)
 - [Graphik](https://commercialtype.com/catalog/graphik)
+- [Filosofia](https://www.emigre.com/Fonts/Filosofia)
 - [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) ([Code](https://github.com/googlefonts/Inconsolata))
 - [Public Sans](https://github.com/uswds/public-sans) - Strong, neutral, principles-driven, open source typeface for text or display.
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) - Fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
@@ -286,3 +287,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Please Stop “Fixing” Font Smoothing (2012)](https://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/) ([HN](https://news.ycombinator.com/item?id=29328838))
 - [Modular Font Editor K (MFEK)](https://mfek.org/) - Open source modular font editor. ([GitHub](https://github.com/MFEK))
 - [San Francisco Pro Fonts](https://developer.apple.com/fonts/) ([Code](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts))
+- [Colophon](https://society.robinsloan.com/archive/colophon/) ([Tweet](https://twitter.com/michael_nielsen/status/1467177731221639169))

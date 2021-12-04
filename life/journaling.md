@@ -19,6 +19,7 @@ I quite like [Fabian's retrospectives](https://capnfabs.net/tags/retrospective/)
 ## Notes
 
 - [Much progress is a spiral; you keep realizing the same things, just in more depth, and more deeply integrated.](https://twitter.com/ElodesNL/status/1460213414119329797)
+- [Having a kindness log is great.](https://twitter.com/yodelnyc/status/1466887442816856069)
 
 ## Links
 
