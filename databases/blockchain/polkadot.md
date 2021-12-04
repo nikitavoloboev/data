@@ -70,3 +70,4 @@
 - [Kusama](https://kusama.network/) - Polkadot's Canary Network.
 - [Polka Domain](https://github.com/polka-domain/polka-domain) - Decentralized, privacy preserving blockchain naming service and exchange built on Polkadot for everyone.
 - [Subspace Network](https://subspace.network/) - Open, scalable platform for both storage and compute that is fully interoperable with any layer one. ([Code](https://github.com/subspace/subspace))
+- [Astar Network](https://astar.network/) - Polkadot DApp Hub. ([Code](https://github.com/PlasmNetwork/Astar))

@@ -135,3 +135,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Divorce does funny things (2021)](https://www.theparisreview.org/blog/2021/11/09/divorce-does-funny-things/) ([HN](https://news.ycombinator.com/item?id=29236676))
 - [How to become a "boyfriend" material from a "husband" material? (2021)](https://www.reddit.com/r/AskMen/comments/qulz07/how_to_become_a_boyfriend_material_from_a_husband/)
 - [Любовная зависимость и обсессия. Как избавиться от мыслей о человеке (2021)](https://www.youtube.com/watch?v=Genp4WQgWts)
+- [Early signs of a healthy relationship? (2021)](https://www.reddit.com/r/datingoverthirty/comments/r701tc/early_signs_of_a_healthy_relationship/)

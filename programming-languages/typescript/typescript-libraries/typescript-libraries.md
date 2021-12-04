@@ -218,6 +218,7 @@
 - [proxy-compare](https://github.com/dai-shi/proxy-compare) - Compare two objects using accessed properties with Proxy.
 - [fnts](https://github.com/drizzer14/fnts) - Minimal Functional Programming Utilities for TypeScript & JavaScript. ([Docs](https://drizzer14.github.io/fnts/))
 - [Crunker](https://github.com/jackedgson/crunker) - Simple way to merge or concatenate audio files with the Web Audio API.
+- [static-path](https://github.com/garybernhardt/static-path) - Uses the type system to prevent 404s at compile time.
 
 ## Links
 

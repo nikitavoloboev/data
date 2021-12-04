@@ -65,3 +65,4 @@
 - [An opinionated map of incremental and streaming systems (2021)](https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems/)
 - [Crossjoin](https://github.com/crossjoin-io/crossjoin) - Joins together your data from anywhere.
 - [Ceramic Network](https://ceramic.network/) - Decentralized, open source platform for creating, hosting, and sharing streams of data. ([TS Code](https://github.com/ceramicnetwork/js-ceramic)) ([GitHub](https://github.com/ceramicnetwork))
+- [Graphite-Web](https://github.com/graphite-project/graphite-web) - Highly scalable real-time graphing system. ([Docs](https://graphite.readthedocs.io/en/stable/))

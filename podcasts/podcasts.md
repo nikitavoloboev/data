@@ -88,6 +88,7 @@ It includes:
 - [Tooling Talks](https://www.tooling-talks.com/) - Series of talks about tooling.
 - [Goose&Duck Podcast](https://github.com/goose-duck/podcast)
 - [Lost and Founder](https://www.lostandfounder.net/)
+- [Flight Review](https://flightreview.fm/) - Weekly podcast chronicling the journey of two entrepreneurs building Flightcontrol.
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 
@@ -131,6 +132,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcasts for bootstrappers and indie hackers](https://transistor.fm/podcasts-for-bootstrappers/)
 - [Top podcasts founders consume (2021)](https://twitter.com/volodarik/status/1451216738683539461)
 - [Fast, snappy, high content podcasts (2021)](https://twitter.com/HarryStebbings/status/1462023893103915014)
+- [Fave New Podcasts in 2021](https://www.swyx.io/fave-podcasts-2021/)
 
 ## Notes
 

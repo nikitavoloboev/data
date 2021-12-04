@@ -237,3 +237,5 @@
 - [ENN Incubator](https://github.com/entity-neural-network/incubator) - Collection of in-progress libraries for entity neural networks.
 - [Syne Tune](https://github.com/awslabs/syne-tune) - Large scale and asynchronous Hyperparameter Optimization at your fingertip.
 - [Maggy](https://github.com/logicalclocks/maggy) - Framework for distribution transparent machine learning experiments on Apache Spark.
+- [Apache SINGA](https://github.com/apache/singa) - Distributed deep learning system. ([Web](http://singa.apache.org/))
+- [Tiny CUDA Neural Networks](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast & tiny C++/CUDA neural network framework.

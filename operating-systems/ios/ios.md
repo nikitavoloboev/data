@@ -381,3 +381,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard.
 - [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app.
 - [iOS Developer 2021 Roadmap to get a job](https://www.youtube.com/watch?v=KjeD3y7SevI)
+- [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) - iOS library to help detecting retain cycles in runtime.

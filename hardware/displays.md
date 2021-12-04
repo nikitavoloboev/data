@@ -10,3 +10,4 @@
 - [Looking Glass Portrait – Holographic Display](https://lookingglassfactory.com/portrait) ([HN](https://news.ycombinator.com/item?id=27979887))
 - [The Company Behind Apple's 10,000 Mini-LED Display (2021)](https://www.youtube.com/watch?v=_cm-w0XGZhs)
 - [Understanding DisplayLink, multiple displays, and M1 Macs (2021)](https://danielcompton.net/2021/07/28/apple-m1-displaylink-multiple-display)
+- [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/) ([HN](https://news.ycombinator.com/item?id=29417484))

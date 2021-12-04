@@ -159,6 +159,7 @@ Here are few more things I liked, design wise.
 - [Blog Title](https://blogtitle.github.io/)
 - [linus.coffee](https://linus.coffee/)
 - [Kevin Yien](https://kevinyien.com/blog.html)
+- [Oxide](https://oxide.computer/blog)
 
 ## Products
 
@@ -276,6 +277,7 @@ Here are few more things I liked, design wise.
 - [Parimal Satyal](https://neustadt.fr/) ([Code](https://github.com/parimalsatyal/neu))
 - [Patrick Heng](https://patrickheng.com/)
 - [Erlend Hamberg](https://hamberg.no/erlend/)
+- [Mu-An Chiou](https://muan.co/) ([Code](https://github.com/muan/site))
 - [Kaya Thomas](https://kaya.dev/)
 - [Brent Jackson](https://jxnblk.com/)
 - [Vivien Hantusch](https://www.vivien.space/portfolio.html)

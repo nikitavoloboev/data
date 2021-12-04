@@ -14,3 +14,5 @@
 - [fastify-basic-auth](https://github.com/fastify/fastify-basic-auth) - Fastify basic auth plugin.
 - [fastify-cookie](https://github.com/fastify/fastify-cookie) - Plugin for Fastify that adds support for reading and setting cookies.
 - [Fastify SSE Plugin](https://github.com/NodeFactoryIo/fastify-sse-v2) - Fastify plugin for sending Server-sent events.
+- [postgrest-builder](https://github.com/Blazity/postgrest-builder) - Adds decorators for Nest.js to support fastify-multipart.
+- [fastify-multipart](https://github.com/fastify/fastify-multipart) - Multipart support for Fastify.

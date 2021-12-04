@@ -575,6 +575,11 @@
 - [Pygal](https://github.com/Kozea/pygal) - Dynamic SVG charting library written in python.
 - [json2html](https://github.com/softvar/json2html) - Python module to convert JSON into a human readable HTML Table representation.
 - [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
+- [Pyserini](https://github.com/castorini/pyserini) - Python toolkit for reproducible information retrieval research with sparse and dense representations.
+- [Compai](https://github.com/frndmg/compai) - Functional primitives for Python.
+- [mpi4jax](https://github.com/mpi4jax/mpi4jax) - Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python.
+- [Plum](https://github.com/wesselb/plum) - Multiple Dispatch in Python.
+- [SceneGraphParser](https://github.com/vacancy/SceneGraphParser) - Python toolkit for parsing sentences (in natural language) into scene graphs (as symbolic representation) based on the dependency parsing.
 
 ## Links
 
@@ -625,3 +630,4 @@
 - [Python Semantic Release](https://github.com/relekang/python-semantic-release) - Automatic semantic versioning for python projects.
 - [Blueprint/Boilerplate For Python Projects](https://github.com/MartinHeinz/python-project-blueprint)
 - [Customize Python dependency resolution with machine learning (2021)](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning#)
+- [requirements-tools](https://github.com/Yelp/requirements-tools) - Scripts for working with Python requirements, primarily in applications.

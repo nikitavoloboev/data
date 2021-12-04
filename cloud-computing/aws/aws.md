@@ -257,3 +257,6 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Getting Started with Amazon Web Services](https://aws.amazon.com/getting-started/)
 - [AWS Samples GitHub](https://github.com/aws-samples)
 - [AWS SDK for iOS](https://github.com/aws-amplify/aws-sdk-ios)
+- [s3sync](https://github.com/seqsense/s3sync) - Go utility for syncing between s3 and local.
+- [AWS SDK for Swift](https://github.com/awslabs/aws-sdk-swift)
+- [Release of AWS CDKv2 and Construct Hub (2021)](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/) ([HN](https://news.ycombinator.com/item?id=29419874))

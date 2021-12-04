@@ -55,6 +55,7 @@
 - [KernelFunctions](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl) - Julia package for kernel functions for machine learning.
 - [NLPModels](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) - Data Structures for Optimization Models.
 - [MLDataPattern](https://github.com/JuliaML/MLDataPattern.jl) - Utility package for subsetting, resampling, iteration, and partitioning of various types of data sets in Machine Learning.
+- [SymPy](https://github.com/JuliaPy/SymPy.jl) - Julia interface to SymPy via PyCall.
 
 ## Math
 
@@ -119,6 +120,10 @@
 - [MetaGraphs](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
 - [CliffordAlgebras.jl](https://github.com/ATell-SoundTheory/CliffordAlgebras.jl) - Fast and lightweight Julia package for Clifford and geometric algebras.
 - [Oscar.jl](https://github.com/oscar-system/Oscar.jl) - Computer algebra system which combines the capabilities of four cornerstone systems: GAP, Polymake, Antic and Singular.
+- [TaylorSeries.jl](https://github.com/JuliaDiff/TaylorSeries.jl) - Julia package for Taylor polynomial expansions in one or more independent variables.
+- [Causalinference.jl](https://github.com/mschauer/CausalInference.jl) - Julia package for causal inference, graphical models and structure learning.
+- [Bridge.jl](https://github.com/mschauer/Bridge.jl) - Statistical toolbox for diffusion processes and stochastic differential equations. Named after the Brownian Bridge.
+- [Kalman](https://github.com/mschauer/Kalman.jl) - Flexible filtering and smoothing in Julia.
 
 ## NLP
 
@@ -143,6 +148,8 @@
 
 - [FreeTypeAbstraction](https://github.com/JuliaGraphics/FreeTypeAbstraction.jl) - Draw text into a Matrix.
 - [Animations](https://github.com/jkrumbiegel/Animations.jl) - Animations, easings and interpolations for animated visualizations.
+- [Vulkan](https://github.com/JuliaGPU/Vulkan.jl) - Simplify usage of Vulkan in Julia.
+- [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl) - OpenCL Julia bindings.
 
 ## CLI
 
@@ -363,6 +370,8 @@
 - [DataFrameMacros.jl](https://github.com/jkrumbiegel/DataFrameMacros.jl) - Macros for DataFrame manipulation with a syntax geared towards clarity, brevity and convenience.
 - [Chain](https://github.com/jkrumbiegel/Chain.jl) - Piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
 - [RegionTrees.jl](https://github.com/rdeits/RegionTrees.jl) - Quadtrees, Octrees, and their N-Dimensional Cousins.
+- [HDF5](https://github.com/JuliaIO/HDF5.jl) - Save and load data in the HDF5 file format from Julia.
+- [AMDGPU.jl](https://github.com/JuliaGPU/AMDGPU.jl) - AMD GPU (ROCm) programming in Julia.
 
 ## Links
 

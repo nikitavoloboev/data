@@ -183,6 +183,8 @@
 - [Ambry](https://github.com/linkedin/ambry) - Distributed object store that supports storage of trillion of small immutable objects (50K -100K) as well as billions of large objects.
 - [ChaosDB](https://chaosdb.wiz.io/) - Unauthorized Privileged Access to Microsoft Azure Cosmos DB. ([Explained](https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough)) ([HN](https://news.ycombinator.com/item?id=29283057))
 - [MirDB](https://github.com/yetone/mirdb) - Persistent Key-Value Store with Memcached protocol.
+- [StupiDB](https://github.com/cpcloud/stupidb) - Built to understand how a relational database might be implemented.
+- [MatrixOne](https://github.com/matrixorigin/matrixone) - Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads. ([Docs](http://docs.matrixorigin.io/#recommended-articles))
 
 ## Tools
 
@@ -484,3 +486,4 @@
 - [LSM-Tree Key-Value Store based on RocksDB](https://github.com/adambcomer/database-engine)
 - [Build a Simple Database Tutorial](https://adambcomer.com/blog/simple-database/)
 - [Database Development Reddit](https://www.reddit.com/r/databasedevelopment/)
+- [Upgrading MySQL at Shopify (2021)](https://shopify.engineering/upgrading-mysql-shopify)

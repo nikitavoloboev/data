@@ -9,6 +9,7 @@
 - Each item has a unique primary key and any number of attributes.
 - Scanning for an item means looking through **every item in a table** thus it is less efficient than query search.
 - Table is a collection of items, and each item is a collection of attributes.
+- [DynamoDB will burn you in so many ways. It’s only fine if you have very predictably sized objects and non-spiky workloads.](https://twitter.com/danielrhodes/status/1466645623814328324)
 
 ## Links
 
@@ -71,3 +72,4 @@
 - [DynamoDB Lock Client for Go](https://github.com/cirello-io/dynamolock)
 - [DynamoDB Foreign Data Wrapper for PostgreSQL](https://github.com/pgspider/dynamodb_fdw)
 - [New DynamoDB Table Class – Save Up To 60% in Your DynamoDB Costs (2021)](https://aws.amazon.com/blogs/aws/new-dynamodb-table-class-save-up-to-60-in-your-dynamodb-costs/)
+- [dynamodump](https://github.com/mifi/dynamodump) - Node CLI for backing up and restoring schema+data from DynamoDB tables.

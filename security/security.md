@@ -234,3 +234,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Caido](https://caido.io/) - Lightweight Web Security Auditing Toolkit.
 - [Personal Zero-Trust HashiCorp Vault](https://github.com/eidam/personal-zero-trust-hashicorp-vault) ([Tweet](https://twitter.com/adam_janis/status/1463591750069538818))
 - [extrude](https://github.com/liamg/extrude) - Scan binaries for missing security features, information disclosure and more.
+- [Barbican](https://github.com/openstack/barbican) - ReST API designed for the secure storage, provisioning and management of secrets, including in OpenStack environments.
+- [Cryptr](https://github.com/adobe/cryptr) - GUI for Hashicorp's Vault.

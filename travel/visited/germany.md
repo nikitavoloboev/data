@@ -29,3 +29,4 @@
 - [Investing in Germany's startups is complex (2021)](https://twitter.com/t_blom/status/1449007004371009536)
 - [Nona](https://www.nona.de/) - German Search Engine. ([HN](https://news.ycombinator.com/item?id=29267455))
 - [Investment in Germany advice (2021)](https://www.reddit.com/r/eupersonalfinance/comments/qzlqh5/new_to_investment_in_germany/)
+- [Incorporating in Germany is hard (2021)](https://twitter.com/andreasklinger/status/1466333639176859651)

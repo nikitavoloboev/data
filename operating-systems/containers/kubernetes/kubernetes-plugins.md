@@ -35,6 +35,8 @@
 - [Coil](https://github.com/cybozu-go/coil) - CNI plugin for Kubernetes designed for scalability and extensibility.
 - [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Policy Controller for Kubernetes.
 - [Kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - Kubernetes operator for running synthetic checks as pods. Works great with Prometheus.
+- [Kubernetes Operator for Apache Flink](https://github.com/spotify/flink-on-k8s-operator)
+- [kubectl-curl](https://github.com/segmentio/kubectl-curl) - Kubectl plugin to run curl commands against kubernetes pods.
 
 ## Helm Charts
 

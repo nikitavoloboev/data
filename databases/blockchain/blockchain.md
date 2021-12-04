@@ -2,7 +2,7 @@
 
 In short, blockchain is a [immutable linked list of hashes](https://www.quora.com/Is-a-blockchain-essentially-a-linked-list). Which can be used to solve the double spending problem in cryptocurrencies using proof of stake (or other methods) and a persistent chain of records (blocks mined).
 
-[Ethereum, Solana, Tezos & Avalanche are nice blockchains](https://twitter.com/dabit3/status/1434279108872216577).
+[Ethereum, Solana, Tezos & Avalanche are nice blockchains](https://twitter.com/dabit3/status/1434279108872216577). In future they can let you [run web apps that run like protocols -- no company in the middle, just peer to peer networks](https://twitter.com/samecwilliams/status/1466460819508453383).
 
 ## Consensus algorithms
 

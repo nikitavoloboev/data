@@ -123,3 +123,4 @@
 - [Practically Solving LPN (2021)](https://thomwiggers.nl/publication/lpn/) ([Code](https://github.com/thomwiggers/lpn))
 - [Quandary](https://github.com/LLNL/quandary) - Optimal control for open quantum systems.
 - [qsearch](https://github.com/BQSKit/qsearch) - Compiler for quantum computers based on A\* and numerical optimization.
+- [NetKet](https://github.com/netket/netket) - Machine learning algorithms for many-body quantum systems. ([Web](https://www.netket.org/))

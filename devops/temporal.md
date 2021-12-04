@@ -12,3 +12,4 @@
 - [Temporal Rust Core SDK](https://github.com/temporalio/sdk-core)
 - [Temporal TypeScript Samples](https://github.com/temporalio/samples-typescript)
 - [Temporal Debug Go](https://github.com/cretz/temporal-debug-go) - Debugging and visualizing Temporal Go code.
+- [Temporal Helm Chart](https://github.com/temporalio/helm-charts)

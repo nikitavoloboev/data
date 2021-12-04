@@ -535,3 +535,6 @@
 - [Generically working with Kubernetes objects in Go (2021)](https://itnext.io/generically-working-with-kubernetes-resources-in-go-53bce678f887)
 - [Kubetools](https://github.com/collabnix/kubetools) - Curated List of Kubernetes Tools.
 - [Neco](https://github.com/cybozu-go/neco) - Project to build and maintain highly automated on-premise data centers using Kubernetes at the center of its system.
+- [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs.
+- [kube-lineage](https://github.com/tohjustin/kube-lineage) - CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster.
+- [AWS version of Kelsey's kubernetes-the-hard-way](https://github.com/prabhatsharma/kubernetes-the-hard-way-aws)

@@ -31,3 +31,4 @@
 - [Relay Library for GraphQL.js](https://github.com/graphql/graphql-relay-js)
 - [Relay Client Guide](https://github.com/rafasanmartinez/relay-client-guide)
 - [Redwood with Relay](https://github.com/orta/relay-redwood-app-example)
+- [Relay updates in 2021](https://twitter.com/StatisticsFTW/status/1466496994164162560)

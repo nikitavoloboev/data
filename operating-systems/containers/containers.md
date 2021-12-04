@@ -157,3 +157,6 @@
 - [Learning Containers From The Bottom Up (2021)](https://iximiuz.com/en/posts/container-learning-path/) ([HN](https://news.ycombinator.com/item?id=29265061))
 - [P2P Container Image Distribution on IPFS With Containerd (2021)](https://medium.com/nttlabs/nerdctl-ipfs-975569520e3d) ([Tweet](https://twitter.com/TokunagaKohei/status/1463438249137827840))
 - [Nomad podman Driver](https://github.com/hashicorp/nomad-driver-podman) - Nomad taskdriver for podman containers.
+- [Anti-Patterns When Building Container Images (2021)](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns/) ([HN](https://news.ycombinator.com/item?id=29391858))
+- [Apptainer](https://github.com/apptainer/apptainer) - Open source container platform designed to be simple, fast, and secure.
+- [Rust Unshare](https://github.com/tailhook/unshare) - Low-level Linux containers creation library for rust.

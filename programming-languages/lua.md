@@ -85,3 +85,4 @@
 - [luastatic](https://github.com/ers35/luastatic) - Build a standalone executable from a Lua program.
 - [Links on how Lua works behind the scenes](https://github.com/edubart/nelua-lang/wiki/Useful-Links-for-Research)
 - [Lua Finite State Machine](https://github.com/kyleconroy/lua-state-machine) - Finite state machine lua micro framework.
+- [lua2c](https://github.com/davidm/lua2c) - Converts Lua 5.1 source code to C code.

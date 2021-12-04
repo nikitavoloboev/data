@@ -227,7 +227,7 @@
 - [Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) (2021)](https://blog.isquaredsoftware.com/2021/01/context-redux-differences/)
 - [What made React's context click for you?](https://twitter.com/rachelnabors/status/1372265369352740866)
 - [Building a Modern React App from Scratch in 2021](https://github.com/yakkomajuri/react-from-scratch)
-- [The Perils of Rehydration: An Eye-Opening Realization about Gatsby and React](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
+- [The Perils of Rehydration: An Eye-Opening Realization about Gatsby and React](https://www.joshwcomeau.com/react/the-perils-of-rehydration/) ([HN](https://news.ycombinator.com/item?id=29406175))
 - [SimpleR State](https://github.com/arnelenero/simpler-state) - Simplest app state management for React. ([HN](https://news.ycombinator.com/item?id=26525526))
 - [Testing React](https://github.com/storybookjs/testing-react) - Testing utilities that allow you to reuse your Storybook stories in your React unit tests.
 - [Atomos](https://github.com/oslabs-beta/atomos) - Open source Chrome developer tool for Recoil.
@@ -283,3 +283,5 @@
 - [I hate passing props but don't need Redux. Which tool should I use? (2021)](https://www.reddit.com/r/reactjs/comments/qljqai/i_hate_passing_props_but_dont_need_redux_which/)
 - [React Holiday](https://react.holiday/) - Celebrate React 18 beta with 18 lessons delivered to your inbox.
 - [react-chicane](https://github.com/zoontek/react-chicane) - Simple and safe router for React and TypeScript.
+- [Coding Interview with Dan Abramov (2021)](https://www.youtube.com/watch?v=XEt09iK8IXs)
+- [React-JUCE](https://github.com/nick-thompson/react-juce) - Write cross-platform native apps with React.js and JUCE.

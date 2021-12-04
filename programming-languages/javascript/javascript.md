@@ -237,7 +237,7 @@ if (
 - [Memoization: What, Why, and How (2020)](https://kyleshevlin.com/memoization)
 - [An Open Source Maintainer's Guide to Publishing npm Packages (2020)](https://formidable.com/blog/2020/publish-npm-packages/)
 - [Robust Client-Side JavaScript (2020)](https://molily.de/robust-javascript/) ([HN](https://news.ycombinator.com/item?id=23612184))
-- [Visualization of npm dependencies](https://npm.anvaka.com/#!/)
+- [Visualization of npm dependencies](https://npm.anvaka.com/#!/) ([Code](https://github.com/anvaka/npmgraph.an))
 - [How to Learn JavaScript](https://sivers.org/learn-js) ([HN](https://news.ycombinator.com/item?id=23659531))
 - [Google Closure Compiler](https://github.com/google/closure-compiler) - Tool for making JavaScript download and run faster.
 - [JSConf](https://jsconf.com/) - Conferences for the JavaScript Community.

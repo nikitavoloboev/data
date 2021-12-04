@@ -17,4 +17,4 @@ CodeSandbox is genuinely amazing. It brings the power of the text editor and dev
 - [Announcing CodeSandbox CI and all-new Embeds (2019)](https://codesandbox.io/post/codesandbox-ci-embeds)
 - [GitHubBox](https://github.com/dferber90/githubbox) - Open any GitHub repo in CodeSandbox by changing the hostname.
 - [CodeSandbox URL shortcuts](https://twitter.com/CompuIves/status/1291020566221205511)
-- [Sandpack](https://github.com/codesandbox/sandpack) - Ecosystem of components and utilities built around the browser bundler that powers CodeSandbox.
+- [Sandpack](https://github.com/codesandbox/sandpack) - Ecosystem of components and utilities built around the browser bundler that powers CodeSandbox. ([Article](https://codesandbox.io/post/sandpack-announcement)) ([Tweet](https://twitter.com/codesandbox/status/1466428912087576587))

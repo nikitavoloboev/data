@@ -28,3 +28,4 @@
 - [Restaurant food supply digitized (2021)](https://twitter.com/patrick_oshag/status/1458955349734662152?s=20)
 - [Menu Cards](https://menu.cards/) - App to create QR Menu's.
 - [Hyphen](https://usehyphen.com/) - Put your kitchen operations on autopilot. ([Twitter](https://twitter.com/gethyphen))
+- [Understanding the Instant-Delivery Phenomenon (2021)](https://tanay.substack.com/p/understanding-the-instant-delivery)

@@ -1,5 +1,7 @@
 # [Software architecture](https://en.wikipedia.org/wiki/Software_architecture)
 
+I love the idea of [building truly offline first software where backend failing isn't a big deal. All operations are done locally (fast), then sync deltas to server](https://twitter.com/_vojto/status/1466540419404247043). Like [Replicache](https://replicache.dev/). Good example of such app is [Linear](https://linear.app/).
+
 ## Inspiration
 
 ### Other
@@ -165,7 +167,7 @@
 - [Clean Architecture by Robert C. Martin Book (2007)](https://www.goodreads.com/book/show/18043011-clean-architecture) ([Notes](https://github.com/preslavmihaylov/booknotes/tree/master/architecture/clean-architecture))
 - [Technology decisions for startups (2021)](https://davidkell.substack.com/p/technology-decisions-for-startups)
 - [Scaling Large Production Clusters with Partitioned Synchronization (2021)](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
-- [Local-first software with Martin Kleppmann (2021)](https://overcast.fm/+Y-HX8R30E)
+- [Local-first software with Martin Kleppmann (2021)](https://museapp.com/podcast/41-local-first-software/)
 - [How to Safely Think in Systems (2021)](https://lethain.com/how-to-safely-think-in-systems/) ([HN](https://news.ycombinator.com/item?id=28886376))
 - [The lost art of software design (2021)](https://static.architectis.je/sag2021-the-lost-art-of-software-design.pdf)
 - [Software Architecture Patterns (2021)](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2) ([HN](https://news.ycombinator.com/item?id=29024767))
@@ -177,3 +179,5 @@
 - [Living with single-tenant and multi-tenant architectures (2021)](https://medium.com/schibsted-engineering/living-with-single-tenant-and-multi-tenant-architectures-b2d7027db24e)
 - [Event Sourcing Is Hard (2019)](https://chriskiehl.com/article/event-sourcing-is-hard) ([HN](https://news.ycombinator.com/item?id=29390483))
 - [Cache warming at Netflix: Leveraging EBS for moving petabytes of data (2021)](https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3) ([HN](https://news.ycombinator.com/item?id=29388588))
+- [System Design Mock Interview: Design TikTok ft. Google TPM (2021)](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
+- [Amazon System Design Interview: Design Parking Garage (2021)](https://www.youtube.com/watch?v=NtMvNh0WFVM)

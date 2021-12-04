@@ -27,3 +27,4 @@
 - [Laika](https://github.com/zendesk/laika) - Log, test, intercept and modify Apollo Client's operations. ([Web](https://zendesk.github.io/laika/))
 - [Learn GraphQL with Apollo](https://odyssey.apollographql.com/) - Level up with these practical, hands-on trainings.
 - [Understanding Caching in Apollo Client 3 (2021)](https://www.youtube.com/watch?v=vwpqHYuSAXE)
+- [Jotai Apollo](https://github.com/Aslemammad/jotai-apollo) - Apollo graphql client integration for jotai.

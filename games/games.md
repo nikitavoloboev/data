@@ -239,3 +239,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [100 Thieves](https://twitter.com/100Thieves) - Gaming, entertainment, and apparel. ([Tweet](https://twitter.com/jacksondahl/status/1458152429564792835))
 - [Games are well-positioned to become the true fans of web3, and why that matters (2021)](https://twitter.com/brianjcho/status/1459176570174672897)
 - [Best single player games (2021)](https://twitter.com/sult/status/1465406873629245443)
+- [Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies (2021)](https://www.youtube.com/watch?v=ki4Fbctwnjs)

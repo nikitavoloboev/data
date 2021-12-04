@@ -473,3 +473,5 @@
 - [MMPose](https://github.com/open-mmlab/mmpose) - Open-source toolbox for pose estimation based on PyTorch. ([Docs](https://mmpose.readthedocs.io/en/latest/))
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers (2021)](https://arxiv.org/abs/2111.02387) ([Code](https://github.com/zdou0830/METER))
 - [Useful computer vision PhD resources](https://github.com/hassony2/useful-computer-vision-phd-resources)
+- [Tenyks](https://www.tenyks.ai/) - Data-centric Computer Vision.
+- [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (2021)](https://bowenc0221.github.io/mask2former/) ([Code](https://github.com/facebookresearch/Mask2Former))

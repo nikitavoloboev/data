@@ -23,7 +23,7 @@
 - [My Tech Interviews Experience: Failures, Successes and Tips for you](https://patrickbalestra.com/blog/2018/08/06/my-tech-interviews-experience.html)
 - [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
 - [Data structures cheat sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b#file-the-technical-interview-cheat-sheet-md)
-- [Pramp](https://www.pramp.com/ "https://www.pramp.com") - 1 hr online interviews where you interview someone and they interview you back.
+- [Pramp](https://www.pramp.com/#/) - 1 hr online interviews where you interview someone and they interview you back.
 - [LeetCode](https://leetcode.com/) - Collection of 700+ interview coding challenges.
 - [Preparing for SRE interview](https://blog.balthazar-rouberol.com/preparing-the-sre-interview.html)
 - [Developer questions](https://github.com/ggomaeng/better-developer-quotes)
@@ -148,3 +148,4 @@
 - [Don’t do interviews, do discussions](https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions) ([HN](https://news.ycombinator.com/item?id=29141983))
 - [Accepted and ghosted: interviewing for a leadership position at Stripe (2021)](https://news.ycombinator.com/item?id=29387264)
 - [What I learned about interviewing](https://lanie.dev/tech/interviewing/) ([HN](https://news.ycombinator.com/item?id=29392032))
+- [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview) ([Code](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns))

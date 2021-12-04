@@ -181,3 +181,5 @@
 - [Generative Art Using Neural Visual Grammars and Dual Encoders](https://github.com/deepmind/arnheim)
 - [GenArt](https://github.com/gengeomergence/GenArt) - Various Sketches written in Python Language for Processing.
 - [thi.ng](https://thi.ng/) - Polyglot computational design tools (TypeScript, Clojure, ClojureScript, C). ([GitHub](https://github.com/thi-ng))
+- [Generative Deep Learning Book (2019)](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/)
+- [Nannou/Rust tutorial based on Schotter by Georg Nees](https://github.com/sidwellr/schotter)

@@ -24,6 +24,8 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 
 - [I don’t think Solana is at war with ETH or any other blockchain - our community is just focused on building stuff people want and will use. Please minimize the toxicity and let’s focus on utility not price.](https://twitter.com/VinnyLingham/status/1434304520050249731)
 - [Can create a verifiable build for _any_ solana program via `anchor build --verifiable` and we have a (minimal) source verification registry at Anchor Project Serum](https://twitter.com/armaniferrante/status/1458490295708966918)
+- [Arweave is just another historical copy. Consensus doesn't care about any history that is older than the epoch, so there is no liveness dependency on AR.](https://twitter.com/aeyakovenko/status/1466535989963223041)
+- [solana-py does websockets](https://twitter.com/dj_d_sol/status/1466417431409213450)
 
 ## Links
 
@@ -181,3 +183,6 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Solana Cookbook](https://solanacookbook.com/recipes/getting-started.html#install-web3js) ([Code](https://github.com/solana-dev-adv/solana-cookbook))
 - [Where to get best yield on mSOL (marinade) without impermanent loss risk? (2021)](https://www.reddit.com/r/solana/comments/r46s4o/where_to_get_best_yield_on_msol_marinade_without/)
 - [metaplex-auth](https://github.com/nftstorage/metaplex-auth) - Client library for nft.storage designed for metaplex NFT uploads.
+- [What to do with mSOL you get? (2021)](https://www.reddit.com/r/solana/comments/r6ml5h/first_step_stake_sol_in_marinade_2nd_step_msol_to/)
+- [Strata Protocol Protocol](https://strata-beige.vercel.app/) - Lets you effortlessly create Social Tokens and communities of Social Tokens (Collectives) on Solana. ([Code](https://github.com/StrataFoundation/strata))
+- [Katana](https://katana.so/) - Yield Generation Protocol for Solana.

@@ -137,3 +137,4 @@
 - [Transform your twitter following into list](https://github.com/guillaumeLamanda/twitter-follow2list)
 - [Twitter Has a New CEO; What About a New Business Model? (2021)](https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/) ([HN](https://news.ycombinator.com/item?id=29391876))
 - [Twitter Is About to Get Way Worse (2021)](https://bariweiss.substack.com/p/twitter-is-about-to-get-way-worse) ([Tweet](https://twitter.com/jordanbpeterson/status/1466132542571134982))
+- [Twitter Clone in Rust](https://github.com/evoxmusic/twitter-clone-rust)

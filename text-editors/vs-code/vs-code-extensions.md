@@ -11,6 +11,7 @@ Below is a list of extensions I use.
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics. ([Code](https://github.com/usernamehw/vscode-error-lens))
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Your AI pair programmer.
 - [tldraw](https://marketplace.visualstudio.com/items?itemName=tldraw-org.tldraw-vscode) - Extends VS Code with support for tldraw files. ([Code](https://github.com/tldraw/tldraw/tree/main/apps/vscode))
+- [Multi Command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command) - Invoke multiple commands as one command. ([Code](https://github.com/ryuta46/vscode-multi-command))
 
 ## Go
 
@@ -58,6 +59,7 @@ Below is a list of extensions I use.
 
 - [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
 - [Macros](https://marketplace.visualstudio.com/items?itemName=EXCEEDSYSTEM.vscode-macros) - Add a simple JavaScript macro features to your VSCode. ([Code](https://github.com/exceedsystem/vscode-macros))
+- [Stepsize](https://marketplace.visualstudio.com/items?itemName=Stepsize.stepsize) - Issue tracker in IDE. ([Web](https://www.stepsize.com/)) ([Twitter](https://twitter.com/StepsizeHQ))
 - [Simple REST Client](https://github.com/HoangNguyen17193/vscode-simple-rest-client) - Easy to examine your API’s responses directly within Visual Studio Code. Send requests to verify your API.
 - [Postcode](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode) - API client to test and create HTTP/s requests. ([Code](https://github.com/rohinivsenthil/postcode))
 - [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) - Run your tests in the Sidebar. ([Code](https://github.com/hbenl/vscode-test-explorer))
@@ -452,3 +454,4 @@ Below is a list of extensions I use.
 - [Anycode](https://github.com/microsoft/vscode-anycode) - Tree-sitter-based language extension that inaccurately implements popular features like "Outline & Breadcrumbs", "Go to Symbol in Workspace", "Document Highlights" and more..
 - [Ask HN: What extensions/packs of VS Code are must for web/developers to install? (2021)](https://news.ycombinator.com/item?id=29278370)
 - [Opinionated list of essential VS Code extensions (2021)](https://importthis.tech/an-opinionated-list-of-essential-vs-code-extensions) ([Reddit](https://www.reddit.com/r/vscode/comments/qy2hfu/what_vs_code_extensions_do_you_use_heres_my_list/))
+- [vscode-ext](https://github.com/CodeWithSwastik/vscode-ext) - Create VSCode Extensions with python. ([Docs](https://vscode-ext.readthedocs.io/en/latest/))

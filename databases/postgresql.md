@@ -366,6 +366,9 @@
 - [pgTAP](https://pgtap.org/) - Unit Testing for PostgreSQL. ([Code](https://github.com/theory/pgtap))
 - [Pagila](https://github.com/devrimgunduz/pagila) - PostgreSQL Sample Database.
 - [Supabase Studio](https://github.com/supabase/supabase/tree/master/studio) - Dashboard for managing your self-hosted Supabase project, and used on our hosted platform. ([HN](https://news.ycombinator.com/item?id=29401589)) ([Article](https://supabase.com/blog/2021/11/30/supabase-studio))
-- [pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL.
+- [Pg_GraphQL](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL. ([Article](https://supabase.com/blog/2021/12/03/pg-graphql))
 - [Realtime Postgres RLS Now Available on Supabase (2021)](https://supabase.com/blog/2021/12/01/realtime-row-level-security-in-postgresql) ([HN](https://news.ycombinator.com/item?id=29404222))
 - [walrus](https://github.com/supabase/walrus) - Write Ahead Log Realtime Unified Security (WALRUS).
+- [supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase.
+- [skitch](https://github.com/pyramation/skitch) - Create PostgreSQL SQL code quickly and in a streamlined, versioned workflow.
+- [pg2arrow](https://github.com/heterodb/pg2arrow) - PostgreSQL Table to Apache Arrow file converter.

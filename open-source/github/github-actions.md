@@ -142,6 +142,7 @@
 - [Find Comment](https://github.com/peter-evans/find-comment) - GitHub action to find an issue or pull request comment.
 - [kube-tools](https://github.com/stefanprodan/kube-tools) - Kubernetes tools for GitHub Actions CI.
 - [Deploy to Gist](https://github.com/exuanbo/actions-deploy-gist) - Github Action to deploy your file to Github Gist.
+- [Updating GitHub Wiki Pages with GitHub Actions](https://github.com/gfx/example-updating-wiki-with-gha)
 
 ## Go
 

@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md)/[AVAX](https://www.avax.network/)/[Dfinity](https://dfinity.org/) are great [distributed consensus systems for transacting assets and running code](https://twitter.com/levie/status/1461099049461981189) ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins/contracts ([Monero](monero.md)/[SRCT](https://scrt.network/)) to be most interesting use cases of crypto right now.
+I think [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md)/[NEAR](../databases/blockchain/near.md)/[AVAX](https://www.avax.network/)/[Dfinity](https://dfinity.org/) are great [distributed consensus systems for transacting assets and running code](https://twitter.com/levie/status/1461099049461981189) ([smart contracts](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)). And I find [stable coins](https://en.wikipedia.org/wiki/Stablecoin) (tokens that are pegged to another 'real world currency') and privacy coins/contracts ([Monero](monero.md)/[SRCT](https://scrt.network/)/[IronFish](https://ironfish.network/)) to be most interesting use cases of crypto right now.
 
 It's unfortunate that a lot of people/projects use these distributed ledgers as [ponzi schemes](https://twitter.com/eddyb_r/status/1451679543702478860) or [wash trading](https://twitter.com/smdiehl/status/1461301086363529219) or still use [super wasteful consensus systems](https://twitter.com/smdiehl/status/1350869944888664064) (like [Bitcoin](bitcoin.md)).
 
@@ -201,3 +201,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Snapshot](https://snapshot.org/#/) - Off-chain gasless multi-governance client. ([Code](https://github.com/snapshot-labs/snapshot))
 - [Proof of stake is a scam and the people promoting it are scammers (2021)](https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/) ([HN](https://news.ycombinator.com/item?id=29366310))
 - [tbDEX: A Liquidity Protocol White Paper](https://github.com/TBDev-54566975/white-paper/blob/main/whitepaper.pdf)
+- [Crypto world is an ecosystem being fueled by the “House Money Effect” (2021)](https://twitter.com/fintechjunkie/status/1466217991532650496)

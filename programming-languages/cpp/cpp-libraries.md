@@ -297,6 +297,8 @@
 - [SML](https://github.com/boost-ext/sml) - C++14 State Machine Library.
 - [Kokkos](https://github.com/kokkos/kokkos) - Programming model in C++ for writing performance portable applications targeting all major HPC platforms.
 - [CPPItertools](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library.
+- [libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++.
+- [asyncio](https://github.com/netcan/asyncio) - C++20 library to write concurrent code using the async/await syntax.
 
 ## Links
 

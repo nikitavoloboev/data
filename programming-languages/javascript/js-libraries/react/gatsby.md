@@ -84,3 +84,4 @@
 - [TypeScript starter for Gatsby](https://github.com/jpedroschmitz/gatsby-starter-ts) - Great for advanced users.
 - [Monetize Open-Source Software With Gatsby Functions And Stripe (2021)](https://www.smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/)
 - [Gatsby Discord](https://discord.com/invite/gatsby)
+- [Using Deferred Static Generation with Analytics Tools (2021)](https://www.gatsbyjs.com/blog/using-deferred-static-generation-with-analytics-tools/)

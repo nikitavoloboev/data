@@ -124,3 +124,6 @@
 - [High-Level Synthesis For RISC-V (2021)](https://semiengineering.com/high-level-synthesis-for-risc-v/) ([HN](https://news.ycombinator.com/item?id=29028633))
 - [The Genius of the RISC-V Microprocessor - Erik Engheim (2021)](https://www.youtube.com/watch?v=v0ssX-JiV-s)
 - [RISC-V Open Source Supervisor Binary Interface (OpenSBI)](https://github.com/riscv-software-src/opensbi)
+- [RISC-V J Extension Specification](https://github.com/riscv/riscv-j-extension)
+- [“RISC V is a terrible architecture” (2021)](https://gmplib.org/list-archives/gmp-devel/2021-September/006013.html) ([HN](https://news.ycombinator.com/item?id=29420622))
+- [New SiFive RISC-V core P650 with 40% IPC increase (2021)](https://www.sifive.com/press/sifive-raises-risc-v-performance-bar-with-new-best-in-class) ([HN](https://news.ycombinator.com/item?id=29418153))

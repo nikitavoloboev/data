@@ -355,3 +355,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [The internet is held together with spit and baling wire (2021)](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/) ([HN](https://news.ycombinator.com/item?id=29353076))
 - [How The Internet Travels Across Oceans (2021)](https://www.youtube.com/watch?v=yd1JhZzoS6A)
 - [sockdump](https://github.com/mechpen/sockdump) - Dump unix domain socket traffic with bpf.
+- [How Does NTP Work? (2021)](https://sookocheff.com/post/time/how-does-ntp-work/)
+- [Routinator](https://github.com/NLnetLabs/routinator) - RPKI Validator written in Rust.
+- [nats-spy](https://github.com/alihanyalcin/nats-spy) - Terminal tool to help you to monitor NATS messages.

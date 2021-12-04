@@ -413,3 +413,5 @@
 - [textsearch](https://github.com/kootenpv/textsearch) - Find strings/words in text; convenience and C speed.
 - [Mastering spaCy Book (2021)](https://www.packtpub.com/product/mastering-spacy/9781800563353) ([Code](https://github.com/PacktPublishing/Mastering-spaCy))
 - [sense2vec](https://github.com/explosion/sense2vec) - Contextually-keyed word vectors.
+- [Pureformer: Do We Even Need Attention? (2021)](https://arxiv.org/abs/2111.15588)
+- [Knover](https://github.com/PaddlePaddle/Knover) - Toolkit for knowledge grounded dialogue generation based on PaddlePaddle.

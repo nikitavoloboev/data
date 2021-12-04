@@ -43,6 +43,7 @@
 ## Error
 
 - [eio](https://github.com/kowainik/eio) - IO with Exceptions tracked on the type-level.
+- [on-error](https://github.com/Simspace/on-error) - Clearly-delineated error-handling.
 
 ## Graphics
 
@@ -194,6 +195,7 @@
 - [fuzzyfind](https://github.com/runarorama/fuzzyfind) - Haskell library for fuzzy text search.
 - [aeson-typescript](https://github.com/codedownio/aeson-typescript) - Generate TypeScript definition files from your ADTs.
 - [MissingH](https://github.com/haskell-hvr/missingh) - Collection of Haskell-related utilities.
+- [buffer-builder](https://github.com/chadaustin/buffer-builder) - Haskell library for efficiently building up buffers.
 
 ## Notes
 

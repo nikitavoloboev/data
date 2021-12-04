@@ -213,3 +213,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Design for yourself! (Sometimes) (2021)](https://borism.medium.com/design-for-yourself-sometimes-7c9b8118fb63) - Individual creativity has a strong and positive impact on the design process.
 - [Web design & art history](https://webflow.com/web-design-art-history)
 - [Design Masterclass with the best designer I’ve ever met (Raphael Schaad with Cron Calendar) (2021)](https://www.youtube.com/watch?v=2MrNSjJFBBI) ([Tweet](https://twitter.com/raphaelschaad/status/1464262611806171143))
+- [App Store Award Winners 2021](https://apps.apple.com/story/id1591083005)
+- [The Essence of Software: Why Concepts Matter for Great Design (2021)](https://press.princeton.edu/books/hardcover/9780691225388/the-essence-of-software)

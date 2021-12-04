@@ -428,3 +428,5 @@
 - [systemd by example (2021)](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
 - [pier](https://github.com/pier-cli/pier) - Linux script management CLI written in Rust.
 - [Digging into Linux namespaces (2021)](https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html)
+- [Autorandr and Keyd (2021)](https://www.crisidev.org/blog/autorandr/) - Automatic monitor handling and key mapping in Linux.
+- [Distrobox](https://github.com/89luca89/distrobox) - Use any Linux distribution inside your terminal.

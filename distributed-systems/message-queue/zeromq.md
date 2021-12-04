@@ -8,3 +8,4 @@
 - [zproto](https://github.com/zeromq/zproto) - Protocol framework for ZeroMQ.
 - [ZeroMQ Guide](https://zguide.zeromq.org/)
 - [PyZMQ](https://github.com/zeromq/pyzmq) - Python bindings for zeromq.
+- [zmq.rs](https://github.com/zeromq/zmq.rs) - Native Rust implementation of ZeroMQ.

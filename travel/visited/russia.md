@@ -361,3 +361,5 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Russia around the period of the Russian Revolution in color! (1917-1919) [A.I. enhanced & colorized]](https://www.youtube.com/watch?v=Buk1dBv8h88)
 - [Books for objective history book on the USSR (2021)](https://www.reddit.com/r/suggestmeabook/comments/r5q9an/recommendations_for_objective_history_book_on_the/)
 - [Как переписывают историю в России, США и по всему миру (2021)](https://www.youtube.com/watch?v=zUzQlrZenmQ)
+- [The awkward renewal of Russia’s cities (2021)](https://www.ridl.io/en/the-awkward-renewal-of-russia-s-cities/)
+- [Интерфакс: новости](https://www.interfax.ru/)

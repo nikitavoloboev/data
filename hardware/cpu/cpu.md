@@ -120,3 +120,5 @@
 - [n2t-wasm](https://github.com/abhaynayar/n2t-wasm) - Emulator for the nand2tetris computer (Hack CPU).
 - [memu](https://github.com/hlandau/memu) - ARMv8-M/Cortex-M emulator/simulator.
 - [SCAMP CPU](https://github.com/jes/scamp-cpu) - Homebrew 16-bit CPU with a homebrew Unix-like-ish operating system. ([Web](https://incoherency.co.uk/scamp/))
+- [mainspring](https://github.com/ncatelli/mainspring) - CPU and device simulation framework focused on extensibility and flexibility of hardware layouts.
+- [Why It’s So Difficult – and Costly – To Secure Chips (2021)](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/) ([HN](https://news.ycombinator.com/item?id=29417927))

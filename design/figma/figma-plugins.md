@@ -73,3 +73,4 @@
 - [Chunk Icons](https://www.figma.com/community/file/889863427421594653) - Set of 144 consistent & commonly-needed glyphs, all tailored to look nice and sharp at 16px.
 - [Atlas](https://jwels.berlin/atlas/) - Figma plugin to manage your themes.
 - [Figsvelte](https://github.com/thomas-lowry/figsvelte) - Boilerplate for creating Figma plugins with Svelte.
+- [Excalidraw Pad](https://www.figma.com/community/widget/1047391719101881118)

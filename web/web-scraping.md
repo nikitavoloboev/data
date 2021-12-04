@@ -127,3 +127,4 @@
 - [Marple](https://github.com/soxoj/marple) - Collect links to profiles by username through search engines.
 - [Web Scraping with Go (2021)](https://www.scrapingbee.com/blog/web-scraping-go/) ([Reddit](https://www.reddit.com/r/golang/comments/qw0io1/web_scraping_with_go/))
 - [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username from thousands of sites.
+- [Notes on Writing Web Scrapers (2021)](https://cushychicken.github.io/rules-for-web-scrapers/)

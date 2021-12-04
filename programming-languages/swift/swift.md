@@ -251,3 +251,5 @@
 - [Set of blog posts about Swift Coding](https://github.com/stevencurtis/SwiftCoding)
 - [Swift actors: How do they work, and what kinds of problems do they solve? (2021)](https://www.swiftbysundell.com/articles/swift-actors/)
 - [Modern Concurrency in Swift Book (2021)](https://www.raywenderlich.com/books/modern-concurrency-in-swift) ([Code](https://github.com/raywenderlich/mcon-materials))
+- [Result builders in Swift (2021)](https://theswiftdev.com/result-builders-in-swift/)
+- [What role do Tasks play within Swift’s concurrency system? (2021)](https://swiftbysundell.com/articles/the-role-tasks-play-in-swift-concurrency/)

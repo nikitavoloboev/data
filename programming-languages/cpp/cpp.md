@@ -276,3 +276,4 @@
 - [C++ Python-like Decorators](https://github.com/TheMaverickProgrammer/C-Python-like-Decorators) - How to write decorator functions in modern C++.
 - [An 'Attempt' to avoid C++ exceptions (2021)](https://genodians.org/nfeske/2021-11-26-attempt-no-exceptions)
 - [Modern C++ command line tool template](https://github.com/demidko/utility)
+- [Software Tools in C++](https://www.jezuk.co.uk/tags/software-tools-in-c++.html) ([HN](https://news.ycombinator.com/item?id=29412246))

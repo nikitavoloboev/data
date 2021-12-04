@@ -183,3 +183,6 @@
 - [Abstract Clojure (2021)](https://www.juxt.pro/blog/abstract-clojure)
 - [Clojure and ClojureScript Posts](https://quanttype.net/tags/clojure.html)
 - [makejack](https://github.com/hugoduncan/makejack) - Clojure CLI build tool, and build library.
+- [Typed Clojure](https://github.com/typedclojure/typedclojure) - Optional typing in Clojure, as a library.
+- [London Clojurians - YouTube](https://www.youtube.com/c/LondonClojurians/videos)
+- [re:Clojure Conference 2021](https://www.youtube.com/watch?v=3C1QQXEg_F8)

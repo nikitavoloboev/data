@@ -74,3 +74,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [htop](https://github.com/htop-dev/htop) - Cross-platform interactive process viewer. ([Web](https://htop.dev/))
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [Ask HN: What are the best and worst command-line interfaces you have used? (2021)](https://news.ycombinator.com/item?id=29329607)
+- [Command Line Magic Twitter](https://twitter.com/climagic) ([Web](http://www.climagic.org/))

@@ -494,4 +494,7 @@
 - [Overengineering can kill a product (2021)](https://www.mindtheproduct.com/overengineering-can-kill-your-product/) ([HN](https://news.ycombinator.com/item?id=29328761))
 - [Programming as Theory Building Paper by Peter Naur (1985)](https://hackernoon.com/programming-as-theory-building-lts3eqr)
 - [Corey Schafer's Code Snippets](https://github.com/CoreyMSchafer/code_snippets)
-- [A Case Study in Incrementally Improving Code (2021)](https://noelwelsh.com/posts/a-case-study-in-incrementally-improving-code/)
+- [A Case Study in Incrementally Improving Code (2021)](https://noelwelsh.com/posts/a-case-study-in-incrementally-improving-code/) ([Tweet](https://twitter.com/pcwalton/status/1466350917133889541))
+- [What are your "strongly held programming beliefs"? (2021)](https://www.reddit.com/r/ExperiencedDevs/comments/r6zf75/what_are_your_strongly_held_programming_beliefs/)
+- [Writing Maintainable Code is a Communication Skill (2021)](https://max.engineer/maintainable-code)
+- [Mindful Code Reviews (2021)](https://max.engineer/mindful-code-reviews) ([HN](https://news.ycombinator.com/item?id=29396515))

@@ -286,3 +286,4 @@
 - [Embodied](https://github.com/danijar/embodied) - Fast reinforcement learning research.
 - [Permutation-Invariant Neural Networks for Reinforcement Learning (2021)](https://blog.otoro.net/2021/11/18/attentionneuron/) ([HN](https://news.ycombinator.com/item?id=29364890))
 - [Only RL setting worth studying is the MDP (2021)](https://twitter.com/jacobmbuckman/status/1464327006489829378) ([Tweet](https://twitter.com/luisa_zintgraf/status/1465359423061307400))
+- [Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy (2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) ([Code](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020))

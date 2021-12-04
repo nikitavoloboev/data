@@ -36,3 +36,4 @@
 - [Async PRAW](https://github.com/praw-dev/asyncpraw) - Asynchronous Python Reddit API Wrapper. ([Docs](https://asyncpraw.readthedocs.io/en/stable/))
 - [Reddit 1.0 Code](https://github.com/reddit-archive/reddit1.0) - In Common Lisp.
 - [Pushshift Reddit API Documentation](https://github.com/pushshift/api)
+- [The Ultimate Guide to Unbundling Reddit (2020)](https://latecheckout.substack.com/p/the-ultimate-guide-to-unbundling) ([HN](https://news.ycombinator.com/item?id=29420100))

@@ -565,3 +565,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [SuperTunnel](https://supertunnel.app/) - Educational tool that simulates a hole through Earth. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/r3xe9g/find_out_whats_on_the_other_side_of_the_world/)) ([Code](https://github.com/vsueiro/supertunnel))
 - [Wikipedia as the data source: taming the irregular (2021)](https://zverok.github.io/blog/2021-11-30-irregular1.html)
 - [Lens Calculator](https://www.jvsg.com/calculators/cctv-lens-calculator/) - Calculate CCTV camera lens focal length, pixel density and camera zones in 3D.
+- [TXQR](https://github.com/divan/txqr) - Transfer data via animated QR codes.
+- [Emoji to Scale](https://javier.xyz/emoji-to-scale/) ([HN](https://news.ycombinator.com/item?id=29425735)) ([Code](https://github.com/javierbyte/emoji-to-scale))

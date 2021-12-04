@@ -79,3 +79,4 @@
 - [IoT Nixie Tubes (2021)](https://bert.org/2021/11/16/iot-nixie-tubes/) ([HN](https://news.ycombinator.com/item?id=29244225))
 - [Rust IoT Radio Abstraction(s)](https://github.com/rust-iot/radio-hal)
 - [Toit](https://toit.io/) - IoT software platform for the ESP32.
+- [aws-iot-device-sdk-go](https://github.com/seqsense/aws-iot-device-sdk-go) - Implements AWS IoT presigned WebSockets dialer and AWS IoT features.

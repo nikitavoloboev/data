@@ -215,8 +215,11 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [node-mac-userdefaults](https://github.com/codebytere/node-mac-userdefaults) - Native Node.js module that provides an interface to the user’s defaults database on macOS.
 - [Resources about macOS/iOS system security](https://github.com/houjingyi233/macOS-iOS-system-security)
 - [asitop](https://github.com/tlkh/asitop) - Performance monitoring CLI tool for Apple Silicon. ([Web](https://tlkh.github.io/asitop/))
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM.
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. ([HN](https://news.ycombinator.com/item?id=29426862))
 - [macOS Optimizer](https://github.com/sickcodes/osx-optimizer) - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
 - [How to sync multiple macs (work/personal) (2021)](https://twitter.com/tenderlove/status/1461461938592878594)
 - [Mach-O Binaries (2015)](http://www.m4b.io/reverse/engineering/mach/binaries/2015/03/29/mach-binaries.html)
 - [Explainer: .DS_Store Files (2021)](https://eclecticlight.co/2021/11/27/explainer-ds_store-files/) ([HN](https://news.ycombinator.com/item?id=29358932))
+- [Interview with Hansen Hsu, engineer at Apple during transition from OS 9 to OS X (2021)](https://corecursive.com/cocoa-culture-with-hansen-hsu/) ([Lobsters](https://lobste.rs/s/0subb0/cocoa_culture)) ([HN](https://news.ycombinator.com/item?id=29424245))
+- [optool](https://github.com/alexzielenski/optool) - Command Line Tool for interacting with MachO binaries on macOS/iOS.
+- [mkuser](https://github.com/freegeek-pdx/mkuser) - Make user accounts for macOS with many advanced options.

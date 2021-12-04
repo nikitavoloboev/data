@@ -28,3 +28,4 @@
 - [Rust CUDA](https://github.com/RDambrosio016/Rust-CUDA) - Extremely fast GPU code fully in Rust. ([HN](https://news.ycombinator.com/item?id=29311709)) ([Reddit](https://www.reddit.com/r/rust/comments/qzv428/announcing_the_rust_cuda_project_an_ecosystem_of/))
 - [cuda-toolkit](https://github.com/Jimver/cuda-toolkit) - GitHub Action to install CUDA.
 - [Koila](https://github.com/rentruewang/koila) - Prevent `CUDA error: out of memory` in just 1 line of code.
+- [ICPCUDA](https://github.com/mp3guy/ICPCUDA) - Super fast implementation of ICP in CUDA for compute capable devices 3.5 or higher.

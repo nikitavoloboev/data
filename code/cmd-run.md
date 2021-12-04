@@ -54,4 +54,7 @@ alias
 
 # List VSCode installed packages
 code --list-extensions
+
+# convert video to GIF
+ffmpeg -i http://myVideo.mov myVideo.gif
 ```

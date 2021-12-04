@@ -25,3 +25,4 @@
 - [Get Started with the AWS Amplify Admin UI (2020)](https://egghead.io/playlists/get-started-with-the-amplify-admin-ui-9e79)
 - [Amplify Codegen](https://github.com/aws-amplify/amplify-codegen) - JavaScript toolkit library for frontend and mobile developers building Amplify applications.
 - [Prototype Fullstack Apps without an AWS Account using AWS Amplify (2021)](https://dev.to/codebeast/prototype-fullstack-apps-with-zero-account-setup-using-aws-amplify-5872)
+- [AWS Amplify Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/) ([Tweet](https://twitter.com/ericclemmons/status/1466467457816801290)) ([HN](https://news.ycombinator.com/item?id=29427883))

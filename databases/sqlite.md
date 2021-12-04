@@ -124,3 +124,4 @@
 - [SQLite Viewer](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer) - SQLite Viewer for VSCode. ([Code](https://github.com/qwtel/sqlite-viewer-vscode))
 - [SQLite in a PWA (Anita) with FileSystemAccessAPI (2021)](https://anita-app.com/blog/articles/sqlite-in-a-pwa-with-file-system-access-api.html) ([HN](https://news.ycombinator.com/item?id=29403661))
 - [Production Applications Using SQLite & Go (2021)](https://github.com/benbjohnson/production-sqlite-go)
+- [Verneuil](https://github.com/backtrace-labs/verneuil) - S3-backed asynchronous replication for SQLite. ([Article](https://engineering.backtrace.io/2021-12-02-verneuil-s3-backed-asynchronous-replication-for-sqlite/))

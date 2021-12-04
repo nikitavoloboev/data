@@ -25,6 +25,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [It took me like a year to condense a paragraph of “what is a nerd?” into “directed by curiosity”, and “what is friendship?” into “shared understanding”, and I have been quite seriously considering that my definition of ambition is in the ballpark of “cursed with giving a shit”.](https://twitter.com/visakanv/status/1461633919695032320)
 - [How we spend our days is, of course, how we spend our lives.](https://twitter.com/lorde)
 - [Die with memories, not dreams.](https://twitter.com/rubenharris/status/1464220512830124032)
+- [There Are No Adults. Everyone's making it up as they go along. Figure it out yourself, and do it.](https://twitter.com/NavalBot/status/1465772676291743747)
 
 ## Links
 
@@ -89,3 +90,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Ask HN: What is something important I should start doing in my 20s? (2021)](https://news.ycombinator.com/item?id=29347579)
 - [You can't win](https://twitter.com/maccaw/status/1464264533623676928)
 - [Physical Models of Living Systems | Philip Nelson Book (2014)](https://www.physics.upenn.edu/biophys/PMLS/) ([Tweet](https://twitter.com/redblobgames/status/1466191200315080710))
+- [Computer-designed organisms](https://cdorgs.github.io/) ([Article](https://arstechnica.com/science/2021/11/mobile-clusters-of-cells-can-help-assemble-a-mini-version-of-themselves/))

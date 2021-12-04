@@ -33,3 +33,4 @@ I like to believe in the idea of [Pantheism](https://plato.stanford.edu/entries/
 - [The self is not singular but a fluid network of identities (2021)](https://aeon.co/essays/the-self-is-not-singular-but-a-fluid-network-of-identities)
 - [Alan Watts - Get Rid Of Your Ego](https://www.youtube.com/watch?v=m8TCFWNZx2o)
 - [Alan Watts ~ The Purpose Of The Ego](https://www.youtube.com/watch?v=pfROCVjMdrU)
+- [How "I am god" experience influenced you?](https://www.reddit.com/r/RationalPsychonaut/comments/r743eh/the_i_am_god_experience_how_have_others/)

@@ -52,6 +52,7 @@
 - [Mandatory PTO, besides being good for the wellness of the employees, ensures nobody in your org is solely relied on for a task or responsibility. Nobody should be a keystone. Smart leaders should make PTO hours taken over x time a deliverable.](https://twitter.com/r0wdy_/status/1443595429271285762)
 - [Don’t evaluate others based on their function, but rather their contribution to the mission. Recruiters are an extension of your team.](https://twitter.com/laserlikemike/status/1459534198318854151)
 - [Job posts of the future: Here's a task. We'll pay you to do it. If we're both happy, we'll keep going.](https://twitter.com/stephsmithio/status/1466076624189902851)
+- [Training new hires: 1. Prepare good documentation. 2. Be on a call with them when you have to explain stuff verbally. 3. Be available in text chat to answer their questions.](https://news.ycombinator.com/item?id=29376226)
 
 ## Links
 

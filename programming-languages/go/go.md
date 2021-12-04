@@ -638,3 +638,5 @@ if err != nil {
 - [GopherCon UK 2021 - YouTube](https://www.youtube.com/playlist?list=PLDWZ5uzn69ex0U5MmbKWorsTuVBgUePxw)
 - [Faster Top Level Domain Name Extraction with Go (2021)](https://tech.marksblogg.com/rdns-domain-name-tld-extract-golang.html) ([Lobsters](https://lobste.rs/s/emrwnm/faster_top_level_domain_name_extraction))
 - [Go memory watchdog](https://github.com/raulk/go-watchdog) - Library to curb OOMs by running Go GC according to a user-defined policy.
+- [Go's io/fs package, with a touch of embed (2021)](https://www.youtube.com/watch?v=9H2m_-xT4Iw)
+- [Search over a Go corpus](https://quasilyte.dev/gocorpus/) ([Code](https://github.com/quasilyte/gocorpus))

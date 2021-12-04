@@ -54,3 +54,5 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Bluelight.org](https://www.bluelight.org/xf/)
 - [What’s the druggiest drug to you? (2021)](https://www.reddit.com/r/Drugs/comments/r2but1/whats_the_druggiest_drug_to_you/)
 - [What are your personal favorite drugs in every category? (2021)](https://www.reddit.com/r/researchchemicals/comments/r5jsau/what_are_your_personal_favorites_in_every_category/)
+- [Whats your top 5 drugs guys? (2021)](https://www.reddit.com/r/Drugs/comments/r77s7v/whats_your_top_5_drugs_guys/)
+- [What’s the most addictive drug you have tried? And why? (2021)](https://www.reddit.com/r/Drugs/comments/r7b4rk/whats_the_most_addictive_drug_you_have_tried_and/)

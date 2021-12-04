@@ -1,6 +1,6 @@
 # Chess
 
-Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) & enjoy watching [great chess games](https://lichess.org/games) & listening to [game analysis](https://www.youtube.com/user/RosenChess/videos). [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx), [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) &
+Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) & enjoy watching [great chess games](https://lichess.org/games) & listening to [game analysis](https://www.youtube.com/user/RosenChess/videos). [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen), [Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi), [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx), [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) &
 [Teimour Radjabov](https://www.youtube.com/c/TeimourRadjabovChess/videos) games are joy to watch.
 
 [Gotham Chess](https://www.youtube.com/c/GothamChess/videos), [Eric Rosen](https://www.youtube.com/user/RosenChess/videos) and [Daniel Naroditsky](https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw/videos) have lots of videos to learn Chess from + enjoyable commentary.
@@ -9,11 +9,13 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 
 - [Jan-Krzysztof Duda](https://www.youtube.com/results?search_query=Jan-Krzysztof+Duda)
 - [Morozevich, Alexander](https://ratings.fide.com/profile/4116992)
+- [Vladimir Kramnik](https://www.chess.com/players/vladimir-kramnik)
 
 ## Favorite games
 
-- [World Chess Championship: Magnus vs Ian (2021)](https://www.youtube.com/watch?v=CcXcdoG0W2c&t=2s) ([Talk after](https://www.youtube.com/watch?v=ld-RZLyWrvg)) ([Reddit](https://www.reddit.com/r/chess/comments/r3i5m5/2021_world_championship_game_2_post_game_player/))
+- [World Chess Championship: Magnus vs Ian Game 2 (2021)](https://www.youtube.com/watch?v=CcXcdoG0W2c&t=2s) ([Talk after](https://www.youtube.com/watch?v=ld-RZLyWrvg)) ([Reddit](https://www.reddit.com/r/chess/comments/r3i5m5/2021_world_championship_game_2_post_game_player/))
 - [Carlsen-Morozevich, World Blitz Championship 2012](https://www.youtube.com/watch?v=-wRdgOllrzM)
+- [World Chess Championship: Magnus vs Ian Game 6 (2021)](https://www.youtube.com/watch?v=PmQs1KhB948) ([HN](https://news.ycombinator.com/item?id=29434818)) ([Reddit](https://www.reddit.com/r/chess/comments/r882k8/postgame_thread_2021_world_chess_championship/))
 
 ## Notes
 
@@ -152,3 +154,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Acquisition of Chess Knowledge in AlphaZero (2021)](https://arxiv.org/abs/2111.09259) ([Article](https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero)) ([HN](https://news.ycombinator.com/item?id=29272000))
 - [Typesetting Chess in LATEX with the skak Package (2018)](http://tug.ctan.org/fonts/skak/doc/skakdoc.pdf)
 - [How Magnus Carlsen Became World Champion (2021)](https://www.youtube.com/watch?v=RcXZDc9T02I)
+- [Why you should play the Sicilian (2021)](https://www.youtube.com/watch?v=P7ig6AFXB00)
+- [Your favorite chess openings (2021)](https://www.reddit.com/r/chess/comments/r79is6/which_openingvariation_is_your_favorite_even/)
+- [The Top Chess Players in the World - Chess.com](https://www.chess.com/players)
+- [Chess Database](https://www.chess.com/games)

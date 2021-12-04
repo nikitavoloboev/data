@@ -100,6 +100,7 @@
 - [xv](https://github.com/typicode/xv) - Simple, fast and small test runner.
 - [Peeky](https://github.com/Akryum/peeky) - Test framework for the curious minds. ([Web](https://peeky.netlify.app/))
 - [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js.
+- [JSVerify](https://github.com/jsverify/jsverify) - Property-based checking. Like QuickCheck.
 
 ## State management
 
@@ -683,6 +684,9 @@
 - [h3-js](https://github.com/uber/h3-js) - JavaScript version of H3, a hexagon-based geospatial indexing system.
 - [Floating UI](https://github.com/atomiks/floating-ui) - JavaScript positioning library for tooltips, popovers, dropdowns, and more. ([Web](https://www.floating-ui.com/))
 - [flow-field](https://github.com/romellogoodman/flow-field.js) - Library for generating flow fields.
+- [taki](https://github.com/egoist/taki) - Take a snapshot of any website.
+- [Zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense.
+- [Moo](https://github.com/no-context/moo) - Highly-optimized tokenizer/lexer generator. Use it to tokenize your strings, before parsing 'em with a parser.
 
 ## Links
 

@@ -5,7 +5,7 @@
 - [Make](../ideas/ideas.md). [Learn](../sharing/everything-I-know.md). [Write](../sharing/my-articles.md). [Design](../design/design.md). [Share](../sharing/sharing.md).
 - Set [tasks](../macOS/apps/2do.md) & [goals](../focusing/goals.md). [Plan](../macOS/apps/fantastical.md). [Focus](../focusing/focusing.md).
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm. Value time.
-- First make it work. Then optimize.
+- First make it work. Then optimize (pretty, efficient, documented).
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document everything ([thoughts](../life/journaling.md)/[decisions](../psychology/decision-making.md)/[processes](https://twitter.com/dunkhippo33/status/1453604780996132865)/[knowledge](../other/wiki-workflow.md)). Learn/Build in public.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need. [Focus on things I can control](https://twitter.com/techgirl1908/status/1450569064414388233).
 - Cut out noise (no analytics, likes..). No time wasted. Decide on what matters to me. Focus on it. Maximize impact & growth. Filter consumed information to optimize for signal.

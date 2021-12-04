@@ -43,3 +43,4 @@
 - [Using Prolog for Sudoku Variants (2021)](http://dstrohmaier.com/sudoku-prolog/) ([HN](https://news.ycombinator.com/item?id=27886733))
 - [Trealla Prolog](https://github.com/infradig/trealla) - Compact, efficient Prolog interpreter written in plain-old C.
 - [Demo of a WAM Prolog Implementation in Python](https://github.com/brunokim/prol) ([HN](https://news.ycombinator.com/item?id=28720000))
+- [Simple examples for new Prolog programmers](https://github.com/Anniepoo/prolog-examples)

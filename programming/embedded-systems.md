@@ -152,3 +152,5 @@
 - [Toit](https://github.com/toitlang/toit) - Program your micro-controllers in a fast and robust high-level language. ([Open Source Release](https://blog.toit.io/the-toit-language-is-now-open-source-14bdcb1604d9)) ([HN](https://news.ycombinator.com/item?id=29304614))
 - [Hubris](https://hubris.oxide.computer/) - Small open-source operating system for deeply-embedded computer systems. ([Code](https://github.com/oxidecomputer/hubris)) ([HN](https://news.ycombinator.com/item?id=29390751)) ([Tweet](https://twitter.com/steveklabnik/status/1465689502060535808))
 - [Humility](https://github.com/oxidecomputer/humility) - Debugger for Hubris.
+- [Hubris and Humility (2021)](https://oxide.computer/blog/hubris-and-humility)
+- [On Hubris and Humility: developing an OS for robustness in Rust (2021)](https://talks.osfc.io/osfc2021/talk/JTWYEH/)

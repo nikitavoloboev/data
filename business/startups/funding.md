@@ -139,3 +139,5 @@
 - [Party Round](https://partyround.com/) - Automated fundraising tool for founders. ([Twitter](https://twitter.com/PartyRound))
 - [Introducing Calm Company Scouts | Calm Company Fund (2021)](https://calmfund.com/writing/introducing-calm-company-scouts)
 - [Moth Minds](https://www.mothminds.com/) - Fund individuals doing work you believe in. ([Twitter](https://twitter.com/mothminds)) ([HN](https://news.ycombinator.com/item?id=29407858))
+- [YC Founders Made These Fundraising Mistakes (2021)](https://www.youtube.com/watch?v=6606a2ka-jQ) ([HN](https://news.ycombinator.com/item?id=29385033))
+- [Rhetoric](https://www.rhetoric.app/) - Pitch feedback for founders.

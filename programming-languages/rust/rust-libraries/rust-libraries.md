@@ -214,6 +214,7 @@
 - [Flou](https://github.com/Asha20/flou) - Flowchart description language. ([Docs](https://asha20.github.io/flou/)) ([Reddit](https://www.reddit.com/r/rust/comments/qrgjky/excited_to_share_my_first_crate_flou_a_flowchart/))
 - [geom3d](https://github.com/J-F-Liu/geom3d) - Data structures and algorithms for 3D geometric modeling.
 - [dolly](https://github.com/h3r2tic/dolly) - Composable camera rigs.
+- [gpgpu](https://github.com/UpsettingBoy/gpgpu-rs) - Simple GPGPU framework for Rust built on top of wgpu.
 
 ## Games
 
@@ -420,6 +421,7 @@
 - [macro-attr](https://github.com/DanielKeep/rust-custom-derive) - Custom derivation macro for Rust.
 - [deepsize](https://github.com/Aeledfyr/deepsize) - Trait and derive macro to recursively find the size of an object and the size of allocations that it owns.
 - [async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions.
+- [byteme](https://github.com/breuHQ/byteme) - Proc-macro to get Vec<u8> from struct and vise versa.
 
 ## Math
 
@@ -439,7 +441,7 @@
 - [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter. ([HN](https://news.ycombinator.com/item?id=25956502)) ([Maturin - Build and publish crates with pyo3](https://github.com/PyO3/maturin))
 - [actix](https://github.com/actix/actix)
 - [tokio](https://github.com/tokio-rs/tokio)
-- [nom](https://github.com/Geal/nom) - Parser combinators library.
+- [nom](https://github.com/Geal/nom) - Parser combinators library. ([Tutorial](https://github.com/benkay86/nom-tutorial))
 - [nom-derive](https://github.com/rust-bakery/nom-derive) - Declarative parsing for Rust, using a custom derive and nom.
 - [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures.
 - [Futures await](https://github.com/alexcrichton/futures-await) - Async/await syntax and the [futures](https://crates.io/crates/futures) crate.
@@ -1250,6 +1252,7 @@
 - [cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage.
 - [Cargo rdme](https://github.com/orium/cargo-rdme) - Cargo command to create the readme.md from your crate's documentation.
 - [cargo-script](https://github.com/DanielKeep/cargo-script) - Cargo subcommand designed to let people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem.
+- [cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects.
 
 ## Links
 
@@ -1316,3 +1319,4 @@
 - [Pinning in plain English (2021)](https://blog.schichler.dev/pinning-in-plain-english-ckwdq3pd0065zwks10raohh85) ([HN](https://news.ycombinator.com/item?id=29359521))
 - [Build environment for third-party Rust crates](https://github.com/rust-lang/crates-build-env)
 - [cargo2nix](https://github.com/cargo2nix/cargo2nix) - Build Rust crates with Nix.
+- [Async Applied](https://github.com/benkay86/async-applied) - Practical examples of the Rust async ecosystem.

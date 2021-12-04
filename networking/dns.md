@@ -157,3 +157,7 @@
 - [LDNS](https://github.com/NLnetLabs/ldns) - DNS library that facilitates DNS tool programming. ([Web](https://nlnetlabs.nl/projects/ldns/about/))
 - [Go-Wild-DNS](https://github.com/AndrianBdn/go-wild-dns) - Micro DNS-server that implements wildcard-ip DNS magic functionality.
 - [The case of the recursive resolvers: What happened during Slack’s DNSSEC rollout (2021)](https://slack.engineering/what-happened-during-slacks-dnssec-rollout/) ([HN](https://news.ycombinator.com/item?id=29378633))
+- [It is always the DNS (2021)](https://ruben.is.verweg.com/blog/2021/12/01/it-is-always-the-dns) ([HN](https://news.ycombinator.com/item?id=29408754))
+- [domain](https://github.com/NLnetLabs/domain) - DNS library for Rust.
+- [NLnet Labs](https://nlnetlabs.nl/) - Serving the Internet community since 1999 with core infrastructure tools for DNS and BGP. ([GitHub](https://github.com/NLnetLabs))
+- [How to use Dig (2021)](https://jvns.ca/blog/2021/12/04/how-to-use-dig/) ([HN](https://news.ycombinator.com/item?id=29441333))

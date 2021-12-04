@@ -1,8 +1,6 @@
 # [Unix](http://en.wikipedia.org/wiki/Unix)
 
-Unix is pretty amazing for many things.
-
-I mostly love its philosophy of making small composable tools that do one thing and do it well.
+[Unix philosophy is to make everything composable with lots of tiny individual programs doing one thing and communicating through text outputs.](https://twitter.com/chigbarg/status/1466497684953440259)
 
 ## Notes
 

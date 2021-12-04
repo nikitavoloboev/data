@@ -296,3 +296,4 @@
 - [Production-Grade Next.js](https://production-grade-nextjs.vercel.app/) ([Code](https://github.com/Hendrixer/production-grade-nextjs))
 - [Open-Source Auth for NextJS (2021)](https://ory.dev/login-spa-react-nextjs-authentication-example-api-open-source/) ([HN](https://news.ycombinator.com/item?id=29329610))
 - [Let's build Twitter with (Next.js, Tailwind CSS, Firebase v9, NextAuth, Recoil) (2021)](https://www.youtube.com/watch?v=5Wak0iyGCrc) ([Code](https://github.com/lukef7fywmrp/twitter-clone))
+- [An Inconsistent Truth: Next.js and Type Safety (2021)](https://t3.gg/blog/posts/types-and-nextjs)

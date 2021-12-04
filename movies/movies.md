@@ -71,3 +71,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [What are your favorite movie podcasts? (2021)](https://www.reddit.com/r/Letterboxd/comments/qy8ojg/what_are_your_favorite_movie_podcasts/)
 - [Evemovies Bot](https://github.com/dmbaranov/evemovies-bot) - Track torrent releases of movies.
 - [Mood2Movie: Top-rated movies based on your mood](https://www.mood2movie.com/) ([HN](https://news.ycombinator.com/item?id=29359966))
+- [Best movies that involve gambling as the main event?](https://www.reddit.com/r/MovieSuggestions/comments/r776gl/best_movies_that_involve_gambling_as_the_main/)

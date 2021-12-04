@@ -397,3 +397,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
 - [Smock](https://github.com/defi-wonderland/smock) - Solidity mocking library.
 - [Interfaces for turbo-geth components](https://github.com/ledgerwatch/interfaces)
+- [Proofs of Custody (2021)](https://dankradfeist.de/ethereum/2021/09/30/proofs-of-custody.html)
+- [Roadmap diagram for where Ethereum protocol development is at and what's coming in what order (2021)](https://twitter.com/VitalikButerin/status/1466411377107558402)

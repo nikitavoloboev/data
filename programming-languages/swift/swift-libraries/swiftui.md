@@ -77,7 +77,7 @@
 - [Inline wrapping of UIKit or AppKit views within SwiftUI (2020)](https://www.swiftbysundell.com/tips/inline-wrapping-of-uikit-or-appkit-views-within-swiftui/)
 - [SwiftUI mix and match (2020)](https://www.swiftbysundell.com/tips/swiftui-mix-and-match/)
 - [All SwiftUI property wrappers explained and compared (2020)](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)
-- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) ([Notes](https://muan.co/pages/hacking-with-swift/))
 - [SwiftUI Inspector](https://swiftui.ai/) - Production-quality code straight from your favorite design tool.
 - [Multiplatform Messages app for macOS, iOS, iPadOS in SwiftUI](https://github.com/jordansinger/messages-multiplatform-swiftui-sample)
 - [A guide to SwiftUI’s state management system (2020)](https://swiftbysundell.com/articles/swiftui-state-management-guide/)

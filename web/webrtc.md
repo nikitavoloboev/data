@@ -69,3 +69,4 @@
 - [WebRTCStats](https://github.com/peermetrics/webrtc-stats) - Helps you collect stats for peer connections.
 - [Socket.IO P2P](https://github.com/socketio/socket.io-p2p) - Easy and reliable way to setup a WebRTC connection between peers and communicate using events.
 - [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm) - Create a swarm of p2p connections using webrtc and a signalhub.
+- [Establish WebRTC connection without a signaling server using nothing but Web Push (2021)](https://jimmy.warting.se/2021/02/16/p2p-signal-with-webpush.html)

@@ -303,3 +303,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Another Video Player](https://github.com/rust-av/avp) - Simple player based on rust-av and SDL2.
 - [Shotstack](https://shotstack.io/) - Cloud Video Editing API.
 - [Awesome Video](https://github.com/krzemienski/awesome-video) - Curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
+- [Astrofox](https://astrofox.io/) - Turn audio into amazing videos. ([Code](https://github.com/astrofox-io/astrofox))

@@ -118,6 +118,7 @@
 - [MidiTok](https://github.com/Natooz/MidiTok) - A convenient MIDI tokenizer for Deep Learning networks, with multiple encoding strategies.
 - [ngrid](https://www.ngrid.io/) - Revolutionary way to compose music.
 - [Phrasa](https://github.com/progressive-instruments/phrasa) - Language for Making Music.
+- [meSing.js](https://github.com/usdivad/mesing) - JavaScript singing synthesis library.
 
 ## Inspiration
 

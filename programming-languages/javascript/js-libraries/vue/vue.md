@@ -91,3 +91,4 @@
 - [Vuestic UI](https://vuestic.dev/) - Vue.js 3.0 UI Framework. ([Code](https://github.com/epicmaxco/vuestic-ui))
 - [Explore Nuxt Modules](https://modules.nuxtjs.org/) ([Code](https://github.com/nuxt/modules))
 - [Vue 3 Spring](https://github.com/ismail9k/vue3-spring) - Spring-physics based animation library, and more.
+- [Things you wish Vue docs explained better (2021)](https://twitter.com/youyuxi/status/1466065644487528449)

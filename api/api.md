@@ -20,6 +20,7 @@
 - [GitHub Python](https://github.com/PyGithub/PyGithub)
 - [GitHub Julia](https://github.com/JuliaWeb/GitHub.jl)
 - [GitHub OCaml](https://github.com/tmcgilchrist/ocaml-gitlab)
+- [GitHub Haskell](https://github.com/phadej/github)
 - [GitHub Gists Python](https://github.com/softvar/simplegist) - Advanced python wrapper for Github Gist API.
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
@@ -291,3 +292,5 @@
 - [The Little Manual of API Design (2008)](https://www.cs.vu.nl/~jbe248/api-design.pdf)
 - [Remote Execution API](https://github.com/bazelbuild/remote-apis) - API that, at its most general, allows clients to request execution of binaries on a remote system.
 - [SwagGen](https://github.com/yonaskolb/SwagGen) - OpenAPI/Swagger 3.0 Parser and Swift code generator.
+- [6 API lessons learned over the last 15 years by AWS (2021)](https://twitter.com/jeremy_daly/status/1466462794610470914)
+- [Don’t Build A General Purpose API To Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)

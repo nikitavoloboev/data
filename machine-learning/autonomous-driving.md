@@ -47,3 +47,4 @@
 - [Self-Parking Car Evolution](https://trekhleb.dev/self-parking-car-evolution/#/) - Training the car to do self-parking using genetic algorithm. ([Code](https://github.com/trekhleb/self-parking-car-evolution))
 - [Samples for TensorRT/Deepstream for Tesla & Jetson](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps)
 - [Gym environments and agents for autonomous driving](https://github.com/bark-simulator/bark-ml)
+- [OATomobile](https://github.com/OATML/oatomobile) - Research framework for autonomous driving.

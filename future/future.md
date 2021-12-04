@@ -80,3 +80,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Films that are optimistic about the future (2021)](https://twitter.com/zhusu/status/1444131834086887428)
 - [Things Vitalik is excited about (2020)](https://twitter.com/VitalikButerin/status/1273742863688499203)
 - [Ask HN: What are you 2022 predictions?](https://news.ycombinator.com/item?id=29281732)
+- [100 years of whatever this will be (2021)](https://apenwarr.ca/log/20211201) ([HN](https://news.ycombinator.com/item?id=29416606))

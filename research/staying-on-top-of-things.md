@@ -161,6 +161,7 @@ And these Discord servers:
 - [Atlantic Council](https://www.atlanticcouncil.org/)
 - [Esquire](https://www.esquire.com/) - Men's Fashion, Cocktails, Politics, Interviews, and Women.
 - [TLS](https://www.the-tls.co.uk/) - Times Literary Supplement.
+- [Artforum International](https://www.artforum.com/)
 
 ### Other
 

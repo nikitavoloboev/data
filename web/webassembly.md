@@ -223,3 +223,4 @@
 - [js-wasm](https://github.com/richardanaya/js-wasm) - JavaScript-WebAssembly interop library for C, Rust, Assemblyscript.
 - [wasm-pack-template](https://github.com/rustwasm/wasm-pack-template) - Template for kick starting a Rust and WebAssembly project using wasm-pack.
 - [embedded-wasm-apps](https://github.com/vshymanskyy/embedded-wasm-apps) - Run statically-compiled WebAssembly apps on any embedded platform.
+- [WebAssembly-in Go](https://github.com/cohix/gophercon-21)

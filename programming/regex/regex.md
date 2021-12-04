@@ -78,3 +78,4 @@ Match all that don't have notes or twitter in input
 - [Recognize Regex Easily (2020)](https://dev.to/jamland/recognize-regex-easily-4k5i)
 - [Regex literals optimization (2020)](https://nitely.github.io/2020/11/30/regex-literals-optimization.html)
 - [A DFA for submatches extraction (2020)](https://nitely.github.io/2020/01/19/a-dfa-for-submatches-extraction.html)
+- [regex-cache](https://github.com/jonschlinkert/regex-cache) - Memoize the results of a call to the RegExp constructor, avoiding repetitious runtime compilation.

@@ -1137,6 +1137,8 @@
 - [Jin](https://github.com/ecoshub/jin) - Fastest JSON interperter for Go.
 - [clockwork](https://github.com/jonboulle/clockwork) - Simple fake clock for Go.
 - [go-heaps](https://github.com/theodesp/go-heaps) - Reference implementations of heap data structures in Go.
+- [geodist](https://github.com/jftuga/geodist) - Compute the distance between two geographic latitude, longitude coordinates. ([Reddit](https://www.reddit.com/r/golang/comments/r6wdww/i_wrote_a_package_to_compute_the_distance_between/))
+- [go-verkle](https://github.com/gballet/go-verkle) - Go implementation of Verkle trees.
 
 ## Links
 
@@ -1169,3 +1171,4 @@
 - [Mod](https://github.com/marwan-at-work/mod) - Command line tool to upgrade/downgrade Semantic Import Versioning in Go Modules.
 - [Examples for dealing with the reflect package](https://github.com/a8m/reflect-examples)
 - [vgo2nix](https://github.com/nix-community/vgo2nix) - Convert go.mod files to nixpkgs buildGoPackage compatible deps.nix files.
+- [go-structurizr](https://github.com/krzysztofreczek/go-structurizr) - Library for auto-generating C4 diagrams from Golang applications.

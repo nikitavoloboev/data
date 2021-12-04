@@ -178,3 +178,4 @@
 - [How We Turn Authorization Logic into SQL (2021)](https://www.osohq.com/post/logic-into-sql) ([HN](https://news.ycombinator.com/item?id=29321504))
 - [secret-handshake](https://github.com/auditdrivencrypto/secret-handshake) - Mutually authenticating key agreement handshake.
 - [Simple Things That Are Actually Hard: User Authentication (2021)](https://techblog.bozho.net/simple-things-that-are-actually-hard-user-authentication/)
+- [Admin UI for Auth0, Azure AD and AWS Cognito](https://github.com/nearform/brokeneck)

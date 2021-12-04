@@ -44,3 +44,5 @@
 - [BERT models with Solr and Elasticsearch](https://github.com/DmitryKey/bert-solr-search)
 - [Is ELK stack really worth it? (2021)](https://www.reddit.com/r/devops/comments/qt6isb/is_elk_stack_really_worth_it/)
 - [Tasques](https://github.com/lloydmeta/tasques) - Background Tasks system backed by Elasticsearch with support for language agnostic Workers.
+- [ElastAlert 2](https://github.com/jertel/elastalert2) - Standalone software tool for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch and OpenSearch.
+- [Zinc](https://github.com/prabhatsharma/zinc) - Search engine that does full text indexing. Lightweight alternative to elasticsearch and runs in less than 100 MB of RAM.

@@ -17,3 +17,4 @@
 - [super-workers](https://github.com/softvar/super-workers) - Distribute load on front-end via parallelism.
 - [Hamsters.js](https://github.com/austinksmith/Hamsters.js) - 100% Vanilla Javascript Multithreading & Parallel Execution Library. ([Web](https://hamsters.io/))
 - [promise-worker](https://github.com/nolanlawson/promise-worker) - Promise-based messaging for Web Workers and Service Workers.
+- [Service Worker Launch Event](https://github.com/WICG/sw-launch)

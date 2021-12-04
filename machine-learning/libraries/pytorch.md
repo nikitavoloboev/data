@@ -307,3 +307,6 @@
 - [Torch Memory-adaptive Algorithms (TOMA)](https://github.com/BlackHC/toma) - Helps you write algorithms in PyTorch that adapt to the available (CUDA) memory.
 - [Bayesian-Torch](https://github.com/IntelLabs/bayesian-torch) - Bayesian neural network layers for uncertainty estimation.
 - [PyTorch: Where we are headed and why it looks a lot like Julia (but not exactly)](https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276) ([HN](https://news.ycombinator.com/item?id=29354474))
+- [torchfilter](https://github.com/stanford-iprl-lab/torchfilter) - Bayesian filters in PyTorch.
+- [PopTorch](https://github.com/graphcore/poptorch) - PyTorch integration for the Graphcore IPU.
+- [FlowTorch](https://github.com/facebookincubator/flowtorch) - PyTorch library for learning and sampling from complex probability distributions using a class of methods called Normalizing Flows.

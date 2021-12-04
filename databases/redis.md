@@ -91,3 +91,6 @@
 - [RedisPipe](https://github.com/joomcode/redispipe) - High-throughput Redis client for Go with implicit pipelining.
 - [TairHash](https://github.com/alibaba/TairHash) - Redis module, similar to redis hash, but you can set expiration and version for field.
 - [Kredis](https://github.com/rails/kredis) - Higher-level data structures built on Redis.
+- [Redis client Mock](https://github.com/go-redis/redismock)
+- [How to build a HackerNews Clone using Redis](https://developer.redis.com/howtos/hackernews/)
+- [Redis Developer Hub](https://developer.redis.com/)

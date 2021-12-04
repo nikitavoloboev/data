@@ -21,3 +21,4 @@
 - [AnimeGANv2](https://tachibanayoshino.github.io/AnimeGANv2/) - Convert Face Portraits into Anime.([PyTorch Code](https://github.com/bryandlee/animegan2-pytorch)) ([Demo](https://huggingface.co/spaces/akhaliq/AnimeGANv2)) ([HN](https://news.ycombinator.com/item?id=29162248))
 - [Anime Downloader](https://github.com/anime-dl/anime-downloader) - Simple but powerful anime downloader and streamer.
 - [Nakama](https://nakama.social/) - Social network for anime fans. ([Code](https://github.com/nicolasparada/nakama))
+- [Animeflix](https://github.com/chirag-droid/animeflix) - Anime discovery, streaming site made with NextJs and TailwindCSS.

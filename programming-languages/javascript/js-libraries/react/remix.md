@@ -11,6 +11,7 @@
 
 - [If you're using Remix you don't need react-query/Apollo/redux or even axios for making network requests. It's all handled for you + much more by the framework.](https://twitter.com/kentcdodds/status/1463994662281048074)
 - [Moving back to the server it makes GraphQL less interesting since you can get faster access to your db via Prisma and direct db connection.](https://twitter.com/jmarbutt/status/1464003898973339656)
+- [Remix is fundamentally built from nested routes.](https://twitter.com/mjackson/status/1466515470282989570)
 
 ## Links
 
@@ -33,3 +34,4 @@
 - [Remix Fastify](https://github.com/mcansh/remix-fastify) - Fastify server request handler for Remix.
 - [Remix | Data Loading](https://remix.run/docs/en/v1/guides/data-loading) ([Tweet](https://twitter.com/remix_run/status/1466029318081953798))
 - [mixtarter-chakra](https://github.com/sozonome/mixtarter-chakra) - Remix starter template with chakra-ui and typescript setup.
+- [Remix Params Helper](https://github.com/kiliman/remix-params-helper) - Makes it simple to use Zod with standard URLSearchParams and FormData which are typically used in Remix apps.

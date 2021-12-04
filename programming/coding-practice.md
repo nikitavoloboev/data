@@ -81,6 +81,7 @@
 - [Advent of Code 2021 OCaml](https://github.com/p1xelHer0/advent-of-code-2021-ocaml)
 - [Haskell Advent of Code 2021](https://github.com/siraben/haoc-2021)
 - [Swift Advent of Code 2021](https://github.com/eliperkins/aoc-2021)
+- [Advent of Code 2021 in Coq](https://github.com/Lysxia/advent-of-coq-2021)
 
 ## Exercism exercise solutions
 

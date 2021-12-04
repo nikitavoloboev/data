@@ -290,3 +290,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [TinyLFU: A Highly Efficient Cache Admission Policy (2015)](https://arxiv.org/abs/1512.00727)
 - [Comparison of Operating System Complexity (2020)](https://pspodcasting.net/dan/blog/2020/complexity.pdf) ([HN](https://news.ycombinator.com/item?id=29362274))
 - [Virtual Machine Showdown: Stack Versus Registers (2005)](https://www.usenix.org/legacy/events%2Fvee05%2Ffull_papers/p153-yunhe.pdf)
+- [OPS](https://github.com/nanovms/ops) - Build and run nanos unikernels.
+- [The big idea around unikernels (2021)](https://changelog.com/posts/the-big-idea-around-unikernels) ([HN](https://news.ycombinator.com/item?id=29427449))

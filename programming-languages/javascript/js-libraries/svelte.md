@@ -5,6 +5,7 @@
 - [Svelte with Cloudflare Workers](https://github.com/lukeed/pages-fullstack)
 - [Elianiva](https://elianiva.me/) ([Code](https://github.com/elianiva/elianiva.me))
 - [SvelteKit RealWorld App](https://github.com/sveltejs/realworld)
+- [Mac OS Monterey Web](https://macos.vercel.app/) ([Code](https://github.com/puruvj/macos-web))
 
 ## Notes
 
@@ -136,7 +137,7 @@
 - [My Svelte Code Ordering Style (2021)](https://bjornlu.com/blog/my-svelte-code-ordering-style)
 - [Using Apollo Client in Sapper (2020)](https://bjornlu.com/blog/using-apollo-client-in-sapper)
 - [SvelteKit is now fully supported in WebContainers (2021)](https://blog.stackblitz.com/posts/sveltekit-supported-in-webcontainers/)
-- [Svelte Cubed](https://svelte-cubed.vercel.app/) - Power of Three.js in Svelte. ([HN](https://news.ycombinator.com/item?id=29310150)) ([Code](https://github.com/rich-harris/svelte-cubed)) ([Tweet](https://twitter.com/thecamjackson/status/1462970068984217606)) ([Getting Started Code](https://stackblitz.com/edit/sveltekit-vqtrge?file=src%2Froutes%2Findex.svelte))
+- [Svelte Cubed](https://svelte-cubed.vercel.app/) - Power of Three.js in Svelte. ([HN](https://news.ycombinator.com/item?id=29310150)) ([Code](https://github.com/rich-harris/svelte-cubed)) ([Tweet](https://twitter.com/thecamjackson/status/1462970068984217606)) ([Getting Started Code](https://stackblitz.com/edit/sveltekit-vqtrge?file=src%2Froutes%2Findex.svelte)) ([Talk](https://www.youtube.com/watch?v=qD6Pmp45sO4)) ([Tweet](https://twitter.com/Rich_Harris/status/1466800729272823814))
 - [Svelte FSM](https://github.com/kenkunz/svelte-fsm) - Tiny, expressive finite state machines for svelte. ([Examples](https://github.com/kenkunz/svelte-fsm/wiki/Examples))
 - [Svelte Summit Fall 2021](https://www.youtube.com/watch?v=1Df-9EKvZr0)
 - [NOVAS](https://github.com/NOVASland/NOVAS) - Build tool that lets developers easily set up Svelte applications in a Deno runtime.
@@ -145,3 +146,4 @@
 - [How to use a Rust WebAssembly module in Svelte with Web Workers (2021)](https://martyjon.es/webassembly/rust/svelte/2021/11/28/svelte-wasm-workers-how-to.html)
 - [Svelte's lifecycle methods can be used anywhere (2021)](https://geoffrich.net/posts/svelte-lifecycle-examples/)
 - [svelte-forms](https://github.com/chainlist/svelte-forms) - Svelte forms validation made easy.
+- [Houdini](https://github.com/AlecAivazis/houdini) - Disappearing GraphQL client for Sapper and SvelteKit.

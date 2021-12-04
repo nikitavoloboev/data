@@ -26,6 +26,7 @@
 - [Rustbot](https://github.com/kangalioo/rustbot) - Rust programming language bot for Discord.
 - [Next.js Discord Bot](https://github.com/vercel/nextjs-discord-bot)
 - [ArtBot](https://github.com/ArtBlocks/artbot) - Discord bot for ArtBlocks.
+- [DNS over Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 DNS resolver built for Discord.
 
 ## Libraries
 

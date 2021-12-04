@@ -37,7 +37,7 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Progress of anti-aging therapies by clinical trial stage](https://www.lifespan.io/road-maps/the-rejuvenation-roadmap/) ([HN](https://news.ycombinator.com/item?id=22066494))
 - [The Longevity FAQ (2020)](https://nintil.com/longevity/)
 - [Age Reversal Forum](https://forum.age-reversal.net/)
-- [Lifespan: Why We Age—and Why We Don't Have To (2019)](https://www.goodreads.com/book/show/43723901-lifespan)
+- [Lifespan: Why We Age—and Why We Don't Have To (2019)](https://www.goodreads.com/book/show/43723901-lifespan) ([Review](https://astralcodexten.substack.com/p/book-review-lifespan)) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/r6v21s/book_review_lifespan/))
 - [How to Slow Aging (and even reverse it)](https://www.youtube.com/watch?v=QRt7LjqJ45k)
 - [Age Reduction Breakthrough (2020)](https://joshmitteldorf.scienceblog.com/2020/05/11/age-reduction-breakthrough/) ([HN](https://news.ycombinator.com/item?id=23142932)) ([Twitter](https://twitter.com/davidasinclair/status/1259912928695857152))
 - [Leap](https://wellcomeleap.org/) - Programs that aim to deliver breakthroughs in human health over 5 – 10 years and demonstrate seemingly impossible results on seemingly impossible timelines.

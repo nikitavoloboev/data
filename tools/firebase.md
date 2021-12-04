@@ -1,5 +1,9 @@
 # [Firebase](https://firebase.google.com/)
 
+## Notes
+
+- [Firebase can sometimes not sync data properly.](https://twitter.com/maccaw/status/1466506830977327105)
+
 ## Links
 
 - [Firebase CLI](https://github.com/firebase/firebase-tools)
