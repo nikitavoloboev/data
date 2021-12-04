@@ -74,3 +74,4 @@ bindkey
 - [A User's Guide to ZSH](https://zsh.sourceforge.io/Guide/zshguide.html)
 - [zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh.
 - [s/bash/zsh/g (2021)](https://www.arp242.net/why-zsh.html) ([HN](https://news.ycombinator.com/item?id=28927966))
+- [ZSH Completions How To](https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org) ([HN](https://news.ycombinator.com/item?id=29443334))

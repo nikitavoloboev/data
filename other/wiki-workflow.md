@@ -423,3 +423,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - Local-first and universal graph database, knowledge engine, and workspace for your life.
 - [ummm](https://www.ummm.co/) - Organize your thoughts. ([HN](https://news.ycombinator.com/item?id=29304438))
 - [Keep a Knowledge Log](https://bruno-oliveira.github.io/techblog/Keep-a-log/) ([HN](https://news.ycombinator.com/item?id=29436562))
+- [Early conceptarium workflows](https://paulbricman.com/reflections/early-conceptarium-workflows)

@@ -17,6 +17,10 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Carlsen-Morozevich, World Blitz Championship 2012](https://www.youtube.com/watch?v=-wRdgOllrzM)
 - [World Chess Championship: Magnus vs Ian Game 6 (2021)](https://www.youtube.com/watch?v=PmQs1KhB948) ([HN](https://news.ycombinator.com/item?id=29434818)) ([Reddit](https://www.reddit.com/r/chess/comments/r882k8/postgame_thread_2021_world_chess_championship/))
 
+## Interesting openings
+
+- [Ruy Lopez](https://www.reddit.com/r/chess/comments/r8qdqq/can_someone_explain_why_the_ruy_lopez_is_so/)
+
 ## Notes
 
 - [Most "best moves" in a game are quite obvious. Most blunders occur in the endgame because the position is complicated and there's usually only 1 good move and everything else is terrible. So you think a lot trying to find the 1 good move and then fail.](https://www.reddit.com/r/chess/comments/nwq4qk/blunder_rate_versus_time_spent_on_move_25_million/)
@@ -158,3 +162,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Your favorite chess openings (2021)](https://www.reddit.com/r/chess/comments/r79is6/which_openingvariation_is_your_favorite_even/)
 - [The Top Chess Players in the World - Chess.com](https://www.chess.com/players)
 - [Chess Database](https://www.chess.com/games)
+- [Who is the most accurate world chess champion? (2021)](https://lichess.org/blog/YafSBxEAACIAr0ZA/exact-exacting-who-is-the-most-accurate-world-champion) ([HN](https://news.ycombinator.com/item?id=29414065))

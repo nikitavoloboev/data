@@ -358,3 +358,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [How Does NTP Work? (2021)](https://sookocheff.com/post/time/how-does-ntp-work/)
 - [Routinator](https://github.com/NLnetLabs/routinator) - RPKI Validator written in Rust.
 - [nats-spy](https://github.com/alihanyalcin/nats-spy) - Terminal tool to help you to monitor NATS messages.
+- [BIRD Journey to Threads. Chapter 0: The Reason Why (2021)](https://en.blog.nic.cz/2021/03/15/bird-journey-to-threads-chapter-0-the-reason-why/)
+- [CoreBGP - Plugging in to BGP (2020)](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)

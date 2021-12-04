@@ -52,3 +52,4 @@
 - [Malt](https://github.com/bnpr/Malt) - Fully customizable real-time rendering framework for animation and illustration.
 - [Blender 3.x roadmap (2021)](https://code.blender.org/2021/10/blender-3-x-roadmap/) ([HN](https://news.ycombinator.com/item?id=29024572))
 - [Phobos](https://github.com/dfki-ric/phobos) - Add-on for Blender allowing to create URDF, SDF and SMURF robot models in a WYSIWYG environment.
+- [Blender 3.0 (2021)](https://www.blender.org/download/releases/3-0/) ([HN](https://news.ycombinator.com/item?id=29430498))

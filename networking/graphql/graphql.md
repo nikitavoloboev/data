@@ -269,3 +269,4 @@
 - [graphql-http-test](https://github.com/jaydenseric/graphql-http-test) - JavaScript API and CLI to test a GraphQL server for GraphQL over HTTP spec compliance.
 - [graphql-state](https://github.com/babyfish-ct/graphql-state) - New react state management framework.
 - [Tartiflette](https://github.com/tartiflette/tartiflette) - GraphQL Engine built with Python 3.6+ / asyncio. ([Web](https://tartiflette.io/))
+- [When to use multiple endpoints in GraphQL (2021)](https://blog.logrocket.com/use-multiple-endpoints-graphql/)

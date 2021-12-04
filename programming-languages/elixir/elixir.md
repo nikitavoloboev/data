@@ -136,3 +136,4 @@
 - [Writing a Genetic Algorithm in Nx (2021)](https://medium.com/pragmatic-programmers/writing-a-genetic-algorithm-in-nx-3ddc7cf62fc9)
 - [Elixir grammar for tree-sitter](https://github.com/elixir-lang/tree-sitter-elixir)
 - [Elixir как второй язык](https://ru.code-basics.com/languages/elixir)
+- [](https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html) ([HN](https://news.ycombinator.com/item?id=29441653))

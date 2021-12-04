@@ -631,3 +631,4 @@
 - [Blueprint/Boilerplate For Python Projects](https://github.com/MartinHeinz/python-project-blueprint)
 - [Customize Python dependency resolution with machine learning (2021)](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning#)
 - [requirements-tools](https://github.com/Yelp/requirements-tools) - Scripts for working with Python requirements, primarily in applications.
+- [Writing and publishing a Python module in Rust (2020)](https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust) ([HN](https://news.ycombinator.com/item?id=29441840))

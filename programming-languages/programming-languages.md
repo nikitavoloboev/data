@@ -275,3 +275,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Dynamic Languages Strike Back (2008)](http://steve-yegge.blogspot.com/2008/05/dynamic-languages-strike-back.html)
 - [Are there any ML style languages with no runtime? (2021)](https://www.reddit.com/r/ProgrammingLanguages/comments/r28x49/are_there_any_ml_style_languages_with_no_runtime/)
 - [Tao](https://github.com/zesterer/tao) - Statically-typed functional programming language.
+- [Do we really need Undefined Behavior? (2021)](https://www.ralfj.de/blog/2021/11/24/ub-necessary.html) ([HN](https://news.ycombinator.com/item?id=29435263))

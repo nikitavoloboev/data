@@ -59,7 +59,7 @@
 - [Specification for Dependent Types in Haskell (Core)](https://github.com/sweirich/corespec)
 - [(2) Program Adverbs: Structures for Embedding Effectful Programs (2021)](https://lastland.github.io/media/papers/adverbs-preprint.pdf)
 - [Dependent Object Types (DOT)](https://github.com/namin/dot) - Formalization of the Dependent Object Types (DOT) calculus.
-- [Magma](https://github.com/blainehansen/magma) - Dependently-typed language. ([Lobsters](https://lobste.rs/s/upzwzj/magma_dependently_typed_language))
+- [Magma](https://github.com/blainehansen/magma) - Dependently-typed language. ([Lobsters](https://lobste.rs/s/upzwzj/magma_dependently_typed_language)) ([My Path to Magma (2021)](https://blainehansen.me/post/my-path-to-magma/))
 - [Formal Metatheory of Second-Order Abstract Syntax](https://www.cl.cam.ac.uk/~ds709/agda-soas/)
 - [Aya](https://github.com/aya-prover/aya-dev) - Programming language and a proof assistant designed for formalizing math and type-directed programming. ([Web](https://www.aya-prover.org/))
 - [tinka-hs](https://github.com/atennapel/tinka-hs) - Dependently typed programming language written in Haskell.

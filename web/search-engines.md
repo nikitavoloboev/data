@@ -186,3 +186,4 @@
 - [lnx](https://github.com/lnx-search/lnx) - Ultra-fast, adaptable deployment of the tantivy search engine via REST. ([Web](https://lnx.rs/))
 - [Occamm](https://www.occamm.com/) - Search engine that lets you refine your queries. ([HN](https://news.ycombinator.com/item?id=29365749))
 - [Ask HN: Why doesn't anyone create a search engine comparable to 2005 Google? (2021)](https://news.ycombinator.com/item?id=29417061)
+- [Gigablast](https://gigablast.com/) - Alternative Web Search Engine. ([HN](https://news.ycombinator.com/item?id=29421898))

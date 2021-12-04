@@ -215,3 +215,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Design Masterclass with the best designer I’ve ever met (Raphael Schaad with Cron Calendar) (2021)](https://www.youtube.com/watch?v=2MrNSjJFBBI) ([Tweet](https://twitter.com/raphaelschaad/status/1464262611806171143))
 - [App Store Award Winners 2021](https://apps.apple.com/story/id1591083005)
 - [The Essence of Software: Why Concepts Matter for Great Design (2021)](https://press.princeton.edu/books/hardcover/9780691225388/the-essence-of-software)
+- [Ask HN: Best self-starter resources to learn web design? (2021)](https://news.ycombinator.com/item?id=29428533)

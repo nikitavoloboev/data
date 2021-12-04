@@ -21,6 +21,8 @@
 
 I try to get to this future as soon as possible by setting and completing my own personal [life goals](../focusing/goals.md).
 
+[Hopeful Pathway for Humanity](https://hopefulpathway.blainehansen.me/) is great too as are the many links below.
+
 ## Notes
 
 - [The primary ingredient for progress is optimism. The unwavering belief that something can be better is what drives the human race forward.](https://twitter.com/simonsinek/status/1461705827560136707)
@@ -81,3 +83,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Things Vitalik is excited about (2020)](https://twitter.com/VitalikButerin/status/1273742863688499203)
 - [Ask HN: What are you 2022 predictions?](https://news.ycombinator.com/item?id=29281732)
 - [100 years of whatever this will be (2021)](https://apenwarr.ca/log/20211201) ([HN](https://news.ycombinator.com/item?id=29416606))
+- [A Hopeful Pathway for Humanity](https://hopefulpathway.blainehansen.me/) ([Code](https://github.com/blainehansen/hopeful-pathway))

@@ -57,3 +57,5 @@
 - [Building WireGate: A WireGuard front to detect compromised keys (2021)](https://blog.thinkst.com/2021/11/building-wiregate-wireguard-front-to.html)
 - [Netmaker](https://github.com/gravitl/netmaker) - Platform for creating and managing fast, secure, and dynamic virtual overlay networks using WireGuard. ([Docs](https://netmaker.org/))
 - [WireGuard Portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection.
+- [wgsd](https://github.com/jwhited/wgsd) - CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics.
+- [WireGuard Endpoint Discovery and NAT Traversal using DNS-SD (2020)](https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/)

@@ -99,7 +99,7 @@
 - [On Simplicity (2019)](https://lobste.rs/s/qgbkwm/on_simplicity)
 - [Programming Dictionary (Russian)](https://github.com/HowProgrammingWorks/Dictionary)
 - [HowProgrammingWorks courses (Russian)](https://github.com/HowProgrammingWorks/Index)
-- [Keep a changelog](https://keepachangelog.com/en/1.0.0/) ([Code](https://github.com/olivierlacan/keep-a-changelog))
+- [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) ([Code](https://github.com/olivierlacan/keep-a-changelog)) ([HN](https://news.ycombinator.com/item?id=29438221))
 - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html) ([HN](https://news.ycombinator.com/item?id=27411276))
 - [Rich Hickey on becoming a better developer](https://gist.github.com/prakhar1989/1b0a2c9849b2e1e912fb)
 - [Why programming is difficult](https://joearms.github.io/published/2014-02-07-why-programming-is-difficult.html)
@@ -498,3 +498,4 @@
 - [What are your "strongly held programming beliefs"? (2021)](https://www.reddit.com/r/ExperiencedDevs/comments/r6zf75/what_are_your_strongly_held_programming_beliefs/)
 - [Writing Maintainable Code is a Communication Skill (2021)](https://max.engineer/maintainable-code)
 - [Mindful Code Reviews (2021)](https://max.engineer/mindful-code-reviews) ([HN](https://news.ycombinator.com/item?id=29396515))
+- [The Memory Image Pattern (2021)](https://axelsvensson.com/memory-image-pattern/)

@@ -28,3 +28,4 @@
 - [Guide to Firefox Containers (2018)](https://www.thechiefmeat.com/guides/containers.html) ([HN](https://news.ycombinator.com/item?id=28353876))
 - [Temporary Containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers.
 - [Ask HN: Can Firefox Be Revived? (2021)](https://news.ycombinator.com/item?id=28954390)
+- [FirefoxPWA: Progressive Web Apps for Firefox](https://github.com/filips123/FirefoxPWA) ([HN](https://news.ycombinator.com/item?id=29440225))

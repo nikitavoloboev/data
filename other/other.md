@@ -567,3 +567,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Lens Calculator](https://www.jvsg.com/calculators/cctv-lens-calculator/) - Calculate CCTV camera lens focal length, pixel density and camera zones in 3D.
 - [TXQR](https://github.com/divan/txqr) - Transfer data via animated QR codes.
 - [Emoji to Scale](https://javier.xyz/emoji-to-scale/) ([HN](https://news.ycombinator.com/item?id=29425735)) ([Code](https://github.com/javierbyte/emoji-to-scale))
+- [Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news) ([HN](https://news.ycombinator.com/item?id=29440467))

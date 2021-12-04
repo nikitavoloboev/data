@@ -80,3 +80,4 @@
 - [ASMREPL](https://github.com/tenderlove/asmrepl) - REPL for x86 assembly language. ([HN](https://news.ycombinator.com/item?id=29385006))
 - [The Fastest FizzBuzz Implementation (2021)](https://tech.marksblogg.com/fastest-fizz-buzz.html) ([HN](https://news.ycombinator.com/item?id=29413656)) ([Tweet](https://twitter.com/pcwalton/status/1466350917133889541))
 - [High throughput Fizz Buzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz) ([Tweet](https://twitter.com/danluu/status/1453820898876682258))
+- [Fast CSV Processing with SIMD (2021)](https://nullprogram.com/blog/2021/12/04/) ([HN](https://news.ycombinator.com/item?id=29439403))

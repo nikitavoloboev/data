@@ -204,6 +204,7 @@
 - [TypeScript's excess properties can bite you (2021)](https://www.executeprogram.com/blog/typescripts-excess-properties-can-bite-you)
 - [TS Patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality.
 - [ts-standardx](https://github.com/exuanbo/ts-standardx) - Configurable linter for TypeScript and JavaScript.
+- [macro-ts](https://github.com/blainehansen/macro-ts) - Ergonomic typescript compiler that enables typesafe syntactic macros. ([Article](https://blainehansen.me/post/macro-ts/))
 
 ## Images
 
