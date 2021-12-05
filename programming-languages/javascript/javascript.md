@@ -387,3 +387,4 @@ if (
 - [Esprima-python](https://github.com/Kronuz/esprima-python) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [Software Tools in JavaScript by Greg Wilson Book (2021)](https://leanpub.com/stjs/)
 - [ReevaJS](https://github.com/ReevaJS/reeva) - JavaScript engine written from scratch using Kotlin.
+- [Web Developer Tools secrets that shouldn’t be secrets (2021)](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/) ([Reddit](https://www.reddit.com/r/programming/comments/r8wph3/web_developer_tools_secrets_that_shouldnt_be/))

@@ -228,6 +228,7 @@ Here are few more things I liked, design wise.
 - [Travis Jeffery](https://travisjeffery.com/)
 - [Julian Lehr](https://julian.digital/)
 - [Andrew Sutherland](https://asuth.com/)
+- [Alin Panaitiu](https://alinpanaitiu.com/) ([Code](https://github.com/alin23/alinpanaitiu.com))
 - [Fabrizio Rinaldi](https://www.fabrizio.so/) ([Tweet](https://twitter.com/linuz90/status/1422574429754822661))
 - [Andrew Bosworth](https://boz.com/)
 - [Julia Johnson](https://www.juliacodes.com/) ([Code](https://github.com/juliajcodes/JuliaCodesGatsby))

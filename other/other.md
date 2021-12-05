@@ -372,7 +372,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [TreeCard](https://www.treecard.org/) - Wooden debit card that plants trees. ([HN](https://news.ycombinator.com/item?id=25621401))
 - [Moderating a 220k Developer Community (2020)](https://dev.to/swyx/moderating-a-220k-developer-community-3doj)
 - [Mold](https://github.com/rui314/mold) - Modern Linker. ([Lobsters](https://lobste.rs/s/t9gvtg/mold_modern_linker)) ([HN](https://news.ycombinator.com/item?id=26233244))
-- [Stedi](https://stedi.com/) - Structured messaging platform for B2B trade.
+- [Stedi](https://stedi.com/) - Build automated EDI solutions that integrate with any business system. ([Twitter](https://twitter.com/stedi)) ([Tweet](https://twitter.com/zackkanter/status/1466509584005144577))
 - [gorush](https://github.com/appleboy/gorush) - Push notification server written in Go.
 - [Lessons from six months at Shopify (2020)](https://alexdanco.com/2020/10/23/six-lessons-from-six-months-at-shopify/) ([HN](https://news.ycombinator.com/item?id=24876665))
 - [itty.bitty.site](http://itty.bitty.site/) - Tool to create links that contain small sites. ([Code](https://github.com/alcor/itty-bitty/))
@@ -384,7 +384,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [OnlineWardleyMaps](https://onlinewardleymaps.com/) - Draw Wardley Maps in seconds.
 - [Spotify Export](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON.
 - [Code Explorer](https://code-explorer.bypaulshen.com/) - Exploration of using space and semantics to help us read and understand code.
-- [‎ix.io](http://ix.io/) - command line pastebin.
+- [ix.io](http://ix.io/) - command line pastebin.
 - [Devine's bookmarks](https://wiki.xxiivv.com/site/bookmarks.html)
 - [mandible](https://github.com/Imgur/mandible) - Ready-to-deploy uploader that you can run on AWS EC2 or Heroku. It accepts an image via a REST interface and returns information about a file.
 - [Anya Taylor-Joy: inside my beauty bag (2020)](https://www.youtube.com/watch?v=HjniMU1IgHE)

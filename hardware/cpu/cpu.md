@@ -122,3 +122,4 @@
 - [SCAMP CPU](https://github.com/jes/scamp-cpu) - Homebrew 16-bit CPU with a homebrew Unix-like-ish operating system. ([Web](https://incoherency.co.uk/scamp/))
 - [mainspring](https://github.com/ncatelli/mainspring) - CPU and device simulation framework focused on extensibility and flexibility of hardware layouts.
 - [Why It’s So Difficult – and Costly – To Secure Chips (2021)](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/) ([HN](https://news.ycombinator.com/item?id=29417927))
+- [Graviton2 and Graviton3 (2021)](http://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html) ([HN](https://news.ycombinator.com/item?id=29444746))
