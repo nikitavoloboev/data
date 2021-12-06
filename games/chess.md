@@ -7,6 +7,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 
 ## Nice players
 
+- [Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)
 - [Jan-Krzysztof Duda](https://www.youtube.com/results?search_query=Jan-Krzysztof+Duda)
 - [Morozevich, Alexander](https://ratings.fide.com/profile/4116992)
 - [Vladimir Kramnik](https://www.chess.com/players/vladimir-kramnik)

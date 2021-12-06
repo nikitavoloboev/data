@@ -447,3 +447,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [BookNLP](https://github.com/booknlp/booknlp) - Natural language processing pipeline for books.
 - [London Review of Books](https://lrb.co.uk/)
 - [Kavita](https://www.kavitareader.com/) - Browse your Manga, Comics and Books.
+- [Tablo](https://tablo.com/) - Best place to create, print and publish a poetry book. ([Print](https://tablo.com/print))

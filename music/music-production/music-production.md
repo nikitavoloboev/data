@@ -57,7 +57,7 @@
 - [RaveForce](https://github.com/chaosprint/RaveForce) - Environment that allows you to define your musical task in SuperCollider, and train an agent to do the task in Python with APIs similar to the OpenAI Gym.
 - [libsamplerate](https://github.com/libsndfile/libsamplerate) - Library for performing sample rate conversion of audio data. ([Web](http://libsndfile.github.io/libsamplerate/))
 - [Music Pattern Generator](https://github.com/hisschemoller/music-pattern-generator) - JavaScript MIDI Music Pattern Generator.
-- [Zrythm](https://www.zrythm.org/en/) - Highly automated and intuitive digital audio workstation. ([Code](https://github.com/zrythm/zrythm))
+- [Zrythm](https://www.zrythm.org/en/) - Highly automated and intuitive digital audio workstation. ([Code](https://github.com/zrythm/zrythm)) ([HN](https://news.ycombinator.com/item?id=29450212))
 - [Wavepot](https://wavepot.com/) - Code Music In-Browser.
 - [LiveCore](https://github.com/ul/livecore) - Hardcore livecoding system for realtime audio synth.
 - [tuna](https://github.com/Theodeus/tuna) - Audio effects library for the Web Audio API.

@@ -24,6 +24,7 @@
 - [Annual planning: remember that goals must be set top down by the leader, and that bets (and resources) to hit the goals must be set bottoms-up by the team. And have weekly iterations for the two (goals and bets/resources) to converge.](https://twitter.com/gokulr/status/1458490916939862017)
 - [Picard management tip: If you're on red alert every day, then red alert means nothing](https://twitter.com/PicardTips/status/1461798823609737219)
 - [Keep the decisions you're making visible and discoverable. When it's done well, all the other work is a lot easier.](https://twitter.com/RobStuttaford/status/1466080210907017220)
+- [It’s easy to be the nice manager that just says things that keep people happy. The only one unhappy is the future manager who gets the fun job of having to catch up on real feedback to help people grow.](https://twitter.com/buritica/status/1467193690837950470)
 
 ## Links
 

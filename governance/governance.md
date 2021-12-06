@@ -25,6 +25,7 @@
 - [Polls as easy as a tweet, civic engagement, allocating funds. Just need some DAO tools on this.](https://twitter.com/yanivgraph/status/1457104839620677632)
 - [Socialism and dictatorship fit together like two jigsaw puzzle pieces, because in practice communal ownership = state control](https://twitter.com/paulg/status/1460212725938900995)
 - [Taxes are best applied to (especially extravagant) consumption, whereas capital allocation taxes reduce goods & services output, so actually bad for the people. Probable capital allocation skill of heirs is lower than original creator, so I am in favor of an estate tax.](https://twitter.com/noahpinion/status/1460449757076226049?s=28)
+- [Idea: all government spending should be presented as $-per-taxpayer. 10 billion dollars in infra = $70 per taxpayer owed in future taxes.](https://twitter.com/justindross/status/1467566554728521731)
 
 ## Links
 

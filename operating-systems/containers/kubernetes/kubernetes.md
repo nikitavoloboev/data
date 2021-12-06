@@ -538,3 +538,5 @@
 - [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs.
 - [kube-lineage](https://github.com/tohjustin/kube-lineage) - CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster.
 - [AWS version of Kelsey's kubernetes-the-hard-way](https://github.com/prabhatsharma/kubernetes-the-hard-way-aws)
+- [Kubernetes at Home With K3s (2021)](https://blog.nootch.net/post/kubernetes-at-home-with-k3s/) ([Lobsters](https://lobste.rs/s/rhonjg/kubernetes_at_home_with_k3s))
+- [Admiralty](https://admiralty.io/) - System of Kubernetes controllers that intelligently schedules workloads across clusters. ([Code](https://github.com/admiraltyio/admiralty))

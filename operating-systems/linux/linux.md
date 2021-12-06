@@ -430,3 +430,4 @@
 - [Digging into Linux namespaces (2021)](https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html)
 - [Autorandr and Keyd (2021)](https://www.crisidev.org/blog/autorandr/) - Automatic monitor handling and key mapping in Linux.
 - [Distrobox](https://github.com/89luca89/distrobox) - Use any Linux distribution inside your terminal.
+- [Unikernel Linux (2021)](https://www.youtube.com/watch?v=Hu268xq9gMk) ([Lobsters](https://lobste.rs/s/8puuif/unikernel_linux))

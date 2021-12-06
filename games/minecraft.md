@@ -85,3 +85,4 @@
 - [Replicating Minecraft World Generation in Python (2021)](https://towardsdatascience.com/replicating-minecraft-world-generation-in-python-1b491bc9b9a4)
 - [Three.js powered Minecraft skin viewer](https://bs-community.github.io/skinview3d/) ([Code](https://github.com/bs-community/skinview3d))
 - [Delta Client](https://github.com/stackotter/delta-client) - Open source rewrite of Minecraft Java Edition written in Swift for macOS. (([Web](https://delta.stackotter.dev/)))
+- [One decade later, Minecraft world generation is interesting again (2021)](https://dither8.xyz/blog/minecraft-cliffs-terrain/) ([HN](https://news.ycombinator.com/item?id=29446877))

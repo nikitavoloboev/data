@@ -75,3 +75,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [Ask HN: What are the best and worst command-line interfaces you have used? (2021)](https://news.ycombinator.com/item?id=29329607)
 - [Command Line Magic Twitter](https://twitter.com/climagic) ([Web](http://www.climagic.org/))
+- [Tips on adding JSON output to your CLI app (2021)](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/) ([HN](https://news.ycombinator.com/item?id=29435786))

@@ -124,6 +124,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [seL4 Core Platform](https://github.com/BreakawayConsulting/sel4cp) - Simple operating system for the seL4 microkernel.
 - [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) - Operating system targeting x86 and ARMv7.
 - [Genesis](https://github.com/abhaynayar/genesis) - Minimal OS written in Jack.
+- [Nanos](https://nanos.org/) - Kernel designed to run only one application in virtualized environment. ([HN](https://news.ycombinator.com/item?id=29429489)) ([Code](https://github.com/nanovms/nanos))
 
 ## Notes
 
@@ -150,7 +151,6 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Write your own Operating System (2017)](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
 - [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch. A book for self-learner. ([Code](https://github.com/tuhdo/os01))
 - [Introducing Mercury OS (2019)](https://medium.com/@jasonyuan/introducing-mercury-os-f4de45a04289)
-- [Nanos](https://github.com/nanovms/nanos) - New kernel designed to run one and only one application in a virtualized environment.
 - [BootOS](https://github.com/nanochess/bootOS) - Monolithic operating system in 512 bytes of x86 machine code. ([HN](https://news.ycombinator.com/item?id=20569438))
 - [Ask HN: Recommended resources to learn the Linux kernel and OS theory? (2019)](https://news.ycombinator.com/item?id=20809666)
 - [Soso](https://github.com/ozkl/soso) - Simple unix-like operating system written in Nasm assembly and mostly in C.

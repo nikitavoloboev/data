@@ -72,3 +72,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Evemovies Bot](https://github.com/dmbaranov/evemovies-bot) - Track torrent releases of movies.
 - [Mood2Movie: Top-rated movies based on your mood](https://www.mood2movie.com/) ([HN](https://news.ycombinator.com/item?id=29359966))
 - [Best movies that involve gambling as the main event?](https://www.reddit.com/r/MovieSuggestions/comments/r776gl/best_movies_that_involve_gambling_as_the_main/)
+- [The 50 best films of 2021](https://www.bfi.org.uk/sight-and-sound/polls/50-best-films-2021)
+- [BFI](https://www.bfi.org.uk/) - Film, TV & the moving image. ([Twitter](https://twitter.com/BFI))

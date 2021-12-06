@@ -277,3 +277,4 @@
 - [An 'Attempt' to avoid C++ exceptions (2021)](https://genodians.org/nfeske/2021-11-26-attempt-no-exceptions)
 - [Modern C++ command line tool template](https://github.com/demidko/utility)
 - [Software Tools in C++](https://www.jezuk.co.uk/tags/software-tools-in-c++.html) ([HN](https://news.ycombinator.com/item?id=29412246))
+- [pinned_vec - invalidating iterator invalidation](https://wheybags.com/blog/pinned.html) ([Lobsters](https://lobste.rs/s/xdmqk8/pinned_vec_invalidating_iterator))

@@ -186,3 +186,4 @@
 - [Typed Clojure](https://github.com/typedclojure/typedclojure) - Optional typing in Clojure, as a library.
 - [London Clojurians - YouTube](https://www.youtube.com/c/LondonClojurians/videos)
 - [re:Clojure Conference 2021](https://www.youtube.com/watch?v=3C1QQXEg_F8)
+- ["The Genuine Sieve of Eratosthenes" in Clojure (2021)](https://cuddly-octo-palm-tree.com/posts/2021-12-05-sieve/)
