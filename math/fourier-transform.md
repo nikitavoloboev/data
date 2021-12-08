@@ -33,3 +33,4 @@
 - [muFFT](https://github.com/Themaister/muFFT) - Library for computing the Fast Fourier Transform (FFT) in one or two dimensions.
 - [GLFFT](https://github.com/Themaister/GLFFT) - C++11/OpenGL library for the Fast Fourier Transform.
 - [PyFFTW](https://github.com/pyFFTW/pyFFTW) - Pythonic wrapper around FFTW 3, the speedy FFT library.
+- [Fourier Transform Visualized via WebGL](https://static.laszlokorte.de/fourier/) ([HN](https://news.ycombinator.com/item?id=29455894))

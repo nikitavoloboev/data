@@ -168,3 +168,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Photographing Strangers: Introvert's guide to street photography](https://dinalitovsky.bulletin.com/569660374228892)
 - [Robert Adams: Beauty in Photography (2005)](https://aperture.org/books/beauty-in-photography/)
 - [Retrato: A Guide to Portrait Photography](https://gitpuller.gumroad.com/l/retratobook)
+- [How To Make Your PHOTOS Look Cinematic [Photography & Lightroom Tutorial] (2021)](https://www.youtube.com/watch?v=3JcneOqr8uI)

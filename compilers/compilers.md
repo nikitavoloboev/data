@@ -189,3 +189,4 @@
 - [target-lexicon](https://github.com/bytecodealliance/target-lexicon) - Library for managing targets for compilers and related tools.
 - [cce](https://github.com/ethanhs/cce) - Compiler Explorer from CLI.
 - [On relational compilation](https://people.csail.mit.edu/cpitcla/thesis/relational-compilation.html) ([Lobsters](https://lobste.rs/s/dj04ud/on_relational_compilation))
+- [Effect-Driven QuickChecking of Compilers](http://janmidtgaard.dk/papers/Midtgaard-al%3aICFP17-full.pdf) ([Code](https://github.com/jmid/efftester))

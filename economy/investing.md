@@ -234,3 +234,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [Stocketa](https://stocketa.com/) - Premium portfolio tracker for iOS. ([Twitter](https://twitter.com/StocketaApp))
 - [Degiro](https://www.degiro.com/) - Online Stock Trading. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qxc47l/summary_of_degiro_new_fee_schedule_from_20122021/))
 - [How ETFs work behind the scenes, rebalancing and preventing capital gains (2021)](https://www.reddit.com/r/investing/comments/qy7q2x/how_etfs_work_behind_the_scenes_rebalancing_and/)
+- [Portfolio Returns](https://github.com/ashchan/returns) - Financial app for macOS that helps you track your multiple investment or portfolios in one place.

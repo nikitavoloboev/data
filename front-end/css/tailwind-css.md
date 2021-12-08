@@ -113,3 +113,4 @@
 - [You don't need SVG! Creating animated loaders for content with Tailwind CSS (2021)](https://dev.to/koddr/you-dont-need-svg-creating-animated-loaders-for-content-with-tailwind-css-2cf0)
 - [People creating awesome Tailwind content (2021)](https://twitter.com/adamwathan/status/1460411877893287938)
 - [TailwindCSS Radix](https://github.com/ecklf/tailwindcss-radix) - TailwindCSS plugin that helps styling radix state.
+- [Tailwind TS Generator](https://github.com/mathieutu/tailwind-ts) - Generate Tailwind type from your own configuration.

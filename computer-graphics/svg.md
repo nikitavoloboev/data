@@ -113,3 +113,4 @@
 - [SVG Silh](https://svgsilh.com/) - Free SVG Image & Icon.
 - [svgson](https://github.com/elrumordelaluz/svgson) - Transform SVG files to JSON notation.
 - [goodgraphics](https://github.com/romellogoodman/goodgraphics.js) - Library for scripting SVGs.
+- [svg-path-reverse](https://github.com/Pomax/svg-path-reverse) - SVG path reversal library.

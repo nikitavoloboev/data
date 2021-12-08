@@ -640,3 +640,5 @@ if err != nil {
 - [Go memory watchdog](https://github.com/raulk/go-watchdog) - Library to curb OOMs by running Go GC according to a user-defined policy.
 - [Go's io/fs package, with a touch of embed (2021)](https://www.youtube.com/watch?v=9H2m_-xT4Iw)
 - [Search over a Go corpus](https://quasilyte.dev/gocorpus/) ([Code](https://github.com/quasilyte/gocorpus))
+- [GopherCon 2021 "Production AI with Go" Workshop](https://github.com/dwhitena/gc2021-ai-workshop)
+- [golang-crossbuild](https://github.com/elastic/golang-crossbuild) - Set of Docker images containing the requisite cross-compilers for cross compiling Go applications.

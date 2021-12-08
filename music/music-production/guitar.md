@@ -35,3 +35,4 @@
 - [Fretonator](https://www.fretonator.com/) - Interactive tool for learning common modes on the guitar, understanding the chord theory behind the modes. ([Code](https://github.com/whitep4nth3r/fretonator))
 - [Chord](http://getchord.com/) - Definitive guitar app.
 - [React-Guitar](https://github.com/4lejandrito/react-guitar) - Beautiful and accessible guitar component for React. ([Web](https://react-guitar.com/))
+- [Get the guitar chords from your Spotify playlists](https://spotifychords.luca.gg/)

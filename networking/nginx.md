@@ -17,7 +17,7 @@
 - [NGINX Wiki](https://www.nginx.com/resources/wiki/) ([Code](https://github.com/nginxinc/nginx-wiki))
 - [Manage Nginx upstreams in pure Lua](https://github.com/upyun/lua-resty-checkups)
 - [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus) - Lua library that can be used with Nginx to keep track of metrics and expose them on a separate web page to be pulled by Prometheus.
-- [NGINX Ingress Controller](https://github.com/nginxinc/kubernetes-ingress)
+- [NGINX Ingress Controller](https://github.com/nginxinc/kubernetes-ingress) - Built around the Kubernetes Ingress resource, using a ConfigMap to store the NGINX configuration. ([Docs](https://kubernetes.github.io/ingress-nginx/))
 - [Building Pastebin for text using NGINX and Lua (2018)](https://usamaejaz.com/nginx-lua-pastebin/)
 - [Official NGINX Dockerfiles](https://github.com/nginxinc/docker-nginx)
 - [topngx](https://github.com/gsquire/topngx) - Helps you parse NGINX access logs and print various statistics from them regardless of format. ([HN](https://news.ycombinator.com/item?id=23466506))

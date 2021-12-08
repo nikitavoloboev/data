@@ -32,3 +32,6 @@
 - [Emerald Onion](https://emeraldonion.org/) - Tor host with a mission to protect privacy, anonymity, access to information, and free speech online.
 - [mkp224o](https://github.com/cathugger/mkp224o) - Vanity address generator for ed25519 onion services.
 - [Tor Browser 11.0 (2021)](https://blog.torproject.org/new-release-tor-browser-11-0) ([HN](https://news.ycombinator.com/item?id=29165747))
+- [Tor blocked in Russia: how to circumvent censorship (2021)](https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982)
+- [Tor Project Forum](https://forum.torproject.net/)
+- [The Tor Project · GitLab](https://gitlab.torproject.org/tpo)

@@ -396,3 +396,4 @@ for i, _ in enumerate(nums):
 - [CPython's main branch running in the browser with WebAssembly](https://twitter.com/ethanhs/status/1464308141105967104) ([HN](https://news.ycombinator.com/item?id=29376105))
 - [Python's None problem, and how Mypy helps you deal with it (2021)](https://engineeringblog.ridereport.com/pythons-none-problem) ([Lobsters](https://lobste.rs/s/6sdtuq/python_s_none_problem_how_mypy_helps_you))
 - [Hygeia](https://github.com/nbigaouette/hygeia) - Python toolchain manager.
+- [Pandas Tutor](https://pandastutor.com/vis.html) - Visualize Python pandas code. ([Web](https://pandastutor.com/))

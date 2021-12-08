@@ -63,6 +63,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Tincta](https://github.com/CodingFriends/Tincta) - Free text editor for Mac with focus on speed, stability and ease of use.
 - [Zee](https://github.com/mcobzarenco/zee) - Modern text editor for the terminal written in Rust.
 - [Glyph](https://github.com/zackradisic/glyph) - Personal code editor built with Rust + OpenGL.
+- [freja](https://github.com/saikyun/freja) - Self-modifiable text editor implemented in Janet.
 
 ## Web
 

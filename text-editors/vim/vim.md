@@ -288,3 +288,6 @@ zz
 - [Vim.is](https://vim.is/) - Interactive Vim Exercises. ([HN](https://news.ycombinator.com/item?id=29431946))
 - [Neovim and Tmux for JavaScript Development (2021)](https://elijahmanor.com/blog/neovim-tmux)
 - [My workflow using Vim (2021)](https://www.youtube.com/watch?v=2WPC8rZQvQU)
+- [DIY quality of life improvements - Anton Kastritskiy - Vimconf 2021](https://www.youtube.com/watch?v=pkyurqHhlXI)
+- [vimconf.live [2021]: Buffer is King](https://www.youtube.com/watch?v=rD2eyB9oMqQ)
+- [How to turn Vim into a powerful and beautiful IDE | Jess Archer, Vimconf 2021](https://www.youtube.com/watch?v=434tljD-5C8)

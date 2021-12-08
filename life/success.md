@@ -49,6 +49,7 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [The times I've done the best work in my career are times I've been able to fully connect who I am with what I'm doing. For anyone who needs to hear it: it is career suicide to let your soul die a slow death by suppressing anything unique you can contribute.](https://twitter.com/jeanqasaur/status/1448786763636305923)
 - [Google’s greatest evil is grooming brilliant 22 year olds into becoming complacent careerists instead of ambitious founders who might one day compete with them.](https://twitter.com/justindross/status/1450686720584921088)
 - [What looks like success is often just patience.](https://twitter.com/ShaneAParrish/status/1462038767569567753)
+- [Being patient doesn't get you what you want.](https://www.youtube.com/watch?v=EQBttJqOdAE)
 
 ## Links
 

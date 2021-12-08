@@ -300,6 +300,7 @@
 - [libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++.
 - [asyncio](https://github.com/netcan/asyncio) - C++20 library to write concurrent code using the async/await syntax.
 - [CTPG](https://github.com/peter-winter/ctpg) - C++ Compile Time Parser Generator. ([HN](https://news.ycombinator.com/item?id=29454342))
+- [Binlog](https://github.com/morganstanley/binlog) - High performance C++ log library to produce structured binary logs.
 
 ## Links
 

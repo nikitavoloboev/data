@@ -196,6 +196,7 @@
 - [aeson-typescript](https://github.com/codedownio/aeson-typescript) - Generate TypeScript definition files from your ADTs.
 - [MissingH](https://github.com/haskell-hvr/missingh) - Collection of Haskell-related utilities.
 - [buffer-builder](https://github.com/chadaustin/buffer-builder) - Haskell library for efficiently building up buffers.
+- [nonempty-containers](https://github.com/mstksg/nonempty-containers) - Efficient non-empty variants of containers data types, with full API.
 
 ## Notes
 

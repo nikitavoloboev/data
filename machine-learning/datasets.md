@@ -127,3 +127,4 @@
 - [doubtlab](https://github.com/koaning/doubtlab) - General tricks that may help you find bad, or noisy, labels in your dataset.
 - [Gretel Synthetics](https://github.com/gretelai/gretel-synthetics) - Synthetic data generators for structured and unstructured text, featuring differentially private learning.
 - [Great datasets to teach with (2021)](https://twitter.com/seankross/status/1465352844421312514)
+- [A Cartel of Influential Datasets Are Dominating Machine Learning Research](https://www.unite.ai/a-cartel-of-influential-datasets-are-dominating-machine-learning-research-new-study-suggests/) ([HN](https://news.ycombinator.com/item?id=29458157))

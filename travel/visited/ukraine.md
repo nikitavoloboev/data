@@ -14,3 +14,5 @@ It's unfortunate [what Ukraine has to deal through](https://www.youtube.com/watc
 - [In the Trenches of Russia’s War Against Ukraine (2021)](https://www.youtube.com/watch?v=8Flf1grUWCU)
 - [The U.S. Approach to Ukraine’s Border War Isn’t Working. Here’s What Biden Should Do Instead. (2021)](https://www.politico.com/news/magazine/2021/11/19/ukraine-russia-putin-border-522989) ([Tweet](https://twitter.com/DrRadchenko/status/1462174339483279372))
 - [Reactions on news of Russia supposedly invading Ukraine (2021)](https://www.reddit.com/r/AskARussian/comments/qyyx3h/what_are_your_reactions_to_the_news_that_russia/)
+- [Реальная цель – не захват Украины, а коллапс ее государственности. Федор Крашенинников – о том, что Путину нужно от Киева](https://www.currenttime.tv/a/chto-putinu-nuzhno-ot-kieva/31592756.html)
+- [On Ukrainian Front, Grinding War and Weary Anticipation of Invasion (2021)](https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html)

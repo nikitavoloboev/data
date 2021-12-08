@@ -284,3 +284,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Base](https://github.com/base/base) - Foundation for creating modular, unit testable and highly pluggable, server-side node.js applications.
 - [node-safe](https://github.com/berstend/node-safe) - Make using Node.js safe again with Deno-like permissions.
 - [shrun](https://github.com/rylandg/shrun) - Test NodeJS CLI commands in isolated docker containers.
+- [Bottleneck](https://github.com/SGrondin/bottleneck) - Lightweight and zero-dependency Task Scheduler and Rate Limiter for Node.js and the browser.

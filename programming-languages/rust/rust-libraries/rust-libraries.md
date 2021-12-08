@@ -422,6 +422,7 @@
 - [deepsize](https://github.com/Aeledfyr/deepsize) - Trait and derive macro to recursively find the size of an object and the size of allocations that it owns.
 - [async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions.
 - [byteme](https://github.com/breuHQ/byteme) - Proc-macro to get Vec<u8> from struct and vise versa.
+- [Cute](https://github.com/mattgathu/cute) - Macro for Python-esque list comprehensions in Rust.
 
 ## Math
 
@@ -1209,6 +1210,7 @@
 - [tokio-file](https://github.com/asomers/tokio-file) - Asynchronous file I/O for Tokio.
 - [Calm I/O](https://github.com/myrrlyn/calm_io) - Calm I/O operations for Rust.
 - [GeoZero](https://github.com/georust/geozero) - Zero-Copy reading and writing of geospatial data.
+- [efg](https://github.com/dtolnay/efg) - Conditional compilation using boolean expression syntax, rather than any(), all(), not().
 
 ## Cargo Plugins
 
@@ -1253,6 +1255,7 @@
 - [Cargo rdme](https://github.com/orium/cargo-rdme) - Cargo command to create the readme.md from your crate's documentation.
 - [cargo-script](https://github.com/DanielKeep/cargo-script) - Cargo subcommand designed to let people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem.
 - [cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects.
+- [rhack](https://github.com/nakabonne/rhack) - Temporary edit external crates that your project depends on.
 
 ## Links
 

@@ -129,3 +129,4 @@
 - [How to create an artificial magnetosphere for Mars (2021)](https://arxiv.org/abs/2111.06887)
 - [Searching for Exomoons with Alex Teachey (2021)](https://www.youtube.com/watch?v=J2SjAgc8JAs&t=58s)
 - [How massive is the Milky Way? (2021)](https://www.syfy.com/syfy-wire/bad-astronomy-the-milky-way-galaxys-mass-has-been-measured) ([Tweet](https://twitter.com/BadAstronomer/status/1465351133606539270))
+- [The Science of Interstellar by Kip S. Thorne (2014)](https://www.goodreads.com/en/book/show/23261448) ([Review](https://twitter.com/leni_kotik/status/1468102737095241729))

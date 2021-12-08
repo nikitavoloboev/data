@@ -60,7 +60,7 @@
 - [H3](https://github.com/uber/h3) - Hexagonal Hierarchical Geospatial Indexing System. ([Docs](https://h3geo.org/docs))
 - [How to use Mapbox Movement Data for data analytics (guide) (2021)](https://www.mapbox.com/blog/how-to-utilize-mapbox-movement-data-for-mobility-insights-a-guide-for-analysts-data-scientists-and-developers)
 - [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index) - Spatial Extension to SQLite. ([HN](https://news.ycombinator.com/item?id=26685156))
-- [PostGIS](https://postgis.net/) - Spatial and Geographic Objects for PostgreSQL. ([HN](https://news.ycombinator.com/item?id=26686926))
+- [PostGIS](https://postgis.net/) - Spatial and Geographic Objects for PostgreSQL. ([HN](https://news.ycombinator.com/item?id=26686926)) ([Code](https://github.com/postgis/postgis))
 - [A new way to make maps with OpenStreetMap (2021)](https://protomaps.com/blog/new-way-to-make-maps/) ([HN](https://news.ycombinator.com/item?id=26918259))
 - [Tegola](https://github.com/go-spatial/tegola) - Mapbox Vector Tile server written in Go. ([Web](https://tegola.io/))
 - [Globe.GL](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL.

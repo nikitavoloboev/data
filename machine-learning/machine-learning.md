@@ -610,3 +610,6 @@
 - [machine-config-operator](https://github.com/openshift/machine-config-operator) - Managing updates and configuration changes to essentially everything between the kernel and kubelet.
 - [Factorized Fourier Neural Operators (2021)](https://arxiv.org/abs/2111.13802) ([Code](https://github.com/alasdairtran/fourierflow))
 - [NeurIPS 2021 Best Paper Awards (2021)](https://blog.neurips.cc/2021/11/30/announcing-the-neurips-2021-award-recipients/)
+- [What areas of deep learning are under-explored? (2021)](https://www.reddit.com/r/MachineLearning/comments/r9yzub/d_in_your_opinion_what_areas_of_deep_learning_are/)
+- [cnvrg.io](https://cnvrg.io/) - Full Stack Machine Learning Operating System.
+- [Learning with not Enough Data Part 1: Semi-Supervised Learning (2021)](https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html) ([HN](https://news.ycombinator.com/item?id=29456732))

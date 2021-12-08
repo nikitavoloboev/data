@@ -540,3 +540,5 @@
 - [AWS version of Kelsey's kubernetes-the-hard-way](https://github.com/prabhatsharma/kubernetes-the-hard-way-aws)
 - [Kubernetes at Home With K3s (2021)](https://blog.nootch.net/post/kubernetes-at-home-with-k3s/) ([Lobsters](https://lobste.rs/s/rhonjg/kubernetes_at_home_with_k3s))
 - [Admiralty](https://admiralty.io/) - System of Kubernetes controllers that intelligently schedules workloads across clusters. ([Code](https://github.com/admiraltyio/admiralty))
+- [Kubernetes on AWS](https://github.com/zalando-incubator/kubernetes-on-aws) - Deploying Kubernetes on AWS with CloudFormation and Ubuntu.
+- [Awesome Kubernetes Security](https://github.com/ksoclabs/awesome-kubernetes-security)

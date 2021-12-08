@@ -89,6 +89,7 @@
 - [The Sliding Window Pattern (2021)](https://nan.fyi/sliding-window) - Chocolates and a way to make your array algorithms a bit faster.
 - [Visual Debugger](https://playground.narendras.vercel.app/) - Playground for algorithm writing. ([Code](https://github.com/narendrasss/playground))
 - [Visualizer for common algorithm patterns](https://visualizer-sepia.vercel.app/patterns/sliding-window/find-all-averages) ([Code](https://github.com/narendrasss/visualizer))
+- [A Neat Approximation Algorithm (2021)](https://mht.wtf/post/min-deg-st/)
 
 ## Images
 

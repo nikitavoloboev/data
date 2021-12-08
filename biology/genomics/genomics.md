@@ -115,3 +115,4 @@
 - [Naturally occurring modified ribonucleosides (2020)](https://wires.onlinelibrary.wiley.com/doi/10.1002/wrna.1595)
 - [microPIPE](https://github.com/BeatsonLab-MicrobialGenomics/micropipe) - Pipeline for high-quality bacterial genome construction using ONT sequencing.
 - [Genomic Medicine and Statistics DPhil Programme](https://www.well.ox.ac.uk/study/gms)
+- [RNA Takes Over](https://www.science.org/content/blog-post/rna-takes-over) ([HN](https://news.ycombinator.com/item?id=29475295))

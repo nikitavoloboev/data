@@ -58,6 +58,7 @@ Below is a list of extensions I use.
 ## Utility
 
 - [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
+- [Scotch](https://marketplace.visualstudio.com/items?itemName=samipdahal.Scotch) - Code search for Python, Javascript, Java, and Go. ([Web](https://sdpmas.github.io/Scotch/))
 - [Macros](https://marketplace.visualstudio.com/items?itemName=EXCEEDSYSTEM.vscode-macros) - Add a simple JavaScript macro features to your VSCode. ([Code](https://github.com/exceedsystem/vscode-macros))
 - [Stepsize](https://marketplace.visualstudio.com/items?itemName=Stepsize.stepsize) - Issue tracker in IDE. ([Web](https://www.stepsize.com/)) ([Twitter](https://twitter.com/StepsizeHQ))
 - [Simple REST Client](https://github.com/HoangNguyen17193/vscode-simple-rest-client) - Easy to examine your API’s responses directly within Visual Studio Code. Send requests to verify your API.

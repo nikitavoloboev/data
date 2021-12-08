@@ -21,3 +21,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [David F. Sandberg videos on directing](https://www.youtube.com/user/ponysmasher/featured)
 - [The Drenching Richness of Andrei Tarkovsky (2021)](https://www.newyorker.com/magazine/2021/02/15/the-drenching-richness-of-andrei-tarkovsky) ([HN](https://news.ycombinator.com/item?id=26126004))
 - [Why MAD MAX: FURY ROAD Works - A Scene-By-Scene Breakdown (2021)](https://www.youtube.com/watch?v=8K2YdftsywM)
+- [Which directors entire filmography do you think is the best to have seen?](https://www.reddit.com/r/Letterboxd/comments/r9m290/which_directors_entire_filmography_do_you_think/)

@@ -38,3 +38,4 @@
 - [Foundations](https://github.com/UniMath/Foundations) - Univalent foundations of mathematics in Coq.
 - [Learning Material for Univalent Mathematics and the UniMath library](https://github.com/UniMath/Schools)
 - [The HoTT Game](https://github.com/thehottgame/TheHoTTGame)
+- [Cubical 1lab](https://cubical.1lab.dev/) - Formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory. ([Code](https://github.com/plt-amy/cubical-1lab))

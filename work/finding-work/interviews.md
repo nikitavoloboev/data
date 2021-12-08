@@ -149,3 +149,4 @@
 - [Accepted and ghosted: interviewing for a leadership position at Stripe (2021)](https://news.ycombinator.com/item?id=29387264)
 - [What I learned about interviewing](https://lanie.dev/tech/interviewing/) ([HN](https://news.ycombinator.com/item?id=29392032))
 - [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview) ([Code](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns))
+- [Interview success can depend on how you schedule interviews](https://tanayagrawal.substack.com/p/how-to-schedule-interviews) ([HN](https://news.ycombinator.com/item?id=29474274))

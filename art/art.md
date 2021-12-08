@@ -326,6 +326,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Rachael Talibart](https://www.instagram.com/rachaeltalibart/)
 - [Joshua K. Jackson](https://www.joshkjack.com/)
 - [Petri Levälahti](https://www.berdu.org/)
+- [Teemu](https://www.instagram.com/teemu.jpeg/)
 - [Christoph Zoubek](http://www.christophzoubek.com/portraits) ([Interview](https://www.sceniusgallery.com/journal/behind-the-lens-christoph-zoubek)) ([Reddit](https://www.reddit.com/user/chris_zou))
 - [TJ Holowaychuk](http://tjholowaychuk.com/)
 - [Joey MacLennan](https://www.instagram.com/joeymaclennan/)

@@ -52,6 +52,7 @@ I publish most of my work and make it open source for other people to use and re
 - [gh command supports creating, listing, and SSHing into codespaces](https://twitter.com/nicknisi/status/1452830729793150987) ([Tweet](https://twitter.com/corywilkerson/status/1453072826718515202))
 - [Describe what your function should do in a comment before you implement the function & GitHubCopilot might just write the damn thing for you.](https://twitter.com/erikras/status/1460562819452129284)
 - [Pull request habit: Provide before and after screenshots in the pull request description](https://twitter.com/housecor/status/1463132466202488836)
+- [Replace github.com with github.dev in the URL to enjoy a much better PR reviewing experience](https://twitter.com/felixge/status/1468155086648061952)
 
 ## Code
 

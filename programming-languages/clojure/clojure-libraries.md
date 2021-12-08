@@ -128,6 +128,7 @@
 - [encore](https://github.com/ptaoussanis/encore) - Core utils library for Clojure/Script.
 - [sweet-array](https://github.com/athos/sweet-array) - Array manipulation library for Clojure with "sweet" array type notation and more safety by static types.
 - [process](https://github.com/babashka/process) - Clojure wrapper for java.lang.ProcessBuilder.
+- [Clobits](https://github.com/saikyun/clobits) - Use C inside Clojure, then run it on the JVM or compile a native binary.
 
 ## Links
 

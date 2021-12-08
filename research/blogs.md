@@ -78,6 +78,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Not a Number](https://nan.fyi/) - Interactive blog on computer science and web development. ([Code](https://github.com/narendrasss/NotANumber))
 - [Dynomight](https://dynomight.net/)
 - [Yannik Sander](https://blog.ysndr.de/) ([Code](https://github.com/ysndr/blog))
+- [Amélia](https://amelia.how/)
 
 ## Notes
 
@@ -177,3 +178,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Ask HN: What are some great engineering blogs? (2021)](https://news.ycombinator.com/item?id=29237308)
 - [Ask HN: What makes a good engineering blog? (2021)](https://news.ycombinator.com/item?id=29264754)
 - [md2blog](https://jaredkrinke.github.io/md2blog/index.html) - Zero-config static site generator for dev blogs.
+- [I Host This Blog from My Garage (2021)](https://eevans.co/blog/garage/) ([HN](https://news.ycombinator.com/item?id=29474130))

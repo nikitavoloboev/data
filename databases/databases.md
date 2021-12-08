@@ -488,3 +488,4 @@
 - [Database Development Reddit](https://www.reddit.com/r/databasedevelopment/)
 - [Upgrading MySQL at Shopify (2021)](https://shopify.engineering/upgrading-mysql-shopify)
 - [DuckDB quacks Arrow: A zero-copy data integration between Apache Arrow and DuckDB (2021)](https://arrow.apache.org/blog/2021/12/03/arrow-duckdb/)
+- [Some indexing best practices (2021)](https://www.pgmustard.com/blog/indexing-best-practices-postgresql)

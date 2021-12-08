@@ -84,3 +84,4 @@
 - [The effect of CSS on screen readers (2021)](https://uselessdivs.com/blog/the-effect-of-css-on-screen-readers)
 - [Testing Accessibility workshop series](https://github.com/marcysutton/testing-accessibility-demos)
 - [Accessibility Myths](https://a11ymyths.com/)
+- [The importance of accessibility in digital products (2021)](https://dev.to/inhuofficial/never-forget-the-importance-of-accessibility-in-digital-products-11)

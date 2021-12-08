@@ -499,3 +499,4 @@
 - [Writing Maintainable Code is a Communication Skill (2021)](https://max.engineer/maintainable-code)
 - [Mindful Code Reviews (2021)](https://max.engineer/mindful-code-reviews) ([HN](https://news.ycombinator.com/item?id=29396515))
 - [The Memory Image Pattern (2021)](https://axelsvensson.com/memory-image-pattern/)
+- [Creating a better flamegraph visualization (2021)](https://pythonspeed.com/articles/a-better-flamegraph/) ([Lobsters](https://lobste.rs/s/hnfrxl/creating_better_flamegraph))

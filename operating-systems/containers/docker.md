@@ -165,3 +165,4 @@
 - [Anchore Engine](https://github.com/anchore/anchore-engine) - Service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification.
 - [Small Docker Images (2021)](https://mattglei.ch/blog/small-docker-images)
 - [dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker.
+- [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.

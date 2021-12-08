@@ -77,3 +77,4 @@
 - [Scaling Kafka at Honeycomb (2021)](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/) ([HN](https://news.ycombinator.com/item?id=29396319))
 - [kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka.
 - [Kasper](https://github.com/nmaquet/kasper) - Lightweight library for processing Kafka topics.
+- [Postgres, Kafka, and the Mysterious 100 GB](https://www.mattritter.me/?p=398)

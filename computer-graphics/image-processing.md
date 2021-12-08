@@ -139,3 +139,4 @@
 - [Pixel It](https://github.com/giventofly/pixelit) - Create pixel art from an image. ([Web](https://giventofly.github.io/pixelit/))
 - [Datamosh](https://github.com/Datamosh-js/datamosh) - Mess around with image data using buffers, create some interesting & artistic results.
 - [Imagor](https://github.com/cshum/imagor) - Fast, extensible image processing server written in Go, with Thumbor URL syntax.
+- [Issues with Cloudflare Images (2021)](https://blog.klungo.no/2021/12/07/cloudflare-images-has-a-lot-of-issues/) ([HN](https://news.ycombinator.com/item?id=29474743))

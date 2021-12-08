@@ -56,6 +56,7 @@
 - [NLPModels](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) - Data Structures for Optimization Models.
 - [MLDataPattern](https://github.com/JuliaML/MLDataPattern.jl) - Utility package for subsetting, resampling, iteration, and partitioning of various types of data sets in Machine Learning.
 - [SymPy](https://github.com/JuliaPy/SymPy.jl) - Julia interface to SymPy via PyCall.
+- [Turkie](https://github.com/theogf/Turkie.jl) - Turing + Makie.
 
 ## Math
 
@@ -372,6 +373,7 @@
 - [RegionTrees.jl](https://github.com/rdeits/RegionTrees.jl) - Quadtrees, Octrees, and their N-Dimensional Cousins.
 - [HDF5](https://github.com/JuliaIO/HDF5.jl) - Save and load data in the HDF5 file format from Julia.
 - [AMDGPU.jl](https://github.com/JuliaGPU/AMDGPU.jl) - AMD GPU (ROCm) programming in Julia.
+- [Unityper](https://github.com/YingboMa/Unityper.jl) - "compactify" structures in static single inheritance.
 
 ## Links
 

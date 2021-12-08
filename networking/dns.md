@@ -161,3 +161,5 @@
 - [domain](https://github.com/NLnetLabs/domain) - DNS library for Rust.
 - [NLnet Labs](https://nlnetlabs.nl/) - Serving the Internet community since 1999 with core infrastructure tools for DNS and BGP. ([GitHub](https://github.com/NLnetLabs))
 - [How to use Dig (2021)](https://jvns.ca/blog/2021/12/04/how-to-use-dig/) ([HN](https://news.ycombinator.com/item?id=29441333))
+- [DNS doesn't "propagate" (2021)](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
+- [Learning DNS by modeling it with ALloy](https://github.com/lorin/dns-alloy)

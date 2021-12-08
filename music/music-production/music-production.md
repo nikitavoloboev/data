@@ -119,6 +119,7 @@
 - [ngrid](https://www.ngrid.io/) - Revolutionary way to compose music.
 - [Phrasa](https://github.com/progressive-instruments/phrasa) - Language for Making Music.
 - [meSing.js](https://github.com/usdivad/mesing) - JavaScript singing synthesis library.
+- [NoiseCraft](https://github.com/maximecb/noisecraft) - Browser-based visual programming language and platform for sound synthesis. ([Web](https://noisecraft.app/)) ([Article](https://pointersgonewild.com/2021/12/05/noisecraft-a-browser-based-visual-programming-language-for-sound-music/))
 
 ## Inspiration
 

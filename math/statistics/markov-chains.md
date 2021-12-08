@@ -19,3 +19,4 @@
 - [A Tutorial on Hidden Markov Models (1989)](https://courses.physics.illinois.edu/ece417/fa2017/rabiner89.pdf)
 - [A Brief History of Markov Chains](https://mewo2.com/notes/markov-history/) ([HN](https://news.ycombinator.com/item?id=28658297))
 - [Naive text generator built in JavaScript using Markov chains](https://github.com/bespoyasov/text-generator)
+- [Генерация текста с помощью цепей Маркова](https://bespoyasov.ru/blog/text-generation-with-markov-chains/)

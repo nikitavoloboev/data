@@ -16,13 +16,13 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 ## Bot libraries
 
-- [grammY](https://grammy.dev/) - Telegram Bot Framework in TS. ([Code](https://github.com/grammyjs/grammY)) ([Examples](https://github.com/grammyjs/examples))
+- [grammY](https://grammy.dev/) - Telegram Bot Framework in TS. ([Code](https://github.com/grammyjs/grammY)) ([Examples](https://github.com/grammyjs/examples)) ([Parse Mode plugin for grammY](https://github.com/grammyjs/parse-mode)) ([Basic Scene](https://github.com/KnightNiwrem/basic-scene))
 - [grammY runner](https://github.com/grammyjs/runner) - ScalTelegram bot starter based on grammYe grammY bots.
 - [Telegram bot starter based on grammY](https://github.com/Borodutch/telegram-bot-starter)
 - [botgram](https://github.com/botgram/botgram) - Microframework to build Telegram bots. ([Web](https://botgram.js.org/))
 - [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)
 - [Go bindings to Telegram API](https://github.com/go-telegram-bot-api/telegram-bot-api) ([Docs](https://go-telegram-bot-api.dev/))
-- [Telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node. ([Docs](https://telegraf.js.org/#/)) ([NestJS module](https://github.com/bukhalo/nestjs-telegraf))
+- [Telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node. ([Docs](https://telegraf.js.org/#/)) ([NestJS module](https://github.com/bukhalo/nestjs-telegraf)) ([Telegraf Throttler](https://github.com/KnightNiwrem/telegraf-throttler))
 - [Integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow.
 - [Telebot](https://github.com/tucnak/telebot) - Looks awesome.
 - [Telegrammer](https://github.com/givip/Telegrammer) - Written with Swift 5.0/NIO, supports Linux, macOS.
@@ -76,6 +76,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [ArbeitBot](https://github.com/ArbeitBot/ArbeitBot) - Free open-source Telegram freelance market.
 - [Shieldy](https://t.me/shieldy_bot) - Best solution in Telegram to fight annoying spammers. ([Code](https://github.com/1inch/shieldy))
 - [Telegram Advent Calendar](https://github.com/KrauseFx/telegram-advent-calendar)
+- [WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot) - Telegram Group Manager Bot Written In Python Using Pyrogram.
 
 ## Notes
 
@@ -145,3 +146,5 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram bot that has the ability to /eval code](https://vimsical.notion.site/REPL-Chat-35c36c3da44c4d8c9b42c211cb0c67ef)
 - [TypeScript types for the entire Telegram Bot API](https://github.com/KnorpelSenf/typegram)
 - [Is Bot Down](https://isbotdown.com/) - Check if your favorite bot is down or not. ([Code](https://github.com/backmeupplz/IsBotDownBot))
+- [GramJS](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library.
+- [SSG](https://ssg.rojser.best/) - Generate GramJS/Telethon string sessions in your browser. ([Code](https://github.com/rojserbest/ssg))

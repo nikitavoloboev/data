@@ -47,6 +47,7 @@
 - [Image Window](https://github.com/valentine195/obsidian-image-window) - Adds the ability to open images in new Obsidian windows.
 - [Obsidian Vale](https://github.com/marcusolsson/obsidian-vale) - Vale client for Obsidian.
 - [Obsidian AnkiBridge](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge) - Anki integration for Obsidian.
+- [Hypothesis Plugin](https://github.com/weichenw/obsidian-hypothesis-plugin) - Synchronize Hypothesis web article highlights/annotations into your Obsidian Vault.
 
 ## Themes
 

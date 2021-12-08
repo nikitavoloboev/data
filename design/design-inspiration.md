@@ -319,6 +319,7 @@ Here are few more things I liked, design wise.
 - [Ben Myers](https://benmyers.dev/)
 - [Michele Riva](https://www.micheleriva.it/)
 - [Krasjet](https://krasjet.com/)
+- [Jordan Amblin](https://ambl.in/)
 - [Craig Mod](https://craigmod.com/)
 - [Andrew Chou](https://andrew.nonetoohappy.buzz/) ([Code](https://github.com/achou11/andrew-chou))
 - [Marc Rousavy](https://mrousavy.github.io/)

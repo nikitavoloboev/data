@@ -360,3 +360,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [nats-spy](https://github.com/alihanyalcin/nats-spy) - Terminal tool to help you to monitor NATS messages.
 - [BIRD Journey to Threads. Chapter 0: The Reason Why (2021)](https://en.blog.nic.cz/2021/03/15/bird-journey-to-threads-chapter-0-the-reason-why/)
 - [CoreBGP - Plugging in to BGP (2020)](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)
+- [Some latency measurement pitfalls](https://danluu.com/latency-pitfalls/)

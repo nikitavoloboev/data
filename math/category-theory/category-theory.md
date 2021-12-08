@@ -128,6 +128,8 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category Theory Resources](https://github.com/bgavran/Category_Theory_Resources)
 - [Introduction to Category Theory](http://www.cs.nott.ac.uk/~pszgmh/cat.html)
 - [Collected works of F. W. Lawvere](https://github.com/mattearnshaw/lawvere)
+- [Cubical Sets (2021)](https://amelia.how/posts/cubical-sets.html)
+- [A quickie: Axiom J (2021)](https://amelia.how/quick/axiom-j.html)
 
 ## Images
 

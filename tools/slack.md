@@ -47,3 +47,4 @@
 - [Slack Block Builder Demo](https://github.com/raycharius/slack-block-builder-demo)
 - [Awesome Slack](https://github.com/matiassingers/awesome-slack)
 - [Blockkit](https://github.com/imryche/blockkit) - Python library for building UI interfaces for Slack apps.
+- [Slack alternatives (2021)](https://twitter.com/sdw/status/1468308805939122181)

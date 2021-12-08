@@ -8,6 +8,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 
 ## Interesting dotfiles
 
+- [Ahmed Gabri](https://github.com/ahmedelgabri/dotfiles)
 - [Ian Macalinao](https://github.com/macalinao/dotfiles)
 - [Gary Bernhardt](https://github.com/garybernhardt/dotfiles)
 - [RiN](https://github.com/ri7nz/.dotifiles)

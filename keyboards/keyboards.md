@@ -38,7 +38,9 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Pheromone](https://github.com/luantty2/pheromone_keyboard) - 63-key keyboard supports slide potentiometer, rotary encoder and oled screen.
 - [KeySeeBee](https://github.com/TeXitoi/keyseebee) - Split ergo keyboard.
 - [X-Bows with Gateron optical switches](https://twitter.com/tekezo/status/1444105091036762112)
-  - [Djinn](https://github.com/tzarc/djinn) - 64-key split keyboard. ([HN](https://news.ycombinator.com/item?id=29311222))
+- [Djinn](https://github.com/tzarc/djinn) - 64-key split keyboard. ([HN](https://news.ycombinator.com/item?id=29311222))
+- [Work Louder](https://worklouder.cc/) - Modular keyboards for digital creators.
+- [MiRage Modular Keyboard](https://github.com/ZackFreedman/MiRage)
 
 ## Interesting keycaps
 

@@ -475,3 +475,4 @@
 - [Useful computer vision PhD resources](https://github.com/hassony2/useful-computer-vision-phd-resources)
 - [Tenyks](https://www.tenyks.ai/) - Data-centric Computer Vision.
 - [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (2021)](https://bowenc0221.github.io/mask2former/) ([Code](https://github.com/facebookresearch/Mask2Former))
+- [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields (2021)](https://m-niemeyer.github.io/project-pages/giraffe/index.html) ([Code](https://github.com/autonomousvision/giraffe))

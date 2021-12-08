@@ -234,3 +234,4 @@
 - [Paxos made Abstract (2021)](https://maheshba.bitbucket.io/blog/2021/11/15/Paxos.html)
 - [Unbase](https://github.com/mindbeam/unbase) - Distributed database/application framework that is fundamentally reactive, fault tolerant, and decentralized.
 - [Beating the CAP Theorem Checklist](https://ferd.ca/beating-the-cap-theorem-checklist.html)
+- [Paper review: Paxos vs Raft](https://emptysqua.re/blog/paxos-vs-raft/)

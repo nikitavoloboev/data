@@ -28,7 +28,7 @@
 - [Tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [How We Test Vector (2020)](https://vector.dev/blog/how-we-test-vector/) - Survey of techniques we've found useful.
 - [puppeteer + dom-testing-library](https://github.com/testing-library/pptr-testing-library)
-- [How SQLite Is Tested](https://sqlite.org/testing.html)
+- [How SQLite Is Tested](https://sqlite.org/testing.html) ([HN](https://news.ycombinator.com/item?id=29460240))
 - [Are Tests Necessary in TypeScript? (2020)](https://www.executeprogram.com/blog/are-tests-necessary-in-typescript) ([HN](https://news.ycombinator.com/item?id=22864598))
 - [Appium](https://github.com/appium/appium) - Automation for iOS, Android, and Windows Apps.
 - [Awesome Test Anything](https://github.com/sindresorhus/awesome-tap) - Useful resources for the Test Anything Protocol.
@@ -122,3 +122,4 @@
 - [Gnomock](https://github.com/orlangure/gnomock) - Integration and end-to-end testing toolkit. It uses Docker to create temporary containers for application dependencies, setup their initial state and clean them up in the end.
 - [Automated, Targeted Testing of Property-Based Testing Predicates](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/)
 - [Testing (2021)](https://www.scattered-thoughts.net/writing/testing/)
+- [Overview of Property-Based Testing Functionality](https://github.com/jmid/pbt-frameworks)

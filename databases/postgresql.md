@@ -372,3 +372,4 @@
 - [supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase.
 - [skitch](https://github.com/pyramation/skitch) - Create PostgreSQL SQL code quickly and in a streamlined, versioned workflow.
 - [pg2arrow](https://github.com/heterodb/pg2arrow) - PostgreSQL Table to Apache Arrow file converter.
+- [Advent of Code 2021 with PostgreSQL](https://github.com/mitchellh/advent-2021-sql) ([HN](https://news.ycombinator.com/item?id=29467671))

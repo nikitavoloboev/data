@@ -128,6 +128,7 @@
 - [Iota](https://github.com/frees-io/iota) - Fast [co]product types with a clean syntax. For Cats & Scalaz.
 - [Enumeratum](https://github.com/lloydmeta/enumeratum) - Type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.
 - [FS2](https://github.com/typelevel/fs2) - Compositional, streaming I/O library for Scala. ([Web](https://fs2.io/#/))
+- [Endless](https://github.com/endless4s/endless) - Scala library to describe event sourced entities using tagless-final algebras. ([Docs](https://endless4s.github.io/))
 
 ## Links
 

@@ -219,6 +219,7 @@
 - [fnts](https://github.com/drizzer14/fnts) - Minimal Functional Programming Utilities for TypeScript & JavaScript. ([Docs](https://drizzer14.github.io/fnts/))
 - [Crunker](https://github.com/jackedgson/crunker) - Simple way to merge or concatenate audio files with the Web Audio API.
 - [static-path](https://github.com/garybernhardt/static-path) - Uses the type system to prevent 404s at compile time.
+- [ts-belt](https://github.com/mobily/ts-belt) - Fast, modern, and practical utility library for FP in TypeScript. ([Docs](https://mobily.github.io/ts-belt/api/array))
 
 ## Links
 

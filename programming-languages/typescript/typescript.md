@@ -109,7 +109,7 @@
 - [TypeScript interactive course](https://www.executeprogram.com/courses/typescript)
 - [ts-migrate](https://github.com/airbnb/ts-migrate) - Tool to automatically migrate JavaScript projects to TS. ([HN](https://news.ycombinator.com/item?id=24204718))
 - [Exhaustive matching in TypeScript (2020)](https://www.dorfmeister.cc/blog/exhaustive-matching-in-type-script)
-- [TypeScript for Professionals (2020)](https://www.udemy.com/course/typescript-for-professionals/)
+- [TypeScript for Professionals (2020)](https://www.udemy.com/course/typescript-for-professionals/) ([Code](https://github.com/basarat/typescript-for-professionals))
 - [The Single-Valued Type Pattern for TypeScript (2020)](https://spin.atomicobject.com/2020/10/05/single-valued-type-pattern/)
 - [TypeScript in 50 Lessons book](https://www.smashingmagazine.com/printed-books/typescript-in-50-lessons/)
 - [TypeScript notes/links](https://joeprevite.com/typescript)

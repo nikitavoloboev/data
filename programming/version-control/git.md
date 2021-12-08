@@ -445,3 +445,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Nano Staged](https://github.com/usmanyunusov/nano-staged) - Tool to run commands only on git staged files.
 - [Git Plugins](https://github.com/afeld/git-plugins) - Collection of custom git commands.
 - [git-mediate](https://github.com/Peaker/git-mediate) - Become a conflict resolution hero.
+- [Git for Professionals Tutorial (2021)](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+- [git-history: a tool for analyzing scraped data collected using Git and SQLite (2021)](https://simonwillison.net/2021/Dec/7/git-history/)

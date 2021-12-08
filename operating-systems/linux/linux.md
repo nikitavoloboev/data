@@ -431,3 +431,5 @@
 - [Autorandr and Keyd (2021)](https://www.crisidev.org/blog/autorandr/) - Automatic monitor handling and key mapping in Linux.
 - [Distrobox](https://github.com/89luca89/distrobox) - Use any Linux distribution inside your terminal.
 - [Unikernel Linux (2021)](https://www.youtube.com/watch?v=Hu268xq9gMk) ([Lobsters](https://lobste.rs/s/8puuif/unikernel_linux))
+- [Exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
+- [C++ in the Linux kernel (2021)](https://www.threatstack.com/blog/c-in-the-linux-kernel)

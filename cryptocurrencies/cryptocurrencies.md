@@ -202,3 +202,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Proof of stake is a scam and the people promoting it are scammers (2021)](https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/) ([HN](https://news.ycombinator.com/item?id=29366310))
 - [tbDEX: A Liquidity Protocol White Paper](https://github.com/TBDev-54566975/white-paper/blob/main/whitepaper.pdf)
 - [Crypto world is an ecosystem being fueled by the “House Money Effect” (2021)](https://twitter.com/fintechjunkie/status/1466217991532650496)
+- [How to Become a Crypto Person: A Normie’s Guide (2021)](https://nymag.com/intelligencer/article/crypto-nft-twitter-discord-guide.html)

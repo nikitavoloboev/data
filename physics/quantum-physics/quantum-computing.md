@@ -124,3 +124,6 @@
 - [Quandary](https://github.com/LLNL/quandary) - Optimal control for open quantum systems.
 - [qsearch](https://github.com/BQSKit/qsearch) - Compiler for quantum computers based on A\* and numerical optimization.
 - [NetKet](https://github.com/netket/netket) - Machine learning algorithms for many-body quantum systems. ([Web](https://www.netket.org/))
+- [‘Shut up and calculate’ does a disservice to quantum mechanics (2021)](https://aeon.co/essays/shut-up-and-calculate-does-a-disservice-to-quantum-mechanics)
+- [PyQIR](https://github.com/qir-alliance/pyqir) - Set of APIs for generating, parsing, and evaluating Quantum Intermediate Representation (QIR).
+- [Saturday Morning Breakfast Cereal - The Talk](https://www.smbc-comics.com/comic/the-talk-3)

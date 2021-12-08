@@ -77,3 +77,4 @@
 - [WebGL Water](http://madebyevan.com/webgl-water/) ([Code](https://github.com/evanw/webgl-water)) ([HN](https://news.ycombinator.com/item?id=29376037))
 - [MeshCat Python](https://github.com/rdeits/meshcat-python) - Python Bindings to the MeshCat WebGL viewer.
 - [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) - Julia bindings to the MeshCat WebGL viewer.
+- [WebGLWorker](https://github.com/kripken/webgl-worker) - Lets you write WebGL code in a web worker, as if WebGL were implemented there.

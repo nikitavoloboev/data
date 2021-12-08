@@ -248,6 +248,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [5 books I loved reading this year | Bill Gates](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021) ([HN](https://news.ycombinator.com/item?id=29309758))
 - [Books that changed my career as a software engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer) ([HN](https://news.ycombinator.com/item?id=29364892))
 - [Very very short book you read (< 150 pages) (2021)](https://twitter.com/patrick_oshag/status/1466137479661170688)
+- [Ask HN: What are some must read books? (2021)](https://news.ycombinator.com/item?id=29462663)
+- [Best fiction of 2021](https://www.theguardian.com/books/2021/dec/04/best-fiction-of-2021)
 
 ## Interesting Prose Books
 
@@ -448,3 +450,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [London Review of Books](https://lrb.co.uk/)
 - [Kavita](https://www.kavitareader.com/) - Browse your Manga, Comics and Books.
 - [Tablo](https://tablo.com/) - Best place to create, print and publish a poetry book. ([Print](https://tablo.com/print))
+- [How I wrote my book](https://www.kevinwmcconnell.com/writing/how-i-wrote-my-book)

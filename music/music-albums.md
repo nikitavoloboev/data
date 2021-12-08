@@ -17,3 +17,4 @@ A list of albums I like.
 - [SHEOGORATH - ZOOM (2018)](https://www.youtube.com/watch?v=RPxvTd_jCPQ)
 - [Electronic System - Skylab (1974)](https://www.youtube.com/watch?v=cIwDLN2X6Rs)
 - [Blood Orange - Negro Swan (2018)](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) - Loved Orlando.
+- [Pitchfork's 50 Best Albums of 2021](https://pitchfork.com/features/lists-and-guides/best-albums-2021/) ([Reddit](https://www.reddit.com/r/popheads/comments/razwhl/pitchforks_50_best_albums_of_2021/))

@@ -304,3 +304,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Shotstack](https://shotstack.io/) - Cloud Video Editing API.
 - [Awesome Video](https://github.com/krzemienski/awesome-video) - Curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [Astrofox](https://astrofox.io/) - Turn audio into amazing videos. ([Code](https://github.com/astrofox-io/astrofox))
+- [YouTube Trends](https://www.youtube.com/trends/)
+- [Top YouTube 2021 Videos/Creators](https://www.youtube.com/trends/2021/)
+- [FFrames](https://fframes.studio/) - Open source video creation framework. Make delightful videos with SVG and Rust. ([Twitter](https://twitter.com/fframes_rust))
+- [Milk Video](https://app.milkvideo.com/focused-flow) - Turn webinars into shareable highlights.

@@ -35,3 +35,4 @@
 - [Investing for European residents explained in plain language](https://indexfundinvestor.eu/)
 - [Glossary of summaries - EUR-Lex](https://eur-lex.europa.eu/summary/glossary/eu_institutions.html)
 - [EUR-Lex - Access to European Union law](https://eur-lex.europa.eu/homepage.html)
+- [Which cities in Europe have the most interesting geography/topography? (2021)](https://www.reddit.com/r/AskEurope/comments/ra5mco/which_cities_in_europe_have_the_most_interesting/)

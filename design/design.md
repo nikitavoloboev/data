@@ -29,7 +29,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Free Logos](https://github.com/arasatasaygin/openlogos) - Has some nice logos.
 - [Design Languages](https://design-languages.com/) - Curated library for design languages, design systems and front-end frameworks.
 - [Designing Fluid Interfaces (2018)](https://developer.apple.com/videos/play/wwdc2018/803/)
-- [Refactoring UI](https://refactoringui.com/) - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.
+- [Refactoring UI](https://refactoringui.com/) - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view. ([Book](https://www.refactoringui.com/book))
 - [Curated list of UI styleguides](https://github.com/streamich/awesome-styleguides)
 - [The ineffectiveness of lonely icons (2019)](https://mattwilcox.net/musing/the-ineffectiveness-of-icons)
 - [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) ([HN](https://news.ycombinator.com/item?id=19580860))
