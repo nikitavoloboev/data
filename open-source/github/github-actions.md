@@ -143,6 +143,7 @@
 - [kube-tools](https://github.com/stefanprodan/kube-tools) - Kubernetes tools for GitHub Actions CI.
 - [Deploy to Gist](https://github.com/exuanbo/actions-deploy-gist) - Github Action to deploy your file to Github Gist.
 - [Updating GitHub Wiki Pages with GitHub Actions](https://github.com/gfx/example-updating-wiki-with-gha)
+- [Doka Labeler](https://github.com/doka-guide/doka-labeler) - Automatically label pull requests based on multiple criteria with minimal configuration.
 
 ## Go
 

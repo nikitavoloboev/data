@@ -27,6 +27,7 @@
 
 - [zgt](https://github.com/zenith391/zgt) - Zig GUI Toolkit.
 - [tvg](https://github.com/MasterQ32/tvg) - Tiny Vector Graphics.
+- [zig-cairo](https://github.com/jackdbd/zig-cairo) - Thin wrapper for the cairo 2D graphics library.
 
 ## Other
 

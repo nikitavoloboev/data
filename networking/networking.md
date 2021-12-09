@@ -361,3 +361,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [BIRD Journey to Threads. Chapter 0: The Reason Why (2021)](https://en.blog.nic.cz/2021/03/15/bird-journey-to-threads-chapter-0-the-reason-why/)
 - [CoreBGP - Plugging in to BGP (2020)](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)
 - [Some latency measurement pitfalls](https://danluu.com/latency-pitfalls/)
+- [ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, webnet77, db-ip lite, GeoLite2.
+- [Masscanned](https://github.com/ivre/masscanned) - Network responder. Its purpose is to provide generic answers to as many protocols as possible.

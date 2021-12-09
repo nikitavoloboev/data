@@ -123,3 +123,4 @@
 - [Automated, Targeted Testing of Property-Based Testing Predicates](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/)
 - [Testing (2021)](https://www.scattered-thoughts.net/writing/testing/)
 - [Overview of Property-Based Testing Functionality](https://github.com/jmid/pbt-frameworks)
+- [How the GNU coreutils are tested (2017)](https://www.pixelbeat.org/docs/coreutils-testing.html)

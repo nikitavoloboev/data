@@ -45,6 +45,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegrask](https://github.com/samedamci/telegrask) - Flask-inspired Telegram bot micro framework for Python.
 - [TGBF](https://github.com/Endogen/tgbf) - Telegram Bot Framework.
 - [Kotlin Telegram Bot Library](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) ([Template](https://github.com/demidko/telegram))
+- [Slimbot](https://github.com/edisonchee/slimbot) - Telegram Bot API for Node.js.
 
 ## Bots
 
@@ -77,6 +78,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Shieldy](https://t.me/shieldy_bot) - Best solution in Telegram to fight annoying spammers. ([Code](https://github.com/1inch/shieldy))
 - [Telegram Advent Calendar](https://github.com/KrauseFx/telegram-advent-calendar)
 - [WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot) - Telegram Group Manager Bot Written In Python Using Pyrogram.
+- [Hitokoto](https://github.com/my-telegram-bots/hitokoto_bot) - Telegram bot hosted in cloudflare workers.
 
 ## Notes
 
@@ -148,3 +150,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Is Bot Down](https://isbotdown.com/) - Check if your favorite bot is down or not. ([Code](https://github.com/backmeupplz/IsBotDownBot))
 - [GramJS](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library.
 - [SSG](https://ssg.rojser.best/) - Generate GramJS/Telethon string sessions in your browser. ([Code](https://github.com/rojserbest/ssg))
+- [Telegram Protected Content, Delete by Date, Device Management and more (2021)](https://telegram.org/blog/protected-content-delete-by-date-and-more) ([HN](https://news.ycombinator.com/item?id=29482918))

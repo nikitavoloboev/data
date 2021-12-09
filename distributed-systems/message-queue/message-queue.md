@@ -21,3 +21,4 @@
 - [MQ](https://github.com/asim/mq) - Simple distributed in-memory message broker.
 - [nerve](https://github.com/queer/singyeong) - Cloud-native messaging/pubsub with powerful routing.
 - [Thoughts on inter-service messaging (2021)](https://b.amy.gg/thoughts-on-inter-service-messaging)
+- [Plumber](https://github.com/batchcorp/plumber) - Swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.

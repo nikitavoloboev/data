@@ -433,3 +433,4 @@
 - [Unikernel Linux (2021)](https://www.youtube.com/watch?v=Hu268xq9gMk) ([Lobsters](https://lobste.rs/s/8puuif/unikernel_linux))
 - [Exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [C++ in the Linux kernel (2021)](https://www.threatstack.com/blog/c-in-the-linux-kernel)
+- [Rust support in the Linux kernel (2021)](https://lkml.org/lkml/2021/12/6/461) ([HN](https://news.ycombinator.com/item?id=29485465))

@@ -373,3 +373,4 @@
 - [skitch](https://github.com/pyramation/skitch) - Create PostgreSQL SQL code quickly and in a streamlined, versioned workflow.
 - [pg2arrow](https://github.com/heterodb/pg2arrow) - PostgreSQL Table to Apache Arrow file converter.
 - [Advent of Code 2021 with PostgreSQL](https://github.com/mitchellh/advent-2021-sql) ([HN](https://news.ycombinator.com/item?id=29467671))
+- [Speeding up Postgres integration tests in Go (2021)️](https://www.maragu.dk/blog/speeding-up-postgres-integration-tests-in-go/)

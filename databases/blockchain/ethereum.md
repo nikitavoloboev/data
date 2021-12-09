@@ -399,3 +399,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Interfaces for turbo-geth components](https://github.com/ledgerwatch/interfaces)
 - [Proofs of Custody (2021)](https://dankradfeist.de/ethereum/2021/09/30/proofs-of-custody.html)
 - [Roadmap diagram for where Ethereum protocol development is at and what's coming in what order (2021)](https://twitter.com/VitalikButerin/status/1466411377107558402)
+- [dYdX](https://dydx.exchange/) - Open protocol for decentralized derivatives built on the Ethereum blockchain. ([GitHub](https://github.com/dydxprotocol))
+- [Dodoc](https://github.com/primitivefinance/primitive-dodoc) - Zero-config Hardhat plugin to generate documentation for all your Solidity contracts.
+- [Opinionated Dapp Starter Template](https://github.com/jellydn/dapp-starter)

@@ -82,3 +82,5 @@
 - [Portable OpenSSH](https://github.com/openssh/openssh-portable) - Complete implementation of the SSH protocol for secure remote login, command execution and file transfer.
 - [SSH-MITM](https://github.com/ssh-mitm/ssh-mitm) - SSH audits made simple. ([HN](https://news.ycombinator.com/item?id=29256572))
 - [SSH2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for NodeJS.
+- [Wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that.
+- [promwish](https://github.com/charmbracelet/promwish) - Provides a simple wish middleware exposing some Prometheus metrics.

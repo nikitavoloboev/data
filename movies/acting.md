@@ -29,3 +29,4 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 - [Theatricalia](https://theatricalia.com/) - Database of past and future theatre productions. ([Code](https://github.com/dracos/Theatricalia))
 - [Who is your highest rated actor? (2021)](https://www.reddit.com/r/Letterboxd/comments/qudjqb/who_is_your_highest_rated_actor/)
 - [Favorite film performances (2021)](https://www.reddit.com/r/Letterboxd/comments/r79a66/favourite_film_performances_what_are_yours/)
+- [On “Succession,” Jeremy Strong Doesn’t Get the Joke (2021)](https://www.newyorker.com/magazine/2021/12/13/on-succession-jeremy-strong-doesnt-get-the-joke)

@@ -642,3 +642,6 @@ if err != nil {
 - [Search over a Go corpus](https://quasilyte.dev/gocorpus/) ([Code](https://github.com/quasilyte/gocorpus))
 - [GopherCon 2021 "Production AI with Go" Workshop](https://github.com/dwhitena/gc2021-ai-workshop)
 - [golang-crossbuild](https://github.com/elastic/golang-crossbuild) - Set of Docker images containing the requisite cross-compilers for cross compiling Go applications.
+- [Hacking Go compiler to add a new keyword (2021)](https://avi.im/blag/2021/rc-day-24/) ([HN](https://news.ycombinator.com/item?id=29487244))
+- [Gors](https://github.com/aymericbeaumet/gors) - Experimental go toolbelt written in rust (parser, compiler).
+- [Become an expert Go cloud developer](https://www.golang.dk/) ([Twitter](https://twitter.com/golangdk))

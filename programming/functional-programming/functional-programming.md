@@ -143,6 +143,7 @@
 - [On the correctness of monadic backward induction (2021)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-the-correctness-of-monadic-backward-induction/0F71FFE6AE1222E77F52341C695E366A) ([Tweet](https://twitter.com/CUP_JFP/status/1457060107087450115))
 - [What exactly is functional programming (and it's benefits)? (2021)](https://www.reddit.com/r/scala/comments/qs52h2/what_exactly_is_functional_programming_and_its/)
 - [Journal of Functional Programming](https://www.cambridge.org/core/journals/journal-of-functional-programming) ([Goes Open Access](https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/)) ([HN](https://news.ycombinator.com/item?id=29218202))
+- [Algebraic Data Types in 10 Minutes – Daniel Rogozin (2021)](https://www.youtube.com/watch?v=UqwLn2OyQ_E)
 
 ## Images
 

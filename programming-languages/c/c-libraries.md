@@ -28,6 +28,7 @@
 - [rawdraw](https://github.com/cntools/rawdraw) - Fundamental Graphics Library.
 - [LVGL](https://github.com/lvgl/lvgl) - Light and Versatile Graphics Library. ([Web](https://lvgl.io/))
 - [Kinc](https://github.com/Kode/Kinc) - Modern low level game library and hardware abstraction.
+- [Cairo](https://github.com/freedesktop/cairo) - Multi-platform 2D graphics library.
 
 ## Test
 

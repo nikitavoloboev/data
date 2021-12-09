@@ -542,3 +542,5 @@
 - [Admiralty](https://admiralty.io/) - System of Kubernetes controllers that intelligently schedules workloads across clusters. ([Code](https://github.com/admiraltyio/admiralty))
 - [Kubernetes on AWS](https://github.com/zalando-incubator/kubernetes-on-aws) - Deploying Kubernetes on AWS with CloudFormation and Ubuntu.
 - [Awesome Kubernetes Security](https://github.com/ksoclabs/awesome-kubernetes-security)
+- [cluster-api-state-metrics (CASM)](https://github.com/Daimler/cluster-api-state-metrics) - Service that listens to the Kubernetes API server and generates metrics about the state of custom resource objects related of Kubernetes Cluster API.
+- [Dataflow](https://github.com/argoproj-labs/argo-dataflow) - Kubernetes-native platform for executing large parallel data-processing pipelines.

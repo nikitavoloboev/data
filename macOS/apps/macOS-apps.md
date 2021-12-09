@@ -116,6 +116,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Pareto Mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
 - [Quick Draw](https://github.com/maxchuquimia/quickdraw) - macOS app for drawing over the screen.
 - [Ultra for Music](https://github.com/revblaze/AppleMusicUltra) - Music Client for macOS.
+- [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS application to create configuration profiles.
 
 ## Other interesting apps
 

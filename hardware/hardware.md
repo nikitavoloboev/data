@@ -258,3 +258,5 @@
 - [How to jailbreak an Amazon Echo Dot?](https://lobste.rs/s/qmoy4y/how_jailbreak_amazon_echo_dot)
 - [What's the best PC gaming setup these days? (2021)](https://twitter.com/aeyakovenko/status/1465017842915446787)
 - [Ask HN: Are there any 4K “dumb” televisions? (2021)](https://news.ycombinator.com/item?id=29382643)
+- [Scan of the Month - AirPods Evolution](https://scanofthemonth.com/)
+- [Miniature 3456 LED cube](https://willempennings.nl/miniature-3456-led-cube/)

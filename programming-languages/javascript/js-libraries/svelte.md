@@ -147,3 +147,5 @@
 - [Svelte's lifecycle methods can be used anywhere (2021)](https://geoffrich.net/posts/svelte-lifecycle-examples/)
 - [svelte-forms](https://github.com/chainlist/svelte-forms) - Svelte forms validation made easy.
 - [Houdini](https://github.com/AlecAivazis/houdini) - Disappearing GraphQL client for Sapper and SvelteKit.
+- [svelte-popperjs](https://github.com/bryanmylee/svelte-popperjs) - Popper for Svelte with actions, no wrapper components required.
+- [svelte-previous](https://github.com/bryanmylee/svelte-previous) - Svelte stores that remember previous values.

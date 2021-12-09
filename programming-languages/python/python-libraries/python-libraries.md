@@ -580,6 +580,7 @@
 - [mpi4jax](https://github.com/mpi4jax/mpi4jax) - Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python.
 - [Plum](https://github.com/wesselb/plum) - Multiple Dispatch in Python.
 - [SceneGraphParser](https://github.com/vacancy/SceneGraphParser) - Python toolkit for parsing sentences (in natural language) into scene graphs (as symbolic representation) based on the dependency parsing.
+- [python-json-patch](https://github.com/stefankoegl/python-json-patch) - Applying JSON Patches in Python.
 
 ## Links
 

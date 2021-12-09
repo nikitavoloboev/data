@@ -38,3 +38,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Netflix Top 10 Series - Global](https://top10.netflix.com/tv.html)
 - [Universal Trakt Scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - Extension that allows you to automatically scrobble TV shows and movies that you are watching.
 - [True crime series](https://twitter.com/dussstyboy/status/1461857598312009729)
+- [What are some old British TV shows (pre-2000) that still hold up really well?](https://www.reddit.com/r/AskUK/comments/rbo1ia/what_are_some_old_british_tv_shows_pre2000_that/)

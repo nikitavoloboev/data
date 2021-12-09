@@ -114,3 +114,4 @@
 - [Ask HN: What are the early signs of singularity? (2021)](https://news.ycombinator.com/item?id=29343774)
 - [Aligning AI With Shared Human Values (2020)](https://arxiv.org/abs/2008.02275) ([Code](https://github.com/hendrycks/ethics))
 - [100 Lessons from 1 Year of AI Research (2021)](https://jetnew.io/blog/2021/100-lessons/)
+- [DeepMind's Player of Games, a general-purpose game algorithm (2021)](https://arxiv.org/abs/2112.03178) ([HN](https://news.ycombinator.com/item?id=29481665))

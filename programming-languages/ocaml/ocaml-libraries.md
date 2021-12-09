@@ -123,3 +123,4 @@
 - [OPAM packages](http://opam.ocaml.org/packages/)
 - [dune-deps](https://github.com/mjambon/dune-deps) - Show the internal dependencies in your OCaml/Reason/Dune project.
 - [dune-release](https://github.com/ocamllabs/dune-release) - Tool to streamline the release of Dune packages in opam.
+- [opam-dune-lint](https://github.com/ocurrent/opam-dune-lint) - Ensure dune and opam dependencies are consistent.

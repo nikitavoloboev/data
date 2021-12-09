@@ -447,4 +447,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-mediate](https://github.com/Peaker/git-mediate) - Become a conflict resolution hero.
 - [Git for Professionals Tutorial (2021)](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 - [git-history: a tool for analyzing scraped data collected using Git and SQLite (2021)](https://simonwillison.net/2021/Dec/7/git-history/)
-- [Branchless Git (2021)](https://benjamincongdon.me/blog/2021/12/07/Branchless-Git/)
+- [Branchless Git (2021)](https://benjamincongdon.me/blog/2021/12/07/Branchless-Git/) ([Lobsters](https://lobste.rs/s/o1oezm/branchless_git))
+- [Soft Serve](https://github.com/charmbracelet/soft-serve) - Tasty, self-hosted Git server for the command line.

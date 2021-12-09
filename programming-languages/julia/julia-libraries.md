@@ -374,6 +374,7 @@
 - [HDF5](https://github.com/JuliaIO/HDF5.jl) - Save and load data in the HDF5 file format from Julia.
 - [AMDGPU.jl](https://github.com/JuliaGPU/AMDGPU.jl) - AMD GPU (ROCm) programming in Julia.
 - [Unityper](https://github.com/YingboMa/Unityper.jl) - "compactify" structures in static single inheritance.
+- [ClimateMachine.jl](https://github.com/CliMA/ClimateMachine.jl) - Earth System Model that automatically learns from data.
 
 ## Links
 

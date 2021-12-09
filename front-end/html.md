@@ -202,3 +202,4 @@
 - [Super OG Images](https://superblog.ai/og) - API to create opengraph images programmatically. ([Code](https://github.com/s-kris/super-og-images))
 - [hq](https://github.com/mitsuhiko/hq) - jq but for HTML.
 - [mailgen](https://github.com/eladnava/mailgen) - Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
+- [domutils](https://github.com/fb55/domutils) - Utilities for working with htmlparser2's DOM.

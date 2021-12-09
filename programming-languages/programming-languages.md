@@ -276,3 +276,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Are there any ML style languages with no runtime? (2021)](https://www.reddit.com/r/ProgrammingLanguages/comments/r28x49/are_there_any_ml_style_languages_with_no_runtime/)
 - [Tao](https://github.com/zesterer/tao) - Statically-typed functional programming language.
 - [Do we really need Undefined Behavior? (2021)](https://www.ralfj.de/blog/2021/11/24/ub-necessary.html) ([HN](https://news.ycombinator.com/item?id=29435263))
+- [Shepherd](https://github.com/NerdWalletOSS/shepherd) - Utility for applying code changes across many repositories.

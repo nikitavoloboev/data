@@ -186,3 +186,6 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [What to do with mSOL you get? (2021)](https://www.reddit.com/r/solana/comments/r6ml5h/first_step_stake_sol_in_marinade_2nd_step_msol_to/)
 - [Strata Protocol Protocol](https://strata-beige.vercel.app/) - Lets you effortlessly create Social Tokens and communities of Social Tokens (Collectives) on Solana. ([Code](https://github.com/StrataFoundation/strata))
 - [Katana](https://katana.so/) - Yield Generation Protocol for Solana.
+- [How to audit Solana smart contracts (2021)](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed)
+- [Solana Safety 101](https://github.com/The-Great-Ape/solana-safety-101) - Community maintained phishing and scams list to for safety and delightful Solana experience.
+- [Metaplex JavaScript SDK](https://github.com/metaplex-foundation/js)

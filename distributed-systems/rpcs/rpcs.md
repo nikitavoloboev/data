@@ -38,3 +38,4 @@
 - [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more.
 - [OpenRPC Generator](https://github.com/open-rpc/generator) - Multi-Component & Multi-Language Generators for OpenRPC.
 - [OCaml Cap'n Proto RPC library](https://github.com/mirage/capnp-rpc)
+- [OpenRPC Typings](https://github.com/open-rpc/typings) - Tool to produce language-specific typings given an OpenRPC document.

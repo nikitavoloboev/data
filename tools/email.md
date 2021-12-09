@@ -197,3 +197,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Letters](https://github.com/oxidizing/letters) - OCaml library for creating and sending emails over SMTP using LWT.
 - [hydroxide](https://github.com/emersion/hydroxide) - Third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge.
 - [Golang SMTP mock](https://github.com/mocktools/go-smtp-mock) - Mimic SMTP server behavior for your test environment and even more.
+- [Re-thinking electronic mail (2021)](https://liw.fi/rethinking-email/)

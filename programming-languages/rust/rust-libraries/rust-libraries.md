@@ -364,6 +364,7 @@
 - [core-foundation-rs](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS.
 - [Plist](https://github.com/ebarnard/rust-plist) - Rusty plist parser.
 - [oslog](https://github.com/steven-joruk/oslog) - Rust wrapper around Apple's unified logging system.
+- [rust-security-framework](https://github.com/kornelski/rust-security-framework) - Bindings to the macOS Security.framework.
 
 ## Macros
 

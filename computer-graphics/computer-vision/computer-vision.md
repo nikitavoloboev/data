@@ -476,3 +476,4 @@
 - [Tenyks](https://www.tenyks.ai/) - Data-centric Computer Vision.
 - [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (2021)](https://bowenc0221.github.io/mask2former/) ([Code](https://github.com/facebookresearch/Mask2Former))
 - [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields (2021)](https://m-niemeyer.github.io/project-pages/giraffe/index.html) ([Code](https://github.com/autonomousvision/giraffe))
+- [Learning to See by Looking at Noise (2021)](https://mbaradad.github.io/learning_with_noise/) ([Code](https://github.com/mbaradad/learning_with_noise))

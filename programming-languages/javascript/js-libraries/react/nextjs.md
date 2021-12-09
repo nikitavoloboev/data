@@ -107,6 +107,7 @@
 - [HappyKit Analytics](https://github.com/happykit/analytics) - Analytics specifically designed for Next.js.
 - [Next-Plausible](https://github.com/4lejandrito/next-plausible) - Simple integration for Plausible Analytics.
 - [NextAuth.js Adapters](https://github.com/nextauthjs/adapters) - Next-auth adapters that are maintained by the community to support any database.
+- [next/image loader for imgproxy (S3)](https://github.com/BitPatty/next-image-s3-imgproxy-loader)
 
 ## Notes
 
@@ -298,3 +299,4 @@
 - [Let's build Twitter with (Next.js, Tailwind CSS, Firebase v9, NextAuth, Recoil) (2021)](https://www.youtube.com/watch?v=5Wak0iyGCrc) ([Code](https://github.com/lukef7fywmrp/twitter-clone))
 - [An Inconsistent Truth: Next.js and Type Safety (2021)](https://t3.gg/blog/posts/types-and-nextjs)
 - [NextJS with WebAssembly example](https://github.com/vercel/next.js/tree/canary/examples/with-webassembly)
+- [Build a SaaS product with Next.js, Supabase and Stripe (2021)](https://egghead.io/courses/build-a-saas-product-with-next-js-supabase-and-stripe-61f2bc20)

@@ -364,3 +364,5 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [The awkward renewal of Russia’s cities (2021)](https://www.ridl.io/en/the-awkward-renewal-of-russia-s-cities/)
 - [Интерфакс: новости](https://www.interfax.ru/)
 - [Какие надо смыслы - Как судебная экспертиза помогает сажать и штрафовать людей за слова и картинки](https://kakie-nado-smysly.ru/)
+- [Год в поиске - Russia](https://trends.google.ru/trends/yis/2021/RU/)
+- [Here's why any sane progressive would have opposed the Soviet Union (2020)](https://twitter.com/grudkev/status/1229484189336178689)

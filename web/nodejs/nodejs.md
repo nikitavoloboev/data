@@ -285,3 +285,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [node-safe](https://github.com/berstend/node-safe) - Make using Node.js safe again with Deno-like permissions.
 - [shrun](https://github.com/rylandg/shrun) - Test NodeJS CLI commands in isolated docker containers.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - Lightweight and zero-dependency Task Scheduler and Rate Limiter for Node.js and the browser.
+- [Follow Redirects](https://github.com/follow-redirects/follow-redirects) - Node.js module that automatically follows HTTP(S) redirects.

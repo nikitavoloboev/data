@@ -8,6 +8,7 @@
 
 - [Sequel](https://github.com/jeremyevans/sequel) - Database Toolkit for Ruby.
 - [BatchLoader](https://github.com/exAspArk/batch-loader) - Powerful tool for avoiding N+1 DB or HTTP queries.
+- [GitHub::DS](https://github.com/github/github-ds) - Collection of Ruby libraries for working with SQL on top of ActiveRecord's connection.
 
 ## Web
 

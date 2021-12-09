@@ -226,6 +226,7 @@
 - [R2](https://github.com/aofei/r2) - Minimalist HTTP request routing helper for Go.
 - [qtalk-go](https://github.com/progrium/qtalk-go) - Versatile RPC and IO stream based IPC stack for Go.
 - [hedgedhttp](https://github.com/cristalhq/hedgedhttp) - Hedged HTTP client which helps to reduce tail latency at scale.
+- [gomponents](https://github.com/maragudk/gomponents) - View components in pure Go, that render to HTML 5. ([Web](https://www.gomponents.com/))
 
 ## GraphQL
 
@@ -331,6 +332,7 @@
 - [Chestnut](https://github.com/jrapoport/chestnut) - Encrypted storage for Go.
 - [spindle](https://github.com/flowerinthenight/spindle) - Distributed locking library built on top of Cloud Spanner and TrueTime.
 - [Bokchoy](https://github.com/thoas/bokchoy) - Simple job queues for Go backed by Redis.
+- [Migrate](https://github.com/maragudk/migrate) - Simple database migration tool using an sql.DB connection and fs.FS for the migration source.
 
 ## ML
 

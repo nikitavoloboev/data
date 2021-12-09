@@ -110,3 +110,4 @@
 - [dominant_colours](https://github.com/alexwlchan/dominant_colours) - CLI tool to find the dominant colors in an image.
 - [Design Tip: Never Use Black by Ian Storm Taylor (2012)](https://ianstormtaylor.com/design-tip-never-use-black/) ([HN](https://news.ycombinator.com/item?id=29430288))
 - [Coloring With Code — A Programmatic Approach To Design (2021)](https://tympanus.net/codrops/2021/12/07/coloring-with-code-a-programmatic-approach-to-design/)
+- [Color-changing magnifying glass gives clear view of infrared light (2021)](https://www.cam.ac.uk/research/news/colour-changing-magnifying-glass-gives-clear-view-of-infrared-light) ([HN](https://news.ycombinator.com/item?id=29447779))

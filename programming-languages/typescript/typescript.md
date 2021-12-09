@@ -205,6 +205,7 @@
 - [TS Patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality.
 - [ts-standardx](https://github.com/exuanbo/ts-standardx) - Configurable linter for TypeScript and JavaScript.
 - [macro-ts](https://github.com/blainehansen/macro-ts) - Ergonomic typescript compiler that enables typesafe syntactic macros. ([Article](https://blainehansen.me/post/macro-ts/))
+- [ts-analyze-trace](https://github.com/amcasey/ts-analyze-trace) - Tool for analyzing the output of `tsc --generateTrace`.
 
 ## Images
 

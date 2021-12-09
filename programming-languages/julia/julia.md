@@ -105,3 +105,4 @@
 - [Zero-to-Hero Julia workshop (2020)](https://github.com/Datseris/Zero2Hero-JuliaWorkshop) ([Video](https://www.youtube.com/watch?v=Fi7Pf2NveH0))
 - [Julia 1.7 Highlights (2021)](https://julialang.org/blog/2021/11/julia-1.7-highlights/) ([HN](https://news.ycombinator.com/item?id=29399844))
 - [GPU Programming with Julia course (2021)](https://github.com/omlins/julia-gpu-course)
+- [Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation (2021)](https://arxiv.org/abs/2109.01950) ([HN](https://news.ycombinator.com/item?id=29489628))

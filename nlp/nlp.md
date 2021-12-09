@@ -415,3 +415,4 @@
 - [sense2vec](https://github.com/explosion/sense2vec) - Contextually-keyed word vectors.
 - [Pureformer: Do We Even Need Attention? (2021)](https://arxiv.org/abs/2111.15588)
 - [Knover](https://github.com/PaddlePaddle/Knover) - Toolkit for knowledge grounded dialogue generation based on PaddlePaddle.
+- [Language Modelling at Scale: Gopher, Ethical considerations, and Retrieval | DeepMind (2021)](https://deepmind.com/blog/article/language-modelling-at-scale) ([HN](https://news.ycombinator.com/item?id=29486607))

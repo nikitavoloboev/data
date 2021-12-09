@@ -18,3 +18,4 @@
 - [Schizophrenia Explained (2010)](https://www.youtube.com/watch?v=nEnklxGAmak) - How brain chemical balance directly affects our thinking.
 - [Notes on Type 1 Diabetes](https://ben-marshall.github.io/diabetes/index.html)
 - [The role of different brain cell types in prion disease (2021)](http://www.cureffi.org/2021/08/10/role-different-brain-cell-types/)
+- [Ask HN: How to be my own genetic disease researcher for my partner? (2021)](https://news.ycombinator.com/item?id=29468831)

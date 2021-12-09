@@ -285,3 +285,4 @@
 - [react-chicane](https://github.com/zoontek/react-chicane) - Simple and safe router for React and TypeScript.
 - [Coding Interview with Dan Abramov (2021)](https://www.youtube.com/watch?v=XEt09iK8IXs)
 - [React-JUCE](https://github.com/nick-thompson/react-juce) - Write cross-platform native apps with React.js and JUCE.
+- [Server Components Working Group](https://github.com/reactwg/server-components)

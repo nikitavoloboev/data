@@ -46,3 +46,5 @@
 - [Compositional Thermostatics (2021)](https://johncarlosbaez.wordpress.com/2021/11/22/compositional-thermostatics/) ([Tweet](https://twitter.com/johncarlosbaez/status/1462765291113488391))
 - [The Effect of Noise on the Performance of Variational Algorithms for Quantum Chemistry (2021)](https://medium.com/qiskit/the-effect-of-noise-on-the-performance-of-variational-algorithms-for-quantum-chemistry-9cac4526abc1)
 - [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - Tool for retrosynthetic planning. ([Docs](https://molecularai.github.io/aizynthfinder/))
+- [Surge](https://github.com/StructureGenerator/surge) - Fast Open-Source Chemical Graph Generator.
+- [Quantum Chemistry Done Wrong: One-Electron Systems](https://github.com/lisyarus/chembook)

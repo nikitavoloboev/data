@@ -32,3 +32,4 @@
 - [Relay Client Guide](https://github.com/rafasanmartinez/relay-client-guide)
 - [Redwood with Relay](https://github.com/orta/relay-redwood-app-example)
 - [Relay updates in 2021](https://twitter.com/StatisticsFTW/status/1466496994164162560)
+- [Introducing the new Relay compiler](https://relay.dev/blog/2021/12/08/introducing-the-new-relay-compiler/) ([Tweet](https://twitter.com/RelayFramework/status/1468704982702739464))

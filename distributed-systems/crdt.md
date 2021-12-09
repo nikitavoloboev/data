@@ -64,3 +64,4 @@
 - [CRDTs meet Redux](https://github.com/HerbCaudill/crdx)
 - [Peritext](https://github.com/inkandswitch/peritext) - CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes. ([Article](https://www.inkandswitch.com/peritext/))
 - [Automerge: a new foundation for collaboration software (2021)](https://www.youtube.com/watch?v=Qytg0Ibet2E) ([Tweet](https://twitter.com/martinkl/status/1465013736167833601))
+- [SyncedStore CRDT](https://github.com/yousefed/SyncedStore) - Easy-to-use library for building live, collaborative applications that sync automatically. ([Docs](https://syncedstore.org/docs/)) ([HN](https://news.ycombinator.com/item?id=29483913))

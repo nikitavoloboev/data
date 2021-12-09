@@ -315,3 +315,5 @@ Awesome List
 - [Discuss with Atinux](https://github.com/Atinux/discuss) - Demo of using Nuxt 3 with GitHub authentication and creating issues with real-time updates.
 - [gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [gh label](https://github.com/heaths/gh-label) - GitHub CLI extension for issue label management.
+- [Improving GitHub Code Search (2021)](https://github.blog/2021-12-08-improving-github-code-search/) ([HN](https://news.ycombinator.com/item?id=29487237)) ([Video](https://www.youtube.com/watch?v=UOIPBfPXkus))
+- [re](https://github.com/jordanlewis/re) - Lets you do Github code reviews from the terminal using your favorite editor.

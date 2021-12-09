@@ -56,3 +56,4 @@
 - [Van Jacobson’s Congestion Avoidance and Control](http://protocols.netlab.uky.edu/~calvert/classes/571/lectureslides/congestion.pdf)
 - [No PortScan](https://git.encryp.ch/g00g1/no-portscan) - Watching for TCP port scanning behavior on your networks.
 - [Announcing Argo for Spectrum (2021)](https://blog.cloudflare.com/argo-spectrum/) - Way to turbo-charge any TCP based application.
+- [http-tunnel](https://github.com/xnuter/http-tunnel) - HTTP(S) Tunnel and TCP Proxy in Rust.

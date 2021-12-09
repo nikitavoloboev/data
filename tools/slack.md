@@ -1,5 +1,9 @@
 # [Slack](https://slack.com)
 
+## Bots
+
+- [dev-help Helper Bot](https://github.com/artsy/dev-help-helper-bot) - Marking thread that are solved by adding a ✅ on them.
+
 ## Notes
 
 - Shift+ESC = clear all unread messages.

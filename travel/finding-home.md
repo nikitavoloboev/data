@@ -67,3 +67,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [Wander](https://www.wander.com/) - Book the perfect Wander-owned smart home for your next workcation, vacation or anything in-between. ([Twitter](https://twitter.com/wander))
 - [Glide Pod](https://www.pod-space.co.uk/pods/glide-pod/) - Design Award-Winning Garden Office Buildings.
 - [Best floor planning tool (2021)](https://twitter.com/adamwathan/status/1448811803077656580)
+- [The Best Airbnbs in the U.S., from Floating Tiki Huts to Desert Marvels](https://www.cntraveler.com/gallery/best-airbnbs-in-the-us) ([Tweet](https://twitter.com/alexisxrivas/status/1468634971879268354))

@@ -57,3 +57,4 @@
 - [python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client.
 - [websocket-ts](https://github.com/jjxxs/websocket-ts) - Convenient TypeScript-first client-websocket for browsers.
 - [simple-websocket](https://github.com/feross/simple-websocket) - Simple, EventEmitter API for WebSockets.
+- [y-websocket](https://github.com/yjs/y-websocket) - WebSocket Provider for Yjs.

@@ -250,6 +250,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Very very short book you read (< 150 pages) (2021)](https://twitter.com/patrick_oshag/status/1466137479661170688)
 - [Ask HN: What are some must read books? (2021)](https://news.ycombinator.com/item?id=29462663)
 - [Best fiction of 2021](https://www.theguardian.com/books/2021/dec/04/best-fiction-of-2021)
+- [Reddit Reads: Book reccomendations from Reddit](https://www.redditreads.com/)
 
 ## Interesting Prose Books
 

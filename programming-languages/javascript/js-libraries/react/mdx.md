@@ -30,3 +30,4 @@
 - [Vite Plugin MDX](https://github.com/brillout/vite-plugin-mdx)
 - [Next MDX](https://www.next-mdx.org/) - Build MDX powered websites with Next.js. ([Code](https://github.com/shadcn/next-mdx))
 - [MDX 2 (2021)](https://mdxjs.com/blog/v2/)
+- [MDX Pretty Code](https://github.com/atomiks/mdx-pretty-code) - Simply beautiful syntax highlighting for your MDX docs.

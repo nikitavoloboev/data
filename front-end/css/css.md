@@ -412,3 +412,5 @@ all: unset
 - [The fundamentals of CSS layout | Workshop (2021)](https://www.youtube.com/watch?v=yMEjLBKyvEg)
 - [img2css](https://javier.xyz/img2css/) - Convert any image to pure CSS. ([Code](https://github.com/javierbyte/img2css))
 - [How to implement dragging, constraints, and rubber banding in CSS](https://twitter.com/jonastreub/status/1467960857342660610)
+- [Defensive CSS (2021)](https://ishadeed.com/article/defensive-css/)
+- [NWSAPI](https://github.com/dperini/nwsapi) - Fast CSS Selectors API Engine.

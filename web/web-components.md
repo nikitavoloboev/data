@@ -61,3 +61,4 @@
 - [Adventures in prototyping and Web Components with Lit (2021)](https://benfrain.com/adventures-in-prototyping-and-web-components-with-lit/)
 - [lite-youtube](https://github.com/justinribeiro/lite-youtube) - Web component that renders YouTube embeds faster. ([Article](https://justinribeiro.com/chronicle/2021/11/18/lite-youtube-web-component-goes-1.0-offers-more-features/))
 - [blog-pwa](https://github.com/justinribeiro/blog-pwa) - Combining Lit Web Components, Hugo, Service Worker, and Rollup into a progressive web app blog.
+- [auto-complete-element](https://github.com/github/auto-complete-element) - Auto-complete input values from server search results.

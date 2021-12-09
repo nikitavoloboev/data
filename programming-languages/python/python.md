@@ -365,7 +365,7 @@ for i, _ in enumerate(nums):
 - [pravda](https://github.com/wemake-services/pravda) - Python type-checker written in Rust.
 - [On code isolation in Python (2020)](https://rushter.com/blog/python-code-isolation/)
 - [Pynsights](https://github.com/laffra/pynsights) - Understanding Python programs by visualizing how modules interact.
-- [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html) ([HN](https://news.ycombinator.com/item?id=29104047))
+- [Bank Python: The strange world of Python, as used by big investment banks (2021)](https://calpaterson.com/bank-python.html) ([HN](https://news.ycombinator.com/item?id=29104047)) ([Reddit](https://www.reddit.com/r/programming/comments/rbvpmy/bank_python_the_strange_world_of_python_as_used/))
 - [GraalVM Python](https://www.graalvm.org/python/) - On average, Python in GraalVM is 8.92x faster than CPython. ([HN](https://news.ycombinator.com/item?id=29097715))
 - [Mini Inch App in Python](https://github.com/jokull/python-ts-graphql-demo) - Python asyncio backend querying with SQLAlchemy and Strawberry serving GraphQL with Starlette.
 - [Guide of CPython’s Parser](https://devguide.python.org/parser/)
@@ -397,3 +397,5 @@ for i, _ in enumerate(nums):
 - [Python's None problem, and how Mypy helps you deal with it (2021)](https://engineeringblog.ridereport.com/pythons-none-problem) ([Lobsters](https://lobste.rs/s/6sdtuq/python_s_none_problem_how_mypy_helps_you))
 - [Hygeia](https://github.com/nbigaouette/hygeia) - Python toolchain manager.
 - [Pandas Tutor](https://pandastutor.com/vis.html) - Visualize Python pandas code. ([Web](https://pandastutor.com/))
+- [Why your multiprocessing Pool is stuck (2021)](https://pythonspeed.com/articles/python-multiprocessing/)
+- [Common design patterns implemented in Python](https://github.com/jackdbd/design-patterns)

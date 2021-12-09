@@ -687,6 +687,8 @@
 - [taki](https://github.com/egoist/taki) - Take a snapshot of any website.
 - [Zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense.
 - [Moo](https://github.com/no-context/moo) - Highly-optimized tokenizer/lexer generator. Use it to tokenize your strings, before parsing 'em with a parser.
+- [deeplinks.js](https://github.com/WesleyAC/deeplinks) - Simple deep links to any selection of text on your website.
+- [piecemeal](https://github.com/maraisr/piecemeal) - Send your data piecemeal.
 
 ## Links
 
