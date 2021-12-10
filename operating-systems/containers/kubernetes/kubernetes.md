@@ -16,6 +16,7 @@
 - [In K8S, I think the best is hand-on experience, do it and. you will understand why a certain thing has to do that way.](https://lobste.rs/s/waj0ky/what_are_you_doing_this_weekend#c_s4hcbh)
 - [Despite its reputation, Kubernetes is actually quite easy to master for simple use cases. And affordable enough for more complex ones.
   The fundamental abstractions are as simple as they can be, representing concepts that you'd already be familiar with in a datacenter environment. A cluster has nodes (machines), and you can run multiple pods (which is the smallest deployable unit on the cluster) on each node. A pod runs various types of workloads such as web services, daemons, jobs and recurring jobs which are made available (to the cluster) as docker/container images. You can attach various types of storage to pods, front your services with load-balancers etc. All of the nouns in the previous paragraph are available as building blocks in Kubernetes. You build your complex system declaratively from these simpler parts.](https://news.ycombinator.com/item?id=28875764)
+- [Can edit a deployment or pod via `kubectl edit` and update the command to be `tail -f /dev/null`](https://www.reddit.com/r/kubernetes/comments/rcd3eh/endtoend_guide_to_kubectl_commands/)
 
 ## Links
 
@@ -544,3 +545,7 @@
 - [Awesome Kubernetes Security](https://github.com/ksoclabs/awesome-kubernetes-security)
 - [cluster-api-state-metrics (CASM)](https://github.com/Daimler/cluster-api-state-metrics) - Service that listens to the Kubernetes API server and generates metrics about the state of custom resource objects related of Kubernetes Cluster API.
 - [Dataflow](https://github.com/argoproj-labs/argo-dataflow) - Kubernetes-native platform for executing large parallel data-processing pipelines.
+- [Fluid](https://github.com/fluid-cloudnative/fluid) - Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. ([Web](https://fluid-cloudnative.github.io/))
+- [Volcano](https://github.com/volcano-sh/volcano) - Batch system built on Kubernetes. ([Web](https://volcano.sh/en/))
+- [The Ultimate Kubectl Cheat Sheet](https://komodor.com/learn/the-ultimate-kubectl-cheat-sheet/)
+- [Kstone](https://github.com/tkestack/kstone) - etcd management platform.

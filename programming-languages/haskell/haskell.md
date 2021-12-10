@@ -349,3 +349,4 @@
 - [What's current best practice for starting a project with Haskell? (2021)](https://www.reddit.com/r/haskell/comments/r2rir2/whats_current_best_practice_for_starting_a/)
 - [Haskell's Type System Standing Alone: an unusual programming language](https://vitez.me/hts-language) ([Reddit](https://www.reddit.com/r/haskell/comments/r9w293/haskells_type_system_standing_alone_an_unusual/))
 - [Parsing Layout, or: Haskell's Syntax is a Mess (2021)](https://amelia.how/posts/parsing-layout.html)
+- [Using Haskell as my shell (2021)](https://las.rs/blog/haskell-as-shell.html)

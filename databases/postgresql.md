@@ -20,7 +20,7 @@
 - [migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas.
 - [PGHoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service.
 - [postgresqltuner.pl](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
-- [PostgreSQL wiki](https://wiki.postgresql.org/wiki/Main_Page)
+- [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
 - [Common mistakes in PostgreSQL](https://wiki.postgresql.org/wiki/Don%27t_Do_This) ([HN](https://news.ycombinator.com/item?id=19817531))
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.
 - [postgres-operator](https://github.com/CrunchyData/postgres-operator) - Controller that runs within a Kubernetes cluster that provides a means to deploy and manage PostgreSQL clusters.
@@ -374,3 +374,4 @@
 - [pg2arrow](https://github.com/heterodb/pg2arrow) - PostgreSQL Table to Apache Arrow file converter.
 - [Advent of Code 2021 with PostgreSQL](https://github.com/mitchellh/advent-2021-sql) ([HN](https://news.ycombinator.com/item?id=29467671))
 - [Speeding up Postgres integration tests in Go (2021)️](https://www.maragu.dk/blog/speeding-up-postgres-integration-tests-in-go/)
+- [Foreign data wrappers - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)

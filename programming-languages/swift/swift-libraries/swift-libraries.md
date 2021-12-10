@@ -206,6 +206,7 @@
 - [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Custom transition between controllers. Settings controller for your iOS app.
 - [BottomPopup](https://github.com/ergunemr/BottomPopup) - Provides a popup-like presentation style to any view controller.
 - [AudioStreaming](https://github.com/dimitris-c/AudioStreaming) - AudioPlayer/Streaming library for iOS written in Swift using AVAudioEngine.
+- [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) - Waterfall (i.e., Pinterest-like) layout for UICollectionView.
 
 ## macOS
 
@@ -254,6 +255,7 @@
 - [Postie](https://github.com/kula-app/Postie) - Structured HTTP Client using Combine.
 - [SwiftHtml](https://github.com/BinaryBirds/swift-html) - Awesome Swift HTML DSL library using result builders.
 - [SwiftCss](https://github.com/BinaryBirds/swift-css) - Awesome Swift CSS DSL library using result builders.
+- [Fuzi](https://github.com/cezheng/Fuzi) - Fast & lightweight XML & HTML parser in Swift with XPath & CSS support.
 
 ## SwiftUI
 
@@ -851,6 +853,9 @@
 - [AppUpdately](https://github.com/AvdLee/AppUpdately) - Fetch the update available status for iOS or macOS apps based on the bundle identifier.
 - [SwiftGD](https://github.com/twostraws/SwiftGD) - Simple Swift wrapper for libgd, allowing for basic graphic rendering on server-side Swift where Core Graphics is not available.
 - [AnyImageKit](https://github.com/AnyImageProject/AnyImageKit) - Toolbox for pick/edit/capture photo or video. Written in Swift.
+- [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
+- [Identity](https://github.com/JohnSundell/Identity) - Type-safe identifiers in Swift.
+- [FlipBook](https://github.com/bgayman/FlipBook) - Swift package for recording views.
 
 ## Other (not lib)
 

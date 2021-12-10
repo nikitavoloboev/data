@@ -174,3 +174,6 @@
 - [Armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server.
 - [Statically Prevent 404s - Gary Bernhardt (2021)](https://www.youtube.com/watch?v=KRMJIiGE0ds) ([Tweet](https://twitter.com/garybernhardt/status/1466104868498817032))
 - [Serve Folder](https://servefolder.dev/) - Serve a local folder of files in your browser for easy testing without having to run a server. ([Code](https://github.com/AshleyScirra/servefolder.dev))
+- [Making your website "cross-origin isolated" using COOP and COEP (2020)](https://web.dev/coop-coep/) ([Tweet](https://twitter.com/SamVerschueren/status/1468654052909137922))
+- [Oblivious HTTP](https://github.com/ietf-wg-ohai/oblivious-http) - System for the forwarding of encrypted HTTP
+  messages.

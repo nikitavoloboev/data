@@ -2,7 +2,8 @@
 
 ## Interesting Engines
 
-- [Godot](https://github.com/godotengine/godot)
+- [Godot](https://github.com/godotengine/godot) - Free and open source 2D and 3D game engine. ([Web](https://godotengine.org/))
+- [microStudio](https://microstudio.dev/) - Learn programming, create games.
 - [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust.
 - [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go. ([Web](https://ebiten.org/)) ([Ebiten in 2020](https://ebiten.org/blog/2020.html)) ([HN](https://news.ycombinator.com/item?id=25429375))
 - [Love](https://love2d.org) ([Code](https://github.com/love2d/love))

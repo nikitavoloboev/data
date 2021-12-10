@@ -288,3 +288,5 @@
 - [Only RL setting worth studying is the MDP (2021)](https://twitter.com/jacobmbuckman/status/1464327006489829378) ([Tweet](https://twitter.com/luisa_zintgraf/status/1465359423061307400))
 - [Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy (2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) ([Code](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020))
 - [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
+- [MARL-Baselines3](https://github.com/Rohan138/marl-baselines3) - Multi-Agent Reinforcement Learning with Stable-Baselines3.
+- [ALF](https://github.com/HorizonRobotics/alf) - Reinforcement learning framework emphasizing on the flexibility and easiness of implementing complex algorithms involving many different components.

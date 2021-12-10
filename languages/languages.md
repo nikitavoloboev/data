@@ -50,3 +50,5 @@
 - [WantWords](https://wantwords.thunlp.org/) - Open-source online reverse dictionary. ([Code](https://github.com/thunlp/WantWords))
 - [Free Dictionary API](https://dictionaryapi.dev/) ([Code](https://github.com/meetDeveloper/freeDictionaryAPI))
 - [Sheldon](https://github.com/inaka/sheldon/) - Very Simple Erlang Spell Checker. ([Article](https://medium.com/erlang-battleground/sheldon-the-erlang-spell-checker-b5223d5f7b70))
+- [Learning with Texts](https://learningwithtexts.com/) - Free translation software.
+- [Trunk](https://github.com/theiceshelf/trunk) - Tool for learning new languages. It is inspired by Learning With Texts.

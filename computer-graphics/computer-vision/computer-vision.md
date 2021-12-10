@@ -477,3 +477,8 @@
 - [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (2021)](https://bowenc0221.github.io/mask2former/) ([Code](https://github.com/facebookresearch/Mask2Former))
 - [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields (2021)](https://m-niemeyer.github.io/project-pages/giraffe/index.html) ([Code](https://github.com/autonomousvision/giraffe))
 - [Learning to See by Looking at Noise (2021)](https://mbaradad.github.io/learning_with_noise/) ([Code](https://github.com/mbaradad/learning_with_noise))
+- [iBOT: Image BERT Pre-Training with Online Tokenizer (2021)](https://arxiv.org/abs/2111.07832) ([Code](https://github.com/bytedance/ibot))
+- [Grounded Language-Image Pre-training (2021)](https://arxiv.org/abs/2112.03857) ([Code](https://github.com/microsoft/GLIP))
+- [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction (2016)](https://arxiv.org/abs/1604.00449) ([Code](https://github.com/chrischoy/3D-R2N2))
+- [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](http://proceedings.mlr.press/v97/lee19d.html) ([Code](https://github.com/juho-lee/set_transformer))
+- [Awesome Visual Grounding](https://github.com/TheShadow29/awesome-grounding)

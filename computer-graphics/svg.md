@@ -114,3 +114,6 @@
 - [svgson](https://github.com/elrumordelaluz/svgson) - Transform SVG files to JSON notation.
 - [goodgraphics](https://github.com/romellogoodman/goodgraphics.js) - Library for scripting SVGs.
 - [svg-path-reverse](https://github.com/Pomax/svg-path-reverse) - SVG path reversal library.
+- [png2svg](https://github.com/xyproto/png2svg) - Go module and command line utility for converting small PNG images to SVG Tiny 1.2.
+- [SVGO Components](https://github.com/svg/svgo-components) - Transform SVG into components for various frameworks.
+- [foosvg](https://github.com/AldaronLau/foosvg) - SVG rendering library in pure Rust.

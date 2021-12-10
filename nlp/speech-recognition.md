@@ -78,3 +78,4 @@
 - [HuBERT: How to Apply BERT to Speech, Visually Explained (2021)](https://jonathanbgn.com/2021/10/30/hubert-visually-explained.html)
 - [Happy Scribe](https://www.happyscribe.com/) - Audio Transcription & Video Subtitles.
 - [Speech Recognition Papers](https://github.com/wenet-e2e/speech-recognition-papers)
+- [Steerable discovery of neural audio effects (2021)](https://arxiv.org/abs/2112.02926) ([Code](https://github.com/csteinmetz1/steerable-nafx))

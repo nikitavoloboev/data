@@ -107,6 +107,7 @@ Here are few more things I liked, design wise.
 - [Readng](https://readng.co/)
 - [OpenAI](https://openai.com/)
 - [Zoox](https://zoox.com/)
+- [Jam](https://jamshelf.com/)
 - [Noor](https://usenoor.com/)
 - [The Graph](https://thegraph.com/)
 - [Endel](https://endel.io/)
@@ -553,6 +554,7 @@ Here are few more things I liked, design wise.
 - [Jon Gjengset](https://thesquareplanet.com/)
 - [Lou Huang](https://louhuang.com/)
 - [Traf](https://tr.af/)
+- [Timothy Andrew](https://0xc0d1.com/)
 - [Duncan Geere](https://www.duncangeere.com/portfolio/)
 - [Dez Beberniss](https://desiraebeberniss.com/)
 - [Robert Squires](https://robertsquires.co.uk/)
@@ -859,6 +861,7 @@ Here are few more things I liked, design wise.
 ## Notes
 
 - [Like the top bar on hover instantly showing more info.](https://www.lvmh.fr/)
+- [Like the gradient on last letters of titles.](https://marbiano.dev/)
 
 ## Links
 

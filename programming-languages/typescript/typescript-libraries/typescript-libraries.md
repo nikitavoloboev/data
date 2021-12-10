@@ -25,6 +25,7 @@
 - [intermock](https://github.com/google/intermock) - Mocking library to create mock objects and JSON for TypeScript interfaces via Faker.
 - [Typical Data](https://github.com/davidtkramer/typical-data) - Test data factory written in TypeScript.
 - [Nano Spy](https://github.com/ai/nanospy) - Tiny Node.js library to spy and mock methods in tests with great TypeScript support.
+- [test-data-bot](https://github.com/jackfranklin/test-data-bot) - Generate fake yet realistic looking data for your unit tests.
 
 ## Auth
 
@@ -41,7 +42,7 @@
 - [morphic-ts](https://github.com/sledorze/morphic-ts) - Adresses the pain of writing and maintaining derived code for business logic.
 - [ts-results](https://github.com/vultix/ts-results) - TypeScript implementation of Rust's Result object.
 - [TSDataStructure](https://github.com/Slashmsu/TSDataStructure) - Collection of data structures(LinkedList, DoubleLinkedList, Stack, Queue, Dictionary and etc...) for TypeScript.
-- [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript. ([Functional TypeScript With fp-ts](https://functional.christmas/2020/12)) ([eslint-plugin-fp-ts](https://github.com/buildo/eslint-plugin-fp-ts))
+- [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript. ([Functional TypeScript With fp-ts](https://functional.christmas/2020/12)) ([eslint-plugin-fp-ts](https://github.com/buildo/eslint-plugin-fp-ts)) ([Cheat Sheet](https://github.com/inato/fp-ts-cheatsheet))
 - [fp-ts-contrib](https://github.com/gcanti/fp-ts-contrib) - Community driven utility package for fp-ts.
 - [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding. ([Web](https://gcanti.github.io/io-ts/))
 - [typescript-utilities-guide](https://github.com/typescript-cheatsheets/typescript-utilities-cheatsheet) - List of typescript helper libraries.
@@ -221,6 +222,9 @@
 - [static-path](https://github.com/garybernhardt/static-path) - Uses the type system to prevent 404s at compile time.
 - [ts-belt](https://github.com/mobily/ts-belt) - Fast, modern, and practical utility library for FP in TypeScript. ([Docs](https://mobily.github.io/ts-belt/api/array))
 - [std](https://github.com/micheleriva/std) - Some Haskell Prelude functions in TS.
+- [async-sema](https://github.com/vercel/async-sema) - Semaphore using `async` and `await`.
+- [Suretype](https://github.com/grantila/suretype) - Typesafe JSON (Schema) validator.
+- [Already](https://github.com/grantila/already) - Utility functions for promises; finally, map, filter, etc.
 
 ## Links
 
@@ -249,3 +253,4 @@
 - [type-predicates-generator](https://github.com/d-kimuson/type-predicates-generator) - Tool to automatically generate type predicates functions from type definitions.
 - [OpenAPI Typescript Codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - Node.js library that generates Typescript clients based on the OpenAPI specification.
 - [DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) - Infrastructure for DefinitelyTyped.
+- [ts-lib-starter](https://github.com/Borrus-sudo/ts-lib-starter) - Finest quality ts-lib-starter with insane defaults.

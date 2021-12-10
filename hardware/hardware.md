@@ -260,3 +260,6 @@
 - [Ask HN: Are there any 4K “dumb” televisions? (2021)](https://news.ycombinator.com/item?id=29382643)
 - [Scan of the Month - AirPods Evolution](https://scanofthemonth.com/)
 - [Miniature 3456 LED cube](https://willempennings.nl/miniature-3456-led-cube/)
+- [Apple Neural Engine Internal: From ML Algorithm to HW Registers (2021)](https://www.youtube.com/watch?v=1wvBDUnPNEo) ([HN](https://news.ycombinator.com/item?id=29483347))
+- [Cello](https://github.com/CIDARLAB/cello) - Genetic circuit design automation.
+- [Made To Spec: The Coming Age Of Prototyping As A Service (2021)](https://hackaday.com/2021/12/08/made-to-spec-the-coming-age-of-prototyping-as-a-service/)

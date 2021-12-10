@@ -15,7 +15,7 @@
 - [Ten Years of Erlang (2019)](https://ferd.ca/ten-years-of-erlang.html) ([HN](https://news.ycombinator.com/item?id=20382126))
 - [Learn you some Erlang book](https://learnyousomeerlang.com/content)
 - [Relx](https://github.com/erlware/relx) - Sane, simple release creation for Erlang.
-- [Rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases.
+- [Rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases. ([Web](http://rebar3.org/)) ([Plugin Template](https://github.com/vkatsuba/rebar3_plugin)) ([Article](https://medium.com/erlang-battleground/the-rebar3-plugin-a-simple-rebar3-template-to-fast-build-your-plugins-71ab0129456b))
 - [Erlang/OTP](https://github.com/erlang/otp) - Programming language and runtime system for building massively scalable soft real-time systems with requirements on high availability.
 - [Enigma VM](https://github.com/archseer/enigma) - Simple Erlang VM implementation in Rust.
 - [ErlangRT](https://github.com/kvakvs/ErlangRT) - Attempt to make Erlang runtime (BEAM emulator) in Rust.

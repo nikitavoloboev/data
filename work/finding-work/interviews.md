@@ -2,7 +2,7 @@
 
 [Your ultimate guide to interview preparation](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) is an amazing guide that covers pretty much everything you need to know to prepare & pass a technical interview.
 
-[CodeSandbox](https://codesandbox.io/) is a great platform for conducting live coding interviews for free.
+[CodeSandbox](https://codesandbox.io/) or [Replit](https://replit.com/) are great platform for conducting live coding interviews for free.
 
 ## Notes
 

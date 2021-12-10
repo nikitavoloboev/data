@@ -25,3 +25,4 @@
 - [gql-dart/gql](https://github.com/gql-dart/gql) - Libraries supporting GraphQL in Dart.
 - [Context](https://github.com/lesnitsky/contextualized) - HashMap with shadowing (inherits parent values) and helpers to work with Types as keys.
 - [supabase-dart](https://github.com/supabase/supabase-dart) - Dart client for Supabase.
+- [sqlite3.dart](https://github.com/simolus3/sqlite3.dart) - Dart packages to use SQLite from Dart via dart:ffi.

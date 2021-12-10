@@ -166,6 +166,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [livegrep](https://github.com/livegrep/livegrep) - Tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.
 - [webhook](https://github.com/adnanh/webhook) - Lightweight incoming webhook server to run shell commands.
 - [Remove Image Background](https://www.remove.bg/) ([Node API](https://github.com/EddyVerbruggen/remove.bg))
+- [Jam](https://jamshelf.com/) - Self-Hosted Clubhouse. ([Code](https://github.com/jam-systems/jam)) ([HN](https://news.ycombinator.com/item?id=29493894))
 - [PerfectXL](https://www.perfectxl.com/) - Excel Risk Eliminator.
 - [Link Lock](https://jstrieb.github.io/link-lock/create/) - Password-protect links. ([Code](https://github.com/jstrieb/link-lock))
 - [Canny](https://canny.io) - Track feedback to build better products.
@@ -187,6 +188,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Airy](https://airy.co/) - Open Source Conversational Platform. ([HN](https://news.ycombinator.com/item?id=27446200))
 - [Cuttle](https://cuttle.xyz/) - Design tool for digital cutting machines.
 - [ASCIIFlow](https://asciiflow.com/#/) - Client-side only web based application for drawing ASCII diagrams. ([Code](https://github.com/lewish/asciiflow))
+- [nomnoml](https://www.nomnoml.com/) - Tool for drawing UML diagrams based on a simple syntax. ([Code](https://github.com/skanaar/nomnoml))
 - [Pace](https://pace.dev/) - Minimalist project management tool.
 - [Legend](https://legendapp.com/) ([HN](https://news.ycombinator.com/item?id=28447499))
 - [Meta Meme](https://metameme.app/) - Video and Image Meme Maker. ([HN](https://news.ycombinator.com/item?id=28329444))
@@ -534,6 +536,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
   3. Solve for the 80 % use case.
   4. Make it easy to adopt/delete.
 - [We shape our tools and thereafter our tools shape us.](https://twitter.com/druchtie/status/1387827865144729603)
+- [I've stopped admiring very talented engineers who can hold a lot of complexity in their head and started admiring very talented engineers who have moved a lot of complexity outside their head and into tools, and I like it much much better this way.](https://twitter.com/fasterthanlime/status/1468739998505656327)
 
 ## Links
 
@@ -619,3 +622,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Dream productivity stack tools (2021)](https://twitter.com/ashleymayer/status/1460312782646104067)
 - [Low-Code and the Democratization of Programming (2021)](https://www.oreilly.com/radar/low-code-and-the-democratization-of-programming/) ([HN](https://news.ycombinator.com/item?id=29240702))
 - [Lowbeer's Tipstaff; Cool Tools (2021)](https://brandur.org/nanoglyphs/028-cool-tools)
+- [Best dev tools where you can get started quickly and immediately see its benefits](https://twitter.com/DavidKPiano/status/1468615741981302791)

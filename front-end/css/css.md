@@ -412,5 +412,8 @@ all: unset
 - [The fundamentals of CSS layout | Workshop (2021)](https://www.youtube.com/watch?v=yMEjLBKyvEg)
 - [img2css](https://javier.xyz/img2css/) - Convert any image to pure CSS. ([Code](https://github.com/javierbyte/img2css))
 - [How to implement dragging, constraints, and rubber banding in CSS](https://twitter.com/jonastreub/status/1467960857342660610)
-- [Defensive CSS (2021)](https://ishadeed.com/article/defensive-css/)
+- [Defensive CSS (2021)](https://ishadeed.com/article/defensive-css/) ([HN](https://news.ycombinator.com/item?id=29504784))
 - [NWSAPI](https://github.com/dperini/nwsapi) - Fast CSS Selectors API Engine.
+- [Pure CSS content animation](https://twitter.com/branmcconnell/status/1468972338758578182)
+- [Responsive iframes with the CSS aspect-ratio property (2021)](https://gomakethings.com/responsive-iframes-with-the-css-aspect-ratio-property/)
+- [CSS Tokenizer](https://github.com/csstools/tokenizer) - Tokenize CSS according to the CSS Syntax.

@@ -366,3 +366,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Какие надо смыслы - Как судебная экспертиза помогает сажать и штрафовать людей за слова и картинки](https://kakie-nado-smysly.ru/)
 - [Год в поиске - Russia](https://trends.google.ru/trends/yis/2021/RU/)
 - [Here's why any sane progressive would have opposed the Soviet Union (2020)](https://twitter.com/grudkev/status/1229484189336178689)
+- [Russian agricultural trade and world markets (2020)](https://rujec.org/article/50308/)
+- [Russian Journal of Economics](https://rujec.org/)
+- [Сталинская экономика лучше путинской? // Сергей Гуриев о правде и мифах СССР (2021)](https://www.youtube.com/watch?v=Hg1KRA6375o)

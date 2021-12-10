@@ -479,3 +479,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [NFT's Aren't the Answer to the IRL Problems of Digital Art (2021)](https://www.jacquescorbytuech.com/writing/irl-problem-digital-art-nft) ([HN](https://news.ycombinator.com/item?id=29159693))
 - [Why Beauty Matters (2009)](https://topdocumentaryfilms.com/why-beauty-matters/)
 - [Kuula](https://kuula.co/about) - 360 Virtual Tours made easy. Create. Edit. Share.
+- [Generate dream like prompts](https://app.wombo.art/)

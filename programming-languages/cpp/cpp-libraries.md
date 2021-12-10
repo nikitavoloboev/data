@@ -263,7 +263,7 @@
 - [Rotor](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework.
 - [optional](https://github.com/TartanLlama/optional) - Single header implementation of std::optional with functional-style extensions and support for references.
 - [ZAB](https://github.com/Donald-Rupin/zab) - Asynchronous framework for building event-driven, multi-threaded programs.
-- [ensmallen](https://github.com/mlpack/ensmallen) - High-quality C++ library for non-linear numerical optimization. ([Web](http://ensmallen.org/)) ([Docs](http://ensmallen.org/docs.html))
+- [Ensmallen](https://github.com/mlpack/ensmallen) - High-quality C++ library for non-linear numerical optimization. ([Web](http://ensmallen.org/)) ([Docs](http://ensmallen.org/docs.html)) ([HN](https://news.ycombinator.com/item?id=29489613))
 - [Fleet](https://github.com/piantado/Fleet) - C++ library for programming language of thought models.
 - [MatX](https://github.com/NVIDIA/MatX) - Efficient C++17 GPU numerical computing library with Python-like syntax.
 - [oneMKL](https://github.com/oneapi-src/oneMKL) - Open-source implementation of the oneMKL Data Parallel C++ (DPC++) interface according to the oneMKL specification.
@@ -301,6 +301,7 @@
 - [asyncio](https://github.com/netcan/asyncio) - C++20 library to write concurrent code using the async/await syntax.
 - [CTPG](https://github.com/peter-winter/ctpg) - C++ Compile Time Parser Generator. ([HN](https://news.ycombinator.com/item?id=29454342))
 - [Binlog](https://github.com/morganstanley/binlog) - High performance C++ log library to produce structured binary logs.
+- [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++.
 
 ## Links
 

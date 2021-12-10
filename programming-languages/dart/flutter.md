@@ -8,6 +8,7 @@
 - [E-Commerce Complate App](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) - Dev streams included.
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - Platform adaptive Flutter app for desktop, mobile, and web.
 - [InstaChat](https://github.com/tusharsadhwani/instachat) - Working replica of Instagram DMs and stories, written in Flutter and Go.
+- [Glider](https://github.com/Mosc/Glider) - Opinionated Hacker News client.
 
 ## Links
 

@@ -121,6 +121,7 @@
 - [meSing.js](https://github.com/usdivad/mesing) - JavaScript singing synthesis library.
 - [NoiseCraft](https://github.com/maximecb/noisecraft) - Browser-based visual programming language and platform for sound synthesis. ([Web](https://noisecraft.app/)) ([Article](https://pointersgonewild.com/2021/12/05/noisecraft-a-browser-based-visual-programming-language-for-sound-music/))
 - [Spaghettis](https://github.com/Spaghettis/Spaghettis) - Environment for audio analysis, synthesis, and processing, with a rich set of multimedia capabilities. ([Docs](http://msp.ucsd.edu/Pd_documentation/index.htm))
+- [Hero Studio](https://github.com/chris-zen/hero-studio) - Music studio similar to Ableton Live or Bitwig Studio.
 
 ## Inspiration
 
@@ -294,3 +295,5 @@
 - [Let's make a music teacher (2021)](https://swiftindepth.com/articles/lets-make-a-music-teacher-1/index.html) ([Code](https://github.com/tjeerdintveen/music))
 - [Generate Musical Accompaniment with R (2021)](https://flujoo.github.io/en/generate-accompaniment-progression/) ([HN](https://news.ycombinator.com/item?id=29368549))
 - [Music Thing Modular Eurorack Synth Modules](https://musicthing.co.uk/)
+- [How songwriters felt watching the new Beatles documentary (2021)](https://www.washingtonpost.com/arts-entertainment/2021/12/06/beatles-get-back-documentary-songwriters/) ([HN](https://news.ycombinator.com/item?id=29480027))
+- [A Binary Musical Instrument](https://ianthehenry.com/posts/binary-instrument/) ([HN](https://news.ycombinator.com/item?id=29483166))

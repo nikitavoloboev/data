@@ -126,3 +126,4 @@
 - [Measuring the Web3.0 Stack (2021)](https://www.youtube.com/watch?v=yylsaXz00_g)
 - [An Engineer's Hype-Free Observations on Web3 (and Its Possibilities) (2021)](https://www.psl.com/feed-posts/web3-engineer-take) ([HN](https://news.ycombinator.com/item?id=29321987))
 - [Web3 is Bullshit (2021)](https://www.stephendiehl.com/blog/web3-bullshit.html) ([Tweet](https://twitter.com/smdiehl/status/1467165516695539716)) ([HN](https://news.ycombinator.com/item?id=29442441))
+- [Is Web3... anything? (2021)](https://www.chris-granger.com/2021/12/09/is-web3-anything/) ([HN](https://news.ycombinator.com/item?id=29506914))

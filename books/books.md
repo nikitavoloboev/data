@@ -251,6 +251,9 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: What are some must read books? (2021)](https://news.ycombinator.com/item?id=29462663)
 - [Best fiction of 2021](https://www.theguardian.com/books/2021/dec/04/best-fiction-of-2021)
 - [Reddit Reads: Book reccomendations from Reddit](https://www.redditreads.com/)
+- [Radical Polish books to add to your reading list](https://www.calvertjournal.com/features/show/12858/queer-feminist-sci-fi-books-polish-literature) ([HN](https://news.ycombinator.com/item?id=29502396))
+- [Reading List • Timothy Andrew](https://0xc0d1.com/misc/reading/)
+- [To Read • Timothy Andrew](https://0xc0d1.com/misc/reading/toread/)
 
 ## Interesting Prose Books
 
@@ -452,3 +455,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Kavita](https://www.kavitareader.com/) - Browse your Manga, Comics and Books.
 - [Tablo](https://tablo.com/) - Best place to create, print and publish a poetry book. ([Print](https://tablo.com/print))
 - [How I wrote my book](https://www.kevinwmcconnell.com/writing/how-i-wrote-my-book)
+- [BookStash](https://bookstash.io/) - Ideas from Top Books in 3m or less.
+- [Books.jl](https://github.com/rikhuijzer/Books.jl) - Create books with Julia. ([Template](https://github.com/JuliaBooks/BookTemplate)) ([Web](https://booktemplate.huijzer.xyz/))

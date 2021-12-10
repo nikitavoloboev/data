@@ -124,3 +124,4 @@
 - [Ask HN: What is the best book on data visualization in 2021?](https://news.ycombinator.com/item?id=29457470)
 - [Plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash. ([Docs](https://plotly.com/javascript/))
 - [Data Commons](https://datacommons.org/) - Aggregates data from a wide range of sources into a unified database to make it more accessible and useful.
+- [The Gamma](https://thegamma.net/) - Tools for open data-driven storytelling. ([GitHub](https://github.com/the-gamma))

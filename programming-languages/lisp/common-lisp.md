@@ -75,3 +75,4 @@
 - [Dexador](https://github.com/fukamachi/dexador) - Fast HTTP client for Common Lisp.
 - [Learn Common Lisp by Example: GTK GUI with SBCL (2021)](https://blog.matthewdmiller.net/learn-common-lisp-by-example-gtk-gui-with-sbcl)
 - [Sketch](https://github.com/vydd/sketch) - Common Lisp environment for the creation of electronic art, visual design.
+- [Lessons learned after working one year as a Common Lisp Developer (2018)](https://cdagostino.io/posts/2018-03-28-one-year-common-lisp-developer-part-1-the-good.html) ([HN](https://news.ycombinator.com/item?id=29494255))

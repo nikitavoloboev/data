@@ -57,3 +57,4 @@
 - [Gordo](https://github.com/equinor/gordo) - Building thousands of models with timeseries data to monitor systems.
 - [Mosec](https://github.com/mosecorg/mosec) - Model Serving made Efficient in the Cloud.
 - [MLNotify](https://github.com/aporia-ai/mlnotify) - Add just 1 import line and MLNotify will let you know the second it's done.
+- [Build models like we build open-source software (2021)](https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html) ([HN](https://news.ycombinator.com/item?id=29487212))

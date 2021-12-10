@@ -84,6 +84,7 @@
 - [PyNN](https://github.com/NeuralEnsemble/PyNN) - Python package for simulator-independent specification of neuronal network models.
 - [JAX-CFD](https://github.com/google/jax-cfd) - Computational Fluid Dynamics in JAX.
 - [pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python.
+- [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models.
 
 ## Biology
 
@@ -581,6 +582,7 @@
 - [Plum](https://github.com/wesselb/plum) - Multiple Dispatch in Python.
 - [SceneGraphParser](https://github.com/vacancy/SceneGraphParser) - Python toolkit for parsing sentences (in natural language) into scene graphs (as symbolic representation) based on the dependency parsing.
 - [python-json-patch](https://github.com/stefankoegl/python-json-patch) - Applying JSON Patches in Python.
+- [Gin Config](https://github.com/google/gin-config) - Lightweight configuration framework for Python.
 
 ## Links
 
@@ -603,7 +605,7 @@
 - [conda-press](https://github.com/conda-incubator/conda-press) - Press conda packages into wheels.
 - [cibuildwheel](https://github.com/joerick/cibuildwheel) - Build Python wheels for all the platforms on CI with minimal configuration.
 - [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/) ([HN](https://news.ycombinator.com/item?id=26733423))
-- [PDM](https://github.com/pdm-project/pdm) - Modern Python package manager with PEP 582 support.
+- [PDM](https://github.com/pdm-project/pdm/) - Modern Python package manager with PEP 582 support. ([Docs](https://pdm.fming.dev/)) ([HN](https://news.ycombinator.com/item?id=29502715))
 - [Python Wheel Standard](https://github.com/pypa/wheel)
 - [Python Packaging Authority](https://www.pypa.io/en/latest/) ([GitHub](https://github.com/pypa))
 - [Python Packages Project Generator](https://github.com/TezRomacH/python-package-template)
@@ -634,3 +636,4 @@
 - [requirements-tools](https://github.com/Yelp/requirements-tools) - Scripts for working with Python requirements, primarily in applications.
 - [Writing and publishing a Python module in Rust (2020)](https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust) ([HN](https://news.ycombinator.com/item?id=29441840))
 - [setuptools](https://github.com/pypa/setuptools) - Python Packaging.
+- [objprint](https://github.com/gaogaotiantian/objprint) - Library that can print Python objects in human readable format.

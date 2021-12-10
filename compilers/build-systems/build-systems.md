@@ -58,7 +58,7 @@
 - [Mage is My Favorite Make (2021)](https://carolynvanslyck.com/blog/2021/01/mage-is-my-favorite-make/) ([Lobsters](https://lobste.rs/s/zry6q1/mage_is_my_favorite_make))
 - [Kres](https://github.com/talos-systems/kres) - Tool to automate generation of build instructions based on project structure.
 - [You can handle The Diamond with CMake (2021)](http://beza1e1.tuxen.de/cmake_diamond.html) ([HN](https://news.ycombinator.com/item?id=26602450))
-- [Turborepo](https://turborepo.com/) - Blazing fast monorepo build system. ([GitHub](https://github.com/turborepo)) ([Turbo v0.4.0](https://turborepo.com/posts/turbo-0-4-0)) ([Tweet](https://twitter.com/jaredpalmer/status/1387760499908136960))
+- [Turborepo](https://turborepo.com/) - Blazing fast monorepo build system. ([GitHub](https://github.com/turborepo)) ([Turbo v0.4.0](https://turborepo.com/posts/turbo-0-4-0)) ([Tweet](https://twitter.com/jaredpalmer/status/1387760499908136960)) ([Code](https://github.com/vercel/turborepo))
 - [OMake](http://projects.camlcity.org/projects/omake.html) - Build system designed for scalability and portability. ([Code](https://github.com/ocaml-omake/omake))
 - [Reproducible Builds: Increasing the Integrity of Software Supply Chains (2021)](https://arxiv.org/abs/2104.06020)
 - [Comparing the New Generation of Build Tools (2021)](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
@@ -88,3 +88,4 @@
 - [Biomake](https://github.com/evoldoers/biomake) - make-like utility for managing builds (or analysis workflows) involving multiple dependent files.
 - [Leeway](https://github.com/gitpod-io/leeway) - Heavily caching build system for Go, Yarn and Docker projects.
 - [scikit-build](https://github.com/scikit-build/scikit-build) - Improved build system generator for CPython C/C++/Fortran/Cython extensions.
+- [Bob](https://github.com/benchkram/bob) - Build system, a task runner as well as tooling for Git Multi-repos, all bundled into a single binary.

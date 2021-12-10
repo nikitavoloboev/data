@@ -1141,6 +1141,11 @@
 - [go-heaps](https://github.com/theodesp/go-heaps) - Reference implementations of heap data structures in Go.
 - [geodist](https://github.com/jftuga/geodist) - Compute the distance between two geographic latitude, longitude coordinates. ([Reddit](https://www.reddit.com/r/golang/comments/r6wdww/i_wrote_a_package_to_compute_the_distance_between/))
 - [go-verkle](https://github.com/gballet/go-verkle) - Go implementation of Verkle trees.
+- [go-sarif](https://github.com/owenrumney/go-sarif) - Go library for sarif - Static Analysis Results Interchange Format.
+- [atomix](https://github.com/cristalhq/atomix) - Better sync/atomic package for Go.
+- [Go Telemetry SDK](https://github.com/newrelic/newrelic-telemetry-sdk-go)
+- [go-bloomindex](https://github.com/dgryski/go-bloomindex) - Bloom-filter based search index.
+- [Go Keyring](https://github.com/zalando/go-keyring) - OS-agnostic library for setting, getting and deleting secrets from the system keyring.
 
 ## Links
 

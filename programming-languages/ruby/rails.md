@@ -99,3 +99,4 @@
 - [Example Rails + Docker app](https://github.com/nickjj/docker-rails-example)
 - [Packwerk](https://github.com/Shopify/packwerk) - Ruby gem used to enforce boundaries and modularize Rails applications.
 - [Bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
+- [On Rails (2021)](https://marbiano.dev/into-remix/on-rails)

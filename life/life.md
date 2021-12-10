@@ -26,6 +26,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [How we spend our days is, of course, how we spend our lives.](https://twitter.com/lorde)
 - [Die with memories, not dreams.](https://twitter.com/rubenharris/status/1464220512830124032)
 - [There Are No Adults. Everyone's making it up as they go along. Figure it out yourself, and do it.](https://twitter.com/NavalBot/status/1465772676291743747)
+- [Every person has two lives; the second starts when they realizes they just have one. No time like the present to be the best version of yourself yet.](https://twitter.com/bscholl/status/1468758265714679811)
 
 ## Links
 
@@ -92,3 +93,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Physical Models of Living Systems | Philip Nelson Book (2014)](https://www.physics.upenn.edu/biophys/PMLS/) ([Tweet](https://twitter.com/redblobgames/status/1466191200315080710))
 - [Computer-designed organisms](https://cdorgs.github.io/) ([Article](https://arstechnica.com/science/2021/11/mobile-clusters-of-cells-can-help-assemble-a-mini-version-of-themselves/))
 - [The RNA World and the Origins of Life](https://www.ncbi.nlm.nih.gov/books/NBK26876/) ([HN](https://news.ycombinator.com/item?id=29480428))
+- [Ask HN: What things has tech made worse in your life? (2021)](https://news.ycombinator.com/item?id=29511761)

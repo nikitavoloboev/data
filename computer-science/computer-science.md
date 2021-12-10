@@ -161,3 +161,4 @@
 - [Theoretical Computer Science Cheat Sheet](https://www.tug.org/texshowcase/cheat.pdf) ([HN](https://news.ycombinator.com/item?id=29347885))
 - [CS1000](https://cs1000.vercel.app/) - Reference site for a beginner, to gain insight into various subjects present around CS and Software engineering. ([Code](https://github.com/tpkahlon/cs1000))
 - [Getting a Computer Science PhD in the USA](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)
+- [Good book on the fundamentals of CS (2021)](https://news.ycombinator.com/item?id=29498220)

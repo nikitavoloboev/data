@@ -98,3 +98,4 @@
 - [Formalizing Dawn in Coq (2021)](https://danilafe.com/blog/coq_dawn/)
 - [Semantics](https://github.com/coq-community/semantics) - Survey of semantics styles in Coq.
 - [vstyle](https://github.com/appliedfm/vstyle) - Style guide for Coq. ([Docs](https://vstyle.readthedocs.io/en/latest/))
+- [AAC Tactics](https://github.com/coq-community/aac-tactics) - Coq plugin providing tactics for rewriting universally quantified equations, modulo associative (and possibly commutative) operators.

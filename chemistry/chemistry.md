@@ -48,3 +48,6 @@
 - [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - Tool for retrosynthetic planning. ([Docs](https://molecularai.github.io/aizynthfinder/))
 - [Surge](https://github.com/StructureGenerator/surge) - Fast Open-Source Chemical Graph Generator.
 - [Quantum Chemistry Done Wrong: One-Electron Systems](https://github.com/lisyarus/chembook)
+- [Directional Message Passing on Molecular Graphs via Synthetic Coordinates](https://www.in.tum.de/daml/synthetic-coordinates/) ([Code](https://github.com/TUM-DAML/synthetic_coordinates))
+- [NequIP](https://github.com/mir-group/nequip) - Code for building E(3)-equivariant interatomic potentials.
+- [Pushing the frontiers of density functionals by solving the fractional electron problem (2021)](https://www.science.org/doi/10.1126/science.abj6511) ([Tweet](https://twitter.com/pfau/status/1469024580853547014))

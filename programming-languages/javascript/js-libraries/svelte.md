@@ -149,3 +149,4 @@
 - [Houdini](https://github.com/AlecAivazis/houdini) - Disappearing GraphQL client for Sapper and SvelteKit.
 - [svelte-popperjs](https://github.com/bryanmylee/svelte-popperjs) - Popper for Svelte with actions, no wrapper components required.
 - [svelte-previous](https://github.com/bryanmylee/svelte-previous) - Svelte stores that remember previous values.
+- [Build an App with SvelteKit and Tailwind CSS (2021)](https://www.youtube.com/watch?v=YipaPr4Aex8)

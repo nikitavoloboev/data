@@ -422,7 +422,7 @@ Below is a list of extensions I use.
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
 - [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)
 - [Monokai Pro](https://www.monokai.pro/vscode/)
-- [Dracula Pro](https://draculatheme.com/pro/)
+- [Dracula Pro](https://draculatheme.com/pro/) ([HN](https://news.ycombinator.com/item?id=29494189))
 - [Moxer](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-theme) ([Code](https://github.com/moxer-theme/moxer-code))
 - [Sema](https://github.com/arzg/sema) - Theme that focuses on what’s important. ([Web](https://arzg.github.io/sema/))
 - [MuPanda](https://github.com/Veykril/MuPanda)

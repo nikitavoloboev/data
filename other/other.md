@@ -569,3 +569,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Emoji to Scale](https://javier.xyz/emoji-to-scale/) ([HN](https://news.ycombinator.com/item?id=29425735)) ([Code](https://github.com/javierbyte/emoji-to-scale))
 - [Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news) ([HN](https://news.ycombinator.com/item?id=29440467))
 - [You Can't Buy Integration (2021)](https://martinfowler.com/articles/cant-buy-integration.html) ([HN](https://news.ycombinator.com/item?id=29478375))
+- [Lexiscore – a nutritional label for food for thought](https://paulbricman.com/thoughtware/lexiscore)
+- [Ask HN: Favorite Thing Built to Last? (2021)](https://news.ycombinator.com/item?id=29510819)

@@ -128,3 +128,4 @@
 - [“RISC V is a terrible architecture” (2021)](https://gmplib.org/list-archives/gmp-devel/2021-September/006013.html) ([HN](https://news.ycombinator.com/item?id=29420622))
 - [New SiFive RISC-V core P650 with 40% IPC increase (2021)](https://www.sifive.com/press/sifive-raises-risc-v-performance-bar-with-new-best-in-class) ([HN](https://news.ycombinator.com/item?id=29418153))
 - [XCrypto](https://github.com/scarv/xcrypto) - Cryptographic ISE for RISC-V.
+- [MemPool](https://github.com/pulp-platform/mempool) - 256-RISC-V-core system with low-latency access into shared L1 memory.

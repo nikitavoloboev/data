@@ -215,6 +215,7 @@
 - [geom3d](https://github.com/J-F-Liu/geom3d) - Data structures and algorithms for 3D geometric modeling.
 - [dolly](https://github.com/h3r2tic/dolly) - Composable camera rigs.
 - [gpgpu](https://github.com/UpsettingBoy/gpgpu-rs) - Simple GPGPU framework for Rust built on top of wgpu.
+- [jpeg-decoder](https://github.com/image-rs/jpeg-decoder) - Rust library for decoding JPEGs.
 
 ## Games
 
@@ -424,6 +425,7 @@
 - [async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions.
 - [byteme](https://github.com/breuHQ/byteme) - Proc-macro to get Vec<u8> from struct and vise versa.
 - [Cute](https://github.com/mattgathu/cute) - Macro for Python-esque list comprehensions in Rust.
+- [real_async_trait](https://github.com/4lDO2/real-async-trait-rs) - Proc macro for real async traits.
 
 ## Math
 
@@ -1212,6 +1214,10 @@
 - [Calm I/O](https://github.com/myrrlyn/calm_io) - Calm I/O operations for Rust.
 - [GeoZero](https://github.com/georust/geozero) - Zero-Copy reading and writing of geospatial data.
 - [efg](https://github.com/dtolnay/efg) - Conditional compilation using boolean expression syntax, rather than any(), all(), not().
+- [Monoio](https://github.com/bytedance/monoio) - Thread-per-core Rust runtime with io_uring. ([HN](https://news.ycombinator.com/item?id=29493340))
+- [btree](https://github.com/wspeirs/btree) - On-Disk B+ Tree implemented in Rust.
+- [CoreMIDI](https://github.com/chris-zen/coremidi) - CoreMIDI library for Rust. ([Article](http://chris-zen.github.io/software/2017/01/05/coremidi-rust-library.html))
+- [node-replication](https://github.com/vmware/node-replication) - Operation-log based approach for data replication.
 
 ## Cargo Plugins
 
@@ -1324,3 +1330,4 @@
 - [Build environment for third-party Rust crates](https://github.com/rust-lang/crates-build-env)
 - [cargo2nix](https://github.com/cargo2nix/cargo2nix) - Build Rust crates with Nix.
 - [Async Applied](https://github.com/benkay86/async-applied) - Practical examples of the Rust async ecosystem.
+- [image-rs](https://github.com/image-rs) - Image libraries for Rust.

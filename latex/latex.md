@@ -101,3 +101,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeX Input for Impatient Scholars (2021)](https://karthinks.com/software/latex-input-for-impatient-scholars/) ([HN](https://news.ycombinator.com/item?id=29131928))
 - [LaTeXPad](https://www.latexpad.dev/) - Minimalist LaTeX scratch pad with symbol autocompletion and instant previews. ([Code](https://github.com/cmoog/latexpad))
 - [LaTeX Run](https://github.com/aclements/latexrun) - Fits LaTeX into a modern build environment.
+- [Symbolic-math-HaTeX](https://github.com/leftaroundabout/Symbolic-math-HaTeX) - Convenient Haskell syntax for writing in LaTeX math expressions.

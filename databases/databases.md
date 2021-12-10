@@ -25,7 +25,7 @@
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [Code](https://github.com/scylladb/scylla) ([Scylla University](https://university.scylladb.com/))
 - [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database. ([Web](https://janusgraph.org/)) ([HN](https://news.ycombinator.com/item?id=27762109))
 - [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System. ([HN](https://news.ycombinator.com/item?id=24531085)) ([Playing With DuckDB](https://www.turtle-techies.com/playing-with-duck-db/)) ([5 minute intro](https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/)) ([Web](https://duckdb.org/))
-- [DuckDB-Wasm](https://duckdb.org/2021/10/29/duckdb-wasm.html) - Efficient Analytical SQL in the Browser. ([HN](https://news.ycombinator.com/item?id=29039235))
+- [DuckDB-Wasm](https://duckdb.org/2021/10/29/duckdb-wasm.html) - Efficient Analytical SQL in the Browser. ([HN](https://news.ycombinator.com/item?id=29039235)) ([Code](https://github.com/duckdb/duckdb-wasm))
 - [sled](https://github.com/spacejam/sled) - Modern embedded database. ([sledtool - CLI tool to work with Sled key-value databases](https://github.com/vi/sledtool))
 - [Genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database, works with Bolt, Badger and memory. ([Web](https://genji.dev/))
 - [Atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.

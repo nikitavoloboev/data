@@ -33,3 +33,4 @@
 - [Spectrograms – audio signal processing for machine learning](https://selectfrom.dev/spectrograms-or-how-i-learned-to-stop-worrying-and-love-audio-signal-processing-for-machine-d28c022ca5ca) ([HN](https://news.ycombinator.com/item?id=29113998))
 - [Differentiable Digital Signal Processing in PyTorch](https://github.com/acids-ircam/ddsp_pytorch)
 - [Synthesis ToolKit in C++](https://github.com/thestk/stk) - Open source audio signal processing and algorithmic synthesis classes written in the C++ programming language.
+- [Cat meow sounds visualized with Auto-Correlation Function](https://soundshader.github.io/cats.html) ([HN](https://news.ycombinator.com/item?id=29501359))

@@ -72,3 +72,6 @@
 - [Example Pipelines | Buildkite](https://buildkite.com/docs/pipelines/example-pipelines)
 - [What we learnt by migrating from CircleCI to Buildkite (2021)](https://hasura.io/blog/what-we-learnt-by-migrating-from-circleci-to-buildkite/)
 - [Spinnaker](https://github.com/spinnaker/spinnaker) - Open-source continuous delivery platform for releasing software changes with high velocity and confidence. ([Web](https://spinnaker.io/))
+- [Danger JS](https://github.com/danger/danger-js) - Runs after your CI, automating your team's conventions surrounding code review.
+- [Faster Gitlab CI/CD pipelines (2021)](https://blog.nimbleways.com/let-s-make-faster-gitlab-ci-cd-pipelines/) ([HN](https://news.ycombinator.com/item?id=29502999))
+- [Developing Databricks' Runbot CI Solution (2021)](https://databricks.com/blog/2021/10/14/developing-databricks-runbot-ci-solution.html)

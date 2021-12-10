@@ -613,3 +613,5 @@
 - [What areas of deep learning are under-explored? (2021)](https://www.reddit.com/r/MachineLearning/comments/r9yzub/d_in_your_opinion_what_areas_of_deep_learning_are/)
 - [cnvrg.io](https://cnvrg.io/) - Full Stack Machine Learning Operating System.
 - [Learning with not Enough Data Part 1: Semi-Supervised Learning (2021)](https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html) ([HN](https://news.ycombinator.com/item?id=29456732))
+- [Efficient Training of Audio Transformers with Patchout (2021)](https://arxiv.org/abs/2110.05069) ([Code](https://github.com/kkoutini/PaSST))
+- [Machine Learning for Creativity and Design](https://neuripscreativityworkshop.github.io/2021/)

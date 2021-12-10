@@ -317,3 +317,9 @@ Awesome List
 - [gh label](https://github.com/heaths/gh-label) - GitHub CLI extension for issue label management.
 - [Improving GitHub Code Search (2021)](https://github.blog/2021-12-08-improving-github-code-search/) ([HN](https://news.ycombinator.com/item?id=29487237)) ([Video](https://www.youtube.com/watch?v=UOIPBfPXkus))
 - [re](https://github.com/jordanlewis/re) - Lets you do Github code reviews from the terminal using your favorite editor.
+- [Stack Graphs (2021)](https://github.blog/2021-12-09-introducing-stack-graphs/) ([HN](https://news.ycombinator.com/item?id=29500602))
+- [Precise code navigation for Python, and code navigation in pull requests (2021)](https://github.blog/2021-12-09-precise-code-navigation-python-code-navigation-pull-requests/)
+- [GitHub CMS](https://github.com/oscarnevarezleal/gh-cms) - Headless CMS using Github Issues and Github Actions.
+- [GitHub Code Search](https://cs.github.com/about)
+- [gh-stack](https://github.com/timothyandrew/gh-stack) - Manage PR stacks/chains on Github.
+- [A Better Model for Stacked (GitHub) Pull Requests (2021)](https://0xc0d1.com/blog/git-stack/)

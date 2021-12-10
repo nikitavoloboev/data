@@ -25,7 +25,7 @@
 - [Lingvo](https://github.com/tensorflow/lingvo) - Framework for building neural networks in Tensorflow, particularly sequence models.
 - [Fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [Stanford CS224N: NLP with Deep Learning (2019)](https://www.youtube.com/watch?v=8rXD5-xhemo) - [Course page](https://web.stanford.edu/class/cs224n/). ([HN](https://news.ycombinator.com/item?id=19569883))
-- [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course) ([Web](https://course.spacy.io/en/))
+- [Advanced NLP with spaCy: Free Course](https://github.com/ines/spacy-course) ([Web](https://course.spacy.io/en/)) ([HN](https://news.ycombinator.com/item?id=29511488))
 - [Code for Stanford Natural Language Understanding course, CS224u (2019)](https://github.com/cgpotts/cs224u)
 - [Awesome Reinforcement Learning for Natural Language Processing](https://github.com/adityathakker/awesome-rl-nlp)
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - Framework for training and evaluating AI models on a variety of openly available dialogue datasets.
@@ -303,7 +303,7 @@
 - [FNet: Mixing Tokens with Fourier Transforms (2021)](https://arxiv.org/abs/2105.03824) ([Tweet](https://twitter.com/ilyaeck/status/1393132270806966272))
 - [True Few-Shot Learning with Language Models (2021)](https://arxiv.org/abs/2105.11447) ([Tweet](https://twitter.com/EthanJPerez/status/1397015129506541570)) ([Code](https://github.com/ethanjperez/true_few_shot))
 - [End-to-end NLP workflows from prototype to production](https://github.com/explosion/projects) ([Web](https://spacy.io/usage/projects))
-- [Haystack](https://github.com/deepset-ai/haystack) - End-to-end Python framework for building natural language search interfaces to data.
+- [Haystack](https://github.com/deepset-ai/haystack) - End-to-end Python framework for building natural language search interfaces to data. ([HN](https://news.ycombinator.com/item?id=29501045))
 - [PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [English-to-Spanish translation with a sequence-to-sequence Transformer in Keras](https://keras.io/examples/nlp/neural_machine_translation_with_transformer/)
 - [Evaluation Harness for Large Language Models](https://github.com/EleutherAI/lm-evaluation-harness) - Framework for few-shot evaluation of autoregressive language models.
@@ -416,3 +416,4 @@
 - [Pureformer: Do We Even Need Attention? (2021)](https://arxiv.org/abs/2111.15588)
 - [Knover](https://github.com/PaddlePaddle/Knover) - Toolkit for knowledge grounded dialogue generation based on PaddlePaddle.
 - [Language Modelling at Scale: Gopher, Ethical considerations, and Retrieval | DeepMind (2021)](https://deepmind.com/blog/article/language-modelling-at-scale) ([HN](https://news.ycombinator.com/item?id=29486607))
+- [CMU Advanced NLP 2021 - YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)

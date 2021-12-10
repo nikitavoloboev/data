@@ -270,3 +270,5 @@
 - [graphql-state](https://github.com/babyfish-ct/graphql-state) - New react state management framework.
 - [Tartiflette](https://github.com/tartiflette/tartiflette) - GraphQL Engine built with Python 3.6+ / asyncio. ([Web](https://tartiflette.io/))
 - [When to use multiple endpoints in GraphQL (2021)](https://blog.logrocket.com/use-multiple-endpoints-graphql/)
+- [Build a GraphQL API with AWS CDK and AppSync (2021)](https://egghead.io/courses/build-a-graphql-api-with-aws-cdk-and-appsync-7d2a5fbc)
+- [GraphQL @ Yelp Schema Guidelines](https://github.com/Yelp/graphql-guidelines)

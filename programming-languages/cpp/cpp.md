@@ -278,3 +278,4 @@
 - [Modern C++ command line tool template](https://github.com/demidko/utility)
 - [Software Tools in C++](https://www.jezuk.co.uk/tags/software-tools-in-c++.html) ([HN](https://news.ycombinator.com/item?id=29412246))
 - [pinned_vec - invalidating iterator invalidation](https://wheybags.com/blog/pinned.html) ([Lobsters](https://lobste.rs/s/xdmqk8/pinned_vec_invalidating_iterator))
+- [Introduction to fibers in c++ (2019)](https://romange.com/2018/12/15/introduction-to-fibers-in-c-/)

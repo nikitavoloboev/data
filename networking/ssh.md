@@ -84,3 +84,4 @@
 - [SSH2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for NodeJS.
 - [Wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that.
 - [promwish](https://github.com/charmbracelet/promwish) - Provides a simple wish middleware exposing some Prometheus metrics.
+- [age-plugin-remote](https://github.com/str4d/age-plugin-remote) - Expose local age identities to remote machines via SSH.

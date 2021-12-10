@@ -147,3 +147,4 @@
 - [An Illustrated Guide to Elliptic Curve Cryptography Validation (2021)](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/) ([HN](https://news.ycombinator.com/item?id=29397243))
 - [starkex-lib](https://github.com/dydxprotocol/starkex-lib) - Cryptographic functions for dYdX.
 - [Kryptology](https://github.com/coinbase/kryptology) - Coinbase's advanced cryptography library.
+- [NCC Group’s Cryptopals Guided Tour (2021)](https://research.nccgroup.com/2021/12/10/announcing-ncc-groups-cryptopals-guided-tour/) ([HN](https://news.ycombinator.com/item?id=29510624))

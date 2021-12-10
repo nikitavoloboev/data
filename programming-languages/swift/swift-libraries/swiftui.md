@@ -173,3 +173,4 @@
 - [Three beautiful macOS sidebars. Two built in Cocoa, and the third in SwiftUI](https://github.com/revblaze/SimpleSidebar)
 - [Transactions and Animations (2021)](https://www.objc.io/blog/2021/11/25/transactions-and-animations/)
 - [SwiftUI Library](https://swiftuilibrary.com/) - Rebuilt the most common iOS design components into a library of reusable container views. ([GitHub](https://github.com/swiftui-library/)) ([Tweet](https://twitter.com/TR3NTG/status/1463540204715659266))
+- [SwiftUIPlaygrounds](https://github.com/johnno1962/SwiftUIPlaygrounds) - Shell project you can use to iterate over SwiftUI interfaces using the HotReloading project.

@@ -46,3 +46,4 @@
 - [Creating a protoc plugin to generate Go code with protogen (2021)](https://rotemtam.com/2021/03/22/creating-a-protoc-plugin-to-gen-go-code/)
 - [Protobuf Field Mask utils for Go](https://github.com/mennanov/fieldmask-utils)
 - [Protocol Buffers for Node.js](https://github.com/mafintosh/protocol-buffers)
+- [Protobuf parser for Go](https://github.com/alecthomas/protoparser)

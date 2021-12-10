@@ -286,3 +286,4 @@
 - [Coding Interview with Dan Abramov (2021)](https://www.youtube.com/watch?v=XEt09iK8IXs)
 - [React-JUCE](https://github.com/nick-thompson/react-juce) - Write cross-platform native apps with React.js and JUCE.
 - [Server Components Working Group](https://github.com/reactwg/server-components)
+- [React Conf 2021 - YouTube](https://www.youtube.com/playlist?list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa)

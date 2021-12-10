@@ -38,3 +38,4 @@
 - [Pushshift Reddit API Documentation](https://github.com/pushshift/api)
 - [The Ultimate Guide to Unbundling Reddit (2020)](https://latecheckout.substack.com/p/the-ultimate-guide-to-unbundling) ([HN](https://news.ycombinator.com/item?id=29420100))
 - [My Favorite Software Subreddits](https://notes.eatonphil.com/high-quality-subreddits-you-should-be-following.html) ([HN](https://news.ycombinator.com/item?id=29450583))
+- [RedditScrape](https://github.com/adgray09/RedditScrape) - Web scraper built in Go using the Colly library.

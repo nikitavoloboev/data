@@ -125,3 +125,4 @@
 - [Awesome DevOps](https://github.com/wmariuss/awesome-devops)
 - [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps)
 - [Common Infrastructure Errors I've Made (2021)](https://matduggan.com/mistakes/) ([Lobsters](https://lobste.rs/s/5r5fsa/don_t_make_my_mistakes_common)) ([HN](https://news.ycombinator.com/item?id=29434740))
+- [Lightweight Experiment & Resource Monitoring](https://github.com/mle-infrastructure/mle-monitor)

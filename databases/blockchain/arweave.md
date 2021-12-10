@@ -39,3 +39,4 @@
 - [Arweave Wiki](https://arwiki.wiki/#/en/main)
 - [ArDB](https://github.com/textury/ardb) - Best way to interact with the weave, without having to write any GQL and trying to remember param names.
 - [arienai](https://github.com/littledivy/arienai) - Hardware wallet for Arweave. For Cortex M3 processors.
+- [Permacast](https://github.com/xylophonez/permacast) - Permanent podcast hosting and discovery, powered by Arweave.

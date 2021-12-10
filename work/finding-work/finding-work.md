@@ -141,3 +141,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Ask HN: Starting a career as a programmer in my mid-40s (2021)](https://news.ycombinator.com/item?id=29140927)
 - [Ask HN: How do you start a new career with minimal qualifications? (2021)](https://news.ycombinator.com/item?id=29305389)
 - [Ask HN: Software Engineer hitting 40: what's next? (2021)](https://news.ycombinator.com/item?id=29360119)
+- [Ask HN: Where are you finding freelance/fractional work? (2021)](https://news.ycombinator.com/item?id=29505524)

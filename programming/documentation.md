@@ -132,3 +132,4 @@
 - [Documenting Architecture Decisions (2011)](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 - [Ask HN: What are you using for public documentation these days? (2021)](https://news.ycombinator.com/item?id=29264374)
 - [How to Comment Your Code (2021)](https://matt-rickard.com/how-to-comment-your-code/)
+- [Fundoc](https://github.com/CSSSR/fundoc) - Language agnostic documentation generator. Written in Rust.

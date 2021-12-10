@@ -22,3 +22,4 @@
 - [MQTT-Client-Framework](https://github.com/novastone-media/MQTT-Client-Framework) - iOS, macOS, tvOS native ObjectiveC MQTT Client Framework.
 - [Mosquitto](https://mosquitto.org/) - Open source MQTT broker. ([Code](https://github.com/eclipse/mosquitto)) ([HN](https://news.ycombinator.com/item?id=28695346))
 - [mqtt-go](https://github.com/at-wat/mqtt-go) - Yet another Go MQTT 3.1.1 client library.
+- [PubSubRT](https://github.com/alttch/psrt) - Pub/sub real-time telemetry protocol, optimized for industrial needs: providing low latency, dealing with slow channels and large payloads.

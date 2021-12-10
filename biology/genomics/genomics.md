@@ -116,3 +116,11 @@
 - [microPIPE](https://github.com/BeatsonLab-MicrobialGenomics/micropipe) - Pipeline for high-quality bacterial genome construction using ONT sequencing.
 - [Genomic Medicine and Statistics DPhil Programme](https://www.well.ox.ac.uk/study/gms)
 - [RNA Takes Over](https://www.science.org/content/blog-post/rna-takes-over) ([HN](https://news.ycombinator.com/item?id=29475295))
+- [Dense Depth Data Dump (D4)](https://github.com/38/d4-format) - Format and tool suite provide an alternative to BigWig for fast analysis and compact storage of quantitative genomics datasets.
+- [bedtools](https://github.com/arq5x/bedtools2) - Swiss army knife for genome arithmetic.
+- [GEMINI](https://github.com/arq5x/gemini) - Integrative exploration of genetic variation and genome annotations.
+- [Quinlan Lab](http://quinlanlab.org/) - Combine computational and genomic techniques to explore genome biology and the genetic basis of traits.
+- [vg](https://github.com/vgteam/vg) - Tools for working with genome variation graphs.
+- [seqwish](https://github.com/ekg/seqwish) - Alignment to variation graph inducer.
+- [pggb](https://github.com/pangenome/pggb) - Pangenome graph construction pipeline renders a collection of sequences into a pangenome graph.
+- [Alen](https://github.com/jakobnissen/alen) - Command-like program to view DNA or protein alignments in FASTA formats.

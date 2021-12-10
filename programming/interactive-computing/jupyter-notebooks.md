@@ -159,3 +159,4 @@
 - [Naas](https://github.com/jupyter-naas/naas) - Open-source, it transforms Jupyter Notebooks in a safe production environment thanks to micro-services. ([Web](https://www.naas.ai/))
 - [kubespawner](https://github.com/jupyterhub/kubespawner) - Enables JupyterHub to spawn single-user notebook servers on a Kubernetes cluster.
 - [Zero to JupyterHub with Kubernetes](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
+- [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks.

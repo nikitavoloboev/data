@@ -157,3 +157,5 @@
 - [Variant-driven Components (2021)](https://ped.ro/blog/variant-driven-components)
 - [Design systems and magic (2021)](https://twitter.com/danmall/status/1450825066502148102)
 - [Design Systems are for user interfaces (2021)](https://bradfrost.com/blog/post/design-systems-are-for-user-interfaces/)
+- [Design Systems London Online #1 (2021)](https://www.youtube.com/watch?v=VyJEg_g6gQY)
+- [Design-Systems-Resources](https://github.com/dbanksdesign/Design-Systems-Resources)

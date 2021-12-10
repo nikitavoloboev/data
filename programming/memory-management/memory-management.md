@@ -77,3 +77,5 @@
 - [gcmodule](https://github.com/quark-zju/gcmodule) - Garbage collection for Rust inspired by CPython's gcmodule.
 - [Optimising memset and memcpy](https://twitter.com/nadavrot/status/1464364562409422852) ([HN](https://news.ycombinator.com/item?id=29359906))
 - [Deconstructing the Garbage-First Collector (2020)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/g1-vee-2020.pdf)
+- [llmalloc](https://github.com/matthieu-m/llmalloc) - Low-latency malloc implementation.
+- [Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment (2021)](https://arxiv.org/abs/2110.01098) ([Lobsters](https://lobste.rs/s/dvwomq/does_bronze_garbage_collector_make_rust))

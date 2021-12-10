@@ -267,3 +267,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Tvix: We Are Rewriting Nix (2021)](https://tvl.fyi/blog/rewriting-nix) ([HN](https://news.ycombinator.com/item?id=29412971)) ([Lobsters](https://lobste.rs/s/ypwgwp/tvix_we_are_rewriting_nix))
 - [Implementing a content-addressed Nix (2021)](https://www.tweag.io/blog/2021-12-02-nix-cas-4/)
 - [BuildKit-Nix](https://github.com/AkihiroSuda/buildkit-nix) - Allows using Nix derivations (default.nix) as Dockerfiles.
+- [How Nix and NixOS Get So Close to Perfect (2021)](https://www.youtube.com/watch?v=qjq2wVEpSsA)
+- [deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code.

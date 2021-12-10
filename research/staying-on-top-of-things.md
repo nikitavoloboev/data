@@ -162,6 +162,7 @@ And these Discord servers:
 - [Esquire](https://www.esquire.com/) - Men's Fashion, Cocktails, Politics, Interviews, and Women.
 - [TLS](https://www.the-tls.co.uk/) - Times Literary Supplement.
 - [Artforum International](https://www.artforum.com/)
+- [Wallpaper](https://www.wallpaper.com/) - Design, interiors, architecture, fashion, art.
 
 ### Other
 

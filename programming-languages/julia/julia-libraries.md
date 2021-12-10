@@ -125,6 +125,7 @@
 - [Causalinference.jl](https://github.com/mschauer/CausalInference.jl) - Julia package for causal inference, graphical models and structure learning.
 - [Bridge.jl](https://github.com/mschauer/Bridge.jl) - Statistical toolbox for diffusion processes and stochastic differential equations. Named after the Brownian Bridge.
 - [Kalman](https://github.com/mschauer/Kalman.jl) - Flexible filtering and smoothing in Julia.
+- [CombinatorialSpaces.jl](https://github.com/AlgebraicJulia/CombinatorialSpaces.jl) - Simplicial sets and other combinatorial models of geometric spaces.
 
 ## NLP
 
@@ -342,7 +343,6 @@
 - [IRTools](https://github.com/FluxML/IRTools.jl) - Mike's Little Intermediate Representation.
 - [GraphRecipes](https://github.com/JuliaPlots/GraphRecipes.jl) - Graph-related recipes to be used with Plots.jl.
 - [IntervalArithmetic.jl](https://github.com/JuliaIntervals/IntervalArithmetic.jl) - Rigorous floating-point calculations using interval arithmetic in Julia.
-- [Books.jl](https://github.com/rikhuijzer/Books.jl) - Create books with Julia.
 - [StructArrays](https://github.com/JuliaArrays/StructArrays.jl) - Efficient implementation of struct arrays in Julia.
 - [Seaborn](https://github.com/JuliaPy/Seaborn.jl) - Julia wrapper around the Seaborn data visualization library.
 - [DynamicHMC](https://github.com/tpapp/DynamicHMC.jl) - Implementation of robust dynamic Hamiltonian Monte Carlo methods (NUTS) in Julia.
@@ -375,6 +375,8 @@
 - [AMDGPU.jl](https://github.com/JuliaGPU/AMDGPU.jl) - AMD GPU (ROCm) programming in Julia.
 - [Unityper](https://github.com/YingboMa/Unityper.jl) - "compactify" structures in static single inheritance.
 - [ClimateMachine.jl](https://github.com/CliMA/ClimateMachine.jl) - Earth System Model that automatically learns from data.
+- [ReachabilityAnalysis.jl](https://github.com/JuliaReach/ReachabilityAnalysis.jl) - Methods to compute sets of states reachable by dynamical systems.
+- [Jin](https://github.com/malmaud/Jin.jl) - Julia version of the Python Gin configuration library.
 
 ## Links
 

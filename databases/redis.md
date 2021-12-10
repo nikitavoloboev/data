@@ -94,3 +94,5 @@
 - [Redis client Mock](https://github.com/go-redis/redismock)
 - [How to build a HackerNews Clone using Redis](https://developer.redis.com/howtos/hackernews/)
 - [Redis Developer Hub](https://developer.redis.com/)
+- [Redis Analysis - Part 1: Threading model (2021)](https://romange.com/2021/12/09/redis-analysis-part-1-threading-model/)
+- [A prelude to analysis of Redis memory-store (2021)](https://romange.com/2021/11/28/a-prelude-to-analysis-of-redis-memory-store/)

@@ -156,3 +156,5 @@
 - [BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation (2021)](https://onion-liu.github.io/BlendGAN/) ([Code](https://github.com/onion-liu/BlendGAN))
 - [Adversarial Generation of Continuous Implicit Shape Representations (2020)](https://arxiv.org/abs/2002.00349) ([Code](https://github.com/marian42/shapegan))
 - [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing (2021)](https://arxiv.org/abs/2111.15666) ([Code](https://github.com/yuval-alaluf/hyperstyle)) ([Web](https://yuval-alaluf.github.io/hyperstyle/)) ([HN](https://news.ycombinator.com/item?id=29401544))
+- [Audiovisual interpolations with GANs](https://github.com/maua-maua-maua/audiovisual)
+- [GAN-Supervised Dense Visual Alignment (2021)](https://www.wpeebles.com/gangealing) ([Code](https://github.com/wpeebles/gangealing))

@@ -1,5 +1,9 @@
 # [Web Components](https://www.webcomponents.org/introduction)
 
+## Notes
+
+- [Interoperability is best delivered via web components. Platform features are more resilient too. Web components will outlast any framework.](https://twitter.com/zachleat/status/1468961751748136972)
+
 ## Links
 
 - [LitElementai](https://github.com/Polymer/lit-element) - Simple base class for creating fast, lightweight web components.

@@ -240,3 +240,5 @@
 - [Apache SINGA](https://github.com/apache/singa) - Distributed deep learning system. ([Web](http://singa.apache.org/))
 - [Tiny CUDA Neural Networks](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast & tiny C++/CUDA neural network framework.
 - [Apache TVM](https://github.com/tlc-pack/relax) - Open Deep Learning Compiler Stack.
+- [imodels](https://github.com/csinva/imodels) - Interpretable ML package for concise, transparent, and accurate predictive modeling (sklearn-compatible).
+- [FLSim](https://github.com/facebookresearch/FLSim) - Flexible, standalone library written in PyTorch that simulates FL settings with a minimal, easy-to-use API.

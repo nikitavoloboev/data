@@ -6,6 +6,10 @@
 
 - [Calendlex](https://github.com/bigardone/calendlex) - Simple Calendly clone with Phoenix LiveView.
 
+## Notes
+
+- [Can deploy Phoenix app on Fly with `mix phx.new`, `fly launch`.](https://twitter.com/chris_mccord/status/1468998944009166849)
+
 ## Links
 
 - [Surface](https://github.com/msaraiva/surface) - Server-side rendering component library for Phoenix.

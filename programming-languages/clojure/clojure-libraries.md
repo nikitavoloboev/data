@@ -18,6 +18,8 @@
 - [Ruuter](https://github.com/askonomm/ruuter) - Tiny, zero-dependency HTTP router.
 - [Garden](https://github.com/noprompt/garden) - Generate CSS with Clojure.
 - [Compojure-API](https://github.com/metosin/compojure-api) - Sweet web APIs with Compojure & Swagger.
+- [Pedestal](https://github.com/pedestal/pedestal) - Set of libraries written in Clojure that aims to bring both the language and its principles (Simplicity, Power and Focus) to server-side development.
+- [Fulcro](https://github.com/fulcrologic/fulcro) - Library for development of single-page full-stack web applications in clj/cljs. ([Workshop](https://github.com/holyjak/fulcro-intro-wshop))
 
 ## DB
 
@@ -50,6 +52,7 @@
 - [humane-test-output](https://github.com/pjstadig/humane-test-output) - Humane test output for clojure.test.
 - [spec-tools](https://github.com/metosin/spec-tools) - Clojure(Script) tools for clojure.spec.
 - [test-runner](https://github.com/cognitect-labs/test-runner) - Small library for discovering and running tests in projects using native Clojure deps.
+- [test.check](https://github.com/clojure/test.check) - QuickCheck for Clojure.
 
 ## Other
 

@@ -19,3 +19,4 @@
 - [Motion Illusions](https://jake.vision/blog/motion-illusions)
 - [What color are these spheres?](https://www.syfy.com/syfywire/another-brain-frying-optical-illusion-what-color-are-these-spheres)
 - [Escher’s stairs (2021)](http://www.neverendingbooks.org/eschers-stairs)
+- [Spirals](https://isohedral.ca/other/Spirals/)

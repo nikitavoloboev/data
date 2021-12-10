@@ -725,3 +725,4 @@
 - [ims](https://github.com/mafintosh/ims) - Install My Stuff - an opinionated npm module installer.
 - [can-npm-publish](https://github.com/azu/can-npm-publish) - Command line tool that check to see if npm publish is possible.
 - [prebuildify](https://github.com/prebuild/prebuildify) - Create and package prebuilds for native modules.
+- [npm-stat](https://npm-stat.com/) - Download statistics for NPM packages. ([Code](https://github.com/pvorb/npm-stat.com))

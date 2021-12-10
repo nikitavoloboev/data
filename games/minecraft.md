@@ -1,5 +1,9 @@
 # [Minecraft](https://www.minecraft.net/en-us/)
 
+## Notes
+
+- [Minecraft servers can serve as great private social networks for your friends.](https://news.ycombinator.com/item?id=29470565)
+
 ## Links
 
 - [Minehut](https://minehut.com/) - Free Minecraft Server Hosting.

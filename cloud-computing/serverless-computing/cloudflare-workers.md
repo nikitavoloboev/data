@@ -113,3 +113,4 @@
 - [Blueboat](https://github.com/losfair/blueboat) - Open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps. ([HN](https://news.ycombinator.com/item?id=29321442))
 - [wasm-service](https://github.com/stevelr/wasm-service) - Base library for serverless WASM on Cloudflare Workers.
 - [wasm-service-oauth](https://github.com/stevelr/wasm-service-oauth) - Use OAuth with Cloudflare Workers.
+- [Build Data-Driven Applications on the Edge with Workers and Workers KV (2021)](https://egghead.io/courses/build-data-driven-applications-on-the-edge-with-workers-and-workers-kv-4932f3ea)

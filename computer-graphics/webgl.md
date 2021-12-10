@@ -78,3 +78,4 @@
 - [MeshCat Python](https://github.com/rdeits/meshcat-python) - Python Bindings to the MeshCat WebGL viewer.
 - [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) - Julia bindings to the MeshCat WebGL viewer.
 - [WebGLWorker](https://github.com/kripken/webgl-worker) - Lets you write WebGL code in a web worker, as if WebGL were implemented there.
+- [Hilo3D](https://github.com/hiloteam/Hilo3d) - 3D WebGL Rendering Engine.

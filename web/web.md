@@ -342,3 +342,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Ask HN: Simplest stack to build web apps in 2021?](https://news.ycombinator.com/item?id=29311761)
 - [Как мы строим веб-платформу в Авиасейлс (2021)](https://blog.kamyshev.me/salo-selene/)
 - [Designcember](https://designcember.com/) - Celebration of web design brought to you by web.dev.
+- [Web3 Is Not Decentralization](https://invisibleup.com/articles/38/) ([HN](https://news.ycombinator.com/item?id=29492851))
+- [Advent of UI Components](https://www.silvestar.codes/side-projects/advent/)
+- [ReplayWeb.page](https://replayweb.page/) - Explore and Replay Interactive Archived Webpages Directly in your Browser. ([Code](https://github.com/webrecorder/replayweb.page))
+- [Avoiding Internet Centralization (2021)](https://mnot.github.io/avoiding-internet-centralization/draft-nottingham-avoiding-internet-centralization.html) ([HN](https://news.ycombinator.com/item?id=29500035))

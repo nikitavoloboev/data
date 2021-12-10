@@ -2,6 +2,7 @@
 
 ## Notes
 
+- [Government should just get out of the way and not impede progress.](https://www.youtube.com/watch?v=lSD_vpfikbE)
 - [Digital technology is separating the citizens in all societies into two groups: the watchers and the watched.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
 - [Once we searched Google, but now Google searches us. Once we thought of digital services as free, but now surveillance capitalists think of us as free.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
 - [It is no longer enough to automate information flows about us; the goal now is to automate us. These processes are meticulously designed to produce ignorance by circumventing individual awareness and thus eliminate any possibility of self-determination. As one data scientist explained to me, “We can engineer the context around a particular behaviour and force change that way… We are learning how to write the music, and then we let the music make them dance.”](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
@@ -26,6 +27,7 @@
 - [Socialism and dictatorship fit together like two jigsaw puzzle pieces, because in practice communal ownership = state control](https://twitter.com/paulg/status/1460212725938900995)
 - [Taxes are best applied to (especially extravagant) consumption, whereas capital allocation taxes reduce goods & services output, so actually bad for the people. Probable capital allocation skill of heirs is lower than original creator, so I am in favor of an estate tax.](https://twitter.com/noahpinion/status/1460449757076226049?s=28)
 - [Idea: all government spending should be presented as $-per-taxpayer. 10 billion dollars in infra = $70 per taxpayer owed in future taxes.](https://twitter.com/justindross/status/1467566554728521731)
+- [Nothing is more permanent than a “temporary” government program.](https://twitter.com/elonmusk/status/1468685877970935809)
 
 ## Links
 

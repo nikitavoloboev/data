@@ -37,3 +37,5 @@
 - [mixtarter-chakra](https://github.com/sozonome/mixtarter-chakra) - Remix starter template with chakra-ui and typescript setup.
 - [Remix Params Helper](https://github.com/kiliman/remix-params-helper) - Makes it simple to use Zod with standard URLSearchParams and FormData which are typically used in Remix apps.
 - [React Server Components and Remix (2021)](https://remix.run/blog/react-server-components) ([Tweet](https://twitter.com/ryanflorence/status/1468292164249534465)) ([Reddit](https://www.reddit.com/r/reactjs/comments/rb7068/react_server_components_and_remix/))
+- [Moulton](https://readmoulton.com/) - Remix Newsletter.
+- [Remix-related resources](https://marbiano.dev/into-remix/the-vault)

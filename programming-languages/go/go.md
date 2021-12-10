@@ -645,3 +645,4 @@ if err != nil {
 - [Hacking Go compiler to add a new keyword (2021)](https://avi.im/blag/2021/rc-day-24/) ([HN](https://news.ycombinator.com/item?id=29487244))
 - [Gors](https://github.com/aymericbeaumet/gors) - Experimental go toolbelt written in rust (parser, compiler).
 - [Become an expert Go cloud developer](https://www.golang.dk/) ([Twitter](https://twitter.com/golangdk))
+- [go-errorlint](https://github.com/polyfloyd/go-errorlint) - Source code linter that can be used to find code that will cause problems with Go's error wrapping scheme.

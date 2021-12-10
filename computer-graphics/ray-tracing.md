@@ -83,3 +83,4 @@
 - [Peter Shirley Ray Tracing (in C++ 17)](https://github.com/define-private-public/PSRayTracing)
 - [Simulating the Colors of the Sky](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/simulating-sky)
 - [Hybrid Ray Tracer in Go](https://github.com/KevinTchokodeu/Hybrid-Ray-Tracer)
+- [Hybrid Rendering](https://github.com/diharaw/HybridRendering) - Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline.

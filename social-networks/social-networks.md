@@ -50,7 +50,7 @@
 - [Instagram Morphs into an Information Powerhouse (2020)](https://www.axios.com/instagram-information-coronavirus-george-floyd-706d1ad3-9d6d-48d4-b085-3469a0d93b56.html) ([HN](https://news.ycombinator.com/item?id=24019977))
 - [Proof of X (2020)](https://julian.digital/2020/08/06/proof-of-x/)
 - [TikTok and the Sorting Hat (2020)](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat) ([HN](https://news.ycombinator.com/item?id=24049676))
-- [How to run a small social network site for your friends](https://runyourown.social/) ([Lobsters](https://lobste.rs/s/rnsi0u/how_run_small_social_network_site_for_your)) ([HN](https://news.ycombinator.com/item?id=20384970)) ([Tweet](https://twitter.com/everestpipkin/status/1409957780744724480))
+- [How to run a small social network site for your friends](https://runyourown.social/) ([Lobsters](https://lobste.rs/s/rnsi0u/how_run_small_social_network_site_for_your)) ([HN](https://news.ycombinator.com/item?id=20384970)) ([Tweet](https://twitter.com/everestpipkin/status/1409957780744724480)) ([HN](https://news.ycombinator.com/item?id=29470565))
 - [A Blueprint for Content Governance and Enforcement (2018)](https://www.facebook.com/notes/mark-zuckerberg/a-blueprint-for-content-governance-and-enforcement/10156443129621634/)
 - [All the world's a stage. On alt accounts and communicative friction. (2020)](https://jasmine.substack.com/p/-all-the-worlds-a-stage)
 - [Wisdom Shelf](https://patriciamou.com/wisdom-shelf-waitlist) - Social network focused on personal development.

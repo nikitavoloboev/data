@@ -43,3 +43,4 @@
 - [What Makes It Sound ’80s? Yamaha DX7 Electric Piano Sound](https://meganlavengood.com/wp-content/uploads/2019/09/Lavengood-2019-%E2%80%9CWhat-Makes-It-Sound-%E2%80%9980s%E2%80%9D-The-Yamaha-DX7-Electr.pdf) ([Tweet](https://twitter.com/kenshirriff/status/1459579767410216963))
 - [libfmsynth](https://github.com/Themaister/libfmsynth) - C library which implements an FM synthesizer.
 - [TinySoundFont](https://github.com/schellingb/TinySoundFont) - SoundFont2 synthesizer library in a single C/C++ file.
+- [Kiro Synth](https://github.com/chris-zen/kiro-synth) - Modular sound synthesizer written in Rust.

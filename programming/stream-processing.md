@@ -27,3 +27,4 @@
 - [The Art of the Meta Stream Protocol: Torrents of Streams](https://programming-journal.org/2022/6/2/)
 - [rlink-rs](https://github.com/rlink-rs/rlink-rs) - High-performance Stream Processing Framework. An alternative to Apache Flink.
 - [Architecting a Boring Stream Processing Tool With Ashley Jeffs of Benthos (2021)](https://www.youtube.com/watch?v=-A8EOb5lzxM)
+- [Monibuca](https://github.com/langhuihui/monibuca) - Modularized, Extensible framework for building Streaming Server.

@@ -160,3 +160,4 @@
 - [Anti-Patterns When Building Container Images (2021)](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns/) ([HN](https://news.ycombinator.com/item?id=29391858))
 - [Apptainer](https://github.com/apptainer/apptainer) - Open source container platform designed to be simple, fast, and secure.
 - [Rust Unshare](https://github.com/tailhook/unshare) - Low-level Linux containers creation library for rust.
+- [OpenRegistry](https://github.com/containerish/OpenRegistry) - Decentralized container registry fully compliant with OCI Distribution Specification.

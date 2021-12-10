@@ -206,6 +206,8 @@
 - [ts-standardx](https://github.com/exuanbo/ts-standardx) - Configurable linter for TypeScript and JavaScript.
 - [macro-ts](https://github.com/blainehansen/macro-ts) - Ergonomic typescript compiler that enables typesafe syntactic macros. ([Article](https://blainehansen.me/post/macro-ts/))
 - [ts-analyze-trace](https://github.com/amcasey/ts-analyze-trace) - Tool for analyzing the output of `tsc --generateTrace`.
+- [Domain Modeling with Typescript (2021)](https://ikoshelev.azurewebsites.net/search/id/17/Pragmatic-uses-of-Typescript-type-system-04-Domain-Modeling-with-Typescript)
+- [Ivan Koshelev's TS articles](https://ikoshelev.azurewebsites.net/search/tags?tags=Typescript)
 
 ## Images
 

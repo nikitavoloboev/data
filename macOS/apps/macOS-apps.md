@@ -195,3 +195,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [IconSur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator.
 - [Swift Bundler](https://github.com/stackotter/swift-bundler) - Create macOS apps with Swift packages instead of Xcode projects.
 - [Why aren't the most useful Mac apps on the App Store? (2021)](https://alinpanaitiu.com/blog/apps-outside-app-store/) ([Lobsters](https://lobste.rs/s/x9k6uc/why_aren_t_most_useful_mac_apps_on_app_store))
+- [Apple Notes Export Tools](https://github.com/dunhamsteve/notesutils)

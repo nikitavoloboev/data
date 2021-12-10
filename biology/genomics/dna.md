@@ -63,3 +63,4 @@
 - [Is DNA append only?](https://twitter.com/nikitavoloboev/status/1462579862728761344)
 - [MetaGraph](https://github.com/ratschlab/metagraph) - Tool for scalable construction of annotated genome graphs and sequence-to-graph alignment.
 - [SNAP (Scalable Nucleotide Alignment Program)](https://github.com/amplab/snap)
+- [wfmash](https://github.com/ekg/wfmash) - DNA sequence read mapper based on mash distances and the wavefront alignment algorithm.

@@ -105,3 +105,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown.
 - [mdsh](https://github.com/zimbatm/mdsh) - Markdown shell pre-processor.
 - [markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx) - Most lightweight, customizable React markdown component.
+- [Learn about advanced markdown techniques](https://github.com/DavidWells/advanced-markdown)

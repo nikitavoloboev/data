@@ -77,3 +77,6 @@
 - [Tree Sitter and the Complications of Parsing Languages](https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages) ([HN](https://news.ycombinator.com/item?id=29327424))
 - [Linguistics Tree Solver](https://adambcomer.com/lin-tree-solver/) - Tool automatically builds linguistics syntax trees. ([Code](https://github.com/adambcomer/lin-tree-solver))
 - [Practical parsing with Flex and Bison (2021)](https://begriffs.com/posts/2021-11-28-practical-parsing.html)
+- [A map of the tree-sitter ecosystem (2021)](https://dcreager.net/tree-sitter/map/)
+- [Getting started with tree-sitter (2021)](https://dcreager.net/tree-sitter/getting-started/)
+- [Participle](https://github.com/alecthomas/participle) - Dead simple parser package for Go.

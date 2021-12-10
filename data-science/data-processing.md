@@ -59,10 +59,12 @@
 - [SciPipe](https://github.com/scipipe/scipipe) - Robust, flexible and resource-efficient pipelines using Go and the command line. ([Docs](https://scipipe.org/))
 - [The Future Is Big Graphs: A Community View on Graph Processing Systems (2021)](https://cacm.acm.org/magazines/2021/9/255040-the-future-is-big-graphs/fulltext) ([HN](https://news.ycombinator.com/item?id=28499999))
 - [What Is the Data Lakehouse Pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/) ([HN](https://news.ycombinator.com/item?id=28531009))
-- [Apache Hadoop](https://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing. ([Is Hadoop Dead?](https://tech.marksblogg.com/is-hadoop-dead.html))
+- [Apache Hadoop](https://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing. ([Is Hadoop Dead?](https://tech.marksblogg.com/is-hadoop-dead.html)) ([Code](https://github.com/apache/hadoop))
 - [go-stash](https://github.com/tal-tech/go-stash) - High performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
 - [pypely](https://github.com/stoney95/pypely) - Make your data processing easy - build pipelines in a functional manner.
 - [An opinionated map of incremental and streaming systems (2021)](https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems/)
 - [Crossjoin](https://github.com/crossjoin-io/crossjoin) - Joins together your data from anywhere.
 - [Ceramic Network](https://ceramic.network/) - Decentralized, open source platform for creating, hosting, and sharing streams of data. ([TS Code](https://github.com/ceramicnetwork/js-ceramic)) ([GitHub](https://github.com/ceramicnetwork))
 - [Graphite-Web](https://github.com/graphite-project/graphite-web) - Highly scalable real-time graphing system. ([Docs](https://graphite.readthedocs.io/en/stable/))
+- [vega](https://github.com/rajasekarv/vega) - Faster implementation of Apache Spark from scratch in Rust.
+- [Memgraph](https://github.com/memgraph/memgraph) - Build modern, graph-based applications on top of your streaming data in minutes. ([Web](https://memgraph.com/))

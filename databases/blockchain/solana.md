@@ -189,3 +189,4 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [How to audit Solana smart contracts (2021)](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed)
 - [Solana Safety 101](https://github.com/The-Great-Ape/solana-safety-101) - Community maintained phishing and scams list to for safety and delightful Solana experience.
 - [Metaplex JavaScript SDK](https://github.com/metaplex-foundation/js)
+- [Solana Onboarding](https://github.com/ilmoi/solana-onboarding)

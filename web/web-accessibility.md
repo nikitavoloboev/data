@@ -85,3 +85,4 @@
 - [Testing Accessibility workshop series](https://github.com/marcysutton/testing-accessibility-demos)
 - [Accessibility Myths](https://a11ymyths.com/)
 - [The importance of accessibility in digital products (2021)](https://dev.to/inhuofficial/never-forget-the-importance-of-accessibility-in-digital-products-11)
+- [Small Wins for Accessibility and Resilience (2021)](https://www.callumhart.com/blog/small-wins-for-accessibility-and-resilience/)

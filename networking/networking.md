@@ -363,3 +363,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Some latency measurement pitfalls](https://danluu.com/latency-pitfalls/)
 - [ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, webnet77, db-ip lite, GeoLite2.
 - [Masscanned](https://github.com/ivre/masscanned) - Network responder. Its purpose is to provide generic answers to as many protocols as possible.
+- [How eBPF will solve Service Mesh (2021)](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh) ([HN](https://news.ycombinator.com/item?id=29496870))
+- [Gatling](https://github.com/gatling/gatling) - Load test tool. It officially supports HTTP, WebSocket, Server-Sent-Events and JMS. ([Web](https://gatling.io/))
