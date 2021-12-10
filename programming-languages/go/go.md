@@ -226,7 +226,7 @@ if err != nil {
 - [The Evolution of a Go Programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
 - [Staticcheck](https://github.com/dominikh/go-tools) - Collection of static analysis tools for working with Go code. ([Web](https://staticcheck.io/))
 - [Go Diagnostics](https://golang.org/doc/diagnostics.html)
-- [Experience report on a large Python-to-Go translation](https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc) ([HN](https://news.ycombinator.com/item?id=22304131))
+- [Experience report on a large Python-to-Go translation](https://gitlab.com/esr/reposurgeon/-/blob/master/GoNotes.adoc) ([HN](https://news.ycombinator.com/item?id=22304131))
 - [profefe](https://github.com/profefe/profefe) - Collect profiling data for long-term analysis.
 - [Go support for Mobile devices](https://github.com/golang/mobile)
 - [Go for Cloud (2020)](https://rakyll.org/go-cloud/)
