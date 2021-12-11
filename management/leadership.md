@@ -32,3 +32,4 @@
 - [Leadership Program - Ascend](https://weascend.co/)
 - [Webflow Tech Lead Guide](https://github.com/webflow/leadership/blob/master/tech_lead.md)
 - [Ask HN: I’d like to hire a personal/executive assistant – any tips or advice? (2021)](https://news.ycombinator.com/item?id=29336234)
+- [My Failures in Leadership at Sushi](https://mirror.xyz/0x8f99B0b48b23908Da9f727B5083052d5099e6aea/j3i-hLZL4Q_7DNJasBSPINYypliIGjaoD6_LKUeogSQ)

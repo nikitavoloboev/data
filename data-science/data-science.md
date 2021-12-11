@@ -215,3 +215,4 @@
 - [RDMkit](https://rdmkit.elixir-europe.org/) - Online guide containing good data management practices applicable to research projects from the beginning to the end. ([Code](https://github.com/elixir-europe/rdmkit))
 - [Select Star](https://www.selectstar.com/) - Data discovery made easy.
 - [Data Engineering Principles - Cogent](https://cogent.co/blog/data-engineering-principles/)
+- [Data Science at the Command Line Book (2021)](https://datascienceatthecommandline.com/2e/) - Obtain, Scrub, Explore, and Model Data with Unix Power Tools.

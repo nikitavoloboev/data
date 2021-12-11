@@ -323,3 +323,4 @@ Awesome List
 - [GitHub Code Search](https://cs.github.com/about)
 - [gh-stack](https://github.com/timothyandrew/gh-stack) - Manage PR stacks/chains on Github.
 - [A Better Model for Stacked (GitHub) Pull Requests (2021)](https://0xc0d1.com/blog/git-stack/)
+- [A power user of GitHub code search tries Sourcegraph code search (2021)](https://www.youtube.com/watch?v=rrwYJfy_hEI)

@@ -226,7 +226,7 @@ if err != nil {
 - [The Evolution of a Go Programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
 - [Staticcheck](https://github.com/dominikh/go-tools) - Collection of static analysis tools for working with Go code. ([Web](https://staticcheck.io/))
 - [Go Diagnostics](https://golang.org/doc/diagnostics.html)
-- [Experience report on a large Python-to-Go translation](https://gitlab.com/esr/reposurgeon/-/blob/master/GoNotes.adoc) ([HN](https://news.ycombinator.com/item?id=22304131))
+- [Experience report on a large Python-to-Go translation](https://gitlab.com/esr/reposurgeon/-/blob/master/GoNotes.adoc) ([HN](https://news.ycombinator.com/item?id=22304131)) ([HN](https://news.ycombinator.com/item?id=29494136)) ([Lobsters](https://lobste.rs/s/hxm50h/notes_on_go_translation_reposurgeon))
 - [profefe](https://github.com/profefe/profefe) - Collect profiling data for long-term analysis.
 - [Go support for Mobile devices](https://github.com/golang/mobile)
 - [Go for Cloud (2020)](https://rakyll.org/go-cloud/)
@@ -646,3 +646,5 @@ if err != nil {
 - [Gors](https://github.com/aymericbeaumet/gors) - Experimental go toolbelt written in rust (parser, compiler).
 - [Become an expert Go cloud developer](https://www.golang.dk/) ([Twitter](https://twitter.com/golangdk))
 - [go-errorlint](https://github.com/polyfloyd/go-errorlint) - Source code linter that can be used to find code that will cause problems with Go's error wrapping scheme.
+- [Awesome Go Education](https://github.com/mehdihadeli/awesome-go-education)
+- [Introducing Serialized Roaring Bitmaps in Golang (2021)](https://dgraph.io/blog/post/serialized-roaring-bitmaps-golang/)

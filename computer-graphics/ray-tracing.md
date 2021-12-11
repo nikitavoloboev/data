@@ -84,3 +84,4 @@
 - [Simulating the Colors of the Sky](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/simulating-sky)
 - [Hybrid Ray Tracer in Go](https://github.com/KevinTchokodeu/Hybrid-Ray-Tracer)
 - [Hybrid Rendering](https://github.com/diharaw/HybridRendering) - Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline.
+- [Ray Tracing with POV-Ray: 25 scenes in 25 days (2013)](https://github.com/spcask/pov-ray-tracing) ([HN](https://news.ycombinator.com/item?id=29513332))

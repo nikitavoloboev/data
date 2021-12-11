@@ -39,3 +39,4 @@
 - [React Server Components and Remix (2021)](https://remix.run/blog/react-server-components) ([Tweet](https://twitter.com/ryanflorence/status/1468292164249534465)) ([Reddit](https://www.reddit.com/r/reactjs/comments/rb7068/react_server_components_and_remix/))
 - [Moulton](https://readmoulton.com/) - Remix Newsletter.
 - [Remix-related resources](https://marbiano.dev/into-remix/the-vault)
+- [Remix | Technical Explanation](https://remix.run/docs/en/v1/pages/technical-explanation)

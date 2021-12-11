@@ -287,3 +287,5 @@
 - [React-JUCE](https://github.com/nick-thompson/react-juce) - Write cross-platform native apps with React.js and JUCE.
 - [Server Components Working Group](https://github.com/reactwg/server-components)
 - [React Conf 2021 - YouTube](https://www.youtube.com/playlist?list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa)
+- [ReactEurope 2021](https://www.youtube.com/watch?v=CUPzvJibdTQ)
+- [Migrate a Client-Side Application to React 18 Beta](https://egghead.io/courses/migrate-a-client-side-application-to-react-18-beta-9379f0d1)

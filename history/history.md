@@ -5,6 +5,7 @@
 - [If we've learned one thing from the last 2,500 years of human history, it's that all progress out of humanity's default state of misery and despair comes from being able to freely think, write, and argue.](https://twitter.com/APompliano/status/1399406777406472194)
 - [The past does not repeat itself, but it rhymes. - Mark Twain](https://news.ycombinator.com/item?id=27421527)
 - [Who controls the past, controls the future. Who controls the present, controls the past.](https://www.reddit.com/r/worldnews/comments/q3v419/university_of_hong_kong_orders_removal_of/)
+- [The idea of "return to tradition" is mostly fake. It's like getting back w an ex expecting that it will be the same. It's impossible to return to the past, the only way out is forward. We're not returning, we're forging a new, better future.](https://twitter.com/Pavel_Asparagus/status/1469380704802942977)
 
 ## Links
 

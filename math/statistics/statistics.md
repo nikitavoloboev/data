@@ -137,3 +137,4 @@
 - [Statistical Rethinking Course (2022)](https://github.com/rmcelreath/stat_rethinking_2022)
 - [GMS introductory course in statistics](https://github.com/whg-gms/statistics-course)
 - [What's the difference between stochastic and random?](https://math.stackexchange.com/questions/114373/whats-the-difference-between-stochastic-and-random/1616687)
+- [Twelve problems in probability no one likes to bring up](https://link.springer.com/chapter/10.1007/978-88-470-2107-5_5)

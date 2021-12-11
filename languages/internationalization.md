@@ -33,3 +33,4 @@
 - [Arisu](https://github.com/auguwu/Arisu) - Translation made with simplicity, yet robust. In TypeScript.
 - [Awesome i18n](https://github.com/jpomykala/awesome-i18n)
 - [Weblate](https://weblate.org/en/) - Web-based localization. ([Code](https://github.com/WeblateOrg/weblate))
+- [7 Gettext lessons learned after 2 years of developing a European platform (2021)](https://angelika.me/2021/11/23/7-gettext-lessons-after-2-years/)

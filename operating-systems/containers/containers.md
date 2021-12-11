@@ -40,6 +40,7 @@
 - [Kata Containers](https://github.com/kata-containers/kata-containers) - Open source container runtime, building lightweight virtual machines that seamlessly plug into the containers ecosystem.
 - [dumb-init](https://github.com/Yelp/dumb-init) - Simple process supervisor and init system designed to run as PID 1 inside minimal container environments (such as Docker).
 - [containerd](https://github.com/containerd/containerd) - Industry-standard container runtime with an emphasis on simplicity, robustness and portability. ([Web](https://containerd.io/)) ([Why and How to Use containerd from the Command Line](https://iximiuz.com/en/))
+- [Rust extensions for containerd](https://github.com/containerd/rust-extensions)
 - [Clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
 - [GCR Cleaner](https://github.com/sethvargo/gcr-cleaner) - Delete untagged image refs in Google Container Registry, as a service.
 - [Rootless Containers](https://rootlesscontaine.rs/)

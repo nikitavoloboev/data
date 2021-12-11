@@ -58,7 +58,7 @@
 - [Mage is My Favorite Make (2021)](https://carolynvanslyck.com/blog/2021/01/mage-is-my-favorite-make/) ([Lobsters](https://lobste.rs/s/zry6q1/mage_is_my_favorite_make))
 - [Kres](https://github.com/talos-systems/kres) - Tool to automate generation of build instructions based on project structure.
 - [You can handle The Diamond with CMake (2021)](http://beza1e1.tuxen.de/cmake_diamond.html) ([HN](https://news.ycombinator.com/item?id=26602450))
-- [Turborepo](https://turborepo.com/) - Blazing fast monorepo build system. ([GitHub](https://github.com/turborepo)) ([Turbo v0.4.0](https://turborepo.com/posts/turbo-0-4-0)) ([Tweet](https://twitter.com/jaredpalmer/status/1387760499908136960)) ([Code](https://github.com/vercel/turborepo))
+- [Turborepo](https://turborepo.com/) - Blazing fast monorepo build system. ([GitHub](https://github.com/turborepo)) ([Turbo v0.4.0](https://turborepo.com/posts/turbo-0-4-0)) ([Tweet](https://twitter.com/jaredpalmer/status/1387760499908136960)) ([Code](https://github.com/vercel/turborepo)) ([First look at Turborepo (Demo and Q&A with Jared Palmer)](https://www.youtube.com/watch?v=YX5yoApjI3M))
 - [OMake](http://projects.camlcity.org/projects/omake.html) - Build system designed for scalability and portability. ([Code](https://github.com/ocaml-omake/omake))
 - [Reproducible Builds: Increasing the Integrity of Software Supply Chains (2021)](https://arxiv.org/abs/2104.06020)
 - [Comparing the New Generation of Build Tools (2021)](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)

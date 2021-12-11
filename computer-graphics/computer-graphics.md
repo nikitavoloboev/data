@@ -203,3 +203,4 @@
 - [FNA3D](https://github.com/FNA-XNA/FNA3D) - 3D Graphics Library for FNA. ([Web](https://fna-xna.github.io/))
 - [Universal Volumetric](https://github.com/XRFoundation/UniversalVolumetric) - Free, fast, cross-platform volumetric codec for everyone.
 - [Text2Mesh Text-Driven Neural Stylization for Meshes (2021)](https://threedle.github.io/text2mesh/) ([Code](https://github.com/threedle/text2mesh))
+- [Building a PS1 style retro 3D renderer (2021)](https://www.david-colson.com/2021/11/30/ps1-style-renderer.html) ([HN](https://news.ycombinator.com/item?id=29486066))

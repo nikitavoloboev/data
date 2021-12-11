@@ -24,3 +24,4 @@ Like using [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 - [Mochary Method Class](https://lu.ma/4d7518ej)
 - [Decision Making Under Uncertainty with POMDPs.jl](https://github.com/JuliaAcademy/Decision-Making-Under-Uncertainty)
 - [Does data make us cowards? (2021)](https://benn.substack.com/p/does-data-make-us-cowards) - About making hard decisions.
+- [Causal Information Affects Decisions (2020)](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-0206-z) ([HN](https://news.ycombinator.com/item?id=29509236))

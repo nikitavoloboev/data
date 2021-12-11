@@ -263,3 +263,4 @@
 - [Apple Neural Engine Internal: From ML Algorithm to HW Registers (2021)](https://www.youtube.com/watch?v=1wvBDUnPNEo) ([HN](https://news.ycombinator.com/item?id=29483347))
 - [Cello](https://github.com/CIDARLAB/cello) - Genetic circuit design automation.
 - [Made To Spec: The Coming Age Of Prototyping As A Service (2021)](https://hackaday.com/2021/12/08/made-to-spec-the-coming-age-of-prototyping-as-a-service/)
+- [C64 OS: make a Commodore 64 feel fast and useful](http://c64os.com/) ([HN](https://news.ycombinator.com/item?id=29513318))

@@ -350,3 +350,5 @@
 - [Haskell's Type System Standing Alone: an unusual programming language](https://vitez.me/hts-language) ([Reddit](https://www.reddit.com/r/haskell/comments/r9w293/haskells_type_system_standing_alone_an_unusual/))
 - [Parsing Layout, or: Haskell's Syntax is a Mess (2021)](https://amelia.how/posts/parsing-layout.html)
 - [Using Haskell as my shell (2021)](https://las.rs/blog/haskell-as-shell.html)
+- [Demystifying the state monad](https://hugopeters.me/posts/13/)
+- [Functional in the wild: typeclasses](https://hugopeters.me/posts/12/)

@@ -46,3 +46,4 @@
 - [Introducing Praxis (2021)](https://mirror.xyz/0x7a02D50B22cC79a3dc667E80B413996b81f5ED6E/ZIUh2ni7rm7j7IaxyLJMtJT5KzbU9xg6P-SQbSJhHj4) - Building the city-cryptostate to realize a more vital future. ([Tweet](https://twitter.com/drydenwtbrown/status/1459286570071113730))
 - [Urban planning of Barcelona](https://twitter.com/MarkTomasovic/status/1459318924701585410)
 - [Singapore’s tech-utopia dream is turning into a surveillance state nightmare (2021)](https://restofworld.org/2021/singapores-tech-utopia-dream-is-turning-into-a-surveillance-state-nightmare/) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/qxy6jh/singapore_i_think_that_the_entire_world_will_be/))
+- [Streetsblog.org](https://www.streetsblog.org/) - Better walking, biking, and transit.

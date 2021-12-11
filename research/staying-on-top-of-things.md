@@ -163,6 +163,7 @@ And these Discord servers:
 - [TLS](https://www.the-tls.co.uk/) - Times Literary Supplement.
 - [Artforum International](https://www.artforum.com/)
 - [Wallpaper](https://www.wallpaper.com/) - Design, interiors, architecture, fashion, art.
+- [The Public Domain Review](https://publicdomainreview.org/)
 
 ### Other
 

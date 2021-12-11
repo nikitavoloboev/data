@@ -12,3 +12,4 @@
 - [Certified Sudoku solver in Coq](https://github.com/coq-community/sudoku)
 - [How to Solve the Sudoku Puzzle with programming (2021)](https://www.hillelwayne.com/post/sudoku/)
 - [Sudoku solvers in Prolog](https://github.com/blackheaven/sudoku)
+- [Sudoku solving](https://hugopeters.me/posts/11/)

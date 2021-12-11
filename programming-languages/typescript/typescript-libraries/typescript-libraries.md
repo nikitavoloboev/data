@@ -254,3 +254,4 @@
 - [OpenAPI Typescript Codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - Node.js library that generates Typescript clients based on the OpenAPI specification.
 - [DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) - Infrastructure for DefinitelyTyped.
 - [ts-lib-starter](https://github.com/Borrus-sudo/ts-lib-starter) - Finest quality ts-lib-starter with insane defaults.
+- [ts-node-starter](https://github.com/bennycode/ts-node-starter)

@@ -270,3 +270,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Keaton Henson - Impromptu On A Theme From Six Lethargies ft. Ren Ford | Mahogany Session](https://www.youtube.com/watch?v=d9nJ8o0AfbE)
 - [Наталия Власова - Я у Твоих Ног Live](https://www.youtube.com/watch?v=z9MLGk2yDYU)
 - [Wilderland / Young Man in America - Anaïs Mitchell | Live from Here with Chris Thile](https://www.youtube.com/watch?v=mEf6Oas5Htg)
+
+## Links
+
+- [Artists like Nile Frahm](https://www.reddit.com/r/NilsFrahm/comments/rddpb7/artists_like_nile_frahm/)

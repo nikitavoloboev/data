@@ -269,4 +269,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [BuildKit-Nix](https://github.com/AkihiroSuda/buildkit-nix) - Allows using Nix derivations (default.nix) as Dockerfiles.
 - [How Nix and NixOS Get So Close to Perfect (2021)](https://www.youtube.com/watch?v=qjq2wVEpSsA)
 - [deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code.
-- [nix-casync](https://github.com/flokli/nix-casync) - More efficient way to store and substitute Nix store paths.
+- [nix-casync](https://github.com/flokli/nix-casync) - More efficient way to store and substitute Nix store paths. ([Article](https://flokli.de/posts/2021-12-10-nix-casync-intro/)) ([Tweet](https://twitter.com/flokli/status/1469310495756898311))
+- [Untrusted CI: Using Nix to get automatic trusted caching of untrusted builds (2019)](https://flokli.de/posts/2019-11-21-untrusted-ci/)

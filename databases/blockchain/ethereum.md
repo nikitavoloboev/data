@@ -403,3 +403,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Dodoc](https://github.com/primitivefinance/primitive-dodoc) - Zero-config Hardhat plugin to generate documentation for all your Solidity contracts.
 - [Opinionated Dapp Starter Template](https://github.com/jellydn/dapp-starter)
 - [Bor](https://github.com/maticnetwork/bor) - Official Go implementation of the Matic protocol. Fork of Go Ethereum.
+- [web3swift](https://github.com/skywinder/web3swift) - iOS toolbelt for interaction with the Ethereum network.

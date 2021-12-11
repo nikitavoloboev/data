@@ -445,6 +445,7 @@ Here are few more things I liked, design wise.
 - [Matt Rothenberg](https://mattrothenberg.com/)
 - [Salavat Abdullin](https://salavat.me/)
 - [Colin Shum](https://colinshum.com/)
+- [Angelika Tyborska](https://angelika.me/)
 - [Paul Glushak](https://0xff.nu/)
 - [Shawn Wang](https://www.swyx.io/) ([Code](https://github.com/sw-yx/swyxdotio))
 - [Sarun](https://sarunw.com/)

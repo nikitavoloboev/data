@@ -72,3 +72,4 @@
 - [mtorrent](https://github.com/nektro/mtorrent) - Totally configurable terminal torrent client.
 - [P2P file system of cortex full node](https://github.com/CortexFoundation/torrentfs)
 - [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - Simple, robust, BitTorrent DHT implementation.
+- [Decentralized, Mutable, Serverless Torrent Swarm Websites](https://github.com/publiusfederalist/federalist) ([HN](https://news.ycombinator.com/item?id=29513547))

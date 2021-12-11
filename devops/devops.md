@@ -126,3 +126,5 @@
 - [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps)
 - [Common Infrastructure Errors I've Made (2021)](https://matduggan.com/mistakes/) ([Lobsters](https://lobste.rs/s/5r5fsa/don_t_make_my_mistakes_common)) ([HN](https://news.ycombinator.com/item?id=29434740))
 - [Lightweight Experiment & Resource Monitoring](https://github.com/mle-infrastructure/mle-monitor)
+- [Howie: The Post-Incident Guide](https://www.jeli.io/howie-the-post-incident-guide/)
+- [Jeli](https://www.jeli.io/) - Dedicated Incident Analysis Platform.

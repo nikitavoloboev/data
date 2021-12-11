@@ -636,3 +636,4 @@
 - [Rust Machine Learning Book](https://rust-ml.github.io/book/) ([Code](https://github.com/rust-ml/book))
 - [The Rust Build System (2021)](https://blog.ysndr.de/posts/essays/2021-04-30-the-rust-build-system/)
 - [Portable and interoperable async Rust (2021)](https://www.ncameron.org/blog/portable-and-interoperable-async-rust/) ([Code](https://github.com/nrc/portable-interoperable))
+- [Higher Kinded Types in Rust (2021)](https://hugopeters.me/posts/14/) ([HN](https://news.ycombinator.com/item?id=29508790))
