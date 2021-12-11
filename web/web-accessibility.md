@@ -86,3 +86,4 @@
 - [Accessibility Myths](https://a11ymyths.com/)
 - [The importance of accessibility in digital products (2021)](https://dev.to/inhuofficial/never-forget-the-importance-of-accessibility-in-digital-products-11)
 - [Small Wins for Accessibility and Resilience (2021)](https://www.callumhart.com/blog/small-wins-for-accessibility-and-resilience/)
+- [Auditing React Apps for Accessibility (2021)](https://egghead.io/courses/auditing-react-apps-for-accessibility-08733265)

@@ -112,3 +112,4 @@
 - [Coloring With Code — A Programmatic Approach To Design (2021)](https://tympanus.net/codrops/2021/12/07/coloring-with-code-a-programmatic-approach-to-design/)
 - [Color-changing magnifying glass gives clear view of infrared light (2021)](https://www.cam.ac.uk/research/news/colour-changing-magnifying-glass-gives-clear-view-of-infrared-light) ([HN](https://news.ycombinator.com/item?id=29447779))
 - [Base16](http://chriskempson.com/projects/base16/) - Architecture for building color themes for many apps. ([HN](https://news.ycombinator.com/item?id=29494871))
+- [WCAG 3's new color contrast method called APCA (Advanced Perceptual Contrast Algorithm)](https://twitter.com/DanHollick/status/1468958644364402702)

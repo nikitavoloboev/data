@@ -110,7 +110,7 @@
 - [Broadcast](https://github.com/daneden/Broadcast) - Write-only Twitter client. It lets you post tweets and reply to your last tweet.
 - [Rebuilding Twitter’s Public API (2021)](https://www.youtube.com/watch?v=axFSaH_-IMw)
 - [Twitter API v2 sample code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js).
-- [BlackMagic.so](https://blackmagic.so/) - Twitter Growth Tool.
+- [BlackMagic.so](https://blackmagic.so/) - Twitter Growth Tool. ([Sidebar](https://blackmagic.so/sidebar/)) ([Tweet](https://twitter.com/tdinh_me/status/1469555195596054529))
 - [#buildinpublic](https://buildinpublic.com/) - Discover what people are building in public.
 - [Twitter's new visual design system](https://twitter.com/ashlie/status/1425506038506147840) ([Tweet](https://twitter.com/TwitterDesign/status/1425505308563099650))
 - [TidyTweets](https://tidytweets.org/) - Tidy up your Following list on Twitter. ([Code](https://github.com/rlueder/tidytweets))

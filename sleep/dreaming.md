@@ -31,6 +31,7 @@ In order to have lucid dreams you need two do three things consistently:
 ## Notes
 
 - [Dreams are for generating training data, and certainly not randomly. It generates training data it thinks will be most useful, which reveals a lot about what it thinks is important for you.](https://twitter.com/nickcammarata/status/1460517401443770370)
+- [Purpose of dreaming is data augmentation.](https://twitter.com/Plinz/status/1469781605535256576)
 
 ## Links
 
