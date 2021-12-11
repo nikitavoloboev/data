@@ -482,3 +482,4 @@
 - [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction (2016)](https://arxiv.org/abs/1604.00449) ([Code](https://github.com/chrischoy/3D-R2N2))
 - [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](http://proceedings.mlr.press/v97/lee19d.html) ([Code](https://github.com/juho-lee/set_transformer))
 - [Awesome Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
+- [Are Transformers More Robust Than CNNs? (2021)](https://arxiv.org/abs/2111.05464) ([Code](https://github.com/ytongbai/ViTs-vs-CNNs))

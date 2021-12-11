@@ -369,3 +369,5 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Russian agricultural trade and world markets (2020)](https://rujec.org/article/50308/)
 - [Russian Journal of Economics](https://rujec.org/)
 - [Сталинская экономика лучше путинской? // Сергей Гуриев о правде и мифах СССР (2021)](https://www.youtube.com/watch?v=Hg1KRA6375o)
+- [Smekalka](https://smekalka-food.ru/) - Доставка полезных продуктов.
+- [Биографии знаменитостей](https://uznayvse.ru/znamenitosti/)

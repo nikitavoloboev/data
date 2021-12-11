@@ -156,6 +156,7 @@
 ## CLI
 
 - [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) - Package for parsing command-line arguments to Julia programs.
+- [Comonicon](https://github.com/comonicon/Comonicon.jl) - All terminals are under my command.
 
 ## Web
 

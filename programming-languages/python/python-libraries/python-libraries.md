@@ -583,6 +583,7 @@
 - [SceneGraphParser](https://github.com/vacancy/SceneGraphParser) - Python toolkit for parsing sentences (in natural language) into scene graphs (as symbolic representation) based on the dependency parsing.
 - [python-json-patch](https://github.com/stefankoegl/python-json-patch) - Applying JSON Patches in Python.
 - [Gin Config](https://github.com/google/gin-config) - Lightweight configuration framework for Python.
+- [scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
 
 ## Links
 

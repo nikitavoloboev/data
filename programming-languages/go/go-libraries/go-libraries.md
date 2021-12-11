@@ -1146,6 +1146,7 @@
 - [Go Telemetry SDK](https://github.com/newrelic/newrelic-telemetry-sdk-go)
 - [go-bloomindex](https://github.com/dgryski/go-bloomindex) - Bloom-filter based search index.
 - [Go Keyring](https://github.com/zalando/go-keyring) - OS-agnostic library for setting, getting and deleting secrets from the system keyring.
+- [MapReduce](https://github.com/BWbwchen/MapReduce) - Easy-to-use Map Reduce Go framework.
 
 ## Links
 

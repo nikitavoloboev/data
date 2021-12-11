@@ -242,3 +242,4 @@
 - [Apache TVM](https://github.com/tlc-pack/relax) - Open Deep Learning Compiler Stack.
 - [imodels](https://github.com/csinva/imodels) - Interpretable ML package for concise, transparent, and accurate predictive modeling (sklearn-compatible).
 - [FLSim](https://github.com/facebookresearch/FLSim) - Flexible, standalone library written in PyTorch that simulates FL settings with a minimal, easy-to-use API.
+- [Human Learn](https://github.com/koaning/human-learn) - Machine Learning models should play by the rules, literally.

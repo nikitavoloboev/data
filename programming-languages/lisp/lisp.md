@@ -156,3 +156,4 @@
 - [Slick](https://github.com/pcostanza/slick) - Lisp/Scheme-style s-expression surface syntax for the Go programming language, with a few additional features.
 - [bass](https://github.com/vito/bass) - Low-fidelity Lisp dialect for running cacheable commands and delivering reproducible artifacts.
 - [KamilaLisp](https://github.com/kspalaiologos/kamilalisp) - Lazily evaluated, functional, flexible and concise Lisp.
+- [Neil: Bohemian Rhapsody for Five Channels (2021)](https://good-place.org/posts/rhapsody.html)

@@ -64,3 +64,4 @@
 - [idris2-eff](https://github.com/stefan-hoeck/idris2-eff) - Extensible, stack safe effects for Idris2.
 - [Katla](https://github.com/idris-community/katla) - LaTeX & HTML code listing generator for Idris2.
 - [Collie](https://github.com/ohad/collie) - Command line interface for Idris2 applications.
+- [idris2-streaming](https://github.com/stefan-hoeck/idris2-streaming) - IO streaming library for Idris2.

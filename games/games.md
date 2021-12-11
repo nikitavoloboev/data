@@ -127,6 +127,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Quake 3 in Haskell & Vulkan](https://github.com/ocharles/zero-to-quake-3)
 - [Vange-rs](https://github.com/kvark/vange-rs) - Game uses wgpu-rs for graphics and winit for windowing.
 - [Cosmic Verge](https://github.com/khonsulabs/cosmicverge) - 2d, persistent multiplayer, single-universe game written in Rust.
+- [Space-shooter.c](https://github.com/tsherif/space-shooter.c) - Cross-platform, top-down 2D space shooter written in C. ([HN](https://news.ycombinator.com/item?id=29520200))
 
 ## Awesome games (other)
 
@@ -241,3 +242,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Best single player games (2021)](https://twitter.com/sult/status/1465406873629245443)
 - [Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies (2021)](https://www.youtube.com/watch?v=ki4Fbctwnjs)
 - [Video game landscapes will make you nostalgic for worlds you’ve never visited](https://www.calvertjournal.com/articles/show/13338/digital-video-game-art-russian-winter-6vcr)
+- [The Strange, Unfinished Saga of Cyberpunk 2077 (2021)](https://www.newyorker.com/tech/annals-of-technology/the-strange-unfinished-saga-of-cyberpunk-2077) ([HN](https://news.ycombinator.com/item?id=29517021))

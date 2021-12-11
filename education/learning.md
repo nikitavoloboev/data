@@ -31,7 +31,7 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Stop Treading Water: Learning to Learn by Edward Kmett (2014)](https://www.youtube.com/watch?v=j0XmixCsWjs)
 - [Michael E. Karpeles's mission](https://mek.fyi/mission)
 - [Ask HN: What are you learning in 2019?](https://news.ycombinator.com/item?id=20793590#20794475)
-- [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/) ([HN](https://news.ycombinator.com/item?id=29518955))
 - [HandWiki](https://handwiki.org/wiki/Start) - Online wiki-style encyclopedia dedicated to applications of computers, software programs and programming in different areas of science, finance and engineering.
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [42: Collection of over 3000+ sites and resources](https://links.rsapkf.xyz/) ([Code](https://github.com/rsapkf/42))

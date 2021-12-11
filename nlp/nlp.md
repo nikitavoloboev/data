@@ -417,3 +417,4 @@
 - [Knover](https://github.com/PaddlePaddle/Knover) - Toolkit for knowledge grounded dialogue generation based on PaddlePaddle.
 - [Language Modelling at Scale: Gopher, Ethical considerations, and Retrieval | DeepMind (2021)](https://deepmind.com/blog/article/language-modelling-at-scale) ([HN](https://news.ycombinator.com/item?id=29486607))
 - [CMU Advanced NLP 2021 - YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
+- [whatlies](https://github.com/RasaHQ/whatlies) - Toolkit to help understand "what lies" in word embeddings. Also benchmarking.

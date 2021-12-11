@@ -31,6 +31,7 @@
 - [JupyterLab Prodigy](https://github.com/explosion/jupyterlab-prodigy) - JupyterLab extension for annotating data with Prodigy.
 - [ipyflex](https://github.com/trungleduc/ipyflex) - WYSIWYG layout editor for Jupyter widgets.
 - [jupyterlab-fonts](https://github.com/deathbeds/jupyterlab-fonts) - Data-driven Style and Typography for JupyterLab powered by JSS.
+- [drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter.
 
 ## Links
 

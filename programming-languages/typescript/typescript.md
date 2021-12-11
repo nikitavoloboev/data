@@ -208,6 +208,7 @@
 - [ts-analyze-trace](https://github.com/amcasey/ts-analyze-trace) - Tool for analyzing the output of `tsc --generateTrace`.
 - [Domain Modeling with Typescript (2021)](https://ikoshelev.azurewebsites.net/search/id/17/Pragmatic-uses-of-Typescript-type-system-04-Domain-Modeling-with-Typescript)
 - [Ivan Koshelev's TS articles](https://ikoshelev.azurewebsites.net/search/tags?tags=Typescript)
+- [TypeScript: The humble function overload (2021)](https://fettblog.eu/typescript-function-overload/)
 
 ## Images
 

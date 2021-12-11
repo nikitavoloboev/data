@@ -117,3 +117,4 @@
 - [Scala with Cats](https://www.scalawithcats.com/) - Teaches core functional abstractions of monoids, functors, monads, and applicative functors using the Cats library and a number of case studies. ([Code](https://github.com/scalawithcats/scala-with-cats))
 - [Essential Scala Book](https://underscore.io/books/essential-scala/) ([Code](https://github.com/underscoreio/essential-scala))
 - [Coursier and scala-cli - Changing the Way You Start Scala (2021)](https://www.tooling-talks.com/episode-7)
+- [My Take on Scala 3 by Daniel Spiewak (2021)](https://www.youtube.com/watch?v=uonhcMvfT1E)
