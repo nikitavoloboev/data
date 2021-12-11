@@ -137,6 +137,7 @@
 - [react-query-helper](https://github.com/dano-inc/react-query-helper) - Helper library to use react-query more efficient, consistency. ([Reddit](https://www.reddit.com/r/reactjs/comments/r2cyp3/reactqueryhelper_a_helper_library_to_use/))
 - [react-use-measure](https://github.com/pmndrs/react-use-measure) - Utility to measure view bounds.
 - [usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript. ([Docs](https://usehooks-ts.com/))
+- [react-script-hook](https://github.com/hupe1980/react-script-hook) - React hook to dynamically load an external script and know when its loaded.
 
 ## Code
 

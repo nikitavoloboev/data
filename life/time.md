@@ -37,3 +37,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [timezones.json](https://github.com/dmfilipenko/timezones.json) - Full list of UTC timezones.
 - [Dte](https://github.com/mvrozanti/dte) - Language for expressing and calculating date and time. ([HN](https://news.ycombinator.com/item?id=29211797))
 - [when](https://github.com/mitsuhiko/when) - Timezones from the command line. ([Web](https://mitsuhiko.github.io/when/?input=now))
+- [tz](https://github.com/oz/tz) - Helps you schedule things across time zones.

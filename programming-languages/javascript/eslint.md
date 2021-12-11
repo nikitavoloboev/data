@@ -37,3 +37,4 @@
 - [standard-engine](https://github.com/standard/standard-engine) - Wrap your own eslint rules in a easy-to-use command line tool and/or a JS module.
 - [eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - Most strict (yet practical) ESLint config. 32 plugins. 1023 rules.
 - [Storybook's eslint & prettier config](https://github.com/storybookjs/linter-config)
+- [TypeStrict](https://github.com/krzkaczor/TypeStrict) - ESLint config focused on maximizing type safety.

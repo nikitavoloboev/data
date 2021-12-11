@@ -7,6 +7,7 @@
 - [Remix Jokes](https://github.com/remix-run/remix-jokes)
 - [Tim's site](https://github.com/timc1/tim)
 - [HN in Remix](https://github.com/ryanflorence/remix-hn)
+- [Interactive app to demonstrate how routing works in Remix](https://github.com/dilums/interactive-remix-routing)
 
 ## Notes
 

@@ -158,3 +158,4 @@
 - [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing (2021)](https://arxiv.org/abs/2111.15666) ([Code](https://github.com/yuval-alaluf/hyperstyle)) ([Web](https://yuval-alaluf.github.io/hyperstyle/)) ([HN](https://news.ycombinator.com/item?id=29401544))
 - [Audiovisual interpolations with GANs](https://github.com/maua-maua-maua/audiovisual)
 - [GAN-Supervised Dense Visual Alignment (2021)](https://www.wpeebles.com/gangealing) ([Code](https://github.com/wpeebles/gangealing))
+- [ArcaneGAN](https://github.com/Sxela/ArcaneGAN)

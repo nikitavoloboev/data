@@ -118,3 +118,4 @@
 - [Essential Scala Book](https://underscore.io/books/essential-scala/) ([Code](https://github.com/underscoreio/essential-scala))
 - [Coursier and scala-cli - Changing the Way You Start Scala (2021)](https://www.tooling-talks.com/episode-7)
 - [My Take on Scala 3 by Daniel Spiewak (2021)](https://www.youtube.com/watch?v=uonhcMvfT1E)
+- [Intro to the Scala 3 Type System - Bill Venners (2021)](https://www.youtube.com/watch?v=vuTFg5g_f6w)
