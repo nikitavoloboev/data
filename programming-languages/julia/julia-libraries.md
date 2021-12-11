@@ -164,6 +164,7 @@
 - [Elixir for AWS Lambda](https://github.com/amolenaar/elixir_lambda)
 - [Diana.jl](https://github.com/neomatrixcode/Diana.jl) - GraphQL for Julia.
 - [WebAPI.jl](https://github.com/eliascarv/WebAPI.jl) - Abstraction of two Julia packages: HTTP.jl and JSON3.jl. These abstractions allow you to develop APIs in Julia in a simpler and more readable way.
+- [WebIO](https://github.com/JuliaGizmos/WebIO.jl) - Bridge between Julia and the Web.
 
 ## Test
 
@@ -378,6 +379,7 @@
 - [ClimateMachine.jl](https://github.com/CliMA/ClimateMachine.jl) - Earth System Model that automatically learns from data.
 - [ReachabilityAnalysis.jl](https://github.com/JuliaReach/ReachabilityAnalysis.jl) - Methods to compute sets of states reachable by dynamical systems.
 - [Jin](https://github.com/malmaud/Jin.jl) - Julia version of the Python Gin configuration library.
+- [ArtifactUtils](https://github.com/simeonschaub/ArtifactUtils.jl) - Tool for package developers for working with artifacts.
 
 ## Links
 

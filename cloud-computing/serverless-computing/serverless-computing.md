@@ -134,3 +134,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [faas-cli](https://github.com/openfaas/faas-cli) - Official CLI for OpenFaaS.
 - [Fly Init](https://github.com/superfly/init-snapshot) - Public snapshot of Fly's init code. It powers every Firecracker microvm we run for our users.
 - [OpenFaaS Classic templates](https://github.com/openfaas/templates)
+- [Serverless Shell](https://github.com/crucial-project/serverless-shell) - Brings the power of shell scripting to the serverless world.

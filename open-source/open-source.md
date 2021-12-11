@@ -209,4 +209,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Tips For Making a Popular Open Source Project in 2021](https://skerritt.blog/make-popular-open-source-projects/) ([HN](https://news.ycombinator.com/item?id=29197806))
 - [Open Software Licensing Primer](https://blueoakcouncil.org/primer)
 - [Apple Open Source](https://opensource.apple.com/) ([HN](https://news.ycombinator.com/item?id=29490581))
-- [Professional maintainers: a wake-up call (2021)](https://blog.filippo.io/professional-maintainers/) ([HN](https://news.ycombinator.com/item?id=29523510))
+- [Professional maintainers: a wake-up call (2021)](https://blog.filippo.io/professional-maintainers/) ([HN](https://news.ycombinator.com/item?id=29523510)) ([Tweet](https://twitter.com/FiloSottile/status/1469749412998041610))

@@ -128,3 +128,4 @@
 - [Lightweight Experiment & Resource Monitoring](https://github.com/mle-infrastructure/mle-monitor)
 - [Howie: The Post-Incident Guide](https://www.jeli.io/howie-the-post-incident-guide/)
 - [Jeli](https://www.jeli.io/) - Dedicated Incident Analysis Platform.
+- [Zero](https://getzero.dev/) - Opinionated infrastructure to take you from idea to production on day one. ([Code](https://github.com/commitdev/zero))

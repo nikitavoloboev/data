@@ -615,3 +615,4 @@
 - [Learning with not Enough Data Part 1: Semi-Supervised Learning (2021)](https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html) ([HN](https://news.ycombinator.com/item?id=29456732))
 - [Efficient Training of Audio Transformers with Patchout (2021)](https://arxiv.org/abs/2110.05069) ([Code](https://github.com/kkoutini/PaSST))
 - [Machine Learning for Creativity and Design](https://neuripscreativityworkshop.github.io/2021/)
+- [Maximum Likelihood Training of Score-Based Diffusion Models (2021)](https://arxiv.org/abs/2101.09258) ([Code](https://github.com/yang-song/score_flow))

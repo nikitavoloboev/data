@@ -79,3 +79,4 @@
 - [A Practical Guide to Applying Data-Oriented Design - Andrew Kelley (2021)](https://media.handmade-seattle.com/practical-data-oriented-design/) ([Lobsters](https://lobste.rs/s/vbiu6y/practical_guide_applying_data_oriented))
 - [The ZLD Linker (2021)](https://media.handmade-seattle.com/zld/)
 - [Interfacing with Zig, a BDFL-run project (2021)](https://kristoff.it/blog/interfacing-with-zig/)
+- [Nix flake for Zig](https://github.com/arqv/zig-overlay)

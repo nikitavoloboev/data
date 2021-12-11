@@ -404,3 +404,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Opinionated Dapp Starter Template](https://github.com/jellydn/dapp-starter)
 - [Bor](https://github.com/maticnetwork/bor) - Official Go implementation of the Matic protocol. Fork of Go Ethereum.
 - [web3swift](https://github.com/skywinder/web3swift) - iOS toolbelt for interaction with the Ethereum network.
+- [Cannon](https://github.com/geohot/cannon) - On chain interactive fraud prover for Ethereum.

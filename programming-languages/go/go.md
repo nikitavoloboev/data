@@ -623,7 +623,7 @@ if err != nil {
 - [Go Race Detector (2013)](https://go.dev/blog/race-detector) ([Tweet](https://twitter.com/jboursiquot/status/1461717148435243009))
 - [From JPEG to JFIF via an io.Writer (2021)](https://nigeltao.github.io/blog/2021/from-jpeg-to-jfif.html)
 - [golang-tip](https://github.com/AlekSi/golang-tip) - Daily builds of active Go development branches.
-- [Writing an application using Go and PostgreSQL (2021)](https://henvic.dev/posts/go-postgres/) ([HN](https://news.ycombinator.com/item?id=29311632))
+- [Writing an application using Go and PostgreSQL (2021)](https://henvic.dev/posts/go-postgres/) ([HN](https://news.ycombinator.com/item?id=29311632)) ([Code](https://github.com/henvic/pgxtutorial))
 - [Go Playground](https://go.dev/play/)
 - [Go Play Space](https://goplay.space/) - Advanced Go Playground frontend written in Go, with syntax highlighting, turtle graphics mode, and more. ([Code](https://github.com/iafan/goplayspace))
 - [Go Does Not Need a Java Style GC (2021)](https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60) ([HN](https://news.ycombinator.com/item?id=29319160)) ([Reddit](https://www.reddit.com/r/golang/comments/r1g14g/go_does_not_need_a_java_style_gc/))

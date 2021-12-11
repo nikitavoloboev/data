@@ -9,6 +9,7 @@
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - Platform adaptive Flutter app for desktop, mobile, and web.
 - [InstaChat](https://github.com/tusharsadhwani/instachat) - Working replica of Instagram DMs and stories, written in Flutter and Go.
 - [Glider](https://github.com/Mosc/Glider) - Opinionated Hacker News client.
+- [Apple Music / Tidal Style Audio Player for Flutter](https://github.com/minikin/audio_player_flutter)
 
 ## Links
 

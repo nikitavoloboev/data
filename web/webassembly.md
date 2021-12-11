@@ -224,3 +224,4 @@
 - [wasm-pack-template](https://github.com/rustwasm/wasm-pack-template) - Template for kick starting a Rust and WebAssembly project using wasm-pack.
 - [embedded-wasm-apps](https://github.com/vshymanskyy/embedded-wasm-apps) - Run statically-compiled WebAssembly apps on any embedded platform.
 - [WebAssembly-in Go](https://github.com/cohix/gophercon-21)
+- [WASM Extension Template](https://github.com/Mubelotix/wasm-extension-template) - Allows you to generate a "Hello World" web extension running a Rust program compiled to WASM.

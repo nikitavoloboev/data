@@ -68,6 +68,7 @@
 - [Swift](https://github.com/evilmint/AdventOfCode)
 - [Go](https://github.com/neutralinsomniac/advent2019)
 - [Go 2](https://github.com/vtambourine/leetcode-go)
+- [Go 3](https://github.com/lizthegrey/adventofcode)
 - [Python](https://github.com/benediktwerner/AdventOfCode)
 - [Python 2](https://github.com/andreypopp/aoc2019)
 - [ReasonML](https://github.com/believer/advent-of-code)

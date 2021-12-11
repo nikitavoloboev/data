@@ -28,3 +28,4 @@
 - [rlink-rs](https://github.com/rlink-rs/rlink-rs) - High-performance Stream Processing Framework. An alternative to Apache Flink.
 - [Architecting a Boring Stream Processing Tool With Ashley Jeffs of Benthos (2021)](https://www.youtube.com/watch?v=-A8EOb5lzxM)
 - [Monibuca](https://github.com/langhuihui/monibuca) - Modularized, Extensible framework for building Streaming Server.
+- [rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - Ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams.

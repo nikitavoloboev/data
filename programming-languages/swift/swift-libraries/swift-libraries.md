@@ -856,6 +856,8 @@
 - [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
 - [Identity](https://github.com/JohnSundell/Identity) - Type-safe identifiers in Swift.
 - [FlipBook](https://github.com/bgayman/FlipBook) - Swift package for recording views.
+- [ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer wrapper.
+- [CodableX](https://github.com/dscyrescotti/CodableX) - Make Swift's Codable easier using Property Wrappers.
 
 ## Other (not lib)
 

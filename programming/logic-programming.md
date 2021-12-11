@@ -19,3 +19,4 @@
 - [Inductive logic programming at 30 (2021)](https://arxiv.org/pdf/2102.10556.pdf)
 - [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt) ([HN](https://news.ycombinator.com/item?id=29139437))
 - [Parallel Logic Programming: A Sequel (2021)](https://arxiv.org/abs/2111.11218) ([HN](https://news.ycombinator.com/item?id=29499055))
+- [CLP](https://github.com/triska/clpz) - Constraint Logic Programming over Integers. ([Web](https://www.metalevel.at/prolog/clpz))

@@ -371,3 +371,9 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Сталинская экономика лучше путинской? // Сергей Гуриев о правде и мифах СССР (2021)](https://www.youtube.com/watch?v=Hg1KRA6375o)
 - [Smekalka](https://smekalka-food.ru/) - Доставка полезных продуктов.
 - [Биографии знаменитостей](https://uznayvse.ru/znamenitosti/)
+- [Видеоистория русской культуры за 25 минут](https://arzamas.academy/likbez/ruskult)
+- [Артефакт](https://artefact.culture.ru/) - Гид по музеям России.
+- [Намедни 1961-2003. Наша эра - YouTube](https://www.youtube.com/playlist?list=PL2dnmwJp-KL6RLhfmDDQwZcoONM7jk_Qa)
+- [Все тома «Намедни. Наша эра»](https://namednibook.ru/volumes/)
+- [Пётр Лидов — Роковые восьмидесятые. 1980, часть первая](https://www.youtube.com/watch?v=N06SiexIdvw&t=1s)
+- [Павел Перец - Об истории русского терроризма](https://www.youtube.com/playlist?list=PLvEg18LiWffCP1UWtw258C2Ew2l4r9RvN)

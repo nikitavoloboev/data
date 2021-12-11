@@ -204,3 +204,4 @@
 - [Universal Volumetric](https://github.com/XRFoundation/UniversalVolumetric) - Free, fast, cross-platform volumetric codec for everyone.
 - [Text2Mesh Text-Driven Neural Stylization for Meshes (2021)](https://threedle.github.io/text2mesh/) ([Code](https://github.com/threedle/text2mesh))
 - [Building a PS1 style retro 3D renderer (2021)](https://www.david-colson.com/2021/11/30/ps1-style-renderer.html) ([HN](https://news.ycombinator.com/item?id=29486066))
+- [Model Synthesis](https://github.com/merrell42/model-synthesis) - Model synthesis is a technique for generating 2D and 3D shapes from examples. ([Web](https://paulmerrell.org/model-synthesis/))

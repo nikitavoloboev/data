@@ -185,3 +185,4 @@
 - [Nannou/Rust tutorial based on Schotter by Georg Nees](https://github.com/sidwellr/schotter)
 - [Escher-like Spiral Tilings (2019)](https://isohedral.ca/escher-like-spiral-tilings/)
 - [Generation of advanced Escher-like spiral tessellations (2021)](https://link.springer.com/article/10.1007/s00371-021-02232-0) ([HN](https://news.ycombinator.com/item?id=29490327))
+- [nightgraph](https://github.com/kneitinger/nightgraph) - Interactive, low-boilerplate creative coding platform in Rust.

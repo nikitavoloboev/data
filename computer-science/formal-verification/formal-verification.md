@@ -99,3 +99,4 @@
 - [Gospel](https://github.com/ocaml-gospel/gospel) - Tool-agnostic formal specification language for OCaml. ([Docs](https://ocaml-gospel.github.io/gospel/))
 - [Alloy 6: it's about Time (2021)](https://www.hillelwayne.com/post/alloy6/) ([Lobsters](https://lobste.rs/s/0d4s5q/alloy_6_it_s_about_time))
 - [Refinement: Formalizing the Simplicity Underneath Complex Programs (2021)](https://concerningquality.com/refinement/)
+- [Automated theorem prover for first-order logic](https://github.com/stepchowfun/theorem-prover)

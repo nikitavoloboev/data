@@ -44,3 +44,4 @@
 - [Trealla Prolog](https://github.com/infradig/trealla) - Compact, efficient Prolog interpreter written in plain-old C.
 - [Demo of a WAM Prolog Implementation in Python](https://github.com/brunokim/prol) ([HN](https://news.ycombinator.com/item?id=28720000))
 - [Simple examples for new Prolog programmers](https://github.com/Anniepoo/prolog-examples)
+- [CLP(B)](https://github.com/triska/clpb) - Constraint Logic Programming over Boolean variables using Prolog.

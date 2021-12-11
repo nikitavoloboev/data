@@ -171,3 +171,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [100R — resources](https://100r.co/site/resources.html)
 - [Дмитрий Карловский: слайды для конференций](https://github.com/nin-jin/slides)
 - [Ask HN: I feel so shallow and dumb when I see what other smart people are doing (2021)](https://news.ycombinator.com/item?id=29281468)
+- [Ask HN: Long-form info-dense videos on YouTube you would recommend to anyone? (2021)](https://news.ycombinator.com/item?id=29523638)
