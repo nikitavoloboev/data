@@ -33,3 +33,4 @@
 - [ProbLog: Probabilistic Programming](https://dtai.cs.kuleuven.be/problog/index.html#)
 - [WebPPL](https://github.com/probmods/webppl) - Probabilistic programming for the web. ([Web](http://webppl.org/))
 - [Storm](https://github.com/moves-rwth/storm) - Modern Probabilistic Model Checker. ([Web](https://www.stormchecker.org/))
+- [Bean Machine](https://github.com/facebookresearch/beanmachine) - Probabilistic programming language for inference over statistical models written in the Python language using a declarative syntax.

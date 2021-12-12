@@ -92,3 +92,4 @@
 - [What could better cross-(micro)service messaging look like? (2021)](https://b.amy.gg/what-might-messaging-be)
 - [Some Thoughts on Microservices (2021)](https://filipnikolovski.com/posts/thoughts-on-microservices/) ([HN](https://news.ycombinator.com/item?id=29379926))
 - [Optimizing microservices for fast local development (2021)](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-2-optimizing-for-fast-local-development-9f27a98b47ee) ([Lobsters](https://lobste.rs/s/jjerlf/optimizing_for_fast_local_development))
+- [Apache SkyWalking](https://github.com/apache/skywalking) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Docker, Kubernetes, Mesos) architectures. ([Web](https://skywalking.apache.org/))

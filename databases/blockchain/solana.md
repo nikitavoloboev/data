@@ -190,3 +190,4 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Solana Safety 101](https://github.com/The-Great-Ape/solana-safety-101) - Community maintained phishing and scams list to for safety and delightful Solana experience.
 - [Metaplex JavaScript SDK](https://github.com/metaplex-foundation/js)
 - [Solana Onboarding](https://github.com/ilmoi/solana-onboarding)
+- [Amman](https://github.com/metaplex-foundation/amman) - Modern mandatory toolbelt to help test solana SDK libraries and apps on a locally running validator.

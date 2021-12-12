@@ -198,6 +198,7 @@
 - [MissingH](https://github.com/haskell-hvr/missingh) - Collection of Haskell-related utilities.
 - [buffer-builder](https://github.com/chadaustin/buffer-builder) - Haskell library for efficiently building up buffers.
 - [nonempty-containers](https://github.com/mstksg/nonempty-containers) - Efficient non-empty variants of containers data types, with full API.
+- [Beseder](https://github.com/oofp/Beseder) - Library for typesafe state machines.
 
 ## Notes
 

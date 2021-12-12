@@ -57,3 +57,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Whats your top 5 drugs guys? (2021)](https://www.reddit.com/r/Drugs/comments/r77s7v/whats_your_top_5_drugs_guys/)
 - [What’s the most addictive drug you have tried? And why? (2021)](https://www.reddit.com/r/Drugs/comments/r7b4rk/whats_the_most_addictive_drug_you_have_tried_and/)
 - [TorchDrug](https://github.com/DeepGraphLearning/torchdrug) - PyTorch-based machine learning toolbox designed for several purposes. ([Web](https://torchdrug.ai/))
+- [Мефедрон - окно в мир психических расстройств (2021)](https://www.youtube.com/watch?v=A8JfrnJQVTI)

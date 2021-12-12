@@ -1218,6 +1218,7 @@
 - [btree](https://github.com/wspeirs/btree) - On-Disk B+ Tree implemented in Rust.
 - [CoreMIDI](https://github.com/chris-zen/coremidi) - CoreMIDI library for Rust. ([Article](http://chris-zen.github.io/software/2017/01/05/coremidi-rust-library.html))
 - [node-replication](https://github.com/vmware/node-replication) - Operation-log based approach for data replication.
+- [scapegoat](https://github.com/tnballo/scapegoat) - Safe, embedded-friendly ordered set/map via a scapegoat tree. Validated against BTreeSet/BTreeMap.
 
 ## Cargo Plugins
 
@@ -1331,3 +1332,4 @@
 - [cargo2nix](https://github.com/cargo2nix/cargo2nix) - Build Rust crates with Nix.
 - [Async Applied](https://github.com/benkay86/async-applied) - Practical examples of the Rust async ecosystem.
 - [image-rs](https://github.com/image-rs) - Image libraries for Rust.
+- [Whack-a-Dep](https://github.com/diem/whackadep) - Managing Rust dependencies via a dashboard.

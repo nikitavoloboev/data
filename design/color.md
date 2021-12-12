@@ -113,3 +113,4 @@
 - [Color-changing magnifying glass gives clear view of infrared light (2021)](https://www.cam.ac.uk/research/news/colour-changing-magnifying-glass-gives-clear-view-of-infrared-light) ([HN](https://news.ycombinator.com/item?id=29447779))
 - [Base16](http://chriskempson.com/projects/base16/) - Architecture for building color themes for many apps. ([HN](https://news.ycombinator.com/item?id=29494871))
 - [WCAG 3's new color contrast method called APCA (Advanced Perceptual Contrast Algorithm)](https://twitter.com/DanHollick/status/1468958644364402702)
+- [Huetone](https://huetone.ardov.me/) - Tool to create accessible color systems. ([Code](https://github.com/ardov/huetone)) ([Tweet](https://twitter.com/ardovalexey/status/1447329411678806023))

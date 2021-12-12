@@ -689,6 +689,7 @@
 - [Moo](https://github.com/no-context/moo) - Highly-optimized tokenizer/lexer generator. Use it to tokenize your strings, before parsing 'em with a parser.
 - [deeplinks.js](https://github.com/WesleyAC/deeplinks) - Simple deep links to any selection of text on your website.
 - [piecemeal](https://github.com/maraisr/piecemeal) - Send your data piecemeal.
+- [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers.
 
 ## Links
 

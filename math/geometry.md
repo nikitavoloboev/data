@@ -51,3 +51,4 @@
 - [Vertex-Edge-Face format](http://paulbourke.net/dataformats/vef/) - Formal file format but is used by many people to describe single geometric objects. ([Tweet](https://twitter.com/mariuswatz/status/1464415708557758466))
 - [Mathematicians Transcend Geometric Theory of Motion (2021)](https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/)
 - [Large steps in inverse rendering of geometry (2021)](https://bnicolet.com/publications/Nicolet2021Large.html) ([Code](https://github.com/rgl-epfl/large-steps-pytorch))
+- [Geometry Processing with Neural Fields (2021)](https://www.guandaoyang.com/NFGP/) ([Code](https://github.com/stevenygd/NFGP))

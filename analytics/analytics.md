@@ -88,3 +88,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Dune Analytics](https://dune.xyz/home) - Free crypto analytics by and for the community.
 - [Bast](https://github.com/kooparse/bast) - Web analytics focusing on privacy and simplicity.
 - [Sensor Tower](https://sensortower.com/) - Mobile App Store Marketing Intelligence.
+- [Analytics Next](https://github.com/segmentio/analytics-next) - Latest version of Segment’s JavaScript SDK - enabling you to send your data to any tool.

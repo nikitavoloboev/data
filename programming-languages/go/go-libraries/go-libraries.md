@@ -1148,6 +1148,7 @@
 - [Go Keyring](https://github.com/zalando/go-keyring) - OS-agnostic library for setting, getting and deleting secrets from the system keyring.
 - [MapReduce](https://github.com/BWbwchen/MapReduce) - Easy-to-use Map Reduce Go framework.
 - [iostream](https://github.com/kelindar/iostream) - Simple Binary Stream Reader/Writer.
+- [pointer](https://github.com/AlekSi/pointer) - Helpers to get pointers to values of built-in types.
 
 ## Links
 

@@ -302,6 +302,7 @@
 - [CTPG](https://github.com/peter-winter/ctpg) - C++ Compile Time Parser Generator. ([HN](https://news.ycombinator.com/item?id=29454342))
 - [Binlog](https://github.com/morganstanley/binlog) - High performance C++ log library to produce structured binary logs.
 - [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++.
+- [ParlayLib](https://github.com/cmuparlay/parlaylib) - Toolkit for Programming Parallel Algorithms on Shared-Memory Multicore Machines.
 
 ## Links
 

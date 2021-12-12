@@ -21,3 +21,4 @@
 - [Offset Tracking with RabbitMQ Streams (2021)](https://blog.rabbitmq.com/posts/2021/09/rabbitmq-streams-offset-tracking/)
 - [Hutch](https://github.com/ruby-amqp/hutch) - System for processing messages from RabbitMQ.
 - [RabbitMQ Cluster Kubernetes Operator](https://github.com/rabbitmq/cluster-operator)
+- [RabbitMQ RPC](https://github.com/0x4b53/amqp-rpc) - Framework to use RabbitMQ as RPC.

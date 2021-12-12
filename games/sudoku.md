@@ -13,3 +13,4 @@
 - [How to Solve the Sudoku Puzzle with programming (2021)](https://www.hillelwayne.com/post/sudoku/)
 - [Sudoku solvers in Prolog](https://github.com/blackheaven/sudoku)
 - [Sudoku solving](https://hugopeters.me/posts/11/)
+- [Neuro-Symbolic Sudoku Solver](https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver) - Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.

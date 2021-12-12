@@ -56,3 +56,5 @@
 - [Shader playground](https://github.com/gtibo/Shader-playground) - Uses VisualShader of Godot.
 - [Prefix sum on portable compute shaders (2021)](https://raphlinus.github.io/gpu/2021/11/17/prefix-sum-portable.html) ([HN](https://news.ycombinator.com/item?id=29254668))
 - [The fun of playing with shaders](https://hugopeters.me/posts/5/)
+- [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Flexible console-base OpenGL Sandbox to display 2D/3D GLSL shaders without the need of an UI.
+- [GlslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL.

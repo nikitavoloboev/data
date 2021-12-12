@@ -80,3 +80,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Cellular aging: a basic paradox elucidated (2021)](https://nouvelles.umontreal.ca/en/article/2021/11/09/cellular-aging-a-basic-paradox-elucidated/)
 - [Caitlin Flanagan on Turning 60 (2021)](https://www.theatlantic.com/health/archive/2021/11/caitlin-flanagan-aging-60/620679/)
 - [The Field of Longevity Biotech is a Mess](https://psblab.org/?p=697) ([HN](https://news.ycombinator.com/item?id=29441252))
+- [NewLimit](https://www.newlimit.com/) - Company built to extend human health span. ([Intro](https://blog.newlimit.com/p/announcing-newlimit-a-company-built))

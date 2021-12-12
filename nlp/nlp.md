@@ -419,3 +419,4 @@
 - [CMU Advanced NLP 2021 - YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
 - [whatlies](https://github.com/RasaHQ/whatlies) - Toolkit to help understand "what lies" in word embeddings. Also benchmarking.
 - [CLIP-Guided-Diffusion](https://github.com/nerdyrodent/CLIP-Guided-Diffusion)
+- [Factual Probing Is [MASK]: Learning vs. Learning to Recall (2021)](https://arxiv.org/abs/2104.05240) ([Code](https://github.com/princeton-nlp/OptiPrompt))

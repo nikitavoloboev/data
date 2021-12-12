@@ -616,3 +616,4 @@
 - [Efficient Training of Audio Transformers with Patchout (2021)](https://arxiv.org/abs/2110.05069) ([Code](https://github.com/kkoutini/PaSST))
 - [Machine Learning for Creativity and Design](https://neuripscreativityworkshop.github.io/2021/)
 - [Maximum Likelihood Training of Score-Based Diffusion Models (2021)](https://arxiv.org/abs/2101.09258) ([Code](https://github.com/yang-song/score_flow))
+- [Learning Gradient Fields for Shape Generation (2020)](http://www.cs.cornell.edu/~ruojin/ShapeGF/) ([Code](https://github.com/RuojinCai/ShapeGF))

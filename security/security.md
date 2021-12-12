@@ -237,3 +237,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Barbican](https://github.com/openstack/barbican) - ReST API designed for the secure storage, provisioning and management of secrets, including in OpenStack environments.
 - [Cryptr](https://github.com/adobe/cryptr) - GUI for Hashicorp's Vault.
 - [Cloud Service Provider security mistakes](https://github.com/SummitRoute/csp_security_mistakes)
+- [ACMEd](https://github.com/breard-r/acmed) - ACME (RFC 8555) client daemon. Allows to automate X.509 certificates signing by a Certification Authority (CA).
