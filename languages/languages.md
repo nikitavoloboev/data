@@ -52,3 +52,4 @@
 - [Sheldon](https://github.com/inaka/sheldon/) - Very Simple Erlang Spell Checker. ([Article](https://medium.com/erlang-battleground/sheldon-the-erlang-spell-checker-b5223d5f7b70))
 - [Learning with Texts](https://learningwithtexts.com/) - Free translation software.
 - [Trunk](https://github.com/theiceshelf/trunk) - Tool for learning new languages. It is inspired by Learning With Texts.
+- [DictPress](https://github.com/knadh/dictmaker) - Stand-alone, single-binary server application for building and publishing dictionary websites.

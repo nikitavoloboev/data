@@ -24,3 +24,4 @@
 - [Higher Standard](https://github.com/mmcqd/higher-standard) - Higher kinded polymorphism in Standard ML.
 - [LunarML](https://github.com/minoki/LunarML) - Standard ML compiler that produces Lua.
 - [Getting started with Standard ML](https://www.reddit.com/r/sml/comments/qyy2gs/getting_started_with_standard_ml/)
+- [sml-server](https://github.com/diku-dk/sml-server) - Web server infrastructure for Standard ML.

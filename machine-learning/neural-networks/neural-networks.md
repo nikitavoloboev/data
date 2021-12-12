@@ -256,3 +256,4 @@
 - [CNN Explainer - Interpreting Convolutional Neural Networks (2021)](https://gsurma.medium.com/cnn-explainer-interpreting-convolutional-neural-networks-1-n-e81c62cbb660)
 - [Transformers from Scratch (2019)](http://peterbloem.nl/blog/transformers)
 - [Transformers from Scratch (2021)](https://e2eml.school/transformers.html) ([HN](https://news.ycombinator.com/item?id=29315107))
+- [General and Scalable Parallelization for Neural Networks (2021)](https://ai.googleblog.com/2021/12/general-and-scalable-parallelization.html)

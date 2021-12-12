@@ -365,3 +365,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Masscanned](https://github.com/ivre/masscanned) - Network responder. Its purpose is to provide generic answers to as many protocols as possible.
 - [How eBPF will solve Service Mesh (2021)](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh) ([HN](https://news.ycombinator.com/item?id=29496870))
 - [Gatling](https://github.com/gatling/gatling) - Load test tool. It officially supports HTTP, WebSocket, Server-Sent-Events and JMS. ([Web](https://gatling.io/))
+- [Violet](https://github.com/paullouisageneau/violet) - Lightweight STUN/TURN server.

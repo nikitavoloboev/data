@@ -286,3 +286,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [shrun](https://github.com/rylandg/shrun) - Test NodeJS CLI commands in isolated docker containers.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - Lightweight and zero-dependency Task Scheduler and Rate Limiter for Node.js and the browser.
 - [Follow Redirects](https://github.com/follow-redirects/follow-redirects) - Node.js module that automatically follows HTTP(S) redirects.
+- [ultrafetch](https://github.com/natemoo-re/ultrafetch) - node-fetch backed with an RFC-7234 compliant filesystem cache.

@@ -147,6 +147,7 @@
 - [Action Get Merged Pull Request](https://github.com/actions-ecosystem/action-get-merged-pull-request) - GitHub Action to get the pull request merged with the base branch.
 - [Pull request name linter with commitlint](https://github.com/JulienKode/pull-request-name-linter-action) - Lint pull request name with commit lint.
 - [Team Labeler Action](https://github.com/JulienKode/team-labeler-action) - GitHub action to label your pull requests based on the author name.
+- [create-report](https://github.com/michaelhenry/create-report) - Github action for creating generic run report (using Markdown!).
 
 ## Go
 

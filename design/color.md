@@ -114,3 +114,4 @@
 - [Base16](http://chriskempson.com/projects/base16/) - Architecture for building color themes for many apps. ([HN](https://news.ycombinator.com/item?id=29494871))
 - [WCAG 3's new color contrast method called APCA (Advanced Perceptual Contrast Algorithm)](https://twitter.com/DanHollick/status/1468958644364402702)
 - [Huetone](https://huetone.ardov.me/) - Tool to create accessible color systems. ([Code](https://github.com/ardov/huetone)) ([Tweet](https://twitter.com/ardovalexey/status/1447329411678806023))
+- [APCA (Advanced Perceptual Contrast Algorithm)](https://github.com/Myndex/SAPC-APCA) - New method for predicting contrast for use in emerging web standards (WCAG 3) for determining readability contrast. ([Web](https://www.myndex.com/APCA/))

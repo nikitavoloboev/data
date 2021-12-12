@@ -152,6 +152,7 @@
 - [Animations](https://github.com/jkrumbiegel/Animations.jl) - Animations, easings and interpolations for animated visualizations.
 - [Vulkan](https://github.com/JuliaGPU/Vulkan.jl) - Simplify usage of Vulkan in Julia.
 - [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl) - OpenCL Julia bindings.
+- [DitherPunk.jl](https://github.com/JuliaImages/DitherPunk.jl) - Dithering algorithms in Julia.
 
 ## CLI
 
@@ -380,6 +381,8 @@
 - [ReachabilityAnalysis.jl](https://github.com/JuliaReach/ReachabilityAnalysis.jl) - Methods to compute sets of states reachable by dynamical systems.
 - [Jin](https://github.com/malmaud/Jin.jl) - Julia version of the Python Gin configuration library.
 - [ArtifactUtils](https://github.com/simeonschaub/ArtifactUtils.jl) - Tool for package developers for working with artifacts.
+- [JSExpr](https://github.com/JuliaGizmos/JSExpr.jl) - Translate Julia to JavaScript.
+- [ProfileSVG](https://github.com/kimikage/ProfileSVG.jl) - Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
 
 ## Links
 
@@ -399,3 +402,4 @@
 - [JuliaSymbolics](https://juliasymbolics.org/) - Symbolic programming in Julia.
 - [LocalPackageServer](https://github.com/GunnarFarneback/LocalPackageServer.jl) - Julia storage and package server for local packages.
 - [Pkg](https://github.com/JuliaLang/Pkg.jl) - Package manager for the Julia programming language. ([Docs](https://pkgdocs.julialang.org/))
+- [Registrator](https://github.com/JuliaRegistries/Registrator.jl) - GitHub app that automates creation of registration pull requests for your julia packages to the General registry.

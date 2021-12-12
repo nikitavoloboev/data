@@ -1219,6 +1219,8 @@
 - [CoreMIDI](https://github.com/chris-zen/coremidi) - CoreMIDI library for Rust. ([Article](http://chris-zen.github.io/software/2017/01/05/coremidi-rust-library.html))
 - [node-replication](https://github.com/vmware/node-replication) - Operation-log based approach for data replication.
 - [scapegoat](https://github.com/tnballo/scapegoat) - Safe, embedded-friendly ordered set/map via a scapegoat tree. Validated against BTreeSet/BTreeMap.
+- [hackfn](https://github.com/dtolnay/hackfn) - Fake implementation of `std::ops::Fn` for user-defined data types.
+- [thingbuf](https://github.com/hawkw/thingbuf) - In-place allocation-reusing queues for Rust.
 
 ## Cargo Plugins
 

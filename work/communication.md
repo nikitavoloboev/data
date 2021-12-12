@@ -158,3 +158,4 @@
 - [Don't soften feedback](https://larahogan.me/blog/dont-soften-feedback/) ([HN](https://news.ycombinator.com/item?id=29297911))
 - [Who gives the best feedback? (2021)](https://johnsillings.com/2021/11/27/high-quality-feedback.html) ([HN](https://news.ycombinator.com/item?id=29364577))
 - [How to Deliver Critical Feedback (Ed Batista) (2020)](https://www.edbatista.com/2020/07/how-to-deliver-critical-feedback.html)
+- [Every Proximity Chat, Metaverse, and Video Conference Socializing App](https://github.com/billmei/every-proximity-chat-app)

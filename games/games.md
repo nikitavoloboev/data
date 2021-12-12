@@ -243,3 +243,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies (2021)](https://www.youtube.com/watch?v=ki4Fbctwnjs)
 - [Video game landscapes will make you nostalgic for worlds you’ve never visited](https://www.calvertjournal.com/articles/show/13338/digital-video-game-art-russian-winter-6vcr)
 - [The Strange, Unfinished Saga of Cyberpunk 2077 (2021)](https://www.newyorker.com/tech/annals-of-technology/the-strange-unfinished-saga-of-cyberpunk-2077) ([HN](https://news.ycombinator.com/item?id=29517021))
+- [CloudRetro](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game.

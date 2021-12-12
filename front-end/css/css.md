@@ -418,3 +418,4 @@ all: unset
 - [Responsive iframes with the CSS aspect-ratio property (2021)](https://gomakethings.com/responsive-iframes-with-the-css-aspect-ratio-property/)
 - [CSS Tokenizer](https://github.com/csstools/tokenizer) - Tokenize CSS according to the CSS Syntax.
 - [EsifyCSS](https://github.com/gjbkz/esifycss) - Generates ES modules from CSS.
+- [zss](https://github.com/chwayne/zss) - CSS layout engine and document renderer, written in Zig.

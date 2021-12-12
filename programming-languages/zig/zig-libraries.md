@@ -13,6 +13,7 @@
 - [ZHP](https://github.com/frmdstryr/zhp) - HTTP server written in Zig.
 - [Zig Network](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
 - [zig-serve](https://github.com/MasterQ32/zig-serve) - Server implementations for several protocols in Zig. Includes http(s), gemini and gopher.
+- [rem](https://github.com/chwayne/rem) - HTML parsing library, written in Zig.
 
 ## DB
 

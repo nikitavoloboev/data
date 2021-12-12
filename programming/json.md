@@ -88,3 +88,4 @@
 - [any-json](https://github.com/any-json/any-json) - Convert (almost) anything to JSON.
 - [Jet](https://github.com/ChrisPenner/jet) - Structural editor for JSON values.
 - [JSON Web Proofs Spec](https://github.com/json-web-proofs/json-web-proofs)
+- [jet](https://github.com/borkdude/jet) - CLI to transform between JSON, EDN and Transit, powered with a minimal query language.

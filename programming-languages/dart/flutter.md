@@ -10,6 +10,7 @@
 - [InstaChat](https://github.com/tusharsadhwani/instachat) - Working replica of Instagram DMs and stories, written in Flutter and Go.
 - [Glider](https://github.com/Mosc/Glider) - Opinionated Hacker News client.
 - [Apple Music / Tidal Style Audio Player for Flutter](https://github.com/minikin/audio_player_flutter)
+- [Voiceliner](https://a9.io/voiceliner/) - Voice memos-like for Android and iOS. Written in Flutter. ([Code](https://github.com/maxkrieger/voiceliner))
 
 ## Links
 

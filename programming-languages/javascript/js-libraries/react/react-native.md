@@ -6,6 +6,7 @@
 - [SimpleShop](https://github.com/hoangvvo/SimpleShop) - Tiny app to manage inventory and keep track of orders and profits.
 - [Colorwaver](https://github.com/mrousavy/Colorwaver) - App to detect colorwaves (swatches/palettes) in the real world - powered by VisionCamera and Reanimated.
 - [Spotify Lite](https://github.com/osamaqarem/spotify-lite) - Made with React Native for iOS and Android.
+- [Messages Clone](https://github.com/marcusfrdk/messages-clone) - iOS Messages app clone I created in React Native.
 
 ## Links
 

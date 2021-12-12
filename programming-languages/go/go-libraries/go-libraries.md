@@ -227,6 +227,8 @@
 - [qtalk-go](https://github.com/progrium/qtalk-go) - Versatile RPC and IO stream based IPC stack for Go.
 - [hedgedhttp](https://github.com/cristalhq/hedgedhttp) - Hedged HTTP client which helps to reduce tail latency at scale.
 - [gomponents](https://github.com/maragudk/gomponents) - View components in pure Go, that render to HTML 5. ([Web](https://www.gomponents.com/))
+- [Gzip Handler](https://github.com/nytimes/gziphandler) - Go middleware to gzip HTTP responses.
+- [microblob](https://github.com/miku/microblob) - Serve millions of JSON documents via HTTP.
 
 ## GraphQL
 
@@ -333,6 +335,7 @@
 - [spindle](https://github.com/flowerinthenight/spindle) - Distributed locking library built on top of Cloud Spanner and TrueTime.
 - [Bokchoy](https://github.com/thoas/bokchoy) - Simple job queues for Go backed by Redis.
 - [Migrate](https://github.com/maragudk/migrate) - Simple database migration tool using an sql.DB connection and fs.FS for the migration source.
+- [ch](https://github.com/go-faster/ch) - TCP ClickHouse client in Go.
 
 ## ML
 

@@ -186,6 +186,7 @@
 - [StupiDB](https://github.com/cpcloud/stupidb) - Built to understand how a relational database might be implemented.
 - [MatrixOne](https://github.com/matrixorigin/matrixone) - Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads. ([Docs](http://docs.matrixorigin.io/#recommended-articles))
 - [doxa](https://github.com/ribelo/doxa) - Simple in-memory database, trying to copy the best solutions from datascript, xtdb, fulcro, autonormal and especially shadow-grove.
+- [Scalaris](https://github.com/scalaris-team/scalaris) - Scalable, transactional, distributed and fault-tolerant key-value-store with strong data consistency for online databases and Web 2.0 services.
 
 ## Tools
 

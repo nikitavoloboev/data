@@ -199,6 +199,9 @@
 - [buffer-builder](https://github.com/chadaustin/buffer-builder) - Haskell library for efficiently building up buffers.
 - [nonempty-containers](https://github.com/mstksg/nonempty-containers) - Efficient non-empty variants of containers data types, with full API.
 - [Beseder](https://github.com/oofp/Beseder) - Library for typesafe state machines.
+- [Yampa](https://github.com/ivanperez-keera/Yampa) - Functional Reactive Programming domain-specific language for efficient hybrid systems.
+- [Dunai](https://github.com/ivanperez-keera/dunai) - Classic FRP, Arrowized FRP, Reactive Programming, and Stream Programming, all via Monadic Stream Functions.
+- [order](https://github.com/emilypi/order) - Exploring order-theory in Haskell.
 
 ## Notes
 

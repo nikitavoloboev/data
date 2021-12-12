@@ -1,5 +1,9 @@
 # [Eleventy](https://www.11ty.dev/)
 
+## Templates
+
+- [Henry Desroches's Eleventy template](https://github.com/xdesro/welcome-traveler)
+
 ## Links
 
 - [Learn Eleventy From Scratch (2020)](https://learneleventyfromscratch.com/) ([Tweet](https://twitter.com/piccalilli_/status/1249677873448923139)) ([Code](https://github.com/andy-piccalilli/learneleventyfromscratch.com))

@@ -177,3 +177,4 @@
 - [Making your website "cross-origin isolated" using COOP and COEP (2020)](https://web.dev/coop-coep/) ([Tweet](https://twitter.com/SamVerschueren/status/1468654052909137922))
 - [Oblivious HTTP](https://github.com/ietf-wg-ohai/oblivious-http) - System for the forwarding of encrypted HTTP
   messages.
+- [hpagent](https://github.com/delvedor/hpagent) - Ready to use http and https agent for working with proxies that keeps connections alive.

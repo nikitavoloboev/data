@@ -238,6 +238,7 @@
 - [react-rewards](https://github.com/thedevelobear/react-rewards) - Microinteractions you can use to reward your users for little things and make them smile.
 - [Informed](https://github.com/joepuzzo/informed) - Lightweight framework and utility for building powerful forms in React applications.
 - [react-lineto](https://github.com/kdeloach/react-lineto) - Draw a line between two elements in React.
+- [Hacky](https://github.com/aidenybai/hacky) - Functional component-based UI library.
 
 ## Links
 
@@ -270,3 +271,4 @@
 - [Refine](https://refine.dev/) - React-based framework for building data-intensive applications in no time. ([Code](https://github.com/pankod/refine))
 - [Good React charting libraries (2021)](https://twitter.com/gill_kyle/status/1448321353870757888)
 - [Converting a React component to TypeScript (2021)](https://dev.to/mbarzeev/converting-a-react-component-to-typescript-15cl)
+- [Agrippa](https://github.com/NitzanHen/agrippa) - React CLI for component generation.

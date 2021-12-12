@@ -141,3 +141,4 @@
 - [Moth Minds](https://www.mothminds.com/) - Fund individuals doing work you believe in. ([Twitter](https://twitter.com/mothminds)) ([HN](https://news.ycombinator.com/item?id=29407858))
 - [YC Founders Made These Fundraising Mistakes (2021)](https://www.youtube.com/watch?v=6606a2ka-jQ) ([HN](https://news.ycombinator.com/item?id=29385033))
 - [Rhetoric](https://www.rhetoric.app/) - Pitch feedback for founders.
+- [Hyperscale](https://www.hyperscalefund.com/) - Fast funding for early blockchain projects. ([Code](https://github.com/hyper-scale/frontend))

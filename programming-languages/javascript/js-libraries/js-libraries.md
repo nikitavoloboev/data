@@ -690,6 +690,7 @@
 - [deeplinks.js](https://github.com/WesleyAC/deeplinks) - Simple deep links to any selection of text on your website.
 - [piecemeal](https://github.com/maraisr/piecemeal) - Send your data piecemeal.
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers.
+- [double.js](https://github.com/munrocket/double.js) - Double-double arithmetic in JavaScript. A floating point expansion with 31 accurate decimal digits.
 
 ## Links
 

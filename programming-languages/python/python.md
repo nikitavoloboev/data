@@ -401,3 +401,4 @@ for i, _ in enumerate(nums):
 - [Common design patterns implemented in Python](https://github.com/jackdbd/design-patterns)
 - [The future of Python build systems and Gentoo (2021)](https://blogs.gentoo.org/mgorny/2021/11/07/the-future-of-python-build-systems-and-gentoo/) ([HN](https://news.ycombinator.com/item?id=29509454))
 - [Should You Use Upper Bound Version Constraints? (2021)](https://iscinumpy.dev/post/bound-version-constraints/)
+- [pymemtrace](https://github.com/paulross/pymemtrace) - Python memory tracing.
