@@ -192,3 +192,4 @@
 - [Effect-Driven QuickChecking of Compilers](http://janmidtgaard.dk/papers/Midtgaard-al%3aICFP17-full.pdf) ([Code](https://github.com/jmid/efftester))
 - [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler) - Open source compiler framework that automates translation from source code to silicon.
 - [Understanding Fast-Math (2021)](https://pspdfkit.com/blog/2021/understanding-fast-math/) ([HN](https://news.ycombinator.com/item?id=29482350))
+- [Talking with a legend – interview with Anders Hejlsberg (2021)](https://www.youtube.com/watch?v=K3qf8gRFESU)
