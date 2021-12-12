@@ -130,3 +130,4 @@
 - [A Cartel of Influential Datasets Are Dominating Machine Learning Research](https://www.unite.ai/a-cartel-of-influential-datasets-are-dominating-machine-learning-research-new-study-suggests/) ([HN](https://news.ycombinator.com/item?id=29458157))
 - [The Toxicity Dataset](https://github.com/surge-ai/toxicity)
 - [Data Linter](https://github.com/brain-research/data-linter) - Identifies potential issues (lints) in your ML training data.
+- [Cloud Annotations](https://github.com/cloud-annotations/cloud-annotations) - Fast, easy and collaborative open source image annotation tool for teams and individuals. ([Web](https://cloud.annotations.ai/))

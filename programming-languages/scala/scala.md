@@ -120,3 +120,4 @@
 - [My Take on Scala 3 by Daniel Spiewak (2021)](https://www.youtube.com/watch?v=uonhcMvfT1E)
 - [Intro to the Scala 3 Type System - Bill Venners (2021)](https://www.youtube.com/watch?v=vuTFg5g_f6w)
 - [YEGNI - You Errr Gonna Need It (in Scala 3) - James Ward & Josh Suereth (2021)](https://www.youtube.com/watch?v=ZGD00jcMKnY)
+- [Scala 3 Macros - Nicolas Stucki (2021)](https://www.youtube.com/watch?v=BbTZi8siN28)

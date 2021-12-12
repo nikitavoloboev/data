@@ -70,3 +70,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Frictionless external backups with systemd (2021)](https://jmtd.net/log/systemd_ext_backups/) ([Lobsters](https://lobste.rs/s/wjxxin/frictionless_external_backups_with))
 - [The 3-2-1 Backup Rule – Why Your Data Will Always Survive (2021)](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
 - [How I back up all my data](https://github.com/geerlingguy/my-backup-plan)
+- [Backblaze restore for Personal Backup is awful (2021)](https://news.ycombinator.com/item?id=29533753)

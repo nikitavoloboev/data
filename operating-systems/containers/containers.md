@@ -162,3 +162,5 @@
 - [Apptainer](https://github.com/apptainer/apptainer) - Open source container platform designed to be simple, fast, and secure.
 - [Rust Unshare](https://github.com/tailhook/unshare) - Low-level Linux containers creation library for rust.
 - [OpenRegistry](https://github.com/containerish/OpenRegistry) - Decentralized container registry fully compliant with OCI Distribution Specification.
+- [poCo](https://github.com/mudler/poco) - Create statically linked, portable binaries from container images.
+- [Luet](https://github.com/mudler/luet) - Container-based Package manager.

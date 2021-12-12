@@ -272,3 +272,4 @@
 - [When to use multiple endpoints in GraphQL (2021)](https://blog.logrocket.com/use-multiple-endpoints-graphql/)
 - [Build a GraphQL API with AWS CDK and AppSync (2021)](https://egghead.io/courses/build-a-graphql-api-with-aws-cdk-and-appsync-7d2a5fbc)
 - [GraphQL @ Yelp Schema Guidelines](https://github.com/Yelp/graphql-guidelines)
+- [graphql-workers](https://github.com/maraisr/graphql-workers) - graphql-workers puts graphql on the edge.

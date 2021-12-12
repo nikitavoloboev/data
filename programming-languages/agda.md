@@ -63,3 +63,4 @@
 - [Formalization in Agda of the Symmetry book](https://github.com/UniMath/SymmetryBookFormalization)
 - [Generic parallel algorithms in Agda](https://github.com/conal/agda-generic-parallel)
 - [Agda formalisation of second-order abstract syntax](https://github.com/DimaSamoz/agda-soas)
+- [Agda CheatSheet](https://github.com/alhassy/AgdaCheatSheet) - Basics of the dependently-typed functional language Agda.

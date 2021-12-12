@@ -57,6 +57,7 @@
 - [MLDataPattern](https://github.com/JuliaML/MLDataPattern.jl) - Utility package for subsetting, resampling, iteration, and partitioning of various types of data sets in Machine Learning.
 - [SymPy](https://github.com/JuliaPy/SymPy.jl) - Julia interface to SymPy via PyCall.
 - [Turkie](https://github.com/theogf/Turkie.jl) - Turing + Makie.
+- [TuringGLM](https://github.com/TuringLang/TuringGLM.jl) - Makes easy to specify Bayesian Generalized Linear Models using the formula syntax and returns an instantiated Turing model.
 
 ## Math
 

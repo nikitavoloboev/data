@@ -58,4 +58,4 @@
 - [The fun of playing with shaders](https://hugopeters.me/posts/5/)
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Flexible console-base OpenGL Sandbox to display 2D/3D GLSL shaders without the need of an UI.
 - [GlslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL.
-- [Frickin' Shaders With Frickin' Laser Beams (2021)](https://acko.net/blog/frickin-shaders-with-frickin-laser-beams/)
+- [Frickin' Shaders With Frickin' Laser Beams (2021)](https://acko.net/blog/frickin-shaders-with-frickin-laser-beams/) ([HN](https://news.ycombinator.com/item?id=29532110))

@@ -226,6 +226,7 @@
 - [Suretype](https://github.com/grantila/suretype) - Typesafe JSON (Schema) validator.
 - [Already](https://github.com/grantila/already) - Utility functions for promises; finally, map, filter, etc.
 - [Commonly](https://github.com/commonlyjs/commonly) - Modern utility library for JavaScript/TypeScript.
+- [rian](https://github.com/maraisr/rian) - Effective tracing for the edge and origins.
 
 ## Links
 

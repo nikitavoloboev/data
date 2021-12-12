@@ -254,6 +254,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Radical Polish books to add to your reading list](https://www.calvertjournal.com/features/show/12858/queer-feminist-sci-fi-books-polish-literature) ([HN](https://news.ycombinator.com/item?id=29502396))
 - [Reading List • Timothy Andrew](https://0xc0d1.com/misc/reading/)
 - [To Read • Timothy Andrew](https://0xc0d1.com/misc/reading/toread/)
+- [19 book recommendations from the Ars staff (2021)](https://arstechnica.com/staff/2021/12/holiday-book-guide/)
 
 ## Interesting Prose Books
 

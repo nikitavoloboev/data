@@ -52,6 +52,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Craig Ferguson](https://www.craigfe.io/cv.pdf) ([Code](https://github.com/CraigFe/fancv))
 - [Hylke Visser](https://htdvisser.dev/)
 - [Ben Hoyt](https://benhoyt.com/cv/)
+- [Kevin Burke](https://kevin.burke.dev/kevinburke.pdf)
 - [Anatoly Yakovenko](http://aeyakovenko.github.io/resume.html)
 - [Andrew Carr](https://andrewnc.github.io/)
 - [Rådell.net](https://radell.net/) - Like ability to see highlights for each of the jobs.

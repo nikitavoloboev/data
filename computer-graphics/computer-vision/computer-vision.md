@@ -483,5 +483,5 @@
 - [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](http://proceedings.mlr.press/v97/lee19d.html) ([Code](https://github.com/juho-lee/set_transformer))
 - [Awesome Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
 - [Are Transformers More Robust Than CNNs? (2021)](https://arxiv.org/abs/2111.05464) ([Code](https://github.com/ytongbai/ViTs-vs-CNNs))
-- [Plenoxels: Radiance Fields without Neural Networks (2021)](https://alexyu.net/plenoxels/) ([Code](https://github.com/sxyu/svox2))
+- [Plenoxels: Radiance Fields without Neural Networks (2021)](https://alexyu.net/plenoxels/) ([Code](https://github.com/sxyu/svox2)) ([Code](https://github.com/sarafridov/plenoxels))
 - [GFPGAN](https://github.com/TencentARC/GFPGAN) - Developing Practical Algorithms for Real-world Face Restoration.

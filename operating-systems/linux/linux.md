@@ -435,3 +435,4 @@
 - [C++ in the Linux kernel (2021)](https://www.threatstack.com/blog/c-in-the-linux-kernel)
 - [Rust support in the Linux kernel (2021)](https://lkml.org/lkml/2021/12/6/461) ([HN](https://news.ycombinator.com/item?id=29485465))
 - [My First 5 Minutes On A Server; Or, Essential Security for Linux Servers (2013)](https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/)
+- [linuxbundles](https://github.com/mudler/linuxbundles) - Standalone, local-runnable binaries of popular linux distributions.

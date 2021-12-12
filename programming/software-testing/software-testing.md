@@ -124,3 +124,5 @@
 - [Testing (2021)](https://www.scattered-thoughts.net/writing/testing/)
 - [Overview of Property-Based Testing Functionality](https://github.com/jmid/pbt-frameworks)
 - [How the GNU coreutils are tested (2017)](https://www.pixelbeat.org/docs/coreutils-testing.html)
+- [Fast Test, Slow Test (2012)](https://www.youtube.com/watch?v=RAxiiRPHS9k)
+- [Destroy All Software - Software Testing](https://www.destroyallsoftware.com/screencasts/catalog)

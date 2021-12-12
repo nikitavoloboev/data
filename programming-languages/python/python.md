@@ -402,3 +402,4 @@ for i, _ in enumerate(nums):
 - [The future of Python build systems and Gentoo (2021)](https://blogs.gentoo.org/mgorny/2021/11/07/the-future-of-python-build-systems-and-gentoo/) ([HN](https://news.ycombinator.com/item?id=29509454))
 - [Should You Use Upper Bound Version Constraints? (2021)](https://iscinumpy.dev/post/bound-version-constraints/)
 - [pymemtrace](https://github.com/paulross/pymemtrace) - Python memory tracing.
+- [HTMX + Flask: Modern Python Web Apps, Hold the JavaScript](https://github.com/talkpython/htmx-python-course)

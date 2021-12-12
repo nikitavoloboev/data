@@ -107,3 +107,4 @@
 - [GPU Programming with Julia course (2021)](https://github.com/omlins/julia-gpu-course)
 - [Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation (2021)](https://arxiv.org/abs/2109.01950) ([HN](https://news.ycombinator.com/item?id=29489628))
 - [Deep Learning with Julia book, using Flux.jl](https://deeplearningwithjulia.com/) ([Code](https://github.com/logankilpatrick/DeepLearningWithJulia))
+- [Bayesian Statistics with Julia and Turing](https://github.com/storopoli/Bayesian-Julia)
