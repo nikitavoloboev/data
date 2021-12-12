@@ -4,6 +4,10 @@
 
 [CodeSandbox](https://codesandbox.io/) or [Replit](https://replit.com/) are great platform for conducting live coding interviews for free.
 
+## Nice questions to ask
+
+- [What is the entire process for a one line change in code to make it to production?](https://twitter.com/jeremykahne/status/1469416655168196620)
+
 ## Notes
 
 - [Never think that a job interview is a one-way interview. At least, personally, I always am interviewing the potential team as well. No, you don't have all the control as the interviewer.](https://twitter.com/jessfraz/status/989878115710263297)

@@ -389,3 +389,4 @@ if (
 - [ReevaJS](https://github.com/ReevaJS/reeva) - JavaScript engine written from scratch using Kotlin.
 - [Web Developer Tools secrets that shouldn’t be secrets (2021)](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/) ([Reddit](https://www.reddit.com/r/programming/comments/r8wph3/web_developer_tools_secrets_that_shouldnt_be/))
 - [The async/await post we promised (2021)](https://dev.to/ablydev/the-asyncawait-post-we-promised-2c50)
+- [JavaScript Cross-Site Scripting: How it Happens and Mitigation Steps (2021)](https://www.youtube.com/watch?v=YlMCp_vzbQo)

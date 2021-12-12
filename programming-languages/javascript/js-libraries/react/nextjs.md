@@ -300,3 +300,4 @@
 - [An Inconsistent Truth: Next.js and Type Safety (2021)](https://t3.gg/blog/posts/types-and-nextjs)
 - [NextJS with WebAssembly example](https://github.com/vercel/next.js/tree/canary/examples/with-webassembly)
 - [Build a SaaS product with Next.js, Supabase and Stripe (2021)](https://egghead.io/courses/build-a-saas-product-with-next-js-supabase-and-stripe-61f2bc20)
+- [Get started with Storybook and Next.js (2021)](https://storybook.js.org/blog/get-started-with-storybook-and-next-js/)

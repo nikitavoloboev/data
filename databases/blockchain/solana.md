@@ -191,3 +191,4 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Metaplex JavaScript SDK](https://github.com/metaplex-foundation/js)
 - [Solana Onboarding](https://github.com/ilmoi/solana-onboarding)
 - [Amman](https://github.com/metaplex-foundation/amman) - Modern mandatory toolbelt to help test solana SDK libraries and apps on a locally running validator.
+- [Solana Developer Resources](https://great-atmosphere-22a.notion.site/Solana-Developer-Resources-267371c95fae42d3ab608f3e4de9aa04)
