@@ -117,6 +117,7 @@
 - [ppx_regexp](https://github.com/paurkedal/ppx_regexp) - Matching Regular Expressions with OCaml Patterns.
 - [Shuttle](https://github.com/anuragsoni/shuttle) - Buffered channels for async.
 - [Poll](https://github.com/anuragsoni/poll) - Portable OCaml API to poll file descriptors for IO readiness. Supports kqueue and epoll for now.
+- [ART](https://github.com/dinosaure/art) - Adaptive Radix Tree in OCaml.
 
 ## Links
 

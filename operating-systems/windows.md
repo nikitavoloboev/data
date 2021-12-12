@@ -42,3 +42,4 @@
 - [Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) - Scripts & programs I use to optimize and debloat my new Windows 10 installations.
 - [Proton-Caller](https://github.com/caverym/proton-caller) - Run any Windows program through Valve's Proton.
 - [Distrod](https://github.com/nullpo-head/wsl-distrod) - WSL2 Distros with Systemd.
+- [Ask HN: Why is building Windows apps so complicated (2021)](https://news.ycombinator.com/item?id=29529267)

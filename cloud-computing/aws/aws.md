@@ -262,3 +262,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Release of AWS CDKv2 and Construct Hub (2021)](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/) ([HN](https://news.ycombinator.com/item?id=29419874))
 - [New EC2 Instance Types of re:Invent 2021](https://aws-native.com/new-ec2-instance-types-of-reinvent-2021) ([HN](https://news.ycombinator.com/item?id=29448494))
 - [AWS Native Blog](https://aws-native.com/)
+- [cwl-mount](https://github.com/asimihsan/cwl-mount) - Mount AWS CloudWatch logs as a file system.

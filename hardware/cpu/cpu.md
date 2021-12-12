@@ -124,3 +124,4 @@
 - [Why It’s So Difficult – and Costly – To Secure Chips (2021)](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/) ([HN](https://news.ycombinator.com/item?id=29417927))
 - [Graviton2 and Graviton3 (2021)](http://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html) ([HN](https://news.ycombinator.com/item?id=29444746))
 - [Reverse Engineering the M1 (2021)](https://www.youtube.com/watch?v=espRmO41Bg4)
+- [What can you do with an ISA specification? (2021)](https://alastairreid.github.io/uses-for-isa-specs/)

@@ -81,3 +81,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Caitlin Flanagan on Turning 60 (2021)](https://www.theatlantic.com/health/archive/2021/11/caitlin-flanagan-aging-60/620679/)
 - [The Field of Longevity Biotech is a Mess](https://psblab.org/?p=697) ([HN](https://news.ycombinator.com/item?id=29441252))
 - [NewLimit](https://www.newlimit.com/) - Company built to extend human health span. ([Intro](https://blog.newlimit.com/p/announcing-newlimit-a-company-built))
+- [Japanese scientists develop vaccine to eliminate cells behind aging (2021)](https://www.japantimes.co.jp/news/2021/12/12/national/science-health/aging-vaccine/) ([HN](https://news.ycombinator.com/item?id=29529833))

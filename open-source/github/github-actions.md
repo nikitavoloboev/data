@@ -145,6 +145,8 @@
 - [Updating GitHub Wiki Pages with GitHub Actions](https://github.com/gfx/example-updating-wiki-with-gha)
 - [Doka Labeler](https://github.com/doka-guide/doka-labeler) - Automatically label pull requests based on multiple criteria with minimal configuration.
 - [Action Get Merged Pull Request](https://github.com/actions-ecosystem/action-get-merged-pull-request) - GitHub Action to get the pull request merged with the base branch.
+- [Pull request name linter with commitlint](https://github.com/JulienKode/pull-request-name-linter-action) - Lint pull request name with commit lint.
+- [Team Labeler Action](https://github.com/JulienKode/team-labeler-action) - GitHub action to label your pull requests based on the author name.
 
 ## Go
 

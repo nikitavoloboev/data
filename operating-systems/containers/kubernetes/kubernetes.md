@@ -549,3 +549,5 @@
 - [Volcano](https://github.com/volcano-sh/volcano) - Batch system built on Kubernetes. ([Web](https://volcano.sh/en/))
 - [The Ultimate Kubectl Cheat Sheet](https://komodor.com/learn/the-ultimate-kubectl-cheat-sheet/)
 - [Kstone](https://github.com/tkestack/kstone) - etcd management platform.
+- [Okra](https://github.com/mumoshu/okra) - Hot-swap Kubernetes clusters while keeping your service up and running.
+- [Kubernetes Python Client](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous (AsyncIO) client library for the Kubernetes API.

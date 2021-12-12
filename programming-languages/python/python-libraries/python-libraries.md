@@ -182,6 +182,7 @@
 - [pytest-mock](https://github.com/pytest-dev/pytest-mock) - Thin-wrapper around the mock package for easier use with pytest.
 - [Responses](https://github.com/getsentry/responses) - Utility for mocking out the Python Requests library.
 - [pytest-timeout](https://github.com/pytest-dev/pytest-timeout) - Time each test and terminate it when it takes too long.
+- [Syrupy](https://github.com/tophat/syrupy) - Sweeter pytest snapshot plugin.
 
 ## Other
 
@@ -585,6 +586,8 @@
 - [python-json-patch](https://github.com/stefankoegl/python-json-patch) - Applying JSON Patches in Python.
 - [Gin Config](https://github.com/google/gin-config) - Lightweight configuration framework for Python.
 - [scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
+- [nanopq](https://github.com/matsui528/nanopq) - Pure python implementation of product quantization for nearest neighbor search.
+- [Rank-BM25](https://github.com/dorianbrown/rank_bm25) - Collection of algorithms for querying a set of documents and returning the ones most relevant to the query.
 
 ## Links
 

@@ -205,3 +205,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [How to Become a Crypto Person: A Normie’s Guide (2021)](https://nymag.com/intelligencer/article/crypto-nft-twitter-discord-guide.html)
 - [The Case Against Crypto (2021)](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto) ([HN](https://news.ycombinator.com/item?id=29471306))
 - [Decred](https://decred.org/) - Blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development. ([Code](https://github.com/decred/dcrd))
+- [Web3 is a Scam, Not a Revolution w/ Stephen Diehl (2021)](https://overcast.fm/+ZpQB4c9HM) ([Tweet](https://twitter.com/pedrouid/status/1469990498551185411))

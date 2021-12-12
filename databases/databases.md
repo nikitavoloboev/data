@@ -185,6 +185,7 @@
 - [MirDB](https://github.com/yetone/mirdb) - Persistent Key-Value Store with Memcached protocol.
 - [StupiDB](https://github.com/cpcloud/stupidb) - Built to understand how a relational database might be implemented.
 - [MatrixOne](https://github.com/matrixorigin/matrixone) - Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads. ([Docs](http://docs.matrixorigin.io/#recommended-articles))
+- [doxa](https://github.com/ribelo/doxa) - Simple in-memory database, trying to copy the best solutions from datascript, xtdb, fulcro, autonormal and especially shadow-grove.
 
 ## Tools
 
@@ -489,3 +490,4 @@
 - [Upgrading MySQL at Shopify (2021)](https://shopify.engineering/upgrading-mysql-shopify)
 - [DuckDB quacks Arrow: A zero-copy data integration between Apache Arrow and DuckDB (2021)](https://arrow.apache.org/blog/2021/12/03/arrow-duckdb/)
 - [Some indexing best practices (2021)](https://www.pgmustard.com/blog/indexing-best-practices-postgresql)
+- [Slashbase](https://slashbase.com/) - Open-source collaborative IDE for your databases. ([Code](https://github.com/slashbase/slashbase))

@@ -216,3 +216,4 @@
 - [Select Star](https://www.selectstar.com/) - Data discovery made easy.
 - [Data Engineering Principles - Cogent](https://cogent.co/blog/data-engineering-principles/)
 - [Data Science at the Command Line Book (2021)](https://datascienceatthecommandline.com/2e/) - Obtain, Scrub, Explore, and Model Data with Unix Power Tools.
+- [DrivenData](https://www.drivendata.org/) - Data science competitions for social good. ([Winners Code](https://github.com/drivendataorg/competition-winners))

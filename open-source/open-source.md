@@ -211,3 +211,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Apple Open Source](https://opensource.apple.com/) ([HN](https://news.ycombinator.com/item?id=29490581))
 - [Professional maintainers: a wake-up call (2021)](https://blog.filippo.io/professional-maintainers/) ([HN](https://news.ycombinator.com/item?id=29523510)) ([Tweet](https://twitter.com/FiloSottile/status/1469749412998041610))
 - [“Open source” is broken (2021)](https://christine.website/blog/open-source-broken-2021-12-11) ([HN](https://news.ycombinator.com/item?id=29522941)) ([Lobsters](https://lobste.rs/s/w3uhz1/open_source_is_broken))
+- [“Open source” is not broken (2021)](https://nadh.in/blog/open-source-is-not-broken/) ([HN](https://news.ycombinator.com/item?id=29530004))

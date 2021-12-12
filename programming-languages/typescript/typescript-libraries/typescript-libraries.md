@@ -225,6 +225,7 @@
 - [async-sema](https://github.com/vercel/async-sema) - Semaphore using `async` and `await`.
 - [Suretype](https://github.com/grantila/suretype) - Typesafe JSON (Schema) validator.
 - [Already](https://github.com/grantila/already) - Utility functions for promises; finally, map, filter, etc.
+- [Commonly](https://github.com/commonlyjs/commonly) - Modern utility library for JavaScript/TypeScript.
 
 ## Links
 

@@ -39,3 +39,5 @@
 - [The Ultimate Guide to Unbundling Reddit (2020)](https://latecheckout.substack.com/p/the-ultimate-guide-to-unbundling) ([HN](https://news.ycombinator.com/item?id=29420100))
 - [My Favorite Software Subreddits](https://notes.eatonphil.com/high-quality-subreddits-you-should-be-following.html) ([HN](https://news.ycombinator.com/item?id=29450583))
 - [RedditScrape](https://github.com/adgray09/RedditScrape) - Web scraper built in Go using the Colly library.
+- [How to Collect a Reddit Dataset. Using PSAW and PRAW in Python (2021)](https://towardsdatascience.com/how-to-collect-a-reddit-dataset-c369de539114)
+- [Troddit](https://www.troddit.com/) - Web client for Reddit. ([Code](https://github.com/burhan-syed/troddit))

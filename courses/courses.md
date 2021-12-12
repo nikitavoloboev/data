@@ -47,3 +47,4 @@
 - [Stepik Course Catalog](https://stepik.org/catalog)
 - [Udemy](https://www.udemy.com/) - Online Courses - Learn Anything, On Your Schedule. ([HN](https://news.ycombinator.com/item?id=28758236))
 - [Maven](https://maven.com/) - Create and teach cohort-based courses. ([Twitter](https://twitter.com/mavenhq))
+- [AlterClass](https://alterclass.io/) - Platform for making and selling programming courses. ([HN](https://news.ycombinator.com/item?id=29531434))

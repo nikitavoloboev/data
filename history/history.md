@@ -161,3 +161,4 @@
 - [Cold War Lessons and Fallacies for US-China Relations Today (2020)](https://www.tandfonline.com/doi/abs/10.1080/0163660X.2020.1850406?journalCode=rwaq20#.YZq9-uBiJqI.twitter)
 - [Cocaine Paraphernalia Ads in the 70s](https://rarehistoricalphotos.com/cocaine-paraphernalia-ads-1970s/) ([HN](https://news.ycombinator.com/item?id=29316180))
 - [Rare Historical Photos](https://rarehistoricalphotos.com/)
+- [Antigone](https://antigonejournal.com/helps/) - Open-access resources for the Classics-keen and curious. ([Tweet](https://twitter.com/AntigoneJournal/status/1442242509258825729))

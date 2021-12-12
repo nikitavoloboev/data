@@ -125,6 +125,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) - Operating system targeting x86 and ARMv7.
 - [Genesis](https://github.com/abhaynayar/genesis) - Minimal OS written in Jack.
 - [Nanos](https://nanos.org/) - Kernel designed to run only one application in virtualized environment. ([HN](https://news.ycombinator.com/item?id=29429489)) ([Code](https://github.com/nanovms/nanos))
+- [ZealOS](https://github.com/Zeal-Operating-System/ZealOS) - Modernized, professional fork of the 64-bit Temple Operating System.
 
 ## Notes
 
