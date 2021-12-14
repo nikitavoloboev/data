@@ -249,6 +249,7 @@
 - [rust-counter-strings](https://github.com/thomaschaplin/rust-counter-strings) - Counter strings generator written in rust to help aid software testing.
 - [Cucumber Rust](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [test-fuzz](https://github.com/trailofbits/test-fuzz) - Make fuzzing Rust easy.
+- [Grillon](https://github.com/theredfish/grillon) - Elegant and natural way to approach end-to-end HTTP API testing in Rust.
 
 ## Error
 
@@ -1221,6 +1222,10 @@
 - [scapegoat](https://github.com/tnballo/scapegoat) - Safe, embedded-friendly ordered set/map via a scapegoat tree. Validated against BTreeSet/BTreeMap.
 - [hackfn](https://github.com/dtolnay/hackfn) - Fake implementation of `std::ops::Fn` for user-defined data types.
 - [thingbuf](https://github.com/hawkw/thingbuf) - In-place allocation-reusing queues for Rust.
+- [serde-aux](https://github.com/vityafx/serde-aux) - Auxiliary serde library.
+- [typed-arena](https://github.com/SimonSapin/rust-typed-arena) - Fast (but limited) allocation arena for values of a single type.
+- [rust-coroutines](https://github.com/losfair/rust-coroutines) - 'Native' stackful coroutine library for Rust.
+- [nom_locate](https://github.com/fflorent/nom_locate) - Special input type for nom to locate tokens.
 
 ## Cargo Plugins
 
@@ -1335,3 +1340,4 @@
 - [Async Applied](https://github.com/benkay86/async-applied) - Practical examples of the Rust async ecosystem.
 - [image-rs](https://github.com/image-rs) - Image libraries for Rust.
 - [Whack-a-Dep](https://github.com/diem/whackadep) - Managing Rust dependencies via a dashboard.
+- [Universe](https://github.com/rvolosatovs/universe) - Centralized documentation for Rust crates Roma uses.

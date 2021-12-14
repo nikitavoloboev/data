@@ -273,3 +273,5 @@
 - [Build a GraphQL API with AWS CDK and AppSync (2021)](https://egghead.io/courses/build-a-graphql-api-with-aws-cdk-and-appsync-7d2a5fbc)
 - [GraphQL @ Yelp Schema Guidelines](https://github.com/Yelp/graphql-guidelines)
 - [graphql-workers](https://github.com/maraisr/graphql-workers) - graphql-workers puts graphql on the edge.
+- [graphql-tag](https://github.com/apollographql/graphql-tag) - JavaScript template literal tag that parses GraphQL queries.
+- [Adobe Experience Manager's GraphQL APIs](https://github.com/adobe/aem-guides-wknd-graphql)

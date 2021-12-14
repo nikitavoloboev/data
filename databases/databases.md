@@ -492,3 +492,4 @@
 - [DuckDB quacks Arrow: A zero-copy data integration between Apache Arrow and DuckDB (2021)](https://arrow.apache.org/blog/2021/12/03/arrow-duckdb/)
 - [Some indexing best practices (2021)](https://www.pgmustard.com/blog/indexing-best-practices-postgresql)
 - [Slashbase](https://slashbase.com/) - Open-source collaborative IDE for your databases. ([Code](https://github.com/slashbase/slashbase))
+- [Индексируем базу: как делать хорошо и не делать плохо](https://github.com/Envek/saintprubyconf-db-indexes-talk)

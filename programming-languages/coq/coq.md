@@ -100,3 +100,4 @@
 - [vstyle](https://github.com/appliedfm/vstyle) - Style guide for Coq. ([Docs](https://vstyle.readthedocs.io/en/latest/))
 - [AAC Tactics](https://github.com/coq-community/aac-tactics) - Coq plugin providing tactics for rewriting universally quantified equations, modulo associative (and possibly commutative) operators.
 - [Vermillion](https://github.com/slasser/vermillion) - LL(1) parser generator verified in Coq.
+- [Coq Domains](https://github.com/jonsterling/coq-domains)

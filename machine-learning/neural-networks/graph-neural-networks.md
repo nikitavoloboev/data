@@ -76,3 +76,4 @@
 - [SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials (2021)](https://arxiv.org/abs/2101.03164) ([Tweet](https://twitter.com/simonbatzner/status/1348642158308425732))
 - [On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features (2021)](https://arxiv.org/abs/2111.12128) ([Tweet](https://twitter.com/emaros96/status/1466093631698358275))
 - [Graph Neural Networks as Neural Diffusion PDEs (2021)](https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-as-neural-diffusion-pdes)
+- [PyTorch Implementation and Explanation of Graph Representation Learning papers: DeepWalk, GCN, GraphSAGE, ChebNet & GAT](https://github.com/dsgiitr/graph_nets)

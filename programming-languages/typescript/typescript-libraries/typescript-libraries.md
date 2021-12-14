@@ -1,5 +1,7 @@
 # TypeScript libraries
 
+[ts-lib-starter](https://github.com/egoist/ts-lib-starter) is nice template for TS libraries.
+
 ## DB
 
 - [joist-ts](https://github.com/stephenh/joist-ts) - TypeScript ORM for Postgres.
@@ -227,6 +229,9 @@
 - [Already](https://github.com/grantila/already) - Utility functions for promises; finally, map, filter, etc.
 - [Commonly](https://github.com/commonlyjs/commonly) - Modern utility library for JavaScript/TypeScript.
 - [rian](https://github.com/maraisr/rian) - Effective tracing for the edge and origins.
+- [Foy](https://github.com/zaaack/foy) - Simple, light-weight, type-friendly and modern task runner for general purpose.
+- [fp-ts-std](https://github.com/samhh/fp-ts-std) - Missing pseudo-standard library for fp-ts. Supports both modern browsers and Node.
+- [deep-proxy](https://github.com/qiwi/deep-proxy) - Deep proxy implementation for TypeScript.
 
 ## Links
 

@@ -34,3 +34,5 @@
 - [Differentiable Digital Signal Processing in PyTorch](https://github.com/acids-ircam/ddsp_pytorch)
 - [Synthesis ToolKit in C++](https://github.com/thestk/stk) - Open source audio signal processing and algorithmic synthesis classes written in the C++ programming language.
 - [Cat meow sounds visualized with Auto-Correlation Function](https://soundshader.github.io/cats.html) ([HN](https://news.ycombinator.com/item?id=29501359))
+- [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+- [SoX](https://github.com/chirlu/sox) - Swiss Army knife of sound processing.

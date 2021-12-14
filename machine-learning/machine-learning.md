@@ -618,3 +618,4 @@
 - [Maximum Likelihood Training of Score-Based Diffusion Models (2021)](https://arxiv.org/abs/2101.09258) ([Code](https://github.com/yang-song/score_flow))
 - [Learning Gradient Fields for Shape Generation (2020)](http://www.cs.cornell.edu/~ruojin/ShapeGF/) ([Code](https://github.com/RuojinCai/ShapeGF))
 - [Making Friends with Machine Learning - YouTube](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
+- [Schedule - NeurIPS 2021](https://deepmind.events/events/neurips2021/resources)

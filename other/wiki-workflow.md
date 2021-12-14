@@ -192,6 +192,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Szymon Kaliski's Notes](https://szymonkaliski.com/notes)
 - [Vegard Stikbakke's TILs](https://til.vegardstikbakke.com/) ([Code](https://github.com/vegarsti/til))
 - [Rahul Rajeev](https://garden.rahulrajeev.net/)
+- [Rickard Dag's Log](https://devlog.willcodefor.beer/) ([Code](https://github.com/believer/devlog))
 - [Owen's Digigarden](https://publish.obsidian.md/geobo/Welcome+to+my+digital+garden+%F0%9F%8C%B1)
 - [Charlie T](https://blog.charlietrochlil.com/) ([Code](https://github.com/rhymeswithvocal/digital-garden))
 - [Imron Rosyadi](https://irosyadi.gitbook.io/irosyadi/) ([Code](https://github.com/irosyadi/gitbook))
@@ -425,3 +426,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [ummm](https://www.ummm.co/) - Organize your thoughts. ([HN](https://news.ycombinator.com/item?id=29304438))
 - [Keep a Knowledge Log](https://bruno-oliveira.github.io/techblog/Keep-a-log/) ([HN](https://news.ycombinator.com/item?id=29436562))
 - [Early conceptarium workflows](https://paulbricman.com/reflections/early-conceptarium-workflows)
+- [Mi](https://github.com/elchead/misou) - Personal search engine.

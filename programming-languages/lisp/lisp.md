@@ -157,3 +157,5 @@
 - [bass](https://github.com/vito/bass) - Low-fidelity Lisp dialect for running cacheable commands and delivering reproducible artifacts.
 - [KamilaLisp](https://github.com/kspalaiologos/kamilalisp) - Lazily evaluated, functional, flexible and concise Lisp.
 - [Neil: Bohemian Rhapsody for Five Channels (2021)](https://good-place.org/posts/rhapsody.html)
+- [Symbolics Virtual Lisp Machine (C version)](https://github.com/hanshuebner/vlm)
+- [Jsonnet Language Server](https://github.com/grafana/jsonnet-language-server)

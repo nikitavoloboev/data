@@ -80,3 +80,4 @@
 - [Speech Recognition Papers](https://github.com/wenet-e2e/speech-recognition-papers)
 - [Steerable discovery of neural audio effects (2021)](https://arxiv.org/abs/2112.02926) ([Code](https://github.com/csteinmetz1/steerable-nafx))
 - [audapolis](https://github.com/audapolis/audapolis) - Editor for spoken-word media with transcription.
+- [Shennong](https://github.com/bootphon/shennong) - Python toolbox for speech features extraction.

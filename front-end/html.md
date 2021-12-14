@@ -203,3 +203,4 @@
 - [hq](https://github.com/mitsuhiko/hq) - jq but for HTML.
 - [mailgen](https://github.com/eladnava/mailgen) - Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
 - [domutils](https://github.com/fb55/domutils) - Utilities for working with htmlparser2's DOM.
+- [carota](https://github.com/danielearwicker/carota) - Simple, flexible rich text rendering/editing on HTML Canvas.

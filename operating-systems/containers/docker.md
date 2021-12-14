@@ -167,3 +167,4 @@
 - [dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker.
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [docker-companion](https://github.com/mudler/docker-companion) - Squash and unpack Docker images, in Go.
+- [duuh](https://github.com/philpep/duuh) - Aims to build docker images with unattended upgrades, i.e. with fixables CVEs fixed.

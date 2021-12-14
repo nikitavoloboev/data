@@ -5,6 +5,7 @@
 - [MDMA + Ket is nice combo](https://www.reddit.com/r/ketamine/comments/oqdjwe/the_most_intense_hole_ive_ever_experienced/)
 - [perma tolerance is a thing with dissos](https://www.reddit.com/r/ketamine/comments/oszyad/tolerance/)
 - [Assuming what you have is actually Ketamine, make sure to crush it fine, like really fine it has to be complete powder. You’re essentially snorting tiny crystals that cause microscopic tears in your nasal membrane if not crushed properly. That’s how you cut your nose n blow snot mixed w blood. Before snorting bring the straw up your nose as far as you can without hurting this has helped me minimize blocked/runny nose. Split each line between nostrils and do a saline rinse after.](https://www.reddit.com/r/ketamine/comments/qwrfif/first_time_dont_know_what_to_make_of_it/)
+- [Ketamine upregulates BDNF (Brain-derived neurotrophic factor) & NGF (Nerve growth factor)](https://www.reddit.com/r/Drugs/comments/rfiq90/is_ketamine_any_good/)
 
 ## Links
 

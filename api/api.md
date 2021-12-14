@@ -295,3 +295,4 @@
 - [6 API lessons learned over the last 15 years by AWS (2021)](https://twitter.com/jeremy_daly/status/1466462794610470914)
 - [Don’t Build A General Purpose API To Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)
 - [Docusaurus OpenAPI](https://github.com/cloud-annotations/docusaurus-plugin-openapi) - OpenAPI plugin for generating API reference docs in Docusaurus v2.
+- [Kin OpenAPI](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 implementation for Go (parsing, converting, validation, and more).

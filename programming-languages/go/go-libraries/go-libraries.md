@@ -385,6 +385,7 @@
 - [XXH3](https://github.com/zeebo/xxh3) - XXH3 algorithm in Go.
 - [smt](https://github.com/celestiaorg/smt) - Go library that implements a Sparse Merkle tree for a key-value map.
 - [tss-lib](https://github.com/binance-chain/tss-lib) - Multi-Party Threshold Signature Scheme.
+- [multi-party-sig](https://github.com/taurusgroup/multi-party-sig) - Implementation of protocols for threshold signatures.
 
 ## Linux
 
@@ -1152,6 +1153,12 @@
 - [MapReduce](https://github.com/BWbwchen/MapReduce) - Easy-to-use Map Reduce Go framework.
 - [iostream](https://github.com/kelindar/iostream) - Simple Binary Stream Reader/Writer.
 - [pointer](https://github.com/AlekSi/pointer) - Helpers to get pointers to values of built-in types.
+- [thumbnailer](https://github.com/bakape/thumbnailer) - Go media thumbnailer.
+- [bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets.
+- [Lockgate](https://github.com/werf/lockgate) - Cross-platform distributed locking library for Go.
+- [raft](https://github.com/shaj13/raft) - Go library that provides a simple, clean, and idiomatic implementation of the Raft consensus protocol.
+- [go-discover](https://github.com/hashicorp/go-discover) - Go library and command line tool to discover ip addresses of nodes in cloud environments based on meta information like tags provided by the environment.
+- [thriftrw-go](https://github.com/thriftrw/thriftrw-go) - Thrift encoding code generator and library for Go.
 
 ## Links
 
@@ -1185,3 +1192,4 @@
 - [Examples for dealing with the reflect package](https://github.com/a8m/reflect-examples)
 - [vgo2nix](https://github.com/nix-community/vgo2nix) - Convert go.mod files to nixpkgs buildGoPackage compatible deps.nix files.
 - [go-structurizr](https://github.com/krzysztofreczek/go-structurizr) - Library for auto-generating C4 diagrams from Golang applications.
+- [modvendor](https://github.com/goware/modvendor) - Auxiliary vendoring tool for Go's new go.mod.

@@ -860,6 +860,7 @@
 - [FlipBook](https://github.com/bgayman/FlipBook) - Swift package for recording views.
 - [ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer wrapper.
 - [CodableX](https://github.com/dscyrescotti/CodableX) - Make Swift's Codable easier using Property Wrappers.
+- [SecureXPC](https://github.com/trilemma-dev/SecureXPC) - Framework designed specifically for secure XPC Mach service communication.
 
 ## Other (not lib)
 

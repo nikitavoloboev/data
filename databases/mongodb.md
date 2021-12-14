@@ -30,3 +30,4 @@
 - [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB driver for Deno.
 - [Mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment. ([Web](https://mongoosejs.com/))
 - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files.
+- [mingo](https://github.com/kofrasa/mingo) - MongoDB query language for in-memory objects.

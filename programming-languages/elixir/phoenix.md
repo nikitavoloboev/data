@@ -65,3 +65,4 @@
 - [Preparing a Phoenix 1.6 app for deployment with Elixir Releases (2021)](https://dev.to/miguelcoba/preparing-a-phoenix-1-6-app-for-deploying-with-elixir-releases-3gf6)
 - [Gigalixir Action](https://github.com/mhanberg/gigalixir-action) - GitHub Action for deploying Phoenix applications to Gigalixir.
 - [Gigalixir](https://www.gigalixir.com/) - Elixir’s Platform as a Service.
+- [Absinthe.Phoenix](https://github.com/absinthe-graphql/absinthe_phoenix) - Integrates Absinthe subscriptions with Phoenix.

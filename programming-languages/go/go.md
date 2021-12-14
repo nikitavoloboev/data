@@ -648,3 +648,6 @@ if err != nil {
 - [go-errorlint](https://github.com/polyfloyd/go-errorlint) - Source code linter that can be used to find code that will cause problems with Go's error wrapping scheme.
 - [Awesome Go Education](https://github.com/mehdihadeli/awesome-go-education)
 - [Introducing Serialized Roaring Bitmaps in Golang (2021)](https://dgraph.io/blog/post/serialized-roaring-bitmaps-golang/)
+- [Golang Base Project](https://github.com/uberswe/golang-base-project) - Minimal Go project with user authentication ready out of the box. All frontend assets should be less than 100 kB on every page load.
+- [Portscan](https://github.com/jboursiquot/portscan) - Port scanning examples to teach Go concurrency bounding.
+- [A Guide To Writing Logging Middleware in Go (2020)](https://blog.questionable.services/article/guide-logging-middleware-go/)

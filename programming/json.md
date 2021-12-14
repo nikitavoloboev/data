@@ -89,3 +89,5 @@
 - [Jet](https://github.com/ChrisPenner/jet) - Structural editor for JSON values.
 - [JSON Web Proofs Spec](https://github.com/json-web-proofs/json-web-proofs)
 - [jet](https://github.com/borkdude/jet) - CLI to transform between JSON, EDN and Transit, powered with a minimal query language.
+- [JSON Can Be Faster Than Binary (2021)](https://www.tbray.org/ongoing/When/202x/2021/12/03/Filtering-Lessons) ([Lobsters](https://lobste.rs/s/kqycne/json_can_be_faster_than_binary))
+- [Mappings](https://www.stedi.com/docs/mappings) - Tool that maps JSON documents from one structure to another. ([Tweet](https://twitter.com/tlakomy/status/1470374323999453185))

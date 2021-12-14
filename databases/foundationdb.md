@@ -15,3 +15,4 @@
 - [FoundationDB: A Distributed, Unbundled, Transactional Key Value Store](https://www.foundationdb.org/files/fdb-paper.pdf) ([HN](https://news.ycombinator.com/item?id=27424605)) ([Review](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html)) ([HN](https://news.ycombinator.com/item?id=28740497))
 - [FoundationDB NodeJS bindings](https://github.com/josephg/node-foundationdb)
 - [Building an object store with FoundationDB (2018)](https://fabianlindfors.se/blog/building-an-object-store-with-foundation-db/)
+- [FoundationDB Rust Client](https://github.com/foundationdb-rs/foundationdb-rs)

@@ -22,3 +22,5 @@
 - [NumPy views: saving memory, leaking memory, and subtle bugs (2021)](https://pythonspeed.com/articles/numpy-memory-views/)
 - [Magical NumPy with JAX | SciPy 2021](https://www.youtube.com/watch?v=DmR36wtel4Y)
 - [Numbagg](https://github.com/numbagg/numbagg) - Fast N-dimensional aggregation functions with Numba.
+- [NumExpr](https://github.com/pydata/numexpr) - Fast numerical expression evaluator for NumPy.
+- [rust-numpy](https://github.com/PyO3/rust-numpy) - Rust bindings for the NumPy C-API.

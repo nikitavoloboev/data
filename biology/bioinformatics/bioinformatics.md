@@ -180,3 +180,4 @@
 - [Foregen](https://www.foregen.org/) - Regenerating Foreskins. ([Reddit](https://www.reddit.com/r/Foregen/))
 - [DeepMind releases massive protein structure database (2021)](https://www.freethink.com/science/protein-structure)
 - [ATOM3D: Tasks on Molecules in Three Dimensions](https://www.atom3d.ai/) ([Code](https://github.com/drorlab/atom3d))
+- [3D Infomax improves GNNs for Molecular Property Prediction (2021)](https://arxiv.org/abs/2110.04126) ([Code](https://github.com/HannesStark/3DInfomax))

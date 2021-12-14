@@ -55,3 +55,5 @@
 - [Mathport](https://github.com/leanprover/mathport) - Tool for porting Lean3 projects to Lean4.
 - [Lean Tutorials](https://github.com/leanprover-community/tutorials)
 - [lean-gym](https://github.com/openai/lean-gym) - Interact with Lean through a REPL.
+- [How Lean compares to Coq/Isabelle/HOL](https://twitter.com/XenaProject/status/1462740182789234690)
+- [SATurn](https://github.com/siddhartha-gadgil/Saturn) - SAT solver-prover in lean 4 based on the DPLL algorithm.

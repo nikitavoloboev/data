@@ -481,6 +481,7 @@ Here are few more things I liked, design wise.
 - [Daniel Gross](https://dcgross.com/)
 - [Kevin Yien](https://kevinyien.com/)
 - [Yuval Adam](https://yuv.al/)
+- [Andrey Sitnik](https://sitnik.ru/en/) ([Code](https://github.com/ai/sitnik.ru/))
 - [Chelsea Voss](https://csvoss.com/)
 - [Patrick Arminio](https://patrick.wtf/)
 - [Neil Sainsbury](https://www.neilwithdata.com/)
@@ -841,6 +842,7 @@ Here are few more things I liked, design wise.
 
 - [fin tech landing page](https://dribbble.com/shots/15813183-fintech-landing-page) ([Tweet](https://twitter.com/notwaldorf/status/1407102532992655361))
 - [online banking landing page](https://dribbble.com/shots/15947672-online-banking-home-page)
+- [Picker animated](https://twitter.com/blvdmitry/status/1469640008160133120)
 
 ## Other
 

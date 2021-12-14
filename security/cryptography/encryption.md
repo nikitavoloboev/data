@@ -62,3 +62,4 @@
 - [An Introduction to the Arithmetic of Elliptic Curves (2021)](https://www.youtube.com/playlist?list=PLYpVTXjEi1oe1OeAllJpNhFoI4B7Ws8Yl)
 - [Secret](https://github.com/fabiospampinato/secret) - Simplest command to encrypt/decrypt a file, useful for committing encrypted ".env" files to version control, among other things.
 - [Trousseau](https://github.com/oleiade/trousseau) - Encrypted key-value store designed to be a simple, safe and trustworthy place for your data.
+- [EME for Go](https://github.com/rfjakob/eme) - EME (Encrypt-Mix-Encrypt) wide-block encryption for Go.

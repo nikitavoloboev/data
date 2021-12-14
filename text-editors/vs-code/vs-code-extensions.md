@@ -162,6 +162,7 @@ Below is a list of extensions I use.
 - [CodeStream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) - Developer collaboration.
 - [Liquid](https://marketplace.visualstudio.com/items?itemName=sissel.shopify-liquid) - Liquid language support for VS Code. ([Code](https://github.com/panoply/vscode-liquid))
 - [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx) - VSCode emacs keybinding with multi cursor support. ([Code](https://github.com/whitphx/vscode-emacs-mcx))
+- [Home Assistant Config Helper](https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant) - Completion for entity-id's in Home Assistant Configurations. ([Code](https://github.com/keesschollaart81/vscode-home-assistant))
 
 ## Shell
 

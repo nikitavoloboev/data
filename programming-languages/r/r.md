@@ -97,3 +97,5 @@
 - [Hole punch](https://github.com/karthik/holepunch) - Make your R project Binder ready.
 - [Simple Features for R](https://github.com/r-spatial/sf)
 - [metafor](https://github.com/wviechtb/metafor) - Meta-analysis package for R.
+- [MetBrewer](https://github.com/BlakeRMills/MetBrewer) - Color palette package in R inspired by works at the Metropolitan Museum of Art in New York. ([Tweet](https://twitter.com/BlakeRobMills/status/1469749740871077893))
+- [RStudio](https://www.rstudio.com/products/rstudio/) - Integrated development environment (IDE) for R. ([Code](https://github.com/rstudio/rstudio))

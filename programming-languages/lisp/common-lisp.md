@@ -76,3 +76,6 @@
 - [Learn Common Lisp by Example: GTK GUI with SBCL (2021)](https://blog.matthewdmiller.net/learn-common-lisp-by-example-gtk-gui-with-sbcl)
 - [Sketch](https://github.com/vydd/sketch) - Common Lisp environment for the creation of electronic art, visual design.
 - [Lessons learned after working one year as a Common Lisp Developer (2018)](https://cdagostino.io/posts/2018-03-28-one-year-common-lisp-developer-part-1-the-good.html) ([HN](https://news.ycombinator.com/item?id=29494255))
+- [One Reason Typeclasses Are Useful (2021)](https://coalton-lang.github.io/20211212-typeclasses/) ([HN](https://news.ycombinator.com/item?id=29532917))
+- [CEPL](https://github.com/cbaggers/cepl) - Lispy and REPL-friendly Common Lisp library for working with OpenGL. ([HN](https://news.ycombinator.com/item?id=29535450))
+- [Wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server written in common lisp.

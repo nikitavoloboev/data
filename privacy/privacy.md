@@ -13,6 +13,7 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Facebook is not a private nor a secure platform for sharing sensitive information. Every character that you type into their text boxes is immediately parsed and sent to their servers, regardless of whether you actually complete a post and submit it.](https://www.reddit.com/r/privacy/comments/79x7u3/facebook_employees_just_opened_a_privately_shared/)
 - Marketing most importantly is about establishing wants that you didn't have.
 - [Apple spent the entire summer telling the public that they were confident they could resist government pressure, when defending their CSAM scanning system. Today they’re pulling voting guides from the Russian App Store.](https://twitter.com/matthew_d_green/status/1438844141107044352) ([HN](https://news.ycombinator.com/item?id=28561941))
+- [Go through your Google app permissions and revoke old apps. Some may have full access to Gmail/Calendar & you don't use them.](https://twitter.com/swyx/status/1467804281306636289)
 
 ## Links
 

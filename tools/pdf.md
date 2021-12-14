@@ -20,3 +20,4 @@
 - [PDF-Lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment. ([Docs](https://pdf-lib.js.org/))
 - [PDF to CSV converter](https://github.com/SahilChoudhary22/pdf2csv-converter)
 - [pikepdf](https://github.com/pikepdf/pikepdf) - Python library for reading and writing PDF files.
+- [pdf2svg](https://github.com/dawbarton/pdf2svg) - Simple PDF to SVG converter using the Poppler and Cairo libraries.

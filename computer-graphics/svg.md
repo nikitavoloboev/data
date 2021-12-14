@@ -118,3 +118,4 @@
 - [SVGO Components](https://github.com/svg/svgo-components) - Transform SVG into components for various frameworks.
 - [foosvg](https://github.com/AldaronLau/foosvg) - SVG rendering library in pure Rust.
 - [Cubic Bézier: From Math to Motion (2021)](https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion/) ([HN](https://news.ycombinator.com/item?id=29513750))
+- [svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module.

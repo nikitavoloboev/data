@@ -225,3 +225,4 @@ And these Discord servers:
 - [What websites do you all check more than once per week? (2021)](https://www.reddit.com/r/slatestarcodex/comments/qdjf9m/what_websites_do_you_all_check_more_than_once_per/)
 - [Ask HN: Whatever happened to exploring the internet? (2021)](https://news.ycombinator.com/item?id=28976069)
 - [HN Best Comments](https://news.ycombinator.com/bestcomments)
+- [Ask HN: What do you read for general knowledge? (2021)](https://news.ycombinator.com/item?id=29535977)

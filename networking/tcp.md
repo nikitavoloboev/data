@@ -57,3 +57,4 @@
 - [No PortScan](https://git.encryp.ch/g00g1/no-portscan) - Watching for TCP port scanning behavior on your networks.
 - [Announcing Argo for Spectrum (2021)](https://blog.cloudflare.com/argo-spectrum/) - Way to turbo-charge any TCP based application.
 - [http-tunnel](https://github.com/xnuter/http-tunnel) - HTTP(S) Tunnel and TCP Proxy in Rust.
+- [The Sad Story of TCP Fast Open (2019)](https://squeeze.isobar.com/2019/04/11/the-sad-story-of-tcp-fast-open/)

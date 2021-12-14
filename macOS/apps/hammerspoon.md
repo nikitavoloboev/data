@@ -46,3 +46,4 @@ open -g hammerspoon://someAlert
 - [Akinori's HS modules](https://github.com/knu/hs-knu) - Mainly for keyboard customization.
 - [VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all macOS inputs.
 - [Lobsters: Hammerspoon (2021)](https://lobste.rs/s/ltu8du/hammerspoon)
+- [HN: Hammerspoon (2021)](https://news.ycombinator.com/item?id=29533495)

@@ -163,3 +163,4 @@
 - [How to use Dig (2021)](https://jvns.ca/blog/2021/12/04/how-to-use-dig/) ([HN](https://news.ycombinator.com/item?id=29441333))
 - [DNS doesn't "propagate" (2021)](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
 - [Learning DNS by modeling it with ALloy](https://github.com/lorin/dns-alloy)
+- [DNS Test Suite](https://github.com/dnsimple/dnstest) - Erlang app for testing authoritative DNS servers for compliance.

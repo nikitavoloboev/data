@@ -65,7 +65,7 @@
 - [TinyJPG](https://github.com/OrlovEvgeny/TinyJPG) - Filesystem watcher and image compress.
 - [Faster Compression with Snappy's S2 Extension (2021)](https://tech.marksblogg.com/snappy-s2-compression-golang.html)
 - [Faster ZIP Decompression (2019)](https://tech.marksblogg.com/faster-zip-decompression-unzip-deflate-zlib-crc32-adler32-7zip-archiver.html)
-- [Minimalist Guide to Lossless Compression (2019)](https://tech.marksblogg.com/minimalist-guide-compression.html)
+- [Minimalist Guide to Lossless Compression (2019)](https://tech.marksblogg.com/minimalist-guide-compression.html) ([HN](https://news.ycombinator.com/item?id=29529137))
 - [FreeArc'Next](https://github.com/Bulat-Ziganshin/FA)
 - [Experiments with compression-related algorithms](https://github.com/Bulat-Ziganshin/Compression-Research)
 - [Imager](https://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web. ([Web](https://imager.io/))

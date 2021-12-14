@@ -152,3 +152,6 @@
 - [Deno SDL2](https://github.com/littledivy/deno_sdl2) - Cross platform bindings to SDL2.
 - [caviar](https://github.com/load1n9/caviar) - Game engine built on top of deno_sdl2.
 - [docland](https://github.com/denoland/docland) - Deno CLI/Deploy server application which generates documentation for arbitrary JavaScript and TypeScript modules.
+- [tinyargs](https://github.com/egoist/tinyargs) - Simple yet flexible CLI parser for Node.js and Deno.
+- [Deno Joins TC39 (2021)](https://deno.com/blog/deno-joins-tc39) ([HN](https://news.ycombinator.com/item?id=29538577))
+- [socket_fetch](https://github.com/cloudydeno/deno-socket_fetch) - Remake of fetch() using Deno sockets, useful for niche usecases such as UNIX domain sockets.

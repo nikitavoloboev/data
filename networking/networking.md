@@ -366,3 +366,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [How eBPF will solve Service Mesh (2021)](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh) ([HN](https://news.ycombinator.com/item?id=29496870))
 - [Gatling](https://github.com/gatling/gatling) - Load test tool. It officially supports HTTP, WebSocket, Server-Sent-Events and JMS. ([Web](https://gatling.io/))
 - [Violet](https://github.com/paullouisageneau/violet) - Lightweight STUN/TURN server.
+- [Ouroboros](https://ouroboros.rocks/) - Peer-to-peer packet network prototype.
+- [NetPlier](https://github.com/netplier-tool/NetPlier) - Tool for binary protocol reverse engineering. Takes network traces as input and infer the keywork by multiple sequence alignment and probabilistic inference.
+- [rsntp](https://github.com/mlichvar/rsntp) - High-performance NTP server written in Rust.
+- [Firewalla](https://firewalla.com/) - Cybersecurity Firewall For Your Family and Business. ([Code](https://github.com/firewalla/firewalla))

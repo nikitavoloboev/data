@@ -187,3 +187,6 @@
 - [Generation of advanced Escher-like spiral tessellations (2021)](https://link.springer.com/article/10.1007/s00371-021-02232-0) ([HN](https://news.ycombinator.com/item?id=29490327))
 - [nightgraph](https://github.com/kneitinger/nightgraph) - Interactive, low-boilerplate creative coding platform in Rust.
 - [WEIRD-A](https://github.com/inconvergent/weird) - Generative art in Common Lisp. ([HN](https://news.ycombinator.com/item?id=28868842))
+- [Volumetric Light (2021)](https://inconvergent.net/2021/volumetric-light/)
+- [Future Alterations (2020)](https://inconvergent.net/2020/future-alterations/)
+- [Future Alterations and Loops (2021)](https://inconvergent.net/2021/future-alterations-and-loops/)

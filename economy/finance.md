@@ -148,3 +148,5 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Monzo](https://monzo.com/) - Online bank based in the United Kingdom. ([GitHub](https://github.com/monzo)) ([Awesome](https://github.com/rdingwall/awesome-monzo))
 - [Wealthsimple](https://www.wealthsimple.com/en-gb/) - Powerful financial tools to help you grow and manage your money. ([Twitter](https://twitter.com/wealthsimple))
 - [Bank transfers as a payment method (2021)](https://bam.kalzumeus.com/archive/bank-transfers-as-a-payment-method/) ([HN](https://news.ycombinator.com/item?id=29357215))
+- [Advances in Financial Machine Learning](https://github.com/jjakimoto/finance_ml)
+- [Primer](https://primer.io/) - No code automation for payments.

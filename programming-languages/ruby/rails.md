@@ -100,3 +100,5 @@
 - [Packwerk](https://github.com/Shopify/packwerk) - Ruby gem used to enforce boundaries and modularize Rails applications.
 - [Bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
 - [On Rails (2021)](https://marbiano.dev/into-remix/on-rails)
+- [rails.new](https://rails.new/) - From New Mac to Rails Development in 11 Minutes. ([Tweet](https://twitter.com/andrewculver/status/1470139230449913859))
+- [Devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails based on Warden.

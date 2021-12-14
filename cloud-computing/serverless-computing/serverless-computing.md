@@ -135,3 +135,5 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Fly Init](https://github.com/superfly/init-snapshot) - Public snapshot of Fly's init code. It powers every Firecracker microvm we run for our users.
 - [OpenFaaS Classic templates](https://github.com/openfaas/templates)
 - [Serverless Shell](https://github.com/crucial-project/serverless-shell) - Brings the power of shell scripting to the serverless world.
+- [Getting started with testing serverless applications (2021)](https://aws.amazon.com/blogs/compute/getting-started-with-testing-serverless-applications/)
+- [Why I minimize emulator use when developing serverless applications (2021)](https://twitter.com/edjgeek/status/1450841277130498051)

@@ -119,3 +119,5 @@
 - [m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip.
 - [Terraform provider for Spotify](https://github.com/conradludgate/terraform-provider-spotify) - Manage playlists.
 - [Terraform State Mover](https://github.com/mbode/terraform-state-mover) - Helps refactoring terraform code by offering an interactive prompt for the terraform state mv command.
+- [How GitHub uses Terraform/Consul/Vault](https://www.hashicorp.com/case-studies/github)
+- [TerraHub](https://github.com/tfxor/terrahub) - Terraform Automation and Orchestration Tool.

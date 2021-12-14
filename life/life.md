@@ -79,7 +79,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Ask HN: People who cashed out early and stopped working: What is your life like? (2021)](https://news.ycombinator.com/item?id=28798089)
 - [Ask HN: What's the Point of Life? (2021)](https://news.ycombinator.com/item?id=28866558)
 - [80/20 changes that you've made in your life? Habits implemented that had huge impact. (2021)](https://twitter.com/stephsmithio/status/1448852379076546560)
-- [How to Live: 27 conflicting answers and one weird conclusion | Derek Sivers (2021)](https://sive.rs/h)
+- [How to Live: 27 conflicting answers and one weird conclusion | Derek Sivers (2021)](https://sive.rs/h) ([Notes](https://astobbe.me/books/how-to-live/))
 - [Scientists weighed all life on Earth. It’s mind-boggling. (2018)](https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas)
 - [Things you probably don’t need in your life](https://twitter.com/Mochievous/status/1452015750382866435)
 - [Modest (2021)](https://milky.substack.com/p/modest)

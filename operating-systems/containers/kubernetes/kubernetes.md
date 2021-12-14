@@ -552,3 +552,6 @@
 - [Okra](https://github.com/mumoshu/okra) - Hot-swap Kubernetes clusters while keeping your service up and running.
 - [Kubernetes Python Client](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous (AsyncIO) client library for the Kubernetes API.
 - [kspan](https://github.com/weaveworks-experiments/kspan) - Turning Kubernetes Events into spans. ([Tweet](https://twitter.com/bboreham/status/1372609182004883458))
+- [Kubernetes Cloudflare Sync](https://github.com/calebdoxsey/kubernetes-cloudflare-sync) - Run in your Kubernetes Cluster on GKE and sync DNS records on Cloudflare with your nodes IPs.
+- [Knative Docs](https://knative.dev/docs/) ([Code](https://github.com/knative/docs))
+- [CSI NFS driver](https://github.com/kubernetes-csi/csi-driver-nfs) - Allows Kubernetes to use NFS CSI volume on Linux node.

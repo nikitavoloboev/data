@@ -352,3 +352,4 @@
 - [Using Haskell as my shell (2021)](https://las.rs/blog/haskell-as-shell.html)
 - [Demystifying the state monad](https://hugopeters.me/posts/13/)
 - [Functional in the wild: typeclasses](https://hugopeters.me/posts/12/)
+- [Getting acquainted with Lens (2020)](https://encodepanda.com/posts/2020-12-15-getting-acquainted-with-lens.html)

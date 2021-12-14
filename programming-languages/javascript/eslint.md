@@ -38,3 +38,6 @@
 - [eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - Most strict (yet practical) ESLint config. 32 plugins. 1023 rules.
 - [Storybook's eslint & prettier config](https://github.com/storybookjs/linter-config)
 - [TypeStrict](https://github.com/krzkaczor/TypeStrict) - ESLint config focused on maximizing type safety.
+- [eslint-plugin-relations](https://github.com/theKashey/eslint-plugin-relations) - Controls relationships between folders and packages in a monorepo environment.
+- [eslint-plugin-functional](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
+- [suppress-eslint-errors](https://github.com/amanda-mitchell/suppress-eslint-errors) - Suppress existing violations of new eslint rules and get back to building stuff.

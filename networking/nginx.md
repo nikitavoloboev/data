@@ -58,3 +58,4 @@
 - [nginx testing](https://github.com/jirutka/nginx-testing) - Support for integration/acceptance testing of nginx configuration in TypeScript/JavaScript.
 - [nginx-rs](https://github.com/arvancloud/nginx-rs) - Nginx bindings for Rust.
 - [Using NGINX as an Object Storage Gateway (2021)](https://www.nginx.com/blog/using-nginx-as-object-storage-gateway/) ([HN](https://news.ycombinator.com/item?id=29412905))
+- [Nginx & Lua](https://github.com/fabiocicerchia/nginx-lua) - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, Debian, Fedora and Ubuntu.

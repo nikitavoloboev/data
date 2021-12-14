@@ -81,3 +81,5 @@
 - [elm-publish-action](https://github.com/dillonkearns/elm-publish-action) - Publishes your elm package if you're on the main or master branch.
 - [Successes, and failures, optimizing Elm’s runtime (2021)](https://blogg.bekk.no/successes-and-failures-in-optimizing-elms-runtime-performance-c8dc88f4e623)
 - [Create Elm App](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
+- [Fixing a performance problem in Elm using Html.Lazy (2021)](https://blogg.bekk.no/fixing-a-performance-problem-in-elm-using-html-lazy-c4298b72500d) ([HN](https://news.ycombinator.com/item?id=29539453))
+- [derw](https://github.com/eeue56/derw) - Elm-inspired language that transpiles to TypeScript.

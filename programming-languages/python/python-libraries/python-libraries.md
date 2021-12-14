@@ -588,6 +588,8 @@
 - [scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
 - [nanopq](https://github.com/matsui528/nanopq) - Pure python implementation of product quantization for nearest neighbor search.
 - [Rank-BM25](https://github.com/dorianbrown/rank_bm25) - Collection of algorithms for querying a set of documents and returning the ones most relevant to the query.
+- [PyTables](https://github.com/PyTables/PyTables) - Hierarchical datasets in Python.
+- [PyTerrier](https://github.com/terrier-org/pyterrier) - Python framework for performing information retrieval experiments.
 
 ## Links
 

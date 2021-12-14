@@ -58,6 +58,7 @@
 - [SymPy](https://github.com/JuliaPy/SymPy.jl) - Julia interface to SymPy via PyCall.
 - [Turkie](https://github.com/theogf/Turkie.jl) - Turing + Makie.
 - [TuringGLM](https://github.com/TuringLang/TuringGLM.jl) - Makes easy to specify Bayesian Generalized Linear Models using the formula syntax and returns an instantiated Turing model.
+- [Bijectors.jl](https://github.com/TuringLang/Bijectors.jl) - Implementation of normalising flows and constrained random variable transformations.
 
 ## Math
 
@@ -167,6 +168,7 @@
 - [Diana.jl](https://github.com/neomatrixcode/Diana.jl) - GraphQL for Julia.
 - [WebAPI.jl](https://github.com/eliascarv/WebAPI.jl) - Abstraction of two Julia packages: HTTP.jl and JSON3.jl. These abstractions allow you to develop APIs in Julia in a simpler and more readable way.
 - [WebIO](https://github.com/JuliaGizmos/WebIO.jl) - Bridge between Julia and the Web.
+- [Blink.jl](https://github.com/JuliaGizmos/Blink.jl) - Web-based GUIs for Julia.
 
 ## Test
 
@@ -384,6 +386,8 @@
 - [ArtifactUtils](https://github.com/simeonschaub/ArtifactUtils.jl) - Tool for package developers for working with artifacts.
 - [JSExpr](https://github.com/JuliaGizmos/JSExpr.jl) - Translate Julia to JavaScript.
 - [ProfileSVG](https://github.com/kimikage/ProfileSVG.jl) - Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
+- [GraphViz.jl](https://github.com/JuliaGraphs/GraphViz.jl) - Julia Binding to the GraphViz library.
+- [Interact](https://github.com/JuliaGizmos/Interact.jl) - Interactive widgets to play with your Julia code.
 
 ## Links
 

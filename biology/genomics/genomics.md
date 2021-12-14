@@ -124,3 +124,4 @@
 - [seqwish](https://github.com/ekg/seqwish) - Alignment to variation graph inducer.
 - [pggb](https://github.com/pangenome/pggb) - Pangenome graph construction pipeline renders a collection of sequences into a pangenome graph.
 - [Alen](https://github.com/jakobnissen/alen) - Command-like program to view DNA or protein alignments in FASTA formats.
+- [gffutils](https://github.com/daler/gffutils) - Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations.

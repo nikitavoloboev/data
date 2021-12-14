@@ -12,6 +12,8 @@
 - [EulerHS](https://github.com/juspay/euler-hs) - Free monadic framework for easy building backend and console applications in Haskell.
 - [websockets](https://github.com/jaspervdj/websockets) - Haskell library for creating WebSocket-capable servers.
 - [haskell-wasm](https://github.com/SPY/haskell-wasm) - Haskell WebAssembly Toolkit.
+- [Morpheus GraphQL](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL API, Client and Tools.
+- [http-streams](https://github.com/aesiniath/http-streams) - Haskell HTTP client library for use with io-streams.
 
 ## DB
 
@@ -39,6 +41,7 @@
 ## CLI
 
 - [Haskeline](https://github.com/judah/haskeline) - Haskell library for line input in command-line programs.
+- [unbeliever](https://github.com/aesiniath/unbeliever) - Library for writing command-line applications, be they tools or long-running daemons.
 
 ## Error
 
@@ -202,6 +205,7 @@
 - [Yampa](https://github.com/ivanperez-keera/Yampa) - Functional Reactive Programming domain-specific language for efficient hybrid systems.
 - [Dunai](https://github.com/ivanperez-keera/dunai) - Classic FRP, Arrowized FRP, Reactive Programming, and Stream Programming, all via Monadic Stream Functions.
 - [order](https://github.com/emilypi/order) - Exploring order-theory in Haskell.
+- [replace-megaparsec](https://github.com/jamesdbrock/replace-megaparsec) - Stream editing with Haskell Megaparsec parsers.
 
 ## Notes
 
@@ -227,3 +231,4 @@
 - [Haskell Breaking Changes](https://github.com/fumieval/Haskell-breaking-changes) - List of upcoming/proposed changes to Haskell core/de facto libraries. ([HN](https://news.ycombinator.com/item?id=29250504))
 - [Immutable Publishing Policy](https://gist.github.com/chrisdone/f71a2eca728a805c181091863c339fc2) ([Tweet](https://twitter.com/christopherdone/status/1460575119395495936))
 - [implicit-hie](https://github.com/Avi-D-coder/implicit-hie) - Auto generate a stack or cabal multi component hie.yaml file.
+- [Haskell Starter-Kit](https://github.com/EncodePanda/haskell-starter-kit)

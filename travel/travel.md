@@ -99,3 +99,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Airheart](https://airheart.com/) - Trip Planner, for Solo Travelers and Groups.
 - [Future of travel (2021)](https://twitter.com/bchesky/status/1457904388366692354)
 - [Location History Visualizer](https://locationhistoryvisualizer.com/heatmap/) - Tool for visualizing your complete, consolidated, collected Google Location History. ([Code](https://github.com/theopolisme/location-history-visualizer))
+- [Longest possible train journey in the world](https://twitter.com/Locati0ns/status/1470041690492657673)

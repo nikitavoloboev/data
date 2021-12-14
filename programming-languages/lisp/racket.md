@@ -81,3 +81,4 @@
 - [Parsing propositional logic in 33 lines of Racket (2020)](https://www.micahcantor.com/blog/logic-racket-parser/)
 - [Implementing Simple Hash Tables in Racket (2020)](https://www.micahcantor.com/blog/mutable-hash-racket/)
 - [The Rosette Guide](https://docs.racket-lang.org/rosette-guide/index.html)
+- [Implementation of the Lox language in Racket](https://github.com/micahcantor/racket-lox)

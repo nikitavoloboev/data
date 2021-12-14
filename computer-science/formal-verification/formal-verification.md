@@ -100,3 +100,4 @@
 - [Alloy 6: it's about Time (2021)](https://www.hillelwayne.com/post/alloy6/) ([Lobsters](https://lobste.rs/s/0d4s5q/alloy_6_it_s_about_time))
 - [Refinement: Formalizing the Simplicity Underneath Complex Programs (2021)](https://concerningquality.com/refinement/)
 - [Automated theorem prover for first-order logic](https://github.com/stepchowfun/theorem-prover)
+- [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround) - Tools for Automated Mathematics.

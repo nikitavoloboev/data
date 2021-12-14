@@ -223,3 +223,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Interview with Hansen Hsu, engineer at Apple during transition from OS 9 to OS X (2021)](https://corecursive.com/cocoa-culture-with-hansen-hsu/) ([Lobsters](https://lobste.rs/s/0subb0/cocoa_culture)) ([HN](https://news.ycombinator.com/item?id=29424245))
 - [optool](https://github.com/alexzielenski/optool) - Command Line Tool for interacting with MachO binaries on macOS/iOS.
 - [mkuser](https://github.com/freegeek-pdx/mkuser) - Make user accounts for macOS with many advanced options.
+- [Setup a New Developer Computer](https://github.com/vendasta/setup-new-computer-script) ([HN](https://news.ycombinator.com/item?id=29535432))

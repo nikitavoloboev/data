@@ -244,3 +244,5 @@
 - [FLSim](https://github.com/facebookresearch/FLSim) - Flexible, standalone library written in PyTorch that simulates FL settings with a minimal, easy-to-use API.
 - [Human Learn](https://github.com/koaning/human-learn) - Machine Learning models should play by the rules, literally.
 - [MiniTorch](https://github.com/minitorch/minitorch) - DIY teaching library for machine learning engineers who wish to learn about the internal concepts underlying deep learning systems.
+- [TorchRecipes](https://github.com/facebookresearch/recipes) - Train machine learning models with a couple of lines of code.
+- [DABS](https://github.com/alextamkin/dabs) - Domain-Agnostic Benchmark for Self-Supervised Learning.

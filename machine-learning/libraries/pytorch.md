@@ -310,3 +310,5 @@
 - [torchfilter](https://github.com/stanford-iprl-lab/torchfilter) - Bayesian filters in PyTorch.
 - [PopTorch](https://github.com/graphcore/poptorch) - PyTorch integration for the Graphcore IPU.
 - [FlowTorch](https://github.com/facebookincubator/flowtorch) - PyTorch library for learning and sampling from complex probability distributions using a class of methods called Normalizing Flows.
+- [Attention is all you need implemented from scratch in PyTorch](https://twitter.com/abhi1thakur/status/1470406419786698761)
+- [Winners of the 2021 PyTorch Annual Hackathon](https://pytorch.org/blog/announcing-the-winners-of-the-2021-pytorch-annual-hackathon/)

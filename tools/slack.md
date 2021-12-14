@@ -2,6 +2,7 @@
 
 ## Bots
 
+- [Monorobot](https://github.com/ahrefs/monorobot) - Slack bot for monorepos. ([Article](https://tech.ahrefs.com/monorobot-a-slack-bot-for-monorepos-374260e2ca43))
 - [dev-help Helper Bot](https://github.com/artsy/dev-help-helper-bot) - Marking thread that are solved by adding a ✅ on them.
 
 ## Notes

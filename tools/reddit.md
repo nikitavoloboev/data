@@ -41,3 +41,4 @@
 - [RedditScrape](https://github.com/adgray09/RedditScrape) - Web scraper built in Go using the Colly library.
 - [How to Collect a Reddit Dataset. Using PSAW and PRAW in Python (2021)](https://towardsdatascience.com/how-to-collect-a-reddit-dataset-c369de539114)
 - [Troddit](https://www.troddit.com/) - Web client for Reddit. ([Code](https://github.com/burhan-syed/troddit))
+- [Sending mass DMs on Reddit through API: a small experiment (2021)](https://www.trickster.dev/post/sending-mass-dms-on-reddit-through-api/)

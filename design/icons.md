@@ -104,3 +104,4 @@
 - [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web..
 - [FlagKit for React](https://github.com/umidbekk/react-flag-kit)
 - [Designing the Finder App Icon with Photoshop (2021)](https://www.youtube.com/watch?v=8nP5GgJ5CXg)
+- [NeXTSpirit, high-res NeXTSTEP Icons for macOS](http://galgot.free.fr/wordpress/?p=1380) ([HN](https://news.ycombinator.com/item?id=29543027))

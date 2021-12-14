@@ -255,6 +255,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Reading List • Timothy Andrew](https://0xc0d1.com/misc/reading/)
 - [To Read • Timothy Andrew](https://0xc0d1.com/misc/reading/toread/)
 - [19 book recommendations from the Ars staff (2021)](https://arstechnica.com/staff/2021/12/holiday-book-guide/)
+- [The 50 Best Books of Literary Journalism of the 21st Century](https://www.gq.com/story/50-best-literary-journalism-books)
 
 ## Interesting Prose Books
 

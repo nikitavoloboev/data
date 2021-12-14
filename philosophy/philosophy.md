@@ -64,3 +64,4 @@ In any way, it is an interesting subject I don't know much about.
 - [The Best Books on Immanuel Kant](https://fivebooks.com/best-books/kant/)
 - [Journey to the Edge of Reason: The life of Kurt Gödel (2021)](https://www.the-tls.co.uk/articles/journey-to-the-edge-of-reason-kurt-godel-stephen-budianksy-book-review-cheryl-misak/) ([HN](https://news.ycombinator.com/item?id=29202234))
 - [A Little History of Philosophy (2011)](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy)
+- [Best philosophy book you read](https://twitter.com/philosophybites/status/1470326304746655750)

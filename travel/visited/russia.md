@@ -378,3 +378,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Пётр Лидов — Роковые восьмидесятые. 1980, часть первая](https://www.youtube.com/watch?v=N06SiexIdvw&t=1s)
 - [Павел Перец - Об истории русского терроризма](https://www.youtube.com/playlist?list=PLvEg18LiWffCP1UWtw258C2Ew2l4r9RvN)
 - [Паша Техник - 50 вопросов (2021)](https://www.youtube.com/watch?v=2Jjzt52T5rY)
+- [Генератор судебных документов](https://generaptor.ovdinfo.org/) - Документы для суда за 10 минут.

@@ -571,3 +571,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [You Can't Buy Integration (2021)](https://martinfowler.com/articles/cant-buy-integration.html) ([HN](https://news.ycombinator.com/item?id=29478375))
 - [Lexiscore – a nutritional label for food for thought](https://paulbricman.com/thoughtware/lexiscore)
 - [Ask HN: Favorite Thing Built to Last? (2021)](https://news.ycombinator.com/item?id=29510819)
+- [Archive of Our Own](https://archiveofourown.org/) - Fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks, like fanfiction, fanart, fan videos, and podfic.
+- [meguca](https://github.com/bakape/meguca) - Anonymous realtime imageboard focused on high performance, free speech and transparent moderation.

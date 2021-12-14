@@ -485,3 +485,5 @@
 - [Are Transformers More Robust Than CNNs? (2021)](https://arxiv.org/abs/2111.05464) ([Code](https://github.com/ytongbai/ViTs-vs-CNNs))
 - [Plenoxels: Radiance Fields without Neural Networks (2021)](https://alexyu.net/plenoxels/) ([Code](https://github.com/sxyu/svox2)) ([Code](https://github.com/sarafridov/plenoxels))
 - [GFPGAN](https://github.com/TencentARC/GFPGAN) - Developing Practical Algorithms for Real-world Face Restoration.
+- [Awesome Video Stabilization](https://github.com/yaochih/awesome-video-stabilization)
+- [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo (2021)](https://apchenstu.github.io/mvsnerf/) ([Code](https://github.com/apchenstu/mvsnerf))

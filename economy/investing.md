@@ -4,9 +4,10 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 
 ## Interesting ETFs
 
-- [VTI](https://finance.yahoo.com/quote/VTI/)
-- [VOO](https://finance.yahoo.com/quote/VOO/)
-- [VWCE](https://finance.yahoo.com/quote/VWCE.DE/) ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qv75by/investing_800_yearly_into_vusa_as_a_polish/))
+- [VTI](https://finance.yahoo.com/quote/VTI/) - Vanguard Total Stock Market ETF.
+- [VOO](https://finance.yahoo.com/quote/VOO/) - Vanguard S&P 500 ETF.
+- [VWCE](https://finance.yahoo.com/quote/VWCE.DE/) - Vanguard FTSE All-World UCITS ETF USD Accumulation. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qv75by/investing_800_yearly_into_vusa_as_a_polish/))
+- [VBILX](https://finance.yahoo.com/quote/VBILX/) - Vanguard Intermediate-Term Bond Index Fund.
 - [List of some](https://twitter.com/levelsio/status/1278035707412520968)
 
 ## Notes

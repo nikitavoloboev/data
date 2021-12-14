@@ -10,7 +10,7 @@
 - [C++ By Example](https://cppbyexample.com/)
 - [Draft C++ Standard: Contents](https://timsong-cpp.github.io/cppwp/) ([Code](https://github.com/timsong-cpp/cppwp))
 - [C++ resources](https://github.com/MattPD/cpplinks)
-- [Immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++.
+- [Immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++. ([Paper](https://dl.acm.org/doi/10.1145/3110260))
 - [C++ Build Process Explained](https://github.com/green7ea/cpp-compilation)
 - [IKOS](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 - [cget](https://github.com/pfultz2/cget) - C++ package retrieval.
@@ -279,3 +279,5 @@
 - [Software Tools in C++](https://www.jezuk.co.uk/tags/software-tools-in-c++.html) ([HN](https://news.ycombinator.com/item?id=29412246))
 - [pinned_vec - invalidating iterator invalidation](https://wheybags.com/blog/pinned.html) ([Lobsters](https://lobste.rs/s/xdmqk8/pinned_vec_invalidating_iterator))
 - [Introduction to fibers in c++ (2019)](https://romange.com/2018/12/15/introduction-to-fibers-in-c-/)
+- [The Evolutions of Lambdas in C++14, C++17 and C++20 (2021)](https://www.fluentcpp.com/2021/12/13/the-evolutions-of-lambdas-in-c14-c17-and-c20/) ([HN](https://news.ycombinator.com/item?id=29537660))
+- [BRiCk](https://github.com/bedrocksystems/BRiCk) - Formalization of C++ for verification purposes.

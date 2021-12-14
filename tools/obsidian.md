@@ -48,6 +48,7 @@
 - [Obsidian Vale](https://github.com/marcusolsson/obsidian-vale) - Vale client for Obsidian.
 - [Obsidian AnkiBridge](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge) - Anki integration for Obsidian.
 - [Hypothesis Plugin](https://github.com/weichenw/obsidian-hypothesis-plugin) - Synchronize Hypothesis web article highlights/annotations into your Obsidian Vault.
+- [RSS Reader](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside obsidian.
 
 ## Themes
 
@@ -55,6 +56,7 @@
 - [Sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - Minimalist theme with the aim of creating a serene space of retreat, for thought and uninterrupted work.
 - [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.
 - [Minimal](https://github.com/kepano/obsidian-minimal) - Obsidian theme meticulously designed to feel native on desktop, mobile and tablet.
+- [Primary](https://github.com/ceciliamay/obsidianmd-theme-primary)
 
 ## Links
 
@@ -79,3 +81,4 @@
 - [Obsidian Link Scrapper](https://github.com/jackyzha0/hugo-obsidian) - Simple GitHub action to parse Markdown Links into a .yaml file for Hugo.
 - [Obsidian Tools](https://github.com/obsidian-tools/obsidian-tools) - Collection of tools that helps devs build plugins for obsidian.
 - [Obsidian Python lab plugin](https://github.com/cristianvasquez/obsidian-lab) - Collection of dumb interfaces to enable python developers to use/test functionality within Obsidian.
+- [Obsidian API](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.

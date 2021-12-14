@@ -107,3 +107,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx) - Most lightweight, customizable React markdown component.
 - [Learn about advanced markdown techniques](https://github.com/DavidWells/advanced-markdown)
 - [mdast-util-from-markdown](https://github.com/syntax-tree/mdast-util-from-markdown) - mdast utility to parse markdown.
+- [Readwise Note Extractor](https://github.com/elchead/readwise-note-extractor) - Extract highlights from a given (markdown) file and uploads them to Readwise.

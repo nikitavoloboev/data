@@ -1,5 +1,7 @@
 # Presentations
 
+[Slidev](https://sli.dev/) is great.
+
 ## Notes
 
 - [Amazon banned use of powerpoint presentations in 2004 as narrative is important for coherency over a list of points.](https://twitter.com/blakeir/status/1272883184154349573)
@@ -42,7 +44,7 @@
 - [RemoteCTRL](https://remotectrl.net/) - Control any slideshow together.
 - [Shower Presentation Template](https://github.com/shower/shower)
 - [MarkShow](https://mark.show/#) - Markdown to Slideshow. ([HN](https://news.ycombinator.com/item?id=26931098))
-- [Slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers. ([Web](https://sli.dev/))
+- [Slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers. ([Web](https://sli.dev/)) ([Tweet](https://twitter.com/Envek/status/1470383705596248066))
 - [Slidev for VSCode](https://github.com/slidevjs/slidev-vscode)
 - [Slides](https://github.com/maaslalani/slides) - Terminal based presentation tool.
 - [Excalideck](https://excalideck.com/) - Use Excalidraw to make slides. ([HN](https://news.ycombinator.com/item?id=29139581)) ([Code](https://github.com/excalideck/excalideck))

@@ -117,3 +117,4 @@
 - [OSMnx](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap. ([Paper](https://geoffboeing.com/publications/osmnx-complex-street-networks/)) ([Examples](https://github.com/gboeing/osmnx-examples))
 - [Greppo](https://greppo.io/) - Build geospatial applications and dashboards. ([Code](https://github.com/greppo-io/greppo))
 - [ocaml-geojson](https://github.com/patricoferris/ocaml-geojson) - Library for manipulating, creating and parsing Geojson.
+- [Reimagining projections for the interactive maps era (2021)](https://www.mapbox.com/blog/adaptive-projections) ([HN](https://news.ycombinator.com/item?id=29540619))

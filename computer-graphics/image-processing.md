@@ -34,7 +34,7 @@
 - [GPR (General Purpose Raw image format)](https://github.com/gopro/gpr) - 12-bit raw image coding format that is based on Adobe DNG standard.
 - [photon](https://github.com/silvia-odwyer/photon) - Rust/WebAssembly image processing library.
 - [imageproc](https://github.com/image-rs/imageproc) - Image processing operations as rust library.
-- [Thumbor](https://github.com/thumbor/thumbor) - Open-source smart on-demand image cropping, resizing and filters.
+- [Thumbor](https://github.com/thumbor/thumbor) - Open-source smart on-demand image cropping, resizing and filters. ([Minimal Compact thumbor](https://github.com/MinimalCompact/thumbor))
 - [ImageMagick](https://imagemagick.org/index.php) - Convert, Edit, or Compose Bitmap Images. ([WASM implementation](https://github.com/dlemstra/Magick.WASM)) ([Deno port](https://github.com/leonelv/deno-imagemagick)) ([Code](https://github.com/ImageMagick/ImageMagick)) ([HN](https://news.ycombinator.com/item?id=29408341))
 - [Leptonica](https://github.com/DanBloomberg/leptonica) - Open source library containing software that is broadly useful for image processing and image analysis applications. ([Web](http://leptonica.org/))
 - [libspng](https://github.com/randy408/libspng) - C library for reading and writing Portable Network Graphics (PNG) format files with a focus on security and ease of use.
@@ -141,3 +141,4 @@
 - [Imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go. ([HN](https://news.ycombinator.com/item?id=29514322))
 - [Issues with Cloudflare Images (2021)](https://blog.klungo.no/2021/12/07/cloudflare-images-has-a-lot-of-issues/) ([HN](https://news.ycombinator.com/item?id=29474743))
 - [Aydin](https://github.com/royerlab/aydin) - User-friendly, Fast, Self-Supervised and Unsupervised Image Denoising for All.
+- [PyTorch structural similarity (SSIM) loss](https://github.com/Po-Hsun-Su/pytorch-ssim)

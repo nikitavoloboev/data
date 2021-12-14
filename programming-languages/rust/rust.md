@@ -637,3 +637,7 @@
 - [The Rust Build System (2021)](https://blog.ysndr.de/posts/essays/2021-04-30-the-rust-build-system/)
 - [Portable and interoperable async Rust (2021)](https://www.ncameron.org/blog/portable-and-interoperable-async-rust/) ([Code](https://github.com/nrc/portable-interoperable))
 - [Higher Kinded Types in Rust (2021)](https://hugopeters.me/posts/14/) ([HN](https://news.ycombinator.com/item?id=29508790))
+- [Siderophile](https://github.com/trailofbits/siderophile) - Find the ideal fuzz targets in a Rust codebase.
+- [Rust Error Handling (2021)](https://www.unwoundstack.com/blog/rust-error-handling.html) ([Reddit](https://www.reddit.com/r/rust/comments/rf353c/yet_another_post_on_rust_error_handling/))
+- [The Taxonomy of Pointers (2021)](https://mcyoung.xyz/2021/05/24/ptr-taxonomy/)
+- [Move Constructors in Rust: Is it possible? (2021)](https://mcyoung.xyz/2021/04/26/move-ctors/)

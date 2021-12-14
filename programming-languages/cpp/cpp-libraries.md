@@ -303,6 +303,7 @@
 - [Binlog](https://github.com/morganstanley/binlog) - High performance C++ log library to produce structured binary logs.
 - [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++.
 - [ParlayLib](https://github.com/cmuparlay/parlaylib) - Toolkit for Programming Parallel Algorithms on Shared-Memory Multicore Machines.
+- [YACLib](https://github.com/YACLib/YACLib) - C++ library for concurrent tasks execution. ([Docs](https://yaclib.github.io/YACLib/))
 
 ## Links
 

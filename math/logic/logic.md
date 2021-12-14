@@ -67,3 +67,4 @@
 - [Семантические аспекты интуиционистской логики (2021)](https://compsciclub.ru/courses/intuitionisticsemantics/2021-autumn/)
 - [Логика для людей](https://denchick.github.io/logic4humans/) ([Code](https://github.com/Denchick/logic4humans))
 - [On the unity of logic](https://www.sciencedirect.com/science/article/pii/016800729390093S) ([Tweet](https://twitter.com/vamchale/status/1466185099427422210))
+- [MA 210: Logic, Types and Spaces (2019)](http://math.iisc.ac.in/~gadgil/LTS2019/) ([Code](https://github.com/siddhartha-gadgil/LTS2019))

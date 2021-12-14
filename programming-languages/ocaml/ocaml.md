@@ -102,3 +102,4 @@
 - [Exercism exercises in OCaml](https://exercism.org/tracks/ocaml) ([Code](https://github.com/exercism/ocaml))
 - [Robur](https://robur.coop/) - Software development cooperative specializing in robust and secure digital infrastructure written in OCaml. ([GitHub](https://github.com/roburio))
 - [OCaml plus Jane Street extensions](https://github.com/ocaml-flambda/ocaml-jst)
+- [PicoML](https://github.com/Quramy/pico-ml) - Toy programming language which is a subset of OCaml.

@@ -22,3 +22,4 @@
 - [Souffle](https://github.com/souffle-lang/souffle) - Variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification. ([Web](https://souffle-lang.github.io/))
 - [Differential Datalog Implementation in JS](https://github.com/datalogui/datalog) - Implementation of Datalog with a focus on managing UIs & UI state.
 - [Awesome Datalog](https://github.com/samuell/awesome-datalog)
+- [Scallop](https://github.com/scallop-lang/scallop-v1) - Scalable differentiable probabilistic Datalog engine, with Rust.

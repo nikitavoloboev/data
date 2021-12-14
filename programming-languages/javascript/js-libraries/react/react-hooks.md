@@ -7,6 +7,10 @@
 - [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React.
 - [idyl](https://github.com/pacocoursey/idyl) - Merge ideas from zustand + swr + valtio into a simple shared state.
 
+## DB
+
+- [Use Supabase](https://github.com/gbibeaul/use-supabase) - Simple zero dependencies package that gives you access to your Supabase client.
+
 ## Other
 
 - [suspend-react](https://github.com/pmndrs/suspend-react) - Integrate React Suspense into your apps.

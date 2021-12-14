@@ -691,6 +691,9 @@
 - [piecemeal](https://github.com/maraisr/piecemeal) - Send your data piecemeal.
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers.
 - [double.js](https://github.com/munrocket/double.js) - Double-double arithmetic in JavaScript. A floating point expansion with 31 accurate decimal digits.
+- [dotparser](https://github.com/anvaka/dotparser) - Parser of GraphViz dot file format.
+- [bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written using JavaScript TypedArrays.
+- [ocean.js](https://github.com/oceanprotocol/ocean.js) - JavaScript library to privately & securely publish, exchange, and consume data.
 
 ## Links
 

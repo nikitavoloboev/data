@@ -158,3 +158,5 @@
 - [React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler) - Native-driven gesture management APIs for building best possible touch-based experiences in React Native. ([Docs](https://docs.swmansion.com/react-native-gesture-handler/)) ([2.0 release](https://blog.swmansion.com/introducing-gesture-handler-2-0-50515f1c4afc))
 - [Ant Design Mobile RN](https://github.com/ant-design/ant-design-mobile-rn) - Configurable Mobile UI specification and React-based implementation. ([Docs](https://rn.mobile.ant.design/docs/react/introduce))
 - [Implementing RTK Query in a React Native App (2021)](https://bionicjulia.com/blog/implementing-rtk-query-in-react-native-app)
+- [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated) - Comprehensive, low level abstraction for the Animated library API.
+- [Primer React Native SDK](https://github.com/primer-io/primer-sdk-react-native)

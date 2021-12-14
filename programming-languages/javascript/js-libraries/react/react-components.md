@@ -239,6 +239,7 @@
 - [Informed](https://github.com/joepuzzo/informed) - Lightweight framework and utility for building powerful forms in React applications.
 - [react-lineto](https://github.com/kdeloach/react-lineto) - Draw a line between two elements in React.
 - [Hacky](https://github.com/aidenybai/hacky) - Functional component-based UI library.
+- [Charts.css React](https://github.com/hollanddd/charts-css-react)
 
 ## Links
 

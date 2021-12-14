@@ -129,3 +129,7 @@
 - [New SiFive RISC-V core P650 with 40% IPC increase (2021)](https://www.sifive.com/press/sifive-raises-risc-v-performance-bar-with-new-best-in-class) ([HN](https://news.ycombinator.com/item?id=29418153))
 - [XCrypto](https://github.com/scarv/xcrypto) - Cryptographic ISE for RISC-V.
 - [MemPool](https://github.com/pulp-platform/mempool) - 256-RISC-V-core system with low-latency access into shared L1 memory.
+- [FPnew](https://github.com/pulp-platform/fpnew) - Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.
+- [ZeroSoC](https://github.com/siliconcompiler/zerosoc) - RISC-V SoC designed to demonstrate the capabilities of SiliconCompiler.
+- [Understanding Assembly Part I: RISC-V (2021)](https://mcyoung.xyz/2021/11/29/assembly-1/)
+- [RISC-V Summit 2021 - YouTube](https://www.youtube.com/playlist?list=PL85jopFZCnbPGAhsdS16Nn4CdX6o1LeZe)

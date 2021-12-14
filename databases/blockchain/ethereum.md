@@ -407,3 +407,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Cannon](https://github.com/geohot/cannon) - On chain interactive fraud prover for Ethereum.
 - [The 0 to 1 guide for MEV](https://github.com/0xmebius/mev/blob/main/MEV101.pdf)
 - [Flashbots Protect RPC Endpoint](https://github.com/flashbots/rpc-endpoint)
+- [web3-ui](https://github.com/Developer-DAO/web3-ui) - Library of UI components specifically crafted for web3 use cases.
+- [Subway](https://github.com/libevm/subway) - Practical example on how to perform sandwich attacks on Ethereum.
+- [Foundry](https://github.com/gakonst/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.

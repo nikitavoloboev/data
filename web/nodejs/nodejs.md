@@ -287,3 +287,5 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - Lightweight and zero-dependency Task Scheduler and Rate Limiter for Node.js and the browser.
 - [Follow Redirects](https://github.com/follow-redirects/follow-redirects) - Node.js module that automatically follows HTTP(S) redirects.
 - [ultrafetch](https://github.com/natemoo-re/ultrafetch) - node-fetch backed with an RFC-7234 compliant filesystem cache.
+- [gpkg](https://github.com/Schniz/gpkg) - Global Node binary manager written in Rust.
+- [How to deploy a NodeJS application using Fly.io (2021)](https://www.thisdot.co/blog/how-to-deploy-a-nodejs-application-using-fly-io)

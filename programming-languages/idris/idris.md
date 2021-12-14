@@ -65,3 +65,5 @@
 - [Katla](https://github.com/idris-community/katla) - LaTeX & HTML code listing generator for Idris2.
 - [Collie](https://github.com/ohad/collie) - Command line interface for Idris2 applications.
 - [idris2-streaming](https://github.com/stefan-hoeck/idris2-streaming) - IO streaming library for Idris2.
+- [Idris, make back end, in 15 minutes, reusable, concise](https://github.com/thautwarm/Quick-Backend)
+- [sirdi](https://github.com/eayus/sirdi) - Simple package manager for Idris 2.

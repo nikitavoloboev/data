@@ -4,7 +4,7 @@
 
 Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana.
 
-I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/). I then [stake](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) it with [Marinade](https://marinade.finance/app/staking) & put mSOL I get from staking into [liquidity pool](https://blog.saber.so/saber-launches-mnde-dual-rewards-with-marinade-and-quarry-f3b718f1fed7). If I need liquidity in real world, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out.
+I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/). I then [stake](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) it with [Marinade](https://marinade.finance/app/staking) & put mSOL I get from staking into [liquidity pool](https://github.com/solana-labs/spl-zk-token). If I need liquidity in real world, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out.
 
 Until you can purchase ownership of stocks with blockchain, I buy [stocks/ETFs](../../economy/investing.md) with [Interactive Brokers](https://ibkr.com/referral/nikita206).
 
@@ -26,6 +26,7 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Can create a verifiable build for _any_ solana program via `anchor build --verifiable` and we have a (minimal) source verification registry at Anchor Project Serum](https://twitter.com/armaniferrante/status/1458490295708966918)
 - [Arweave is just another historical copy. Consensus doesn't care about any history that is older than the epoch, so there is no liveness dependency on AR.](https://twitter.com/aeyakovenko/status/1466535989963223041)
 - [solana-py does websockets](https://twitter.com/dj_d_sol/status/1466417431409213450)
+- You need to keep 0.02 SOL minimum to make a transaction. Best to keep ~ 0.1 SOL on the wallet.
 
 ## Links
 
@@ -192,3 +193,5 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Solana Onboarding](https://github.com/ilmoi/solana-onboarding)
 - [Amman](https://github.com/metaplex-foundation/amman) - Modern mandatory toolbelt to help test solana SDK libraries and apps on a locally running validator.
 - [Solana Developer Resources](https://great-atmosphere-22a.notion.site/Solana-Developer-Resources-267371c95fae42d3ab608f3e4de9aa04)
+- [Solana account validations](https://twitter.com/simplyianm/status/1470206090864332806)
+- [Confidential Token Program](https://github.com/solana-labs/spl-zk-token) - Enables confidential (not anonymous) transfers of SPL Tokens.

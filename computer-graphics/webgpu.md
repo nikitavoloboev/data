@@ -34,3 +34,5 @@
 - [GWebGPUEngine](https://github.com/antvis/GWebGPUEngine) - WebGPU Engine for real-time rendering and GPGPU.
 - [deno_desktop](https://github.com/DjDeveloperr/deno_desktop) - Implements WebGPU Surface API by embedding Deno.
 - [WebGPU computations performance in comparison to WebGL (2021)](https://pixelscommander.com/javascript/webgpu-computations-performance-in-comparison-to-webgl/) ([HN](https://news.ycombinator.com/item?id=29403494))
+- [How to Build a Compute Rasterizer with WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md)
+- [WebGPU Compute Rasterizer](https://github.com/OmarShehata/webgpu-compute-rasterizer)
