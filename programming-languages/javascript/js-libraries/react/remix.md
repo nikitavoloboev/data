@@ -42,3 +42,4 @@
 - [Remix-related resources](https://marbiano.dev/into-remix/the-vault)
 - [Remix | Technical Explanation](https://remix.run/docs/en/v1/pages/technical-explanation)
 - [Remix Component Data](https://github.com/kiliman/remix-component-data) - Proof of concept for showing how you can expose loader functions from your components to use in your routes.
+- [Remix for Next.js Developers (2021)](https://blog.plasmic.app/posts/remix-for-nextjs-developers/)

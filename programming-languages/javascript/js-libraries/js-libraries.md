@@ -144,6 +144,10 @@
 
 - [Eigen.js](https://github.com/BertrandBev/eigen-js) - Port of the Eigen C++ linear algebra library.
 
+## Crypto
+
+- [Elliptic](https://github.com/indutny/elliptic) - Fast Elliptic Curve Cryptography in plain JS.
+
 ## Other
 
 - [micro github](https://github.com/mxstbr/micro-github) - Tiny microservice that makes adding authentication with GitHub to your application easy.

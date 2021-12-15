@@ -423,3 +423,4 @@ all: unset
 - [Right-to-left Styling in CSS](https://rtlstyling.com/posts/rtl-styling)
 - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/) - When you use eight values specifying border-radius in CSS, you can build organic looking shapes. ([Code](https://github.com/9elements/fancy-border-radius))
 - [Wide variety of animations done using only CSS](https://github.com/Afif13/CSS-Collection)
+- [Pico.css](https://picocss.com/) - Minimal CSS Framework for semantic HTML. ([Code](https://github.com/picocss/pico)) ([HN](https://news.ycombinator.com/item?id=29559961))
