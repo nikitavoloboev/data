@@ -590,6 +590,7 @@
 - [Rank-BM25](https://github.com/dorianbrown/rank_bm25) - Collection of algorithms for querying a set of documents and returning the ones most relevant to the query.
 - [PyTables](https://github.com/PyTables/PyTables) - Hierarchical datasets in Python.
 - [PyTerrier](https://github.com/terrier-org/pyterrier) - Python framework for performing information retrieval experiments.
+- [Python-Multipart](https://github.com/andrew-d/python-multipart) - Streaming multipart parser for Python.
 
 ## Links
 

@@ -436,3 +436,5 @@
 - [Rust support in the Linux kernel (2021)](https://lkml.org/lkml/2021/12/6/461) ([HN](https://news.ycombinator.com/item?id=29485465))
 - [My First 5 Minutes On A Server; Or, Essential Security for Linux Servers (2013)](https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/)
 - [linuxbundles](https://github.com/mudler/linuxbundles) - Standalone, local-runnable binaries of popular linux distributions.
+- [Drgn: How the Linux kernel team at Facebook debugs the kernel at scale (2021)](https://developers.facebook.com/blog/post/2021/12/09/drgn-how-linux-kernel-team-meta-debugs-kernel-scale/) ([HN](https://news.ycombinator.com/item?id=29537594))
+- [Getting to know memblock (2021)](https://insecuremode.com/post/2021/12/14/getting-to-know-memblock.html)

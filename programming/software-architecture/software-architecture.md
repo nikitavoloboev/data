@@ -181,3 +181,5 @@ I love the idea of [building truly offline first software where backend failing 
 - [Cache warming at Netflix: Leveraging EBS for moving petabytes of data (2021)](https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3) ([HN](https://news.ycombinator.com/item?id=29388588))
 - [System Design Mock Interview: Design TikTok ft. Google TPM (2021)](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
 - [Amazon System Design Interview: Design Parking Garage (2021)](https://www.youtube.com/watch?v=NtMvNh0WFVM)
+- [Event Sourcing Explained (2020)](https://abdullin.com/video/event-sourcing/)
+- [Widget Driven Development (2021)](https://alexei.me/blog/widget-driven-development/) ([HN](https://news.ycombinator.com/item?id=29551123))

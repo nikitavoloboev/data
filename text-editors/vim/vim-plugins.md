@@ -273,3 +273,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim.
 - [From init.vim to init.lua (2021)](https://www.notonlycode.org/neovim-lua-config/)
 - [lsp-command](https://github.com/ii14/lsp-command) - Command interface for neovim LSP.
+- [dep](https://github.com/chiyadev/dep) - Versatile, declarative and correct neovim package manager in lua. ([Why I wrote my own package manager](https://chiya.dev/posts/2021-11-27-why-package-manager))

@@ -93,3 +93,4 @@
 - [Rovel Discord List](https://discord.rovelstars.com/) - Ultimate Discord List for Emojis, Users, Servers & Bots. ([Code](https://github.com/rovelstars/discord-list))
 - [python-discord-webhook](https://github.com/lovvskillz/python-discord-webhook) - Execute discord webhooks.
 - [Awesome Discord](https://github.com/jacc/awesome-discord)
+- [The Best Discord Bots for Your Server (2021)](https://www.wired.com/story/best-discord-bots/)

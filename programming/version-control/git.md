@@ -93,6 +93,9 @@ git submodule update
 
 # Set PGP key for Git globally. <key> = fingerprint w/o spaces
 git config --global user.signingkey <key>
+
+# Clone git repo without history (much faster)
+git clone [REPO] --depth 1
 ```
 
 ```bash
@@ -451,3 +454,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Soft Serve](https://github.com/charmbracelet/soft-serve) - Tasty, self-hosted Git server for the command line.
 - [git-chain](https://github.com/dashed/git-chain) - Tool for rebasing a chain of local git branches.
 - [qit](https://github.com/queer/qit) - Overly opinionated git tooling.
+- [commitlog](https://github.com/barelyhuman/commitlog) - Generate Changelogs from Commits (CLI).

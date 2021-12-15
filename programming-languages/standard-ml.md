@@ -26,3 +26,4 @@
 - [Getting started with Standard ML](https://www.reddit.com/r/sml/comments/qyy2gs/getting_started_with_standard_ml/)
 - [sml-server](https://github.com/diku-dk/sml-server) - Web server infrastructure for Standard ML.
 - [sml-parseq](https://github.com/shwestrick/sml-parseq) - Standard ML library for parallel sequences.
+- [MPL](https://github.com/MPLLang/mpl) - MaPLe compiler for Parallel ML.

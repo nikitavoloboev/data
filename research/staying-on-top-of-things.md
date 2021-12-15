@@ -226,3 +226,4 @@ And these Discord servers:
 - [Ask HN: Whatever happened to exploring the internet? (2021)](https://news.ycombinator.com/item?id=28976069)
 - [HN Best Comments](https://news.ycombinator.com/bestcomments)
 - [Ask HN: What do you read for general knowledge? (2021)](https://news.ycombinator.com/item?id=29535977)
+- [N: News site that provides world updates only when relevant](https://legiblenews.com/) ([HN](https://news.ycombinator.com/item?id=29551686))

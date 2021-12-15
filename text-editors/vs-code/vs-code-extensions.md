@@ -244,6 +244,7 @@ Below is a list of extensions I use.
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [Stylelint](https://stylelint.io/).
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
 - [Twind Intellisense](https://github.com/itsMapleLeaf/vscode-twind) - VSCode extension for twind.
+- [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules) - Extension for CSS Modules. ([Code](https://github.com/clinyong/vscode-css-modules))
 
 ## ReasonML
 
@@ -457,3 +458,4 @@ Below is a list of extensions I use.
 - [Ask HN: What extensions/packs of VS Code are must for web/developers to install? (2021)](https://news.ycombinator.com/item?id=29278370)
 - [Opinionated list of essential VS Code extensions (2021)](https://importthis.tech/an-opinionated-list-of-essential-vs-code-extensions) ([Reddit](https://www.reddit.com/r/vscode/comments/qy2hfu/what_vs_code_extensions_do_you_use_heres_my_list/))
 - [vscode-ext](https://github.com/CodeWithSwastik/vscode-ext) - Create VSCode Extensions with python. ([Docs](https://vscode-ext.readthedocs.io/en/latest/))
+- [VSCodeThemes](https://vscodethemes.com/) - Preview Visual Studio Code Themes.

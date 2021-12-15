@@ -54,3 +54,4 @@ Cardano appears to be a [project that didn't meet its goals](https://twitter.com
 - [Awesome Plutus](https://github.com/mlabs-haskell/awesome-plutus)
 - [Cardano Serialization Lib](https://github.com/Emurgo/cardano-serialization-lib) - Library for serialization & deserialization of data structures used in Cardano's Haskell implementation of Shelley along with useful utility functions.
 - [cardano-base](https://github.com/input-output-hk/cardano-base) - Code used throughout the Cardano eco-system.
+- [Oura](https://github.com/txpipe/oura) - Tail of Cardano.

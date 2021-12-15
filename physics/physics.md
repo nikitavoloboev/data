@@ -266,3 +266,4 @@
 - [What Impossible Meant to Richard Feynman (2021)](https://nautil.us/issue/108/change/what-impossible-meant-to-richard-feynman) ([HN](https://news.ycombinator.com/item?id=29392021))
 - [The Mystery of Snowflakes (2021)](https://www.youtube.com/watch?v=ao2Jfm35XeE)
 - [Gravitational waves should permanently distort space-time (2021)](https://www.quantamagazine.org/gravitational-waves-should-permanently-distort-space-time-20211208/) ([HN](https://news.ycombinator.com/item?id=29485803))
+- [Oxford Physics Interview (2021)](https://www.youtube.com/watch?v=_A65Xdo6Wog)

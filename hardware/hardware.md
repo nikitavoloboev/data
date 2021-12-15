@@ -264,3 +264,4 @@
 - [Cello](https://github.com/CIDARLAB/cello) - Genetic circuit design automation.
 - [Made To Spec: The Coming Age Of Prototyping As A Service (2021)](https://hackaday.com/2021/12/08/made-to-spec-the-coming-age-of-prototyping-as-a-service/)
 - [C64 OS: make a Commodore 64 feel fast and useful](http://c64os.com/) ([HN](https://news.ycombinator.com/item?id=29513318))
+- [Braun Audio](https://braun-audio.com/en-GB/) ([Tweet](https://twitter.com/jdsimcoe/status/1469023755867283459))

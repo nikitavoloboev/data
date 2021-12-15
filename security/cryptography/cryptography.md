@@ -146,5 +146,6 @@
 - [Jasmin](https://github.com/jasmin-lang/jasmin) - Workbench for high-assurance and high-speed cryptography. ([Wiki](https://github.com/jasmin-lang/jasmin/wiki))
 - [An Illustrated Guide to Elliptic Curve Cryptography Validation (2021)](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/) ([HN](https://news.ycombinator.com/item?id=29397243))
 - [starkex-lib](https://github.com/dydxprotocol/starkex-lib) - Cryptographic functions for dYdX.
-- [Kryptology](https://github.com/coinbase/kryptology) - Coinbase's advanced cryptography library.
+- [Kryptology](https://github.com/coinbase/kryptology) - Coinbase's advanced cryptography library. ([Article](https://blog.coinbase.com/meet-kryptology-coinbases-open-source-cryptography-library-b5f22854f3f7)) ([HN](https://news.ycombinator.com/item?id=29545399))
 - [NCC Group’s Cryptopals Guided Tour (2021)](https://research.nccgroup.com/2021/12/10/announcing-ncc-groups-cryptopals-guided-tour/) ([HN](https://news.ycombinator.com/item?id=29510624))
+- [WASI Cryptography APIs](https://github.com/WebAssembly/wasi-crypto)

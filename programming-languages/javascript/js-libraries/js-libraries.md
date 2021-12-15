@@ -700,7 +700,7 @@
 - [NPM](https://www.npmjs.com) - Node package manager registry.
 - [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio)
 - [Awesome XState](https://github.com/darrylhebbes/awesome_xstate)
-- [Moiva.io](https://moiva.io/) - Measure and compare JavaScript libraries side by side.
+- [Moiva.io](https://moiva.io/) - Measure and compare JavaScript libraries side by side. ([Code](https://github.com/aantipov/moiva))
 - [Scarf](https://about.scarf.sh/) - Installation analytics for your npm package. ([Code](https://github.com/scarf-sh/scarf-js))
 - [npmrank](https://github.com/anvaka/npmrank) - Computes various graph metrics for npm dependencies.
 - [UNPKG](https://unpkg.com/) - Fast, global content delivery network for everything on npm. ([Code](https://github.com/mjackson/unpkg))

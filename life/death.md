@@ -29,6 +29,7 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Seems clear that the central project of the post religious west is a complete denial of death. Sending the elderly away, plastic surgery, health food, eternal teenage infantilism— all of it in service of denying that death could possibly come to our lives.](https://twitter.com/WillManidis/status/1439611051734097920)
 - [I want to be remembered as a good friend.](https://twitter.com/maccaw/status/1432199519865872388)
 - [Living is what happens when you stop worrying about dying.](https://news.ycombinator.com/item?id=28659276)
+- [A man who understands the Tao in the morning can die contentedly in the evening.](https://twitter.com/AlanWattsDaily/status/711716375903993856)
 
 ## Links
 

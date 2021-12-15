@@ -74,3 +74,4 @@
 - [PiDRAM: A Holistic End-to-end FPGA-based Framework for Processing-in-DRAM (2021)](https://arxiv.org/abs/2111.00082) ([Code](https://github.com/CMU-SAFARI/PiDRAM))
 - [Retrocomputing with Clash: Haskell for FPGA Hardware Design](https://unsafeperform.io/retroclash/) ([HN](https://news.ycombinator.com/item?id=29313350))
 - [Quicklogic FPGA Toolchain](https://github.com/QuickLogic-Corp/quicklogic-fpga-toolchain) - Open Source FPGA toolchain and documentation for QuickLogic devices and eFPGA IP.
+- [FPGA Design Elements](http://fpgacpu.ca/fpga/) - Self-contained online book containing a library of FPGA design elements and related coding/design guides. ([Code](https://github.com/laforest/FPGADesignElements))

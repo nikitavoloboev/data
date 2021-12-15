@@ -555,3 +555,4 @@
 - [Kubernetes Cloudflare Sync](https://github.com/calebdoxsey/kubernetes-cloudflare-sync) - Run in your Kubernetes Cluster on GKE and sync DNS records on Cloudflare with your nodes IPs.
 - [Knative Docs](https://knative.dev/docs/) ([Code](https://github.com/knative/docs))
 - [CSI NFS driver](https://github.com/kubernetes-csi/csi-driver-nfs) - Allows Kubernetes to use NFS CSI volume on Linux node.
+- [simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook) - Aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible.

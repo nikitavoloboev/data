@@ -47,3 +47,4 @@
 - [ElastAlert 2](https://github.com/jertel/elastalert2) - Standalone software tool for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch and OpenSearch.
 - [Zinc](https://github.com/prabhatsharma/zinc) - Search engine that does full text indexing. Lightweight alternative to elasticsearch and runs in less than 100 MB of RAM.
 - [ElasticSearch with Scala and Akka (2015)](http://chris-zen.github.io/software/2015/05/10/elasticsearch-with-scala-and-akka.html)
+- [Appbase.io](https://www.appbase.io/) - Elasticsearch supercharged.

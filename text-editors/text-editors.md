@@ -64,6 +64,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Zee](https://github.com/mcobzarenco/zee) - Modern text editor for the terminal written in Rust.
 - [Glyph](https://github.com/zackradisic/glyph) - Personal code editor built with Rust + OpenGL.
 - [freja](https://github.com/saikyun/freja) - Self-modifiable text editor implemented in Janet.
+- [Lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. ([HN](https://news.ycombinator.com/item?id=29549173)) ([Reddit](https://www.reddit.com/r/rust/comments/rg3k9o/lightningfast_and_powerful_code_editor_written_in/))
 
 ## Web
 
@@ -96,6 +97,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative text editor, self-hosted, no database required. ([Web](https://rustpad.io/)) ([HN](https://news.ycombinator.com/item?id=27408326))
 - [ProseMirror + React + TypeScript example editor](https://github.com/TeemuKoivisto/prosemirror-react-typescript-example)
 - [deepnotes-editor](https://github.com/mukeshsoni/deepnotes-editor) - Workflowy like editor built with draft-js.
+- [Nib](https://github.com/nib-edit/nib) - Wysiwyg / Text editor components built using React and Prosemirror. ([Web](http://www.nibedit.com/index.html))
 
 ## Links
 

@@ -43,3 +43,4 @@
 - [Cypress terminal report](https://github.com/archfz/cypress-terminal-report) - Better terminal and file output for cypress test logs.
 - [Next Cypress Dashboard](https://next-cypress-dashboard.vercel.app/home) - Open source alternative for the Cypress Dashboard. ([Code](https://github.com/umidbekk/next-cypress-dashboard))
 - [Using Cypress to test everything](https://github.com/riccardogiorato/cypress-for-everything)
+- [cypress-data-session](htmntps://github.com/bahmutov/ocypress-data-session) - Cypress command for flexible test data setup.

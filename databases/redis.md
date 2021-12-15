@@ -97,3 +97,4 @@
 - [Redis Analysis - Part 1: Threading model (2021)](https://romange.com/2021/12/09/redis-analysis-part-1-threading-model/)
 - [A prelude to analysis of Redis memory-store (2021)](https://romange.com/2021/11/28/a-prelude-to-analysis-of-redis-memory-store/)
 - [Rebuilding Redis in Ruby](https://redis.pjam.me/)
+- [RedFI](https://github.com/openfip/redfi) - Redis Fault-Injection Proxy. Test the resiliency of your application against Redis' failures.

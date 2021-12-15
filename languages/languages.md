@@ -53,3 +53,4 @@
 - [Learning with Texts](https://learningwithtexts.com/) - Free translation software.
 - [Trunk](https://github.com/theiceshelf/trunk) - Tool for learning new languages. It is inspired by Learning With Texts.
 - [DictPress](https://github.com/knadh/dictmaker) - Stand-alone, single-binary server application for building and publishing dictionary websites.
+- [Help Is This Arabic?](https://isthatarabic.com/) ([HN](https://news.ycombinator.com/item?id=29544990))

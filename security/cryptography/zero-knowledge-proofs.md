@@ -53,3 +53,5 @@
 - [PLONK](https://github.com/rust-zkp/ark-plonk) - Pure Rust PLONK implementation using arkworks as a backend.
 - [Understanding Zero-knowledge proofs through illustrated examples (2019)](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99) ([HN](https://news.ycombinator.com/item?id=29419206))
 - [libsnark](https://github.com/scipr-lab/libsnark) - C++ library for zkSNARK proofs.
+- [arkworks-gadgets](https://github.com/webb-tools/arkworks-gadgets) - Zero-knowledge gadgets for blockchain applications.
+- [CirC](https://github.com/circify/circ) - Compiling high-level languages for SMT, zero-knowledge proofs, and more.

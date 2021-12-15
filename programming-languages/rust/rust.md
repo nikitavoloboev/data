@@ -641,3 +641,5 @@
 - [Rust Error Handling (2021)](https://www.unwoundstack.com/blog/rust-error-handling.html) ([Reddit](https://www.reddit.com/r/rust/comments/rf353c/yet_another_post_on_rust_error_handling/))
 - [The Taxonomy of Pointers (2021)](https://mcyoung.xyz/2021/05/24/ptr-taxonomy/)
 - [Move Constructors in Rust: Is it possible? (2021)](https://mcyoung.xyz/2021/04/26/move-ctors/)
+- [Refactoring to Rust Book (2021)](https://www.manning.com/books/refactoring-to-rust) ([Code](https://github.com/lily-mara/refactoring-to-rust))
+- [Bitmapper's Companion - zine/book about bitmap drawing algorithms and math with code examples in Rust](https://github.com/epilys/bitmappers-companion)

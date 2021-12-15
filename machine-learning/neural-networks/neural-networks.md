@@ -257,3 +257,4 @@
 - [Transformers from Scratch (2019)](http://peterbloem.nl/blog/transformers)
 - [Transformers from Scratch (2021)](https://e2eml.school/transformers.html) ([HN](https://news.ycombinator.com/item?id=29315107))
 - [General and Scalable Parallelization for Neural Networks (2021)](https://ai.googleblog.com/2021/12/general-and-scalable-parallelization.html)
+- [8 Types of Activation Functions in Neural Networks (2021)](https://thehackweekly.com/8-most-popular-types-of-activation-functions-in-neural-networks/)

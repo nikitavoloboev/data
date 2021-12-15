@@ -459,6 +459,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [How I wrote my book](https://www.kevinwmcconnell.com/writing/how-i-wrote-my-book)
 - [BookStash](https://bookstash.io/) - Ideas from Top Books in 3m or less.
 - [Books.jl](https://github.com/rikhuijzer/Books.jl) - Create books with Julia. ([Template](https://github.com/JuliaBooks/BookTemplate)) ([Web](https://booktemplate.huijzer.xyz/))
-- [Recommended Photography Books](https://www.reddit.com/r/photography/wiki/index#wiki_recommended_photography_books)
-- [What book helped you most with photography? (2021)](https://www.reddit.com/r/photography/comments/rdt2hx/what_one_book_on_photography_has_helped_you_the/)
-- [Photography Reddit Wiki](https://www.reddit.com/r/photography/wiki/index)
+- [How to Write a Technical Book (2021)](https://cnr.sh/essays/how-to-write-a-technical-book)

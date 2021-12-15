@@ -14,6 +14,7 @@
 ## CLI
 
 - [decline](https://github.com/bkirwi/decline) - Composable command-line parser for Scala.
+- [zio-cli](https://github.com/zio/zio-cli) - Rapidly build powerful command-line applications powered by ZIO.
 
 ## FP
 

@@ -197,3 +197,4 @@
 - [Some obscure C features (2019)](https://multun.net/obscure-c-features.html) ([Lobsters](https://lobste.rs/s/p0vejb/some_obscure_c_features))
 - [Writing a register based VM in less than 125 lines of C code (2021)](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c) ([HN](https://news.ycombinator.com/item?id=29492183))
 - [Ogma](https://github.com/nasa/ogma) - Tool to facilitate the integration of safe runtime monitors into other systems. Extends Copilot, a high-level runtime verification framework that generates hard real-time C99 code.
+- [Type-Safe Printf For C](https://github.com/moehriegitt/vastringify) ([HN](https://news.ycombinator.com/item?id=29528571))

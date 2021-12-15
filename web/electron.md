@@ -4,6 +4,10 @@
 
 - [Twizzle](https://github.com/kitze/twizzle) - Desktop app for Twitter DM & composing tweets from the menubar.
 
+## Notes
+
+- [Simplest way to add auto-updating to Electron app is to create an empty public GitHub repo, and use update-electron-app. Publish new builds with GitHub releases.](https://twitter.com/maccaw/status/1469182489180708865)
+
 ## Links
 
 - [Defeating Electron](https://medium.com/@felixrieseberg/defeating-electron-e1464d075528)

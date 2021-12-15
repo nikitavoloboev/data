@@ -206,6 +206,7 @@
 - [Dunai](https://github.com/ivanperez-keera/dunai) - Classic FRP, Arrowized FRP, Reactive Programming, and Stream Programming, all via Monadic Stream Functions.
 - [order](https://github.com/emilypi/order) - Exploring order-theory in Haskell.
 - [replace-megaparsec](https://github.com/jamesdbrock/replace-megaparsec) - Stream editing with Haskell Megaparsec parsers.
+- [Oath](https://github.com/fumieval/oath) - Composable Concurrent Computation Done Right.
 
 ## Notes
 

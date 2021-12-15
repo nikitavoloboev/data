@@ -246,3 +246,4 @@
 - [MiniTorch](https://github.com/minitorch/minitorch) - DIY teaching library for machine learning engineers who wish to learn about the internal concepts underlying deep learning systems.
 - [TorchRecipes](https://github.com/facebookresearch/recipes) - Train machine learning models with a couple of lines of code.
 - [DABS](https://github.com/alextamkin/dabs) - Domain-Agnostic Benchmark for Self-Supervised Learning.
+- [apricot](https://github.com/jmschrei/apricot) - Implements submodular optimization for the purpose of selecting subsets of massive data sets to train machine learning models quickly.

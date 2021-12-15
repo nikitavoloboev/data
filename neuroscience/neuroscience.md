@@ -98,6 +98,7 @@
 - [Mapping the Human Brain (2021)](https://www.youtube.com/watch?v=T8yfZ4JhlbY)
 - [Neurokernel](http://neurokernel.github.io/) - Python framework for developing models of the fruit fly brain and executing them on multiple NVIDIA GPUs. ([Code](https://github.com/neurokernel/neurokernel))
 - [On Path Integration of Grid Cells: Group Representation and Isotropic Scaling (2021)](https://arxiv.org/abs/2006.10259) ([Code](https://github.com/ruiqigao/grid-cell-path))
+- [MIT: The Human Brain (2019)](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-13-the-human-brain-spring-2019/)
 
 ## Images
 

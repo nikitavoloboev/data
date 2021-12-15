@@ -18,3 +18,4 @@
 - [Hamsters.js](https://github.com/austinksmith/Hamsters.js) - 100% Vanilla Javascript Multithreading & Parallel Execution Library. ([Web](https://hamsters.io/))
 - [promise-worker](https://github.com/nolanlawson/promise-worker) - Promise-based messaging for Web Workers and Service Workers.
 - [Service Worker Launch Event](https://github.com/WICG/sw-launch)
+- [Adapting caching to your needs - Unpacking the Workbox (2021)](https://www.youtube.com/watch?v=BO9fplbCTuQ)

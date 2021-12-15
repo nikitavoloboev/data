@@ -116,3 +116,4 @@
 - [Tailwind TS Generator](https://github.com/mathieutu/tailwind-ts) - Generate Tailwind type from your own configuration.
 - [Tailwind CSS v3.0 (2021)](https://tailwindcss.com/blog/tailwindcss-v3) ([HN](https://news.ycombinator.com/item?id=29501110)) ([Tweet](https://twitter.com/tailwindcss/status/1469011535569821702))
 - [What's new in Tailwind CSS v3.0? (2021)](https://www.youtube.com/watch?v=mSC6GwizOag)
+- [tailwindui-crawler](https://github.com/kiliman/tailwindui-crawler) - Will crawl the tailwindui.com website and download all the components to the ./output folder.

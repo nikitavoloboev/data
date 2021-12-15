@@ -5,6 +5,7 @@
 ## OSS Blitz apps
 
 - [Meme generator for Notion](https://github.com/justjake/memegentino) ([Web](https://jitl.notion.site/jitl/Memegentino-a88d462ab4d7482c870b1120d4dc49d5))
+- [Kalle](https://github.com/kalle-app/kalle) - CalDav Scheduling Tool.
 
 ## Links
 

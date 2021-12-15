@@ -118,3 +118,5 @@
 - [Dart - Explore income and wealth inequality around the world](https://dart.lisdatacenter.org/)
 - [A Brief History on Economic Theory (aka no one ever knew what was going on) (2021)](https://www.youtube.com/watch?v=LJ4or1OCdH0)
 - [Every Country's Top Export and Import (2021)](https://businessfinancing.co.uk/top-export-and-import/)
+- [Exploring Economics](https://www.exploring-economics.org/en/) - Open access, e-learning platform on pluralist economics.
+- [The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy by Stephanie Kelton (2020)](https://www.goodreads.com/en/book/show/45731395)

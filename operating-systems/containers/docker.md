@@ -168,3 +168,5 @@
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [docker-companion](https://github.com/mudler/docker-companion) - Squash and unpack Docker images, in Go.
 - [duuh](https://github.com/philpep/duuh) - Aims to build docker images with unattended upgrades, i.e. with fixables CVEs fixed.
+- [Ofelia](https://github.com/mcuadros/ofelia) - Docker job scheduler (aka. crontab for docker).
+- [Create docker image on Apple Silicon M1 Mac (2021)](https://lakhan.me/blog/create-docker-image-on-apple-silicon-m1-mac)

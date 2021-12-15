@@ -151,3 +151,4 @@
 - [svelte-previous](https://github.com/bryanmylee/svelte-previous) - Svelte stores that remember previous values.
 - [Build an App with SvelteKit and Tailwind CSS (2021)](https://www.youtube.com/watch?v=YipaPr4Aex8)
 - [The many meanings of $ in Svelte (2021)](https://geoffrich.net/posts/svelte-$-meanings/) ([Reddit](https://www.reddit.com/r/sveltejs/comments/rfi89x/the_many_meanings_of_in_svelte/))
+- [The Future of Svelte (Interview with Rich Harris) (2021)](https://www.youtube.com/watch?v=uQntFkK8Z54)

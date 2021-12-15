@@ -73,3 +73,4 @@
 - [P2P file system of cortex full node](https://github.com/CortexFoundation/torrentfs)
 - [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - Simple, robust, BitTorrent DHT implementation.
 - [Decentralized, Mutable, Serverless Torrent Swarm Websites](https://github.com/publiusfederalist/federalist) ([HN](https://news.ycombinator.com/item?id=29513547))
+- [Tox](https://github.com/tox-rs/tox) - Implementation of toxcore in Rust. P2P, distributed, encrypted, easy to use DHT-based network.

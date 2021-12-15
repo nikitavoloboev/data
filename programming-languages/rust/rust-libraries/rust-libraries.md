@@ -141,6 +141,7 @@
 - [Tuix](https://github.com/geom3trik/tuix) - Cross-platform GUI toolkit written in Rust.
 - [Elvis](https://github.com/clearloop/elvis) - WASM UI library.
 - [egui-gizmo](https://github.com/urholaukkarinen/egui-gizmo) - 3d transformation gizmo built on top of the egui library.
+- [VIZIA](https://github.com/geom3trik/VIZIA) - Declarative GUI library written in Rust.
 
 ## DB
 
@@ -1226,6 +1227,8 @@
 - [typed-arena](https://github.com/SimonSapin/rust-typed-arena) - Fast (but limited) allocation arena for values of a single type.
 - [rust-coroutines](https://github.com/losfair/rust-coroutines) - 'Native' stackful coroutine library for Rust.
 - [nom_locate](https://github.com/fflorent/nom_locate) - Special input type for nom to locate tokens.
+- [libsecp256k1](https://github.com/paritytech/libsecp256k1) - Pure Rust Implementation of secp256k1.
+- [daachorse](https://github.com/legalforce-research/daachorse) - Fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
 
 ## Cargo Plugins
 
@@ -1341,3 +1344,4 @@
 - [image-rs](https://github.com/image-rs) - Image libraries for Rust.
 - [Whack-a-Dep](https://github.com/diem/whackadep) - Managing Rust dependencies via a dashboard.
 - [Universe](https://github.com/rvolosatovs/universe) - Centralized documentation for Rust crates Roma uses.
+- [Linking to a private repo in Cargo.toml](https://gist.github.com/kestein/87d8bb9cef187c0d02d733138a0a4454)

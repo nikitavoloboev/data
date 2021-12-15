@@ -353,3 +353,4 @@
 - [Testing Linux packages on GitHub Actions (2021)](https://carlosbecker.com/posts/linux-pkgs-github-actions/)
 - [GitHub Actions Badge](https://actions-badge.atrox.dev/) - Shields.io Badge for your GitHub Actions. ([Code](https://github.com/Atrox/github-actions-badge))
 - [Keyless signing with GitHub Actions](https://github.com/mattmoor/zero-friction-actions)
+- [Run server as systemd process & automate deployment with github actions (2021)](https://lakhan.me/blog/automate-server-deployment)

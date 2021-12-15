@@ -142,6 +142,7 @@
 - [react-use-measure](https://github.com/pmndrs/react-use-measure) - Utility to measure view bounds.
 - [usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript. ([Docs](https://usehooks-ts.com/))
 - [react-script-hook](https://github.com/hupe1980/react-script-hook) - React hook to dynamically load an external script and know when its loaded.
+- [useFilter](https://github.com/promise-learning/useFilter) - React hook to filter large amount of data using Web Worker. ([Article](https://lakhan.me/blog/use-filter))
 
 ## Code
 

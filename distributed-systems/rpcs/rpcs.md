@@ -39,3 +39,5 @@
 - [OpenRPC Generator](https://github.com/open-rpc/generator) - Multi-Component & Multi-Language Generators for OpenRPC.
 - [OCaml Cap'n Proto RPC library](https://github.com/mirage/capnp-rpc)
 - [OpenRPC Typings](https://github.com/open-rpc/typings) - Tool to produce language-specific typings given an OpenRPC document.
+- [hRPC](https://github.com/harmony-development/hrpc) - Simple RPC system using protocol buffers over HTTP and WebSockets.
+- [hrpc-rs](https://github.com/harmony-development/hrpc-rs) - Implementation of hRPC in Rust.

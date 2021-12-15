@@ -98,6 +98,7 @@ Here are few more things I liked, design wise.
 - [Raycast](https://raycast.com/)
 - [Work Notes](https://worknotes.co.uk/)
 - [Aleo](https://aleo.org/)
+- [Turborepo](https://turborepo.org/)
 - [Stacks](https://www.stacks.co/)
 - [Logic Magazine](https://logicmag.io/)
 - [Dithering](https://dithering.fm/)

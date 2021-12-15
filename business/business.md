@@ -125,3 +125,4 @@ Learning to build [startups](startups/startups.md).
 - [What acquisition (one company buying another) would make the most sense to you? (2021)](https://twitter.com/patrick_oshag/status/1457060774178918406)
 - [Elon Musk on why tech patents are not great](https://twitter.com/manishm/status/1462179343925346307)
 - [Firstbase](https://www.firstbase.io/) - Start your business in the US from anywhere. ([Twitter](https://twitter.com/tryfirstbase))
+- [I started a paper website business (2021)](https://daily.tinyprojects.dev/paper_website) ([HN](https://news.ycombinator.com/item?id=29550812))

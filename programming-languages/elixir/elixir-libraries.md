@@ -32,6 +32,7 @@
 - [Excellent Migrations](https://github.com/Artur-Sulej/excellent_migrations) - Detect potentially dangerous or destructive operations in your database migrations.
 - [Params](https://github.com/vic/params) - Easily define parameter structure and validate/cast with Ecto.Schema.
 - [Postgrex](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
+- [CubDB](https://github.com/lucaong/cubdb) - Embedded key-value database written in the Elixir language.
 
 ## Test
 

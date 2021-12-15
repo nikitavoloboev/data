@@ -144,3 +144,4 @@
 - [xyr](https://github.com/alash3al/xyr) - Lightweight, simple, and powerful data ETL platform that helps you to query available data sources using SQL.
 - [go-mysql-server](https://github.com/dolthub/go-mysql-server) - SQL engine which parses standard SQL (based on MySQL syntax) and executes queries on data sources of your choice.
 - [List of MySQL joins types](https://twitter.com/DataScienceDojo/status/1461122230394540038)
+- [SQL: The difference between WHERE and HAVING](https://sql-bits.com/the-difference-between-where-and-having/) ([HN](https://news.ycombinator.com/item?id=29550683))

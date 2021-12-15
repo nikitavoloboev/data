@@ -6,6 +6,7 @@
 - [Use different colours for the console output to make the log output easier to reason about](https://twitter.com/dasdom/status/1221043873553641473)
 - [Xcode can show the view frames in a running app](https://twitter.com/dasdom/status/1254858574322372609)
 - [Wondering about an unfamiliar Xcode build setting? Try option+double clicking on it in the target editor for a descriptive tooltip.](https://twitter.com/aikoniv/status/795311416030806016)
+- [Don't install Xcode from app store if you need it to work.](https://twitter.com/krzyzanowskim/status/1470538530824859650)
 
 ## Links
 

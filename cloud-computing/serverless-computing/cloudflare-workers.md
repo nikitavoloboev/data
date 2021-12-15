@@ -114,3 +114,5 @@
 - [wasm-service](https://github.com/stevelr/wasm-service) - Base library for serverless WASM on Cloudflare Workers.
 - [wasm-service-oauth](https://github.com/stevelr/wasm-service-oauth) - Use OAuth with Cloudflare Workers.
 - [Build Data-Driven Applications on the Edge with Workers and Workers KV (2021)](https://egghead.io/courses/build-data-driven-applications-on-the-edge-with-workers-and-workers-kv-4932f3ea)
+- [Sunder](https://github.com/SunderJS/sunder) - Minimal server-side framework for building APIs and websites on Cloudflare Workers. ([Docs](https://sunderjs.com/docs/))
+- [ViteFlare](https://github.com/alloc/viteflare) - Cloudflare workers meet Vite plugins.

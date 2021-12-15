@@ -199,3 +199,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Golang SMTP mock](https://github.com/mocktools/go-smtp-mock) - Mimic SMTP server behavior for your test environment and even more.
 - [Re-thinking electronic mail (2021)](https://liw.fi/rethinking-email/)
 - [Receivex](https://github.com/maartenvanvliet/receivex) - Elixir package to deal with inbound email webhooks.
+- [Front](https://front.com/) - Customer Communication Platform using Email. ([Twitter](https://twitter.com/FrontHQ)) ([Tweet](https://twitter.com/thomaspaulmann/status/1470501397212893197))

@@ -421,3 +421,5 @@ all: unset
 - [zss](https://github.com/chwayne/zss) - CSS layout engine and document renderer, written in Zig.
 - [Standardizing Focus Styles With CSS Custom Properties (2021)](https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/)
 - [Right-to-left Styling in CSS](https://rtlstyling.com/posts/rtl-styling)
+- [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/) - When you use eight values specifying border-radius in CSS, you can build organic looking shapes. ([Code](https://github.com/9elements/fancy-border-radius))
+- [Wide variety of animations done using only CSS](https://github.com/Afif13/CSS-Collection)

@@ -95,3 +95,5 @@
 - [Relation Prediction as an Auxiliary Training Objective for Knowledge Graph Completion (2021)](https://github.com/facebookresearch/ssl-relation-prediction)
 - [wikitextprocessor](https://github.com/tatuylonen/wikitextprocessor) - Python package for WikiMedia dump processing (Wiktionary, Wikipedia etc).
 - [How to Build a Knowledge Graph with Neo4J and Transformers (2021)](https://walidamamou.medium.com/how-to-build-a-knowledge-graph-with-neo4j-and-transformers-72b9471d6969)
+- [RaiseWikibase](https://github.com/UB-Mannheim/RaiseWikibase) - Knowledge graph construction: Fast inserts into a Wikibase instance.
+- [Wikibase knowledge graphs](https://github.com/shigapov/wikibase-knowledge-graphs)

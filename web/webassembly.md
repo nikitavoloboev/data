@@ -228,3 +228,5 @@
 - [wasm2native](https://github.com/vshymanskyy/wasm2native) - Turn WASI apps into native executables.
 - [Interface Types Proposal for WebAssembly](https://github.com/WebAssembly/interface-types)
 - [Rust WASM Virtual Machine](https://github.com/dusk-network/rusk-vm)
+- [ES Module Integration Proposal for WebAssembly](https://github.com/WebAssembly/esm-integration)
+- [Chasm](https://github.com/ColinEberhardt/chasm) - Simple compile-to-WebAssembly language. ([Web](https://colineberhardt.github.io/chasm/))

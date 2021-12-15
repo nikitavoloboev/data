@@ -50,6 +50,7 @@
 - [simdjzon](https://github.com/travisstaloch/simdjzon) - Port of simdjson, a high performance JSON parser.
 - [zig-nodejs-example](https://github.com/staltz/zig-nodejs-example) - Node.js Native Module written in Zig.
 - [sokol-zig](https://github.com/floooh/sokol-zig) - Auto-generated Zig bindings for the sokol headers.
+- [known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 
 ## Links
 

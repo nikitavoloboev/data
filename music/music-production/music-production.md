@@ -62,7 +62,7 @@
 - [LiveCore](https://github.com/ul/livecore) - Hardcore livecoding system for realtime audio synth.
 - [tuna](https://github.com/Theodeus/tuna) - Audio effects library for the Web Audio API.
 - [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software. ([Web](https://lmms.io/))
-- [Ardour](https://ardour.org/) - Digital audio workstation.
+- [Ardour](https://ardour.org/) - Digital audio workstation. ([Manual](https://manual.ardour.org/toc/)) ([Manual Code](https://github.com/Ardour/manual))
 - [orenolisp](https://github.com/illiichi/orenolisp) - Structural clojure editor for producing sound using Overtone.
 - [WadJS](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 - [JamRTC](https://github.com/lminiero/jamrtc) - WebRTC for Live Musicians. ([HN](https://news.ycombinator.com/item?id=26505059))
@@ -122,6 +122,7 @@
 - [NoiseCraft](https://github.com/maximecb/noisecraft) - Browser-based visual programming language and platform for sound synthesis. ([Web](https://noisecraft.app/)) ([Article](https://pointersgonewild.com/2021/12/05/noisecraft-a-browser-based-visual-programming-language-for-sound-music/))
 - [Spaghettis](https://github.com/Spaghettis/Spaghettis) - Environment for audio analysis, synthesis, and processing, with a rich set of multimedia capabilities. ([Docs](http://msp.ucsd.edu/Pd_documentation/index.htm))
 - [Hero Studio](https://github.com/chris-zen/hero-studio) - Music studio similar to Ableton Live or Bitwig Studio.
+- [Muse](https://muse.hackclub.dev/) - Simple language for Jamming embedded in a JavaScript environment. ([Code](https://github.com/hackclub/muse))
 
 ## Inspiration
 

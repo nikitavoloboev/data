@@ -169,3 +169,6 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Robert Adams: Beauty in Photography (2005)](https://aperture.org/books/beauty-in-photography/)
 - [Retrato: A Guide to Portrait Photography](https://gitpuller.gumroad.com/l/retratobook)
 - [How To Make Your PHOTOS Look Cinematic [Photography & Lightroom Tutorial] (2021)](https://www.youtube.com/watch?v=3JcneOqr8uI)
+- [Recommended Photography Books](https://www.reddit.com/r/photography/wiki/index#wiki_recommended_photography_books)
+- [What book helped you most with photography? (2021)](https://www.reddit.com/r/photography/comments/rdt2hx/what_one_book_on_photography_has_helped_you_the/)
+- [Photography Reddit Wiki](https://www.reddit.com/r/photography/wiki/index)

@@ -6,6 +6,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 
 ## Nice OSS iOS Swift apps
 
+- [Lil Wallet](https://github.com/jordansinger/lil-wallet)
 - [isowords](https://github.com/pointfreeco/isowords) - Word search game on a vanishing cube, built in SwiftUI and the Composable Architecture. ([Web](https://www.isowords.xyz/))
 - [Spotify Daily](https://github.com/ThasianX/SpotifyDaily) - Open-Source Spotify App. ([HN](https://news.ycombinator.com/item?id=21867728))
 - [Tap It](https://github.com/nikitamounier/tapit-app) - Enables two people to seamlessly share their social media information by simply placing one screen on top of the other horizontally.

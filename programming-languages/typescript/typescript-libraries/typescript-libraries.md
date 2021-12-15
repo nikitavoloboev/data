@@ -1,6 +1,6 @@
 # TypeScript libraries
 
-[ts-lib-starter](https://github.com/egoist/ts-lib-starter) is nice template for TS libraries.
+I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my TS libraries which I then publish with [np](https://github.com/sindresorhus/np).
 
 ## DB
 
@@ -64,6 +64,7 @@
 - [Mostly ORMless](https://github.com/jawj/mostly-ormless) - Ergonomic Postgres from TypeScript.
 - [Unionize](https://github.com/pelotom/unionize) - Boilerplate-free functional sum types in TypeScript.
 - [zod](https://github.com/vriad/zod) - Typescript-first schema validation with static type inference.
+- [myzod](https://github.com/davidmdm/myzod) - Schema Validation with typescript type inference.
 - [utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases.
 - [fetcher-ts](https://github.com/YBogomolov/fetcher-ts) - Type-safe wrapper around Fetch API.
 - [gretchen](https://github.com/truework/gretchen) - Making fetch happen in TypeScript.
@@ -232,6 +233,7 @@
 - [Foy](https://github.com/zaaack/foy) - Simple, light-weight, type-friendly and modern task runner for general purpose.
 - [fp-ts-std](https://github.com/samhh/fp-ts-std) - Missing pseudo-standard library for fp-ts. Supports both modern browsers and Node.
 - [deep-proxy](https://github.com/qiwi/deep-proxy) - Deep proxy implementation for TypeScript.
+- [ts-runtime](https://github.com/fabiandev/ts-runtime) - Runtime Type Checks for TypeScript. ([Playground](https://fabiandev.github.io/ts-runtime/))
 
 ## Links
 

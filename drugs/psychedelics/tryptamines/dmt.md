@@ -78,3 +78,5 @@
 - [How ayahuasca changed my perspective (2021)](https://pmoncada.medium.com/on-god-or-something-or-anything-how-ayahuasca-changed-my-perspective-on-life-e000c89b4b4d) ([HN](https://news.ycombinator.com/item?id=27026108))
 - [DMT vs. 5-MeO-DMT: 12 Key Differences (2021)](https://www.youtube.com/watch?v=bwwZP-Bm7kI) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/nq0421/dmt_vs_5meodmt_12_key_differences/))
 - [DMT-Nexus](https://www.dmt-nexus.me/)
+- [QT's DMT Extraction Guide](https://www.erowid.org/chemicals/dmt/extraction_guide1/dmt_extraction_guide1.shtml) ([Reddit](https://www.reddit.com/r/researchchemicals/comments/rgboh9/which_rc_gives_the_most_similar_effects_to/))
+- [Noman's DMT tek](https://wiki.dmt-nexus.me/Noman%27s_tek)

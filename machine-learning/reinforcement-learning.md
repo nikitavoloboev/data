@@ -291,3 +291,5 @@
 - [MARL-Baselines3](https://github.com/Rohan138/marl-baselines3) - Multi-Agent Reinforcement Learning with Stable-Baselines3.
 - [ALF](https://github.com/HorizonRobotics/alf) - Reinforcement learning framework emphasizing on the flexibility and easiness of implementing complex algorithms involving many different components.
 - [On the Practical Consistency of Meta-Reinforcement Learning Algorithms (2021)](https://arxiv.org/abs/2112.00478) ([Tweet](https://twitter.com/luisa_zintgraf/status/1470349932972421124))
+- [Awesome Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+- [Balloon Learning Environment](https://github.com/google/balloon-learning-environment) - Flying stratospheric balloons with deep reinforcement learning.

@@ -480,3 +480,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Why Beauty Matters (2009)](https://topdocumentaryfilms.com/why-beauty-matters/)
 - [Kuula](https://kuula.co/about) - 360 Virtual Tours made easy. Create. Edit. Share.
 - [Generate dream like prompts](https://app.wombo.art/)
+- [Kintsugi – Art of Repair](https://traditionalkyoto.com/culture/kintsugi/) ([HN](https://news.ycombinator.com/item?id=29543670))

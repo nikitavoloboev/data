@@ -304,3 +304,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Blockchain, the amazing solution for almost nothing (2020)](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86714927310-8f431cae) ([Reddit](https://www.reddit.com/r/programming/comments/raorbk/blockchain_the_amazing_solution_for_almost/)) ([HN](https://news.ycombinator.com/item?id=24843037))
 - [RChain](https://github.com/rchain/rchain) - Smart contract platform using CBC-Casper proof of stake + rholang for concurrent execution. ([Web](https://rchain.coop/))
 - [NXTP](https://github.com/connext/nxtp) - Lightweight protocol for generalized crosschain transfers.
+- [Archetype language](https://github.com/edukera/archetype-lang) - DSL to describe blockchain business processes.

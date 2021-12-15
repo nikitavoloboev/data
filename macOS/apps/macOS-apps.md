@@ -161,6 +161,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Keystroke Pro](https://ixeau.com/keystroke-pro/) - Visualize Your Keypresses.
 - [Pulse](https://kean.blog/pulse/home) - Network Inspector and Logger for Apple Platforms. ([Twitter](https://twitter.com/PulseLogger))
 - [Keka](https://www.keka.io/en/) - macOS file archiver. ([Twitter](https://twitter.com/kekaosx))
+- [kindaVim](https://github.com/godbout/kindaVim.theapp) - Vim moves for the whole macOS. in input fields and more.
 
 ## Links
 

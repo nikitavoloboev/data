@@ -174,3 +174,5 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: Long-form info-dense videos on YouTube you would recommend to anyone? (2021)](https://news.ycombinator.com/item?id=29523638)
 - [Ask HN: What programming tutorial/course/article/blog would you like to see? (2021)](https://news.ycombinator.com/item?id=29528305)
 - [Ask HN: What practical skills do you recommend? (2021)](https://news.ycombinator.com/item?id=29535592)
+- [100 things Dan learned working on React team (2021)](https://twitter.com/dan_abramov/status/1470613731071696896)
+- [Lecture Speedrun](https://zznidar.github.io/lecture-speedrun/) - Speed up silent portions of a lecture video/audio on-the-fly. ([Code](https://github.com/zznidar/lecture-speedrun))

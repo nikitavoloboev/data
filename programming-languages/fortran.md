@@ -1,5 +1,9 @@
 # [Fortran](https://fortran-lang.org/)
 
+## Notes
+
+- [Fortran is one of the best languages for pure brute force number crunching.](https://twitter.com/Sydonahi/status/1470535771337625601)
+
 ## Links
 
 - [Fortran Package Manager](https://github.com/fortran-lang/fpm) ([HN](https://news.ycombinator.com/item?id=26977499))

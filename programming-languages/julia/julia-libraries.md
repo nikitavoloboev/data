@@ -388,6 +388,7 @@
 - [ProfileSVG](https://github.com/kimikage/ProfileSVG.jl) - Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
 - [GraphViz.jl](https://github.com/JuliaGraphs/GraphViz.jl) - Julia Binding to the GraphViz library.
 - [Interact](https://github.com/JuliaGizmos/Interact.jl) - Interactive widgets to play with your Julia code.
+- [Coverage.jl](https://github.com/JuliaCI/Coverage.jl) - Take Julia code coverage and memory allocation results, do useful things with them.
 
 ## Links
 

@@ -619,3 +619,5 @@
 - [Learning Gradient Fields for Shape Generation (2020)](http://www.cs.cornell.edu/~ruojin/ShapeGF/) ([Code](https://github.com/RuojinCai/ShapeGF))
 - [Making Friends with Machine Learning - YouTube](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 - [Schedule - NeurIPS 2021](https://deepmind.events/events/neurips2021/resources)
+- [The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization (2021)](https://arxiv.org/abs/2110.07732) ([Code](https://github.com/RobertCsordas/ndr))
+- [Momentum Residual Neural Networks (2021)](https://arxiv.org/abs/2102.07870) ([Code](https://github.com/michaelsdr/momentumnet))

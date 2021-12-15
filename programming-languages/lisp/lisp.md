@@ -159,3 +159,4 @@
 - [Neil: Bohemian Rhapsody for Five Channels (2021)](https://good-place.org/posts/rhapsody.html)
 - [Symbolics Virtual Lisp Machine (C version)](https://github.com/hanshuebner/vlm)
 - [Jsonnet Language Server](https://github.com/grafana/jsonnet-language-server)
+- [rust_lisp](https://github.com/brundonsmith/rust_lisp) - Rust-embeddable Lisp, with support for interop with native Rust functions.

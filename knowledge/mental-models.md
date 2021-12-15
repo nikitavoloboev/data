@@ -25,3 +25,4 @@
 - [Thomas Sowell, a lesson in critical thinking (1995)](https://www.youtube.com/watch?v=waEc4YbQQX0)
 - [Guide to my favorite mental models (2021)](https://twitter.com/gregisenberg/status/1398664821139255298)
 - [Ask HN: What mental models do you use everyday?](https://news.ycombinator.com/item?id=29297594)
+- [Opt Out of Cynicism](https://dimitarsimeonov.com/2021/12/12/opt-out-of-cynicism) ([HN](https://news.ycombinator.com/item?id=29534714))

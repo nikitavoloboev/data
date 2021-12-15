@@ -500,3 +500,4 @@
 - [Mindful Code Reviews (2021)](https://max.engineer/mindful-code-reviews) ([HN](https://news.ycombinator.com/item?id=29396515))
 - [The Memory Image Pattern (2021)](https://axelsvensson.com/memory-image-pattern/)
 - [Creating a better flamegraph visualization (2021)](https://pythonspeed.com/articles/a-better-flamegraph/) ([Lobsters](https://lobste.rs/s/hnfrxl/creating_better_flamegraph))
+- [What does a Principal Software Engineer do? (2021)](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28) ([HN](https://news.ycombinator.com/item?id=29550607))

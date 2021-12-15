@@ -128,3 +128,4 @@
 - [go-mysql-sqlite-server](https://github.com/mergestat/go-mysql-sqlite-server) - Implementation of a SQLite backend for go-mysql-server.
 - [dblite](https://github.com/mergestat/dblite) - SQLite extension for accessing other SQL databases, in SQLite.
 - [SQLite – The Session Extension](https://www.sqlite.org/sessionintro.html) ([HN](https://news.ycombinator.com/item?id=29543275))
+- [SQLite driver for Go database/sql](https://github.com/tailscale/sqlite)

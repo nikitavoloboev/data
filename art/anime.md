@@ -22,3 +22,4 @@
 - [Anime Downloader](https://github.com/anime-dl/anime-downloader) - Simple but powerful anime downloader and streamer.
 - [Nakama](https://nakama.social/) - Social network for anime fans. ([Code](https://github.com/nicolasparada/nakama))
 - [Animeflix](https://github.com/chirag-droid/animeflix) - Anime discovery, streaming site made with NextJs and TailwindCSS.
+- [Anime recommendations (2021)](https://twitter.com/dan_abramov/status/1470493215371505670)

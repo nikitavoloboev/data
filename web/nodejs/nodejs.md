@@ -1,7 +1,5 @@
 # [Node.js](https://nodejs.org/en/)
 
-I use [np](https://github.com/sindresorhus/np) to publish packages.
-
 ## Notes
 
 - [I use package.json scripts as entrypoints to custom JS scripts. Make is a build tool, not a meta-shellscript format.](https://news.ycombinator.com/item?id=26978206)
@@ -289,3 +287,5 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [ultrafetch](https://github.com/natemoo-re/ultrafetch) - node-fetch backed with an RFC-7234 compliant filesystem cache.
 - [gpkg](https://github.com/Schniz/gpkg) - Global Node binary manager written in Rust.
 - [How to deploy a NodeJS application using Fly.io (2021)](https://www.thisdot.co/blog/how-to-deploy-a-nodejs-application-using-fly-io)
+- [dats](https://github.com/immobiliare/dats) - Minimalistic zero-dependencies UDP/TCP statsd client for Node.js.
+- [WebAPI](https://github.com/astro-community/webapi) - Use Web APIs for Node.

@@ -11,6 +11,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Jan-Krzysztof Duda](https://www.youtube.com/results?search_query=Jan-Krzysztof+Duda)
 - [Morozevich, Alexander](https://ratings.fide.com/profile/4116992)
 - [Vladimir Kramnik](https://www.chess.com/players/vladimir-kramnik)
+- [Alireza Firouzja](https://www.chess.com/member/firouzja2003)
 
 ## Favorite games
 

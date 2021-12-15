@@ -312,3 +312,5 @@
 - [FlowTorch](https://github.com/facebookincubator/flowtorch) - PyTorch library for learning and sampling from complex probability distributions using a class of methods called Normalizing Flows.
 - [Attention is all you need implemented from scratch in PyTorch](https://twitter.com/abhi1thakur/status/1470406419786698761)
 - [Winners of the 2021 PyTorch Annual Hackathon](https://pytorch.org/blog/announcing-the-winners-of-the-2021-pytorch-annual-hackathon/)
+- [PyTorch vs TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/) ([HN](https://news.ycombinator.com/item?id=29552665))
+- [Perceiver IO](https://github.com/krasserm/perceiver-io) - PyTorch implementation of DeepMind's Perceiver IO with PyTorch Lightning scripts for distributed training.

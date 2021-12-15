@@ -181,3 +181,5 @@
 - [DeepMind releases massive protein structure database (2021)](https://www.freethink.com/science/protein-structure)
 - [ATOM3D: Tasks on Molecules in Three Dimensions](https://www.atom3d.ai/) ([Code](https://github.com/drorlab/atom3d))
 - [3D Infomax improves GNNs for Molecular Property Prediction (2021)](https://arxiv.org/abs/2110.04126) ([Code](https://github.com/HannesStark/3DInfomax))
+- [Regenerated crustacean limbs are precise replicas (2021)](https://www.biorxiv.org/content/10.1101/2021.12.13.472338v1) ([Tweet](https://twitter.com/michalis_averof/status/1470816451422470156))
+- [Dockerfiles and documentation on tools for public health bioinformatics](https://github.com/StaPH-B/docker-builds)

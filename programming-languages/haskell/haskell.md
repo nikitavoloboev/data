@@ -28,6 +28,7 @@
 
 ## Links
 
+- [Edward Kmett - Why Haskell? (2021)](https://www.youtube.com/watch?v=kNIcbsyu4zI)
 - [A Gentle Introduction to Haskell (2000)](https://www.haskell.org/tutorial/)
 - [CIS 194: Introduction to Haskell (2016)](https://www.seas.upenn.edu/~cis194/fall16/) ([Code](https://github.com/byorgey/haskell-course))
 - [Haskell Programming Book](https://haskellbook.com/)

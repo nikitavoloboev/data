@@ -16,3 +16,4 @@
 - [Things I Learned Reading Webkit’s UA Stylesheet (2021)](https://blog.jim-nielsen.com/2021/things-i-learned-reading-webkits-ua-stylesheet/) ([HN](https://news.ycombinator.com/item?id=27883675))
 - [What needs to be added to WebKit? (2021)](https://twitter.com/jensimmons/status/1418920407642656775)
 - [WebKit: Introducing the layer based SVG engine (2021)](https://blogs.igalia.com/nzimmermann/posts/2021-10-29-layer-based-svg-engine/) ([HN](https://news.ycombinator.com/item?id=29067036))
+- [WebKit's proposal for animations (screen updates) with a variable frame rate](https://github.com/WebKit/explainers/tree/main/animation-frame-rate) ([Tweet](https://twitter.com/grorgwork/status/1470776139991982087))

@@ -47,3 +47,5 @@
 - [The Father of the Digital Synthesizer](https://priceonomics.com/the-father-of-the-digital-synthesizer/)
 - [Yamaha DX7 chip reverse-engineering, part 4: how algorithms are implemented (2021)](http://www.righto.com/2021/12/yamaha-dx7-chip-reverse-engineering.html) ([HN](https://news.ycombinator.com/item?id=29515087))
 - [teoperator](https://github.com/schollz/teoperator) - Make OP-1 and OP-Z drum and synth patches from any sound. ([Web](https://teoperator.com/))
+- [tune](https://github.com/Woyten/tune) - Make xenharmonic music and create synthesizer tuning files for microtonal scales.
+- [OxiSynth](https://github.com/PolyMeilex/OxiSynth) - Pure rust soundfont synthesizer.

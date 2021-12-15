@@ -275,3 +275,4 @@
 - [graphql-workers](https://github.com/maraisr/graphql-workers) - graphql-workers puts graphql on the edge.
 - [graphql-tag](https://github.com/apollographql/graphql-tag) - JavaScript template literal tag that parses GraphQL queries.
 - [Adobe Experience Manager's GraphQL APIs](https://github.com/adobe/aem-guides-wknd-graphql)
+- [graphql-tools (Rust)](https://github.com/dotansimha/graphql-tools-rs) - Implements tooling around GraphQL for Rust libraries.

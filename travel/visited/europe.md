@@ -38,3 +38,4 @@
 - [Which cities in Europe have the most interesting geography/topography? (2021)](https://www.reddit.com/r/AskEurope/comments/ra5mco/which_cities_in_europe_have_the_most_interesting/)
 - [Europe's middle class has been strong for 2 decades while America's was squeezed by an 'explosion of debt,' (2021)](https://www.businessinsider.com/middle-class-europe-america-debt-world-inequality-report-housing-picketty-2021-12) ([Reddit](https://www.reddit.com/r/Economics/comments/rbljhi/europes_middle_class_has_been_strong_for_2/))
 - [EU Commission to open source software](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6649) ([HN](https://news.ycombinator.com/item?id=29509902))
+- [FIRE in Europe is more difficult in EU over US (2021)](https://www.reddit.com/r/EuropeFIRE/comments/rg5rcb/the_us_vs_eu_debate_fire_in_europe_is_more/)

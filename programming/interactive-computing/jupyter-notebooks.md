@@ -161,3 +161,5 @@
 - [kubespawner](https://github.com/jupyterhub/kubespawner) - Enables JupyterHub to spawn single-user notebook servers on a Kubernetes cluster.
 - [Zero to JupyterHub with Kubernetes](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks.
+- [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications.
+- [repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images.

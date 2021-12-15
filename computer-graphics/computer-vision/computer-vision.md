@@ -487,3 +487,4 @@
 - [GFPGAN](https://github.com/TencentARC/GFPGAN) - Developing Practical Algorithms for Real-world Face Restoration.
 - [Awesome Video Stabilization](https://github.com/yaochih/awesome-video-stabilization)
 - [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo (2021)](https://apchenstu.github.io/mvsnerf/) ([Code](https://github.com/apchenstu/mvsnerf))
+- [Tracking People with 3D Representations (2021)](http://people.eecs.berkeley.edu/~jathushan/T3DP/) ([Code](https://github.com/brjathu/T3DP))

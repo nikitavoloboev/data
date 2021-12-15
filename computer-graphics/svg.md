@@ -119,3 +119,5 @@
 - [foosvg](https://github.com/AldaronLau/foosvg) - SVG rendering library in pure Rust.
 - [Cubic Bézier: From Math to Motion (2021)](https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion/) ([HN](https://news.ycombinator.com/item?id=29513750))
 - [svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module.
+- [svg](https://github.com/rustyoz/svg) - Go library for parsing svg files.
+- [three-plotter-renderer](https://github.com/neurofuzzy/three-plotter-renderer) - SVG renderer with occlusion for plotters and SVG editors.

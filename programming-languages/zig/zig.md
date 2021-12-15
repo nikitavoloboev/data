@@ -80,3 +80,4 @@
 - [The ZLD Linker (2021)](https://media.handmade-seattle.com/zld/)
 - [Interfacing with Zig, a BDFL-run project (2021)](https://kristoff.it/blog/interfacing-with-zig/)
 - [Nix flake for Zig](https://github.com/arqv/zig-overlay)
+- [Zig Compiler Internals](https://github.com/mikdusan/zig.internals/blob/master/internals.rst)

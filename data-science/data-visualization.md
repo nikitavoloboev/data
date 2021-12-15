@@ -126,3 +126,4 @@
 - [Data Commons](https://datacommons.org/) - Aggregates data from a wide range of sources into a unified database to make it more accessible and useful.
 - [The Gamma](https://thegamma.net/) - Tools for open data-driven storytelling. ([GitHub](https://github.com/the-gamma))
 - [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) - Visualization of the CapsNet layers to better understand how it works.
+- [Gender Equality Creative Platform — Story](https://www.pentagram.com/work/gender-equality-creative-platform/story) - Branded data visualization system helps tell human stories about gender equality. ([Tweet](https://twitter.com/giorgialupi/status/1470444914840326146))

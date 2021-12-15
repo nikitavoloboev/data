@@ -56,6 +56,7 @@
 - [acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
 - [uiprogress](https://github.com/gosuri/uiprogress) - Go library to render progress bars in terminal applications.
 - [GOCUI](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+- [cli](https://github.com/mkideal/cli) - Package for building command line app with go.
 
 ## Test
 
@@ -1159,6 +1160,8 @@
 - [raft](https://github.com/shaj13/raft) - Go library that provides a simple, clean, and idiomatic implementation of the Raft consensus protocol.
 - [go-discover](https://github.com/hashicorp/go-discover) - Go library and command line tool to discover ip addresses of nodes in cloud environments based on meta information like tags provided by the environment.
 - [thriftrw-go](https://github.com/thriftrw/thriftrw-go) - Thrift encoding code generator and library for Go.
+- [go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go.
+- [golang-set](https://github.com/deckarep/golang-set) - Simple set type for the Go language.
 
 ## Links
 
