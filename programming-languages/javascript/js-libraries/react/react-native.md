@@ -162,3 +162,4 @@
 - [Primer React Native SDK](https://github.com/primer-io/primer-sdk-react-native)
 - [Build a News App with React Native, GraphQL and TypeScript (2021)](https://egghead.io/courses/build-a-news-app-with-react-native-graphql-and-typescript-08814691)
 - [Sticky Item](https://github.com/gorhom/react-native-sticky-item) - Interactive sticky item inspired by Facebook Stories.
+- [react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia. ([Docs](https://shopify.github.io/react-native-skia/docs/getting-started/installation))
