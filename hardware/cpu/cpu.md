@@ -127,3 +127,4 @@
 - [What can you do with an ISA specification? (2021)](https://alastairreid.github.io/uses-for-isa-specs/)
 - [JDH-8](https://github.com/jdah/jdh-8) - Fully custom 8-bit minicomputer with a unique architecture.
 - [Performance Ninja Class](https://github.com/dendibakh/perf-ninja) - Online course where you can learn to find and fix low-level performance issues, for example CPU cache misses and branch mispredictions.
+- [Ask HN: Are we entering an ARM era? (2021)](https://news.ycombinator.com/item?id=29605828)

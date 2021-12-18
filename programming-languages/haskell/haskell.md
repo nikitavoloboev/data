@@ -294,7 +294,7 @@
 - [The Fixed Point: Recursion, Laziness, and Haskell's fix function (2021)](https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html)
 - [Understanding Haskell Features Through Their Desugaring (2020)](https://serokell.io/blog/haskell-to-core)
 - [Collection of Notes on GHC](https://ghc-compiler-notes.readthedocs.io/en/latest/) ([Code](https://github.com/myuon/ghc-compiler-notes))
-- [Wingman for Haskell](https://haskellwingman.dev/) - Focus on the important stuff; delegate the rest.
+- [Wingman for Haskell](https://haskellwingman.dev/) - Focus on the important stuff; delegate the rest. ([HN](https://news.ycombinator.com/item?id=29605708))
 - [Cabal2nix](https://github.com/NixOS/cabal2nix) - Generate Nix build instructions from a Cabal file.
 - [Past and Present of Haskell: Interview with Simon Peyton Jones (2021)](https://serokell.io/blog/past-and-present-of-haskell)
 - [Introduction to GUI programming in Haskell – Vladislav Zavialov (2020)](https://www.youtube.com/watch?v=k1aq8ikO-8Q)

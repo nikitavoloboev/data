@@ -281,3 +281,4 @@
 - [Introduction to fibers in c++ (2019)](https://romange.com/2018/12/15/introduction-to-fibers-in-c-/)
 - [The Evolutions of Lambdas in C++14, C++17 and C++20 (2021)](https://www.fluentcpp.com/2021/12/13/the-evolutions-of-lambdas-in-c14-c17-and-c20/) ([HN](https://news.ycombinator.com/item?id=29537660))
 - [BRiCk](https://github.com/bedrocksystems/BRiCk) - Formalization of C++ for verification purposes.
+- [Thread Safety in C++ and Rust (2021)](https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html) ([HN](https://news.ycombinator.com/item?id=29608552))

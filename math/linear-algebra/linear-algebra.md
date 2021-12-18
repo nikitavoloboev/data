@@ -61,3 +61,4 @@
 - [What is the inverse of a vector? (2021)](https://mattferraro.dev/posts/geometric-algebra) ([HN](https://news.ycombinator.com/item?id=29080360))
 - [Efficient matrix multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)
 - [Stable softmax for sparse matrices (2019)](http://peterbloem.nl/blog/stable-softmax)
+- [Matrix Multiplication Inches Closer To Mythic Goal (2021)](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/) ([HN](https://news.ycombinator.com/item?id=29601425))

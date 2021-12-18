@@ -176,3 +176,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: What practical skills do you recommend? (2021)](https://news.ycombinator.com/item?id=29535592)
 - [100 things Dan learned working on React team (2021)](https://twitter.com/dan_abramov/status/1470613731071696896)
 - [Lecture Speedrun](https://zznidar.github.io/lecture-speedrun/) - Speed up silent portions of a lecture video/audio on-the-fly. ([Code](https://github.com/zznidar/lecture-speedrun))
+- [Best books for professional effectiveness (2021)](https://news.ycombinator.com/item?id=29602228)

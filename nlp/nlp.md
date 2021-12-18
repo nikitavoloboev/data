@@ -423,3 +423,4 @@
 - [Improving Compositional Generalization with Latent Structure and Data Augmentation (2021)](https://arxiv.org/abs/2112.07610)
 - [PORORO](https://github.com/kakaobrain/pororo) - Platform Of neuRal mOdels for natuRal language prOcessing.
 - [PRIMER: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization (2021)](https://arxiv.org/abs/2110.08499) ([Code](https://github.com/allenai/PRIMER))
+- [To Understand Language Is to Understand Generalization (2021)](https://evjang.com/2021/12/17/lang-generalization.html) ([HN](https://news.ycombinator.com/item?id=29600510))

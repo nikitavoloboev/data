@@ -5,6 +5,7 @@
 - [Most cost-effective way (aka costs nothing) to get to work in the US is to get hired by a multinational Corp and after 1 year get an L visa and move to the US.](https://twitter.com/copyconstruct/status/1280953429527900160)
 - [US has exit tax when renouncing citizenship if net worth is $2m+ or high federal taxes or not compliant; easier to leave before triggering. If just leaving to live overseas, you still must file and pay USA subject to exclusions, treaties, credits, etc](https://twitter.com/nomadcapitalist/status/1454574254566019080)
 - [If the USA had a core KPI, it would be immigration. It has a monopoly on ambitious migrants—if that disappears, the product inevitably fails.](https://twitter.com/cpaik/status/1459534475042435083)
+- [Puerto Rico due to Act 60 decree allows you to pay no capital gains for 15 years, while keeping US citizenship.](https://www.reddit.com/r/fatFIRE/comments/rj6iju/moving_form_switzerland_to_the_beautiful_united/)
 
 ## Links
 

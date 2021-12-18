@@ -139,3 +139,4 @@
 - [Twitter Is About to Get Way Worse (2021)](https://bariweiss.substack.com/p/twitter-is-about-to-get-way-worse) ([Tweet](https://twitter.com/jordanbpeterson/status/1466132542571134982))
 - [Twitter Clone in Rust](https://github.com/evoxmusic/twitter-clone-rust)
 - [Twitter Query Language](https://gist.github.com/andyclarkemedia/3b4e062a45323138bd28ec52d80eb7b1)
+- [Twitter, the Intimacy Machine (2021)](https://ravenmagazine.org/magazine/twitter-the-intimacy-machine/)

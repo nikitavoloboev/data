@@ -646,3 +646,4 @@
 - [How Not to Learn Rust (2021)](https://dystroy.org/blog/how-not-to-learn-rust/) ([HN](https://news.ycombinator.com/item?id=29579146))
 - [A Beginner's Guide to Parsing in Rust (2021)](https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/) ([Lobsters](https://lobste.rs/s/1vv7xi/beginner_s_guide_parsing_rust))
 - [A brutally effective hash function in Rust (2021)](https://nnethercote.github.io/2021/12/08/a-brutally-effective-hash-function-in-rust.html) ([Lobsters](https://lobste.rs/s/rxmjfb/brutally_effective_hash_function_rust))
+- [Accurate mental model for Rust's reference types](https://docs.rs/dtolnay/0.0.9/dtolnay/macro._02__reference_types.html)

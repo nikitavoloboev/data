@@ -129,7 +129,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Chillhop Music](https://chillhop.com/) - Lofi hip hop and chill beats. ([YouTube](https://www.youtube.com/channel/UCOxqgCwgOqC2lMqC5PYz_Dg))
 - [What are your top three Jazz albums and why? (2021)](https://www.reddit.com/r/Jazz/comments/nniyfs/what_are_your_top_three_jazz_albums_and_why/)
 - [Nina](https://nina.market/) - Decentralized music distribution service. ([Litepaper](https://docs.nina.market/litepaper/))
-- [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python library that aims for democratizing automatic music transcription.
+- [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python library that aims for democratizing automatic music transcription. ([HN](https://news.ycombinator.com/item?id=29607587))
 - [Daft Punk Cafe](https://daftpunk.cafe/)
 - [gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.
 - [SomaFM](https://somafm.com/) - Commercial-free, Listener-supported Radio.

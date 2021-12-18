@@ -9,6 +9,7 @@
 - [Sequel](https://github.com/jeremyevans/sequel) - Database Toolkit for Ruby.
 - [BatchLoader](https://github.com/exAspArk/batch-loader) - Powerful tool for avoiding N+1 DB or HTTP queries.
 - [GitHub::DS](https://github.com/github/github-ds) - Collection of Ruby libraries for working with SQL on top of ActiveRecord's connection.
+- [Extralite](https://github.com/digital-fabric/extralite) - Fast Ruby gem for working with SQLite3 databases.
 
 ## Web
 
@@ -32,6 +33,7 @@
 - [Zhong](https://github.com/nickelser/zhong) - Useful, reliable distributed cron. Uses Redis to acquire exclusive locks on jobs, as well as recording when they last ran.
 - [unparser](https://github.com/mbj/unparser) - Turn Ruby AST into semantically equivalent Ruby source.
 - [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby. ([Web](https://sidekiq.org/))
+- [Polyphony](https://github.com/digital-fabric/polyphony) - Fine-Grained Concurrency for Ruby.
 
 ## Links
 
