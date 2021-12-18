@@ -131,6 +131,7 @@
 - [FS2](https://github.com/typelevel/fs2) - Compositional, streaming I/O library for Scala. ([Web](https://fs2.io/#/))
 - [Endless](https://github.com/endless4s/endless) - Scala library to describe event sourced entities using tagless-final algebras. ([Docs](https://endless4s.github.io/))
 - [Akka-Effect](https://github.com/evolution-gaming/akka-effect) - Cats-Effect & Akka interop.
+- [Woof](https://github.com/LEGO/woof) - Pure Scala logging library with no reflection.
 
 ## Links
 

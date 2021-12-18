@@ -652,4 +652,7 @@ if err != nil {
 - [Portscan](https://github.com/jboursiquot/portscan) - Port scanning examples to teach Go concurrency bounding.
 - [A Guide To Writing Logging Middleware in Go (2020)](https://blog.questionable.services/article/guide-logging-middleware-go/)
 - [HN: Go Replaces Interface{} with 'Any' (2021)](https://news.ycombinator.com/item?id=29557066)
-- [Go 1.18 Beta 1 is available, with generics (2021)](https://go.dev/blog/go1.18beta1) ([Lobsters](https://lobste.rs/s/ay9isn/go_1_18_beta_1_is_available_with_generics))
+- [Go 1.18 Beta 1 is available, with generics (2021)](https://go.dev/blog/go1.18beta1) ([Lobsters](https://lobste.rs/s/ay9isn/go_1_18_beta_1_is_available_with_generics)) ([HN](https://news.ycombinator.com/item?id=29564083))
+- [Trying Out Generics in Go (2021)](https://markphelps.me/posts/trying-out-generics-in-go/) ([HN](https://news.ycombinator.com/item?id=29581112))
+- [Why Go Getting Generics Will Not Change Idiomatic Go (2021)](http://www.jerf.org/iri/post/2955)
+- [In Go 1.18, generics are implemented through code specialization (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/Go18GenericsSpecialized)

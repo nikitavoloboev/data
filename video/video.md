@@ -285,7 +285,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [yt-dlc](https://github.com/blackjack4494/yt-dlc) - Media downloader and library for various sites.
 - [Kino](https://kinoweb.dev/) - Sample Video on demand (VOD) app to demonstrate media functionality in the context of a Progressive Web App. ([Code](https://github.com/GoogleChrome/kino))
 - [HLS Downloader](https://github.com/puemos/hls-downloader) - Capture and download HTTP Live streams (HLS) from your browser.
-- [Opal Camera](https://opalcamera.com/) - First professional web cam.
+- [Opal Camera](https://opalcamera.com/) - Professional web camera that helps you look better. ([HN](https://news.ycombinator.com/item?id=28463493))
 - [How Bo Burnham made INSIDE (2021)](https://www.youtube.com/watch?v=eZiSApqoI2g) ([Reddit](https://www.reddit.com/r/television/comments/pn4rlk/bo_burnham_wins_his_first_emmy_for_outstanding/))
 - [Open Video Downloader (youtube-dl-gui)](https://github.com/jely2002/youtube-dl-gui) - Cross-platform GUI for youtube-dl made in Electron and node.js. ([HN](https://news.ycombinator.com/item?id=28478603))
 - [FFmpeg to WebRTC](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from FFmpeg to WebRTC. ([HN](https://news.ycombinator.com/item?id=28614454))
@@ -310,3 +310,5 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Milk Video](https://app.milkvideo.com/focused-flow) - Turn webinars into shareable highlights.
 - [Tube Archivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server.
 - [Vidstack Elements](https://github.com/vidstack/elements) - Video player framework for the web.
+- [How to build large-scale end-to-end encrypted group video calls (2021)](https://signal.org/blog/how-to-build-encrypted-group-calls/) ([HN](https://news.ycombinator.com/item?id=29570938))
+- [Camo](https://reincubate.com/camo/) - Use your phone as a pro webcam.

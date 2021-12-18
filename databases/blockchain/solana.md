@@ -92,7 +92,7 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Solana App Scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp built on Solana.
 - [Solana Token Registry](https://github.com/solana-labs/token-list) - Package that allows application to query for list of tokens.
 - [Assert Balances](https://github.com/project-serum/assert-balances) - Safety hatch for aborting transactions with unexpected balance changes.
-- [WalletKit](https://github.com/GokiProtocol/walletkit) - React library that allows a Solana dApp to display a modal for connecting wallets.
+- [WalletKit](https://github.com/GokiProtocol/walletkit) - React library that allows a Solana dApp to display a modal for connecting wallets. ([Web](https://walletkit.goki.so/)) ([Twitter](https://twitter.com/GokiProtocol)) ([Tweet](https://twitter.com/0xGoki/status/1471167946412019716))
 - [use-solana](https://github.com/saber-hq/saber-common/tree/master/packages/use-solana) - Solana frontend library and TypeScript SDK.
 - [Sharding vs No Sharding fireside chat: NEAR Protocol & Solana (2019)](https://www.youtube.com/watch?v=ZyIxWutfZ-U)
 - [PsyOptions](https://psyoptions.io/) - American style options protocol built on the Solana blockchain. ([Docs](https://docs.psyoptions.io/)) ([Twitter](https://twitter.com/PsyOptions))
@@ -195,3 +195,7 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Solana Developer Resources](https://great-atmosphere-22a.notion.site/Solana-Developer-Resources-267371c95fae42d3ab608f3e4de9aa04)
 - [Solana account validations](https://twitter.com/simplyianm/status/1470206090864332806)
 - [Confidential Token Program](https://github.com/solana-labs/spl-zk-token) - Enables confidential (not anonymous) transfers of SPL Tokens.
+- [Chest](https://www.chest.fi/) - Passive Yield Booster DeFi protocol.
+- [Solana without Proof of History (2021)](https://notes.ethereum.org/@dankrad/BJywSZY9t)
+- [Port Finance Loan Liquidator](https://github.com/port-finance/liquidator)
+- [Apricot](https://app.apricot.one/) - Lending protocol on Solana. ([Twitter](https://twitter.com/ApricotFinance))

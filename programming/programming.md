@@ -501,3 +501,6 @@
 - [The Memory Image Pattern (2021)](https://axelsvensson.com/memory-image-pattern/)
 - [Creating a better flamegraph visualization (2021)](https://pythonspeed.com/articles/a-better-flamegraph/) ([Lobsters](https://lobste.rs/s/hnfrxl/creating_better_flamegraph))
 - [What does a Principal Software Engineer do? (2021)](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28) ([HN](https://news.ycombinator.com/item?id=29550607))
+- [Uncomfortable Truths in Software Engineering (2021)](https://buttondown.email/hillelwayne/archive/uncomfortable-truths-in-software-engineering/) ([HN](https://news.ycombinator.com/item?id=29564219)) ([Lobsters](https://lobste.rs/s/brl7ez/uncomfortable_truths_software))
+- [Ask HN: Are most of us developers lying about how much work we do? (2021)](https://news.ycombinator.com/item?id=29581125)
+- [Awesome Parallel Computing Resources](https://github.com/taskflow/awesome-parallel-computing)

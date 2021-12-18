@@ -25,6 +25,7 @@
 - [Haskell does not have return or statements, only expressions.](https://users.rust-lang.org/t/why-semicolons/25074/8)
   - It has do-notation, which resembles statements if you don’t squint too hard. But Haskell has very few syntactic elements, so there is no need to worry about disambiguating between e.g. a; [b].c and a[b].c like there is in Rust.
 - [All values are immutable and all functions are pure in Haskell, with the one exception of I/O monads.](https://users.rust-lang.org/t/why-semicolons/25074/9)
+- [Cabal works better with Nix and it's one less abstraction layer to debug](https://twitter.com/GabriellaG439/status/1471691584877912064)
 
 ## Links
 
@@ -354,3 +355,4 @@
 - [Demystifying the state monad](https://hugopeters.me/posts/13/)
 - [Functional in the wild: typeclasses](https://hugopeters.me/posts/12/)
 - [Getting acquainted with Lens (2020)](https://encodepanda.com/posts/2020-12-15-getting-acquainted-with-lens.html)
+- [Type-level sharing in Haskell, now (2021)](https://well-typed.com/blog/2021/12/type-level-sharing-now/) ([Reddit](https://www.reddit.com/r/haskell/comments/rieyxu/new_blog_post_typelevel_sharing_in_haskell_now/))

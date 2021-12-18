@@ -121,3 +121,4 @@
 - [Terraform State Mover](https://github.com/mbode/terraform-state-mover) - Helps refactoring terraform code by offering an interactive prompt for the terraform state mv command.
 - [How GitHub uses Terraform/Consul/Vault](https://www.hashicorp.com/case-studies/github)
 - [TerraHub](https://github.com/tfxor/terrahub) - Terraform Automation and Orchestration Tool.
+- [Terravalet](https://github.com/Pix4D/terravalet) - Tool to help with advanced, low-level Terraform operations.

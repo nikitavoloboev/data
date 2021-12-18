@@ -207,6 +207,7 @@
 - [order](https://github.com/emilypi/order) - Exploring order-theory in Haskell.
 - [replace-megaparsec](https://github.com/jamesdbrock/replace-megaparsec) - Stream editing with Haskell Megaparsec parsers.
 - [Oath](https://github.com/fumieval/oath) - Composable Concurrent Computation Done Right.
+- [sexpresso](https://github.com/archambaultv/sexpresso) - Flexible Haskell library for parsing and printing S-Expressions.
 
 ## Notes
 

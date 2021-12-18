@@ -19,3 +19,4 @@
 - [promise-worker](https://github.com/nolanlawson/promise-worker) - Promise-based messaging for Web Workers and Service Workers.
 - [Service Worker Launch Event](https://github.com/WICG/sw-launch)
 - [Adapting caching to your needs - Unpacking the Workbox (2021)](https://www.youtube.com/watch?v=BO9fplbCTuQ)
+- [msgr](https://github.com/sdgluck/msgr) - Makes communication between a client and service worker super easy.

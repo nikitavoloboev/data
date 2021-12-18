@@ -381,3 +381,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Генератор судебных документов](https://generaptor.ovdinfo.org/) - Документы для суда за 10 минут.
 - [Finversia](https://www.finversia.ru/news) - Финансовые новости, обзоры и аналитические статьи.
 - [РБК](https://www.rbc.ru/) - Новости дня в России и мире.
+- [List of influential Russian people](https://twitter.com/KevinRothrock/status/1471261826587443200)
+- [Малые города России, которые вас приятно удивили](https://twitter.com/arkhlikbez/status/1471265492740587521)
+- [Population Density Of Russia](https://www.reddit.com/r/MapPorn/comments/rg8hge/population_density_of_russia/)

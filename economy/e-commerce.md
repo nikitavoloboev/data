@@ -129,3 +129,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Centra](https://www.centra.com/) - Headless direct-to-consumer and digital wholesale eCommerce.
 - [Shopify’s vision for the future of commerce (2021)](https://overcast.fm/+HZUfgEat0)
 - [Nebulab](https://nebulab.com/) - Full-service eCommerce agency for disruptive brands. ([Playbook](https://playbook.nebulab.com/))
+- [Shopify Remix Tailwind](https://github.com/mcansh/shopify-remix-tailwindui)

@@ -67,3 +67,4 @@
 - [blog-pwa](https://github.com/justinribeiro/blog-pwa) - Combining Lit Web Components, Hugo, Service Worker, and Rollup into a progressive web app blog.
 - [auto-complete-element](https://github.com/github/auto-complete-element) - Auto-complete input values from server search results.
 - [snuggsi](https://github.com/devpunks/snuggsi) - Easy Custom Elements in ~1kB. ([Web](https://snuggsi.com/))
+- [Elements](https://github.com/muxinc/elements) - Custom elements for working with media in the browser that Just Work.

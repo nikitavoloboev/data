@@ -120,3 +120,4 @@
 - [Every Country's Top Export and Import (2021)](https://businessfinancing.co.uk/top-export-and-import/)
 - [Exploring Economics](https://www.exploring-economics.org/en/) - Open access, e-learning platform on pluralist economics.
 - [The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy by Stephanie Kelton (2020)](https://www.goodreads.com/en/book/show/45731395)
+- [Worker pay isn’t keeping up with inflation (2021)](https://www.axios.com/wages-inflation-economic-data-c912afdb-b950-4183-8283-50afff593576.html) ([HN](https://news.ycombinator.com/item?id=29588174))

@@ -68,3 +68,4 @@ Is logical theory of computable functions.
 - [Formalization of Typed and Untyped λ-Calculi in Coq and Agda2](https://github.com/pi8027/lambda-calculus)
 - [Foundations of Dawn: The Untyped Concatenative Calculus (2021)](https://www.dawn-lang.org/posts/foundations-ucc/)
 - [λProlog interpreter](https://github.com/mb64/simple-lambda-prolog)
+- [Simpler, Easier! How to write a simple dependent type checker](http://augustss.blogspot.com/2007/10/simpler-easier-in-recent-paper-simply.html)

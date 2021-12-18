@@ -81,3 +81,5 @@
 - [Interfacing with Zig, a BDFL-run project (2021)](https://kristoff.it/blog/interfacing-with-zig/)
 - [Nix flake for Zig](https://github.com/arqv/zig-overlay)
 - [Zig Compiler Internals](https://github.com/mikdusan/zig.internals/blob/master/internals.rst)
+- [Allocgate: Restructuring how allocators work in Zig (2021)](https://pithlessly.github.io/allocgate.html) ([HN](https://news.ycombinator.com/item?id=29571133))
+- [List of Zig Gamedev Projects](https://github.com/ValorZard/awesome-zig-gamedev)

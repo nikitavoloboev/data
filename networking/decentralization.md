@@ -129,3 +129,5 @@
 - [Web3 is Bullshit (2021)](https://www.stephendiehl.com/blog/web3-bullshit.html) ([Tweet](https://twitter.com/smdiehl/status/1467165516695539716)) ([HN](https://news.ycombinator.com/item?id=29442441))
 - [Is Web3 anything? (2021)](https://www.chris-granger.com/2021/12/09/is-web3-anything/) ([HN](https://news.ycombinator.com/item?id=29506914))
 - [What web3 projects are you most excited about (2021)](https://twitter.com/rrhoover/status/1469691069675847688)
+- [Web3 is going just great](https://web3isgoinggreat.com/) - Timeline of some of 2021's greatest hits in cryptocurrencies, NFTs, and other web3 projects. ([Code](https://github.com/molly/web3-is-going-great))
+- [The Web3 Fraud (2021)](https://www.usenix.org/publications/loginonline/web3-fraud) ([Tweet](https://twitter.com/ncweaver/status/1471668214480334851)) ([HN](https://news.ycombinator.com/item?id=29587469)) ([Lobsters](https://lobste.rs/s/wcggoi/web3_fraud))

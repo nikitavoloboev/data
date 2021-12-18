@@ -7,3 +7,4 @@
 - [Datav](https://github.com/savecost/datav) - Modern APM for metrics,traces and logs. Lightweight alternative to Grafana. ([Web](https://datav.io/))
 - [TNS Observability Demo](https://github.com/grafana/tns) - Simple three-tier demo application, fully instrumented with Prometheus, Jaeger and Loki logging.
 - [Grafana dashboards for efficient database monitoring](https://github.com/percona/grafana-dashboards)
+- [Grafyaml](https://pypi.org/project/grafyaml/) - Describe and configure Grafana dashboards with YAML.

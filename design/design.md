@@ -217,3 +217,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [The Essence of Software: Why Concepts Matter for Great Design (2021)](https://press.princeton.edu/books/hardcover/9780691225388/the-essence-of-software)
 - [Ask HN: Best self-starter resources to learn web design? (2021)](https://news.ycombinator.com/item?id=29428533)
 - [Inside Apple Park: first look at the design team shaping the future of tech (2021)](https://www.wallpaper.com/design/apple-park-behind-the-scenes-design-team-interview)
+- [James Dyson answers design questions from Twitter (2021)](https://www.youtube.com/watch?v=zFCFe38EIfE) ([HN](https://news.ycombinator.com/item?id=29564720))

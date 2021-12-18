@@ -59,3 +59,4 @@
 - [MLNotify](https://github.com/aporia-ai/mlnotify) - Add just 1 import line and MLNotify will let you know the second it's done.
 - [Build models like we build open-source software (2021)](https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html) ([HN](https://news.ycombinator.com/item?id=29487212))
 - [Deepchecks](https://github.com/deepchecks/deepchecks) - Python package for comprehensively validating your machine learning models and data with minimal effort.
+- [Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer) - Automatic ML model optimization tool.

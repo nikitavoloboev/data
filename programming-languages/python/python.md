@@ -404,3 +404,4 @@ for i, _ in enumerate(nums):
 - [pymemtrace](https://github.com/paulross/pymemtrace) - Python memory tracing.
 - [HTMX + Flask: Modern Python Web Apps, Hold the JavaScript](https://github.com/talkpython/htmx-python-course)
 - [It’s time to stop using Python 3.6 (2021)](https://pythonspeed.com/articles/stop-using-python-3.6/) ([Lobsters](https://lobste.rs/s/c5fu40/it_s_time_stop_using_python_3_6))
+- [shiv](https://github.com/linkedin/shiv) - Command line utility for building fully self-contained Python zipapps.

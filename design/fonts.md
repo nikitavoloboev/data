@@ -8,6 +8,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 
 - [Inter](https://github.com/rsms/inter) - Typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens. ([Web](https://rsms.me/inter/)) ([The story behind Inter](https://overcast.fm/+HZUeSpUyE)) ([HN](https://news.ycombinator.com/item?id=28009042))
 - [Anchor](https://processtypefoundry.com/fonts/anchor/) - Informal family of round display gothics, with a serious side. ([Anchor in use: Charm](https://processtypefoundry.com/blog/2021/10/anchor-in-use-charm/))
+- [Albra](https://www.myfonts.com/fonts/bum-bum-type/albra/)
 - [Sigurd](https://www.behance.net/gallery/127110261/Sigurd-Font-Family)
 - [Graphik](https://commercialtype.com/catalog/graphik)
 - [Filosofia](https://www.emigre.com/Fonts/Filosofia)
@@ -88,6 +89,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Outfit Fonts](https://github.com/Outfitio/Outfit-Fonts)
 - [Lora Fonts](https://github.com/cyrealtype/Lora-Cyrillic) - Well-balanced contemporary serif with roots in calligraphy.
 - [Chomsky](https://github.com/ctrlcctrlv/chomsky) - Font in the style of the New York Times masthead.
+- [National Park Typeface](https://nationalparktypeface.com/)
 
 ## Links
 

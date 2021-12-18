@@ -132,6 +132,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [A quickie: Axiom J (2021)](https://amelia.how/quick/axiom-j.html)
 - [Higher Theories and Monads (2021)](https://arxiv.org/abs/2106.02706)
 - [Polynomial Lens](https://github.com/BartoszMilewski/PolyLens/blob/main/PolyLens.pdf)
+- [An introduction to regular categories (2020)](https://arxiv.org/abs/2004.08964)
 
 ## Images
 

@@ -267,3 +267,4 @@
 - [The Mystery of Snowflakes (2021)](https://www.youtube.com/watch?v=ao2Jfm35XeE)
 - [Gravitational waves should permanently distort space-time (2021)](https://www.quantamagazine.org/gravitational-waves-should-permanently-distort-space-time-20211208/) ([HN](https://news.ycombinator.com/item?id=29485803))
 - [Oxford Physics Interview (2021)](https://www.youtube.com/watch?v=_A65Xdo6Wog)
+- [We all move at the Speed of Light (2018)](https://www.youtube.com/watch?v=au0QJYISe4c) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/rfe3e5/dmt_timelessness_and_traveling_at_the_speed_of/hohp3z6/?utm_source=reddit&utm_medium=web2x&context=3))

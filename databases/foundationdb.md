@@ -16,3 +16,4 @@
 - [FoundationDB NodeJS bindings](https://github.com/josephg/node-foundationdb)
 - [Building an object store with FoundationDB (2018)](https://fabianlindfors.se/blog/building-an-object-store-with-foundation-db/)
 - [FoundationDB Rust Client](https://github.com/foundationdb-rs/foundationdb-rs)
+- [High contention allocator for FoundationDB (2018)](https://activesphere.com/blog/2018/08/05/high-contention-allocator)

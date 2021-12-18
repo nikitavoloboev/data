@@ -190,3 +190,5 @@
 - [High-Performance Schemas in Clojure/Script with Malli 1/2 (2021)](https://www.metosin.fi/blog/high-performance-schemas-in-clojurescript-with-malli-1-2/)
 - [Understanding Clojure's Persistent Vectors (2013)](https://hypirion.com/musings/understanding-persistent-vector-pt-1) ([HN](https://news.ycombinator.com/item?id=29483316))
 - [Sublime ❤︎ Clojure (2021)](https://tonsky.me/blog/sublime-clojure/) ([HN](https://news.ycombinator.com/item?id=29549392))
+- [Clojure Macros and Metaprogramming](https://clojure-doc.github.io/articles/language/macros/)
+- [Microservices with Clojure (2018)](https://www.packtpub.com/product/microservices-with-clojure/9781788622240) ([Code](https://github.com/PacktPublishing/Microservices-with-Clojure))

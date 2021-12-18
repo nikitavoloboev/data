@@ -164,6 +164,7 @@ And these Discord servers:
 - [Artforum International](https://www.artforum.com/)
 - [Wallpaper](https://www.wallpaper.com/) - Design, interiors, architecture, fashion, art.
 - [The Public Domain Review](https://publicdomainreview.org/)
+- [Flaunt Magazine](https://flaunt.com/)
 
 ### Other
 

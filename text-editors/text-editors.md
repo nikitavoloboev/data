@@ -65,6 +65,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Glyph](https://github.com/zackradisic/glyph) - Personal code editor built with Rust + OpenGL.
 - [freja](https://github.com/saikyun/freja) - Self-modifiable text editor implemented in Janet.
 - [Lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. ([HN](https://news.ycombinator.com/item?id=29549173)) ([Reddit](https://www.reddit.com/r/rust/comments/rg3k9o/lightningfast_and_powerful_code_editor_written_in/))
+- [Zed](https://zed.dev/) - Lightning-fast, collaborative code editor written in Rust (Atom team). ([HN](https://news.ycombinator.com/item?id=29566960))
 
 ## Web
 

@@ -2,6 +2,10 @@
 
 [uvu](https://github.com/lukeed/uvu) seems like a nice alternative.
 
+## Notes
+
+- [jest has snapshotFormat: printBasicPrototype setting](https://twitter.com/AndaristRake/status/1471946219983450117)
+
 ## Links
 
 - [Majestic](https://github.com/Raathigesh/majestic) - Zero config GUI for Jest.

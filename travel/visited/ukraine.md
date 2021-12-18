@@ -17,3 +17,5 @@ It's unfortunate [what Ukraine has to deal through](https://www.youtube.com/watc
 - [Реальная цель – не захват Украины, а коллапс ее государственности. Федор Крашенинников – о том, что Путину нужно от Киева](https://www.currenttime.tv/a/chto-putinu-nuzhno-ot-kieva/31592756.html)
 - [On Ukrainian Front, Grinding War and Weary Anticipation of Invasion (2021)](https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html)
 - [Why Ukraine Matters (2021)](https://www.reddit.com/r/geopolitics/comments/rbkr9q/why_ukraine_matters/)
+- [Ukraine Twitter](https://twitter.com/Ukraine)
+- [Why Russia is so interested in interfering with Ukraine (2021)](https://news.ycombinator.com/item?id=29578478)

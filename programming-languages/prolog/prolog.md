@@ -45,3 +45,6 @@
 - [Demo of a WAM Prolog Implementation in Python](https://github.com/brunokim/prol) ([HN](https://news.ycombinator.com/item?id=28720000))
 - [Simple examples for new Prolog programmers](https://github.com/Anniepoo/prolog-examples)
 - [CLP(B)](https://github.com/triska/clpb) - Constraint Logic Programming over Boolean variables using Prolog.
+- [LogicKit](https://github.com/kyouko-taiga/LogicKit) - Prolog-like language, distributed in the form of a Swift Embedded Domain Specific Language (EDSL).
+- [PrologHub](https://prologhub.com/)
+- [Homoiconic Prolog: Explain yourself (2019)](https://prologhub.com/homoiconic-prolog-explain-yourself/)

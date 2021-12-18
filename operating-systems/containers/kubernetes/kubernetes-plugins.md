@@ -37,6 +37,7 @@
 - [Kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - Kubernetes operator for running synthetic checks as pods. Works great with Prometheus.
 - [Kubernetes Operator for Apache Flink](https://github.com/spotify/flink-on-k8s-operator)
 - [kubectl-curl](https://github.com/segmentio/kubectl-curl) - Kubectl plugin to run curl commands against kubernetes pods.
+- [Kubernetes Security Profiles Operator](https://github.com/kubernetes-sigs/security-profiles-operator) - Out-of-tree Kubernetes enhancement which aims to make it easier for users to use SELinux, seccomp and AppArmor in Kubernetes clusters.
 
 ## Helm Charts
 

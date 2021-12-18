@@ -263,3 +263,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [New EC2 Instance Types of re:Invent 2021](https://aws-native.com/new-ec2-instance-types-of-reinvent-2021) ([HN](https://news.ycombinator.com/item?id=29448494))
 - [AWS Native Blog](https://aws-native.com/)
 - [cwl-mount](https://github.com/asimihsan/cwl-mount) - Mount AWS CloudWatch logs as a file system.
+- [Vacuum](https://github.com/kevholditch/vacuum) - Clean up unused AWS resources.

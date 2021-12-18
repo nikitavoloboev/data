@@ -305,3 +305,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [RChain](https://github.com/rchain/rchain) - Smart contract platform using CBC-Casper proof of stake + rholang for concurrent execution. ([Web](https://rchain.coop/))
 - [NXTP](https://github.com/connext/nxtp) - Lightweight protocol for generalized crosschain transfers.
 - [Archetype language](https://github.com/edukera/archetype-lang) - DSL to describe blockchain business processes.
+- [QuickNode](https://www.quicknode.com/) - Hosted Blockchain Infrastructure as a Service. ([Twitter](https://twitter.com/QuickNode))

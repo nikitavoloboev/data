@@ -58,3 +58,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [What is the Alexander Technique? (2021)](https://expandingawareness.org/blog/what-is-the-alexander-technique/)
 - [Ask HN: How do you tackle your own negativity? (2021)](https://news.ycombinator.com/item?id=29060798)
 - [9 Ways to ‘Rewild Your Attention’ (2021)](https://forge.medium.com/9-ways-to-rewild-your-attention-d7c9334b6b90)
+- [Othership](https://apps.apple.com/ca/app/othership-breathing-app/id1590348936) - Guided Breathwork App. ([Tweet](https://twitter.com/robbiebent1/status/1471503360729628677))

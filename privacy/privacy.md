@@ -112,3 +112,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [A Right to Reasonable Inferences: Re-Thinking Data Protection Law in the Age of Big Data and AI (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3248829) ([Tweet](https://twitter.com/ziebrah/status/1461033739409141771))
 - [Gretel.ai](https://gretel.ai/) - Privacy Engineering as a Service. ([Twitter](https://twitter.com/gretel_ai)) ([GitHub](https://github.com/gretelai))
 - [NTC Forum](https://ntc.party/) - Discussion board for network censorship all around the world, with anti-censorship software developers, researchers and tech-savvy users.
+- [Programming Differential Privacy](https://programming-dp.com/) - Book about differential privacy, for programmers.

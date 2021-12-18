@@ -126,6 +126,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Genesis](https://github.com/abhaynayar/genesis) - Minimal OS written in Jack.
 - [Nanos](https://nanos.org/) - Kernel designed to run only one application in virtualized environment. ([HN](https://news.ycombinator.com/item?id=29429489)) ([Code](https://github.com/nanovms/nanos))
 - [ZealOS](https://github.com/Zeal-Operating-System/ZealOS) - Modernized, professional fork of the 64-bit Temple Operating System.
+- [GrapheneOS](https://grapheneos.org/) - Private and secure mobile OS. ([GitHub](https://github.com/GrapheneOS))
+- [Florence OS](https://github.com/FlorenceOS/Florence) - Renaissance of Operating Systems in Zig.
 
 ## Notes
 

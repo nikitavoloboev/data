@@ -279,3 +279,6 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Shepherd](https://github.com/NerdWalletOSS/shepherd) - Utility for applying code changes across many repositories.
 - ["Incremental, zero-config Code Nav using stack graphs" by Douglas Creager (2021)](https://www.youtube.com/watch?v=l2R1PTGcwrE) ([Web](https://dcreager.net/talks/2021-strange-loop/))
 - [How I wrote my own "proper" programming language (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
+- [Awesome Program Analysis](https://github.com/pfalcon/awesome-program-analysis)
+- [Code Generation for Higher Inductive Types (2018)](https://arxiv.org/abs/1808.08330)
+- [Ask HN: How would a programming language look if designed by non-programmer (2021)](https://news.ycombinator.com/item?id=29590681)

@@ -159,3 +159,5 @@
 - [Audiovisual interpolations with GANs](https://github.com/maua-maua-maua/audiovisual)
 - [GAN-Supervised Dense Visual Alignment (2021)](https://www.wpeebles.com/gangealing) ([Code](https://github.com/wpeebles/gangealing))
 - [ArcaneGAN](https://github.com/Sxela/ArcaneGAN) ([Web](https://huggingface.co/spaces/akhaliq/ArcaneGAN))
+- [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs (2021)](https://nvlabs.github.io/denoising-diffusion-gan/) ([Code](https://github.com/NVlabs/denoising-diffusion-gan))
+- [Ensembling Off-the-shelf Models for GAN Training (2021)](https://www.cs.cmu.edu/~vision-aided-gan/) ([Code](https://github.com/nupurkmr9/vision-aided-gan))

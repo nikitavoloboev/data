@@ -6,7 +6,7 @@ I keep a minimum of 3,000 euro on the account at any time (to cover emergency sp
 
 I use a variation of [YNAB methodology](https://www.youneedabudget.com/method/) to somewhat mindfully manage my spending. I try to be mindful of more expensive things I buy & try to never disregard spending on quality healthy food and essentials for my well being. Both N26 & Monzo track spending into categories and do a good job of it.
 
-In future it would be nice to automate moving money to main account from less liquid assets I own quickly. FIAT tends to deprecate quickly so it's good idea to own hard assets (good ETFs being the safest investment).
+In future it would be nice to automate moving money to main account from less liquid assets I own quickly. FIAT [tends to deprecate quickly](https://twitter.com/levelsio/status/1471046183141265409) so it's good idea to own hard assets (good ETFs being the safest investment).
 
 ## Ongoing subscriptions
 
@@ -150,3 +150,6 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Bank transfers as a payment method (2021)](https://bam.kalzumeus.com/archive/bank-transfers-as-a-payment-method/) ([HN](https://news.ycombinator.com/item?id=29357215))
 - [Advances in Financial Machine Learning](https://github.com/jjakimoto/finance_ml)
 - [Primer](https://primer.io/) - No code automation for payments.
+- [Quant-Finance-Resources](https://github.com/PyPatel/Quant-Finance-Resources)
+- [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
+- [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading)

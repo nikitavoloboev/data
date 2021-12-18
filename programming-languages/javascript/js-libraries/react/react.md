@@ -290,3 +290,4 @@
 - [React Conf 2021 - YouTube](https://www.youtube.com/playlist?list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa)
 - [ReactEurope 2021](https://www.youtube.com/watch?v=CUPzvJibdTQ)
 - [Migrate a Client-Side Application to React 18 Beta](https://egghead.io/courses/migrate-a-client-side-application-to-react-18-beta-9379f0d1)
+- [React Conf 2021 Recap](https://reactjs.org/blog/2021/12/17/react-conf-2021-recap.html)

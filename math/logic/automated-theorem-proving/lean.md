@@ -59,3 +59,4 @@
 - [SATurn](https://github.com/siddhartha-gadgil/Saturn) - SAT solver-prover in lean 4 based on the DPLL algorithm.
 - [Aesop](https://github.com/JLimperg/aesop) - White-box automation for Lean 4.
 - [doc-gen4](https://github.com/hargoniX/doc-gen4) - Document Generator for Lean 4.
+- [Lean formal proof of the Combinatorial Nullstellensatz](https://github.com/isadofschi/combinatorial_nullstellensatz)

@@ -191,3 +191,4 @@
 - [Disco CLI](https://github.com/ankane/disco-cli) - Generate recommendations from CSV files.
 - [Natural Language Processing (NLP) for Semantic Search](https://www.pinecone.io/learn/nlp/) ([HN](https://news.ycombinator.com/item?id=29551947))
 - [Find anything fast with Google's vector search technology (2021)](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology) ([HN](https://news.ycombinator.com/item?id=29554986))
+- [Aquila DB](https://github.com/Aquila-Network/AquilaDB) - Easy to use Neural Search Engine. Index latent vectors along with JSON metadata and do efficient k-NN search.

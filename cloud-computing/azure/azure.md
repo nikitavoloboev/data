@@ -21,3 +21,4 @@
 - [NubesGen](https://nubesgen.com/) - Going to production on Azure is only one `git push` away. ([Code](https://github.com/microsoft/NubesGen))
 - [Azure.jl](https://github.com/JuliaComputing/Azure.jl) - Julia interface to Azure APIs.
 - [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go) ([Article](https://devblogs.microsoft.com/azure-sdk/introducing-the-latest-azure-sdk-for-go-client-and-management-modules/))
+- [Using Azure services from WebAssembly modules (2021)](https://radu-matei.com/blog/using-azure-services-wasi/)

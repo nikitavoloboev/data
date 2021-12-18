@@ -11,13 +11,13 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 
 ## Links
 
-- [micromark](https://github.com/micromark/micromark) - New, tiny, and fast, markdown parser written in TypeScript.
+- [micromark](https://github.com/micromark/micromark) - New, tiny, and fast, markdown parser written in TypeScript.
 - [Mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown IDE.
 - [markdown-wasm](https://github.com/rsms/markdown-wasm) - Markdown parser and HTML generator implemented in WebAssembly.
 - [TakeNote](https://github.com/taniarascia/takenote) - Web-based note-taking app with GitHub sync and Markdown support.
 - [mdtoc](https://github.com/tallclair/mdtoc) - Markdown table-of-contents generator.
 - [HTMDX](https://github.com/michael-klein/htmdx) - Lightweight runtime for mdx-like markdown.
-- [textlint](https://github.com/textlint/textlint) - Pluggable natural language linter for text and markdown.
+- [textlint](https://github.com/textlint/textlint) - Pluggable natural language linter for text and markdown. ([Web](https://textlint.github.io/))
 - [markdown-print-tools](https://github.com/Clikengo/markdown-print-tools) - Tools to nicely print markdown document (vscode extension, markdown it extension, pdf generation).
 - [markdown-table](https://github.com/wooorm/markdown-table) - Markdown tables, with alignment.
 - [gdocs2md](https://github.com/mangini/gdocs2md) - Simple Google Apps script to convert a properly formatted Google Drive Document to markdown.

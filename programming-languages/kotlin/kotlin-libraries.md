@@ -4,6 +4,7 @@
 
 - [Javalin](https://github.com/tipsy/javalin) - Simple and modern Java and Kotlin web framework. ([Web](https://javalin.io/))
 - [NetworkResponseAdapter](https://github.com/haroldadmin/NetworkResponseAdapter) - Kotlin Coroutines based Retrofit call adapter that handles errors as a part of state.
+- [Apollo Kotlin](https://github.com/apollographql/apollo-kotlin) - Strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
 
 ## Graphics
 

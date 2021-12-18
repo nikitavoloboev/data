@@ -49,13 +49,17 @@
 - [Obsidian AnkiBridge](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge) - Anki integration for Obsidian.
 - [Hypothesis Plugin](https://github.com/weichenw/obsidian-hypothesis-plugin) - Synchronize Hypothesis web article highlights/annotations into your Obsidian Vault.
 - [RSS Reader](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside obsidian.
+- [Natural Language Dates in Obsidian](https://github.com/argenos/nldates-obsidian)
+- [Obsidian Zoom](https://github.com/vslinko/obsidian-zoom) - Zoom into heading and lists.
+- [Advanced Slides](https://github.com/MSzturc/obsidian-advanced-slides) - Lets you create markdown-based reveal.js presentations in Obsidian.
+- [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin) - Minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier.
 
 ## Themes
 
 - [Things Theme](https://github.com/colineckert/obsidian-things)
 - [Sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - Minimalist theme with the aim of creating a serene space of retreat, for thought and uninterrupted work.
 - [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.
-- [Minimal](https://github.com/kepano/obsidian-minimal) - Obsidian theme meticulously designed to feel native on desktop, mobile and tablet.
+- [Minimal](https://github.com/kepano/obsidian-minimal) - Obsidian theme meticulously designed to feel native on desktop, mobile and tablet. ([Fork](https://github.com/gavinmn/obsidian-minimal))
 - [Primary](https://github.com/ceciliamay/obsidianmd-theme-primary)
 
 ## Links

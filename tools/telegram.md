@@ -79,6 +79,9 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Advent Calendar](https://github.com/KrauseFx/telegram-advent-calendar)
 - [WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot) - Telegram Group Manager Bot Written In Python Using Pyrogram.
 - [Hitokoto](https://github.com/my-telegram-bots/hitokoto_bot) - Telegram bot hosted in cloudflare workers.
+- [Ultroid](https://github.com/TeamUltroid/Ultroid) - Stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.
+- [LazyBot](https://github.com/XDBots/LazyBot) - Telegram Userbot based on GramJS.
+- [TGVCBot](https://github.com/ArnabXD/TGVCBot) - Telegram VC Music Bot.
 
 ## Notes
 

@@ -42,7 +42,7 @@
 - [Rezolus](https://github.com/twitter/rezolus) - Tool for collecting detailed systems performance telemetry and exposing burst patterns through high-resolution telemetry.
 - [Cadence](https://github.com/uber/cadence) - Distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [Pilosa](https://github.com/pilosa/pilosa) - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
-- [Finagle](https://github.com/twitter/finagle) - Fault tolerant, protocol-agnostic RPC system.
+- [Finagle](https://github.com/twitter/finagle) - Fault tolerant, protocol-agnostic RPC system. ([Scaling out a Rails app with Finagle](https://www.youtube.com/watch?v=btBU0UYYr6c))
 - [How To Build A Modern Distributed Compute Platform (2018)](https://andygrove.io/how_to_build_a_modern_distributed_compute_platform/)
 - [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
 - [Faust](https://github.com/robinhood/faust) - Python Stream Processing.

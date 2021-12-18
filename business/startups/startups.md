@@ -347,6 +347,8 @@
 - [How I helped build a profitable MVP over a weekend](https://mzrn.sh/2021/11/14/how-i-helped-build-a-profitable-mvp-over-a-weekend) ([HN](https://news.ycombinator.com/item?id=29230511))
 - [Ask HN: Great tools for solo SaaS founders? (2021)](https://news.ycombinator.com/item?id=29297229)
 - [Boards are dangerous to founder/CEOs (2021)](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html) ([HN](https://news.ycombinator.com/item?id=29320078))
+- [Technical Co-founders' Guide to Equity Negotiations (2021)](https://omarish.com/equity-negotiation)
+- [How to go from being a super hot company to lucky to get acquired in less than 24 months (2021)](https://joefernandez.substack.com/p/how-to-go-from-being-a-super-hot)
 
 ## Images
 

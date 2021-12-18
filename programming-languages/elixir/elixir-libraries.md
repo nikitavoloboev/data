@@ -47,6 +47,7 @@
 
 ## CLI
 
+- [Owl](https://github.com/fuelen/owl) - Toolkit for writing command-line user interfaces.
 - [Vexil](https://github.com/Ovyerus/vexil) - Elixir flag parser that does just enough.
 - [Artificery](https://github.com/bitwalker/artificery) - Toolkit for creating terminal user interfaces in Elixir.
 

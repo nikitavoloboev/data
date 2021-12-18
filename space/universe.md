@@ -51,3 +51,4 @@
 - [Grand mosaic of the Milky Way is now larger than ever (2021)](https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html) ([HN](https://news.ycombinator.com/item?id=28991537))
 - [CosmoScout VR](https://github.com/cosmoscout/cosmoscout-vr) - Virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time.
 - [Cosmologists Close In on Logical Laws for the Big Bang (2021)](https://www.quantamagazine.org/cosmologists-close-in-on-logical-laws-for-the-big-bang-20211110/)
+- [The universe is expanding faster than it should be (2021)](https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be) ([HN](https://news.ycombinator.com/item?id=29602239))

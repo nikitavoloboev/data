@@ -68,3 +68,4 @@
 - [Graphite-Web](https://github.com/graphite-project/graphite-web) - Highly scalable real-time graphing system. ([Docs](https://graphite.readthedocs.io/en/stable/))
 - [vega](https://github.com/rajasekarv/vega) - Faster implementation of Apache Spark from scratch in Rust.
 - [Memgraph](https://github.com/memgraph/memgraph) - Build modern, graph-based applications on top of your streaming data in minutes. ([Web](https://memgraph.com/))
+- [Apache Parquetv](https://parquet.apache.org/) - Columnar storage format that supports nested data. ([Code](https://github.com/apache/parquet-format))

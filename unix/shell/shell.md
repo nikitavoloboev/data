@@ -175,3 +175,4 @@ All active variables can be seen by running `env`.
 - [terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML. ([Web](http://buildkite.github.io/terminal-to-html/))
 - [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell language and command prompt. ([Web](https://xon.sh/))
 - [Common shell script mistakes (2008)](http://www.pixelbeat.org/programming/shell_script_mistakes.html) ([HN](https://news.ycombinator.com/item?id=29470863))
+- [makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies.

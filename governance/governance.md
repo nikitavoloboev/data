@@ -85,6 +85,7 @@
 - [Canada's nice green urban project (2021)](https://twitter.com/IDoTheThinking/status/1443636143707222019)
 - [Moov Watchman](https://oss.moov.io/watchman/) - Service which downloads, parses and indexes numerous trade, government and non-profit lists of blocked individuals and entities to comply with those regions laws. ([Code](https://github.com/moov-io/watchman))
 - [QuadraticVote.co](https://quadraticvote.co/) - Real-time Quadratic Voting dashboard to encourage mathematically optimal voting in democratic communities. ([Code](https://github.com/Anish-Agnihotri/quadratic-voting))
+- [Quadratic voting: The mathematical method that could offer a fairer way to vote](https://www.economist.com/christmas-specials/2021/12/18/the-mathematical-method-that-could-offer-a-fairer-way-to-vote) ([HN](https://news.ycombinator.com/item?id=29586658))
 - [Harberger Taxation has an elegant application that has been overlooked: Taxing Intellectual Property](https://ristret.com/s/ftmbkg/harberger_taxation_has_elegant)
 - [Zero-knowledge voting implementations (2021)](https://twitter.com/dwr/status/1458127746912047107)
 - [VotingWorks](https://www.voting.works/) - Nonpartisan nonprofit making elections more trustworthy with modern technology.

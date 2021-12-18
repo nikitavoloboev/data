@@ -37,7 +37,7 @@ open -g hammerspoon://someAlert
 
 ## Links
 
-- [Spoons](https://github.com/Hammerspoon/hammerspoon/blob/master/SPOONS.md)
+- [Spoons](http://www.hammerspoon.org/Spoons/) - Pure-Lua plugins for users to use in their Hammerspoon configs. ([Doc](https://github.com/Hammerspoon/hammerspoon/blob/master/SPOONS.md)) ([Code](https://github.com/Hammerspoon/Spoons))
 - [Interesting HS config](https://github.com/S1ngS1ng/HammerSpoon)
 - [Accessing Accessibility Objects with Hammerspoon](https://github.com/asmagill/hs._asm.axuielement)
 - [HN: Hammerspoon (2019)](https://news.ycombinator.com/item?id=21801178)

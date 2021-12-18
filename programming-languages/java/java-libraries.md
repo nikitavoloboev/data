@@ -2,7 +2,7 @@
 
 ## Web
 
-- [Netty](https://github.com/netty/netty) - Event-driven asynchronous network application framework.
+- [Netty](https://github.com/netty/netty) - Event-driven asynchronous network application framework. ([Web](https://netty.io/)) ([Tour of Netty](https://medium.com/geekculture/a-tour-of-netty-5020ecee5494))
 - [Spring Boot](https://github.com/spring-projects/spring-boot) - Makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run". ([Docs](https://spring.io/projects/spring-boot))
 - [TeaVM](http://teavm.org/) - Build Fast, Modern Web Apps in Java. ([Code](https://github.com/konsoletyper/teavm)) ([HN](https://news.ycombinator.com/item?id=25978053))
 - [Spring Framework](https://spring.io/projects/spring-framework) ([Code](https://github.com/spring-projects/spring-framework))

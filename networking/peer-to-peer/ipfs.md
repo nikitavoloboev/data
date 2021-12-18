@@ -75,3 +75,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS-Nucleus](https://github.com/Peergos/ipfs-nucleus) - Minimal IPFS replacement for P2P IPLD apps.
 - [IPFS Cluster](https://github.com/ipfs/ipfs-cluster) - Automated data availability and redundancy on IPFS. ([Web](https://cluster.ipfs.io/))
 - [NFT Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS and Filecoin. ([Video](https://www.youtube.com/watch?v=o_yVYft-7z4))
+- [IPFS backed storage implementation for docker/OCI registry](https://github.com/yuval-k/oci-registry-p2p)

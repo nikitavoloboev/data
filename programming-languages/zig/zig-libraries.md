@@ -19,6 +19,8 @@
 
 - [OkRedis](https://github.com/kristoff-it/zig-okredis) - Zero-allocation Client for Redis 6+.
 - [lmdb-zig](https://github.com/lithdew/lmdb-zig) - Lightweight, fully-featured, idiomatic cross-platform Zig bindings to Lightning Memory-Mapped Database (LMDB).
+- [zig-sqlite](https://github.com/vrischmann/zig-sqlite) - Thin wrapper around sqlite's C API.
+- [zig-prometheus](https://github.com/vrischmann/zig-prometheus) - Prometheus/VictoriaMetrics client library for Zig.
 
 ## Crypto
 

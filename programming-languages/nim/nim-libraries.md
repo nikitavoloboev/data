@@ -2,6 +2,7 @@
 
 ## Web
 
+- [httpbeast](https://github.com/dom96/httpbeast) - Highly performant, multi-threaded HTTP 1.1 server written in Nim.
 - [Prologue](https://github.com/planety/prologue) - Full-Stack Web Framework which is ideal for building elegant and high performance web services. ([HN](https://news.ycombinator.com/item?id=24846828))
 - [Rosencrantz](https://github.com/andreaferretti/rosencrantz) - DSL to write web servers.
 - [nim-libp2p](https://github.com/status-im/nim-libp2p) - libp2p implementation in Nim.

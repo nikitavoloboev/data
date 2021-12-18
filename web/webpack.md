@@ -56,3 +56,4 @@
 - [Get autocompletion for your webpack config with one line of code](https://twitter.com/Joelbdenning/status/1441146336003325956)
 - [Building a simplified webpack clone](https://lihautan.com/building-a-simplified-webpack-clone/)
 - [Understanding why our build got 15x slower with Webpack 5 (2021)](https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack)
+- [Webpack Federation SSR (2021)](https://www.ebey.me/blog/webpack-federation-ssr)

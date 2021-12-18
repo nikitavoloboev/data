@@ -111,3 +111,4 @@
 - [Everyone's Upstairs Neighbors](https://www.youtube.com/watch?v=4IRB0sxw-YU)
 - [I just want to serve 5 terabytes](https://www.youtube.com/watch?v=3t6L-FlfeaI) ([HN](https://news.ycombinator.com/item?id=29082014)) ([Reddit](https://www.reddit.com/r/programming/comments/qlbd6e/i_just_want_to_serve_5_terabytes/))
 - [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
+- [When you watch too much Succession (Succession parody)](https://www.youtube.com/watch?app=desktop&v=9nmZ6bN6LsU)

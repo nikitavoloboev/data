@@ -230,6 +230,7 @@
 - [gomponents](https://github.com/maragudk/gomponents) - View components in pure Go, that render to HTML 5. ([Web](https://www.gomponents.com/))
 - [Gzip Handler](https://github.com/nytimes/gziphandler) - Go middleware to gzip HTTP responses.
 - [microblob](https://github.com/miku/microblob) - Serve millions of JSON documents via HTTP.
+- [Requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers. ([Why I wrote my own Go HTTP client](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/)) ([Reddit](https://www.reddit.com/r/golang/comments/rincmj/why_i_wrote_my_own_go_http_client/))
 
 ## GraphQL
 
@@ -337,6 +338,7 @@
 - [Bokchoy](https://github.com/thoas/bokchoy) - Simple job queues for Go backed by Redis.
 - [Migrate](https://github.com/maragudk/migrate) - Simple database migration tool using an sql.DB connection and fs.FS for the migration source.
 - [ch](https://github.com/go-faster/ch) - TCP ClickHouse client in Go.
+- [kra](https://github.com/taichi/kra) - Database access helper library.
 
 ## ML
 
@@ -731,7 +733,7 @@
 - [sys](https://github.com/golang/sys) - Go packages for low-level interaction with the operating system.
 - [zek](https://github.com/miku/zek) - Generate a Go struct from XML.
 - [go-diodes](https://github.com/cloudfoundry/go-diodes) - Diodes are ring buffers manipulated via atomics.
-- [Asynq](https://github.com/hibiken/asynq) - Go library for queueing tasks and processing them in the background with workers.
+- [Asynq](https://github.com/hibiken/asynq) - Go library for queueing tasks and processing them in the background with workers. ([Asynqmon](https://github.com/hibiken/asynqmon))
 - [appy](https://github.com/appist/appy) - Opinionated productive web framework that helps scaling business easier.
 - [wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime.
 - [html2text](https://github.com/jaytaylor/html2text) - Converts HTML into text of the markdown-flavored variety.
@@ -1162,6 +1164,8 @@
 - [thriftrw-go](https://github.com/thriftrw/thriftrw-go) - Thrift encoding code generator and library for Go.
 - [go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go.
 - [golang-set](https://github.com/deckarep/golang-set) - Simple set type for the Go language.
+- [deep-copy](https://github.com/globusdigital/deep-copy) - Tool for generating DeepCopy() functions for a given type.
+- [envconfig](https://github.com/vrischmann/envconfig) - Small library to read your configuration from environment variables.
 
 ## Links
 

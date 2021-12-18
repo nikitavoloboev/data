@@ -183,3 +183,5 @@
 - [3D Infomax improves GNNs for Molecular Property Prediction (2021)](https://arxiv.org/abs/2110.04126) ([Code](https://github.com/HannesStark/3DInfomax))
 - [Regenerated crustacean limbs are precise replicas (2021)](https://www.biorxiv.org/content/10.1101/2021.12.13.472338v1) ([Tweet](https://twitter.com/michalis_averof/status/1470816451422470156))
 - [Dockerfiles and documentation on tools for public health bioinformatics](https://github.com/StaPH-B/docker-builds)
+- [Arc Institute](https://arcinstitute.org/) - New institution for curiosity-driven biomedical science and technology. ([Tweet](https://twitter.com/patrickc/status/1471156220425871360))
+- [SeqLike](https://github.com/modernatx/seqlike) - Unified biological sequence manipulation in Python.

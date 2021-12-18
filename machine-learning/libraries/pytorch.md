@@ -314,3 +314,4 @@
 - [Winners of the 2021 PyTorch Annual Hackathon](https://pytorch.org/blog/announcing-the-winners-of-the-2021-pytorch-annual-hackathon/)
 - [PyTorch vs TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/) ([HN](https://news.ycombinator.com/item?id=29552665))
 - [Perceiver IO](https://github.com/krasserm/perceiver-io) - PyTorch implementation of DeepMind's Perceiver IO with PyTorch Lightning scripts for distributed training.
+- [Neural network inferencing for PyTorch and TensorFlow with ONNX, WebAssembly System Interface, and WASI NN (2021)](https://radu-matei.com/blog/wasi-nn-onnx/)

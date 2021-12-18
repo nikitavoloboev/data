@@ -46,3 +46,4 @@
 - [Moloch v2](https://github.com/MolochVentures/moloch) - Upgraded version of MolochDAO that allows the DAO to acquire and spend multiple different tokens, instead of just one.
 - [Web3? I have my DAOts (2021)](https://networked.substack.com/p/web3-i-have-my-daots) ([HN](https://news.ycombinator.com/item?id=29466024))
 - [Tips for picking first DAO (2021)](https://twitter.com/altmbr/status/1468686844963471370)
+- [DAOStack Alchemy](https://github.com/daostack/alchemy-monorepo/tree/dev/packages/alchemy) - Budgeting and resource-allocation tool for decentralized organizations.

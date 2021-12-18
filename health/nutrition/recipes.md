@@ -21,6 +21,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Spicy Korean Carrots – Morkovcha](https://letthebakingbegin.com/spicy-korean-carrots/)
 - [Синнабоны](https://twitter.com/Khlystova_AP/status/1188421276416786432)
 - [Perfect Risotto](https://tasty.co/recipe/mushroom-risotto)
+- [Bagels](https://github.com/andrewkern/bagels)
 
 ## Links
 

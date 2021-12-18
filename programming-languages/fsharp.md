@@ -32,3 +32,4 @@
 - [Embedding F# Compiler (2021)](https://queil.net/2021/05/embedding-fsharp-compiler/) ([HN](https://news.ycombinator.com/item?id=29208315))
 - [Is F# Tough to Learn? (2021)](https://danielbmarkham.com/is-f-tough-to-learn/)
 - [What's the Frequency, Kenneth? (F#) (2021)](https://danielbmarkham.com/whats-the-frequency-kenneth-f/)
+- [F# Good and Bad (2021)](https://danielbmarkham.com/f-good-and-bad/) ([HN](https://news.ycombinator.com/item?id=29571417))

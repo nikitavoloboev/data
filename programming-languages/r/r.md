@@ -99,3 +99,6 @@
 - [metafor](https://github.com/wviechtb/metafor) - Meta-analysis package for R.
 - [MetBrewer](https://github.com/BlakeRMills/MetBrewer) - Color palette package in R inspired by works at the Metropolitan Museum of Art in New York. ([Tweet](https://twitter.com/BlakeRobMills/status/1469749740871077893))
 - [RStudio](https://www.rstudio.com/products/rstudio/) - Integrated development environment (IDE) for R. ([Code](https://github.com/rstudio/rstudio))
+- [rocker](https://github.com/rocker-org/rocker) - R configurations for Docker.
+- [workflowr](https://github.com/jdblischak/workflowr) - Organized + reproducible + shareable data science in R.
+- [R project workflows](https://github.com/jdblischak/r-project-workflows)

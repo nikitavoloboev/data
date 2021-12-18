@@ -14,6 +14,7 @@
 - [Can open Figma URLs in desktop app via menu bar (File > Open File URL From Clipboard)](https://twitter.com/gavinmcfarland/status/1260132994679013377). Or [set the preference via the browser app to always open Figma links in the desktop app](https://twitter.com/rollmottle/status/1260212414592634880).
 - CMD+Y = show/hide outline
 - [Can use Figma to keep track of all illustrations used in blogs/..](https://twitter.com/kkblinder/status/1458547793660764170)
+- [You can set auto layout on component variant frames in Figma.](https://twitter.com/Gavmn/status/1471954816897191936)
 
 ## Links
 

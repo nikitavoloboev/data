@@ -119,6 +119,7 @@
 - [Poll](https://github.com/anuragsoni/poll) - Portable OCaml API to poll file descriptors for IO readiness. Supports kqueue and epoll for now.
 - [ART](https://github.com/dinosaure/art) - Adaptive Radix Tree in OCaml.
 - [Avro](https://github.com/c-cube/ocaml-avro) - Runtime library and schema compiler for the Avro serialization format.
+- [CMON](https://github.com/let-def/cmon) - Library for printing OCaml values with sharing.
 
 ## Links
 

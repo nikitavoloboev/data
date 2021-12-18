@@ -125,3 +125,4 @@
 - [Xenobots: replicating living robots made from frog cells (2021)](https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce) ([HN](https://news.ycombinator.com/item?id=29389871))
 - [Beyond Pick-and-Place: Tackling Robotic Stacking of Diverse Shapes (2021)](https://arxiv.org/abs/2110.06192) ([Code](https://github.com/deepmind/rgb_stacking))
 - [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research.
+- [Research Notes on Humanoid Robots (2021)](https://liuliu.me/eyes/research-notes-on-humanoid-robots/)

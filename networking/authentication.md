@@ -180,3 +180,4 @@
 - [Simple Things That Are Actually Hard: User Authentication (2021)](https://techblog.bozho.net/simple-things-that-are-actually-hard-user-authentication/)
 - [Admin UI for Auth0, Azure AD and AWS Cognito](https://github.com/nearform/brokeneck)
 - [Authorizer](https://authorizer.dev/) - Open source authentication and authorization system.Bring your database and have authentication microservice ready in few clicks. ([Code](https://github.com/authorizerdev/authorizer)) ([Tweet](https://twitter.com/lakhansamani/status/1466070639333179392))
+- [Authentik](https://goauthentik.io/) - Open-source Identity Provider focused on flexibility and versatility. ([Code](https://github.com/goauthentik/authentik))

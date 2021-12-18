@@ -256,6 +256,11 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [To Read • Timothy Andrew](https://0xc0d1.com/misc/reading/toread/)
 - [19 book recommendations from the Ars staff (2021)](https://arstechnica.com/staff/2021/12/holiday-book-guide/)
 - [The 50 Best Books of Literary Journalism of the 21st Century](https://www.gq.com/story/50-best-literary-journalism-books)
+- [The best fantasy and sci-fi books of 2021](https://www.polygon.com/22822439/best-fantasy-books-sci-fi-2021)
+- [Best short story you've read (2021)](https://www.reddit.com/r/suggestmeabook/comments/rgy3h3/whats_the_best_short_story_youve_read_bonus/)
+- [Ask HN: Is there any fiction that's based on a world with different physics? (2021)](https://news.ycombinator.com/item?id=29587703)
+- [Best books you've read as an engineering manager or software engineer](https://twitter.com/GergelyOrosz/status/1470308287220527104)
+- [Ask HN: Life Changing Books? (2021)](https://news.ycombinator.com/item?id=29605394)
 
 ## Interesting Prose Books
 

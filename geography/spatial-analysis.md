@@ -120,3 +120,5 @@
 - [Reimagining projections for the interactive maps era (2021)](https://www.mapbox.com/blog/adaptive-projections) ([HN](https://news.ycombinator.com/item?id=29540619))
 - [streamlit-geospatial](https://github.com/giswqs/streamlit-geospatial) - Multi-page streamlit app for geospatial.
 - [go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image.
+- [Spatial Lookup Web Service](https://github.com/pramsey/geos-lookup) - In-memory reverse geocode backed by GEOS.
+- [rgis](https://github.com/frewsxcv/rgis) - Geospatial data viewer written in Rust.

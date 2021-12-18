@@ -120,3 +120,4 @@
 - [PGO](https://github.com/erleans/pgo) - Erlang Postgres client and connection pool.
 - [efmt](https://github.com/sile/efmt) - Erlang code formatter.
 - [Everything you need to know to start contributing to Erlang (2021)](https://medium.com/erlang-battleground/all-you-need-to-know-to-start-contributing-to-erlang-2fcd5748319e)
+- [A Tour of Curve25519 in Erlang (2020)](https://research.nccgroup.com/wp-content/uploads/2020/02/A_Tour_of_Curve25519_in_Erlang-1.pdf) ([HN](https://news.ycombinator.com/item?id=29591882))

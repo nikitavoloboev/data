@@ -1,6 +1,6 @@
 # Clothes
 
-Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/movies/a38241136/keanu-reeves-interview-2021/).
+Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/movies/a38241136/keanu-reeves-interview-2021/). [Manny Jacinto's too](https://flaunt.com/content/manny-jacinto-the-gift-issue).
 
 ## Interesting
 

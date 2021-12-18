@@ -208,6 +208,8 @@
 - [AudioStreaming](https://github.com/dimitris-c/AudioStreaming) - AudioPlayer/Streaming library for iOS written in Swift using AVAudioEngine.
 - [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) - Waterfall (i.e., Pinterest-like) layout for UICollectionView.
 - [SectionKit](https://github.com/traderepublic/SectionKit) - Reusable sections for UICollectionView.
+- [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift.
+- [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - Splash view that animates and reveals its content, inspired by the Twitter splash.
 
 ## macOS
 
@@ -257,6 +259,7 @@
 - [SwiftHtml](https://github.com/BinaryBirds/swift-html) - Awesome Swift HTML DSL library using result builders.
 - [SwiftCss](https://github.com/BinaryBirds/swift-css) - Awesome Swift CSS DSL library using result builders.
 - [Fuzi](https://github.com/cezheng/Fuzi) - Fast & lightweight XML & HTML parser in Swift with XPath & CSS support.
+- [Swift Fetch](https://github.com/SwiftSimpers/SwiftFetch) - Fetch-like API implementation for Swift for asynchronous HTTP requests with the new async/await syntax.
 
 ## SwiftUI
 
@@ -373,6 +376,7 @@
 - [StackUI](https://github.com/pujiaxin33/StackUI) - Use UIStackView like SwiftUI.
 - [SwiftDown](https://github.com/qeude/SwiftDown) - Markdown editor component for your SwiftUI apps.
 - [SwiftUIRouter](https://github.com/OrkhanAlikhanov/SwiftUIRouter) - Experimental navigation router for SwiftUI.
+- [PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView) - Elegant Pager View fully written in pure SwiftUI.
 
 ## Test
 
@@ -390,6 +394,7 @@
 - [Mocker](https://github.com/WeTransfer/Mocker) - Library written in Swift which makes it possible to mock data requests using a custom URLProtocol.
 - [XCTAssertNoLeak](https://github.com/tarunon/XCTAssertNoLeak) - Provides assert function that check memory leak in Swift.
 - [MockingKit](https://github.com/danielsaidi/MockingKit) - Swift-based mocking library that makes it easy to mock protocols and classes.
+- [TABTestKit](https://github.com/theappbusiness/TABTestKit) - Designed to make writing and maintaining automated tests for iOS applications.
 
 ## API
 
@@ -411,6 +416,8 @@
 - [RediStack](https://github.com/Mordil/RediStack) - Non-blocking Swift client for Redis built on top of SwiftNIO.
 - [PersistDB](https://github.com/PersistX/PersistDB) - Projection-based Database Persistence in Swift.
 - [RSocket Swift](https://github.com/rsocket/rsocket-swift) - Client and Server implementation of the RSocket (Reactive Socket) network protocol on top of SwiftNIO.
+- [MySQLKit](https://github.com/vapor/mysql-kit) - Non-blocking, event-driven Swift client for MySQL.
+- [MySQLNio](https://github.com/vapor/mysql-nio) - Non-blocking, event-driven Swift client for MySQL built on SwiftNIO.
 
 ## Graphics
 
@@ -861,6 +868,8 @@
 - [ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer wrapper.
 - [CodableX](https://github.com/dscyrescotti/CodableX) - Make Swift's Codable easier using Property Wrappers.
 - [SecureXPC](https://github.com/trilemma-dev/SecureXPC) - Framework designed specifically for secure XPC Mach service communication.
+- [SPDiffable](https://github.com/ivanvorobei/SPDiffable) - Extension of Diffable API which allow not duplicate code and use less models.
+- [automerge-swift](https://github.com/automerge/automerge-swift) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
 
 ## Other (not lib)
 

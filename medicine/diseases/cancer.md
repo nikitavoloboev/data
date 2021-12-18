@@ -30,3 +30,4 @@
 - [More than half of high-impact cancer lab studies could not be replicated (2021)](https://www.science.org/content/article/more-half-high-impact-cancer-lab-studies-could-not-be-replicated-controversial-analysis) ([HN](https://news.ycombinator.com/item?id=29506211))
 - [Reproducibility in Cancer Biology: Challenges for assessing replicability in preclinical cancer biology (2021)](https://elifesciences.org/articles/67995)
 - [Charting the tumor antigen maps drawn by single-cell genomics (2021)](<https://www.cell.com/cancer-cell/fulltext/S1535-6108(21)00605-X>) ([Tweet](https://twitter.com/CalebLareau/status/1470530211737341959))
+- [Awesome AI Cancer](https://github.com/cbailes/awesome-ai-cancer)

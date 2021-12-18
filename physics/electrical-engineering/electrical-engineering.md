@@ -79,3 +79,4 @@
 - [How to trace back the origin of electricity (2021)](https://api.electricitymap.org/blog/flow-tracing/)
 - [Everything You Need to Know about Designing a PCB Layout](https://www.ourpcb.com/pcb-layout-the-ultimate-guide-best-for-beginners.html)
 - [HDL Containers](https://github.com/hdl/containers) - Building and deploying container images for open source electronic design automation (EDA).
+- [I bought 1000 meters of wire to settle a physics debate (2021)](https://www.youtube.com/watch?v=2Vrhk5OjBP8) ([HN](https://news.ycombinator.com/item?id=29598860))

@@ -95,3 +95,6 @@
 - [All 63 us national parks ranked by experts (best to worst)](https://morethanjustparks.com/national-parks-ranked/)
 - [What happened to the U.S. economy since the end of World War II (2021)](https://www.collaborativefund.com/blog/how-this-all-happened/)
 - ['Tesla as the World’s Biggest Robot Company:' Elon Musk on AI and U.S. Innovation (2021)](https://www.youtube.com/watch?v=lSD_vpfikbE)
+- [Революция в США: как построить государство на века (2021)](https://www.youtube.com/watch?v=HvydAXhi8pQ)
+- [Why move to Miami (2021)](https://twitter.com/lpolovets/status/1471461238014033922)
+- [The Bay Area has become a large declining tech company (2021)](http://www.yared.com/2021/12/the-entire-bay-area-has-become-large.html) ([HN](https://news.ycombinator.com/item?id=29595614))

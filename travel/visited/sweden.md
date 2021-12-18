@@ -10,3 +10,4 @@
 - [Thoughts on Sweden (2021)](https://www.reddit.com/r/sweden/comments/q0486c/thoughts_on_sweden/)
 - [Швеция. Как жить в кайф в стране с плохим климатом. (2021)](https://www.youtube.com/watch?v=BNdJaetPrlg)
 - [Sweden: History, Geography, Economy & Culture (2020)](https://www.youtube.com/watch?v=sj3A-IUl78E)
+- [She has been Living in a Cabin in the Forests of Sweden for 8 years | Home Tour (2020)](https://www.youtube.com/watch?v=TWfl990NHoM)

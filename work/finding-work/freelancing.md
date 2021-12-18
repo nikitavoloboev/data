@@ -32,3 +32,4 @@
 - [Bonsai](https://www.hellobonsai.com/) - Freelance Product Suite.
 - [The Gen-Z Guide to Freelancing](https://continuum.works/blog/gen-z-guide/)
 - [How to handle difficult clients](https://zimtik.com/en/posts/how-to-handle-difficult-clients) ([HN](https://news.ycombinator.com/item?id=29538518))
+- [Mistakes from 6 months of freelancing (2021)](https://mcarter.me/posts/mistakes-from-6-months-of-freelancing)

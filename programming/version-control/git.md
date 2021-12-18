@@ -455,3 +455,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-chain](https://github.com/dashed/git-chain) - Tool for rebasing a chain of local git branches.
 - [qit](https://github.com/queer/qit) - Overly opinionated git tooling.
 - [commitlog](https://github.com/barelyhuman/commitlog) - Generate Changelogs from Commits (CLI).
+- [How I learned to stop worrying and push to master](https://thenable.io/push-to-master) ([HN](https://news.ycombinator.com/item?id=29583792))

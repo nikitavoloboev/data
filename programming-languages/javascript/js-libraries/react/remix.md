@@ -8,6 +8,7 @@
 - [Tim's site](https://github.com/timc1/tim)
 - [HN in Remix](https://github.com/ryanflorence/remix-hn)
 - [Interactive app to demonstrate how routing works in Remix](https://github.com/dilums/interactive-remix-routing)
+- [Jacob Ebey's Blog](https://github.com/jacob-ebey/ebey-me-remix)
 
 ## Notes
 
@@ -43,3 +44,5 @@
 - [Remix | Technical Explanation](https://remix.run/docs/en/v1/pages/technical-explanation)
 - [Remix Component Data](https://github.com/kiliman/remix-component-data) - Proof of concept for showing how you can expose loader functions from your components to use in your routes.
 - [Remix for Next.js Developers (2021)](https://blog.plasmic.app/posts/remix-for-nextjs-developers/)
+- [Dynamic CSS with Remix Resource Routes (2021)](https://www.ebey.me/blog/dynamic-css-with-remix-resource-routes)
+- [Remix Crash Course (2021)](https://www.youtube.com/watch?v=d_BhzHVV4aQ)

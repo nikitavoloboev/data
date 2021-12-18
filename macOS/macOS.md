@@ -224,3 +224,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [optool](https://github.com/alexzielenski/optool) - Command Line Tool for interacting with MachO binaries on macOS/iOS.
 - [mkuser](https://github.com/freegeek-pdx/mkuser) - Make user accounts for macOS with many advanced options.
 - [Setup a New Developer Computer](https://github.com/vendasta/setup-new-computer-script) ([HN](https://news.ycombinator.com/item?id=29535432))
+- [Entitlement AND Hardened Runtime Check](https://github.com/cedowens/EntitlementCheck) - Python3 script for macOS to check for binaries with problematic/interesting entitlements.

@@ -13,6 +13,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [squid](https://github.com/andywer/squid) - SQL tagged template strings and schema definitions for JavaScript & TypeScript.
 - [KVS](https://github.com/azu/kvs) - Lightweight key-value storage library for Browser, Node.js, and In-Memory.
 - [Kysely](https://github.com/koskimas/kysely) - Type-safe typescript SQL query builder.
+- [Keydb](https://github.com/DjDeveloperr/Keydb) - Simple Key-value storage module with support for multiple database backends.
 
 ## Web
 
@@ -234,6 +235,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [fp-ts-std](https://github.com/samhh/fp-ts-std) - Missing pseudo-standard library for fp-ts. Supports both modern browsers and Node.
 - [deep-proxy](https://github.com/qiwi/deep-proxy) - Deep proxy implementation for TypeScript.
 - [ts-runtime](https://github.com/fabiandev/ts-runtime) - Runtime Type Checks for TypeScript. ([Playground](https://fabiandev.github.io/ts-runtime/))
+- [Dastal](https://github.com/havelessbemore/dastal) - Data structures & algorithms implementations in TypeScript.
+- [base64-arraybuffer](https://github.com/niklasvh/base64-arraybuffer) - Encode/decode base64 data into ArrayBuffers.
 
 ## Links
 

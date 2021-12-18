@@ -488,3 +488,4 @@
 - [Awesome Video Stabilization](https://github.com/yaochih/awesome-video-stabilization)
 - [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo (2021)](https://apchenstu.github.io/mvsnerf/) ([Code](https://github.com/apchenstu/mvsnerf))
 - [Tracking People with 3D Representations (2021)](http://people.eecs.berkeley.edu/~jathushan/T3DP/) ([Code](https://github.com/brjathu/T3DP))
+- [Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection (2019:)](https://arxiv.org/abs/1908.09492) ([Code](https://github.com/poodarchu/Det3D))

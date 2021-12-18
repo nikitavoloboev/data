@@ -83,3 +83,4 @@
 - [Fast CSV Processing with SIMD (2021)](https://nullprogram.com/blog/2021/12/04/) ([HN](https://news.ycombinator.com/item?id=29439403))
 - [Program analysis for machine code](https://github.com/iximeow/yaxpeax-core)
 - [asmase](https://github.com/osandov/asmase) - REPL for assembly language using an LLVM backend.
+- [Writing a self-modifying x86 factorial program (2021)](https://brianstadnicki.github.io/posts/asm-self-modifying-factorial/) ([HN](https://news.ycombinator.com/item?id=29563027))

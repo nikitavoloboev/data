@@ -116,3 +116,5 @@
 - [Build Data-Driven Applications on the Edge with Workers and Workers KV (2021)](https://egghead.io/courses/build-data-driven-applications-on-the-edge-with-workers-and-workers-kv-4932f3ea)
 - [Sunder](https://github.com/SunderJS/sunder) - Minimal server-side framework for building APIs and websites on Cloudflare Workers. ([Docs](https://sunderjs.com/docs/))
 - [ViteFlare](https://github.com/alloc/viteflare) - Cloudflare workers meet Vite plugins.
+- [stripe-node Cloudflare Worker Template](https://github.com/stripe-samples/stripe-node-cloudflare-worker-template)
+- [Miniflare Example Project](https://github.com/mrbbot/miniflare-typescript-esbuild-jest) - Example Cloudflare Workers project that uses Miniflare for local development.

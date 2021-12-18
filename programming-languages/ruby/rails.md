@@ -102,3 +102,5 @@
 - [On Rails (2021)](https://marbiano.dev/into-remix/on-rails)
 - [rails.new](https://rails.new/) - From New Mac to Rails Development in 11 Minutes. ([Tweet](https://twitter.com/andrewculver/status/1470139230449913859))
 - [Devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails based on Warden.
+- [Rails 7.0: Fulfilling a vision (2021)](https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision) ([HN](https://news.ycombinator.com/item?id=29573607))
+- [From Node to Ruby on Rails (2021)](https://nikodunk.com/a-node-js-developer-discovers-rails/) ([HN](https://news.ycombinator.com/item?id=29577897))

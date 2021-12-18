@@ -117,3 +117,4 @@
 - [APCA (Advanced Perceptual Contrast Algorithm)](https://github.com/Myndex/SAPC-APCA) - New method for predicting contrast for use in emerging web standards (WCAG 3) for determining readability contrast. ([Web](https://www.myndex.com/APCA/))
 - [How we will write colors in CSS in 2022-2023](https://twitter.com/sitnikcode/status/1470753530491424779) ([Russian](https://twitter.com/andrey_sitnik/status/1470662400567304192))
 - [colorgram.py](https://github.com/obskyr/colorgram.py) - Python library that lets you extract colors from images.
+- [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.

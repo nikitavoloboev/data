@@ -160,3 +160,5 @@
 - [Implementing RTK Query in a React Native App (2021)](https://bionicjulia.com/blog/implementing-rtk-query-in-react-native-app)
 - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated) - Comprehensive, low level abstraction for the Animated library API.
 - [Primer React Native SDK](https://github.com/primer-io/primer-sdk-react-native)
+- [Build a News App with React Native, GraphQL and TypeScript (2021)](https://egghead.io/courses/build-a-news-app-with-react-native-graphql-and-typescript-08814691)
+- [Sticky Item](https://github.com/gorhom/react-native-sticky-item) - Interactive sticky item inspired by Facebook Stories.

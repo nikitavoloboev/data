@@ -164,3 +164,4 @@
 - [OpenRegistry](https://github.com/containerish/OpenRegistry) - Decentralized container registry fully compliant with OCI Distribution Specification.
 - [poCo](https://github.com/mudler/poco) - Create statically linked, portable binaries from container images.
 - [Luet](https://github.com/mudler/luet) - Container-based Package manager.
+- [Notation](https://github.com/notaryproject/notation) - Project to add signatures as standard items in the registry ecosystem.

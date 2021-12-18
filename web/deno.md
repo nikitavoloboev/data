@@ -1,5 +1,7 @@
 # [Deno](https://github.com/denoland/deno)
 
+[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great.
+
 ## Links
 
 - [Deno Manual](https://deno.land/manual) ([Code](https://github.com/denoland/manual))
@@ -116,7 +118,7 @@
 - [deno doc](https://doc.deno.land/) ([Code](https://github.com/denoland/doc_website))
 - [deno_s3](https://github.com/lucacasonato/deno_s3) - Amazon S3 for Deno.
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
-- [Obsidian](https://github.com/open-source-labs/obsidian) - GraphQL, built for Deno. ([Web](http://obsidian.land/))
+- [Obsidian](https://github.com/open-source-labs/obsidian) - GraphQL, built for Deno. ([Web](http://obsidian.land/)) ([4.0 launch](https://medium.com/@mikechin37/obsidian-4-0-0-launch-deno-graphql-caching-solution-3588558e2d2a))
 - [deno_docker](https://github.com/denoland/deno_docker) - Docker files for Deno published on Dockerhub.
 - [Ultra](https://github.com/exhibitionist-digital/ultra) - Deno + React: No build, no bundle, all streaming. ([Web](https://ultrajs.dev/))
 - [Server-side JSX for Deno](https://github.com/dsego/ssr_jsx)
@@ -155,3 +157,5 @@
 - [tinyargs](https://github.com/egoist/tinyargs) - Simple yet flexible CLI parser for Node.js and Deno.
 - [Deno Joins TC39 (2021)](https://deno.com/blog/deno-joins-tc39) ([HN](https://news.ycombinator.com/item?id=29538577))
 - [socket_fetch](https://github.com/cloudydeno/deno-socket_fetch) - Remake of fetch() using Deno sockets, useful for niche usecases such as UNIX domain sockets.
+- [Build, Deploy and Run a Deno Application](https://fly.io/docs/getting-started/deno/) ([Tweet](https://twitter.com/ebey_jacob/status/1471009211416932353))
+- [deno-canvas](https://github.com/DjDeveloperr/deno-canvas) - Canvas API for Deno, ported from canvaskit-wasm (Skia).

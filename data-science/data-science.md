@@ -217,3 +217,5 @@
 - [Data Engineering Principles - Cogent](https://cogent.co/blog/data-engineering-principles/)
 - [Data Science at the Command Line Book (2021)](https://datascienceatthecommandline.com/2e/) - Obtain, Scrub, Explore, and Model Data with Unix Power Tools.
 - [DrivenData](https://www.drivendata.org/) - Data science competitions for social good. ([Winners Code](https://github.com/drivendataorg/competition-winners))
+- [Tabby Data](https://www.tabbydata.com/) - No-fuss data warehouse for startups. ([SQL Assistant Demo](https://app.tabbydata.com/sql-assistant-demo)) ([HN](https://news.ycombinator.com/item?id=29581376))
+- [Data Engineering Zoomcamp (2022)](https://github.com/DataTalksClub/data-engineering-zoomcamp)

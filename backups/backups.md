@@ -31,6 +31,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [nFreezer](https://github.com/josephernest/nfreezer) - Encrypted-at-rest backup tool, designed specifically for the case when the destination server is untrusted.
 - [rsync](https://www.rsync.net/index.html) - Cloud Storage for Offsite Backup. ([Code](https://github.com/WayneD/rsync))
 - [Bakelite](https://github.com/richfelker/bakelite) - Incremental backup with strong cryptographic confidentiality baked into the data model.
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 
 ## Cloud Storage
 

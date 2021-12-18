@@ -94,3 +94,5 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Computer-designed organisms](https://cdorgs.github.io/) ([Article](https://arstechnica.com/science/2021/11/mobile-clusters-of-cells-can-help-assemble-a-mini-version-of-themselves/))
 - [The RNA World and the Origins of Life](https://www.ncbi.nlm.nih.gov/books/NBK26876/) ([HN](https://news.ycombinator.com/item?id=29480428))
 - [Ask HN: What things has tech made worse in your life? (2021)](https://news.ycombinator.com/item?id=29511761)
+- [LIFE BEYOND 3: In Search of Giants. The hunt for intelligent alien life (2021)](https://www.youtube.com/watch?v=saWNMPL5ygk)
+- [Ask HN: How do you accept your place in the world? (2021)](https://news.ycombinator.com/item?id=29589446)

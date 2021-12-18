@@ -79,3 +79,5 @@
 - [Deconstructing the Garbage-First Collector (2020)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/g1-vee-2020.pdf)
 - [llmalloc](https://github.com/matthieu-m/llmalloc) - Low-latency malloc implementation.
 - [Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment (2021)](https://arxiv.org/abs/2110.01098) ([Lobsters](https://lobste.rs/s/dvwomq/does_bronze_garbage_collector_make_rust))
+- [Hardened malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems.
+- [An Empirical Lower Bound on the Overheads of Production Garbage Collectors (2021)](https://arxiv.org/pdf/2112.07880.pdf) ([Tweet](https://twitter.com/halvarflake/status/1471442159618437122))

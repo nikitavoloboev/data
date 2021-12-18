@@ -247,3 +247,5 @@
 - [TorchRecipes](https://github.com/facebookresearch/recipes) - Train machine learning models with a couple of lines of code.
 - [DABS](https://github.com/alextamkin/dabs) - Domain-Agnostic Benchmark for Self-Supervised Learning.
 - [apricot](https://github.com/jmschrei/apricot) - Implements submodular optimization for the purpose of selecting subsets of massive data sets to train machine learning models quickly.
+- [Theseus](https://github.com/facebookresearch/theseus) - Library for differentiable nonlinear optimization built on PyTorch.
+- [MMSelfSup](https://github.com/open-mmlab/mmselfsup) - OpenMMLab Self-Supervised Learning Toolbox and Benchmark.

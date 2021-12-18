@@ -186,6 +186,7 @@
 - [npm-install](https://github.com/bahmutov/npm-install) - GitHub Action to install npm dependencies with caching without any configuration.
 - [Jest Github Action](https://github.com/mattallty/jest-github-action) - Jest action adding checks with annotations to your pull requests and coverage table as comments.
 - [pkg-size action](https://github.com/pkg-size/action) - GitHub Action for getting automated size reports on your pull-requests.
+- [actions-package-update](https://github.com/taichi/actions-package-update) - Keeps npm dependencies up-to-date by making pull requests from GitHub Actions or CI.
 
 ## TS
 
@@ -354,3 +355,4 @@
 - [GitHub Actions Badge](https://actions-badge.atrox.dev/) - Shields.io Badge for your GitHub Actions. ([Code](https://github.com/Atrox/github-actions-badge))
 - [Keyless signing with GitHub Actions](https://github.com/mattmoor/zero-friction-actions)
 - [Run server as systemd process & automate deployment with github actions (2021)](https://lakhan.me/blog/automate-server-deployment)
+- [Simple autograding with GitHub Classroom + GitHub Actions + CML Container (2021)](https://mti-lab.github.io/blog/2021/12/15/autograding.html)

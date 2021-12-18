@@ -55,3 +55,4 @@
 - [libsnark](https://github.com/scipr-lab/libsnark) - C++ library for zkSNARK proofs.
 - [arkworks-gadgets](https://github.com/webb-tools/arkworks-gadgets) - Zero-knowledge gadgets for blockchain applications.
 - [CirC](https://github.com/circify/circ) - Compiling high-level languages for SMT, zero-knowledge proofs, and more.
+- [Gemini](https://github.com/mmaker/gemini) - Elastic proof system based on arkworks.

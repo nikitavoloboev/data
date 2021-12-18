@@ -42,3 +42,4 @@
 - [How to Collect a Reddit Dataset. Using PSAW and PRAW in Python (2021)](https://towardsdatascience.com/how-to-collect-a-reddit-dataset-c369de539114)
 - [Troddit](https://www.troddit.com/) - Web client for Reddit. ([Code](https://github.com/burhan-syed/troddit))
 - [Sending mass DMs on Reddit through API: a small experiment (2021)](https://www.trickster.dev/post/sending-mass-dms-on-reddit-through-api/)
+- [ArchiveTeam Warrior backing up Reddit](https://tracker.archiveteam.org/reddit/) ([HN](https://news.ycombinator.com/item?id=29584622))

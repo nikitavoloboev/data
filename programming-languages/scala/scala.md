@@ -122,3 +122,7 @@
 - [YEGNI - You Errr Gonna Need It (in Scala 3) - James Ward & Josh Suereth (2021)](https://www.youtube.com/watch?v=ZGD00jcMKnY)
 - [Scala 3 Macros - Nicolas Stucki (2021)](https://www.youtube.com/watch?v=BbTZi8siN28)
 - [Sustainable Scala (2021)](https://www.scala-lang.org/blog/2021/12/14/sustainable-scala.html)
+- [Scale By the Bay](https://www.scale.bythebay.io/) - Developers' own conference.
+- [Scala Step-by-Step](https://dot-iris.github.io/) - Extend the the DOT calculus, that is, the formal foundations of the Scala programming language, using step-indexed logical relations and the Iris framework; the result is the guarded DOT(gDOT) calculus. ([Code](https://github.com/Blaisorblade/dot-iris))
+- [SoftwareMill Scala Posts](https://softwaremill.com/blog/#tags=scala)
+- [Your Program Is a Language - Ryan Peters (2021)](https://www.youtube.com/watch?v=7kYqH5XTP18)

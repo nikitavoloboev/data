@@ -217,3 +217,4 @@ useEffect(() => {
 - [How React Uses Closures to Avoid Bugs](https://epicreact.dev/how-react-uses-closures-to-avoid-bugs/)
 - [Recoil Design Tool](https://github.com/jacques-blom/recoil-design-tool) - Simple example design tool, built using Recoil and React Suspense.
 - [Make useRef lazy — 4 ways (2021)](https://thoughtspile.github.io/2021/11/30/lazy-useref/) ([Reddit](https://www.reddit.com/r/reactjs/comments/r5luer/make_useref_lazy_4_ways/))
+- [The only two custom React hooks we ever really use (2021)](https://blog.molecule.dev/the-only-custom-react-hooks-we-use/) ([Tweet](https://twitter.com/signalnerve/status/1471943825732116480)) ([HN](https://news.ycombinator.com/item?id=29591816))

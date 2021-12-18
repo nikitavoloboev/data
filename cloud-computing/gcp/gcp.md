@@ -56,3 +56,5 @@
 - [Deploying to Cloud Run with Go (2021)](https://ahmet.im/blog/cloud-run-deploy-api/)
 - [Bootstrap your Google Cloud Foundation with Terraform and Gitlab CI (2021)](https://johansiebens.dev/posts/2021/05/bootstrap-your-google-cloud-foundation-with-terraform-and-gitlab-ci/)
 - [Microservices Architecture on Google Cloud (2021)](https://cloud.google.com/blog/topics/developers-practitioners/microservices-architecture-google-cloud) ([HN](https://news.ycombinator.com/item?id=29294267))
+- [Cloud Run Proxy](https://github.com/GoogleCloudPlatform/cloud-run-proxy) - Local proxy for authenticating requests to Cloud Run.
+- [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun)

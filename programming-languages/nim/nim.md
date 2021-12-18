@@ -35,3 +35,5 @@
 - [Nim 1.6 (2021)](https://nim-lang.org/blog/2021/10/19/version-160-released.html) ([HN](https://news.ycombinator.com/item?id=28916172))
 - [Metaprogramming in Nim (2021)](https://www.youtube.com/watch?v=2EWLE-IFgGM)
 - [Zen of Nim (2021)](https://nim-lang.org/blog/2021/11/15/zen-of-nim.html)
+- [Building a simple room-based chat application in Nim (using HTMX) (2021)](https://arhamjain.com/2021/11/22/nim-simple-chat.html) ([HN](https://news.ycombinator.com/item?id=29594763))
+- [Nim 1.6.2 (2021)](https://nim-lang.org/blog/2021/12/17/version-162-released.html) ([HN](https://news.ycombinator.com/item?id=29589436))

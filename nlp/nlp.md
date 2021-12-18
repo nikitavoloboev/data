@@ -420,3 +420,6 @@
 - [whatlies](https://github.com/RasaHQ/whatlies) - Toolkit to help understand "what lies" in word embeddings. Also benchmarking.
 - [CLIP-Guided-Diffusion](https://github.com/nerdyrodent/CLIP-Guided-Diffusion)
 - [Factual Probing Is [MASK]: Learning vs. Learning to Recall (2021)](https://arxiv.org/abs/2104.05240) ([Code](https://github.com/princeton-nlp/OptiPrompt))
+- [Improving Compositional Generalization with Latent Structure and Data Augmentation (2021)](https://arxiv.org/abs/2112.07610)
+- [PORORO](https://github.com/kakaobrain/pororo) - Platform Of neuRal mOdels for natuRal language prOcessing.
+- [PRIMER: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization (2021)](https://arxiv.org/abs/2110.08499) ([Code](https://github.com/allenai/PRIMER))

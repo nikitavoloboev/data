@@ -147,7 +147,7 @@
 - [Teaching Compilers Backward (2021)](https://blog.sigplan.org/2021/02/23/teaching-compilers-backward/) ([HN](https://news.ycombinator.com/item?id=26237368))
 - [Compiler versus Transpiler: what is a compiler, anyway?](https://hisham.hm/2021/02/25/compiler-versus-transpiler-what-is-a-compiler-anyway/)
 - [Inlining and Compiler Optimizations (2021)](https://wolchok.org/posts/inlining-and-compiler-optimizations/)
-- [How to write a JIT compiler](https://github.com/spencertipping/jit-tutorial)
+- [How to write a JIT compiler](https://github.com/spencertipping/jit-tutorial) ([HN](https://news.ycombinator.com/item?id=29566249))
 - [JitFromScratch](https://github.com/weliveindetail/JitFromScratch) - Example project from my talks in the LLVM Social Berlin and C++ User Group.
 - [Interpreter, Compiler, JIT (2015)](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/) ([Code](https://github.com/jserv/jit-construct))
 - [A simple program reducer for any language (2021)](https://comby.dev/blog/2021/03/26/comby-reducer)
@@ -194,3 +194,4 @@
 - [Understanding Fast-Math (2021)](https://pspdfkit.com/blog/2021/understanding-fast-math/) ([HN](https://news.ycombinator.com/item?id=29482350))
 - [Talking with a legend – interview with Anders Hejlsberg (2021)](https://www.youtube.com/watch?v=K3qf8gRFESU)
 - [Everything You Never Wanted To Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
+- [abstraps](https://github.com/femtomc/abstraps) - Extensible compiler middle layer with abstract interpreters.

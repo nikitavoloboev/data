@@ -30,6 +30,7 @@
 
 ## Libraries
 
+- [Harmony](https://github.com/harmonyland/harmony) - Easy to use Discord API Library for Deno.
 - [Songbird](https://github.com/serenity-rs/songbird) - Async Rust library for the Discord voice API.
 - [Discord Rust](https://github.com/twilight-rs/twilight)
 - [Discord Rust 2](https://github.com/serenity-rs/serenity)
@@ -94,3 +95,4 @@
 - [python-discord-webhook](https://github.com/lovvskillz/python-discord-webhook) - Execute discord webhooks.
 - [Awesome Discord](https://github.com/jacc/awesome-discord)
 - [The Best Discord Bots for Your Server (2021)](https://www.wired.com/story/best-discord-bots/)
+- [Top.gg](https://top.gg/) - The Best Discord Bots and Servers.

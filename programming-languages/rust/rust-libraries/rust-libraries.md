@@ -217,6 +217,8 @@
 - [dolly](https://github.com/h3r2tic/dolly) - Composable camera rigs.
 - [gpgpu](https://github.com/UpsettingBoy/gpgpu-rs) - Simple GPGPU framework for Rust built on top of wgpu.
 - [jpeg-decoder](https://github.com/image-rs/jpeg-decoder) - Rust library for decoding JPEGs.
+- [raster.rs](https://github.com/AspecScire/rasters.rs) - Raster processing library and tools written in rust.
+- [geo-svg](https://github.com/lelongg/geo-svg) - Generate SVG strings from geo-types.
 
 ## Games
 
@@ -428,6 +430,7 @@
 - [byteme](https://github.com/breuHQ/byteme) - Proc-macro to get Vec<u8> from struct and vise versa.
 - [Cute](https://github.com/mattgathu/cute) - Macro for Python-esque list comprehensions in Rust.
 - [real_async_trait](https://github.com/4lDO2/real-async-trait-rs) - Proc macro for real async traits.
+- [Enum Variant Type](https://github.com/azriel91/enum_variant_type) - Proc macro derive to generate structs from enum variants.
 
 ## Math
 
@@ -446,7 +449,7 @@
 - [Abomonation](https://github.com/TimelyDataflow/abomonation) - Mortifying serialization library for Rust.
 - [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter. ([HN](https://news.ycombinator.com/item?id=25956502)) ([Maturin - Build and publish crates with pyo3](https://github.com/PyO3/maturin))
 - [actix](https://github.com/actix/actix)
-- [tokio](https://github.com/tokio-rs/tokio)
+- [Tokio](https://github.com/tokio-rs/tokio) - Runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers. ([Web](https://tokio.rs/)) ([Tokio Console](https://tokio.rs/blog/2021-12-announcing-tokio-console)) ([HN](https://news.ycombinator.com/item?id=29594389))
 - [nom](https://github.com/Geal/nom) - Parser combinators library. ([Tutorial](https://github.com/benkay86/nom-tutorial))
 - [nom-derive](https://github.com/rust-bakery/nom-derive) - Declarative parsing for Rust, using a custom derive and nom.
 - [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures.
@@ -1017,7 +1020,7 @@
 - [gtmpl-rust](https://github.com/fiji-flo/gtmpl-rust) - Go text/template for rust.
 - [rust-x86](https://github.com/gz/rust-x86) - Rust library to use x86 (amd64) specific functionality and registers.
 - [granne](https://github.com/granne/granne) - Graph-based Approximate Nearest Neighbor Search.
-- [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python.
+- [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python. ([Web](https://www.pola.rs/)) ([HN](https://news.ycombinator.com/item?id=29584698))
 - [TransIter](https://github.com/neithernut/transiter) - Iterator suitable for navigating recursive structures and DAGs in rust.
 - [stdx](https://github.com/brson/stdx) - Missing batteries of Rust.
 - [Exocore](https://github.com/appaquet/exocore) - Distributed applications framework with private and encrypted data storage.
@@ -1229,6 +1232,8 @@
 - [nom_locate](https://github.com/fflorent/nom_locate) - Special input type for nom to locate tokens.
 - [libsecp256k1](https://github.com/paritytech/libsecp256k1) - Pure Rust Implementation of secp256k1.
 - [daachorse](https://github.com/legalforce-research/daachorse) - Fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
+- [cdchunking-rs](https://github.com/remram44/cdchunking-rs) - Content-Defined Chunking for Rust.
+- [serde_bytes](https://github.com/serde-rs/bytes) - Wrapper types to enable optimized handling of &[u8] and Vec<u8>.
 
 ## Cargo Plugins
 

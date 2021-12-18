@@ -135,6 +135,7 @@
 - [Dexie.js](https://dexie.org/) - Minimalistic IndexedDB Wrapper. ([Docs](https://dexie.org/docs/))
 - [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
 - [Dexie.js](https://github.com/dfahlander/Dexie.js) - Minimalistic Wrapper for IndexedDB. ([Web](https://dexie.org/))
+- [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database.
 
 ## React
 
@@ -698,6 +699,8 @@
 - [dotparser](https://github.com/anvaka/dotparser) - Parser of GraphViz dot file format.
 - [bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written using JavaScript TypedArrays.
 - [ocean.js](https://github.com/oceanprotocol/ocean.js) - JavaScript library to privately & securely publish, exchange, and consume data.
+- [diagram-js](https://github.com/bpmn-io/diagram-js) - Toolbox for displaying and modifying diagrams on the web.
+- [Swear](https://github.com/franciscop/swear) - Flexible promise handling with JavaScript.
 
 ## Links
 
@@ -735,3 +738,4 @@
 - [can-npm-publish](https://github.com/azu/can-npm-publish) - Command line tool that check to see if npm publish is possible.
 - [prebuildify](https://github.com/prebuild/prebuildify) - Create and package prebuilds for native modules.
 - [npm-stat](https://npm-stat.com/) - Download statistics for NPM packages. ([Code](https://github.com/pvorb/npm-stat.com))
+- [Packemon](https://github.com/milesj/packemon) - Build and prepare packages for npm distribution using standardized configurations and practices. ([Docs](https://packemon.dev/docs/))

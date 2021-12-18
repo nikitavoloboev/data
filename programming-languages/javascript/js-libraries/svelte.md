@@ -6,6 +6,7 @@
 - [Elianiva](https://elianiva.me/) ([Code](https://github.com/elianiva/elianiva.me))
 - [SvelteKit RealWorld App](https://github.com/sveltejs/realworld)
 - [Mac OS Monterey Web](https://macos.vercel.app/) ([Code](https://github.com/puruvj/macos-web))
+- [Webstone](https://github.com/WebstoneHQ/webstone) - Svelte/SvelteKit/GraphQL/Prisma.
 
 ## Notes
 
@@ -152,3 +153,4 @@
 - [Build an App with SvelteKit and Tailwind CSS (2021)](https://www.youtube.com/watch?v=YipaPr4Aex8)
 - [The many meanings of $ in Svelte (2021)](https://geoffrich.net/posts/svelte-$-meanings/) ([Reddit](https://www.reddit.com/r/sveltejs/comments/rfi89x/the_many_meanings_of_in_svelte/))
 - [The Future of Svelte (Interview with Rich Harris) (2021)](https://www.youtube.com/watch?v=uQntFkK8Z54)
+- [Code for Svelte official sites](https://github.com/sveltejs/sites)

@@ -108,3 +108,4 @@
 - [Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation (2021)](https://arxiv.org/abs/2109.01950) ([HN](https://news.ycombinator.com/item?id=29489628))
 - [Deep Learning with Julia book, using Flux.jl](https://deeplearningwithjulia.com/) ([Code](https://github.com/logankilpatrick/DeepLearningWithJulia))
 - [Bayesian Statistics with Julia and Turing](https://github.com/storopoli/Bayesian-Julia)
+- [The Comprehensive Julia Tutorials - YouTube](https://www.youtube.com/playlist?list=PLCXbkShHt01seTlnlVg6O7f6jKGTguFi7) ([Code](https://github.com/emmettgb/JuliaLessons))

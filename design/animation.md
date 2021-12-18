@@ -60,3 +60,4 @@
 - [Free Practical Guide to Web Animation](https://tilda.education/en/web-animation-course)
 - [Editor and Presenter for Manim Generated Content](https://github.com/ManimCommunity/manim_editor)
 - [Learn React Animations by Creating a Stripe inspired Menu](https://www.mikealche.com/software-development/learn-react-animations-by-creating-a-stripe-inspired-menu)
+- [Simplicial Fluid on triangle meshes](https://yhesper.github.io/projects/2_project_simpfluid/)

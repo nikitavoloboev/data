@@ -6,7 +6,7 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 
 ## Links
 
-- [FreeBSD Handbook](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html)
+- [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/introduction/)
 - [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)
 - [FreeBSD Source](https://github.com/freebsd/freebsd)
 - [What are the differences between OpenBSD and Linux? (2019)](https://cfenollosa.com/blog/what-are-the-differences-between-openbsd-and-linux.html) ([HN](https://news.ycombinator.com/item?id=20028370))

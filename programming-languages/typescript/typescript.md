@@ -53,7 +53,7 @@
 - [OneFraction](https://github.com/TrillCyborg/onefraction) - React/ApolloGraphQL/Node/Mongo demo written in Typescript.
 - [TypeScript 3.0: The unknown Type (2019)](https://mariusschulz.com/blog/typescript-3-0-the-unknown-type)
 - [Lobsters: What have you learned from adopting Typescript into an existing JS codebase? (2019)](https://lobste.rs/s/3ucfhp/what_have_you_learned_from_adopting)
-- [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) ([Web](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup))
+- [React+TypeScript Cheat Sheets](https://github.com/typescript-cheatsheets/react) ([Web](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup))
 - [Using Typescript to make invalid states irrepresentable](http://www.javiercasas.com/articles/typescript-impossible-states-irrepresentable)
 - [High-level notes about TypeScript](https://github.com/orta/typescript-notes)
 - [TypeCov](https://github.com/codechecks/typecov) - Track missing type coverage to ensure type safety.
@@ -210,6 +210,8 @@
 - [Ivan Koshelev's TS articles](https://ikoshelev.azurewebsites.net/search/tags?tags=Typescript)
 - [TypeScript: The humble function overload (2021)](https://fettblog.eu/typescript-function-overload/)
 - [Kretes](https://kretes.dev/) - Programming Environment for TypeScript & Node.js. ([Code](https://github.com/kreteshq/kretes))
+- [dprint-plugin-typescript](https://github.com/dprint/dprint-plugin-typescript) - TypeScript formatting plugin for dprint.
+- [TypeScript for Pythonistas (2021)](https://medium.com/@Pilot-EPD-Blog/typescript-for-pythonistas-f90bbb297f0a) ([HN](https://news.ycombinator.com/item?id=29574948))
 
 ## Images
 

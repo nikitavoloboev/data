@@ -41,6 +41,7 @@
 - [Lona](https://github.com/lona-web-org/lona) - Web application framework, designed to write responsive web apps in full Python.
 - [AIOHTTP](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python. ([Docs](https://docs.aiohttp.org/en/stable/))
 - [GQL](https://github.cokm/graphql-python/gql) - GraphQL client in Python.
+- [FastWSGI](https://github.com/jamesroberts/fastwsgi) - Ultra fast WSGI server for Python 3. ([HN](https://news.ycombinator.com/item?id=29571421))
 
 ## ML
 
@@ -591,6 +592,9 @@
 - [PyTables](https://github.com/PyTables/PyTables) - Hierarchical datasets in Python.
 - [PyTerrier](https://github.com/terrier-org/pyterrier) - Python framework for performing information retrieval experiments.
 - [Python-Multipart](https://github.com/andrew-d/python-multipart) - Streaming multipart parser for Python.
+- [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - Framework for writing matcher objects, allowing you to declaratively define "match" rules.
+- [tqdm](https://github.com/tqdm/tqdm/) - Fast, Extensible Progress Bar for Python and CLI. ([Docs](https://tqdm.github.io/)) ([HN](https://news.ycombinator.com/item?id=29582437))
+- [ItsDangerous](https://github.com/pallets/itsdangerous/) - Safely pass trusted data to untrusted environments and back. ([Docs](https://itsdangerous.palletsprojects.com/en/2.0.x/index.html)) ([HN](https://news.ycombinator.com/item?id=29591395))
 
 ## Links
 

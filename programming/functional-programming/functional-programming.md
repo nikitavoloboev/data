@@ -144,6 +144,7 @@
 - [What exactly is functional programming (and it's benefits)? (2021)](https://www.reddit.com/r/scala/comments/qs52h2/what_exactly_is_functional_programming_and_its/)
 - [Journal of Functional Programming](https://www.cambridge.org/core/journals/journal-of-functional-programming) ([Goes Open Access](https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/)) ([HN](https://news.ycombinator.com/item?id=29218202))
 - [Algebraic Data Types in 10 Minutes – Daniel Rogozin (2021)](https://www.youtube.com/watch?v=UqwLn2OyQ_E)
+- [The Decent Way to Learn Functional Programming (2012)](https://blog.oxij.org/2012/01/16/the-decent-way-to-learn-functional-programming/)
 
 ## Images
 

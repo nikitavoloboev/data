@@ -81,3 +81,4 @@
 - [Toit](https://toit.io/) - IoT software platform for the ESP32.
 - [aws-iot-device-sdk-go](https://github.com/seqsense/aws-iot-device-sdk-go) - Implements AWS IoT presigned WebSockets dialer and AWS IoT features.
 - [Synpse](https://synpse.net/) - IoT fleet management software. ([Go Client](https://github.com/synpse-hq/synpse-go))
+- [SpringQL](https://github.com/SpringQL/SpringQL) - Open-source stream processor for IoT devices and in-vehicle computers.

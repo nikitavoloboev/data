@@ -49,3 +49,4 @@
 - [Maven](https://maven.com/) - Create and teach cohort-based courses. ([Twitter](https://twitter.com/mavenhq))
 - [AlterClass](https://alterclass.io/) - Platform for making and selling programming courses. ([HN](https://news.ycombinator.com/item?id=29531434))
 - [Awesome Course](https://www.awesomecourse.dev/) - Create awesome courses that let your audience learn by coding. ([Code](https://github.com/enesozturk/awesome-course))
+- [Course Platform](https://github.com/m-abdelwahab/course-platform) - Uses NextJS/Prisma.

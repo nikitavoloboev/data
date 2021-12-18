@@ -493,3 +493,4 @@
 - [Some indexing best practices (2021)](https://www.pgmustard.com/blog/indexing-best-practices-postgresql)
 - [Slashbase](https://slashbase.com/) - Open-source collaborative IDE for your databases. ([Code](https://github.com/slashbase/slashbase))
 - [Индексируем базу: как делать хорошо и не делать плохо](https://github.com/Envek/saintprubyconf-db-indexes-talk)
+- [Ask HN: How do you manage direct updates to databases in a production system (2021)](https://news.ycombinator.com/item?id=29563226)

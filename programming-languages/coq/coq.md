@@ -102,3 +102,4 @@
 - [Vermillion](https://github.com/slasser/vermillion) - LL(1) parser generator verified in Coq.
 - [Coq Domains](https://github.com/jonsterling/coq-domains)
 - [Proof in Coq of the Gödel-Rosser 1st incompleteness theorem](https://github.com/coq-community/goedel)
+- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - Coq plugin embedding Elpi.
