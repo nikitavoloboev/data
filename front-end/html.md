@@ -205,4 +205,4 @@
 - [domutils](https://github.com/fb55/domutils) - Utilities for working with htmlparser2's DOM.
 - [carota](https://github.com/danielearwicker/carota) - Simple, flexible rich text rendering/editing on HTML Canvas.
 - [html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
-- [xj](https://idiomdrottning.org/xj) - HTML to JSON.
+- [xj](https://idiomdrottning.org/xj) - HTML to JSON. ([HN](https://lobste.rs/s/dmyqry/xj_html_json))

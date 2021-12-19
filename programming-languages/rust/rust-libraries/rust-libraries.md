@@ -1237,6 +1237,7 @@
 - [cdchunking-rs](https://github.com/remram44/cdchunking-rs) - Content-Defined Chunking for Rust.
 - [serde_bytes](https://github.com/serde-rs/bytes) - Wrapper types to enable optimized handling of &[u8] and Vec<u8>.
 - [rsx](https://github.com/victorporof/rsx) - Advanced JSX-like templating for Rust.
+- [simplelog](https://github.com/Drakulix/simplelog.rs) - Simple Logging Facility for Rust.
 
 ## Cargo Plugins
 

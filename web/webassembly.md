@@ -235,3 +235,4 @@
 - [wasi-nn](https://github.com/WebAssembly/wasi-nn) - Neural Network proposal for WASI.
 - [Tail Call Proposal for WebAssembly](https://github.com/WebAssembly/tail-call)
 - [Threads Proposal for WebAssembly](https://github.com/WebAssembly/threads)
+- [Javy](https://github.com/Shopify/javy) - Run your JavaScript on WebAssembly.

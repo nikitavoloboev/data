@@ -384,3 +384,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [List of influential Russian people](https://twitter.com/KevinRothrock/status/1471261826587443200)
 - [Малые города России, которые вас приятно удивили](https://twitter.com/arkhlikbez/status/1471265492740587521)
 - [Population Density Of Russia](https://www.reddit.com/r/MapPorn/comments/rg8hge/population_density_of_russia/)
+- [Масяня – легенда русского интернета / вДудь (2021)](https://www.youtube.com/watch?v=rjjpf3psiSg&t=1s)

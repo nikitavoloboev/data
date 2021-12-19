@@ -12,7 +12,7 @@
 - [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
 - [Bye bye Mongo, Hello Postgres](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) ([HN](https://news.ycombinator.com/item?id=18717168))
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/) ([HN](https://news.ycombinator.com/item?id=18950460))
-- [Slonik](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detail logging and assertions for node.js
+- [Slonik](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detail logging and assertions for node.js ([slonik-tools](https://github.com/mmkal/slonik-tools))
 - [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.
 - [prettier-plugin-pg](https://github.com/benjie/prettier-plugin-pg) - Work-in-progress plugin for prettier to support formatting of PostgreSQL-flavour SQL.
 - [PostGraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database.

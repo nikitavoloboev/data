@@ -165,3 +165,4 @@
 - [poCo](https://github.com/mudler/poco) - Create statically linked, portable binaries from container images.
 - [Luet](https://github.com/mudler/luet) - Container-based Package manager.
 - [Notation](https://github.com/notaryproject/notation) - Project to add signatures as standard items in the registry ecosystem.
+- [Community Attestation Service (CAS)](https://github.com/codenotary/cas) - Give any digital asset a meaningful, globally-unique, immutable identity that is authentic, verifiable, traceable from anywhere.

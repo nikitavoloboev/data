@@ -84,3 +84,4 @@
 - [An ultra-precise clock shows how to link the quantum world with gravity (2021)](https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/) ([HN](https://news.ycombinator.com/item?id=28988350))
 - [Beyond Quantum Mechanics and Relativity (2021)](https://www.youtube.com/watch?v=Lk-8fF-eMow)
 - [Brian Greene: Quantum Gravity, The Big Bang, Aliens, Death, and Meaning (2021)](https://www.youtube.com/watch?v=98HZanvAJ8Y)
+- [Five Starter Pieces: Quantum Information Science via Semi-definite Programs (2021)](https://arxiv.org/abs/2112.08276) ([Code](https://github.com/vsiddhu/SDP-Quantum-OR))

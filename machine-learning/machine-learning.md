@@ -622,3 +622,4 @@
 - [The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization (2021)](https://arxiv.org/abs/2110.07732) ([Code](https://github.com/RobertCsordas/ndr))
 - [Momentum Residual Neural Networks (2021)](https://arxiv.org/abs/2102.07870) ([Code](https://github.com/michaelsdr/momentumnet))
 - [Awesome-Zero-Shot-Learning](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning)
+- [Awesome Treasure of Transformers Models Collection](https://github.com/ashishpatel26/Treasure-of-Transformers)

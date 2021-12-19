@@ -118,3 +118,5 @@
 - [ViteFlare](https://github.com/alloc/viteflare) - Cloudflare workers meet Vite plugins.
 - [stripe-node Cloudflare Worker Template](https://github.com/stripe-samples/stripe-node-cloudflare-worker-template)
 - [Miniflare Example Project](https://github.com/mrbbot/miniflare-typescript-esbuild-jest) - Example Cloudflare Workers project that uses Miniflare for local development.
+- [Durable Objects REST Message Queue Example](https://github.com/ryan-mars/workers-queue-demo)
+- [helix-flare](https://github.com/launchport/helix-flare) - GraphQL for your Cloudflare Workers and Durable Objects.
