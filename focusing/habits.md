@@ -2,7 +2,7 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to ensure I complete my 6 daily habits I try to follow to live a [happy life](../life/happiness.md). The habits are chosen with great care and are a subset of my life [rules](rules.md) .
 
-![](https://i.imgur.com/0RLYD1c.png)
+![](https://i.imgur.com/ytn51eY.png)
 
 I get a notification every day at 20:00 on my phone to complete the habits.
 
@@ -16,9 +16,9 @@ I get a notification every day at 20:00 on my phone to complete the habits.
 
 `Focus | Impact` marked as done when I was not distracted by anything during the day (went through my todos one by one) (no analytics & pointless time wasters). I worked on my [goals](goals.md) & used time wisely. I was calm, mindful and happy.
 
-`Kind` marked as done when all/most of my [values](../business/startups/values.md) and [rules](rules.md) were held well. I showed love to people I care about. I was nice. I made new things and shared it.
+`Kind | Open / Loving` marked as done when all/most of my [values](../business/startups/values.md) and [rules](rules.md) were held well. I showed love to people I care about & myself (true love & letting go of any mistake/accident). I made new things and shared it. I was myself & unafraid of anything.
 
-`Plan | Reflect` marked as done when I made a plan for tomorrow and reflected on the day in [my journal](../looking-back/looking-back.md). Writing helps me clear up my mind and clean up life and my thinking.
+`Plan | Journal` marked as done when I made a plan for tomorrow and reflected on the day in [my journal](../looking-back/looking-back.md). Writing helps me clear up my mind and clean up life and my thinking. Planning includes: 1. Calendar check. 2. Tasks (for next day, especially important to define the first task!). Everything is planned as per the week goals.
 
 ## New habits
 

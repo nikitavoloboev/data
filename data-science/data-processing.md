@@ -64,7 +64,7 @@
 - [pypely](https://github.com/stoney95/pypely) - Make your data processing easy - build pipelines in a functional manner.
 - [An opinionated map of incremental and streaming systems (2021)](https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems/)
 - [Crossjoin](https://github.com/crossjoin-io/crossjoin) - Joins together your data from anywhere.
-- [Ceramic Network](https://ceramic.network/) - Decentralized, open source platform for creating, hosting, and sharing streams of data. ([TS Code](https://github.com/ceramicnetwork/js-ceramic)) ([GitHub](https://github.com/ceramicnetwork))
+- [Ceramic Network](https://ceramic.network/) - Decentralized, open source platform for creating, hosting, and sharing streams of data. ([TS Code](https://github.com/ceramicnetwork/js-ceramic)) ([GitHub](https://github.com/ceramicnetwork)) ([Doc](https://github.com/ceramicnetwork/ceramic))
 - [Graphite-Web](https://github.com/graphite-project/graphite-web) - Highly scalable real-time graphing system. ([Docs](https://graphite.readthedocs.io/en/stable/))
 - [vega](https://github.com/rajasekarv/vega) - Faster implementation of Apache Spark from scratch in Rust.
 - [Memgraph](https://github.com/memgraph/memgraph) - Build modern, graph-based applications on top of your streaming data in minutes. ([Web](https://memgraph.com/))

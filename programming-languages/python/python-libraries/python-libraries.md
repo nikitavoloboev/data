@@ -595,6 +595,7 @@
 - [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - Framework for writing matcher objects, allowing you to declaratively define "match" rules.
 - [tqdm](https://github.com/tqdm/tqdm/) - Fast, Extensible Progress Bar for Python and CLI. ([Docs](https://tqdm.github.io/)) ([HN](https://news.ycombinator.com/item?id=29582437))
 - [ItsDangerous](https://github.com/pallets/itsdangerous/) - Safely pass trusted data to untrusted environments and back. ([Docs](https://itsdangerous.palletsprojects.com/en/2.0.x/index.html)) ([HN](https://news.ycombinator.com/item?id=29591395))
+- [Pandaral·lel](https://github.com/nalepae/pandarallel) - Simple and efficient tool to parallelize Pandas operations on all available CPUs.
 
 ## Links
 

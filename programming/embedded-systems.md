@@ -154,3 +154,4 @@
 - [Humility](https://github.com/oxidecomputer/humility) - Debugger for Hubris.
 - [Hubris and Humility (2021)](https://oxide.computer/blog/hubris-and-humility)
 - [On Hubris and Humility: developing an OS for robustness in Rust (2021)](https://talks.osfc.io/osfc2021/talk/JTWYEH/) ([Article](https://cliffle.com/blog/on-hubris-and-humility/))
+- [Kaluma](https://github.com/kaluma-project/kaluma) - Tiny and efficient JavaScript runtime for microcontrollers. ([Web](https://kaluma.io/))

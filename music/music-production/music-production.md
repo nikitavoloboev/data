@@ -300,3 +300,4 @@
 - [A Binary Musical Instrument](https://ianthehenry.com/posts/binary-instrument/) ([HN](https://news.ycombinator.com/item?id=29483166))
 - [Web Audio Synthesis & Visualization Workshop](https://github.com/mattdesl/workshop-web-audio)
 - [The Haskell School of Music (2012)](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
+- [WaveNet: A Generative Model for Raw Audio (2016)](https://arxiv.org/abs/1609.03499) ([PyTorch Code](https://github.com/vincentherrmann/pytorch-wavenet))

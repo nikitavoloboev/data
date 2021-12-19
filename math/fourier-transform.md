@@ -35,3 +35,4 @@
 - [PyFFTW](https://github.com/pyFFTW/pyFFTW) - Pythonic wrapper around FFTW 3, the speedy FFT library.
 - [Fourier Transform Visualized via WebGL](https://static.laszlokorte.de/fourier/) ([HN](https://news.ycombinator.com/item?id=29455894))
 - [Fourier Transform an intuitive approach (2021)](https://www.youtube.com/watch?v=b36vNEhV9dc)
+- [Fast Fourier Convolution (FFC) for Image Classification (2020)](https://papers.nips.cc/paper/2020/hash/2fd5d41ec6cfab47e32164d5624269b1-Abstract.html) ([Code](https://github.com/pkumivision/FFC))

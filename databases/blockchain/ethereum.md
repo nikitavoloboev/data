@@ -412,3 +412,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Foundry](https://github.com/gakonst/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Optimistic Ethereum Tutorials](https://github.com/ethereum-optimism/optimism-tutorial)
 - [The Portal Network](https://github.com/ethereum/portal-network-specs) - Specifications for the Stateless Ethereum research effort.
+- [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum contracts in VSCode.

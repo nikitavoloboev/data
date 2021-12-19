@@ -126,3 +126,4 @@
 - [rss-parser](https://github.com/rbren/rss-parser) - Lightweight RSS parser, for Node and the browser.
 - [rss-to-email](https://github.com/rsslove/rss-to-email) - Generate HTML emails from your RSS feeds.
 - [How to Add an RSS Feed to a NextJS Blog (2021)](https://www.daan.fyi/writings/rss)
+- [Working With Web Feeds: It’s More Than RSS (2021)](https://css-tricks.com/working-with-web-feeds-its-more-than-rss/)

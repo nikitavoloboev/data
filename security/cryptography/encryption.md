@@ -63,3 +63,4 @@
 - [Secret](https://github.com/fabiospampinato/secret) - Simplest command to encrypt/decrypt a file, useful for committing encrypted ".env" files to version control, among other things.
 - [Trousseau](https://github.com/oleiade/trousseau) - Encrypted key-value store designed to be a simple, safe and trustworthy place for your data.
 - [EME for Go](https://github.com/rfjakob/eme) - EME (Encrypt-Mix-Encrypt) wide-block encryption for Go.
+- [Evervault](https://evervault.com/) - Encryption for developers. ([GitHub](https://github.com/evervault))

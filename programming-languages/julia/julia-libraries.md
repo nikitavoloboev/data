@@ -391,6 +391,8 @@
 - [GraphViz.jl](https://github.com/JuliaGraphs/GraphViz.jl) - Julia Binding to the GraphViz library.
 - [Interact](https://github.com/JuliaGizmos/Interact.jl) - Interactive widgets to play with your Julia code.
 - [Coverage.jl](https://github.com/JuliaCI/Coverage.jl) - Take Julia code coverage and memory allocation results, do useful things with them.
+- [ResumableFunctions](https://github.com/BenLauwens/ResumableFunctions.jl) - C# style generators a.k.a. semi-coroutines for Julia.
+- [Generators](https://github.com/zot/Generators.jl) - Very lightweight, task-based generators.
 
 ## Links
 
