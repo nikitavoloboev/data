@@ -276,3 +276,4 @@
 - [graphql-tag](https://github.com/apollographql/graphql-tag) - JavaScript template literal tag that parses GraphQL queries.
 - [Adobe Experience Manager's GraphQL APIs](https://github.com/adobe/aem-guides-wknd-graphql)
 - [graphql-tools (Rust)](https://github.com/dotansimha/graphql-tools-rs) - Implements tooling around GraphQL for Rust libraries.
+- [graphql-compose-modules](https://github.com/graphql-compose/graphql-compose-modules) - Toolkit for creating big GraphQL schemas with code-first approach in JavaScript.

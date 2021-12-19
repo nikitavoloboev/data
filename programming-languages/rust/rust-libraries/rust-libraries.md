@@ -1236,6 +1236,7 @@
 - [daachorse](https://github.com/legalforce-research/daachorse) - Fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
 - [cdchunking-rs](https://github.com/remram44/cdchunking-rs) - Content-Defined Chunking for Rust.
 - [serde_bytes](https://github.com/serde-rs/bytes) - Wrapper types to enable optimized handling of &[u8] and Vec<u8>.
+- [rsx](https://github.com/victorporof/rsx) - Advanced JSX-like templating for Rust.
 
 ## Cargo Plugins
 

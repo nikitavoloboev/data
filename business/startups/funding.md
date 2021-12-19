@@ -49,6 +49,7 @@
 - [Most common advice I share with very early-stage founders on fundraising: For the most part, assume you can’t educate investors. Go back to your list and qualify, qualify, qualify. Don’t talk to pagans. Your job is to preach to the converted.](https://twitter.com/lucasbagnocv/status/1431692210513326083)
 - [If you're good at building products, you have all the leverage. Don't let investors, exchanges, or people promising "partnerships" take advantage of you.](https://twitter.com/DylanMacalinao/status/1441587664029839364)
 - [I pitched hundreds of institutions and thousands of angels. One by one we started winning over early believers. Three years later, I had a hundred checks from a hundred angels (roughly $10m). And that’s how we capitalized the first three years of Peloton.](https://twitter.com/keylargofoley/status/1453495219522097157)
+- [Dilution really adds up. Avoid rounds completely or do them at <10% dilution if you can.](https://twitter.com/immad/status/1472594190559166470)
 
 ## Links
 

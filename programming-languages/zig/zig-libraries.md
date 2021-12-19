@@ -55,6 +55,7 @@
 - [known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - [zig-graph](https://github.com/mitchellh/zig-graph) - Directed graph data structure for Zig.
 - [ish](https://github.com/judofyr/ish) - Sketches for Zig.
+- [zig-libgc](https://github.com/mitchellh/zig-libgc) - Implements a Zig allocator that uses the Boehm-Demers-Weiser conservative Garbage Collector (libgc, bdwgc, boehm-gc).
 
 ## Links
 

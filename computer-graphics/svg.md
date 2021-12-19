@@ -121,3 +121,4 @@
 - [svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module.
 - [svg](https://github.com/rustyoz/svg) - Go library for parsing svg files.
 - [three-plotter-renderer](https://github.com/neurofuzzy/three-plotter-renderer) - SVG renderer with occlusion for plotters and SVG editors.
+- [WasmSVGGraphics](https://github.com/coastalwhite/WasmSVGGraphics) - Rust library for rendering SVG Graphics with WASM.

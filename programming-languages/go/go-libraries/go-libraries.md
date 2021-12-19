@@ -1173,6 +1173,8 @@
 - [ringbuffer](https://github.com/smallnest/ringbuffer) - Circular buffer (ring buffer) in Go, implemented io.ReaderWriter interface.
 - [generic](https://github.com/zyedidia/generic) - Collection of generic data structures written in Go.
 - [go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics.
+- [upfluence/pkg](https://github.com/upfluence/pkg)
+- [fx](https://github.com/nikgalushko/fx) - Useful functional programming helpers.
 
 ## Links
 

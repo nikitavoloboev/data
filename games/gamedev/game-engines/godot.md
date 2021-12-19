@@ -38,3 +38,4 @@
 - [Improvements to shaders and visual shaders in Godot 4.0 (2021)](https://godotengine.org/article/improvements-shaders-visual-shaders-godot-4)
 - [Multiplayer in Godot 4.0: Scene Replication (Part 1) (2021)](https://godotengine.org/article/multiplayer-changes-godot-4-0-report-4) ([HN](https://news.ycombinator.com/item?id=29362912))
 - [Godot Engine's native Blender exporter add-on](https://github.com/godotengine/godot-blender-exporter)
+- [Godot tips and tricks](https://github.com/me2beats/godot-tips-and-tricks)

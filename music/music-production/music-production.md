@@ -299,3 +299,4 @@
 - [How songwriters felt watching the new Beatles documentary (2021)](https://www.washingtonpost.com/arts-entertainment/2021/12/06/beatles-get-back-documentary-songwriters/) ([HN](https://news.ycombinator.com/item?id=29480027))
 - [A Binary Musical Instrument](https://ianthehenry.com/posts/binary-instrument/) ([HN](https://news.ycombinator.com/item?id=29483166))
 - [Web Audio Synthesis & Visualization Workshop](https://github.com/mattdesl/workshop-web-audio)
+- [The Haskell School of Music (2012)](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)

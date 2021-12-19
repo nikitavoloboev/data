@@ -159,3 +159,5 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [use-prosemirror](https://github.com/dminkovsky/use-prosemirror) - ProseMirror + React made easy.
 - [JetBrains Fleet](https://www.jetbrains.com/fleet/) - The Next-Generation IDE by JetBrains. ([HN](https://news.ycombinator.com/item?id=29377412))
 - [On the design of text editors (2020)](https://arxiv.org/abs/2008.06030) ([Tweet](https://twitter.com/jackrusher/status/1465600879382437892))
+- [List of structural editors](https://github.com/yairchu/list-of-structural-editors)
+- [Outline](https://outline.dev/) - Extensible text editor library that does things differently. ([Tweet](https://twitter.com/trueadm/status/1472377356044099587))

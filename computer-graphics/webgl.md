@@ -79,3 +79,4 @@
 - [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) - Julia bindings to the MeshCat WebGL viewer.
 - [WebGLWorker](https://github.com/kripken/webgl-worker) - Lets you write WebGL code in a web worker, as if WebGL were implemented there.
 - [Hilo3D](https://github.com/hiloteam/Hilo3d) - 3D WebGL Rendering Engine.
+- [Canvas2DtoWebGL.js](https://github.com/jagenjo/Canvas2DtoWebGL) - Ports (almost) all Canvas2D functions to the GPU so it can be mixed with a WebGL canvas.

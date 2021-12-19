@@ -873,6 +873,7 @@
 - [SecureXPC](https://github.com/trilemma-dev/SecureXPC) - Framework designed specifically for secure XPC Mach service communication.
 - [SPDiffable](https://github.com/ivanvorobei/SPDiffable) - Extension of Diffable API which allow not duplicate code and use less models.
 - [automerge-swift](https://github.com/automerge/automerge-swift) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
+- [MoreSFSymbols](https://github.com/cameronshemilt/MoreSFSymbols) - Collection of additional custom SFSymbols for Swift.
 
 ## Other (not lib)
 

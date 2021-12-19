@@ -96,3 +96,4 @@
 - [Remill](https://github.com/lifting-bits/remill) - Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode.
 - [mollusc](https://github.com/woodruffw/mollusc) - Pure-Rust libraries for parsing, interpreting, and analyzing LLVM.
 - [“LLVM-Libc” C Standard Library](https://llvm.org/docs/Proposals/LLVMLibC.html) ([HN](https://news.ycombinator.com/item?id=29447533))
+- [llvm-deno](https://github.com/littledivy/llvm-deno) - LLVM bindings for Deno.

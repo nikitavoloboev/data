@@ -290,3 +290,4 @@
 - [dats](https://github.com/immobiliare/dats) - Minimalistic zero-dependencies UDP/TCP statsd client for Node.js.
 - [WebAPI](https://github.com/astro-community/webapi) - Use Web APIs for Node.
 - [type-flag](https://github.com/privatenumber/type-flag) - CLI argument parser with first-class type support.
+- [next-chunk](https://github.com/grantila/next-chunk) - Asynchronously returns the next chunk in a Node.js readable stream.

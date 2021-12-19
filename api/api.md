@@ -299,3 +299,4 @@
 - [Kin OpenAPI](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 implementation for Go (parsing, converting, validation, and more).
 - [Varlink](https://varlink.org/) - APIs – plain-text, type-safe, discoverable, self-documenting, remotable. ([GitHub](https://github.com/varlink)) ([Go Code](https://github.com/varlink/go))
 - [Continuous API management](https://dh7.github.io/dh7%20github%20io%2011f133e867094e29bc5d0107782bb960/Continuous%20API%20management%203e05a4a904c147d096247320366ddc3d.html)
+- [The Light and Dark Side of the API Economy (2020)](https://www.swyx.io/api-economy/)

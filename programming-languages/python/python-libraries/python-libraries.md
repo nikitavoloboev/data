@@ -198,7 +198,7 @@
 - [Blaze](https://github.com/blaze/blaze) - Translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems.
 - [Dash Table](https://github.com/plotly/dash-table) - First-Class Interactive DataTable for Dash.
 - [Kombu](https://github.com/celery/kombu) - Messaging library for Python.
-- [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi)) ([FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator)) ([FastAPI Auth](https://github.com/Kludex/fastapi-authorization))
+- [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi)) ([FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator)) ([FastAPI Auth](https://github.com/Kludex/fastapi-authorization)) ([Getting started with GraphQL in Python with FastAPI and Ariadne](https://blog.yezz.me/blog/Getting-started-with-GraphQL-in-Python-with-FastAPI-and-Ariadne))
 - [Starlette](https://github.com/encode/starlette) - Little ASGI framework that shines. ([Docs](https://www.starlette.io/))
 - [Poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [POT: Python Optimal Transport](https://github.com/PythonOT/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
