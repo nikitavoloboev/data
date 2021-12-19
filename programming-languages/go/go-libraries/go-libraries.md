@@ -1175,6 +1175,7 @@
 - [go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics.
 - [upfluence/pkg](https://github.com/upfluence/pkg)
 - [fx](https://github.com/nikgalushko/fx) - Useful functional programming helpers.
+- [Thixo](https://github.com/nikgalushko/thixo) - Template functions for Go templates.
 
 ## Links
 

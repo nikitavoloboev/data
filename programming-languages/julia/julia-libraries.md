@@ -59,6 +59,7 @@
 - [Turkie](https://github.com/theogf/Turkie.jl) - Turing + Makie.
 - [TuringGLM](https://github.com/TuringLang/TuringGLM.jl) - Makes easy to specify Bayesian Generalized Linear Models using the formula syntax and returns an instantiated Turing model.
 - [Bijectors.jl](https://github.com/TuringLang/Bijectors.jl) - Implementation of normalising flows and constrained random variable transformations.
+- [DistributionsAD.jl](https://github.com/TuringLang/DistributionsAD.jl) - Automatic differentiation of Distributions using Tracker, Zygote, ForwardDiff and ReverseDiff.
 
 ## Math
 

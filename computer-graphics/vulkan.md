@@ -56,3 +56,5 @@
 - [Vulkan-ExtensionLayer](https://github.com/KhronosGroup/Vulkan-ExtensionLayer) - Layer providing Vulkan features when native support is unavailable.
 - [Vulkan API Specification and related tools](https://github.com/KhronosGroup/Vulkan-Docs)
 - [Descriptorless Rendering in Vulkan (2021)](https://msiglreith.gitbook.io/blog/descriptorless-rendering-in-vulkan)
+- [Shaderc](https://github.com/google/shaderc) - Collection of tools, libraries, and tests for Vulkan shader compilation.
+- [shaderc-rs](https://github.com/google/shaderc-rs) - Rust bindings for the shaderc library.

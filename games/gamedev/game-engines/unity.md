@@ -22,3 +22,4 @@
 - [Unity Actions](https://github.com/game-ci/unity-actions) - Github actions for testing and building Unity projects.
 - [Unity Asset Store](https://assetstore.unity.com/) - Best Assets for Game Making.
 - [Unity, Weta, and Faceless Platforms (2021)](https://stratechery.com/2021/unity-weta-and-faceless-platforms/)
+- [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection)

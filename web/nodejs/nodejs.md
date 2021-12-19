@@ -93,6 +93,7 @@
 - [Native ESM in Node.js w/ require() fallbacks and support for all front end compilers (2020)](https://dev.to/mikeal_2/native-esm-in-node-js-w-require-fallbacks-and-support-for-all-front-end-compilers-2ded)
 - [fetch-h2](https://github.com/grantila/fetch-h2) - Fetch API implementation for Node.js using the built-in http, https and http2 packages without any compatibility layer.
 - [piscina](https://github.com/piscinajs/piscina) - Fast, efficient Node.js Worker Thread Pool implementation.
+- [Tinypool](https://github.com/Aslemammad/tinypool) - Fork of piscina. Fast, efficient Node.js Worker Thread Pool implementation.
 - [Objection.js](https://github.com/Vincit/objection.js/) - SQL-friendly ORM for Node.js.
 - [Build JavaScript applications with Node.js](https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/)
 - [Node.js Notes](https://igoradamenko.com/blog/v6/)
