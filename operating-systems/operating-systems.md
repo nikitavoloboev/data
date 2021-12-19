@@ -128,6 +128,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [ZealOS](https://github.com/Zeal-Operating-System/ZealOS) - Modernized, professional fork of the 64-bit Temple Operating System.
 - [GrapheneOS](https://grapheneos.org/) - Private and secure mobile OS. ([GitHub](https://github.com/GrapheneOS))
 - [Florence OS](https://github.com/FlorenceOS/Florence) - Renaissance of Operating Systems in Zig.
+- [BRUTAL](https://brutal.smnx.sh/) - Operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering. ([Code](https://github.com/brutal-org/brutal))
+- [Embox](https://github.com/embox/embox) - Modular and configurable OS for embedded applications.
 
 ## Notes
 

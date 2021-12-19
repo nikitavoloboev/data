@@ -195,3 +195,4 @@
 - [Talking with a legend – interview with Anders Hejlsberg (2021)](https://www.youtube.com/watch?v=K3qf8gRFESU)
 - [Everything You Never Wanted To Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
 - [abstraps](https://github.com/femtomc/abstraps) - Extensible compiler middle layer with abstract interpreters.
+- [BNF Converter](https://github.com/BNFC/bnfc) - Compiler construction tool generating a compiler front-end from a Labelled BNF grammar.

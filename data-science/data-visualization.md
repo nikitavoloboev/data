@@ -130,3 +130,4 @@
 - [Awesome Dataviz](https://github.com/javierluraschi/awesome-dataviz)
 - [Awesome Web visualization frameworks](https://github.com/DrasticData/awesome-web-visualization-frameworks)
 - [The Science of Visual Data Communication: What Works (2021)](https://journals.sagepub.com/stoken/default+domain/10.1177%2F15291006211051956-FREE/full#.YbpbbYlu2Xw.twitter)
+- [Dash-by-Plotly](https://github.com/Coding-with-Adam/Dash-by-Plotly) - Dedicated to teaching Dash and Plotly.

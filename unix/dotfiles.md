@@ -40,6 +40,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [Zach Holman](https://github.com/holman/dotfiles)
 - [Thibault Duplessis](https://github.com/ornicar/dotfiles)
 - [Dimitri Sabadie](https://github.com/phaazon/config)
+- [Michael Lingelbach](https://github.com/mjlbach/dotfiles)
 
 ## Links
 

@@ -73,3 +73,4 @@
 - [WebRTC DataChannel in Rust](https://github.com/webrtc-rs/data)
 - [TestRTC](https://github.com/webrtc/testrtc) - Set of tests that can be easily run by a user to help diagnose WebRTC related issues.
 - [P2PT](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server.
+- [MiroTalk SFU](https://github.com/miroslavpejic85/mirotalksfu) - WebRTC with integrated SFU server. Video calls, messaging, screen sharing, recording and more.

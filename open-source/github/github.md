@@ -327,3 +327,4 @@ Awesome List
 - [Gist](https://github.com/oz/gist) - Simple Github Gist client.
 - [GitOops](https://github.com/ovotech/gitoops) - Tool to help attackers and defenders identify lateral movement and privilege escalation paths in GitHub organizations by abusing CI/CD pipelines and GitHub access controls.
 - [A brief history of code search at GitHub (2021)](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/) ([HN](https://news.ycombinator.com/item?id=29576977))
+- [massive-wax](https://github.com/Eomm/massive-wax) - Execute multiple operation on multiple repositories.

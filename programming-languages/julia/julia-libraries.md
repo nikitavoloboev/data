@@ -128,6 +128,7 @@
 - [Bridge.jl](https://github.com/mschauer/Bridge.jl) - Statistical toolbox for diffusion processes and stochastic differential equations. Named after the Brownian Bridge.
 - [Kalman](https://github.com/mschauer/Kalman.jl) - Flexible filtering and smoothing in Julia.
 - [CombinatorialSpaces.jl](https://github.com/AlgebraicJulia/CombinatorialSpaces.jl) - Simplicial sets and other combinatorial models of geometric spaces.
+- [PrettyNumbers.jl](https://github.com/ronisbr/PrettyNumbers.jl) - Pretty print numbers in Julia.
 
 ## NLP
 

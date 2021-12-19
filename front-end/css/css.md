@@ -427,3 +427,4 @@ all: unset
 - [DoodleCSS](https://chr15m.github.io/DoodleCSS/) - Simple hand drawn HTML/CSS theme. ([Code](https://github.com/chr15m/DoodleCSS)) ([HN](https://news.ycombinator.com/item?id=29551465))
 - [Consistent, Fluidly Scaling Type and Spacing (2021)](https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/)
 - [The State of CSS 2021](https://2021.stateofcss.com/en-US/)
+- [UI Snippets](https://ui-snippets.dev/) - Collection of UI Snippets. ([Code](https://github.com/emilkowalski/ui-snippets))

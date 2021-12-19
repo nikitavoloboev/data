@@ -275,7 +275,7 @@
 - [ChartView](https://github.com/AppPear/ChartView) - Swift package for displaying charts effortlessly.
 - [URLImage](https://github.com/dmytro-anokhin/url-image) - Asynchronous image loading in SwiftUI. SwiftUI Image view that displays an image downloaded from URL, with cache and filters.
 - [SwiftUI Router](https://github.com/frzi/SwiftUIRouter) - Routing in SwiftUI.
-- [Graphaello](https://github.com/nerdsupremacist/Graphaello) - Tool for Writing Declarative, Type-Safe and Data-Driven Applications in SwiftUI using GraphQL.
+- [Graphaello](https://github.com/nerdsupremacist/Graphaello) - Tool for Writing Declarative, Type-Safe and Data-Driven Applications in SwiftUI using GraphQL. ([Article](https://quintero.io/blog/Graphaello/))
 - [SwiftUI Grid](https://github.com/spacenation/swiftui-grid) - SwiftUI Grid view layout with custom styles.
 - [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Provides a Pager component built with SwiftUI native components.
 - [SwiftUI Shapes](https://github.com/spacenation/swiftui-shapes) - Collection of custom shapes for iOS and macOS.
@@ -378,6 +378,7 @@
 - [SwiftUIRouter](https://github.com/OrkhanAlikhanov/SwiftUIRouter) - Experimental navigation router for SwiftUI.
 - [PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView) - Elegant Pager View fully written in pure SwiftUI.
 - [SVGView](https://github.com/exyte/SVGView) - SVG parser written in SwiftUI.
+- [Snap](https://github.com/nerdsupremacist/Snap) - Customizable Snapping Drawer à la Apple Maps. 100% in SwiftUI.
 
 ## Test
 

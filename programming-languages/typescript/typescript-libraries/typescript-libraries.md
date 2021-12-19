@@ -238,6 +238,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Dastal](https://github.com/havelessbemore/dastal) - Data structures & algorithms implementations in TypeScript.
 - [base64-arraybuffer](https://github.com/niklasvh/base64-arraybuffer) - Encode/decode base64 data into ArrayBuffers.
 - [ts-shift](https://github.com/fwouts/ts-shift) - Generate efficient, TypeScript-friendly value validators from TypeScript types.
+- [logger](https://github.com/lvkdotsh/logger) - Zero dependency, light-weight, blazing fast customizable logging library.
+- [pacote](https://github.com/PacoteJS/pacote) - Box of goodies, in TypeScript.
 
 ## Links
 

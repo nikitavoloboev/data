@@ -46,3 +46,4 @@
 - [Remix for Next.js Developers (2021)](https://blog.plasmic.app/posts/remix-for-nextjs-developers/)
 - [Dynamic CSS with Remix Resource Routes (2021)](https://www.ebey.me/blog/dynamic-css-with-remix-resource-routes)
 - [Remix Crash Course (2021)](https://www.youtube.com/watch?v=d_BhzHVV4aQ)
+- [Remix on Cloudflare Pages](https://remix.pages.dev/) ([Code](https://github.com/GregBrimble/remix.pages.dev))

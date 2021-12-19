@@ -91,3 +91,4 @@
 - [XCRemoteCache](https://github.com/spotify/XCRemoteCache) - Remote cache tool for Xcode projects. It reuses target artifacts generated on a remote machine, served from a simple REST server. ([Article](https://engineering.atspotify.com/2021/11/16/introducing-xcremotecache-the-ios-remote-caching-tool-that-cut-our-clean-build-times-by-70/))
 - [XCGrapher](https://github.com/maxchuquimia/xcgrapher) - Framework-level dependency graph generator for Xcode projects - with support for custom graphing.
 - [Why the hate on Xcode? (2021)](https://www.reddit.com/r/swift/comments/qw7zj1/why_the_hate_on_xcode/)
+- [Xcode Notarize](https://github.com/devbotsxyz/xcode-notarize) - GitHub actions to Notarize macOS applications or plug-ins.

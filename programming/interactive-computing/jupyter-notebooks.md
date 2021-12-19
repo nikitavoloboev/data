@@ -163,3 +163,4 @@
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks.
 - [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications.
 - [repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images.
+- [jupyverse](https://github.com/jupyter-server/jupyverse) - Jupyter server based on FastAPI.

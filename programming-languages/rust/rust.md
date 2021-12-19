@@ -649,3 +649,5 @@
 - [Accurate mental model for Rust's reference types](https://docs.rs/dtolnay/0.0.9/dtolnay/macro._02__reference_types.html)
 - [Authoring a SIMD enhanced Wasm library with Rust (2021)](https://nickb.dev/blog/authoring-a-simd-enhanced-wasm-library-with-rust)
 - [A workaround for Rust's lack of structural subtyping (2021)](https://nickb.dev/blog/a-workaround-for-rusts-lack-of-structural-subtyping)
+- [rust-san](https://github.com/japaric/rust-san) - How-to: Sanitize your Rust code.
+- [rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker container for easily building static Rust binaries.

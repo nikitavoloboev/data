@@ -232,6 +232,7 @@
 - [microblob](https://github.com/miku/microblob) - Serve millions of JSON documents via HTTP.
 - [Requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers. ([Why I wrote my own Go HTTP client](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/)) ([Reddit](https://www.reddit.com/r/golang/comments/rincmj/why_i_wrote_my_own_go_http_client/))
 - [EasyRaft](https://github.com/ksrichard/easyraft) - Easy to use Raft library to make your app distributed, highly available and fault-tolerant.
+- [Truss](https://github.com/metaverse/truss) - Helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code.
 
 ## GraphQL
 
@@ -406,6 +407,7 @@
 - [tenus](https://github.com/milosgajdos/tenus) - Allows you to configure and manage Linux network devices programmatically.
 - [CAN Go](https://github.com/einride/can-go) - Makes use of the Linux SocketCAN abstraction for CAN communication.
 - [ethtool](https://github.com/safchain/ethtool) - Simple access to the Linux SIOCETHTOOL ioctl operations.
+- [Go eBPF](https://github.com/dropbox/goebpf) - Library to work with eBPF programs from Go.
 
 ## Apple
 
@@ -1168,6 +1170,9 @@
 - [deep-copy](https://github.com/globusdigital/deep-copy) - Tool for generating DeepCopy() functions for a given type.
 - [envconfig](https://github.com/vrischmann/envconfig) - Small library to read your configuration from environment variables.
 - [Optional](https://github.com/markphelps/optional) - Library of optional Go types.
+- [ringbuffer](https://github.com/smallnest/ringbuffer) - Circular buffer (ring buffer) in Go, implemented io.ReaderWriter interface.
+- [generic](https://github.com/zyedidia/generic) - Collection of generic data structures written in Go.
+- [go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics.
 
 ## Links
 

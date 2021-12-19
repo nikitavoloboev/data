@@ -136,7 +136,7 @@ All active variables can be seen by running `env`.
 - [Performance optimizations for the shell prompt (2021)](https://seb.jambor.dev/posts/performance-optimizations-for-the-shell-prompt/)
 - [GoTTY](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
-- [Unix Shell Programming: The Next 50 Years (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf) ([HN](https://news.ycombinator.com/item?id=27378444)) ([HN](https://news.ycombinator.com/item?id=28231981)) ([Review](https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html))
+- [Unix Shell Programming: The Next 50 Years (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf) ([HN](https://news.ycombinator.com/item?id=27378444)) ([HN](https://news.ycombinator.com/item?id=28231981)) ([Review](https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html)) ([HN](https://news.ycombinator.com/item?id=29610956))
 - [Hilbish](https://github.com/Rosettea/Hilbish) - Interactive Unix-like shell written in Go, with the config and other code written in Lua.
 - [Typed Pipes in Every Shell](http://joeyh.name/blog/entry/typed_pipes_in_every_shell/) ([HN](https://news.ycombinator.com/item?id=27535357))
 - [4 Useful fzf Tricks for Your Terminal (2021)](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)

@@ -49,3 +49,4 @@
 - [teoperator](https://github.com/schollz/teoperator) - Make OP-1 and OP-Z drum and synth patches from any sound. ([Web](https://teoperator.com/))
 - [tune](https://github.com/Woyten/tune) - Make xenharmonic music and create synthesizer tuning files for microtonal scales.
 - [OxiSynth](https://github.com/PolyMeilex/OxiSynth) - Pure rust soundfont synthesizer.
+- [FluidSynth](https://github.com/FluidSynth/fluidsynth) - Cross-platform, real-time software synthesizer based on the Soundfont 2 specification.

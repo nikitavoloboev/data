@@ -156,6 +156,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-spectre](https://github.com/windwp/nvim-spectre) - Search panel for neovim.
 - [Fine Command Line](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
 - [Searchbox](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner.
+- [Vim Highlighter](https://github.com/azabiong/vim-highlighter) - Highlight words and expressions.
 
 ## Looks
 

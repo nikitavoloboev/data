@@ -18,6 +18,7 @@
 
 - [Kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing. ([Web](https://kotest.io/))
 - [Turbine](https://github.com/cashapp/turbine) - Small testing library for kotlinx.coroutines Flow.
+- [Kaspresso](https://github.com/KasperskyLab/Kaspresso) - Great UI test framework.
 
 ## CLI
 

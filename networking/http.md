@@ -179,3 +179,4 @@
   messages.
 - [hpagent](https://github.com/delvedor/hpagent) - Ready to use http and https agent for working with proxies that keeps connections alive.
 - [HTTP/3 Is Fast (2021)](https://requestmetrics.com/web-performance/http3-is-fast) ([HN](https://news.ycombinator.com/item?id=29563229))
+- [Goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust.

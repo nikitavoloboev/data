@@ -73,3 +73,4 @@
 - [DynamoDB Foreign Data Wrapper for PostgreSQL](https://github.com/pgspider/dynamodb_fdw)
 - [New DynamoDB Table Class – Save Up To 60% in Your DynamoDB Costs (2021)](https://aws.amazon.com/blogs/aws/new-dynamodb-table-class-save-up-to-60-in-your-dynamodb-costs/)
 - [dynamodump](https://github.com/mifi/dynamodump) - Node CLI for backing up and restoring schema+data from DynamoDB tables.
+- [Starter project with Go, Gin and DynamoDB](https://github.com/vsouza/go-gin-boilerplate)

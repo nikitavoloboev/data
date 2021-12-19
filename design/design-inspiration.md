@@ -163,6 +163,7 @@ Here are few more things I liked, design wise.
 - [linus.coffee](https://linus.coffee/)
 - [Kevin Yien](https://kevinyien.com/blog.html)
 - [Oxide](https://oxide.computer/blog)
+- [Arash](https://blog.arash.codes/) ([Code](https://github.com/arashnrim/website))
 
 ## Products
 
@@ -299,6 +300,7 @@ Here are few more things I liked, design wise.
 - [Callum Macrae](https://macr.ae/)
 - [Dean Eigenmann](https://dean.eigenmann.me/)
 - [Jeff Reiner](https://reiner.design/)
+- [Mathias Quintero](https://quintero.io/)
 - [Bytes.Zone](https://bytes.zone/)
 - [Alex Grebenyuk](https://kean.blog/)
 - [Alex Tomlinson](https://alexlinks.glitch.me/)
