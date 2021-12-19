@@ -53,6 +53,7 @@
 - [Obsidian Zoom](https://github.com/vslinko/obsidian-zoom) - Zoom into heading and lists.
 - [Advanced Slides](https://github.com/MSzturc/obsidian-advanced-slides) - Lets you create markdown-based reveal.js presentations in Obsidian.
 - [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin) - Minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier.
+- [Prettier](https://github.com/hipstersmoothie/obsidian-plugin-prettier) - Format obsidian.md notes using prettier.
 
 ## Themes
 

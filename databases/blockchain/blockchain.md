@@ -308,3 +308,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [QuickNode](https://www.quicknode.com/) - Hosted Blockchain Infrastructure as a Service. ([Twitter](https://twitter.com/QuickNode))
 - [An NFT without a Blockchain. No gas fees. No ETH. No gatekeepers (2021)](https://shkspr.mobi/blog/2021/12/an-nft-without-a-blockchain-no-gas-fees-no-eth/) ([HN](https://news.ycombinator.com/item?id=29608534))
 - [Starport](https://starport.com/) - Developer-friendly interface to the Cosmos SDK. ([Code](https://github.com/tendermint/starport))
+- [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)

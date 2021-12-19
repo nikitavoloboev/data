@@ -90,3 +90,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Best cortisol lower techniques](https://twitter.com/AlmostMedia/status/1455958395521953793)
 - [Ten Steps Towards Happiness](http://hintjens.com/blog:99) ([HN](https://news.ycombinator.com/item?id=29215967))
 - [Underrated Reasons to Be Thankful](https://dynomight.net/thanks/) ([HN](https://news.ycombinator.com/item?id=29341055))
+- [Ask HN: How to optimize your career for happiness? (2021)](https://news.ycombinator.com/item?id=29614095)

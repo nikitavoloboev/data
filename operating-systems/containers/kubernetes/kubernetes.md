@@ -558,3 +558,4 @@
 - [simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook) - Aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible.
 - [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications.
 - [ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up.
+- [Cloudprober](https://github.com/cloudprober/cloudprober) - Active monitoring software to detect failures before your customers do. ([Docs](https://cloudprober.org/))

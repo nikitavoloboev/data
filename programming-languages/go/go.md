@@ -656,3 +656,5 @@ if err != nil {
 - [Trying Out Generics in Go (2021)](https://markphelps.me/posts/trying-out-generics-in-go/) ([HN](https://news.ycombinator.com/item?id=29581112))
 - [Why Go Getting Generics Will Not Change Idiomatic Go (2021)](http://www.jerf.org/iri/post/2955)
 - [In Go 1.18, generics are implemented through code specialization (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/Go18GenericsSpecialized)
+- [Simple Bank](https://github.com/techschool/simplebank) - Contains the codes of the Backend master class.
+- [Backend master class [Go, Postgres, Docker]](https://www.youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE) ([Code](https://github.com/techschool/simplebank))

@@ -47,6 +47,7 @@ Learning to build [startups](startups/startups.md).
 - [40 hour workweek was established over a century ago. Since then, we've invented 5G networks, automation, 3D printing, AR/VR, and a computer that can fit in your pocket. Nearly all of the tools have changed, yet somehow people still think the way we work needs to stay the same.](https://twitter.com/stephsmithio/status/1433939023278456833)
 - [Checking items off a list feels productive but it’s not effective. Effectiveness is staying focused on tasks that drive customer value.](https://twitter.com/techgirl1908/status/1462104303959695366)
 - [Within a year or two, we will see the end of cliff vesting or vesting of any kind. We are already seeing some large companies front-load RSUs. One big factor is competition with web3 projects where people can be compensated in instantly liquid tokens.](https://twitter.com/sriramk/status/1463977494667620352)
+- [I don't want a new cryptocurrency i want a new type of business legal structure that incentivizes you to actually do good in the world while making money.](https://twitter.com/mollyfmielke/status/1472231100487323652)
 
 ## Links
 
@@ -126,3 +127,4 @@ Learning to build [startups](startups/startups.md).
 - [Elon Musk on why tech patents are not great](https://twitter.com/manishm/status/1462179343925346307)
 - [Firstbase](https://www.firstbase.io/) - Start your business in the US from anywhere. ([Twitter](https://twitter.com/tryfirstbase))
 - [I started a paper website business (2021)](https://daily.tinyprojects.dev/paper_website) ([HN](https://news.ycombinator.com/item?id=29550812))
+- [Reinventing Organizations (2014)](https://www.youtube.com/watch?v=gcS04BI2sbk)

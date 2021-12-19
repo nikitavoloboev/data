@@ -701,6 +701,7 @@
 - [ocean.js](https://github.com/oceanprotocol/ocean.js) - JavaScript library to privately & securely publish, exchange, and consume data.
 - [diagram-js](https://github.com/bpmn-io/diagram-js) - Toolbox for displaying and modifying diagrams on the web.
 - [Swear](https://github.com/franciscop/swear) - Flexible promise handling with JavaScript.
+- [OpenSeadragon](https://github.com/openseadragon/openseadragon) - Open-source, web-based viewer for zoomable images, implemented in pure JavaScript. ([Web](http://openseadragon.github.io/))
 
 ## Links
 
@@ -739,3 +740,4 @@
 - [prebuildify](https://github.com/prebuild/prebuildify) - Create and package prebuilds for native modules.
 - [npm-stat](https://npm-stat.com/) - Download statistics for NPM packages. ([Code](https://github.com/pvorb/npm-stat.com))
 - [Packemon](https://github.com/milesj/packemon) - Build and prepare packages for npm distribution using standardized configurations and practices. ([Docs](https://packemon.dev/docs/))
+- [Top 1000 most depended-upon npm packages](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)

@@ -177,3 +177,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [100 things Dan learned working on React team (2021)](https://twitter.com/dan_abramov/status/1470613731071696896)
 - [Lecture Speedrun](https://zznidar.github.io/lecture-speedrun/) - Speed up silent portions of a lecture video/audio on-the-fly. ([Code](https://github.com/zznidar/lecture-speedrun))
 - [Best books for professional effectiveness (2021)](https://news.ycombinator.com/item?id=29602228)
+- [Lobsters: What are you planning to learn in 2022?](https://lobste.rs/s/thsihg/what_are_you_planning_learn_2022)
