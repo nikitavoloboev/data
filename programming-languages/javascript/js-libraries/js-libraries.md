@@ -702,6 +702,7 @@
 - [diagram-js](https://github.com/bpmn-io/diagram-js) - Toolbox for displaying and modifying diagrams on the web.
 - [Swear](https://github.com/franciscop/swear) - Flexible promise handling with JavaScript.
 - [OpenSeadragon](https://github.com/openseadragon/openseadragon) - Open-source, web-based viewer for zoomable images, implemented in pure JavaScript. ([Web](http://openseadragon.github.io/))
+- [Atomically](https://github.com/fabiospampinato/atomically) - Read and write files atomically and reliably.
 
 ## Links
 

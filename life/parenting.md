@@ -62,3 +62,4 @@
 - [Introducing Kiddos to a Big World of Awesomeness](https://github.com/obensource/little-kiddo-learning)
 - [Ребёнок сидит в телефоне и не хочет больше ничего — что делать? (2021)](https://www.youtube.com/watch?v=eUbdyWVpHJc)
 - [How do new parents not die of sleep deprivation?](https://www.reddit.com/r/NoStupidQuestions/comments/qy6w0l/how_do_new_parents_not_die_of_sleep_deprivation/)
+- [Ask HN: Are there any good “coding for kids” books? (2021)](https://news.ycombinator.com/item?id=29609345)

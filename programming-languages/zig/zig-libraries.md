@@ -54,6 +54,7 @@
 - [sokol-zig](https://github.com/floooh/sokol-zig) - Auto-generated Zig bindings for the sokol headers.
 - [known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - [zig-graph](https://github.com/mitchellh/zig-graph) - Directed graph data structure for Zig.
+- [ish](https://github.com/judofyr/ish) - Sketches for Zig.
 
 ## Links
 

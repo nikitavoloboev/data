@@ -126,3 +126,4 @@
 - [Scala Step-by-Step](https://dot-iris.github.io/) - Extend the the DOT calculus, that is, the formal foundations of the Scala programming language, using step-indexed logical relations and the Iris framework; the result is the guarded DOT(gDOT) calculus. ([Code](https://github.com/Blaisorblade/dot-iris))
 - [SoftwareMill Scala Posts](https://softwaremill.com/blog/#tags=scala)
 - [Your Program Is a Language - Ryan Peters (2021)](https://www.youtube.com/watch?v=7kYqH5XTP18)
+- [My Dos and Donts in sbt Build Definitions (2021)](https://www.chris-kipp.io/blog/my-dos-and-donts-in-sbt-build-definitions) ([Reddit](https://www.reddit.com/r/scala/comments/rjyse0/my_dos_and_donts_in_sbt_build_definitions/))

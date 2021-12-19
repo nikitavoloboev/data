@@ -379,6 +379,7 @@
 - [PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView) - Elegant Pager View fully written in pure SwiftUI.
 - [SVGView](https://github.com/exyte/SVGView) - SVG parser written in SwiftUI.
 - [Snap](https://github.com/nerdsupremacist/Snap) - Customizable Snapping Drawer à la Apple Maps. 100% in SwiftUI.
+- [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - SwiftUI package to handle permissions.
 
 ## Test
 

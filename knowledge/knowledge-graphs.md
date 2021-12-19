@@ -97,3 +97,4 @@
 - [How to Build a Knowledge Graph with Neo4J and Transformers (2021)](https://walidamamou.medium.com/how-to-build-a-knowledge-graph-with-neo4j-and-transformers-72b9471d6969)
 - [RaiseWikibase](https://github.com/UB-Mannheim/RaiseWikibase) - Knowledge graph construction: Fast inserts into a Wikibase instance.
 - [Wikibase knowledge graphs](https://github.com/shigapov/wikibase-knowledge-graphs)
+- [Comunica](https://github.com/comunica/comunica) - Knowledge graph querying framework for JavaScript. ([Web](https://comunica.dev/))

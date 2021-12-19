@@ -565,6 +565,7 @@ Here are few more things I liked, design wise.
 - [Duncan Geere](https://www.duncangeere.com/portfolio/)
 - [Dez Beberniss](https://desiraebeberniss.com/)
 - [Robert Squires](https://robertsquires.co.uk/)
+- [Chris Kipp](https://www.chris-kipp.io/)
 - [Wilson Miner](https://wilsonminer.com/)
 - [Mathias Schäfer](https://molily.de/)
 - [Wildan Zulfikar](https://wzulfikar.com/)

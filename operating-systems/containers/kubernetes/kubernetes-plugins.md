@@ -51,3 +51,4 @@
 - [Addon-operator](https://github.com/flant/addon-operator) - System to manage additional components for Kubernetes cluster in a simple, consistent and automated way.
 - [controller-rs](https://github.com/kube-rs/controller-rs) - Kubernetes example controller.
 - [kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - Toolkit for building declarative operators with kubebuilder.
+- [cli-runtime](https://github.com/kubernetes/cli-runtime) - Set of helpers for creating kubectl commands and plugins.
