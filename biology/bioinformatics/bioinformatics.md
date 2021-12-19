@@ -185,3 +185,4 @@
 - [Dockerfiles and documentation on tools for public health bioinformatics](https://github.com/StaPH-B/docker-builds)
 - [Arc Institute](https://arcinstitute.org/) - New institution for curiosity-driven biomedical science and technology. ([Tweet](https://twitter.com/patrickc/status/1471156220425871360))
 - [SeqLike](https://github.com/modernatx/seqlike) - Unified biological sequence manipulation in Python.
+- [Deep Learning for Molecules and Materials Book](https://dmol.pub/intro.html) ([Code](https://github.com/whitead/dmol-book))

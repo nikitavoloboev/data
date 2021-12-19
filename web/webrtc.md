@@ -72,3 +72,4 @@
 - [Establish WebRTC connection without a signaling server using nothing but Web Push (2021)](https://jimmy.warting.se/2021/02/16/p2p-signal-with-webpush.html)
 - [WebRTC DataChannel in Rust](https://github.com/webrtc-rs/data)
 - [TestRTC](https://github.com/webrtc/testrtc) - Set of tests that can be easily run by a user to help diagnose WebRTC related issues.
+- [P2PT](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server.

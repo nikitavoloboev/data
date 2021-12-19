@@ -80,6 +80,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Yannik Sander](https://blog.ysndr.de/) ([Code](https://github.com/ysndr/blog))
 - [Amélia](https://amelia.how/)
 - [Miguel Young](https://mcyoung.xyz/posts.html)
+- [Nick Babcock](https://nickb.dev/)
 
 ## Notes
 

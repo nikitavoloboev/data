@@ -231,6 +231,7 @@
 - [Gzip Handler](https://github.com/nytimes/gziphandler) - Go middleware to gzip HTTP responses.
 - [microblob](https://github.com/miku/microblob) - Serve millions of JSON documents via HTTP.
 - [Requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers. ([Why I wrote my own Go HTTP client](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/)) ([Reddit](https://www.reddit.com/r/golang/comments/rincmj/why_i_wrote_my_own_go_http_client/))
+- [EasyRaft](https://github.com/ksrichard/easyraft) - Easy to use Raft library to make your app distributed, highly available and fault-tolerant.
 
 ## GraphQL
 
@@ -1166,6 +1167,7 @@
 - [golang-set](https://github.com/deckarep/golang-set) - Simple set type for the Go language.
 - [deep-copy](https://github.com/globusdigital/deep-copy) - Tool for generating DeepCopy() functions for a given type.
 - [envconfig](https://github.com/vrischmann/envconfig) - Small library to read your configuration from environment variables.
+- [Optional](https://github.com/markphelps/optional) - Library of optional Go types.
 
 ## Links
 

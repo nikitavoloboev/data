@@ -315,3 +315,4 @@
 - [PyTorch vs TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/) ([HN](https://news.ycombinator.com/item?id=29552665))
 - [Perceiver IO](https://github.com/krasserm/perceiver-io) - PyTorch implementation of DeepMind's Perceiver IO with PyTorch Lightning scripts for distributed training.
 - [Neural network inferencing for PyTorch and TensorFlow with ONNX, WebAssembly System Interface, and WASI NN (2021)](https://radu-matei.com/blog/wasi-nn-onnx/)
+- [hamiltorch](https://github.com/AdamCobb/hamiltorch) - PyTorch-based library for Riemannian Manifold Hamiltonian Monte Carlo (RMHMC) and inference in Bayesian neural networks.

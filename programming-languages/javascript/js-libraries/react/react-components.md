@@ -240,6 +240,7 @@
 - [react-lineto](https://github.com/kdeloach/react-lineto) - Draw a line between two elements in React.
 - [Hacky](https://github.com/aidenybai/hacky) - Functional component-based UI library.
 - [Charts.css React](https://github.com/hollanddd/charts-css-react)
+- [Editable React Table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
 
 ## Links
 

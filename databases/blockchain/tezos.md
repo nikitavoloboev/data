@@ -85,3 +85,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [How decentralized is Tezos? (2021)](https://www.reddit.com/r/tezos/comments/qwm92e/how_much_decentralized_is_tezos/)
 - [Tezos: Driving Social, Political, and Economic Innovation (2021)](https://www.youtube.com/watch?v=UwpvrgaOFB8)
 - [TzFlow](https://tzflow.com/) - Watch Tezos transactions as they happen.
+- [TZComet](https://tzcomet.io/#/explorer) - Contract Metadata Viewer on Tezos. ([Code](https://github.com/oxheadalpha/TZComet))

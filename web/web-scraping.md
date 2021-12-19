@@ -130,3 +130,4 @@
 - [Notes on Writing Web Scrapers (2021)](https://cushychicken.github.io/rules-for-web-scrapers/)
 - [Scraping Websites With Logins (2021)](https://blog.octachart.com/scraping-websites-that-require-login-in-python) ([Reddit](https://www.reddit.com/r/Python/comments/rck8bh/scraping_websites_that_require_login_in_python/))
 - [Skan.jl](https://github.com/rikhuijzer/Skan.jl) - Scan web pages for changes using Julia & GitHub Actions.
+- [cloudflare-scraper](https://github.com/JimmyLaurent/cloudflare-scraper) - Package to bypass Cloudflare's protection.

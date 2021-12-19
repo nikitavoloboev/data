@@ -237,6 +237,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-runtime](https://github.com/fabiandev/ts-runtime) - Runtime Type Checks for TypeScript. ([Playground](https://fabiandev.github.io/ts-runtime/))
 - [Dastal](https://github.com/havelessbemore/dastal) - Data structures & algorithms implementations in TypeScript.
 - [base64-arraybuffer](https://github.com/niklasvh/base64-arraybuffer) - Encode/decode base64 data into ArrayBuffers.
+- [ts-shift](https://github.com/fwouts/ts-shift) - Generate efficient, TypeScript-friendly value validators from TypeScript types.
 
 ## Links
 

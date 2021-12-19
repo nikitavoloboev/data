@@ -90,3 +90,4 @@
 - [The fastest way to copy a file? (2021)](https://alexsaveau.dev/blog/performance/files/kernel/the-fastest-way-to-copy-a-file) ([HN](https://news.ycombinator.com/item?id=29358499))
 - [BetrFS](https://www.betrfs.org/) - File system that uses Bε trees. ([HN](https://news.ycombinator.com/item?id=29403320)) ([Code](https://github.com/oscarlab/betrfs))
 - [gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go.
+- [Replacing an unavailable ZFS drive (2021)](https://nickb.dev/blog/replacing-an-unavailble-zfs-drive)

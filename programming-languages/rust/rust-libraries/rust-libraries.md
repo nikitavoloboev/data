@@ -219,6 +219,7 @@
 - [jpeg-decoder](https://github.com/image-rs/jpeg-decoder) - Rust library for decoding JPEGs.
 - [raster.rs](https://github.com/AspecScire/rasters.rs) - Raster processing library and tools written in rust.
 - [geo-svg](https://github.com/lelongg/geo-svg) - Generate SVG strings from geo-types.
+- [Limelight](https://github.com/drifting-in-space/limelight) - WebGL2 wrapper with a focus on making high-performance WebAssembly graphics code easier to write and maintain.
 
 ## Games
 
@@ -431,6 +432,7 @@
 - [Cute](https://github.com/mattgathu/cute) - Macro for Python-esque list comprehensions in Rust.
 - [real_async_trait](https://github.com/4lDO2/real-async-trait-rs) - Proc macro for real async traits.
 - [Enum Variant Type](https://github.com/azriel91/enum_variant_type) - Proc macro derive to generate structs from enum variants.
+- [sscanf](https://github.com/mich101mich/sscanf) - Rust crate with a sscanf (inverse of format!()) Macro based on Regex.
 
 ## Math
 
@@ -1279,6 +1281,7 @@
 - [cargo-script](https://github.com/DanielKeep/cargo-script) - Cargo subcommand designed to let people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem.
 - [cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects.
 - [rhack](https://github.com/nakabonne/rhack) - Temporary edit external crates that your project depends on.
+- [Highway-rs](https://github.com/nickbabcock/highway-rs) - Native Rust port of Google's HighwayHash. Makes use of SIMD instructions for a fast and strong hash function.
 
 ## Links
 

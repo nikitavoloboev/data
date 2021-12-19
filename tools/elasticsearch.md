@@ -48,3 +48,4 @@
 - [Zinc](https://github.com/prabhatsharma/zinc) - Search engine that does full text indexing. Lightweight alternative to elasticsearch and runs in less than 100 MB of RAM.
 - [ElasticSearch with Scala and Akka (2015)](http://chris-zen.github.io/software/2015/05/10/elasticsearch-with-scala-and-akka.html)
 - [Appbase.io](https://www.appbase.io/) - Elasticsearch supercharged.
+- [rrinlog](https://github.com/nickbabcock/rrinlog) - Replacing Elasticsearch with Rust and SQLite.

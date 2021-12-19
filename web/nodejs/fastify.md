@@ -17,3 +17,4 @@
 - [Fastify SSE Plugin](https://github.com/NodeFactoryIo/fastify-sse-v2) - Fastify plugin for sending Server-sent events.
 - [postgrest-builder](https://github.com/Blazity/postgrest-builder) - Adds decorators for Nest.js to support fastify-multipart.
 - [fastify-multipart](https://github.com/fastify/fastify-multipart) - Multipart support for Fastify.
+- [Learn Fastify by building a Recipe App](https://github.com/one-aalam/havyt)

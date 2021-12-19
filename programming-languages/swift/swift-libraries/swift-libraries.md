@@ -377,6 +377,7 @@
 - [SwiftDown](https://github.com/qeude/SwiftDown) - Markdown editor component for your SwiftUI apps.
 - [SwiftUIRouter](https://github.com/OrkhanAlikhanov/SwiftUIRouter) - Experimental navigation router for SwiftUI.
 - [PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView) - Elegant Pager View fully written in pure SwiftUI.
+- [SVGView](https://github.com/exyte/SVGView) - SVG parser written in SwiftUI.
 
 ## Test
 

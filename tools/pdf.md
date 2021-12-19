@@ -21,3 +21,5 @@
 - [PDF to CSV converter](https://github.com/SahilChoudhary22/pdf2csv-converter)
 - [pikepdf](https://github.com/pikepdf/pikepdf) - Python library for reading and writing PDF files.
 - [pdf2svg](https://github.com/dawbarton/pdf2svg) - Simple PDF to SVG converter using the Poppler and Cairo libraries.
+- [CamlPDF](https://github.com/johnwhitington/camlpdf) - OCaml library for reading, writing and modifying PDF files.
+- [cpdf-binaries](https://github.com/coherentgraphics/cpdf-binaries) - PDF Command Line Tools binaries.

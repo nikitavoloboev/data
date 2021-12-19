@@ -231,3 +231,4 @@
 - [ES Module Integration Proposal for WebAssembly](https://github.com/WebAssembly/esm-integration)
 - [Chasm](https://github.com/ColinEberhardt/chasm) - Simple compile-to-WebAssembly language. ([Web](https://colineberhardt.github.io/chasm/))
 - [Introduction to WebAssembly components (2021)](https://radu-matei.com/blog/intro-wasm-components/) ([Reddit](https://www.reddit.com/r/WebAssembly/comments/rigbap/introduction_to_webassembly_components/)) ([HN](https://news.ycombinator.com/item?id=29591071))
+- [WASM components example](https://github.com/radu-matei/wasm-components-example)

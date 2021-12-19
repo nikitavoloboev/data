@@ -126,3 +126,4 @@
 - [How the GNU coreutils are tested (2017)](https://www.pixelbeat.org/docs/coreutils-testing.html)
 - [Fast Test, Slow Test (2012)](https://www.youtube.com/watch?v=RAxiiRPHS9k)
 - [Destroy All Software - Software Testing](https://www.destroyallsoftware.com/screencasts/catalog)
+- [nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node.

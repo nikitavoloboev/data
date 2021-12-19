@@ -23,3 +23,4 @@
 - [Differential Datalog Implementation in JS](https://github.com/datalogui/datalog) - Implementation of Datalog with a focus on managing UIs & UI state.
 - [Awesome Datalog](https://github.com/samuell/awesome-datalog)
 - [Scallop](https://github.com/scallop-lang/scallop-v1) - Scalable differentiable probabilistic Datalog engine, with Rust.
+- [Datalog Racket package](https://github.com/racket/datalog)
