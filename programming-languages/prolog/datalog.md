@@ -24,3 +24,4 @@
 - [Awesome Datalog](https://github.com/samuell/awesome-datalog)
 - [Scallop](https://github.com/scallop-lang/scallop-v1) - Scalable differentiable probabilistic Datalog engine, with Rust.
 - [Datalog Racket package](https://github.com/racket/datalog)
+- [datalog-ts](https://github.com/vilterp/datalog-ts) - Datalog interpreter and UI in TypeScript. ([Web](https://datalog-typechecker.netlify.app/))

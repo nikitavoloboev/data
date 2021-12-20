@@ -703,6 +703,7 @@
 - [Swear](https://github.com/franciscop/swear) - Flexible promise handling with JavaScript.
 - [OpenSeadragon](https://github.com/openseadragon/openseadragon) - Open-source, web-based viewer for zoomable images, implemented in pure JavaScript. ([Web](http://openseadragon.github.io/))
 - [Atomically](https://github.com/fabiospampinato/atomically) - Read and write files atomically and reliably.
+- [point-in-polygon](https://github.com/substack/point-in-polygon) - Determine if a point is inside of a polygon.
 
 ## Links
 

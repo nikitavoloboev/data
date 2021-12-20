@@ -623,3 +623,4 @@
 - [Momentum Residual Neural Networks (2021)](https://arxiv.org/abs/2102.07870) ([Code](https://github.com/michaelsdr/momentumnet))
 - [Awesome-Zero-Shot-Learning](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning)
 - [Awesome Treasure of Transformers Models Collection](https://github.com/ashishpatel26/Treasure-of-Transformers)
+- [Self-attention Does Not Need $O(n^2)$ Memory (2021)](https://arxiv.org/abs/2112.05682v2) ([Code](https://github.com/AminRezaei0x443/memory-efficient-attention))

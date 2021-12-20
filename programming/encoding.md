@@ -37,3 +37,4 @@
 - [ICU - International Components for Unicode](https://icu.unicode.org/) ([Code](https://github.com/unicode-org/icu))
 - [ruststep](https://github.com/ricosjp/ruststep) - STEP toolkit for Rust.
 - [Overview of Serialization Technologies (2018)](https://indico.cern.ch/event/658060/contributions/2898569/attachments/1622526/2582399/pivarski-serialization.pdf)
+- [Substrait](https://substrait.io/) - Cross-Language Serialization for Relational Algebra. ([Code](https://github.com/substrait-io/substrait)) ([substrait-rs](https://github.com/andygrove/substrait-rs))

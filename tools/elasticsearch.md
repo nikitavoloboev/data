@@ -49,3 +49,4 @@
 - [ElasticSearch with Scala and Akka (2015)](http://chris-zen.github.io/software/2015/05/10/elasticsearch-with-scala-and-akka.html)
 - [Appbase.io](https://www.appbase.io/) - Elasticsearch supercharged.
 - [rrinlog](https://github.com/nickbabcock/rrinlog) - Replacing Elasticsearch with Rust and SQLite.
+- [aws-es-proxy](https://github.com/abutaha/aws-es-proxy) - Small web server application sitting between your HTTP client (browser, curl, etc...) and Amazon Elasticsearch service.

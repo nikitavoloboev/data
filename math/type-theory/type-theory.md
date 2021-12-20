@@ -165,3 +165,6 @@
 - [Introduction to Domain Theory](http://www.cs.nott.ac.uk/~pszgmh/domains.html)
 - [Brown Benchmark for Table Types](https://github.com/brownplt/B2T2)
 - [Cubical Type Theory (2021)](https://amelia.how/posts/cubical-type-theory.html)
+- [Hindley-Milner Type Inference: A Practical Example (2014)](https://pfudke.wordpress.com/2014/11/20/hindley-milner-type-inference-a-practical-example-2/)
+- [Learning resources for type inference (2021)](https://www.reddit.com/r/ProgrammingLanguages/comments/rk4qnp/learning_resources_for_type_inference/)
+- [Basic Polymorphic Typechecking](http://lucacardelli.name/Papers/BasicTypechecking.pdf)

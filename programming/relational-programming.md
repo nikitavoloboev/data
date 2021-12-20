@@ -11,6 +11,7 @@
 - [metaKanren: Towards a self-synthesizing miniKanren](https://icfp21.sigplan.org/details/minikanren-2021-papers/4/metaKanren-Towards-a-self-synthesizing-miniKanren) ([Code](https://github.com/iambrj/metaKanren))
 - [µKanren-rs](https://github.com/ekzhang/ukanren-rs) - Rust implementation of µKanren, a featherweight relational programming language.
 - [µKanren](https://github.com/jasonhemann/microKanren) - Implementation of microKanren, a featherweight relational programming language.
+- [microKanren in Lua](https://github.com/silentbicycle/lua-ukanren)
 - [staged-miniKanren](https://github.com/namin/staged-miniKanren) - Staged relational interpreters: running with holes, faster.
 - [relic](https://github.com/wotbrew/relic) - Functional relational programming for Clojure/Script.
 - ["Strange Dreams of Stranger Loops" by Will Byrd (2021)](https://www.youtube.com/watch?v=AffW-7ika0E) ([Code](https://github.com/webyrd/stranger-loops-talk))

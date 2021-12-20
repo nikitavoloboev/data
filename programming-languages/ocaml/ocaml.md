@@ -103,3 +103,4 @@
 - [Robur](https://robur.coop/) - Software development cooperative specializing in robust and secure digital infrastructure written in OCaml. ([GitHub](https://github.com/roburio))
 - [OCaml plus Jane Street extensions](https://github.com/ocaml-flambda/ocaml-jst)
 - [PicoML](https://github.com/Quramy/pico-ml) - Toy programming language which is a subset of OCaml.
+- [How OCaml type checker works -- or what polymorphism and garbage collection have in common](https://okmij.org/ftp/ML/generalization.html)

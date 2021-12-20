@@ -1176,6 +1176,8 @@
 - [upfluence/pkg](https://github.com/upfluence/pkg)
 - [fx](https://github.com/nikgalushko/fx) - Useful functional programming helpers.
 - [Thixo](https://github.com/nikgalushko/thixo) - Template functions for Go templates.
+- [gohive](https://github.com/loveleshsharma/gohive) - Highly Performant and easy to use goroutine pool for Go.
+- [functools](https://github.com/rakeeb-hossain/functools) - Functional tools in Go 1.18 using newly introduced generics.
 
 ## Links
 

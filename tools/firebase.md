@@ -53,3 +53,6 @@
 - [Using Firebase Cloud Functions to trigger in-app messages (2021)](https://blog.gist.build/guides-using-firebase-cloud-functions-to-trigger-in-app-messages/)
 - [cypress-firebase](https://github.com/prescottprue/cypress-firebase) - Cypress plugin and custom commands for testing Firebase projects.
 - [Apollo DataSource for Firestore](https://github.com/swantzter/apollo-datasource-firestore)
+- [Baserunner](https://github.com/iosiro/baserunner) - Tool for exploring Firebase datastores.
+- [tiny-firestore-odm](https://github.com/paulgb/tiny-firestore-odm) - Lightweight Object Document Mapper for Firestore. It's built on top of firestore-serde.
+- [firestore-serde](https://github.com/paulgb/firestore-serde) - Rust serializer/deserializer for Google Cloud Firestore.

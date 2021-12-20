@@ -490,3 +490,6 @@
 - [Tracking People with 3D Representations (2021)](http://people.eecs.berkeley.edu/~jathushan/T3DP/) ([Code](https://github.com/brjathu/T3DP))
 - [Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection (2019:)](https://arxiv.org/abs/1908.09492) ([Code](https://github.com/poodarchu/Det3D))
 - [Learning to Stylize Novel Views (2021)](https://hhsinping.github.io/3d_scene_stylization/) ([Code](https://github.com/hhsinping/stylescene))
+- [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - High-performance anchor-free YOLO. ([Docs](https://yolox.readthedocs.io/en/latest/))
+- [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop (2021)](https://hongwenzhang.github.io/pymaf/) ([Code](https://github.com/HongwenZhang/PyMAF))
+- [SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation (2021)](https://arxiv.org/abs/2112.08275) ([Code](https://github.com/wjf5203/SeqFormer))

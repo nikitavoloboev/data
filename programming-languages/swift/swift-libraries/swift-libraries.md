@@ -10,6 +10,8 @@
 - [Spinner](https://github.com/dominicegginton/spinner) - Powerful Swift CLI Spinners.
 - [TerminalUI](https://github.com/chriseidhof/TerminalUI) - Way to build TUI apps with a layout system and API that's similar to SwiftUI.
 - [ANSITerminal](https://github.com/pakLebah/ANSITerminal) - Swift library to access features of ANSI terminal on Unixes console (Linux and Mac).
+- [CLISpinner](https://github.com/kiliankoe/CLISpinner) - 60+ spinners for use in the terminal.
+- [Chalk](https://github.com/mxcl/Chalk) - Terminal colors using Swift 5’s string interpolation extensions.
 
 ## Animation
 
@@ -450,7 +452,6 @@
 - [BlueSocket](https://github.com/IBM-Swift/BlueSocket) - Socket framework for Swift using the Swift Package Manager.
 - [GraphQL](https://github.com/GraphQLSwift/GraphQL) - Swift GraphQL implementation for macOS and Linux.
 - [Regular Expression Decoder](https://github.com/Flight-School/RegularExpressionDecoder)
-- [CLISpinner](https://github.com/kiliankoe/CLISpinner) - 60+ spinners for use in the terminal.
 - [Render](https://github.com/alexdrone/Render) - Swift and UIKit a la React.
 - [SwiftLint](https://github.com/realm/SwiftLint) - Tool to enforce Swift style and conventions, loosely based on GitHub's Swift Style Guide.
 - [LayoutKit](https://github.com/linkedin/LayoutKit) - Fast view layout library for iOS, macOS, and tvOS.
@@ -874,6 +875,7 @@
 - [SPDiffable](https://github.com/ivanvorobei/SPDiffable) - Extension of Diffable API which allow not duplicate code and use less models.
 - [automerge-swift](https://github.com/automerge/automerge-swift) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
 - [MoreSFSymbols](https://github.com/cameronshemilt/MoreSFSymbols) - Collection of additional custom SFSymbols for Swift.
+- [swift-prelude](https://github.com/pointfreeco/swift-prelude) - Collection of types and functions that enhance the Swift language.
 
 ## Other (not lib)
 

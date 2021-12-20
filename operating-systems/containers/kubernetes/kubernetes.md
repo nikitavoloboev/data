@@ -559,3 +559,4 @@
 - [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications.
 - [ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up.
 - [Cloudprober](https://github.com/cloudprober/cloudprober) - Active monitoring software to detect failures before your customers do. ([Docs](https://cloudprober.org/))
+- [Ketch](https://github.com/theketchio/ketch) - Application delivery framework that facilitates the deployment and management of applications on Kubernetes using a simple command line interface.
