@@ -179,3 +179,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Best books for professional effectiveness (2021)](https://news.ycombinator.com/item?id=29602228)
 - [Lobsters: What are you planning to learn in 2022?](https://lobste.rs/s/thsihg/what_are_you_planning_learn_2022)
 - [Against 3x Speed](https://perell.com/essay/against-3x-speed/) ([HN](https://news.ycombinator.com/item?id=29621642)) ([Lobsters](https://lobste.rs/s/iuzi3v/against_3x_speed))
+- [Ask HN: Top Skills to Learn for 2022?](https://news.ycombinator.com/item?id=29627124)
