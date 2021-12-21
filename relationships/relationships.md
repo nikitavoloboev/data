@@ -63,6 +63,9 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [What the world needs more than sympathy and empathy is compassion. Sympathy: I'm sorry you're in pain. Empathy: I feel your pain. Compassion: I'll do whatever I can to alleviate your pain. You don't have to feel other people's feelings. You just have to care about their feelings.](https://twitter.com/AdamMGrant/status/1458786852069167105)
 - [I have enough and can afford to be taken advantage of, but what if he really needed help and I didn’t give it. That would be a real crime.](https://twitter.com/amrakunj/status/1462153115902304264)
 - [When you’re with a healthy person they bring out the best in you and you have a blast with them everyday. Conflicts do happen but they lead to growth not destruction.](https://www.reddit.com/r/NarcissisticAbuse/comments/r2kaex/what_do_healthy_relationships_look_like/)
+- [No matter how nice and friendly you are, some people will dislike you, no matter what you do. Don't waste your time on them.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
+- [Nobody is the villain in their own story. When you experience a breakup, conflict, fall out etc. the other person may admit they did wrong, they may even apologise but they’ll never see themselves as “the bad guy” so accept how it is and move on, don’t become their villain by pushing the point.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
+- [You can't trust everybody. Just because they seem nice it doesn't mean they are worth trusting.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
 
 ## Links
 

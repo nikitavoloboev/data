@@ -293,3 +293,8 @@
 - [type-flag](https://github.com/privatenumber/type-flag) - CLI argument parser with first-class type support.
 - [next-chunk](https://github.com/grantila/next-chunk) - Asynchronously returns the next chunk in a Node.js readable stream.
 - [kv-orm/core](https://github.com/kv-orm/core) - Node.js ORM for key-value datastores.
+- [0x](https://github.com/davidmarkclements/0x) - Profile and generate an interactive flamegraph for a Node process with a single command.
+- [jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js.
+- [mlly](https://github.com/unjs/mlly) - Missing ECMAScript module utils for Node.js.
+- [siroc](https://github.com/unjs/siroc) - Zero-config but extensible framework for developing Node applications and libraries.
+- [Awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS.

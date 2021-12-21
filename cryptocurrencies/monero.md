@@ -27,3 +27,4 @@
 - [XMR and the decoupling of Fiat (2021)](https://www.reddit.com/r/Monero/comments/r418zf/xmr_and_the_decoupling_of_fiat/)
 - [Monero General Info-Dump](https://moneroinfodump.neocities.org/)
 - [On Privacy Enhancing Currencies & Supply Auditability (2021)](https://www.youtube.com/watch?v=meDkx6gRPMg)
+- [Monero GUI Code](https://github.com/monero-project/monero-gui)

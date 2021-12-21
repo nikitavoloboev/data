@@ -425,3 +425,4 @@
 - [PRIMER: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization (2021)](https://arxiv.org/abs/2110.08499) ([Code](https://github.com/allenai/PRIMER))
 - [To Understand Language Is to Understand Generalization (2021)](https://evjang.com/2021/12/17/lang-generalization.html) ([HN](https://news.ycombinator.com/item?id=29600510))
 - [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding (2020)](https://arxiv.org/abs/2006.16668) ([Code](https://github.com/lucidrains/mixture-of-experts))
+- [Multimodal Transformers | Transformers with Tabular Data](https://github.com/georgian-io/Multimodal-Toolkit) ([Article](https://medium.com/georgian-impact-blog/how-to-incorporate-tabular-data-with-huggingface-transformers-b70ac45fcfb4))

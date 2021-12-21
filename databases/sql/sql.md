@@ -146,3 +146,4 @@
 - [List of MySQL joins types](https://twitter.com/DataScienceDojo/status/1461122230394540038)
 - [SQL: The difference between WHERE and HAVING](https://sql-bits.com/the-difference-between-where-and-having/) ([HN](https://news.ycombinator.com/item?id=29550683))
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
+- [Trino](https://trino.io/) - Distributed SQL query engine for big data. ([Code](https://github.com/trinodb/trino))

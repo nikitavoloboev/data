@@ -399,7 +399,7 @@
 - [Deep Learning for Face Anti-Spoofing: A Survey (2021)](https://arxiv.org/abs/2106.14948) ([Code](https://github.com/ZitongYu/DeepFAS))
 - [A-SDF: Learning Disentangled Signed Distance Functions for Articulated Shape Representation (2021)](https://arxiv.org/abs/2104.07645) ([Code](https://github.com/JitengMu/A-SDF))
 - [Resolution-robust Large Mask Inpainting with Fourier Convolutions (2021)](https://saic-mdal.github.io/lama-project/) ([Code](https://github.com/saic-mdal/lama))
-- [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (2021)](https://arxiv.org/abs/2103.14030) ([Code](https://github.com/microsoft/Swin-Transformer))
+- [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (2021)](https://arxiv.org/abs/2103.14030) ([Code](https://github.com/microsoft/Swin-Transformer)) ([Code](https://github.com/berniwal/swin-transformer-pytorch))
 - [ADOP: Approximate Differentiable One-Pixel Point Rendering (2021)](https://arxiv.org/abs/2110.06635) ([Tweet](https://twitter.com/rodolfor/status/1448655222876741634)) ([Tweet](https://twitter.com/keenanisalive/status/1448708734511951879)) ([Code](https://github.com/darglein/ADOP))
 - [Patches Are All You Need? (2021)](https://openreview.net/forum?id=TVHS5Y4dNvM) ([Code](https://github.com/tmp-iclr/convmixer))
 - [ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation (2020)](https://arxiv.org/abs/2012.05258) ([Code](https://github.com/joe-siyuan-qiao/ViP-DeepLab))
@@ -493,3 +493,7 @@
 - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - High-performance anchor-free YOLO. ([Docs](https://yolox.readthedocs.io/en/latest/))
 - [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop (2021)](https://hongwenzhang.github.io/pymaf/) ([Code](https://github.com/HongwenZhang/PyMAF))
 - [SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation (2021)](https://arxiv.org/abs/2112.08275) ([Code](https://github.com/wjf5203/SeqFormer))
+- [NeRD: Neural Reflectance Decomposition from Image Collections (2021)](https://markboss.me/publication/2021-nerd/) ([Code](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition))
+- [Vector Quantized Diffusion Model for Text-to-Image Synthesis (2021)](https://arxiv.org/abs/2111.14822) ([Code](https://github.com/microsoft/VQ-Diffusion))
+- [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models (2021)](https://arxiv.org/abs/2112.10741) ([Code](https://github.com/openai/glide-text2im))
+- [SynthDet](https://github.com/Unity-Technologies/SynthDet) - End-to-end object detection pipeline using synthetic data.

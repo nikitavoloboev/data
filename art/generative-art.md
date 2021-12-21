@@ -191,3 +191,4 @@
 - [Future Alterations (2020)](https://inconvergent.net/2020/future-alterations/)
 - [Future Alterations and Loops (2021)](https://inconvergent.net/2021/future-alterations-and-loops/)
 - [Building an Autonomous Generative Art Collection with P5.js (2021)](https://richtabor.com/generative-art/) ([HN](https://news.ycombinator.com/item?id=29558179))
+- [Generative Art Experiments using Haskell, GHCJS, and Reflex (FRP)](https://github.com/mankyKitty/fantastic-waddle)

@@ -50,3 +50,5 @@
 - [tune](https://github.com/Woyten/tune) - Make xenharmonic music and create synthesizer tuning files for microtonal scales.
 - [OxiSynth](https://github.com/PolyMeilex/OxiSynth) - Pure rust soundfont synthesizer.
 - [FluidSynth](https://github.com/FluidSynth/fluidsynth) - Cross-platform, real-time software synthesizer based on the Soundfont 2 specification.
+- [Shaden](https://github.com/brettbuddin/shaden) - Modular audio synthesizer.
+- [Implicit neural differentiable FM synthesizer](https://github.com/andreasjansson/fmsynth)

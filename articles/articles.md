@@ -29,3 +29,4 @@ Some articles I read and liked that don't fit under any other topic inside this 
 - [Read Something Great](https://www.readsomethinggreat.com/) - Timeless articles from the belly of the internet.
 - [Ask HN: What's the most life-changing blog post you've ever read? (2021)](https://news.ycombinator.com/item?id=28232165)
 - [Timeless articles posted on Hacker News, written 1321 to 2021](https://hn.lindylearn.io/) ([HN](https://news.ycombinator.com/item?id=29605429))
+- [The 2021 Stratechery Year in Review](https://stratechery.com/2021/the-2021-stratechery-year-in-review/)

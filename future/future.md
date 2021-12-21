@@ -86,3 +86,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [100 years of whatever this will be (2021)](https://apenwarr.ca/log/20211201) ([HN](https://news.ycombinator.com/item?id=29416606))
 - [A Hopeful Pathway for Humanity](https://hopefulpathway.blainehansen.me/) ([Code](https://github.com/blainehansen/hopeful-pathway))
 - [Ask HN: Why is everything changing too fast? (2021)](https://news.ycombinator.com/item?id=29457930)
+- [Ask HN: What's the next big thing in computing / programming? (2021)](https://news.ycombinator.com/item?id=29625625)

@@ -34,3 +34,4 @@
 - [Graphite](https://graphite.dev/) - Fast, simple code review. ([App](https://app.graphite.dev/)) ([CLI](https://github.com/screenplaydev/graphite-cli))
 - [elfshaker](https://github.com/elfshaker/elfshaker) - Low-footprint, high-performance version control system fine-tuned for binaries. ([HN](https://news.ycombinator.com/item?id=29276557))
 - [The Guide to Data Versioning (2021)](https://lakefs.io/data-versioning/)
+- [Got](https://github.com/gotvc/got) - Version control, with a model similar to Git's, extending ideas from WebFS.

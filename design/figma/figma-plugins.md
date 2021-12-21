@@ -74,3 +74,4 @@
 - [Atlas](https://jwels.berlin/atlas/) - Figma plugin to manage your themes.
 - [Figsvelte](https://github.com/thomas-lowry/figsvelte) - Boilerplate for creating Figma plugins with Svelte.
 - [Excalidraw Pad](https://www.figma.com/community/widget/1047391719101881118)
+- [Unmix Fonts](https://www.figma.com/community/plugin/1039804395780906653/Unmix-Fonts) - Unmix mixed fonts, with dynamic baseline alignment.

@@ -300,3 +300,5 @@
 - [Varlink](https://varlink.org/) - APIs – plain-text, type-safe, discoverable, self-documenting, remotable. ([GitHub](https://github.com/varlink)) ([Go Code](https://github.com/varlink/go))
 - [Continuous API management](https://dh7.github.io/dh7%20github%20io%2011f133e867094e29bc5d0107782bb960/Continuous%20API%20management%203e05a4a904c147d096247320366ddc3d.html)
 - [The Light and Dark Side of the API Economy (2020)](https://www.swyx.io/api-economy/)
+- [Prism](https://stoplight.io/open-source/prism/) - Open-Source HTTP Mock and Proxy Server. Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations. ([Code](https://github.com/stoplightio/prism))
+- [Telefunc](https://telefunc.com/) - Remote Functions. Instead of API. ([Code](https://github.com/vikejs/telefunc))

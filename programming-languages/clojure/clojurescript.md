@@ -41,3 +41,4 @@
 - [re-frame](https://github.com/Day8/re-frame) - ClojureScript framework for building user interfaces. ([Web](http://day8.github.io/re-frame/))
 - [re-flow](https://github.com/Guaranteed-Rate/re-flow) - Library that adds tools for building and executing workflows in re-frame applications.
 - [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) - Leiningen plugin to make ClojureScript development easy.
+- [React prerendering experiments in Clojure(script) land (2021)](https://www.arthurbrrs.me/prerendering-react-clojurescript-land)

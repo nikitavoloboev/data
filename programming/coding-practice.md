@@ -73,6 +73,7 @@
 - [Python](https://github.com/benediktwerner/AdventOfCode)
 - [Python 2](https://github.com/andreypopp/aoc2019)
 - [ReasonML](https://github.com/believer/advent-of-code)
+- [Idris/Haskell](https://github.com/bkomuves/AOC)
 - [Zsh](https://github.com/romkatv/advent-of-code-2019/blob/master/README.md)
 - [Julia](https://github.com/tsoding/aoc-2020)
 - [Awesome Advent of Code](https://github.com/Bogdanp/awesome-advent-of-code)

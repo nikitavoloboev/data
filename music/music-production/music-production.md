@@ -123,6 +123,7 @@
 - [Spaghettis](https://github.com/Spaghettis/Spaghettis) - Environment for audio analysis, synthesis, and processing, with a rich set of multimedia capabilities. ([Docs](http://msp.ucsd.edu/Pd_documentation/index.htm))
 - [Hero Studio](https://github.com/chris-zen/hero-studio) - Music studio similar to Ableton Live or Bitwig Studio.
 - [Muse](https://muse.hackclub.dev/) - Simple language for Jamming embedded in a JavaScript environment. ([Code](https://github.com/hackclub/muse))
+- [Music Theory Go Lib](https://github.com/brettbuddin/musictheory)
 
 ## Inspiration
 

@@ -393,6 +393,11 @@
 - [Coverage.jl](https://github.com/JuliaCI/Coverage.jl) - Take Julia code coverage and memory allocation results, do useful things with them.
 - [ResumableFunctions](https://github.com/BenLauwens/ResumableFunctions.jl) - C# style generators a.k.a. semi-coroutines for Julia.
 - [Generators](https://github.com/zot/Generators.jl) - Very lightweight, task-based generators.
+- [Requires](https://github.com/JuliaPackaging/Requires.jl) - Lazy code loading for Julia.
+- [CxxInterface.jl](https://github.com/eschnett/CxxInterface.jl) - Create Julia interfaces to C++ libraries.
+- [HomotopyContinuation.jl](https://github.com/JuliaHomotopyContinuation/HomotopyContinuation.jl) - Julia package for solving systems of polynomials via homotopy continuation.
+- [GeoStats](https://github.com/JuliaEarth/GeoStats.jl) - Extensible framework for high-performance geostatistics in Julia.
+- [MarkdownLiteral.jl](https://github.com/JuliaPluto/MarkdownLiteral.jl) - Lets you write Markdown inside Pluto notebooks.
 
 ## Links
 

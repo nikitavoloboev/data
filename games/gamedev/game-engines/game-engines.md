@@ -95,6 +95,7 @@
 - [Scion](https://github.com/grzi/scion) - Tiny 2D game engine built on top of wgpu, winit and legion.
 - [minicosm](https://github.com/jarcane/minicosm) - FP-oriented game engine inspired by universe.rkt, written in Clojurescript.
 - [Starframe](https://github.com/MoleTrooper/starframe) - 2D game engine for physics-y sidescrolling games.
+- [Lina Engine](https://github.com/inanevin/LinaEngine) - Open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 
 ## Physics engines
 

@@ -64,7 +64,7 @@
 - [Cache-Control in the wild (2020)](https://www.fastly.com/blog/cache-control-wild)
 - [PatchGirl](https://patchgirl.io/) - Postman/postwoman like, web app to test your APIs. ([Code](https://github.com/patchgirl/patchgirl))
 - [Will It CORS?](https://httptoolkit.tech/will-it-cors/)
-- [HTTP Toolkit](https://httptoolkit.tech/) - Intercept, debug & mock HTTP. ([Server Code](https://github.com/httptoolkit/httptoolkit-server)) ([UI Code](https://github.com/httptoolkit/httptoolkit-ui))
+- [HTTP Toolkit](https://httptoolkit.tech/) - Intercept, debug & mock HTTP. ([Server Code](https://github.com/httptoolkit/httptoolkit-server)) ([UI Code](https://github.com/httptoolkit/httptoolkit-ui)) ([HN](https://news.ycombinator.com/item?id=29624319))
 - [HTTP protocol and the web](https://codexpanse.com/courses/http)
 - [Critical Resources and the First 14 KB - A Review (2019)](https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/)
 - [Алгоритмы быстрой обработки HTTP-строк (2020)](https://habr.com/ru/company/oleg-bunin/blog/493242/)
@@ -180,3 +180,4 @@
 - [hpagent](https://github.com/delvedor/hpagent) - Ready to use http and https agent for working with proxies that keeps connections alive.
 - [HTTP/3 Is Fast (2021)](https://requestmetrics.com/web-performance/http3-is-fast) ([HN](https://news.ycombinator.com/item?id=29563229))
 - [Goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust.
+- [SNI Proxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.

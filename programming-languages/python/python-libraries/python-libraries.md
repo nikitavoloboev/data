@@ -596,6 +596,13 @@
 - [tqdm](https://github.com/tqdm/tqdm/) - Fast, Extensible Progress Bar for Python and CLI. ([Docs](https://tqdm.github.io/)) ([HN](https://news.ycombinator.com/item?id=29582437))
 - [ItsDangerous](https://github.com/pallets/itsdangerous/) - Safely pass trusted data to untrusted environments and back. ([Docs](https://itsdangerous.palletsprojects.com/en/2.0.x/index.html)) ([HN](https://news.ycombinator.com/item?id=29591395))
 - [Pandaral·lel](https://github.com/nalepae/pandarallel) - Simple and efficient tool to parallelize Pandas operations on all available CPUs.
+- [dataklasses](https://github.com/dabeaz/dataklasses) - Library that allows you to quickly define data classes using Python type hints. ([Annotated explanation](https://til.simonwillison.net/python/annotated-dataklasses)) ([HN](https://news.ycombinator.com/item?id=29621716))
+- [anndata](https://github.com/theislab/anndata) - Python package for handling annotated data matrices in memory and on disk, positioned between pandas and xarray.
+- [Fiber](https://github.com/tylerhou/fiber) - Python decorator that enables arbitrarily-deep tail/non-tail recursion. ([HN](https://news.ycombinator.com/item?id=29628772))
+- [Rikai](https://github.com/eto-ai/rikai) - Parquet-based ML data format optimized for working with unstructured data.
+- [Recurrent](https://github.com/kvh/recurrent) - Natural language parsing of dates and recurring events.
+- [Simsity](https://github.com/koaning/simsity) - Super Simple Similarities Service.
+- [Implements](https://github.com/ksindi/implements) - Pythonic interfaces using decorators.
 
 ## Links
 

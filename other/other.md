@@ -36,6 +36,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Stop coming to overarching conclusions](https://twitter.com/tszzl/status/1445163212572401674)
 - [Girls just want one thing and it’s a home surrounded by nature with giant open windows and a backyard full of trees and japanese style seating arrangements and and in home-library and babies to read books to and it’s disgusting.](https://twitter.com/rawmilkhoney/status/1451728076203651077)
 - [I love how being an adult is just saying "But after this week things will slow down a bit again" to yourself until you die](https://twitter.com/kramski/status/1148338745600598016)
+- [Don’t fight the system. Use the system to change the system.](http://www.federicopereiro.com/system/)
 
 ## Other
 
@@ -365,7 +366,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [What if we had Local-First Software? (2020)](https://adlrocha.substack.com/p/adlrocha-what-if-we-had-local-first) ([HN](https://news.ycombinator.com/item?id=24790170))
 - [100 Rabbits Themes](https://github.com/hundredrabbits/Themes) - Application themes and tools used across the Hundred Rabbits Ecosystem.
 - [Sharkle](https://sharkle.com/) - Generator of random awesomeness.
-- [Diagon](https://arthursonzogni.com/Diagon/) - Interactive ASCII art diagram generators. ([Code](https://github.com/ArthurSonzogni/Diagon))
+- [Diagon](https://arthursonzogni.com/Diagon/) - Interactive ASCII art diagram generators. ([Code](https://github.com/ArthurSonzogni/Diagon)) ([HN](https://news.ycombinator.com/item?id=29635165))
 - [Ask HN: What did you purchase that measurably improved your quality of life? (2020)](https://news.ycombinator.com/item?id=24819254)
 - [critcmp](https://github.com/BurntSushi/critcmp) - Command line tool for comparing benchmarks run by Criterion.
 - [Best of Show HN](https://bestofshowhn.com/)

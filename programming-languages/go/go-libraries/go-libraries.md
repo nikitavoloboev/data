@@ -108,6 +108,7 @@
 - [gin-timeout](https://github.com/gin-contrib/timeout) - Timeout middleware for Gin.
 - [gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger.
 - [CORS gin](https://github.com/gin-contrib/cors) - Gin middleware/handler to enable CORS support.
+- [go-fastapi](https://github.com/sashabaranov/go-fastapi) - Library to quickly build APIs.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [Bunrouter](https://github.com/uptrace/bunrouter) - Fast and flexible HTTP router for Go. ([Web](https://bunrouter.uptrace.dev/))
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
@@ -174,6 +175,7 @@
 - [GoRequest](https://github.com/parnurzeal/gorequest) - Simplified HTTP client.
 - [Go CORS handler](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests.
 - [gqlgenc](https://github.com/Yamashou/gqlgenc) - Go library for building GraphQL client with gqlgen.
+- [gqlgenc 2](https://github.com/infiotinc/gqlgenc) - Fully featured go gql client, powered by codegen.
 - [canvas](https://github.com/fzipp/canvas) - Draw on an HTML 2D canvas in a web browser from a server program using WebSockets.
 - [Encore](https://github.com/encoredev/encore) - Go framework for building distributed systems. ([Web](https://encore.dev/)) ([Reddit](https://www.reddit.com/r/golang/comments/mpdw1h/encore_the_go_backend_framework_with_superpowers/)) ([HN](https://news.ycombinator.com/item?id=26806797)) ([Episode](https://overcast.fm/+GnKbnUvjY))
 - [httpx](https://github.com/projectdiscovery/httpx) - Fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
@@ -1178,6 +1180,11 @@
 - [Thixo](https://github.com/nikgalushko/thixo) - Template functions for Go templates.
 - [gohive](https://github.com/loveleshsharma/gohive) - Highly Performant and easy to use goroutine pool for Go.
 - [functools](https://github.com/rakeeb-hossain/functools) - Functional tools in Go 1.18 using newly introduced generics.
+- [fpGo](https://github.com/TeaEntityLab/fpGo) - Monad, Functional Programming features for Go.
+- [Roger](https://github.com/senseyeio/roger) - Go RServe client. Use R from Go.
+- [printsrc](https://github.com/jba/printsrc) - Print Go values as Go source.
+- [Ent](https://github.com/google/ent) - Universal, scalable, general purpose, Content-Addressable Store (CAS) to explore verifiable data structures, policies and graphs.
+- [cuid](https://github.com/lucsky/cuid) - Collision-resistant hashes for the cloud, in Go.
 
 ## Links
 

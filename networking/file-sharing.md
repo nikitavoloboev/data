@@ -92,3 +92,4 @@
 - [File Browser](https://github.com/filebrowser/filebrowser) - Directory and it can be used to upload, delete, preview, rename and edit your files. ([Docs](https://filebrowser.org/))
 - [How to rsync files between two remotes? (2021)](https://vincent.bernat.ch/en/blog/2021-rsync-ssh-two-remotes)
 - [cend.me](http://cend.me/) - Direct file transfer with no server involvement.
+- [Slik Safe](https://www.sliksafe.com/) - Decentralized, End-to-End Encrypted Alternative to Dropbox. ([HN](https://news.ycombinator.com/item?id=29637188))

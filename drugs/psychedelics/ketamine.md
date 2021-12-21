@@ -24,3 +24,4 @@
 - [Dr. John C. Lilly 1992 lecture | Dolphins and LSD; Float Tanks and Ketamine](https://www.youtube.com/watch?v=nGhCpC5hH0k)
 - [With a nudge from AI, ketamine emerges as a potential rare disease treatment (2021)](https://www.statnews.com/2021/08/05/artificial-intelligence-rare-disease-andp-medikanren/) ([HN](https://news.ycombinator.com/item?id=28099548))
 - [Experience with using Ketamine to treat depression](https://twitter.com/BlackForestBoi/status/1471431629096824833)
+- [K research chemical alternatives](https://www.reddit.com/r/ketamine/comments/rlijuy/k_research_chemical_alternative/)

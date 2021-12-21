@@ -16,7 +16,7 @@
 - [Animation worklet: the 4 missing features (2020)](https://inventingwithmonster.io/20200203-animationworklet-the-missing-pieces/)
 - [The ultimate guide to proper use of animation in UX (2018)](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 - [Pose](https://galshir.com/pose/) - Simple web app for character posing.
-- [Lottie](http://airbnb.io/lottie/#/) - Parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web. ([Code](https://github.com/airbnb/lottie)) ([Lottie for iOS, macOS](https://github.com/airbnb/lottie-ios))
+- [Lottie](http://airbnb.io/lottie/#/) - Use after effects animations in web and native apps. ([Code](https://github.com/airbnb/lottie)) ([Lottie for iOS, macOS](https://github.com/airbnb/lottie-ios)) ([HN](https://news.ycombinator.com/item?id=29634114))
 - [Ke-Sen Huang's research on animation synthesis, animation summarization, and motion retrieval](https://kesen.realtimerendering.com/)
 - [Rive](https://rive.app/) - Bring your apps and games to life with real-time animation. ([Beta](https://beta.rive.app/))
 - [Hashflag Gallery Animations](https://hashflaggallery.com/)
@@ -61,3 +61,5 @@
 - [Editor and Presenter for Manim Generated Content](https://github.com/ManimCommunity/manim_editor)
 - [Learn React Animations by Creating a Stripe inspired Menu](https://www.mikealche.com/software-development/learn-react-animations-by-creating-a-stripe-inspired-menu)
 - [Simplicial Fluid on triangle meshes](https://yhesper.github.io/projects/2_project_simpfluid/)
+- [Haiku Animator](https://www.haikuanimator.com/) - Design tool for creating Lottie animations and interactive web components. ([Code](https://github.com/HaikuTeam/animator))
+- [midori](https://github.com/aeroheim/midori) - Library for animating image backgrounds in websites using WebGL.

@@ -12,3 +12,4 @@
 - [Codemods with Babel Plugins (2021)](https://next.egghead.io/learn/javascript/codemods-with-babel-plugins)
 - [babel-plugin-codegen](https://github.com/kentcdodds/babel-plugin-codegen) - Generate code at build-time.
 - [Building a Debugger: Code Analysis](https://nan.fyi/debugger) - Crash course in writing your own Babel plugin.
+- [Babel Polyfills](https://github.com/babel/babel-polyfills) - Set of Babel plugins that enable injecting different polyfills with different strategies in your compiled code.

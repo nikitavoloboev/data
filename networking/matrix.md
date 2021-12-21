@@ -82,3 +82,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Matrix Discord Bridge](https://github.com/Half-Shot/matrix-appservice-discord)
 - [Sign in with Matrix](https://github.com/mishushakov/signin-with-matrix) - Federated sign-in component for your web app (using Matrix). ([HN](https://news.ycombinator.com/item?id=29240154))
 - [OCaml matrix](https://github.com/clecat/ocaml-matrix) - Implementation of a matrix server in OCaml for MirageOS.
+- [Awesome Matrix](https://github.com/jryans/awesome-matrix)

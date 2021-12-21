@@ -428,3 +428,4 @@ all: unset
 - [Consistent, Fluidly Scaling Type and Spacing (2021)](https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/)
 - [The State of CSS 2021](https://2021.stateofcss.com/en-US/)
 - [UI Snippets](https://ui-snippets.dev/) - Collection of UI Snippets. ([Code](https://github.com/emilkowalski/ui-snippets))
+- [Smoothly Reverting CSS Animations (2021)](https://pragmaticpineapple.com/smoothly-reverting-css-animations/)

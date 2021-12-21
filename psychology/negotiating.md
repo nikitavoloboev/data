@@ -31,3 +31,4 @@
 - [Ask HN: Negotiating Salary (2021)](https://news.ycombinator.com/item?id=27332305)
 - [Fearless Salary Negotiation](https://fearlesssalarynegotiation.com/) - Salary Negotiation for Software Developers.
 - [I once killed a $125M deal by being “too honest”](https://twitter.com/apartovi/status/1449856639331340289) ([HN](https://news.ycombinator.com/item?id=28916372))
+- [Ask HN: How to negotiate salary with a remote distributed company? (2021)](https://news.ycombinator.com/item?id=29617841)

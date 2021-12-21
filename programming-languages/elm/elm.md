@@ -82,5 +82,5 @@
 - [Successes, and failures, optimizing Elm’s runtime (2021)](https://blogg.bekk.no/successes-and-failures-in-optimizing-elms-runtime-performance-c8dc88f4e623)
 - [Create Elm App](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
 - [Fixing a performance problem in Elm using Html.Lazy (2021)](https://blogg.bekk.no/fixing-a-performance-problem-in-elm-using-html-lazy-c4298b72500d) ([HN](https://news.ycombinator.com/item?id=29539453))
-- [derw](https://github.com/eeue56/derw) - Elm-inspired language that transpiles to TypeScript. ([Lobsters](https://lobste.rs/s/ypvv4c/derw_elm_inspired_language_transpiles))
+- [Derw](https://github.com/eeue56/derw) - Elm-inspired language that transpiles to TypeScript. ([Lobsters](https://lobste.rs/s/ypvv4c/derw_elm_inspired_language_transpiles)) ([Why Derw](https://derw.substack.com/p/why-derw-an-elm-like-language-that)) ([Lobsters](https://lobste.rs/s/lxpjpd/why_derw_elm_like_language_compiles))
 - [Elm Tailwind Modules](https://github.com/matheus23/elm-tailwind-modules) - Generate Elm code for Tailwind Utilities and Components that purges using Elm's dead code elimination.

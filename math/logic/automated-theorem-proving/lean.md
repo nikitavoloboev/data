@@ -61,3 +61,5 @@
 - [doc-gen4](https://github.com/hargoniX/doc-gen4) - Document Generator for Lean 4.
 - [Lean formal proof of the Combinatorial Nullstellensatz](https://github.com/isadofschi/combinatorial_nullstellensatz)
 - [Alloy](https://github.com/tydeu/lean4-alloy) - Lean 4 library that allows one to embedded external FFI code (currently just C) within Lean definitions.
+- [Lean SAT Proof Checker](https://github.com/joehendrix/lean-sat-checker)
+- [NumLean](https://github.com/arthurpaulino/NumLean) - Lean 4 package for heavy numerical computations.

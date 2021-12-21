@@ -58,3 +58,5 @@
 - [Microservices Architecture on Google Cloud (2021)](https://cloud.google.com/blog/topics/developers-practitioners/microservices-architecture-google-cloud) ([HN](https://news.ycombinator.com/item?id=29294267))
 - [Cloud Run Proxy](https://github.com/GoogleCloudPlatform/cloud-run-proxy) - Local proxy for authenticating requests to Cloud Run.
 - [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun)
+- [Get up and running with Go on Google Cloud](https://github.com/einride/cloudrunner-go)
+- [Python Client for Google Cloud Storage](https://github.com/googleapis/python-storage)

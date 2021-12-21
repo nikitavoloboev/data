@@ -50,6 +50,7 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [Google’s greatest evil is grooming brilliant 22 year olds into becoming complacent careerists instead of ambitious founders who might one day compete with them.](https://twitter.com/justindross/status/1450686720584921088)
 - [What looks like success is often just patience.](https://twitter.com/ShaneAParrish/status/1462038767569567753)
 - [Being patient doesn't get you what you want.](https://www.youtube.com/watch?v=EQBttJqOdAE)
+- [It is possible to commit no mistakes and still lose. That is not a weakness. That is life.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
 
 ## Links
 

@@ -48,3 +48,5 @@
 - [Tips for picking first DAO (2021)](https://twitter.com/altmbr/status/1468686844963471370)
 - [DAOStack Alchemy](https://github.com/daostack/alchemy-monorepo/tree/dev/packages/alchemy) - Budgeting and resource-allocation tool for decentralized organizations.
 - [Odyssey DAO](https://www.odysseydao.com/) - Learning DAO creating high quality, 100% free Web3 education.
+- [Importance of Consent in DAOs (2021)](https://twitter.com/chaserchapman/status/1471904079127347200)
+- [Standard Proposals in DAOs](https://twitter.com/OKDunc/status/1471257060734025728)

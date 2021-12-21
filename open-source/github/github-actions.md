@@ -148,6 +148,8 @@
 - [Pull request name linter with commitlint](https://github.com/JulienKode/pull-request-name-linter-action) - Lint pull request name with commit lint.
 - [Team Labeler Action](https://github.com/JulienKode/team-labeler-action) - GitHub action to label your pull requests based on the author name.
 - [create-report](https://github.com/michaelhenry/create-report) - Github action for creating generic run report (using Markdown!).
+- [Compare the Differences Between Two Commits](https://github.com/cpcloud/compare-commits-action)
+- [Run-On-Arch](https://github.com/uraimo/run-on-arch-action) - Executes commands on non-x86 CPU architecture (armv6, armv7, aarch64, s390x, ppc64le).
 
 ## Go
 
@@ -223,6 +225,7 @@
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [cachix-action](https://github.com/cachix/cachix-action) - Build software only once using Nix with the help of Cachix.
 - [nix-profile-action](https://github.com/yaxitech/nix-profile-action) - GitHub Action to install an ephemeral Nix profile.
+- [flake-dep-info-action](https://github.com/cpcloud/flake-dep-info-action) - Access the fields of flake.lock as outputs in a GitHub action step.
 
 ## Haskell
 

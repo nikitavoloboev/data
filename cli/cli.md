@@ -78,3 +78,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Tips on adding JSON output to your CLI app (2021)](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/) ([HN](https://news.ycombinator.com/item?id=29435786))
 - [Why and How to add changelog in your next CLI (2021)](https://bhupesh-v.github.io/why-how-add-changelog-in-your-next-cli/)
 - [A practical overview of most useful Unix tools (2021)](https://medium.com/fundbox-engineering/cheating-at-a-company-group-activity-using-unix-tools-5c1d706f3d58) ([HN](https://news.ycombinator.com/item?id=29528439))
+- [fq](https://github.com/wader/fq) - jq for binary formats.

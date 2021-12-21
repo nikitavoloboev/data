@@ -155,3 +155,4 @@
 - [Hubris and Humility (2021)](https://oxide.computer/blog/hubris-and-humility)
 - [On Hubris and Humility: developing an OS for robustness in Rust (2021)](https://talks.osfc.io/osfc2021/talk/JTWYEH/) ([Article](https://cliffle.com/blog/on-hubris-and-humility/))
 - [Kaluma](https://github.com/kaluma-project/kaluma) - Tiny and efficient JavaScript runtime for microcontrollers. ([Web](https://kaluma.io/))
+- [STM32 Peripheral Access Crates](https://github.com/stm32-rs/stm32-rs) - Embedded Rust device crates for STM32 microcontrollers.

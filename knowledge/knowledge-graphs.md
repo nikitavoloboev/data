@@ -98,3 +98,4 @@
 - [RaiseWikibase](https://github.com/UB-Mannheim/RaiseWikibase) - Knowledge graph construction: Fast inserts into a Wikibase instance.
 - [Wikibase knowledge graphs](https://github.com/shigapov/wikibase-knowledge-graphs)
 - [Comunica](https://github.com/comunica/comunica) - Knowledge graph querying framework for JavaScript. ([Web](https://comunica.dev/))
+- [Embedding Multimodal Relational Data for Knowledge Base Completion (2018)](https://arxiv.org/abs/1809.01341) ([Code](https://github.com/pouyapez/mkbe))

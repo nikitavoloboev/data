@@ -25,7 +25,7 @@
 - [Lisp Machine Manual](https://hanshuebner.github.io/lmman/frontpage.html)
 - [C-Mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages.
 - [LISP Reference Manual](http://www.softwarepreservation.net/projects/LISP/starlisp/starlisp-reference-manual-version-5-0.pdf)
-- [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation. ([HN](https://news.ycombinator.com/item?id=22094722))
+- [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation. ([HN](https://news.ycombinator.com/item?id=22094722)) ([HN](https://news.ycombinator.com/item?id=29631643))
 - [Performance and Evaluation of Lisp Systems (1985)](http://rpgpoet.com/Files/Timrep.pdf)
 - [Formula One](https://github.com/iwillspeak/formula-one) - Experiment in ways to ergonomically build syntax trees and transformations in Rust.
 - [Bel](http://paulgraham.com/bel.html) - Spec for a new dialect of Lisp, written in itself. ([HN](https://news.ycombinator.com/item?id=21231208))
@@ -119,7 +119,7 @@
 - [Ask HN: Why should we learn Lisp? (2021)](https://news.ycombinator.com/item?id=26162522)
 - [My experience of writing Lisp in Pony (2020)](https://stereobooster.com/posts/my-experience-of-writing-lisp-in-pony/)
 - [SectorLISP](https://justine.lol/sectorlisp/) - 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator on bare metal. ([Code](https://github.com/jart/sectorlisp)) ([HN](https://news.ycombinator.com/item?id=29047584)) ([Lobsters](https://lobste.rs/s/cpqdjs/sectorlisp_now_fits_one_sector))
-- [SectorLISP Now Fits in One Sector](https://justine.lol/sectorlisp/)
+- [LISP with GC in 436 bytes](https://justine.lol/sectorlisp2/) ([HN](https://news.ycombinator.com/item?id=29630293))
 - [Fancy defines](https://idiomdrottning.org/fancy-defines) ([Lobsters](https://lobste.rs/s/mgfnix/fancy_defines))
 - [Swift LispKit](https://github.com/objecthub/swift-lispkit) - Framework for building Lisp-based extension and scripting languages for macOS and iOS applications.
 - [Datalisp: Overview of design decisions (2021)](https://cloudflare-ipfs.com/ipfs/Qmeg9cAPVC18bdGuQtGJKtP7VcRQErnCApbcbgn1FaSq9T/datalisp.pdf)
@@ -160,3 +160,5 @@
 - [Symbolics Virtual Lisp Machine (C version)](https://github.com/hanshuebner/vlm)
 - [Jsonnet Language Server](https://github.com/grafana/jsonnet-language-server)
 - [rust_lisp](https://github.com/brundonsmith/rust_lisp) - Rust-embeddable Lisp, with support for interop with native Rust functions.
+- [Bel in Perl](https://github.com/masak/bel) - Perl 5 implementation of Paul Graham's Bel.
+- [Jsonnet Language Server](https://github.com/grafana/jsonnet-language-server)

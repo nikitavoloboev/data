@@ -63,3 +63,4 @@
 - [Ребёнок сидит в телефоне и не хочет больше ничего — что делать? (2021)](https://www.youtube.com/watch?v=eUbdyWVpHJc)
 - [How do new parents not die of sleep deprivation?](https://www.reddit.com/r/NoStupidQuestions/comments/qy6w0l/how_do_new_parents_not_die_of_sleep_deprivation/)
 - [Ask HN: Are there any good “coding for kids” books? (2021)](https://news.ycombinator.com/item?id=29609345)
+- [Notes on Acosta & Hutchison – The Happiest Kids in the World (2021)](http://www.federicopereiro.com/notes-acosta-hutchison-happiest-kids/)

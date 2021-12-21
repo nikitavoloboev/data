@@ -31,3 +31,4 @@ I gently shave after shower and use [Brushless Shave Cream](https://www.amazon.c
 - [Skin care routine](https://twitter.com/ayusique/status/1396035862039777286)
 - [2021 skincare trends to leave behind? (2021)](https://www.reddit.com/r/SkincareAddiction/comments/qciask/misc_2021_skincare_trends_to_leave_behind/)
 - [Aesop](https://www.aesop.com/fr/en/) - Formulations for Skin, Hair & Body. ([Tweet](https://twitter.com/patagucci_girl/status/1452717137093533700))
+- [What skincare tip completely transformed your skin? (2021)](https://www.reddit.com/r/SkincareAddiction/comments/rl5g9s/misc_what_skincare_tip_completely_transformed/)

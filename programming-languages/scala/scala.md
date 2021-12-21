@@ -128,3 +128,6 @@
 - [Your Program Is a Language - Ryan Peters (2021)](https://www.youtube.com/watch?v=7kYqH5XTP18)
 - [My Dos and Donts in sbt Build Definitions (2021)](https://www.chris-kipp.io/blog/my-dos-and-donts-in-sbt-build-definitions) ([Reddit](https://www.reddit.com/r/scala/comments/rjyse0/my_dos_and_donts_in_sbt_build_definitions/))
 - [Metascala](https://github.com/lihaoyi/Metascala) - JVM written in Scala.
+- [bleep](https://github.com/oyvindberg/bleep) - Fast Scala build tool. Automatically imports and builds huge projects, like tapir or http4s.
+- [Patch Theory and Type Classes (2018)](https://blog.gnieh.org/posts/2018/03/17/patch-theory-and-typeclasses/)
+- [Tagless Final in Scala (2021)](https://www.youtube.com/watch?v=m3Qh-MmWpbM)

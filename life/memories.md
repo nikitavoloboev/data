@@ -26,3 +26,5 @@ Because that's what life is. Trying to peek under the covers of this reality onl
 - [An ultimate guide to memory palaces](https://metacognitive.me/memory-palace/) ([HN](https://news.ycombinator.com/item?id=28640429))
 - [How do you memorize things you read? (2021)](https://news.ycombinator.com/item?id=28839573)
 - [Primate Memory (2021)](https://inference-review.com/article/primate-memory)
+- [Notes on Foer – Moonwalking with Einstein](http://www.federicopereiro.com/notes-foer-moonwalking/)
+- [Notes on Lorayne & Lucas – The Memory Book](http://www.federicopereiro.com/notes-lorayne-lucas-memory/)

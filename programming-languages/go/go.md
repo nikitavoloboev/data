@@ -658,3 +658,8 @@ if err != nil {
 - [In Go 1.18, generics are implemented through code specialization (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/Go18GenericsSpecialized)
 - [Simple Bank](https://github.com/techschool/simplebank) - Contains the codes of the Backend master class.
 - [Backend master class [Go, Postgres, Docker]](https://www.youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE) ([Code](https://github.com/techschool/simplebank))
+- [Applied Go Courses](https://appliedgo.com/)
+- [gogrep](https://github.com/quasilyte/gogrep) - Syntax-aware Go code search, based on the mvdan/gogrep.
+- [Generics facilitators in Go (2021)](https://rakyll.org/generics-facilititators/)
+- [Invoking C Code from Go](https://tech-lessons.in/invoking-C-code-from-golang/)
+- [Go Optimizations 101](https://go101.org/optimizations/101.html)

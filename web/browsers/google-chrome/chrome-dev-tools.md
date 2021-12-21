@@ -30,3 +30,5 @@
 - [How to debug event listeners with your browser's developer tools (2021)](https://gomakethings.com/how-to-debug-event-listeners-with-your-browsers-developer-tools/)
 - [Chrome DevTools Protocol Docs](https://chromedevtools.github.io/devtools-protocol/)
 - [Wayang](https://github.com/go-rod/wayang) - High-level Devtools driver directly based on DevTools Protocol.
+- [chobitsu](https://github.com/liriliri/chobitsu) - Chrome devtools protocol JavaScript implementation.
+- [DevTools Tips](https://devtoolstips.org/) - Collection of useful cross-browser DevTools tips. ([Code](https://github.com/captainbrosset/devtools-tips))

@@ -166,3 +166,4 @@
 - [DNS Test Suite](https://github.com/dnsimple/dnstest) - Erlang app for testing authoritative DNS servers for compliance.
 - [Mess with DNS (2021)](https://jvns.ca/blog/2021/12/15/mess-with-dns/) ([Code](https://github.com/jvns/mess-with-dns-backend)) ([HN](https://news.ycombinator.com/item?id=29568510))
 - [knary](https://github.com/sudosammy/knary) - Simple HTTP(S) and DNS Canary bot with Slack/Discord/MS Teams/Lark & Pushover support.
+- [dns-packet](https://github.com/mafintosh/dns-packet) - Abstract-encoding compliant module for encoding / decoding DNS packets.

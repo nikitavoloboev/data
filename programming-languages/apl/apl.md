@@ -44,6 +44,7 @@
 - [Vector, the Journal of the British APL Association](http://archive.vector.org.uk/)
 - [From Competitive Programming to APL](https://corecursive.com/065-competitive-coding-with-conor-hoekstra/) ([HN](https://news.ycombinator.com/item?id=27380431))
 - [BQN](https://github.com/mlochbaum/BQN) - APL-like programming language. Self-hosted. ([Web](https://mlochbaum.github.io/BQN/))
+- [BQN in C](https://github.com/dzaima/CBQN)
 - [Let's build a simple interpreter for APL (2020)](https://mathspp.com/blog/lsbasi-apl-part1) ([HN](https://news.ycombinator.com/item?id=27728071))
 - [J language code](https://github.com/jsoftware/jsource)
 - [Jelly](https://github.com/DennisMitchell/jellylanguage) - Recreational programming language inspired by J. ([HN](https://news.ycombinator.com/item?id=27800057))

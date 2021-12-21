@@ -42,3 +42,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Denxi](https://github.com/zyrolasting/denxi) - Programming model for distributing data. It reduces the cost of producing package managers, storefronts, operating systems, and CI/CD systems.
 - [Google: Distributing Software in a Massively Parallel Environment (2014)](https://www.usenix.org/sites/default/files/conference/protected-files/lisa_2014_talk.pdf)
 - [Hermit](https://cashapp.github.io/hermit/) - Manages isolated, self-bootstrapping sets of tools in software projects. ([Code](https://github.com/cashapp/hermit)) ([Lobsters](https://lobste.rs/s/leqj8z/hermit_manages_isolated_self))
+- [Scarf CLI](https://github.com/scarf-sh/scarf) - Environment manager and development tool powered by Nomia.

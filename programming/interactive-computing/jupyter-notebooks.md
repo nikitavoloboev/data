@@ -32,6 +32,7 @@
 - [ipyflex](https://github.com/trungleduc/ipyflex) - WYSIWYG layout editor for Jupyter widgets.
 - [jupyterlab-fonts](https://github.com/deathbeds/jupyterlab-fonts) - Data-driven Style and Typography for JupyterLab powered by JSS.
 - [drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter.
+- [jupyterlab_imarkdown](https://github.com/agoose77/jupyterlab-imarkdown) - JupyterLab extension to embed rich output in Markdown cells.
 
 ## Links
 

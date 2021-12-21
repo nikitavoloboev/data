@@ -560,3 +560,6 @@
 - [ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up.
 - [Cloudprober](https://github.com/cloudprober/cloudprober) - Active monitoring software to detect failures before your customers do. ([Docs](https://cloudprober.org/))
 - [Ketch](https://github.com/theketchio/ketch) - Application delivery framework that facilitates the deployment and management of applications on Kubernetes using a simple command line interface.
+- [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
+- [kubecfg](https://github.com/kubecfg/kubecfg) - Tool for managing Kubernetes resources as code.
+- [Kubergrunt](https://github.com/gruntwork-io/kubergrunt) - Standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl.

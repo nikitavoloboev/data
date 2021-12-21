@@ -132,3 +132,4 @@
 - [Data Linter](https://github.com/brain-research/data-linter) - Identifies potential issues (lints) in your ML training data.
 - [Cloud Annotations](https://github.com/cloud-annotations/cloud-annotations) - Fast, easy and collaborative open source image annotation tool for teams and individuals. ([Web](https://cloud.annotations.ai/))
 - [pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) - Clean APIs for data cleaning. Python implementation of R package Janitor.
+- [face2comics datasets](https://github.com/Sxela/face2comics)

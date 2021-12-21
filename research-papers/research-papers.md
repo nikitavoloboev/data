@@ -149,3 +149,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arxiv-utils](https://github.com/j3soon/arxiv-utils) - Meaningful titles for tabs and PDF downloads! Also supports tab search.
 - [The Business of Extracting Knowledge from Academic Publications (2021)](https://markusstrasser.org/extracting-knowledge-from-literature/) ([HN](https://news.ycombinator.com/item?id=29481061))
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics.
+- [Trends of arxiv submissions counted from twitter/medium/reddit](https://github.com/mavenlin/ai_research_trends)

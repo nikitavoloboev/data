@@ -249,3 +249,6 @@
 - [apricot](https://github.com/jmschrei/apricot) - Implements submodular optimization for the purpose of selecting subsets of massive data sets to train machine learning models quickly.
 - [Theseus](https://github.com/facebookresearch/theseus) - Library for differentiable nonlinear optimization built on PyTorch.
 - [MMSelfSup](https://github.com/open-mmlab/mmselfsup) - OpenMMLab Self-Supervised Learning Toolbox and Benchmark.
+- [NVFlare](https://github.com/NVIDIA/NVFlare) - NVIDIA Federated Learning Application Runtime Environment. ([Docs](https://nvidia.github.io/NVFlare/))
+- [OSLO](https://github.com/tunib-ai/oslo) - Open Source framework for Large-scale transformer Optimization.
+- [snntorch](https://github.com/jeshraghian/snntorch) - Deep and online learning with spiking neural networks in Python.

@@ -47,7 +47,7 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [You Should Open Source Your Product (2019)](https://blog.tommoor.com/2019/01/01/you-should-open-source-your-product/)
 - [Code Shelter](https://www.codeshelter.co/) - Maintainer Community for Abandoned FOSS Projects.
 - [IssueHunt](https://issuehunt.io/) - Reward project owners and developers who maintain important open-source software in the internet stack.
-- [Gitcoin](https://gitcoin.co/) - Lets you get paid for working on open source software.
+- [Gitcoin](https://gitcoin.co/) - Lets you get paid for working on open source software. ([Web Code](https://github.com/gitcoinco/web))
 - [How to maintain a bunch of open source projects (2019)](https://macwright.org/2019/03/28/oss-at-scale.html)
 - [HN: GitHub Sponsors Launch (2019)](https://news.ycombinator.com/item?id=19989684)
 - [Open Source Guides](https://opensource.guide/)

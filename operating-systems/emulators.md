@@ -57,3 +57,5 @@
 - [Tiny Emulators](https://floooh.github.io/tiny8bit/)
 - [CAMLBOY](https://github.com/linoscope/CAMLBOY) - Game Boy emulator written in OCaml that runs in your browser.
 - [Ness](https://github.com/Kelpsy/ness) - SNES emulator written in Rust.
+- [WASM-4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console. ([Web](https://wasm4.org/)) ([HN](https://news.ycombinator.com/item?id=29632813))
+- [Chip8 Emulator](https://github.com/dmatlack/chip8)

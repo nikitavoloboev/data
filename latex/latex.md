@@ -102,3 +102,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeXPad](https://www.latexpad.dev/) - Minimalist LaTeX scratch pad with symbol autocompletion and instant previews. ([Code](https://github.com/cmoog/latexpad))
 - [LaTeX Run](https://github.com/aclements/latexrun) - Fits LaTeX into a modern build environment.
 - [Symbolic-math-HaTeX](https://github.com/leftaroundabout/Symbolic-math-HaTeX) - Convenient Haskell syntax for writing in LaTeX math expressions.
+- [NotebookToLaTeX.jl](https://github.com/davibarreira/NotebookToLaTeX.jl) - Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.

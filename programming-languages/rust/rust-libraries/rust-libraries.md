@@ -220,6 +220,7 @@
 - [raster.rs](https://github.com/AspecScire/rasters.rs) - Raster processing library and tools written in rust.
 - [geo-svg](https://github.com/lelongg/geo-svg) - Generate SVG strings from geo-types.
 - [Limelight](https://github.com/drifting-in-space/limelight) - WebGL2 wrapper with a focus on making high-performance WebAssembly graphics code easier to write and maintain.
+- [Kayak UI](https://github.com/StarArawn/kayak_ui) - Declarative UI that can be used to make user interfaces in Rust primarily targeting games.
 
 ## Games
 
@@ -361,6 +362,7 @@
 - [Alumina](https://github.com/millardjn/alumina) - Deep learning library for rust.
 - [bhtsne](https://github.com/frjnn/bhtsne) - Parallel Barnes-Hut t-SNE implementation written in Rust.
 - [ONNX Runtime](https://github.com/nbigaouette/onnxruntime-rs) - Rust wrapper for Microsoft's ONNX Runtime.
+- [HAL](https://github.com/jramapuram/hal) - Rust based Cross-GPU Machine Learning.
 
 ## macOS
 
@@ -1239,6 +1241,8 @@
 - [rsx](https://github.com/victorporof/rsx) - Advanced JSX-like templating for Rust.
 - [simplelog](https://github.com/Drakulix/simplelog.rs) - Simple Logging Facility for Rust.
 - [unwinding](https://github.com/nbdd0121/unwinding) - Stack unwinding library in Rust.
+- [fpRust](https://github.com/TeaEntityLab/fpRust) - Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust.
+- [static-assertions-rs](https://github.com/nvzqz/static-assertions-rs) - Ensure correct assumptions about constants, types, and more in Rust.
 
 ## Cargo Plugins
 

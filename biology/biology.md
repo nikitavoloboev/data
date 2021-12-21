@@ -97,3 +97,5 @@
 - [Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology (1972)](https://www.goodreads.com/en/book/show/493746)
 - [BMC Biology](https://bmcbiol.biomedcentral.com/) ([Twitter](https://twitter.com/BMCBiology))
 - [BMC, research in progress](https://www.biomedcentral.com/)
+- [There’s no such thing as a tree (phylogenetically)](https://eukaryotewritesblog.com/2021/05/02/) ([HN](https://news.ycombinator.com/item?id=29621646))
+- [OneZoom Tree of Life Explorer](https://www.onezoom.org/)

@@ -42,6 +42,7 @@
 
 - [Haskeline](https://github.com/judah/haskeline) - Haskell library for line input in command-line programs.
 - [unbeliever](https://github.com/aesiniath/unbeliever) - Library for writing command-line applications, be they tools or long-running daemons.
+- [butcher](https://github.com/lspitzner/butcher) - Chops a command or program invocation into digestable pieces.
 
 ## Error
 
@@ -57,6 +58,10 @@
 ## ML
 
 - [convoluted](https://github.com/jonascarpay/convoluted) - Dependently typed convolutional neural networks.
+
+## Crypto
+
+- [lol](https://github.com/cpeikert/Lol) - Functional Lattice Cryptography.
 
 ## Other
 
@@ -208,6 +213,10 @@
 - [replace-megaparsec](https://github.com/jamesdbrock/replace-megaparsec) - Stream editing with Haskell Megaparsec parsers.
 - [Oath](https://github.com/fumieval/oath) - Composable Concurrent Computation Done Right.
 - [sexpresso](https://github.com/archambaultv/sexpresso) - Flexible Haskell library for parsing and printing S-Expressions.
+- [cassava](https://github.com/haskell-hvr/cassava) - CSV parsing and encoding library optimized for ease of use and high performance.
+- [one-liner](https://github.com/sjoerdvisscher/one-liner) - Constraint-based generics.
+- [data-category](https://github.com/sjoerdvisscher/data-category) - Library of categories, with categorical constructions on them.
+- [free-functors](https://github.com/sjoerdvisscher/free-functors) - Provides free functors that are adjoint to functors that forget class constraints.
 
 ## Notes
 
@@ -234,3 +243,4 @@
 - [Immutable Publishing Policy](https://gist.github.com/chrisdone/f71a2eca728a805c181091863c339fc2) ([Tweet](https://twitter.com/christopherdone/status/1460575119395495936))
 - [implicit-hie](https://github.com/Avi-D-coder/implicit-hie) - Auto generate a stack or cabal multi component hie.yaml file.
 - [Haskell Starter-Kit](https://github.com/EncodePanda/haskell-starter-kit)
+- [haskell.nix extra Hackage](https://github.com/ilyakooo0/haskell-nix-extra-hackage) - Tool to use custom forks of Hackage packages with haskell.nix.

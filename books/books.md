@@ -261,6 +261,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: Is there any fiction that's based on a world with different physics? (2021)](https://news.ycombinator.com/item?id=29587703)
 - [Best books you've read as an engineering manager or software engineer](https://twitter.com/GergelyOrosz/status/1470308287220527104)
 - [Ask HN: Life Changing Books? (2021)](https://news.ycombinator.com/item?id=29605394)
+- [Your favorite book that you read in 2021](https://www.reddit.com/r/suggestmeabook/comments/rkaok7/its_that_time_of_year_again_your_favorite_book/)
 
 ## Interesting Prose Books
 

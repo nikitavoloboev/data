@@ -134,6 +134,7 @@
 - [Clobits](https://github.com/saikyun/clobits) - Use C inside Clojure, then run it on the JVM or compile a native binary.
 - [injest](https://github.com/johnmn3/injest) - Auto-transducifying, auto-parallelizing path thread macros.
 - [unilog](https://github.com/pyr/unilog) - Easy logging setup in clojure.
+- [Pathom 3](https://github.com/wilkerlucio/pathom3) - Logic programming through attribute relationships in Clojure. ([Docs](https://pathom3.wsscode.com/docs/))
 
 ## Links
 

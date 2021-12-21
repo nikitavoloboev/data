@@ -2,6 +2,8 @@
 
 I love the idea of [building truly offline first software where backend failing isn't a big deal. All operations are done locally (fast), then sync deltas to server](https://twitter.com/_vojto/status/1466540419404247043). Like [Replicache](https://replicache.dev/). Good example of such app is [Linear](https://linear.app/).
 
+My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/Deno services](https://news.ycombinator.com/item?id=29627047).
+
 ## Inspiration
 
 ### Other
@@ -183,3 +185,5 @@ I love the idea of [building truly offline first software where backend failing 
 - [Amazon System Design Interview: Design Parking Garage (2021)](https://www.youtube.com/watch?v=NtMvNh0WFVM)
 - [Event Sourcing Explained (2020)](https://abdullin.com/video/event-sourcing/)
 - [Widget Driven Development (2021)](https://alexei.me/blog/widget-driven-development/) ([HN](https://news.ycombinator.com/item?id=29551123))
+- [Ask HN: What tech stack would you use to build a new web app today? (2021)](https://news.ycombinator.com/item?id=29626371)
+- [Ask HN: Which tech stack is the most fun? (2021)](https://news.ycombinator.com/item?id=29625165)

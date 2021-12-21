@@ -129,5 +129,6 @@
 - [Gender Equality Creative Platform — Story](https://www.pentagram.com/work/gender-equality-creative-platform/story) - Branded data visualization system helps tell human stories about gender equality. ([Tweet](https://twitter.com/giorgialupi/status/1470444914840326146))
 - [Awesome Dataviz](https://github.com/javierluraschi/awesome-dataviz)
 - [Awesome Web visualization frameworks](https://github.com/DrasticData/awesome-web-visualization-frameworks)
-- [The Science of Visual Data Communication: What Works (2021)](https://journals.sagepub.com/stoken/default+domain/10.1177%2F15291006211051956-FREE/full#.YbpbbYlu2Xw.twitter)
+- [The Science of Visual Data Communication: What Works (2021)](https://journals.sagepub.com/stoken/default+domain/10.1177%2F15291006211051956-FREE/full#.YbpbbYlu2Xw.twitter) ([HN](https://news.ycombinator.com/item?id=29621782))
 - [Dash-by-Plotly](https://github.com/Coding-with-Adam/Dash-by-Plotly) - Dedicated to teaching Dash and Plotly.
+- [Data visualization: A view of every Points of View column (2013)](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)

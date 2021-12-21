@@ -101,6 +101,7 @@
 - [Peeky](https://github.com/Akryum/peeky) - Test framework for the curious minds. ([Web](https://peeky.netlify.app/))
 - [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js.
 - [JSVerify](https://github.com/jsverify/jsverify) - Property-based checking. Like QuickCheck.
+- [brittle](https://github.com/davidmarkclements/brittle) - TAP test runner built for modern times.
 
 ## State management
 
@@ -704,6 +705,11 @@
 - [OpenSeadragon](https://github.com/openseadragon/openseadragon) - Open-source, web-based viewer for zoomable images, implemented in pure JavaScript. ([Web](http://openseadragon.github.io/))
 - [Atomically](https://github.com/fabiospampinato/atomically) - Read and write files atomically and reliably.
 - [point-in-polygon](https://github.com/substack/point-in-polygon) - Determine if a point is inside of a polygon.
+- [Eruda](https://github.com/liriliri/eruda) - Console for Mobile Browsers. ([Web](https://eruda.liriliri.io/))
+- [fast-redact](https://github.com/davidmarkclements/fast-redact) - Serializes an object with JSON.stringify, censoring any data at paths specified.
+- [fast-safe-stringify](https://github.com/davidmarkclements/fast-safe-stringify) - Safe and fast serialization alternative to JSON.stringify.
+- [createContent](https://github.com/ungap/create-content) - Cross browser utility to create HTML or SVG runtime content.
+- [templite](https://github.com/lukeed/templite) - Lightweight templating in 150 bytes.
 
 ## Links
 

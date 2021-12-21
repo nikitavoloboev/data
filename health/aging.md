@@ -82,3 +82,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [The Field of Longevity Biotech is a Mess](https://psblab.org/?p=697) ([HN](https://news.ycombinator.com/item?id=29441252))
 - [NewLimit](https://www.newlimit.com/) - Company built to extend human health span. ([Intro](https://blog.newlimit.com/p/announcing-newlimit-a-company-built))
 - [Japanese scientists develop vaccine to eliminate cells behind aging (2021)](https://www.japantimes.co.jp/news/2021/12/12/national/science-health/aging-vaccine/) ([HN](https://news.ycombinator.com/item?id=29529833))
+- [Senolytic vaccination improves normal and pathological age-related phenotypes and increases lifespan in progeroid mice (2021)](https://www.nature.com/articles/s43587-021-00151-2) ([HN](https://news.ycombinator.com/item?id=29640259))

@@ -119,3 +119,4 @@
 - [tailwindui-crawler](https://github.com/kiliman/tailwindui-crawler) - Will crawl the tailwindui.com website and download all the components to the ./output folder.
 - [Effortless typography, even in dark mode — Tailwind CSS Typography v0.5 (2021)](https://www.youtube.com/watch?v=GEYkwfYytAM)
 - [Rebuilding iOS 15 with Tailwind CSS (2021)](https://www.youtube.com/watch?v=eSzNNYk7nVU)
+- [Animate CSS - Tailwind CSS Plugin](https://github.com/bentzibentz/tailwindcss-animate.css)

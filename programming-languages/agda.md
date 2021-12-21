@@ -65,3 +65,4 @@
 - [Agda formalisation of second-order abstract syntax](https://github.com/DimaSamoz/agda-soas)
 - [Agda CheatSheet](https://github.com/alhassy/AgdaCheatSheet) - Basics of the dependently-typed functional language Agda.
 - [Agda Grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-agda)
+- [Agda-routing](https://github.com/MatthewDaggitt/agda-routing) - Agda library for reasoning about asynchronous iterative algorithms and network routing problems.

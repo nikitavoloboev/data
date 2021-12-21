@@ -168,3 +168,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Who is the most accurate world chess champion? (2021)](https://lichess.org/blog/YafSBxEAACIAr0ZA/exact-exacting-who-is-the-most-accurate-world-champion) ([HN](https://news.ycombinator.com/item?id=29414065))
 - [Chess.com vs. Lichess (2021)](https://siddhesh.substack.com/p/chesscom-vs-lichess) ([HN](https://news.ycombinator.com/item?id=29572447))
 - [Интервью с Даниилом Дубовым // Шахматный мир после пандемии (2021)](https://www.youtube.com/watch?v=IWn69iKehO0)
+- [Chesspecker](https://www.chesspecker.com/) - Open-source app to practice chess. ([Code](https://github.com/chesspecker/backend))

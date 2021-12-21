@@ -120,6 +120,7 @@
 - [ART](https://github.com/dinosaure/art) - Adaptive Radix Tree in OCaml.
 - [Avro](https://github.com/c-cube/ocaml-avro) - Runtime library and schema compiler for the Avro serialization format.
 - [CMON](https://github.com/let-def/cmon) - Library for printing OCaml values with sharing.
+- [Equinoxe](https://github.com/maiste/equinoxe) - Equinix API client library for OCaml.
 
 ## Links
 

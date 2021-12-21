@@ -67,3 +67,4 @@
 - [Documenting a gRPC API - tools comparison (2021)](https://blog.gendocu.com/posts/documenting-grpc/)
 - [GenDocu](https://gendocu.com/) - gRPC SDK and Documentation generator.
 - [gRPC - Best Practices](https://kreya.app/blog/grpc-best-practices/) ([Lobsters](https://lobste.rs/s/3bsg5h/grpc_best_practices))
+- [AIP Go](https://github.com/einride/aip-go) - Go SDK for implementing resource-oriented gRPC APIs.

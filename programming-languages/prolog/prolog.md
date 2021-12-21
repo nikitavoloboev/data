@@ -48,3 +48,4 @@
 - [LogicKit](https://github.com/kyouko-taiga/LogicKit) - Prolog-like language, distributed in the form of a Swift Embedded Domain Specific Language (EDSL).
 - [PrologHub](https://prologhub.com/)
 - [Homoiconic Prolog: Explain yourself (2019)](https://prologhub.com/homoiconic-prolog-explain-yourself/)
+- [Embeddable Prolog in Go](https://github.com/ichiban/prolog)

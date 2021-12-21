@@ -19,6 +19,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [grammY](https://grammy.dev/) - Telegram Bot Framework in TS. ([Code](https://github.com/grammyjs/grammY)) ([Examples](https://github.com/grammyjs/examples)) ([Parse Mode plugin for grammY](https://github.com/grammyjs/parse-mode)) ([Basic Scene](https://github.com/KnightNiwrem/basic-scene))
 - [grammY runner](https://github.com/grammyjs/runner) - ScalTelegram bot starter based on grammYe grammY bots.
 - [Telegram bot starter based on grammY](https://github.com/Borodutch/telegram-bot-starter)
+- [grammY Fluent](https://github.com/the-moebius/grammy-fluent) - Fluent localization system integration for grammY Telegram bot framework.
 - [botgram](https://github.com/botgram/botgram) - Microframework to build Telegram bots. ([Web](https://botgram.js.org/))
 - [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)
 - [Go bindings to Telegram API](https://github.com/go-telegram-bot-api/telegram-bot-api) ([Docs](https://go-telegram-bot-api.dev/))

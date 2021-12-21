@@ -109,3 +109,4 @@
 - [Deep Learning with Julia book, using Flux.jl](https://deeplearningwithjulia.com/) ([Code](https://github.com/logankilpatrick/DeepLearningWithJulia))
 - [Bayesian Statistics with Julia and Turing](https://github.com/storopoli/Bayesian-Julia)
 - [The Comprehensive Julia Tutorials - YouTube](https://www.youtube.com/playlist?list=PLCXbkShHt01seTlnlVg6O7f6jKGTguFi7) ([Code](https://github.com/emmettgb/JuliaLessons))
+- [The Future of Machine Learning and why it looks a lot like Julia (2021)](https://towardsdatascience.com/the-future-of-machine-learning-and-why-it-looks-a-lot-like-julia-a0e26b51f6a6)

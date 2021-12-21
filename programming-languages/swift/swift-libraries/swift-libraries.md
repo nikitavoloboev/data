@@ -212,6 +212,7 @@
 - [SectionKit](https://github.com/traderepublic/SectionKit) - Reusable sections for UICollectionView.
 - [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift.
 - [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - Splash view that animates and reveals its content, inspired by the Twitter splash.
+- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy.
 
 ## macOS
 
@@ -876,6 +877,8 @@
 - [automerge-swift](https://github.com/automerge/automerge-swift) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
 - [MoreSFSymbols](https://github.com/cameronshemilt/MoreSFSymbols) - Collection of additional custom SFSymbols for Swift.
 - [swift-prelude](https://github.com/pointfreeco/swift-prelude) - Collection of types and functions that enhance the Swift language.
+- [Syzygy](https://github.com/davedelong/Syzygy) - Common base code for Syzygy products.
+- [Asynchone](https://github.com/reddavis/Asynchrone) - Extensions and additions to AsyncSequence, AsyncStream and AsyncThrowingStream.
 
 ## Other (not lib)
 

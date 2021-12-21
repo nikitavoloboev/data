@@ -41,7 +41,7 @@
 - [Feature Stores: The Data Side of ML Pipelines (2021)](https://medium.com/riselab/feature-stores-the-data-side-of-ml-pipelines-7083d69bff1c)
 - [Flowgger](https://github.com/awslabs/flowgger) - Fast, simple and lightweight data collector written in Rust.
 - [Popsink](https://app.popsink.dev/) - Real-time data platform you don't have to build.
-- [Flyte](https://github.com/flyteorg/flyte) - Structured programming and distributed processing platform that enables highly concurrent, scalable and maintainable workflows for Machine Learning and Data Processing. ([Web](https://flyte.org/)) ([GitHub](https://github.com/flyteorg))
+- [Flyte](https://github.com/flyteorg/flyte) - Structured programming and distributed processing platform that enables highly concurrent, scalable and maintainable workflows for Machine Learning and Data Processing. ([Web](https://flyte.org/)) ([GitHub](https://github.com/flyteorg)) ([Python SDK](https://github.com/flyteorg/flytekit))
 - [Winterfell](https://github.com/novifinancial/winterfell) - Distributed STARK prover.
 - [Python to Distributed Python to Airflow task in ~5 lines of code](https://www.astronomer.io/blog/airflow-ray-data-science-story)
 - [DataFusion](https://github.com/apache/arrow-datafusion) - Extensible query execution framework, written in Rust, that uses Apache Arrow as its in-memory format.
@@ -69,3 +69,4 @@
 - [vega](https://github.com/rajasekarv/vega) - Faster implementation of Apache Spark from scratch in Rust.
 - [Memgraph](https://github.com/memgraph/memgraph) - Build modern, graph-based applications on top of your streaming data in minutes. ([Web](https://memgraph.com/))
 - [Apache Parquetv](https://parquet.apache.org/) - Columnar storage format that supports nested data. ([Code](https://github.com/apache/parquet-format))
+- [Data Pipelines Pocket Reference Book (2021)](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/) ([Code](https://github.com/jamesdensmore/datapipelinesbook))

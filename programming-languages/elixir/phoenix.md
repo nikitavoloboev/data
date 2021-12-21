@@ -66,3 +66,4 @@
 - [Gigalixir Action](https://github.com/mhanberg/gigalixir-action) - GitHub Action for deploying Phoenix applications to Gigalixir.
 - [Gigalixir](https://www.gigalixir.com/) - Elixir’s Platform as a Service.
 - [Absinthe.Phoenix](https://github.com/absinthe-graphql/absinthe_phoenix) - Integrates Absinthe subscriptions with Phoenix.
+- [PhxComponentHelpers](https://github.com/cblavier/phx_component_helpers) - Extensible Phoenix liveview components, without boilerplate.

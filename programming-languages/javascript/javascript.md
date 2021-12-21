@@ -190,7 +190,7 @@ if (
 - [IxJS](https://github.com/ReactiveX/IxJS) - Interactive Extensions for JavaScript.
 - [Renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [The ECMAScript Ecosystem (2020)](https://dev.to/laurieontech/the-ecmascript-ecosystem-2e13)
-- [ESbuild](https://github.com/evanw/esbuild/) - Extremely fast JavaScript bundler and minifier written in Go. ([HN](https://news.ycombinator.com/item?id=22335707)) ([Architecture](https://github.com/evanw/esbuild/blob/master/docs/architecture.md)) ([serverless-esbuild](https://github.com/floydspace/serverless-esbuild)) ([Awesome](https://github.com/egoist/awesome-esbuild)) ([Web](https://esbuild.github.io/)) ([Esbuild plugins](https://github.com/remorses/esbuild-plugins)) ([Tweet](https://twitter.com/tannerlinsley/status/1445135850866499586)) ([HN](https://news.ycombinator.com/item?id=28860713))
+- [ESbuild](https://github.com/evanw/esbuild/) - Extremely fast JavaScript bundler and minifier written in Go. ([HN](https://news.ycombinator.com/item?id=22335707)) ([Architecture](https://github.com/evanw/esbuild/blob/master/docs/architecture.md)) ([serverless-esbuild](https://github.com/floydspace/serverless-esbuild)) ([Awesome](https://github.com/egoist/awesome-esbuild)) ([Web](https://esbuild.github.io/)) ([Esbuild plugins](https://github.com/remorses/esbuild-plugins)) ([Tweet](https://twitter.com/tannerlinsley/status/1445135850866499586)) ([HN](https://news.ycombinator.com/item?id=28860713)) ([Online Playground](https://github.com/egoist/play-esbuild))
 - [Community plugins for esbuild](https://github.com/esbuild/community-plugins)
 - [Why Is Esbuild Fast?](https://esbuild.github.io/faq/#why-is-esbuild-fast) ([HN](https://news.ycombinator.com/item?id=26154509))
 - [bundless](https://github.com/remorses/bundless) - Dev server and bundler for esbuild. ([Web](https://bundless.vercel.app/))
@@ -392,3 +392,4 @@ if (
 - [JavaScript Cross-Site Scripting: How it Happens and Mitigation Steps (2021)](https://www.youtube.com/watch?v=YlMCp_vzbQo)
 - [JavaScript Self-Profiling API Proposal](https://github.com/WICG/js-self-profiling) - Proposal for a programmable JS profiling API for collecting JS profiles from real end-user environments.
 - [Caterwaul](https://github.com/spencertipping/caterwaul) - JavaScript-to-JavaScript Compiler. ([Web](http://caterwauljs.org/)) ([HN](https://news.ycombinator.com/item?id=29563076))
+- [MuJS](https://github.com/ccxvii/mujs) - Embeddable JavaScript interpreter in C. ([Web](https://mujs.com/))

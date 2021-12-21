@@ -212,6 +212,8 @@
 - [Kretes](https://kretes.dev/) - Programming Environment for TypeScript & Node.js. ([Code](https://github.com/kreteshq/kretes))
 - [dprint-plugin-typescript](https://github.com/dprint/dprint-plugin-typescript) - TypeScript formatting plugin for dprint.
 - [TypeScript for Pythonistas (2021)](https://medium.com/@Pilot-EPD-Blog/typescript-for-pythonistas-f90bbb297f0a) ([HN](https://news.ycombinator.com/item?id=29574948))
+- [Magic TypeScript](https://carltheperson.com/images/magic-typescript/magic-typescript.png) - Cheat sheet of TypeScript’s most important/magic features. ([Code](https://github.com/carltheperson/magic-typescript))
+- [TypeScript Functional Architecture](https://github.com/ryannhg/ts-functional-architecture) - TypeScript Functional Architecture, without using classes.
 
 ## Images
 

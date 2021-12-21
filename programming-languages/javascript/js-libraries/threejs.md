@@ -78,3 +78,5 @@
 - [Cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [Build fancy landing pages with React(-three-fiber) and ThreeJS](https://0xca0a.gumroad.com/l/B4N4N4S) ([Tweet](https://twitter.com/0xca0a/status/1445409346305892353))
 - [Three.js Journey implemented with React-Three-Fiber](https://github.com/slorber/react-three-fiber-journey)
+- [Computer Graphics Études with WebGL and Three.js](https://boytchev.github.io/etudes/) ([Code](https://github.com/boytchev/etudes))
+- [Three Story Controls](https://github.com/nytimes/three-story-controls) - Three.js camera toolkit for creating interactive 3d stories.

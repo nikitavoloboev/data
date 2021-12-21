@@ -133,6 +133,8 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Higher Theories and Monads (2021)](https://arxiv.org/abs/2106.02706)
 - [Polynomial Lens](https://github.com/BartoszMilewski/PolyLens/blob/main/PolyLens.pdf)
 - [An introduction to regular categories (2020)](https://arxiv.org/abs/2004.08964)
+- [Crash Course Category Theory Notes/Resources](http://jacobzelko.com/C3T/) ([Code](https://github.com/TheCedarPrince/C3T)) ([HN](https://news.ycombinator.com/item?id=29640873))
+- [Evan Patterson: Realizing Applied Category Theory in Julia (2020)](https://www.youtube.com/watch?v=7dmrDYQh4rc)
 
 ## Images
 

@@ -47,3 +47,4 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Tip to sleep soundly](https://twitter.com/michelletandler/status/1447367246075080707)
 - [Tips to improve sleep without buying $5k mattress (2021)](https://twitter.com/MCovBrown/status/1446854566645878787)
 - [Sleep technique used by Salvador Dalí works](https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot) ([HN](https://news.ycombinator.com/item?id=29515882))
+- [Notes on Walker – Why We Sleep (2021)](http://www.federicopereiro.com/notes-walker-sleep/)

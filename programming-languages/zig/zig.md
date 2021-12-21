@@ -83,3 +83,6 @@
 - [Zig Compiler Internals](https://github.com/mikdusan/zig.internals/blob/master/internals.rst)
 - [Allocgate: Restructuring how allocators work in Zig (2021)](https://pithlessly.github.io/allocgate.html) ([HN](https://news.ycombinator.com/item?id=29571133))
 - [List of Zig Gamedev Projects](https://github.com/ValorZard/awesome-zig-gamedev)
+- [Minimal build.zig for targeting iOS](https://github.com/kubkon/zig-ios-example)
+- [Zig 0.9.0](https://ziglang.org/download/0.9.0/release-notes.html) ([HN](https://news.ycombinator.com/item?id=29631202))
+- [What do you think about Zig? (2021)](https://www.reddit.com/r/rust/comments/rlj9zl/what_do_you_think_about_zig/)

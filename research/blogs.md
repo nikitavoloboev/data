@@ -82,6 +82,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Miguel Young](https://mcyoung.xyz/posts.html)
 - [Nick Babcock](https://nickb.dev/)
 - [George Saunders](https://georgesaunders.substack.com/)
+- [Jaana Dogan](https://rakyll.org/)
 
 ## Notes
 

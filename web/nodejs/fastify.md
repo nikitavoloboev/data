@@ -1,5 +1,9 @@
 # [Fastify](https://www.fastify.io/)
 
+## OSS Fastify APIs/Apps
+
+- [Notes API using PostgreSQL, Prisma, and Fastify](https://github.com/iShibi/notes-api)
+
 ## Links
 
 - [Node.js boilerplate using Fastify & TypeScript](https://github.com/yonathan06/fastify-typescript-boilerplate)
@@ -19,3 +23,4 @@
 - [fastify-multipart](https://github.com/fastify/fastify-multipart) - Multipart support for Fastify.
 - [Learn Fastify by building a Recipe App](https://github.com/one-aalam/havyt)
 - [fastify-helmet](https://github.com/fastify/fastify-helmet) - Important security headers for Fastify.
+- [Fastify Adapter Middleware Properties on a Different Context](https://github.com/jmcdo29/context-fastify-middleware)

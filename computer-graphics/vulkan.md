@@ -58,3 +58,5 @@
 - [Descriptorless Rendering in Vulkan (2021)](https://msiglreith.gitbook.io/blog/descriptorless-rendering-in-vulkan)
 - [Shaderc](https://github.com/google/shaderc) - Collection of tools, libraries, and tests for Vulkan shader compilation.
 - [shaderc-rs](https://github.com/google/shaderc-rs) - Rust bindings for the shaderc library.
+- [kajiya](https://github.com/EmbarkStudios/kajiya) - Experimental real-time global illumination renderer made with Rust and Vulkan. ([Homegrown rendering with Rust
+  ](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)) ([HN](https://news.ycombinator.com/item?id=29626406))

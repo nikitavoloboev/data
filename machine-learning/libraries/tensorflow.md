@@ -99,3 +99,4 @@
 - [Transformer-in-Transformer](https://github.com/Rishit-dagli/Transformer-in-Transformer) - Implementation of Transformer in Transformer for image classification, attention inside local patches. ([HN](https://news.ycombinator.com/item?id=29439631))
 - [TensorFlow Serving](https://github.com/tensorflow/serving) - Flexible, high-performance serving system for machine learning models, designed for production environments.
 - [Advent of Code 2021 in pure TensorFlow](https://pgaleone.eu/tensorflow/2021/12/11/advent-of-code-tensorflow/) ([HN](https://news.ycombinator.com/item?id=29523094))
+- [TensorFlow Recommenders](https://github.com/tensorflow/recommenders) - Library for building recommender system models using TensorFlow.

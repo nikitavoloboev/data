@@ -84,7 +84,7 @@
 - [Twitter Util](https://github.com/twitter/util) - Bunch of idiomatic, small, general purpose tools.
 - [scalameta](https://github.com/scalameta/scalameta) - Library to read, analyze, transform and generate Scala programs. ([Guide](https://scalameta.org/docs/trees/guide.html))
 - [Inox](https://github.com/epfl-lara/inox) - Solver for higher-order functional programs.
-- [Stainless](https://github.com/epfl-lara/stainless) - Verification framework and tool for higher-order Scala programs. ([Web](https://stainless.epfl.ch/))
+- [Stainless](https://github.com/epfl-lara/stainless) - Verification framework and tool for higher-order Scala programs. ([Web](https://stainless.epfl.ch/)) ([Talk](https://github.com/epfl-lara/stainless)) ([Talk Slides](https://speakerdeck.com/romac/formal-verification-of-scala-programs-with-stainless-def0d4dd-5c8d-4640-ab8f-60887df0e18c))
 - [scodec](https://github.com/scodec/scodec) - Scala combinator library for working with binary data.
 - [circe](https://github.com/circe/circe) - JSON library for Scala.
 - [Ciris](https://github.com/vlovgr/ciris) - Functional Configurations for Scala.
@@ -133,6 +133,11 @@
 - [Akka-Effect](https://github.com/evolution-gaming/akka-effect) - Cats-Effect & Akka interop.
 - [Woof](https://github.com/LEGO/woof) - Pure Scala logging library with no reflection.
 - [Squid](https://github.com/epfldata/squid) - Type-safe metaprogramming for Scala.
+- [fs2-data](https://github.com/satabin/fs2-data) - Streaming data parsers and manipulation library.
+- [Scala JSON Schema](https://github.com/andyglow/scala-jsonschema)
+- [Diffson](https://github.com/gnieh/diffson) - Scala diff/patch library for JSON.
+- [Polyvinyl](https://github.com/propensive/polyvinyl) - Typesafe record types for Scala.
+- [newtypes](https://github.com/monix/newtypes) - Macro-free helpers for defining newtypes in Scala, cross-compiled to Scala 3.
 
 ## Links
 

@@ -163,3 +163,4 @@
 - [Getting a Computer Science PhD in the USA](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)
 - [Good book on the fundamentals of CS (2021)](https://news.ycombinator.com/item?id=29498220)
 - [Ask HN: Books Similar to Code by Charlse Petzold? (2021)](https://news.ycombinator.com/item?id=29522588)
+- [Fifty Years of P vs. NP and the Possibility of the Impossible (2021)](https://cacm.acm.org/magazines/2022/1/257448-fifty-years-of-p-vs-np-and-the-possibility-of-the-impossible/fulltext)

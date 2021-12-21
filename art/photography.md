@@ -172,3 +172,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Recommended Photography Books](https://www.reddit.com/r/photography/wiki/index#wiki_recommended_photography_books)
 - [What book helped you most with photography? (2021)](https://www.reddit.com/r/photography/comments/rdt2hx/what_one_book_on_photography_has_helped_you_the/)
 - [Photography Reddit Wiki](https://www.reddit.com/r/photography/wiki/index)
+- [What are some general rules for when photographing people? (2021)](https://www.reddit.com/r/photography/comments/rki83u/what_are_some_general_rules_for_when/)
+- [How to develop black and white film at home with coffee](https://www.fieldmag.com/articles/how-to-develop-film-with-coffee-caffenol-guide) ([HN](https://news.ycombinator.com/item?id=29635815))

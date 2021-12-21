@@ -161,3 +161,5 @@
 - [ArcaneGAN](https://github.com/Sxela/ArcaneGAN) ([Web](https://huggingface.co/spaces/akhaliq/ArcaneGAN))
 - [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs (2021)](https://nvlabs.github.io/denoising-diffusion-gan/) ([Code](https://github.com/NVlabs/denoising-diffusion-gan))
 - [Ensembling Off-the-shelf Models for GAN Training (2021)](https://www.cs.cmu.edu/~vision-aided-gan/) ([Code](https://github.com/nupurkmr9/vision-aided-gan))
+- [Generative Adversarial Networks 101](https://github.com/mafda/generative_adversarial_networks_101)
+- [StyleGAN2-ADA: Training Generative Adversarial Networks with Limited Data (2020)](https://arxiv.org/abs/2006.06676) ([Code](https://github.com/NVlabs/stylegan2-ada-pytorch))

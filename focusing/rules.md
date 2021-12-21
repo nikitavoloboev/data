@@ -12,7 +12,7 @@
 - Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply (from first principles). Move in right direction. [Move fast](https://news.ycombinator.com/item?id=27691586). No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
-- [Don't compare myself to other people and be jealous](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Learn from them and every other human I admire/like instead. Use it to improve my life. [Don't listen to haters and nonconstructive feedback. Pay attention to genuine feedback and learn from it](https://twitter.com/EricRWeinstein/status/1387219408645361665).
+- [Don't compare myself to other people and be jealous/obsess over anyone](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Learn from them and every other human I admire/like instead. Use it to improve my life. [Don't listen to haters and nonconstructive feedback. Pay attention to genuine feedback and learn from it](https://twitter.com/EricRWeinstein/status/1387219408645361665).
 - Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
 - Create art. Meet people (friendly reach out). See places. Be inspired. Reuse work & ideas. Do what I love. Value myself and my work.
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).

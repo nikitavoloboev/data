@@ -102,3 +102,5 @@
 - [rocker](https://github.com/rocker-org/rocker) - R configurations for Docker.
 - [workflowr](https://github.com/jdblischak/workflowr) - Organized + reproducible + shareable data science in R.
 - [R project workflows](https://github.com/jdblischak/r-project-workflows)
+- [Rserve](http://www.rforge.net/Rserve/) - TCP/IP server which allows other programs to use facilities of R from various languages.
+- [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.

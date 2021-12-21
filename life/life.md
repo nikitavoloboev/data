@@ -27,6 +27,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Die with memories, not dreams.](https://twitter.com/rubenharris/status/1464220512830124032)
 - [There Are No Adults. Everyone's making it up as they go along. Figure it out yourself, and do it.](https://twitter.com/NavalBot/status/1465772676291743747)
 - [Every person has two lives; the second starts when they realizes they just have one. No time like the present to be the best version of yourself yet.](https://twitter.com/bscholl/status/1468758265714679811)
+- [The person you think you are only exists inside your own head. Everyone else sees their own version of "you". You are the sum of your actions and interactions with them. You have to actually BE the person you think you are.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
 
 ## Links
 

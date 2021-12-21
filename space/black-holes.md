@@ -37,5 +37,6 @@
 - [A Dyson sphere around a black hole (2021)](https://arxiv.org/abs/2106.15181) ([HN](https://news.ycombinator.com/item?id=28230092))
 - [The Map of Black Holes | Your Ultimate Guide to Black Holes (2021)](https://www.youtube.com/watch?v=Wf0uxjWGwPk)
 - [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole (2021)](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/) ([HN](https://news.ycombinator.com/item?id=28466027))
-- [‎Black Holes: The Edge of All We Know (2020)](https://letterboxd.com/film/black-holes-the-edge-of-all-we-know/)
+- [Black Holes: The Edge of All We Know (2020)](https://letterboxd.com/film/black-holes-the-edge-of-all-we-know/)
 - [In 1783, an English rector predicted black holes using classical mechanics](https://interestingengineering.com/forgotten-preacher-predicts-black-holes-a-century-before-einstein) ([HN](https://news.ycombinator.com/item?id=29026073))
+- [Are Fuzzballs the new understanding of Black Holes? (2021)](https://www.youtube.com/watch?v=RbvVeVHVcgs) ([Reddit](https://www.reddit.com/r/Physics/comments/rkaqkr/my_friend_made_a_video_interviewing_a_famous/))

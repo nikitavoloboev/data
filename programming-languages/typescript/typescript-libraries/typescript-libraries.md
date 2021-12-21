@@ -28,6 +28,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [intermock](https://github.com/google/intermock) - Mocking library to create mock objects and JSON for TypeScript interfaces via Faker.
 - [Typical Data](https://github.com/davidtkramer/typical-data) - Test data factory written in TypeScript.
 - [Nano Spy](https://github.com/ai/nanospy) - Tiny Node.js library to spy and mock methods in tests with great TypeScript support.
+- [tinyspy](https://github.com/Aslemammad/tinyspy) - Minimal fork of nanospy, with more features.
 - [test-data-bot](https://github.com/jackfranklin/test-data-bot) - Generate fake yet realistic looking data for your unit tests.
 
 ## Auth
@@ -240,6 +241,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-shift](https://github.com/fwouts/ts-shift) - Generate efficient, TypeScript-friendly value validators from TypeScript types.
 - [logger](https://github.com/lvkdotsh/logger) - Zero dependency, light-weight, blazing fast customizable logging library.
 - [pacote](https://github.com/PacoteJS/pacote) - Box of goodies, in TypeScript.
+- [refa](https://github.com/RunDevelopment/refa) - Library for finite automata and regular expressions in the context of JS RegExp.
+- [msagl-js](https://github.com/msaglJS/msagl-js) - JavaScript graph layout library.
+- [Curved Arrows](https://github.com/dragonman225/curved-arrows) - Draw S-curved arrows between points or shapes.
 
 ## Links
 

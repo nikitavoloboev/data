@@ -3,6 +3,7 @@
 ## CLI
 
 - [TTY::Prompt](https://github.com/piotrmurach/tty-prompt) - Beautiful and powerful interactive command line prompt.
+- [TTY::Command](https://github.com/piotrmurach/tty-command) - Execute shell commands with pretty output logging and capture stdout, stderr and exit status. ([Web](https://ttytoolkit.org/))
 
 ## DB
 

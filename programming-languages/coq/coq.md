@@ -104,3 +104,4 @@
 - [Proof in Coq of the Gödel-Rosser 1st incompleteness theorem](https://github.com/coq-community/goedel)
 - [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - Coq plugin embedding Elpi.
 - [Cheat Sheet for Coq](http://yazko.github.io/Coq_Cheat_Sheet/Coq_notes.html) ([Code](https://github.com/YaZko/Coq_Cheat_Sheet))
+- [Apery](https://github.com/math-comp/apery) - Formal proof of the irrationality of zeta(3), the Apéry constant.

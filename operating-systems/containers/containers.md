@@ -166,3 +166,5 @@
 - [Luet](https://github.com/mudler/luet) - Container-based Package manager.
 - [Notation](https://github.com/notaryproject/notation) - Project to add signatures as standard items in the registry ecosystem.
 - [Community Attestation Service (CAS)](https://github.com/codenotary/cas) - Give any digital asset a meaningful, globally-unique, immutable identity that is authentic, verifiable, traceable from anywhere.
+- [The container throttling problem](https://danluu.com/cgroup-throttling/) ([HN](https://news.ycombinator.com/item?id=29612278))
+- [OCI Distribution Utility](https://github.com/deitch/ocidist) - Simple CLI for working with OCI distribution images.

@@ -652,3 +652,4 @@
 - [rust-san](https://github.com/japaric/rust-san) - How-to: Sanitize your Rust code.
 - [rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker container for easily building static Rust binaries.
 - [Writing embedded firmware using Rust (2021)](https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust)
+- [Contexts and capabilities in Rust (2021)](https://tmandry.gitlab.io/blog/posts/2021-12-21-context-capabilities/)

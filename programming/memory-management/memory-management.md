@@ -81,3 +81,4 @@
 - [Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment (2021)](https://arxiv.org/abs/2110.01098) ([Lobsters](https://lobste.rs/s/dvwomq/does_bronze_garbage_collector_make_rust))
 - [Hardened malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems.
 - [An Empirical Lower Bound on the Overheads of Production Garbage Collectors (2021)](https://arxiv.org/pdf/2112.07880.pdf) ([Tweet](https://twitter.com/halvarflake/status/1471442159618437122))
+- [Fuite](https://github.com/nolanlawson/fuite) - CLI tool for finding memory leaks in web apps. ([Article](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)) ([HN](https://news.ycombinator.com/item?id=29593341))

@@ -85,7 +85,7 @@
 - [Talk: Denotational Design: from meanings to programs](https://github.com/conal/talk-2014-lambdajam-denotational-design)
 - [Functional Programming for Array-Based Parallelism (2020)](https://www.infoq.com/presentations/functional-programming-parallelism/) ([HN](https://news.ycombinator.com/item?id=23536190))
 - [Graham Hutton: Publications](http://www.cs.nott.ac.uk/~pszgmh/bib.html)
-- [Queensland Functional Programming Lab](https://qfpl.io/)
+- [Queensland Functional Programming Lab](https://qfpl.io/) ([GitHub](https://github.com/qfpl))
 - [List of useful resources to learn typed FP](https://github.com/dewey92/typed-fp-good-reads)
 - [Monads and Mom (2020)](https://twitchard.github.io/posts/2020-07-26-monads.html) ([Lobsters](https://lobste.rs/s/hkz1kh/monads_mom))
 - [Learn Functional Programming Design from Redux (2020)](https://pitayan.com/posts/redux-fp-design/) ([HN](https://news.ycombinator.com/item?id=24046631))

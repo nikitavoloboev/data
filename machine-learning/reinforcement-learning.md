@@ -293,3 +293,5 @@
 - [On the Practical Consistency of Meta-Reinforcement Learning Algorithms (2021)](https://arxiv.org/abs/2112.00478) ([Tweet](https://twitter.com/luisa_zintgraf/status/1470349932972421124))
 - [Awesome Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity)
 - [Balloon Learning Environment](https://github.com/google/balloon-learning-environment) - Flying stratospheric balloons with deep reinforcement learning.
+- [The potential of transformers in reinforcement learning (2021)](https://lorenzopieri.com/rl_transformers/) ([HN](https://news.ycombinator.com/item?id=29617087))
+- [rvs](https://github.com/scottemmons/rvs) - Reinforcement Learning via Supervised Learning.

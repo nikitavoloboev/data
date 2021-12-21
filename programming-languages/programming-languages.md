@@ -283,3 +283,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Code Generation for Higher Inductive Types (2018)](https://arxiv.org/abs/1808.08330)
 - [Ask HN: How would a programming language look if designed by non-programmer (2021)](https://news.ycombinator.com/item?id=29590681)
 - [Nice esoteric compilers (2021)](https://twitter.com/phil_eaton/status/1472389751223246854)
+- [A Brief Introduction to Esoteric Languages (2021)](https://hillelwayne.com/talks/esolangs/) ([Video](https://www.youtube.com/watch?v=cQ7bcCrJMHc))

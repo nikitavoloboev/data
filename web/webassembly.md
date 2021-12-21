@@ -236,3 +236,4 @@
 - [Tail Call Proposal for WebAssembly](https://github.com/WebAssembly/tail-call)
 - [Threads Proposal for WebAssembly](https://github.com/WebAssembly/threads)
 - [Javy](https://github.com/Shopify/javy) - Run your JavaScript on WebAssembly.
+- [Swam](https://github.com/satabin/swam) - WebAssembly interpreter written in Scala with the cats library. ([Web](https://swam.gnieh.org/))

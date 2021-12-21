@@ -153,3 +153,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Quant-Finance-Resources](https://github.com/PyPatel/Quant-Finance-Resources)
 - [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
 - [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading)
+- [Learn Accounting for Free](https://www.accountingcoach.com/) ([HN](https://news.ycombinator.com/item?id=29625571))

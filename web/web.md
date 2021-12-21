@@ -10,6 +10,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 
 ## Links
 
+- [Patterns.dev](https://www.patterns.dev/) - Modern Web App Design Patterns.
 - [Everything easy is hard again](https://frankchimero.com/writing/everything-easy-is-hard-again/)
 - [FreeCodeCamp Map](https://www.freecodecamp.org/map)
 - [Ask HN: What's your favorite way of getting a web app up quickly in 2018?](https://news.ycombinator.com/item?id=17217210)
@@ -313,7 +314,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Have Single-Page Apps Ruined the Web? | Transitional Apps with Rich Harris, NYTimes (2021)](https://www.youtube.com/watch?v=860d8usGC0o) ([Tweet](https://twitter.com/rich_harris/status/1446601175197880325?s=28))
 - [Reading from the web offline and distraction-free - Unladen swallow (2021)](https://blog.owulveryck.info/2021/10/07/reading-from-the-web-offline-and-distraction-free.html) ([Code](https://github.com/owulveryck/rePocketable))
 - [I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021) ([HN](https://news.ycombinator.com/item?id=28818829))
-- [Дока](https://doka.guide/) - Документация для разработчиков на человеческом языке. ([Code](https://github.com/doka-guide/content)) ([Tweet](https://twitter.com/ABatickaya/status/1447955564068286464)) ([Интервью про doka.guide / Ник Лопин](https://www.youtube.com/watch?v=KNgSZzvCEKo))
+- [Дока](https://doka.guide/) - Документация для разработчиков на человеческом языке. ([Content Code](https://github.com/doka-guide/content)) ([Tweet](https://twitter.com/ABatickaya/status/1447955564068286464)) ([Интервью про doka.guide / Ник Лопин](https://www.youtube.com/watch?v=KNgSZzvCEKo)) ([Platform Code](https://github.com/doka-guide/platform))
 - [12ft Ladder](https://12ft.io/) - Hop the paywalls.
 - [Веб-стандарты](https://web-standards.ru/) ([GitHub](https://github.com/web-standards-ru)) ([Code](https://github.com/web-standards-ru/web-standards.ru))
 - [The Web’s Grain (2015)](https://frankchimero.com/blog/2015/the-webs-grain/)
