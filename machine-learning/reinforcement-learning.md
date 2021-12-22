@@ -295,3 +295,4 @@
 - [Balloon Learning Environment](https://github.com/google/balloon-learning-environment) - Flying stratospheric balloons with deep reinforcement learning.
 - [The potential of transformers in reinforcement learning (2021)](https://lorenzopieri.com/rl_transformers/) ([HN](https://news.ycombinator.com/item?id=29617087))
 - [rvs](https://github.com/scottemmons/rvs) - Reinforcement Learning via Supervised Learning.
+- [RLHive](https://github.com/chandar-lab/RLHive) - Framework designed to facilitate research in reinforcement learning.

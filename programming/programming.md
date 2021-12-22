@@ -504,3 +504,4 @@
 - [Uncomfortable Truths in Software Engineering (2021)](https://buttondown.email/hillelwayne/archive/uncomfortable-truths-in-software-engineering/) ([HN](https://news.ycombinator.com/item?id=29564219)) ([Lobsters](https://lobste.rs/s/brl7ez/uncomfortable_truths_software))
 - [Ask HN: Are most of us developers lying about how much work we do? (2021)](https://news.ycombinator.com/item?id=29581125)
 - [Awesome Parallel Computing Resources](https://github.com/taskflow/awesome-parallel-computing)
+- [Ask HN: Working with large code base for the first time (2021)](https://news.ycombinator.com/item?id=29645433)

@@ -125,3 +125,4 @@
 - [terraform-k8s](https://github.com/hashicorp/terraform-k8s) - Terraform Cloud Operator for Kubernetes.
 - [Anton Babenko's Terraform, AWS, and DevOps projects](https://github.com/antonbabenko/terraform-aws-devops)
 - [Terraform Provider Boundary](https://github.com/hashicorp/terraform-provider-boundary) - Manage Boundary's identity-based access controls for resources provisioned with Terraform.
+- [Consul-Terraform-Sync](https://github.com/hashicorp/consul-terraform-sync) - Service-oriented tool for managing network infrastructure near real-time.

@@ -219,3 +219,4 @@
 - [DrivenData](https://www.drivendata.org/) - Data science competitions for social good. ([Winners Code](https://github.com/drivendataorg/competition-winners))
 - [Tabby Data](https://www.tabbydata.com/) - No-fuss data warehouse for startups. ([SQL Assistant Demo](https://app.tabbydata.com/sql-assistant-demo)) ([HN](https://news.ycombinator.com/item?id=29581376))
 - [Data Engineering Zoomcamp (2022)](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- [Julia-Python-R / Plots.jl / Data 101 Cheat Sheets](https://github.com/sswatson/cheatsheets)

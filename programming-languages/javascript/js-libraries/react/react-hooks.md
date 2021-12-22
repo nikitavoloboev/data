@@ -145,6 +145,7 @@
 - [useFilter](https://github.com/promise-learning/useFilter) - React hook to filter large amount of data using Web Worker. ([Article](https://lakhan.me/blog/use-filter))
 - [transition-hook](https://github.com/iamyoki/transition-hook) - Extreme light-weight react transition animation hook which is simpler and easier to use than react-transition-group.
 - [Retil](https://github.com/jamesknelson/retil) - Superpowers for React Developers.
+- [Byteclaw/hooks](https://github.com/Byteclaw/hooks) - Collection of useful React hooks.
 
 ## Code
 

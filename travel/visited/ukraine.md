@@ -19,3 +19,4 @@ It's unfortunate [what Ukraine has to deal through](https://www.youtube.com/watc
 - [Why Ukraine Matters (2021)](https://www.reddit.com/r/geopolitics/comments/rbkr9q/why_ukraine_matters/)
 - [Ukraine Twitter](https://twitter.com/Ukraine)
 - [Why Russia is so interested in interfering with Ukraine (2021)](https://news.ycombinator.com/item?id=29578478)
+- [Why Kremlin likely decided to invade Ukraine](https://twitter.com/DAlperovitch/status/1473362460673515527)

@@ -26,3 +26,4 @@
 - [Integrating Factor (2021)](https://susam.in/blog/integrating-factor.html)
 - [An Introduction to Lagrange Multipliers](http://www.slimy.com/~steuard/teaching/tutorials/Lagrange.html) ([HN](https://news.ycombinator.com/item?id=29292294))
 - [Full vector calculus course with interactive videos](https://www.math.brown.edu/ysulyma/f21-math180/)
+- [multivariable calculus text with interactive 3D graphics](https://github.com/sswatson/MultivariableCalculus.tex)

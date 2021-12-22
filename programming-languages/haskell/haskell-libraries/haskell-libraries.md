@@ -245,3 +245,4 @@
 - [implicit-hie](https://github.com/Avi-D-coder/implicit-hie) - Auto generate a stack or cabal multi component hie.yaml file.
 - [Haskell Starter-Kit](https://github.com/EncodePanda/haskell-starter-kit)
 - [haskell.nix extra Hackage](https://github.com/ilyakooo0/haskell-nix-extra-hackage) - Tool to use custom forks of Hackage packages with haskell.nix.
+- [init-haskell](https://github.com/masaeedu/init-haskell) - Script for setting up Haskell projects with Nix.

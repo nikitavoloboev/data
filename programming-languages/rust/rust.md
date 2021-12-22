@@ -502,7 +502,7 @@
 - [RPG](https://github.com/JohnTitor/rpg) - CLI tool for the Rust Playground.
 - [Tightness Driven Development in Rust (2021)](https://www.ecorax.net/tightness/)
 - [A Firehose of Rust, for busy people who know some C++ (2021)](https://www.youtube.com/watch?v=IPmRDS0OSxM)
-- [Rust for Rustaceans Book (2021)](https://nostarch.com/rust-rustaceans) - Idiomatic Programming for Experienced Developers. ([Tweet](https://twitter.com/jonhoo/status/1399824695600418817))
+- [Rust for Rustaceans Book (2021)](https://nostarch.com/rust-rustaceans) - Idiomatic Programming for Experienced Developers. ([Tweet](https://twitter.com/jonhoo/status/1399824695600418817)) ([Web](https://rust-for-rustaceans.com/)) ([Web Code](https://github.com/jonhoo/rust-for-rustaceans.com))
 - [vergen](https://github.com/rustyhorde/vergen) - Generate cargo: instructions at compile time in build scripts for use with the env! macro.
 - [Build your own X in Rust](https://github.com/osynavets/build-your-own-x-in-rust)
 - [Automatic Rust verification tools (2021)](https://alastairreid.github.io/automatic-rust-verification-tools-2021/)
@@ -654,3 +654,4 @@
 - [Writing embedded firmware using Rust (2021)](https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust)
 - [Contexts and capabilities in Rust (2021)](https://tmandry.gitlab.io/blog/posts/2021-12-21-context-capabilities/)
 - [Using Type-Level Programming in Rust to Make Safer Hardware Abstractions (2019)](https://blog.auxon.io/2019/10/25/type-level-registers/) ([Code](https://github.com/auxoncorp/bounded-registers))
+- [Arc Borrowing Patterns (2021)](https://www.fosskers.ca/en/blog/arc-patterns)

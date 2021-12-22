@@ -359,3 +359,4 @@
 - [Haskell Beginners 2022 Course](https://kodimensional.dev/course) ([Exercises](https://github.com/haskell-beginners-2022/exercises)) ([Plan](https://github.com/haskell-beginners-2022/course-plan))
 - [Applying Type-Level and Generic Programming in Haskell (2018)](https://github.com/kosmikus/SSGEP)
 - [Embedding effect systems in Haskell (2014)](http://tomasp.net/academic/papers/haskell-effects/)
+- [Policeman](https://github.com/kowainik/policeman) - Haskell PVP adviser.

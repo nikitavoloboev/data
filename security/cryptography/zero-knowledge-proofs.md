@@ -56,3 +56,4 @@
 - [arkworks-gadgets](https://github.com/webb-tools/arkworks-gadgets) - Zero-knowledge gadgets for blockchain applications.
 - [CirC](https://github.com/circify/circ) - Compiling high-level languages for SMT, zero-knowledge proofs, and more.
 - [Gemini](https://github.com/mmaker/gemini) - Elastic proof system based on arkworks.
+- [Zero knowledge proofs using the Bulletproofs implementation from dalek-cryptography](https://github.com/lovesh/bulletproofs-r1cs-gadgets)

@@ -497,3 +497,5 @@
 - [Vector Quantized Diffusion Model for Text-to-Image Synthesis (2021)](https://arxiv.org/abs/2111.14822) ([Code](https://github.com/microsoft/VQ-Diffusion))
 - [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models (2021)](https://arxiv.org/abs/2112.10741) ([Code](https://github.com/openai/glide-text2im))
 - [SynthDet](https://github.com/Unity-Technologies/SynthDet) - End-to-end object detection pipeline using synthetic data.
+- [MPViT: Multi-Path Vision Transformer for Dense Prediction (2021)](https://arxiv.org/abs/2112.11010) ([Code](https://github.com/youngwanLEE/MPViT))
+- [StyleSwin: Transformer-based GAN for High-resolution Image Generation (2021)](https://arxiv.org/abs/2112.10762) ([Code](https://github.com/microsoft/StyleSwin))

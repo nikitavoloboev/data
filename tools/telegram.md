@@ -50,6 +50,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 ## Bots
 
+- [LyAdminBot](https://t.me/LyAdminBot) - Бот для администрирования групп. ([Code](https://github.com/LyoSU/LyAdminBot))
 - [shell-bot](https://github.com/botgram/shell-bot) - Telegram bot that executes commands and sends the live output.
 - [vzmuinebot](https://github.com/ArtHome12/vzmuinebot) - Telegram bot for food menu navigate.
 - [TgDev](https://tgdev.io/) - Telegram bots development.

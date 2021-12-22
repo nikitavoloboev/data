@@ -414,3 +414,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [The Portal Network](https://github.com/ethereum/portal-network-specs) - Specifications for the Stateless Ethereum research effort.
 - [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum contracts in VSCode.
 - [Multicall](https://github.com/makerdao/multicall) - Aggregate multiple constant function call results into one.
+- [Revoke.cash](https://revoke.cash/) - Revoke your ERC20 token allowances. ([Code](https://github.com/rkalis/revoke.cash))
+- [Earnifi](https://earni.fi/) - Find Crypto Airdrops.

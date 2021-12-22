@@ -130,6 +130,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Florence OS](https://github.com/FlorenceOS/Florence) - Renaissance of Operating Systems in Zig.
 - [BRUTAL](https://brutal.smnx.sh/) - Operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering. ([Code](https://github.com/brutal-org/brutal))
 - [Embox](https://github.com/embox/embox) - Modular and configurable OS for embedded applications.
+- [TinyOS](https://github.com/tinyos/tinyos-main) - Open source, BSD-licensed operating system designed for low-power wireless devices.
 
 ## Notes
 

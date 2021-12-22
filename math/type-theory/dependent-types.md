@@ -63,3 +63,4 @@
 - [Formal Metatheory of Second-Order Abstract Syntax](https://www.cl.cam.ac.uk/~ds709/agda-soas/)
 - [Aya](https://github.com/aya-prover/aya-dev) - Programming language and a proof assistant designed for formalizing math and type-directed programming. ([Web](https://www.aya-prover.org/))
 - [tinka-hs](https://github.com/atennapel/tinka-hs) - Dependently typed programming language written in Haskell.
+- [Cedille](https://github.com/cedille/cedille) - Dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations. ([Web](https://cedille.github.io/))

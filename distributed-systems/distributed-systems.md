@@ -236,3 +236,4 @@
 - [Beating the CAP Theorem Checklist](https://ferd.ca/beating-the-cap-theorem-checklist.html)
 - [Paper review: Paxos vs Raft](https://emptysqua.re/blog/paxos-vs-raft/)
 - [Shardz (2021)](https://rakyll.org/shardz/) ([HN](https://news.ycombinator.com/item?id=29519736))
+- [microcosm](https://github.com/hanfei1991/microcosm) - Prototype of distributed task scheduler.

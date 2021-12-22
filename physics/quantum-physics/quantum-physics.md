@@ -86,3 +86,4 @@
 - [Brian Greene: Quantum Gravity, The Big Bang, Aliens, Death, and Meaning (2021)](https://www.youtube.com/watch?v=98HZanvAJ8Y)
 - [Five Starter Pieces: Quantum Information Science via Semi-definite Programs (2021)](https://arxiv.org/abs/2112.08276) ([Code](https://github.com/vsiddhu/SDP-Quantum-OR))
 - [Entanglement between superconducting qubits and a tardigrade (2021)](https://arxiv.org/abs/2112.07978) ([Tweet](https://twitter.com/benbenbrubaker/status/1472287582654455817))
+- [Quantum theory based on real numbers can be experimentally falsified (2021)](https://www.nature.com/articles/s41586-021-04160-4) ([HN](https://news.ycombinator.com/item?id=29643921))

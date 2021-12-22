@@ -1185,6 +1185,7 @@
 - [printsrc](https://github.com/jba/printsrc) - Print Go values as Go source.
 - [Ent](https://github.com/google/ent) - Universal, scalable, general purpose, Content-Addressable Store (CAS) to explore verifiable data structures, policies and graphs.
 - [cuid](https://github.com/lucsky/cuid) - Collision-resistant hashes for the cloud, in Go.
+- [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct_go_runtime) - Declarative language used for describe various binary data structures.
 
 ## Links
 
@@ -1219,3 +1220,4 @@
 - [vgo2nix](https://github.com/nix-community/vgo2nix) - Convert go.mod files to nixpkgs buildGoPackage compatible deps.nix files.
 - [go-structurizr](https://github.com/krzysztofreczek/go-structurizr) - Library for auto-generating C4 diagrams from Golang applications.
 - [modvendor](https://github.com/goware/modvendor) - Auxiliary vendoring tool for Go's new go.mod.
+- [interfaces](https://github.com/rjeczalik/interfaces) - Code generation tools for Go's interfaces.

@@ -177,6 +177,7 @@
 - [Quaint](https://github.com/prisma/quaint) - SQL Query AST and Visitor for Rust.
 - [lsm_engine](https://github.com/NavyaZaveri/lsm_engine) - Rust implementation of a key-value store with Log-Structured Merge Trees.
 - [hotpot-db](https://github.com/drbh/hotpot-db) - Easy to use database system. Uses SQLite3.
+- [redis-serde](https://github.com/OneSignal/serde-redis) - Serde support for redis-rs.
 
 ## Video
 

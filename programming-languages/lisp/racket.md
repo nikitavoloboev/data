@@ -85,3 +85,5 @@
 - [The Blog is the program (2021)](https://andregarzia.com/2021/12/the-blog-is-the-program.html)
 - [Rhombus](https://github.com/racket/rhombus-prototype) - Language based on Racket. ([Does Rhombus risk missing the trees for enforestation?](https://github.com/racket/rhombus-prototype/discussions/199))
 - [The Relational Parser](https://github.com/maxsnyder2000/TheRelationalParser) - Core-OMeta parser embedded in Racket/staged-miniKanren.
+- [rascas](https://github.com/Metaxal/rascas) - Computer Algebra System for Racket.
+- [Quickscript](https://github.com/Metaxal/quickscript) - Scripting engine for DrRacket.

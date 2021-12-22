@@ -200,3 +200,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Re-thinking electronic mail (2021)](https://liw.fi/rethinking-email/)
 - [Receivex](https://github.com/maartenvanvliet/receivex) - Elixir package to deal with inbound email webhooks.
 - [Front](https://front.com/) - Customer Communication Platform using Email. ([Twitter](https://twitter.com/FrontHQ)) ([Tweet](https://twitter.com/thomaspaulmann/status/1470501397212893197))
+- [Go Mail](https://github.com/ainsleyclark/go-mail) - Unify multiple popular mail API's (SparkPost, MailGun, SendGrid & SMTP) into a singular easy to use interface.
