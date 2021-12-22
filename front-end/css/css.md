@@ -429,3 +429,4 @@ all: unset
 - [The State of CSS 2021](https://2021.stateofcss.com/en-US/)
 - [UI Snippets](https://ui-snippets.dev/) - Collection of UI Snippets. ([Code](https://github.com/emilkowalski/ui-snippets))
 - [Smoothly Reverting CSS Animations (2021)](https://pragmaticpineapple.com/smoothly-reverting-css-animations/)
+- [CSS 3D Clouds](https://www.clicktorelease.com/code/css3dclouds/) ([Code](https://github.com/spite/CSS3DClouds))

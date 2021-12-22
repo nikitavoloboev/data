@@ -165,6 +165,7 @@ And these Discord servers:
 - [Wallpaper](https://www.wallpaper.com/) - Design, interiors, architecture, fashion, art.
 - [The Public Domain Review](https://publicdomainreview.org/)
 - [Flaunt Magazine](https://flaunt.com/)
+- [Eurozine](https://www.eurozine.com/) - Europe's leading cultural journals at your fingertips.
 
 ### Other
 

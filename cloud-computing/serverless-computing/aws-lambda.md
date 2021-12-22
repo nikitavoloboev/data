@@ -94,3 +94,4 @@
 - [Fat Functions are an Anti-Pattern (2021)](https://blog.begin.com/posts/2021-12-01-fat-function-anti-pattern) ([Tweet](https://twitter.com/brianleroux/status/1466102082662899712))
 - [Make the most of AWS Lambda with Go](https://kevinmcconnell.gumroad.com/l/lambda-go-book/hn) ([HN](https://news.ycombinator.com/item?id=29441272))
 - [Mantil](https://github.com/mantil-io/mantil) - Build your AWS Lambda-based Go backends quicker than ever. ([Web](https://www.mantil.com/))
+- [lambda-web](https://github.com/hanabu/lambda-web) - Run Rust web frameworks on AWS Lambda.

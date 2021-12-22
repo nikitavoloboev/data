@@ -12,6 +12,7 @@ Below is a list of extensions I use.
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Your AI pair programmer.
 - [tldraw](https://marketplace.visualstudio.com/items?itemName=tldraw-org.tldraw-vscode) - Extends VS Code with support for tldraw files. ([Code](https://github.com/tldraw/tldraw/tree/main/apps/vscode))
 - [Multi Command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command) - Invoke multiple commands as one command. ([Code](https://github.com/ryuta46/vscode-multi-command))
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them. ([Code](https://github.com/alefragnani/vscode-bookmarks))
 
 ## Go
 
@@ -137,7 +138,6 @@ Below is a list of extensions I use.
 - [Twitch Highlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - Twitch Line Highlighter.
 - [Clever VS Code](https://marketplace.visualstudio.com/items?itemName=davidbabel.Clever) - Add many productivity useful commands to vscode.
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform.
-- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them. ([Code](https://github.com/alefragnani/vscode-bookmarks))
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [VS Code Neovim Integration](https://github.com/asvetliakov/vscode-neovim)
 - [Snipsnap](https://github.com/snipsnapdev/snipsnap) - Ultimate snippets collection for VS Code.

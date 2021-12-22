@@ -93,3 +93,4 @@
 - [How to rsync files between two remotes? (2021)](https://vincent.bernat.ch/en/blog/2021-rsync-ssh-two-remotes)
 - [cend.me](http://cend.me/) - Direct file transfer with no server involvement.
 - [Slik Safe](https://www.sliksafe.com/) - Decentralized, End-to-End Encrypted Alternative to Dropbox. ([HN](https://news.ycombinator.com/item?id=29637188))
+- [Greedia](https://github.com/greedia/greedia) - Greedily cache media and serve it up fast.

@@ -95,6 +95,7 @@
 
 ## CLI
 
+- [Appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
 - [SimpleParsing](https://github.com/lebrice/SimpleParsing) - Simple, Elegant, Typed Argument Parsing with argparse.
 - [Typer](https://github.com/tiangolo/typer) - Build great CLIs. Easy to code. Based on Python type hints.
 - [Python Fire](https://github.com/google/python-fire) - Library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -657,3 +658,5 @@
 - [Writing and publishing a Python module in Rust (2020)](https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust) ([HN](https://news.ycombinator.com/item?id=29441840))
 - [setuptools](https://github.com/pypa/setuptools) - Python Packaging.
 - [objprint](https://github.com/gaogaotiantian/objprint) - Library that can print Python objects in human readable format.
+- [Python array API standard](https://data-apis.org/array-api/latest/) - Common API for array and tensor Python libraries. ([GitHub](https://github.com/data-apis))
+- [Array API standard](https://github.com/data-apis/array-api)

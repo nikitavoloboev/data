@@ -6,7 +6,6 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 
 - [Ultra](https://ultra.tf/) - Multi-media smart canvas for your mind. ([Tweet](https://twitter.com/raunofreiberg/status/1457710330495356929))
 - [Screen](https://screen.so/) - Fast screen sharing with multiplayer control, drawing & video. ([HN](https://news.ycombinator.com/item?id=22676040))
-- [Tuple](https://tuple.app/) - Best remote pair programming app on macOS.
 - [Loom](https://www.loom.com/) - Combines the expressiveness of video with the convenience of messaging. ([SDK](https://www.loom.com/sdk)) ([Tweet](https://twitter.com/loom/status/1453014022090117133))
 - [Lark](https://www.larksuite.com/) - Simplest way to create and collaborate.
 - [Clay](https://clay.run/) - Brings together the best parts of spreadsheets, coding & simple automation.

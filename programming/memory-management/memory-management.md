@@ -82,3 +82,4 @@
 - [Hardened malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems.
 - [An Empirical Lower Bound on the Overheads of Production Garbage Collectors (2021)](https://arxiv.org/pdf/2112.07880.pdf) ([Tweet](https://twitter.com/halvarflake/status/1471442159618437122))
 - [Fuite](https://github.com/nolanlawson/fuite) - CLI tool for finding memory leaks in web apps. ([Article](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)) ([HN](https://news.ycombinator.com/item?id=29593341))
+- [malloc-rs](https://github.com/suzusuzu/malloc-rs) - Implementation of malloc, realloc, calloc, and free in Rust.

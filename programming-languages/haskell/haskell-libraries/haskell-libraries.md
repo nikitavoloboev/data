@@ -217,6 +217,7 @@
 - [one-liner](https://github.com/sjoerdvisscher/one-liner) - Constraint-based generics.
 - [data-category](https://github.com/sjoerdvisscher/data-category) - Library of categories, with categorical constructions on them.
 - [free-functors](https://github.com/sjoerdvisscher/free-functors) - Provides free functors that are adjoint to functors that forget class constraints.
+- [hashtables](https://github.com/gregorycollins/hashtables) - Mutable hash tables for Haskell, in the ST monad.
 
 ## Notes
 

@@ -54,3 +54,4 @@
 - [Geometry Processing with Neural Fields (2021)](https://www.guandaoyang.com/NFGP/) ([Code](https://github.com/stevenygd/NFGP))
 - [Packing Equal Copies](https://erich-friedman.github.io/packing/index.html)
 - [Discrete and Computational Geometry Book](https://press.princeton.edu/books/hardcover/9780691145532/discrete-and-computational-geometry) ([HN](https://news.ycombinator.com/item?id=29550413))
+- [Executable version of Functional Differential Geometry](https://github.com/sicmutils/fdg-book)

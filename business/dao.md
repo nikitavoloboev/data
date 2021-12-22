@@ -50,3 +50,4 @@
 - [Odyssey DAO](https://www.odysseydao.com/) - Learning DAO creating high quality, 100% free Web3 education.
 - [Importance of Consent in DAOs (2021)](https://twitter.com/chaserchapman/status/1471904079127347200)
 - [Standard Proposals in DAOs](https://twitter.com/OKDunc/status/1471257060734025728)
+- [Tribeca](https://tribeca.so/#/) - Open standard and toolkit for launching DAOs on Solana. ([Code](https://github.com/TribecaHQ/tribeca))

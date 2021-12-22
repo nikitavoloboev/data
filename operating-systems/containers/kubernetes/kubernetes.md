@@ -563,3 +563,4 @@
 - [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
 - [kubecfg](https://github.com/kubecfg/kubecfg) - Tool for managing Kubernetes resources as code.
 - [Kubergrunt](https://github.com/gruntwork-io/kubergrunt) - Standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl.
+- [provider-kubernetes](https://github.com/crossplane-contrib/provider-kubernetes) - Crossplane provider to provision and manage Kubernetes objects on (remote) Kubernetes clusters.
