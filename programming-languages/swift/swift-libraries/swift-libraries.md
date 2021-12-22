@@ -879,6 +879,7 @@
 - [swift-prelude](https://github.com/pointfreeco/swift-prelude) - Collection of types and functions that enhance the Swift language.
 - [Syzygy](https://github.com/davedelong/Syzygy) - Common base code for Syzygy products.
 - [Asynchone](https://github.com/reddavis/Asynchrone) - Extensions and additions to AsyncSequence, AsyncStream and AsyncThrowingStream.
+- [nhcalc](https://github.com/KhaosT/nhcalc) - Compute NeuralHash for a given image.
 
 ## Other (not lib)
 

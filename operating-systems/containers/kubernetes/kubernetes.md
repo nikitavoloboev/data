@@ -565,3 +565,4 @@
 - [Kubergrunt](https://github.com/gruntwork-io/kubergrunt) - Standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl.
 - [provider-kubernetes](https://github.com/crossplane-contrib/provider-kubernetes) - Crossplane provider to provision and manage Kubernetes objects on (remote) Kubernetes clusters.
 - [kube-s3](https://github.com/freegroup/kube-s3) - Kubernetes pods used shared S3 storage.
+- [K8S-ObjectMatcher](https://github.com/banzaicloud/k8s-objectmatcher) - Go library which helps to match Kubernetes objects.

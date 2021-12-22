@@ -1246,6 +1246,7 @@
 - [fpRust](https://github.com/TeaEntityLab/fpRust) - Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust.
 - [static-assertions-rs](https://github.com/nvzqz/static-assertions-rs) - Ensure correct assumptions about constants, types, and more in Rust.
 - [Type Freak](https://github.com/jerry73204/rust-type-freak) - Collection of typed data structures, trait operators and aliases.
+- [ufmt](https://github.com/japaric/ufmt) - Smaller, faster and panic-free alternative to core::fmt.
 
 ## Cargo Plugins
 

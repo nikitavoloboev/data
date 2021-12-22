@@ -31,3 +31,4 @@
 - [Gort](https://github.com/getgort/gort) - Chatbot framework designed from the ground up for chatops. ([Docs](https://guide.getgort.io/))
 - [Cyclone](https://github.com/top-gg/cyclone) - Pattern matching framework for detecting bots that behave exactly like or very similar to other bots.
 - [Thales](https://github.com/super-reality/Thales) - Open source autonomous agent for everyone. No coding required.
+- [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine learning, conversational dialog engine for creating chat bots. ([Docs](https://chatterbot.readthedocs.io/en/stable/))

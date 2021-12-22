@@ -57,3 +57,4 @@
 - [CirC](https://github.com/circify/circ) - Compiling high-level languages for SMT, zero-knowledge proofs, and more.
 - [Gemini](https://github.com/mmaker/gemini) - Elastic proof system based on arkworks.
 - [Zero knowledge proofs using the Bulletproofs implementation from dalek-cryptography](https://github.com/lovesh/bulletproofs-r1cs-gadgets)
+- [ZKDocs](https://www.zkdocs.com/) - Comprehensive, detailed, and interactive documentation on zero-knowledge proof systems and related primitives. ([Code](https://github.com/trailofbits/zkdocs))

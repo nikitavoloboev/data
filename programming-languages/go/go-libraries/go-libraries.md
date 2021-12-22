@@ -1186,6 +1186,7 @@
 - [Ent](https://github.com/google/ent) - Universal, scalable, general purpose, Content-Addressable Store (CAS) to explore verifiable data structures, policies and graphs.
 - [cuid](https://github.com/lucsky/cuid) - Collision-resistant hashes for the cloud, in Go.
 - [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct_go_runtime) - Declarative language used for describe various binary data structures.
+- [openid.go](https://github.com/yohcop/openid-go) - OpenID consumer implementation in Go.
 
 ## Links
 
