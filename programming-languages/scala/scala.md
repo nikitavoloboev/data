@@ -131,3 +131,5 @@
 - [bleep](https://github.com/oyvindberg/bleep) - Fast Scala build tool. Automatically imports and builds huge projects, like tapir or http4s.
 - [Patch Theory and Type Classes (2018)](https://blog.gnieh.org/posts/2018/03/17/patch-theory-and-typeclasses/)
 - [Tagless Final in Scala (2021)](https://www.youtube.com/watch?v=m3Qh-MmWpbM)
+- [Managing Effects in Domain Models - The Algebraic Way by Debasish Ghosh (2018)](https://www.youtube.com/watch?v=wmrbVjjBRXM)
+- [MiMa](https://github.com/lightbend/mima) - Tool for catching binary incompatibility in Scala.

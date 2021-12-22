@@ -1247,6 +1247,7 @@
 - [static-assertions-rs](https://github.com/nvzqz/static-assertions-rs) - Ensure correct assumptions about constants, types, and more in Rust.
 - [Type Freak](https://github.com/jerry73204/rust-type-freak) - Collection of typed data structures, trait operators and aliases.
 - [ufmt](https://github.com/japaric/ufmt) - Smaller, faster and panic-free alternative to core::fmt.
+- [rcgen](https://github.com/est31/rcgen) - Simple Rust library to generate X.509 certificates.
 
 ## Cargo Plugins
 

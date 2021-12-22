@@ -117,3 +117,4 @@
 - [DeepMind's Player of Games, a general-purpose game algorithm (2021)](https://arxiv.org/abs/2112.03178) ([HN](https://news.ycombinator.com/item?id=29481665))
 - [The future of artificial intelligence is self-organizing and self-assembling (2021)](https://sebastianrisi.com/self_assembling_ai/) ([HN](https://news.ycombinator.com/item?id=29568370))
 - [What Does It Mean for AI to Understand? (2021)](https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/) ([HN](https://news.ycombinator.com/item?id=29578687))
+- [Frontiers in Collective Intelligence: A Workshop Report (2021)](https://arxiv.org/abs/2112.06864)

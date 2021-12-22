@@ -19,6 +19,7 @@
 - [ObjectiveSQL](https://github.com/braisdom/ObjectiveSql) - ORM framework in Java based on ActiveRecord pattern. ([HN](https://news.ycombinator.com/item?id=25170053))
 - [Database Queue](https://github.com/yoomoney/db-queue) - Worker-queue implementation on top of Java and database.
 - [Luwak](https://github.com/flaxsearch/luwak) - High performance stored query engine.
+- [Jedis](https://github.com/redis/jedis) - Redis Java client designed for performance and ease of use.
 
 ## Test
 

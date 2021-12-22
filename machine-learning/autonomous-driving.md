@@ -48,3 +48,4 @@
 - [Samples for TensorRT/Deepstream for Tesla & Jetson](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps)
 - [Gym environments and agents for autonomous driving](https://github.com/bark-simulator/bark-ml)
 - [OATomobile](https://github.com/OATML/oatomobile) - Research framework for autonomous driving.
+- [Learn-to-Race](https://learn-to-race.org/) - Open-source autonomous racing.

@@ -121,6 +121,7 @@
 - [Avro](https://github.com/c-cube/ocaml-avro) - Runtime library and schema compiler for the Avro serialization format.
 - [CMON](https://github.com/let-def/cmon) - Library for printing OCaml values with sharing.
 - [Equinoxe](https://github.com/maiste/equinoxe) - Equinix API client library for OCaml.
+- [ocaml_plugin](https://github.com/janestreet/ocaml_plugin) - Automatically build and dynlink OCaml source files.
 
 ## Links
 

@@ -626,3 +626,4 @@
 - [Self-attention Does Not Need $O(n^2)$ Memory (2021)](https://arxiv.org/abs/2112.05682v2) ([Code](https://github.com/AminRezaei0x443/memory-efficient-attention))
 - [Neural Discrete Representation Learning (2021)](https://arxiv.org/abs/1711.00937) ([Code](https://github.com/MishaLaskin/vqvae))
 - [VSE++: Improving Visual-Semantic Embeddings with Hard Negatives (2018)](https://arxiv.org/abs/1707.05612) ([Code](https://github.com/fartashf/vsepp))
+- [JAX ResNet](https://github.com/n2cholas/jax-resnet) - Implementations and checkpoints for ResNet, Wide ResNet, ResNeXt, ResNet-D, and ResNeSt in JAX (Flax).

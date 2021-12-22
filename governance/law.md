@@ -37,3 +37,4 @@
 - [Research Threats: Legal Threats Against Security Researchers](https://github.com/disclose/research-threats) ([Web](https://threats.disclose.io/))
 - [Themis Contract](https://github.com/informalsystems/themis-contract) - Command line-based tool to help with legal contracting.
 - [Ask HN: Why is Docusign a $50B company? (2021)](https://news.ycombinator.com/item?id=29363897)
+- [Propylon](https://propylon.com/) - Creating innovative software solutions to draft, manage, and understand legal content. ([GitHub](https://github.com/propylon))

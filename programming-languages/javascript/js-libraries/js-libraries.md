@@ -710,6 +710,7 @@
 - [fast-safe-stringify](https://github.com/davidmarkclements/fast-safe-stringify) - Safe and fast serialization alternative to JSON.stringify.
 - [createContent](https://github.com/ungap/create-content) - Cross browser utility to create HTML or SVG runtime content.
 - [templite](https://github.com/lukeed/templite) - Lightweight templating in 150 bytes.
+- [ml-matrix](https://github.com/mljs/matrix) - Matrix manipulation and computation library.
 
 ## Links
 

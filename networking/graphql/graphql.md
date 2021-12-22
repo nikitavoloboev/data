@@ -278,3 +278,4 @@
 - [graphql-tools (Rust)](https://github.com/dotansimha/graphql-tools-rs) - Implements tooling around GraphQL for Rust libraries.
 - [graphql-compose-modules](https://github.com/graphql-compose/graphql-compose-modules) - Toolkit for creating big GraphQL schemas with code-first approach in JavaScript.
 - [GraphQL code generator plug-in that automatically generates utility functions for SWR](https://github.com/croutonn/graphql-codegen-plugin-typescript-swr)
+- [Trace](https://github.com/oslabs-beta/trace) - Lightweight GraphQL query performance monitoring GUI with real-time, resolver-level performance tracing metrics and error logging. ([Web](https://gotrace.info/))

@@ -138,6 +138,7 @@
 - [Diffson](https://github.com/gnieh/diffson) - Scala diff/patch library for JSON.
 - [Polyvinyl](https://github.com/propensive/polyvinyl) - Typesafe record types for Scala.
 - [newtypes](https://github.com/monix/newtypes) - Macro-free helpers for defining newtypes in Scala, cross-compiled to Scala 3.
+- [geny](https://github.com/com-lihaoyi/geny) - Provides the geny.Generator data type, the dual to a scala.Iterator that can ensure resource cleanup.
 
 ## Links
 

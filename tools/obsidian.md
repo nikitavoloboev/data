@@ -54,6 +54,8 @@
 - [Advanced Slides](https://github.com/MSzturc/obsidian-advanced-slides) - Lets you create markdown-based reveal.js presentations in Obsidian.
 - [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin) - Minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier.
 - [Prettier](https://github.com/hipstersmoothie/obsidian-plugin-prettier) - Format obsidian.md notes using prettier.
+- [Obsidian Vimrc Support](https://github.com/esm7/obsidian-vimrc-support) - Loads a file of Vim commands.
+- [Fantasy Calendars](https://github.com/valentine195/obsidian-fantasy-calendar) - Create fantasy calendars in Obsidian.
 
 ## Themes
 

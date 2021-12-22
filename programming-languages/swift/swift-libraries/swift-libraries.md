@@ -213,6 +213,7 @@
 - [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift.
 - [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - Splash view that animates and reveals its content, inspired by the Twitter splash.
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy.
+- [TactileSlider](https://github.com/daprice/iOS-Tactile-Slider) - UIControl slider that can be dragged from any point within its bounds, similar to those in Control Center and Home.app.
 
 ## macOS
 

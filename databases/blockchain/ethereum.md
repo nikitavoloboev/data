@@ -50,7 +50,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
 - [Awesome Solidity 2](https://github.com/BlockchainLabsNZ/awesome-solidity)
 - [Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money (2020)](https://overcast.fm/+OcVeupJwk)
-- [ChainSafe](https://chainsafe.io/) - Designs and develops scalable solutions for the decentralized web. ([Code](https://github.com/ChainSafe))
+- [ChainSafe](https://chainsafe.io/) - Designs and develops scalable solutions for the decentralized web. ([GitHub](https://github.com/ChainSafe))
 - [Smart Contract Weakness Classification Registry](https://github.com/SmartContractSecurity/SWC-registry)
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
 - [web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.

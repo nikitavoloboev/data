@@ -208,3 +208,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Web3 is a Scam, Not a Revolution w/ Stephen Diehl (2021)](https://overcast.fm/+ZpQB4c9HM) ([Tweet](https://twitter.com/pedrouid/status/1469990498551185411))
 - [Cashio](https://cashio.app/) - Decentralized stablecoin fully backed by interest-bearing Saber USD liquidity provider tokens. ([Code](https://github.com/cashioapp/cashio))
 - [Optimal Routing for Constant Function Market Makers (2021)](https://stanford.edu/~guillean/papers/cfmm-routing.pdf) ([Code](https://github.com/angeris/cfmm-routing-code))
+- [The Crypto Syllabus](https://the-crypto-syllabus.com/)

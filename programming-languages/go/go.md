@@ -663,3 +663,4 @@ if err != nil {
 - [Generics facilitators in Go (2021)](https://rakyll.org/generics-facilititators/)
 - [Invoking C Code from Go](https://tech-lessons.in/invoking-C-code-from-golang/)
 - [Go Optimizations 101](https://go101.org/optimizations/101.html)
+- [GoDMT](https://github.com/averageflow/godmt) - Tool that can parse Go files into an abstract syntax tree and translate it to several programming languages.

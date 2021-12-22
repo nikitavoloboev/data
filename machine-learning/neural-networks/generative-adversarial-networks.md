@@ -163,3 +163,4 @@
 - [Ensembling Off-the-shelf Models for GAN Training (2021)](https://www.cs.cmu.edu/~vision-aided-gan/) ([Code](https://github.com/nupurkmr9/vision-aided-gan))
 - [Generative Adversarial Networks 101](https://github.com/mafda/generative_adversarial_networks_101)
 - [StyleGAN2-ADA: Training Generative Adversarial Networks with Limited Data (2020)](https://arxiv.org/abs/2006.06676) ([Code](https://github.com/NVlabs/stylegan2-ada-pytorch))
+- [EG3D: Efficient Geometry-aware 3D GANs (2021)](https://matthew-a-chan.github.io/EG3D/) ([Code](https://github.com/NVlabs/eg3d))

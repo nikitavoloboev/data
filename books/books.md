@@ -262,6 +262,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Best books you've read as an engineering manager or software engineer](https://twitter.com/GergelyOrosz/status/1470308287220527104)
 - [Ask HN: Life Changing Books? (2021)](https://news.ycombinator.com/item?id=29605394)
 - [Your favorite book that you read in 2021](https://www.reddit.com/r/suggestmeabook/comments/rkaok7/its_that_time_of_year_again_your_favorite_book/)
+- [The Ultimate Best Books of 2021 List](https://lithub.com/the-ultimate-best-books-of-2021-list/)
+- [The Best Books of 2021](https://kottke.org/21/12/the-best-books-of-2021)
 
 ## Interesting Prose Books
 

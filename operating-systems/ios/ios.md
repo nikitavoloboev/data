@@ -89,6 +89,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Zotero iOS](https://github.com/zotero/zotero-ios)
 - [DeTeXt](https://venkatasg.net/apps/detext) - Find the LaTeX Command You Want. ([Code](https://github.com/venkatasg/DeTeXt))
 - [Aphrodite](https://github.com/joey-gm/Aphrodite) - Asset Catalog Editor for iOS.
+- [Safari iOS app clone](https://github.com/amerhukic/Browser)
 
 ## Other
 

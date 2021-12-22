@@ -25,6 +25,10 @@
 - [kotlinx-cli](https://github.com/Kotlin/kotlinx-cli) - Pure Kotlin implementation of a generic CLI parser.
 - [Konsole](https://github.com/varabyte/konsole) - Declarative, Kotlin-idiomatic API for writing dynamic command line applications.
 
+## DB
+
+- [Krush](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin.
+
 ## Other
 
 - [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library. ([Web](https://arrow-kt.io/))
