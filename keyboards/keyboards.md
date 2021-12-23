@@ -143,3 +143,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Keycap Playground](https://github.com/riskable/keycap_playground) - Parametric OpenSCAD keycap generator made for generating keycaps of all shapes and sizes (and profiles). ([Video](https://www.youtube.com/watch?v=WDlRZMvisA4))
 - [Why Are Topre Keyboards So Expensive?](https://switchandclick.com/why-are-topre-keyboards-so-expensive/) ([HN](https://news.ycombinator.com/item?id=29282401))
 - [Ortholinear flat keyboards](https://twitter.com/rsms/status/1467190230625112067)
+- [Column Modules for Mechanical Keyboards - The next step for Configure-It-Yourself keyboards](https://docs.google.com/document/d/1fDaOXY7aCQk27tScDtyaNoOnOY7dxstABmi-QJg1R6s/edit#heading=h.lon4zb91hlu)

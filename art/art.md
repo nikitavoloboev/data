@@ -50,6 +50,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Thibaud Pourplanche](https://www.instagram.com/thibaud_pourplanche/)
 - [Owen D. Pomery](https://owenpomery.com/work)
 - [Cheryl Young](https://cysketch.com/)
+- [Jo Rioux](https://www.instagram.com/joriouxdraws/)
 - [Shusei Nagaoka](https://twitter.com/UrbanFoxxxx/status/1217915945882202112)
 - [Doug John Miller](https://www.instagram.com/dougjohnmiller/)
 - [Lee kyutae](https://www.instagram.com/kokooma_/)
@@ -287,6 +288,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [3D pic of paint 'Girl with Pearl Earring' with 10Bs of pixels](https://www.micro-pano.com/pearl/)
 - [Van Gogh's virtual painting](https://static.kuula.io/share/79QMS)
 - [The Beautiful Drawings of Richard Feynman](https://abakcus.com/the-beautiful-drawings-of-richard-feynman/)
+- [Solarpunk future](https://twitter.com/St_Magee/status/1472971802863308802)
 
 ## Photography
 

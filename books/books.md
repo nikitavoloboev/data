@@ -469,3 +469,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [BookStash](https://bookstash.io/) - Ideas from Top Books in 3m or less.
 - [Books.jl](https://github.com/rikhuijzer/Books.jl) - Create books with Julia. ([Template](https://github.com/JuliaBooks/BookTemplate)) ([Web](https://booktemplate.huijzer.xyz/))
 - [How to Write a Technical Book (2021)](https://cnr.sh/essays/how-to-write-a-technical-book)
+- [NPR Books: Book Reviews, Book News, and Author Interviews](https://www.npr.org/books)

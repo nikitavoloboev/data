@@ -87,3 +87,4 @@
 - [Lua Finite State Machine](https://github.com/kyleconroy/lua-state-machine) - Finite state machine lua micro framework.
 - [lua2c](https://github.com/davidm/lua2c) - Converts Lua 5.1 source code to C code.
 - [Lua in Rust](https://github.com/cjneidhart/lua-in-rust) - Lua programming language, implemented in Rust.
+- [Lua: Good, bad, and ugly parts (2012)](http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts)

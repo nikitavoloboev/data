@@ -102,3 +102,4 @@
 - [Automated theorem prover for first-order logic](https://github.com/stepchowfun/theorem-prover)
 - [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround) - Tools for Automated Mathematics.
 - [LARA – Lab for Automated Reasoning and Analysis](https://lara.epfl.ch/w/)
+- [Formal verification of IA-64 division algorithms](https://www.cl.cam.ac.uk/~jrh13/papers/hol00.pdf)
