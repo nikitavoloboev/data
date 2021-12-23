@@ -85,7 +85,7 @@ If analytics are used, it's best to implement them server side with something li
 - [Tech-savvy audiences block Google Analytics (2021)](https://plausible.io/blog/google-analytics-adblockers-missing-data) ([HN](https://news.ycombinator.com/item?id=28365163))
 - [Monitor ClickHouse with Prometheus & Grafana (2021)](https://tech.marksblogg.com/clickhouse-prometheus-grafana.html)
 - [Pirsch Analytics](https://pirsch.io/) - Cookie-Free Alternative to Google Analytics.
-- [Dune Analytics](https://dune.xyz/home) - Free crypto analytics by and for the community.
+- [Dune Analytics](https://dune.xyz/home) - Free crypto analytics by and for the community. ([Dune Snippets](https://github.com/sambacha/dune-snippets))
 - [Bast](https://github.com/kooparse/bast) - Web analytics focusing on privacy and simplicity.
 - [Sensor Tower](https://sensortower.com/) - Mobile App Store Marketing Intelligence.
 - [Analytics Next](https://github.com/segmentio/analytics-next) - Latest version of Segment’s JavaScript SDK - enabling you to send your data to any tool.

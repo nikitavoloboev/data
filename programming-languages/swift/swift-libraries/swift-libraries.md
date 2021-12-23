@@ -881,6 +881,8 @@
 - [Syzygy](https://github.com/davedelong/Syzygy) - Common base code for Syzygy products.
 - [Asynchone](https://github.com/reddavis/Asynchrone) - Extensions and additions to AsyncSequence, AsyncStream and AsyncThrowingStream.
 - [nhcalc](https://github.com/KhaosT/nhcalc) - Compute NeuralHash for a given image.
+- [LittleBlueTooth](https://github.com/DrAma999/LittleBlueTooth) - Simple library that helps you in connecting with BLE devices.
+- [Raylib for Swift](https://github.com/STREGAsGate/Raylib)
 
 ## Other (not lib)
 
@@ -917,3 +919,4 @@
 - [Swift on Server Deployment Guide](https://github.com/swift-server/guides) - Guides for building, debugging and deploying Swift Server applications.
 - [Swift Concurrency adoption guidelines for Swift Server Libraries](https://github.com/swift-server/guides/blob/main/docs/concurrency-adoption-guidelines.md)
 - [Web API Client in Swift (2021)](https://kean.blog/post/new-api-client) ([Code](https://github.com/kean/APIClient))
+- [Create API](https://github.com/kean/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.

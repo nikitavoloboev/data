@@ -270,6 +270,9 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Keaton Henson - Impromptu On A Theme From Six Lethargies ft. Ren Ford | Mahogany Session](https://www.youtube.com/watch?v=d9nJ8o0AfbE)
 - [Наталия Власова - Я у Твоих Ног Live](https://www.youtube.com/watch?v=z9MLGk2yDYU)
 - [Wilderland / Young Man in America - Anaïs Mitchell | Live from Here with Chris Thile](https://www.youtube.com/watch?v=mEf6Oas5Htg)
+- [Мумий Тролль - Невеста (LIVE @ Авторадио)](https://www.youtube.com/watch?v=WARnFwWcOuY)
+- [Группа «Мумий Тролль» на Серебряном Дожде – Дельфины](https://www.youtube.com/watch?v=cYhmiuRXeeY)
+- ["Квартирник НТВ у Маргулиса": группа "Мумий Тролль"](https://www.youtube.com/watch?v=0S5mOqnqEAM)
 
 ## Links
 

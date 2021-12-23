@@ -237,3 +237,6 @@
 - [Threads Proposal for WebAssembly](https://github.com/WebAssembly/threads)
 - [Javy](https://github.com/Shopify/javy) - Run your JavaScript on WebAssembly.
 - [Swam](https://github.com/satabin/swam) - WebAssembly interpreter written in Scala with the cats library. ([Web](https://swam.gnieh.org/))
+- [w2c2](https://github.com/turbolent/w2c2) - Translates WebAssembly modules to C.
+- [WASM Internals](https://a-j.gitbook.io/wasm-experimentation/wasm-internals-1) - Deep dive into the WASM internal structure and behaviour. ([Code](https://github.com/antferdom/wasm_playground))
+- [WASM Component Model design and specification](https://github.com/WebAssembly/component-model)

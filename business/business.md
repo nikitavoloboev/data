@@ -48,6 +48,7 @@ Learning to build [startups](startups/startups.md).
 - [Checking items off a list feels productive but it’s not effective. Effectiveness is staying focused on tasks that drive customer value.](https://twitter.com/techgirl1908/status/1462104303959695366)
 - [Within a year or two, we will see the end of cliff vesting or vesting of any kind. We are already seeing some large companies front-load RSUs. One big factor is competition with web3 projects where people can be compensated in instantly liquid tokens.](https://twitter.com/sriramk/status/1463977494667620352)
 - [I don't want a new cryptocurrency i want a new type of business legal structure that incentivizes you to actually do good in the world while making money.](https://twitter.com/mollyfmielke/status/1472231100487323652)
+- [Advice for making money: Sell to businesses. Not consumers.](https://twitter.com/JamesonCamp/status/1472990210422194186)
 
 ## Links
 

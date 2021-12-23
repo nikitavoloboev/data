@@ -100,3 +100,4 @@
 - [Setting up Cloudflare Argo & Access on a Raspberry Pi (2021)](https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi) ([HN](https://news.ycombinator.com/item?id=29382906))
 - [Turing Pi 2: 4 Raspberry Pi nodes on a mini ITX board (2021)](https://www.jeffgeerling.com/blog/2021/turing-pi-2-4-raspberry-pi-nodes-on-mini-itx-board) ([HN](https://news.ycombinator.com/item?id=29405614)) ([Code](https://github.com/geerlingguy/turing-pi-2-cluster))
 - [go-rpio](https://github.com/stianeikeland/go-rpio) - Go library for accessing GPIO-pins on the Raspberry Pi.
+- [Raspberry Pi holds its own against low-cost ARM NAS (2021)](https://www.jeffgeerling.com/blog/2021/raspberry-pi-holds-its-own-against-low-cost-arm-nas) ([HN](https://news.ycombinator.com/item?id=29650182))

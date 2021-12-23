@@ -42,7 +42,7 @@
 - [cube3d.dna](https://github.com/pallada-92/dna-3d-engine) - 3D engine implementation in DNA code. ([Tweet](https://twitter.com/pallada92/status/1332855023479484417))
 - [clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
 - [Codex DNA](https://codexdna.com/products/bioxp-system/) - Automated gene synthesis. DNA Printer.
-- [DNA seen through the eyes of a coder](https://berthub.eu/articles/posts/amazing-dna/)
+- [DNA seen through the eyes of a coder](https://berthub.eu/articles/posts/amazing-dna/) ([HN](https://news.ycombinator.com/item?id=29647713))
 - [30 years since the Human Genome Project began – what's next? (2020)](https://www.wired.com/story/30-years-since-the-human-genome-project-began-whats-next/) ([HN](https://news.ycombinator.com/item?id=25630318))
 - [DNA synthesis for true random number generation (2020)](https://www.nature.com/articles/s41467-020-19757-y)
 - [An Onion's Genome Has Five Times More DNA Than Humans (2019)](https://geneticsunzipped.com/news/2019/1/31/the-onion-test) ([HN](https://news.ycombinator.com/item?id=25975457))

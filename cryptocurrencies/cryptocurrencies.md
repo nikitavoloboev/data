@@ -209,3 +209,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Cashio](https://cashio.app/) - Decentralized stablecoin fully backed by interest-bearing Saber USD liquidity provider tokens. ([Code](https://github.com/cashioapp/cashio))
 - [Optimal Routing for Constant Function Market Makers (2021)](https://stanford.edu/~guillean/papers/cfmm-routing.pdf) ([Code](https://github.com/angeris/cfmm-routing-code))
 - [The Crypto Syllabus](https://the-crypto-syllabus.com/)
+- [Greatest Collection of anything related to finance and crypto](https://github.com/sambacha/compendium)

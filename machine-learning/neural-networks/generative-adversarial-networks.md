@@ -164,3 +164,6 @@
 - [Generative Adversarial Networks 101](https://github.com/mafda/generative_adversarial_networks_101)
 - [StyleGAN2-ADA: Training Generative Adversarial Networks with Limited Data (2020)](https://arxiv.org/abs/2006.06676) ([Code](https://github.com/NVlabs/stylegan2-ada-pytorch))
 - [EG3D: Efficient Geometry-aware 3D GANs (2021)](https://matthew-a-chan.github.io/EG3D/) ([Code](https://github.com/NVlabs/eg3d))
+- [JoJoGAN: One Shot Face Stylization](https://github.com/mchong6/JoJoGAN)
+- [VolumeGAN - 3D-aware Image Synthesis via Learning Structural and Textural Representations (2021)](https://genforce.github.io/volumegan/) ([Code](https://github.com/genforce/volumegan))
+- [GenForce: Research Initiative on Generative Modeling](https://genforce.github.io/) ([GitHub](https://github.com/genforce))

@@ -128,6 +128,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Vange-rs](https://github.com/kvark/vange-rs) - Game uses wgpu-rs for graphics and winit for windowing.
 - [Cosmic Verge](https://github.com/khonsulabs/cosmicverge) - 2d, persistent multiplayer, single-universe game written in Rust.
 - [Space-shooter.c](https://github.com/tsherif/space-shooter.c) - Cross-platform, top-down 2D space shooter written in C. ([HN](https://news.ycombinator.com/item?id=29520200))
+- [Cornell McRay t'Racing](https://github.com/h3r2tic/cornell-mcray) - Quick'n'dirty game sample using kajiya, physx-rs, and dolly.
 
 ## Awesome games (other)
 

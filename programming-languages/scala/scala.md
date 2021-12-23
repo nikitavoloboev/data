@@ -133,3 +133,4 @@
 - [Tagless Final in Scala (2021)](https://www.youtube.com/watch?v=m3Qh-MmWpbM)
 - [Managing Effects in Domain Models - The Algebraic Way by Debasish Ghosh (2018)](https://www.youtube.com/watch?v=wmrbVjjBRXM)
 - [MiMa](https://github.com/lightbend/mima) - Tool for catching binary incompatibility in Scala.
+- [Apache Spark Tutorial with Examples](https://sparkbyexamples.com/) - Provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language. ([Code](https://github.com/spark-examples/spark-scala-examples))

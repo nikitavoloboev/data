@@ -30,6 +30,7 @@
 - [Fetch](https://github.com/lessp/fetch) - Fetch libraries and interface for ReasonML/OCaml.
 - [Relude](https://github.com/reazen/relude) - FP-inspired prelude/standard library for ReasonML projects.
 - [rescript-webapi](https://github.com/tinymce/rescript-webapi) - ReScript bindings to the DOM and other Web APIs.
+- [rescript-libs](https://github.com/ri7nz/rescript-libs) - Collections and Essential set of Library, Utility, & Tools for ReScript Lang especially in Web.
 
 ## Links
 

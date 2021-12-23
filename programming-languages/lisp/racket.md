@@ -87,3 +87,4 @@
 - [The Relational Parser](https://github.com/maxsnyder2000/TheRelationalParser) - Core-OMeta parser embedded in Racket/staged-miniKanren.
 - [rascas](https://github.com/Metaxal/rascas) - Computer Algebra System for Racket.
 - [Quickscript](https://github.com/Metaxal/quickscript) - Scripting engine for DrRacket.
+- [Qi](https://docs.racket-lang.org/qi/index.html) - Functional, Flow-Oriented DSL. ([Interactive Tutorial](https://github.com/countvajhula/qi-tutorial))

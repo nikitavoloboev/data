@@ -162,3 +162,4 @@
 - [rust_lisp](https://github.com/brundonsmith/rust_lisp) - Rust-embeddable Lisp, with support for interop with native Rust functions.
 - [Bel in Perl](https://github.com/masak/bel) - Perl 5 implementation of Paul Graham's Bel.
 - [Jsonnet Language Server](https://github.com/grafana/jsonnet-language-server)
+- [MiniLisp](https://github.com/rui314/minilisp) - Readable lisp in less than 1k lines of C.

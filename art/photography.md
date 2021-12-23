@@ -1,6 +1,6 @@
 # Photography
 
-Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography).
+Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/) is inspiring.
 
 ## Interesting cameras
 

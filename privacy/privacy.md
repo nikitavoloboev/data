@@ -113,3 +113,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Gretel.ai](https://gretel.ai/) - Privacy Engineering as a Service. ([Twitter](https://twitter.com/gretel_ai)) ([GitHub](https://github.com/gretelai))
 - [NTC Forum](https://ntc.party/) - Discussion board for network censorship all around the world, with anti-censorship software developers, researchers and tech-savvy users.
 - [Programming Differential Privacy](https://programming-dp.com/) - Book about differential privacy, for programmers.
+- [Saying goodbye to an old friend (2021)](https://ar.al/2021/12/16/saying-goodbye-to-an-old-friend/) ([HN](https://news.ycombinator.com/item?id=29657637))

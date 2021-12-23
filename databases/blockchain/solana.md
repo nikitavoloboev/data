@@ -8,7 +8,7 @@ I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and t
 
 Until you can purchase ownership of stocks with blockchain, I buy [stocks/ETFs](../../economy/investing.md) with [Interactive Brokers](https://ibkr.com/referral/nikita206).
 
-You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/).
+You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/). [Render Network](https://rendertoken.com/) is awesome too.
 
 ## Apps
 
@@ -199,3 +199,5 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Solana without Proof of History (2021)](https://notes.ethereum.org/@dankrad/BJywSZY9t)
 - [Port Finance Loan Liquidator](https://github.com/port-finance/liquidator)
 - [Apricot](https://app.apricot.one/) - Lending protocol on Solana. ([Twitter](https://twitter.com/ApricotFinance))
+- [Solana Program Registry](https://github.com/DeployDAO/solana-program-registry) - Verified registry of open source Solana programs.
+- [Solana Program Index](https://github.com/DeployDAO/solana-program-index) - Index of verified checksums and IDLs of Anchor programs uploaded to the Solana Program Registry.

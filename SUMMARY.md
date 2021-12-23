@@ -920,7 +920,7 @@
     - [2020 October](looking-back/2020/2020-october.md)
     - [2020 November](looking-back/2020/2020-november.md)
     - [2020 December](looking-back/2020/2020-december.md)
-  - 2021
+  - [2021](looking-back/2021/2021.md)
     - [2021 January](looking-back/2021/2021-january.md)
     - [2021 February](looking-back/2021/2021-february.md)
     - [2021 March](looking-back/2021/2021-march.md)
@@ -932,3 +932,4 @@
     - [2021 September](looking-back/2021/2021-september.md)
     - [2021 October](looking-back/2021/2021-october.md)
     - [2021 November](looking-back/2021/2021-november.md)
+    - [2021 December](looking-back/2021/2021-december.md)

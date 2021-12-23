@@ -322,3 +322,4 @@
 - [torchquad](https://github.com/esa/torchquad) - High-performance numerical integration on the GPU with PyTorch.
 - [Efficient PyTorch: Tensor Memory Format Matters (2021)](https://pytorch.org/blog/tensor-memory-format-matters/)
 - [TorchSSL](https://github.com/TorchSSL/TorchSSL) - PyTorch-based Toolbox for Semi-Supervised Learning.
+- [PyTea](https://github.com/ropas/pytea) - PyTorch Tensor Shape Error Analyzer.

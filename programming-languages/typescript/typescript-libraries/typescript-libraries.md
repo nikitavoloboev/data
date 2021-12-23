@@ -14,6 +14,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [KVS](https://github.com/azu/kvs) - Lightweight key-value storage library for Browser, Node.js, and In-Memory.
 - [Kysely](https://github.com/koskimas/kysely) - Type-safe typescript SQL query builder.
 - [Keydb](https://github.com/DjDeveloperr/Keydb) - Simple Key-value storage module with support for multiple database backends.
+- [shapes/core](https://github.com/punchcard/shapes) - Type-safe DSLs and ORMs for TypeScript.
 
 ## Web
 
@@ -244,6 +245,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [refa](https://github.com/RunDevelopment/refa) - Library for finite automata and regular expressions in the context of JS RegExp.
 - [msagl-js](https://github.com/msaglJS/msagl-js) - JavaScript graph layout library.
 - [Curved Arrows](https://github.com/dragonman225/curved-arrows) - Draw S-curved arrows between points or shapes.
+- [ufo](https://github.com/unjs/ufo) - URL utils for humans.
+- [murmurhash-es](https://github.com/unjs/murmurhash-es) - ESM version of murmurhash v2 and v3.
 
 ## Links
 
@@ -274,3 +277,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) - Infrastructure for DefinitelyTyped.
 - [ts-lib-starter](https://github.com/Borrus-sudo/ts-lib-starter) - Finest quality ts-lib-starter with insane defaults.
 - [ts-node-starter](https://github.com/bennycode/ts-node-starter)
+- [structured-types](https://github.com/ccontrols/structured-types) - Collection of libraries using the Typescript Compiler API to generate "structured" type information from jsdoc and typescript files.

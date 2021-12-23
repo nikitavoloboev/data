@@ -176,6 +176,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Gruvbox 8](https://github.com/lifepillar/vim-gruvbox8) - Simplified and optimized Gruvbox colorscheme for Vim.
 - [Nightfox](https://github.com/EdenEast/nightfox.nvim) - Dark Neovim theme written in lua.
 - [Rosé Pine](https://github.com/rose-pine/neovim) - Soho vibes for Neovim.
+- [Kanagawa](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
 ## Syntax
 

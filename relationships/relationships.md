@@ -66,6 +66,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [No matter how nice and friendly you are, some people will dislike you, no matter what you do. Don't waste your time on them.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
 - [Nobody is the villain in their own story. When you experience a breakup, conflict, fall out etc. the other person may admit they did wrong, they may even apologise but they’ll never see themselves as “the bad guy” so accept how it is and move on, don’t become their villain by pushing the point.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
 - [You can't trust everybody. Just because they seem nice it doesn't mean they are worth trusting.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
+- [Successful marriages can end in divorce. It’s ok to say, “this isn’t working” and part ways in tact. We have to detach from the idea that staying together is the only relationship outcome that matters.](https://twitter.com/ashleysimpo/status/1473474332676562947)
 
 ## Links
 
@@ -140,3 +141,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Любовная зависимость и обсессия. Как избавиться от мыслей о человеке (2021)](https://www.youtube.com/watch?v=Genp4WQgWts)
 - [Early signs of a healthy relationship? (2021)](https://www.reddit.com/r/datingoverthirty/comments/r701tc/early_signs_of_a_healthy_relationship/)
 - [Romantic movie to watch with my girlfriend, to remind us how much love matters in life](https://www.reddit.com/r/MovieSuggestions/comments/ra1a5b/i_need_a_true_romantic_movie_to_watch_with_my/)
+- [A movie for someone grieving after a break up](https://www.reddit.com/r/MovieSuggestions/comments/rmgs11/a_movie_for_someone_grieving_after_a_break_up/)

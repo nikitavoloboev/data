@@ -145,3 +145,4 @@
 - [SciCloj](https://scicloj.github.io/) - Community of people creating high-quality open source solutions for data science in Clojure. ([GitHub](https://github.com/scicloj))
 - [deps-modules](https://github.com/exoscale/deps-modules) - Clojure "tool" that attempts to solve one of the "multi module" project problems with tools.deps in a minimalistic way.
 - [deps-new](https://github.com/seancorfield/deps-new) - New, simpler alternative to clj-new.
+- [neil](https://github.com/babashka/neil) - CLI to add common aliases and features to deps.edn-based projects.

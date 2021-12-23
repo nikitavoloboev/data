@@ -329,3 +329,4 @@ Awesome List
 - [A brief history of code search at GitHub (2021)](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/) ([HN](https://news.ycombinator.com/item?id=29576977))
 - [massive-wax](https://github.com/Eomm/massive-wax) - Execute multiple operation on multiple repositories.
 - [gh-sql](https://github.com/KOBA789/gh-sql) - Query GitHub Projects with SQL.
+- [DAG](https://github.com/devmatteini/dag) - Download Asset from GitHub releases.

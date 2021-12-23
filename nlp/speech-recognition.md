@@ -82,3 +82,6 @@
 - [audapolis](https://github.com/audapolis/audapolis) - Editor for spoken-word media with transcription.
 - [Shennong](https://github.com/bootphon/shennong) - Python toolbox for speech features extraction.
 - [Paderbox](https://github.com/fgnt/paderbox) - Collection of utilities for audio / speech processing.
+- [Icefall](https://github.com/k2-fsa/icefall) - Speech recognition recipes using k2. ([Docs](https://icefall.readthedocs.io/en/latest/))
+- [k2](https://github.com/k2-fsa/k2) - FSA/FST algorithms, differentiable, with PyTorch compatibility.
+- [ViSQOL (Virtual Speech Quality Objective Listener)](https://github.com/google/visqol) - Objective, full-reference metric for perceived audio quality.

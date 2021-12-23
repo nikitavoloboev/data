@@ -416,3 +416,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Multicall](https://github.com/makerdao/multicall) - Aggregate multiple constant function call results into one.
 - [Revoke.cash](https://revoke.cash/) - Revoke your ERC20 token allowances. ([Code](https://github.com/rkalis/revoke.cash))
 - [Earnifi](https://earni.fi/) - Find Crypto Airdrops.
+- [MEV-geth](https://github.com/flashbots/mev-geth) - Go implementation of MEV-Auction for Ethereum.
+- [prettier-config-solidity](https://github.com/sambacha/prettier-config-solidity) - Prettier config optimized to reduce AST churn & conform to solidity spec.
+- [Safari Wallet](https://safariwallet.org/) - Forkable EVM wallet for everyone. ([Web Code](https://github.com/Safari-Wallet/safariwallet.org))

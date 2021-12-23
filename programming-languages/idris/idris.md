@@ -67,3 +67,5 @@
 - [idris2-streaming](https://github.com/stefan-hoeck/idris2-streaming) - IO streaming library for Idris2.
 - [Idris, make back end, in 15 minutes, reusable, concise](https://github.com/thautwarm/Quick-Backend)
 - [sirdi](https://github.com/eayus/sirdi) - Simple package manager for Idris 2.
+- [Nix project template for Idris2 JavaScript projects](https://github.com/srid/idris-js-template)
+- [idris2-nvim](https://github.com/ShinKage/idris2-nvim) - Simple configuration and extra tools for NVIM + LSP + Idris2.

@@ -430,3 +430,4 @@ all: unset
 - [UI Snippets](https://ui-snippets.dev/) - Collection of UI Snippets. ([Code](https://github.com/emilkowalski/ui-snippets))
 - [Smoothly Reverting CSS Animations (2021)](https://pragmaticpineapple.com/smoothly-reverting-css-animations/)
 - [CSS 3D Clouds](https://www.clicktorelease.com/code/css3dclouds/) ([Code](https://github.com/spite/CSS3DClouds))
+- [Dynamic CSS with Custom Properties (aka CSS Variables)](https://frontendmasters.com/courses/css-variables/)

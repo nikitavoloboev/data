@@ -5,7 +5,7 @@
 - Animals get human rights and are no longer forced to endure life in slaughterhouses and be eaten. No animal can be harmed for food. Being vegan is normal. Caring is normal.
 - Renewable & environmentally friendly energy sources fully replace fossil fuel use. Each country's grid is ran off renewable clean energy. Extreme carbon tax is implemented.
 - All vehicles are electrical. Autonomous driving fully realized.
-- Cure for all cancers & diseases (cheap immunotherapies, medicine).
+- Cure for all cancers & diseases (cheap immunotherapies, medicine, can regenerative any tissue/organ you need).
 - Psychedelics legalized. Possession, purchase and manufacturing. Psychotherapy is available everywhere.
 - NLP lets machines understand knowledge & language at deep level.
 - Universal basic income allows each person to work on problems they deeply care about. Novel ideas can be explored by each person according to their interest & skill.
@@ -87,3 +87,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [A Hopeful Pathway for Humanity](https://hopefulpathway.blainehansen.me/) ([Code](https://github.com/blainehansen/hopeful-pathway))
 - [Ask HN: Why is everything changing too fast? (2021)](https://news.ycombinator.com/item?id=29457930)
 - [Ask HN: What's the next big thing in computing / programming? (2021)](https://news.ycombinator.com/item?id=29625625)
+- [The next big thing in 2022 is...](https://nbt.substack.com/p/nextbigthing2022) ([Tweet](https://twitter.com/nbt/status/1473720777098862596))

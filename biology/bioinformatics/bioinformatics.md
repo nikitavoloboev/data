@@ -1,5 +1,7 @@
 # [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
 
+Personally quite excited about developments of [Foregen](https://www.foregen.org/) & am donating to the cause. Regenerating tissue/organs fully is incredibly exciting.
+
 ## Links
 
 - [Rosalind](http://rosalind.info/problems/locations/) - Platform for learning bioinformatics and programming through problem solving.

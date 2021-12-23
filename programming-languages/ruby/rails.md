@@ -106,3 +106,4 @@
 - [From Node to Ruby on Rails (2021)](https://nikodunk.com/a-node-js-developer-discovers-rails/) ([HN](https://news.ycombinator.com/item?id=29577897))
 - [What's New in Rails 7 (2021)](https://blog.appsignal.com/2021/12/15/whats-new-in-rails7.html)
 - [Derailed Benchmarks](https://github.com/zombocom/derailed_benchmarks) - Series of things you can use to benchmark a Rails or Ruby app.
+- [Logidze](https://github.com/palkan/logidze) - Database changes log for Rails.

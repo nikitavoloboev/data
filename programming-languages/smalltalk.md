@@ -33,7 +33,7 @@
 - [JsSOM](https://github.com/SOM-st/JsSOM) - SOM (Simple Object Machine) Smalltalk implemented in JavaScript.
 - [Dr.Geo](http://www.drgeo.eu/) - Interactive Geometry in Smalltalk.
 - [Experiencing Smalltalk (2021)](https://nikhilism.com/post/2021/experiencing-smalltalk/) ([Lobsters](https://lobste.rs/s/wgnazl/experiencing_smalltalk))
-- [io](https://github.com/IoLanguage/io) - Programming language. Inspired by Self, Smalltalk and LISP. ([Web](https://iolanguage.org/))
+- [io](https://github.com/IoLanguage/io) - Programming language. Inspired by Self, Smalltalk and LISP. ([Web](https://iolanguage.org/)) ([Guide](https://iolanguage.org/guide/guide.html)) ([HN](https://news.ycombinator.com/item?id=29652317))
 - [Seaside](https://github.com/SeasideSt/Seaside) - Framework for developing sophisticated web applications in Smalltalk.
 - [Strongtalk](http://www.strongtalk.org/) - High-Performance Open Source Smalltalk With An Optional Type System. ([Code](https://github.com/talksmall/Strongtalk))
 - [Squeak](http://www.rowledge.org/tim/squeak/) - Free Smalltalk System – On RISC OS.

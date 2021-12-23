@@ -89,6 +89,7 @@ It includes:
 - [Goose&Duck Podcast](https://github.com/goose-duck/podcast)
 - [Lost and Founder](https://www.lostandfounder.net/)
 - [Flight Review](https://flightreview.fm/) - Weekly podcast chronicling the journey of two entrepreneurs building Flightcontrol.
+- [Иммигранткаст](https://overcast.fm/itunes1333969136) - О том как живется на чужбине.
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 

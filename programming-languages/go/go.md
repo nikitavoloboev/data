@@ -660,7 +660,8 @@ if err != nil {
 - [Backend master class [Go, Postgres, Docker]](https://www.youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE) ([Code](https://github.com/techschool/simplebank))
 - [Applied Go Courses](https://appliedgo.com/)
 - [gogrep](https://github.com/quasilyte/gogrep) - Syntax-aware Go code search, based on the mvdan/gogrep.
-- [Generics facilitators in Go (2021)](https://rakyll.org/generics-facilititators/)
+- [Generics facilitators in Go (2021)](https://rakyll.org/generics-facilititators/) ([HN](https://news.ycombinator.com/item?id=29649635)) ([Lobsters](https://lobste.rs/s/hz9fzl/generics_facilitators_go))
 - [Invoking C Code from Go](https://tech-lessons.in/invoking-C-code-from-golang/)
 - [Go Optimizations 101](https://go101.org/optimizations/101.html)
 - [GoDMT](https://github.com/averageflow/godmt) - Tool that can parse Go files into an abstract syntax tree and translate it to several programming languages.
+- [Three Minor Features in Go 1.18 (2021)](https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/) ([HN](https://news.ycombinator.com/item?id=29653485))

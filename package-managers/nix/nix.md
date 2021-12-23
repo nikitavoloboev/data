@@ -273,3 +273,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Untrusted CI: Using Nix to get automatic trusted caching of untrusted builds (2019)](https://flokli.de/posts/2019-11-21-untrusted-ci/)
 - [nix-universal-prefetch](https://github.com/samueldr/nix-universal-prefetch) - Uses nix and nixpkgs to actually run the prefetch operation, then read the error message to figure out the desired hash.
 - [Nix Starter Config](https://github.com/Misterio77/nix-starter-config) - Simple config repo to get you started with NixOS + home-manager + flakes.
+- [Compatibility function to allow flakes to be used by non-flake-enabled Nix versions](https://github.com/edolstra/flake-compat)

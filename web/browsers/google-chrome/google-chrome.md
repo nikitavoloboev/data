@@ -75,3 +75,4 @@ And here are Chrome extensions I use:
 - [Chrome Extension TypeScript Starter](https://github.com/chibat/chrome-extension-typescript-starter)
 - [Google Chrome Samples](https://www.chromestatus.com/samples) ([Code](https://github.com/GoogleChrome/samples))
 - [vite-plugin-chrome-extension](https://github.com/StarkShang/vite-plugin-chrome-extension) - Vite plugin to bundle chrome extensions for Manifest V3.
+- [pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library.

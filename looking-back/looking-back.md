@@ -6,7 +6,7 @@ I [share](../sharing/sharing.md) most things on [Twitter](https://twitter.com/ni
 
 I do monthly reflections on life here. Comes as part of [my newsletter](https://buttondown.email/nikitavoloboev).
 
-## 2021
+## [2021](2021/2021.md)
 
 - [January](2021/2021-january.md)
 - [February](2021/2021-february.md)
@@ -19,6 +19,7 @@ I do monthly reflections on life here. Comes as part of [my newsletter](https://
 - [September](2021/2021-september.md)
 - [October](2021/2021-october.md)
 - [November](2021/2021-november.md)
+- [December](2021/2021-december.md)
 
 ## [2020](2020/2020.md)
 

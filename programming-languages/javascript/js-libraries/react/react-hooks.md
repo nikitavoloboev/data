@@ -146,6 +146,7 @@
 - [transition-hook](https://github.com/iamyoki/transition-hook) - Extreme light-weight react transition animation hook which is simpler and easier to use than react-transition-group.
 - [Retil](https://github.com/jamesknelson/retil) - Superpowers for React Developers.
 - [Byteclaw/hooks](https://github.com/Byteclaw/hooks) - Collection of useful React hooks.
+- [usePromise](https://github.com/vigzmv/react-promise-suspense) - React hook for resolving promises with Suspense support.
 
 ## Code
 

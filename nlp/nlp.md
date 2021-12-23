@@ -428,3 +428,4 @@
 - [Multimodal Transformers | Transformers with Tabular Data](https://github.com/georgian-io/Multimodal-Toolkit) ([Article](https://medium.com/georgian-impact-blog/how-to-incorporate-tabular-data-with-huggingface-transformers-b70ac45fcfb4))
 - [Learn to Resolve Conversational Dependency: A Consistency Training Framework for Conversational Question Answering (2021)](https://arxiv.org/abs/2106.11575) ([Code](https://github.com/dmis-lab/excord))
 - [Improving Language Models by Retrieving from Trillions of Tokens (2021)](https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens)
+- [Open Information Extraction (OIE) Resources](https://github.com/gkiril/oie-resources)

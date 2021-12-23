@@ -128,3 +128,4 @@
 - [PyQIR](https://github.com/qir-alliance/pyqir) - Set of APIs for generating, parsing, and evaluating Quantum Intermediate Representation (QIR).
 - [Saturday Morning Breakfast Cereal - The Talk](https://www.smbc-comics.com/comic/the-talk-3)
 - [Qiskit Optimization](https://github.com/Qiskit/qiskit-optimization) - Open-source framework that covers the whole range from high-level modeling of optimization problems.
+- [Lectures on quantum optics and quantum computations (in Russian)](https://github.com/ivanmurashko/lectures)

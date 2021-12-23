@@ -201,7 +201,7 @@
 - [fastai: A Layered API for Deep Learning (2020)](https://arxiv.org/abs/2002.04688) ([HN](https://news.ycombinator.com/item?id=22324023))
 - [The Deep Learning Compiler: A Comprehensive Survey (2020)](https://arxiv.org/abs/2002.03794)
 - [Perceptrons explained](https://owenshen24.github.io/perceptron/)
-- [A Simple Framework for Contrastive Learning of Visual Representations (2020)](https://arxiv.org/abs/2002.05709) ([Tweet](https://twitter.com/tingchenai/status/1228337240708874241))
+- [A Simple Framework for Contrastive Learning of Visual Representations (2020)](https://arxiv.org/abs/2002.05709) ([Tweet](https://twitter.com/tingchenai/status/1228337240708874241)) ([Code](https://github.com/leftthomas/SimCLR))
 - [MediaPipe](https://github.com/google/mediapipe) - Cross-platform framework for building multimodal applied machine learning pipelines.
 - [ML courses by Zico Kolter](http://zicokolter.com/courses/)
 - [List of AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency)
@@ -627,3 +627,4 @@
 - [Neural Discrete Representation Learning (2021)](https://arxiv.org/abs/1711.00937) ([Code](https://github.com/MishaLaskin/vqvae))
 - [VSE++: Improving Visual-Semantic Embeddings with Hard Negatives (2018)](https://arxiv.org/abs/1707.05612) ([Code](https://github.com/fartashf/vsepp))
 - [JAX ResNet](https://github.com/n2cholas/jax-resnet) - Implementations and checkpoints for ResNet, Wide ResNet, ResNeXt, ResNet-D, and ResNeSt in JAX (Flax).
+- [Best AI and Deep learning books to read in 2022](https://theaisummer.com/deep-learning-books-2022/)

@@ -144,3 +144,4 @@
 - [PyTorch structural similarity (SSIM) loss](https://github.com/Po-Hsun-Su/pytorch-ssim)
 - [Image Optimizer](https://github.com/antonreshetov/image-optimizer) - Free and open source tool for optimizing images and vector graphics.
 - [Glitch Image Generator](https://glitchyimage.com/) ([Code](https://github.com/adamfuhrer/glitch-image))
+- [Awesome Visible Watermark Removal](https://github.com/bcmi/Awesome-Visible-Watermark-Removal)

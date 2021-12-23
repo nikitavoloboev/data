@@ -132,3 +132,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [UNSWorks](https://www.unsworks.unsw.edu.au/primo-explore/search?vid=UNSWORKS) - UNSW Open Access institutional repository.
 - [Library Genesis](http://libgen.li/) - File-sharing based shadow library website for scholarly journal articles, academic and general-interest books, images, comics, audiobooks, and magazines. ([Awesome](https://github.com/freereadorg/awesome-libgen))
 - [Writing good research code](https://github.com/patrickmineault/research_code)
+- [The Good Research Code Handbook](https://goodresearch.dev/) ([Code](https://github.com/patrickmineault/codebook))

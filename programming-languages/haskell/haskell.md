@@ -360,3 +360,5 @@
 - [Applying Type-Level and Generic Programming in Haskell (2018)](https://github.com/kosmikus/SSGEP)
 - [Embedding effect systems in Haskell (2014)](http://tomasp.net/academic/papers/haskell-effects/)
 - [Policeman](https://github.com/kowainik/policeman) - Haskell PVP adviser.
+- [Parser Combinators in Haskell (2021)](https://serokell.io/blog/parser-combinators-in-haskell) ([HN](https://news.ycombinator.com/item?id=29649071))
+- [Gil Mizrahi's Talks/Slides on Haskell](https://github.com/soupi/rfc)

@@ -41,3 +41,4 @@
 - [Procedurally generating a rounded box mesh (2021)](https://wwwtyro.net/2021/09/24/rounded-box.html) ([HN](https://news.ycombinator.com/item?id=28677064)) ([Code](https://github.com/wwwtyro/rounded-box-figures))
 - [Constraint-Based Tile Generators (2021)](https://www.boristhebrave.com/2021/10/31/constraint-based-tile-generators/)
 - [Procedural Mandala Pattern VEX tutorial (2020)](https://www.youtube.com/watch?v=uA6BDOUzWnM)
+- [procedural-terrain](https://github.com/croquelois/procedural-terrain) - Procedural terrain generation.

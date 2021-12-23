@@ -132,3 +132,4 @@
 - [ClusterDev](https://cluster.dev/) - Cloud Management and Automation Framework. ([Code](https://github.com/shalb/cluster.dev))
 - [Deployment from Scratch](https://deploymentfromscratch.com/) - Complete guide to web application deployment. ([HN](https://news.ycombinator.com/item?id=29540808))
 - [Awesome Event IDs](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
+- [Cloudkeeper](https://github.com/someengineering/cloudkeeper) - “housekeeping for clouds” - find leaky resources, manage quota limits, detect drift and clean up.

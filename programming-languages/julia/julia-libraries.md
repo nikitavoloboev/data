@@ -60,6 +60,7 @@
 - [TuringGLM](https://github.com/TuringLang/TuringGLM.jl) - Makes easy to specify Bayesian Generalized Linear Models using the formula syntax and returns an instantiated Turing model.
 - [Bijectors.jl](https://github.com/TuringLang/Bijectors.jl) - Implementation of normalising flows and constrained random variable transformations.
 - [DistributionsAD.jl](https://github.com/TuringLang/DistributionsAD.jl) - Automatic differentiation of Distributions using Tracker, Zygote, ForwardDiff and ReverseDiff.
+- [Libtask](https://github.com/TuringLang/Libtask.jl) - Tape based task copying in Turing.
 
 ## Math
 
@@ -130,6 +131,7 @@
 - [Kalman](https://github.com/mschauer/Kalman.jl) - Flexible filtering and smoothing in Julia.
 - [CombinatorialSpaces.jl](https://github.com/AlgebraicJulia/CombinatorialSpaces.jl) - Simplicial sets and other combinatorial models of geometric spaces.
 - [PrettyNumbers.jl](https://github.com/ronisbr/PrettyNumbers.jl) - Pretty print numbers in Julia.
+- [ManifoldsBase.jl](https://github.com/JuliaManifolds/ManifoldsBase.jl) - Basic interface for manifolds in Julia.
 
 ## NLP
 

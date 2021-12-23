@@ -313,3 +313,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [How to build large-scale end-to-end encrypted group video calls (2021)](https://signal.org/blog/how-to-build-encrypted-group-calls/) ([HN](https://news.ycombinator.com/item?id=29570938))
 - [Camo](https://reincubate.com/camo/) - Use your phone as a pro webcam.
 - [Video Editing Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process.
+- [ydls](https://github.com/wader/ydls) - youtube-dl HTTP download and transcode service.
