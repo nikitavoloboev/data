@@ -29,6 +29,7 @@
 - [When done right your documentation is also part of your support, marketing, and even sales.](https://twitter.com/ianstormtaylor/status/1376601005597544448)
 - [Documentation and processes are super important -- don't go for too long without documenting everything -- even at the expense of it being half-baked, and this should be the task of many people are your company. It will save everyone time in the long run.](https://twitter.com/dunkhippo33/status/1453604800180809741)
 - [Your company has a poor documentation culture. Things are slow because people don’t know how things works. Managers start micromanaging because work is slow. Leadership issues mandates. No one likes mandates, but that isn’t the problem. It was poor communication the whole time.](https://twitter.com/bryanl/status/1458160056680189958)
+- [Building something isn't very useful if you don't take the time to explain it to people.](https://twitter.com/armaniferrante/status/1473699131243773967)
 
 ## Links
 

@@ -157,3 +157,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [SSG](https://ssg.rojser.best/) - Generate GramJS/Telethon string sessions in your browser. ([Code](https://github.com/rojserbest/ssg))
 - [Telegram Protected Content, Delete by Date, Device Management and more (2021)](https://telegram.org/blog/protected-content-delete-by-date-and-more) ([HN](https://news.ycombinator.com/item?id=29482918))
 - [TeleIRC](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
+- [Botmate](https://www.botmate.app/) - Self-hosted open source Telegram bot platform. ([Code](https://github.com/botmate/botmate))

@@ -80,3 +80,4 @@
 - [UI Foundations](https://www.uifoundations.com/) - Learn to Build Beautiful UIs.
 - [Pglet](https://github.com/pglet/pglet) - Build web apps like a front-end pro in the language you already know. No knowledge of HTML, CSS or JavaScript is required.
 - [Build user-adaptive interfaces | Workshop (2021)](https://www.youtube.com/watch?v=865olcAfwFg)
+- [Dan Abramov SLAYS Frontend Interview w/ Ex-Twitch Engineer (2021)](https://www.youtube.com/watch?v=uqII0AOW1NM)

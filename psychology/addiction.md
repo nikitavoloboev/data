@@ -21,3 +21,4 @@
 - [Once an Addict, Always an Addict?](https://www.deprocrastination.co/blog/once-an-addict-always-an-addict) ([HN](https://news.ycombinator.com/item?id=28105110))
 - [Addiction (2021)](https://levlinds.medium.com/addiction-cb7ab4dcdd84)
 - [Internet addiction and the habit of book reading (2021)](https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/) ([HN](https://news.ycombinator.com/item?id=29601573))
+- [James Franco Discusses His Sex Addiction & Sobriety (2021)](https://www.youtube.com/watch?v=NWd2Ox1pC4w) ([Reddit](https://www.reddit.com/r/television/comments/rmaxco/james_franco_addresses_sexual_misconduct/))

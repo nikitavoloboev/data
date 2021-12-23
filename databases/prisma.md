@@ -84,3 +84,4 @@
 - [Improving the Prisma VS Code Extension with WebAssembly (2021)](https://www.prisma.io/blog/vscode-extension-prisma-rust-webassembly)
 - [prisma-fmt-wasm](https://github.com/prisma/prisma-fmt-wasm) - Build logic to package the prisma-fmt engine into a Node package as a WASM module.
 - [GraphQL-Schema-Generator for Prisma](https://github.com/prisma-korea/graphql-schema-generator)
+- [Prisma Data Platform](https://cloud.prisma.io/)

@@ -127,3 +127,4 @@
 - [Fast Test, Slow Test (2012)](https://www.youtube.com/watch?v=RAxiiRPHS9k)
 - [Destroy All Software - Software Testing](https://www.destroyallsoftware.com/screencasts/catalog)
 - [nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node.
+- [split_tests](https://github.com/leonid-shevtsov/split_tests) - Utility to split test files into parallel CI containers.

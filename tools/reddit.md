@@ -4,6 +4,10 @@
 
 - [Music recognition bot for Reddit powered by audd.io](https://github.com/AudDMusic/RedditBot)
 
+## Notes
+
+- [Reddit is a gold mine for validating product ideas. Here's what I do: I take my idea and search Reddit for it. Are you people asking for a solution? Then great! You're on to a real problem.](https://twitter.com/mronge/status/1473790462053945345)
+
 ## Links
 
 - [Libreddit](https://libredd.it/) - Private front-end for Reddit written in Rust. ([Code](https://github.com/spikecodes/libreddit)) ([HN](https://news.ycombinator.com/item?id=28451882))

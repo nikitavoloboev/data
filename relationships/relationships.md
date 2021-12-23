@@ -67,6 +67,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Nobody is the villain in their own story. When you experience a breakup, conflict, fall out etc. the other person may admit they did wrong, they may even apologise but they’ll never see themselves as “the bad guy” so accept how it is and move on, don’t become their villain by pushing the point.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
 - [You can't trust everybody. Just because they seem nice it doesn't mean they are worth trusting.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
 - [Successful marriages can end in divorce. It’s ok to say, “this isn’t working” and part ways in tact. We have to detach from the idea that staying together is the only relationship outcome that matters.](https://twitter.com/ashleysimpo/status/1473474332676562947)
+- Marry early if it makes sense for your partner to gain any Passport benefits (cheaper education, ability to work/live in a country). Marriages also carry some benefits with taxes depending on the country.
 
 ## Links
 

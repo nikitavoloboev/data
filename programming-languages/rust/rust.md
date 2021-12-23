@@ -655,4 +655,4 @@
 - [Contexts and capabilities in Rust (2021)](https://tmandry.gitlab.io/blog/posts/2021-12-21-context-capabilities/)
 - [Using Type-Level Programming in Rust to Make Safer Hardware Abstractions (2019)](https://blog.auxon.io/2019/10/25/type-level-registers/) ([Code](https://github.com/auxoncorp/bounded-registers))
 - [Arc Borrowing Patterns (2021)](https://www.fosskers.ca/en/blog/arc-patterns)
-- [My negative views on Rust (2021)](https://chrisdone.com/posts/rust/)
+- [My negative views on Rust (2021)](https://chrisdone.com/posts/rust/) ([HN](https://news.ycombinator.com/item?id=29659056))

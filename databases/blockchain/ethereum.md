@@ -10,6 +10,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Let's say I own TSLA stock and I want to sell it to you. I can't, without going through a middle-person. I need to send my shares to a brokerage (they take cuts and fees and do insider trading crap that they disguise as legal) then you buy the shares from then. If it's mine, why can't I just transfer the shares straight to you for the listed price (Currently $567.60)? Because there is no platform digital trustless value transfer that will ensure that we both get what we want: Me getting the money, and you getting the shares.](https://news.ycombinator.com/item?id=25264694)
 - [Outside of actual layer2, Aurora is the best and most trustless bridge to Ethereum that I've seen to date.](https://twitter.com/evan_van_ness/status/1429924278632390656)
 - [Rollup is a network, that plugs in to layer 1 and pushes a cryptographic proof of all txs to the main chain every set interval. So one rollup tx contains thousands of txs on the rollup chain, anchoring proof into layer 1. Costs on a rollup are thus much cheaper.](https://www.reddit.com/r/ethereum/comments/qv2k1w/why_build_anything_on_ethereum_network/)
+- [Ethereum ‘world computer’ has roughly 1/5,000 of the compute power of a Raspberry Pi 4.](https://twitter.com/codinghorror/status/1473173555424555009)
 
 ## Links
 

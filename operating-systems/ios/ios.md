@@ -389,3 +389,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [WeTransfer-iOS-CI](https://github.com/WeTransfer/WeTransfer-iOS-CI) - Containing all the shared CI logic for WeTransfer repositories.
 - [SimpleKeychain](https://github.com/auth0/SimpleKeychain) - Keychain helper for iOS to make it very simple to store/obtain values from iOS Keychain.
 - [30 tips to make you a better iOS developer (2021)](https://www.fadel.io/blog/posts/30-tips-to-make-you-a-better-ios-developer/)
+- [Forcing an app out of memory on iOS (2021)](https://www.donnywals.com/forcing-an-app-out-of-memory-on-ios/)

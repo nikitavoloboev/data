@@ -122,3 +122,4 @@
 - [The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy by Stephanie Kelton (2020)](https://www.goodreads.com/en/book/show/45731395)
 - [Worker pay isn’t keeping up with inflation (2021)](https://www.axios.com/wages-inflation-economic-data-c912afdb-b950-4183-8283-50afff593576.html) ([HN](https://news.ycombinator.com/item?id=29588174))
 - [Make Ticker Tape Parades Great Again: A Conversation with Peter Thiel (2021)](https://www.youtube.com/watch?v=GVGLR0K3rX8)
+- [Visualizing the $94 Trillion World Economy in One Chart (2021)](https://www.visualcapitalist.com/visualizing-the-94-trillion-world-economy-in-one-chart/)

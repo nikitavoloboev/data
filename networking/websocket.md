@@ -2,7 +2,7 @@
 
 ## Links
 
-- [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. ([Web](http://websocketd.com/))
+- [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. ([Web](http://websocketd.com/)) ([HN](https://news.ycombinator.com/item?id=29656456))
 - [µWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web I/O for the most demanding of applications.
 - [µSockets](https://github.com/uNetworking/uSockets) - Cross-platform async networking and eventing foundation library written in standard C.
 - [µWebSockets](https://github.com/uNetworking/uWebSockets.js) - JavaScript web server.
@@ -59,3 +59,4 @@
 - [simple-websocket](https://github.com/feross/simple-websocket) - Simple, EventEmitter API for WebSockets.
 - [y-websocket](https://github.com/yjs/y-websocket) - WebSocket Provider for Yjs.
 - [Woe be unto you for using a WebSocket (2021)](http://www.adama-lang.org/blog/woe-of-websocket/) ([HN](https://news.ycombinator.com/item?id=29651447))
+- [Are WebSockets the best way to push messages from the backend to web clients (2021)](https://twitter.com/bernhardsson/status/1473784120136421384)

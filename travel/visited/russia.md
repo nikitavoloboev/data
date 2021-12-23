@@ -386,3 +386,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Population Density Of Russia](https://www.reddit.com/r/MapPorn/comments/rg8hge/population_density_of_russia/)
 - [Масяня – легенда русского интернета / вДудь (2021)](https://www.youtube.com/watch?v=rjjpf3psiSg&t=1s)
 - [Notes on Jasny – Soviet Industrialization (1928-1952)](http://www.federicopereiro.com/notes-jasny-1961/)
+- [«Плиз, начните думать своей головой» (2021)](https://takiedela.ru/2021/12/pliz-nachnite-dumat-svoey-golovoy/) - О жизни в провинции, о том, как снимать ролики без кучи денег и кто виноват в проблемах русского человека.
