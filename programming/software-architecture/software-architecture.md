@@ -187,3 +187,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Widget Driven Development (2021)](https://alexei.me/blog/widget-driven-development/) ([HN](https://news.ycombinator.com/item?id=29551123))
 - [Ask HN: What tech stack would you use to build a new web app today? (2021)](https://news.ycombinator.com/item?id=29626371)
 - [Ask HN: Which tech stack is the most fun? (2021)](https://news.ycombinator.com/item?id=29625165)
+- [Prodspec and Annealing (2021)](https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production)

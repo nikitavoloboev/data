@@ -134,3 +134,4 @@
 - [Managing Effects in Domain Models - The Algebraic Way by Debasish Ghosh (2018)](https://www.youtube.com/watch?v=wmrbVjjBRXM)
 - [MiMa](https://github.com/lightbend/mima) - Tool for catching binary incompatibility in Scala.
 - [Apache Spark Tutorial with Examples](https://sparkbyexamples.com/) - Provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language. ([Code](https://github.com/spark-examples/spark-scala-examples))
+- [Scala and Rust interoperability via JNI (2021)](https://engineering.avast.io/scala-and-rust-interoperability-via-jni/)

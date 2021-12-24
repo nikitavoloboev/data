@@ -247,6 +247,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Curved Arrows](https://github.com/dragonman225/curved-arrows) - Draw S-curved arrows between points or shapes.
 - [ufo](https://github.com/unjs/ufo) - URL utils for humans.
 - [murmurhash-es](https://github.com/unjs/murmurhash-es) - ESM version of murmurhash v2 and v3.
+- [Repeater.js](https://github.com/repeaterjs/repeater) - Missing constructor for creating safe async iterators.
 
 ## Links
 

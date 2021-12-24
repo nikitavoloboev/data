@@ -147,6 +147,8 @@
 - [Retil](https://github.com/jamesknelson/retil) - Superpowers for React Developers.
 - [Byteclaw/hooks](https://github.com/Byteclaw/hooks) - Collection of useful React hooks.
 - [usePromise](https://github.com/vigzmv/react-promise-suspense) - React hook for resolving promises with Suspense support.
+- [web-platform](https://github.com/bem/web-platform) - React SDK for building modern, accessible and cross-platforms interfaces.
+- [repeaterjs/react-hooks](https://github.com/repeaterjs/react-hooks) - React hooks for working with async iterators/generators.
 
 ## Code
 

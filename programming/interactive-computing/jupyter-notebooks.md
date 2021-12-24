@@ -167,3 +167,4 @@
 - [repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images.
 - [jupyverse](https://github.com/jupyter-server/jupyverse) - Jupyter server based on FastAPI.
 - [nbparameterise](https://github.com/takluyver/nbparameterise) - Programmatically replace input values in a notebook before running it.
+- [Poetry Kernel](https://github.com/pathbird/poetry-kernel) - Python Jupyter kernel using Poetry for reproducible notebooks. ([HN](https://news.ycombinator.com/item?id=29667453))

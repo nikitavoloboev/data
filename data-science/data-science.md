@@ -221,3 +221,4 @@
 - [Data Engineering Zoomcamp (2022)](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 - [Julia-Python-R / Plots.jl / Data 101 Cheat Sheets](https://github.com/sswatson/cheatsheets)
 - [If I had to start learning Data Science again, how would I do it? (2020)](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93)
+- [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)

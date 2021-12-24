@@ -21,3 +21,4 @@
 - [Ansible Collection Hardening](https://github.com/dev-sec/ansible-collection-hardening) - Battle tested hardening for Linux, SSH, nginx, MySQL.
 - [Ansible Language Server](https://github.com/ansible/ansible-language-server)
 - [AWX](https://github.com/ansible/awx) - Web-based user interface, REST API, and task engine built on top of Ansible.
+- [Ansible Examples](https://github.com/ansible/ansible-examples)

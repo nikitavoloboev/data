@@ -883,6 +883,7 @@
 - [nhcalc](https://github.com/KhaosT/nhcalc) - Compute NeuralHash for a given image.
 - [LittleBlueTooth](https://github.com/DrAma999/LittleBlueTooth) - Simple library that helps you in connecting with BLE devices.
 - [Raylib for Swift](https://github.com/STREGAsGate/Raylib)
+- [web3.swift](https://github.com/argentlabs/web3.swift) - Ethereum Swift API with support for smart contracts, ENS & ERC20.
 
 ## Other (not lib)
 

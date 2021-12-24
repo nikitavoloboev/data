@@ -122,3 +122,4 @@
 - [go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image.
 - [Spatial Lookup Web Service](https://github.com/pramsey/geos-lookup) - In-memory reverse geocode backed by GEOS.
 - [rgis](https://github.com/frewsxcv/rgis) - Geospatial data viewer written in Rust.
+- [2021 Map technology in review](https://www.placemark.io/post/2021-map-technology-in-review)

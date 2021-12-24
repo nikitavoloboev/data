@@ -3,6 +3,7 @@
 ## Notes
 
 - [I've never met anyone how wants to start his second company in Germany after having started his first one there.](https://twitter.com/thefrankbraun/status/1341199262852538369)
+- [Germany is pretty much the most approachable option for plenty of non-EU skilled workers, especially in IT. If you're European and you're not experienced, UK and especially Switzerland are still more restrictive from what I'm noticing. The only remaining option is Netherlands where for non-EU people opportunities seem to be less numerous and citizenship potential much less likely. Germany is definitely one of the better options even though the tax system is beyond dumb imo (if your net income is 57k you pay the same portion for taxes and social contributions as someone who earns 250k, that is laughably stupid in my view, but it doesn't change the fact that Germany has a lot to offer)](https://www.reddit.com/r/cscareerquestionsEU/comments/rmvie4/i_think_there_should_be_more_focus_on_net_salary/)
 
 ## Links
 

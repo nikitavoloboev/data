@@ -427,3 +427,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Keep a Knowledge Log](https://bruno-oliveira.github.io/techblog/Keep-a-log/) ([HN](https://news.ycombinator.com/item?id=29436562))
 - [Early conceptarium workflows](https://paulbricman.com/reflections/early-conceptarium-workflows)
 - [Mi](https://github.com/elchead/misou) - Personal search engine.
+- [/tap](https://www.tatatap.com/) - Powerful and customizable note-taking system. ([HN](https://news.ycombinator.com/item?id=29663233))

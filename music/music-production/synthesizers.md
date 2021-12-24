@@ -52,3 +52,4 @@
 - [FluidSynth](https://github.com/FluidSynth/fluidsynth) - Cross-platform, real-time software synthesizer based on the Soundfont 2 specification.
 - [Shaden](https://github.com/brettbuddin/shaden) - Modular audio synthesizer.
 - [Implicit neural differentiable FM synthesizer](https://github.com/andreasjansson/fmsynth)
+- [Fragment](https://www.fsynth.com/) - Real-time audiovisual live coding environment. ([Code](https://github.com/grz0zrg/fsynth))

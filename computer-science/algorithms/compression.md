@@ -83,7 +83,7 @@
 - [Hop](https://github.com/Jarred-Sumner/hop) - 25x faster than unzip and 10x faster than tar at reading individual files. ([HN](https://news.ycombinator.com/item?id=29178710))
 - [Buzon](https://github.com/BuzonIO/zipfly) - Writing large ZIP archives without memory inflation. ([HN](https://news.ycombinator.com/item?id=29291381))
 - [The QOI File Format Specification (2021)](https://phoboslab.org/log/2021/12/qoi-specification) ([HN](https://news.ycombinator.com/item?id=29625084))
-- [QOI: Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression) ([Tweet](https://twitter.com/phoboslab/status/1463451635540180992)) ([HN](https://news.ycombinator.com/item?id=29328750)) ([Code](https://github.com/phoboslab/qoi)) ([Lobsters](https://lobste.rs/s/1hafjp/lossless_image_compression_o_n_time))
+- [QOI: Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression) ([Tweet](https://twitter.com/phoboslab/status/1463451635540180992)) ([HN](https://news.ycombinator.com/item?id=29328750)) ([Code](https://github.com/phoboslab/qoi)) ([Lobsters](https://lobste.rs/s/1hafjp/lossless_image_compression_o_n_time)) ([HN](https://news.ycombinator.com/item?id=29661498))
 - [qoiview](https://github.com/floooh/qoiview) - QOI image viewer on top of the Sokol headers.
 - [qoi_rs](https://github.com/whentze/qoi_rs) - Rust port of the Quite Okay Image format.
 - [QOI](https://github.com/steven-joruk/qoi) - Rust implementation of the “Quite OK Image” format for fast, lossless image compression.
