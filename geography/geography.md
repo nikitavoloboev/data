@@ -14,3 +14,4 @@
 - [Geodiode - YouTube](https://www.youtube.com/channel/UC1raaXFgsFBSFR8qNgchF2g/videos) - Exploring our planet's climate zones and biomes with beautiful high quality documentaries.
 - [Maps that can change how you view the world](https://twitter.com/TrungTPhan/status/1466443607083143169)
 - [Actual country sizes vs map sizes](https://twitter.com/human_jaco/status/1466362947253514242)
+- [The world's population. Brighter colors = more people.](https://www.reddit.com/r/dataisbeautiful/comments/rman0v/oc_the_worlds_population_brighter_colors_more/) ([Code](https://github.com/sundellviz/dataviz/tree/main/popglobe))

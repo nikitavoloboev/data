@@ -657,3 +657,4 @@
 - [Arc Borrowing Patterns (2021)](https://www.fosskers.ca/en/blog/arc-patterns)
 - [My negative views on Rust (2021)](https://chrisdone.com/posts/rust/) ([HN](https://news.ycombinator.com/item?id=29659056))
 - [Thoughts on Context and Capabilities in Rust (2021)](https://jam1.re/blog/thoughts-on-contexts-and-capabilities-in-rust) ([Reddit](https://www.reddit.com/r/rust/comments/rm94in/thoughts_on_context_and_capabilities_in_rust/))
+- [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit (2021)](https://www.freecodecamp.org/news/rust-in-replit/)

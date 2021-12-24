@@ -259,3 +259,4 @@
 - [General and Scalable Parallelization for Neural Networks (2021)](https://ai.googleblog.com/2021/12/general-and-scalable-parallelization.html)
 - [8 Types of Activation Functions in Neural Networks (2021)](https://thehackweekly.com/8-most-popular-types-of-activation-functions-in-neural-networks/)
 - [Building a Neural Network in Go (2021)](https://ataylor.io/blog/go-mlp/)
+- [Echo State Networks in Python](https://github.com/cknd/pyESN)

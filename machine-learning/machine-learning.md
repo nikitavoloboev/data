@@ -628,3 +628,4 @@
 - [VSE++: Improving Visual-Semantic Embeddings with Hard Negatives (2018)](https://arxiv.org/abs/1707.05612) ([Code](https://github.com/fartashf/vsepp))
 - [JAX ResNet](https://github.com/n2cholas/jax-resnet) - Implementations and checkpoints for ResNet, Wide ResNet, ResNeXt, ResNet-D, and ResNeSt in JAX (Flax).
 - [Best AI and Deep learning books to read in 2022](https://theaisummer.com/deep-learning-books-2022/)
+- [Machine Learning for Combinatorial Optimization - NeurIPS 2021 Competition](https://www.ecole.ai/2021/ml4co-competition/) ([Code](https://github.com/ds4dm/ml4co-competition))

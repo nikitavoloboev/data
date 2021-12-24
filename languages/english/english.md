@@ -27,3 +27,5 @@ Some interesting words I like:
 - [Typos, tricks and misprints](https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent) ([HN](https://news.ycombinator.com/item?id=28018293))
 - [Politics and the English Language (1946)](https://gutenberg.net.au/ebooks02/0200151h.html) ([HN](https://news.ycombinator.com/item?id=29031529)) ([Other UI](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/?curius=737))
 - [Weird English (2021)](https://www.nationalreview.com/magazine/2021/11/29/weird-english/) ([HN](https://news.ycombinator.com/item?id=29246987))
+- [Moby Thesaurus](https://moby-thesaurus.org/) - Largest English-language thesaurus. ([Code](https://github.com/words/moby))
+- [an-array-of-english-words](https://github.com/words/an-array-of-english-words) - List of ~275,000 English words as JS package.

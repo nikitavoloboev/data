@@ -118,3 +118,4 @@
 - [How we will write colors in CSS in 2022-2023](https://twitter.com/sitnikcode/status/1470753530491424779) ([Russian](https://twitter.com/andrey_sitnik/status/1470662400567304192))
 - [colorgram.py](https://github.com/obskyr/colorgram.py) - Python library that lets you extract colors from images.
 - [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+- [Color-Description](https://words.github.io/color-description/) - Turns a technical color representation into a human readable description. ([Code](https://github.com/words/color-description))

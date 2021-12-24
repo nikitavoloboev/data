@@ -24,3 +24,4 @@
 - [Learn Fastify by building a Recipe App](https://github.com/one-aalam/havyt)
 - [fastify-helmet](https://github.com/fastify/fastify-helmet) - Important security headers for Fastify.
 - [Fastify Adapter Middleware Properties on a Different Context](https://github.com/jmcdo29/context-fastify-middleware)
+- [point-of-view](https://github.com/fastify/point-of-view) - Templates rendering plugin support for Fastify.

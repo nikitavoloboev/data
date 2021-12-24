@@ -108,6 +108,7 @@
 - [Next-Plausible](https://github.com/4lejandrito/next-plausible) - Simple integration for Plausible Analytics.
 - [NextAuth.js Adapters](https://github.com/nextauthjs/adapters) - Next-auth adapters that are maintained by the community to support any database.
 - [next/image loader for imgproxy (S3)](https://github.com/BitPatty/next-image-s3-imgproxy-loader)
+- [next-export-i18n](https://github.com/martinkr/next-export-i18n) - Internationalize (18n) next.js with true support for next export.
 
 ## Notes
 

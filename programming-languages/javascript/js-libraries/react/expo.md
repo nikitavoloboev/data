@@ -26,3 +26,4 @@
 - [Expo Application Services CLI](https://github.com/expo/eas-cli)
 - [Expo Config Plugins](https://github.com/expo/config-plugins) - Collection of custom WIP config plugins for Expo dev clients.
 - [sentry-expo](https://github.com/expo/sentry-expo)
+- [Turbo Expo Starter](https://github.com/ericvicenti/turbo-expo-starter)

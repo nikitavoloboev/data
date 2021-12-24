@@ -605,6 +605,7 @@
 - [Simsity](https://github.com/koaning/simsity) - Super Simple Similarities Service.
 - [Implements](https://github.com/ksindi/implements) - Pythonic interfaces using decorators.
 - [Pipe](https://github.com/JulienPalard/Pipe) - Enabling a sh like infix syntax (using pipes).
+- [stackprinter](https://github.com/cknd/stackprinter) - Debugging-friendly exceptions for Python.
 
 ## Links
 

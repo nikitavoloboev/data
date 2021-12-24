@@ -1,5 +1,9 @@
 # [MongoDB](https://www.mongodb.com/)
 
+## OSS sites
+
+- [Next.js and MongoDB web app](https://github.com/hoangvvo/nextjs-mongodb-app)
+
 ## Links
 
 - [mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) - Spins up a actual/real MongoDB Server programmatically from node for testing or mocking during development.

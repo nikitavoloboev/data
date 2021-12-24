@@ -169,3 +169,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Chess.com vs. Lichess (2021)](https://siddhesh.substack.com/p/chesscom-vs-lichess) ([HN](https://news.ycombinator.com/item?id=29572447))
 - [Интервью с Даниилом Дубовым // Шахматный мир после пандемии (2021)](https://www.youtube.com/watch?v=IWn69iKehO0)
 - [Chesspecker](https://www.chesspecker.com/) - Open-source app to practice chess. ([Code](https://github.com/chesspecker/backend))
+- [Where is each chess piece usually captured? Data from 15000 games](https://www.reddit.com/r/dataisbeautiful/comments/npscky/oc_where_is_each_chess_piece_usually_captured/)
