@@ -274,4 +274,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix-universal-prefetch](https://github.com/samueldr/nix-universal-prefetch) - Uses nix and nixpkgs to actually run the prefetch operation, then read the error message to figure out the desired hash.
 - [Nix Starter Config](https://github.com/Misterio77/nix-starter-config) - Simple config repo to get you started with NixOS + home-manager + flakes.
 - [Compatibility function to allow flakes to be used by non-flake-enabled Nix versions](https://github.com/edolstra/flake-compat)
-- [Tools You Should Know About: nix-shell (2021)](https://cuddly-octo-palm-tree.com/posts/2021-12-19-tyska-nix-shell/)
+- [Tools You Should Know About: nix-shell (2021)](https://cuddly-octo-palm-tree.com/posts/2021-12-19-tyska-nix-shell/) ([Lobsters](https://lobste.rs/s/4khflt/tools_you_should_know_about_nix_shell))

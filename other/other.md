@@ -575,3 +575,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Archive of Our Own](https://archiveofourown.org/) - Fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks, like fanfiction, fanart, fan videos, and podfic.
 - [meguca](https://github.com/bakape/meguca) - Anonymous realtime imageboard focused on high performance, free speech and transparent moderation.
 - [WaveDrom](https://wavedrom.com/) - Digital timing diagram rendering engine. ([Code](https://github.com/wavedrom/wavedrom))
+- [Ask HN: Did you deliberatively develop any new hobby in recent years? (2021)](https://news.ycombinator.com/item?id=29662464)

@@ -100,4 +100,4 @@
 - [Future of Ruby – AST Tooling (2019)](https://dev.to/baweaver/future-of-ruby-ast-tooling-9i1)
 - [Learning Ruby from a JavaScript background](https://github.com/gauthamchandra/learning-ruby-from-js)
 - [Where is Ruby Headed in 2021?](https://bignerdranch.com/blog/where-is-ruby-headed-in-2021/) ([HN](https://news.ycombinator.com/item?id=29272682))
-- [Natalie](https://github.com/seven1m/natalie) - Unique Ruby implementation, compiled to C++. ([Web](https://natalie-lang.org/))
+- [Natalie](https://github.com/seven1m/natalie) - Unique Ruby implementation, compiled to C++. ([Web](https://natalie-lang.org/)) ([HN](https://news.ycombinator.com/item?id=29660883))

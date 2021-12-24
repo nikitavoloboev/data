@@ -164,3 +164,4 @@
 - [Sticky Item](https://github.com/gorhom/react-native-sticky-item) - Interactive sticky item inspired by Facebook Stories.
 - [react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia. ([Docs](https://shopify.github.io/react-native-skia/docs/getting-started/installation))
 - [react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols) - SF Symbols in your iOS app.
+- [Fabric · React Native](https://reactnative.dev/docs/fabric-renderer)

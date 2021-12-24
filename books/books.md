@@ -265,6 +265,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The Ultimate Best Books of 2021 List](https://lithub.com/the-ultimate-best-books-of-2021-list/)
 - [The Best Books of 2021](https://kottke.org/21/12/the-best-books-of-2021)
 - [Books where you it makes you happy & excited when you learn they're a favorite of someone else](https://twitter.com/michael_nielsen/status/1473860703270309892)
+- [Best fiction book you read this year](https://twitrecos.top/tweets/1472652425806942217) ([Tweet](https://twitter.com/blprnt/status/1474140574643109891))
 
 ## Interesting Prose Books
 

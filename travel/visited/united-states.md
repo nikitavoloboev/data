@@ -100,3 +100,4 @@
 - [Why move to Miami (2021)](https://twitter.com/lpolovets/status/1471461238014033922)
 - [The Bay Area has become a large declining tech company (2021)](http://www.yared.com/2021/12/the-entire-bay-area-has-become-large.html) ([HN](https://news.ycombinator.com/item?id=29595614))
 - [Is America Really Running Out of Original Ideas? (2021)](https://www.theatlantic.com/ideas/archive/2021/12/america-really-running-out-original-ideas/621055/) ([Tweet](https://twitter.com/DKThomp/status/1472947306634821648))
+- [America Can't Beat Omicron One Booster at a Time (2021)](https://www.theatlantic.com/health/archive/2021/12/america-omicron-variant-surge-booster/621027/) ([Tweet](https://twitter.com/edyong209/status/1474080740094717964))

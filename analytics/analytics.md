@@ -89,3 +89,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Bast](https://github.com/kooparse/bast) - Web analytics focusing on privacy and simplicity.
 - [Sensor Tower](https://sensortower.com/) - Mobile App Store Marketing Intelligence.
 - [Analytics Next](https://github.com/segmentio/analytics-next) - Latest version of Segment’s JavaScript SDK - enabling you to send your data to any tool.
+- [Ask HN: Best alternatives to Google Analytics in 2021?](https://news.ycombinator.com/item?id=29662859)

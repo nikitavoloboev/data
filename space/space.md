@@ -131,3 +131,4 @@
 - [How massive is the Milky Way? (2021)](https://www.syfy.com/syfy-wire/bad-astronomy-the-milky-way-galaxys-mass-has-been-measured) ([Tweet](https://twitter.com/BadAstronomer/status/1465351133606539270))
 - [The Science of Interstellar by Kip S. Thorne (2014)](https://www.goodreads.com/en/book/show/23261448) ([Review](https://twitter.com/leni_kotik/status/1468102737095241729))
 - [It's Just Astronomical! - YouTube](https://www.youtube.com/c/ItsJustAstronomical/videos)
+- [Why NASA’s James Webb Space Telescope Matters So Much (2021)](https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/)

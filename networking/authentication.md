@@ -183,3 +183,4 @@
 - [Authentik](https://goauthentik.io/) - Open-source Identity Provider focused on flexibility and versatility. ([Code](https://github.com/goauthentik/authentik))
 - [KES](https://github.com/minio/kes) - Stateless and distributed key-management system for high-performance applications.
 - [Awesome Authorization](https://github.com/warrant-dev/awesome-authorization)
+- [Authenticate users with Netlify Identity](https://docs.netlify.com/visitor-access/identity/) - Perfect for gating static content.

@@ -210,3 +210,5 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Optimal Routing for Constant Function Market Makers (2021)](https://stanford.edu/~guillean/papers/cfmm-routing.pdf) ([Code](https://github.com/angeris/cfmm-routing-code))
 - [The Crypto Syllabus](https://the-crypto-syllabus.com/)
 - [Greatest Collection of anything related to finance and crypto](https://github.com/sambacha/compendium)
+- [Questions about crypto, web3, and the surrounding ecosystem (2021)](https://twitter.com/dan_abramov/status/1474050849273958410)
+- [Web3 thoughts/arguments](https://twitter.com/AriDavidPaul/status/1474134130715762688)

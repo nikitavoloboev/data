@@ -50,3 +50,4 @@
 - [AlterClass](https://alterclass.io/) - Platform for making and selling programming courses. ([HN](https://news.ycombinator.com/item?id=29531434))
 - [Awesome Course](https://www.awesomecourse.dev/) - Create awesome courses that let your audience learn by coding. ([Code](https://github.com/enesozturk/awesome-course))
 - [Course Platform](https://github.com/m-abdelwahab/course-platform) - Uses NextJS/Prisma.
+- [How I built the course platform for Rust for JavaScript Developers](https://twitter.com/chatsidhartha/status/1473745114396725248)

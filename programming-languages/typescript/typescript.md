@@ -215,6 +215,7 @@
 - [Magic TypeScript](https://carltheperson.com/images/magic-typescript/magic-typescript.png) - Cheat sheet of TypeScript’s most important/magic features. ([Code](https://github.com/carltheperson/magic-typescript))
 - [TypeScript Functional Architecture](https://github.com/ryannhg/ts-functional-architecture) - TypeScript Functional Architecture, without using classes.
 - [TinyCompTS](https://github.com/AlexW00/TinyCompTS) - Tiny JS/TS compiler written in vanilla TS.
+- [Breaking down TypeScript generic utility type that recursively converted `Date` types into Firestore `Timestamp` types](https://twitter.com/benmvp/status/1473823066333454336)
 
 ## Images
 

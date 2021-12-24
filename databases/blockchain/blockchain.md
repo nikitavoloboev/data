@@ -64,6 +64,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Many people misunderstand NFTs as 'paying for access' because that's the only (direct) relationship money has had with digital media until now. ownership without gated access is a conceptual leap, but it's worth making.](https://twitter.com/jstn/status/1464207143934910468)
 - [Study of 6.1M NFT trades finds a few folks at the center of the market. The top 10% of traders account for 85% of transactions & trade at least once 97% of all assets. 10% of buyer–seller pairs have the same volume as the remaining 90%.](https://twitter.com/emollick/status/1465505077083389960)
 - [Forget web3/blockchain/crypto/defi/buzz word. This is the "Community Computer" revolution. Personal Computers unleashed unimaginable levels of sovereignty & interoperability for people. Community Computers will do same for groups.](https://twitter.com/buchmanster/status/1466092508316905478)
+- [As a user of Web 3.0, all interactions will be carried out pseudonymously, securely and for many services, trustlessly.](https://twitter.com/lightcoin/status/1473419653896716288)
 
 ## Links
 
