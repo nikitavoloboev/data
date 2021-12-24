@@ -500,3 +500,6 @@
 - [MPViT: Multi-Path Vision Transformer for Dense Prediction (2021)](https://arxiv.org/abs/2112.11010) ([Code](https://github.com/youngwanLEE/MPViT))
 - [StyleSwin: Transformer-based GAN for High-resolution Image Generation (2021)](https://arxiv.org/abs/2112.10762) ([Code](https://github.com/microsoft/StyleSwin))
 - [Revisiting Point Cloud Shape Classification with a Simple and Effective Baseline (2021)](https://arxiv.org/abs/2106.05304) ([Code](https://github.com/princeton-vl/SimpleView))
+- [SLIP: Self-supervision meets Language-Image Pre-training (2021)](https://arxiv.org/abs/2112.12750) ([Code](https://github.com/facebookresearch/SLIP))
+- [General Facial Representation Learning in a Visual-Linguistic Manner (2021)](https://arxiv.org/abs/2112.03109) ([Code](https://github.com/microsoft/FaRL))
+- [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/) ([Code](https://github.com/google/hypernerf))

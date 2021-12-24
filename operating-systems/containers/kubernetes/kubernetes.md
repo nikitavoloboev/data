@@ -570,3 +570,5 @@
 - [k8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily.
 - [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes.
 - [Spawner](https://github.com/drifting-in-space/spawner) - Bridge between a web application and Kuberenetes. Allows a web application to create session-lived containers that serve WebSocket or HTTP connections.
+- [kwatch](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
+- [Bare-metal CSI Driver](https://github.com/dell/csi-baremetal) - CSI spec implementation to manage locally attached disks for Kubernetes.

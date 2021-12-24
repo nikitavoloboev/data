@@ -420,3 +420,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [MEV-geth](https://github.com/flashbots/mev-geth) - Go implementation of MEV-Auction for Ethereum.
 - [prettier-config-solidity](https://github.com/sambacha/prettier-config-solidity) - Prettier config optimized to reduce AST churn & conform to solidity spec.
 - [Safari Wallet](https://safariwallet.org/) - Forkable EVM wallet for everyone. ([Web Code](https://github.com/Safari-Wallet/safariwallet.org))
+- [Hardhat ABI Exporter](https://github.com/ItsNickBarry/hardhat-abi-exporter) - Export Solidity contract ABIs on compilation.

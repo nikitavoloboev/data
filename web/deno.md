@@ -159,3 +159,4 @@
 - [socket_fetch](https://github.com/cloudydeno/deno-socket_fetch) - Remake of fetch() using Deno sockets, useful for niche usecases such as UNIX domain sockets.
 - [Build, Deploy and Run a Deno Application](https://fly.io/docs/getting-started/deno/) ([Tweet](https://twitter.com/ebey_jacob/status/1471009211416932353))
 - [deno-canvas](https://github.com/DjDeveloperr/deno-canvas) - Canvas API for Deno, ported from canvaskit-wasm (Skia).
+- [ProgressBar](https://github.com/deno-library/progress) - ProgressBar in terminal for deno.

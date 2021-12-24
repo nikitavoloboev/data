@@ -127,3 +127,4 @@
 - [Ask HN: How much equity should an early employee get? (2021)](https://news.ycombinator.com/item?id=29222783)
 - [Karat](https://karat.com/) - The Interviewing Cloud | Accelerate technical hiring.
 - [Growing a Junior-Heavy Team (2021)](https://twitter.com/GergelyOrosz/status/1459183541682593794) ([Tweet](https://twitter.com/GergelyOrosz/status/1459183541682593794))
+- [Diversity in Hiring](https://github.com/nkammah/diversity-in-hiring) - Resources for diversity in hiring : job boards, organizations, educational resources.

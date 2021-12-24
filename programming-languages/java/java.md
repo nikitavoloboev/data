@@ -99,3 +99,4 @@
 - [Implementing a non-blocking I/O server (2021)](https://tuhuynh.com/posts/implement-nio-server/)
 - [GC Progress from Java 8 to 17 (2021)](https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html) ([HN](https://news.ycombinator.com/item?id=29330109))
 - [GraalVM Demos](https://github.com/graalvm/graalvm-demos)
+- [yvm](https://github.com/kelthuzadx/yvm) - Low performance garbage-collectable JVM.

@@ -167,3 +167,4 @@
 - [JoJoGAN: One Shot Face Stylization](https://github.com/mchong6/JoJoGAN)
 - [VolumeGAN - 3D-aware Image Synthesis via Learning Structural and Textural Representations (2021)](https://genforce.github.io/volumegan/) ([Code](https://github.com/genforce/volumegan))
 - [GenForce: Research Initiative on Generative Modeling](https://genforce.github.io/) ([GitHub](https://github.com/genforce))
+- [Sketch Your Own GAN (2021)](https://peterwang512.github.io/GANSketching/) ([Code](https://github.com/PeterWang512/GANSketching))

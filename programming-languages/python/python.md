@@ -407,3 +407,4 @@ for i, _ in enumerate(nums):
 - [shiv](https://github.com/linkedin/shiv) - Command line utility for building fully self-contained Python zipapps.
 - [Faster CPython Ideas](https://github.com/faster-cpython/ideas)
 - [Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP/) ([Code](https://github.com/AllenDowney/DSIRP))
+- [Guide to Python's magic methods](https://github.com/RafeKettler/magicmethods)

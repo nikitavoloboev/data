@@ -178,6 +178,7 @@
 - [lsm_engine](https://github.com/NavyaZaveri/lsm_engine) - Rust implementation of a key-value store with Log-Structured Merge Trees.
 - [hotpot-db](https://github.com/drbh/hotpot-db) - Easy to use database system. Uses SQLite3.
 - [redis-serde](https://github.com/OneSignal/serde-redis) - Serde support for redis-rs.
+- [redis_serde_json](https://github.com/clia/redis_serde_json) - Derive to store and retrieve JSON values in redis encoded using serde.
 
 ## Video
 
@@ -1369,3 +1370,4 @@
 - [Whack-a-Dep](https://github.com/diem/whackadep) - Managing Rust dependencies via a dashboard.
 - [Universe](https://github.com/rvolosatovs/universe) - Centralized documentation for Rust crates Roma uses.
 - [Linking to a private repo in Cargo.toml](https://gist.github.com/kestein/87d8bb9cef187c0d02d733138a0a4454)
+- [cargo-api](https://github.com/crate-ci/cargo-api) - Interact with the crate's API.

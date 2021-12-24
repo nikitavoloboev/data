@@ -93,3 +93,4 @@
 - [Vue 3 Spring](https://github.com/ismail9k/vue3-spring) - Spring-physics based animation library, and more.
 - [Things you wish Vue docs explained better (2021)](https://twitter.com/youyuxi/status/1466065644487528449)
 - [Create a GraphQL Powered Vue 3 Application (2021)](https://egghead.io/courses/create-a-graphql-powered-vue-3-application-8152749d)
+- [nuxt-delay-hydration](https://github.com/harlan-zw/nuxt-delay-hydration) - Improve your Nuxt.js Google Lighthouse score by delaying hydration.

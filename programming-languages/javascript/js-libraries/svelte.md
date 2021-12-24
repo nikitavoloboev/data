@@ -156,3 +156,5 @@
 - [Code for Svelte official sites](https://github.com/sveltejs/sites)
 - [Renderless Svelte Components](https://github.com/stephane-vanraes/renderless-svelte)
 - [svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Svelte port of Headless UI components. ([Reddit](https://www.reddit.com/r/sveltejs/comments/rn1de7/announcing_complete_svelte_port_of_headless_ui_an/))
+- [Svemix](https://github.com/svemix/svemix) - Full-Stack addition to SvelteKit. Write your server code inside svelte files, handle sessions, forms and SEO easily. ([Docs](https://svemix.com/docs/getting-started/installation))
+- [Svelte Kit Cookie Session](https://github.com/pixelmund/svelte-kit-cookie-session)

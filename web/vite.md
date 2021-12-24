@@ -10,3 +10,4 @@
 - [Storybook builder for Vite](https://github.com/eirslett/storybook-builder-vite)
 - [Vitest](https://github.com/vitest-dev/vitest) - Blazing fast unit test framework powered by Vite. ([Web](https://vitest.dev/))
 - [unplugin-auto-import](https://github.com/antfu/unplugin-auto-import) - Auto import APIs on-demand for Vite, Webpack and Rollup.
+- [haya](https://github.com/egoist/haya) - Dev server and a bundler based on esbuild. Heavily copied from Vite.

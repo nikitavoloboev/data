@@ -133,3 +133,4 @@
 - [Cloud Annotations](https://github.com/cloud-annotations/cloud-annotations) - Fast, easy and collaborative open source image annotation tool for teams and individuals. ([Web](https://cloud.annotations.ai/))
 - [pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) - Clean APIs for data cleaning. Python implementation of R package Janitor.
 - [face2comics datasets](https://github.com/Sxela/face2comics)
+- [arXiv public datasets](https://github.com/mattbierbaum/arxiv-public-datasets)

@@ -711,6 +711,7 @@
 - [createContent](https://github.com/ungap/create-content) - Cross browser utility to create HTML or SVG runtime content.
 - [templite](https://github.com/lukeed/templite) - Lightweight templating in 150 bytes.
 - [ml-matrix](https://github.com/mljs/matrix) - Matrix manipulation and computation library.
+- [env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc.
 
 ## Links
 

@@ -400,6 +400,7 @@
 - [HomotopyContinuation.jl](https://github.com/JuliaHomotopyContinuation/HomotopyContinuation.jl) - Julia package for solving systems of polynomials via homotopy continuation.
 - [GeoStats](https://github.com/JuliaEarth/GeoStats.jl) - Extensible framework for high-performance geostatistics in Julia.
 - [MarkdownLiteral.jl](https://github.com/JuliaPluto/MarkdownLiteral.jl) - Lets you write Markdown inside Pluto notebooks.
+- [InitialValues.jl](https://github.com/JuliaFolds/InitialValues.jl) - Canonical default initial values and identity elements for Julia.
 
 ## Links
 

@@ -255,3 +255,4 @@
 - [What role do Tasks play within Swift’s concurrency system? (2021)](https://swiftbysundell.com/articles/the-role-tasks-play-in-swift-concurrency/)
 - [Abrahams & Elizarov: The design of Swift (2021)](https://www.youtube.com/watch?v=6JYAXADQmNQ) ([Notes](https://mjtsai.com/blog/2021/12/10/abrahams-on-the-design-of-swift/))
 - [SwiftyBeaver](https://swiftybeaver.com/) - App Logging & Analytics Platform for Swift. ([Code](https://github.com/SwiftyBeaver/SwiftyBeaver))
+- [Swift Roadmap for performance predictability: ARC improvements and ownership](https://forums.swift.org/t/a-roadmap-for-improving-swift-performance-predictability-arc-improvements-and-ownership-control/54206)

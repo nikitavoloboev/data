@@ -38,6 +38,7 @@
 - [Manifold](https://github.com/manifold-systems/manifold) - Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. ([Docs](http://manifold.systems/))
 - [JavaCPP](https://github.com/bytedeco/javacpp) - Efficient access to native C++ inside Java.
 - [Amazon Ion Java](https://github.com/amzn/ion-java) - Java streaming parser/serializer for Ion.
+- [Jackson Scala](https://github.com/FasterXML/jackson-module-scala) - JSON processing.
 
 ## Links
 
