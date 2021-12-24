@@ -9,7 +9,7 @@
 - [Stackbit](https://www.stackbit.com/) - Enables teams to edit on-page, share previews and monitor builds without ever leaving their site.
 - [Daptin](https://github.com/daptin/daptin) - GraphQL/JSON-API Headless CMS.
 - [Cosmic JS](https://www.cosmicjs.com/) - Headless CMS and API toolkit to help your team build modern apps faster, together.
-- [Strapi](https://strapi.io/) - Open source Node.js Headless CMS to easily build customisable APIs. ([HN](https://news.ycombinator.com/item?id=23453530)) ([Code](https://github.com/strapi/strapi)) ([Docker Code](https://github.com/strapi/strapi-docker))
+- [Strapi](https://strapi.io/) - Open source Node.js Headless CMS to easily build customisable APIs. ([HN](https://news.ycombinator.com/item?id=23453530)) ([Code](https://github.com/strapi/strapi)) ([Docker Code](https://github.com/strapi/strapi-docker)) ([Add Realtime to Strapi and React](https://xen.codes/add-realtime-to-strapi-and-react))
 - [How to Build a Forum App with NextJs and Strapi CMS](https://strapi.io/blog/how-to-build-a-forum-app-with-next-js-and-strapi-cms)
 - [Recommendations for headless CMS (2020)](https://twitter.com/jorilallo/status/1273374053852753921)
 - [Agility CMS](https://agilitycms.com/) - The Fastest Headless CMS. ([Tweet](https://twitter.com/rauchg/status/1274418537126219776))

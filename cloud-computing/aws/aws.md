@@ -265,3 +265,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [cwl-mount](https://github.com/asimihsan/cwl-mount) - Mount AWS CloudWatch logs as a file system.
 - [Vacuum](https://github.com/kevholditch/vacuum) - Clean up unused AWS resources.
 - [s3-server](https://github.com/datenlord/s3-server) - Generic S3 server implementation.
+- [What should AWS focus on (2021)](https://twitter.com/jeremy_daly/status/1474110290874753030)

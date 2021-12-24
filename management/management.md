@@ -176,3 +176,4 @@
 - [The Martian Design Sprint: starting and running projects faster (2021)](https://evilmartians.com/chronicles/the-martian-design-sprint-starting-and-running-projects-faster)
 - [Best thing you've done to work better with your product manager? (2021)](https://twitter.com/GergelyOrosz/status/1464285290684723206)
 - [How I Own Projects as a Software Engineer (2021)](https://neilkakkar.com/How-I-Own-Projects-as-a-Software-Engineer.html)
+- [Inspection and the limits of trust](https://lethain.com/inspection/)

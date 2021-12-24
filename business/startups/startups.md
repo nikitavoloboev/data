@@ -71,6 +71,7 @@
 - [One excellent use for competitors: send your horrible prospective customers to them. When people ask me again and again (rudely) for a discount, after establishing we are not a good fit, I list out a bunch of Bannerbear competitors and tell them to take a look. Having awful customers is like death by a thousand cuts. Don’t tolerate abusive or passive aggressive BS in your customer support. Life is too short!](https://twitter.com/yongfook/status/1428356724528795657)
 - [Most impactful product advice: use your own product.](https://twitter.com/steren/status/1461573175733481473)
 - [Go slow until you have a great product. Then go fast. The economic efficiency gains from a great product compound everywhere. If you go fast too early, you will fail. Once you have nailed product, go so fast that it scares everyone. If you don’t go fast enough, you will fail.](https://twitter.com/laserlikemike/status/1458796718947024898)
+- [If you don’t have the right founders at the start, you’re dead. If you do and you doubt them when things get hard, you’re dead. Work with founders in which you have absolute faith and then back them no matter what — win or die, together.](https://twitter.com/laserlikemike/status/1474013084574306304)
 
 ## Links
 

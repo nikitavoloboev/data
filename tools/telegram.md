@@ -84,6 +84,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Ultroid](https://github.com/TeamUltroid/Ultroid) - Stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.
 - [LazyBot](https://github.com/XDBots/LazyBot) - Telegram Userbot based on GramJS.
 - [TGVCBot](https://github.com/ArnabXD/TGVCBot) - Telegram VC Music Bot.
+- [snazzybot](https://github.com/xencodes/snazzybot) - Get results across web right on Telegram.
 
 ## Notes
 

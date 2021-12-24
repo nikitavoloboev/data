@@ -155,4 +155,4 @@
 - [The Future of Svelte (Interview with Rich Harris) (2021)](https://www.youtube.com/watch?v=uQntFkK8Z54)
 - [Code for Svelte official sites](https://github.com/sveltejs/sites)
 - [Renderless Svelte Components](https://github.com/stephane-vanraes/renderless-svelte)
-- [svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Svelte port of Headless UI components.
+- [svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Svelte port of Headless UI components. ([Reddit](https://www.reddit.com/r/sveltejs/comments/rn1de7/announcing_complete_svelte_port_of_headless_ui_an/))

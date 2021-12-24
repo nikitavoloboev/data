@@ -1251,6 +1251,7 @@
 - [rcgen](https://github.com/est31/rcgen) - Simple Rust library to generate X.509 certificates.
 - [DateTime](https://github.com/notquiteamonad/date_time) - High-Level Date and Time for Rust.
 - [futures-batch](https://github.com/mre/futures-batch) - Adaptor that chunks up completed futures in a stream and flushes them after a timeout or when the buffer is full.
+- [SeqLock](https://github.com/Amanieu/seqlock) - Reader-writer lock that provides extremely fast read access without starving writers.
 
 ## Cargo Plugins
 

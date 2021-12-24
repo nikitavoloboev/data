@@ -1189,6 +1189,7 @@
 - [openid.go](https://github.com/yohcop/openid-go) - OpenID consumer implementation in Go.
 - [go-graph-layout](https://github.com/nikolaydubina/go-graph-layout) - Graph Layout Algorithms in Go.
 - [xz](https://github.com/ulikunitz/xz) - Pure Go package for reading and writing xz-compressed files.
+- [i18n](https://github.com/go-i18n/i18n) - Internationalization and localization for your Go applications.
 
 ## Links
 

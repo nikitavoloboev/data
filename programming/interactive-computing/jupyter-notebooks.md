@@ -166,3 +166,4 @@
 - [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications.
 - [repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images.
 - [jupyverse](https://github.com/jupyter-server/jupyverse) - Jupyter server based on FastAPI.
+- [nbparameterise](https://github.com/takluyver/nbparameterise) - Programmatically replace input values in a notebook before running it.

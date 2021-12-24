@@ -168,3 +168,4 @@
 - [knary](https://github.com/sudosammy/knary) - Simple HTTP(S) and DNS Canary bot with Slack/Discord/MS Teams/Lark & Pushover support.
 - [dns-packet](https://github.com/mafintosh/dns-packet) - Abstract-encoding compliant module for encoding / decoding DNS packets.
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) - OCaml implementation of the DNS protocol.
+- [Cloudflare Dynamic DNS](https://github.com/hugomd/cloudflare-ddns) - Updates a given a DNS record with your current IP.

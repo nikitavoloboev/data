@@ -91,6 +91,7 @@
 - [Visualizer for common algorithm patterns](https://visualizer-sepia.vercel.app/patterns/sliding-window/find-all-averages) ([Code](https://github.com/narendrasss/visualizer))
 - [A Neat Approximation Algorithm (2021)](https://mht.wtf/post/min-deg-st/)
 - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/) ([HN](https://news.ycombinator.com/item?id=29473271))
+- [Implementing Marching Squares (2020)](http://jacobzelko.com/marching-squares/)
 
 ## Images
 

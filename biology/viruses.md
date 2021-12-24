@@ -97,3 +97,4 @@
 - [pangolin](https://github.com/cov-lineages/pangolin) - Software package for assigning SARS-CoV-2 genome sequences to global lineages.
 - [How PCR (Polymerase Chain Reaction) Test works (2021)](https://www.reddit.com/r/worldnews/comments/r3e6el/comment/hmavmn0/?utm_source=reddit&utm_medium=web2x&context=3)
 - [Your Local Epidemiologist - by Katelyn Jetelina](https://yourlocalepidemiologist.substack.com/)
+- [Omicron Is Our Past Pandemic Mistakes on Fast-Forward (2021)](https://www.theatlantic.com/health/archive/2021/12/omicron-mistakes/621112/) ([Tweet](https://twitter.com/edyong209/status/1474058652738854918))
