@@ -13,6 +13,7 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Rapamycin meaningfully makes every organism we’ve tested live longer. Yeast cells, mice, apes and almost certainly humans.](https://twitter.com/justindross/status/1416777191820517384)
 - [Don't worry about life' uncertainties. It will all be good.](https://twitter.com/SkarSkarSkar/status/1441394710510141448)
 - [At 40, I've done some of the best work I've ever done and my pay has been better than ever. I'm 52 now and the trend has only gotten better. Why? Its because at 40, I had a much deeper understanding of the tech, I understood of the whole business process and I had the maturity to deal with people in a productive way. You won't find all of those in a 25 year old developer. The only way that age becomes a detriment is if you do not grow. I worked with someone my age who only strong skills are a large enterprise storage system. He is a dinosaur and his future is limited. That's not his age, its the way he chose to build is CV. Age is just number guys. Stay current, keep learning and stay strong.](https://news.ycombinator.com/item?id=28757964)
+- [One challenge of people living longer: they cling to power longer, remaining in control of the most important institutions far past peak competency.](https://twitter.com/benhamner/status/1474456394426241029)
 
 ## Links
 

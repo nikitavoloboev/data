@@ -2,6 +2,7 @@
 
 ## Torrent sites
 
+- [The Pirate Bay](https://www.tpbproxypirate.com/)
 - [RuTracker](https://rutracker.org/forum/index.php)
 - [Torrent Paradise](https://torrent-paradise.ml/) - Decentralized DHT search site for IPFS. ([Code](https://github.com/urbanguacamole/torrent-paradise)) ([TUI Client](https://github.com/varbhat/torpar))
 - [What is the hottest general torrent site right now? (2018)](https://www.reddit.com/r/Piracy/comments/9vy0oe/what_is_the_hottest_general_torrent_site_right_now/)

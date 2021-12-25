@@ -40,3 +40,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [True crime series](https://twitter.com/dussstyboy/status/1461857598312009729)
 - [What are some old British TV shows (pre-2000) that still hold up really well?](https://www.reddit.com/r/AskUK/comments/rbo1ia/what_are_some_old_british_tv_shows_pre2000_that/)
 - [What's a canceled series which you wish wasn't canceled? (2021)](https://www.reddit.com/r/AskWomen/comments/rh6a8v/whats_a_canceled_series_which_you_wish_wasnt/)
+- [Series recs in Russian](https://twitter.com/chigi_varo/status/1474442974696472577)

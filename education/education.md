@@ -99,3 +99,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Pupilfirst](https://www.pupilfirst.com/) - Online Teaching Platform & LMS. ([Code](https://github.com/pupilfirst/pupilfirst))
 - [Udemus](https://udemus.com/) - Learning community.
 - [HN: California moves to recommend delaying algebra to 9th grade statewide (2021)](https://news.ycombinator.com/item?id=29324551)
+- [Courses that should be mandated in school](https://twitter.com/calvin_rosser/status/1474447730680512512)
