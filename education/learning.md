@@ -1,6 +1,6 @@
 # Learning
 
-I love [Learney's approach to learning (show clear dependencies / track topics to learn / show best resources)](https://twitter.com/nikitavoloboev/status/1462921646575173633).
+I love [Learney's approach to learning (show clear dependencies / track topics to learn / show best resources)](https://twitter.com/nikitavoloboev/status/1462921646575173633). [Feynman Technique](https://twitter.com/SahilBloom/status/1475096936395026434) is nice too.
 
 ## Notes
 
@@ -182,3 +182,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: Top Skills to Learn for 2022?](https://news.ycombinator.com/item?id=29627124)
 - [Best textbooks (or comprehensive primers) which are freely available online (2021)](https://twitter.com/andy_matuschak/status/1473450143387062274?s=28)
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
+- [Feynman Technique explained](https://twitter.com/SahilBloom/status/1475096936395026434)

@@ -279,6 +279,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Some day you will be old enough to start reading fairy tales again.](https://www.reddit.com/r/RationalPsychonaut/comments/n2p74z/i_wish_great_geniuses_physicists_scientists_etc/)
 - [Read what you love until you love to read.](https://twitter.com/id_aa_carmack/status/1445424833181925376)
 - [I used to read a lot of old books growing up, and they were all different. And... being extremely online and reading contemporary things all day does have a sort of tunnel-vision effect. The way we live, the way we think, the way we talk. Go read a really old book from a different time, from a different place.](https://twitter.com/visakanv/status/1450889450532134917)
+- [Sometimes you have to read a book at the exact right time in your life for it to really click](https://twitter.com/noampomsky/status/1474948896803545091)
 
 ## Links
 

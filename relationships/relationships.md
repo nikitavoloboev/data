@@ -68,6 +68,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [You can't trust everybody. Just because they seem nice it doesn't mean they are worth trusting.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
 - [Successful marriages can end in divorce. It’s ok to say, “this isn’t working” and part ways in tact. We have to detach from the idea that staying together is the only relationship outcome that matters.](https://twitter.com/ashleysimpo/status/1473474332676562947)
 - Marry early if it makes sense for your partner to gain any Passport benefits (cheaper education, ability to work/live in a country). Marriages also carry some benefits with taxes depending on the country.
+- [Always date your spouse.](https://twitter.com/TrungTPhan/status/1475148478288302084)
 
 ## Links
 
