@@ -37,3 +37,5 @@
 - [Zen of Nim (2021)](https://nim-lang.org/blog/2021/11/15/zen-of-nim.html)
 - [Building a simple room-based chat application in Nim (using HTMX) (2021)](https://arhamjain.com/2021/11/22/nim-simple-chat.html) ([HN](https://news.ycombinator.com/item?id=29594763))
 - [Nim 1.6.2 (2021)](https://nim-lang.org/blog/2021/12/17/version-162-released.html) ([HN](https://news.ycombinator.com/item?id=29589436))
+- [Nim in Action Book](https://livebook.manning.com/book/nim-in-action/about-this-book/)
+- [Learn Nim in Y minutes](https://learnxinyminutes.com/docs/nim/)

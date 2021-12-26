@@ -3,6 +3,7 @@
 ## Notes
 
 - Lots of matrices don't have an inverse.
+- [It is useful to simply think of matrices as systems of linear equations.](https://www.reddit.com/r/mathmemes/comments/rosrel/linear_algebra_in_a_nutshell/)
 
 ## Links
 

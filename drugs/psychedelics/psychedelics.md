@@ -139,3 +139,4 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [Psychedelics alter metaphysical beliefs (2021)](https://www.nature.com/articles/s41598-021-01209-2) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/r0d1b4/psychedelics_alter_metaphysical_beliefs_nature/)) ([HN](https://news.ycombinator.com/item?id=29480602))
 - [The Microdose](https://themicrodose.substack.com/) - Newsletter from the U.C. Berkeley Center for the Science of Psychedelics.
 - [Andrés Gómez Emilsson from Qualia Research Institute Interview (2021)](https://www.youtube.com/watch?v=KxVtiZvBCz0)
+- [Shrooms: What You Need to Know](https://tripsafe.org/shrooms/) ([HN](https://news.ycombinator.com/item?id=29682900))
