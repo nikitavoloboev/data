@@ -24,3 +24,4 @@
 - [How to Build a Low-Tech Solar Panel? (2021)](https://solar.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html) ([HN](https://news.ycombinator.com/item?id=28770953))
 - [The booming business of knitting together the world’s electricity grids (2021)](https://www.economist.com/business/2021/10/16/the-booming-business-of-knitting-together-the-worlds-electricity-grids) ([HN](https://news.ycombinator.com/item?id=28896527))
 - [How much load can be served from 1m² of sunlight (2021)](https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-from-one-square-meter-of-sunlight-675db9d0c819) ([HN](https://news.ycombinator.com/item?id=29077825))
+- [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/) ([HN](https://news.ycombinator.com/item?id=29688907))

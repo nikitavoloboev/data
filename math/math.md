@@ -58,7 +58,7 @@
 - [MSC2010](https://mathscinet.ams.org/msc/pdfs/classifications2010.pdf) - Huge catalog of math topics.
 - [Cambridge math notes](https://dec41.user.srcf.net/notes/)
 - [Mathematics as thought](https://aeon.co/essays/the-secret-intellectual-history-of-mathematics)
-- [Penrose](https://github.com/penrose/penrose) - Language-based platform for creating beautiful mathematical diagrams. ([HN](https://news.ycombinator.com/item?id=23387687)) ([Web](http://penrose.ink/siggraph20)) ([HN 2](https://news.ycombinator.com/item?id=23430282)) ([Lobsters](https://lobste.rs/s/e1m7rn/penrose_from_mathematical_notation))
+- [Penrose](https://github.com/penrose/penrose) - Language-based platform for creating beautiful mathematical diagrams. ([HN](https://news.ycombinator.com/item?id=23387687)) ([Web](http://penrose.ink/siggraph20)) ([HN 2](https://news.ycombinator.com/item?id=23430282)) ([Lobsters](https://lobste.rs/s/e1m7rn/penrose_from_mathematical_notation)) ([Paper](https://penrose.ink/siggraph20.html)) ([HN](https://news.ycombinator.com/item?id=29674986))
 - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
 - [A Programmer's Introduction to Mathematics book](https://pimbook.org/) ([Article](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/)) ([HN](https://news.ycombinator.com/item?id=28197103))
 - [How to learn Math and Physics (2018)](http://math.ucr.edu/home/baez/books.html)

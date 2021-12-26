@@ -590,6 +590,7 @@
     - [Portugal](travel/visited/portugal.md)
     - [Kazakhstan](travel/visited/kazakhstan.md)
     - [Argentina](travel/visited/argentina.md)
+    - [Turkey](travel/visited/turkey.md)
     - [Spain](travel/visited/spain.md)
     - [Europe](travel/visited/europe.md)
   - [Cities](travel/cities.md)

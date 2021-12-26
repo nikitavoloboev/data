@@ -46,3 +46,4 @@
 ## Links
 
 - [Overkill Objects for Everyday Life (2021)](https://neil.computer/notes/overkill-objects-for-everyday-life/) ([HN](https://news.ycombinator.com/item?id=27334223))
+- [Ask HN: Where are you getting your money's worth? (2021)](https://news.ycombinator.com/item?id=29675397)

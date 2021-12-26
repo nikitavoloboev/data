@@ -44,3 +44,5 @@
 - [Next Cypress Dashboard](https://next-cypress-dashboard.vercel.app/home) - Open source alternative for the Cypress Dashboard. ([Code](https://github.com/umidbekk/next-cypress-dashboard))
 - [Using Cypress to test everything](https://github.com/riccardogiorato/cypress-for-everything)
 - [cypress-data-session](htmntps://github.com/bahmutov/ocypress-data-session) - Cypress command for flexible test data setup.
+- [My favorite Cypress plugins (2021)](https://cypresstips.substack.com/p/my-favorite-cypress-plugins-part)
+- [Cypress Tips Advent Calendar 2021](https://cypresstips.substack.com/p/my-favorite-cypress-plugins-part)

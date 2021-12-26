@@ -285,3 +285,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Nice esoteric compilers (2021)](https://twitter.com/phil_eaton/status/1472389751223246854)
 - [A Brief Introduction to Esoteric Languages (2021)](https://hillelwayne.com/talks/esolangs/) ([Video](https://www.youtube.com/watch?v=cQ7bcCrJMHc))
 - [Awesome Alt Languages](https://github.com/ostera/awesome-alt-langs)
+- [Go Static or Go Home (2015)](https://queue.acm.org/detail.cfm?id=2721993) - In the end, dynamic systems are simply less secure.

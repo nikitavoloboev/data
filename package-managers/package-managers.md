@@ -41,6 +41,6 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [PackagingCon](https://packaging-con.org/) - Conference for package manager developers and packagers. ([Twitter](https://twitter.com/packagingcon)) ([2021 Schedule](https://pretalx.com/packagingcon-2021/schedule/#)) ([2021 Videos](https://www.youtube.com/playlist?list=PLl386dCR5QGQu7XhFaVTwEGoD7fLtnGQ7))
 - [Denxi](https://github.com/zyrolasting/denxi) - Programming model for distributing data. It reduces the cost of producing package managers, storefronts, operating systems, and CI/CD systems.
 - [Google: Distributing Software in a Massively Parallel Environment (2014)](https://www.usenix.org/sites/default/files/conference/protected-files/lisa_2014_talk.pdf)
-- [Hermit](https://cashapp.github.io/hermit/) - Manages isolated, self-bootstrapping sets of tools in software projects. ([Code](https://github.com/cashapp/hermit)) ([Lobsters](https://lobste.rs/s/leqj8z/hermit_manages_isolated_self))
+- [Hermit](https://cashapp.github.io/hermit/) - Manages isolated, self-bootstrapping sets of tools in software projects. ([Code](https://github.com/cashapp/hermit)) ([Lobsters](https://lobste.rs/s/leqj8z/hermit_manages_isolated_self)) ([Docs](https://cashapp.github.io/hermit/usage/get-started/))
 - [Scarf CLI](https://github.com/scarf-sh/scarf) - Environment manager and development tool powered by Nomia.
 - [Aura](https://github.com/fosskers/aura) - Secure, multilingual package manager for Arch Linux and the AUR.

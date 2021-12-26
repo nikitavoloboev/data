@@ -408,3 +408,4 @@ for i, _ in enumerate(nums):
 - [Faster CPython Ideas](https://github.com/faster-cpython/ideas)
 - [Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP/) ([Code](https://github.com/AllenDowney/DSIRP))
 - [Guide to Python's magic methods](https://github.com/RafeKettler/magicmethods)
+- [Comprehensive Python Cheat Sheet](https://gto76.github.io/python-cheatsheet/) ([HN](https://news.ycombinator.com/item?id=29679788))

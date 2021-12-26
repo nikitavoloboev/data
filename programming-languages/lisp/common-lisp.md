@@ -79,3 +79,4 @@
 - [One Reason Typeclasses Are Useful (2021)](https://coalton-lang.github.io/20211212-typeclasses/) ([HN](https://news.ycombinator.com/item?id=29532917))
 - [CEPL](https://github.com/cbaggers/cepl) - Lispy and REPL-friendly Common Lisp library for working with OpenGL. ([HN](https://news.ycombinator.com/item?id=29535450))
 - [Wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server written in common lisp.
+- [Learn Common Lisp by Example: Qt GUI with EQL5 (2021)](https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5)

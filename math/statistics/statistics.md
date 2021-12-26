@@ -139,3 +139,4 @@
 - [What's the difference between stochastic and random?](https://math.stackexchange.com/questions/114373/whats-the-difference-between-stochastic-and-random/1616687)
 - [Twelve problems in probability no one likes to bring up](https://link.springer.com/chapter/10.1007/978-88-470-2107-5_5)
 - [An Introduction to Probability Theory and Its Applications, Volume 1 by William Feller (1991)](https://www.goodreads.com/book/show/2378167.An_Introduction_to_Probability_Theory_and_Its_Applications_Volume_1)
+- [A New Coefficient of Correlation (2019)](https://arxiv.org/abs/1909.10140) ([HN](https://news.ycombinator.com/item?id=29687613))

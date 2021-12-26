@@ -22,6 +22,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Синнабоны](https://twitter.com/Khlystova_AP/status/1188421276416786432)
 - [Perfect Risotto](https://tasty.co/recipe/mushroom-risotto)
 - [Bagels](https://github.com/andrewkern/bagels)
+- [Jollof Rice Recipe](https://cooking.nytimes.com/recipes/1018069-jollof-rice)
 
 ## Links
 
@@ -77,3 +78,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Rapid Recipe](https://rapidrecipe.reichel.dev/) - Reader mode for recipes. ([HN](https://news.ycombinator.com/item?id=29379415))
 - [100 No-Cook Meal Items For When You Refuse to Adult](https://blackgirllostkeys.com/adhd/100-no-cook-meal-items/)
 - [One Pot Pony](https://onepotpony.com/) - Lazy person's guide to delicious meal prep.
+- [NYT Cooking Recipes](https://cooking.nytimes.com/)

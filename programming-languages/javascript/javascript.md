@@ -137,7 +137,7 @@ if (
 - [Chevrotain](https://github.com/SAP/chevrotain) - Parser Building Toolkit for JavaScript.
 - [Comprehensive list of new ES features](https://github.com/daumann/ECMAScript-new-features-list)
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
-- [JavaScript for Impatient Programmers book](https://exploringjs.com/impatient-js/toc.html) ([HN](https://news.ycombinator.com/item?id=23689280))
+- [JavaScript for Impatient Programmers book](https://exploringjs.com/impatient-js/toc.html) ([HN](https://news.ycombinator.com/item?id=23689280)) ([HN](https://news.ycombinator.com/item?id=29673206))
 - [Exploring ES2018 and ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 - [Ecma TC39 GitHub](https://github.com/tc39)
 - [TC39 Meeting Notes](https://tc39.es/tc39-notes/)

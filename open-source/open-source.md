@@ -213,3 +213,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [“Open source” is broken (2021)](https://christine.website/blog/open-source-broken-2021-12-11) ([HN](https://news.ycombinator.com/item?id=29522941)) ([Lobsters](https://lobste.rs/s/w3uhz1/open_source_is_broken))
 - [“Open source” is not broken (2021)](https://nadh.in/blog/open-source-is-not-broken/) ([HN](https://news.ycombinator.com/item?id=29530004))
 - [yogslaw](https://github.com/jamesmunns/yogslaw) - Idea regarding non-commercial open source licensing.
+- [The Asymmetry of Open Source (2021)](https://matt.life/writing/the-asymmetry-of-open-source) ([Tweet](https://twitter.com/mholt6/status/1473778133388062720))

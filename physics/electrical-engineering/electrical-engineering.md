@@ -83,3 +83,4 @@
 - [The Art of Electronics Book (1980)](https://artofelectronics.net/) - Textbook dealing with analog and digital electronics.
 - [Electrical Engineering Book Suggestions (2021)](https://www.reddit.com/r/ElectricalEngineering/comments/rknz49/looking_for_some_advice_book_suggestions/)
 - [Teach Yourself Electricity and Electronics by Stan Gibilisco](https://www.goodreads.com/book/show/687620.Teach_Yourself_Electricity_and_Electronics)
+- [Pinouts Book](https://pinouts.org/) - Free digital book created for designers and engineers as a quick reference for remembering the different pinout functions in your electronics projects. ([Article](https://n-o-d-e.net/pinouts.html)) ([Lobsters](https://lobste.rs/s/db5t25/pinouts_book)) ([HN](https://news.ycombinator.com/item?id=29681373))

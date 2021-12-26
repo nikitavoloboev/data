@@ -100,5 +100,5 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Future of travel (2021)](https://twitter.com/bchesky/status/1457904388366692354)
 - [Location History Visualizer](https://locationhistoryvisualizer.com/heatmap/) - Tool for visualizing your complete, consolidated, collected Google Location History. ([Code](https://github.com/theopolisme/location-history-visualizer))
 - [Longest possible train journey in the world](https://twitter.com/Locati0ns/status/1470041690492657673)
-- [The longest train journey – in 2021](https://jonworth.eu/the-longest-train-journey-in-the-world/) ([HN](https://news.ycombinator.com/item?id=29570640))
+- [The longest train journey – in 2021](https://jonworth.eu/the-longest-train-journey-in-the-world/) ([HN](https://news.ycombinator.com/item?id=29570640)) ([HN](https://news.ycombinator.com/item?id=29682578))
 - [Страны мира где-то почти как свой](https://twitter.com/mighty_shield/status/1283386813223182336)
