@@ -1,5 +1,7 @@
 # United States
 
+Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/status/1475164511766294529).
+
 ## Notes
 
 - [Most cost-effective way (aka costs nothing) to get to work in the US is to get hired by a multinational Corp and after 1 year get an L visa and move to the US.](https://twitter.com/copyconstruct/status/1280953429527900160)

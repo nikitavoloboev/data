@@ -4,6 +4,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 
 ## Interesting CVs
 
+- [Titus Wormer](https://wooorm.com/resume.html)
 - [Joshua Cockrell](http://joshcockrell.com/joshua_cockrell_resume.pdf) - Minimal and to the point.
 - [David R. MacIver](https://www.drmaciver.com/cv/)
 - [Safia Abdalla](https://cloudup.com/cqozUYp889k)

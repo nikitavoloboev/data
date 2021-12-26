@@ -85,3 +85,4 @@
 - [Hybrid Ray Tracer in Go](https://github.com/KevinTchokodeu/Hybrid-Ray-Tracer)
 - [Hybrid Rendering](https://github.com/diharaw/HybridRendering) - Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline.
 - [Ray Tracing with POV-Ray: 25 scenes in 25 days (2013)](https://github.com/spcask/pov-ray-tracing) ([HN](https://news.ycombinator.com/item?id=29513332))
+- [Raytracing diamonds (2021)](https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html)
