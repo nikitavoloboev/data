@@ -576,3 +576,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [meguca](https://github.com/bakape/meguca) - Anonymous realtime imageboard focused on high performance, free speech and transparent moderation.
 - [WaveDrom](https://wavedrom.com/) - Digital timing diagram rendering engine. ([Code](https://github.com/wavedrom/wavedrom))
 - [Ask HN: Did you deliberatively develop any new hobby in recent years? (2021)](https://news.ycombinator.com/item?id=29662464)
+- [Ask HN: Show your failed projects and share a lesson you learned (2021)](https://news.ycombinator.com/item?id=29673707)
