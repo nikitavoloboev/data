@@ -248,7 +248,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ufo](https://github.com/unjs/ufo) - URL utils for humans.
 - [murmurhash-es](https://github.com/unjs/murmurhash-es) - ESM version of murmurhash v2 and v3.
 - [Repeater.js](https://github.com/repeaterjs/repeater) - Missing constructor for creating safe async iterators.
-- [pattern-select](https://github.com/fatih-erikli/pattern-select) - Simple pattern matching in Typescript.
+- [pattern-select](https://github.com/fatih-erikli/pattern-select) - Simple pattern matching in Typescript. ([Article](https://fatih-erikli.com/pattern-matching-in-typescript.html))
 
 ## Links
 
