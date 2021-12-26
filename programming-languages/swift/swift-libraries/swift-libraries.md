@@ -214,6 +214,7 @@
 - [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - Splash view that animates and reveals its content, inspired by the Twitter splash.
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy.
 - [TactileSlider](https://github.com/daprice/iOS-Tactile-Slider) - UIControl slider that can be dragged from any point within its bounds, similar to those in Control Center and Home.app.
+- [SupportDocs](https://github.com/aheze/SupportDocs) - Generate help centers for your iOS apps. Hosted by GitHub and always up-to-date.
 
 ## macOS
 

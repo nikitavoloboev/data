@@ -138,7 +138,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Best Paper Awards at EMNLP 2021](https://2021.emnlp.org/blog/2021-10-29-best-paper-awards)
 - [Doctor](https://github.com/kmaasrud/doctor) - Document builder and command line tool that uses Pandoc coupled with a TeX engine to produce high-quality documents. ([Docs](https://kmaasrud.com/doctor/))
 - [How to read more research papers? (2021)](https://www.reddit.com/r/learnmachinelearning/comments/o7l9sv/how_to_read_more_research_papers/) ([Tweet](https://twitter.com/anvaka/status/1457435710999257090))
-- [2021 AI Papers List](https://github.com/louisfb01/best_AI_papers_2021)
+- [2021 AI Papers List](https://github.com/louisfb01/best_AI_papers_2021) ([Article](https://www.louisbouchard.ai/2021-ai-papers-review/)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/rovtz1/research_looking_for_interesting_ml_papers_to/))
 - [Quarto](https://quarto.org/) - Open-source scientific and technical publishing system built on Pandoc. ([Code](https://github.com/quarto-dev/quarto-cli))
 - [Papers List Generation](https://papers-ai.vercel.app/) ([Code](https://github.com/flavioschneider/papers-ai))
 - [arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - Lighter-weight arxiv-sanity re-write. ([Tweet](https://twitter.com/karpathy/status/1466094087296012289))
