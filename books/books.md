@@ -267,6 +267,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Books where you it makes you happy & excited when you learn they're a favorite of someone else](https://twitter.com/michael_nielsen/status/1473860703270309892)
 - [Best fiction book you read this year](https://twitrecos.top/tweets/1472652425806942217) ([Tweet](https://twitter.com/blprnt/status/1474140574643109891))
 - [Ask HN: What's the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
+- [Best comedies you read (2021)](https://www.reddit.com/r/suggestmeabook/comments/rprsrm/best_comedy_youve_read/)
 
 ## Interesting Prose Books
 

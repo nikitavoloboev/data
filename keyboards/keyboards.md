@@ -145,3 +145,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Ortholinear flat keyboards](https://twitter.com/rsms/status/1467190230625112067)
 - [Column Modules for Mechanical Keyboards - The next step for Configure-It-Yourself keyboards](https://docs.google.com/document/d/1fDaOXY7aCQk27tScDtyaNoOnOY7dxstABmi-QJg1R6s/edit#heading=h.lon4zb91hlu)
 - [Tisha Talks Switches](https://www.zsa.io/tisha-talks-switches/)
+- [How do you use layers on your keyboard? (2021)](https://lobste.rs/s/2ps6iq/how_do_you_use_layers_on_your_keyboard)
