@@ -25,3 +25,5 @@
 - [With a nudge from AI, ketamine emerges as a potential rare disease treatment (2021)](https://www.statnews.com/2021/08/05/artificial-intelligence-rare-disease-andp-medikanren/) ([HN](https://news.ycombinator.com/item?id=28099548))
 - [Experience with using Ketamine to treat depression](https://twitter.com/BlackForestBoi/status/1471431629096824833)
 - [K research chemical alternatives](https://www.reddit.com/r/ketamine/comments/rlijuy/k_research_chemical_alternative/)
+- [How to properly snort Ketamine](https://www.reddit.com/r/Drugs/comments/60ixfc/ket_snorting_tips/)
+- [How to boost K high](https://www.reddit.com/r/ketamine/comments/rp5z2e/tips_on_how_to_boost_your_ketamine_high/)

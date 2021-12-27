@@ -134,3 +134,4 @@
 - [Understanding Assembly Part I: RISC-V (2021)](https://mcyoung.xyz/2021/11/29/assembly-1/)
 - [RISC-V Summit 2021 - YouTube](https://www.youtube.com/playlist?list=PL85jopFZCnbPGAhsdS16Nn4CdX6o1LeZe)
 - [ChristmasSoc](https://github.com/Wren6991/ChristmasSoC) - Dual-core RISC-V SoC with JTAG, atomics, SDRAM.
+- [Beyond RISC – The Post-RISC Architecture (1996)](https://cse.msu.edu/~enbody/postrisc/postrisc2.htm) ([HN](https://news.ycombinator.com/item?id=29659456))

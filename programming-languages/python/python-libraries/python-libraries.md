@@ -663,3 +663,4 @@
 - [Python array API standard](https://data-apis.org/array-api/latest/) - Common API for array and tensor Python libraries. ([GitHub](https://github.com/data-apis))
 - [Array API standard](https://github.com/data-apis/array-api)
 - [Top Python libraries of 2021 you should know about](https://tryolabs.com/blog/2021/12/21/top-python-libraries-2021) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/rlmr8s/d_a_handpicked_selection_of_the_best_python_ml/))
+- [Ask HN: Good Python projects to read for modern Python? (2021)](https://news.ycombinator.com/item?id=29698198)

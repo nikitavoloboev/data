@@ -387,3 +387,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Масяня – легенда русского интернета / вДудь (2021)](https://www.youtube.com/watch?v=rjjpf3psiSg&t=1s)
 - [Notes on Jasny – Soviet Industrialization (1928-1952)](http://www.federicopereiro.com/notes-jasny-1961/)
 - [«Плиз, начните думать своей головой» (2021)](https://takiedela.ru/2021/12/pliz-nachnite-dumat-svoey-golovoy/) - О жизни в провинции, о том, как снимать ролики без кучи денег и кто виноват в проблемах русского человека.
+- [What the success of a US soap says about modern Russia (2021)](https://www.ft.com/content/6e00aada-73d7-413b-99d8-445ea225a49e)
+- [Moscow | Financial Times](https://www.ft.com/stream/d9ee1f26-86f4-3db2-8869-931fb0fa5d3c)
+- [Путеводитель по российскому пьянству (2021)](https://www.agents.media/alkogolizm-statistika/)
