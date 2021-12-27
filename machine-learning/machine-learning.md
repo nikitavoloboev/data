@@ -629,3 +629,4 @@
 - [JAX ResNet](https://github.com/n2cholas/jax-resnet) - Implementations and checkpoints for ResNet, Wide ResNet, ResNeXt, ResNet-D, and ResNeSt in JAX (Flax).
 - [Best AI and Deep learning books to read in 2022](https://theaisummer.com/deep-learning-books-2022/)
 - [Machine Learning for Combinatorial Optimization - NeurIPS 2021 Competition](https://www.ecole.ai/2021/ml4co-competition/) ([Code](https://github.com/ds4dm/ml4co-competition))
+- [Tutorial and Summary of Machine Learning](https://github.com/zchen0211/ML-tutorial)

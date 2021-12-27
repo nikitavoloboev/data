@@ -179,3 +179,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Aquarium Drunkard](https://aquariumdrunkard.com/) - Eclectic audio journal focused on daily reviews, interviews, features, podcasts and sessions.
 - [Sound.xyz](https://www.sound.xyz/) - Own A Song, Join A Community. ([Article](https://mirror.xyz/davidgreenstein.eth/jE31-g1kCirNczLj18fow78b_TNz6zXESfx4h1nkrN8))
 - [L to the OG: How Succession Weaponizes Music (2021)](https://www.youtube.com/watch?v=uDnVXVCjDEw)
+- [TAPEFEAR](https://www.tapefear.com/) - Rediscovering music discovery.

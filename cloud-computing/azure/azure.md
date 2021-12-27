@@ -23,3 +23,4 @@
 - [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go) ([Article](https://devblogs.microsoft.com/azure-sdk/introducing-the-latest-azure-sdk-for-go-client-and-management-modules/))
 - [Using Azure services from WebAssembly modules (2021)](https://radu-matei.com/blog/using-azure-services-wasi/)
 - [Azure Kubernetes Service Issues](https://github.com/Azure/AKS)
+- [MustLearnKQL blog series](https://github.com/rod-trent/MustLearnKQL)

@@ -667,3 +667,4 @@ if err != nil {
 - [Three Minor Features in Go 1.18 (2021)](https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/) ([HN](https://news.ycombinator.com/item?id=29653485))
 - [golang-nuts - Google Groups](https://groups.google.com/g/golang-nuts)
 - [Learning Go Generics with Advent of Code (2021)](https://blog.walkergriggs.com/2021/12/15/learning_go_generics_with_aoc/)
+- [Share your must-know Go development tips (2021)](https://www.reddit.com/r/golang/comments/rp1vhe/share_your_mustknow_go_development_tips/)

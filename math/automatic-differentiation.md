@@ -19,5 +19,6 @@
 - [Symbolic and Automatic Differentiation of Languages (2021)](http://conal.net/papers/language-derivatives/) ([Code](https://github.com/conal/paper-2021-language-derivatives))
 - [oxide-enzyme](https://github.com/rust-ml/oxide-enzyme) - Enzyme integration into Rust. State-of-the-art AutoDiff in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/reo75u/enzyme_towards_stateoftheart_autodiff_in_rust/))
 - [simplegrad](https://github.com/anvaka/simplegrad) - Simple reverse mode automatic differentiation of scalar values in JS.
-- [Downhill](https://github.com/andriusstank/downhill/) - Reverse mode automatic differentiation in Haskell. ([Docs](https://andriusstank.github.io/downhill/))
+- [Downhill](https://github.com/andriusstank/downhill/) - Reverse mode automatic differentiation in Haskell. ([Docs](https://andriusstank.github.io/downhill/)) ([Tweet](https://twitter.com/kmett/status/1474947785434746883))
 - [Trade-Offs in Automatic Differentiation: TensorFlow, PyTorch, Jax, and Julia (2021)](http://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/) ([HN](https://news.ycombinator.com/item?id=29682507))
+- [Decomposing reverse-mode automatic differentiation (2021)](https://arxiv.org/abs/2105.09469)

@@ -353,6 +353,7 @@
 - [go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) - Ultra-fast and simple feature processing in Go with functionality matching sklearn.
 - [onnx-go](https://github.com/owulveryck/onnx-go) - Go Interface to Open Neural Network Exchange (ONNX).
 - [Mab](https://github.com/stitchfix/mab) - Library for multi-armed bandit selection strategies, including efficient deterministic implementations of Thompson sampling and epsilon-greedy.
+- [mu8](https://github.com/soypat/mu8) - Genetic algorithm for machine learning in Go.
 
 ## Graphics
 

@@ -1,5 +1,9 @@
 # [Speech recognition](https://github.com/daanzu/kaldi-active-grammar)
 
+## Notes
+
+- [Voice assistants don't seem to stick for most people is that they're actually command line interfaces, but even less discoverable because they don't provide any visible feedback at all.](https://twitter.com/simonw/status/1474418620625084420)
+
 ## Links
 
 - [HN: Facebook open-sources a speech-recognition system and a machine learning library (2018)](https://news.ycombinator.com/item?id=18736116)

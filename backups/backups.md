@@ -32,6 +32,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [rsync](https://www.rsync.net/index.html) - Cloud Storage for Offsite Backup. ([Code](https://github.com/WayneD/rsync))
 - [Bakelite](https://github.com/richfelker/bakelite) - Incremental backup with strong cryptographic confidentiality baked into the data model.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
+- [paperback](https://github.com/cyphar/paperback) - Paper-based backup scheme that is secure and easy-to-use.
 
 ## Cloud Storage
 

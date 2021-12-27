@@ -162,6 +162,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Your favorite games that made you learn real life concepts? (2021)](https://www.reddit.com/r/patientgamers/comments/ph6gy5/your_favorite_games_that_made_you_learn_real_life/)
 - [Game recs (2021)](https://twitter.com/jennifermarie/status/1449432435314339842)
 - [Great RTS games (2021)](https://www.reddit.com/r/RealTimeStrategy/comments/rlfxis/suggestions/)
+- [Long game suggestions (2021)](https://twitter.com/chetfaliszek/status/1475258682539593729)
 
 ## Links
 

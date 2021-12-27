@@ -55,6 +55,7 @@
 
 ## Advent of Code solutions
 
+- [AOC Rust 2021](https://github.com/aldanor/aoc-2021)
 - [Rust](https://github.com/kitten/advent-of-code-2019)
 - [Rust 2](https://github.com/m-rutter/advent-of-code)
 - [Rust 3](https://github.com/mitsuhiko/aoc19)

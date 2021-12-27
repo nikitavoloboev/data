@@ -32,3 +32,4 @@
 - [Investment in Germany advice (2021)](https://www.reddit.com/r/eupersonalfinance/comments/qzlqh5/new_to_investment_in_germany/)
 - [Incorporating in Germany is hard (2021)](https://twitter.com/andreasklinger/status/1466333639176859651)
 - [Berlin’s Transformation Is Wunderbar: a San Francisco Transplant’s View (2021)](https://sf.streetsblog.org/2021/12/06/berlins-transformation-is-wunderbar-a-san-francisco-transplants-view/)
+- [Germany Finance Reddit](https://www.reddit.com/r/Finanzen/wiki/index)
