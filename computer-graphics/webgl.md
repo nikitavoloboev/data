@@ -81,3 +81,4 @@
 - [Hilo3D](https://github.com/hiloteam/Hilo3d) - 3D WebGL Rendering Engine.
 - [Canvas2DtoWebGL.js](https://github.com/jagenjo/Canvas2DtoWebGL) - Ports (almost) all Canvas2D functions to the GPU so it can be mixed with a WebGL canvas.
 - [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+- [W](https://github.com/xem/W) - Micro WebGL2 framework with a ton of features. ([Docs](https://xem.github.io/W/))

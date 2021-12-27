@@ -431,3 +431,4 @@ all: unset
 - [Smoothly Reverting CSS Animations (2021)](https://pragmaticpineapple.com/smoothly-reverting-css-animations/)
 - [CSS 3D Clouds](https://www.clicktorelease.com/code/css3dclouds/) ([Code](https://github.com/spite/CSS3DClouds))
 - [Dynamic CSS with Custom Properties (aka CSS Variables)](https://frontendmasters.com/courses/css-variables/)
+- [Styles of text selection (2021)](https://mefody.dev/chunks/selection/)

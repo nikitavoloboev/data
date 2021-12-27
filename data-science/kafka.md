@@ -79,3 +79,4 @@
 - [Kasper](https://github.com/nmaquet/kasper) - Lightweight library for processing Kafka topics.
 - [Postgres, Kafka, and the Mysterious 100 GB](https://www.mattritter.me/?p=398)
 - [Create page view analytics system using Kafka, Go, Postgres & GraphQL in 5 steps (2021)](https://lakhan.me/blog/create-page-view-analytics-system-using-kafka-go-postgres-graphql-in-5-steps)
+- [kaproxy](https://github.com/bitleak/kaproxy) - Restful HTTP Proxy For Kafka.

@@ -1190,6 +1190,7 @@
 - [go-graph-layout](https://github.com/nikolaydubina/go-graph-layout) - Graph Layout Algorithms in Go.
 - [xz](https://github.com/ulikunitz/xz) - Pure Go package for reading and writing xz-compressed files.
 - [i18n](https://github.com/go-i18n/i18n) - Internationalization and localization for your Go applications.
+- [LMSTFY](https://github.com/bitleak/lmstfy) - Implements task queue in Go which based on Redis storage.
 
 ## Links
 

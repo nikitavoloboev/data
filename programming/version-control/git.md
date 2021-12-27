@@ -338,6 +338,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [GitRows](https://github.com/gitrows/gitrows) - Makes it easy to use and store data in GitHub and GitLab repos. ([Web](https://gitrows.com/))
 - [How to keep your Git history clean with interactive rebase (2020)](https://about.gitlab.com/blog/2020/11/23/keep-git-history-clean-with-interactive-rebase/) ([Lobsters](https://lobste.rs/s/wp4ctv/how_keep_your_git_history_clean_with))
 - [git-annex](https://git-annex.branchable.com/) - Allows managing files with git, without checking the file contents into git. ([Code](https://github.com/peti/git-annex))
+- [Git-Annex-Adapter](https://github.com/alpernebbi/git-annex-adapter) - Call git-annex commands from Python.
 - [gittup](http://gittup.org/gittup/) - Entire(-ish) linux distribution in git.
 - [Git Extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more.
 - [Gogs](https://github.com/gogs/gogs) - Painless self-hosted Git service. ([Web](https://gogs.io/))

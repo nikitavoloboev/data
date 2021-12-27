@@ -310,3 +310,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [An NFT without a Blockchain. No gas fees. No ETH. No gatekeepers (2021)](https://shkspr.mobi/blog/2021/12/an-nft-without-a-blockchain-no-gas-fees-no-eth/) ([HN](https://news.ycombinator.com/item?id=29608534))
 - [Starport](https://starport.com/) - Developer-friendly interface to the Cosmos SDK. ([Code](https://github.com/tendermint/starport))
 - [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
+- [Gno](https://github.com/gnolang/gno) - Language designed for concurrent blockchain smart contracts systems.
+- [Cosmos](https://cosmos.network/) - Internet of Blockchains.
+- [Juno](https://github.com/CosmosContracts/juno) - Open Source Platform for Interoperable Smart Contracts.
