@@ -1214,7 +1214,7 @@
 - [genv](https://github.com/nishakm/genv) - Go imitation of Python's venv module.
 - [Vend](https://github.com/nomad-software/vend) - Small command line utility for fully vendoring module dependencies.
 - [Which Go router should I use? (2021)](https://www.alexedwards.net/blog/which-go-router-should-i-use) ([Lobsters](https://lobste.rs/s/njvqgj/which_go_router_should_i_use))
-- [Bingo](https://github.com/TekWizely/bingo) - Missing package manager for Go binaries (its homebrew for "go install").
+- [Bingo](https://github.com/TekWizely/bingo) - Missing package manager for Go binaries (its homebrew for "go install"). ([HN](https://news.ycombinator.com/item?id=29690251))
 - [doc](https://github.com/hhhapz/doc) - Query Go module documentation.
 - [Dr-Docso](https://github.com/DiscordGophers/dr-docso) - Go documentation bot for Discord.
 - [Exploring Go net/http Package - On How Not To Set Socket Options (2021)](https://iximiuz.com/en/posts/go-net-http-setsockopt-example/)

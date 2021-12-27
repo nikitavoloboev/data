@@ -380,3 +380,5 @@
 - [Everything I've seen on optimizing Postgres on ZFS (2021)](https://vadosware.io/post/everything-ive-seen-on-optimizing-postgres-on-zfs-on-linux/) ([HN](https://news.ycombinator.com/item?id=29647645))
 - [pgModeler](https://github.com/pgmodeler/pgmodeler) - PostgreSQL Database Modeler. ([Web](https://pgmodeler.io/))
 - [pgxr](https://github.com/clia/pgxr) - Write PostgreSQL extension functions using Rust.
+- [Fast Counting with PostgreSQL and Haskell (2021)](https://jezenthomas.com/fast-counting-with-postgresql-and-haskell/) ([HN](https://news.ycombinator.com/item?id=29690985))
+- [Getting Started with QGIS, PostgreSQL and PostGIS (2021)](https://www.cybertec-postgresql.com/en/getting-started-qgis-postgresql-postgis/) ([HN](https://news.ycombinator.com/item?id=29691474))

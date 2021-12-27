@@ -202,3 +202,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Front](https://front.com/) - Customer Communication Platform using Email. ([Twitter](https://twitter.com/FrontHQ)) ([Tweet](https://twitter.com/thomaspaulmann/status/1470501397212893197))
 - [Go Mail](https://github.com/ainsleyclark/go-mail) - Unify multiple popular mail API's (SparkPost, MailGun, SendGrid & SMTP) into a singular easy to use interface.
 - [OhMySMTP](https://ohmysmtp.com/) - Transactional Email Provider and API. ([GitHub](https://github.com/ohmysmtp))
+- [Running your own email is increasingly an artisanal choice, not a practical one (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailServersNoLongerPractical) ([HN](https://news.ycombinator.com/item?id=29672846))

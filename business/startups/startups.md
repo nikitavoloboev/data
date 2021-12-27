@@ -350,6 +350,7 @@
 - [Boards are dangerous to founder/CEOs (2021)](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html) ([HN](https://news.ycombinator.com/item?id=29320078))
 - [Technical Co-founders' Guide to Equity Negotiations (2021)](https://omarish.com/equity-negotiation)
 - [How to go from being a super hot company to lucky to get acquired in less than 24 months (2021)](https://joefernandez.substack.com/p/how-to-go-from-being-a-super-hot)
+- [CEO’s job](https://twitter.com/anothercohen/status/1475268148207173634)
 
 ## Images
 

@@ -183,3 +183,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Best textbooks (or comprehensive primers) which are freely available online (2021)](https://twitter.com/andy_matuschak/status/1473450143387062274?s=28)
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
 - [Feynman Technique explained](https://twitter.com/SahilBloom/status/1475096936395026434)
+- [Ask HN: Moving from tiny websites to serious tech skills? (2021)](https://news.ycombinator.com/item?id=29692160)

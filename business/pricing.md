@@ -73,3 +73,4 @@
 - [4 things nobody tells you about preselling your product (2021)](https://stackingthebricks.com/4-things-preselling/) ([Tweet](https://twitter.com/JoshWComeau/status/1458903882231435265))
 - [I Analyzed SaaS Billing Dark Patterns (2021)](https://quolum.com/blog/saas/i-analyzed-saas-billing-dark-patterns/) ([HN](https://news.ycombinator.com/item?id=29255445))
 - [Every pricing page should have GIFs](https://tdinh.notion.site/Every-pricing-page-should-have-GIFs-e74d6d363d4c4d33b5ff754452f7ab96) ([HN](https://news.ycombinator.com/item?id=29348328))
+- [The Importance of Price Signals (2021)](https://www.lynalden.com/price-signals/) ([HN](https://news.ycombinator.com/item?id=29691988))

@@ -201,3 +201,4 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Apricot](https://app.apricot.one/) - Lending protocol on Solana. ([Twitter](https://twitter.com/ApricotFinance))
 - [Solana Program Registry](https://github.com/DeployDAO/solana-program-registry) - Verified registry of open source Solana programs.
 - [Solana Program Index](https://github.com/DeployDAO/solana-program-index) - Index of verified checksums and IDLs of Anchor programs uploaded to the Solana Program Registry.
+- [How I wrote my first Solana contract (2021)](https://twitter.com/redacted_noah/status/1475208069969756166)
