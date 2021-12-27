@@ -314,3 +314,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Cosmos](https://cosmos.network/) - Internet of Blockchains.
 - [Juno](https://github.com/CosmosContracts/juno) - Open Source Platform for Interoperable Smart Contracts.
 - [The Future Is Not Only Useless, It’s Expensive (2021)](https://www.gawker.com/culture/the-future-is-useless-expensive) ([Tweet](https://twitter.com/DangerBrooks/status/1472971893443489792))
+- [Spectrum of harm related to crypto and blockchain (2021)](https://twitter.com/smdiehl/status/1475075915893850112)

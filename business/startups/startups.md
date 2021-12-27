@@ -351,6 +351,7 @@
 - [Technical Co-founders' Guide to Equity Negotiations (2021)](https://omarish.com/equity-negotiation)
 - [How to go from being a super hot company to lucky to get acquired in less than 24 months (2021)](https://joefernandez.substack.com/p/how-to-go-from-being-a-super-hot)
 - [CEO’s job](https://twitter.com/anothercohen/status/1475268148207173634)
+- [CEO's job 2](https://twitter.com/theryanking/status/1475122757117653003)
 
 ## Images
 
