@@ -132,3 +132,4 @@
 - [The Science of Interstellar by Kip S. Thorne (2014)](https://www.goodreads.com/en/book/show/23261448) ([Review](https://twitter.com/leni_kotik/status/1468102737095241729))
 - [It's Just Astronomical! - YouTube](https://www.youtube.com/c/ItsJustAstronomical/videos)
 - [Why NASA’s James Webb Space Telescope Matters So Much (2021)](https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/)
+- [Decoding James Webb Space Telescope (2021)](https://destevez.net/2021/12/decoding-james-webb-space-telescope/) ([HN](https://news.ycombinator.com/item?id=29704554))

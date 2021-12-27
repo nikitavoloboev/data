@@ -2,6 +2,8 @@
 
 Aging is a disease and thus can potentially be cured. For example, [Turritopsis dohrnii](http://en.wikipedia.org/wiki/Turritopsis_dohrnii) jelly fish ages backwards.
 
+I personally don't plan to live for long once my body starts truly breaking down of age. I maximize the quality of my life experience through proper [sleep](../sleep/sleep.md), [exercise](../fitness/exercises.md) and having [no stress](../mindfulness/mindfulness.md) optimistic outlook. I don't have any negative thoughts about [death](../life/death.md) as all things end, including [our universe](https://www.youtube.com/watch?v=uD4izuDMUQA). Only thing that's annoying is pain especially chronic so best try avoid that (that includes prisons, diseases..).
+
 ## Notes
 
 - [Curcumin](http://en.wikipedia.org/wiki/Curcumin), [Pterostilbene](http://en.wikipedia.org/wiki/Pterostilbene) and [Nicotinamide riboside](http://en.wikipedia.org/wiki/Nicotinamide_riboside) supposedly have anti aging properties.
@@ -84,3 +86,5 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [NewLimit](https://www.newlimit.com/) - Company built to extend human health span. ([Intro](https://blog.newlimit.com/p/announcing-newlimit-a-company-built))
 - [Japanese scientists develop vaccine to eliminate cells behind aging (2021)](https://www.japantimes.co.jp/news/2021/12/12/national/science-health/aging-vaccine/) ([HN](https://news.ycombinator.com/item?id=29529833))
 - [Senolytic vaccination improves normal and pathological age-related phenotypes and increases lifespan in progeroid mice (2021)](https://www.nature.com/articles/s43587-021-00151-2) ([HN](https://news.ycombinator.com/item?id=29640259))
+- [Rest Less](https://restless.co.uk/) - Jobs, Money, Courses & Lifestyle for Over 50s.
+- [The World Ahead: the true costs of ageing (2021)](https://www.youtube.com/watch?v=hJCr5WJapm8)

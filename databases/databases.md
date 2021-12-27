@@ -76,7 +76,7 @@
 - [TerminusDB](https://terminusdb.com/) - Full featured in-memory graph database management system with a rich query language. ([Code](https://github.com/terminusdb/terminus-server)) ([HN](https://news.ycombinator.com/item?id=22867767))
 - [WhiteDB](https://github.com/priitj/whitedb) - Lightweight database library operating fully in main memory. Disk is used only for dumping/restoring database and logging.
 - [FaunaDB](fauna.md) - Database built for serverless, featuring native GraphQL.
-- [ImmuDB](https://github.com/codenotary/immudb) - Lightweight, high-speed immutable database for systems and applications. Written in Go. ([HN](https://news.ycombinator.com/item?id=27275691))
+- [ImmuDB](https://github.com/codenotary/immudb) - Lightweight, high-speed immutable database for systems and applications. Written in Go. ([HN](https://news.ycombinator.com/item?id=27275691)) ([HN](https://news.ycombinator.com/item?id=29702974))
 - [NutsDB](https://github.com/xujiajun/nutsdb) - Simple, fast, embeddable, persistent key/value store written in pure Go.
 - [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web.
 - [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL. ([timescaledb-tune](https://github.com/timescale/timescaledb-tune)) ([HN](https://news.ycombinator.com/item?id=24132602)) ([2.0 release](https://blog.timescale.com/blog/timescaledb-2-0-a-multi-node-petabyte-scale-completely-free-relational-database-for-time-series/))

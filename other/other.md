@@ -579,3 +579,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: Show your failed projects and share a lesson you learned (2021)](https://news.ycombinator.com/item?id=29673707)
 - [Ask HN: Have you found something you love to do? If yes how? (2021)](https://news.ycombinator.com/item?id=29685021)
 - [Practical Markup Language (PML)](https://www.pml-lang.dev/index.html)
+- [The Best Things and Stuff of 2021](http://blog.fogus.me/2021/12/27/the-best-things-and-stuff-of-2021/) ([HN](https://news.ycombinator.com/item?id=29702698))
