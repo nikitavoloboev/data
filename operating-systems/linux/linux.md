@@ -438,3 +438,4 @@
 - [linuxbundles](https://github.com/mudler/linuxbundles) - Standalone, local-runnable binaries of popular linux distributions.
 - [Drgn: How the Linux kernel team at Facebook debugs the kernel at scale (2021)](https://developers.facebook.com/blog/post/2021/12/09/drgn-how-linux-kernel-team-meta-debugs-kernel-scale/) ([HN](https://news.ycombinator.com/item?id=29537594))
 - [Getting to know memblock (2021)](https://insecuremode.com/post/2021/12/14/getting-to-know-memblock.html)
+- [2021: Year of the Linux Gaming Desktop - Andrew Kelley](https://www.youtube.com/watch?v=pq1XqP4-qOo)

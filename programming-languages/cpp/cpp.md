@@ -283,3 +283,4 @@
 - [BRiCk](https://github.com/bedrocksystems/BRiCk) - Formalization of C++ for verification purposes.
 - [Thread Safety in C++ and Rust (2021)](https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html) ([HN](https://news.ycombinator.com/item?id=29608552))
 - [Using C Libraries in your Modern C++ Embedded Project - Michael Caisse (2021)](https://www.youtube.com/watch?v=Ototzy-nP4M)
+- [Flawfinder](https://github.com/david-a-wheeler/flawfinder) - Simple program that scans C/C++ source code and reports potential security flaws.

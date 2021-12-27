@@ -23,3 +23,4 @@
 - [pdf2svg](https://github.com/dawbarton/pdf2svg) - Simple PDF to SVG converter using the Poppler and Cairo libraries.
 - [CamlPDF](https://github.com/johnwhitington/camlpdf) - OCaml library for reading, writing and modifying PDF files.
 - [cpdf-binaries](https://github.com/coherentgraphics/cpdf-binaries) - PDF Command Line Tools binaries.
+- [pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file.

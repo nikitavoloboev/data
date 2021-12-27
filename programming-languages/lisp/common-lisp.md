@@ -80,3 +80,7 @@
 - [CEPL](https://github.com/cbaggers/cepl) - Lispy and REPL-friendly Common Lisp library for working with OpenGL. ([HN](https://news.ycombinator.com/item?id=29535450))
 - [Wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server written in common lisp.
 - [Learn Common Lisp by Example: Qt GUI with EQL5 (2021)](https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5)
+- [cl4py](https://github.com/marcoheisig/cl4py) - Common Lisp for Python.
+- [Fast Generic Functions](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance.
+- [sb-simd](https://github.com/marcoheisig/sb-simd) - Convenient SIMD interface for SBCL.
+- [cl-mpi](https://github.com/marcoheisig/cl-mpi) - MPI bindings for Common Lisp with many useful extras.

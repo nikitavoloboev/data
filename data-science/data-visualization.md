@@ -133,3 +133,4 @@
 - [Dash-by-Plotly](https://github.com/Coding-with-Adam/Dash-by-Plotly) - Dedicated to teaching Dash and Plotly.
 - [Data visualization: A view of every Points of View column (2013)](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
 - [chartpy](https://github.com/cuemacro/chartpy) - Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more.
+- [Constellation](https://github.com/constellation-app/constellation) - Graph-focused data visualisation and interactive analysis application. ([Web](https://www.constellation-app.com/))

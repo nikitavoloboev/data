@@ -505,3 +505,4 @@
 - [Ask HN: Are most of us developers lying about how much work we do? (2021)](https://news.ycombinator.com/item?id=29581125)
 - [Awesome Parallel Computing Resources](https://github.com/taskflow/awesome-parallel-computing)
 - [Ask HN: Working with large code base for the first time (2021)](https://news.ycombinator.com/item?id=29645433)
+- [Performance Anti-Patterns (2006)](https://queue.acm.org/detail.cfm?id=1117403) ([Lobsters](https://lobste.rs/s/i9grx6/performance_anti_patterns_2006))

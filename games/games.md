@@ -249,3 +249,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [CloudRetro](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game.
 - [Roblox Pressured Us to Delete Our Video. So We Dug Deeper. (2021)](https://www.youtube.com/watch?v=vTMF6xEiAaY) ([HN](https://news.ycombinator.com/item?id=29539875))
 - [Heroes of Might and Magic (2021)](https://www.filfre.net/2021/12/heroes-of-might-and-magic/) ([HN](https://news.ycombinator.com/item?id=29692957))
+- [Video Game Preservation](https://github.com/orgs/videogamepreservation/repositories)
