@@ -127,3 +127,5 @@
 - [Terraform Provider Boundary](https://github.com/hashicorp/terraform-provider-boundary) - Manage Boundary's identity-based access controls for resources provisioned with Terraform.
 - [Consul-Terraform-Sync](https://github.com/hashicorp/consul-terraform-sync) - Service-oriented tool for managing network infrastructure near real-time.
 - [Equinix Metal Terraform Provider](https://github.com/equinix/terraform-provider-metal)
+- [tfk8s](https://github.com/jrhouston/tfk8s) - Tool for converting Kubernetes YAML manifests to Terraform HCL.
+- [Helm Provider for Terraform](https://github.com/hashicorp/terraform-provider-helm) - Allows you to install and manage Helm Charts in your Kubernetes cluster using Terraform.

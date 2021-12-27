@@ -170,3 +170,4 @@
 - [duuh](https://github.com/philpep/duuh) - Aims to build docker images with unattended upgrades, i.e. with fixables CVEs fixed.
 - [Ofelia](https://github.com/mcuadros/ofelia) - Docker job scheduler (aka. crontab for docker).
 - [Create docker image on Apple Silicon M1 Mac (2021)](https://lakhan.me/blog/create-docker-image-on-apple-silicon-m1-mac)
+- [dlayer](https://github.com/orisano/dlayer) - Docker layer analyzer.

@@ -99,3 +99,4 @@
 - [BMC, research in progress](https://www.biomedcentral.com/)
 - [There’s no such thing as a tree (phylogenetically)](https://eukaryotewritesblog.com/2021/05/02/) ([HN](https://news.ycombinator.com/item?id=29621646))
 - [OneZoom Tree of Life Explorer](https://www.onezoom.org/)
+- [SynBioHub](https://github.com/SynBioHub/synbiohub) - Web application enabling users and software to browse, upload, and share synthetic biology designs. ([Docs](https://wiki.synbiohub.org/))

@@ -61,3 +61,4 @@
 - [Woe be unto you for using a WebSocket (2021)](http://www.adama-lang.org/blog/woe-of-websocket/) ([HN](https://news.ycombinator.com/item?id=29651447))
 - [Are WebSockets the best way to push messages from the backend to web clients (2021)](https://twitter.com/bernhardsson/status/1473784120136421384)
 - [RealSync](https://github.com/xencodes/realsync) - Execute Server Functions from Client side. ([Article](https://xen.codes/execute-async-server-function-from-client-side))
+- [birpc](https://github.com/antfu/birpc) - Message-based two-way remote procedure call.
