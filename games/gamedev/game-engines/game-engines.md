@@ -124,3 +124,4 @@
 - [How does a Game Engine work? An Overview (2016)](https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine) ([HN](https://news.ycombinator.com/item?id=29136429))
 - [How to make your own game engine (and why) (2021)](https://medium.com/@tglaiel/how-to-make-your-own-game-engine-and-why-ddf0acbc5f3)
 - [GitHub Collection: Game Engines](https://github.com/collections/game-engines) ([Reddit](https://www.reddit.com/r/gamedev/comments/qtwae3/githubs_collection_of_opensource_game_engines/))
+- [What interesting things are people making using a game engine that's not actually a game?](https://www.reddit.com/r/gamedev/comments/rpk7uh/what_interesting_things_are_people_making_using_a/)

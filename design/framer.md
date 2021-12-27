@@ -14,3 +14,4 @@
 - [Framer for Developers](https://www.framer.com/developers/) ([Article](https://dev.to/koen/code-on-canvas-develop-and-design-at-the-same-time-258l))
 - [Framer Community Showcase](https://www.framer.com/showcase/) ([Article](https://www.framer.com/blog/posts/introducing-showcase/))
 - [Framer Motion 3D](https://www.framer.com/docs/three-introduction/)
+- [Framer Motion React Menu Overlay Demo](https://github.com/ainalem/framer-motion-menu-overlay) - Use SVG morphing with Framer Motion to create a menu overlay effect.

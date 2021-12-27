@@ -86,3 +86,4 @@
 - [Minimal build.zig for targeting iOS](https://github.com/kubkon/zig-ios-example)
 - [Zig 0.9.0](https://ziglang.org/download/0.9.0/release-notes.html) ([HN](https://news.ycombinator.com/item?id=29631202))
 - [What do you think about Zig? (2021)](https://www.reddit.com/r/rust/comments/rlj9zl/what_do_you_think_about_zig/)
+- [A Review of the Zig Programming Language (Using Advent of Code 2021)](https://www.duskborn.com/posts/2021-aoc-zig/) ([HN](https://news.ycombinator.com/item?id=29702607))

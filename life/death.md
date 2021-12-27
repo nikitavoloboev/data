@@ -56,3 +56,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Ask HN: What can you do to help the grieving? (2021)](https://news.ycombinator.com/item?id=28820090)
 - [Ted Lasso Rick Roll us on a Funeral](https://www.youtube.com/watch?v=4B0HktX4xqQ&t=2s)
 - [Судмедэксперт: интервью о жизни и смерти (2021)](https://www.youtube.com/watch?v=lhQf6vPUJaI)
+- [What Animals Think of Death](https://aeon.co/essays/animals-wrestle-with-the-concept-of-death-and-mortality) ([HN](https://news.ycombinator.com/item?id=29701893))

@@ -63,3 +63,4 @@
 - [A Closer Look at Fractals (2013)](https://blog.fract.al/post/62180302979/a-closer-look-at-fractals)
 - [Visualize 3D hyperbolic honeycombs and sphere packings](https://github.com/neozhaoliang/Hyperbolic-Honeycombs)
 - [Fractal Renderer in Swift](https://github.com/hdombach/Fractal-Renderer)
+- [A stochastic method to generate the Sierpinski triangle](https://github.com/ajnirp/stochastic_sierpinski) ([HN](https://news.ycombinator.com/item?id=29701260))
