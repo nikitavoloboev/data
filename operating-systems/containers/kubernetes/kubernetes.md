@@ -574,3 +574,4 @@
 - [Bare-metal CSI Driver](https://github.com/dell/csi-baremetal) - CSI spec implementation to manage locally attached disks for Kubernetes.
 - [1 Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [Crane](https://github.com/gocrane/crane) - Manages cloud resource on Kubernetes stack.
+- [Otomi](https://github.com/redkubes/otomi-core) - GitOps powered K8s app stack with developer self-service. ([Docs](https://otomi.io/docs/installation/))

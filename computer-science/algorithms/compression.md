@@ -95,3 +95,4 @@
 - [Decompressing a Gzip File by Hand](https://ttay.me/blog/gzip_investigations/) ([HN](https://news.ycombinator.com/item?id=29336271))
 - [librsync](https://github.com/librsync/librsync) - Remote delta-compression library.
 - [Quantile Compression](https://github.com/mwlon/quantile-compression) - Lossless compressor and decompressor for numerical data using quantiles. ([Reddit](https://www.reddit.com/r/rust/comments/r2oinm/quantile_compression_qcompress_a_new_compression/)) ([Article](https://graphallthethings.com/posts/quantile-compression))
+- [fzstd](https://github.com/101arrowz/fzstd) - High performance Zstandard decompression in a pure JavaScript, 8kB package.

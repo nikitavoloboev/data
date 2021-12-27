@@ -91,3 +91,4 @@
 - [Delta Client](https://github.com/stackotter/delta-client) - Open source rewrite of Minecraft Java Edition written in Swift for macOS. (([Web](https://delta.stackotter.dev/)))
 - [One decade later, Minecraft world generation is interesting again (2021)](https://dither8.xyz/blog/minecraft-cliffs-terrain/) ([HN](https://news.ycombinator.com/item?id=29446877))
 - [Very powerful 1Hz Minecraft CPU (2021)](https://www.youtube.com/watch?v=FDiapbD0Xfg) ([Lobsters](https://lobste.rs/s/isyomf/very_powerful_1hz_minecraft_cpu))
+- [mc-proxy](https://github.com/101arrowz/mc-proxy) - Fully functional proxy for online and offline-mode Minecraft servers.
