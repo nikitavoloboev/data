@@ -208,3 +208,4 @@
 - [xj](https://idiomdrottning.org/xj) - HTML to JSON. ([HN](https://lobste.rs/s/dmyqry/xj_html_json))
 - [parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js.
 - [Entire website in a single HTML file](https://css-tricks.com/a-whole-website-in-a-single-html-file/) ([HN](https://news.ycombinator.com/item?id=29668260))
+- [HTML Standard FAQ](https://github.com/whatwg/html/blob/main/FAQ.md)
