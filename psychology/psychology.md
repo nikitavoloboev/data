@@ -44,3 +44,4 @@
 - [Chess Grandmaster Kasparov on Mob Mentality and Groupthink](https://www.wsj.com/articles/woke-is-a-bad-word-for-a-real-threat-to-american-democracy-cancel-culture-freedom-11637184284) ([HN](https://news.ycombinator.com/item?id=29269142))
 - [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) ([Code](https://github.com/melaniewalsh/Intro-Cultural-Analytics))
 - [Erasing Fears & Traumas Based on the Modern Neuroscience of Fear (2021)](https://www.youtube.com/watch?v=31wjVhCcI5Y)
+- [Bipolar Disorder CIC](https://bipolardisorder.me/) - Not-for-profit company working for the interests of people experiencing manic depression, together with their family and friends.

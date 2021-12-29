@@ -40,3 +40,6 @@
 - [Multiplayer in Godot 4.0: Scene Replication (Part 1) (2021)](https://godotengine.org/article/multiplayer-changes-godot-4-0-report-4) ([HN](https://news.ycombinator.com/item?id=29362912))
 - [Godot Engine's native Blender exporter add-on](https://github.com/godotengine/godot-blender-exporter)
 - [Godot tips and tricks](https://github.com/me2beats/godot-tips-and-tricks)
+- [Fox](https://github.com/uralys/fox) - Tools to help develop with Godot engine. ([HN](https://news.ycombinator.com/item?id=29714408))
+- [Learn GDScript From Zero](https://github.com/GDQuest/learn-gdscript)
+- [Godot Shaders](https://github.com/GDQuest/godot-shaders) - Large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.

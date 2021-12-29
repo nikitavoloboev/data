@@ -132,3 +132,4 @@
 - [ChiselStore](https://github.com/chiselstrike/chiselstore) - Embeddable, distributed SQLite for Rust, powered by Little Raft. ([HN](https://news.ycombinator.com/item?id=29572756))
 - [deno_sqlite](https://github.com/DjDeveloperr/deno_sqlite) - Fast, native bindings to SQLite3 C API, using Deno FFI.
 - [graphdb](https://github.com/CodyKochmann/graphdb) - SQLite based graph database for storing native python objects and their relationships to each other.
+- [SQLiteLib](https://github.com/swiftlyfalling/SQLiteLib) - Easily build a custom SQLite static library for use in macOS and iOS frameworks and apps.

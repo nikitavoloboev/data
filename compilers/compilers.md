@@ -196,3 +196,4 @@
 - [Everything You Never Wanted To Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
 - [abstraps](https://github.com/femtomc/abstraps) - Extensible compiler middle layer with abstract interpreters.
 - [BNF Converter](https://github.com/BNFC/bnfc) - Compiler construction tool generating a compiler front-end from a Labelled BNF grammar.
+- [Do We Really Need A Link Step? (2021)](https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html) ([Reddit](https://www.reddit.com/r/Compilers/comments/rjln3u/do_we_really_need_a_link_step/))

@@ -168,3 +168,5 @@
 - [VolumeGAN - 3D-aware Image Synthesis via Learning Structural and Textural Representations (2021)](https://genforce.github.io/volumegan/) ([Code](https://github.com/genforce/volumegan))
 - [GenForce: Research Initiative on Generative Modeling](https://genforce.github.io/) ([GitHub](https://github.com/genforce))
 - [Sketch Your Own GAN (2021)](https://peterwang512.github.io/GANSketching/) ([Code](https://github.com/PeterWang512/GANSketching))
+- [StyleGAN2-ada for practice](https://github.com/eps696/stylegan2ada)
+- [StyleGAN3 CLIP-based guidance](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks)

@@ -65,3 +65,4 @@
 - [Interactive Scheme Primer, written in Scheme](https://github.com/webyrd/scheme-primer)
 - [A small scheme VM, compiler, and REPL in 4k (2021)](https://dl.acm.org/doi/10.1145/3486606.3486783) ([HN](https://news.ycombinator.com/item?id=29348033))
 - [Scheme interpreter in C](https://github.com/TectonicFury/CSCMIC) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/r3zpgc/a_barely_usable_interpreter_for_a_subset_of/))
+- [MIT Scheme on Apple Silicon (2021)](https://kennethfriedman.org/thoughts/2021/mit-scheme-on-apple-silicon/) ([HN](https://news.ycombinator.com/item?id=29707604))

@@ -10,6 +10,13 @@
 - [Interactive app to demonstrate how routing works in Remix](https://github.com/dilums/interactive-remix-routing)
 - [Jacob Ebey's Blog](https://github.com/jacob-ebey/ebey-me-remix)
 
+## Plugins
+
+- [OAuth2Strategy](https://github.com/sergiodxa/remix-auth-oauth2) - OAuth2Strategy for Remix Auth.
+- [GitHubStrategy](https://github.com/sergiodxa/remix-auth-github) - GitHubStrategy for Remix Auth, based on the OAuth2Strategy.
+- [FormStrategy](https://github.com/sergiodxa/remix-auth-form) - Remix Auth strategy for working with forms.
+- [Remix Auth - Strategy Template](https://github.com/sergiodxa/remix-auth-strategy-template) - Template for creating a new Remix Auth strategy.
+
 ## Notes
 
 - [If you're using Remix you don't need react-query/Apollo/redux or even axios for making network requests. It's all handled for you + much more by the framework.](https://twitter.com/kentcdodds/status/1463994662281048074)

@@ -192,3 +192,5 @@
 - [Future Alterations and Loops (2021)](https://inconvergent.net/2021/future-alterations-and-loops/)
 - [Building an Autonomous Generative Art Collection with P5.js (2021)](https://richtabor.com/generative-art/) ([HN](https://news.ycombinator.com/item?id=29558179))
 - [Generative Art Experiments using Haskell, GHCJS, and Reflex (FRP)](https://github.com/mankyKitty/fantastic-waddle)
+- [Grok {Shan, Shui}\*: Advent of understanding the generative art (2021)](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html) ([HN](https://news.ycombinator.com/item?id=29717476))
+- [Procedurally understandably generated Chinese landscape painting](https://github.com/RedContritio/shan_shui_inf)

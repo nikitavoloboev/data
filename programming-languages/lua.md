@@ -89,3 +89,5 @@
 - [Lua in Rust](https://github.com/cjneidhart/lua-in-rust) - Lua programming language, implemented in Rust.
 - [Lua: Good, bad, and ugly parts (2012)](http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts) ([HN](https://news.ycombinator.com/item?id=29659336))
 - [Luerl](https://github.com/rvirding/luerl) - Implementation of Lua in Erlang. ([HN](https://news.ycombinator.com/item?id=29703949))
+- [Writing a minimal Lua implementation with a virtual machine from scratch in Rust (2021)](https://notes.eatonphil.com/lua-in-rust.html) ([Lobsters](https://lobste.rs/s/wlpgc3/writing_minimal_lua_implementation_with)) ([Code](https://github.com/eatonphil/lust))
+- [lua-ts](https://github.com/ahuth/lua-ts) - TypeScript implementation of minimal Lua.

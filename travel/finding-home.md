@@ -70,3 +70,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [The Best Airbnbs in the U.S., from Floating Tiki Huts to Desert Marvels](https://www.cntraveler.com/gallery/best-airbnbs-in-the-us) ([Tweet](https://twitter.com/alexisxrivas/status/1468634971879268354))
 - [В гостях у актера Александра Петрова: двухуровневый лофт с большой террасой](https://www.youtube.com/watch?v=FFja5R0syXE)
 - [Ask HN: Tiny Home for $5k USD? (2021)](https://news.ycombinator.com/item?id=29686799)
+- [The Carpetbagger’s Guide to Home Ownership (2021)](https://www.granolashotgun.com/granolashotguncom/investors-and-affordable-housing) ([HN](https://news.ycombinator.com/item?id=29688489))

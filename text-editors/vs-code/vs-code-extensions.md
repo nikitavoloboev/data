@@ -464,3 +464,4 @@ Below is a list of extensions I use.
 - [Opinionated list of essential VS Code extensions (2021)](https://importthis.tech/an-opinionated-list-of-essential-vs-code-extensions) ([Reddit](https://www.reddit.com/r/vscode/comments/qy2hfu/what_vs_code_extensions_do_you_use_heres_my_list/))
 - [vscode-ext](https://github.com/CodeWithSwastik/vscode-ext) - Create VSCode Extensions with python. ([Docs](https://vscode-ext.readthedocs.io/en/latest/))
 - [VSCodeThemes](https://vscodethemes.com/) - Preview Visual Studio Code Themes.
+- [Monkey Patch](https://github.com/iocave/monkey-patch) - Extension allowing execution of arbitrary JavaScript in VSCode browser and main process.

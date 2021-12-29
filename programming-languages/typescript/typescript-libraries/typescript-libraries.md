@@ -250,6 +250,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Repeater.js](https://github.com/repeaterjs/repeater) - Missing constructor for creating safe async iterators.
 - [pattern-select](https://github.com/fatih-erikli/pattern-select) - Simple pattern matching in Typescript. ([Article](https://fatih-erikli.com/pattern-matching-in-typescript.html))
 - [scanner](https://github.com/101arrowz/scanner) - Document scanning from scratch.
+- [penpal](https://github.com/Aaronius/penpal) - Promise-based library for securely communicating with iframes via postMessage.
+- [unconfig](https://github.com/antfu/unconfig) - Universal solution for loading configurations.
 
 ## Links
 
@@ -281,3 +283,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-lib-starter](https://github.com/Borrus-sudo/ts-lib-starter) - Finest quality ts-lib-starter with insane defaults.
 - [ts-node-starter](https://github.com/bennycode/ts-node-starter)
 - [structured-types](https://github.com/ccontrols/structured-types) - Collection of libraries using the Typescript Compiler API to generate "structured" type information from jsdoc and typescript files.
+- [typejuice](https://github.com/galvez/typejuice) - Documentation generator for TypeScript Declaration Files inspired by godoc.

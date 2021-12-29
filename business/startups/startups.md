@@ -352,6 +352,8 @@
 - [How to go from being a super hot company to lucky to get acquired in less than 24 months (2021)](https://joefernandez.substack.com/p/how-to-go-from-being-a-super-hot)
 - [CEO’s job](https://twitter.com/anothercohen/status/1475268148207173634)
 - [CEO's job 2](https://twitter.com/theryanking/status/1475122757117653003)
+- [Roam's CEO mistakes (2021)](https://twitter.com/Conaw/status/1476090219321380865)
+- [Deel startup 2021 learnings](https://twitter.com/Bouazizalex/status/1475854552595374083)
 
 ## Images
 

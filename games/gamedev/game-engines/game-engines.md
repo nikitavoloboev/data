@@ -37,7 +37,7 @@
 - [Minetest](https://github.com/minetest/minetest) - Free open-source voxel game engine with easy modding and game creation. ([Web](https://www.minetest.net/))
 - [Crow](https://github.com/lcnr/crow) - Simple pixel perfect 2D rendering engine in Rust. ([Akari - game built with Crow](https://github.com/lcnr/akari))
 - [Defold](https://defold.com/) - Ultimate game engine for web and mobile. ([Code](https://github.com/defold/defold)) ([HN](https://news.ycombinator.com/item?id=23232648)) ([Learn](https://defold.com/learn/))
-- [Grid](https://github.com/Planimeter/grid-sdk) - Game engine for Lua. Designed for multiplayer-first game experiences. ([Web](https://www.planimeter.org/grid-sdk/)) ([HN](https://news.ycombinator.com/item?id=23449224))
+- [Grid](https://github.com/Planimeter/grid-sdk) - Game engine for Lua. Designed for multiplayer-first game experiences. ([Web](https://www.planimeter.org/grid-sdk/)) ([HN](https://news.ycombinator.com/item?id=23449224)) ([Discord](https://discord.gg/eK27SbG2wG))
 - [lgameframework](https://github.com/Planimeter/lgf) - Game development framework for Lua.
 - [Rizz](https://github.com/septag/rizz) - Tiny, multi-platform, and minimal game/app development framework, Written in C language.
 - [Spartan Engine](https://github.com/PanosK92/SpartanEngine) - Game engine with an emphasis on architectual quality and performance.
@@ -125,3 +125,5 @@
 - [How to make your own game engine (and why) (2021)](https://medium.com/@tglaiel/how-to-make-your-own-game-engine-and-why-ddf0acbc5f3)
 - [GitHub Collection: Game Engines](https://github.com/collections/game-engines) ([Reddit](https://www.reddit.com/r/gamedev/comments/qtwae3/githubs_collection_of_opensource_game_engines/))
 - [What interesting things are people making using a game engine that's not actually a game?](https://www.reddit.com/r/gamedev/comments/rpk7uh/what_interesting_things_are_people_making_using_a/)
+- [Game Engines as an Art Form — My 8+ Years of Developing and Maintaining My Own Engine (2021)](https://medium.com/@hajimehoshi/game-engines-as-an-art-form-f66c835c0a92)
+- [Game Engine Devs Reddit](https://www.reddit.com/r/gameenginedevs/)

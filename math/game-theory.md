@@ -12,3 +12,5 @@
 - [Game Theory | Open Yale Courses](https://oyc.yale.edu/economics/econ-159)
 - [Game theory as an engine for large-scale data analysis (2021)](https://deepmind.com/blog/article/EigenGame) ([HN](https://news.ycombinator.com/item?id=27103333))
 - [Game Theory Through Examples](https://www.maa.org/sites/default/files/pdf/ebooks/GTE_sample.pdf)
+- [Game Theory Cheat Sheet](https://github.com/cheat-sheets/game-theory-cheat-sheet)
+- [Game Gym](https://github.com/gavento/gamegym) - Game theory framework with examples and algorithms.

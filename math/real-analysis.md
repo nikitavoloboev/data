@@ -18,3 +18,4 @@
 - [Analysis I Cheat Sheet (2020)](https://rethinks.org/blog/wn7L93tV8V)
 - [Complex Functions | Chapter 1 Introduction to Complex Analysis (2021)](https://www.youtube.com/watch?v=w-U6yeu1FtU)
 - [Solving math exercises live (Tao’s Analysis I, Exercises 3.5.4, 3.5.5 and 3.5.6)](https://www.youtube.com/watch?v=zqhvq3Xy2O8)
+- [Numerical Analysis I Course](https://github.com/MikaelSlevinsky/MATH2160)

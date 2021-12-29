@@ -14,6 +14,7 @@
 - [Twitter stops being fun after a certain number of followers because you can’t tweet anything without a barrage of opinions/projections.](https://twitter.com/notdanilu/status/1378770853169627137)
 - [Twitter is a lot like prison. The best move on your first day is to pick a fight with the biggest account on here.](https://twitter.com/nikitabier/status/1391049141124427782)
 - [Each day on twitter there is one main character. The goal is to never be it.](https://twitter.com/maplecocaine/status/1080665226410889217)
+- [How to become a tech twitter influencer in five easy steps: 1. be relatable 2. keep a regular posting schedule 3. engage with your followers 4. go on podcasts!](https://twitter.com/ctrlshifti/status/1476086483245101056)
 
 ## Links
 

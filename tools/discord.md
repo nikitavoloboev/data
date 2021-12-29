@@ -28,9 +28,11 @@
 - [Next.js Discord Bot](https://github.com/vercel/nextjs-discord-bot)
 - [ArtBot](https://github.com/ArtBlocks/artbot) - Discord bot for ArtBlocks.
 - [DNS over Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 DNS resolver built for Discord.
+- [ClemBot](https://github.com/ClemBotProject/ClemBot) - Discord bot for server management with an emphasis on modularity and configuration.
 
 ## Libraries
 
+- [Slshx](https://github.com/mrbbot/slshx) - Strongly-typed Discord commands on Cloudflare Workers.
 - [Harmony](https://github.com/harmonyland/harmony) - Easy to use Discord API Library for Deno.
 - [Songbird](https://github.com/serenity-rs/songbird) - Async Rust library for the Discord voice API.
 - [Discord Rust](https://github.com/twilight-rs/twilight)

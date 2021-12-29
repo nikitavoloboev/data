@@ -267,3 +267,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [s3-server](https://github.com/datenlord/s3-server) - Generic S3 server implementation.
 - [What should AWS focus on (2021)](https://twitter.com/jeremy_daly/status/1474110290874753030)
 - [s3gof3r](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI.
+- [AWS Well-Architected Labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices. ([Web](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc))
+- [aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.

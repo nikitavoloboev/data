@@ -180,7 +180,7 @@
 - [Lobsters: The happy state of (2020)](https://lobste.rs/s/3wknua/happy_state)
 - [Worse Is Better](https://www.dreamsongs.com/WorseIsBetter.html)
 - [Ask HN: How to rediscover the joy of programming? (2020)](https://news.ycombinator.com/item?id=22860682)
-- [Malleable Systems: Software must be as easy to change as it is to use it](https://malleable.systems/) ([HN](https://news.ycombinator.com/item?id=22857551))
+- [Malleable Systems: Software must be as easy to change as it is to use it](https://malleable.systems/) ([HN](https://news.ycombinator.com/item?id=22857551)) ([Web Code](https://github.com/malleable-systems/malleable.systems))
 - [Learn With Jason](https://www.learnwithjason.dev/) - Live show streamed where Jason pair programs for 90 min to learn something new.
 - [How to Design Programs](https://htdp.org/) - Introduction to programming and computing. ([Book](https://htdp.org/2018-01-06/Book/)) ([Code](https://github.com/kskyten/htdp-solutions))
 - [JetBrains Academy](https://www.jetbrains.com/academy/) - Learn to Program by Creating Working Applications.

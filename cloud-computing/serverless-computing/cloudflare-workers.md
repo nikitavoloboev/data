@@ -121,3 +121,5 @@
 - [Durable Objects REST Message Queue Example](https://github.com/ryan-mars/workers-queue-demo)
 - [helix-flare](https://github.com/launchport/helix-flare) - GraphQL for your Cloudflare Workers and Durable Objects.
 - [Turborepo Remote Cache API with Cloudflare KV](https://github.com/msutkowski/turborepo-remote-cache-api-cf-kv)
+- [Hono](https://github.com/yusukebe/hono) - Tiny web framework for Cloudflare Workers and Fastly Compute@Edge.
+- [turborcache](https://github.com/cometkim/turbocache) - Cloudflare Workers as a custom remote cache for Turborepo.

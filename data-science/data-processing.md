@@ -70,3 +70,5 @@
 - [Memgraph](https://github.com/memgraph/memgraph) - Build modern, graph-based applications on top of your streaming data in minutes. ([Web](https://memgraph.com/))
 - [Apache Parquetv](https://parquet.apache.org/) - Columnar storage format that supports nested data. ([Code](https://github.com/apache/parquet-format))
 - [Data Pipelines Pocket Reference Book (2021)](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/) ([Code](https://github.com/jamesdensmore/datapipelinesbook))
+- [miniwdl](https://github.com/chanzuckerberg/miniwdl) - Workflow Description Language developer tools & local runner.
+- [Rain](https://github.com/substantic/rain) - Framework for large distributed pipelines.

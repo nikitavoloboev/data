@@ -100,3 +100,4 @@
 - [GC Progress from Java 8 to 17 (2021)](https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html) ([HN](https://news.ycombinator.com/item?id=29330109))
 - [GraalVM Demos](https://github.com/graalvm/graalvm-demos)
 - [yvm](https://github.com/kelthuzadx/yvm) - Low performance garbage-collectable JVM.
+- [fbjni](https://github.com/facebookincubator/fbjni) - Library designed to simplify the usage of the Java Native Interface.

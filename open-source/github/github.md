@@ -331,3 +331,4 @@ Awesome List
 - [gh-sql](https://github.com/KOBA789/gh-sql) - Query GitHub Projects with SQL.
 - [DAG](https://github.com/devmatteini/dag) - Download Asset from GitHub releases.
 - [rget](https://github.com/orisano/rget) - Parallel downloader for GitHub release.
+- [Github Stats](https://github.com/mre/gh-stats) - Async command-line tool for retrieving the stars of all your Github projects.

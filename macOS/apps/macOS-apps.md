@@ -119,6 +119,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Ultra for Music](https://github.com/revblaze/AppleMusicUltra) - Music Client for macOS.
 - [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS application to create configuration profiles.
 - [Knuff](https://github.com/KnuffApp/Knuff) - Debug application for Apple Push Notification Service (APNs).
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - TinyPNG client for Mac.
 
 ## Other interesting apps
 
@@ -201,3 +202,5 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Swift Bundler](https://github.com/stackotter/swift-bundler) - Create macOS apps with Swift packages instead of Xcode projects.
 - [Why aren't the most useful Mac apps on the App Store? (2021)](https://alinpanaitiu.com/blog/apps-outside-app-store/) ([Lobsters](https://lobste.rs/s/x9k6uc/why_aren_t_most_useful_mac_apps_on_app_store))
 - [Apple Notes Export Tools](https://github.com/dunhamsteve/notesutils)
+- [CatalystEffectViewChrome](https://github.com/steventroughtonsmith/CatalystEffectViewChrome) - Demonstrates how to insert an NSVisualEffectView to the root of the main window of your Mac Catalyst app.
+- [CommandBar](https://github.com/steventroughtonsmith/CatalystCommandBar) - Spotlight/'Open Quickly'-style 'command bar' implemented using UIKit/Mac Catalyst.

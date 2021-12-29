@@ -74,3 +74,4 @@
 - [AmgX](https://github.com/NVIDIA/AMGX) - Distributed multigrid linear solver library on GPU.
 - [GPU Accelerated Non-rigid ICP for surface registration](https://github.com/wuhaozhe/pytorch-nicp)
 - [Ricks-Lab GPU Utilities](https://github.com/Ricks-Lab/gpu-utils) - Set of utilities for monitoring GPU performance and modifying control settings.
+- [Watchmen](https://github.com/Spico197/watchmen) - Simple and easy-to-use toolkit for GPU scheduling.

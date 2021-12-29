@@ -169,3 +169,4 @@
 - [dns-packet](https://github.com/mafintosh/dns-packet) - Abstract-encoding compliant module for encoding / decoding DNS packets.
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) - OCaml implementation of the DNS protocol.
 - [Cloudflare Dynamic DNS](https://github.com/hugomd/cloudflare-ddns) - Updates a given a DNS record with your current IP.
+- [dns2](https://github.com/song940/node-dns) - DNS Server and Client Implementation in Pure JavaScript with no dependencies.

@@ -22,3 +22,4 @@
 - [Ansible Language Server](https://github.com/ansible/ansible-language-server)
 - [AWX](https://github.com/ansible/awx) - Web-based user interface, REST API, and task engine built on top of Ansible.
 - [Ansible Examples](https://github.com/ansible/ansible-examples)
+- [ansible-bender](https://github.com/ansible-community/ansible-bender) - Tool which bends containers using Ansible playbooks and turns them into container images.

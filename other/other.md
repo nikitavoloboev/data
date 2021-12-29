@@ -580,3 +580,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: Have you found something you love to do? If yes how? (2021)](https://news.ycombinator.com/item?id=29685021)
 - [Practical Markup Language (PML)](https://www.pml-lang.dev/index.html)
 - [The Best Things and Stuff of 2021](http://blog.fogus.me/2021/12/27/the-best-things-and-stuff-of-2021/) ([HN](https://news.ycombinator.com/item?id=29702698))
+- [What are some simple ways you can make yourself more attractive? (2021)](https://www.reddit.com/r/AskMen/comments/rqntta/what_are_some_simple_ways_you_can_make_yourself/)

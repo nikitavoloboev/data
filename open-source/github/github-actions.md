@@ -244,6 +244,7 @@
 ## Java
 
 - [setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java.
+- [gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute a Gradle Build in your Github Actions workflow.
 
 ## Racket
 

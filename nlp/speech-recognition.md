@@ -90,3 +90,4 @@
 - [k2](https://github.com/k2-fsa/k2) - FSA/FST algorithms, differentiable, with PyTorch compatibility.
 - [ViSQOL (Virtual Speech Quality Objective Listener)](https://github.com/google/visqol) - Objective, full-reference metric for perceived audio quality.
 - [Espresso](https://github.com/freewym/espresso) - Fast End-to-End Neural Speech Recognition Toolkit.
+- [UniSpeech - Large Scale Self-Supervised Learning for Speech](https://github.com/microsoft/UniSpeech)

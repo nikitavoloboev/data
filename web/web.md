@@ -311,7 +311,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Local Storage vs Cookies](https://stackoverflow.com/questions/3220660/local-storage-vs-cookies)
 - [Web Test Runner](https://modern-web.dev/docs/test-runner/overview/) - Test runner for web applications.
 - [Display Locking API](https://github.com/WICG/display-locking) - Umbrella term of related features designed primarily to allow developers to increase performance of their sites.
-- [Have Single-Page Apps Ruined the Web? | Transitional Apps with Rich Harris, NYTimes (2021)](https://www.youtube.com/watch?v=860d8usGC0o) ([Tweet](https://twitter.com/rich_harris/status/1446601175197880325?s=28))
+- [Have Single-Page Apps Ruined the Web? | Transitional Apps with Rich Harris, NYTimes (2021)](https://www.youtube.com/watch?v=860d8usGC0o) ([Tweet](https://twitter.com/rich_harris/status/1446601175197880325?s=28)) ([Response](https://htmx.org/essays/a-response-to-rich-harris/)) ([HN](https://news.ycombinator.com/item?id=29693571))
 - [Reading from the web offline and distraction-free - Unladen swallow (2021)](https://blog.owulveryck.info/2021/10/07/reading-from-the-web-offline-and-distraction-free.html) ([Code](https://github.com/owulveryck/rePocketable))
 - [I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021) ([HN](https://news.ycombinator.com/item?id=28818829))
 - [Дока](https://doka.guide/) - Документация для разработчиков на человеческом языке. ([Content Code](https://github.com/doka-guide/content)) ([Tweet](https://twitter.com/ABatickaya/status/1447955564068286464)) ([Интервью про doka.guide / Ник Лопин](https://www.youtube.com/watch?v=KNgSZzvCEKo)) ([Platform Code](https://github.com/doka-guide/platform))

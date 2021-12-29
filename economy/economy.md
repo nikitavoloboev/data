@@ -124,3 +124,4 @@
 - [Make Ticker Tape Parades Great Again: A Conversation with Peter Thiel (2021)](https://www.youtube.com/watch?v=GVGLR0K3rX8)
 - [Visualizing the $94 Trillion World Economy in One Chart (2021)](https://www.visualcapitalist.com/visualizing-the-94-trillion-world-economy-in-one-chart/)
 - [IndexMundi](https://www.indexmundi.com/) - Detailed country statistics, charts, and maps compiled from multiple sources.
+- [“Play-to-Earn” and Bullshit Jobs (2021)](https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/) ([HN](https://news.ycombinator.com/item?id=29716900))

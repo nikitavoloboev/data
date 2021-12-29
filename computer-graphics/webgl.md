@@ -82,3 +82,4 @@
 - [Canvas2DtoWebGL.js](https://github.com/jagenjo/Canvas2DtoWebGL) - Ports (almost) all Canvas2D functions to the GPU so it can be mixed with a WebGL canvas.
 - [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 - [W](https://github.com/xem/W) - Micro WebGL2 framework with a ton of features. ([Docs](https://xem.github.io/W/))
+- [WebGL + Rust: Basic Water Tutorial (2019)](https://chinedufn.com/3d-webgl-basic-water-tutorial/) ([Code](https://github.com/chinedufn/webgl-water-tutorial))

@@ -97,3 +97,5 @@
 - [mollusc](https://github.com/woodruffw/mollusc) - Pure-Rust libraries for parsing, interpreting, and analyzing LLVM.
 - [“LLVM-Libc” C Standard Library](https://llvm.org/docs/Proposals/LLVMLibC.html) ([HN](https://news.ycombinator.com/item?id=29447533))
 - [llvm-deno](https://github.com/littledivy/llvm-deno) - LLVM bindings for Deno.
+- [Building an Operating System from Scratch with LLVM (2021)](https://www.youtube.com/watch?v=DYaqzEbU0Vk)
+- [Pedigree](https://github.com/compor/Pedigree) - LLVM dependence graphs.

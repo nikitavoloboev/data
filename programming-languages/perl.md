@@ -39,3 +39,4 @@
 - [Rakudo](https://github.com/rakudo/rakudo) - Raku on MoarVM, JVM, and JS. Most mature, production-ready implementation of the Raku language. ([Web](https://rakudo.org/))
 - [mi6](https://github.com/skaji/mi6) - Minimal authoring tool for Raku.
 - [Self-contained, portable perl binaries](https://github.com/skaji/relocatable-perl)
+- [Avoid Yoda conditions in Perl you should (2021)](https://phoenixtrap.com/2021/12/28/avoid-yoda-conditions-in-perl-you-should/) ([Lobsters](https://lobste.rs/s/ndnnvf/avoid_yoda_conditions_perl_you_should))

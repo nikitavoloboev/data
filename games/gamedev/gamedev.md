@@ -220,3 +220,4 @@
 - [Procedural storytelling is exploding the possibilities of video game narratives (2021)](https://www.theverge.com/2021/11/30/22807568/procedural-storytelling-video-games-dwarf-fortress-wildermyth-blaseball)
 - [Gamedev/Code/Physics Resources](https://www.david-colson.com/resources.html)
 - [GameDev Reddit Wiki](https://www.reddit.com/r/gamedev/wiki/index)
+- [The Making of Games Reddit](https://www.reddit.com/r/TheMakingOfGames/)

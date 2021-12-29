@@ -64,3 +64,4 @@
 - [MetaGraph](https://github.com/ratschlab/metagraph) - Tool for scalable construction of annotated genome graphs and sequence-to-graph alignment.
 - [SNAP (Scalable Nucleotide Alignment Program)](https://github.com/amplab/snap)
 - [wfmash](https://github.com/ekg/wfmash) - DNA sequence read mapper based on mash distances and the wavefront alignment algorithm.
+- [Sequencing your DNA with a USB dongle and open source code (2021)](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/) ([HN](https://news.ycombinator.com/item?id=29695013))

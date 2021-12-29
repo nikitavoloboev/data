@@ -103,3 +103,5 @@ Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/stat
 - [The Bay Area has become a large declining tech company (2021)](http://www.yared.com/2021/12/the-entire-bay-area-has-become-large.html) ([HN](https://news.ycombinator.com/item?id=29595614))
 - [Is America Really Running Out of Original Ideas? (2021)](https://www.theatlantic.com/ideas/archive/2021/12/america-really-running-out-original-ideas/621055/) ([Tweet](https://twitter.com/DKThomp/status/1472947306634821648))
 - [America Can't Beat Omicron One Booster at a Time (2021)](https://www.theatlantic.com/health/archive/2021/12/america-omicron-variant-surge-booster/621027/) ([Tweet](https://twitter.com/edyong209/status/1474080740094717964))
+- [10 things I love about US](https://twitter.com/amasad/status/1475933656078114817)
+- [The American Dream is on Life Support in the Bay Area (2021)](https://hariraghavan.com/0090c2645d2f4cbda95cc6cdbeec46e3) ([Tweet](https://twitter.com/garrytan/status/1475865310527778823))

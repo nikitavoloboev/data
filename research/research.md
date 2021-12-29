@@ -133,3 +133,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Library Genesis](http://libgen.li/) - File-sharing based shadow library website for scholarly journal articles, academic and general-interest books, images, comics, audiobooks, and magazines. ([Awesome](https://github.com/freereadorg/awesome-libgen))
 - [Writing good research code](https://github.com/patrickmineault/research_code)
 - [The Good Research Code Handbook](https://goodresearch.dev/) ([Code](https://github.com/patrickmineault/codebook))
+- [Hamming, "You and Your Research" (1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw) ([Notes](https://spico197.github.io/posts/2021/09/hamming/))

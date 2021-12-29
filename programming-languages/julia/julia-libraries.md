@@ -133,6 +133,9 @@
 - [CombinatorialSpaces.jl](https://github.com/AlgebraicJulia/CombinatorialSpaces.jl) - Simplicial sets and other combinatorial models of geometric spaces.
 - [PrettyNumbers.jl](https://github.com/ronisbr/PrettyNumbers.jl) - Pretty print numbers in Julia.
 - [ManifoldsBase.jl](https://github.com/JuliaManifolds/ManifoldsBase.jl) - Basic interface for manifolds in Julia.
+- [HypergeometricFunctions.jl](https://github.com/JuliaMath/HypergeometricFunctions.jl) - Julia package for calculating hypergeometric functions.
+- [SingularIntegralEquations.jl](https://github.com/JuliaApproximation/SingularIntegralEquations.jl) - Julia package for solving singular integral equations.
+- [AbstractGPs](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl) - Abstract types and methods for Gaussian Processes.
 
 ## NLP
 

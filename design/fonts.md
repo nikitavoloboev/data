@@ -90,6 +90,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Lora Fonts](https://github.com/cyrealtype/Lora-Cyrillic) - Well-balanced contemporary serif with roots in calligraphy.
 - [Chomsky](https://github.com/ctrlcctrlv/chomsky) - Font in the style of the New York Times masthead.
 - [National Park Typeface](https://nationalparktypeface.com/)
+- [Klee](https://github.com/fontworks-fonts/Klee) - Script font handwritten by pencil or pen.
 
 ## Links
 

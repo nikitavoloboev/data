@@ -192,3 +192,4 @@
 - [Sublime ❤︎ Clojure (2021)](https://tonsky.me/blog/sublime-clojure/) ([HN](https://news.ycombinator.com/item?id=29549392))
 - [Clojure Macros and Metaprogramming](https://clojure-doc.github.io/articles/language/macros/)
 - [Microservices with Clojure (2018)](https://www.packtpub.com/product/microservices-with-clojure/9781788622240) ([Code](https://github.com/PacktPublishing/Microservices-with-Clojure))
+- [Build Clojure app into Container Image using jib (docker-less build)](https://github.com/atomisthq/jibbit)

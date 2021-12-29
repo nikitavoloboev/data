@@ -11,7 +11,7 @@
 
 ## Links
 
-- [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. ([HN](https://news.ycombinator.com/item?id=17522362)) ([HN](https://news.ycombinator.com/item?id=13823979))
 - [What changes when you go offline-first? (2018)](https://speakerdeck.com/ept/what-changes-when-you-go-offline-first)
 - [Ask HN: What should a systems/low-level software engineer know? (2019)](https://news.ycombinator.com/item?id=18881649)
 - [Systems Thinking Speech by Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU)

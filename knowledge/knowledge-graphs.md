@@ -100,3 +100,4 @@
 - [Comunica](https://github.com/comunica/comunica) - Knowledge graph querying framework for JavaScript. ([Web](https://comunica.dev/))
 - [Embedding Multimodal Relational Data for Knowledge Base Completion (2018)](https://arxiv.org/abs/1809.01341) ([Code](https://github.com/pouyapez/mkbe))
 - [Reflections of knowledge: Designing Web APIs for sustainable interactions within decentralized knowledge graph ecosystems (2021)](https://ruben.verborgh.org/blog/2021/12/23/reflections-of-knowledge/)
+- [Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases (2020)](https://aclanthology.org/2020.nli-1.1/)

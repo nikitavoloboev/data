@@ -129,3 +129,4 @@
 - [Equinix Metal Terraform Provider](https://github.com/equinix/terraform-provider-metal)
 - [tfk8s](https://github.com/jrhouston/tfk8s) - Tool for converting Kubernetes YAML manifests to Terraform HCL.
 - [Helm Provider for Terraform](https://github.com/hashicorp/terraform-provider-helm) - Allows you to install and manage Helm Charts in your Kubernetes cluster using Terraform.
+- [Terraform Provider to manage NATS JetStream](https://github.com/nats-io/terraform-provider-jetstream)

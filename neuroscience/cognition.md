@@ -23,3 +23,4 @@
 - [Cognition Without Computation (2021)](https://spectrum.ieee.org/computational-cognitive-science) ([HN](https://news.ycombinator.com/item?id=29029064))
 - [Spiders are much smarter than you think (2021)](https://arstechnica.com/science/2021/10/spiders-are-much-smarter-than-you-think/) ([HN](https://news.ycombinator.com/item?id=29137765))
 - [The Cognitive Bias Codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+- [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/page/tutorial.202108/)

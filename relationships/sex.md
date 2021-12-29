@@ -83,3 +83,5 @@
 - [Power imbalances and sex (2016)](https://knowingless.com/2016/08/21/power-imbalances-and-sex/) ([HN](https://news.ycombinator.com/item?id=29580854))
 - [What sexual bucket list item lived up to expectations?](https://www.reddit.com/r/AskMen/comments/rifg7s/what_sexual_bucket_list_item_lived_up_to/)
 - [One thing you learned about relationships/sex you wish you knew sooner](https://www.reddit.com/r/AskWomen/comments/rp8y8n/what_is_the_one_thing_you_learned_about/)
+- [What are your best "Sexual Mechanics" tricks?](https://www.reddit.com/r/sexover30/comments/rpcs0p/what_are_your_best_sexual_mechanics_tricks/)
+- [Stronger orgasm resources](https://www.reddit.com/r/sexover30/comments/rqngdl/stronger_orgasm_resources_whats_worked_for_you_id/)

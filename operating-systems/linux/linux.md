@@ -27,6 +27,7 @@
 - [Chimera Linux](https://chimera-linux.org/) - Linux distribution based on FreeBSD userland and LLVM. ([HN](https://news.ycombinator.com/item?id=27721283))
 - [CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances.
 - [Iglunix](https://iglunix.xyz/) - Linux (and other kernels) distro with no GNU components.
+- [GoboLinux](https://gobolinux.org/) - Redefining Linux filesystem hierarchy. ([HN](https://news.ycombinator.com/item?id=29714825))
 
 ## WM
 
@@ -439,3 +440,4 @@
 - [Drgn: How the Linux kernel team at Facebook debugs the kernel at scale (2021)](https://developers.facebook.com/blog/post/2021/12/09/drgn-how-linux-kernel-team-meta-debugs-kernel-scale/) ([HN](https://news.ycombinator.com/item?id=29537594))
 - [Getting to know memblock (2021)](https://insecuremode.com/post/2021/12/14/getting-to-know-memblock.html)
 - [2021: Year of the Linux Gaming Desktop - Andrew Kelley](https://www.youtube.com/watch?v=pq1XqP4-qOo)
+- [LKRG](https://github.com/lkrg-org/lkrg) - Linux Kernel Runtime Guard. ([Web](https://lkrg.org/))

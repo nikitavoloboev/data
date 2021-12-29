@@ -139,6 +139,8 @@
 - [Polyvinyl](https://github.com/propensive/polyvinyl) - Typesafe record types for Scala.
 - [newtypes](https://github.com/monix/newtypes) - Macro-free helpers for defining newtypes in Scala, cross-compiled to Scala 3.
 - [geny](https://github.com/com-lihaoyi/geny) - Provides the geny.Generator data type, the dual to a scala.Iterator that can ensure resource cleanup.
+- [Breeze](https://github.com/scalanlp/breeze) - Numerical processing library for Scala.
+- [Scala Yaml](https://github.com/VirtusLab/scala-yaml) - Dependency-free library that allows to work with the YAML.
 
 ## Links
 

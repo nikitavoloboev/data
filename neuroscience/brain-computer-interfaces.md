@@ -46,3 +46,4 @@
 - [Low-cost brain computer interface for everyday use (2021)](https://www.researchgate.net/publication/354935534_Low-cost_brain_computer_interface_for_everyday_use) ([HN](https://news.ycombinator.com/item?id=28702983))
 - [Ironbci: Open-Source Brain Computer Interface](https://github.com/Ildaron/ironbci) ([HN](https://news.ycombinator.com/item?id=29192073))
 - [Neuralink and the Brain's Magical Future (2017)](https://waitbutwhy.com/2017/04/neuralink.html)
+- [Experimenting with brain-computer interfaces in JavaScript (2018)](https://medium.com/@devdevcharlie/experimenting-with-brain-computer-interfaces-in-javascript-8d6cb891fda8) ([HN](https://news.ycombinator.com/item?id=29704408))

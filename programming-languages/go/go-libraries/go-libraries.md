@@ -61,6 +61,7 @@
 ## Test
 
 - [is](https://github.com/matryer/is) - Professional lightweight testing mini-framework for Go.
+- [gotest.tools](https://github.com/gotestyourself/gotest.tools) - Collection of packages to augment the go testing package and support common patterns.
 - [go-cmp](https://github.com/google/go-cmp) - Package for equality of Go values.
 - [check](https://github.com/go-check/check) - Rich testing for the Go language.
 - [go-mutetesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code.
@@ -1192,6 +1193,10 @@
 - [xz](https://github.com/ulikunitz/xz) - Pure Go package for reading and writing xz-compressed files.
 - [i18n](https://github.com/go-i18n/i18n) - Internationalization and localization for your Go applications.
 - [LMSTFY](https://github.com/bitleak/lmstfy) - Implements task queue in Go which based on Redis storage.
+- [gexe](https://github.com/vladimirvivien/gexe) - Script-like OS interaction wrapped in the security and type safety of the Go programming language.
+- [gotextdiff](https://github.com/hexops/gotextdiff) - Unified text diffing in Go.
+- [lingua-go](https://github.com/pemistahl/lingua-go) - Most accurate natural language detection library in the Go ecosystem, suitable for long and short text alike.
+- [clipboard](https://github.com/golang-design/clipboard) - Cross platform (macOS/Linux/Windows/Android/iOS) clipboard package in Go.
 
 ## Links
 
@@ -1227,3 +1232,4 @@
 - [go-structurizr](https://github.com/krzysztofreczek/go-structurizr) - Library for auto-generating C4 diagrams from Golang applications.
 - [modvendor](https://github.com/goware/modvendor) - Auxiliary vendoring tool for Go's new go.mod.
 - [interfaces](https://github.com/rjeczalik/interfaces) - Code generation tools for Go's interfaces.
+- [A Closer Look at Go’s sync Package (2019)](https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a)

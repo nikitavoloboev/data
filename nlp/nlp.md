@@ -430,3 +430,11 @@
 - [Improving Language Models by Retrieving from Trillions of Tokens (2021)](https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens)
 - [Open Information Extraction (OIE) Resources](https://github.com/gkiril/oie-resources)
 - [Deeper Text Understanding for IR with Contextual Neural Language Modeling (2019)](https://arxiv.org/abs/1905.09217v1) ([Code](https://github.com/AdeDZY/SIGIR19-BERT-IR))
+- [x-clip](https://github.com/lucidrains/x-clip) - Concise but complete implementation of CLIP with various experimental improvements from recent papers.
+- [Calamity](https://github.com/thesephist/calamity) - Self-hosted GPT playground.
+- [VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation (2021)](https://aclanthology.org/2021.acl-long.80/) ([Code](https://github.com/facebookresearch/voxpopuli))
+- [Transactions of the Association for Computational Linguistics (2021)](https://aclanthology.org/events/tacl-2021/) ([Code](https://github.com/HelloRusk/entity-related-papers))
+- [DocEE](https://github.com/Spico197/DocEE) - Toolkit for document-level event extraction, containing some SOTA model implementations.
+- [Autoregressive Entity Retrieval (2020)](https://arxiv.org/abs/2010.00904)
+- [Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation (2020)](https://arxiv.org/abs/2004.07672)
+- [A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition (2021)](https://arxiv.org/abs/2106.14373)

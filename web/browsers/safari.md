@@ -58,3 +58,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Safari Extensions for iOS and iPadOS 15: A Roundup of Our Favorites (2021)](https://www.macstories.net/stories/safari-extensions-for-ios-and-ipados-15-a-roundup-of-our-favorites/)
 - [New WebKit Features in Safari 15 (2021)](https://webkit.org/blog/11989/new-webkit-features-in-safari-15/)
 - [Userscripts Safari](https://github.com/quoid/userscripts) - Open-source userscript editor for Safari. ([Web](https://quoid.github.io/userscripts/))
+- [Stay](https://github.com/shenruisi/Stay/blob/main/README-EN.md) - Local userscript manager for Safari on iOS.

@@ -94,3 +94,5 @@
 - [Things you wish Vue docs explained better (2021)](https://twitter.com/youyuxi/status/1466065644487528449)
 - [Create a GraphQL Powered Vue 3 Application (2021)](https://egghead.io/courses/create-a-graphql-powered-vue-3-application-8152749d)
 - [nuxt-delay-hydration](https://github.com/harlan-zw/nuxt-delay-hydration) - Improve your Nuxt.js Google Lighthouse score by delaying hydration.
+- [Harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3. ([Docs](https://harlemjs.com/guide/introduction/getting-started.html#installation))
+- [Vuetiful](https://github.com/andrewcourtice/vuetiful) - Component framework written on top of the Vue reactive library.

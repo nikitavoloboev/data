@@ -96,6 +96,7 @@
 - [Apple News API Client](https://github.com/Robert-Fairley/apple-news-client)
 - [Digital Ocean Go](https://github.com/digitalocean/godo) - Go client library for accessing the DigitalOcean V2 API.
 - [Digital Ocean Python](https://github.com/koalalorenzo/python-digitalocean)
+- [WhatsApp TS](https://github.com/adiwajshing/Baileys)
 - [WhatsApp Go](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API.
 - [Facebook Graph API SDK Go](https://github.com/huandu/facebook)
 - [Trello Go](https://github.com/adlio/trello) - Trello API wrapper for Go.

@@ -136,6 +136,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Crash Course Category Theory Notes/Resources](http://jacobzelko.com/C3T/) ([Code](https://github.com/TheCedarPrince/C3T)) ([HN](https://news.ycombinator.com/item?id=29640873))
 - [Evan Patterson: Realizing Applied Category Theory in Julia (2020)](https://www.youtube.com/watch?v=7dmrDYQh4rc)
 - [Category Theory by Example (2021)](https://github.com/CatTheoryByExample/book/blob/master/cattheory.pdf)
+- [NASA's Category Theory Resources](https://www.nasa.gov/consortium/CategoryTheory) ([Tweet](https://twitter.com/cbarrett/status/1475620079987474432))
 
 ## Images
 

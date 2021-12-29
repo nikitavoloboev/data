@@ -34,3 +34,4 @@
 - [Rustfst](https://github.com/Garvys/rustfst) - Library for constructing, combining, optimizing, and searching weighted finite-state transducers (FSTs).
 - [Scdlang](https://github.com/DrSensor/scdlang) - State chart Description Language.
 - [State Machine Testing](https://github.com/qfpl/state-machine-testing-course) - Course for learning how to apply property-based state-machine testing.
+- [LaTeX Finite Automata and State Diagrams with Tikz](https://hayesall.com/blog/latex-automata/) ([HN](https://news.ycombinator.com/item?id=29721787))

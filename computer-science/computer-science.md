@@ -165,3 +165,4 @@
 - [Ask HN: Books Similar to Code by Charlse Petzold? (2021)](https://news.ycombinator.com/item?id=29522588)
 - [Fifty Years of P vs. NP and the Possibility of the Impossible (2021)](https://cacm.acm.org/magazines/2022/1/257448-fifty-years-of-p-vs-np-and-the-possibility-of-the-impossible/fulltext)
 - [The Most Powerful Computers You've Never Heard Of (2021)](https://www.youtube.com/watch?v=IgF3OX8nT0w) ([HN](https://news.ycombinator.com/item?id=29645610))
+- [The Year in Math and Computer Science (2021)](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/) ([Video](https://www.youtube.com/watch?v=9uASADiYe_8&t=1s))

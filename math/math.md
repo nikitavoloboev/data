@@ -327,3 +327,4 @@
 - [MathLingua](https://www.mathlingua.org/#/content/10_Introduction.math) - Language to create precise, automatically analyzed, beautifully rendered, collections of mathematical knowledge. ([HN](https://news.ycombinator.com/item?id=29419039))
 - [On Induction (2021)](https://amelia.how/posts/on-induction.html)
 - [Quaternions (2021)](https://liorsinai.github.io/mathematics/2021/11/05/quaternion-1-intro.html) ([HN](https://news.ycombinator.com/item?id=29510237))
+- [Algebra Notes](https://github.com/NicoCourts/Algebra)

@@ -575,3 +575,6 @@
 - [1 Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [Crane](https://github.com/gocrane/crane) - Manages cloud resource on Kubernetes stack.
 - [Otomi](https://github.com/redkubes/otomi-core) - GitOps powered K8s app stack with developer self-service. ([Docs](https://otomi.io/docs/installation/))
+- [Havener](https://github.com/homeport/havener) - Swiss army knife for Kubernetes tasks.
+- [ktop](https://github.com/vladimirvivien/ktop) - top-like tool for your Kubernetes clusters.
+- [k8svent](https://github.com/atomist/k8svent) - Send Kubernetes pods as JSON to webhook endpoints.

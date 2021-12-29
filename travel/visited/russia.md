@@ -47,6 +47,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Россия перешла в привычный режим "осажденной крепости" и будет так жить еще долгие годы, десятилетия. Плевать они хотели на любые рейтинги. У Кремля есть труба и огромный потребительский рынок — это их оружие.](https://twitter.com/adagamov/status/1454480993394561032)
 - [Literally no rule of law (constitution) in Russia. Anyone can go to jail for anything if government wants it.](https://twitter.com/YLatynina/status/1458771869646176258)
 - [Новое модное молодёжное движение известное как права человека.](https://twitter.com/_de1337ed/status/1464870544961064963)
+- [Russia Allows Police to Search Homes, Cars Without Warrants](https://www.reddit.com/r/worldnews/comments/rlnonm/russia_allows_police_to_search_homes_cars_without/)
 
 ## Links
 
@@ -391,3 +392,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Moscow | Financial Times](https://www.ft.com/stream/d9ee1f26-86f4-3db2-8869-931fb0fa5d3c)
 - [Путеводитель по российскому пьянству (2021)](https://www.agents.media/alkogolizm-statistika/)
 - [Федеральная налоговая служба](https://www.nalog.gov.ru/rn77/)
+- [Russia behind bars: the peculiarities of the Russian prison system (2019)](https://www.osw.waw.pl/en/publikacje/osw-commentary/2019-02-07/russia-behind-bars-peculiarities-russian-prison-system)
+- [OSW Centre for Eastern Studies](https://www.osw.waw.pl/en)
+- [Russia in 2021: The Year in Photos](https://www.themoscowtimes.com/2021/12/27/russia-in-2021-the-year-in-photos-a75795)
+- [Минусы Москвы. Почему я уезжаю спустя два года (2021)](https://www.youtube.com/watch?v=MIC_C1zX8Q0)

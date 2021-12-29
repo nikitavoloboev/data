@@ -61,3 +61,4 @@
 - [Deepchecks](https://github.com/deepchecks/deepchecks) - Python package for comprehensively validating your machine learning models and data with minimal effort.
 - [Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer) - Automatic ML model optimization tool.
 - [runx](https://github.com/NVIDIA/runx) - Deep Learning Experiment Management.
+- [ML Console](https://mlconsole.com/) - Web app to train ML models, for free and client-side. ([HN](https://news.ycombinator.com/item?id=29716738))

@@ -59,3 +59,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [TorchDrug](https://github.com/DeepGraphLearning/torchdrug) - PyTorch-based machine learning toolbox designed for several purposes. ([Web](https://torchdrug.ai/))
 - [Мефедрон - окно в мир психических расстройств (2021)](https://www.youtube.com/watch?v=A8JfrnJQVTI)
 - [ChemicalX](https://github.com/AstraZeneca/chemicalx) - PyTorch based deep learning library for drug-drug interaction, polypharmacy side effect and synergy prediction.
+- [Dopesick Series](https://trakt.tv/shows/dopesick)

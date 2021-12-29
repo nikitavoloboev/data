@@ -100,3 +100,4 @@
 - [There’s no such thing as a tree (phylogenetically)](https://eukaryotewritesblog.com/2021/05/02/) ([HN](https://news.ycombinator.com/item?id=29621646))
 - [OneZoom Tree of Life Explorer](https://www.onezoom.org/)
 - [SynBioHub](https://github.com/SynBioHub/synbiohub) - Web application enabling users and software to browse, upload, and share synthetic biology designs. ([Docs](https://wiki.synbiohub.org/))
+- [The Year in Biology (2021)](https://www.quantamagazine.org/the-year-in-biology-20211221/) ([Video](https://www.youtube.com/watch?v=1tOx_Vh5diE))

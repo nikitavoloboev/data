@@ -26,3 +26,4 @@
 - [N-acetyl cysteine (NAC) and MDMA's magic](https://www.reddit.com/r/MDMA/comments/fzgb10/nacetyl_cysteine_nac_and_mdmas_magic_pt5/)
 - [MDMA reopens child-like “critical periods” in the brain (2021)](https://www.analyticalcannabis.com/articles/mdma-reopens-child-like-critical-periods-in-the-brain-to-promote-mental-healing-313357) ([HN](https://news.ycombinator.com/item?id=28467634))
 - [Trust Surrender Receive: How MDMA Can Release Us From Trauma and PTSD by Anne Other (2017)](https://www.goodreads.com/book/show/36234395-trust-surrender-receive)
+- [A Manual for MDMA-Assisted Psychotherapy in the Treatment of Posttraumatic Stress Disorder](https://s3-us-west-1.amazonaws.com/mapscontent/research-archive/published/MDMA-Assisted_Psychotherapy_Treatment_Manual_Version_6_FINAL.pdf)

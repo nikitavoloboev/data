@@ -503,3 +503,4 @@
 - [SLIP: Self-supervision meets Language-Image Pre-training (2021)](https://arxiv.org/abs/2112.12750) ([Code](https://github.com/facebookresearch/SLIP))
 - [General Facial Representation Learning in a Visual-Linguistic Manner (2021)](https://arxiv.org/abs/2112.03109) ([Code](https://github.com/microsoft/FaRL))
 - [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/) ([Code](https://github.com/google/hypernerf)) ([HN](https://news.ycombinator.com/item?id=29698276))
+- [Learning to Regress Bodies from Images using Differentiable Semantic Rendering (2021)](https://arxiv.org/abs/2110.03480) ([Code](https://github.com/saidwivedi/DSR))

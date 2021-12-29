@@ -36,3 +36,4 @@
 - [Cat meow sounds visualized with Auto-Correlation Function](https://soundshader.github.io/cats.html) ([HN](https://news.ycombinator.com/item?id=29501359))
 - [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 - [SoX](https://github.com/chirlu/sox) - Swiss Army knife of sound processing.
+- [Making sounds using SDL and visualizing them on a simulated oscilloscope (2021)](http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html)

@@ -133,3 +133,4 @@
 - [Deployment from Scratch](https://deploymentfromscratch.com/) - Complete guide to web application deployment. ([HN](https://news.ycombinator.com/item?id=29540808))
 - [Awesome Event IDs](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
 - [Cloudkeeper](https://github.com/someengineering/cloudkeeper) - “housekeeping for clouds” - find leaky resources, manage quota limits, detect drift and clean up.
+- [Atomist](https://atomist.com/) - Keep Your Containerized Applications Safe. ([GitHub](https://github.com/atomist))

@@ -46,6 +46,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Freeciv-Web](https://www.freecivweb.org/) - Open source turn-based strategy game. ([HN](https://news.ycombinator.com/item?id=27614434))
 - [Puzzle Panda](https://puzzlepanda.com/) - Play Jigsaw Puzzles Online. ([HN](https://news.ycombinator.com/item?id=29218401))
 - [Pokémon Showdown](https://pokemonshowdown.com/) - Pokémon battle simulator. ([Code](https://github.com/smogon/pokemon-showdown))
+- [Prince of Persia in JavaScript](https://princejs.com/) ([HN](https://news.ycombinator.com/item?id=29710538)) ([Code](https://github.com/oklemenz/PrinceJS))
 
 ## Awesome OSS games
 
@@ -137,6 +138,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Hades](https://store.steampowered.com/app/1145360/Hades/) ([Tweet](https://twitter.com/notdetails/status/1323022661698682881))
 - [Disco Elysium](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/) ([Tweet](https://twitter.com/andreysitnik/status/1380098420598276103))
 - [I Have No Mouth, and I Must Scream](https://www.filfre.net/2021/10/i-have-no-mouth-and-i-must-scream/) ([HN](https://news.ycombinator.com/item?id=28958140))
+- [Little Kitty, Big City](https://www.littlekittybigcity.com/)
 
 ## Other
 

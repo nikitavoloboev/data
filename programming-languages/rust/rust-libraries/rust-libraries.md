@@ -1253,6 +1253,11 @@
 - [DateTime](https://github.com/notquiteamonad/date_time) - High-Level Date and Time for Rust.
 - [futures-batch](https://github.com/mre/futures-batch) - Adaptor that chunks up completed futures in a stream and flushes them after a timeout or when the buffer is full.
 - [SeqLock](https://github.com/Amanieu/seqlock) - Reader-writer lock that provides extremely fast read access without starving writers.
+- [nanorand](https://github.com/Absolucy/nanorand-rs) - Tiny, fast, zero-dep library for random number generation.
+- [const-concat](https://github.com/Vurich/const-concat) - Const string concatenation.
+- [eos](https://github.com/Rapptz/eos) - Simple and easy to use datetime library for Rust.
+- [acacia](https://github.com/edibopp/acacia) - Spatial tree library written in Rust.
+- [Carboxyl](https://github.com/edibopp/carboxyl) - Functional Reactive Programming library for Rust.
 
 ## Cargo Plugins
 

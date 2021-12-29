@@ -42,3 +42,4 @@
 - [re-flow](https://github.com/Guaranteed-Rate/re-flow) - Library that adds tools for building and executing workflows in re-frame applications.
 - [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) - Leiningen plugin to make ClojureScript development easy.
 - [React prerendering experiments in Clojure(script) land (2021)](https://www.arthurbrrs.me/prerendering-react-clojurescript-land)
+- [Helix](https://github.com/lilactown/helix) - ClojureScript optimized for modern React development.

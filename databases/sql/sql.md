@@ -148,3 +148,5 @@
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [Trino](https://trino.io/) - Distributed SQL query engine for big data. ([Code](https://github.com/trinodb/trino))
 - [Better SQL JOINs (2021)](https://news.ycombinator.com/item?id=29687134)
+- [Running SQL JOINs on multiple CSV files](https://relational-pipes.globalcode.info/v_0/examples-csv-sql-join.xhtml)
+- [PGSpider](https://github.com/pgspider/pgspider) - High-Performance SQL Cluster Engine for distributed big data.

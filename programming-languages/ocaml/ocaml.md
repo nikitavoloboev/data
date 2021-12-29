@@ -106,3 +106,4 @@
 - [How OCaml type checker works -- or what polymorphism and garbage collection have in common](https://okmij.org/ftp/ML/generalization.html)
 - [Minimal implementation of Hindley-Milner's Algorithm J in OCaml](https://github.com/jfecher/algorithm-j)
 - [PR to Merge Multicore OCaml (2021)](https://github.com/ocaml/ocaml/pull/10831) ([HN](https://news.ycombinator.com/item?id=29638152))
+- [Unpragmatic static blog generator in OCaml](https://xhtmlboi.github.io/articles/yocaml.html)

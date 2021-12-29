@@ -70,3 +70,4 @@ Is logical theory of computable functions.
 - [λProlog interpreter](https://github.com/mb64/simple-lambda-prolog)
 - [Simpler, Easier! How to write a simple dependent type checker](http://augustss.blogspot.com/2007/10/simpler-easier-in-recent-paper-simply.html)
 - [Sloe](https://github.com/DrearyLisper/sloe) - Simple functional language based on lambda-calculus.
+- [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc)

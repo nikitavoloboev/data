@@ -254,3 +254,4 @@
 - [snntorch](https://github.com/jeshraghian/snntorch) - Deep and online learning with spiking neural networks in Python.
 - [NVIDIA DALI](https://github.com/NVIDIA/DALI) - GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [MIPLearn](https://github.com/ANL-CEEESA/MIPLearn) - Framework for solving discrete optimization problems using a combination of Mixed-Integer Linear Programming (MIP) and Machine Learning (ML).
+- [tree-math](https://github.com/google/tree-math) - Mathematical operations for JAX pytrees.

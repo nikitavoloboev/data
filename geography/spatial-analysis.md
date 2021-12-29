@@ -123,3 +123,4 @@
 - [Spatial Lookup Web Service](https://github.com/pramsey/geos-lookup) - In-memory reverse geocode backed by GEOS.
 - [rgis](https://github.com/frewsxcv/rgis) - Geospatial data viewer written in Rust.
 - [2021 Map technology in review](https://www.placemark.io/post/2021-map-technology-in-review)
+- [Should you contribute open data to OpenStreetMap? (2021)](https://www.ctrl.blog/entry/re-maps-public-service.html) ([HN](https://news.ycombinator.com/item?id=29713976))

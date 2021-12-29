@@ -241,3 +241,4 @@
 - [WASM Internals](https://a-j.gitbook.io/wasm-experimentation/wasm-internals-1) - Deep dive into the WASM internal structure and behaviour. ([Code](https://github.com/antferdom/wasm_playground))
 - [WASM Component Model design and specification](https://github.com/WebAssembly/component-model)
 - [serde-wasm-bindgen](https://github.com/cloudflare/serde-wasm-bindgen) - Native integration of Serde with wasm-bindgen.
+- [WebAssembly Feature Detection](https://github.com/GoogleChromeLabs/wasm-feature-detect) - Small library to detect which features of WebAssembly are supported.

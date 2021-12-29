@@ -79,3 +79,4 @@
 - [PyTorch Implementation and Explanation of Graph Representation Learning papers: DeepWalk, GCN, GraphSAGE, ChebNet & GAT](https://github.com/dsgiitr/graph_nets)
 - [Exact Combinatorial Optimization with Graph Convolutional Neural Networks (2021)](https://arxiv.org/abs/1906.01629) ([Code](https://github.com/ds4dm/learn2branch))
 - [A Recipe for Training Neural Networks (2019)](http://karpathy.github.io/2019/04/25/recipe/)
+- [GraphSAINT: Graph Sampling Based Inductive Learning Method (2020)](https://openreview.net/forum?id=BJe8pkHFwS) ([Code](https://github.com/GraphSAINT/GraphSAINT))

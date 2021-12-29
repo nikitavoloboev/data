@@ -304,6 +304,7 @@
 - [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++.
 - [ParlayLib](https://github.com/cmuparlay/parlaylib) - Toolkit for Programming Parallel Algorithms on Shared-Memory Multicore Machines.
 - [YACLib](https://github.com/YACLib/YACLib) - C++ library for concurrent tasks execution. ([Docs](https://yaclib.github.io/YACLib/))
+- [triSYCL](https://github.com/triSYCL/triSYCL) - Generic system-wide modern C++ for heterogeneous platforms with SYCL from Khronos Group.
 
 ## Links
 

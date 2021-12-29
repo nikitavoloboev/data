@@ -268,6 +268,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Best fiction book you read this year](https://twitrecos.top/tweets/1472652425806942217) ([Tweet](https://twitter.com/blprnt/status/1474140574643109891))
 - [Ask HN: What's the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
 - [Best comedies you read (2021)](https://www.reddit.com/r/suggestmeabook/comments/rprsrm/best_comedy_youve_read/)
+- [Mind Expanding Books](https://books.vishnuks.com/) ([Code](https://github.com/hackerkid/Mind-Expanding-Books)) ([HN](https://news.ycombinator.com/item?id=29711042))
 
 ## Interesting Prose Books
 

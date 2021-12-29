@@ -136,3 +136,5 @@
 - [Apache Spark Tutorial with Examples](https://sparkbyexamples.com/) - Provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language. ([Code](https://github.com/spark-examples/spark-scala-examples))
 - [Scala and Rust interoperability via JNI (2021)](https://engineering.avast.io/scala-and-rust-interoperability-via-jni/)
 - [Blake3 for scala](https://github.com/kcrypt/scala-blake3) - Highly optimized blake3 implementation for scala, scala-js and scala-native.
+- [Scala Discord](https://discord.com/invite/scala) ([Article](https://www.scala-lang.org/blog/2021/12/21/discord.html)) ([Reddit](https://www.reddit.com/r/scala/comments/rlgmrf/discord_is_scalas_main_chat_platform_now_bye/))
+- [A 10-Minute Introduction to Scala (2018)](https://itnext.io/a-10-minute-introduction-to-scala-d1fed19eb74c)

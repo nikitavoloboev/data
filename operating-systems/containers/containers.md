@@ -169,3 +169,5 @@
 - [The container throttling problem](https://danluu.com/cgroup-throttling/) ([HN](https://news.ycombinator.com/item?id=29612278)) ([HN](https://news.ycombinator.com/item?id=29690769))
 - [OCI Distribution Utility](https://github.com/deitch/ocidist) - Simple CLI for working with OCI distribution images.
 - [Container Storage Interface (CSI) Specification](https://github.com/container-storage-interface/spec)
+- [Container-to-Container Communication (2021)](https://www.miketheman.net/2021/12/28/container-to-container-communication/) ([HN](https://news.ycombinator.com/item?id=29716833))
+- [Containers 101: attach vs. exec - what's the difference? (2021)](https://iximiuz.com/en/posts/containers-101-attach-vs-exec/)

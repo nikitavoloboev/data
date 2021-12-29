@@ -207,3 +207,4 @@
 - [Model Synthesis](https://github.com/merrell42/model-synthesis) - Model synthesis is a technique for generating 2D and 3D shapes from examples. ([Web](https://paulmerrell.org/model-synthesis/))
 - [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). ([Docs](https://docs.pyvista.org/))
 - [How to Draw S-Curved Arrows Between Boxes / Rectangles (2021)](https://dragonman225.js.org/curved-arrows.html) ([HN](https://news.ycombinator.com/item?id=29652139))
+- [A Meta-er-verse (2021)](https://opguides.info/posts/metaverse/)

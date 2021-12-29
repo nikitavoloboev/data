@@ -117,3 +117,4 @@
 - [The Definitive Guide to Celery and Django](https://testdriven.io/courses/django-celery/) ([Code](https://github.com/testdrivenio/django-celery-project))
 - [django-upgrade](https://github.com/adamchainz/django-upgrade) - Automatically upgrade your Django projects.
 - [Integrate Pydantic with Django and Django REST Framework (2021)](https://blog.yezz.me/blog/Integrate-Pydantic-with-Django-and-Django-REST-Framework)
+- [Database-backed Periodic Tasks](https://github.com/celery/django-celery-beat) - Celery Periodic Tasks backed by the Django ORM.

@@ -153,3 +153,4 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [Greening of the Earth mitigates surface warming (2020)](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming) ([HN](https://news.ycombinator.com/item?id=29335646))
 - [Why Carbon Taxes Work (2021)](https://timharford.com/2021/11/why-carbon-taxes-really-work/) ([HN](https://news.ycombinator.com/item?id=29349066))
 - [Three loud climate warning signals (2021)](https://www.axios.com/three-climate-warning-signals-9f930b4e-110a-4225-9eb9-c63a22993b82.html) ([HN](https://news.ycombinator.com/item?id=29552135))
+- [The quest to trap carbon in stone](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/) ([HN](https://news.ycombinator.com/item?id=29717389))

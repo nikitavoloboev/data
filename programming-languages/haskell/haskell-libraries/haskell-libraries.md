@@ -218,6 +218,7 @@
 - [data-category](https://github.com/sjoerdvisscher/data-category) - Library of categories, with categorical constructions on them.
 - [free-functors](https://github.com/sjoerdvisscher/free-functors) - Provides free functors that are adjoint to functors that forget class constraints.
 - [hashtables](https://github.com/gregorycollins/hashtables) - Mutable hash tables for Haskell, in the ST monad.
+- [avail](https://github.com/re-xyr/avail) - Low-overhead effect management for concrete monads.
 
 ## Notes
 
@@ -246,3 +247,4 @@
 - [Haskell Starter-Kit](https://github.com/EncodePanda/haskell-starter-kit)
 - [haskell.nix extra Hackage](https://github.com/ilyakooo0/haskell-nix-extra-hackage) - Tool to use custom forks of Hackage packages with haskell.nix.
 - [init-haskell](https://github.com/masaeedu/init-haskell) - Script for setting up Haskell projects with Nix.
+- [hackage-download](https://github.com/nh2/hackage-download) - Download all of Hackage.

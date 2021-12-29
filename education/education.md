@@ -101,3 +101,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [HN: California moves to recommend delaying algebra to 9th grade statewide (2021)](https://news.ycombinator.com/item?id=29324551)
 - [Courses that should be mandated in school](https://twitter.com/calvin_rosser/status/1474447730680512512)
 - [What’s your unconventional college or career advice? (2021)](https://www.reddit.com/r/slatestarcodex/comments/rp6crb/whats_your_unconventional_college_or_career_advice/)
+- [Lessons from my PhD (2021)](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html) ([Tweet](https://twitter.com/austinzhenley/status/1475595171374972931?s=28))

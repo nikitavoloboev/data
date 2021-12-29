@@ -271,6 +271,7 @@
 - [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - Library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. ([Awesome](https://github.com/antranapp/awesome-tca)) ([Tweet](https://twitter.com/pointfreeco/status/1389614299832741891))
 - [SwiftUI Navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
 - [Swift Composable Presentation](https://github.com/darrarski/swift-composable-presentation) - Navigation helpers for SwiftUI applications build with ComposableArchitecture.
+- [ComposableEnvironment](https://github.com/tgrapperon/swift-composable-environment) - Library to derive and compose Environment's in The Composable Architecture.
 - [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly.
 - [Reactive Swift fork of The Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture) ([The future of The ReactiveSwift Composable Architecture](http://michael-brown.net/2021/the-future-of-the-reactiveswift-composable-architecture/))
 - [SwiftUIKit](https://github.com/danielsaidi/SwiftUIKit) - Contains additional functionality for SwiftUI.
@@ -426,6 +427,7 @@
 - [RSocket Swift](https://github.com/rsocket/rsocket-swift) - Client and Server implementation of the RSocket (Reactive Socket) network protocol on top of SwiftNIO.
 - [MySQLKit](https://github.com/vapor/mysql-kit) - Non-blocking, event-driven Swift client for MySQL.
 - [MySQLNio](https://github.com/vapor/mysql-nio) - Non-blocking, event-driven Swift client for MySQL built on SwiftNIO.
+- [Cirrus](https://github.com/jayhickey/Cirrus) - Simple CloudKit sync for Codable Swift models.
 
 ## Graphics
 
@@ -886,6 +888,8 @@
 - [Raylib for Swift](https://github.com/STREGAsGate/Raylib)
 - [web3.swift](https://github.com/argentlabs/web3.swift) - Ethereum Swift API with support for smart contracts, ENS & ERC20.
 - [Popovers](https://github.com/aheze/Popovers) - Library to present highly-customizable popovers. ([Reddit](https://www.reddit.com/r/swift/comments/roc55m/popovers_a_swift_package_to_present_popovers_in/))
+- [swift-bridge](https://github.com/chinedufn/swift-bridge) - Call Rust from Swift and vice versa. ([Reddit](https://www.reddit.com/r/rust/comments/rqr0aj/swiftbridge_generate_ffi_bindings_between_rust/))
+- [ProcedureKit](https://github.com/ProcedureKit/ProcedureKit) - Advanced Operations in Swift.
 
 ## Other (not lib)
 

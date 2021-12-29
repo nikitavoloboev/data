@@ -43,7 +43,7 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run)
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS. ([Web](https://apex.sh/up/))
 - [Fauna](https://fauna.com/) - Database built for serverless, featuring native GraphQL.
-- [OpenFaaS](https://www.openfaas.com/) - Makes it simple to deploy both functions and existing code to Kubernetes. ([Code](https://github.com/openfaas/faas))
+- [OpenFaaS](https://www.openfaas.com/) - Makes it simple to deploy both functions and existing code to Kubernetes. ([Code](https://github.com/openfaas/faas)) ([OpenFaaS - Run Containerized Functions On Your Own Terms](https://iximiuz.com/en/posts/openfaas-case-study/))
 - [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - Managed OpenFaaS for teams.
 - [Serverless](https://serverless.com/) - Serverless application framework powered by AWS Lambda. ([Code](https://github.com/serverless/serverless)) ([Cloud](https://www.serverless.com/cloud)) ([Cloud Code](https://github.com/serverless/cloud))
 - [Is Google Cloud Run really Knative? (2020)](https://ahmet.im/blog/cloud-run-is-a-knative/)

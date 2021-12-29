@@ -99,7 +99,7 @@
 - [Devbook](https://usedevbook.com/) - Search Engine for Developers. ([HN](https://news.ycombinator.com/item?id=25394567))
 - [Building a Better Search Engine for Semantic Scholar (2020)](https://medium.com/ai2-blog/building-a-better-search-engine-for-semantic-scholar-ea23a0b661e7)
 - [Google's Search Quality Evaluation Guidelines](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
-- [Txtai](https://github.com/neuml/txtai) - AI-powered search engine in Rust.
+- [Txtai](https://github.com/neuml/txtai) - AI-powered search engine in Rust. ([4.0](https://colab.research.google.com/github/neuml/txtai/blob/master/examples/24_Whats_new_in_txtai_4_0.ipynb))
 - [Jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data.
 - [Okeano](https://okeano.com/) - Search engine that cleans the ocean and respects your privacy.
 - [Private.sh](https://private.sh/) - Search engine that cryptographically protects your privacy.

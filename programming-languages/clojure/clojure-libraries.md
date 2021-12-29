@@ -35,6 +35,7 @@
 - [Pathom](https://github.com/wilkerlucio/pathom) - Clojure(script) engine for processing EQL requests.
 - [porsas](https://github.com/metosin/porsas) - Experimental stuff for going fast with Clojure + JDBC & Async SQL.
 - [EQL](https://github.com/edn-query-language/eql) - Declarative way to make hierarchical (and possibly nested) selections of information about data requirements.
+- [pyramid](https://github.com/lilactown/pyramid) - Library for storing and querying graph data in a Clojure map.
 
 ## ML
 
@@ -135,6 +136,7 @@
 - [injest](https://github.com/johnmn3/injest) - Auto-transducifying, auto-parallelizing path thread macros.
 - [unilog](https://github.com/pyr/unilog) - Easy logging setup in clojure.
 - [Pathom 3](https://github.com/wilkerlucio/pathom3) - Logic programming through attribute relationships in Clojure. ([Docs](https://pathom3.wsscode.com/docs/))
+- [cascade](https://github.com/lilactown/cascade) - Library of continuation-passing, thunk-producing versions of many Clojure core functions.
 
 ## Links
 
