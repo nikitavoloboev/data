@@ -80,3 +80,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [A practical overview of most useful Unix tools (2021)](https://medium.com/fundbox-engineering/cheating-at-a-company-group-activity-using-unix-tools-5c1d706f3d58) ([HN](https://news.ycombinator.com/item?id=29528439))
 - [fq](https://github.com/wader/fq) - jq for binary formats. ([HN](https://news.ycombinator.com/item?id=29657094))
 - [termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output.
+- [aqua](https://github.com/aquaproj/aqua) - CLI tool to install CLI tools with declarative YAML configuration. ([Docs](https://aquaproj.github.io/docs/tutorial-basics/quick-start/))

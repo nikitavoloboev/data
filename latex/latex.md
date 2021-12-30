@@ -106,3 +106,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeX Cookbook](https://latex-cookbook.net/) - Collection of LaTeX recipes. ([HN](https://news.ycombinator.com/item?id=29672872))
 - [How to write LaTeX without writing LaTeX](https://jarbus.net/blog/write-latex-without-latex/) ([HN](https://news.ycombinator.com/item?id=29687840))
 - [Beamer](https://github.com/josephwright/beamer) - LaTeX class for producing presentations.
+- [Blogging with TikZ (2021)](https://lukasschwab.me/blog/gen/blogging-with-tikz.html)

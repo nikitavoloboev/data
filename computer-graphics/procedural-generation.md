@@ -42,3 +42,4 @@
 - [Constraint-Based Tile Generators (2021)](https://www.boristhebrave.com/2021/10/31/constraint-based-tile-generators/)
 - [Procedural Mandala Pattern VEX tutorial (2020)](https://www.youtube.com/watch?v=uA6BDOUzWnM)
 - [procedural-terrain](https://github.com/croquelois/procedural-terrain) - Procedural terrain generation.
+- [Three Ways of Generating Terrain with Erosion Features](https://github.com/dandrino/terrain-erosion-3-ways) ([HN](https://news.ycombinator.com/item?id=29724597))

@@ -124,6 +124,7 @@
 - [ocaml_plugin](https://github.com/janestreet/ocaml_plugin) - Automatically build and dynlink OCaml source files.
 - [Lwt Pipe](https://github.com/c-cube/lwt-pipe) - Multi-consumer, multi-producers blocking queue and stream for Lwt.
 - [sedlex](https://github.com/ocaml-community/sedlex) - Unicode-friendly lexer generator for OCaml.
+- [Compact](https://github.com/CraigFe/compact) - Memory-efficient data structures in OCaml.
 
 ## Links
 

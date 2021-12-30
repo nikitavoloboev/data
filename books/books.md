@@ -269,6 +269,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: What's the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
 - [Best comedies you read (2021)](https://www.reddit.com/r/suggestmeabook/comments/rprsrm/best_comedy_youve_read/)
 - [Mind Expanding Books](https://books.vishnuks.com/) ([Code](https://github.com/hackerkid/Mind-Expanding-Books)) ([HN](https://news.ycombinator.com/item?id=29711042))
+- [Robert Miller's 2020 reading list](https://www.bertcmiller.com/2021/01/01/2020-reading-list.html)
 
 ## Interesting Prose Books
 

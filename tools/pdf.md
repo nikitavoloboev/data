@@ -24,3 +24,4 @@
 - [CamlPDF](https://github.com/johnwhitington/camlpdf) - OCaml library for reading, writing and modifying PDF files.
 - [cpdf-binaries](https://github.com/coherentgraphics/cpdf-binaries) - PDF Command Line Tools binaries.
 - [pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file.
+- [Processing PDFs with Cloud Functions (2020)](https://lukasschwab.me/blog/gen/cloud-function-pdf-processing.html)

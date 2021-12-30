@@ -74,3 +74,4 @@
 - [New DynamoDB Table Class – Save Up To 60% in Your DynamoDB Costs (2021)](https://aws.amazon.com/blogs/aws/new-dynamodb-table-class-save-up-to-60-in-your-dynamodb-costs/)
 - [dynamodump](https://github.com/mifi/dynamodump) - Node CLI for backing up and restoring schema+data from DynamoDB tables.
 - [Starter project with Go, Gin and DynamoDB](https://github.com/vsouza/go-gin-boilerplate)
+- [Go DynamoDB Web App Starter](https://github.com/kaihendry/go-web-dynamo-starter)

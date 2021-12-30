@@ -659,3 +659,5 @@
 - [Thoughts on Context and Capabilities in Rust (2021)](https://jam1.re/blog/thoughts-on-contexts-and-capabilities-in-rust) ([Reddit](https://www.reddit.com/r/rust/comments/rm94in/thoughts_on_context_and_capabilities_in_rust/))
 - [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit (2021)](https://www.freecodecamp.org/news/rust-in-replit/)
 - [Futuristic Rust: context emulation (2021)](https://haibane-tenshi.github.io/rust-contexts/) ([Reddit](https://www.reddit.com/r/rust/comments/rov9ip/futuristic_rust_context_emulation/))
+- [This Year in Embedded Rust: 2021 edition](https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/) ([HN](https://news.ycombinator.com/item?id=29722905))
+- [Ask HN: What are some good Rust code samples? (2021)](https://news.ycombinator.com/item?id=29723455)

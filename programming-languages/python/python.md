@@ -409,3 +409,4 @@ for i, _ in enumerate(nums):
 - [Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP/) ([Code](https://github.com/AllenDowney/DSIRP))
 - [Guide to Python's magic methods](https://github.com/RafeKettler/magicmethods)
 - [Comprehensive Python Cheat Sheet](https://gto76.github.io/python-cheatsheet/) ([HN](https://news.ycombinator.com/item?id=29679788))
+- [Learn Python ASTs, by building your own linter (2021)](https://sadh.life/post/ast/) ([HN](https://news.ycombinator.com/item?id=29724431))

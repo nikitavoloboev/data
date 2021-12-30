@@ -438,3 +438,4 @@
 - [Autoregressive Entity Retrieval (2020)](https://arxiv.org/abs/2010.00904)
 - [Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation (2020)](https://arxiv.org/abs/2004.07672)
 - [A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition (2021)](https://arxiv.org/abs/2106.14373)
+- [Deduplicating Training Data Makes Language Models Better (2021)](https://arxiv.org/abs/2107.06499) ([Code](https://github.com/google-research/deduplicate-text-datasets))

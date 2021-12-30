@@ -100,3 +100,4 @@ Might give it a go sometime.
 - [Hacking your way around in Emacs (2021)](https://leanpub.com/hacking-your-way-emacs/) ([Article](http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished)) ([HN](https://news.ycombinator.com/item?id=29157859))
 - [Why Emacs: Redux (2021)](https://batsov.com/articles/2021/11/16/why-emacs-redux/) ([Lobsters](https://lobste.rs/s/vugqbi/why_emacs_redux)) ([HN](https://news.ycombinator.com/item?id=29239452))
 - [Mastering Emacs](https://www.masteringemacs.org/)
+- [Emacs for You (Emfy)](https://github.com/susam/emfy) - 72 line –/.emacs to quickly set up vanilla Emacs for editing. ([HN](https://news.ycombinator.com/item?id=29726398))

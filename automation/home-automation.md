@@ -53,3 +53,4 @@
 - [Home Assistant Google Home community integration](https://github.com/leikoilja/ha-google-home)
 - [radiale](https://github.com/xlfe/radiale) - What if home automation was homoiconic? Just transformations of data? No more YAML.
 - [Scrypted](https://www.scrypted.app/) - Home automation platform powered by node.js. ([Code](https://github.com/koush/scrypted))
+- [Presence Simulation](https://github.com/slashback100/presence_simulation) - Home Assistant component aim to provide a presence simulation in your home while you are away.

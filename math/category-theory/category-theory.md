@@ -137,6 +137,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Evan Patterson: Realizing Applied Category Theory in Julia (2020)](https://www.youtube.com/watch?v=7dmrDYQh4rc)
 - [Category Theory by Example (2021)](https://github.com/CatTheoryByExample/book/blob/master/cattheory.pdf)
 - [NASA's Category Theory Resources](https://www.nasa.gov/consortium/CategoryTheory) ([Tweet](https://twitter.com/cbarrett/status/1475620079987474432))
+- [Fun with Categories (2019)](https://blog.statebox.org/fun-with-categories-70c64649b8e0)
 
 ## Images
 

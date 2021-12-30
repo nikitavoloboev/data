@@ -92,3 +92,4 @@
 - [JSON Can Be Faster Than Binary (2021)](https://www.tbray.org/ongoing/When/202x/2021/12/03/Filtering-Lessons) ([Lobsters](https://lobste.rs/s/kqycne/json_can_be_faster_than_binary))
 - [Mappings](https://www.stedi.com/docs/mappings) - Tool that maps JSON documents from one structure to another. ([Tweet](https://twitter.com/tlakomy/status/1470374323999453185))
 - [dyff](https://github.com/homeport/dyff) - diff tool for YAML files, and sometimes JSON.
+- [JSON-S](https://github.com/brillout/json-s) - Same as JSON but with added support for Date, undefined, NaN, Infinity, and RegExp.

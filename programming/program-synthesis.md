@@ -22,3 +22,4 @@
 - [Leveraging Language to Learn Program Abstractions and Search Heuristics (2021)](https://arxiv.org/abs/2106.11053)
 - [Program Synthesis with Large Language Models (2021)](https://arxiv.org/abs/2108.07732) ([HN](https://news.ycombinator.com/item?id=28217026))
 - [NEAR Program Synthesis](https://github.com/nearai/program_synthesis) - Set of models, tools, and datasets for program synthesis tasks.
+- [Program Synthesis by Type-Guided Abstraction Refinement (2020)](https://aaronguo1996.github.io/publication/tygar/tygar-paper.pdf)

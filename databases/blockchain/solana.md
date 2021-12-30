@@ -89,6 +89,7 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Solsea](https://solsea.io/) - Open NFT Marketplace on Solana.
 - [Quarry](https://github.com/QuarryProtocol/quarry) - Open protocol for launching liquidity mining programs on Solana.
 - [solana-go](https://github.com/streamingfast/solana-go) - Go library for the Solana Blockchain.
+- [solana-go](https://github.com/gagliardetto/solana-go) - Go library to interface with Solana JSON RPC and WebSocket interfaces.
 - [Solana App Scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp built on Solana.
 - [Solana Token Registry](https://github.com/solana-labs/token-list) - Package that allows application to query for list of tokens.
 - [Assert Balances](https://github.com/project-serum/assert-balances) - Safety hatch for aborting transactions with unexpected balance changes.

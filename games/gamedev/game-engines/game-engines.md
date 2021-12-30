@@ -125,5 +125,5 @@
 - [How to make your own game engine (and why) (2021)](https://medium.com/@tglaiel/how-to-make-your-own-game-engine-and-why-ddf0acbc5f3)
 - [GitHub Collection: Game Engines](https://github.com/collections/game-engines) ([Reddit](https://www.reddit.com/r/gamedev/comments/qtwae3/githubs_collection_of_opensource_game_engines/))
 - [What interesting things are people making using a game engine that's not actually a game?](https://www.reddit.com/r/gamedev/comments/rpk7uh/what_interesting_things_are_people_making_using_a/)
-- [Game Engines as an Art Form — My 8+ Years of Developing and Maintaining My Own Engine (2021)](https://medium.com/@hajimehoshi/game-engines-as-an-art-form-f66c835c0a92)
+- [Game Engines as an Art Form — My 8+ Years of Developing and Maintaining My Own Engine (2021)](https://medium.com/@hajimehoshi/game-engines-as-an-art-form-f66c835c0a92) ([HN](https://news.ycombinator.com/item?id=29712457))
 - [Game Engine Devs Reddit](https://www.reddit.com/r/gameenginedevs/)

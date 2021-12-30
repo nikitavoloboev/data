@@ -80,3 +80,5 @@
 - [Exact Combinatorial Optimization with Graph Convolutional Neural Networks (2021)](https://arxiv.org/abs/1906.01629) ([Code](https://github.com/ds4dm/learn2branch))
 - [A Recipe for Training Neural Networks (2019)](http://karpathy.github.io/2019/04/25/recipe/)
 - [GraphSAINT: Graph Sampling Based Inductive Learning Method (2020)](https://openreview.net/forum?id=BJe8pkHFwS) ([Code](https://github.com/GraphSAINT/GraphSAINT))
+- [Decoupling the Depth and Scope of Graph Neural Networks (2021)](https://openreview.net/forum?id=_IY3_4psXuf) ([Code](https://github.com/facebookresearch/shaDow_GNN))
+- [How to Scale Up GNNs with Mini-Batch Sampling (2021)](https://sigopt.com/blog/mini-batch-sampling-with-gnns/)

@@ -147,6 +147,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Inexor](https://inexor.org/) - First person shooter game.
 - [NoPixel](https://nopixel.fandom.com/wiki/NoPixel_Community) - Grand Theft Auto V role-play server.
 - [SkyWeaver](https://www.skyweaver.net/) - Trading Card Game from Another Dimension.
+- [Tetr.io](https://tetr.io/) ([HN](https://news.ycombinator.com/item?id=29728892))
 
 ## Recommendations
 

@@ -67,6 +67,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. ([HN](https://news.ycombinator.com/item?id=29549173)) ([Reddit](https://www.reddit.com/r/rust/comments/rg3k9o/lightningfast_and_powerful_code_editor_written_in/))
 - [Zed](https://zed.dev/) - Lightning-fast, collaborative code editor written in Rust (Atom team). ([HN](https://news.ycombinator.com/item?id=29566960))
 - [MarkupEditor](https://github.com/stevengharris/MarkupEditor) - WYSIWYG editing for SwiftUI and UIKit apps.
+- [cl-editor](https://github.com/nenadpnc/cl-editor) - Lightweight text editor built with svelte, TypeScript.
 
 ## Web
 

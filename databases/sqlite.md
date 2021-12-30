@@ -133,3 +133,4 @@
 - [deno_sqlite](https://github.com/DjDeveloperr/deno_sqlite) - Fast, native bindings to SQLite3 C API, using Deno FFI.
 - [graphdb](https://github.com/CodyKochmann/graphdb) - SQLite based graph database for storing native python objects and their relationships to each other.
 - [SQLiteLib](https://github.com/swiftlyfalling/SQLiteLib) - Easily build a custom SQLite static library for use in macOS and iOS frameworks and apps.
+- [Consider SQLite (2021)](https://blog.wesleyac.com/posts/consider-sqlite) ([HN](https://news.ycombinator.com/item?id=29727707)) ([Lobsters](https://lobste.rs/s/0q9w7n/consider_sqlite))

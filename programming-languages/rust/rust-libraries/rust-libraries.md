@@ -1258,6 +1258,7 @@
 - [eos](https://github.com/Rapptz/eos) - Simple and easy to use datetime library for Rust.
 - [acacia](https://github.com/edibopp/acacia) - Spatial tree library written in Rust.
 - [Carboxyl](https://github.com/edibopp/carboxyl) - Functional Reactive Programming library for Rust.
+- [rust-fsm](https://github.com/eugene-babichenko/rust-fsm) - Finite state machine framework for Rust with readable specifications.
 
 ## Cargo Plugins
 
