@@ -130,3 +130,4 @@
 - [Ask HN: Are we entering an ARM era? (2021)](https://news.ycombinator.com/item?id=29605828)
 - [Predictive CPU isolation of containers at Netflix (2019)](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
 - [CPU implemented in an analog modular synthesizer](https://github.com/katef/eurorack-cpu)
+- [A single line of code made a 24-core server slower than a laptop (2021)](https://pkolaczk.github.io/server-slower-than-a-laptop/) ([HN](https://news.ycombinator.com/item?id=29747921))

@@ -101,3 +101,4 @@
 - [OneZoom Tree of Life Explorer](https://www.onezoom.org/)
 - [SynBioHub](https://github.com/SynBioHub/synbiohub) - Web application enabling users and software to browse, upload, and share synthetic biology designs. ([Docs](https://wiki.synbiohub.org/))
 - [The Year in Biology (2021)](https://www.quantamagazine.org/the-year-in-biology-20211221/) ([Video](https://www.youtube.com/watch?v=1tOx_Vh5diE))
+- [Научные сенсации 2021: пересадка носа в колено, пульт от сердца, имплант от грусти / Илья Колмановский](https://www.youtube.com/watch?v=ta93_HOnu-8)

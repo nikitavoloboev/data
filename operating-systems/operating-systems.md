@@ -303,3 +303,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [OPS](https://github.com/nanovms/ops) - Build and run nanos unikernels.
 - [The big idea around unikernels (2021)](https://changelog.com/posts/the-big-idea-around-unikernels) ([HN](https://news.ycombinator.com/item?id=29427449))
 - [MicroV](https://github.com/Bareflank/MicroV) - Micro hypervisor for running micro VMs.
+- [Bootloader exploration](https://github.com/eatonphil/bootloaders)

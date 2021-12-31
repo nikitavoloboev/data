@@ -116,7 +116,7 @@
 - [Vercel Basic Auth](https://github.com/flawyte/vercel-basic-auth) - How to add Basic Authentication to a Vercel deployment using various languages / frameworks.
 - [Do You Know Your OAuth Flows? (2021)](https://medium.com/cloud-security/do-you-know-your-oauth-flows-137fb01b45f8)
 - [OAuth 2.0 Authentication Vulnerabilities](https://portswigger.net/web-security/oauth) ([HN](https://news.ycombinator.com/item?id=26603259))
-- [The Modern Guide to OAuth (2021)](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
+- [The Modern Guide to OAuth (2021)](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/) ([HN](https://news.ycombinator.com/item?id=29752918))
 - [MagicSquared](https://magicsquared.net/) - Magic Magic Link Authentication.
 - [Behind GitHub's new authentication token formats (2021)](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/) ([HN](https://news.ycombinator.com/item?id=26701149))
 - [Ory Keto](https://github.com/ory/keto) - Open source implementation of "Zanzibar: Google's Consistent, Global Authorization System".

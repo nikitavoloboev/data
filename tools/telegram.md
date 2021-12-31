@@ -160,3 +160,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Protected Content, Delete by Date, Device Management and more (2021)](https://telegram.org/blog/protected-content-delete-by-date-and-more) ([HN](https://news.ycombinator.com/item?id=29482918))
 - [TeleIRC](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
 - [Botmate](https://www.botmate.app/) - Self-hosted open source Telegram bot platform. ([Code](https://github.com/botmate/botmate))
+- [How Telegram Messenger circumvents Google Translate's API (2021)](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html) ([HN](https://news.ycombinator.com/item?id=29746674))

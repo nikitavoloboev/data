@@ -39,3 +39,4 @@
 - [Overview of Serialization Technologies (2018)](https://indico.cern.ch/event/658060/contributions/2898569/attachments/1622526/2582399/pivarski-serialization.pdf)
 - [Substrait](https://substrait.io/) - Cross-Language Serialization for Relational Algebra. ([Code](https://github.com/substrait-io/substrait)) ([substrait-rs](https://github.com/andygrove/substrait-rs))
 - [OpenH264](https://github.com/cisco/openh264) - Open Source H.264 Codec.
+- [Unicode Normalization Forms: When ö ≠ ö (2021)](https://blog.opencore.ch/posts/unicode-normalization-forms/) ([HN](https://news.ycombinator.com/item?id=29751641))
