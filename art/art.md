@@ -296,6 +296,8 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
 - [Noah Kalina](https://www.instagram.com/noahkalina/)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
+- [Christophe Jacrot](https://www.instagram.com/christophe.jacrot/)
+- [Elena Chernyshova](https://www.instagram.com/elena.chernyshova.photography/)
 - [John Wingfield](https://www.instagram.com/johnwingfield/)
 - [Maley](https://www.instagram.com/maleyphoto/)
 - [Daniel Casson](https://www.instagram.com/dpc_photography_/)
