@@ -1,5 +1,7 @@
 # Containers
 
+[Containers From Scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc) is nice intro talk to containers.
+
 ## Notes
 
 - [Running code in containers means I don't ever have to think about what version of Python/PostgreSQL/Redis/etc is supported by the stable release of the host operating system.](https://twitter.com/simonw/status/1463224255433220098)
@@ -171,3 +173,4 @@
 - [Container Storage Interface (CSI) Specification](https://github.com/container-storage-interface/spec)
 - [Container-to-Container Communication (2021)](https://www.miketheman.net/2021/12/28/container-to-container-communication/) ([HN](https://news.ycombinator.com/item?id=29716833))
 - [Containers 101: attach vs. exec - what's the difference? (2021)](https://iximiuz.com/en/posts/containers-101-attach-vs-exec/)
+- [Containers From Scratch • Liz Rice (2018)](https://www.youtube.com/watch?v=8fi7uSYlOdc)

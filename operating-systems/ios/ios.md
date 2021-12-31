@@ -391,3 +391,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [30 tips to make you a better iOS developer (2021)](https://www.fadel.io/blog/posts/30-tips-to-make-you-a-better-ios-developer/)
 - [Forcing an app out of memory on iOS (2021)](https://www.donnywals.com/forcing-an-app-out-of-memory-on-ios/)
 - [iOS Starter Pack](https://starterpackapps.com/) - Bundle of beautiful, functional iOS apps built with SwiftUI to get you started. ([Tweet](https://twitter.com/jsngr/status/1475869187595718657))
+- [WWDC Session Transcripts](https://github.com/ASCIIwwdc/wwdc-session-transcripts)

@@ -64,3 +64,5 @@
 - [Visualize 3D hyperbolic honeycombs and sphere packings](https://github.com/neozhaoliang/Hyperbolic-Honeycombs)
 - [Fractal Renderer in Swift](https://github.com/hdombach/Fractal-Renderer)
 - [A stochastic method to generate the Sierpinski triangle](https://github.com/ajnirp/stochastic_sierpinski) ([HN](https://news.ycombinator.com/item?id=29701260))
+- [Extremely-detailed 2d fractals, continued (2021)](https://ultraiterator.blogspot.com/2021/12/ultrafields-this-is-continuation-after.html)
+- [A Well Trodden Path (2019)](https://ultraiterator.blogspot.com/2019/12/a-well-trodden-path.html)

@@ -96,3 +96,4 @@
 - [nuxt-delay-hydration](https://github.com/harlan-zw/nuxt-delay-hydration) - Improve your Nuxt.js Google Lighthouse score by delaying hydration.
 - [Harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3. ([Docs](https://harlemjs.com/guide/introduction/getting-started.html#installation))
 - [Vuetiful](https://github.com/andrewcourtice/vuetiful) - Component framework written on top of the Vue reactive library.
+- [voe](https://github.com/yisar/voe) - 3kb subset of Vue optimized for progressive enhancement.

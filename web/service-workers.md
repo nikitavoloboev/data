@@ -22,3 +22,4 @@
 - [msgr](https://github.com/sdgluck/msgr) - Makes communication between a client and service worker super easy.
 - [Background processing with JS apps tips (2021)](https://twitter.com/flybayer/status/1473375368761511938)
 - [isoworker](https://github.com/101arrowz/isoworker) - Isomorphic workerization with context in 6kB.
+- [Add a Service Worker to Your Site](https://css-tricks.com/add-a-service-worker-to-your-site/)

@@ -1389,3 +1389,4 @@
 - [Universe](https://github.com/rvolosatovs/universe) - Centralized documentation for Rust crates Roma uses.
 - [Linking to a private repo in Cargo.toml](https://gist.github.com/kestein/87d8bb9cef187c0d02d733138a0a4454)
 - [cargo-api](https://github.com/crate-ci/cargo-api) - Interact with the crate's API.
+- [rustfilt](https://github.com/luser/rustfilt) - Demangle Rust symbols.

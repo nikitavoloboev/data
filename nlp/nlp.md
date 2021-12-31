@@ -441,3 +441,5 @@
 - [Deduplicating Training Data Makes Language Models Better (2021)](https://arxiv.org/abs/2107.06499) ([Code](https://github.com/google-research/deduplicate-text-datasets))
 - [Transformers without Tears: Improving the Normalization of Self-Attention (2019)](https://arxiv.org/abs/1910.05895) ([Code](https://github.com/tnq177/transformers_without_tears))
 - [CTCDecoder](https://github.com/githubharald/CTCDecoder) - Connectionist Temporal Classification (CTC) decoding algorithms: best path, beam search, lexicon search, prefix search, and token passing. Implemented in Python.
+- [Custom Named Entity Recognition with Spacy3](https://github.com/amrrs/custom-ner-with-spacy3)
+- [BARTScore: Evaluating Generated Text as Text Generation (2021)](https://arxiv.org/abs/2106.11520) ([Code](https://github.com/neulab/BARTScore))

@@ -479,3 +479,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [How to Write a Technical Book (2021)](https://cnr.sh/essays/how-to-write-a-technical-book)
 - [NPR Books: Book Reviews, Book News, and Author Interviews](https://www.npr.org/books)
 - [Things I learned writing my first technical book (2021)](https://blog.klipse.tech/book/2021/12/19/100-things-I-learned-with-data-oriented-programming.html) ([HN](https://news.ycombinator.com/item?id=29687935))
+- [Издательство «МИФ»](https://www.mann-ivanov-ferber.ru/)

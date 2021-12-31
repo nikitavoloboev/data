@@ -71,3 +71,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Red Star Over the Pacific by Toshi Yoshihara (2010)](https://www.goodreads.com/book/show/8313321-red-star-over-the-pacific) ([Tweet](https://twitter.com/rabois/status/1462153717201911809))
 - [The Chinese Mafia needs to chill out... (2021)](https://www.youtube.com/watch?v=Uf-9EwLiSPI)
 - [The Invention of Chinese (2021)](https://www.historytoday.com/archive/feature/invention-chinese) ([HN](https://news.ycombinator.com/item?id=29516272))
+- [Feature History - Chinese Civil War](https://www.youtube.com/watch?v=jJr3KVM3lBo)

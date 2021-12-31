@@ -85,3 +85,4 @@
 - [One thing you learned about relationships/sex you wish you knew sooner](https://www.reddit.com/r/AskWomen/comments/rp8y8n/what_is_the_one_thing_you_learned_about/)
 - [What are your best "Sexual Mechanics" tricks?](https://www.reddit.com/r/sexover30/comments/rpcs0p/what_are_your_best_sexual_mechanics_tricks/)
 - [Stronger orgasm resources](https://www.reddit.com/r/sexover30/comments/rqngdl/stronger_orgasm_resources_whats_worked_for_you_id/)
+- [Come as You Are: The Surprising New Science that Will Transform Your Sex Life by Emily Nagoski (2015)](https://www.goodreads.com/book/show/22609341-come-as-you-are)
