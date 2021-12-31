@@ -1202,6 +1202,7 @@
 - [clipboard](https://github.com/golang-design/clipboard) - Cross platform (macOS/Linux/Windows/Android/iOS) clipboard package in Go.
 - [Molizen](https://github.com/sanposhiho/molizen) - Typed actor framework for Go.
 - [FreeCache](https://github.com/coocood/freecache) - Cache library for Go with zero GC overhead and high concurrent performance.
+- [mapreduce](https://github.com/kevwan/mapreduce) - In-process MapReduce tool to help you to optimize service response time.
 
 ## Links
 

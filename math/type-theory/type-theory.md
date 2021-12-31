@@ -169,3 +169,4 @@
 - [Learning resources for type inference (2021)](https://www.reddit.com/r/ProgrammingLanguages/comments/rk4qnp/learning_resources_for_type_inference/)
 - [Basic Polymorphic Typechecking](http://lucacardelli.name/Papers/BasicTypechecking.pdf)
 - [An accessible introduction to type theory and implementing a type-checker (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking/)
+- [Swapping arguments of variables in higher-order pattern unification](https://cstheory.stackexchange.com/questions/50914/swapping-arguments-of-variables-in-higher-order-pattern-unification)

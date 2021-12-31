@@ -315,3 +315,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Video Editing Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process.
 - [ydls](https://github.com/wader/ydls) - youtube-dl HTTP download and transcode service.
 - [Netflix-4K-Script](https://github.com/widevinedump/Netflix-4K-Script) - Tool to download Netflix in 4k.
+- [Long educational videos on YouTube list](https://twitter.com/dan_abramov/status/1476755315492278280)

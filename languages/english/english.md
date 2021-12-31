@@ -30,3 +30,4 @@ Some interesting words I like:
 - [Moby Thesaurus](https://moby-thesaurus.org/) - Largest English-language thesaurus. ([Code](https://github.com/words/moby))
 - [an-array-of-english-words](https://github.com/words/an-array-of-english-words) - List of ~275,000 English words as JS package.
 - [Using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary) ([HN](https://news.ycombinator.com/item?id=29734242))
+- [What’s your favorite word to use, that most people don’t use?](https://twitter.com/businessbarista/status/1476670975257239562)
