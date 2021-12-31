@@ -177,3 +177,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [What photography-related content do you watch most on YouTube? (2021)](https://www.reddit.com/r/photography/comments/rmc42e/what_photographyrelated_content_do_you_watch_most/)
 - [Photography Reddit AMA (2021)](https://www.reddit.com/r/photography/comments/rnl06g/official_question_thread_ask_rphotography/)
 - [Your favorite photo you took in 2021](https://twitter.com/Reuben_Wu/status/1476604584164573190)
+- [Useful photography for beginners (2021)](https://tylercipriani.com/blog/2021/12/31/useful-photography-for-beginners/)
