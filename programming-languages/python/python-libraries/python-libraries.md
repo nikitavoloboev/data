@@ -188,6 +188,7 @@
 - [pytest-timeout](https://github.com/pytest-dev/pytest-timeout) - Time each test and terminate it when it takes too long.
 - [Syrupy](https://github.com/tophat/syrupy) - Sweeter pytest snapshot plugin.
 - [Pydantic-Factories](https://github.com/Goldziher/pydantic-factories) - Pydantic based mock data generation.
+- [flake8-assertive](https://github.com/jparise/flake8-assertive) - Flake8 unittest assert method checker.
 
 ## Other
 
@@ -611,6 +612,7 @@
 - [stackprinter](https://github.com/cknd/stackprinter) - Debugging-friendly exceptions for Python.
 - [outputformater](https://github.com/delestro/outputformater) - Python library to decorate and beautify strings.
 - [PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming. ([Docs](https://pyfunctional.pedro.ai/))
+- [Typical](https://github.com/seandstewart/typical) - Fast, simple, & correct data-validation using Python 3 typing.
 
 ## Links
 

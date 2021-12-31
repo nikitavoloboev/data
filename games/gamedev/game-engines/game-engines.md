@@ -96,6 +96,7 @@
 - [minicosm](https://github.com/jarcane/minicosm) - FP-oriented game engine inspired by universe.rkt, written in Clojurescript.
 - [Starframe](https://github.com/MoleTrooper/starframe) - 2D game engine for physics-y sidescrolling games.
 - [Lina Engine](https://github.com/inanevin/LinaEngine) - Open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
+- [Stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development.
 
 ## Physics engines
 

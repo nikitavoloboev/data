@@ -37,3 +37,4 @@
 - [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 - [SoX](https://github.com/chirlu/sox) - Swiss Army knife of sound processing.
 - [Making sounds using SDL and visualizing them on a simulated oscilloscope (2021)](http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html)
+- [Why can’t you design noise in frequency space? (2021)](https://blog.demofox.org/2021/12/29/why-cant-you-design-noise-in-frequency-space/) ([HN](https://news.ycombinator.com/item?id=29736208))

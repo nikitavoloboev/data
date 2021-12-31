@@ -97,6 +97,7 @@
 - [Cookie](https://github.com/SergioBenitez/cookie-rs) - HTTP cookie parsing and cookie jar management for Rust.
 - [backoff](https://github.com/ihrwein/backoff) - Small crate which allows you to retry operations according to backoff policies.
 - [rust-jwt](https://github.com/durch/rust-jwt) - Very simple JWT generation lib.
+- [Avalanche](https://github.com/DJankauskas/avalanche) - Rust library for building performant Web apps.
 
 ## WASM
 
@@ -439,6 +440,7 @@
 - [sscanf](https://github.com/mich101mich/sscanf) - Rust crate with a sscanf (inverse of format!()) Macro based on Regex.
 - [js-macros](https://github.com/vultix/js-macros) - Quickly prototype Rust procedural macros using JavaScript or TypeScript.
 - [valq](https://github.com/jiftechnify/valq) - Macros for querying and extracting value from structured data by JavaScript-like syntax.
+- [num_enum](https://github.com/illicitonion/num_enum) - Procedural macros to make inter-operation between primitives and enums easier.
 
 ## Math
 
@@ -1263,6 +1265,8 @@
 - [thread_local](https://github.com/Amanieu/thread_local-rs) - Per-object thread-local storage for Rust.
 - [stackful](https://github.com/nbdd0121/stackful) - Free conversion between async and sync in Rust.
 - [rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
+- [capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap'n Proto for Rust.
+- [staticvec](https://github.com/slightlyoutofphase/staticvec) - Implements a fixed-capacity stack-allocated Vec alternative backed by an array, using const generics.
 
 ## Cargo Plugins
 

@@ -497,3 +497,4 @@
 - [Ask HN: How do you manage direct updates to databases in a production system (2021)](https://news.ycombinator.com/item?id=29563226)
 - [Databases in 2021: A Year in Review](https://ottertune.com/blog/2021-databases-retrospective/) ([HN](https://news.ycombinator.com/item?id=29731885))
 - [TinyKV Course](https://github.com/tidb-incubator/tinykv) - Builds a key-value storage system with the Raft consensus algorithm.
+- [Database Systems Resources](https://github.com/paulosman/database-systems)

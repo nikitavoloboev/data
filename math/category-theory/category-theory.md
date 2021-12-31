@@ -139,6 +139,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [NASA's Category Theory Resources](https://www.nasa.gov/consortium/CategoryTheory) ([Tweet](https://twitter.com/cbarrett/status/1475620079987474432))
 - [Fun with Categories (2019)](https://blog.statebox.org/fun-with-categories-70c64649b8e0)
 - [Recommended resources for learning category theory / Haskell (2021)](https://www.reddit.com/r/haskell/comments/rrpnoy/recommended_resources_for_learning_category/)
+- [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/) ([HN](https://news.ycombinator.com/item?id=29734482))
 
 ## Images
 

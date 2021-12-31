@@ -19,6 +19,10 @@
 - [Rodauth](https://github.com/jeremyevans/rodauth) - Ruby's Most Advanced Authentication Framework.
 - [Apia](https://github.com/krystal/apia) - API framework for building a self-documenting HTTP API in any Ruby application (including Rails).
 
+## macOS
+
+- [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
+
 ## Other
 
 - [ruby-macho](https://github.com/Homebrew/ruby-macho) - Ruby library for examining and modifying Mach-O files.

@@ -150,6 +150,7 @@
 - [create-report](https://github.com/michaelhenry/create-report) - Github action for creating generic run report (using Markdown!).
 - [Compare the Differences Between Two Commits](https://github.com/cpcloud/compare-commits-action)
 - [Run-On-Arch](https://github.com/uraimo/run-on-arch-action) - Executes commands on non-x86 CPU architecture (armv6, armv7, aarch64, s390x, ppc64le).
+- [Discord for GitHub Actions](https://github.com/Ilshidur/action-discord) - GitHub Action that sends a Discord message.
 
 ## Go
 

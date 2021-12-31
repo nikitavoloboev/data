@@ -40,6 +40,7 @@
 - [Amazon Ion Java](https://github.com/amzn/ion-java) - Java streaming parser/serializer for Ion.
 - [Jackson Scala](https://github.com/FasterXML/jackson-module-scala) - JSON processing.
 - [lambda](https://github.com/palatable/lambda) - Functional patterns for Java.
+- [Guava](https://github.com/google/guava) - Google core libraries for Java.
 
 ## Links
 

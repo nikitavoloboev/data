@@ -148,6 +148,7 @@
 - [Lightweight higher-kinded polymorphism](https://www.cl.cam.ac.uk/~jdy22/papers/lightweight-higher-kinded-polymorphism.pdf)
 - [Implementing a Functional Language with Graph Reduction (2021)](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
 - [What's awesome about functional programming (2021)](https://thma.github.io/posts/2021-01-17-Whats-awesome-about-functional-programming.html)
+- [Why are imperative programs considered faster than their functional counterparts? (2021)](https://www.reddit.com/r/ProgrammingLanguages/comments/rsce6j/why_are_imperative_programs_considered_faster/)
 
 ## Images
 

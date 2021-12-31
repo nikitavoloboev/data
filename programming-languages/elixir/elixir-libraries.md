@@ -21,6 +21,7 @@
 - [ElixirST](https://github.com/gertab/ElixirST) - Session Types in Elixir.
 - [PardallMarkdown](https://github.com/alfredbaudisch/pardall_markdown) - Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding. Written in Elixir.
 - [OAuth2](https://github.com/scrogson/oauth2) - Elixir OAuth 2.0 Client Library.
+- [Joken](https://github.com/joken-elixir/joken) - Elixir JWT library.
 
 ## DB
 

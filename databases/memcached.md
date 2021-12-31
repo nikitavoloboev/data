@@ -12,3 +12,4 @@
 - [pymemcache](https://github.com/pinterest/pymemcache) - Comprehensive, fast, pure-Python memcached client.
 - [memc.rs](https://www.memc.rs/intro) - General-purpose distributed memory cache system compatible with Memcached. ([Code](https://github.com/memc-rs/memc-rs)) ([HN](https://news.ycombinator.com/item?id=29532552))
 - [twemproxy](https://github.com/bitleak/twemproxy) - Multi-process, fast and lightweight proxy for memcached and redis protocol.
+- [gomemcached](https://github.com/couchbase/gomemcached) - memcached binary protocol toolkit in go.

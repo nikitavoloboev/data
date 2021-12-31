@@ -150,3 +150,4 @@
 - [Better SQL JOINs (2021)](https://news.ycombinator.com/item?id=29687134)
 - [Running SQL JOINs on multiple CSV files](https://relational-pipes.globalcode.info/v_0/examples-csv-sql-join.xhtml)
 - [PGSpider](https://github.com/pgspider/pgspider) - High-Performance SQL Cluster Engine for distributed big data.
+- [SQL language proposal: JOIN FOREIGN](https://gist.github.com/joelonsql/15b50b65ec343dce94db6249cfea8aaa) ([HN](https://news.ycombinator.com/item?id=29739147))

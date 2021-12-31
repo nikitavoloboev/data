@@ -346,6 +346,7 @@
 - [Migrate](https://github.com/maragudk/migrate) - Simple database migration tool using an sql.DB connection and fs.FS for the migration source.
 - [ch](https://github.com/go-faster/ch) - TCP ClickHouse client in Go.
 - [kra](https://github.com/taichi/kra) - Database access helper library.
+- [go-sqlsmith](https://github.com/PingCAP-QE/go-sqlsmith) - Go version of SQLsmith.
 
 ## ML
 

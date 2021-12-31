@@ -506,3 +506,4 @@
 - [Learning to Regress Bodies from Images using Differentiable Semantic Rendering (2021)](https://arxiv.org/abs/2110.03480) ([Code](https://github.com/saidwivedi/DSR))
 - [High-Resolution Image Synthesis with Latent Diffusion Models (2021)](https://arxiv.org/abs/2112.10752) ([Code](https://github.com/CompVis/latent-diffusion))
 - [Photorealistic Audio-driven Video Portraits (2020)](https://richardt.name/publications/audio-dvp/) ([Code](https://github.com/xinwen-cs/AudioDVP))
+- [Awesome Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)

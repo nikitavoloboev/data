@@ -29,4 +29,4 @@ Some interesting words I like:
 - [Weird English (2021)](https://www.nationalreview.com/magazine/2021/11/29/weird-english/) ([HN](https://news.ycombinator.com/item?id=29246987))
 - [Moby Thesaurus](https://moby-thesaurus.org/) - Largest English-language thesaurus. ([Code](https://github.com/words/moby))
 - [an-array-of-english-words](https://github.com/words/an-array-of-english-words) - List of ~275,000 English words as JS package.
-- [You’re probably using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary)
+- [Using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary) ([HN](https://news.ycombinator.com/item?id=29734242))

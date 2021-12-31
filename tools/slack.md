@@ -53,3 +53,4 @@
 - [Awesome Slack](https://github.com/matiassingers/awesome-slack)
 - [Blockkit](https://github.com/imryche/blockkit) - Python library for building UI interfaces for Slack apps.
 - [Slack alternatives (2021)](https://twitter.com/sdw/status/1468308805939122181) ([More](https://twitter.com/sandofsky/status/1468259582317240321))
+- [Terraform Provider for Slack](https://github.com/TimDurward/terraform-provider-slack)

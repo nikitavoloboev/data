@@ -582,3 +582,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Best Things and Stuff of 2021](http://blog.fogus.me/2021/12/27/the-best-things-and-stuff-of-2021/) ([HN](https://news.ycombinator.com/item?id=29702698))
 - [What are some simple ways you can make yourself more attractive? (2021)](https://www.reddit.com/r/AskMen/comments/rqntta/what_are_some_simple_ways_you_can_make_yourself/)
 - [Ask Hacker News Weekly](https://www.daemonology.net/hn-weekly-ask/)
+- [Ask HN: What’s the most outrageous belief you’re confident is true? (2021)](https://news.ycombinator.com/item?id=29733026)

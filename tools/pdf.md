@@ -25,3 +25,4 @@
 - [cpdf-binaries](https://github.com/coherentgraphics/cpdf-binaries) - PDF Command Line Tools binaries.
 - [pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file.
 - [Processing PDFs with Cloud Functions (2020)](https://lukasschwab.me/blog/gen/cloud-function-pdf-processing.html)
+- [pystitcher](https://github.com/captn3m0/pystitcher) - Stitches your PDF files together, generating nice customizable bookmarks for you using a declarative input in the form of a markdown file. ([HN](https://news.ycombinator.com/item?id=29738723))

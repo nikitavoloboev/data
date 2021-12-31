@@ -91,3 +91,4 @@
 - [ViSQOL (Virtual Speech Quality Objective Listener)](https://github.com/google/visqol) - Objective, full-reference metric for perceived audio quality.
 - [Espresso](https://github.com/freewym/espresso) - Fast End-to-End Neural Speech Recognition Toolkit.
 - [UniSpeech - Large Scale Self-Supervised Learning for Speech](https://github.com/microsoft/UniSpeech)
+- [NISQA: Speech Quality and Naturalness Assessment](https://github.com/gabrielmittag/NISQA)

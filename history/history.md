@@ -1,5 +1,7 @@
 # History
 
+[Dan Carlin's Hardcore History podcast](https://overcast.fm/itunes173001861/dan-carlins-hardcore-history) is great.
+
 ## Notes
 
 - [If we've learned one thing from the last 2,500 years of human history, it's that all progress out of humanity's default state of misery and despair comes from being able to freely think, write, and argue.](https://twitter.com/APompliano/status/1399406777406472194)

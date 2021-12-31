@@ -136,3 +136,4 @@
 - [Consider SQLite (2021)](https://blog.wesleyac.com/posts/consider-sqlite) ([HN](https://news.ycombinator.com/item?id=29727707)) ([Lobsters](https://lobste.rs/s/0q9w7n/consider_sqlite))
 - [r2d2-sqlite](https://github.com/ivanceras/r2d2-sqlite) - r2d2 connection pool for sqlite.
 - [GopherCon 2021: Ben Johnson - Building Production Applications Using Go & SQLite](https://www.youtube.com/watch?v=XcAYkriuQ1o)
+- [Fast SQLite PWA notebook for CSV files](https://dirtylittlesql.com/) ([HN](https://news.ycombinator.com/item?id=29735392))

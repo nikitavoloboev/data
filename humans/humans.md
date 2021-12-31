@@ -44,6 +44,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Keanu Reeves interview 2021 - Keanu Reeves on Matrix Resurrection, John Wick, His Personal Life](https://www.esquire.com/entertainment/movies/a38241136/keanu-reeves-interview-2021/)
 - [Kevin Systrom: Instagram (2021)](https://overcast.fm/+eZyDZHzsI)
 - [An interview with 100 rabbits (2021)](https://sourcehut.org/blog/2021-12-08-100-rabbits-interview/)
+- [Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI (2021)](https://www.youtube.com/watch?v=DxREm3s1scA)
 
 ## Interesting bios
 

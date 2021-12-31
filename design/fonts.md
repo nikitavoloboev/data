@@ -91,6 +91,8 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Chomsky](https://github.com/ctrlcctrlv/chomsky) - Font in the style of the New York Times masthead.
 - [National Park Typeface](https://nationalparktypeface.com/)
 - [Klee](https://github.com/fontworks-fonts/Klee) - Script font handwritten by pencil or pen.
+- [Inria Sans and Inria Serif](https://github.com/BlackFoundryCom/InriaFonts) ([Web](https://black-foundry.com/work/inria-2/))
+- [Manrope](https://manropefont.com/) - Modern geometric sans-serif. ([Code](https://github.com/sharanda/manrope))
 
 ## Links
 

@@ -88,3 +88,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Ask HN: Why is everything changing too fast? (2021)](https://news.ycombinator.com/item?id=29457930)
 - [Ask HN: What's the next big thing in computing / programming? (2021)](https://news.ycombinator.com/item?id=29625625)
 - [The next big thing in 2022 is...](https://nbt.substack.com/p/nextbigthing2022) ([Tweet](https://twitter.com/nbt/status/1473720777098862596))
+- [Ask HN: What will stay the same in the next 50 years? (2021)](https://news.ycombinator.com/item?id=29743181)

@@ -91,6 +91,8 @@ It includes:
 - [Flight Review](https://flightreview.fm/) - Weekly podcast chronicling the journey of two entrepreneurs building Flightcontrol.
 - [Иммигранткаст](https://overcast.fm/itunes1333969136) - О том как живется на чужбине.
 - [Launched](https://launchedfm.com/) - Interview podcast telling the stories of app devs and creators launching a product into the world.
+- [Dan Carlin's Hardcore History](https://overcast.fm/itunes173001861/dan-carlins-hardcore-history)
+- [Dan Carlin's Hardcore History: Addendum](https://overcast.fm/itunes1326393257/dan-carlins-hardcore-history-addendum)
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 

@@ -31,3 +31,4 @@
 - [ICPCUDA](https://github.com/mp3guy/ICPCUDA) - Super fast implementation of ICP in CUDA for compute capable devices 3.5 or higher.
 - [CUDPP](https://github.com/cudpp/cudpp) - CUDA Data Parallel Primitives Library.
 - [RAFT](https://github.com/rapidsai/raft) - RAPIDS Analytics Framework Toolkit.
+- [TSNE-CUDA](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings.

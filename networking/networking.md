@@ -376,3 +376,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [What’s something all modern home networks should include, but most don’t? (2021)](https://www.reddit.com/r/HomeNetworking/comments/rqkrxr/whats_something_all_modern_home_networks_should/)
 - [rabbit-digger](https://github.com/rabbit-digger/rabbit-digger) - Rule based proxy written in Rust.
 - [FruityWiFi](http://fruitywifi.com/index_eng.html) - Open source tool to audit wireless networks. ([Code](https://github.com/xtr4nge/FruityWifi))
+- [UDPspeeder](https://github.com/wangyu-/UDPspeeder) - Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP).
