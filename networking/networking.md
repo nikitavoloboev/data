@@ -375,3 +375,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Roll Your Own Network](https://roll.urown.net/index.html) ([Lobsters](https://lobste.rs/s/ho2paq/roll_your_own_network))
 - [What’s something all modern home networks should include, but most don’t? (2021)](https://www.reddit.com/r/HomeNetworking/comments/rqkrxr/whats_something_all_modern_home_networks_should/)
 - [rabbit-digger](https://github.com/rabbit-digger/rabbit-digger) - Rule based proxy written in Rust.
+- [FruityWiFi](http://fruitywifi.com/index_eng.html) - Open source tool to audit wireless networks. ([Code](https://github.com/xtr4nge/FruityWifi))

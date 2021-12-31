@@ -610,6 +610,7 @@
 - [Pipe](https://github.com/JulienPalard/Pipe) - Enabling a sh like infix syntax (using pipes).
 - [stackprinter](https://github.com/cknd/stackprinter) - Debugging-friendly exceptions for Python.
 - [outputformater](https://github.com/delestro/outputformater) - Python library to decorate and beautify strings.
+- [PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming. ([Docs](https://pyfunctional.pedro.ai/))
 
 ## Links
 

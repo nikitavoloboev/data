@@ -25,3 +25,4 @@
 - [Anime recommendations (2021)](https://twitter.com/dan_abramov/status/1470493215371505670)
 - [AnimeDB TG Bot](https://github.com/ArnabXD/AnimeDB-tgbot) - Search info about anime, manga from Telegram.
 - [AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3) - Use AnimeGANv3 to make your own animation works, including turning photos or videos into anime.
+- [Awesome ACG](https://github.com/soruly/awesome-acg) - Curated list of awesome technologies related to Anime, Comic and Games.

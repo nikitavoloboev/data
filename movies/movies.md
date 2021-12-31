@@ -74,3 +74,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Best movies that involve gambling as the main event?](https://www.reddit.com/r/MovieSuggestions/comments/r776gl/best_movies_that_involve_gambling_as_the_main/)
 - [The 50 best films of 2021](https://www.bfi.org.uk/sight-and-sound/polls/50-best-films-2021)
 - [BFI](https://www.bfi.org.uk/) - Film, TV & the moving image. ([Twitter](https://twitter.com/BFI))
+- [Movies which had a big twist that it left you speechless](https://www.reddit.com/r/MovieSuggestions/comments/rs53pu/movies_which_had_a_big_twitst_that_it_left_you/)

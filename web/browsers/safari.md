@@ -59,3 +59,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [New WebKit Features in Safari 15 (2021)](https://webkit.org/blog/11989/new-webkit-features-in-safari-15/)
 - [Userscripts Safari](https://github.com/quoid/userscripts) - Open-source userscript editor for Safari. ([Web](https://quoid.github.io/userscripts/))
 - [Stay](https://github.com/shenruisi/Stay/blob/main/README-EN.md) - Local userscript manager for Safari on iOS.
+- [Develop a Mac Safari Extension App in 2022](https://www.youtube.com/watch?v=E0qu0PHW8TU)
