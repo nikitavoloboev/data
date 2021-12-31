@@ -664,5 +664,5 @@
 - [Ask HN: What are some good Rust code samples? (2021)](https://news.ycombinator.com/item?id=29723455)
 - [Rust Ranges and suffering (2021)](https://kaylynn.gay/blog/post/rust_ranges_and_suffering)
 - [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) - How to bootstrap support for a no_std target. ([Code](https://github.com/rust-embedded/embedonomicon))
-- [Why is my Rust build so slow? (2021)](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow)
+- [Why is my Rust build so slow? (2021)](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow) ([HN](https://news.ycombinator.com/item?id=29742694))
 - [rust-analyzer in 2021](https://rust-analyzer.github.io//blog/2021/12/30/2021-recap.html)

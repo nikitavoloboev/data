@@ -110,3 +110,4 @@
 - [Bayesian Statistics with Julia and Turing](https://github.com/storopoli/Bayesian-Julia)
 - [The Comprehensive Julia Tutorials - YouTube](https://www.youtube.com/playlist?list=PLCXbkShHt01seTlnlVg6O7f6jKGTguFi7) ([Code](https://github.com/emmettgb/JuliaLessons))
 - [The Future of Machine Learning and why it looks a lot like Julia (2021)](https://towardsdatascience.com/the-future-of-machine-learning-and-why-it-looks-a-lot-like-julia-a0e26b51f6a6)
+- [10 things I love about Julia (2021)](https://trang.page/2021/12/28/10-things-i-love-about-julia/)

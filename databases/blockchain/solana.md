@@ -4,7 +4,7 @@
 
 Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. [Here](https://twitter.com/ayushmenon_/status/1476294409205526534) is a nice guide.
 
-I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/). I then [stake](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) it with [Marinade](https://marinade.finance/app/staking) & put mSOL I get from staking into [liquidity pool](https://github.com/solana-labs/spl-zk-token). If I need liquidity in real world, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out.
+I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/). I then [stake](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) it with [Marinade](https://marinade.finance/app/staking) & put mSOL I get from staking into [mSOL liquidity pool](https://marinade.finance/app/mnde). If I need liquidity in real world, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out.
 
 Until you can purchase ownership of stocks with blockchain, I buy [stocks/ETFs](../../economy/investing.md) with [Interactive Brokers](https://ibkr.com/referral/nikita206).
 

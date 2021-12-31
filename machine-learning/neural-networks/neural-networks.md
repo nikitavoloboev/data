@@ -261,3 +261,4 @@
 - [Building a Neural Network in Go (2021)](https://ataylor.io/blog/go-mlp/)
 - [Echo State Networks in Python](https://github.com/cknd/pyESN)
 - [Neural Networks for Inference, Inference for Neural Networks (2019)](https://github.com/stefanwebb/dphil-thesis-final/blob/master/main.pdf)
+- [Let's Play Distill: Building Blocks (2019)](https://www.youtube.com/watch?v=h6vLETyCzPo) ([Tweet](https://twitter.com/nickcammarata/status/1476774347767386115))

@@ -176,3 +176,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [How to develop black and white film at home with coffee](https://www.fieldmag.com/articles/how-to-develop-film-with-coffee-caffenol-guide) ([HN](https://news.ycombinator.com/item?id=29635815))
 - [What photography-related content do you watch most on YouTube? (2021)](https://www.reddit.com/r/photography/comments/rmc42e/what_photographyrelated_content_do_you_watch_most/)
 - [Photography Reddit AMA (2021)](https://www.reddit.com/r/photography/comments/rnl06g/official_question_thread_ask_rphotography/)
+- [Your favorite photo you took in 2021](https://twitter.com/Reuben_Wu/status/1476604584164573190)

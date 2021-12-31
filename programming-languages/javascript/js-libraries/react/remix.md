@@ -56,3 +56,4 @@
 - [Remix on Cloudflare Pages](https://remix.pages.dev/) ([Code](https://github.com/GregBrimble/remix.pages.dev))
 - [Upload handler for Remix using Firebase Storage](https://github.com/invertase/remix-firebase-storage-file-handler)
 - [Remix Fundamentals](https://github.com/kentcdodds/remix-fundamentals)
+- [Remix Serverless Starter](https://github.com/shamsup/remix-starter-serverless)
