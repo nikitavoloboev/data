@@ -136,3 +136,4 @@
 - [ChristmasSoc](https://github.com/Wren6991/ChristmasSoC) - Dual-core RISC-V SoC with JTAG, atomics, SDRAM.
 - [Beyond RISC – The Post-RISC Architecture (1996)](https://cse.msu.edu/~enbody/postrisc/postrisc2.htm) ([HN](https://news.ycombinator.com/item?id=29659456))
 - [SiFive-Core](https://github.com/luojia65/sifive-core) - Low level access to SiFive RISC-V processor cores.
+- [Minerva](https://github.com/minerva-cpu/minerva) - 32-bit RISC-V soft processor.
