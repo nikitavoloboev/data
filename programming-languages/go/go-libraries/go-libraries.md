@@ -98,6 +98,8 @@
 - [httpmock](https://github.com/nhatthm/httpmock) - Mock library implementing httptest.Server to support HTTP behavioral tests.
 - [clock](https://github.com/benbjohnson/clock) - Small library for mocking time in Go.
 - [gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - Go test output for humans.
+- [gomockhandler](https://github.com/sanposhiho/gomockhandler) - Clever and more agile manager of golang/mock.
+- [gofuzz](https://github.com/google/gofuzz) - Library for populating go objects with random values.
 
 ## Web
 
@@ -1197,6 +1199,8 @@
 - [gotextdiff](https://github.com/hexops/gotextdiff) - Unified text diffing in Go.
 - [lingua-go](https://github.com/pemistahl/lingua-go) - Most accurate natural language detection library in the Go ecosystem, suitable for long and short text alike.
 - [clipboard](https://github.com/golang-design/clipboard) - Cross platform (macOS/Linux/Windows/Android/iOS) clipboard package in Go.
+- [Molizen](https://github.com/sanposhiho/molizen) - Typed actor framework for Go.
+- [FreeCache](https://github.com/coocood/freecache) - Cache library for Go with zero GC overhead and high concurrent performance.
 
 ## Links
 
@@ -1233,3 +1237,4 @@
 - [modvendor](https://github.com/goware/modvendor) - Auxiliary vendoring tool for Go's new go.mod.
 - [interfaces](https://github.com/rjeczalik/interfaces) - Code generation tools for Go's interfaces.
 - [A Closer Look at Go’s sync Package (2019)](https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a)
+- [Recommendation for Key/Value storage in Go](https://www.reddit.com/r/golang/comments/rrccjq/recommendation_for_keyvalue_storage/)

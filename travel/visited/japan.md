@@ -61,3 +61,4 @@
 - [Japan’s curiously quiescent inflation rate (2021)](https://www.economist.com/finance-and-economics/2021/11/20/the-case-of-the-curiously-quiescent-inflation-rate) ([HN](https://news.ycombinator.com/item?id=29312300))
 - [Japan to implement bank-deposit-backed digital currency in 2022](https://asia.nikkei.com/Business/Finance/Japan-to-launch-bank-deposit-backed-digital-currency-in-2022) ([HN](https://news.ycombinator.com/item?id=29330819))
 - [Japan's Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998) ([HN](https://news.ycombinator.com/item?id=29709551))
+- [‘I go too far, too deep’: the Swiss wanderer who found the soul of Japan (2021)](https://www.theguardian.com/artanddesign/gallery/2021/dec/22/swiss-wanderer-soul-of-japan-werner-bischof)

@@ -712,6 +712,9 @@
 - [templite](https://github.com/lukeed/templite) - Lightweight templating in 150 bytes.
 - [ml-matrix](https://github.com/mljs/matrix) - Matrix manipulation and computation library.
 - [env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc.
+- [Draggabilly](https://github.com/desandro/draggabilly) - Make elements draggable.
+- [flattie](https://github.com/lukeed/flattie) - Tiny (203B) and fast utility to flatten an object with customizable glue.
+- [Zoomist](https://github.com/cotton123236/zoomist) - JavaScript library for zooming image.
 
 ## Links
 

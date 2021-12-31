@@ -71,3 +71,5 @@ Is logical theory of computable functions.
 - [Simpler, Easier! How to write a simple dependent type checker](http://augustss.blogspot.com/2007/10/simpler-easier-in-recent-paper-simply.html)
 - [Sloe](https://github.com/DrearyLisper/sloe) - Simple functional language based on lambda-calculus.
 - [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc)
+- [Categorical glueing for simply typed lambda calculus](https://github.com/FrozenWinters/stlc)
+- [λ-Calculus, Combinatory Logic and Cartesian Closed Categories (2021)](https://thma.github.io/posts/2021-04-04-Lambda-Calculus-Combinatory-Logic-and-Cartesian-Closed-Categories.html)

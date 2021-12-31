@@ -49,6 +49,7 @@
 - [Simple JWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt) - JSON Web Token authentication plugin for the Django REST Framework.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Generate real Swagger/OpenAPI 2.0 specifications from a Django Rest Framework API.
 - [Graphene-Django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
+- [Graphene-Django-Plus](https://github.com/0soft/graphene-django-plus) - Tools to easily create permissioned CRUD endpoints in graphene.
 - [Optimizing Postgres full text search in Django (2019)](https://hodovi.ch/blog/optimizing-postgres-full-text-search-django/)
 - [Understand Group by in Django with SQL (2020)](https://hakibenita.com/django-group-by-sql)
 - [Running Django + React service by Cloud Run (2020)](http://djkooks.github.io/gcp-django-deploy-cloudrun)
@@ -118,3 +119,4 @@
 - [django-upgrade](https://github.com/adamchainz/django-upgrade) - Automatically upgrade your Django projects.
 - [Integrate Pydantic with Django and Django REST Framework (2021)](https://blog.yezz.me/blog/Integrate-Pydantic-with-Django-and-Django-REST-Framework)
 - [Database-backed Periodic Tasks](https://github.com/celery/django-celery-beat) - Celery Periodic Tasks backed by the Django ORM.
+- [Create Django App](https://github.com/imagineai/create-django-app)

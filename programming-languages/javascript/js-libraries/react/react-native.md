@@ -19,7 +19,7 @@
 - [Declarative future of gestures and animations in React Native - Krzysztof Magiera (2018)](https://www.youtube.com/watch?v=kdq4z2708VM)
 - [Simple physics with Reanimated — Part 1](https://blog.swmansion.com/simple-physics-with-reanimated-part-1-9d55d36f73cd)
 - [Why Discord is Sticking with React Native (2018)](https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427)
-- [React Native Web](https://github.com/necolas/react-native-web) - Makes it possible to run React Native components and APIs on the web using React DOM.
+- [React Native Web](https://github.com/necolas/react-native-web) - Makes it possible to run React Native components and APIs on the web using React DOM. ([How to combine React Native Web + responsivity + NextJS SSR, to get SEO](https://dev.to/redbar0n/how-to-combine-react-native-web-responsivity-nextjs-ssr-to-get-seo-a4g))
 - [CodePush](https://github.com/Microsoft/code-push) - Cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [React Native CLI](https://github.com/react-native-community/react-native-cli) - Command Line Interface for React Native.
 - [Hermes JS Engine](https://github.com/facebook/hermes) - Small and lightweight JavaScript engine optimized for running React Native on Android.

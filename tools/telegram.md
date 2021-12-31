@@ -116,6 +116,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Convert telegram channel to an email newsletter](https://articlius.com/home/SubscribeToTelegramChannelNewsletter)
 - [Telegram for GitHub Actions](https://github.com/appleboy/telegram-action) - GitHub Action that sends a Telegram message.
 - [TDLib (Telegram Database library)](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients. It can be easily used from almost any programming language. ([Web](https://core.telegram.org/tdlib))
+- [python-telegram](https://github.com/alexander-akhmetov/python-telengram) - Python API for the tdlib library. It helps you build your own Telegram clients.
 - [Such Chat](https://such.chat/) - Customer support via Telegram made easy.
 - [Building a Telegram Bot with Azure Functions and Node.js (2020)](https://akhromieiev.com/tutorials/telegram-bot-azure-functions-and-node-js/)
 - [TL (Type Language)](https://github.com/ernado/tl) - Parser for telegram's mtproto.

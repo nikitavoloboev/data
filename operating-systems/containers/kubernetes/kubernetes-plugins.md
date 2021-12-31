@@ -38,6 +38,8 @@
 - [Kubernetes Operator for Apache Flink](https://github.com/spotify/flink-on-k8s-operator)
 - [kubectl-curl](https://github.com/segmentio/kubectl-curl) - Kubectl plugin to run curl commands against kubernetes pods.
 - [Kubernetes Security Profiles Operator](https://github.com/kubernetes-sigs/security-profiles-operator) - Out-of-tree Kubernetes enhancement which aims to make it easier for users to use SELinux, seccomp and AppArmor in Kubernetes clusters.
+- [Apache APISIX for Kubernetes](https://github.com/apache/apisix-ingress-controller) - Ingress controller for K8s.
+- [Hazelcast Platform Operator](https://github.com/hazelcast/hazelcast-platform-operator)
 
 ## Helm Charts
 

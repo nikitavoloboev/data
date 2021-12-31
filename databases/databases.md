@@ -495,3 +495,5 @@
 - [Slashbase](https://slashbase.com/) - Open-source collaborative IDE for your databases. ([Code](https://github.com/slashbase/slashbase))
 - [Индексируем базу: как делать хорошо и не делать плохо](https://github.com/Envek/saintprubyconf-db-indexes-talk)
 - [Ask HN: How do you manage direct updates to databases in a production system (2021)](https://news.ycombinator.com/item?id=29563226)
+- [Databases in 2021: A Year in Review](https://ottertune.com/blog/2021-databases-retrospective/) ([HN](https://news.ycombinator.com/item?id=29731885))
+- [TinyKV Course](https://github.com/tidb-incubator/tinykv) - Builds a key-value storage system with the Raft consensus algorithm.

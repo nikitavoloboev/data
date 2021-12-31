@@ -189,3 +189,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Ask HN: Which tech stack is the most fun? (2021)](https://news.ycombinator.com/item?id=29625165)
 - [Prodspec and Annealing (2021)](https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production)
 - [1 Year of Event Sourcing and CQRS (2018)](https://itnext.io/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
+- [SystemDesign.org](https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5_LUeFj65lI/edit) - Textbook for System Design Interviews.

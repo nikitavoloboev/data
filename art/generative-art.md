@@ -194,3 +194,5 @@
 - [Generative Art Experiments using Haskell, GHCJS, and Reflex (FRP)](https://github.com/mankyKitty/fantastic-waddle)
 - [Grok {Shan, Shui}\*: Advent of understanding the generative art (2021)](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html) ([HN](https://news.ycombinator.com/item?id=29717476))
 - [Procedurally understandably generated Chinese landscape painting](https://github.com/RedContritio/shan_shui_inf)
+- [2D Generative Art Resources](https://twitter.com/miketuritzin/status/1476320114353979394)
+- [Building Generative Glitch Art Tools (2021)](https://adamfuhrer.com/building-generative-glitch-art-tools)

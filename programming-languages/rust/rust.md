@@ -11,6 +11,7 @@
 - [Once you internalize Rust's concept of ownership and its criticality to memory safety, it forever changes how you look at C/C++ code. You will constantly be amazed - and demoralized - by how often C/C++ code doesn't document memory lifetimes/ownership in its API contracts.](https://twitter.com/indygreg/status/1425314471950491650)
 - [Rust enums are amazing. They are also known as Sum Types.](https://twitter.com/clementd/status/1434583356969308160)
 - [If you're building a database , OS, or other systems-level infrastructure, choose Rust. If you're not building those things, choose not-Rust. Rust is the better C we've all been hoping for. But most companies have no business writing programs in C, or even in a better C.](https://twitter.com/jdegoes/status/1459899722358009860)
+- [If you are starting learning Rust, try to follow this rule of thumb: only owned types in fields of your own types, always return owned values unless you're passing through directly from a function argument, clone liberally, derive(Copy) when possible, use Arc/RefCell to unblock.](https://twitter.com/ekuber/status/1476128384908410882)
 
 ## Links
 
@@ -661,3 +662,5 @@
 - [Futuristic Rust: context emulation (2021)](https://haibane-tenshi.github.io/rust-contexts/) ([Reddit](https://www.reddit.com/r/rust/comments/rov9ip/futuristic_rust_context_emulation/))
 - [This Year in Embedded Rust: 2021 edition](https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/) ([HN](https://news.ycombinator.com/item?id=29722905))
 - [Ask HN: What are some good Rust code samples? (2021)](https://news.ycombinator.com/item?id=29723455)
+- [Rust Ranges and suffering (2021)](https://kaylynn.gay/blog/post/rust_ranges_and_suffering)
+- [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) - How to bootstrap support for a no_std target. ([Code](https://github.com/rust-embedded/embedonomicon))

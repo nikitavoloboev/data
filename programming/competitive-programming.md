@@ -39,3 +39,4 @@
 - [Competitive Programming: Complete Guideline](https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline)
 - [Grind tracking](https://github.com/prius/learning) - Leetcode solutions, contests and some other algorithm-related stuff.
 - [Competitive Programming Questions](https://github.com/neerazz/FAANG)
+- [USACO Guide](https://usaco.guide/) - Free collection of curated, high-quality resources to take you from Bronze to Platinum and beyond. ([Code](https://github.com/cpinitiative/usaco-guide))

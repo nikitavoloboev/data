@@ -2,6 +2,7 @@
 
 ## Bots
 
+- [Skyra](https://github.com/skyra-project/skyra) - All-in-one multipurpose Discord Bot designed to carry out most of your server's needs with great performance and stability. ([Web](https://skyra.pw/))
 - [Actions Bot](https://github.com/wei/discord-actions-bot) - Discord Bot that helps with Action Items.
 - [TypeScript Community Bot](https://github.com/typescript-community/community-bot) - Utility bot built for the TypeScript Community Discord Server.
 - [KCD Community Bot](https://github.com/kentcdodds/kcd-discord-bot) - Automating onboarding and other things.
@@ -99,3 +100,4 @@
 - [Awesome Discord](https://github.com/jacc/awesome-discord)
 - [The Best Discord Bots for Your Server (2021)](https://www.wired.com/story/best-discord-bots/)
 - [Top.gg](https://top.gg/) - The Best Discord Bots and Servers.
+- [Discord Components](https://github.com/skyra-project/discord-components) - Discord message components to easily build and display fake Discord messages on your webpage.

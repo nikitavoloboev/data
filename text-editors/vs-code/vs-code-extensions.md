@@ -413,6 +413,10 @@ Below is a list of extensions I use.
 
 - [VSCode Zig](https://github.com/ziglang/vscode-zig)
 
+## Django
+
+- [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) - Beautiful syntax and scoped snippets for perfectionists with deadlines. ([Code](https://github.com/vscode-django/vscode-django))
+
 ## Fun
 
 - [VSinder](https://github.com/benawad/vsinder) - Dating app for programmers where you swipe on code. ([Tweet](https://twitter.com/benawad/status/1336691028473090050)) ([API](https://github.com/benawad/vsinder-api))

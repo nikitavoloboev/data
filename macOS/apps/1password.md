@@ -16,7 +16,7 @@ No longer need to remember passwords and I now have a unique password for every 
 - [1Password Secrets Automation (2021)](https://1password.com/secrets/) ([HN](https://news.ycombinator.com/item?id=26794040)) ([Article](https://blog.1password.com/introducing-secrets-automation/))
 - [1Password Connect Node SDK](https://github.com/1Password/connect-sdk-js)
 - [Hashicorp Vault 1Password Secrets Backend](https://github.com/1Password/vault-plugin-secrets-onepassword)
-- [1Password Security Design (2021)](https://1password.com/files/1Password-White-Paper.pdf)
+- [1Password Security Design (2021)](https://1passwordstatic.com/files/security/1password-white-paper.pdf)
 - [gokey](https://github.com/cloudflare/gokey) - Simple vaultless password manager in Go.
 - [Behind the scenes of 1Password for Linux (2021)](https://dteare.medium.com/behind-the-scenes-of-1password-for-linux-d59b19143a23)
 - [1PasswordSuite](https://github.com/djhohnstein/1PasswordSuite) - Utilities to extract secrets from 1Password.

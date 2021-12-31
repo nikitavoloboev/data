@@ -16,7 +16,7 @@ I get a notification every day at 20:00 on my phone to complete the habits.
 
 `Focus | Impact` marked as done when I was not distracted by anything during the day (went through my todos one by one) (no analytics & pointless time wasters). I worked on my [goals](goals.md) & used time wisely. I was calm, mindful and happy.
 
-`Happy | Open / Kind` marked as done when all/most of my [values](../business/startups/values.md) and [rules](rules.md) were held well. I showed love to people I care about & myself (true love & letting go of any mistake/accident). I made new things and shared it. I was myself & unafraid of anything. Happiness is often a side effect of a nice day.
+`Happy | Open / Kind` marked as done when all/most of my [values](../business/startups/values.md) and [rules](rules.md) were held well. I showed love to people I care about & myself (true love & letting go of any mistake/accident). I made new things and shared them. I was myself & unafraid of anything. Happiness is often a side effect of a nice day.
 
 `Plan | Journal` marked as done when I made a plan for tomorrow and reflected on the day in [my journal](../looking-back/looking-back.md). Writing helps me clear up my mind and clean up life and my thinking. Planning includes: 1. Calendar check. 2. Tasks (for next day, especially important to define the first task!). Everything is planned as per the week goals.
 

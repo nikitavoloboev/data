@@ -31,6 +31,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Nano Spy](https://github.com/ai/nanospy) - Tiny Node.js library to spy and mock methods in tests with great TypeScript support.
 - [tinyspy](https://github.com/Aslemammad/tinyspy) - Minimal fork of nanospy, with more features.
 - [test-data-bot](https://github.com/jackfranklin/test-data-bot) - Generate fake yet realistic looking data for your unit tests.
+- [Interface-Forge](https://github.com/Goldziher/interface-forge) - Graceful mock-data and fixtures generation using TypeScript.
 
 ## Auth
 
@@ -252,6 +253,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [scanner](https://github.com/101arrowz/scanner) - Document scanning from scratch.
 - [penpal](https://github.com/Aaronius/penpal) - Promise-based library for securely communicating with iframes via postMessage.
 - [unconfig](https://github.com/antfu/unconfig) - Universal solution for loading configurations.
+- [od](https://github.com/strong-roots-capital/od) - Nice date library.
+- [memoize](https://github.com/strong-roots-capital/memoize) - Higher-order memoization function.
 
 ## Links
 

@@ -111,7 +111,7 @@ if (
 - [Promisees](https://github.com/bevacqua/promisees) - Promise visualization playground for the adventurous.
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials.
 - [Perflink](https://github.com/lukejacksonn/perflink) - JavaScript performance benchmarks that you can share via URL.
-- [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) ([Code](https://github.com/MostlyAdequate/mostly-adequate-guide)) ([HN](https://news.ycombinator.com/item?id=22654135))
+- [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbook.io/mostly-adequate-guide/) ([Code](https://github.com/MostlyAdequate/mostly-adequate-guide)) ([HN](https://news.ycombinator.com/item?id=22654135))
 - [Volta](https://github.com/volta-cli/volta) - JavaScript Launcher. ([Web](https://volta.sh/)) ([HN](https://news.ycombinator.com/item?id=27023453))
 - [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Fastpack](https://fastpack.sh/) - Pack JavaScript fast & easy.

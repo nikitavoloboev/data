@@ -4,6 +4,10 @@
 
 - [Shure MV7](https://twitter.com/fatih/status/1446036296640647168)
 
+## Notes
+
+- [Ask questions and don't interrupt the guest to let them think as much as they need.](https://twitter.com/nevmed/status/1476258800105660429)
+
 ## Links
 
 - [Hello Internet editing time lapse](http://www.cgpgrey.com/blog/hello-internet-editing-time-lapse)

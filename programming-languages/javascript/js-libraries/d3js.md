@@ -44,3 +44,5 @@
 - [Billboard.js](https://github.com/naver/billboard.js) - Re-usable, easy interface JavaScript chart library based on D3.js.
 - [D3 Charts](https://observablehq.com/@d3/charts?collection=@d3/charts)
 - [Creating a Force Graph using React, D3, and PixiJS (2021)](https://levelup.gitconnected.com/creating-a-force-graph-using-react-d3-and-pixijs-95616051aba)
+- [d3-zoom](https://github.com/d3/d3-zoom) - Pan and zoom SVG, HTML or Canvas using mouse or touch input.
+- [d3-graph-controller](https://github.com/DerYeger/d3-graph-controller) - TypeScript library for visualizing and simulating directed, interactive graphs.

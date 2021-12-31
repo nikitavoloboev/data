@@ -62,6 +62,7 @@
 - [DistributionsAD.jl](https://github.com/TuringLang/DistributionsAD.jl) - Automatic differentiation of Distributions using Tracker, Zygote, ForwardDiff and ReverseDiff.
 - [Libtask](https://github.com/TuringLang/Libtask.jl) - Tape based task copying in Turing.
 - [MLUtils](https://github.com/JuliaML/MLUtils.jl) - Utilities and abstractions for Machine Learning tasks.
+- [OMEinsum](https://github.com/under-Peter/OMEinsum.jl) - Differentiable Tensor Networks.
 
 ## Math
 

@@ -1,5 +1,9 @@
 # [Formal verification](https://en.wikipedia.org/wiki/Formal_verification)
 
+## Notes
+
+- [I like to start with a full english description, and then write things as FOL predicates. The act of translating it into math, even "sloppy" math, is a great first past for seeing issues more clearly. If it passes that, then I move on to FM.](https://twitter.com/hillelogram/status/1476378372724998150)
+
 ## Links
 
 - [What, Why, and How of Formal Methods (2019)](https://cloudbootup.com/post/what-why-and-how-of-formal-methods.html)

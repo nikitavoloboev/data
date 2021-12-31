@@ -578,3 +578,4 @@
 - [Havener](https://github.com/homeport/havener) - Swiss army knife for Kubernetes tasks.
 - [ktop](https://github.com/vladimirvivien/ktop) - top-like tool for your Kubernetes clusters.
 - [k8svent](https://github.com/atomist/k8svent) - Send Kubernetes pods as JSON to webhook endpoints.
+- [Web-based Kubernetes scheduler simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator)

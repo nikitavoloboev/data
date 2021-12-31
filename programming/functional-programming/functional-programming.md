@@ -146,6 +146,8 @@
 - [Algebraic Data Types in 10 Minutes – Daniel Rogozin (2021)](https://www.youtube.com/watch?v=UqwLn2OyQ_E)
 - [The Decent Way to Learn Functional Programming (2012)](https://blog.oxij.org/2012/01/16/the-decent-way-to-learn-functional-programming/)
 - [Lightweight higher-kinded polymorphism](https://www.cl.cam.ac.uk/~jdy22/papers/lightweight-higher-kinded-polymorphism.pdf)
+- [Implementing a Functional Language with Graph Reduction (2021)](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
+- [What's awesome about functional programming (2021)](https://thma.github.io/posts/2021-01-17-Whats-awesome-about-functional-programming.html)
 
 ## Images
 

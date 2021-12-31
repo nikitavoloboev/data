@@ -62,3 +62,4 @@
 - [Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer) - Automatic ML model optimization tool.
 - [runx](https://github.com/NVIDIA/runx) - Deep Learning Experiment Management.
 - [ML Console](https://mlconsole.com/) - Web app to train ML models, for free and client-side. ([HN](https://news.ycombinator.com/item?id=29716738))
+- [MMDeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework. ([Docs](https://mmdeploy.readthedocs.io/en/latest/))

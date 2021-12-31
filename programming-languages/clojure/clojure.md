@@ -193,3 +193,4 @@
 - [Clojure Macros and Metaprogramming](https://clojure-doc.github.io/articles/language/macros/)
 - [Microservices with Clojure (2018)](https://www.packtpub.com/product/microservices-with-clojure/9781788622240) ([Code](https://github.com/PacktPublishing/Microservices-with-Clojure))
 - [Build Clojure app into Container Image using jib (docker-less build)](https://github.com/atomisthq/jibbit)
+- [Clojure is a better Java than Java (2019)](https://purelyfunctional.tv/article/clojure-is-a-better-java-than-java/) ([Lobsters](https://lobste.rs/s/hewp3b/clojure_is_better_java_than_java))

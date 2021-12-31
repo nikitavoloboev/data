@@ -143,3 +143,4 @@
 - [YC Founders Made These Fundraising Mistakes (2021)](https://www.youtube.com/watch?v=6606a2ka-jQ) ([HN](https://news.ycombinator.com/item?id=29385033))
 - [Rhetoric](https://www.rhetoric.app/) - Pitch feedback for founders.
 - [Hyperscale](https://www.hyperscalefund.com/) - Fast funding for early blockchain projects. ([Code](https://github.com/hyper-scale/frontend))
+- [The Mirrortable (2021)](https://balajis.com/mirrortable/) - How we can combine web2 and web3 tools to automate the mess of angel investing. ([Tweet](https://twitter.com/balajis/status/1475438356473409542))

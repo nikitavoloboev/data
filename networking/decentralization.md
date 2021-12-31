@@ -131,3 +131,4 @@
 - [What web3 projects are you most excited about (2021)](https://twitter.com/rrhoover/status/1469691069675847688)
 - [Web3 is going just great](https://web3isgoinggreat.com/) - Timeline of some of 2021's greatest hits in cryptocurrencies, NFTs, and other web3 projects. ([Code](https://github.com/molly/web3-is-going-great))
 - [The Web3 Fraud (2021)](https://www.usenix.org/publications/loginonline/web3-fraud) ([Tweet](https://twitter.com/ncweaver/status/1471668214480334851)) ([HN](https://news.ycombinator.com/item?id=29587469)) ([Lobsters](https://lobste.rs/s/wcggoi/web3_fraud))
+- [Why Web3? (2021)](https://avc.com/2021/12/why-web3/) ([HN](https://news.ycombinator.com/item?id=29727420))

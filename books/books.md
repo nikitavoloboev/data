@@ -270,6 +270,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Best comedies you read (2021)](https://www.reddit.com/r/suggestmeabook/comments/rprsrm/best_comedy_youve_read/)
 - [Mind Expanding Books](https://books.vishnuks.com/) ([Code](https://github.com/hackerkid/Mind-Expanding-Books)) ([HN](https://news.ycombinator.com/item?id=29711042))
 - [Robert Miller's 2020 reading list](https://www.bertcmiller.com/2021/01/01/2020-reading-list.html)
+- [Books changed your life and stuck with you (2021)](https://www.reddit.com/r/suggestmeabook/comments/rrchnp/has_any_books_changed_your_life_and_stuck_with_you/)
+- [Books read in 2021](https://twitter.com/ManishEarth/status/1364969804562452480)
 
 ## Interesting Prose Books
 

@@ -33,3 +33,4 @@
 - [Incorporating in Germany is hard (2021)](https://twitter.com/andreasklinger/status/1466333639176859651)
 - [Berlin’s Transformation Is Wunderbar: a San Francisco Transplant’s View (2021)](https://sf.streetsblog.org/2021/12/06/berlins-transformation-is-wunderbar-a-san-francisco-transplants-view/)
 - [Germany Finance Reddit](https://www.reddit.com/r/Finanzen/wiki/index)
+- [Yes, Other Countries Do Housing Better, Case 2: Germany (2021)](https://www.sightline.org/2021/05/27/yes-other-countries-do-housing-better-case-2-germany/) ([HN](https://news.ycombinator.com/item?id=29721535))

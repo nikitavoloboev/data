@@ -65,6 +65,7 @@
 - [taoPQ](https://github.com/taocpp/taopq) - C++ client library for PostgreSQL.
 - [Velox](https://github.com/facebookincubator/velox) - C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
 - [Supersonic](https://github.com/google/supersonic) - Ultra-fast, column oriented query engine library written in C++.
+- [SQLite ORM](https://github.com/fnc12/sqlite_orm) - Light header only library for modern C++.
 
 ## Crypto
 

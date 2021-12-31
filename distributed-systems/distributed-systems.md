@@ -51,7 +51,7 @@
 - [Titanoboa](https://github.com/mikub/titanoboa) - Community version of fully distributed, highly scalable and fault tolerant workflow orchestration platform for JVM.
 - [Buoyant](https://buoyant.io/) - Helps you deploy and run Linkerd, the fully open source, ultralight service mesh.
 - [Grappa](https://github.com/uwsampa/grappa) - Runtime system for scaling irregular applications on commodity clusters.
-- [MIT Distributed Systems course (2020)](https://pdos.csail.mit.edu/6.824/schedule.html) ([Videos](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)) ([Notes](https://timilearning.com/)) ([HN](https://news.ycombinator.com/item?id=24948524))
+- [MIT Distributed Systems course (2020)](https://pdos.csail.mit.edu/6.824/schedule.html) ([Videos](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)) ([Notes](https://timilearning.com/)) ([HN](https://news.ycombinator.com/item?id=24948524)) ([Discord](https://discord.com/invite/KbhkEqpBqC))
 - [Correctness proofs of distributed systems with Isabelle/HOL (2019)](https://www.youtube.com/watch?v=Uav5jWHNghY)
 - [Apache Mesos](https://github.com/apache/mesos) - Cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks.
 - [Gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.

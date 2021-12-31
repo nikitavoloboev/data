@@ -301,3 +301,4 @@
 - [Level](https://leveljs.org/) - Node.js modules to build your very own database. ([GitHub](https://github.com/Level))
 - [subleveldown](https://github.com/Level/subleveldown) - Split a levelup database into sublevels with their own keyspace, encoding and events.
 - [tree-sitter-highlight](https://github.com/devongovett/tree-sitter-highlight) - Syntax highlighter for Node powered by Tree Sitter. Written in Rust.
+- [Node.js Integration Tests Best Practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices)

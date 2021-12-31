@@ -42,6 +42,7 @@
 - [AIOHTTP](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python. ([Docs](https://docs.aiohttp.org/en/stable/))
 - [GQL](https://github.cokm/graphql-python/gql) - GraphQL client in Python.
 - [FastWSGI](https://github.com/jamesroberts/fastwsgi) - Ultra fast WSGI server for Python 3. ([HN](https://news.ycombinator.com/item?id=29571421))
+- [Starlite](https://github.com/Goldziher/starlite) - Light, opinionated and flexible ASGI API framework built on top of pydantic and Starlette.
 
 ## ML
 
@@ -110,6 +111,7 @@
 - [Plotext](https://github.com/piccolomo/plotext) - Python Plotting on the Terminal. ([HN](https://news.ycombinator.com/item?id=27719759))
 - [shpyX](https://github.com/Apakottur/shpyx) - Configurable shell command execution in Python.
 - [survey](https://github.com/Exahilosys/survey) - Simple library for creating beautiful interactive prompts.
+- [Piou](https://github.com/Andarius/piou) - CLI tool to build beautiful command-line interfaces with type validation.
 
 ## DB
 
@@ -185,6 +187,7 @@
 - [Responses](https://github.com/getsentry/responses) - Utility for mocking out the Python Requests library.
 - [pytest-timeout](https://github.com/pytest-dev/pytest-timeout) - Time each test and terminate it when it takes too long.
 - [Syrupy](https://github.com/tophat/syrupy) - Sweeter pytest snapshot plugin.
+- [Pydantic-Factories](https://github.com/Goldziher/pydantic-factories) - Pydantic based mock data generation.
 
 ## Other
 
@@ -199,7 +202,7 @@
 - [Blaze](https://github.com/blaze/blaze) - Translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems.
 - [Dash Table](https://github.com/plotly/dash-table) - First-Class Interactive DataTable for Dash.
 - [Kombu](https://github.com/celery/kombu) - Messaging library for Python.
-- [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi)) ([FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator)) ([FastAPI Auth](https://github.com/Kludex/fastapi-authorization)) ([Getting started with GraphQL in Python with FastAPI and Ariadne](https://blog.yezz.me/blog/Getting-started-with-GraphQL-in-Python-with-FastAPI-and-Ariadne))
+- [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi)) ([FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator)) ([FastAPI Auth](https://github.com/Kludex/fastapi-authorization)) ([Getting started with GraphQL in Python with FastAPI and Ariadne](https://blog.yezz.me/blog/Getting-started-with-GraphQL-in-Python-with-FastAPI-and-Ariadne)) ([JWT Auth](https://github.com/IndominusByte/fastapi-jwt-auth))
 - [Starlette](https://github.com/encode/starlette) - Little ASGI framework that shines. ([Docs](https://www.starlette.io/))
 - [Poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [POT: Python Optimal Transport](https://github.com/PythonOT/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
@@ -606,6 +609,7 @@
 - [Implements](https://github.com/ksindi/implements) - Pythonic interfaces using decorators.
 - [Pipe](https://github.com/JulienPalard/Pipe) - Enabling a sh like infix syntax (using pipes).
 - [stackprinter](https://github.com/cknd/stackprinter) - Debugging-friendly exceptions for Python.
+- [outputformater](https://github.com/delestro/outputformater) - Python library to decorate and beautify strings.
 
 ## Links
 

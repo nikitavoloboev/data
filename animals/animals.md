@@ -118,3 +118,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Parrots Will Share Currency to Help Their Pals Purchase Food](https://www.smithsonianmag.com/science-nature/parrots-share-currency-help-their-pals-purchase-food-180973917/) ([HN](https://news.ycombinator.com/item?id=29328865))
 - [Labka](https://labka.app/) - Your home base for adopting pets.
 - [Tardigrades walk like insects 500k times their size (2021)](https://arstechnica.com/science/2021/12/nifty-biomechanics-of-adorable-water-bears-lumbering-gait-may-inspire-microrobots/) ([HN](https://news.ycombinator.com/item?id=29717681))
+- [Louis Wain: The artist who changed how we think about cats](https://www.bbc.com/news/uk-england-london-59518847) ([HN](https://news.ycombinator.com/item?id=29711686))

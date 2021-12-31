@@ -30,3 +30,5 @@
 - [Actions App](https://sindresorhus.com/actions) - Additional actions for the Shortcuts app. ([Code](https://github.com/sindresorhus/Actions))
 - [Run shortcuts from the Mac command line (2021)](https://sixcolors.com/post/2021/12/run-shortcuts-from-the-mac-command-line/)
 - [Shortcuts Alfred Workflow](https://github.com/alfredapp/shortcuts-workflow) - Run installled macOS shortcuts.
+- [python-shortcuts](https://github.com/alexander-akhmetov/python-shortcuts) - Create Siri Shortcuts with Python.
+- [Charty](https://chartyios.app/) - Create charts from Shortcuts.

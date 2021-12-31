@@ -226,3 +226,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Setup a New Developer Computer](https://github.com/vendasta/setup-new-computer-script) ([HN](https://news.ycombinator.com/item?id=29535432))
 - [Entitlement AND Hardened Runtime Check](https://github.com/cedowens/EntitlementCheck) - Python3 script for macOS to check for binaries with problematic/interesting entitlements.
 - [macFUSE](https://github.com/osxfuse/osxfuse) - Allows you to extend macOS via third party file systems.
+- [Tuning Your Code’s Performance for Apple Silicon](https://developer.apple.com/documentation/apple-silicon/tuning-your-code-s-performance-for-apple-silicon) ([HN](https://news.ycombinator.com/item?id=29719544))

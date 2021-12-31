@@ -176,3 +176,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS: Headless Home Assistant VM (2021)](https://myme.no/posts/2021-11-25-nixos-home-assistant.html) ([Lobsters](https://lobste.rs/s/xi9jcs/nixos_headless_home_assistant_vm))
 - [Attempts to get NixOS up on M1 Macs](https://github.com/tpwrules/nixos-m1)
 - [NixOS aarch64 images](https://github.com/Mic92/nixos-aarch64-images)
+- [M1 dev setup using a NixOS virtual machine (2021)](https://calcagno.blog/m1dev/)

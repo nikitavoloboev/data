@@ -99,3 +99,5 @@
 - [llvm-deno](https://github.com/littledivy/llvm-deno) - LLVM bindings for Deno.
 - [Building an Operating System from Scratch with LLVM (2021)](https://www.youtube.com/watch?v=DYaqzEbU0Vk)
 - [Pedigree](https://github.com/compor/Pedigree) - LLVM dependence graphs.
+- [llvm-sys.rs](https://github.com/tari/llvm-sys.rs) - Rust bindings to LLVM's C API.
+- [Crellvm](https://github.com/snu-sf/crellvm) - Verified Credible Compilation for LLVM.

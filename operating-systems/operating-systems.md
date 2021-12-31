@@ -134,6 +134,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [ZygOS](https://github.com/ix-project/zygos) - Achieving Low Tail Latency for Microsecond-scale Networked Tasks.
 - [IX](https://github.com/ix-project/ix) - Protected dataplane operating system project. ([Web](http://ix-project.github.io/ix/))
 - [Minimal bare metal kernel in Swift](https://github.com/spevans/swift-project1)
+- [Cleese](https://github.com/jtauber/cleese) - Functioning operating system written almost entirely in Python.
 
 ## Notes
 
@@ -154,7 +155,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Plan 9 from Bell Labs (1995)](https://css.csail.mit.edu/6.824/2014/papers/plan9.pdf)
 - [Unik](https://github.com/solo-io/unik) - Unikernel & MicroVM Compilation and Deployment Platform.
 - [SPDK](https://spdk.io/) - Storage Performance Development Kit Provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.
-- [Writing an OS in Rust](https://os.phil-opp.com/) ([Code](https://github.com/phil-opp/blog_os)) ([Code](https://github.com/emk/toyos-rs))
+- [Writing an OS in Rust](https://os.phil-opp.com/) ([Code](https://github.com/phil-opp/blog_os)) ([Code](https://github.com/emk/toyos-rs)) ([SnakeOS](https://github.com/trusch/snakeos))
 - [intermezzOS kernel](https://github.com/intermezzOS/kernel) - Hobby operating system, in Rust.
 - [The intermezzOS book](http://intermezzos.github.io/book/) ([Code](https://github.com/intermezzOS/book))
 - [Write your own Operating System (2017)](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)

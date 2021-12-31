@@ -2,7 +2,7 @@
 
 > Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana.
+Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. [Here](https://twitter.com/ayushmenon_/status/1476294409205526534) is a nice guide.
 
 I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/). I then [stake](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) it with [Marinade](https://marinade.finance/app/staking) & put mSOL I get from staking into [liquidity pool](https://github.com/solana-labs/spl-zk-token). If I need liquidity in real world, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out.
 
@@ -108,7 +108,7 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Merkle Distributor](https://github.com/saber-hq/merkle-distributor) - Smart contract that distributes a balance of tokens according to a Merkle root.
 - [Saber](https://saber.so/) - Stable swapping between stablecoins and other identical assets. ([GitHub](https://github.com/saber-hq)) ([How Saber Became the Biggest DeFi App on Solana](https://www.youtube.com/watch?v=LzUWP_JUX4Q)) ([How it started](https://www.youtube.com/watch?v=uGhqALj8IrA))
 - [Solana Go SDK](https://github.com/portto/solana-go-sdk)
-- [Goki](https://github.com/GokiProtocol/goki) - Suite of programs for Solana key management and security.
+- [Goki](https://github.com/GokiProtocol/goki) - Suite of programs for Solana key management and security. ([Web](https://goki.so/#/)) ([CLI](https://github.com/GokiProtocol/goki-cli))
 - [Setting up a Solana Bigtable Instance](https://github.com/solana-labs/solana-bigtable)
 - [DeployDAO Migrator](https://github.com/DeployDAO/migrator) - Program for deploying and upgrading programs.
 - [Solana Founder Anatoly Yakovenko on scaling the blockchain to warp speed (2021)](https://overcast.fm/+JyEyaW_w)
@@ -203,3 +203,5 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Solana Program Registry](https://github.com/DeployDAO/solana-program-registry) - Verified registry of open source Solana programs.
 - [Solana Program Index](https://github.com/DeployDAO/solana-program-index) - Index of verified checksums and IDLs of Anchor programs uploaded to the Solana Program Registry.
 - [How I wrote my first Solana contract (2021)](https://twitter.com/redacted_noah/status/1475208069969756166)
+- [Octane](https://github.com/solana-labs/octane) - Gasless transaction relayer for Solana.
+- [Step-by-step guide to Solana development (2021)](https://twitter.com/ayushmenon_/status/1476294409205526534)

@@ -134,3 +134,4 @@
 - [pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) - Clean APIs for data cleaning. Python implementation of R package Janitor.
 - [face2comics datasets](https://github.com/Sxela/face2comics)
 - [arXiv public datasets](https://github.com/mattbierbaum/arxiv-public-datasets)
+- [AIST++ Dance Motion Dataset](https://google.github.io/aistplusplus_dataset/) ([API Code](https://github.com/google/aistplusplus_api))

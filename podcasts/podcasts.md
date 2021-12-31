@@ -135,6 +135,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Top podcasts founders consume (2021)](https://twitter.com/volodarik/status/1451216738683539461)
 - [Fast, snappy, high content podcasts (2021)](https://twitter.com/HarryStebbings/status/1462023893103915014)
 - [Fave New Podcasts in 2021](https://www.swyx.io/fave-podcasts-2021/)
+- [The 50 Best Podcasts of 2021 Transcend Genre Conventions](https://www.theatlantic.com/culture/archive/2021/12/best-podcasts-2021-dish-city-sporkful/621118/)
 
 ## Notes
 
@@ -201,3 +202,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcasts are my new Wikipedia (2021)](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/) ([HN](https://news.ycombinator.com/item?id=29102027))
 - [node-podcast-parser](https://github.com/akupila/node-podcast-parser) - Parses a podcast RSS feed and returns easy to use object.
 - [podcast-transcriber](https://github.com/lukasschwab/podcast-transcriber) - Fully automated Cloud Function podcast transcriptions with Deepgram.
+- [Ask HN: Favorite Podcast Episode of 2021?](https://news.ycombinator.com/item?id=29703564)

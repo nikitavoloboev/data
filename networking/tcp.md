@@ -59,3 +59,4 @@
 - [http-tunnel](https://github.com/xnuter/http-tunnel) - HTTP(S) Tunnel and TCP Proxy in Rust.
 - [The Sad Story of TCP Fast Open (2019)](https://squeeze.isobar.com/2019/04/11/the-sad-story-of-tcp-fast-open/)
 - [tun2socks](https://github.com/xjasonlyu/tun2socks) - Powered by gVisor TCP/IP stack.
+- [Rabbit TCP](https://github.com/ihciah/rabbit-tcp) - Multi-connection TCP forwarder created for accelerating TCP connections.

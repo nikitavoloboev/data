@@ -51,7 +51,7 @@
 - [Monument](https://www.monument.ai/) - High-productivity toolkit for predictions. AutoML for time series on any desktop, laptop or server.
 - [Numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM. ([5 minute guide](https://numba.pydata.org/numba-doc/dev/user/5minguide.html)) ([Web](http://numba.pydata.org/))
 - [What's your typical data pipeline in a small company? (2019)](https://www.reddit.com/r/datascience/comments/dge7wh/whats_your_typical_data_pipeline_in_a_small/)
-- [dbt](https://www.getdbt.com/) - Data build tool. Analytics engineering workflow. ([Code](https://github.com/fishtown-analytics/dbt)) ([Docs](https://docs.getdbt.com/))
+- [dbt](https://www.getdbt.com/) - Data build tool. Analytics engineering workflow. ([Code](https://github.com/fishtown-analytics/dbt)) ([Docs](https://docs.getdbt.com/)) ([fal - Run python scripts directly from dbt](https://github.com/fal-ai/fal))
 - [Introducing dbt + Materialize (2021)](https://materialize.com/introducing-dbt-materialize/) ([HN](https://news.ycombinator.com/item?id=26306861))
 - [Apache Airflow](https://github.com/apache/airflow) - Platform to programmatically author, schedule, and monitor workflows. ([Tutorial](https://github.com/tuanavu/airflow-tutorial)) ([Kedro-Airflow - Makes it easy to deploy Kedro projects to Airflow.](https://github.com/quantumblacklabs/kedro-airflow)) ([Airflow 2.0](http://airflow.apache.org/blog/airflow-two-point-oh-is-here/)) ([HN](https://news.ycombinator.com/item?id=25457876)) ([Introduction to Apache Airflow (2021)](https://khashtamov.com/en/introduction-to-apache-airflow/)) ([Customizing Airflow: Beyond Boilerplate Settings](https://tech.marksblogg.com/install-and-configure-apache-airflow.html))
 - [Overview of Popular Open Source Big Data Technologies (2018)](https://andygrove.io/overview_of_popular_open_source_big_data_technologies/)
@@ -222,3 +222,4 @@
 - [Julia-Python-R / Plots.jl / Data 101 Cheat Sheets](https://github.com/sswatson/cheatsheets)
 - [If I had to start learning Data Science again, how would I do it? (2020)](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93)
 - [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)
+- [Data Science Stack - Cookiecutter](https://github.com/jgoerner/data-science-stack-cookiecutter) - Cookiecutter template to launch an awesome dockerized Data Science toolstack (incl. Jupyster, Superset, Postgres, Minio, AirFlow & API Star).

@@ -1259,6 +1259,10 @@
 - [acacia](https://github.com/edibopp/acacia) - Spatial tree library written in Rust.
 - [Carboxyl](https://github.com/edibopp/carboxyl) - Functional Reactive Programming library for Rust.
 - [rust-fsm](https://github.com/eugene-babichenko/rust-fsm) - Finite state machine framework for Rust with readable specifications.
+- [rustracing](https://github.com/sile/rustracing) - OpenTracing API for Rust.
+- [thread_local](https://github.com/Amanieu/thread_local-rs) - Per-object thread-local storage for Rust.
+- [stackful](https://github.com/nbdd0121/stackful) - Free conversion between async and sync in Rust.
+- [rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
 
 ## Cargo Plugins
 
@@ -1305,6 +1309,7 @@
 - [cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects.
 - [rhack](https://github.com/nakabonne/rhack) - Temporary edit external crates that your project depends on.
 - [Highway-rs](https://github.com/nickbabcock/highway-rs) - Native Rust port of Google's HighwayHash. Makes use of SIMD instructions for a fast and strong hash function.
+- [cargo-depgraph](https://github.com/jplatte/cargo-depgraph) - Creates dependency graphs for cargo projects using cargo metadata and graphviz.
 
 ## Links
 

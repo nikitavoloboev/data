@@ -286,3 +286,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [A Brief Introduction to Esoteric Languages (2021)](https://hillelwayne.com/talks/esolangs/) ([Video](https://www.youtube.com/watch?v=cQ7bcCrJMHc))
 - [Awesome Alt Languages](https://github.com/ostera/awesome-alt-langs)
 - [Go Static or Go Home (2015)](https://queue.acm.org/detail.cfm?id=2721993) - In the end, dynamic systems are simply less secure.
+- [Features of a dream programming language (2021)](https://dev.to/redbar0n/features-of-a-dream-programming-language-cio) ([HN](https://news.ycombinator.com/item?id=29716998))
+- [Ask HN: What is your favorite programming language and why? (2021)](https://news.ycombinator.com/item?id=29715237)

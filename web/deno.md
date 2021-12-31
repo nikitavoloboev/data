@@ -160,3 +160,6 @@
 - [Build, Deploy and Run a Deno Application](https://fly.io/docs/getting-started/deno/) ([Tweet](https://twitter.com/ebey_jacob/status/1471009211416932353))
 - [deno-canvas](https://github.com/DjDeveloperr/deno-canvas) - Canvas API for Deno, ported from canvaskit-wasm (Skia).
 - [ProgressBar](https://github.com/deno-library/progress) - ProgressBar in terminal for deno.
+- [deno_lua](https://github.com/denoffi/deno_lua) - Lua bindings for Deno.
+- [denoffi](https://github.com/denoffi/denoffi) - Deno Foreign Function Interface.
+- [deno_python](https://github.com/denosaurs/deno_python) - Python interpreter bindings for Deno.

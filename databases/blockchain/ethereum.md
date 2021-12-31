@@ -425,3 +425,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Finding a Creature in Ethereum's Dark Forest (2021)](https://bertcmiller.com/2021/12/28/glimpse_nonce_reuse.html) ([HN](https://news.ycombinator.com/item?id=29716274))
 - [Anatomy of an MEV Strategy: Synthetix (2021)](https://www.bertcmiller.com/2021/09/05/mev-synthetix.html)
 - [Merkle Airdrop Starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter) - Quickly bootstrap an ERC20 token airdrop to a Merkle tree of recipients.
+- [teEther](https://github.com/nescio007/teether) - Analysis and automatic exploitation framework for Ethereum smart contracts.

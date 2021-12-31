@@ -44,3 +44,4 @@
 - [A deep dive on load balancing algorithms](https://lafikl.notion.site/A-deep-dive-on-load-balancing-algorithms-4e6211ec7f7846238c38f3819212457c) ([HN](https://news.ycombinator.com/item?id=29252656))
 - [Envoy Proxy Big Book of Examples](https://github.com/repenno/envoybigbook)
 - [eBPF for Service Mesh? Yes, but Envoy Proxy is here to stay (2021)](https://www.solo.io/blog/ebpf-for-service-mesh/)
+- [Samaritan](https://github.com/samaritan-proxy/samaritan) - Client side L4 or L7 proxy, written in Go, with the aim to provide high availability and load balancing.
