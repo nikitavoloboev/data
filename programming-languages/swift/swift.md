@@ -256,3 +256,4 @@
 - [Abrahams & Elizarov: The design of Swift (2021)](https://www.youtube.com/watch?v=6JYAXADQmNQ) ([Notes](https://mjtsai.com/blog/2021/12/10/abrahams-on-the-design-of-swift/))
 - [SwiftyBeaver](https://swiftybeaver.com/) - App Logging & Analytics Platform for Swift. ([Code](https://github.com/SwiftyBeaver/SwiftyBeaver))
 - [Swift Roadmap for performance predictability: ARC improvements and ownership](https://forums.swift.org/t/a-roadmap-for-improving-swift-performance-predictability-arc-improvements-and-ownership-control/54206) ([Reddit](https://www.reddit.com/r/rust/comments/rn9mas/swift_is_trying_to_become_rust/)) ([HN](https://news.ycombinator.com/item?id=29667071))
+- [2021 LLVM Dev Mtg “Asynchronous Functions in Swift”](https://www.youtube.com/watch?v=H_K-us4-K7s) ([Tweet](https://twitter.com/pathofshrines/status/1477049340166389773))
