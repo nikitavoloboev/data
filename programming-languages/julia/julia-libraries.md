@@ -189,6 +189,7 @@
 - [FunSQL](https://github.com/MechanicalRabbit/FunSQL.jl) - Julia library for compositional construction of SQL queries.
 - [SparkSQL](https://github.com/propelledanalytics/SparkSQL.jl) - Enables Julia programs to work with Apache Spark data using just SQL.
 - [Redis.jl](https://github.com/JuliaDatabases/Redis.jl) - Fully-featured Redis client for the Julia programming language.
+- [Query](https://github.com/queryverse/Query.jl) - Query almost anything in julia.
 
 ## Error
 
@@ -406,6 +407,7 @@
 - [GeoStats](https://github.com/JuliaEarth/GeoStats.jl) - Extensible framework for high-performance geostatistics in Julia.
 - [MarkdownLiteral.jl](https://github.com/JuliaPluto/MarkdownLiteral.jl) - Lets you write Markdown inside Pluto notebooks.
 - [InitialValues.jl](https://github.com/JuliaFolds/InitialValues.jl) - Canonical default initial values and identity elements for Julia.
+- [Mux.jl](https://github.com/JuliaWeb/Mux.jl) - Middleware for Julia.
 
 ## Links
 

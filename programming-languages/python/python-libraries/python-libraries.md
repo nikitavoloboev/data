@@ -617,6 +617,7 @@
 - [hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Configurable, reproducible, and scalable workflows in Python, via Hydra.
 - [perde](https://github.com/YushiOMOTE/perde) - Python serialization framework powered by Rust.
 - [climatecontrol](https://github.com/daviskirk/climatecontrol) - Python library for loading settings and config data from files and environment variables.
+- [typingx](https://github.com/PrettyWood/typingx) - Extend typing package functionalities.
 
 ## Links
 

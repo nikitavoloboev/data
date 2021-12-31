@@ -510,3 +510,4 @@
 - [Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers (2021)](https://arxiv.org/abs/2103.15679) ([Code](https://github.com/hila-chefer/Transformer-MM-Explainability))
 - [Transformer Interpretability Beyond Attention Visualization (2021)](https://arxiv.org/abs/2012.09838) ([Code](https://github.com/hila-chefer/Transformer-Explainability))
 - [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis (2021)](https://arxiv.org/abs/2111.03133) ([Code](https://github.com/pschaldenbrand/StyleCLIPDraw))
+- [Light Field Image Super-Resolution with Transformers (2021)](https://arxiv.org/abs/2108.07597) ([Code](https://github.com/ZhengyuLiang24/LFT))

@@ -180,3 +180,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Sound.xyz](https://www.sound.xyz/) - Own A Song, Join A Community. ([Article](https://mirror.xyz/davidgreenstein.eth/jE31-g1kCirNczLj18fow78b_TNz6zXESfx4h1nkrN8))
 - [L to the OG: How Succession Weaponizes Music (2021)](https://www.youtube.com/watch?v=uDnVXVCjDEw)
 - [TAPEFEAR](https://www.tapefear.com/) - Rediscovering music discovery.
+- [Wav2Rec](https://github.com/TariqAHassan/wav2rec) - Library for music recommendation based on recent advances in self-supervised neural networks.

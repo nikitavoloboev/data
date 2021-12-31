@@ -635,3 +635,4 @@
 - [ML Hub](https://github.com/ml-tooling/ml-hub) - Multi-user development platform for machine learning teams. Simple to setup within minutes.
 - [Adversarial Explainable AI](https://github.com/hbaniecki/adversarial-explainable-ai)
 - [AI/ML Tutorials List](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
+- [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models)

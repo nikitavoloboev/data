@@ -674,3 +674,4 @@ if err != nil {
 - [The Top 10 Most Common Mistakes I’ve Seen in Go Projects (2019)](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
 - [Golang Design Initiative](https://golang.design/) ([GitHub](https://github.com/golang-design))
 - [Errors and Error Wrapping in Go (2021)](https://trstringer.com/errors-and-error-wrapping-go/)
+- [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/preface.html) - Journey into the Standard Library. ([Code](https://github.com/blasrodri/spaceship-go))

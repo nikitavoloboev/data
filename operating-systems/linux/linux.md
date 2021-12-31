@@ -442,3 +442,4 @@
 - [2021: Year of the Linux Gaming Desktop - Andrew Kelley](https://www.youtube.com/watch?v=pq1XqP4-qOo)
 - [LKRG](https://github.com/lkrg-org/lkrg) - Linux Kernel Runtime Guard. ([Web](https://lkrg.org/))
 - [crosvm](https://github.com/google/crosvm) - Virtual machine monitor (VMM) based on Linux’s KVM hypervisor, with a focus on simplicity, security, and speed.
+- [Linux Integration Services Automation (LISA)](https://github.com/microsoft/lisa) - Linux quality validation system. ([Docs](https://mslisa.readthedocs.io/en/main/))

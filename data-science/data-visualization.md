@@ -135,3 +135,4 @@
 - [chartpy](https://github.com/cuemacro/chartpy) - Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more.
 - [Constellation](https://github.com/constellation-app/constellation) - Graph-focused data visualisation and interactive analysis application. ([Web](https://www.constellation-app.com/))
 - [Handbook of Graph Drawing and Visualization (2013)](https://cs.brown.edu/people/rtamassi/gdhandbook/) ([HN](https://news.ycombinator.com/item?id=29734063))
+- [Data Visualization Curriculum](https://uwdata.github.io/visualization-curriculum/intro.html) - Data visualization curriculum of interactive notebooks, using Vega-Lite and Altair. ([Code](https://github.com/uwdata/visualization-curriculum))
