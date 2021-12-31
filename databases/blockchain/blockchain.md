@@ -316,3 +316,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [The Future Is Not Only Useless, It’s Expensive (2021)](https://www.gawker.com/culture/the-future-is-useless-expensive) ([Tweet](https://twitter.com/DangerBrooks/status/1472971893443489792))
 - [Spectrum of harm related to crypto and blockchain (2021)](https://twitter.com/smdiehl/status/1475075915893850112)
 - [How do wallets actually interact with the blockchain?](https://www.reddit.com/r/CryptoTechnology/comments/rq4295/how_do_wallets_actually_interact_with_the/)
+- [TinyChain](https://github.com/haydnv/tinychain) - All-in-one database + application server with support for blockchains, graphs, tables, and tensors.

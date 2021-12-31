@@ -581,3 +581,4 @@
 - [Web-based Kubernetes scheduler simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator)
 - [Kubernetes security](https://github.com/kabachook/k8s-security) - Kubernetes security notes and best practices.
 - [OpenYurt](https://github.com/openyurtio/openyurt) - Extending your native Kubernetes to edge. ([Web](https://openyurt.io/))
+- [RancherOS v2](https://github.com/rancher/os2) - Immutable Linux distribution built to run Rancher and it's corresponding Kubernetes distributions RKE2 and k3s.

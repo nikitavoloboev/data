@@ -632,3 +632,6 @@
 - [Tutorial and Summary of Machine Learning](https://github.com/zchen0211/ML-tutorial)
 - [Never Give Up: Learning Directed Exploration Strategies (2020)](https://arxiv.org/abs/2002.06038) ([Code](https://github.com/Coac/never-give-up))
 - [A Step Toward Quantifying Independently Reproducible Machine Learning Research (2019)](https://arxiv.org/abs/1909.06674) ([Tweet](https://twitter.com/_onionesque/status/1476769719256498177))
+- [ML Hub](https://github.com/ml-tooling/ml-hub) - Multi-user development platform for machine learning teams. Simple to setup within minutes.
+- [Adversarial Explainable AI](https://github.com/hbaniecki/adversarial-explainable-ai)
+- [AI/ML Tutorials List](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)

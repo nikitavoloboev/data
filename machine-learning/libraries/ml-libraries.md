@@ -255,3 +255,6 @@
 - [NVIDIA DALI](https://github.com/NVIDIA/DALI) - GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [MIPLearn](https://github.com/ANL-CEEESA/MIPLearn) - Framework for solving discrete optimization problems using a combination of Mixed-Integer Linear Programming (MIP) and Machine Learning (ML).
 - [tree-math](https://github.com/google/tree-math) - Mathematical operations for JAX pytrees.
+- [ExplainX](https://github.com/explainX/explainx) - Explainable AI framework for data scientists. Explain & debug any blackbox machine learning model with a single line of code.
+- [Contextual AI](https://github.com/SAP/contextual-ai) - Adds explainability to different stages of machine learning pipelines.
+- [jax_dataclasses](https://github.com/brentyi/jax_dataclasses) - Pytrees + static analysis.

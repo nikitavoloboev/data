@@ -613,6 +613,10 @@
 - [outputformater](https://github.com/delestro/outputformater) - Python library to decorate and beautify strings.
 - [PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming. ([Docs](https://pyfunctional.pedro.ai/))
 - [Typical](https://github.com/seandstewart/typical) - Fast, simple, & correct data-validation using Python 3 typing.
+- [contextfilter](https://github.com/aviramha/contextfilter) - Easy contextual information logging filter, using ContextVars.
+- [hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Configurable, reproducible, and scalable workflows in Python, via Hydra.
+- [perde](https://github.com/YushiOMOTE/perde) - Python serialization framework powered by Rust.
+- [climatecontrol](https://github.com/daviskirk/climatecontrol) - Python library for loading settings and config data from files and environment variables.
 
 ## Links
 

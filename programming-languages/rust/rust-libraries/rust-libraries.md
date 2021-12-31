@@ -1267,6 +1267,9 @@
 - [rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
 - [capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap'n Proto for Rust.
 - [staticvec](https://github.com/slightlyoutofphase/staticvec) - Implements a fixed-capacity stack-allocated Vec alternative backed by an array, using const generics.
+- [destream](https://github.com/haydnv/destream) - Rust library for asynchronous stream (de)serialization.
+- [freqache](https://github.com/haydnv/freqache) - Thread-safe Rust LFU cache which supports a custom eviction policy.
+- [freqfs](https://github.com/haydnv/freqfs) - In-memory filesystem cache layer based on tokio::fs, with least-frequently-used eviction.
 
 ## Cargo Plugins
 

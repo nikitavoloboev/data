@@ -100,3 +100,4 @@
 - [RedFI](https://github.com/openfip/redfi) - Redis Fault-Injection Proxy. Test the resiliency of your application against Redis' failures.
 - [redis-semaphore](https://github.com/swarthy/redis-semaphore) - Mutex and Semaphore implementations based on Redis ready for distributed systems.
 - [Bitnami Redis Docker Image](https://github.com/bitnami/bitnami-docker-redis)
+- [kitteh-redis](https://github.com/djspiewak/kitteh-redis) - Toy Redis server implemented using pure FP on top of Cats Effect, Fs2, and Scodec.

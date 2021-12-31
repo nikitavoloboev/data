@@ -82,3 +82,4 @@
 - [GraphSAINT: Graph Sampling Based Inductive Learning Method (2020)](https://openreview.net/forum?id=BJe8pkHFwS) ([Code](https://github.com/GraphSAINT/GraphSAINT))
 - [Decoupling the Depth and Scope of Graph Neural Networks (2021)](https://openreview.net/forum?id=_IY3_4psXuf) ([Code](https://github.com/facebookresearch/shaDow_GNN))
 - [How to Scale Up GNNs with Mini-Batch Sampling (2021)](https://sigopt.com/blog/mini-batch-sampling-with-gnns/)
+- [Papers about explainability of GNNs](https://github.com/flyingdoog/awesome-graph-explainability-papers)

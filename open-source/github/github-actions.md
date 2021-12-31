@@ -221,6 +221,10 @@
 - [GitHub Action to set up Docker Buildx](https://github.com/docker/setup-buildx-action)
 - [bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command.
 
+## Kubernetes
+
+- [GitHub Action for Kubernetes CLI](https://github.com/steebchen/kubectl) - Provides kubectl for GitHub Actions.
+
 ## Nix
 
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.

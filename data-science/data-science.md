@@ -223,3 +223,4 @@
 - [If I had to start learning Data Science again, how would I do it? (2020)](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93)
 - [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)
 - [Data Science Stack - Cookiecutter](https://github.com/jgoerner/data-science-stack-cookiecutter) - Cookiecutter template to launch an awesome dockerized Data Science toolstack (incl. Jupyster, Superset, Postgres, Minio, AirFlow & API Star).
+- [Human-first AI](https://www.h1st.ai/) - Power Tools for AI Engineers With Deadlines. ([Code](https://github.com/h1st-ai/h1st))

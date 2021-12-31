@@ -507,3 +507,6 @@
 - [High-Resolution Image Synthesis with Latent Diffusion Models (2021)](https://arxiv.org/abs/2112.10752) ([Code](https://github.com/CompVis/latent-diffusion))
 - [Photorealistic Audio-driven Video Portraits (2020)](https://richardt.name/publications/audio-dvp/) ([Code](https://github.com/xinwen-cs/AudioDVP))
 - [Awesome Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
+- [Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers (2021)](https://arxiv.org/abs/2103.15679) ([Code](https://github.com/hila-chefer/Transformer-MM-Explainability))
+- [Transformer Interpretability Beyond Attention Visualization (2021)](https://arxiv.org/abs/2012.09838) ([Code](https://github.com/hila-chefer/Transformer-Explainability))
+- [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis (2021)](https://arxiv.org/abs/2111.03133) ([Code](https://github.com/pschaldenbrand/StyleCLIPDraw))

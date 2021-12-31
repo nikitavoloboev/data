@@ -426,3 +426,4 @@
 - [LocalPackageServer](https://github.com/GunnarFarneback/LocalPackageServer.jl) - Julia storage and package server for local packages.
 - [Pkg](https://github.com/JuliaLang/Pkg.jl) - Package manager for the Julia programming language. ([Docs](https://pkgdocs.julialang.org/))
 - [Registrator](https://github.com/JuliaRegistries/Registrator.jl) - GitHub app that automates creation of registration pull requests for your julia packages to the General registry.
+- [General](https://github.com/JuliaRegistries/General) - Official registry of general Julia packages.
