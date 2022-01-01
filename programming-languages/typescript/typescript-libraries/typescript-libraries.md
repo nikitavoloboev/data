@@ -15,6 +15,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Kysely](https://github.com/koskimas/kysely) - Type-safe typescript SQL query builder.
 - [Keydb](https://github.com/DjDeveloperr/Keydb) - Simple Key-value storage module with support for multiple database backends.
 - [shapes/core](https://github.com/punchcard/shapes) - Type-safe DSLs and ORMs for TypeScript.
+- [pg-magic](https://github.com/danielrearden/pg-magic) - TypeScript type generator for PostgreSQL queries.
 
 ## Web
 
@@ -257,6 +258,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [memoize](https://github.com/strong-roots-capital/memoize) - Higher-order memoization function.
 - [Rallie](https://github.com/ralliejs/rallie) - Library that helps users implement decentralized front-end micro service architecture.
 - [tree-visit](https://github.com/dabbott/tree-visit) - Tree traversal library.
+- [filespy](https://github.com/alloc/filespy) - Spy on files.
 
 ## Links
 

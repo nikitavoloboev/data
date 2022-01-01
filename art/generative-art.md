@@ -196,3 +196,4 @@
 - [Procedurally understandably generated Chinese landscape painting](https://github.com/RedContritio/shan_shui_inf)
 - [2D Generative Art Resources](https://twitter.com/miketuritzin/status/1476320114353979394)
 - [Building Generative Glitch Art Tools (2021)](https://adamfuhrer.com/building-generative-glitch-art-tools)
+- [Markov chain based generative art](https://github.com/larixk/markov)

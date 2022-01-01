@@ -110,3 +110,4 @@
 - [HPIPM](https://github.com/giaf/hpipm) - High-performance interior-point method solver for dense, optimal control- and tree-structured convex quadratic programs.
 - [libgrapheme](https://libs.suckless.org/libgrapheme/) - Suckless Unicode string library. ([Lobsters](https://lobste.rs/s/7wx1z4/libgrapheme_suckless_unicode_string))
 - [clhash](https://github.com/lemire/clhash) - C library implementing the ridiculously fast CLHash hashing function.
+- [Gunslinger](https://github.com/MrFrenik/gunslinger) - C99, header-only framework for games and multimedia applications.

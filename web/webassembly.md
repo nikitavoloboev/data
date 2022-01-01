@@ -244,3 +244,5 @@
 - [WebAssembly Feature Detection](https://github.com/GoogleChromeLabs/wasm-feature-detect) - Small library to detect which features of WebAssembly are supported.
 - [JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler.
 - [Envoy WASM with external gRPC server](https://github.com/salrashid123/envoy_wasm)
+- [Shared Channel for WebAssembly](https://github.com/wasm-rs/shared-channel)
+- [Async Executor for WebAssembly](https://github.com/wasm-rs/async-executor)

@@ -1274,6 +1274,8 @@
 - [freqfs](https://github.com/haydnv/freqfs) - In-memory filesystem cache layer based on tokio::fs, with least-frequently-used eviction.
 - [arrform](https://github.com/Simsys/arrform) - String formatting in Rust without memory allocator.
 - [rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust.
+- [butte](https://github.com/butte-rs/butte) - Rust-native Flatbuffers.
+- [Rumpsteak](https://github.com/zakcutner/rumpsteak) - Session types for asynchronous communication between multiple parties.
 
 ## Cargo Plugins
 

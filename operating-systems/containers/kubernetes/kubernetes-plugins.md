@@ -58,3 +58,4 @@
 - [kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - Toolkit for building declarative operators with kubebuilder.
 - [cli-runtime](https://github.com/kubernetes/cli-runtime) - Set of helpers for creating kubectl commands and plugins.
 - [operator-tools](https://github.com/banzaicloud/operator-tools) - Speed up the implementation and composition of Kubernetes Operators.
+- [krew-index](https://github.com/kubernetes-sigs/krew-index) - Centralized plugin index for Krew (kubectl plugin manager).

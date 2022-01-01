@@ -622,6 +622,8 @@
 - [perde](https://github.com/YushiOMOTE/perde) - Python serialization framework powered by Rust.
 - [climatecontrol](https://github.com/daviskirk/climatecontrol) - Python library for loading settings and config data from files and environment variables.
 - [typingx](https://github.com/PrettyWood/typingx) - Extend typing package functionalities.
+- [di](https://github.com/adriangb/di) - Pythonic dependency injection.
+- [TypeSystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering.
 
 ## Links
 

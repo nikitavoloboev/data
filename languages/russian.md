@@ -19,3 +19,4 @@
 - [Russian DALL-E](https://rudalle.ru/) - Generate images from texts. In Russian. ([Code](https://github.com/sberbank-ai/ru-dalle))
 - [How Sber Built ruDALL-E (2021)](https://serokell.io/blog/how-sber-built-rudall-e) ([HN](https://news.ycombinator.com/item?id=29729403))
 - [Список русских слов](https://github.com/danakt/russian-words)
+- [Image Super-resolution with ruDALL-E](https://github.com/CJWBW/rudalle-sr) -

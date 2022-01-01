@@ -91,3 +91,4 @@
 - [BetrFS](https://www.betrfs.org/) - File system that uses Bε trees. ([HN](https://news.ycombinator.com/item?id=29403320)) ([Code](https://github.com/oscarlab/betrfs))
 - [gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go.
 - [Replacing an unavailable ZFS drive (2021)](https://nickb.dev/blog/replacing-an-unavailble-zfs-drive)
+- [Deark](https://github.com/jsummers/deark) - Utility for file format and metadata analysis, data extraction, decompression, and image format decoding.

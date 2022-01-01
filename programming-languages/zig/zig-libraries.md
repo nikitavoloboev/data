@@ -58,6 +58,7 @@
 - [zig-libgc](https://github.com/mitchellh/zig-libgc) - Implements a Zig allocator that uses the Boehm-Demers-Weiser conservative Garbage Collector (libgc, bdwgc, boehm-gc).
 - [Cosmic](https://github.com/fubark/cosmic) - Single binary tool for building graphical and cli apps in JavaScript/TS.
 - [zjson](https://github.com/xyaman/zjson) - Minimal JSON library with zero allocations.
+- [Zig Generator](https://github.com/yrashk/zig-generator) - Async generator type for Zig.
 
 ## Links
 

@@ -426,3 +426,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Anatomy of an MEV Strategy: Synthetix (2021)](https://www.bertcmiller.com/2021/09/05/mev-synthetix.html)
 - [Merkle Airdrop Starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter) - Quickly bootstrap an ERC20 token airdrop to a Merkle tree of recipients.
 - [teEther](https://github.com/nescio007/teether) - Analysis and automatic exploitation framework for Ethereum smart contracts.
+- [beth.sh](https://github.com/th4s/beth) - CLI for Ethereum with a focus on portability.

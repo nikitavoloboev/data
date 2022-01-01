@@ -1203,6 +1203,8 @@
 - [Molizen](https://github.com/sanposhiho/molizen) - Typed actor framework for Go.
 - [FreeCache](https://github.com/coocood/freecache) - Cache library for Go with zero GC overhead and high concurrent performance.
 - [mapreduce](https://github.com/kevwan/mapreduce) - In-process MapReduce tool to help you to optimize service response time.
+- [Rad](https://github.com/purehyperbole/rad) - Concurrent lock free radix tree implementation for go.
+- [JWZ](https://github.com/gatherstars-com/jwz) - Go implementation of the JWZ email threading algorithm.
 
 ## Links
 

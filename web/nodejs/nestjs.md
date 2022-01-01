@@ -24,3 +24,4 @@
 - [NestJS - RabbitMQ custom strategy](https://github.com/AlariCode/nestjs-rmq) - Custom library for NestJS microservice. It allows you to use RabbitMQ or AMQP.
 - [nest-raven](https://github.com/mentos1386/nest-raven) - Sentry Raven Module for Nest.js Framework.
 - [Prisma Generator NestJS DTO](https://github.com/vegardit/prisma-generator-nestjs-dto) - Generates NestJS DTO classes from Prisma Schema.
+- [oak_nest](https://github.com/jiawei397/deno-oak-nest)
