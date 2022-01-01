@@ -325,6 +325,7 @@
 - [ark-circom](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
 - [r1cs](https://github.com/mir-protocol/r1cs) - Rust library for building R1CS gadgets over prime fields, which are useful in SNARKs and other argument systems.
 - [Cipher-crypt](https://github.com/arosspope/cipher-crypt) - Library of historic cryptographic algorithms implemented in rust.
+- [BigInt](https://github.com/RustCrypto/crypto-bigint) - Cryptographic Big Integers.
 
 ## Linux
 

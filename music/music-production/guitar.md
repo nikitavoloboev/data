@@ -36,3 +36,4 @@
 - [Chord](http://getchord.com/) - Definitive guitar app.
 - [React-Guitar](https://github.com/4lejandrito/react-guitar) - Beautiful and accessible guitar component for React. ([Web](https://react-guitar.com/))
 - [Get the guitar chords from your Spotify playlists](https://spotifychords.luca.gg/)
+- [Automated-Guitar Amplifier Modelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)

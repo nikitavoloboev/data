@@ -106,3 +106,5 @@
 - [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
 - [easystats](https://github.com/easystats/easystats) - Collection of R stats packages.
 - [containerit](https://github.com/o2r-project/containerit) - Packages R script/session/workspace and all dependencies as a Docker container by automagically generating a suitable Dockerfile.
+- [gghighlight](https://github.com/yutannihilation/gghighlight) - Highlight points and lines in ggplot2.
+- [string2path](https://github.com/yutannihilation/string2path) - R package to convert string to path.

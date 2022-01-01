@@ -428,6 +428,7 @@
 - [multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together.
 - [fail](https://github.com/srvc/fail) - Better error handling solution especially for application servers.
 - [errorx](https://github.com/joomcode/errorx) - Comprehensive error handling library for Go.
+- [Stacktrace](https://github.com/palantir/stacktrace) - Stack traces for Go errors.
 
 ## Other
 

@@ -76,3 +76,4 @@
 - [MiroTalk SFU](https://github.com/miroslavpejic85/mirotalksfu) - WebRTC with integrated SFU server. Video calls, messaging, screen sharing, recording and more.
 - [Open WebRTC Toolkit Media Server](https://github.com/open-webrtc-toolkit/owt-server)
 - [Open WebRTC Toolkit JavaScript SDK](https://github.com/open-webrtc-toolkit/owt-client-javascript)
+- [naia-socket](https://github.com/naia-rs/naia-socket) - Cross-platform (including Wasm!) sockets providing an unreliable & unordered network transport layer. Built on top of UDP & WebRTC.
