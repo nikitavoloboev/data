@@ -221,3 +221,4 @@
 - [Gamedev/Code/Physics Resources](https://www.david-colson.com/resources.html)
 - [GameDev Reddit Wiki](https://www.reddit.com/r/gamedev/wiki/index)
 - [The Making of Games Reddit](https://www.reddit.com/r/TheMakingOfGames/)
+- [Technical Game Design tutorials](https://www.reddit.com/r/gamedev/comments/rt2tyl/why_is_there_a_huge_lack_of_technical_game_design/)

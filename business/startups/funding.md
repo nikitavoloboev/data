@@ -144,3 +144,4 @@
 - [Rhetoric](https://www.rhetoric.app/) - Pitch feedback for founders.
 - [Hyperscale](https://www.hyperscalefund.com/) - Fast funding for early blockchain projects. ([Code](https://github.com/hyper-scale/frontend))
 - [The Mirrortable (2021)](https://balajis.com/mirrortable/) - How we can combine web2 and web3 tools to automate the mess of angel investing. ([Tweet](https://twitter.com/balajis/status/1475438356473409542))
+- [Active angel investors in developer tools](https://github.com/sw-yx/devtools-angels)

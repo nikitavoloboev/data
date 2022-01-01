@@ -636,3 +636,5 @@
 - [Adversarial Explainable AI](https://github.com/hbaniecki/adversarial-explainable-ai)
 - [AI/ML Tutorials List](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
 - [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+- [Autoencoder-based deep metric learning for network intrusion detection (2021)](https://www.sciencedirect.com/science/article/abs/pii/S002002552100462X) ([Code](https://github.com/gsndr/RENOIR))
+- [Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)

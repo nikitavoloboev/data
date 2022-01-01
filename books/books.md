@@ -272,6 +272,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Robert Miller's 2020 reading list](https://www.bertcmiller.com/2021/01/01/2020-reading-list.html)
 - [Books changed your life and stuck with you (2021)](https://www.reddit.com/r/suggestmeabook/comments/rrchnp/has_any_books_changed_your_life_and_stuck_with_you/)
 - [Books read in 2021](https://twitter.com/ManishEarth/status/1364969804562452480)
+- [What’s the most disturbing or scary book you ever read?](https://www.reddit.com/r/suggestmeabook/comments/rt5xeg/whats_the_most_disturbing_or_scary_book_you_ever/)
 
 ## Interesting Prose Books
 

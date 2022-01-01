@@ -270,6 +270,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 - [Precursor](https://precursorapp.com/) - Fast prototyping web app, makes collaboration easy. ([Code](https://github.com/PrecursorApp/precursor))
 - [Front](https://frontapp.com/) - Inbox for teams.
+- [Sexy-QR](https://avin.github.io/sexy-qr/) - Sexy SVG QR-code generator. ([Code](https://github.com/avin/sexy-qr))
 - [CloudConvert](https://cloudconvert.com/) - Online file converter.
 - [Knock](https://knock.app/) - Reliable, managed API to turn user activity into product notifications. ([Twitter](https://twitter.com/knocklabs))
 - [Testimonial](https://testimonial.to/) - Collect video testimonials.
