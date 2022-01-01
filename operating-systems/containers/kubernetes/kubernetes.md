@@ -585,3 +585,5 @@
 - [eBPF & Cilium Office Hours](https://github.com/isovalent/eCHO)
 - [Wave](https://github.com/wave-k8s/wave) - Kubernetes configuration tracking controller.
 - [Ask HN: Is it still worth learning Kubernetes in 2022?](https://news.ycombinator.com/item?id=29756204)
+- [Auto-portforward (apf)](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker and kubernetes.
+- [Podtato-head](https://github.com/podtato-head/podtato-head) - Prototypical cloud-native application built to colorfully demonstrate delivery scenarios using many different tools and services.

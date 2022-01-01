@@ -93,3 +93,4 @@
 - [Mappings](https://www.stedi.com/docs/mappings) - Tool that maps JSON documents from one structure to another. ([Tweet](https://twitter.com/tlakomy/status/1470374323999453185))
 - [dyff](https://github.com/homeport/dyff) - diff tool for YAML files, and sometimes JSON.
 - [JSON-S](https://github.com/brillout/json-s) - Same as JSON but with added support for Date, undefined, NaN, Infinity, and RegExp.
+- [toml2json](https://github.com/woodruffw/toml2json) - Small CLI for converting TOML to JSON.

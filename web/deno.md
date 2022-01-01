@@ -164,3 +164,5 @@
 - [denoffi](https://github.com/denoffi/denoffi) - Deno Foreign Function Interface.
 - [deno_python](https://github.com/denosaurs/deno_python) - Python interpreter bindings for Deno.
 - [Deno Deploy Examples](https://github.com/denoland/deploy_examples)
+- [Clay](https://github.com/dyedgreen/clay) - Deno Command Line Argument Parsing.
+- [Building WebAssembly for Deno (2019)](https://tilman.dev/blog/2019/12/building-webassembly-for-deno)

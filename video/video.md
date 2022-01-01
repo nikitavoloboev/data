@@ -318,3 +318,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Long educational videos on YouTube list](https://twitter.com/dan_abramov/status/1476755315492278280)
 - [Video Transcoding](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 - [prompeg decoder](https://github.com/kirintwn/prompeg-decoder) - Proxy to recover lost packets from FFmpeg Pro-MPEG video stream.
+- [xgplayer](https://github.com/bytedance/xgplayer) - HTML5 video player with a parser that saves traffic.

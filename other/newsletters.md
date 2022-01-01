@@ -2,6 +2,7 @@
 
 ## Interesting
 
+- [The Pragmatic Engineer](https://www.pragmaticengineer.com/)
 - [A Byte of Coding](https://abyteofcoding.com/)
 - [Dense Discovery](https://www.densediscovery.com/) - Weekly newsletter on tech, design, culture & sustainability.
 - [The Slice](https://theslice.co/) - Weekly email helping you become a better maker.

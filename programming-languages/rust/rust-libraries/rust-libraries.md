@@ -1278,6 +1278,7 @@
 - [Rumpsteak](https://github.com/zakcutner/rumpsteak) - Session types for asynchronous communication between multiple parties.
 - [SuperStruct](https://github.com/sigp/superstruct) - Rust library for versioned data types.
 - [Typic](https://github.com/jswrenn/typic) - Type-safe transmutations between layout-compatible types.
+- [Uncertain](https://github.com/dyedgreen/uncertain) - Fast and correct computations with uncertain values.
 
 ## Cargo Plugins
 

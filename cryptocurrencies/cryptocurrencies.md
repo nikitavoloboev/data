@@ -213,3 +213,6 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Questions about crypto, web3, and the surrounding ecosystem (2021)](https://twitter.com/dan_abramov/status/1474050849273958410)
 - [Web3 thoughts/arguments](https://twitter.com/AriDavidPaul/status/1474134130715762688)
 - [Emeris](https://emeris.com/) - Cross-chain DeFi.
+- [An Introduction to Automated Market Makers (2021)](https://www.machow.ski/posts/an_introduction_to_automated_market_makers/)
+- [How Crypto Derivatives Exchanges Prevent Bankruptcy (2021)](https://www.machow.ski/posts/how-crypto-derivatives-exchanges-prevent-bankruptcy/)
+- [A Beginners Guide to Crypto Derivatives (2021)](https://www.machow.ski/posts/a-beginners-guide-to-crypto-derivatives/)

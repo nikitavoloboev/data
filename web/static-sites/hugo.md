@@ -36,6 +36,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Tufte Hugo Theme](https://github.com/shawnohare/hugo-tufte)
 - [PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Fast, clean, responsive Hugo theme.
 - [Paper](https://github.com/nanxiaobei/hugo-paper) - Simple, clean, flexible Hugo theme.
+- [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Hugo theme for personal blog.
 
 ## Examples
 

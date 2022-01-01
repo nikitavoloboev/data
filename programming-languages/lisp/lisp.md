@@ -164,3 +164,4 @@
 - [Jsonnet Language Server](https://github.com/grafana/jsonnet-language-server)
 - [MiniLisp](https://github.com/rui314/minilisp) - Readable lisp in less than 1k lines of C.
 - [bass](https://bass-lang.org/) - Bass is a low-fidelity Lisp dialect for scripting the infrastructure.
+- [Kamex](https://github.com/Ovyerus/kamex) - Basic Lisp interpreter implemented in Elixir.

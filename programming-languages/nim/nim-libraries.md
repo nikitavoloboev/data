@@ -17,6 +17,10 @@
 - [Pixie](https://github.com/treeform/pixie) - Full-featured 2D graphics library for Nim. ([HN](https://news.ycombinator.com/item?id=28506220))
 - [Drawim](https://github.com/GabrielLasso/drawim) - Simple drawing library in Nim, inspired by p5js. Builds to native, using OpenGL, and to JavaScript, using HTML5 Canvas.
 
+## Crypto
+
+- [Constantine](https://github.com/mratsim/constantine) - Fast, compact, hardened Pairing-Based Cryptography.
+
 ## Other
 
 - [Arraymancer](https://github.com/mratsim/Arraymancer) - N-dimensional tensor (ndarray) library.

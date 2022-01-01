@@ -85,3 +85,4 @@
 - [Wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that.
 - [promwish](https://github.com/charmbracelet/promwish) - Provides a simple wish middleware exposing some Prometheus metrics.
 - [age-plugin-remote](https://github.com/str4d/age-plugin-remote) - Expose local age identities to remote machines via SSH.
+- [go-ssh-client](https://github.com/metrue/go-ssh-client) - Go package that helps you run command on remote host via SSH.

@@ -84,6 +84,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [George Saunders](https://georgesaunders.substack.com/)
 - [Jaana Dogan](https://rakyll.org/)
 - [Eugene Yokota](https://eed3si9n.com/)
+- [The Pragmatic Engineer](https://www.pragmaticengineer.com/)
 
 ## Notes
 
