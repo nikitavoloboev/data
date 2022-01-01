@@ -584,3 +584,4 @@
 - [RancherOS v2](https://github.com/rancher/os2) - Immutable Linux distribution built to run Rancher and it's corresponding Kubernetes distributions RKE2 and k3s.
 - [eBPF & Cilium Office Hours](https://github.com/isovalent/eCHO)
 - [Wave](https://github.com/wave-k8s/wave) - Kubernetes configuration tracking controller.
+- [Ask HN: Is it still worth learning Kubernetes in 2022?](https://news.ycombinator.com/item?id=29756204)

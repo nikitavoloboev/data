@@ -208,3 +208,4 @@
 - [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). ([Docs](https://docs.pyvista.org/))
 - [How to Draw S-Curved Arrows Between Boxes / Rectangles (2021)](https://dragonman225.js.org/curved-arrows.html) ([HN](https://news.ycombinator.com/item?id=29652139))
 - [A Meta-er-verse (2021)](https://opguides.info/posts/metaverse/)
+- [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html) ([HN](https://news.ycombinator.com/item?id=29755242))

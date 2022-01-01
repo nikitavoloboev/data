@@ -178,3 +178,4 @@ All active variables can be seen by running `env`.
 - [makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies.
 - [vsh](https://github.com/xmantle/vsh) - Unix shell written and implemented in rust.
 - [You shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs) ([HN](https://news.ycombinator.com/item?id=29747034))
+- [Oil Retrospective: Software Architecture](https://www.oilshell.org/blog/2021/12/review-arch.html)

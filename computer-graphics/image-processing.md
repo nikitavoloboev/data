@@ -146,3 +146,4 @@
 - [Glitch Image Generator](https://glitchyimage.com/) ([Code](https://github.com/adamfuhrer/glitch-image))
 - [Awesome Visible Watermark Removal](https://github.com/bcmi/Awesome-Visible-Watermark-Removal)
 - [fpng](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader.
+- [A new protocol and tool for PNG file attachments (2022)](https://nullprogram.com/blog/2021/12/31/) ([HN](https://news.ycombinator.com/item?id=29753186))
