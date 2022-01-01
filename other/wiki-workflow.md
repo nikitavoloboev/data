@@ -156,6 +156,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Fabian Bösiger's Docs](https://github.com/fabianboesiger/documents)
 - [Juliette Rapala](https://github.com/jrapala/wiki)
 - [Daniel Imfeld's Notes](https://imfeld.dev/notes)
+- [Anthony's second brain](https://garden.anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0)
 - [Hrishikesh Bhaskaran's Wiki](https://wiki.stultus.in/)
 - [neeasade's notes](https://notes.neeasade.net/)
 - [Ferreira's Wiki](https://github.com/slowernews/notebook)

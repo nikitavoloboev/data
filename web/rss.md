@@ -129,3 +129,4 @@
 - [Working With Web Feeds: It’s More Than RSS (2021)](https://css-tricks.com/working-with-web-feeds-its-more-than-rss/)
 - [Web Syndication with JSON Feeds (2020)](https://lukasschwab.me/blog/gen/json-feed-tools.html)
 - [RSS/EMAIL](https://www.rssto.email/) - Substack for RSS feeds. ([Article](https://ab.xyz/posts/rss-to-email/)) ([Code](https://github.com/aksh-at/rss-to-email))
+- [inoreadr](https://github.com/hrbrmstr/inoreadr) - Access and Orchestrate Inoreader Feeds, Preferences, and Metadata.

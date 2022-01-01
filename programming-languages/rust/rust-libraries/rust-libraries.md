@@ -1272,6 +1272,7 @@
 - [freqache](https://github.com/haydnv/freqache) - Thread-safe Rust LFU cache which supports a custom eviction policy.
 - [freqfs](https://github.com/haydnv/freqfs) - In-memory filesystem cache layer based on tokio::fs, with least-frequently-used eviction.
 - [arrform](https://github.com/Simsys/arrform) - String formatting in Rust without memory allocator.
+- [rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust.
 
 ## Cargo Plugins
 
