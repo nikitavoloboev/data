@@ -289,3 +289,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Features of a dream programming language (2021)](https://dev.to/redbar0n/features-of-a-dream-programming-language-cio) ([HN](https://news.ycombinator.com/item?id=29716998))
 - [Ask HN: What is your favorite programming language and why? (2021)](https://news.ycombinator.com/item?id=29715237)
 - [Programing Language Documentations](https://github.com/FrankHB/pl-docs)
+- [Profile Guided Optimization without Profiles: A Machine Learning Approach (2021)](https://arxiv.org/abs/2112.14679)

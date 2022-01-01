@@ -41,3 +41,4 @@
 - [OpenH264](https://github.com/cisco/openh264) - Open Source H.264 Codec.
 - [Unicode Normalization Forms: When ö ≠ ö (2021)](https://blog.opencore.ch/posts/unicode-normalization-forms/) ([HN](https://news.ycombinator.com/item?id=29751641))
 - [Planus](https://github.com/TethysSvensson/planus) - Alternative flatbuffer implementation.
+- [TinyCBOR](https://github.com/intel/tinycbor) - Concise Binary Object Representation (CBOR) Library.

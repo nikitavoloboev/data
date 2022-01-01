@@ -86,6 +86,10 @@
 - [mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments.
 - [qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts.
 
+## ML
+
+- [mind](https://github.com/stevenmiller888/mind) - Neural network library built in JavaScript.
+
 ## Test
 
 - [Unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit. ([Docs](https://unexpected.js.org/))
@@ -716,6 +720,7 @@
 - [flattie](https://github.com/lukeed/flattie) - Tiny (203B) and fast utility to flatten an object with customizable glue.
 - [Zoomist](https://github.com/cotton123236/zoomist) - JavaScript library for zooming image.
 - [canvas-capture](https://github.com/amandaghassaei/canvas-capture) - Record the canvas as an image, mp4 video, or GIF from the browser.
+- [hardtack](https://github.com/alik0211/hardtack) - Ultra-light library for working with cookies in JavaScript.
 
 ## Links
 
