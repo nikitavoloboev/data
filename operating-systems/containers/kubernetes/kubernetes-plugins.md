@@ -41,6 +41,8 @@
 - [Apache APISIX for Kubernetes](https://github.com/apache/apisix-ingress-controller) - Ingress controller for K8s.
 - [Hazelcast Platform Operator](https://github.com/hazelcast/hazelcast-platform-operator)
 - [kubectl-reap](https://github.com/micnncim/kubectl-reap) - kubectl plugin that deletes unused Kubernetes resources.
+- [kubectl-graph](https://github.com/steveteuber/kubectl-graph) - kubectl plugin to visualize Kubernetes resources and relationships.
+- [kubectl-plugins](https://github.com/emreodabas/kubectl-plugins) - Plugin useful for Bulk operations.
 
 ## Helm Charts
 

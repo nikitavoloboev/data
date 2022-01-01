@@ -1,6 +1,6 @@
 # TypeScript libraries
 
-I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my TS libraries which I then publish with [np](https://github.com/sindresorhus/np).
+I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my TS libraries which I then publish with [kanpai](https://github.com/egoist/kanpai).
 
 ## DB
 
@@ -288,3 +288,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-node-starter](https://github.com/bennycode/ts-node-starter)
 - [structured-types](https://github.com/ccontrols/structured-types) - Collection of libraries using the Typescript Compiler API to generate "structured" type information from jsdoc and typescript files.
 - [typejuice](https://github.com/galvez/typejuice) - Documentation generator for TypeScript Declaration Files inspired by godoc.
+- [kanpai](https://github.com/egoist/kanpai) - Better way to publish npm packages.
