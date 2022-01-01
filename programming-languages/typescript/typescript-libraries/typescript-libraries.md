@@ -256,6 +256,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [od](https://github.com/strong-roots-capital/od) - Nice date library.
 - [memoize](https://github.com/strong-roots-capital/memoize) - Higher-order memoization function.
 - [Rallie](https://github.com/ralliejs/rallie) - Library that helps users implement decentralized front-end micro service architecture.
+- [tree-visit](https://github.com/dabbott/tree-visit) - Tree traversal library.
 
 ## Links
 

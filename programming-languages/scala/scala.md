@@ -140,3 +140,4 @@
 - [A 10-Minute Introduction to Scala (2018)](https://itnext.io/a-10-minute-introduction-to-scala-d1fed19eb74c)
 - [scala-native-cli](https://github.com/scala-native/scala-native-cli) - Command Line Interface for Scala Native.
 - [sbt-typelevel](https://github.com/typelevel/sbt-typelevel) - SBT plugin which understands binary compatibility.
+- [Tetrix in Scala](https://eed3si9n.com/tetrix-in-scala/)

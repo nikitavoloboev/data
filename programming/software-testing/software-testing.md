@@ -129,3 +129,4 @@
 - [nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node.
 - [split_tests](https://github.com/leonid-shevtsov/split_tests) - Utility to split test files into parallel CI containers.
 - [Write Fewer Tests! From Automation to Autogeneration - David Khourshid (2019)](https://www.youtube.com/watch?v=tpNmPKjPSFQ)
+- [granularity of testing (2021)](https://eed3si9n.com/granularity-of-testing/)

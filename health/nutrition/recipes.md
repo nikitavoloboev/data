@@ -79,3 +79,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [100 No-Cook Meal Items For When You Refuse to Adult](https://blackgirllostkeys.com/adhd/100-no-cook-meal-items/)
 - [One Pot Pony](https://onepotpony.com/) - Lazy person's guide to delicious meal prep.
 - [NYT Cooking Recipes](https://cooking.nytimes.com/)
+- [Eugene's recipes](https://eed3si9n.com/recipes/)

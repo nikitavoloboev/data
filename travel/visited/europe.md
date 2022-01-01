@@ -41,3 +41,4 @@
 - [FIRE in Europe is more difficult in EU over US (2021)](https://www.reddit.com/r/EuropeFIRE/comments/rg5rcb/the_us_vs_eu_debate_fire_in_europe_is_more/)
 - [European alternatives for digital products](https://european-alternatives.eu/) ([HN](https://news.ycombinator.com/item?id=29627097))
 - [Tech Pays in Europe](https://techpays.eu/) - Tech total compensation and salaries in EU.
+- [Tax implications of living in multiple EU countries in one year (2021)](https://www.reddit.com/r/eupersonalfinance/comments/rt1fyh/tax_implications_of_living_in_multiple_eu/)
