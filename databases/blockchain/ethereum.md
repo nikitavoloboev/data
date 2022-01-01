@@ -427,3 +427,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Merkle Airdrop Starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter) - Quickly bootstrap an ERC20 token airdrop to a Merkle tree of recipients.
 - [teEther](https://github.com/nescio007/teether) - Analysis and automatic exploitation framework for Ethereum smart contracts.
 - [beth.sh](https://github.com/th4s/beth) - CLI for Ethereum with a focus on portability.
+- [Slashing Proofs](https://github.com/michaelsproul/slashing-proofs) - Formal proofs about Ethereum slashing protection strategies.
