@@ -224,3 +224,4 @@
 - [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)
 - [Data Science Stack - Cookiecutter](https://github.com/jgoerner/data-science-stack-cookiecutter) - Cookiecutter template to launch an awesome dockerized Data Science toolstack (incl. Jupyster, Superset, Postgres, Minio, AirFlow & API Star).
 - [Human-first AI](https://www.h1st.ai/) - Power Tools for AI Engineers With Deadlines. ([Code](https://github.com/h1st-ai/h1st))
+- [Data Science from Scratch Book](https://github.com/joelgrus/data-science-from-scratch)

@@ -428,3 +428,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [teEther](https://github.com/nescio007/teether) - Analysis and automatic exploitation framework for Ethereum smart contracts.
 - [beth.sh](https://github.com/th4s/beth) - CLI for Ethereum with a focus on portability.
 - [Slashing Proofs](https://github.com/michaelsproul/slashing-proofs) - Formal proofs about Ethereum slashing protection strategies.
+- [Lua Cash](https://www.lua.cash/) - Issue a token in 1 click. Your custom ERC20 on Polygon in less than a minute, <$0.1 in fees.

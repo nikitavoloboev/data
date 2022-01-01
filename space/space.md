@@ -135,3 +135,4 @@
 - [Decoding James Webb Space Telescope (2021)](https://destevez.net/2021/12/decoding-james-webb-space-telescope/) ([HN](https://news.ycombinator.com/item?id=29704554))
 - [NASA Systems Engineering Research Consortium](https://www.nasa.gov/consortium)
 - [Exploring the software that flies SpaceX rockets and Starships (2021)](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) ([HN](https://news.ycombinator.com/item?id=29724501))
+- [SpaceX Land API](https://api.spacex.land/graphql/) - GraphQL & REST APIs to explore all the rockets, launches & other SpaceX's data. ([Code](https://github.com/SpaceXLand/api))
