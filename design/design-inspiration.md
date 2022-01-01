@@ -420,6 +420,7 @@ Here are few more things I liked, design wise.
 - [Rach Smith](https://rachsmith.com/)
 - [Nick Bostrom](https://www.nickbostrom.com/)
 - [Derek Sivers](https://sivers.org/)
+- [Cristian Crețu](https://cretu.dev/) ([Code](https://github.com/cristicretu/cretu.dev))
 - [Camille Fassett](https://www.sempervirens.io/)
 - [Matthias Endler](https://endler.dev/) ([Code](https://github.com/mre/endler.dev))
 - [Robb Knight](https://rknight.me/) ([Code](https://github.com/rknightuk/rknight.me))

@@ -366,6 +366,7 @@
 - [bhtsne](https://github.com/frjnn/bhtsne) - Parallel Barnes-Hut t-SNE implementation written in Rust.
 - [ONNX Runtime](https://github.com/nbigaouette/onnxruntime-rs) - Rust wrapper for Microsoft's ONNX Runtime.
 - [HAL](https://github.com/jramapuram/hal) - Rust based Cross-GPU Machine Learning.
+- [Cogent](https://github.com/JonathanWoollett-Light/cogent) - Simple neural network library for classification written in Rust.
 
 ## macOS
 
@@ -1393,3 +1394,4 @@
 - [Linking to a private repo in Cargo.toml](https://gist.github.com/kestein/87d8bb9cef187c0d02d733138a0a4454)
 - [cargo-api](https://github.com/crate-ci/cargo-api) - Interact with the crate's API.
 - [rustfilt](https://github.com/luser/rustfilt) - Demangle Rust symbols.
+- [simd](https://github.com/Nugine/simd) - SIMD-accelerated operations.

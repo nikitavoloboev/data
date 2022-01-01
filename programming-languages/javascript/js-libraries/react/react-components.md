@@ -242,6 +242,7 @@
 - [Charts.css React](https://github.com/hollanddd/charts-css-react)
 - [Editable React Table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
 - [React Layers Manager](https://github.com/giuseppeg/react-layers-manager) - Manage layers and z-index in React applications effectively.
+- [chakra-react-select](https://github.com/csandman/chakra-react-select) - Chakra-ui wrapper for the popular select library react-select.
 
 ## Links
 

@@ -119,3 +119,4 @@
 - [colorgram.py](https://github.com/obskyr/colorgram.py) - Python library that lets you extract colors from images.
 - [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 - [Color-Description](https://words.github.io/color-description/) - Turns a technical color representation into a human readable description. ([Code](https://github.com/words/color-description))
+- [Shade Generator](https://www.shadegenerator.com/) - Generate shades and tints of a given input color. ([Code](https://github.com/csandman/shade-generator))

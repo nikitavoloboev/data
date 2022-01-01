@@ -22,3 +22,4 @@
 - [Downhill](https://github.com/andriusstank/downhill/) - Reverse mode automatic differentiation in Haskell. ([Docs](https://andriusstank.github.io/downhill/)) ([Tweet](https://twitter.com/kmett/status/1474947785434746883))
 - [Trade-Offs in Automatic Differentiation: TensorFlow, PyTorch, Jax, and Julia (2021)](http://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/) ([HN](https://news.ycombinator.com/item?id=29682507))
 - [Decomposing reverse-mode automatic differentiation (2021)](https://arxiv.org/abs/2105.09469)
+- [RustAD](https://github.com/JonathanWoollett-Light/rust-ad) - Rust Auto-Differentiation.
