@@ -1205,6 +1205,7 @@
 - [mapreduce](https://github.com/kevwan/mapreduce) - In-process MapReduce tool to help you to optimize service response time.
 - [Rad](https://github.com/purehyperbole/rad) - Concurrent lock free radix tree implementation for go.
 - [JWZ](https://github.com/gatherstars-com/jwz) - Go implementation of the JWZ email threading algorithm.
+- [batchAggregator](https://github.com/mikedewar/batchAggregator) - Designed to chew through a bunch of parquet files containing events.
 
 ## Links
 

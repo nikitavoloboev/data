@@ -392,3 +392,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Forcing an app out of memory on iOS (2021)](https://www.donnywals.com/forcing-an-app-out-of-memory-on-ios/)
 - [iOS Starter Pack](https://starterpackapps.com/) - Bundle of beautiful, functional iOS apps built with SwiftUI to get you started. ([Tweet](https://twitter.com/jsngr/status/1475869187595718657))
 - [WWDC Session Transcripts](https://github.com/ASCIIwwdc/wwdc-session-transcripts)
+- [RevelariOS](https://github.com/PsychoBird/RevelariOS) - Memory scanner meant for technical users. ([Article](https://psychobird.github.io/RevelariOS/RevelariOS.html))
+- [Breaking the Trust | Manipulating asset files in Supercell games (2020)](https://psychobird.github.io/CSV/csv.html)

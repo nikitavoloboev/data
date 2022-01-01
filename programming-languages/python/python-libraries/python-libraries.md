@@ -624,6 +624,7 @@
 - [typingx](https://github.com/PrettyWood/typingx) - Extend typing package functionalities.
 - [di](https://github.com/adriangb/di) - Pythonic dependency injection.
 - [TypeSystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering.
+- [atomics](https://github.com/doodspav/atomics) - Lock-Free Atomics in Python.
 
 ## Links
 

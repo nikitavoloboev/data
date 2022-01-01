@@ -293,3 +293,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [typejuice](https://github.com/galvez/typejuice) - Documentation generator for TypeScript Declaration Files inspired by godoc.
 - [kanpai](https://github.com/egoist/kanpai) - Better way to publish npm packages.
 - [unpkg origin server](https://github.com/unpkg/origin)
+- [eszip](https://github.com/denoland/eszip) - Utility that can download JavaScript and TypeScript module graphs and store them locally in a special zip file.
