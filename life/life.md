@@ -102,3 +102,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Keira Knightley on confidence, criticism and love: Life Lessons](https://www.youtube.com/watch?v=_hP5iDc_-lw)
 - [Anti-mimetic tactics for living a counter-cultural life (2021)](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/) ([HN](https://news.ycombinator.com/item?id=29692848))
 - [6 things kids know by heart that adults forgot](https://twitter.com/anafabrega11/status/1476582281770942468)
+- [Don't Waste the Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/) ([HN](https://news.ycombinator.com/item?id=29754120))

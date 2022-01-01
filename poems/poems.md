@@ -4,6 +4,10 @@
 
 - [Guest House](https://mrsmindfulness.com/guest-house-poem/)
 
+## Interesting
+
+- [If – A Poem by Rudyard Kipling](https://poets.org/poem/if) ([HN](https://news.ycombinator.com/item?id=29753513))
+
 ## Links
 
 - [Why you should re-read Paradise Lost (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems) ([HN](https://news.ycombinator.com/item?id=23598292))

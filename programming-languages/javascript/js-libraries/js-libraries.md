@@ -715,6 +715,7 @@
 - [Draggabilly](https://github.com/desandro/draggabilly) - Make elements draggable.
 - [flattie](https://github.com/lukeed/flattie) - Tiny (203B) and fast utility to flatten an object with customizable glue.
 - [Zoomist](https://github.com/cotton123236/zoomist) - JavaScript library for zooming image.
+- [canvas-capture](https://github.com/amandaghassaei/canvas-capture) - Record the canvas as an image, mp4 video, or GIF from the browser.
 
 ## Links
 

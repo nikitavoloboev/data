@@ -177,3 +177,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Attempts to get NixOS up on M1 Macs](https://github.com/tpwrules/nixos-m1)
 - [NixOS aarch64 images](https://github.com/Mic92/nixos-aarch64-images)
 - [M1 dev setup using a NixOS virtual machine (2021)](https://calcagno.blog/m1dev/)
+- [nixos-gen-config](https://github.com/nix-community/nixos-gen-config)

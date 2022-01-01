@@ -62,3 +62,4 @@
 - [Japan to implement bank-deposit-backed digital currency in 2022](https://asia.nikkei.com/Business/Finance/Japan-to-launch-bank-deposit-backed-digital-currency-in-2022) ([HN](https://news.ycombinator.com/item?id=29330819))
 - [Japan's Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998) ([HN](https://news.ycombinator.com/item?id=29709551))
 - [‘I go too far, too deep’: the Swiss wanderer who found the soul of Japan (2021)](https://www.theguardian.com/artanddesign/gallery/2021/dec/22/swiss-wanderer-soul-of-japan-werner-bischof)
+- [Tokyo: A big city that is also pleasant to live in (2021)](https://www.economist.com/special-report/2021/12/07/the-big-city-that-is-also-pleasant-to-live-in) ([HN](https://news.ycombinator.com/item?id=29755772))
