@@ -145,3 +145,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [On looking for a job (2021)](https://muan.co/2021/12/15/notes-on-looking-for-a-job/)
 - [Takeaways from looking for a new senior role in tech (2021)](https://philcalcado.com/2021/12/20/job_hunt.html) ([HN](https://news.ycombinator.com/item?id=29706073))
 - [Ask HN: How to find a job in 2021 if I dislike remote? (2021)](https://news.ycombinator.com/item?id=29711622)
+- [Ask HN: If not fresh out of college, what did you do to join a FAANG? (2021)](https://news.ycombinator.com/item?id=29750353)

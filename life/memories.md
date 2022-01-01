@@ -28,3 +28,4 @@ Because that's what life is. Trying to peek under the covers of this reality onl
 - [Primate Memory (2021)](https://inference-review.com/article/primate-memory)
 - [Notes on Foer – Moonwalking with Einstein](http://www.federicopereiro.com/notes-foer-moonwalking/)
 - [Notes on Lorayne & Lucas – The Memory Book](http://www.federicopereiro.com/notes-lorayne-lucas-memory/)
+- [Ask HN: How did you move on from past experiences? (2021)](https://news.ycombinator.com/item?id=29748113)

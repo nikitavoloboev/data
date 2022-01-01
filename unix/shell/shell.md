@@ -177,3 +177,4 @@ All active variables can be seen by running `env`.
 - [Common shell script mistakes (2008)](http://www.pixelbeat.org/programming/shell_script_mistakes.html) ([HN](https://news.ycombinator.com/item?id=29470863))
 - [makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies.
 - [vsh](https://github.com/xmantle/vsh) - Unix shell written and implemented in rust.
+- [You shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs) ([HN](https://news.ycombinator.com/item?id=29747034))

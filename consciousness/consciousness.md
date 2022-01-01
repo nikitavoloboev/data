@@ -72,3 +72,4 @@ I practice self reflection (via journaling) & meditation (walks in nature) to ge
 - [The fungal mind: on the evidence for mushroom intelligence (2021)](https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence) ([HN](https://news.ycombinator.com/item?id=28406931))
 - [Anil Seth Finds Consciousness in Life’s Push Against Entropy (2021)](https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/) ([HN](https://news.ycombinator.com/item?id=28724072))
 - [Why can’t the world’s greatest minds solve the mystery of consciousness? (2015)](https://www.theguardian.com/science/2015/jan/21/-sp-why-cant-worlds-greatest-minds-solve-mystery-consciousness) ([HN](https://news.ycombinator.com/item?id=28928430))
+- [Thousands of coma patients may be conscious](https://www.sciencefocus.com/the-human-body/comas-conscious-communicate/) ([HN](https://news.ycombinator.com/item?id=29749643))

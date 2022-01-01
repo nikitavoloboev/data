@@ -57,6 +57,7 @@
 - [Obsidian Vimrc Support](https://github.com/esm7/obsidian-vimrc-support) - Loads a file of Vim commands.
 - [Fantasy Calendars](https://github.com/valentine195/obsidian-fantasy-calendar) - Create fantasy calendars in Obsidian.
 - [Shell Commands](https://github.com/Taitava/obsidian-shellcommands) - Execute system commands via hotkeys or command palette in Obsidian.
+- [Footnotes](https://github.com/MichaBrugger/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun.
 
 ## Themes
 

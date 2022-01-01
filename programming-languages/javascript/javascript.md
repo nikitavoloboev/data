@@ -266,7 +266,7 @@ if (
 - [Visual Guide to References in JavaScript (2020)](https://daveceddia.com/javascript-references/)
 - [Modern JavaScript features you may have missed (2019)](https://www.breck-mckye.com/blog/2019/10/modern-javascript-features-you-may-have-missed/)
 - [RegPack](https://github.com/Siorki/RegPack) - Self-contained packer for size-constrained JS code.
-- [ElectronJS alternative: SciterJS – HTML/CSS/JS in 4.5 MB executable](https://github.com/c-smile/sciter-js-sdk) ([HN](https://news.ycombinator.com/item?id=24797423))
+- [SciterJS](https://sciter.com/) - Embeddable HTML/CSS/JavaScript engine. Electron alternative. ([HN](https://news.ycombinator.com/item?id=24797423)) ([SDK](https://github.com/c-smile/sciter-sdk)) ([JS SDK](https://github.com/c-smile/sciter-js-sdk)) ([HN](https://news.ycombinator.com/item?id=29742670))
 - [ESTree Spec](https://github.com/estree/estree) - Manipulate JavaScript source code.
 - [Pattern Matching in JavaScript (2020)](https://kyleshevlin.com/pattern-matching)
 - [How to chain methods in JS in order to write concise and readable code (2020)](https://medium.com/@laflamablanc/method-chaining-and-javascript-7d840d6e3687)

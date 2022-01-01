@@ -151,6 +151,8 @@
 - [Compare the Differences Between Two Commits](https://github.com/cpcloud/compare-commits-action)
 - [Run-On-Arch](https://github.com/uraimo/run-on-arch-action) - Executes commands on non-x86 CPU architecture (armv6, armv7, aarch64, s390x, ppc64le).
 - [Discord for GitHub Actions](https://github.com/Ilshidur/action-discord) - GitHub Action that sends a Discord message.
+- [pr-compliance-action](https://github.com/mtfoley/pr-compliance-action) - Check PR for compliance on title, linked issues, and files changed.
+- [Lighthouse Check Action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running Lighthouse audits automatically in CI workflows.
 
 ## Go
 

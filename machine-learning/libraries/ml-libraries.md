@@ -258,3 +258,4 @@
 - [ExplainX](https://github.com/explainX/explainx) - Explainable AI framework for data scientists. Explain & debug any blackbox machine learning model with a single line of code.
 - [Contextual AI](https://github.com/SAP/contextual-ai) - Adds explainability to different stages of machine learning pipelines.
 - [jax_dataclasses](https://github.com/brentyi/jax_dataclasses) - Pytrees + static analysis.
+- [kingly](https://github.com/brucou/kingly) - Zero-cost state-machine library for robust, testable and portable user interfaces (most machines compile ~1-2KB).

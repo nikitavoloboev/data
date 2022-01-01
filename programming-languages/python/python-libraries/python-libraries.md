@@ -167,6 +167,10 @@
 - [fastecdsa](https://github.com/AntonKueltz/fastecdsa) - Python library for fast elliptic curve crypto.
 - [PyCryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained cryptographic library for Python.
 
+## macOS
+
+- [numbers-parser](https://github.com/masaccio/numbers-parser) - Python module for parsing Apple Numbers .numbers files. ([HN](https://news.ycombinator.com/item?id=29753204))
+
 ## Test
 
 - [scripttest](https://github.com/pypa/scripttest) - Library to help you test your interactive command-line applications.
@@ -676,3 +680,4 @@
 - [Array API standard](https://github.com/data-apis/array-api)
 - [Top Python libraries of 2021 you should know about](https://tryolabs.com/blog/2021/12/21/top-python-libraries-2021) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/rlmr8s/d_a_handpicked_selection_of_the_best_python_ml/))
 - [Ask HN: Good Python projects to read for modern Python? (2021)](https://news.ycombinator.com/item?id=29698198)
+- [import attrs (2021)](https://hynek.me/articles/import-attrs/)

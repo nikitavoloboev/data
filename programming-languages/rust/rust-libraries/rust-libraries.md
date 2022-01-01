@@ -441,6 +441,7 @@
 - [js-macros](https://github.com/vultix/js-macros) - Quickly prototype Rust procedural macros using JavaScript or TypeScript.
 - [valq](https://github.com/jiftechnify/valq) - Macros for querying and extracting value from structured data by JavaScript-like syntax.
 - [num_enum](https://github.com/illicitonion/num_enum) - Procedural macros to make inter-operation between primitives and enums easier.
+- [macro_rules_attribute](https://github.com/danielhenrymantilla/macro_rules_attribute-rs) - Use declarative macros as proc_macro attributes or derives.
 
 ## Math
 
@@ -1270,6 +1271,7 @@
 - [destream](https://github.com/haydnv/destream) - Rust library for asynchronous stream (de)serialization.
 - [freqache](https://github.com/haydnv/freqache) - Thread-safe Rust LFU cache which supports a custom eviction policy.
 - [freqfs](https://github.com/haydnv/freqfs) - In-memory filesystem cache layer based on tokio::fs, with least-frequently-used eviction.
+- [arrform](https://github.com/Simsys/arrform) - String formatting in Rust without memory allocator.
 
 ## Cargo Plugins
 
