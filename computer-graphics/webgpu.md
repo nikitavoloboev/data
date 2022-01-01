@@ -37,3 +37,4 @@
 - [How to Build a Compute Rasterizer with WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md)
 - [WebGPU Compute Rasterizer](https://github.com/OmarShehata/webgpu-compute-rasterizer)
 - [wgpu-matrix](https://github.com/greggman/wgpu-matrix) - Fast WebGPU 3d math library.
+- [swift-webgpu](https://github.com/henrybetts/swift-webgpu) - Swift bindings for WebGPU.

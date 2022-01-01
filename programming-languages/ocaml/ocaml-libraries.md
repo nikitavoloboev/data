@@ -10,6 +10,7 @@
 - [ocaml-wasmtime](https://github.com/LaurentMazare/ocaml-wasmtime) - OCaml WebAssembly runtime powered by wasmtime.
 - [Dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework. ([Docs](https://aantron.github.io/dream/)) ([HN](https://news.ycombinator.com/item?id=26758151))
 - [OCaml JavaScript bindings](https://github.com/tmattio/js-bindings)
+- [Tiny_httpd](https://github.com/c-cube/tiny_httpd) - Minimal HTTP server using good old threads + blocking IO, with small request router.
 
 ## Test
 
@@ -125,6 +126,7 @@
 - [Lwt Pipe](https://github.com/c-cube/lwt-pipe) - Multi-consumer, multi-producers blocking queue and stream for Lwt.
 - [sedlex](https://github.com/ocaml-community/sedlex) - Unicode-friendly lexer generator for OCaml.
 - [Compact](https://github.com/CraigFe/compact) - Memory-efficient data structures in OCaml.
+- [PaComb](https://github.com/craff/pacomb) - Parsing library that compiles grammars to combinators using elimination of left recursion.
 
 ## Links
 

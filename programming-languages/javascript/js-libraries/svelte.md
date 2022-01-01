@@ -161,3 +161,4 @@
 - [Let's learn SvelteKit by building a static Markdown blog from scratch (2021)](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog)
 - [Geoff Rich's 2021 Svelte Posts](https://twitter.com/geoffrich_/status/1475968586405404677)
 - [SSWR](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
+- [Svelte MultiSelect](https://github.com/janosh/svelte-multiselect) - Keyboard-friendly, zero-dependency multi-select Svelte component.

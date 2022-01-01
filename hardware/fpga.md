@@ -77,3 +77,4 @@
 - [FPGA Design Elements](http://fpgacpu.ca/fpga/) - Self-contained online book containing a library of FPGA design elements and related coding/design guides. ([Code](https://github.com/laforest/FPGADesignElements))
 - [FPGA Advent Calendar (2021)](https://twitter.com/willflux/status/1465268154733637633) ([HN](https://news.ycombinator.com/item?id=29613850))
 - [Potato Processor](https://github.com/skordal/potato) - Simple RISC-V processor written in VHDL for use in FPGAs.
+- [Project Apicula](https://github.com/YosysHQ/apicula) - Bitstream documentation for Gowin FPGAs.

@@ -57,6 +57,7 @@
 - [discordjs/voice](https://github.com/discordjs/voice) - Implementation of the Discord Voice API for discord.js and other JS/TS libraries.
 - [discord-hero](https://github.com/discord-hero/discord-hero) - Powerful, modular and easy-to-use Discord Python bot framework. Batteries included.
 - [catnip](https://github.com/mewna/catnip) - Reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
+- [Ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot) - Feature-rich Discord bot with +200 commands for Discord servers. Economy, util, fun, music, admin and more! Built with Next.js and Discord.js.
 
 ## Notes
 

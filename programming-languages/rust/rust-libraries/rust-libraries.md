@@ -1276,6 +1276,8 @@
 - [rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust.
 - [butte](https://github.com/butte-rs/butte) - Rust-native Flatbuffers.
 - [Rumpsteak](https://github.com/zakcutner/rumpsteak) - Session types for asynchronous communication between multiple parties.
+- [SuperStruct](https://github.com/sigp/superstruct) - Rust library for versioned data types.
+- [Typic](https://github.com/jswrenn/typic) - Type-safe transmutations between layout-compatible types.
 
 ## Cargo Plugins
 

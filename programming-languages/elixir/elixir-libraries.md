@@ -115,6 +115,7 @@
 - [CSV](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 - [Daat](https://github.com/QuinnWilton/daat) - Parameterized modules for Elixir.
 - [Expat](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
+- [Vex](https://github.com/CargoSense/vex) - Data Validation for Elixir.
 
 ## Links
 

@@ -133,3 +133,6 @@
 - [cloudflare-scraper](https://github.com/JimmyLaurent/cloudflare-scraper) - Package to bypass Cloudflare's protection.
 - [scrapy-poet](https://github.com/scrapinghub/scrapy-poet) - Page Object pattern for Scrapy.
 - [Go Download Web](https://github.com/antsanchez/go-download-web) - Download an entire website with Go.
+- [linkcheck](https://github.com/filiph/linkcheck) - Fast link checker.
+- [scrapli](https://github.com/carlmontanari/scrapli) - Fast, flexible, sync/async, Python 3.6+ screen scraping client specifically for network devices.
+- [scrapligo](https://github.com/scrapli/scrapligo) - scrapli, but in go.

@@ -39,6 +39,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [LunarVim](https://github.com/LunarVim/LunarVim) - Opinionated, extensible, and fast IDE layer for Neovim. ([Docs](https://www.lunarvim.org/))
 - [kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
 - [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim.
+- [fuzzy-motion.vim](https://github.com/yuki-yano/fuzzy-motion.vim) - Jump to fuzzy match word.
 - [vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
 - [coq.nvim](https://github.com/ms-jpq/coq_nvim) - Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [Navigator](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze. Exploring LSP and Treesitter.

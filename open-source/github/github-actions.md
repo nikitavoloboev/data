@@ -153,6 +153,7 @@
 - [Discord for GitHub Actions](https://github.com/Ilshidur/action-discord) - GitHub Action that sends a Discord message.
 - [pr-compliance-action](https://github.com/mtfoley/pr-compliance-action) - Check PR for compliance on title, linked issues, and files changed.
 - [Lighthouse Check Action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running Lighthouse audits automatically in CI workflows.
+- [setup-cue](https://github.com/cue-lang/setup-cue) - Install a specific CUE CLI version on your Github Actions runner.
 
 ## Go
 

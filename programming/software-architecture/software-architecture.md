@@ -190,3 +190,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Prodspec and Annealing (2021)](https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production)
 - [1 Year of Event Sourcing and CQRS (2018)](https://itnext.io/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
 - [SystemDesign.org](https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5_LUeFj65lI/edit) - Textbook for System Design Interviews.
+- [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/) ([Code](https://github.com/onlurking/the-software-architecture-chronicles))
+- [Documenting Software Architecture (2019)](https://herbertograca.com/2019/08/12/documenting-software-architecture/)

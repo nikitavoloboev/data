@@ -127,3 +127,4 @@
 - [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research.
 - [Research Notes on Humanoid Robots (2021)](https://liuliu.me/eyes/research-notes-on-humanoid-robots/)
 - [iGibson: A Simulation Environment to train Robots in Large Realistic Interactive Scenes](https://github.com/StanfordVL/iGibson) ([Web](http://svl.stanford.edu/igibson/))
+- [Ancient dreams of intelligent machines: 3,000 years of robots (2018)](https://www.nature.com/articles/d41586-018-05773-y)

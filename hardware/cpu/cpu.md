@@ -129,5 +129,5 @@
 - [Performance Ninja Class](https://github.com/dendibakh/perf-ninja) - Online course where you can learn to find and fix low-level performance issues, for example CPU cache misses and branch mispredictions.
 - [Ask HN: Are we entering an ARM era? (2021)](https://news.ycombinator.com/item?id=29605828)
 - [Predictive CPU isolation of containers at Netflix (2019)](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
-- [CPU implemented in an analog modular synthesizer](https://github.com/katef/eurorack-cpu) ([Tweet](https://twitter.com/thingskatedid/status/1476679065411022849))
+- [CPU implemented in an analog modular synthesizer](https://github.com/katef/eurorack-cpu) ([Tweet](https://twitter.com/thingskatedid/status/1476679065411022849)) ([HN](https://news.ycombinator.com/item?id=29743704))
 - [A single line of code made a 24-core server slower than a laptop (2021)](https://pkolaczk.github.io/server-slower-than-a-laptop/) ([HN](https://news.ycombinator.com/item?id=29747921)) ([Reddit](https://www.reddit.com/r/programming/comments/rszk63/how_a_single_line_of_code_made_a_24core_server/))

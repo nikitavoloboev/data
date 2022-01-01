@@ -499,3 +499,4 @@
 - [TinyKV Course](https://github.com/tidb-incubator/tinykv) - Builds a key-value storage system with the Raft consensus algorithm.
 - [Database Systems Resources](https://github.com/paulosman/database-systems)
 - [2021 in Database Startups: Gold Rush](https://unum.cloud/post/2021-12-31-dbms-startups/) ([HN](https://news.ycombinator.com/item?id=29749541))
+- [Databass, Part 1: Queries (2021)](https://blog.josephmorag.com/posts/databass1/)

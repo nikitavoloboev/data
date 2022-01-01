@@ -40,3 +40,4 @@
 - [Substrait](https://substrait.io/) - Cross-Language Serialization for Relational Algebra. ([Code](https://github.com/substrait-io/substrait)) ([substrait-rs](https://github.com/andygrove/substrait-rs))
 - [OpenH264](https://github.com/cisco/openh264) - Open Source H.264 Codec.
 - [Unicode Normalization Forms: When ö ≠ ö (2021)](https://blog.opencore.ch/posts/unicode-normalization-forms/) ([HN](https://news.ycombinator.com/item?id=29751641))
+- [Planus](https://github.com/TethysSvensson/planus) - Alternative flatbuffer implementation.

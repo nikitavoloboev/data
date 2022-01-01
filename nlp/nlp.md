@@ -443,3 +443,4 @@
 - [CTCDecoder](https://github.com/githubharald/CTCDecoder) - Connectionist Temporal Classification (CTC) decoding algorithms: best path, beam search, lexicon search, prefix search, and token passing. Implemented in Python.
 - [Custom Named Entity Recognition with Spacy3](https://github.com/amrrs/custom-ner-with-spacy3)
 - [BARTScore: Evaluating Generated Text as Text Generation (2021)](https://arxiv.org/abs/2106.11520) ([Code](https://github.com/neulab/BARTScore))
+- [minDALL-E on Conceptual Captions](https://github.com/kakaobrain/minDALL-E) - PyTorch implementation of a 1.3B text-to-image generation model trained on 14 million image-text pairs.

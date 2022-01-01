@@ -460,3 +460,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Rebase to Squash Commits to Most Recent Message (2021)](https://nickb.dev/blog/git-rebase-to-squash-commits-to-most-recent-message)
 - [vercel/git-hooks](https://github.com/vercel/git-hooks) - No nonsense Git hook management.
 - [How to back up your Git repositories (2021)](https://threkk.medium.com/how-to-back-up-your-git-repositories-1298a4487a31) ([Lobsters](https://lobste.rs/s/dmkw4d/how_back_up_your_git_repositories))
+- [Ask HN: Do we need an easier Git? (2022)](https://news.ycombinator.com/item?id=29756272)

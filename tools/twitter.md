@@ -142,3 +142,4 @@
 - [Twitter Query Language](https://gist.github.com/andyclarkemedia/3b4e062a45323138bd28ec52d80eb7b1)
 - [Twitter, the Intimacy Machine (2021)](https://ravenmagazine.org/magazine/twitter-the-intimacy-machine/)
 - [Twttr](https://github.com/sreechar/twttr) - Streamlines your twitter surfing process by prioritizing user-friendly features. ([Web](https://twttr.sreecha.me/))
+- [A Guide to Twitter](https://tasshin.com/blog/a-guide-to-twitter/) ([HN](https://news.ycombinator.com/item?id=29752379))

@@ -92,6 +92,7 @@
 - [A Neat Approximation Algorithm (2021)](https://mht.wtf/post/min-deg-st/)
 - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/) ([HN](https://news.ycombinator.com/item?id=29473271))
 - [Implementing Marching Squares (2020)](http://jacobzelko.com/marching-squares/)
+- [Speeding up Dijkstra by a factor of 2700 (2021)](https://blog.siraben.dev/2021/12/28/aoc-speedup.html) ([HN](https://news.ycombinator.com/item?id=29757176))
 
 ## Images
 

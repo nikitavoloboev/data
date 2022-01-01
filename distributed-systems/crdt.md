@@ -67,3 +67,4 @@
 - [SyncedStore CRDT](https://github.com/yousefed/SyncedStore) - Easy-to-use library for building live, collaborative applications that sync automatically. ([Docs](https://syncedstore.org/docs/)) ([HN](https://news.ycombinator.com/item?id=29483913))
 - [valtio-yjs](https://github.com/dai-shi/valtio-yjs) - Proxy state library for ReactJS and VanillaJS. yjs is an implementation of CRDT algorithm (which allows to merge client data without server coordination).
 - [Naisho](https://github.com/SerenityNotes/naisho) - Architecture for end-to-end encrypted CRDTs.
+- [The limits of conflict-free replicated data types (2021)](http://pepijndevos.nl/2021/12/18/the-limits-of-conflict-free-replicated-data-types.html)
