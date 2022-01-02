@@ -94,3 +94,4 @@
 - [dyff](https://github.com/homeport/dyff) - diff tool for YAML files, and sometimes JSON.
 - [JSON-S](https://github.com/brillout/json-s) - Same as JSON but with added support for Date, undefined, NaN, Infinity, and RegExp.
 - [toml2json](https://github.com/woodruffw/toml2json) - Small CLI for converting TOML to JSON.
+- [Deserializing JSON really fast (2020)](https://blog.datalust.co/deserializing-json-really-fast/)
