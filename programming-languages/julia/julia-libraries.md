@@ -409,6 +409,7 @@
 - [InitialValues.jl](https://github.com/JuliaFolds/InitialValues.jl) - Canonical default initial values and identity elements for Julia.
 - [Mux.jl](https://github.com/JuliaWeb/Mux.jl) - Middleware for Julia.
 - [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) - Progress meter for long-running computations.
+- [Modia.jl](https://github.com/ModiaSim/Modia.jl) - Modeling and simulation of multidomain engineering systems.
 
 ## Links
 

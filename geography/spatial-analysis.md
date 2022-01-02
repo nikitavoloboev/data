@@ -125,3 +125,4 @@
 - [2021 Map technology in review](https://www.placemark.io/post/2021-map-technology-in-review)
 - [Should you contribute open data to OpenStreetMap? (2021)](https://www.ctrl.blog/entry/re-maps-public-service.html) ([HN](https://news.ycombinator.com/item?id=29713976))
 - [WorldQL Server](https://github.com/WorldQL/worldql_server) - Spatial message broker and database for real-time multiplayer experiences.
+- [Flowmap.blue](https://flowmap.blue/) - Create geographic flow maps representing numbers of movements between locations. ([Code](https://github.com/FlowmapBlue/flowmap.blue))

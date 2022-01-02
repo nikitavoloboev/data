@@ -18,7 +18,7 @@
 - [The Relevance of Classic Fuzz Testing: Have We Solved This One? (2020)](https://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz2020.pdf)
 - [OneFuzz](https://github.com/microsoft/onefuzz) - Self-hosted Fuzzing-As-A-Service platform.
 - [Let’s build a high-performance fuzzer with GPUs (2020)](https://blog.trailofbits.com/2020/10/22/lets-build-a-high-performance-fuzzer-with-gpus/) ([HN](https://news.ycombinator.com/item?id=24858766))
-- [The Fuzzing Book](https://www.fuzzingbook.org/) - Tools and Techniques for Generating Software Tests.
+- [The Fuzzing Book](https://www.fuzzingbook.org/) - Tools and Techniques for Generating Software Tests. ([Code](https://github.com/uds-se/fuzzingbook))
 - [kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels (2017)](https://github.com/RUB-SysSec/kAFL)
 - [libxdc (eXtremely fast DeCoder)](https://github.com/nyx-fuzz/libxdc) - Aims to be the best Intel-PT decoding library for fuzzing purposes.
 - [Nautilus](https://github.com/nautilus-fuzz/nautilus) - Coverage guided, grammar based fuzzer.
@@ -66,3 +66,4 @@
 - [Blacksmith Rowhammer Fuzzer](https://github.com/comsec-group/blacksmith) - Crafts novel non-uniform Rowhammer access patterns based on the concepts of frequency, phase, and amplitude.
 - [Fuzzing](https://github.com/palekh/fuzzing) - Tool set for fuzz and stress testing your functions.
 - [Recent Papers Related To Fuzzing](https://github.com/wcventure/FuzzingPaper)
+- [FormatFuzzer](https://github.com/uds-se/FormatFuzzer) - Framework for high-efficiency, high-quality generation and parsing of binary inputs.

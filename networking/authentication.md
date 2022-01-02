@@ -110,7 +110,7 @@
 - [Persona](https://withpersona.com/) - Identity infrastructure for any business.
 - [JWT in Go](https://github.com/kataras/jwt)
 - [Twingate – Building the foundation for identity-first network security (2021)](https://www.twingate.com/blog/introducing-identity-first-networking/) ([HN](https://news.ycombinator.com/item?id=26253196))
-- [GoTrue](https://github.com/netlify/gotrue) - Small open-source API written in Go, that can act as a self-standing API service for handling user registration and authentication for JAM projects.
+- [GoTrue](https://github.com/netlify/gotrue) - Small open-source API written in Go, that can act as a self-standing API service for handling user registration and authentication for JAM projects. ([Fork](https://github.com/supabase/gotrue))
 - [FusionAuth](https://fusionauth.io/) - Authentication and Authorization built for devs.
 - [Hidden OAuth attack vectors (2021)](https://portswigger.net/research/hidden-oauth-attack-vectors)
 - [Vercel Basic Auth](https://github.com/flawyte/vercel-basic-auth) - How to add Basic Authentication to a Vercel deployment using various languages / frameworks.

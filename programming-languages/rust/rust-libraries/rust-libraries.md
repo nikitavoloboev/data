@@ -445,6 +445,7 @@
 - [valq](https://github.com/jiftechnify/valq) - Macros for querying and extracting value from structured data by JavaScript-like syntax.
 - [num_enum](https://github.com/illicitonion/num_enum) - Procedural macros to make inter-operation between primitives and enums easier.
 - [macro_rules_attribute](https://github.com/danielhenrymantilla/macro_rules_attribute-rs) - Use declarative macros as proc_macro attributes or derives.
+- [throttle_my_fn](https://github.com/fredmorcos/throttle_my_fn) - Rust attribute macro to throttle the execution of functions.
 
 ## Math
 

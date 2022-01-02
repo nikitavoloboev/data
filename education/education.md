@@ -1,6 +1,6 @@
 # Education
 
-Due to [my unpleasant time in university](university.md), I am building [Learn Anything](../ideas/learn-anything.md) to improve learning and using knowledge gained to build great things. One big I took away from my time with official education, it's never worth stressing over it.
+Due to [my unpleasant time in university](university.md), I am building [Learn Anything](../ideas/learn-anything.md) to improve learning and using knowledge gained to build great things. One big thing I took away from my time with official education is it's never worth stressing over it.
 
 ## Notes
 

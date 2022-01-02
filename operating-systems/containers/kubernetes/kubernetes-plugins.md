@@ -44,6 +44,10 @@
 - [kubectl-graph](https://github.com/steveteuber/kubectl-graph) - kubectl plugin to visualize Kubernetes resources and relationships.
 - [kubectl-plugins](https://github.com/emreodabas/kubectl-plugins) - Plugin useful for Bulk operations.
 
+## Operators
+
+- [k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Your all-in-one resource for your media needs.
+
 ## Helm Charts
 
 - [Victoria Metrics Helm Charts](https://github.com/VictoriaMetrics/helm-charts)

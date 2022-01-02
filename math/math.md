@@ -328,3 +328,4 @@
 - [On Induction (2021)](https://amelia.how/posts/on-induction.html)
 - [Quaternions (2021)](https://liorsinai.github.io/mathematics/2021/11/05/quaternion-1-intro.html) ([HN](https://news.ycombinator.com/item?id=29510237))
 - [Algebra Notes](https://github.com/NicoCourts/Algebra)
+- [Path to a free self-taught education in Mathematics](https://github.com/ossu/math)
