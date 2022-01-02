@@ -27,3 +27,4 @@
 - [Qt Base](https://github.com/qt/qtbase) - Core, Gui, Widgets, Network.
 - [CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - Used to deploy applications written using QML, qt or other С / С++ frameworks.
 - [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book) ([Code](https://github.com/qmlbook/qt6book))
+- [QUICK](https://github.com/szsdk/quick) - Real QUICK Qt5 based gUI generator for ClicK.

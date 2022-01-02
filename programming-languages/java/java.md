@@ -101,3 +101,4 @@
 - [GraalVM Demos](https://github.com/graalvm/graalvm-demos)
 - [yvm](https://github.com/kelthuzadx/yvm) - Low performance garbage-collectable JVM.
 - [fbjni](https://github.com/facebookincubator/fbjni) - Library designed to simplify the usage of the Java Native Interface.
+- [miniJVM](https://github.com/digitalgust/miniJVM) - Develop iOS Android app in java, Cross platform java virtual machine.

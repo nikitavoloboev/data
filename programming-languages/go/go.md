@@ -6,6 +6,8 @@ I mostly love the tooling around it like [VS Code](../../text-editors/vs-code/vs
 
 Go promotes composition over inheritance.
 
+[Tour of Go](https://go.dev/tour/welcome/1) & [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) are great places to learn Go.
+
 ## Commenting Go code
 
 - Comments documenting declarations should be full sentences.
@@ -676,3 +678,4 @@ if err != nil {
 - [Errors and Error Wrapping in Go (2021)](https://trstringer.com/errors-and-error-wrapping-go/)
 - [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/preface.html) - Journey into the Standard Library. ([Code](https://github.com/blasrodri/spaceship-go))
 - [Go Fuzzing](https://tip.golang.org/doc/fuzz/) ([HN](https://news.ycombinator.com/item?id=29761092))
+- [Statically Detecting Go Concurrency Bugs](https://github.com/system-pclub/GCatch)

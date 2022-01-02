@@ -262,6 +262,7 @@ Below is a list of extensions I use.
 - [Markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Keyboard shortcuts, table of contents, auto preview and more.
 - [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes) ([Code](https://github.com/kortina/vscode-markdown-notes))
 - [Zeta Note](https://github.com/artempyanykh/zeta-note-vscode) - Integrates Zeta Note language server into VSCode for delightful note taking experience.
+- [Markdown Memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode. ([Code](https://github.com/svsool/vscode-memo))
 
 ## HTML
 

@@ -22,3 +22,4 @@
 - ["Poems in an accidental language" by Kate Compton (2021)](https://www.youtube.com/watch?v=NlClzGbemu8)
 - [Стихи.ру](https://stihi.ru/)
 - [Where to start with poetry (2021)](https://www.reddit.com/r/suggestmeabook/comments/rsnkpz/i_read_50_books_a_year_but_i_still_have_never/)
+- ["О поэтах и поэзии" - Дмитрий Быков (2022)](https://www.labirint.ru/books/831923/)

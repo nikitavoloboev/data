@@ -66,3 +66,4 @@
 - [gyro](https://github.com/mattnite/gyro) - Zig package manager with an index, build runner, and build dependencies. ([Web](https://astrolabe.pm/))
 - [zigpkgs](https://github.com/joachimschmidt557/zigpkgs) - Collection of zig packages built with Nix.
 - [Aquila](https://github.com/nektro/aquila) - Federated package index and CI system for Zig. ([Web](https://aquila.red/))
+- [Deps.zig](https://github.com/silversquirl/deps.zig) - Dependency manager for Zig.

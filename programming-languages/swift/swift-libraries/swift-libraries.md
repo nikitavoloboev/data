@@ -215,6 +215,7 @@
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy.
 - [TactileSlider](https://github.com/daprice/iOS-Tactile-Slider) - UIControl slider that can be dragged from any point within its bounds, similar to those in Control Center and Home.app.
 - [SupportDocs](https://github.com/aheze/SupportDocs) - Generate help centers for your iOS apps. Hosted by GitHub and always up-to-date.
+- [ToggleUI](https://github.com/ilyapuchka/ToggleUI) - Library that provides property wrappers to create feature toggles for your app with built-in debug view based on SwiftUI and Combine.
 
 ## macOS
 
@@ -434,6 +435,7 @@
 
 - [Swift Graphics](https://github.com/fwcd/swift-graphics) - Cross-platform 2D graphics library for Swift.
 - [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance & easy to use GIF engine.
+- [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift Bindings to the Skia 2D graphics Library. ([Fork](https://github.com/UnGast/SkiaKit))
 
 ## Other
 
@@ -605,7 +607,6 @@
 - [Keyboard Observing](https://github.com/nickffox/KeyboardObserving) - Combine-based solution for observing and avoiding the keyboard in SwiftUI.
 - [swift-base64-kit](https://github.com/fabianfett/swift-base64-kit) - Base64 encode and decode without the use of Foundation in pure Swift.
 - [Proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps.
-- [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift Bindings to the Skia 2D graphics Library.
 - [Vaux](https://github.com/dokun1/Vaux) - HTML DSL library for Swift.
 - [Echo](https://github.com/Azoy/Echo) - Complete reflection package for Swift.
 - [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) - Easy XML parsing using Codable protocol in Swift.

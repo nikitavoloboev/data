@@ -1,5 +1,9 @@
 # [Godot](https://godotengine.org/)
 
+## Nice Godot OSS apps
+
+- [Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/note-taking app that is focused on performance, small savefiles and simplicity.
+
 ## Links
 
 - [This Week in Godot](https://thisweekingodot.com/) - Weekly newsletter to stay tuned with news, tutorials, game and demo releases and more. ([Code](https://github.com/albizures/ThisWeekInGodot))

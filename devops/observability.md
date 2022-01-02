@@ -31,3 +31,4 @@
 - [Free Your Services From Vendor Lock-in With OpenTelemetry (2021)](https://www.youtube.com/watch?v=G-WjD2bg6co)
 - [A tale of Distributed Context (2021)](https://mattburman.com/a-tale-of-distributed-context/)
 - [Calyptia](https://calyptia.com/) - First Mile Observability.
+- [tracing-filter](https://github.com/davidbarsky/tracing-filter) - Query language for filtering tracing spans and events.
