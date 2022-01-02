@@ -626,6 +626,7 @@
 - [TypeSystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering.
 - [atomics](https://github.com/doodspav/atomics) - Lock-Free Atomics in Python.
 - [sketchbook](https://github.com/futursolo/sketchbook) - Template engine built for asyncio with async/await syntax support.
+- [quickmunge](https://github.com/ludios/quickmunge) - Some utilities for manipulating lines of text, numbers, JSON, bencode, and HTML fragments. Intended for use in shell pipes.
 
 ## Links
 

@@ -60,3 +60,4 @@
 - [wgsd](https://github.com/jwhited/wgsd) - CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics.
 - [WireGuard Endpoint Discovery and NAT Traversal using DNS-SD (2020)](https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/)
 - [wgctrl](https://github.com/WireGuard/wgctrl-go) - Enables control of WireGuard devices on multiple platforms.
+- [natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking.

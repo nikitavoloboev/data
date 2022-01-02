@@ -274,6 +274,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Books read in 2021](https://twitter.com/ManishEarth/status/1364969804562452480)
 - [What’s the most disturbing or scary book you ever read?](https://www.reddit.com/r/suggestmeabook/comments/rt5xeg/whats_the_most_disturbing_or_scary_book_you_ever/)
 - [Readers Pick the Best Book of the Past 125 Years](https://www.nytimes.com/interactive/2021/12/28/books/best-book-winners.html)
+- [What was your favorite book of 2021?](https://www.reddit.com/r/suggestmeabook/comments/rtnqd1/what_was_your_favourite_book_of_2021/)
 
 ## Interesting Prose Books
 
