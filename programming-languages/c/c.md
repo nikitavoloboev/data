@@ -200,3 +200,4 @@
 - [Type-Safe Printf For C](https://github.com/moehriegitt/vastringify) ([HN](https://news.ycombinator.com/item?id=29528571))
 - [Lang-C](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust.
 - [Why Is C Faster Than Java (2009)](https://marc.info/?l=git&m=124111702609723&w=2) ([HN](https://news.ycombinator.com/item?id=29659266))
+- [Almost Always Unsigned (2022)](https://graphitemaster.github.io/aau/)
