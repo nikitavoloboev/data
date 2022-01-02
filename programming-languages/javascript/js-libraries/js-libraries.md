@@ -721,6 +721,7 @@
 - [Zoomist](https://github.com/cotton123236/zoomist) - JavaScript library for zooming image.
 - [canvas-capture](https://github.com/amandaghassaei/canvas-capture) - Record the canvas as an image, mp4 video, or GIF from the browser.
 - [hardtack](https://github.com/alik0211/hardtack) - Ultra-light library for working with cookies in JavaScript.
+- [Eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript. ([Web](https://eta.js.org/))
 
 ## Links
 

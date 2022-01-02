@@ -259,6 +259,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Rallie](https://github.com/ralliejs/rallie) - Library that helps users implement decentralized front-end micro service architecture.
 - [tree-visit](https://github.com/dabbott/tree-visit) - Tree traversal library.
 - [filespy](https://github.com/alloc/filespy) - Spy on files.
+- [pubble](https://github.com/crinklesio/pubble) - TypeScript implementation of event-driven proxy state.
+- [DIGL](https://github.com/crinklesio/digl) - JavaScript Directed Graph auto-layout algorithm.
 
 ## Links
 

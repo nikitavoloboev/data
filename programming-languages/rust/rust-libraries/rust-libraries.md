@@ -104,6 +104,7 @@
 - [Smithy](https://github.com/rbalicki2/smithy) - Framework for building WebAssembly apps in Rust.
 - [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
 - [yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly.
+- [Bounce](https://github.com/futursolo/bounce) - State management library for Yew.
 - [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
 - [Watt](https://github.com/dtolnay/watt) - Runtime for executing Rust procedural macros compiled as WebAssembly.
@@ -1280,6 +1281,8 @@
 - [SuperStruct](https://github.com/sigp/superstruct) - Rust library for versioned data types.
 - [Typic](https://github.com/jswrenn/typic) - Type-safe transmutations between layout-compatible types.
 - [Uncertain](https://github.com/dyedgreen/uncertain) - Fast and correct computations with uncertain values.
+- [Fastmurmur3](https://github.com/kurtbuilds/fastmurmur3) - Fast, non-cryptographic hash function.
+- [Castaway](https://github.com/sagebind/castaway) - Safe, zero-cost downcasting for limited compile-time specialization.
 
 ## Cargo Plugins
 

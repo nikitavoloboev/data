@@ -216,6 +216,7 @@
 - [TactileSlider](https://github.com/daprice/iOS-Tactile-Slider) - UIControl slider that can be dragged from any point within its bounds, similar to those in Control Center and Home.app.
 - [SupportDocs](https://github.com/aheze/SupportDocs) - Generate help centers for your iOS apps. Hosted by GitHub and always up-to-date.
 - [ToggleUI](https://github.com/ilyapuchka/ToggleUI) - Library that provides property wrappers to create feature toggles for your app with built-in debug view based on SwiftUI and Combine.
+- [MBVideoPlayer](https://github.com/mwaqasbhati/MBVideoPlayer) - Video player on top of AVQueuePlayer.
 
 ## macOS
 

@@ -264,7 +264,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Compromised: A story of intrigue, terror, NFTs, and crypto-espionage (2021)](https://steviep.xyz/txt/compromised) ([HN](https://news.ycombinator.com/item?id=28906111))
 - [Flow](https://www.onflow.org/) - Blockchain for open worlds. ([GitHub](https://github.com/onflow)) ([Playground](https://www.onflow.org/play)) ([Code](https://github.com/onflow/flow-go))
 - [Cadence](https://github.com/onflow/cadence) - Resource-oriented smart contract programming language.
-- [Cairo](https://www.cairo-lang.org/) - Turing-complete language making it possible for all blockchain developers to harness the power of STARKs. ([Code](https://github.com/starkware-libs/cairo-lang))
+- [Cairo](https://www.cairo-lang.org/) - Turing-complete language making it possible for all blockchain developers to harness the power of STARKs. ([Code](https://github.com/starkware-libs/cairo-lang)) ([Cairo by Example](https://github.com/a5f9t4/cairo-by-example)) ([Cairo by Example Code](https://github.com/a5f9t4/cairo-by-example))
 - [TokenScript](http://tokenscript.org/) - JavaScript / XML framework for blockchain token which creates a layer between a blockchain and user devices. ([Specs](https://github.com/TokenScript/TokenScript))
 - [What is an NFT?](https://twitter.com/punk6529/status/1451896453065023493)
 - [Best tax solution when dealing with NFTs (2021)](https://twitter.com/sterlingcrispin/status/1453079792077533185)

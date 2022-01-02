@@ -433,3 +433,4 @@ all: unset
 - [Dynamic CSS with Custom Properties (aka CSS Variables)](https://frontendmasters.com/courses/css-variables/)
 - [Styles of text selection (2021)](https://mefody.dev/chunks/selection/)
 - [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator/) ([Code](https://github.com/wwebdev/separator-generator))
+- [Stylist](https://github.com/futursolo/stylist-rs) - CSS-in-Rust styling solution for WebAssembly Applications.

@@ -163,3 +163,4 @@
 - [Geoff Rich's 2021 Svelte Posts](https://twitter.com/geoffrich_/status/1475968586405404677)
 - [SSWR](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
 - [Svelte MultiSelect](https://github.com/janosh/svelte-multiselect) - Keyboard-friendly, zero-dependency multi-select Svelte component.
+- [SWR-like data fetching in Svelte (2021)](https://crinkles.io/writing/data-fetching-swr-svelte)

@@ -171,3 +171,4 @@
 - [StyleGAN2-ada for practice](https://github.com/eps696/stylegan2ada)
 - [StyleGAN3 CLIP-based guidance](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks)
 - [CA-GAN: Composition-Aided GANs (2020)](https://aiart.live/ca-gan/) ([Code](https://github.com/fei-hdu/ca-gan))
+- [SinGAN: Learning a Generative Model from a Single Natural Image (2019)](https://tamarott.github.io/SinGAN.htm) ([Code](https://github.com/tamarott/SinGAN))

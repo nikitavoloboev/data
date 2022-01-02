@@ -625,6 +625,7 @@
 - [di](https://github.com/adriangb/di) - Pythonic dependency injection.
 - [TypeSystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering.
 - [atomics](https://github.com/doodspav/atomics) - Lock-Free Atomics in Python.
+- [sketchbook](https://github.com/futursolo/sketchbook) - Template engine built for asyncio with async/await syntax support.
 
 ## Links
 

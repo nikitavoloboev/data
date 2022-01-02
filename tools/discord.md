@@ -30,6 +30,7 @@
 - [ArtBot](https://github.com/ArtBlocks/artbot) - Discord bot for ArtBlocks.
 - [DNS over Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 DNS resolver built for Discord.
 - [ClemBot](https://github.com/ClemBotProject/ClemBot) - Discord bot for server management with an emphasis on modularity and configuration.
+- [Discord External Video Embeds](https://github.com/adryd325/discord-twitter-video-embeds) - Discord bot that fixes broken Twitter, TikTok and Reddit video Embeds.
 
 ## Libraries
 

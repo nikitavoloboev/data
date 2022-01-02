@@ -429,3 +429,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [beth.sh](https://github.com/th4s/beth) - CLI for Ethereum with a focus on portability.
 - [Slashing Proofs](https://github.com/michaelsproul/slashing-proofs) - Formal proofs about Ethereum slashing protection strategies.
 - [Lua Cash](https://www.lua.cash/) - Issue a token in 1 click. Your custom ERC20 on Polygon in less than a minute, <$0.1 in fees.
+- [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for starknet development.
+- [Ying-Yang](https://github.com/exp-table/ying-yang) - Pay on Ethereum, mint on Starknet.

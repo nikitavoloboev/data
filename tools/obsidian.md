@@ -58,6 +58,8 @@
 - [Fantasy Calendars](https://github.com/valentine195/obsidian-fantasy-calendar) - Create fantasy calendars in Obsidian.
 - [Shell Commands](https://github.com/Taitava/obsidian-shellcommands) - Execute system commands via hotkeys or command palette in Obsidian.
 - [Footnotes](https://github.com/MichaBrugger/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun.
+- [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) - Integrates Excalidraw, a feature rich sketching tool, into Obsidian.
+- [Ozan's Image in Editor](https://github.com/ozntel/oz-image-in-editor-obsidian) - Obsidian plugin to view Images, Transclusions, iFrames and PDF Files within the Editor without a necessity to switch to Preview.
 
 ## Themes
 

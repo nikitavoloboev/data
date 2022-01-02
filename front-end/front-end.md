@@ -82,3 +82,4 @@
 - [Build user-adaptive interfaces | Workshop (2021)](https://www.youtube.com/watch?v=865olcAfwFg)
 - [Dan Abramov SLAYS Frontend Interview w/ Ex-Twitch Engineer (2021)](https://www.youtube.com/watch?v=uqII0AOW1NM)
 - [Frontend Developer Resources 2022](https://dev.to/nickytonline/frontend-developer-resources-2022-4cp2)
+- [Client-side software design](https://github.com/crinklesio/reference-architecture)
