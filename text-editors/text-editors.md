@@ -69,6 +69,8 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [MarkupEditor](https://github.com/stevengharris/MarkupEditor) - WYSIWYG editing for SwiftUI and UIKit apps.
 - [cl-editor](https://github.com/nenadpnc/cl-editor) - Lightweight text editor built with svelte, TypeScript.
 - [Ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
+- [Molecule](https://github.com/DTStack/molecule) - Lightweight Web IDE UI framework which is built with React.js and inspired by the VSCode.
+- [react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React.
 
 ## Web
 

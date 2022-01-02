@@ -5,6 +5,7 @@
 - [scotty](https://github.com/scotty-web/scotty)
 - [servant](https://github.com/haskell-servant/servant) - DSL for describing, serving, querying, mocking, documenting web applications and more.
 - [WAI](https://github.com/yesodweb/wai) - Interface between Haskell web frameworks and web servers.
+- [Twain](https://github.com/alexmingoia/twain) - Tiny web application framework for WAI.
 - [Mu](https://github.com/higherkindness/mu-haskell) - Purely functional framework for building micro services.
 - [Hydra](https://github.com/graninas/Hydra) - Full-fledged framework for building web services, multithreaded and concurrent applications with SQL and KV DB support.
 - [Obelisk](https://github.com/obsidiansystems/obelisk) - Provides an easy way to develop and deploy your Reflex project for web and mobile. ([Web](https://haskell.zettel.page/2012403.html))

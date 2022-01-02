@@ -166,3 +166,4 @@
 - [Deno Deploy Examples](https://github.com/denoland/deploy_examples)
 - [Clay](https://github.com/dyedgreen/clay) - Deno Command Line Argument Parsing.
 - [Building WebAssembly for Deno (2019)](https://tilman.dev/blog/2019/12/building-webassembly-for-deno)
+- [Conceptual Deno front end playground](https://github.com/mizchi/frontend-deno)

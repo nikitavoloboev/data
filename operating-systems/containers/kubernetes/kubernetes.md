@@ -588,3 +588,5 @@
 - [Auto-portforward (apf)](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker and kubernetes.
 - [Podtato-head](https://github.com/podtato-head/podtato-head) - Prototypical cloud-native application built to colorfully demonstrate delivery scenarios using many different tools and services.
 - [Apache Camel K](https://github.com/apache/camel-k) - Lightweight integration platform, born on Kubernetes, with serverless superpowers. ([Docs](https://camel.apache.org/camel-k))
+- [KubExplorer](https://github.com/Pscheidl/kubexplorer) - Detects orphan configmaps and secrets in a Kubernetes cluster.
+- [Pleco](https://github.com/Qovery/pleco) - Automatically removes Cloud managed services and Kubernetes resources based on tags with TTL.

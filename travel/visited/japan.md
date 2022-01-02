@@ -33,7 +33,7 @@
 - [1980's Japan](https://www.youtube.com/watch?v=C_qi8XVP8W0) ([HN](https://news.ycombinator.com/item?id=26060833))
 - [Experience Japan Pictograms](https://experience-japan.info/)
 - [Kanji alive](https://kanjialive.com/) - Free study tool for reading and writing kanji. ([Code](https://github.com/kanjialive/kanji-data-media))
-- [Mini Tokyo 3D](https://minitokyo3d.com/)
+- [Mini Tokyo 3D](https://minitokyo3d.com/) - Real-Time Tokyo Subway Map. ([HN](https://news.ycombinator.com/item?id=29765449))
 - [Японский язык? Сейчас объясню! (2020)](https://www.youtube.com/watch?v=pLNZtA2a4CM)
 - [Interview: Everything you have heard about Japan is True (2020)](https://hargup.medium.com/everything-you-have-heard-about-japan-is-true-901e0bbcee9b)
 - [Japan as seen through the lens of Marcio Kogan (2021)](https://www.wallpaper.com/design/explore-japan-with-marcio-kogan)

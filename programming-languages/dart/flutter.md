@@ -73,3 +73,4 @@
 - [Using Flutter to build a native-looking desktop app for macOS and Windows (2021)](https://blog.whidev.com/native-looking-desktop-app-with-flutter/) ([HN](https://news.ycombinator.com/item?id=29170955))
 - [Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop)
 - [flutter_use](https://github.com/wasabeef/flutter_use) - Play Flutter Hooks.
+- [Flutter Packages](https://github.com/flutter/packages) - Collection of useful packages maintained by the Flutter team.

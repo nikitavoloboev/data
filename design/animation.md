@@ -63,3 +63,4 @@
 - [Simplicial Fluid on triangle meshes](https://yhesper.github.io/projects/2_project_simpfluid/)
 - [Haiku Animator](https://www.haikuanimator.com/) - Design tool for creating Lottie animations and interactive web components. ([Code](https://github.com/HaikuTeam/animator))
 - [midori](https://github.com/aeroheim/midori) - Library for animating image backgrounds in websites using WebGL.
+- [ossos](https://github.com/sketchpunklabs/ossos) - Character Animation Library.

@@ -137,6 +137,7 @@
 - [unilog](https://github.com/pyr/unilog) - Easy logging setup in clojure.
 - [Pathom 3](https://github.com/wilkerlucio/pathom3) - Logic programming through attribute relationships in Clojure. ([Docs](https://pathom3.wsscode.com/docs/))
 - [cascade](https://github.com/lilactown/cascade) - Library of continuation-passing, thunk-producing versions of many Clojure core functions.
+- [more.async](https://github.com/bsless/more.async) - Small library to do more stuff with core.async.
 
 ## Links
 

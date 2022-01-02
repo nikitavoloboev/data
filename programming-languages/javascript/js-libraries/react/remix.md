@@ -9,9 +9,11 @@
 - [HN in Remix](https://github.com/ryanflorence/remix-hn)
 - [Interactive app to demonstrate how routing works in Remix](https://github.com/dilums/interactive-remix-routing)
 - [Jacob Ebey's Blog](https://github.com/jacob-ebey/ebey-me-remix)
+- [Simeon Griggs's Blog](https://github.com/SimeonGriggs/simeonGriggs) - Blog with content by Sanity.io and Front end in Remix.run.
 
 ## Plugins
 
+- [Remix Auth - Supabase Strategy](https://github.com/mitchelvanbever/remix-auth-supabase-strategy)
 - [OAuth2Strategy](https://github.com/sergiodxa/remix-auth-oauth2) - OAuth2Strategy for Remix Auth.
 - [GitHubStrategy](https://github.com/sergiodxa/remix-auth-github) - GitHubStrategy for Remix Auth, based on the OAuth2Strategy.
 - [FormStrategy](https://github.com/sergiodxa/remix-auth-form) - Remix Auth strategy for working with forms.

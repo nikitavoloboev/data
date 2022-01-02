@@ -238,6 +238,7 @@
 - [Requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers. ([Why I wrote my own Go HTTP client](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/)) ([Reddit](https://www.reddit.com/r/golang/comments/rincmj/why_i_wrote_my_own_go_http_client/))
 - [EasyRaft](https://github.com/ksrichard/easyraft) - Easy to use Raft library to make your app distributed, highly available and fault-tolerant.
 - [Truss](https://github.com/metaverse/truss) - Helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code.
+- [ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 
 ## GraphQL
 
@@ -1207,6 +1208,7 @@
 - [Rad](https://github.com/purehyperbole/rad) - Concurrent lock free radix tree implementation for go.
 - [JWZ](https://github.com/gatherstars-com/jwz) - Go implementation of the JWZ email threading algorithm.
 - [batchAggregator](https://github.com/mikedewar/batchAggregator) - Designed to chew through a bunch of parquet files containing events.
+- [parquet-go](https://github.com/xitongsys/parquet-go) - Pure Go library for reading/writing parquet file.
 
 ## Links
 

@@ -638,3 +638,4 @@
 - [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 - [Autoencoder-based deep metric learning for network intrusion detection (2021)](https://www.sciencedirect.com/science/article/abs/pii/S002002552100462X) ([Code](https://github.com/gsndr/RENOIR))
 - [Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
+- [Trustworthy Machine Learning by Kush R. Varshney](http://www.trustworthymachinelearning.com/)

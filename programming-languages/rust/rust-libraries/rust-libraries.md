@@ -370,6 +370,7 @@
 - [ONNX Runtime](https://github.com/nbigaouette/onnxruntime-rs) - Rust wrapper for Microsoft's ONNX Runtime.
 - [HAL](https://github.com/jramapuram/hal) - Rust based Cross-GPU Machine Learning.
 - [Cogent](https://github.com/JonathanWoollett-Light/cogent) - Simple neural network library for classification written in Rust.
+- [tongrams-rs](https://github.com/kampersanda/tongrams-rs) - Rust port of tongrams to index and query large language models in compressed space.
 
 ## macOS
 
@@ -1286,6 +1287,9 @@
 - [Fastmurmur3](https://github.com/kurtbuilds/fastmurmur3) - Fast, non-cryptographic hash function.
 - [Castaway](https://github.com/sagebind/castaway) - Safe, zero-cost downcasting for limited compile-time specialization.
 - [lzma-rs](https://github.com/gendx/lzma-rs) - LZMA decoder/encoder written in pure Rust.
+- [sucds](https://github.com/kampersanda/sucds) - Succinct data structures in Rust.
+- [mih-rs](https://github.com/kampersanda/mih-rs) - Rust implementation of multi-index hashing for neighbor searches on binary codes in the Hamming space.
+- [extent](https://github.com/graydon/extent) - Replacement for std::ops::{Range,RangeInclusive}.
 
 ## Cargo Plugins
 
@@ -1409,3 +1413,4 @@
 - [simd](https://github.com/Nugine/simd) - SIMD-accelerated operations.
 - [rust-cli](https://github.com/yoshuawuyts/rust-cli) - Rust CLI prototype.
 - [Rust asynchronous examples](https://github.com/gendx/rust-async-examples)
+- [escargot](https://github.com/crate-ci/escargot) - Cargo API written in Paris.

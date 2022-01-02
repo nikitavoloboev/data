@@ -39,6 +39,7 @@
 - [nimpy](https://github.com/yglukhov/nimpy) - Native language integration with Python.
 - [Regex](https://github.com/nitely/nim-regex) - Pure Nim regex engine. Guarantees linear time matching.
 - [nim-plotly](https://github.com/SciNim/nim-plotly) - Plotly wrapper for Nim.
+- [nim-result](https://github.com/arnetheduck/nim-result) - Result type that can hold either a value or an error, but not both.
 
 ## Links
 

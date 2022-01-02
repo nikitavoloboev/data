@@ -761,3 +761,4 @@
 - [npm-stat](https://npm-stat.com/) - Download statistics for NPM packages. ([Code](https://github.com/pvorb/npm-stat.com))
 - [Packemon](https://github.com/milesj/packemon) - Build and prepare packages for npm distribution using standardized configurations and practices. ([Docs](https://packemon.dev/docs/))
 - [Top 1000 most depended-upon npm packages](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
+- [pkg-size](https://github.com/pkg-size/pkg-size) - Measure the size of your npm package distribution.

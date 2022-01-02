@@ -687,3 +687,4 @@
 - [Ask HN: Good Python projects to read for modern Python? (2021)](https://news.ycombinator.com/item?id=29698198)
 - [import attrs (2021)](https://hynek.me/articles/import-attrs/)
 - [Nine Rules for Writing Python Extensions in Rust (2022)](https://towardsdatascience.com/nine-rules-for-writing-python-extensions-in-rust-d35ea3a4ec29) ([Reddit](https://www.reddit.com/r/rust/comments/rtnwd5/python_extensions_in_rust_lessons_learned_from/))
+- [pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities.

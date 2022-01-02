@@ -31,3 +31,4 @@ Some interesting words I like:
 - [an-array-of-english-words](https://github.com/words/an-array-of-english-words) - List of ~275,000 English words as JS package.
 - [Using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary) ([HN](https://news.ycombinator.com/item?id=29734242))
 - [What’s your favorite word to use, that most people don’t use?](https://twitter.com/businessbarista/status/1476670975257239562)
+- [What’s the Difference Between American English and British English? (2022)](http://backreaction.blogspot.com/2022/01/whats-difference-between-american.html) ([HN](https://news.ycombinator.com/item?id=29766446))

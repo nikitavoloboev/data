@@ -8,6 +8,8 @@ I separate blogs I follow by quality into `1.` & `2.` folders accordingly.
 
 I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689). I also follow some people on [Medium](https://medium.com/@nikitavoloboev/following).
 
+If you want to start a blog of your own, [this](https://github.com/alaq/adrien.sh) is a nice [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) template. Or [this](https://github.com/sw-yx/swyxkit) if you want to use [Svelte](../programming-languages/javascript/js-libraries/svelte.md). Or [this](https://github.com/SimeonGriggs/simeonGriggs) if you want to use [Remix](../programming-languages/javascript/js-libraries/react/remix.md).
+
 ## Favorite blogs
 
 - [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
@@ -176,7 +178,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Blog about what you've struggled with (2021)](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/)
 - [Ask HN: Favorite Blogs by Individuals? (2021)](https://news.ycombinator.com/item?id=27302195)
 - [Small B Blogging (2018)](https://tomcritchlow.com/2018/02/23/small-b-blogging/) ([HN](https://news.ycombinator.com/item?id=27347026))
-- [Refined Blog](https://refined.blog/) - Curated list of personal blogs. ([HN](https://news.ycombinator.com/item?id=27973836))
+- [Refined Blog](https://refined.blog/) - Curated list of personal blogs. ([HN](https://news.ycombinator.com/item?id=27973836)) ([Code](https://github.com/m8/refined.blog))
 - [Why the Substack hype is much ado about very little (2020)](https://dankennedy.net/2020/12/09/blogging-is-dead-long-live-blogging-or-why-the-substack-hype-is-much-ado-about-very-little/) ([HN](https://news.ycombinator.com/item?id=27968203))
 - [The stream](https://github.com/thesephist/stream) - Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak.
 - [Blogging for Business Course](https://ahrefs.com/academy/blogging-for-business)

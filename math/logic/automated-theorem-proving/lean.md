@@ -63,3 +63,4 @@
 - [Alloy](https://github.com/tydeu/lean4-alloy) - Lean 4 library that allows one to embedded external FFI code (currently just C) within Lean definitions.
 - [Lean SAT Proof Checker](https://github.com/joehendrix/lean-sat-checker)
 - [NumLean](https://github.com/arthurpaulino/NumLean) - Lean 4 package for heavy numerical computations.
+- [tree-sitter-lean](https://github.com/Julian/tree-sitter-lean) - Experimental tree-sitter parser for Lean.

@@ -230,3 +230,5 @@ And these Discord servers:
 - [Ask HN: What do you read for general knowledge? (2021)](https://news.ycombinator.com/item?id=29535977)
 - [Ask HN: News site that provides world updates only when relevant? (2021)](https://legiblenews.com/) ([HN](https://news.ycombinator.com/item?id=29551686))
 - [Ask HN: How do you get articles/papers/talks recommendations? (2021)](https://news.ycombinator.com/item?id=29604618)
+- [sumi.news](https://sumi.news/) - Peaceful news feed. Follow RSS, Twitter, newsletters, and more. No ads, no algorithm, no distractions. ([Code](https://github.com/tofukidco/sumi.news))
+- [The Syllabus](https://www.the-syllabus.com/) - Knowledge Curation Platform. We index, rank, and review tens of thousands of newly published pieces across text, audio, and video. ([Twitter](https://twitter.com/syllabus_tweets))

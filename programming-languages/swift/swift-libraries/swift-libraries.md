@@ -893,6 +893,7 @@
 - [Popovers](https://github.com/aheze/Popovers) - Library to present highly-customizable popovers. ([Reddit](https://www.reddit.com/r/swift/comments/roc55m/popovers_a_swift_package_to_present_popovers_in/))
 - [swift-bridge](https://github.com/chinedufn/swift-bridge) - Call Rust from Swift and vice versa. ([Reddit](https://www.reddit.com/r/rust/comments/rqr0aj/swiftbridge_generate_ffi_bindings_between_rust/))
 - [ProcedureKit](https://github.com/ProcedureKit/ProcedureKit) - Advanced Operations in Swift.
+- [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
 
 ## Other (not lib)
 

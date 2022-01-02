@@ -363,3 +363,4 @@
 - [Parser Combinators in Haskell (2021)](https://serokell.io/blog/parser-combinators-in-haskell) ([HN](https://news.ycombinator.com/item?id=29649071))
 - [Gil Mizrahi's Talks/Slides on Haskell](https://github.com/soupi/rfc)
 - [Advent of Haskell: Denotational Design](https://github.com/bolt12/advent-of-haskell-dd)
+- [Jupyter adaptation of Learn You a Haskell for Great Good](https://github.com/jamesdbrock/learn-you-a-haskell-notebook)

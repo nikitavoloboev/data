@@ -93,3 +93,4 @@
 - [Very powerful 1Hz Minecraft CPU (2021)](https://www.youtube.com/watch?v=FDiapbD0Xfg) ([Lobsters](https://lobste.rs/s/isyomf/very_powerful_1hz_minecraft_cpu))
 - [mc-proxy](https://github.com/101arrowz/mc-proxy) - Fully functional proxy for online and offline-mode Minecraft servers.
 - [Mycelium](https://github.com/nikhiljha/mycelium) - Deploy planet-scale Minecraft server networks on Kubernetes.
+- [KubeJS](https://github.com/KubeJS-Mods/KubeJS) - Multi-modloader Minecraft mod which lets you create scripts in JavaScript. ([Web](https://kubejs.com/))

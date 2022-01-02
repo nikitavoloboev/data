@@ -82,7 +82,7 @@
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool. ([Web](http://sqlmap.org/))
 - [SQL Conventions](https://github.com/FGRibreau/sql-convention)
 - [SQLFlow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together. ([Web](https://sql-machine-learning.github.io/))
-- [Practical SQL (2018)](https://nostarch.com/practicalSQL) - Beginner’s Guide to Storytelling with Data.
+- [Practical SQL (2022)](https://nostarch.com/practical-sql-2nd-edition/) - Beginner’s Guide to Storytelling with Data. ([Code](https://github.com/anthonydb/practical-sql-2))
 - [Recursion in SQL Explained Visually (2020)](https://medium.com/swlh/recursion-in-sql-explained-graphically-679f6a0f143b)
 - [FuseQuery](https://github.com/datafusedev/fuse-query) - Distributed SQL Query Engine at scale. ([Web](https://datafuse.dev/))
 - [Introduction to Window Functions in SQL (2020)](https://khashtamov.com/en/sql-window-functions/) ([HN](https://news.ycombinator.com/item?id=25656583))

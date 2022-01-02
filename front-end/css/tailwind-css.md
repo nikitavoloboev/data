@@ -121,3 +121,4 @@
 - [Rebuilding iOS 15 with Tailwind CSS (2021)](https://www.youtube.com/watch?v=eSzNNYk7nVU)
 - [Animate CSS - Tailwind CSS Plugin](https://github.com/bentzibentz/tailwindcss-animate.css)
 - [Box Shadows for TailwindCSS](https://manuarora.in/boxshadows)
+- [Palette Generator and API for Tailwind CSS](https://tailwind.simeongriggs.dev/) ([Code](https://github.com/SimeonGriggs/tailwind-css-palette-generator)) ([Article](https://www.simeongriggs.dev/using-the-tailwind-css-palette-generator-and-api))

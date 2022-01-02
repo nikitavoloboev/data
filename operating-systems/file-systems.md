@@ -92,3 +92,4 @@
 - [gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go.
 - [Replacing an unavailable ZFS drive (2021)](https://nickb.dev/blog/replacing-an-unavailble-zfs-drive)
 - [Deark](https://github.com/jsummers/deark) - Utility for file format and metadata analysis, data extraction, decompression, and image format decoding.
+- [vfile](https://github.com/vfile/vfile) - Small and browser friendly virtual file format that tracks metadata (such as a file’s path and value) and messages.

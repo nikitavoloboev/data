@@ -32,6 +32,7 @@ Below is a list of plugins I use.
 - [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Advanced Vim emulation layer for Sublime Text.
 - [Emmet](https://github.com/emmetio/sublime-text-plugin)
 - [Sublime Debugger](https://github.com/daveleroy/sublime_debugger) - Graphical Debugger for sublime text for debuggers that support the debug adapter protocol.
+- [sublime-bun](https://github.com/alexkuz/sublime-bun) - Bun binary files viewer and other Bun-related stuff.
 
 ## Markdown
 

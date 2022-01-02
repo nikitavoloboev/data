@@ -431,3 +431,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Lua Cash](https://www.lua.cash/) - Issue a token in 1 click. Your custom ERC20 on Polygon in less than a minute, <$0.1 in fees.
 - [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for starknet development.
 - [Ying-Yang](https://github.com/exp-table/ying-yang) - Pay on Ethereum, mint on Starknet.
+- [Aegis](https://github.com/Chainstride-Capital/aegis) - Ethereum smart contracts to shield you from bad actors and mempool snipers when listing a new token on a decentralized exchange.

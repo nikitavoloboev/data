@@ -184,3 +184,4 @@
 - [Ask HN: Intercepting HTTPS – How can we trust anything? (2021)](https://news.ycombinator.com/item?id=29681862)
 - [HTTP Snippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries.
 - [Using HTTP Basic Auth in 2022](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html) ([HN](https://news.ycombinator.com/item?id=29761728))
+- [dav-server-rs](https://github.com/messense/dav-server-rs) - Rust WebDAV server library.

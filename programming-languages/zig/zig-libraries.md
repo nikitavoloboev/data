@@ -67,3 +67,4 @@
 - [zigpkgs](https://github.com/joachimschmidt557/zigpkgs) - Collection of zig packages built with Nix.
 - [Aquila](https://github.com/nektro/aquila) - Federated package index and CI system for Zig. ([Web](https://aquila.red/))
 - [Deps.zig](https://github.com/silversquirl/deps.zig) - Dependency manager for Zig.
+- [Zig Package Repository](https://github.com/ziglibs/repository) - Community-maintained repository of zig packages.

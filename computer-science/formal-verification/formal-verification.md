@@ -109,3 +109,4 @@
 - [Formal verification of IA-64 division algorithms](https://www.cl.cam.ac.uk/~jrh13/papers/hol00.pdf)
 - [rzk](https://github.com/fizruk/rzk) - Prototype interactive proof assistant based on a type theory for synthetic ∞-categories.
 - [A Manifesto for Applicable Formal Methods (2021)](https://arxiv.org/abs/2112.12758v1)
+- [Autosubst OCaml](https://github.com/uds-psl/autosubst-ocaml) - OCaml reimplementation of the Autosubst 2 code generator.

@@ -100,3 +100,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Scattered thoughts on why I waste my own time (2021)](https://mbuffett.com/posts/wasting_time/) ([HN](https://news.ycombinator.com/item?id=29176416))
 - [The 5 Whys: get to the root of your productivity problems](https://blog.superhuman.com/five-whys-method/)
 - [Ask HN: How do you force yourself to do boring tasks? (2021)](https://news.ycombinator.com/item?id=29725668)
+- [Ask HN: How do you cope with being interrupted? (2022)](https://news.ycombinator.com/item?id=29767203)

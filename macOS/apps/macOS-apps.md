@@ -120,6 +120,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS application to create configuration profiles.
 - [Knuff](https://github.com/KnuffApp/Knuff) - Debug application for Apple Push Notification Service (APNs).
 - [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - TinyPNG client for Mac.
+- [Free Ruler](https://github.com/pascalpp/FreeRuler) - Ruler application for macOS.
 
 ## Other interesting apps
 

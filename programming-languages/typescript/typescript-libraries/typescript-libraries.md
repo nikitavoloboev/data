@@ -262,6 +262,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pubble](https://github.com/crinklesio/pubble) - TypeScript implementation of event-driven proxy state.
 - [DIGL](https://github.com/crinklesio/digl) - JavaScript Directed Graph auto-layout algorithm.
 - [concurrently.macro](https://github.com/cometkim/concurrently.macro) - Transforms your async function to be run concurrently much as possible.
+- [Routz](https://github.com/schorfES/routz) - Define your SPA routes in a single source of truth - use them everywhere.
 
 ## Links
 

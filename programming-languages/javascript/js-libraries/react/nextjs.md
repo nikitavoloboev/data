@@ -56,6 +56,7 @@
 - [Ask Me Anything](https://ama-prisma.vercel.app/) ([Code](https://github.com/2color/ama-prisma))
 - [Typescript + NextJS + React Native + GraphQL + Prisma](https://github.com/NoQuarterTeam/boilerplate)
 - [Awesome Links](https://github.com/prisma/awesome-links) - Source code for the tutorial series of three parts about building a Full Stack Web application With TypeScript, PostgreSQL, Next.js, Prisma & GraphQL.
+- [Tailwind NextJS Starter Blog](https://github.com/alaq/adrien.sh)
 
 ## NextJS plugins
 
