@@ -23,6 +23,7 @@
 - [another-elm/std](https://github.com/another-elm/std) - Standard libraries for Elm.
 - [Maybe.Extra](https://github.com/elm-community/maybe-extra) - Convenience functions for working with Maybe.
 - [elm-street](https://github.com/Holmusk/elm-street) - Library for generating Elm types and JSON codecs from Haskell types.
+- [json-to-elm](https://github.com/eeue56/json-to-elm) - Create Elm type aliases and decoders based on JSON input.
 
 ## Links
 

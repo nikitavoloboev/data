@@ -300,3 +300,4 @@
 - [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation (2020)](https://arxiv.org/abs/1908.04942)
 - [Deep Reinforcement Learning for Keras](https://github.com/keras-rl/keras-rl)
 - [DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch.
+- [Deep Reinforcement Learning Toolkit for Cryptocurrencies](https://github.com/sadighian/crypto-rl) - Record and replay cryptocurrency limit order book data & train a DDQN agent.

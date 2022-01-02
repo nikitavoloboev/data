@@ -72,3 +72,4 @@
 - [Data Pipelines Pocket Reference Book (2021)](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/) ([Code](https://github.com/jamesdensmore/datapipelinesbook))
 - [miniwdl](https://github.com/chanzuckerberg/miniwdl) - Workflow Description Language developer tools & local runner.
 - [Rain](https://github.com/substantic/rain) - Framework for large distributed pipelines.
+- [Apache SeaTunnel](https://seatunnel.apache.org/) - Distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). ([Code](https://github.com/apache/incubator-seatunnel))

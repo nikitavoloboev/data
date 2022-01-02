@@ -83,3 +83,4 @@
 - [Dan Abramov SLAYS Frontend Interview w/ Ex-Twitch Engineer (2021)](https://www.youtube.com/watch?v=uqII0AOW1NM)
 - [Frontend Developer Resources 2022](https://dev.to/nickytonline/frontend-developer-resources-2022-4cp2)
 - [Client-side software design](https://github.com/crinklesio/reference-architecture)
+- [reg-suit](https://reg-viz.github.io/reg-suit/) - Visual Regression Testing tool. ([Code](https://github.com/reg-viz/reg-suit)) ([CLI Code](https://github.com/reg-viz/reg-cli)) ([Report UI Code](https://github.com/reg-viz/reg-cli-report-ui))

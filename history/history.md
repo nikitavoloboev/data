@@ -167,3 +167,4 @@
 - [Science History Institute](https://www.sciencehistory.org/)
 - [German Portraits / Photos from the Second World War](https://www.reddit.com/r/GermanWW2photos/)
 - [Feature History - YouTube](https://www.youtube.com/channel/UCHdluULl5c7bilx1x1TGzJQ)
+- [A History of Black Print (2020)](https://ilovetypography.com/2020/07/11/black-print-first-african-america-printer-publishers/) ([HN](https://news.ycombinator.com/item?id=29757121))

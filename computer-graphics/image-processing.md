@@ -147,3 +147,4 @@
 - [Awesome Visible Watermark Removal](https://github.com/bcmi/Awesome-Visible-Watermark-Removal)
 - [fpng](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader.
 - [A new protocol and tool for PNG file attachments (2022)](https://nullprogram.com/blog/2021/12/31/) ([HN](https://news.ycombinator.com/item?id=29753186))
+- [img-diff-js](https://github.com/reg-viz/img-diff-js) - Node.js library to compare 2 images without native libs.

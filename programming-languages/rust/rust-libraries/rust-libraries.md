@@ -1405,3 +1405,4 @@
 - [cargo-api](https://github.com/crate-ci/cargo-api) - Interact with the crate's API.
 - [rustfilt](https://github.com/luser/rustfilt) - Demangle Rust symbols.
 - [simd](https://github.com/Nugine/simd) - SIMD-accelerated operations.
+- [rust-cli](https://github.com/yoshuawuyts/rust-cli) - Rust CLI prototype.

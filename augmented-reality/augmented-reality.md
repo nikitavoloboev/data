@@ -37,4 +37,4 @@
 - [‘AR Is Where the Real Metaverse Is Going to Happen’ (2021)](https://www.wired.com/story/john-hanke-niantic-augmented-reality-real-metaverse/)
 - [Showing cities being passed by on train in AR](https://twitter.com/V_Kurbatov/status/1465311637771071490)
 - [MindAR](https://github.com/hiukim/mind-ar-js) - Web Augmented Reality. Natural feature tracking. Image targets. Tensorflow.js.
-- [USDZ App](https://usdz.app/) - Turn your photos into amazing 3D Object captures (USDZ files) all right in your browser.
+- [USDZ App](https://usdz.app/) - Web app to turn photos into 3D AR models. ([HN](https://news.ycombinator.com/item?id=29764785))

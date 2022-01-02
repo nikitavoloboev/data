@@ -243,6 +243,8 @@
 - [Editable React Table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
 - [React Layers Manager](https://github.com/giuseppeg/react-layers-manager) - Manage layers and z-index in React applications effectively.
 - [chakra-react-select](https://github.com/csandman/chakra-react-select) - Chakra-ui wrapper for the popular select library react-select.
+- [Formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3.
+- [React Feather Icons](https://github.com/feathericons/react-feather)
 
 ## Links
 

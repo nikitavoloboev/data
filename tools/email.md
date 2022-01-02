@@ -205,3 +205,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Running your own email is increasingly an artisanal choice, not a practical one (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailServersNoLongerPractical) ([HN](https://news.ycombinator.com/item?id=29672846))
 - [Dovecot](https://www.dovecot.org/) - Secure IMAP server. ([Code](https://github.com/dovecot/core))
 - [Deploy a Gmail-like email server in 30 (ish) minutes (2021)](https://andycallaghan.com/posts/deploy-a-gmail-like-email-server-in-30-minutes/) ([HN](https://news.ycombinator.com/item?id=29691605))
+- [Red Mail](https://github.com/Miksus/red-mail) - Advanced email sending library for Python.
