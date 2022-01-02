@@ -76,3 +76,4 @@
 - [Decentralized, Mutable, Serverless Torrent Swarm Websites](https://github.com/publiusfederalist/federalist) ([HN](https://news.ycombinator.com/item?id=29513547))
 - [Tox](https://github.com/tox-rs/tox) - Implementation of toxcore in Rust. P2P, distributed, encrypted, easy to use DHT-based network.
 - ["Widevine Dump":Leaked Code Downloads HD Video from Disney+, Amazon, and Netflix (2021)](https://torrentfreak.com/widevine-dump-leaked-code-downloads-hd-video-from-disney-amazon-and-netflix-211227/) ([HN](https://news.ycombinator.com/item?id=29702110)) ([HN](https://news.ycombinator.com/item?id=29718556))
+- [Notflix](https://github.com/Bugswriter/notflix) - Shell script to search and stream torrent.

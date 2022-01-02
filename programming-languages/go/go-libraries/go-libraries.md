@@ -1209,6 +1209,7 @@
 - [JWZ](https://github.com/gatherstars-com/jwz) - Go implementation of the JWZ email threading algorithm.
 - [batchAggregator](https://github.com/mikedewar/batchAggregator) - Designed to chew through a bunch of parquet files containing events.
 - [parquet-go](https://github.com/xitongsys/parquet-go) - Pure Go library for reading/writing parquet file.
+- [ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - Go binding for ffmpeg.
 
 ## Links
 

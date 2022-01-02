@@ -259,3 +259,4 @@
 - [2021 LLVM Dev Mtg “Asynchronous Functions in Swift”](https://www.youtube.com/watch?v=H_K-us4-K7s) ([Tweet](https://twitter.com/pathofshrines/status/1477049340166389773))
 - [Swift Regrets: Wrap-up (2021)](https://belkadan.com/blog/2021/12/Swift-Regrets-Wrap-up/)
 - [Swift News Links](https://github.com/SAllen0400/swift-news)
+- [experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - Experimental tree-sitter grammar for the Swift programming language.

@@ -1414,3 +1414,4 @@
 - [rust-cli](https://github.com/yoshuawuyts/rust-cli) - Rust CLI prototype.
 - [Rust asynchronous examples](https://github.com/gendx/rust-async-examples)
 - [escargot](https://github.com/crate-ci/escargot) - Cargo API written in Paris.
+- [Meuse](https://github.com/mcorbin/meuse) - Private Cargo crate registry, for Rust.

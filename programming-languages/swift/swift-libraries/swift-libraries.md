@@ -389,6 +389,7 @@
 - [Snap](https://github.com/nerdsupremacist/Snap) - Customizable Snapping Drawer à la Apple Maps. 100% in SwiftUI.
 - [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - SwiftUI package to handle permissions.
 - [ModalView](https://github.com/diniska/modal-view) - Analogue of SwiftUI NavigationView that provides a convenient interface of displaying modal .
+- [SwiftUICharts](https://github.com/willdale/SwiftUICharts) - Charts / plotting library for SwiftUI.
 
 ## Test
 
