@@ -246,3 +246,5 @@
 - [Envoy WASM with external gRPC server](https://github.com/salrashid123/envoy_wasm)
 - [Shared Channel for WebAssembly](https://github.com/wasm-rs/shared-channel)
 - [Async Executor for WebAssembly](https://github.com/wasm-rs/async-executor)
+- [wasmblr](https://github.com/bwasti/wasmblr) - C++ WebAssembly assembler.
+- [15x Faster TypedArrays: Vector Addition in WebAssembly @ 154GB/s](https://jott.live/markdown/javascript_vector_addition)

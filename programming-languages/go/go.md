@@ -675,3 +675,4 @@ if err != nil {
 - [Golang Design Initiative](https://golang.design/) ([GitHub](https://github.com/golang-design))
 - [Errors and Error Wrapping in Go (2021)](https://trstringer.com/errors-and-error-wrapping-go/)
 - [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/preface.html) - Journey into the Standard Library. ([Code](https://github.com/blasrodri/spaceship-go))
+- [Go Fuzzing](https://tip.golang.org/doc/fuzz/) ([HN](https://news.ycombinator.com/item?id=29761092))

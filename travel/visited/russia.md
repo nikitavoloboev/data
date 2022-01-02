@@ -396,3 +396,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [OSW Centre for Eastern Studies](https://www.osw.waw.pl/en)
 - [Russia in 2021: The Year in Photos](https://www.themoscowtimes.com/2021/12/27/russia-in-2021-the-year-in-photos-a75795)
 - [Минусы Москвы. Почему я уезжаю спустя два года (2021)](https://www.youtube.com/watch?v=MIC_C1zX8Q0)
+- [Видео-подкаст «Книжная ссылка». Дмитрий Быков: Россия — антиутопия без идеологии (2021)](https://www.youtube.com/watch?v=LXchZxlWrs4)

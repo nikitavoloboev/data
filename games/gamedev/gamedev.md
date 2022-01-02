@@ -222,3 +222,4 @@
 - [GameDev Reddit Wiki](https://www.reddit.com/r/gamedev/wiki/index)
 - [The Making of Games Reddit](https://www.reddit.com/r/TheMakingOfGames/)
 - [Technical Game Design tutorials](https://www.reddit.com/r/gamedev/comments/rt2tyl/why_is_there_a_huge_lack_of_technical_game_design/)
+- [How Dwarf Fortress is built (2021)](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) ([HN](https://news.ycombinator.com/item?id=29757875))

@@ -35,7 +35,7 @@
 
 ## Web
 
-- [Rocket](https://github.com/SergioBenitez/Rocket) - Async web framework for Rust with a focus on usability, security, extensibility, and speed. ([Web](https://rocket.rs/)) ([Article](https://tech.marksblogg.com/rocket-rust-web-framework.html))
+- [Rocket](https://github.com/SergioBenitez/Rocket) - Async web framework for Rust with a focus on usability, security, extensibility, and speed. ([Web](https://rocket.rs/)) ([Article](https://tech.marksblogg.com/rocket-rust-web-framework.html)) ([Review](https://kevincox.ca/2022/01/01/rocket-review/))
 - [Salvo](https://github.com/salvo-rs/salvo) - Simple Rust web framework.
 - [ntex](https://github.com/ntex-rs/ntex) - Framework for composable networking services.
 - [Sauron](https://github.com/ivanceras/sauron) - Versatile web framework and library for building client-side and server-side web applications. ([HN clone in Sauron](https://github.com/ivanceras/hackernews-sauron))

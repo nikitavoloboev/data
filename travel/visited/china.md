@@ -72,3 +72,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [The Chinese Mafia needs to chill out... (2021)](https://www.youtube.com/watch?v=Uf-9EwLiSPI)
 - [The Invention of Chinese (2021)](https://www.historytoday.com/archive/feature/invention-chinese) ([HN](https://news.ycombinator.com/item?id=29516272))
 - [Feature History - Chinese Civil War](https://www.youtube.com/watch?v=jJr3KVM3lBo)
+- [2021 Letter](https://danwang.co/2021-letter/) ([HN](https://news.ycombinator.com/item?id=29759309))

@@ -284,3 +284,7 @@
 - [Thread Safety in C++ and Rust (2021)](https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html) ([HN](https://news.ycombinator.com/item?id=29608552))
 - [Using C Libraries in your Modern C++ Embedded Project - Michael Caisse (2021)](https://www.youtube.com/watch?v=Ototzy-nP4M)
 - [Flawfinder](https://github.com/david-a-wheeler/flawfinder) - Simple program that scans C/C++ source code and reports potential security flaws.
+- [The Usual Arithmetic Confusions (2021)](https://shafik.github.io/c++/2021/12/30/usual_arithmetic_confusions.html)
+- [The Evolution of Functions in Modern C++ (2022)](https://mariusbancila.ro/blog/2022/01/01/the-evolution-of-functions-in-modern-cpp/)
+- [C++ at the end of 2021](https://www.cppstories.com/2021/cpp-status-2021/)
+- [C++ Stories](https://www.cppstories.com/) - Modern C++, news reports, tools, and more.

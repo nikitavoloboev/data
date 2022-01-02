@@ -583,3 +583,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [What are some simple ways you can make yourself more attractive? (2021)](https://www.reddit.com/r/AskMen/comments/rqntta/what_are_some_simple_ways_you_can_make_yourself/)
 - [Ask Hacker News Weekly](https://www.daemonology.net/hn-weekly-ask/)
 - [Ask HN: What’s the most outrageous belief you’re confident is true? (2021)](https://news.ycombinator.com/item?id=29733026)
+- [Ask HN: Favorite/Classic HN threads of all time (2022)](https://news.ycombinator.com/item?id=29759993)
