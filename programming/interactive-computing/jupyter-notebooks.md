@@ -34,6 +34,7 @@
 - [drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter.
 - [jupyterlab_imarkdown](https://github.com/agoose77/jupyterlab-imarkdown) - JupyterLab extension to embed rich output in Markdown cells.
 - [py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook.
+- [itables](https://github.com/mwouts/itables) - Pandas DataFrames and Series as Interactive Tables in Jupyter.
 
 ## Links
 

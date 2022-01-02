@@ -177,3 +177,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Hiro](https://www.hiro.so/) - Builds developer tools for Stacks. ([GitHub](https://github.com/hirosystems))
 - [Clarinet](https://github.com/hirosystems/clarinet) - Simple, modern and opinionated runtime for writing, testing and integrating Clarity Smart contracts.
 - [Understanding Bitcoin Lightning (2020)](https://martyjon.es/bitcoin/2020/09/06/understanding-lightning-1.html)
+- [During 2021 Bitcoin consumed 134 TWh in total](https://twitter.com/digieconomist/status/1477420461122375683) ([HN](https://news.ycombinator.com/item?id=29769892))

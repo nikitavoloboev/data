@@ -64,3 +64,4 @@
 - [Haiku Animator](https://www.haikuanimator.com/) - Design tool for creating Lottie animations and interactive web components. ([Code](https://github.com/HaikuTeam/animator))
 - [midori](https://github.com/aeroheim/midori) - Library for animating image backgrounds in websites using WebGL.
 - [ossos](https://github.com/sketchpunklabs/ossos) - Character Animation Library.
+- [GreenSock](https://greensock.com/) - Professional-grade animation for the modern web. ([Code](https://github.com/greensock/GSAP))

@@ -39,6 +39,7 @@
 - [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) ([HN](https://news.ycombinator.com/item?id=29083367))
 - [Gradualist](https://github.com/pocc/gradualist) - Automate your procedures, one step at a time. Inspired by Do-nothing scripting.
 - [aho](https://github.com/egoist/aho) - Ultra simple project scaffolding.
+- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework that inspires developers to become better test automation engineers. ([Docs](https://seleniumbase.io/))
 
 ## Images
 

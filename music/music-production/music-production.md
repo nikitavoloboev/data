@@ -125,6 +125,7 @@
 - [Muse](https://muse.hackclub.dev/) - Simple language for Jamming embedded in a JavaScript environment. ([Code](https://github.com/hackclub/muse))
 - [Music Theory Go Lib](https://github.com/brettbuddin/musictheory)
 - [WEBMIDI.js](https://github.com/djipco/webmidi) - Makes it easy to interact with MIDI instruments directly from a web browser or from Node.js.
+- [mu](https://github.com/dbuenzli/mu) - Declarative music for OCaml.
 
 ## Inspiration
 
