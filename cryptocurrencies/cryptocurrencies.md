@@ -216,3 +216,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [An Introduction to Automated Market Makers (2021)](https://www.machow.ski/posts/an_introduction_to_automated_market_makers/)
 - [How Crypto Derivatives Exchanges Prevent Bankruptcy (2021)](https://www.machow.ski/posts/how-crypto-derivatives-exchanges-prevent-bankruptcy/)
 - [A Beginners Guide to Crypto Derivatives (2021)](https://www.machow.ski/posts/a-beginners-guide-to-crypto-derivatives/)
+- [Interesting 2022 cryptocurrencies](https://twitter.com/adamscochran/status/1476652328736342023)

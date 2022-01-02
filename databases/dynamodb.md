@@ -75,3 +75,4 @@
 - [dynamodump](https://github.com/mifi/dynamodump) - Node CLI for backing up and restoring schema+data from DynamoDB tables.
 - [Starter project with Go, Gin and DynamoDB](https://github.com/vsouza/go-gin-boilerplate)
 - [Go DynamoDB Web App Starter](https://github.com/kaihendry/go-web-dynamo-starter)
+- [How to develop an AWS hosted DynamoDB Web application locally](https://github.com/kaihendry/local-audio)

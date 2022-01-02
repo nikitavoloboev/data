@@ -120,3 +120,4 @@
 - [Integrate Pydantic with Django and Django REST Framework (2021)](https://blog.yezz.me/blog/Integrate-Pydantic-with-Django-and-Django-REST-Framework)
 - [Database-backed Periodic Tasks](https://github.com/celery/django-celery-beat) - Celery Periodic Tasks backed by the Django ORM.
 - [Create Django App](https://github.com/imagineai/create-django-app)
+- [Django JWT Auth](https://github.com/webstack/django-jwt-auth) - JSON Web Token Authentication support for Django.
