@@ -107,3 +107,8 @@
 - [Apery](https://github.com/math-comp/apery) - Formal proof of the irrationality of zeta(3), the Apéry constant.
 - [Ordinal Numbers in Coq](https://github.com/minkiminki/Ordinal)
 - [Coq development of A Promising Semantics for Relaxed-Memory Concurrency](https://github.com/snu-sf/promising-coq)
+- [Coq Developments for Linear Types](https://github.com/Zdancewic/linearity)
+- [coq-ext-lib](https://github.com/Zdancewic/coq-ext-lib) - Collection of theories and plugins that may be useful in other Coq developments.
+- [Math Classes](https://github.com/coq-community/math-classes) - Library of abstract interfaces for mathematical structures in Coq.
+- [C-CoRN](https://github.com/coq-community/corn) - Coq Repository at Nijmegen.
+- [ch2o](https://github.com/robbertkrebbers/ch2o) - Aims at formalizing novel features of the ISO C11 standard of the C programming language.

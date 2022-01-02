@@ -87,3 +87,4 @@
 - [Zig 0.9.0](https://ziglang.org/download/0.9.0/release-notes.html) ([HN](https://news.ycombinator.com/item?id=29631202))
 - [What do you think about Zig? (2021)](https://www.reddit.com/r/rust/comments/rlj9zl/what_do_you_think_about_zig/)
 - [A Review of the Zig Programming Language (Using Advent of Code 2021)](https://www.duskborn.com/posts/2021-aoc-zig/) ([HN](https://news.ycombinator.com/item?id=29702607))
+- [A Comparison of Rust and Zig](https://expandingman.gitlab.io/tvu-compare/) ([HN](https://news.ycombinator.com/item?id=29762988))

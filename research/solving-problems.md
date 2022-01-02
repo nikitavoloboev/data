@@ -93,3 +93,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Elon Musk's 5-Step Protocol for Successful Engineering (2021)](https://insideevs.com/news/526954/elon-musk-5-steps-success/)
 - [The programmer's brain in the lands of exploration and production (2021)](http://veekaybee.github.io/2021/11/07/typed-pipe/)
 - [System Dynamics: Systems Thinking and Modeling for a Complex World (2020)](https://www.youtube.com/watch?v=o-Yp8A7BPE8)
+- [A Few Notes on Problem Solving (2022)](https://jeremymikkola.com/posts/2022_01_01_a_few_notes_on_problem_solving.html)
