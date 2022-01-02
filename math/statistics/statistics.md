@@ -141,3 +141,5 @@
 - [An Introduction to Probability Theory and Its Applications, Volume 1 by William Feller (1991)](https://www.goodreads.com/book/show/2378167.An_Introduction_to_Probability_Theory_and_Its_Applications_Volume_1)
 - [A New Coefficient of Correlation (2019)](https://arxiv.org/abs/1909.10140) ([HN](https://news.ycombinator.com/item?id=29687613))
 - [Ask HN: What is your favorite book for learning statistics? (2021)](https://news.ycombinator.com/item?id=29726026)
+- [Visualizing Bayes Theorem (2009)](https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/)
+- [Dependent probabilities](https://static.laszlokorte.de/stochastic/) - Interactive visualization to explore dependent probabilities in terms of area and side length of rectangles.

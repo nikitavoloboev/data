@@ -385,3 +385,4 @@
 - [Optimizing Postgres queries at scale (2021)](https://heap.io/blog/optimizing-postgres-queries-at-scale) ([HN](https://news.ycombinator.com/item?id=29715872))
 - [PostgREST on Fargate – 500QPS for $20/mo (2021)](https://www.nedmcclain.com/postgrest-rest-api-on-aws-fargate/)
 - [Postgres Tuning Tips (2021)](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
+- [Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data](https://github.com/CrunchyData/postgres-operator-examples)

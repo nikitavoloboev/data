@@ -487,3 +487,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Kuula](https://kuula.co/about) - 360 Virtual Tours made easy. Create. Edit. Share.
 - [Generate dream like prompts](https://app.wombo.art/)
 - [Kintsugi – Art of Repair](https://traditionalkyoto.com/culture/kintsugi/) ([HN](https://news.ycombinator.com/item?id=29543670))
+- [Irasutoya](https://www.irasutoya.com/) - Collection of cute illustrations covering all sort of situations. ([IG](https://www.instagram.com/irasutoya/?hl=en)) ([Video](https://www.youtube.com/watch?v=g3CyRZY90M4))
