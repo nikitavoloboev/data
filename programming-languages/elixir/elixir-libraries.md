@@ -121,3 +121,4 @@
 
 - [Hex packages](https://hex.pm/packages) - Package manager for the Erlang ecosystem.
 - [ExDoc](https://github.com/elixir-lang/ex_doc) - Tool to generate documentation for your Elixir projects. ([Tweet](https://twitter.com/fhunleth/status/1460430228271112196))
+- [Log all the things - features of Elixir 1.11 Logger application (2022)](https://hauleth.dev/post/log-all-the-things/) ([Lobsters](https://lobste.rs/s/i29sqw/log_all_things_features_elixir_1_11_logger))

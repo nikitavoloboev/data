@@ -407,6 +407,7 @@
 - [XCTAssertNoLeak](https://github.com/tarunon/XCTAssertNoLeak) - Provides assert function that check memory leak in Swift.
 - [MockingKit](https://github.com/danielsaidi/MockingKit) - Swift-based mocking library that makes it easy to mock protocols and classes.
 - [TABTestKit](https://github.com/theappbusiness/TABTestKit) - Designed to make writing and maintaining automated tests for iOS applications.
+- [A11yUITests](https://github.com/rwapp/A11yUITests) - Accessibility tests for XCUI Testing.
 
 ## API
 

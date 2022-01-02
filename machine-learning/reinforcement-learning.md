@@ -301,3 +301,5 @@
 - [Deep Reinforcement Learning for Keras](https://github.com/keras-rl/keras-rl)
 - [DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch.
 - [Deep Reinforcement Learning Toolkit for Cryptocurrencies](https://github.com/sadighian/crypto-rl) - Record and replay cryptocurrency limit order book data & train a DDQN agent.
+- [Multi-View Reinforcement Learning (2019)](https://arxiv.org/abs/1910.08285) ([Code](https://github.com/mlii/mvrl))
+- [Mean Field Multi-Agent Reinforcement Learning (2019)](https://arxiv.org/abs/1802.05438) ([Code](https://github.com/mlii/mfrl))

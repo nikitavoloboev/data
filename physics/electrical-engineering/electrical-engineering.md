@@ -85,3 +85,4 @@
 - [Teach Yourself Electricity and Electronics by Stan Gibilisco](https://www.goodreads.com/book/show/687620.Teach_Yourself_Electricity_and_Electronics)
 - [Pinouts Book](https://pinouts.org/) - Free digital book created for designers and engineers as a quick reference for remembering the different pinout functions in your electronics projects. ([Article](https://n-o-d-e.net/pinouts.html)) ([Lobsters](https://lobste.rs/s/db5t25/pinouts_book)) ([HN](https://news.ycombinator.com/item?id=29681373))
 - [Circuit Design and Applied Optimization (Part 1)](https://stefanabikaram.com/writing/circuit-design-and-applied-optimization/) ([HN](https://news.ycombinator.com/item?id=29750076))
+- [Circuit Simulator Applet](https://www.falstad.com/circuit/)
