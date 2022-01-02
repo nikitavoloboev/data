@@ -327,6 +327,7 @@
 - [r1cs](https://github.com/mir-protocol/r1cs) - Rust library for building R1CS gadgets over prime fields, which are useful in SNARKs and other argument systems.
 - [Cipher-crypt](https://github.com/arosspope/cipher-crypt) - Library of historic cryptographic algorithms implemented in rust.
 - [BigInt](https://github.com/RustCrypto/crypto-bigint) - Cryptographic Big Integers.
+- [gravity-rs](https://github.com/gendx/gravity-rs) - Rust implementation of the Gravity-post-quantum signature schemes.
 
 ## Linux
 
@@ -1284,6 +1285,7 @@
 - [Uncertain](https://github.com/dyedgreen/uncertain) - Fast and correct computations with uncertain values.
 - [Fastmurmur3](https://github.com/kurtbuilds/fastmurmur3) - Fast, non-cryptographic hash function.
 - [Castaway](https://github.com/sagebind/castaway) - Safe, zero-cost downcasting for limited compile-time specialization.
+- [lzma-rs](https://github.com/gendx/lzma-rs) - LZMA decoder/encoder written in pure Rust.
 
 ## Cargo Plugins
 
@@ -1406,3 +1408,4 @@
 - [rustfilt](https://github.com/luser/rustfilt) - Demangle Rust symbols.
 - [simd](https://github.com/Nugine/simd) - SIMD-accelerated operations.
 - [rust-cli](https://github.com/yoshuawuyts/rust-cli) - Rust CLI prototype.
+- [Rust asynchronous examples](https://github.com/gendx/rust-async-examples)

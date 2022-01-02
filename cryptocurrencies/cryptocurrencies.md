@@ -198,7 +198,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Jump Crypto](https://jumpcrypto.com/) - Building the next frontier in crypto infrastructure. ([Twitter](https://twitter.com/JumpCryptoHQ))
 - [Post-2016 crypto classics](https://twitter.com/mattigags/status/1463430142081093641)
 - [Crypto design challenges (2021)](https://paulstamatiou.com/crypto-design-challenges/)
-- [Snapshot](https://snapshot.org/#/) - Off-chain gasless multi-governance client. ([Code](https://github.com/snapshot-labs/snapshot))
+- [Snapshot](https://snapshot.org/#/) - Off-chain gasless multi-governance client. ([Code](https://github.com/snapshot-labs/snapshot)) ([GitHub](https://github.com/snapshot-labs)) ([Docs](https://docs.snapshot.org/)) ([Docs Code](https://github.com/snapshot-labs/snapshot-spaces)) ([Snapshot strategies](https://github.com/snapshot-labs/snapshot-strategies)) ([Snapshot hub](https://github.com/snapshot-labs/snapshot-hub))
 - [Proof of stake is a scam and the people promoting it are scammers (2021)](https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/) ([HN](https://news.ycombinator.com/item?id=29366310))
 - [tbDEX: A Liquidity Protocol White Paper](https://github.com/TBDev-54566975/white-paper/blob/main/whitepaper.pdf)
 - [Crypto world is an ecosystem being fueled by the “House Money Effect” (2021)](https://twitter.com/fintechjunkie/status/1466217991532650496)
