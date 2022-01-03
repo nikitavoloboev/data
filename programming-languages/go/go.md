@@ -679,3 +679,4 @@ if err != nil {
 - [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/preface.html) - Journey into the Standard Library. ([Code](https://github.com/blasrodri/spaceship-go))
 - [Go Fuzzing](https://tip.golang.org/doc/fuzz/) ([HN](https://news.ycombinator.com/item?id=29761092))
 - [Statically Detecting Go Concurrency Bugs](https://github.com/system-pclub/GCatch)
+- [perfguard](https://github.com/quasilyte/go-perfguard) - Static analyzer with emphasis on performance.

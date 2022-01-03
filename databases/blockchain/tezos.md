@@ -30,7 +30,7 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [TQ Tezos](https://tqtezos.com/) - Build tools and experiences on the Tezos blockchain.
 - [Tezos Developer Portal](https://developers.tezos.com/)
 - [Tezos Developer Docs](https://tezos.gitlab.io/index.html)
-- [TzKT Pro](https://pro.tzkt.io/) - Tezos blockchain API on top of TzKT and PostgREST enabling sophisticated queries via convenient client libraries.
+- [TzKT Pro](https://pro.tzkt.io/) - Tezos blockchain API on top of TzKT and PostgREST enabling sophisticated queries via convenient client libraries. ([Code](https://github.com/baking-bad/tzkt))
 - [Virtual Discussion with Emin Gün Sirer and Kathleen Breitman on Tezos (2020)](https://www.youtube.com/watch?v=5pvniYzV5hc)
 - [Tezos Agora](https://www.tezosagora.org/) - Place to discuss and learn about the long-term direction of the Tezos project.
 - [Tezos Agora Forum](https://forum.tezosagora.org/)

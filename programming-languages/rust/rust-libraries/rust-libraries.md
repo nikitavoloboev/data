@@ -1290,6 +1290,8 @@
 - [sucds](https://github.com/kampersanda/sucds) - Succinct data structures in Rust.
 - [mih-rs](https://github.com/kampersanda/mih-rs) - Rust implementation of multi-index hashing for neighbor searches on binary codes in the Hamming space.
 - [extent](https://github.com/graydon/extent) - Replacement for std::ops::{Range,RangeInclusive}.
+- [teloc](https://github.com/p0lunin/teloc) - Simple, compile-time DI framework for Rust.
+- [rxRust](https://github.com/rxRust/rxRust) - Rust implementation of Reactive Extensions.
 
 ## Cargo Plugins
 

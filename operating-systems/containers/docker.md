@@ -172,3 +172,4 @@
 - [Create docker image on Apple Silicon M1 Mac (2021)](https://lakhan.me/blog/create-docker-image-on-apple-silicon-m1-mac)
 - [dlayer](https://github.com/orisano/dlayer) - Docker layer analyzer.
 - [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers.
+- [Docker Buildkit Pulumi Provider](https://github.com/MaterializeInc/pulumi-docker-buildkit)

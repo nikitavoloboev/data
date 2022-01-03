@@ -185,3 +185,4 @@
 - [Awesome Authorization](https://github.com/warrant-dev/awesome-authorization)
 - [Authenticate users with Netlify Identity](https://docs.netlify.com/visitor-access/identity/) - Perfect for gating static content.
 - [Cerbos](https://cerbos.dev/) - Painless access control for cloud-native applications. ([Code](https://github.com/cerbos/cerbos))
+- [Grant](https://github.com/simov/grant) - OAuth Proxy.
