@@ -248,3 +248,4 @@
 - [Async Executor for WebAssembly](https://github.com/wasm-rs/async-executor)
 - [wasmblr](https://github.com/bwasti/wasmblr) - C++ WebAssembly assembler.
 - [Faster TypedArrays: Vector Addition in WebAssembly](https://jott.live/markdown/wasm_vector_addition) ([HN](https://news.ycombinator.com/item?id=29770238))
+- [rustwasmc](https://github.com/second-state/rustwasmc) - Rust compiler toolkit for WebAssembly apps in the WasmEdge Runtime.

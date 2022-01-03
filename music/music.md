@@ -181,3 +181,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [L to the OG: How Succession Weaponizes Music (2021)](https://www.youtube.com/watch?v=uDnVXVCjDEw)
 - [TAPEFEAR](https://www.tapefear.com/) - Rediscovering music discovery.
 - [Wav2Rec](https://github.com/TariqAHassan/wav2rec) - Library for music recommendation based on recent advances in self-supervised neural networks.
+- [MT3: Multi-Task Multitrack Music Transcription](https://github.com/magenta/mt3)

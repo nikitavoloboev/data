@@ -52,3 +52,4 @@
 - [Course Platform](https://github.com/m-abdelwahab/course-platform) - Uses NextJS/Prisma.
 - [How I built the course platform for Rust for JavaScript Developers](https://twitter.com/chatsidhartha/status/1473745114396725248)
 - [Pathbird](https://pathbird.com/) - Platform for instructors to build interactive, engaging, inquiry-based lessons for computational courses. ([GitHub](https://github.com/pathbird))
+- [NUSMods](https://github.com/nusmodifications/nusmods) - Official course catalogue, module search and timetable builder for the National University of Singapore.

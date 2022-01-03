@@ -103,3 +103,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [The longest train journey – in 2021](https://jonworth.eu/the-longest-train-journey-in-the-world/) ([HN](https://news.ycombinator.com/item?id=29570640)) ([HN](https://news.ycombinator.com/item?id=29682578))
 - [Страны мира где-то почти как свой](https://twitter.com/mighty_shield/status/1283386813223182336)
 - [Stylish maps of sleeper train routes](http://www.night-trains.com/)
+- [If Airbnb could launch anything in 2022, what would it be?](https://twitter.com/bchesky/status/1477764672640073728)

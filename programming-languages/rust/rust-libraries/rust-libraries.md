@@ -1340,6 +1340,7 @@
 - [rhack](https://github.com/nakabonne/rhack) - Temporary edit external crates that your project depends on.
 - [Highway-rs](https://github.com/nickbabcock/highway-rs) - Native Rust port of Google's HighwayHash. Makes use of SIMD instructions for a fast and strong hash function.
 - [cargo-depgraph](https://github.com/jplatte/cargo-depgraph) - Creates dependency graphs for cargo projects using cargo metadata and graphviz.
+- [cargo-build-deps](https://github.com/nacardin/cargo-build-deps) - Cargo subcommand to build dependencies, helps speed up docker builds by allowing dependencies to be built earlier and cached.
 
 ## Links
 

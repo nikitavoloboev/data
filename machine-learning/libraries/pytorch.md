@@ -323,3 +323,4 @@
 - [Efficient PyTorch: Tensor Memory Format Matters (2021)](https://pytorch.org/blog/tensor-memory-format-matters/)
 - [TorchSSL](https://github.com/TorchSSL/TorchSSL) - PyTorch-based Toolbox for Semi-Supervised Learning.
 - [PyTea](https://github.com/ropas/pytea) - PyTorch Tensor Shape Error Analyzer.
+- [PyTorch Builder](https://github.com/pytorch/builder) - Scripts to build PyTorch binaries and do end-to-end integration tests.

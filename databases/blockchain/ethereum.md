@@ -87,7 +87,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [CryptoZombies](https://cryptozombies.io/) - Solidity Tutorial & Ethereum Blockchain Programming Course.
 - [Guide to Staking on Ethereum 2.0 (Ubuntu/Medalla/Nimbus) (2020)](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-nimbus-5f4b2b0f2d7c)
 - [GoSwap Exchange](https://goswap.exchange/#/swap) ([Help](https://help.goswap.exchange/))
-- [yearn finance](https://yearn.finance/) - Yield optimization for stable coins. ([Yearn solidity smart contracts](https://github.com/iearn-finance/yearn-protocol))
+- [yearn finance](https://yearn.finance/) - Yield optimization for stable coins. ([Yearn solidity smart contracts](https://github.com/iearn-finance/yearn-protocol)) ([Code](https://github.com/yearn/yearn-vaults))
 - [A Closer Look at Software Canisters, an Evolution of Smart Contracts (2020)](https://medium.com/dfinity/software-canisters-an-evolution-of-smart-contracts-internet-computer-f1f92f1bfffb)
 - [Building on Ethereum Mainnet - An Opinionated Guide (2020)](https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/)
 - [ethereum-cryptography](https://github.com/ethereum/js-ethereum-cryptography) - Every cryptographic primitive needed to work on Ethereum, for the browser and Node.
@@ -432,3 +432,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for starknet development.
 - [Ying-Yang](https://github.com/exp-table/ying-yang) - Pay on Ethereum, mint on Starknet.
 - [Aegis](https://github.com/Chainstride-Capital/aegis) - Ethereum smart contracts to shield you from bad actors and mempool snipers when listing a new token on a decentralized exchange.
+- [ethereal](https://github.com/wealdtech/ethereal) - Command-line tool for managing common tasks in Ethereum.

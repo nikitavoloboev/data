@@ -186,6 +186,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert. ([Web](https://goalert.me/))
 - [Imperial](https://imperialb.in/) - Code/text sharing site with the user experience in mind, it has feautures such as editing, encryption and integration with github gists and discord. ([Code](https://github.com/imperialbin/imperial))
 - [Slapdash](https://slapdash.com/) - Brings all your apps together in one place to give you new superpowers.
+- [Planner](https://github.com/bvaughn/planner) - Lightweight, interactive planning tool that visualizes a series of tasks using an HTML canvas.
 - [Tiny Letter](https://tinyletter.com)
 - [Airy](https://airy.co/) - Open Source Conversational Platform. ([HN](https://news.ycombinator.com/item?id=27446200))
 - [Cuttle](https://cuttle.xyz/) - Design tool for digital cutting machines.
@@ -631,3 +632,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Best dev tools where you can get started quickly and immediately see its benefits](https://twitter.com/DavidKPiano/status/1468615741981302791)
 - [SaaSHub](https://www.saashub.com/) - Software Alternatives And Reviews.
 - [App Advent Calendar](https://top30.app/)
+- [Awesome Developer-First](https://github.com/agamm/awesome-developer-first) - Curated list of awesome developer-first tools products.

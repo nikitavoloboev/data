@@ -88,3 +88,4 @@
 - [Airtime calculator for LoRaWAN](https://avbentem.github.io/airtime-calculator/ttn/eu868) ([Code](https://github.com/avbentem/airtime-calculator))
 - [lorawan-device](https://github.com/Tortoaster/lorawan-device) - LoRaWAN device stack.
 - [The Things Stack Application Cookbook](https://github.com/htdvisser/lorawan-stack-application-cookbook) - Guide for building an application or integration for The Things Stack.
+- [LoRaWAN on Apache NuttX OS](https://lupyuen.github.io/articles/lorawan3)
