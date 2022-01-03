@@ -88,3 +88,4 @@
 - [What do you think about Zig? (2021)](https://www.reddit.com/r/rust/comments/rlj9zl/what_do_you_think_about_zig/)
 - [A Review of the Zig Programming Language (Using Advent of Code 2021)](https://www.duskborn.com/posts/2021-aoc-zig/) ([HN](https://news.ycombinator.com/item?id=29702607))
 - [A Comparison of Rust and Zig](https://expandingman.gitlab.io/tvu-compare/) ([HN](https://news.ycombinator.com/item?id=29762988))
+- [Analysis of the overhead of a minimal Zig program (2022)](https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0) ([Lobsters](https://lobste.rs/s/hbceut/analysis_overhead_minimal_zig_program))

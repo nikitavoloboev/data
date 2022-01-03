@@ -247,4 +247,4 @@
 - [Shared Channel for WebAssembly](https://github.com/wasm-rs/shared-channel)
 - [Async Executor for WebAssembly](https://github.com/wasm-rs/async-executor)
 - [wasmblr](https://github.com/bwasti/wasmblr) - C++ WebAssembly assembler.
-- [15x Faster TypedArrays: Vector Addition in WebAssembly @ 154GB/s](https://jott.live/markdown/javascript_vector_addition)
+- [Faster TypedArrays: Vector Addition in WebAssembly](https://jott.live/markdown/wasm_vector_addition) ([HN](https://news.ycombinator.com/item?id=29770238))

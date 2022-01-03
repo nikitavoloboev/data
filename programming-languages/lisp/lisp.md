@@ -40,7 +40,7 @@
 - [Lisp: Good News, Bad News, How to Win Big](http://www.dreamsongs.com/WIB.html)
 - [Lisping at JPL (2002)](http://flownet.com/gat/jpl-lisp.html) ([HN](https://news.ycombinator.com/item?id=22087419))
 - [Small minimalistic LISP interpreter in Node](https://github.com/mafintosh/minilisp)
-- [Understanding the Power of LISP (2020)](https://joshbradley.me/understanding-the-power-of-lisp/)
+- [Understanding the Power of LISP (2020)](https://joshbradley.me/understanding-the-power-of-lisp/) ([HN](https://news.ycombinator.com/item?id=29771957))
 - [GLISP](https://github.com/baku89/glisp) - LISP-based graphic design tool.
 - [Programming Algorithms in Lisp](https://leanpub.com/progalgs)
 - [What is the best way to learn Lisp in 2020?](https://news.ycombinator.com/item?id=22913750)

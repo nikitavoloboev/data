@@ -185,3 +185,4 @@
 - [HTTP Snippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries.
 - [Using HTTP Basic Auth in 2022](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html) ([HN](https://news.ycombinator.com/item?id=29761728))
 - [dav-server-rs](https://github.com/messense/dav-server-rs) - Rust WebDAV server library.
+- [You don't need that CORS request (2021)](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/) ([HN](https://news.ycombinator.com/item?id=29777145))

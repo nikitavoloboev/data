@@ -23,3 +23,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Why MAD MAX: FURY ROAD Works - A Scene-By-Scene Breakdown (2021)](https://www.youtube.com/watch?v=8K2YdftsywM)
 - [Which directors entire filmography do you think is the best to have seen?](https://www.reddit.com/r/Letterboxd/comments/r9m290/which_directors_entire_filmography_do_you_think/)
 - [Directed by Quentin Tarantino (2020)](https://www.youtube.com/watch?v=vnZPtwME_mc)
+- [A Director who is worth watching a back catalogue of? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/rubmhc/a_director_who_is_worth_watching_a_back_catalogue/)

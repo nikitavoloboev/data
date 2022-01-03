@@ -71,7 +71,7 @@
 - [Audiocasts](https://github.com/fnoah/audiocasts) - Platform to host RSS podcast feeds for your audiobooks.
 - [RSSMonster](https://github.com/pietheinstrengholt/rssmonster) - Easy to use web-based RSS aggregator, created as an alternative for Google Reader.
 - [Living in Syndication](https://gitlab.com/ericlathrop/living_in_syndication) - Generate RSS feeds for sites that don't have them. ([HN](https://news.ycombinator.com/item?id=25176605))
-- [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - RSS feed for websites missing it.
+- [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - RSS feed for websites missing it. ([HN](https://news.ycombinator.com/item?id=29772540))
 - [A self-hosted RSS setup (2020)](https://www.stevegattuso.me/2020/11/30/self-host-rss.html) ([Lobsters](https://lobste.rs/s/iocucx/self_hosted_rss_setup))
 - [A New Take on RSS (2020)](https://findka.com/blog/new-take-on-rss/) ([HN](https://news.ycombinator.com/item?id=25376849))
 - [Aggr](https://aggr.md/) - Feed aggregator which aims at being lean and fast. ([GitHub](https://github.com/aggr))

@@ -71,3 +71,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [В гостях у актера Александра Петрова: двухуровневый лофт с большой террасой](https://www.youtube.com/watch?v=FFja5R0syXE)
 - [Ask HN: Tiny Home for $5k USD? (2021)](https://news.ycombinator.com/item?id=29686799)
 - [The Carpetbagger’s Guide to Home Ownership (2021)](https://www.granolashotgun.com/granolashotguncom/investors-and-affordable-housing) ([HN](https://news.ycombinator.com/item?id=29688489))
+- [I Built a Shed (2020)](https://eduardosasso.co/blog/how-i-built-a-wfh-shed/) ([HN](https://news.ycombinator.com/item?id=29770105))

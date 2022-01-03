@@ -194,3 +194,4 @@
 - [Aquila DB](https://github.com/Aquila-Network/AquilaDB) - Easy to use Neural Search Engine. Index latent vectors along with JSON metadata and do efficient k-NN search.
 - [Phalanx](https://github.com/mosuka/phalanx) - Cloud-native distributed search engine written in Go built on top of Bluge that provides endpoints through gRPC and traditional RESTful API.
 - [Mwmbl](https://mwmbl.org/) - Open source, non-profit search engine implemented in python. ([Code](https://github.com/mwmbl/mwmbl)) ([HN](https://news.ycombinator.com/item?id=29690877))
+- [Google no longer producing high quality search results (2022)](https://twitter.com/mwseibel/status/1477701120319361026) ([HN](https://news.ycombinator.com/item?id=29772136))

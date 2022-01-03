@@ -161,3 +161,4 @@
 - [Ask HN: What browser extensions are a must-have in 2021?](https://news.ycombinator.com/item?id=29314560)
 - [Neko](https://github.com/m1k1o/neko) - Self hosted virtual browser that runs in docker and uses WebRTC. ([HN](https://news.ycombinator.com/item?id=29406112))
 - [Ghost Cursor](https://github.com/Xetera/ghost-cursor) - Generate human-like mouse movements with puppeteer or on any 2D plane.
+- [Browsers should have tree'd browser history + a formalized way to share it](https://twitter.com/NireBryce/status/1477807821567766530)

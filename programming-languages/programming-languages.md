@@ -290,3 +290,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Ask HN: What is your favorite programming language and why? (2021)](https://news.ycombinator.com/item?id=29715237)
 - [Programing Language Documentations](https://github.com/FrankHB/pl-docs)
 - [Profile Guided Optimization without Profiles: A Machine Learning Approach (2021)](https://arxiv.org/abs/2112.14679)
+- [Automated Code Optimization with E-Graphs (2021)](https://arxiv.org/abs/2112.14714) ([HN](https://news.ycombinator.com/item?id=29775477))
