@@ -68,3 +68,5 @@
 - [auto-complete-element](https://github.com/github/auto-complete-element) - Auto-complete input values from server search results.
 - [snuggsi](https://github.com/devpunks/snuggsi) - Easy Custom Elements in ~1kB. ([Web](https://snuggsi.com/))
 - [Elements](https://github.com/muxinc/elements) - Custom elements for working with media in the browser that Just Work.
+- [Custom Element Types](https://custom-element-types.web.app/) - Framework Type Generator for Web Components. ([Code](https://github.com/coryrylan/custom-element-types))
+- [How to use Web Components with TypeScript and React (2021)](https://coryrylan.com/blog/how-to-use-web-components-with-typescript-and-react)

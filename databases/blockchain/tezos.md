@@ -19,6 +19,7 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 
 ## Links
 
+- [Getting Started with Tezos](https://tezos.com/learn/getting-started/)
 - [Tezos Developer Portal](https://tezos.com/developer-portal/)
 - [TezEdge](https://tezedge.com) - Tezos Explorer. ([Code](https://github.com/simplestaking/tezedge))
 - [Awesome Tezos](https://github.com/jnaulty/awesome-tezos)
@@ -86,3 +87,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Tezos: Driving Social, Political, and Economic Innovation (2021)](https://www.youtube.com/watch?v=UwpvrgaOFB8)
 - [TzFlow](https://tzflow.com/) - Watch Tezos transactions as they happen.
 - [TZComet](https://tzcomet.io/#/explorer) - Contract Metadata Viewer on Tezos. ([Code](https://github.com/oxheadalpha/TZComet))
+- [Weaknesses of Tezos (2022)](https://www.reddit.com/r/tezos/comments/ruje5a/i_dont_think_tezos_can_compete_my_honest_thoughts/)
