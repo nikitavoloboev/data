@@ -1292,6 +1292,7 @@
 - [extent](https://github.com/graydon/extent) - Replacement for std::ops::{Range,RangeInclusive}.
 - [teloc](https://github.com/p0lunin/teloc) - Simple, compile-time DI framework for Rust.
 - [rxRust](https://github.com/rxRust/rxRust) - Rust implementation of Reactive Extensions.
+- [dynasm-rs](https://github.com/CensoredUsername/dynasm-rs) - Dynamic assembler written in Rust for Rust.
 
 ## Cargo Plugins
 

@@ -171,6 +171,10 @@
 
 - [numbers-parser](https://github.com/masaccio/numbers-parser) - Python module for parsing Apple Numbers .numbers files. ([HN](https://news.ycombinator.com/item?id=29753204))
 
+## Math
+
+- [copt](https://github.com/openopt/copt) - Python library for mathematical optimization.
+
 ## Test
 
 - [scripttest](https://github.com/pypa/scripttest) - Library to help you test your interactive command-line applications.

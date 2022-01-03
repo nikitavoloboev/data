@@ -260,3 +260,5 @@
 - [jax_dataclasses](https://github.com/brentyi/jax_dataclasses) - Pytrees + static analysis.
 - [kingly](https://github.com/brucou/kingly) - Zero-cost state-machine library for robust, testable and portable user interfaces (most machines compile ~1-2KB).
 - [RTNeural](https://github.com/jatinchowdhury18/RTNeural) - Lightweight neural network inferencing engine written in C++.
+- [JAXopt](https://github.com/google/jaxopt) - Hardware accelerated, batchable and differentiable optimizers in JAX.
+- [chop](https://github.com/openopt/chop) - Optimization library based on PyTorch, with applications to adversarial examples and structured neural network training.

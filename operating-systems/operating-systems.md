@@ -135,6 +135,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [IX](https://github.com/ix-project/ix) - Protected dataplane operating system project. ([Web](http://ix-project.github.io/ix/))
 - [Minimal bare metal kernel in Swift](https://github.com/spevans/swift-project1)
 - [Cleese](https://github.com/jtauber/cleese) - Functioning operating system written almost entirely in Python.
+- [Tifflin](https://github.com/thepowersgang/rust_os) - OS kernel written in rust. Non POSIX.
 
 ## Notes
 
