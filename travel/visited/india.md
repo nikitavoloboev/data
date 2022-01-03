@@ -9,3 +9,4 @@
 - [Razorpay](https://razorpay.com/) - Best Payment Gateway for Online Payments in India.
 - [Soviet children’s books became collectors’ items in India (2021)](https://www.atlasobscura.com/articles/soviet-childrens-books-in-india) ([HN](https://news.ycombinator.com/item?id=26849866))
 - [Timeline of Indian innovation](https://en.wikipedia.org/wiki/Timeline_of_Indian_innovation)
+- [India’s Stalled Rise (2021)](https://www.foreignaffairs.com/articles/india/2021-12-14/indias-stalled-rise)
