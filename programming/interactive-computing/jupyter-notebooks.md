@@ -28,6 +28,13 @@
 - [JupyterLab Monaco Editor Extension](https://github.com/jupyterlab/jupyterlab-monaco)
 - [Kite Autocomplete Extension for JupyterLab](https://github.com/kiteco/jupyterlab-kite)
 - [ipycanvas](https://github.com/martinRenou/ipycanvas) - Interactive Canvas in Jupyter.
+- [JupyterLab Prodigy](https://github.com/explosion/jupyterlab-prodigy) - JupyterLab extension for annotating data with Prodigy.
+- [ipyflex](https://github.com/trungleduc/ipyflex) - WYSIWYG layout editor for Jupyter widgets.
+- [jupyterlab-fonts](https://github.com/deathbeds/jupyterlab-fonts) - Data-driven Style and Typography for JupyterLab powered by JSS.
+- [drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter.
+- [jupyterlab_imarkdown](https://github.com/agoose77/jupyterlab-imarkdown) - JupyterLab extension to embed rich output in Markdown cells.
+- [py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook.
+- [itables](https://github.com/mwouts/itables) - Pandas DataFrames and Series as Interactive Tables in Jupyter.
 
 ## Links
 
@@ -138,3 +145,28 @@
 - [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion.
 - [JupyterLab App](https://github.com/jupyterlab/jupyterlab_app) - Desktop application for JupyterLab, based on Electron. ([Article](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a)) ([HN](https://news.ycombinator.com/item?id=28621659))
 - [Jupyter Releaser](https://github.com/jupyter-server/jupyter_releaser) - Set of helper scripts and GitHub Actions to aid in automated releases of Python and npm packages.
+- [Jupyterlab Language Packs](https://github.com/jupyterlab/language-packs)
+- [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines using Jupyter or your favorite text editor. Develop locally, deploy to the cloud.
+- [Jupyter React](https://github.com/datalayer/jupyter-react) - React.js components for Jupyter. ([Docs](https://docs.datalayer.io/docs/jupyter/react/index/))
+- [Datalayer](https://datalayer.io/) - Cloud-native and React.js Jupyter Platforms. ([GitHub](https://github.com/datalayer)) ([Twitter](https://twitter.com/datalayerio))
+- [Jupyterpool](https://github.com/datalayer/jupyterpool) - Instant Jupyter Kernels and Servers.
+- [Elastic Jupyter Notebooks on Kubernetes](https://github.com/tkestack/elastic-jupyter-operator)
+- [Pure GitHub.Dev Python Jupyter Notebooks experiments using Pyodide](https://github.com/wjptak/githubdev-jupyter-experiments)
+- [ipylab](https://github.com/jtpio/ipylab) - Control JupyterLab from Python notebooks.
+- [Notebooks, Machine Learning, and MLOps (2021)](https://www.youtube.com/watch?v=_yM7IyZNQx0)
+- [Pyheatmagic](https://github.com/csurfer/pyheatmagic) - Profile and view your Python code as a heat map. ([HN](https://news.ycombinator.com/item?id=29091062))
+- [RetroLab](https://github.com/jupyterlab/retrolab) - JupyterLab distribution with a retro look and feel.
+- [observable_jupyter](https://github.com/thomasballinger/observable-jupyter) - Embed cells from Observable notebooks into Jupyter notebooks.
+- [jupyterlab-nvdashboard](https://github.com/rapidsai/jupyterlab-nvdashboard) - JupyterLab extension for displaying GPU usage dashboards.
+- [CFD Python](https://github.com/barbagroup/CFDPython) - Sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes".
+- [nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks.
+- [Naas](https://github.com/jupyter-naas/naas) - Open-source, it transforms Jupyter Notebooks in a safe production environment thanks to micro-services. ([Web](https://www.naas.ai/))
+- [kubespawner](https://github.com/jupyterhub/kubespawner) - Enables JupyterHub to spawn single-user notebook servers on a Kubernetes cluster.
+- [Zero to JupyterHub with Kubernetes](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
+- [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks.
+- [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications.
+- [repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images.
+- [jupyverse](https://github.com/jupyter-server/jupyverse) - Jupyter server based on FastAPI.
+- [nbparameterise](https://github.com/takluyver/nbparameterise) - Programmatically replace input values in a notebook before running it.
+- [Poetry Kernel](https://github.com/pathbird/poetry-kernel) - Python Jupyter kernel using Poetry for reproducible notebooks. ([HN](https://news.ycombinator.com/item?id=29667453))
+- [datadesk/notebooks](https://github.com/datadesk/notebooks) - All 38 of our computational notebooks.

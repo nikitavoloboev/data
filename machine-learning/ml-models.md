@@ -42,3 +42,24 @@
 - [MLapp](https://github.com/gurvindersingh/mlapp) - ML model serving app based on APIs.
 - [Machine Learning Hyperparameter Optimization with Argo (2021)](https://canvatechblog.com/machine-learning-hyperparameter-optimization-with-argo-a60d70b1fc8c)
 - [Snakepit](https://github.com/coqui-ai/snakepit) - Coqui's machine learning job scheduler.
+- [MLServer](https://github.com/SeldonIO/MLServer) - Inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more. ([Docs](https://mlserver.readthedocs.io/en/latest/))
+- [SpotML](https://www.spotml.io/) - Managed ML Training on Cheap AWS/GCP Spot Instances. ([HN](https://news.ycombinator.com/item?id=28738141))
+- [Mosaic ML](https://www.mosaicml.com/) - Making ML Training Efficient. ([Tweet](https://twitter.com/mattocko/status/1448492976045363200))
+- [RecoEdge](https://github.com/NimbleEdge/RecoEdge) - Deploy recommendation engines with Edge Computing.
+- [MLRun](https://github.com/mlrun/mlrun) - Open-Source MLOps Orchestration Framework.
+- [PrimeHub](https://github.com/InfuseAI/primehub) - Toil-free multi-tenancy machine learning platform in your Kubernetes cluster. ([Docs](https://docs.primehub.io/))
+- [MLeap](https://github.com/combust/mleap) - Deploy ML Pipelines to Production. ([Docs](https://combust.github.io/mleap-docs/))
+- [ServingMLFastCelery](https://github.com/jonathanreadshaw/ServingMLFastCelery) - Working example for serving a ML model using FastAPI and Celery.
+- [Cog](https://github.com/replicate/cog) - Containers for machine learning.
+- [Explaining Machine Learning Models: A Non-Technical Guide to Interpreting SHAP Analyses (2021)](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
+- [Improving a Machine Learning System Is Hard (2021)](https://danshiebler.com/2021-11-06-ml-systems-1/)
+- [Removal-based explanations](https://github.com/iancovert/removal-explanations) - Lightweight implementation of removal-based explanations for ML models.
+- [Gordo](https://github.com/equinor/gordo) - Building thousands of models with timeseries data to monitor systems.
+- [Mosec](https://github.com/mosecorg/mosec) - Model Serving made Efficient in the Cloud.
+- [MLNotify](https://github.com/aporia-ai/mlnotify) - Add just 1 import line and MLNotify will let you know the second it's done.
+- [Build models like we build open-source software (2021)](https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html) ([HN](https://news.ycombinator.com/item?id=29487212))
+- [Deepchecks](https://github.com/deepchecks/deepchecks) - Python package for comprehensively validating your machine learning models and data with minimal effort.
+- [Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer) - Automatic ML model optimization tool.
+- [runx](https://github.com/NVIDIA/runx) - Deep Learning Experiment Management.
+- [ML Console](https://mlconsole.com/) - Web app to train ML models, for free and client-side. ([HN](https://news.ycombinator.com/item?id=29716738))
+- [MMDeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework. ([Docs](https://mmdeploy.readthedocs.io/en/latest/))

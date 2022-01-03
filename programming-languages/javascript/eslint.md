@@ -24,3 +24,22 @@
 - [eslint-plugin-stedi-aws-rules](https://github.com/Stedi/eslint-plugin-stedi-aws-rules) - Best practices around using AWS SDK in JavaScript & Typescript projects.
 - [What if ESLint's configuration worked like elm-review? (2021)](https://jfmengels.net/configuring-eslint/) ([Lobsters](https://lobste.rs/s/of6l3w/what_if_eslint_s_configuration_worked))
 - [eslint-plugin-effector](https://github.com/igorkamyshev/eslint-plugin-effector) - Enforcing best practices for Effector.
+- [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - Provide a defineConfig function for .eslintrc.js files.
+- [eslint-plugin-testing-library](https://github.com/testing-library/eslint-plugin-testing-library) - ESLint plugin to follow best practices and anticipate common mistakes when writing tests with Testing Library.
+- [eslint-plugin-react-memo](https://github.com/steadicat/eslint-plugin-react-memo) - Enforce that all function components are wrapped in React.memo, and that all props and deps are wrapped in useMemo/useCallback so they don’t break memo.
+- [kyleshevlin/eslint-plugin](https://github.com/kyleshevlin/eslint-plugin) - Personal collection of ESLint rules. ([Reddit](https://www.reddit.com/r/reactjs/comments/q911mv/any_good_tutorials_for_senior_devs/hgt7u9s/))
+- [eslint-plugin-arca](https://github.com/arcanis/eslint-plugin-arca) - Various ESLint rules tailored to the author's preferred style.
+- [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
+- [Canonical ESLint Config](https://github.com/gajus/eslint-config-canonical) - Most comprehensive ES code style guide.
+- [Airbnb's ESLint config with TypeScript support](https://github.com/iamturns/eslint-config-airbnb-typescript)
+- [eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Find and remove unused es6 module imports.
+- [eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript) - Extension of eslint-config-standard, made for TypeScript.
+- [standard-engine](https://github.com/standard/standard-engine) - Wrap your own eslint rules in a easy-to-use command line tool and/or a JS module.
+- [eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - Most strict (yet practical) ESLint config. 32 plugins. 1023 rules.
+- [Storybook's eslint & prettier config](https://github.com/storybookjs/linter-config)
+- [TypeStrict](https://github.com/krzkaczor/TypeStrict) - ESLint config focused on maximizing type safety.
+- [eslint-plugin-relations](https://github.com/theKashey/eslint-plugin-relations) - Controls relationships between folders and packages in a monorepo environment.
+- [eslint-plugin-functional](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
+- [suppress-eslint-errors](https://github.com/amanda-mitchell/suppress-eslint-errors) - Suppress existing violations of new eslint rules and get back to building stuff.
+- [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
+- [Eric Crosson ESLint config](https://github.com/EricCrosson/eslint-config)

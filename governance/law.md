@@ -15,11 +15,11 @@
 - [Notarize](https://www.notarize.com/) - Legally Notarize Your Documents Online.
 - [What Color are your bits? (2004)](https://ansuz.sooke.bc.ca/entry/23)
 - [Software licensing and my opposition to copyleft (2020)](https://github.com/BurntSushi/notes/blob/master/2020-10-29_licensing-and-copyleft.md) ([Lobsters](https://lobste.rs/s/i7c0a6/software_licensing_my_opposition)) ([HN](https://news.ycombinator.com/item?id=24939162))
-- [Catala](https://github.com/CatalaLang/catala) - Domain-specific language for deriving faithful-by-construction algorithms from legislative texts. ([Web](https://catala-lang.org/)) ([HN](https://news.ycombinator.com/item?id=24948342))
+- [Catala](https://github.com/CatalaLang/catala) - DSL designed for deriving implementations from legislative texts. ([Web](https://catala-lang.org/)) ([HN](https://news.ycombinator.com/item?id=24948342)) ([HN](https://news.ycombinator.com/item?id=28633122))
 - [judyrecords](https://www.judyrecords.com/) - Full text search on 400M US court cases. ([HN](https://news.ycombinator.com/item?id=25150702))
 - [Legal Concepts for Founders](https://handbook.clerky.com/)
 - [CS50 for Lawyers](https://online-learning.harvard.edu/course/cs50-lawyers)
-- [Terms of Service; Didn’t Read](https://tosdr.org/en/frontpage) ([HN](https://news.ycombinator.com/item?id=25714093))
+- [Terms of Service; Didn’t Read](https://tosdr.org/) ([HN](https://news.ycombinator.com/item?id=25714093)) ([Edit](https://edit.tosdr.org/)) ([Code](https://github.com/tosdr/edit.tosdr.org))
 - [L4: Domain Specific Languages for Computational Law](https://github.com/smucclaw/dsl)
 - [Legalese](https://legalese.com/) - Software is eating law. ([GitHub](https://github.com/legalese))
 - [GPT-3, Esq? Evaluating AI Legal Summaries](http://www.davidvictorrodriguez.com/uploads/2/6/4/2/26420847/gpt-3_esq_-_evaluating_ai_legal_summaries.pdf) ([HN](https://news.ycombinator.com/item?id=26183114))
@@ -33,3 +33,9 @@
 - [Day in my Life as a Corporate Lawyer (2021)](https://www.youtube.com/watch?v=HjZ9U9DGqW8)
 - [The Diversity of International Law (2009)](https://brill.com/view/title/18005)
 - [Open Terms Archive](https://www.opentermsarchive.org/en) - Follow changes to terms of service. ([HN](https://news.ycombinator.com/item?id=28006249))
+- [Was Google Earth Stolen? (2021)](https://avibarzeev.medium.com/was-google-earth-stolen-7d1b821e589b) ([HN](https://news.ycombinator.com/item?id=28913378))
+- [Research Threats: Legal Threats Against Security Researchers](https://github.com/disclose/research-threats) ([Web](https://threats.disclose.io/))
+- [Themis Contract](https://github.com/informalsystems/themis-contract) - Command line-based tool to help with legal contracting.
+- [Ask HN: Why is Docusign a $50B company? (2021)](https://news.ycombinator.com/item?id=29363897)
+- [Propylon](https://propylon.com/) - Creating innovative software solutions to draft, manage, and understand legal content. ([GitHub](https://github.com/propylon))
+- [Understanding Intellectual Property: A Guide for Artists (2013)](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1138&context=lu_law_review)

@@ -12,7 +12,7 @@
 - [Tock](https://github.com/tock/tock) - Secure embedded operating system for Cortex-M based microcontrollers. ([Web](https://www.tockos.org/))
 - [Arm Mbed Command Line Interface](https://github.com/ARMmbed/mbed-cli)
 - [IoT Standards and Protocols](https://www.postscapes.com/internet-of-things-protocols/)
-- [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices. ([Learning Shodan through katas](https://github.com/ninoseki/shodan-dojo))
+- [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices. ([Learning Shodan through katas](https://github.com/ninoseki/shodan-dojo)) ([HN](https://news.ycombinator.com/item?id=28665256))
 - [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Alternative firmware for ESP8266 based devices like iTead Sonoff with web UI, rules and timers, OTA updates, custome device templates and sensors support.
 - [Dumbass Home 2.0. (2019)](https://vas3k.com/blog/dumbass_home/) - Internet of Things. How to Automate Your Rented Box Today.
 - [Amazon FreeRTOS](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers.
@@ -35,7 +35,7 @@
 - [EVE](https://www.lfedge.org/projects/eve/) - Aims to do for the IoT edge what Android did for mobile by creating an open edge computing engine that enables the development, orchestration and security of cloud-native and legacy applications on distributed edge compute nodes.
 - [Adam](https://github.com/lf-edge/adam) - Reference implementation of an LF-Edge API-compliant Controller.
 - [rtlamr](https://github.com/bemasher/rtlamr) - rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
-- [Nerves Platform](https://www.nerves-project.org/) - Open-source platform and infrastructure you need to build, deploy, and securely manage your fleet of IoT devices at speed and scale. ([Code](https://github.com/nerves-project/nerves)) ([HN](https://news.ycombinator.com/item?id=24184603))
+- [Nerves Platform](https://www.nerves-project.org/) - Open-source platform and infrastructure you need to build, deploy, and securely manage your fleet of IoT devices at speed and scale. ([Code](https://github.com/nerves-project/nerves)) ([HN](https://news.ycombinator.com/item?id=24184603)) ([Talk](https://github.com/mtrudel/talks/blob/main/2020-07-Toronto-Elixir-Night-Nerves.pdf))
 - [Nerves Livebook Firmware](https://github.com/fhunleth/nerves_livebook) - Lets you try out the Nerves projects on real hardware without needing to build anything.
 - [Espressif IoT Development Framework](https://github.com/espressif/esp-idf)
 - [Towards Secure IoT Programming in Haskell](http://nachivpn.me/haski.pdf)
@@ -74,3 +74,11 @@
 - [IoT for Beginners - A Curriculum](https://github.com/microsoft/IoT-For-Beginners)
 - [Blues Wireless](https://blues.io/) - Fastest path to build cellular IoT products. ([HN](https://news.ycombinator.com/item?id=28051005))
 - [Mainflux](https://www.mainflux.com/) - Modern, scalable, secure, open-source, and patent-free IoT cloud platform written in Go. ([Code](https://github.com/mainflux/mainflux)) ([GitHub](https://github.com/mainflux))
+- [NimbleEdge](https://www.nimbleedge.ai/) - Edge computing solution for all your needs. ([GitHub](https://github.com/NimbleEdge))
+- [Elevate IoT platform](https://www.technocreatives.com/elevate-iot-som) - Utilizing Rust and GraphQL to enable nimble and effective IoT solutions for real problems.
+- [IoT Nixie Tubes (2021)](https://bert.org/2021/11/16/iot-nixie-tubes/) ([HN](https://news.ycombinator.com/item?id=29244225))
+- [Rust IoT Radio Abstraction(s)](https://github.com/rust-iot/radio-hal)
+- [Toit](https://toit.io/) - IoT software platform for the ESP32.
+- [aws-iot-device-sdk-go](https://github.com/seqsense/aws-iot-device-sdk-go) - Implements AWS IoT presigned WebSockets dialer and AWS IoT features.
+- [Synpse](https://synpse.net/) - IoT fleet management software. ([Go Client](https://github.com/synpse-hq/synpse-go))
+- [SpringQL](https://github.com/SpringQL/SpringQL) - Open-source stream processor for IoT devices and in-vehicle computers.

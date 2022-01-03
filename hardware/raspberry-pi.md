@@ -84,3 +84,21 @@
 - [Ask HN: What are some good Raspberry Pi alternatives? (2021)](https://news.ycombinator.com/item?id=28532526)
 - [Circle](https://github.com/rsta2/circle) - C++ bare metal programming environment for the Raspberry Pi.
 - [Raspberry Pi KVMs Compared: TinyPilot and Pi-KVM v3 (2021)](https://www.jeffgeerling.com/blog/2021/raspberry-pi-kvms-compared-tinypilot-and-pi-kvm-v3) ([HN](https://news.ycombinator.com/item?id=28619388))
+- [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal) ([HN](https://news.ycombinator.com/item?id=28740452))
+- [Rust workspace for RPi4 bare metal things](https://github.com/jonlamb-gh/rpi4-rust-workspace)
+- [Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors](https://github.com/rahul-thakoor/air-pi-play) ([HN](https://news.ycombinator.com/item?id=28836382))
+- [Building Tiny Raspberry Pi Linux Images With Buildroot (2021)](https://rickcarlino.com/2021/building-tiny-raspberry-pi-linux-images-with-buildroot.html) ([Lobsters](https://lobste.rs/s/7bhakm/building_tiny_raspberry_pi_linux_images))
+- [Raspberry Pi 3 Fastboot – Less Than 2 Seconds (2020)](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/) ([HN](https://news.ycombinator.com/item?id=28969386))
+- [Raspberry Pi, Static HTTPS site with Docker and Nginx (2021)](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9) ([HN](https://news.ycombinator.com/item?id=28979665))
+- [PiBox Mini](https://pibox.io/) - Modular Raspberry Pi Storage Server. ([HN](https://news.ycombinator.com/item?id=28992873))
+- [Raspberry Pi Zero 2 W (2021)](https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/) ([HN](https://news.ycombinator.com/item?id=29022955))
+- [First Impressions with the Raspberry Pi Zero 2 W (2021)](https://blog.alexellis.io/raspberry-pi-zero-2/) ([HN](https://news.ycombinator.com/item?id=29024702))
+- [Gilbraltar](https://github.com/dinosaure/gilbraltar) - MirageOS on RPi4.
+- [PiKISS For Raspberry Pi](https://github.com/jmcerrejon/PiKISS) - Bunch Of Scripts With Menu To Make Your Life Easier.
+- [I built a $5k Raspberry Pi server (yes, it's ridiculous) (2021)](https://www.jeffgeerling.com/blog/2021/i-built-5000-raspberry-pi-server-yes-its-ridiculous) ([HN](https://news.ycombinator.com/item?id=29253928))
+- [Argo CD for your private Raspberry Pi k3s cluster (2020)](https://johansiebens.dev/posts/2020/08/argo-cd-for-your-private-raspberry-pi-k3s-cluster/)
+- [Setting up Cloudflare Argo & Access on a Raspberry Pi (2021)](https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi) ([HN](https://news.ycombinator.com/item?id=29382906))
+- [Turing Pi 2: 4 Raspberry Pi nodes on a mini ITX board (2021)](https://www.jeffgeerling.com/blog/2021/turing-pi-2-4-raspberry-pi-nodes-on-mini-itx-board) ([HN](https://news.ycombinator.com/item?id=29405614)) ([Code](https://github.com/geerlingguy/turing-pi-2-cluster))
+- [go-rpio](https://github.com/stianeikeland/go-rpio) - Go library for accessing GPIO-pins on the Raspberry Pi.
+- [Raspberry Pi holds its own against low-cost ARM NAS (2021)](https://www.jeffgeerling.com/blog/2021/raspberry-pi-holds-its-own-against-low-cost-arm-nas) ([HN](https://news.ycombinator.com/item?id=29650182))
+- [Recording 660FPS Video on a $6 Raspberry Pi Camera (2019)](https://blog.robertelder.org/recording-660-fps-on-raspberry-pi-camera/) ([HN](https://news.ycombinator.com/item?id=29703293))

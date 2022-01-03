@@ -11,6 +11,55 @@
 - [Periodic reminder that `await import('//dev.jspm.io/[pkg]')` allows you to import anything from npm in the browser instantly. I often use this in the console to test things out.](https://twitter.com/guybedford/status/1202022281633030145)
 - [Between typescript and prettier, there is very little justification for eslint.](https://twitter.com/mweststrate/status/1296437898330419209)
 - [JS proxy can observe a nested object for changes made to it. That means there's none of the traditional selecting or diffing.](https://twitter.com/0xca0a/status/1328756186288713730)
+- [One optimization that turned out well: storing JavaScript strings as either UTF-16 or UTF-8, depending on whats inside. It turns out this is also what JavaScript engines do, so it makes converting from a string in a JavaScript VM to a string in Bun's AST fast.](https://twitter.com/jarredsumner/status/1441876861106024449)
+
+## Code
+
+```js
+// Click on buttons in a page
+// https://twitter.com/brian_lovin/status/1240662440666222597
+
+let buttons = document.getElementsByClassName("unfollow");
+
+for (let [i, v] of [...buttons].entries()) {
+  setTimeout(() => {
+    buttons[i].click();
+  }, i * 500);
+}
+```
+
+```js
+// Go to specific URL
+window.location.href = "https://www.google.com";
+```
+
+```js
+// Speed up video playback. Put in console of open page.
+$("video").playbackRate = 2;
+```
+
+```js
+// click on all the expand buttons on https://github.com/
+var inputs = document.querySelectorAll("svg[aria-label=Expand]");
+var buttons = Array.from(inputs).map((e) => e.parentElement.parentElement);
+buttons.forEach((b) => b.click());
+```
+
+```js
+// start/close PiP video from currently open tab
+var video = document.querySelectorAll("video")[0];
+if (
+  video !== undefined &&
+  video.webkitSupportsPresentationMode &&
+  typeof video.webkitSetPresentationMode === "function"
+) {
+  video.webkitSetPresentationMode(
+    video.webkitPresentationMode === "picture-in-picture"
+      ? "inline"
+      : "picture-in-picture"
+  );
+}
+```
 
 ## Links
 
@@ -23,7 +72,7 @@
 - [The Definitive Guide to Object-Oriented JavaScript](https://www.youtube.com/watch?v=PMfcsYzj-9M) - Amazing video to understand JS inheritance & objects.
 - [JavaScript: The Core](http:J//dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
 - [JavaScript is Good, Actually](https://ashfurrow.com/blog/javascript-is-good-actually/) ([HN](https://news.ycombinator.com/item?id=17079952))
-- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings. ([HN](https://news.ycombinator.com/item?id=28933618))
 - [EC6 Features](http://es6-features.org/)
 - [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Ask HN: “Expert Level” JavaScript questions?](https://news.ycombinator.com/item?id=17324538)
@@ -62,7 +111,7 @@
 - [Promisees](https://github.com/bevacqua/promisees) - Promise visualization playground for the adventurous.
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials.
 - [Perflink](https://github.com/lukejacksonn/perflink) - JavaScript performance benchmarks that you can share via URL.
-- [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) ([Code](https://github.com/MostlyAdequate/mostly-adequate-guide)) ([HN](https://news.ycombinator.com/item?id=22654135))
+- [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbook.io/mostly-adequate-guide/) ([Code](https://github.com/MostlyAdequate/mostly-adequate-guide)) ([HN](https://news.ycombinator.com/item?id=22654135))
 - [Volta](https://github.com/volta-cli/volta) - JavaScript Launcher. ([Web](https://volta.sh/)) ([HN](https://news.ycombinator.com/item?id=27023453))
 - [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Fastpack](https://fastpack.sh/) - Pack JavaScript fast & easy.
@@ -88,7 +137,7 @@
 - [Chevrotain](https://github.com/SAP/chevrotain) - Parser Building Toolkit for JavaScript.
 - [Comprehensive list of new ES features](https://github.com/daumann/ECMAScript-new-features-list)
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
-- [JavaScript for Impatient Programmers book](https://exploringjs.com/impatient-js/toc.html) ([HN](https://news.ycombinator.com/item?id=23689280))
+- [JavaScript for Impatient Programmers book](https://exploringjs.com/impatient-js/toc.html) ([HN](https://news.ycombinator.com/item?id=23689280)) ([HN](https://news.ycombinator.com/item?id=29673206))
 - [Exploring ES2018 and ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 - [Ecma TC39 GitHub](https://github.com/tc39)
 - [TC39 Meeting Notes](https://tc39.es/tc39-notes/)
@@ -141,7 +190,7 @@
 - [IxJS](https://github.com/ReactiveX/IxJS) - Interactive Extensions for JavaScript.
 - [Renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [The ECMAScript Ecosystem (2020)](https://dev.to/laurieontech/the-ecmascript-ecosystem-2e13)
-- [esbuild](https://github.com/evanw/esbuild/) - Extremely fast JavaScript bundler and minifier written in Go. ([HN](https://news.ycombinator.com/item?id=22335707)) ([Architecture](https://github.com/evanw/esbuild/blob/master/docs/architecture.md)) ([serverless-esbuild](https://github.com/floydspace/serverless-esbuild)) ([Awesome](https://github.com/egoist/awesome-esbuild)) ([Web](https://esbuild.github.io/)) ([Esbuild plugins](https://github.com/remorses/esbuild-plugins))
+- [ESbuild](https://github.com/evanw/esbuild/) - Extremely fast JavaScript bundler and minifier written in Go. ([HN](https://news.ycombinator.com/item?id=22335707)) ([Architecture](https://github.com/evanw/esbuild/blob/master/docs/architecture.md)) ([serverless-esbuild](https://github.com/floydspace/serverless-esbuild)) ([Awesome](https://github.com/egoist/awesome-esbuild)) ([Web](https://esbuild.github.io/)) ([Esbuild plugins](https://github.com/remorses/esbuild-plugins)) ([Tweet](https://twitter.com/tannerlinsley/status/1445135850866499586)) ([HN](https://news.ycombinator.com/item?id=28860713)) ([Online Playground](https://github.com/egoist/play-esbuild))
 - [Community plugins for esbuild](https://github.com/esbuild/community-plugins)
 - [Why Is Esbuild Fast?](https://esbuild.github.io/faq/#why-is-esbuild-fast) ([HN](https://news.ycombinator.com/item?id=26154509))
 - [bundless](https://github.com/remorses/bundless) - Dev server and bundler for esbuild. ([Web](https://bundless.vercel.app/))
@@ -188,7 +237,7 @@
 - [Memoization: What, Why, and How (2020)](https://kyleshevlin.com/memoization)
 - [An Open Source Maintainer's Guide to Publishing npm Packages (2020)](https://formidable.com/blog/2020/publish-npm-packages/)
 - [Robust Client-Side JavaScript (2020)](https://molily.de/robust-javascript/) ([HN](https://news.ycombinator.com/item?id=23612184))
-- [Visualization of npm dependencies](https://npm.anvaka.com/#!/)
+- [Visualization of npm dependencies](https://npm.anvaka.com/#!/) ([Code](https://github.com/anvaka/npmgraph.an))
 - [How to Learn JavaScript](https://sivers.org/learn-js) ([HN](https://news.ycombinator.com/item?id=23659531))
 - [Google Closure Compiler](https://github.com/google/closure-compiler) - Tool for making JavaScript download and run faster.
 - [JSConf](https://jsconf.com/) - Conferences for the JavaScript Community.
@@ -198,7 +247,7 @@
 - [Basho](https://github.com/bashojs/basho) - Shell Automation with Plain JavaScript. ([Docs](https://bashojs.org/))
 - [What is the JS Event Loop and Call Stack?](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
 - [Starving the Event Loop with microtasks](https://gist.github.com/jesstelford/bbb30b983bddaa6e5fef2eb867d37678)
-- [GPU.js](https://gpu.rocks/#/) - GPU accelerated JavaScript. ([HN](https://news.ycombinator.com/item?id=24027487))
+- [GPU.js](https://gpu.rocks/#/) - GPU accelerated JavaScript. ([HN](https://news.ycombinator.com/item?id=24027487)) ([HN](https://news.ycombinator.com/item?id=28797182))
 - [The JavaScript Promise Tutorial (2020)](https://adrianmejia.com/promises-tutorial-concurrency-in-javascript-node/)
 - [Underrated JS array methods (2020)](https://dev.to/assuncaocharles/underrated-array-methods-2mdj)
 - [Javascript Generators, Meet XPath (2020)](https://jack.wrenn.fyi/blog/xpath-for-2020/) ([Lobsters](https://lobste.rs/s/5fsljg/javascript_generators_meet_xpath))
@@ -209,7 +258,7 @@
 - [Speakeasy JS](https://speakeasyjs.com/) - Weekly JavaScript meetup.
 - [Elsa](https://github.com/elsaland/elsa) - Minimal, fast and secure QuickJS wrapper written in Go. ([HN](https://news.ycombinator.com/item?id=24626655))
 - [quickjs-rs](https://github.com/theduke/quickjs-rs) - Rust wrapper for QuickJS.
-- [RSLint](https://github.com/RDambrosio016/RSLint) - JavaScript linter written in Rust designed to be as fast as possible, customizable, and easy to use.
+- [RSLint](https://github.com/rslint/rslint) - Extremely fast JavaScript and TypeScript linter and Rust crate. ([Web](https://rslint.org/))
 - [Beginner's Series to: JavaScript by Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) ([Code](https://github.com/microsoft/beginners-intro-javascript-node))
 - [Please stop using CDNs for external Javascript libraries (2020)](https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/) ([Lobsters](https://lobste.rs/s/mpznhm/please_stop_using_cdns_for_external)) ([HN](https://news.ycombinator.com/item?id=24745194))
 - [ESM Hot Module Replacement (ESM-HMR) Spec](https://github.com/pikapkg/esm-hmr)
@@ -217,7 +266,7 @@
 - [Visual Guide to References in JavaScript (2020)](https://daveceddia.com/javascript-references/)
 - [Modern JavaScript features you may have missed (2019)](https://www.breck-mckye.com/blog/2019/10/modern-javascript-features-you-may-have-missed/)
 - [RegPack](https://github.com/Siorki/RegPack) - Self-contained packer for size-constrained JS code.
-- [ElectronJS alternative: SciterJS – HTML/CSS/JS in 4.5 MB executable](https://github.com/c-smile/sciter-js-sdk) ([HN](https://news.ycombinator.com/item?id=24797423))
+- [SciterJS](https://sciter.com/) - Embeddable HTML/CSS/JavaScript engine. Electron alternative. ([HN](https://news.ycombinator.com/item?id=24797423)) ([SDK](https://github.com/c-smile/sciter-sdk)) ([JS SDK](https://github.com/c-smile/sciter-js-sdk)) ([HN](https://news.ycombinator.com/item?id=29742670))
 - [ESTree Spec](https://github.com/estree/estree) - Manipulate JavaScript source code.
 - [Pattern Matching in JavaScript (2020)](https://kyleshevlin.com/pattern-matching)
 - [How to chain methods in JS in order to write concise and readable code (2020)](https://medium.com/@laflamablanc/method-chaining-and-javascript-7d840d6e3687)
@@ -240,7 +289,7 @@
 - [JS Operator Lookup](https://joshwcomeau.com/operator-lookup/) - Search JavaScript Operators.
 - [The state of JavaScript at the end of 2020](https://www.ideamotive.co/javascript-business-guide) ([HN](https://news.ycombinator.com/item?id=25046293))
 - [What the fuck JavaScript](https://github.com/denysdovhan/wtfjs) - List of funny and tricky JavaScript examples.
-- [1loc](https://1loc.dev/) - JavaScript Utilities in 1 LOC.
+- [1loc](https://1loc.dev/) - JavaScript Utilities in 1 LOC. ([Code](https://github.com/1milligram/1loc))
 - [Component Driven User Interfaces](https://www.componentdriven.org/) - Open standard for UI component examples based on JavaScript ES6 modules. ([Code](https://github.com/ComponentDriven/csf)) ([Website Code](https://github.com/ComponentDriven/componentdriven.org))
 - [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - [Building a Promise from Scratch (2020)](https://www.youtube.com/watch?v=CVzx-6fu0d8)
@@ -264,7 +313,7 @@
 - [Element Worklet (2021)](https://jasonformat.com/element-worklet/)
 - [MDN JS Code Examples](https://github.com/mdn/js-examples)
 - [Understanding Hoisting in JavaScript (2021)](https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)
-- [JavaScript, the Good Parts Notes](https://github.com/ahmaazouzi/js_good_parts)
+- [JavaScript: The Good Parts Book (2008)](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/) ([Notes](https://github.com/dwyl/Javascript-the-Good-Parts-notes)) ([Notes](https://github.com/ahmaazouzi/js_good_parts))
 - [A Model for Reasoning About JavaScript Promises (2017)](http://www.franktip.org/pubs/oopsla2017promises.pdf)
 - [JavaScript Minification Benchmarks](https://github.com/privatenumber/minification-benchmarks) ([HN](https://news.ycombinator.com/item?id=26048291))
 - [Faster JavaScript Calls (2021)](https://v8.dev/blog/adaptor-frame) ([HN](https://news.ycombinator.com/item?id=26143648))
@@ -286,7 +335,7 @@
 - [FIBJS](https://github.com/fibjs/fibjs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [A JavaScript optimizing compiler (2021)](https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071)
 - [In-depth exploration of JavaScript iteration protocols (2021)](https://www.nodejsdesignpatterns.com/blog/javascript-async-iterators/)
-- [Elk](https://github.com/cesanta/elk) - Tiny JS engine for embedded systems.
+- [Elk](https://github.com/cesanta/elk) - Tiny JS engine for embedded systems. ([HN](https://news.ycombinator.com/item?id=28614092))
 - [Endo](https://github.com/endojs/endo) - Distributed secure JavaScript sandbox, based on SES.
 - [How JavaScript works: 3 types of polymorphism (2021)](https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1) ([HN](https://news.ycombinator.com/item?id=27074514))
 - [Modern JavaScript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years) ([HN](https://news.ycombinator.com/item?id=27165954))
@@ -316,3 +365,31 @@
 - [Currying in JavaScript](https://javascript.info/currying-partials) ([HN](https://news.ycombinator.com/item?id=28583069))
 - [Multithreaded JavaScript Book (2021)](https://www.oreilly.com/library/view/multithreaded-javascript/9781098104429/) - Explores the various features that JavaScript runtimes have at their disposal for implementing multithreaded programming.
 - [JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter) - Sandboxed JavaScript interpreter in JavaScript. Execute arbitrary JavaScript code line by line in isolation and safety.
+- [EStruct](https://github.com/RayLuxembourg/estruct) - Traverses JavaScript projects and maps all the dependencies and relationships to a JSON.
+- [unbuild](https://github.com/unjs/unbuild) - Unified JavaScript build system.
+- [The Shocking Immaturity of JavaScript (2021)](https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70) ([HN](https://news.ycombinator.com/item?id=28816961))
+- [Nope](https://github.com/bvego/nope-validator) - Small, simple and fast JS validator.
+- [jstime](https://github.com/jstime/jstime) - Another JavaScript Runtime.
+- [JavaScript Concrete Syntax Tree](https://github.com/cst/cst)
+- [Fastly Compute@Edge JS Runtime](https://github.com/fastly/js-compute-runtime)
+- [Responsible JavaScript Book](https://responsiblejs.dev/) ([Twitter](https://twitter.com/responsiblejs))
+- [Creating Callable Objects in JavaScript (2019)](https://hackernoon.com/creating-callable-objects-in-javascript-d21l3te1)
+- [Reflection at Reflect: The Reflect and Proxy APIs (2021)](https://reflect.run/articles/reflection-at-reflect/)
+- [Deep-copying in JavaScript (2018)](https://surma.dev/things/deep-copy/index.html) ([Tweet](https://twitter.com/DasSurma/status/1456999878798807044))
+- [Reduce minified code size by property mangling](https://lihautan.com/reduce-minified-code-size-by-property-mangling/)
+- [ECMAScript Pattern Matching](https://github.com/tc39/proposal-pattern-matching)
+- [JSConf](https://www.jsconf.in/) ([Twitter](https://twitter.com/jsconfin))
+- [JS Sockets API Proposal](https://github.com/jasnell/sockets-api) ([Tweet](https://twitter.com/jasnell/status/1460415509459968003))
+- [JS Enum Proposal](https://github.com/Jack-Works/proposal-enum) ([Tweet](https://twitter.com/robpalmer2/status/1459834460954890243))
+- [JS Records & Tuples Proposal](https://github.com/tc39/proposal-record-tuple)
+- [ECMAScript Proposals](https://www.proposals.es/) ([Code](https://github.com/saadq/proposals.es))
+- [dum](https://github.com/egoist/dum) - npm scripts runner written in Rust.
+- [Esprima-python](https://github.com/Kronuz/esprima-python) - ECMAScript parsing infrastructure for multipurpose analysis.
+- [Software Tools in JavaScript by Greg Wilson Book (2021)](https://leanpub.com/stjs/)
+- [ReevaJS](https://github.com/ReevaJS/reeva) - JavaScript engine written from scratch using Kotlin.
+- [Web Developer Tools secrets that shouldn’t be secrets (2021)](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/) ([Reddit](https://www.reddit.com/r/programming/comments/r8wph3/web_developer_tools_secrets_that_shouldnt_be/))
+- [The async/await post we promised (2021)](https://dev.to/ablydev/the-asyncawait-post-we-promised-2c50)
+- [JavaScript Cross-Site Scripting: How it Happens and Mitigation Steps (2021)](https://www.youtube.com/watch?v=YlMCp_vzbQo)
+- [JavaScript Self-Profiling API Proposal](https://github.com/WICG/js-self-profiling) - Proposal for a programmable JS profiling API for collecting JS profiles from real end-user environments.
+- [Caterwaul](https://github.com/spencertipping/caterwaul) - JavaScript-to-JavaScript Compiler. ([Web](http://caterwauljs.org/)) ([HN](https://news.ycombinator.com/item?id=29563076))
+- [MuJS](https://github.com/ccxvii/mujs) - Embeddable JavaScript interpreter in C. ([Web](https://mujs.com/))

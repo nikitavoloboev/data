@@ -42,3 +42,8 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Ask HN: I feel trapped in my job and city (2021)](https://news.ycombinator.com/item?id=28200727)
 - [Reflections on Burnout (2021)](https://medium.com/@vaidehijoshi/reflections-on-burnout-bea0ebf87b9)
 - [Avoiding Burnout](https://andrewdumont.me/avoiding-burnout/) ([HN](https://news.ycombinator.com/item?id=5630445)) ([Summary](https://twitter.com/senotrusov/status/1439103386964615170))
+- [Depression is more than low mood – it’s a change of consciousness (2021)](https://psyche.co/ideas/depression-is-more-than-low-mood-its-a-change-of-consciousness) ([HN](https://news.ycombinator.com/item?id=29223641))
+- [How I Got My Brain Back (2021)](https://every.to/superorganizers/how-i-got-my-brain-back) - Using observation, investigation, and productivity methods to understand my depression. ([HN](https://news.ycombinator.com/item?id=29263182))
+- [Movies about depression and loneliness](https://www.reddit.com/r/MovieSuggestions/comments/rbsltf/suggest_me_movies_about_depression_and_loneliness/)
+- [Ask HN: Nerds of HN, did you overcome loneliness? (2021)](https://news.ycombinator.com/item?id=29748257)
+- [Depression alters the circadian pattern of online activity (2020)](https://www.nature.com/articles/s41598-020-74314-3) ([HN](https://news.ycombinator.com/item?id=29761701))

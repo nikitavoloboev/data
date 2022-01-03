@@ -28,3 +28,13 @@
 - [RedGPU](https://github.com/redcamel/RedGPU) - JavaScript WebGPU Engine.
 - [wgpu-profiler](https://github.com/Wumpf/wgpu-profiler) - Simple profiler scopes for wgpu using timer queries.
 - [WebGPU Webpack Starter](https://github.com/Twinklebear/webgpu-webpack-starter)
+- [WebGPU Best Practices](https://github.com/toji/webgpu-best-practices) ([Web](https://toji.github.io/webgpu-best-practices/))
+- [wgpu-native](https://github.com/gfx-rs/wgpu-native) - Native WebGPU implementation based on wgpu-core.
+- [Tiny WebGPU renderer written in Rust](https://github.com/takahirox/wgpu-rust-renderer)
+- [GWebGPUEngine](https://github.com/antvis/GWebGPUEngine) - WebGPU Engine for real-time rendering and GPGPU.
+- [deno_desktop](https://github.com/DjDeveloperr/deno_desktop) - Implements WebGPU Surface API by embedding Deno.
+- [WebGPU computations performance in comparison to WebGL (2021)](https://pixelscommander.com/javascript/webgpu-computations-performance-in-comparison-to-webgl/) ([HN](https://news.ycombinator.com/item?id=29403494))
+- [How to Build a Compute Rasterizer with WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md)
+- [WebGPU Compute Rasterizer](https://github.com/OmarShehata/webgpu-compute-rasterizer)
+- [wgpu-matrix](https://github.com/greggman/wgpu-matrix) - Fast WebGPU 3d math library.
+- [swift-webgpu](https://github.com/henrybetts/swift-webgpu) - Swift bindings for WebGPU.

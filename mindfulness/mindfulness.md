@@ -17,6 +17,7 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Anything outside of this moment is imagination.](https://www.reddit.com/r/Psychonaut/comments/n88ll1/holy_sht/)
 - [Get out for a regular walk in nature as part of your mental health routine. When we walk mindfully, we don’t walk to arrive anywhere, we’ve already arrived in the present moment. We don’t even do a walking meditation to make ourselves calm or happy - having goals for meditation tends to get in the way. We walk simply to enjoy each step; to be present with walking, giving ourselves permission to let go of worries about the future and regrets from the past.](https://www.reddit.com/r/Meditation/comments/nczwzx/get_out_for_a_regular_walk_in_nature_as_part_of/)
 - [Go for a long walk (1 hour) and talk to yourself out loud. Ask yourself how you feel, why you feel the way you feel, explain to yourself what you truly think about your work, relationships etc. Be totally honest with yourself. Make sure you do this away from people so they don’t think you are crazy :-) The trick is to be two people. Yourself asking the questions and yourself answering them as honestly as possible.](https://news.ycombinator.com/item?id=27981529)
+- [Who you are in your head—your thoughts, desires, motivations, emotions, biases—none of it means you’re a good or bad person. All that matters is your behavior. If you have to override your natural inclinations to be a good outward person, that makes you especially admirable.](https://twitter.com/waitbutwhy/status/1453693855472275463)
 
 ## Links
 
@@ -52,3 +53,10 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Guide for Healthy Minds](https://app.projecthealthyminds.com/) - Curation of mental health resources to help get people access to mental health care.
 - [Project Healthy Minds](https://www.projecthealthyminds.com/) - Confronting one of the defining issues of our generation: the mental health crisis. ([Twitter](https://twitter.com/ProjHealthyMind))
 - [fit.dev](https://fit.dev/) - Your Physical and Mental Best. ([Tweet](https://twitter.com/toddmotto/status/1437741239005294597))
+- [I did a Think Week on a remote Scottish island (2021)](https://www.petecodes.io/think-week-scottish-island-2021/) ([Tweet](https://twitter.com/thepatwalls/status/1448242770267738116))
+- [Expanding Awareness](https://expandingawareness.org/) - Explores Alexander Technique and all the things it intersects with.
+- [What is the Alexander Technique? (2021)](https://expandingawareness.org/blog/what-is-the-alexander-technique/)
+- [Ask HN: How do you tackle your own negativity? (2021)](https://news.ycombinator.com/item?id=29060798)
+- [9 Ways to ‘Rewild Your Attention’ (2021)](https://forge.medium.com/9-ways-to-rewild-your-attention-d7c9334b6b90)
+- [Othership](https://apps.apple.com/ca/app/othership-breathing-app/id1590348936) - Guided Breathwork App. ([Tweet](https://twitter.com/robbiebent1/status/1471503360729628677))
+- [Ask HN: What is your spiritual practice? (2021)](https://news.ycombinator.com/item?id=29700445)

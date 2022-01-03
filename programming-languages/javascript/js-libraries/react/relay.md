@@ -2,6 +2,10 @@
 
 > Production-ready GraphQL client for React
 
+## Notes
+
+- [Relay is about declaring per-component data dependencies that can be composed bottom-up into a single query for a route.b](https://twitter.com/andrewingram/status/1464000899731402757)
+
 ## Links
 
 - [Relay code](https://github.com/facebook/relay)
@@ -25,3 +29,7 @@
 - [Awesome Relay](https://github.com/expede/awesome-relay)
 - [fgs](https://github.com/maraisr/fgs) - Fetch GraphQL Schema from a GraphQL HTTP Endpoint from grphql-config that is Relay (rust) aware.
 - [Relay Library for GraphQL.js](https://github.com/graphql/graphql-relay-js)
+- [Relay Client Guide](https://github.com/rafasanmartinez/relay-client-guide)
+- [Redwood with Relay](https://github.com/orta/relay-redwood-app-example)
+- [Relay updates in 2021](https://twitter.com/StatisticsFTW/status/1466496994164162560)
+- [Introducing the new Relay compiler](https://relay.dev/blog/2021/12/08/introducing-the-new-relay-compiler/) ([Tweet](https://twitter.com/RelayFramework/status/1468704982702739464))

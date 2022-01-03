@@ -52,3 +52,20 @@
 - [Random proofs in Idris, Agda, and Coq](https://github.com/ionathanch/scraps)
 - [Katla](https://github.com/ohad/katla) - LaTeX code listing generator for Idris2.
 - [ITT in Idris](https://github.com/ziman/itt-idris) - Quantified dependent calculus with inference of all modalities, implemented in Idris 2.
+- [idris-data-frame](https://github.com/ziman/idris-data-frame) - Data frames for Idris 2.
+- [Idris2GL](https://github.com/ECburx/Idris2GL) - Graphics Library for Idris 2.
+- [TaPL implementation bits in Idris2](https://github.com/andorp/TaPL)
+- [idris-collections](https://github.com/polendri/idris-collections) - Verified data structures in Idris 2.
+- [idris2dart](https://github.com/bamboo/idris2dart) - Idris 2 code generator that outputs Dart code.
+- [Secrets of type driven program synthesis - Edwin Brady (2021)](https://www.youtube.com/watch?v=E7uSsL8r_mU)
+- [DepSec](https://github.com/simongregersen/DepSec) - Static Information-Flow Control in Idris.
+- [Idris WebAssembly CodeGen](https://github.com/SPY/idris-codegen-wasm)
+- [TyRE](https://github.com/kasiaMarek/TyRE) - Dependently-typed regex parser in Idris 2.
+- [idris2-eff](https://github.com/stefan-hoeck/idris2-eff) - Extensible, stack safe effects for Idris2.
+- [Katla](https://github.com/idris-community/katla) - LaTeX & HTML code listing generator for Idris2.
+- [Collie](https://github.com/ohad/collie) - Command line interface for Idris2 applications.
+- [idris2-streaming](https://github.com/stefan-hoeck/idris2-streaming) - IO streaming library for Idris2.
+- [Idris, make back end, in 15 minutes, reusable, concise](https://github.com/thautwarm/Quick-Backend)
+- [sirdi](https://github.com/eayus/sirdi) - Simple package manager for Idris 2.
+- [Nix project template for Idris2 JavaScript projects](https://github.com/srid/idris-js-template)
+- [idris2-nvim](https://github.com/ShinKage/idris2-nvim) - Simple configuration and extra tools for NVIM + LSP + Idris2.

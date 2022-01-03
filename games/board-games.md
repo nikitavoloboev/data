@@ -37,3 +37,10 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [How the ancient game of Go is a guide to modern life (2018)](https://www.youtube.com/watch?v=wQuh9YI8rn0)
 - [More Multiverse](https://multiverse.com/) - Platform on web for tabletop games and RPGs. ([Twitter](https://twitter.com/play_multiverse))
 - [FreeBoardGames.org](https://www.freeboardgames.org/en) - FOSS platform for publishing boardgame.io games. ([Code](https://github.com/freeboardgames/FreeBoardGames.org))
+- [Game Wizards: The Epic Battle for Dungeons & Dragons (2021)](https://mitpress.mit.edu/books/game-wizards)
+- [initiative.sh](https://initiative.sh/) - D&D tools for game masters at the table.
+- [The 22 best board games, a revised list of Polygon’s favorites (2021)](https://www.polygon.com/tabletop-games/22751449/best-board-games)
+- [Tabletop Games - Polygon](https://www.polygon.com/tabletop-games/)
+- [What is your favorite card game that can be played with the standard 52 card deck? (2021)](https://www.reddit.com/r/AskAnAmerican/comments/qti9uz/what_is_your_favorite_card_game_that_can_be/)
+- [61 Best Board Games to Buy in 2021](https://arstechnica.com/gaming/2021/12/best-board-games-buying-guide/)
+- [Best Board Games 2021](https://www.nytimes.com/wirecutter/reviews/board-games-we-love/)

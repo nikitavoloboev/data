@@ -7,6 +7,11 @@
 - [GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git.
 - [E-Commerce Complate App](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) - Dev streams included.
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - Platform adaptive Flutter app for desktop, mobile, and web.
+- [InstaChat](https://github.com/tusharsadhwani/instachat) - Working replica of Instagram DMs and stories, written in Flutter and Go.
+- [Glider](https://github.com/Mosc/Glider) - Opinionated Hacker News client.
+- [Apple Music / Tidal Style Audio Player for Flutter](https://github.com/minikin/audio_player_flutter)
+- [Voiceliner](https://a9.io/voiceliner/) - Voice memos-like for Android and iOS. Written in Flutter. ([Code](https://github.com/maxkrieger/voiceliner))
+- [Voice Scribe](https://github.com/KangRuiYu/voice_scribe) - Audio recording and playback app that transcribes speech in real time.
 
 ## Links
 
@@ -60,3 +65,12 @@
 - [Kraken](https://github.com/openkraken/kraken) - Write in JavaScript, Render in Flutter. ([HN](https://news.ycombinator.com/item?id=28578791))
 - [funvas](https://github.com/creativecreatorormaybenot/funvas) - Flutter package that allows creating canvas animations based on time and math (mostly trigonometric) functions.
 - [VelocityX](https://github.com/iampawan/VelocityX) - Minimalist Flutter framework for rapidly building Flutter apps. ([Web](https://velocityx.dev/))
+- [go_router](https://github.com/csells/go_router) - Use declarative routes to reduce complexity, regardless of the platform you're targeting.
+- [High-level memory-safe bindgen for Flutter/Dart <-> Rust](https://github.com/fzyzcjy/flutter_rust_bridge)
+- [flutter_gen](https://github.com/FlutterGen/flutter_gen) - Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
+- [Perfect Freehand Flutter](https://github.com/steveruizok/perfect-freehand-dart) - Draw perfect pressure-sensitive freehand lines.
+- [Flutter and Dart Tips and Tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
+- [Using Flutter to build a native-looking desktop app for macOS and Windows (2021)](https://blog.whidev.com/native-looking-desktop-app-with-flutter/) ([HN](https://news.ycombinator.com/item?id=29170955))
+- [Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop)
+- [flutter_use](https://github.com/wasabeef/flutter_use) - Play Flutter Hooks.
+- [Flutter Packages](https://github.com/flutter/packages) - Collection of useful packages maintained by the Flutter team.

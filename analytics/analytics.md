@@ -6,9 +6,13 @@ Well implemented analytics will let you see how to optimize your system to serve
 
 If analytics are used, it's best to implement them server side with something like [Netlify](https://www.netlify.com/products/analytics/) so as to not send unnecessary JS to the client and keep pages light.
 
+## Notes
+
+- [Just because you can measure quantitative things doesn't mean you can ignore qualitative things.](https://twitter.com/_kamlesh_/status/1451907162867847179)
+
 ## Links
 
-- [Fathom](https://usefathom.com/) - Simple, trustworthy website analytics. Built with Go & Preact. ([Code](https://github.com/usefathom/fathom))
+- [Fathom](https://usefathom.com/) - Simple, trustworthy website analytics. Built with Go & Preact. ([Code](https://github.com/usefathom/fathom)) ([Best option for GDPR compliance](https://usefathom.com/features/eu-isolation))
 - [Matamo](https://matomo.org/) - Open source alternative to Google Analytics.
 - [LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [Grafana](https://github.com/grafana/grafana) - Tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More. ([Grafana Backup Tool](https://github.com/ysde/grafana-backup-tool))
@@ -80,3 +84,9 @@ If analytics are used, it's best to implement them server side with something li
 - [Load-testing my Web Analytics Tool](https://johnmathews.eu/load-testing-web-analytics-tool.html)
 - [Tech-savvy audiences block Google Analytics (2021)](https://plausible.io/blog/google-analytics-adblockers-missing-data) ([HN](https://news.ycombinator.com/item?id=28365163))
 - [Monitor ClickHouse with Prometheus & Grafana (2021)](https://tech.marksblogg.com/clickhouse-prometheus-grafana.html)
+- [Pirsch Analytics](https://pirsch.io/) - Cookie-Free Alternative to Google Analytics.
+- [Dune Analytics](https://dune.xyz/home) - Free crypto analytics by and for the community. ([Dune Snippets](https://github.com/sambacha/dune-snippets))
+- [Bast](https://github.com/kooparse/bast) - Web analytics focusing on privacy and simplicity.
+- [Sensor Tower](https://sensortower.com/) - Mobile App Store Marketing Intelligence.
+- [Analytics Next](https://github.com/segmentio/analytics-next) - Latest version of Segment’s JavaScript SDK - enabling you to send your data to any tool.
+- [Ask HN: Best alternatives to Google Analytics in 2021?](https://news.ycombinator.com/item?id=29662859)

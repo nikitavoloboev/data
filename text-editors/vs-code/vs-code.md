@@ -25,6 +25,7 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [Can use "\*" in the advanced search options in @code to search for similar subfolders across multiple parent folders.](https://twitter.com/SteveGodderidge/status/1285978384049348609)
 - [Can Keyboard map Emmet commands: inward and outward to select HTML/JSX blocks](https://twitter.com/jaredpalmer/status/1385938591323414529)
 - [When you're writing markdown in VSCode you can just highlight text and ctrl+v to automatically make it a link.](https://twitter.com/hollylawly/status/1398375511366115328)
+- [VSCode can let you run Jupyter Notebooks line by line and see variables](https://www.youtube.com/shorts/zTxmCVGaYic)
 
 ## Links
 
@@ -62,4 +63,8 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [snp](https://github.com/djyde/snp) - VS Code code snippet generator.
 - [HN: Reflections on IDEA vs VS Code (2021)](https://news.ycombinator.com/item?id=26367410)
 - [Productive VS Code](https://productivevscode.com/) - Change the way you VS Code in 1 hour.
-- [OpenVSCode Server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
+- [OpenVSCode Server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere. ([Article](https://www.gitpod.io/blog/openvscode-server-launch))
+- [How OpenVSCode Server turns VS Code into a web IDE](https://sourcegraph.com/github.com/gitpod-io/openvscode-server/-/blob/docs/sourcedive.snb.md) ([HN](https://news.ycombinator.com/item?id=28685978))
+- [How We Made Bracket Pair Colorization 10,000x Faster (2021)](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization) ([HN](https://news.ycombinator.com/item?id=28692470)) ([Lobsters](https://lobste.rs/s/ujj1cu/how_we_made_bracket_pair_colorization_10)) ([Tweet](https://twitter.com/kmett/status/1443213748840325132))
+- [VSCode.dev](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev) - Online VSCode Editor. ([Article](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)) ([HN](https://news.ycombinator.com/item?id=28932206))
+- [Ask HN: Could VSCode be the new Emacs? (2021)](https://news.ycombinator.com/item?id=29159192)

@@ -28,3 +28,4 @@
 - [Blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more.
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension). ([Web](https://sponsor.ajay.app/))
 - [Hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly. ([Web](https://www.github.developerdan.com/hosts/))
+- [Adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library.

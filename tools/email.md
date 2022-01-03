@@ -42,7 +42,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [InboxSDK](https://www.inboxsdk.com/) - High level Javascript library used to easily build browser extensions that interact with both Gmail and Inbox by Google. ([HN](https://news.ycombinator.com/item?id=22580223))
 - [gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters. ([HN](https://news.ycombinator.com/item?id=22715982))
 - [Good Email Code](https://www.goodemailcode.com/) ([Code](https://github.com/M-J-Robbins/good-email-code))
-- [Mailgun](https://www.mailgun.com/) - The all-in-one, intelligent email delivery platform.
+- [Mailgun](https://www.mailgun.com/) - The all-in-one, intelligent email delivery platform. ([HN](https://news.ycombinator.com/item?id=28704741)) ([HN](https://news.ycombinator.com/item?id=29210406))
 - [Mailgun Logger](https://github.com/jackjoe/mailgun_logger) - Simple admin tool to get Mailgun persistence ad infinititum.
 - [Mailgun with Go](https://github.com/mailgun/mailgun-go) - Go library for interacting with the Mailgun API.
 - [Maddy](https://github.com/foxcpp/maddy) - Composable all-in-one mail server. ([Web](https://maddy.email/)) ([HN](https://news.ycombinator.com/item?id=25157989)) ([HN](https://news.ycombinator.com/item?id=27557542))
@@ -155,7 +155,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Email explained from first principles](https://explained-from-first-principles.com/email/)
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in emails. ([Code](https://github.com/hteumeuleu/caniemail))
 - [Just Use Email](https://www.justuseemail.com/) - How to use Email for Everything. ([HN](https://news.ycombinator.com/item?id=27123389))
-- [Notmuch Email](https://notmuchmail.org/) - Fast, global-search and tag-based email system to use within your text editor or in a terminal. ([Code](https://github.com/notmuch/notmuch))
+- [Notmuch Email](https://notmuchmail.org/) - Fast, global-search and tag-based email system to use within your text editor or in a terminal. ([Code](https://github.com/notmuch/notmuch)) ([afew - tagging script](https://github.com/afewmail/afew))
 - [Big Mail](https://getbigmail.com/) - Upgrade your inbox.
 - [What's in email tracking links and pixels? (2021)](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/) ([HN](https://news.ycombinator.com/item?id=27446907))
 - [Automating Gmail with AppsScript (2020)](https://akshayshah.org/automating-gmail-with-appsscript/)
@@ -176,3 +176,33 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Modoboa](https://modoboa.org/en/) - Open Source email server. ([HN](https://news.ycombinator.com/item?id=28583099))
 - [Postforward](https://github.com/zoni/postforward) - Mail forwarding utility which aims to compliment the Postfix Sender Rewriting Scheme daemon (PostSRSd).
 - [mailcow.email](https://mailcow.email/) ([Docs](https://mailcow.github.io/mailcow-dockerized-docs/)) ([Code](https://github.com/mailcow/mailcow-dockerized))
+- [tidy_email](https://github.com/jsthomas/tidy-email) - OCaml wrapper library that makes it easy to send email with different services.
+- [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters? (2021)](https://news.ycombinator.com/item?id=28635313)
+- [Easily creating and routing email addresses with Cloudflare Email Routing (2021)](https://blog.cloudflare.com/introducing-email-routing/) ([Tweet](https://twitter.com/threepointone/status/1442492423884599297))
+- [Tackling Email Spoofing and Phishing (2021)](https://blog.cloudflare.com/tackling-email-spoofing/)
+- [forlater.email](https://forlater.email/) - Email-based bookmarking. ([How I built forlater.email](https://icyphox.sh/blog/building-forlater/))
+- [Masked Email from Fastmail and 1Password](https://www.fastmail.com/1password/) ([HN](https://news.ycombinator.com/item?id=28682011))
+- [Best tool for generating HTML emails that work in most mail clients (2021)](https://twitter.com/kentcdodds/status/1444660326398496768)
+- [Sublime Security](https://sublimesecurity.com/) - Lets you write and run custom detection and response rules to block phishing attacks, hunt for threats, and more. ([Sublime Rules](https://github.com/sublime-security/sublime-rules))
+- [Write Beautiful Emails in React (2021)](https://lu.ma/p/6a4w1VcZjLwLYaH/Write-Beautiful-Emails-in-React) ([Tweet](https://twitter.com/VictorPontis/status/1447986769077678093)) ([Code](https://github.com/luma-team/email-templates-starter-repo))
+- [Ask HN: Best way to organize 100-200 emails/day in outlook (2021)](https://news.ycombinator.com/item?id=28887234)
+- [svelte-mail](https://github.com/ls-age/svelte-mail) - Renders Svelte components for emails. Inlines styles and renders additional plain text version.
+- [Userlist](https://userlist.com/) - Email Marketing & Lifecycle Automation for SaaS Companies. ([Product](https://userlist.com/features/marketing-email/)) ([Tweet](https://twitter.com/benediktdeicke/status/1452967216681472004))
+- [mail-parser](https://github.com/stalwartlabs/mail-parser) - Fast and robust e-mail parsing library for Rust.
+- [Server Accepts Email](https://github.com/LinusU/server-accepts-email) - Check if an SMTP server accepts emails to a given address.
+- [mailparse](https://github.com/staktrace/mailparse) - Rust library to parse mail files.
+- [Nexium](https://github.com/nexiumapp/nexium) - Next generation email server in Rust.
+- [List of burner email providers](https://github.com/wesbos/burner-email-providers)
+- [Pigeon](https://github.com/quambene/pigeon-rs) - Command line tool for cheap and efficient email automation written in Rust.
+- [Letters](https://github.com/oxidizing/letters) - OCaml library for creating and sending emails over SMTP using LWT.
+- [hydroxide](https://github.com/emersion/hydroxide) - Third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge.
+- [Golang SMTP mock](https://github.com/mocktools/go-smtp-mock) - Mimic SMTP server behavior for your test environment and even more.
+- [Re-thinking electronic mail (2021)](https://liw.fi/rethinking-email/)
+- [Receivex](https://github.com/maartenvanvliet/receivex) - Elixir package to deal with inbound email webhooks.
+- [Front](https://front.com/) - Customer Communication Platform using Email. ([Twitter](https://twitter.com/FrontHQ)) ([Tweet](https://twitter.com/thomaspaulmann/status/1470501397212893197))
+- [Go Mail](https://github.com/ainsleyclark/go-mail) - Unify multiple popular mail API's (SparkPost, MailGun, SendGrid & SMTP) into a singular easy to use interface.
+- [OhMySMTP](https://ohmysmtp.com/) - Transactional Email Provider and API. ([GitHub](https://github.com/ohmysmtp))
+- [Running your own email is increasingly an artisanal choice, not a practical one (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailServersNoLongerPractical) ([HN](https://news.ycombinator.com/item?id=29672846))
+- [Dovecot](https://www.dovecot.org/) - Secure IMAP server. ([Code](https://github.com/dovecot/core))
+- [Deploy a Gmail-like email server in 30 (ish) minutes (2021)](https://andycallaghan.com/posts/deploy-a-gmail-like-email-server-in-30-minutes/) ([HN](https://news.ycombinator.com/item?id=29691605))
+- [Red Mail](https://github.com/Miksus/red-mail) - Advanced email sending library for Python.

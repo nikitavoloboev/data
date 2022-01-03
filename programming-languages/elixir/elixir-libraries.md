@@ -2,6 +2,8 @@
 
 ## Web
 
+- [Mint](https://github.com/elixir-mint/mint) - Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2.
+- [Req](https://github.com/wojtekmach/req) - HTTP client with a focus on ease of use and composability, built on top of Finch.
 - [Finch](https://github.com/keathley/finch) - HTTP client with a focus on performance, built on top of Mint and NimblePool.
 - [Ash](https://github.com/ash-project/ash) - Resource based framework for building Elixir applications.
 - [SiteEncrypt](https://github.com/sasa1977/site_encrypt) - Integrated certification via Let's encrypt for Elixir-powered sites.
@@ -13,20 +15,32 @@
 - [Ace](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
 - [Raxx](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 - [Corsica](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+- [Plug](https://github.com/elixir-plug/plug) - Specification and conveniences for composable modules between web applications.
+- [Quenya](https://github.com/tyrchen/quenya) - Framework to build high-quality REST API applications based on extended OpenAPI spec.
+- [Bandit](https://github.com/mtrudel/bandit) - HTTP server for Plug apps. ([Article](https://mat.geeky.net/2021/06/24/bandit-on-the-loose.html)) ([Talk](https://github.com/mtrudel/talks/blob/main/ElixirConf%202021.pdf))
+- [ElixirST](https://github.com/gertab/ElixirST) - Session Types in Elixir.
+- [PardallMarkdown](https://github.com/alfredbaudisch/pardall_markdown) - Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding. Written in Elixir.
+- [OAuth2](https://github.com/scrogson/oauth2) - Elixir OAuth 2.0 Client Library.
+- [Joken](https://github.com/joken-elixir/joken) - Elixir JWT library.
 
 ## DB
 
-- [Ecto](https://github.com/elixir-ecto/ecto) - Toolkit for data mapping and language integrated query for Elixir.
+- [Ecto](https://github.com/elixir-ecto/ecto) - Toolkit for data mapping and language integrated query for Elixir. ([Brief Guide to Ecto](https://serokell.io/blog/ecto-guide-for-beginners))
 - [Paper Trail](https://github.com/izelnakri/paper_trail) - Track and record all the changes in your database with Ecto. Revert back to anytime in history.
 - [EctoMorph](https://github.com/Adzz/ecto_morph) - Morphs your Ecto capabilities.
 - [DBConnection](https://github.com/elixir-ecto/db_connection) - Database connection behavior.
 - [Hierarch](https://github.com/Byzanteam-Labs/hierarch) - Tree structure & hierarchy for ecto models with ltree (Postgres).
+- [Excellent Migrations](https://github.com/Artur-Sulej/excellent_migrations) - Detect potentially dangerous or destructive operations in your database migrations.
+- [Params](https://github.com/vic/params) - Easily define parameter structure and validate/cast with Ecto.Schema.
+- [Postgrex](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
+- [CubDB](https://github.com/lucaong/cubdb) - Embedded key-value database written in the Elixir language.
 
 ## Test
 
 - [Mox](https://github.com/dashbitco/mox) - Library for defining concurrent mocks in Elixir.
 - [Hammox](https://github.com/msz/hammox) - Automated contract testing for Elixir functions and mocks.
 - [PropCheck](https://github.com/alfert/propcheck) - Property based testing for Elixir.
+- [Mock](https://github.com/jjh42/mock) - Mocking library for Elixir language.
 
 ## ML
 
@@ -34,8 +48,17 @@
 
 ## CLI
 
+- [Owl](https://github.com/fuelen/owl) - Toolkit for writing command-line user interfaces.
 - [Vexil](https://github.com/Ovyerus/vexil) - Elixir flag parser that does just enough.
 - [Artificery](https://github.com/bitwalker/artificery) - Toolkit for creating terminal user interfaces in Elixir.
+
+## Math
+
+- [Statistics](https://github.com/msharp/elixir-statistics) - Statistical functions and distributions for Elixir.
+
+## Livebook
+
+- [Kino](https://github.com/livebook-dev/kino) - Client-driven interactive widgets for Livebook.
 
 ## Other
 
@@ -81,7 +104,21 @@
 - [Para](https://github.com/syamilmj/para) - Declarative way to parse and validate parameters.
 - [Norm](https://github.com/keathley/norm) - Data specification and generation.
 - [Algae](https://github.com/witchcrafters/algae) - Bootstrapped algebraic data types for Elixir.
+- [VegaLite](https://github.com/livebook-dev/vega_lite) - Elixir bindings for Vega-Lite.
+- [Elixir Thrift](https://github.com/pinterest/elixir-thrift)
+- [Uncharted](https://github.com/unchartedelixir/uncharted) - Simple Elixir charting library that generates easy to customize charts.
+- [Rustic Result](https://github.com/linkdd/rustic_result) - Result monad for Elixir inspired by Rust Result type. ([HN](https://news.ycombinator.com/item?id=28913884))
+- [Explorer](https://github.com/elixir-nx/explorer) - Dataframes for Elixir.
+- [Burrito](https://github.com/burrito-elixir/burrito) - Cross-Platform Elixir Deployments.
+- [ex_cldr](https://github.com/elixir-cldr/cldr) - Elixir implementation of CLDR/ICU.
+- [TypedStruct](https://github.com/ejpcmac/typed_struct) - Library for defining structs with a type without writing boilerplate code.
+- [CSV](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+- [Daat](https://github.com/QuinnWilton/daat) - Parameterized modules for Elixir.
+- [Expat](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
+- [Vex](https://github.com/CargoSense/vex) - Data Validation for Elixir.
 
 ## Links
 
 - [Hex packages](https://hex.pm/packages) - Package manager for the Erlang ecosystem.
+- [ExDoc](https://github.com/elixir-lang/ex_doc) - Tool to generate documentation for your Elixir projects. ([Tweet](https://twitter.com/fhunleth/status/1460430228271112196))
+- [Log all the things - features of Elixir 1.11 Logger application (2022)](https://hauleth.dev/post/log-all-the-things/) ([Lobsters](https://lobste.rs/s/i29sqw/log_all_things_features_elixir_1_11_logger))

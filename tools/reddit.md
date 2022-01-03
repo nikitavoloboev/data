@@ -1,5 +1,13 @@
 # [Reddit](https://www.reddit.com/)
 
+## Bots
+
+- [Music recognition bot for Reddit powered by audd.io](https://github.com/AudDMusic/RedditBot)
+
+## Notes
+
+- [Reddit is a gold mine for validating product ideas. Here's what I do: I take my idea and search Reddit for it. Are you people asking for a solution? Then great! You're on to a real problem.](https://twitter.com/mronge/status/1473790462053945345)
+
 ## Links
 
 - [Libreddit](https://libredd.it/) - Private front-end for Reddit written in Rust. ([Code](https://github.com/spikecodes/libreddit)) ([HN](https://news.ycombinator.com/item?id=28451882))
@@ -27,3 +35,17 @@
 - [Plebbit: A serverless, adminless, decentralized Reddit alternative](https://github.com/plebbit/whitepaper/discussions/2)
 - [Reddit Downloader](https://github.com/Pauloo27/reddit) - Download Reddit videos with sound using a NodeJS CLI with ffmpeg.
 - [Saveddit](https://saveddit4reddit.herokuapp.com/) - Search and Filter through your Saved Reddit Posts. ([Code](https://github.com/ahmed-zubair-1998/Saveddit))
+- [Reddit TV Series Discussions](https://www.redditdiscuss.com/) - Find Reddit discussion threads for your TV shows. ([HN](https://news.ycombinator.com/item?id=28665718))
+- [Reddit Scraper](https://github.com/basaldella/reddit-scraper) - Python Reddit scraper based on Praw and Pushshift.
+- [Async PRAW](https://github.com/praw-dev/asyncpraw) - Asynchronous Python Reddit API Wrapper. ([Docs](https://asyncpraw.readthedocs.io/en/stable/))
+- [Reddit 1.0 Code](https://github.com/reddit-archive/reddit1.0) - In Common Lisp.
+- [Pushshift Reddit API Documentation](https://github.com/pushshift/api)
+- [The Ultimate Guide to Unbundling Reddit (2020)](https://latecheckout.substack.com/p/the-ultimate-guide-to-unbundling) ([HN](https://news.ycombinator.com/item?id=29420100))
+- [My Favorite Software Subreddits](https://notes.eatonphil.com/high-quality-subreddits-you-should-be-following.html) ([HN](https://news.ycombinator.com/item?id=29450583))
+- [RedditScrape](https://github.com/adgray09/RedditScrape) - Web scraper built in Go using the Colly library.
+- [How to Collect a Reddit Dataset. Using PSAW and PRAW in Python (2021)](https://towardsdatascience.com/how-to-collect-a-reddit-dataset-c369de539114)
+- [Troddit](https://www.troddit.com/) - Web client for Reddit. ([Code](https://github.com/burhan-syed/troddit))
+- [Sending mass DMs on Reddit through API: a small experiment (2021)](https://www.trickster.dev/post/sending-mass-dms-on-reddit-through-api/)
+- [ArchiveTeam Warrior backing up Reddit](https://tracker.archiveteam.org/reddit/) ([HN](https://news.ycombinator.com/item?id=29584622))
+- [Reddit Subreddits](https://www.reddit.com/subreddits/)
+- [Reddit Community Directory sorted by letter](https://www.reddit.com/subreddits/a-1/)

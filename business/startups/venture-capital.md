@@ -4,6 +4,7 @@
 
 - [Tons of cash in VC => founders have leverage => founders prefer to do 1st meetings over zoom, easier to parallel process more firms/create momentum => zoom is default for first meetings. In-person is saved for the end/close.](https://twitter.com/zebulgar/status/1376251459574976513)
 - [The biggest mistake you can make in venture is of omission, not commission.](https://twitter.com/faraaznishtar/status/1434297011164098569)
+- [If you take VC money, prepare to give up any values you might hold that are not aligned with turning that money into 10x for the benefit of the VCs. Don’t lie to yourself about being able to hold onto those values. You won’t.](https://twitter.com/ceejbot/status/1444055001437851650)
 
 ## Links
 
@@ -19,7 +20,7 @@
 - [GV](https://www.gv.com/) - Backs founders who transform industries and create new ones.
 - [Village Global](https://www.villageglobal.vc/) - Early-stage venture capital firm backed by some of the world’s most successful entrepreneurs.
 - [Founders Fund](https://foundersfund.com/)
-- [Tiny Capital](https://www.tinycapital.com/) - We start, buy, and invest in wonderful internet businesses.
+- [Tiny Capital](https://www.tinycapital.com/) - We start, buy, and invest in wonderful internet businesses. ([HN](https://news.ycombinator.com/item?id=29376588))
 - [Bloomberg Beta](https://github.com/Bloomberg-Beta/Manual) - Early-stage venture firm backed by Bloomberg L.P., investing out of a \$75M fund focused broadly on the future of work.
 - [Index Ventures](http://www.indexventures.com/)
 - [What I learnt from raising £1m](https://medium.com/swlh/what-i-learnt-from-raising-1m-8f70df34c874)
@@ -128,3 +129,12 @@
 - [VCs are financing an economy of servants (2021)](https://sifted.eu/articles/servant-economy/) ([HN](https://news.ycombinator.com/item?id=28120173))
 - [Creandum](https://www.creandum.com/) - Leading European early-stage venture capital firm.
 - [New Layer Capital](https://www.newlayer.capital/) - Private investment firm that invests in cryptocurrencies, tokens, and blockchain companies.
+- [Calm Company Fund](https://calmfund.com/) - Ecosystem of founders and funders of profitable, sustainable, calm businesses. ([What We Invest In](https://calmfund.com/what-we-invest-in)) ([Tweet](https://twitter.com/tylertringas/status/1449425578436739072))
+- [Bowery Capital](https://bowerycap.com/) - Early-stage venture capital. ([Twitter](https://twitter.com/BoweryCapital))
+- [June Fund](https://june.fund/)
+- [The Sequoia Fund: Patient Capital for Building Enduring Companies (2021)](https://medium.com/sequoia-capital/the-sequoia-fund-patient-capital-for-building-enduring-companies-9ed7bcd6c7da) ([Tweet](https://twitter.com/sequoia/status/1452999422988718084)) ([HN](https://news.ycombinator.com/item?id=29000939))
+- [Variant](https://variant.fund/) - First-check crypto fund investing in the ownership economy. ([Twitter](https://twitter.com/variantfund)) ([Tweet](https://twitter.com/JasonYanowitz/status/1453435566666682374))
+- [Seven Seven Six](https://sevensevensix.com/) - Venture capital firm, founded by builders, built with software.
+- [An Engineer's View of Venture Capitalists (2001)](https://spectrum.ieee.org/an-engineers-view-of-venture-capitalists) ([HN](https://news.ycombinator.com/item?id=29187684))
+- [Tiger Global: How to Win (2021)](https://www.readthegeneralist.com/briefing/tiger-global) ([Tweet](https://twitter.com/mariogabriele/status/1459961594344050692))
+- [Long Journey Ventures](https://www.longjourney.vc/) - Early Stage Investing for the long-term. ([Twitter](https://twitter.com/LongJourneyVC)) ([Tweet](https://twitter.com/LeeJacobs/status/1460986903352602634))

@@ -31,3 +31,12 @@
 - [SmartWeave SDK v2](https://github.com/redstone-finance/redstone-smartweave) - Implementation of the SmartWeave SDK.
 - [Ardk](https://github.com/textury/ardk) - JavaScript/TypeScript SDK for interacting with the Arweave network.
 - [Scar](https://scar.vercel.app/#/) - Arweave Explorer. ([Code](https://github.com/renzholy/scar))
+- [Arweave Server](https://github.com/ArweaveTeam/arweave) - Official Erlang implementation of the Arweave protocol and a gateway implementation.
+- [Arweave Names Service](https://github.com/decentldotland/ANS) - Domain Names Service - Gravatar hybrid on the Arweave network.
+- [ArConnect](https://arconnect.io/) - Secure wallet management for Arweave. ([Tweet](https://twitter.com/dabit3/status/1447258181730713608))
+- [Arweave NFT Metadata Uploaded](https://github.com/thuglabs/arweave-image-uploader) - This package can be used to create metadata files on the Arweave network.
+- [Permanent, decentralized data storage with Arweave featuring Sam Williams (2021)](https://www.youtube.com/watch?v=8wwXoj_Lqi8)
+- [Arweave Wiki](https://arwiki.wiki/#/en/main)
+- [ArDB](https://github.com/textury/ardb) - Best way to interact with the weave, without having to write any GQL and trying to remember param names.
+- [arienai](https://github.com/littledivy/arienai) - Hardware wallet for Arweave. For Cortex M3 processors.
+- [Permacast](https://github.com/xylophonez/permacast) - Permanent podcast hosting and discovery, powered by Arweave.

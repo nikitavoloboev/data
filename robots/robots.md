@@ -98,3 +98,33 @@
 - [RaiSim](https://raisim.com/) - Cross-platform multi-body physics engine for robotics and AI. ([Code](https://github.com/raisimTech/raisimLib))
 - [Photogrammetry & Robotics Bonn](https://www.ipb.uni-bonn.de/) ([GitHub](https://github.com/PRBonn))
 - [Crocoddyl](https://github.com/loco-3d/crocoddyl) - Efficient and Versatile Framework for Multi-Contact Optimal Control (ICRA). ([Web](https://cmastalli.github.io/publications/crocoddyl20icra.html))
+- [CLIPort: What and Where Pathways for Robotic Manipulation (2021)](https://cliport.github.io/) ([Code](https://github.com/cliport/cliport))
+- [Differentiable and learnable robot model](https://github.com/facebookresearch/differentiable-robot-model) - Implements computations such as forward kinematics and inverse dynamics, in a fully differentiable way.
+- [YARR](https://github.com/stepjam/YARR) - Yet Another Robotics and Reinforcement (YARR) learning framework for PyTorch.
+- [IKBT](https://github.com/uw-biorobotics/IKBT) - Python package to solve robot arm inverse kinematics in symbolic form.
+- [Learning Periodic Tasks from Human Demonstrations (2021)](https://yjy0625.github.io/projects/viptl/) ([Tweet](https://twitter.com/yjy0625/status/1445473084648034311))
+- [Towards Learning to Play Piano with Dexterous Hands and Touch (2021)](https://arxiv.org/abs/2106.02040)
+- [Bridge Data: Boosting Generalization of Robotic Skills with Cross-Domain Datasets (2021)](https://arxiv.org/abs/2109.13396) ([Web](https://sites.google.com/view/bridgedata)) ([Tweet](https://twitter.com/chelseabfinn/status/1447755432714330114))
+- [dm_robotics](https://github.com/deepmind/dm_robotics) - Libraries, tools and tasks created and used at DeepMind Robotics.
+- [Robots Must Be Ephemeralized (2021)](https://evjang.com/2021/09/20/ephemeralization.html)
+- [Attention-driven Robotic Manipulation (ARM)](https://github.com/stepjam/ARM)
+- [PyTouch: A Machine Learning Library for Touch Processing (2021)](https://arxiv.org/abs/2105.12791) ([Code](https://github.com/facebookresearch/PyTouch))
+- [Implicit Behavioral Cloning (2021)](https://implicitbc.github.io/) ([Code](https://github.com/google-research/ibc))
+- [STORM](https://github.com/NVlabs/storm) - Stochastic Tensor Optimization for Robot Motion - A GPU Robot Motion Toolkit.
+- [Geometry-ware multi-task policy can not only manipulate 100+ objects but also outperform single-task RL experts](https://twitter.com/pathak2206/status/1458883761555206149)
+- [SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation (2020)](https://sites.google.com/view/softgym/home) ([Code](https://github.com/Xingyu-Lin/softgym))
+- [Conference of Robotic Learning 2021](https://www.youtube.com/watch?v=7cQMaXlxIP4)
+- [RoboStack](https://robostack.github.io/) - Bundling of the Robot Operating System (ROS) by Open Robotics. ([Paper](https://arxiv.org/abs/2104.12910)) ([Tweet](https://twitter.com/soumithchintala/status/1460132259114192897))
+- [Everyday Robots](https://everydayrobots.com/) - Helper robots that learn. ([Tweet](https://twitter.com/maxbraun/status/1461728438130204676))
+- [Weekly Selection of Robot Videos](https://spectrum.ieee.org/video-friday-dronut)
+- [Robotics and Autonomous Systems Group](https://research.csiro.au/robotics/) ([GitHub](https://github.com/csiro-robotics))
+- [Rex](https://github.com/nicrusso7/rex-gym) - OpenAI Gym environments for an open-source quadruped robot (SpotMicro).
+- [robo-gym](https://github.com/jr-robotics/robo-gym) - Open source toolkit for Distributed Deep Reinforcement Learning on real and simulated robots.
+- [Neural-Control Family: What Deep Learning + Control Enables in the Real World (2021)](https://www.gshi.me/blog/NeuralControl/) ([Tweet](https://twitter.com/balajis/status/1463968367283367941))
+- [RPA Framework](https://github.com/robocorp/rpaframework) - Open-source libraries and tools for Robotic Process Automation (RPA).
+- [Xenobots: replicating living robots made from frog cells (2021)](https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce) ([HN](https://news.ycombinator.com/item?id=29389871))
+- [Beyond Pick-and-Place: Tackling Robotic Stacking of Diverse Shapes (2021)](https://arxiv.org/abs/2110.06192) ([Code](https://github.com/deepmind/rgb_stacking))
+- [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research.
+- [Research Notes on Humanoid Robots (2021)](https://liuliu.me/eyes/research-notes-on-humanoid-robots/)
+- [iGibson: A Simulation Environment to train Robots in Large Realistic Interactive Scenes](https://github.com/StanfordVL/iGibson) ([Web](http://svl.stanford.edu/igibson/))
+- [Ancient dreams of intelligent machines: 3,000 years of robots (2018)](https://www.nature.com/articles/d41586-018-05773-y)

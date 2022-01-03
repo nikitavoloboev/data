@@ -7,3 +7,4 @@ I use a few IFTTT triggers:
 ## Links
 
 - [Goodbye IFTTT (2020)](https://benjamincongdon.me/blog/2020/10/30/Goodbye-IFTTT/) ([HN](https://news.ycombinator.com/item?id=24943685))
+- [IFTTT Discord](https://discord.gg/ifttt)

@@ -48,3 +48,13 @@
 - [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX. ([HN](https://news.ycombinator.com/item?id=28219068)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/p6hsoh/p_appleneuralhash2onnx_reverseengineered_apple/))
 - [Haraka](https://github.com/kste/haraka) - Secure and efficient short-input hash function.
 - [borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing.
+- [Less Hashing, Same Performance: Building a Better Bloom Filter](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.2442&rep=rep1&type=pdf)
+- [Implementing Hash Tables in C (2021)](https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1) ([HN](https://news.ycombinator.com/item?id=28889442))
+- [pHash](https://github.com/aetilius/pHash) - Open source perceptual hash library. ([Web](https://www.phash.org/))
+- [Consistent Hashing for Dummies (2021)](https://www.franzoni.eu/consistent-hashing-for-dummies/)
+- [Meow Hash](https://mollyrocket.com/meowhash) ([HN](https://news.ycombinator.com/item?id=29038813))
+- [Poseidon Hash](https://www.poseidon-hash.info/) - ZK-friendly Hashing.
+- [Neptune](https://github.com/filecoin-project/neptune) - Rust implementation of the Poseidon hash function tuned for Filecoin.
+- [On the Optimal Time/Space Tradeoff for Hash Tables (2021)](https://arxiv.org/pdf/2111.00602.pdf)
+- [Hash collisions and their exploitations](https://github.com/corkami/collisions)
+- [Introducing Consistent Hashing (2020)](https://itnext.io/introducing-consistent-hashing-9a289769052e)

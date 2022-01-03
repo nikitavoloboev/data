@@ -24,3 +24,8 @@
 - [Free Food](https://freefood.is/) - Radically fair way to order from local restaurants. ([Code](https://github.com/noahlevenson/libfood)) ([Lobsters](https://lobste.rs/s/vhxlg5/decentralized_location_aware_p2p))
 - [Bring back menus, QR codes are terrible (2021)](https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html) ([HN](https://news.ycombinator.com/item?id=27671392))
 - [Restaurant workers quit at record rate (2021)](https://www.npr.org/2021/07/20/1016081936/low-pay-no-benefits-rude-customers-restaurant-workers-quit-at-record-rate) ([HN](https://news.ycombinator.com/item?id=27894640))
+- [Best Restaurants Guide](https://brguide.com/) - Top 1% of All Restaurants.
+- [Restaurant food supply digitized (2021)](https://twitter.com/patrick_oshag/status/1458955349734662152?s=20)
+- [Menu Cards](https://menu.cards/) - App to create QR Menu's.
+- [Hyphen](https://usehyphen.com/) - Put your kitchen operations on autopilot. ([Twitter](https://twitter.com/gethyphen))
+- [Understanding the Instant-Delivery Phenomenon (2021)](https://tanay.substack.com/p/understanding-the-instant-delivery)

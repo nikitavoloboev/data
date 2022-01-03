@@ -53,3 +53,14 @@
 - [Clamn](https://github.com/eashanhatti/clamn) - Functional systems language leveraging dependent types, partial evaluation, and data layout abstraction.
 - [TTstar](https://github.com/ziman/ttstar) - Dependently typed core calculus with erasure inference.
 - [staged](https://github.com/AndrasKovacs/staged) - Experimental staged language with dependent types.
+- [dfuzz](https://github.com/ejgallego/dfuzz) - Linear Dependent Types for Differential Privacy.
+- [datatt](https://github.com/mmcqd/datatt) - Implementation of a dependent type theory with user defined datatypes.
+- [Pompom](https://github.com/caotic123/PomPom-Language) - Dependently typed language for proofs that you can implement in one day. ([HN](https://news.ycombinator.com/item?id=28725803))
+- [Specification for Dependent Types in Haskell (Core)](https://github.com/sweirich/corespec)
+- [(2) Program Adverbs: Structures for Embedding Effectful Programs (2021)](https://lastland.github.io/media/papers/adverbs-preprint.pdf)
+- [Dependent Object Types (DOT)](https://github.com/namin/dot) - Formalization of the Dependent Object Types (DOT) calculus.
+- [Magma](https://github.com/blainehansen/magma) - Dependently-typed language. ([Lobsters](https://lobste.rs/s/upzwzj/magma_dependently_typed_language)) ([My Path to Magma (2021)](https://blainehansen.me/post/my-path-to-magma/))
+- [Formal Metatheory of Second-Order Abstract Syntax](https://www.cl.cam.ac.uk/~ds709/agda-soas/)
+- [Aya](https://github.com/aya-prover/aya-dev) - Programming language and a proof assistant designed for formalizing math and type-directed programming. ([Web](https://www.aya-prover.org/))
+- [tinka-hs](https://github.com/atennapel/tinka-hs) - Dependently typed programming language written in Haskell.
+- [Cedille](https://github.com/cedille/cedille) - Dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations. ([Web](https://cedille.github.io/))

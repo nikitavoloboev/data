@@ -9,7 +9,7 @@
 - [Shortcut Roulette](http://shortcutroulette.com/) - [HN thread](https://news.ycombinator.com/item?id=18492899).
 - [shcuts.app](https://shcuts.app) - Preview workflows created in Shortcuts on iOS. ([Code](https://github.com/pNre/shcuts.app))
 - [Shortcuts Archive by MacStories](https://www.macstories.net/shortcuts/)
-- [ScPL](https://editor.scpl.dev/) - Programming language for writing iOS Shortcuts in text. ([Code](https://github.com/pfgithub/scpl))
+- [ScPL](https://scpl.dev/) - Programming language for writing iOS Shortcuts in text. ([Code](https://github.com/pfgithub/scpl)) ([Editor](https://editor.scpl.dev/)) ([Discord](https://discord.com/invite/2qqfFKc))
 - [What's new in iOS 13 Shortcuts](https://www.reddit.com/r/shortcuts/comments/d62ovd/whats_new_in_ios_13_shortcuts/)
 - [JSBox demos](https://github.com/cyanzhong/xTeko)
 - [iOS Shortcuts: The Ultimate Guide for Resources, Examples, Libraries, Triggers, and More (2019)](https://thesweetsetup.com/ios-shortcuts-guide/)
@@ -25,3 +25,10 @@
 - [Extended Icons](https://extendedicons.com/) - Beaufitul Icons for Shortcuts.
 - [Creating a Siri Shortcut (2021)](https://www.swiftjectivec.com/create-a-siri-shortcut/)
 - [Scripting Shortcuts](https://github.com/mralexhay/ScriptingShortcuts) - Example project to demonstrate the new scripting capabilities of Shortcuts For Mac.
+- [Shortcuts for Mac: 27 of Our Favorite Third-Party Integrations (2021)](https://www.macstories.net/news/shortcuts-for-mac-27-of-our-favorite-third-party-integrations/)
+- [Building cross-platform shortcuts (2021)](https://sixcolors.com/post/2021/10/building-cross-platform-shortcuts/)
+- [Actions App](https://sindresorhus.com/actions) - Additional actions for the Shortcuts app. ([Code](https://github.com/sindresorhus/Actions))
+- [Run shortcuts from the Mac command line (2021)](https://sixcolors.com/post/2021/12/run-shortcuts-from-the-mac-command-line/)
+- [Shortcuts Alfred Workflow](https://github.com/alfredapp/shortcuts-workflow) - Run installled macOS shortcuts.
+- [python-shortcuts](https://github.com/alexander-akhmetov/python-shortcuts) - Create Siri Shortcuts with Python.
+- [Charty](https://chartyios.app/) - Create charts from Shortcuts.

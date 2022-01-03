@@ -1,9 +1,16 @@
 # C++
 
+## Notes
+
+- [C++ is a fucking nightmare. There's 5 ways to do everything, ie because of historical reasons. Endless rules about shit like coercions, etc etc.](https://twitter.com/AdamRackis/status/1441233740248719361)
+- [The popularity of C++ was definitely helped by the 'being wrong on the internet' effect. Every beginner programmer immediately thought they could do a better stdlib/macrothing/buildsystem because everything was wrong but you had the illusion YOU could do it right.](https://twitter.com/rikarends/status/1441675508757024768)
+
 ## Links
 
+- [C++ By Example](https://cppbyexample.com/)
+- [Draft C++ Standard: Contents](https://timsong-cpp.github.io/cppwp/) ([Code](https://github.com/timsong-cpp/cppwp))
 - [C++ resources](https://github.com/MattPD/cpplinks)
-- [Immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++.
+- [Immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++. ([Paper](https://dl.acm.org/doi/10.1145/3110260))
 - [C++ Build Process Explained](https://github.com/green7ea/cpp-compilation)
 - [IKOS](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 - [cget](https://github.com/pfultz2/cget) - C++ package retrieval.
@@ -25,7 +32,7 @@
 - [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://changkun.de/modern-cpp/en-us/00-preface/) ([Code](https://github.com/changkun/modern-cpp-tutorial))
 - [Cling](https://github.com/root-project/cling) - Interactive C++ Interpreter. ([Web](https://root.cern/cling/))
 - [Mesh](https://github.com/plasma-umass/Mesh) - Memory allocator that automatically reduces the memory footprint of C/C++ applications.
-- [Circle](https://github.com/seanbaxter/circle) - C++ Automation Language.
+- [Circle](https://github.com/seanbaxter/circle) - C++ Automation Language. ([Web](https://www.circle-lang.org/)) ([HN](https://news.ycombinator.com/item?id=28886876))
 - [CppCon 2019: Chandler Carruth “There Are No Zero-cost Abstractions” (2019)](https://www.youtube.com/watch?v=rHIkrotSwcc)
 - [Cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code.
 - [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)
@@ -62,7 +69,7 @@
 - [C++ Lifetime Profile: How It Plans to Make C++ Code Safer (2020)](https://pspdfkit.com/blog/2020/the-cpp-lifetime-profile/)
 - [Improving Compilation Time of C/C++ Projects (2020)](https://interrupt.memfault.com/blog/improving-compilation-times-c-cpp-projects)
 - [C++ revision changes (2020)](https://www.reddit.com/r/cpp/comments/f47x4o/202002_prague_iso_c_committee_trip_report_c20_is/)
-- [SWIG](https://github.com/swig/swig) - Software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
+- [SWIG](https://github.com/swig/swig) - Software development tool that connects programs written in C and C++ with a variety of high-level programming languages. ([Web](http://www.swig.org/))
 - [Move, simply (2020)](https://herbsutter.com/2020/02/17/move-simply/) ([HN](https://news.ycombinator.com/item?id=22349302))
 - [C++ Closure (2020)](https://leimao.github.io/blog/CPP-Closure/)
 - [Where to Get Started Learing C++ and What Resources to Use (2019)](https://shafik.github.io/c++/learning/2019/09/05/getting_started_learning_cpp.html)
@@ -118,7 +125,7 @@
 - [Software Transactional Memory in C++: pure functional approach](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525)
 - [Dependency Injection in C++ (2016)](https://vladris.com/blog/2016/07/06/dependency-injection-in-c.html)
 - [The C++ Bestiary (2017)](http://videocortex.io/2017/Bestiary/) - Compendium of Cryptic Characters.
-- [Data-Oriented Design book](https://www.dataorienteddesign.com/dodbook/) ([Review](https://gist.github.com/seece/25ed1b2108cf5782718b026382f2c52c)) ([Lobsters](https://lobste.rs/s/7jpgua/data_oriented_design_book_review))
+- [Data-Oriented Design Book](https://www.dataorienteddesign.com/dodbook/) ([Review](https://gist.github.com/seece/25ed1b2108cf5782718b026382f2c52c)) ([Lobsters](https://lobste.rs/s/7jpgua/data_oriented_design_book_review)) ([Contents](https://dataorienteddesign.com/dodbook/dodmain.html))
 - [Learning-based Memory Allocation for C++ Server Workloads (2020)](https://research.google/pubs/pub49008/)
 - [C++ Should Support JIT Compilation (2020)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1609r3.html)
 - [C++ Best Practices (2020)](https://leanpub.com/cppbestpractices) - 45ish Simple Rules with Specific Action Items for Better C++.
@@ -161,7 +168,7 @@
 - [clangd](https://github.com/clangd/clangd) - C++ Language server. Provides C++ IDE features to editors. ([Web](https://clangd.llvm.org/))
 - [30 Seconds Of Standard Template Library in C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [Core C++ 2020](https://corecpp.org/)
-- [xrepo](https://github.com/xmake-io/xrepo/) - Cross-platform C/C++ package manager based on Xmake. ([Lobsters](https://lobste.rs/s/8kiuad/modern_c_c_package_manager))
+- [xrepo](https://github.com/xmake-io/xrepo/) - Cross-platform C/C++ package manager based on Xmake. ([Lobsters](https://lobste.rs/s/8kiuad/modern_c_c_package_manager)) ([Web](https://xrepo.xmake.io/#/)) ([Repo](https://github.com/xmake-io/xmake-repo))
 - [Is the preprocessor still needed in C++? (2017)](https://foonathan.net/2017/05/preprocessor/) ([HN](https://news.ycombinator.com/item?id=25322891))
 - [C++ is not cross platform anymore (2019)](https://blog.noctua-software.com/cpp-is-not-cross-platform-anymore.html)
 - [Is C++ type-safe? (There’s two right answers) (2020)](https://davmac.wordpress.com/2020/12/13/is-c-type-safe-theres-two-right-answers/) ([Lobsters](https://lobste.rs/s/esfr31/is_c_type_safe_there_s_two_right_answers))
@@ -243,3 +250,41 @@
 - [Coercing deep const-ness (2021)](https://brevzin.github.io/c++/2021/09/10/deep-const/)
 - [A class without a copy constructor (2021)](https://quuxplusone.github.io/blog/2021/09/17/a-class-without-a-copy-constructor/)
 - [Easy Type-Safe Integer Types In C++ (2021)](https://jens.mooseyard.com/2021/09/16/easy-type-safe-integer-types-in-c-/) ([Lobsters](https://lobste.rs/s/dblu7i/easy_type_safe_integer_types_c))
+- [cel-cpp](https://github.com/google/cel-cpp) - Fast, portable, non-Turing complete expression evaluation (C++).
+- [C++ Roadmap](https://github.com/salmer/CppDeveloperRoadmap) - Дорожная карта по изучению языка C++ для чайников.
+- [High-performance garbage collection for C++ (2020)](https://v8.dev/blog/high-performance-cpp-gc)
+- [weggli](https://github.com/googleprojectzero/weggli) - Fast and robust semantic search tool for C and C++ codebases. Designed to help security researchers identify interesting functionality in large codebases.
+- [[History of C++] Templates: from C-style macros to concepts (2021)](https://belaycpp.com/2021/10/01/history-of-c-templates-from-c-style-macros-to-concepts/)
+- [The genesis of casting (2021)](https://belaycpp.com/2021/10/14/history-of-c-the-genesis-of-casting/)
+- [Implementing Useful Algorithms in C++ (2020)](https://www.amazon.com/dp/B08PXHJCXY) ([Code](https://github.com/dkedyk/ImplementingUsefulAlgorithms))
+- [Borrowing Trouble: The Difficulties Of A C++ Borrow-Checker (2021)](https://docs.google.com/document/d/e/2PACX-1vSt2VB1zQAJ6JDMaIA9PlmEgBxz2K5Tx6w2JqJNeYCy0gU4aoubdTxlENSKNSrQ2TXqPWcuwtXe6PlO/pub) ([Lobsters](https://lobste.rs/s/7832sw/borrowing_trouble_difficulties_c_borrow))
+- [In C++, is empty() faster than comparing the size with zero? (2021)](https://lemire.me/blog/2021/10/26/in-c-is-empty-faster-than-comparing-the-size-with-zero/) ([HN](https://news.ycombinator.com/item?id=29010864))
+- [C++ Teaching Manifesto](https://github.com/jcelerier/cpp-teaching-manifesto)
+- [C++ Coroutines Do Not Spark Joy (2021)](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/) ([HN](https://news.ycombinator.com/item?id=29064233))
+- [uftrace](https://github.com/namhyung/uftrace) - Function graph tracer for C/C++/Rust. ([Web](https://uftrace.github.io/slide/#1))
+- [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/) ([Reddit](https://www.reddit.com/r/rust/comments/qlycje/move_semantics_c_vs_rust/))
+- [celtera](https://celtera.dev/) - Boutique c++ consulting. ([GitHub](https://github.com/celtera))
+- [C++ Tip of The Week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week)
+- [Embracing Modern C++ Safely Book (2021)](https://www.informit.com/store/embracing-modern-c-plus-plus-safely-9780137380350) ([Tweet](https://twitter.com/supahvee1234/status/1458808300569567236))
+- [{fmt} Formatting & Printing C++ Library Cheat Sheet](https://hackingcpp.com/cpp/libs/fmt.html) ([Tweet](https://twitter.com/hackingcpp/status/1458904364362485769))
+- [Hacking C++](https://hackingcpp.com/index.html) - Learn Contemporary C++ // code examples, concise explanations and infographics. ([Twitter](https://twitter.com/hackingcpp))
+- [Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming Book (2021)](https://link.springer.com/book/10.1007/978-3-662-62996-3) ([Code](https://github.com/ckormanyos/real-time-cpp))
+- [easy_profiler](https://github.com/yse/easy_profiler) - Lightweight profiler library for c++.
+- [Virtual inheritance in C++ (2021)](https://mariusbancila.ro/blog/2021/11/16/virtual-inheritance-in-c/)
+- [I want to show a thing (C++ to machine code) (2021)](https://www.bitsnbites.eu/i-want-to-show-a-thing-cpp-code-generation/)
+- [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+- [C++ Python-like Decorators](https://github.com/TheMaverickProgrammer/C-Python-like-Decorators) - How to write decorator functions in modern C++.
+- [An 'Attempt' to avoid C++ exceptions (2021)](https://genodians.org/nfeske/2021-11-26-attempt-no-exceptions)
+- [Modern C++ command line tool template](https://github.com/demidko/utility)
+- [Software Tools in C++](https://www.jezuk.co.uk/tags/software-tools-in-c++.html) ([HN](https://news.ycombinator.com/item?id=29412246))
+- [pinned_vec - invalidating iterator invalidation](https://wheybags.com/blog/pinned.html) ([Lobsters](https://lobste.rs/s/xdmqk8/pinned_vec_invalidating_iterator))
+- [Introduction to fibers in c++ (2019)](https://romange.com/2018/12/15/introduction-to-fibers-in-c-/)
+- [The Evolutions of Lambdas in C++14, C++17 and C++20 (2021)](https://www.fluentcpp.com/2021/12/13/the-evolutions-of-lambdas-in-c14-c17-and-c20/) ([HN](https://news.ycombinator.com/item?id=29537660))
+- [BRiCk](https://github.com/bedrocksystems/BRiCk) - Formalization of C++ for verification purposes.
+- [Thread Safety in C++ and Rust (2021)](https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html) ([HN](https://news.ycombinator.com/item?id=29608552))
+- [Using C Libraries in your Modern C++ Embedded Project - Michael Caisse (2021)](https://www.youtube.com/watch?v=Ototzy-nP4M)
+- [Flawfinder](https://github.com/david-a-wheeler/flawfinder) - Simple program that scans C/C++ source code and reports potential security flaws.
+- [The Usual Arithmetic Confusions (2021)](https://shafik.github.io/c++/2021/12/30/usual_arithmetic_confusions.html)
+- [The Evolution of Functions in Modern C++ (2022)](https://mariusbancila.ro/blog/2022/01/01/the-evolution-of-functions-in-modern-cpp/)
+- [C++ at the end of 2021](https://www.cppstories.com/2021/cpp-status-2021/)
+- [C++ Stories](https://www.cppstories.com/) - Modern C++, news reports, tools, and more.

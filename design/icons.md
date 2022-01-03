@@ -26,7 +26,7 @@
 - [Streamline](https://streamlineicons.com/) - World’s largest icon pack. ([Streamline symbols in VS Code](https://www.streamlinehq.com/dsp)) ([App](https://app.streamlineicons.com/home))
 - [7 Principles of Icon Design (2020)](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2) ([HN](https://news.ycombinator.com/item?id=22364230))
 - [Iconic Icons: Designing the World of Windows (2020)](https://medium.com/microsoft-design/iconic-icons-designing-the-world-of-windows-5e70e25e5416)
-- [css.gg](https://css.gg/) - Minimalistic icon library Designed by code. Customizable & Retina-Ready icons — entirely built in CSS. ([Code](https://github.com/astrit/css.gg))
+- [css.gg](https://css.gg/) - Minimalistic icon library Designed by code. Customizable & Retina-Ready icons — entirely built in CSS. ([Code](https://github.com/astrit/css.gg)) ([Why & How I built css.gg](https://dev.to/astrit/why-how-did-i-build-500-css-only-icons-library-a-life-story-34on))
 - [Heroicons](https://heroicons.dev/) - Set of free MIT-licensed high-quality SVG icons for UI development. ([Code](https://github.com/tailwindlabs/heroicons))
 - [Glyphfinder](https://www.glyphfinder.com/) - Missing character search for designers, developers and writers.
 - [Shape](https://shape.so/) - 4300+ Customizable, animated icons & illustrations exportable to code.
@@ -81,7 +81,7 @@
 - [Sensa Emoji](https://sensa.co/emoji/) - Free, vector, and open-source emoji set.
 - [Twemoji](https://twemoji.twitter.com/) - Twitter’s open source emoji.
 - [SF Symbols](https://developer.apple.com/sf-symbols/) - Apple offers 2,400 icons for free. ([HN](https://news.ycombinator.com/item?id=26484456))
-- [Iconic](https://iconic.app/) - Free pixel-perfect icons. ([Code](https://github.com/Make-Lemonade/iconicicons))
+- [Iconic](https://iconic.app/) - Free pixel-perfect icons. ([Code](https://github.com/Make-Lemonade/iconicicons)) ([Twitter](https://twitter.com/theiconicapp))
 - [VK Icons](https://vkcom.github.io/icons/) - SVG icons to use with React. ([Code](https://github.com/VKCOM/icons))
 - [Icônes](https://icones.js.org/) - Icon Explorer with Instant searching. ([Code](https://github.com/antfu/icones))
 - [Iconify](https://github.com/iconify/iconify) - Universal icon framework. ([Web](https://iconify.design/))
@@ -93,3 +93,15 @@
 - [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components on-demand universally.
 - [Fontaudio](https://github.com/fefanto/fontaudio) - Icon toolkit for audio developers.
 - [Font-GIS](https://github.com/Viglino/font-gis) - Icon font set for use with GIS and spatial analysis tools. ([Web](https://viglino.github.io/font-gis/))
+- [Meteocons](https://basmilius.github.io/weather-icons/) - Free to use animated weather icons. ([Code](https://github.com/basmilius/weather-icons))
+- [425k Favicons Analyzed](https://iconmap.io/) ([HN](https://news.ycombinator.com/item?id=28933391))
+- [Free Favicon Maker](https://formito.com/tools/favicon) - Create SVG & PNG favicon in seconds.
+- [Journey with Icons Continues (2021)](https://antfu.me/posts/journey-with-icons-continues)
+- [Iconsax React](https://iconsax-react.pages.dev/) ([Code](https://github.com/rendinjast/iconsax-react))
+- [codicon](https://microsoft.github.io/vscode-codicons/dist/codicon.html) - Icon font for Visual Studio Code. ([Code](https://github.com/microsoft/vscode-codicons))
+- [The App Icon Book](https://www.appiconbook.com/)
+- [IcoMoon](https://icomoon.io/) - Icon Font & SVG Icon Sets. ([Code](https://github.com/Keyamoon/IcoMoon-Free))
+- [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web..
+- [FlagKit for React](https://github.com/umidbekk/react-flag-kit)
+- [Designing the Finder App Icon with Photoshop (2021)](https://www.youtube.com/watch?v=8nP5GgJ5CXg)
+- [NeXTSpirit, high-res NeXTSTEP Icons for macOS](http://galgot.free.fr/wordpress/?p=1380) ([HN](https://news.ycombinator.com/item?id=29543027))

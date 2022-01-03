@@ -1,5 +1,9 @@
 # [Speech recognition](https://github.com/daanzu/kaldi-active-grammar)
 
+## Notes
+
+- [Voice assistants don't seem to stick for most people is that they're actually command line interfaces, but even less discoverable because they don't provide any visible feedback at all.](https://twitter.com/simonw/status/1474418620625084420)
+
 ## Links
 
 - [HN: Facebook open-sources a speech-recognition system and a machine learning library (2018)](https://news.ycombinator.com/item?id=18736116)
@@ -48,7 +52,7 @@
 - [Common Voice](https://commonvoice.mozilla.org/en) - Mozilla's initiative to help teach machines how real people speak.
 - [FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement (2021)](https://arxiv.org/abs/2010.15508) ([Code](https://github.com/haoxiangsnr/FullSubNet))
 - [DeepSpeech2 in PyTorch using PyTorch Lightning](https://github.com/SeanNaren/deepspeech.pytorch)
-- [Speech and Language Processing Book (2020)](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf) - Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition.
+- [Speech and Language Processing Book (2021)](https://web.stanford.edu/~jurafsky/slp3/) - Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. ([2020 Version](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf))
 - [voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux. ([Web](https://voice2json.org/))
 - [wav2vec Unsupervised: Speech recognition without supervision (2021)](https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/)
 - [Online Speech recognition using RNN-Transducer](https://github.com/theblackcat102/edgedict)
@@ -67,3 +71,24 @@
 - [Open Speech Corpora](https://github.com/coqui-ai/open-speech-corpora) - List of accessible speech corpora for ASR, TTS, and other Speech Technologies.
 - [An Overview of Multi-Task Learning in Speech Recognition (2020)](http://jrmeyer.github.io/asr/2020/03/21/overview-mtl-in-asr.html)
 - [Coqui Inference Engine](https://github.com/coqui-ai/inference-engine) - Library for efficiently deploying speech models.
+- [PDF to Speech](https://github.com/CypherousSkies/pdf-to-speech) - Deep-learning powered accessibility application which turns PDFs into audio files.
+- [ASV-Subtools](https://github.com/Snowdar/asv-subtools) - Open Source Tools for Speaker Recognition.
+- [VoiceFixer](https://github.com/haoheliu/voicefixer) - General Speech Restoration.
+- [speechmetrics](https://github.com/aliutkus/speechmetrics) - Wrapper around speech quality metrics MOSNet, BSSEval, STOI, PESQ, SRMR, SISDR.
+- [Silero VAD](https://github.com/snakers4/silero-vad) - Pre-trained enterprise-grade Voice Activity Detector, Language Classifier and Spoken Number Detector.
+- [A New AI Lexicon: Voice (2021)](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-voice-340316c30d87) - The Legacies and Limits of Automated Voice Analysis.
+- [Octopus](https://github.com/Picovoice/octopus) - On-device speech-to-index engine powered by deep learning.
+- [Open Audio Search](https://github.com/openaudiosearch/openaudiosearch) - Full text search engine with automatic speech recognition for podcasts.
+- [HuBERT: How to Apply BERT to Speech, Visually Explained (2021)](https://jonathanbgn.com/2021/10/30/hubert-visually-explained.html)
+- [Happy Scribe](https://www.happyscribe.com/) - Audio Transcription & Video Subtitles.
+- [Speech Recognition Papers](https://github.com/wenet-e2e/speech-recognition-papers)
+- [Steerable discovery of neural audio effects (2021)](https://arxiv.org/abs/2112.02926) ([Code](https://github.com/csteinmetz1/steerable-nafx))
+- [audapolis](https://github.com/audapolis/audapolis) - Editor for spoken-word media with transcription.
+- [Shennong](https://github.com/bootphon/shennong) - Python toolbox for speech features extraction.
+- [Paderbox](https://github.com/fgnt/paderbox) - Collection of utilities for audio / speech processing.
+- [Icefall](https://github.com/k2-fsa/icefall) - Speech recognition recipes using k2. ([Docs](https://icefall.readthedocs.io/en/latest/))
+- [k2](https://github.com/k2-fsa/k2) - FSA/FST algorithms, differentiable, with PyTorch compatibility.
+- [ViSQOL (Virtual Speech Quality Objective Listener)](https://github.com/google/visqol) - Objective, full-reference metric for perceived audio quality.
+- [Espresso](https://github.com/freewym/espresso) - Fast End-to-End Neural Speech Recognition Toolkit.
+- [UniSpeech - Large Scale Self-Supervised Learning for Speech](https://github.com/microsoft/UniSpeech)
+- [NISQA: Speech Quality and Naturalness Assessment](https://github.com/gabrielmittag/NISQA)

@@ -1,9 +1,13 @@
 # History
 
+[Dan Carlin's Hardcore History podcast](https://overcast.fm/itunes173001861/dan-carlins-hardcore-history) is great.
+
 ## Notes
 
 - [If we've learned one thing from the last 2,500 years of human history, it's that all progress out of humanity's default state of misery and despair comes from being able to freely think, write, and argue.](https://twitter.com/APompliano/status/1399406777406472194)
 - [The past does not repeat itself, but it rhymes. - Mark Twain](https://news.ycombinator.com/item?id=27421527)
+- [Who controls the past, controls the future. Who controls the present, controls the past.](https://www.reddit.com/r/worldnews/comments/q3v419/university_of_hong_kong_orders_removal_of/)
+- [The idea of "return to tradition" is mostly fake. It's like getting back w an ex expecting that it will be the same. It's impossible to return to the past, the only way out is forward. We're not returning, we're forging a new, better future.](https://twitter.com/Pavel_Asparagus/status/1469380704802942977)
 
 ## Links
 
@@ -116,7 +120,7 @@
 - [What's your favorite piece of obsolete technology? (2021)](https://twitter.com/theavalkyrie/status/1383092894551117839)
 - [Протесты немецких женщин на Розенштрассе](https://twitter.com/elitablog/status/1384253519918637061)
 - [Exclusive Photos Inside the Chernobyl Nuclear Power Plant (2021)](https://petapixel.com/2021/04/24/exclusive-photos-inside-the-chernobyl-nuclear-power-plant/)
-- [What John von Neumann Did at Los Alamos (2020)](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
+- [What John von Neumann Did at Los Alamos (2020)](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html) ([HN](https://news.ycombinator.com/item?id=28673376))
 - [Books to understand Middle East better (2021)](https://twitter.com/brianleroux/status/1393588109514731522)
 - [Why Civilization Is Older Than We Thought (2021)](https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/)
 - [Why Some Old Computers are Interesting](http://hccc.org.uk/retro/retro.html)
@@ -138,3 +142,29 @@
 - [29 incredible books about the past (2021)](https://twitter.com/landforce/status/1434543804921516034)
 - [One Woman’s Mission to Rewrite Nazi History on Wikipedia (2021)](https://www.wired.com/story/one-womans-mission-to-rewrite-nazi-history-wikipedia/) ([Tweet](https://twitter.com/tqbf/status/1437145477389111296))
 - [How factories were made safe (2021)](https://rootsofprogress.org/history-of-factory-safety) ([HN](https://news.ycombinator.com/item?id=28504316))
+- [History of Botswana, where human life began](https://twitter.com/VodkaPolitics/status/1441767278664617985)
+- [Are there more surviving ancient writings in Greek or Latin? (2021)](https://talesoftimesforgotten.com/2021/09/25/are-there-more-surviving-ancient-writings-in-greek-or-latin/) ([HN](https://news.ycombinator.com/item?id=28662809))
+- [The Scholar's Stage](https://scholars-stage.org/) - Place to discuss the intersections of history, politics, culture, behavioral science, and strategic thought—often with a focus on East and Southeast Asian affairs.
+- [Why are old things beautiful and new things ugly? (2015)](https://carcinisation.com/2015/04/01/the-fifteen-fundamental-properties/) ([Tweet](https://twitter.com/literalbanana/status/1445784214838730758))
+- [Trends and fluctuations in the severity of interstate wars (2018)](https://www.science.org/doi/10.1126/sciadv.aao3580)
+- [«Отец кристаллов», на долгие годы забытый на родине: история польского учёного, ускорившего цифровую революцию (2021)](https://tjournal.ru/stories/451043-otec-kristallov-na-dolgie-gody-zabytyy-na-rodine-istoriya-polskogo-uchenogo-uskorivshego-cifrovuyu-revolyuciyu)
+- [Human History Gets a Rewrite (2021)](https://www.theatlantic.com/magazine/archive/2021/11/graeber-wengrow-dawn-of-everything-history-humanity/620177/) ([HN](https://news.ycombinator.com/item?id=28908960))
+- [Evidence for European presence in the Americas in AD 1021](https://www.nature.com/articles/s41586-021-03972-8) ([HN](https://news.ycombinator.com/item?id=28934530)) ([Reddit](https://www.reddit.com/r/science/comments/qc3xn7/vikings_discovered_america_500_years_before/))
+- [Apprentice to Genius: The Making of a Scientific Dynasty by Robert Kanigel (1993)](https://www.goodreads.com/book/show/532944.Apprentice_to_Genius)
+- [The Gold Standard and the Great Depression (1997)](https://www.nber.org/papers/w6060) ([HN](https://news.ycombinator.com/item?id=29003199))
+- [Our ancestors may not have been rich, but they had an abundance of leisure](https://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html) ([HN](https://news.ycombinator.com/item?id=29050351))
+- [Outline of history - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_history)
+- [The Myth of the West I (2021)](https://clerestory.netlify.app/west/myth-1/)
+- [History Matters - YouTube](https://www.youtube.com/channel/UC22BdTgxefuvUivrjesETjg)
+- [Oil, Power, and War: A Dark History by Matthieu Auzanneau (2015)](https://www.goodreads.com/book/show/42527868-oil-power-and-war)
+- [Sergey Radchenko Twitter](https://twitter.com/DrRadchenko) - Writes about history.
+- [Эпичная История - YouTube](https://www.youtube.com/c/%D0%AD%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/videos)
+- [Humanizing Hitler - What Downfall is Really About (Film Analysis)](https://www.youtube.com/watch?v=uI5ZsEy8ASg)
+- [Cold War Lessons and Fallacies for US-China Relations Today (2020)](https://www.tandfonline.com/doi/abs/10.1080/0163660X.2020.1850406?journalCode=rwaq20#.YZq9-uBiJqI.twitter)
+- [Cocaine Paraphernalia Ads in the 70s](https://rarehistoricalphotos.com/cocaine-paraphernalia-ads-1970s/) ([HN](https://news.ycombinator.com/item?id=29316180))
+- [Rare Historical Photos](https://rarehistoricalphotos.com/)
+- [Antigone](https://antigonejournal.com/helps/) - Open-access resources for the Classics-keen and curious. ([Tweet](https://twitter.com/AntigoneJournal/status/1442242509258825729))
+- [Science History Institute](https://www.sciencehistory.org/)
+- [German Portraits / Photos from the Second World War](https://www.reddit.com/r/GermanWW2photos/)
+- [Feature History - YouTube](https://www.youtube.com/channel/UCHdluULl5c7bilx1x1TGzJQ)
+- [A History of Black Print (2020)](https://ilovetypography.com/2020/07/11/black-print-first-african-america-printer-publishers/) ([HN](https://news.ycombinator.com/item?id=29757121))

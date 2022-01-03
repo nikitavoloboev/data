@@ -29,7 +29,7 @@
 - [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
 - [Ingestion Data Mapping Language](http://idml.io/)
 - [The reference implementation of IDML for the JVM](https://github.com/IDML/idml)
-- [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python data analysis toolkit. ([Ongoing list of pandas quirks](https://github.com/chiphuyen/just-pandas-things)) ([Manual](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf)) ([HN](https://news.ycombinator.com/item?id=28096493))
+- [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python data analysis toolkit. ([Ongoing list of pandas quirks](https://github.com/chiphuyen/just-pandas-things)) ([Manual](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf)) ([HN](https://news.ycombinator.com/item?id=28096493)) ([Pandas Cookbook](https://github.com/jvns/pandas-cookbook))
 - [Programming Language Support for Data-intensive Applications meeting (2019)](https://github.com/avsm/shonan-143)
 - [Datasette](https://github.com/simonw/datasette) - Open source multi-tool for exploring and publishing data. ([Web](https://datasette.io/)) ([datasette-graphql](https://github.com/simonw/datasette-graphql)) ([Running Datasette on DigitalOcean App Platform](https://til.simonwillison.net/til/til/digitalocean_datasette-on-digitalocean-app-platform.md)) ([Interesting ideas in Datasette](https://simonwillison.net/2018/Oct/4/datasette-ideas/)) ([HN](https://news.ycombinator.com/item?id=25385296))
 - [Weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications.
@@ -51,7 +51,7 @@
 - [Monument](https://www.monument.ai/) - High-productivity toolkit for predictions. AutoML for time series on any desktop, laptop or server.
 - [Numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM. ([5 minute guide](https://numba.pydata.org/numba-doc/dev/user/5minguide.html)) ([Web](http://numba.pydata.org/))
 - [What's your typical data pipeline in a small company? (2019)](https://www.reddit.com/r/datascience/comments/dge7wh/whats_your_typical_data_pipeline_in_a_small/)
-- [dbt](https://www.getdbt.com/) - Data build tool. Analytics engineering workflow. ([Code](https://github.com/fishtown-analytics/dbt)) ([Docs](https://docs.getdbt.com/))
+- [dbt](https://www.getdbt.com/) - Data build tool. Analytics engineering workflow. ([Code](https://github.com/fishtown-analytics/dbt)) ([Docs](https://docs.getdbt.com/)) ([fal - Run python scripts directly from dbt](https://github.com/fal-ai/fal))
 - [Introducing dbt + Materialize (2021)](https://materialize.com/introducing-dbt-materialize/) ([HN](https://news.ycombinator.com/item?id=26306861))
 - [Apache Airflow](https://github.com/apache/airflow) - Platform to programmatically author, schedule, and monitor workflows. ([Tutorial](https://github.com/tuanavu/airflow-tutorial)) ([Kedro-Airflow - Makes it easy to deploy Kedro projects to Airflow.](https://github.com/quantumblacklabs/kedro-airflow)) ([Airflow 2.0](http://airflow.apache.org/blog/airflow-two-point-oh-is-here/)) ([HN](https://news.ycombinator.com/item?id=25457876)) ([Introduction to Apache Airflow (2021)](https://khashtamov.com/en/introduction-to-apache-airflow/)) ([Customizing Airflow: Beyond Boilerplate Settings](https://tech.marksblogg.com/install-and-configure-apache-airflow.html))
 - [Overview of Popular Open Source Big Data Technologies (2018)](https://andygrove.io/overview_of_popular_open_source_big_data_technologies/)
@@ -74,7 +74,7 @@
 - [Ask HN: What does your BI stack look like? (2019)](https://news.ycombinator.com/item?id=21513566)
 - [Easy Data Transform](https://www.easydatatransform.com/) - Transform Your Data Without Programming. ([HN](https://news.ycombinator.com/item?id=21165736))
 - [Prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-- [Dagster](https://github.com/dagster-io/dagster) - Python library for building data applications: ETL, ML, Data Pipelines, and more. ([Dagster: The Data Orchestrator](https://www.dagster.io/blog/dagster-the-data-orchestrator)) ([Lobsters](https://lobste.rs/s/v7ws9l/dagster_data_orchestrator))
+- [Dagster](https://dagster.io/) - Data orchestrator for machine learning, analytics, and ETL. ([Dagster: The Data Orchestrator](https://www.dagster.io/blog/dagster-the-data-orchestrator)) ([Lobsters](https://lobste.rs/s/v7ws9l/dagster_data_orchestrator)) ([Code](https://github.com/dagster-io/dagster)) ([Tweet](https://twitter.com/schrockn/status/1453827850021130242))
 - [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
 - [An Introduction To Data Science On The Linux Command Line (2019)](https://blog.robertelder.org/data-science-linux-command-line/) ([HN](https://news.ycombinator.com/item?id=21605077))
 - [How to analyse 100 GB of data on your laptop with Python (2019)](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
@@ -119,7 +119,7 @@
 - [Data Science Ontology](https://www.datascienceontology.org/) - Knowledge base about data science.
 - [Narrator](https://www.narrator.ai/) - Data modeling platform built on a single table. ([HN](https://news.ycombinator.com/item?id=24640540))
 - [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) - Implementation of the data pipeline which consumes the latest news from RSS Feeds and makes them available for users via handy API.
-- [Hex Technologies](https://hex.tech/) - Turn your notebooks into collaborative, sharable data apps and stories. No more loose CSVs, chart screenshots, or stale decks.
+- [Hex Technologies](https://hex.tech/) - Collaborative data workspace that makes it easy to go from idea to analysis to sharing. Work in SQL and Python notebooks, collaborate live, and publish interactive data apps anyone can use. ([Twitter](https://twitter.com/_hex_tech)) ([Hex 2.0](https://hex.tech/blog/hex-two-point-oh)) ([Tweet](https://twitter.com/_hex_tech/status/1445796778868023296))
 - [News Aggregator from Scratch in 2 Weeks (2020)](https://danlark.org/2020/07/31/news-aggregator-from-scratch-in-2-weeks/)
 - [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)
 - [Nemo: Data discovery at Facebook (2020)](https://engineering.fb.com/data-infrastructure/nemo/) ([Tweet](https://twitter.com/fulhack/status/1314997524336439296))
@@ -148,7 +148,7 @@
 - [5th International Summer School on Data Science (2020)](https://sites.google.com/view/ssdatascience2020) ([Code](https://github.com/SSDS-Croatia/SSDS-2020))
 - [Scalable Data Science](https://lamastex.github.io/scalable-data-science/) - Course sets in big data Using Apache Spark over databricks and their mathematical, statistical and computational foundations using SageMath. ([Code](https://github.com/lamastex/scalable-data-science))
 - [Datatap](https://datatap.dev/) - Free user-friendly platform for visual data management. ([Code](https://github.com/zensors/datatap-python))
-- [Data Carpentry](https://datacarpentry.org/) - Develops and teaches workshops on the fundamental data skills needed to conduct research.
+- [Data Carpentry](https://datacarpentry.org/) - Develops and teaches workshops on the fundamental data skills needed to conduct research. ([GitHub](https://github.com/datacarpentry))
 - [Data Carpentry Lessons](https://datacarpentry.org/lessons/)
 - [Doing Symbolic Math with SymPy (2020)](https://lwn.net/Articles/840986/) ([HN](https://news.ycombinator.com/item?id=25683420))
 - [How To Become a Data Engineer (2021)](https://khashtamov.com/en/how-to-become-a-data-engineer/) ([HN](https://news.ycombinator.com/item?id=25728198))
@@ -198,3 +198,31 @@
 - [Slight](https://www.slight.co/) - Bridging the interaction between data teams and domain experts.
 - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) ([Code](https://github.com/data-8/textbook))
 - [Berkeley library for introductory data science](https://github.com/data-8/datascience)
+- [Is BI dead? – On dismantling data's ship of Theseus (2021)](https://benn.substack.com/p/is-bi-dead) ([HN](https://news.ycombinator.com/item?id=28580298))
+- [Kedro Community](https://github.com/quantumblacklabs/kedro-community) - Examples of data science projects created with Kedro.
+- [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
+- [atoti](https://www.atoti.io/) - Free Python BI analytics platform. ([GitHub](https://github.com/atoti)) ([Notebooks](https://github.com/atoti/notebooks))
+- [Tably](https://tably.com/) - Lightning fast exploration, search and analytics, with an intuitive UI and supercharged formula.
+- [OpenRefine](https://openrefine.org/) - Free, open source power tool for working with messy data and improving it. ([Code](https://github.com/OpenRefine/OpenRefine))
+- [Authenticated Full-Stack Streamlit](https://github.com/sapped/Authenticated-Full-Stack-Streamlit)
+- [Kaggle Solutions](https://farid.one/kaggle-solutions/) - Comprehensive List of Kaggle Solutions and Ideas. ([Code](https://github.com/faridrashidi/kaggle-solutions))
+- [Knowledge Repo](https://github.com/airbnb/knowledge-repo) - Curated knowledge sharing platform for data scientists and other technical professions.
+- [Book: The Science of Science — Dashun Wang (2021)](https://www.dashunwang.com/book/the-science-of-science)
+- [An introduction to Monzo’s data stack (2021)](https://medium.com/data-monzo/an-introduction-to-monzos-data-stack-827ae531bc99)
+- [Evidence](https://www.evidence.dev/) - Enables analysts to deliver a polished business intelligence system using SQL and markdown. ([Code](https://github.com/evidence-dev/evidence))
+- [Future of Data Work: Collaboration and No Limits (2021)](https://observablehq.com/@observablehq/future-of-data-work-collaboration-and-no-limits)
+- [Rows](https://rows.com/) - Spreadsheet where teams work faster.
+- [RDMkit](https://rdmkit.elixir-europe.org/) - Online guide containing good data management practices applicable to research projects from the beginning to the end. ([Code](https://github.com/elixir-europe/rdmkit))
+- [Select Star](https://www.selectstar.com/) - Data discovery made easy.
+- [Data Engineering Principles - Cogent](https://cogent.co/blog/data-engineering-principles/)
+- [Data Science at the Command Line Book (2021)](https://datascienceatthecommandline.com/2e/) - Obtain, Scrub, Explore, and Model Data with Unix Power Tools.
+- [DrivenData](https://www.drivendata.org/) - Data science competitions for social good. ([Winners Code](https://github.com/drivendataorg/competition-winners))
+- [Tabby Data](https://www.tabbydata.com/) - No-fuss data warehouse for startups. ([SQL Assistant Demo](https://app.tabbydata.com/sql-assistant-demo)) ([HN](https://news.ycombinator.com/item?id=29581376))
+- [Data Engineering Zoomcamp (2022)](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- [Julia-Python-R / Plots.jl / Data 101 Cheat Sheets](https://github.com/sswatson/cheatsheets)
+- [If I had to start learning Data Science again, how would I do it? (2020)](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93)
+- [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)
+- [Data Science Stack - Cookiecutter](https://github.com/jgoerner/data-science-stack-cookiecutter) - Cookiecutter template to launch an awesome dockerized Data Science toolstack (incl. Jupyster, Superset, Postgres, Minio, AirFlow & API Star).
+- [Human-first AI](https://www.h1st.ai/) - Power Tools for AI Engineers With Deadlines. ([Code](https://github.com/h1st-ai/h1st))
+- [Data Science from Scratch Book](https://github.com/joelgrus/data-science-from-scratch)
+- [Corteza](https://cortezaproject.org/) - Open-source Low-Code Platform and Salesforce alternative. ([GitHub](https://github.com/cortezaproject)) ([Server Code](https://github.com/cortezaproject/corteza-server))

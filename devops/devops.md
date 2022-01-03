@@ -6,6 +6,8 @@
 
 ## Links
 
+- [Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP? (2021)](https://news.ycombinator.com/item?id=29251343)
+- [DevOps, SRE, and Platform Engineering (2021)](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
 - [We're Reddit's Infrastructure team, ask us anything! (2018)](https://www.reddit.com/r/sysadmin/comments/9x577m/were_reddits_infrastructure_team_ask_us_anything/)
 - [Vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. ([Web](https://vercel.com/dashboard))
 - [Now Examples](https://github.com/vercel/now-examples) - Examples of Now deployments you can use.
@@ -71,7 +73,7 @@
 - [CloudARK](https://cloudark.io/) - Platform-As-Code. ([GitHub](https://github.com/cloud-ark))
 - [Meltano](https://meltano.com/) - ELT for the DataOps era.
 - [DigitalOcean Agent](https://github.com/digitalocean/do-agent) - Collects system metrics from DigitalOcean Droplets.
-- [Pulumi](https://www.pulumi.com/) - Modern Infrastructure as Code. Any cloud, any language. ([Code](https://github.com/pulumi/pulumi)) ([HN](https://news.ycombinator.com/item?id=22866714)) ([HN 2](https://news.ycombinator.com/item?id=26880935))
+- [Pulumi](https://www.pulumi.com/) - Modern Infrastructure as Code. Any cloud, any language. ([Code](https://github.com/pulumi/pulumi)) ([HN](https://news.ycombinator.com/item?id=22866714)) ([HN 2](https://news.ycombinator.com/item?id=26880935)) ([Awesome](https://github.com/pulumiverse/awesome-pulumi))
 - [Piku](https://github.com/piku/piku) - Tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. ([GitHub](https://github.com/piku))
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Fleet](https://fleetdm.com/) - Open source device management. ([Code](https://github.com/fleetdm/fleet))
@@ -90,3 +92,46 @@
 - [DevOps Engineer Crash Course (2021)](https://matduggan.com/devops-engineer-crash-course/)
 - [Artillery.io](https://artillery.io/) - Modern load testing & smoke testing for SRE and DevOps. ([Code](https://github.com/artilleryio/artillery))
 - [Top-10 talks of SREcon18 Europe (2018)](https://nick.groenen.me/posts/srecon18emea-top10/)
+- [The DevOps: A Concise Understanding to the DevOps Philosophy and Science. (Technical Report) (2021)](https://www.osti.gov/biblio/1785164)
+- [Cachito](https://github.com/release-engineering/cachito) - Caching service for source code and external dependencies.
+- [envsafe](https://github.com/KATT/envsafe) - Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Fancy self-hosted monitoring tool. ([HN](https://news.ycombinator.com/item?id=28809501))
+- [Ask HN: Solo-preneurs, how do you DevOps to save time? (2021)](https://news.ycombinator.com/item?id=28838132)
+- [How to Use Hydra as your Deployment Source of Truth (2021)](https://determinate.systems/posts/hydra-deployment-source-of-truth) ([Lobsters](https://lobste.rs/s/ntm3gd/how_use_hydra_as_your_deployment_source))
+- [What to Ask in an SRE Technical Interview (2021)](https://mt165.co.uk/blog/sre-interview-questions/)
+- [DevOps Newsletters of Note](https://devopsnewsletters.com/)
+- [batou](https://github.com/flyingcircusio/batou) - Helps you to automate your application deployments using Python DSL. ([Docs](https://batou.readthedocs.io/en/stable/))
+- [Smallstep](https://smallstep.com/) - Automated Certificate Management for DevOps. ([GitHub](https://github.com/smallstep))
+- [Learn-by-Doing Platforms for Dev, DevOps, and SRE Folks (2021)](https://iximiuz.com/en/posts/learn-by-doing-platforms/)
+- [StackStorm](https://stackstorm.com/) - Platform for integration and automation across services and tools, taking actions in response to events. ([Code](https://github.com/StackStorm/st2))
+- [Grafana OnCall](https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/) - Easy-to-use on-call management tool. ([HN](https://news.ycombinator.com/item?id=29164386))
+- [Ironic](https://github.com/openstack/ironic) - Service for managing and provisioning Bare Metal servers.
+- [Scaled Agile DevOps Maturity Framework](https://scaledagiledevops.com/) - Enterprise transformation without the risk of culture change.
+- [Plunder](https://github.com/plunder-app/plunder) - Single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier.
+- [Equinix Metal Images](https://github.com/packethost/packet-images)
+- [Cloud Droid](https://github.com/cloud-sniper/cloud-droid) - Cloud Incident and Response Simulations.
+- [The Reports of Devops's death are greatly exaggerated (2021)](https://adnaan.badr.in/blog/2021/01/25/the-reports-of-devopss-death-are-greatly-exaggerated/)
+- [hcltm](https://github.com/xntrik/hcltm) - Threat Modeling with HCL.
+- [Hyperping](https://hyperping.io/) - Uptime monitoring with public status pages.
+- [hashi-up](https://github.com/jsiebens/hashi-up) - Bootstrap HashiCorp Consul, Nomad, or Vault over SSH < 1 minute.
+- [faas-nomad](https://github.com/jsiebens/faas-nomad) - OpenFaas provider for Nomad.
+- [A Multi Cluster and Multi Orchestrator home lab (2021)](https://johansiebens.dev/posts/2021/05/a-multi-cluster-and-multi-orchestrator-home-lab/)
+- [DevOps in academic research (2021)](https://mattsegal.dev/devops-academic-research.html)
+- [Hetzner Pulumi Intro (2021)](https://shibumi.dev/posts/hetzner-pulumi-intro/)
+- [The Operator Pattern in Nomad (2021)](https://andydote.co.uk/2021/11/22/nomad-operator-pattern/)
+- [Dev Lake](https://github.com/merico-dev/lake) - Brings all your DevOps data into one practical, personalized, extensible view. Ingest, analyze, and visualize data.
+- [Fastly Resource Provider](https://github.com/pulumi/pulumi-fastly)
+- [OOPS (Learning from the incident you didn't have) writeup template (2021)](https://surfingcomplexity.blog/2021/11/21/oops-writeups/)
+- [Awesome DevOps](https://github.com/wmariuss/awesome-devops)
+- [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps)
+- [Common Infrastructure Errors I've Made (2021)](https://matduggan.com/mistakes/) ([Lobsters](https://lobste.rs/s/5r5fsa/don_t_make_my_mistakes_common)) ([HN](https://news.ycombinator.com/item?id=29434740))
+- [Lightweight Experiment & Resource Monitoring](https://github.com/mle-infrastructure/mle-monitor)
+- [Howie: The Post-Incident Guide](https://www.jeli.io/howie-the-post-incident-guide/)
+- [Jeli](https://www.jeli.io/) - Dedicated Incident Analysis Platform.
+- [Zero](https://getzero.dev/) - Opinionated infrastructure to take you from idea to production on day one. ([Code](https://github.com/commitdev/zero))
+- [ClusterDev](https://cluster.dev/) - Cloud Management and Automation Framework. ([Code](https://github.com/shalb/cluster.dev))
+- [Deployment from Scratch](https://deploymentfromscratch.com/) - Complete guide to web application deployment. ([HN](https://news.ycombinator.com/item?id=29540808))
+- [Awesome Event IDs](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
+- [Cloudkeeper](https://github.com/someengineering/cloudkeeper) - “housekeeping for clouds” - find leaky resources, manage quota limits, detect drift and clean up.
+- [Atomist](https://atomist.com/) - Keep Your Containerized Applications Safe. ([GitHub](https://github.com/atomist))
+- [UpCheck](https://github.com/NorfairKing/upcheck) - Declarative checker for website uptime to run continuously for monitoring.

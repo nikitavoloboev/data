@@ -50,3 +50,19 @@
 - [Functional Linear Algebra in Agda](https://github.com/ryanorendorff/functional-linear-algebra) - Formalizing linear algebra in Agda by representing matrices as functions.
 - [agdarsec](https://github.com/gallais/agdarsec) - Total Parser Combinators in Agda.
 - [Higher Categories in Agda](https://github.com/TOTBWF/agda-higher-categories) - Experiments in Higher Category Theory in Agda.
+- [Programming with evidence](https://github.com/umazalakain/agda-bcam) - Tutorial series introducing Agda.
+- [Agda Formalization](https://github.com/glangmead/formalization)
+- [Semisimplicial types in Agda](https://github.com/tcampion/Semisimplicial)
+- [A Type and Scope Safe Universe of Syntaxes with Binding: Their Semantics and Proofs (2018)](https://gallais.github.io/pdf/icfp18.pdf) ([Agda Library](https://github.com/gallais/generic-syntax))
+- [Tic Tac Toe, formalized in Agda](https://github.com/TOTBWF/agda-tic-tac-toe)
+- [Intrinsically-Typed Definitional Interpreters à la Carte](https://github.com/casvdrest/composable-semantics)
+- [ModTT in Agda](https://github.com/HarrisonGrodin/agda-modtt)
+- [Generic](https://github.com/effectfully/Generic) - Library for doing generic programming in Agda.
+- [Agda Playground](https://github.com/oisdk/agda-playground)
+- [Formalizing polynomials in groupoids](https://github.com/smimram/fibred-polynomials)
+- [Formalization in Agda of the Symmetry book](https://github.com/UniMath/SymmetryBookFormalization)
+- [Generic parallel algorithms in Agda](https://github.com/conal/agda-generic-parallel)
+- [Agda formalisation of second-order abstract syntax](https://github.com/DimaSamoz/agda-soas)
+- [Agda CheatSheet](https://github.com/alhassy/AgdaCheatSheet) - Basics of the dependently-typed functional language Agda.
+- [Agda Grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-agda)
+- [Agda-routing](https://github.com/MatthewDaggitt/agda-routing) - Agda library for reasoning about asynchronous iterative algorithms and network routing problems.

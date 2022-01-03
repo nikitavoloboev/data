@@ -38,3 +38,18 @@
 - [Awesome Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics)
 - [Illustrated Glossary of Organic Chemistry](http://www.chem.ucla.edu/~harding/IGOC/IGOC.html) ([Common names](http://www.chem.ucla.edu/~harding/IGOC/C/common_name.html))
 - [Solugen](https://www.solugen.bio/) - Make chemicals from sugar, not petroleum. Carbon negative chemicals. ([Twitter](https://twitter.com/solugen)) ([Tweet](https://twitter.com/sethbannon/status/1435963898402725900))
+- [3D Periodic Table](https://periodic.donghwi.dev/) ([Code](https://github.com/suhdonghwi/3d-periodic-table))
+- [The Nobel Prize in Chemistry 2021](https://www.nobelprize.org/prizes/chemistry/2021/press-release/) ([HN](https://news.ycombinator.com/item?id=28771079))
+- [OpenChem](https://github.com/Mariewelt/OpenChem) - Deep learning toolkit for Computational Chemistry with PyTorch backend. ([Docs](https://mariewelt.github.io/OpenChem/html/index.html))
+- [How to grow sodium chloride crystals at home](https://crystalverse.com/sodium-chloride-crystals/) ([HN](https://news.ycombinator.com/item?id=29255511))
+- [Structure of benzene is fascinating](https://twitter.com/johncarlosbaez/status/1461684340111429637)
+- [Compositional Thermostatics (2021)](https://johncarlosbaez.wordpress.com/2021/11/22/compositional-thermostatics/) ([Tweet](https://twitter.com/johncarlosbaez/status/1462765291113488391))
+- [The Effect of Noise on the Performance of Variational Algorithms for Quantum Chemistry (2021)](https://medium.com/qiskit/the-effect-of-noise-on-the-performance-of-variational-algorithms-for-quantum-chemistry-9cac4526abc1)
+- [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - Tool for retrosynthetic planning. ([Docs](https://molecularai.github.io/aizynthfinder/))
+- [Surge](https://github.com/StructureGenerator/surge) - Fast Open-Source Chemical Graph Generator.
+- [Quantum Chemistry Done Wrong: One-Electron Systems](https://github.com/lisyarus/chembook)
+- [Directional Message Passing on Molecular Graphs via Synthetic Coordinates](https://www.in.tum.de/daml/synthetic-coordinates/) ([Code](https://github.com/TUM-DAML/synthetic_coordinates))
+- [NequIP](https://github.com/mir-group/nequip) - Code for building E(3)-equivariant interatomic potentials.
+- [Pushing the frontiers of density functionals by solving the fractional electron problem (2021)](https://www.science.org/doi/10.1126/science.abj6511) ([Tweet](https://twitter.com/pfau/status/1469024580853547014))
+- [pyscf](https://github.com/pyscf/pyscf) - Python module for quantum chemistry.
+- [Matthew Carey Lea and the Origins of Mechanochemistry (2021)](https://www.sciencehistory.org/distillations/matthew-carey-lea-and-the-origins-of-mechanochemistry)

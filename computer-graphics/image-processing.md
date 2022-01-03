@@ -34,8 +34,8 @@
 - [GPR (General Purpose Raw image format)](https://github.com/gopro/gpr) - 12-bit raw image coding format that is based on Adobe DNG standard.
 - [photon](https://github.com/silvia-odwyer/photon) - Rust/WebAssembly image processing library.
 - [imageproc](https://github.com/image-rs/imageproc) - Image processing operations as rust library.
-- [Thumbor](https://github.com/thumbor/thumbor) - Open-source smart on-demand image cropping, resizing and filters.
-- [ImageMagick](https://imagemagick.org/index.php) - Convert, Edit, or Compose Bitmap Images. ([WASM implementation](https://github.com/dlemstra/Magick.WASM)) ([Deno port](https://github.com/leonelv/deno-imagemagick)) ([Code](https://github.com/ImageMagick/ImageMagick))
+- [Thumbor](https://github.com/thumbor/thumbor) - Open-source smart on-demand image cropping, resizing and filters. ([Minimal Compact thumbor](https://github.com/MinimalCompact/thumbor))
+- [ImageMagick](https://imagemagick.org/index.php) - Convert, Edit, or Compose Bitmap Images. ([WASM implementation](https://github.com/dlemstra/Magick.WASM)) ([Deno port](https://github.com/leonelv/deno-imagemagick)) ([Code](https://github.com/ImageMagick/ImageMagick)) ([HN](https://news.ycombinator.com/item?id=29408341))
 - [Leptonica](https://github.com/DanBloomberg/leptonica) - Open source library containing software that is broadly useful for image processing and image analysis applications. ([Web](http://leptonica.org/))
 - [libspng](https://github.com/randy408/libspng) - C library for reading and writing Portable Network Graphics (PNG) format files with a focus on security and ease of use.
 - [Visualizing and Understanding JPEG Format](https://github.com/corkami/formats/blob/master/image/jpeg.md) ([HN](https://news.ycombinator.com/item?id=23787674))
@@ -119,3 +119,32 @@
 - [Rembg](https://github.com/danielgatis/rembg) - Tool to remove images background.
 - [IPX](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on sharp and libvips.
 - [ImageScript](https://github.com/matmen/ImageScript) - Zero-dependency JavaScript image manipulation.
+- [How to use a serverless function as image/caching proxy (2021)](https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/)
+- [Microlink Cards](https://cards.microlink.io/editor) - Easiest way to create and share dynamic images at scale. ([Code](https://github.com/microlinkhq/cards))
+- [Why Your Website Should Use Dithered Images (2020)](https://endtimes.dev/why-you-should-dither-images/) ([Lobsters](https://lobste.rs/s/cxxfyx/why_your_website_should_use_dithered))
+- [BackgroundRemover.app](https://backgroundremover.app/) - Command line tool to remove background from video and image. ([Code](https://github.com/nadermx/backgroundremover))
+- [Using Modern Image Formats: AVIF And WebP (2021)](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)
+- [didder](https://github.com/makeworld-the-better-one/didder) - Extensive, fast, and accurate command-line image dithering tool.
+- [GL Transitions](https://gl-transitions.com/) - Powerful and easy to learn language, perfect for image effects. ([Code](https://github.com/gl-transitions/gl-transitions))
+- [Media Utility Scripts](https://github.com/cacheflowe/media-utility-scripts) - Bash scripts for common conversion tasks on multimedia (video, image, audio) files.
+- [CleanUp.pictures](https://cleanup.pictures/) - Free web application that lets you quickly cleanup or remove objects in any image. ([Code](https://github.com/initml/cleanup.pictures)) ([Tweet](https://twitter.com/cyrildiagne/status/1450762117255204866))
+- [AVIF Converter](https://avif.io/) - Convert all images to AVIF for free. No data is sent. ([Code](https://github.com/justinschmitz97/avif.io))
+- [Online GIF Tools](https://onlinegiftools.com/)
+- [Rustagram](https://github.com/ha-shine/rustagram) - Instagram filters in Rust.
+- [Image File Formats That Didn’t Make It (2021)](https://tedium.co/2021/11/10/10-forgotten-image-formats/) ([HN](https://news.ycombinator.com/item?id=29175656))
+- [Imagetools](https://github.com/JonasKruckenberg/imagetools) - Toolbox of easy-to-use import directives that transform and optimize your images at compile-time.
+- [Why Your Website Should Not Use Dithered Images (2021)](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
+- [Digital Image Processing, 4th Edition Book (2018)](https://www.pearson.com/us/higher-education/program/Gonzalez-Digital-Image-Processing-4th-Edition/PGM241219.html) ([Python Code](https://github.com/merveenoyan/Digital_Image_Processing_Python))
+- [One of these JPEGs is not like the other (2021)](https://blog.benjojo.co.uk/post/not-all-jpegs-are-the-same) ([HN](https://news.ycombinator.com/item?id=29276300))
+- [Pixel It](https://github.com/giventofly/pixelit) - Create pixel art from an image. ([Web](https://giventofly.github.io/pixelit/))
+- [Datamosh](https://github.com/Datamosh-js/datamosh) - Mess around with image data using buffers, create some interesting & artistic results.
+- [Imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go. ([HN](https://news.ycombinator.com/item?id=29514322))
+- [Issues with Cloudflare Images (2021)](https://blog.klungo.no/2021/12/07/cloudflare-images-has-a-lot-of-issues/) ([HN](https://news.ycombinator.com/item?id=29474743))
+- [Aydin](https://github.com/royerlab/aydin) - User-friendly, Fast, Self-Supervised and Unsupervised Image Denoising for All.
+- [PyTorch structural similarity (SSIM) loss](https://github.com/Po-Hsun-Su/pytorch-ssim)
+- [Image Optimizer](https://github.com/antonreshetov/image-optimizer) - Free and open source tool for optimizing images and vector graphics.
+- [Glitch Image Generator](https://glitchyimage.com/) ([Code](https://github.com/adamfuhrer/glitch-image))
+- [Awesome Visible Watermark Removal](https://github.com/bcmi/Awesome-Visible-Watermark-Removal)
+- [fpng](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader.
+- [A new protocol and tool for PNG file attachments (2022)](https://nullprogram.com/blog/2021/12/31/) ([HN](https://news.ycombinator.com/item?id=29753186))
+- [img-diff-js](https://github.com/reg-viz/img-diff-js) - Node.js library to compare 2 images without native libs.

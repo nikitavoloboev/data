@@ -25,3 +25,10 @@ Some interesting words I like:
 - [Why is English so weirdly different from other languages?](https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages)
 - [The History of English Podcast](https://historyofenglishpodcast.com/) - The Spoken History of a Global Language. ([Twitter](https://twitter.com/englishhistpod))
 - [Typos, tricks and misprints](https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent) ([HN](https://news.ycombinator.com/item?id=28018293))
+- [Politics and the English Language (1946)](https://gutenberg.net.au/ebooks02/0200151h.html) ([HN](https://news.ycombinator.com/item?id=29031529)) ([Other UI](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/?curius=737))
+- [Weird English (2021)](https://www.nationalreview.com/magazine/2021/11/29/weird-english/) ([HN](https://news.ycombinator.com/item?id=29246987))
+- [Moby Thesaurus](https://moby-thesaurus.org/) - Largest English-language thesaurus. ([Code](https://github.com/words/moby))
+- [an-array-of-english-words](https://github.com/words/an-array-of-english-words) - List of ~275,000 English words as JS package.
+- [Using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary) ([HN](https://news.ycombinator.com/item?id=29734242))
+- [What’s your favorite word to use, that most people don’t use?](https://twitter.com/businessbarista/status/1476670975257239562)
+- [What’s the Difference Between American English and British English? (2022)](http://backreaction.blogspot.com/2022/01/whats-difference-between-american.html) ([HN](https://news.ycombinator.com/item?id=29766446))

@@ -10,6 +10,7 @@
 - Types are types and propositions are propositions; types come from programming languages, and propositions from logic, and they seem to have no relation to each other.
 - [Types are specifications of behavior.](https://www.youtube.com/watch?v=LE0SSLizYUI)
 - Roughly speaking, a [type is a specification of its possible values](https://github.com/skaslev/why-types/blob/master/why-types.pdf).
+- [Generics should not force you to mention irrelevant information.](https://twitter.com/BrandonBloom/status/1459657997555097601)
 
 ## Links
 
@@ -33,7 +34,7 @@
 - [Lambdas are Codatatypes (2019)](http://blog.ielliott.io/lambdas-are-codatatypes/)
 - [On the Relationship Between Static Analysis and Type Theory (2019)](https://semantic-domain.blogspot.com/2019/08/on-relationship-between-static-analysis.html) ([Lobsters](https://lobste.rs/s/irow0u/on_relationship_between_static_analysis))
 - [Timeline for Logic, λ-Calculus, and Programming Language Theory (2012)(http://fm.csl.sri.com/SSFT15/Timeline.pages.pdf) ([HN](https://news.ycombinator.com/item?id=20860888))
-- [Types and Programming Languages book](https://www.cis.upenn.edu/~bcpierce/tapl/) ([Code](https://github.com/lazear/types-and-programming-languages))
+- [Types and Programming Languages Book (2002)](https://www.cis.upenn.edu/~bcpierce/tapl/) ([Code](https://github.com/lazear/types-and-programming-languages)) ([Book Page](https://mitpress.mit.edu/books/types-and-programming-languages)) ([HN](https://news.ycombinator.com/item?id=29182480))
 - [Type Theory and Formal Proof book](https://www.cambridge.org/core/books/type-theory-and-formal-proof/0472640AAD34E045C7F140B46A57A67C)
 - [qtt](https://github.com/LightAndLight/qtt) - Quantitative Type Theory implementation.
 - [Normalization by evaluation for Martin-Löf Type Theory with dependent records](https://github.com/brendanzab/rust-nbe-for-mltt)
@@ -147,4 +148,26 @@
 - [type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms in Haskell.
 - [Type system innovation propagation (2021)](https://doma.dev/blog/innovation-propagation/)
 - [Shape Irrelevant Reflection in Type Theory](https://github.com/TheoWinterhalter/sirtt)
-- [Human Aspects of Types and Reasoning Assistants (2021)](https://2021.splashcon.org/home/hatra-2021#program)
+- [Human Aspects of Types and Reasoning Assistants (2021)](https://2021.splashcon.org/home/hatra-2021#program) ([Article](https://alarmingdevelopment.org/?p=1557))
+- [Where Do Type Systems Come From?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/) ([HN](https://news.ycombinator.com/item?id=28702933))
+- [Pure type system implemented in OCaml](https://github.com/mmcqd/pure)
+- [Type Systems Toy Implementations](https://github.com/andreypopp/type-systems)
+- [First Steps in Synthetic Tait Computability: The Objective Metatheory of Cubical Type Theory (2021)](https://www.jonmsterling.com/pdfs/sterling:2021:thesis.pdf)
+- [Topoi — inside and out (2020)](https://blog.jonmsterling.com/Topoi-inside-and-out-7b0b86e39eeb43aeaee3c3af1dd91f2a)
+- [How to define a PER model (2020)](https://blog.jonmsterling.com/How-to-define-a-PER-model-95a7413ee12444f899536f67bbaea28e)
+- [Grothendieck's Pursuing Stacks (1983)](https://agrothendieck.github.io/divers/ps.pdf) ([Code](https://github.com/thescrivener/PursuingStacks))
+- [Should Type Theory replace Set Theory as the Foundation of Mathematics (2021)](https://arxiv.org/abs/2111.06368)
+- [Implementation of a Zeilberger-style linear type theory](https://github.com/Trebor-Huang/agda-linear)
+- [TypicalMath](https://github.com/Trebor-Huang/typical-math) - General-purpose type theory and proof checker generator.
+- [Proofs and Types (1990)](http://www.paultaylor.eu/~pt/stable/Proofs+Types)
+- [EUTYPES-TYPES 2020 - Abstracts](https://types2020.di.unito.it/abstracts/BookOfAbstractsTYPES2020.pdf) ([Tweet](https://twitter.com/mietek/status/1461734839061676032))
+- [The critical dimension as an invariant of Type III odometers (2013)](https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay/unsworks_12203/UNSWORKS)
+- [Introduction to Domain Theory](http://www.cs.nott.ac.uk/~pszgmh/domains.html)
+- [Brown Benchmark for Table Types](https://github.com/brownplt/B2T2)
+- [Cubical Type Theory (2021)](https://amelia.how/posts/cubical-type-theory.html)
+- [Hindley-Milner Type Inference: A Practical Example (2014)](https://pfudke.wordpress.com/2014/11/20/hindley-milner-type-inference-a-practical-example-2/)
+- [Learning resources for type inference (2021)](https://www.reddit.com/r/ProgrammingLanguages/comments/rk4qnp/learning_resources_for_type_inference/)
+- [Basic Polymorphic Typechecking](http://lucacardelli.name/Papers/BasicTypechecking.pdf)
+- [An accessible introduction to type theory and implementing a type-checker (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking/)
+- [Swapping arguments of variables in higher-order pattern unification](https://cstheory.stackexchange.com/questions/50914/swapping-arguments-of-variables-in-higher-order-pattern-unification)
+- [Linearity and Uniqueness: An Entente Cordiale (2022)](https://starsandspira.ls/docs/esop22-draft.pdf)

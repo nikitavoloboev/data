@@ -1,6 +1,14 @@
 # Investing
 
-I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebrokers.co.uk/en/home.php) & [Trading 212](https://www.trading212.com/).
+I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/nikita206). I also hold & stake [Solana](../databases/blockchain/solana.md).
+
+## Interesting ETFs
+
+- [VTI](https://finance.yahoo.com/quote/VTI/) - Vanguard Total Stock Market ETF.
+- [VOO](https://finance.yahoo.com/quote/VOO/) - Vanguard S&P 500 ETF.
+- [VWCE](https://finance.yahoo.com/quote/VWCE.DE/) - Vanguard FTSE All-World UCITS ETF USD Accumulation. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qv75by/investing_800_yearly_into_vusa_as_a_polish/))
+- [VBILX](https://finance.yahoo.com/quote/VBILX/) - Vanguard Intermediate-Term Bond Index Fund.
+- [List of some](https://twitter.com/levelsio/status/1278035707412520968)
 
 ## Notes
 
@@ -28,6 +36,8 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [VTWAX fund seems good](https://news.ycombinator.com/item?id=27747934)
 - [One of the best times to buy a stock is when a good company sells off on earnings due to investor overreaction. It requires a bit of digging and judgment to determine whether the selloff was justified or an overreaction, but it can be very profitable.](https://www.reddit.com/r/investing/comments/oz6a2y/trader_do_you_buy_stocks_right_after_a_large_drop/)
 - [You don’t get wealthy from “taking profit” every chance you get. You get wealthy by finding long term profitable companies that you buy in to and hold for years.](https://www.reddit.com/r/investing/comments/p0r3o4/time_to_take_aapl_gains_and_gtfo/)
+- [Wealthiest 10% of Americans own a record 89% of all U.S. stocks. Remember this next time a politician tries to point to the stock market as a sign of economic health.](https://twitter.com/JordanUhl/status/1454943968186097664)
+- [Always buy into a project and it’s fundamentals, ecosystem, growth potential. If the price goes up or down is irrelevant.](https://www.reddit.com/r/solana/comments/qlr599/how_you_decide_when_its_the_best_time_to_buy_sol/)
 
 ## Links
 
@@ -166,7 +176,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Historically it's way better to invest at market close than at market open, most gains occur overnight (2021)](https://www.reddit.com/r/investing/comments/lhtodm/historically_its_way_better_to_invest_at_market/)
 - [Investing 101: Risk by Chamath Palihapitiya (2020)](https://twitter.com/chamath/status/1308073763842351104)
 - [Buffett FAQ](http://buffettfaq.com/) - Compendium of Q&A sessions with Warren Buffett.
-- [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) - Awesome stock market terminal that has been developed for fun.
+- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Awesome stock market terminal that has been developed for fun.
 - [Are You Trading or Gambling? (2021)](https://investinglessons.substack.com/p/are-you-trading-or-gambling) ([HN](https://news.ycombinator.com/item?id=26283650))
 - [Investments you own that you believe have the highest chance of 10X'ing in 5-10 years (2021)](https://www.reddit.com/r/investing/comments/lu6i2t/investments_you_own_that_you_believe_have_the/)
 - [M1 Chart](https://m1chart.com/) - Stock market adjusted for the US-dollar money supply. ([HN](https://news.ycombinator.com/item?id=26128388))
@@ -209,3 +219,22 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [What are some high risk high reward stocks that could explode in the next couple years? (2021)](https://www.reddit.com/r/stocks/comments/pi34nx/what_are_some_high_risk_high_reward_stocks_that/)
 - [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars) - Market calendars to use with pandas for trading applications.
 - [exchange_calendars](https://github.com/gerrymanoim/exchange_calendars) - Calendars for various securities exchanges.
+- [Investments](https://github.com/KonishchevDmitry/investments) - Helps you with managing your investments.
+- [Cabal](https://getcabal.com/) - Help founders get more out of their investors and advisors. ([Twitter](https://twitter.com/GetCabal))
+- [Blankly](https://blankly.finance/) - Rapidly Build Quant Models Across Exchanges. ([Code](https://github.com/Blankly-Finance/Blankly)) ([GitHub](https://github.com/Blankly-Finance))
+- [Ask HN: How to start learning about investments (2021)](https://news.ycombinator.com/item?id=29056262)
+- [Goldman Sachs - Quantitative Strategies Research Notes](https://github.com/colejhudson/goldman-sachs-quantitative-strategies-research-notes)
+- [justETF](https://www.justetf.com/en/) - ETF portfolios made simple.
+- [Bankeronwheels.com](https://www.bankeronwheels.com/) - Index Investing for European and UK Investors. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qpeu1n/picking_a_bond_etf/))
+- [Ask HN: How do you find funds to invest in? (2021)](https://news.ycombinator.com/item?id=29161098)
+- [How to invest in ETFs w/ Cullen Roche (2021)](https://overcast.fm/+I6zEe-P5A)
+- [Understanding Candlestick Charts for Beginners (2015)](https://www.youtube.com/watch?v=1rwVV_8uUxc)
+- [Is Dollar-Cost Averaging Better Than Lump-Sum Investing? (2020)](https://www.youtube.com/watch?v=nCp2bZbaBdw)
+- [Portfolio Performance](https://www.portfolio-performance.info/en/) - Open source tool to calculate the overall performance of an investment portfolio - across all accounts. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qtc4p5/portfolio_tracker_for_degiro_users/))
+- [Arbitrage as a Shortest Path Problem (2021)](https://blog.skz.dev/arbitrage-as-a-shortest-path-problem)
+- [Stocketa](https://stocketa.com/) - Premium portfolio tracker for iOS. ([Twitter](https://twitter.com/StocketaApp))
+- [Degiro](https://www.degiro.com/) - Online Stock Trading. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qxc47l/summary_of_degiro_new_fee_schedule_from_20122021/))
+- [How ETFs work behind the scenes, rebalancing and preventing capital gains (2021)](https://www.reddit.com/r/investing/comments/qy7q2x/how_etfs_work_behind_the_scenes_rebalancing_and/)
+- [Portfolio Returns](https://github.com/ashchan/returns) - Financial app for macOS that helps you track your multiple investment or portfolios in one place.
+- [Cheapest apps to invest in S&P 500 (2021)](https://www.reddit.com/r/investing/comments/rol1ez/ive_got_10000_i_want_to_invest_in_the_sp_500_for/)
+- [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis) - Fully-fledged Fundamental Analysis package capable of collecting 20 years of Company Profiles, Financial Statements, Ratios and Stock Data of 20.000+ companies.

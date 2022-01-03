@@ -38,4 +38,21 @@
 - [The Fastest Way to Learn a New Language: The Video Game Map Theory (2021)](https://www.youtube.com/watch?v=3i1lNJPY-4Q)
 - [Forgetting My First Language (2021)](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language) ([HN](https://news.ycombinator.com/item?id=28411104))
 - [Speaking Latin (2021)](https://psyche.co/ideas/speaking-latin-brings-an-unmediated-thrill-to-the-classics) ([HN](https://news.ycombinator.com/item?id=28510232))
-- [All World Languages in One Visualization, By Native Speakers](https://www.visualcapitalist.com/a-world-of-languages/)
+- [All World Languages in One Visualization, By Native Speakers](https://www.visualcapitalist.com/a-world-of-languages/) ([Reddit](https://www.reddit.com/r/dataisbeautiful/comments/qqx55r/oc_looking_at_the_100_most_spoken_languages/)) ([Tweet](https://twitter.com/simongerman600/status/1460339351259422720))
+- [LanguageTool](https://languagetool.org/) - Online Grammar, Style & Spell Checker. ([Twitter](https://twitter.com/languagetool))
+- [How to Write a Spelling Corrector (2007)](http://norvig.com/spell-correct.html) ([In Go](https://github.com/montanaflynn/toy-spelling-corrector))
+- [PostgreSQL Translation Proxy](https://github.com/NikolayS/postgrest-translation-proxy) - PostgreSQL / PostgREST proxy to Google Translate API, with caching and multiphrase support.
+- [Divvun.org](https://divvun.org/) - Языковые инструменты для языков коренных народов и меньшинств. ([GitHub](https://github.com/divvun))
+- [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) ([HN](https://news.ycombinator.com/item?id=29002776))
+- [Gender in Latin and Beyond: A Philologist’s Take (2021)](https://antigonejournal.com/2021/10/gender-in-latin-and-beyond/) ([HN](https://news.ycombinator.com/item?id=29040746))
+- [Holmes](https://github.com/msg-systems/holmes-extractor) - Information extraction from English and German texts based on predicate logic.
+- [Unbabel](https://unbabel.com/) - Seamless Multilingual Translation Services.
+- [WantWords](https://wantwords.thunlp.org/) - Open-source online reverse dictionary. ([Code](https://github.com/thunlp/WantWords))
+- [Free Dictionary API](https://dictionaryapi.dev/) ([Code](https://github.com/meetDeveloper/freeDictionaryAPI))
+- [Sheldon](https://github.com/inaka/sheldon/) - Very Simple Erlang Spell Checker. ([Article](https://medium.com/erlang-battleground/sheldon-the-erlang-spell-checker-b5223d5f7b70))
+- [Learning with Texts](https://learningwithtexts.com/) - Free translation software.
+- [Trunk](https://github.com/theiceshelf/trunk) - Tool for learning new languages. It is inspired by Learning With Texts.
+- [DictPress](https://github.com/knadh/dictmaker) - Stand-alone, single-binary server application for building and publishing dictionary websites.
+- [Help Is This Arabic?](https://isthatarabic.com/) ([HN](https://news.ycombinator.com/item?id=29544990))
+- [typos](https://github.com/crate-ci/typos) - Source code spell checker.
+- [Does Not Translate](https://doesnottranslate.com/) - Concepts that don't easily translate to any other language. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/rudaxv/a_database_of_words_and_concepts_that_dont/))

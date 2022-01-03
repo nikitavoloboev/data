@@ -2,6 +2,7 @@
 
 ## Torrent sites
 
+- [The Pirate Bay](https://www.tpbproxypirate.com/)
 - [RuTracker](https://rutracker.org/forum/index.php)
 - [Torrent Paradise](https://torrent-paradise.ml/) - Decentralized DHT search site for IPFS. ([Code](https://github.com/urbanguacamole/torrent-paradise)) ([TUI Client](https://github.com/varbhat/torpar))
 - [What is the hottest general torrent site right now? (2018)](https://www.reddit.com/r/Piracy/comments/9vy0oe/what_is_the_hottest_general_torrent_site_right_now/)
@@ -65,3 +66,14 @@
 - [bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol) - Simple, robust, BitTorrent wire protocol implementation in Node.js.
 - [Exatorrent](https://github.com/varbhat/exatorrent) - BitTorrent Client written in Go. It can be run locally or be hosted in Remote Server with good resources to use that Server as SeedBox. ([HN](https://news.ycombinator.com/item?id=28301374))
 - [XD](https://github.com/majestrate/XD) - BitTorrent Client written in Go.
+- [dht](https://github.com/anacrolix/dht) - Used by anacrolix/torrent, and is intended for use as a library in other projects both torrent related and otherwise.
+- [Transmission Swift](https://github.com/jameshurst/Transmission-Swift) - Combine powered Transmission RPC API client.
+- [The High Seas](https://github.com/calpaterson/thehighseas) - Very straightforward BitTorrent tracker.
+- [aquatic](https://github.com/greatest-ape/aquatic) - Blazingly fast, multi-threaded BitTorrent tracker (UDP, HTTP, WebTorrent) written in Rust.
+- [mtorrent](https://github.com/nektro/mtorrent) - Totally configurable terminal torrent client.
+- [P2P file system of cortex full node](https://github.com/CortexFoundation/torrentfs)
+- [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - Simple, robust, BitTorrent DHT implementation.
+- [Decentralized, Mutable, Serverless Torrent Swarm Websites](https://github.com/publiusfederalist/federalist) ([HN](https://news.ycombinator.com/item?id=29513547))
+- [Tox](https://github.com/tox-rs/tox) - Implementation of toxcore in Rust. P2P, distributed, encrypted, easy to use DHT-based network.
+- ["Widevine Dump":Leaked Code Downloads HD Video from Disney+, Amazon, and Netflix (2021)](https://torrentfreak.com/widevine-dump-leaked-code-downloads-hd-video-from-disney-amazon-and-netflix-211227/) ([HN](https://news.ycombinator.com/item?id=29702110)) ([HN](https://news.ycombinator.com/item?id=29718556))
+- [Notflix](https://github.com/Bugswriter/notflix) - Shell script to search and stream torrent.

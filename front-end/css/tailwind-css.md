@@ -102,3 +102,23 @@
 - [tailwindcss-capsize](https://github.com/stormwarning/tailwindcss-capsize) - Tailwind CSS utility classes for trimming whitespace above & below capital letters.
 - [tailwind-merge](https://github.com/dcastil/tailwind-merge) - Utility function to efficiently merge Tailwind CSS classes in JS without style conflicts.
 - [Destack](https://destack-page.vercel.app/) - Build landing pages visually right in your Next.js project. Deploy them zero further configuration. ([Code](https://github.com/LiveDuo/destack))
+- [Most well-known sites you know of that use Tailwind CSS? (2021)](https://twitter.com/adamwathan/status/1441541303372693504)
+- [Tailory](https://rareblocks.xyz/) - Customize your website with rare, unique Tailwind components that are guaranteed to be different from the crowd. ([Twitter](https://twitter.com/_rareblocks))
+- [Wicked Blocks](https://wickedblocks.dev/) - Ready Made Tailwind CSS blocks, for your next project.
+- [Tailwind class madness. Never again. (2021)](https://itnext.io/tailwind-class-madness-never-again-75ec6ebfd3a0)
+- [Discord-Inspired Dashboard with Tailwind CSS](https://github.com/fireship-io/tailwind-dashboard)
+- [Goodbye CSS Modules, Hello TailwindCSS](https://www.polytomic.com/blog-posts/goodbye-css-modules-hello-tailwindcss) ([HN](https://news.ycombinator.com/item?id=29109881))
+- [artis3n.tailscale](https://github.com/artis3n/ansible-role-tailscale) - Ansible role to install and enable a Tailscale node.
+- [Create a Responsive Navbar using React and Tailwind (2021)](https://dev.to/franciscomendes10866/create-a-responsive-navbar-using-react-and-tailwind-3768)
+- [You don't need SVG! Creating animated loaders for content with Tailwind CSS (2021)](https://dev.to/koddr/you-dont-need-svg-creating-animated-loaders-for-content-with-tailwind-css-2cf0)
+- [People creating awesome Tailwind content (2021)](https://twitter.com/adamwathan/status/1460411877893287938)
+- [TailwindCSS Radix](https://github.com/ecklf/tailwindcss-radix) - TailwindCSS plugin that helps styling radix state.
+- [Tailwind TS Generator](https://github.com/mathieutu/tailwind-ts) - Generate Tailwind type from your own configuration.
+- [Tailwind CSS v3.0 (2021)](https://tailwindcss.com/blog/tailwindcss-v3) ([HN](https://news.ycombinator.com/item?id=29501110)) ([Tweet](https://twitter.com/tailwindcss/status/1469011535569821702))
+- [What's new in Tailwind CSS v3.0? (2021)](https://www.youtube.com/watch?v=mSC6GwizOag)
+- [tailwindui-crawler](https://github.com/kiliman/tailwindui-crawler) - Will crawl the tailwindui.com website and download all the components to the ./output folder.
+- [Effortless typography, even in dark mode — Tailwind CSS Typography v0.5 (2021)](https://www.youtube.com/watch?v=GEYkwfYytAM)
+- [Rebuilding iOS 15 with Tailwind CSS (2021)](https://www.youtube.com/watch?v=eSzNNYk7nVU)
+- [Animate CSS - Tailwind CSS Plugin](https://github.com/bentzibentz/tailwindcss-animate.css)
+- [Box Shadows for TailwindCSS](https://manuarora.in/boxshadows)
+- [Palette Generator and API for Tailwind CSS](https://tailwind.simeongriggs.dev/) ([Code](https://github.com/SimeonGriggs/tailwind-css-palette-generator)) ([Article](https://www.simeongriggs.dev/using-the-tailwind-css-palette-generator-and-api))

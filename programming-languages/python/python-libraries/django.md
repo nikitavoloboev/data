@@ -11,6 +11,7 @@
   - `./manage test -k path.to.test` = run specific test. can also run some function from the test inside the file with another `.`.
 - Migrate down/up: `./manage migrate <app> <migration-number>`
 - Make empty migration: `./manage makemigrations --empty <name-of-migration> <app>`
+- [Rewrote the Pegasus teams UI in HTMX and I gotta say I'm sold. You build an app in standard Django, add a few annotations, and then boom: SPA. The number of situations in which I'll reach for React by default just got chopped in half at least.](https://twitter.com/czue/status/1442446129065517056)
 
 ## Links
 
@@ -48,6 +49,7 @@
 - [Simple JWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt) - JSON Web Token authentication plugin for the Django REST Framework.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Generate real Swagger/OpenAPI 2.0 specifications from a Django Rest Framework API.
 - [Graphene-Django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
+- [Graphene-Django-Plus](https://github.com/0soft/graphene-django-plus) - Tools to easily create permissioned CRUD endpoints in graphene.
 - [Optimizing Postgres full text search in Django (2019)](https://hodovi.ch/blog/optimizing-postgres-full-text-search-django/)
 - [Understand Group by in Django with SQL (2020)](https://hakibenita.com/django-group-by-sql)
 - [Running Django + React service by Cloud Run (2020)](http://djkooks.github.io/gcp-django-deploy-cloudrun)
@@ -94,3 +96,28 @@
 - [Django Hijack](https://github.com/django-hijack/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
 - [django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
 - [Appliku Deploy](https://appliku.com/) - Server Management, designed specially for Django. ([HN](https://news.ycombinator.com/item?id=28468660))
+- [Type Check Your Django Application](https://kracekumar.com/post/type_check_your_django_app/)
+- [Hotwired/Turbo Django response helpers](https://github.com/hotwire-django/django-turbo-response)
+- [New Testing Features in Django 4.0 (2021)](https://adamj.eu/tech/2021/09/28/new-testing-features-in-django-4.0/)
+- [High Performance Django (2014)](https://lincolnloop.com/high-performance-django/)
+- [New Testing Features in Django 4.0 (2021)](https://adamj.eu/tech/2021/09/28/new-testing-features-in-django-4.0/)
+- [Model Bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django.
+- [The Decline of Django (2021)](https://www.david-dahan.com/blog/the-decline-of-django) ([HN](https://news.ycombinator.com/item?id=28863465))
+- [Profiling Django App](https://kracekumar.com/post/profiling_django/) ([Lobsters](https://lobste.rs/s/04c6zh/three_tools_profile_django_app))
+- [Reactor](https://github.com/edelvalle/reactor) - Phoenix LiveView but for Django.
+- [Observing a Django backend with Honeycomb.io (2020)](https://www.yanglinzhao.com/posts/using-honeycomb/)
+- [django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Postgres trigger support integrated with Django models.
+- [django-pghistory](https://github.com/Opus10/django-pghistory) - Provides automated and customizable history tracking for Django models using Postgres triggers.
+- [A complete guide to organizing settings in Django (2021)](https://apibakery.com/blog/django-settings-howto/) ([HN](https://news.ycombinator.com/item?id=29198346))
+- [Why I Run Django on Kubernetes as a One-Man SaaS (2021)](https://anthonynsimon.com/blog/tools-of-the-trade/)
+- [Django, HTMX and Alpine.js: Modern websites, JavaScript optional (2021)](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/) ([HN](https://news.ycombinator.com/item?id=29319034))
+- [django-fsm](https://github.com/viewflow/django-fsm) - Adds simple declarative state management for django models.
+- [Django APScheduler](https://github.com/jcass77/django-apscheduler) - Adds a lightweight wrapper around APScheduler. It enables storing persistent jobs in the database using Django's ORM.
+- [Swapper](https://github.com/openwisp/django-swappable-models) - Django Swappable Models.
+- [dj-stripe](https://github.com/dj-stripe/dj-stripe) - Django + Stripe Made Easy.
+- [The Definitive Guide to Celery and Django](https://testdriven.io/courses/django-celery/) ([Code](https://github.com/testdrivenio/django-celery-project))
+- [django-upgrade](https://github.com/adamchainz/django-upgrade) - Automatically upgrade your Django projects.
+- [Integrate Pydantic with Django and Django REST Framework (2021)](https://blog.yezz.me/blog/Integrate-Pydantic-with-Django-and-Django-REST-Framework)
+- [Database-backed Periodic Tasks](https://github.com/celery/django-celery-beat) - Celery Periodic Tasks backed by the Django ORM.
+- [Create Django App](https://github.com/imagineai/create-django-app)
+- [Django JWT Auth](https://github.com/webstack/django-jwt-auth) - JSON Web Token Authentication support for Django.

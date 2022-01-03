@@ -12,7 +12,7 @@
 - [BARE Message Encoding](https://baremessages.org/) - Simple binary representation for structured application data. ([Lobsters](https://lobste.rs/s/r9phjo/bare_message_encoding))
 - [Explaining text representation in computers (2020)](https://twitter.com/Cor3ntin/status/1277905449065553921)
 - [Text Encoding: The Thing You Were Trying to Avoid (2020)](https://pboyd.io/posts/text-encoding/)
-- [Amazon Ion](https://amzn.github.io/ion-docs/) - Richly-typed, self-describing, hierarchical data serialization format offering interchangeable binary and text representations. ([HN](https://news.ycombinator.com/item?id=23921610))
+- [Amazon Ion](https://amzn.github.io/ion-docs/) - Richly-typed, self-describing, hierarchical data serialization format offering interchangeable binary and text representations. ([HN](https://news.ycombinator.com/item?id=23921610)) ([HN](https://news.ycombinator.com/item?id=29284428))
 - [Unicode In Five Minutes (2013)](https://richardjharris.github.io/unicode-in-five-minutes.html)
 - [Unicode support. What does that actually mean? (2020)](https://boyter.org/posts/unicode-support-what-does-that-actually-mean/)
 - [Fast UTF-8 validation (2020)](https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/) ([HN](https://news.ycombinator.com/item?id=24839113)) ([Code](https://github.com/lemire/validateutf8-experiments))
@@ -33,3 +33,13 @@
 - [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797) ([HN](https://news.ycombinator.com/item?id=28145209))
 - [Entropy coding in Oodle Data: Huffman coding (2021)](https://fgiesen.wordpress.com/2021/08/30/entropy-coding-in-oodle-data-huffman-coding/)
 - [Fun with Morse Code](https://apfelmus.nfshost.com/articles/fun-with-morse-code.html)
+- [Latinendian vs Arabendian (2020)](https://theorangeduck.com/page/latinendian-arabendian)
+- [ICU - International Components for Unicode](https://icu.unicode.org/) ([Code](https://github.com/unicode-org/icu))
+- [ruststep](https://github.com/ricosjp/ruststep) - STEP toolkit for Rust.
+- [Overview of Serialization Technologies (2018)](https://indico.cern.ch/event/658060/contributions/2898569/attachments/1622526/2582399/pivarski-serialization.pdf)
+- [Substrait](https://substrait.io/) - Cross-Language Serialization for Relational Algebra. ([Code](https://github.com/substrait-io/substrait)) ([substrait-rs](https://github.com/andygrove/substrait-rs))
+- [OpenH264](https://github.com/cisco/openh264) - Open Source H.264 Codec.
+- [Unicode Normalization Forms: When ö ≠ ö (2021)](https://blog.opencore.ch/posts/unicode-normalization-forms/) ([HN](https://news.ycombinator.com/item?id=29751641))
+- [Planus](https://github.com/TethysSvensson/planus) - Alternative flatbuffer implementation.
+- [TinyCBOR](https://github.com/intel/tinycbor) - Concise Binary Object Representation (CBOR) Library.
+- [Cheat sheets for the Portable Document Format](https://github.com/gendx/pdf-cheat-sheets)

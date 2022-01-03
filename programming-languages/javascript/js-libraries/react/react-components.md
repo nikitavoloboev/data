@@ -46,7 +46,7 @@
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook cards loading).
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - Performant, flexible and extensible forms with easy to use validation.
 - [rest-hooks](https://github.com/coinbase/rest-hooks) - Delightful data fetching for React.
-- [Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React.
+- [Framer Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React. ([Web](https://www.framer.com/motion/)) ([Visual debugger for Framer Motion](https://github.com/siddharthkp/tracer-motion))
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text.
 - [Hooked-Form](https://github.com/JoviDeCroock/hooked-form) - Form library implemented with Hooks.
 - [stated-bean](https://github.com/mjolnirjs/stated-bean) - Light but scalable state management library with react hooks, inspired by unstated-next.
@@ -116,7 +116,7 @@
 - [FlexLayout](https://github.com/caplin/FlexLayout) - Multi-tab layout manager.
 - [Formik](https://github.com/formium/formik) - Build forms in React, without the tears. ([Formik vs Plain React for Forms – Worth it?](https://www.bitnative.com/2020/08/19/formik-vs-plain-react-for-forms-worth-it/)) ([Formik Devtools](https://github.com/petrenkoVitaliy/formik-devtools))
 - [FullCalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop JavaScript event calendar.
-- [React DnD](https://github.com/react-dnd/react-dnd/) - Drag and Drop for React. ([The secret is it’s just one flat list with pointers and css to make it look nested](https://twitter.com/peterpme/status/1314960743964512259)) ([Multi List Drag and Drop With react-beautiful-dnd, Immer, and useReducer](https://codedaily.io/tutorials/186/Multi-List-Drag-and-Drop-With-react-beautiful-dnd-Immer-and-useReducer))
+- [React DnD](https://github.com/react-dnd/react-dnd/) - Drag and Drop for React. ([The secret is it’s just one flat list with pointers and css to make it look nested](https://twitter.com/peterpme/status/1314960743964512259)) ([Multi List Drag and Drop With react-beautiful-dnd, Immer, and useReducer](https://codedaily.io/tutorials/186/Multi-List-Drag-and-Drop-With-react-beautiful-dnd-Immer-and-useReducer)) ([Docs](https://react-dnd.github.io/react-dnd/about)) ([react-dnd-accessible-backend](https://github.com/discord/react-dnd-accessible-backend))
 - [react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - React wrapper components for smooth-dnd.
 - [FullCalendar](https://github.com/fullcalendar/fullcalendar-react) - Official React component for FullCalendar.
 - [React Cookies](https://github.com/reactivestack/cookies) - Load and save cookies within your React application.
@@ -155,7 +155,7 @@
 - [Procedural GL React](https://github.com/felixpalmer/procedural-gl-react) - React component for the Procedural GL JS library. ([HN](https://news.ycombinator.com/item?id=25821535))
 - [Renderlesskit React](https://github.com/timelessco/renderlesskit-react) - Headless components/hooks that are accessible, composable, customizable from low level to build your own UI & Design System.
 - [react-virtualized-tree](https://github.com/diogofcunha/react-virtualized-tree) - Virtualized tree view component making use of react.
-- [Glide Data Grid](https://github.com/glideapps/glide-data-grid) - High-performance React grid component, with rich rendering and first-class TypeScript support.
+- [Glide Data Grid](https://github.com/glideapps/glide-data-grid) - High-performance React grid component, with rich rendering and first-class TypeScript support. ([Reddit](https://www.reddit.com/r/reactjs/comments/qrt86r/data_grid_30_bigger_better_faster/))
 - [React Colorful](https://github.com/omgovich/react-colorful) - Tiny color picker component for React and Preact apps.
 - [Homebase React](https://github.com/homebaseio/homebase-react) - Graph database for delightful React state management.
 - [react-svg](https://github.com/tanem/react-svg) - React component that injects SVG into the DOM.
@@ -185,7 +185,7 @@
 - [react-loosely-lazy](https://github.com/atlassian-labs/react-loosely-lazy) - Use advanced React async components patterns today.
 - [Supabase Grid](https://github.com/supabase/grid) - React component to display your PostgreSQL table data.
 - [threaded-comments](https://github.com/lawrencecchen/threaded-comments) - Reddit styled threaded comments using Supabase and Next.js.
-- [Nano Stores](https://github.com/ai/nanostores) - Tiny (152 bytes) state manager for React/Preact/Vue/Svelte with many atomic tree-shakable stores.
+- [Nano Stores](https://github.com/nanostores/nanostores) - Tiny (198 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores. ([Tweet](https://twitter.com/andrey_sitnik/status/1452627442179391501))
 - [React Lazy Hydration](https://github.com/hadeeb/react-lazy-hydration) - Lazy Hydration for Server Rendered React Components.
 - [React Super Command](https://github.com/saharmor/react-super-cmd) - Sleek command line modal for React apps.
 - [React Complex Tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop.
@@ -211,6 +211,40 @@
 - [react-embed](https://github.com/streamich/react-embed) - Embed 3rd party widgets.
 - [Choc UI](https://github.com/anubra266/choc-ui) - Prebuilt Chakra UI Higher Order Components. ([Web](https://choc-ui.tech/))
 - [LottiePlayer](https://github.com/LottieFiles/lottie-react) - Lottie web player as a react component.
+- [React Autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component.
+- [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React wrapper for Chart.js.
+- [replicache-react](https://github.com/rocicorp/replicache-react) - Miscellaneous utilities for using Replicache with React.
+- [ClickableBox](https://github.com/danoc/clickable-box) - React component to add `onClick` to HTML elements without sacrificing accessibility.
+- [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
+- [react-ux-form](https://github.com/swan-io/react-ux-form) - Simple, fast, and opinionated form library for React & React Native focusing on UX.
+- [React Overlay Trigger](https://github.com/huozhi/react-overlay-trigger) - Auto repositioning overlay component for react. ([Article](https://huozhi.im/post/why-position-tooltip-so-complicated))
+- [Nice Modal](https://github.com/eBay/nice-modal-react) - Small, zero dependency utility to manage modals in a natural way for React.
+- [React InfiniteGrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/react-infinitegrid) - React component that can arrange items infinitely according to the type of grids.
+- [React-Location](https://github.com/tannerlinsley/react-location) - Enterprise Client-Side Routing for React. ([Docs](https://react-location.tanstack.com/docs/overview))
+- [tldraw/core](https://github.com/tldraw/core) - TLDraw core renderer and utilities.
+- [React Freeze](https://github.com/software-mansion-labs/react-freeze) - Prevent React component subtrees from rendering. ([Experimenting with React Freeze](https://blog.swmansion.com/experimenting-with-react-freeze-71da578e2fa6))
+- [react-ancenstry](https://github.com/grantila/react-ancestry) - Get the component ancestry in React.
+- [typeahead](https://github.com/tomocchino/typeahead) - Small, fast, opinionated autocomplete input for React.
+- [co-media](https://github.com/cocoss-org/co-media) - React library for accessing browser media like camera, microphone, screen capture, etc.
+- [React Responsive Carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
+- [Theme Provider](https://github.com/callstack/react-theme-provider) - Set of utilities that help you create your own React theming system in few easy steps.
+- [Splitter](https://github.com/DevbookHQ/splitter) - React component for building split views like in VS Code.
+- [React-Transition-State](https://github.com/szhsin/react-transition-state) - Perform animation and transition of React component with ease.
+- [Graphire](https://github.com/flavioschneider/graphire) - Declarative and unopinionated graph visualization library for React.
+- [React Flow Smart Edge](https://github.com/tisoap/react-flow-smart-edge) - Special Edge for React Flow that never intersects with other nodes.
+- [rci](https://github.com/leonardodino/rci) - Better code inputs for the web.
+- [Formiz](https://github.com/ivan-dalmet/formiz) - React forms with ease! Composable, headless & with built-in multi steps.
+- [restack](https://github.com/bfollington/restack) - SwiftUI inspired layouts for React.
+- [react-rewards](https://github.com/thedevelobear/react-rewards) - Microinteractions you can use to reward your users for little things and make them smile.
+- [Informed](https://github.com/joepuzzo/informed) - Lightweight framework and utility for building powerful forms in React applications.
+- [react-lineto](https://github.com/kdeloach/react-lineto) - Draw a line between two elements in React.
+- [Hacky](https://github.com/aidenybai/hacky) - Functional component-based UI library.
+- [Charts.css React](https://github.com/hollanddd/charts-css-react)
+- [Editable React Table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
+- [React Layers Manager](https://github.com/giuseppeg/react-layers-manager) - Manage layers and z-index in React applications effectively.
+- [chakra-react-select](https://github.com/csandman/chakra-react-select) - Chakra-ui wrapper for the popular select library react-select.
+- [Formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3.
+- [React Feather Icons](https://github.com/feathericons/react-feather)
 
 ## Links
 
@@ -239,3 +273,8 @@
 - [Are you a component control freak? (2019)](https://jjenzz.com/component-control-freak)
 - [A Smarter, Dumb Breadcrumb (2019)](https://jjenzz.com/smarter-dumb-breadcrumb)
 - [Compound Components (2019)](https://jjenzz.com/compound-components)
+- [react-scanner](https://github.com/moroshko/react-scanner) - Statically analyzes the given code (TypeScript supported) and extracts React components and props usage.
+- [Refine](https://refine.dev/) - React-based framework for building data-intensive applications in no time. ([Code](https://github.com/pankod/refine))
+- [Good React charting libraries (2021)](https://twitter.com/gill_kyle/status/1448321353870757888)
+- [Converting a React component to TypeScript (2021)](https://dev.to/mbarzeev/converting-a-react-component-to-typescript-15cl)
+- [Agrippa](https://github.com/NitzanHen/agrippa) - React CLI for component generation.

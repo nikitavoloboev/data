@@ -4,6 +4,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 
 ## Interesting CVs
 
+- [Titus Wormer](https://wooorm.com/resume.html)
 - [Joshua Cockrell](http://joshcockrell.com/joshua_cockrell_resume.pdf) - Minimal and to the point.
 - [David R. MacIver](https://www.drmaciver.com/cv/)
 - [Safia Abdalla](https://cloudup.com/cqozUYp889k)
@@ -52,8 +53,11 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Craig Ferguson](https://www.craigfe.io/cv.pdf) ([Code](https://github.com/CraigFe/fancv))
 - [Hylke Visser](https://htdvisser.dev/)
 - [Ben Hoyt](https://benhoyt.com/cv/)
+- [Kevin Burke](https://kevin.burke.dev/kevinburke.pdf)
 - [Anatoly Yakovenko](http://aeyakovenko.github.io/resume.html)
 - [Andrew Carr](https://andrewnc.github.io/)
+- [Rådell.net](https://radell.net/) - Like ability to see highlights for each of the jobs.
+- [Ian Macalinao](https://macalinao.github.io/resume/resume.pdf) ([Code](https://github.com/macalinao/resume))
 
 ## Notes
 
@@ -102,3 +106,6 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Marking up my Curriculum Vitae with Microformats2 (2021)](https://www.jvt.me/posts/2021/05/25/microformats-resume/)
 - [Ask HN: for senior positions is it advisable to list side projects on your CV? (2021)](https://news.ycombinator.com/item?id=27905277)
 - [Resume.io](https://resume.io/) - Free online resume maker.
+- [The greatest resume I've ever seen](https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen) ([HN](https://news.ycombinator.com/item?id=28705805))
+- [SkillNer](https://github.com/AnasAito/SkillNER) - NLP module to automatically Extract skills and certifications from unstructured job postings, texts, and applicant's resumes.
+- [CV auto-generated via GitHub Actions](https://github.com/dionhaefner/cv)

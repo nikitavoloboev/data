@@ -1,5 +1,9 @@
 # Internationalization
 
+## Notes
+
+- [Made i18n strictly typed and every time I render a string that is not translated yet - typescript shows an error, so I can't forget it.](https://twitter.com/oleg008/status/1456205531153055755)
+
 ## Links
 
 - [i18next](https://github.com/i18next/i18next) - Very popular internationalization framework for browser or any other JavaScript environment.
@@ -20,3 +24,13 @@
 - [react-i18n-mini](https://github.com/SanichKotikov/react-i18n-mini) - Tiny internationalization library for React.
 - [What they don’t tell you when you translate your app (2021)](https://ericwbailey.design/writing/what-they-dont-tell-you-when-you-translate-your-app/) ([HN](https://news.ycombinator.com/item?id=28468853))
 - [I18n in Go: Managing Translations (2021)](https://www.alexedwards.net/blog/i18n-managing-translations)
+- [i18n-tools](https://github.com/jy95/i18n-tools) - CLI to make common operations around i18n files simpler.
+- [I18n in Go: Managing Translations (2021)](https://www.alexedwards.net/blog/i18n-managing-translations)
+- [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js.
+- [How to design in every language at once (2021)](https://canvatechblog.com/how-to-design-in-every-language-at-once-f2dd66a2780f) - Technology that powers Continuous Localization at Canva. ([HN](https://news.ycombinator.com/item?id=28931601))
+- [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for JavaScript - i18n Plural and Gender Capable Messages. ([Docs](https://messageformat.github.io/messageformat/))
+- [Nano Stores I18n](https://github.com/nanostores/i18n) - Tiny and flexible JS library to make your web application translatable.
+- [Arisu](https://github.com/auguwu/Arisu) - Translation made with simplicity, yet robust. In TypeScript.
+- [Awesome i18n](https://github.com/jpomykala/awesome-i18n)
+- [Weblate](https://weblate.org/en/) - Web-based localization. ([Code](https://github.com/WeblateOrg/weblate))
+- [7 Gettext lessons learned after 2 years of developing a European platform (2021)](https://angelika.me/2021/11/23/7-gettext-lessons-after-2-years/)

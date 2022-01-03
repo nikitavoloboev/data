@@ -115,6 +115,8 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Read to collect the dots, write to connect them.](https://twitter.com/david_perell/status/1411871612702543872)
 - [Moving your team from slides to long form writing is not just a process change. It is first and foremost a culture change. A writing culture values comprehension over aesthetics, nuance over certainty, clarity over charisma, deliberation over impulse, and rigor over hierarchy.](https://twitter.com/shreyas/status/1421143101083512838)
 - [Write like a journalist. Adopt the inverted pyramid. Be curious. Use emotion-based questions. Tell a story. Pay attention to the details, data, & money.](https://twitter.com/ChelseaCastle/status/1422900159311142912)
+- [Good copywriting: Here's your problem. Here's the benefit of solving it. Here's why what you've tried has failed. And by the way here's a product that will help you solve it.](https://twitter.com/dickiebush/status/1445375496636743682)
+- [Immature poets imitate. Mature poets steal.](https://twitter.com/JamesSACorey/status/1447686904636342272)
 
 ## Links
 
@@ -169,7 +171,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Text as an interface (2020)](https://thesephist.com/posts/text/)
 - [Alex](https://alexjs.com/) - Catch insensitive, inconsiderate writing. ([Code](https://github.com/get-alex/alex)) ([Article](https://wooorm.com/blog/alex/))
 - [Fuzzy](https://github.com/sajari/fuzzy) - Spell checking and fuzzy search suggestion written in Go.
-- [Self-Defined](https://www.selfdefined.app/) - Seeks to provide more inclusive, holistic, and fluid definitions to reflect the modern world. ([Code](https://github.com/tatianamac/selfdefined))
+- [Self-Defined](https://www.selfdefined.app/) - Seeks to provide more inclusive, holistic, and fluid definitions to reflect the modern world. ([Code](https://github.com/tatianamac/selfdefined)) ([Twitter](https://twitter.com/SelfDefinedApp))
 - [Monzo – Tone of Voice](https://monzo.com/tone-of-voice/) - Brief overview of how we write. ([HN](https://news.ycombinator.com/item?id=23361531))
 - [E-Prime](https://zencephalon.com/e-prime/) - Variant of English in which one avoids the use of the word ‘is’ and all its conjugations.
 - [Ask HN: I find writing difficult, how do I make it easy? (2020)](https://news.ycombinator.com/item?id=23465908)
@@ -214,7 +216,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [David Lynch: Don't fear writer's block, get a setup, and be patient (2020)](https://www.youtube.com/watch?v=uHhf76z6BkM)
 - [How do you write simple explanations without sounding condescending (2020)](https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/) ([Lobsters](https://lobste.rs/s/qzdqit/how_do_you_write_simple_explanations))
 - [The Craft of Writing Effectively (2014)](https://www.youtube.com/watch?v=vtIzMaLkCaM)
-- [Writing well](https://www.julian.com/guide/write/intro) ([HN](https://news.ycombinator.com/item?id=25216442))
+- [Writing well](https://www.julian.com/guide/write/intro) ([HN](https://news.ycombinator.com/item?id=25216442)) ([Tweet](https://twitter.com/Julian/status/1460306494159609856))
 - [Prose for Programmers Book](https://github.com/joshuacc/prose-for-programmers) - Book aimed at helping software developers write better prose.
 - [Resources for Writers](https://substack.com/resources)
 - [How to write good prompts: using spaced repetition to create understanding (2020)](https://andymatuschak.org/prompts/) ([HN](https://news.ycombinator.com/item?id=25600108))
@@ -250,3 +252,19 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Writing, technically (2021)](https://signalsandthreads.com/writing-technically/) ([HN](https://news.ycombinator.com/item?id=28382737))
 - [Write More, but Shorter (2021)](https://blog.kewah.com/2021/write-more-but-shorter/) ([HN](https://news.ycombinator.com/item?id=28483671))
 - [The Expanse | James S.A.Corey | Talks at Google (2014)](https://www.youtube.com/watch?v=sCsPtUo91B0)
+- [Scaling Engineering Teams via RFCs: Writing Things Down (2021)](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
+- [Learning about writing by seeing only the punctuation (2021)](https://medium.com/creators-hub/what-i-learned-about-my-writing-by-seeing-only-the-punctuation-efd5334060b1) ([Tool](https://just-the-punctuation.glitch.me/)) ([HN](https://news.ycombinator.com/item?id=28899242))
+- [More Asemic Writing (2020)](https://inconvergent.net/2020/asemic-writing/)
+- [Creative Spark: Eric Roth (2014)](https://www.youtube.com/watch?v=N3_QmiNs52o) ([Article](https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos)) ([HN](https://news.ycombinator.com/item?id=29000175))
+- [Greatest Screenwriters of All Time](https://www.imdb.com/poll/5qmz3dF9sYg/)
+- [How I motivate myself to write](https://blog.pragmaticengineer.com/writing-motivation/) ([HN](https://news.ycombinator.com/item?id=29035995))
+- [50 Resources And Tools To Turbocharge Your Copywriting Skills (2021)](https://www.smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/)
+- [Best Story Wins (2021)](https://www.collaborativefund.com/blog/story/) ([Tweet](https://twitter.com/mollyfmielke/status/1455257395542695936))
+- [What I learned from a year on Substack (2021)](https://www.niemanlab.org/2021/09/what-i-learned-from-a-year-on-substack/) ([HN](https://news.ycombinator.com/item?id=29090448))
+- [Advice for aspiring bloggers (2021)](https://www.haskellforall.com/2021/10/advice-for-aspiring-bloggers.html)
+- [Awesome Writing](https://github.com/jenniferlynparsons/awesome-writing)
+- [Writer](https://writer.com/) - AI Writing Assistant for Teams. ([Twitter](https://twitter.com/Get_Writer))
+- [Writing is networking for introverts](https://byrnehobart.medium.com/writing-is-networking-for-introverts-5cac14ad4c77) ([HN](https://news.ycombinator.com/item?id=29299986))
+- [Writers on their day jobs](https://lithub.com/from-construction-to-teaching-seven-writers-on-their-day-jobs/)
+- [Some thoughts on writing](https://danluu.com/writing-non-advice/) ([Tweet](https://twitter.com/pervognsen/status/1470616064564207617)) ([HN](https://news.ycombinator.com/item?id=29545839))
+- [Writing is a visual language (2021)](https://argumatronic.com/posts/2021-06-07-learning-to-write.html)

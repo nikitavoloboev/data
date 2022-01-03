@@ -6,6 +6,9 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 
 ## Interesting keyboards
 
+- [K3](https://twitter.com/carlbarenbrug/status/1476935833215242261)
+- [Helix Kit](https://mechboards.co.uk/shop/kits/helix-kit/#pcb) - Helix Split Ortho Keyboard Kit. ([Tweet](https://twitter.com/bodil/status/1449005541037158407))
+- [GergoPlex](https://www.gboards.ca/product/gergoplex) - Ultra-Minimal Mechanical Split Keyboard. ([Review](https://www.youtube.com/watch?v=dWfQeuXDK_o))
 - [Keychron K7](https://www.kickstarter.com/projects/keytron/keychron-k7-an-ultra-slim-65-wireless-mechanical-keyboard) - Ultra-Slim 65% Wireless Mechanical Keyboard:q.
 - [Keyboardio](https://shop.keyboard.io)
 - [42](https://github.com/nglgzz/42) - Custom keyboard built by [Angelo](https://github.com/nglgzz).
@@ -35,6 +38,10 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [ZSA Planck EZ](https://www.zsa.io/planck/) - Powerful, Backlit, Open-Source, 40% Mechanical Keyboard. ([HN](https://news.ycombinator.com/item?id=27827206))
 - [Pheromone](https://github.com/luantty2/pheromone_keyboard) - 63-key keyboard supports slide potentiometer, rotary encoder and oled screen.
 - [KeySeeBee](https://github.com/TeXitoi/keyseebee) - Split ergo keyboard.
+- [X-Bows with Gateron optical switches](https://twitter.com/tekezo/status/1444105091036762112)
+- [Djinn](https://github.com/tzarc/djinn) - 64-key split keyboard. ([HN](https://news.ycombinator.com/item?id=29311222))
+- [Work Louder](https://worklouder.cc/) - Modular keyboards for digital creators.
+- [MiRage Modular Keyboard](https://github.com/ZackFreedman/MiRage)
 
 ## Interesting keycaps
 
@@ -134,3 +141,9 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Keyboard Legend](https://www.keyboardlegend.dev/) - Learn how to build your own mechanical keyboard.
 - [Chordie](https://github.com/kbjunky/Chordie) - Chording keyboard you shouldn't be scared of.
 - [A different kind of keyboard (2021)](https://ianthehenry.com/posts/peggi/) ([Lobsters](https://lobste.rs/s/tmdxnu/different_kind_keyboard)) ([HN](https://news.ycombinator.com/item?id=28611632))
+- [Keycap Playground](https://github.com/riskable/keycap_playground) - Parametric OpenSCAD keycap generator made for generating keycaps of all shapes and sizes (and profiles). ([Video](https://www.youtube.com/watch?v=WDlRZMvisA4))
+- [Why Are Topre Keyboards So Expensive?](https://switchandclick.com/why-are-topre-keyboards-so-expensive/) ([HN](https://news.ycombinator.com/item?id=29282401))
+- [Ortholinear flat keyboards](https://twitter.com/rsms/status/1467190230625112067)
+- [Column Modules for Mechanical Keyboards - The next step for Configure-It-Yourself keyboards](https://docs.google.com/document/d/1fDaOXY7aCQk27tScDtyaNoOnOY7dxstABmi-QJg1R6s/edit#heading=h.lon4zb91hlu)
+- [Tisha Talks Switches](https://www.zsa.io/tisha-talks-switches/)
+- [How do you use layers on your keyboard? (2021)](https://lobste.rs/s/2ps6iq/how_do_you_use_layers_on_your_keyboard)

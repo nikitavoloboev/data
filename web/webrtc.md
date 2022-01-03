@@ -8,7 +8,7 @@
 - [Pion WebRTC](https://github.com/pions/webrtc) - Pure Go implementation of the WebRTC API.
 - [GFile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC.
 - [Smoke](https://github.com/sinclairzx81/smoke) - Turns a Web Browser into a Web Server with WebRTC.
-- [Pion WebRTC](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API.
+- [Pion WebRTC](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API. ([Web](https://pion.ly/))
 - [Amazon Kinesis Video Streams C WebRTC SDK](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c) - Pure C WebRTC Client for Amazon Kinesis Video Streams. ([HN](https://news.ycombinator.com/item?id=21951692))
 - [simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video, voice, and data channels.
 - [WebRTC code samples](https://webrtc.github.io/samples/) ([Code](https://github.com/webrtc/samples)) ([HN](https://news.ycombinator.com/item?id=24473864))
@@ -55,3 +55,25 @@
 - [An Introduction to WebRTC Simulcast (2021)](https://blog.livekit.io/an-introduction-to-webrtc-simulcast-6c5f1f6402eb)
 - [The evolution of WebRTC 1.0. - Advancing WebRTC (2021)](https://blog.mozilla.org/webrtc/the-evolution-of-webrtc/) ([HN](https://news.ycombinator.com/item?id=28387531))
 - [Matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm. ([Intro](https://johanhelsing.studio/posts/introducing-matchbox)) ([Lobsters](https://lobste.rs/s/tdbwam/introducing_matchbox_painless_peer_peer))
+- [WebRTC-404 (2021)](https://speakerdeck.com/hellsquirrel/webrtc-404)
+- [SDP-Rust](https://github.com/webrtc-rs/sdp) - Pure Rust implementation of SDP.
+- [DTLS-Rust](https://github.com/webrtc-rs/dtls) - Pure Rust implementation of DTLS.
+- [ICE](https://github.com/webrtc-rs/ice) - Pure Rust implementation of ICE.
+- [WebRTC remote view](https://github.com/rviscarra/webrtc-remote-screen) - Stream a remote desktop screen directly to your browser. ([Article](https://viscarra.dev/post/webrtc-remote-screen/))
+- [WebRTC speech to text server](https://github.com/rviscarra/webrtc-speech-to-text) - Speech transcription on the browser using WebRTC and Google Speech. ([Article](https://viscarra.dev/post/webrtc-gspeech/))
+- [OvenPlayer](https://github.com/AirenSoft/OvenPlayer) - JavaScript-based WebRTC Player for OvenMediaEngine. It also supports LL-DASH, MPEG-DASH, and HLS. Open-Source HTML5 Player. ([Web](https://www.ovenmediaengine.com/ovenplayer))
+- [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) - Python interface to the WebRTC Voice Activity Detector.
+- [Examples WebRTC Applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries.
+- [WebRTC peer-to-peer](https://github.com/js-platform/p2p) - JS library that makes it easy to manage RTC peer connections, streams and data channels.
+- [WebRTC connector for Yjs](https://github.com/yjs/y-webrtc)
+- [WebRTCStats](https://github.com/peermetrics/webrtc-stats) - Helps you collect stats for peer connections.
+- [Socket.IO P2P](https://github.com/socketio/socket.io-p2p) - Easy and reliable way to setup a WebRTC connection between peers and communicate using events.
+- [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm) - Create a swarm of p2p connections using webrtc and a signalhub.
+- [Establish WebRTC connection without a signaling server using nothing but Web Push (2021)](https://jimmy.warting.se/2021/02/16/p2p-signal-with-webpush.html)
+- [WebRTC DataChannel in Rust](https://github.com/webrtc-rs/data)
+- [TestRTC](https://github.com/webrtc/testrtc) - Set of tests that can be easily run by a user to help diagnose WebRTC related issues.
+- [P2PT](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server.
+- [MiroTalk SFU](https://github.com/miroslavpejic85/mirotalksfu) - WebRTC with integrated SFU server. Video calls, messaging, screen sharing, recording and more.
+- [Open WebRTC Toolkit Media Server](https://github.com/open-webrtc-toolkit/owt-server)
+- [Open WebRTC Toolkit JavaScript SDK](https://github.com/open-webrtc-toolkit/owt-client-javascript)
+- [naia-socket](https://github.com/naia-rs/naia-socket) - Cross-platform (including Wasm!) sockets providing an unreliable & unordered network transport layer. Built on top of UDP & WebRTC.

@@ -13,6 +13,129 @@ I love Git and version control. And I use version control over any project I do.
 - [To me the beauty of git stems from the fact that it is an implementation of a functional data structure. It‘s a tree index that is read-only, and updating it involves creating a complete copy of the tree and giving it a new name. Then the only challenge is to make that copy as cheap as possible - for which the tree lends itself, as only the nodes on the path to the root need to get updated. As a result, you get lock-free transactions (branches) and minimal overhead. It is so beautiful in fact that when I think about systems that need to maintain long-running state in concurrent environments, my first reaction is ”split up the state into files, and maintain it through git“.](https://news.ycombinator.com/item?id=21418033)
 - [PRs with mandatory review within a company are a bit of an antipattern/red flag IMO. Cycle time automatically gets long. Even when pairing, changes can be put up for review if the authors want more feedback, so it's not a binary choice.](https://twitter.com/sanityinc/status/1313206571606978560)
 
+## Code
+
+```bash
+# set new git remote origin (https://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-a-git-repository)
+git remote set-url origin git://new.url.here
+
+# Cleanup .git http://gcc.gnu.org/ml/gcc/2007-12/msg00165.html
+git repack -a -d --depth=250 --window=250
+
+# Reset to previous commit
+git reset HEAD~
+
+# Reset to commit
+git reset <commit hash> --hard
+
+# Checkout previous commit
+git checkout HEAD~
+
+# Create new branch
+git checkout -b
+
+# Revert changes to modified files (working changes)
+git reset --hard
+
+# New branch without git history & files
+git checkout --orphan
+
+# Show where git configs get defined
+git config --show-origin -l
+
+# Undo last commit but don't throw away changes
+git reset --soft HEAD^
+
+# List all git submodules
+git submodule--helper list
+
+# Pull from PR
+git pull origin pull/<issue ID>/head
+
+# List remote branches
+git branch -a
+
+# Delete branch
+git branch -d
+
+# Delete remote branch
+git push origin --delete
+
+# Force overwrite git repo. https://stackoverflow.com/questions/10510462/force-git-push-to-overwrite-remote-files
+git push -f <remote> <branch>
+
+# Reset to specific commit
+git reset --hard <commit>
+
+# Remove dir from git
+git rm --cached -r <dir>
+
+# Rename previous commit
+git commit --amend
+
+# Force push overwrite
+git push --force origin master
+
+# Hard reset a branch
+git reset --hard <branch-name>
+
+# Change remote. i.e. when making a fork of a clone to change upstream destination.
+git remote rename origin upstream; git remote rename nikitavoloboev origin
+
+# Change upstream to my name so it pushes there
+git branch --set-upstream-to nikitavoloboev/master master
+
+# Show changes between commits. Where f5352 and be73 are unique commit hashes.
+git diff f5352 be73
+
+# Update submodule
+git submodule update
+
+# Set PGP key for Git globally. <key> = fingerprint w/o spaces
+git config --global user.signingkey <key>
+
+# Clone git repo without history (much faster)
+git clone [REPO] --depth 1
+```
+
+```bash
+# Delete commit from remote.
+
+# 1. Delete commit from local repo
+git reset --hard HEAD~1
+
+# 2. Delete commit from remote repo (can get commit using git log)
+git push -f origin last_known_good_commit:branch_name
+```
+
+### Change old commit message
+
+```bash
+#
+# It is bad practice to rewrite history. Works best if no one has pushed commits on top of remote branch you want to rewrite history of.
+
+# 1. Rebase to commit you want to change (~1 means the first ancestor of the specified commit)
+git rebase -i <hash>~1
+
+# Can also do this
+git rebase -i HEAD~4 # where HEAD~4 = last 3 commits
+
+# 2. Rename pick to reword (in opened editor) & save/quit
+
+# 3. Change commit message in editor and save
+
+# 4. Overwrite and remove duplicate commits
+git push --force-with-lease
+```
+
+### [Quickly pull down PRs](https://davidwalsh.name/5-essential-git-commands-and-utilities)
+
+```bash
+git config --global --add alias.pr '!f() { git fetch -fu ${2:-upstream} refs/pull/$1/head:pr/$1 && git checkout pr/$1; }; f'
+
+git config --global --add alias.pr-clean '!git checkout master ; git for-each-ref refs/heads/pr/* --format="%(refname)" | while read ref ; do branch=${ref#refs/heads/} ; git branch -D $branch ; done'
+```
+
 ## Links
 
 - [Git from the Bottom Up (2008)](https://jwiegley.github.io/git-from-the-bottom-up/) ([HN](https://news.ycombinator.com/item?id=26884318))
@@ -30,7 +153,8 @@ I love Git and version control. And I use version control over any project I do.
 - [Conventional Commits](https://www.conventionalcommits.org/) - Specification for adding human and machine readable meaning to commit messages.
 - [glint](https://github.com/brigand/glint) - Friendly tool for creating commits in the Conventional Commit style.
 - [git absorb](https://github.com/tummychow/git-absorb) - Git commit --fixup, but automatic.
-- [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
+- [ghq](https://github.com/x-motemen/ghq) - Manage remote repository clones.
+- [gst](https://github.com/uetchy/gst) - Toolbox that offers additional commands (list, new, rm, doctor, update, fetch) over ghq enabled environment.
 - [git-flow](https://github.com/nvie/gitflow) - Collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
 - [gitin](https://github.com/isacikgoz/gitin) - Commit/branch/status explorer for git.
 - [Lab](https://github.com/zaquestion/lab) - Wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab.
@@ -43,7 +167,7 @@ I love Git and version control. And I use version control over any project I do.
 - [git-rs](https://github.com/chrisdickinson/git-rs) - Implementing git in rust for fun and education.
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 - [The Many Benefits of Using a Monorepo (2019)](https://pspdfkit.com/blog/2019/benefits-of-a-monorepo/) ([HN](https://news.ycombinator.com/item?id=19795482))
-- [Lefthook](https://github.com/Arkweid/lefthook) - Git hooks manager.
+- [Lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [git rebase in depth](https://git-rebase.io/) ([HN](https://news.ycombinator.com/item?id=19877811))
 - [Highlights from Git 2.22 (2019)](https://github.blog/2019-06-07-highlights-from-git-2-22/)
 - [What is a fork, really, and how GitHub changed its meaning (2019)](https://drewdevault.com/2019/05/24/What-is-a-fork.html) ([Lobsters](https://lobste.rs/s/txx8vu/what_is_fork_really_how_github_changed_its)) ([HN](https://news.ycombinator.com/item?id=20001570))
@@ -56,7 +180,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Git Standards (2018)](https://blog.carlmjohnson.net/post/2018/git-gud/)
 - [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 - [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command.
-- [git-revise](https://github.com/mystor/git-revise) - Handy tool for doing efficient in-memory commit rebases & fixups.
+- [git-revise](https://github.com/mystor/git-revise) - Handy tool for doing efficient in-memory commit rebases & fixups. ([Tweet](https://twitter.com/badboy_/status/1460557723242844169))
 - [git-secret](https://github.com/sobolevn/git-secret) - Bash-tool to store your private data inside a git repository.
 - [pre-commit](https://github.com/pre-commit/pre-commit) - Framework for managing and maintaining multi-language pre-commit hooks.
 - [git-o-matic](https://github.com/muesli/gitomatic) - Tool to monitor git repositories and automatically pull & push changes.
@@ -96,8 +220,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Set up Keybase.io, GPG & Git to sign commits on GitHub](https://github.com/pstadler/keybase-gpg-github)
 - [Bliss](https://github.com/ajmwagar/bliss) - "batteries included" .gitignore management tool.
 - [Vaibhav Sagar - I Haskell a Git (2018)](https://www.youtube.com/watch?v=nVvvY5VRs8o)
-- [Nx](https://github.com/nrwl/nx/) - Extensible Dev Tools for Monorepos.
-- [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web. ([Code](https://github.com/summitech/gitexplorer))
+- [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web. ([Code](https://github.com/summitech/gitexplorer)) ([HN](https://news.ycombinator.com/item?id=28888763))
 - [Please stop recommending Git Flow (2020)](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/) ([HN](https://news.ycombinator.com/item?id=22485489)) ([Lobsters](https://lobste.rs/s/o76cit/please_stop_recommending_git_flow))
 - [git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your tracking branches whose upstream branches are merged or gone.
 - [A successful Git branching model (2020)](https://nvie.com/posts/a-successful-git-branching-model/)
@@ -156,7 +279,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Ignoring mass reformatting commits with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
 - [cgit](https://git.zx2c4.com/cgit/about/) - Hyperfast web frontend for git repositories written in C.
 - [Fork and Pull Request Workflow](https://github.com/susam/gitpr)
-- [Git Internals - Learn by Building Your Own Git](https://www.leshenko.net/p/ugit/)
+- [Ugit - DIY Git in Python](https://www.leshenko.net/p/ugit/) ([HN](https://news.ycombinator.com/item?id=28735425))
 - [Stacked pull requests: Make code reviews faster, easier, and more effective](https://www.michaelagreiler.com/stacked-pull-requests/)
 - [Create a global gitignore (2020)](https://mike.place/2020/global-gitignore/)
 - [Fortunately, I don't squash my commits (2020)](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/) ([HN](https://news.ycombinator.com/item?id=24686527)) ([Reddit](https://www.reddit.com/r/coding/comments/j5l9wb/fortunately_i_dont_squash_my_commits/))
@@ -201,7 +324,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Gitsight](https://www.gitsight.com/) - Derive insights from open source repositories and their contributors.
 - [Gitopia](https://gitopia.org/#/) - Decentralized Source Code Collaboration Platform.
 - [git wip: What the heck was I just doing? (2020)](https://carolynvanslyck.com/blog/2020/12/git-wip/) ([Lobsters](https://lobste.rs/s/mv8301/git_wip_what_heck_was_i_just_doing))
-- [GitLab](https://gitlab.com/) - Open source end-to-end software development platform. ([Code](https://gitlab.com/gitlab-org/gitlab)) ([GitHub Mirror](https://github.com/gitlabhq/gitlabhq))
+- [GitLab](https://gitlab.com/) - Open source end-to-end software development platform. ([Code](https://gitlab.com/gitlab-org/gitlab)) ([GitHub Mirror](https://github.com/gitlabhq/gitlabhq)) ([HN](https://news.ycombinator.com/item?id=28863993)) ([Tweet](https://twitter.com/jasoncwarner/status/1448741716077408274))
 - [mob](https://github.com/remotemobprogramming/mob) - Tool for swift git handover. ([Web](https://mob.sh/))
 - [uncommitted](https://github.com/brandon-rhodes/uncommitted) - Command-line tool to find projects whose changes have not been committed to version control.
 - [Organise your commits (2020)](https://www.ncameron.org/blog/organise-your-commits/)
@@ -215,6 +338,7 @@ I love Git and version control. And I use version control over any project I do.
 - [GitRows](https://github.com/gitrows/gitrows) - Makes it easy to use and store data in GitHub and GitLab repos. ([Web](https://gitrows.com/))
 - [How to keep your Git history clean with interactive rebase (2020)](https://about.gitlab.com/blog/2020/11/23/keep-git-history-clean-with-interactive-rebase/) ([Lobsters](https://lobste.rs/s/wp4ctv/how_keep_your_git_history_clean_with))
 - [git-annex](https://git-annex.branchable.com/) - Allows managing files with git, without checking the file contents into git. ([Code](https://github.com/peti/git-annex))
+- [Git-Annex-Adapter](https://github.com/alpernebbi/git-annex-adapter) - Call git-annex commands from Python.
 - [gittup](http://gittup.org/gittup/) - Entire(-ish) linux distribution in git.
 - [Git Extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more.
 - [Gogs](https://github.com/gogs/gogs) - Painless self-hosted Git service. ([Web](https://gogs.io/))
@@ -223,7 +347,7 @@ I love Git and version control. And I use version control over any project I do.
 - [git-url-parse](https://github.com/IonicaBizau/git-url-parse) - High level git url parser for common git providers.
 - [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit.
 - [Cheatsheet to Rewrite Git History (2021)](https://blog.gitguardian.com/rewriting-git-history-cheatsheet/)
-- [Why SQLite Does Not Use Git](https://sqlite.org/whynotgit.html)
+- [Why SQLite Does Not Use Git (2018)](https://sqlite.org/whynotgit.html) ([HN](https://news.ycombinator.com/item?id=29125934))
 - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 - [Commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects. Auto bump versions. Auto changelog generation.
 - [simple-pre-commit](https://github.com/toplenboren/simple-pre-commit) - Simple pre commit hook for small open source projects.
@@ -261,7 +385,7 @@ I love Git and version control. And I use version control over any project I do.
 - [When it comes to git history, less is more (2021)](https://brennan.io/2021/06/15/git-less-is-more/) ([Lobsters](https://lobste.rs/s/b9pddy/when_it_comes_git_history_less_is_more)) ([HN](https://news.ycombinator.com/item?id=27643057))
 - [Git undo: We can do better (2021)](https://blog.waleedkhan.name/git-undo/) ([HN](https://news.ycombinator.com/item?id=27579701))
 - [Collection of Useful .gitattributes Templates](https://github.com/alexkaratarakis/gitattributes)
-- [git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git. Suite of tools to help you visualize, navigate, manipulate, and repair your commit history.
+- [git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git. Suite of tools to help you visualize, navigate, manipulate, and repair your commit history. ([Lobsters](https://lobste.rs/s/rqphcq/git_branchless_high_velocity_monorepo))
 - [No Code Reviews by Default (2021)](https://raycast.com/blog/no-code-reviews-by-default/) ([HN](https://news.ycombinator.com/item?id=27606066))
 - [git-sync](https://github.com/kubernetes/git-sync) - Simple command that pulls a git repository into a local directory. Keeps it in sync with the upstream.
 - [git-peek](https://github.com/Jarred-Sumner/git-peek) - Open a remote git repository in your local text editor.
@@ -292,3 +416,48 @@ I love Git and version control. And I use version control over any project I do.
 - [Git Commands Explained with Cats (2017)](https://girliemac.com/blog/2017/12/26/git-purr/) ([HN](https://news.ycombinator.com/item?id=28575524))
 - [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;) ([HN](https://news.ycombinator.com/item?id=28578896))
 - [The elements of git (2021)](https://cuddly-octo-palm-tree.com/posts/2021-09-19-git-elements/)
+- [What if Git worked with Programming Languages?](https://github.com/GavinMendelGleason/syntactic_versioning) ([HN](https://news.ycombinator.com/item?id=28670372))
+- [Smimesign](https://github.com/github/smimesign) - S/MIME signing utility for use with Git.
+- [GitHint](https://githint.com/) - Find an answer to your git question.
+- [Working With Multiple Git Configs (2021)](https://rossedman.io/blog/computers/working-with-multiple-git-configs/)
+- [Aho](https://github.com/djanderson/aho) - Git implementation in AWK. ([HN](https://news.ycombinator.com/item?id=28771841)) ([Lobsters](https://lobste.rs/s/u7gls0/aho_git_implementation_awk))
+- [Improving Git's Autocorrect Feature (2021)](https://azeemba.com/posts/contributing-to-git.html)
+- [git-stack](https://github.com/epage/git-stack) - Stacked branch management for Git.
+- [Fast rebases with git-move (2021)](https://blog.waleedkhan.name/in-memory-rebases/) ([HN](https://news.ycombinator.com/item?id=28899661))
+- [go-gitdir](https://github.com/belak/gitdir) - Simple and lightweight SSH git hosting with just a directory.
+- [Rudolfs](https://github.com/jasonwhite/rudolfs) - High-performance, caching Git LFS server with an AWS S3 and local storage back-end.
+- [git-subset](https://github.com/jasonwhite/git-subset) - Super fast Git tree filtering.
+- [chronicle](https://github.com/anchore/chronicle) - Fast changelog generator that sources changes from GitHub PRs and issues, organized by labels.
+- [16 Year History of the Git Init Command (2021)](https://initialcommit.com/blog/history-git-init-command)
+- [Git: ssh signing: Add commit & tag signing/verification via SSH keys using ssh-keygen](https://github.com/git/git/pull/1041) ([Lobsters](https://lobste.rs/s/l5h2ct/git_ssh_signing_add_commit_tag_signing)) ([Tweet](https://twitter.com/FiloSottile/status/1452821944781443078))
+- [When to Use Each of the Git Diff Algorithms (2020)](https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/)
+- [Low budget P2P content distribution with git](https://portal.mozz.us/gemini/gemini.circumlunar.space/~solderpunk/gemlog/low-budget-p2p-content-distribution-with-git.gmi) ([Lobsters](https://lobste.rs/s/k5rmv3/low_budget_p2p_content_distribution_with))
+- [go-git-providers](https://github.com/fluxcd/go-git-providers) - general-purpose Go client for interacting with Git providers' APIs (GitHub, GitLab).
+- [Oaf](https://github.com/abentley/oaf) - Git client that brings a more user-friendly CLI to Git.
+- [GitPython](https://github.com/gitpython-developers/GitPython) - Python library used to interact with Git repositories.
+- [GitFlow ToolKit](https://github.com/mritd/gitflow-toolkit) - Simple toolkit for GitFlow.
+- [git-rewrite-author](https://github.com/crazy-max/git-rewrite-author) - Rewrite authors / commiters history of a git repository with ease.
+- [Git Articles - CSS-Tricks](https://css-tricks.com/tag/git/)
+- [GoIgnore](https://github.com/ntk148v/goignore) - gitignore wizard in your command line written in Go.
+- [Mani](https://github.com/alajmo/mani) - CLI tool to help you manage multiple repositories. ([Docs](https://manicli.com/))
+- [Git techniques (2021)](https://riskledger.com/blog/git-basics-at-risk-ledger/) ([HN](https://news.ycombinator.com/item?id=29162234))
+- [Make your monorepo feel small with Git’s sparse index (2021)](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
+- [Git as a source of truth for network automation (2021)](https://vincent.bernat.ch/en/blog/2021-source-of-truth-network)
+- [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
+- [ChangeSets – group PRs across multiple Git repos (2021)](https://blog.mergequeue.com/changesets-coordinate-code-changes-across-multiple-repositories/) ([HN](https://news.ycombinator.com/item?id=29256878))
+- [Git ls-files is Faster Than Fd and Find (2021)](https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/)
+- [Nano Staged](https://github.com/usmanyunusov/nano-staged) - Tool to run commands only on git staged files.
+- [Git Plugins](https://github.com/afeld/git-plugins) - Collection of custom git commands.
+- [git-mediate](https://github.com/Peaker/git-mediate) - Become a conflict resolution hero.
+- [Git for Professionals Tutorial (2021)](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+- [git-history: a tool for analyzing scraped data collected using Git and SQLite (2021)](https://simonwillison.net/2021/Dec/7/git-history/)
+- [Branchless Git (2021)](https://benjamincongdon.me/blog/2021/12/07/Branchless-Git/) ([Lobsters](https://lobste.rs/s/o1oezm/branchless_git))
+- [Soft Serve](https://github.com/charmbracelet/soft-serve) - Tasty, self-hosted Git server for the command line.
+- [git-chain](https://github.com/dashed/git-chain) - Tool for rebasing a chain of local git branches.
+- [qit](https://github.com/queer/qit) - Overly opinionated git tooling.
+- [commitlog](https://github.com/barelyhuman/commitlog) - Generate Changelogs from Commits (CLI).
+- [How I learned to stop worrying and push to master](https://thenable.io/push-to-master) ([HN](https://news.ycombinator.com/item?id=29583792))
+- [Git Rebase to Squash Commits to Most Recent Message (2021)](https://nickb.dev/blog/git-rebase-to-squash-commits-to-most-recent-message)
+- [vercel/git-hooks](https://github.com/vercel/git-hooks) - No nonsense Git hook management.
+- [How to back up your Git repositories (2021)](https://threkk.medium.com/how-to-back-up-your-git-repositories-1298a4487a31) ([Lobsters](https://lobste.rs/s/dmkw4d/how_back_up_your_git_repositories))
+- [Ask HN: Do we need an easier Git? (2022)](https://news.ycombinator.com/item?id=29756272)

@@ -6,6 +6,7 @@ Don't use it any more as I don't write Java/Kotlin and love VS Code.
 
 - [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim) - Vim mode. ([Code](https://github.com/JetBrains/ideavim))
 - [IdeaVim-EasyMotion](https://github.com/AlexPl292/IdeaVim-EasyMotion) - EasyMotion emulation plugin for IdeaVim.
+- [IntelliJ Rust](https://intellij-rust.github.io/) - Open-source Rust plugin for IntelliJ-based IDEs. ([Code](https://github.com/intellij-rust/intellij-rust))
 
 ## Nice themes
 

@@ -1,10 +1,16 @@
 # Coffee
 
+## Interesting
+
+- [Raf Coffee](https://www.baristainstitute.com/blog/oksana-shaposhnikova/september-2020/raf-coffee-what-it-and-how-make-it)
+
 ## Notes
 
 - [Caffeine is a stimulant. The avg half life of caffeine in an adult is around 5h. So if you have a coffee at 5pm, it means that only 50% of it is gone by 10pm. Depending on how quickly you metabolise coffee, that half life could actually be up to 9h.](https://twitter.com/m_franceschetti/status/1378402354316328968)
 - [Sometimes going to get coffee isn’t really about the coffee](https://twitter.com/cnstntnnn/status/1381267903044059141)
 - [Coffee, done right, is delicious. High quality bean, appropriately roasted, relatively fresh, freshly ground immediately before use with a bur grinder, and then your choice of method, plenty of grinds but almost always hot water, and preferably some pressure to extract oils, finally filtered through paper. My weapon of choice is an aeropress or a manual espresso press. An Americano is arguably superior to a cup of drip. I drink it black.](https://news.ycombinator.com/item?id=26987526)
+- [Caffeine has a half-life of around 6-7 hours, but a quarter-life of around 12 hours. If you have a cup of coffee at noon, a quarter of that caffeine can still be circulating around your brain at midnight.](https://news.ycombinator.com/item?id=29413754)
+- [Moccamaster + Encore is great coffee combo.](https://twitter.com/fatih/status/1470364939965673481)
 
 ## Links
 
@@ -28,7 +34,7 @@
 - [No More Coffee](https://jayriverlong.github.io/2020/06/30/coffee.html) ([HN](https://news.ycombinator.com/item?id=23708204))
 - [Caffenol: Developing Photos with Coffee and Vitamin C (2020)](https://www.youtube.com/watch?v=9bhOtTUtPhg) ([HN](https://news.ycombinator.com/item?id=23761554))
 - [Engineering Exploration in Building a Coffee Machine (2020)](https://medium.com/@smithxlabs/breaking-new-grounds-an-engineering-exploration-in-building-a-coffee-machine-part-i-b24e42b3c480)
-- [AeroPress](https://aeropress.com/) - Device for brewing coffee.
+- [AeroPress](https://aeropress.com/) - Device for brewing coffee. ([Tweet](https://twitter.com/awilkinson/status/1466823229549342720))
 - [Low-tech “mild coffee” with Aeropress (2020)](https://blog.project-insanity.org/2020/10/09/low-tech-mild-coffee-with-aeropress/)
 - [How to enjoy coffee](https://psyche.co/guides/good-coffee-is-like-a-fine-wine-start-with-high-quality-beans)
 - [HashiCafe Coffee Art (2020)](https://www.youtube.com/watch?v=dWNv_XDR0zg)
@@ -47,3 +53,10 @@
 - [Making Coffee In A Clear Glass Moka Pot](https://www.youtube.com/watch?v=c7FoqR9oCfI)
 - [The 4:6 method for coffee-brewing (2017)](https://www.youtube.com/watch?v=wmCW8xSWGZY) ([HN](https://news.ycombinator.com/item?id=27354789))
 - [A Beginner's Guide to Coffee Grinders (2021)](https://www.youtube.com/watch?v=bgjvLQu5NlE)
+- [Chazzano Coffee Roasters](https://chazzano-coffee-roasters.square.site/)
+- [Which country has best coffee? (2021)](https://twitter.com/PaulSkallas/status/1445898250783891456)
+- [Открыл кофейню в деревне у границ России: #монолог австрийского оптимиста (2020)](https://www.youtube.com/watch?v=4Qqj0PnHIEI)
+- [Breville Barista Express Espresso Maker](https://www.gearpatrol.com/deals/a557390/breville-barista-express-espresso-machine-deal/) ([Tweet](https://twitter.com/einarvollset/status/1450325845097140227))
+- [Ultimate set of machines and tools to be able to make espresso, lattes, and everything in between (2021)](https://twitter.com/patrick_oshag/status/1457346856254586885)
+- [The Humble Brilliance of Italy's Moka Coffee Pot (2018)](https://www.atlasobscura.com/articles/make-coffee-moka-pot) ([HN](https://news.ycombinator.com/item?id=29347665))
+- [A Beginner's Guide to Resting Coffee (2021)](https://www.youtube.com/watch?v=_Py8JOi3REg) ([Reddit](https://www.reddit.com/r/Coffee/comments/rrdmk1/james_hoffmann_a_beginners_guide_to_resting_coffee/))

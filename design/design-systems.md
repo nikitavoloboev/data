@@ -3,6 +3,7 @@
 ## Interesting design systems
 
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications. ([HN](https://news.ycombinator.com/item?id=23511811)) ([Docs](https://next.chakra-ui.com/docs/getting-started)) ([Web](https://next.chakra-ui.com/)) ([The road to Chakra 1.0 and all about Chakra UI](https://www.youtube.com/watch?v=eeODp2pdRdo)) ([Awesome Chakra UI](https://github.com/chakra-ui/awesome-chakra-ui))
+- [Basis](https://basis.vercel.app/) ([Code](https://github.com/LatitudeFinancialOSS/basis))
 - [Styled system](https://styled-system.com/) - Style props for rapid UI development.
 - [Base Web](https://baseweb.design) - React Component library implementing the Base design language. ([Code](https://github.com/uber/baseweb)) ([Figma](https://www.figma.com/c/file/805195278314519508))
 - [Grommet](https://grommet.io) - React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package.
@@ -27,6 +28,7 @@
 - [Operational UI Components](https://github.com/contiamo/operational-ui) - Contains simple, stateless UI building blocks - your typical input fields, buttons, cards, grids, and so on.
 - [react-ui](https://github.com/siddharthkp/react-ui) - Customisable components and primitives based on design tokens.
 - [Spectrum](https://spectrum.adobe.com/) - Adobe’s design system. ([Code](https://github.com/adobe/spectrum-css)) ([Version 3](https://github.com/adobe-private/react-spectrum-v3)) ([HN](https://news.ycombinator.com/item?id=23919509)) ([React Spectrum Libraries](https://react-spectrum.adobe.com/)) ([Docs](https://react-spectrum.adobe.com/react-aria/getting-started.html))
+- [React Aria](https://react-spectrum.adobe.com/react-aria/) - Library of React Hooks that provides accessible UI primitives for your design system. ([HN](https://news.ycombinator.com/item?id=29116450))
 - [Stacks](https://stackoverflow.design/) - Stack Overflow’s Design System. ([Code](https://github.com/StackExchange/Stacks))
 - [Elastic UI framework](https://elastic.github.io/eui/#/) - Design library in use at Elastic to build internal products. ([Code](https://github.com/elastic/eui))
 - [gov.uk](https://design-system.service.gov.uk/) - Design your service using GOV.UK styles, components and patterns.
@@ -70,10 +72,23 @@
 - [Atomize Code](https://github.com/proksh/atomize) - UI Design System for React JS. ([Web](https://atomizecode.com/))
 - [doc-blocks](https://github.com/intuit/doc-blocks) - Design system for doc-blocks UI components, built on @design-systems/cli.
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible component library for building a consistent design system across android, iOS & web. ([Web](https://nativebase.io/))
+- [Plasma UI](https://plasma.sberdevices.ru/) - Позволяет реализовать Canvas App как часть экосистемы виртуальных ассистентов семейства "Салют". ([Code](https://github.com/sberdevices/plasma))
+- [Apache Superset UI packages](https://github.com/apache-superset/superset-ui)
+- [Mirror Design](https://degen-xyz.vercel.app/) - Design system for Mirror.xyz built with React and vanilla-extract. ([Code](https://github.com/mirror-xyz/degen))
+- [Arco Design React](https://github.com/arco-design/arco-design)
+- [Equinor Design System](https://github.com/equinor/design-system)
+- [Style Guide of republik.ch](https://styleguide.republik.ch/) - Exporting React components for typography, forms and various article elements. ([Code](https://github.com/orbiting/styleguide))
+- [Orbit](https://github.com/gsoft-inc/sg-orbit) - Design system for ShareGate.
+- [Talend](https://design.talend.com/) - Design system used to build accessible, consistent, customizable and high quality customer experiences at Talend. ([Code](https://github.com/Talend/design-system))
+- [Moai UI Kit](https://moaijs.com/) - React Component Library, Where Buttons Look Like Buttons. ([Code](https://github.com/moaijs/moai))
+- [Tamagui](https://tamagui.dev/) - React Native + Web UI kit. ([Code](https://github.com/tamagui/tamagui))
+- [Brix UI](https://github.com/uStudioTeam/brix-ui) - Library of reusable UI components for React, made in minimalistic and light style.
 
 ## Notes
 
 - [If you have 10 teams working independently, you're already maintaining 10 design systems—or even more. It's cheaper to do it once.](https://twitter.com/markdalgleish/status/1336954195400802308)
+- [Making design system decisions in order to be tech agnostic is actually doing a disservice. Usually the tradeoff becomes less ability to codify the decisions into the system, way more process and effort to evolve and educate, ultimately more expensive.](https://twitter.com/sarah_federman/status/1451039437090025476)
+- [If you're not a designer the easiest way to make your site look pro is to keep your Artist palette color palette VERY limited. Most sites have only: 1. brand color (red, blue, green, orange, purple). 2. main color (black). 3. secondary color (gray).](https://twitter.com/levelsio/status/1458742837269327879)
 
 ## Links
 
@@ -137,3 +152,11 @@
 - [Designs Systems CLI](https://github.com/intuit/design-systems-cli) - CLI toolbox for creating design systems. ([Docs](https://intuit.github.io/design-systems-cli/#/welcome))
 - [Wedges](https://wedges.app/) - Super-simple way to build beautiful websites. Pre-built, customizable, stackable, UI components. ([Twitter](https://twitter.com/wedgesapp))
 - [A Design System Governance Process (2021)](https://bradfrost.com/blog/post/a-design-system-governance-process/)
+- [A Content Model Is Not a Design System (2021)](https://alistapart.com/article/a-content-model-is-not-a-design-system/)
+- [Dessert Box](https://github.com/TheMightyPenguin/dessert-box) - Library to easily consume your design tokens from a React component, meant to be used with vanilla-extract.
+- [Variant-driven Components (2021)](https://ped.ro/blog/variant-driven-components)
+- [Design systems and magic (2021)](https://twitter.com/danmall/status/1450825066502148102)
+- [Design Systems are for user interfaces (2021)](https://bradfrost.com/blog/post/design-systems-are-for-user-interfaces/)
+- [Design Systems London Online #1 (2021)](https://www.youtube.com/watch?v=VyJEg_g6gQY)
+- [Design-Systems-Resources](https://github.com/dbanksdesign/Design-Systems-Resources)
+- [HyperTheme Editor](https://www.hyperthe.me/) - Most advanced visual theme editor for Chakra-UI. ([Code](https://github.com/Hyperting/hypertheme-editor))

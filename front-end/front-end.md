@@ -68,3 +68,19 @@
 - [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Highly recommended collections for frontend developers.
 - [Practical frontend architecture (2021)](https://jaredgorski.org/writing/14-practical-frontend-architecture/) ([HN](https://news.ycombinator.com/item?id=28590879))
 - [What has your frontend stack journey been so far? (2021)](https://twitter.com/geddski/status/1440762195223089164)
+- [Tips, Tricks, Best Practices for front-end development](https://getfrontend.tips/) ([Code](https://github.com/1milligram/frontend-tips))
+- [How height.app website was rebuilt from ground up (2021)](https://twitter.com/michaelvillar/status/1445079229415239698)
+- [Словари по фронтенду](https://github.com/web-standards-ru/dictionary)
+- [Grab Front End Guide](https://github.com/grab/front-end-guide)
+- [Frontend Horse](https://frontend.horse/) - Learn techniques from the best creative frontend developers. ([Twitter](https://twitter.com/FrontendHorse))
+- [Building Resilient Frontend Architecture • Monica Lent (2019)](https://www.youtube.com/watch?v=TqfbAXCCVwE)
+- [Perry](https://github.com/perry-js/perry) - Agnostic front-end bug reporting. Collect logs, errors, clicks, and session data easily. ([Web](https://perry-js.netlify.app/))
+- [Micro frontend resources](https://github.com/billyjov/microfrontend-resources)
+- [Ask HN: Is back end dev generally easier than front end? (2021)](https://news.ycombinator.com/item?id=29328111)
+- [UI Foundations](https://www.uifoundations.com/) - Learn to Build Beautiful UIs.
+- [Pglet](https://github.com/pglet/pglet) - Build web apps like a front-end pro in the language you already know. No knowledge of HTML, CSS or JavaScript is required.
+- [Build user-adaptive interfaces | Workshop (2021)](https://www.youtube.com/watch?v=865olcAfwFg)
+- [Dan Abramov SLAYS Frontend Interview w/ Ex-Twitch Engineer (2021)](https://www.youtube.com/watch?v=uqII0AOW1NM)
+- [Frontend Developer Resources 2022](https://dev.to/nickytonline/frontend-developer-resources-2022-4cp2)
+- [Client-side software design](https://github.com/crinklesio/reference-architecture)
+- [reg-suit](https://reg-viz.github.io/reg-suit/) - Visual Regression Testing tool. ([Code](https://github.com/reg-viz/reg-suit)) ([CLI Code](https://github.com/reg-viz/reg-cli)) ([Report UI Code](https://github.com/reg-viz/reg-cli-report-ui))

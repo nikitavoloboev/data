@@ -1,5 +1,7 @@
 # [Roam Research](https://roamresearch.com/)
 
+[Reflect](https://reflect.app/)/[RemNote](https://www.remnote.com/) is a cleaner implementation of Roam's biderectional linking. I personally use [Obsidian](https://obsidian.md/)/[SublimeText](https://www.sublimetext.com/).
+
 ## Notes
 
 - [Always grow your systems iteratively. I think part of what “true” Roamanship is is to reduce any and all sources of friction when adding new things, including the need to keep things neat and tidy.](https://www.reddit.com/r/RoamResearch/comments/ie8la8/how_do_you_deal_with_a_chaotic_database/)

@@ -7,6 +7,7 @@
 - [Unit tests are a waste of time when building a product. The only thing that matters is that the product works for your users. The best way to verify that is with e2e tests.](https://twitter.com/mxstbr/status/1371828851811172359)
 - [Almost all the advice you hear about software testing is bad. It's either bad on its face or it leads to bad outcomes or it distracts by focusing on the wrong thing (usually tools).](https://twitter.com/searls/status/1393571227650908162)
 - [People love debating what percentage of which type of tests to write, but it's a distraction. Nearly zero teams write expressive tests that establish clear boundaries, run quickly & reliably, and only fail for useful reasons. Focus on that instead.](https://twitter.com/searls/status/1393385209089990659)
+- [We are moving away from data-testid completely in favor of accessibility attributes like role and aria-label to encourage better semantics and make tests be more human-like.](https://twitter.com/okonetchnikov/status/1461302342733766657)
 
 ## Links
 
@@ -27,7 +28,7 @@
 - [Tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [How We Test Vector (2020)](https://vector.dev/blog/how-we-test-vector/) - Survey of techniques we've found useful.
 - [puppeteer + dom-testing-library](https://github.com/testing-library/pptr-testing-library)
-- [How SQLite Is Tested](https://sqlite.org/testing.html)
+- [How SQLite Is Tested](https://sqlite.org/testing.html) ([HN](https://news.ycombinator.com/item?id=29460240))
 - [Are Tests Necessary in TypeScript? (2020)](https://www.executeprogram.com/blog/are-tests-necessary-in-typescript) ([HN](https://news.ycombinator.com/item?id=22864598))
 - [Appium](https://github.com/appium/appium) - Automation for iOS, Android, and Windows Apps.
 - [Awesome Test Anything](https://github.com/sindresorhus/awesome-tap) - Useful resources for the Test Anything Protocol.
@@ -102,3 +103,31 @@
 - [Growth Book](https://www.growthbook.io/) - Open Source A/B Testing Platform. ([Code](https://github.com/growthbook/growthbook)) ([HN](https://news.ycombinator.com/item?id=28088882))
 - [Ponicode](https://www.ponicode.com/) - Quick and easy unit testing.
 - [What is Property Based Testing? (2016)](https://hypothesis.works/articles/what-is-property-based-testing/) ([HN](https://news.ycombinator.com/item?id=28586932))
+- [We killed our end-to-end test suite (2021)](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/) ([HN](https://news.ycombinator.com/item?id=28643848))
+- [Coverage is not strongly correlated with test suite effectiveness (2021)](https://neverworkintheory.org/2021/09/24/coverage-is-not-strongly-correlated-with-test-suite-effectiveness.html) ([HN](https://news.ycombinator.com/item?id=28642506))
+- [Good tests don't change (2021)](https://owengage.com/writing/2021-10-09-good-tests-dont-change/)
+- [The Fundamentals of Testing with Persistence Layers (2021)](https://www.infoq.com/articles/Testing-With-Persistence-Layers/)
+- [Skeleton And Principles For A Maintainable Test Suite (2021)](https://www.lpalmieri.com/posts/skeleton-and-principles-for-a-maintainable-test-suite/)
+- [Tests aren’t enough: Case study after adding type hints to urllib3 (2021)](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3) ([HN](https://news.ycombinator.com/item?id=28907154))
+- [Testing Without Mocks: A Pattern Language (2018)](https://www.jamesshore.com/v2/blog/2018/testing-without-mocks)
+- [FlakyBot](https://www.flakybot.com/) - Flaky test management. ([HN](https://news.ycombinator.com/item?id=29028681))
+- [Awesome Testing Courses & Tutorials](https://github.com/upgundecha/awesome-testing-courses)
+- [Interpreting A/B test results: false positives and statistical significance (2021)](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) ([HN](https://news.ycombinator.com/item?id=29042562))
+- [CI::Queue](https://github.com/Shopify/ci-queue) - Distribute tests over many workers using a queue.
+- [Reflect](https://reflect.run/) - Automated Web Testing.
+- [Generate All the Things (2021)](https://matklad.github.io//2021/11/07/generate-all-the-things.html) ([Lobsters](https://lobste.rs/s/khbbac/generate_all_things))
+- [Tests in a box: Shipping your tests in a container for fun and profit - Federico Paolinelli (2020)](https://www.youtube.com/watch?v=QeQs5wRZ4ac&list=PLGN1AjiJJv0nelnAohIhyPdzpXd0IstM5&index=5)
+- [I test in prod (2021)](https://increment.com/testing/i-test-in-production/) ([HN](https://news.ycombinator.com/item?id=29313565))
+- [Argos](https://github.com/argos-ci/argos) - Automate visual regression testing. ([Web](https://www.argos-ci.com/))
+- [Gnomock](https://github.com/orlangure/gnomock) - Integration and end-to-end testing toolkit. It uses Docker to create temporary containers for application dependencies, setup their initial state and clean them up in the end.
+- [Automated, Targeted Testing of Property-Based Testing Predicates](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/)
+- [Testing (2021)](https://www.scattered-thoughts.net/writing/testing/)
+- [Overview of Property-Based Testing Functionality](https://github.com/jmid/pbt-frameworks)
+- [How the GNU coreutils are tested (2017)](https://www.pixelbeat.org/docs/coreutils-testing.html)
+- [Fast Test, Slow Test (2012)](https://www.youtube.com/watch?v=RAxiiRPHS9k)
+- [Destroy All Software - Software Testing](https://www.destroyallsoftware.com/screencasts/catalog)
+- [nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node.
+- [split_tests](https://github.com/leonid-shevtsov/split_tests) - Utility to split test files into parallel CI containers.
+- [Write Fewer Tests! From Automation to Autogeneration - David Khourshid (2019)](https://www.youtube.com/watch?v=tpNmPKjPSFQ)
+- [granularity of testing (2021)](https://eed3si9n.com/granularity-of-testing/)
+- [The argument against clearing the database between tests (2020)](https://calpaterson.com/against-database-teardown.html) ([HN](https://news.ycombinator.com/item?id=29764792))

@@ -2,6 +2,8 @@
 
 Knowledge is knowing where the answers might lie. Solving problems is knowing how to apply the knowledge you have to solve a thing.
 
+Elon Musk has a [great 5-step engineering process to solve technical problems](https://twitter.com/jeff_weinstein/status/1454518683653459968).
+
 I like to be methodical when approaching and solving problems I have.
 
 For me solving a problem usually involves going through these four steps:
@@ -59,6 +61,8 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Usually the easiest way to solve a problem is to not have it.](https://twitter.com/grhmc/status/1376148802428665861)
 - [When someone comes to you with a problem, before you start to fix it, ask “What are you trying to achieve?”](https://twitter.com/kyleshevlin/status/1387050277199486984)
 - [Reframing your problem can be a potent way to find solutions. “How can I grow?” Open, generic, often not actionable. “What’s stopping me from growing?” Direct, specific, insightful, and it requires radical honesty and self awareness.](https://twitter.com/linuz90/status/1434488113015963650)
+- [When confronted with a problem I don’t understand: don’t just guess. Investigate.](https://twitter.com/optshiftk/status/1449031889096830977)
+- [The first step to solve any problem is to recognize what problem spaces you are in.](https://twitter.com/rakyll/status/1455986549288439812)
 
 ## Links
 
@@ -81,3 +85,12 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Move fast, but understand the problem first (2021)](https://jacobobryant.com/blog/understand/) ([HN](https://news.ycombinator.com/item?id=27691586))
 - [Ask HN: What problem are you close to solving and how can we help? (2021)](https://news.ycombinator.com/item?id=28344952)
 - [How I Write Code: Pen and Paper (2021)](https://noteflakes.com/articles/2021-09-02-how-i-write-code-pen-paper) ([HN](https://news.ycombinator.com/item?id=28390430))
+- [I Don't Understand This (Yet) (2021)](https://www.iamjonas.me/2021/08/i-dont-understand-this-yet.html) ([HN](https://news.ycombinator.com/item?id=28745598))
+- [Decomplication: How to Find Simple Solutions to Hard Problems (2016)](https://www.nateliason.com/blog/decomplication)
+- [Focused and Diffuse: Two Modes of Thinking (2019)](https://fs.blog/2019/10/focused-diffuse-thinking/) ([Tweet](https://twitter.com/housecor/status/1449731674800013319))
+- [Getting Unstuck (2021)](https://www.kevinlondon.com/2021/10/14/asking-for-help.html)
+- [How to think like a detective (2021)](https://psyche.co/guides/how-to-solve-problems-by-thinking-like-a-detective) ([HN](https://news.ycombinator.com/item?id=28902211))
+- [Elon Musk's 5-Step Protocol for Successful Engineering (2021)](https://insideevs.com/news/526954/elon-musk-5-steps-success/)
+- [The programmer's brain in the lands of exploration and production (2021)](http://veekaybee.github.io/2021/11/07/typed-pipe/)
+- [System Dynamics: Systems Thinking and Modeling for a Complex World (2020)](https://www.youtube.com/watch?v=o-Yp8A7BPE8)
+- [A Few Notes on Problem Solving (2022)](https://jeremymikkola.com/posts/2022_01_01_a_few_notes_on_problem_solving.html)

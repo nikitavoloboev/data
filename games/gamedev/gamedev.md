@@ -98,7 +98,7 @@
 - [EnTT](https://github.com/skypjack/entt) - Header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model.
 - [Yet Another Doom Clone (In 13kb of JavaScript) (2019)](https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html)
 - [Magic Tools](https://github.com/ellisonleao/magictools) - Game Development resources to make magic happen.
-- [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
+- [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html) ([HN](https://news.ycombinator.com/item?id=29003727))
 - [Nakama](https://heroiclabs.com/) - Distributed server for social and real time games and apps. ([Code](https://github.com/heroiclabs/nakama))
 - [Nakama JavaScript client](https://github.com/heroiclabs/nakama-js) - JavaScript client for Nakama server written in TypeScript.
 - [Peeking under the hood of Command & Conquer (2020)](http://www.hydrogen18.com/blog/peeking-under-the-hood-of-command-conquer.html)
@@ -203,3 +203,24 @@
 - [Why video game doors are so hard to get right (2021)](https://www.youtube.com/watch?v=AYEWsLdLmcc) ([HN](https://news.ycombinator.com/item?id=28415196))
 - [WorldQL](https://www.worldql.com/) - Universal backend for real-time multiplayer games. ([GitHub](https://github.com/WorldQL))
 - [What are Voxels and why are they so cool? (2021)](https://www.youtube.com/watch?v=WWU8t0CpNQA)
+- [NVIDIA DLSS (Deep Learning Super Sampling](https://developer.nvidia.com/dlss/research) - Deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games.
+- [naia](https://github.com/naia-rs/naia) - Cross-platform (including Wasm!) networking engine that intends to make multiplayer game development in Rust dead simple and lightning fast.
+- [Getting to the bottom of web map performance](https://bdon.org/blog/web-map-performance/)
+- [About Halo game's backend (2021)](https://cleverheap.com/posts/about-halo-backend/)
+- [Spring-It-On: The Game Developer's Spring-Roll-Call (2021)](https://theorangeduck.com/page/spring-roll-call#)
+- [apecs](https://github.com/jonascarpay/apecs) - Fast, type driven, extensible ECS for game development.
+- [TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Modern cross-platform level editor for Quake-engine based games. ([Web](https://trenchbroom.github.io/))
+- [Finishing my first game while working full-time (2021)](https://jasont.co/finishing-games/) ([HN](https://news.ycombinator.com/item?id=29106824))
+- [I Tried Creating a Game Using Real-world Geographic Data (2021)](https://www.youtube.com/watch?v=sLqXFF8mlEU&t=2s)
+- [Ask HN: How were video games from the 90s so efficient? (2021)](https://news.ycombinator.com/item?id=29127098)
+- [SLADE3](https://github.com/sirjuddington/SLADE) - Modern editor for Doom-engine based games and source ports.
+- [Where to start to become a game designer? (2021)](https://www.reddit.com/r/gamedev/comments/qvpobx/where_to_start_to_become_a_game_designer/)
+- [Q1K3 – Making Of (2021)](https://phoboslab.org/log/2021/09/q1k3-making-of)
+- [Voidcall – Making Of (2019)](https://phoboslab.org/log/2019/09/voidcall-making-of)
+- [Procedural storytelling is exploding the possibilities of video game narratives (2021)](https://www.theverge.com/2021/11/30/22807568/procedural-storytelling-video-games-dwarf-fortress-wildermyth-blaseball)
+- [Gamedev/Code/Physics Resources](https://www.david-colson.com/resources.html)
+- [GameDev Reddit Wiki](https://www.reddit.com/r/gamedev/wiki/index)
+- [The Making of Games Reddit](https://www.reddit.com/r/TheMakingOfGames/)
+- [Technical Game Design tutorials](https://www.reddit.com/r/gamedev/comments/rt2tyl/why_is_there_a_huge_lack_of_technical_game_design/)
+- [How Dwarf Fortress is built (2021)](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) ([HN](https://news.ycombinator.com/item?id=29757875))
+- [Basic Computer Games implemented in different languages](https://github.com/coding-horror/basic-computer-games)

@@ -14,7 +14,7 @@
 - [Adventures in reinventing interfaces / Suz Hinton (2019)](https://www.youtube.com/watch?v=AAFIJaxuHeg&list=PLXmT1r4krsTrR6khetJSVQqulyFbxmZNG)
 - [Learning hardware programming as a software engineer (2019)](https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/) ([HN](https://news.ycombinator.com/item?id=21878263))
 - [My Business Card Runs Linux (2019)](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/) ([HN](https://news.ycombinator.com/item?id=21871026))
-- [nMigen](https://github.com/m-labs/nmigen) - Refreshed Python toolbox for building complex digital hardware.
+- [nMigen](https://github.com/m-labs/nmigen) - Refreshed Python toolbox for building complex digital hardware. ([HN](https://news.ycombinator.com/item?id=28955377))
 - [Glasgow Debug Tool](https://github.com/GlasgowEmbedded/glasgow) - Tool for exploring digital interfaces. ([HN](https://news.ycombinator.com/item?id=24101915))
 - [Everything I know about SSDs (2019)](http://kcall.co.uk/ssd/index.html) - Solid State Devices using NAND Flash, how they differ from Hard Drives, and how they affect file deletion and recovery. ([HN](https://news.ycombinator.com/item?id=22054600))
 - [CRAY-1 Computer System: Hardware Reference Manual (1977)](http://www.ed-thelen.org/comp-hist/CRAY-1-HardRefMan/CRAY-1-HRM.html)
@@ -22,7 +22,7 @@
 - [MIT 6.004: Computation Structures course](https://6004.mit.edu/web/fall19/resources/lectures) ([HN](https://news.ycombinator.com/item?id=22056567))
 - [Coding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
 - [hackrf](https://github.com/mossmann/hackrf) - Low cost software radio platform.
-- [Meshtastic](https://www.meshtastic.org/) - Open source hiking, pilot, skiing, Signal-App-extending GPS mesh communicator.
+- [Meshtastic](https://www.meshtastic.org/) - Open source hiking, pilot, skiing, Signal-App-extending GPS mesh communicator. ([Code](https://github.com/meshtastic/Meshtastic))
 - [Awesome Hardware Description Languages](https://github.com/drom/awesome-hdl)
 - [Tindie](https://www.tindie.com/) - Buy and Sell DIY hardware products.
 - [Ventilators 101: What They Do and How They Work (2020)](https://hackaday.com/2020/03/25/ventilators-101-what-they-do-and-how-they-work/)
@@ -76,7 +76,7 @@
 - [Home Network Overview (2020)](https://shipilev.net/labs/network-de/)
 - [Nintendo DS Architecture](https://www.copetti.org/projects/consoles/nintendo-ds/) ([HN](https://news.ycombinator.com/item?id=24195751))
 - [Digital Design and Computer Architecture course (2020)](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php) ([Lectures](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2))
-- [SAFARI Research Group](https://safari.ethz.ch/) - Part of the Institute for High Performance Computing Systems in the Department of Computer Science at ETH Zurich.
+- [SAFARI Research Group](https://safari.ethz.ch/) - Part of the Institute for High Performance Computing Systems in the Department of Computer Science at ETH Zurich. ([GitHub](https://github.com/CMU-SAFARI))
 - [Mantis: Reactive Programmable Switches](http://vincen.tl/files/mantis-sigcomm20.pdf)
 - [Computer Architecture Takeaways (2020)](https://venam.nixers.net/blog/programming/2020/08/24/computer-architecture.html)
 - [XLS: Accelerated HW Synthesis](https://github.com/google/xls) - - Aims to enable the rapid development of hardware IP that also runs as efficient host software via "software style" methodology. ([Docs](https://google.github.io/xls/))
@@ -232,3 +232,37 @@
 - [NVC](https://github.com/nickg/nvc) - VHDL compiler and simulator.
 - [Crowd Supply](https://www.crowdsupply.com/) - Bring original, useful, respectful hardware to life.
 - [The Framework is the most exciting laptop I've ever used (2021)](https://pluralistic.net/2021/09/21/monica-byrne/#think-different) ([HN](https://news.ycombinator.com/item?id=28606962))
+- [The Analog Thing](https://the-analog-thing.org/) - Open source, educational, low-cost modern analog computer. ([HN](https://news.ycombinator.com/item?id=28614840))
+- [ChiselVerify](https://github.com/chiselverify/chiselverify) - Hardware Verification Library for Chisel.
+- [Digital Design with Chisel Book](https://github.com/schoeberl/chisel-book)
+- [Take a look inside Steam Deck (2021)](https://www.youtube.com/watch?v=Dxnr2FAADAs) ([Lobsters](https://lobste.rs/s/yrtqmu/take_look_inside_steam_deck))
+- [The Insane Innovation of TI Calculator Hobbyists (2021)](https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/) ([HN](https://news.ycombinator.com/item?id=28779621))
+- [Mac SE/30 odyssey (2021)](https://axio.ms/blog/2021/10/02/MacSE30.html) ([Lobsters](https://lobste.rs/s/qnpjma/mac_se_30_odyssey))
+- [Intel, Mobileye, and Smiling Curves (2017)](https://stratechery.com/2017/intel-mobileye-and-smiling-curves/) ([Tweet](https://twitter.com/Altimor/status/1447243413661921283))
+- [Practice Problems for Hardware Engineers (2021)](https://arxiv.org/abs/2110.06526) ([HN](https://news.ycombinator.com/item?id=28860308))
+- [Ask HN: What does one look for in a laptop these days? (2021)](https://news.ycombinator.com/item?id=28861949)
+- [Apple’s M1 Pro/Max is the second step in a major change in computing (2021)](https://twitter.com/stevesi/status/1450255227945242628)
+- [Architecture of Consoles | A Practical Analysis](https://www.copetti.org/writings/consoles/) ([Code](https://github.com/flipacholas/Architecture-of-consoles))
+- [PlayStation 3 Architecture](https://www.copetti.org/writings/consoles/playstation-3/) ([HN](https://news.ycombinator.com/item?id=28934624))
+- [Tesla Dojo White Paper (2021)](https://tesla-cdn.thron.com/static/SBY4B9_tesla-dojo-technology_OPNZ0M.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22tesla-dojo-technology.pdf%22) - Guide to Tesla’s Configurable Floating Point Formats & Arithmetic. ([HN](https://news.ycombinator.com/item?id=28999206)) ([Tweet](https://twitter.com/Tesla/status/1452961309734096900))
+- [Teenage Engineering Computer-1 mini-ITX Chassis](https://teenage.engineering/products/computer-1) ([HN](https://news.ycombinator.com/item?id=29027328))
+- [hgdb](https://github.com/Kuree/hgdb) - Flexible hardware debugging framework. It offers runtime APIs to interact with the simulator.
+- [A History of Modern 64-bit Computing (2007)](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-64-bit.pdf)
+- [Titan M tools](https://github.com/quarkslab/titanm) - Tools we used in our research on the Google Titan M chip.
+- [How do hardware timers work? (2021)](https://www.youtube.com/watch?v=g_koa00MBLg) ([Reddit](https://www.reddit.com/r/programming/comments/qt2wr6/ben_eater_how_do_hardware_timers_work/))
+- [Exploring the Processing-in-Memory Paradigm for Future Computing Systems](https://safari.ethz.ch/projects_and_seminars/fall2021/doku.php?id=processing_in_memory) ([Tweet](https://twitter.com/el1goluj/status/1459864658123309058))
+- [Blacksmith – Rowhammer bit flips on all DRAM devices today despite mitigations](https://comsec.ethz.ch/research/dram/blacksmith/) ([HN](https://news.ycombinator.com/item?id=29229200))
+- [80386DX ISA single board microcomputer](https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html) ([HN](https://news.ycombinator.com/item?id=29273829))
+- [Ask HN: What’s the best TV to buy? (2021)](https://news.ycombinator.com/item?id=29343338)
+- [bazel_rules_hdl](https://github.com/hdl/bazel_rules_hdl) - Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel.
+- [How to jailbreak an Amazon Echo Dot?](https://lobste.rs/s/qmoy4y/how_jailbreak_amazon_echo_dot)
+- [What's the best PC gaming setup these days? (2021)](https://twitter.com/aeyakovenko/status/1465017842915446787)
+- [Ask HN: Are there any 4K “dumb” televisions? (2021)](https://news.ycombinator.com/item?id=29382643)
+- [Scan of the Month - AirPods Evolution](https://scanofthemonth.com/)
+- [Miniature 3456 LED cube](https://willempennings.nl/miniature-3456-led-cube/)
+- [Apple Neural Engine Internal: From ML Algorithm to HW Registers (2021)](https://www.youtube.com/watch?v=1wvBDUnPNEo) ([HN](https://news.ycombinator.com/item?id=29483347))
+- [Cello](https://github.com/CIDARLAB/cello) - Genetic circuit design automation.
+- [Made To Spec: The Coming Age Of Prototyping As A Service (2021)](https://hackaday.com/2021/12/08/made-to-spec-the-coming-age-of-prototyping-as-a-service/)
+- [C64 OS: make a Commodore 64 feel fast and useful](http://c64os.com/) ([HN](https://news.ycombinator.com/item?id=29513318))
+- [Braun Audio](https://braun-audio.com/en-GB/) ([Tweet](https://twitter.com/jdsimcoe/status/1469023755867283459))
+- [Canon Cat Resources](http://www.canoncat.net/) ([HN](https://lobste.rs/s/10vgyo/canon_cat))

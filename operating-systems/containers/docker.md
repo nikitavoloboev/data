@@ -143,3 +143,33 @@
 - [Testcontainers-rs](https://github.com/testcontainers/testcontainers-rs) - Library for integration-testing against docker containers from within Rust.
 - [Build docker images with Nix](https://github.com/rvolosatovs/nix-docker-example)
 - [kontain.me](https://github.com/imjasonh/kontain.me) - Serves Docker container images generated on-demand at the time they are requested.
+- [Play With Docker](https://labs.play-with-docker.com/) - Simple, interactive and fun playground to learn Docker. ([Code](https://github.com/play-with-docker/play-with-docker))
+- [Reproducible Computational Environments Using Containers: Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/) ([Code](https://github.com/carpentries-incubator/docker-introduction))
+- [The hunt for a better Dockerfile (2021)](https://matduggan.com/the-hunt-for-a-better-dockerfile/) ([Lobsters](https://lobste.rs/s/jfcnvn/hunt_for_better_dockerfile))
+- [Docuum](https://github.com/stepchowfun/docuum) - LRU eviction of Docker images.
+- [Docker Socket Proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts.
+- [Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading.
+- [docker-amend](https://gitlab.com/notpushkin/docker-amend) - Amend Docker images by running a command in a separate layer.
+- [Docker Scan](https://github.com/docker/scan-cli-plugin) - Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images.
+- [Crane](https://github.com/InfuseAI/crane) - Easy-to-use and beautiful desktop application helps you build manage your docker images.
+- [Docker Compose Specification](https://compose-spec.io/) ([Code](https://github.com/compose-spec/compose-ref))
+- [Containernet](https://github.com/containernet/containernet) - Mininet fork adding support for container-based (e.g. Docker) emulated hosts. ([Web](https://containernet.github.io/))
+- [From Docker Container to Bootable Linux Disk Image (2021)](https://iximiuz.com/en/posts/from-docker-container-to-bootable-linux-disk-image/) ([Code](https://github.com/iximiuz/docker-to-linux))
+- [go-dockerfile](https://github.com/dekkagaijin/go-dockerfile) - Utilities for interacting with Dockerfiles.
+- [The Case of the Failed Docker Connection](https://mysteries.wizardzines.com/docker-connection.html)
+- [regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [Composerize](https://www.composerize.com/) - Turns docker run commands into docker-compose files. ([Code](https://github.com/magicmark/composerize))
+- [Use docker image tagging to speedup the builds (2021)](https://dev.to/istarkov/use-docker-image-tagging-to-speedup-the-builds-3n4m)
+- [Docker Registry Helm Chart](https://github.com/twuni/docker-registry.helm)
+- [compose-go](https://github.com/compose-spec/compose-go) - Go reference library for parsing and loading Compose files as specified by the Compose specification.
+- [Anchore Engine](https://github.com/anchore/anchore-engine) - Service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification.
+- [Small Docker Images (2021)](https://mattglei.ch/blog/small-docker-images)
+- [dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker.
+- [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
+- [docker-companion](https://github.com/mudler/docker-companion) - Squash and unpack Docker images, in Go.
+- [duuh](https://github.com/philpep/duuh) - Aims to build docker images with unattended upgrades, i.e. with fixables CVEs fixed.
+- [Ofelia](https://github.com/mcuadros/ofelia) - Docker job scheduler (aka. crontab for docker).
+- [Create docker image on Apple Silicon M1 Mac (2021)](https://lakhan.me/blog/create-docker-image-on-apple-silicon-m1-mac)
+- [dlayer](https://github.com/orisano/dlayer) - Docker layer analyzer.
+- [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers.
+- [Docker Buildkit Pulumi Provider](https://github.com/MaterializeInc/pulumi-docker-buildkit)

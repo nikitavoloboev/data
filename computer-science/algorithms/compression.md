@@ -1,5 +1,9 @@
 # Compression
 
+## Notes
+
+- [Can compress PNG images well with pngquant.](https://twitter.com/michaelvillar/status/1445079263208787969)
+
 ## Links
 
 - [Zstandard](https://github.com/facebook/zstd) - Fast real-time compression algorithm. ([HN](https://news.ycombinator.com/item?id=24714854)) ([HN 2](https://news.ycombinator.com/item?id=25455314))
@@ -61,6 +65,34 @@
 - [TinyJPG](https://github.com/OrlovEvgeny/TinyJPG) - Filesystem watcher and image compress.
 - [Faster Compression with Snappy's S2 Extension (2021)](https://tech.marksblogg.com/snappy-s2-compression-golang.html)
 - [Faster ZIP Decompression (2019)](https://tech.marksblogg.com/faster-zip-decompression-unzip-deflate-zlib-crc32-adler32-7zip-archiver.html)
-- [Minimalist Guide to Lossless Compression (2019)](https://tech.marksblogg.com/minimalist-guide-compression.html)
+- [Minimalist Guide to Lossless Compression (2019)](https://tech.marksblogg.com/minimalist-guide-compression.html) ([HN](https://news.ycombinator.com/item?id=29529137))
 - [FreeArc'Next](https://github.com/Bulat-Ziganshin/FA)
 - [Experiments with compression-related algorithms](https://github.com/Bulat-Ziganshin/Compression-Research)
+- [Imager](https://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web. ([Web](https://imager.io/))
+- [Heatshrink](https://github.com/atomicobject/heatshrink) - Data compression library for embedded/real-time systems. ([HN](https://news.ycombinator.com/item?id=28687589))
+- [Neural Network Compression Framework (NNCF)](https://github.com/openvinotoolkit/nncf) - Provides a suite of advanced algorithms for Neural Networks inference optimization in OpenVINO with minimal accuracy drop.
+- [libdeflate](https://github.com/ebiggers/libdeflate) - Heavily optimized library for DEFLATE/zlib/gzip compression and decompression.
+- [sltar](https://github.com/Gottox/sltar) - Minimal implementation of tar.
+- [Box](https://github.com/bbqsrc/box) - Open Standard Archive Format, akin to zip or 7z but without the legacy baggage.
+- [Box in D](https://github.com/gecko0307/box) - Simple archive format with UTF-8 filenames.
+- [Bitbottle](https://code.lag.net/robey/bitbottle) - Modern archive format. ([Lobsters](https://lobste.rs/s/ywxuxj/bitbottle_modern_archive_file_format))
+- [libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. ([Web](http://www.libarchive.org/))
+- [zlib by Cloudflare](https://github.com/cloudflare/zlib) - Cloudflare fork of zlib with massive performance improvements.
+- [Inflate.jl](https://github.com/GunnarFarneback/Inflate.jl) - Julia implementation of zlib decompression.
+- [miniz_oxide](https://github.com/Frommi/miniz_oxide) - Rust replacement for the miniz deflate/zlib encoder/decoder.
+- [Hop](https://github.com/Jarred-Sumner/hop) - 25x faster than unzip and 10x faster than tar at reading individual files. ([HN](https://news.ycombinator.com/item?id=29178710))
+- [Buzon](https://github.com/BuzonIO/zipfly) - Writing large ZIP archives without memory inflation. ([HN](https://news.ycombinator.com/item?id=29291381))
+- [The QOI File Format Specification (2021)](https://phoboslab.org/log/2021/12/qoi-specification) ([HN](https://news.ycombinator.com/item?id=29625084))
+- [QOI: Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression) ([Tweet](https://twitter.com/phoboslab/status/1463451635540180992)) ([HN](https://news.ycombinator.com/item?id=29328750)) ([Code](https://github.com/phoboslab/qoi)) ([Lobsters](https://lobste.rs/s/1hafjp/lossless_image_compression_o_n_time)) ([HN](https://news.ycombinator.com/item?id=29661498))
+- [qoiview](https://github.com/floooh/qoiview) - QOI image viewer on top of the Sokol headers.
+- [qoi_rs](https://github.com/whentze/qoi_rs) - Rust port of the Quite Okay Image format.
+- [QOI](https://github.com/steven-joruk/qoi) - Rust implementation of the “Quite OK Image” format for fast, lossless image compression.
+- [zig-qoi](https://github.com/MasterQ32/zig-qoi) - Implementation of the Quite-OK-Image format for Zig.
+- [QOI Go](https://github.com/xfmoulet/qoi) - Pure Go encoder/decoder of the QOI image format.
+- [QOI Rust](https://github.com/zakarumych/rapid-qoi) - Fast implementation of QOI format in Rust.
+- [Implementing zip archiving in Golang: unzipping (2021)](https://notes.eatonphil.com/implementing-zip-in-go-unzipping.html) ([Lobsters](https://lobste.rs/s/0vrgbm/implementing_zip_archiving_golang))
+- [lz-fear](https://github.com/main--/rust-lz-fear) - Fast pure-rust no-unsafe implementation of LZ4 compression and decompression.
+- [Decompressing a Gzip File by Hand](https://ttay.me/blog/gzip_investigations/) ([HN](https://news.ycombinator.com/item?id=29336271))
+- [librsync](https://github.com/librsync/librsync) - Remote delta-compression library.
+- [Quantile Compression](https://github.com/mwlon/quantile-compression) - Lossless compressor and decompressor for numerical data using quantiles. ([Reddit](https://www.reddit.com/r/rust/comments/r2oinm/quantile_compression_qcompress_a_new_compression/)) ([Article](https://graphallthethings.com/posts/quantile-compression))
+- [fzstd](https://github.com/101arrowz/fzstd) - High performance Zstandard decompression in a pure JavaScript, 8kB package.

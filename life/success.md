@@ -1,6 +1,6 @@
 # Success
 
-Success comes from not giving up and doing what you love.
+Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523998943150083) and doing what you love.
 
 ## Notes
 
@@ -43,6 +43,14 @@ Success comes from not giving up and doing what you love.
 - [The ultimate hack in life is to simply be the person you're looking for.](https://twitter.com/ShaneAParrish/status/1329789158462722049)
 - [The greatest privilege one can have is the option of only working with people you like, trust and respect.](https://twitter.com/hunterwalk/status/1418194197195202563)
 - [Never let anyone’s opinions or comments influence how you view your own life and priorities.](https://twitter.com/naomiosaka/status/1421577953725452289)
+- [Common behaviors that get rewarded in the workplace, but often are actually trauma responses: Perfectionism. Savior complex. Never saying no. Overwork. Burnout.](https://twitter.com/jenistyping/status/1311858404504133632)
+- [Things that don’t get encouraged by traditional workplaces/managers, but are still important for you to practice: Identity/self-worth that's independent of work. Trusting your instincts. Boundaries. Boundaries. Boundaries.](https://twitter.com/jenistyping/status/1311858405439533056)
+- [Unhealed workplace trauma can manifest as: Irritability, paranoia. Anxiety, depression. Difficulty with feedback. Poor boundaries. People-pleasing. Intense fear of failure (or success). Being drawn to more toxic orgs/leaders. Chronic guilt/shame.](https://twitter.com/jenistyping/status/1441432244661411846)
+- [The times I've done the best work in my career are times I've been able to fully connect who I am with what I'm doing. For anyone who needs to hear it: it is career suicide to let your soul die a slow death by suppressing anything unique you can contribute.](https://twitter.com/jeanqasaur/status/1448786763636305923)
+- [Google’s greatest evil is grooming brilliant 22 year olds into becoming complacent careerists instead of ambitious founders who might one day compete with them.](https://twitter.com/justindross/status/1450686720584921088)
+- [What looks like success is often just patience.](https://twitter.com/ShaneAParrish/status/1462038767569567753)
+- [Being patient doesn't get you what you want.](https://www.youtube.com/watch?v=EQBttJqOdAE)
+- [It is possible to commit no mistakes and still lose. That is not a weakness. That is life.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
 
 ## Links
 
@@ -125,3 +133,10 @@ Success comes from not giving up and doing what you love.
 - [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.goodreads.com/book/show/16256798-the-one-thing) ([Summary](https://emilyyleung.github.io/digitalgarden/books/The%20One%20Thing%20-%20Keller/))
 - [Principles of Wealth](https://principlesofwealth.net/) - Summary of Naval Ravikant’s tweetstorms and podcasts. ([Code](https://github.com/flowen/principlesofwealth))
 - [How to be a successful athlete (2021)](https://twitter.com/nathanbaugh27/status/1438845812642127876)
+- [Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/) ([HN](https://news.ycombinator.com/item?id=28882043))
+- [Don't be afraid to start over to climb higher](https://www.instagram.com/p/CVD3xmkj7NE/)
+- [10 threads to accelerate your career](https://twitter.com/SahilBloom/status/1453077828023451651)
+- [Why Success Won't Make You Happy (2020)](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/) ([Tweet](https://twitter.com/ShriramKMurthi/status/1457328115160657920))
+- [How to consistently generate great work (2021)](https://twitter.com/Julian/status/1457422738491011079)
+- [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
+- [Top execs hunt down feedback before people think to give it (2021)](https://twitter.com/shivanisberry/status/1461800167510732801)

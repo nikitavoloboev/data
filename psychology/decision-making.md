@@ -5,6 +5,8 @@ Like using [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 ## Notes
 
 - [Obama used 'decision memos' with choices of: 1. agree. 2. disagree 3. let's discuss](https://twitter.com/Conaw/status/1399850705435955200)
+- [Never judge a decision just by its outcome as there are many unknowns.](https://twitter.com/rob_england/status/1458386368829161472)
+- [Good decisions are made by groups, great decisions are made by individuals. When risk mitigation is the key, committees work well. When upside creation is the goal, the smaller the circle the better.](https://twitter.com/jaltma/status/1474462094183575559)
 
 ## Links
 
@@ -18,3 +20,11 @@ Like using [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 - [Open Decision-Making (2014)](https://web.stanford.edu/~ouster/cgi-bin/decisions.php) ([HN](https://news.ycombinator.com/item?id=27937815))
 - [Ok, so you can’t decide](https://randsinrepose.com/archives/ok-so-you-cant-decide/) ([HN](https://news.ycombinator.com/item?id=28456964))
 - [No-bullshit tenets for faster decision-making (2021)](https://www.rubick.com/tenets-for-faster-decisionmaking/)
+- [Decision-Making Notes](https://docs.google.com/document/d/1hPdWQjYfdK0SB2i3ViZ9XsMPjTYEi7Do1WI22ofmEdo/edit#heading=h.erf28nn68i0x)
+- [Issue / Proposed Solution template](https://docs.google.com/document/d/10JEFVl3pEk7HUT82oM3LbHtP8hRQvlzK9SQyuJFMyCo/edit#)
+- [Mochary Method Class](https://lu.ma/4d7518ej)
+- [Decision Making Under Uncertainty with POMDPs.jl](https://github.com/JuliaAcademy/Decision-Making-Under-Uncertainty)
+- [Does data make us cowards? (2021)](https://benn.substack.com/p/does-data-make-us-cowards) - About making hard decisions.
+- [Causal Information Affects Decisions (2020)](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-0206-z) ([HN](https://news.ycombinator.com/item?id=29509236))
+- [Engineers should invest in decision-making skills early](https://www.reforge.com/blog/technical-decision-making) ([HN](https://news.ycombinator.com/item?id=29720000))
+- [Why you always feel so mentally drained (2021)](https://www.youtube.com/watch?v=4EbItW7r3-s)

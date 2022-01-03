@@ -2,12 +2,19 @@
 
 ## State
 
+- [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React.
 - [Store](https://github.com/fabiospampinato/store) - Beautifully-simple framework-agnostic modern state management library.
 - [React Tracked](https://github.com/dai-shi/react-tracked) - Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
-- [Jotai](https://github.com/react-spring/jotai) - Primitive, flexible state management for React.
+- [idyl](https://github.com/pacocoursey/idyl) - Merge ideas from zustand + swr + valtio into a simple shared state.
+- [Concave](https://github.com/garbles/concave) - Lens-like state management.
+
+## DB
+
+- [Use Supabase](https://github.com/gbibeaul/use-supabase) - Simple zero dependencies package that gives you access to your Supabase client.
 
 ## Other
 
+- [suspend-react](https://github.com/pmndrs/suspend-react) - Integrate React Suspense into your apps.
 - [Rooks](https://github.com/imbhargav5/rooks) - Collection of regularly used custom hooks as utils for React.
 - [Constate](https://github.com/diegohaz/constate) - Scalable state manager using React Hooks & Context.
 - [Collection of essential React Hooks](https://github.com/streamich/react-use)
@@ -23,7 +30,7 @@
 - [React Navigation Hooks](https://github.com/react-navigation/hooks) - React hooks for convenient react-navigation use.
 - [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [Hooks.Guide](https://github.com/Raathigesh/hooks.guide) - Collection of React hooks curated by the community.
-- [SWR](https://github.com/vercel/swr) - React Hooks library for remote data fetching. ([Docs](https://swr.now.sh/)) ([Preview](https://codehike.org/demo/swr))
+- [SWR](https://github.com/vercel/swr) - React Hooks library for remote data fetching. ([Docs](https://swr.now.sh/)) ([Preview](https://codehike.org/demo/swr)) ([SWR Custom Cache](https://huozhi.im/post/swr-custom-cache))
 - [react-zen](https://github.com/jamesknelson/react-zen) - React utilities for working with APIs.
 - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React. ([Essentials course](https://learn.tanstack.com/p/react-query-essentials)) ([Tweet](https://twitter.com/kentcdodds/status/1379072162040926213))
 - [react-hooks-fetch](https://github.com/dai-shi/react-hooks-fetch) - React custom hook for data fetching with Suspense. ([Article](https://blog.axlight.com/posts/developing-a-react-library-for-suspense-for-data-fetching-in-concurrent-mode/))
@@ -112,12 +119,55 @@
 - [zustand-middleware-xstate](https://github.com/biowaffeln/zustand-middleware-xstate) - Allows you to easily put your xstate state machines into a global zustand store.
 - [Rko](https://github.com/steveruizok/rko) - State management library for React with built-in undo, redo, and persistence. Built on Zustand.
 - [react-drag-elements](https://github.com/timc1/react-drag-elements) - Small & efficient React Hook that allows users to drag items around and update lists of elements.
+- [Web Vitals](https://github.com/schoenwaldnils/web-vitals-react-hook) - Bring web vitals quickly into your react project.
+- [react-use-clipboard](https://github.com/danoc/react-use-clipboard) - React hook that provides copy to clipboard functionality.
+- [AtomicState](https://github.com/immobiliare/atomic-state) - Decentralized state management library for React.
+- [observable-hooks](https://github.com/crimx/observable-hooks) - Concurrent mode safe React hooks for RxJS Observables. Simple, flexible, testable and performant.
+- [react-generate-context](https://github.com/kyleshevlin/react-generate-context) - React Context with less boilerplate.
+- [SomeHooks](https://github.com/taylor-vann/somehooks) - Collection of framework agnostic hooks.
+- [useItemList](https://github.com/souporserious/use-item-list) - Primitive React hook used to coordinate indexed collections effortlessly.
+- [use-lax](https://github.com/arthurdenner/use-lax) - React hook to use with lax.js.
+- [fp-ts-react-stable-hooks](https://github.com/mblink/fp-ts-react-stable-hooks) - Reduce unnecessary rerenders when using fp-ts data types with React hooks.
+- [use-callback-ref](https://github.com/theKashey/use-callback-ref) - Same useRef, but it will callback.
+- [use-reducer-async](https://github.com/dai-shi/use-reducer-async) - React useReducer with async actions.
+- [axios-hooks](https://github.com/simoneb/axios-hooks) - React hooks for axios, with built-in support for server side rendering.
+- [React Cool Portal](https://github.com/wellyshen/react-cool-portal) - React hook for Portals, which renders modals, dropdowns, tooltips etc. to <body> or else.
+- [use-web-animations](https://github.com/wellyshen/use-web-animations) - React hook for highly-performant and manipulable animations using Web Animations API.
+- [use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland.
+- [OIDC React](https://github.com/bjerkio/oidc-react) - React component/hooks to provide OpenID Connect and OAuth2 protocol support.
+- [useDescendants](https://github.com/pacocoursey/use-descendants) - React hook for keeping track of descendant components and their relative indeces.
+- [use-color](https://github.com/junhoyeo/use-color) - Powerful color hook that all designers deserve.
+- [Zustood](https://github.com/udecode/zustood) - Modular store factory using zustand.
+- [use-double-click](https://github.com/tim-soft/use-double-click) - Simple React hook for differentiating single and double clicks on the same component.
+- [react-query-helper](https://github.com/dano-inc/react-query-helper) - Helper library to use react-query more efficient, consistency. ([Reddit](https://www.reddit.com/r/reactjs/comments/r2cyp3/reactqueryhelper_a_helper_library_to_use/))
+- [react-use-measure](https://github.com/pmndrs/react-use-measure) - Utility to measure view bounds.
+- [usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript. ([Docs](https://usehooks-ts.com/))
+- [react-script-hook](https://github.com/hupe1980/react-script-hook) - React hook to dynamically load an external script and know when its loaded.
+- [useFilter](https://github.com/promise-learning/useFilter) - React hook to filter large amount of data using Web Worker. ([Article](https://lakhan.me/blog/use-filter))
+- [transition-hook](https://github.com/iamyoki/transition-hook) - Extreme light-weight react transition animation hook which is simpler and easier to use than react-transition-group.
+- [Retil](https://github.com/jamesknelson/retil) - Superpowers for React Developers.
+- [Byteclaw/hooks](https://github.com/Byteclaw/hooks) - Collection of useful React hooks.
+- [usePromise](https://github.com/vigzmv/react-promise-suspense) - React hook for resolving promises with Suspense support.
+- [web-platform](https://github.com/bem/web-platform) - React SDK for building modern, accessible and cross-platforms interfaces.
+- [repeaterjs/react-hooks](https://github.com/repeaterjs/react-hooks) - React hooks for working with async iterators/generators.
+- [use-combined-pagination](https://github.com/Hyperting/use-combined-pagination) - React Hook for paginating data from multiple sources.
+
+## Code
+
+```js
+<!-- Run `doFunc()` after 2 seconds of component loading -->
+useEffect(() => {
+  const timeout = window.setTimeout(() => doFunc(), 2000)
+  return () => window.clearTimeout(timeout)
+}, [])
+```
 
 ## Notes
 
 - [You can pass _anything_ into context, including "subscribable" objects (like RxJS observables, etc.). This means that you can share & subscribe to streams of values that change frequently, without causing unnecessary rerenders.](https://twitter.com/DavidKPiano/status/1228700861024604160)
 - [Use useState to force a render](https://twitter.com/spikebrehm/status/1386777164780036099)
 - [Every time I think I have a use case for useReducer I end up using useState with an object literal instead.](https://twitter.com/mjackson/status/1387885971589386240)
+- [React Suspense, Hooks, Server Components, TypeScript typed tuples & pattern matching proposal are nice.](https://twitter.com/jaredpalmer/status/1459543265775128579)
 
 ## Links
 
@@ -160,3 +210,20 @@
 - [The Latest Ref Pattern in React](https://epicreact.dev/the-latest-ref-pattern-in-react/)
 - [Prefer Declarative State Updaters (2021)](https://kyleshevlin.com/prefer-declarative-state-updaters) ([Lobsters](https://lobste.rs/s/jt2auz/prefer_declarative_state_updaters))
 - [Scroll events, React Hooks and Refs](https://coding-time.co/scroll-events-react-hooks/)
+- [Making hook work conditionally](https://twitter.com/kyleshevlin/status/1442555297101279236)
+- [React & TypeScript: how to type hooks (a complete guide) (2021)](https://devtrium.com/posts/react-typescript-how-to-type-hooks)
+- [How to use React useReducer hook like a pro (2021)](https://devtrium.com/posts/how-to-use-react-usereducer-hook)
+- [Calin Tamas – Hooks are a great abstraction model (2021)](https://www.youtube.com/watch?v=G_-KaHOeuu4)
+- [How to replace useState with useRef and be a winner (2021)](https://thoughtspile.github.io/2021/10/18/non-react-state/) ([Reddit](https://www.reddit.com/r/reactjs/comments/qals23/how_to_replace_usestate_with_useref_and_be_a/))
+- [Thanks React, I'm fine with an imperative setInterval (2021)](https://thoughtspile.github.io/2021/10/13/really-declarative/)
+- [Are many useStates better than useState(object)? (2021)](https://thoughtspile.github.io/2021/10/11/usestate-object-vs-multiple/)
+- [Hooks Architec](https://github.com/blockmatic/hooks-architecture) - Simple and powerful project architecture for React and React Native apps.
+- [Linear's Hooks](https://twitter.com/tommoor/status/1451331907707236368)
+- [Mental model for useEffect](https://twitter.com/threepointone/status/1452346139487965186)
+- [Why you shouldn't put refs in a dependency array](https://epicreact.dev/why-you-shouldnt-put-refs-in-a-dependency-array/)
+- [How to Handle Async Actions for Global State With React Hooks and Context (2019)](https://blog.axlight.com/posts/how-to-handle-async-actions-for-global-state-with-react-hooks-and-context/)
+- [How React Uses Closures to Avoid Bugs](https://epicreact.dev/how-react-uses-closures-to-avoid-bugs/)
+- [Recoil Design Tool](https://github.com/jacques-blom/recoil-design-tool) - Simple example design tool, built using Recoil and React Suspense.
+- [Make useRef lazy — 4 ways (2021)](https://thoughtspile.github.io/2021/11/30/lazy-useref/) ([Reddit](https://www.reddit.com/r/reactjs/comments/r5luer/make_useref_lazy_4_ways/))
+- [The only two custom React hooks we ever really use (2021)](https://blog.molecule.dev/the-only-custom-react-hooks-we-use/) ([Tweet](https://twitter.com/signalnerve/status/1471943825732116480)) ([HN](https://news.ycombinator.com/item?id=29591816))
+- [Meet the new hook useSyncExternalStore, introduced in React 18 for external stores (2021)](https://blog.saeloun.com/2021/12/30/react-18-usesyncexternalstore-api) ([Reddit](https://www.reddit.com/r/reactjs/comments/rs7p6r/meet_the_new_hook_usesyncexternalstore_introduced/))

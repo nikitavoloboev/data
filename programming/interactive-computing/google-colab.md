@@ -8,3 +8,4 @@
 - [Colab-ssh](https://github.com/WassimBenzarti/colab-ssh) - Connect to Google Colab using SSH.
 - [kora](https://github.com/airesearch-in-th/kora) - Collection of tools to make programming on Google Colab easier.
 - [How to Use Google Colab with VS Code (2021)](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/amp/)
+- [Google Colab features you may have missed (2021)](https://www.youtube.com/watch?v=rNgswRZ2C1Y)

@@ -295,3 +295,85 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Fast IPv4 to Host Lookups (2020)](https://tech.marksblogg.com/fast-ip-to-hostname-clickhouse-postgresql.html)
 - [Where are IPv3 and IPv5?](https://wander.science/articles/ip-version/) ([Lobsters](https://lobste.rs/s/hku8kt/where_are_ipv3_ipv5))
 - [If fiber optics are 30% the speed of light, why is ping across countries so high? (2021)](https://www.reddit.com/r/AskPhysics/comments/pt8eb1/if_fiber_optics_are_30_the_speed_of_light_why_is/)
+- [slirpnetstack](https://github.com/cloudflare/slirpnetstack) - User-mode networking for unprivileged network namespaces.
+- [RTC (Real-Time Communication) at scale (2020)](http://www.horatiulazu.ca/blog/coop/2020/05/02/rt-calling.html)
+- [Submarine cable map rendered onto a globe](https://globe.gl/example/submarine-cables/) ([HN](https://news.ycombinator.com/item?id=28641463))
+- [gostatsd](https://github.com/atlassian/gostatsd) - Implementation of Etsy's statsd in Go with tags support.
+- [CloudFlair](https://github.com/christophetd/CloudFlair) - Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys. ([Article](https://blog.christophetd.fr/bypassing-cloudflare-using-internet-wide-scan-data/))
+- [alphaicon](https://github.com/eusporg/alphaicon) - α-Indirect Control in Onion-like Networks.
+- [IPv6 Fundamentals: A Straightforward Approach to Understanding IPv6, 2nd Edition](https://www.ciscopress.com/store/ipv6-fundamentals-a-straightforward-approach-to-understanding-9780134670607) ([HN](https://news.ycombinator.com/item?id=28705259))
+- [CIDR.xyz](https://cidr.xyz/) - Web-based CIDR / netmask / IP address visualizer. ([Code](https://github.com/yuvadm/cidr.xyz))
+- [Steering oceans of content to the world (2017)](https://engineering.fb.com/2017/08/21/networking-traffic/steering-oceans-of-content-to-the-world/) ([HN](https://news.ycombinator.com/item?id=28755086))
+- [WiFi Connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop.
+- [Hello IPv6: a minimal tutorial for IPv4 users](https://metebalci.com/blog/hello-ipv6/) ([HN](https://news.ycombinator.com/item?id=28784868))
+- [Geneva](https://github.com/Kkevsterrr/geneva) - Automated censorship evasion for the client-side and server-side. ([Web](https://geneva.cs.umd.edu/))
+- [socks](https://github.com/JoshGlazebrook/socks) - Fully featured SOCKS proxy client supporting SOCKSv4, SOCKSv4a, and SOCKSv5. Includes Bind and Associate functionality.
+- [go-netflow](https://github.com/rfyiamcool/go-netflow) - Capture process in/out traffic, similar to c Nethogs.
+- [Preview Local Projects with Cloudflare Tunnel (2021)](https://developers.cloudflare.com/pages/how-to/preview-with-cloudflare-tunnel) ([Tweet](https://twitter.com/signalnerve/status/1449038210076655624))
+- [Tunnel: Cloudflare’s Newest Homeowner (2021)](https://blog.cloudflare.com/observe-and-manage-cloudflare-tunnel/) ([Tweet](https://twitter.com/adam_janis/status/1450098688802557958))
+- [Characterizing CDNs’ latencies with passive measurement (2021)](https://blog.cloudflare.com/cdn-latency-passive-measurement/)
+- [The Network Simulator](https://github.com/nsnam/ns-3-dev-git) - Free open source project aiming to build a discrete-event network simulator targeted for simulation research and education.
+- [Cuishark](https://github.com/cuishark/cuishark) - Protocol analyzer like a wireshark on CUI.
+- [hostsfile](https://github.com/kevinburke/hostsfile) - Go tool for working with /etc/hosts files.
+- [127](https://github.com/lende/127) - Tool for mapping hostnames to random loopback addresses.
+- [What's in a hostname? (2021)](https://www.netmeister.org/blog/hostnames.html)
+- [32 Bit Real Estate (2021)](https://fly.io/blog/32-bit-real-estate/) ([HN](https://news.ycombinator.com/item?id=28920269))
+- [Consul](https://www.consul.io/) - Service Mesh for any runtime or cloud.
+- [Consul Replicate](https://github.com/hashicorp/consul-replicate) - Provides a convenient way to replicate values from one Consul data center to another using the consul-replicate daemon.
+- [multiping](https://github.com/ckauhaus/multiping) - Pings several hosts at once to test outside connectivity.
+- [Ethox](https://github.com/HeroicKatora/ethox) - Standalone library for user-space networking and unikernel systems with a focus on speeed and stability.
+- [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
+- [Gomiko](https://github.com/Ali-aqrabawi/gomiko) - Go implementation of Netmiko.
+- [hBPF](https://github.com/rprinz08/hBPF) - Extended Berkley Packet Filter (eBPF) CPU written entirely in Python3 for PC and FPGA.
+- [Comparing Open Source BGP Stacks (2021)](https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/)
+- [Open IP over VHF/UHF 5 (2021)](https://www.rowetel.com/?p=7898) ([HN](https://news.ycombinator.com/item?id=29022189))
+- [Linux, Netlink, and Go - Part 1: netlink (2017)](https://mdlayher.com/blog/linux-netlink-and-go-part-1-netlink/)
+- [ZMap](https://github.com/zmap/zmap) - Fast single packet network scanner designed for Internet-wide network surveys. ([Web](https://zmap.io/))
+- [net2o](https://fossil.net2o.de/net2o/doc/trunk/wiki/net2o.md) - Reinventing the Internet. ([Lobsters](https://lobste.rs/s/5ztiyl/net2o_reinventing_internet))
+- [Network intersubjectives (2021)](https://subconscious.substack.com/p/network-intersubjectives) ([Tweet](https://twitter.com/gordonbrander/status/1454517797636116480))
+- [Viska](https://github.com/vasilakisfil/viska) - SIP server/framework built in Rust.
+- [libSRTP](https://github.com/cisco/libsrtp) - Implementation of the Secure Real-time Transport Protocol (SRTP), the Universal Security Transform (UST), and a supporting cryptographic kernel.
+- [Pathvector](https://github.com/natesales/pathvector) - Declarative edge routing platform that automates route optimization and control plane configuration with secure and repeatable routing policy. ([Web](https://pathvector.io/))
+- [inlets-on-fly](https://github.com/jsiebens/inlets-on-fly) - Automates the task of creating an inlets-pro exit-server (tunnel server) on the fly.io platform.
+- [Ask HN: Connect to the Internet the old way during next Ethiopian lockdown? (2021)](https://news.ycombinator.com/item?id=29129133)
+- [“Illegal” Moscow state university network built by students (2002-2013)](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9) ([HN](https://news.ycombinator.com/item?id=29135056))
+- [dstp](https://github.com/ycd/dstp) - Run common networking tests against your site.
+- [Test Certificates for localhost (2021)](https://www.hardill.me.uk/wordpress/2021/09/27/test-certificates-for-localhost/)
+- [Webhook Relay](https://webhookrelay.com/) - Relay and proxy all your webhooks to public and internal destinations.
+- [Fast checksum computation (2018)](https://blogs.igalia.com/dpino/2018/06/14/fast-checksum-computation/)
+- [Rport](https://github.com/cloudradar-monitoring/rport) - Manage remote systems with ease. ([Web](https://rport.io/))
+- [The Challenge of Bluetooth Distance Estimation (2020)](http://www.davidgyoungtech.com/2020/05/15/how-far-can-you-go)
+- [getssl](https://github.com/srvrco/getssl) - Obtain SSL certificates from the letsencrypt.org ACME server. Suitable for automating the process on remote servers.
+- [dhcparse](https://github.com/axelf4/dhcparse) - Zero-copy Rust DHCPv4 parser.
+- [XMPP, a comeback story (2021)](https://takebackourtech.org/xmpp-comeback/) ([HN](https://news.ycombinator.com/item?id=29256618)) ([Lobsters](https://lobste.rs/s/8q1qd4/xmpp_comeback_story))
+- [Network Protocol Breakdown: Ethernet and Go (2017)](https://medium.com/@mdlayher/network-protocol-breakdown-ethernet-and-go-de985d726cc1)
+- [OpenThread](https://github.com/openthread/openthread) - Open-source implementation of the Thread networking protocol. ([Web](https://openthread.io/))
+- [udplb](https://github.com/moolen/udplb) - UDP packet forwarder using eBPF.
+- [Mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server / Embedded Networking Library. Implements event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT. ([Web](https://mongoose.ws/))
+- [Everything you ever wanted to know about UDP sockets but were afraid to ask (2021)](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
+- [Apache Traffic Control](https://trafficcontrol.apache.org/) - Build a large scale content delivery network using open source. ([Code](https://github.com/apache/trafficcontrol))
+- [The internet is held together with spit and baling wire (2021)](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/) ([HN](https://news.ycombinator.com/item?id=29353076))
+- [How The Internet Travels Across Oceans (2021)](https://www.youtube.com/watch?v=yd1JhZzoS6A)
+- [sockdump](https://github.com/mechpen/sockdump) - Dump unix domain socket traffic with bpf.
+- [How Does NTP Work? (2021)](https://sookocheff.com/post/time/how-does-ntp-work/)
+- [Routinator](https://github.com/NLnetLabs/routinator) - RPKI Validator written in Rust.
+- [nats-spy](https://github.com/alihanyalcin/nats-spy) - Terminal tool to help you to monitor NATS messages.
+- [BIRD Journey to Threads. Chapter 0: The Reason Why (2021)](https://en.blog.nic.cz/2021/03/15/bird-journey-to-threads-chapter-0-the-reason-why/)
+- [CoreBGP - Plugging in to BGP (2020)](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)
+- [Some latency measurement pitfalls](https://danluu.com/latency-pitfalls/)
+- [ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, webnet77, db-ip lite, GeoLite2.
+- [Masscanned](https://github.com/ivre/masscanned) - Network responder. Its purpose is to provide generic answers to as many protocols as possible.
+- [How eBPF will solve Service Mesh (2021)](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh) ([HN](https://news.ycombinator.com/item?id=29496870))
+- [Gatling](https://github.com/gatling/gatling) - Load test tool. It officially supports HTTP, WebSocket, Server-Sent-Events and JMS. ([Web](https://gatling.io/))
+- [Violet](https://github.com/paullouisageneau/violet) - Lightweight STUN/TURN server.
+- [Ouroboros](https://ouroboros.rocks/) - Peer-to-peer packet network prototype.
+- [NetPlier](https://github.com/netplier-tool/NetPlier) - Tool for binary protocol reverse engineering. Takes network traces as input and infer the keywork by multiple sequence alignment and probabilistic inference.
+- [rsntp](https://github.com/mlichvar/rsntp) - High-performance NTP server written in Rust.
+- [Firewalla](https://firewalla.com/) - Cybersecurity Firewall For Your Family and Business. ([Code](https://github.com/firewalla/firewalla))
+- [Signal Calling Service](https://github.com/signalapp/Signal-Calling-Service) - Forwards media from 1 group call device to N group call devices.
+- [ZGrab](https://github.com/zmap/zgrab2) - Fast, modular application-layer network scanner designed for completing large Internet-wide surveys.
+- [Roll Your Own Network](https://roll.urown.net/index.html) ([Lobsters](https://lobste.rs/s/ho2paq/roll_your_own_network))
+- [What’s something all modern home networks should include, but most don’t? (2021)](https://www.reddit.com/r/HomeNetworking/comments/rqkrxr/whats_something_all_modern_home_networks_should/)
+- [rabbit-digger](https://github.com/rabbit-digger/rabbit-digger) - Rule based proxy written in Rust.
+- [FruityWiFi](http://fruitywifi.com/index_eng.html) - Open source tool to audit wireless networks. ([Code](https://github.com/xtr4nge/FruityWifi))
+- [UDPspeeder](https://github.com/wangyu-/UDPspeeder) - Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP).

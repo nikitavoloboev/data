@@ -39,6 +39,8 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - It would be nice to have something like Spotify for scientific publishing. Versioning for papers/research to improve reproducibility.
 - [Improve understanding: go slowly, take notes, and pause when you don’t understand something. If that’s every sentence, so be it. Do external research to understand 1 paper at a time.](https://www.reddit.com/r/neuroscience/comments/m9t8w4/best_neuroscience_journals_to_follow_in_strokead/)
 - [Peer review is great if your model captures the real world situation, but most models include only a small part of (the relevant parts of) reality and can lead to false confidence.](https://twitter.com/insrchf/status/1434527282664722437)
+- [Just because you wrote down a theory and a bunch of other people cited it does not mean that you explained anything, understood anything, or discovered anything.](https://twitter.com/Noahpinion/status/1441603710182772737)
+- [Everything looks good on paper, but it gets thrown out the window when you start to hit big adoption. It’s all a guessing game and you have to let the market decide at scale.](https://twitter.com/RunNode/status/1463944501328760841)
 
 ## Links
 
@@ -67,6 +69,7 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Edinburgh Research Archive](https://era.ed.ac.uk/) - Digital repository of original research produced at The University of Edinburgh.
 - [ScienceDirect.com](https://www.sciencedirect.com/) - Science, health and medical journals, full text articles and books.
 - [Google Research](https://research.google/) ([GitHub](https://github.com/google-research))
+- [Cloudflare Research](https://research.cloudflare.com/) ([Code](https://github.com/cloudflare/research.cloudflare.com)) ([Announcement](https://blog.cloudflare.com/announcing-cloudflare-research-hub/))
 - [Microsoft Research](https://www.microsoft.com/en-us/research/)
 - [Yandex Research](https://research.yandex.com/) ([GitHub](https://github.com/yandex-research))
 - [Adobe Research](https://research.adobe.com/)
@@ -118,3 +121,16 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [A better Google Scholar (2021)](https://nintil.com/better-google-scholar)
 - [How to succeed as an undergraduate researcher (2018)](https://dblalock.github.io/how-to-undergrad-research/)
 - [Science Corporation](https://science.xyz/) - Developing products for an exciting future. ([Article](https://maxhodak.com/nonfiction/2021/09/03/science.html))
+- [Inconsistency in Conference Peer Review: Revisiting the 2014 NeurIPS Experiment (2021)](https://arxiv.org/abs/2109.09774) ([Paper Explained](https://www.youtube.com/watch?v=19Q-vMd9bYg))
+- [A World Without Sci-Hub (2021)](https://palladiummag.com/2021/09/24/a-world-without-sci-hub/) ([HN](https://news.ycombinator.com/item?id=28689707))
+- [Patent analysis using the Google Patents Public Datasets on BigQuery](https://github.com/google/patents-public-data)
+- [Links with advice related to grad school applications, research, phd etc.](https://github.com/shaily99/advice)
+- [Why Can't I Reproduce Their Results? (2020)](https://theorangeduck.com/page/reproduce-their-results)
+- [It's hard to overstate what a scam academic and scientific publishing is](https://pluralistic.net/2021/10/28/clintons-ghost/#cornucopia-concordance) ([HN](https://news.ycombinator.com/item?id=29061356))
+- [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics)
+- [How to Research Almost Anything](https://github.com/TimothyStiles/how-to-research-almost-anything) - Three part tutorial series on how to access all of the MOOCs, books, and scientific papers.
+- [UNSWorks](https://www.unsworks.unsw.edu.au/primo-explore/search?vid=UNSWORKS) - UNSW Open Access institutional repository.
+- [Library Genesis](http://libgen.li/) - File-sharing based shadow library website for scholarly journal articles, academic and general-interest books, images, comics, audiobooks, and magazines. ([Awesome](https://github.com/freereadorg/awesome-libgen))
+- [Writing good research code](https://github.com/patrickmineault/research_code)
+- [The Good Research Code Handbook](https://goodresearch.dev/) ([Code](https://github.com/patrickmineault/codebook))
+- [Hamming, "You and Your Research" (1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw) ([Notes](https://spico197.github.io/posts/2021/09/hamming/))

@@ -1,7 +1,14 @@
 # [OCaml](https://ocaml.org)
 
+## Notes
+
+- [Just try OCaml for a bit, you'll have trouble going back to bad languages.](https://twitter.com/TaliaRinger/status/1453244728749826048)
+
 ## Links
 
+- [Getting Started with OCaml in 2021](https://lambdafoo.com/posts/2021-10-29-getting-started-with-ocaml.html)
+- [Learn OCaml](https://ocaml-sf.org/learn-ocaml-public/) - Web Application for Learning OCaml. ([Code](https://github.com/ocaml-sf/learn-ocaml))
+- [OCaml Programming: Correct + Efficient + Beautiful Book (2021)](https://cs3110.github.io/textbook/cover.html) - Textbook on functional programming and data structures in OCaml. ([Lectures](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)) ([Tweet](https://twitter.com/avsm/status/1448972909863636993))
 - [Introduction to OCaml (2018)](https://blog.baturin.org/introduction-to-ocaml.html)
 - [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html) ([HN](https://news.ycombinator.com/item?id=22408664)) ([HN](https://news.ycombinator.com/item?id=27972900)) ([Code](https://github.com/cs3110/textbook))
 - [Dune](https://github.com/ocaml/dune) - Composable build system for OCaml.
@@ -82,5 +89,22 @@
 - [Parallel programming in Multicore OCaml](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
 - [denu](https://github.com/thangngoc89/denu) - Toy OCaml builder.
 - [OCaml By Example](https://o1-labs.github.io/ocamlbyexample/)
-- [OCaml Programming: Correct + Efficient + Beautiful Lectures (2021)](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
 - [Writing a REST API with Dream (2021)](https://jsthomas.github.io/ocaml-dream-api.html) ([Code](https://github.com/jsthomas/sensors))
+- [BetterOCaml](https://betterocaml.ml/) - Efficient, intuitive and cross-platform web IDE for the OCaml language. ([Code](https://github.com/jbdoderlein/BetterOCaml))
+- [OCaml is getting multicore support in the next major version (v5) (2021)](https://discuss.ocaml.org/t/the-road-to-ocaml-5-0/8584) ([Tweet](https://twitter.com/SusanPotter/status/1446053574329389059)) ([HN](https://news.ycombinator.com/item?id=28785306))
+- [Using, Understanding, and Unraveling The OCaml Language From Practice to Theory and vice versa](https://caml.inria.fr/pub/docs/u3-ocaml/)
+- [Effective Concurrency with Algebraic Effects in Multicore OCaml (2015)](https://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/) ([HN](https://news.ycombinator.com/item?id=28838099))
+- [MetaML and MetaOCaml bibliography](https://github.com/metaocaml/metaocaml-bibliography)
+- [Plans to choose an official package/project manager? (2021)](https://discuss.ocaml.org/t/plans-to-choose-an-official-package-project-manager/8620) - Current state of tooling and where it falls short.
+- [How to use MetaOCaml with Dune](https://github.com/fpottier/metaocaml-hello-world)
+- [Fromager](https://github.com/mimoo/fromager) - Format your OCaml code.
+- [GADTs - Real World OCaml](https://dev.realworldocaml.org/gadts.html) ([Tweet](https://twitter.com/yminsky/status/1456745330104492045))
+- [Exercism exercises in OCaml](https://exercism.org/tracks/ocaml) ([Code](https://github.com/exercism/ocaml))
+- [Robur](https://robur.coop/) - Software development cooperative specializing in robust and secure digital infrastructure written in OCaml. ([GitHub](https://github.com/roburio))
+- [OCaml plus Jane Street extensions](https://github.com/ocaml-flambda/ocaml-jst)
+- [PicoML](https://github.com/Quramy/pico-ml) - Toy programming language which is a subset of OCaml.
+- [How OCaml type checker works -- or what polymorphism and garbage collection have in common](https://okmij.org/ftp/ML/generalization.html)
+- [Minimal implementation of Hindley-Milner's Algorithm J in OCaml](https://github.com/jfecher/algorithm-j)
+- [PR to Merge Multicore OCaml (2021)](https://github.com/ocaml/ocaml/pull/10831) ([HN](https://news.ycombinator.com/item?id=29638152))
+- [Unpragmatic static blog generator in OCaml](https://xhtmlboi.github.io/articles/yocaml.html)
+- [OCaml flake example project](https://github.com/brendanzab/ocaml-flake-example) - Overly elaborate example of building a ‘Hello World’ package with Nix flakes, OCaml, and Dune.

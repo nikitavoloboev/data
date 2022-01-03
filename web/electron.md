@@ -4,10 +4,14 @@
 
 - [Twizzle](https://github.com/kitze/twizzle) - Desktop app for Twitter DM & composing tweets from the menubar.
 
+## Notes
+
+- [Simplest way to add auto-updating to Electron app is to create an empty public GitHub repo, and use update-electron-app. Publish new builds with GitHub releases.](https://twitter.com/maccaw/status/1469182489180708865)
+
 ## Links
 
 - [Defeating Electron](https://medium.com/@felixrieseberg/defeating-electron-e1464d075528)
-- [Electron Fiddle](https://github.com/electron/fiddle) - Easiest way to get started with Electron.
+- [Electron Fiddle](https://github.com/electron/fiddle) - Easiest way to get started with Electron. ([Web](https://www.electronjs.org/fiddle))
 - [Electron WebPack](https://github.com/electron-userland/electron-webpack)
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing Electron apps and modules.
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron.
@@ -34,3 +38,9 @@
 - [Portal Windows](https://github.com/cryptagon/portal-windows) - Render and position native windows as simply as you render and position tooltips in your React app.
 - [electron/remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [Ask HN: How do you create a cross-platform GUI without using Electron? (2021)](https://news.ycombinator.com/item?id=28484658)
+- [Vite Electron Builder Boilerplate v2](https://github.com/cawa-93/vite-electron-builder) - Secure template for electron applications. Written following the latest safety requirements, recommendations and best practices.
+- [Next.js + Electron](https://github.com/saltyshiomix/nextron)
+- [Notes on running Electron (2021)](https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html)
+- [Electron Chrome Extension](https://github.com/getstation/electron-chrome-extension) - Implementation of Chrome extension APIs for Electron.
+- [Electron Settings](https://github.com/nathanbuchar/electron-settings) - Simple persistent user settings framework for Electron.
+- [Electron is very broken way of building cross platform apps (2021)](https://twitter.com/rsms/status/1457946661032849413)

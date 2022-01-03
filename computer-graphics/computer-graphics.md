@@ -80,7 +80,7 @@
 - [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/) ([HN](https://news.ycombinator.com/item?id=23702552))
 - [Can’t Invert the CDF? The Triangle-Cut Parameterization of the Region under the Curve (2020)](https://eheitzresearch.wordpress.com/792-2/) ([Talk](https://www.youtube.com/watch?v=ZvgpbP0DyHs))
 - [Coding Adventure: Portals (2020)](https://www.youtube.com/watch?v=cWpFZbjtSQg)
-- [Computation graphs and graph computation (2020)](http://breandan.net/2020/06/30/graph-computation/) ([Lobsters](https://lobste.rs/s/flhjdb/computation_graphs_graph_computation))
+- [Computation graphs and graph computation (2020)](https://breandan.net/2020/06/30/graph-computation/) ([Lobsters](https://lobste.rs/s/flhjdb/computation_graphs_graph_computation)) ([HN](https://news.ycombinator.com/item?id=29066780))
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - [Motion Capture from Internet Videos (2020)](https://zju3dv.github.io/iMoCap/)
 - [SPIR-V](https://www.khronos.org/registry/spir-v/) - Binary intermediate language for representing graphical-shader stages and compute kernels for multiple Khronos APIs, including OpenCL, OpenGL, and Vulkan.
@@ -156,7 +156,7 @@
 - [three-d](https://github.com/asny/three-d) - Renderer written in Rust which compiles to both desktop (OpenGL) and web (WebAssembly + WebGL)..
 - [Top 100 3D Renders from the Internet's Largest CG Challenge | Alternate Realities (2021)](https://www.youtube.com/watch?v=iKBs9l8jS6Q)
 - [ThorVG](https://github.com/Samsung/thorvg) - Platform-independent portable library for drawing vector-based scenes and animations. ([Web](https://www.thorvg.org/))
-- [NVIDIA Canvas](https://www.nvidia.com/en-gb/studio/canvas/) - Turn Simple Brushstrokes into Realistic Images. ([HN](https://news.ycombinator.com/item?id=27626610))
+- [NVIDIA Canvas](https://www.nvidia.com/en-gb/studio/canvas/) - Turn Simple Brushstrokes into Realistic Images. ([HN](https://news.ycombinator.com/item?id=27626610)) ([Article](https://blogs.nvidia.com/blog/2021/11/22/gaugan2-ai-art-demo/))
 - [How do games render their scenes? (2021)](https://www.youtube.com/watch?v=Oct4Oi-KfVQ)
 - [Visibility Buffer Rendering with Material Graphs (2021)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
 - [Smoothstep Integral](https://iquilezles.org/www/articles/smoothstepintegral/smoothstepintegral.htm) ([HN](https://news.ycombinator.com/item?id=27588977))
@@ -175,3 +175,38 @@
 - [Scratchapixel](https://www.scratchapixel.com/index.php) - Learn Computer Graphics From Scratch.
 - [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn computer graphics by writing GPU shaders.
 - [MaterialX](https://github.com/materialx/MaterialX) - Open standard for transfer of rich material and look-development content between applications and renderers. ([Web](http://www.materialx.org/))
+- [Appearance-Driven Automatic 3D Model Simplification (2021)](https://arxiv.org/abs/2104.03989) ([Code](https://github.com/NVlabs/nvdiffmodeling))
+- [How to make simple water graphics](https://twitter.com/Azurexis/status/1445772560923119620)
+- [Awesome Fluid Dynamics](https://github.com/lento234/awesome-fluid-dynamics)
+- [ReactCasting](https://github.com/yurkagon/ReactCasting) - Raycasting algorithm that renders pseudo 3D scene in HTML using React (no canvas) and renders as text in textarea or console.
+- [Exponential Map, Angle Axis, and Angular Velocity (2021)](https://theorangeduck.com/page/exponential-map-angle-axis-angular-velocity)
+- [Visualizing Rotation Spaces (2021)](https://theorangeduck.com/page/visualizing-rotation-spaces)
+- [Learned Motion Matching (2020)](https://theorangeduck.com/page/learned-motion-matching)
+- [Swapchains and Frame Pacing (2021)](https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html) ([HN](https://news.ycombinator.com/item?id=28963392))
+- [Graphics Programming Resources List](https://github.com/Graphics-Programming-Virtual-Meetup/Resources)
+- [Graphics Programming Virtual Meetup Meeting Notes](https://github.com/Graphics-Programming-Virtual-Meetup/meeting-notes)
+- [Graphics Programming Virtual Meetup](https://www.meetup.com/Graphics-Programming-Virtual-Meetup/) ([Discord](https://discord.com/invite/6TTRA5h)) ([Twitter](https://twitter.com/GraphicsMeetup))
+- [Unbiased Emission and Scattering Importance Sampling For Heterogeneous Volumes (2021)](https://www.yiningkarlli.com/projects/emissionscattervolumes.html) ([Article](https://blog.yiningkarlli.com/2021/08/unbiased-emission-and-scattering-volumes.html))
+- [Takua Renderer](https://www.yiningkarlli.com/projects/takuarender.html) - Physically-based photorealistic global illumination renderer. ([Porting Takua Renderer to 64-bit ARM](https://blog.yiningkarlli.com/2021/05/porting-takua-to-arm-pt1.html)) ([Shadow Terminator in Takua](https://blog.yiningkarlli.com/2020/02/shadow-terminator-in-takua.html))
+- [Magic Shop RenderMan Art Challenge (2021)](https://blog.yiningkarlli.com/2021/04/magic-shop-renderman-challenge.html)
+- [Raya and the Last Dragon (2021)](https://blog.yiningkarlli.com/2021/03/raya-and-the-last-dragon.html)
+- [Shipshape RenderMan Art Challenge (2020)](https://blog.yiningkarlli.com/2020/07/shipshape-renderman-challenge.html)
+- [Can Data Die? Tracking the Lenna Image (2021)](https://pudding.cool/2021/10/lenna/)
+- [Curves and Surfaces (2021)](https://ciechanow.ski/curves-and-surfaces/) ([HN](https://news.ycombinator.com/item?id=29083349)) ([Tweet](https://twitter.com/BCiechanowski/status/1455569586653302785))
+- [OctaneRender](https://home.otoy.com/render/octane-render/) - Fastest unbiased, spectrally correct GPU render engine, delivering quality and speed.
+- [OTOY](https://home.otoy.com/) - Future of holographic rendering is in the cloud. ([Twitter](https://twitter.com/OTOY))
+- [NAP Framework](https://www.napframework.com/) - Open source, low overhead, real-time control & visualization platform. ([Code](https://github.com/napframework/nap))
+- [Awesome Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
+- [Adventures in Hybrid Rendering](https://diharaw.github.io/post/adventures_in_hybrid_rendering/)
+- [Retro Synthwave](https://github.com/victorqribeiro/retroSynthwave) - Giving a 2D grid a 3D look. ([HN](https://news.ycombinator.com/item?id=29369941))
+- [Good Graphics](https://goodgraphics.xyz/) - Artistic practice of Romello Goodman.
+- [FNA3D](https://github.com/FNA-XNA/FNA3D) - 3D Graphics Library for FNA. ([Web](https://fna-xna.github.io/))
+- [Universal Volumetric](https://github.com/XRFoundation/UniversalVolumetric) - Free, fast, cross-platform volumetric codec for everyone.
+- [Text2Mesh Text-Driven Neural Stylization for Meshes (2021)](https://threedle.github.io/text2mesh/) ([Code](https://github.com/threedle/text2mesh))
+- [Building a PS1 style retro 3D renderer (2021)](https://www.david-colson.com/2021/11/30/ps1-style-renderer.html) ([HN](https://news.ycombinator.com/item?id=29486066))
+- [Model Synthesis](https://github.com/merrell42/model-synthesis) - Model synthesis is a technique for generating 2D and 3D shapes from examples. ([Web](https://paulmerrell.org/model-synthesis/))
+- [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). ([Docs](https://docs.pyvista.org/))
+- [How to Draw S-Curved Arrows Between Boxes / Rectangles (2021)](https://dragonman225.js.org/curved-arrows.html) ([HN](https://news.ycombinator.com/item?id=29652139))
+- [A Meta-er-verse (2021)](https://opguides.info/posts/metaverse/)
+- [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html) ([HN](https://news.ycombinator.com/item?id=29755242))
+- [Distance, Time-of-Impact, and Closest-Point-of-Approach between Convex 2D Shapes](https://github.com/memononen/cpa)

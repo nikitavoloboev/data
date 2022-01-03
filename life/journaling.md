@@ -16,6 +16,11 @@ I quite like [Fabian's retrospectives](https://capnfabs.net/tags/retrospective/)
 
 ![](https://i.imgur.com/vxT4AqW.png)
 
+## Notes
+
+- [Much progress is a spiral; you keep realizing the same things, just in more depth, and more deeply integrated.](https://twitter.com/ElodesNL/status/1460213414119329797)
+- [Having a kindness log is great.](https://twitter.com/yodelnyc/status/1466887442816856069)
+
 ## Links
 
 - [Susan Fowler's Year In Review: 2019](https://www.susanjfowler.com/blog/2019/12/10/my-year-in-review-2019)
@@ -29,3 +34,6 @@ I quite like [Fabian's retrospectives](https://capnfabs.net/tags/retrospective/)
 - [Chronicle](https://chronicle.ink/) - Lightweight journaling app where you record highlights of your day. ([Code](https://github.com/coffee-cup/chronicle))
 - [Make a personal changelog (2021)](https://brianlovin.com/writing/make-a-personal-changelog) ([Tweet](https://twitter.com/brian_lovin/status/1387807846486614018))
 - [Five Minute Journal – Daily Journal Techniques and Tips](https://briansunter.com/blog/five-minute-journal/) ([HN](https://news.ycombinator.com/item?id=28530120))
+- [40 questions to ask yourself every year](http://stephanango.com/40-questions) ([Code](https://github.com/kepano/40-questions))
+- [A guide to personal retrospectives in engineering (2021)](https://circleci.com/blog/a-guide-to-personal-retrospectives-in-engineering/)
+- [10 Questions to Process Before you Wrap a Year](https://www.instagram.com/p/CYHYXOoL1DF/)

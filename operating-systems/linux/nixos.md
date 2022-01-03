@@ -11,6 +11,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 
 ## Nix configs (NixOS)
 
+- [Mitchell Hashimoto](https://github.com/mitchellh/nixos-config) - Work for both Intel and Apple Silicon. ([Tweet](https://twitter.com/mitchellh/status/1452721115009191938)) ([NixOS VM on Mac Setup](https://www.youtube.com/watch?v=ubDMLoWz76U))
 - [Infrastructure](https://github.com/rvolosatovs/infrastructure) ([How to use it](https://github.com/rvolosatovs/infrastructure/issues/3))
 - [Bob nix-home](https://github.com/bobvanderlinden/nix-home)
 - [Brian McKenna Nix Files](https://github.com/puffnfresh/nix-files) - NixOS configuration and custom Nix derivations.
@@ -39,6 +40,13 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configurations.
 - [Julius Bruijn](https://github.com/pimeys/nixos)
 - [Michael Lingelbach](https://github.com/mjlbach/nix-dotfiles)
+- [Thiago Okada](https://github.com/thiagokokada/nix-configs)
+- [Pablo Corral](https://github.com/pinpox/nixos)
+- [jkachmar](https://github.com/jkachmar/dotnix)
+- [Xe](https://github.com/Xe/nixos-configs)
+- [Eric Dallo](https://github.com/ericdallo/dotfiles)
+- [Matthew Croughan](https://github.com/MatthewCroughan/nixcfg)
+- [fortune](https://github.com/fortuneteller2k/nix-config) - NixOS configuration spawned from madness (home-manager and system).
 
 ## Nix configs (macOS)
 
@@ -47,6 +55,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [cmacrae](https://github.com/cmacrae/.nixpkgs/blob/master/darwin-configuration.nix)
 - [Tom's nix-configs](https://github.com/nocoolnametom/nix-configs)
 - [Phil Pluckthun](https://github.com/kitten/nix-system)
+- [Nix-Darwin-Dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles)
 
 ## Notes
 
@@ -148,6 +157,26 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Deploying a NixOS configuration into a QEMU VM (2020)](https://alpmestan.github.io/notes/nixos-qemu.html)
 - [NixOS on underpowered devices (2021)](https://eno.space/blog/2021/08/nixos-on-underpowered-devices)
 - [nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 30s cycle times.
-- [Nix-Gui](https://github.com/nix-gui/nix-gui) - Make NixOS usable for non-technical users through a settings / package management GUI.
+- [Nix-Gui](https://github.com/nix-gui/nix-gui) - Make NixOS usable for non-technical users through a settings / package management GUI. ([HN](https://news.ycombinator.com/item?id=28817477))
 - [NixOS Configuration with Flakes (2021)](https://jdisaacs.com/blog/nixos-config/)
 - [Google Cloud “GCP” native NixOS images build (2021)](https://mudrii.medium.com/google-cloud-gcp-native-nixos-images-build-16f77a412bb7)
+- [NixOS Matrix Chat](https://matrix.to/#/#community:nixos.org)
+- [How I started with NixOS (2021)](https://gianarb.it/blog/how-i-started-with-nixos) ([Reddit](https://www.reddit.com/r/NixOS/comments/q77m1y/how_i_started_with_nixos/))
+- [NixOS and the Art of OS Configuration (2018)](https://www.rousette.org.uk/archives/nixos-and-the-art-of-os-configuration/) ([HN](https://news.ycombinator.com/item?id=28884609))
+- [nix-simple-deploy](https://github.com/misuzu/nix-simple-deploy) - Deploy software or an entire NixOS system configuration to another NixOS system.
+- [Flying Circus NixOS Platform](https://github.com/flyingcircusio/fc-nixos)
+- [Low-footprint NixOS images](https://github.com/lourkeur/miniguest)
+- [nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS.
+- [extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds.
+- [nix-autobahn](https://github.com/wucke13/nix-autobahn)
+- [homeage](https://github.com/jordanisaacs/homeage) - Module for home-manager that enables runtime decryption of declarative age files.
+- [How Nix and NixOS Get So Close to Perfect (2021)](https://christine.website/talks/nixos-pain-2021-11-10) ([Lobsters](https://lobste.rs/s/ff54p1/how_nix_nixos_get_so_close_perfect))
+- [NixOps is easier than I thought (2021)](https://sgt.hootr.club/molten-matter/nixops-on-the-pi/)
+- [Nix System Configuration](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager.
+- [bootspec](https://github.com/DeterminateSystems/bootspec) - Research project that aims to improve the bootloader story in NixOS.
+- [NixOS: Headless Home Assistant VM (2021)](https://myme.no/posts/2021-11-25-nixos-home-assistant.html) ([Lobsters](https://lobste.rs/s/xi9jcs/nixos_headless_home_assistant_vm))
+- [Attempts to get NixOS up on M1 Macs](https://github.com/tpwrules/nixos-m1)
+- [NixOS aarch64 images](https://github.com/Mic92/nixos-aarch64-images)
+- [M1 dev setup using a NixOS virtual machine (2021)](https://calcagno.blog/m1dev/)
+- [nixos-gen-config](https://github.com/nix-community/nixos-gen-config)
+- [A second look at NixOS (2022)](https://psibi.in/posts/2022-01-01-nixos.html)

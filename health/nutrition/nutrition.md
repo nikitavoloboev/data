@@ -79,3 +79,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
 - [How do people eat delicious food while staying thin? (2021)](https://www.reddit.com/r/nutrition/comments/n66oz4/how_do_people_eat_delicious_food_while_staying/)
 - [Nell Health](https://nellhealth.com/) - Genetic testing, health screening, health assessments based on diet and exercise.
 - [How Not to Die Book](https://nutritionfacts.org/book/how-not-to-die/) ([Review](https://www.flowstate.to/ben/how-not-to-die-book-review-3lha))
+- [The Hacker's Diet](https://www.fourmilab.ch/hackdiet/) - How to lose weight and permanently maintain whatever weight you desire.

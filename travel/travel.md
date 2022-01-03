@@ -1,5 +1,7 @@
 # Travel
 
+I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=PLfO1QINjvak9KoBetr7ThGHVB2owBLH1C) travel vlog (it's in Russian). What's amazing is how he mixes in atmospheric music with nice edits of both the city and his standup and voice audios of people he talked to.
+
 ## Notes
 
 - Visiting subreddits of cities/countries you are going to as well as the respective `AskA..` communities is great way to know about a place. [AskARussian](https://www.reddit.com/r/AskARussian/) is one such subreddit, it links to more similar subreddits in the sidebar.
@@ -86,3 +88,19 @@
 - [Expat Briefing](https://www.expatbriefing.com/)
 - [86 перелетов за год. Что я научился всегда брать с собой в поездку. (2017)](https://www.youtube.com/watch?v=2QURN-BJWHI)
 - [There are six internet links on my office on wheels. Seven when Starlink arrives (2021)](https://ghuntley.com/internet/) - How I put together a vehicle with the best internet connectivity in Australia. ([HN](https://news.ycombinator.com/item?id=28593698))
+- [Perito](https://perito-burrito.com/) - Куда поехать в путешествие.
+- [Lonely Planet](https://www.lonelyplanet.com/) - Travel Guides & Travel Information - Lonely Planet.
+- [The longest possible train travel in the world](https://www.reddit.com/r/MapPorn/comments/po1ggb/the_longest_possible_train_travel_in_the_world/)
+- [Ask HN: What is your story of immigrating to another country? (2021)](https://news.ycombinator.com/item?id=28808468)
+- [Rome2rio](https://www.rome2rio.com/) - Discover how to get anywhere.
+- [CanITravel](https://canitravel.net/) - Covid entry requirements to any destination.
+- [Hewell App](https://hewellapp.com/) - Travel app powered by WikiData. ([HN](https://news.ycombinator.com/item?id=29144207))
+- [Awesome Immigration](https://github.com/acacess/awesome-immigration) - Awesome list of long-term visas.
+- [Airheart](https://airheart.com/) - Trip Planner, for Solo Travelers and Groups.
+- [Future of travel (2021)](https://twitter.com/bchesky/status/1457904388366692354)
+- [Location History Visualizer](https://locationhistoryvisualizer.com/heatmap/) - Tool for visualizing your complete, consolidated, collected Google Location History. ([Code](https://github.com/theopolisme/location-history-visualizer))
+- [Longest possible train journey in the world](https://twitter.com/Locati0ns/status/1470041690492657673)
+- [The longest train journey – in 2021](https://jonworth.eu/the-longest-train-journey-in-the-world/) ([HN](https://news.ycombinator.com/item?id=29570640)) ([HN](https://news.ycombinator.com/item?id=29682578))
+- [Страны мира где-то почти как свой](https://twitter.com/mighty_shield/status/1283386813223182336)
+- [Stylish maps of sleeper train routes](http://www.night-trains.com/)
+- [If Airbnb could launch anything in 2022, what would it be?](https://twitter.com/bchesky/status/1477764672640073728)

@@ -88,3 +88,13 @@
 - [The mRNA Vaccines Are Extraordinary, but Novavax Is Even Better (2021)](https://www.theatlantic.com/health/archive/2021/06/novavax-now-best-covid-19-vaccine/619276/) ([Tweet](https://twitter.com/DavidSacks/status/1423190473603174403))
 - [The mutation that helps Delta spread (2021)](https://www.nature.com/articles/d41586-021-02275-2) ([HN](https://news.ycombinator.com/item?id=28248945))
 - [The Coronavirus Is Here Forever (2021)](https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/) ([HN](https://news.ycombinator.com/item?id=28274819))
+- [Documents confirming China's role in COVID release (2021)](https://twitter.com/zeynep/status/1441785603100606481)
+- [SARS-CoV-2 variant A.30 is heavily mutated and evades vaccine-induced antibodies (2021)](https://www.nature.com/articles/s41423-021-00779-5) ([HN](https://news.ycombinator.com/item?id=29004006))
+- [How highly effective mRNA vaccines work (nice visual) (2021)](https://twitter.com/SamIAm2021MD/status/1459051952831189013)
+- [Chemical composition of the mRNA vaccines (2021)](https://twitter.com/ENirenberg/status/1460107641481531392)
+- [Python-for-Epidemiologists Course](https://github.com/pzivich/Python-for-Epidemiologists)
+- [Heavily mutated coronavirus variant puts scientists on alert (2021)](https://www.nature.com/articles/d41586-021-03552-w) ([HN](https://news.ycombinator.com/item?id=29345194))
+- [pangolin](https://github.com/cov-lineages/pangolin) - Software package for assigning SARS-CoV-2 genome sequences to global lineages.
+- [How PCR (Polymerase Chain Reaction) Test works (2021)](https://www.reddit.com/r/worldnews/comments/r3e6el/comment/hmavmn0/?utm_source=reddit&utm_medium=web2x&context=3)
+- [Your Local Epidemiologist - by Katelyn Jetelina](https://yourlocalepidemiologist.substack.com/)
+- [Omicron Is Our Past Pandemic Mistakes on Fast-Forward (2021)](https://www.theatlantic.com/health/archive/2021/12/omicron-mistakes/621112/) ([Tweet](https://twitter.com/edyong209/status/1474058652738854918))

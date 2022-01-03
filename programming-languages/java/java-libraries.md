@@ -2,10 +2,12 @@
 
 ## Web
 
-- [Netty](https://github.com/netty/netty) - Event-driven asynchronous network application framework.
+- [Netty](https://github.com/netty/netty) - Event-driven asynchronous network application framework. ([Web](https://netty.io/)) ([Tour of Netty](https://medium.com/geekculture/a-tour-of-netty-5020ecee5494))
 - [Spring Boot](https://github.com/spring-projects/spring-boot) - Makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run". ([Docs](https://spring.io/projects/spring-boot))
 - [TeaVM](http://teavm.org/) - Build Fast, Modern Web Apps in Java. ([Code](https://github.com/konsoletyper/teavm)) ([HN](https://news.ycombinator.com/item?id=25978053))
 - [Spring Framework](https://spring.io/projects/spring-framework) ([Code](https://github.com/spring-projects/spring-framework))
+- [Caffeine](https://github.com/ben-manes/caffeine) - High performance, near optimal caching library.
+- [Feign](https://github.com/OpenFeign/feign) - Java to HTTP client binder.
 
 ## GUI
 
@@ -15,6 +17,9 @@
 
 - [jOOQ](https://github.com/jOOQ/jOOQ) - Fluent API for typesafe SQL query construction and execution. ([Web](https://www.jooq.org/))
 - [ObjectiveSQL](https://github.com/braisdom/ObjectiveSql) - ORM framework in Java based on ActiveRecord pattern. ([HN](https://news.ycombinator.com/item?id=25170053))
+- [Database Queue](https://github.com/yoomoney/db-queue) - Worker-queue implementation on top of Java and database.
+- [Luwak](https://github.com/flaxsearch/luwak) - High performance stored query engine.
+- [Jedis](https://github.com/redis/jedis) - Redis Java client designed for performance and ease of use.
 
 ## Test
 
@@ -30,6 +35,12 @@
 - [JavaPlex](https://github.com/appliedtopology/javaplex) - Persistent Homology and Topological Data Analysis Library.
 - [Mixin](https://github.com/SpongePowered/Mixin) - Trait/mixin and bytecode weaving framework for Java using ASM.
 - [Gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back.
+- [Manifold](https://github.com/manifold-systems/manifold) - Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. ([Docs](http://manifold.systems/))
+- [JavaCPP](https://github.com/bytedeco/javacpp) - Efficient access to native C++ inside Java.
+- [Amazon Ion Java](https://github.com/amzn/ion-java) - Java streaming parser/serializer for Ion.
+- [Jackson Scala](https://github.com/FasterXML/jackson-module-scala) - JSON processing.
+- [lambda](https://github.com/palatable/lambda) - Functional patterns for Java.
+- [Guava](https://github.com/google/guava) - Google core libraries for Java.
 
 ## Links
 

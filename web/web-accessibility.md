@@ -1,5 +1,9 @@
 # Web accessibility
 
+## Notes
+
+- [UI component libraries are using the term “accessible” too freely. Adding focus styles and copy-pasting some ARIA roles doesn't make your library accessible, neither does adding an “accessibility” page where you claim to conform to WCAG just because you ran a Lighthouse test.](https://twitter.com/mmatuzo/status/1462884917671604228)
+
 ## Links
 
 - [WebAIM Million](https://webaim.org/projects/million/) - Accessibility analysis of the top 1,000,000 home pages.
@@ -73,3 +77,14 @@
 - [Accessibility-First Tool Concepts (2021)](https://icing.space/2021/accessibility-first-tool-concepts/)
 - [Eleventy starter project for WCAG reports](https://github.com/hidde/eleventy-wcag-reporter) ([Article](https://hiddedevries.nl/en/blog/2021-05-24-introducing-an-eleventy-starter-project-for-wcag-reports))
 - [Inclusive Design 24 Schedule (2021)](https://inclusivedesign24.org/2021/schedule/)
+- [Good and compact material that teaches you the basics of accessibility on the web (2021)](https://twitter.com/rauschma/status/1441091864073961481)
+- [Buttons vs. Links (2021)](https://yatil.net/blog/buttons-vs-links) ([Tweet](https://twitter.com/SaraSoueidan/status/1448905214145318946))
+- [Visible](https://github.com/visible/visible) - Accessibility testing framework at the next level.
+- [A guide to designing accessible, WCAG-compliant focus indicators (2021)](https://www.sarasoueidan.com/blog/focus-indicators/) ([HN](https://news.ycombinator.com/item?id=29123990))
+- [The effect of CSS on screen readers (2021)](https://uselessdivs.com/blog/the-effect-of-css-on-screen-readers)
+- [Testing Accessibility workshop series](https://github.com/marcysutton/testing-accessibility-demos)
+- [Accessibility Myths](https://a11ymyths.com/)
+- [The importance of accessibility in digital products (2021)](https://dev.to/inhuofficial/never-forget-the-importance-of-accessibility-in-digital-products-11)
+- [Small Wins for Accessibility and Resilience (2021)](https://www.callumhart.com/blog/small-wins-for-accessibility-and-resilience/)
+- [Auditing React Apps for Accessibility (2021)](https://egghead.io/courses/auditing-react-apps-for-accessibility-08733265)
+- [a11y-components](https://github.com/t12t/a11y-components)

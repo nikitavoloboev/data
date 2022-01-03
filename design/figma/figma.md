@@ -12,6 +12,9 @@
 
 - [When resizing frames, hold Command ⌘ to ignore constraint settings for all objects inside that frame](https://twitter.com/rogie/status/1239560547659468800)
 - [Can open Figma URLs in desktop app via menu bar (File > Open File URL From Clipboard)](https://twitter.com/gavinmcfarland/status/1260132994679013377). Or [set the preference via the browser app to always open Figma links in the desktop app](https://twitter.com/rollmottle/status/1260212414592634880).
+- CMD+Y = show/hide outline
+- [Can use Figma to keep track of all illustrations used in blogs/..](https://twitter.com/kkblinder/status/1458547793660764170)
+- [You can set auto layout on component variant frames in Figma.](https://twitter.com/Gavmn/status/1471954816897191936)
 
 ## Links
 
@@ -61,3 +64,9 @@
 - [10 Figma tricks I wish I knew earlier (2021)](https://uxdesign.cc/10-more-figma-tricks-i-wish-i-knew-earlier-1f802190e31a)
 - [SaaS Blocks Figma UI Kit](https://cogentgene1.gumroad.com/#FbINx)
 - [Figma Mirror](https://www.figma.com/mirror)
+- [How (and why) we built branching (2021)](https://www.figma.com/blog/how-and-why-we-built-branching/) ([Tweet](https://twitter.com/skuwamoto/status/1447980346935439360))
+- [GraphQL, meet LiveGraph: a real-time data system at scale (2021)](https://www.figma.com/blog/livegraph-real-time-data-fetching-at-figma/) - Real-time data fetching at Figma.
+- [Introducing new FigJam prices and a more open platform (2021)](https://www.figma.com/blog/introducing-new-figjam-prices-and-a-more-open-platform/) ([Tweet](https://twitter.com/zoink/status/1450522306862739459))
+- [What should Figma add (2021)](https://twitter.com/skuwamoto/status/1458819457761955841)
+- [Awesome Figma](https://github.com/react-figma/awesome-figma)
+- [Figma Auto Layout: Practical tips for dynamic designs (2020)](https://evilmartians.com/chronicles/figma-auto-layout-practical-tips-for-dynamic-designs)

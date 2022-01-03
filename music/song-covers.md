@@ -25,3 +25,5 @@
 - [Imagine Dragons - Blank Space (Taylor Swift cover in the Live Lounge)](https://www.youtube.com/watch?v=CFX8VJUtDgY)
 - [Maneskin - Beggin'](https://www.youtube.com/watch?v=L0PBcnAaYwA)
 - [Баста - Сансара (cover by Valery. Y./Лера Яскевич)](https://www.youtube.com/watch?v=nD4B09OmSb8)
+- [Валентин Стрыкало - Наше лето](https://www.youtube.com/watch?v=byKX7Juo8rg)
+- [Валентин Стрыкало - Наше лето 2](https://www.youtube.com/watch?v=lkr04pnud2U)

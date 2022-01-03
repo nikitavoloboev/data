@@ -28,3 +28,13 @@
 - [Dask Cloud Provider](https://github.com/dask/dask-cloudprovider) - Native Cloud integration for Dask. ([Docs](https://cloudprovider.dask.org/en/latest/))
 - [Jupyter, Microscopy, and On-demand Dask Cloud Clusters (2021)](https://www.youtube.com/watch?v=6YpuvJv6324)
 - [Tackling unmanaged memory with Dask (2021)](https://coiled.io/tackling-unmanaged-memory-with-dask/)
+- [Hacking Dask: Diving into Dask's Internals](https://github.com/jrbourbeau/hacking-dask)
+- [Dask Binder template](https://github.com/jrbourbeau/dask-binder-template) - Template for Dask-enabled repositories for use on Binder.
+- [Afar](https://github.com/eriknw/afar) - Run code on a Dask cluster via a context manager or IPython magic.
+- [Dask as a Spark Replacement (2021)](https://coiled.io/blog/dask-as-a-spark-replacement/)
+- [2021 Dask User Survey](https://blog.dask.org/2021/09/15/user-survey)
+- [Dask Working Notes](https://blog.dask.org/)
+- [Choosing good chunk sizes in Dask (2021)](https://blog.dask.org/2021/11/02/choosing-dask-chunk-sizes)
+- [HN: Dask (2021)](https://news.ycombinator.com/item?id=29260492)
+- [dask-awkward](https://github.com/ContinuumIO/dask-awkward) - Connecting Dask with Awkward Arrays.
+- [flox](https://github.com/dcherian/flox) - Fast & furious GroupBy operations for dask.array.

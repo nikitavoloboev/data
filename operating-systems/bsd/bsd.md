@@ -6,7 +6,7 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 
 ## Links
 
-- [FreeBSD Handbook](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html)
+- [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/introduction/)
 - [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)
 - [FreeBSD Source](https://github.com/freebsd/freebsd)
 - [What are the differences between OpenBSD and Linux? (2019)](https://cfenollosa.com/blog/what-are-the-differences-between-openbsd-and-linux.html) ([HN](https://news.ycombinator.com/item?id=20028370))
@@ -52,7 +52,7 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [Refactoring the FreeBSD Kernel with Checked C](https://cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf) ([HN](https://news.ycombinator.com/item?id=25989115))
 - [Migrate Everything from Linux to BSD (2020)](https://www.unixsheikh.com/articles/why-you-should-migrate-everything-from-linux-to-bsd.html) ([HN](https://news.ycombinator.com/item?id=26060307))
 - [How to run FreeBSD 13 in QEMU on Apple Silicon Mac](https://gist.github.com/ctsrc/a1f57933a2cde9abc0f07be12889f97f#) ([HN](https://news.ycombinator.com/item?id=26053983))
-- [Hello system](https://hellosystem.github.io/docs/) - FreeBSD-based OS designed to resemble Mac. ([HN](https://news.ycombinator.com/item?id=26092040)) ([GitHub](https://github.com/helloSystem))
+- [HelloSystem](https://hellosystem.github.io/docs/) - FreeBSD-based OS designed to resemble Mac. ([HN](https://news.ycombinator.com/item?id=26092040)) ([GitHub](https://github.com/helloSystem)) ([HN](https://news.ycombinator.com/item?id=28733897))
 - [A Trip into FreeBSD (2021)](https://christine.website/blog/a-trip-into-freebsd-2021-02-13) ([Lobsters](https://lobste.rs/s/x0jtjw/trip_into_freebsd))
 - [FreeBSD and I2C (2021)](https://blog.tyk.nu/blog/freebsd-and-i2c/)
 - [Runj](https://github.com/samuelkarp/runj) - Experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails.
@@ -74,3 +74,12 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [FreeBSD Technology Roadmap (2021)](https://freebsdfoundation.org/blog/technology-roadmap/)
 - [The DragonFlyBSD Operating System (2004)](https://people.freebsd.org/~hsu/publications/dragonflybsd.asiabsdcon04.pdf) ([Lobsters](https://lobste.rs/s/hdmuth/dragonflybsd_operating_system_2004))
 - [Serving Netflix Video at 400Gb/s (2021)](https://people.freebsd.org/~gallatin/talks/euro2021.pdf) ([HN](https://news.ycombinator.com/item?id=28584738))
+- [OpenBSD Webzine](https://webzine.puffy.cafe/) - Stay informed about OpenBSD in a cool, fun and instructive way, like reading a regularly issued magazine.
+- [What every IT person needs to know about OpenBSD (2021)](https://bsdly.blogspot.com/2021/09/what-every-it-person-needs-to-know.html) ([Lobsters](https://lobste.rs/s/e7opuw/what_every_it_person_needs_know_about))
+- [FreeBSD Audio (2021)](https://meka.rs/blog/2021/10/12/freebsd-audio/) ([HN](https://news.ycombinator.com/item?id=28850513))
+- [OpenBSD 7.0 (2021)](https://www.openbsd.org/70.html) ([HN](https://news.ycombinator.com/item?id=28862439))
+- [How BSD Authentication Works (2021)](https://blog.lambda.cx/posts/how-bsd-authentication-works/)
+- [OpenBSD: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/) ([HN](https://news.ycombinator.com/item?id=29037108))
+- [OpenBSD: That packet filter explained (2021)](https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/)
+- [NanoPi R4S - ARM64- FreeBSD (2021)](https://www.pbdigital.org/post/2021-11-15-freebsd-arm-r4s/)
+- [FreeBSD jails for fun and profit](https://topikettunen.com/blog/freebsd-jails-for-fun-and-profit/)

@@ -31,6 +31,7 @@
 - [Breakpoint Studio](https://breakpointstudio.com/) - Mobile Strategy, Design, Development.
 - [Elegant Chaos](https://elegantchaos.com/) - Mac and iOS software development, consultancy, debugging, and contracting.
 - [Nice Photon](https://nicephoton.com/) - Make iOS apps. ([GitHub](https://github.com/nicephoton))
+- [Xmartlabs](https://xmartlabs.com/) ([GitHub](https://github.com/xmartlabs))
 
 ## Node
 
@@ -38,6 +39,7 @@
 
 ## Design
 
+- [Raureif](https://raureif.net/) - Experts in typography and user interface design.
 - [Supercreative](https://supercreative.design/)
 - [Filament Group](https://www.filamentgroup.com/) - Design and front-end development studio.
 - [MOXY](https://moxy.studio/about) - Interdisciplinary studio, we specialise in designing and developing.
@@ -69,6 +71,9 @@
 - [Simple Thread](https://www.simplethread.com/) - Digital Product Agency.
 - [Charmer](https://charmerstudio.com/ru) - Дизайн-студия.
 - [Utsubo](https://www.utsubo.co/) - Technology-first creative studio. ([Twitter](https://twitter.com/utsuboco))
+- [Friendly Studio](https://friendly.studio/) - Design Studio for Startups.
+- [Rejiggle](https://rejiggle.co/) - Conversion-Focused Design Studio.
+- [9elements](https://9elements.com/) - Digital product and design studio. ([GitHub](https://github.com/9elements))
 
 ## DB
 
@@ -76,7 +81,9 @@
 
 ## Scala
 
+- [Underscore](https://underscore.io/) - Scala software development, consultancy, and training.
 - [Propensive](https://propensive.com/) - European technology company, specializing in supporting the Scala programming community.
+- [Inner Product](https://www.inner-product.com/)
 
 ## Clojure
 
@@ -98,6 +105,7 @@
 ## NixOS
 
 - [NumTide](https://numtide.com/) - Bringing the power of Nix to companies since 2016. ([GitHub](https://github.com/numtide))
+- [TVL (The Virus Lounge)](https://tvl.su/) - Software consulting.
 
 ## Elm
 
@@ -154,7 +162,7 @@
 - [HYPE4](https://hype4.com/) - Web and mobile / design and development.
 - [FP Complete](https://www.fpcomplete.com/) - Specialize in building Reliable, Repeatable, Scalable and Highly Secure Software.
 - [gskinner](https://gskinner.com/) ([GitHub](https://github.com/gskinnerTeam))
-- [47 Degrees](https://www.47deg.com/) - Engineering the Future of Enterprise.
+- [47 Degrees](https://www.47deg.com/) - Engineering the Future of Enterprise. ([GitHub](https://github.com/47deg))
 - [Moritz Systems](https://www.moritz.systems/) - Code Security, Embedded Solutions, IOT and Edge Computing.
 - [LateCheckout](https://withlatecheckout.com/) - Communities design firm.
 - [Underjord](https://underjord.io/) - Artisanal software development, quality productions and some teaching.
@@ -202,6 +210,14 @@
 - [Surf](https://surf.ru/) - Разработка мобильных приложений для Android и iOS.sm ([GitHub](https://github.com/surfstudio))
 - [True web artisans](https://1wa.co/)
 - [Trilon](https://trilon.io/)
+- [QuickBird Studios](https://quickbirdstudios.com/) - Mobile App Solutions. ([GitHub](https://github.com/quickbirdstudios))
+- [NuxtLabs](https://nuxtlabs.com/) ([Twitter](https://twitter.com/nuxtlabs)) ([GitHub](https://github.com/nuxtlabs))
+- [Evil Martians](https://evilmartians.com/) - Extraterrestrial product development consultancy. ([GitHub](https://github.com/evilmartians))
+- [Steamclock](https://steamclock.com/) - iOS and Android app development and consulting in Vancouver. ([GitHub](https://github.com/steamclock))
+- [The Foundries](https://www.foundries.dev/) - Offer consultancy and technical analysis across multiple domains in the software industry.
+- [Product Brew](https://productbrew.com/) - Small team of developers and thinkers that thrive on connection and the creation of your product. ([GitHub](https://github.com/productbrew))
+- [magicstack](http://magic.io/) - Experts in modern reactive web. ([GitHub](https://github.com/MagicStack))
+- [Black Square Media](https://blacksquaremedia.com/) ([GitHub](https://github.com/bsm))
 
 ## Notes
 
@@ -233,3 +249,4 @@
 - [On Deck Freelancers](https://beondeck.com/freelancers)
 - [Ask HN: What is the highest consulting rate that you have come across, in tech? (2021)](https://news.ycombinator.com/item?id=28356047)
 - [Every engineer should do a stint in consulting (2021)](https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint) ([HN](https://news.ycombinator.com/item?id=28546756))
+- [Workshops as Portals (2019)](https://tomcritchlow.com/2019/09/23/workshops/) ([Tweet](https://twitter.com/p_millerd/status/1441715651861565440))

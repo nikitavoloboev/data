@@ -1,5 +1,7 @@
 # [Deno](https://github.com/denoland/deno)
 
+[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great.
+
 ## Links
 
 - [Deno Manual](https://deno.land/manual) ([Code](https://github.com/denoland/manual))
@@ -68,7 +70,8 @@
 - [lexy](https://github.com/littledivy/lexy) - Fast & Non-regex based lexical analysis for Deno.
 - [Deno in 2020](https://deno.land/posts/deno-in-2020)
 - [DenoDB](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno. ([HN](https://news.ycombinator.com/item?id=27546705))
-- [oak](https://github.com/oakserver/oak) - Middleware framework for Deno’s http server, including a router middleware.
+- [oak](https://github.com/oakserver/oak) - Middleware framework for handling HTTP with Deno.
+- [SuperOak](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
 - [ssgo](https://github.com/mdubourg001/ssgo) - Minimalistic but flexible static site generator for Deno.
 - [Template for new Deno projects](https://github.com/starts-with/deno)
 - [Denomander](https://github.com/siokas/denomander) - Deno command-line interfaces made easy.
@@ -89,7 +92,7 @@
 - [The Deno Company (2021)](https://deno.com/blog/the-deno-company) ([HN](https://news.ycombinator.com/item?id=26620116)) ([Reddit](https://www.reddit.com/r/rust/comments/mg8d0y/announcing_the_deno_company/))
 - [Sift](https://github.com/satyarohith/sift) - Routing library for Deno Deploy.
 - [deployctl](https://github.com/denoland/deployctl) - Command line tool for Deno Deploy.
-- [aws_api](https://github.com/cloudydeno/deno-aws_api) - From-scratch Typescript AWS API client built for Deno.
+- [aws_api](https://github.com/cloudydeno/deno-aws_api) - AWS SDK for Deno. ([Web](https://aws-api.deno.dev/))
 - [Custom Stack](https://github.com/ihack2712/cstack) - Create custom cool errors in Deno.
 - [Onyx Deno](https://github.com/oslabs-beta/onyx) - Onyx is authentication middleware for Deno.
 - [Vercel Deno](https://github.com/TooTallNate/vercel-deno) - Vercel Runtime for Deno serverless functions.
@@ -115,10 +118,52 @@
 - [deno doc](https://doc.deno.land/) ([Code](https://github.com/denoland/doc_website))
 - [deno_s3](https://github.com/lucacasonato/deno_s3) - Amazon S3 for Deno.
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
-- [Obsidian](https://github.com/open-source-labs/obsidian) - GraphQL, built for Deno. ([Web](http://obsidian.land/))
+- [Obsidian](https://github.com/open-source-labs/obsidian) - GraphQL, built for Deno. ([Web](http://obsidian.land/)) ([4.0 launch](https://medium.com/@mikechin37/obsidian-4-0-0-launch-deno-graphql-caching-solution-3588558e2d2a))
 - [deno_docker](https://github.com/denoland/deno_docker) - Docker files for Deno published on Dockerhub.
 - [Ultra](https://github.com/exhibitionist-digital/ultra) - Deno + React: No build, no bundle, all streaming. ([Web](https://ultrajs.dev/))
 - [Server-side JSX for Deno](https://github.com/dsego/ssr_jsx)
 - [Dissecting Deno (2021)](https://fettblog.eu/dissecting-deno/)
 - [pax.deno.dev](https://github.com/kawarimidoll/pax.deno.dev) - Access the modules on GitHub via Deno Deploy. ([Web](https://pax.deno.dev/))
 - [gentle_rpc](https://github.com/timonson/gentle_rpc) - JSON-RPC 2.0 library (server and client) with HTTP and WebSockets support for deno and the browser.
+- [BAZX](https://github.com/Minigugus/bazx) - zx on steroids.
+- [How to compile Rust into WebAssembly and run it in Deno (2021)](https://startfunction.com/rust-webassembly-deno/)
+- [deno.ns](https://github.com/fromdeno/deno.ns) - Deno namespace shim for Node.js.
+- [Diplo](https://github.com/Tricked-dev/diplo) - Script runner and dependency manager made in rust mainly for Deno.
+- [deno_cache](https://github.com/kitsonk/deno_cache) - TypeScript implementation of Deno CLI's module cache.
+- [deno_bindgen](https://github.com/littledivy/deno_bindgen) - Simplified glue code generation for Deno FFI libraries written in Rust.
+- [God Crypto](https://github.com/invisal/god_crypto) - Pure JavaScript/TypeScript Crypto Implementation for Deno. AES, RSA, HMAC, and TOTP.
+- [deno-bin](https://github.com/kt3k/deno-bin) - Use Deno via npm.
+- [Permission Guard](https://github.com/asos-craigmorten/permission-guard) - Zero-dependency, minimal permission guard for Deno.
+- [SuperDeno](https://github.com/asos-craigmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
+- [Drash](https://github.com/drashland/deno-drash) - REST microframework for Deno's HTTP server with zero 3rd party dependencies.
+- [Rhum](https://github.com/drashland/rhum) - Lightweight testing framework for Deno.
+- [Deno Module Manager](https://github.com/drashland/dmm)
+- [deno_ast](https://github.com/denoland/deno_ast) - Source text parsing, lexing, and AST related functionality for Deno.
+- [dnt](https://github.com/denoland/dnt) - Deno to Node Transform.
+- [Deno Deploy Projects](https://dash.deno.com/projects)
+- [Deno Deploy Demo: a multi-datacenter chat, client+server in 23 lines of TS](https://dash.deno.com/playground/mini-ws-chat) ([HN](https://news.ycombinator.com/item?id=29131751)) ([Annotated](https://til.simonwillison.net/deno/annotated-deno-deploy-demo))
+- [Deno Deploy Beta 3 (2021)](https://deno.com/blog/deploy-beta3/) ([HN](https://news.ycombinator.com/item?id=29032816))
+- [Denoflare](https://denoflare.dev/) - Develop, test, and deploy Cloudflare Workers with Deno. ([Code](https://github.com/skymethod/denoflare)) ([HN](https://news.ycombinator.com/item?id=29142772))
+- [crux.land](https://crux.land/) - Free open-source registry for permanently hosting small scripts. ([Code](https://github.com/denosaurs/crux.land))
+- [deno2node](https://github.com/wojpawlik/deno2node) - Transpiles Deno projects into .js and .d.ts for Node.js.
+- [bertml](https://github.com/sno2/bertml) - Use common pre-trained ML models in Deno.
+- [deno_notify](https://github.com/Pandawan/deno_notify) - Send desktop notifications on all platforms in Deno.
+- [deno_mysql](https://github.com/denodrivers/mysql) - MySQL driver for Deno.
+- [feign](https://github.com/sno2/feign) - Parser combinator module for Deno with compile-time type parsing support.
+- [Web Streams at the Edge (2021)](https://deno.com/blog/deploy-streams) ([HN](https://news.ycombinator.com/item?id=29391784))
+- [Deno SDL2](https://github.com/littledivy/deno_sdl2) - Cross platform bindings to SDL2.
+- [caviar](https://github.com/load1n9/caviar) - Game engine built on top of deno_sdl2.
+- [docland](https://github.com/denoland/docland) - Deno CLI/Deploy server application which generates documentation for arbitrary JavaScript and TypeScript modules.
+- [tinyargs](https://github.com/egoist/tinyargs) - Simple yet flexible CLI parser for Node.js and Deno.
+- [Deno Joins TC39 (2021)](https://deno.com/blog/deno-joins-tc39) ([HN](https://news.ycombinator.com/item?id=29538577))
+- [socket_fetch](https://github.com/cloudydeno/deno-socket_fetch) - Remake of fetch() using Deno sockets, useful for niche usecases such as UNIX domain sockets.
+- [Build, Deploy and Run a Deno Application](https://fly.io/docs/getting-started/deno/) ([Tweet](https://twitter.com/ebey_jacob/status/1471009211416932353))
+- [deno-canvas](https://github.com/DjDeveloperr/deno-canvas) - Canvas API for Deno, ported from canvaskit-wasm (Skia).
+- [ProgressBar](https://github.com/deno-library/progress) - ProgressBar in terminal for deno.
+- [deno_lua](https://github.com/denoffi/deno_lua) - Lua bindings for Deno.
+- [denoffi](https://github.com/denoffi/denoffi) - Deno Foreign Function Interface.
+- [deno_python](https://github.com/denosaurs/deno_python) - Python interpreter bindings for Deno.
+- [Deno Deploy Examples](https://github.com/denoland/deploy_examples)
+- [Clay](https://github.com/dyedgreen/clay) - Deno Command Line Argument Parsing.
+- [Building WebAssembly for Deno (2019)](https://tilman.dev/blog/2019/12/building-webassembly-for-deno)
+- [Conceptual Deno front end playground](https://github.com/mizchi/frontend-deno)

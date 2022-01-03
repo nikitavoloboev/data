@@ -16,6 +16,10 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 
 ![](https://i.imgur.com/l3x5S2k.png)
 
+I love listening to [Inspired](https://open.spotify.com/playlist/5fIL0WiQ79QtgsP4Y4L20V)/[Focus](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5) playlists when working.
+
+If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene](https://youtu.be/GbKva43khvI?t=148) from it always gets me going.
+
 ## Notes
 
 - You can't manage projects. You can only manage actions related to projects.
@@ -33,6 +37,12 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Not being busy is a competitive advantage. Most people are so strapped for time they can't take advantage of lucky opportunities or quickly resolve unexpected problems. The ideal combination is proactive and flexible. Protect your free time, but maintain a bias toward action.](https://twitter.com/JamesClear/status/1400447419507220480)
 - [Noise is a remarkably insidious form of pollution: a 10db noise increase (from dishwasher to vacuum) drops productivity by 5%.](https://twitter.com/emollick/status/1408478193091330053)
 - [The sweet spot seems to be 2 hours of leisure time per day. Over 5 hours of leisure time will actually make you feel worse.](https://twitter.com/levelsio/status/1438480377207611399)
+- [Every time I feel like I lack time, I actually lack focus.](https://twitter.com/anthilemoon/status/1443485224092913669)
+- [Action changes attitude faster than attitude changes action.](https://news.ycombinator.com/item?id=28762362)
+- [Never work on more than three to four initiatives.](https://twitter.com/rakyll/status/1445570363291627665)
+- [One thing that’s really helped me is removing the words like “lazy” or “procrastinating” from my vocabulary. I am never “lazy.” I need rest, I get tired, I may not enjoy what I’m doing, I am a human with complex needs and if I don’t want to do something, I can genuinely ask why.](https://twitter.com/sehurlburt/status/1450648082685779969)
+- [Do things with proper and specific intention. By setting the intention it’ll prime your automatic processes to be more selective to observe data related/in support of that intention.](https://twitter.com/vaisfourlovers/status/1450929596438810631)
+- [Humans have a few emotional needs in order to reach deep focus: 1. We need to not be distracted and we need to feel certainty that we will not be distracted. Before we are comfortable untaking the work to architect a giant mental castle, we need to feel confident that someone won't come around to kick it down. 2. At a more primitive, simian level, we need to feel that we're in a safe environment. It's hard to focus on code if you're worried that a tree is going to fall on you or a lion will drag you off into the jungle.](https://news.ycombinator.com/item?id=29028505)
 
 ## Links
 
@@ -81,3 +91,13 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Programmers, teach non-geeks the true cost of interruptions (2014)](https://daedtech.com/programmers-teach-non-geeks-the-true-cost-of-interruptions/) ([HN](https://news.ycombinator.com/item?id=27787604))
 - [You are Not Lazy or Undisciplined. You Have Internal Resistance (2021)](https://medium.com/counterarts/you-are-not-lazy-or-undisciplined-you-are-experiencing-internal-resistance-755a02673aa9) ([HN](https://news.ycombinator.com/item?id=28026323))
 - [TODO apps are meant for robots](https://blog.frantic.im/all/todo-apps-are-meant-for-robots/) ([HN](https://news.ycombinator.com/item?id=28029809))
+- [Dopamine, Smartphones and You: A battle for your time (2018)](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/) ([HN](https://news.ycombinator.com/item?id=28850169))
+- [Laziness Does Not Exist (2018)](https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01) ([HN](https://news.ycombinator.com/item?id=28574627))
+- [Every productivity thought I've ever had, as concisely as possible (2018)](https://guzey.com/productivity/)
+- [Oliver Burkeman's Advice for Time Management (2021)](https://www.theatlantic.com/family/archive/2021/08/oliver-burkeman-advice-time-productivity/619723/)
+- [Have a distraction log (2021)](https://twitter.com/visakanv/status/1456801019644428288) - Somewhere to write down all distractive thoughts as they arise to log them but keep working.
+- [Ask HN: Tips for more energy during day? (2021)](https://news.ycombinator.com/item?id=29140964)
+- [Scattered thoughts on why I waste my own time (2021)](https://mbuffett.com/posts/wasting_time/) ([HN](https://news.ycombinator.com/item?id=29176416))
+- [The 5 Whys: get to the root of your productivity problems](https://blog.superhuman.com/five-whys-method/)
+- [Ask HN: How do you force yourself to do boring tasks? (2021)](https://news.ycombinator.com/item?id=29725668)
+- [Ask HN: How do you cope with being interrupted? (2022)](https://news.ycombinator.com/item?id=29767203)

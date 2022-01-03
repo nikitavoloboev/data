@@ -4,6 +4,7 @@
 
 - `document.querySelector("video").playbackRate = 1.4` will [increase video playback](https://mjtsai.com/blog/2018/06/25/speeding-up-wwdc-videos/).
 - [document.designMode = 'on' lets you edit pages](https://twitter.com/sulco/status/1177559150563344384)
+- [Can automate browser actions with playwright. Click around, edit a bit, run.](https://twitter.com/natfriedman/status/1447965013482770432)
 
 ## Links
 
@@ -21,7 +22,7 @@
 - [Things you can do with a browser in 2020](https://github.com/luruke/browser-2020)
 - [Karmatic](https://github.com/developit/karmatic) - Easy automatic (headless) browser testing. Powered by Karma, Webpack & Jasmine.
 - [n.eko](https://github.com/nurdism/neko) - Self hosted virtual browser (rabb.it clone) that runs in docker.
-- [Playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit browsers. ([Playwright Fixture-based test runner](https://github.com/microsoft/playwright-test-runner)) ([End-to-end tests with Playwright](https://github.com/microsoft/playwright-test)) ([playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda))
+- [Playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit browsers. ([Playwright Fixture-based test runner](https://github.com/microsoft/playwright-test-runner)) ([End-to-end tests with Playwright](https://github.com/microsoft/playwright-test)) ([playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda)) ([Intro](https://www.youtube.com/watch?v=JjhY2aFBTTk))
 - [Playwright for Python](https://github.com/microsoft/playwright-python) - Python library to automate Chromium, Firefox and WebKit browsers with a single API.
 - [Playwright for Go](https://github.com/mxschmitt/playwright-go) - Go library to automate Chromium, Firefox and WebKit with a single API.
 - [Robot Framework](https://github.com/MarketSquare/robotframework-browser) - Browser library powered by Playwright.
@@ -61,10 +62,10 @@
 - [Are you using SVG favicons yet? A guide for modern browsers. (2020)](https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df)
 - [Sys: a Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code (2020)](https://cseweb.ucsd.edu/~dstefan/pubs/brown:2020:sys.pdf)
 - [Consider deploying cross-origin resource policy](https://resourcepolicy.fyi/)
-- [Ampie](https://ampie.app/) - Social navigator for the web. Helps you find interesting links, and find what people had to say about them. ([Tweet](https://twitter.com/posobin/status/1283111738154668032)) ([Get URL Context](https://ampie.app/url-context))
+- [Ampie](https://ampie.app/) - Social navigator for the web. Helps you find interesting links, and find what people had to say about them. ([Tweet](https://twitter.com/posobin/status/1283111738154668032)) ([Get URL Context](https://ampie.app/url-context)) ([HN](https://news.ycombinator.com/item?id=28697828))
 - [Browserslist](https://browserslist.dev/) - Website to display compatible browsers from browserslist string. ([Code](https://github.com/PSPDFKit-labs/browserslist.dev))
 - [Kosmonaut](https://github.com/twilco/kosmonaut) - Web browser from scratch in Rust. ([HN](https://news.ycombinator.com/item?id=24170201))
-- [Replay](https://replay.io/) - Record and replay web applications. ([GitHub](https://github.com/RecordReplay)) ([Dev Tools](https://github.com/RecordReplay/devtools)) ([HN](https://news.ycombinator.com/item?id=28539247))
+- [Replay](https://replay.io/) - Record and replay web applications. ([GitHub](https://github.com/RecordReplay)) ([Dev Tools](https://github.com/RecordReplay/devtools)) ([HN](https://news.ycombinator.com/item?id=28539247)) ([Stack](https://twitter.com/jasonlaster11/status/1466544085041233922))
 - [theheadless.dev](https://theheadless.dev/) - Learn Puppeteer & Playwright. ([HN](https://news.ycombinator.com/item?id=24209073)) ([Code](https://github.com/checkly/theheadless.dev))
 - [Rumin Web Clipper](https://github.com/jhlyeung/rumin-web-clipper) - Browser extension for Rumin which allows you to save learnings from online resources. ([HN](https://news.ycombinator.com/item?id=24461070))
 - [Browser Focus Rings (2020)](https://www.notion.so/Focus-Rings-4459faa9d1f643728ca8dde145a89900) - How making accessible, consistent, and elegant focus rings in browsers is actually a hard problem.
@@ -103,7 +104,7 @@
 - [Microsoft Edge Explainers](https://github.com/MicrosoftEdge/MSEdgeExplainers)
 - [Zap](https://github.com/issmirnov/zap) - Powerful tool that allows you to define universal web shortcuts in a simple config file.
 - [devtools-ds](https://github.com/intuit/devtools-ds) - Components and tools for building browser devtools extensions.
-- [Web Browser Engineering Book](https://browser.engineering/) - Explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python. ([Code](https://github.com/browserengineering/book))
+- [Web Browser Engineering Book](https://browser.engineering/) - Explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python. ([Code](https://github.com/browserengineering/book)) ([HN](https://news.ycombinator.com/item?id=28898157)) ([Twitter](https://twitter.com/BrowserBook))
 - [Supercookie](https://github.com/jonasstrehle/supercookie) - Browser Fingerprinting via Favicon. ([Web](https://supercookie.me/)) ([HN](https://news.ycombinator.com/item?id=26051370))
 - [Titanium Web Browser](https://github.com/antoyo/titanium) - Keyboard-driven web browser written in Rust.
 - [Serverless browser automation with AWS Lambda and Puppeteer (2021)](https://acloudguru.com/blog/engineering/serverless-browser-automation-with-aws-lambda-and-puppeteer)
@@ -145,3 +146,20 @@
 - [Vieb](https://vieb.dev/) - Vim Inspired Electron Browser - Vim bindings for the web by design. ([Code](https://github.com/Jelmerro/Vieb))
 - [Bonsai](https://bonsaibrowser.com/) - Web Browser for Research. ([HN](https://news.ycombinator.com/item?id=28446147))
 - [Dot Browser](https://github.com/dothq/browser) - Privacy-conscious web browser. ([HN](https://news.ycombinator.com/item?id=28584630))
+- [Microlink](https://microlink.io/) - Fast, scalable, and reliable browser automation built for businesses and developers. Browser as API. ([GitHub](https://github.com/microlinkhq))
+- [BrowserParrot](https://www.browserparrot.com/) - Save and search the full text of your browser history. ([HN](https://news.ycombinator.com/item?id=28689734))
+- [Stack](https://stackbrowser.com/) - New way of interacting with the internet. ([Twitter](https://twitter.com/Stack_HQ))
+- [JShelter](https://jshelter.org/) - Anti-malware Web browser extension to mitigate potential threats from JavaScript.
+- [Happo.io](https://happo.io/) - Cross-browser screenshot testing. ([Code](https://github.com/happo/happo.io)) ([GitHub](https://github.com/happo))
+- [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Testing framework for end-to-end testing with WebDriver (or others). It abstracts browser interaction to simple steps that are written from a user perspective. ([Web](https://codecept.io/))
+- [Orion](https://browser.kagi.com/) - WebKit-based browser for Mac. ([HN](https://news.ycombinator.com/item?id=28799049)) ([FAQ](https://browser.kagi.com/faq.html))
+- [Redirector](https://github.com/einaregilsson/Redirector) - Browser extension to redirect URLs based on regex patterns.
+- [Get started with Web Bundles (2021)](https://web.dev/web-bundles/)
+- [Synthetic Monitoring with Real Browsers](https://github.com/elastic/synthetics)
+- [PrivacyTests.org](https://privacytests.org/) - Open-source tests of web browser privacy. ([Code](https://github.com/arthuredelstein/privacytests.org))
+- [Stringmark](https://www.stringmark.com/) - Chrome extension that makes online research easier. ([HN](https://news.ycombinator.com/item?id=29199004))
+- [Ask HN: What browser extensions are a must-have in 2021?](https://news.ycombinator.com/item?id=29314560)
+- [Neko](https://github.com/m1k1o/neko) - Self hosted virtual browser that runs in docker and uses WebRTC. ([HN](https://news.ycombinator.com/item?id=29406112))
+- [Ghost Cursor](https://github.com/Xetera/ghost-cursor) - Generate human-like mouse movements with puppeteer or on any 2D plane.
+- [Browsers should have tree'd browser history + a formalized way to share it](https://twitter.com/NireBryce/status/1477807821567766530)
+- [Cartographist](https://github.com/szymonkaliski/cartographist) - Experimental web browser optimized for rabbit-holing.

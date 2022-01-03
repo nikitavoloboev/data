@@ -10,3 +10,8 @@
 - [suGOku](https://github.com/bertoort/sugoku) - Sudoku puzzle solver and generator. ([Web](https://sugoku2.herokuapp.com/))
 - [Solving Sudokus Like A Human (2021)](https://www.youtube.com/watch?v=EXAPZUMj_sU)
 - [Certified Sudoku solver in Coq](https://github.com/coq-community/sudoku)
+- [How to Solve the Sudoku Puzzle with programming (2021)](https://www.hillelwayne.com/post/sudoku/)
+- [Sudoku solvers in Prolog](https://github.com/blackheaven/sudoku)
+- [Sudoku solving](https://hugopeters.me/posts/11/)
+- [Neuro-Symbolic Sudoku Solver](https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver) - Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.
+- [Sudoku solver in Nix](https://github.com/siraben/nix-sudoku)

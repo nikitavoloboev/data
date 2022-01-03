@@ -18,6 +18,7 @@
 - [Lambda Island](https://lambdaisland.com/) - Screencast series about ClojureScript and Clojure.
 - [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/) - Open source book about ClojureScript. ([Code](https://github.com/funcool/clojurescript-unraveled))
 - [Piggieback](https://github.com/nrepl/piggieback) - nREPL middleware that enables the use of a ClojureScript REPL on top of an nREPL session.
+- [Figwheel Main](https://github.com/bhauman/figwheel-main) - Builds your ClojureScript code and hot loads it as you are coding.
 - [figwheel.main template](https://github.com/bhauman/figwheel-main-template) - Template generator that will produce a minimal ClojureScript project that includes figwheel.main tooling.
 - [Learn You a ClojureScript for Great Good (2021)](https://juxt.pro/blog/learn-you-a-cljs)
 - [CLJSJS Packages](https://github.com/cljsjs/packages) - Effort to package JavaScript libraries to be able to use them from within ClojureScript.
@@ -34,3 +35,12 @@
 - [ClojureScript in the Age of TypeScript — David Nolen (2021)](https://www.youtube.com/watch?v=3HxVMGaiZbc)
 - [ClojureScript Tutorial (2021)](https://purelyfunctional.tv/guide/clojurescript-tutorial/)
 - [Writing Mobile apps in ClojureScript in 2021](https://www.juxt.pro/blog/clojurescript-native-apps-2021)
+- [Vlojure](https://github.com/Ella-Hoeppner/Vlojure) - Visual programming interface for ClojureScript.
+- [The Missing Guide for ClojureScript](https://github.com/dundalek/clojurescript-guide)
+- [Speed up your ClojureScript Web App (2021)](https://www.juxt.pro/blog/clojurescript-app-performance)
+- [re-frame](https://github.com/Day8/re-frame) - ClojureScript framework for building user interfaces. ([Web](http://day8.github.io/re-frame/))
+- [re-flow](https://github.com/Guaranteed-Rate/re-flow) - Library that adds tools for building and executing workflows in re-frame applications.
+- [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) - Leiningen plugin to make ClojureScript development easy.
+- [React prerendering experiments in Clojure(script) land (2021)](https://www.arthurbrrs.me/prerendering-react-clojurescript-land)
+- [Helix](https://github.com/lilactown/helix) - ClojureScript optimized for modern React development.
+- [obb](https://github.com/babashka/obb) - Ad-hoc ClojureScript scripting of Mac applications via Apple's Open Scripting Architecture.

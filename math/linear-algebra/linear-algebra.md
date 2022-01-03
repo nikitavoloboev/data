@@ -3,6 +3,7 @@
 ## Notes
 
 - Lots of matrices don't have an inverse.
+- [It is useful to simply think of matrices as systems of linear equations.](https://www.reddit.com/r/mathmemes/comments/rosrel/linear_algebra_in_a_nutshell/)
 
 ## Links
 
@@ -55,3 +56,10 @@
 - [Resources to learn algebra visually (2021)](https://twitter.com/prathyvsh/status/1434663132585025537)
 - [Can We Solve Linear Algebra Problems at Extreme Scale and Low Precisions? (2021)](https://nhigham.com/2021/09/14/can-we-solve-linear-algebra-problems-at-extreme-scale-and-low-precisions/) ([HN](https://news.ycombinator.com/item?id=28549062))
 - [linalg](https://github.com/kevinzakka/learn-linalg) - Reinforcing my linear algebra and numerical analysis by reimplementing basic, fundamental algorithms in Python.
+- [Linear Algebra for Everyone, Gilbert Strang](http://math.mit.edu/~gs/everyone/) ([Graphic notes](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)) ([HN](https://news.ycombinator.com/item?id=28704164))
+- [I❤️LA](https://github.com/iheartla/iheartla) - Compilable Markdown for Math.
+- [An Introduction to Tensor Calculus](https://grinfeld.org/books/An-Introduction-To-Tensor-Calculus/) ([HN](https://news.ycombinator.com/item?id=28895073))
+- [What is the inverse of a vector? (2021)](https://mattferraro.dev/posts/geometric-algebra) ([HN](https://news.ycombinator.com/item?id=29080360))
+- [Efficient matrix multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)
+- [Stable softmax for sparse matrices (2019)](http://peterbloem.nl/blog/stable-softmax)
+- [Matrix Multiplication Inches Closer To Mythic Goal (2021)](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/) ([HN](https://news.ycombinator.com/item?id=29601425))

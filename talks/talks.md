@@ -70,3 +70,8 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Transitions: The easiest way to improve your tech talk (2018)](https://medium.com/@saronyitbarek/transitions-the-easiest-way-to-improve-your-tech-talk-ebe4d40a3257)
 - [Ask HN: Best online speech / public speaking course? (2021)](https://news.ycombinator.com/item?id=27750506)
 - [Demystifying Public Speaking by Lara Callender Hogan](https://demystifying-public-speaking.com/)
+- [Best of 2020 in Tech Talks](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
+- [Presentation tips for performing professional Swift talks (2021)](https://www.avanderlee.com/optimization/presentation-tips-swift-talks/)
+- [Reflection of Speaking in Public (2021)](https://antfu.me/posts/reflection-of-speaking-in-public)
+- [Public speaking tips I’ve learned through trial and error](https://twitter.com/ceeoreo_/status/1455954539224383491)
+- [Best of 2021 in Tech [Talks]](https://copyconstruct.medium.com/best-of-2021-in-tech-talks-331ec9454b4)

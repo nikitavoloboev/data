@@ -54,7 +54,7 @@ And here are Chrome extensions I use:
 - [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome) - High-level API to control headless Chrome or Chromium over the DevTools Protocol.
 - [Chromium spelling and grammar features (2021)](https://www.azabani.com/2021/05/17/spelling-grammar.html)
 - [Chrome Extensions samples](https://github.com/GoogleChrome/chrome-extensions-samples)
-- [Browserflow](https://browserflow.app/) - Automate the boring stuff with Chrome extension.
+- [Browserflow](https://browserflow.app/) - Automate the boring stuff with Chrome extension. ([HN](https://news.ycombinator.com/item?id=29254147))
 - [Introducing chrome.scripting (2021)](https://developer.chrome.com/blog/crx-scripting-api/) ([HN](https://news.ycombinator.com/item?id=27441898)) ([Lobsters](https://lobste.rs/s/tfa1lp/introducing_chrome_scripting))
 - [Chrome Developers](https://developer.chrome.com/) - Resource for developers of all backgrounds to learn about what's new in Chrome. ([Code](https://github.com/GoogleChrome/developer.chrome.com))
 - [How the new rendering engine on Chrome works (2021)](https://developer.chrome.com/blog/renderingng/)
@@ -66,3 +66,14 @@ And here are Chrome extensions I use:
 - [Ferret](https://github.com/kanyesthaker/qgqa-flashcards) - Chrome extension that uses NLP to generate and ask helpful recall-based questions to reinforce key concepts.
 - [rollup-plugin-chrome-extension](https://github.com/extend-chrome/rollup-plugin-chrome-extension) - Feature-rich solution for bundled Chrome Extensions.
 - [Extend Chrome](https://www.extend-chrome.dev/) - GitHub organization dedicated to making Chrome extension development smarter.
+- [chrome-webstore-upload](https://github.com/fregante/chrome-webstore-upload) - Upload Chrome Extensions to the Chrome Web Store.
+- [RenderingNG: an architecture that makes and keeps Chrome fast for the long term (2021)](https://blog.chromium.org/2021/10/renderingng.html)
+- [captive-browser](https://github.com/FiloSottile/captive-browser) - Dedicated Chrome instance to log into captive portals without messing with DNS settings. ([Article](https://blog.filippo.io/captive-browser/))
+- [Automa](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/) - Extension for automating your browser by connecting blocks. ([Code](https://github.com/Kholid060/automa))
+- [Introducing Aurora (2021)](https://web.dev/introducing-aurora/) ([Tweet](https://twitter.com/shubhie/status/1459226030883831812))
+- [Web Extension Utils](https://github.com/leonardodino/web-ext)
+- [Chrome Extension TypeScript Starter](https://github.com/chibat/chrome-extension-typescript-starter)
+- [Google Chrome Samples](https://www.chromestatus.com/samples) ([Code](https://github.com/GoogleChrome/samples))
+- [vite-plugin-chrome-extension](https://github.com/StarkShang/vite-plugin-chrome-extension) - Vite plugin to bundle chrome extensions for Manifest V3.
+- [pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library.
+- [Browser-Pwning](https://github.com/SpiralBL0CK/Browser-Pwning-) - Proper well structured documentation for getting started with chrome pwning & v8 pwning.

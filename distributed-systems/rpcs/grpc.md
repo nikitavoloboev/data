@@ -25,7 +25,7 @@
 - [Pike](https://github.com/sashabaranov/pike) - Generate CRUD gRPC backends from single YAML description.
 - [gRPC on Node.js](https://github.com/grpc/grpc-node)
 - [protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers.
-- [gRPC Proxy](https://github.com/mwitkow/grpc-proxy) - Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead.
+- [gRPC Proxy](https://github.com/mwitkow/grpc-proxy) - Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead. ([Fork](https://github.com/vgough/grpc-proxy))
 - [gNMI](https://github.com/openconfig/gnmi) - gRPC Network Management Interface.
 - [Ditching REST with gRPC-web and Envoy (2020)](https://medium.com/swlh/ditching-rest-with-grpc-web-and-envoy-bfaa89a39b32)
 - [Road to gRPC (2020)](https://blog.cloudflare.com/road-to-grpc/)
@@ -55,3 +55,19 @@
 - [API Client Generator for Go](https://github.com/googleapis/gapic-generator-go) - Generator for protocol buffer described APIs for and in Go.
 - [GAPIC Showcase](https://github.com/googleapis/gapic-showcase) - API that demonstrates Generated API Client (GAPIC) features and common API patterns used by Google.
 - [gnostic gRPC plugin](https://github.com/google/gnostic-grpc) - Gnostic plugin that converts an OpenAPI API description into a description of a gRPC service that can be used to implement that API using gRPC-JSON Transcoding.
+- [nrtSearch](https://github.com/Yelp/nrtsearch) - High performance gRPC server, with optional REST APIs on top of Apache Lucene.
+- [Protocol Buffers + Docker](https://github.com/znly/docker-protobuf) - All inclusive Protocol Buffer and gRPC suite, powered by Docker and Alpine.
+- [grpctl](https://github.com/njhale/grpctl) - Crisp command-line experience for your gRPC services without writing a line of code.
+- [Introduction to gRPC in Rust (2021)](https://romankudryashov.com/blog/2021/04/grpc-rust/)
+- [asio-grpc](https://github.com/Tradias/asio-grpc) - Asynchronous gRPC with Asio/unified executors.
+- [ProtoFuzz](https://github.com/trailofbits/protofuzz) - Generic fuzzer for Google’s Protocol Buffers format.
+- [protobuf-inspector](https://github.com/mildsunrise/protobuf-inspector) - Tool to reverse-engineer Protocol Buffers with unknown definition.
+- [gRPC-Web Dev Tools](https://github.com/SafetyCulture/grpc-web-devtools) - Chrome & Firefox Browser extension to aid gRPC-Web development. ([Fork](https://github.com/jrapoport/grpc-web-devtools))
+- [Using Wireshark to decrypt TLS gRPC Client-Server protobuf messages](https://github.com/salrashid123/grpc_sslkeylog)
+- [Documenting a gRPC API - tools comparison (2021)](https://blog.gendocu.com/posts/documenting-grpc/)
+- [GenDocu](https://gendocu.com/) - gRPC SDK and Documentation generator.
+- [gRPC - Best Practices](https://kreya.app/blog/grpc-best-practices/) ([Lobsters](https://lobste.rs/s/3bsg5h/grpc_best_practices))
+- [AIP Go](https://github.com/einride/aip-go) - Go SDK for implementing resource-oriented gRPC APIs.
+- [gRPC on GKE and Istio](https://github.com/salrashid123/gcegrpc) - gRPC client/server running loadbalanced/failover on Google Compute Engine and Google App Engine.
+- [gRPC Web and gRPC Transcoding with Envoy (2021)](https://blog.salrashid.dev/articles/2021/grpc_web_and_transcoding_with_envoy/)
+- [nRPC](https://github.com/nats-rpc/nrpc) - RPC framework like gRPC, but for NATS.

@@ -47,6 +47,9 @@
 - [When you raise capital, you're typically raising to get to key metrics to be able to raise more capital. Knowing that, tell me what KPIs you plan to hit with your raise.](https://twitter.com/lpolovets/status/1387229726071087104)
 - [A great investment deck takes, at least, 30 days of full-time work. Anything less than that, and, trust me you don't have a great deck.](https://twitter.com/AleResnik/status/1346190661356175360)
 - [Most common advice I share with very early-stage founders on fundraising: For the most part, assume you can’t educate investors. Go back to your list and qualify, qualify, qualify. Don’t talk to pagans. Your job is to preach to the converted.](https://twitter.com/lucasbagnocv/status/1431692210513326083)
+- [If you're good at building products, you have all the leverage. Don't let investors, exchanges, or people promising "partnerships" take advantage of you.](https://twitter.com/DylanMacalinao/status/1441587664029839364)
+- [I pitched hundreds of institutions and thousands of angels. One by one we started winning over early believers. Three years later, I had a hundred checks from a hundred angels (roughly $10m). And that’s how we capitalized the first three years of Peloton.](https://twitter.com/keylargofoley/status/1453495219522097157)
+- [Dilution really adds up. Avoid rounds completely or do them at <10% dilution if you can.](https://twitter.com/immad/status/1472594190559166470)
 
 ## Links
 
@@ -127,3 +130,18 @@
 - [How to Raise Investment (2021)](https://tomblomfield.com/post/662033487432466432/how-to-raise-investment) ([HN](https://news.ycombinator.com/item?id=28509306))
 - [Taking part in Y Combinator from Europe: is it worth it? (2021)](https://sifted.eu/articles/yc-combinator-alum-tips/) ([HN](https://news.ycombinator.com/item?id=28564407))
 - [Funding public goods in identity-free systems (2021)](https://equilibria.club/funding-public-goods-in-identity-free-systems/) ([Tweet](https://twitter.com/VicSintNic/status/1439546213154631680))
+- [Advice on doing a fund raise (2021)](https://twitter.com/oritheorca/status/1441567230945234952)
+- [AngelList Stack](https://www.angellist.com/stack) - Create a fundraising-ready startup. ([HN](https://news.ycombinator.com/item?id=28685308))
+- [VAUBAN](https://vauban.io/) - Pool & deploy capital in clicks. ([Tweet](https://twitter.com/t_blom/status/1449007004371009536))
+- [How to use story telling to get funding (2021)](https://twitter.com/justinkan/status/1450942285995151360)
+- [Grants/funding sources for individuals (2021)](https://twitter.com/mollyfmielke/status/1455888525950218242)
+- [Juicebox](https://juicebox.money/#/) - Community funding for people and projects.
+- [A pitch that is music to the ears](https://www.erwanderlyn.com/p/startup-pitch-deck) ([HN](https://news.ycombinator.com/item?id=29244964))
+- [Party Round](https://partyround.com/) - Automated fundraising tool for founders. ([Twitter](https://twitter.com/PartyRound))
+- [Introducing Calm Company Scouts | Calm Company Fund (2021)](https://calmfund.com/writing/introducing-calm-company-scouts)
+- [Moth Minds](https://www.mothminds.com/) - Fund individuals doing work you believe in. ([Twitter](https://twitter.com/mothminds)) ([HN](https://news.ycombinator.com/item?id=29407858))
+- [YC Founders Made These Fundraising Mistakes (2021)](https://www.youtube.com/watch?v=6606a2ka-jQ) ([HN](https://news.ycombinator.com/item?id=29385033))
+- [Rhetoric](https://www.rhetoric.app/) - Pitch feedback for founders.
+- [Hyperscale](https://www.hyperscalefund.com/) - Fast funding for early blockchain projects. ([Code](https://github.com/hyper-scale/frontend))
+- [The Mirrortable (2021)](https://balajis.com/mirrortable/) - How we can combine web2 and web3 tools to automate the mess of angel investing. ([Tweet](https://twitter.com/balajis/status/1475438356473409542))
+- [Active angel investors in developer tools](https://github.com/sw-yx/devtools-angels)

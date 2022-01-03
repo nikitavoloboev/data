@@ -3,6 +3,7 @@
 ## Notes
 
 - [Tools are interpreted by the brain as an extension of the human body.](https://twitter.com/provisionalidea/status/1392854515347513351)
+- [Nerve innervations (sensitivity) is physiological while pleasure is neurological/psychological. The brain does a lot of processing of signals before it can become pleasure. Pleasure is most commonly agreed to be a function of dopaminergic receptor activating in the amygdala. What makes it even harder to quantify is that those receptors are subject to acclimatization and as an example for how strong it can be is that it's one of the theorized pathways for addiction to work.](https://www.reddit.com/r/science/comments/qtvm4z/foreskin_found_to_be_extraordinarily_innervated/hko0snt/?context=3)
 
 ## Links
 
@@ -12,7 +13,7 @@
 - [Towards the neural population doctrine](https://www.sciencedirect.com/science/article/abs/pii/S0959438818300990)
 - [The Brain That Changes Itself book](https://www.goodreads.com/book/show/570172.The_Brain_That_Changes_Itself)
 - [Brain Map](https://portal.brain-map.org/) - Accelerating progress toward understanding the brain.
-- [Could a neuroscientist understand a microprocessor? (2017)](http://ericmjonas.github.io/neuroproc/)
+- [Could a neuroscientist understand a microprocessor? (2017)](http://ericmjonas.github.io/neuroproc/) ([Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268)) ([Tweet](https://twitter.com/juliagalef/status/1465818518310383616))
 - [Leonardo Da Vinci and the Brain](http://www.davinciandthebrain.org/)
 - [Fundamentals of Neuroscience course by Harvard](https://www.mcb80x.org/)
 - [Synapses, Neurons and Brains course](https://www.coursera.org/learn/synapses)
@@ -79,6 +80,27 @@
 - [NeuralEnsemble](http://neuralensemble.org/) - Community-based initiative to promote and co-ordinate open-source software development in neuroscience. ([Code](https://github.com/NeuralEnsemble))
 - [Fast, Efficient Neural Networks Copy Dragonfly Brains (2021)](https://spectrum.ieee.org/fast-efficient-neural-networks-copy-dragonfly-brains)
 - [How Computationally Complex Is a Single Neuron? (2021)](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/) ([HN](https://news.ycombinator.com/item?id=28393358))
+- [Large-scale neural recordings with single-cell resolution in human cortex using high-density Neuropixels probes (2021)](https://www.biorxiv.org/content/10.1101/2021.06.20.449152v2) ([Tweet](https://twitter.com/patrickmineault/status/1438664877682348033))
+- [Neuroscientists roll out first comprehensive atlas of brain cells (2021)](https://news.berkeley.edu/2021/10/06/neuroscientists-roll-out-first-comprehensive-atlas-of-brain-cells/) ([HN](https://news.ycombinator.com/item?id=28838852))
+- [Please stop calling dopamine an addictive rewarding neurochemical (2017)](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive) ([HN](https://news.ycombinator.com/item?id=28852348))
+- [Операции на мозге и звонки с того света. Откровения нейрохирурга (2021)](https://www.youtube.com/watch?v=2H0-uqGNDtw)
+- [Visual percepts evoked with an Intracortical 96-channel microelectrode array inserted in human occipital cortex (2021)](https://www.jci.org/articles/view/151331) ([Tweet](https://twitter.com/AntonioLozanoDL/status/1451125781967560706))
+- [Neurolight: A Deep Learning Neural Interface for Cortical Visual Prostheses (2020)](https://www.worldscientific.com/doi/10.1142/S0129065720500458?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) ([Tweet](https://twitter.com/fchollet/status/1451973437652566017))
+- [Why are our brains shrinking? (2018)](https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking/) ([HN](https://news.ycombinator.com/item?id=29031999))
+- [Virtual 3D Fly Brain](https://v2.virtualflybrain.org/org.geppetto.frontend/geppetto?id=VFB_00101567&i=VFB_00101567) ([HN](https://news.ycombinator.com/item?id=29016849))
+- [Generalized Shape Metrics on Neural Representations (2021)](https://arxiv.org/abs/2110.14739) ([Tweet](https://twitter.com/ItsNeuronal/status/1455300536442388482))
+- [The strange path of accepting how your brain works (2021)](https://alexanderell.is/posts/limitations/) ([HN](https://news.ycombinator.com/item?id=29057510))
+- [Standardized Brain Molecular Atlas for Systems Modeling and Simulation (2021)](https://www.frontiersin.org/articles/10.3389/fnmol.2021.604559/full)
+- [Study finds a difference between neurons of humans and other mammals (2021)](https://www.nature.com/articles/s41586-021-04072-3) ([HN](https://news.ycombinator.com/item?id=29213806))
+- [Do mirror neurons explain understanding, or is it the other way round? (2013)](https://yohanjohn.com/neurologism/do-mirror-neurons-explain-understanding-or-is-it-the-other-way-round/)
+- [To Be Energy-Efficient, Brains Predict Their Perceptions (2021)](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
+- [Extent of myosin penetration within the actin cortex regulates cell surface mechanics (2021)](https://www.nature.com/articles/s41467-021-26611-2) ([Tweet](https://twitter.com/PaluchLab/status/1461288840136691716))
+- [Mapping the Human Brain (2021)](https://www.youtube.com/watch?v=T8yfZ4JhlbY)
+- [Neurokernel](http://neurokernel.github.io/) - Python framework for developing models of the fruit fly brain and executing them on multiple NVIDIA GPUs. ([Code](https://github.com/neurokernel/neurokernel))
+- [On Path Integration of Grid Cells: Group Representation and Isotropic Scaling (2021)](https://arxiv.org/abs/2006.10259) ([Code](https://github.com/ruiqigao/grid-cell-path))
+- [MIT: The Human Brain (2019)](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-13-the-human-brain-spring-2019/)
+- [In Search of Oscillatory Traces of the Internal Clock (2016)](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00224/full)
+- [Dr. David Berson: Your Brain's Logic & Function (2021)](https://www.youtube.com/watch?v=oC3fhUjg30E)
 
 ## Images
 

@@ -45,7 +45,7 @@
 - [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) (2017)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 - [AdaBelief Optimizer](https://github.com/juntang-zhuang/Adabelief-Optimizer) - NeurIPS 2020 Spotlight, trains fast as Adam, generalizes well as SGD, and is stable to train GANs.
 - [From GAN to WGAN (2020)](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
-- [In-Domain GAN Inversion for Real Image Editing](https://github.com/genforce/idinvert_pytorch)
+- [In-Domain GAN Inversion for Real Image Editing](https://genforce.github.io/idinvert/) ([Code](https://github.com/genforce/idinvert))
 - [Rewriting a Deep Generative Model](https://github.com/davidbau/rewriting)
 - [GANDissect](https://github.com/CSAILVision/gandissect) - PyTorch-based tools for visualizing and understanding the neurons of a GAN.
 - [GANksy](https://vole.wtf/ganksy/) - A.I. street artist.
@@ -58,7 +58,7 @@
 - [StackGAN-v2](https://github.com/hanzhanggit/StackGAN-v2) - PyTorch implementation.
 - [Self-Attention-GAN TensorFlow](https://github.com/taki0112/Self-Attention-GAN-Tensorflow)
 - [Self-Attention GAN PyTorch](https://github.com/heykeetae/Self-Attention-GAN)
-- [StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a PyTorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
+- [StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a PyTorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation. ([Reddit](https://www.reddit.com/r/MachineLearning/comments/qt10az/project_pytorch_implementations_of_37_gan_papers/))
 - [Implementation of an extremely 'lightweight' GAN proposed in ICLR 2021, in PyTorch](https://github.com/lucidrains/lightweight-gan)
 - [Instance Selection for GANs](https://github.com/uoguelph-mlrg/instance_selection_for_gans)
 - [StyleGAN2 with adaptive discriminator augmentation (ADA) in TensorFlow](https://github.com/dvschultz/stylegan2-ada)
@@ -107,6 +107,7 @@
 - [Assessing Generative Models via Precision and Recall (2018)](https://arxiv.org/abs/1806.00035) ([Code](https://github.com/msmsajjadi/precision-recall-distributions))
 - [Few-shot Image Generation via Cross-domain Correspondence (2021)](https://arxiv.org/abs/2104.06820) ([Code](https://github.com/utkarshojha/few-shot-gan-adaptation))
 - [StarGAN v2: Diverse Image Synthesis for Multiple Domains (2020)](https://arxiv.org/abs/1912.01865) ([Code](https://github.com/clovaai/stargan-v2))
+- [StarGAN2 for practice](https://github.com/eps696/stargan2) - Version of StarGAN2 intended mostly for fellow artists.
 - [Generative Adversarial Network in Go via Gorgonia](https://github.com/LdDl/gan-go)
 - [Controllable Person Image Synthesis with Attribute-Decomposed GAN (2020)](https://arxiv.org/abs/2003.12267) ([Code](https://github.com/menyifang/ADGAN))
 - [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort (2021)](https://nv-tlabs.github.io/datasetGAN/)
@@ -133,3 +134,41 @@
 - [Pytorch implementation of DCGAN, WGAN-CP, WGAN-GP](https://github.com/Zeleni9/pytorch-wgan)
 - [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://github.com/yangxy/GPEN)
 - [Instance-Conditioned GAN (2021)](https://arxiv.org/abs/2109.05070) ([Code](https://github.com/facebookresearch/ic_gan))
+- [PyTorch Pretrained GANs](https://github.com/lukemelas/pytorch-pretrained-gans) - StyleGAN2, BigGAN, BigBiGAN, SAGAN, SNGAN, SelfCondGAN, and more.
+- [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (2016)](https://arxiv.org/abs/1609.04802) ([Code](https://github.com/twtygqyy/pytorch-SRResNet))
+- [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/) ([Code](https://github.com/NVlabs/stylegan3)) ([HN](https://news.ycombinator.com/item?id=28833213))
+- [Taming Visually Guided Sound Generation (2021)](https://iashin.ai/SpecVQGAN) ([Code](https://github.com/v-iashin/SpecVQGAN))
+- [TecoGAN-PyTorch](https://github.com/skycrapers/TecoGAN-PyTorch) - PyTorch Reimplementation of TecoGAN: Temporally Coherent GAN for Video Super-Resolution.
+- [Chunked Autoregressive GAN (CARGAN)](https://github.com/descriptinc/cargan)
+- [CIPS-3D: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis (2021)](https://arxiv.org/abs/2110.09788) ([Code](https://github.com/PeterouZh/CIPS-3D))
+- [GAN-Inversion Papers](https://github.com/PeterouZh/GAN-Inversion)
+- [Searching towards Class-Aware Generators for Conditional Generative Adversarial Networks (2020)](https://arxiv.org/abs/2006.14208) ([Code](https://github.com/PeterouZh/NAS_cGAN))
+- [Omni-GAN: On the Secrets of cGANs and Beyond (2021)](https://arxiv.org/abs/2011.13074) ([Code](https://github.com/PeterouZh/Omni-GAN-PyTorch))
+- [Helena Sarin: Why Bigger Isn’t Always Better With GANs And AI Art (2018)](https://www.artnome.com/news/2018/11/14/helena-sarin-why-bigger-isnt-always-better-with-gans-and-ai-art)
+- [MMGeneration](https://github.com/open-mmlab/mmgeneration) - Powerful toolkit for generative models, based on PyTorch and MMCV.
+- [Projected GANs Converge Faster (2021)](https://sites.google.com/view/projected-gan/) ([Code](https://github.com/autonomousvision/projected_gan))
+- [A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis (2021)](https://arxiv.org/abs/2110.15678) ([Code](https://github.com/XingangPan/ShadeGAN))
+- [DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis (2021)](https://arxiv.org/abs/2008.05865) ([Code](https://github.com/tobran/DF-GAN))
+- [GANformer: Generative Adversarial Transformers](https://github.com/dorarad/ganformer)
+- [ProteinGAN](https://github.com/Biomatter-Designs/ProteinGAN) - Generative network architecture that may be used to produce de-novo protein sequences.
+- [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - High-performance implementation of classic and SOTA Generative Adversarial Networks.
+- [SofGAN: A Portrait Image Generator with Dynamic Styling (2021)](https://apchenstu.github.io/sofgan/) ([Code](https://github.com/apchenstu/sofgan))
+- [BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation (2021)](https://onion-liu.github.io/BlendGAN/) ([Code](https://github.com/onion-liu/BlendGAN))
+- [Adversarial Generation of Continuous Implicit Shape Representations (2020)](https://arxiv.org/abs/2002.00349) ([Code](https://github.com/marian42/shapegan))
+- [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing (2021)](https://arxiv.org/abs/2111.15666) ([Code](https://github.com/yuval-alaluf/hyperstyle)) ([Web](https://yuval-alaluf.github.io/hyperstyle/)) ([HN](https://news.ycombinator.com/item?id=29401544))
+- [Audiovisual interpolations with GANs](https://github.com/maua-maua-maua/audiovisual)
+- [GAN-Supervised Dense Visual Alignment (2021)](https://www.wpeebles.com/gangealing) ([Code](https://github.com/wpeebles/gangealing))
+- [ArcaneGAN](https://github.com/Sxela/ArcaneGAN) ([Web](https://huggingface.co/spaces/akhaliq/ArcaneGAN))
+- [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs (2021)](https://nvlabs.github.io/denoising-diffusion-gan/) ([Code](https://github.com/NVlabs/denoising-diffusion-gan))
+- [Ensembling Off-the-shelf Models for GAN Training (2021)](https://www.cs.cmu.edu/~vision-aided-gan/) ([Code](https://github.com/nupurkmr9/vision-aided-gan))
+- [Generative Adversarial Networks 101](https://github.com/mafda/generative_adversarial_networks_101)
+- [StyleGAN2-ADA: Training Generative Adversarial Networks with Limited Data (2020)](https://arxiv.org/abs/2006.06676) ([Code](https://github.com/NVlabs/stylegan2-ada-pytorch))
+- [EG3D: Efficient Geometry-aware 3D GANs (2021)](https://matthew-a-chan.github.io/EG3D/) ([Code](https://github.com/NVlabs/eg3d))
+- [JoJoGAN: One Shot Face Stylization](https://github.com/mchong6/JoJoGAN)
+- [VolumeGAN - 3D-aware Image Synthesis via Learning Structural and Textural Representations (2021)](https://genforce.github.io/volumegan/) ([Code](https://github.com/genforce/volumegan))
+- [GenForce: Research Initiative on Generative Modeling](https://genforce.github.io/) ([GitHub](https://github.com/genforce))
+- [Sketch Your Own GAN (2021)](https://peterwang512.github.io/GANSketching/) ([Code](https://github.com/PeterWang512/GANSketching))
+- [StyleGAN2-ada for practice](https://github.com/eps696/stylegan2ada)
+- [StyleGAN3 CLIP-based guidance](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks)
+- [CA-GAN: Composition-Aided GANs (2020)](https://aiart.live/ca-gan/) ([Code](https://github.com/fei-hdu/ca-gan))
+- [SinGAN: Learning a Generative Model from a Single Natural Image (2019)](https://tamarott.github.io/SinGAN.htm) ([Code](https://github.com/tamarott/SinGAN))

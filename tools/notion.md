@@ -29,7 +29,7 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Help & Support](https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004)
 - [My 2020 Setup in Notion](https://joeyabanks.io/notes/my-2020-setup-in-notion)
 - [Notion for Artists and Creatives](https://flowarte.com/notion-for-artists-and-creatives/)
-- [Super](https://super.so/) - Custom domains, fonts, and analytics for Notion.
+- [Super](https://super.so/) - Custom domains, fonts, and analytics for Notion. ([Docs](https://docs.super.so/))
 - [Notion Tools](https://www.notion.so/Notion-Tools-25d054da911344199cdf403cc04f317c)
 - [Notion Landing Pages, Ultimate Guide](https://optemization.com/notion-landing-page-guide)
 - [Notion Automations](https://notion-automations.com/) - Automate your Workflows on Notion with Zapier. ([HN](https://news.ycombinator.com/item?id=24931344))
@@ -48,7 +48,7 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Blog](https://www.notion.so/blog)
 - [Creating a MVP landing page using nothing but Notion and a little CSS](https://noahbragg.com/blog/how-i-created-my-landing-page)
 - [Reverse-Engineering Notion's and Clubhouse's API (2021)](https://www.youtube.com/watch?v=h6rpahb8_nk)
-- [Potion](https://www.potion.so/) - Create custom websites in minutes. All on Notion. ([Code](https://github.com/benborgers/potion))
+- [Potion](https://www.potion.so/) - Create custom websites in minutes. All on Notion. ([Code](https://github.com/benborgers/potion)) ([HN](https://news.ycombinator.com/item?id=28946723))
 - [Notionery](https://www.notionery.com/) - Discover the latest Notion templates, products, and more.
 - [Next.js Notion Starter Kit](https://github.com/wzulfikar/nextjs-notion) - Jamstack blog with Next.js and Notion. ([Web](https://wzulfikar.com/))
 - [Joonbot](https://www.joonbot.com/chatbot-in-notion/) - Build and embed a chatbot in minutes in your Notion page.
@@ -70,3 +70,16 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Migrating Notion's marketing site to Next.js (2021)](https://www.notion.so/blog/migrating-notion-marketing-to-next-js)
 - [Notion SDK Py](https://github.com/ramnes/notion-sdk-py) - Official Notion SDK rewritten in Python (sync + async).
 - [Noto avatar](https://abstractlab.gumroad.com/l/noto-avatar) - With this illustrations pack, you can create your own Notion-style avatar.
+- [Notion Avatar Maker](https://notion-avatar.vercel.app/) - Online tool for making notion-style avatars. ([Code](https://github.com/Mayandev/notion-avatar))
+- [Notero](https://github.com/dvanoni/notero) - Zotero plugin that syncs items into a Notion database when added to a specific collection.
+- [NotionSwift](https://github.com/chojnac/NotionSwift) - Unofficial Notion API SDK for iOS & macOS.
+- [7 tools we built on Notion instead of buying (2021)](https://www.notion.so/blog/7-tools-we-built-on-notion)
+- [How I use Notion (2021)](https://reasonabledeviations.com/2021/09/18/how-i-use-notion/) ([HN](https://news.ycombinator.com/item?id=29195417))
+- [Stacks](https://stacks.super.site/) - Minimal, modular portfolio template for Notion & Super.
+- [AppFlowy](https://www.appflowy.io/) - Open-source Notion Alternative. ([Code](https://github.com/AppFlowy-IO/appflowy)) ([HN](https://news.ycombinator.com/item?id=29234805))
+- [Notaku](https://notaku.website/) - Docs website from Notion content. ([Tweet](https://twitter.com/__morse/status/1461738430698860544))
+- [Hoppa](https://gethoppa.com/) - Turn your Notion page into help center.
+- [Notion Generator](https://github.com/Mathspy/notion-generator) - Generate an HTML page based on a Notion document.
+- [Notion Beginner to Advanced Course](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20)
+- [NAST](https://github.com/dragonman225/nast) - Block-based intermediate representation for document-like content.
+- [Remix + Notion](https://github.com/onspaceship/remotion)

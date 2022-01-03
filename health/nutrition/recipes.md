@@ -10,11 +10,19 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 
 ## Interesting
 
+- [Curried Butternut Squash Soup](https://minimalistbaker.com/curried-butternut-squash-soup/#wprm-recipe-container-35467)
 - [Garlic bread](https://www.simplyrecipes.com/recipes/garlic_bread/)
 - [Bhel Puri](https://www.vegrecipesofindia.com/bhel-puri-mumbai-bhel-puri/)
 - [Samosa Chaat](https://www.cookwithmanali.com/samosa-chaat/)
 - [Samosa](https://www.indianhealthyrecipes.com/samosa-recipe-make-samosa/)
 - [Vegetable pakora](https://www.indianhealthyrecipes.com/pakora-recipe-vegetable-pakora-pakoda/)
+- [Fried rice cakes, buckwheat noodles and home-made kimchi](https://merveilles.town/web/statuses/107050455161556153)
+- [Spicy Carrot Soup](https://www.teamten.com/lawrence/recipes/spicy-carrot-soup/)
+- [Spicy Korean Carrots – Morkovcha](https://letthebakingbegin.com/spicy-korean-carrots/)
+- [Синнабоны](https://twitter.com/Khlystova_AP/status/1188421276416786432)
+- [Perfect Risotto](https://tasty.co/recipe/mushroom-risotto)
+- [Bagels](https://github.com/andrewkern/bagels)
+- [Jollof Rice Recipe](https://cooking.nytimes.com/recipes/1018069-jollof-rice)
 
 ## Links
 
@@ -54,3 +62,21 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Avocado Pasta](https://damndelicious.net/2014/06/20/avocado-pasta/)
 - [Damn Delicious Recipes](https://damndelicious.net/recipe-index/)
 - [Dassana's Veg Recipes](https://www.vegrecipesofindia.com/) - Vegetarian Indian & World Recipes Food Blog.
+- [Just the Recipe](https://www.justtherecipe.com/) - Get just the ingredients and instructions for any recipe.
+- [Tasty](https://tasty.co/) - Food videos and recipes.
+- [Munchy](https://joinmunchy.com/) - Discover recipes you'll love.
+- [Mealie](https://hay-kot.github.io/mealie/) - Hosted recipe manager and meal planner with a RestAPI backend. ([Code](https://github.com/hay-kot/mealie))
+- [RecipeSage](https://recipesage.com/#/welcome) - Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form. ([Code](https://github.com/julianpoy/RecipeSage))
+- [Minimalist Baker](https://minimalistbaker.com/) - Simple Recipes That Make You Feel Good.
+- [CookLang](https://cooklang.org/) - Recipe markup language. ([HN](https://news.ycombinator.com/item?id=28997309)) ([CookCLI](https://github.com/cooklang/CookCLI)) ([Community Recipes](https://github.com/cooklang/recipes)) ([Lobsters](https://lobste.rs/s/dihrpr/cooklang_recipe_markup_language)) ([Spec](https://github.com/cooklang/spec))
+- [Collection of cooking recipes in JSON format generated using the recipebook application](https://github.com/dpapathanasiou/recipes)
+- [recipebook](https://github.com/dpapathanasiou/recipebook) - Simple application for scraping and parsing food recipe data found on the web in hRecipe format, producing results in JSON.
+- [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more. ([Docs](https://docs.tandoor.dev/)) ([Web](https://tandoor.dev/))
+- [Stovetop](https://stovetop.app/) - Recipe Search. ([HN](https://news.ycombinator.com/item?id=29161585))
+- [RecipeFilter Chrome Extension](https://github.com/sean-public/RecipeFilter) - Focuses recipes front and center on food blogs.
+- [Raveny](https://raveny.netlify.app/search) - Website where people can find recipes and find them based on different criteria. ([Code](https://github.com/tigerabrodi/Raveny))
+- [Rapid Recipe](https://rapidrecipe.reichel.dev/) - Reader mode for recipes. ([HN](https://news.ycombinator.com/item?id=29379415))
+- [100 No-Cook Meal Items For When You Refuse to Adult](https://blackgirllostkeys.com/adhd/100-no-cook-meal-items/)
+- [One Pot Pony](https://onepotpony.com/) - Lazy person's guide to delicious meal prep.
+- [NYT Cooking Recipes](https://cooking.nytimes.com/)
+- [Eugene's recipes](https://eed3si9n.com/recipes/)

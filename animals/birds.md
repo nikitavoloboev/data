@@ -24,3 +24,4 @@
 - [Helping a bird](https://twitter.com/Fizzygrrl/status/1370209351344922626)
 - [Dancing with the Birds (2019)](https://letterboxd.com/film/dancing-with-the-birds/) ([Trailer](https://www.youtube.com/watch?v=i6po8dWuvCI))
 - [Trogon](https://trogon.onrender.com/) - Learn to identify bird vocalizations at any location in the world. ([HN](https://news.ycombinator.com/item?id=28059763))
+- [Can You Identify the Birds Behind These Creepy Calls?](https://www.audubon.org/news/can-you-identify-birds-behind-these-creepy-calls)

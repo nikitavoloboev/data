@@ -19,3 +19,8 @@
 - [Why self hosting is important (2021)](https://dataswamp.org/~solene/2021-07-23-why-selfhosting-is-important.html) ([HN](https://news.ycombinator.com/item?id=27939039))
 - [numblr](https://github.com/heyLu/numblr) - Alternative Tumblr (and Twitter, Instagram, AO3, YouTube, RSS, ...) frontend.
 - [Homer](https://github.com/bastienwirtz/homer) - Very simple static homepage for your server.
+- [KubeSail](https://kubesail.com/) - Self hosting company.
+- [Flame](https://github.com/pawelmalak/flame) - Self-hosted start page for your server.
+- [POSSE: Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) ([HN](https://news.ycombinator.com/item?id=29115696))
+- [CasaOS](https://github.com/IceWhaleTech/CasaOS) - Simple, easy-to-use, elegant open-source Family Cloud system. ([HN](https://news.ycombinator.com/item?id=29328473))
+- [My Setup for Self-Hosting Dozens of Web Applications + Services on a Single Server (2021)](https://cprimozic.net/blog/my-selfhosted-websites-architecture/) ([HN](https://news.ycombinator.com/item?id=29746223)) ([Lobsters](https://lobste.rs/s/olgedg/my_setup_for_self_hosting_dozens_web))

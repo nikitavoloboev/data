@@ -8,6 +8,8 @@ I separate blogs I follow by quality into `1.` & `2.` folders accordingly.
 
 I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689). I also follow some people on [Medium](https://medium.com/@nikitavoloboev/following).
 
+If you want to start a blog of your own, [this](https://github.com/alaq/adrien.sh) is a nice [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) template. Or [this](https://github.com/sw-yx/swyxkit) if you want to use [Svelte](../programming-languages/javascript/js-libraries/svelte.md). Or [this](https://github.com/SimeonGriggs/simeonGriggs) if you want to use [Remix](../programming-languages/javascript/js-libraries/react/remix.md).
+
 ## Favorite blogs
 
 - [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
@@ -66,6 +68,25 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Micah Lerner](https://www.micahlerner.com/) ([Code](https://github.com/mlerner/mlerner.github.io))
 - [Mark Litwintschik](https://tech.marksblogg.com/)
 - [Never Ending Books](http://www.neverendingbooks.org/)
+- [Luca Palmieri](https://www.lpalmieri.com/)
+- [Bartosz Ciechanowski](https://ciechanow.ski/)
+- [Daniel Holden](https://theorangeduck.com/)
+- [Alarming Development](https://alarmingdevelopment.org/)
+- [Eric Jang](https://evjang.com/)
+- [Ivan Velichko](https://iximiuz.com/en/)
+- [John Regehr](https://blog.regehr.org/)
+- [Shtetl-Optimized](https://scottaaronson.blog/)
+- [Matt Rickard](https://matt-rickard.com/archive/)
+- [Not a Number](https://nan.fyi/) - Interactive blog on computer science and web development. ([Code](https://github.com/narendrasss/NotANumber))
+- [Dynomight](https://dynomight.net/)
+- [Yannik Sander](https://blog.ysndr.de/) ([Code](https://github.com/ysndr/blog))
+- [Amélia](https://amelia.how/)
+- [Miguel Young](https://mcyoung.xyz/posts.html)
+- [Nick Babcock](https://nickb.dev/)
+- [George Saunders](https://georgesaunders.substack.com/)
+- [Jaana Dogan](https://rakyll.org/)
+- [Eugene Yokota](https://eed3si9n.com/)
+- [The Pragmatic Engineer](https://www.pragmaticengineer.com/)
 
 ## Notes
 
@@ -157,5 +178,14 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Blog about what you've struggled with (2021)](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/)
 - [Ask HN: Favorite Blogs by Individuals? (2021)](https://news.ycombinator.com/item?id=27302195)
 - [Small B Blogging (2018)](https://tomcritchlow.com/2018/02/23/small-b-blogging/) ([HN](https://news.ycombinator.com/item?id=27347026))
-- [Refined Blog](https://refined.blog/) - Curated list of personal blogs. ([HN](https://news.ycombinator.com/item?id=27973836))
+- [Refined Blog](https://refined.blog/) - Curated list of personal blogs. ([HN](https://news.ycombinator.com/item?id=27973836)) ([Code](https://github.com/m8/refined.blog))
 - [Why the Substack hype is much ado about very little (2020)](https://dankennedy.net/2020/12/09/blogging-is-dead-long-live-blogging-or-why-the-substack-hype-is-much-ado-about-very-little/) ([HN](https://news.ycombinator.com/item?id=27968203))
+- [The stream](https://github.com/thesephist/stream) - Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak.
+- [Blogging for Business Course](https://ahrefs.com/academy/blogging-for-business)
+- [Salto](https://www.salto.so/) - Build a programming blog without the hassle.
+- [Ask HN: What are some great engineering blogs? (2021)](https://news.ycombinator.com/item?id=29237308)
+- [Ask HN: What makes a good engineering blog? (2021)](https://news.ycombinator.com/item?id=29264754)
+- [md2blog](https://jaredkrinke.github.io/md2blog/index.html) - Zero-config static site generator for dev blogs.
+- [I Host This Blog from My Garage (2021)](https://eevans.co/blog/garage/) ([HN](https://news.ycombinator.com/item?id=29474130))
+- [Blog-CLI](https://github.com/elchead/blog-cli) - Used to draft posts inside obsidian and publish conveniently to my Github blog.
+- [Ask HN: Best Engineering Blog Posts? (2022)](https://news.ycombinator.com/item?id=29758396)

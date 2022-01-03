@@ -41,7 +41,7 @@
 - [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies)
 - [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL. ([Docs](https://docs.mapbox.com/mapbox-gl-js/api/)) ([OSS Fork](https://github.com/openmaptiles/gl-js))
 - [Zood](https://www.zood.xyz/) - End encrypted location sharing service like Google Latitude. ([HN](https://news.ycombinator.com/item?id=25347915))
-- [OpenMapTiles](https://openmaptiles.org/) - World maps you can self-host. ([GitHub](https://github.com/openmaptiles))
+- [OpenMapTiles](https://openmaptiles.org/) - World maps you can self-host. ([GitHub](https://github.com/openmaptiles)) ([OpenMapTiles Vector Tile Schema Implementation](https://github.com/openmaptiles/openmaptiles))
 - [OpenStreetMap](https://www.openstreetmap.org/) - Provides map data for thousands of web sites, mobile apps, and hardware devices. ([GitHub](https://github.com/openstreetmap))
 - [We Built Scalable Spatial Indexing in CockroachDB (2020)](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/)
 - [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps. ([Web](https://leafletjs.com/))
@@ -60,7 +60,7 @@
 - [H3](https://github.com/uber/h3) - Hexagonal Hierarchical Geospatial Indexing System. ([Docs](https://h3geo.org/docs))
 - [How to use Mapbox Movement Data for data analytics (guide) (2021)](https://www.mapbox.com/blog/how-to-utilize-mapbox-movement-data-for-mobility-insights-a-guide-for-analysts-data-scientists-and-developers)
 - [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index) - Spatial Extension to SQLite. ([HN](https://news.ycombinator.com/item?id=26685156))
-- [PostGIS](https://postgis.net/) - Spatial and Geographic Objects for PostgreSQL. ([HN](https://news.ycombinator.com/item?id=26686926))
+- [PostGIS](https://postgis.net/) - Spatial and Geographic Objects for PostgreSQL. ([HN](https://news.ycombinator.com/item?id=26686926)) ([Code](https://github.com/postgis/postgis))
 - [A new way to make maps with OpenStreetMap (2021)](https://protomaps.com/blog/new-way-to-make-maps/) ([HN](https://news.ycombinator.com/item?id=26918259))
 - [Tegola](https://github.com/go-spatial/tegola) - Mapbox Vector Tile server written in Go. ([Web](https://tegola.io/))
 - [Globe.GL](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL.
@@ -94,3 +94,35 @@
 - [MobilityDB](https://github.com/MobilityDB/MobilityDB) - Geospatial trajectory data management & analysis platform, built on PostgreSQL and PostGIS. ([Web](https://mobilitydb.com/))
 - [concaveman](https://github.com/mapbox/concaveman) - Very fast 2D concave hull algorithm in JavaScript.
 - [Vehicle Routing Open-source Optimization Machine](https://github.com/VROOM-Project/vroom) ([Web](http://vroom-project.org/))
+- [Imposm](https://github.com/omniscale/imposm3) - Imports OpenStreetMap data into PostGIS.
+- [carbonplan / maps](https://github.com/carbonplan/maps) - Interactive multi-dimensional data-driven web maps. ([Web](https://maps.demo.carbonplan.org/))
+- [There’s a Multibillion-Dollar Market for Your Phone’s Location Data (2021)](https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data) ([HN](https://news.ycombinator.com/item?id=28730532)) ([Data and Methodology used](https://github.com/the-markup/location-data-industry))
+- [Dask Geopandas](https://github.com/mrocklin/dask-geopandas) - Parallelized GeoPandas with Dask.
+- [Sterblue Geospatial](https://github.com/sterblue/geospatial) - Geospatial monorepo for geospatial related packages.
+- [Atlasr](https://github.com/atlasr-org/atlasr) - Truly open-source and free map browser.
+- [osmflat](https://github.com/boxdot/osmflat-rs) - OpenStreetMap flatdata format and compiler.
+- [harp.gl](https://github.com/heremaps/harp.gl) - 3D web map rendering engine written in TypeScript using three.js ([Web](https://www.harp.gl/))
+- [HERE Technologies](https://www.here.com/) - High-precision data and advanced tooling for a safer, more efficient and cleaner world. ([Developer](https://developer.here.com/)) ([GitHub](https://github.com/heremaps))
+- [OSM Lab](https://github.com/osmlab) - Organization for OpenStreetMap related projects - libraries, applications, and other code.
+- [OSM Editor Layer Index](https://osmlab.github.io/editor-layer-index/) - Traceable imagery and other layer sources intended for use in OpenStreetMap. ([Code](https://github.com/osmlab/editor-layer-index))
+- [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson)
+- [QGIS](https://qgis.org/en/site/) - Free and Open Source Geographic Information System. ([Code](https://github.com/qgis/QGIS))
+- [Comprehensive map of GIS file formats](https://github.com/jahow/map-of-formats)
+- [wkt](https://github.com/benrei/wkt) - Parse WKT (Well-known text) into GeoJSON or stringify GeoJSON into WKT.
+- [Flatmap](https://github.com/onthegomap/flatmap) - Tool to make vector tiles from OpenStreetMap data fast. ([HN](https://news.ycombinator.com/item?id=28986762))
+- [PlacesDAO](https://www.places.xyz/) - Open atlas curated by the world and stored on chain. ([Places.xyz Google Maps Integration](https://github.com/hmprt/places-xyz-plotter))
+- [MapProxy](https://github.com/mapproxy/mapproxy) - Open source proxy for geospatial data. It caches, accelerates and transforms data from existing map services and serves any desktop or web GIS client. ([Web](https://mapproxy.org/))
+- [TorchGeo](https://github.com/microsoft/torchgeo) - Datasets, transforms, and models for geospatial data.
+- [Mappin](https://map-it-up.netlify.app/) - Make your own high definition maps.
+- [OSMnx](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap. ([Paper](https://geoffboeing.com/publications/osmnx-complex-street-networks/)) ([Examples](https://github.com/gboeing/osmnx-examples))
+- [Greppo](https://greppo.io/) - Build geospatial applications and dashboards. ([Code](https://github.com/greppo-io/greppo))
+- [ocaml-geojson](https://github.com/patricoferris/ocaml-geojson) - Library for manipulating, creating and parsing Geojson.
+- [Reimagining projections for the interactive maps era (2021)](https://www.mapbox.com/blog/adaptive-projections) ([HN](https://news.ycombinator.com/item?id=29540619))
+- [streamlit-geospatial](https://github.com/giswqs/streamlit-geospatial) - Multi-page streamlit app for geospatial.
+- [go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image.
+- [Spatial Lookup Web Service](https://github.com/pramsey/geos-lookup) - In-memory reverse geocode backed by GEOS.
+- [rgis](https://github.com/frewsxcv/rgis) - Geospatial data viewer written in Rust.
+- [2021 Map technology in review](https://www.placemark.io/post/2021-map-technology-in-review)
+- [Should you contribute open data to OpenStreetMap? (2021)](https://www.ctrl.blog/entry/re-maps-public-service.html) ([HN](https://news.ycombinator.com/item?id=29713976))
+- [WorldQL Server](https://github.com/WorldQL/worldql_server) - Spatial message broker and database for real-time multiplayer experiences.
+- [Flowmap.blue](https://flowmap.blue/) - Create geographic flow maps representing numbers of movements between locations. ([Code](https://github.com/FlowmapBlue/flowmap.blue))

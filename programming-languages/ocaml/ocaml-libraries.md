@@ -2,6 +2,7 @@
 
 ## Web
 
+- [h2](https://github.com/anmonteiro/ocaml-h2) - HTTP/2 implementation written in pure OCaml.
 - [Opium](https://github.com/rgrinberg/opium) - Sinatra like web toolkit for OCaml.
 - [OCaml On Ice](https://github.com/roddyyaga/ocoi) - Web framework for OCaml in the style of Ruby on Rails.
 - [http/af](https://github.com/inhabitedtype/httpaf) - High performance, memory efficient, and scalable web server written in OCaml.
@@ -9,10 +10,12 @@
 - [ocaml-wasmtime](https://github.com/LaurentMazare/ocaml-wasmtime) - OCaml WebAssembly runtime powered by wasmtime.
 - [Dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework. ([Docs](https://aantron.github.io/dream/)) ([HN](https://news.ycombinator.com/item?id=26758151))
 - [OCaml JavaScript bindings](https://github.com/tmattio/js-bindings)
+- [Tiny_httpd](https://github.com/c-cube/tiny_httpd) - Minimal HTTP server using good old threads + blocking IO, with small request router.
 
 ## Test
 
 - [Alcotest](https://github.com/mirage/alcotest) - Lightweight and colorful test framework.
+- [Mutaml](https://github.com/jmid/mutaml) - Mutation Tester for OCaml.
 
 ## Science
 
@@ -24,7 +27,9 @@
 
 ## DB
 
+- [Caqti](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data.
 - [PostgreSQL-OCaml](https://github.com/mmottl/postgresql-ocaml) - PostgreSQL Bindings for OCaml.
+- [postgres-protocol](https://github.com/anuragsoni/postgres-protocol) - IO independent postgres protocol implementation.
 
 ## Bindings
 
@@ -38,6 +43,7 @@
 ## Error
 
 - [ppx_let_locs](https://github.com/EduardoRFS/ppx_let_locs) - Improving stack trace for let monadic.
+- [pp_loc](https://github.com/Armael/pp_loc) - Provides support to additionally quote and highlight the input fragment the input that corresponds to a location (or a set of locations).
 
 ## Graphics
 
@@ -62,7 +68,6 @@
 - [Landmarks](https://github.com/LexiFi/landmarks) - Simple Profiling Library for OCaml.
 - [pfff](https://github.com/returntocorp/pfff) - Set of tools and APIs to perform static analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [ppx_stage](https://github.com/stedolan/ppx_stage) - Staged metaprogramming in stock OCaml.
-- [Caqti](https://github.com/paurkedal/ocaml-caqti) - Provides a monadic cooperative-threaded OCaml connector API for relational databases.
 - [Streaming](https://github.com/odis-labs/streaming) - Fast, safe and composable streaming abstractions. ([Announcement](https://discuss.ocaml.org/t/ann-first-release-of-streaming/5961))
 - [cameleer](https://github.com/mariojppereira/cameleer) - Deductive Verification Tool for OCaml Programs.
 - [Ppxlib](https://github.com/ocaml-ppx/ppxlib) - Base library and tools for ppx rewriters.
@@ -100,9 +105,32 @@
 - [ortac](https://github.com/ocaml-gospel/ortac) - OCaml Runtime Assertion Checking.
 - [Bloomf](https://github.com/mirage/bloomf) - Efficient Bloom filters for OCaml.
 - [Index](https://github.com/mirage/index) - Scalable implementation of persistent indices in OCaml.
+- [ppx_effects](https://github.com/CraigFe/ppx_effects) - Syntax extensions for untyped effects in OCaml 5.
+- [kv-hash](https://github.com/tomjridge/kv-hash) - Key Value store using a persistent hashtable approach.
+- [DAI](https://github.com/cuplv/dai) - Demanded Abstract Interpretation.
+- [field_repr](https://github.com/CraigFe/field_repr) - Efficient run-time representations of OCaml record fields.
+- [CacheCache](https://github.com/pascutto/cachecache) - Efficient caching library for OCaml.
+- [ocaml-extlib](https://github.com/ygrek/ocaml-extlib) - Extended Standard Library for OCaml.
+- [MParser](https://github.com/murmour/mparser) - Simple monadic parser combinator library for OCaml.
+- [futurama](https://github.com/ghuysmans/futurama) - Finite permutation library with an optimizing compiler.
+- [algebra](https://github.com/ghuysmans/algebra) - Definitions for common algebraic structures.
+- [ocaml-lp](https://github.com/ktahar/ocaml-lp) - Helps the modeling of Linear Programming (LP) and Mixed Integer Programming (MIP) in OCaml.
+- [ppx_regexp](https://github.com/paurkedal/ppx_regexp) - Matching Regular Expressions with OCaml Patterns.
+- [Shuttle](https://github.com/anuragsoni/shuttle) - Buffered channels for async.
+- [Poll](https://github.com/anuragsoni/poll) - Portable OCaml API to poll file descriptors for IO readiness. Supports kqueue and epoll for now.
+- [ART](https://github.com/dinosaure/art) - Adaptive Radix Tree in OCaml.
+- [Avro](https://github.com/c-cube/ocaml-avro) - Runtime library and schema compiler for the Avro serialization format.
+- [CMON](https://github.com/let-def/cmon) - Library for printing OCaml values with sharing.
+- [Equinoxe](https://github.com/maiste/equinoxe) - Equinix API client library for OCaml.
+- [ocaml_plugin](https://github.com/janestreet/ocaml_plugin) - Automatically build and dynlink OCaml source files.
+- [Lwt Pipe](https://github.com/c-cube/lwt-pipe) - Multi-consumer, multi-producers blocking queue and stream for Lwt.
+- [sedlex](https://github.com/ocaml-community/sedlex) - Unicode-friendly lexer generator for OCaml.
+- [Compact](https://github.com/CraigFe/compact) - Memory-efficient data structures in OCaml.
+- [PaComb](https://github.com/craff/pacomb) - Parsing library that compiles grammars to combinators using elimination of left recursion.
 
 ## Links
 
 - [OPAM packages](http://opam.ocaml.org/packages/)
 - [dune-deps](https://github.com/mjambon/dune-deps) - Show the internal dependencies in your OCaml/Reason/Dune project.
 - [dune-release](https://github.com/ocamllabs/dune-release) - Tool to streamline the release of Dune packages in opam.
+- [opam-dune-lint](https://github.com/ocurrent/opam-dune-lint) - Ensure dune and opam dependencies are consistent.

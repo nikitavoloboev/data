@@ -1,5 +1,9 @@
 # Artificial intelligence
 
+## Notes
+
+- [Best part of I, Robot is how it consistently presents robots doing undesirable things not as AI “gone evil” or “run amok” but implications of their programming that humans did not anticipate, which must be understood and fixed like any other engineering problem.](https://twitter.com/lexi_lambda/status/1464269135169339393)
+
 ## Links
 
 - [What worries me about AI (2018)](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
@@ -91,3 +95,27 @@
 - [Tesla AI Day (2021)](https://youtu.be/j0z4FweCy4M?t=2853) ([HN](https://news.ycombinator.com/item?id=28240882))
 - [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/) - Summarize the history of AI since March 2020.
 - [The UK AI Strategy: are we listening to the experts? (2021)](https://datasciencesection.org/2021/09/13/the-uk-ai-strategy-are-we-listening-to-the-experts/) ([Tweet](https://twitter.com/stianwestlake/status/1440633819548164098))
+- [Awesome Edge AI](https://github.com/rcmalli/awesome-edge-ai)
+- [ContinualAI](http://www.continualai.org/) - Non-profit Research Organization and Open Community on Continual Learning for AI. ([GitHub](https://github.com/ContinualAI))
+- [Resources for Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
+- [Responsible-AI-Widgets](https://github.com/microsoft/responsible-ai-widgets) - Responsible AI user interfaces for Fairlearn, interpret-community, and Error Analysis, as well as foundational building blocks that they rely on.
+- [Notes on Artificial Intelligence](http://frnsys.com/notes/ai/) ([Code](https://github.com/frnsys/ai_notes))
+- [Using AI to accelerate scientific discovery - Demis Hassabis (2021)](https://www.youtube.com/watch?v=sm-VkgVX-2o)
+- [Just Ask for Generalization (2021)](https://evjang.com/2021/10/23/generalization.html) ([Tweet](https://twitter.com/karpathy/status/1452312576331862023))
+- [Short Story on AI: Forward Pass (2021)](http://karpathy.github.io/2021/03/27/forward-pass/) ([Tweet](https://twitter.com/karpathy/status/1452312582216376341))
+- [Solving Math Word Problems (2021)](https://openai.com/blog/grade-school-math/) ([HN](https://news.ycombinator.com/item?id=29042256))
+- [Training Verifiers to Solve Math Word Problems (2021)](https://arxiv.org/abs/2110.14168) ([Article](https://openai.com/blog/grade-school-math/)) ([HN](https://news.ycombinator.com/item?id=29042256)) ([Tweet](https://twitter.com/sama/status/1454191236210839555))
+- [Pathways: A next-generation AI architecture (2021)](https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/)
+- [Strong AI Requires Autonomous Building of Composable Models (2021)](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/)
+- [Fast indoor 2D localization using ceiling lights (2021)](https://www.a1k0n.net/2021/01/22/indoor-localization.html)
+- [Shannon entropy in the context of machine learning and AI (2018)](https://medium.com/swlh/shannon-entropy-in-the-context-of-machine-learning-and-ai-24aee2709e32)
+- [An argument for the impossibility of machine intelligence (2021)](https://arxiv.org/abs/2111.07765)
+- [Sea AI Lab](https://sail.sea.com/) ([GitHub](https://github.com/sail-sg))
+- [Ask HN: What are the early signs of singularity? (2021)](https://news.ycombinator.com/item?id=29343774)
+- [Aligning AI With Shared Human Values (2020)](https://arxiv.org/abs/2008.02275) ([Code](https://github.com/hendrycks/ethics))
+- [100 Lessons from 1 Year of AI Research (2021)](https://jetnew.io/blog/2021/100-lessons/)
+- [DeepMind's Player of Games, a general-purpose game algorithm (2021)](https://arxiv.org/abs/2112.03178) ([HN](https://news.ycombinator.com/item?id=29481665))
+- [The future of artificial intelligence is self-organizing and self-assembling (2021)](https://sebastianrisi.com/self_assembling_ai/) ([HN](https://news.ycombinator.com/item?id=29568370))
+- [What Does It Mean for AI to Understand? (2021)](https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/) ([HN](https://news.ycombinator.com/item?id=29578687))
+- [Frontiers in Collective Intelligence: A Workshop Report (2021)](https://arxiv.org/abs/2112.06864)
+- [Literature for the self-taught AI practitioner](https://github.com/camoverride/lit)

@@ -58,6 +58,11 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Franklin](https://franklinjl.org/) - Static Site Generator in Julia. ([Code](https://github.com/tlienart/Franklin.jl))
 - [nestjs/serve-static](https://github.com/nestjs/serve-static) - Serve static websites (SPA's) using Nest framework (node.js).
 - [Zas](https://github.com/imdario/zas) - Most simple static website generator in Go.
+- [Bridgetown](https://www.bridgetownrb.com/) - Webpack-aware, Ruby-powered static site generator for the modern Jamstack era. ([Code](https://github.com/bridgetownrb/bridgetown)) ([Twitter](https://twitter.com/bridgetownrb))
+- [babe](https://github.com/askonomm/babe) - Data oriented static site generator.
+- [Lume](https://github.com/lumeland/lume) - Static site generator for Deno.
+- [Retype](https://github.com/retypeapp/retype) - Ultra-high-performance generator that builds a website based on simple text files. ([Docs](https://retype.com/))
+- [Cryogen](http://cryogenweb.org/) - Static sites generated with Clojure. ([Article](https://freeston.me/posts/2021-11-29-new-site-generator/))
 
 ## Notes
 
@@ -102,3 +107,6 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Static site generators to watch in 2021](https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/) ([HN](https://news.ycombinator.com/item?id=27428062))
 - [Lessons from Building a Static Site Generator (2020)](https://nicholasreese.com/lessons-from-building-a-static-site-generator/) ([HN](https://news.ycombinator.com/item?id=27687899))
 - [How to set up your blog with Haskell, Slick and Netlify (2020)](https://luctielen.com/posts/how_to_setup_blog_with_haskell_slick_and_netlify/)
+- [Commento++](https://github.com/souramoo/commentoplusplus) - Free, open source, fast & lightweight comments box that you can embed in your static website instead of Disqus.
+- [Using Netlify API Authentication for Static Site Builds (2021)](https://den.dev/blog/api-authentication-netlify-builds/)
+- [hyperlink](https://github.com/untitaker/hyperlink) - Command-line tool to find broken links in your static site / markdown.

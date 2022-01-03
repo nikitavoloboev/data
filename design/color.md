@@ -93,3 +93,30 @@
 - [Accessible Palette: Stop using HSL for color systems (2021)](https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems)
 - [NO_COLOR](http://no-color.org/) - Disabling ANSI color output in various Unix commands. ([Code](https://github.com/jcs/no_color))
 - [FettePalette](https://github.com/meodai/fettepalette) - Color palette generation function using curves within the HSV color model.
+- [The Geometry of Color Perception](https://www.handprint.com/HP/WCL/color2.html) ([HN](https://news.ycombinator.com/item?id=28627333))
+- [CSS gradient resampler](https://workshop.mass-driver.com/gradients)
+- [Sunlight affects whether languages have a word for ‘blue’ (2021)](https://www.science.org/content/article/sunlight-affects-whether-languages-have-word-blue) ([HN](https://news.ycombinator.com/item?id=28745302))
+- [Huetone](https://huetone.ardov.me/) - Tool to create and fine-tune your color system.
+- [colorio](https://github.com/nschloe/colorio) - Tools for color research.
+- [LCH Color picker](https://css.land/lch/) ([Code](https://github.com/leaverou/css.land)) ([Tweet](https://twitter.com/JoshWComeau/status/1450092771654742019))
+- [Pick a color](https://eldh.github.io/pick-a-color/#) ([Code](https://github.com/eldh/pick-a-color))
+- [Color Accessibility for Tailwind CSS](https://colour-a11y.vercel.app/) ([Code](https://github.com/samrobbins85/colour-a11y-for-tailwind))
+- [Shadowlord](https://noeldelgado.github.io/shadowlord/) - Tints and Shades Generator Tool. ([Code](https://github.com/noeldelgado/shadowlord))
+- [Harmonic Coloring](http://www.musanim.com/HarmonicColoring/) - Method for assigning colors to musical pitches. ([HN](https://news.ycombinator.com/item?id=29241387))
+- [A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH (2021)](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
+- [Inkspot](https://github.com/rm-hull/inkspot) - Small Clojure/ClojureScript library for creating color swatches.
+- [Dynamic Color Manipulation with CSS Relative Colors (2021)](https://blog.jim-nielsen.com/2021/css-relative-colors/) ([Tweet](https://twitter.com/stefanjudis/status/1463075616375377922))
+- [Every Color Picker](https://everycolorpicker.com/) - Color picker components. Framework independent. ([Code](https://github.com/pshihn/every-color-picker))
+- [dominant_colours](https://github.com/alexwlchan/dominant_colours) - CLI tool to find the dominant colors in an image.
+- [Design Tip: Never Use Black by Ian Storm Taylor (2012)](https://ianstormtaylor.com/design-tip-never-use-black/) ([HN](https://news.ycombinator.com/item?id=29430288))
+- [Coloring With Code — A Programmatic Approach To Design (2021)](https://tympanus.net/codrops/2021/12/07/coloring-with-code-a-programmatic-approach-to-design/)
+- [Color-changing magnifying glass gives clear view of infrared light (2021)](https://www.cam.ac.uk/research/news/colour-changing-magnifying-glass-gives-clear-view-of-infrared-light) ([HN](https://news.ycombinator.com/item?id=29447779))
+- [Base16](http://chriskempson.com/projects/base16/) - Architecture for building color themes for many apps. ([HN](https://news.ycombinator.com/item?id=29494871))
+- [WCAG 3's new color contrast method called APCA (Advanced Perceptual Contrast Algorithm)](https://twitter.com/DanHollick/status/1468958644364402702)
+- [Huetone](https://huetone.ardov.me/) - Tool to create accessible color systems. ([Code](https://github.com/ardov/huetone)) ([Tweet](https://twitter.com/ardovalexey/status/1447329411678806023))
+- [APCA (Advanced Perceptual Contrast Algorithm)](https://github.com/Myndex/SAPC-APCA) - New method for predicting contrast for use in emerging web standards (WCAG 3) for determining readability contrast. ([Web](https://www.myndex.com/APCA/))
+- [How we will write colors in CSS in 2022-2023](https://twitter.com/sitnikcode/status/1470753530491424779) ([Russian](https://twitter.com/andrey_sitnik/status/1470662400567304192))
+- [colorgram.py](https://github.com/obskyr/colorgram.py) - Python library that lets you extract colors from images.
+- [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+- [Color-Description](https://words.github.io/color-description/) - Turns a technical color representation into a human readable description. ([Code](https://github.com/words/color-description))
+- [Shade Generator](https://www.shadegenerator.com/) - Generate shades and tints of a given input color. ([Code](https://github.com/csandman/shade-generator))

@@ -1,5 +1,9 @@
 # [Software architecture](https://en.wikipedia.org/wiki/Software_architecture)
 
+I love the idea of [building truly offline first software where backend failing isn't a big deal. All operations are done locally (fast), then sync deltas to server](https://twitter.com/_vojto/status/1466540419404247043). Like [Replicache](https://replicache.dev/). Good example of such app is [Linear](https://linear.app/).
+
+My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/Deno services](https://news.ycombinator.com/item?id=29627047).
+
 ## Inspiration
 
 ### Other
@@ -19,6 +23,7 @@
   5. Perfection can't be reached, so don't aim there. Be as good as necessary.
   6. Postpone complexity and introduce it only when really needed.
 - [Duplication is cheaper than the wrong abstraction, it's true. The right abstraction is still cheaper than both of those. Sometimes it's so much cheaper I've seen people build entire businesses from one insight. Duplicate where appropriate but don't stop hunting for the pattern.](https://twitter.com/krisajenkins/status/1440260166637658118)
+- [Real-time local sync engine is very important in providing great user experiences.](https://twitter.com/cjbell_/status/1450881390292127758)
 
 ## Links
 
@@ -41,7 +46,7 @@
 - [Introduction to Computer Systems course (2019)](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/)
 - [The Cloud (2019)](https://txt.black/~jack/cloud.txt) ([HN](https://news.ycombinator.com/item?id=20639359))
 - [Ask HN: Which are the best resources to learn software architecture? (2020)](https://news.ycombinator.com/item?id=22202769)
-- [Cosmic Python](https://www.cosmicpython.com/) - Simple patterns for building complex applications. ([Code](https://github.com/cosmicpython/book))
+- [Cosmic Python](https://www.cosmicpython.com/) - Simple patterns for building complex applications. ([Code](https://github.com/cosmicpython/book)) ([Book](https://www.cosmicpython.com/book/preface.html)) ([Article](https://klaviyo.tech/managing-complexity-with-architecture-patterns-in-python-626b895710ca))
 - [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/) ([Lab Assignments](http://csapp.cs.cmu.edu/3e/labs.html))
 - [Introduction to Computer Systems course (2019)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/schedule.html)
 - [Diagrams](https://diagrams.mingrammer.com/) - Lets you draw the cloud system architecture in Python code. ([Code](https://github.com/mingrammer/diagrams)) ([HN](https://news.ycombinator.com/item?id=23154846)) ([TS lib](https://github.com/balles/diagrams-ts))
@@ -53,7 +58,7 @@
 - [Simple Systems Have Less Downtime (2020)](https://www.gkogan.co/blog/simple-systems/?r=0) ([HN](https://news.ycombinator.com/item?id=22471355))
 - [A primer on functional architecture (2020)](https://increment.com/software-architecture/primer-on-functional-architecture/)
 - [Colloquium on Computer Systems videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
-- [Data-Oriented Architecture (2020)](https://blog.eyas.sh/2020/03/data-oriented-architecture/) ([HN](https://news.ycombinator.com/item?id=22519974))
+- [Data-Oriented Architecture (2020)](https://blog.eyas.sh/2020/03/data-oriented-architecture/) ([HN](https://news.ycombinator.com/item?id=22519974)) ([HN](https://news.ycombinator.com/item?id=29209365))
 - [Ready for changes with Hexagonal Architecture (2020)](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749) ([HN](https://news.ycombinator.com/item?id=22540610))
 - [List of Post-mortems](https://github.com/danluu/post-mortems) ([HN](https://news.ycombinator.com/item?id=24743965))
 - [Simplify Full-Stack Development with a Unified Architecture (2019)](https://liaison.dev/blog/articles/Simplify-Full-Stack-Development-with-a-Unified-Architecture-187fr1)
@@ -116,7 +121,7 @@
 - [BrainBoard](https://www.brainboard.co/) - Design, Deploy and Depict powerful architectures.
 - [Uber’s Real-Time Push Platform (2020)](https://eng.uber.com/real-time-push-platform/) ([HN](https://news.ycombinator.com/item?id=25592127))
 - [Defold engine code overview (2020)](https://defold.com/2020/12/27/engine-overview-pt1/) ([HN](https://news.ycombinator.com/item?id=25569224))
-- [System Design Interview - An Insider's Guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide) ([Review](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)) ([HN](https://news.ycombinator.com/item?id=25647025))
+- [System Design Interview - An Insider's Guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide) ([Review](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)) ([HN](https://news.ycombinator.com/item?id=25647025)) ([Review](https://ahmet.im/blog/system-design-book-review/))
 - [Great Ideas in Computer Architecture (Machine Structures) Course (2020)](https://cs61c.org/fa20/)
 - [A Simple and Efficient Real Time Application Powered by Materialize’s TAIL Command (2021)](https://materialize.com/a-simple-and-efficient-real-time-application-powered-by-materializes-tail-command/)
 - [Behaviors to avoid in a software architecture role](https://www.danielwatts.info/post/7-behaviours-to-avoid-software-architect/) ([HN](https://news.ycombinator.com/item?id=26002543))
@@ -135,7 +140,7 @@
 - [Tiered Cache Smart Topology (2021)](https://blog.cloudflare.com/tiered-cache-smart-topology/)
 - [Using Betas to Deploy New Features Safely (2021)](https://shopify.engineering/using-betas-to-deploy-new-features-safely)
 - [How DogeHouse will Scale to the Moon (2021)](https://www.youtube.com/watch?v=8YJqB4pNNgs)
-- [Data-Oriented Programming Book (2021)](https://www.manning.com/books/data-oriented-programming)
+- [Data-Oriented Programming Book (2021)](https://www.manning.com/books/data-oriented-programming?utm_source=viebel&utm_medium=affiliate&utm_campaign=book_sharvit2_data_1_29_21&a_aid=viebel&a_bid=d5b546b7&twitter) ([Code](https://github.com/viebel/data-oriented-programming))
 - [Internet Archive Infrastructure (2021)](https://archive.org/details/jonah-edwards-presentation) ([HN](https://news.ycombinator.com/item?id=26300191))
 - [Michael Perry on Immutable Architecture (2021)](https://www.se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/)
 - [In Search for a Perfect Access Control System (2021)](https://goteleport.com/blog/access-controls/)
@@ -160,3 +165,30 @@
 - [MangaDex infrastructure overview](https://mangadex.dev/mangadex-v5-infrastructure-overview/) ([HN](https://news.ycombinator.com/item?id=28440742))
 - [Multiperspective Diagramming (2021)](https://blog.ilograph.com/posts/multiperspective-diagramming-guide/) - Guide for system, software, cloud, network, and other engineers.
 - [Architecting Modern Data Platforms Book (2018)](https://www.oreilly.com/library/view/architecting-modern-data/9781491969267/) ([Review](https://tech.marksblogg.com/architecting-modern-data-platforms-book-review.html))
+- [Opinionated project architecture for Full-Stack JavaScript Applications](https://github.com/atulmy/fullstack-javascript-architecture)
+- [Clean Architecture by Robert C. Martin Book (2007)](https://www.goodreads.com/book/show/18043011-clean-architecture) ([Notes](https://github.com/preslavmihaylov/booknotes/tree/master/architecture/clean-architecture))
+- [Technology decisions for startups (2021)](https://davidkell.substack.com/p/technology-decisions-for-startups)
+- [Scaling Large Production Clusters with Partitioned Synchronization (2021)](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
+- [Local-first software with Martin Kleppmann (2021)](https://museapp.com/podcast/41-local-first-software/)
+- [How to Safely Think in Systems (2021)](https://lethain.com/how-to-safely-think-in-systems/) ([HN](https://news.ycombinator.com/item?id=28886376))
+- [The lost art of software design (2021)](https://static.architectis.je/sag2021-the-lost-art-of-software-design.pdf)
+- [Software Architecture Patterns (2021)](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2) ([HN](https://news.ycombinator.com/item?id=29024767))
+- [Software architecture patterns Book (2015)](https://www.oreilly.com/content/software-architecture-patterns/)
+- [Fundamentals of Software Architecture Book (2020)](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+- [Netflix's Cloud Edge Architecture (2021)](https://www.linkedin.com/pulse/netlfixs-cloud-edge-architecture-philip-fisher-ogden/) ([Tweet](https://twitter.com/philip_pfo/status/1353853706995978243))
+- [Processing billions of events in real time (2021)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-) ([HN](https://news.ycombinator.com/item?id=29233463))
+- [Simlin](https://simlin.com/) - System dynamics modeling tool. ([Code](https://github.com/bpowers/simlin))
+- [Living with single-tenant and multi-tenant architectures (2021)](https://medium.com/schibsted-engineering/living-with-single-tenant-and-multi-tenant-architectures-b2d7027db24e)
+- [Event Sourcing Is Hard (2019)](https://chriskiehl.com/article/event-sourcing-is-hard) ([HN](https://news.ycombinator.com/item?id=29390483))
+- [Cache warming at Netflix: Leveraging EBS for moving petabytes of data (2021)](https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3) ([HN](https://news.ycombinator.com/item?id=29388588))
+- [System Design Mock Interview: Design TikTok ft. Google TPM (2021)](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
+- [Amazon System Design Interview: Design Parking Garage (2021)](https://www.youtube.com/watch?v=NtMvNh0WFVM)
+- [Event Sourcing Explained (2020)](https://abdullin.com/video/event-sourcing/)
+- [Widget Driven Development (2021)](https://alexei.me/blog/widget-driven-development/) ([HN](https://news.ycombinator.com/item?id=29551123))
+- [Ask HN: What tech stack would you use to build a new web app today? (2021)](https://news.ycombinator.com/item?id=29626371)
+- [Ask HN: Which tech stack is the most fun? (2021)](https://news.ycombinator.com/item?id=29625165)
+- [Prodspec and Annealing (2021)](https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production)
+- [1 Year of Event Sourcing and CQRS (2018)](https://itnext.io/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
+- [SystemDesign.org](https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5_LUeFj65lI/edit) - Textbook for System Design Interviews.
+- [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/) ([Code](https://github.com/onlurking/the-software-architecture-chronicles))
+- [Documenting Software Architecture (2019)](https://herbertograca.com/2019/08/12/documenting-software-architecture/)

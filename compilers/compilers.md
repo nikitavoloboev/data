@@ -11,7 +11,8 @@
 - [Compiler Optimization examples](http://compileroptimizations.com/)
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly. ([HN](https://news.ycombinator.com/item?id=24066570)) ([Code](https://github.com/compiler-explorer/infra))
 - [ShivyC](https://github.com/ShivamSarodia/ShivyC) - C compiler created in Python.
-- [swc](https://github.com/swc-project/swc) - Super-fast TS / JS compiler written in rust. ([Docs](https://swc.rs/))
+- [swc](https://github.com/swc-project/swc) - Super-fast TS / JS compiler written in rust. ([Docs](https://swc.rs/)) ([Docs Code](https://github.com/swc-project/website))
+- [swc playground](https://swc-play.vercel.app/) ([Code](https://github.com/g-plane/swc-playground))
 - [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers) - Swift Playground giving an overview over the inner workings of modern compilers.
 - [ccache](https://github.com/ccache/ccache) - Fast compiler cache.
 - [Starlark in Go](https://github.com/google/starlark-go) - The Starlark configuration language, implemented in Go.
@@ -28,8 +29,7 @@
 - [go2ll](https://github.com/pwaller/go2ll) - Toy go compiler to LLVM.
 - [Where does YOUR compiler come from? - Vincent Ambo (2018)](https://www.youtube.com/watch?v=b3r6GvCBbw4)
 - [libFirm](https://github.com/libfirm/libfirm) - Graph based intermediate representation and backend for optimising compilers.
-- [mimalloc](https://github.com/microsoft/mimalloc) - Compact general purpose allocator with excellent performance.
-- [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries. ([HN](https://news.ycombinator.com/item?id=22654229))
+- [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries. ([HN](https://news.ycombinator.com/item?id=22654229)) ([Reddit](https://www.reddit.com/r/rust/comments/qnacdr/facebooks_bolt_nearing_mainline_llvm_for/))
 - [Propeller](https://github.com/google/llvm-propeller) - Profile Guided Optimizing Large Scale LLVM-based Relinker.
 - [Intel(r) SPMD Program Compiler](https://github.com/ispc/ispc) - Compiler for a variant of the C programming language, with extensions for single program, multiple data programming.
 - [hobbes](https://github.com/Morgan-Stanley/hobbes) - Language and an embedded JIT compiler.
@@ -107,7 +107,7 @@
 - [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time (2020)](https://carolchen.me/blog/jits-intro/) ([HN](https://news.ycombinator.com/item?id=23740655))
 - [How JIT Compilers are Implemented and Fast: Julia, Pypy, LuaJIT, Graal and More (2020)](https://carolchen.me/blog/jits-impls/)
 - [Compilers Resources by Yosh](https://github.com/yoshuawuyts/notes/blob/master/compilers/resources.md)
-- [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
+- [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript. ([In Rust](https://github.com/h-a-n-a/the-super-tiny-rusty-compiler))
 - [Awesome machine learning for compilers and program optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers)
 - [Compiler Fuzzing: How Much Does It Matter? (2019)](https://www.youtube.com/watch?v=5TX5R_aX3ec)
 - [SOIL: Single Open Intermediate Language](http://soil-initiative.org/) ([Lobsters](https://lobste.rs/s/2kdxph/soil_single_open_intermediate_language))
@@ -147,7 +147,7 @@
 - [Teaching Compilers Backward (2021)](https://blog.sigplan.org/2021/02/23/teaching-compilers-backward/) ([HN](https://news.ycombinator.com/item?id=26237368))
 - [Compiler versus Transpiler: what is a compiler, anyway?](https://hisham.hm/2021/02/25/compiler-versus-transpiler-what-is-a-compiler-anyway/)
 - [Inlining and Compiler Optimizations (2021)](https://wolchok.org/posts/inlining-and-compiler-optimizations/)
-- [How to write a JIT compiler](https://github.com/spencertipping/jit-tutorial)
+- [How to write a JIT compiler](https://github.com/spencertipping/jit-tutorial) ([HN](https://news.ycombinator.com/item?id=29566249))
 - [JitFromScratch](https://github.com/weliveindetail/JitFromScratch) - Example project from my talks in the LLVM Social Berlin and C++ User Group.
 - [Interpreter, Compiler, JIT (2015)](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/) ([Code](https://github.com/jserv/jit-construct))
 - [A simple program reducer for any language (2021)](https://comby.dev/blog/2021/03/26/comby-reducer)
@@ -177,3 +177,24 @@
 - [cachepot](https://github.com/paritytech/cachepot) - Shared Compilation Cache. `sccache` with extra sec, which in turn is `ccache` with cloud storage.
 - [A friendly introduction to machine learning compilers and optimizers (2021)](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
 - [SymCC](https://github.com/eurecom-s3/symcc) - Efficient compiler-based symbolic execution. ([Web](http://www.s3.eurecom.fr/tools/symbolic_execution/symcc.html))
+- [ONNX MLIR](https://github.com/onnx/onnx-mlir) - Open-source project for compiling ONNX models into native code on x86, P and Z machines (and more). ([Web](http://onnx.ai/onnx-mlir/))
+- [nncase](https://github.com/kendryte/nncase) - Neural network compiler for AI accelerators.
+- [KGT: Kate's Grammar Tool](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams.
+- [Knossos-KSC](https://github.com/microsoft/knossos-ksc) - Compile a lisp-like IR with automatic differentiation and user-defined rewrites.
+- [pyMLIR](https://github.com/spcl/pymlir) - Python Interface for the Multi-Level Intermediate Representation.
+- [An Incremental Approach to Compiler Construction (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf) ([HN](https://news.ycombinator.com/item?id=29123715))
+- [Learning C to x86 Translation: An Experiment in Neural Compilation (2021)](https://arxiv.org/abs/2108.07639) ([Code](https://github.com/jordiae/neural-compilers))
+- [Essentials of Compilation [book and video lectures] (2020)](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/) ([HN](https://news.ycombinator.com/item?id=29295880))
+- [Staged Abstract Interpreters (2019)](https://www.cs.purdue.edu/homes/rompf/papers/wei-oopsla19.pdf)
+- [target-lexicon](https://github.com/bytecodealliance/target-lexicon) - Library for managing targets for compilers and related tools.
+- [cce](https://github.com/ethanhs/cce) - Compiler Explorer from CLI.
+- [On relational compilation](https://people.csail.mit.edu/cpitcla/thesis/relational-compilation.html) ([Lobsters](https://lobste.rs/s/dj04ud/on_relational_compilation))
+- [Effect-Driven QuickChecking of Compilers](http://janmidtgaard.dk/papers/Midtgaard-al%3aICFP17-full.pdf) ([Code](https://github.com/jmid/efftester))
+- [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler) - Open source compiler framework that automates translation from source code to silicon.
+- [Understanding Fast-Math (2021)](https://pspdfkit.com/blog/2021/understanding-fast-math/) ([HN](https://news.ycombinator.com/item?id=29482350))
+- [Talking with a legend – interview with Anders Hejlsberg (2021)](https://www.youtube.com/watch?v=K3qf8gRFESU)
+- [Everything You Never Wanted To Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
+- [abstraps](https://github.com/femtomc/abstraps) - Extensible compiler middle layer with abstract interpreters.
+- [BNF Converter](https://github.com/BNFC/bnfc) - Compiler construction tool generating a compiler front-end from a Labelled BNF grammar.
+- [Do We Need A Link Step? (2021)](https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html) ([Reddit](https://www.reddit.com/r/Compilers/comments/rjln3u/do_we_really_need_a_link_step/)) ([HN](https://news.ycombinator.com/item?id=29754918))
+- [KAIST CS420: Compiler Design (2022 Spring)](https://github.com/kaist-cp/cs420)

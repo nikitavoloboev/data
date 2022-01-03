@@ -23,3 +23,6 @@
 - [extrakto](https://github.com/laktak/extrakto) - Quickly select, copy/insert/complete text without a mouse.
 - [tmux lets you select and copy text with your keyboard (2021)](https://ianthehenry.com/posts/tmux-psa/)
 - [Gentle Guide to Get Started With tmux (2021)](https://pragmaticpineapple.com/gentle-guide-to-get-started-with-tmux/)
+- [Chaakoo](https://github.com/pallavJha/chaakoo) - Slice and dice your TMUX windows and panes.
+- [Useful Tmux Configuration Examples (2021)](https://dev.to/iggredible/useful-tmux-configuration-examples-k3g)
+- [The Tao of Tmux (2017)](https://leanpub.com/the-tao-of-tmux/read)

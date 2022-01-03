@@ -12,7 +12,7 @@ For super fast access of this wiki, I advise you to try out [Alfred My Mind](htt
 
 If you find some mistake, especially if something that I say is plain wrong, please fork [this repository](https://github.com/nikitavoloboev/knowledge) and make a PR with correct changes. Or [open an issue](https://github.com/nikitavoloboev/knowledge/issues/new) saying what you think is wrong.
 
-Aside from GitBook search above and [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind), you can also use GitHub [file](https://github.com/nikitavoloboev/knowledge/find/master) & [text](https://github.com/nikitavoloboev/knowledge/search?q=karabiner&unscoped_q=karabiner) searches.
+Aside from GitBook search above and [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind), you can also use GitHub [file](https://github.com/nikitavoloboev/knowledge/find/main) & [text](https://github.com/nikitavoloboev/knowledge/search?q=karabiner&unscoped_q=karabiner) searches.
 
 ## Content Structure
 
@@ -24,7 +24,8 @@ The structure of each of the posts will often look roughly like this:
 2. Description - My thoughts on the topic.
 3. Subtopics - Various subtopics related to the main topic.
 4. Notes - My own personal notes on the matter as well as things I found interesting on the internet regarding the topic. I often give a link of where I got things from.
-5. Links - Links related to the topic.
+5. Code - Code snippets.
+6. Links - Links related to the topic.
 
 If you are interested in how I maintain and write this wiki, I wrote about it in detail [here](../other/wiki-workflow.md).
 
@@ -36,4 +37,4 @@ There are many, many things I am yet to add to this little system I am planning 
    1. [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
    2. This knowledge wiki itself and the search it has.
 2. Transcribing knowledge in terms that make sense to me and other people.
-   - I wish to make my knowledge and expertise as _reusable_ by as many other interested people as possible.
+   -  I wish to make my knowledge and expertise as _reusable_ by as many other interested people as possible.

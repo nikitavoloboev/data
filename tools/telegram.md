@@ -1,8 +1,8 @@
 # [Telegram](https://telegram.org)
 
-Telegram is by far the best messenger that exists right now.
+Telegram is the best messenger that exists right now. I use it for personal messaging, following many group chats & channels. I run a [channel of my own too where I post a stream of things I liked & thought about](https://t.me/niki_log).
 
-I created a few public Telegram groups that I often contribute to. [macOS/iOS Automation](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) being the biggest one.
+I also created [macOS/iOS Automation](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) & [Karabiner](https://t.me/joinchat/UDlL5H7VIwAVK0_7) groups.
 
 I mapped my most visited chats with KM macros that call URL schemes like so:
 
@@ -16,14 +16,19 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 ## Bot libraries
 
+- [grammY](https://grammy.dev/) - Telegram Bot Framework in TS. ([Code](https://github.com/grammyjs/grammY)) ([Examples](https://github.com/grammyjs/examples)) ([Parse Mode plugin for grammY](https://github.com/grammyjs/parse-mode)) ([Basic Scene](https://github.com/KnightNiwrem/basic-scene))
+- [grammY runner](https://github.com/grammyjs/runner) - ScalTelegram bot starter based on grammYe grammY bots.
+- [Telegram bot starter based on grammY](https://github.com/Borodutch/telegram-bot-starter)
+- [grammY Fluent](https://github.com/the-moebius/grammy-fluent) - Fluent localization system integration for grammY Telegram bot framework.
+- [botgram](https://github.com/botgram/botgram) - Microframework to build Telegram bots. ([Web](https://botgram.js.org/))
 - [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)
 - [Go bindings to Telegram API](https://github.com/go-telegram-bot-api/telegram-bot-api) ([Docs](https://go-telegram-bot-api.dev/))
-- [Telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node. ([Docs](https://telegraf.js.org/#/)) ([NestJS module](https://github.com/bukhalo/nestjs-telegraf))
+- [Telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node. ([Docs](https://telegraf.js.org/#/)) ([NestJS module](https://github.com/bukhalo/nestjs-telegraf)) ([Telegraf Throttler](https://github.com/KnightNiwrem/telegraf-throttler))
 - [Integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow.
 - [Telebot](https://github.com/tucnak/telebot) - Looks awesome.
 - [Telegrammer](https://github.com/givip/Telegrammer) - Written with Swift 5.0/NIO, supports Linux, macOS.
 - [Telegraphist](https://github.com/xamut/telegraphist) - Telegram Bot API on Go.
-- [Pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python.
+- [Pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python. ([Docs](https://docs.pyrogram.org/))
 - [gramme.rs](https://github.com/Lonami/grammers) - Set of Rust libraries to interact with Telegram's API.
 - [teloxide](https://github.com/teloxide/teloxide) - Elegant Telegram bots framework for Rust.
 - [Rust Telegram Bot Library](https://github.com/telegram-rs/telegram-bot)
@@ -40,9 +45,13 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [telegram-bot-swift](https://github.com/rapierorg/telegram-bot-swift) - Telegram Bot SDK for Swift.
 - [Telegrask](https://github.com/samedamci/telegrask) - Flask-inspired Telegram bot micro framework for Python.
 - [TGBF](https://github.com/Endogen/tgbf) - Telegram Bot Framework.
+- [Kotlin Telegram Bot Library](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) ([Template](https://github.com/demidko/telegram))
+- [Slimbot](https://github.com/edisonchee/slimbot) - Telegram Bot API for Node.js.
 
 ## Bots
 
+- [LyAdminBot](https://t.me/LyAdminBot) - Бот для администрирования групп. ([Code](https://github.com/LyoSU/LyAdminBot))
+- [shell-bot](https://github.com/botgram/shell-bot) - Telegram bot that executes commands and sends the live output.
 - [vzmuinebot](https://github.com/ArtHome12/vzmuinebot) - Telegram bot for food menu navigate.
 - [TgDev](https://tgdev.io/) - Telegram bots development.
 - [Funda new house alerts on Telegram](https://github.com/dstotijn/funda-alert)
@@ -60,6 +69,26 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [github2telegram](https://github.com/Civil/github2telegram) - Bot that can send notification of new releases to Telegram.
 - [Voice to text bot](https://github.com/nabokihms/telegram_unvoicer_bot) - Unpack voicemails into a text.
 - [LoggingTelegram](https://github.com/stevapple/swift-log-telegram) - Send SwiftLog messages to any Telegram chat.
+- [Olgram Bot](https://t.me/olgrambot) - Конструктор ботов обратной связи. Open source альтернатива Livegram бота. Telegram feedback bot constructor. ([Code](https://github.com/civsocit/olgram))
+- [piston_bot](https://github.com/tusharsadhwani/piston_bot) - Telegram bot that will run code for you.
+- [TelegramBotsList](https://github.com/DanySpin97/TelegramBotsList) - List of Telegram bots with open source code in alphabetical order.
+- [MySubredditsBot](https://github.com/Recursing/MySubredditsBot) - Telegram bot to track posts in subreddits.
+- [telegram-bot-dumper](https://github.com/soxoj/telegram-bot-dumper) - Easy dumping of all Telegram bot stuff.
+- [Cloud Convert Bot](https://t.me/cloud_convert_bot) - Telegram bot to do file conversions. ([Code](https://github.com/KnorpelSenf/cloudconvert-bot))
+- [Video Downloader](https://github.com/Borodutch/VideoDownloadBot) - Telegram bot to download videos from URLs.
+- [ArbeitBot](https://github.com/ArbeitBot/ArbeitBot) - Free open-source Telegram freelance market.
+- [Shieldy](https://t.me/shieldy_bot) - Best solution in Telegram to fight annoying spammers. ([Code](https://github.com/1inch/shieldy))
+- [Telegram Advent Calendar](https://github.com/KrauseFx/telegram-advent-calendar)
+- [WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot) - Telegram Group Manager Bot Written In Python Using Pyrogram.
+- [Hitokoto](https://github.com/my-telegram-bots/hitokoto_bot) - Telegram bot hosted in cloudflare workers.
+- [Ultroid](https://github.com/TeamUltroid/Ultroid) - Stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.
+- [LazyBot](https://github.com/XDBots/LazyBot) - Telegram Userbot based on GramJS.
+- [TGVCBot](https://github.com/ArnabXD/TGVCBot) - Telegram VC Music Bot.
+- [snazzybot](https://github.com/xencodes/snazzybot) - Get results across web right on Telegram.
+
+## Notes
+
+- [Telegram messages are server side encrypted and those encryption keys are never stored in the same data center but spread across several.](https://www.reddit.com/r/Telegram/comments/q3lv6f/with_the_recent_epik_and_twitch_leaks_whats_going/)
 
 ## Links
 
@@ -68,7 +97,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Master Bot List](https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY/edit#gid=2104461983)
 - [Teleprompter](https://github.com/r-darwish/Teleprompter) - Ask for user prompt using Telegram.
 - [Telegram iOS](https://github.com/peter-iakovlev/Telegram-iOS)
-- [mtg](https://github.com/9seconds/mtg) - Bullshit-free MTPROTO proxy for Telegram.
+- [mtg](https://github.com/9seconds/mtg) - Highly opinionated MTPROTO proxy for Telegram.
 - [Minute Hack: Get SSH login notification on Telegram](https://8192.one/post/ssh_login_notification_withtelegram/)
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Complete source code and the build instructions for the alpha version of the official desktop client for the Telegram messenger.
 - [Informer](https://github.com/paulpierre/informer) - Telegram Mass Surveillance Bot in Python. ([HN](https://news.ycombinator.com/item?id=21750353))
@@ -87,6 +116,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Convert telegram channel to an email newsletter](https://articlius.com/home/SubscribeToTelegramChannelNewsletter)
 - [Telegram for GitHub Actions](https://github.com/appleboy/telegram-action) - GitHub Action that sends a Telegram message.
 - [TDLib (Telegram Database library)](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients. It can be easily used from almost any programming language. ([Web](https://core.telegram.org/tdlib))
+- [python-telegram](https://github.com/alexander-akhmetov/python-telengram) - Python API for the tdlib library. It helps you build your own Telegram clients.
 - [Such Chat](https://such.chat/) - Customer support via Telegram made easy.
 - [Building a Telegram Bot with Azure Functions and Node.js (2020)](https://akhromieiev.com/tutorials/telegram-bot-azure-functions-and-node-js/)
 - [TL (Type Language)](https://github.com/ernado/tl) - Parser for telegram's mtproto.
@@ -115,3 +145,21 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Tips](https://t.me/TelegramTips/)
 - [Telegram Bot List](https://botlist.infotelbot.com/) - Search Telegram Bots.
 - [Telegram Bots Rating (top 500)](https://tgbots.io/)
+- [Why Telegram had to follow Apple and Google when they suspended a voting app (2021)](https://telegra.ph/Why-Telegram-had-to-follow-Apple-and-Google-when-they-suspended-a-voting-app-09-25) ([HN](https://news.ycombinator.com/item?id=28655937)) ([Tweet](https://twitter.com/jstoruser/status/1441874975346941961))
+- [Пресс-конференция Павла Дурова (2021)](https://telegra.ph/Press-konferenciya-Pavla-Durova-09-30)
+- [Telegram Channels](https://telegramchannels.me/) - 18000+ Telegram Channels, Groups, Bots and Stickers List.
+- [Telegram Developer Challenges](https://contest.com/)
+- [TGNews](https://github.com/IlyaGusev/tgcontest) - Telegram Data Clustering contest solution by Mindful Squirrel.
+- [Telegram Ad Platform](https://promote.telegram.org/) ([HN](https://news.ycombinator.com/item?id=29146147))
+- [Pushshift Telegram Ingest API](https://github.com/pushshift/telegram) - Ingests data from numerous Telegram channels / groups and stores that data in Postgres and Elasticsearch.
+- [Telegram bot that has the ability to /eval code](https://vimsical.notion.site/REPL-Chat-35c36c3da44c4d8c9b42c211cb0c67ef)
+- [TypeScript types for the entire Telegram Bot API](https://github.com/KnorpelSenf/typegram)
+- [Is Bot Down](https://isbotdown.com/) - Check if your favorite bot is down or not. ([Code](https://github.com/backmeupplz/IsBotDownBot))
+- [GramJS](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library.
+- [SSG](https://ssg.rojser.best/) - Generate GramJS/Telethon string sessions in your browser. ([Code](https://github.com/rojserbest/ssg))
+- [Telegram Protected Content, Delete by Date, Device Management and more (2021)](https://telegram.org/blog/protected-content-delete-by-date-and-more) ([HN](https://news.ycombinator.com/item?id=29482918))
+- [TeleIRC](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
+- [Botmate](https://www.botmate.app/) - Self-hosted open source Telegram bot platform. ([Code](https://github.com/botmate/botmate))
+- [How Telegram Messenger circumvents Google Translate's API (2021)](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html) ([HN](https://news.ycombinator.com/item?id=29746674))
+- [mtproto/core](https://github.com/alik0211/mtproto-core) - Telegram API JS (MTProto) client library for Node.js and browser.
+- [Telegram Web App](https://github.com/evgeny-nadymov/telegram-react) - Based on the ReactJS JavaScript framework and TDLib (Telegram Database library) compiled to WebAssembly.

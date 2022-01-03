@@ -1,6 +1,6 @@
 # [Cardano](https://cardano.org/)
 
-Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status/1433653091493195794). Research done by [IOHK](https://iohk.io/en/research/) is interesting though.
+Cardano appears to be a [project that didn't meet its goals](https://twitter.com/froggyfrogster/status/1433653091493195794) (especially when compared to [alternatives](../../cryptocurrencies/cryptocurrencies.md)). Research done by [IOHK](https://iohk.io/en/research/) is interesting though.
 
 ## Notes
 
@@ -8,6 +8,7 @@ Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status
 
 ## Links
 
+- [Cardano Improvement Proposals (CIPs)](https://github.com/cardano-foundation/CIPs)
 - [Charles Hoskinson | A Year in Review for Cardano in 2018](https://www.youtube.com/watch?v=EJQKSTcL5pI)
 - [Cardano Progress Update (Jan 2019)](https://www.youtube.com/watch?v=TWVwfedO54Y)
 - [IOHK PlutusFest Keynote Address | CEO Charles Hoskinson](https://www.youtube.com/watch?v=MbTlrzvz6Bc)
@@ -50,3 +51,8 @@ Cardano appears to be a [scam project](https://twitter.com/froggyfrogster/status
 - [Cardano Wallet](https://github.com/input-output-hk/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
 - [Cardano validators explained (2021)](https://twitter.com/_KtorZ_/status/1439168735810555906)
 - [Introduction to the Cardano blockchain ledger and smart contracts](https://apfelmus.nfshost.com/articles/cardano-ledger-intro.html)
+- [Awesome Plutus](https://github.com/mlabs-haskell/awesome-plutus)
+- [Cardano Serialization Lib](https://github.com/Emurgo/cardano-serialization-lib) - Library for serialization & deserialization of data structures used in Cardano's Haskell implementation of Shelley along with useful utility functions.
+- [cardano-base](https://github.com/input-output-hk/cardano-base) - Code used throughout the Cardano eco-system.
+- [Oura](https://github.com/txpipe/oura) - Tail of Cardano.
+- [Pallas](https://github.com/txpipe/pallas) - Rust-native building blocks for the Cardano blockchain ecosystem.

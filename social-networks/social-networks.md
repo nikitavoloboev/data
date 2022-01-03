@@ -1,17 +1,5 @@
 # Social networks
 
-I love how the internet allows the entire Earth to connect, communicate and work together no matter where you are.
-
-However I am not too fond of centralized corporations abusing their powers and providing these services at the cost of complete disregard for user's privacy and interests.
-
-Building profiles on people. Storing logs of every message you write to whomever you write. Your location, your contacts details, your likes and opinions. Storing everything in a data center forever and ever, in case such information will need to be used.
-
-It's awful, having everything you do, monitored and analyzed. Checking whether what you say or think is deemed _right_ by these authorities. Suppressing thoughts and feelings to what you should feel or think about is horrible and is in no way the world I want to live in.
-
-Fortunately, [there are alternatives](https://vimeo.com/236358264) to this little mess we got ourselves into.
-
-Social networks are a wonderful thing as they do allow us to achieve more wonderful things faster and better by connecting everyone together. It's just that connecting everyone under one roof whose house's rules are chosen by few people is not the best way to do it.
-
 ## Notes
 
 - [Facebook has recruited one of the world’s top AI teams, led by Yann LeCun. Their work and Google's are the equivalent of tobacco companies engineering cigarettes to ensure that nicotine hits a smoker's brain more quickly. Facebook and other social networks are the cigarette companies of the mind. Cigarettes blackened our lungs with tar, and social media blacken our brains with distraction, alienation, envy, and loneliness.](https://news.ycombinator.com/item?id=15421704)
@@ -24,6 +12,11 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [I gained a following in part because developers with larger followings would share my work. If you have a large following I highly encourage you to share the work of other creators! It costs nothing to share a blog or video but can make a huge difference to that creator!](https://twitter.com/EmmaBostian/status/1379813903417364485)
 - [Moderating a community is not censorship.](https://twitter.com/TartanLlama/status/1381145203113930753)
 - [Facebook knew its algorithm incentivized outrage. Instagram knew it hurt teen girls. Facebook has been shielding VIPs from moderation.](https://twitter.com/JoshConstine/status/1438604572419756034)
+- [The thing people don't see is that the problem isn't centralization, it's social media. Your decentralized social media will still be social media.](https://twitter.com/pvh/status/1445156784885297157)
+- [I wonder how much any Facebook story now changes anyone's minds. There’s a group of people now quite convinced that Facebook is evil, who see any new story as proof, and the rest of us, who think it's all just a noisy mess. But what would change look like?](https://twitter.com/benedictevans/status/1445445611415736334)
+- [FB (and social media generally) is amplifying the flaws in the human condition.](https://twitter.com/fugueish/status/1445584410376503299)
+- [The main benefit of taking a break from social media is that you stop living in a fictional world and finally start dealing with your own reality.](https://news.ycombinator.com/item?id=29149961)
+- [Instead of asking “how will you make money?” Or with NFTs “how much money are you making right now buying and selling into the hype?”, please ask “how does this lead to deep habitual usage?”](https://twitter.com/joshelman/status/1458466576449953799)
 
 ## Links
 
@@ -57,7 +50,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Instagram Morphs into an Information Powerhouse (2020)](https://www.axios.com/instagram-information-coronavirus-george-floyd-706d1ad3-9d6d-48d4-b085-3469a0d93b56.html) ([HN](https://news.ycombinator.com/item?id=24019977))
 - [Proof of X (2020)](https://julian.digital/2020/08/06/proof-of-x/)
 - [TikTok and the Sorting Hat (2020)](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat) ([HN](https://news.ycombinator.com/item?id=24049676))
-- [How to run a small social network site for your friends](https://runyourown.social/) ([Lobsters](https://lobste.rs/s/rnsi0u/how_run_small_social_network_site_for_your)) ([HN](https://news.ycombinator.com/item?id=20384970)) ([Tweet](https://twitter.com/everestpipkin/status/1409957780744724480))
+- [How to run a small social network site for your friends](https://runyourown.social/) ([Lobsters](https://lobste.rs/s/rnsi0u/how_run_small_social_network_site_for_your)) ([HN](https://news.ycombinator.com/item?id=20384970)) ([Tweet](https://twitter.com/everestpipkin/status/1409957780744724480)) ([HN](https://news.ycombinator.com/item?id=29470565))
 - [A Blueprint for Content Governance and Enforcement (2018)](https://www.facebook.com/notes/mark-zuckerberg/a-blueprint-for-content-governance-and-enforcement/10156443129621634/)
 - [All the world's a stage. On alt accounts and communicative friction. (2020)](https://jasmine.substack.com/p/-all-the-worlds-a-stage)
 - [Wisdom Shelf](https://patriciamou.com/wisdom-shelf-waitlist) - Social network focused on personal development.
@@ -114,7 +107,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Genies](https://genies.com/) - Custom 3D Avatars For Consumers and Celebrities.
 - [Tiktok, Emergent Creativity, The Limits of Social Graphs (2021)](https://www.youtube.com/watch?v=xbnDay35L8I)
 - [Inside the Bubble at Facebook](https://www.nemil.com/tdf/part1-employees.html)
-- [The Cold Start Problem Book (2021)](https://www.coldstart.com/) - How to start and scale network effects. ([Tweet](https://twitter.com/andrewchen/status/1373782512816812034))
+- [The Cold Start Problem Book (2021)](https://www.coldstart.com/) - How to start and scale network effects. ([Tweet](https://twitter.com/andrewchen/status/1373782512816812034)) ([Notes](https://twitter.com/gabor/status/1476299179861295107))
 - [The Great Online Game (2021)](https://www.notboring.co/p/the-great-online-game) ([Tweet](https://twitter.com/blakeir/status/1397278844986482691))
 - [Redact](https://redact.dev/) - Mass Delete your Social Media. ([HN](https://news.ycombinator.com/item?id=27303347))
 - [How to build communities to build better products?](https://twitter.com/petergyang/status/1408800481049149447)
@@ -128,3 +121,26 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [How social learning amplifies moral outrage expression in online social networks (2021)](https://www.science.org/doi/10.1126/sciadv.abe5641) ([Tweet](https://twitter.com/hplushlab/status/1435181379218722818))
 - [Facebook knows Instagram is toxic for teen girls, company documents show (2021)](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739) ([HN](https://news.ycombinator.com/item?id=28523688))
 - [Reasons To Quit Social Media (2021)](https://durmonski.com/life-advice/reasons-to-quit-social-media/) ([HN](https://news.ycombinator.com/item?id=28616277))
+- [Decentralized Social Networking Protocol (DSNP)](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)
+- [Facebook is other people](https://kevinmunger.substack.com/p/facebook-is-other-people) ([HN](https://news.ycombinator.com/item?id=28649044))
+- [What our research says about teen well-being and Instagram (2021)](https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/) ([HN](https://news.ycombinator.com/item?id=28665503))
+- [You either die an MVP or live long enough to build content moderation (2021)](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation/) ([HN](https://news.ycombinator.com/item?id=28684250))
+- [Facebook Thrives on Criticism of “Disinformation” (2021)](https://doctorow.medium.com/facebook-thrives-on-criticism-of-disinformation-64b141d7b6c8) ([HN](https://news.ycombinator.com/item?id=28713347))
+- [Facebook's Latest Scandals: The Banality Of Hubris; The Messiness Of Humanity (2021)](https://www.techdirt.com/articles/20210929/17352047662/facebooks-latest-scandals-banality-hubris-messiness-humanity.shtml) ([Tweet](https://twitter.com/mmasnick/status/1443613056378937359))
+- [Facebook whistleblower says she wants to fix company, not harm it (2021)](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122) ([HN](https://news.ycombinator.com/item?id=28741532)) ([Opening statement](https://twitter.com/cspan/status/1445402571435384833))
+- [Facebook Whistleblower Leaks Thousands of Pages of Incriminating Internal Docs (2021)](https://www.npr.org/2021/10/04/1042921981/facebook-whistleblower-renewing-scrutiny-of-social-media-giant?t=1633465918853) ([HN](https://news.ycombinator.com/item?id=28761294)) ([HN](https://news.ycombinator.com/item?id=28764360)) ([Tweet](https://twitter.com/micsolana/status/1445397169419296778))
+- [Statement from Mark Zuckerberg (2021)](https://www.facebook.com/4/posts/10113961365418581/?d=n) ([HN](https://news.ycombinator.com/item?id=28767700)) ([Tweet](https://twitter.com/Snowden/status/1445604626984620039))
+- [Bombshell (2021)](https://www.piratewires.com/p/bombshell) - Instagram's suicide farm, media distortion, and navigating three weeks of Facebook hysteria. ([Tweet](https://twitter.com/micsolana/status/1445137372471988235))
+- [Pinterest](https://pinterest.com/) - Image sharing service. ([GitHub](https://github.com/pinterest))
+- [Fast Facebook Activity Deletion](https://github.com/marcelja/facebook-delete) - Clean up a Facebook account without deleting the entire account.
+- [And you will know us by the company we keep (2021)](https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep) ([HN](https://news.ycombinator.com/item?id=28829843))
+- [Unique on Facebook: Formulation and Evidence of (Nano)targeting Individual Users with non-PII Data (2021)](https://arxiv.org/abs/2110.06636) ([Tweet](https://twitter.com/ekr____/status/1448785267872071680))
+- [Facebook Papers: ‘History Will Not Judge Us Kindly’ (2021)](https://www.theatlantic.com/ideas/archive/2021/10/facebook-papers-democracy-election-zuckerberg/620478/)
+- [In many parts of the world, Facebook IS the internet (2021)](https://twitter.com/telliotter/status/1452660453641969665)
+- [Feedless](https://feedless.social/) - Non-addictive social network. ([Code](https://github.com/rogeriochaves/feedless))
+- [How Instagram and Twitter buried the hatchet (2021)](https://www.platformer.news/p/how-instagram-and-twitter-buried)
+- [A Beginner's Guide to Social Media Verification (2021)](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)
+- [The benefits of staying off social media (2021)](https://durmonski.com/life-advice/benefits-of-staying-off-social-media/) ([HN](https://news.ycombinator.com/item?id=29149961))
+- [Racket](https://racket.com/) - Audio twitter. ([Twitter](https://twitter.com/racket100)) ([Tweet](https://twitter.com/racket100/status/1460689432282025985))
+- [Junto](https://junto.foundation/) - Evolution of social media begins with redesigning the fundamentals. ([GitHub](https://github.com/juntofoundation))
+- [Dito](https://www.dito.so/) - Design your post once then apply the same design for Instagram, Facebook, Twitter, LinkedIn and Pinterest in one click.

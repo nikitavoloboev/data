@@ -4,6 +4,8 @@
 
 - [One of the most striking things you learn from having kids is how much you took your parents for granted.](https://twitter.com/paulg/status/1400058832596967425)
 - [Бить по попе и любые другие виды насилия над детьми - не ОК.](https://twitter.com/solar_circle/status/1410277488887013382)
+- [Parenting practices seem to have little or no impact on children's personalities, contrary to some of the best-known theories in psychology.](https://twitter.com/SteveStuWill/status/1461639134297079809)
+- [It's nice to sometimes print physical books of stories your child tells you.](https://twitter.com/paulg/status/1467461297210105857)
 
 ## Links
 
@@ -48,3 +50,17 @@
 - [Ask HN: Do you regret having children?](https://news.ycombinator.com/item?id=27795186)
 - [Having Kids (2019)](http://www.paulgraham.com/kids.html)
 - [Best reasons for or against having kids](https://twitter.com/csallen/status/1422927732267130886)
+- [Ugly Truths about social media and kids (2021)](https://twitter.com/alexstamos/status/1442527773042438147)
+- [Ask HN: How to teach young kids about money? (2021)](https://news.ycombinator.com/item?id=28774683)
+- [Please Don't Give Up on Having Kids Because of Climate Change (2021)](https://astralcodexten.substack.com/p/please-dont-give-up-on-having-kids) ([HN](https://news.ycombinator.com/item?id=28827377)) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/q5udvg/please_dont_give_up_on_having_kids_because_of/))
+- [Как общаться с молодыми родителями, если у вас нет детей](https://kinzhal.media/pokakali/)
+- [The main thing with kids is to keep them alive (2021)](https://freddiedeboer.substack.com/p/short-week-the-main-thing-with-kids) ([HN](https://news.ycombinator.com/item?id=29001414))
+- [What was a book you read after having kids that meant a LOT to you (2021)](https://twitter.com/DanielleMorrill/status/1456017558419746822)
+- [The Present Parent Handbook: 26 Simple Tools to Discover that This Moment, This Action, This Thought, This Feeling Is Exactly Why I Am Here](https://www.goodreads.com/book/show/34065333-the-present-parent-handbook)
+- [Simple, private tool to help pick a baby name](https://nomdebebe.app/) ([HN](https://news.ycombinator.com/item?id=29118785))
+- [Secrets Of The Great Families (2021)](https://astralcodexten.substack.com/p/secrets-of-the-great-families) ([HN](https://news.ycombinator.com/item?id=29167208))
+- [Introducing Kiddos to a Big World of Awesomeness](https://github.com/obensource/little-kiddo-learning)
+- [Ребёнок сидит в телефоне и не хочет больше ничего — что делать? (2021)](https://www.youtube.com/watch?v=eUbdyWVpHJc)
+- [How do new parents not die of sleep deprivation?](https://www.reddit.com/r/NoStupidQuestions/comments/qy6w0l/how_do_new_parents_not_die_of_sleep_deprivation/)
+- [Ask HN: Are there any good “coding for kids” books? (2021)](https://news.ycombinator.com/item?id=29609345)
+- [Notes on Acosta & Hutchison – The Happiest Kids in the World (2021)](http://www.federicopereiro.com/notes-acosta-hutchison-happiest-kids/)

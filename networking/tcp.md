@@ -7,7 +7,7 @@
 - [Warp speed Data Transfer (WDT)](https://github.com/facebook/wdt) - Embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
 - [netscanner](https://github.com/R4yGM/netscanner) - TCP/UDP scanner to find open or closed ports.
 - [TCP/IP Illustrated books](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
-- [MASSCAN](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+- [Masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. ([HN](https://news.ycombinator.com/item?id=28682986))
 - [What I learned attempting the TCP Reset attack (2020)](http://squidarth.com/article/networking/2020/05/03/tcp-resets.html)
 - [What every developer should know about TCP (2020)](https://robertovitillo.com/what-every-developer-should-know-about-tcp/) ([HN](https://news.ycombinator.com/item?id=23177607))
 - [Building with async/await in Rust (2019)](https://ragona.com/posts/clobber_async_await)
@@ -46,3 +46,18 @@
 - [tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary).
 - [rshijack](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, rust rewrite of shijack.
 - [zazkia](https://github.com/emicklei/zazkia) - TCP proxy to simulate connection problems.
+- [My Fractal Of Pain From Trying To Do TCP Sockets The First Time (2021)](https://rtpg.co/2021/09/29/fractal-of-pain.html)
+- [udig](https://github.com/mkmik/udig) - Public-key addressed TCP tunnel broker.
+- [libuinet](https://github.com/pkelsey/libuinet) - Library version of FreeBSD's TCP/IP stack plus extras.
+- [go-finger](https://github.com/mitchellh/go-finger) - Finger protocol library. Finger protocol is an extremely simple TCP protocol.
+- [lwIP](https://github.com/lwip-tcpip/lwip) - Small independent implementation of the TCP/IP protocol suite.
+- [cproxy](https://github.com/NOBLES5E/cproxy) - Redirect TCP and UDP traffic made by a program to a proxy, without requiring the program supporting a proxy.
+- [TCP (Transmission Control Protocol) in OCaml](https://github.com/roburio/tcp)
+- [Van Jacobson’s Congestion Avoidance and Control](http://protocols.netlab.uky.edu/~calvert/classes/571/lectureslides/congestion.pdf)
+- [No PortScan](https://git.encryp.ch/g00g1/no-portscan) - Watching for TCP port scanning behavior on your networks.
+- [Announcing Argo for Spectrum (2021)](https://blog.cloudflare.com/argo-spectrum/) - Way to turbo-charge any TCP based application.
+- [http-tunnel](https://github.com/xnuter/http-tunnel) - HTTP(S) Tunnel and TCP Proxy in Rust.
+- [The Sad Story of TCP Fast Open (2019)](https://squeeze.isobar.com/2019/04/11/the-sad-story-of-tcp-fast-open/)
+- [tun2socks](https://github.com/xjasonlyu/tun2socks) - Powered by gVisor TCP/IP stack.
+- [Rabbit TCP](https://github.com/ihciah/rabbit-tcp) - Multi-connection TCP forwarder created for accelerating TCP connections.
+- [gev](https://github.com/Allenxuxu/gev) - Lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode.

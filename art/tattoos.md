@@ -11,6 +11,7 @@
 - [Daria Shishkina](https://www.instagram.com/shishkina_art/)
 - [Mio](https://www.instagram.com/cochlea1313/)
 - [Angelina (@mimilinism)](https://www.instagram.com/mimilinism/)
+- [Sasha Hain](https://www.instagram.com/ianhain/)
 
 ## Interesting artists
 

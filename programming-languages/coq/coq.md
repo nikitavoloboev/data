@@ -64,7 +64,7 @@
 - [Coq Library of Undecidability Proofs](https://github.com/uds-psl/coq-library-undecidability)
 - [Perennial](https://github.com/mit-pdos/perennial) - Verifying concurrent crash-safe systems.
 - [Coq Platform](https://github.com/coq/platform) - Multi platform setup for Coq, Coq libraries and tools.
-- [The Principia Rewrite](https://www.principiarewrite.com/) ([Code](https://github.com/LogicalAtomist/principia))
+- [Whitehead and Russell’s Principia rewritten in Coq](https://www.principiarewrite.com/) ([Code](https://github.com/LogicalAtomist/principia)) ([HN](https://news.ycombinator.com/item?id=29455527))
 - [Algebra Tactics](https://github.com/math-comp/algebra-tactics) - Experimental reflexive tactics for ring and field expressions.
 - [Coq encoding of ZFC and formalization of the textbook Elements of Set Theory](https://github.com/choukh/Set-Theory)
 - [Free Theorems from Separation Logic Specifications](https://github.com/logsem/free-theorems-sl)
@@ -74,3 +74,41 @@
 - [Eliminating Reflection from Type Theory](https://github.com/TheoWinterhalter/ett-to-wtt) - Coq formalisation of a translation from (an) extensional type theory to (a) weak type theory.
 - [Mechanized semantics: the Coq development](https://github.com/xavierleroy/cdf-mech-sem)
 - [PyCoq](https://github.com/ejgallego/pycoq) - Access Coq from Python.
+- [Mechanization of a noninterference proof via a type system for a simple imperative language with a small-step semantics in Coq](https://github.com/aslanix/SmallStepNI)
+- [Coq library formalizes dependent type theory in the style of Per Martin-Löf](https://github.com/TheoWinterhalter/formal-type-theory)
+- [Hanoi tower in Coq](https://github.com/thery/hanoi)
+- [W-in-Coq](https://github.com/rafaelcgs10/W-in-Coq) - Coq formalization of Damas-Milner type system and its algorithm W.
+- [coq-bonsai](https://github.com/foobar-land/coq-bonsai) - Generate a fresh bonsai in your terminal. Written in Coq.
+- [Coq-Combi](https://github.com/math-comp/Coq-Combi) - Algebraic Combinatorics in Coq.
+- [Toy Hoare Logic Formalization for IMP](https://github.com/codyroux/hoare-toy)
+- [Reasoning about the garden of forking paths (2021)](https://arxiv.org/abs/2103.07543) ([Coq Code](https://github.com/lastland/ClairvoyanceMonad))
+- [Formalization of the basic actuarial mathematics using Coq](https://github.com/Yosuke-Ito-345/Actuary)
+- [Sniper](https://github.com/smtcoq/sniper) - Coq plugin that provides a new Coq tactic, snipe, that provides general proof automation.
+- [SMTCoq](https://github.com/smtcoq/smtcoq) - Communication between Coq and SAT/SMT solvers.
+- [TLC](https://github.com/charguer/tlc) - Library for Classical Coq.
+- [Formalization of some elementary mathematical theories in Coq](https://github.com/ivashkev/math-formalizations)
+- [Stable sort algorithms in Coq](https://github.com/pi8027/stablesort)
+- [CertiCoq](https://github.com/CertiCoq/certicoq) - Compiler for Gallina, the specification language of the Coq proof assistant.
+- [Tealeaves](https://github.com/dunnl/tealeaves) - Coq library for proving theorems about syntax abstractly.
+- [Connectivity Graphs Coq Development](https://github.com/julesjacobs/cgraphs)
+- [Hemiola](https://github.com/mit-plv/hemiola) - Coq framework to support structural design and proof of hardware cache-coherence protocols.
+- [Mczify](https://github.com/math-comp/mczify) - Micromega tactics for Mathematical Components.
+- [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder) - High level commands to declare a hierarchy based on packed classes.
+- [Coq Package Index](https://coq.inria.fr/opam/www/) - Archive for all Coq related OPAM packages organized in various repositories. ([Code](https://github.com/coq/opam-coq-archive))
+- [Formalizing Dawn in Coq (2021)](https://danilafe.com/blog/coq_dawn/)
+- [Semantics](https://github.com/coq-community/semantics) - Survey of semantics styles in Coq.
+- [vstyle](https://github.com/appliedfm/vstyle) - Style guide for Coq. ([Docs](https://vstyle.readthedocs.io/en/latest/))
+- [AAC Tactics](https://github.com/coq-community/aac-tactics) - Coq plugin providing tactics for rewriting universally quantified equations, modulo associative (and possibly commutative) operators.
+- [Vermillion](https://github.com/slasser/vermillion) - LL(1) parser generator verified in Coq.
+- [Coq Domains](https://github.com/jonsterling/coq-domains)
+- [Proof in Coq of the Gödel-Rosser 1st incompleteness theorem](https://github.com/coq-community/goedel)
+- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - Coq plugin embedding Elpi.
+- [Cheat Sheet for Coq](http://yazko.github.io/Coq_Cheat_Sheet/Coq_notes.html) ([Code](https://github.com/YaZko/Coq_Cheat_Sheet))
+- [Apery](https://github.com/math-comp/apery) - Formal proof of the irrationality of zeta(3), the Apéry constant.
+- [Ordinal Numbers in Coq](https://github.com/minkiminki/Ordinal)
+- [Coq development of A Promising Semantics for Relaxed-Memory Concurrency](https://github.com/snu-sf/promising-coq)
+- [Coq Developments for Linear Types](https://github.com/Zdancewic/linearity)
+- [coq-ext-lib](https://github.com/Zdancewic/coq-ext-lib) - Collection of theories and plugins that may be useful in other Coq developments.
+- [Math Classes](https://github.com/coq-community/math-classes) - Library of abstract interfaces for mathematical structures in Coq.
+- [C-CoRN](https://github.com/coq-community/corn) - Coq Repository at Nijmegen.
+- [ch2o](https://github.com/robbertkrebbers/ch2o) - Aims at formalizing novel features of the ISO C11 standard of the C programming language.

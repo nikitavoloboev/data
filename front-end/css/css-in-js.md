@@ -18,7 +18,7 @@
 - [Every Layout](https://github.com/danscan/react-every-layout) - React + styled-components implementations of the layouts from every-layout.dev
 - [Glaze](https://github.com/kripod/glaze) - CSS-in-JS framework for building approachable design systems.
 - [Nyan CSS](https://github.com/nyancss/nyancss) - Write plain CSS while reaping benefits of CSS-in-JS.
-- [@stitches](https://github.com/christianalfoni/stitches) - Tiny configurable CSS-IN-JS library.
+- [Stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. ([Web](https://stitches.dev/)) ([Twitter](https://twitter.com/stitchesjs)) ([Tweet](https://twitter.com/chriscoyier/status/1448667998500409348))
 - [Performance comparison of css approaches](https://github.com/jantimon/css-framework-performance)
 - [Introducing stitches - atomic CSS-IN-JS inspired by Tailwind CSS (2020)](https://www.youtube.com/watch?v=uCiWfQMUUEw)
 - [mystical](https://github.com/dburles/mystical) - Small CSS-in-JS library for atomised constraint based design.
@@ -35,7 +35,7 @@
 - [The styled-components happy path (2021)](https://www.joshwcomeau.com/css/styled-components/)
 - [CSS-in-TS research analysis](https://github.com/andreipfeiffer/css-in-js)
 - [theme-in-css](https://github.com/pveyes/theme-in-css) - Type-safe CSS custom properties (CSS variables) for theming purpose.
-- [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript. ([Talk](https://www.youtube.com/watch?v=23VqED_kO2Q))
+- [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript. ([Talk](https://www.youtube.com/watch?v=23VqED_kO2Q)) ([Theming a React Application with Vanilla Extract](https://formidable.com/blog/2021/vanilla-extract/))
 - [Stitches Zigzag](https://github.com/garand/stitches-zigzag) - Tailwind inspired tools to build fast with Stitches.
 - [Stylin](https://github.com/sultan99/stylin) - Build-time CSS library that offers an elegant way to style React components.
 - [Sprinkles](https://github.com/seek-oss/vanilla-extract/tree/master/packages/sprinkles) - Zero-runtime atomic CSS framework for vanilla-extract.
@@ -44,3 +44,4 @@
 - [Tagged Template Literals - The Magic Behind Styled Components (2021)](https://dev.to/dekel/tagged-template-literals-the-magic-behind-styled-components-2f2c)
 - [taddy](https://github.com/lttb/taddy) - Compile-time Atomic CSS-in-JS.
 - [CSS Modules-in-CSS Module Scripts (2021)](https://daverupert.com/2021/08/css-modules-in-css-modules/)
+- [UnoCSS](https://github.com/antfu/unocss) - Instant on-demand atomic CSS engine. ([Web](https://unocss.antfu.me/)) ([Reimagine Atomic CSS](https://antfu.me/posts/reimagine-atomic-css)) ([unocss-preset-typography](https://github.com/ydcjeff/unocss-preset-typography))

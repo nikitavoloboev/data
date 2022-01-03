@@ -2,6 +2,7 @@
 
 ## ML
 
+- [JarvisLabs.ai](https://cloud.jarvislabs.ai/) - One of the best pricing for renting compute. ([Tweet](https://twitter.com/bhutanisanyam1/status/1448971253654556674))
 - [Paperspace](https://www.paperspace.com/) - Effortless infrastructure for Machine Learning and Data Science.
 - [Google Cloud](https://cloud.google.com/) - Has generous [free tier](https://cloud.google.com/free/).
 - [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - Build, train, and deploy machine learning models at scale.
@@ -16,12 +17,13 @@
 - [Digital Ocean](https://www.digitalocean.com/) - Cloud infrastructure provider.
 - [Vultr](https://www.vultr.com/) - SSD VPS Servers, Cloud Servers and Cloud Hosting. ([Vultr CLI](https://github.com/vultr/vultr-cli)) ([GitHub](https://github.com/vultr))
 - [OVHcloud](https://www.ovh.com/world/) - Web hosting, cloud computing and dedicated servers.
-- [Hetzner](https://www.hetzner.com/) - Dedicated Root Server, VPS & Hosting. ([Moving To Hetzner Cloud from DigitalOcean](https://figbert.com/posts/moving-to-hetzner-from-digitalocean/)) ([Lobsters](https://lobste.rs/s/anzwio/moving_hetzner_cloud_from_digitalocean))
+- [Hetzner](https://www.hetzner.com/) - Dedicated Root Server, VPS & Hosting. ([Moving To Hetzner Cloud from DigitalOcean](https://figbert.com/posts/moving-to-hetzner-from-digitalocean/)) ([Lobsters](https://lobste.rs/s/anzwio/moving_hetzner_cloud_from_digitalocean)) ([CLI](https://github.com/hetznercloud/cli)) ([Terraform](https://github.com/hetznercloud/terraform-provider-hcloud)) ([GitHub](https://github.com/hetznercloud)) ([Awesome](https://github.com/hetznercloud/awesome-hcloud))
 - [Prgmr](https://prgmr.com/xen/) - Linux & BSD virtual private servers.
 - [Scaleway](https://www.scaleway.com/en/) - Cloud instances delivered in seconds with backup, network and security options. ([Scaleway cheaper than AWS for VMs](https://twitter.com/jpetazzo/status/1294561330805059585))
 - [Feral Hosting](https://www.feralhosting.com/pricing)
 - [Contabo](https://contabo.com/en/) - Quality VPS & Dedicated Servers At Incredible Prices.
-- [Equinix Metal](https://metal.equinix.com/) - Bare Metal Server Provider - Global, Automated, Interconnected.
+- [Equinix Metal](https://metal.equinix.com/) - Bare Metal Server Provider - Global, Automated, Interconnected. ([GitHub](https://github.com/packethost))
+- [GRAVITL](https://gravitl.com/) - Build the distributed cloud. ([GitHub](https://github.com/gravitl))
 
 ## Web
 
@@ -40,11 +42,15 @@
 - [Nanobox](https://nanobox.io/) - Run any app on any cloud.
 - [Hadean](https://hadean.com/) - Distributed Computing at Massive Scale.
 - [Renderro](https://renderro.com/) - Powerful Cloud Computer For Creatives.
+- [Yandex Cloud](https://cloud.yandex.com/en/) ([GitHub](https://github.com/yandex-cloud))
+- [Akash Network](https://akash.network/) - Secure, transparent, and peer-to-peer cloud computing network. ([Code](https://github.com/ovrclk/akash)) ([GitHub](https://github.com/ovrclk)) ([Awesome](https://github.com/ovrclk/awesome-akash))
 
 ## Notes
 
 - [My goto hosting stack for the hyperbeast stack when I'm on a budget: 1. Stick everything inside a single VPS. 2. Use Dokku to: Config Nginx for me. Manage docker containers. Run cron job to backup the db.](https://twitter.com/benawad/status/1366423507555536896)
 - [The PaaS (e.g. Heroku) vs. IaaS (e.g. AWS) debate needs to be revisited. For most teams, the most surefire way to blow deadlines and run over budget is to go it alone on AWS instead of sticking with a batteries-included PaaS that lets you forget about infra and focus on the app.](https://twitter.com/searls/status/1379461145799618564)
+- [Hetzner has nice cheap servers](https://twitter.com/shipilev/status/1444618666826424322)
+- [Nothing beats a good VPS server. No need for complex architectures/serverless in most projects.](https://twitter.com/pierregillesl/status/1445339116405604359)
 
 ## Links
 
@@ -82,3 +88,13 @@
 - [Alicorn](https://alicorncloud.io/) - Easily move between AWS, GCP and Azure. ([HN](https://news.ycombinator.com/item?id=28167349))
 - [When AWS, Azure, or GCP Becomes the Competition (2019)](https://www.gkogan.co/blog/big-cloud/) ([HN](https://news.ycombinator.com/item?id=28351951))
 - [cloud-init](https://github.com/canonical/cloud-init) - Industry standard multi-distribution method for cross-platform cloud instance initialization. ([Web](https://cloud-init.io/))
+- [Cloudflare’s Disruption (2021)](https://stratechery.com/2021/cloudflares-disruption/) ([HN](https://news.ycombinator.com/item?id=28707317))
+- [Cost-effective way to publish many GBs of data on internet with HTTPS access (2021)](https://twitter.com/shipilev/status/1444292088254943234)
+- [AWS is playing Chess. Cloudflare is playing Go. (2021)](https://www.swyx.io/cloudflare-go/) ([HN](https://news.ycombinator.com/item?id=28903982))
+- [Awesome PaaS](https://github.com/debarshibasak/awesome-paas) - Curated list of PaaS, developer platforms tools to emulate PaaS on cloud, Cloud IDEs and ADNs.
+- [Cloudflare announced four major new features that could disrupt industries (2021)](https://www.indiehackers.com/post/cloudflare-just-disrupted-3-industries-in-1-week-907e44a8f5) ([HN](https://news.ycombinator.com/item?id=28746880))
+- [Cloud Native Computing Foundation](https://www.cncf.io/) ([Technical Oversight Committee (TOC)](https://github.com/cncf/toc))
+- [Cross-Cloud Access to SaaS Application Books](https://www.manning.com/liveprojectseries/cross-cloud-access-to-SaaS-application)
+- [What is the next "cloud computing"? (2021)](https://www.reddit.com/r/investing/comments/qw71tf/what_is_the_next_cloud_computing/)
+- [Interview: Matthew Prince with Eric Goldman (2021)](https://www.youtube.com/watch?v=30QNAMBdkbc) ([Transcript](https://knightfoundation.org/interview-matthew-prince-with-eric-goldman/))
+- [The Impending Cloud Reshuffle (2021)](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html) ([HN](https://news.ycombinator.com/item?id=29411566))

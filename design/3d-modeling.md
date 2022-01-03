@@ -57,3 +57,17 @@
 - [pngtostl](https://github.com/antirez/pngtostl) - Turn PNG images into STL 3D models that will "develop" in front of a light source.
 - [ShapeScript](https://github.com/nicklockwood/ShapeScript) - Hybrid scripting/markup language for creating and manipulating 3D geometry. Code for the ShapeScript 3D modeling app for macOS.
 - [Pyrender](https://github.com/mmatl/pyrender) - Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes.
+- [Drafting with Signed Distance Functions](https://github.com/NGimbal/sdfui)
+- [GraphSCAD](http://graphscad.blogspot.com/) - User Friendly Nodal Editor for OpenSCAD (2018). ([HN](https://news.ycombinator.com/item?id=28817102))
+- [Code CAD](https://cadhub.xyz/) - Use code to create CAD models. ([Code](https://github.com/Irev-Dev/cadhub)) ([HN](https://news.ycombinator.com/item?id=28906735))
+- [OpenSCAD](https://openscad.org/) - Programmers Solid 3D CAD Modeller. ([Code](https://github.com/openscad/openscad/)) ([10 ways to get the best out of OpenSCAD](https://calbryant.uk/blog/10-ways-to-get-the-best-out-of-openscad/))
+- [Luma AI](https://lumalabs.ai/) - Make 3D models as easy as waving a phone around. ([Twitter](https://twitter.com/LumaLabsAI)) ([Tweet](https://twitter.com/mikecurtis/status/1455222329533812741))
+- [SetPose](https://setpose.com/) - Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More.
+- [Fornjot](https://github.com/hannobraun/fornjot) - Experimental CAD system.
+- [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array) ([HN](https://news.ycombinator.com/item?id=29191918))
+- [replicad](https://github.com/sgenoud/replicad) - Library to build browser based 3D models with code.
+- [The Lucid Motors Configurator is A Video Game Streaming to Your Browser (2021)](https://blog.skz.dev/lucid-configurator-is-a-streaming-video-game)
+- [F3D](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer. ([Web](https://f3d-app.github.io/f3d/))
+- [Ziva Dynamics Announces A New ML-Trained Facial Rigging Service (2021)](https://80.lv/articles/ziva-dynamics-announces-a-new-ml-trained-facial-rigging-service/) ([Tweet](https://twitter.com/80Level/status/1462836062368284672))
+- [OpenSfM](https://github.com/mapillary/OpenSfM) - Open-source Structure from Motion library that lets you build 3D models from images. ([Web](https://opensfm.org))
+- [Body Model Visualizer](https://github.com/mkocabas/body-model-visualizer) - Simple Open3D-based GUI for SMPL-family body models.

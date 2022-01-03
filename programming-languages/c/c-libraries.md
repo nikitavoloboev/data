@@ -9,6 +9,8 @@
 - [ENet](https://github.com/lsalzman/enet) - Reliable UDP networking library. ([Web](http://enet.bespin.org/))
 - [CivetWeb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server.
 - [Libwebsockets](https://libwebsockets.org/) - C library for implementing modern network protocols. ([HN](https://news.ycombinator.com/item?id=28439447))
+- [PicoHTTPParser](https://github.com/h2o/picohttpparser) - Tiny, primitive, fast HTTP request/response parser.
+- [picoev](https://github.com/kazuho/picoev) - Tiny, lightning fast event loop for network applications.
 
 ## GUI
 
@@ -24,6 +26,10 @@
 ## Graphics
 
 - [rawdraw](https://github.com/cntools/rawdraw) - Fundamental Graphics Library.
+- [LVGL](https://github.com/lvgl/lvgl) - Light and Versatile Graphics Library. ([Web](https://lvgl.io/))
+- [Kinc](https://github.com/Kode/Kinc) - Modern low level game library and hardware abstraction.
+- [Cairo](https://github.com/freedesktop/cairo) - Multi-platform 2D graphics library.
+- [minidraw](https://github.com/mackron/minidraw) - Single file 2D graphics library written in C.
 
 ## Test
 
@@ -32,6 +38,14 @@
 ## CLI
 
 - [Argtable3](https://github.com/argtable/argtable3) - Single-file, ANSI C, command-line parsing library that parses GNU-style command-line options.
+
+## DB
+
+- [IOWOW](https://github.com/Softmotions/iowow) - C11 persistent key/value storage based on skip list data structure. ([Web](https://iowow.io/))
+
+## Math
+
+- [Calcium](https://github.com/fredrik-johansson/calcium) - Exact real and complex numbers in C.
 
 ## Other
 
@@ -85,3 +99,16 @@
 - [C-Blosc2](https://github.com/Blosc/c-blosc2) - Fast, compressed and persistent data store library for C.
 - [Blitsort](https://github.com/scandum/blitsort) - Rotate merge sort based on quadsort.
 - [Stricks](https://github.com/alcover/stricks) - Managed C strings library.
+- [Zpoline](https://github.com/yasukata/zpoline) - Efficient and versatile system call hook mechanism.
+- [STC](https://github.com/tylov/STC) - Modern, user friendly, generic, type-safe and fast C99 container library.
+- [vx32](https://github.com/9fans/vx32) - Portable, efficient, safe execution of untrusted x86 code.
+- [Metalang99](https://github.com/Hirrolot/metalang99) - Full-blown preprocessor metaprogramming.
+- [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C.
+- [libuvc](https://github.com/libuvc/libuvc) - Cross-platform library for USB video devices.
+- [mlib](https://github.com/P-p-H-d/mlib) - Library of generic and type safe containers in pure C language (C99 or C11) for a wide collection of container (comparable to the C++ STL).
+- [TinyUSB](https://github.com/hathach/tinyusb) - Open source cross-platform USB stack for embedded system.
+- [HPIPM](https://github.com/giaf/hpipm) - High-performance interior-point method solver for dense, optimal control- and tree-structured convex quadratic programs.
+- [libgrapheme](https://libs.suckless.org/libgrapheme/) - Suckless Unicode string library. ([Lobsters](https://lobste.rs/s/7wx1z4/libgrapheme_suckless_unicode_string))
+- [clhash](https://github.com/lemire/clhash) - C library implementing the ridiculously fast CLHash hashing function.
+- [Gunslinger](https://github.com/MrFrenik/gunslinger) - C99, header-only framework for games and multimedia applications.
+- [Capere](https://github.com/PsychoBird/Capere) - Apple Silicon hooking library written in C.

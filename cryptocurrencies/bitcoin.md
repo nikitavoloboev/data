@@ -1,14 +1,17 @@
 # [Bitcoin](https://bitcoin.org/en/)
 
-Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/status/1350869944888664064) which made great history for being the [first true digital cryptocurrency](https://bitcoin.org/bitcoin.pdf). [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md) are a more efficient and better version of decentralized programmable money.
+Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/status/1350869944888664064) which made history for being the [first true digital cryptocurrency](https://bitcoin.org/bitcoin.pdf) (solved double spending issue in decentralized way). [Solana](../databases/blockchain/solana.md)/[Tezos](../databases/blockchain/tezos.md) are a more efficient and more powerful versions of Bitcoin due to Bitcoin's [wasteful & slow transactions](https://www.youtube.com/watch?v=f0HC1Udk6-E) and [horrible PoW consensus algorithm](https://www.youtube.com/watch?v=bBC-nXj3Ng4). Hopefully soon [all energy wasting crypto mining gets banned](https://www.reddit.com/r/europe/comments/qriryh/sweden_asks_european_union_to_ban_cryptocurrency/).
 
 ## Notes
 
 - [Bitcoin is both trust-minimized (even more than gold) yet quite unlike gold digital & easily transferable in its trust-minimized form. It's an unprecedentedly superior form of money, but like anything else new traded in a free market, its historical journey starts off volatile.](https://twitter.com/NickSzabo4/status/1328759197769502722)
 - [At this point, of all the things Bitcoin can do that other financial assets can't (pseudo-anonymous, extremely hard to confiscate, can be moved quasi instantaneously across borders, demonstrably finite supply, can be use as a settlement layer for large players, etc ...) the one aspect that I believe attracts people is "store of value". Many people contest that last property citing high volatility, and they're correct if your window is less than 4 years. But for folks who play the long game, supply and demand tells a very compelling story for Bitcoin.](https://news.ycombinator.com/item?id=25157946)
+- [Bitcoin is largely controlled by a small group of investors and miners](https://news.ycombinator.com/item?id=29008910)
+- [Doing a single bitcoin transaction has a larger carbon footprint than flying across the Atlantic](https://twitter.com/felixsalmon/status/1477582669194088448)
 
 ## Links
 
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://textframe.app/examples/bitcoin) - Annotated white paper.
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. ([Web](https://bitcoinbook.info/))
 - [Bitcoin for laypeople (2018)](https://mafinto.sh/blog/bitcoin-for-laypeople.html)
 - [The Stories We Tell About Money](https://www.youtube.com/watch?v=ONvg9SbauMg)
@@ -97,7 +100,7 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [bitcoin-p2p](https://github.com/stevenroose/rust-bitcoin-p2p) - Rust implementation of Bitcoin p2p protocol.
 - [Lightning Bitcoin Core](https://github.com/lbtcio/lbtc-core) - Fully decentralized Internet-of-value protocol for global payments.
 - [BRD](https://brd.com/) - Bitcoin wallet. ([Code](https://github.com/breadwallet/breadwallet-ios))
-- [Stacks](https://www.stacks.co/) - Makes Bitcoin programmable, enabling decentralized apps and smart contracts that inherit all of Bitcoin’s powers.
+- [Stacks](https://www.stacks.co/) - Smart contracts for Bitcoin. ([Code](https://github.com/blockstack/connect)) ([GitHub](https://github.com/blockstack)) ([Library Code](https://github.com/blockstack/connect)) ([Explorer](https://explorer.stacks.co/?chain=mainnet)) ([Explorer Code](https://github.com/hirosystems/explorer))
 - [Smart contracts on Bitcoin (2021)](https://avc.com/2021/01/smart-contracts-on-bitcoin/) ([HN](https://news.ycombinator.com/item?id=25781645))
 - [Bitcoin Layer 2: Lightning Network Resources](https://www.lopp.net/lightning-information.html)
 - [Clarity Smart Contract Language](https://clarity-lang.org/) - Lisp-like Smart Contracts on Bitcoin. ([GitHub](https://github.com/clarity-lang))
@@ -154,7 +157,25 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [How to Destroy Bitcoin (2021)](https://www.stephendiehl.com/blog/destroy-bitcoin.html) ([HN](https://news.ycombinator.com/item?id=27824924))
 - [Bitcoin's gold rush was always an illusion (2021)](https://www.newstatesman.com/business/finance/2021/07/bitcoins-gold-rush-was-always-illusion) ([Tweet](https://twitter.com/ahcastor/status/1417842535809097731))
 - [Nice bitcoin/lightning/crypto open source projects (2021)](https://twitter.com/AlyssaHertig/status/1418359344819810306)
-- [Bitcoin, Currencies, and Fragility (2021)](https://arxiv.org/abs/2106.14204) ([Tweet](https://twitter.com/smdiehl/status/1418997418432073728))
+- [Bitcoin, Currencies, and Fragility (2021)](https://arxiv.org/abs/2106.14204) ([Tweet](https://twitter.com/smdiehl/status/1418997418432073728)) ([HN](https://news.ycombinator.com/item?id=29726112))
 - [Agora](https://github.com/agora-org/agora/) - Sell Files on the Web using Bitcoin Lightning Network. ([Article](http://agora.download/files/blog/mvp.html)) ([HN](https://news.ycombinator.com/item?id=28092258))
 - [Bcoin](https://github.com/bcoin-org/bcoin) - Alternative implementation of the Bitcoin protocol, written in JavaScript and C/C++ for Node.js. ([Web](https://bcoin.io/)) ([Talk](https://www.youtube.com/watch?v=avTdLjXYsbo))
 - [Turing Machines on Bitcoin. Bitcoin Turing Complete Proofs (2021)](https://xiaohuiliu.medium.com/turing-machine-on-bitcoin-7f0ebe0d52b1) ([HN](https://news.ycombinator.com/item?id=28574546))
+- [Offline lightning PoS](https://github.com/arcbtc/LNURLPoS)
+- [Lightning Labs](https://lightning.engineering/) - Faster, cheaper, global layer two bitcoin. ([GitHub](https://github.com/lightninglabs))
+- [Lightning Network Flaws](https://github.com/davidshares/Lightning-Network) ([HN](https://news.ycombinator.com/item?id=28724648))
+- [Bitcoin is a Ponzi (2020)](https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html) ([HN](https://news.ycombinator.com/item?id=28781586))
+- [Len Sassaman and Satoshi: a Cypherpunk history (2021)](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10)
+- [BDK](https://github.com/bitcoindevkit/bdk) - Modern, lightweight, descriptor-based wallet library written in Rust.
+- [Bitcoin and the U.S. Fiscal Reckoning (2021)](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning) ([HN](https://news.ycombinator.com/item?id=28896379))
+- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - JavaScript Bitcoin library for node.js and browsers.
+- [Sapio](https://github.com/sapio-lang/sapio) - Framework for creating composable multi-transaction Bitcoin Smart Contracts.
+- [TokenSwap](https://tswap.io/#/) - AMM DEX running on BSV. ([Twitter](https://twitter.com/tswap_io))
+- [Mako](https://github.com/chjj/mako) - Full Bitcoin implementation in C. ([HN](https://news.ycombinator.com/item?id=29230068))
+- [Elastos](https://www.elastos.org/) - Web3, secured by Bitcoin hashpower. ([Twitter](https://twitter.com/ElastosInfo))
+- [Glide Finance](https://glidefinance.io/) - Frictionless finance. The Elastos AMM. ([GitHub](https://github.com/glide-finance))
+- [BitcoinBinary.org](https://bitcoinbinary.org/) - Repository of Reproducible Build Proofs for Bitcoin Projects.
+- [Hiro](https://www.hiro.so/) - Builds developer tools for Stacks. ([GitHub](https://github.com/hirosystems))
+- [Clarinet](https://github.com/hirosystems/clarinet) - Simple, modern and opinionated runtime for writing, testing and integrating Clarity Smart contracts.
+- [Understanding Bitcoin Lightning (2020)](https://martyjon.es/bitcoin/2020/09/06/understanding-lightning-1.html)
+- [During 2021 Bitcoin consumed 134 TWh in total](https://twitter.com/digieconomist/status/1477420461122375683) ([HN](https://news.ycombinator.com/item?id=29769892))

@@ -11,7 +11,7 @@
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 - [SICP](http://sarabander.github.io/sicp/html/index.xhtml)
 - [Lisp-like DSL for Rust language](https://github.com/JunSuzukiJapan/macro-lisp)
-- [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications.
+- [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications. ([HN](https://news.ycombinator.com/item?id=28875051))
 - [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html) ([HN](https://news.ycombinator.com/item?id=18225870)) ([HN 2](https://news.ycombinator.com/item?id=23163596))
 - [ELS 2018 Keynote: This Old Lisp](https://www.youtube.com/watch?v=MgVuqPgKJQc)
 - [Parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp.
@@ -25,7 +25,7 @@
 - [Lisp Machine Manual](https://hanshuebner.github.io/lmman/frontpage.html)
 - [C-Mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages.
 - [LISP Reference Manual](http://www.softwarepreservation.net/projects/LISP/starlisp/starlisp-reference-manual-version-5-0.pdf)
-- [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation. ([HN](https://news.ycombinator.com/item?id=22094722))
+- [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation. ([HN](https://news.ycombinator.com/item?id=22094722)) ([HN](https://news.ycombinator.com/item?id=29631643))
 - [Performance and Evaluation of Lisp Systems (1985)](http://rpgpoet.com/Files/Timrep.pdf)
 - [Formula One](https://github.com/iwillspeak/formula-one) - Experiment in ways to ergonomically build syntax trees and transformations in Rust.
 - [Bel](http://paulgraham.com/bel.html) - Spec for a new dialect of Lisp, written in itself. ([HN](https://news.ycombinator.com/item?id=21231208))
@@ -40,15 +40,15 @@
 - [Lisp: Good News, Bad News, How to Win Big](http://www.dreamsongs.com/WIB.html)
 - [Lisping at JPL (2002)](http://flownet.com/gat/jpl-lisp.html) ([HN](https://news.ycombinator.com/item?id=22087419))
 - [Small minimalistic LISP interpreter in Node](https://github.com/mafintosh/minilisp)
-- [Understanding the Power of LISP (2020)](https://joshbradley.me/understanding-the-power-of-lisp/)
+- [Understanding the Power of LISP (2020)](https://joshbradley.me/understanding-the-power-of-lisp/) ([HN](https://news.ycombinator.com/item?id=29771957))
 - [GLISP](https://github.com/baku89/glisp) - LISP-based graphic design tool.
 - [Programming Algorithms in Lisp](https://leanpub.com/progalgs)
 - [What is the best way to learn Lisp in 2020?](https://news.ycombinator.com/item?id=22913750)
 - [hy](https://github.com/hylang/hy) - Dialect of Lisp that's embedded in Python.
 - [Simple lisp interpreter written from scratch in TS](https://github.com/christianscott/lisp)
 - [Why is Lisp not as popular as Python? (2020)](https://lobste.rs/s/f0rlcw/why_is_lisp_not_as_popular_as_python)
-- [Janet](https://janet-lang.org/) - Lightweight, expressive and modern Lisp. ([HN](https://news.ycombinator.com/item?id=23164614)) ([Code](https://github.com/janet-lang/janet)) ([Awesome](https://github.com/ahungry/awesome-janet)) ([Why I am Janet (2021)](https://pan.earth/posts/why-i-am-janet.html)) ([Lobsters](https://lobste.rs/s/pwkit0/why_i_am_janet)) ([HN](https://news.ycombinator.com/item?id=28255116)) ([Janet VSCode Extension](https://github.com/janet-lang/vscode-janet))
-- [History of Lisp - John McCarthy (1979)](http://jmc.stanford.edu/articles/lisp/lisp.pdf) ([Web](http://jmc.stanford.edu/articles/lisp.html)) ([HN](https://news.ycombinator.com/item?id=23201888))
+- [Janet](https://janet-lang.org/) - Lightweight, expressive and modern Lisp. ([HN](https://news.ycombinator.com/item?id=23164614)) ([Code](https://github.com/janet-lang/janet)) ([Awesome](https://github.com/ahungry/awesome-janet)) ([Why I am Janet (2021)](https://pan.earth/posts/why-i-am-janet.html)) ([Lobsters](https://lobste.rs/s/pwkit0/why_i_am_janet)) ([HN](https://news.ycombinator.com/item?id=28255116)) ([Janet VSCode Extension](https://github.com/janet-lang/vscode-janet)) ([HN](https://news.ycombinator.com/item?id=28850861))
+- [History of Lisp - John McCarthy (1979)](http://jmc.stanford.edu/articles/lisp/lisp.pdf) ([Web](http://jmc.stanford.edu/articles/lisp.html)) ([HN](https://news.ycombinator.com/item?id=23201888)) ([HN](https://news.ycombinator.com/item?id=28990878))
 - [Quasiquote - Literal Magic (2020)](https://weinholt.se/articles/quasiquote-literal-magic/) ([Lobsters](https://lobste.rs/s/dqhszz/quasiquote_literal_magic))
 - [Ronin](https://100r.co/site/ronin.html) - Lisp-based image processing tool. ([HN](https://news.ycombinator.com/item?id=23211273))
 - [Ask HN: Production Lisp in 2020?](https://news.ycombinator.com/item?id=23231701)
@@ -92,7 +92,7 @@
 - [The Nature of Lisp (2006)](http://www.defmacro.org/ramblings/lisp.html)
 - [awklisp](https://github.com/darius/awklisp) - Lisp interpreter written in Awk.
 - [Pixie](https://github.com/pixie-lang/pixie) - Lightweight lisp suitable for both general use as well as shell scripting.
-- [Awesome Lisp Companies](https://github.com/azzamsa/awesome-lisp-companies) - Curated lisp for companies that use Lisp Extensively in their stack.
+- [Companies that use Lisp extensively](https://github.com/azzamsa/awesome-lisp-companies) ([HN](https://news.ycombinator.com/item?id=28830677))
 - [LISP – Notes on its past and future, by John McCarthy (1980)](http://jmc.stanford.edu/articles/lisp20th/lisp20th.pdf)
 - [Klisp](https://github.com/thesephist/klisp) - Minimal LISP written in about 200 lines of Ink. ([Article](https://dotink.co/posts/klisp/))
 - [baremetalisp](https://github.com/ytakano/baremetalisp)
@@ -114,11 +114,12 @@
 - [Lisp, Jazz, Aikido – Three Expressions of a Single Essence (2018)](https://arxiv.org/ftp/arxiv/papers/1804/1804.00485.pdf)
 - [REPL as a Service (2021)](https://speechcode.com/blog/repl-as-service)
 - [LispE](https://github.com/naver/lispe) - Version of Lisp that is ultra-minimal but contains all the basic instructions of the language. ([HN](https://news.ycombinator.com/item?id=25940439))
-- [Why I still Lisp (2021)](https://mendhekar.medium.com/why-i-still-lisp-and-you-should-too-18a2ae36bd8) ([HN](https://news.ycombinator.com/item?id=25978190))
+- [Why I still Lisp (2021)](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8) ([HN](https://news.ycombinator.com/item?id=25978190)) ([Lobsters](https://lobste.rs/s/ociwy7/why_i_still_lisp_you_should_too))
 - [A Lisp REPL as my main shell](https://ambrevar.xyz/lisp-repl-shell/index.html) ([HN](https://news.ycombinator.com/item?id=26059023))
 - [Ask HN: Why should we learn Lisp? (2021)](https://news.ycombinator.com/item?id=26162522)
 - [My experience of writing Lisp in Pony (2020)](https://stereobooster.com/posts/my-experience-of-writing-lisp-in-pony/)
-- [Bootstrapping LISP in a Boot Sector](https://github.com/jart/sectorlisp)
+- [SectorLISP](https://justine.lol/sectorlisp/) - 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator on bare metal. ([Code](https://github.com/jart/sectorlisp)) ([HN](https://news.ycombinator.com/item?id=29047584)) ([Lobsters](https://lobste.rs/s/cpqdjs/sectorlisp_now_fits_one_sector))
+- [LISP with GC in 436 bytes](https://justine.lol/sectorlisp2/) ([HN](https://news.ycombinator.com/item?id=29630293))
 - [Fancy defines](https://idiomdrottning.org/fancy-defines) ([Lobsters](https://lobste.rs/s/mgfnix/fancy_defines))
 - [Swift LispKit](https://github.com/objecthub/swift-lispkit) - Framework for building Lisp-based extension and scripting languages for macOS and iOS applications.
 - [Datalisp: Overview of design decisions (2021)](https://cloudflare-ipfs.com/ipfs/Qmeg9cAPVC18bdGuQtGJKtP7VcRQErnCApbcbgn1FaSq9T/datalisp.pdf)
@@ -141,3 +142,26 @@
 - [How can I start learning Lisp and which dialect/compiler should I use? (2021)](https://www.reddit.com/r/lisp/comments/pflp6q/how_can_i_start_learning_lisp_and_which/)
 - [microlisp](https://github.com/lazear/microlisp) - Set of minimal LISP implementations.
 - [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs. ([HN](https://news.ycombinator.com/item?id=28616475))
+- [Liz](https://github.com/dundalek/liz) - Lisp-flavored general-purpose programming language (based on Zig).
+- [Tiny Scheme-like Lisp interpreter written in a weekend](https://github.com/fragglet/yoctolisp/blob/master/yoctolisp.md) ([HN](https://news.ycombinator.com/item?id=28815724))
+- [jrsonnet](https://github.com/CertainLach/jrsonnet) - Rust implementation of Jsonnet language.
+- [The Problem with Macros (2021)](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/) ([HN](https://news.ycombinator.com/item?id=28845971)) ([Lobsters](https://lobste.rs/s/d0hogq/problem_with_macros))
+- [sexp-fmt](https://github.com/returntocorp/sexp-fmt) - Basic S-expression formatter.
+- [Calcit Runner](https://github.com/calcit-lang/calcit_runner.rs) - Lisp compiling to JavaScript ES Modules. ([Web](http://calcit-lang.org/))
+- [Atomizer](https://github.com/contrast-zone/atomizer) - S-expression visualization tool.
+- [Interim](https://github.com/eudoxia0/interim) - Statically-typed, low-level dialect of Lisp featuring compile-time, GC-free memory management.
+- [Why Lisp? (2015)](http://blog.rongarret.info/2015/05/why-lisp.html) ([HN](https://news.ycombinator.com/item?id=29006172))
+- [Why Lisp?](https://atlas.engineer/technical-article/why-lisp.org) ([HN](https://news.ycombinator.com/item?id=29202021))
+- [Autumn Lisp Game Jam 2021 Postmortem](https://wiki.alopex.li/ALGJ2021Postmortem)
+- [Slick](https://github.com/pcostanza/slick) - Lisp/Scheme-style s-expression surface syntax for the Go programming language, with a few additional features.
+- [Bass](https://github.com/vito/bass) - Low-fidelity Lisp dialect for running cacheable commands and delivering reproducible artifacts. ([HN](https://news.ycombinator.com/item?id=29722417))
+- [KamilaLisp](https://github.com/kspalaiologos/kamilalisp) - Lazily evaluated, functional, flexible and concise Lisp.
+- [Neil: Bohemian Rhapsody for Five Channels (2021)](https://good-place.org/posts/rhapsody.html)
+- [Symbolics Virtual Lisp Machine (C version)](https://github.com/hanshuebner/vlm)
+- [Jsonnet Language Server](https://github.com/grafana/jsonnet-language-server)
+- [rust_lisp](https://github.com/brundonsmith/rust_lisp) - Rust-embeddable Lisp, with support for interop with native Rust functions.
+- [Bel in Perl](https://github.com/masak/bel) - Perl 5 implementation of Paul Graham's Bel.
+- [Jsonnet Language Server](https://github.com/grafana/jsonnet-language-server)
+- [MiniLisp](https://github.com/rui314/minilisp) - Readable lisp in less than 1k lines of C.
+- [bass](https://bass-lang.org/) - Bass is a low-fidelity Lisp dialect for scripting the infrastructure.
+- [Kamex](https://github.com/Ovyerus/kamex) - Basic Lisp interpreter implemented in Elixir.

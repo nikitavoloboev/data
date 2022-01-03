@@ -15,3 +15,9 @@
 - [Advent of Code in Polar (logic programming) (2021)](https://www.osohq.com/post/advent-of-code-in-polar)
 - [Making a “MiniKanren” using Z3Py (2021)](https://www.philipzucker.com/minikanren-z3py/)
 - [Leverage the Power of Logic Programming With Souffle-haskell (2021)](https://luctielen.com/videos/leverage_the_power_of_logic_programming/)
+- [Popper](https://github.com/logic-and-learning-lab/Popper) - Inductive logic programming (ILP) system.
+- [Inductive logic programming at 30 (2021)](https://arxiv.org/pdf/2102.10556.pdf)
+- [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt) ([HN](https://news.ycombinator.com/item?id=29139437))
+- [Parallel Logic Programming: A Sequel (2021)](https://arxiv.org/abs/2111.11218) ([HN](https://news.ycombinator.com/item?id=29499055))
+- [CLP](https://github.com/triska/clpz) - Constraint Logic Programming over Integers. ([Web](https://www.metalevel.at/prolog/clpz))
+- [Neural Guided Constraint Logic Programming for Program Synthesis](https://github.com/xuexue/neuralkanren)

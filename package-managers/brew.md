@@ -30,3 +30,8 @@
 - [Using Homebrew on Apple Silicon M1 (MacOS Big Sur)](https://github.com/pforret/m1_homebrew)
 - [Brewlet](https://github.com/zkokaja/Brewlet) - Missing menulet for brew.sh: keeping your packages up-to-date, and your system secure.
 - [Homebrew 3.0 (2021)](https://brew.sh/2021/02/05/homebrew-3.0.0/) ([HN](https://news.ycombinator.com/item?id=26035787))
+- [Homebrew bump formula GitHub Action](https://github.com/dawidd6/action-homebrew-bump-formula)
+- [Ask HN: Best Alternative to Homebrew in 2021?](https://news.ycombinator.com/item?id=29079096)
+- [homebrew-rmtree](https://github.com/beeftornado/homebrew-rmtree) - Remove a formula and its unused dependencies.
+- [homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions) - Alternate versions of Casks.
+- [Tap Release](https://github.com/toolmantim/tap-release) - Automatically update Homebrew taps when you publish new GitHub releases.

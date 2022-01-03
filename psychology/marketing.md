@@ -114,7 +114,7 @@
 - [How Loom grew from 0-500K users, and beyond (2021)](https://twitter.com/_shahedk/status/1364964378332823552) ([Part 2](https://twitter.com/_shahedk/status/1367532451594006530))
 - [How Loom built a successful referral program for their SaaS product (2021)](https://twitter.com/_shahedk/status/1367532457075957761)
 - [Zero to Marketing](https://zerotomarketing.com/) - Learn marketing from case studies.
-- [CopyAI](https://www.copy.ai/) - Create Marketing Copy In Seconds.
+- [CopyAI](https://www.copy.ai/) - Create Marketing Copy In Seconds. ([Tweet](https://twitter.com/PaulYacoubian/status/1448696042770337798))
 - [Framework for prioritizing marketing strategy (2021)](https://twitter.com/theandreboso/status/1370101537893146627)
 - [Ask HN: Where do you find potential customers to validate your idea / MVP? (2021)](https://news.ycombinator.com/item?id=26644616)
 - [Ask HN: I built it, nobody came, now what? (2021)](https://news.ycombinator.com/item?id=26734079)
@@ -129,7 +129,7 @@
 - [160+ Platforms to get free traffic for your product (2021)](https://gumroad.com/l/free-traffic)
 - [Iterable](https://iterable.com/) - Cross-Channel Marketing Platform to Improve Customer Experiences.
 - [The Embedded Entrepreneur: How to Build an Audience-Driven Business](https://embeddedentrepreneur.com/) ([HN](https://news.ycombinator.com/item?id=27378561))
-- [Best growth channels for growing Transistor (2021)](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/h0hnkyy?utm_source=share&utm_medium=web2x&context=3)
+- [Best growth channels for growing Transistor (2021)](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/h0hnkyy)
 - [Pinterest's Growth experiments (2021)](https://twitter.com/searchbrat/status/1400455348897521672)
 - [70 marketing lessons](https://twitter.com/heyblake/status/1402048227025690624)
 - [150 Places to Post Your Startup/Product](https://breue.com/places_to_post_startup)
@@ -147,6 +147,20 @@
 - [Developer, you may need a co-founder in marketing (2021)](https://microfounder.com/blog/cofounder-in-marketing) ([HN](https://news.ycombinator.com/item?id=28553775))
 - [How I’ve approached founder-led sales (2021)](https://www.kracov.co/writing/founder-sales)
 - [Death of advertising (2021)](http://adaged.blogspot.com/2021/09/a-fking-master.html) ([Tweet](https://twitter.com/vanschneider/status/1440676090641481729))
+- [The Mom Test – How to talk to customers](https://sandro.volpee.de/the-mom-test-summary-validate-ideas) ([HN](https://news.ycombinator.com/item?id=28667439))
+- [Startup guide: How to build a big brand on a small budget](https://docs.google.com/presentation/d/1zd8ZyqO1Jlo1A_Javgsl8ytWu-cMGLL7NYe5ps5mx9Y/edit#slide=id.gea743b29fd_6_132)
+- [Affilimate](https://affilimate.com/) - Affiliate Dashboard and Link Tracking Tool. ([Tweet](https://twitter.com/monicalent/status/1446054504894541830))
+- [Promote Your Next Startup](https://github.com/trekhleb/promote-your-next-startup) - Free resources you may use to promote your next startup. ([HN](https://news.ycombinator.com/item?id=28807413))
+- [GoSquared](https://www.gosquared.com/) - Effective customer engagement tools for happier customers. ([Twitter](https://twitter.com/GoSquared))
+- [Why You Should Repeat Yourself, A Lot (2021)](https://tomtunguz.com/why-you-should-repeat-yourself/)
+- [Marketing for SaaS (2021)](https://twitter.com/yongfook/status/1456546766837280771)
+- [What company really hit the jackpot with their slogan? (2021)](https://www.reddit.com/r/AskUK/comments/qs7dyj/what_company_really_hit_the_jackpot_with_their/)
+- [The Developer Advocate's Guide Series (2021)](https://twitter.com/theworstdev/status/1460002492813651970)
+- [Accord](https://inaccord.com/) - Build Your Repeatable Sales & Onboarding Process. ([HN](https://news.ycombinator.com/item?id=29265591))
+- [The Startup Marketing Checklist](https://draft.dev/learn/marketing-checklist) ([Code](https://github.com/draftdev/startup-marketing-checklist))
+- [Tips for marketing your app (2021)](https://twitter.com/joshpitzalis/status/1462353337848844293)
+- [Marketing Tools & Software for Businesses](https://www.btw.so/marketing-tools)
+- [Marketing is scary for a solo developer](https://raumet.com/marketing) ([HN](https://news.ycombinator.com/item?id=29538355))
 
 ## Images
 

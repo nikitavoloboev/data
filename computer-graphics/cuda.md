@@ -22,3 +22,13 @@
 - [Awesome GPGPU](https://github.com/rbaygildin/learn-gpgpu) - Algorithms implemented in CUDA + resources about GPGPU.
 - [Accelerating Conway's Game of Life Using CUDA (2021)](https://brendanrayw.medium.com/my-experience-learning-cuda-to-accelerate-conways-game-of-life-5d52eabc2dfb)
 - [cu](https://github.com/gorgonia/cu) - Go package that provides an idiomatic interface to the CUDA Driver API.
+- [RustaCUDA](https://github.com/bheisler/RustaCUDA) - Rusty wrapper for the CUDA Driver API.
+- [ec-gpu](https://github.com/filecoin-project/ec-gpu) - CUDA/OpenCL code generator for finite-field arithmetic over prime fields and elliptic curve arithmetic constructed with Rust.
+- [Python venv Setup for Deep Learning Resources](https://c4science.ch/w/bioimaging_and_optics_platform_biop/computers-servers/software/gpu-deep-learning/python-venv/) ([Tweet](https://twitter.com/haesleinhuepf/status/1460519069967392769))
+- [Rust CUDA](https://github.com/RDambrosio016/Rust-CUDA) - Extremely fast GPU code fully in Rust. ([HN](https://news.ycombinator.com/item?id=29311709)) ([Reddit](https://www.reddit.com/r/rust/comments/qzv428/announcing_the_rust_cuda_project_an_ecosystem_of/))
+- [cuda-toolkit](https://github.com/Jimver/cuda-toolkit) - GitHub Action to install CUDA.
+- [Koila](https://github.com/rentruewang/koila) - Prevent `CUDA error: out of memory` in just 1 line of code.
+- [ICPCUDA](https://github.com/mp3guy/ICPCUDA) - Super fast implementation of ICP in CUDA for compute capable devices 3.5 or higher.
+- [CUDPP](https://github.com/cudpp/cudpp) - CUDA Data Parallel Primitives Library.
+- [RAFT](https://github.com/rapidsai/raft) - RAPIDS Analytics Framework Toolkit.
+- [TSNE-CUDA](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings.

@@ -10,7 +10,7 @@
 - [HTTP/3 explained](https://http3-explained.haxx.se/en) - Document describing the HTTP/3 and QUIC protocols. ([Code](https://github.com/bagder/http3-explained)) ([Presentation](https://daniel.haxx.se/http3-explained/))
 - [The modern Web](http://ninenines.eu/docs/en/cowboy/1.0/guide/modern_web/) - Good explanation of web networking.
 - [WireMock](https://github.com/tomakehurst/wiremock) - Tool for mocking HTTP services.
-- [Apache HTTP Server](https://github.com/apache/httpd)
+- [Apache HTTP Server](https://github.com/apache/httpd) ([Web](https://httpd.apache.org/)) ([HN](https://news.ycombinator.com/item?id=28645266))
 - [llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse.
 - [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and intuitive HTTP Debugging Proxy for macOS & iOS. ([Web](https://proxyman.io/))
 - [see](https://github.com/wyhaya/see) - Static web server, developed using rust.
@@ -31,7 +31,7 @@
 - [TwitterServer](https://github.com/twitter/twitter-server) - Defines a template from which services at Twitter are built.
 - [curl HTTP cheat sheet](https://curl.github.io/curl-cheat-sheet/http-sheet.html)
 - [Big list of HTTP static server one-liners](https://gist.github.com/willurd/5720255) ([HN](https://news.ycombinator.com/item?id=22082585)) ([HN](https://news.ycombinator.com/item?id=27138978))
-- [miniserve](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP.
+- [miniserve](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. ([Tweet](https://twitter.com/myrrlyn/status/1449010815546318850))
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool.
 - [PollyJS](https://netflix.github.io/pollyjs/#/) - Record, replay, and stub HTTP interactions. ([Code](https://github.com/Netflix/pollyjs))
 - [Broxy](https://github.com/rhaidiz/broxy) - HTTP/HTTPS intercept proxy written in Go.
@@ -64,7 +64,7 @@
 - [Cache-Control in the wild (2020)](https://www.fastly.com/blog/cache-control-wild)
 - [PatchGirl](https://patchgirl.io/) - Postman/postwoman like, web app to test your APIs. ([Code](https://github.com/patchgirl/patchgirl))
 - [Will It CORS?](https://httptoolkit.tech/will-it-cors/)
-- [HTTP Toolkit](https://httptoolkit.tech/) - Intercept, debug & mock HTTP. ([Server Code](https://github.com/httptoolkit/httptoolkit-server)) ([UI Code](https://github.com/httptoolkit/httptoolkit-ui))
+- [HTTP Toolkit](https://httptoolkit.tech/) - Intercept, debug & mock HTTP. ([Server Code](https://github.com/httptoolkit/httptoolkit-server)) ([UI Code](https://github.com/httptoolkit/httptoolkit-ui)) ([HN](https://news.ycombinator.com/item?id=29624319))
 - [HTTP protocol and the web](https://codexpanse.com/courses/http)
 - [Critical Resources and the First 14 KB - A Review (2019)](https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/)
 - [Алгоритмы быстрой обработки HTTP-строк (2020)](https://habr.com/ru/company/oleg-bunin/blog/493242/)
@@ -99,7 +99,7 @@
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working http and https servers.
 - [Piping Server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over HTTP/HTTPS.
 - [devserver](https://github.com/kettle11/devserver) - Simple HTTPS server for local development. Implemented in Rust. ([Building devserver: An Ultra-Tiny Rust Server](https://ianjk.com/devserver/))
-- [Hurl](https://github.com/Orange-OpenSource/hurl) - Command line tool that performs HTTP requests defined in a simple plain text format. ([Docs](https://hurl.dev/))
+- [Hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text, curl and Rust. ([Docs](https://hurl.dev/)) ([HN](https://news.ycombinator.com/item?id=28758226))
 - [GoReplay](https://github.com/buger/goreplay) - Capture your existing users activity and re-use it for testing your application. With GoReplay you can perform shadowing, load testing, or detailed analysis and monitoring. ([Web](https://goreplay.org/))
 - [ht](https://github.com/ducaale/ht) - Yet another HTTPie clone in Rust. ([HN](https://news.ycombinator.com/item?id=26042463))
 - [How to use HTTPS for local development (2021)](https://web.dev/how-to-use-local-https/)
@@ -141,3 +141,49 @@
 - [VCR.py](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing.
 - [Hudsucker](https://github.com/omjadas/hudsucker) - Intercepting HTTP/S proxy.
 - [Cache-Control Recommendations (2021)](https://pokeinthe.io/2021/09/13/cache-control-recommendations/)
+- [cacheable-response](https://github.com/Kikobeats/cacheable-response) - HTTP compliant route path middleware for serving cache response with invalidation support.
+- [Most important HTTP request headers](https://wizardzines.com/comics/request-headers/)
+- [HTTP: Learn your browser's language](https://wizardzines.gumroad.com/l/http-zine/buy-one-give-one)
+- [httpcat](https://github.com/httpie/httpcat) - Simple utility for constructing raw HTTP requests on the command line.
+- [parse-curl.js](https://github.com/tj/parse-curl.js) - Parse curl commands, returning an object representing the request.
+- [CORS Comic](https://wizardzines.com/comics/cors/)
+- [HTTPie and Print HTTP Request](https://kracekumar.com/post/print_http_request/)
+- [How to win at CORS (2021)](https://jakearchibald.com/2021/cors/) ([Code](https://github.com/jakearchibald/cors-playground)) ([HN](https://news.ycombinator.com/item?id=28861944))
+- [Ddosify](https://ddosify.com/) - High-performance load testing tool, written in Go. ([Code](https://github.com/ddosify/ddosify))
+- [Ciao](https://brotandgames.com/ciao/) - HTTP checks & tests (private & public) monitoring - check the status of your URL. ([Code](https://github.com/brotandgames/ciao))
+- [New HTTP standards for caching on the modern web (2021)](https://httptoolkit.tech/blog/status-targeted-caching-headers/) ([HN](https://news.ycombinator.com/item?id=28930941))
+- [An alternative approach to rate limiting (2017)](https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/)
+- [Hedged http requests to reduce tail latency (2021)](https://1pkg.github.io/posts/hedged_http_requests_to_reduce_tail_latency/)
+- [QuickServ](https://github.com/jstrieb/quickserv) - User-friendly web server. ([HN](https://news.ycombinator.com/item?id=29002694))
+- [Pocket load tester](https://github.com/vearutop/plt) - Scale curl requests, cousin of ab, siege, hey.
+- [How HTTP Keep-Alive can cause TCP race condition (2021)](https://iximiuz.com/en/posts/reverse-proxy-http-keep-alive-and-502s/)
+- [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests.
+- [HTTP Server Online](https://github.com/EtherDream/http-server-online) - Start a local HTTP server without any tools, just open a web page. ([HN](https://news.ycombinator.com/item?id=29047269))
+- [Timing With Curl (2010)](https://susam.in/maze/timing-with-curl.html) - Command I use often while measuring why an HTTP request is taking too long.
+- [duma](https://github.com/mattgathu/duma) - Minimal file downloader written in Rust.
+- [Varnish Cache](https://github.com/varnishcache/varnish-cache) - High-performance HTTP accelerator. ([Docs](https://varnish-cache.org/))
+- [HTTP QUERY Method (2021)](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
+- [Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond (2021)](https://www.intruder.io/research/practical-http-header-smuggling) ([Tweet](https://twitter.com/albinowax/status/1458469363879759872)) ([HN](https://news.ycombinator.com/item?id=29189212))
+- [httpd](https://github.com/docker-library/httpd) - Docker Official Image packaging for Apache HTTP Server.
+- [HTTP Message Signatures (2021)](https://httpwg.org/http-extensions/draft-ietf-httpbis-message-signatures.html) ([HN](https://news.ycombinator.com/item?id=29281449))
+- [HTTP Extensions in progress](https://httpwg.org/http-extensions/) ([Code](https://github.com/httpwg/http-extensions))
+- [Rusqbin](https://github.com/lloydmeta/rusqbin) - Web server that stashes your requests for later retrieval. It is available as a Docker image, a binary, and a library.
+- [New differential fuzzing tool reveals novel HTTP request smuggling techniques (2021)](https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques) ([HN](https://news.ycombinator.com/item?id=29342944))
+- [T-Reqs HTTP Fuzzer](https://github.com/bahruzjabiyev/t-reqs-http-fuzzer) - Grammar-based HTTP Fuzzer.
+- [Updog](https://github.com/sc0tfree/updog) - Replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use HTTP basic auth.
+- [Armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server.
+- [Statically Prevent 404s - Gary Bernhardt (2021)](https://www.youtube.com/watch?v=KRMJIiGE0ds) ([Tweet](https://twitter.com/garybernhardt/status/1466104868498817032))
+- [Serve Folder](https://servefolder.dev/) - Serve a local folder of files in your browser for easy testing without having to run a server. ([Code](https://github.com/AshleyScirra/servefolder.dev))
+- [Making your website "cross-origin isolated" using COOP and COEP (2020)](https://web.dev/coop-coep/) ([Tweet](https://twitter.com/SamVerschueren/status/1468654052909137922))
+- [Oblivious HTTP](https://github.com/ietf-wg-ohai/oblivious-http) - System for the forwarding of encrypted HTTP
+  messages.
+- [hpagent](https://github.com/delvedor/hpagent) - Ready to use http and https agent for working with proxies that keeps connections alive.
+- [HTTP/3 Is Fast (2021)](https://requestmetrics.com/web-performance/http3-is-fast) ([HN](https://news.ycombinator.com/item?id=29563229))
+- [Goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust.
+- [SNI Proxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
+- [Ask HN: Intercepting HTTPS – How can we trust anything? (2021)](https://news.ycombinator.com/item?id=29681862)
+- [HTTP Snippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries.
+- [Using HTTP Basic Auth in 2022](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html) ([HN](https://news.ycombinator.com/item?id=29761728))
+- [dav-server-rs](https://github.com/messense/dav-server-rs) - Rust WebDAV server library.
+- [You don't need that CORS request (2021)](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/) ([HN](https://news.ycombinator.com/item?id=29777145))
+- [Awesome WebDAV](https://github.com/fstanis/awesome-webdav)

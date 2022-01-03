@@ -1,5 +1,7 @@
 # [Webpack](https://webpack.js.org/)
 
+[swc](https://github.com/swc-project/swc)/[esbuild](https://github.com/evanw/esbuild)/[vite](https://vitejs.dev/) are faster alternatives.
+
 ## Plugins
 
 - [Webpack Summary](https://github.com/fabiospampinato/webpack-summary) - Webpack plugin for displaying a short summary at the end of the build process.
@@ -51,3 +53,7 @@
 - [webpack-nano](https://github.com/shellscape/webpack-nano) - Tiny Webpack CLI.
 - [How to Migrate an App From Webpack to Snowpack (2021)](https://primalskill.blog/how-to-migrate-an-app-from-webpack-to-snowpack)
 - [Why we switched from Webpack to Vite (2021)](https://blog.replit.com/vite) ([HN](https://news.ycombinator.com/item?id=26972400))
+- [Get autocompletion for your webpack config with one line of code](https://twitter.com/Joelbdenning/status/1441146336003325956)
+- [Building a simplified webpack clone](https://lihautan.com/building-a-simplified-webpack-clone/)
+- [Understanding why our build got 15x slower with Webpack 5 (2021)](https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack)
+- [Webpack Federation SSR (2021)](https://www.ebey.me/blog/webpack-federation-ssr)

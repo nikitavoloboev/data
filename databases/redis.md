@@ -75,3 +75,29 @@
 - [Can Redis be used as a primary database? (2021)](https://www.youtube.com/watch?v=VLTPqImLapM) ([HN](https://news.ycombinator.com/item?id=28007594))
 - [Redlock](https://github.com/mike-marcacci/node-redlock) - Node.js redlock implementation for distributed, highly-available redis locks.
 - [Redis Inventory](https://github.com/obukhov/redis-inventory) - Tool to analyse Redis memory usage by key patterns and displaying it hierarchically.
+- [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client.
+- [Fred](https://github.com/aembke/fred.rs) - Async Redis client for Rust.
+- [y-redis](https://github.com/yjs/y-redis) - Redis persistence layer for Yjs.
+- [Undermoon](https://github.com/doyoubi/undermoon) - Mordern Redis Cluster solution for easy operation. ([HN](https://news.ycombinator.com/item?id=28885586))
+- [Undermoon Operator](https://github.com/doyoubi/undermoon-operator) - Kubernetes Operator for Redis cluster based on Undermoon.
+- [Corvus](https://github.com/eleme/corvus) - Fast and lightweight Redis Cluster Proxy for Redis 3.0.
+- [Redis Anti-Patterns Every Developer Should Avoid](https://developer.redis.com/howtos/antipatterns/) ([HN](https://news.ycombinator.com/item?id=28914764))
+- [Build an Elixir Redis Server that’s faster than HTTP (2021)](https://docs.statetrace.com/blog/redis-server/) ([HN](https://news.ycombinator.com/item?id=29199717))
+- [Redis Dataloader](https://github.com/PatrickJS/redis-dataloader) - Batching and Caching layer using Redis as the Caching layer.
+- [Pika](https://github.com/OpenAtomFoundation/pika) - Persistent huge storage service , compatible with the vast majority of Redis interfaces.
+- [Redigo](https://github.com/gomodule/redigo) - Go client for Redis. ([Examples](https://github.com/pete911/examples-redigo))
+- [IRedis](https://iredis.io/) - Terminal Client for Redis with AutoCompletion and Syntax Highlighting. ([Code](https://github.com/laixintao/iredis))
+- [Keva](https://keva.dev/) - High performance key-value store, used as Redis replacement. ([Code](https://github.com/keva-dev/keva))
+- [RedisPipe](https://github.com/joomcode/redispipe) - High-throughput Redis client for Go with implicit pipelining.
+- [TairHash](https://github.com/alibaba/TairHash) - Redis module, similar to redis hash, but you can set expiration and version for field.
+- [Kredis](https://github.com/rails/kredis) - Higher-level data structures built on Redis.
+- [Redis client Mock](https://github.com/go-redis/redismock)
+- [How to build a HackerNews Clone using Redis](https://developer.redis.com/howtos/hackernews/)
+- [Redis Developer Hub](https://developer.redis.com/)
+- [Redis Analysis - Part 1: Threading model (2021)](https://romange.com/2021/12/09/redis-analysis-part-1-threading-model/)
+- [A prelude to analysis of Redis memory-store (2021)](https://romange.com/2021/11/28/a-prelude-to-analysis-of-redis-memory-store/)
+- [Rebuilding Redis in Ruby](https://redis.pjam.me/)
+- [RedFI](https://github.com/openfip/redfi) - Redis Fault-Injection Proxy. Test the resiliency of your application against Redis' failures.
+- [redis-semaphore](https://github.com/swarthy/redis-semaphore) - Mutex and Semaphore implementations based on Redis ready for distributed systems.
+- [Bitnami Redis Docker Image](https://github.com/bitnami/bitnami-docker-redis)
+- [kitteh-redis](https://github.com/djspiewak/kitteh-redis) - Toy Redis server implemented using pure FP on top of Cats Effect, Fs2, and Scodec.

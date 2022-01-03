@@ -2,6 +2,8 @@
 
 Aging is a disease and thus can potentially be cured. For example, [Turritopsis dohrnii](http://en.wikipedia.org/wiki/Turritopsis_dohrnii) jelly fish ages backwards.
 
+I personally don't plan to live for long once my body starts truly breaking down of age. I maximize the quality of my life experience through proper [sleep](../sleep/sleep.md), [exercise](../fitness/exercises.md) and having [no stress](../mindfulness/mindfulness.md) optimistic outlook. I don't have any negative thoughts about [death](../life/death.md) as all things end, including [our universe](https://www.youtube.com/watch?v=uD4izuDMUQA). Only thing that's annoying is pain especially chronic so best try avoid that (that includes prisons, diseases..).
+
 ## Notes
 
 - [Curcumin](http://en.wikipedia.org/wiki/Curcumin), [Pterostilbene](http://en.wikipedia.org/wiki/Pterostilbene) and [Nicotinamide riboside](http://en.wikipedia.org/wiki/Nicotinamide_riboside) supposedly have anti aging properties.
@@ -11,6 +13,9 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Aging is an extraordinary process where you become the person always should have been.](https://www.reddit.com/r/datingoverthirty/comments/n22676/what_do_you_actually_likefind_refreshing_about/)
 - [You’re not running out of time, you’re running out of energy working on the wrong stuff.](https://twitter.com/shl/status/1399716801596981249)
 - [Rapamycin meaningfully makes every organism we’ve tested live longer. Yeast cells, mice, apes and almost certainly humans.](https://twitter.com/justindross/status/1416777191820517384)
+- [Don't worry about life' uncertainties. It will all be good.](https://twitter.com/SkarSkarSkar/status/1441394710510141448)
+- [At 40, I've done some of the best work I've ever done and my pay has been better than ever. I'm 52 now and the trend has only gotten better. Why? Its because at 40, I had a much deeper understanding of the tech, I understood of the whole business process and I had the maturity to deal with people in a productive way. You won't find all of those in a 25 year old developer. The only way that age becomes a detriment is if you do not grow. I worked with someone my age who only strong skills are a large enterprise storage system. He is a dinosaur and his future is limited. That's not his age, its the way he chose to build is CV. Age is just number guys. Stay current, keep learning and stay strong.](https://news.ycombinator.com/item?id=28757964)
+- [One challenge of people living longer: they cling to power longer, remaining in control of the most important institutions far past peak competency.](https://twitter.com/benhamner/status/1474456394426241029)
 
 ## Links
 
@@ -35,7 +40,7 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Progress of anti-aging therapies by clinical trial stage](https://www.lifespan.io/road-maps/the-rejuvenation-roadmap/) ([HN](https://news.ycombinator.com/item?id=22066494))
 - [The Longevity FAQ (2020)](https://nintil.com/longevity/)
 - [Age Reversal Forum](https://forum.age-reversal.net/)
-- [Lifespan: Why We Age—and Why We Don't Have To (2019)](https://www.goodreads.com/book/show/43723901-lifespan)
+- [Lifespan: Why We Age—and Why We Don't Have To (2019)](https://www.goodreads.com/book/show/43723901-lifespan) ([Review](https://astralcodexten.substack.com/p/book-review-lifespan)) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/r6v21s/book_review_lifespan/))
 - [How to Slow Aging (and even reverse it)](https://www.youtube.com/watch?v=QRt7LjqJ45k)
 - [Age Reduction Breakthrough (2020)](https://joshmitteldorf.scienceblog.com/2020/05/11/age-reduction-breakthrough/) ([HN](https://news.ycombinator.com/item?id=23142932)) ([Twitter](https://twitter.com/davidasinclair/status/1259912928695857152))
 - [Leap](https://wellcomeleap.org/) - Programs that aim to deliver breakthroughs in human health over 5 – 10 years and demonstrate seemingly impossible results on seemingly impossible timelines.
@@ -73,3 +78,13 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [David Sinclair: Extending the Human Lifespan Beyond 100 Years (2021)](https://overcast.fm/+eZyDJMlAE)
 - [The long lives of primates and the ‘invariant rate of ageing’ hypothesis (2021)](https://www.nature.com/articles/s41467-021-23894-3)
 - [Is Aging Inevitable? (2021)](https://joshmitteldorf.scienceblog.com/2021/06/17/is-aging-inevitable/) ([HN](https://news.ycombinator.com/item?id=27954865))
+- [Preparing For a World With Longer Life Expectancy (2021)](https://www.youtube.com/watch?v=nnnXVUWlTkI) ([Reddit](https://www.reddit.com/r/longevity/comments/q05691/david_sinclair_preparing_for_a_world_with_longer/))
+- [Is 40 the New 60? (2021)](https://neverworkintheory.org/2021/10/03/is-40-the-new-60.html) ([HN](https://news.ycombinator.com/item?id=28757964))
+- [Cellular aging: a basic paradox elucidated (2021)](https://nouvelles.umontreal.ca/en/article/2021/11/09/cellular-aging-a-basic-paradox-elucidated/)
+- [Caitlin Flanagan on Turning 60 (2021)](https://www.theatlantic.com/health/archive/2021/11/caitlin-flanagan-aging-60/620679/)
+- [The Field of Longevity Biotech is a Mess](https://psblab.org/?p=697) ([HN](https://news.ycombinator.com/item?id=29441252))
+- [NewLimit](https://www.newlimit.com/) - Company built to extend human health span. ([Intro](https://blog.newlimit.com/p/announcing-newlimit-a-company-built))
+- [Japanese scientists develop vaccine to eliminate cells behind aging (2021)](https://www.japantimes.co.jp/news/2021/12/12/national/science-health/aging-vaccine/) ([HN](https://news.ycombinator.com/item?id=29529833))
+- [Senolytic vaccination improves normal and pathological age-related phenotypes and increases lifespan in progeroid mice (2021)](https://www.nature.com/articles/s43587-021-00151-2) ([HN](https://news.ycombinator.com/item?id=29640259))
+- [Rest Less](https://restless.co.uk/) - Jobs, Money, Courses & Lifestyle for Over 50s.
+- [The World Ahead: the true costs of ageing (2021)](https://www.youtube.com/watch?v=hJCr5WJapm8)

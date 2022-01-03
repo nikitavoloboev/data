@@ -28,3 +28,17 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [media-sort](https://github.com/jpillora/media-sort) - Automatically organize your movies and TV series.
 - [Good series you'd recommend watching? (2021)](https://www.reddit.com/r/AskMen/comments/pjl2bc/boys_whats_a_good_series_youd_recommend_watching/)
 - [What To Watch On Streaming - Variety](https://variety.com/what-to-watch-streaming-movies-shows-online/)
+- [The One Episode of Breaking Bad BETTER Than Ozymandias (2021)](https://www.youtube.com/watch?v=q6mheeEtCyw)
+- [Great series to watch (2021)](https://twitter.com/adamwathan/status/1441918348531355648)
+- [Show recs (2021)](https://twitter.com/harryhurst/status/1442078837861404674)
+- [Тред с сериалами](https://twitter.com/La72La/status/1245298372799614977)
+- [Посоветуйте сериал](https://twitter.com/ritafloresss/status/1444009985525092400)
+- [Dim](https://github.com/Dusk-Labs/dim) - Self hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
+- [The 100 greatest TV series of the 21st Century (2021)](https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century)
+- [Netflix Top 10 Series - Global](https://top10.netflix.com/tv.html)
+- [Universal Trakt Scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - Extension that allows you to automatically scrobble TV shows and movies that you are watching.
+- [True crime series](https://twitter.com/dussstyboy/status/1461857598312009729)
+- [What are some old British TV shows (pre-2000) that still hold up really well?](https://www.reddit.com/r/AskUK/comments/rbo1ia/what_are_some_old_british_tv_shows_pre2000_that/)
+- [What's a canceled series which you wish wasn't canceled? (2021)](https://www.reddit.com/r/AskWomen/comments/rh6a8v/whats_a_canceled_series_which_you_wish_wasnt/)
+- [Series recs in Russian](https://twitter.com/chigi_varo/status/1474442974696472577)
+- [2021 Favorites: TV](https://sixcolors.com/post/2021/12/2021-favorites-tv/)

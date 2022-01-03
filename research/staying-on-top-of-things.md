@@ -148,6 +148,24 @@ And these Discord servers:
 - [Scientific American](https://www.scientificamerican.com/) - Science News, Expert Analysis, Health Research.
 - [Real Life](https://reallifemag.com/)
 - [IEEE Spectrum](https://spectrum.ieee.org/)
+- [The MIT Press Reader](https://thereader.mitpress.mit.edu/)
+- [Inference](https://inference-review.com/) - International Review of Science.
+- [A Cup of Jo](https://cupofjo.com/) - Style, Culture, Motherhood, Travel, Food & Life.
+- [Interesting Engineering](https://interestingengineering.com/)
+- [Eye on Design](https://eyeondesign.aiga.org/)
+- [Current Affairs](https://www.currentaffairs.org/)
+- [ScienceAlert](https://www.sciencealert.com/) - The Best in Science News and Amazing Breakthroughs.
+- [Coffee or Die Magazine](https://coffeeordie.com/)
+- [Paris Review](https://www.theparisreview.org/) - Writers, Quotes, Biography, Interviews, Artists.
+- [UnHerd](https://unherd.com/)
+- [Atlantic Council](https://www.atlanticcouncil.org/)
+- [Esquire](https://www.esquire.com/) - Men's Fashion, Cocktails, Politics, Interviews, and Women.
+- [TLS](https://www.the-tls.co.uk/) - Times Literary Supplement.
+- [Artforum International](https://www.artforum.com/)
+- [Wallpaper](https://www.wallpaper.com/) - Design, interiors, architecture, fashion, art.
+- [The Public Domain Review](https://publicdomainreview.org/)
+- [Flaunt Magazine](https://flaunt.com/)
+- [Eurozine](https://www.eurozine.com/) - Europe's leading cultural journals at your fingertips.
 
 ### Other
 
@@ -205,3 +223,12 @@ And these Discord servers:
 - [Ask HN: Hacker News like forums for other niches? (2021)](https://news.ycombinator.com/item?id=27802233)
 - [Ask HN: Do any discussion boards that aren't Facebook/Reddit still exist? (2021)](https://news.ycombinator.com/item?id=28394321)
 - [Ask HN: What are some other general link aggregators aside from HN? (2021)](https://news.ycombinator.com/item?id=28632002)
+- [News](https://github.com/Denchick/news) - Collect news from different sources in just one place.
+- [What websites do you all check more than once per week? (2021)](https://www.reddit.com/r/slatestarcodex/comments/qdjf9m/what_websites_do_you_all_check_more_than_once_per/)
+- [Ask HN: Whatever happened to exploring the internet? (2021)](https://news.ycombinator.com/item?id=28976069)
+- [HN Best Comments](https://news.ycombinator.com/bestcomments)
+- [Ask HN: What do you read for general knowledge? (2021)](https://news.ycombinator.com/item?id=29535977)
+- [Ask HN: News site that provides world updates only when relevant? (2021)](https://legiblenews.com/) ([HN](https://news.ycombinator.com/item?id=29551686))
+- [Ask HN: How do you get articles/papers/talks recommendations? (2021)](https://news.ycombinator.com/item?id=29604618)
+- [sumi.news](https://sumi.news/) - Peaceful news feed. Follow RSS, Twitter, newsletters, and more. No ads, no algorithm, no distractions. ([Code](https://github.com/tofukidco/sumi.news))
+- [The Syllabus](https://www.the-syllabus.com/) - Knowledge Curation Platform. We index, rank, and review tens of thousands of newly published pieces across text, audio, and video. ([Twitter](https://twitter.com/syllabus_tweets))

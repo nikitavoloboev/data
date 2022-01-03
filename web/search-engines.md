@@ -7,13 +7,14 @@
 - [Sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [CROKAGE: A New Way to Search Stack Overflow (2019)](https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/)
 - [Bayard](https://github.com/mosuka/bayard) - Full-text search and indexing server written in Rust.
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant and typo-tolerant full-text search API. ([Web](https://www.meilisearch.com/)) ([HN](https://news.ycombinator.com/item?id=22685831)) ([GitHub](https://github.com/meilisearch))
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant and typo-tolerant full-text search API. ([Web](https://www.meilisearch.com/)) ([HN](https://news.ycombinator.com/item?id=22685831)) ([GitHub](https://github.com/meilisearch)) ([Awesome](https://github.com/meilisearch/awesome-meilisearch))
 - [MeiliSearch JavaScript Client](https://github.com/meilisearch/meilisearch-js)
 - [MeiliSearch React](https://github.com/meilisearch/meilisearch-react) - Integrate a front-end search bar in your React application using MeiliSearch.
 - [MeiliSearch Go](https://github.com/meilisearch/meilisearch-go) - MeiliSearch API client written for Go.
 - [Hands on with: MeiliSearch - A next generation search engine for modern web (2020)](https://codefibershq.com/blog/hands-on-meilisearch-a-next-generation-search-engine-for-modern-web)
 - [The Joy of Search](https://mitpress.mit.edu/books/joy-search) - Google Insider's Guide to Going Beyond the Basics.
 - [searX](https://searx.me/) - Metasearch engine, aggregating the results of other search engines while not storing information about its users.
+- [Searx: moving away from DuckDuckGo (2021)](https://sagrista.info/blog/2021/searx-or-duckduckgo/) ([HN](https://news.ycombinator.com/item?id=29198575))
 - [DarkDarkGo](https://github.com/Bennington-Distributed-Systems-2017/DarkDarkGo) - Modeled Google and Bing to build a distributed search engine for the dark web.
 - [How is search so bad? A case study (2020)](https://svilentodorov.xyz/blog/bad-search/) ([HN](https://news.ycombinator.com/item?id=22091944))
 - [Lobsters: How would one build a search engine today? (2020)](https://lobste.rs/s/n8g3sj/how_would_one_build_search_engine_today)
@@ -47,7 +48,7 @@
 - [Reducing search indexing latency to one second (2020)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/reducing-search-indexing-latency-to-one-second.html) ([HN](https://news.ycombinator.com/item?id=23652097))
 - [Ecosia](https://www.ecosia.org/) - Search engine that plants trees. ([HN](https://news.ycombinator.com/item?id=25713050)) ([GitHub](https://github.com/ecosia))
 - [paxx](https://github.com/jackdoe/paxx) - Simple inverted index search engine.
-- [Sajari](https://www.sajari.com/) - AI-driven Search Solutions.
+- [Sajari](https://www.sajari.com/) - AI-driven Search Solutions. ([GitHub](https://github.com/sajari))
 - [Runnaroo](https://www.runnaroo.com/) - A Better Private Search Engine. ([HN](https://news.ycombinator.com/item?id=23771131))
 - [Wiby](https://wiby.org/) - Search Engine for the Classic Web. ([HN](https://news.ycombinator.com/item?id=23926964))
 - [Let's build a Full-Text Search engine (2020)](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/) ([Lobsters](https://lobste.rs/s/hi7pm5/let_s_build_full_text_search_engine)) ([HN](https://news.ycombinator.com/item?id=24051229)) ([Code](https://github.com/akrylysov/simplefts))
@@ -94,12 +95,12 @@
 - [Fast Autocomplete Search for Your Website (2018)](https://24ways.org/2018/fast-autocomplete-search-for-your-website/)
 - [Whoogle Search](https://benbusby.com/projects/whoogle-search/) - Self hosted, ad-free, privacy-respecting Google metasearch engine. ([Code](https://github.com/benbusby/whoogle-search)) ([HN](https://news.ycombinator.com/item?id=28326180))
 - [Mojeek](https://www.mojeek.com/) - Alternative search engine that puts the people who use it first. Uses independent web spider. ([HN](https://news.ycombinator.com/item?id=25372401))
-- [You.com](https://you.com/) - Trusted Search.
+- [You.com](https://you.com/) - Private search engine that summarizes the web – built for devs. ([HN](https://news.ycombinator.com/item?id=29165601)) ([Tweet](https://twitter.com/RichardSocher/status/1458096982287917071))
 - [Devbook](https://usedevbook.com/) - Search Engine for Developers. ([HN](https://news.ycombinator.com/item?id=25394567))
 - [Building a Better Search Engine for Semantic Scholar (2020)](https://medium.com/ai2-blog/building-a-better-search-engine-for-semantic-scholar-ea23a0b661e7)
 - [Google's Search Quality Evaluation Guidelines](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
-- [Txtai](https://github.com/neuml/txtai) - AI-powered search engine in Rust.
-- [Jina](https://github.com/jina-ai/jina) - Deep learning-powered search framework for building cross-/multi-modal search systems (e.g. text, images, video, audio) in the cloud.
+- [Txtai](https://github.com/neuml/txtai) - AI-powered search engine in Rust. ([4.0](https://colab.research.google.com/github/neuml/txtai/blob/master/examples/24_Whats_new_in_txtai_4_0.ipynb))
+- [Jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data.
 - [Okeano](https://okeano.com/) - Search engine that cleans the ocean and respects your privacy.
 - [Private.sh](https://private.sh/) - Search engine that cryptographically protects your privacy.
 - [Wade](https://github.com/kbrsh/wade) - Blazing fast 1kb search library.
@@ -123,7 +124,7 @@
 - [OpenGameArt Search + Reverse Image Search](https://emh.lart.no/ogasearch/) - Reverse image search for pixel art. ([Code](https://github.com/emnh/PixelArtSearch)) ([HN](https://news.ycombinator.com/item?id=26735700))
 - [RapidFuzz](https://github.com/maxbachmann/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics.
 - [Dedupe Python Library](https://github.com/dedupeio/dedupe) - Python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.
-- [Weaviate](https://github.com/semi-technologies/weaviate) - Cloud-native, modular, real-time vector search engine.
+- [Weaviate](https://github.com/semi-technologies/weaviate) - Cloud-native, modular, real-time vector search engine. ([Docs](https://www.semi.technology/developers/weaviate/current/)) ([Awesome](https://github.com/semi-technologies/awesome-weaviate))
 - [Internet Search Tips](https://www.gwern.net/Search) - Description of advanced tips and tricks for effective Internet research of papers/books.
 - [Get better at Googling (2021)](https://markodenic.com/use-google-like-a-pro/) ([HN](https://news.ycombinator.com/item?id=26911629))
 - [Metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more.
@@ -135,7 +136,7 @@
 - [Ask HN: Has Google search got noticably worse recently? (2021)](https://news.ycombinator.com/item?id=27379083)
 - [Pinecone](https://www.pinecone.io/) - Managed Vector Similarity Search.
 - [Extreme Classification with Vector Similarity Search](https://www.pinecone.io/docs/examples/extreme-classification/)
-- [Brave Search](https://search.brave.com/) - Private search. ([HN](https://news.ycombinator.com/item?id=27593360))
+- [Brave Search](https://search.brave.com/) - Private search. ([HN](https://news.ycombinator.com/item?id=27593360)) ([HN](https://news.ycombinator.com/item?id=28926582))
 - [System Design for Recommendations and Search (2021)](https://eugeneyan.com/writing/system-design-for-discovery/)
 - [How not to break a search engine (2021)](https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/)
 - [Writing an Image Search Engine from Scratch](http://yusukematsui.me/project/sis/sis.html) ([Code](https://github.com/matsui528/sis))
@@ -152,3 +153,45 @@
 - [Custom Search Engine Built on Searx (2021)](https://jpreston.xyz/custom-search-engine.html) ([HN](https://news.ycombinator.com/item?id=28509997))
 - [Marginalia Search](https://search.marginalia.nu/) - Search engine that favors text-heavy sites and punishes modern web design. ([HN](https://news.ycombinator.com/item?id=28550764))
 - [Dorks collections list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines.
+- [Nrtsearch: Yelp’s Fast, Scalable and Cost Effective Search Engine (2021)](https://engineeringblog.yelp.com/2021/09/nrtsearch-yelps-fast-scalable-and-cost-effective-search-engine.html)
+- [MacroBase](https://github.com/stanford-futuredata/macrobase) - Data analytics tool that prioritizes attention in large datasets using machine learning. ([Web](https://macrobase.stanford.edu/))
+- [Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering) - Want to build or improve a search experience? Start here.
+- [site-search](https://github.com/Janpot/site-search) - Lightweight self-hosted alternative to DocSearch. Will run your website locally, crawl its pages and index their content in a lunr index.
+- [exaly Search Engine](https://exaly.com/) - Comprehensive scholarly search engine. Similar to Google Scholar.
+- [Tips for efficiently Googling](https://twitter.com/addyosmani/status/1444195449095737346)
+- [Awesome Semantic-Search](https://github.com/Agrover112/awesome-semantic-search)
+- [Awesome Search Engine Optimization Ideas](https://github.com/thospfuller/awesome-search-engine-optimization)
+- [IndieWeb Search](https://indieweb-search.jamesg.blog/) - Search web sites published by members of the IndieWeb community and related sites. ([Code](https://github.com/capjamesg/indieweb-search))
+- [Felvin Search](https://felvin.com/) - Your search box is now an app store. ([Code](https://github.com/felvin-search/instant-apps))
+- [MiniSearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node.
+- [Search Engine Parser](https://github.com/bisoncorps/search-engine-parser) - Package that lets you query popular search engines and scrape for result titles, links, descriptions and more.
+- [What every software engineer should know about search (2017)](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) ([HN](https://news.ycombinator.com/item?id=28902662))
+- [IndexNow](https://www.indexnow.org/) - Easy way for websites owners to instantly inform search engines about latest content changes on their website. ([Article](https://blogs.bing.com/webmaster/october-2021/IndexNow-Instantly-Index-your-web-content-in-Search-Engines)) ([Article](https://blog.cloudflare.com/cloudflare-now-supports-indexnow/))
+- [typesense-js](https://github.com/typesense/typesense-js) - JavaScript / TypeScript client for Typesense.
+- [Wikipedia search engine](https://github.com/PulakIIIT/Blaze-Search)
+- [googler](https://github.com/jarun/googler) - Google from the terminal.
+- [DuckDuckGo as a TTY](https://duckduckgo.com/tty/) ([HN](https://news.ycombinator.com/item?id=28938265))
+- [Recoll](https://www.lesbonscomptes.com/recoll/) - Desktop full-text search tool. ([HN](https://news.ycombinator.com/item?id=28950947))
+- [Qdrant](https://qdrant.tech/) - Vector Search Engine. ([Code](https://github.com/qdrant/qdrant))
+- [Trie in JavaScript: the data structure behind autocomplete (2021)](https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete) ([HN](https://news.ycombinator.com/item?id=29078919))
+- [We need more boutique search engines (2021)](https://sariazout.mirror.xyz/7gSSTJ96SEyvXeljymglO3zN4H6DCgVnrNZq8_2NX1A) ([HN](https://news.ycombinator.com/item?id=29130017))
+- [liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser and search engine.
+- [Zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
+- [How Not To Sort By Average Rating (2009)](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html) ([HN](https://news.ycombinator.com/item?id=29200103))
+- [T-Wand: Beat Lucene in Less Than 600 Lines of Code (2021)](https://yyhh.org/blog/2021/11/t-wand-beat-lucene-in-less-than-600-lines-of-code/) ([HN](https://news.ycombinator.com/item?id=29237644))
+- [In-memory, full-text search engine built in Go](https://github.com/micheleriva/gosearch)
+- [SymSpell](https://github.com/wolfgarbe/SymSpell) - Spelling correction & Fuzzy search: 1 million times faster through Symmetric Delete spelling correction algorithm.
+- [SeekStorm](https://seekstorm.com/) - Affordable high-performance search API.
+- [UIRecord](https://github.com/SaraVieira/uirecord) - UI for managing your meilisearch instances.
+- [lnx](https://github.com/lnx-search/lnx) - Ultra-fast, adaptable deployment of the tantivy search engine via REST. ([Web](https://lnx.rs/))
+- [Occamm](https://www.occamm.com/) - Search engine that lets you refine your queries. ([HN](https://news.ycombinator.com/item?id=29365749))
+- [Ask HN: Why doesn't anyone create a search engine comparable to 2005 Google? (2021)](https://news.ycombinator.com/item?id=29417061)
+- [Gigablast](https://gigablast.com/) - Alternative Web Search Engine. ([HN](https://news.ycombinator.com/item?id=29421898))
+- [Semantic search through Wikipedia with the Weaviate vector search engine](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate)
+- [Disco CLI](https://github.com/ankane/disco-cli) - Generate recommendations from CSV files.
+- [Natural Language Processing (NLP) for Semantic Search](https://www.pinecone.io/learn/nlp/) ([HN](https://news.ycombinator.com/item?id=29551947))
+- [Find anything fast with Google's vector search technology (2021)](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology) ([HN](https://news.ycombinator.com/item?id=29554986))
+- [Aquila DB](https://github.com/Aquila-Network/AquilaDB) - Easy to use Neural Search Engine. Index latent vectors along with JSON metadata and do efficient k-NN search.
+- [Phalanx](https://github.com/mosuka/phalanx) - Cloud-native distributed search engine written in Go built on top of Bluge that provides endpoints through gRPC and traditional RESTful API.
+- [Mwmbl](https://mwmbl.org/) - Open source, non-profit search engine implemented in python. ([Code](https://github.com/mwmbl/mwmbl)) ([HN](https://news.ycombinator.com/item?id=29690877))
+- [Google no longer producing high quality search results (2022)](https://twitter.com/mwseibel/status/1477701120319361026) ([HN](https://news.ycombinator.com/item?id=29772136))

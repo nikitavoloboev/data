@@ -84,6 +84,15 @@ It includes:
 - [Waiting For Review](https://www.waitingforreview.com/) - Interviews from the iOS indie community, with David Gary Wood.
 - [CoRecursive Podcast](https://corecursive.com/) - The Stories Behind The Code.
 - [Well There's Your Problem Podcast](https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg/videos)
+- [On the Other Side Podcast](https://www.othersidepod.xyz/)
+- [Tooling Talks](https://www.tooling-talks.com/) - Series of talks about tooling.
+- [Goose&Duck Podcast](https://github.com/goose-duck/podcast)
+- [Lost and Founder](https://www.lostandfounder.net/)
+- [Flight Review](https://flightreview.fm/) - Weekly podcast chronicling the journey of two entrepreneurs building Flightcontrol.
+- [Иммигранткаст](https://overcast.fm/itunes1333969136) - О том как живется на чужбине.
+- [Launched](https://launchedfm.com/) - Interview podcast telling the stories of app devs and creators launching a product into the world.
+- [Dan Carlin's Hardcore History](https://overcast.fm/itunes173001861/dan-carlins-hardcore-history)
+- [Dan Carlin's Hardcore History: Addendum](https://overcast.fm/itunes1326393257/dan-carlins-hardcore-history-addendum)
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 
@@ -125,6 +134,10 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [What's a podcast you used to listen to all the time, but never do anymore?](https://www.reddit.com/r/podcasts/comments/mhxwy6/whats_a_podcast_you_used_to_listen_to_all_the/)
 - [What are your favorite obscure podcasts? (2021)](https://www.reddit.com/r/podcasts/comments/mk4t7o/what_are_your_favourite_obscure_podcasts/)
 - [Podcasts for bootstrappers and indie hackers](https://transistor.fm/podcasts-for-bootstrappers/)
+- [Top podcasts founders consume (2021)](https://twitter.com/volodarik/status/1451216738683539461)
+- [Fast, snappy, high content podcasts (2021)](https://twitter.com/HarryStebbings/status/1462023893103915014)
+- [Fave New Podcasts in 2021](https://www.swyx.io/fave-podcasts-2021/)
+- [The 50 Best Podcasts of 2021 Transcend Genre Conventions](https://www.theatlantic.com/culture/archive/2021/12/best-podcasts-2021-dish-city-sporkful/621118/)
 
 ## Notes
 
@@ -188,3 +201,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [The New Podcast Oligopoly (2021)](https://fair.org/home/the-new-podcast-oligopoly/)
 - [PodClips](https://podclips.com/) - Discover the Best Podcast Clips.
 - [Callin](https://www.callin.com/) - First Social Podcasting Platform. ([Article](https://medium.com/callin-blog/meet-callin-the-first-social-podcasting-platform-4e60e84cb48f))
+- [Podcasts are my new Wikipedia (2021)](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/) ([HN](https://news.ycombinator.com/item?id=29102027))
+- [node-podcast-parser](https://github.com/akupila/node-podcast-parser) - Parses a podcast RSS feed and returns easy to use object.
+- [podcast-transcriber](https://github.com/lukasschwab/podcast-transcriber) - Fully automated Cloud Function podcast transcriptions with Deepgram.
+- [Ask HN: Favorite Podcast Episode of 2021?](https://news.ycombinator.com/item?id=29703564)

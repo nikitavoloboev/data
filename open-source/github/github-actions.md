@@ -3,7 +3,7 @@
 ## Other
 
 - [Super-Linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action. ([Article](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)) ([HN](https://news.ycombinator.com/item?id=23563823))
-- [Create Release](https://github.com/actions/create-release) - Action to create releases via the GitHub Release API.
+- [Create Release](https://github.com/actions/create-release) - Action to create releases via the GitHub Release API. ([Modified](https://github.com/yyx990803/release-tag))
 - [action-gh-release](https://github.com/softprops/action-gh-release) - GitHub Action for creating GitHub Releases.
 - [Release Drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [Merge Conflict Finder](https://github.com/marketplace/actions/merge-conflict-finder) - Finds any merge conflicts in your repository.
@@ -85,6 +85,7 @@
 - [GitHub Repo Stats](https://github.com/jgehrcke/github-repo-stats) - GitHub Action to periodically inspect a target repository and generate a report for it.
 - [GitHub Label Sync](https://github.com/Financial-Times/github-label-sync) - Synchronize your GitHub labels with as few destructive operations as possible.
 - [release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
+- [changerelease](https://github.com/dropseed/changerelease) - Automatically update your GitHub Releases from CHANGELOG.md (Keep a Changelog).
 - [Comment on PR via GitHub Action](https://github.com/unsplash/comment-on-pr) - GitHub action to comment on the relevant open PR when a commit is pushed.
 - [GitHub Actions for deploying to Azure Functions](https://github.com/Azure/functions-action)
 - [GitHub Action for Azure CLI](https://github.com/Azure/cli)
@@ -117,9 +118,46 @@
 - [git-release](https://github.com/anton-yurchenko/git-release) - Publish a GitHub Release with Assets and Changelog.
 - [Create pull request](https://github.com/thomaseizinger/create-pull-request) - Create a pull request, easy and simple.
 - [github-act-runner](https://github.com/ChristopherHX/github-act-runner) - Act as self-hosted runner.
+- [setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting.
+- [Buildah Build](https://github.com/redhat-actions/buildah-build) - GitHub Action for building Docker and Kubernetes-compatible images quickly and easily.
+- [Create Pull Request](https://github.com/peter-evans/create-pull-request) - GitHub action to create a pull request for changes to your repository in the actions workspace.
+- [GitHub Action for Dispatching Workflows](https://github.com/benc-uk/workflow-dispatch) - This action triggers another GitHub Actions workflow, using the workflow_dispatch event.
+- [Semantic Release Action](https://github.com/cycjimmy/semantic-release-action)
+- [Conventional Release Labels](https://github.com/bcoe/conventional-release-labels) - Apply labels for automatically generated release notes, based on conventionalcommits.org.
+- [Changesets Release Action](https://github.com/changesets/action) - Creates a pull request with all of the package versions updated and changelogs updated.
+- [action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - Github Action that ensures that your PR title matches the Conventional Commits spec.
+- [Metadata Action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker.
+- [GitHub Sponsors Readme Action](https://github.com/JamesIves/github-sponsors-readme-action) - Automatically add your GitHub Sponsors to your README.
+- [Pulumi GitHub Actions](https://github.com/pulumi/actions) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub.
+- [Import Codesign Certs](https://github.com/Apple-Actions/import-codesign-certs) - GitHub Action for Importing Code-signing Certificates into a Keychain.
+- [Maximize available disk space for build tasks](https://github.com/easimon/maximize-build-space) - Github action to maximize the available disk space on Github runners.
+- [install-binary-action](https://github.com/giantswarm/install-binary-action) - GitHub action installing a binary from a tarball behind URL.
+- [datadog-actions-metrics](https://github.com/int128/datadog-actions-metrics) - Send GitHub Actions metrics to Datadog.
+- [kustomize-action](https://github.com/int128/kustomize-action) - GitHub Action to run kustomize build in parallel.
+- [git-auto-commit](https://github.com/stefanzweifel/git-auto-commit-action) - GitHub Action to detect changed files during a Workflow run and to commit and push them back to the GitHub repository.
+- [PuRe Bot](https://github.com/syndesisio/pure-bot) - Pull Request Bot to automate development workflow.
+- [Workflow Run Wait](https://github.com/ahmadnassri/action-workflow-queue) - If the same workflow is already running from a previous commit, wait for it to finish.
+- [GitHub Action for curl](https://github.com/wei/curl)
+- [GitHub Deployments](https://github.com/bobheadxi/deployments) - GitHub Action for working painlessly with deployment statuses.
+- [Find Comment](https://github.com/peter-evans/find-comment) - GitHub action to find an issue or pull request comment.
+- [kube-tools](https://github.com/stefanprodan/kube-tools) - Kubernetes tools for GitHub Actions CI.
+- [Deploy to Gist](https://github.com/exuanbo/actions-deploy-gist) - Github Action to deploy your file to Github Gist.
+- [Updating GitHub Wiki Pages with GitHub Actions](https://github.com/gfx/example-updating-wiki-with-gha)
+- [Doka Labeler](https://github.com/doka-guide/doka-labeler) - Automatically label pull requests based on multiple criteria with minimal configuration.
+- [Action Get Merged Pull Request](https://github.com/actions-ecosystem/action-get-merged-pull-request) - GitHub Action to get the pull request merged with the base branch.
+- [Pull request name linter with commitlint](https://github.com/JulienKode/pull-request-name-linter-action) - Lint pull request name with commit lint.
+- [Team Labeler Action](https://github.com/JulienKode/team-labeler-action) - GitHub action to label your pull requests based on the author name.
+- [create-report](https://github.com/michaelhenry/create-report) - Github action for creating generic run report (using Markdown!).
+- [Compare the Differences Between Two Commits](https://github.com/cpcloud/compare-commits-action)
+- [Run-On-Arch](https://github.com/uraimo/run-on-arch-action) - Executes commands on non-x86 CPU architecture (armv6, armv7, aarch64, s390x, ppc64le).
+- [Discord for GitHub Actions](https://github.com/Ilshidur/action-discord) - GitHub Action that sends a Discord message.
+- [pr-compliance-action](https://github.com/mtfoley/pr-compliance-action) - Check PR for compliance on title, linked issues, and files changed.
+- [Lighthouse Check Action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running Lighthouse audits automatically in CI workflows.
+- [setup-cue](https://github.com/cue-lang/setup-cue) - Install a specific CUE CLI version on your Github Actions runner.
 
 ## Go
 
+- [staticcheck-action](https://github.com/dominikh/staticcheck-action) - Runs Staticcheck to find bugs and other problems in your Go code.
 - [gobenchdata](https://github.com/bobheadxi/gobenchdata) - Tool for inspecting go test -bench data, and a GitHub Action for continuous benchmarking.
 - [golangci-lint](https://github.com/golangci/golangci-lint-action) - Runs golangci-lint and reports issues from linters.
 - [action-update-go](https://github.com/thepwagner/action-update-go) - GitHub Action to open PRs proposing dependency updates.
@@ -145,6 +183,8 @@
 - [Setup Miniconda](https://github.com/goanpeca/setup-miniconda) - Set up your GitHub Actions workflow with conda via miniconda.
 - [setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python.
 - [setup-poetry](https://github.com/Gr1N/setup-poetry) - Set up your GitHub Actions workflow with a specific version of Poetry.
+- [PyPI publish](https://github.com/pypa/gh-action-pypi-publish) - GitHub Action, for publishing distribution files to PyPI.
+- [Install Poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry.
 
 ## JS
 
@@ -153,6 +193,7 @@
 - [npm-install](https://github.com/bahmutov/npm-install) - GitHub Action to install npm dependencies with caching without any configuration.
 - [Jest Github Action](https://github.com/mattallty/jest-github-action) - Jest action adding checks with annotations to your pull requests and coverage table as comments.
 - [pkg-size action](https://github.com/pkg-size/action) - GitHub Action for getting automated size reports on your pull-requests.
+- [actions-package-update](https://github.com/taichi/actions-package-update) - Keeps npm dependencies up-to-date by making pull requests from GitHub Actions or CI.
 
 ## TS
 
@@ -161,14 +202,20 @@
 ## Julia
 
 - [setup-julia](https://github.com/julia-actions/setup-julia) - Sets up a Julia environment for use in actions by downloading a specified version of Julia and adding it to PATH.
+- [RegisterAction](https://github.com/julia-actions/RegisterAction) - Register Julia packages via GitHub Actions.
 
 ## OCaml
 
 - [Set up OCaml](https://github.com/ocaml/setup-ocaml) - Set up an OCaml and opam environment and add to PATH.
+- [OCaml CI Actions](https://github.com/smorimoto/ocaml-actions)
 
 ## C++
 
 - [run-cmake](https://github.com/lukka/run-cmake) - GitHub Action to build C++ applications with CMake.
+
+## Bash
+
+- [ShellCheck](https://github.com/ludeeus/action-shellcheck)
 
 ## Docker
 
@@ -176,17 +223,28 @@
 - [Code for all Docker's github actions](https://github.com/docker/github-actions)
 - [setup-kind](https://github.com/engineerd/setup-kind) - Setup KinD (Kubernetes in Docker) with a single GitHub Action.
 - [GitHub Action to set up Docker Buildx](https://github.com/docker/setup-buildx-action)
+- [bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command.
+
+## Kubernetes
+
+- [GitHub Action for Kubernetes CLI](https://github.com/steebchen/kubectl) - Provides kubectl for GitHub Actions.
 
 ## Nix
 
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [cachix-action](https://github.com/cachix/cachix-action) - Build software only once using Nix with the help of Cachix.
 - [nix-profile-action](https://github.com/yaxitech/nix-profile-action) - GitHub Action to install an ephemeral Nix profile.
+- [flake-dep-info-action](https://github.com/cpcloud/flake-dep-info-action) - Access the fields of flake.lock as outputs in a GitHub action step.
 
 ## Haskell
 
 - [Haskell Github Actions](https://github.com/haskell/actions) - Github actions for Haskell CI.
 - [hackage-publish](https://github.com/haskell-actions/hackage-publish) - GitHub action for publishing packages and documentation to Hackage.
+- [HLint action](https://github.com/tfausak/hlint-action) - Checks that Haskell files are linted with HLint.
+
+## LLVM
+
+- [install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - GitHub Action for downloading and installing LLVM and Clang binaries.
 
 ## Elixir
 
@@ -195,10 +253,19 @@
 ## Java
 
 - [setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java.
+- [gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute a Gradle Build in your Github Actions workflow.
 
 ## Racket
 
 - [Setup Racket](https://github.com/Bogdanp/setup-racket) - GH action for installing Racket.
+
+## Scala
+
+- [Scala Steward](https://github.com/scala-steward-org/scala-steward-action) - Github Action to launch Scala Steward in your repository.
+
+## Flutter
+
+- [flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in actions.
 
 ## Templates
 
@@ -288,3 +355,17 @@
 - [GitHub Actions Limitations and Gotchas (2021)](https://www.cbui.dev/github-actions-limitations-and-gotchas/) ([HN](https://news.ycombinator.com/item?id=28460342))
 - [GitHub Actions: Ephemeral self-hosted runners & new webhooks for auto-scaling (2021)](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/) ([HN](https://news.ycombinator.com/item?id=28601618))
 - [Learning about GitHub actions](https://github.com/Al-un/ci-github-actions)
+- [Using Composite Actions with GitHub Actions (2021)](https://doug.sh/posts/using-composite-actions-with-github-actions/)
+- [GitHub Actions: DRY your GitHub Actions configuration by reusing workflows (2021)](https://github.blog/changelog/2021-10-05-github-actions-dry-your-github-actions-configuration-by-reusing-workflows/)
+- [GitHub Actions Exporter](https://github.com/cpanato/github_actions_exporter) - Prometheus exporter exposing GitHub Actions metrics.
+- [Collaborative programming environment inside GitHub Actions](https://github.com/jstrieb/ctf-collab)
+- [auto-doc](https://github.com/tj-actions/auto-doc) - Auto generate documentation from actions.yml.
+- [go-actions-cache](https://github.com/tonistiigi/go-actions-cache)
+- [GitHub Actions Cheat Sheet](https://github.github.io/actions-cheat-sheet/actions-cheat-sheet.pdf) ([Code](https://github.com/github/actions-cheat-sheet))
+- [Local self-hosted runners](https://github.com/martinwoodward/pideploy) - Shows using local self-hosted runners on-premises by making use of a runner on a Raspberry Pi with LED's attached to it.
+- [GitHub Action Dashboard](https://github.com/chriskinsman/github-action-dashboard) - Dashboard to keep track of the status of your GitHub Actions.
+- [Testing Linux packages on GitHub Actions (2021)](https://carlosbecker.com/posts/linux-pkgs-github-actions/)
+- [GitHub Actions Badge](https://actions-badge.atrox.dev/) - Shields.io Badge for your GitHub Actions. ([Code](https://github.com/Atrox/github-actions-badge))
+- [Keyless signing with GitHub Actions](https://github.com/mattmoor/zero-friction-actions)
+- [Run server as systemd process & automate deployment with github actions (2021)](https://lakhan.me/blog/automate-server-deployment)
+- [Simple autograding with GitHub Classroom + GitHub Actions + CML Container (2021)](https://mti-lab.github.io/blog/2021/12/15/autograding.html)

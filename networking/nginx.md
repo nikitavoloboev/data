@@ -17,7 +17,7 @@
 - [NGINX Wiki](https://www.nginx.com/resources/wiki/) ([Code](https://github.com/nginxinc/nginx-wiki))
 - [Manage Nginx upstreams in pure Lua](https://github.com/upyun/lua-resty-checkups)
 - [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus) - Lua library that can be used with Nginx to keep track of metrics and expose them on a separate web page to be pulled by Prometheus.
-- [NGINX Ingress Controller](https://github.com/nginxinc/kubernetes-ingress)
+- [NGINX Ingress Controller](https://github.com/nginxinc/kubernetes-ingress) - Built around the Kubernetes Ingress resource, using a ConfigMap to store the NGINX configuration. ([Docs](https://kubernetes.github.io/ingress-nginx/))
 - [Building Pastebin for text using NGINX and Lua (2018)](https://usamaejaz.com/nginx-lua-pastebin/)
 - [Official NGINX Dockerfiles](https://github.com/nginxinc/docker-nginx)
 - [topngx](https://github.com/gsquire/topngx) - Helps you parse NGINX access logs and print various statistics from them regardless of format. ([HN](https://news.ycombinator.com/item?id=23466506))
@@ -45,4 +45,19 @@
 - [Nginx tuning tips: TLS/SSL HTTPS - Improved TTFB/latency (2021)](https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/)
 - [Tengine](https://github.com/alibaba/tengine) - Distribution of Nginx with some advanced features. ([Web](http://tengine.taobao.org/))
 - [Horizontally scalable NGINX caching cluster](https://github.com/fly-apps/nginx-cluster)
-- [Nginx playground](https://nginx-playground.wizardzines.com/) - Paste a Nginx config and play with it.
+- [Nginx Playground](https://nginx-playground.wizardzines.com/) - Paste a Nginx config and play with it. ([Article](https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/))
+- [Injecting environment variables into static websites using Nginx (2021)](https://www.innoq.com/de/blog/nginx-ssi-env/) ([HN](https://news.ycombinator.com/item?id=28703680))
+- [NGINXpy](https://github.com/decentfox/nginxpy) - Embed Python in NGINX.
+- [The Architecture of Open Source Applications: Nginx (2012)](https://aosabook.org/en/nginx.html) ([HN](https://news.ycombinator.com/item?id=29088134))
+- [OpenResty](https://github.com/openresty/openresty) - Turning Nginx into a Full-Fledged Scriptable Web Platform. ([Web](https://openresty.org/en/))
+- [nginx-build](https://github.com/cubicdaiya/nginx-build) - Seamless nginx builder.
+- [ngx_dynamic_upstream](https://github.com/cubicdaiya/ngx_dynamic_upstream) - Dynamic upstream for nginx.
+- [ngx_http_lua_module](https://github.com/openresty/lua-nginx-module) - Embed the power of Lua into Nginx HTTP Servers.
+- [NGINX Prometheus Exporter](https://github.com/nginxinc/nginx-prometheus-exporter)
+- [NGINX GitHub](https://github.com/nginxinc)
+- [nginx testing](https://github.com/jirutka/nginx-testing) - Support for integration/acceptance testing of nginx configuration in TypeScript/JavaScript.
+- [nginx-rs](https://github.com/arvancloud/nginx-rs) - Nginx bindings for Rust.
+- [Using NGINX as an Object Storage Gateway (2021)](https://www.nginx.com/blog/using-nginx-as-object-storage-gateway/) ([HN](https://news.ycombinator.com/item?id=29412905))
+- [Nginx & Lua](https://github.com/fabiocicerchia/nginx-lua) - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, Debian, Fedora and Ubuntu.
+- [kubectl-htpasswd](https://github.com/shibumi/kubectl-htpasswd) - nginx-ingress compatible basic-auth secret generator.
+- [How to deploy NGINX on kubernetes (2021)](https://varslashblog.com/nginx-kubernetes-deployment/)

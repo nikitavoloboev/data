@@ -4,6 +4,8 @@ Values help improve decision making. When faced with multiple tough decisions, c
 
 My personal values are encoded as [rules](../../focusing/rules.md) I try to follow.
 
+[Polite Technology](https://polite.technology/preview) & [Tesla's anti handbook](https://twitter.com/alex_avoigt/status/1462953513890336771) are neat.
+
 ## Interesting values/principles
 
 - [Oxide Principles of Operation](https://oxide.computer/principles/)
@@ -37,6 +39,11 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Many companies try to just bolt on a tactic (i.e. "henceforth we shall write memos") without being intentional about the cultural substrate (i.e. who gets hired, how much do we value charisma vs. rigor, do people care more about correctness or optics..). Culture will eat Tactics.](https://twitter.com/shreyas/status/1397609770517815302)
 - [The fastest way to destroy an engineering culture is to blame people for raising questions and concerns.](https://twitter.com/rakyll/status/1396351409046528005)
 - [In an age of decreasing time between ideas and implementations what matters the most is the “generating function” — what culture, mental models, traits, network etc that’s responsible for innovations. That’s something copycats can never copy; they can only copy the last idea.](https://twitter.com/amasad/status/1394802328058793984)
+- [A culture is not a set of beliefs, it's a set of actions.](https://twitter.com/dhaber/status/1445479484472262663)
+- [The culture is made by people who join, not the other way around.](https://twitter.com/threepointone/status/1445397597447929857)
+- [Taking care of the people who work with you is an _investment_. It doesn't show up on the balance sheet immediately, but creates resilience that is necessary when the inevitable challenge hits.](https://twitter.com/aboodman/status/1453821646620409860)
+- [Curiosity, thoroughness, humility and empathy.](https://twitter.com/fasterthanlime/status/1464544526673063936)
+- [Have a culture where reducing technical debt is celebrated as much as launching new products.](https://twitter.com/rakyll/status/1465439634700177408)
 
 ## Links
 
@@ -60,3 +67,9 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [How to build nice company culture (in Russian) (2021)](https://twitter.com/the2pizza/status/1388478059519651845)
 - [Conscious Culture](https://conscious.org/) - Bridging Humanity with Execution.
 - [Protopia Futures Framework (2021)](https://medium.com/protopia-futures/protopia-futures-framework-f3c2a5d09a1e)
+- [Tesla's values (2021)](https://twitter.com/MichaelRihani/status/1441854910442586118)
+- [1 Year of Coinbase as a mission focused company (2021)](https://twitter.com/brian_armstrong/status/1443727729476530178) ([HN](https://news.ycombinator.com/item?id=28802438))
+- [Культура в Злых марсианах (2021)](https://www.facebook.com/anton.lovchikov/posts/10226811497938112)
+- [Culturally transmitted skills and values](https://danluu.com/culture/) ([HN](https://news.ycombinator.com/item?id=29155502))
+- [Tesla Anti-Handbook Handbook](https://twitter.com/alex_avoigt/status/1462953513890336771)
+- [Polite Technology](https://polite.technology/preview)

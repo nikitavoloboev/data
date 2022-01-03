@@ -10,7 +10,7 @@
 - [Finally, Proof That Quantum Computing Can Boost Machine Learning (2019)](https://singularityhub.com/2019/03/17/finally-proof-that-quantum-computing-can-boost-machine-learning/)
 - [Quantum Computing for English Majors (2019)](https://blogs.scientificamerican.com/cross-check/quantum-computing-for-english-majors/)
 - [Quilc](https://github.com/rigetti/quilc) - Advanced optimizing compiler for the quantum instruction language Quil.
-- [Rigetti](https://www.rigetti.com/) - Bringing hardware and application development closer together can shorten the timeline to quantum advantage.
+- [Rigetti](https://www.rigetti.com/) - Full-Stack Quantum Computing. ([HN](https://news.ycombinator.com/item?id=28772402))
 - [HN: IBM will soon launch a 53-qubit quantum computer (2019)](https://news.ycombinator.com/item?id=21004615)
 - [Scott’s Supreme Quantum Supremacy FAQ! (2019)](https://www.scottaaronson.com/blog/?p=4317) ([HN](https://news.ycombinator.com/item?id=21053405))
 - [Precise measurement of quantum observables with neural-network estimators (2019)](https://arxiv.org/abs/1910.07596)
@@ -33,7 +33,6 @@
 - [Introduction to Quantum Information Science Lecture Notes (2018)](https://www.scottaaronson.com/qclec.pdf)
 - [The Argument Against Quantum Computers and the Quantum Laws of Nature](https://news.ycombinator.com/item?id=23291071)
 - [Quil: A Portable Quantum Instruction Language](https://github.com/rigetti/quil)
-- [Rigetti Computing](https://rigetti.com/) - On a mission to build the world's most powerful computer.
 - [PyQuil](https://github.com/rigetti/pyquil) - Quantum programming in Python.
 - [Grove](https://github.com/rigetti/grove) - Collection of quantum algorithms built using the Rigetti Forest platform.
 - [Picturing Quantum Processes](https://www.cambridge.org/nl/academic/subjects/physics/quantum-physics-quantum-information-and-quantum-computation/picturing-quantum-processes-first-course-quantum-theory-and-diagrammatic-reasoning?format=HB) - A First Course in Quantum Theory and Diagrammatic Reasoning.
@@ -103,3 +102,30 @@
 - [QWIRE](https://github.com/inQWIRE/QWIRE) - Quantum circuit language and formal verification tool.
 - [Awesome Post Quantum](https://github.com/veorq/awesome-post-quantum) - Curated list of resources about post-quantum cryptography.
 - [Qrack](https://github.com/vm6502q/qrack) - Comprehensive, GPU accelerated framework for developing universal virtual quantum processors.
+- [Quantum Computer-Aided design of Quantum Optics Hardware (2020)](https://arxiv.org/abs/2006.03075) ([Article](https://www.scientificamerican.com/article/ai-designs-quantum-physics-experiments-beyond-what-any-human-has-conceived/))
+- [Quantum Machine Learning Community Course](https://github.com/SemyonSinchenko/qmlcourse)
+- [Exploring Quantum Technology: Qiskit and RasQberry (2021)](https://www.eetimes.com/exploring-quantum-technology-qiskit-and-rasqberry/)
+- [BQSKit](https://github.com/BQSKit/bqskit) - Berkeley Quantum Synthesis Toolkit.
+- [Quantum computing with Chris Granade (2021)](https://overcast.fm/+i6QEMvrbY)
+- [Learn Quantum Computing with Python and Q# (2021)](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp)
+- [Why do we need Q# (2018)](https://devblogs.microsoft.com/qsharp/why-do-we-need-q/)
+- [Favorite way to explain quantum computers to a layperson (2021)](https://twitter.com/AnnaGHughes/status/1455538667301179392)
+- [Quantum Programming Languages and Verification Literature Bibliography](https://quantumpl.github.io/bib/) ([Code](https://github.com/QuantumPL/bib))
+- [Tequila](https://github.com/tequilahub/tequila) - Rapid development of novel quantum algorithms. ([Tutorials](https://github.com/tequilahub/tequila-tutorials))
+- [IBM unveils 127-qubit quantum processor (2021)](https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor) ([HN](https://news.ycombinator.com/item?id=29244732)) ([Reddit](https://www.reddit.com/r/Physics/comments/qv81ux/ibm_quantum_breaks_the_100qubit_processor_barrier/))
+- [Scott Aaronson, when reached for comment, said (2021)](https://scottaaronson.blog/?p=6111) ([HN](https://news.ycombinator.com/item?id=29247753))
+- [How Quantum Computers Will Correct Their Errors (2021)](https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/)
+- [Autonomous Quantum Error Correction in a Bosonic Qubit | Qiskit Seminar Series with Chen Wang (2021)](https://www.youtube.com/watch?v=q4wOhKNxDxs)
+- [Rust Post-Quantum cryptography](https://github.com/rustpq/pqcrypto)
+- [PQClean](https://github.com/PQClean/PQClean) - Clean, portable, tested implementations of post-quantum cryptography.
+- [liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust) - Rust wrappers for the Open Quantum Safe liboqs C library.
+- [Solving LPN using Large Covering Codes (2018)](https://thomwiggers.nl/publication/masters-thesis/)
+- [Practically Solving LPN (2021)](https://thomwiggers.nl/publication/lpn/) ([Code](https://github.com/thomwiggers/lpn))
+- [Quandary](https://github.com/LLNL/quandary) - Optimal control for open quantum systems.
+- [qsearch](https://github.com/BQSKit/qsearch) - Compiler for quantum computers based on A\* and numerical optimization.
+- [NetKet](https://github.com/netket/netket) - Machine learning algorithms for many-body quantum systems. ([Web](https://www.netket.org/))
+- [‘Shut up and calculate’ does a disservice to quantum mechanics (2021)](https://aeon.co/essays/shut-up-and-calculate-does-a-disservice-to-quantum-mechanics)
+- [PyQIR](https://github.com/qir-alliance/pyqir) - Set of APIs for generating, parsing, and evaluating Quantum Intermediate Representation (QIR).
+- [Saturday Morning Breakfast Cereal - The Talk](https://www.smbc-comics.com/comic/the-talk-3)
+- [Qiskit Optimization](https://github.com/Qiskit/qiskit-optimization) - Open-source framework that covers the whole range from high-level modeling of optimization problems.
+- [Lectures on quantum optics and quantum computations (in Russian)](https://github.com/ivanmurashko/lectures)

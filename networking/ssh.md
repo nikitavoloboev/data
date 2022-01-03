@@ -8,7 +8,7 @@
 - [BLESS](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as an AWS Lambda function and is used to sign SSH public keys.
 - [sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port).
 - [Guide to using YubiKey for GPG and SSH](https://github.com/drduh/YubiKey-Guide)
-- [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell.
+- [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell. ([Web](https://eternalterminal.dev/)) ([HN](https://news.ycombinator.com/item?id=21640200))
 - [ssh in https](https://flak.tedunangst.com/post/ssh-in-https) ([Lobsters](https://lobste.rs/s/xzztac/ssh_https))
 - [WebSSH](https://github.com/huashengdun/webssh) - Web based ssh client.
 - [Building interactive SSH applications (2019)](https://drewdevault.com/2019/09/02/Interactive-SSH-programs.html) ([HN](https://news.ycombinator.com/item?id=20857362))
@@ -21,11 +21,11 @@
 - [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave. ([HN](https://news.ycombinator.com/item?id=23664129))
 - [sshcommand](https://github.com/dokku/sshcommand) - Turn SSH into a thin client specifically for your app.
 - [How to SSH Properly (2020)](https://gravitational.com/blog/how-to-ssh-properly/) ([HN](https://news.ycombinator.com/item?id=22750850))
-- [Mosh](https://www.jefftk.com/p/mosh) - Tool used to connect from a client computer to a server over the Internet, to run a remote terminal. ([HN](https://news.ycombinator.com/item?id=22810589))
+- [Mosh](https://mosh.org/) - Tool used to connect from a client computer to a server over the Internet, to run a remote terminal. ([HN](https://news.ycombinator.com/item?id=22810589)) ([Article](https://www.jefftk.com/p/mosh)) ([HN](https://news.ycombinator.com/item?id=28150287))
 - [DIY Single Sign-On for SSH (2020)](https://smallstep.com/blog/diy-single-sign-on-for-ssh/) ([Lobsters](https://lobste.rs/s/jrynqk/diy_single_sign_on_for_ssh))
 - [ssh-p2p](https://github.com/nobonobo/ssh-p2p) - SSH p2p tunneling server and client.
 - [SSH Tips & Tricks (2020)](https://smallstep.com/blog/ssh-tricks-and-tips/) ([HN](https://news.ycombinator.com/item?id=23025756))
-- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
+- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh. ([HN](https://news.ycombinator.com/item?id=29557113))
 - [SSH Agent Explained (2020)](https://smallstep.com/blog/ssh-agent-explained/) ([HN](https://news.ycombinator.com/item?id=23241934))
 - [SSH Emergency Access (2020)](https://smallstep.com/blog/ssh-emergency-access/) ([HN](https://news.ycombinator.com/item?id=23731351))
 - [Smallstep](https://smallstep.com/) - Single Sign-on SSH & Production Identity. Say Goodbye to SSH Key Management.
@@ -70,3 +70,19 @@
 - [The pitfalls of using SSH-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents) ([HN](https://news.ycombinator.com/item?id=28576617))
 - [ssh-key-confirmer](https://github.com/benjojo/ssh-key-confirmer) - Test ssh login key acceptance without having the private key.
 - [Hardening SSH with 2fa](https://gist.github.com/lizthegrey/9c21673f33186a9cc775464afbdce820)
+- [SSH Tunneling Explained](https://goteleport.com/blog/ssh-tunneling-explained/) ([HN](https://news.ycombinator.com/item?id=28802493))
+- [SCP for GitHub Actions](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
+- [Massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.
+- [SSH alternatives for mobile, low-latency or unreliable connections (2021)](https://console.dev/articles/ssh-alternatives-for-mobile-low-latency-unreliable-connections/) ([HN](https://news.ycombinator.com/item?id=29081008))
+- [signmykey](https://github.com/signmykeyio/signmykey) - Automated SSH Certificate Authority.
+- [ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings to libssh2, an ssh client library.
+- [Simple SSH Security (2021)](https://disknotifier.com/blog/simple-ssh-security/) ([HN](https://news.ycombinator.com/item?id=29153223))
+- [OpenSSH Guide](https://infosec.mozilla.org/guidelines/openssh)
+- [It's Now Possible To Sign Arbitrary Data With Your SSH Keys (2021)](https://www.agwa.name/blog/post/ssh_signatures) ([HN](https://news.ycombinator.com/item?id=29208518)) ([Lobsters](https://lobste.rs/s/a0byrl/it_s_now_possible_sign_arbitrary_data_with))
+- [Portable OpenSSH](https://github.com/openssh/openssh-portable) - Complete implementation of the SSH protocol for secure remote login, command execution and file transfer.
+- [SSH-MITM](https://github.com/ssh-mitm/ssh-mitm) - SSH audits made simple. ([HN](https://news.ycombinator.com/item?id=29256572))
+- [SSH2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for NodeJS.
+- [Wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that.
+- [promwish](https://github.com/charmbracelet/promwish) - Provides a simple wish middleware exposing some Prometheus metrics.
+- [age-plugin-remote](https://github.com/str4d/age-plugin-remote) - Expose local age identities to remote machines via SSH.
+- [go-ssh-client](https://github.com/metrue/go-ssh-client) - Go package that helps you run command on remote host via SSH.

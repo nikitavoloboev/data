@@ -18,3 +18,4 @@ I visualize topics and their relations as an [interactive mind map](https://my.m
 
 - [Mind map everything](https://medium.com/@nikitavoloboev/mind-map-everything-d27670f70739) - How I use mind maps to effectively transcribe knowledge digitally and visualize thoughts and knowledge I have for both myself and for other people interested.
 - [IOctopus](https://ioctopus.online/) - Online Mind mapping.
+- [JS Mind map](https://github.com/madhank93/js-mindmap)

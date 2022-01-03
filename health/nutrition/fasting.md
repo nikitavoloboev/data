@@ -9,6 +9,8 @@ I sometimes do one day fasts but not routinely.
 - [Only eating between noon and 8 PM helped me eliminate brain fog.](https://news.ycombinator.com/item?id=16491083)
 - [Fasting activates autophagy which is the body's process of cleansing at cell level. This is the major reason for health improvements related to it.](https://www.reddit.com/r/longevity/comments/8e3eov/is_there_actually_anything_out_on_the_market_that/)
 - [Seems like a lot of the benefits of calorie restriction and fasting may come from the fact consuming food produces damaging by-products, note the way you cook the food strongly influences how much of these by products come in the food itself, but your body also produces the. AGE's = Glycation products](https://news.ycombinator.com/item?id=24854571)
+- [Skipping meals while maintaining adequate nutrition is not only good for you but will make you live longer.](https://twitter.com/davidasinclair/status/1449719923337580545)
+- [Once-daily feeding is associated with better cognitive function and health in companion dogs](https://twitter.com/mkaeberlein/status/1458933929319174148)
 
 ## Links
 
@@ -25,3 +27,6 @@ I sometimes do one day fasts but not routinely.
 - [Fasting improves chemotherapy results and protects from side effects (2020)](https://www.nature.com/articles/s41467-020-16138-3) ([HN](https://news.ycombinator.com/item?id=24480142))
 - [Intermittent Fasting Improves Long Term Memory (2021)](https://neurosciencenews.com/intermittent-fasting-neurogenesis-memory-18522/) ([Reddit](https://www.reddit.com/r/EverythingScience/comments/np1mnv/intermittent_fasting_improves_long_term_memory/))
 - [How Often Should You Do Intermittent Fasting? (2019)](https://www.youtube.com/watch?v=ZY0_GoROp6I) ([Tweet](https://twitter.com/IOHK_Charles/status/1407926703108902912))
+- [Intermittent fasting in mice improves long-term memory retention (2021)](https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention) ([HN](https://news.ycombinator.com/item?id=28768146))
+- [Fasting Improves Physiological and Molecular Markers of Aging (2019)](https://www.cell.com/action/showPdf?pii=S1550-4131%2819%2930429-2) ([HN](https://news.ycombinator.com/item?id=29106941))
+- [Intermittent fasting prompts anti-inflammatory response (2021)](https://academic.oup.com/ehjopen/article/1/2/oeab026/6363797) ([HN](https://news.ycombinator.com/item?id=29210352))

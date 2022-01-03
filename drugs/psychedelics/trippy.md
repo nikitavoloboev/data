@@ -19,3 +19,6 @@
 - [Motion Illusions](https://jake.vision/blog/motion-illusions)
 - [What color are these spheres?](https://www.syfy.com/syfywire/another-brain-frying-optical-illusion-what-color-are-these-spheres)
 - [Escher’s stairs (2021)](http://www.neverendingbooks.org/eschers-stairs)
+- [Spirals](https://isohedral.ca/other/Spirals/)
+- [Find the curved line](https://twitter.com/JohnDiesattheEn/status/1469704572629311493)
+- [Illusion of the Year 2021](http://illusionoftheyear.com/cat/top-10-finalists/2021/) ([HN](https://news.ycombinator.com/item?id=29760007))

@@ -13,6 +13,7 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Facebook is not a private nor a secure platform for sharing sensitive information. Every character that you type into their text boxes is immediately parsed and sent to their servers, regardless of whether you actually complete a post and submit it.](https://www.reddit.com/r/privacy/comments/79x7u3/facebook_employees_just_opened_a_privately_shared/)
 - Marketing most importantly is about establishing wants that you didn't have.
 - [Apple spent the entire summer telling the public that they were confident they could resist government pressure, when defending their CSAM scanning system. Today they’re pulling voting guides from the Russian App Store.](https://twitter.com/matthew_d_green/status/1438844141107044352) ([HN](https://news.ycombinator.com/item?id=28561941))
+- [Go through your Google app permissions and revoke old apps. Some may have full access to Gmail/Calendar & you don't use them.](https://twitter.com/swyx/status/1467804281306636289)
 
 ## Links
 
@@ -54,7 +55,7 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Metomic](https://metomic.io/) - Privacy Tools for Developers.
 - [How Facebook and Other Sites Manipulate Your Privacy Choices (2020)](https://www.wired.com/story/facebook-social-media-privacy-dark-patterns/)
 - [Why Privacy Matters (2020)](https://thistooshallgrow.com/blog/privacy-security-roundup) ([HN](https://news.ycombinator.com/item?id=24341079))
-- [Nym](https://nymtech.net/) - Developing the infrastructure to prevent this data leakage and provide people with strong internet privacy.
+- [Nym](https://nymtech.net/) - Developing the infrastructure to prevent this data leakage and provide people with strong internet privacy. ([Bonding vs (Delegated) Staking in Nym](https://medium.com/nymtech/bonding-vs-delegated-staking-in-nym-f11d7adceec3))
 - [Your Phone Is Your Castle](https://puri.sm/posts/your-phone-is-your-castle/) ([HN](https://news.ycombinator.com/item?id=24463347))
 - [Threat Models for Differential Privacy (2020)](https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy)
 - [Sekreta](https://gitlab.com/sekreta/sekreta/) - Universal internet-anonymity API with privacy-enhancing subsystem.
@@ -83,7 +84,7 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Tim Cook keynote on privacy from the CPCD conference (2021)](https://www.youtube.com/watch?v=wmHL7xe1JIY) ([Transcript](https://www.inc.com/justin-bariso/tim-cook-may-have-just-ended-facebook.html))
 - [What Do You Actually Agree To When You Accept All Cookies (2021)](https://www.conradakunga.com/blog/what-do-you-actually-agree-to-when-you-accept-all-cookies/) ([Lobsters](https://lobste.rs/s/f3jncp/what_do_you_actually_agree_when_you_accept))
 - [How Corporations Harvest Data](https://dkzlv.com/en/how-they-harvest-data/) ([HN](https://news.ycombinator.com/item?id=26153055))
-- [Zero Data App](https://0data.app/) - Curated collection of five best-in-class libraries/frameworks that enable building SPA apps with user controlled data. ([HN](https://news.ycombinator.com/item?id=26365835))
+- [Zero Data App](https://0data.app/) - Curated collection of five best-in-class libraries/frameworks that enable building SPA apps with user controlled data. ([HN](https://news.ycombinator.com/item?id=26365835)) ([Awesome](https://github.com/0dataapp/awesome-0data))
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
 - [Blacklight](https://themarkup.org/blacklight) - Real-Time Website Privacy Inspector.
 - [Data Leverage Roundup](https://github.com/nickmvincent/DataLeverageRoundup)
@@ -99,3 +100,17 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Ask HN: What Apple alternatives are you switching to? (2021)](https://news.ycombinator.com/item?id=28220968)
 - [Privacy.Sexy](https://privacy.sexy/) - Enforce privacy & security on Windows and macOS. ([Code](https://github.com/undergroundwires/privacy.sexy))
 - [Why not Signal?](https://dessalines.github.io/essays/why_not_signal.html) ([Lobsters](https://lobste.rs/s/qgkckr/why_not_signal))
+- [Google and Facebook, I am facilitating packet filtering to block your tracking (2021)](https://peguero.xyz/blog/google_and_facebook_i_am_facilitating_packet_filtering_to_block_your_tracking.html) ([Lobsters](https://lobste.rs/s/jpca2y/google_facebook_i_am_facilitating_packet))
+- [Open Privacy Vault](https://openprivacy.io/) - Open Source PII as a Service. ([Code](https://github.com/open-privacy/opv))
+- [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Web extension that redirects Twitter, YouTube, Instagram, Google Maps, Reddit, Google Search, & Google Translate requests to privacy friendly alternatives.
+- [Differentially Private Fine-tuning of Language Models (2021)](https://arxiv.org/abs/2110.06500) ([Tweet](https://twitter.com/thegautamkamath/status/1450113340617940998))
+- [GDPR documents](https://github.com/good-lly/gdpr-documents) - Your Right to be Informed and Erased.
+- [Privacy Is a Human Right (2021)](https://blog.torproject.org/privacy-is-a-human-right) ([HN](https://news.ycombinator.com/item?id=28997501))
+- [Fides](https://github.com/ethyca/fides) - Declaratively enforce your data privacy requirements from within your software development life-cycle. ([Docs](https://ethyca.github.io/fides/))
+- [Practical Differentially Private Clustering (2021)](https://ai.googleblog.com/2021/10/practical-differentially-private.html)
+- [Securing your digital life (2021)](https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/)
+- [A Right to Reasonable Inferences: Re-Thinking Data Protection Law in the Age of Big Data and AI (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3248829) ([Tweet](https://twitter.com/ziebrah/status/1461033739409141771))
+- [Gretel.ai](https://gretel.ai/) - Privacy Engineering as a Service. ([Twitter](https://twitter.com/gretel_ai)) ([GitHub](https://github.com/gretelai))
+- [NTC Forum](https://ntc.party/) - Discussion board for network censorship all around the world, with anti-censorship software developers, researchers and tech-savvy users.
+- [Programming Differential Privacy](https://programming-dp.com/) - Book about differential privacy, for programmers.
+- [Saying goodbye to an old friend (2021)](https://ar.al/2021/12/16/saying-goodbye-to-an-old-friend/) ([HN](https://news.ycombinator.com/item?id=29657637))

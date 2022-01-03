@@ -119,6 +119,28 @@ Anything that can be represented by the above list can be analyzed as a category
 - [nForum](https://nforum.ncatlab.org/) - Discussion forum about contributions to the nLab wiki and related areas of mathematics, physics, and philosophy.
 - [Infinity Category Theory Offers a Bird’s-Eye View of Mathematics (2021)](https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics1/) ([HN](https://news.ycombinator.com/item?id=28536516))
 - [Categories for the idle mathematician - YouTube (2021)](https://www.youtube.com/playlist?list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL) - Introductory lectures on category theory.
+- [Category Theory Illustrated - Logic](https://boris-marinov.github.io/category-theory-illustrated/05_logic/) ([HN](https://news.ycombinator.com/item?id=28660157))
+- [Dinatural transformations (2019)](https://www.brunogavranovic.com/posts/2019-09-12-dinatural-transformations.html)
+- [Adventures in Category Theory - The Algebra of Types (2018)](https://miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html) ([HN](https://news.ycombinator.com/item?id=28926834))
+- [Further remarks on Bourbaki](https://www.dpmms.cam.ac.uk/~ardm/segal.pdf) ([Tweet](https://twitter.com/sigfpe/status/1453824591621541892))
+- [Category Theory relation to consciousness](https://github.com/drever/ct-consciousness)
+- [Thoughts on adjoint, norm and such](https://github.com/adamnemecek/adjoint)
+- [Category Theory Resources](https://github.com/bgavran/Category_Theory_Resources)
+- [Introduction to Category Theory](http://www.cs.nott.ac.uk/~pszgmh/cat.html)
+- [Collected works of F. W. Lawvere](https://github.com/mattearnshaw/lawvere)
+- [Cubical Sets (2021)](https://amelia.how/posts/cubical-sets.html)
+- [A quickie: Axiom J (2021)](https://amelia.how/quick/axiom-j.html)
+- [Higher Theories and Monads (2021)](https://arxiv.org/abs/2106.02706)
+- [Polynomial Lens](https://github.com/BartoszMilewski/PolyLens/blob/main/PolyLens.pdf)
+- [An introduction to regular categories (2020)](https://arxiv.org/abs/2004.08964)
+- [Crash Course Category Theory Notes/Resources](http://jacobzelko.com/C3T/) ([Code](https://github.com/TheCedarPrince/C3T)) ([HN](https://news.ycombinator.com/item?id=29640873))
+- [Evan Patterson: Realizing Applied Category Theory in Julia (2020)](https://www.youtube.com/watch?v=7dmrDYQh4rc)
+- [Category Theory by Example (2021)](https://github.com/CatTheoryByExample/book/blob/master/cattheory.pdf)
+- [NASA's Category Theory Resources](https://www.nasa.gov/consortium/CategoryTheory) ([Tweet](https://twitter.com/cbarrett/status/1475620079987474432))
+- [Fun with Categories (2019)](https://blog.statebox.org/fun-with-categories-70c64649b8e0)
+- [Recommended resources for learning category theory / Haskell (2021)](https://www.reddit.com/r/haskell/comments/rrpnoy/recommended_resources_for_learning_category/)
+- [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/) ([HN](https://news.ycombinator.com/item?id=29734482))
+- [Learn Applied Category Theory! (2021)](https://johncarlosbaez.wordpress.com/2021/10/27/learn-act/)
 
 ## Images
 

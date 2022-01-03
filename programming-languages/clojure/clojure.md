@@ -39,7 +39,7 @@
 - [SICP Distilled](http://www.sicpdistilled.com/) - Idiosyncratic tour of SICP in Clojure.
 - [The Clojure Mindshare (2019)](https://groundedsage.netlify.com/posts/the-clojure-mindshare/)
 - [Clojure Katas](https://github.com/chefy-io/clojure-katas)
-- [Babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting. ([Talk](https://www.youtube.com/watch?v=Nw8aN-nrdEk)) ([Docs](https://book.babashka.org/))
+- [Babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting. ([Talk](https://www.youtube.com/watch?v=Nw8aN-nrdEk)) ([Docs](https://book.babashka.org/)) ([Migrating blog from Octopress to Babashka](https://blog.michielborkent.nl/migrating-octopress-to-babashka.html)) ([HN](https://news.ycombinator.com/item?id=28982952))
 - [Clojure Koans](https://github.com/functional-koans/clojure-koans) - Set of exercises for learning Clojure.
 - [State of Clojure 2020](https://clojure.org/news/2020/02/20/state-of-clojure-2020) ([HN](https://news.ycombinator.com/item?id=22379603))
 - [Clojurians Zulip Chat](https://clojurians.zulipchat.com/login/)
@@ -150,3 +150,47 @@
 - [Thoughts on Clojure UI framework (2021)](https://tonsky.me/blog/clojure-ui/) ([HN](https://news.ycombinator.com/item?id=28469498))
 - [Engineering for Scale in Clojure (2021)](https://anchor.fm/recursive-house/episodes/Episode-2---Dmitri-Sotnikov---Engineering-for-Scale-in-Clojure-e17ka83)
 - [Reactive Clojure: A web language](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc) ([HN](https://news.ycombinator.com/item?id=28630209))
+- [Develop native mobile apps with JVM Clojure, GraalVM, SCI and Skia (2021)](https://www.reddit.com/r/Clojure/comments/p3jojl/develop_native_mobile_apps_with_jvm_clojure/)
+- [rewrite-clj](https://github.com/clj-commons/rewrite-clj) - Rewrite Clojure code and edn.
+- [Interactive Clojure browser testing with nbb, Calva and nREPL (2021)](https://www.reddit.com/r/Clojure/comments/q13kio/instant_browser_testing_from_calva_with_nbb_and/)
+- [Monads for Clojure Programmers (2021)](https://cuddly-octo-palm-tree.com/posts/2021-10-03-monads-clojure/) ([HN](https://news.ycombinator.com/item?id=28745059))
+- [tools.analyzer](https://github.com/clojure/tools.analyzer) - Analyzer for Clojure code, written in Clojure and producing AST in EDN.
+- [Erlang inspired error handling with superv.async. (2016)](https://whilo.github.io/articles/16/error-handling1)
+- [Native Clojure with GraalVM (2021)](https://convexhuman.com/graalvm-clojure.html)
+- [Clojure Cookbook](http://clojure-cookbook.com/) ([Code](https://github.com/clojure-cookbook/clojure-cookbook))
+- [Building Stable Foundations - Heart of Clojure 2019 talk](https://danielcompton.net/2021/02/21/building-stable-foundations-heart-of-clojure-2019)
+- [Geometer](https://github.com/jackrusher/geometer) - Interactive playground for experiments with th.ing's geom libraries.
+- [CIDER nREPL](https://github.com/clojure-emacs/cider-nrepl) - Collection of nREPL middleware, originally designed to enhance CIDER. ([Docs](https://docs.cider.mx/cider-nrepl/))
+- [Fast and Elegant Clojure (2021)](https://bsless.github.io/fast-and-elegant-clojure/) ([HN](https://news.ycombinator.com/item?id=28956316))
+- [formatting-stack](https://github.com/nedap/formatting-stack) - Efficient, smart, graceful composition of Clojure formatters, linters.
+- [Clojure - Differences with other Lisps](https://clojure.org/reference/lisps) ([HN](https://news.ycombinator.com/item?id=29064942))
+- [Clerk](https://github.com/nextjournal/clerk) - Local-First Notebooks for Clojure. ([HN](https://news.ycombinator.com/item?id=29107392))
+- [Functional Composition - Chris Ford (2013)](https://www.youtube.com/watch?v=Mfsnlbd-4xQ)
+- [Efficient Recursive Levenshtein (Edit) Distance Algorithm](https://www.occasionalenthusiast.com/efficient-recursive-levenshtein-edit-distance-algorithm/) ([Lobsters](https://lobste.rs/s/ubi3eh/efficient_recursive_levenshtein_edit))
+- [Moldable Emacs: a Clojure Playground with Babashka (2021)](https://ag91.github.io/blog/2021/11/05/moldable-emacs-a-clojure-playground-with-babashka/)
+- [Clojure Experience Report (2020)](https://www.collicutt.co.uk/notebook/clojure_experience.html)
+- [Writing a Clojure highlighter from scratch (2021)](https://blog.michielborkent.nl/writing-clojure-highlighter.html)
+- [Why Clojure is great (2021)](https://twitter.com/furkan3ayraktar/status/1458503075547787266)
+- [Macrobrew: Clojure macros distilled (2021)](https://www.abhinavomprakash.com/posts/macrobrew/)
+- [Clojure Tutorial for Beginners (2021)](https://www.abhinavomprakash.com/posts/clojure-tutorial-for-beginners-1/)
+- [logically](https://github.com/namin/logically) - Explorations of logic programming in Clojure's core.logic.
+- [Why Clojure (Lisp) is good for writing transpilers (2020)](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/)
+- [OpenFaaS Clojure Template](https://github.com/tessellator/openfaas-clojure-template) - OpenFaaS template for writing functions in Clojure.
+- [Kalai Transpiler](https://github.com/echeran/kalai) - Source-to-source transpiler from Clojure to other languages (Rust, Java, C++, ...).
+- [Sayid](https://github.com/clojure-emacs/sayid) - Debugger for Clojure.
+- ["Inside core.async Channels" by Rich Hickey (2014)](https://www.youtube.com/watch?v=hMEX6lfBeRM)
+- [Circular Programming in Clojure (2021)](https://cuddly-octo-palm-tree.com/posts/2021-11-21-circular-clojure/)
+- [Abstract Clojure (2021)](https://www.juxt.pro/blog/abstract-clojure)
+- [Clojure and ClojureScript Posts](https://quanttype.net/tags/clojure.html)
+- [makejack](https://github.com/hugoduncan/makejack) - Clojure CLI build tool, and build library.
+- [Typed Clojure](https://github.com/typedclojure/typedclojure) - Optional typing in Clojure, as a library.
+- [London Clojurians - YouTube](https://www.youtube.com/c/LondonClojurians/videos)
+- [re:Clojure Conference 2021](https://www.youtube.com/watch?v=3C1QQXEg_F8)
+- ["The Genuine Sieve of Eratosthenes" in Clojure (2021)](https://cuddly-octo-palm-tree.com/posts/2021-12-05-sieve/)
+- [High-Performance Schemas in Clojure/Script with Malli 1/2 (2021)](https://www.metosin.fi/blog/high-performance-schemas-in-clojurescript-with-malli-1-2/)
+- [Understanding Clojure's Persistent Vectors (2013)](https://hypirion.com/musings/understanding-persistent-vector-pt-1) ([HN](https://news.ycombinator.com/item?id=29483316))
+- [Sublime ❤︎ Clojure (2021)](https://tonsky.me/blog/sublime-clojure/) ([HN](https://news.ycombinator.com/item?id=29549392))
+- [Clojure Macros and Metaprogramming](https://clojure-doc.github.io/articles/language/macros/)
+- [Microservices with Clojure (2018)](https://www.packtpub.com/product/microservices-with-clojure/9781788622240) ([Code](https://github.com/PacktPublishing/Microservices-with-Clojure))
+- [Build Clojure app into Container Image using jib (docker-less build)](https://github.com/atomisthq/jibbit)
+- [Clojure is a better Java than Java (2019)](https://purelyfunctional.tv/article/clojure-is-a-better-java-than-java/) ([Lobsters](https://lobste.rs/s/hewp3b/clojure_is_better_java_than_java))

@@ -13,3 +13,13 @@
 - [SWDEV](https://github.com/mizchi/swdev) - No bundle frontend by service-worker.
 - [Now THAT’S What I Call Service Worker! (2021)](https://alistapart.com/article/now-thats-what-i-call-service-worker/)
 - [mho](https://github.com/ef4/mho) - Experimental service-worker based build system.
+- [tsdotnet / parallel](https://github.com/tsdotnet/parallel) - Utility for automatically partitioning tasks (promises) and executing them in parallel using separate processes or web workers.
+- [super-workers](https://github.com/softvar/super-workers) - Distribute load on front-end via parallelism.
+- [Hamsters.js](https://github.com/austinksmith/Hamsters.js) - 100% Vanilla Javascript Multithreading & Parallel Execution Library. ([Web](https://hamsters.io/))
+- [promise-worker](https://github.com/nolanlawson/promise-worker) - Promise-based messaging for Web Workers and Service Workers.
+- [Service Worker Launch Event](https://github.com/WICG/sw-launch)
+- [Adapting caching to your needs - Unpacking the Workbox (2021)](https://www.youtube.com/watch?v=BO9fplbCTuQ)
+- [msgr](https://github.com/sdgluck/msgr) - Makes communication between a client and service worker super easy.
+- [Background processing with JS apps tips (2021)](https://twitter.com/flybayer/status/1473375368761511938)
+- [isoworker](https://github.com/101arrowz/isoworker) - Isomorphic workerization with context in 6kB.
+- [Add a Service Worker to Your Site](https://css-tricks.com/add-a-service-worker-to-your-site/)

@@ -9,6 +9,10 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [IRC](https://github.com/matrix-org/matrix-ircd)
 - [WhatsApp](https://github.com/tulir/mautrix-whatsapp)
 
+## Bots
+
+- [hebbot](https://github.com/haecker-felix/hebbot) - Matrix bot which can generate "This Week in X" like blog posts.
+
 ## Notes
 
 - Dendrite: You don't need to run Kafka unless working on distributed stuff. It is composed of several microservices (room server, sync api, media api...). Kafka is used to transfer messages between those microservices.
@@ -71,3 +75,12 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [matrix-media-repo](https://github.com/turt2live/matrix-media-repo) - Matrix media repository with multi-domain in mind.
 - [Sygnal](https://github.com/matrix-org/sygnal) - Reference Push Gateway for Matrix.
 - [Public Rooms - Matrix Static](https://view.matrix.org/) - Static Go generated preview of public world readable Matrix rooms. ([Code](https://github.com/matrix-org/matrix-static))
+- [Gotrix](https://github.com/chanbakjsd/gotrix) - Implementation of the client portion of Matrix's client-server API.
+- [Element One](https://ems.element.io/element-one) - All of Matrix, WhatsApp, Signal and Telegram in one place. ([Article](https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/)) ([HN](https://news.ycombinator.com/item?id=28997898))
+- [Is Matrix less private than other E2EE messaging protocols? (2019)](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md) ([HN](https://news.ycombinator.com/item?id=29105098))
+- [Hemppa](https://github.com/vranki/hemppa) - Generic modular bot for Matrix.
+- [Matrix Discord Bridge](https://github.com/Half-Shot/matrix-appservice-discord)
+- [Sign in with Matrix](https://github.com/mishushakov/signin-with-matrix) - Federated sign-in component for your web app (using Matrix). ([HN](https://news.ycombinator.com/item?id=29240154))
+- [OCaml matrix](https://github.com/clecat/ocaml-matrix) - Implementation of a matrix server in OCaml for MirageOS.
+- [Awesome Matrix](https://github.com/jryans/awesome-matrix)
+- [Matrix Corporal](https://github.com/devture/matrix-corporal) - Reconciliator and gateway for a managed Matrix server.

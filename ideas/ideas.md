@@ -19,6 +19,7 @@ I try to give my full attention to any ideas I am working on.
 - [Personal website is the perfect side project / try out new ideas / learn new things playground.](https://twitter.com/Gavmn/status/1399089921814634501)
 - [If I have an apple and you have an apple and we exchange them, we both still have one apple. However, if I have an idea and you also have an idea and we exchange them, we both have two ideas.](https://twitter.com/Julian/status/1411882234970132481)
 - [Audience (who needs help?) > Problem (what do they need help with?) > Product (this solves a problem for my audience) > Success](https://twitter.com/PocketBryan/status/1438615537987293191)
+- [Only 4 out of 70+ projects I ever did made money and grew. > 95% of everything I ever did failed. My hit rate is only about ~5%. So...ship more.](https://twitter.com/levelsio/status/1457315274466594817)
 
 ## Links
 
@@ -107,3 +108,11 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: How do you validate your startup idea when you've no distribution? (2021)](https://news.ycombinator.com/item?id=28263375)
 - [If you could rewrite anything from scratch, what would it be? (2021)](https://lobste.rs/s/sdum3p/if_you_could_rewrite_anything_from)
 - [Minimum Viable Testing framework (2021)](https://twitter.com/gaganbiyani/status/1438505843444502539)
+- [Ideas for Software that People Would Actually Use](https://github.com/Divide-By-0/app-ideas-people-would-use)
+- [Startup Ideas](https://www.gwern.net/Startup-ideas) ([HN](https://news.ycombinator.com/item?id=28757980))
+- [Being a maker is 1% ideas, 99% mindset. Tips (2021)](https://twitter.com/thisiskp_/status/1453012295391526924)
+- [Cool Ideas](https://github.com/0xngmi/ideas)
+- [Self-Organizing Ideas (2021)](https://subconscious.substack.com/p/self-organizing-ideas)
+- [Ask HN: Those making $500/month on side projects in 2021 – Show and tell (2021)](https://news.ycombinator.com/item?id=29667095)
+- [Ask HN: How do you validate demand for your side-project? (2021)](https://news.ycombinator.com/item?id=29691811)
+- [Ask HN: Who Wants to Collaborate? (2022)](https://news.ycombinator.com/item?id=29759115)

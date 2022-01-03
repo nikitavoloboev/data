@@ -34,7 +34,7 @@
 - [Vulkan Diagrams](https://github.com/David-DiGioia/vulkan-diagrams) - Diagrams showing relationships between Vulkan objects and how they're used.
 - [TAA-STAR](https://github.com/cg-tuwien/TAA-STAR) - C++/Vulkan Implementations of State of the Art Temporal Anti-Aliasing Techniques.
 - [vkvg](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library.
-- [Practical guide to graphics programming with Vulkan](https://vkguide.dev/)
+- [Practical guide to graphics programming with Vulkan](https://vkguide.dev/) ([Code](https://github.com/vblanco20-1/vulkan-guide))
 - [Vulkan Ecosystem Tools](https://github.com/LunarG/VulkanTools) - Tools to aid in Vulkan development including useful layers, trace and replay, and tests.
 - [VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) - Modern, cross platform, high performance scene graph library built upon Vulkan graphics/compute API. ([Web](https://vsg-dev.github.io/VulkanSceneGraph/))
 - [Vulkan-Headers](https://github.com/KhronosGroup/Vulkan-Headers) - Vulkan Header files and API registry.
@@ -48,3 +48,16 @@
 - [Different techniques for order-independent transparency in Vulkan](https://github.com/nvpro-samples/vk_order_independent_transparency)
 - [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library. ([Web](https://gpuopen.com/vulkan-memory-allocator/)) ([HN](https://news.ycombinator.com/item?id=27903884))
 - [Simplified Vulkan Synchronization](https://github.com/Tobski/simple_vulkan_synchronization) - Single-header library with a simplified interface for Vulkan synchronization.
+- [Samples to illustrate Vulkan API on Android](https://github.com/googlesamples/android-vulkan-tutorials)
+- [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap) - Vulkan bootstraping library.
+- [vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig.
+- [Racket Vulkan](https://github.com/zyrolasting/racket-vulkan) - Vulkan API integration and utilities for Racket.
+- [Granite](https://github.com/Themaister/Granite) - Personal Vulkan renderer.
+- [Vulkan-ExtensionLayer](https://github.com/KhronosGroup/Vulkan-ExtensionLayer) - Layer providing Vulkan features when native support is unavailable.
+- [Vulkan API Specification and related tools](https://github.com/KhronosGroup/Vulkan-Docs)
+- [Descriptorless Rendering in Vulkan (2021)](https://msiglreith.gitbook.io/blog/descriptorless-rendering-in-vulkan)
+- [Shaderc](https://github.com/google/shaderc) - Collection of tools, libraries, and tests for Vulkan shader compilation.
+- [shaderc-rs](https://github.com/google/shaderc-rs) - Rust bindings for the shaderc library.
+- [kajiya](https://github.com/EmbarkStudios/kajiya) - Experimental real-time global illumination renderer made with Rust and Vulkan. ([Homegrown rendering with Rust
+  ](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)) ([HN](https://news.ycombinator.com/item?id=29626406)) ([HN](https://news.ycombinator.com/item?id=29711495))
+- [Toy renderer written in C using Vulkan to perform real-time ray tracing research](https://github.com/MomentsInGraphics/vulkan_renderer)

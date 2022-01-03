@@ -1,5 +1,9 @@
 # [Minecraft](https://www.minecraft.net/en-us/)
 
+## Notes
+
+- [Minecraft servers can serve as great private social networks for your friends.](https://news.ycombinator.com/item?id=29470565)
+
 ## Links
 
 - [Minehut](https://minehut.com/) - Free Minecraft Server Hosting.
@@ -69,3 +73,24 @@
 - [Minecraft Console Client](https://github.com/ORelio/Minecraft-Console-Client) - Lightweight app allowing you to connect to any Minecraft server, send commands and receive text messages in a fast and easy way.
 - [PufferPanel](https://github.com/PufferPanel/PufferPanel) - Open source game server management panel, designed for both small networks and game server providers. Supports Minecraft, Forge, Spigot, Sponge, Source Dedicated Servers. ([Web](https://www.pufferpanel.com/))
 - [packwiz](https://github.com/comp500/packwiz) - Command-line tool for creating Minecraft modpacks.
+- [witchcraft](https://github.com/lambdaisland/witchcraft) - Clojure API for manipulating Minecraft, based on Bukkit.
+- [Telecraft](https://github.com/telecraft/telecraft) - Pluggable Minecraft server bridge and administration tools.
+- [Obsidian](https://github.com/ObsidianMC/Obsidian) - C# implementation of the Minecraft server protocol. (.NET 5).
+- [PocketMine-MP](https://pmmp.io/) - Server software for Minecraft: Bedrock Edition written in PHP. ([Code](https://github.com/pmmp/PocketMine-MP))
+- [ServerTap](https://github.com/phybros/servertap) - REST API for Bukkit/Spigot/Paper Minecraft servers. ([Web](https://servertap.io/))
+- [BuildTheEarth](https://buildtheearth.net/) - Recreating the entire planet in Minecraft.
+- [Sheaves in Minecraft (2021)](https://quoteme.github.io/posts/sheaves_in_minecraft) ([HN](https://news.ycombinator.com/item?id=29055847))
+- [The metaverse is already here – it's Minecraft (2021)](https://clivethompson.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2) ([HN](https://news.ycombinator.com/item?id=29083271))
+- [lazymc](https://github.com/timvisee/lazymc) - Put your Minecraft server to rest when idle.
+- [The Metaverse Is Already Here — It’s Minecraft (2021)](https://debugger.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2)
+- [Run Minecraft on Apple Silicon](https://github.com/ezfe/m1craft)
+- [PGM](https://github.com/PGMDev/PGM) - PvP Game Manager for Minecraft. ([Docs](https://pgm.dev/))
+- [mojang-api](https://github.com/Electroid/mojang-api) - Bundle multiple Minecraft APIs into a single GET request.
+- [Replicating Minecraft World Generation in Python (2021)](https://towardsdatascience.com/replicating-minecraft-world-generation-in-python-1b491bc9b9a4)
+- [Three.js powered Minecraft skin viewer](https://bs-community.github.io/skinview3d/) ([Code](https://github.com/bs-community/skinview3d))
+- [Delta Client](https://github.com/stackotter/delta-client) - Open source rewrite of Minecraft Java Edition written in Swift for macOS. (([Web](https://delta.stackotter.dev/)))
+- [One decade later, Minecraft world generation is interesting again (2021)](https://dither8.xyz/blog/minecraft-cliffs-terrain/) ([HN](https://news.ycombinator.com/item?id=29446877))
+- [Very powerful 1Hz Minecraft CPU (2021)](https://www.youtube.com/watch?v=FDiapbD0Xfg) ([Lobsters](https://lobste.rs/s/isyomf/very_powerful_1hz_minecraft_cpu))
+- [mc-proxy](https://github.com/101arrowz/mc-proxy) - Fully functional proxy for online and offline-mode Minecraft servers.
+- [Mycelium](https://github.com/nikhiljha/mycelium) - Deploy planet-scale Minecraft server networks on Kubernetes.
+- [KubeJS](https://github.com/KubeJS-Mods/KubeJS) - Multi-modloader Minecraft mod which lets you create scripts in JavaScript. ([Web](https://kubejs.com/))

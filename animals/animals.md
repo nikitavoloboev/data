@@ -36,6 +36,14 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Gentle Bees](https://twitter.com/texasbeeworks/status/1370395889718681605)
 - [Don't give up](https://twitter.com/benphillips76/status/1376430374121828352)
 - [Rabbit surreptitiously stretches within reach of kisses](https://www.reddit.com/r/aww/comments/i3l7k4/how_to_surreptitiously_stretch_within_reach_of/)
+- [Level of devotion of sea otter mothers for their pups](https://twitter.com/Rainmaker1973/status/1448723919737872384)
+- [Sea Otters hold hands with their friends and family members whilst sleeping. This is so they don't drift apart, and lose each other.](https://twitter.com/gunsnrosesgirl3/status/1449373228242198533)
+- [hedgehog dust-bathing](https://twitter.com/Rainmaker1973/status/1459931869110226951)
+- [foxes: us](https://twitter.com/qonqon_biyori/status/1459849427934269440)
+
+## Notes
+
+- [Dogs evolved to live with humans when we had very different lifestyles. Most people no longer have lives and jobs which align with the social & mental needs of a dog. That leads to a very one sided relationship where the dog's needs get overly relegated or neglected. Therefore most people shouldn't own a dog, especially not just one.](https://news.ycombinator.com/item?id=29055956)
 
 ## Links
 
@@ -99,3 +107,15 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [GBIF](https://www.gbif.org/) - Free and open access to biodiversity data.
 - [Wonderful Life : The Burgess Shale and the Nature of History](https://www.bookdepository.com/Wonderful-Life-Stephen-Jay-Gould/9780393307009)
 - [Massive animal species discovered in half-billion-year-old Burgess Shale](https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old) ([HN](https://news.ycombinator.com/item?id=28462182))
+- [Modern Crocodiles Are Evolving at a Rapid Rate (2021)](https://www.smithsonianmag.com/science-nature/modern-crocodiles-are-evolving-rapid-rate-180978432/) ([HN](https://news.ycombinator.com/item?id=28808741))
+- [How Animals Map 3D Spaces Surprises Brain Researchers (2021)](https://www.quantamagazine.org/how-animals-map-3d-spaces-surprises-brain-researchers-20211014/)
+- [Animals that live at the ocean's surface](https://twitter.com/RebeccaRHelm/status/1450642339521863690)
+- [How to Map a Fly Brain in 20 Million Easy Steps (2021)](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html)
+- [Why do dogs tilt their heads? New study offers clues](https://www.science.org/content/article/why-do-dogs-tilt-their-heads-new-study-offers-clues) ([HN](https://news.ycombinator.com/item?id=29034364))
+- [Arctic sea ice is disappearing and it’s harming polar bears (2021)](https://projects.apnews.com/features/2021/polar-bears-sea-ice/index.html)
+- [To Save the Whales, Feed the Whales (2021)](https://www.theatlantic.com/science/archive/2021/11/whaling-whales-food-krill-iron/620604/)
+- [How We Domesticated Cats (Twice)](https://www.youtube.com/watch?v=CYPJzQppANo)
+- [Parrots Will Share Currency to Help Their Pals Purchase Food](https://www.smithsonianmag.com/science-nature/parrots-share-currency-help-their-pals-purchase-food-180973917/) ([HN](https://news.ycombinator.com/item?id=29328865))
+- [Labka](https://labka.app/) - Your home base for adopting pets.
+- [Tardigrades walk like insects 500k times their size (2021)](https://arstechnica.com/science/2021/12/nifty-biomechanics-of-adorable-water-bears-lumbering-gait-may-inspire-microrobots/) ([HN](https://news.ycombinator.com/item?id=29717681))
+- [Louis Wain: The artist who changed how we think about cats](https://www.bbc.com/news/uk-england-london-59518847) ([HN](https://news.ycombinator.com/item?id=29711686))

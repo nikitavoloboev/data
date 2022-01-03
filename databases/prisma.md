@@ -40,7 +40,7 @@
 - [Prettier plugin for Prisma](https://github.com/umidbekk/prettier-plugin-prisma)
 - [NextJS with Prisma](https://github.com/chenkie/next-prisma) - Sample project shows how to use NextJS with Prisma.
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) - Extend Prisma's findMany method to support Relay Cursor Connections.
-- [Prisma DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator) - Automatically generate a DBML schema from your Prisma Schema.
+- [Prisma DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator) - Automatically generate a DBML schema from your Prisma Schema. ([Article](https://notiz.dev/blog/prisma-dbml-generator))
 - [Hassle-Free Database Migrations with Prisma Migrate (2021)](https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b) ([HN](https://news.ycombinator.com/item?id=26480466))
 - [nexus-prisma](https://github.com/prisma/nexus-prisma) - Official Prisma plugin for Nexus.
 - [How to deploy Prisma in AWS Lambda with Serverless (2021)](https://dev.to/eddeee888/how-to-deploy-prisma-in-aws-lambda-with-serverless-1m76) ([Code](https://github.com/eddeee888/topic-prisma-aws-lambda-deployment))
@@ -67,3 +67,21 @@
 - [Set up a free PostgreSQL database on Supabase to use with Prisma (2021)](https://dev.to/prisma/set-up-a-free-postgresql-database-on-supabase-to-use-with-prisma-3pk6)
 - [Prisma Schema Examples](https://github.com/prisma/templates) - Ready-to-use Prisma schema examples.
 - [zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod.
+- [Prisma Documentation Generator](https://github.com/pantharshit00/prisma-docs-generator) - Automatically generate a reference from your Prisma Schema.
+- [Prisma project with Nix](https://github.com/pimeys/nix-prisma-example)
+- [Upload and display images using Prisma (2021)](https://mediajams.dev/post/upload-and-display-images-using-prisma)
+- [Prisma e2e Tests](https://github.com/prisma/e2e-tests) - Continuously tests Prisma Client on various operating systems, frameworks and platforms.
+- [Declarative Prisma Authorization layer](https://github.com/joindeed/prisma-auth)
+- [Prisma JSON Schema Generator](https://github.com/valentinpalkovic/prisma-json-schema-generator) - Generator, which takes a Prisma 2 schema.prisma and generates a JSON Schema.
+- [Prisma Entity Relationship Diagram Generator](https://github.com/keonik/prisma-erd-generator)
+- [Prisma TypeGraphQL Types Generator](https://github.com/YassinEldeeb/prisma-tgql-types-gen)
+- [Prisma Serverless Conference 2021 - YouTube](https://www.youtube.com/watch?v=fAcHR5dqt_4)
+- [Prisma Migrate: Deploy Migration with Docker (2021)](https://notiz.dev/blog/prisma-migrate-deploy-with-docker)
+- [Prisma Chats with Shanon Jackson - end-to-end type safety with Next.js and Prisma (2021)](https://www.youtube.com/watch?v=ur-SYNqADTY)
+- [Zod Prisma](https://github.com/CarterGrimmeisen/zod-prisma) - Custom Prisma generator that creates Zod schemas from your Prisma model.
+- [Transparent field-level encryption at rest for Prisma](https://github.com/47ng/prisma-field-encryption)
+- [Prisma Schema Builder](https://www.prismabuilder.io/) - Build your Prisma schema visually in this easy-to-use web based tool. ([Code](https://github.com/albingroen/prismabuilder.io))
+- [Improving the Prisma VS Code Extension with WebAssembly (2021)](https://www.prisma.io/blog/vscode-extension-prisma-rust-webassembly)
+- [prisma-fmt-wasm](https://github.com/prisma/prisma-fmt-wasm) - Build logic to package the prisma-fmt engine into a Node package as a WASM module.
+- [GraphQL-Schema-Generator for Prisma](https://github.com/prisma-korea/graphql-schema-generator)
+- [Prisma Data Platform](https://cloud.prisma.io/)

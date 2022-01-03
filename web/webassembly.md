@@ -1,5 +1,7 @@
 # [WebAssembly](https://webassembly.org/)
 
+[Wasmer](https://docs.wasmer.io/) is great runtime to execute WebAssembly on the server.
+
 ## Links
 
 - [WebAssemblyLanguages](https://github.com/AppCypher/WebAssemblyLanguages)
@@ -71,7 +73,7 @@
 - [Wasminspect](https://github.com/kateinoigakukun/wasminspect) - Interactive Debugger for WebAssembly.
 - [Run Clang in WebAssembly](https://github.com/wapm-packages/clang)
 - [Wasienv](https://github.com/wasienv/wasienv) - WASI Development Toolchain for C/C++.
-- [Enarx](https://github.com/enarx/enarx) - Application deployment system enabling applications to run within Trusted Execution Environments (TEEs) without rewriting for particular platforms or SDKs. ([Web](https://enarx.dev/)) ([Wiki](https://github-wiki-see.page/m/enarx/enarx/wiki/chat.enarx.dev))
+- [Enarx](https://github.com/enarx/enarx) - Application deployment system enabling applications to run within Trusted Execution Environments (TEEs) without rewriting for particular platforms or SDKs. ([Web](https://enarx.dev/)) ([Wiki](https://github-wiki-see.page/m/enarx/enarx/wiki/chat.enarx.dev)) ([Technical Introduction to Enarx](https://www.youtube.com/watch?v=Ku9h1i4tCyQ)) ([Explained](https://www.youtube.com/watch?v=ajYWSAwIyPs))
 - [What’s in that .wasm? Introducing: wasm-decompile (2020)](https://v8.dev/blog/wasm-decompile) ([HN](https://news.ycombinator.com/item?id=23006501))
 - [First impressions on Rust and Webassembly (2020)](https://techadv.xyz/posts/rust-wasm/)
 - [Build your own WebAssembly Compiler (2019)](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
@@ -107,7 +109,7 @@
 - [wasi-fs-access](https://github.com/GoogleChromeLabs/wasi-fs-access) - Demo shell powered by WebAssembly, WASI, Asyncify and File System Access API.
 - [WASI Libc](https://github.com/WebAssembly/wasi-libc) - Libc for WebAssembly programs built on top of WASI system calls.
 - [Low-Level Academy WebAssembly modules](https://github.com/LowLevelAcademy/wasm-modules)
-- [trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [Trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web. ([Web](https://trunkrs.dev/))
 - [wasmbin](https://github.com/GoogleChromeLabs/wasmbin) - Self-generating WebAssembly parser & serializer in Rust. ([Article](https://rreverser.com/wasmbin-yet-another-webassembly-parser-serializer/))
 - [Sourcegraph Podcast: Syrus Akbary, founder and CEO of Wasmer (2020)](https://about.sourcegraph.com/podcast/syrus-akbary/)
 - [Go, WebAssembly, HTTP requests and Promises (2020)](https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html)
@@ -195,3 +197,55 @@
 - [run-wasm](https://github.com/slipHQ/run-wasm) - Run WASM based code executions in the browser easily.
 - [Hippo](https://github.com/deislabs/hippo) - WebAssembly PaaS. Easiest way to deploy and serve applications compiled to WebAssembly. ([Docs](https://docs.hippofactory.dev/)) ([Intro](https://deislabs.io/posts/introducing-hippo/))
 - [wamr-swift](https://github.com/swiftwasm/wamr-swift) - Swift WebAssembly runtime powered by WAMR.
+- [Sat](https://github.com/suborbital/sat) - Tiny WebAssembly compute module.
+- [Suborbital](https://suborbital.dev/) - Build web services in an entirely new way with Atmo, our open source framework, to harness the power of cloud native WebAssembly. ([GitHub](https://github.com/suborbital)) ([Twitter](https://twitter.com/SuborbitalDev))
+- [Foundations: Wasm in Golang is fantastic (2021)](https://blog.suborbital.dev/foundations-wasm-in-golang-is-fantastic)
+- [DAPR WASM](https://github.com/second-state/dapr-wasm) - Template project to demonstrate how to run WebAssembly functions as sidecar microservices in dapr.
+- [wasup](https://github.com/NicholasLYang/wasup) - Zero-dependency, isomorphic library for emitting WebAssembly.
+- [WasmCert](https://github.com/Huxpro/WasmCert) - Coq mechanization of WebAssembly specification.
+- [WebAssembly Website Code](https://github.com/WebAssembly/website)
+- [wasmCloud Host Runtime](https://github.com/wasmCloud/wasmcloud-otp) - Server process that securely hosts and provides dispatch for actors and capability providers.
+- [How I Failed to Change Wasmer (2021)](https://mnt.io/2021/10/04/i-leave-wasmer/) ([HN](https://news.ycombinator.com/item?id=28772863))
+- [witx-bindgen](https://github.com/bytecodealliance/witx-bindgen) - Bindings generator framework for WebAssembly programs and embeddings of WebAssembly.
+- [Pikt.js](https://github.com/arnau/piktjs) - WebAssembly JavaScript library for Pikchr.
+- [Multi Memory Proposal for WebAssembly](https://github.com/WebAssembly/multi-memory)
+- [Wasp](https://github.com/pannous/wasp) - WASM Programming Language. ([HN](https://news.ycombinator.com/item?id=29117478))
+- [Emception](https://github.com/jprendes/emception) - Compile C/C++ code with Emscripten in the browser.
+- [WASICaml](https://github.com/remixlabs/wasicaml) - Translate OCaml bytecode to WebAssembly.
+- [ZBar.wasm](https://github.com/samsam2310/zbar.wasm) - WASM build of C/C++ ZBar barcode scanning library.
+- [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - wasm-pack plugin for Vite.
+- [WebAssembly for Proxies (Rust SDK)](https://github.com/proxy-wasm/proxy-wasm-rust-sdk)
+- [Building Rust WASM projects with Nix (2021)](https://www.tomhoule.com/building-rust-wasm-with-nix-flakes/) ([Code](https://github.com/tomhoule/rust-nix-wasm32-unknown-unknown-example))
+- [Wasi Tools](https://github.com/WebAssembly/wasi-tools)
+- [wasm-streams](https://github.com/MattiasBuelens/wasm-streams) - Bridging between web streams and Rust streams using WebAssembly.
+- [Module Linking proposal](https://github.com/WebAssembly/module-linking) - Proposal for allowing modules to define, import and export modules and instances.
+- [Subwasm](https://github.com/chevdor/subwasm) - CLI utility to help you know more about WASM Runtimes.
+- [js-wasm](https://github.com/richardanaya/js-wasm) - JavaScript-WebAssembly interop library for C, Rust, Assemblyscript.
+- [wasm-pack-template](https://github.com/rustwasm/wasm-pack-template) - Template for kick starting a Rust and WebAssembly project using wasm-pack.
+- [embedded-wasm-apps](https://github.com/vshymanskyy/embedded-wasm-apps) - Run statically-compiled WebAssembly apps on any embedded platform.
+- [WebAssembly-in Go](https://github.com/cohix/gophercon-21)
+- [WASM Extension Template](https://github.com/Mubelotix/wasm-extension-template) - Allows you to generate a "Hello World" web extension running a Rust program compiled to WASM.
+- [wasm2native](https://github.com/vshymanskyy/wasm2native) - Turn WASI apps into native executables.
+- [Interface Types Proposal for WebAssembly](https://github.com/WebAssembly/interface-types)
+- [Rust WASM Virtual Machine](https://github.com/dusk-network/rusk-vm)
+- [ES Module Integration Proposal for WebAssembly](https://github.com/WebAssembly/esm-integration)
+- [Chasm](https://github.com/ColinEberhardt/chasm) - Simple compile-to-WebAssembly language. ([Web](https://colineberhardt.github.io/chasm/))
+- [Introduction to WebAssembly components (2021)](https://radu-matei.com/blog/intro-wasm-components/) ([Reddit](https://www.reddit.com/r/WebAssembly/comments/rigbap/introduction_to_webassembly_components/)) ([HN](https://news.ycombinator.com/item?id=29591071))
+- [WASM components example](https://github.com/radu-matei/wasm-components-example)
+- [wasi-nn](https://github.com/WebAssembly/wasi-nn) - Neural Network proposal for WASI.
+- [Tail Call Proposal for WebAssembly](https://github.com/WebAssembly/tail-call)
+- [Threads Proposal for WebAssembly](https://github.com/WebAssembly/threads)
+- [Javy](https://github.com/Shopify/javy) - Run your JavaScript on WebAssembly.
+- [Swam](https://github.com/satabin/swam) - WebAssembly interpreter written in Scala with the cats library. ([Web](https://swam.gnieh.org/))
+- [w2c2](https://github.com/turbolent/w2c2) - Translates WebAssembly modules to C.
+- [WASM Internals](https://a-j.gitbook.io/wasm-experimentation/wasm-internals-1) - Deep dive into the WASM internal structure and behaviour. ([Code](https://github.com/antferdom/wasm_playground))
+- [WASM Component Model design and specification](https://github.com/WebAssembly/component-model)
+- [serde-wasm-bindgen](https://github.com/cloudflare/serde-wasm-bindgen) - Native integration of Serde with wasm-bindgen.
+- [WebAssembly Feature Detection](https://github.com/GoogleChromeLabs/wasm-feature-detect) - Small library to detect which features of WebAssembly are supported.
+- [JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler.
+- [Envoy WASM with external gRPC server](https://github.com/salrashid123/envoy_wasm)
+- [Shared Channel for WebAssembly](https://github.com/wasm-rs/shared-channel)
+- [Async Executor for WebAssembly](https://github.com/wasm-rs/async-executor)
+- [wasmblr](https://github.com/bwasti/wasmblr) - C++ WebAssembly assembler.
+- [Faster TypedArrays: Vector Addition in WebAssembly](https://jott.live/markdown/wasm_vector_addition) ([HN](https://news.ycombinator.com/item?id=29770238))
+- [rustwasmc](https://github.com/second-state/rustwasmc) - Rust compiler toolkit for WebAssembly apps in the WasmEdge Runtime.

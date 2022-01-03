@@ -1,8 +1,13 @@
 # United States
 
+Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/status/1475164511766294529).
+
 ## Notes
 
 - [Most cost-effective way (aka costs nothing) to get to work in the US is to get hired by a multinational Corp and after 1 year get an L visa and move to the US.](https://twitter.com/copyconstruct/status/1280953429527900160)
+- [US has exit tax when renouncing citizenship if net worth is $2m+ or high federal taxes or not compliant; easier to leave before triggering. If just leaving to live overseas, you still must file and pay USA subject to exclusions, treaties, credits, etc](https://twitter.com/nomadcapitalist/status/1454574254566019080)
+- [If the USA had a core KPI, it would be immigration. It has a monopoly on ambitious migrants—if that disappears, the product inevitably fails.](https://twitter.com/cpaik/status/1459534475042435083)
+- [Puerto Rico due to Act 60 decree allows you to pay no capital gains for 15 years, while keeping US citizenship.](https://www.reddit.com/r/fatFIRE/comments/rj6iju/moving_form_switzerland_to_the_beautiful_united/)
 
 ## Links
 
@@ -70,3 +75,33 @@
 - [List of Atrocities committed by US authorities](https://dessalines.github.io/essays/us_atrocities.html)
 - [List of hate crimes in the US](https://dessalines.github.io/essays/us_hate_crimes.html)
 - [The Last Glimpses of California's Vanishing Hippie Utopias (2021)](https://www.gq.com/story/californias-vanishing-hippie-utopias)
+- [Worst parts of US history](https://twitter.com/isaiah_bb/status/1442205678131687432)
+- [Kidnapping, assassination and a London shoot-out: Inside the CIA's secret war plans against WikiLeaks (2021)](https://news.yahoo.com/kidnapping-assassination-and-a-london-shoot-out-inside-the-ci-as-secret-war-plans-against-wiki-leaks-090057786.html) ([Tweet](https://twitter.com/chrislhayes/status/1442338530429227009))
+- [Foreign Affairs](https://www.foreignaffairs.com/) - Forum for serious discussion of American foreign policy and global affairs.
+- [Open Source Tax Software (2021)](http://ctskennerton.github.io/2021/08/30/open-source-tax-software/) ([HN](https://news.ycombinator.com/item?id=28755034))
+- [Forward Party](https://www.forwardparty.com/) - Not Left. Not Right. Forward. By Andrew Yang. ([HN](https://news.ycombinator.com/item?id=28766825))
+- [Timeline of United States inventions](https://en.wikipedia.org/wiki/Timeline_of_United_States_inventions)
+- [The Off-Grid Laws of Every State in America (2021)](https://www.primalsurvivor.net/living-off-grid-legal/)
+- [Top 1% of U.S. Earners Now Hold More Wealth Than All of the Middle Class (2021)](https://www.bloomberg.com/news/articles/2021-10-08/top-1-earners-hold-more-wealth-than-the-u-s-middle-class) ([Reddit](https://www.reddit.com/r/Economics/comments/q5dub2/top_1_of_us_earners_now_hold_more_wealth_than_all/)) ([HN](https://news.ycombinator.com/item?id=28826646))
+- [Why America Imploded. What Americans Still Don’t Understand. (2021)](https://eand.co/why-america-imploded-d52db893acc6) ([Tweet](https://twitter.com/smdiehl/status/1447838693839024132))
+- [When 10 major S.F. Bay Area transportation projects will be done (2021)](https://www.sfchronicle.com/projects/2021/sf-bay-area-transportation-projects/) ([Tweet](https://twitter.com/chrisarvinsf/status/1450835293209194507))
+- [Transit Recovery](https://transitrecovery.com/) - Track restoration of transit service and ridership across the U.S.
+- [List of US amendments that were proposed but never ratified](https://twitter.com/radicalpragmat1/status/1450514588005457920)
+- [How American Billionaires Pass Wealth to Heirs Tax-Free (2021)](https://www.bloomberg.com/features/how-billionaires-pass-wealth-to-heirs-tax-free-2021/) ([HN](https://news.ycombinator.com/item?id=29001788))
+- [Internal Revenue Service (IRS)](https://www.irs.gov/) - Responsible for collecting taxes and administering the Internal Revenue Code.
+- [Would any of you guys live in the USA , or stay in Netherlands? (2021)](https://www.reddit.com/r/Netherlands/comments/qjmds0/would_any_of_you_guys_live_in_the_usa_or_stay_in/)
+- [Culture Shock: Looking at the United States as an Indian, two months in (2021)](https://siddhesh.substack.com/p/culture-shock) ([HN](https://news.ycombinator.com/item?id=29073899))
+- [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA (2021)](https://news.ycombinator.com/item?id=29200687)
+- [Immigration as the new abortion (2021)](https://noahpinion.substack.com/p/immigration-as-the-new-abortion) - Why I'm still pessimistic that the Age of Immigration can be restored soon. ([Tweet](https://twitter.com/Noahpinion/status/1459339040507920390))
+- [Presidents of the USA 2021 Edition - Washington to Biden](https://www.youtube.com/watch?v=WF7OTl60cHE)
+- [I’m leaving London for NYC and taking my tech startup (2021)](https://sifted.eu/articles/brexit-london-new-york-leaving/) ([HN](https://news.ycombinator.com/item?id=29316357))
+- [All 63 us national parks ranked by experts (best to worst)](https://morethanjustparks.com/national-parks-ranked/)
+- [What happened to the U.S. economy since the end of World War II (2021)](https://www.collaborativefund.com/blog/how-this-all-happened/)
+- ['Tesla as the World’s Biggest Robot Company:' Elon Musk on AI and U.S. Innovation (2021)](https://www.youtube.com/watch?v=lSD_vpfikbE)
+- [Революция в США: как построить государство на века (2021)](https://www.youtube.com/watch?v=HvydAXhi8pQ)
+- [Why move to Miami (2021)](https://twitter.com/lpolovets/status/1471461238014033922)
+- [The Bay Area has become a large declining tech company (2021)](http://www.yared.com/2021/12/the-entire-bay-area-has-become-large.html) ([HN](https://news.ycombinator.com/item?id=29595614))
+- [Is America Really Running Out of Original Ideas? (2021)](https://www.theatlantic.com/ideas/archive/2021/12/america-really-running-out-original-ideas/621055/) ([Tweet](https://twitter.com/DKThomp/status/1472947306634821648))
+- [America Can't Beat Omicron One Booster at a Time (2021)](https://www.theatlantic.com/health/archive/2021/12/america-omicron-variant-surge-booster/621027/) ([Tweet](https://twitter.com/edyong209/status/1474080740094717964))
+- [10 things I love about US](https://twitter.com/amasad/status/1475933656078114817)
+- [The American Dream is on Life Support in the Bay Area (2021)](https://hariraghavan.com/0090c2645d2f4cbda95cc6cdbeec46e3) ([Tweet](https://twitter.com/garrytan/status/1475865310527778823))

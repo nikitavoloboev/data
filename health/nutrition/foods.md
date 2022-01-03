@@ -82,6 +82,10 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 
 - mushrooms
 
+## Notes
+
+- [There are many things about food that are legal in the US and forbidden in Europe. Parting agents, dry agents, biocides, certain breeding techniques, medication, disinfectants.](https://twitter.com/vonneudeck/status/1449432810981412872)
+
 ## Links
 
 - [Cheap healthy food](https://www.nomeatathlete.com/cheap-healthy-food/)
@@ -125,3 +129,13 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Three billion people cannot afford a healthy diet (2021)](https://ourworldindata.org/diet-affordability) ([Tweet](https://twitter.com/MaxCRoser/status/1422429018918375433)) ([HN](https://news.ycombinator.com/item?id=28047687))
 - [Let's talk about brain food (2021)](https://www.reddit.com/r/Nootropics/comments/p7hm5p/lets_talk_about_brain_food/)
 - [What are your favourite foods from your childhood?](https://www.reddit.com/r/AskARussian/comments/peib2y/what_are_your_favourite_foods_from_your_childhood/)
+- [I tried 30 mustards this summer (2021)](https://www.insidehook.com/article/food-and-drink/30-best-mustards-tried-summer) ([HN](https://news.ycombinator.com/item?id=28702922))
+- [Open Source Tractor](https://opensourceecology.dozuki.com/c/LifeTrac) ([HN](https://news.ycombinator.com/item?id=28827785))
+- [Growing food at Sea](https://100r.co/site/growing_food.html)
+- [Sprouting](https://grimgrains.com/site/sprouting.html)
+- [San Jose Is the Bay Area’s Great Immigrant Food City (2021)](https://www.kqed.org/arts/13904835/san-jose-immigrant-food) ([Tweet](https://twitter.com/theluketsai/status/1450864730348789762))
+- [Mojo Microdose Soft Chews](https://mojo.shop/)
+- [Fukuoka Eats](https://fukuokaeats.com/)
+- [Food Timeline](https://foodtimeline.org/) - Food history research service.
+- [What’s your favourite HEALTHY comfort food? (2021)](https://www.reddit.com/r/AskUK/comments/r2ron3/whats_your_favourite_healthy_comfort_food/)
+- [Food Politics by Marion Nestle](https://www.foodpolitics.com/)

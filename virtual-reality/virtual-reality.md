@@ -6,6 +6,11 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 
 - [Lambda1VR](https://github.com/DrBeef/Lambda1VR) - Port of the Xash3D-FWGS Half Life Engine to Oculus Quest.
 
+## Notes
+
+- [It’s only a metaverse if it’s decentralized and trustless, otherwise it’s just sparkling virtual reality.](https://twitter.com/max_hodak/status/1446651117899694083)
+- [Facebook has a patent for a real-time online ad auction system that turns "organic objects" within a virtual world into "sponsored objects". The patent describes a similar process for advertisers to bid on "sponsored locations" within the metaverse.](https://twitter.com/notjeffrichards/status/1458432253587906569)
+
 ## Links
 
 - [Glen Keane – Step into the Page](https://www.youtube.com/watch?v=GSbkn6mCfXE)
@@ -38,3 +43,22 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [LÖVR](https://lovr.org/) - Open source framework for rapidly building immersive 3D experiences. ([HN](https://news.ycombinator.com/item?id=28081656))
 - [Full-body tracking in VR using AprilTag markers](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker)
 - [LucidVR open source force feedback VR gloves](https://github.com/LucidVR/lucidgloves) ([HN](https://news.ycombinator.com/item?id=28340330))
+- [What it's like to spend 40-50 hours in VR every week (2021)](https://blog.immersed.team/working-from-orbit-39bf95a6d385) ([HN](https://news.ycombinator.com/item?id=28678041))
+- [SimulaVR](https://simulavr.com/) - Office-focused, standalone VR headset built on top of Linux. ([HN](https://news.ycombinator.com/item?id=28691358))
+- [Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices. ([HN](https://news.ycombinator.com/item?id=28869462))
+- [vrLauncher](https://github.com/basti564/vrLauncher) - Allows you to launch various /hidden/ options of the Oculus Quest.
+- [The metaverse is bad, sorry (2021)](https://www.theatlantic.com/technology/archive/2021/10/facebook-metaverse-name-change/620449/) ([Tweet](https://twitter.com/ibogost/status/1451291837650673665))
+- [Pimax](https://pimax.com/) - VR Headset | Virtual Reality Equipment. ([Twitter](https://twitter.com/pimaxofficial)) ([12k Reality Series](https://twitter.com/kentbye/status/1452740892708667393))
+- [Voices of VR Podcast](http://voicesofvr.com/)
+- [Facebook Connect 2021](https://www.youtube.com/watch?v=0294iXEPO4Y)
+- [Facebook Meta](https://about.facebook.com/meta/) ([HN](https://news.ycombinator.com/item?id=29029317)) ([Founder's Letter](https://about.fb.com/news/2021/10/founders-letter/)) ([Article](https://stratechery.com/2021/meta/))
+- [Interview with Mark Zuckerberg about the Metaverse (2021)](https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/) ([HN](https://news.ycombinator.com/item?id=29032196))
+- [The metaverse is bullshit (2021)](https://outline.com/DUdr8Y) ([HN](https://news.ycombinator.com/item?id=29045930))
+- [Billionaires See VR as a Way to Avoid Radical Social Change (2021)](https://www.wired.com/story/billionaires-use-vr-avoid-social-change/) ([Tweet](https://twitter.com/JoshuaPotash/status/1454128902687928331))
+- [Inevitabilities in Facebook’s Meta play: exploitation, crime, regulation](https://twitter.com/juliapowles/status/1454819169078177793)
+- [Ask HN: How is the “metaverse” concept different from the Second Life boom (2021)](https://news.ycombinator.com/item?id=29136478)
+- [Checklist for Virtual Reality game developers](https://github.com/SuperV1234/vr-game-checklist)
+- [Microsoft and the Metaverse (2021)](https://stratechery.com/2021/microsoft-and-the-metaverse/) ([HN](https://news.ycombinator.com/item?id=29163856))
+- [Rats in Doom VR](https://medium.com/mindsoft/rats-in-doom-eb6c52c73aca) ([HN](https://news.ycombinator.com/item?id=29341007))
+- [The Machine To Be Another](http://beanotherlab.org/home/work/tmtba/) - Embodiment Virtual Reality (EVR) System that credibly facilitates the Body Transfer Illusion.
+- [Trippy things to do with VR (2021)](https://twitter.com/dan_abramov/status/1471905282733260804)

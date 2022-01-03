@@ -12,3 +12,4 @@ I add `del` as part of the name contacts that are temporary. I then cleanup thes
 
 - [Monica](https://www.monicahq.com/) - Personal CRM. Remember everything about your friends, family and business relationships. ([Code](https://github.com/monicahq/monica))
 - [contactful](https://github.com/noahm/contactful) - Simple personal contact management system.
+- [node-mac-contacts](https://github.com/codebytere/node-mac-contacts) - Create, read, update, and delete contacts from users' contacts databases on macOS.

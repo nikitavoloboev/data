@@ -22,7 +22,7 @@
 - [Revisiting the Businesscard Raytracer (2020)](http://fabiensanglard.net/revisiting_the_businesscard_raytracer/index.html)
 - [Ray Tracing In Notepad.exe At 30 FPS (2020)](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html) ([HN](https://news.ycombinator.com/item?id=23246221))
 - [MentisOculi Pytorch Path Tracer](https://github.com/mmirman/MentisOculi)
-- [Ray Tracing implemented in multiple languages](https://github.com/matt77hias/smallpt)
+- [Ray Tracing implemented in multiple languages](https://github.com/matt77hias/smallpt) ([Web](http://www.kevinbeason.com/smallpt/))
 - [SwiftlyRT](https://github.com/sbehnke/SwiftlyRT) - Implementation of the Ray Tracer Challenge in Swift.
 - [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive (2020)](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
 - [Ray Tracer in OCaml](https://github.com/Kamirus/ray-tracer)
@@ -80,3 +80,9 @@
 - [Ray casting in 2D game engines](https://sszczep.github.io/ray-casting-in-2d-game-engines/) ([Code](https://github.com/sszczep/ray-casting-in-2d-game-engines)) ([Cheat Sheet](https://sszczep.github.io/ray-casting-in-2d-game-engines/cheatsheet.html))
 - [Ray tracer in Rust](https://github.com/brundonsmith/raytracer)
 - [Helios](https://github.com/diharaw/Helios) - Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
+- [Peter Shirley Ray Tracing (in C++ 17)](https://github.com/define-private-public/PSRayTracing)
+- [Simulating the Colors of the Sky](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/simulating-sky)
+- [Hybrid Ray Tracer in Go](https://github.com/KevinTchokodeu/Hybrid-Ray-Tracer)
+- [Hybrid Rendering](https://github.com/diharaw/HybridRendering) - Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline.
+- [Ray Tracing with POV-Ray: 25 scenes in 25 days (2013)](https://github.com/spcask/pov-ray-tracing) ([HN](https://news.ycombinator.com/item?id=29513332))
+- [Raytracing diamonds (2021)](https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html) ([HN](https://news.ycombinator.com/item?id=29695281))

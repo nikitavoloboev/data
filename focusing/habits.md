@@ -2,7 +2,7 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to ensure I complete my 6 daily habits I try to follow to live a [happy life](../life/happiness.md). The habits are chosen with great care and are a subset of my life [rules](rules.md) .
 
-![](https://i.imgur.com/0RLYD1c.png)
+![](https://i.imgur.com/yEVoYit.png)
 
 I get a notification every day at 20:00 on my phone to complete the habits.
 
@@ -16,9 +16,9 @@ I get a notification every day at 20:00 on my phone to complete the habits.
 
 `Focus | Impact` marked as done when I was not distracted by anything during the day (went through my todos one by one) (no analytics & pointless time wasters). I worked on my [goals](goals.md) & used time wisely. I was calm, mindful and happy.
 
-`Kind` marked as done when all/most of my [values](../business/startups/values.md) and [rules](rules.md) were held well. I showed love to people I care about. I was nice. I made new things and shared it.
+`Happy | Open / Kind` marked as done when all/most of my [values](../business/startups/values.md) and [rules](rules.md) were held well. I showed love to people I care about & myself (true love & letting go of any mistake/accident). I made new things and shared them. I was myself & unafraid of anything. Happiness is often a side effect of a nice day.
 
-`Plan | Reflect` marked as done when I made a plan for tomorrow and reflected on the day in [my journal](../looking-back/looking-back.md). Writing helps me clear up my mind and clean up life and my thinking.
+`Plan | Journal` marked as done when I made a plan for tomorrow and reflected on the day in [my journal](../looking-back/looking-back.md). Writing helps me clear up my mind and clean up life and my thinking. Planning includes: 1. Calendar check. 2. Tasks (for next day, especially important to define the first task!). Everything is planned as per the week goals.
 
 ## New habits
 
@@ -38,6 +38,6 @@ I try learn new habits proactively by building systems and thought processes tha
 - [Ask HN: What’s your daily/weekly routine? (2020)](https://news.ycombinator.com/item?id=24029286)
 - [The Proof](https://www.theproofwellness.com/) - Wellness Advice from World-Class Founders.
 - [Make your habits zero-effort](https://www.benkuhn.net/zero/)
-- [Atomic Habits](https://jamesclear.com/atomic-habits) - Tiny Changes, Remarkable Results. ([Summary](https://twitter.com/justinkan/status/1352040558198329344))
+- [Atomic Habits](https://jamesclear.com/atomic-habits) - Tiny Changes, Remarkable Results. ([Summary](https://twitter.com/justinkan/status/1352040558198329344)) ([Summary](https://www.chrisbehan.ca/posts/atomic-habits)) ([HN](https://news.ycombinator.com/item?id=29774859))
 - [Kin](https://kinhabits.com/) - Social Habit Tracker.
 - [In praise of habits](https://psyche.co/ideas/in-praise-of-habits-so-much-more-than-mindless-reflexes) ([HN](https://news.ycombinator.com/item?id=28085526))

@@ -7,6 +7,7 @@
 
 ## Links
 
+- [Luau](https://luau-lang.org/) - Fast, small, safe, gradually typed embeddable scripting language derived from Lua. ([Code](https://github.com/Roblox/luau)) ([HN](https://news.ycombinator.com/item?id=29097692))
 - [Luacheck](https://github.com/luarocks/luacheck) - Tool for linting and static analysis of Lua code.
 - [Fennel](https://fennel-lang.org/) - Programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system. ([Code](https://github.com/bakpakin/Fennel)) ([Rationale](https://fennel-lang.org/rationale)) ([Lobsters](https://lobste.rs/s/6bphbw/fennel_programming_language_rationale)) ([HN](https://news.ycombinator.com/item?id=24390904)) ([FennelConf](https://conf.fennel-lang.org/))
 - [rlua](https://github.com/kyren/rlua) - High level bindings between Rust and Lua.
@@ -69,3 +70,24 @@
 - [Lua Code](https://github.com/lua/lua)
 - [Concurrent LUA Executor](https://github.com/kelindar/lua) - Concurrent LUA executor that is designed to keep running a same (but updateable) set of scripts over a long period of time.
 - [Zua](https://github.com/squeek502/zua) - Implementation of Lua 5.1 in Zig, for learning purposes.
+- [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) - Lua-land LRU Cache based on LuaJIT FFI.
+- [Python and Lua (2019)](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/) ([HN](https://news.ycombinator.com/item?id=28814141))
+- [Lua Functional](https://github.com/luafun/luafun) - High-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind. ([Docs](https://luafun.github.io/))
+- [LuaJIT Unix syscall FFI](https://github.com/justincormack/ljsyscall)
+- [Hematita Da Lua](https://github.com/danii/hematita) - Memory safe Lua interpreter.
+- [LuaJIT Garbage Collector Design Doc](http://wiki.luajit.org/New-Garbage-Collector)
+- [f-strings](https://github.com/hishamhm/f-strings) - String interpolation for Lua.
+- [Lua Filters](https://github.com/pandoc/lua-filters) - Collection of lua filters for pandoc.
+- [StackTracePlus](https://github.com/ignacio/StackTracePlus) - Provides enhanced stack traces for Lua.
+- [Teliva](https://github.com/akkartik/teliva) - Fork of Lua 5.1 to encourage end-user programming. ([HN](https://news.ycombinator.com/item?id=29231563))
+- [checks](https://github.com/fab13n/checks) - Runtime argument type checking API for Lua.
+- [Lua Async Await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
+- [luastatic](https://github.com/ers35/luastatic) - Build a standalone executable from a Lua program.
+- [Links on how Lua works behind the scenes](https://github.com/edubart/nelua-lang/wiki/Useful-Links-for-Research)
+- [Lua Finite State Machine](https://github.com/kyleconroy/lua-state-machine) - Finite state machine lua micro framework.
+- [lua2c](https://github.com/davidm/lua2c) - Converts Lua 5.1 source code to C code.
+- [Lua in Rust](https://github.com/cjneidhart/lua-in-rust) - Lua programming language, implemented in Rust.
+- [Lua: Good, bad, and ugly parts (2012)](http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts) ([HN](https://news.ycombinator.com/item?id=29659336))
+- [Luerl](https://github.com/rvirding/luerl) - Implementation of Lua in Erlang. ([HN](https://news.ycombinator.com/item?id=29703949))
+- [Writing a minimal Lua implementation with a virtual machine from scratch in Rust (2021)](https://notes.eatonphil.com/lua-in-rust.html) ([Lobsters](https://lobste.rs/s/wlpgc3/writing_minimal_lua_implementation_with)) ([Code](https://github.com/eatonphil/lust))
+- [lua-ts](https://github.com/ahuth/lua-ts) - TypeScript implementation of minimal Lua.

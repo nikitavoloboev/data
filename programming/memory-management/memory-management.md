@@ -1,5 +1,9 @@
 # Memory management
 
+## Notes
+
+- [Reference counting is a form of garbage collection](https://twitter.com/pcwalton/status/1457170874402967553)
+
 ## Links
 
 - [What Every Programmer Should Know About Memory (2007)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) ([Web](https://lwn.net/Articles/250967/))
@@ -51,3 +55,32 @@
 - [DUMA](https://github.com/johnsonjh/duma) - Detect Unintended Memory Access. Red-Zone memory allocator.
 - [regalloc2](https://github.com/bytecodealliance/regalloc2) - New register allocator.
 - [Formalization of properties of a simple imperative, memory-safe language](https://github.com/arthuraa/memory-safe-language)
+- [mtrace](https://github.com/aclements/mtrace) - Version of QEMU modified to log memory accesses and other system events to help analyze and understand the memory access patterns and cache line behavior of operating system-level code.
+- [Memory Performance in a Nutshell](https://www.intel.com/content/www/us/en/developer/articles/technical/memory-performance-in-a-nutshell.html)
+- [Awesome Allocators](https://github.com/rain-1/awesome-allocators)
+- [Interesting Garbage Collection Patterns (2021)](https://blog.gceasy.io/2021/10/15/interesting-garbage-collection-patterns/)
+- [SuperMalloc](https://github.com/kuszmaul/SuperMalloc) - Super Fast Multithreaded malloc() for 64-bit Machines.
+- [Mimalloc](https://github.com/microsoft/mimalloc) - Compact general purpose allocator with excellent performance.
+- [Mimalloc: Free List Sharding in Action (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf) ([Lobsters](https://lobste.rs/s/4awecj/mimalloc_free_list_sharding_action))
+- [Garbage collection algorithms](https://twitter.com/pcwalton/status/1456518483315810308)
+- [Vizzy](https://github.com/zznop/vizzy) - Tool for profiling heap usage and memory management.
+- [GCGC : Garbage Collection Graph Collector](https://github.com/apple/GCGC)
+- [mem](https://github.com/smasher164/mem) - Memory allocator for Go.
+- [100LOC C impl of memset, that is faster than glibc's](https://github.com/nadavrot/memset_benchmark) ([HN](https://news.ycombinator.com/item?id=29197161))
+- [Debugging memory corruption: who the hell writes “2” into my stack? (2016)](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2) ([HN](https://news.ycombinator.com/item?id=29215725))
+- [bustd](https://github.com/pop-os/bustd) - Lightweight process killer daemon for out-of-memory scenarios for Linux.
+- [What's a Memory Allocator Anyway? - Benjamin Feng (2021)](https://www.youtube.com/watch?v=vHWiDx_l4V0)
+- [The Garbage Collection Handbook: The art of automatic memory management (2020)](https://gchandbook.org/)
+- [memflow](https://github.com/memflow/memflow) - Physical memory introspection framework. ([Web](https://memflow.github.io/#/home))
+- [scanflow](https://github.com/memflow/scanflow) - Comprehensive memory scanning library based on memflow.
+- [tinyalloc](https://github.com/thi-ng/tinyalloc) - Replacement for malloc / free in unmanaged, linear memory situations, e.g. WASM and embedded devices.
+- [gcmodule](https://github.com/quark-zju/gcmodule) - Garbage collection for Rust inspired by CPython's gcmodule.
+- [Optimising memset and memcpy](https://twitter.com/nadavrot/status/1464364562409422852) ([HN](https://news.ycombinator.com/item?id=29359906))
+- [Deconstructing the Garbage-First Collector (2020)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/g1-vee-2020.pdf)
+- [llmalloc](https://github.com/matthieu-m/llmalloc) - Low-latency malloc implementation.
+- [Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment (2021)](https://arxiv.org/abs/2110.01098) ([Lobsters](https://lobste.rs/s/dvwomq/does_bronze_garbage_collector_make_rust))
+- [Hardened malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems.
+- [An Empirical Lower Bound on the Overheads of Production Garbage Collectors (2021)](https://arxiv.org/pdf/2112.07880.pdf) ([Tweet](https://twitter.com/halvarflake/status/1471442159618437122))
+- [Fuite](https://github.com/nolanlawson/fuite) - CLI tool for finding memory leaks in web apps. ([Article](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)) ([HN](https://news.ycombinator.com/item?id=29593341))
+- [malloc-rs](https://github.com/suzusuzu/malloc-rs) - Implementation of malloc, realloc, calloc, and free in Rust.
+- [zig-gc](https://github.com/Hejsil/zig-gc) - Simple mark-and-sweep garbage collector written in Zig.

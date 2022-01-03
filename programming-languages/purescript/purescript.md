@@ -2,13 +2,15 @@
 
 ## Links
 
+- [PureScript by Example](https://book.purescript.org/) ([Code](https://github.com/purescript-contrib/purescript-book))
 - [Purescript Concur](https://github.com/ajnsit/purescript-concur) - Brand new client side Web UI framework that explores an entirely new paradigm.
 - [vidtracker](https://github.com/justinwoo/vidtracker) - Small, "full-stack" Purescript "video tracker" for me to track what shows I've watched locally.
 - [vt](https://github.com/justinwoo/vt) - Vidtracker but with a Rust backend. PureScript frontend.
 - [Asynchronous PureScript (2019)](https://blog.drewolson.org/asynchronous-purescript)
 - [Halogen](https://github.com/purescript-halogen/purescript-halogen) - Declarative, type-safe UI library for PureScript.
 - [Real World Halogen](https://github.com/thomashoneyman/purescript-halogen-realworld) - Exemplary real world application built with PureScript + Halogen. ([Web](https://thomashoneyman.com/guides/real-world-halogen/))
-- [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
+- [spago](https://github.com/purescript/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
+- [Spago2Nix](https://github.com/justinwoo/spago2nix) - Generate a derivation of Spago dependencies, and use them to install them into the directory structure used by Spago.
 - [PUX](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
 - [Functional Programming for the Web: PureScript Foreign Import and DOM Events (2020)](https://medium.com/@KevinBGreene/functional-programming-for-the-web-purescript-foreign-import-and-dom-events-8c76f6f5a16e)
 - [purescript-selda](https://github.com/Kamirus/purescript-selda) - Type-safe, high-level SQL library for PureScript.
@@ -33,3 +35,9 @@
 - [Flame](https://github.com/easafe/purescript-flame) - PureScript front-end framework inspired by the Elm architecture. ([HN](https://news.ycombinator.com/item?id=27364833))
 - [purs-nix](https://github.com/ursi/purs-nix) - Manage your PureScript projects with Nix.
 - [PureScript Docs](https://github.com/purescript/documentation)
+- [PureNix](https://github.com/purenix-org/purenix) - Nix backend for PureScript. Transpile PureScript code to Nix.
+- [Dovetail](https://github.com/paf31/dovetail) - General-purpose PureScript interpreter written in Haskell.
+- [HTTPure](https://github.com/cprussin/purescript-httpure) - Web framework written in PureScript.
+- [dovetail](https://hackage.haskell.org/package/dovetail) - PureScript interpreter with a Haskell FFI.
+- [Purescript for Elm devs](https://github.com/alpacaaa/elm-to-purescript-cheatsheet)
+- [purescript2nix](https://github.com/cdepillabout/purescript2nix) - Tool for easily building PureScript projects with Nix.

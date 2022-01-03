@@ -16,6 +16,7 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 
 - [Great comment on staying healthy](https://www.reddit.com/r/longevity/comments/7hwgo7/for_people_in_their_young_or_middle_ages_now_who/).
 - [Health and longevity in 3 bullets: 1. Sleep >8h. 2. HIIT + strength training. 3. Intermittent fasting + no glucose spikes.](https://twitter.com/m_franceschetti/status/1396540139195834374)
+- [Get a CO2 meter & improve air quality. It's important.](https://twitter.com/iamtrask/status/1443181527815364616)
 
 ## Links
 
@@ -58,3 +59,9 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Tia](https://asktia.com/) - Modern female healthcare — including gynecology services, STI (aka STD testing,) primary care, annual physicals, and more.
 - [The future of weight loss (2021)](https://www.worksinprogress.co/issue/the-future-of-weight-loss/)
 - [Ask HN: How do I get fit and healthy as a software engineer? (2021)](https://news.ycombinator.com/item?id=28561238)
+- [Ask HN: Improving health despite working in a screen-based job (2021)](https://news.ycombinator.com/item?id=28627450)
+- [It's not your age that's slowing your metabolism, new research says (2021)](https://lite.cnn.com/en/article/h_6393a3cab16cabbe7bfa1e77505a6ef8) ([HN](https://news.ycombinator.com/item?id=28666060))
+- [What’s your go to mental health improvement strategy? (2021)](https://twitter.com/stack_tracy_/status/1450087943125835780)
+- [Awesome Biomarkers](https://github.com/markwk/awesome-biomarkers) - Curated List of Biomarkers, Blood Tests, and Blood Tracking.
+- [Mapping the electronic health record (2021)](https://wardle.org/strategy/2021/10/21/mapping-the-epr-1.html) ([Tweet](https://twitter.com/mwardle/status/1451096305535700995))
+- [How to maintain a healthy brain (2021)](https://psyche.co/guides/how-to-maintain-a-healthy-brain-to-reduce-the-risk-of-dementia) ([HN](https://news.ycombinator.com/item?id=29120920))

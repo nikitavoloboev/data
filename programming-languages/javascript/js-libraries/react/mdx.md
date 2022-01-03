@@ -28,3 +28,6 @@
 - [React server components + MDX (2021)](https://wooorm.com/server-components-mdx-demo/) ([Code](https://github.com/wooorm/server-components-mdx-demo))
 - [Code Hike Scrollycoding Preview](https://code-hike-scrollycoding-preview.vercel.app/) ([Code](https://github.com/pomber/scrollycoding-preview/)) ([Tweet](https://twitter.com/rauchg/status/1367199228494155786))
 - [Vite Plugin MDX](https://github.com/brillout/vite-plugin-mdx)
+- [Next MDX](https://www.next-mdx.org/) - Build MDX powered websites with Next.js. ([Code](https://github.com/shadcn/next-mdx))
+- [MDX 2 (2021)](https://mdxjs.com/blog/v2/)
+- [MDX Pretty Code](https://github.com/atomiks/mdx-pretty-code) - Simply beautiful syntax highlighting for your MDX docs.

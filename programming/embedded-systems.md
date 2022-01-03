@@ -15,10 +15,10 @@
 - [Arm Mbed DAPLink](https://github.com/ARMmbed/DAPLink) - Open-source software project that enables programming and debugging application software running on Arm Cortex CPUs.
 - [Mbed TLS](https://github.com/ARMmbed/mbedtls) - Open source, portable, easy to use, readable and flexible SSL library.
 - [Modern Microprocessors a 90-Minute Guide](http://www.lighterra.com/papers/modernmicroprocessors/) - Brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture. ([HN](https://news.ycombinator.com/item?id=27014027))
-- [MicroPython](https://github.com/micropython/micropython) - Lean and efficient Python implementation for microcontrollers and constrained systems. ([HN](https://news.ycombinator.com/item?id=24166861))
+- [MicroPython](https://github.com/micropython/micropython) - Lean and efficient Python implementation for microcontrollers and constrained systems. ([HN](https://news.ycombinator.com/item?id=24166861)) ([Awesome](https://github.com/mcauser/awesome-micropython))
 - [CircuitPython](https://github.com/adafruit/circuitpython) - Programming Hardware in Python. ([HN](https://news.ycombinator.com/item?id=25923491))
 - [What's your preferred embedded/application scripting language? (2019)](https://lobste.rs/s/jtrbrj/what_s_your_preferred_embedded)
-- [Bare-metal and Operating System development tutorials in Rust on the Raspberry Pi 3](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
+- [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) ([HN](https://news.ycombinator.com/item?id=28660915))
 - [Embedded Rust Book](https://docs.rust-embedded.org/book/) - Introductory book about using the Rust Programming Language on "Bare Metal" embedded systems, such as Microcontrollers. ([Code](https://github.com/rust-embedded/book))
 - [Embedded Rust Discovery](https://docs.rust-embedded.org/discovery/) - Starting with Embedded Development Using Rust.
 - [mJS: Embedded JavaScript engine for C/C++](https://github.com/cesanta/mjs) - Designed for microcontrollers with limited resources.
@@ -85,7 +85,7 @@
 - [Using Rust for a simple hardware project (2020)](https://blog.tonari.no/rust-simple-hardware-project)
 - [elfload](https://github.com/erincandescent/elfload) - ELF loader for embedded systems.
 - [Introduction to Embedded Linux Security (2020)](https://embeddedbits.org/introduction-embedded-linux-security-part-1/)
-- [Handmade Seattle](https://www.handmade-seattle.com/) - Indie Systems Programming Conference. ([Lobsters](https://lobste.rs/s/uynlxo/indie_systems_programming_conference)) ([Day 1 video](https://vimeo.com/479193681))
+- [Handmade Seattle](https://www.handmade-seattle.com/) - Indie Systems Programming Conference. ([Lobsters](https://lobste.rs/s/uynlxo/indie_systems_programming_conference)) ([Day 1 video](https://vimeo.com/479193681)) ([Media](https://media.handmade-seattle.com/)) ([Twitter](https://twitter.com/handmade_seattl)) ([Videos](https://vimeo.com/handmadeseattle))
 - [The Best and Worst Microcontroller SDKs (2020)](https://interrupt.memfault.com/blog/the-best-and-worst-mcu-sdks) ([HN](https://news.ycombinator.com/item?id=25094956))
 - [SwiftIO](https://github.com/madmachineio/SwiftIO) - Swift framework for microcontrollers.
 - [MadMachine](https://www.madmachine.io/) - Swift for microcontrollers. ([GitHub](https://github.com/madmachineio))
@@ -129,3 +129,31 @@
 - [KiKit](https://github.com/yaqwsx/KiKit) - Automation for KiCAD.
 - [The Rust standard library on Espressif chips (2021)](https://mabez.dev/blog/posts/esp-rust-espressif/) ([Lobsters](https://lobste.rs/s/rwzgka/rust_standard_library_on_espressif_chips))
 - [Rust on ESP32 "Hello, World" app](https://github.com/ivmarkov/rust-esp32-std-hello) - Demo binary crate for the ESP32[XX] and ESP-IDF, which connects to WiFi, drives a small HTTP server and draws on a LED screen.
+- [cortex-m-quickstart](https://github.com/rust-embedded/cortex-m-quickstart) - Template for building applications for ARM Cortex-M microcontrollers.
+- [flip-link](https://github.com/knurling-rs/flip-link) - Adds zero-cost stack overflow protection to your embedded programs.
+- [Programming PIC32 Microcontroller with Rust (2021)](https://gill.net.in/posts/pic32-blink-led-rust/) ([HN](https://news.ycombinator.com/item?id=28818853))
+- [pyOCD](https://github.com/pyocd/pyOCD) - Open source Python library for programming and debugging Arm Cortex-M microcontrollers. ([Web](https://pyocd.io/))
+- [CMSIS](https://arm-software.github.io/CMSIS_5/latest/General/html/index.html) - Common Microcontroller Software Interface Standard. ([Version 5](https://github.com/ARM-software/CMSIS_5))
+- [Rusty High-speed Probe](https://github.com/probe-rs/hs-probe) - Open hardware probe for the Serial Wire Debug (SWD) and JTAG protocol.
+- [Rust on Espressif chips (2021)](https://mabez.dev/blog/posts/esp-rust-18-10-2021/) ([HN](https://news.ycombinator.com/item?id=29000870))
+- [Why Embedded Software Development is Harder (2021)](https://beza1e1.tuxen.de/embedded.html)
+- [Async on Embedded: Present & Future (2021)](https://tweedegolf.nl/blog/63/async-on-embedded-present-and-future)
+- [stm32g0xx-hal](https://github.com/stm32-rs/stm32g0xx-hal) - Peripheral access API for STM32G0 series microcontrollers.
+- [Kari](https://github.com/hannobraun/kari) - Embeddable programming language, written in and for Rust.
+- [LPC8xx HAL](https://github.com/lpc-rs/lpc8xx-hal) - Hardware Abstraction Layer (HAL) for NXP LPC800 series of microcontrollers, written in Rust.
+- [Snek](https://sneklang.org/) - Python-inspired Language for Embedded Devices. ([Code](https://github.com/keith-packard/snek))
+- [stm32f1xx-hal](https://github.com/stm32-rs/stm32f1xx-hal) - Rust embedded-hal HAL impl for the STM32F1 family based on japarics stm32f103xx-hal.
+- [Bryan Cantrill - The Coming Firmware Revolution (2021)](https://www.youtube.com/watch?v=XbBzSSvT_P0) ([Slides](https://www.slideshare.net/bcantrill/the-coming-firmware-revolution)) ([Lobsters](https://lobste.rs/s/fwdrda/coming_firmware_revolution))
+- [Open Source Firmware Foundation](https://osfw.foundation/) ([Twitter](https://twitter.com/osfw_foundation))
+- [acados](https://github.com/acados/acados) - Fast and embedded solvers for nonlinear optimal control.
+- [Learning Rust For Embedded Systems (2021)](https://www.embeddedrelated.com/showarticle/1432.php) ([HN](https://news.ycombinator.com/item?id=29269218))
+- [esptool.py](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility.
+- [hm3](https://github.com/andrewchambers/hm3) - Minimalist statically typed 'glue language' that can be embedded in C/C++/Rust projects.
+- [Toit](https://github.com/toitlang/toit) - Program your micro-controllers in a fast and robust high-level language. ([Open Source Release](https://blog.toit.io/the-toit-language-is-now-open-source-14bdcb1604d9)) ([HN](https://news.ycombinator.com/item?id=29304614))
+- [Hubris](https://hubris.oxide.computer/) - Small open-source operating system for deeply-embedded computer systems. ([Code](https://github.com/oxidecomputer/hubris)) ([HN](https://news.ycombinator.com/item?id=29390751)) ([Tweet](https://twitter.com/steveklabnik/status/1465689502060535808))
+- [Humility](https://github.com/oxidecomputer/humility) - Debugger for Hubris.
+- [Hubris and Humility (2021)](https://oxide.computer/blog/hubris-and-humility)
+- [On Hubris and Humility: developing an OS for robustness in Rust (2021)](https://talks.osfc.io/osfc2021/talk/JTWYEH/) ([Article](https://cliffle.com/blog/on-hubris-and-humility/))
+- [Kaluma](https://github.com/kaluma-project/kaluma) - Tiny and efficient JavaScript runtime for microcontrollers. ([Web](https://kaluma.io/))
+- [STM32 Peripheral Access Crates](https://github.com/stm32-rs/stm32-rs) - Embedded Rust device crates for STM32 microcontrollers.
+- [libopencm3](https://github.com/libopencm3/libopencm3) - Open-source firmware library for various ARM Cortex-M microcontrollers. ([Docs](https://github.com/libopencm3/libopencm3/wiki)) ([Examples](https://github.com/libopencm3/libopencm3-examples))

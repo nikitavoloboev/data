@@ -36,6 +36,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Tufte Hugo Theme](https://github.com/shawnohare/hugo-tufte)
 - [PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Fast, clean, responsive Hugo theme.
 - [Paper](https://github.com/nanxiaobei/hugo-paper) - Simple, clean, flexible Hugo theme.
+- [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Hugo theme for personal blog.
 
 ## Examples
 
@@ -66,3 +67,5 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Build, deploy and host hugo with srht.site](https://www.monotux.tech/posts/2021/03/built-with-srht-sites/) ([Lobsters](https://lobste.rs/s/pjrbwg/build_deploy_host_hugo_with_srht_site))
 - [How to use GitHub Actions and private repositories to deploy a Hugo static site (2021)](https://reverse.put.as/2021/03/11/hugo-githubactions/)
 - [A Love Letter To Hugo (2021)](https://akondas.com/blog/a-love-letter-to-hugo/)
+- [Hugo Ranked](https://hugoranked.com/) - Hugo Themes ranked by GitHub Stars. ([HN](https://news.ycombinator.com/item?id=28795478))
+- [Run a website off a Google Sheets Database, with Hugo (2021)](https://www.markhansen.co.nz/build-a-website-off-a-google-sheets-database-using-hugo-netlify/) ([Lobsters](https://lobste.rs/s/eu9fjn/run_website_off_google_sheets_database))

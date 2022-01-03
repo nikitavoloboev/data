@@ -22,6 +22,34 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Can select text from middle of link's text by holding down alt while you drag and select with the mouse](https://twitter.com/MBoffin/status/1218668903586394112)
 - [plutil tool support the generation of Swift or Objective-C code directly from plists. For example: plutil -convert swift.](https://twitter.com/dmartincy/status/1295029196503351298)
 - [To code sign binaries ad hoc, run `codesign -s - <path_to_binary>`.](https://github.com/golang/go/issues/42684) This will give users a gatekeeper warning but they could still run the binary. To sign so users can run binary without warning, you need Apple developer account.
+- [I basically install nothing except GUI apps on my Mac. I don’t even have a bashrc (or any shell rc for that matter). I never open the terminal on Mac. I live in the VM for dev work, and use GUI apps like calendar, email, messages, browser, etc. on Mac.](https://twitter.com/mitchellh/status/1449151623092060164)
+- [`ls -lha /Library/Developer/CommandLineTools/usr/bin` to see what xcode command line developer tools installs.](https://twitter.com/nikitonsky/status/1453019511502909441)
+- [Can right-click on a 2-factor authentication code to set it up with iCloud Keychain.](https://twitter.com/rafahari/status/1456013646144933893)
+- [macOS has network quality command: networkQuality](https://twitter.com/justsitandgrin/status/1460286405578563595) ([Reddit](https://www.reddit.com/r/MacOS/comments/qxa933/builtin_network_bandwidth_test_tool_on_macos/))
+
+## Code
+
+### macOS Defaults
+
+```bash
+# Remove dock animation. https://www.reddit.com/r/apple/comments/6xg9xq/tip_of_the_day_one_thing_i_cant_live_without_in/
+defaults write com.apple.dock autohide-delay -int 0
+defaults write com.apple.dock autohide-time-modifier -float 0.4
+killall Dock
+
+# Revert
+defaults delete com.apple.dock autohide-delay
+defaults delete com.apple.dock autohide-time-modifier
+killall Dock
+```
+
+```bash
+# Turn internal keyboard off. https://discussions.apple.com/thread/5044946?answerId=26556362022#26556362022
+sudo kextunload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/AppleUSBTCKeyboard.kext/
+
+# Turn internal keyboard on
+sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/AppleUSBTCKeyboard.kext/
+```
 
 ## Links
 
@@ -172,3 +200,32 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [macOS persistence – Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond/) ([HN](https://news.ycombinator.com/item?id=28498058))
 - [macOS Security Compliance](https://github.com/usnistgov/macos_security) - Open source effort to provide a programmatic approach to generating security guidance.
 - [Apple M1 Exploration](https://drive.google.com/file/d/1WrMYCZMnhsGP4o3H33ioAUKL_bjuJSPt/view)
+- [WhatsNewViewController](https://github.com/Jonathan-Gander/WhatsNewViewController) - Nice way to present your new app features.
+- [macOS Cross toolchain for Linux and \*BSD](https://github.com/tpoechtrager/osxcross)
+- [Guide to moving to M1 mac (2021)](https://twitter.com/vvoyer/status/1451116237132533765)
+- [macOS Orb](https://github.com/CircleCI-Public/macos-orb) - Convenient tools and settings for utilizing MacOS on CircleCI.
+- [macOS Monterey: The MacStories Review (2021)](https://www.macstories.net/stories/macos-monterey-the-macstories-review/)
+- [How macOS is more reliable, and doesn’t need reinstalling (2021)](https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/)
+- [Faster Mac Dev Tools with Custom Allocators (2021)](https://eisel.me/devtool-allocators) ([HN](https://news.ycombinator.com/item?id=29068828))
+- [perfrecord](https://github.com/mstange/perfrecord) - macOS-only command line CPU profiler that displays the result in the Firefox profiler.
+- [vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
+- [diskspace](https://github.com/scriptingosx/diskspace) - macOS command line tool to return the available disk space on APFS volumes.
+- [PlayCover](https://github.com/iVoider/PlayCover) - Run iOS apps & games on M1 Mac with mouse, keyboard and controller support.
+- [Sideload iOS apps regardless of security settings](https://github.com/EricRabil/m1-ios-sideloader)
+- [node-mac-userdefaults](https://github.com/codebytere/node-mac-userdefaults) - Native Node.js module that provides an interface to the user’s defaults database on macOS.
+- [Resources about macOS/iOS system security](https://github.com/houjingyi233/macOS-iOS-system-security)
+- [asitop](https://github.com/tlkh/asitop) - Performance monitoring CLI tool for Apple Silicon. ([Web](https://tlkh.github.io/asitop/))
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. ([HN](https://news.ycombinator.com/item?id=29426862))
+- [macOS Optimizer](https://github.com/sickcodes/osx-optimizer) - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
+- [How to sync multiple macs (work/personal) (2021)](https://twitter.com/tenderlove/status/1461461938592878594)
+- [Mach-O Binaries (2015)](http://www.m4b.io/reverse/engineering/mach/binaries/2015/03/29/mach-binaries.html)
+- [Explainer: .DS_Store Files (2021)](https://eclecticlight.co/2021/11/27/explainer-ds_store-files/) ([HN](https://news.ycombinator.com/item?id=29358932))
+- [Interview with Hansen Hsu, engineer at Apple during transition from OS 9 to OS X (2021)](https://corecursive.com/cocoa-culture-with-hansen-hsu/) ([Lobsters](https://lobste.rs/s/0subb0/cocoa_culture)) ([HN](https://news.ycombinator.com/item?id=29424245))
+- [optool](https://github.com/alexzielenski/optool) - Command Line Tool for interacting with MachO binaries on macOS/iOS.
+- [mkuser](https://github.com/freegeek-pdx/mkuser) - Make user accounts for macOS with many advanced options.
+- [Setup a New Developer Computer](https://github.com/vendasta/setup-new-computer-script) ([HN](https://news.ycombinator.com/item?id=29535432))
+- [Entitlement AND Hardened Runtime Check](https://github.com/cedowens/EntitlementCheck) - Python3 script for macOS to check for binaries with problematic/interesting entitlements.
+- [macFUSE](https://github.com/osxfuse/osxfuse) - Allows you to extend macOS via third party file systems.
+- [Tuning Your Code’s Performance for Apple Silicon](https://developer.apple.com/documentation/apple-silicon/tuning-your-code-s-performance-for-apple-silicon) ([HN](https://news.ycombinator.com/item?id=29719544))
+- [macOS Setup after 15 Years of Linux (2021)](https://hookrace.net/blog/macos-setup/) ([HN](https://news.ycombinator.com/item?id=29742551))
+- [Machium](https://github.com/PsychoBird/Machium) - Debugger for Apple Silicon. ([Article](https://psychobird.github.io/Machium/Machium.html))

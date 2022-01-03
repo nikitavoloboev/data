@@ -21,3 +21,6 @@
 - [Gleam Playground](https://nicklas.xyz/apps/gleam-playground/) - Playground for running snippets of Gleam code in the browser. ([Code](https://github.com/NicklasXYZ/gleam_playground))
 - [Getting more from data](https://github.com/midas-framework/project_wisdom)
 - [workers-gleam-template](https://github.com/lpil/gleam-cloudflare-worker) - Batteries included template for kick starting a Gleam Cloudflare worker project.
+- [A Portrait of the Language Designer as a Young Man (2021)](https://www.youtube.com/watch?v=1jubJ_YDI0k)
+- [Gleam Playground](https://johndoneth.github.io/gleam-playground/) - Browser based playground for Gleam language. ([Code](https://github.com/JohnDoneth/gleam-playground))
+- [gleam_json](https://github.com/gleam-lang/json) - Gleam library for encoding decoding JSON.

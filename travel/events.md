@@ -27,3 +27,8 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [TicketSwap](https://www.ticketswap.com/) - Safest way to buy and sell e-tickets. ([GitHub](https://github.com/TicketSwap))
 - [How to move a 400-person hackathon online (2021)](https://www.juricho.me/posts/online-hackathon/)
 - [Slingshow](https://slingshow.com/) - Easily build custom virtual events and webinars. ([HN](https://news.ycombinator.com/item?id=27474808))
+- [Awesome Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events)
+- [SeatGeek](https://seatgeek.com/) - Your Ticket to Sports, Concerts & More. ([GitHub](https://github.com/seatgeek))
+- [Skittish](https://skittish.com/) - Playful space for online events. ([HN](https://news.ycombinator.com/item?id=29246232))
+- [Electromagnetic Field](https://www.emfcamp.org/) - Non-profit UK camping festival.
+- [Alpine Conferences](https://www.alpine-conferences.com/home/#/)

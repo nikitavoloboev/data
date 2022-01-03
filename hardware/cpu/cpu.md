@@ -8,7 +8,7 @@
 - [I don't know how CPUs work so I simulated one in code (2019)](https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/)
 - [Simple Computer](https://github.com/djhworld/simple-computer) - Whilst reading But How Do It Know? by J. Clark Scott I felt compelled to write something to simulate the computer the book describes.
 - [Awesome CPU and MCU documentation](https://github.com/larsbrinkhoff/awesome-cpus)
-- [How do CPUs read machine code? (2019)](https://www.youtube.com/watch?v=yl8vPW5hydQ)
+- [How do CPUs read machine code? (2019)](https://www.youtube.com/watch?v=yl8vPW5hydQ) ([Reddit](https://www.reddit.com/r/programming/comments/rp3xtz/this_video_really_explains_well_how_the_cpu_reads/))
 - [CPU Microcodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories.
 - [CPU Scheduling](https://twitter.com/b0rk/status/1215753312324157441)
 - [uarch-bench](https://github.com/travisdowns/uarch-bench) - Benchmark for low-level CPU micro-architectural features.
@@ -58,7 +58,7 @@
 - [Intel's disruption is now complete (2020)](https://jamesallworth.medium.com/intels-disruption-is-now-complete-d4fa771f0f2c) ([HN](https://news.ycombinator.com/item?id=25092721))
 - [ARM processor history (2020)](https://twitter.com/kenshirriff/status/1327021630636212224)
 - [Bitdefender disassembler](https://github.com/bitdefender/bddisasm) - Lightweight, x86/x64 only instruction decoder.
-- [Performance Analysis and Tuning on Modern CPUs book](https://book.easyperf.net/perf_book)
+- [Performance Analysis and Tuning on Modern CPUs book](https://book.easyperf.net/perf_book) ([Code](https://github.com/dendibakh/perf-book))
 - [Under the hood of a CPU: Reverse Engineering the P6 microcode | Peter Bosch (2020)](https://www.youtube.com/watch?v=4oFOpDflJMA)
 - [2020 Wheeler Lecture: The Future of Microprocessors](https://www.youtube.com/watch?v=R2SdSLCMKEA)
 - [c8c](https://github.com/glouw/c8c) - Aims to be a small typeless programming language for the CHIP-8 virtual machine.
@@ -110,3 +110,24 @@
 - [ASML business breakdown (2021)](https://twitter.com/TrungTPhan/status/1429464889307762688)
 - [Next-gen chips will be powered from below (2021)](https://spectrum.ieee.org/next-gen-chips-will-be-powered-from-below) ([HN](https://news.ycombinator.com/item?id=28337836))
 - [Upgraded Homemade Silicon Chips (2021)](https://www.youtube.com/watch?v=IS5ycm7VfXg)
+- [Turing Complete Game](https://store.steampowered.com/app/1444480/Turing_Complete/) - Game where you build a CPU and assembly language from circuits.
+- [A bug that doesn’t exist on x86: Exploiting an ARM-only race condition](https://github.com/stong/how-to-exploit-a-double-free) ([HN](https://news.ycombinator.com/item?id=28996500))
+- [The Soviet 1801VM2 LSI-11 Processor (2021)](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/) ([HN](https://news.ycombinator.com/item?id=29114087))
+- [Designing a MIPS CPU in Hardcaml](https://ceramichacker.com/blog/1-1x-hardcaml-mips-intro-what-and-why) ([HN](https://news.ycombinator.com/item?id=29105348))
+- [A Close Look at a Spinlock (2021)](https://blog.regehr.org/archives/2173)
+- [How to Make a CPU – A Simple Picture Based Explanation (2021)](https://blog.robertelder.org/how-to-make-a-cpu/) ([HN](https://news.ycombinator.com/item?id=29175402))
+- [Implementing CHIP-8 in Jack (2021)](https://abhaynayar.com/blog/chip8-in-jack.html)
+- [n2t-wasm](https://github.com/abhaynayar/n2t-wasm) - Emulator for the nand2tetris computer (Hack CPU).
+- [memu](https://github.com/hlandau/memu) - ARMv8-M/Cortex-M emulator/simulator.
+- [SCAMP CPU](https://github.com/jes/scamp-cpu) - Homebrew 16-bit CPU with a homebrew Unix-like-ish operating system. ([Web](https://incoherency.co.uk/scamp/))
+- [mainspring](https://github.com/ncatelli/mainspring) - CPU and device simulation framework focused on extensibility and flexibility of hardware layouts.
+- [Why It’s So Difficult – and Costly – To Secure Chips (2021)](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/) ([HN](https://news.ycombinator.com/item?id=29417927))
+- [Graviton2 and Graviton3 (2021)](http://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html) ([HN](https://news.ycombinator.com/item?id=29444746))
+- [Reverse Engineering the M1 (2021)](https://www.youtube.com/watch?v=espRmO41Bg4)
+- [What can you do with an ISA specification? (2021)](https://alastairreid.github.io/uses-for-isa-specs/)
+- [JDH-8](https://github.com/jdah/jdh-8) - Fully custom 8-bit minicomputer with a unique architecture.
+- [Performance Ninja Class](https://github.com/dendibakh/perf-ninja) - Online course where you can learn to find and fix low-level performance issues, for example CPU cache misses and branch mispredictions.
+- [Ask HN: Are we entering an ARM era? (2021)](https://news.ycombinator.com/item?id=29605828)
+- [Predictive CPU isolation of containers at Netflix (2019)](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
+- [CPU implemented in an analog modular synthesizer](https://github.com/katef/eurorack-cpu) ([Tweet](https://twitter.com/thingskatedid/status/1476679065411022849)) ([HN](https://news.ycombinator.com/item?id=29743704))
+- [A single line of code made a 24-core server slower than a laptop (2021)](https://pkolaczk.github.io/server-slower-than-a-laptop/) ([HN](https://news.ycombinator.com/item?id=29747921)) ([Reddit](https://www.reddit.com/r/programming/comments/rszk63/how_a_single_line_of_code_made_a_24core_server/))

@@ -1,5 +1,7 @@
 # [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
 
+Personally quite excited about developments of [Foregen](https://www.foregen.org/) & am donating to the cause. Regenerating tissue/organs fully is incredibly exciting.
+
 ## Links
 
 - [Rosalind](http://rosalind.info/problems/locations/) - Platform for learning bioinformatics and programming through problem solving.
@@ -73,7 +75,7 @@
 - [Tufts Uni: Levin Biology Lab](https://ase.tufts.edu/biology/labs/levin/Default.htm) - Investigating information storage and processing in biological systems.
 - [Nextflow](https://github.com/nextflow-io/nextflow) - Bioinformatics workflow manager that enables the development of portable and reproducible workflows. ([Web](https://nf-co.re/)) ([GitHub](https://github.com/nf-core))
 - [Quantum deep field for molecule](https://github.com/masashitsubaki/QuantumDeepField_molecule)
-- [AlQuraishi Lab at Columbia University](https://www.aqlab.io/) - Machine Learning, Molecules, Systems Biology research.
+- [AlQuraishi Lab at Columbia University](https://www.aqlab.io/) - Machine Learning, Molecules, Systems Biology research. ([GitHub](https://github.com/aqlaboratory))
 - [AlphaFold: a solution to a 50-year-old grand challenge in biology, protein folding (2020)](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology) ([HN](https://news.ycombinator.com/item?id=25253488)) ([Explained](https://twitter.com/AdamRutherford/status/1333449928316743683)) ([Lex explains](https://www.youtube.com/watch?v=W7wJDJ56c88))
 - [AlphaFold2 @ CASP14: “It feels like one’s child has left home.” (2020)](https://moalquraishi.wordpress.com/2020/12/08/alphafold2-casp14-it-feels-like-ones-child-has-left-home/) ([Tweet](https://twitter.com/MoAlQuraishi/status/1336351187369603088)) ([HN](https://news.ycombinator.com/item?id=25396736))
 - [Alphafold2 in PyTorch](https://github.com/lucidrains/alphafold2)
@@ -151,3 +153,38 @@
 - [Robust, Universal Tree Balance Indices (2021)](https://www.biorxiv.org/content/10.1101/2021.08.25.457695v1) ([Tweet](https://twitter.com/robjohnnoble/status/1432656976165617664))
 - [Julia for Biologists (2021)](https://arxiv.org/abs/2109.09973)
 - [Hierarchical Generation of Molecular Graphs using Structural Motifs (2020)](https://arxiv.org/abs/2002.03230) ([Code](https://github.com/wengong-jin/hgraph2graph))
+- [Broad Institute](https://www.broadinstitute.org/) - Unique, collaborative community pioneering a new model of biomedical science. ([Twitter](https://twitter.com/broadinstitute)) ([GitHub](https://github.com/broadinstitute))
+- [INDRA (Integrated Network and Dynamical Reasoning Assembler)](https://github.com/sorgerlab/indra) - Automated model assembly system, originally developed for molecular systems biology and then generalized to other domains. ([Web](http://www.indra.bio/))
+- [Reproducible, scalable, and shareable analysis pipelines with bioinformatics workflow managers](https://github.com/GoekeLab/bioinformatics-workflows)
+- [Neural Distance Embeddings for Biological Sequences (2021)](https://arxiv.org/abs/2109.09740) ([Code](https://github.com/gcorso/NeuroSEED))
+- [Protein complex prediction with AlphaFold-Multimer (2021)](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v1) ([Tweet](https://twitter.com/DeepMind/status/1445335773440585729)) ([HN](https://news.ycombinator.com/item?id=28781518))
+- [A cryptography game-changer for biomedical research at scale (2021)](https://www.nature.com/articles/s41467-021-25972-y) ([HN](https://news.ycombinator.com/item?id=28826376))
+- [MoleculeX](https://github.com/divelab/MoleculeX) - New and rapidly growing suite of machine learning methods and software tools for molecule exploration.
+- [Biomappings](https://github.com/biopragmatics/biomappings) - Community curated and predicted equivalences and related mappings between named biological entities that are not available from primary sources.
+- [PheKnowLator](https://github.com/callahantiff/PheKnowLator) - Heterogeneous Biomedical Knowledge Graphs and Benchmarks Constructed Under Alternative Semantic Models.
+- [Computational Reproducibility with BioNix (2021)](https://academic.oup.com/gigascience/article/9/11/giaa121/5987272)
+- [Self-Alignment Pretraining for Biomedical Entity Representations (2021)](https://aclanthology.org/2021.naacl-main.334/) ([Code](https://github.com/cambridgeltl/sapbert))
+- [Bandage](http://rrwick.github.io/Bandage/) - Bioinformatics Application for Navigating De novo Assembly Graphs Easily. ([Code](https://github.com/rrwick/Bandage))
+- [Viv](https://github.com/hms-dbmi/viv) - Multiscale visualization of high-resolution multiplexed bioimaging data on the web.
+- [PHATE](https://github.com/KrishnaswamyLab/PHATE) - Visualizing Transitions and Structure for Biological Data Exploration.
+- [Artificial intelligence reveals nuclear pore complexity (2021)](https://www.biorxiv.org/content/10.1101/2021.10.26.465776v1) ([Tweet](https://twitter.com/jankosinski/status/1453530872427253765))
+- [BioNix](https://github.com/PapenfussLab/bionix) - Functional highly reproducible bioinformatics pipelines.
+- [Awesome Bioinformatics Formats](https://github.com/kmhernan/awesome-bioinformatics-formats)
+- [BioShape Lab](https://bioshape.ece.ucsb.edu/)
+- [Bioinformatics repository with more and newer packages](https://github.com/BioArchLinux/Packages)
+- [The History of Microbiology – A Personal Interpretation](https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648)
+- [SeqFu](https://github.com/telatin/seqfu2) - General-purpose program to manipulate and parse information from FASTA/FASTQ files, supporting gzipped input files.
+- [Bioinformatics algorithms covered in Cambridge Uni Bio Course](https://github.com/A-F-V/Bioinformatics)
+- [block aligner](https://github.com/Daniel-Liu-c0deb0t/block-aligner) - SIMD-accelerated library for computing global and X-drop affine gap sequence alignments using an adaptive block-based algorithm.
+- [OpenFold](https://github.com/aqlaboratory/openfold) - Trainable & open-source PyTorch reproduction of AlphaFold 2.
+- [HSM (Hierarchical Statistical Mechanical model)](https://github.com/aqlaboratory/hsm) - Biophysical prediction of protein-peptide interactions and signaling networks using machine learning. ([Web](https://proteinpeptide.io/))
+- [Foregen and the Science of Regeneration with Tyler Drzod and Eric Cunningham (2021)](https://www.youtube.com/watch?v=JTOoc8ToSjc) ([Links & Transcript](https://brendonmarotta.com/8090/foregen-and-regeneration/))
+- [Foregen](https://www.foregen.org/) - Regenerating Foreskins. ([Reddit](https://www.reddit.com/r/Foregen/))
+- [DeepMind releases massive protein structure database (2021)](https://www.freethink.com/science/protein-structure)
+- [ATOM3D: Tasks on Molecules in Three Dimensions](https://www.atom3d.ai/) ([Code](https://github.com/drorlab/atom3d))
+- [3D Infomax improves GNNs for Molecular Property Prediction (2021)](https://arxiv.org/abs/2110.04126) ([Code](https://github.com/HannesStark/3DInfomax))
+- [Regenerated crustacean limbs are precise replicas (2021)](https://www.biorxiv.org/content/10.1101/2021.12.13.472338v1) ([Tweet](https://twitter.com/michalis_averof/status/1470816451422470156))
+- [Dockerfiles and documentation on tools for public health bioinformatics](https://github.com/StaPH-B/docker-builds)
+- [Arc Institute](https://arcinstitute.org/) - New institution for curiosity-driven biomedical science and technology. ([Tweet](https://twitter.com/patrickc/status/1471156220425871360))
+- [SeqLike](https://github.com/modernatx/seqlike) - Unified biological sequence manipulation in Python.
+- [Deep Learning for Molecules and Materials Book](https://dmol.pub/intro.html) ([Code](https://github.com/whitead/dmol-book))

@@ -6,6 +6,7 @@
 - [PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI.
 - [AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked by AirTags and Find My accessories. ([HN](https://news.ycombinator.com/item?id=28577951))
 - [Delight-Playground](https://github.com/kasem-sm/RocketXDelight-Playground) - Native android app made with Kotlin & Jetpack Compose with example usage of Ktor, SqlDelight, Hilt.
+- [Mobile Kotlin multiplatform project template](https://github.com/icerockdev/moko-template)
 
 ## Links
 
@@ -36,3 +37,7 @@
 - [Ten Years of Kotlin (2021)](https://blog.jetbrains.com/kotlin/2021/08/ten-years-of-kotlin/)
 - [ktfmt](https://github.com/facebookincubator/ktfmt) - Program that pretty-prints (formats) Kotlin code, based on google-java-format.
 - [Writing Unadulterated Services with Kotlin and Coroutines (2021)](https://www.youtube.com/watch?v=wTvNNc3A7QU)
+- [Building backend services with Kotlin (2021)](https://medium.com/brexeng/building-backend-services-with-kotlin-7c8410795e4b)
+- [Teaching Introductory Computer Science in Kotlin (2021)](https://www.youtube.com/watch?v=X8Az9X0mwUE)
+- [Kotlin service template](https://github.com/demidko/service)
+- [Kotlin Language Server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE.

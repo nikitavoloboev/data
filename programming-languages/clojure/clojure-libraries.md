@@ -2,6 +2,7 @@
 
 ## Web
 
+- [Rum](https://github.com/tonsky/rum) - Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript.
 - [Joy](https://joyframework.com/) - Web framework written in janet for people who like clojure syntax, fast startup time and very low memory usage. ([Code](https://github.com/joy-framework/joy)) ([HN](https://news.ycombinator.com/item?id=23046568))
 - [Luminus](https://luminusweb.com/) - Clojure micro-framework based on a set of lightweight libraries. ([HN](https://news.ycombinator.com/item?id=22852375))
 - [bootleg](https://github.com/retrogradeorbit/bootleg) - Simple template processing command line tool to help build static websites.
@@ -13,18 +14,28 @@
 - [Oz](https://github.com/metasoarous/oz) - Data visualizations in Clojure and ClojureScript using Vega and Vega-lite.
 - [Muuntaja](https://github.com/metosin/muuntaja) - Clojure library for fast HTTP format negotiation, encoding and decoding
 - [reitit](https://github.com/metosin/reitit) - Fast data-driven router for Clojure/Script.
+- [ctmx](https://github.com/whamtet/ctmx) - App development tool for fast product development and even faster page load times. It uses htmx on the frontend. ([Web](https://whamtet.github.io/ctmx/))
+- [Ruuter](https://github.com/askonomm/ruuter) - Tiny, zero-dependency HTTP router.
+- [Garden](https://github.com/noprompt/garden) - Generate CSS with Clojure.
+- [Compojure-API](https://github.com/metosin/compojure-api) - Sweet web APIs with Compojure & Swagger.
+- [Pedestal](https://github.com/pedestal/pedestal) - Set of libraries written in Clojure that aims to bring both the language and its principles (Simplicity, Power and Focus) to server-side development.
+- [Fulcro](https://github.com/fulcrologic/fulcro) - Library for development of single-page full-stack web applications in clj/cljs. ([Workshop](https://github.com/holyjak/fulcro-intro-wshop))
 
 ## DB
 
-- [asami](https://github.com/threatgrid/asami) - An in memory graph store for Clojure and ClojureScript.
+- [Asami](https://github.com/threatgrid/asami) - An in memory graph store for Clojure and ClojureScript. ([Talk](https://www.youtube.com/watch?v=-XegX_K6w-o))
 - [Yesql](https://github.com/krisajenkins/yesql) - Clojure library for using SQL.
 - [suricatta](https://github.com/funcool/suricatta) - High level sql toolkit for clojure.
 - [Walkable](https://github.com/walkable-server/walkable) - SQL library for building APIs.
 - [Gungnir](https://github.com/kwrooijen/gungnir) - High level, data driven database library for Clojure data mapping.
 - [Honey SQL](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL.
 - [honeysql-postgres](https://github.com/nilenso/honeysql-postgres) - PostgreSQL extension for honeysql.
+- [dbee](https://github.com/tessellator/dbee) - Convenient API for executing HoneySQL queries.
 - [HugSQL](https://github.com/layerware/hugsql) - Clojure library for embracing SQL. ([Docs](https://www.hugsql.org/))
 - [Pathom](https://github.com/wilkerlucio/pathom) - Clojure(script) engine for processing EQL requests.
+- [porsas](https://github.com/metosin/porsas) - Experimental stuff for going fast with Clojure + JDBC & Async SQL.
+- [EQL](https://github.com/edn-query-language/eql) - Declarative way to make hierarchical (and possibly nested) selections of information about data requirements.
+- [pyramid](https://github.com/lilactown/pyramid) - Library for storing and querying graph data in a Clojure map.
 
 ## ML
 
@@ -35,6 +46,14 @@
 ## CLI
 
 - [malli-cli](https://github.com/piotr-yuxuan/malli-cli) - Command-line processing.
+
+## Test
+
+- [Mockery](https://github.com/igrishaev/mockery) - Clojure mocking library.
+- [humane-test-output](https://github.com/pjstadig/humane-test-output) - Humane test output for clojure.test.
+- [spec-tools](https://github.com/metosin/spec-tools) - Clojure(Script) tools for clojure.spec.
+- [test-runner](https://github.com/cognitect-labs/test-runner) - Small library for discovering and running tests in projects using native Clojure deps.
+- [test.check](https://github.com/clojure/test.check) - QuickCheck for Clojure.
 
 ## Other
 
@@ -100,6 +119,25 @@
 - [Javelin](https://github.com/hoplon/javelin) - Spreadsheet-like dataflow programming in ClojureScript.
 - [graal-build-time](https://github.com/clj-easy/graal-build-time) - Library to initialize Clojure packages at build time with GraalVM native-image.
 - [Fijit](https://github.com/erp12/fijit) - Clojure library for Scala interop.
+- [luna](https://github.com/AbhinavOmprakash/luna) - DSL that translates to regex.
+- [Coffi](https://github.com/IGJoshua/coffi) - Foreign Function Interface in Clojure for JDK 17.
+- [Ring-Codec](https://github.com/ring-clojure/ring-codec) - Utility library for encoding and decoding data.
+- [joinery](https://github.com/cjsauer/joinery) - Library to enable traversal of in-memory graph-like data structures using Clojure(Script) map protocols.
+- [tools.namespace](https://github.com/clojure/tools.namespace) - Tools for managing namespaces in Clojure.
+- [svg-clj](https://github.com/adam-james-v/svg-clj) - DSL for compiling SVG elements with Clojure(script).
+- [task](https://github.com/ane/task) - Simple and functional concurrency primitives for Clojure.
+- [Vigil](https://github.com/ane/vigil) - Turn files into asynchronous streams.
+- [tools.build](https://github.com/clojure/tools.build) - Library of functions for building Clojure projects.
+- [pronto](https://github.com/AppsFlyer/pronto) - Clojure support for protocol buffers.
+- [encore](https://github.com/ptaoussanis/encore) - Core utils library for Clojure/Script.
+- [sweet-array](https://github.com/athos/sweet-array) - Array manipulation library for Clojure with "sweet" array type notation and more safety by static types.
+- [process](https://github.com/babashka/process) - Clojure wrapper for java.lang.ProcessBuilder.
+- [Clobits](https://github.com/saikyun/clobits) - Use C inside Clojure, then run it on the JVM or compile a native binary.
+- [injest](https://github.com/johnmn3/injest) - Auto-transducifying, auto-parallelizing path thread macros.
+- [unilog](https://github.com/pyr/unilog) - Easy logging setup in clojure.
+- [Pathom 3](https://github.com/wilkerlucio/pathom3) - Logic programming through attribute relationships in Clojure. ([Docs](https://pathom3.wsscode.com/docs/))
+- [cascade](https://github.com/lilactown/cascade) - Library of continuation-passing, thunk-producing versions of many Clojure core functions.
+- [more.async](https://github.com/bsless/more.async) - Small library to do more stuff with core.async.
 
 ## Links
 
@@ -108,3 +146,6 @@
 - [How-to: Clojure libraries on Maven Central (2021)](https://www.juxt.pro/blog/maven-central)
 - [Antq](https://github.com/liquidz/antq) - Point out your outdated dependencies.
 - [SciCloj](https://scicloj.github.io/) - Community of people creating high-quality open source solutions for data science in Clojure. ([GitHub](https://github.com/scicloj))
+- [deps-modules](https://github.com/exoscale/deps-modules) - Clojure "tool" that attempts to solve one of the "multi module" project problems with tools.deps in a minimalistic way.
+- [deps-new](https://github.com/seancorfield/deps-new) - New, simpler alternative to clj-new.
+- [neil](https://github.com/babashka/neil) - CLI to add common aliases and features to deps.edn-based projects.

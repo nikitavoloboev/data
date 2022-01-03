@@ -26,3 +26,17 @@
 - [Three examples where DSP saved my butt](https://www.dspguide.com/new/appexam.htm)
 - [The Emerging Field of Signal Processing on Graphs: Extending High-Dimensional Data Analysis to Networks and Other Irregular Domains (2013)](https://arxiv.org/abs/1211.0053)
 - [Digital signal processing (DSP) consulting](https://www.johndcook.com/blog/digital-signal-processing-and-time-series-analysis/) ([Twitter](https://twitter.com/DSP_fact))
+- [DSP.js](https://github.com/corbanbrook/dsp.js) - Digital Signal Processing for JavaScript.
+- [AutoDSP](https://github.com/jmcasebeer/autodsp) - Train custom adaptive filter optimizers without hand tuning or extra labels.
+- [Control mechanisms to the U-Net architecture for doing multiple source separation instruments](https://github.com/gabolsgabs/cunet)
+- [Soundpipe](https://github.com/PaulBatchelor/Soundpipe) - Lightweight music DSP library written in C.
+- [Spectrograms – audio signal processing for machine learning](https://selectfrom.dev/spectrograms-or-how-i-learned-to-stop-worrying-and-love-audio-signal-processing-for-machine-d28c022ca5ca) ([HN](https://news.ycombinator.com/item?id=29113998))
+- [Differentiable Digital Signal Processing in PyTorch](https://github.com/acids-ircam/ddsp_pytorch)
+- [Synthesis ToolKit in C++](https://github.com/thestk/stk) - Open source audio signal processing and algorithmic synthesis classes written in the C++ programming language.
+- [Cat meow sounds visualized with Auto-Correlation Function](https://soundshader.github.io/cats.html) ([HN](https://news.ycombinator.com/item?id=29501359))
+- [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+- [SoX](https://github.com/chirlu/sox) - Swiss Army knife of sound processing.
+- [Making sounds using SDL and visualizing them on a simulated oscilloscope (2021)](http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html)
+- [Why can’t you design noise in frequency space? (2021)](https://blog.demofox.org/2021/12/29/why-cant-you-design-noise-in-frequency-space/) ([HN](https://news.ycombinator.com/item?id=29736208))
+- [How Audio Fingerprinting Works (2020)](https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html) ([HN](https://news.ycombinator.com/item?id=29749817))
+- [Audio Fingerprinting API - JSON API for Emy (2021)](https://emysound.com/blog/open-source/2021/06/05/audio-fingerprinting-api.html)

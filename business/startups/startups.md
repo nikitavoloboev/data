@@ -62,6 +62,16 @@
 - [B2B startup: its better to build for self-service from day 0. a) Forces you to make UX intuitive. b) Allows you to get bottoms up growth. c) You can access lower ACV use cases. Its harder than it seems to build out self-service post launch when you have live user demands.](https://twitter.com/immad/status/1421593560965656581)
 - [MVP should be usable (functional and reliable).](https://twitter.com/visakanv/status/536346231472013312)
 - [Starting a company is just taking something that used to annoy you every once in a while and spending every waking minute thinking about it.](https://twitter.com/gkoberger/status/1428138994294874115)
+- [Does this get better or worse as more people use it? Better? You're building a product. Worse? You're building a service.](https://twitter.com/Austen/status/1445610785388982277)
+- [Do whatever you think is right; if you end up successful you were right. Everything else are just opinions, ideas or noise. Take them, use them, ignore them. Your choice. You will only win in your own way.](https://twitter.com/andreasklinger/status/1449394745545998350)
+- [The longer you’re in the startup game the more you realize how big the gulf is between people who talk and people who execute.](https://twitter.com/yongfook/status/1449363950898876419)
+- [When a business model is well understood, we should be able to spend our time on what drives the metrics, not what they are.](https://twitter.com/evancharles/status/1450156809528889346)
+- [Startup ideas framework: What do you want that money can't buy?](https://twitter.com/maksim_s/status/1453818810851487771)
+- [Jeff Bezos’ advice for startups on how to spend their money: Pick the biggest problems and eliminate them one at a time.](https://twitter.com/JonErlichman/status/1454841337728090114)
+- [One excellent use for competitors: send your horrible prospective customers to them. When people ask me again and again (rudely) for a discount, after establishing we are not a good fit, I list out a bunch of Bannerbear competitors and tell them to take a look. Having awful customers is like death by a thousand cuts. Don’t tolerate abusive or passive aggressive BS in your customer support. Life is too short!](https://twitter.com/yongfook/status/1428356724528795657)
+- [Most impactful product advice: use your own product.](https://twitter.com/steren/status/1461573175733481473)
+- [Go slow until you have a great product. Then go fast. The economic efficiency gains from a great product compound everywhere. If you go fast too early, you will fail. Once you have nailed product, go so fast that it scares everyone. If you don’t go fast enough, you will fail.](https://twitter.com/laserlikemike/status/1458796718947024898)
+- [If you don’t have the right founders at the start, you’re dead. If you do and you doubt them when things get hard, you’re dead. Work with founders in which you have absolute faith and then back them no matter what — win or die, together.](https://twitter.com/laserlikemike/status/1474013084574306304)
 
 ## Links
 
@@ -307,13 +317,43 @@
 - [The SaaS Org Chart (2021)](https://sacks.substack.com/p/the-saas-org-chart) ([HN](https://news.ycombinator.com/item?id=27950412))
 - [Ask HN: How did you establish and maintain relationships with your first users? (2021)](https://news.ycombinator.com/item?id=27959475)
 - [Greatest Hits: Mike Maples on Building Successful Startups and Venture Funds (2021)](https://overcast.fm/+a0Bo5yxQ8)
-- [Eric Migicovsky - How to Talk to Users (2019)](https://www.youtube.com/watch?v=MT4Ig2uqjTc) ([Transcript](https://www.ycombinator.com/library/6g-how-to-talk-to-users)) ([Tweet](https://twitter.com/jsjoeio/status/1422231455032250374))
+- [Eric Migicovsky - How to Talk to Users (2019)](https://www.youtube.com/watch?v=MT4Ig2uqjTc) ([Transcript](https://www.ycombinator.com/library/6g-how-to-talk-to-users)) ([Tweet](https://twitter.com/jsjoeio/status/1422231455032250374)) ([Summary](https://blog.anatoly.tech/?go=all/konspekty-y-combinator-kak-govorit-s-polzovatelyami/))
 - [The rise of the one-person unicorn (2021)](https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/) ([HN](https://news.ycombinator.com/item?id=28187204))
 - [How a big company might crush a startup (2021)](https://twitter.com/petergyang/status/1400820631080374280)
 - [Alex MacCaw, CEO of Clearbit: My Path as a Founder (2020)](https://www.youtube.com/playlist?list=PLiksA_rhPy7452h1UBSU1nZ6CmeBcRDRx)
 - [The five most common mistakes founders make in trying to find Product Market Fit (PMF) (2021)](https://johnwdanner.medium.com/the-five-most-common-mistakes-founders-make-in-trying-to-find-product-market-fit-pmf-7941836f24ef)
 - [AMA: I make $100K+ ARR from my microstartups (2021)](https://news.ycombinator.com/item?id=28561132)
 - [I started SaaS companies in 2013 and 2021 – how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/) ([HN](https://news.ycombinator.com/item?id=28601031))
+- [Compound Manual](https://withcompound.com/manual) - Curated library of wealth planning resources for startup founders and employees.
+- [Compound](https://withcompound.com/) - Wealth Management for Startup Founders and Employees.
+- [Five worst mistakes founders do when trying to find product market fit (2021)](https://twitter.com/jwdanner/status/1441076896742068239)
+- [What early business mistake will you never make again? (2021)](https://twitter.com/businessbarista/status/1441752884341874697)
+- [What niche industries still need much better software? (2021)](https://twitter.com/tylertringas/status/1443214561319038982)
+- [On Risk and Imagining the Future (2021)](https://www.nealkhosla.com/blog/on-risk-and-imagining-the-future)
+- [What's the best SaaS starter kit? (2021)](https://news.ycombinator.com/item?id=28774647)
+- [How to Evaluate Startup Offers (2021)](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
+- [My Emotions as a CEO (2021)](https://ryancaldbeck.co/2021/10/08/my-emotions-as-a-ceo/) ([HN](https://news.ycombinator.com/item?id=28809195))
+- [Preferred tools and tech for running a startup](https://github.com/tashburn/stack)
+- [The SaaS Metrics That Matter (2021)](https://sacks.substack.com/p/the-saas-metrics-that-matter) ([Tweet](https://twitter.com/DavidSacks/status/1450147042429321219)) ([HN](https://news.ycombinator.com/item?id=28914470))
+- [Dividing equity between founders (2009)](https://cdixon.org/2009/08/23/dividing-equity-between-founders)
+- [How to Create a SaaS and Compete with the Big Players as a Solo Founder (2021)](https://www.mikealche.com/product-development/an-underdog-guide-to-creating-alternative-in-markets) ([HN](https://news.ycombinator.com/item?id=28917184))
+- [Cloudflare for SaaS for All (2021)](https://blog.cloudflare.com/cloudflare-for-saas-for-all-now-generally-available/) - One-stop shop for SaaS providers looking to provide fast load times, unparalleled redundancy, and the strongest security to their customers.
+- [YC Application Resources](https://www.ycprep.app/) - Videos, Tips, Interviews.
+- [Interviuu](https://www.interviuu.com/) - Mock Interviews for YC and ODX.
+- [Founderkit](https://founderkit.com/) - Reviews and Recommendations from Leading Startup Founders.
+- [How to turn chaos in startups into repeatable processes (2021)](https://twitter.com/dunkhippo33/status/1453604780996132865)
+- [Resources for growing SaaS startup (2021)](https://twitter.com/DanielZarick/status/1458093573581250571)
+- [Ask HN: What HN threads most influenced your thinking about startups? (2021)](https://news.ycombinator.com/item?id=29148698)
+- [Startups people are working on (2021)](https://twitter.com/FounderEric/status/1458138589284339716)
+- [How I helped build a profitable MVP over a weekend](https://mzrn.sh/2021/11/14/how-i-helped-build-a-profitable-mvp-over-a-weekend) ([HN](https://news.ycombinator.com/item?id=29230511))
+- [Ask HN: Great tools for solo SaaS founders? (2021)](https://news.ycombinator.com/item?id=29297229)
+- [Boards are dangerous to founder/CEOs (2021)](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html) ([HN](https://news.ycombinator.com/item?id=29320078))
+- [Technical Co-founders' Guide to Equity Negotiations (2021)](https://omarish.com/equity-negotiation)
+- [How to go from being a super hot company to lucky to get acquired in less than 24 months (2021)](https://joefernandez.substack.com/p/how-to-go-from-being-a-super-hot)
+- [CEO’s job](https://twitter.com/anothercohen/status/1475268148207173634)
+- [CEO's job 2](https://twitter.com/theryanking/status/1475122757117653003)
+- [Roam's CEO mistakes (2021)](https://twitter.com/Conaw/status/1476090219321380865)
+- [Deel startup 2021 learnings](https://twitter.com/Bouazizalex/status/1475854552595374083)
 
 ## Images
 

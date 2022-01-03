@@ -50,3 +50,18 @@
 - [ocicrypt-rs](https://github.com/containers/ocicrypt-rs) - Rust version of the containers/ocicrypt library.
 - [F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption (Extended Version) (2021)](https://arxiv.org/abs/2109.05371) ([Tweet](https://twitter.com/vj_chidambaram/status/1439222843665956870)) ([Tweet](https://twitter.com/Theophite/status/1438738713018699778))
 - [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) - Fastest JS implementation of secp256k1. Independently audited, high-security, 0-dependency ECDSA & Schnorr signatures.
+- [Double-Odd Elliptic Curves](https://doubleodd.group/front.html) ([HN](https://news.ycombinator.com/item?id=28736958))
+- [Mask Network](https://mask.io/) - Send encrypted posts to your friends, participate in cryptocurrencies lucky-draws, and share encrypted files on the platforms you are already using. ([Code](https://github.com/DimensionDev/Maskbook))
+- [libsecp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for ECDSA signatures and secret/public key operations on curve secp256k1. ([Python Lib](https://github.com/rustyrussell/secp256k1-py))
+- [Tanker](https://tanker.io/) - End-to-end encryption as a service. ([GitHub](https://github.com/TankerHQ))
+- [Electronic Health Certificates Spec](https://github.com/ehn-dcc-development/hcert-spec) - Proposal for encoding and signing the Electronic Health Certificate (HCERT).
+- [Authenticated Cipher MORUS (2016)](https://competitions.cr.yp.to/round3/morusv2.pdf) - Fast authenticated cipher for platforms without hardware AES acceleration. ([Zig Code](https://github.com/jedisct1/zig-morus))
+- [goRecrypt](https://github.com/SherLzp/goRecrypt) - Proxy Re-Encryption go implementation.
+- [WebPush](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
+- [Elliptic Curves - Computerphile (2018)](https://www.youtube.com/watch?v=NF1pwjL9-DE)
+- [An Introduction to the Arithmetic of Elliptic Curves (2021)](https://www.youtube.com/playlist?list=PLYpVTXjEi1oe1OeAllJpNhFoI4B7Ws8Yl)
+- [Secret](https://github.com/fabiospampinato/secret) - Simplest command to encrypt/decrypt a file, useful for committing encrypted ".env" files to version control, among other things.
+- [Trousseau](https://github.com/oleiade/trousseau) - Encrypted key-value store designed to be a simple, safe and trustworthy place for your data.
+- [EME for Go](https://github.com/rfjakob/eme) - EME (Encrypt-Mix-Encrypt) wide-block encryption for Go.
+- [Evervault](https://evervault.com/) - Encryption for developers. ([GitHub](https://github.com/evervault))
+- [Alchemy](https://github.com/cpeikert/ALCHEMY) - Language and Compiler for Homomorphic Encryption Made easY.

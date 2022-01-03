@@ -26,6 +26,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 ## Utility
 
 - [z](https://github.com/rupa/z) - Jump around.
+- [Zsh Codex](https://github.com/tom-doerr/zsh_codex) - ZSH plugin that enables you to use OpenAI's powerful Codex AI in the command line.
 - [Enhancd](https://github.com/b4b4r07/enhancd) - Next-generation cd command with an interactive filter.
 - [Ports](https://github.com/caarlos0/ports) - Easily see what's happening on your computer's ports.
 - [Fast Syntax Highlighting](https://github.com/zdharma/fast-syntax-highlighting) - Fine granularity, number of features, 40 work hours themes.
@@ -35,6 +36,8 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [zsh-history](https://github.com/b4b4r07/zsh-history) - Plugin for zsh history extended by golang, dealing it like SQL.
 - [Zsh Vi Mode](https://github.com/jeffreytse/zsh-vi-mode) - Better and friendly vi(vim) mode plugin for ZSH.
 - [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf.
+- [fzf-zsh-plugin](https://github.com/unixorn/fzf-zsh-plugin) - ZSH plugin enables using fzf to search your command history and do file searches.
+- [You Should Use](https://github.com/MichaelAquilina/zsh-you-should-use) - ZSH plugin that reminds you to use existing aliases for commands you just typed.
 
 ## Prompt
 
@@ -56,4 +59,9 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 ## Links
 
 - [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins)
-- [Zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
+- [Zinit](https://github.com/zdharma-continuum/zinit) - Flexible and fast ZSH plugin manager.
+- [Zsh Framework Benchmark](https://github.com/zimfw/zsh-framework-benchmark) - Small utility to benchmark various Zsh frameworks.
+- [zgenom](https://github.com/jandamm/zgenom) - Lightweight and fast plugin manager for ZSH.
+- [Znap](https://github.com/marlonrichert/zsh-snap) - Light-weight Git repo manager for Zsh. Tailored to managing Zsh plugins.
+- [zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - Perhaps you don't need a Zsh plugin manager after all.
+- [Zsh for Humans](https://github.com/romkatv/zsh4humans) - Turnkey configuration for Zsh.

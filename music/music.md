@@ -4,6 +4,10 @@ You can listen through a lot of the songs I liked on [Spotify](https://open.spot
 
 You can also see my most listened to [artists](https://www.last.fm/user/playfullyExist/library/artists), [songs](https://www.last.fm/user/playfullyExist/library/tracks) and [albums](https://www.last.fm/user/playfullyExist/library/albums) alongside my [yearly music stats](https://www.last.fm/user/playfullyExist/listening-report/year) tracked with [last.fm](https://www.last.fm/user/playfullyExist). And here are [my Spotify stats](https://volt.fm/nikitavoloboev) together with the song I am listening to now.
 
+## Interesting clips
+
+- [Everyone You Know - The Drive](https://www.youtube.com/watch?v=nzsMGm9m-kE)
+
 ## Notes
 
 - [Today in music theory, I learned that chords can use different octaves. It's painfully obvious when you think about it, but for some reason it never occurred to me.](https://merveilles.town/web/statuses/105834224452459065)
@@ -88,7 +92,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Resident Advisor](https://www.residentadvisor.net/) - Electronic music online.
 - [Stereogum](https://www.stereogum.com/) - Music blog.
 - [Bliss music analyzer](https://github.com/Polochon-street/bliss) - Open-source library that evaluates distance between songs. ([Web](https://lelele.io/bliss.html)) ([Lobsters](https://lobste.rs/s/b4lrmb/bliss_v2_library_for_making_audio))
-- [Resonate](https://resonate.is/) - Community-owned music network.
+- [Resonate](https://resonate.is/) - Community-owned music network. ([HN](https://news.ycombinator.com/item?id=28991637))
 - [Socialfy](https://www.socialfy.app/) - Your Spotify listening, more socially. Share what you're currently listening too, your top artists, and more. ([Code](https://github.com/rdrnt/socialfy-frontend))
 - [80% of musicians earn less than £200 a year from streaming (2020)](https://www.nme.com/news/music/82-per-cent-of-musicians-earn-less-than-200-a-year-from-streaming-2833510) ([HN](https://news.ycombinator.com/item?id=25352088))
 - [TIDAL](https://tidal.com/) - High Fidelity Music Streaming.
@@ -125,7 +129,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Chillhop Music](https://chillhop.com/) - Lofi hip hop and chill beats. ([YouTube](https://www.youtube.com/channel/UCOxqgCwgOqC2lMqC5PYz_Dg))
 - [What are your top three Jazz albums and why? (2021)](https://www.reddit.com/r/Jazz/comments/nniyfs/what_are_your_top_three_jazz_albums_and_why/)
 - [Nina](https://nina.market/) - Decentralized music distribution service. ([Litepaper](https://docs.nina.market/litepaper/))
-- [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python library that aims for democratizing automatic music transcription.
+- [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python library that aims for democratizing automatic music transcription. ([HN](https://news.ycombinator.com/item?id=29607587))
 - [Daft Punk Cafe](https://daftpunk.cafe/)
 - [gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.
 - [SomaFM](https://somafm.com/) - Commercial-free, Listener-supported Radio.
@@ -148,3 +152,33 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [500 Best Songs of All Time (2021)](https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/cyndi-lauper-time-after-time-2-1224843/)
 - [Tuner](https://github.com/Pauloo27/tuner) - Searches and plays songs from YouTube and SoundCloud inside your terminal.
 - [Spotify Box (2021)](https://evanhailey.com/2021/09/20/spot-box/) ([HN](https://news.ycombinator.com/item?id=28621471))
+- [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/) ([Twitter](https://twitter.com/c4dm))
+- [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening)
+- [Mythra](https://github.com/Go-phie/mythra) - Music retrieval CLI and API using rust.
+- [The 200 Best Albums of the Last 25 Years, According to Pitchfork Readers (2021)](https://pitchfork.com/features/lists-and-guides/peoples-list-25th-anniversary/)
+- [dStream](https://github.com/DusteDdk/dstream) - Simple access to your music from the web. ([HN](https://news.ycombinator.com/item?id=28910368))
+- [Euterpe](https://listen-to-euterpe.eu/) - Self-hosted music streaming server with RESTful API and Web interface. Think of it as your very own Spotify. ([Code](https://github.com/ironsmile/euterpe))
+- [Music on a Clear Möbius Strip (2021)](https://www.youtube.com/watch?v=sToqbqP0tFk)
+- [Using Graph Embeddings for Music Visualization + Discovery with node2vec](https://cprimozic.net/blog/graph-embeddings-for-music-discovery/) ([Lobsters](https://lobste.rs/s/ktd9ew/using_graph_embeddings_for_music))
+- [AudD](https://audd.io/) - Music Recognition API. ([Go API Library](https://github.com/AudDMusic/audd-go))
+- [A Comprehensive Guide to 250+ of Apple Music's New Mood and Activity Playlists (2021)](https://www.macstories.net/stories/a-comprehensive-guide-to-250-of-apple-musics-new-mood-and-activity-playlists/)
+- [ZSpotify](https://github.com/Footsiefat/zspotify) - Spotify downloader needing only a python interpreter and ffmpeg.
+- [Universal Music Group: The Gatekeepers of Music (2021)](https://www.joincolossus.com/episodes/25864787/gokgol-kline-universal-music-group-the-gatekeepers-of-music?tab=blocks)
+- [Audius](https://audius.co/) - Fully decentralized music streaming protocol. ([Discord](https://discord.com/invite/audius)) ([Twitter](https://twitter.com/audiusproject))
+- [What's on your On Repeat Spotify playlist](https://twitter.com/ellenkorbes/status/1453811828069388296/photo/2)
+- [Musidex](https://github.com/Uriopass/Musidex) - Your musical pokedex, Plex for music.
+- [Spotify Rainbow Collage Generator](https://www.chartmymusic.com/spotify/rainbowcollage/)
+- [Loft Radio](https://loft.radio/) - Exploring new ways of supporting artists online. ([Twitter](https://twitter.com/loftradio_))
+- [Indify](https://www.indify.io/) - Helping artists raise funding. ([Twitter](https://twitter.com/indify))
+- [Born to be cool: The life and music of Chet Baker (2021)](https://www.thesmartset.com/born-to-be-cool/) ([HN](https://news.ycombinator.com/item?id=29235423))
+- [MTG-Jamendo Dataset](https://github.com/MTG/mtg-jamendo-dataset) - Open dataset for music auto-tagging.
+- [Rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented in Rust.
+- [A few things I’ve come to believe in my years in music tech (2021)](https://twitter.com/jherskowitz/status/1466078600822677513) ([HN](https://news.ycombinator.com/item?id=29474762))
+- [Awesome microtonal music](https://github.com/suhr/awesome-microtonal)
+- [Aquarium Drunkard : 2021 Year In Review](https://aquariumdrunkard.com/2021/12/13/aquarium-drunkard-2021-year-in-review/)
+- [Aquarium Drunkard](https://aquariumdrunkard.com/) - Eclectic audio journal focused on daily reviews, interviews, features, podcasts and sessions.
+- [Sound.xyz](https://www.sound.xyz/) - Own A Song, Join A Community. ([Article](https://mirror.xyz/davidgreenstein.eth/jE31-g1kCirNczLj18fow78b_TNz6zXESfx4h1nkrN8))
+- [L to the OG: How Succession Weaponizes Music (2021)](https://www.youtube.com/watch?v=uDnVXVCjDEw)
+- [TAPEFEAR](https://www.tapefear.com/) - Rediscovering music discovery.
+- [Wav2Rec](https://github.com/TariqAHassan/wav2rec) - Library for music recommendation based on recent advances in self-supervised neural networks.
+- [MT3: Multi-Task Multitrack Music Transcription](https://github.com/magenta/mt3)

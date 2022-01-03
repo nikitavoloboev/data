@@ -29,3 +29,8 @@
 - [mvfst](https://github.com/facebookincubator/mvfst) - Implementation of the QUIC transport protocol.
 - [QUIC at Snapchat (2021)](https://eng.snap.com/quic-at-snap) ([HN](https://news.ycombinator.com/item?id=27626394))
 - [Dissecting Performance of Production QUIC (2021)](https://cs.brown.edu/~tab/papers/QUIC_WWW21.pdf)
+- [aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python.
+- [Getting Cloudflare Tunnels to connect to the Cloudflare Network with QUIC (2021)](https://blog.cloudflare.com/getting-cloudflare-tunnels-to-connect-to-the-cloudflare-network-with-quic/)
+- [QUIC HTTP/3 with nginx, envoy and curl (2021)](https://blog.salrashid.dev/articles/2021/quic_nginx_envoy_curl/)
+- [quinn](https://lib.rs/crates/quinn) - QUIC transport protocol implementation for Tokio.
+- [Fabruic](https://github.com/khonsulabs/fabruic) - Easy-to-use QUIC-based protocol that supports reliable payload delivery.

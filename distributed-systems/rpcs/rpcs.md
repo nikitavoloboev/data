@@ -32,3 +32,12 @@
 - [TChannel](https://tchannel.readthedocs.io/en/latest/) - Network multiplexing and framing protocol for RPC. ([Code](https://github.com/uber/tchannel))
 - [TChannel Go](https://github.com/uber/tchannel-go) - Go implementation of a multiplexing and framing protocol for RPC calls.
 - [jsonrpc-proxy](https://github.com/tomusdrw/jsonrpc-proxy) - Generic and extensible JSON-RPC proxy, supporting cache and load-balancing.
+- [rpc](https://github.com/deno-libs/rpc) - JSONRPC server implementation with native WebSocket, based on jsonrpc.
+- [Don’t Let RPCs Constrain Your API (2021)](https://www.cs.yale.edu/homes/soule/pubs/hotnets2021.pdf) ([Tweet](https://twitter.com/danielbittman/status/1447997859215945729))
+- [Rony](https://github.com/ronaksoft/rony) - Fast and Scalable RPC Framework. In Go.
+- [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more.
+- [OpenRPC Generator](https://github.com/open-rpc/generator) - Multi-Component & Multi-Language Generators for OpenRPC.
+- [OCaml Cap'n Proto RPC library](https://github.com/mirage/capnp-rpc)
+- [OpenRPC Typings](https://github.com/open-rpc/typings) - Tool to produce language-specific typings given an OpenRPC document.
+- [hRPC](https://github.com/harmony-development/hrpc) - Simple RPC system using protocol buffers over HTTP and WebSockets.
+- [hrpc-rs](https://github.com/harmony-development/hrpc-rs) - Implementation of hRPC in Rust.

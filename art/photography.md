@@ -1,6 +1,6 @@
 # Photography
 
-Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography).
+Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/) is inspiring.
 
 ## Interesting cameras
 
@@ -15,6 +15,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Kerem's Lightroom presets](http://kerem-bakir.com/shop/)
 - [Rebecca Lily's Lightroom presets](https://www.rebeccalily.com/products)
 - [Renaissance Preset Pack - Kai Böttcher](https://www.kai-boettcher.com/shop/renaissance)
+- [Lightroom Presets Collection 02 - Oliur](https://oliur.com/lightroom-presets-collection-02/) ([Tweet](https://twitter.com/UltraLinx/status/1452326258403168261))
 
 ## Edits
 
@@ -23,6 +24,13 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 ## Photography portfolio code
 
 - [Sam Robbins's photos](https://photos.samrobbins.uk/) - Uses Next.js. ([Code](https://github.com/samrobbins85/photos))
+
+## Notes
+
+- [I do a lot of street and my advice is to keep going out there. Have your camera hang around your neck, let the public see you’re a photographer. And when you want to take a photo, bring that camera up your your eye, stand tall, and take your shot. The less you seem creepy about it, people won’t care. Also, take photos of interesting things. Let the subject come INTO your frame.](https://www.reddit.com/r/fujifilm/comments/qhmlri/x100v_my_first_time_trying_street_photography/)
+- [As someone who enjoys street photography but is also uncomfortable taking photos of strangers, one piece of advice I would give is to go 'fishing' as opposed to 'hunting'. With hunting - you go around searching for subjects and shots and it can all feel a bit... predatory. With fishing, however, you find your spot (maybe an interesting shaft of light, or background) and then hang about waiting for people to come into frame. This allows people to see what you're doing as they walk by and can always step out of the frame if they really don't want their picture taken. I also think you get better shots since you have time to assess and try a few different perspectives on the same scene.](https://www.reddit.com/r/fujifilm/comments/qhmlri/x100v_my_first_time_trying_street_photography/)
+- [Think more about getting the shot and less about what anyone else thinks about you or what you are doing.](https://www.reddit.com/r/fujifilm/comments/qhmlri/x100v_my_first_time_trying_street_photography/)
+- [Take more pictures of yourself, and of the people and things you take for granted every day. These are the good old days.](https://twitter.com/swyx/status/1464873480654974981)
 
 ## Links
 
@@ -142,4 +150,31 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Photoview](https://photoview.github.io/) - Photo gallery for self-hosted personal servers. ([Code](https://github.com/photoview/photoview))
 - [Vitaly Rubtsov - YouTube](https://www.youtube.com/channel/UCUHeg2C_KSLJ3IZmyOcsr2w/videos)
 - [Nikon's 2021 Photomicrography Competition Winners](https://www.nikonsmallworld.com/galleries/2021-photomicrography-competition) ([HN](https://news.ycombinator.com/item?id=28541841))
-- [iPhone 13 Pro Camera Review: Tanzania (2021)](https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania)
+- [iPhone 13 Pro Camera Review: Tanzania (2021)](https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania) ([HN](https://news.ycombinator.com/item?id=28642740))
+- [iPhone 13 Pro Camera Preview: The Hardware Changes (2021)](https://lux.camera/iphone-13-pro-camera-preview-the-hardware-changes/)
+- [Flickr Foundation](https://www.flickr.org/)
+- [Искать «Пятерочки» и снимать лужи. Фотограф Паша Огородников (2021)](https://perito-burrito.com/posts/iskat-pyaterochki-i-snimat-luzhi-fotograf-pasha-ogorodnikov-o-tom-kak-delat-klassnye-gorodskie-foto)
+- [International Center of Photography](https://www.icp.org/school)
+- [iPhone Macro: A Big Day for Small Things (2021)](https://lux.camera/iphone-macro-camera-a-big-day-for-small-things/)
+- [Whole Earth Flashbacks - Photo Album](https://photos.google.com/share/AF1QipMZhatDdj9CbnyceCQt2uFpkAiJqxUEXanwPOiHEkvP3tAQ6h7bJ8FN45FH4jySQg?pli=1&key=ZVJFUUVIbGZEQ3pkZ1NRcS11LXJDbThIZ2JQRWJ3) ([Tweet](https://twitter.com/mollyfmielke/status/1448689980390318094))
+- [Photo Editing: Respecting Context (2021)](https://simonsarris.substack.com/p/photo-editing-respecting-context)
+- [Munin](https://github.com/kradalby/munin) - Opinionated image gallery backend generator.
+- [Hugin](https://github.com/kradalby/hugin) - Front-end for image galleries generated with Munin.
+- [GoGallery](https://github.com/robrotheram/gogallery) - Simple gallery server in go.
+- [Bringing Color and Life to Black and White Photos (2021)](https://blog.skz.dev/bringing-colour-and-life-to-black-and-white-photos)
+- [The features that more cameras should have (2021)](https://photographylife.com/features-more-cameras-need) ([HN](https://news.ycombinator.com/item?id=29257334))
+- [Top Priority in Outdoor Photography (2021)](https://www.youtube.com/watch?v=ucKnru5dx88)
+- [The Sticky Issue of Consent in Street Photography](https://dinalitovsky.bulletin.com/312411763768865/)
+- [Photographing Strangers: Introvert's guide to street photography](https://dinalitovsky.bulletin.com/569660374228892)
+- [Robert Adams: Beauty in Photography (2005)](https://aperture.org/books/beauty-in-photography/)
+- [Retrato: A Guide to Portrait Photography](https://gitpuller.gumroad.com/l/retratobook)
+- [How To Make Your PHOTOS Look Cinematic [Photography & Lightroom Tutorial] (2021)](https://www.youtube.com/watch?v=3JcneOqr8uI)
+- [Recommended Photography Books](https://www.reddit.com/r/photography/wiki/index#wiki_recommended_photography_books)
+- [What book helped you most with photography? (2021)](https://www.reddit.com/r/photography/comments/rdt2hx/what_one_book_on_photography_has_helped_you_the/)
+- [Photography Reddit Wiki](https://www.reddit.com/r/photography/wiki/index)
+- [What are some general rules for when photographing people? (2021)](https://www.reddit.com/r/photography/comments/rki83u/what_are_some_general_rules_for_when/)
+- [How to develop black and white film at home with coffee](https://www.fieldmag.com/articles/how-to-develop-film-with-coffee-caffenol-guide) ([HN](https://news.ycombinator.com/item?id=29635815))
+- [What photography-related content do you watch most on YouTube? (2021)](https://www.reddit.com/r/photography/comments/rmc42e/what_photographyrelated_content_do_you_watch_most/)
+- [Photography Reddit AMA (2021)](https://www.reddit.com/r/photography/comments/rnl06g/official_question_thread_ask_rphotography/)
+- [Your favorite photo you took in 2021](https://twitter.com/Reuben_Wu/status/1476604584164573190)
+- [Useful photography for beginners (2021)](https://tylercipriani.com/blog/2021/12/31/useful-photography-for-beginners/)

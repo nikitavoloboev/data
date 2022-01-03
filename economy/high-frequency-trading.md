@@ -26,3 +26,4 @@
 - [Optiver](https://www.optiver.com/) - Trading firm.
 - [Quant-Trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies.
 - [An Intern’s Guide to Trading (2021)](https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01) ([HN](https://news.ycombinator.com/item?id=27763965))
+- [finmarketpy](https://github.com/cuemacro/finmarketpy) - Python library for backtesting trading strategies & analyzing financial markets.

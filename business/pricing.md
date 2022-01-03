@@ -5,6 +5,7 @@
 - [Fathom](https://app.usefathom.com/register)
 - [Monica](https://www.monicahq.com/pricing)
 - [Splitbee](https://splitbee.io/pricing)
+- [BlackMagic.so](https://blackmagic.so/membership/) - Shows GIFs on hover for each pricing point. ([Tweet](https://twitter.com/tdinh_me/status/1464105494008635396))
 - [Reflect's billing page includes a letter from the team](https://twitter.com/maccaw/status/1437208734929850369)
 
 ## Notes
@@ -17,6 +18,7 @@
 - [I feel like something almost everybody gets wrong about subscription pricing in their apps is not having a ‘no brainer’ tier as an onramp. Give me a feature subset that I can live on while I get started with your app, don’t just go straight to the ’30 day trial or $50/yr’ extreme](https://twitter.com/stroughtonsmith/status/1388607057910239232)
 - [Give away general info, charge for contextual advice. Make the value for the customer immediately obvious. Pricing should be straightforward.](https://twitter.com/VicVijayakumar/status/1424173615847772161)
 - [Took me a long time to get comfortable accepting a one-time purchase business model as not being “inferior” to recurring, but there are tons of advantages. And even without subscription, our revenue is still very predictable week to week (+/- 10%). Ultimately of course it’s the type of product you’re selling and how it delivers value that should determine the pricing model, not just “whichever one you like better”. But don’t dismiss a good idea just because it wouldn’t be recurring, one-time is a very legit business model.](https://twitter.com/adamwathan/status/1440816886996865025)
+- [Many so call 'sales' don't change the price and only put the sale tag to provoke buying at the same price](https://twitter.com/yongfook/status/1462909377594019843)
 
 ## Links
 
@@ -64,3 +66,11 @@
 - [Saas Pricing Calculator](https://indiebrands.io/saas-pricing-calculator)
 - [Video Game Pricing (2021)](https://www.youtube.com/watch?v=zvPkAYT6B1Q) ([HN](https://news.ycombinator.com/item?id=28200360))
 - [Framework for pricing (not revenue maximizing)](https://twitter.com/ravisparikh/status/1437441229956997120)
+- [Estii](https://estii.com/) - Presales estimation platform for software & services.
+- [Ask For Money — Under the Radar (2021)](https://overcast.fm/+FgnaClmOk) ([Tweet](https://twitter.com/_vojto/status/1451872628709511171))
+- [Apps are not coffee (2021)](https://ia.net/topics/on-apps-and-coffee)
+- [How to monetize fully decentralized, local-first, multiplayer, end-to-end encrypted Notion/Roam (2021)](https://twitter.com/ibdknox/status/1458099415462318080)
+- [4 things nobody tells you about preselling your product (2021)](https://stackingthebricks.com/4-things-preselling/) ([Tweet](https://twitter.com/JoshWComeau/status/1458903882231435265))
+- [I Analyzed SaaS Billing Dark Patterns (2021)](https://quolum.com/blog/saas/i-analyzed-saas-billing-dark-patterns/) ([HN](https://news.ycombinator.com/item?id=29255445))
+- [Every pricing page should have GIFs](https://tdinh.notion.site/Every-pricing-page-should-have-GIFs-e74d6d363d4c4d33b5ff754452f7ab96) ([HN](https://news.ycombinator.com/item?id=29348328))
+- [The Importance of Price Signals (2021)](https://www.lynalden.com/price-signals/) ([HN](https://news.ycombinator.com/item?id=29691988))

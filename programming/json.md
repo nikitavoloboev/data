@@ -1,5 +1,9 @@
 # [JSON](https://www.json.org)
 
+## Notes
+
+- [I wish JSON.parse had an option to allow comments and trailing commas. There's a whole world of config files in companies that the built in platform can't handle. Installing jsonc or json5 is one of the first things I do everywhere.](https://twitter.com/ElliottZ/status/1442524500365508616)
+
 ## Links
 
 - [Transform a glob of text into structured JSON](https://transform.isthe.link/?)
@@ -67,3 +71,27 @@
 - [JSON Joy](https://github.com/streamich/json-joy) - JSON utilities. Libraries for collaborative editing with OT and CRDT approaches.
 - [JSON Schema bundling formalized (2021)](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents) ([HN](https://news.ycombinator.com/item?id=28479464))
 - [Awesome JSON Schema](https://github.com/jviotti/awesome-jsonschema)
+- [Zod to JSON Schema](https://github.com/StefanTerdell/zod-to-json-schema)
+- [JSON5](https://json5.org/) - JSON for Humans. ([Code](https://github.com/json5/json5)) ([HN](https://news.ycombinator.com/item?id=28668282))
+- [Parsing JSON is a Minefield](http://seriot.ch/projects/parsing_json.html) ([HN](https://news.ycombinator.com/item?id=28826600))
+- [Hyperjump](https://json-schema.hyperjump.io/) - JSON Schema Validator. ([Code](https://github.com/hyperjump-io/json-schema-validator))
+- [JSON Schema for Humans](https://github.com/coveooss/json-schema-for-humans) - Quickly generate a beautiful static HTML or Markdown page documenting a JSON schema.
+- [Parsing Gigabytes of JSON per Second (2020)](https://arxiv.org/abs/1902.08318) ([HN](https://news.ycombinator.com/item?id=28941207))
+- [JSON-RPC server for Go](https://github.com/swaggest/jsonrpc/) ([Article](https://dev.to/vearutop/json-rpc-2-0-with-swagger-ui-2h3g))
+- [MistQL](https://github.com/evinism/mistql) - Miniature embeddable query language for JSON-like structures, built for embedding within applications. ([Web](https://www.mistql.com/))
+- [JSONiq](https://www.jsoniq.org/) - JSON Query Language. ([HN](https://news.ycombinator.com/item?id=29159343))
+- [EEL](https://github.com/Comcast/eel) - Simple proxy service to forward JSON events and transform or filter them along the way.
+- [jtd-infer](https://github.com/jsontypedef/json-typedef-infer) - CLI tool that generates JSON Typedef schemas from example data.
+- [JSON Type Definition](https://jsontypedef.com/) - Easy-to-learn, portable, and standardized way to describe the shape of your JSON data. ([GitHub](https://github.com/jsontypedef))
+- [GROQ](https://groq.dev/) - Query language for JSON documents. ([JS lib](https://github.com/sanity-io/groq-js))
+- [Command-line tool for converting anything to JSON](https://github.com/antonmedv/eat)
+- [any-json](https://github.com/any-json/any-json) - Convert (almost) anything to JSON.
+- [Jet](https://github.com/ChrisPenner/jet) - Structural editor for JSON values.
+- [JSON Web Proofs Spec](https://github.com/json-web-proofs/json-web-proofs)
+- [jet](https://github.com/borkdude/jet) - CLI to transform between JSON, EDN and Transit, powered with a minimal query language.
+- [JSON Can Be Faster Than Binary (2021)](https://www.tbray.org/ongoing/When/202x/2021/12/03/Filtering-Lessons) ([Lobsters](https://lobste.rs/s/kqycne/json_can_be_faster_than_binary))
+- [Mappings](https://www.stedi.com/docs/mappings) - Tool that maps JSON documents from one structure to another. ([Tweet](https://twitter.com/tlakomy/status/1470374323999453185))
+- [dyff](https://github.com/homeport/dyff) - diff tool for YAML files, and sometimes JSON.
+- [JSON-S](https://github.com/brillout/json-s) - Same as JSON but with added support for Date, undefined, NaN, Infinity, and RegExp.
+- [toml2json](https://github.com/woodruffw/toml2json) - Small CLI for converting TOML to JSON.
+- [Deserializing JSON Fast (2020)](https://blog.datalust.co/deserializing-json-really-fast/) ([HN](https://news.ycombinator.com/item?id=29750062))

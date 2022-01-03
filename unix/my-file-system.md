@@ -10,12 +10,12 @@ I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/mas
 
 ## ~/Documents
 
-All my actual documents (books, papers..) are put there. The folder synced with iCloud and I often access it from my phone via Spotlight search.
+All my actual documents (books, papers..) are put there. The folder synced with iCloud and I often access it from my phone via Alfred search.
 
 ```Bash
 ~/Documents
 ❯ exa
-Books  Design  Learn  PDFs  Personal  Pixave  Research  Videos  Zoom
+AudioBooks  Books  Design  Docs  LA  Learn  Music  Org  Papers  PDFs  Personal  Videos  Zoom
 ```
 
 ## ~/Downloads
@@ -31,7 +31,7 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ exa
-learning  cli  clones  curated  extensions  games  ios  lib  macos  orgs  personal  web
+cli  curated  extensions  games  learning  lib  orgs  personal  services  web  xcode
 ```
 
 ## ~/src/clones
@@ -47,7 +47,7 @@ Inside this folder I keep all code from orgs I am working or worked on.
 ```Bash
 ~/src/orgs
 ❯ exa
-2do  learn-anything
+droppa  learn-anything
 ```
 
 ## ~/src/learning
@@ -61,7 +61,7 @@ Contains different extensions to various apps in form of workflows/plugins.
 ```Bash
 ~/src/extensions
 ❯ exa
-alfred  safari  vim  vscode
+alfred  raycast  safari  vim  vscode  xcode
 ```
 
 ## ~/src/extensions/alfred
@@ -102,3 +102,4 @@ Alfred  Apps  Config  IFTTT  Public  Shared  Temp  upload.sh  Write
 - [Ask HN: How do you keep your files organized on macOS? (2019)](https://news.ycombinator.com/item?id=19327264)
 - [How do you organize your \$HOME directory? (2019)](https://lobste.rs/s/zpw6py/how_do_you_organize_your_home_directory)
 - [Ask HN: How do you organise your files and folders? (2020)](https://news.ycombinator.com/item?id=23404900)
+- [Ask HN: How do you manage your personal documents? (2021)](https://news.ycombinator.com/item?id=29161110)

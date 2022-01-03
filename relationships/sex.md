@@ -2,10 +2,10 @@
 
 ## Notes
 
-- [Give her an orgasm (or more) before you actually have sex. That way if you finish early it’s not the end of the world.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)
+- [Give her an orgasm (or more) before you actually have PIV sex. That way if you finish early it’s not the end of the world.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)
 - [Going off birth control can increase sex drive.](https://www.reddit.com/r/sex/comments/mgliwt/i_went_off_of_birth_control_and_dear_god/)
 - [There is no such thing as vaginal orgasm, only clitoral. Pay attention and be gentle with it.](https://www.abc.net.au/health/features/stories/2014/10/28/4116350.htm)
-- [How is female birth control literally all so incredibly medieval](https://twitter.com/nwilliams030/status/1381421499005943810)
+- [How is female birth control literally all so incredibly medieval.](https://twitter.com/nwilliams030/status/1381421499005943810)
 - [If you're taking it slower now, you're probably getting into it more. I used to have problems where he was hitting cervix and sent shooting pains. Now he takes tons of time warming me up, tons of foreplay and things directed towards me. It allows me to relax and enjoy myself more, and in return hitting the deep points don't feel painful anymore they are way more pleasurable. I am left teary eyed, semi runny nose, giggly, shaking.... sometimes if I edge long enough too on top that, can make you feel almost drunk.](https://www.reddit.com/r/sexover30/comments/n39rs9/what_is_he_hitting_that_feels_so_good_aspot_or/)
 
 ## Links
@@ -73,3 +73,16 @@
 - [The Mating Strategies of Earthlings (2021)](https://overcast.fm/+KhqGVL-74)
 - [Arousing TV series/how-tos? (No porn)](https://www.reddit.com/r/sexover30/comments/ofszim/arousing_tv_serieshowtos_no_porn/)
 - [Список интимных товаров](https://twitter.com/vzrosly_content/status/1418190252452241409)
+- [Overly analytical guide to escorting (2021)](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/) ([HN](https://news.ycombinator.com/item?id=28924751))
+- [What advice have you gotten that has changed your sex life? (2021)](https://www.reddit.com/r/sex/comments/qcnfzn/what_advice_have_you_gotten_that_has_changed_your/)
+- [Hamilton Morris: The Relationship Between Sex and Psychedelics](https://www.youtube.com/watch?v=MQA81YwYI0c)
+- [What is the biggest reason people are having so little sex?](https://twitter.com/willlowthewhisp/status/1453423456268296194)
+- [Ringing The Devil’s Doorbell: A Light-Hearted, Practical Guide (2021)](https://johannestevans.medium.com/ringing-the-devils-doorbell-a-light-hearted-practical-guide-82dca6e9a576)
+- [Prostitute interview - Exotic (2021)](https://www.youtube.com/watch?v=ItUUmukrKM0)
+- [ТРЕД про внутриматочную спираль, экстренную контрацепцию, мини-пили, НоваРинг и Implanon NXT](https://twitter.com/doctorbataev/status/1297896119905783809) ([Reddit](https://www.reddit.com/r/AskARussian/comments/qv32o2/birth_controliuds/))
+- [Power imbalances and sex (2016)](https://knowingless.com/2016/08/21/power-imbalances-and-sex/) ([HN](https://news.ycombinator.com/item?id=29580854))
+- [What sexual bucket list item lived up to expectations?](https://www.reddit.com/r/AskMen/comments/rifg7s/what_sexual_bucket_list_item_lived_up_to/)
+- [One thing you learned about relationships/sex you wish you knew sooner](https://www.reddit.com/r/AskWomen/comments/rp8y8n/what_is_the_one_thing_you_learned_about/)
+- [What are your best "Sexual Mechanics" tricks?](https://www.reddit.com/r/sexover30/comments/rpcs0p/what_are_your_best_sexual_mechanics_tricks/)
+- [Stronger orgasm resources](https://www.reddit.com/r/sexover30/comments/rqngdl/stronger_orgasm_resources_whats_worked_for_you_id/)
+- [Come as You Are: The Surprising New Science that Will Transform Your Sex Life by Emily Nagoski (2015)](https://www.goodreads.com/book/show/22609341-come-as-you-are)

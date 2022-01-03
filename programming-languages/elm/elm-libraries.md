@@ -6,6 +6,8 @@
 - [http](https://github.com/elm/http) - Make HTTP requests in Elm.
 - [elm-graphql](https://github.com/dillonkearns/elm-graphql/) - Autogenerate type-safe GraphQL queries in Elm.
 - [Elm Animator](https://github.com/mdgriffith/elm-animator) - Timeline-based animation engine for Elm.
+- [elm-vegaLite](https://github.com/gicentre/elm-vegalite) - Vega-Lite Integration for functional declarative visualization.
+- [elm-charts](https://github.com/terezka/elm-charts) - Create SVG charts in Elm.
 
 ## Style
 
@@ -18,6 +20,10 @@
 - [Elm Visualization](https://github.com/gampleman/elm-visualization) - Data visualization library for Elm.
 - [elm-in-elm](https://github.com/elm-in-elm/compiler) - Elm compiler written in Elm.
 - [Elm CLI Options Parser](https://github.com/dillonkearns/elm-cli-options-parser) - Build type-safe command-line utilities in Elm.
+- [another-elm/std](https://github.com/another-elm/std) - Standard libraries for Elm.
+- [Maybe.Extra](https://github.com/elm-community/maybe-extra) - Convenience functions for working with Maybe.
+- [elm-street](https://github.com/Holmusk/elm-street) - Library for generating Elm types and JSON codecs from Haskell types.
+- [json-to-elm](https://github.com/eeue56/json-to-elm) - Create Elm type aliases and decoders based on JSON input.
 
 ## Links
 

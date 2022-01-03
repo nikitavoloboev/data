@@ -1,5 +1,7 @@
 # Learning
 
+I love [Learney's approach to learning (show clear dependencies / track topics to learn / show best resources)](https://twitter.com/nikitavoloboev/status/1462921646575173633). [Feynman Technique](https://twitter.com/SahilBloom/status/1475096936395026434) is nice too.
+
 ## Notes
 
 - [The internet provides access to an education that the aristocracy of old couldn't have imagined. It also provides the perfect attack vector for marketers to exploit cognitive vulnerabilities and dominate your attention. A world-class education is free for the undistractable.](https://twitter.com/TheStoicEmperor/status/1086118829661376512)
@@ -9,6 +11,12 @@
 - [It's incredible how much I was able to learn about myself and my craft by being an observer.](https://twitter.com/schlaf/status/1369466938448089088)
 - [Something I try to be more mindful of these days is content-medium fit. "What medium is conducive to this kind of content" Teaching → Video workshops/webinars & blog posts. Storytelling → Podcasts. Chat/discussion → Clubhouse/Twitter Spaces. Coaching → Small group calls.](https://twitter.com/coreyhainesco/status/1377369107687870465)
 - [The minute after you learn something is a really good time to start teaching.](https://twitter.com/jkup/status/1434280206567624705)
+- [The problem with learning from experts is that they are so far removed from square one. Their material assumes some foundational knowledge. Newbies, don't be afraid to share what you're learning. From the beginning. We - even the experts - need your fresh perspective!](https://twitter.com/techgirl1908/status/1441794957543608324)
+- [Building in Public let’s you leverage Cunningham’s Law to positive effect: if you error in your trial, someone is way more likely to pop out of the woodwork to tell you the right answer.](https://twitter.com/mikewavsz/status/1445627803550961669)
+- [Explaining concepts in the chronological order they were developed is vastly overrated as a teaching strategy. Once we have the huge benefit of hindsight we should use that context to give better explanations in a logical order.](https://twitter.com/nick_r_cameron/status/1448227898935099392)
+- [I think this is the real externality of having everything be algo-ranked for maximum engagement. I don't think many people are being polarized/radicalized politically. But we end up getting compacted into a more rigid version of ourselves in a thousand mundane ways. A partial cure has been to get myself back into reading books -- hard books. It is the only medium that can afford you a sufficient sense of occupying someone else's mind for a while when you're sick of yours. But somehow my attention span is shattered.](https://twitter.com/DanGrover/status/1443419300023263233)
+- [Every act of conscious learning requires the willingness to suffer an injury to one’s self esteem.](https://twitter.com/mollyfmielke/status/1452658271190278144)
+- [More “senior” engineers should do live coding or infra building exercises. You can read all about the basics in a book or online, but seeing a seasoned person tackle problems and handle exceptions in real time is the real gem.](https://twitter.com/bryanl/status/1455568889107128327)
 
 ## Links
 
@@ -23,7 +31,7 @@
 - [Stop Treading Water: Learning to Learn by Edward Kmett (2014)](https://www.youtube.com/watch?v=j0XmixCsWjs)
 - [Michael E. Karpeles's mission](https://mek.fyi/mission)
 - [Ask HN: What are you learning in 2019?](https://news.ycombinator.com/item?id=20793590#20794475)
-- [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/) ([HN](https://news.ycombinator.com/item?id=29518955))
 - [HandWiki](https://handwiki.org/wiki/Start) - Online wiki-style encyclopedia dedicated to applications of computers, software programs and programming in different areas of science, finance and engineering.
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [42: Collection of over 3000+ sites and resources](https://links.rsapkf.xyz/) ([Code](https://github.com/rsapkf/42))
@@ -117,7 +125,7 @@
 - [Traverse](https://traverse.link/) - Learning tool designed to help you remember.
 - [Kyla Scanlon's Reading List](https://www.notion.so/Reading-List-1b7b6b0c0c0646849124942c3e23e39c)
 - [Ask HN: What lessons did you learn from your best or worst colleagues? (2021)](https://news.ycombinator.com/item?id=27161901)
-- [Learney](https://app.learney.me/) - Online learning platform that lets you take your own path.
+- [Learney](https://app.learney.me/#) - Online learning platform that lets you take your own path. ([Reddit](https://www.reddit.com/r/learnmachinelearning/comments/qzjwb0/build_your_own_interactive_learning_roadmaps/))
 - [Caught in the Study Web (2021)](https://every.to/cybernaut/caught-in-the-study-web) ([Tweet](https://twitter.com/fadeke_adegbuyi/status/1396908868656005123))
 - [Neso Academy - YouTube](https://www.youtube.com/c/nesoacademy/videos) - On a mission to provide free and subsidized education.
 - [Stanford Course Schedule 2020-2021](https://cs.stanford.edu/courses/schedules/2020-2021.autumn.php) ([Tweet](https://twitter.com/karpathy/status/1398737554761863168))
@@ -132,7 +140,7 @@
 - [Ask HN: What Are You Learning? (2021)](https://news.ycombinator.com/item?id=27627381)
 - [Code House](https://codehouse.vercel.app/) - Store House of 300+ Developer Cheatsheets.
 - [Learners](https://learn.rs/) - Learn fast with peer to peer community mentoring.
-- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) ([HN](https://news.ycombinator.com/item?id=27882895))
+- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) ([HN](https://news.ycombinator.com/item?id=27882895)) ([HN](https://news.ycombinator.com/item?id=29116026))
 - [Primer](https://primerlabs.io/) - Conversational Courses to learn on your own. ([HN](https://news.ycombinator.com/item?id=27884189))
 - [What Everyone in Tech Should Know About Teaching and Learning (2021)](https://www.youtube.com/watch?v=ewXvFQByRqY)
 - [Teaching Tech Together (2019)](https://teachtogether.tech/en/index.html) ([HN](https://news.ycombinator.com/item?id=27902459))
@@ -150,3 +158,31 @@
 - [Illustrated Primers](https://github.com/prathyvsh/illustrated-primers/) - Books that makes heavy use of visuals for scientific communication.
 - [Ask HN: How Do You Learn? (2021)](https://news.ycombinator.com/item?id=28482726)
 - [Fully-searchable Library Genesis on IPFS](https://libgen.fun/dweb.html) ([HN](https://news.ycombinator.com/item?id=28585208))
+- [Retrieval Practice Consistently Benefits Student Learning: a Systematic Review of Applied Research in Schools and Classrooms](https://link.springer.com/epdf/10.1007/s10648-021-09595-9) ([Review](https://www.youtube.com/watch?v=kG2_6ToMZgI)) ([Tweet](https://twitter.com/PoojaAgarwal/status/1441790379569856518))
+- [Powerful Teaching: Unleash the Science of Learning Book](https://www.powerfulteaching.org/) ([Twitter](https://twitter.com/RetrieveLearn))
+- [Khan Academy](https://www.khanacademy.org/) - Free Online Courses, Lessons & Practice. ([GitHub](https://github.com/Khan))
+- [Do you practice? (2021)](https://lobste.rs/s/h45sn7/do_you_practice)
+- [What Is Your Favorite Deep, Elegant, or Beautiful Explanation? (2012)](https://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation)
+- [Open Syllabus Prints](https://open-syllabus.myshopify.com/) - Large 'Galaxy' Prints of Your Favorite Academic Fields. ([Tweet](https://twitter.com/NadiehBremer/status/1449025016733962242))
+- [What to Learn](https://danluu.com/learn-what/) ([HN](https://news.ycombinator.com/item?id=28904021))
+- [Great YouTube learning channels (2021)](https://twitter.com/balajis/status/1443128820249214979)
+- [Willingness to Look Stupid](https://danluu.com/look-stupid/) ([HN](https://news.ycombinator.com/item?id=28942189)) ([Tweet](https://twitter.com/danluu/status/1451114505438568448))
+- [How Learning Works: Components, Systems, and Loops (2021)](https://romandesign.co/how-learning-works-components-systems-and-loops/)
+- [100R — resources](https://100r.co/site/resources.html)
+- [Дмитрий Карловский: слайды для конференций](https://github.com/nin-jin/slides)
+- [Ask HN: I feel so shallow and dumb when I see what other smart people are doing (2021)](https://news.ycombinator.com/item?id=29281468)
+- [Ask HN: Long-form info-dense videos on YouTube you would recommend to anyone? (2021)](https://news.ycombinator.com/item?id=29523638)
+- [Ask HN: What programming tutorial/course/article/blog would you like to see? (2021)](https://news.ycombinator.com/item?id=29528305)
+- [Ask HN: What practical skills do you recommend? (2021)](https://news.ycombinator.com/item?id=29535592)
+- [100 things Dan learned working on React team (2021)](https://twitter.com/dan_abramov/status/1470613731071696896)
+- [Lecture Speedrun](https://zznidar.github.io/lecture-speedrun/) - Speed up silent portions of a lecture video/audio on-the-fly. ([Code](https://github.com/zznidar/lecture-speedrun))
+- [Best books for professional effectiveness (2021)](https://news.ycombinator.com/item?id=29602228)
+- [Lobsters: What are you planning to learn in 2022?](https://lobste.rs/s/thsihg/what_are_you_planning_learn_2022)
+- [Against 3x Speed](https://perell.com/essay/against-3x-speed/) ([HN](https://news.ycombinator.com/item?id=29621642)) ([Lobsters](https://lobste.rs/s/iuzi3v/against_3x_speed))
+- [Ask HN: Top Skills to Learn for 2022?](https://news.ycombinator.com/item?id=29627124)
+- [Best textbooks (or comprehensive primers) which are freely available online (2021)](https://twitter.com/andy_matuschak/status/1473450143387062274?s=28)
+- [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
+- [Feynman Technique explained](https://twitter.com/SahilBloom/status/1475096936395026434)
+- [Ask HN: Moving from tiny websites to serious tech skills? (2021)](https://news.ycombinator.com/item?id=29692160)
+- [Alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
+- [Vitalik Buterin's 2021 writing summary](https://twitter.com/VitalikButerin/status/1477402749994156036)

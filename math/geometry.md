@@ -45,3 +45,13 @@
 - [Geometry Processing Course](https://github.com/alecjacobson/geometry-processing)
 - [Generating Random Convex Polygons](https://cglab.ca/~sander/misc/ConvexGeneration/convex.html)
 - [jaxgptoolbox](https://github.com/ml-for-gp/jaxgptoolbox) - Collection of basic geometry processing functions, constructed to work with jax's audodifferentiation feature for applications in machine learning.
+- [Euclidean plane and its relatives: minimalist introduction](http://anton-petrunin.github.io/birkhoff/) ([Code](https://github.com/anton-petrunin/birkhoff))
+- [Introduction to Diﬀerential Geometry (2017)](https://superadditive.com/notes/intro-to-differential-geometry/)
+- [Non-Euclidean Geometry: Interactive Hyperbolic Tiling in the Poincaré Disc](http://www.malinc.se/noneuclidean/en/poincaretiling.php)
+- [Vertex-Edge-Face format](http://paulbourke.net/dataformats/vef/) - Formal file format but is used by many people to describe single geometric objects. ([Tweet](https://twitter.com/mariuswatz/status/1464415708557758466))
+- [Mathematicians Transcend Geometric Theory of Motion (2021)](https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/)
+- [Large steps in inverse rendering of geometry (2021)](https://bnicolet.com/publications/Nicolet2021Large.html) ([Code](https://github.com/rgl-epfl/large-steps-pytorch))
+- [Geometry Processing with Neural Fields (2021)](https://www.guandaoyang.com/NFGP/) ([Code](https://github.com/stevenygd/NFGP))
+- [Packing Equal Copies](https://erich-friedman.github.io/packing/index.html)
+- [Discrete and Computational Geometry Book](https://press.princeton.edu/books/hardcover/9780691145532/discrete-and-computational-geometry) ([HN](https://news.ycombinator.com/item?id=29550413))
+- [Executable version of Functional Differential Geometry](https://github.com/sicmutils/fdg-book)

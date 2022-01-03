@@ -58,3 +58,21 @@
 - [Vela](https://github.com/go-vela/server) - Pipeline Automation (CI/CD) framework built on Linux container technology written in Go. ([Docs](https://go-vela.github.io/docs/))
 - [CircleCI CLI](https://github.com/CircleCI-Public/circleci-cli) - Use CircleCI from the command line.
 - [Tekton Pipelines](https://github.com/tektoncd/pipeline) - Provides k8s-style resources for declaring CI/CD-style pipelines. ([Web](https://tekton.dev/))
+- [Tekton Chains](https://github.com/tektoncd/chains) - Kubernetes Custom Resource Definition (CRD) controller that allows you to manage your supply chain security in Tekton.
+- [Bitrise](https://www.bitrise.io/) - Mobile Continuous Integration and Delivery. ([GitHub](https://github.com/bitrise-io)) ([Bitrise Step Libs](https://github.com/bitrise-steplib))
+- [Bitrise (offline) CLI](https://github.com/bitrise-io/bitrise) ([Web](http://app.bitrise.io/cli))
+- [Zero Downtime Deployments (2021)](https://www.lpalmieri.com/posts/zero-downtime-deployments/)
+- [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd)
+- [Visual Studio App Center SDK for iOS and macOS](https://github.com/microsoft/appcenter-sdk-apple)
+- [App Center fastlane plugin](https://github.com/microsoft/fastlane-plugin-appcenter)
+- [snowpatch](https://github.com/ruscur/snowpatch) - Enabling continuous integration for patch-based development workflows.
+- [ci-env](https://github.com/siddharthkp/ci-env) - Environment variables exposed by CI tools.
+- [go-circleci](https://github.com/grezar/go-circleci) - CircleCI API (V2) Client Library in Go.
+- [bkl](https://github.com/lox/bkl) - Run Buildkite Pipelines locally.
+- [Example Pipelines | Buildkite](https://buildkite.com/docs/pipelines/example-pipelines)
+- [What we learnt by migrating from CircleCI to Buildkite (2021)](https://hasura.io/blog/what-we-learnt-by-migrating-from-circleci-to-buildkite/)
+- [Spinnaker](https://github.com/spinnaker/spinnaker) - Open-source continuous delivery platform for releasing software changes with high velocity and confidence. ([Web](https://spinnaker.io/))
+- [Danger JS](https://github.com/danger/danger-js) - Runs after your CI, automating your team's conventions surrounding code review.
+- [Faster Gitlab CI/CD pipelines (2021)](https://blog.nimbleways.com/let-s-make-faster-gitlab-ci-cd-pipelines/) ([HN](https://news.ycombinator.com/item?id=29502999))
+- [Developing Databricks' Runbot CI Solution (2021)](https://databricks.com/blog/2021/10/14/developing-databricks-runbot-ci-solution.html)
+- [Conform](https://github.com/talos-systems/conform) - Policy enforcement for your pipelines.

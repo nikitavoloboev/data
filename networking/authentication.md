@@ -11,6 +11,7 @@
 - [Ask HN: What are problems with implementing authentication and authorization? (2020)](https://news.ycombinator.com/item?id=22512786)
 - [BitAuth](https://bitauth.com/) - Simple, Secure, Passwordless Login.
 - [Zanzibar: Google’s Consistent, Global Authorization System (2019)](https://www.youtube.com/watch?v=mstZT431AeQ) ([Web](https://research.google/pubs/pub48190/))
+- [Jake Moshenko on Zanzibar: Google’s Consistent, Global Authorization System (2021)](https://www.youtube.com/watch?v=1nbSbe3kw2U)
 - [What is Zanzibar? (2021)](https://authzed.com/blog/what-is-zanzibar/)
 - [samlify](https://github.com/tngan/samlify) - Highly configuarable Node.js SAML 2.0 library for Single Sign On.
 - [OAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy) - Reverse proxy that provides authentication with Google, Github or other providers.
@@ -38,7 +39,7 @@
 - [Designing an Authentication System: a Dialogue in Four Scenes (1988)](https://web.mit.edu/kerberos/dialogue.html) ([HN](https://news.ycombinator.com/item?id=23352856))
 - [Okta Identity Cloud](https://www.okta.com/) - Gives you one trusted platform to secure every identity in your organization, including your workforce and customers. ([Okta Developer Platform](https://developer.okta.com/))
 - [Building a Secure Signed JWT (2020)](https://fusionauth.io/learn/expert-advice/tokens/building-a-secure-jwt)
-- [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management. ([Go package](https://github.com/Nerzal/gocloak))
+- [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management. ([Go package](https://github.com/Nerzal/gocloak)) ([Code](https://github.com/keycloak/keycloak))
 - [TokenCLI](https://github.com/imduffy15/token-cli) - Command line utility for interacting with OAuth2 infrastructure to generate tokens.
 - [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/) - New type of identifier that enables verifiable, decentralized digital identity.
 - [jwt](https://github.com/ucarion/jwt) - Golang implementation of JSON Web Tokens (JWT) that helps you avoid common security mistakes.
@@ -67,7 +68,7 @@
 - [Xkit](https://xkit.co/) - Build OAuth integrations in minutes. ([HN](https://news.ycombinator.com/item?id=24121290))
 - [Galileo's Proposed Authentication Algorithm (2020)](https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/)
 - [Let's build the GitHub authorization model (2020)](https://www.osohq.com/post/building-the-github-authorization-model-using-oso)
-- [oso](https://www.osohq.com/) - Open source policy engine for authorization that’s embedded in your application. ([Code](https://github.com/osohq/oso)) ([GitHub](https://github.com/osohq))
+- [Oso](https://www.osohq.com/) - Open source policy engine for authorization that’s embedded in your application. ([Code](https://github.com/osohq/oso)) ([GitHub](https://github.com/osohq)) ([Sam Scott, co-founder and CTO of Oso](https://overcast.fm/+cV8qq9nko))
 - [I Actively Discourage Online Tooling Like Jwt.io and Online JSON Validators (2020)](https://www.jvt.me/posts/2020/09/01/against-online-tooling/) ([Lobsters](https://lobste.rs/s/jxlr73/why_i_actively_discourage_online_tooling)) ([HN](https://news.ycombinator.com/item?id=24352360))
 - [ORY Hydra](https://github.com/ory/hydra) - Hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect Provider optimized for low-latency, high throughput, and low resource consumption.
 - [The different kinds of authentication protocols](https://www.devever.net/~hl/auth)
@@ -91,7 +92,7 @@
 - [SSSD](https://github.com/SSSD/sssd) - Daemon to manage identity, authentication and authorization for centrally-managed systems. ([Docs](https://sssd.io/))
 - [OAuth is Not User Authorization (2020)](https://www.scottbrady91.com/OAuth/OAuth-is-Not-User-Authorization)
 - [otplib](https://github.com/yeojz/otplib) - Time-based (TOTP) and HMAC-based (HOTP) One-Time Password library. ([Web](https://otplib.yeojz.dev/))
-- [SuperTokens](https://github.com/supertokens/supertokens-core) - Open core alternative to proprietary login providers like Auth0 or AWS Cognito. ([Web](https://supertokens.io/))
+- [SuperTokens](https://supertokens.io/) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito. ([Code](https://github.com/supertokens/supertokens-core))
 - [FastAuth](https://github.com/flatfeestack/fastauth) - Simple authentication server that can also be used for local development with reasonable defaults to kickstart the local development.
 - [Web Authentication Methods Compared](https://testdriven.io/blog/web-authentication-methods/)
 - [About authentication methods (2020)](https://marlam.de/msmtp/news/about-authentication/) ([HN](https://news.ycombinator.com/item?id=25594693))
@@ -109,13 +110,13 @@
 - [Persona](https://withpersona.com/) - Identity infrastructure for any business.
 - [JWT in Go](https://github.com/kataras/jwt)
 - [Twingate – Building the foundation for identity-first network security (2021)](https://www.twingate.com/blog/introducing-identity-first-networking/) ([HN](https://news.ycombinator.com/item?id=26253196))
-- [GoTrue](https://github.com/netlify/gotrue) - Small open-source API written in Go, that can act as a self-standing API service for handling user registration and authentication for JAM projects.
+- [GoTrue](https://github.com/netlify/gotrue) - Small open-source API written in Go, that can act as a self-standing API service for handling user registration and authentication for JAM projects. ([Fork](https://github.com/supabase/gotrue))
 - [FusionAuth](https://fusionauth.io/) - Authentication and Authorization built for devs.
 - [Hidden OAuth attack vectors (2021)](https://portswigger.net/research/hidden-oauth-attack-vectors)
 - [Vercel Basic Auth](https://github.com/flawyte/vercel-basic-auth) - How to add Basic Authentication to a Vercel deployment using various languages / frameworks.
 - [Do You Know Your OAuth Flows? (2021)](https://medium.com/cloud-security/do-you-know-your-oauth-flows-137fb01b45f8)
 - [OAuth 2.0 Authentication Vulnerabilities](https://portswigger.net/web-security/oauth) ([HN](https://news.ycombinator.com/item?id=26603259))
-- [The Modern Guide to OAuth (2021)](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
+- [The Modern Guide to OAuth (2021)](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/) ([HN](https://news.ycombinator.com/item?id=29752918))
 - [MagicSquared](https://magicsquared.net/) - Magic Magic Link Authentication.
 - [Behind GitHub's new authentication token formats (2021)](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/) ([HN](https://news.ycombinator.com/item?id=26701149))
 - [Ory Keto](https://github.com/ory/keto) - Open source implementation of "Zanzibar: Google's Consistent, Global Authorization System".
@@ -151,3 +152,37 @@
 - [HIBA: Host Identity Based Authorization](https://github.com/google/hiba) - System built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customized authorized_users files periodically.
 - [CASL](https://github.com/stalniy/casl) - Isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access. ([Web](https://casl.js.org/))
 - [NetAuth](https://github.com/netauth/netauth) - Easy to deploy, easy to use authentication and identity provider. ([Web](https://www.netauth.org/))
+- [OAuth2AuthCodePKCE client](https://github.com/BitySA/oauth2-auth-code-pkce) - OAuth 2.0 client that ONLY supports the Authorization Code flow with PKCE support.
+- [localfirst/auth](https://github.com/local-first-web/auth) - Provides decentralized authentication and authorization for team collaboration, using a secure chain of cryptographic signatures.
+- [Guide to Web Authentication](https://webauthn.guide/) ([Tweet](https://twitter.com/alexellisuk/status/1444614757407936512))
+- [Webauthn-rs](https://github.com/kanidm/webauthn-rs) - Implementation of webauthn components for Rustlang servers.
+- [Access Temporary Authentication (2021)](https://blog.cloudflare.com/announcing-access-temporary-authentication/)
+- [jwt-cli](https://github.com/clarketm/jwt-cli) - Command line tool for working with JSON Web Tokens (JWT).
+- [Casdoor](https://github.com/casbin/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform based on OAuth 2.0 / OIDC. ([Web](https://casdoor.org/))
+- [JWT-to-RBAC](https://github.com/banzaicloud/jwt-to-rbac) - Lets you automatically generate RBAC resources based on JWT tokens.
+- [auth-server](https://github.com/reugn/auth-server) - Simple authentication and authorization server.
+- [Kanidm](https://github.com/kanidm/kanidm) - Identity management platform written in rust. ([HN](https://news.ycombinator.com/item?id=28886636))
+- [oxide-auth](https://github.com/HeroicKatora/oxide-auth) - OAuth2 server library, for use in combination with common web servers, featuring a set of configurable and pluggable backends.
+- [external-auth-server](https://github.com/travisghansen/external-auth-server) - Easy auth for reverse proxies.
+- [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless)
+- [Single sign-on: What we learned during our identity alpha (2021)](https://gds.blog.gov.uk/2021/10/19/single-sign-on-what-we-learned-during-our-identity-alpha/) ([HN](https://news.ycombinator.com/item?id=28924300))
+- [OAuth “Sign In With Google” in a WkWebView (2021)](https://cnr.sh/essays/google-oauth-wkwebview)
+- [Using Kerberos for Authentication Relay Attacks (2021)](https://googleprojectzero.blogspot.com/2021/10/using-kerberos-for-authentication-relay.html)
+- [Jumio](https://www.jumio.com/) - End-to-End ID and Identity Verification Solutions.
+- [AuthX](https://github.com/yezz123/AuthX) - Ready to use and customizable Authentications and Oauth2 management for FastAPI.
+- [OpenID Connect SDK (client and server) for Go](https://github.com/caos/oidc)
+- [How to use OAuth to Add Authentication to Your React App (2021)](https://fusionauth.io/blog/2021/11/11/how-to-authenticate-your-react-app/) ([HN](https://news.ycombinator.com/item?id=29198675))
+- [WebAuthn OCaml Server](https://github.com/roburio/webauthn) - Authenticating users to services using public key cryptography.
+- [UCAN: Authorizing Users Without a Back End (2021)](https://fission.codes/blog/auth-without-backend/) ([Demo](https://github.com/Gozala/ucan-demo))
+- [Gothic](https://github.com/jrapoport/gothic) - User registration and authentication SWT/JWT microservice. It supports REST, gRPC, and gRPC Web API, reCAPTCHA & a variety of DBs with Gorm.
+- [How We Turn Authorization Logic into SQL (2021)](https://www.osohq.com/post/logic-into-sql) ([HN](https://news.ycombinator.com/item?id=29321504))
+- [secret-handshake](https://github.com/auditdrivencrypto/secret-handshake) - Mutually authenticating key agreement handshake.
+- [Simple Things That Are Actually Hard: User Authentication (2021)](https://techblog.bozho.net/simple-things-that-are-actually-hard-user-authentication/)
+- [Admin UI for Auth0, Azure AD and AWS Cognito](https://github.com/nearform/brokeneck)
+- [Authorizer](https://authorizer.dev/) - Open source authentication and authorization system.Bring your database and have authentication microservice ready in few clicks. ([Code](https://github.com/authorizerdev/authorizer)) ([Tweet](https://twitter.com/lakhansamani/status/1466070639333179392))
+- [Authentik](https://goauthentik.io/) - Open-source Identity Provider focused on flexibility and versatility. ([Code](https://github.com/goauthentik/authentik))
+- [KES](https://github.com/minio/kes) - Stateless and distributed key-management system for high-performance applications.
+- [Awesome Authorization](https://github.com/warrant-dev/awesome-authorization)
+- [Authenticate users with Netlify Identity](https://docs.netlify.com/visitor-access/identity/) - Perfect for gating static content.
+- [Cerbos](https://cerbos.dev/) - Painless access control for cloud-native applications. ([Code](https://github.com/cerbos/cerbos))
+- [Grant](https://github.com/simov/grant) - OAuth Proxy.

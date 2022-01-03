@@ -22,7 +22,7 @@
 - [Tesla Autopilot AI](https://www.tesla.com/autopilotAI)
 - [George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets (2020)](https://www.youtube.com/watch?v=_L3gNaAVjQ4)
 - [Luminar](https://www.luminartech.com/) - Making autonomous transportation safe with long-range, high resolution lidar and perception.
-- [comma.ai](https://comma.ai/) - Open source driving agent that runs on most cars.
+- [comma.ai](https://comma.ai/) - Open source driving agent that runs on most cars. ([Discord](https://discord.com/invite/avCJxEX))
 - [comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets.
 - [75 Minutes of Autonomous Driving with Kyle Vogt and Sam Altman (2020)](https://www.youtube.com/watch?v=sliYTyRpRB8)
 - [Oxbotica](https://www.oxbotica.com/) - Autonomous vehicle software company located in Oxford, UK.
@@ -42,3 +42,10 @@
 - [XVIZ](https://github.com/uber/xviz) - Protocol for real-time transfer and visualization of autonomy data.
 - [SemanticKITTI](http://semantic-kitti.org/) - Dataset for LiDAR-based Semantic Scene Understanding.
 - [SemanticKITTI API](https://github.com/PRBonn/semantic-kitti-api) - Helper scripts to open, visualize, process, and evaluate results for point clouds and labels from the SemanticKITTI dataset.
+- [Tesla Safety Score](https://www.tesla.com/support/safety-score) - Assessment of your driving behavior based on five metrics called Safety Factors.
+- [Self-Parking Car in 500 Lines of Code (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) ([Lobsters](https://lobste.rs/s/sfzmwa/self_parking_car_500_lines_code)) ([HN](https://news.ycombinator.com/item?id=28811477))
+- [Self-Parking Car Evolution](https://trekhleb.dev/self-parking-car-evolution/#/) - Training the car to do self-parking using genetic algorithm. ([Code](https://github.com/trekhleb/self-parking-car-evolution))
+- [Samples for TensorRT/Deepstream for Tesla & Jetson](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps)
+- [Gym environments and agents for autonomous driving](https://github.com/bark-simulator/bark-ml)
+- [OATomobile](https://github.com/OATML/oatomobile) - Research framework for autonomous driving.
+- [Learn-to-Race](https://learn-to-race.org/) - Open-source autonomous racing.

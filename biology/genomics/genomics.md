@@ -27,8 +27,9 @@
 - [Computational Genomics Class Playlist at San Diego State University](https://www.youtube.com/playlist?list=PLpPXw4zFa0uLMHwSZ7DMeLGjIUgo1IBbn)
 - [Computational Genomics Manual](https://linsalrob.github.io/ComputationalGenomicsManual/) ([Code](https://github.com/linsalrob/ComputationalGenomicsManual))
 - [A Theory of Natural Universal Computation Through RNA (2020)](https://arxiv.org/abs/2008.08814) ([Tweet](https://twitter.com/theHessam/status/1296650944302776321))
-- [Hail](https://github.com/hail-is/hail) - Open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data. ([References](https://hail.is/references.html))
+- [Hail](https://github.com/hail-is/hail) - Open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data. ([References](https://hail.is/references.html)) ([Web](https://hail.is/))
 - [gnomAD](https://gnomad.broadinstitute.org/) - Genome aggregation database.
+- [gnomad_methods](https://github.com/broadinstitute/gnomad_methods) - Hail helper functions for the gnomAD project and Translational Genomics Group.
 - [We can now edit the human genome – how far should we go?](https://www.pbs.org/wgbh/nova/video/human-nature/) ([HN](https://news.ycombinator.com/item?id=24454954))
 - [Scientific Background: A tool for genome editing (2020)](https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf)
 - [Introduction to Social Science Genetics (2020)](https://silverbeach.in/courses/2020/october/social-science-genetics/)
@@ -79,7 +80,7 @@
 - [Using a Quadruplet Codon to Expand the Genetic Code of an Animal (2021)](https://www.biorxiv.org/content/10.1101/2021.07.17.452788v1)
 - [PingPong](https://github.com/Parsoa/PingPong) - Comparative genome analysis using sample-specific string detectionin accurate long reads.
 - [RNA demethylation increases rice and potato yields 50% (2021)](https://www.nature.com/articles/s41587-021-00982-9) ([HN](https://news.ycombinator.com/item?id=27925250))
-- [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/) ([HN](https://news.ycombinator.com/item?id=28253993))
+- [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/) ([HN](https://news.ycombinator.com/item?id=28253993)) ([Code](https://github.com/aws/amazon-genomics-cli))
 - [The Specious Art of Single-Cell Genomics (2021)](https://www.biorxiv.org/content/10.1101/2021.08.25.457696v1) ([Tweet](https://twitter.com/lpachter/status/1431325969411821572)) ([Tweet](https://twitter.com/lpachter/status/1440695021502545934))
 - [IGV: Integrative Genomics Viewer](https://igv.org/) - Fast, efficient, scalable visualization tool for genomics data and annotations. ([Code](https://github.com/igvteam/igv))
 - [Oxford Nanopore Technologies](https://nanoporetech.com/) - Nanopores for single molecule (DNA/RNA, protein) analysis using the MinION, GridION and PromethION systems. ([GitHub](https://github.com/nanoporetech))
@@ -87,3 +88,42 @@
 - [alignment-nf](https://github.com/IARCbioinfo/alignment-nf) - Whole Exome/Whole Genome Sequencing alignment pipeline.
 - [Stanford researchers develop an engineered 'mini' CRISPR genome editing system (2021)](https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/) ([HN](https://news.ycombinator.com/item?id=28409123))
 - [PiGx](https://github.com/BIMSBbioinfo/pigx) - Pipelines in genomics. ([Web](http://bioinformatics.mdc-berlin.de/pigx/))
+- [snps](https://github.com/apriha/snps) - Tools for reading, writing, merging, and remapping SNPs.
+- [Sano Genetics](https://sanogenetics.com/) - Upload DNA data to explore personal DNA reports on health, traits and genetic conditions.
+- [GenomePrep](https://github.com/changlubio/GenomePrep) - To preprocess, quality control and prepare consumer DTC genomes for research. ([Web](https://supfam.mrc-lmb.cam.ac.uk/GenomePrep/))
+- [scikit-allel](https://github.com/cggh/scikit-allel) - Python package for exploring and analyzing genetic variation data.
+- [Centre for Genomics and Global Health](https://www.cggh.org/) ([GitHub](https://github.com/cggh))
+- [pysamstats](https://github.com/alimanfoo/pysamstats) - Fast Python and command-line utility for extracting simple statistics against genome positions based on sequence alignments from a SAM or BAM file.
+- [Local PCA](https://github.com/petrelharp/local_pca) - Methods for examining PCA locally along the genome.
+- [List of gene lists for genomic analyses](https://github.com/macarthur-lab/gene_lists)
+- [MacArthur Lab](https://macarthurlab.org/) - Extracting useful information from large genomic datasets. ([GitHub](https://github.com/macarthur-lab))
+- [Directed evolution of rRNA improves translation kinetics and recombinant protein yield (2021)](https://www.nature.com/articles/s41467-021-25852-5) ([Tweet](https://twitter.com/AhmedHBadran/status/1442545398631911442))
+- [classify-genomes](https://github.com/AlessioMilanese/classify-genomes) - Classify a genome sequence according to the mOTUs/specI taxonomy.
+- [mOTU profiler](https://github.com/motu-tool/mOTUs) - Computational tool that estimates relative taxonomic abundance of known and currently unknown microbial community members using metagenomic shotgun sequencing data.
+- [Unicycler](https://github.com/rrwick/Unicycler) - Hybrid assembly pipeline for bacterial genomes.
+- [Trycycler](https://github.com/rrwick/Trycycler) - Tool for generating consensus long-read assemblies for bacterial genomes.
+- [Badread](https://github.com/rrwick/Badread) - Read simulator that can imitate many types of read problems.
+- [Polypolish](https://github.com/rrwick/Polypolish) - Short-read polishing tool for long-read assemblies.
+- [Holt Lab](https://holtlab.net/) - Microbial genomics.
+- [Prodigal](https://github.com/hyattpd/Prodigal) - Prodigal Gene Prediction Software.
+- [Predicting gene expression with AI | DeepMind (2021)](https://deepmind.com/blog/article/enformer) ([Code](https://github.com/lucidrains/enformer-pytorch))
+- [Clonal dominance in excitable cell networks (2021)](https://www.nature.com/articles/s41567-021-01383-0)
+- ['Useless Specks of Dust' Turn Out to Be Building Blocks of All Vertebrate Genome (2021)](https://www.sciencealert.com/useless-specks-of-dust-turn-out-to-be-ancient-building-blocks-of-all-vertebrate-genomes) ([HN](https://news.ycombinator.com/item?id=29093585))
+- [RNA-responsive elements for eukaryotic translational control (2021)](https://www.nature.com/articles/s41587-021-01068-2)
+- [souporcell](https://github.com/wheaton5/souporcell) - Clustering scRNAseq by genotypes.
+- [Vireo](https://github.com/single-cell-genetics/vireo) - Variational Inference for Reconstructing Ensemble Origin by expressed SNPs in multiplexed scRNA-seq data.
+- [Naturally occurring modified ribonucleosides (2020)](https://wires.onlinelibrary.wiley.com/doi/10.1002/wrna.1595)
+- [microPIPE](https://github.com/BeatsonLab-MicrobialGenomics/micropipe) - Pipeline for high-quality bacterial genome construction using ONT sequencing.
+- [Genomic Medicine and Statistics DPhil Programme](https://www.well.ox.ac.uk/study/gms)
+- [RNA Takes Over](https://www.science.org/content/blog-post/rna-takes-over) ([HN](https://news.ycombinator.com/item?id=29475295))
+- [Dense Depth Data Dump (D4)](https://github.com/38/d4-format) - Format and tool suite provide an alternative to BigWig for fast analysis and compact storage of quantitative genomics datasets.
+- [bedtools](https://github.com/arq5x/bedtools2) - Swiss army knife for genome arithmetic.
+- [GEMINI](https://github.com/arq5x/gemini) - Integrative exploration of genetic variation and genome annotations.
+- [Quinlan Lab](http://quinlanlab.org/) - Combine computational and genomic techniques to explore genome biology and the genetic basis of traits.
+- [vg](https://github.com/vgteam/vg) - Tools for working with genome variation graphs.
+- [seqwish](https://github.com/ekg/seqwish) - Alignment to variation graph inducer.
+- [pggb](https://github.com/pangenome/pggb) - Pangenome graph construction pipeline renders a collection of sequences into a pangenome graph.
+- [Alen](https://github.com/jakobnissen/alen) - Command-like program to view DNA or protein alignments in FASTA formats.
+- [gffutils](https://github.com/daler/gffutils) - Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations.
+- [The origins and functional effects of postzygotic mutations throughout the human lifespan (2021)](https://www.biorxiv.org/content/10.1101/2021.12.20.473199v1.full)
+- [In genetic programming, does introducing changes (e.g., mutations) at lower levels of a genome tree generally makes for better or worse outcomes than making changes at a higher level in the tree?](https://twitter.com/drmichaellevin/status/1477275577354752004)

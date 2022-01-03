@@ -26,3 +26,5 @@
 - [rodeo](https://github.com/mlysy/rodeo) - Probabilistic Solution of Differential Equations.
 - [Graph based neural operators](https://github.com/zongyi-li/graph-pde) - Using graph network to solve PDEs.
 - [Differentiable Programming: A Semantics Perspective (2018)](https://barghouthi.github.io/2018/05/01/differentiable-programming/)
+- [Dedalus](https://github.com/DedalusProject/dedalus) - Flexible framework for solving partial differential equations using spectral methods. ([Web](https://dedalus-project.org/))
+- [MIT Fast Methods for Partial Differential and Integral Equations Course (2021)](https://github.com/mitmath/18336)

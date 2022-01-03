@@ -91,3 +91,14 @@
 - [Asteria: Deep Learning-based AST-Encoding for Cross-platform Binary Code Similarity Detection (2021)](https://arxiv.org/abs/2108.06082) ([Code](https://github.com/Asteria-BCSD/Asteria)) ([Reddit](https://www.reddit.com/r/ReverseEngineering/comments/pf1bth/asteria_deep_learningbased_astencoding_for/))
 - [Reopt](https://github.com/GaloisInc/reopt) - Tool for analyzing x86-64 binaries.
 - [Awesome Binary Rewriting](https://github.com/SystemSecurityStorm/Awesome-Binary-Rewriting)
+- [radius](https://github.com/aemmitt-ns/radius) - Fast binary emulation and symbolic execution framework using radare2.
+- [binocle](https://github.com/sharkdp/binocle) - Graphical tool to visualize binary data.
+- [Zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler library. ([Web](https://zydis.re/))
+- [Degate](https://github.com/DegateCommunity/Degate) - Modern and open-source cross-platform software for chips reverse engineering. ([Web](https://www.degate.org/))
+- [An opinionated guide on how to reverse engineer software (2021)](https://margin.re/media/an-opinionated-guide-on-how-to-reverse-engineer-software-part-1.aspx) ([HN](https://news.ycombinator.com/item?id=29084716))
+- [List of open source reverse engineering tools with a focus on binary analysis](https://github.com/extremecoders-re/re-list)
+- [Binary Reversing Methodologies (2021)](https://justintaft.com/blog/2021/11/07/binary-reversing-methodologies)
+- [MUI: Visualizing symbolic execution with Manticore and Binary Ninja (2021)](https://blog.trailofbits.com/2021/11/17/mui-visualizing-symbolic-execution-with-manticore-and-binary-ninja/)
+- [Falcon](https://github.com/falconre/falcon) - Binary Analysis Framework in Rust.
+- [Finch](https://github.com/falconre/finch) - Symbolic Executor over Falcon IL. If it lifts to Falcon IL, it symbolically executes with Finch.
+- [Nintendo Switch reverse engineering attempts](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering)

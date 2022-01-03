@@ -1,7 +1,12 @@
 # [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
 
+## Notes
+
+- [Alloy is a better starting point to teach formal modelling than TLA+.](https://twitter.com/trupill/status/1460559265412825090)
+
 ## Links
 
+- [TLA+ Proof Manager](https://github.com/tlaplus/tlapm) - General-purpose formal specification language that is particularly useful for describing concurrent and distributed systems. ([Web](https://tla.msr-inria.inria.fr/tlaps/content/Home.html))
 - [TLA+ guide](https://learntla.com/introduction/) ([HN](https://news.ycombinator.com/item?id=19661329))
 - [tla+rust](https://github.com/spacejam/tla-rust) - Writing correct lock-free and distributed stateful systems in Rust, assisted by TLA+.
 - [Practical TLA+ by Hillel Wayne (2018)](https://lamport.azurewebsites.net/tla/practical-tla.html?back-link=learning.html) ([Code](https://github.com/Apress/practical-tla-plus))
@@ -9,7 +14,7 @@
 - [TLA+ model checking made symbolic (2019)](https://blog.acolyer.org/2019/11/29/tla-model-checking-made-symbolic/) ([HN](https://news.ycombinator.com/item?id=21662484))
 - [The TLA+ Toolbox (2019)](https://arxiv.org/abs/1912.10633)
 - [BlockingQueue](https://github.com/lemmy/BlockingQueue) - Tutorial-style talk "Weeks of debugging can save you hours of TLA+".
-- [APALACHE](https://github.com/konnov/apalache) - Symbolic model checker for TLA+.
+- [APALACHE](https://github.com/informalsystems/apalache) - Symbolic model checker for TLA+. ([Web](https://apalache.informal.systems/))
 - [TLA+ Model Checking Made Symbolic (2019)](https://hal.archives-ouvertes.fr/hal-02280888/document)
 - [TLA+ Examples](https://github.com/tlaplus/Examples) - Collection of TLA+ specifications of varying complexities.
 - [Using TLA+ in the Real World to Understand a Glibc Bug (2020)](https://probablydance.com/2020/10/31/using-tla-in-the-real-world-to-understand-a-glibc-bug/) ([HN](https://news.ycombinator.com/item?id=24958504))
@@ -29,3 +34,7 @@
 - [Scaffolding TLA+ (2021)](https://buttondown.email/hillelwayne/archive/scaffolding-tla/)
 - [Specification Refinement (2021)](https://www.hillelwayne.com/post/refinement/)
 - [tlacli](https://github.com/hwayne/tlacli) - CLI tool for TLA+.
+- [Current and Future Tools for Interactive TLA+ (2021)](https://emptysqua.re/blog/interactive-tla-plus/)
+- [TLA+ Conf 2021](https://conf.tlapl.us/2021/) ([Videos](https://www.youtube.com/playlist?list=PLWLcqZLzY8u9kzmWgs3HPRm3Cw85LTpD2))
+- [PlusCal Tutorial](https://lamport.azurewebsites.net/tla/tutorial/home.html)
+- [Using Abstract Data Types in TLA+ (2021)](https://www.hillelwayne.com/post/tla-adt/)

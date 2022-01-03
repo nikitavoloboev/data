@@ -9,6 +9,7 @@
     - Even worse, if you actually do reach your consumption quota, you find it doesn't make cause lasting happiness. Most people infer that the answer is to consume more, and they end up killing themselves on the hedonic treadmill.
 - [Math skills and familiarity with the intermediate micro/macro/metrics coursework are far more important for grad school admissions than the pop economics books on that reading list.](https://www.reddit.com/r/AskEconomics/comments/hc8q1c/ive_read_91_of_the_books_on_the_reconomics/)
 - [Hyperinflation would generally only occur if the US was using "printed money" to pay debt, which it isn't doing. It's using the money to invest in individuals and to create private capital. The theory goes that the money is not just paid back (in the form of tax revenue) but is actually paid back with a positive return.](https://www.reddit.com/r/fatFIRE/comments/mk2fem/10mall_in_index_funds/)
+- [NFTs, cryptocurrencies, and meme stocks are so popular and logic has nothing to do with it. This is an act of desperation in response to current and previous generations rigging the system and hoarding their wealth.](https://twitter.com/kelseyhightower/status/1454841265804091393)
 
 ## Links
 
@@ -30,7 +31,7 @@
 - [EconDB](https://www.econdb.com/main-indicators/) - Economic overviews of countries.
 - [Economic Research at the St. Louis Fed](https://research.stlouisfed.org/about.html) - Expand the frontier of economic knowledge by producing high-quality original research in the areas of macroeconomics, money and banking, and applied microeconomics.
 - [Ask HN: What are you reading to make sense of the economy? (2020)](https://news.ycombinator.com/item?id=22861452)
-- [Stripe Press](https://press.stripe.com/) - Publishes books about economic and technological advancement.
+- [Stripe Press](https://press.stripe.com/) - Publishes books about economic and technological advancement. ([HN](https://news.ycombinator.com/item?id=28761235))
 - [Explained | The Stock Market (2020)](https://www.youtube.com/watch?v=ZCFkWDdmXG8)
 - [The Stock Market vs. The Economy (2020)](https://www.youtube.com/watch?v=0ECqDaPjjV0)
 - [Naked Capitalism](https://www.nakedcapitalism.com/) - Fearless commentary on finance, economics, politics and power.
@@ -96,3 +97,31 @@
 - [A New Macroeconomics? (2021)](http://jwmason.org/slackwire/a-new-macroeconomics/) ([HN](https://news.ycombinator.com/item?id=27749087))
 - [Debt: The First 5,000 Years (2011)](https://www.goodreads.com/book/show/6617037-debt)
 - [Against overuse of the Gini coefficient (2021)](https://vitalik.ca/general/2021/07/29/gini.html) ([Tweet](https://twitter.com/VitalikButerin/status/1420616651150528516))
+- [Karl Marx: Capital - A Critique of Political Economy (1887)](https://www.marxists.org/archive/marx/works/1867-c1/)
+- [A catalog of wealth-creation mechanisms (2009)](https://blog.rongarret.info/2009/10/catalog-of-wealth-creation-mechanisms.html) ([HN](https://news.ycombinator.com/item?id=28771006))
+- [Why Does Quantitative Easing Benefit the Rich? (2021)](https://fififinance.com/quantitative-easing) ([HN](https://news.ycombinator.com/item?id=28827293))
+- [A Nobel Prize for the Credibility Revolution (2021)](https://marginalrevolution.com/marginalrevolution/2021/10/the-credibility-revolution-1.html)
+- [2021 Nobel Prize for Economics](https://www.nobelprize.org/prizes/economic-sciences/2021/popular-information/) ([HN](https://news.ycombinator.com/item?id=28830058))
+- [Institute for New Economic Thinking](https://www.ineteconomics.org/)
+- [Lift the minimum wage and employment still rises? How to anger the establishment and win a Nobel Prize (2021)](https://www.abc.net.au/news/2021-10-13/nobel-prize-in-economics-2021-david-card-minimum-wage/100531994) ([Reddit](https://www.reddit.com/r/Economics/comments/qbbilk/lift_the_minimum_wage_and_employment_still_rises/))
+- [List of countries by total wealth - Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_total_wealth)
+- [NBER](https://www.nber.org/) - National Bureau of Economic Research.
+- [What caused all the supply chain bottlenecks? (2021)](https://twitter.com/typesfast/status/1453753924960219145) ([HN](https://news.ycombinator.com/item?id=29029825)) ([Summary](https://thezvi.wordpress.com/2021/10/28/an-unexpected-victory-container-stacking-at-the-port-of-los-angeles/))
+- [Indexing the creator economy (2021)](https://stripe.com/blog/creator-economy) ([Tweet](https://twitter.com/edwinwee/status/1451188399629500422))
+- [Collection of economic resources introducing neoclassical and Austrian economics](https://github.com/Sword-Smith/economics)
+- [Financial innovations brought by technology (2021)](https://bam.kalzumeus.com/archive/financial-innovation-is-happening/) ([HN](https://news.ycombinator.com/item?id=29039345))
+- [Why Everything is Suddenly Getting More Expensive — And Why It Won’t Stop (2021)](https://eand.co/why-everything-is-suddenly-getting-more-expensive-and-why-it-wont-stop-cbf5a091f403)
+- [Does QE Cause Wealth Inequality? (2021)](https://www.lynalden.com/qe-and-inequality/) ([HN](https://news.ycombinator.com/item?id=29243061))
+- [Money & Macro - YouTube](https://www.youtube.com/c/MoneyMacro/videos)
+- [Global QE Tracker](https://www.atlanticcouncil.org/global-qe-tracker/)
+- [Is The World Deglobalising? (2021)](https://www.realchinacharts.com/p/8-long-view-is-the-world-deglobalising) ([HN](https://news.ycombinator.com/item?id=29387292))
+- [Dart - Explore income and wealth inequality around the world](https://dart.lisdatacenter.org/)
+- [A Brief History on Economic Theory (aka no one ever knew what was going on) (2021)](https://www.youtube.com/watch?v=LJ4or1OCdH0)
+- [Every Country's Top Export and Import (2021)](https://businessfinancing.co.uk/top-export-and-import/)
+- [Exploring Economics](https://www.exploring-economics.org/en/) - Open access, e-learning platform on pluralist economics.
+- [The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy by Stephanie Kelton (2020)](https://www.goodreads.com/en/book/show/45731395)
+- [Worker pay isn’t keeping up with inflation (2021)](https://www.axios.com/wages-inflation-economic-data-c912afdb-b950-4183-8283-50afff593576.html) ([HN](https://news.ycombinator.com/item?id=29588174))
+- [Make Ticker Tape Parades Great Again: A Conversation with Peter Thiel (2021)](https://www.youtube.com/watch?v=GVGLR0K3rX8)
+- [Visualizing the $94 Trillion World Economy in One Chart (2021)](https://www.visualcapitalist.com/visualizing-the-94-trillion-world-economy-in-one-chart/)
+- [IndexMundi](https://www.indexmundi.com/) - Detailed country statistics, charts, and maps compiled from multiple sources.
+- [“Play-to-Earn” and Bullshit Jobs (2021)](https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/) ([HN](https://news.ycombinator.com/item?id=29716900))

@@ -1,5 +1,9 @@
 # [Formal verification](https://en.wikipedia.org/wiki/Formal_verification)
 
+## Notes
+
+- [I like to start with a full english description, and then write things as FOL predicates. The act of translating it into math, even "sloppy" math, is a great first past for seeing issues more clearly. If it passes that, then I move on to FM.](https://twitter.com/hillelogram/status/1476378372724998150)
+
 ## Links
 
 - [What, Why, and How of Formal Methods (2019)](https://cloudbootup.com/post/what-why-and-how-of-formal-methods.html)
@@ -15,7 +19,8 @@
 - [Proof Assistants At the Hardware-Software Interface (2020)](https://www.youtube.com/watch?v=GXXOyXeyKeY)
 - [The business case for formal methods (2020)](https://www.hillelwayne.com/post/business-case-formal-methods/) ([Lobsters](https://lobste.rs/s/ywgjhd/business_case_for_formal_methods)) ([HN](https://news.ycombinator.com/item?id=22321756))
 - [Logipedia](https://github.com/Deducteam/Logipedia) - Project that aims to share formal proofs between several systems.
-- [Alloy](http://alloytools.org/about.html) - Language for describing structures and a tool for exploring them. ([Docs](https://alloy.readthedocs.io/en/latest/)) ([Article](https://www.hillelwayne.com/post/alloydocs/)) ([Lobsters](https://lobste.rs/s/g41wko/announcing_alloydocs))
+- [Alloy](http://alloytools.org/about.html) - Language for describing structures and a tool for exploring them. ([Docs](https://alloy.readthedocs.io/en/latest/)) ([Article](https://www.hillelwayne.com/post/alloydocs/)) ([Lobsters](https://lobste.rs/s/g41wko/announcing_alloydocs)) ([Tweet](https://twitter.com/trupill/status/1458006761286377472)) ([Being Formal Yet Lightweight](https://serras.github.io/dddeu21/))
+- [Alloy 6 First Impressions (2021)](https://buttondown.email/hillelwayne/archive/alloy-6-first-impressions/)
 - [Software Abstractions book](http://softwareabstractions.org/)
 - [Safe and Efficient, Now](http://okmij.org/ftp/Computation/lightweight-static-guarantees.html)
 - [Experiences moving from tests to strong typing? (2020)](https://lobste.rs/s/olecii/experiences_moving_from_tests_strong)
@@ -77,3 +82,31 @@
 - [There Was No Formal Methods Winter (2021)](https://buttondown.email/hillelwayne/archive/there-was-no-formal-methods-winter/)
 - [REMS (Rigorous Engineering of Mainstream Systems)](https://www.cl.cam.ac.uk/~pes20/rems/) ([GitHub](https://github.com/rems-project))
 - [The Curry-Howard Correspondence (2021)](https://www.youtube.com/watch?v=GdcOy6zVFC4)
+- [SAWScript](https://github.com/GaloisInc/saw-script) - Scripting language that forms the primary user interface to the Software Analysis Workbench (SAW).
+- [You Already Know Formal Methods (2021)](https://galois.com/blog/2021/10/you-already-know-formal-methods/) ([HN](https://news.ycombinator.com/item?id=28859324))
+- [Verification For Dummies: SMT and Induction Book](https://ocamlpro.github.io/verification_for_dummies/index.html)
+- [Formal verification/analysis tools tutorials](https://github.com/claucece/formal-tutorials)
+- [hoice](https://github.com/hopv/hoice) - ICE-based predicate synthesizer for Horn clauses.
+- [Higher-Order Program Verification](https://github.com/hopv)
+- [SMACK](https://github.com/smackers/smack) - Software Verifier and Verification Toolchain. ([Web](http://smackers.github.io/))
+- [A Tool for Producing Verified, Explainable Proofs Thesis (2021)](https://www.edayers.com/thesis/) ([Code](https://github.com/EdAyers/lean-humanproof-thesis))
+- [Cogent: uniqueness types and certifying compilation (2021)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/cogent-uniqueness-types-and-certifying-compilation/47AC86F02534818B95A56FA1A283A0A6) ([Tweet](https://twitter.com/kamatsu8/status/1453322917853470720))
+- [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/) - Tutorial explaining the mechanics of the STARK proof system. ([HN](https://news.ycombinator.com/item?id=29026311)) ([Code](https://github.com/aszepieniec/stark-anatomy))
+- [Kind](http://uwu.tech/App.Kind) - Minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. ([Code](https://github.com/kind-lang/Kind))
+- [Beyond inductive datatypes: exploring Self types](https://github.com/kind-lang/Kind/blob/master/blog/1-beyond-inductive-datatypes.md)
+- [Misspecification: The Blind Spot of Formal Verification (2021)](https://concerningquality.com/misspecification/) ([Lobsters](https://lobste.rs/s/h5sd63/misspecification_blind_spot_formal))
+- [Verification-Driven Development Guide](https://github.com/informalsystems/vdd)
+- [Electrum Analyzer](https://github.com/haslab/Electrum) - Model checker for relational first-order temporal specifications. ([Tutorial](https://github.com/haslab/Electrum/wiki/Tutorial))
+- [Simple proof checker in OCaml](https://github.com/neel-krishnaswami/proof-checker)
+- [Provably-correct versions of Leftpad](https://github.com/hwayne/lets-prove-leftpad)
+- [Structured derivations: a unified proof style for teaching mathematics](https://hal.archives-ouvertes.fr/hal-00540025) ([Tweet](https://twitter.com/brendanzab/status/1462560273554821121))
+- [Gospel](https://github.com/ocaml-gospel/gospel) - Tool-agnostic formal specification language for OCaml. ([Docs](https://ocaml-gospel.github.io/gospel/))
+- [Alloy 6: it's about Time (2021)](https://www.hillelwayne.com/post/alloy6/) ([Lobsters](https://lobste.rs/s/0d4s5q/alloy_6_it_s_about_time))
+- [Refinement: Formalizing the Simplicity Underneath Complex Programs (2021)](https://concerningquality.com/refinement/)
+- [Automated theorem prover for first-order logic](https://github.com/stepchowfun/theorem-prover)
+- [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround) - Tools for Automated Mathematics.
+- [LARA – Lab for Automated Reasoning and Analysis](https://lara.epfl.ch/w/)
+- [Formal verification of IA-64 division algorithms](https://www.cl.cam.ac.uk/~jrh13/papers/hol00.pdf)
+- [rzk](https://github.com/fizruk/rzk) - Prototype interactive proof assistant based on a type theory for synthetic ∞-categories.
+- [A Manifesto for Applicable Formal Methods (2021)](https://arxiv.org/abs/2112.12758v1)
+- [Autosubst OCaml](https://github.com/uds-psl/autosubst-ocaml) - OCaml reimplementation of the Autosubst 2 code generator.

@@ -1,5 +1,9 @@
 # [Rails](https://github.com/rails/rails)
 
+## Notes
+
+- [Render.com can host Rails code bases nicely](https://twitter.com/signalnerve/status/1462171434147532801)
+
 ## Links
 
 - [RailsConf 2019 - Rethinking the View Layer with Components by Joel Hawksley (2019)](https://www.youtube.com/watch?v=y5Z5a6QdA-M)
@@ -86,3 +90,20 @@
 - [Stripe::Rails](https://github.com/tansengming/stripe-rails) - Rails Engine for integrating with Stripe.
 - [Importmap for Rails](https://github.com/rails/importmap-rails) - Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.
 - [Propshaft](https://github.com/rails/propshaft) - Asset pipeline library for Rails.
+- [Active Event Store](https://github.com/palkan/active_event_store) - Rails Event Store in a more Rails way.
+- [Optimistic Locking in Rails REST APIs (2021)](https://blog.appsignal.com/2021/10/20/optimistic-locking-in-rails-rest-apis.html)
+- [Ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails.
+- [A Love Letter to Ruby and Rails (2021)](https://jmarchello.com/a-love-letter-to-ruby-and-rails) ([HN](https://news.ycombinator.com/item?id=28996172))
+- [AnyCable](https://anycable.io/) - Build lightning fast, reliable real-time applications with Ruby and Rails. ([GitHub](https://github.com/anycable)) ([Code](https://github.com/anycable/anycable))
+- [Esbuild Rails plugin](https://github.com/excid3/esbuild-rails)
+- [Example Rails + Docker app](https://github.com/nickjj/docker-rails-example)
+- [Packwerk](https://github.com/Shopify/packwerk) - Ruby gem used to enforce boundaries and modularize Rails applications.
+- [Bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
+- [On Rails (2021)](https://marbiano.dev/into-remix/on-rails)
+- [rails.new](https://rails.new/) - From New Mac to Rails Development in 11 Minutes. ([Tweet](https://twitter.com/andrewculver/status/1470139230449913859))
+- [Devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails based on Warden.
+- [Rails 7.0: Fulfilling a vision (2021)](https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision) ([HN](https://news.ycombinator.com/item?id=29573607))
+- [From Node to Ruby on Rails (2021)](https://nikodunk.com/a-node-js-developer-discovers-rails/) ([HN](https://news.ycombinator.com/item?id=29577897))
+- [What's New in Rails 7 (2021)](https://blog.appsignal.com/2021/12/15/whats-new-in-rails7.html)
+- [Derailed Benchmarks](https://github.com/zombocom/derailed_benchmarks) - Series of things you can use to benchmark a Rails or Ruby app.
+- [Logidze](https://github.com/palkan/logidze) - Database changes log for Rails.

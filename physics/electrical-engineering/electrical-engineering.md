@@ -71,3 +71,18 @@
 - [200 Years Ago, Faraday Invented the Electric Motor (2021)](https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor) ([HN](https://news.ycombinator.com/item?id=28420468))
 - [A Summary of Electronics](https://electroagenda.com/en/a-summary-of-electronics/) ([HN](https://news.ycombinator.com/item?id=28478641))
 - [Designing Billions of Circuits with Code (2021)](https://www.youtube.com/watch?v=ihz2WY-E2C8)
+- [Teach Me PCB](https://teachmepcb.com/) ([HN](https://news.ycombinator.com/item?id=28742902))
+- [The NAND gate. One gate to rule them all](https://sebastiancarlos.medium.com/the-nand-gate-one-gate-to-rule-them-all-ee1a5dbc83dd) ([HN](https://news.ycombinator.com/item?id=28756727))
+- [How to build your own CNC machine from scratch](https://github.com/maxvfischer/DIY-CNC-machine) ([HN](https://news.ycombinator.com/item?id=29096954))
+- [How to build your own full-size arcade machine from scratch](https://github.com/maxvfischer/DIY-arcade)
+- [The Big Misconception About Electricity (2021)](https://www.youtube.com/watch?v=bHIhgxav9LY) ([Tweet](https://twitter.com/BartoszMilewski/status/1461845001407660035))
+- [How to trace back the origin of electricity (2021)](https://api.electricitymap.org/blog/flow-tracing/)
+- [Everything You Need to Know about Designing a PCB Layout](https://www.ourpcb.com/pcb-layout-the-ultimate-guide-best-for-beginners.html)
+- [HDL Containers](https://github.com/hdl/containers) - Building and deploying container images for open source electronic design automation (EDA).
+- [I bought 1000 meters of wire to settle a physics debate (2021)](https://www.youtube.com/watch?v=2Vrhk5OjBP8) ([HN](https://news.ycombinator.com/item?id=29598860))
+- [The Art of Electronics Book (1980)](https://artofelectronics.net/) - Textbook dealing with analog and digital electronics.
+- [Electrical Engineering Book Suggestions (2021)](https://www.reddit.com/r/ElectricalEngineering/comments/rknz49/looking_for_some_advice_book_suggestions/)
+- [Teach Yourself Electricity and Electronics by Stan Gibilisco](https://www.goodreads.com/book/show/687620.Teach_Yourself_Electricity_and_Electronics)
+- [Pinouts Book](https://pinouts.org/) - Free digital book created for designers and engineers as a quick reference for remembering the different pinout functions in your electronics projects. ([Article](https://n-o-d-e.net/pinouts.html)) ([Lobsters](https://lobste.rs/s/db5t25/pinouts_book)) ([HN](https://news.ycombinator.com/item?id=29681373))
+- [Circuit Design and Applied Optimization (Part 1)](https://stefanabikaram.com/writing/circuit-design-and-applied-optimization/) ([HN](https://news.ycombinator.com/item?id=29750076))
+- [Circuit Simulator Applet](https://www.falstad.com/circuit/)

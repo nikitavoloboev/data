@@ -4,7 +4,7 @@
 
 - [LeetCode](https://leetcode.com)
 - [Exercism](https://exercism.io/) ([CLI in Go](https://github.com/exercism/cli)) ([Issues](https://github.com/exercism/exercism))
-- [Project Euler](https://projecteuler.net/archives)
+- [Project Euler](https://projecteuler.net/archives) ([HN](https://news.ycombinator.com/item?id=29211532))
 - [Advent of Code](https://adventofcode.com/) ([Lobsters Promo Thread 2020](https://lobste.rs/s/3uxtgb/advent_code_2020_promotion_thread))
 - [HackerRank](https://www.hackerrank.com/)
 - [HackerEarth](https://www.hackerearth.com/)
@@ -40,39 +40,54 @@
 - [JS](https://github.com/suguru03/leetcode)
 - [Solve LeetCode problems in VS Code](https://github.com/LeetCode-OpenSource/vscode-leetcode)
 - [LeetCode Solutions Explained](https://beizhedenglong.github.io/leetcode-solutions/docs/two-sum) ([Code](https://github.com/beizhedenglong/leetcode-site-generator))
+- [Algos & Data Structures for Leetcode](https://github.com/the2pizza/to-the-moon)
 
 ## Project Euler solutions
 
+- [Polyglot Euler](https://github.com/FrankKair/polyglot-euler) - Solutions in different programming languages.
 - [Python](https://github.com/datamine/project-euler)
 - [Python](https://github.com/davidnsun/project-euler-py)
 - [Python](https://johnloeber.com/docs/projecteuler.html)
 - [Haskell](https://github.com/yfeldblum/haskell-euler)
+- [Haskell 2](https://github.com/DrearyLisper/project-euler)
 - [Python, Haskell](https://github.com/zacharydenton/euler)
 - [Java, Python, Mathematica, Haskell](https://github.com/nayuki/Project-Euler-solutions)
 
 ## Advent of Code solutions
 
+- [AOC Rust 2021](https://github.com/aldanor/aoc-2021)
 - [Rust](https://github.com/kitten/advent-of-code-2019)
 - [Rust 2](https://github.com/m-rutter/advent-of-code)
 - [Rust 3](https://github.com/mitsuhiko/aoc19)
 - [Rust 4](https://github.com/mkeeter/advent-of-code) - Many years.
+- [Rust 2020](https://github.com/timvisee/advent-of-code-2020)
+- [Rust 2020/21](https://github.com/lmammino/rust-advent)
 - [JS](https://github.com/vtambourine/adventofcode)
 - [OCaml](https://github.com/narimiran/AdventOfCode2019)
 - [Haskell](https://github.com/merijn/AdventOfCode2019)
 - [Haskell 2](https://github.com/dustin/aoc2019)
 - [Haskell 3](https://github.com/ChrisPenner/advent-of-code-haskell)
+- [Haskell 4](https://github.com/mstksg/advent-of-code-2021)
 - [Swift](https://github.com/evilmint/AdventOfCode)
 - [Go](https://github.com/neutralinsomniac/advent2019)
 - [Go 2](https://github.com/vtambourine/leetcode-go)
+- [Go 3](https://github.com/lizthegrey/adventofcode)
 - [Python](https://github.com/benediktwerner/AdventOfCode)
 - [Python 2](https://github.com/andreypopp/aoc2019)
 - [ReasonML](https://github.com/believer/advent-of-code)
+- [Idris/Haskell](https://github.com/bkomuves/AOC)
 - [Zsh](https://github.com/romkatv/advent-of-code-2019/blob/master/README.md)
 - [Julia](https://github.com/tsoding/aoc-2020)
 - [Awesome Advent of Code](https://github.com/Bogdanp/awesome-advent-of-code)
 - [aoc](https://github.com/jakzo/aoc) - CLI for reading, running and submitting Advent of Code challenges.
 - [Peter Norvig's Pytudes: Advent of Code 2020](https://lobste.rs/s/aryngm/peter_norvig_s_pytudes_advent_code_2020) ([HN](https://news.ycombinator.com/item?id=25654955))
 - [Advent of Code walkthroughs by Marco Bonelli](https://github.com/mebeim/aoc)
+- [Advent Of Code Zig TemplaHaskell Advent of Code 2021te](https://github.com/SpexGuy/Zig-AoC-Template)
+- [Advent of Code 2021 OCaml](https://github.com/p1xelHer0/advent-of-code-2021-ocaml)
+- [Haskell Advent of Code 2021](https://github.com/siraben/haoc-2021)
+- [Haskell Advent of Code 2021 2](https://github.com/DrearyLisper/aoc-2021)
+- [Swift Advent of Code 2021](https://github.com/eliperkins/aoc-2021)
+- [Advent of Code 2021 in Coq](https://github.com/Lysxia/advent-of-coq-2021)
 
 ## Exercism exercise solutions
 
@@ -91,3 +106,5 @@
 - [Ask HN: Did preparing for LeetCode type of interviews improve your skills? (2021)](https://news.ycombinator.com/item?id=27312265)
 - [Leetcode company problems](https://github.com/xizhengszhang/Leetcode_company_frequency)
 - [practice.dev](https://practice.dev/) - Practice programming. ([Code](https://github.com/practice-dev/practice-dev))
+- [Ace your leetcode preparations (2021)](https://sadh.life/post/leetcode-prep/)
+- [Advent of Code 2021](https://adventofcode.com/2021) ([HN](https://news.ycombinator.com/item?id=29292818)) ([Lobsters](https://lobste.rs/s/qx2azv/advent_code_2021)) ([HN](https://news.ycombinator.com/item?id=29403522))

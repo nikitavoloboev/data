@@ -56,6 +56,8 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Stress primarily comes from not taking action over something that you can have some control over… stress comes from ignoring things that you shouldn’t be ignoring.](https://twitter.com/austen/status/1438157425744306176)
 - [For a long time I thought I wasn’t ambitious until I realized my ambition is to live a good life.](https://twitter.com/schlaf/status/1438293177673396227)
 - [Living a good life is largely just being around people with good vibes.](https://twitter.com/zachtratar/status/1440552661460258816)
+- [The secret successful people don't want you to know? You can literally walk away from anything or anyone that doesn't make you happy and start over.](https://twitter.com/elizalian/status/1463953252500729856)
+- [I’ve found only 4 things that increase my baseline happiness: 1. Time outside, ideally in nature. 2. Physical activity, preferably rigorous. 3. Meaningful relationships, with lots of play. 4. Work that has purpose, where I have agency.](https://twitter.com/ankurnagpal/status/1476574206435418121)
 
 ## Links
 
@@ -82,3 +84,12 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [The roadmap to happiness as a man](https://twitter.com/SaveYourSons/status/1419295686072446986)
 - [Why is being stagnant in life so frowned upon by today's society?](https://www.reddit.com/r/NoStupidQuestions/comments/owbk2t/why_is_being_stagnant_in_life_so_frowned_upon_by/)
 - [The art of not taking things personally (2021)](https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172) ([HN](https://news.ycombinator.com/item?id=28369727))
+- [One small thing](https://ava.substack.com/p/one-small-thing) ([Tweet](https://twitter.com/startingfromnix/status/1441562115249037312))
+- [I just don’t want to be busy anymore](https://elenasalaks.medium.com/i-just-dont-want-to-be-busy-anymore-ac4dd37c8119) ([HN](https://news.ycombinator.com/item?id=28665065))
+- [On Solitude (2021)](https://eriktorenberg.substack.com/p/on-solitude) ([HN](https://news.ycombinator.com/item?id=28667978))
+- [Definite optimism as human capital (2017)](https://danwang.co/definite-optimism-as-human-capital/) ([Tweet](https://twitter.com/patrickc/status/904849193201573888))
+- [Best cortisol lower techniques](https://twitter.com/AlmostMedia/status/1455958395521953793)
+- [Ten Steps Towards Happiness](http://hintjens.com/blog:99) ([HN](https://news.ycombinator.com/item?id=29215967))
+- [Underrated Reasons to Be Thankful](https://dynomight.net/thanks/) ([HN](https://news.ycombinator.com/item?id=29341055))
+- [Ask HN: How to optimize your career for happiness? (2021)](https://news.ycombinator.com/item?id=29614095)
+- [Ask HN: How do you take care of yourself? (2022)](https://news.ycombinator.com/item?id=29754211)

@@ -12,10 +12,11 @@
 - [Distributed Systems in One Lesson by Tim Berglund (2017)](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 - [Traefik](https://github.com/traefik/traefik) - Modern HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Hello World with Traefik](https://theorangeone.net/posts/hello-world-with-traefik/))
 - [Traefik Training course resources](https://github.com/56kcloud/traefik-training) ([Web](https://www.thebyte.io/traefik-training))
-- [Kit](https://github.com/go-kit/kit) - Standard library for microservices written in Go.
+- [Kit](https://github.com/go-kit/kit) - Standard library for microservices written in Go. ([kit-auth](https://github.com/al8n/kit-auth))
 - [Fear and Loathing in Lock-Free Programming (2017)](https://medium.com/@tylerneely/fear-and-loathing-in-lock-free-programming-7158b1cdd50c)
 - [Reliable Systems Series: Model-Based Testing (2018)](https://medium.com/@tylerneely/reliable-systems-series-model-based-property-testing-e89a433b360)
 - [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
+- [Awesome Distributed Systems 2](https://github.com/FedericoPonzi/awesome-distributed-systems)
 - [Kong](https://github.com/Kong/kong) - Cloud-Native API Gateway & Service Mesh.
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Mesh](https://github.com/weaveworks/mesh) - Tool for building distributed applications.
@@ -41,7 +42,7 @@
 - [Rezolus](https://github.com/twitter/rezolus) - Tool for collecting detailed systems performance telemetry and exposing burst patterns through high-resolution telemetry.
 - [Cadence](https://github.com/uber/cadence) - Distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [Pilosa](https://github.com/pilosa/pilosa) - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
-- [Finagle](https://github.com/twitter/finagle) - Fault tolerant, protocol-agnostic RPC system.
+- [Finagle](https://github.com/twitter/finagle) - Fault tolerant, protocol-agnostic RPC system. ([Scaling out a Rails app with Finagle](https://www.youtube.com/watch?v=btBU0UYYr6c))
 - [How To Build A Modern Distributed Compute Platform (2018)](https://andygrove.io/how_to_build_a_modern_distributed_compute_platform/)
 - [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
 - [Faust](https://github.com/robinhood/faust) - Python Stream Processing.
@@ -50,7 +51,7 @@
 - [Titanoboa](https://github.com/mikub/titanoboa) - Community version of fully distributed, highly scalable and fault tolerant workflow orchestration platform for JVM.
 - [Buoyant](https://buoyant.io/) - Helps you deploy and run Linkerd, the fully open source, ultralight service mesh.
 - [Grappa](https://github.com/uwsampa/grappa) - Runtime system for scaling irregular applications on commodity clusters.
-- [MIT Distributed Systems course (2020)](https://pdos.csail.mit.edu/6.824/schedule.html) ([Videos](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)) ([Notes](https://timilearning.com/)) ([HN](https://news.ycombinator.com/item?id=24948524))
+- [MIT Distributed Systems course (2020)](https://pdos.csail.mit.edu/6.824/schedule.html) ([Videos](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)) ([Notes](https://timilearning.com/)) ([HN](https://news.ycombinator.com/item?id=24948524)) ([Discord](https://discord.com/invite/KbhkEqpBqC))
 - [Correctness proofs of distributed systems with Isabelle/HOL (2019)](https://www.youtube.com/watch?v=Uav5jWHNghY)
 - [Apache Mesos](https://github.com/apache/mesos) - Cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks.
 - [Gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
@@ -83,7 +84,7 @@
 - [Teleforking a process onto a different computer! (2020)](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/) ([HN](https://news.ycombinator.com/item?id=22987747)) ([Code](https://github.com/trishume/telefork))
 - [Debugging Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/2927299.2940294) ([HN](https://news.ycombinator.com/item?id=22993377))
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
-- [Temporal](https://temporal.io/) - Open source microservices orchestration engine for running mission critical code at any scale. ([Code](https://github.com/temporalio/temporal)) ([Docs](https://docs.temporal.io/docs/get-started/)) ([Why I joined Temporal](https://docs.temporal.io/blog/sergey-why-i-joined-temporal/)) ([Go SDK](https://github.com/temporalio/sdk-go))
+- [Temporal](https://temporal.io/) - Open source microservices orchestration engine for running mission critical code at any scale. ([Code](https://github.com/temporalio/temporal)) ([Docs](https://docs.temporal.io/docs/get-started/)) ([Why I joined Temporal](https://docs.temporal.io/blog/sergey-why-i-joined-temporal/)) ([Go SDK](https://github.com/temporalio/sdk-go)) ([Talk](https://www.youtube.com/watch?v=WRYozSljSpw))
 - [Temporalite](https://github.com/DataDog/temporalite) - Distribution of Temporal that runs as a single process with zero runtime dependencies.
 - [Stateright](https://github.com/stateright/stateright) - Model checker for implementing distributed systems. ([HN](https://news.ycombinator.com/item?id=27413084))
 - [Arvind Krishnamurthy's research](https://www.cs.washington.edu/people/faculty/arvind)
@@ -216,3 +217,24 @@
 - [Errors found in distributed protocols](https://github.com/dranov/protocol-bugs-list)
 - [Python for Distributed Systems (2021)](https://www.babbling.fish/elt-cookbook-python/)
 - [FastPay](https://github.com/novifinancial/fastpay) - High-Performance Byzantine Fault Tolerant Settlement.
+- [Distributed consensus made simple (for real this time!) (2021)](https://decentralizedthoughts.github.io/2021-09-30-distributed-consensus-made-simple-for-real-this-time/)
+- [Hints and Principles for Computer System Design (2021)](https://arxiv.org/abs/2011.02455) ([HN](https://news.ycombinator.com/item?id=28771673))
+- [Guide To Prepare for the Gremlin Certified Chaos Engineering Practitioner Exam](https://github.com/gremlin/certificate-study-guide)
+- [Balsam](https://github.com/argonne-lcf/balsam) - High throughput workflows and automation for HPC.
+- [Hypercore](https://github.com/hypercore-protocol/hypercore) - Secure, distributed append-only log.
+- [Hypercore Next](https://github.com/hypercore-protocol/hypercore-next) - Append only log with multi-writer primitives built in.
+- ["Waterpark: Distributed Actors vs the Pandemic" by Bryan Hunter (2021)](https://www.youtube.com/watch?v=9qUfX3XFi_4) - Building reliable, actor-based systems.
+- [P language](https://github.com/p-org/P) - Modular and Safe Programming for Distributed Systems. ([Docs](https://p-org.github.io/P/)) ([Tweet](https://twitter.com/MarcJBrooker/status/1455955892633886720))
+- [Raft Consensus Protocol](https://www.consul.io/docs/architecture/consensus) ([HN](https://news.ycombinator.com/item?id=29079079))
+- [Paper review: Scaling Large Production Clusters with Partitioned Synchronization (2021)](https://emptysqua.re/blog/parsync/)
+- [MadSim](https://github.com/madsys-dev/madsim) - Magical Deterministic Simulator for distributed systems in Rust.
+- [Deep dive into Yrs architecture (2021)](https://bartoszsypytkowski.com/yrs-architecture/)
+- [fantoch](https://github.com/vitorenesduarte/fantoch) - Framework for evaluating (planet-scale) consensus protocols.
+- [MultiPaxos made Simple (2021)](https://maheshba.bitbucket.io/blog/2021/11/20/MultiPaxos.html)
+- [Paxos made Abstract (2021)](https://maheshba.bitbucket.io/blog/2021/11/15/Paxos.html)
+- [Unbase](https://github.com/mindbeam/unbase) - Distributed database/application framework that is fundamentally reactive, fault tolerant, and decentralized.
+- [Beating the CAP Theorem Checklist](https://ferd.ca/beating-the-cap-theorem-checklist.html)
+- [Paper review: Paxos vs Raft](https://emptysqua.re/blog/paxos-vs-raft/)
+- [Shardz (2021)](https://rakyll.org/shardz/) ([HN](https://news.ycombinator.com/item?id=29519736))
+- [microcosm](https://github.com/hanfei1991/microcosm) - Prototype of distributed task scheduler.
+- [Canary](https://znx3p0.github.io/canary-book/) - Distributed systems library for making communications through the network easier, while keeping minimalism and flexibility. ([Code](https://github.com/znx3p0/canary))

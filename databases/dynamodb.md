@@ -1,13 +1,19 @@
 # [DynamoDB](https://aws.amazon.com/dynamodb)
 
+## OSS DynamoDB apps
+
+- [Note Service (Next Generation)](https://github.com/deeheber/note-service-next-generation) - GraphQL CRUD API built using AWS AppSync, Lambda, DynamoDB, CDK, Typescript.
+
 ## Notes
 
 - Each item has a unique primary key and any number of attributes.
 - Scanning for an item means looking through **every item in a table** thus it is less efficient than query search.
 - Table is a collection of items, and each item is a collection of attributes.
+- [DynamoDB will burn you in so many ways. It’s only fine if you have very predictably sized objects and non-spiky workloads.](https://twitter.com/danielrhodes/status/1466645623814328324)
 
 ## Links
 
+- [Dynamo: Amazon’s Highly Available Key-value Store (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 - [Intro to Dynamo](https://gist.github.com/jlafon/d8f91086e3d00c4bff3b)
 - [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB.
 - [SQL, NoSQL, and Scale: How DynamoDB scales where relational databases don't (2020)](https://www.alexdebrie.com/posts/dynamodb-no-bad-queries/)
@@ -61,3 +67,12 @@
 - [raiden-dynamo](https://github.com/raiden-rs/raiden-dynamo) - DynamoDB library for Rust.
 - [DynamoDB + Lambda Workshop](https://github.com/alexdebrie/lambda-dynamodb-workshop)
 - [DynamoDB --> Stream --> Elasticsearch](https://github.com/matrus2/dynamodb-stream-elasticsearch) - Missing blueprint for AWS Lambda. Reads stream from AWS DynamoDB and writes it to ElasticSearch.
+- [DynamoDB Examples](https://github.com/aws-samples/aws-dynamodb-examples)
+- [DonutDB](https://github.com/psanford/donutdb) - SQL database implemented on DynamoDB and SQLite.
+- [DynamoDB Lock Client for Go](https://github.com/cirello-io/dynamolock)
+- [DynamoDB Foreign Data Wrapper for PostgreSQL](https://github.com/pgspider/dynamodb_fdw)
+- [New DynamoDB Table Class – Save Up To 60% in Your DynamoDB Costs (2021)](https://aws.amazon.com/blogs/aws/new-dynamodb-table-class-save-up-to-60-in-your-dynamodb-costs/)
+- [dynamodump](https://github.com/mifi/dynamodump) - Node CLI for backing up and restoring schema+data from DynamoDB tables.
+- [Starter project with Go, Gin and DynamoDB](https://github.com/vsouza/go-gin-boilerplate)
+- [Go DynamoDB Web App Starter](https://github.com/kaihendry/go-web-dynamo-starter)
+- [How to develop an AWS hosted DynamoDB Web application locally](https://github.com/kaihendry/local-audio)

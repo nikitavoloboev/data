@@ -4,6 +4,9 @@
 
 - [MDMA + Ket is nice combo](https://www.reddit.com/r/ketamine/comments/oqdjwe/the_most_intense_hole_ive_ever_experienced/)
 - [perma tolerance is a thing with dissos](https://www.reddit.com/r/ketamine/comments/oszyad/tolerance/)
+- [Assuming what you have is actually Ketamine, make sure to crush it fine, like really fine it has to be complete powder. You’re essentially snorting tiny crystals that cause microscopic tears in your nasal membrane if not crushed properly. That’s how you cut your nose n blow snot mixed w blood. Before snorting bring the straw up your nose as far as you can without hurting this has helped me minimize blocked/runny nose. Split each line between nostrils and do a saline rinse after.](https://www.reddit.com/r/ketamine/comments/qwrfif/first_time_dont_know_what_to_make_of_it/)
+- [Ketamine upregulates BDNF (Brain-derived neurotrophic factor) & NGF (Nerve growth factor)](https://www.reddit.com/r/Drugs/comments/rfiq90/is_ketamine_any_good/)
+- [It's good to 'let go' during intense K/DMT experiences given you are in a safe setting.](https://www.reddit.com/r/ketamine/comments/rhm0gd/anyone_try_k_and_dmt_im_starting_to_settle_into/)
 
 ## Links
 
@@ -20,3 +23,8 @@
 - [What, if any, are the long term effects of low dose ketamine use neurologically?](https://www.reddit.com/r/AskDrugNerds/comments/of8s7z/what_if_any_are_the_long_term_effects_of_low_dose/)
 - [Dr. John C. Lilly 1992 lecture | Dolphins and LSD; Float Tanks and Ketamine](https://www.youtube.com/watch?v=nGhCpC5hH0k)
 - [With a nudge from AI, ketamine emerges as a potential rare disease treatment (2021)](https://www.statnews.com/2021/08/05/artificial-intelligence-rare-disease-andp-medikanren/) ([HN](https://news.ycombinator.com/item?id=28099548))
+- [Experience with using Ketamine to treat depression](https://twitter.com/BlackForestBoi/status/1471431629096824833)
+- [K research chemical alternatives](https://www.reddit.com/r/ketamine/comments/rlijuy/k_research_chemical_alternative/)
+- [How to properly snort Ketamine](https://www.reddit.com/r/Drugs/comments/60ixfc/ket_snorting_tips/)
+- [How to boost K high](https://www.reddit.com/r/ketamine/comments/rp5z2e/tips_on_how_to_boost_your_ketamine_high/)
+- [Ketamine therapy is going mainstream](https://www.newyorker.com/culture/annals-of-inquiry/ketamine-therapy-is-going-mainstream-are-we-ready) ([HN](https://news.ycombinator.com/item?id=29725502))

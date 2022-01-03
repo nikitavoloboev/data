@@ -5,25 +5,26 @@
 - [Make](../ideas/ideas.md). [Learn](../sharing/everything-I-know.md). [Write](../sharing/my-articles.md). [Design](../design/design.md). [Share](../sharing/sharing.md).
 - Set [tasks](../macOS/apps/2do.md) & [goals](../focusing/goals.md). [Plan](../macOS/apps/fantastical.md). [Focus](../focusing/focusing.md).
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm. Value time.
-- First make it work. Then optimize.
-- [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge. Learn/Build in public.
-- [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need.
+- First make it work. Then optimize (pretty, efficient, documented).
+- [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document everything ([thoughts](../life/journaling.md)/[decisions](../psychology/decision-making.md)/[processes](https://twitter.com/dunkhippo33/status/1453604780996132865)/[knowledge](../other/wiki-workflow.md)). Learn/Build in public.
+- [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need. [Focus on things I can control](https://twitter.com/techgirl1908/status/1450569064414388233).
 - Cut out noise (no analytics, likes..). No time wasted. Decide on what matters to me. Focus on it. Maximize impact & growth. Filter consumed information to optimize for signal.
 - Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply (from first principles). Move in right direction. [Move fast](https://news.ycombinator.com/item?id=27691586). No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
-- [Don't compare myself to other people and be jealous](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Learn from them and every other human I admire/like instead. Use it to improve my life. [Don't listen to haters and nonconstructive feedback. Pay attention to genuine feedback and learn from it.](https://twitter.com/EricRWeinstein/status/1387219408645361665).
+- [Don't compare myself to other people and be jealous/obsess over anyone](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Learn from them and every other human I admire/like instead. Use it to improve my life. [Don't listen to haters and nonconstructive feedback. Pay attention to genuine feedback and learn from it](https://twitter.com/EricRWeinstein/status/1387219408645361665).
 - Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
-- Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people. Do what I love. Value myself and my work.
+- Create art. Meet people (friendly reach out). See places. Be inspired. Reuse work & ideas. Do what I love. Value myself and my work.
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Complete my [6 life habits](habits.md).
-- Don't judge anyone. Attempt to see another person's point of view. [Be kind](https://twitter.com/ainhoamarzol/status/1393691237107093505). Show love & empathy. Self love. [No ego](../consciousness/ego.md).
+- [Don't judge/hate anyone](https://www.goodreads.com/quotes/7684047-hate-is-like-a-poison-you-make-for-your-enemy). Attempt to see another person's point of view. [Be kind](https://twitter.com/ainhoamarzol/status/1393691237107093505). Show love & empathy. Self love. [No ego](../consciousness/ego.md).
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Seek & give candid feedback. Respond politely.
+- Always seek to improve and change myself, not others. [Grass is not greener on the other side, it's greener where you water it](https://coachcarly.com/blogs/the-grass-isnt-greener-on-the-other-side-its-greener-where-you-water-it/). Don't dwell on imperfections, find beauty in everything.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits. Seek new novel experiences/relationships. Collect stories.
-- Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Let past go. Don't fixate on anything. Anything outside of this moment is imagination. Move onwards. Live through each moment.
+- Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Let past go. Don't fixate on anything (people/items/..). Anything outside of this moment is imagination. Move onwards. Live through each moment.
 - Happiness comes from being grateful and appreciative for what I already have. Don't waste time trying to measure my success/happiness by what anyone else thinks it should be.
-- [Be happy](../life/happiness.md). Love myself. Be playful. Make new nice memories and enjoy each moment in life. Savor close relationships. Look towards the [future](../future/future.md). Appreciate what I have.
+- [Be happy](../life/happiness.md). Love myself. Be playful. Make new nice memories and enjoy each moment in life. Savor close [relationships](../relationships/relationships.md). Look towards the [future](../future/future.md). Be optimistic. Appreciate what I have.
 
 ## Health
 
@@ -32,13 +33,13 @@
 - Drink lots of water & [tea](../health/nutrition/drinks/tea.md). Limit [coffee](../health/nutrition/drinks/coffee.md). No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
 - Go on walks or do exercise throughout the day when possible as breaks.
-- Brush/floss teeth properly (morning/evening) & wash + [clean face](../health/skin-care.md) daily. Smell nice. Wear clean clothes.
+- Brush/floss teeth properly (morning/evening) & wash + [clean face](../health/skin-care.md) daily. Smell nice. Wear clean clothes that make me feel great.
 - Apply sunscreen when going out for long time. Don't frown. Don't touch face or mouth with dirty hands.
 - Accept and love my body and self. I am perfect as I am. Don't care what other people might think of me.
 - Never sit for long. Sit up right (good posture, never slouch). Use great chair. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing. Take breaks.
 - [Sleep](../sleep/sleep.md) fully & well. Don't limit sleep. If need to wake up early, go to sleep early. Sleep as much as body needs (~ 8h often).
 - Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all. Limit [psychedelic](../drugs/psychedelics/psychedelics.md) use.
-- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. No worries. No anxieties. Be calm. Clean up.
+- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. [No worries. No anxieties. Be calm.](https://twitter.com/flybayer/status/1460974092757131266) Clean up.
 
 ## Focus
 
@@ -50,7 +51,7 @@
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
-- Always breathe fresh air. Have proper lighting.
+- Always breathe fresh air. Open windows or work outside. Have proper lighting.
 - Wear clean & comfortable clothes.
 - Only use the bed for sleep. Start each day quickly by waking up & standing up.
 - Don't overthink things. Clear up any confusions. Don't be stuck. Ask for help.
@@ -80,6 +81,9 @@
 - Use proper punctuation and capitalize things appropriately. Use simple language. Be concise & clear.
 - Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Add useful details where needed.
 - Remove unnecessary and [filler words](../writing/writing.md#dont-use). Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
+- Don't assume and say that something is straightforward or clear.
+- Don't write assertively when reflecting on personal experiences (no `should do`, `you have to`, `do ..`). Instead say it from personal point of view (`I try`, `I seek`). Does not apply to docs/guidelines (where assertion is useful and needed).
+- Writing/teaching in earliest stages of understanding something is most valuable as you haven't built any biases and approach thing with a fresh mind. Its okay to be wrong (sincerely) and update my writing based off new constructive feedback.
 - Minimize use of articles (`a`, `an`, `the`) as they in most cases add noise.
 - Hyperlink words/phrases appropriately. Use descriptive link labels ([no `this`](https://lobste.rs/s/absbtc/search_personal_websites)).
 - Use headings to separate sections in articles/docs.
@@ -88,6 +92,7 @@
 - Don't repeat myself / duplicate content. Link instead.
 - Add screenshots/screencasts where appropriate. Take accessibility into account (good visibility of text).
 - Clear my thinking and journal. Look back on the day and plan the next.
+- Keep my writing & thinking (especially the wiki) up to date with my latest view on things. Things/opinions change, update accordingly.
 
 ## Tools
 
@@ -110,6 +115,7 @@
 
 - Separate information into two levels of quality if necessary (i.e. Twitter Follows / Other).
 - Subscribe to Atom over RSS feed if possible.
+- Be wary of the fact that anyone can lie (on every side) especially when it comes to political news. The truth is often more complicated. Don't jump to conclusions. Have my own opinion/thoughts.
 
 ## Compassion
 
@@ -119,7 +125,7 @@
 
 ## Relationships
 
-- Communicate everything. Be honest, kind and empathetic. Don't avoid/ignore conflicts.
+- Communicate everything clearly. Be honest, kind and empathetic. Don't avoid/ignore conflicts.
 - Acknowledge and apologize for any mistakes made. Learn and improve.
 - Don't be cruel in my actions and words. Treat my partner and friends with respect. You are only as pretty as you treat people.
 - Never underestimate how hurt someone can feel by your words and actions. Stop your behavior as soon as you see a person you care about hurt by you.
@@ -144,8 +150,9 @@
 - Ask how your partner feels and listen. Don't disregard their feelings. It’s good response to just hug and listen if I have no answer or solution (all feelings are valid and are not a sign of weakness).
 - Don't needlessly complain about things to anyone. My life is amazing and it's lucky I even exist. Be grateful.
 - The relationship can only get better if both want it to improve.
-- [Don't waste time on maintaining one sided relationships.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/h3ydwgi/?utm_source=reddit&utm_medium=web2x&context=3)
+- [Don't waste time on maintaining one sided relationships.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/h3ydwgi/)
 - Don't burn bridges unnecessarily. Try be remembered as a good friend.
+- Set your own [boundaries for what make you feel well](https://twitter.com/titsay/status/1458749929686384647) and have everyone you interact respect them or cut ties with them.
 
 ## Communication
 
@@ -236,8 +243,12 @@
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
 - Use [same profile photo](https://twitter.com/nikitavoloboev/photo) & [cover photo](https://twitter.com/nikitavoloboev/header_photo) (only if it's better than without) across all profiles. Don't change it often.
 - Add appropriate short description with link to personal site.
-- Use same username on all services. Either full name (`nikitavoloboev`) or `nikivi`. Or `nikivii` if `nikivi` is taken.
+- Use same username on all services. Preferred (`nikivi`). If service requires full name, use it (`nikitavoloboev`). If `nikivi` is taken, can use `nikiv` or `nikiv_`.
 - Interact with content/discussions freely. Upvote/Like things appropriately. Can later index & search this data.
+- Quality of followers > Quantity. Try cultivate positive online experiences. Filter out negativity.
+- Don't be afraid to express myself (without hurting someone deliberately) out of fear I will get unfollowed/blocked/mocked. It's just [their opinion/tastes](https://www.youtube.com/watch?v=Z-xI1384Ry4), I have mine. Feel free.
+- Be open to change. But never ignore my principles/rules (respect my boundaries). My personal happiness and mental well being always comes first.
+- [Share things of what I love more than what I dislike/hate.](https://twitter.com/pbrian0206/status/1458972624047026177)
 
 ## Web
 
@@ -284,7 +295,7 @@
 - Share images freely with [Imgur](https://imgur.com) (not tied to account) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
 - Use package manager to install things. Keep packages updated.
-- Change OS appearance where appropriate (light interface in sunny areas, dark otherwise).
+- Change OS appearance where appropriate (light interface in sunny areas, dark otherwise). Light is preferred as it's easier to keep focus with lighter backgrounds (more stimulating).
 
 ## Trello
 
@@ -317,3 +328,11 @@
 
 - Twitter/Reddit/Instagram/GitHub, get literal name if available. On Twitter, lowercasing the name looks good (Twitter will show your custom real name in searches already). Can [capitalize](https://twitter.com/khanacademyeng) username if its multiple words (can rename username if needed). Capitalize [Reddit](https://www.reddit.com/r/ApolloApp/) subreddit name as it stands out better in searches & its more recognizable (the name can't be changed later so capitalize even if one word). GitHub is good [lowercased](https://github.com/learn-anything), literal name or with dashes. If name is taken, can add `_` or [HQ](https://twitter.com/SlackHQ)/[App](https://twitter.com/SparkMailApp)/[Inc](https://twitter.com/PlaybyteInc) in the end or prefix with [get](https://twitter.com/getairbridge) or [use](https://twitter.com/usefathom). For Instagram, if literal name is taken, it's possible to get domain name literal like [narative.co](https://www.instagram.com/narative.co/). Can use [namecheckr](https://www.namecheckr.com/) to check for available names.
 - For domains, get literal name, avoid dashes. Keep it to one registrar (Google Domains preferred). Prefer `.com`, ([vercel.com](https://vercel.com/)), `.co` ([vsco.co](https://vsco.co/)) or `.io` ([codesandbox.io](https://codesandbox.io/)) for generic sites. If it's an app, can use `.app` ([linear.app](https://linear.app)), can also have app in name like [feyapp.com](https://feyapp.com) if `.app` is taken. Developer related, `.dev` ([web.dev](https://web.dev)) is good. Organization, then `.org.` ([telegram.org](https://telegram.org/)). ML related, `.ai` ([deepcode.ai](https://www.deepcode.ai/)) can be good. Design related, `.design` is good ([baseweb.design](https://baseweb.design/)). Video related, `.tv` is good ([rewatch.tv](https://rewatch.tv/)). Otherwise, `.so`, ([notion.so](https://www.notion.so/)), `.xyz` ([learn-anything.xyz](https://learn-anything.xyz)), `.sh` ([apex.sh](https://apex.sh/)) are good. Can also play on domain name like [lobste.rs](https://lobste.rs/) if possible. Make domain name memorable.
+
+## React
+
+- [PascalCase component file naming](https://github.com/airbnb/javascript/tree/master/react#naming). [no-semi Prettier](https://prettier.io/docs/en/options.html#semicolons). Keep useStates declared together in one block. Separate declarations semantically (states > contexts/refs/.. > useEffect > functions > render).
+
+## NextJS
+
+- Lowercase files for pages.

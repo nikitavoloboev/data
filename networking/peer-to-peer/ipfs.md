@@ -69,3 +69,11 @@ I especially like the distinction of distributing content over distributing link
 - [Estuary](https://github.com/application-research/estuary) - Custom IPFS/Filecoin node that makes it easy to pin IPFS content and make Filecoin deals.
 - [Deno Estuary](https://github.com/deno-libs/estuary) - Deno API client for Estuary, a custom IPFS / Filecoin node.
 - [IPFS Community](https://discuss.ipfs.io/) - General discussion and documentation on community practices. ([Code](https://github.com/ipfs/community))
+- [HTTP is obsolete – it's time for the distributed, permanent web (2015)](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html) ([HN](https://news.ycombinator.com/item?id=28897373))
+- [Bitswap](https://docs.ipfs.io/concepts/bitswap/) - Core module of IPFS for exchanging blocks of data. ([Go Code](https://github.com/ipfs/go-bitswap))
+- [rainbow](https://github.com/ipfs/rainbow) - Standalone IPFS gateway.
+- [IPFS-Nucleus](https://github.com/Peergos/ipfs-nucleus) - Minimal IPFS replacement for P2P IPLD apps.
+- [IPFS Cluster](https://github.com/ipfs/ipfs-cluster) - Automated data availability and redundancy on IPFS. ([Web](https://cluster.ipfs.io/))
+- [NFT Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS and Filecoin. ([Video](https://www.youtube.com/watch?v=o_yVYft-7z4))
+- [IPFS backed storage implementation for docker/OCI registry](https://github.com/yuval-k/oci-registry-p2p)
+- [How IPFS is broken](https://fiatjaf.com/d5031e5b.html) ([HN](https://news.ycombinator.com/item?id=29656139))

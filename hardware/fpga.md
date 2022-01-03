@@ -61,3 +61,20 @@
 - [FPGA Hell (2017)](https://zipcpu.com/blog/2017/05/19/fpga-hell.html)
 - [Reticle: A Virtual Machine for Programming Modern FPGAs (2021)](https://www.cs.cornell.edu/~asampson/media/papers/reticle-pldi2021.pdf) ([Tweet](https://twitter.com/lukego/status/1393495710671282177))
 - [iCEBreaker FPGA](https://github.com/icebreaker-fpga/icebreaker) - Low cost, open-source educational FPGA development board.
+- [RapidWright](https://github.com/Xilinx/RapidWright) - Build Customized FPGA Implementations for Vivado. ([Web](http://www.rapidwright.io/))
+- [captouch](https://github.com/stnolting/captouch) - Capacitive Buttons for any FPGA.
+- [FPGA Torture](https://github.com/stnolting/fpga_torture) - Technology-agnostic FPGA stress-test: maximum logic utilization and high dynamic power consumption.
+- [A Dive into the Sipeed Tang FPGA (2021)](https://justanotherelectronicsblog.com/?p=986)
+- [Reduceron](https://github.com/tommythorn/Reduceron) - High performance FPGA softcore for running lazy functional programs, complete with hardware garbage collection.
+- [Partial implementation of Knuth's MMIX processor (FPGA softcore)](https://github.com/tommythorn/fpgammix)
+- [hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning in FPGAs using HLS. ([Docs](https://fastmachinelearning.org/hls4ml/))
+- [Charbel](https://github.com/m1kal/charbel) - Write synthesizable FPGA code with Clojure syntax.
+- [Renesas enters FPGA market with the first ultra-low-power, low-cost family (2021)](https://www.renesas.com/us/en/about/press-room/renesas-enters-fpga-market-first-ultra-low-power-low-cost-family-addressing-low-density-high-volume) ([HN](https://news.ycombinator.com/item?id=29261574))
+- [fpga_puf](https://github.com/stnolting/fpga_puf) - Technology-agnostic Physical Unclonable Function (PUF) hardware module for any FPGA.
+- [PiDRAM: A Holistic End-to-end FPGA-based Framework for Processing-in-DRAM (2021)](https://arxiv.org/abs/2111.00082) ([Code](https://github.com/CMU-SAFARI/PiDRAM))
+- [Retrocomputing with Clash: Haskell for FPGA Hardware Design](https://unsafeperform.io/retroclash/) ([HN](https://news.ycombinator.com/item?id=29313350))
+- [Quicklogic FPGA Toolchain](https://github.com/QuickLogic-Corp/quicklogic-fpga-toolchain) - Open Source FPGA toolchain and documentation for QuickLogic devices and eFPGA IP.
+- [FPGA Design Elements](http://fpgacpu.ca/fpga/) - Self-contained online book containing a library of FPGA design elements and related coding/design guides. ([Code](https://github.com/laforest/FPGADesignElements))
+- [FPGA Advent Calendar (2021)](https://twitter.com/willflux/status/1465268154733637633) ([HN](https://news.ycombinator.com/item?id=29613850))
+- [Potato Processor](https://github.com/skordal/potato) - Simple RISC-V processor written in VHDL for use in FPGAs.
+- [Project Apicula](https://github.com/YosysHQ/apicula) - Bitstream documentation for Gowin FPGAs.

@@ -33,3 +33,10 @@
 - [Book Code for Competitive Programming](https://github.com/ecnerwala/cp-book)
 - [Zig, Skia, Clojure, Geometry and the Japanese TV Show: ICFP Contest 2021](https://tonsky.me/blog/icfpc-2021/)
 - [ACMX](https://github.com/mfornet/acmx) - Competitive programming made simple. VSCode extension.
+- [Zig, Skia, Clojure, Geometry and the Japanese TV Show: ICFP Contest 2021](https://tonsky.me/blog/icfpc-2021/) ([Code](https://github.com/tonsky/icfpc2021))
+- [The Ultimate Topic List (with Resources, Problems and Templates)](https://codeforces.com/blog/entry/95106)
+- [Templates, algorithms and data structures implemented and collected for programming contests](https://github.com/ShahjalalShohag/code-library)
+- [Competitive Programming: Complete Guideline](https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline)
+- [Grind tracking](https://github.com/prius/learning) - Leetcode solutions, contests and some other algorithm-related stuff.
+- [Competitive Programming Questions](https://github.com/neerazz/FAANG)
+- [USACO Guide](https://usaco.guide/) - Free collection of curated, high-quality resources to take you from Bronze to Platinum and beyond. ([Code](https://github.com/cpinitiative/usaco-guide))

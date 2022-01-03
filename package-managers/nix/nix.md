@@ -1,5 +1,7 @@
 # [Nix](https://github.com/NixOS/nix)
 
+[nix.dev](https://nix.dev/) & [Nix One Pager](https://github.com/tazjin/nix-1p) are great places to start learning/using Nix. [How to learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) series is great too.
+
 ## Notes
 
 - Nix never uses host dependencies, it always builds with exactly precise dependencies every time, and will always refer to them from then on.
@@ -23,6 +25,27 @@
 - [I think Nix's approach is the right way to build container images--build the image layers declaratively, reproducibly, incrementally (no, Dockerfile builds aren't incremental because dependency trees aren't linear), and without a container runtime dependency.](https://twitter.com/weberc2/status/1334927112550174721)
 - [Nix doesn't solve dependency resolution problems. Only pinning. There's ground to break there. Dependency management not being part of flakes is my biggest gripe with it. It would be our chance to be the once size fits all solution but we failed to deliver.](https://twitter.com/ProgrammerDude/status/1375451276234928132)
 - [There's a lot of unexplored potential of Nix in granular build systems and displacing systems like Bazel. If applied correctly, it lets smaller organisations get much of the benefit of Google-style monorepos but without as much maintenance overhead.](https://news.ycombinator.com/item?id=26748696)
+- [Nix doesn't have an issue with metadata revisions: they're just another explicitly declared input to the build so they don't violate purity.](https://twitter.com/GabriellaG439/status/1462150287871787009)
+
+## Code
+
+```bash
+# Build nix package locally.
+
+# cd into cloned https://github.com/NixOS/nixpkgs
+
+# Build package from default.nix inside nixpkgs. Will put result as ./result if succeeds
+# i.e. nix-build -A watchexec -> will build watchexec package
+nix-build -A <package>
+
+# Install the build and put it `~/.nix-profile/bin`
+nix-env -i ./result
+```
+
+```bash
+# Garbage collect
+sudo nix-collect-garbage --delete-older-than 30d
+```
 
 ## Links
 
@@ -62,7 +85,7 @@
 - [Awesome Nix](https://github.com/nix-community/awesome-nix)
 - [nixfmt](https://github.com/serokell/nixfmt) - Formatter for Nix code.
 - [Nix for devs](https://github.com/uniphil/nix-for-devs) - Collection of recipes focused on nix-shell to make setting up project environments easy.
-- [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
+- [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs. ([Web](https://nix-community.github.io/nixpkgs-fmt/))
 - [Nix builder for Kubernetes](https://gist.github.com/tazjin/08f3d37073b3590aacac424303e6f745)
 - [Nixery](https://nixery.dev/) - Provides the ability to pull ad-hoc container images from a Docker-compatible registry server. ([Code](https://github.com/tazjin/nixery)) ([Talk](https://www.youtube.com/watch?v=pOI9H4oeXqA))
 - [Nixery: Improved Layering Design (2019)](https://tazj.in/blog/nixery-layers)
@@ -124,7 +147,7 @@
 - [Tools to manage a Nix-based project](https://github.com/shajra/nix-project)
 - [Building static Haskell binary with Nix on Linux (2020)](https://blog.patchgirl.io/haskell/2020/07/13/static-haskell-binary.html)
 - [Template for NUR repositories](https://github.com/rvolosatovs/nur-packages)
-- [Bramble](https://github.com/maxmcd/bramble) - Functional build system inspired by nix.
+- [Bramble](https://github.com/maxmcd/bramble) - Functional build system inspired by nix. ([Article](https://maxmcd.com/posts/bramble/)) ([Lobsters](https://lobste.rs/s/g1tqfe/bramble_purely_functional_build_system))
 - [The easiest way (I've found) to create your own Nix channel (2020)](https://lucperkins.dev/blog/nix-channel/)
 - [Nix Monorepo](https://github.com/lucperkins/nix-monorepo) - How you might use Nix in a larger, multi-language project.
 - [A Tutorial Introduction to Nix (2020)](https://rgoswami.me/posts/ccon-tut-nix/)
@@ -173,8 +196,8 @@
 - [nix-optics](https://github.com/masaeedu/nix-optics) - Using profunctor optics to focus modifications in Nix.
 - [Use Nix flakes without any fluff](https://github.com/gytis-ivaskevicius/flake-utils-plus)
 - [Nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files.
-- [Determinate Systems](https://determinate.systems/) - Nix ecosystem consulting by Graham Christensen.
-- [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/)
+- [Determinate Systems](https://determinate.systems/) - Confidently build and deploy to the cloud, stadium, or stock exchange. Expert help with the Nix ecosystem from Graham. ([Twitter](https://twitter.com/DeterminateSys)) ([GitHub](https://github.com/DeterminateSystems))
+- [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) ([HN](https://news.ycombinator.com/item?id=29303641))
 - [Nix is the ultimate DevOps toolkit (2021)](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html) ([HN](https://news.ycombinator.com/item?id=26748696)) ([Lobsters](https://lobste.rs/s/5gbbp2/nix_is_ultimate_devops_toolkit))
 - [devshell](https://github.com/numtide/devshell) - Per project developer environments.
 - [Nix Data](https://github.com/nix-community/nix-data) - Set of packages for data-scientists with batteries-included.
@@ -194,7 +217,7 @@
 - [nix-graph](https://github.com/awakesecurity/nix-graph) - Reify the Nix build graph into a Haskell graph data structure.
 - [Digga](https://github.com/divnix/digga) - Feature rich and configurable framework for harnessing Nix Flakes.
 - [Nix solves the package manager ejection problem (2021)](https://zeroindexed.com/nix-ejection-problem) ([HN](https://news.ycombinator.com/item?id=27344677))
-- [Cross compilation using Nix](https://nix.dev/tutorials/cross-compilation)
+- [Cross compilation using Nix](https://nix.dev/tutorials/cross-compilation) ([Tweet](https://twitter.com/burdiyan/status/1448778093188030464))
 - [nix-std](https://github.com/chessai/nix-std) - no-nixpkgs standard library for the nix expression language.
 - [Nix unstable installer](https://github.com/numtide/nix-unstable-installer) - Place to host Nix unstable releases.
 - [Nix Learning](https://github.com/humancalico/nix-learning) - Links to blog posts, articles, videos, etc for learning Nix.
@@ -207,3 +230,50 @@
 - [Debug symbols for binaries with Nix (2021)](http://rski.github.io/2021/09/05/nix-debugging.html)
 - [Ditch your version manager and use Nix (2021)](https://juliu.is/ditch-your-version-manager/) ([Lobsters](https://lobste.rs/s/emyfhx/ditch_your_version_manager)) ([HN](https://news.ycombinator.com/item?id=28565072))
 - [Advanced shell packaging: resholve YADM's nixpkg (2021)](https://t-ravis.com/post/nix/advanced_shell_packaging_resholve_yadm/)
+- [nix-parsec](https://github.com/nprindle/nix-parsec) - Parser combinators in Nix.
+- [nix-prefetch-github](https://github.com/seppeljordan/nix-prefetch-github) - Prefetch sources from github for nix build tool.
+- [Building reproducible Development environment with nix-shell (2021)](https://mudrii.medium.com/building-reproducible-development-environment-b1d4fb51a302)
+- [Building with Nix on Replit](https://docs.replit.com/tutorials/30-build-with-nix) ([HN](https://news.ycombinator.com/item?id=28733156))
+- [dream2nix](https://github.com/DavHau/dream2nix) - Generic framework for 2nix converters (converting from other build systems to nix).
+- [Novice Nix: Flake Templates (2021)](https://peppe.rs/posts/novice_nix:_flake_templates/)
+- [Personal provisioning machines with Nix](https://github.com/shajra/shajra-provisioning)
+- [Issues you encountered learning Nix? (2021)](https://twitter.com/theprincessxena/status/1448984266071752721)
+- [Declarative Dev Environments using Nix (2021)](https://marcopolo.io/code/declarative-dev-environments/)
+- [Peerix](https://github.com/cid-chan/peerix) - Peer-to-peer binary cache for nix derivations.
+- [update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - GitHub Action that will update your flake.lock file whenever it is run.
+- [Replit - Faster Nix Repl Startup (2021)](https://blog.replit.com/nix-perf-improvements)
+- [Statix](https://github.com/nerdypepper/statix) - Lints and suggestions for the nix programming language. ([Reddit](https://www.reddit.com/r/NixOS/comments/qh47fz/statix_lints_and_suggestions_for_the_nix/))
+- [Cicero](https://github.com/input-output-hk/cicero) - Workflow execution engine. Workflow is a description of (dependent) steps using the Nix configuration language.
+- [Cross-compiling and Static-linking with Nix (2021)](https://functor.tokyo/blog/2021-10-20-nix-cross-static)
+- [Nix 2.4 (2021)](https://discourse.nixos.org/t/nix-2-4-released/15822) ([Lobsters](https://lobste.rs/s/cumwee/nix_2_4_released)) ([HN](https://news.ycombinator.com/item?id=29073301))
+- [nixcrpkgs](https://github.com/pololu/nixcrpkgs) - Tools for cross-compiling standalone applications using Nix.
+- [Flake structure](https://github.com/freezeboy/flake-example)
+- [nix-patchtools](https://github.com/svanderburg/nix-patchtools) - Autopatching binary packages to make them work with Nix.
+- [A Critique of Nix Package Manager](https://www.iohannes.us/en/commentary/nix-critique/) ([Reddit](https://www.reddit.com/r/NixOS/comments/qs529l/a_critique_of_nix_package_manager/))
+- [rusty-nix](https://github.com/Kloenk/rusty-nix) - Nix written in rust.
+- [Some Nix questions (2021)](https://www.reddit.com/r/NixOS/comments/qsfkow/new_to_nix_some_questions/)
+- [Nix - Flakes for out-of-tree code (2021)](https://www.youtube.com/watch?v=90P-Ml1318U)
+- [Is it worth learning and migrating to Flakes as of November 2021?](https://www.reddit.com/r/NixOS/comments/qv9ag1/is_it_worth_learning_and_migrating_to_flakes_as/)
+- [dreampkgs](https://github.com/nix-community/dreampkgs) - Collection of software packages managed with dream2nix, a framework for automated packaging.
+- [Flake templates](https://github.com/NixOS/templates)
+- [libnix](https://github.com/Profpatsch/libnix-haskell) - Haskell library to interface with the nix package manager.
+- [nix-exec](https://github.com/shlevy/nix-exec) - Run programs defined in nix expressions.
+- [Closure vs. derivation in the Nix package manager (2018)](https://medium.com/scientific-breakthrough-of-the-afternoon/closure-vs-derivation-in-the-nix-package-manager-ec0eccc53407)
+- [mk-darwin-system](https://github.com/vic/mk-darwin-system) - Small Nix utility to create an M1 aarch64-darwin (nixFlakes + nix-darwin + home-manager) system.
+- [Nix language for JavaScript developers](https://github.com/rofrol/nix-for-javascript-developers)
+- [Will Nix Overtake Docker (2021)](https://blog.replit.com/nix-vs-docker) ([HN](https://news.ycombinator.com/item?id=29387137)) ([Lobsters](https://lobste.rs/s/65xymz/will_nix_overtake_docker))
+- [One too many shell (2021)](https://blog.ysndr.de/posts/guides/2021-12-01-nix-shells/)
+- [Building a reproducible blog with Nix (2020)](https://blog.ysndr.de/posts/internals/2020-04-10-built-with-nix/)
+- [Tvix: We Are Rewriting Nix (2021)](https://tvl.fyi/blog/rewriting-nix) ([HN](https://news.ycombinator.com/item?id=29412971)) ([Lobsters](https://lobste.rs/s/ypwgwp/tvix_we_are_rewriting_nix))
+- [Implementing a content-addressed Nix (2021)](https://www.tweag.io/blog/2021-12-02-nix-cas-4/)
+- [BuildKit-Nix](https://github.com/AkihiroSuda/buildkit-nix) - Allows using Nix derivations (default.nix) as Dockerfiles.
+- [How Nix and NixOS Get So Close to Perfect (2021)](https://www.youtube.com/watch?v=qjq2wVEpSsA)
+- [deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+- [nix-casync](https://github.com/flokli/nix-casync) - More efficient way to store and substitute Nix store paths. ([Article](https://flokli.de/posts/2021-12-10-nix-casync-intro/)) ([Tweet](https://twitter.com/flokli/status/1469310495756898311))
+- [Untrusted CI: Using Nix to get automatic trusted caching of untrusted builds (2019)](https://flokli.de/posts/2019-11-21-untrusted-ci/)
+- [nix-universal-prefetch](https://github.com/samueldr/nix-universal-prefetch) - Uses nix and nixpkgs to actually run the prefetch operation, then read the error message to figure out the desired hash.
+- [Nix Starter Config](https://github.com/Misterio77/nix-starter-config) - Simple config repo to get you started with NixOS + home-manager + flakes.
+- [Compatibility function to allow flakes to be used by non-flake-enabled Nix versions](https://github.com/edolstra/flake-compat)
+- [Tools You Should Know About: nix-shell (2021)](https://cuddly-octo-palm-tree.com/posts/2021-12-19-tyska-nix-shell/) ([Lobsters](https://lobste.rs/s/4khflt/tools_you_should_know_about_nix_shell))
+- [Basic implementation of a Nix-like store abstraction over a Merkle tree](https://github.com/ebkalderon/merkle-tree-nix-store-thing)
+- [tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust.

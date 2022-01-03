@@ -2,7 +2,7 @@
 
 ## Links
 
-- [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
+- [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. ([Web](http://websocketd.com/)) ([HN](https://news.ycombinator.com/item?id=29656456))
 - [µWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web I/O for the most demanding of applications.
 - [µSockets](https://github.com/uNetworking/uSockets) - Cross-platform async networking and eventing foundation library written in standard C.
 - [µWebSockets](https://github.com/uNetworking/uWebSockets.js) - JavaScript web server.
@@ -38,7 +38,7 @@
 - [wsServer](https://github.com/Theldus/wsServer) - Tiny WebSocket server library written in C.
 - [WebSockets From Scratch](https://github.com/pusher/websockets-from-scratch-tutorial)
 - [WebSocket, Shrek, and AsyncAPI - An Opinionated Intro (2021)](https://www.asyncapi.com/blog/websocket-part1)
-- [AnyCable](https://github.com/anycable/anycable-go) - Go WebSocket Server.
+- [AnyCable-Go WebSocket Server](https://github.com/anycable/anycable-go) - WebSocket server for AnyCable.
 - [From Sockets to WebSockets](https://github.com/susam/lab/tree/master/web/sockets)
 - [wscat](https://github.com/emulbreh/wscat) - curl for websockets.
 - [websockify](https://github.com/novnc/websockify) - WebSocket to TCP proxy/bridge.
@@ -47,3 +47,18 @@
 - [tinyws](https://github.com/tinyhttp/tinyws) - Tiny WebSocket middleware for Node.js.
 - [Jamsocket](https://github.com/jamsocket/jamsocket) - Lightweight framework for building WebSocket-based application backends. ([Template](https://github.com/jamsocket/service-template))
 - [embedded-websocket](https://github.com/ninjasource/embedded-websocket) - Lightweight rust websocket library for embedded systems no_std.
+- [Cortical](https://github.com/owulveryck/cortical) - Browser sends events through websockets, Cortical dispatch them to processing unit, concurently.
+- [How We Improved Reliability of our WebSocket Connections (2021)](https://making.close.com/posts/reliable-websockets/) ([HN](https://news.ycombinator.com/item?id=29026740))
+- [Example template for working with the WebSocketPair API in Cloudflare Workers](https://github.com/cloudflare/websocket-template)
+- [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
+- [DNWebSocket](https://github.com/GlebRadchenko/DNWebSocket) - WebSocket(RFC-6455) library written using Swift.
+- [localfirst/relay](https://github.com/local-first-web/relay) - Tiny relay server that bridges two WebSocket connections, allowing the clients to talk directly to each other.
+- [Bidirectional Server-sent Events](https://github.com/WebReflection/bidi-sse)
+- [python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client.
+- [websocket-ts](https://github.com/jjxxs/websocket-ts) - Convenient TypeScript-first client-websocket for browsers.
+- [simple-websocket](https://github.com/feross/simple-websocket) - Simple, EventEmitter API for WebSockets.
+- [y-websocket](https://github.com/yjs/y-websocket) - WebSocket Provider for Yjs.
+- [Woe be unto you for using a WebSocket (2021)](http://www.adama-lang.org/blog/woe-of-websocket/) ([HN](https://news.ycombinator.com/item?id=29651447))
+- [Are WebSockets the best way to push messages from the backend to web clients (2021)](https://twitter.com/bernhardsson/status/1473784120136421384)
+- [RealSync](https://github.com/xencodes/realsync) - Execute Server Functions from Client side. ([Article](https://xen.codes/execute-async-server-function-from-client-side))
+- [birpc](https://github.com/antfu/birpc) - Message-based two-way remote procedure call.

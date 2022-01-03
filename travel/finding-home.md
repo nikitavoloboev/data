@@ -4,6 +4,8 @@ I use [AirBnb](https://www.airbnb.com) & [Booking](https://www.booking.com) for 
 
 I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.facebook.com/marketplace) for finding/selling places to stay in.
 
+One day it would be nice to own a house with a lot of windows for light like [this one](https://twitter.com/nikstep/status/1443874686333603863).
+
 ### UK
 
 - [SpareRoom](https://www.spareroom.co.uk)
@@ -49,7 +51,7 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [IKEA Tiny House](https://www.architecturaldigest.com/story/ikea-tiny-house)
 - [ICON](https://www.iconbuild.com/) - 3D-Printed Homes for Sale.
 - [Automate Construction](https://automate.construction/) - Construction Industry Is Transforming.
-- [Cover](https://buildcover.com/) - Making thoughtfully designed and well-built homes for everyone. ([IG](https://www.instagram.com/coverbuild/)) ([Tweet](https://twitter.com/alexisxrivas/status/1423400137091518466))
+- [Cover](https://buildcover.com/) - Making thoughtfully designed and well-built homes for everyone. ([IG](https://www.instagram.com/coverbuild/)) ([Tweet](https://twitter.com/alexisxrivas/status/1423400137091518466)) ([Tweet](https://twitter.com/alexisxrivas/status/1453746511108476934))
 - [Dwelling](https://dwelling.co/) - Home buying for humans.
 - [Favorite furniture brand? (2021)](https://twitter.com/Suhail/status/1378474655640473602)
 - [Compass](https://www.compass.com/) - Real Estate, Homes for Sale & Apartments for Rent.
@@ -60,3 +62,13 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [What are some luxurious homewares you appreciate? (2021)](https://www.reddit.com/r/fatFIRE/comments/pmmz63/what_are_some_luxurious_homewares_you_appreciate/)
 - [If you were building a house from scratch, what features would you recommend considering? (2021)](https://www.reddit.com/r/fatFIRE/comments/pq373t/if_you_were_building_a_house_from_scratch_what/)
 - [Home Price to Income Ratio](https://www.longtermtrends.net/home-price-median-annual-income-ratio/) ([HN](https://news.ycombinator.com/item?id=28594201))
+- [How to Live in Airbnbs for the Price of an Apartment Lease (2020)](https://esimoney.com/how-to-live-in-airbnbs-for-the-price-of-an-apartment-lease/) ([HN](https://news.ycombinator.com/item?id=28659170))
+- [Solar Shed Summary: My Off Grid Office (2021)](https://www.sevarg.net/2016/07/31/solar-shed-summary-my-off-grid-office/) ([HN](https://news.ycombinator.com/item?id=28735687))
+- [Wander](https://www.wander.com/) - Book the perfect Wander-owned smart home for your next workcation, vacation or anything in-between. ([Twitter](https://twitter.com/wander))
+- [Glide Pod](https://www.pod-space.co.uk/pods/glide-pod/) - Design Award-Winning Garden Office Buildings.
+- [Best floor planning tool (2021)](https://twitter.com/adamwathan/status/1448811803077656580)
+- [The Best Airbnbs in the U.S., from Floating Tiki Huts to Desert Marvels](https://www.cntraveler.com/gallery/best-airbnbs-in-the-us) ([Tweet](https://twitter.com/alexisxrivas/status/1468634971879268354))
+- [В гостях у актера Александра Петрова: двухуровневый лофт с большой террасой](https://www.youtube.com/watch?v=FFja5R0syXE)
+- [Ask HN: Tiny Home for $5k USD? (2021)](https://news.ycombinator.com/item?id=29686799)
+- [The Carpetbagger’s Guide to Home Ownership (2021)](https://www.granolashotgun.com/granolashotguncom/investors-and-affordable-housing) ([HN](https://news.ycombinator.com/item?id=29688489))
+- [I Built a Shed (2020)](https://eduardosasso.co/blog/how-i-built-a-wfh-shed/) ([HN](https://news.ycombinator.com/item?id=29770105))

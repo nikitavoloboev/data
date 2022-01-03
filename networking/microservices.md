@@ -1,11 +1,14 @@
 # Microservices
 
+[Temporal](https://temporal.io) seems interesting.
+
 ## Notes
 
 - [Microservices; the act of replacing every SQL query with a gRPC call.](https://twitter.com/davecheney/status/1296033304756404225)
 - [The single most effective thing you can do to improve the reliability, performance, and coherence of a distributed system is to minimize the required coördination and communication between nodes](https://twitter.com/peterbourgon/status/1300092429018820616)
 - [Don't solve problems you don't have. Most companies think they need microservices, for example. It is an extremely expensive proposition. Debugging anything becomes a nightmare and developer ergonomics are shot to hell. There is a reason why we stayed away from distributed services in the past. What, you think I could not have stitched together 20 different Python services on my machine in 2009 and put my productivity into paralysis? Don't fool yourself about things like Docker making things easier. It doesn't help people reason about distributed systems.](https://news.ycombinator.com/item?id=27092326)
 - [Instagram? Monolith. 12 people when sold to Facebook. WhatsApp? Monolith. 32 people when sold to Facebook. StackOverflow. Monolith, with a lite SQL ORM for highly optimized queries.](https://news.ycombinator.com/item?id=27092326)
+- [From a certain point of view microservices are the logical outcome of the endless game of hot-potato where everyone tries not to get caught with the state.](https://twitter.com/MissAmyTobey/status/1455362671973265413)
 
 ## Links
 
@@ -81,3 +84,14 @@
 - [Baker](https://github.com/ing-bank/baker) - Orchestrate microservice-based process flows.
 - [Polaris](https://github.com/polarismesh/polaris) - Service Discovery and Governance Center for Distributed and Microservice Architecture.
 - [Serivce Builder](https://github.com/cnative/servicebuilder) - GRPC based Micro Service scaffolding in Go with HTTP/JSON gRPC gateway and OIDC / JWT Token based auth.
+- [Cloud Native GeoServer](http://geoserver.org/geoserver-cloud/) - GeoServer ready to use in the cloud through dockerized microservices. ([Code](https://github.com/geoserver/geoserver-cloud))
+- [GitHub’s Journey from Monolith to Microservices (2021)](https://www.infoq.com/articles/github-monolith-microservices/) ([Tweet](https://twitter.com/SusanPotter/status/1447861936683634692))
+- [Ergo](https://cloud.ergo.services/) - Cloud platform to enrich services made with Ergo Framework. ([GitHub](https://github.com/ergo-services))
+- [Bootstrapping Microservices with Docker, Kubernetes, and Terraform Book (2021)](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform)
+- [mahou](https://github.com/queer/mahou) - Highly-opinionated yet quite magical research project into microservice-oriented application infrastructure. ([Web](https://mahou.io/))
+- [What could better cross-(micro)service messaging look like? (2021)](https://b.amy.gg/what-might-messaging-be)
+- [Some Thoughts on Microservices (2021)](https://filipnikolovski.com/posts/thoughts-on-microservices/) ([HN](https://news.ycombinator.com/item?id=29379926))
+- [Optimizing microservices for fast local development (2021)](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-2-optimizing-for-fast-local-development-9f27a98b47ee) ([Lobsters](https://lobste.rs/s/jjerlf/optimizing_for_fast_local_development))
+- [Apache SkyWalking](https://github.com/apache/skywalking) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Docker, Kubernetes, Mesos) architectures. ([Web](https://skywalking.apache.org/))
+- [Don’t start with microservices – monoliths are your friend (2021)](https://arnoldgalovics.com/microservices-in-production/) ([Lobsters](https://lobste.rs/s/p7l6kz/don_t_start_with_microservices_monoliths)) ([HN](https://news.ycombinator.com/item?id=29576352)) ([Reddit](https://www.reddit.com/r/coding/comments/rhmoki/dont_start_with_microservices_monoliths_are_your/))
+- [Mockintosh](https://github.com/up9inc/mockintosh) - Mocks for microservice environments.

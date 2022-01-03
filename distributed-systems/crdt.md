@@ -56,3 +56,15 @@
 - [Faster CRDTs: An Adventure in Optimization (2021)](https://josephg.com/blog/crdts-go-brrr/) ([HN](https://news.ycombinator.com/item?id=28017204))
 - [Chronofold](https://github.com/dkellner/chronofold) - Conflict-free replicated data structure (a.k.a. CRDT) for versioned text.
 - [What to use to build collaborative web application today (2021)](https://twitter.com/tmcw/status/1433436431658196997)
+- [HN: CRDT resources (2021)](https://news.ycombinator.com/item?id=28998767)
+- [How do CRDTs solve distributed data consistency challenges? (2021)](https://ably.com/blog/crdts-distributed-data-consistency-challenges) ([HN](https://news.ycombinator.com/item?id=29025724))
+- [LWW-element-graphs study](https://github.com/agravier/crdt-study) ([Comment](https://news.ycombinator.com/item?id=29026978))
+- [go-ds-crdt](https://github.com/ipfs/go-ds-crdt) - Distributed go-datastore implementation using Merkle-CRDTs.
+- [ldb](https://github.com/vitorenesduarte/ldb) - Replication of CRDTs in Erlang.
+- [CRDTs meet Redux](https://github.com/HerbCaudill/crdx)
+- [Peritext](https://github.com/inkandswitch/peritext) - CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes. ([Article](https://www.inkandswitch.com/peritext/))
+- [Automerge: a new foundation for collaboration software (2021)](https://www.youtube.com/watch?v=Qytg0Ibet2E) ([Tweet](https://twitter.com/martinkl/status/1465013736167833601)) ([HN](https://news.ycombinator.com/item?id=29501465))
+- [SyncedStore CRDT](https://github.com/yousefed/SyncedStore) - Easy-to-use library for building live, collaborative applications that sync automatically. ([Docs](https://syncedstore.org/docs/)) ([HN](https://news.ycombinator.com/item?id=29483913))
+- [valtio-yjs](https://github.com/dai-shi/valtio-yjs) - Proxy state library for ReactJS and VanillaJS. yjs is an implementation of CRDT algorithm (which allows to merge client data without server coordination).
+- [Naisho](https://github.com/SerenityNotes/naisho) - Architecture for end-to-end encrypted CRDTs.
+- [The limits of conflict-free replicated data types (2021)](http://pepijndevos.nl/2021/12/18/the-limits-of-conflict-free-replicated-data-types.html)

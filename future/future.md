@@ -5,7 +5,7 @@
 - Animals get human rights and are no longer forced to endure life in slaughterhouses and be eaten. No animal can be harmed for food. Being vegan is normal. Caring is normal.
 - Renewable & environmentally friendly energy sources fully replace fossil fuel use. Each country's grid is ran off renewable clean energy. Extreme carbon tax is implemented.
 - All vehicles are electrical. Autonomous driving fully realized.
-- Cure for all cancers & diseases (cheap immunotherapies, medicine).
+- Cure for all cancers & diseases (cheap immunotherapies, medicine, can regenerative any tissue/organ you need).
 - Psychedelics legalized. Possession, purchase and manufacturing. Psychotherapy is available everywhere.
 - NLP lets machines understand knowledge & language at deep level.
 - Universal basic income allows each person to work on problems they deeply care about. Novel ideas can be explored by each person according to their interest & skill.
@@ -20,6 +20,13 @@
 - Government conducts itself in transparent and open manner. Any change to constitution or law is done in the open. Every tax dollar should be accounted for without ability to mismanage the budget (no stealing).
 
 I try to get to this future as soon as possible by setting and completing my own personal [life goals](../focusing/goals.md).
+
+[Hopeful Pathway for Humanity](https://hopefulpathway.blainehansen.me/) is great too as are the many links below.
+
+## Notes
+
+- [The primary ingredient for progress is optimism. The unwavering belief that something can be better is what drives the human race forward.](https://twitter.com/simonsinek/status/1461705827560136707)
+- [The idea that the future is hopeless is a bad meme that can bring down civilizations.](https://twitter.com/isabelleboemeke/status/1469059371363549184)
 
 ## Links
 
@@ -72,3 +79,15 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Speculating Futures](http://speculatingfutures.club/) - Solarpunky reading list.
 - [Industries to radically change in future (2021)](https://twitter.com/m_franceschetti/status/1418996176578351104)
 - [What type of companies/industry do you think will be one of the biggest 20 years from now but doesn’t exist at the moment. (2021)](https://www.reddit.com/r/stocks/comments/pe8tsa/what_type_of_companiesindustry_do_you_think_will/)
+- [Technological stagnation: Why I came around (2021)](https://rootsofprogress.org/technological-stagnation) ([Tweet](https://twitter.com/altluu/status/1443759755449626637))
+- [Films that are optimistic about the future (2021)](https://twitter.com/zhusu/status/1444131834086887428)
+- [Things Vitalik is excited about (2020)](https://twitter.com/VitalikButerin/status/1273742863688499203)
+- [Ask HN: What are you 2022 predictions?](https://news.ycombinator.com/item?id=29281732)
+- [100 years of whatever this will be (2021)](https://apenwarr.ca/log/20211201) ([HN](https://news.ycombinator.com/item?id=29416606))
+- [A Hopeful Pathway for Humanity](https://hopefulpathway.blainehansen.me/) ([Code](https://github.com/blainehansen/hopeful-pathway))
+- [Ask HN: Why is everything changing too fast? (2021)](https://news.ycombinator.com/item?id=29457930)
+- [Ask HN: What's the next big thing in computing / programming? (2021)](https://news.ycombinator.com/item?id=29625625)
+- [The next big thing in 2022 is...](https://nbt.substack.com/p/nextbigthing2022) ([Tweet](https://twitter.com/nbt/status/1473720777098862596))
+- [Ask HN: What will stay the same in the next 50 years? (2021)](https://news.ycombinator.com/item?id=29743181)
+- [Ask HN: What are you predictions for 2022?](https://news.ycombinator.com/item?id=29746236)
+- [Tech questions for 2022](https://www.ben-evans.com/benedictevans/2022/1/2/2022-questions)

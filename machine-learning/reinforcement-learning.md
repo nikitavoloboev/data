@@ -3,7 +3,7 @@
 ## Links
 
 - [Where to start learning Reinforcement Learning in 2018?](https://www.reddit.com/r/MachineLearning/comments/7ui8jv/d_where_to_start_learning_reinforcement_learning/)
-- [Reinforcement Learning, An Introduction book](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) - Significantly expanded and updated new edition of a widely used text on reinforcement learning, one of the most active research areas in artificial intelligence. ([Web](http://incompleteideas.net/book/the-book-2nd.html)) ([Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)) ([Julia Code](https://github.com/JuliaReinforcementLearning/ReinforcementLearningAnIntroduction.jl))
+- [Reinforcement Learning, An Introduction Book](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) - Significantly expanded and updated new edition of a widely used text on reinforcement learning, one of the most active research areas in artificial intelligence. ([Web](http://incompleteideas.net/book/the-book-2nd.html)) ([Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)) ([Julia Code](https://github.com/JuliaReinforcementLearning/ReinforcementLearningAnIntroduction.jl)) ([Video Summary](https://www.youtube.com/playlist?list=PLerZSPM4UM7LMM52BQh0dhcMnjk9qpaRl))
 - [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, TensorFlow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
 - [Learning to Learn for Robotic Control - Prof. Pieter Abbeel](https://www.youtube.com/watch?v=WFCzLZKVs44)
 - [MIT AGI: OpenAI Meta-Learning and Self-Play (Ilya Sutskever)](https://www.youtube.com/watch?v=9EN_HoEk3KY)
@@ -194,7 +194,7 @@
 - [Towards a Theory of Generalization in Reinforcement Learning (2021)](https://windowsontheory.org/2021/04/24/towards-a-theory-of-generalization-in-reinforcement-learning-guest-lecture-by-sham-kakade/)
 - [Evolving Reinforcement Learning Algorithms (2021)](https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html)
 - [Model-Based RL for Decentralized Multi-agent Navigation (2021)](https://ai.googleblog.com/2021/04/model-based-rl-for-decentralized-multi.html)
-- [Mastering Atari with Discrete World Models (2021)](https://danijar.com/project/dreamerv2/) ([Code](https://github.com/danijar/dreamerv2))
+- [Mastering Atari with Discrete World Models (2021)](https://danijar.com/project/dreamerv2/) ([Code](https://github.com/danijar/dreamerv2)) ([Code](https://github.com/jurgisp/pydreamer))
 - [RoboDesk](https://github.com/google-research/robodesk) - Multi-Task Reinforcement Learning Benchmark.
 - [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) - Reinforcement learning package for Julia. ([Web](https://juliareinforcementlearning.org/))
 - [Improving Exploration in Soft-Actor-Critic with Normalizing Flows Policies (2019)](https://arxiv.org/abs/1906.02771) ([Code](https://github.com/joeybose/FloRL))
@@ -241,3 +241,65 @@
 - [PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch) - Minimal implementation of clipped objective Proximal Policy Optimization (PPO) in PyTorch.
 - [rlberry](https://github.com/rlberry-py/rlberry) - Easy-to-use reinforcement learning library for research and education.
 - [SEED RL](https://github.com/google-research/seed_rl) - Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
+- [MiniHack](https://github.com/facebookresearch/minihack) - Sandbox for Open-Ended Reinforcement Learning Research.
+- [An Outsider's Tour of Reinforcement Learning (2018)](http://www.argmin.net/2018/06/25/outsider-rl/)
+- [Mastering Atari with Discrete World Models (2020)](https://arxiv.org/abs/2010.02193) ([Code](https://github.com/RajGhugare19/dreamerv2))
+- [Falken](https://github.com/google-research/falken) - Provides developers with a service that allows them to train AI that can play their games.
+- [irl-imitation](https://github.com/yrlu/irl-imitation) - Implementation of Inverse Reinforcement Learning (IRL) algorithms in python/Tensorflow. Deep MaxEnt, MaxEnt, LPIRL.
+- [Best RL papers from the past year or two (2021)](https://www.reddit.com/r/reinforcementlearning/comments/q6vlav/best_rl_papers_from_the_past_year_or_two/)
+- [Recurrent Model-Free RL is a Strong Baseline for Many POMDPs (2021)](https://arxiv.org/abs/2110.05038)
+- [Godot RL Agents](https://github.com/edbeeching/godot_rl_agents) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/q8sx0g/p_introducing_godot_rl_agents/))
+- [SaLinA: Sequential Learning of Agents (2021)](https://arxiv.org/abs/2110.07910) - Flexible and Simple Library for Learning Sequential Agents (including Reinforcement Learning). ([Code](https://github.com/facebookresearch/salina)) ([Tweet](https://twitter.com/LudovicDenoyer/status/1450003583609544704))
+- [EnvironmentLogger](https://github.com/deepmind/envlogger) - Tool for recording RL trajectories.
+- [DrQ-v2](https://github.com/facebookresearch/drqv2) - Improved Data-Augmented Reinforcement Learning.
+- [Arcade Learning Environment (ALE)](https://github.com/mgbellemare/Arcade-Learning-Environment) - Simple framework that allows researchers and hobbyists to develop AI agents for Atari 2600 games.
+- [ML Mentorship: Some Q/A about RL (2021)](https://evjang.com/2021/07/30/rl-qa.html)
+- [RLs](https://github.com/StepNeverStop/RLs) - Reinforcement Learning Algorithms Based on PyTorch.
+- [DeepMind Alchemy environment](https://github.com/deepmind/dm_alchemy) - Meta-reinforcement learning benchmark.
+- [gym-hybrid](https://github.com/thomashirtz/gym-hybrid) - Collection of environment for reinforcement learning task possessing discrete-continuous hybrid action space.
+- [Simple PyTorch Implementations of Deep RL Algorithms for Continuous Control Research](https://github.com/jakegrigsby/deep_control)
+- [Learning to Ground Multi-Agent Communication with Autoencoders (2021)](https://arxiv.org/abs/2110.15349)
+- [Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives (2021)](https://mihdalal.github.io/raps/) ([Code](https://github.com/mihdalal/raps))
+- [Unsupervised Reinforcement Learning Benchmark (URLB)](https://github.com/rll-research/url_benchmark)
+- [Mastering Atari Games with Limited Data (2021)](https://arxiv.org/abs/2111.00210) ([Code](https://github.com/YeWR/EfficientZero))
+- [RL Starter Files](https://github.com/lcswillems/rl-starter-files) - RL starter files in order to immediately train, visualize and evaluate an agent without writing any line of code.
+- [JORLDY](https://github.com/kakaoenterprise/JORLDY) - Open Source Reinforcement Learning Framework.
+- [sinergym](https://github.com/jajimer/sinergym) - Gym environment for building simulation and control using reinforcement learning.
+- [MetaDrive](https://github.com/decisionforce/metadrive) - Composing Diverse Driving Scenarios for Generalizable RL.
+- [Crafter](https://github.com/danijar/crafter) - Benchmarking the Spectrum of Agent Capabilities.
+- [RLDS](https://github.com/google-research/rlds) - Reinforcement Learning Datasets.
+- [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability (2021)](https://bair.berkeley.edu/blog/2021/11/05/epistemic-pomdp/) ([Paper](https://arxiv.org/abs/2107.06277))
+- [Offline Reinforcement Learning: BayLearn 2021 Keynote Talk](https://www.youtube.com/watch?v=k08N5a0gG0A)
+- [Baby Robot's Guide to Reinforcement Learning](https://github.com/WhatIThinkAbout/BabyRobot)
+- [Learning Off-Policy with Online Planning (2020)](https://arxiv.org/abs/2008.10066) ([Code](https://github.com/hari-sikchi/LOOP))
+- [f-IRL: Inverse Reinforcement Learning via State Marginal Matching (2020)](https://arxiv.org/abs/2011.04709) ([Code](https://github.com/twni2016/f-IRL))
+- [TD3+BC](https://github.com/sfujim/TD3_BC) - Minimalist Approach to Offline Reinforcement Learning.
+- [Reinforcement Learning Course Materials](https://github.com/upb-lea/reinforcement_learning_course_materials)
+- [On the Expressivity of Markov Reward (2021)](https://arxiv.org/abs/2111.00876) ([Tweet](https://twitter.com/dabelcs/status/1460575866212212739))
+- [Isaac Gym Benchmark Environments](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) - Contains example RL environments for the NVIDIA Isaac Gym high performance environments.
+- [Offline Reinforcement Learning with Implicit Q-Learning (2021)](https://arxiv.org/abs/2110.06169) ([Code](https://github.com/ikostrikov/implicit_q_learning))
+- [A Survey of Generalisation in Deep Reinforcement Learning (2021)](https://arxiv.org/abs/2111.09794) ([Tweet](https://twitter.com/OriolVinyalsML/status/1461729731301167112))
+- [Permutation-Invariant Neural Networks for Reinforcement Learning (2021)](https://ai.googleblog.com/2021/11/permutation-invariant-neural-networks.html)
+- [EnvPool](https://github.com/sail-sg/envpool) - C++-based high-performance parallel environment execution engine for general RL environments. ([Docs](https://envpool.readthedocs.io/en/latest/))
+- [Magi RL library in JAX](https://github.com/ethanluoyc/magi)
+- [WarpDrive](https://github.com/salesforce/warp-drive) - Extremely Fast End-to-End Deep Multi-Agent Reinforcement Learning Framework on a GPU.
+- [Embodied](https://github.com/danijar/embodied) - Fast reinforcement learning research.
+- [Permutation-Invariant Neural Networks for Reinforcement Learning (2021)](https://blog.otoro.net/2021/11/18/attentionneuron/) ([HN](https://news.ycombinator.com/item?id=29364890))
+- [Only RL setting worth studying is the MDP (2021)](https://twitter.com/jacobmbuckman/status/1464327006489829378) ([Tweet](https://twitter.com/luisa_zintgraf/status/1465359423061307400))
+- [Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy (2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) ([Code](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020))
+- [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
+- [MARL-Baselines3](https://github.com/Rohan138/marl-baselines3) - Multi-Agent Reinforcement Learning with Stable-Baselines3.
+- [ALF](https://github.com/HorizonRobotics/alf) - Reinforcement learning framework emphasizing on the flexibility and easiness of implementing complex algorithms involving many different components.
+- [On the Practical Consistency of Meta-Reinforcement Learning Algorithms (2021)](https://arxiv.org/abs/2112.00478) ([Tweet](https://twitter.com/luisa_zintgraf/status/1470349932972421124))
+- [Awesome Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+- [Balloon Learning Environment](https://github.com/google/balloon-learning-environment) - Flying stratospheric balloons with deep reinforcement learning.
+- [The potential of transformers in reinforcement learning (2021)](https://lorenzopieri.com/rl_transformers/) ([HN](https://news.ycombinator.com/item?id=29617087))
+- [rvs](https://github.com/scottemmons/rvs) - Reinforcement Learning via Supervised Learning.
+- [RLHive](https://github.com/chandar-lab/RLHive) - Framework designed to facilitate research in reinforcement learning.
+- [Gym-ANM](https://github.com/robinhenry/gym-anm) - Design Reinforcement Learning environments that model Active Network Management (ANM) tasks in electricity distribution networks.
+- [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation (2020)](https://arxiv.org/abs/1908.04942)
+- [Deep Reinforcement Learning for Keras](https://github.com/keras-rl/keras-rl)
+- [DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch.
+- [Deep Reinforcement Learning Toolkit for Cryptocurrencies](https://github.com/sadighian/crypto-rl) - Record and replay cryptocurrency limit order book data & train a DDQN agent.
+- [Multi-View Reinforcement Learning (2019)](https://arxiv.org/abs/1910.08285) ([Code](https://github.com/mlii/mvrl))
+- [Mean Field Multi-Agent Reinforcement Learning (2019)](https://arxiv.org/abs/1802.05438) ([Code](https://github.com/mlii/mfrl))

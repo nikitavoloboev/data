@@ -233,12 +233,62 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The Best Books for Software Engineers](https://www.briansnotes.io/books/?sort=rating)
 - [Useful Spy Books (2021)](https://berthub.eu/articles/posts/useful-spy-books/)
 - [HackerNews Readings](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0) - 40,000 HackerNews book recommendations identified using NLP and deep learning. ([HN](https://news.ycombinator.com/item?id=28595967))
+- [The Most Influential Sci-Fi Books Of All Time (2021)](https://bookriot.com/the-most-influential-sci-fi-books-of-all-time/)
+- [Краткое содержание: лучшие новые рассказы на русском (2021)](https://daily.afisha.ru/specials/21348-kratkoe-soderzhanie-luchshie-novye-rasskazy-na-russkom-v-specproekte-afishi-daily/)
+- [Books you can’t put down (page-turners)? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qasbyt/books_you_cant_put_down_pageturners/)
+- [Josh Wolfe's bookshelf](https://twitter.com/wolfejosh/status/1449731287594541065)
+- [What are your favorite books under 250 pages? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qc2r4i/what_are_your_favorite_books_under_250_pages/)
+- [Best and most engaging Sci-Fi books (2021)](https://www.reddit.com/r/suggestmeabook/comments/qfdrhp/what_are_the_best_and_most_engaging_scifi_books/)
+- [Favorite weird short story collections (2021)](https://www.reddit.com/r/WeirdLit/comments/qh406m/what_are_your_favorite_weird_short_story/)
+- [Whats your favorite book? (2021)](https://www.reddit.com/r/suggestmeabook/comments/qma7aj/whats_your_favorite_book/)
+- [Best book you read lately? (2021)](https://twitter.com/Miles_Brundage/status/1459386999249399809)
+- [Books that are better than therapy (2021)](https://twitter.com/DRMacIver/status/1459481901505388546)
+- [Eric Button's Books Read](https://ericbutton.co/blog/books)
+- [Ask HN: Most interesting, mildly impractical, well-written books on software? (2021)](https://news.ycombinator.com/item?id=29306651)
+- [5 books I loved reading this year | Bill Gates](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021) ([HN](https://news.ycombinator.com/item?id=29309758))
+- [Books that changed my career as a software engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer) ([HN](https://news.ycombinator.com/item?id=29364892))
+- [Very very short book you read (< 150 pages) (2021)](https://twitter.com/patrick_oshag/status/1466137479661170688)
+- [Ask HN: What are some must read books? (2021)](https://news.ycombinator.com/item?id=29462663)
+- [Best fiction of 2021](https://www.theguardian.com/books/2021/dec/04/best-fiction-of-2021)
+- [Reddit Reads: Book reccomendations from Reddit](https://www.redditreads.com/)
+- [Radical Polish books to add to your reading list](https://www.calvertjournal.com/features/show/12858/queer-feminist-sci-fi-books-polish-literature) ([HN](https://news.ycombinator.com/item?id=29502396))
+- [Reading List • Timothy Andrew](https://0xc0d1.com/misc/reading/)
+- [To Read • Timothy Andrew](https://0xc0d1.com/misc/reading/toread/)
+- [19 book recommendations from the Ars staff (2021)](https://arstechnica.com/staff/2021/12/holiday-book-guide/)
+- [The 50 Best Books of Literary Journalism of the 21st Century](https://www.gq.com/story/50-best-literary-journalism-books)
+- [The best fantasy and sci-fi books of 2021](https://www.polygon.com/22822439/best-fantasy-books-sci-fi-2021)
+- [Best short story you've read (2021)](https://www.reddit.com/r/suggestmeabook/comments/rgy3h3/whats_the_best_short_story_youve_read_bonus/)
+- [Ask HN: Is there any fiction that's based on a world with different physics? (2021)](https://news.ycombinator.com/item?id=29587703)
+- [Best books you've read as an engineering manager or software engineer](https://twitter.com/GergelyOrosz/status/1470308287220527104)
+- [Ask HN: Life Changing Books? (2021)](https://news.ycombinator.com/item?id=29605394)
+- [Your favorite book that you read in 2021](https://www.reddit.com/r/suggestmeabook/comments/rkaok7/its_that_time_of_year_again_your_favorite_book/)
+- [The Ultimate Best Books of 2021 List](https://lithub.com/the-ultimate-best-books-of-2021-list/)
+- [The Best Books of 2021](https://kottke.org/21/12/the-best-books-of-2021)
+- [Books where you it makes you happy & excited when you learn they're a favorite of someone else](https://twitter.com/michael_nielsen/status/1473860703270309892)
+- [Best fiction book you read this year](https://twitrecos.top/tweets/1472652425806942217) ([Tweet](https://twitter.com/blprnt/status/1474140574643109891))
+- [Ask HN: What's the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
+- [Best comedies you read (2021)](https://www.reddit.com/r/suggestmeabook/comments/rprsrm/best_comedy_youve_read/)
+- [Mind Expanding Books](https://books.vishnuks.com/) ([Code](https://github.com/hackerkid/Mind-Expanding-Books)) ([HN](https://news.ycombinator.com/item?id=29711042))
+- [Robert Miller's 2020 reading list](https://www.bertcmiller.com/2021/01/01/2020-reading-list.html)
+- [Books changed your life and stuck with you (2021)](https://www.reddit.com/r/suggestmeabook/comments/rrchnp/has_any_books_changed_your_life_and_stuck_with_you/)
+- [Books read in 2021](https://twitter.com/ManishEarth/status/1364969804562452480)
+- [What’s the most disturbing or scary book you ever read?](https://www.reddit.com/r/suggestmeabook/comments/rt5xeg/whats_the_most_disturbing_or_scary_book_you_ever/)
+- [Readers Pick the Best Book of the Past 125 Years](https://www.nytimes.com/interactive/2021/12/28/books/best-book-winners.html)
+- [What was your favorite book of 2021?](https://www.reddit.com/r/suggestmeabook/comments/rtnqd1/what_was_your_favourite_book_of_2021/)
+- [7 лучших книг 2021 года: выбор Егора Михайлова](https://daily.afisha.ru/brain/21955-7-luchshih-knig-2021-goda-vybor-egora-mihaylova/)
+
+## Interesting Prose Books
+
+- [Alice's Adventures in Wonderland](https://www.cs.cmu.edu/~rgs/alice-I.html)
 
 ## Notes
 
 - With Audible plans, you can do easy exchanges. Don’t love a book? Swap it for free, anytime.
 - [Kindle changed the way we read books and then… stopped there. I want social highlights, notes, flash cards, and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)](https://twitter.com/Altimor/status/1003408586553294856)
 - [Some day you will be old enough to start reading fairy tales again.](https://www.reddit.com/r/RationalPsychonaut/comments/n2p74z/i_wish_great_geniuses_physicists_scientists_etc/)
+- [Read what you love until you love to read.](https://twitter.com/id_aa_carmack/status/1445424833181925376)
+- [I used to read a lot of old books growing up, and they were all different. And... being extremely online and reading contemporary things all day does have a sort of tunnel-vision effect. The way we live, the way we think, the way we talk. Go read a really old book from a different time, from a different place.](https://twitter.com/visakanv/status/1450889450532134917)
+- [Sometimes you have to read a book at the exact right time in your life for it to really click](https://twitter.com/noampomsky/status/1474948896803545091)
 
 ## Links
 
@@ -283,7 +333,6 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Hello, EPUB (2020)](https://wooorm.com/blog/hello-epub/) - Intro to the format.
 - [On Books](https://github.com/jlevy/on-books) - Collection of readings and notes on the past, present, and future of books.
 - [I won't buy ebooks anymore (2020)](https://dustri.org/b/i-wont-buy-ebooks-anymore.html) ([HN](https://news.ycombinator.com/item?id=23310430)) ([Lobsters](https://lobste.rs/s/znjrtl/i_won_t_buy_ebooks_anymore))
-- [ZLibrary](https://b-ok.cc/) - Electronic library. Download books free.
 - [Reading habits that changed my life (2020)](https://medium.com/@manjotpahwa/10-reading-habits-that-changed-my-life-5c7673bc34bc) ([HN](https://news.ycombinator.com/item?id=23308931))
 - [LibraryThing](https://www.librarything.com/) - Catalog your books online.
 - [Bookshop](https://bookshop.org/) - Buy books online. Support local bookstores.
@@ -407,3 +456,32 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Gnooks](https://www.gnooks.com/) - Discover new Books.
 - [Literature Map](https://www.literature-map.com/) - The Tourist Map of Literature.
 - [Ruby for ebook publishing (2021)](https://nts.strzibny.name/ruby-for-ebook-publishing/)
+- [Summarizing Books with Human Feedback](https://openai.com/blog/summarizing-books/) ([HN](https://news.ycombinator.com/item?id=28643335))
+- [73 Beautiful Books from the MIT Press Essential Knowledge Series](https://abakcus.com/seventy-three-beautiful-books-from-the-mit-press-essential-knowledge-series/)
+- [The Anarchist Library](https://theanarchistlibrary.org/special/index)
+- [Kevin's Book Notes](https://www.kevinslin.com/notes/ad075218-7dae-479b-8415-d54c10ef103e/)
+- [IndiePaper](https://indiepaper.me/) - Easy way to write and sell self-published books. ([HN](https://news.ycombinator.com/item?id=28775313))
+- [Z-Library](https://z-lib.org/) - World's largest ebook library.
+- [Z-Library Books](https://nl1lib.org/)
+- [Z-Library Articles](https://booksc.org/)
+- [Top Shelves | Goodreads](https://www.goodreads.com/shelf)
+- [Royal Road](https://www.royalroad.com/welcome) - Home of web fiction.
+- [Why did Dostoyevsky write Crime and Punishment? (2021)](https://www.theatlantic.com/magazine/archive/2021/11/dostoyevsky-crime-punishment-birmingham-sinner-saint/620175/) ([HN](https://news.ycombinator.com/item?id=28975061))
+- [Manning Deal of the Day](https://www.manning.com/dotd)
+- [So you want to write a technical book (2021)](http://terathon.com/blog/so-you-want-to-write-a-technical-book/) ([HN](https://news.ycombinator.com/item?id=29022499))
+- [Ytalki](https://ytalki.com/) - Find books in a foreign language according to your language level.
+- [The Internet Archive transforms access to books in a digital world (2021)](https://www.eff.org/deeplinks/2021/10/internet-archive-transforms-access-books-digital-world) ([HN](https://news.ycombinator.com/item?id=29043066))
+- [Philip K. Dick’s Novels Of The '50s Are Underrated And (Mostly) Untouched By Hollywood](https://neotextcorp.com/culture/philip-k-dicks-novels-of-the-50s-are-underrated-and-mostly-untouched-by-hollywood/)
+- [AutoBook](https://zachernuk.neocities.org/autobook/) - Procedural 3D book configurator. ([Tweet](https://twitter.com/zachernuk/status/1457767271418327045))
+- [BookNLP](https://github.com/booknlp/booknlp) - Natural language processing pipeline for books.
+- [London Review of Books](https://lrb.co.uk/)
+- [Kavita](https://www.kavitareader.com/) - Browse your Manga, Comics and Books.
+- [Tablo](https://tablo.com/) - Best place to create, print and publish a poetry book. ([Print](https://tablo.com/print))
+- [How I wrote my book](https://www.kevinwmcconnell.com/writing/how-i-wrote-my-book)
+- [BookStash](https://bookstash.io/) - Ideas from Top Books in 3m or less.
+- [Books.jl](https://github.com/rikhuijzer/Books.jl) - Create books with Julia. ([Template](https://github.com/JuliaBooks/BookTemplate)) ([Web](https://booktemplate.huijzer.xyz/))
+- [How to Write a Technical Book (2021)](https://cnr.sh/essays/how-to-write-a-technical-book)
+- [NPR Books: Book Reviews, Book News, and Author Interviews](https://www.npr.org/books)
+- [Things I learned writing my first technical book (2021)](https://blog.klipse.tech/book/2021/12/19/100-things-I-learned-with-data-oriented-programming.html) ([HN](https://news.ycombinator.com/item?id=29687935))
+- [Издательство «МИФ»](https://www.mann-ivanov-ferber.ru/)
+- [How James Clear is Writing His Next Book (2021)](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book)

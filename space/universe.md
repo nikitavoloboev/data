@@ -4,6 +4,8 @@
 
 - [Cosmological red-shift (caused by the expansion of the universe) does not conserve energy. Expanding universe is not time translation invariant, so energy is not strictly conserved.](https://www.youtube.com/watch?v=ZYM6HMLgIKA)
 - [A human is 25 orders of magnitude smaller than the whole universe, but 35 orders of magnitude bigger than a Planck length. We're bigger than average.](https://www.reddit.com/r/quantum/comments/n27xx8/question_in_the_scheme_of_the_size_of_the_known/)
+- [Universe & Neurons projections look very similar.](https://www.reddit.com/r/researchchemicals/comments/rcpgze/i_had_a_crazy_realisation_on_lsd/)
+- [In the beginning the Universe was created. This had made many people very angry and has been widely regarded as a bad move.](https://www.goodreads.com/quotes/1-the-story-so-far-in-the-beginning-the-universe-was)
 
 ## Links
 
@@ -44,3 +46,11 @@
 - [The First Three Minutes: A Modern View of the Origin of the Universe by Steven Weinberg (1993)](https://www.goodreads.com/book/show/150131.The_First_Three_Minutes)
 - [The Poincaré Conjecture. What is the shape of the universe? (2019)](https://jorgenveisdal.medium.com/the-poincar%C3%A9-conjecture-cb4ca7014cc5) ([Tweet](https://twitter.com/Dragonmaurizio/status/1417673539507924992))
 - [Is the universe really infinite? (2021)](https://www.reddit.com/r/chemistry/comments/pfoibl/is_the_universe_really_infinite/)
+- [Cosmic inflation preceded the Big Bang (2021)](https://bigthink.com/starts-with-a-bang/big-bang-beginning-universe/)
+- [The vastness of the Universe surpasses even the most "drawn" science fiction (2021)](https://frontnet.eu/the-vastness-of-the-universe-surpasses-even-the-most-drawn-science-fiction/) ([Reddit](https://www.reddit.com/r/Physics/comments/q99hyj/the_vastness_of_the_universe_surpasses_even_the/))
+- [94% of the universe’s galaxies are permanently beyond our reach (2021)](https://bigthink.com/starts-with-a-bang/universes-galaxies-unreachable/) ([HN](https://news.ycombinator.com/item?id=28913986))
+- [Grand mosaic of the Milky Way is now larger than ever (2021)](https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html) ([HN](https://news.ycombinator.com/item?id=28991537))
+- [CosmoScout VR](https://github.com/cosmoscout/cosmoscout-vr) - Virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time.
+- [Cosmologists Close In on Logical Laws for the Big Bang (2021)](https://www.quantamagazine.org/cosmologists-close-in-on-logical-laws-for-the-big-bang-20211110/)
+- [The universe is expanding faster than it should be (2021)](https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be) ([HN](https://news.ycombinator.com/item?id=29602239))
+- [Observable universe on an increasingly compact scale](https://twitter.com/Rainmaker1973/status/1471404732229066758)

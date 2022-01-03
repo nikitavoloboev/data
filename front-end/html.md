@@ -5,6 +5,42 @@
 - As a general rule, if there will be only one such element on the page, you can use an id. Otherwise, use a class.
 - [`<form method=post>` is good to communicate a mutation.](https://twitter.com/ryanflorence/status/1370403183822921731)
 
+## Code
+
+```html
+<!-- Embed email inside link -->
+<a href="mailto:name@gmail.com">Email me</a>
+```
+
+```html
+<!-- Add image to the side with link -->
+<!-- Useful in GitHub readmes. Can adjust width or add height. -->
+<img
+  src="https://i.imgur.com/hZe2AUY.png"
+  align="right"
+  width="70"
+/>](https://nodejs.org)
+```
+
+```html
+<!-- Breaking space. Can use in readme to separate things. -->
+&nbsp;
+```
+
+```html
+<!-- Collapsable content -->
+<details>
+  <summary>Table of Contents</summary>
+
+  * [About](#about) * [Screenshots](#screenshots) * ..
+</details>
+```
+
+```html
+<!-- line break -->
+<br />
+```
+
 ## Links
 
 - [HTML reference](https://htmlreference.io/)
@@ -90,7 +126,7 @@
 - [Ultralight](https://ultralig.ht/) - Next-Generation HTML Renderer for Desktop Apps and Games. ([Code](https://github.com/ultralight-ux/Ultralight))
 - [The Zen of index.html (2020)](https://hugodaniel.com/posts/using-just-an-index-to-develop-a-web-app/)
 - [PostHTML](https://github.com/posthtml/posthtml-expressions) - Use variables, JS-like expressions, and even markup-powered logic in your HTML. ([Web](https://posthtml.org/#/))
-- [Hotwire](https://hotwire.dev/) - Alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. ([Tweet](https://twitter.com/dhh/status/1341420143239450624)) ([HN](https://news.ycombinator.com/item?id=25507942)) ([Lobsters](https://lobste.rs/s/nyxq4o/hotwire_html_over_wire)) ([Article](https://delitescere.medium.com/hotwire-html-over-the-wire-2c733487268c)) ([Why Hotwire Could be the Future of Front-end Dev](https://wizville.fr/en/blog/a-product-guys-take-on-hotwire-vs-vue-react/))
+- [Hotwire](https://hotwire.dev/) - Alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. ([Tweet](https://twitter.com/dhh/status/1341420143239450624)) ([HN](https://news.ycombinator.com/item?id=25507942)) ([Lobsters](https://lobste.rs/s/nyxq4o/hotwire_html_over_wire)) ([Article](https://delitescere.medium.com/hotwire-html-over-the-wire-2c733487268c)) ([Why Hotwire Could be the Future of Front-end Dev](https://wizville.fr/en/blog/a-product-guys-take-on-hotwire-vs-vue-react/)) ([The time is right for Hotwire](https://world.hey.com/dhh/the-time-is-right-for-hotwire-ecdb9b33)) ([Lobsters](https://lobste.rs/s/lifxol/time_is_right_for_hotwire)) ([Hotwire in Action](https://github.com/asyraffff/Hotwire-in-action))
 - [entities](https://github.com/fb55/entities) - Encode & decode HTML & XML entities with ease & speed.
 - [HTML5 still doesn't replicate what mattered about Flash (2020)](https://twitter.com/larsiusprime/status/1344404336252768257) ([HN](https://news.ycombinator.com/item?id=25587765))
 - [The unreasonable effectiveness of simple HTML (2021)](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/) ([HN](https://news.ycombinator.com/item?id=25915313))
@@ -102,7 +138,7 @@
 - [Gorillas’ nav: a case study (2021)](https://kittygiraudel.com/2021/03/13/gorillas-nav-a-case-study/)
 - [Under-Engineered Select Menus (2021)](https://adrianroselli.com/2021/03/under-engineered-select-menus.html)
 - [Parsed HTML Rewriter](https://github.com/worker-tools/parsed-html-rewriter) - DOM-based implementation of Cloudflare Worker's HTMLRewriter.
-- [htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. Uses CSS selectors to extract bits content from HTML files. ([HN](https://news.ycombinator.com/item?id=28441880))
+- [htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. Uses CSS selectors to extract bits content from HTML files. ([HN](https://news.ycombinator.com/item?id=28441880)) ([Lobsters](https://lobste.rs/s/9ljgez/htmlq_like_jq_for_html))
 - [Beautiful PDFs from HTML](https://pdf.math.dev/) ([Code](https://github.com/ashok-khanna/pdf)) ([HN](https://news.ycombinator.com/item?id=26691626))
 - [SelectMadu](https://github.com/pavish/select-madu) - Replacement for the select menu, with support for searching, multiple selections, async data loading and more.
 - [Sortable Table Columns (2021)](https://adrianroselli.com/2021/04/sortable-table-columns.html)
@@ -142,3 +178,34 @@
 - [7GUIs in Vanilla HTML, CSS, JavaScript](https://7guis.bradwoods.io/) ([HN](https://news.ycombinator.com/item?id=28600804))
 - [ct.css](https://github.com/csswizardry/ct) - Diagnostic CSS snippet that exposes potential performance issues in your page’s <head> tags. ([Web](https://csswizardry.com/ct/))
 - [Get Your Head Straight Talk](https://speakerdeck.com/csswizardry/get-your-head-straight)
+- [html-to-image](https://github.com/bubkoo/html-to-image) - Generates an image from a DOM node using HTML5 canvas and SVG.
+- [Safe DOM manipulation with the Sanitizer API (2021)](https://web.dev/sanitizer/)
+- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/) ([Code](https://github.com/WICG/sanitizer-api)) ([Article](https://portswigger.net/daily-swig/google-mozilla-close-to-finalizing-sanitizer-api-for-chrome-and-firefox-browsers))
+- [HTML Segmentator](https://github.com/fabiospampinato/html-segmentator) - Small library for splitting an HTML string into its top-level sections. Based on htmlparser2.
+- [Embetter](https://github.com/cacheflowe/embetter) - Embed 3rd-party media with lazy-loaded iframes.
+- [Inline Everything Cheat Sheet](https://cacheflowe.github.io/inline-everything/) - Examples for inlining different file types. ([Code](https://github.com/cacheflowe/inline-everything))
+- [HTML Compendium](https://github.com/xdesro/html-compendium) - Omnibus HTML file you can test your CSS cascade and formatting with.
+- [writable-dom ](https://github.com/marko-js/writable-dom) - Utility to stream HTML content into a live document.
+- [Tasty HTML buttons](https://www.htmhell.dev/26-tasty-buttons/)
+- [HTMHell](https://www.htmhell.dev/) - Collection of bad practices in HTML, copied from real websites.
+- [HTML Tips & Tricks](https://www.htmhell.dev/tips/)
+- [The HTML video element needs to go back on the drawing board (2021)](https://www.ctrl.blog/entry/html-responsive-video.html) ([HN](https://news.ycombinator.com/item?id=29024868))
+- [Percollate](https://github.com/danburzo/percollate) - Command-line tool that turns web pages into beautifully formatted PDF, EPUB, or HTML files.
+- [In Defence Of Dialog (2021)](https://whistlr.info/2021/in-defence-of-dialog/)
+- [python](https://github.com/byteface/domonic) - Generate HTML with python 3.
+- [rehype-prism-plus](https://github.com/timlrx/rehype-prism-plus) - Rehype plugin to highlight code blocks in HTML with Prism (via refractor) with line highlighting and line numbers.
+- [A Clever Sticky Footer Technique (2021)](https://css-tricks.com/a-clever-sticky-footer-technique/)
+- [Canvas Txt](https://github.com/geongeorge/Canvas-Txt) - Better way to render text on HTML5 Canvas.
+- [sanitize-html](https://github.com/apostrophecms/sanitize-html) - Simple HTML sanitizer with a clear API.
+- [Cross-fading any two DOM elements is currently impossible (2021)](https://jakearchibald.com/2021/dom-cross-fade/) ([Tweet](https://twitter.com/jaffathecake/status/1462803936679763971))
+- [html5gum](https://github.com/untitaker/html5gum) - WHATWG-compliant HTML tokenizer in Rust.
+- [Super OG Images](https://superblog.ai/og) - API to create opengraph images programmatically. ([Code](https://github.com/s-kris/super-og-images))
+- [hq](https://github.com/mitsuhiko/hq) - jq but for HTML.
+- [mailgen](https://github.com/eladnava/mailgen) - Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
+- [domutils](https://github.com/fb55/domutils) - Utilities for working with htmlparser2's DOM.
+- [carota](https://github.com/danielearwicker/carota) - Simple, flexible rich text rendering/editing on HTML Canvas.
+- [html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
+- [xj](https://idiomdrottning.org/xj) - HTML to JSON. ([HN](https://lobste.rs/s/dmyqry/xj_html_json))
+- [parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js.
+- [Entire website in a single HTML file](https://css-tricks.com/a-whole-website-in-a-single-html-file/) ([HN](https://news.ycombinator.com/item?id=29668260))
+- [HTML Standard FAQ](https://github.com/whatwg/html/blob/main/FAQ.md)

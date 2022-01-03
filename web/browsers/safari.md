@@ -18,8 +18,15 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 
 ## Nice OSS Safari extensions
 
-- [Amplosion](https://github.com/christianselig/Amplosion) - iOS app/Safari extension to automagically redirect AMP links to their normal counterpart. ([Tweet](https://twitter.com/ChristianSelig/status/1440018874943029248))
+- [Amplosion](https://github.com/christianselig/Amplosion) - iOS app/Safari extension to automagically redirect AMP links to their normal counterpart. ([Tweet](https://twitter.com/ChristianSelig/status/1440018874943029248)) ([HN](https://news.ycombinator.com/item?id=28678684))
 - [Open in Apollo Safari Extension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo.
+- [Paint it Red](https://github.com/kukushechkin/paint-it-red) - Safari Web Extension to custom color Safari 15 pages with theme-color.
+- [HighlightJSON](https://github.com/lexrus/HighlightJSON) - Tiny Safari Web Extension for presenting highlighted JSON files.
+- [Svadilfari](https://apps.apple.com/us/app/svadilfari/id1586432379) - Gesture Control for Safari on iOS and iPadOS. ([Code](https://github.com/shumbo/Svadilfari))
+
+## Other
+
+- [Noir](https://apps.apple.com/app/id1581140954) - Dark Mode for Safari. ([Reddit](https://www.reddit.com/r/apple/comments/q5ahll/give_every_website_a_dark_mode_with_noir_my_new/))
 
 ## Notes
 
@@ -47,3 +54,9 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Safari 15 on Mac OS, a user interface mess (2021)](https://morrick.me/archives/9368) ([HN](https://news.ycombinator.com/item?id=27559832))
 - [For developers, Apple’s Safari is crap and outdated (2021)](https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/) ([HN](https://news.ycombinator.com/item?id=27968394)) ([Lobsters](https://lobste.rs/s/4vhjvf/for_developers_apple_s_safari_is_crap)) ([Reddit](https://www.reddit.com/r/programming/comments/osj2i8/for_developers_apples_safari_is_crap_and_outdated/))
 - [One-offs and low-expectations with Safari (2021)](https://daverupert.com/2021/07/safari-one-offs/)
+- [What are the best extensions for Safari? (2021)](https://www.reddit.com/r/MacOS/comments/puhgk3/what_are_the_best_extensions_for_safari/)
+- [Safari Extensions for iOS and iPadOS 15: A Roundup of Our Favorites (2021)](https://www.macstories.net/stories/safari-extensions-for-ios-and-ipados-15-a-roundup-of-our-favorites/)
+- [New WebKit Features in Safari 15 (2021)](https://webkit.org/blog/11989/new-webkit-features-in-safari-15/)
+- [Userscripts Safari](https://github.com/quoid/userscripts) - Open-source userscript editor for Safari. ([Web](https://quoid.github.io/userscripts/))
+- [Stay](https://github.com/shenruisi/Stay/blob/main/README-EN.md) - Local userscript manager for Safari on iOS.
+- [Develop a Mac Safari Extension App in 2022](https://www.youtube.com/watch?v=E0qu0PHW8TU)

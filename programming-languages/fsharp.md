@@ -8,7 +8,7 @@
 - [F# Language Design RFCs](https://github.com/fsharp/fslang-design)
 - [Verified Programming in F\*: A Tutorial](http://fstar-lang.org/tutorial/) ([HN](https://news.ycombinator.com/item?id=25629058))
 - [Why I'm Learning F# in 2021](https://markjames.dev/2021-01-04-why-learning-fsharp-2021/)
-- [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler. ([Web](https://fable.io/))
+- [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler. ([Web](https://fable.io/)) ([HN](https://news.ycombinator.com/item?id=28894913))
 - [WebSharper](https://github.com/dotnet-websharper/core) - F#-based web programming platform including a compiler from F# code to JavaScript.
 - [F# is gaining independence from .NET (2021)](https://onurgumus.github.io/2021/01/31/What-the-F.html) ([HN](https://news.ycombinator.com/item?id=25986316))
 - [Writing high performance F# code (2021)](https://bartoszsypytkowski.com/writing-high-performance-f-code/) ([HN](https://news.ycombinator.com/item?id=26012007))
@@ -25,3 +25,12 @@
 - [Why F# is the best enterprise languages](https://fsharpforfunandprofit.com/posts/fsharp-is-the-best-enterprise-language/) ([Lobsters](https://lobste.rs/s/tpa2bf/why_f_is_best_enterprise_language))
 - [WS: F# WebSocket Server](https://github.com/erpuno/ws)
 - [FSharp Designer on downsides of Type Level Programming](https://github.com/fsharp/fslang-suggestions/issues/243#issuecomment-916079347) ([Lobsters](https://lobste.rs/s/pkmzlu/fsharp_designer_on_downsides_type_level)) ([Reddit](https://www.reddit.com/r/scala/comments/poqk7f/odersky_comments_on_don_symes_rejection_of/))
+- [What I wish I knew when learning F# (2020)](https://danielbachler.de/2020/12/23/what-i-wish-i-knew-when-learning-fsharp.html) ([HN](https://news.ycombinator.com/item?id=28863205))
+- [milone-lang](https://github.com/vain0x/milone-lang) - Self-hosting F#-subset compiler.
+- [Narratives and Lessons from The Early History of F# (2021)](https://www.youtube.com/watch?v=ynIe8Q7kMSg)
+- [WebFrame](https://github.com/RussBaz/WebFrame) - F# framework for rapid prototyping with ASP.NET Core. ([HN](https://news.ycombinator.com/item?id=29121612))
+- [Embedding F# Compiler (2021)](https://queil.net/2021/05/embedding-fsharp-compiler/) ([HN](https://news.ycombinator.com/item?id=29208315))
+- [Is F# Tough to Learn? (2021)](https://danielbmarkham.com/is-f-tough-to-learn/)
+- [What's the Frequency, Kenneth? (F#) (2021)](https://danielbmarkham.com/whats-the-frequency-kenneth-f/)
+- [F# Good and Bad (2021)](https://danielbmarkham.com/f-good-and-bad/) ([HN](https://news.ycombinator.com/item?id=29571417))
+- [Fantomas](https://github.com/fsprojects/fantomas) - FSharp source code formatter.

@@ -1,6 +1,6 @@
 # Video
 
-I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view=1&sort=lad&flow=grid).
+I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view=1&sort=lad&flow=grid) (all but [Good Music](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) are quite outdated).
 
 ## Inspiring editing
 
@@ -161,7 +161,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Bubbles](https://www.usebubbles.com/) - Video and Screenshot Collaboration.
 - [Livepeer](https://livepeer.org/) - Decentralized video transcoding network built on the Ethereum blockchain. ([GitHub](https://github.com/livepeer)) ([Protocol](https://github.com/livepeer/protocol)) ([JS library](https://github.com/livepeer/livepeerjs))
 - [go-livepeer](https://github.com/livepeer/go-livepeer) - Go implementation of the Livepeer protocol.
-- [Luma](https://lu.ma/) - Host Delightful Zoom Events.
+- [Luma](https://lu.ma/) - Activate your community. Foster meaningful relationships with events, newsletters, and community analytics. ([GitHub](https://github.com/luma-team))
 - [Stack Videos Horizontally, Vertically, in a Grid With FFmpeg (2020)](https://ottverse.com/stack-videos-horizontally-vertically-grid-with-ffmpeg/) ([HN](https://news.ycombinator.com/item?id=25022665))
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Color correction and non-linear video editing application.
 - [YouTube Downloader](https://youtubedld.com/) - Free and efficient YouTube downloader. ([HN](https://news.ycombinator.com/item?id=25024849))
@@ -194,7 +194,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem.
 - [Why can’t you buy a good webcam? (2020)](https://vsevolod.net/good-webcams/) ([HN](https://news.ycombinator.com/item?id=25504771)) ([Lobsters](https://lobste.rs/s/hmwpil/why_can_t_you_buy_good_webcam))
 - [Galene](https://galene.org/) - Videoconferencing server that is easy to deploy (just copy a few files and run the binary) and that requires moderate server resources. ([Code](https://github.com/jech/galene))
-- [Kodi](https://kodi.tv/) - Open Source Home Theater Software. ([Code](https://github.com/xbmc/xbmc))
+- [Kodi](https://kodi.tv/) - Open Source Home Theater Software. ([Code](https://github.com/xbmc/xbmc)) ([HN](https://news.ycombinator.com/item?id=29633079))
 - [Starting Your Own YouTube Channel in 2021](https://www.youtube.com/watch?v=ml7Vme_aPn4)
 - [Perfect Media Server](https://perfectmediaserver.com/) - Knowledge and information about building an open-source media server. ([Code](https://github.com/IronicBadger/pms-wiki/)) ([HN](https://news.ycombinator.com/item?id=25619137))
 - [MiniVideo](https://github.com/emericg/MiniVideo) - Multimedia framework developed from scratch in C/C++, bundled with test programs and a neat media analyzer.
@@ -229,7 +229,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Easy video converting for the web (2021)](https://mefody.dev/chunks/ffmpeg-alias/)
 - [Tips for having video calls with strangers (2021)](https://twitter.com/chrishlad/status/1377724246793801730)
 - [Meet with Spot](https://www.meetwithspot.com/) - Step away from the screen and try a walking meeting with Spot.
-- [Jellyfin](https://jellyfin.org/) - Free Software Media System. ([Desktop Code](https://github.com/jellyfin/jellyfin-desktop)) ([GitHub](https://github.com/jellyfin))
+- [Jellyfin](https://jellyfin.org/) - Free Software Media System. ([Desktop Code](https://github.com/jellyfin/jellyfin-desktop)) ([GitHub](https://github.com/jellyfin)) ([HN](https://news.ycombinator.com/item?id=28664802)) ([Web Code](https://github.com/jellyfin/jellyfin-web)) ([iOS/tvOS Code](https://github.com/jellyfin/Swiftfin))
 - [cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera.
 - [FFmpeg 4.4](http://ffmpeg.org/index.html#pr4.4) ([HN](https://news.ycombinator.com/item?id=26746537))
 - [goav](https://github.com/giorgisio/goav) - Go bindings for FFmpeg.
@@ -285,7 +285,37 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [yt-dlc](https://github.com/blackjack4494/yt-dlc) - Media downloader and library for various sites.
 - [Kino](https://kinoweb.dev/) - Sample Video on demand (VOD) app to demonstrate media functionality in the context of a Progressive Web App. ([Code](https://github.com/GoogleChrome/kino))
 - [HLS Downloader](https://github.com/puemos/hls-downloader) - Capture and download HTTP Live streams (HLS) from your browser.
-- [Opal Camera](https://opalcamera.com/) - First professional web cam.
+- [Opal Camera](https://opalcamera.com/) - Professional web camera that helps you look better. ([HN](https://news.ycombinator.com/item?id=28463493))
 - [How Bo Burnham made INSIDE (2021)](https://www.youtube.com/watch?v=eZiSApqoI2g) ([Reddit](https://www.reddit.com/r/television/comments/pn4rlk/bo_burnham_wins_his_first_emmy_for_outstanding/))
 - [Open Video Downloader (youtube-dl-gui)](https://github.com/jely2002/youtube-dl-gui) - Cross-platform GUI for youtube-dl made in Electron and node.js. ([HN](https://news.ycombinator.com/item?id=28478603))
 - [FFmpeg to WebRTC](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from FFmpeg to WebRTC. ([HN](https://news.ycombinator.com/item?id=28614454))
+- [µStreamer](https://github.com/pikvm/ustreamer) - Lightweight and fast MJPG-HTTP streamer.
+- [8 tips to improve Zoom video calls (2021)](https://twitter.com/TrungTPhan/status/1448675891425337345)
+- [Video Download Tool](https://videodownloadtool.io/) - Download videos, but only the parts you want. ([HN](https://news.ycombinator.com/item?id=28854823))
+- [Canva](https://www.canva.com/videos/) - Free and Easy Online Video Editor.
+- [Plopdown](https://plopdown.video/) - Video Annotating Web Extension. ([Code](https://github.com/spaceribs/plopdown))
+- [ZipMessage](https://zipmessage.com/) - Asynchronous video messaging software for remote business. ([Twitter](https://twitter.com/ZipMessageApp))
+- [Rustymedia](https://github.com/kevincox/rustymedia) - Media server. It mimics the DLNA protocol and should work with most DLNA clients.
+- [Tagger](https://github.com/dicej/tagger) - Simple photo and video organizer for the web.
+- [Viidoo Chat](https://viidoo.chat/) - Secure, Real time, Collaborative. ([GitHub](https://github.com/viidoo-it))
+- [hls-video](https://github.com/muxinc/hls-video-element) - Custom element (web component) for playing HTTP Live Streaming (HLS) videos.
+- [Modfy](https://modfy.video/) - WASM Video Transcoder. ([Code](https://github.com/modfy/modfy.video))
+- [Another Video Player](https://github.com/rust-av/avp) - Simple player based on rust-av and SDL2.
+- [Shotstack](https://shotstack.io/) - Cloud Video Editing API.
+- [Awesome Video](https://github.com/krzemienski/awesome-video) - Curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
+- [Astrofox](https://astrofox.io/) - Turn audio into amazing videos. ([Code](https://github.com/astrofox-io/astrofox))
+- [YouTube Trends](https://www.youtube.com/trends/)
+- [Top YouTube 2021 Videos/Creators](https://www.youtube.com/trends/2021/)
+- [FFrames](https://fframes.studio/) - Open source video creation framework. Make delightful videos with SVG and Rust. ([Twitter](https://twitter.com/fframes_rust))
+- [Milk Video](https://app.milkvideo.com/focused-flow) - Turn webinars into shareable highlights.
+- [Tube Archivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server.
+- [Vidstack Elements](https://github.com/vidstack/elements) - Video player framework for the web.
+- [How to build large-scale end-to-end encrypted group video calls (2021)](https://signal.org/blog/how-to-build-encrypted-group-calls/) ([HN](https://news.ycombinator.com/item?id=29570938))
+- [Camo](https://reincubate.com/camo/) - Use your phone as a pro webcam.
+- [Video Editing Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process.
+- [ydls](https://github.com/wader/ydls) - youtube-dl HTTP download and transcode service.
+- [Netflix-4K-Script](https://github.com/widevinedump/Netflix-4K-Script) - Tool to download Netflix in 4k.
+- [Long educational videos on YouTube list](https://twitter.com/dan_abramov/status/1476755315492278280)
+- [Video Transcoding](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
+- [prompeg decoder](https://github.com/kirintwn/prompeg-decoder) - Proxy to recover lost packets from FFmpeg Pro-MPEG video stream.
+- [xgplayer](https://github.com/bytedance/xgplayer) - HTML5 video player with a parser that saves traffic.

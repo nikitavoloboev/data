@@ -15,13 +15,13 @@
 - [Most cited scientific papers within data visualization (2019)](https://www.reddit.com/r/dataisbeautiful/comments/am2xk4/most_cited_scientific_papers_within_data/)
 - [Visualization of related subreddits](https://github.com/anvaka/sayit)
 - [Draco](https://github.com/uwdata/draco) - Formal framework for representing design knowledge about effective visualization design as a collection of constraints.
-- [Observable](https://observablehq.com/) - Magic notebook for visualization.
+- [Observable](https://observablehq.com/) - Magic notebook for visualization. ([Product](https://observablehq.com/product))
 - [Bl.ocks](https://bl.ocks.org/) - Simple viewer for sharing code examples hosted on GitHub Gist.
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components.
 - [deck.gl](https://deck.gl/#/) - WebGL-powered framework for visual exploratory data analysis of large datasets.
 - [Flourish](https://flourish.studio/) - Quickly turn your spreadsheets into stunning online charts, maps and interactive stories.
 - [Dash App Gallery](https://dash-gallery.plotly.host/Portal/)
-- [Scientific Visualization – Python & Matplotlib book](https://github.com/rougier/scientific-visualization-book)
+- [Scientific Visualization: Python + Matplotlib Book (2021)](https://github.com/rougier/scientific-visualization-book)
 - [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
 - [SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [Bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.
@@ -61,6 +61,7 @@
 - [Kyrix](https://github.com/tracyhenry/Kyrix) - Interactive details-on-demand data visualizations at scale.
 - [Dash Deck](https://github.com/plotly/dash-deck) - Library for building 3D interactive maps and graphical visualizations directly in Dash.
 - [Apache ECharts](https://github.com/apache/incubator-echarts) - Powerful, interactive charting and data visualization library for browser. ([Web](https://echarts.apache.org/en/index.html))
+- [ECHARTS-GL](https://github.com/ecomfe/echarts-gl) - Extension pack of Apache ECharts, which providing 3D plots, globe visualization and WebGL acceleration.
 - [plotly.py](https://github.com/plotly/plotly.py) - Interactive graphing library for Python (includes Plotly Express).
 - [Gnuplot 5 book](https://alogus.com/g5script/gnuplot5/)
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
@@ -112,3 +113,26 @@
 - [clip](https://github.com/asmuth/clip) - Create charts from the command line. ([Web](https://clip-lang.org/))
 - [Kroki](https://kroki.io/) - Creates diagrams from textual descriptions. ([Code](https://github.com/yuzutech/kroki))
 - [Awesome Charting](https://github.com/zingchart/awesome-charting)
+- [Vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
+- [Yagr](https://github.com/yandex-cloud/yagr) - High performance HTML5 canvas chart renderer based on uPlot. It provides high-level features for uPlot charts.
+- [Pandas_Alive](https://github.com/JackMcKew/pandas_alive) - Animated plotting extension for Pandas with Matplotlib.
+- [Literate Visualization](https://github.com/gicentre/litvis) - Light-touch approach to designing, building and describing visualization. ([Web](https://www.gicentre.net/litvis))
+- [Irydium](https://github.com/irydium/irydium) - Interactive documents and data visualizations in markdown. ([Web](https://irydium.dev/))
+- [Data Visualization: attribute types and their graphical elements (2021)](https://robertodip.com/blog/data-visualization-marks-and-channels/)
+- [Mermaid Live Editor](https://mermaid.live/) - Online FlowChart & Diagrams Editor. ([Code](https://github.com/mermaid-js/mermaid-live-editor))
+- [Percival](https://github.com/ekzhang/percival) - Declarative data query and visualization language.
+- [Ask HN: What is the best book on data visualization in 2021?](https://news.ycombinator.com/item?id=29457470)
+- [Plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash. ([Docs](https://plotly.com/javascript/))
+- [Data Commons](https://datacommons.org/) - Aggregates data from a wide range of sources into a unified database to make it more accessible and useful.
+- [The Gamma](https://thegamma.net/) - Tools for open data-driven storytelling. ([GitHub](https://github.com/the-gamma))
+- [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) - Visualization of the CapsNet layers to better understand how it works.
+- [Gender Equality Creative Platform — Story](https://www.pentagram.com/work/gender-equality-creative-platform/story) - Branded data visualization system helps tell human stories about gender equality. ([Tweet](https://twitter.com/giorgialupi/status/1470444914840326146))
+- [Awesome Dataviz](https://github.com/javierluraschi/awesome-dataviz)
+- [Awesome Web visualization frameworks](https://github.com/DrasticData/awesome-web-visualization-frameworks)
+- [The Science of Visual Data Communication: What Works (2021)](https://journals.sagepub.com/stoken/default+domain/10.1177%2F15291006211051956-FREE/full#.YbpbbYlu2Xw.twitter) ([HN](https://news.ycombinator.com/item?id=29621782)) ([HN](https://news.ycombinator.com/item?id=29742125))
+- [Dash-by-Plotly](https://github.com/Coding-with-Adam/Dash-by-Plotly) - Dedicated to teaching Dash and Plotly.
+- [Data visualization: A view of every Points of View column (2013)](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
+- [chartpy](https://github.com/cuemacro/chartpy) - Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more.
+- [Constellation](https://github.com/constellation-app/constellation) - Graph-focused data visualisation and interactive analysis application. ([Web](https://www.constellation-app.com/))
+- [Handbook of Graph Drawing and Visualization (2013)](https://cs.brown.edu/people/rtamassi/gdhandbook/) ([HN](https://news.ycombinator.com/item?id=29734063))
+- [Data Visualization Curriculum](https://uwdata.github.io/visualization-curriculum/intro.html) - Data visualization curriculum of interactive notebooks, using Vega-Lite and Altair. ([Code](https://github.com/uwdata/visualization-curriculum))

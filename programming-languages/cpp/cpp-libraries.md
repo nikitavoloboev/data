@@ -4,6 +4,7 @@
 
 - [cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser.
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface.
+- [Command Interface](https://github.com/empirical-soft/command-interface) - Add a command-line interface to any C++ program. ([HN](https://news.ycombinator.com/item?id=28886328))
 
 ## Testing
 
@@ -11,6 +12,7 @@
 - [Google Test](https://github.com/google/googletest) - Google Testing and Mocking Framework.
 - [utest.h](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++.
 - [Mutate](https://github.com/nlohmann/mutate_cpp) - C++ Mutation Test Environment.
+- [RapidCheck](https://github.com/emil-e/rapidcheck) - C++ framework for property based testing inspired by QuickCheck and other similar frameworks.
 
 ## Concurrency
 
@@ -38,6 +40,8 @@
 - [Asio](http://think-async.com/Asio/) - Cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. ([Code](https://github.com/chriskohlhoff/asio))
 - [Pistache](https://github.com/pistacheio/pistache) - High-performance REST Toolkit written in C++.
 - [Malloy](https://github.com/Tectu/malloy) - C++ library providing embeddable server & client components for both HTTP and WebSocket.
+- [Crow](https://github.com/CrowCpp/Crow) - Fast and Easy to use microframework for the web. ([Web](http://crowcpp.org/))
+- [Oat++](https://github.com/oatpp/oatpp) - Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 
 ## Graphics
 
@@ -47,11 +51,25 @@
 - [Yocto/GL](https://github.com/xelatihy/yocto-gl) - C++ Libraries for Data-Driven Physically-based Graphics. ([Docs](https://xelatihy.github.io/yocto-gl/)) ([HN](https://news.ycombinator.com/item?id=26582114))
 - [Methane Kit](https://github.com/egorodet/MethaneKit) - Easy to use modern 3D graphics rendering abstraction API and cross-platform application framework.
 - [Tahoma2D](https://github.com/tahoma2d/tahoma2d) - 2D and Stop Motion Animation Software. ([Web](https://tahoma2d.org/))
+- [gfx](https://github.com/gboisse/gfx) - Minimalist and easy to use graphics API built on top of Direct3D12/HLSL intended for rapid prototyping.
+- [bigger](https://github.com/yuki-koyama/bigger) - Prototype-oriented middleware library for 3D interactive applications.
+- [Treexy](https://github.com/facontidavide/Treexy) - Brutally fast, sparse, 3D Voxel Grid.
+- [neoGFX](https://github.com/i42output/neoGFX) - Cross-platform GPU-oriented C++ application/game framework. ([Web](https://neogfx.org/))
+- [NanoGUI](https://github.com/mitsuba-renderer/nanogui) - Minimalistic C++/Python GUI library for OpenGL, GLES2/3, Metal, and WebAssembly/WebGL.
+- [Anti-Grain Geometry](https://github.com/ghaerr/agg-2.6) - Open Source, 2D vector graphics library. Produces pixel images in memory from vectorial data.
+- [JNGL](https://github.com/jhasse/jngl) - Easy to use cross-platform 2D game library for C++.
 
 ## DB
 
 - [SOCI](https://github.com/SOCI/soci) - C++ Database Access Library.
 - [taoPQ](https://github.com/taocpp/taopq) - C++ client library for PostgreSQL.
+- [Velox](https://github.com/facebookincubator/velox) - C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
+- [Supersonic](https://github.com/google/supersonic) - Ultra-fast, column oriented query engine library written in C++.
+- [SQLite ORM](https://github.com/fnc12/sqlite_orm) - Light header only library for modern C++.
+
+## Crypto
+
+- [OpenABE](https://github.com/zeutro/openabe) - Open source cryptographic library with attribute-based encryption implementations in C/C++.
 
 ## Other
 
@@ -235,6 +253,61 @@
 - [Minicore](https://github.com/dnbaker/minicore) - Fast and memory-efficient clustering + coreset construction, including fast distance kernels for Bregman and f-divergences.
 - [EXOTica](https://github.com/ipab-slmc/exotica) - Extensible Optimization Framework. ([Docs](https://ipab-slmc.github.io/exotica/))
 - [subprocess](https://github.com/rajatjain1997/subprocess) - C++ high level library for running shell processes.
+- [HOT](https://github.com/speedskater/hot) - Height Optimized Trie.
+- [Okasaki](https://github.com/BartoszMilewski/Okasaki) - Functional data structures in C++.
+- [rlottie](https://github.com/Samsung/rlottie) - Platform independent standalone library that plays Lottie Animation.
+- [simdutf](https://github.com/simdutf/simdutf) - Unicode validation and transcoding at billions of characters per second. ([Talk](https://www.youtube.com/watch?v=H9NZtb7ykYs))
+- [Boost.PFR](https://github.com/boostorg/pfr) - std::tuple like methods for user defined types without any macro or boilerplate code.
+- [double-conversion](https://github.com/google/double-conversion) - Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
+- [FastNoise2](https://github.com/Auburn/FastNoise2) - Modular node graph based noise generation library using SIMD, C++17 and templates.
+- [TensorPipe](https://github.com/pytorch/tensorpipe) - Tensor-aware point-to-point communication primitive for machine learning.
+- [Rotor](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework.
+- [optional](https://github.com/TartanLlama/optional) - Single header implementation of std::optional with functional-style extensions and support for references.
+- [ZAB](https://github.com/Donald-Rupin/zab) - Asynchronous framework for building event-driven, multi-threaded programs.
+- [Ensmallen](https://github.com/mlpack/ensmallen) - High-quality C++ library for non-linear numerical optimization. ([Web](http://ensmallen.org/)) ([Docs](http://ensmallen.org/docs.html)) ([HN](https://news.ycombinator.com/item?id=29489613))
+- [Fleet](https://github.com/piantado/Fleet) - C++ library for programming language of thought models.
+- [MatX](https://github.com/NVIDIA/MatX) - Efficient C++17 GPU numerical computing library with Python-like syntax.
+- [oneMKL](https://github.com/oneapi-src/oneMKL) - Open-source implementation of the oneMKL Data Parallel C++ (DPC++) interface according to the oneMKL specification.
+- [mathiu.cpp](https://github.com/BowenFu/mathiu.cpp) - Simple computer algebra system in C++.
+- [Avendish](https://github.com/celtera/avendish) - Declarative, non-intrusive, compile-time C++ reflection.
+- [libossia](https://github.com/ossia/libossia) - Modern C++, cross-environment distributed object model for creative coding.
+- [RtAudio](https://github.com/thestk/rtaudio) - Set of C++ classes that provide a common API for real time audio input/output.
+- [RtMidi](https://github.com/thestk/rtmidi) - Set of C++ classes that provide a common API for real time MIDI input/output.
+- [HPX](https://github.com/STEllAR-GROUP/hpx) - C++ Standard Library for Parallelism and Concurrency.
+- [agrpc](https://github.com/npuichigo/agrpc) - Async GRPC with C++20 coroutine support.
+- [Marius](https://github.com/marius-team/marius) - Large scale embeddings on a single machine.
+- [Compute Library](https://github.com/ARM-software/ComputeLibrary) - Set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+- [ahsohtoa](https://github.com/celtera/ahsohtoa) - Structure-of-array synthesis in C++20.
+- [LIEF](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats.
+- [AStarix](https://github.com/eth-sri/astarix) - Fast and Optimal Sequence-to-Graph Aligner.
+- [dtl](https://github.com/cubicdaiya/dtl) - Diff template library written by C++.
+- [TinyFSM](https://github.com/digint/tinyfsm) - Simple C++ finite state machine library.
+- [Tongrams](https://github.com/jermp/tongrams) - C++ library providing fast language model queries in compressed space.
+- [Autocomplete](https://github.com/jermp/autocomplete) - Efficient and effective query auto-completion in C++.
+- [Sexpresso](https://github.com/BitPuffin/sexpresso) - C++ centric s-expression parser library.
+- [baidu-allreduce](https://github.com/baidu-research/baidu-allreduce) - Small C++ library, demonstrating the ring allreduce and ring allgather techniques.
+- [HIP](https://github.com/ROCm-Developer-Tools/HIP) - C++ Heterogeneous-Compute Interface for Portability.
+- [SMACC](https://github.com/reelrbtx/SMACC) - Event-driven, asynchronous, behavioral state machine library for real-time ROS (Robotic Operating System) applications written in C++.
+- [refl-cpp](https://github.com/veselink1/refl-cpp) - Modern compile-time reflection library for C++ with support for overloads, templates, attributes and proxies.
+- [NymphRPC](https://github.com/MayaPosch/NymphRPC) - Compact, C++-based Remote Procedure Call (RPC) library.
+- [libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11.
+- [xatlas](https://github.com/jpcy/xatlas) - Mesh parameterization / UV unwrapping library.
+- [ohm](https://github.com/csiro-robotics/ohm) - Efficient, extensible occupancy map supporting probabilistic occupancy, normal distribution transforms in CPU and GPU.
+- [Flecs](https://github.com/SanderMertens/flecs) - Fast entity component system (ECS) for C & C++.
+- [Caches](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation.
+- [SML](https://github.com/boost-ext/sml) - C++14 State Machine Library.
+- [Kokkos](https://github.com/kokkos/kokkos) - Programming model in C++ for writing performance portable applications targeting all major HPC platforms.
+- [CPPItertools](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library.
+- [libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++.
+- [asyncio](https://github.com/netcan/asyncio) - C++20 library to write concurrent code using the async/await syntax.
+- [CTPG](https://github.com/peter-winter/ctpg) - C++ Compile Time Parser Generator. ([HN](https://news.ycombinator.com/item?id=29454342))
+- [Binlog](https://github.com/morganstanley/binlog) - High performance C++ log library to produce structured binary logs.
+- [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++.
+- [ParlayLib](https://github.com/cmuparlay/parlaylib) - Toolkit for Programming Parallel Algorithms on Shared-Memory Multicore Machines.
+- [YACLib](https://github.com/YACLib/YACLib) - C++ library for concurrent tasks execution. ([Docs](https://yaclib.github.io/YACLib/))
+- [triSYCL](https://github.com/triSYCL/triSYCL) - Generic system-wide modern C++ for heterogeneous platforms with SYCL from Khronos Group.
+- [Xcdat](https://github.com/kampersanda/xcdat) - Fast compressed trie dictionary library.
+- [Poplar-trie](https://github.com/kampersanda/poplar-trie) - C++17 implementation of memory-efficient dynamic tries.
 
 ## Links
 
@@ -242,9 +315,12 @@
 - [Desktop App Toolkit](https://github.com/desktop-app) - Set of C++ libraries for developing nice desktop applications (by Telegram).
 - [How to export C++ library](https://github.com/robotology/how-to-export-cpp-library) - OS-agnostic C++ library template in plain CMake.
 - [List of single-file C/C++ libraries](https://github.com/nothings/single_file_libs) ([HN](https://news.ycombinator.com/item?id=24892400))
-- [Sandboxed API](https://github.com/google/sandboxed-api) - Generates sandboxes for C/C++ libraries automatically.
+- [Sandboxed API](https://github.com/google/sandboxed-api) - Generates sandboxes for C/C++ libraries automatically. ([HN](https://news.ycombinator.com/item?id=29273530))
 - [The Art of C++](https://github.com/taocpp) - Collection of high-quality C++ libraries. ([Web](https://taocpp.github.io/))
 - [Conan](https://github.com/conan-io/conan) - Decentralized, open-source, C/C++ package manager. ([Web](https://conan.io/))
 - [hdoc](https://hdoc.io/) - Modern C++ documentation tool. ([HN](https://news.ycombinator.com/item?id=26038816)) ([Code](https://github.com/hdoc/hdoc))
 - [Mason](https://github.com/mapbox/mason) - Cross-platform, command-line package manager for C/C++ applications.
 - [Boost C++ Libraries](https://www.boost.org/) - Free peer-reviewed portable C++ source libraries. ([GitHub](https://github.com/boostorg))
+- [Kokkos](https://github.com/kokkos) - C++ Performance Portability Programming EcoSystem. ([HN](https://news.ycombinator.com/item?id=28987037))
+- [Boost C++ libraries packaged for build2 (2021)](https://build2.org/blog/build2-boost.xhtml) ([Lobsters](https://lobste.rs/s/f3nvif/boost_c_libraries_packaged_for_build2))
+- [Poac](https://github.com/poacpm/poac) - Package manager for C++, like Cargo for Rust. ([Web](https://poac.pm/))

@@ -2,7 +2,7 @@
 
 In short, blockchain is a [immutable linked list of hashes](https://www.quora.com/Is-a-blockchain-essentially-a-linked-list). Which can be used to solve the double spending problem in cryptocurrencies using proof of stake (or other methods) and a persistent chain of records (blocks mined).
 
-[Ethereum, Solana, Tezos & Avalanche are nice blockchains](https://twitter.com/dabit3/status/1434279108872216577).
+[Ethereum, Solana, Tezos & Avalanche are nice blockchains](https://twitter.com/dabit3/status/1434279108872216577). In future they can let you [run web apps that run like protocols -- no company in the middle, just peer to peer networks](https://twitter.com/samecwilliams/status/1466460819508453383).
 
 ## Consensus algorithms
 
@@ -30,7 +30,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Metapurse](https://metapurse.fund/) - Crypto-exclusive fund.
 - [Rarible](https://rarible.com/) - Create, sell or collect digital items secured with Blockchain.
 - [OpenSea](https://opensea.io/) - Largest NFT marketplace. Buy, sell, and discover rare digital items. ([JS SDK](https://github.com/ProjectOpenSea/opensea-js))
-- [hicetnunc2000](https://www.hicetnunc.xyz/) - Smart contracts and distributed systems designs. ([Web](https://www.hicetnunc.xyz/))
 - [Polymarket](https://polymarket.com/) - Global Information Markets Platform.
 - [Tokenlog](https://tokenlog.xyz/) - Token-weighted backlogs. ([Code](https://github.com/wslyvh/tokenlog))
 - [RabbitHole](https://rabbithole.gg/) - Earn crypto by using the latest crypto applications.
@@ -54,6 +53,18 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [NFTs are being wash traded. That’s when the buyer and the seller are secretly the same person.](https://twitter.com/JWWeatherman_/status/1431373325842923527)
 - [Keep L1 simple and decentralized and scale on L2.](https://twitter.com/latetot/status/1437794513389592587)
 - [NFTs are a Ponzi scheme, corroborated by many reputable sources.](https://twitter.com/castpixel/status/1438063396772007937)
+- [Person: web3 is empowering creators! Me: Oh so it's like a decentralized network like mastodon? Person: no it's like web 2.0 plus blockchain.](https://twitter.com/ReinH/status/1442536279409774597)
+- [I would read an essay about how appeals to "community" in crypto have totally obscured power relations, governance, who makes money, and who's scamming who. This is an industry (wildly anarchic, unregulated, unequal, run by capital), not a community.](https://twitter.com/mims/status/1448253915976421376)
+- [How NFTs can be used for money laundering: Someone pays "for the NFT" when they're actually paying for something illicit. Having the NFT can make it appear to be a legitimate transaction, so they can deposit the funds without the IRS losing their mind.](https://twitter.com/sageheroRC/status/1449020958463901702)
+- [I believe what makes NFTs different is a transformative vision of a future that true believers find inspiring and achievable. In their eyes, the current speculative bubble is a mechanism for growing something enduring.](https://twitter.com/slightlylate/status/1450886698951340033)
+- [Recognizing the spiritual hunger that sits at the core of these movements (and remember how many in the space are young people!) is an important step to understanding them. Crypto culture is a mirror world that feeds off of the unexamined failures of the real world.](https://twitter.com/Pinboard/status/1450886210914709506)
+- [One of the coolest things about crypto is being able to fork mainnet locally and just like...experiment with building on top of other peoples' contracts without hitting them. Such a mindset shift from web2. like you can turn the whole web into a staging environment. wild.](https://twitter.com/jongold/status/1458553279562989571)
+- [The only API you should trust is one controlled by a blockchain. Can’t be evil > don’t be evil. There’s key digital information (money, identity, digital assets, etc.) that users should have ultimate control of, and if this was trivially easy to access between apps, that would lead to vastly more innovation in software.](https://twitter.com/cdixon/status/1461723922336915459)
+- [You can actually download all NFT images stored on sol/eth/tezos chains. Write software that will scan every block on any chain from genesis and if the links to an image (probably IPFS url), then download it to a directory. Do it for any chain and can do it continuously as a running program then create a gallery URL perhaps. Essentially build a web page in which images stored on chain are streamed and shown in real from different chains.](https://news.ycombinator.com/item?id=29290156)
+- [Many people misunderstand NFTs as 'paying for access' because that's the only (direct) relationship money has had with digital media until now. ownership without gated access is a conceptual leap, but it's worth making.](https://twitter.com/jstn/status/1464207143934910468)
+- [Study of 6.1M NFT trades finds a few folks at the center of the market. The top 10% of traders account for 85% of transactions & trade at least once 97% of all assets. 10% of buyer–seller pairs have the same volume as the remaining 90%.](https://twitter.com/emollick/status/1465505077083389960)
+- [Forget web3/blockchain/crypto/defi/buzz word. This is the "Community Computer" revolution. Personal Computers unleashed unimaginable levels of sovereignty & interoperability for people. Community Computers will do same for groups.](https://twitter.com/buchmanster/status/1466092508316905478)
+- [As a user of Web 3.0, all interactions will be carried out pseudonymously, securely and for many services, trustlessly.](https://twitter.com/lightcoin/status/1473419653896716288)
 
 ## Links
 
@@ -97,7 +108,8 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [BlockAtlas](https://github.com/trustwallet/blockatlas) - Clean explorer API and transaction observer for cryptocurrencies.
 - [Rosetta](https://www.rosetta-api.org/) - Open standard designed to simplify blockchain deployment and interaction.
 - [Band Protocol](https://bandprotocol.com/) - Cross-Chain Data Oracle. ([Code](https://github.com/bandprotocol/bandchain))
-- [Tendermint Core](https://github.com/tendermint/tendermint) - Byzantine Fault Tolerant (BFT) middleware that takes a state transition machine - written in any programming language - and securely replicates it on many machines. ([Web](https://tendermint.com/))
+- [Tendermint Core](https://github.com/tendermint/tendermint) - Byzantine Fault Tolerant (BFT) middleware that takes a state transition machine - written in any programming language - and securely replicates it on many machines. ([Web](https://tendermint.com/)) ([Spec](https://github.com/tendermint/spec))
+- [tendermint.rs](https://github.com/informalsystems/tendermint-rs) - Tendermint in Rust with TLA+ specifications.
 - [Orga](https://github.com/nomic-io/orga) - Stack for building blockchain applications powered by Tendermint consensus.
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - Framework for building blockchain applications in Golang.
 - [Gaia](https://github.com/cosmos/gaia) - Implementation of Cosmos Hub, built using the Cosmos SDK.
@@ -111,10 +123,10 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Zerochain](https://github.com/LayerXcom/zero-chain) - Privacy-preserving blockchain on Substrate. ([Docs](https://layerxcom.github.io/zerochain-book/))
 - [Gnosis Safe Contracts](https://github.com/gnosis/safe-contracts) - Allows secure management of blockchain assets. ([Web](https://gnosis-safe.io/))
 - [Stateless Blockchain on Substrate using RSA Accumulators](https://github.com/paritytech/stateless-blockchain)
-- [Mina Protocol](https://minaprotocol.com/) - Lightest blockchain, powered by participants. ([Code](https://github.com/MinaProtocol/mina)) ([Docs](https://docs.minaprotocol.com/en))
+- [Mina Protocol](https://minaprotocol.com/) - Lightest blockchain, powered by participants. ([Code](https://github.com/MinaProtocol/mina)) ([Docs](https://docs.minaprotocol.com/en)) ([Mina-rs](https://github.com/ChainSafe/mina-rs))
 - [Agoric](https://agoric.com/) - Secure smart contracts. ([Platform SDK](https://github.com/Agoric/agoric-sdk))
 - [You Don’t Need a Blockchain, You Need a Time-Series Database (2020)](https://thenewstack.io/you-dont-need-a-blockchain-you-need-a-time-series-database/) ([Lobsters](https://lobste.rs/s/n1cuh3/you_don_t_need_blockchain_you_need_time)) ([HN](https://news.ycombinator.com/item?id=24887746))
-- [GoChain](https://gochain.io/) - Fast, sustainable web3 based blockchain protocol.
+- [GoChain](https://gochain.io/) - Fast, sustainable web3 based blockchain protocol. ([GitHub](https://github.com/gochain))
 - [Ask HN: What are real-life useful use-cases for blockchain (not currencies)? (2020)](https://news.ycombinator.com/item?id=24881140)
 - [Security and Privacy of Blockchain Protocols and Applications (2020)](https://github.com/s-tikhomirov/phd-thesis)
 - [The Future of Blockchain with Nick Szabo, Adam Back, & David Chaum (2019)](https://www.youtube.com/watch?v=LF2mQI9cTS8)
@@ -156,11 +168,11 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Horizon Blockchain Games](https://horizon.io/) - Building a New Dimension where Internet economies are fun, accessible, and for the benefit of all participants.
 - [Avalanche](https://www.avalabs.org/) - Open-source platform for launching highly decentralized applications, new financial primitives, and new interoperable blockchains. ([Code](https://github.com/ava-labs/avalanchego)) ([AvalancheJS](https://github.com/ava-labs/avalanchejs))
 - [How NFTs work](https://twitter.com/KetanJ0/status/1387710309767565312)
-- [Algorand](https://www.algorand.com/) - Open source, permissionless, pure PoS blockchain protocol designed for the future of finance.
+- [Algorand](https://www.algorand.com/) - Open source, permissionless, pure PoS blockchain protocol designed for the future of finance. ([HN](https://news.ycombinator.com/item?id=29292622))
 - [Staking Facilities](https://stakingfacilities.com/) - Web 3.0 Infrastructure & Services.
 - [Rust in Blockchain](https://rustinblockchain.org/) ([Twitter](https://twitter.com/rust_blockchain))
 - [Loom Network](https://loomx.io/) - Production-Ready, Multichain Interop Platform for Serious Dapp Developers. ([GitHub](https://github.com/loomnetwork)) ([Code](https://github.com/loomnetwork/loomchain))
-- [Chainlink](https://chain.link/) - Blockchain Oracles for Connected Smart Contracts.
+- [Chainlink](https://chain.link/) - Blockchain Oracles for Connected Smart Contracts. ([Code](https://github.com/smartcontractkit/chainlink))
 - [What actually happens in cryptocurrency space (2021)](https://twitter.com/jonsyu/status/1389635626698297344)
 - [The Internet Computer Protocol (ICP)](https://github.com/dfinity/ic) - World’s first blockchain that runs at web speed and can increase its capacity without bound.
 - [Dan Guido - What the hell are the blockchain people doing & why isn't it a dumpster fire? (2021)](https://www.youtube.com/watch?v=wT-AmR7wtI8)
@@ -171,7 +183,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [How Blockchains Work (2021)](https://asthasr.github.io/posts/how-blockchains-work/)
 - [Web 2 to Web 3 (2021)](https://twitter.com/dabit3/status/1397247252251521026)
 - [How and when did NFTs start? How are they evolving? (2021)](https://twitter.com/muneeb/status/1397204583710134281)
-- [Internet Computer](https://dfinity.org/) - Extends the public Internet so it can natively host websites , software systems, open internet services and DeFi systems. ([GitHub](https://github.com/dfinity))
+- [Internet Computer](https://dfinity.org/) - Extends the public Internet so it can natively host websites , software systems, open internet services and DeFi systems. ([GitHub](https://github.com/dfinity)) ([Tweet](https://twitter.com/HoumanShadab/status/1457384218938458117))
 - [Multicoin Capital](https://multicoin.capital/) - Thesis-driven investment firm that invests in cryptocurrencies, tokens, and blockchain companies. ([Twitter](https://twitter.com/multicoincap))
 - [What are the Most Interesting Projects Uniquely Enabled by Crypto? (2021)](https://www.reddit.com/r/CryptoTechnology/comments/nluv1w/what_are_the_most_interesting_projects_uniquely/)
 - [Freaking blockchains: How do they work? (2021)](https://norswap.com/blockchain-how/) ([Lobsters](https://lobste.rs/s/ks4qql/freaking_blockchains_how_do_they_work))
@@ -182,7 +194,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [Argo](https://argoblockchain.com/) - Publicly-traded blockchain technology.
 - [The ABCs of DAOs (2021)](https://1729.com/daos/) ([Tweet](https://twitter.com/brian_armstrong/status/1410280852454400004))
-- [KYVE Network](https://kyve.network/) - Protocol that enables blockchain networks to reliably store and verify their data streams. ([Code](https://github.com/KYVENetwork/kyve)) ([Talk](https://www.youtube.com/watch?v=nBnPElcIV_g))
+- [KYVE Network](https://kyve.network/) - Protocol that enables blockchain networks to reliably store and verify their data streams. ([Code](https://github.com/KYVENetwork/kyve)) ([Talk](https://www.youtube.com/watch?v=nBnPElcIV_g)) ([Investing in KYVE](https://viktorbunin.medium.com/investing-in-kyve-2b87241786b9)) ([Core Code](https://github.com/KYVENetwork/core))
 - [Building Blockchain in Go (2017)](https://jeiwan.net/posts/building-blockchain-in-go-part-1/) ([Code](https://github.com/Jeiwan/blockchain_go))
 - [Pact](https://github.com/kadena-io/pact) - Open-source, Turing-incomplete smart contract language that has been purpose-built with blockchains first in mind.
 - [Theta Blockchain Ledger Protocol](https://github.com/thetatoken/theta-protocol-ledger) - Proof-of-Stake decentralized ledger designed for the video streaming industry. ([Docs](https://docs.thetatoken.org/))
@@ -232,3 +244,76 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Interchain Standards (ICS) for the Cosmos network & interchain ecosystem](https://github.com/cosmos/ibc)
 - [Nervos Network](https://www.nervos.org/) - Universal Passport to Blockchain. ([Twitter](https://twitter.com/NervosNetwork)) ([GitHub](https://github.com/nervosnetwork))
 - [Neuron](https://github.com/nervosnetwork/neuron) - Nervos CKB Full-Node Desktop Wallet.
+- [Optics](https://github.com/celo-org/optics-monorepo) - Cross-chain communication system. Handles passing raw buffers between blockchains cheaply, and with minimal fuss.
+- [DappTools Resources](https://github.com/rajivpo/awesome-dapptools)
+- [Decentology](https://www.decentology.com/) - Build composable apps in under 15 mins on Ethereum, Flow, Solana, Polygon & more. ([Twitter](https://twitter.com/decentology))
+- [Blockchain written in Zig](https://github.com/lithdew/rheia)
+- [Useful non-money related crypto projects (2021)](https://twitter.com/andrestaltz/status/1442558917683335168)
+- [NFT Projects Are Just MLMs for Tech Elites (2021)](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites) ([HN](https://news.ycombinator.com/item?id=28713249))
+- [Sonic Chain](https://github.com/kianenigma/SonicChain) - Wait-free, pseudo-static approach toward concurrency in blockchain runtimes.
+- [LootWatcher](https://www.lootwatcher.com/) - Dashboard for Loot Projects. Discover, mint, and expand. ([Twitter](https://twitter.com/lootwatcher_))
+- [multichain](https://github.com/renproject/multichain) - Abstraction over multiple different underlying blockchains (Bitcoin, Ethereum, Zcash, etc.).
+- [How NFTs are a giant scam (2021)](https://twitter.com/smdiehl/status/1445795667826208770) ([HN](https://news.ycombinator.com/item?id=28850326))
+- [Web 3.0: Build money stuff and figure out some non-speculative use for it later (2021)](https://twitter.com/pinboard/status/1448007556656369666)
+- [NFT, but the image renders differently based on who's looking at it (2021)](https://twitter.com/moxie/status/1448066579611234305)
+- [A Guide to Designing Effective NFT Launches (2021)](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)
+- [Artist Spotlight: Divergence and the Art of On-Chain Artwork NFTs (2021)](https://www.proof.xyz/brotchain-generative-art-built-entirely-on-blockchain/) ([Tweet](https://twitter.com/kevinrose/status/1449033168967766031))
+- [Why NFT can be worth anything? (2021)](https://twitter.com/kelseyhightower/status/1449126496107315200)
+- [Tokenization of everything is the biggest thing we have ever seen and will ever see (2021)](https://twitter.com/RaoulGMI/status/1449210646625673217)
+- [web3](https://github.com/gochain/web3) - CLI tool to interact with web3 blockchains - Ethereum, GoChain, etc.
+- [Compromised: A story of intrigue, terror, NFTs, and crypto-espionage (2021)](https://steviep.xyz/txt/compromised) ([HN](https://news.ycombinator.com/item?id=28906111))
+- [Flow](https://www.onflow.org/) - Blockchain for open worlds. ([GitHub](https://github.com/onflow)) ([Playground](https://www.onflow.org/play)) ([Code](https://github.com/onflow/flow-go))
+- [Cadence](https://github.com/onflow/cadence) - Resource-oriented smart contract programming language.
+- [Cairo](https://www.cairo-lang.org/) - Turing-complete language making it possible for all blockchain developers to harness the power of STARKs. ([Code](https://github.com/starkware-libs/cairo-lang)) ([Cairo by Example](https://github.com/a5f9t4/cairo-by-example)) ([Cairo by Example Code](https://github.com/a5f9t4/cairo-by-example))
+- [TokenScript](http://tokenscript.org/) - JavaScript / XML framework for blockchain token which creates a layer between a blockchain and user devices. ([Specs](https://github.com/TokenScript/TokenScript))
+- [What is an NFT?](https://twitter.com/punk6529/status/1451896453065023493)
+- [Best tax solution when dealing with NFTs (2021)](https://twitter.com/sterlingcrispin/status/1453079792077533185)
+- [Deso](https://www.deso.org/) - Decentralized Social Blockchain. ([GitHub](https://github.com/deso-protocol))
+- [The Problem with Smart Contracts Today (2021)](https://www.radixdlt.com/post/the-problem-with-smart-contracts-today) ([Tweet](https://twitter.com/lawmaster/status/1453375048140697606))
+- [Blockchain Security DB](https://consensys.github.io/blockchainSecurityDB/) - Open-source database created by ConsenSys Diligence for all things blockchain security. ([Code](https://github.com/ConsenSys/blockchainSecurityDB))
+- [Informal Systems](https://informal.systems/) - Verifiable distributed systems (of machines) and organizations (of humans). ([Twitter](https://twitter.com/informalinc)) ([GitHub](https://github.com/informalsystems))
+- [Inter-Blockchain Communication Protocol (IBC)](https://ibcprotocol.org/) - Interoperability protocol for communicating arbitrary data between arbitrary state machines. ([Rust Code](https://github.com/informalsystems/ibc-rs))
+- [What is Harberger Tax & Where Does The Blockchain Fit In? (2018)](https://medium.com/@simondlr/what-is-harberger-tax-where-does-the-blockchain-fit-in-1329046922c6)
+- [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape (2021)](https://blog.celestia.org/clusters/)
+- [Pocket Network](https://www.pokt.network/) - Decentralized infrastructure for developers to build peer to peer applications. ([Code](https://github.com/pokt-network/pocket-core))
+- [WalletConnect](https://walletconnect.com/) - Web3 standard to connect blockchain wallets to dapps. ([Code](https://github.com/WalletConnect/walletconnect-monorepo)) ([GitHub](https://github.com/WalletConnect))
+- [Reflections on Trusting ‘Trustlessness’ in the Era of “Crypto”/Blockchains (2021)](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/cbit-4-2.pdf)
+- [Secret Network](https://scrt.network/) - Blockchain with data privacy by default.
+- [Tenk NFT](https://github.com/willemneal/tenk) - Template for making a NFT contract with a raffle of tokens.
+- [Issues with blockchain/crypto tech (2021)](https://twitter.com/mountain_ghosts/status/1458544957757788169)
+- [The 10,000 Faces That Launched an NFT Revolution (2021)](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution/) ([Tweet](https://twitter.com/pixelpete/status/1458818880453947393))
+- [The Nihilism and Exploitation of the NFT Industry (2021)](https://ez.substack.com/p/the-nihilism-and-exploitation-of) - Industry custom-built to enrich the wealthy. ([Tweet](https://twitter.com/edzitron/status/1458934946534285313))
+- [Cortex - AI on Blockchain written in Go](https://github.com/CortexFoundation/CortexTheseus)
+- [Scrypto](https://github.com/radixdlt/radixdlt-scrypto) - Language for building DeFi apps on Radix.
+- [NFT Canon](https://future.a16z.com/nft-canon/)
+- [CryptoJobList](https://cryptojobslist.com/) - The web's biggest list of Cryptocurrency Jobs and Blockchain Jobs.
+- [Issues with blockchain and NFTs (2021)](https://twitter.com/eevee/status/1460357576906850306?s=28)
+- [Rollups, data availability layers & modular blockchains: introductory meta post (2021)](https://polynya.medium.com/rollups-data-availability-layers-modular-blockchains-introductory-meta-post-5a1e7a60119d)
+- [Tendermint DB](https://github.com/tendermint/tm-db) - Common database interface for various database backends for Tendermint Core and Cosmos SDK.
+- [Transfer Layer: Scalability and Cross Chain Bridges (2021)](https://www.youtube.com/watch?v=YH0FvcHdLX8)
+- [Capsule](https://github.com/nervosnetwork/capsule) - Development framework for creating smart contract for Nervos' CKB layer 1 blockchain.
+- [The NFT Bay](https://thenftbay.org/index.html) - Resilient NFT BitTorrent site. ([Code](https://github.com/ghuntley/thenftbay.org))
+- [TheNFTbay.org – The Billion Dollar Torrent (All NFT's from Ethereum and Solana)](https://thenftbay.org/description.html) ([HN](https://news.ycombinator.com/item?id=29265064))
+- [XuperChain](https://github.com/xuperchain/xuperchain) - Highly flexible blockchain architecture with great transaction performance.
+- [Why NFTs are bad: the long version (2021)](https://antsstyle.medium.com/why-nfts-are-bad-the-long-version-2c16dae145e2) ([HN](https://news.ycombinator.com/item?id=29280317))
+- [TheNFTBay: Fake, but Worth Discussing (2021)](https://www.clubnft.com/blog/the-trillion-byte-let-down) ([HN](https://news.ycombinator.com/item?id=29290156))
+- [Substrate Cumulus Parachain Template](https://github.com/substrate-developer-hub/substrate-parachain-template) - New Cumulus-based Substrate node, ready for hacking.
+- [Anoma](https://anoma.network/) - Sovereign, proof-of-stake blockchain protocol that enables private, asset-agnostic cash and private bartering among any number of parties. ([Code](https://github.com/anoma/anoma))
+- [Celestia](https://celestia.org/) - Pluggable consensus and data availability layer, to enable anyone to quickly deploy a decentralised blockchain without the overhead of bootstrapping a new consensus network. ([Code](https://github.com/celestiaorg/celestia-core)) ([GitHub](https://github.com/celestiaorg))
+- [Awesome Blockchain Rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
+- [Decentralized versions of Patreon/OnlyFans (2021)](https://twitter.com/albertwenger/status/1464305621394759684)
+- [Blockchain, the amazing solution for almost nothing (2020)](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86714927310-8f431cae) ([Reddit](https://www.reddit.com/r/programming/comments/raorbk/blockchain_the_amazing_solution_for_almost/)) ([HN](https://news.ycombinator.com/item?id=24843037))
+- [RChain](https://github.com/rchain/rchain) - Smart contract platform using CBC-Casper proof of stake + rholang for concurrent execution. ([Web](https://rchain.coop/))
+- [NXTP](https://github.com/connext/nxtp) - Lightweight protocol for generalized crosschain transfers.
+- [Archetype language](https://github.com/edukera/archetype-lang) - DSL to describe blockchain business processes.
+- [QuickNode](https://www.quicknode.com/) - Hosted Blockchain Infrastructure as a Service. ([Twitter](https://twitter.com/QuickNode))
+- [An NFT without a Blockchain. No gas fees. No ETH. No gatekeepers (2021)](https://shkspr.mobi/blog/2021/12/an-nft-without-a-blockchain-no-gas-fees-no-eth/) ([HN](https://news.ycombinator.com/item?id=29608534))
+- [Starport](https://starport.com/) - Developer-friendly interface to the Cosmos SDK. ([Code](https://github.com/tendermint/starport))
+- [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
+- [Gno](https://github.com/gnolang/gno) - Language designed for concurrent blockchain smart contracts systems.
+- [Cosmos](https://cosmos.network/) - Internet of Blockchains.
+- [Juno](https://github.com/CosmosContracts/juno) - Open Source Platform for Interoperable Smart Contracts.
+- [The Future Is Not Only Useless, It’s Expensive (2021)](https://www.gawker.com/culture/the-future-is-useless-expensive) ([Tweet](https://twitter.com/DangerBrooks/status/1472971893443489792))
+- [Spectrum of harm related to crypto and blockchain (2021)](https://twitter.com/smdiehl/status/1475075915893850112)
+- [How do wallets actually interact with the blockchain?](https://www.reddit.com/r/CryptoTechnology/comments/rq4295/how_do_wallets_actually_interact_with_the/)
+- [TinyChain](https://github.com/haydnv/tinychain) - All-in-one database + application server with support for blockchains, graphs, tables, and tensors.

@@ -76,6 +76,23 @@
 - [145 C++ algorithms](http://e-maxx.ru/algo/)
 - [Exploring rectangle packing algorithms (2020)](https://www.david-colson.com/2020/03/10/exploring-rect-packing.html)
 - [Quicksort and k-th smallest elements](https://apfelmus.nfshost.com/articles/quicksearch.html)
+- [How Fast Do Algorithms Improve?](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9540991) ([HN](https://news.ycombinator.com/item?id=28621057))
+- [Algorithms | Coursera](https://www.coursera.org/specializations/algorithms)
+- [Is this the simplest (and most surprising) sorting algorithm? (2021)](https://arxiv.org/abs/2110.01111) ([HN](https://news.ycombinator.com/item?id=28758106)) ([Lobsters](https://lobste.rs/s/gh1ngc/is_this_simplest_most_surprising_sorting))
+- [Algorithm Problem Solving Club](https://offbeat.cc/blog/time-for-programming-puzzles.html)
+- [How Fast Do Algorithms Improve? (2021)](https://ieeexplore.ieee.org/document/9540991)
+- [Unconventional Sorting Algorithms (2021)](https://codingkaiser.blog/2021/10/20/most-bizzare-sorting-algorithms-you-will-ever-see/) ([HN](https://news.ycombinator.com/item?id=28946451))
+- [What does algorithm intuition really mean (2021)](https://1pkg.github.io/posts/what_does_algorithm_intuition_really_mean/)
+- [The Design and Topology of an Algorithm](https://www.densebit.com/posts/24)
+- [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) ([Java Code](https://algs4.cs.princeton.edu/code/)) ([Go Code](https://github.com/youngzhu/algs4-go))
+- [Ask HN: Looking for a book on algorithms and data structures (2021)](https://news.ycombinator.com/item?id=29217252)
+- [The Sliding Window Pattern (2021)](https://nan.fyi/sliding-window) - Chocolates and a way to make your array algorithms a bit faster.
+- [Visual Debugger](https://playground.narendras.vercel.app/) - Playground for algorithm writing. ([Code](https://github.com/narendrasss/playground))
+- [Visualizer for common algorithm patterns](https://visualizer-sepia.vercel.app/patterns/sliding-window/find-all-averages) ([Code](https://github.com/narendrasss/visualizer))
+- [A Neat Approximation Algorithm (2021)](https://mht.wtf/post/min-deg-st/)
+- [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/) ([HN](https://news.ycombinator.com/item?id=29473271))
+- [Implementing Marching Squares (2020)](http://jacobzelko.com/marching-squares/)
+- [Speeding up Dijkstra by a factor of 2700 (2021)](https://blog.siraben.dev/2021/12/28/aoc-speedup.html) ([HN](https://news.ycombinator.com/item?id=29757176))
 
 ## Images
 

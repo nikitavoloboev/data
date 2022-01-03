@@ -13,7 +13,7 @@
 - [camera-controls](https://github.com/yomotsu/camera-controls) - Camera control for three.js, similar to THREE.OrbitControls yet supports smooth transitions and more features.
 - [3D Underwater Maps (2020)](https://vulkd.com/articles/3d-underwater-maps/)
 - [react-xr](https://github.com/react-spring/react-xr) - VR/AR with react-three-fiber.
-- [drei](https://github.com/react-spring/drei) - Useful helpers for react-three-fiber.
+- [drei](https://github.com/pmndrs/drei) - Useful helpers for react-three-fiber.
 - [Bringing webgl to react - Paul Henschel (2020)](https://www.youtube.com/watch?v=YyqBdN71nFs)
 - [map33.js](https://github.com/blaze33/map33.js) - Library to build 3D maps with Three.js. ([HN](https://news.ycombinator.com/item?id=23762403))
 - [Case study: Moving a Three.js-based WebXR app off-main-thread (2020)](https://surma.dev/things/omt-for-three-xr/)
@@ -49,6 +49,7 @@
 - [three-mesh-ui](https://github.com/felixmariotto/three-mesh-ui) - Make VR user interfaces for Three.js.
 - [ThreeJS Globe Visualization](https://github.com/vasturiano/three-globe)
 - [Three.js Globe Tutorial (2020)](https://www.timcchang.com/posts/threejs-globe)
+- [Github Globe](https://github.com/janarosmonaliev/github-globe) - Globe from Github's homepage implemented in ThreeJS with beautiful shading.
 - [Raymarching shaders](https://github.com/gsimone/r3f-raymarching) - Collection of raymarching experiments using react-three-fiber & family.
 - [Three Material Editor](https://github.com/RenaudRohlinger/three-material-editor) - GLSL editor for Threejs scene.
 - [Recreating Real-World Terrain with React, Three.js and WebGL Shaders (2021)](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1) ([HN](https://news.ycombinator.com/item?id=26239236))
@@ -61,3 +62,22 @@
 - [Sketchbook](https://github.com/swift502/Sketchbook) - 3D playground built on three.js and cannon.js.
 - [Magical Marbles in Three.js](https://github.com/mattrossman/magic-marble-tutorial) - Adding volumetric effects to a built-in Three.js shader.
 - [Theatre.js](https://www.theatrejs.com/) - JavaScript Motion Design Library. ([Code](https://github.com/AriaMinaei/theatre))
+- [Three.js - Template - Complex](https://github.com/brunosimon/threejs-template-complex)
+- [Three.js Modern App](https://github.com/marcofugaro/threejs-modern-app) - Boilerplate and utils for a full screen Three.js app.
+- [A technical breakdown of react-three-fiber (2021)](https://codyb.co/articles/a-technical-breakdown-of-react-three-fiber) ([Tweet](https://twitter.com/0xca0a/status/1451599485977731078))
+- [THREE-CSGMesh](https://github.com/manthrax/THREE-CSGMesh) - Conversion of a CSG library for use with modern THREE.js.
+- [three-csg-ts](https://github.com/Jiro-Digital/three-csg-ts) - CSG library for use with THREE.js
+- [THREE.js-PathTracing-Renderer](https://github.com/erichlof/THREE.js-PathTracing-Renderer) - Real-time PathTracing with global illumination and progressive rendering.
+- [Ombra](https://github.com/gsimone/ombra) - Collection of shader-related utilities for react-three-fiber.
+- [iTowns](https://github.com/iTowns/itowns) - Three.js-based framework written in JavaScript/WebGL for visualizing 3D geospatial data. ([Web](http://www.itowns-project.org/))
+- [3DTilesViewer](https://github.com/ebeaufay/3DTilesViewer) - 3DTiles viewer for three.js.
+- [three-loader-3dtiles](https://github.com/nytimes/three-loader-3dtiles) - Three.js loader module for handling OGC 3D Tiles, created by Cesium.
+- [react-ogl](https://github.com/pmndrs/react-ogl) - Declaratively create scenes with re-usable OGL components that have their own state and effects and can tap into React's infinite ecosystem.
+- [three-vrm](https://github.com/pixiv/three-vrm) - Use VRM on Three.js.
+- [Understanding the Three.js Transmission example (2021)](https://medium.com/geekculture/understanding-the-three-js-transmission-example-13e952a8ab55)
+- [Cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+- [Build fancy landing pages with React(-three-fiber) and ThreeJS](https://0xca0a.gumroad.com/l/B4N4N4S) ([Tweet](https://twitter.com/0xca0a/status/1445409346305892353))
+- [Three.js Journey implemented with React-Three-Fiber](https://github.com/slorber/react-three-fiber-journey)
+- [Computer Graphics Études with WebGL and Three.js](https://boytchev.github.io/etudes/) ([Code](https://github.com/boytchev/etudes))
+- [Three Story Controls](https://github.com/nytimes/three-story-controls) - Three.js camera toolkit for creating interactive 3d stories.
+- [React ThreeJS Fiber Journey](https://journey.pmnd.rs/) ([Code](https://github.com/pmndrs/threejs-journey))

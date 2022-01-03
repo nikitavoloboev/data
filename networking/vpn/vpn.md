@@ -7,10 +7,11 @@
 There is always a trust issue having VPN hosted by third party. Especially if it's free!
 
 - [IVPN](https://www.ivpn.net/)
-- [Mullvad](https://mullvad.net/en/) ([Code](https://github.com/mullvad/mullvadvpn-app))
+- [Mullvad](https://mullvad.net/en/) ([Code](https://github.com/mullvad/mullvadvpn-app)) ([Is good](https://www.reddit.com/r/russia/comments/pvc93u/does_protonvpn_still_working_in_russia/hebxhzq/?context=3))
 
 ## Links
 
+- [OpenVPN](https://openvpn.net/) - Secure tunneling daemon. ([Code](https://github.com/OpenVPN/openvpn))
 - [OpenVPN install](https://github.com/Nyr/openvpn-install)
 - [OpenVPN vs IPSec, WireGuard, L2TP, & IKEv2 (VPN Protocols 2019)](https://restoreprivacy.com/openvpn-ipsec-wireguard-l2tp-ikev2-protocols/)
 - [Ask HN: What VPN service are you currently using? (2019)](https://news.ycombinator.com/item?id=19242058)
@@ -44,3 +45,11 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [vtun](https://github.com/net-byte/vtun) - Simple VPN written in Go.
 - [How does Apple Private Relay Work? (2021)](https://matduggan.com/how-does-apple-private-relay-work/)
 - [Run a VPN with global exit nodes with fly.io, tailscale and github](https://github.com/patte/fly-tailscale-exit)
+- [Selecting and Hardening Remote Access VPN Solutions (2021)](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF) ([HN](https://news.ycombinator.com/item?id=28689570))
+- [kytan](https://github.com/changlan/kytan) - High Performance Peer-to-Peer VPN.
+- [vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces.
+- [1.1.1.1 for Families (2021)](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) ([HN](https://news.ycombinator.com/item?id=29024195))
+- [Setting Up 1.1.1.1 for Families on a Pi-Hole (2021)](https://uglyduck.ca/pihole-cloudflare/) ([HN](https://news.ycombinator.com/item?id=29034807))
+- [ZudVPN](https://github.com/zudvpn/ZudVPN) - Mobile application to deploy private VPN servers in the cloud with DNS ad-blocking and other features.
+- [EdgeVPN](https://github.com/mudler/edgevpn) - Fully Decentralized. Immutable. Portable. Easy to use Statically compiled VPN and a reverse proxy over p2p. ([GUI Code](https://github.com/mudler/edgevpn-gui))
+- [SeekVPN](https://seekvpn.com/) - Explore the best VPN. ([HN](https://news.ycombinator.com/item?id=29330706))

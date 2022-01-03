@@ -12,9 +12,9 @@
 - [Database The Prolog Way](https://www.i-programmer.info/programming/artificial-intelligence/1331-database-the-prolog-way.html)
 - [Prodog](http://www.cs.tufts.edu/~couch/archives/prodog/) - System Administration in Prolog. ([Lobsters](https://lobste.rs/s/v6nomp/database_prolog_way))
 - [It's Elementary, Dear Watson: Applying Logic Programming To Convergent System Management Processes](https://www.usenix.org/legacy/publications/library/proceedings/lisa99/full_papers/couch/couch_html/index.html)
-- [Scryer Prolog](https://github.com/mthom/scryer-prolog) - Modern Prolog implementation written mostly in Rust.
+- [Scryer Prolog](https://github.com/mthom/scryer-prolog) - Modern Prolog implementation written mostly in Rust. ([HN](https://news.ycombinator.com/item?id=28966133))
 - [chalk](https://github.com/rust-lang/chalk) - PROLOG-ish interpreter written in Rust, intended eventually for use in the compiler.
-- [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter.
+- [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter. ([OCAml Binds](https://github.com/voodoos/elpi-js))
 - [Programming in Tabled Prolog book](https://github.com/SWI-Prolog/tabled-prolog-book)
 - [SWI Prolog](https://www.swi-prolog.org/) - Comprehensive free Prolog environment.
 - [Prolog and Logic Programming Historical Sources Archive](http://www.softwarepreservation.org/projects/prolog/) ([HN](https://news.ycombinator.com/item?id=22658770))
@@ -34,7 +34,7 @@
 - [CLP(FD)](https://github.com/triska/clpfd) - Constraint Logic Programming over Finite Domains.
 - [Some Global Optimizations for a Prolog Compiler (1985)](https://core.ac.uk/download/pdf/82661515.pdf)
 - [99 Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
-- [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
+- [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) ([Code](https://github.com/shonfeder/99-lambda-prolog-problems))
 - [Prolog Meta-interpreters (2021)](https://www.youtube.com/watch?v=nmBkU-l1zyc)
 - [Prolog for Beginners](https://www.coursera.org/projects/prolog-for-beginners-fhqrd) ([HN](https://news.ycombinator.com/item?id=26872770))
 - [A Hitchhiker's Guide to Reinventing a Prolog Machine (2018)](https://drops.dagstuhl.de/opus/volltexte/2018/8453/) ([HN](https://news.ycombinator.com/item?id=26913859))
@@ -42,3 +42,10 @@
 - [D-Prolog](https://github.com/arkark/d-prolog) - Prolog implementation in D language.
 - [Using Prolog for Sudoku Variants (2021)](http://dstrohmaier.com/sudoku-prolog/) ([HN](https://news.ycombinator.com/item?id=27886733))
 - [Trealla Prolog](https://github.com/infradig/trealla) - Compact, efficient Prolog interpreter written in plain-old C.
+- [Demo of a WAM Prolog Implementation in Python](https://github.com/brunokim/prol) ([HN](https://news.ycombinator.com/item?id=28720000))
+- [Simple examples for new Prolog programmers](https://github.com/Anniepoo/prolog-examples)
+- [CLP(B)](https://github.com/triska/clpb) - Constraint Logic Programming over Boolean variables using Prolog.
+- [LogicKit](https://github.com/kyouko-taiga/LogicKit) - Prolog-like language, distributed in the form of a Swift Embedded Domain Specific Language (EDSL).
+- [PrologHub](https://prologhub.com/)
+- [Homoiconic Prolog: Explain yourself (2019)](https://prologhub.com/homoiconic-prolog-explain-yourself/)
+- [Embeddable Prolog in Go](https://github.com/ichiban/prolog)

@@ -18,7 +18,7 @@
 - [The Relevance of Classic Fuzz Testing: Have We Solved This One? (2020)](https://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz2020.pdf)
 - [OneFuzz](https://github.com/microsoft/onefuzz) - Self-hosted Fuzzing-As-A-Service platform.
 - [Let’s build a high-performance fuzzer with GPUs (2020)](https://blog.trailofbits.com/2020/10/22/lets-build-a-high-performance-fuzzer-with-gpus/) ([HN](https://news.ycombinator.com/item?id=24858766))
-- [The Fuzzing Book](https://www.fuzzingbook.org/) - Tools and Techniques for Generating Software Tests.
+- [The Fuzzing Book](https://www.fuzzingbook.org/) - Tools and Techniques for Generating Software Tests. ([Code](https://github.com/uds-se/fuzzingbook))
 - [kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels (2017)](https://github.com/RUB-SysSec/kAFL)
 - [libxdc (eXtremely fast DeCoder)](https://github.com/nyx-fuzz/libxdc) - Aims to be the best Intel-PT decoding library for fuzzing purposes.
 - [Nautilus](https://github.com/nautilus-fuzz/nautilus) - Coverage guided, grammar based fuzzer.
@@ -54,3 +54,16 @@
 - [rfuzz](https://github.com/ekiwi/rfuzz) - Coverage-directed fuzzing for RTL research platform. ([Paper](https://people.eecs.berkeley.edu/~laeufer/papers/rfuzz_kevin_laeufer_iccad2018.pdf))
 - [The Use of Likely Invariants as Feedback for Fuzzers](http://s3.eurecom.fr/docs/usenixsec21_fioraldi.pdf)
 - [Random Sampling of Strings from Context-Free Grammar (2021)](https://rahul.gopinath.org/post/2021/07/27/random-sampling-from-context-free-grammar/)
+- [Tough Fuzzer](https://github.com/stevenjohnstone/toughfuzzer) - Obstacle course for go-fuzz composed of a series of small code samples which encapsulate the most common obstacles to code-coverage the fuzzer will encounter.
+- [gramfuzz](https://github.com/d0c-s4vage/gramfuzz) - Grammar-based fuzzer that lets one define complex grammars to model text and binary data formats.
+- [GOFUZZ](https://github.com/souvikinator/gofuzz) - Fast web fuzzer which takes in URL as input and test the URL for different set of inputs provided by the user.
+- [The Challenges of Fuzzing 5G Protocols (2021)](https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols/) ([Lobsters](https://lobste.rs/s/nro2ty/challenges_fuzzing_5g_protocols))
+- [Nyx-Net: Network Fuzzing with Incremental Snapshots (2021)](https://arxiv.org/abs/2111.03013)
+- [ClusterFuzzLite](https://github.com/google/clusterfuzzlite) - Simple continuous fuzzing that runs in CI.
+- [Revizor](https://github.com/hw-sw-contracts/revizor) - Microarchitectural fuzzer. Searches for microarchitectural bugs in CPUs.
+- [OpenAPI fuzzer](https://github.com/matusf/openapi-fuzzer) - Fuzzing APIs based on OpenAPI specification. ([HN](https://news.ycombinator.com/item?id=29231804))
+- [FuzzBench](https://github.com/google/fuzzbench) - Fuzzer Benchmarking As a Service. ([Docs](https://google.github.io/fuzzbench/))
+- [Blacksmith Rowhammer Fuzzer](https://github.com/comsec-group/blacksmith) - Crafts novel non-uniform Rowhammer access patterns based on the concepts of frequency, phase, and amplitude.
+- [Fuzzing](https://github.com/palekh/fuzzing) - Tool set for fuzz and stress testing your functions.
+- [Recent Papers Related To Fuzzing](https://github.com/wcventure/FuzzingPaper)
+- [FormatFuzzer](https://github.com/uds-se/FormatFuzzer) - Framework for high-efficiency, high-quality generation and parsing of binary inputs.

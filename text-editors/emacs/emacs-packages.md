@@ -2,6 +2,7 @@
 
 ## Other
 
+- [Meow](https://github.com/meow-edit/meow) - Modal editing mode for Emacs.
 - [company-mode](https://github.com/company-mode/company-mode) - Modular in-buffer completion framework for Emacs.
 - [CIDER](https://github.com/clojure-emacs/cider) - Clojure Interactive Development Environment that Rocks for Emacs.
 - [Lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing.
@@ -17,6 +18,12 @@
 - [lazyblorg](https://github.com/novoid/lazyblorg) - Blogging with Org-mode for very lazy people.
 - [org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Connector between Org-roam, BibTeX-completion, and Org-ref.
 - [rigpa](https://github.com/countvajhula/rigpa) - Modular editing levels and towers for Emacs.
+- [Auto Activating Snippets](https://github.com/ymarco/auto-activating-snippets) - Snippets for Emacs that expand as you type.
+- [symex.el](https://github.com/countvajhula/symex.el) - Edit Lisp symbolic expressions ("symexes") as trees in Emacs.
+
+## Git
+
+- [Magit](https://github.com/magit/magit) - Interface to the version control system Git, implemented as an Emacs package. ([Web](https://magit.vc/)) ([Article](https://emacsair.me/2017/09/01/the-magical-git-interface/)) ([HN](https://news.ycombinator.com/item?id=28954058))
 
 ## Elm
 

@@ -12,6 +12,7 @@ Here are tools I use for streaming:
 ## Notes
 
 - To see Twitch chats in IRC, first [connect to Twitch via IRC](https://help.twitch.tv/customer/portal/articles/1302780-twitch-irc), then join the channel of stream you want (i.e. `/join #nikitavoloboev`).
+- [99.925% of streamers aren't making a meaningful income. It goes all the way to the top streamers on the platform. 25% of the top 0.1% don't even make minimum wage.](https://twitter.com/JoshFabian/status/1445866254284189702)
 
 ## Links
 
@@ -64,3 +65,9 @@ Here are tools I use for streaming:
 - [River](https://github.com/nintha/river) - Pure Rust Implementation of RTMP Live Stream Server.
 - [Ask HN: Favorite live coding channels for intermediate/advanced topics? (2021)](https://news.ycombinator.com/item?id=27635613)
 - [Glimesh](https://glimesh.tv/) - Next generation live streaming platform built by the community, for the community. ([Code](https://github.com/Glimesh/glimesh.tv))
+- [Starting to livestream with OBS](https://ryanharris.dev/posts/going-live-with-obs/)
+- [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
+- [Twitch](https://www.twitch.tv/) - Interactive live streaming service. ([Code Hacked](https://news.ycombinator.com/item?id=28774910))
+- [Virtual Log-Structured Storage for High-Performance Streaming (2021)](https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf)
+- [webrtcsink](https://github.com/centricular/webrtcsink) - All-batteries included GStreamer WebRTC producer.
+- [Overpass](https://github.com/GOATS2K/overpass) - Self-hosted video live streaming app. ([HN](https://news.ycombinator.com/item?id=29572310))

@@ -67,3 +67,29 @@
 - [AppFS](https://appfs.rkeene.org/web/index) - Universal packaging format that is presented to the system as a filesystem (via FUSE).
 - [FastCFS](https://github.com/happyfish100/FastCFS) - High performance distributed file system for databases, K8s and VM etc.
 - [The future needs files (2021)](https://jenson.org/files/) ([HN](https://news.ycombinator.com/item?id=28391570))
+- [Examining btrfs, Linux’s perpetually half-finished filesystem (2021)](https://arstechnica.com/gadgets/2021/09/examining-btrfs-linuxs-perpetually-half-finished-filesystem/)
+- [Goofys](https://github.com/kahing/goofys) - High-performance, POSIX-ish Amazon S3 file system written in Go.
+- [GeeseFS](https://github.com/yandex-cloud/geesefs) - High-performance, POSIX-ish S3 (Yandex, Amazon) file system written in Go.
+- [libzetta-rs](https://github.com/Inner-Heaven/libzetta-rs) - Stable interface for programmatic administration of ZFS from Rust.
+- [APFS FUSE Driver for Linux](https://github.com/sgan81/apfs-fuse)
+- [Fuse-Archive](https://github.com/google/fuse-archive) - Program that serves an archive or compressed file (e.g. foo.tar, foo.tar.gz, foo.xz, foo.zip) as a FUSE file system.
+- [Flatdata](https://github.com/heremaps/flatdata) - Write-once, read-many, minimal overhead binary structured file format.
+- [AetherFS](https://github.com/mjpitz/aetherfs) - Virtual file system for small to medium sized datasets (MB or GB, not TB or PB). Like Docker, but for data. ([Web](https://aetherfs.tech/))
+- [ChubaoFS](https://github.com/chubaofs/chubaofs) - Cloud native distributed file system and object store.
+- [The Tree Structure of File Systems (2021)](https://fkohlgrueber.github.io/blog/tree-structure-of-file-systems/) ([Lobsters](https://lobste.rs/s/ydno8w/tree_structure_file_systems))
+- [Designing better file organization around tags, not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies) ([HN](https://news.ycombinator.com/item?id=29141800))
+- [We saved millions in SSD costs by upgrading our filesystem (2021)](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem) ([HN](https://news.ycombinator.com/item?id=29164727))
+- [edwork](https://github.com/eduardsui/edwork) - Decentralized, distributed read-write filesystem.
+- [I'm “still afraid to use spaces in file names” years old](https://twitter.com/TheIdOfAlan/status/1458117496087748618) ([HN](https://news.ycombinator.com/item?id=29186222))
+- [Libnvmmio](https://github.com/chjs/libnvmmio) - User-level file system designed for byte-addressable non-volatile memories.
+- [rusix](https://github.com/cholcombe973/rusix) - Distributed filesystem in Rust.
+- [Bcachefs: The COW filesystem for Linux that won't eat your data](https://bcachefs.org/) ([Lobsters](https://lobste.rs/s/zbhdyu/bcachefs_cow_filesystem_for_linux_won_t))
+- [zectl](https://github.com/johnramsden/zectl) - ZFS Boot Environment manager for Linux.
+- [Diskplorer](https://github.com/scylladb/diskplorer) - Disk latency/bandwidth grapher.
+- [ZboxFS](https://github.com/zboxfs/zbox) - Zero-details, privacy-focused in-app file system. ([Web](https://zbox.io/fs/))
+- [The fastest way to copy a file? (2021)](https://alexsaveau.dev/blog/performance/files/kernel/the-fastest-way-to-copy-a-file) ([HN](https://news.ycombinator.com/item?id=29358499))
+- [BetrFS](https://www.betrfs.org/) - File system that uses Bε trees. ([HN](https://news.ycombinator.com/item?id=29403320)) ([Code](https://github.com/oscarlab/betrfs))
+- [gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go.
+- [Replacing an unavailable ZFS drive (2021)](https://nickb.dev/blog/replacing-an-unavailble-zfs-drive)
+- [Deark](https://github.com/jsummers/deark) - Utility for file format and metadata analysis, data extraction, decompression, and image format decoding.
+- [vfile](https://github.com/vfile/vfile) - Small and browser friendly virtual file format that tracks metadata (such as a file’s path and value) and messages.

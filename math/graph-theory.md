@@ -27,7 +27,6 @@
 - [Graphs and C-sets I: What is a graph? (2020)](https://www.algebraicjulia.org/blog/post/2020/09/cset-graphs-1/)
 - [Computer Scientists Break Traveling Salesperson Record (2020)](https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/) ([HN](https://news.ycombinator.com/item?id=24720607))
 - [Cuckoo Cycle](https://github.com/tromp/cuckoo) - Memory-bound graph-theoretic proof-of-work system.
-- [Computation graphs and graph computation (2020)](http://breandan.net/2020/06/30/graph-computation/)
 - [GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS) - Graph algorithms in the language of linear algebra.
 - [GraphBLAS: A linear algebraic approach for portable graph algorithms (2020)](https://zenodo.org/record/4318870)
 - [GEMS Lab](https://gemslab.github.io/) - Graph Exploration and Mining at Scale. ([GitHub](https://github.com/GemsLab))
@@ -49,3 +48,5 @@
 - [Algorithms Course - Graph Theory Tutorial from a Google Engineer (2019)](https://www.youtube.com/watch?v=09_LlHjoEiY)
 - [Master thesis: Minimum degree ordering (2021)](https://opensourc.es/blog/master-thesis-minimum-degree-ordering/)
 - [How Big Data Carried Graph Theory into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/) ([HN](https://news.ycombinator.com/item?id=28241398))
+- [Partition and Code: learning how to compress graphs (2021)](https://arxiv.org/abs/2107.01952) ([Code](https://github.com/gbouritsas/PnC))
+- [Ordering Movie Credits with Graph Theory](https://endcrawl.com/credits-ordering/) ([HN](https://news.ycombinator.com/item?id=29639968))

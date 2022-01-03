@@ -9,6 +9,7 @@
 - [Otta](https://github.com/XavKearney/otta-engineering-interview-task)
 - [PFN Internship Coding Tasks](https://github.com/pfnet/intern-coding-tasks)
 - [Conduktor Coding Challenges](https://github.com/conduktor/conduktor-coding-challenge)
+- [Aztec Technical Challenge](https://github.com/AztecProtocol/interview-test)
 
 ## Nice Job pages
 
@@ -28,6 +29,8 @@
 - [BeReal](https://www.notion.so/Join-us-d2c00d488ee944e8baab3e9365ee6c10)
 - [Aviasales](https://www.aviasales.ru/about/vacancies)
 - [Encore](https://jobs.encore.dev/)
+- [The Browser Company](https://thebrowser.company/careers/)
+- [Scrimba typical dev day](https://twitter.com/perborgen/status/1461684234561667080)
 
 ## Questions to ask
 
@@ -46,6 +49,10 @@
 - [Day Bridge options can be exercised as soon as they vest, and can be exercised long after you leave. You can also leave before fully vesting. They are also EMI approved (very tax efficient) and the strike price is currently ~£0.](https://twitter.com/kieranmch/status/1397612206800375816)
 - [У нас собеседование не идёт в реальном времени — кандидат пишет текстом большой ответ на все наши вопросы сразу. Общаемся лично только в самом конце. Проверка на культуру — самая сложная. Её надо проводить с минимальным потоком людей, когда отсеяли по остальным критериям](https://twitter.com/andrey_sitnik/status/1419261221681999874)
 - [The best people you hire are awesome pretty much immediately. Slow starters rarely become stars.](https://twitter.com/ShaanVP/status/1424431446823895043)
+- [Mandatory PTO, besides being good for the wellness of the employees, ensures nobody in your org is solely relied on for a task or responsibility. Nobody should be a keystone. Smart leaders should make PTO hours taken over x time a deliverable.](https://twitter.com/r0wdy_/status/1443595429271285762)
+- [Don’t evaluate others based on their function, but rather their contribution to the mission. Recruiters are an extension of your team.](https://twitter.com/laserlikemike/status/1459534198318854151)
+- [Job posts of the future: Here's a task. We'll pay you to do it. If we're both happy, we'll keep going.](https://twitter.com/stephsmithio/status/1466076624189902851)
+- [Training new hires: 1. Prepare good documentation. 2. Be on a call with them when you have to explain stuff verbally. 3. Be available in text chat to answer their questions.](https://news.ycombinator.com/item?id=29376226)
 
 ## Links
 
@@ -110,3 +117,15 @@
 - [What's Wrong with Tech Hiring (2021)](https://neverworkintheory.org/2021/09/13/whats-wrong-with-tech-hiring.html) ([HN](https://news.ycombinator.com/item?id=28532083))
 - [Companies should focus a lot more on retaining top talent](https://twitter.com/GergelyOrosz/status/1439193179539058695)
 - [Increasing number of engineers doesn't always make you go faster (2021)](https://twitter.com/shreyas/status/1440138354390016003)
+- [Avoiding the audience paradox when writing job descriptions (2021)](https://blog.interviewing.io/how-to-write-good-job-descriptions/) ([HN](https://news.ycombinator.com/item?id=28630431))
+- [Better alternative to giving out option grants (2021)](https://twitter.com/harryhurst/status/1270562546206912514)
+- [Monzo's on-call compensation](https://twitter.com/bradleyjkemp/status/1445706941028704272)
+- [They don't even know the fundamentals (2021)](https://blog.royalsloth.eu/posts/they-dont-even-know-the-fundamentals/) ([HN](https://news.ycombinator.com/item?id=29064822))
+- [Onboarding to a New Company (2021)](https://newsletter.pragmaticengineer.com/p/onboarding-to-a-new-company)
+- [Ask HN: What kind of projects make a junior candidate stand out from the rest? (2021)](https://news.ycombinator.com/item?id=29108881)
+- [Introduction to Work Sample Tests (2021)](https://jacobian.org/2021/nov/9/wst-intro/) - Hands-on, practical exercises.
+- [Ask HN: How much equity should an early employee get? (2021)](https://news.ycombinator.com/item?id=29222783)
+- [Karat](https://karat.com/) - The Interviewing Cloud | Accelerate technical hiring.
+- [Growing a Junior-Heavy Team (2021)](https://twitter.com/GergelyOrosz/status/1459183541682593794) ([Tweet](https://twitter.com/GergelyOrosz/status/1459183541682593794))
+- [Diversity in Hiring](https://github.com/nkammah/diversity-in-hiring) - Resources for diversity in hiring : job boards, organizations, educational resources.
+- [8 reference call questions that get past BS and really help understand a candidate](https://twitter.com/asanwal/status/1474407648267313175)

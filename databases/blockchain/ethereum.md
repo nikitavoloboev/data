@@ -1,16 +1,21 @@
 # [Ethereum](https://www.ethereum.org)
 
-Ethereum is a virtual machine built on top of the blockchain that lets you create and run smart contracts that then run on the blockchain.
+Ethereum is a virtual machine built using a blockchain (spread around many clients) that lets you create and run smart contracts (arbitrary code) that then run in perpetuity.
+
+It is quite useless however due to it having [too high fees](https://twitter.com/austerity_sucks/status/1457064593591840773) compared to [any other proper PoS chain](https://twitter.com/immaterial_ink/status/1457453404087857162). [Solidity](https://soliditylang.org) is nice prototype language which you can use with [Solang](https://solang.readthedocs.io/en/latest/) & compile it to [more efficient chains](https://twitter.com/deepfates/status/1458937791430098947).
 
 ## Notes
 
 - [The problem is that money (paper money/currency) is not the only thing that has value which human beings transfer among each other. We share music, art, poetry, equity in companies, ideas, code, etc. What Ethereum does is take the idea of "Digital trustless money transfer" and expands it to "Digital trustless value transfer"](https://news.ycombinator.com/item?id=25264694)
 - [Let's say I own TSLA stock and I want to sell it to you. I can't, without going through a middle-person. I need to send my shares to a brokerage (they take cuts and fees and do insider trading crap that they disguise as legal) then you buy the shares from then. If it's mine, why can't I just transfer the shares straight to you for the listed price (Currently $567.60)? Because there is no platform digital trustless value transfer that will ensure that we both get what we want: Me getting the money, and you getting the shares.](https://news.ycombinator.com/item?id=25264694)
 - [Outside of actual layer2, Aurora is the best and most trustless bridge to Ethereum that I've seen to date.](https://twitter.com/evan_van_ness/status/1429924278632390656)
+- [Rollup is a network, that plugs in to layer 1 and pushes a cryptographic proof of all txs to the main chain every set interval. So one rollup tx contains thousands of txs on the rollup chain, anchoring proof into layer 1. Costs on a rollup are thus much cheaper.](https://www.reddit.com/r/ethereum/comments/qv2k1w/why_build_anything_on_ethereum_network/)
+- [Ethereum ‘world computer’ has roughly 1/5,000 of the compute power of a Raspberry Pi 4.](https://twitter.com/codinghorror/status/1473173555424555009)
 
 ## Links
 
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+- [Solidity by Example](https://solidity-by-example.org/) - Introduction to Solidity with simple examples. ([Code](https://github.com/solidity-by-example/solidity-by-example.github.io))
 - [When New Tech and Dated Policies Collide a Conversation with Vitalik Buterin](https://www.youtube.com/watch?v=KlIFQ7GIdBA&t=2s)
 - [Dapp](https://github.com/dapphub/dapp) - Simple tool for creating Ethereum-based dapps.
 - [Ethereum FAQ](http://www.ethdocs.org/en/latest/frequently-asked-questions/frequently-asked-questions.html#what-is-ethereum)
@@ -25,7 +30,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Drizzle](https://github.com/trufflesuite/drizzle) - Reactive Ethereum datastore for dapp UIs.
 - [Status](https://status.im/) - Secure messaging app, crypto wallet, and Web3 browser built with state of the art technology. ([Code](https://github.com/status-im/status-react))
 - [EthHub](https://ethhub.io/) - The goal of EthHub is to provide a single source for essential Ethereum information. ([Code](https://github.com/ethhub-io/ethhub))
-- [Urbit](https://github.com/urbit/urbit) - Urbit virtual machine.
 - [A Journey Through Phase 2 of Ethereum 2.0 (2019)](https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2-0-c7a2397a36cb)
 - [Ethereum 2.0 Specifications](https://github.com/ethereum/eth2.0-specs)
 - [Prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum Serenity protocol.
@@ -34,7 +38,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum: The Money-Game Landscape (2020)](https://medium.com/@TrustlessState/ethereum-the-money-game-landscape-1b9fdb05f842)
 - [0x](https://0x.org/) - Open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain. ([Code](https://github.com/0xProject/0x-monorepo)) ([Protocol](https://github.com/0xProject/protocol))
 - [0x API](https://github.com/0xProject/0x-api) - HTTP Interface to 0x liquidity and tooling.
-- [Rainbow](https://github.com/rainbow-me/rainbow) - Pocket robot for your internet money, powered by Ethereum.
+- [Rainbow](https://rainbow.me/) - Ethereum wallet that lives in your pocket. ([Code](https://github.com/rainbow-me/rainbow))
 - [Ethereum peer-to-peer networking specifications](https://github.com/ethereum/devp2p)
 - [ETH 2.0 educational resources](https://github.com/protolambda/eth2-docs)
 - [Tools for dapps](https://dapp.tools/) - Command-line-friendly tools for blockchain development. ([Code](https://github.com/dapphub/dapptools))
@@ -47,7 +51,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
 - [Awesome Solidity 2](https://github.com/BlockchainLabsNZ/awesome-solidity)
 - [Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money (2020)](https://overcast.fm/+OcVeupJwk)
-- [ChainSafe](https://chainsafe.io/) - Designs and develops scalable solutions for the decentralized web. ([Code](https://github.com/ChainSafe))
+- [ChainSafe](https://chainsafe.io/) - Designs and develops scalable solutions for the decentralized web. ([GitHub](https://github.com/ChainSafe))
 - [Smart Contract Weakness Classification Registry](https://github.com/SmartContractSecurity/SWC-registry)
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
 - [web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
@@ -58,7 +62,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Slither](https://github.com/crytic/slither) - Solidity source analyzer.
 - [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool.
 - [Ethereum APIs](https://github.com/prysmaticlabs/ethereumapis)
-- [Ethereum Name Service](https://ens.domains/) - Offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names. ([App](https://app.ens.domains/))
+- [Ethereum Name Service](https://ens.domains/) - Offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names. ([App](https://app.ens.domains/)) ([Docs](https://docs.ens.domains/)) ([Tweet](https://twitter.com/seldo/status/1455640706786099203))
 - [HN: Reddit rolls out community currencies on Ethereum (2020)](https://news.ycombinator.com/item?id=23178277)
 - [Arbitrum](https://offchainlabs.com/) - Layer 2 cryptocurrency platform that makes smart contracts scalable, fast, and private. Arbitrum interoperates closely with Ethereum. ([Code](https://github.com/OffchainLabs/arbitrum))
 - [teth](https://github.com/bwasty/teth) - Toy Ethereum implementation.
@@ -83,7 +87,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [CryptoZombies](https://cryptozombies.io/) - Solidity Tutorial & Ethereum Blockchain Programming Course.
 - [Guide to Staking on Ethereum 2.0 (Ubuntu/Medalla/Nimbus) (2020)](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-nimbus-5f4b2b0f2d7c)
 - [GoSwap Exchange](https://goswap.exchange/#/swap) ([Help](https://help.goswap.exchange/))
-- [yearn finance](https://yearn.finance/) - Yield optimization for stable coins. ([Yearn solidity smart contracts](https://github.com/iearn-finance/yearn-protocol))
+- [yearn finance](https://yearn.finance/) - Yield optimization for stable coins. ([Yearn solidity smart contracts](https://github.com/iearn-finance/yearn-protocol)) ([Code](https://github.com/yearn/yearn-vaults))
 - [A Closer Look at Software Canisters, an Evolution of Smart Contracts (2020)](https://medium.com/dfinity/software-canisters-an-evolution-of-smart-contracts-internet-computer-f1f92f1bfffb)
 - [Building on Ethereum Mainnet - An Opinionated Guide (2020)](https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/)
 - [ethereum-cryptography](https://github.com/ethereum/js-ethereum-cryptography) - Every cryptographic primitive needed to work on Ethereum, for the browser and Node.
@@ -92,7 +96,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Solidity](https://github.com/ethereum/solidity) - Contract-Oriented Programming Language. ([Docs](https://solidity.readthedocs.io/))
 - [EVM Opcodes](https://github.com/wolflo/evm-opcodes) - Quick reference for EVM opcodes.
 - [Eth2 News](https://eth2.news)
-- [Lido](https://lido.fi/) - Liquid staking solution for Ethereum. ([Introducing Lido](https://medium.com/lido-finance/introducing-lido-ca193431c82))
+- [Lido](https://lido.fi/) - Liquid staking solution for Ethereum. ([Introducing Lido](https://medium.com/lido-finance/introducing-lido-ca193431c82)) ([Discord](https://discord.gg/vgdPfhZ))
 - [Matter Labs](https://matter-labs.io/) - Unchaining Ethereum with Zero-Knowledge Proofs.
 - [zkSync](https://zksync.io/) - Secure, scalable crypto payments. Fully trustless, secure, user-centric protocol for scaling payments and smart contracts on Ethereum. ([Code](https://github.com/matter-labs/zksync))
 - [Ethereum wallet application for Ledger Blue and Nano S](https://github.com/LedgerHQ/app-ethereum)
@@ -105,13 +109,13 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Notional Finance](https://notional.finance/) - Fixed rate lending and borrowing protocol on Ethereum. ([Code](https://github.com/notional-finance/contracts))
 - [List of 4byte identifiers to common smart contract functions](https://github.com/ethereum-lists/4bytes)
 - [Balancer](https://balancer.finance/) - Non-custodial portfolio manager, liquidity provider, and price sensor. ([Pool management](https://pools.balancer.exchange/#/)) ([GitHub](https://github.com/balancer-labs))
-- [Truffle Suite](https://www.trufflesuite.com/) - Sweet Tools for Smart Contracts. ([Docs](https://www.trufflesuite.com/docs/truffle/overview))
+- [Truffle Suite](https://www.trufflesuite.com/) - Development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier. ([Docs](https://www.trufflesuite.com/docs/truffle/overview)) ([Code](https://github.com/trufflesuite/truffle))
 - [Why Proof of Stake (2020)](https://vitalik.ca/general/2020/11/06/pos2020.html) ([HN](https://news.ycombinator.com/item?id=25006793))
 - [beacon-fuzz](https://github.com/sigp/beacon-fuzz) - Differential Fuzzer for Ethereum 2.0.
 - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts) - Guidelines and training material to write secure smart contracts.
 - [Slither](https://github.com/crytic/slither) - Static Analyzer for Solidity.
 - [Crytic](https://crytic.io/) - SaaS-based GitHub application that continuously assures your Ethereum smart contracts are safe and functional. ([GitHub](https://github.com/crytic))
-- [Cryptovoxels](https://www.cryptovoxels.com/) - Ethereum Virtual World.
+- [Cryptovoxels](https://www.cryptovoxels.com/) - Ethereum Virtual World. ([Look at Cryptovoxels](https://fragosti.com/posts/a-look-at-cryptovoxels/))
 - [Slingshot](https://slingshot.finance/) - Next Generation Decentralized Trading.
 - [K Semantics of the Ethereum Virtual Machine (EVM)](https://github.com/kframework/evm-semantics)
 - [beaconcha.in](https://beaconcha.in/) - Open Source Ethereum 2.0 Beacon Chain Explorer. ([Code](https://github.com/gobitfly/eth2-beaconchain-explorer))
@@ -132,7 +136,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Radspec](https://github.com/aragon/radspec) - Safe interpreter for dynamic expressions in Ethereum's NatSpec.
 - [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - Ethereum evm bytecode disassembler and static/dynamic analysis tool.
 - [ethers.rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust.
-- [parsec](https://parsec.finance/) - DeFi Pro Trading and Analytics.
+- [parsec](https://parsec.finance/) - DeFi Pro Trading and Analytics. ([Twitter](https://twitter.com/parsec_finance))
 - [Solidity Koans](https://soliditykoans.org/) - Learn Ethereum Solidity programming through test driven development. ([Code](https://github.com/nczhu/solidity-koans))
 - [Solidity Cheatsheet and Best practices](https://github.com/manojpramesh/solidity-cheatsheet) ([Web](https://manojpramesh.github.io/solidity-cheatsheet/))
 - [Mirror Protocol](https://mirror.finance/) - Synthetics protocol for on-chain price exposure to real world assets. ([GitHub](https://github.com/Mirror-Protocol))
@@ -158,7 +162,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethermint](https://github.com/cosmos/ethermint) - Scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK. ([Docs](https://docs.ethermint.zone/))
 - [Frontier](https://github.com/paritytech/frontier) - Substrate's Ethereum compatibility layer. It allows you to run unmodified Ethereum dapps.
 - [Solang](https://github.com/hyperledger-labs/solang) - Solidity to wasm compiler written in rust. ([Docs](https://solang.readthedocs.io/en/latest/))
-- [Aave](https://aave.com/) - Open Source DeFi Protocol. ([Code](https://github.com/aave/protocol-v2))
+- [Aave](https://aave.com/) - Open Source DeFi Protocol. ([V2 Code](https://github.com/aave/protocol-v2)) ([V1 Code](https://github.com/aave/aave-protocol))
 - [evmone](https://github.com/ethereum/evmone) - C++ implementation of the Ethereum Virtual Machine (EVM).
 - [A Developer's Guide to Ethereum](https://snakecharmers.ethereum.org/a-developers-guide-to-ethereum-pt-1/)
 - [indexed.wtf](https://indexed.wtf/) - Collectively built hub for indexing scaling solutions for Ethereum.
@@ -240,7 +244,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Mantis](https://github.com/input-output-hk/mantis) - Scala based client for Ethereum-like Blockchains.
 - [Awesome-Uniswap v3](https://github.com/GammaStrategies/awesome-uniswap-v3)
 - [StakeWise](https://stakewise.io/) - Ethereum Proof Of Stake Pool and Solo Staking. ([GitHub](https://github.com/stakewise))
-- [Polygon](https://polygon.technology/) - Ethereum's Internet of Blockchains.
+- [Polygon](https://polygon.technology/) - Ethereum's Internet of Blockchains. ([Go SDK](https://github.com/0xPolygon/polygon-sdk)) ([Awesome](https://awesomepolygon.com/)) ([Explained](https://www.youtube.com/watch?v=IijtdpAtOt0))
 - [Connext](https://connext.network/) - Interoperability protocol for L2 Ethereum. ([GitHub](https://github.com/connext))
 - [simple-uniswap-sdk](https://github.com/uniswap-integration/simple-uniswap-sdk) - Uniswap SDK.
 - [Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts. ([Web](https://getwaffle.io/))
@@ -283,7 +287,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Learning resources used by the EthernautDAO](https://github.com/ethernautdao/resources)
 - [Ethereum Mars](https://github.com/EthWorks/Mars) - Infrastructure-as-code tool for Ethereum. ([Docs](https://ethereum-mars.readthedocs.io/en/latest/))
 - [Rainbow Bridge CLI](https://github.com/aurora-is-near/rainbow-bridge) - NEAR <> Ethereum Decentralized Bridge.
-- [Aurora](https://aurora.dev/) - Bridge + EVM Scaling Solution for Ethereum. ([Twitter](https://twitter.com/auroraisnear))
+- [Aurora](https://aurora.dev/) - Bridge + EVM Scaling Solution for Ethereum. ([Twitter](https://twitter.com/auroraisnear)) ([Docs](https://doc.aurora.dev/)) ([Docs Code](https://github.com/aurora-is-near/doc.aurora.dev))
 - [Solidity Template](https://github.com/ZumZoom/solidity-template) - Hardhat template for solidity projects with preconfigured Github Actions and Coveralls support.
 - [Otterscan](https://github.com/wmitsuda/otterscan) - Blazingly fast, local, Ethereum block explorer built on top of Erigon.
 - [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html) ([Code](https://github.com/sigp/solidity-security-blog))
@@ -295,3 +299,137 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [sibyl](https://github.com/dialecticch/sibyl) - An easy tool to apply transactions to the current EVM state. Optimized for MEV.
 - [Eth-Hooks](https://github.com/scaffold-eth/eth-hooks) - Commonly used Ethereum hooks.
 - [It costs $436 to deploy a smartcontract on Ethereum (2021)](https://twitter.com/eric_khun/status/1440899940453060608) ([HN](https://news.ycombinator.com/item?id=28625485))
+- [POA TokenBridge](https://github.com/poanetwork/tokenbridge) - Allows users to transfer assets between two chains in the Ethereum ecosystem.
+- [Cartesi RISC-V Solidity Emulator](https://github.com/cartesi/machine-solidity-step) - On-chain implementation of the Cartesi Machine.
+- [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
+- [Ethereum JSON-RPC Specification](https://github.com/ethereum/execution-apis)
+- [Solidity Shell](https://github.com/tintinweb/solidity-shell) - Interactive Solidity shell with lightweight session recording.
+- [ethcontract-rs](https://github.com/gnosis/ethcontract-rs) - Generate type-safe bindings for interacting with Ethereum contracts.
+- [Deth Node](https://github.com/dethcrypto/deth) - Ethereum Node focused on Developer Experience.
+- [Ethermint](https://github.com/tharsis/ethermint) - Scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK. ([Docs](https://evmos.dev/))
+- [Evmos](https://github.com/tharsis/evmos) - Scalable, high-throughput Proof-of-Stake blockchain that is fully compatible and interoperable with Ethereum.
+- [CFWeb3](https://github.com/cloudflare/cfweb3) - Web3 demo application. It uses Hardhat and Solidity to create an Ethereum smart contract. This code is a proof-of-concept showing how to build Web3 applications with Cloudflare.
+- [ultrasound.money](https://ultrasound.money/) - Tracking Ethereum. ([Twitter](https://twitter.com/ultrasoundmoney))
+- [EVM Toolkit (etk)](https://github.com/quilt/etk) - Collection of tools for writing, reading, and analyzing EVM bytecode.
+- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - Set of challenges to hack implementations of DeFi in Ethereum. Featuring flash loans, oracles, governance, NFTs, lending pools, and more. ([Code](https://github.com/OpenZeppelin/damn-vulnerable-defi))
+- [svgnft](https://github.com/mikker/svgnft) - Helper library for generating fully on-chain NFTs (ERC721) on Ethereum.
+- [Gigahorse binary lifter and toolchain](https://github.com/nevillegrech/gigahorse-toolchain) - Binary lifter (and related framework) from low-level EVM code to a higher-level function-based three-address representation, similar to LLVM IR or Jimple.
+- [Best way to stake Ethereum (2021)](https://www.reddit.com/r/ethereum/comments/q1nwt2/i_finally_have_1_eth_and_im_looking_for_the_best/)
+- [Projects for learning solidity and ethereum](https://github.com/antico5/solidity_learning)
+- [ethereal-react](https://github.com/kesne/ethereal-react) - Suspense-compatible React library for Ethereum development.
+- [Solidity on Replit: Diving into Web3 (2021)](https://blog.replit.com/solidity) ([Tweet](https://twitter.com/Replit/status/1448708682234089477))
+- [Proof of KYC](https://github.com/m1guelpf/proof-of-kyc) - NFT that proves you've gone through an identity verification process, powered by Stripe Identity.
+- [Minority Ethereum Client](https://github.com/karalabe/minority) ([Tweet](https://twitter.com/peter_szilagyi/status/1448956344699064333))
+- [Abracadabra Money](https://abracadabra.money/) - Loans that pay for themselves. ([Explained](https://www.youtube.com/watch?v=q-iDAkJkbIs)) ([Code](https://github.com/Abracadabra-money/magic-internet-money))
+- [Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+- [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper) - Uniswap V2-styled router new pool sniping in under 250 LOC. ([Tweet](https://twitter.com/_anishagnihotri/status/1450004265381007360))
+- [PRBProxy](https://github.com/paulrberg/prb-proxy) - Proxy contract to compose transactions on behalf of the owner.
+- [Go Ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol. ([Web](https://geth.ethereum.org/))
+- [Helios](https://github.com/taarushv/helios) - Tool built on-top of go-ethereum and the ELK stack to query and monitor the mempool.
+- [SLOAD2](https://github.com/0xsequence/sstore2) - Faster & cheaper contract key-value storage for Ethereum Contracts.
+- [Smart Batched Auctions](https://github.com/FrankieIsLost/smart-batched-auction) - Smart batch auctions follow the spankchain ICO model: during a bidding period, users are able to submit bids for a specificied quantity of tokens and price. ([Tweet](https://twitter.com/FrankieIsLost/status/1450490193136422918))
+- [Simple web3 starter with metamask and walletconnect](https://github.com/shivkanthb/web3-starter)
+- [Flashbots Resources](https://github.com/flashbots/pm)
+- [ethereum-multicall](https://github.com/joshstevens19/ethereum-multicall) - Ability to call many ethereum constant function calls in 1 JSONRPC request.
+- [Freely.Finance](https://freely.finance/) - Liquity protocol is controlled by nobody. All operations are algorithmic and fully automated using Ethereum smart contracts. ([Tweet](https://twitter.com/ErikVoorhees/status/1450905489793896448))
+- [zkEVM Specifications](https://github.com/appliedzkp/zkevm-specs) - Aims to define a validity snark proof for Ethereum transactions.
+- [Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)
+- [HyperCube](https://github.com/hypercube-lab/hypercube) - Ethereum 2-layer solution based on proof of POD dedication and an independent public chain.
+- [zero-protocol](https://github.com/zerodao-finance/zero-protocol) - Short term lending on Ethereum as a framework for cross-chain asset transfer.
+- [Radix DLT](https://www.radixdlt.com/) - Layer 1 DeFi done right.
+- [Niftyswap](https://github.com/0xsequence/niftyswap) - Decentralized swap protocol for ERC-1155 tokens, inspired by Uniswap.
+- [Origin](https://github.com/application-research/origin) - Fast web3 application toolkit.
+- [EVM Shell](https://github.com/tintinweb/evm-shell) - Hands-on interactive EVM repl/shell. Low-level ethereum virtual machine inspection.
+- [zkml core](https://github.com/zk-ml/demo) - Truly private machine learning, with zk-SNARKs and blockchain.
+- [Sword](https://github.com/Sword-Smith/Sword) - Declarative language for expressing fully-collateralized financial contracts.
+- [wETH](https://weth.io/) - ERC20 tradable version of ETH.
+- [zk-NFT](https://github.com/kevinz917/zk-NFT) - NFT powered by zkSNARKs that flips the concept of an NFT upside down.
+- [Notional Contracts V2](https://github.com/notional-finance/contracts-v2) - Fixed rate lending and borrowing platform, built on Ethereum.
+- [The Solcurity Standard](https://github.com/Rari-Capital/solcurity) - Opinionated security and code quality standard for Solidity smart contracts.
+- [Revolutionary Machine (revm)](https://github.com/bluealloy/revm) - Rust Ethereum Virtual Machine that is focused on speed and simplicity.
+- [REVMjs](https://github.com/bluealloy/revm/tree/main/crates/revmjs) - REVM library for JS.
+- [evmodin](https://github.com/vorot93/evmodin) - Fast EVM implementation with support for resumability. Port of evmone to Rust.
+- [Web3 Starter](https://github.com/iMuzz/web3-starter) ([Web](https://www.web3starter.xyz/))
+- [EIP validator](https://github.com/lightclient/eipv) - Ethereum Improvement Proposal Validator.
+- [Best ways to stake Eth (2021)](https://www.reddit.com/r/ethereum/comments/qmfx43/coinbase_eth_staking_rewards_have_dropped_down/)
+- [StarkNet](https://starkware.co/starknet/) - Permissionless Decentralized ZK-Rollup. Operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation. [(JS Client](https://github.com/seanjameshan/starknet.js)) ([Starknet Rust Code](https://github.com/eqlabs/pathfinder))
+- [OpenZeppelin Nile](https://github.com/OpenZeppelin/nile) - CLI tool to develop StarkNet projects written in Cairo.
+- [Yield Protocol Liquidator](https://github.com/yieldprotocol/yield-liquidator) - Utility for force-closing undercollateralized Yield Protocol loans and participating in dutch auctions with liquidity sourced by Uniswap flash loans.
+- [Ray tracing on the Ethereum Virtual Machine](https://github.com/axic/snailtracer)
+- [Ethereum Sentry](https://github.com/akula-bft/sentry) - Ethereum P2P network service.
+- [nextjs-dapp-starter-ts](https://github.com/G3root/nextjs-dapp-starter-ts) - Full stack monorepo template to develop ethereum dapps.
+- [Hiding in Plain Sight (2021)](https://www.paradigm.xyz/2021/11/hiding-in-plain-sight/) ([Tweet](https://twitter.com/samczsun/status/1458818301199540226))
+- [Studio 721](https://www.721.so/) - Free tool for configuring, compiling, deploying, and verifying custom ERC 721 NFT smart contracts.
+- [Birthblock](https://www.birthblock.art/) - NFT with art and attributes based on the data from your first transaction on Ethereum. ([Tweet](https://twitter.com/BrennerSpear/status/1458946945880244228))
+- [Manipulating Uniswap v3 TWAP Oracles (2021)](https://github.com/euler-xyz/uni-v3-twap-manipulation/blob/master/cost-of-attack.pdf) ([Tweet](https://twitter.com/euler_mab/status/1459314402059034634))
+- [Euler](https://www.euler.finance/#/) - Non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset. ([GitHub](https://github.com/euler-xyz))
+- [eth-sdk](https://github.com/dethcrypto/eth-sdk) - Type-safe, lightweight SDKs for your Ethereum smart contracts.
+- [Qasr](https://github.com/mortimr/qasr) - ETH <=> Starknet NFT Bridge.
+- [evmdis](https://github.com/Arachnid/evmdis) - EVM disassembler.
+- [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/) - Geth, Truffle,Drizzle web3.js,ethers.js, smart contract patterns and solidity assembly. ([Code](https://github.com/GeorgeBrownCollege-Toronto/Advanced-Smart-Contracts))
+- [Cut Minting Gas Costs By Up To 70% With One Smart Contract Tweak (2021)](https://shiny.mirror.xyz/OUampBbIz9ebEicfGnQf5At_ReMHlZy0tB4glb9xQ0E)
+- [Solidity team AMAs](https://forum.soliditylang.org/t/solidity-team-ama-3-on-wed-17th-of-november-2021/627)
+- [EVM Bytecode Disassembler](https://github.com/0xalpharush/evm-disassembler) - Disassembler parses evm bytecode from the command line or from a file.
+- [L2Fees.info](https://l2fees.info/) - Ethereum Layer-1 is expensive. How much does it cost to use Layer-2?
+- [L2BEAT](https://l2beat.com/) - The state of the layer two ecosystem. ([Code](https://github.com/l2beat/l2beat))
+- [Layer 2 Rollups | Ethereum](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
+- [Guide: How to use Loopring L2 (2021)](https://medium.com/loopring-protocol/guide-how-to-use-loopring-l2-a267d005255b)
+- [StarkOps](https://github.com/seanjameshan/starkops) - StarkNet Toolchain CLI written in TypeScript.
+- [zkPorter offers 1-3 cent transaction fees, yet is magnitudes more secure and decentralized than any other L1 or sidechain ELI (2021)](https://twitter.com/0xangelfish/status/1460741464757919744)
+- [Tinlake Contracts](https://github.com/centrifuge/tinlake) - Bringing individual, non-fungible assets to DeFi.
+- [EthDecoder](https://ethtx.info/) - Open source decoder of blockchain transactions. ([Code](https://github.com/EthTx/ethtx_ce))
+- [YAM Protocol](https://github.com/yam-finance/yam-protocol) - Stablizing reserve currency protocol.
+- [ethereum-tx-sign](https://github.com/synlestidae/ethereum-tx-sign) - Allows you to sign Ethereum transactions offline.
+- [Sign-In with Ethereum library and example app](https://github.com/spruceid/siwe)
+- [OpenLaw](https://www.openlaw.io/) - Next generation smart legal agreements. ([GitHub](https://github.com/openlawteam))
+- [Multi Collateral Dai](https://github.com/makerdao/dss)
+- [Ethereum Project Management: Meeting notes and agenda items](https://github.com/ethereum/pm)
+- [Chainlist](https://networklist-org.vercel.app/) - Helping users connect to EVM powered networks. ([Code](https://github.com/antonnell/networklist-org))
+- [MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - Drips ETH, tokens, and NFTs across many testnet networks, at once.
+- [Awesome StarkNet](https://github.com/gakonst/awesome-starknet)
+- [Loopring](https://loopring.org/#/) - zkRollup DEX & Payment Protocol. ([Code](https://github.com/Loopring/protocols)) ([GitHub](https://github.com/Loopring))
+- [Resources on StarkWare/Cairo/StarkNet (2021)](https://twitter.com/gakonst/status/1463138930992295942)
+- [SolGrep](https://github.com/tintinweb/solgrep) - Scriptable semantic grep utility for solidity.
+- [Starknet DAI Bridge](https://github.com/makerdao/starknet-dai-bridge)
+- [Remix Project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions. ([Docs](https://remix-ide.readthedocs.io/en/latest/))
+- [Eth2 Remote Signer](https://github.com/prysmaticlabs/remote-signer) - Remote signer server reference implementation for eth2.
+- [The Senior Solidity Engineer's Book](https://solidity-book.netlify.app/) ([Code](https://github.com/gakonst/solidity-book))
+- [Peggo](https://github.com/celestiaorg/quantum-gravity-bridge) - Celestia -> EVM bridge.
+- [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
+- [Smock](https://github.com/defi-wonderland/smock) - Solidity mocking library.
+- [Interfaces for turbo-geth components](https://github.com/ledgerwatch/interfaces)
+- [Proofs of Custody (2021)](https://dankradfeist.de/ethereum/2021/09/30/proofs-of-custody.html)
+- [Roadmap diagram for where Ethereum protocol development is at and what's coming in what order (2021)](https://twitter.com/VitalikButerin/status/1466411377107558402)
+- [dYdX](https://dydx.exchange/) - Open protocol for decentralized derivatives built on the Ethereum blockchain. ([GitHub](https://github.com/dydxprotocol))
+- [Dodoc](https://github.com/primitivefinance/primitive-dodoc) - Zero-config Hardhat plugin to generate documentation for all your Solidity contracts.
+- [Opinionated Dapp Starter Template](https://github.com/jellydn/dapp-starter)
+- [Bor](https://github.com/maticnetwork/bor) - Official Go implementation of the Matic protocol. Fork of Go Ethereum.
+- [web3swift](https://github.com/skywinder/web3swift) - iOS toolbelt for interaction with the Ethereum network.
+- [Cannon](https://github.com/geohot/cannon) - On chain interactive fraud prover for Ethereum.
+- [The 0 to 1 guide for MEV](https://github.com/0xmebius/mev/blob/main/MEV101.pdf)
+- [Flashbots Protect RPC Endpoint](https://github.com/flashbots/rpc-endpoint)
+- [web3-ui](https://github.com/Developer-DAO/web3-ui) - Library of UI components specifically crafted for web3 use cases.
+- [Subway](https://github.com/libevm/subway) - Practical example on how to perform sandwich attacks on Ethereum.
+- [Foundry](https://github.com/gakonst/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [Optimistic Ethereum Tutorials](https://github.com/ethereum-optimism/optimism-tutorial)
+- [The Portal Network](https://github.com/ethereum/portal-network-specs) - Specifications for the Stateless Ethereum research effort.
+- [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum contracts in VSCode.
+- [Multicall](https://github.com/makerdao/multicall) - Aggregate multiple constant function call results into one.
+- [Revoke.cash](https://revoke.cash/) - Revoke your ERC20 token allowances. ([Code](https://github.com/rkalis/revoke.cash))
+- [Earnifi](https://earni.fi/) - Find Crypto Airdrops.
+- [MEV-geth](https://github.com/flashbots/mev-geth) - Go implementation of MEV-Auction for Ethereum.
+- [prettier-config-solidity](https://github.com/sambacha/prettier-config-solidity) - Prettier config optimized to reduce AST churn & conform to solidity spec.
+- [Safari Wallet](https://safariwallet.org/) - Forkable EVM wallet for everyone. ([Web Code](https://github.com/Safari-Wallet/safariwallet.org))
+- [Hardhat ABI Exporter](https://github.com/ItsNickBarry/hardhat-abi-exporter) - Export Solidity contract ABIs on compilation.
+- [Uniswap Swap Router](https://github.com/Uniswap/swap-router-contracts) - Smart contracts for swapping on Uniswap V2 and V3.
+- [Finding a Creature in Ethereum's Dark Forest (2021)](https://bertcmiller.com/2021/12/28/glimpse_nonce_reuse.html) ([HN](https://news.ycombinator.com/item?id=29716274))
+- [Anatomy of an MEV Strategy: Synthetix (2021)](https://www.bertcmiller.com/2021/09/05/mev-synthetix.html)
+- [Merkle Airdrop Starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter) - Quickly bootstrap an ERC20 token airdrop to a Merkle tree of recipients.
+- [teEther](https://github.com/nescio007/teether) - Analysis and automatic exploitation framework for Ethereum smart contracts.
+- [beth.sh](https://github.com/th4s/beth) - CLI for Ethereum with a focus on portability.
+- [Slashing Proofs](https://github.com/michaelsproul/slashing-proofs) - Formal proofs about Ethereum slashing protection strategies.
+- [Lua Cash](https://www.lua.cash/) - Issue a token in 1 click. Your custom ERC20 on Polygon in less than a minute, <$0.1 in fees.
+- [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for starknet development.
+- [Ying-Yang](https://github.com/exp-table/ying-yang) - Pay on Ethereum, mint on Starknet.
+- [Aegis](https://github.com/Chainstride-Capital/aegis) - Ethereum smart contracts to shield you from bad actors and mempool snipers when listing a new token on a decentralized exchange.
+- [ethereal](https://github.com/wealdtech/ethereal) - Command-line tool for managing common tasks in Ethereum.

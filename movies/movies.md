@@ -9,6 +9,7 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 ## Notes
 
 - [Some film critics to follow](https://www.reddit.com/r/flicks/comments/7lgwp1/having_a_hard_time_finding_quality_critics_on/)
+- [It's good to sort reviews by recent as you can find fresh perspectives/accounts this way.](https://www.reddit.com/r/Letterboxd/comments/r6914v/something_ive_been_doing_on_letterboxd_that_i/)
 
 ## Links
 
@@ -59,3 +60,18 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Movie-Map](https://www.movie-map.com/) - Find Similar Movies.
 - [26 Overlooked Movies to Watch This Fall (2021)](https://www.theatlantic.com/culture/archive/2021/09/26-movies-fall-watch-list/619975/)
 - [Films to Films Twitter](https://twitter.com/FilmstoFilms_)
+- [Your favorite movie? (2021)](https://merveilles.town/web/statuses/107033660965225287)
+- [Lost In Film](https://twitter.com/LostInFilm) - Visual publication dedicated to cinema that celebrates the best arthouse, independent & classic films. ([IG](https://www.instagram.com/_lostinfilm/))
+- [Flick Metrix](https://flickmetrix.com/) - Best Movies on Netflix Right Now.
+- [Movio](https://movio.co/) - Shaping the future of movie marketing. ([GitHub](https://github.com/movio))
+- [8 Books That Should Be Movies: What Hollywood Should Adapt After Dune (2021)](https://variety.com/2021/film/news/book-movie-adaptations-1235095659/)
+- [“Dune” (The Movie), Annotated (2021)](https://maxread.substack.com/p/dune-annotated) ([HN](https://news.ycombinator.com/item?id=29011467))
+- [Your top movies for 2021](https://twitter.com/letterboxd/status/1456005237588692992)
+- [Netflix Top 10 Movies - Global](https://top10.netflix.com/) ([HN](https://news.ycombinator.com/item?id=29246485))
+- [What are your favorite movie podcasts? (2021)](https://www.reddit.com/r/Letterboxd/comments/qy8ojg/what_are_your_favorite_movie_podcasts/)
+- [Evemovies Bot](https://github.com/dmbaranov/evemovies-bot) - Track torrent releases of movies.
+- [Mood2Movie: Top-rated movies based on your mood](https://www.mood2movie.com/) ([HN](https://news.ycombinator.com/item?id=29359966))
+- [Best movies that involve gambling as the main event?](https://www.reddit.com/r/MovieSuggestions/comments/r776gl/best_movies_that_involve_gambling_as_the_main/)
+- [The 50 best films of 2021](https://www.bfi.org.uk/sight-and-sound/polls/50-best-films-2021)
+- [BFI](https://www.bfi.org.uk/) - Film, TV & the moving image. ([Twitter](https://twitter.com/BFI))
+- [Movies which had a big twist that it left you speechless](https://www.reddit.com/r/MovieSuggestions/comments/rs53pu/movies_which_had_a_big_twitst_that_it_left_you/)

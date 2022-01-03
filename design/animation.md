@@ -4,7 +4,7 @@
 
 - [Alexander Perrin](https://alexanderperrin.com.au/) - Has a passion for meticulous dynamics, detailed digital rendering techniques and cats.
 - [Balloon animation](https://alexanderperrin.com.au/triangles/ballooning/)
-- [Manim](https://github.com/3b1b/manim) - Mathematical Animation Engine made by Grant Sanderson. ([HN](https://news.ycombinator.com/item?id=24926947)) ([HN](https://news.ycombinator.com/item?id=26498527)) ([Manim Community](https://www.manim.community/)) ([Community Fork](https://github.com/ManimCommunity/manim)) ([Manim.js](https://github.com/JazonJiao/Manim.js)) ([Docs](https://3b1b.github.io/manim/index.html)) ([HN](https://news.ycombinator.com/item?id=28245277))
+- [Manim](https://github.com/3b1b/manim) - Mathematical Animation Engine made by Grant Sanderson. ([HN](https://news.ycombinator.com/item?id=24926947)) ([HN](https://news.ycombinator.com/item?id=26498527)) ([Manim Community](https://www.manim.community/)) ([Community Fork](https://github.com/ManimCommunity/manim)) ([Manim.js](https://github.com/JazonJiao/Manim.js)) ([Docs](https://3b1b.github.io/manim/index.html)) ([HN](https://news.ycombinator.com/item?id=28245277)) ([Learn Manim - Full Course for Beginners](https://www.youtube.com/watch?v=KHGoFDB-raE))
 
 - [Loom](https://iorama.studio/looom) - Hand drawn animation tool on iPad.
 - [React-spring visualizer](https://react-spring-visualizer.com/) - Missing visualizer for your react-spring UI animations.
@@ -16,7 +16,7 @@
 - [Animation worklet: the 4 missing features (2020)](https://inventingwithmonster.io/20200203-animationworklet-the-missing-pieces/)
 - [The ultimate guide to proper use of animation in UX (2018)](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 - [Pose](https://galshir.com/pose/) - Simple web app for character posing.
-- [Lottie](http://airbnb.io/lottie/#/) - Parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web. ([Code](https://github.com/airbnb/lottie)) ([Lottie for iOS, macOS](https://github.com/airbnb/lottie-ios))
+- [Lottie](http://airbnb.io/lottie/#/) - Use after effects animations in web and native apps. ([Code](https://github.com/airbnb/lottie)) ([Lottie for iOS, macOS](https://github.com/airbnb/lottie-ios)) ([HN](https://news.ycombinator.com/item?id=29634114))
 - [Ke-Sen Huang's research on animation synthesis, animation summarization, and motion retrieval](https://kesen.realtimerendering.com/)
 - [Rive](https://rive.app/) - Bring your apps and games to life with real-time animation. ([Beta](https://beta.rive.app/))
 - [Hashflag Gallery Animations](https://hashflaggallery.com/)
@@ -52,3 +52,16 @@
 - [Animation Is Eating The World (2019)](http://www.michaeldempsey.me/animation/) ([Tweet](https://twitter.com/mhdempsey/status/1151533880412909570))
 - [The Real Story of Pixar (2021)](https://spectrum.ieee.org/the-real-story-of-pixar) ([HN](https://news.ycombinator.com/item?id=28053810))
 - [LottieFiles](https://lottiefiles.com/) - Lightweight, scalable animations for your website and apps. ([GitHub](https://github.com/LottieFiles)) ([Twitter](https://twitter.com/LottieFiles))
+- [Code vs Data Driven Displacement (2021)](https://theorangeduck.com/page/code-vs-data-driven-displacement) ([Code](https://github.com/orangeduck/Motion-Matching))
+- [Animation using Vite + Vue 3 + Tailwind CSS Talk](https://github.com/callumacrae/animation-talk-demo)
+- [Bringing back Cartoon Modern, a rare animation artbook (2021)](https://animationobsessive.substack.com/p/our-treat-to-you) ([HN](https://news.ycombinator.com/item?id=29075386))
+- [Towards an animation smoothness metric (2021)](https://web.dev/smoothness/)
+- [MakeItTalk: Speaker-Aware Talking-Head Animation (2020)](https://people.umass.edu/~yangzhou/MakeItTalk/) ([Code](https://github.com/czczup/URST)) ([Code](https://github.com/adobe-research/MakeItTalk))
+- [Free Practical Guide to Web Animation](https://tilda.education/en/web-animation-course)
+- [Editor and Presenter for Manim Generated Content](https://github.com/ManimCommunity/manim_editor)
+- [Learn React Animations by Creating a Stripe inspired Menu](https://www.mikealche.com/software-development/learn-react-animations-by-creating-a-stripe-inspired-menu)
+- [Simplicial Fluid on triangle meshes](https://yhesper.github.io/projects/2_project_simpfluid/)
+- [Haiku Animator](https://www.haikuanimator.com/) - Design tool for creating Lottie animations and interactive web components. ([Code](https://github.com/HaikuTeam/animator))
+- [midori](https://github.com/aeroheim/midori) - Library for animating image backgrounds in websites using WebGL.
+- [ossos](https://github.com/sketchpunklabs/ossos) - Character Animation Library.
+- [GreenSock](https://greensock.com/) - Professional-grade animation for the modern web. ([Code](https://github.com/greensock/GSAP))

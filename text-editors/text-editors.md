@@ -23,7 +23,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [RichEditorView](https://github.com/YoomamaFTW/RichEditorView) - Rich Text Editor in Swift.
 - [lite](https://github.com/rxi/lite) - Lightweight text editor written in Lua. ([Plugins](https://github.com/rxi/lite-plugins)) ([Implementation Overview](https://rxi.github.io/lite_an_implementation_overview.html)) ([Cached Software Rendering](https://rxi.github.io/cached_software_rendering.html))
 - [Blockly](https://github.com/google/blockly) - Web-based, visual programming editor.
-- [Micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor. ([HN](https://news.ycombinator.com/item?id=23334190))
+- [Micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor. ([HN](https://news.ycombinator.com/item?id=23334190)) ([Web](https://micro-editor.github.io/)) ([HN](https://news.ycombinator.com/item?id=29128702))
 - [Lime Text](https://github.com/limetext/lime) - Powerful and elegant text editor primarily developed in Go.
 - [Geany](https://www.geany.org/) - Fast and lightweight IDE. ([Code](https://github.com/geany/geany)) ([HN](https://news.ycombinator.com/item?id=23524336))
 - [Xi Editor](https://github.com/xi-editor/xi-editor) - Modern editor with a backend written in Rust. ([Web](https://xi-editor.io/)) ([Lobsters](https://lobste.rs/s/zkupa1/xi_editor))
@@ -56,13 +56,26 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Led](https://github.com/cessen/led) - Simple console-based text editor, written in Rust and using Ropey as its text buffer.
 - [react-tapable-editor](https://github.com/ryuever/react-tapable-editor) - Pluginable, intuitive medium/notion like rich text editor.
 - [focus](https://github.com/jamii/focus) - Low-latency text editor in Zig.
-- [Lite XL](https://github.com/lite-xl/lite-xl) - Lightweight text editor written in Lua. ([Web](https://lite-xl.github.io/))
+- [Lite XL](https://github.com/lite-xl/lite-xl) - Lightweight text editor written in Lua. ([Web](https://lite-xl.github.io/)) ([HN](https://news.ycombinator.com/item?id=28669439))
 - [Plain web text editor](https://github.com/pacocoursey/writer)
 - [Opus](https://github.com/pacocoursey/Opus) - Minimal note-taking app.
+- [React Oxide](https://github.com/bootrino/reactoxide) - open source ReactJS code editor with tabs, files & webDAV. ([HN](https://news.ycombinator.com/item?id=28702006))
+- [Tincta](https://github.com/CodingFriends/Tincta) - Free text editor for Mac with focus on speed, stability and ease of use.
+- [Zee](https://github.com/mcobzarenco/zee) - Modern text editor for the terminal written in Rust.
+- [Glyph](https://github.com/zackradisic/glyph) - Personal code editor built with Rust + OpenGL.
+- [freja](https://github.com/saikyun/freja) - Self-modifiable text editor implemented in Janet.
+- [Lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. ([HN](https://news.ycombinator.com/item?id=29549173)) ([Reddit](https://www.reddit.com/r/rust/comments/rg3k9o/lightningfast_and_powerful_code_editor_written_in/))
+- [Zed](https://zed.dev/) - Lightning-fast, collaborative code editor written in Rust (Atom team). ([HN](https://news.ycombinator.com/item?id=29566960))
+- [MarkupEditor](https://github.com/stevengharris/MarkupEditor) - WYSIWYG editing for SwiftUI and UIKit apps.
+- [cl-editor](https://github.com/nenadpnc/cl-editor) - Lightweight text editor built with svelte, TypeScript.
+- [Ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
+- [Molecule](https://github.com/DTStack/molecule) - Lightweight Web IDE UI framework which is built with React.js and inspired by the VSCode.
+- [react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React.
 
 ## Web
 
-- [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web. ([Code](https://github.com/ProseMirror/prosemirror)) ([Developer Tools for ProseMirror](https://github.com/d4rkr00t/prosemirror-dev-tools)) ([View Component](https://github.com/ProseMirror/prosemirror-view)) ([Utils library for ProseMirror](https://github.com/atlassian/prosemirror-utils))
+- [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web. ([Code](https://github.com/ProseMirror/prosemirror)) ([Developer Tools for ProseMirror](https://github.com/d4rkr00t/prosemirror-dev-tools)) ([View Component](https://github.com/ProseMirror/prosemirror-view)) ([Utils library for ProseMirror](https://github.com/atlassian/prosemirror-utils)) ([prosemirror-markdown](https://github.com/ProseMirror/prosemirror-markdown))
+- [Pragmatic ProseMirror guide](https://github.com/PierBover/prosemirror-cookbook)
 - [rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - React and Prosemirror based editor that powers Outline and can also be used for displaying content in a read-only fashion.
 - [Remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React. ([Web](https://remirror.io/))
 - [draft.js](https://github.com/facebook/draft-js) - React framework for building text editors.
@@ -89,6 +102,8 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Milkdown](https://github.com/Saul-Mirone/milkdown) - WYSIWYG markdown editor.
 - [Rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative text editor, self-hosted, no database required. ([Web](https://rustpad.io/)) ([HN](https://news.ycombinator.com/item?id=27408326))
 - [ProseMirror + React + TypeScript example editor](https://github.com/TeemuKoivisto/prosemirror-react-typescript-example)
+- [deepnotes-editor](https://github.com/mukeshsoni/deepnotes-editor) - Workflowy like editor built with draft-js.
+- [Nib](https://github.com/nib-edit/nib) - Wysiwyg / Text editor components built using React and Prosemirror. ([Web](http://www.nibedit.com/index.html))
 
 ## Links
 
@@ -135,3 +150,20 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Yi](https://github.com/yi-editor/yi) - Haskell-Scriptable Editor.
 - [Plate](https://github.com/udecode/plate) - Plugin framework for building rich text editors with slate. ([Web](https://plate.udecode.io/))
 - [Monaco language client](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers.
+- [Code blocks, but better (2021)](https://ped.ro/blog/code-blocks-but-better)
+- [Which editor/IDE does Bisqwit use? Answers & some history. (2019)](https://www.youtube.com/watch?v=ZMBQmhO8KqI)
+- [Thoughts on Structured Editing: Breaking Away from Syntax (2020)](https://mbuffett.com/posts/structured-editing-syntax/)
+- [Subtext](https://github.com/gordonbrander/subtext) - Text-based, block-oriented hypertext format.
+- [Vite Plugin Monaco Editor](https://github.com/vdesjs/vite-plugin-monaco-editor) - Plugin to simplify loading the Monaco Editor with vite.
+- [prisma/text-editors](https://github.com/prisma/text-editors) - Exports a bunch of batteries-included code editors for Typescript, JSON, SQL & Prisma Schemas.
+- [prosemirror-dev-toolkit](https://github.com/TeemuKoivisto/prosemirror-dev-toolkit) - Injectable developer tools for ProseMirror rich-text editors implemented in Svelte and TypeScript.
+- [IDEs and Macros (2021)](https://rust-analyzer.github.io//blog/2021/11/21/ides-and-macros.html)
+- [ProseMirror + CodeMirror 6](https://github.com/sibiraj-s/prosemirror-codemirror-6)
+- [codemirror/autocomplete](https://github.com/codemirror/autocomplete) - Autocompletion for the CodeMirror code editor.
+- [What's the Future of IDEs? (2021)](https://giansegato.com/essays/what-future-ides/) ([HN](https://news.ycombinator.com/item?id=29304667))
+- [use-prosemirror](https://github.com/dminkovsky/use-prosemirror) - ProseMirror + React made easy.
+- [JetBrains Fleet](https://www.jetbrains.com/fleet/) - The Next-Generation IDE by JetBrains. ([HN](https://news.ycombinator.com/item?id=29377412))
+- [On the design of text editors (2020)](https://arxiv.org/abs/2008.06030) ([Tweet](https://twitter.com/jackrusher/status/1465600879382437892))
+- [List of structural editors](https://github.com/yairchu/list-of-structural-editors)
+- [Outline](https://outline.dev/) - Extensible text editor library that does things differently. ([Tweet](https://twitter.com/trueadm/status/1472377356044099587))
+- [Rosé Pine themes](https://rosepinetheme.com/) ([Code](https://github.com/rose-pine/rose-pine-theme))

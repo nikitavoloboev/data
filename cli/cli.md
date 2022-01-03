@@ -32,7 +32,7 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [cheat](https://github.com/cheat/cheat) - Allows you to create and view interactive cheatsheets on the command-line. ([HN](https://news.ycombinator.com/item?id=24195122))
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
 - [An Illustrated Guide to Useful Command Line Tools (2019)](https://www.wezm.net/technical/2019/10/useful-command-line-tools/) ([Lobsters](https://lobste.rs/s/pven1z/illustrated_guide_some_useful_command)) ([HN](https://news.ycombinator.com/item?id=21363121))
-- [uutils coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils.
+- [uutils coreutils](https://github.com/uutils/coreutils) - Coreutils Rewritten in Rust. ([HN](https://news.ycombinator.com/item?id=29456115))
 - [The Language Agnostic, All-Purpose, Incredible, Makefile (2019)](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html) ([Lobsters](https://lobste.rs/s/ots6gm/language_agnostic_all_purpose)) ([HN](https://news.ycombinator.com/item?id=21566530))
 - [CLI: improved (2018)](https://remysharp.com/2018/08/23/cli-improved)
 - [Awesome CLI apps](https://github.com/agarrharr/awesome-cli-apps)
@@ -64,3 +64,21 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html) ([HN](https://news.ycombinator.com/item?id=28354194))
 - [Awk: The Power and Promise of a 40-Year-Old Language (2021)](https://www.fosslife.org/awk-power-and-promise-40-year-old-language) ([HN](https://news.ycombinator.com/item?id=28441887))
 - [buke](https://github.com/epilys/buke) - Full text search man pages.
+- [Renamer](https://github.com/75lb/renamer) - Rename files in bulk.
+- [CLI Testing Tool](https://github.com/saurabhdaware/cli-testing-tool) - Testing library that allows you to test input and outputs of your CLI command.
+- [bvm](https://github.com/bvm/bvm) - Binary Version Manager.
+- [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
+- [mdbook-man](https://github.com/vv9k/mdbook-man) - Generate man pages from mdBooks.
+- [Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development (2021)](https://www.smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/)
+- [GoAWK](https://github.com/benhoyt/goawk) - AWK interpreter written in Go. ([Article](https://benhoyt.com/writings/goawk/))
+- [htop](https://github.com/htop-dev/htop) - Cross-platform interactive process viewer. ([Web](https://htop.dev/))
+- [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
+- [Ask HN: What are the best and worst command-line interfaces you have used? (2021)](https://news.ycombinator.com/item?id=29329607)
+- [Command Line Magic Twitter](https://twitter.com/climagic) ([Web](http://www.climagic.org/))
+- [Tips on adding JSON output to your CLI app (2021)](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/) ([HN](https://news.ycombinator.com/item?id=29435786))
+- [Why and How to add changelog in your next CLI (2021)](https://bhupesh-v.github.io/why-how-add-changelog-in-your-next-cli/)
+- [A practical overview of most useful Unix tools (2021)](https://medium.com/fundbox-engineering/cheating-at-a-company-group-activity-using-unix-tools-5c1d706f3d58) ([HN](https://news.ycombinator.com/item?id=29528439))
+- [fq](https://github.com/wader/fq) - jq for binary formats. ([HN](https://news.ycombinator.com/item?id=29657094))
+- [termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output.
+- [aqua](https://github.com/aquaproj/aqua) - CLI tool to install CLI tools with declarative YAML configuration. ([Docs](https://aquaproj.github.io/docs/tutorial-basics/quick-start/))
+- [Supreme](https://github.com/opendevtools/supreme) - Add configurations, GitHub actions and get started quickly with new projects.

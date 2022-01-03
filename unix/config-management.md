@@ -30,3 +30,14 @@
 - [Configuration (and configuration files) is not and cannot be generic (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigurationIsNotGeneric) ([Lobsters](https://lobste.rs/s/v8iqgb/configuration_configuration_files_is))
 - [Quinine](https://github.com/krandiash/quinine) - Library to create and manage configuration files, especially for machine learning projects.
 - [The KDL Document Language](https://kdl.dev/) ([HN](https://news.ycombinator.com/item?id=28510031))
+- [Apollo](https://github.com/apolloconfig/apollo) - Reliable configuration management system suitable for microservice configuration management scenarios. ([Web](https://www.apolloconfig.com/#/))
+- [envy](https://github.com/matt4biz/envy) - Use envy to manage environment variables with your OS keychain.
+- [OmegaConf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
+- [Dotenv CLI](https://github.com/dotenv-org/cli) - Command line tool that syncs your .env files across machines and between your team members. Like 1Password, but for developers.
+- [carvel-imgpkg](https://github.com/vmware-tanzu/carvel-imgpkg) - Store application configuration files in Docker/OCI registries.
+- [YAML: It's Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml) ([HN](https://news.ycombinator.com/item?id=29220320))
+- [The Perfect Configuration Format? Try TypeScript](https://reflect.run/articles/typescript-the-perfect-file-format/) ([HN](https://news.ycombinator.com/item?id=29254679))
+- [jk](https://github.com/jkcfg/jk) - Configuration as Code with ECMAScript. ([Web](https://jkcfg.github.io/#/))
+- [dxcfg](https://github.com/dxcfg/dxcfg) - Configuration as code tooling for the masses. Opinionated port of jkcfg API to deno.
+- [Heptagon of Configuration (2019)](https://matt-rickard.com/heptagon-of-configuration/?s=09)
+- [Itamae](https://github.com/itamae-kitchen/itamae) - Simple and lightweight configuration management tool inspired by Chef.

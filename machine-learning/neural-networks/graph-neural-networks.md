@@ -2,8 +2,9 @@
 
 ## Links
 
+- [A practical introduction to GNNs (2021)](https://danielegrattarola.github.io/posts/2021-03-03/gnn-lecture-part-1.html)
+- [Spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2. ([Docs](https://graphneural.network/))
 - [A Comprehensive Survey on Graph Neural Networks (2019)](https://arxiv.org/pdf/1901.00596.pdf)
-- [Spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow.
 - [Graph Neural Networks in TF2](https://github.com/microsoft/tf2-gnn)
 - [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (2019)](https://github.com/KangchengHou/gntk)
 - [Strategies for Pre-training Graph Neural Networks](https://github.com/snap-stanford/pretrain-gnns)
@@ -59,3 +60,26 @@
 - [CapsGNN: Capsule Graph Neural Networks in PyTorch](https://github.com/benedekrozemberczki/CapsGNN)
 - [A Gentle Introduction to Graph Neural Networks (2021)](https://distill.pub/2021/gnn-intro/)
 - [Understanding Convolutions on Graphs (2021)](https://distill.pub/2021/understanding-gnns/)
+- [GraphNeuralNetworks.jl](https://github.com/CarloLucibello/GraphNeuralNetworks.jl) - Graph Neural Networks in Julia.
+- [MilaGraph](https://github.com/DeepGraphLearning) - Research group focusing on graph representation learning and graph neural networks.
+- [Modeling Relational Data with Graph Convolutional Networks (2017)](https://arxiv.org/abs/1703.06103) ([Code](https://github.com/MichSchli/RelationPrediction))
+- [GNNLens2](https://github.com/dmlc/GNNLens2) - Visualization tool for Graph Neural Networks.
+- [Hierarchical Graph Representation Learning with Differentiable Pooling (2018)](https://arxiv.org/abs/1806.08804) ([Code](https://github.com/RexYing/diffpool))
+- [VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization (2021)](https://arxiv.org/abs/2110.14363)
+- [Pitfalls of Graph Neural Network Evaluation (2019)](https://arxiv.org/abs/1811.05868) ([Code](https://github.com/shchur/gnn-benchmark))
+- [Understanding Pooling in Graph Neural Networks (2021)](https://arxiv.org/abs/2110.05292) ([Code](https://github.com/danielegrattarola/SRC))
+- [Spectral Clustering with Graph Neural Networks for Graph Pooling (2020)](https://arxiv.org/abs/1907.00481) ([Code](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling))
+- [Graph Robustness Benchmark (GRB)](https://github.com/THUDM/grb) - Scalable, unified, modular, and reproducible benchmark for evaluating the adversarial robustness of Graph Machine Learning.
+- [TensorFlow GNN](https://github.com/tensorflow/gnn) - Library to build Graph Neural Networks on the TensorFlow platform. ([Article](https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html))
+- [Graph Neural Networks through the lens of Differential Geometry and Algebraic Topology (2021)](https://towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f) ([Tweet](https://twitter.com/mmbronstein/status/1461366066282569734))
+- [DGN](https://github.com/PKU-AI-Edge/DGN) - Graph convolutional reinforcement learning, where the multi-agent environment is modeled as a graph, each agent is a node, and the encoding of local observation of agent is the feature of node.
+- [SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials (2021)](https://arxiv.org/abs/2101.03164) ([Tweet](https://twitter.com/simonbatzner/status/1348642158308425732))
+- [On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features (2021)](https://arxiv.org/abs/2111.12128) ([Tweet](https://twitter.com/emaros96/status/1466093631698358275))
+- [Graph Neural Networks as Neural Diffusion PDEs (2021)](https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-as-neural-diffusion-pdes)
+- [PyTorch Implementation and Explanation of Graph Representation Learning papers: DeepWalk, GCN, GraphSAGE, ChebNet & GAT](https://github.com/dsgiitr/graph_nets)
+- [Exact Combinatorial Optimization with Graph Convolutional Neural Networks (2021)](https://arxiv.org/abs/1906.01629) ([Code](https://github.com/ds4dm/learn2branch))
+- [A Recipe for Training Neural Networks (2019)](http://karpathy.github.io/2019/04/25/recipe/)
+- [GraphSAINT: Graph Sampling Based Inductive Learning Method (2020)](https://openreview.net/forum?id=BJe8pkHFwS) ([Code](https://github.com/GraphSAINT/GraphSAINT))
+- [Decoupling the Depth and Scope of Graph Neural Networks (2021)](https://openreview.net/forum?id=_IY3_4psXuf) ([Code](https://github.com/facebookresearch/shaDow_GNN))
+- [How to Scale Up GNNs with Mini-Batch Sampling (2021)](https://sigopt.com/blog/mini-batch-sampling-with-gnns/)
+- [Papers about explainability of GNNs](https://github.com/flyingdoog/awesome-graph-explainability-papers)

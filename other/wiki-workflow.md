@@ -76,6 +76,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Timothy Andrew](https://timothyandrew.net/learning/wiki/)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
 - [Wesley Moore](https://linkedlist.org/)
+- [Josh Branchaud's TIL](https://github.com/jbranchaud/til)
 - [Slides of Chen Hui Jing](https://github.com/huijing/slides)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
 - [Shreyas Minocha](https://wiki.shreyasminocha.me/index.html) ([Code](https://github.com/shreyasminocha/wiki))
@@ -136,6 +137,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Aurelio](https://github.com/nobitagit/knowledge)
 - [Thomasorus's Garden](https://thomasorus.com/home.html)
 - [Yenly Ma TIL](https://til.yenly.wtf/)
+- [Magnus's Brain](https://kmaasrud.com/brain/)
 - [Abhinav's Notes](https://notes.abhinavsarkar.net/)
 - [Hugo Cisneros](https://hugocisneros.com/notes/)
 - [Rosano Garden](https://rosano.hmm.garden/)
@@ -151,10 +153,13 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Artyom's tech notes](https://tek.brick.do/)
 - [D. Bohdan's Wiki](https://dbohdan.com/wiki/sitemap)
 - [Albert Zeyer](https://github.com/albertz/wiki)
+- [Fabian Bösiger's Docs](https://github.com/fabianboesiger/documents)
 - [Juliette Rapala](https://github.com/jrapala/wiki)
 - [Daniel Imfeld's Notes](https://imfeld.dev/notes)
+- [Anthony's second brain](https://garden.anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0)
 - [Hrishikesh Bhaskaran's Wiki](https://wiki.stultus.in/)
 - [neeasade's notes](https://notes.neeasade.net/)
+- [Ferreira's Wiki](https://github.com/slowernews/notebook)
 - [マリウス](https://xn--gckvb8fzb.com/)
 - [Robb Knight's Wiki](https://intersect.rknight.me/) ([Code](https://github.com/rknightuk/intersect))
 - [Edward Yerburgh's CS Notes](https://notes.eddyerburgh.me/) ([Code](https://github.com/eddyerburgh/notes))
@@ -166,20 +171,29 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [masayume](https://github.com/masayume/DigitalGarden)
 - [Kate Bowie](https://katebowies-garden.netlify.app/)
 - [Binny's garden](https://notes.binnyva.com/)
+- [David Winterbottom's TIL](https://til.codeinthehole.com/)
 - [Alex Schroeder: Diary](https://alexschroeder.ch/)
 - [SUDOGAMI](https://sudogami.com/site/home.html)
-- [Anthony Amar's Garden](https://garden.anthonyamar.fr/)
+- [Map of Computing](https://github.com/ComputingTeachers/mapOfComputing)
 - [Simon Willison: TIL](https://til.simonwillison.net/) ([Code](https://github.com/simonw/til))
+- [Brian DeVries's Wiki](https://github.com/techCarpenter/garage-wiki)
 - [Nick Groenen's digital garden](https://notes.nick.groenen.me/)
 - [Brandon's Digital Garden](https://wiki.brandontoner.ca/)
 - [Param Singh's Notes](https://notes.param.codes/)
 - [Matous Dzivjak](https://wiki.dzx.cz/)
+- [Keyvan Akbary's Notes](https://keyvanakbary.github.io/learning-notes/) ([Code](https://github.com/keyvanakbary/learning-notes))
+- [Wojciech Matuszewski](https://github.com/WojciechMatuszewski/programming-notes)
+- [Eduardo Julian's bookmarks](https://github.com/LuxLang/lux/tree/master/documentation/bookmark)
 - [Raphael Sprenger](https://garden.raphaelsprenger.de/index.html)
 - [Личная вики](https://ndrewnee.gitbook.io/wiki/)
+- [Boris Mann](https://bmannconsulting.com/)
+- [Constantin Campean's Almanacs](https://github.com/costinEEST/almanacs)
 - [Allen Lee's Digital Brain](https://github.com/ale0sx/brains)
 - [Ruben Rodrigues's Wiki](https://github.com/rubrodc/ruben-2.0)
 - [Szymon Kaliski's Notes](https://szymonkaliski.com/notes)
+- [Vegard Stikbakke's TILs](https://til.vegardstikbakke.com/) ([Code](https://github.com/vegarsti/til))
 - [Rahul Rajeev](https://garden.rahulrajeev.net/)
+- [Rickard Dag's Log](https://devlog.willcodefor.beer/) ([Code](https://github.com/believer/devlog))
 - [Owen's Digigarden](https://publish.obsidian.md/geobo/Welcome+to+my+digital+garden+%F0%9F%8C%B1)
 - [Charlie T](https://blog.charlietrochlil.com/) ([Code](https://github.com/rhymeswithvocal/digital-garden))
 - [Imron Rosyadi](https://irosyadi.gitbook.io/irosyadi/) ([Code](https://github.com/irosyadi/gitbook))
@@ -201,6 +215,9 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 
 - [Don't waste energy chasing fancy tools and methodologies without already having a simple workflow in place. Once you have a good idea of what works for you, then introduce tools designed to make your life easier.](https://news.ycombinator.com/item?id=24251068)
 - [Reading without taking notes is useless.](https://twitter.com/anthilemoon/status/1261991953593401346)
+- [Feed your personal wiki into GTP-3 to automatically answer emails/..](https://twitter.com/maccaw/status/1441773166079184896)
+- [People are obsessed with migrating their notes and todos from one tool to another. The obsession with meta work as an excuse for not doing actual work is such an odd one.](https://twitter.com/ninarstepanov/status/1450515900822523907)
+- [A tragically underutilized fact in productivity software today is that most people's entire textual datasets for a lifetime can fit in modern PCs' RAM. Just load it up & search it in memory. We don't need to send everything across the planet. Things can be /so much/ faster.](https://twitter.com/thesephist/status/1455279982322749440)
 
 ## Links
 
@@ -285,9 +302,9 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [histre](https://histre.com/) - Effortless Knowledge Base.
 - [Notebooks (2020)](https://blog.yoshuawuyts.com/notebooks/)
 - [Digital gardens (2020)](https://schof.co/digital-garden/)
-- [Zettlr](https://www.zettlr.com/) - A Markdown Editor for the 21st Century. ([Why is Zettlr Open Source?](https://www.zettlr.com/post/why-zettlr-open-source))
+- [Zettlr](https://www.zettlr.com/) - A Markdown Editor for the 21st Century. ([Why is Zettlr Open Source?](https://www.zettlr.com/post/why-zettlr-open-source)) ([Code](https://github.com/Zettlr/Zettlr))
 - [CodiMD](https://github.com/codimd/server) - Self-hosted, real-time collaborative markdown notes. ([HN](https://news.ycombinator.com/item?id=23997361))
-- [logseq](https://logseq.com/) - Local-first knowledge base which syncs using Github. ([Code](https://github.com/logseq/logseq)) ([HN](https://news.ycombinator.com/item?id=25090176)) ([Awesome](https://github.com/logseq/awesome-logseq))
+- [Logseq](https://logseq.com/) - Local-first knowledge base which syncs using Github. ([Code](https://github.com/logseq/logseq)) ([HN](https://news.ycombinator.com/item?id=25090176)) ([Awesome](https://github.com/logseq/awesome-logseq)) ([Plugin Samples](https://github.com/logseq/logseq-plugin-samples))
 - [Sharing knowledge in a remote team, across timezones (2020)](https://erickhun.com/posts/sharing-knowledge-in-a-remote-team/) ([HN](https://news.ycombinator.com/item?id=24021103))
 - [Foam: One Month In (2020)](https://jevakallio.github.io/notes/foam-one-month-in)
 - [If you take notes, which note-taking tool do you use? (2020)](https://twitter.com/anthilemoon/status/1291646162919993344)
@@ -387,3 +404,28 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ask HN: How do you take notes throughout your work day? (2021)](https://news.ycombinator.com/item?id=28508811)
 - [The 5 Rs of Note Taking](https://aliabdaal.com/the-5-rs-of-note-taking/)
 - [Noteship](https://noteship.com/) - Local-first notes app for Mac, with data longevity in mind. ([HN](https://news.ycombinator.com/item?id=28617596))
+- [zk](https://github.com/mickael-menu/zk) - Plain text note-taking assistant.
+- [Why you need a "WTF Notebook"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
+- [Taio](https://taio.app/) - Markdown editor and text actions for iPhone, iPad, and Mac. ([Twitter](https://twitter.com/TaioApp))
+- [digital-garden.dev](https://digital-garden.dev/) - Next.js powered digital garden starter. ([Code](https://github.com/inadeqtfuturs/garden))
+- [JINGO](https://github.com/claudioc/jingo) - Git based wiki engine written for node.js, with a decent design, a search capability and a good typography.
+- [Wiki.js](https://js.wiki/) - Modern, lightweight and powerful wiki app built on NodeJS. ([Code](https://github.com/Requarks/wiki))
+- [Gollum](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. ([HN](https://news.ycombinator.com/item?id=28730764))
+- [Meta](https://projectmeta.app/) - Note-taking tool for visual learning.
+- [Ikke](https://github.com/laffra/Ikke) - Index and search your personal data quickly and privately.
+- [Reflect Academy](https://reflect.academy/) - Learn how to take great notes. ([Tweet](https://twitter.com/maccaw/status/1452657502441648141))
+- [Remnote](https://www.remnote.com/) - All-in-One Tool for Thinking and Learning. ([Twitter](https://twitter.com/rem_note))
+- [The Science of Tools for Thought and Cognition Augmentation Software (2021)](https://moritz.digital/blog/cas) ([Video](https://www.youtube.com/watch?v=zVuaOECnUJE))
+- [OpenMemex](https://github.com/austinvhuang/openmemex) - Open source, local-first knowledge platform.
+- [mdzk](https://github.com/mdzk-rs/mdzk) - Plain text Zettelkasten system that is based on the mdBook API.
+- [Good examples of wikis with custom software (2021)](https://twitter.com/LauraDeming/status/1457101797076586496?s=20)
+- [Quartz](https://github.com/jackyzha0/quartz) - Host your own second brain and digital garden for free.
+- [How to build a second brain as a software developer (2021)](https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/) ([HN](https://news.ycombinator.com/item?id=29188418))
+- [ff](https://github.com/ff-notes/ff) - Distributed note taker and task manager.
+- [Learn In Public](https://www.swyx.io/learn-in-public/)
+- [unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - Local-first and universal graph database, knowledge engine, and workspace for your life.
+- [ummm](https://www.ummm.co/) - Organize your thoughts. ([HN](https://news.ycombinator.com/item?id=29304438))
+- [Keep a Knowledge Log](https://bruno-oliveira.github.io/techblog/Keep-a-log/) ([HN](https://news.ycombinator.com/item?id=29436562))
+- [Early conceptarium workflows](https://paulbricman.com/reflections/early-conceptarium-workflows)
+- [Mi](https://github.com/elchead/misou) - Personal search engine.
+- [/tap](https://www.tatatap.com/) - Powerful and customizable note-taking system. ([HN](https://news.ycombinator.com/item?id=29663233))

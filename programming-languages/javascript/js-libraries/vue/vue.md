@@ -4,6 +4,10 @@
 
 - [Travel App, Native-like Page Transitions](https://github.com/sdras/page-transitions-travelapp)
 
+## Notes
+
+- [Enable custom formatters in Chrome DevTools when debugging Vue 3. The experience is on another level.](https://twitter.com/haoqunjiang/status/1442056332463333387)
+
 ## Links
 
 - [Plans for the Next Iteration of Vue.js (2018)](https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf)
@@ -13,7 +17,7 @@
 - [Design Principles of Vue 3.0 by Evan You (2019)](https://www.youtube.com/watch?v=WLpLYhnGqPA)
 - [Vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js
 - [Build a DEV.TO clone with Nuxt new fetch (2020)](https://nuxtjs.org/blog/build-dev-to-clone-with-nuxt-new-fetch)
-- [Vite](https://github.com/vitejs/vite) - Opinionated web dev build tool that serves your code via native ES Module imports during dev and bundles it with Rollup for production. ([Tweet](https://twitter.com/HerrBertling/status/1334433014038847488)) ([Tweet 2](https://twitter.com/AdamRackis/status/1334494401440206849)) ([vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths)) ([Awesome](https://github.com/vitejs/awesome-vite)) ([Vite SSR Plugin](https://github.com/brillout/vite-plugin-ssr)) ([Develop with Vite](https://www.youtube.com/watch?v=xx8gEHet6n8)) ([Vite: Rethinking Frontend Tooling](https://portal.gitnation.org/contents/vite-rethinking-frontend-tooling))
+- [Vite](https://github.com/vitejs/vite) - Opinionated web dev build tool that serves your code via native ES Module imports during dev and bundles it with Rollup for production. ([Tweet](https://twitter.com/HerrBertling/status/1334433014038847488)) ([Tweet 2](https://twitter.com/AdamRackis/status/1334494401440206849)) ([vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths)) ([Awesome](https://github.com/vitejs/awesome-vite)) ([Vite SSR Plugin](https://github.com/brillout/vite-plugin-ssr)) ([Develop with Vite](https://www.youtube.com/watch?v=xx8gEHet6n8)) ([Vite: Rethinking Frontend Tooling](https://portal.gitnation.org/contents/vite-rethinking-frontend-tooling)) ([Vite Build explained](https://patak.dev/vite/build.html)) ([vite-plugin-macro](https://github.com/viteland/vite-plugin-macro))
 - [Zipe](https://github.com/pikax/zipe) - Vite + SSR.
 - [Building a real-time patient monitoring system with Go and Vue](https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/) ([HN](https://news.ycombinator.com/item?id=23051242))
 - [Just in time compilation technique for server-side rendering](https://github.com/SmallComfort/vue-ssr-jit)
@@ -29,6 +33,7 @@
 - [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables. ([Web](https://pikax.me/vue-composable/))
 - [Ream](https://github.com/ream/ream) - Full-stack framework for building web apps, powered by Vue 3.
 - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator. ([Awesome VuePress](https://github.com/vuepress/awesome-vuepress))
+- [VuePress 2](https://github.com/vuepress/vuepress-next) ([Web](https://v2.vuepress.vuejs.org/))
 - [Using State Machines in Vue.js with XState (2020)](https://frontstuff.io/using-state-machines-in-vuejs-with-xstate)
 - [swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 - [What Vue.js Does Better Than React (2020)](https://hswolff.com/blog/what-vuejs-does-better-than-react/)
@@ -68,3 +73,27 @@
 - [Oruga](https://github.com/oruga-ui/oruga) - Lightweight library of UI components for Vue.js without CSS framework dependency. ([Web](https://oruga.io/))
 - [Vue Konva](https://github.com/konvajs/vue-konva) - JavaScript library for drawing complex canvas graphics using Vue.
 - [Vue Query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
+- [Vant](https://github.com/youzan/vant) - Mobile UI Components built on Vue.
+- [Nuxt](https://nuxtjs.org/) - Hybrid Vue Framework. ([Code](https://github.com/nuxt/framework)) ([Nuxt 3 Public Beta Launch with Q&A](https://www.youtube.com/watch?v=kXHuaCNfYEY))
+- [iles](https://github.com/ElMassimo/iles) - Islands of interactivity with Vue in Vite.js.
+- [Nuxt 3 Starter](https://github.com/productfrontenddeveloper/nuxt3-app) - Nuxt3, Tailwindcss, Sass, Headless UI, Vue.
+- [Vue Bleeding Edge](https://github.com/aldy505/vue-bleeding-edge) - Aiming to simulate Nuxt 3 without using Nuxt.
+- [Vue 3 + Vite template](https://github.com/reinink/tailwindui-modal-example)
+- [Is Nuxt 3 ready?](https://isnuxt3ready.owln.ai/) ([Code](https://github.com/owlnai/isnuxt3ready))
+- [Async with Composition API (2021)](https://antfu.me/posts/async-with-composition-api)
+- [Nuxt 3 Minimal Starter](https://github.com/kenny-io/Nuxt3-Tailwind-Supabase-Demo) - Uses Tailwind/Supabase.
+- [Arco Design Vue](https://github.com/arco-design/arco-design-vue)
+- [nuxt3-supabase](https://github.com/wobsoriano/nuxt3-supabase) - Nuxt 3 module and composables for Supabase.
+- [Vitesse for Nuxt 3](https://github.com/antfu/vitesse-nuxt3)
+- [Nano Stores Vue](https://github.com/nanostores/vue) - Vue integration for Nano Stores, a tiny state manager with many atomic tree-shakable stores.
+- [Moon](https://github.com/ulissesferreira/moon) - Lightweight Vue 3 component library.
+- [Vue Stripe.js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js.
+- [Vuestic UI](https://vuestic.dev/) - Vue.js 3.0 UI Framework. ([Code](https://github.com/epicmaxco/vuestic-ui))
+- [Explore Nuxt Modules](https://modules.nuxtjs.org/) ([Code](https://github.com/nuxt/modules))
+- [Vue 3 Spring](https://github.com/ismail9k/vue3-spring) - Spring-physics based animation library, and more.
+- [Things you wish Vue docs explained better (2021)](https://twitter.com/youyuxi/status/1466065644487528449)
+- [Create a GraphQL Powered Vue 3 Application (2021)](https://egghead.io/courses/create-a-graphql-powered-vue-3-application-8152749d)
+- [nuxt-delay-hydration](https://github.com/harlan-zw/nuxt-delay-hydration) - Improve your Nuxt.js Google Lighthouse score by delaying hydration.
+- [Harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3. ([Docs](https://harlemjs.com/guide/introduction/getting-started.html#installation))
+- [Vuetiful](https://github.com/andrewcourtice/vuetiful) - Component framework written on top of the Vue reactive library.
+- [voe](https://github.com/yisar/voe) - 3kb subset of Vue optimized for progressive enhancement.

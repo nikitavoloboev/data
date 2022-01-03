@@ -17,3 +17,7 @@
 - [Clash](https://github.com/clash-lang/clash-compiler) - Haskell to VHDL/Verilog/SystemVerilog compiler. ([Web](https://clash-lang.org/))
 - [sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion.
 - [CXXRTL, a Yosys Simulation Backend (2020)](https://tomverbeure.github.io/2020/08/08/CXXRTL-the-New-Yosys-Simulation-Backend.html) ([Code](https://github.com/tomverbeure/cxxrtl_eval))
+- [Wyre](https://github.com/nickmqb/wyre) - Hardware definition language that compiles to Verilog.
+- [Verilog Ethernet Components](https://github.com/alexforencich/verilog-ethernet) - Verilog Ethernet components for FPGA implementation.
+- [Verilog Simulation with Verilator and SDL (2021)](https://projectf.io/posts/verilog-sim-verilator-sdl/) ([HN](https://news.ycombinator.com/item?id=28929994))
+- [IceChips](https://github.com/TimRudy/ice-chips-verilog) - Library of all common discrete logic devices in Verilog.

@@ -46,3 +46,14 @@
 - [RuntimeBrowser](https://github.com/nst/RuntimeBrowser) - Objective-C Runtime Browser, for Mac OS X and iOS.
 - [AppleTrace](https://github.com/everettjf/AppleTrace) - Objective C Method Tracing Call Chart.
 - [A Short History of Objective-C (2017)](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd) ([HN](https://news.ycombinator.com/item?id=28563870))
+- [How Swift is better than ObjC](https://twitter.com/jckarter/status/1442557437429510146)
+- [PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS, tvOS and macOS.
+- [Exposing NSMutableArray (2014)](https://ciechanow.ski/exposing-nsmutablearray/)
+- [Rubicon-ObjC](https://github.com/beeware/rubicon-objc) - Bridge between Objective-C and Python.
+- [Objective-C Cheat Sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
+- [Apple Runtime Headers](https://github.com/LeoNatan/Apple-Runtime-Headers) - Objective-C runtime headers for Apple's iOS, macOS, tvOS and watchOS frameworks.
+- [Twitter Network Layer (TNL)](https://github.com/twitter/ios-twitter-network-layer) - Framework for interfacing with the Apple provided NSURLSession stack that provides additional levels of control and insight over networking requests.
+- [Cocoa Text System (2006)](http://www.hcs.harvard.edu/~jrus/Site/Cocoa%20Text%20System.html) ([HN](https://news.ycombinator.com/item?id=29292918))
+- [J2ObjC](https://developers.google.com/j2objc) - Command-line tool that translates Java to Objective-C. ([HN](https://news.ycombinator.com/item?id=29328678))
+- [TDOAuth](https://github.com/yahoo/TDOAuth) - BSD-licensed single-header-single-source OAuth1 implementation.
+- [TJImageCache](https://github.com/timonus/TJImageCache) - Fast, simple Objective-C image cache.

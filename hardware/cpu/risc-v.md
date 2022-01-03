@@ -114,4 +114,26 @@
 - [Berkeley Out-of-Order Machine (BOOM](https://github.com/riscv-boom/riscv-boom) - Synthesizable and parameterizable open source RV64GC RISC-V core written in the Chisel hardware construction language.
 - [HiFive Unmatched](https://www.sifive.com/boards/hifive-unmatched) - RISC-V Linux development platform. ([HN](https://news.ycombinator.com/item?id=28468118))
 - [RVirt](https://github.com/mit-pdos/RVirt) - S-mode trap-and-emulate hypervisor for RISC-V.
-- [Vortex RISC-V GPGPU](https://github.com/vortexgpgpu/vortex) - Full-system RISCV-based GPGPU processor.
+- [Vortex RISC-V GPGPU](https://github.com/vortexgpgpu/vortex) - Full-system RISCV-based GPGPU processor. ([Web](http://vortex.cc.gatech.edu/)) ([Tutorials](https://github.com/vortexgpgpu/vortex_tutorials)) ([HN](https://news.ycombinator.com/item?id=29388213))
+- [RISC-V: The New Architecture on the Block](https://klarasystems.com/articles/risc-v-the-new-architecture-on-the-block/) ([HN](https://news.ycombinator.com/item?id=28696450))
+- [riscv](https://github.com/rust-embedded/riscv) - Low level access to RISC-V processors using Rust.
+- [Nios V – Intel's RISC-V Processor](https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html) ([HN](https://news.ycombinator.com/item?id=28767046))
+- [Alibaba Open Source XuanTie RISC-V Cores, Introduces In-House Armv9 Server Chip (2021)](https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/) ([HN](https://news.ycombinator.com/item?id=28939287))
+- [RISC-V and the CPU Revolution, Yunsup Lee (2018)](https://www.youtube.com/watch?v=AOC7KmHvx9w)
+- [RISC-V CPU In TypeScript - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)
+- [High-Level Synthesis For RISC-V (2021)](https://semiengineering.com/high-level-synthesis-for-risc-v/) ([HN](https://news.ycombinator.com/item?id=29028633))
+- [The Genius of the RISC-V Microprocessor - Erik Engheim (2021)](https://www.youtube.com/watch?v=v0ssX-JiV-s)
+- [RISC-V Open Source Supervisor Binary Interface (OpenSBI)](https://github.com/riscv-software-src/opensbi)
+- [RISC-V J Extension Specification](https://github.com/riscv/riscv-j-extension)
+- [“RISC V is a terrible architecture” (2021)](https://gmplib.org/list-archives/gmp-devel/2021-September/006013.html) ([HN](https://news.ycombinator.com/item?id=29420622))
+- [New SiFive RISC-V core P650 with 40% IPC increase (2021)](https://www.sifive.com/press/sifive-raises-risc-v-performance-bar-with-new-best-in-class) ([HN](https://news.ycombinator.com/item?id=29418153))
+- [XCrypto](https://github.com/scarv/xcrypto) - Cryptographic ISE for RISC-V.
+- [MemPool](https://github.com/pulp-platform/mempool) - 256-RISC-V-core system with low-latency access into shared L1 memory.
+- [FPnew](https://github.com/pulp-platform/fpnew) - Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.
+- [ZeroSoC](https://github.com/siliconcompiler/zerosoc) - RISC-V SoC designed to demonstrate the capabilities of SiliconCompiler.
+- [Understanding Assembly Part I: RISC-V (2021)](https://mcyoung.xyz/2021/11/29/assembly-1/)
+- [RISC-V Summit 2021 - YouTube](https://www.youtube.com/playlist?list=PL85jopFZCnbPGAhsdS16Nn4CdX6o1LeZe)
+- [ChristmasSoc](https://github.com/Wren6991/ChristmasSoC) - Dual-core RISC-V SoC with JTAG, atomics, SDRAM.
+- [Beyond RISC – The Post-RISC Architecture (1996)](https://cse.msu.edu/~enbody/postrisc/postrisc2.htm) ([HN](https://news.ycombinator.com/item?id=29659456))
+- [SiFive-Core](https://github.com/luojia65/sifive-core) - Low level access to SiFive RISC-V processor cores.
+- [Minerva](https://github.com/minerva-cpu/minerva) - 32-bit RISC-V soft processor.

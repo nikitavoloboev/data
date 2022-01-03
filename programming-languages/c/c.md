@@ -52,6 +52,7 @@
 - [Embracing modularity with Meson (2020)](https://brennan.io/2020/05/08/meson/)
 - [Some Were Meant for C - The Endurance of an Unmanageable Language (2017)](https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell17some-preprint.pdf) ([Lobsters](https://lobste.rs/s/o0xtns/some_were_meant_for_c)) ([HN](https://news.ycombinator.com/item?id=26300199))
 - [Developing a programming language in C (2020)](https://www.youtube.com/playlist?list=PLvdK1vRmp8wMzH4w_8sQ30NKU3Bt4Cc-M)
+- [Mass (Meta Assembly) Language](https://github.com/grassator/mass) - Compiler for a new language focusing on compile-time execution and no LLVM dependency.
 - [Implementing simple cooperative threads in C (2020)](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/) ([HN](https://news.ycombinator.com/item?id=23293642))
 - [c2go](https://github.com/elliotchance/c2go) - Tool for transpiling C to Go.
 - [cpkg](https://github.com/vmchale/cpkg) - Build tool for C with a particular emphasis on cross compilation. It is configured using Dhall.
@@ -175,3 +176,28 @@
 - [The Descent to C (2013)](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) ([HN](https://news.ycombinator.com/item?id=28378627))
 - [Progress on C23 (2021)](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting) ([HN](https://news.ycombinator.com/item?id=28423793)) ([Lobsters](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting))
 - [pycparser](https://github.com/eliben/pycparser) - Complete C99 parser in pure Python.
+- [PackCC](https://github.com/arithy/packcc) - Parser generator for C.
+- [Why is C Faster Than My Language? (2021)](https://www.youtube.com/watch?v=vFB0Ot-ZdIM)
+- [Elements of C Style](https://www.teamten.com/lawrence/style/)
+- [pcpp](https://github.com/ned14/pcpp) - C99 preprocessor written in pure Python.
+- [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion) ([HN](https://news.ycombinator.com/item?id=28854808))
+- [Proposal to add constexpr to C (2021)](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2851.pdf) ([HN](https://news.ycombinator.com/item?id=28861672))
+- [rust-cexpr](https://github.com/jethrogb/rust-cexpr) - C expression parser and evaluator.
+- [When to Use Goto](https://beej.us/guide/bgc/html/split/goto.html) ([HN](https://news.ycombinator.com/item?id=28943153))
+- [There is no 'printf' (2021)](https://www.netmeister.org/blog/return-printf.html) ([HN](https://news.ycombinator.com/item?id=28931457))
+- [Comparing the c ffi overhead on various programming languages](https://github.com/dyu/ffi-overhead)
+- [55GiB/s FizzBuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz) ([HN](https://news.ycombinator.com/item?id=29031488)) ([Lobsters](https://lobste.rs/s/ploajb/high_throughput_fizz_buzz_31gib_fizz_buzz))
+- [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/) ([HN](https://news.ycombinator.com/item?id=29123678))
+- [cc65](https://github.com/cc65/cc65) - Freeware C compiler for 6502 based systems. ([Docs](https://cc65.github.io/doc/))
+- [Beware of fast-math (2021)](https://simonbyrne.github.io/notes/fastmath/) ([HN](https://news.ycombinator.com/item?id=29201473))
+- [A Simple, Possibly Correct LR Parser for C11 (2017)](https://hal.archives-ouvertes.fr/hal-01633123/document)
+- [Pointers in C / C++ [Full Course] (2020)](https://www.youtube.com/watch?v=zuegQmMdy8M)
+- [Smaller C](https://github.com/alexfru/SmallerC) - Simple and small single-pass C compiler.
+- [Comprehensive guide to 50 years of evolution of strict C programming](https://github.com/agavrel/42_CheatSheet) ([HN](https://news.ycombinator.com/item?id=29347623))
+- [Some obscure C features (2019)](https://multun.net/obscure-c-features.html) ([Lobsters](https://lobste.rs/s/p0vejb/some_obscure_c_features))
+- [Writing a register based VM in less than 125 lines of C code (2021)](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c) ([HN](https://news.ycombinator.com/item?id=29492183))
+- [Ogma](https://github.com/nasa/ogma) - Tool to facilitate the integration of safe runtime monitors into other systems. Extends Copilot, a high-level runtime verification framework that generates hard real-time C99 code.
+- [Type-Safe Printf For C](https://github.com/moehriegitt/vastringify) ([HN](https://news.ycombinator.com/item?id=29528571))
+- [Lang-C](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust.
+- [Why Is C Faster Than Java (2009)](https://marc.info/?l=git&m=124111702609723&w=2) ([HN](https://news.ycombinator.com/item?id=29659266))
+- [Almost Always Unsigned (2022)](https://graphitemaster.github.io/aau/) ([HN](https://news.ycombinator.com/item?id=29766658))

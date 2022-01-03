@@ -17,14 +17,14 @@
 - [scala-steward](https://github.com/fthomas/scala-steward) - Robot that helps you keeping your Scala projects up-to-date.
 - [Mill](https://github.com/lihaoyi/mill) - Your shiny new Java/Scala build tool. ([Build Tool based on Pure Functional Programming](https://www.youtube.com/watch?v=j6uThGxx-18))
 - [Functional Programming for Mortals with Scala book](https://leanpub.com/fpmortals/read)
-- [Functional Programming in Scala book](https://www.manning.com/books/functional-programming-in-scala)
+- [Functional Programming in Scala Book](https://www.manning.com/books/functional-programming-in-scala) ([Review](https://www.youtube.com/watch?v=SehqPOijwUg))
 - [Scala Almost Succeeded (2019)](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5) ([Lobsters](https://lobste.rs/s/ku13t3/scala_almost_succeeded))
 - [Scala Exercises](https://www.scala-exercises.org/) - Easy way to learn Scala. ([Code](https://github.com/scala-exercises/scala-exercises))
 - [Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"](https://github.com/fpinscala/fpinscala)
 - [Scala typeclassopedia](https://github.com/lemastero/scala_typeclassopedia) - Abstractions and constructions from math (Category theory, Abstract algebra) implementations in Scala.
 - [A Tour of Scala 3 - Martin Odersky (2019)](https://www.youtube.com/watch?v=_Rnrx2lo9cw)
 - [How to become excellent Scala FP](https://twitter.com/jdegoes/status/1095416683571728384)
-- [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala)
+- [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala) ([Review](https://www.youtube.com/watch?v=fyy2XZ0xyP4))
 - [Extreme Cleverness: Functional Data Structures in Scala - Daniel Spiewak (2013)](https://www.youtube.com/watch?v=pNhBQJN44YQ)
 - [Scale By The Bay 2019 videos](https://www.youtube.com/watch?v=1WVjkP_G2cA&list=PLNESult6cnOlb1BAO4o2T3DdNbMnCpTjp)
 - [Scalafix](https://github.com/scalacenter/scalafix) - Refactoring and linting tool for Scala.
@@ -74,7 +74,7 @@
 - [What's new in Scala 3: all the "small" things (2020)](https://www.youtube.com/watch?v=GCuskYmhvAc)
 - [Scala 3.0](https://github.com/lampepfl/dotty/releases/tag/3.0.0) ([HN](https://news.ycombinator.com/item?id=27151732)) ([Article](https://www.scala-lang.org/blog/2021/05/14/scala3-is-here.html))
 - [Build your own refinement types in Scala 3 (2021)](https://msitko.pl/blog/build-your-own-refinement-types-in-scala3.html)
-- [ScalablyTyped](https://github.com/ScalablyTyped/Converter) - Typescript to Scala.js converter.
+- [ScalablyTyped](https://github.com/ScalablyTyped/Converter) - Typescript to Scala.js converter. ([Docs](https://scalablytyped.org/docs/readme.html))
 - [Conduktor's Scala API template](https://github.com/conduktor/scala-api-template) - Template for writing Restful APIs we use at Conduktor.
 - [Scapegoat](https://github.com/scapegoat-scala/scapegoat) - Scala compiler plugin for static code analysis.
 - [Monads in Scala: A Way to Generalize Chained Computations (2021)](https://www.youtube.com/watch?v=a0C-RrncrYA)
@@ -90,4 +90,54 @@
 - [Scala 3 for Scala 2 Developers Workshop](https://github.com/jdegoes/scala3-for-scala2-developers)
 - [Functional Data Modeling Workshop](https://github.com/jdegoes/functional-data-modeling)
 - [Books - Underscore](https://underscore.io/books/)
-- [Creative Scala Book (2020)](https://www.creativescala.org/creative-scala.html)
+- [Creative Scala Book (2020)](https://www.creativescala.org/creative-scala.html) ([Code](https://github.com/creativescala/creative-scala))
+- [Scala3 typeclassery with graphs (2021)](https://fabianmurariu.github.io/posts/scala3-typeclassery-graphs/)
+- [Guillaume Martres: An Interactive Compiler (2021)](https://open.spotify.com/episode/0qgBKpc78aBMldBdANoqnR)
+- [Testcontainers-scala](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in scala.
+- [A Dive into how Metals works (2021)](https://www.youtube.com/watch?v=fpzN_vTBy18)
+- [How to accelerate Scala Builds with Bazel (2019)](https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html)
+- [Strategic Scala Style: Principle of Least Power (2016)](https://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
+- [New to Scala advice (2021)](https://www.reddit.com/r/scala/comments/q85nu1/new_to_scala/)
+- [Scala CLI](https://scala-cli.virtuslab.org/) - Tool to run/compile/test Scala that aims at being a better scala command. ([Code](https://github.com/VirtusLab/scala-cli))
+- [How to Master Scala Step by Step (2021)](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)
+- [Petr Zapletal's This week in Scala Newsletter](https://petr-zapletal.medium.com/)
+- [Demystifying Akka Streams' Materialized Values (2021)](http://nivox.github.io/posts/akka-stream-materialized-values/) ([Reddit](https://www.reddit.com/r/scala/comments/qja6m6/demystifying_akka_streams_materialized_values/))
+- [Scala Beyond 3.0 - The Quest for Simplicity - Martin Odersky (2021)](https://www.youtube.com/watch?v=NXTjnowBx-c)
+- [Introduction to Programming with ZIO Functional Effects (2021)](https://scalac.io/blog/introduction-to-programming-with-zio-functional-effects/)
+- [DevInsideYou - YouTube](https://www.youtube.com/c/DevInsideYou/playlists)
+- [Scala at Scale at Databricks - Li Haoyi (2021)](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html) ([Talk](https://www.youtube.com/watch?app=desktop&v=UiN6yZPAYww)) ([HN](https://news.ycombinator.com/item?id=29505512))
+- [ScalaCon](http://www.scalacon.org/) ([Videos](https://www.youtube.com/channel/UCEvZRFnLl65Dg1sMgb8yIBQ/videos))
+- [No Need for NIH: Leveraging the Typelevel Stack in the Enterprise - Adam Rosien (2021)](https://www.youtube.com/watch?v=KjDG9c5zuKs)
+- [Hands-on full-stack Scala 3 application - Adrien Piquerez (2021)](https://www.youtube.com/watch?v=Gs-sMpUZiEo)
+- [Builder Pattern in Scala with Phantom Types (2017)](https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863)
+- [Scala Center at EPFL](https://scala.epfl.ch/) ([Web Code](https://github.com/scala/scala.epfl.ch))
+- [What's the name of that operator/symbol/syntax/thing, for Scala](https://github.com/andyscott/scala-whats-that-called)
+- [Debugging and Observing Your Scala Code - Will Sargent (2021)](https://www.youtube.com/watch?v=wPpyWz2zEmM)
+- [Shapeless 3 and type class derivation in Scala 3 - Miles Sabin (2021)](https://www.youtube.com/watch?v=CFyypCbLRAo)
+- [Scala with Cats](https://www.scalawithcats.com/) - Teaches core functional abstractions of monoids, functors, monads, and applicative functors using the Cats library and a number of case studies. ([Code](https://github.com/scalawithcats/scala-with-cats))
+- [Essential Scala Book](https://underscore.io/books/essential-scala/) ([Code](https://github.com/underscoreio/essential-scala))
+- [Coursier and scala-cli - Changing the Way You Start Scala (2021)](https://www.tooling-talks.com/episode-7)
+- [My Take on Scala 3 by Daniel Spiewak (2021)](https://www.youtube.com/watch?v=uonhcMvfT1E)
+- [Intro to the Scala 3 Type System - Bill Venners (2021)](https://www.youtube.com/watch?v=vuTFg5g_f6w)
+- [YEGNI - You Errr Gonna Need It (in Scala 3) - James Ward & Josh Suereth (2021)](https://www.youtube.com/watch?v=ZGD00jcMKnY)
+- [Scala 3 Macros - Nicolas Stucki (2021)](https://www.youtube.com/watch?v=BbTZi8siN28)
+- [Sustainable Scala (2021)](https://www.scala-lang.org/blog/2021/12/14/sustainable-scala.html)
+- [Scale By the Bay](https://www.scale.bythebay.io/) - Developers' own conference.
+- [Scala Step-by-Step](https://dot-iris.github.io/) - Extend the the DOT calculus, that is, the formal foundations of the Scala programming language, using step-indexed logical relations and the Iris framework; the result is the guarded DOT(gDOT) calculus. ([Code](https://github.com/Blaisorblade/dot-iris))
+- [SoftwareMill Scala Posts](https://softwaremill.com/blog/#tags=scala)
+- [Your Program Is a Language - Ryan Peters (2021)](https://www.youtube.com/watch?v=7kYqH5XTP18)
+- [My Dos and Donts in sbt Build Definitions (2021)](https://www.chris-kipp.io/blog/my-dos-and-donts-in-sbt-build-definitions) ([Reddit](https://www.reddit.com/r/scala/comments/rjyse0/my_dos_and_donts_in_sbt_build_definitions/))
+- [Metascala](https://github.com/lihaoyi/Metascala) - JVM written in Scala.
+- [bleep](https://github.com/oyvindberg/bleep) - Fast Scala build tool. Automatically imports and builds huge projects, like tapir or http4s.
+- [Patch Theory and Type Classes (2018)](https://blog.gnieh.org/posts/2018/03/17/patch-theory-and-typeclasses/)
+- [Tagless Final in Scala (2021)](https://www.youtube.com/watch?v=m3Qh-MmWpbM)
+- [Managing Effects in Domain Models - The Algebraic Way by Debasish Ghosh (2018)](https://www.youtube.com/watch?v=wmrbVjjBRXM)
+- [MiMa](https://github.com/lightbend/mima) - Tool for catching binary incompatibility in Scala.
+- [Apache Spark Tutorial with Examples](https://sparkbyexamples.com/) - Provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language. ([Code](https://github.com/spark-examples/spark-scala-examples))
+- [Scala and Rust interoperability via JNI (2021)](https://engineering.avast.io/scala-and-rust-interoperability-via-jni/)
+- [Blake3 for scala](https://github.com/kcrypt/scala-blake3) - Highly optimized blake3 implementation for scala, scala-js and scala-native.
+- [Scala Discord](https://discord.com/invite/scala) ([Article](https://www.scala-lang.org/blog/2021/12/21/discord.html)) ([Reddit](https://www.reddit.com/r/scala/comments/rlgmrf/discord_is_scalas_main_chat_platform_now_bye/))
+- [A 10-Minute Introduction to Scala (2018)](https://itnext.io/a-10-minute-introduction-to-scala-d1fed19eb74c)
+- [scala-native-cli](https://github.com/scala-native/scala-native-cli) - Command Line Interface for Scala Native.
+- [sbt-typelevel](https://github.com/typelevel/sbt-typelevel) - SBT plugin which understands binary compatibility.
+- [Tetrix in Scala](https://eed3si9n.com/tetrix-in-scala/)

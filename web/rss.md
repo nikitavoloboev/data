@@ -27,10 +27,10 @@
 - [Feedgenerator](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 - [RSS - what are the best technical and social practices? (2020)](https://lobste.rs/s/f1xb2d/rss_what_are_best_technical_social)
 - [The Webpage](https://lobste.rs/s/ureotv/webpage_serverside_rendered_lo_fi_rss) - Online RSS reader and news aggregator, styled like a newspaper. ([HN](https://news.ycombinator.com/item?id=22863536))
-- [Infomate](https://github.com/vas3k/infomate.club) - Small web service that shows multiple RSS sources on one page and performs tricky parsing and summarizing articles using TextRank algorithm.
+- [Infomate](https://infomate.club/) - Small web service that shows multiple RSS sources on one page and performs tricky parsing and summarizing articles using TextRank algorithm. ([Code](https://github.com/vas3k/infomate.club))
 - [PolitePol](https://politepol.com/en/) - RSS feed generator website with user friendly interface. ([Code](https://github.com/taroved/pol))
 - [It's Time to Get Back Into RSS (2020)](https://danielmiessler.com/blog/its-time-to-get-back-into-rss/) ([HN](https://news.ycombinator.com/item?id=23212812))
-- [RSS-proxy](https://github.com/damoeb/rss-proxy) - Allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
+- [RSS-proxy](https://github.com/damoeb/rss-proxy) - Create an RSS/ATOM or JSON feed of almost any website. ([HN](https://news.ycombinator.com/item?id=29369706))
 - [RSParser](https://github.com/Ranchero-Software/RSParser) - Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
 - [HTTP Conditional Get for RSS Hackers (2002)](https://fishbowl.pastiche.org/2002/10/21/http_conditional_get_for_rss_hackers)
 - [Bespoke software, and a really simple RSS aggregator (2020)](https://routley.io/posts/bespoke-software-rss-aggregator/) ([HN](https://news.ycombinator.com/item?id=23304512))
@@ -48,8 +48,8 @@
 - [atom](https://github.com/rust-syndication/atom) - Rust library for serializing the Atom web content syndication format.
 - [How to discover and subscribe to most RSS feeds (2020)](https://toffelblog.xyz/tips/discover-rss/)
 - [Feedsub](https://feedsub.com/) - Get RSS/Atom Feeds Delivered To Your Inbox.
+- [Custom, real time RSS feeds for Hacker News](https://hnrss.github.io/) ([HN](https://news.ycombinator.com/item?id=25058236)) ([Code](https://github.com/hnrss/hnrss))
 - [Hacker News RSS feeds](https://edavis.github.io/hnrss/) ([HN](https://news.ycombinator.com/item?id=23778510))
-- [Hacker News RSS feeds 2](https://hnrss.github.io/) ([HN](https://news.ycombinator.com/item?id=25058236))
 - [Reading RSS feeds from wacky protocols with newsboat (2020)](https://brokenco.de/2020/07/07/newsboat-wacky-feeds.html)
 - [News And Rumors](https://newsandrumors.com/) - Alternative RSS reader and search engine for news and content. ([HN](https://news.ycombinator.com/item?id=23999065))
 - [About Feeds](https://aboutfeeds.com/) - Getting Started guide to web feeds/RSS.
@@ -71,7 +71,7 @@
 - [Audiocasts](https://github.com/fnoah/audiocasts) - Platform to host RSS podcast feeds for your audiobooks.
 - [RSSMonster](https://github.com/pietheinstrengholt/rssmonster) - Easy to use web-based RSS aggregator, created as an alternative for Google Reader.
 - [Living in Syndication](https://gitlab.com/ericlathrop/living_in_syndication) - Generate RSS feeds for sites that don't have them. ([HN](https://news.ycombinator.com/item?id=25176605))
-- [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - RSS feed for websites missing it.
+- [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - RSS feed for websites missing it. ([HN](https://news.ycombinator.com/item?id=29772540))
 - [A self-hosted RSS setup (2020)](https://www.stevegattuso.me/2020/11/30/self-host-rss.html) ([Lobsters](https://lobste.rs/s/iocucx/self_hosted_rss_setup))
 - [A New Take on RSS (2020)](https://findka.com/blog/new-take-on-rss/) ([HN](https://news.ycombinator.com/item?id=25376849))
 - [Aggr](https://aggr.md/) - Feed aggregator which aims at being lean and fast. ([GitHub](https://github.com/aggr))
@@ -110,3 +110,23 @@
 - [FeedMixer](https://github.com/cristoper/feedmixer) - Self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON).
 - [Why and how to use RSS for consuming knowledge (2021)](https://bluprince13.com/blog/why-and-how-to-use-rss-for-consuming-knowledge) ([HN](https://news.ycombinator.com/item?id=28412084))
 - [RSS by email](https://rssby.email/) - Subscribe to RSS Feeds over Email. ([HN](https://news.ycombinator.com/item?id=28571528)) ([Code](https://github.com/skx/rss2email))
+- [Using RSS to replace social media](https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media) ([HN](https://news.ycombinator.com/item?id=28645871))
+- [Miniflux](https://miniflux.app/) - Minimalist and Opinionated Feed Reader.
+- [rss](https://github.com/rust-syndication/rss) - Rust library for serializing the RSS web content syndication format.
+- [RSS is wonderful (2021)](https://quakkels.com/posts/rss-is-wonderful/) ([HN](https://news.ycombinator.com/item?id=28967540)) ([Lobsters](https://lobste.rs/s/s68iid/rss_is_wonderful))
+- [splitflap](https://github.com/otherjoel/splitflap) - RSS / Atom feed generation library for Racket.
+- [The Arsse](https://thearsse.com/) - Clean & modern RSS server that doesn’t give you any crap. ([Code](https://github.com/mensbeam/arsse))
+- [RSS Discovery Engine](https://rdengine.herokuapp.com/) - Encourage people to use RSS for finding and consuming their news and current events. ([Code](https://github.com/quakkels/rssdiscoveryengine))
+- [DecSync (Decentralized Synchronization)](https://github.com/39aldo39/DecSync) - Synchronize RSS, contacts, calendars, tasks and more without a server.
+- [Crssnt](https://github.com/tgel0/crssnt) - Open source RSS feed generator for Google Sheets.
+- [RSS Combine](https://github.com/chase-seibert/rsscombine) - Combine many RSS feeds into one feed.
+- [reader](https://github.com/lemon24/reader) - Python feed reader library.
+- [rss_parsers](https://github.com/hussein-esmail7/rss-parsers) - Convert an HTML page to RSS with URL support.
+- [node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
+- [rss-parser](https://github.com/rbren/rss-parser) - Lightweight RSS parser, for Node and the browser.
+- [rss-to-email](https://github.com/rsslove/rss-to-email) - Generate HTML emails from your RSS feeds.
+- [How to Add an RSS Feed to a NextJS Blog (2021)](https://www.daan.fyi/writings/rss)
+- [Working With Web Feeds: It’s More Than RSS (2021)](https://css-tricks.com/working-with-web-feeds-its-more-than-rss/)
+- [Web Syndication with JSON Feeds (2020)](https://lukasschwab.me/blog/gen/json-feed-tools.html)
+- [RSS/EMAIL](https://www.rssto.email/) - Substack for RSS feeds. ([Article](https://ab.xyz/posts/rss-to-email/)) ([Code](https://github.com/aksh-at/rss-to-email))
+- [inoreadr](https://github.com/hrbrmstr/inoreadr) - Access and Orchestrate Inoreader Feeds, Preferences, and Metadata.

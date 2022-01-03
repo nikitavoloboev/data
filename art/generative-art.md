@@ -139,7 +139,7 @@
 - [I redesigned my site & added some generative art (2021)](https://meowni.ca/posts/redesign/) ([Tweet](https://twitter.com/notwaldorf/status/1408094426031747072))
 - [Mondrian Art Generator](https://tool.graphics/mondrian) ([Code](https://github.com/andronov04/mondrian-art))
 - [Subscapes by Matt DesLauriers](https://artblocks.io/project/53) - Generative algorithm that draws the impression of a landscape from a multitude of possibilities. ([Code](https://github.com/mattdesl/subscapes))
-- [Javad Tabatabaei's generative art](https://www.hicetnunc.xyz/tz/tz1MuBZEBbqmPDqf67jDErYKn1RUScc2Zx7A/creations)
+- [Javad Tabatabaei's generative art](https://hicetnunc.art/tz/tz1MuBZEBbqmPDqf67jDErYKn1RUScc2Zx7A/creations)
 - [Non-Circular Packing (2021)](https://ippsketch.com/posts/non-circular-packing/)
 - [Sketching - A Language for Creative Coding](https://soegaard.github.io/sketching/)
 - [The Rise of Long-Form Generative Art (2021)](https://tylerxhobbs.com/essays/2021/the-rise-of-long-form-generative-art)
@@ -155,3 +155,45 @@
 - [Creative Coding with Swift](https://github.com/masoodkamandy/Creative-Coding-Course-with-SwiftProcessing)
 - [Generative Utils](https://github.com/georgedoescode/generative-utils) - Collection of handy generative art utilities.
 - [Pattern generator with 1300 shapes and 300 dpi](https://tool.graphics/geometric) ([HN](https://news.ycombinator.com/item?id=28623408))
+- [Generative Design Code Package (for P5.js)](https://github.com/generative-design/Code-Package-p5.js)
+- [Generative Design, Creative Coding on the Web Book](http://www.generative-gestaltung.de/2/)
+- [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine) - Tool used to create multiple different instances of artworks based on provided layers.
+- [David Mignot IG](https://www.instagram.com/idflood/)
+- [Flora](https://github.com/jaseknighter/flora) - L-systems sequencer and bandpass filtered sawtooth engine for monome norns.
+- [Suite of tools for NFT generative art](https://github.com/alephao/nftool)
+- [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) - References of Generative Deep Learning tools, works, models, etc.
+- [7 Days of Code](https://7daysofcode.art/) - Monthly social creativity challenge for generating art with code. ([Code](https://github.com/SabinT/7daysofcode))
+- [Generative Art Books](https://github.com/cdr6934/awesome-generative-books)
+- [Creative Coding Notes](https://github.com/cacheflowe/creative-coding-notes)
+- [Haxademic.js](https://github.com/cacheflowe/haxademic.js) - Personal front-end JavaScript toolkit.
+- [Tiny humans](https://tinyhumans.vercel.app/) - Little interactive sandbox for tiny people, tiny thoughts, and their tiny stories. ([Code](https://github.com/thesephist/tinyhumans))
+- [Tyler Hobbs - Designing NFT Generative Art with a Traditional Touch (2021)](https://www.proof.xyz/tyler-hobbs-designing-nft-generative-art/)
+- [aRt](https://github.com/nrennie/aRt) - R package to create generative art.
+- [GenerativeArt-SwiftUI](https://github.com/martinhoeller/GenerativeArt-SwiftUI)
+- [Cubeverse](https://cubeversenft.com/) - Generative, unique and random NFTs of beautiful structures, of different shapes and sizes. ([Twitter](https://twitter.com/TheCubeverse))
+- [Magically Rearranging Patterns - CSS Houdini](https://codepen.io/georgedoescode/pen/YzxrRZe) ([Tweet](https://codepen.io/georgedoescode/pen/YzxrRZe))
+- [genartlib](https://github.com/thobbs/genartlib) - Utilities for creating generative artwork with Clojure.
+- [Open source and generative art](https://www.somebits.com/weblog/culture/generative-art-and-open-source.html)
+- [Programmable Pen Tool](https://s.baku89.com/pentool/) - Vector graphics editor with programmable pen tools. ([Code](https://github.com/baku89/pentool))
+- [Samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator.
+- [Create Generative Art with R](https://github.com/cutterkom/generativeart)
+- [Women in Generative Art Twitter List](https://twitter.com/i/lists/1458840272046071825)
+- [Generative Art Using Neural Visual Grammars and Dual Encoders](https://github.com/deepmind/arnheim)
+- [GenArt](https://github.com/gengeomergence/GenArt) - Various Sketches written in Python Language for Processing.
+- [thi.ng](https://thi.ng/) - Polyglot computational design tools (TypeScript, Clojure, ClojureScript, C). ([GitHub](https://github.com/thi-ng))
+- [Generative Deep Learning Book (2019)](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/)
+- [Nannou/Rust tutorial based on Schotter by Georg Nees](https://github.com/sidwellr/schotter)
+- [Escher-like Spiral Tilings (2019)](https://isohedral.ca/escher-like-spiral-tilings/)
+- [Generation of advanced Escher-like spiral tessellations (2021)](https://link.springer.com/article/10.1007/s00371-021-02232-0) ([HN](https://news.ycombinator.com/item?id=29490327))
+- [nightgraph](https://github.com/kneitinger/nightgraph) - Interactive, low-boilerplate creative coding platform in Rust.
+- [WEIRD-A](https://github.com/inconvergent/weird) - Generative art in Common Lisp. ([HN](https://news.ycombinator.com/item?id=28868842))
+- [Volumetric Light (2021)](https://inconvergent.net/2021/volumetric-light/)
+- [Future Alterations (2020)](https://inconvergent.net/2020/future-alterations/)
+- [Future Alterations and Loops (2021)](https://inconvergent.net/2021/future-alterations-and-loops/)
+- [Building an Autonomous Generative Art Collection with P5.js (2021)](https://richtabor.com/generative-art/) ([HN](https://news.ycombinator.com/item?id=29558179))
+- [Generative Art Experiments using Haskell, GHCJS, and Reflex (FRP)](https://github.com/mankyKitty/fantastic-waddle)
+- [Grok {Shan, Shui}\*: Advent of understanding the generative art (2021)](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html) ([HN](https://news.ycombinator.com/item?id=29717476))
+- [Procedurally understandably generated Chinese landscape painting](https://github.com/RedContritio/shan_shui_inf)
+- [2D Generative Art Resources](https://twitter.com/miketuritzin/status/1476320114353979394)
+- [Building Generative Glitch Art Tools (2021)](https://adamfuhrer.com/building-generative-glitch-art-tools)
+- [Markov chain based generative art](https://github.com/larixk/markov)

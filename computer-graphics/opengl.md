@@ -18,3 +18,8 @@
 - [ANGLE](https://github.com/google/angle) - Almost Native Graphics Layer Engine. Conformant OpenGL ES implementation.
 - [Awesome GLSL](https://github.com/vanrez-nez/awesome-glsl) - Best resources to learn programming OpenGL Shaders.
 - [glslSmartDeNoise](https://github.com/BrutPitt/glslSmartDeNoise) - Fast glsl deNoise spatial filter, with circular gaussian kernel, full configurable.
+- [PortableGL](https://github.com/rswinkle/PortableGL) - Implementation of OpenGL 3.x-ish in clean C.
+- [Guide to Modern OpenGL Functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions)
+- [zGLFW](https://github.com/Iridescence-Technologies/zglfw) - Thin, idiomatic wrapper for GLFW. Written in Zig.
+- [Thoughts on Emulating Command Buffers for OpenGL (2018)](https://gpfault.net/posts/opengl-command-buffers.txt.html)
+- [MP-APS](https://github.com/htmlboss/OpenGL-Renderer) - Modern OpenGL renderer written in C++17.

@@ -3,16 +3,15 @@
 ## Web Dev frameworks
 
 - [Next.js](https://github.com/vercel/next.js) - Framework for server-rendered or statically-exported React apps.
-- [Solid](https://www.solidjs.com/) - Declarative, efficient, and flexible JavaScript library for building user interfaces. ([Code](https://github.com/solidjs/solid)) ([Website Code](https://github.com/solidjs/solid-site)) ([Awesome](https://github.com/one-aalam/awesome-solid-js))
+- [Solid](https://www.solidjs.com/) - Declarative, efficient, and flexible JavaScript library for building user interfaces. ([Code](https://github.com/solidjs/solid)) ([Website Code](https://github.com/solidjs/solid-site)) ([Awesome](https://github.com/one-aalam/awesome-solid-js)) ([HN](https://news.ycombinator.com/item?id=29388296))
 - [San](https://github.com/baidu/san) - Flexible JavaScript component framework.
 - [hapi](https://hapijs.com/) - Rich framework for building applications and services.
 - [Koa](https://koajs.com/#introduction) - Smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Umi](https://github.com/umijs/umi) - Pluggable enterprise-level react application framework.
 - [Vue.js](https://vuejs.org/) - Progressive JavaScript Framework.
 - [Mithril](https://mithril.js.org/) - Modern client-side Javascript framework for building Single Page Applications. ([HN](https://news.ycombinator.com/item?id=25800754))
-- [Solid](https://github.com/ryansolid/solid) - Declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
-- [Alpine.js](https://github.com/alpinejs/alpine) - Rugged, minimal framework for composing JavaScript behavior in your markup. ([Awesome Alpine](https://github.com/alpine-collective/awesome)) ([HN](https://news.ycombinator.com/item?id=27707887))
+- [Alpine.js](https://github.com/alpinejs/alpine) - Rugged, minimal framework for composing JavaScript behavior in your markup. ([Awesome Alpine](https://github.com/alpine-collective/awesome)) ([HN](https://news.ycombinator.com/item?id=27707887)) ([Web](https://alpinejs.dev/)) ([Docs](https://alpinejs.dev/start-here))
 - [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4.
 - [Torus](https://github.com/thesephist/torus) - Event-driven model-view UI framework for the web, focused on being tiny, efficient, and free of dependencies. ([Web](https://thesephist.github.io/torus/))
 - [Hyperapp](https://github.com/jorgebucaran/hyperapp) - Tiny framework for building web interfaces. ([Web](https://hyperapp.dev/)) ([HN](https://news.ycombinator.com/item?id=23688798)) ([Hyperawesome](https://github.com/jorgebucaran/hyperawesome))
@@ -54,12 +53,17 @@
 - [neo.mjs](https://github.com/neomjs/neo) - Create blazing fast multithreaded Web Apps.
 - [presta](https://github.com/sure-thing/presta) - Hyper minimal framework for the modern web. ([Web](https://presta.run/))
 - [Haptic](https://github.com/heyheyhello/haptic) - Reactive web rendering in TSX with no virtual DOM, no compilers, and no magic.
-- [Astro](https://github.com/snowpackjs/astro) - Build faster websites with less client-side JavaScript. ([Web](https://astro.build/)) ([HN](https://news.ycombinator.com/item?id=27440553)) ([Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/)) ([Play](https://astro.build/play))
+- [Astro](https://github.com/snowpackjs/astro) - Build faster websites with less client-side JavaScript. ([Web](https://astro.build/)) ([HN](https://news.ycombinator.com/item?id=27440553)) ([Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/)) ([Play](https://astro.build/play)) ([Tweet](https://twitter.com/jlengstorf/status/1442707241627385860))
 - [Logux Client](https://github.com/logux/client) - New way to connect client and server. Instead of sending HTTP requests, it synchronizes log of operations between client, server, and other clients.
 - [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework.
 - [CalDOM](https://github.com/dumijay/CalDOM) - Agnostic, reactive & minimalist (3kb) JavaScript UI library with direct access to native DOM. ([Web](https://caldom.org/))
 - [Trimmings](https://github.com/postlight/trimmings) - Zero-configuration JavaScript library that adds a layer of smooth and fast in-page interaction to your web pages.
 - [Piral](https://piral.io/) - Easily build a next generation portal application using microfrontends. ([Code](https://github.com/smapiot/piral))
+- [Qiankun](https://github.com/umijs/qiankun) - Implementation of Micro Frontends, which based on single-spa. It aims to make it easier and painless to build a production-ready microfront-end architecture system. ([Web](https://qiankun.umijs.org/))
+- [Deepkit](https://github.com/deepkit/deepkit-framework) - Full-featured and high-performance web framework for sophisticated web applications. ([Web](https://deepkit.io/))
+- [Drayman](https://github.com/Claviz/drayman) - Server-side component framework.
+- [yeet](https://github.com/tornqvist/yeet) - Teeny-weeny front end framework.
+- [Xeact](https://github.com/Xe/Xeact) - Revolutionary Femtoframework For High Efficiency JavaScript Development. ([Article](https://christine.website/blog/xeact-0.0.69-2021-11-18))
 
 ## Animation
 
@@ -67,7 +71,7 @@
 - [popmotion](https://github.com/Popmotion/popmotion) - Functional, reactive animation library.
 - [impress.js](https://github.com/impress/impress.js) - Presentation framework based on the power of CSS3 transforms and transitions.
 - [Pts](https://github.com/williamngan/pts) - Library for visualization and creative-coding. ([Web](https://ptsjs.org/))
-- [lax.js](https://github.com/alexfoxy/laxxx) - Simple & light weight (<2kb gzipped) vanilla JS plugin to create smooth & beautiful animations when you scroll.
+- [lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [Flipping](https://github.com/davidkpiano/flipping) - Library (and collection of adapters) for implementing FLIP transitions.
 - [Ola](https://github.com/franciscop/ola) - Smooth animation library for interpolating numbers.
 - [react-spring](https://github.com/react-spring/react-spring) - Spring physics based React animation library.
@@ -75,11 +79,16 @@
 - [React Easy Flip](https://github.com/jlkiri/react-easy-flip) - Lightweight React library for smooth FLIP animations.
 - [AOS](https://github.com/michalsnik/aos) - Animate on scroll library.
 - [flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
+- [tatween](https://github.com/paraboul/tatween) - JavaScript library providing a block-based animation API.
 
 ## CLI
 
 - [mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments.
 - [qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts.
+
+## ML
+
+- [mind](https://github.com/stevenmiller888/mind) - Neural network library built in JavaScript.
 
 ## Test
 
@@ -94,6 +103,9 @@
 - [StrykerJS](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends. ([Web](https://stryker-mutator.io/))
 - [xv](https://github.com/typicode/xv) - Simple, fast and small test runner.
 - [Peeky](https://github.com/Akryum/peeky) - Test framework for the curious minds. ([Web](https://peeky.netlify.app/))
+- [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js.
+- [JSVerify](https://github.com/jsverify/jsverify) - Property-based checking. Like QuickCheck.
+- [brittle](https://github.com/davidmarkclements/brittle) - TAP test runner built for modern times.
 
 ## State management
 
@@ -101,7 +113,7 @@
 - [Overmind](https://github.com/cerebral/overmind) - Frictionless state management. ([Docs](https://overmindjs.org/)) ([HN](https://news.ycombinator.com/item?id=24750620))
 - [Storeon](https://github.com/ai/storeon) - Tiny event-based Redux-like state manager for React and Preact.
 - [Overstated](https://github.com/fabiospampinato/overstated) - React state management library that's delightful to use, without sacrificing performance or scalability.
-- [Effector](https://github.com/effector/effector) - Reactive state manager. ([Awesome](https://github.com/ilyalesik/awesome-effector)) ([Docs](https://effector.now.sh/docs/introduction/installation)) ([effector-storage](https://github.com/yumauri/effector-storage)) ([Пишем фичу в проекте с EffectorJS](https://www.youtube.com/watch?v=dtrWzH8O_4k))
+- [Effector](https://github.com/effector/effector) - Reactive state manager. ([Awesome](https://github.com/ilyalesik/awesome-effector)) ([Docs](https://effector.now.sh/docs/introduction/installation)) ([effector-storage](https://github.com/yumauri/effector-storage)) ([Пишем фичу в проекте с EffectorJS](https://www.youtube.com/watch?v=dtrWzH8O_4k)) ([The best part of Effector](https://dev.to/effector/the-best-part-of-effector-4c27)) ([Playground](https://share.effector.dev/)) ([Playground Code](https://github.com/effector/repl))
 - [Akita](https://github.com/datorama/akita) - State Management Tailored-Made for JS Applications.
 - [Observable Store](https://github.com/DanWahlin/Observable-Store) - Provides a simple way to manage state in Angular, React, Vue.js and other front-end applications.
 - [Cerebral](https://github.com/cerebral/cerebral) - Declarative state and side effects management solution for popular JavaScript frameworks.
@@ -126,10 +138,21 @@
 - [Connect PG Simple](https://github.com/voxpelli/node-connect-pg-simple) - Simple, minimal PostgreSQL session store for Express/Connect.
 - [SyncedDB](https://github.com/paldepind/synceddb) - Makes it easy to write offline-first applications with realtime syncing and server side persistence.
 - [Dexie.js](https://dexie.org/) - Minimalistic IndexedDB Wrapper. ([Docs](https://dexie.org/docs/))
+- [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
+- [Dexie.js](https://github.com/dfahlander/Dexie.js) - Minimalistic Wrapper for IndexedDB. ([Web](https://dexie.org/))
+- [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database.
 
 ## React
 
 - [state-machines-in-react](https://github.com/tanem/state-machines-in-react) - Small React, xstate and Framer Motion demo.
+
+## Math
+
+- [Eigen.js](https://github.com/BertrandBev/eigen-js) - Port of the Eigen C++ linear algebra library.
+
+## Crypto
+
+- [Elliptic](https://github.com/indutny/elliptic) - Fast Elliptic Curve Cryptography in plain JS.
 
 ## Other
 
@@ -202,7 +225,7 @@
 - [RequireJS](https://github.com/requirejs/requirejs) - File and module loader for JavaScript.
 - [Zero](https://github.com/sinclairzx81/zero) - 3D graphics rendering pipeline. Implemented in JavaScript. Run in a terminal.
 - [xstate-viz](https://github.com/statecharts/xstate-viz) - Visualize state charts.
-- [htmr](https://github.com/pveyes/htmr) - Simple and lightweight (< 2kB) HTML string to React element conversion library.
+- [htmr](https://github.com/pveyes/htmr) - Simple and lightweight (&lt; 2kB) HTML string to React element conversion library.
 - [react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - React component which can parse JSX and output rendered React Components.
 - [Static Land](https://github.com/fantasyland/static-land) - Specification for common algebraic structures in JavaScript based on Fantasy Land.
 - [sorted-queue](https://github.com/jviide/sorted-queue) - Sorted queue, based on an array-backed binary heap.
@@ -247,7 +270,7 @@
 - [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control.
 - [gsheets](https://github.com/interactivethings/gsheets) - Get public Google Sheets as plain JavaScript/JSON.
 - [alga-ts](https://github.com/YBogomolov/alga-ts) - Algebraic graphs implementation in TypeScript.
-- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag. ([Awesome](https://github.com/chartjs/awesome))
+- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag. ([Awesome](https://github.com/chartjs/awesome))
 - [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
 - [clean-set](https://github.com/fwilkerson/clean-set) - Deep assignment alternative to the object spread operator and Object.assign.
 - [Search Query Syntax Parser](https://github.com/nepsilon/search-query-parser)
@@ -283,7 +306,7 @@
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js.
 - [Spotlight](https://github.com/karlisup/spotlight) - Search widget for your web API.
 - [Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript.
-- [Xterm.js](https://github.com/xtermjs/xterm.js) - Terminal for the web.
+- [Xterm.js](https://github.com/xtermjs/xterm.js) - Terminal for the web. ([Web](https://xtermjs.org/)) ([HN](https://news.ycombinator.com/item?id=28797535))
 - [Change Case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more.
 - [ChronoGraph](https://github.com/bryntum/chronograph) - Reactive, graph-based, computation engine.
 - [Sprotty](https://github.com/eclipse/sprotty) - Diagramming framework for the web.
@@ -332,7 +355,7 @@
 - [sonic-boom](https://github.com/mcollina/sonic-boom) - Extremely fast utf8 only stream implementation.
 - [Rough Notation](https://github.com/pshihn/rough-notation) - Small JavaScript library to create and animate annotations on a web page. ([HN](https://news.ycombinator.com/item?id=23339244))
 - [SqueakJS](https://github.com/codefrau/SqueakJS) - Squeak VM for the Web and Node.js. ([Web](https://squeak.js.org/))
-- [fit-textarea](https://github.com/fregante/fit-textarea) - Automatically expand a <textarea> to fit its content, in a few bytes.
+- [fit-textarea](https://github.com/fregante/fit-textarea) - Automatically expand a &lt;textarea&gt; to fit its content, in a few bytes.
 - [NanoPop](https://github.com/Simonwep/nanopop) - Ultra Tiny, Opinionated Positioning Engine. ([Web](https://simonwep.github.io/nanopop/))
 - [Angelfire](https://github.com/rish-16/Angelfire) - Lets you quickly build right-click-enabled context menus and drop-down menus for any element on your webpage.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
@@ -349,7 +372,7 @@
 - [bpmn-js](https://github.com/bpmn-io/bpmn-js) - BPMN 2.0 rendering toolkit and web modeler.
 - [fit-curve](https://github.com/soswow/fit-curve) - JavaScript implementation of Philip J. Schneider's "Algorithm for Automatically Fitting Digitized Curves" from the book "Graphics Gems".
 - [clean-deep](https://github.com/nunofgs/clean-deep) - Remove falsy, empty or nullable values from objects.
-- [regular-table](https://github.com/jpmorganchase/regular-table) - Regular <table> library, for async and virtual data models.
+- [regular-table](https://github.com/jpmorganchase/regular-table) - Regular &lt;table&gt; library, for async and virtual data models.
 - [Stimulus](https://github.com/hotwired/stimulus) - Modest JavaScript framework for the HTML you already have. ([Web](https://stimulus.hotwire.dev/)) ([Awesome](https://github.com/skatkov/awesome-stimulusjs))
 - [bigpicture.js](https://github.com/josephernest/bigpicture.js/) - Library that allows infinite panning and infinite zooming in HTML pages. ([Web](https://josephernest.github.io/bigpicture.js/index.html))
 - [Tragopan](https://github.com/team-video/tragopan) - Minimal dependency-free pan/zoom library. ([HN](https://news.ycombinator.com/item?id=23579102))
@@ -492,7 +515,7 @@
 - [Signature Pad](https://github.com/szimek/signature_pad) - JavaScript library for drawing smooth signatures.
 - [dom-to-image-retina](https://github.com/egoist/dom-to-image-retina) - dom-to-image but generates high-resolution images.
 - [loglevel](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
-- [Perfect Freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect freehand lines.
+- [Perfect Freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect freehand lines. ([Demo](https://perfect-freehand-example.vercel.app/))
 - [Alo](https://github.com/alojs/alo) - Full-fledged state management. ([Docs](http://www.alojs.com/index.html))
 - [Form-Data](https://github.com/form-data/form-data) - Library to create readable "multipart/form-data" streams. Can be used to submit forms and file uploads to other web applications.
 - [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
@@ -598,17 +621,114 @@
 - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module.
 - [Tocca.js](https://github.com/GianlucaGuarini/Tocca.js) - Super lightweight script ( ~1kB ) to detect via Javascript events like 'tap' 'longtap' 'dbltap' 'swipeup' 'swipedown' 'swipeleft' 'swiperight' on any kind of device.
 - [fast-base64](https://github.com/mitschabaude/fast-base64) - Fastest base64 on the web, with Wasm + SIMD.
-- [Nano Colors](https://github.com/ai/nanocolors) - Tiny and fast Node.js library for formatting terminal text with ANSI colors.
-- [Fractional Indexing](https://github.com/rocicorp/fractional-indexing) - Technique to create an ordering that can be used for Realtime Editing of Ordered Sequences.
+- [Nano Colors](https://github.com/ai/nanocolors) - Tiny and fast Node.js library for formatting terminal text with ANSI colors. ([Template](https://github.com/usmanyunusov/nanocolors-template)) ([HN](https://news.ycombinator.com/item?id=28659838)) ([Chalk maintainer's thoughts](https://github.com/babel/babel/pull/13783#issuecomment-927317201)) ([Tweet](https://twitter.com/andrey_sitnik/status/1445342703445757957))
+- [picocolors](https://github.com/alexeyraspopov/picocolors) - 2x times faster than nanocolors and use 2x less space in node_modules. ([Tweet](https://twitter.com/alexeyraspopov/status/1442418148951707649))
+- [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Smallest and fastest command-line coloring package on the internet. Trust me.
+- [Fractional Indexing](https://github.com/rocicorp/fractional-indexing) - Technique to create an ordering that can be used for Real time Editing of Ordered Sequences.
 - [Atrament](https://github.com/jakubfiala/atrament.js) - Small JS library for beautiful drawing and handwriting on the HTML Canvas. ([Web](https://www.fiala.space/atrament.js/demo/))
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
+- [paintvec](https://github.com/seanchas116/paintvec) - JavaScript 2D vector math library.
+- [Audio Recorder Polyfill](https://github.com/ai/audio-recorder-polyfill) - MediaRecorder polyfill to record audio in Edge and Safari.
+- [IPO](https://github.com/gre/ipo) - Easing library allowing to describe complex easings in JSON.
+- [JSXGraph](https://github.com/jsxgraph/jsxgraph) - Dynamic Mathematics with JavaScript ([Web](https://jsxgraph.org/wp/index.html)) ([HN](https://news.ycombinator.com/item?id=28702142))
+- [Vector Graph](https://vector-graph.com/) - Generate high-quality geometry and vector graphs with HTML.
+- [TweenTime](https://github.com/idflood/TweenTime) - JavaScript timeline.
+- [Micromodal.js](https://github.com/ghosh/Micromodal) - Tiny JavaScript library for creating accessible modal dialogs. ([Docs](https://micromodal.vercel.app/))
+- [Postal.js](https://github.com/postaljs/postal.js) - JavaScript pub/sub library supporting advanced subscription features, and several helpful add-ons.
+- [slugo](https://github.com/egoist/slugo) - Smallest possible slug utility for Node.js and Browser.
+- [Dry](https://github.com/jonschlinkert/dry) - Superset of the Liquid templating language, with first-class support for advanced inheritance features, and more.
+- [Bloom-Filters](https://github.com/Callidon/bloom-filters) - JS implementation of probabilistic data structures: Bloom Filter (and its derived), HyperLogLog, Count-Min Sketch, Top-K and MinHash.
+- [Session Resume](https://github.com/github/session-resume) - Annotate fields to be persisted on navigation away from the current page.
+- [Atropos](https://github.com/nolimits4web/atropos) - Lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects. ([Web](https://atroposjs.com/))
+- [Graph Dracula](https://github.com/strathausen/dracula) - JavaScript Graph Library.
+- [date-io](https://github.com/dmtrKovalenko/date-io) - Abstraction over common JavaScript date management libraries.
+- [sdf-csg](https://github.com/wwwtyro/sdf-csg) - Generate meshes from signed distance functions and constructive solid geometry operations.
+- [littlefoot](https://github.com/goblindegook/littlefoot) - Lightweight JavaScript library that creates exceptional footnotes. ([Web](https://littlefoot.js.org/))
+- [tzdb](https://github.com/vvo/tzdb) - Simplified, grouped and always up to date list of time zones, with major cities.
+- [Lazyframe](https://github.com/vb/lazyframe) - Dependency-free library for lazyloading iframes.
+- [msgpack-lite](https://github.com/kawanet/msgpack-lite) - Fast Pure JavaScript MessagePack Encoder and Decoder.
+- [medium-zoom](https://github.com/francoischalifour/medium-zoom) - JavaScript library for zooming images like Medium. ([Web](https://medium-zoom.francoischalifour.com/))
+- [PureImage](https://github.com/joshmarinacci/node-pureimage) - Pure JS implementation of an image drawing and encoding api, based on HTML Canvas.
+- [vanilla-hamburger](https://github.com/web-padawan/vanilla-hamburger) - Animated hamburger menu icons for modern web apps. ([Web](https://web-padawan.github.io/vanilla-hamburger/))
+- [editable.js](https://github.com/livingdocsIO/editable.js) - JavaScript API that defines a friendly and browser-consistent content editable interface.
+- [Fireworks.js](https://github.com/crashmax-dev/fireworks-js) - Simple fireworks library.
+- [module-error](https://github.com/vweevers/module-error) - Create errors with code and cause properties.
+- [InfiniteGrid](https://github.com/naver/egjs-infinitegrid) - Module used to arrange card elements including content infinitely on a grid layout. ([Web](https://naver.github.io/egjs-infinitegrid/))
+- [Okiba](https://github.com/okiba-gang/okiba) - Sharp collection of tools for front-end development, created with performance in mind.
+- [FastPriorityQueue.js](https://github.com/lemire/FastPriorityQueue.js) - Fast heap-based priority queue in JavaScript.
+- [Autobee](https://github.com/pfrazee/autobee) - Multiwriter Hyperbee comprised of multiple input Hyperbees using Autobase and Hypercore 10.
+- [std-env](https://github.com/unjs/std-env) - Detect current JavaScript environment.
+- [Nova Text Tools](https://github.com/biati-digital/nova-text-tools) - Swiss Army knife for text manipulation and selection.
+- [Ninja Keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
+- [remoteStorage.js](https://github.com/remotestorage/remotestorage.js) - JavaScript library for storing user data locally in the browser, as well as connecting to remoteStorage servers and syncing data across devices and applications. ([Docs](https://remotestorage.io/))
+- [JS Data Structures](https://github.com/make-github-pseudonymous-again/js-data-structures)
+- [Oby](https://github.com/fabiospampinato/oby) - Tiny Observable implementation. ([Tweet](https://twitter.com/fabiospampinato/status/1456675914377478144))
+- [trkl](https://github.com/jbreckmckye/trkl) - Reactive JavaScript programming in less than half a kilobyte.
+- [Microdiff](https://github.com/AsyncBanana/microdiff) - Fast, zero dependency object and array comparison library. ([HN](https://news.ycombinator.com/item?id=29130661)) ([Article](https://byteofdev.com/posts/microdiff/))
+- [lfi](https://github.com/TomerAberbach/lfi) - Lazy functional iteration library supporting sync, async, and concurrent iteration.
+- [Speed Highlight JS](https://github.com/matubu/speed_highlight_js) - Light, fast, and easy to use, dependencies free javascript syntax highlighter.
+- [Proload](https://github.com/natemoo-re/proload) - Searches for and loads your tool's JavaScript configuration files.
+- [Sticksy.js](https://github.com/kovart/sticksy) - Zero-dependency JavaScript library that sticks your elements to the top until they reaching the bottom.
+- [Async Tasks Runner](https://github.com/ms-fadaei/async-tasks-runner) - Super tiny (< 1kb gzipped), side-effect free, tree shakable, zero dependencies, and fully typed Tasks Runner.
+- [ULID JS](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier.
+- [Avsc](https://github.com/mtth/avsc) - Avro for JavaScript.
+- [msgpackr](https://github.com/kriszyp/msgpackr) - Ultra-fast MessagePack implementation with extension for record and structural cloning.
+- [Lib0](https://github.com/dmonad/lib0) - Monorepo of isomorphic utility functions.
+- [node-stdlib-browser](https://github.com/niksy/node-stdlib-browser) - Node standard library for browser.
+- [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
+- [cuid](https://github.com/ericelliott/cuid) - Collision-resistant ids optimized for horizontal scaling and performance.
+- [Spacing JS](https://github.com/stevenlei/spacingjs) - JavaScript utility for measuring the spacing between elements on webpage.
+- [co-share](https://github.com/cocoss-org/co-share) - JavaScript library for easily building shared applications such as chats and games. ([Tweet](https://twitter.com/BelaBohlender/status/1460563413327921156))
+- [bellboy](https://github.com/Claviz/bellboy) - Highly performant JavaScript data stream ETL engine.
+- [fnv-plus](https://github.com/tjwebb/fnv-plus) - JavaScript FNV-1a Hash Algorithm (up to 1024 bit) implementation.
+- [remote-web-streams](https://github.com/MattiasBuelens/remote-web-streams) - Web streams that work across web workers and iframes.
+- [web-streams-adapter](https://github.com/MattiasBuelens/web-streams-adapter) - Adapters for converting between different implementations of WHATWG Streams.
+- [pan-zoom](https://github.com/dy/pan-zoom) - Panning and zooming events for any target.
+- [bind-event-listener](https://github.com/alexreardon/bind-event-listener) - Utility to make binding and (especially) unbinding DOM events easier.
+- [Chrono](https://github.com/wanasit/chrono) - Natural language date parser in JavaScript.
+- [CAF](https://github.com/getify/CAF) - Cancelable Async Flows.
+- [queue-microtask](https://github.com/feross/queue-microtask) - Fast, tiny `queueMicrotask` shim for modern engines.
+- [Cerbero](https://github.com/thecreazy/cerbero) - Simple js library that gives you the ability to track everything your users are doing on your web page.
+- [Two.js](https://github.com/jonobr1/two.js) - Renderer agnostic two-dimensional drawing api for the web. ([Docs](https://two.js.org/))
+- [markup-it](https://github.com/GitbookIO/markup-it) - JavaScript library to parse and serialize markup content (Markdown and HTML).
+- [h3-js](https://github.com/uber/h3-js) - JavaScript version of H3, a hexagon-based geospatial indexing system.
+- [Floating UI](https://github.com/atomiks/floating-ui) - JavaScript positioning library for tooltips, popovers, dropdowns, and more. ([Web](https://www.floating-ui.com/))
+- [flow-field](https://github.com/romellogoodman/flow-field.js) - Library for generating flow fields.
+- [taki](https://github.com/egoist/taki) - Take a snapshot of any website.
+- [Zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense.
+- [Moo](https://github.com/no-context/moo) - Highly-optimized tokenizer/lexer generator. Use it to tokenize your strings, before parsing 'em with a parser.
+- [deeplinks.js](https://github.com/WesleyAC/deeplinks) - Simple deep links to any selection of text on your website.
+- [piecemeal](https://github.com/maraisr/piecemeal) - Send your data piecemeal.
+- [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers.
+- [double.js](https://github.com/munrocket/double.js) - Double-double arithmetic in JavaScript. A floating point expansion with 31 accurate decimal digits.
+- [dotparser](https://github.com/anvaka/dotparser) - Parser of GraphViz dot file format.
+- [bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written using JavaScript TypedArrays.
+- [ocean.js](https://github.com/oceanprotocol/ocean.js) - JavaScript library to privately & securely publish, exchange, and consume data.
+- [diagram-js](https://github.com/bpmn-io/diagram-js) - Toolbox for displaying and modifying diagrams on the web.
+- [Swear](https://github.com/franciscop/swear) - Flexible promise handling with JavaScript.
+- [OpenSeadragon](https://github.com/openseadragon/openseadragon) - Open-source, web-based viewer for zoomable images, implemented in pure JavaScript. ([Web](http://openseadragon.github.io/))
+- [Atomically](https://github.com/fabiospampinato/atomically) - Read and write files atomically and reliably.
+- [point-in-polygon](https://github.com/substack/point-in-polygon) - Determine if a point is inside of a polygon.
+- [Eruda](https://github.com/liriliri/eruda) - Console for Mobile Browsers. ([Web](https://eruda.liriliri.io/))
+- [fast-redact](https://github.com/davidmarkclements/fast-redact) - Serializes an object with JSON.stringify, censoring any data at paths specified.
+- [fast-safe-stringify](https://github.com/davidmarkclements/fast-safe-stringify) - Safe and fast serialization alternative to JSON.stringify.
+- [createContent](https://github.com/ungap/create-content) - Cross browser utility to create HTML or SVG runtime content.
+- [templite](https://github.com/lukeed/templite) - Lightweight templating in 150 bytes.
+- [ml-matrix](https://github.com/mljs/matrix) - Matrix manipulation and computation library.
+- [env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc.
+- [Draggabilly](https://github.com/desandro/draggabilly) - Make elements draggable.
+- [flattie](https://github.com/lukeed/flattie) - Tiny (203B) and fast utility to flatten an object with customizable glue.
+- [Zoomist](https://github.com/cotton123236/zoomist) - JavaScript library for zooming image.
+- [canvas-capture](https://github.com/amandaghassaei/canvas-capture) - Record the canvas as an image, mp4 video, or GIF from the browser.
+- [hardtack](https://github.com/alik0211/hardtack) - Ultra-light library for working with cookies in JavaScript.
+- [Eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript. ([Web](https://eta.js.org/))
 
 ## Links
 
 - [NPM](https://www.npmjs.com) - Node package manager registry.
 - [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio)
 - [Awesome XState](https://github.com/darrylhebbes/awesome_xstate)
-- [Moiva.io](https://moiva.io/) - Measure and compare JavaScript libraries side by side.
+- [Moiva.io](https://moiva.io/) - Measure and compare JavaScript libraries side by side. ([Code](https://github.com/aantipov/moiva))
 - [Scarf](https://about.scarf.sh/) - Installation analytics for your npm package. ([Code](https://github.com/scarf-sh/scarf-js))
 - [npmrank](https://github.com/anvaka/npmrank) - Computes various graph metrics for npm dependencies.
 - [UNPKG](https://unpkg.com/) - Fast, global content delivery network for everything on npm. ([Code](https://github.com/mjackson/unpkg))
@@ -621,3 +741,24 @@
 - [libnpmpublish](https://github.com/npm/libnpmpublish) - Node.js library for programmatically publishing and unpublishing npm packages.
 - [pacote](https://github.com/npm/pacote) - Fetches package manifests and tarballs from the npm registry.
 - [Dual Publish](https://github.com/ai/dual-publish) - Publish JS project as dual ES modules and CommonJS package to npm.
+- [Clean Publish](https://github.com/shashkovdanil/clean-publish) - Removing configuration files and fields in package.json before publishing to npm.
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
+- [install-pkg](https://github.com/antfu/install-pkg) - Install package programmatically. Detect package managers automatically (npm, yarn and pnpm).
+- [npm-search](https://github.com/algolia/npm-search) - Failure resilient npm registry to Algolia index replication process.
+- [stable-hash](https://github.com/shuding/stable-hash) - Stable JS value hash.
+- [npm-registry-fetch](https://github.com/npm/npm-registry-fetch) - Node.js library that implements a fetch-like API for accessing npm registry APIs consistently.
+- [Depp](https://github.com/CryogenicPlanet/depp) - Check your npm modules for unused and duplicate dependencies fast.
+- [Ask HN: How do you (security) audit external software using NPM packages? (2021)](https://news.ycombinator.com/item?id=29078836)
+- [npm install is curl (2021)](https://btao.org/2021/09/09/npm-install-is-curl-bash/) ([Lobsters](https://lobste.rs/s/wf3piq/npm_install_is_curl_bash))
+- [ES Modules Are Terrible](https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3) ([HN](https://news.ycombinator.com/item?id=29137663))
+- [npq](https://github.com/lirantal/npq) - Safely\* install packages with npm/yarn by auditing them as part of your install process.
+- [njt](https://njt.vercel.app/) - Quick navigation tool for npm packages. ([Code](https://github.com/kachkaev/njt))
+- [fixpack](https://github.com/HenrikJoreteg/fixpack) - package.json file scrubber for the truly insane.
+- [tiny-module-compiler](https://github.com/little-core-labs/tiny-module-compiler) - Compile, archive, unpack, and load compiled modules leveraging v8 cached data.
+- [ims](https://github.com/mafintosh/ims) - Install My Stuff - an opinionated npm module installer.
+- [can-npm-publish](https://github.com/azu/can-npm-publish) - Command line tool that check to see if npm publish is possible.
+- [prebuildify](https://github.com/prebuild/prebuildify) - Create and package prebuilds for native modules.
+- [npm-stat](https://npm-stat.com/) - Download statistics for NPM packages. ([Code](https://github.com/pvorb/npm-stat.com))
+- [Packemon](https://github.com/milesj/packemon) - Build and prepare packages for npm distribution using standardized configurations and practices. ([Docs](https://packemon.dev/docs/))
+- [Top 1000 most depended-upon npm packages](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
+- [pkg-size](https://github.com/pkg-size/pkg-size) - Measure the size of your npm package distribution.

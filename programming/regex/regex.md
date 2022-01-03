@@ -11,8 +11,18 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - `.*` = will select all occurrences
 - A regex is useful for validating simple patterns and for finding patterns in text. For anything beyond that it’s almost certainly a terrible choice.
 
+## Code
+
+[Match if it has notes or twitter in input](https://regex101.com/r/eKyP11/2)
+`^(?=.*(?:notes|twitter)).*`
+
+Match all that don't have notes or twitter in input
+`^(?!._(?:notes|twitter))._`
+
 ## Links
 
+- [RegexLearn](https://regexlearn.com/) - Step by step, from zero to advanced. ([HN](https://news.ycombinator.com/item?id=29251702))
+- [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 - [Learn regex](https://github.com/zeeshanu/learn-regex) - Great reference.
 - [DebuggexBeta](https://debuggex.com/)
 - [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.
@@ -63,3 +73,11 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Orchestra](https://github.com/pouyakary/Orchestra) - Visual language that compiles into RegExp.
 - [UltimateRegexResource](https://github.com/GoldinGuy/UltimateRegexResource) - Ultimate collection of regex syntax and resources.
 - [Regex Generator](https://regex-generator.olafneumann.org/) - Generate regular expressions from sample texts. ([Code](https://github.com/noxone/regex-generator))
+- [Regex-like domain-specific language for pattern matching syntax trees](https://github.com/fkohlgrueber/pattern-matching)
+- [rxe](https://github.com/mtrencseni/rxe) - Literate and composable regular expressions.
+- [Recognize Regex Easily (2020)](https://dev.to/jamland/recognize-regex-easily-4k5i)
+- [Regex literals optimization (2020)](https://nitely.github.io/2020/11/30/regex-literals-optimization.html)
+- [A DFA for submatches extraction (2020)](https://nitely.github.io/2020/01/19/a-dfa-for-submatches-extraction.html)
+- [regex-cache](https://github.com/jonschlinkert/regex-cache) - Memoize the results of a call to the RegExp constructor, avoiding repetitious runtime compilation.
+- [tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Regex grammar for tree-sitter.
+- [rr4r](https://github.com/yutannihilation/rr4r) - Rust regex for R.

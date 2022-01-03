@@ -8,7 +8,7 @@
 - [@polkadot/apps](https://github.com/polkadot-js/apps) - Portal into the Polkadot and Substrate networks. Provides a view and interaction layer from a browser.
 - [Gavin Wood: Polkadot - Explaining the Launch Process (2020)](https://www.youtube.com/watch?v=TpcCeo-ZkDY)
 - [What is Polkadot? (2020)](https://www.reddit.com/r/dot/comments/i6zpt8/who_could_explain_to_me_please_what_is_polkadot/)
-- [Substrate](https://github.com/paritytech/substrate) - Next-generation framework for blockchain innovation.
+- [Substrate](https://github.com/paritytech/substrate) - Next-generation framework for blockchain innovation. ([Docs](https://docs.substrate.io/)) ([Docs Code](https://github.com/substrate-developer-hub/substrate-docs))
 - [substrate-lite](https://github.com/paritytech/substrate-lite) - Lightweight Substrate and Polkadot client.
 - [Moonbeam](https://moonbeam.network/) - Polkadot Smart Contract Platform. ([Code](https://github.com/PureStake/moonbeam))
 - [Substrate Archive](https://github.com/paritytech/substrate-archive) - Blockchain Indexing Engine. Run alongside a substrate-backed chain to index all Blocks, State, and Extrinsic data into PostgreSQL.
@@ -59,3 +59,15 @@
 - [Examples of interacting with a Polkadot node in Rust](https://github.com/paritytech/polkadot-interaction-examples-rs)
 - [Substrate playground](https://github.com/paritytech/substrate-playground) - Start hacking your substrate runtime in a web based VSCode like IDE. ([Web](https://playground.substrate.dev/))
 - [Substrate Connect](https://github.com/paritytech/substrate-connect) - Run Wasm Light Clients of any Substrate based chain directly in your browser.
+- [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - Collection of debug tools and libraries around substrate chains.
+- [Substrate Validator Set Pallet](https://github.com/gautamdhameja/substrate-validator-set)
+- [Gear](https://github.com/gear-tech/gear) - Computational Component of Polkadot Network.
+- [Play Substrate](https://github.com/kaichaosun/play-substrate) - Runtime modules for beginners to play.
+- [substrate-stencil](https://github.com/kaichaosun/substrate-stencil) - Template for kick starting a Substrate based PoS chain.
+- [protocol-substrate](https://github.com/webb-tools/protocol-substrate) - Webb protocol implementation in Substrate.
+- [filecoindot](https://github.com/ChainSafe/filecoindot) - Filecoin to substrate bridge.
+- [Talisman](https://app.talisman.xyz/portfolio) - Polkadot, Kusama & Parachain dashboard for the community. ([Web Code](https://github.com/TalismanSociety/talisman-web))
+- [Kusama](https://kusama.network/) - Polkadot's Canary Network.
+- [Polka Domain](https://github.com/polka-domain/polka-domain) - Decentralized, privacy preserving blockchain naming service and exchange built on Polkadot for everyone.
+- [Subspace Network](https://subspace.network/) - Open, scalable platform for both storage and compute that is fully interoperable with any layer one. ([Code](https://github.com/subspace/subspace))
+- [Astar Network](https://astar.network/) - Polkadot DApp Hub. ([Code](https://github.com/PlasmNetwork/Astar))

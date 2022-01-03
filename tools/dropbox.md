@@ -14,6 +14,12 @@ I also use Dropbox for sharing configuration of various apps.
 
 ![](https://i.imgur.com/F9nsqBn.png)
 
+## Notes
+
+- [Dropbox on mac can slow down Swift compilation](https://twitter.com/macguru17/status/1458037982435418119)
+
 ## Links
 
 - [Replacing Dropbox in favor of DigitalOcean spaces (2021)](https://mitjafelicijan.com/replacing-dropbox-in-favor-of-digitalocean-spaces.html) ([HN](https://news.ycombinator.com/item?id=25909336))
+- [Maestral](https://maestral.app/) - Open source Dropbox client. ([Code](https://github.com/samschott/maestral))
+- [Dropbox Sync does not natively support Apple Silicon](https://twitter.com/mitchellh/status/1453394500848537605) ([Reddit](https://www.reddit.com/r/apple/comments/qh6or2/dropbox_doesnt_support_apple_silicon_natively_yet/)) ([HN](https://news.ycombinator.com/item?id=29026304)) ([Tweet](https://twitter.com/marcoarment/status/1453735403626766341))

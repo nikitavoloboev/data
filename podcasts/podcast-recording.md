@@ -1,5 +1,13 @@
 # Podcast recording
 
+## Interesting Mics
+
+- [Shure MV7](https://twitter.com/fatih/status/1446036296640647168)
+
+## Notes
+
+- [Ask questions and don't interrupt the guest to let them think as much as they need.](https://twitter.com/nevmed/status/1476258800105660429)
+
 ## Links
 
 - [Hello Internet editing time lapse](http://www.cgpgrey.com/blog/hello-internet-editing-time-lapse)
@@ -28,3 +36,7 @@
 - [Podcast Transcript](https://www.getwelder.com/podcast-transcript) - Get your podcast transcription for free, in browser.
 - [Decentralized podcast platforms](https://twitter.com/cgcardona/status/1417848042665828363)
 - [What makes an interview podcast good or great? (2021)](https://marginalrevolution.com/marginalrevolution/2021/08/what-makes-a-podcast-good-or-great.html) ([HN](https://news.ycombinator.com/item?id=28059889))
+- [SquadCast](https://squadcast.fm/) - The Remote Recording Studio That Your Audience Will Love. ([Twitter](https://twitter.com/SquadCastFM))
+- [Cleanvoice](https://cleanvoice.ai/) - Automated Podcast Editing. ([HN](https://news.ycombinator.com/item?id=29288618))
+- [Easiest way to record a podcast (with video for YouTube + separate, high-quality audio tracks)](https://twitter.com/mxstbr/status/1463124899044773894)
+- [My DIY Free Podcast Hosting Setup (2021)](https://www.charlieharrington.com/my-diy-free-podcast-hosting-setup)

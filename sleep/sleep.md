@@ -11,6 +11,7 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Consuming alcohol prior to sleep increases your avg sleeping heart rate by >10% because your liver is metabolizing alcohol and your body producing cortisol. You are forcing your heart to beat an extra 3k times during the night + getting lower sleep quality and lower recovery](https://twitter.com/m_franceschetti/status/1375867987614371840)
 - [Do plants sleep? Anesthesia works on plants too, and we don’t know why.](https://news.ycombinator.com/item?id=27195813)
 - [Plenty of exercise improves the quality of my sleep, therefore requiring not as much sleep.](https://news.ycombinator.com/item?id=27821217)
+- [Sleep isn't restricted to organisms with a brain](https://www.youtube.com/watch?v=1tOx_Vh5diE)
 
 ## Links
 
@@ -44,3 +45,8 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Ask HN: What's your sleeping setup(bed/pillows/sheets)? (2021)](https://news.ycombinator.com/item?id=27327050)
 - [Sleep Loss Can Cause Death through Accumulation of Reactive Oxygen Species in the Gut](<https://www.cell.com/cell/pdf/S0092-8674(20)30555-9.pdf>)
 - [Damage protection from long term stress and sleep deprivation (2021)](https://www.reddit.com/r/Nootropics/comments/ol66wo/damage_protection_from_long_term_stress_and_sleep/)
+- [Tip to sleep soundly](https://twitter.com/michelletandler/status/1447367246075080707)
+- [Tips to improve sleep without buying $5k mattress (2021)](https://twitter.com/MCovBrown/status/1446854566645878787)
+- [Sleep technique used by Salvador Dalí works](https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot) ([HN](https://news.ycombinator.com/item?id=29515882))
+- [Notes on Walker – Why We Sleep (2021)](http://www.federicopereiro.com/notes-walker-sleep/)
+- [Tips for sleeping better](https://twitter.com/amasad/status/1475268980608667650)

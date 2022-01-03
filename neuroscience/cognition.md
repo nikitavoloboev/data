@@ -19,3 +19,8 @@
 - [Collection of openly available data sources for cognitively-inspired NLP](https://github.com/norahollenstein/cognitiveNLP-dataCollection/wiki)
 - [Stupidity is a specific cognitive failing](https://psyche.co/ideas/why-some-of-the-smartest-people-can-be-so-very-stupid) ([HN](https://news.ycombinator.com/item?id=28112878))
 - [Theoretical modeling for cognitive science and psychology](https://computationalcognitivescience.github.io/lovelace/home)
+- [Explaining the Evidence: How the Mind Investigates the World by David A Lagnado (2021)](https://www.goodreads.com/book/show/58210805-explaining-the-evidence) ([Tweet](https://twitter.com/david_lagnado/status/1451129159388999681))
+- [Cognition Without Computation (2021)](https://spectrum.ieee.org/computational-cognitive-science) ([HN](https://news.ycombinator.com/item?id=29029064))
+- [Spiders are much smarter than you think (2021)](https://arstechnica.com/science/2021/10/spiders-are-much-smarter-than-you-think/) ([HN](https://news.ycombinator.com/item?id=29137765))
+- [The Cognitive Bias Codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+- [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/page/tutorial.202108/)

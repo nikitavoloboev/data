@@ -3,6 +3,8 @@
 ## Web
 
 - [Javalin](https://github.com/tipsy/javalin) - Simple and modern Java and Kotlin web framework. ([Web](https://javalin.io/))
+- [NetworkResponseAdapter](https://github.com/haroldadmin/NetworkResponseAdapter) - Kotlin Coroutines based Retrofit call adapter that handles errors as a part of state.
+- [Apollo Kotlin](https://github.com/apollographql/apollo-kotlin) - Strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
 
 ## Graphics
 
@@ -15,6 +17,17 @@
 ## Test
 
 - [Kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing. ([Web](https://kotest.io/))
+- [Turbine](https://github.com/cashapp/turbine) - Small testing library for kotlinx.coroutines Flow.
+- [Kaspresso](https://github.com/KasperskyLab/Kaspresso) - Great UI test framework.
+
+## CLI
+
+- [kotlinx-cli](https://github.com/Kotlin/kotlinx-cli) - Pure Kotlin implementation of a generic CLI parser.
+- [Konsole](https://github.com/varabyte/konsole) - Declarative, Kotlin-idiomatic API for writing dynamic command line applications.
+
+## DB
+
+- [Krush](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin.
 
 ## Other
 
@@ -29,6 +42,12 @@
 - [AWS SDK for Kotlin](https://github.com/awslabs/aws-sdk-kotlin)
 - [Comachine](https://github.com/beworker/comachine) - Kotlin coroutine capable Finite-State Machine (multiplatform).
 - [jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. ([Web](https://jte.gg/))
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization.
+- [Odyssey](https://github.com/AlexGladkov/Odyssey) - Declarative multiplatform navigation library for Multiplatform Compose.
+- [Micro Template](https://github.com/polarene/micro-template) - Tiny and simple text templating library for Kotlin.
+- [KotlinGrad](https://github.com/breandan/kotlingrad) - Shape-Safe Symbolic Differentiation with Algebraic Data Types.
+- [Kaliningraph](https://github.com/breandan/kaliningraph) - Graph based IR in Kotlin.
+- [projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely.
 
 ## Links
 

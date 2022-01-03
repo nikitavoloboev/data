@@ -1,7 +1,12 @@
 # [Godot](https://godotengine.org/)
 
+## Nice Godot OSS apps
+
+- [Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/note-taking app that is focused on performance, small savefiles and simplicity.
+
 ## Links
 
+- [This Week in Godot](https://thisweekingodot.com/) - Weekly newsletter to stay tuned with news, tutorials, game and demo releases and more. ([Code](https://github.com/albizures/ThisWeekInGodot))
 - [Here comes Godot 3.2, with quality as priority (2020)](https://godotengine.org/article/here-comes-godot-3-2) ([HN](https://news.ycombinator.com/item?id=22179572))
 - [Create a First-Person Shooter In Godot](https://godottutorials.pro/fps-godot-tutorial/) ([HN](https://news.ycombinator.com/item?id=22373006))
 - [Make an Action RPG in Godot (2020)](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
@@ -17,7 +22,7 @@
 - [Godot 4.0 gets SDF based real-time global illumination (2020)](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination) ([HN](https://news.ycombinator.com/item?id=23668918))
 - [Making Advanced GUI Applications with Godot (2020)](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b) ([HN](https://news.ycombinator.com/item?id=24043427))
 - [Godot Python](https://github.com/touilleMan/godot-python) - Python language support as a scripting module for the Godot game engine.
-- [Godot Docs](https://docs.godotengine.org/en/stable/)
+- [Godot Docs](https://docs.godotengine.org/en/stable/) ([Code](https://github.com/godotengine/godot-docs))
 - [Godot demo projects](https://github.com/godotengine/godot-demo-projects)
 - [godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot's GDNative and NativeScript APIs.
 - [Godot Improvement Proposals](https://github.com/godotengine/godot-proposals)
@@ -32,3 +37,13 @@
 - [Dialogic](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations in your Godot games.
 - [Material Maker](https://github.com/RodZill4/material-maker) - Tool based on Godot Engine that can be used to create textures procedurally and paint 3D models.
 - [Stop Waiting for Godot (2021)](https://itch.io/jam/stop-waiting-for-godot) ([HN](https://news.ycombinator.com/item?id=28352397))
+- [Godot Export](https://github.com/firebelley/godot-export) - Workflow action to automatically export your Godot games.
+- [Godot Lua PluginScript](https://github.com/gilzoide/godot-lua-pluginscript) - Adds support for Lua as a scripting language in Godot.
+- [Godot FSM (Finite State Machine)](https://github.com/godot-addons/godot-finite-state-machine)
+- [Improvements to shaders and visual shaders in Godot 4.0 (2021)](https://godotengine.org/article/improvements-shaders-visual-shaders-godot-4)
+- [Multiplayer in Godot 4.0: Scene Replication (Part 1) (2021)](https://godotengine.org/article/multiplayer-changes-godot-4-0-report-4) ([HN](https://news.ycombinator.com/item?id=29362912))
+- [Godot Engine's native Blender exporter add-on](https://github.com/godotengine/godot-blender-exporter)
+- [Godot tips and tricks](https://github.com/me2beats/godot-tips-and-tricks)
+- [Fox](https://github.com/uralys/fox) - Tools to help develop with Godot engine. ([HN](https://news.ycombinator.com/item?id=29714408))
+- [Learn GDScript From Zero](https://github.com/GDQuest/learn-gdscript)
+- [Godot Shaders](https://github.com/GDQuest/godot-shaders) - Large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.

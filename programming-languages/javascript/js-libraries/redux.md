@@ -1,10 +1,12 @@
 # [Redux](https://redux.js.org)
 
-It is common to use React with a Flux pattern to manage the state of the application. Redux is one of the most used and well supported state managers to be used (but not exclusively) with React. The Gist of Redux is a follows:
+The Gist of Redux is a follows:
 
 - The whole state of your app is stored in an object tree inside a single store.
 - The only way to change the state tree is to emit an action, an object describing what happened.
 - To specify how the actions transform the state tree, you write pure reducers.
+
+There are [better approaches to manage state in React now](https://twitter.com/kamyshev_dev/status/1441736479240122372).
 
 ## Notes
 
@@ -84,3 +86,10 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Let’s Learn Modern Redux! (with Mark Erikson) (2021)](https://www.youtube.com/watch?v=9zySeP5vH9c) ([Code](https://github.com/learnwithjason/lets-learn-redux-toolkit))
 - [Stop using the “container/presentational” pattern in Redux (2021)](https://medium.com/nmc-techblog/why-you-should-stop-using-the-container-presentational-pattern-in-redux-29b112406128) ([Reddit](https://www.reddit.com/r/reactjs/comments/ox6cwk/why_you_should_stop_using_the/))
 - [Typed Redux Saga](https://github.com/agiledigital/typed-redux-saga) - Better TypeScript typing in redux-saga.
+- [Why Redux isn't good any more (2021)](https://twitter.com/kamyshev_dev/status/1441736479240122372)
+- [localfirst/state](https://github.com/local-first-web/state) - Automatically replicated Redux store that gives your app offline capabilities and secure peer-to-peer synchronization superpowers.
+- [Is Redux still recommended in 2021?](https://www.reddit.com/r/reactjs/comments/pwfubd/is_redux_still_recommended_in_2021/)
+- [Redux Toolkit Query vs React Query (2021)](https://www.youtube.com/watch?v=LDS1ll93P-s) ([Tweet](https://twitter.com/acemarke/status/1450219978813288448))
+- [use-redux-effect](https://github.com/Qeepsake/use-redux-effect) - Powerful React hook that subscribes to Redux store events.
+- [Should you use Redux still (2021)](https://twitter.com/traversymedia/status/1466034407609974786)
+- [Confidently Testing Redux Applications with Jest & TypeScript (2021)](https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b)

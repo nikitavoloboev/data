@@ -66,3 +66,20 @@
 - [ogl-tools](https://github.com/ayamflow/ogl-tools) - WebGL tools for use with the OGL library.
 - [WebGL-Memory](https://github.com/greggman/webgl-memory) - Library to track webgl-memory.
 - [Smooth WebGL Shader Transformations on Scroll](https://github.com/Faboolea/shaders-on-scroll)
+- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
+- [PicoGL.js](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library.
+- [nanogl](https://github.com/plepers/nanogl) - WebGL micro framework.
+- [Blub](https://github.com/Wumpf/blub) - 3D fluid simulation experiments in Rust, using WebGPU-rs.
+- [Porting WebGL Shaders to WebGPU (2021)](https://www.construct.net/en/blogs/ashleys-blog-2/porting-webgl-shaders-webgpu-1576) ([HN](https://news.ycombinator.com/item?id=29001270))
+- [React Vertex](https://github.com/sghall/react-vertex) - Hooks-based WebGL library for React. ([Docs](https://react-vertex.com/))
+- [regl-gpu-lines](https://github.com/rreusser/regl-gpu-lines) - Pure GPU instanced, screen-projected lines for regl.
+- [Phenomenon](https://github.com/vaneenige/phenomenon) - Fast 2kB low-level WebGL API.
+- [WebGL Water](http://madebyevan.com/webgl-water/) ([Code](https://github.com/evanw/webgl-water)) ([HN](https://news.ycombinator.com/item?id=29376037))
+- [MeshCat Python](https://github.com/rdeits/meshcat-python) - Python Bindings to the MeshCat WebGL viewer.
+- [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) - Julia bindings to the MeshCat WebGL viewer.
+- [WebGLWorker](https://github.com/kripken/webgl-worker) - Lets you write WebGL code in a web worker, as if WebGL were implemented there.
+- [Hilo3D](https://github.com/hiloteam/Hilo3d) - 3D WebGL Rendering Engine.
+- [Canvas2DtoWebGL.js](https://github.com/jagenjo/Canvas2DtoWebGL) - Ports (almost) all Canvas2D functions to the GPU so it can be mixed with a WebGL canvas.
+- [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+- [W](https://github.com/xem/W) - Micro WebGL2 framework with a ton of features. ([Docs](https://xem.github.io/W/))
+- [WebGL + Rust: Basic Water Tutorial (2019)](https://chinedufn.com/3d-webgl-basic-water-tutorial/) ([Code](https://github.com/chinedufn/webgl-water-tutorial))

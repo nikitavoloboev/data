@@ -18,3 +18,6 @@
 - [neomap](https://github.com/stellasia/neomap) - Neo4j Desktop application to visualize nodes with geographic attributes on a map.
 - [No Cost Data Scraping With GitHub Actions And Neo4j Aura (2021)](https://lyonwj.com/blog/no-cost-data-scraping-github-actions-neo4j-aura) ([Code](https://github.com/johnymontana/lobste.rs-graph))
 - [Neo4j-go-ogm](https://github.com/codingfinest/neo4j-go-ogm) - Neo4j Object Graph Mapping Library for Go runtime.
+- [Graph Data Visualization With GraphQL & react-force-graph (2021)](https://lyonwj.com/blog/graph-visualization-with-graphql-react-force-graph)
+- [Truth Behind Neo4j’s “Trillion” Relationship Graph (2021)](https://www.tigergraph.com/blogs/benchmark/truth-behind-neo4js-trillion-relationship-graph/)
+- [Neo4j GraphQL Library](https://github.com/neo4j/graphql) - GraphQL to Cypher query execution layer for Neo4j and JavaScript GraphQL implementations.

@@ -23,3 +23,5 @@
 - [homebridge-z2m](https://github.com/itavero/homebridge-z2m) - Expose your Zigbee devices to HomeKit with ease, by integrating Zigbee2MQTT with Homebridge. ([Web](https://z2m.dev/))
 - [Homebridge Platform Plugin Template](https://github.com/homebridge/homebridge-plugin-template) - Template you can use to create your own Homebridge plugins.
 - [Homebridge UniFi Protect](https://github.com/hjdhjd/homebridge-unifi-protect) - Complete HomeKit integration for UniFi Protect.
+- [HAP-rs](https://github.com/ewilken/hap-rs) - Rust implementation of the Apple HomeKit Accessory Protocol (HAP).
+- [Reflections on a Year with HomeKit (2021)](https://tidbits.com/2021/12/17/reflections-on-a-year-with-homekit/) ([HN](https://news.ycombinator.com/item?id=29707470))

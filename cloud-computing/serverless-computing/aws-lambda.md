@@ -75,3 +75,23 @@
 - [Performance monitoring for AWS Lambda (2021)](https://taavirehemagi.medium.com/performance-monitoring-for-aws-lambda-6d9eefb21716)
 - [Lambda GitHub Runner](https://github.com/nwestfall/lambda-github-runner) - Github Action Runner inside of Lambda - A Completely Serverless Solution.
 - [aws-websocket-handler](https://github.com/matrus2/aws-websocket-handler) - Module is created to handle AWS Lambda websocket actions as a one default handler.
+- [Abusing AWS Lambda to make an Aussie search engine (2021)](https://boyter.org/posts/abusing-aws-to-make-a-search-engine/) ([HN](https://news.ycombinator.com/item?id=28665395))
+- [Learn AWS Lambda](https://github.com/dwyl/learn-aws-lambda) - Learn how to use AWS Lambda to easily create infinitely scalable web services.
+- [An ideal DX for Rust on AWS Lambda? (2021)](https://github.com/aws-samples/serverless-rust-demo/issues/4)
+- [AWS Lambda Cold Start Times (2021)](https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1) ([HN](https://news.ycombinator.com/item?id=28838716))
+- [Running Rust on AWS Lambda on ARM64 (2021)](https://www.ballpointcarrot.net/posts/rust-arm-lambdas/)
+- [AWS Lambda runtimes](https://github.com/architect/lambda-runtimes) - Canonical list of AWS Lambda runtime identifiers and corresponding CPU architectures.
+- [Stream, Mutate and Sign Images with AWS Lambda and ECR (2021)](https://martin.baillie.id/wrote/stream-mutate-and-sign-images-with-aws-lambda-and-ecr/) ([Code](https://github.com/martinbaillie/ocistow))
+- [lambroll](https://github.com/fujiwara/lambroll) - Minimal deployment tool for AWS Lambda.
+- [Middy](https://github.com/middyjs/middy) - Simple middleware engine that allows you to simplify your AWS Lambda code when using Node.js.
+- [Klayers](https://github.com/keithrozario/Klayers) - Python Packages as AWS Lambda Layers.
+- [lmdrouter](https://github.com/aquasecurity/lmdrouter) - Go HTTP router library for AWS API Gateway-invoked Lambda Functions.
+- [aws-lambda-image](https://github.com/ysugimoto/aws-lambda-image) - Automatic image resize/reduce on AWS Lambda.
+- [API Gateway REST API: Step Functions direct integration – AWS CDK guide (2021)](https://dev.to/aws-builders/api-gateway-rest-api-step-functions-direct-integration-aws-cdk-guide-13c4)
+- [Implementing header-based API Gateway versioning with Amazon CloudFront (2021)](https://aws.amazon.com/blogs/compute/implementing-header-based-api-gateway-versioning-with-amazon-cloudfront/)
+- [Tips to prevent a serverless wreck (2021)](https://dev.to/aws-heroes/tips-to-prevent-a-serverless-wreck-15af)
+- [Serverless WarmUp Plugin](https://github.com/juanjoDiaz/serverless-plugin-warmup) - Keep your lambdas warm during winter.
+- [Fat Functions are an Anti-Pattern (2021)](https://blog.begin.com/posts/2021-12-01-fat-function-anti-pattern) ([Tweet](https://twitter.com/brianleroux/status/1466102082662899712))
+- [Make the most of AWS Lambda with Go](https://kevinmcconnell.gumroad.com/l/lambda-go-book/hn) ([HN](https://news.ycombinator.com/item?id=29441272))
+- [Mantil](https://github.com/mantil-io/mantil) - Build your AWS Lambda-based Go backends quicker than ever. ([Web](https://www.mantil.com/))
+- [lambda-web](https://github.com/hanabu/lambda-web) - Run Rust web frameworks on AWS Lambda.

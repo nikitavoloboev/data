@@ -1,4 +1,13 @@
-# [Cloudflare workers](https://www.cloudflare.com/en-gb/products/cloudflare-workers/)
+# [Cloudflare workers](https://workers.cloudflare.com/)
+
+## OSS tools build with CW
+
+- [Edge Comments](https://github.com/umstek/edge-comments) - Comments engine on the edge with Cloudflare.
+
+## Notes
+
+- [Think of Durable Objects as in memory cache in JavaScript spread across all edges globally with two specialties: 1. It’s automatically scaled and persisted to durable storage after workers finish execution. 2. It’s single threaded globally so you effectively get a write lock on them. The object actually only runs in one single location. And then based on the requests coming to it, Cloudflare moves it around to the most optimum location.](https://twitter.com/chatsidhartha/status/1460511611756728323?s=28)
+- [All the pieces are in place to build $1B company using Cloudflare Workers](https://twitter.com/eastdakota/status/1461722959639240713)
 
 ## Links
 
@@ -36,7 +45,7 @@
 - [saffron](https://github.com/cloudflare/saffron) - Cron parser powering Cron Triggers on Cloudflare Workers.
 - [Introduction to Cloudflare Workers Course](https://egghead.io/playlists/introduction-to-cloudflare-workers-5aa3)
 - [Cloudflare Workers Catalog](https://workers-catalog.pages.dev/) - Explore the existing Workers projects or just look for the right tooling for your next one. ([Code](https://github.com/eidam/cf-workers-catalog))
-- [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack platform for frontend developers to collaborate and deploy websites. ([HN](https://news.ycombinator.com/item?id=26778894))
+- [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack platform for frontend developers to collaborate and deploy websites. ([HN](https://news.ycombinator.com/item?id=26778894)) ([Tweet](https://twitter.com/CloudflareDev/status/1449038115042041862))
 - [workers-pubsub](https://github.com/sagi/workers-pubsub) - Google Pub/Sub API for Cloudflare Workers (and Node.js).
 - [db-connect](https://github.com/cloudflare/db-connect) - Connect your SQL database to Cloudflare Workers.
 - [cf-workers](https://github.com/kv-orm/cf-workers) - Cloudflare Workers KV datastore plugin for kv-orm.
@@ -55,7 +64,7 @@
 - [Multiplayer Doom on Cloudflare Workers (2021)](https://blog.cloudflare.com/doom-multiplayer-workers/) ([Code](https://github.com/cloudflare/doom-wasm)) ([HN](https://news.ycombinator.com/item?id=27194031)) ([Reddit](https://www.reddit.com/r/programming/comments/nfcavm/multiplayer_doom_on_cloudflare_workers/))
 - [kv-asset-handler](https://github.com/cloudflare/kv-asset-handler) - Open-source library for managing the retrieval of static assets from Workers KV inside of a Cloudflare Workers function.
 - [Building real-time games using Workers, Durable Objects, and Unity (2021)](https://blog.cloudflare.com/building-real-time-games-using-workers-durable-objects-and-unity/)
-- [Miniflare](https://github.com/mrbbot/miniflare) - Fully-local Cloudflare Workers Simulator. ([Docs](https://miniflare.dev/))
+- [Miniflare](https://github.com/cloudflare/miniflare) - Fully-local Cloudflare Workers Simulator. ([Docs](https://miniflare.dev/)) ([HN](https://news.ycombinator.com/item?id=28640618))
 - [worker-auth-providers](https://github.com/subhendukundu/worker-auth-providers) - Open-source auth providers for Cloudflare workers.
 - [Durable Objects: Easy, Fast, Correct — Choose three (2021)](https://blog.cloudflare.com/durable-objects-easy-fast-correct-choose-three/)
 - [Modernizing a familiar approach to REST APIs, with PostgreSQL and Cloudflare Workers (2021)](https://blog.cloudflare.com/modernizing-a-familiar-approach-to-rest-apis-with-postgresql-and-cloudflare-workers/)
@@ -70,3 +79,49 @@
 - [Profiling Your Workers with Wrangler (2021)](https://blog.cloudflare.com/profiling-your-workers-with-wrangler/)
 - [Reality Check for Cloudflare Wasm Workers and Rust (2021)](https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust) ([HN](https://news.ycombinator.com/item?id=28576295))
 - [Bringing OAuth 2.0 Flow to Wrangler (2021)](https://blog.cloudflare.com/wrangler-oauth/)
+- [Miniflare Example Project](https://github.com/mrbbot/miniflare-esbuild-ava) - Example project using Miniflare, esbuild and AVA.
+- [Cloudflare worker for embedding polls anywhere](https://github.com/vberlier/poll)
+- [A/B testing with Cloudflare workers (2021)](https://ptrlaszlo.com/posts/cloudflare-ab-testing)
+- [Dynamic Process Isolation: Research by Cloudflare and TU Graz (2021)](https://blog.cloudflare.com/spectre-research-with-tu-graz/) ([Paper](https://arxiv.org/pdf/2110.04751.pdf))
+- [Cloudflare Workers Web Code](https://github.com/cloudflare/workers.cloudflare.com)
+- [How I Automated the Boring with JavaScript, Cloudflare Workers, and Airtable (2021)](https://www.youtube.com/watch?v=tFQ2kbiu1K4&t=2s) ([Tweet](https://twitter.com/CloudflareDev/status/1448035062985883651))
+- [Cloudflare Worker - Status Page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack notification whenever your website status changes.
+- [Backwards-compatibility in Cloudflare Workers (2021)](https://blog.cloudflare.com/backwards-compatibility-in-cloudflare-workers/)
+- [CF Pages Await](https://github.com/WalshyDev/cf-pages-await) - Wait for a Cloudflare Pages build to finish so you can do actions like purge cache, update Workers, etc.
+- [Build a link shortener in under 50 lines of code with Cloudflare Workers and KV (2021)](https://www.unravelled.dev/cloudflare-workers-link-shortener/) ([Tweet](https://twitter.com/kzhen/status/1457373214234091523))
+- [Proxies in Cloudflare Workers](https://github.com/GitbookIO/proxies-on-cloudflare) - Makes it easy to build Cloudflare Workers, by providing high-level proxying primitives addressing common needs.
+- [OAuth with Cloudflare Workers on a Statically Generated Site (2021)](https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site/) ([HN](https://news.ycombinator.com/item?id=29225950))
+- [Relational Database Connectors for Cloudflare Workers (2021)](https://blog.cloudflare.com/relational-database-connectors/) ([HN](https://news.ycombinator.com/item?id=29227519))
+- [Making connections with TCP and Sockets for Workers (2021)](https://blog.cloudflare.com/introducing-socket-workers/)
+- [Durable Object Groups](https://github.com/cloudflare/dog) - Setup named clusters of related Durable Objects.
+- [Remix on Cloudflare Template](https://github.com/jacob-ebey/remix-cloudflare-demo) - Demo of Remix running on Cloudflare workers. ([Web](https://remix-cloudflare-demo.jacob-ebey.workers.dev/))
+- [wrangler2](https://github.com/cloudflare/wrangler2) - Command line tool for building Cloudflare Workers. ([Tweet](https://twitter.com/jevakallio/status/1460617288638468103)) ([Tweet](https://twitter.com/threepointone/status/1460611387735134209))
+- [Automatically generating types for Cloudflare Workers (2021)](https://blog.cloudflare.com/automatically-generated-types/) ([Tweet](https://twitter.com/_mrbbot/status/1460619162108280835))
+- [Introducing Services: Build Composable, Distributed Applications on Cloudflare Workers (2021)](https://blog.cloudflare.com/introducing-worker-services/)
+- [Durable Objects Counter template](https://github.com/cloudflare/durable-objects-rollup-esm)
+- [JavaScript modules are now supported on Cloudflare Workers (2021)](https://blog.cloudflare.com/workers-javascript-modules/)
+- [Cloudflare Pages Goes Full Stack (2021)](https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/) ([HN](https://news.ycombinator.com/item?id=29253032))
+- [Image sharing platform build with Cloudflare Pages](https://github.com/cloudflare/images.pages.dev) - Powered by Cloudflare Workers.
+- [Developer Spotlight: Automating Workflows with Airtable and Cloudflare Workers (2021)](https://blog.cloudflare.com/developer-spotlight-jacob-hands-tritails/)
+- [graphql-ws on Cloudflare Workers](https://github.com/enisdenjo/cloudflare-worker-graphql-ws-template) - Template for WebSockets powered Cloudflare Worker project using graphql-ws.
+- [Cloudflare Stream/Images/SaaS explained (2021)](https://twitter.com/signalnerve/status/1461729892983353347)
+- [Announcing native support for Stripe’s JavaScript SDK in Cloudflare Workers (2021)](https://blog.cloudflare.com/announcing-stripe-support-in-workers/)
+- [Example SaaS application built in public on the Cloudflare stack](https://github.com/cloudflare/production-saas) ([Article](https://blog.cloudflare.com/production-saas-intro/))
+- [github-proxy](https://github.com/mchaNetwork/github-proxy) - GitHub proxy running on Cloudflare Workers.
+- [Durable Objects TypeScript Counter template](https://github.com/cloudflare/durable-objects-typescript-rollup-esm)
+- [Apiker](https://github.com/hodgef/apiker) - Create Serverless APIs with Cloudflare Workers, Durable Objects & Wrangler.
+- [Blueboat](https://github.com/losfair/blueboat) - Open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps. ([HN](https://news.ycombinator.com/item?id=29321442))
+- [wasm-service](https://github.com/stevelr/wasm-service) - Base library for serverless WASM on Cloudflare Workers.
+- [wasm-service-oauth](https://github.com/stevelr/wasm-service-oauth) - Use OAuth with Cloudflare Workers.
+- [Build Data-Driven Applications on the Edge with Workers and Workers KV (2021)](https://egghead.io/courses/build-data-driven-applications-on-the-edge-with-workers-and-workers-kv-4932f3ea)
+- [Sunder](https://github.com/SunderJS/sunder) - Minimal server-side framework for building APIs and websites on Cloudflare Workers. ([Docs](https://sunderjs.com/docs/))
+- [ViteFlare](https://github.com/alloc/viteflare) - Cloudflare workers meet Vite plugins.
+- [stripe-node Cloudflare Worker Template](https://github.com/stripe-samples/stripe-node-cloudflare-worker-template)
+- [Miniflare Example Project](https://github.com/mrbbot/miniflare-typescript-esbuild-jest) - Example Cloudflare Workers project that uses Miniflare for local development.
+- [Durable Objects REST Message Queue Example](https://github.com/ryan-mars/workers-queue-demo)
+- [helix-flare](https://github.com/launchport/helix-flare) - GraphQL for your Cloudflare Workers and Durable Objects.
+- [Turborepo Remote Cache API with Cloudflare KV](https://github.com/msutkowski/turborepo-remote-cache-api-cf-kv)
+- [Hono](https://github.com/yusukebe/hono) - Tiny web framework for Cloudflare Workers and Fastly Compute@Edge.
+- [turborcache](https://github.com/cometkim/turbocache) - Cloudflare Workers as a custom remote cache for Turborepo.
+- [CloudFlare Workers FormData](https://github.com/TomasHubelbauer/workers-formdata)
+- [edgerender](https://github.com/samuelcolvin/edgerender) - Render at the edge.

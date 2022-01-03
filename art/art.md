@@ -37,6 +37,9 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Malik Thomas](http://malikthomas.co.uk/)
 - [Matt Mills](https://www.instagram.com/mattmillsart/)
 - [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
+- [Dmitry Markov](https://www.instagram.com/dcim.ru/)
+- [Sam Yang](https://www.instagram.com/samdoesarts/) ([YouTube](https://www.youtube.com/channel/UCNNOvB507MRfny7Jcv8MmOw))
+- [Jennifer Gennari](https://www.instagram.com/jen_art/) ([Web](https://www.jennifergennari.com/))
 
 ## Interesting artists
 
@@ -47,6 +50,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Thibaud Pourplanche](https://www.instagram.com/thibaud_pourplanche/)
 - [Owen D. Pomery](https://owenpomery.com/work)
 - [Cheryl Young](https://cysketch.com/)
+- [Jo Rioux](https://www.instagram.com/joriouxdraws/)
 - [Shusei Nagaoka](https://twitter.com/UrbanFoxxxx/status/1217915945882202112)
 - [Doug John Miller](https://www.instagram.com/dougjohnmiller/)
 - [Lee kyutae](https://www.instagram.com/kokooma_/)
@@ -60,6 +64,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nydia Lilian](https://www.instagram.com/nydialilian/)
 - [Moonassi](http://www.moonassi.com/)
 - [Liam Wong](https://www.liamwong.com/)
+- [Julia Zhuravleva](https://www.instagram.com/eleth_art/)
 - [Guim Tió](https://www.instagram.com/guimtio/)
 - [Pascal Campion](https://www.instagram.com/pascalcampionart/)
 - [Bastien Grivet](https://www.artstation.com/grivetart)
@@ -115,6 +120,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Kevin Hong](https://www.instagram.com/taijuey/) ([Web](https://www.kevinhong.com/))
 - [Leonardo Santamaria](http://www.leonardosantamaria.com/)
 - [Lossapardo](https://www.instagram.com/lossapardo/)
+- [Adrian Bush](https://www.instagram.com/plunteere/) ([Twitter](https://twitter.com/Plunteere))
 - [Michal Kváč](https://www.artstation.com/kvacm)
 - [Marcin Sacha](http://marcinsacha.arte.usermd.net/en/home-2/) ([Instagram](https://www.instagram.com/sachamarcin/))
 - [Nicola Samori](https://www.artsy.net/artist/nicola-samori)
@@ -157,6 +163,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Jesperish](https://www.instagram.com/jesperish/)
 - [Sage Jenson](https://sagejenson.com) - Generative art.
 - [Wenyi Geng](http://www.wenyigeng.com/)
+- [Viktor Vasnetsov](https://en.wikipedia.org/wiki/Viktor_Vasnetsov)
 - [Nicholas Kole](https://www.instagram.com/nicholaskole/) ([Web](https://www.nicholaskole.art/))
 - [Stefan Morrell](https://www.artstation.com/stefan_morrell)
 - [Milton Glaser](https://www.miltonglaser.com/the-work/)
@@ -180,6 +187,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Jim](https://jimllpaintit.tumblr.com/)
 - [Azlen Elza](https://www.instagram.com/azlenelza/)
 - [Jie Ma](https://www.behance.net/jiema37?)
+- [Alex Tomlinson](https://www.instagram.com/hoot.alex/)
 - [Eric Wallis](https://www.ericwallis.com/originals-store)
 - [Cole Peters](https://colepeters.com/)
 - [Mattis Dovier](https://mattisdovier.tumblr.com/) ([YouTube](https://www.youtube.com/channel/UCKhi8wL3aIlRCUkHWC-aHHg))
@@ -279,7 +287,9 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Julien Gauthier's dystopian, post–global-warming Bangkok](https://twitter.com/FedeItaliano76/status/1296827295806758912)
 - [Anna Niess Tumblr](https://glerpie.tumblr.com/)
 - [3D pic of paint 'Girl with Pearl Earring' with 10Bs of pixels](https://www.micro-pano.com/pearl/)
+- [Van Gogh's virtual painting](https://static.kuula.io/share/79QMS)
 - [The Beautiful Drawings of Richard Feynman](https://abakcus.com/the-beautiful-drawings-of-richard-feynman/)
+- [Solarpunk future](https://twitter.com/St_Magee/status/1472971802863308802)
 
 ## Photography
 
@@ -287,6 +297,8 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
 - [Noah Kalina](https://www.instagram.com/noahkalina/)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
+- [Christophe Jacrot](https://www.instagram.com/christophe.jacrot/)
+- [Elena Chernyshova](https://www.instagram.com/elena.chernyshova.photography/)
 - [John Wingfield](https://www.instagram.com/johnwingfield/)
 - [Maley](https://www.instagram.com/maleyphoto/)
 - [Daniel Casson](https://www.instagram.com/dpc_photography_/)
@@ -318,9 +330,12 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Oystein Aspelund](http://oysteinaspelund.com/)
 - [Rachael Talibart](https://www.instagram.com/rachaeltalibart/)
 - [Joshua K. Jackson](https://www.joshkjack.com/)
+- [Agnieszka Pałuk](https://www.instagram.com/wietrznica/)
 - [Petri Levälahti](https://www.berdu.org/)
+- [Teemu](https://www.instagram.com/teemu.jpeg/)
 - [Christoph Zoubek](http://www.christophzoubek.com/portraits) ([Interview](https://www.sceniusgallery.com/journal/behind-the-lens-christoph-zoubek)) ([Reddit](https://www.reddit.com/user/chris_zou))
 - [TJ Holowaychuk](http://tjholowaychuk.com/)
+- [Joey MacLennan](https://www.instagram.com/joeymaclennan/)
 - [LS Martin](https://www.instagram.com/lsmartphoto/)
 - [Andy Lee](http://www.andylee.co/)
 - [Toto Tvalavadze](https://photos.codedesigncoffee.net/)
@@ -340,6 +355,8 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Arseniy Kotov](https://www.instagram.com/northern.friend/) - Architecture and life in post-soviet world.
 - [Caleb Zulawski](https://portfolio.calebzulawski.com/)
 - [Mark Del Mar](https://www.markdelmar.com/)
+- [Andrea Mete](http://andreamete.com/) ([IG](https://www.instagram.com/andreamete/))
+- [Dan Otis](https://www.instagram.com/danotis/)
 - [Chantal Convertini](https://www.instagram.com/paeulini/)
 - [Evgeny Feldman](https://www.feldmanphotography.com/) ([IG](https://www.instagram.com/evgenyfeldman/))
 - [Tyler Mitchell](https://www.instagram.com/tylersphotos/)
@@ -357,8 +374,12 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Todd Hido](https://www.instagram.com/toddhido_/)
 - [Baud Postma](https://www.instagram.com/baudpostma/)
 - [Om Malik](https://www.instagram.com/om/)
+- [Florian](https://www.instagram.com/analoguevibez/)
+- [Ivan Bideac](https://www.ivanbideac.com/)
+- [Luke Beard](https://www.instagram.com/lukesbeard/)
 - [Richard Avedon](https://www.avedonfoundation.org/the-work)
 - [George Jejeya](https://www.instagram.com/gerudes/)
+- [Baurjan Bismildin](https://www.instagram.com/bbismildin/)
 - [Eva Milkonskaya](https://www.instagram.com/evamilkonskaya/)
 - [Bao Ngo's photos](https://twitter.com/coldtakesonly/status/1315838653206323200)
 - [Pip](https://www.instagram.com/bypip/) ([Web](https://www.bypip.co.uk/))
@@ -395,7 +416,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Writing Machines](https://writing-machines.tumblr.com/) - Resource dedicated to various projects related to electronic literature/books/writing/art.
 - [Archillect](https://archillect.com/) - AI created to discover and share stimulating visual content.
 - [Shibuya Pixel Art 2020](https://www.lexaloffle.com/bbs/?tid=37971) ([HN](https://news.ycombinator.com/item?id=23200246))
-- [WikiArt](https://www.wikiart.org/) - Visual Art Encyclopedia.
+- [WikiArt](https://www.wikiart.org/) - Visual Art Encyclopedia. ([WikiArt Retriever](https://github.com/lucasdavid/wikiart))
 - [Artvee](https://artvee.com/) - Discover Classical Art. Browse and download high-resolution, public domain artworks.
 - [Ghostly](https://ghostly.com/) - Music and art company supporting work of high quality, integrity, and individuality.
 - [Milton Glaser's advice on making art](https://twitter.com/johnleedraws/status/1276721178841841664)
@@ -450,9 +471,21 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [AI Art Machine: put in text, get art](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK) ([Lobsters](https://lobste.rs/s/vc6o94/ai_art_machine_put_text_get_art))
 - [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki)
 - [How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art) ([HN](https://news.ycombinator.com/item?id=28221904))
-- [Moiré no more (2021)](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
+- [Moiré no more (2021)](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319) ([HN](https://news.ycombinator.com/item?id=28663719))
 - [Tyler Cowen is the best curator of talent in the world (2021)](https://kulesa.substack.com/p/tyler-cowen-is-the-best-curator-of) ([HN](https://news.ycombinator.com/item?id=28381324))
 - [Art Gallery Datasets](https://www.artnome.com/art-data)
 - [Gnod Art](https://art.gnod.com/) - Discover new Artists.
 - [Ask HN: Any successful transitions from a tech/IT career to working in the arts? (2021)](https://news.ycombinator.com/item?id=28500457)
 - [The Topography of Tears](https://kottke.org/21/09/the-topography-of-tears)
+- [Invaluable.com](https://www.invaluable.com/) - The World's Premier Online Auctions.
+- [KnownOrigin](https://knownorigin.io/) - Digital Art Marketplace.NFT Crypto Art.
+- [Botto](https://botto.com/) - Decentralized, autonomous artist governed by the people. ([Twitter](https://twitter.com/bottoproject)) ([Tweet](https://twitter.com/quasimondo/status/1446767627519602692))
+- [50 Watts](http://50watts.com/) - Growing archive of weird and wonderful visual ephemera from around the world. ([IG](https://www.instagram.com/50wattsdotcom/))
+- [Seb Lester](https://www.seblester.com/) - Lettering Artist. ([Twitter](https://twitter.com/SebLester))
+- [The Klimt Color Enigma](https://artsandculture.google.com/story/the-klimt-color-enigma/SQWxuZfE5ki3mQ?hl=en) - Colorizing Klimt’s Vanished Paintings with Artificial Intelligence and Klimt Experts. ([HN](https://news.ycombinator.com/item?id=28955639))
+- [NFT's Aren't the Answer to the IRL Problems of Digital Art (2021)](https://www.jacquescorbytuech.com/writing/irl-problem-digital-art-nft) ([HN](https://news.ycombinator.com/item?id=29159693))
+- [Why Beauty Matters (2009)](https://topdocumentaryfilms.com/why-beauty-matters/)
+- [Kuula](https://kuula.co/about) - 360 Virtual Tours made easy. Create. Edit. Share.
+- [Generate dream like prompts](https://app.wombo.art/)
+- [Kintsugi – Art of Repair](https://traditionalkyoto.com/culture/kintsugi/) ([HN](https://news.ycombinator.com/item?id=29543670))
+- [Irasutoya](https://www.irasutoya.com/) - Collection of cute illustrations covering all sort of situations. ([IG](https://www.instagram.com/irasutoya/?hl=en)) ([Video](https://www.youtube.com/watch?v=g3CyRZY90M4))

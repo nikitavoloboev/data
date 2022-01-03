@@ -47,6 +47,28 @@ I publish most of my work and make it open source for other people to use and re
 - I can tack in various GitHub related templates like `issue_template.md` and `pull_request_template.md` as well as `code_of_conduct.md` and even `contributing.md` under `.github` folder at the root of my project.
 - [Add .atom to the URL of a commit listing on GitHub and you can subscribe to any repo, directory or file history, ideal for git scraping.](https://twitter.com/simonw/status/1376168593319108621)
 - [To open code from GitHub, just add "blitz" to the domain name (`http://github.com...` becomes `http://githubblitz.com...`)](https://twitter.com/stackblitz/status/1397193629534494722)
+- [gh pr checkout <pr-number> is great command to checkout PRs locally easily.](https://cli.github.com/manual/gh_pr_checkout)
+- [GitHub iOS app has dispatch workflow action shortcut](https://twitter.com/baevdm/status/1447967684814155779)
+- [gh command supports creating, listing, and SSHing into codespaces](https://twitter.com/nicknisi/status/1452830729793150987) ([Tweet](https://twitter.com/corywilkerson/status/1453072826718515202))
+- [Describe what your function should do in a comment before you implement the function & GitHubCopilot might just write the damn thing for you.](https://twitter.com/erikras/status/1460562819452129284)
+- [Pull request habit: Provide before and after screenshots in the pull request description](https://twitter.com/housecor/status/1463132466202488836)
+- [Replace github.com with github.dev in the URL to enjoy a much better PR reviewing experience](https://twitter.com/felixge/status/1468155086648061952)
+
+## Code
+
+### Badges
+
+GoDoc
+
+```md
+[![GoDoc]({clip}?status.svg)]({clip})
+```
+
+Awesome List
+
+```md
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+```
 
 ## Links
 
@@ -61,7 +83,7 @@ I publish most of my work and make it open source for other people to use and re
 - [How to collaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github) - Mini book about collaborating on GitHub.
 - [Gitrob](https://github.com/michenriksen/gitrob) - Tool to help find potentially sensitive files pushed to public repositories on GitHub.
 - [Octoverse](https://octoverse.github.com/)
-- [utterances](https://github.com/utterance/utterances) - Lightweight comments widget built on GitHub issues. ([Web](https://utteranc.es/))
+- [Utterances](https://github.com/utterance/utterances) - Lightweight comments widget built on GitHub issues. ([Web](https://utteranc.es/)) ([HN](https://news.ycombinator.com/item?id=29189923))
 - [github-drama](https://github.com/nikolas/github-drama) - Curated collection of "dramatic" GitHub interactions.
 - [DevHub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Android, iOS and Web.
 - [Probot](https://github.com/probot/probot) - Framework for building GitHub Apps to automate and improve your workflow.
@@ -200,7 +222,7 @@ I publish most of my work and make it open source for other people to use and re
 - [HN: Open-source, not open-contribution (2021)](https://news.ycombinator.com/item?id=25940195)
 - [GitHub1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code. ([HN](https://news.ycombinator.com/item?id=26083919))
 - [ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time.
-- [ghapi](https://github.com/fastai/ghapi) - Delightful and complete interface to GitHub's amazing API.
+- [ghapi](https://github.com/fastai/ghapi) - Delightful and complete interface to GitHub's amazing API. ([Tutorial](https://ghapi.fast.ai/tutorial_actions.html))
 - [GitHub Surf](https://github.com/surfcodes/surf) - Surf GitHub code with VS Code. (with CLI, chrome extensions).
 - [GitHub VSC](https://github.com/gao-sun/github-vsc) - Use VSCode to view and edit GitHub repos, in your browser.
 - [My GitHub Open PRs](https://github.com/search?o=asc&q=is:pr+is:open+archived:false+user:@me&s=updated&type=Issues)
@@ -235,7 +257,7 @@ I publish most of my work and make it open source for other people to use and re
 - [Prometheus GitHub Exporter](https://github.com/infinityworks/github-exporter) - Exposes basic metrics for your repositories from the GitHub API, to a Prometheus compatible endpoint.
 - [ghissue](https://github.com/hcgatewood/ghissue) - Bulk-upload GitHub Issues.
 - [Maintainers](https://maintainers.app/) - Maintain your GitHub Projects.
-- [GitHub Copilot](https://copilot.github.com/) - Your AI pair programmer. ([HN](https://news.ycombinator.com/item?id=27676266)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/oaambv/n_github_and_openai_release_copilot_an_ai_pair/)) ([Lobsters](https://lobste.rs/s/rxml1k/github_copilot_your_ai_pair_programmer)) ([Preview](https://github.com/github/copilot-preview))
+- [GitHub Copilot](https://copilot.github.com/) - Your AI pair programmer. ([HN](https://news.ycombinator.com/item?id=27676266)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/oaambv/n_github_and_openai_release_copilot_an_ai_pair/)) ([Lobsters](https://lobste.rs/s/rxml1k/github_copilot_your_ai_pair_programmer)) ([Preview](https://github.com/github/copilot-preview)) ([Docs](https://github.com/github/copilot-docs)) ([Coding with GitHub Copilot](https://tmabraham.github.io/blog/github_copilot))
 - [Grafana GitHub datasource](https://github.com/grafana/github-datasource) - GitHub datasource allows GitHub API data to be visually represented in Grafana dashboards.
 - [Awesome GitHub Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ([Web](https://awesomegithubprofile.tech/))
 - [HN: GitHub confirmed using all public code for training copilot regardless license (2021)](https://news.ycombinator.com/item?id=27769440)
@@ -263,3 +285,51 @@ I publish most of my work and make it open source for other people to use and re
 - [CodeQL](https://securitylab.github.com/tools/codeql/) - Industry-leading semantic code analysis engine. ([Code](https://github.com/github/codeql))
 - [Full Stack GitHub Authentication with Supabase & React (2021)](https://dev.to/dabit3/10-minute-tutorial-full-stack-github-authentication-with-supabase-react-3c6b) ([Code](https://github.com/dabit3/supabase-github-oauth))
 - [patch2pr](https://github.com/bluekeyes/patch2pr) - Create GitHub pull requests from Git patches without cloning the repository.
+- [Watchub](http://app.watchub.pw/) - Be notified of people who followed/unfollowed you and starred/unstarred your repositories. ([Code](https://github.com/caarlos0/watchub))
+- [Repo Sync](https://github.com/repo-sync/repo-sync) - Keep a pair of GitHub repos in sync.
+- [GitHub Release Downloader](https://github.com/suyashkumar/getbin) - Easily fetch latest GitHub release binaries (for your OS/arch) using just wget or curl. ([Web](https://getbin.io/))
+- [GitHub Backup](https://github.com/mfinelli/github-backup) - Backup your GitHub repositories (including issues and comments).
+- [Team manager](https://github.com/cilium/team-manager) - Bot to manage team members in GitHub organizations.
+- [fgh](https://github.com/gleich/fgh) - Automate the lifecycle and organization of your cloned GitHub repositories.
+- [10 tips for better Pull Requests (2015)](https://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/)
+- [bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases.
+- [GitHub stale bot considered harmful (2021)](https://drewdevault.com/2021/10/26/stalebot.html) ([HN](https://news.ycombinator.com/item?id=28998374))
+- [gisture](https://github.com/mufeedvh/gisture) - Utilizing GitHub Gists as a Blogging Platform.
+- [repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate.
+- [Top GitHub Users By Country](https://github.com/gayanvoice/top-github-users)
+- [Stacked Pull Requests on GitHub](https://github.com/ejoffe/spr)
+- [How to add your dotfiles to GitHub Codespaces (2021)](https://dev.to/burkeholland/how-to-add-your-dotfiles-to-github-codespaces-23gm)
+- [Snitch](https://github.com/tsoding/snitch) - Tool that collects TODOs in the source code and reports them as GitHub issues.
+- [Repository Viewer](https://repo-viewer.vercel.app/) - View your GitHub repositories grouped by tag to make them easier to find. ([Code](https://github.com/samrobbins85/repo-viewer))
+- [goh](https://github.com/breakthatbass/goh) - Navigate github repos in a tui.
+- [Repobeats](https://repobeats.axiom.co/) - Gorgeous embeddable GitHub insights. ([Tweet](https://twitter.com/rauchg/status/1458519720202698759))
+- [auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript.
+- [Archive of GitHub Trending](https://github.com/larsbijl/trending_archive)
+- [GitMan](https://github.com/fabiospampinato/gitman) - Simple yet powerful opinionated tool for managing GitHub repositories.
+- [Meet the Fans](https://github.com/evoluteur/meet-the-fans) - Query and Visualize the network graph of your GitHub repositories, followers, stargazers, and forks.
+- [ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory.
+- [stargazers](https://github.com/spencerkimball/stargazers) - Illuminate your GitHub community by delving into your repo's stars.
+- [missue](https://github.com/azu/missue) - Toolkit helps you to management your TODO based on GitHub Issues.
+- [GitHub Search Results as RSS Feeds via GitHub Actions](https://github.com/azu/github-search-rss)
+- [CLI: Delete GitHub Branches that match patterns](https://github.com/azu/delete-github-branches)
+- [Discuss with Atinux](https://github.com/Atinux/discuss) - Demo of using Nuxt 3 with GitHub authentication and creating issues with real-time updates.
+- [gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
+- [gh label](https://github.com/heaths/gh-label) - GitHub CLI extension for issue label management.
+- [Improving GitHub Code Search (2021)](https://github.blog/2021-12-08-improving-github-code-search/) ([HN](https://news.ycombinator.com/item?id=29487237)) ([Video](https://www.youtube.com/watch?v=UOIPBfPXkus))
+- [re](https://github.com/jordanlewis/re) - Lets you do Github code reviews from the terminal using your favorite editor.
+- [Stack Graphs (2021)](https://github.blog/2021-12-09-introducing-stack-graphs/) ([HN](https://news.ycombinator.com/item?id=29500602))
+- [Precise code navigation for Python, and code navigation in pull requests (2021)](https://github.blog/2021-12-09-precise-code-navigation-python-code-navigation-pull-requests/)
+- [GitHub CMS](https://github.com/oscarnevarezleal/gh-cms) - Headless CMS using Github Issues and Github Actions.
+- [GitHub Code Search](https://cs.github.com/about)
+- [gh-stack](https://github.com/timothyandrew/gh-stack) - Manage PR stacks/chains on Github.
+- [A Better Model for Stacked (GitHub) Pull Requests (2021)](https://0xc0d1.com/blog/git-stack/)
+- [A power user of GitHub code search tries Sourcegraph code search (2021)](https://www.youtube.com/watch?v=rrwYJfy_hEI)
+- [Gist](https://github.com/oz/gist) - Simple Github Gist client.
+- [GitOops](https://github.com/ovotech/gitoops) - Tool to help attackers and defenders identify lateral movement and privilege escalation paths in GitHub organizations by abusing CI/CD pipelines and GitHub access controls.
+- [A brief history of code search at GitHub (2021)](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/) ([HN](https://news.ycombinator.com/item?id=29576977))
+- [massive-wax](https://github.com/Eomm/massive-wax) - Execute multiple operation on multiple repositories.
+- [gh-sql](https://github.com/KOBA789/gh-sql) - Query GitHub Projects with SQL.
+- [DAG](https://github.com/devmatteini/dag) - Download Asset from GitHub releases.
+- [rget](https://github.com/orisano/rget) - Parallel downloader for GitHub release.
+- [Github Stats](https://github.com/mre/gh-stats) - Async command-line tool for retrieving the stars of all your Github projects.
+- [types.ts](https://github.com/octokit/types.ts) - Shared TypeScript definitions for Octokit projects.

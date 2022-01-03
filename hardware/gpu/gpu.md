@@ -64,3 +64,15 @@
 - [GDRCopy](https://github.com/NVIDIA/gdrcopy) - Low-latency GPU memory copy library based on NVIDIA GPUDirect RDMA technology.
 - [RealTime 3D Strange Attractors scout on GPU](https://github.com/BrutPitt/glChAoS.P)
 - [NCCL](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication.
+- [How to train large models on many GPUs? (2021)](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html) ([HN](https://news.ycombinator.com/item?id=28657797))
+- [Gentle introduction to GPUs inner workings (2021)](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/) ([HN](https://news.ycombinator.com/item?id=28728138))
+- [Heterogeneous Systems Course: Meeting 2: SIMD processors and GPU architecture (2021)](https://www.youtube.com/watch?v=fO8Yw1pmyyc)
+- [Implementing a GPU-driven debug line renderer (2021)](https://www.gijskaerts.com/wordpress/?p=190)
+- [Rendering on the Apple M1 Max Chip (2021)](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html) ([HN](https://news.ycombinator.com/item?id=28994800)) ([Reddit](https://www.reddit.com/r/apple/comments/qfogld/the_m1max_is_the_fastest_gpu_we_have_ever/)) ([Tweet](https://twitter.com/yiningkarlli/status/1452783165970386945))
+- [Ask HN: Will there ever be a vendor agnostic GPU interface? (2021)](https://news.ycombinator.com/item?id=29058681)
+- [NVIDIA Omniverse Platform](https://developer.nvidia.com/nvidia-omniverse-platform) - Scalable, multi-GPU real-time reference development platform for 3D simulation and design collaboration. ([GitHub](https://github.com/NVIDIA-Omniverse))
+- [AmgX](https://github.com/NVIDIA/AMGX) - Distributed multigrid linear solver library on GPU.
+- [GPU Accelerated Non-rigid ICP for surface registration](https://github.com/wuhaozhe/pytorch-nicp)
+- [Ricks-Lab GPU Utilities](https://github.com/Ricks-Lab/gpu-utils) - Set of utilities for monitoring GPU performance and modifying control settings.
+- [Watchmen](https://github.com/Spico197/watchmen) - Simple and easy-to-use toolkit for GPU scheduling.
+- [GPU-Accelerated Lossless Compression Survey](https://github.com/dingwentao/GPU-lossless-compression)

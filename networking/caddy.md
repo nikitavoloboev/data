@@ -32,3 +32,10 @@
 - [caddy-exec](https://github.com/abiosoft/caddy-exec) - Caddy v2 module for running one-off commands.
 - [Easier alternative to Nginx + Lets Encrypt with Caddy Docker Proxy (2021)](https://matduggan.com/easier-alternative-to-nginx-lets-encrypt-with-caddy/)
 - [Caddy V2 with Matt Holt (Go Time) (2021)](https://changelog.com/gotime/193)
+- [caddy-json-parse](https://github.com/abiosoft/caddy-json-parse) - Caddy v2 module for parsing json request body.
+- [Simple A/B testing with Caddy and Plausible Analytics (2021)](https://bradleyjkemp.dev/post/simple-a/b-testing-with-caddy-and-plausible-analytics/)
+- [tsid](https://github.com/astrophena/tsid) - Tailscale integration for Caddy.
+- [kwatch](https://github.com/ibrokemypie/kwatch) - Watch videos from a caddy fileserver.
+- [caddy-watch](https://github.com/losfair/caddy-watch) - Watch for interesting patterns in Caddy logs and send a Telegram notification.
+- [caddy-jwt](https://github.com/ggicci/caddy-jwt) - Caddy Module JWT Authentication.
+- [HN: Caddy (2021)](https://news.ycombinator.com/item?id=29378030)

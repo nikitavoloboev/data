@@ -32,3 +32,13 @@
 - [Dynamicland](https://dynamicland.org/) - Our mission is to incubate a humane dynamic medium whose full power is accessible to all people. ([HN](https://news.ycombinator.com/item?id=26725370))
 - [Enso](https://enso.org/) - Hybrid visual and textual functional programming. ([Code](https://github.com/enso-org/enso)) ([HN](https://news.ycombinator.com/item?id=27748738))
 - [In search of a dynamic medium (2021)](https://www.dgsiegel.net/articles/in-search-of-a-dynamic-medium)
+- [Ossia](https://ossia.io/) - Open Software System for Interactive Applications. ([Code](https://github.com/ossia/score))
+- [Fabrik - A Visual Programming Environment (1988)](https://web.archive.org/web/20070927190552/http://users.ipa.net/~dwighth/smalltalk/Fabrik/Fabrik.html) ([HN](https://news.ycombinator.com/item?id=29094633))
+- [Future of computing explorations](https://matthewsiu.notion.site/matthewsiu/Future-of-computing-explorations-4272fef350a94980b645f8cbdf9911ea#b2806ae111914e52a38b34707462b908)
+- [Interactions Book](https://interactions.pt/)
+- [Twine JS](https://github.com/klembot/twinejs) - Tool for telling interactive, nonlinear stories.
+- [Joy.js](https://github.com/ncase/joy) - Make happy little programs. ([Web](https://ncase.me/joy/)) ([HN](https://news.ycombinator.com/item?id=29267109))
+- [Magic Ink: Information Software and the Graphical Interface (2006)](http://worrydream.com/MagicInk/)
+- [OpenCodeBlocks](https://github.com/MathisFederico/OpenCodeBlocks) - Open-source tool for visual and modular block programing in python.
+- [unit](https://ioun.it/) - Next Generation Visual Programming Platform. ([Code](https://github.com/samuelmtimbo/unit))
+- [2021 Observable Community Recognition](https://observablehq.com/@observablehq/2021-observable-community-recognition)

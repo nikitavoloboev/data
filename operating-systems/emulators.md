@@ -4,7 +4,7 @@
 
 - [QEMU](https://www.qemu.org/) - Generic and open source machine emulator and virtualizer. ([Docs](https://qemu.weilnetz.de/doc/qemu-doc.html)) ([Qemu 680x0 support](https://www.youtube.com/watch?v=s_ve0bCC9q4)) ([HN](https://news.ycombinator.com/item?id=25027213)) ([Code](https://github.com/qemu/qemu))
 - [byuu](https://github.com/byuu/byuu) - Multi-system emulator focused on performance, features, and ease of use.
-- [Quickemu](https://github.com/wimpysworld/quickemu) - Simple script to "manage" Qemu virtual machines.
+- [Quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimized Windows, macOS and Linux desktop virtual machines. ([HN](https://news.ycombinator.com/item?id=28797129))
 - [Lisa Emulator](https://github.com/rayarachelian/lisaem)
 - [Shoebill](https://github.com/pruten/shoebill) - Macintosh II emulator that runs A/UX (and A/UX only).
 - [PCE.js](https://github.com/jsdf/pce) - Emulates Mac Plus, PC, & Atari ST in asm.js & WebAssembly.
@@ -47,3 +47,15 @@
 - [SwiftNES](https://github.com/thara/SwiftNES) - Cross-platform NES Emulator written in Swift.
 - [RBoy](https://github.com/mvdnes/rboy) - Gameboy Color Emulator written in Rust.
 - [Mooneye GB](https://github.com/Gekkio/mooneye-gb) - Game Boy research project and emulator written in Rust.
+- [BrowserVM.js](https://github.com/elliott-wen/browservm.js) - Efficient X86-64 virtual machine runs in modern browsers.
+- [Mimic](https://github.com/jawline/Mimic) - Gameboy emulator written in Rust.
+- [CHIP-8 emulator written in Rust](https://github.com/jawline/CHIP-9)
+- [Fearless-NES](https://github.com/TomasKralCZ/Fearless-NES) - NES emulator written in Rust.
+- [Chip8 Emulator in Go](https://github.com/ambertide/chip8)
+- [How to Write a Computer Emulator](https://fms.komkon.org/EMUL8/HOWTO.html) ([HN](https://news.ycombinator.com/item?id=29237372))
+- [llama](https://github.com/archshift/llama) - Low Level ARM Machine Amulator. Experimental emulator for the Nintendo 3DS's ARM9.
+- [Tiny Emulators](https://floooh.github.io/tiny8bit/)
+- [CAMLBOY](https://github.com/linoscope/CAMLBOY) - Game Boy emulator written in OCaml that runs in your browser.
+- [Ness](https://github.com/Kelpsy/ness) - SNES emulator written in Rust.
+- [WASM-4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console. ([Web](https://wasm4.org/)) ([HN](https://news.ycombinator.com/item?id=29632813))
+- [Chip8 Emulator](https://github.com/dmatlack/chip8)

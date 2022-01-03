@@ -7,3 +7,4 @@
 - [Some notes on the internal implementation of Mathematica](https://reference.wolfram.com/language/tutorial/SomeNotesOnInternalImplementation.html)
 - [Dropping In on Gottfried Leibniz—Stephen Wolfram Writings (2013)](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
 - [Ruckig](https://github.com/pantor/ruckig) - Online Trajectory Generation. Real-time. Jerk-constrained. Time-optimal.
+- [Mathics](https://github.com/Mathics3/mathics-core) - Free, open-source alternative to Mathematica. ([Code](https://github.com/Mathics3/mathics-core)) ([GitHub](https://github.com/Mathics3))

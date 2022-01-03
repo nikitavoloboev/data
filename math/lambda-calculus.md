@@ -61,3 +61,16 @@ Is logical theory of computable functions.
 - [Viscal](https://rcarriga.github.io/viscal/) - Visual representation of the lambda calculus and animation of beta reduction. ([Code](https://github.com/rcarriga/viscal))
 - [Super-Quick Lambda Calculus](https://github.com/arlencox/sqlc)
 - [CosmicOS](https://github.com/paulfitz/cosmicos) - Sending the lambda calculus into deep space.
+- [Ane-Language](https://github.com/caotic123/Ane-Language) - Tool for analyze lambda calculus terms.
+- [Fibonacci sequence in JS using pure Lambda Calculus](https://github.com/OscarSaharoy/lambda-fibonacci)
+- [Lambda Calculus Visualizer](https://yanamal.github.io/lambda-js/) ([Code](https://github.com/yanamal/lambda-js))
+- [glam](https://github.com/ncfavier/glam) - Implementation of the guarded λ-calculus.
+- [Formalization of Typed and Untyped λ-Calculi in Coq and Agda2](https://github.com/pi8027/lambda-calculus)
+- [Foundations of Dawn: The Untyped Concatenative Calculus (2021)](https://www.dawn-lang.org/posts/foundations-ucc/)
+- [λProlog interpreter](https://github.com/mb64/simple-lambda-prolog)
+- [Simpler, Easier! How to write a simple dependent type checker](http://augustss.blogspot.com/2007/10/simpler-easier-in-recent-paper-simply.html)
+- [Sloe](https://github.com/DrearyLisper/sloe) - Simple functional language based on lambda-calculus.
+- [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc)
+- [Categorical glueing for simply typed lambda calculus](https://github.com/FrozenWinters/stlc)
+- [λ-Calculus, Combinatory Logic and Cartesian Closed Categories (2021)](https://thma.github.io/posts/2021-04-04-Lambda-Calculus-Combinatory-Logic-and-Cartesian-Closed-Categories.html)
+- [Implementing Cartesian Closed Categories](https://github.com/Zdancewic/ccc) - Elementary implementation of Simply Typed Lambda Calculus (STLC) and its semantics in terms of Cartesian Closed Categories.

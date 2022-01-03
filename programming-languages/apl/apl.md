@@ -15,9 +15,9 @@
 - [April](https://github.com/phantomics/april) - APL programming language (a subset thereof) compiling to Common Lisp. ([HN](https://news.ycombinator.com/item?id=22225136))
 - [APL a Day](https://www.sacrideo.us/tag/apl-a-day/)
 - [Ode to J](https://zserge.com/posts/j/)
-- [Is APL Dead? Not anymore (2020)](https://www.sacrideo.us/is-apl-dead/) ([HN](https://news.ycombinator.com/item?id=23055793))
+- [Is APL Dead? Not anymore (2020)](https://www.sacrideo.us/is-apl-dead/) ([HN](https://news.ycombinator.com/item?id=23055793)) ([HN](https://news.ycombinator.com/item?id=28929709))
 - [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm) ([Lobsters](https://lobste.rs/s/niyjrs/dictionary_apl)) ([PDF](http://www.softwarepreservation.org/projects/apl/Books/ADICTIONARYOFAPL))
-- [APL Since 1978](https://dl.acm.org/doi/pdf/10.1145/3386319) ([HN](https://news.ycombinator.com/item?id=23510433))
+- [APL Since 1978](https://dl.acm.org/doi/pdf/10.1145/3386319) ([HN](https://news.ycombinator.com/item?id=23510433)) ([Video](https://www.pldi21.org/prerecorded_hopl.2.html)) ([HN](https://news.ycombinator.com/item?id=29106109))
 - [APL In Exposition by K. E. Iverson (1972)](http://www.softwarepreservation.org/projects/apl/Papers/197201_APL%20In%20Exposition_320-3010.pdf)
 - [An APL Machine (1970)](https://www.slac.stanford.edu/pubs/slacreports/reports07/slac-r-114.pdf) ([Lobsters](https://lobste.rs/s/zfwv49/apl_machine_1970))
 - [Compiling APL to JavaScript](http://archive.vector.org.uk/art10501160) ([Lobsters](https://lobste.rs/s/4c5joc/compiling_apl_javascript))
@@ -29,7 +29,7 @@
 - [MicroKanren in J: an Embedding of the Relational Paradigm in an Array Language with Rank-Polymorphic Unification (2020)](http://minikanren.org/workshop/2020/minikanren-2020-paper2.pdf) ([Lobsters](https://lobste.rs/s/qcrdly/microkanren_j_embedding_relational))
 - [April, an APL Compiler for Common Lisp](https://www.youtube.com/watch?v=AUEIgfj9koc) ([HN](https://news.ycombinator.com/item?id=24434717))
 - [Co-dfns](https://github.com/Co-dfns/Co-dfns) - High-performance, Reliable, and Parallel APL.
-- [Notation as a Tool of Thought - Kenneth E. Iverson (1979)](https://www.jsoftware.com/papers/tot.htm)
+- [Notation as a Tool of Thought - Kenneth E. Iverson (1979)](https://www.jsoftware.com/papers/tot.htm) ([PDF](https://www.eecg.utoronto.ca/~jzhu/csc326/readings/iverson.pdf)) ([HN](https://news.ycombinator.com/item?id=28937268))
 - [J one-page interpreter fragment (1992)](https://code.jsoftware.com/wiki/Essays/Incunabulum) ([HN](https://news.ycombinator.com/item?id=25902615))
 - [J Books](https://code.jsoftware.com/wiki/Books)
 - [APL Problem Solving Competition](https://dyalogaplcompetition.com/)
@@ -44,6 +44,7 @@
 - [Vector, the Journal of the British APL Association](http://archive.vector.org.uk/)
 - [From Competitive Programming to APL](https://corecursive.com/065-competitive-coding-with-conor-hoekstra/) ([HN](https://news.ycombinator.com/item?id=27380431))
 - [BQN](https://github.com/mlochbaum/BQN) - APL-like programming language. Self-hosted. ([Web](https://mlochbaum.github.io/BQN/))
+- [BQN in C](https://github.com/dzaima/CBQN)
 - [Let's build a simple interpreter for APL (2020)](https://mathspp.com/blog/lsbasi-apl-part1) ([HN](https://news.ycombinator.com/item?id=27728071))
 - [J language code](https://github.com/jsoftware/jsource)
 - [Jelly](https://github.com/DennisMitchell/jellylanguage) - Recreational programming language inspired by J. ([HN](https://news.ycombinator.com/item?id=27800057))
@@ -54,3 +55,6 @@
 - [APL.jl](https://github.com/shashi/APL.jl) - APL in Julia.
 - [An Implementation of J – Incunabulum (2008)](https://www.jsoftware.com/ioj/iojATW.htm) ([HN](https://news.ycombinator.com/item?id=28491562))
 - [I got the J language working on OpenBSD (2021)](https://briancallahan.net/blog/20210911.html) ([Lobsters](https://lobste.rs/s/w3ohim/i_got_j_language_working_on_openbsd))
+- [APL Compiler targeting a Typed Array Intermediate Language](https://github.com/melsman/apltail) ([Lobsters](https://lobste.rs/s/bpq8vp/apl_compiler_standard_ml_compiling_typed))
+- [The Origins of APL - 1974](https://www.youtube.com/watch?v=8kUQWuK1L4w)
+- [ivy](https://github.com/robpike/ivy) - APL-like calculator.

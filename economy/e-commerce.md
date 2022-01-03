@@ -1,11 +1,15 @@
 # E-commerce
 
+Love [Italic](https://italic.com/)'s store UX.
+
 ## Nice shops
 
 - [Sneak in Peace](https://www.sneakinpeace.com/)
 - [Joycraft Handmade](https://joycrafthandmade.com/) - Polymer Clay Earrings. ([IG](https://www.instagram.com/joycrafthandmade/?igshid=ohv58u0xnoxk)) ([Tweet](https://twitter.com/coreyhainesco/status/1294721370589245440))
 - [Recess](https://takearecess.com/)
 - [Magic Mind](https://magicmind.co/)
+- [Misc. Goods Co.](https://misc-goods-co.com/) - Custom Playing Cards | Natural Deodorant | Etc. ([Twitter](https://twitter.com/Misc_Goods_Co))
+- [Joom](https://www.joom.com/en) ([GitHub](https://github.com/joomcode))
 
 ## Links
 
@@ -16,9 +20,9 @@
 - [The Anti-Amazon Alliance (2020)](https://stratechery.com/2020/the-anti-amazon-alliance/) ([HN](https://news.ycombinator.com/item?id=23007365))
 - [Thoughts on Ecommerce: The Status Quo (2020)](https://julian.digital/2020/05/17/thoughts-on-ecommerce-the-status-quo-shopify-shop-amazon/) ([HN](https://news.ycombinator.com/item?id=23238347))
 - [GoCommerce](https://github.com/netlify/gocommerce) - Small go based API for static e-commerce sites.
-- [Saleor Commerce](https://github.com/mirumee/saleor) - Modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS. ([Web](https://saleor.io/))
+- [Saleor Commerce](https://saleor.io/) - Modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React. ([Code](https://github.com/saleor/saleor)) ([Twitter](https://twitter.com/getsaleor)) ([GitHub](https://github.com/saleor))
 - [Amplemarket](https://amplemarket.com/) - Next Generation Sales Intelligence.
-- [Faire](https://www.faire.com/) - Online Wholesale Marketplace & Store.
+- [Faire](https://www.faire.com/) - Online Wholesale Marketplace & Store. ([Tweet](https://twitter.com/ryan_caldbeck/status/1462127018196230152))
 - [JAMstack ECommerce Professional](https://github.com/jamstack-cms/jamstack-ecommerce) - Provides a way to quickly get up and running with a fully configurable JAMstack E Commerce site.
 - [Headless Commerce Resources](https://headlesscommerce.org/) ([Code](https://github.com/chec/headlesscommerce.org))
 - [CommerceJS](https://commercejs.com/) - Headless eCommerce platform for developers & designers.
@@ -85,7 +89,7 @@
 - [Jam Pony Delivery](https://www.jampony.delivery/) - Help Small Businesses Keep 100% of Their Revenue.
 - [Vendure](https://github.com/vendure-ecommerce/vendure) - Modern, headless GraphQL-based e-commerce framework built with TypeScript & NodeJS. ([Web](https://www.vendure.io/))
 - [Shopify CLI](https://github.com/Shopify/shopify-cli) - Helps you build Shopify themes and apps.
-- [Hydrogen](https://shopify.dev/hydrogen) - Build custom storefronts faster and easier than ever powered by Shopify.
+- [Hydrogen](https://shopify.dev/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts. ([Code](https://github.com/Shopify/hydrogen)) ([Examples](https://github.com/Shopify/hydrogen-examples)) ([Video](https://www.youtube.com/watch?v=mAsM9c2sGjA))
 - [Tailwind Ecommerce CSS UI Components](https://tailwindui.com/ecommerce)
 - [Dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [Swipe E-Commerce](https://cogentgene1.gumroad.com/#oDkcG) - Increase conversions, average order value and customer lifetime value.
@@ -98,3 +102,33 @@
 - [Droppa](https://www.droppa.com/) - Returns made better.
 - [What's going on with global supply chains? (2021)](https://twitter.com/hockendougal/status/1438538388991266823)
 - [Mobile Buy SDK](https://github.com/Shopify/mobile-buy-sdk-ios) - Makes it easy to create custom storefronts in your mobile app, where users can buy products using Apple Pay or their credit card.
+- [Active Merchant](https://github.com/activemerchant/active_merchant) - Simple payment abstraction library extracted from Shopify.
+- [Redbubble](https://www.redbubble.com/) - Awesome products designed by independent artists.
+- [Ask HN: What is going wrong at Amazon? (2021)](https://news.ycombinator.com/item?id=28655917)
+- [The Low Impact Website by Organic Basics](https://lowimpact.organicbasics.com/) - Reduces data transfer by up to 70% in comparison to our regular website. ([Code](https://github.com/Organic-Basics/ob-low-impact-website))
+- [ShipEngine](https://www.shipengine.com/) - Shipping API & Multi Carrier Shipping System. ([GitHub](https://github.com/ShipEngine))
+- [in-toto](https://in-toto.io/) - Framework to secure the integrity of software supply chains. ([Code](https://github.com/in-toto/in-toto))
+- [Teini](https://github.com/zeekrey/teini) - Extremely small web shop leveraging awesome and free solutions like github and vercel.
+- [Lumi](https://www.lumi.com/) - Collaborate with the best packaging & print suppliers. ([GitHub](https://github.com/lumihq))
+- [Shopify Admin API Library for Node](https://github.com/Shopify/shopify-node-api) - Accelerate development with support for authentication, graphql proxy, webhooks.
+- [Free Returns Are Complicated, Laborious, and Gross (2021)](https://www.theatlantic.com/magazine/archive/2021/11/free-returns-online-shopping/620169/) ([HN](https://news.ycombinator.com/item?id=28827355))
+- [Saleor Storefront](https://github.com/saleor/saleor-storefront) - GraphQL-powered, NextJs-based, PWA storefront for Saleor.
+- [IKEA designs its stores with various psychological tricks to get you to spend more money](https://twitter.com/TrungTPhan/status/1450855104685375493)
+- [Debugging the supply chain bottleneck (2021)](https://twitter.com/patio11/status/1451596750171426824)
+- [E-commerce prototyping with Hasura and CartQL (2021)](https://www.youtube.com/watch?v=r5_muFvMcvc)
+- [Headless Dropshipping Starter](https://github.com/notrab/headless-dropshipping-starter) - Create your own dropshipping store with Next.js, Snipcart & Printful.
+- [Custom Cart With Shopify Storefront API (2021)](https://www.youtube.com/watch?v=FJOJmKFngLI&list=PLz8Iz-Fnk_eRnX8lBMTwpM4XDLFZHmtyq)
+- [next-shopify](https://github.com/basementstudio/next-shopify) - Context, a hook, and an API route handler, to manage a Shopify Storefront in your Next.js app.
+- [Kara's Coffee](https://karas-coffee.web.app/) - Demo ecommerce application showcasing Firebase Extensions and other Firebase products. ([Code](https://github.com/FirebaseExtended/karas-coffee))
+- [EasyPost](https://www.easypost.com/) - Simple Shipping API.
+- [Container Logistics (2021)](https://www.lesswrong.com/posts/PHmYhE4sKnwzYgvkh/a-brief-introduction-to-container-logistics) ([HN](https://news.ycombinator.com/item?id=29205160))
+- [Govalo](https://govalo.com/) - Reinventing the digital gifting experience. ([Twitter](https://twitter.com/fromgovalo))
+- [Shopify App Store](https://apps.shopify.com/) - Ecommerce App Marketplace.
+- [React Storefront](https://github.com/saleor/react-storefront) - Open-source storefront in React.js with Next.js. Built for Headless Commerce.
+- [OpenStore](https://open.store/) - Sell your e-commerce business instantly.
+- [Centra](https://www.centra.com/) - Headless direct-to-consumer and digital wholesale eCommerce.
+- [Shopify’s vision for the future of commerce (2021)](https://overcast.fm/+HZUfgEat0)
+- [Nebulab](https://nebulab.com/) - Full-service eCommerce agency for disruptive brands. ([Playbook](https://playbook.nebulab.com/))
+- [Shopify Remix Tailwind](https://github.com/mcansh/shopify-remix-tailwindui)
+- [Stord](https://www.stord.com/) - Make Your Supply Chain A Competitive Advantage. ([Twitter](https://twitter.com/getstord))
+- [Scale To The Moon](https://scale.shiptothemoon.com/) - Resource library made exclusively for e-commerce.

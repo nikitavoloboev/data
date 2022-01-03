@@ -14,3 +14,13 @@
 - [21 hands-on Azure builders to follow in 2021](https://acloudguru.com/blog/engineering/follow-the-builders-21-hands-on-azure-builders-to-follow-in-2021)
 - [Bicep](https://github.com/Azure/bicep) - Declarative language for describing and deploying Azure resources.
 - [Azure Terrafy](https://github.com/magodo/aztfy) - Tool to bring existing Azure resources under Terraform's management.
+- [It's tough being an Azure fan (2021)](https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan/) ([HN](https://news.ycombinator.com/item?id=28617663))
+- [Azure Machine Learning Python SDK notebooks](https://github.com/Azure/MachineLearningNotebooks)
+- [Azure Container Apps](https://azure.microsoft.com/en-us/services/container-apps/) - Easily deploy container microservices. ([Tweet](https://twitter.com/kelseyhightower/status/1455575229107826688))
+- [Language server for Azure Pipelines YAML](https://github.com/microsoft/azure-pipelines-language-server)
+- [NubesGen](https://nubesgen.com/) - Going to production on Azure is only one `git push` away. ([Code](https://github.com/microsoft/NubesGen))
+- [Azure.jl](https://github.com/JuliaComputing/Azure.jl) - Julia interface to Azure APIs.
+- [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go) ([Article](https://devblogs.microsoft.com/azure-sdk/introducing-the-latest-azure-sdk-for-go-client-and-management-modules/))
+- [Using Azure services from WebAssembly modules (2021)](https://radu-matei.com/blog/using-azure-services-wasi/)
+- [Azure Kubernetes Service Issues](https://github.com/Azure/AKS)
+- [MustLearnKQL blog series](https://github.com/rod-trent/MustLearnKQL)

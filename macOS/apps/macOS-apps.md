@@ -2,17 +2,19 @@
 
 I maintain a big list of apps I use on my system [here](https://github.com/nikitavoloboev/my-mac-os) together with why and how I use them.
 
-And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html#macos-apps-i-have-installed) is a full list of the apps I have inside my `/Applications` folder.
+And [here](../../code/config.md) is a full list of the apps I have inside my `/Applications` folder.
 
 ## Nice OSS macOS Swift/ObjC apps
 
 - [Pine](https://github.com/lukakerr/Pine) - Modern, native macOS markdown editor.
 - [Twig](https://github.com/lukakerr/twig/) - Modern macOS markdown editor.
+- [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods. ([Web](https://www.jacklandrin.com/2021/12/01/onlyswitch/))
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Displays all open files and sockets in use by all running processes on your system.
+- [TelegramSwift macOS](https://github.com/overtake/TelegramSwift)
 - [Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
 - [LuLu](https://github.com/objective-see/LuLu) - Free macOS firewall. ([Web](https://objective-see.com/products/lulu.html)) ([HN](https://news.ycombinator.com/item?id=25743546))
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch the latest and greatest conference videos on your Mac.
-- [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac.
+- [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs on your Mac.
 - [Sourceful](https://github.com/twostraws/Sourceful) - Native source editor for iOS and macOS.
 - [Shifty](https://github.com/thompsonate/Shifty) - MacOS menu bar app that gives you more control over Night Shift.
 - [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application, gimp light.
@@ -64,7 +66,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.
 - [eqMac](https://github.com/bitgapp/eqMac) - macOS System-wide Audio Equalizer.
 - [SensibleSideButtons](https://sensible-side-buttons.archagon.net/) - Side navigation for third-party mice in macOS. ([HN](https://news.ycombinator.com/item?id=24389977))
-- [DevUtils](https://devutils.app/) - Developer Utilities for macOS. ([Code](https://github.com/DevUtilsApp/DevUtils-app)) ([HN](https://news.ycombinator.com/item?id=24604291))
+- [DevUtils](https://devutils.app/) - Developer Utilities for macOS. ([Code](https://github.com/DevUtilsApp/DevUtils-app)) ([HN](https://news.ycombinator.com/item?id=24604291)) ([HN](https://news.ycombinator.com/item?id=29077933))
 - [5 GUIs](https://github.com/ZeeZide/5GUIs) - Tiny macOS app that can detect the GUI technologies used in other apps.
 - [Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar.
 - [Stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
@@ -111,9 +113,18 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac app to overcome time constrained WiFi networks. ([Web](https://airpass.tiagoalves.me/))
 - [Lantern](https://github.com/RoyalIcing/Lantern) - Mac app for website auditing and crawling. ([Web](https://icing.space/tools/lantern/))
 - [TrackerZapper](https://rknight.me/apps/tracker-zapper/) - Mac app that sits in your menubar and silently removes tracking parameters from any links you copy. ([Code](https://github.com/rknightuk/TrackerZapper))
+- [Zavala](https://github.com/vincode-io/Zavala) - Dedicated outliner for macOS, iPadOS, and iOS.
+- [Pareto Mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
+- [Quick Draw](https://github.com/maxchuquimia/quickdraw) - macOS app for drawing over the screen.
+- [Ultra for Music](https://github.com/revblaze/AppleMusicUltra) - Music Client for macOS.
+- [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS application to create configuration profiles.
+- [Knuff](https://github.com/KnuffApp/Knuff) - Debug application for Apple Push Notification Service (APNs).
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - TinyPNG client for Mac.
+- [Free Ruler](https://github.com/pascalpp/FreeRuler) - Ruler application for macOS.
 
 ## Other interesting apps
 
+- [Tuple](https://tuple.app/) - Pair Programming Tool for macOS. ([HN](https://news.ycombinator.com/item?id=29641907))
 - [Finicky](https://github.com/johnste/finicky) - MacOS app for customizing which browser to start.
 - [OpenQuickly](https://github.com/lukakerr/OpenQuickly) - Custom 'open quickly' window that imitates macOS' Spotlight.
 - [Flotato](https://flotato.com/) - Turn any web page into a Mac app.
@@ -138,13 +149,13 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Application launcher for macOS. ([Assimilated Theme](https://github.com/benjaminwil/assimilated))
 - [Irradiated Software macOS apps](https://www.irradiatedsoftware.com/labs/)
 - [Freeze](https://freeze.app/) - Save your open windows and tabs for later.
-- [FastScripts](https://redsweater.com/fastscripts/) - Powerful script management utility.
+- [FastScripts](https://redsweater.com/fastscripts/) - Powerful script management utility. ([3.0 release](https://redsweater.com/blog/3784/fastscripts-3))
 - [LaunchControl](https://www.soma-zone.com/LaunchControl/) - Fully-featured launchd GUI allowing you to create, manage and debug system- and user services on your Mac.
 - [HextEdit](https://hextedit.app/) - Fast and native hex editor for macOS.
 - [Shortcat](https://shortcatapp.com/) - Keyboard productivity app for macOS.
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly.
 - [Flume](https://flumeapp.com/) - Beautiful Instagram experience for your Mac.
-- [‎Aqua Swatch](https://apps.apple.com/us/app/aqua-swatch/id1565479346?mt=12) - Match Color, Material & Icons.
+- [Aqua Swatch](https://apps.apple.com/us/app/aqua-swatch/id1565479346?mt=12) - Match Color, Material & Icons.
 - [Screenotate](https://screenotate.com/) - Recognize text in your screenshots.
 - [Hera](https://hera.so/) - macOS app to prepare, join and take notes in meetings. ([HN](https://news.ycombinator.com/item?id=27771091))
 - [Mumu X](https://getmumu.com/) - Handy emoji picker on macOS, using GPT-3.
@@ -153,6 +164,10 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [TextSniper](https://textsniper.app/) - Capture and extract any text from your Mac's screen.
 - [Lunar](https://lunar.fyi/) - Control your monitors.
 - [Keystroke Pro](https://ixeau.com/keystroke-pro/) - Visualize Your Keypresses.
+- [Pulse](https://kean.blog/pulse/home) - Network Inspector and Logger for Apple Platforms. ([Twitter](https://twitter.com/PulseLogger))
+- [Keka](https://www.keka.io/en/) - macOS file archiver. ([Twitter](https://twitter.com/kekaosx))
+- [kindaVim](https://github.com/godbout/kindaVim.theapp) - Vim moves for the whole macOS. in input fields and more.
+- [One Switch](https://fireball.studio/oneswitch)
 
 ## Links
 
@@ -180,3 +195,13 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Advanced Catalyst Example](https://github.com/steventroughtonsmith/advancedcatalystexample) - Example of a Catalyst app using a three-column layout, with a primary toolbar.
 - [Amazing macOS apps list (2021)](https://twitter.com/mxstbr/status/1404777523456716801)
 - [Dynamic Universal App](https://github.com/figma/dynamic-universal-app) - Size efficient alternative to macOS universal binaries.
+- [Microverse](https://github.com/jspahrsummers/Microverse) - macOS virtualization app for M1/Apple Silicon.
+- [Run MacOS Software On Linux Using Darling (2021)](https://ostechnix.com/run-macos-software-on-linux-using-darling/) ([Lobsters](https://lobste.rs/s/ju4vut/run_macos_software_on_linux_using_darling))
+- [Pacifist](https://www.charlessoft.com/) - Powerful multi-tool for working with macOS package files, disk images, and file archives.
+- [macOS Monterey's new network quality tool is surprisingly good (2021)](https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html)
+- [IconSur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator.
+- [Swift Bundler](https://github.com/stackotter/swift-bundler) - Create macOS apps with Swift packages instead of Xcode projects.
+- [Why aren't the most useful Mac apps on the App Store? (2021)](https://alinpanaitiu.com/blog/apps-outside-app-store/) ([Lobsters](https://lobste.rs/s/x9k6uc/why_aren_t_most_useful_mac_apps_on_app_store))
+- [Apple Notes Export Tools](https://github.com/dunhamsteve/notesutils)
+- [CatalystEffectViewChrome](https://github.com/steventroughtonsmith/CatalystEffectViewChrome) - Demonstrates how to insert an NSVisualEffectView to the root of the main window of your Mac Catalyst app.
+- [CommandBar](https://github.com/steventroughtonsmith/CatalystCommandBar) - Spotlight/'Open Quickly'-style 'command bar' implemented using UIKit/Mac Catalyst.

@@ -2,6 +2,11 @@
 
 China alongside [Russia](russia.md) remain the two countries with the most number of crimes committed by government against its citizens.
 
+## Notes
+
+- [China can push fraudulent news to phones of all the citizens all the time.](https://www.youtube.com/watch?v=x0CjXkb99Z4)
+- [Two largest political factions in China excluding the princeling are the Tuanpai and the Shanghai clique but keep in mind internal faction are very informal.](https://www.reddit.com/r/worldnews/comments/qhazu9/taiwans_president_says_the_threat_from_china_is/hicmtbk/)
+
 ## Links
 
 - [Why China Will Not Become the Dominant Power in Asia (2015)](https://www.youtube.com/watch?v=_AvNT3vyzr0) ([Reddit](https://www.reddit.com/r/geopolitics/comments/4benkx/why_china_will_not_become_the_dominant_power_in/))
@@ -34,7 +39,7 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [The Sad End Of Jack Ma Inc. (2021)](https://www.forbes.com/sites/georgecalhoun/2021/06/07/the-sad-end-of-jack-ma-inc/) ([HN](https://news.ycombinator.com/item?id=27448998))
 - [China: A Normal Country? (2021)](https://diff.substack.com/p/a-normal-country)
 - [Book Review: How Asia Works (2021)](https://astralcodexten.substack.com/p/book-review-how-asia-works)
-- [China's AI Policy](https://futureoflife.org/ai-policy-china/) ([Summary](https://www.reddit.com/r/geopolitics/comments/onu1sg/why_does_xi_jinping_insist_on_continuing_to_poke/h5ubqo9?utm_source=share&utm_medium=web2x&context=3))
+- [China's AI Policy](https://futureoflife.org/ai-policy-china/) ([Summary](https://www.reddit.com/r/geopolitics/comments/onu1sg/why_does_xi_jinping_insist_on_continuing_to_poke/h5ubqo9))
 - [AI Superpowers: China, Silicon Valley, and the New World Order by Kai-Fu Lee](https://www.goodreads.com/book/show/38242135-ai-superpowers)
 - [At this point, will we ever be be able to trust Chinese stocks? (2021)](https://www.reddit.com/r/stocks/comments/oqbe3d/at_this_point_will_we_ever_be_be_able_to_trust/)
 - [Why is China smashing its tech industry? (2021)](https://noahpinion.substack.com/p/why-is-china-smashing-its-tech-industry) ([HN](https://news.ycombinator.com/item?id=27949019)) ([HN](https://news.ycombinator.com/item?id=28036847))
@@ -49,3 +54,22 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [China Global Podcast](https://china-global.simplecast.com/)
 - [Will Xi Move on Taiwan? (2021)](https://asia.nikkei.com/Spotlight/20-years-after-9-11/Will-Xi-move-on-Taiwan-History-warns-he-might-Niall-Ferguson) ([HN](https://news.ycombinator.com/item?id=28544904))
 - [What Does Evergrande Meltdown Mean for China? (2021)](https://carnegieendowment.org/chinafinancialmarkets/85391) ([HN](https://news.ycombinator.com/item?id=28628874))
+- [What China Thinks is a "Tech Company" (2021)](https://www.youtube.com/watch?v=5tiyNS6-R0A)
+- [How great is the great firewall? Measuring China’s DNS censorship (2021)](https://www.usenix.org/system/files/sec21-hoang.pdf) ([HN](https://news.ycombinator.com/item?id=28658089))
+- [GFWatch Dashboard](https://gfwatch.org/) - Measurement platform capable of testing hundreds of millions of domains daily, enabling the continuous monitoring of the Great Firewallʼs DNS filtering behavior.
+- [Xi Jinping’s War on Spontaneous Order (2021)](https://scholars-stage.org/xi-jinpings-war-on-spontaneous-order/)
+- [China’s population could halve within next 45 years (2021)](https://www.scmp.com/news/china/science/article/3150699/chinas-population-could-halve-within-next-45-years-new-study) ([Reddit](https://www.reddit.com/r/worldnews/comments/pyv2a2/chinas_population_could_halve_within_next_45_years/))
+- [Patriotic Education Campaign](https://en.wikipedia.org/wiki/Patriotic_Education_Campaign)
+- [History of science and technology in China](https://en.wikipedia.org/wiki/History_of_science_and_technology_in_China)
+- ["One company, two systems" won't work for U.S. firms in China (2021)](https://www.axios.com/interview-jacob-helberg-on-us-tech-companies-and-china-3ec0b5f3-8cbe-4607-a956-0f873582fc86.html)
+- [Jim Chanos: China’s “Leveraged Prosperity” Model is Doomed. And That’s Not the Worst. (2021)](https://www.ineteconomics.org/perspectives/blog/jim-chanos-chinas-leveraged-prosperity-model-is-doomed-and-thats-not-the-worst)
+- [Китайское экономическое чудо или почему чудес не бывает (2021)](https://www.youtube.com/watch?v=MwjbT844gNs)
+- [China tested a nuclear-capable hypersonic missile (2021)](https://www.reddit.com/r/worldnews/comments/q9kv2u/china_tested_a_nuclearcapable_hypersonic_missile/)
+- [Understanding China, with Former Australian Prime Minister Kevin Rudd (2021)](https://www.youtube.com/watch?v=gYR92KjKxm8)
+- [China to supercharge uranium race with 150 new nuclear reactors (2021)](https://twitter.com/balajis/status/1455870589244088326) ([HN](https://news.ycombinator.com/item?id=29094422)) ([HN](https://news.ycombinator.com/item?id=29151741))
+- [Removing China’s “Startup Debt” (2021)](https://interconnected.blog/removing-china-startup-debt/)
+- [Red Star Over the Pacific by Toshi Yoshihara (2010)](https://www.goodreads.com/book/show/8313321-red-star-over-the-pacific) ([Tweet](https://twitter.com/rabois/status/1462153717201911809))
+- [The Chinese Mafia needs to chill out... (2021)](https://www.youtube.com/watch?v=Uf-9EwLiSPI)
+- [The Invention of Chinese (2021)](https://www.historytoday.com/archive/feature/invention-chinese) ([HN](https://news.ycombinator.com/item?id=29516272))
+- [Feature History - Chinese Civil War](https://www.youtube.com/watch?v=jJr3KVM3lBo)
+- [2021 Letter](https://danwang.co/2021-letter/) ([HN](https://news.ycombinator.com/item?id=29759309))

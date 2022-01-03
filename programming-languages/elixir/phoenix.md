@@ -2,6 +2,14 @@
 
 > Productive web framework that does not compromise speed or maintainability.
 
+## Phoenix OSS apps
+
+- [Calendlex](https://github.com/bigardone/calendlex) - Simple Calendly clone with Phoenix LiveView.
+
+## Notes
+
+- [Can deploy Phoenix app on Fly with `mix phx.new`, `fly launch`.](https://twitter.com/chris_mccord/status/1468998944009166849)
+
 ## Links
 
 - [Surface](https://github.com/msaraiva/surface) - Server-side rendering component library for Phoenix.
@@ -37,7 +45,7 @@
 - [Learning Elixir, Phoenix and LiveView: A Primer for Experienced Programmers (2021)](https://amattn.com/p/learning_elixir_phoenix_and_liveview_a_primer_for_experienced_programmers.html)
 - [Elixir and Phoenix after two years (2021)](https://nts.strzibny.name/elixir-phoenix-after-two-year/) ([HN](https://news.ycombinator.com/item?id=26702222))
 - [Phoenix LiveView Counter Tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
-- [Livebook](https://github.com/elixir-nx/livebook) - Interactive and collaborative code notebooks - made with Phoenix LiveView. ([HN](https://news.ycombinator.com/item?id=26853285))
+- [Livebook](https://livebook.dev/) - Write interactive & collaborative code notebooks in Elixir. ([HN](https://news.ycombinator.com/item?id=26853285)) ([Code](https://github.com/livebook-dev/livebook)) ([Web Code](https://github.com/livebook-dev/livebook_website)) ([Tweet](https://twitter.com/josevalim/status/1450460641601462282))
 - [PhoenixIntegration](https://github.com/boydm/phoenix_integration) - Set of lightweight, server-side integration test functions for Phoenix.
 - [Let's Build An Instagram Clone With The PETAL(Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView) Stack (2021)](https://dev.to/elixirprogrammer/let-s-build-an-instagram-clone-with-the-petal-phoenix-elixir-tailwindcss-alpinejs-liveview-stack-263n)
 - [Let’s build a real time chat application with Elixir and Phoenix LiveView (2021)](https://www.youtube.com/watch?v=_rTFZbvMfJA)
@@ -53,3 +61,10 @@
 - [Desktop](https://github.com/elixir-desktop/desktop) - Building native-like Elixir apps is the goal of this library. It combines Phoenix LiveView and Erlangs built-in WxWidgets library to archieve this.
 - [How We Got to LiveView (2021)](https://fly.io/blog/how-we-got-to-liveview/) ([HN](https://news.ycombinator.com/item?id=28620490))
 - [PLDS](https://github.com/phoenixframework/plds) - CLI version of Phoenix LiveDashboard.
+- [Hot Reloading with Phoenix and Webpack (2021)](https://felt.com/blog/phoenix-and-webpack-hot-reloading-react)
+- [Preparing a Phoenix 1.6 app for deployment with Elixir Releases (2021)](https://dev.to/miguelcoba/preparing-a-phoenix-1-6-app-for-deploying-with-elixir-releases-3gf6)
+- [Gigalixir Action](https://github.com/mhanberg/gigalixir-action) - GitHub Action for deploying Phoenix applications to Gigalixir.
+- [Gigalixir](https://www.gigalixir.com/) - Elixir’s Platform as a Service.
+- [Absinthe.Phoenix](https://github.com/absinthe-graphql/absinthe_phoenix) - Integrates Absinthe subscriptions with Phoenix.
+- [PhxComponentHelpers](https://github.com/cblavier/phx_component_helpers) - Extensible Phoenix liveview components, without boilerplate.
+- [Phoenix.PubSub](https://github.com/phoenixframework/phoenix_pubsub) - Distributed PubSub and Presence platform for the Phoenix Framework.

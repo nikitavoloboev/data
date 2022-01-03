@@ -43,6 +43,12 @@ Learning to build [startups](startups/startups.md).
 - [What matters is not so much size [of an organization] but the distance between employees and their customers.](https://twitter.com/johnmaeda/status/1422510958195482630)
 - [In corporate jobs, the best employees make their manager’s lives easier which encourages giving them more scope and responsibility. You get there by being autonomous instead of needing regular guidance, bringing solutions not problems and taking ownership when you don’t have to.](https://twitter.com/Carnage4Life/status/1408423307494400004)
 - [The moment you initiate a business relationship with anyone outside of your company, you should be registering it, as the contracts should be between the corporate entity and the vendor rather than you (personally) with the vendor.](https://www.reddit.com/r/SaaS/comments/oz8m6m/registering_a_company/)
+- [As a principal engineer, sometimes my title intimidates people (at my job). I see it when people are sharing ideas or code. I’m thinking of ways to tackle this, but wanted to share that your title may carry weight. What are you doing to build inclusive and equitable environments?](https://twitter.com/bryanl/status/1441441208321069060)
+- [40 hour workweek was established over a century ago. Since then, we've invented 5G networks, automation, 3D printing, AR/VR, and a computer that can fit in your pocket. Nearly all of the tools have changed, yet somehow people still think the way we work needs to stay the same.](https://twitter.com/stephsmithio/status/1433939023278456833)
+- [Checking items off a list feels productive but it’s not effective. Effectiveness is staying focused on tasks that drive customer value.](https://twitter.com/techgirl1908/status/1462104303959695366)
+- [Within a year or two, we will see the end of cliff vesting or vesting of any kind. We are already seeing some large companies front-load RSUs. One big factor is competition with web3 projects where people can be compensated in instantly liquid tokens.](https://twitter.com/sriramk/status/1463977494667620352)
+- [I don't want a new cryptocurrency i want a new type of business legal structure that incentivizes you to actually do good in the world while making money.](https://twitter.com/mollyfmielke/status/1472231100487323652)
+- [Advice for making money: Sell to businesses. Not consumers.](https://twitter.com/JamesonCamp/status/1472990210422194186)
 
 ## Links
 
@@ -106,3 +112,22 @@ Learning to build [startups](startups/startups.md).
 - [Economics of Bundling and Unbundling (2021)](https://matt-rickard.com/bundling-unbundling-economics/)
 - [Bernard Arnault's LVMH business (2021)](https://twitter.com/TrungTPhan/status/1421496101295722498)
 - [2013 Elon email to employees on why he wants to keep SpaceX private](https://twitter.com/TrungTPhan/status/1433992813444669445)
+- [As More Workers Go Solo, the Software Stack Is the New Firm (2021)](https://future.a16z.com/solo-workers-software-stack/)
+- [α-Indirect Control in Onion-like Networks (2021)](https://arxiv.org/abs/2109.07181v2) - Algorithm that detects the ultimate controlling owners of companies. ([Article](https://www.skoltech.ru/en/2021/09/new-tool-reveals-ultimate-owners-of-companies/)) ([HN](https://news.ycombinator.com/item?id=28688906))
+- [Cloudflare’s Pace of Innovation (2021)](https://blog.cloudflare.com/the-secret-to-cloudflare-pace-of-innovation/) ([HN](https://news.ycombinator.com/item?id=28943970))
+- [The Skill of Org Design (2021)](https://commoncog.com/blog/org-design-skill/) ([HN](https://news.ycombinator.com/item?id=28772033))
+- [Business Wire](https://www.businesswire.com/portal/site/home/) - Press release distribution, EDGAR filing, XBRL, regulatory filings.
+- [The Death and Birth of Technological Revolutions (2021)](https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/) ([HN](https://news.ycombinator.com/item?id=28839424)) ([Tweet](https://twitter.com/gordonbrander/status/1447975083469803523))
+- [Companies that started as spreadsheets (2021)](https://twitter.com/stephsmithio/status/1448784835477008396)
+- [Steve Jobs on Starting A Business](https://www.youtube.com/watch?v=kwkGX-PlTxs)
+- [trademarks](https://github.com/Denchick/trademarks) - Small service that helps to check if there was already a registered trademark.
+- [Leaving Google (2021)](https://jayconrod.com/posts/122/leaving-google) ([HN](https://news.ycombinator.com/item?id=28965282))
+- [Influence Explorer](https://techinquiry.org/explorer/) - Tool for browsing an integrated stream of multinational procurement, lobbying, and labor relations data feeds. ([Code](https://gitlab.com/tech-inquiry/InfluenceExplorer))
+- [HashiCorp – S1 (2021)](https://www.sec.gov/Archives/edgar/data/1720671/000119312521319849/d205906ds1.htm) ([HN](https://news.ycombinator.com/item?id=29110444))
+- [What acquisition (one company buying another) would make the most sense to you? (2021)](https://twitter.com/patrick_oshag/status/1457060774178918406)
+- [Elon Musk on why tech patents are not great](https://twitter.com/manishm/status/1462179343925346307)
+- [Firstbase](https://www.firstbase.io/) - Start your business in the US from anywhere. ([Twitter](https://twitter.com/tryfirstbase))
+- [I started a paper website business (2021)](https://daily.tinyprojects.dev/paper_website) ([HN](https://news.ycombinator.com/item?id=29550812))
+- [Reinventing Organizations (2014)](https://www.youtube.com/watch?v=gcS04BI2sbk)
+- [Underrated institutions (2021)](https://twitter.com/krishnanrohit/status/1474660982819590147)
+- [Companies that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot) ([HN](https://news.ycombinator.com/item?id=29746370))

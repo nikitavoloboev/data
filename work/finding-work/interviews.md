@@ -2,7 +2,11 @@
 
 [Your ultimate guide to interview preparation](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) is an amazing guide that covers pretty much everything you need to know to prepare & pass a technical interview.
 
-[CodeSandbox](https://codesandbox.io/) is a great platform for conducting live coding interviews for free.
+[CodeSandbox](https://codesandbox.io/) or [Replit](https://replit.com/) are great platform for conducting live coding interviews for free.
+
+## Nice questions to ask
+
+- [What is the entire process for a one line change in code to make it to production?](https://twitter.com/jeremykahne/status/1469416655168196620)
 
 ## Notes
 
@@ -23,7 +27,7 @@
 - [My Tech Interviews Experience: Failures, Successes and Tips for you](https://patrickbalestra.com/blog/2018/08/06/my-tech-interviews-experience.html)
 - [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
 - [Data structures cheat sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b#file-the-technical-interview-cheat-sheet-md)
-- [Pramp](https://www.pramp.com/ "https://www.pramp.com") - 1 hr online interviews where you interview someone and they interview you back.
+- [Pramp](https://www.pramp.com/#/) - 1 hr online interviews where you interview someone and they interview you back.
 - [LeetCode](https://leetcode.com/) - Collection of 700+ interview coding challenges.
 - [Preparing for SRE interview](https://blog.balthazar-rouberol.com/preparing-the-sre-interview.html)
 - [Developer questions](https://github.com/ggomaeng/better-developer-quotes)
@@ -142,3 +146,12 @@
 - [Tips on doing better at tech interviews (2021)](https://twitter.com/AdamRackis/status/1370874399390367756)
 - [Code Interviews (2021)](https://alaiacano.github.io/interviews/2021/08/11/interviews.html) ([HN](https://news.ycombinator.com/item?id=28435372))
 - [Как провести техническое интервью (2021)](https://twitter.com/andrey_sitnik/status/1440953541091278849)
+- [What I Look for in Interviews (2021)](https://mt165.co.uk/blog/how-i-interview/)
+- [Interviewing Advice from the Other Side of the Table (2020)](https://theorangeduck.com/page/interviewing-advice-from-other-side-table)
+- [Notes on interviewing candidates](https://www.remnote.com/a/interview/617fc61068286e00169b947a)
+- [Don’t do interviews, do discussions](https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions) ([HN](https://news.ycombinator.com/item?id=29141983))
+- [Accepted and ghosted: interviewing for a leadership position at Stripe (2021)](https://news.ycombinator.com/item?id=29387264)
+- [What I learned about interviewing](https://lanie.dev/tech/interviewing/) ([HN](https://news.ycombinator.com/item?id=29392032))
+- [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview) ([Code](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns))
+- [Interview success can depend on how you schedule interviews](https://tanayagrawal.substack.com/p/how-to-schedule-interviews) ([HN](https://news.ycombinator.com/item?id=29474274))
+- [An Algorithm for Passing Programming Interviews](https://malisper.me/an-algorithm-for-passing-programming-interviews/) ([HN](https://news.ycombinator.com/item?id=29775023))

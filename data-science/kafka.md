@@ -47,12 +47,12 @@
 - [Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet (2021)](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
 - [Best Books to Learn Apache Kafka (2021)](https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9)
 - [Kafka-Penguin](https://github.com/oslabs-beta/kafka-penguin) - Easy-to-use, lightweight KafkaJS library for message processing.
-- [Understanding Kafka with Factorio (2019)](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
+- [Understanding Kafka with Factorio (2019)](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181) ([HN](https://news.ycombinator.com/item?id=29304414))
 - [Google Pub/Sub Lite for Kafka Users (2021)](https://medium.com/google-cloud/google-pub-sub-lite-for-kafka-users-dec8a7cfc5e5)
 - [Teach Yourself Apache Kafka and Python with a Jupyter Notebook](https://aiven.io/blog/teach-yourself-apache-kafka-and-python-with-a-jupyter-notebook)
 - [Confluent Hub](https://www.confluent.io/hub/) - Discover Kafka connectors and more.
 - [Gently Down the Stream - A gentle introduction to Apache Kafka](https://www.gentlydownthe.stream/) ([HN](https://news.ycombinator.com/item?id=27541339))
-- [UI for Apache Kafka](https://github.com/provectus/kafka-ui) - Free open-source web UI for monitoring and management of Apache Kafka clusters.
+- [UI for Apache Kafka](https://github.com/provectus/kafka-ui) - Free open-source web UI for monitoring and management of Apache Kafka clusters. ([HN](https://news.ycombinator.com/item?id=28718066))
 - [Starting with Kafka (2021)](https://blog.tinybird.co/2021/06/25/starting-with-kafka/) ([HN](https://news.ycombinator.com/item?id=27629553))
 - [Conduktor](https://www.conduktor.io/) - Kafka Desktop Client. ([GitHub](https://github.com/conduktor))
 - [Event-driven OpenFaaS with Managed Kafka from Aiven (2021)](https://www.openfaas.com/blog/openfaas-kafka-aiven/)
@@ -63,3 +63,21 @@
 - [Kafka Rust Example](https://github.com/ansrivas/kafka-rust-example) - Simple command line application to read/write message to kafka topic using protobuf.
 - [Exactly once delivery from Kafka to Delta Lake with Rust](https://github.com/delta-io/kafka-delta-ingest)
 - [Optimizing Kafka Performance (2021)](https://granulate.io/optimizing-kafka-performance/) ([Reddit](https://www.reddit.com/r/scala/comments/pr45zg/optimizing_kafka_performance/))
+- [What is Apache Kafka, and what are Kafka use cases? (2021)](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
+- [pg2kafka](https://github.com/blendle/pg2kafka) - Ship changes in Postgres to Kafka.
+- [Issues we've encountered while building a Kafka based data processing pipeline (2021)](https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d) ([HN](https://news.ycombinator.com/item?id=28903614))
+- [josef](https://github.com/joshrotenberg/josef) - Process Kafka streams with Clojure Transducers.
+- [Kafka Streams in Scala (2021)](https://www.youtube.com/watch?v=MYTFPTtOoLs)
+- [Kafka Streams 101 (2021)](https://blog.rockthejvm.com/kafka-streams/)
+- [Kafka Streams 101 – resources to get started (2021)](https://forum.confluent.io/t/kafka-streams-101-resources-to-get-started/3283)
+- [rust-rdkafka](https://github.com/fede1024/rust-rdkafka) - Fully asynchronous, futures-enabled Apache Kafka client library for Rust based on librdkafka.
+- [Sarama](https://github.com/Shopify/sarama) - Go library for Apache Kafka.
+- [kcctl](https://github.com/kcctl/kcctl) - CLI for Apache Kafka Connect.
+- [Pinterest Secor](https://github.com/pinterest/secor) - Service implementing Kafka log persistence.
+- [Scaling Kafka at Honeycomb (2021)](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/) ([HN](https://news.ycombinator.com/item?id=29396319))
+- [kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka.
+- [Kasper](https://github.com/nmaquet/kasper) - Lightweight library for processing Kafka topics.
+- [Postgres, Kafka, and the Mysterious 100 GB](https://www.mattritter.me/?p=398)
+- [Create page view analytics system using Kafka, Go, Postgres & GraphQL in 5 steps (2021)](https://lakhan.me/blog/create-page-view-analytics-system-using-kafka-go-postgres-graphql-in-5-steps)
+- [kaproxy](https://github.com/bitleak/kaproxy) - Restful HTTP Proxy For Kafka.
+- [Brod](https://github.com/kafka4beam/brod) - Apache Kafka client library for Erlang/Elixir.

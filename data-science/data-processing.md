@@ -28,7 +28,7 @@
 - [Opaque](https://github.com/mc2-project/opaque) - Secure Apache Spark SQL.
 - [Apache Beam](https://github.com/apache/beam) - Unified programming model for Batch and Streaming. ([Web](https://beam.apache.org/))
 - [Stitch](https://www.stitchdata.com/) - Simple, extensible ETL built for data teams.
-- [Databricks](https://databricks.com/) - Unified Data Analytics. ([GitHub](https://github.com/databricks)) ([CLI](https://github.com/databricks/databricks-cli))
+- [Databricks](https://databricks.com/) - Unified Data Analytics. ([GitHub](https://github.com/databricks)) ([CLI](https://github.com/databricks/databricks-cli)) ([Reflecting on Four Years at Databricks (2021)](https://www.lihaoyi.com/post/ReflectingonFourYearsatDatabricks.html))
 - [AugMix](https://github.com/google-research/augmix) - Simple Data Processing Method to Improve Robustness and Uncertainty.
 - [Snapflow](https://github.com/kvh/snapflow) - Framework for building end-to-end functional data pipelines from modular components.
 - [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) - Way to specify data processing workflows with a human-readable and writeable syntax.
@@ -41,10 +41,11 @@
 - [Feature Stores: The Data Side of ML Pipelines (2021)](https://medium.com/riselab/feature-stores-the-data-side-of-ml-pipelines-7083d69bff1c)
 - [Flowgger](https://github.com/awslabs/flowgger) - Fast, simple and lightweight data collector written in Rust.
 - [Popsink](https://app.popsink.dev/) - Real-time data platform you don't have to build.
-- [Flyte](https://github.com/flyteorg/flyte) - Structured programming and distributed processing platform that enables highly concurrent, scalable and maintainable workflows for Machine Learning and Data Processing. ([Web](https://flyte.org/)) ([GitHub](https://github.com/flyteorg))
+- [Flyte](https://github.com/flyteorg/flyte) - Structured programming and distributed processing platform that enables highly concurrent, scalable and maintainable workflows for Machine Learning and Data Processing. ([Web](https://flyte.org/)) ([GitHub](https://github.com/flyteorg)) ([Python SDK](https://github.com/flyteorg/flytekit))
 - [Winterfell](https://github.com/novifinancial/winterfell) - Distributed STARK prover.
 - [Python to Distributed Python to Airflow task in ~5 lines of code](https://www.astronomer.io/blog/airflow-ray-data-science-story)
 - [DataFusion](https://github.com/apache/arrow-datafusion) - Extensible query execution framework, written in Rust, that uses Apache Arrow as its in-memory format.
+- [Delta Lake](https://delta.io/) - Reliable Data Lakes at Scale. ([GitHub](https://github.com/delta-io))
 - [Delta Sharing](https://delta.io/sharing/) - Open Protocol for Secure Data Sharing. ([Article](https://databricks.com/blog/2021/05/26/introducing-delta-sharing-an-open-protocol-for-secure-data-sharing.html)) ([Tweet](https://twitter.com/matei_zaharia/status/1397585545849540612))
 - [Dataform](https://dataform.co/) - Manage data pipelines in BigQuery.
 - [Legate Pandas](https://github.com/nv-legate/legate.pandas) - Aspiring Drop-In Replacement for Pandas at Scale.
@@ -58,4 +59,17 @@
 - [SciPipe](https://github.com/scipipe/scipipe) - Robust, flexible and resource-efficient pipelines using Go and the command line. ([Docs](https://scipipe.org/))
 - [The Future Is Big Graphs: A Community View on Graph Processing Systems (2021)](https://cacm.acm.org/magazines/2021/9/255040-the-future-is-big-graphs/fulltext) ([HN](https://news.ycombinator.com/item?id=28499999))
 - [What Is the Data Lakehouse Pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/) ([HN](https://news.ycombinator.com/item?id=28531009))
-- [Apache Hadoop](https://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing. ([Is Hadoop Dead?](https://tech.marksblogg.com/is-hadoop-dead.html))
+- [Apache Hadoop](https://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing. ([Is Hadoop Dead?](https://tech.marksblogg.com/is-hadoop-dead.html)) ([Code](https://github.com/apache/hadoop))
+- [go-stash](https://github.com/tal-tech/go-stash) - High performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
+- [pypely](https://github.com/stoney95/pypely) - Make your data processing easy - build pipelines in a functional manner.
+- [An opinionated map of incremental and streaming systems (2021)](https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems/)
+- [Crossjoin](https://github.com/crossjoin-io/crossjoin) - Joins together your data from anywhere.
+- [Ceramic Network](https://ceramic.network/) - Decentralized, open source platform for creating, hosting, and sharing streams of data. ([TS Code](https://github.com/ceramicnetwork/js-ceramic)) ([GitHub](https://github.com/ceramicnetwork)) ([Doc](https://github.com/ceramicnetwork/ceramic))
+- [Graphite-Web](https://github.com/graphite-project/graphite-web) - Highly scalable real-time graphing system. ([Docs](https://graphite.readthedocs.io/en/stable/))
+- [vega](https://github.com/rajasekarv/vega) - Faster implementation of Apache Spark from scratch in Rust.
+- [Memgraph](https://github.com/memgraph/memgraph) - Build modern, graph-based applications on top of your streaming data in minutes. ([Web](https://memgraph.com/))
+- [Apache Parquetv](https://parquet.apache.org/) - Columnar storage format that supports nested data. ([Code](https://github.com/apache/parquet-format))
+- [Data Pipelines Pocket Reference Book (2021)](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/) ([Code](https://github.com/jamesdensmore/datapipelinesbook))
+- [miniwdl](https://github.com/chanzuckerberg/miniwdl) - Workflow Description Language developer tools & local runner.
+- [Rain](https://github.com/substantic/rain) - Framework for large distributed pipelines.
+- [Apache SeaTunnel](https://seatunnel.apache.org/) - Distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). ([Code](https://github.com/apache/incubator-seatunnel))

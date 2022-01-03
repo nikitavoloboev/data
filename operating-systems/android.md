@@ -8,6 +8,9 @@
 - [Expenso](https://github.com/Spikeysanju/Expenso) - Minimal Expense Tracker App built to demonstrate the use of modern android architecture component with MVVM Architecture.
 - [Rally](https://github.com/hashlin/rally) - Personal finance app that uses Material Design components and Material Theming.
 - [Telegram](https://github.com/DrKLO/Telegram)
+- [NY Times](https://github.com/TheCodeMonks/NYTimes-App) - Simple Demonstration of the New York Times App using Jsoup web crawler with MVVM Architecture.
+- [Pinkt](https://github.com/fibelatti/pinboard-kotlin) - Unofficial Pinboard android app, developed as a playground to study many topics related to Android. Kotlin + Coroutines + MVVM.
+- [DuckDuckGo Android App](https://github.com/duckduckgo/Android)
 
 ## Links
 
@@ -44,3 +47,13 @@
 - [CalyxOS](https://calyxos.org/) - De-Googled Android Alternative. ([HN](https://news.ycombinator.com/item?id=28090024))
 - [Shipping Clubhouse on Android in ten weeks (2021)](https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/) ([HN](https://news.ycombinator.com/item?id=28473894))
 - [Waydroid](https://github.com/waydroid/waydroid) – Run Android containers on Ubuntu. ([HN](https://news.ycombinator.com/item?id=28616985))
+- [Google Play Deploy](https://github.com/bitrise-steplib/steps-google-play-deploy) - Upload your Android app to Google Play.
+- [LeakCanary](https://github.com/square/leakcanary) - Memory leak detection library for Android.
+- [Bundletool](https://github.com/google/bundletool) - Command-line tool to manipulate Android App Bundles.
+- [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. ([HN](https://news.ycombinator.com/item?id=29047703))
+- [Android phones are sending significant amount of user data with no opt-out (2021)](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) ([HN](https://news.ycombinator.com/item?id=28830328))
+- [Nix-on-Droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
+- [Ask HN: Why there are no Android mini phones? (2021)](https://news.ycombinator.com/item?id=29287158)
+- [Mavericks](https://github.com/airbnb/mavericks) - Android on Autopilot.
+- [SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android.
+- [dadb](https://github.com/mobile-dev-inc/dadb) - Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server. ([Article](https://blog.mobile.dev/our-first-open-source-project-54cd8edc452f)) ([Tweet](https://twitter.com/GergelyOrosz/status/1465363032171847681))

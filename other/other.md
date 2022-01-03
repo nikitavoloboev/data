@@ -33,12 +33,15 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [When your existence outside the workplace is devoid of meaning, you’ll confuse your place of work with your entire life.](https://twitter.com/dvassallo/status/1386831102359179264)
 - Play stupid games win stupid prizes.
 - [Social consensus is not the same thing as truth.](https://twitter.com/balajis/status/1398245943128956936)
+- [Stop coming to overarching conclusions](https://twitter.com/tszzl/status/1445163212572401674)
+- [Girls just want one thing and it’s a home surrounded by nature with giant open windows and a backyard full of trees and japanese style seating arrangements and and in home-library and babies to read books to and it’s disgusting.](https://twitter.com/rawmilkhoney/status/1451728076203651077)
+- [I love how being an adult is just saying "But after this week things will slow down a bit again" to yourself until you die](https://twitter.com/kramski/status/1148338745600598016)
+- [Don’t fight the system. Use the system to change the system.](http://www.federicopereiro.com/system/)
 
 ## Other
 
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Hashicorp principles](https://www.hashicorp.com/our-principles)
-- [TIL](https://github.com/jbranchaud/til)
 - [Minimums](http://minimums.com/) - Interesting possessions of interesting people.
 - [The Atlas](https://www.theatlas.com/) - Search charts.
 - [SV Dictionary](http://svdictionary.com/)
@@ -123,7 +126,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Bit](https://github.com/teambit/bit) - Platform for collaborating on components.
 - [tuf](https://github.com/theupdateframework/tuf) - Framework for securing software update systems.
 - [Collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
-- [Cue](https://github.com/cue-lang/cue) - Validate and define text-based and dynamic configuration. ([Web](https://cuelang.org/)) ([Cuetorials](https://cuetorials.com/)) ([Playground](https://cuelang.org/play/)) ([How CUE Wins (2021)](https://blog.cedriccharly.com/post/20210523-how-cue-wins/))
+- [Cue](https://github.com/cue-lang/cue) - Validate and define text-based and dynamic configuration. ([Web](https://cuelang.org/)) ([Cuetorials](https://cuetorials.com/)) ([Playground](https://cuelang.org/play/)) ([How CUE Wins (2021)](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)) ([HN](https://news.ycombinator.com/item?id=28915655))
 - [phonograph](https://github.com/Rich-Harris/phonograph) - Stream large audio files without the dreaded 'DOMException: play() can only be initiated by a user gesture' error.
 - [Source code to all the tutorials on emulator101.com](https://github.com/kpmiller/emulator101)
 - [Loss functions for image segmentation](https://github.com/JunMa11/SegLoss)
@@ -251,7 +254,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [skill-tree](https://github.com/nikomatsakis/skill-tree) - Tool for rendering "skill trees", currently using graphviz.
 - [unFTP](https://github.com/bolcom/unFTP) - FTP(S) server with a couple of twists written in Rust.
 - [Zenoh](http://zenoh.io/) - Zero Overhead, Pub/Sub, Store, Query, and Compute Protocol. ([Code](https://github.com/eclipse-zenoh/zenoh))
-- [Replicache](https://replicache.dev/) - Easy Offline-First for Existing Applications. ([Code](https://github.com/rocicorp/replicache)) ([Design](https://github.com/rocicorp/replicache/blob/master/design.md)) ([Tweet](https://twitter.com/replicache/status/1359690468892626944))
+- [Replicache](https://replicache.dev/) - Easy Offline-First for Existing Applications. ([Code](https://github.com/rocicorp/replicache)) ([Design](https://github.com/rocicorp/replicache/blob/master/design.md)) ([Tweet](https://twitter.com/replicache/status/1359690468892626944)) ([Tweet](https://twitter.com/dpeeky/status/1451701841847222273)) ([Tweet](https://twitter.com/aboodman/status/1410441402366922762))
 - [Engineering Ladders](https://github.com/bmoeskau/engineering-ladders) - Collection of engineering ladders for reference and inspiration.
 - [Practical tips that can help you be evaluated more fairly during performance review (2018)](https://twitter.com/mekkaokereke/status/1027552459873378304)
 - [Tonari](https://tonari.no/) - Open doorway to another place, enabling you to be together and communicate naturally, just like you're really there. ([GitHub](https://github.com/tonarino))
@@ -353,7 +356,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Sunday Sites](https://sundaysites.cafe/) - Place to write code and socialize. A couple of sundays a month, we meet on Zoom and write HTML for around two hours.
 - [How does a gas pump know to shut itself off? (1981)](https://www.straightdope.com/21341412/how-does-a-gas-pump-know-to-shut-itself-off) ([HN](https://news.ycombinator.com/item?id=24741029))
 - [Hacker News Lists](https://news.ycombinator.com/lists) - Top HN users/threads/..
-- [Fonos](https://github.com/fonoster/fonos) - Open-source telecommunications for the cloud. ([Docs](https://fonoster.github.io/fonos/))
+- [Fonoster](https://github.com/fonoster/fonoster) - Open Source Twilio Alternative. Engage with your customer with voice or messaging with a single easy-to-use platform. ([Docs](https://fonoster.github.io/fonos/)) ([Web](https://fonoster.com/))
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [hncheck](https://github.com/brandur/hncheck) - Simple app that checks to see if something under one of your domains has been submitted to HN, and emails you if it has. ([Runner](https://github.com/brandur/hncheck-runner))
 - [pure JS WiFi QR Code Generator](https://qifi.org/)
@@ -363,14 +366,14 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [What if we had Local-First Software? (2020)](https://adlrocha.substack.com/p/adlrocha-what-if-we-had-local-first) ([HN](https://news.ycombinator.com/item?id=24790170))
 - [100 Rabbits Themes](https://github.com/hundredrabbits/Themes) - Application themes and tools used across the Hundred Rabbits Ecosystem.
 - [Sharkle](https://sharkle.com/) - Generator of random awesomeness.
-- [Diagon](https://arthursonzogni.com/Diagon/) - Interactive ASCII art diagram generators. ([Code](https://github.com/ArthurSonzogni/Diagon))
+- [Diagon](https://arthursonzogni.com/Diagon/) - Interactive ASCII art diagram generators. ([Code](https://github.com/ArthurSonzogni/Diagon)) ([HN](https://news.ycombinator.com/item?id=29635165))
 - [Ask HN: What did you purchase that measurably improved your quality of life? (2020)](https://news.ycombinator.com/item?id=24819254)
 - [critcmp](https://github.com/BurntSushi/critcmp) - Command line tool for comparing benchmarks run by Criterion.
 - [Best of Show HN](https://bestofshowhn.com/)
 - [TreeCard](https://www.treecard.org/) - Wooden debit card that plants trees. ([HN](https://news.ycombinator.com/item?id=25621401))
 - [Moderating a 220k Developer Community (2020)](https://dev.to/swyx/moderating-a-220k-developer-community-3doj)
 - [Mold](https://github.com/rui314/mold) - Modern Linker. ([Lobsters](https://lobste.rs/s/t9gvtg/mold_modern_linker)) ([HN](https://news.ycombinator.com/item?id=26233244))
-- [Stedi](https://stedi.com/) - Structured messaging platform for B2B trade.
+- [Stedi](https://stedi.com/) - Build automated EDI solutions that integrate with any business system. ([Twitter](https://twitter.com/stedi)) ([Tweet](https://twitter.com/zackkanter/status/1466509584005144577))
 - [gorush](https://github.com/appleboy/gorush) - Push notification server written in Go.
 - [Lessons from six months at Shopify (2020)](https://alexdanco.com/2020/10/23/six-lessons-from-six-months-at-shopify/) ([HN](https://news.ycombinator.com/item?id=24876665))
 - [itty.bitty.site](http://itty.bitty.site/) - Tool to create links that contain small sites. ([Code](https://github.com/alcor/itty-bitty/))
@@ -382,13 +385,13 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [OnlineWardleyMaps](https://onlinewardleymaps.com/) - Draw Wardley Maps in seconds.
 - [Spotify Export](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON.
 - [Code Explorer](https://code-explorer.bypaulshen.com/) - Exploration of using space and semantics to help us read and understand code.
-- [‎ix.io](http://ix.io/) - command line pastebin.
+- [ix.io](http://ix.io/) - command line pastebin.
 - [Devine's bookmarks](https://wiki.xxiivv.com/site/bookmarks.html)
 - [mandible](https://github.com/Imgur/mandible) - Ready-to-deploy uploader that you can run on AWS EC2 or Heroku. It accepts an image via a REST interface and returns information about a file.
 - [Anya Taylor-Joy: inside my beauty bag (2020)](https://www.youtube.com/watch?v=HjniMU1IgHE)
 - [Paper Computing](https://wiki.xxiivv.com/site/paper_computing.html)
 - [ByteDance](https://www.bytedance.com/en/) ([GitHub](https://github.com/bytedance))
-- [How do Spotify Codes work? (2020)](https://boonepeter.github.io/posts/2020-11-10-spotify-codes/)
+- [How do Spotify Codes work? (2020)](https://boonepeter.github.io/posts/2020-11-10-spotify-codes/) ([Part 2](https://boonepeter.github.io/posts/spotify-codes-part-2/))
 - [Sharkle](https://showus.netlify.app/) - Generator of random awesomeness.
 - [Vas3k Club](https://vas3k.club/) - No bullshit IT community with private membership. ([Code](https://github.com/vas3k/vas3k.club))
 - [Gossip’s Web](https://gossipsweb.net/) - Link collection. Costs 1\$ to submit link.
@@ -469,6 +472,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Glob Editor](https://globs-steveruiz.vercel.app/) - Globs-based vector editor. ([Code](https://github.com/steveruizok/globs))
 - [Awesome Forensics](https://github.com/cugu/awesome-forensics)
 - [DevRel Collective](https://devrelcollective.fun/) - Place forsharing information, resources, and encouragement among the Developer Relations community. ([Code](https://github.com/devrelcollective/devrelcollective.fun))
+- [Awesome DevRel](https://github.com/devrelcollective/awesome-devrel)
 - [Maze Generator in Go in WebAssembly](http://frigidriver.com/mazes/) ([Lobsters](https://lobste.rs/s/kwzuqn/maze_generator_go_webassembly))
 - [flowkit](https://flowkit.vercel.app/) - Simple online flow chart editor. ([Code](https://github.com/egoist/flowkit))
 - [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
@@ -526,3 +530,57 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Gnod](https://www.gnod.com/) - The Global Network Of Discovery.
 - [Thingtesting](https://thingtesting.com/) - Discover and learn more about modern brands. ([Twitter](https://twitter.com/thingtesting_))
 - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) - Traverses hyperlinks on Wikipedia to find the least number of clicks it takes to navigate between any 2 pages. ([Code](https://github.com/jwngr/sdow)) ([HN](https://news.ycombinator.com/item?id=28595821))
+- [Monadium.org](https://monadium.org/) - Help programmers achieve their career goals throughout their entire careers.
+- [The World’s Greatest Freediver](https://www.gq.com/story/freediver-alexey-molchanov-profile) ([HN](https://news.ycombinator.com/item?id=28652367))
+- [The Value of In-House Expertise](https://danluu.com/in-house/) ([HN](https://news.ycombinator.com/item?id=28691676)) ([Lobsters](https://lobste.rs/s/t35wtl/value_house_expertise))
+- [CivBoot: a civilizational bootstrapper](https://github.com/civboot/civboot) ([Tweet](https://merveilles.town/web/statuses/107038809041856242))
+- [Behind the Screens Book](https://jpeguin.gumroad.com/l/jOLcS) - Exploring the app dev journey and app developers' stories.
+- [Primal Survivor](https://www.primalsurvivor.net/) - Practical and sensible prepping advice for all.
+- [FMHYedit Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) ([Code](https://github.com/nbats/FMHYedit))
+- [My Experience with Leverage Research (2021)](https://medium.com/@zoecurzi/my-experience-with-leverage-research-17e96a8e540b) ([Tweet](https://twitter.com/CurziRose/status/1448067915375386628))
+- [Legitimacy Lost (2021)](https://li.substack.com/p/legitimacy-lost) ([Tweet](https://twitter.com/ljin18/status/1449440177190051849))
+- [Thing that everyone in your field knows and nobody in your industry talks about because it would lead to general chaos](https://twitter.com/mykola/status/1198719315589160960)
+- [Beyond Smart (2021)](http://paulgraham.com/smart.html) ([HN](https://news.ycombinator.com/item?id=28947558))
+- [Open secrets about Hacker News (2021)](https://bengtan.com/blog/open-secrets-hacker-news/) ([HN](https://news.ycombinator.com/item?id=29024032))
+- [Friends with Benefits](https://www.fwb.help) - Digital cornerstone between technology and culture communities. ([Twitter](https://twitter.com/fwbtweets))
+- [List of hypothetical technologies - Wikipedia](https://en.wikipedia.org/wiki/List_of_hypothetical_technologies)
+- [Switchyards](https://switchyards.com/) - Neighborhood Work Club. ([Twitter](https://twitter.com/switchyards))
+- [Open Microscopy List](https://github.com/HohlbeinLab/OpenMicroscopy) - List of projects and resources related to open microscopy.
+- [The Staff Engineer's Path Book](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
+- [Track Awesome List](https://www.trackawesomelist.com/) - Track your Favorite Github Awesome Repo.
+- [daily.dev](https://daily.dev/) - Homepage Every Developer Deserves. ([Code](https://github.com/dailydotdev/daily))
+- [Awesome GraphViz](https://github.com/CodeFreezr/awesome-graphviz)
+- [\_why's Estate](https://viewsourcecode.org/why/) ([HN](https://news.ycombinator.com/item?id=29142915))
+- [Beyond Based And Cringe](https://donotresearch.net/posts/beyond-based-and-cringe)
+- [Equinor](https://www.equinor.com/) - Petroleum refining company. ([GitHub](https://github.com/equinor))
+- [Introduction to the Oil and Gas Sector (2015)](https://www.youtube.com/watch?v=k4cVxGndh9g)
+- [My Hacker News knowledge assimilation stack (2021)](https://abishekmuthian.com/my-hacker-news-knowledge-assimilation-stack/) ([HN](https://news.ycombinator.com/item?id=29217485))
+- [The Orwell Foundation](https://www.orwellfoundation.com/)
+- [Любимые цветы](https://twitter.com/elisavetaaaaaaa/status/1460637107790266378)
+- [Slant](https://www.slant.co/) - Product recommendation community. ([Discord](https://discord.com/invite/0dNv9Dc5KvI2cY54))
+- [Sandro's cheat sheet](https://github.com/SuperSandro2000/cheat-sheet)
+- [TuneIn](https://tunein.com/) - Free Internet Radio.
+- [Beliefs about how things are and how they should be (2018)](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md)
+- [EmojiMix](https://tikolu.net/emojimix/) ([HN](https://news.ycombinator.com/item?id=29305546))
+- [HackerNews Toolkit in Rust (CLI/API)](https://github.com/scastiel/hn)
+- [SuperTunnel](https://supertunnel.app/) - Educational tool that simulates a hole through Earth. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/r3xe9g/find_out_whats_on_the_other_side_of_the_world/)) ([Code](https://github.com/vsueiro/supertunnel))
+- [Wikipedia as the data source: taming the irregular (2021)](https://zverok.github.io/blog/2021-11-30-irregular1.html)
+- [Lens Calculator](https://www.jvsg.com/calculators/cctv-lens-calculator/) - Calculate CCTV camera lens focal length, pixel density and camera zones in 3D.
+- [TXQR](https://github.com/divan/txqr) - Transfer data via animated QR codes.
+- [Emoji to Scale](https://javier.xyz/emoji-to-scale/) ([HN](https://news.ycombinator.com/item?id=29425735)) ([Code](https://github.com/javierbyte/emoji-to-scale))
+- [Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news) ([HN](https://news.ycombinator.com/item?id=29440467))
+- [You Can't Buy Integration (2021)](https://martinfowler.com/articles/cant-buy-integration.html) ([HN](https://news.ycombinator.com/item?id=29478375))
+- [Lexiscore – a nutritional label for food for thought](https://paulbricman.com/thoughtware/lexiscore)
+- [Ask HN: Favorite Thing Built to Last? (2021)](https://news.ycombinator.com/item?id=29510819)
+- [Archive of Our Own](https://archiveofourown.org/) - Fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks, like fanfiction, fanart, fan videos, and podfic.
+- [meguca](https://github.com/bakape/meguca) - Anonymous realtime imageboard focused on high performance, free speech and transparent moderation.
+- [WaveDrom](https://wavedrom.com/) - Digital timing diagram rendering engine. ([Code](https://github.com/wavedrom/wavedrom))
+- [Ask HN: Did you deliberatively develop any new hobby in recent years? (2021)](https://news.ycombinator.com/item?id=29662464)
+- [Ask HN: Show your failed projects and share a lesson you learned (2021)](https://news.ycombinator.com/item?id=29673707)
+- [Ask HN: Have you found something you love to do? If yes how? (2021)](https://news.ycombinator.com/item?id=29685021)
+- [Practical Markup Language (PML)](https://www.pml-lang.dev/index.html)
+- [The Best Things and Stuff of 2021](http://blog.fogus.me/2021/12/27/the-best-things-and-stuff-of-2021/) ([HN](https://news.ycombinator.com/item?id=29702698))
+- [What are some simple ways you can make yourself more attractive? (2021)](https://www.reddit.com/r/AskMen/comments/rqntta/what_are_some_simple_ways_you_can_make_yourself/)
+- [Ask Hacker News Weekly](https://www.daemonology.net/hn-weekly-ask/)
+- [Ask HN: What’s the most outrageous belief you’re confident is true? (2021)](https://news.ycombinator.com/item?id=29733026)
+- [Ask HN: Favorite/Classic HN threads of all time (2022)](https://news.ycombinator.com/item?id=29759993)

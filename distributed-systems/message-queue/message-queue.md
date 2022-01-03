@@ -7,7 +7,8 @@
 - [Disque](https://github.com/antirez/disque-module) - Ongoing experiment to build a distributed, in-memory, message broker.
 - [rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis.
 - [BullMQ](https://github.com/taskforcesh/bullmq) - Premium Message Queue for NodeJS based on Redis.
-- [Celery](https://github.com/celery/celery) - Distributed Task Queue.
+- [Celery](https://github.com/celery/celery) - Distributed Task Queue. ([Docs](https://docs.celeryproject.org/en/stable/index.html))
+- [Rusty Celery](https://github.com/rusty-celery/rusty-celery) - Rust implementation of Celery for producing and consuming background tasks. ([Docs](https://rusty-celery.github.io/))
 - [Apache RocketMQ](https://github.com/apache/rocketmq) - Distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
 - [Performance benchmarks for various message queues](https://github.com/tylertreat/mq-benchmarking)
 - [Everything You Need To Know About Message Queues (2020)](https://sunilkumarc.in/everything-you-need-to-know-about-message-queues)
@@ -17,3 +18,7 @@
 - [MiniQueue](https://github.com/tomarrell/miniqueue) - Simple, single binary, message queue.
 - [Broker](https://github.com/apibillme/broker) - Real-time BaaS (Backend as a Service). SSE message broker that requires you write no backend code to have a full real-time API.
 - [JackRabbit](https://github.com/apibillme/jackrabbit) - Real-time Message Queue.
+- [MQ](https://github.com/asim/mq) - Simple distributed in-memory message broker.
+- [nerve](https://github.com/queer/singyeong) - Cloud-native messaging/pubsub with powerful routing.
+- [Thoughts on inter-service messaging (2021)](https://b.amy.gg/thoughts-on-inter-service-messaging)
+- [Plumber](https://github.com/batchcorp/plumber) - Swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.

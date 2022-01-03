@@ -51,3 +51,10 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Lab-made dairy products are now a reality (2021)](https://www.newscientist.com/article/mg25133470-900-real-milk-no-cows-needed-lab-made-dairy-products-are-now-a-reality/) ([HN](https://news.ycombinator.com/item?id=28195201))
 - [Alternative Milks (2021)](https://blog.bramp.net/post/2021/04/03/alternative-milks/) ([HN](https://news.ycombinator.com/item?id=28356136))
 - [Consider Veganism](http://considerveganism.com/) - Straightforward arguments for veganism. ([Code](https://github.com/squeek502/considerveganism.com))
+- [Lab-grown meat may never be cost-competitive enough to displace traditional meat (2021)](https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/) ([HN](https://news.ycombinator.com/item?id=28621288))
+- [Веганство - это единственная справедливая позиция по отношению к животным](https://twitter.com/polina_txt/status/1443465929959018497)
+- [«Животные страдают, а я не могу один день поголодать?» (2021)](https://takiedela.ru/2021/11/zhivotnye-stradayut/) ([Tweet](https://twitter.com/polina_txt/status/1455103445208289282))
+- [Low budget, vegan meals](https://twitter.com/tyrathetaurus/status/1081995886345900032)
+- [Vegan Hacktivists](https://veganhacktivists.org/) - Compassion, Creativity, Code!
+- [Is-Vegan](https://github.com/hmontazeri/is-vegan) - Helps you to find out which food ingredients are vegan / non-vegan.
+- [Keeping up with the plant-based food product industry (2021)](https://www.foodpolitics.com/2021/12/keeping-up-with-the-plant-based-food-product-industry/)

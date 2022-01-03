@@ -1,5 +1,9 @@
 # Medicine
 
+## Notes
+
+- [Aimovig & Ajovi can help remove migraines](https://twitter.com/olgaserhi/status/1453765604217790470)
+
 ## Links
 
 - [After Surgery in Germany, I Wanted Vicodin, Not Herbal Tea](https://www.nytimes.com/2018/01/27/opinion/sunday/surgery-germany-vicodin.html)
@@ -17,3 +21,15 @@
 - [What Makes Corticosteroids so Beneficial?](https://www.youtube.com/watch?v=LuLNsDJGhvw)
 - [Medicosis Perfectionalis - YouTube](https://www.youtube.com/channel/UCl-J-ovSJhA3or73Q2uVpow)
 - [fastMRI](https://github.com/facebookresearch/fastMRI) - Large-scale dataset of both raw MRI measurements and clinical MRI images. ([Web](https://fastmri.org/))
+- [Johns Hopkins Medicine](https://www.hopkinsmedicine.org/)
+- [Nobel Prize in Physiology or Medicine 2021](https://www.nobelprize.org/prizes/medicine/2021/press-release/) ([HN](https://news.ycombinator.com/item?id=28745101))
+- [Chronic pain is surprisingly treatable — when patients focus on the brain (2021)](https://www.washingtonpost.com/s/outlook/2021/10/15/chronic-pain-brain-plasticity/) ([Tweet](https://twitter.com/AllenDowney/status/1450200820528689162?s=20))
+- [ivadomed](https://github.com/ivadomed/ivadomed) - Integrated framework for medical image analysis with deep learning. ([Docs](https://ivadomed.org/))
+- [Medallion](https://medallion.co/) - Medical Credentialing & Licensing Made Simple. ([Tweet](https://twitter.com/andrew__reed/status/1455902525337452550))
+- [I was terrified of an eyeball injection (2021)](https://www.ctrl.blog/entry/eyeball-fright.html) ([HN](https://news.ycombinator.com/item?id=29104527))
+- [Lunit](https://www.lunit.io/en) - With AI, we aim to make data-driven medicine the new standard of care.
+- [Ivermectin: Much More Than You Wanted to Know (2021)](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted) ([HN](https://news.ycombinator.com/item?id=29249686))
+- [Med3D: Transfer Learning for 3D Medical Image Analysis (2019)](https://arxiv.org/abs/1904.00625) ([Code](https://github.com/Tencent/MedicalNet))
+- [Novel mind-body program outperforms other treatments for chronic back pain (2021)](https://www.bidmc.org/about-bidmc/news/2021/09/researchers-mind-body-program-outperforms-other-chronic-back-pain-treatment) ([HN](https://news.ycombinator.com/item?id=29357009))
+- [farabio](https://github.com/tuttelikz/farabio) - PyTorch toolkit for biomedical imaging.
+- [Why Do Antibiotics Exist? (2021)](https://journals.asm.org/doi/10.1128/mBio.01966-21) ([HN](https://news.ycombinator.com/item?id=29489010))

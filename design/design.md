@@ -15,6 +15,8 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Design is about making things look a certain way. Not “make it look pretty” but “surface.” I have had many interactions with smart educated people (even designers!) whom seem to believe design is art, that design is mainly about surface (e.g. “a designer chair.”)](https://twitter.com/rsms/status/1305383261774905346)
 - [Opinions are not ideas. Opinions are not as important as ideas. Opinions are just opinions.](https://twitter.com/bchesky/status/1393305210563403776)
 - [Don’t know where to start a design? literally just copy the next closest thing and then …just keep going.](https://twitter.com/round/status/1407767068263403520)
+- [As Design tools and code are rapidly converging. Designers who can think like developers will have a leg up on everyone.](https://twitter.com/Ridderingand/status/1448680030108729348)
+- [Designing for dark mode is incredibly hard as an afterthought. If you plan to support dark mode, try designing it first and doing the light version after.](https://twitter.com/steveschoger/status/1453823790560026625)
 
 ## Links
 
@@ -27,7 +29,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Free Logos](https://github.com/arasatasaygin/openlogos) - Has some nice logos.
 - [Design Languages](https://design-languages.com/) - Curated library for design languages, design systems and front-end frameworks.
 - [Designing Fluid Interfaces (2018)](https://developer.apple.com/videos/play/wwdc2018/803/)
-- [Refactoring UI](https://refactoringui.com/) - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.
+- [Refactoring UI](https://refactoringui.com/) - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view. ([Book](https://www.refactoringui.com/book))
 - [Curated list of UI styleguides](https://github.com/streamich/awesome-styleguides)
 - [The ineffectiveness of lonely icons (2019)](https://mattwilcox.net/musing/the-ineffectiveness-of-icons)
 - [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) ([HN](https://news.ycombinator.com/item?id=19580860))
@@ -186,7 +188,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [There is a fundamental disconnect between the way designers and business people think. (2021)](https://twitter.com/andybudd/status/1411349258733867010)
 - [gridless.design](https://gridless.design/)
 - [The elements of product design (2021)](https://jamiemill.com/blog/elements-of-product-design/)
-- [Tricycle](https://tricycle.ai/) - Automation Tools for Designers.
+- [Tricycle](https://tricycle.ai/) - Automation Tools for Designers. ([Automator and Fig Demo](https://twitter.com/jsngr/status/1435661063085858818))
 - [Design Vault](https://designvault.io/) - UI patterns & design inspiration from real products.
 - [Hicks](https://hicks.design/) - Graphic design, branding, illustration & iconography.
 - [Better in Black: Rethinking our Most Important Buttons | Spotify Design (2021)](https://spotify.design/article/better-in-black-rethinking-our-most-important-buttons)
@@ -195,3 +197,26 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Design Principles](https://principles.design/) - Open source collection of Design Principles and methods. ([Code](https://github.com/benbrignell/principles.design))
 - [Doodle Ipsum](https://doodleipsum.com/) - Lorem ipsum of illustrations.
 - [Mechanic](https://mechanic.design/) - Open source framework that makes it easy to create custom, web-based design tools that export design assets right in your browser. ([Code](https://github.com/designsystemsinternational/mechanic))
+- [TryShape](https://tryshape.vercel.app/) - Create, Export, Share, and Use any Shapes of your choice. ([Code](https://github.com/TryShape/tryshape))
+- [Mucho](https://wearemucho.com/) - Branding, Packaging, and Graphic Design.
+- [The Future of Design AI: Interview with Sergey Kulinkovich (2021)](https://serokell.io/blog/the-future-of-design-ai)
+- [Globs Designer](https://www.globs.design/)
+- [Apps for collecting/organizing designs/images (2021)](https://twitter.com/jasonlong/status/1450805712309870598)
+- [Дизайн в Злых марсианах (2021)](https://teletype.in/@romanshamin/design-at-evil-martians) ([Tweet](https://twitter.com/strongeron/status/1450914217335349250))
+- [IKEA catalogue through the ages](https://ikeamuseum.com/en/digital/ikea-catalogues-through-the-ages/) ([HN](https://news.ycombinator.com/item?id=28997461))
+- [Lunacy](https://icons8.com/lunacy) - Figma-like design tool, not in Electron, in Avalonia.
+- [Interview with Frederique Matti (2021)](https://www.loversmagazine.com/interviews/frederique-matti)
+- [Lovers Magazine](https://www.loversmagazine.com/) - Online magazine for creative professionals. ([Twitter](https://twitter.com/theloversmag))
+- [Inclusive Web Design Checklist](https://github.com/Heydon/inclusive-design-checklist)
+- [Jony Ive's foral designs (2021)](https://www.fastcompany.com/90693444/jony-ives-first-major-design-since-leaving-apple-isnt-what-youd-expect)
+- [LibreSprite](https://libresprite.github.io/#!/) - Free and open source program for creating and animating your sprites. ([Code](https://github.com/LibreSprite/LibreSprite))
+- [Design for yourself! (Sometimes) (2021)](https://borism.medium.com/design-for-yourself-sometimes-7c9b8118fb63) - Individual creativity has a strong and positive impact on the design process.
+- [Web design & art history](https://webflow.com/web-design-art-history)
+- [Design Masterclass with the best designer I’ve ever met (Raphael Schaad with Cron Calendar) (2021)](https://www.youtube.com/watch?v=2MrNSjJFBBI) ([Tweet](https://twitter.com/raphaelschaad/status/1464262611806171143))
+- [App Store Award Winners 2021](https://apps.apple.com/story/id1591083005)
+- [The Essence of Software: Why Concepts Matter for Great Design (2021)](https://press.princeton.edu/books/hardcover/9780691225388/the-essence-of-software)
+- [Ask HN: Best self-starter resources to learn web design? (2021)](https://news.ycombinator.com/item?id=29428533)
+- [Inside Apple Park: first look at the design team shaping the future of tech (2021)](https://www.wallpaper.com/design/apple-park-behind-the-scenes-design-team-interview)
+- [James Dyson answers design questions from Twitter (2021)](https://www.youtube.com/watch?v=zFCFe38EIfE) ([HN](https://news.ycombinator.com/item?id=29564720))
+- [Noya](https://github.com/noya-app/noya) - Open interface design tool.
+- [How I Build (2021)](http://pketh.org/how-i-build.html) ([HN](https://news.ycombinator.com/item?id=29714510))

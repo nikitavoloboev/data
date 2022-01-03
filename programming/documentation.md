@@ -2,6 +2,7 @@
 
 ## Examples of nice docs
 
+- [Next MDX](https://www.next-mdx.org/)
 - [Algolia Docs](https://www.algolia.com/doc/)
 - [Cloudflare Workers](https://developers.cloudflare.com/workers/) ([Code](https://github.com/cloudflare/workers-docs-engine)) ([Article](https://blog.cloudflare.com/new-and-improved-workers-docs/))
 - [Cloudflare Docs](https://developers.cloudflare.com/docs/) - Nice overview page. ([Code](https://github.com/cloudflare/cloudflare-docs))
@@ -15,6 +16,9 @@
 - [Apollo](https://www.apollographql.com/docs/) - Lovely search.
 - [Prolens nice ASCII diagrams](https://twitter.com/kowainik/status/1316297938667220992)
 - [Rome Toolchain](https://rome.tools/) - Nice sidebar with table of contents + search.
+- [PlanetScale Docs](https://docs.planetscale.com/) ([Code](https://github.com/planetscale/docs))
+- [Datadog Docs](https://docs.datadoghq.com/) ([Code](https://github.com/DataDog/documentation))
+- [Strapi Docs](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html) ([Code](https://github.com/strapi/documentation))
 
 ## Notes
 
@@ -23,6 +27,9 @@
   2. Assuming people are stupid
 - [If asked a question twice, respond the 3rd time with a URL.](https://ben.balter.com/2020/08/14/tools-of-the-trade/)
 - [When done right your documentation is also part of your support, marketing, and even sales.](https://twitter.com/ianstormtaylor/status/1376601005597544448)
+- [Documentation and processes are super important -- don't go for too long without documenting everything -- even at the expense of it being half-baked, and this should be the task of many people are your company. It will save everyone time in the long run.](https://twitter.com/dunkhippo33/status/1453604800180809741)
+- [Your company has a poor documentation culture. Things are slow because people don’t know how things works. Managers start micromanaging because work is slow. Leadership issues mandates. No one likes mandates, but that isn’t the problem. It was poor communication the whole time.](https://twitter.com/bryanl/status/1458160056680189958)
+- [Building something isn't very useful if you don't take the time to explain it to people.](https://twitter.com/armaniferrante/status/1473699131243773967)
 
 ## Links
 
@@ -112,3 +119,19 @@
 - [Making world-class docs takes effort (2021)](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/) ([Lobsters](https://lobste.rs/s/wt6orw/making_world_class_docs_takes_effort))
 - [Writing Well-Documented Code - Learn from Examples (2021)](https://codecatalog.org/2021/09/04/well-documented-code.html) ([HN](https://news.ycombinator.com/item?id=28416269))
 - [Writing class documentation (2021)](https://rant.gulbrandsen.priv.no/udoc/writing-class-documetation)
+- [When does your team write release notes? (2021)](https://twitter.com/housecor/status/1442457214627631104)
+- [Writing Engineering Guidelines](https://dgryski.medium.com/writing-engineering-guidelines-24fdda53a3f0)
+- [Docs for Developers: An Engineer’s Field Guide to Technical Writing Book](https://docsfordevelopers.com/)
+- [SveltePress](https://sveltepress.geopjr.dev/) - Documentation tool built on top of SvelteKit. ([Code](https://github.com/GeopJr/SveltePress))
+- [Q&A: How We Document Software Projects (2020)](https://embeddedartistry.com/blog/2020/06/08/qa-how-we-document-software-projects/)
+- [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works. ([Web](https://squidfunk.github.io/mkdocs-material/))
+- [Almanac for Public Documentation](https://get.almanac.io/for/public-documentation) - Let anyone suggest changes to technical & community docs.
+- [Computers can be understood (2020)](https://blog.nelhage.com/post/computers-can-be-understood/)
+- [Doctave](https://github.com/Doctave/doctave) - Batteries-included developer documentation site generator.
+- [Documentation could be so much better (2021)](https://buttondown.email/hillelwayne/archive/documentation-could-be-so-much-better/)
+- [Best developer doc examples (2021)](https://twitter.com/alexellisuk/status/1458776636040560648)
+- [Documenting Architecture Decisions (2011)](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
+- [Ask HN: What are you using for public documentation these days? (2021)](https://news.ycombinator.com/item?id=29264374)
+- [How to Comment Your Code (2021)](https://matt-rickard.com/how-to-comment-your-code/)
+- [Fundoc](https://github.com/CSSSR/fundoc) - Language agnostic documentation generator. Written in Rust.
+- [Best practices for writing code comments (2021)](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/) ([HN](https://news.ycombinator.com/item?id=29671450))

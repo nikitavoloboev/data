@@ -18,6 +18,7 @@
 
 ## Links
 
+- [Next.js SEO Course](https://nextjs.org/learn/seo/introduction-to-seo)
 - [The Google SEO Bible: Everything a Startup Needs to Know (2018)](https://salon.thefamily.co/the-google-seo-bible-everything-a-startup-needs-to-know-a60dbac2d060)
 - [3 Essential Tools to Boost your React App’s SEO (2019)](https://medium.com/@prestonwallace/3-ways-improve-react-seo-without-isomorphic-app-a6354595e400)
 - [Understand the JavaScript SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
@@ -61,3 +62,8 @@
 - [Those who built a custom ecommerce with over 1k products, how did you handle SEO? (2021)](https://www.reddit.com/r/nextjs/comments/o77mm3/question_for_those_who_built_a_custom_ecommerce/)
 - [A reminder on qualifying links and our link spam update (2021)](https://developers.google.com/search/blog/2021/07/link-tagging-and-link-spam-update)
 - [SEO for Devs Course](https://seofordevs.com/)
+- [Boring SEO](https://boringseo.org/) - SEO guide for non lazy people. ([HN](https://news.ycombinator.com/item?id=28706570))
+- [How to prioritize pages for content promotion and link building (2021)](https://twitter.com/AlanGGorilla/status/1447955252481724417)
+- [Are you making SEO Strategically Important? (2021)](https://seomba.substack.com/p/are-you-making-seo-strategically)
+- [Introduction to Keywords via Understanding Searcher Psychology (2021)](https://daedtech.com/introduction-to-keywords-via-understanding-searcher-psychology/)
+- [seolint](https://github.com/lukeed/seolint) - Robust and configurable SEO linter.

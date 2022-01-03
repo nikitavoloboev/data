@@ -4,10 +4,13 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 
 If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani](http://haniarani.com/), [GoGo Penguin](https://gogopenguin.co.uk/) or [Big Thief](https://bigthief.net/) play live, do it. ♥️
 
+[This](https://www.youtube.com/watch?v=kFRdoYfZYUY) performance by Hania Rani is truly incredible.
+
 ## Favorite artists
 
-- [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp?si=i1mTFkg7SoiFNGwbkz1RNw) - [My Friend the Forest](https://open.spotify.com/track/7B0ofCHeQu2FoX7P28ZaPp?si=4DtqB8PfRAGecWdoqP1L1A) | [La](https://open.spotify.com/track/3OjWbbavamAsikThpDy2oP?si=eLa9dHH6TCaOvylRnp84fg) | [Ólafur Arnalds & Nils Frahm improvisation in Berlin (2011)](https://www.youtube.com/watch?v=_2Usi28hk7U) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po) | [Says (Live on KEXP)](https://www.youtube.com/watch?v=xLNeZogTsK8) | ["Berduxa"](https://www.youtube.com/watch?v=QWcTgkjANmc) | [Boiler Room x Dimensions Opening Concert Live Set](https://www.youtube.com/watch?v=xih8aiacRSk)
-- [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD?si=_mnATsOOStyjZgNHSxcL4g) - [Leaving](https://open.spotify.com/track/5kGMJTXKSDrFRGAgeLmavm?si=TytLQ8hWSBCGb6Z8TyT8pA) | [Glass](https://www.youtube.com/watch?v=l0yRNQj2_tc) | [Esja](https://open.spotify.com/track/0DNBrEt6XVU7qsuxahUw4K?si=a9VJJ_6ETfGbUOrecNME_g)
+- [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp?si=i1mTFkg7SoiFNGwbkz1RNw) - [My Friend the Forest](https://open.spotify.com/track/7B0ofCHeQu2FoX7P28ZaPp?si=4DtqB8PfRAGecWdoqP1L1A) | [La](https://open.spotify.com/track/3OjWbbavamAsikThpDy2oP?si=eLa9dHH6TCaOvylRnp84fg) | [Ólafur Arnalds & Nils Frahm improvisation in Berlin (2011)](https://www.youtube.com/watch?v=_2Usi28hk7U) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po) | [Says (Live on KEXP)](https://www.youtube.com/watch?v=xLNeZogTsK8) | ["Berduxa"](https://www.youtube.com/watch?v=QWcTgkjANmc) | [Boiler Room x Dimensions Opening Concert Live Set](https://www.youtube.com/watch?v=xih8aiacRSk) | [All Numbers End](https://open.spotify.com/track/7pLoI3XJLM67CGKAnOf5M5)
+- [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) - [Apollo](https://open.spotify.com/track/4UdI4OdnxRA5pHOWZwF2bO)
+- [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD?si=_mnATsOOStyjZgNHSxcL4g) - [Leaving](https://open.spotify.com/track/5kGMJTXKSDrFRGAgeLmavm?si=TytLQ8hWSBCGb6Z8TyT8pA) | [Glass](https://www.youtube.com/watch?v=l0yRNQj2_tc) | [Esja](https://open.spotify.com/track/0DNBrEt6XVU7qsuxahUw4K?si=a9VJJ_6ETfGbUOrecNME_g) | [Malasana](https://www.youtube.com/watch?v=qoYv9H_UCvE)
 - [Odyn v Kanoe](https://open.spotify.com/artist/5fMNki1cAszN37EYRTVdOc?si=WeJ2i3o2S4qs0d8TX1wwjg) - [Пішы](https://open.spotify.com/track/2F4tpqfNGqNnw6lh0wiEd8?si=hIRCItLvQUG0nv0KLLXh_g) | [У мене немає дому](https://open.spotify.com/track/2TpNeeSqSlZSUNwbtf3Kej?si=9jeZUb43QbKGXur2rhTIfw) | [Вулиця](https://open.spotify.com/track/0iuFchkINYHdmpspMvoVkq?si=-jR8LBhqQ0mxLdpgP3DCCg) | [Жучка](https://open.spotify.com/track/1UOFxpQ5Krk9ky2lVAFX6o) | [Рибка](https://open.spotify.com/track/50b10MN2uPDtDPgQcjWw1d) | [Веснянка](https://www.youtube.com/watch?v=9DvxUVNrRQI) | [Дерево](https://open.spotify.com/track/3oHQyNMoCKHdagvLokn4oz)
 - [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) - [Murmuration](https://open.spotify.com/track/1r8kRDtkDZPhHvP0dwaYDd?si=9a470aa69add460a)
 - [Cemeteries](https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV?si=9O4N_itiTI2-N8CvHq2M2g) - [Sodus](https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP?si=ExOC4zkQSgWl21bpQJVvJg)
@@ -216,6 +219,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 
 - [Ólafur Arnalds - A Sunrise Session with JFDR (some kind of peace)](https://www.youtube.com/watch?v=KrQV8nTCwqg)
 - [Ólafur Arnalds: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=TpO_8tk6yNQ)
+- [Ólafur Arnalds - Live at Sydney Opera House | Digital Season (2020)](https://www.youtube.com/watch?v=bcln2AL_L1M&t=18s)
 - [Apparat dans Passengers (Full Show HiRes) - ARTE Concert](https://www.youtube.com/watch?v=NOol5V4Tlk8)
 - [Ishome at Krasnaya Polyana @37tunes](https://www.youtube.com/watch?v=yo2zLZkWmhE)
 - [Diane Cluck: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=SyETsd-rKP8&t=408)
@@ -264,3 +268,14 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Mount Kimbie - Before I Move Off (Live on KEXP)](https://www.youtube.com/watch?v=G1tUP1sMagA)
 - [The xx - Sunset (Live on KEXP)](https://www.youtube.com/watch?v=M2JrAhmZmpM)
 - [Lorde: Stoned at the Nail Salon](https://www.youtube.com/watch?v=ycH3P8EiVv0)
+- [Bon Iver - "Heavenly Father" (Acapella)](https://www.youtube.com/watch?v=vAoADCSpD-8)
+- [Keaton Henson - Impromptu On A Theme From Six Lethargies ft. Ren Ford | Mahogany Session](https://www.youtube.com/watch?v=d9nJ8o0AfbE)
+- [Наталия Власова - Я у Твоих Ног Live](https://www.youtube.com/watch?v=z9MLGk2yDYU)
+- [Wilderland / Young Man in America - Anaïs Mitchell | Live from Here with Chris Thile](https://www.youtube.com/watch?v=mEf6Oas5Htg)
+- [Мумий Тролль - Невеста (LIVE @ Авторадио)](https://www.youtube.com/watch?v=WARnFwWcOuY)
+- [Группа «Мумий Тролль» на Серебряном Дожде – Дельфины](https://www.youtube.com/watch?v=cYhmiuRXeeY)
+- ["Квартирник НТВ у Маргулиса": группа "Мумий Тролль"](https://www.youtube.com/watch?v=0S5mOqnqEAM)
+
+## Links
+
+- [Artists like Nile Frahm](https://www.reddit.com/r/NilsFrahm/comments/rddpb7/artists_like_nile_frahm/)

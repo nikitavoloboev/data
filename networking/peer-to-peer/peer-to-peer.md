@@ -17,11 +17,12 @@
 - [Radicle](https://radicle.xyz/) - Peer-to-peer stack for building software together. ([GitHub](https://github.com/radicle-dev)) ([HN](https://news.ycombinator.com/item?id=25313010)) ([Lobsters](https://lobste.rs/s/6tbq79/radicle_peer_peer_stack_for_code)) ([[Brand Journey](https://twitter.com/brandonhaslegs/status/1334207549273419777)])
 - [Radicle Link](https://github.com/radicle-dev/radicle-link) - Working repo for the second iteration of the Radicle code collaboration protocol and stack.
 - [Radicle Bins](https://github.com/radicle-dev/radicle-bins) - Collection of radicle binaries.
+- [Radicle Client Services](https://github.com/radicle-dev/radicle-client-services) - Services backing the Radicle client interfaces.
 - [Upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for the radicle code collaboration and registry protocols.
 - [How it Works — Radicle Link (2020)](https://radicle.xyz/radicle-link.html) ([HN](https://news.ycombinator.com/item?id=24382589))
 - [List of peer-to-peer resources](https://github.com/kgryte/awesome-peer-to-peer)
 - [Crust](https://github.com/maidsafe/crust) - Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects.
-- [Yjs](https://github.com/yjs/yjs) - CRDT framework with a powerful abstraction of shared data.
+- [Yjs](https://github.com/yjs/yjs) - CRDT framework with a powerful abstraction of shared data. ([Docs](https://docs.yjs.dev/)) ([Demos](https://github.com/yjs/yjs-demos))
 - [PeerLinks](https://github.com/peerlinks/peerlinks) - Protocol for building "Distributed Secure IRC" (or distributed Slack if you wish).
 - [Ambients](https://github.com/aphelionz/ambients) - Peer-to-Peer Programs and Data.
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Open source intelligent P2P based image and file distribution system.
@@ -41,6 +42,7 @@
 - [orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-only log with traversable history. Useful for "latest N" use cases or as a message queue.
 - [Announcing the Beaker 1.0 Beta (2020)](https://beakerbrowser.com/2020/05/14/beaker-1-0-beta.html) ([HN](https://news.ycombinator.com/item?id=23182775))
 - [Hyperdrive v10 – a peer-to-peer filesystem (2020)](https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/) ([HN](https://news.ycombinator.com/item?id=23180572)) ([Code](https://github.com/hypercore-protocol/hyperdrive))
+- [Hyperswarm](https://github.com/hyperswarm/hyperswarm) - Distributed networking stack for connecting peers.
 - [hyperswarm/dht](https://github.com/hyperswarm/dht) - DHT powering the HyperSwarm stack.
 - [Testground](https://github.com/testground/testground) - Platform for testing, benchmarking, and simulating distributed and p2p systems at scale. ([Docs](https://docs.testground.ai/))
 - [js-libp2p](https://github.com/libp2p/js-libp2p) - JavaScript Implementation of libp2p networking stack.
@@ -66,7 +68,7 @@
 - [Intro to P2P Indexing and Search](https://github.com/hypercore-protocol/p2p-indexing-and-search)
 - [p2p Git Portal](https://github.com/happybeing/p2p-git-portal-poc) - GitHub like portal which can be hosted on peer-to-peer or static storage, initially targeting Safe Network.
 - [Hyperbeam](https://github.com/mafintosh/hyperbeam) - 1-1 end-to-end encrypted internet pipe powered by Hyperswarm. ([HN](https://news.ycombinator.com/item?id=25407174))
-- [nostr](https://github.com/fiatjaf/nostr) - Simple open protocol that is able to create a censorship-resistant global "social" network. ([Lobsters](https://lobste.rs/s/bxguql/nostr_notes_other_stuff_transmitted_by))
+- [nostr](https://github.com/fiatjaf/nostr) - Simple open protocol that is able to create a censorship-resistant global "social" network. ([Lobsters](https://lobste.rs/s/bxguql/nostr_notes_other_stuff_transmitted_by)) ([HN](https://news.ycombinator.com/item?id=29749061))
 - [QuantumGate](https://github.com/kareldonk/QuantumGate) - Peer-to-peer (P2P) communications protocol, library and API written in C++. ([Web](http://www.quantumgate.org/))
 - [Beaker browser](https://beakerbrowser.com/) - Experimental peer to peer web browser. ([HN](https://news.ycombinator.com/item?id=25753908))
 - [Probablistic P2P Content Moderation (2021)](https://generativist.falsifiable.com/metaverse/probablistic-p2p-content-moderation)
@@ -87,3 +89,17 @@
 - [Freenet](https://freenetproject.org/index.html) - Peer-to-peer platform for censorship-resistant communication and publishing. ([HN](https://news.ycombinator.com/item?id=28587220))
 - [I2P Anonymous Network](https://geti2p.net/en/) - Privacy by design, people-powered network. It is a truly free and anonymizing Internet alternative.
 - [Dione](https://github.com/Dione-Software/dione) - Anonymize and encrypted messaging system build on top on a peer to peer layer.
+- [Backchannel](https://github.com/inkandswitch/backchannel) - Local-first address book.
+- [GGRS](https://github.com/gschup/ggrs) - Reimagination of GGPO, enabling P2P rollback networking in Rust. Rollback to the future.
+- [Atek Spork](https://github.com/atek-cloud/spork) - Command-line p2p sockets tool. ([HN](https://news.ycombinator.com/item?id=28915872)) ([Web](https://spork.sh/)) ([Tweet](https://twitter.com/pfrazee/status/1453113591939403780))
+- [Atek](https://atek.cloud/) - Open source peer-to-peer Home Cloud. ([GitHub](https://github.com/atek-cloud))
+- [Spork Beam](https://atek.cloud/blog/spork-beam) - Encrypted, Networked Pipes.Cloud.
+- [Building Collaborative P2P Applications with Autobase](https://github.com/hypercore-protocol/p2p-multiwriter-with-autobase)
+- [Peergos](https://peergos.org/) - p2p, secure file storage, social network and application protocol. ([GitHub](https://github.com/Peergos)) ([Code](https://github.com/Peergos/Peergos))
+- [Hyperswarm discovery stack](https://github.com/hyperswarm/discovery)
+- [Hyper-VCR](https://github.com/pfrazee/hyper-vcr) - p2p version-controlled repo (built on hypercore).
+- [Twitter without Twitter: Distributed apps in the browser (2021)](https://www.youtube.com/watch?v=YJ6hX_x4_tw)
+- [Phonon Network Specification](https://github.com/GridPlus/phonon-network) - Peer-to-peer network independent of the internet.
+- [qTox](https://qtox.github.io/) - Chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol. ([Code](https://github.com/qTox/qTox))
+- [Hyperswarm Relay](https://github.com/hyperswarm/dht-relay) - Relaying the Hyperswarm DHT over other transport protocols to bring decentralized networking to everyone.
+- [HSFW](https://github.com/pfrazee/hyper-sfw) - Dropbox-like p2p file syncing built on Hypercore's new multiwriter Autobase.

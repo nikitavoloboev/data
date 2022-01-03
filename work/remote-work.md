@@ -11,6 +11,11 @@
 - [Remote work has tons of benefits, but a dangerous disadvantage that isn't talked about enough is that the internet can start to replace your real-life social circles. Really important to combat that, or you can start taking things here way too seriously.](https://twitter.com/adamwathan/status/1395835514473877508)
 - [Unless you are regularly meeting up in the office in person, only time zone matters. And then once you go outside the same time zone (+/- 3 hours), you need to design everything for full async.](https://twitter.com/balajis/status/1421855752688336903)
 - [Firm-wide remote work causes a shift to async communication (not more meetings) and makes workers’ collaboration network more siloed.](https://twitter.com/ylongqi/status/1435985696892678148)
+- [I don’t know if I would ever be able to readjust back to the non-remote-first office work. It just feels natural to hop to a plane (train, car) and get somewhere without skipping a beat of your work. To have it safely detached from the matters of physical presence and geography.](https://twitter.com/inazarova/status/1442751094111838208)
+- [The third founder with a remote team sharing the same story: An engineer they hired did great on the interviews but worked unexplainably slow day to day. When pairing: they worked fast. They stopped pairing: slowed down. Turns out, the person had a second job in all cases.](https://twitter.com/GergelyOrosz/status/1445854500443537414)
+- [Steve Jobs and I became close friends. We went for long walks at Castle Rock State Park, shared meals and wide-ranging conversations about life and design. We bounced ideas off each other. Sometimes he would start a conversation with "Here's a crazy idea...", and the idea would go back and forth and evolve into a serious discussion, or occasionally a workable design. Steve listened to me and challenged me. His support at Apple allowed me to made a difference in the world](https://focusmark.hashnode.dev/what-worries-me-about-remote-work)
+- [Linear does nice all team bake/cook together over zoom once a quarter](https://twitter.com/karrisaarinen/status/1453821275307077646)
+- [A single in person meeting with a coworker brought me closer to them than a year of weekly zoom 1:1s. claiming there’s no difference feels delusional to me.](https://twitter.com/gem_ray/status/1455218628358402048)
 
 ## Links
 
@@ -85,7 +90,7 @@
 - [Getting noticed as a remote engineer (2020)](https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/) ([HN](https://news.ycombinator.com/item?id=24702397))
 - [Slite Remote Coaching](https://slite.com/remote-chat) - Schedule a 30 min chat to untangle remote work.
 - [We Work Remotely](https://weworkremotely.com/) - Remote jobs in design, programming, marketing and more.
-- [RemoteOK](https://remoteok.io/) - Remote Jobs in Programming, Design, Sales and more.
+- [RemoteOK](https://remoteok.io/) - Remote Jobs in Programming, Design, Sales and more. ([Open Startup](https://remoteok.io/open)) ([HN](https://news.ycombinator.com/item?id=28873956))
 - [FreshRemote.work](https://freshremote.work/) - Fresh Remote Jobs Anywhere.
 - [Remote Work Jobs](https://remoteworkjobs.io/) - Simple remote work jobs board.
 - [Remotely People](https://remotelypeople.com/) - Worldwide Remote jobs in design, marketing, programming.
@@ -123,3 +128,20 @@
 - [Effective remote meetings (2021)](https://twitter.com/jlengstorf/status/1433815603295371265)
 - [Ways of Working (2020)](http://bugra.github.io/posts/2020/4/26/ways-of-working/)
 - [8 ideas we use for building a great culture in a distributed team (2021)](https://twitter.com/nathanbarry/status/1440358547372457987)
+- [Living on a ranch (2021)](https://twitter.com/Julian/status/1444010018261463040)
+- [Ask HN: Why a 4-day workweek don't get traction or a major movement? (2021)](https://news.ycombinator.com/item?id=28768039)
+- [Remote Job Benefit Ideas](https://twitter.com/levelsio/status/1445993277497380865)
+- [State of Digital Nomads](https://nomadlist.com/digital-nomad-statistics) ([HN](https://news.ycombinator.com/item?id=28798484))
+- [Polar Signals Remote Work Benefits](https://twitter.com/rothgar/status/1446867332748300288)
+- [HN: Amazon will allow many employees to work remotely indefinitely (2021)](https://news.ycombinator.com/item?id=28831031)
+- [WorkAdventure](https://workadventu.re/) - Collaborative web application (virtual office) presented as a 16-bit RPG video game. ([Code](https://github.com/thecodingmachine/workadventure))
+- [Volley](https://www.volleyapp.com/) - Async video messaging built for remote work.
+- [Best way to structure income when switching tax residency often (2021)](https://twitter.com/andreasklinger/status/1451160171699441670)
+- [Remote-first work is taking over the rich world – research hints at why (2021)](https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world) ([HN](https://news.ycombinator.com/item?id=29034159))
+- [Productive tools for remote teams](https://github.com/CKGrafico/remote-teams)
+- [High Fidelity Remote Communication (2021)](https://olivierlacan.com/posts/high-fidelity-remote-communication/)
+- [The Future of Work at Cloudflare (2021)](https://blog.cloudflare.com/the-future-of-work-at-cloudflare/)
+- [Remote work will break the US monopoly on global talent (2021)](https://devonzuegel.com/post/remote-work-will-break-the-us-monopoly-on-talent) ([HN](https://news.ycombinator.com/item?id=29150674)) ([Tweet](https://twitter.com/devonzuegel/status/1457762388153966597))
+- [The Cities Best Facilitating Remote Work: A Global Index (2021)](https://sweetspotpr.com/wp-content/uploads/WorkMotion/MDPW/Copenhagen.pdf) ([HN](https://news.ycombinator.com/item?id=29181554))
+- [The Rise of the Decentralized Startup (2021)](https://elizabethyin.com/2021/09/19/the-rise-of-the-decentralized-startup/) ([HN](https://news.ycombinator.com/item?id=29427413))
+- [Ask HN: Has remote work made you move to a new location or consider it? (2021)](https://news.ycombinator.com/item?id=29724108)

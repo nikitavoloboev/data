@@ -70,3 +70,17 @@
 - [Measuring cognitive complexity with elm-review (2021)](https://jfmengels.net/cognitive-complexity/)
 - [Awesome Elm PLTD](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
 - [elm2nix](https://github.com/cachix/elm2nix) - Convert an Elm project into Nix expressions.
+- [Elm Optimize, Level 2](https://github.com/mdgriffith/elm-optimize-level-2)
+- [elm-ts-interop init Command, Codec and Pipeline APIs, and docs site (2021)](https://incrementalelm.com/elm-ts-interop-improvements/)
+- [Incremental Elm](https://incrementalelm.com/) - Stop Learning Elm Best Practices The Hard Way.
+- [Using Fission with Elm - Part 1: Using Vite to manage Elm applications (2021)](https://dev.to/xeticode/using-fission-with-elm-part-1-using-vite-to-manage-elm-applications-4ahk)
+- [Elm Full-Stack](https://github.com/elm-fullstack/elm-fullstack) - Tool for developing web services and full-stack web applications.
+- [Comparing TypeScript and Elm's Type Systems](https://elm-radio.com/episode/ts-and-elm-type-systems/)
+- [Elm Radio Podcast](https://elm-radio.com/)
+- [Elm Decoder Koans](https://github.com/dillonkearns/elm-decoder-koans) - Learn about elm decoders by filling in the blanks in test cases.
+- [elm-publish-action](https://github.com/dillonkearns/elm-publish-action) - Publishes your elm package if you're on the main or master branch.
+- [Successes, and failures, optimizing Elm’s runtime (2021)](https://blogg.bekk.no/successes-and-failures-in-optimizing-elms-runtime-performance-c8dc88f4e623)
+- [Create Elm App](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
+- [Fixing a performance problem in Elm using Html.Lazy (2021)](https://blogg.bekk.no/fixing-a-performance-problem-in-elm-using-html-lazy-c4298b72500d) ([HN](https://news.ycombinator.com/item?id=29539453))
+- [Derw](https://github.com/eeue56/derw) - Elm-inspired language that transpiles to TypeScript. ([Lobsters](https://lobste.rs/s/ypvv4c/derw_elm_inspired_language_transpiles)) ([Why Derw](https://derw.substack.com/p/why-derw-an-elm-like-language-that)) ([Lobsters](https://lobste.rs/s/lxpjpd/why_derw_elm_like_language_compiles))
+- [Elm Tailwind Modules](https://github.com/matheus23/elm-tailwind-modules) - Generate Elm code for Tailwind Utilities and Components that purges using Elm's dead code elimination.

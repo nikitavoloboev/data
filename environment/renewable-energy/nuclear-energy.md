@@ -1,5 +1,9 @@
 # [Nuclear energy](https://en.wikipedia.org/wiki/Nuclear_power)
 
+## Notes
+
+- [If elemental power aka nuclear was discovered last week we would be going insane with joy we just solved the climate crisis.](https://twitter.com/wolfejosh/status/1448797519073484807)
+
 ## Links
 
 - [The Next Nuclear Plants Will Be Small, Svelte, and Safer (2019)](https://www.wired.com/story/the-next-nuclear-plants-will-be-small-svelte-and-safer/) ([HN](https://news.ycombinator.com/item?id=21787051))
@@ -31,3 +35,15 @@
 - [MIT-designed project achieves major advance toward fusion energy (2021)](https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908) ([HN](https://news.ycombinator.com/item?id=28462151))
 - [Nuclear Weapon Archive (1994-2020)](https://nuclearweaponarchive.org/) ([HN](https://news.ycombinator.com/item?id=28442168))
 - [China prepares to test thorium-fuelled nuclear reactor (2021)](https://www.nature.com/articles/d41586-021-02459-w) ([HN](https://news.ycombinator.com/item?id=28560790))
+- [Lost nuclear weapons history](https://twitter.com/AlcazarBazaar/status/1441388864195764225)
+- [Major nuclear fusion milestone reached as ‘ignition’ triggered in a lab (2021)](https://www.imperial.ac.uk/news/228373/major-nuclear-fusion-milestone-reached-ignition/) ([HN](https://news.ycombinator.com/item?id=28840066))
+- [Nuclear Power in France (2021)](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/france.aspx) ([HN](https://news.ycombinator.com/item?id=28841366))
+- [Europe categorize nuclear power as sustainable (2021)](https://twitter.com/balajis/status/1449439525495709696)
+- [How Chernobyl has become an unexpected haven for wildlife (2020)](https://www.unep.org/news-and-stories/story/how-chernobyl-has-become-unexpected-haven-wildlife)
+- [Global Power Plant Database](https://github.com/wri/global-power-plant-database)
+- [Helion](https://www.helionenergy.com/) - Building the world’s first fusion power plant, enabling a future with unlimited clean electricity. ([HN](https://news.ycombinator.com/item?id=29119180))
+- [Nuclear power is the best climate-change solution (2021)](https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581) ([HN](https://news.ycombinator.com/item?id=29125576))
+- [Why nuclear fusion yields more energy than fission](https://www.physlink.com/education/askexperts/ae534.cfm) ([HN](https://news.ycombinator.com/item?id=29127608))
+- [Nuclear energy is long-term sustainable (2021)](https://whatisnuclear.com/blog/2020-10-28-nuclear-energy-is-longterm-sustainable.html) ([HN](https://news.ycombinator.com/item?id=29199777))
+- [The Energy of Tomorrow: The Promise, Failure, and Possible Rebirth of Nuclear Power (2021)](https://www.youtube.com/watch?v=7tYlXY19I3c)
+- [Revisiting the “Tsar Bomba” nuclear test (2021)](https://arstechnica.com/science/2021/12/revisiting-the-tsar-bomba-nuclear-test/) ([HN](https://news.ycombinator.com/item?id=29496666))

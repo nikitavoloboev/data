@@ -75,5 +75,30 @@
 - [HN: Java 17 / JDK 17: General Availability (2021)](https://news.ycombinator.com/item?id=28525378)
 - [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses (2021)](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses) ([HN](https://news.ycombinator.com/item?id=28562874))
 - [Revisiting Java in 2021](https://www.avanwyk.com/revisiting-java-in-2021-ii/) ([HN](https://news.ycombinator.com/item?id=28584518))
-- [Amazon Corretto](https://aws.amazon.com/corretto/) - Production-ready distribution of OpenJDK.
+- [Amazon Corretto](https://aws.amazon.com/corretto/) - Production-ready distribution of OpenJDK. ([Docs](https://docs.aws.amazon.com/corretto/))
 - [Amazon Corretto, A Journey into Latency Reduction (2021)](https://www.youtube.com/watch?v=S4IrAZ5wT3c)
+- [JPype](https://github.com/jpype-project/jpype) - Cross language bridge to allow python programs full access to java class libraries.
+- [Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors Book](https://www.goodreads.com/book/show/11118624-programming-concurrency-on-the-jvm) ([Notes](https://github.com/preslavmihaylov/booknotes/tree/master/java/programming-concurrency-jvm))
+- [A Tour of the Modern Java Platform (2021)](https://www.youtube.com/watch?v=y901lgIuRx0)
+- [Faster Maven Builds (2021)](https://blog.frankel.ch/faster-maven-builds/1/) ([HN](https://news.ycombinator.com/item?id=28740367))
+- [SimpleLanguage](https://github.com/graalvm/simplelanguage) - Simple example language built using the Truffle API for GraalVM. ([Docs](https://www.graalvm.org/graalvm-as-a-platform/implement-language/))
+- [jni-bindgen](https://github.com/MaulingMonkey/jni-bindgen) - Generate Rust JVM FFI wrappers around APIs defined by .jar or .class files.
+- [Gradle Shadow](https://github.com/johnrengelman/shadow) - Gradle plugin for creating fat/uber JARs with support for package relocation.
+- [Which Version of JDK Should I Use?](http://whichjdk.com/) ([HN](https://news.ycombinator.com/item?id=28820601))
+- [New language features since Java 8 to 17 (2021)](https://advancedweb.hu/new-language-features-since-java-8-to-17/) ([HN](https://news.ycombinator.com/item?id=28979048))
+- [Rock the JVM Blog](https://blog.rockthejvm.com/)
+- [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Plug-in to OpenJDK and GraalVM that allows programmers to automatically run Java programs on heterogeneous hardware. ([Web](https://www.tornadovm.org/))
+- [Jython](https://github.com/jython/jython) - Python for the Java Platform. ([Web](https://www.jython.org/))
+- [JavaParser](https://github.com/javaparser/javaparser) - Set of libraries implementing a Java 1.0 - Java 15 Parser with advanced analysis functionalities. ([Web](https://javaparser.org/))
+- [Java Virtual Threads Preview (2021)](https://openjdk.java.net/jeps/8277131) ([HN](https://news.ycombinator.com/item?id=29236375))
+- [Bytecoder](https://github.com/mirkosertic/Bytecoder) - Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.
+- [Optimizing Java: Practical Techniques for Improving JVM Application Performance (2018)](https://www.goodreads.com/book/show/27015350-optimizing-java)
+- [Java and Scala’s type systems are unsound (2016)](https://dl.acm.org/doi/10.1145/2983990.2984004) ([HN](https://news.ycombinator.com/item?id=29317024))
+- [A tale of Java Hash Tables (2021)](https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables) ([HN](https://news.ycombinator.com/item?id=29319151))
+- [Serverless for Java: Key-Value Store as a Service (KVSaaS) (2021)](https://www.youtube.com/watch?v=jbxZvAqJ_MU)
+- [Implementing a non-blocking I/O server (2021)](https://tuhuynh.com/posts/implement-nio-server/)
+- [GC Progress from Java 8 to 17 (2021)](https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html) ([HN](https://news.ycombinator.com/item?id=29330109))
+- [GraalVM Demos](https://github.com/graalvm/graalvm-demos)
+- [yvm](https://github.com/kelthuzadx/yvm) - Low performance garbage-collectable JVM.
+- [fbjni](https://github.com/facebookincubator/fbjni) - Library designed to simplify the usage of the Java Native Interface.
+- [miniJVM](https://github.com/digitalgust/miniJVM) - Develop iOS Android app in java, Cross platform java virtual machine.

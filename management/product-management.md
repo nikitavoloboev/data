@@ -5,6 +5,7 @@
 - [Toyota's decision-making principle: Instead of depending on hierarchy, the people who are closest to what’s happening make decisions](https://twitter.com/david_perell/status/1298436779725320192)
 - [The road to hell is paved with special features for special customers.](https://twitter.com/mostalive/status/1415983044935274506)
 - [Minimalism in product design isn't about minimizing the product. It's about minimizing what's going on in the head of the person using it.](https://twitter.com/bob_burrough/status/1133452727525171200)
+- [You never win in product by doing more, you win in product by doing more with less.](https://twitter.com/BrianNorgard/status/1442143121286914057)
 
 ## Links
 
@@ -80,3 +81,8 @@
 - [What’s something that product managers do that annoys or frustrates you?](https://twitter.com/lennysan/status/1420773875705544715)
 - [What I've learned transitioning from a founder to product manager](https://www.theproductslice.com/p/what-ive-learned-transitioning-from) ([HN](https://news.ycombinator.com/item?id=28220027))
 - [We Ship Every Week (2021)](https://pitch.com/blog/every-week) ([HN](https://news.ycombinator.com/item?id=28233743))
+- [Key principles to guide the new product development process (2021)](https://twitter.com/fibery_io/status/1441375124909961219)
+- [Product Design Basics – A toolkit of concepts and frameworks](https://modelthinkers.com/playbook/product-design-basics)
+- [What Type of Job is This: My First Year as Chief Product Officer (2021)](https://caseyaccidental.com/chief-product-officer-first-year)
+- [Simple Product Management Tricks (2021)](https://jacobian.org/2021/oct/20/simple-pm-tricks/) ([HN](https://news.ycombinator.com/item?id=29068652))
+- [A product management reading list (2021)](https://mikehudack.substack.com/p/a-product-management-reading-list)

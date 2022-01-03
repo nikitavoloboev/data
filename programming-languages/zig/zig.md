@@ -11,7 +11,7 @@
 - [The Road to Zig 1.0 - Andrew Kelley (2019)](https://www.youtube.com/watch?v=Gv2I7qTux7g)
 - [Pluto](https://github.com/SamTebbs33/pluto) - Hobby x86 kernel written in Zig.
 - [Hobby x86 kernel written with Zig](https://github.com/jzck/kernel-zig) ([HN](https://news.ycombinator.com/item?id=21967668))
-- [Zig Compiler Internals (2020)](https://www.youtube.com/watch?v=NbHYLAro02M)
+- [Zig Compiler Internals (2020)](https://www.youtube.com/watch?v=8MbREuiLQrM)
 - [bootstrap-zig](https://github.com/ziglang/zig-bootstrap) - Start with minimum system dependencies and end with a fully operational Zig compiler for any target.
 - [Zig 0.6.0 Release Notes](https://ziglang.org/download/0.6.0/release-notes.html) ([HN](https://news.ycombinator.com/item?id=22860008))
 - [PBUI Project](https://pbui.codes/) - Standard library toolsets in the Zig programming language. ([Code](https://github.com/pbui-project/pbui-main))
@@ -67,3 +67,25 @@
 - [Zig News](https://zig.news/)
 - [Code Coverage for Zig with Callgrind (2021)](https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/)
 - [Fuzzing Zig Code Using AFL++ (2021)](https://www.ryanliptak.com/blog/fuzzing-zig-code/) ([HN](https://news.ycombinator.com/item?id=28600050))
+- [Building gamedev ecosystem for Zig](https://github.com/michal-z/zig-gamedev)
+- [Asserting function signatures at compile time in Zig (2021)](https://www.mdaverde.com/posts/zig-asserting-fn-types/)
+- [Mach Engine: The Future of Graphics (With Zig) (2021)](https://devlog.hexops.com/2021/mach-engine-the-future-of-graphics-with-zig) ([HN](https://news.ycombinator.com/item?id=28909786)) ([Code](https://github.com/hexops/mach))
+- [Andrew Kelley, Lead Developer & President of the Zig Software Foundation (2021)](https://overcast.fm/+cV8pJX6iU)
+- [zig-snapshots](https://github.com/kubkon/zig-snapshots) - Preview Zig's incremental linker state in interactive HTML.
+- [Zig LSP](https://github.com/ziglibs/zig-lsp) - LSP implemented in Zig.
+- [Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnot (2021)](https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior) ([HN](https://news.ycombinator.com/item?id=29060200))
+- [Zig monthly](https://zigmonthly.org/) - Once-a-month publication where I curate all things Zig.
+- [zig build explained (2021)](https://zig.news/xq/zig-build-explained-part-1-59lf)
+- [A Practical Guide to Applying Data-Oriented Design - Andrew Kelley (2021)](https://media.handmade-seattle.com/practical-data-oriented-design/) ([Lobsters](https://lobste.rs/s/vbiu6y/practical_guide_applying_data_oriented))
+- [The ZLD Linker (2021)](https://media.handmade-seattle.com/zld/)
+- [Interfacing with Zig, a BDFL-run project (2021)](https://kristoff.it/blog/interfacing-with-zig/)
+- [Nix flake for Zig](https://github.com/arqv/zig-overlay)
+- [Zig Compiler Internals](https://github.com/mikdusan/zig.internals/blob/master/internals.rst)
+- [Allocgate: Restructuring how allocators work in Zig (2021)](https://pithlessly.github.io/allocgate.html) ([HN](https://news.ycombinator.com/item?id=29571133))
+- [List of Zig Gamedev Projects](https://github.com/ValorZard/awesome-zig-gamedev)
+- [Minimal build.zig for targeting iOS](https://github.com/kubkon/zig-ios-example)
+- [Zig 0.9.0](https://ziglang.org/download/0.9.0/release-notes.html) ([HN](https://news.ycombinator.com/item?id=29631202))
+- [What do you think about Zig? (2021)](https://www.reddit.com/r/rust/comments/rlj9zl/what_do_you_think_about_zig/)
+- [A Review of the Zig Programming Language (Using Advent of Code 2021)](https://www.duskborn.com/posts/2021-aoc-zig/) ([HN](https://news.ycombinator.com/item?id=29702607))
+- [A Comparison of Rust and Zig](https://expandingman.gitlab.io/tvu-compare/) ([HN](https://news.ycombinator.com/item?id=29762988))
+- [Analysis of the overhead of a minimal Zig program (2022)](https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0) ([Lobsters](https://lobste.rs/s/hbceut/analysis_overhead_minimal_zig_program))

@@ -6,6 +6,7 @@
 - [Use different colours for the console output to make the log output easier to reason about](https://twitter.com/dasdom/status/1221043873553641473)
 - [Xcode can show the view frames in a running app](https://twitter.com/dasdom/status/1254858574322372609)
 - [Wondering about an unfamiliar Xcode build setting? Try option+double clicking on it in the target editor for a descriptive tooltip.](https://twitter.com/aikoniv/status/795311416030806016)
+- [Don't install Xcode from app store if you need it to work.](https://twitter.com/krzyzanowskim/status/1470538530824859650)
 
 ## Links
 
@@ -75,3 +76,19 @@
 - [mxcl/xcodebuild](https://github.com/mxcl/xcodebuild) - Continuously resilient `xcodebuild` action.
 - [AssetChecker](https://github.com/freshOS/AssetChecker) - Sanitize your Assets.xcassets files.
 - [Analyze Xcode Build and Test Results GitHub Action](https://github.com/tbartelmess/analyze-xcoderesults-action)
+- [Rugby](https://github.com/swiftyfinch/Rugby) - Cache CocoaPods for faster rebuild and indexing Xcode project.
+- [Xcode Archive & Export for iOS](https://github.com/bitrise-steplib/steps-xcode-archive) - Run the Xcode archive command and then export an .ipa from the archive.
+- [Performance testing using XCTest (2021)](https://cornerbit.tech/performance-testing-using-xctest/)
+- [iSimulator](https://github.com/wigl/iSimulator) - GUI utility to control the Simulator, and manage the app installed on the simulator.
+- [SBTUITestTunnel](https://github.com/Subito-it/SBTUITestTunnel) - Enable network mocks and more in UI Tests.
+- [XCHammer](https://github.com/pinterest/xchammer) - Generates Xcode projects from a Bazel Workspace.
+- [XcodeArchiveCache](https://github.com/sweatco/xcode-archive-cache) - Native targets cache for Xcode archive builds.
+- [xcresulttool GitHub Action](https://github.com/kishikawakatsumi/xcresulttool) - Generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.
+- [pbxproj](https://github.com/kronenthaler/mod-pbxproj) - Python module to manipulate XCode projects.
+- [XcodeProject](https://github.com/bannzai/XcodeProject) - Xcode utility for reading and writing pbxproj file format.
+- [Create Custom Xcode Templates (2021)](https://medium.com/mindful-engineering/create-custom-xcode-templates-908fdd14fbd8)
+- [xcconfig-extractor](https://github.com/toshi0383/xcconfig-extractor) - Refactor buildSettings into xcconfigs.
+- [XCRemoteCache](https://github.com/spotify/XCRemoteCache) - Remote cache tool for Xcode projects. It reuses target artifacts generated on a remote machine, served from a simple REST server. ([Article](https://engineering.atspotify.com/2021/11/16/introducing-xcremotecache-the-ios-remote-caching-tool-that-cut-our-clean-build-times-by-70/))
+- [XCGrapher](https://github.com/maxchuquimia/xcgrapher) - Framework-level dependency graph generator for Xcode projects - with support for custom graphing.
+- [Why the hate on Xcode? (2021)](https://www.reddit.com/r/swift/comments/qw7zj1/why_the_hate_on_xcode/)
+- [Xcode Notarize](https://github.com/devbotsxyz/xcode-notarize) - GitHub actions to Notarize macOS applications or plug-ins.

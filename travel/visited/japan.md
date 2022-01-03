@@ -33,7 +33,7 @@
 - [1980's Japan](https://www.youtube.com/watch?v=C_qi8XVP8W0) ([HN](https://news.ycombinator.com/item?id=26060833))
 - [Experience Japan Pictograms](https://experience-japan.info/)
 - [Kanji alive](https://kanjialive.com/) - Free study tool for reading and writing kanji. ([Code](https://github.com/kanjialive/kanji-data-media))
-- [Mini Tokyo 3D](https://minitokyo3d.com/)
+- [Mini Tokyo 3D](https://minitokyo3d.com/) - Real-Time Tokyo Subway Map. ([HN](https://news.ycombinator.com/item?id=29765449))
 - [Японский язык? Сейчас объясню! (2020)](https://www.youtube.com/watch?v=pLNZtA2a4CM)
 - [Interview: Everything you have heard about Japan is True (2020)](https://hargup.medium.com/everything-you-have-heard-about-japan-is-true-901e0bbcee9b)
 - [Japan as seen through the lens of Marcio Kogan (2021)](https://www.wallpaper.com/design/explore-japan-with-marcio-kogan)
@@ -44,3 +44,22 @@
 - [Japan's Fifth Generation Computer Systems: Success or Failure? (2021)](https://instadeq.com/blog/posts/japans-fifth-generation-computer-systems-success-or-failure/)
 - [The Animated History of Japan (2019)](https://www.youtube.com/watch?v=8Zwi3XXLci8)
 - [Haku](https://codeberg.org/wimvanderbauwhede/haku) - Toy functional programming language based on literary Japanese. ([HN](https://news.ycombinator.com/item?id=28624483))
+- [Japan breaks world record for fastest internet speed (2021)](https://www.freethink.com/technology/fastest-internet-speed) ([HN](https://news.ycombinator.com/item?id=28673726))
+- [GiNZA](https://github.com/megagonlabs/ginza) - Japanese NLP Library using spaCy as framework based on Universal Dependencies.
+- [List of Japanese inventions and discoveries](https://en.wikipedia.org/wiki/List_of_Japanese_inventions_and_discoveries)
+- [Why Japan Looks the Way it Does: Zoning (2021)](https://www.youtube.com/watch?v=wfm2xCKOCNk) ([HN](https://news.ycombinator.com/item?id=28838239))
+- [Being Japanese Documentary (2021)](https://letterboxd.com/film/being-japanese/)
+- [Life Where I'm From - YouTube](https://www.youtube.com/channel/UCqwxJts-6yF33rupyF_DCsA)
+- [Orthographic Gradients to Learn the Kanji (2021)](https://japanesecomplete.com/articles/?p=1512)
+- [Intuition for Japanese](https://japanesecomplete.com/articles/) - Learn Japanese, avoid the Struggle.
+- [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/) ([HN](https://news.ycombinator.com/item?id=29022906))
+- [Why Tokyo Works (2021)](https://metropolisjapan.com/why-tokyo-works/) ([HN](https://news.ycombinator.com/item?id=29134481))
+- [Metropolis Japan](https://metropolisjapan.com/)
+- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) - Browser extension to translate Japanese by hovering over words.
+- [Manga Translator](https://github.com/cameronkinsella/manga-translator) - Easy-to-use OCR and Japanese to English translation tool.
+- [The Economy of Japan: how a Superpower FELL from Grace in Four Decades (2021)](https://www.youtube.com/watch?v=pU_yyadYgG8)
+- [Japan’s curiously quiescent inflation rate (2021)](https://www.economist.com/finance-and-economics/2021/11/20/the-case-of-the-curiously-quiescent-inflation-rate) ([HN](https://news.ycombinator.com/item?id=29312300))
+- [Japan to implement bank-deposit-backed digital currency in 2022](https://asia.nikkei.com/Business/Finance/Japan-to-launch-bank-deposit-backed-digital-currency-in-2022) ([HN](https://news.ycombinator.com/item?id=29330819))
+- [Japan's Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998) ([HN](https://news.ycombinator.com/item?id=29709551))
+- [‘I go too far, too deep’: the Swiss wanderer who found the soul of Japan (2021)](https://www.theguardian.com/artanddesign/gallery/2021/dec/22/swiss-wanderer-soul-of-japan-werner-bischof)
+- [Tokyo: A big city that is also pleasant to live in (2021)](https://www.economist.com/special-report/2021/12/07/the-big-city-that-is-also-pleasant-to-live-in) ([HN](https://news.ycombinator.com/item?id=29755772))

@@ -2,6 +2,7 @@
 
 ## Interesting bikes
 
+- [Avail Advanced 2 (2022)](https://www.liv-cycling.com/de/avail-advanced-2-2022)
 - [Giant Revolt 0 Gravel bike (2020)](https://www.giant-bicycles.com/int/revolt-0)
 - [VanMoof](https://www.vanmoof.com/en_nl/) - Electric bikes.
 - [TRIBAN RC 520](https://www.decathlon.co.uk/triban-rc-520-disc-road-bike-navy-105-id_8554421.html)
@@ -18,3 +19,10 @@
 - [Unbricking a $2,000 Bike With a $10 Raspberry Pi (2020)](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/) ([HN](https://news.ycombinator.com/item?id=24022751))
 - [Cycling is 10x more important than electric cars for reaching net-zero cities (2021)](https://theconversation.com/cycling-is-ten-times-more-important-than-electric-cars-for-reaching-net-zero-cities-157163) ([HN](https://news.ycombinator.com/item?id=26728216))
 - [Myths in cycling: wider tires are slower](https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/) ([HN](https://news.ycombinator.com/item?id=27506550))
+- [The popularity of e-bikes isn’t slowing down (2021)](https://www.nytimes.com/2021/11/08/business/e-bikes-urban-transit.html) ([HN](https://news.ycombinator.com/item?id=29152433))
+- [Reflections on E-Bikes](https://ebikes.neighbor-ryan.org/reflections) ([HN](https://news.ycombinator.com/item?id=29184064))
+- [Long Range E-Bike (2021)](https://jacquesmattheij.com/long-range-ebike/) ([HN](https://news.ycombinator.com/item?id=29198205))
+- [What it's like to ride 900 km in a day (2021)](https://cyclingtips.com/2021/11/what-its-like-to-ride-900-km-in-a-day/) ([HN](https://news.ycombinator.com/item?id=29291443))
+- [CyclingTips](https://cyclingtips.com/)
+- [Rules for buying an ebike, and ebikes to buy now (2021)](https://ryanj.substack.com/p/ebikes) ([HN](https://news.ycombinator.com/item?id=29337902))
+- [Most People Don't Know How Bikes Work (2021)](https://www.youtube.com/watch?v=9cNmUNHSBac)

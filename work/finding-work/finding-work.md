@@ -40,6 +40,7 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [You don't get a promotion by doing your job really well. you get a promotion by doing a different job.](https://twitter.com/fat/status/1393287585380790272)
 - [Want to break into tech and work at a startup? Research a company, find the founder(s) on Twitter, and DM them a note about why you’re excited and what value you bring. DMs are open and every founder is looking for passionate, talented people.](https://twitter.com/anothercohen/status/1400942834396459011)
 - [I personally don't count stock options in total compensation. Stock units (RSUs) that are given to you, yes. But options that you have to buy, I don't.](https://twitter.com/cassidoo/status/1420423346727051268)
+- [Уволиться — это не кинуть. Отказаться от оффера — тоже. Что с одной, что с другой компанией ничего не случится независимо от того, куда ты пойдешь. Там даже никто не расстроится, хмыкнут, пожмут плечами и пойдут работать дальше. Идти надо в новое место, потому что кругозор. Даже если будет чуть хуже, новый опыт, знания и знакомства того стоят. Чем больше мир посмотришь, тем круче как специалист.](https://twitter.com/nikitonsky/status/1453691923651309571)
 
 ## Links
 
@@ -131,3 +132,18 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [If software engineering is in demand, why is it so hard to get a job? (2021)](https://betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463) ([Reddit](https://www.reddit.com/r/programming/comments/pf5ymu/if_software_engineering_is_in_demand_why_is_it_so/))
 - [Ask HN: How to Negotiate Stock Options (2021)](https://news.ycombinator.com/item?id=28401655)
 - [Ask HN: Graduating CS soon, how do I find a job? (2021)](https://news.ycombinator.com/item?id=28498305)
+- [Understanding Startup Offers](https://withcompound.com/manual-company-equity/understanding-startup-offers) ([HN](https://news.ycombinator.com/item?id=28644653))
+- [Why Senior Developers Are Leading the Great Resignation Movement (2021)](https://tipsnguts.medium.com/why-senior-developers-are-leading-the-great-resignation-movement-37b93ab9a634) ([HN](https://news.ycombinator.com/item?id=28715218))
+- [Thumbtack](https://www.thumbtack.com/) - Find local professionals for pretty much anything. ([Twitter](https://twitter.com/Thumbtack))
+- [Ask HN: How can I get a tech job that's more social? (2021)](https://news.ycombinator.com/item?id=28839819)
+- [Ask HN: Who's not sucky to work for? (2021)](https://news.ycombinator.com/item?id=29099746)
+- [How should I answer 'I see you are changing company very often, why is that and how long you plan to stay with us?' (2021)](https://www.reddit.com/r/cscareerquestionsEU/comments/qlzfm8/how_should_i_answer_i_see_you_are_changing/)
+- [Ask HN: Starting a career as a programmer in my mid-40s (2021)](https://news.ycombinator.com/item?id=29140927)
+- [Ask HN: How do you start a new career with minimal qualifications? (2021)](https://news.ycombinator.com/item?id=29305389)
+- [Ask HN: Software Engineer hitting 40: what's next? (2021)](https://news.ycombinator.com/item?id=29360119)
+- [Ask HN: Where are you finding freelance/fractional work? (2021)](https://news.ycombinator.com/item?id=29505524)
+- [On looking for a job (2021)](https://muan.co/2021/12/15/notes-on-looking-for-a-job/)
+- [Takeaways from looking for a new senior role in tech (2021)](https://philcalcado.com/2021/12/20/job_hunt.html) ([HN](https://news.ycombinator.com/item?id=29706073))
+- [Ask HN: How to find a job in 2021 if I dislike remote? (2021)](https://news.ycombinator.com/item?id=29711622)
+- [Ask HN: If not fresh out of college, what did you do to join a FAANG? (2021)](https://news.ycombinator.com/item?id=29750353)
+- [Good Product Based Companies & Startups](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Contains the list of companies (more than FAANG) which you can join.

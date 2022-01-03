@@ -3,6 +3,8 @@
 ## Notes
 
 - [Rough draft of my campaign platform: More bikes. More trees. More housing. End car dependency. End lawns. End conforming new construction to neighborhood character oh my god we have enough historic stuff just give a new generation a chance to try their hand.](https://twitter.com/zachklein/status/1440780815131033600)
+- [A developed country is not a place where the poor have cars. It’s where the rich use public transportation.](https://twitter.com/zachklein/status/1457012008730120201)
+- [Mixed-use (housing on top of stores) is good.](https://twitter.com/jake_gotta/status/1466189950135640065)
 
 ## Links
 
@@ -38,3 +40,10 @@
 - [Sustainable Infrastructure (2021)](https://wrathofgnon.substack.com/p/sustainable-infrastructure)
 - [The Liberation of Paris From Cars Is Working (2021)](https://slate.com/business/2021/09/paris-cars-bicycles-walking-david-belliard-anne-hidalgo.html) ([Tweet](https://twitter.com/travis_robert/status/1438577403295682564))
 - [How Manchester Fixed Its Industrial Decline (2021)](https://www.youtube.com/watch?v=fuTIDc5ug-Y)
+- [Prague's Brutalist Buildings](https://www.calvertjournal.com/features/show/13210/best-brutalist-buildings-in-prague-czech-republic-socialist-modernist-architecture) ([HN](https://news.ycombinator.com/item?id=29047075))
+- [Our self imposed scarcity of nice places (2021)](https://www.strongtowns.org/journal/2021/11/3/our-self-imposed-scarcity-of-nice-places) ([HN](https://news.ycombinator.com/item?id=29104323))
+- [Ask HN: What's your ideal city in a 100% remote world? (2021)](https://news.ycombinator.com/item?id=29120254)
+- [Introducing Praxis (2021)](https://mirror.xyz/0x7a02D50B22cC79a3dc667E80B413996b81f5ED6E/ZIUh2ni7rm7j7IaxyLJMtJT5KzbU9xg6P-SQbSJhHj4) - Building the city-cryptostate to realize a more vital future. ([Tweet](https://twitter.com/drydenwtbrown/status/1459286570071113730))
+- [Urban planning of Barcelona](https://twitter.com/MarkTomasovic/status/1459318924701585410)
+- [Singapore’s tech-utopia dream is turning into a surveillance state nightmare (2021)](https://restofworld.org/2021/singapores-tech-utopia-dream-is-turning-into-a-surveillance-state-nightmare/) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/qxy6jh/singapore_i_think_that_the_entire_world_will_be/))
+- [Streetsblog.org](https://www.streetsblog.org/) - Better walking, biking, and transit.

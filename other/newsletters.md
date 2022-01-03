@@ -2,12 +2,16 @@
 
 ## Interesting
 
+- [The Pragmatic Engineer](https://www.pragmaticengineer.com/)
 - [A Byte of Coding](https://abyteofcoding.com/)
 - [Dense Discovery](https://www.densediscovery.com/) - Weekly newsletter on tech, design, culture & sustainability.
 - [The Slice](https://theslice.co/) - Weekly email helping you become a better maker.
 - [Bytes](https://bytes.dev/) - Your favorite JavaScript newsletter.
 - [Console Newsletter](https://console.dev/) - Best tools for developers.
 - [Product Drops](https://productdrops.com/) - Discover slick products. Early. ([Twitter](https://twitter.com/productdrops)) ([Tweet](https://twitter.com/toddg777/status/1438164336883556352))
+- [Designer Favorites](https://www.designerfavorites.com/) - Weekly newsletter to learn from other designers and discover inspiration.
+- [Robin Sloan's Society of the Double Dagger](https://society.robinsloan.com/)
+- [Superorganizers](https://every.to/superorganizers) - How smart people organize what they know.
 
 ## Notes
 
@@ -64,3 +68,6 @@
 - [First Year of UI Dev Newsletter (2021)](https://www.silvestar.codes/articles/first-year-of-ui-dev-newsletter/)
 - [The Sample](https://sample.findka.com/) - Newsletters curated for you with machine learning. ([HN](https://news.ycombinator.com/item?id=27664020))
 - [Naive Newsletter Delivery (2021)](https://www.lpalmieri.com/posts/naive-newsletter-delivery/)
+- [Advice on writing/newsletters (2021)](https://twitter.com/GergelyOrosz/status/1442537833495990278)
+- [Sending newsletters should cost something (2021)](https://www.rmhsilva.com/w/blockchain-mail-b-mail/) ([HN](https://news.ycombinator.com/item?id=28758125))
+- [beehiiv](https://www.beehiiv.com/) - Newsletter platform built by newsletter people. Empowering creators to monetize and grow. ([Twitter](https://twitter.com/trybeehiiv))

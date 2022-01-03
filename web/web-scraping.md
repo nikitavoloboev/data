@@ -3,6 +3,8 @@
 ## Links
 
 - [Scrapy](https://github.com/scrapy/scrapy) - Fast high-level web crawling & scraping framework for Python. ([Web](https://scrapy.org/)) ([Docs](https://docs.scrapy.org/en/latest/)) ([Awesome Scrapy](https://github.com/AccordBox/awesome-scrapy))
+- [Scrapyd](https://github.com/scrapy/scrapyd) - Service for running Scrapy spiders. ([Docs](https://scrapyd.readthedocs.io/en/stable/))
+- [ScrapydWeb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI.
 - [Simple Scraper](https://simplescraper.io/) - Extract data from any website in seconds.
 - [ScrapingBee](https://www.scrapingbee.com/) - Web Scraping API.
 - [Easy web scraping with Scrapy (2019)](https://www.scrapingbee.com/blog/web-scraping-with-scrapy/)
@@ -107,3 +109,30 @@
 - [Python-Goose](https://github.com/grangier/python-goose) - HTML Content / Article Extractor, web scrapping lib in Python.
 - [Dyer](https://github.com/HomelyGuy/dyer) - Designed for reliable, flexible and fast web crawling, providing some high-level, comprehensive features without compromising speed.
 - [How to Crawl the Web with Scrapy (2021)](https://www.babbling.fish/scraping-for-a-job/) ([HN](https://news.ycombinator.com/item?id=28514998))
+- [PageMetaScraper](https://github.com/olerichter00/page-meta-scraper) - Page metadata scraper with several fallback strategies.
+- [cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl URLs and scan for endpoints, secrets, API keys, file extensions, tokens and more.
+- [Super-Simple Scraper](https://github.com/gotripod/ssscraper) - Crawler/scraper based on Go + colly, configurable via JSON.
+- [Gospider](https://github.com/jaeles-project/gospider) - Fast web spider written in Go.
+- [The State Of Web Scraping in 2021](https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/) ([HN](https://news.ycombinator.com/item?id=28827509))
+- [trafilatura](https://github.com/adbar/trafilatura) - Web scraping tool for text discovery and retrieval.
+- [scrapy.js](https://github.com/sijey-praveen/scrapy.js) - Web Scraping library for JavaScript built using BeautifulSoup4.
+- [PHP Goose](https://github.com/scotteh/php-goose) - Readability / HTML Content / Article Extractor & Web Scrapping library written in PHP.
+- [Web scraping by watching requests (2021)](https://en.jeffprod.com/blog/2021/web-scraping-by-watching-requests/)
+- [Effortless Crawling with Scrapy with one method (2021)](https://www.youtube.com/watch?v=o1g8prnkuiQ)
+- [Avoiding bot detection: How to scrape the web without getting blocked?](https://github.com/niespodd/browser-fingerprinting)
+- [crawley](https://github.com/s0rg/crawley) - Crawls web pages and prints any link it can find.
+- [grab-site](https://github.com/ArchiveTeam/grab-site) - Archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
+- [cloudscraper](https://github.com/VeNoMouS/cloudscraper) - Python module to bypass Cloudflare's anti-bot page.
+- [Papercut](https://github.com/armand1m/papercut) - Scraping/crawling library for Node.js, written in Typescript.
+- [Marple](https://github.com/soxoj/marple) - Collect links to profiles by username through search engines.
+- [Web Scraping with Go (2021)](https://www.scrapingbee.com/blog/web-scraping-go/) ([Reddit](https://www.reddit.com/r/golang/comments/qw0io1/web_scraping_with_go/))
+- [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username from thousands of sites.
+- [Notes on Writing Web Scrapers (2021)](https://cushychicken.github.io/rules-for-web-scrapers/)
+- [Scraping Websites With Logins (2021)](https://blog.octachart.com/scraping-websites-that-require-login-in-python) ([Reddit](https://www.reddit.com/r/Python/comments/rck8bh/scraping_websites_that_require_login_in_python/))
+- [Skan.jl](https://github.com/rikhuijzer/Skan.jl) - Scan web pages for changes using Julia & GitHub Actions.
+- [cloudflare-scraper](https://github.com/JimmyLaurent/cloudflare-scraper) - Package to bypass Cloudflare's protection.
+- [scrapy-poet](https://github.com/scrapinghub/scrapy-poet) - Page Object pattern for Scrapy.
+- [Go Download Web](https://github.com/antsanchez/go-download-web) - Download an entire website with Go.
+- [linkcheck](https://github.com/filiph/linkcheck) - Fast link checker.
+- [scrapli](https://github.com/carlmontanari/scrapli) - Fast, flexible, sync/async, Python 3.6+ screen scraping client specifically for network devices.
+- [scrapligo](https://github.com/scrapli/scrapligo) - scrapli, but in go.

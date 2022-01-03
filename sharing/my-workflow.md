@@ -23,15 +23,18 @@
 - [Fantastical](../macOS/apps/fantastical.md) - Plan meetings & events.
 - [Calendly](https://calendly.com/) - Sharing my availability for efficient event arrangement.
 
+## Chat
+
+- [Telegram](https://telegram.org) - Best native messenger with great stickers.
+
 ## Video
 
-- [Hangouts](https://hangouts.google.com), [Zoom](http://zoom.us) or [Discord](https://discord.com) (server chats)
+- [Hangouts](https://hangouts.google.com) (preferred to [Zoom](http://zoom.us) as it works on web) or [Discord](https://discord.com) (voice/video chats)
 
 ## Knowledge index
 
 - [Wiki](../readme.md) - [Everything I know](everything-I-know.md) written out and quickly searched with [My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 - [Articles](my-articles.md) - Long form writing.
-- [Code Snippets](https://epictools.dev) - Useful code snippets, commands.
 - [Curated lists](https://github.com/learn-anything/curated-lists)
 - [Looking back](../looking-back/looking-back.md) - Public log of things I made & thought about. Reflect on the past to grow.
 
@@ -128,3 +131,4 @@
 ## Other
 
 - Format code automatically. [Prettier](https://prettier.io) for JS/TS/CSS/HTML/MD. [Black](https://github.com/psf/black) for Python. [swift-format](https://github.com/apple/swift-format) for Swift.
+- Forms: [Reform](https://www.reform.app/)

@@ -31,6 +31,8 @@ Below is a list of plugins I use.
 - [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
 - [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Advanced Vim emulation layer for Sublime Text.
 - [Emmet](https://github.com/emmetio/sublime-text-plugin)
+- [Sublime Debugger](https://github.com/daveleroy/sublime_debugger) - Graphical Debugger for sublime text for debuggers that support the debug adapter protocol.
+- [sublime-bun](https://github.com/alexkuz/sublime-bun) - Bun binary files viewer and other Bun-related stuff.
 
 ## Markdown
 
@@ -62,6 +64,7 @@ Below is a list of plugins I use.
 
 ## Clojure
 
+- [Clojure support for Sublime Text 4](https://github.com/tonsky/sublime-clojure)
 - [Pep](https://github.com/pedrorgirardi/Pep) - Elemental Clojure & ClojureScript code navigation, documentation, and usages analysis for Sublime Text.
 
 ## Lint
@@ -80,3 +83,5 @@ Below is a list of plugins I use.
 - [GitGutter](https://github.com/jisaacks/GitGutter) - See git diff in gutter.
 - [Package Control](https://packagecontrol.io/) - Sublime Text package manager.
 - [Sublime Packages](https://github.com/sublimehq/Packages)
+- [Package Control Default Channel](https://github.com/wbond/package_control_channel)
+- [Docs - Package Control](https://packagecontrol.io/docs#Package_Developers)

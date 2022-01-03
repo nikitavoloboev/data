@@ -10,3 +10,6 @@
 - [Algebraic K-theory, combinatorial K-theory and geometry - Inna Zakharevich (2018)](https://www.youtube.com/watch?v=wEz7fCvK6sM)
 - [You Could Have Invented Homology (2021)](https://www.youtube.com/playlist?list=PLcaesJ30fdQ_qyizYsFvlm9LkJvj2CxxU)
 - [Computational Algebraic Topology Lecture Notes](http://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf)
+- [Proof that every polynomial of odd degree over the real numbers has a real root](https://twitter.com/niveknosdunk/status/1457799163735789569)
+- [MA 332: Algebraic Topology (2022)](http://math.iisc.ac.in/~gadgil/algebraic-topology-2022/index.html) ([Code](https://github.com/siddhartha-gadgil/algebraic-topology-2022))
+- [A Basic Course in Algebraic Topology (1991)](https://link.springer.com/book/10.1007/978-1-4939-9063-4) ([Solutions](https://github.com/hrkrshnn/AlgTop-Massey/blob/master/solutions.pdf))

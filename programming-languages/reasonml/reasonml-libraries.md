@@ -9,6 +9,9 @@
 - [Sihl](https://github.com/oxidizing/sihl) - Web framework for Reason.
 - [Tenzir UI Component Library](https://github.com/tenzir/ui-component-library) - ReasonML-first UI Component Library.
 - [reason-urql](https://github.com/FormidableLabs/reason-urql) - Reason bindings for Formidable's Universal React Query Library, urql.
+- [rescript-query](https://github.com/rescriptbr/react-query) - ReScript bindings for React Query.
+- [rescript-chakra](https://github.com/ri7nz/rescript-chakra) - ReScript bindings for Chakra-UI.
+- [Routes](https://github.com/anuragsoni/routes) - Typed bidirectional router for OCaml/ReasonML web applications.
 
 ## Test
 
@@ -26,6 +29,8 @@
 - [re-classnames](https://github.com/MinimaHQ/re-classnames) - Reimplementation of classnames in ReasonML.
 - [Fetch](https://github.com/lessp/fetch) - Fetch libraries and interface for ReasonML/OCaml.
 - [Relude](https://github.com/reazen/relude) - FP-inspired prelude/standard library for ReasonML projects.
+- [rescript-webapi](https://github.com/tinymce/rescript-webapi) - ReScript bindings to the DOM and other Web APIs.
+- [rescript-libs](https://github.com/ri7nz/rescript-libs) - Collections and Essential set of Library, Utility, & Tools for ReScript Lang especially in Web.
 
 ## Links
 

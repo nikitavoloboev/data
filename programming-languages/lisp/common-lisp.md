@@ -9,7 +9,7 @@
 - [LISP/c (Lispy)](https://github.com/eratosthenesia/lispc) - Lisp(ish) to C Converter (designed for CLISP).
 - [Cons cells vs. Linked Lists (2020)](http://funcall.blogspot.com/2020/01/cons-cells-vs-linked-lists.html)
 - [ANSI Common Lisp](http://www.paulgraham.com/acl.html?viewfullsite=1) - Combines an introduction to Lisp programming, and a convenient, up-to-date reference manual for ANSI Common Lisp ([HN](https://news.ycombinator.com/item?id=22083507)).
-- [Modern, functional Common Lisp: Myths and tips (2020)](https://ambrevar.xyz/modern-common-lisp/index.html) ([HN](https://news.ycombinator.com/item?id=22412148))
+- [Modern, functional Common Lisp: Myths and tips (2020)](https://ambrevar.xyz/modern-common-lisp/) ([HN](https://news.ycombinator.com/item?id=22412148))
 - [Restarts in Common Lisp (2020)](https://sulami.github.io/posts/common-lisp-restarts/) ([HN](https://news.ycombinator.com/item?id=22747932))
 - [Valtan](https://github.com/cxxxr/valtan) - Common Lisp to JavaScript compiler. ([HN](https://news.ycombinator.com/item?id=22769346))
 - [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp)
@@ -65,3 +65,22 @@
 - [The Common Lisp Condition System - Beyond Exception Handling with Control Flow Mechanisms (2020)](https://www.apress.com/gp/book/9781484261330)
 - [Coalton](https://github.com/coalton-lang/coalton) - Efficient, statically typed functional programming language that supercharges Common Lisp. ([Article](https://coalton-lang.github.io/20211010-introducing-coalton/))
 - [Building Common Lisp Executables (2018)](https://susam.in/maze/building-common-lisp-executables.html)
+- [Learning Common Lisp to beat Java and Rust on a phone encoding problem](https://renato.athaydes.com/posts/revenge_of_lisp.html) ([HN](https://news.ycombinator.com/item?id=28721403))
+- [Radiance](https://github.com/Shirakumo/radiance) - Common Lisp web application environment. ([Web](https://shirakumo.github.io/radiance/))
+- [Optimising Common Lisp to try and beat Java and Rust on phone encoding 2/2 (2021)](https://renato.athaydes.com/posts/revenge_of_lisp-part-2.html) ([HN](https://news.ycombinator.com/item?id=28825307))
+- [DRAKMA](https://github.com/edicl/drakma) - HTTP client written in Common Lisp.
+- [Kina Knowledge, using Common Lisp extensively in their document processing stack (2021)](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/) ([HN](https://news.ycombinator.com/item?id=28961987))
+- [Roswell](https://github.com/roswell/roswell) - Common Lisp environment setup Utility.
+- [Common Lisp code optimisation (2020)](https://write.as/loke/common-lisp-code-optimisation) ([HN](https://news.ycombinator.com/item?id=29140521))
+- [Dexador](https://github.com/fukamachi/dexador) - Fast HTTP client for Common Lisp.
+- [Learn Common Lisp by Example: GTK GUI with SBCL (2021)](https://blog.matthewdmiller.net/learn-common-lisp-by-example-gtk-gui-with-sbcl)
+- [Sketch](https://github.com/vydd/sketch) - Common Lisp environment for the creation of electronic art, visual design.
+- [Lessons learned after working one year as a Common Lisp Developer (2018)](https://cdagostino.io/posts/2018-03-28-one-year-common-lisp-developer-part-1-the-good.html) ([HN](https://news.ycombinator.com/item?id=29494255))
+- [One Reason Typeclasses Are Useful (2021)](https://coalton-lang.github.io/20211212-typeclasses/) ([HN](https://news.ycombinator.com/item?id=29532917))
+- [CEPL](https://github.com/cbaggers/cepl) - Lispy and REPL-friendly Common Lisp library for working with OpenGL. ([HN](https://news.ycombinator.com/item?id=29535450))
+- [Wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server written in common lisp.
+- [Learn Common Lisp by Example: Qt GUI with EQL5 (2021)](https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5)
+- [cl4py](https://github.com/marcoheisig/cl4py) - Common Lisp for Python.
+- [Fast Generic Functions](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance.
+- [sb-simd](https://github.com/marcoheisig/sb-simd) - Convenient SIMD interface for SBCL.
+- [cl-mpi](https://github.com/marcoheisig/cl-mpi) - MPI bindings for Common Lisp with many useful extras.

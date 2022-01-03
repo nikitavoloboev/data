@@ -2,6 +2,7 @@
 
 ## Interesting hash tags
 
+- [#WomensArt](https://twitter.com/hashtag/WomensArt)
 - [#VisibleWomen](https://twitter.com/hashtag/VisibleWomen)
 - [#коточетверг](https://twitter.com/hashtag/%D0%BA%D0%BE%D1%82%D0%BE%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%B3)
 
@@ -13,6 +14,7 @@
 - [Twitter stops being fun after a certain number of followers because you can’t tweet anything without a barrage of opinions/projections.](https://twitter.com/notdanilu/status/1378770853169627137)
 - [Twitter is a lot like prison. The best move on your first day is to pick a fight with the biggest account on here.](https://twitter.com/nikitabier/status/1391049141124427782)
 - [Each day on twitter there is one main character. The goal is to never be it.](https://twitter.com/maplecocaine/status/1080665226410889217)
+- [How to become a tech twitter influencer in five easy steps: 1. be relatable 2. keep a regular posting schedule 3. engage with your followers 4. go on podcasts!](https://twitter.com/ctrlshifti/status/1476086483245101056)
 
 ## Links
 
@@ -109,7 +111,7 @@
 - [Broadcast](https://github.com/daneden/Broadcast) - Write-only Twitter client. It lets you post tweets and reply to your last tweet.
 - [Rebuilding Twitter’s Public API (2021)](https://www.youtube.com/watch?v=axFSaH_-IMw)
 - [Twitter API v2 sample code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js).
-- [BlackMagic.so](https://blackmagic.so/) - Twitter Growth Tool.
+- [BlackMagic.so](https://blackmagic.so/) - Twitter Growth Tool. ([Sidebar](https://blackmagic.so/sidebar/)) ([Tweet](https://twitter.com/tdinh_me/status/1469555195596054529))
 - [#buildinpublic](https://buildinpublic.com/) - Discover what people are building in public.
 - [Twitter's new visual design system](https://twitter.com/ashlie/status/1425506038506147840) ([Tweet](https://twitter.com/TwitterDesign/status/1425505308563099650))
 - [TidyTweets](https://tidytweets.org/) - Tidy up your Following list on Twitter. ([Code](https://github.com/rlueder/tidytweets))
@@ -117,3 +119,28 @@
 - [RSS 2 Twitter](https://github.com/umputun/rss2twitter) - Publish RSS updates to Twitter.
 - [Kizie](https://kizie.co/) - New way to interact with Twitter. ([HN](https://news.ycombinator.com/item?id=28549960))
 - [Feeds Mage](https://www.feedsmage.com/) - Scans your Twitter follows to discover blogs and newsletters.
+- [Minimal Twitter](https://github.com/ThomasWang/minimal-twitter) - Minimal Theme for the new Twitter UI.
+- [How many accounts block you on Twitter](https://blolook.osa-p.net/index.html?lang=en)
+- [Thread Hunt](https://threadhunt.xyz/) - Quality Twitter threads from undiscovered creators.
+- [Static Tweet Next.js](https://github.com/lfades/static-tweet) - Completely customizable static tweet for Next.js applications. ([Demo](https://static-tweet.vercel.app/))
+- [Twitter audit trail backup](https://github.com/ahmetb/twitter-audit-log) - Backs up my follower list, following list, blocked accounts list and muted accounts list periodically using GitHub Actions.
+- [retweeters](https://github.com/craftweg/retweeters) - Micro-CLI powered by NodeJS for fetching the retweeters of a tweet.
+- [Brain Marks](https://github.com/mikaelacaron/brain-marks) - Categorize your Twitter bookmarks, being created during the Big Brain Hacks Hackathon.
+- [A small DOCUMERICA Twitter bot (2021)](https://blog.yossarian.net/2021/10/25/A-small-documerica-twitter-bot)
+- [TweetShelf](https://www.tweetshelf.com/) - Recommendations from your Twitter friend.
+- [Good Twitter follows (2021)](https://twitter.com/aaditsh/status/1453745795862257672)
+- [Tweet Hunter](https://tweethunter.io/) - Grow Your Twitter Audience.
+- [Awesome Twitter Communities](https://github.com/caarlos0/awesome-twitter-communities)
+- [TwitterFOMO.dev](https://twitterfomo.dev/) - Best WebDev Tweets. ([Code](https://github.com/tomdohnal/twitter-fomo))
+- [How Twitter got research right (2021)](https://www.theverge.com/2021/11/19/22790174/twitter-research-transparency-published-findings)
+- [Search your all tweets](https://github.com/azu/mytweets)
+- [Twitter App Ideas](https://app.simplenote.com/publish/jlwK77) ([Tweet](https://twitter.com/swyx/status/1462534363535626244))
+- [Transform your twitter following into list](https://github.com/guillaumeLamanda/twitter-follow2list)
+- [Twitter Has a New CEO; What About a New Business Model? (2021)](https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/) ([HN](https://news.ycombinator.com/item?id=29391876))
+- [Twitter Is About to Get Way Worse (2021)](https://bariweiss.substack.com/p/twitter-is-about-to-get-way-worse) ([Tweet](https://twitter.com/jordanbpeterson/status/1466132542571134982))
+- [Twitter Clone in Rust](https://github.com/evoxmusic/twitter-clone-rust)
+- [Twitter Query Language](https://gist.github.com/andyclarkemedia/3b4e062a45323138bd28ec52d80eb7b1)
+- [Twitter, the Intimacy Machine (2021)](https://ravenmagazine.org/magazine/twitter-the-intimacy-machine/)
+- [Twttr](https://github.com/sreechar/twttr) - Streamlines your twitter surfing process by prioritizing user-friendly features. ([Web](https://twttr.sreecha.me/))
+- [A Guide to Twitter](https://tasshin.com/blog/a-guide-to-twitter/) ([HN](https://news.ycombinator.com/item?id=29752379))
+- [Nazuna](https://github.com/Sazzo/nazuna) - Download Twitter videos using your terminal.

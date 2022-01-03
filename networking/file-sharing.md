@@ -5,7 +5,7 @@
 - [Firefox Send](https://github.com/mozilla/send) - File sharing experiment which allows you to send encrypted files to other users. ([HN](https://news.ycombinator.com/item?id=19367850))
 - [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [Transfer.sh](https://transfer.sh/) - Easy file sharing from the command line or web. ([HN](https://news.ycombinator.com/item?id=27739991))
-- [Syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization. ([Web](https://syncthing.net/)) ([HN](https://news.ycombinator.com/item?id=27149002)) ([HN](https://news.ycombinator.com/item?id=27929194))
+- [Syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization. ([Web](https://syncthing.net/)) ([HN](https://news.ycombinator.com/item?id=27149002)) ([HN](https://news.ycombinator.com/item?id=27929194)) ([HN](https://news.ycombinator.com/item?id=28859521))
 - [OnionShare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites.
 - [Dropbox Transfer](https://www.dropbox.com/transfer)
 - [bita](https://github.com/oll3/bita) - Differential file synchronization over http.
@@ -59,7 +59,7 @@
 - [Sync](https://www.sync.com/) - Secure Cloud Storage.
 - [Pydio](https://pydio.com/) - Enterprise File Sharing & Sync Platform. ([Code](https://github.com/pydio/cells))
 - [Cacheroach](https://github.com/bobvawter/cacheroach) - Multi-tenant, multi-region, multi-cloud file store built using CockroachDB.
-- [Teleport](https://goteleport.com/) - Access Computing Resources Anywhere. ([Code](https://github.com/gravitational/teleport))
+- [Teleport](https://goteleport.com/) - Access Computing Resources Anywhere. ([Code](https://github.com/gravitational/teleport)) ([GitHub](https://github.com/gravitational))
 - [ownCloud](https://owncloud.com/) - Share files and folders, easy and secure. ([Code](https://github.com/owncloud/core))
 - [Wormhole](https://wormhole.app/) - Simple, private file sharing. ([HN](https://news.ycombinator.com/item?id=26666142))
 - [SkyTransfer](https://skytransfer.hns.siasky.net/#/) - Free, Open-Source, Decentralized and Encrypted File-Sharing. ([Code](https://github.com/kamy22/skytransfer)) ([HN](https://news.ycombinator.com/item?id=27017805))
@@ -78,3 +78,21 @@
 - [Chibisafe](https://chibisafe.moe/) - Blazing fast file uploader and awesome bunker written in node. ([Code](https://github.com/WeebDev/chibisafe))
 - [OnlyFiles](https://onlyfiles.cc/) - Media file sharing service.
 - [Faster File Distribution with HDFS and S3 (2019)](https://tech.marksblogg.com/faster-file-distribution-hadoop-hdfs-s3.html)
+- [LuminS](https://github.com/wchang22/LuminS) - Fast and reliable alternative to rsync for synchronizing local files.
+- [Using rclone for Cloud to Cloud Transfer](https://www.rsync.net/resources/howto/rclone.html)
+- [Ubercopy](https://github.com/jasonwhite/ubercopy) - Quickly and intelligently copies files based on a generated list.
+- [Bindle](https://github.com/deislabs/bindle) - Object Storage for Collections.
+- [Portal](https://github.com/landhb/portal) - Secure file transfer protocol, written in Rust.
+- [THRON](https://www.thron.com/en/) - Digital Content Management Software.
+- [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) - Open-source P2P-based Image and File Distribution System. ([Web](https://d7y.io/en-us/))
+- [portal](https://github.com/ZinoKader/portal) - Quick and easy CLI file transfer utility.
+- [raw.githack.com](https://raw.githack.com/) - Serves raw files directly from various source code hosting services with proper Content-Type headers. ([Code](https://github.com/neoascetic/rawgithack))
+- [Buzon](https://buzon.io/) - Send large files.
+- [Upload](https://upload.io/) - File Upload Platform. ([JS lib](https://github.com/upload-js/upload-js)) ([Upload Plugin SDK](https://github.com/upload-js/upload-plugin-sdk)) ([Compression Plugin](https://github.com/upload-js/upload-compression-plugin))
+- [File Browser](https://github.com/filebrowser/filebrowser) - Directory and it can be used to upload, delete, preview, rename and edit your files. ([Docs](https://filebrowser.org/))
+- [How to rsync files between two remotes? (2021)](https://vincent.bernat.ch/en/blog/2021-rsync-ssh-two-remotes)
+- [cend.me](http://cend.me/) - Direct file transfer with no server involvement.
+- [Slik Safe](https://www.sliksafe.com/) - Decentralized, End-to-End Encrypted Alternative to Dropbox. ([HN](https://news.ycombinator.com/item?id=29637188))
+- [Greedia](https://github.com/greedia/greedia) - Greedily cache media and serve it up fast.
+- [gossa](https://github.com/pldubouilh/gossa) - Fast and simple multimedia file server.
+- [Pget](https://github.com/Code-Hex/pget) - Fastest file download client.

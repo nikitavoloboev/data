@@ -26,7 +26,7 @@
 - [eSpeak NG](https://github.com/espeak-ng/espeak-ng) - Open source speech synthesizer that supports more than hundred languages and accents.
 - [PRiSM SampleRNN](https://github.com/rncm-prism/prism-samplernn) - Neural sound synthesis with TensorFlow 2.
 - [Flite](https://github.com/festvox/flite) - Small fast portable speech synthesis system.
-- [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech (2020)](https://arxiv.org/abs/2006.04558) ([Code](https://github.com/rishikksh20/FastSpeech2))
+- [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech (2020)](https://arxiv.org/abs/2006.04558) ([Code](https://github.com/rishikksh20/FastSpeech2)) ([Code](https://github.com/AppleHolic/FastSpeech2))
 - [Neural Granular Sound Synthesis](https://adrienchaton.github.io/neural_granular_synthesis/) ([Code](https://github.com/adrienchaton/neural_granular_synthesis))
 - [CLEESE](https://github.com/creamlab/cleese) - Combinatorial Expressive Speech Engine.
 - [LVCNet: Efficient Condition-Dependent Modeling Network for Waveform Generation](https://github.com/ZENGZHEN-TTS/LVCNet)
@@ -34,3 +34,19 @@
 - [A Survey on Neural Speech Synthesis (2021)](https://arxiv.org/abs/2106.15561)
 - [Binaural Speech Synthesis](https://github.com/facebookresearch/BinauralSpeechSynthesis) - Code to train a mono-to-binaural neural sound renderer.
 - [NN-SVS](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research.
+- [Larynx](https://github.com/rhasspy/larynx) - End to end text to speech system using gruut and onnx, 50 voices, 9 languages.
+- [WellSaid Labs](https://wellsaidlabs.com/) - Voice Narration. Simplified.
+- [Neural Wave shaping Synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis) - Efficient neural audio synthesis in the waveform domain. ([Article](https://benhayes.net/projects/nws/))
+- [Catch-A-Waveform: Learning to Generate Audio from a Single Short Example](https://galgreshler.github.io/Catch-A-Waveform/) ([Code](https://github.com/galgreshler/Catch-A-Waveform))
+- [TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis (2020)](https://arxiv.org/abs/2011.12206) ([Code](https://github.com/rishikksh20/TFGAN))
+- [EdiTTS: Score-based Editing for Controllable Text-to-Speech](https://github.com/neosapience/EdiTTS)
+- [PortaSpeech: Portable and High-Quality Generative Text-to-Speech (2021)](https://arxiv.org/abs/2109.15166) ([Code](https://github.com/keonlee9420/PortaSpeech))
+- [Speech Resynthesis from Discrete Disentangled Self-Supervised Representations (2021)](https://arxiv.org/abs/2104.00355) ([Code](https://github.com/facebookresearch/speech-resynthesis))
+- [Neural Lexicon Reader: Reduce Pronunciation Errors in End-to-end TTS by Leveraging External Textual Knowledge (2021)](https://arxiv.org/abs/2110.09698) ([Code](https://github.com/mutiann/neural-lexicon-reader))
+- [Grail-rs](https://github.com/Dimev/grail-rs) - Rust speech synth.
+- [RAVE: A variational autoencoder for fast and high-quality neural audio synthesis (2021)](https://arxiv.org/abs/2111.05011) ([Code](https://github.com/caillonantoine/RAVE))
+- [WaveFlow: A Compact Flow-based Model for Raw Audio (2020)](https://arxiv.org/abs/1912.01219) ([Code](https://github.com/L0SG/WaveFlow))
+- [VoiceFixer](https://github.com/haoheliu/voicefixer_main) - Framework for general speech restoration.
+- [TTS-RS](https://github.com/ndarilek/tts-rs) - High-level Text-To-Speech (TTS) interface supporting various backends.
+- [Speech synthesis using AVSpeechSynthesizer (2021)](https://cornerbit.tech/speech-synthesis-using-avspeechsynthesizer/)
+- [Towards Lightweight Controllable Audio Synthesis with Conditional Implicit Neural Representations (2021)](https://arxiv.org/abs/2111.08462) ([Code](https://github.com/janzuiderveld/continuous-audio-representations))

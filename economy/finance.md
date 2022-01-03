@@ -1,10 +1,12 @@
 # Finance
 
-For my own personal finance, I budget & manage my money with [Monzo](https://monzo.com) (UK/US) & [N26](https://n26.com/en-gb/) (EU).
+I manage my money with [N26](https://n26.com/en-gb/) (great in EU). When I lived in UK, [Monzo](https://monzo.com) was great.
 
-I keep a minimum of 3,000 euro on the account at any time (to cover emergency spending). The rest I [invest into stocks/ETFs](investing.md) and [ideas that interest me](../ideas/ideas.md). I also support open source projects & people I love.
+I keep a minimum of 3,000 euro on the account at any time (to cover emergency spending + monthly bills). I budget the next month (make sure enough money is on main account for the month) as well as rebalance my [investment portfolio of stocks/ETFs/crypto](investing.md) (if necessary) at first Sunday of each month as part of a monthly [look back](../looking-back/looking-back.md). I also invest into [ideas that interest me](../ideas/ideas.md) & support open source projects & people I love.
 
-I use [YNAB methodology](https://www.youneedabudget.com/method/) to somewhat manage my spending but not proactively. I try to be mindful with my spending at all times and try to never disregard spending on quality healthy food and essentials for my well being. Both N26 & Monzo track spending into categories and do a good job of it.
+I use a variation of [YNAB methodology](https://www.youneedabudget.com/method/) to somewhat mindfully manage my spending. I try to be mindful of more expensive things I buy & try to never disregard spending on quality healthy food and essentials for my well being. Both N26 & Monzo track spending into categories and do a good job of it.
+
+In future it would be nice to automate moving money to main account from less liquid assets I own quickly. FIAT [tends to deprecate quickly](https://twitter.com/levelsio/status/1471046183141265409) so it's good idea to own hard assets (good ETFs being the safest investment).
 
 ## Ongoing subscriptions
 
@@ -26,6 +28,8 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [It's a different way of thinking about budgeting. It's an envelope system. You have a pile of dollars (real dollars - these are all the dollars you own, right now, in your accounts), and a pile of envelopes. You begin stuffing dollar bills into envelopes - some into the bills coming due before you get paid again, some for groceries until you get paid again, some for gas until you get paid again, and with the smaller pile of dollars after those needs are taken care of, you begin to stuff dollars into your True Expenses - things like Car Maintenance, Insurance Payment, etc. When you run out of dollars, you STOP.](https://www.reddit.com/r/ynab/comments/93l0gm/im_missing_something_here_possibly_a_brain/)
   - You stop, because you can't put imaginary dollars into envelopes.
   - YNAB is all about the now - about giving jobs to the money you have. Not to the money you might have later on. It is a different way of thinking, but once you make that mental shift, it comes clear and works beautifully.
+- [Invoiced has great invoice generator.](https://invoice-generator.com/#/1)
+- [IBKR trades currency for you on the actual market at whatever price it's currently trading. No fee. Perfect for exchanging FIAT.](https://www.reddit.com/r/eupersonalfinance/comments/qswoo3/exchange_400k_usd_to_eur/)
 
 ## Links
 
@@ -123,3 +127,32 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [TigerBeetle](https://github.com/coilhq/tigerbeetle) - Distributed financial accounting database designed for mission critical safety and performance to power the future of financial services. ([Web](https://www.tigerbeetle.com/))
 - [Go DB Ledger](https://github.com/darcys22/godbledger) - Accounting Software with GRPC endpoints and SQL Backends. ([Web](https://godbledger.com/))
 - [How you can track your personal finances using Python (2021)](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/) ([HN](https://news.ycombinator.com/item?id=28418925))
+- [Invoy](https://invoy.app/) - Super simple invoicing. ([Twitter](https://twitter.com/invoyco))
+- [Increase](https://increase.com/) - Build your own bank. From the Federal Reserve, directly to our own API endpoints.
+- [Pandora Papers](https://www.icij.org/investigations/pandora-papers/) - Largest investigation in journalism history exposes a shadow financial system that benefits the world’s most rich and powerful. ([Article](https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful)) ([HN](https://news.ycombinator.com/item?id=28738407)) ([HN](https://news.ycombinator.com/item?id=28738450)) ([Reddit](https://www.reddit.com/r/worldnews/comments/q0ibjr/pandora_papers_most_expansive_expose_of_financial/)) ([Reddit](https://www.reddit.com/r/worldnews/comments/q0v52w/pandora_papers_biggest_ever_leak_of_offshore_data/))
+- [ExpatFinance.us](https://www.expatfinance.us/home) - Resources for bureaucratic and financial matters when moving to a new country.
+- [Stripe's low-hanging fruits (2021)](https://twitter.com/patrickc/status/1450208990974021635)
+- [How you can track your personal finances using Python](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/) ([Lobsters](https://lobste.rs/s/uq4vpy/how_you_can_track_your_personal_finances))
+- [How credit cards make money (2021)](https://bam.kalzumeus.com/archive/how-credit-cards-make-money/) ([HN](https://news.ycombinator.com/item?id=29121353))
+- [Bits about Money by Patrick McKenzie (patio11)](https://bam.kalzumeus.com/) - About the modern financial infrastructure that the world sits atop of.
+- [Stripe for book-keeping tools (2021)](https://twitter.com/maccaw/status/1457509961970372608)
+- [Which Stripe improvement you want to see most (2021)](https://twitter.com/patrickc/status/1458263819776512001)
+- [Debit cards are hidden financial infrastructure (2021)](https://bam.kalzumeus.com/archive/debit-cards-are-hidden-financial-infrastructure/) ([HN](https://news.ycombinator.com/item?id=29206462))
+- [Breaking down the 'payment for order flow' debate (2021)](https://a16z.com/2021/02/17/payment-for-order-flow/) ([HN](https://news.ycombinator.com/item?id=29210628))
+- [Wise](https://wise.com/) - Online Money Transfers | International Banking Features.
+- [An Introduction to Machine Learning in Quantitative Finance](https://github.com/deepintomlf/mlfbook)
+- [Modern Treasury](https://www.moderntreasury.com/) - Makes payment operations simple, scalable and secure.
+- [Ucelofka](https://github.com/shenek/ucelofka) - Simple program to issue invoices (CLI/Web).
+- [Building Stripe Tax (2021)](https://stripe.com/blog/building-stripe-tax)
+- [Arc Invoice](https://arcinvoice.com/) - Free Invoicing App for Freelancers and Small Businesses. ([Code](https://github.com/Panshak/arcinvoice))
+- [Monzo](https://monzo.com/) - Online bank based in the United Kingdom. ([GitHub](https://github.com/monzo)) ([Awesome](https://github.com/rdingwall/awesome-monzo))
+- [Wealthsimple](https://www.wealthsimple.com/en-gb/) - Powerful financial tools to help you grow and manage your money. ([Twitter](https://twitter.com/wealthsimple))
+- [Bank transfers as a payment method (2021)](https://bam.kalzumeus.com/archive/bank-transfers-as-a-payment-method/) ([HN](https://news.ycombinator.com/item?id=29357215))
+- [Advances in Financial Machine Learning](https://github.com/jjakimoto/finance_ml)
+- [Primer](https://primer.io/) - No code automation for payments.
+- [Quant-Finance-Resources](https://github.com/PyPatel/Quant-Finance-Resources)
+- [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
+- [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading)
+- [Learn Accounting for Free](https://www.accountingcoach.com/) ([HN](https://news.ycombinator.com/item?id=29625571))
+- [Scamwicks and Stop Cascades (2021)](https://www.machow.ski/posts/scamwicks-and-stop-cascades/)
+- [Leverage, Liquidation and Insurance Funds (2021)](https://www.machow.ski/posts/leverage_liquidation_and_insurance_funds/)

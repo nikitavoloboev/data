@@ -1,13 +1,28 @@
 # Chess
 
-Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) & enjoy watching [great chess games](https://lichess.org/games) & listening to [game analysis](https://www.youtube.com/user/RosenChess/videos). [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx), [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) &
+Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) & enjoy watching [great chess games](https://lichess.org/games) & listening to [game analysis](https://www.youtube.com/user/RosenChess/videos). [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen), [Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi), [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx), [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) &
 [Teimour Radjabov](https://www.youtube.com/c/TeimourRadjabovChess/videos) games are joy to watch.
 
 [Gotham Chess](https://www.youtube.com/c/GothamChess/videos), [Eric Rosen](https://www.youtube.com/user/RosenChess/videos) and [Daniel Naroditsky](https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw/videos) have lots of videos to learn Chess from + enjoyable commentary.
 
 ## Nice players
 
+- [Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)
 - [Jan-Krzysztof Duda](https://www.youtube.com/results?search_query=Jan-Krzysztof+Duda)
+- [Morozevich, Alexander](https://ratings.fide.com/profile/4116992)
+- [Vladimir Kramnik](https://www.chess.com/players/vladimir-kramnik)
+- [Alireza Firouzja](https://www.chess.com/member/firouzja2003)
+- [Boris Gelfand](https://www.chess.com/member/remontada2017)
+
+## Favorite games
+
+- [World Chess Championship: Magnus vs Ian Game 2 (2021)](https://www.youtube.com/watch?v=CcXcdoG0W2c&t=2s) ([Talk after](https://www.youtube.com/watch?v=ld-RZLyWrvg)) ([Reddit](https://www.reddit.com/r/chess/comments/r3i5m5/2021_world_championship_game_2_post_game_player/))
+- [Carlsen-Morozevich, World Blitz Championship 2012](https://www.youtube.com/watch?v=-wRdgOllrzM)
+- [World Chess Championship: Magnus vs Ian Game 6 (2021)](https://www.youtube.com/watch?v=PmQs1KhB948) ([HN](https://news.ycombinator.com/item?id=29434818)) ([Reddit](https://www.reddit.com/r/chess/comments/r882k8/postgame_thread_2021_world_chess_championship/))
+
+## Interesting openings
+
+- [Ruy Lopez](https://www.reddit.com/r/chess/comments/r8qdqq/can_someone_explain_why_the_ruy_lopez_is_so/)
 
 ## Notes
 
@@ -132,3 +147,28 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [node-chess](https://github.com/brozeph/node-chess) - Algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated).
 - [Mathematician Answers Chess Problem About Attacking Queens (2021)](https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/) ([HN](https://news.ycombinator.com/item?id=28605220))
 - [Micro-Max](https://home.hccnet.nl/h.g.muller/max-src2.html) - 133-line Chess Source. ([HN](https://news.ycombinator.com/item?id=28621143))
+- [Grandmaster Solves Master-Level Puzzles (2021)](https://www.youtube.com/watch?v=NpJfOYoEUK4)
+- [Coronate](https://github.com/johnridesabike/coronate) - Swiss-style chess tournament management app. ([Web](https://coronate.netlify.app/))
+- [Fast anti-chess simulator for RL in C](https://github.com/RajGhugare19/MyAntiChess)
+- [ChessCoach](https://chrisbutner.github.io/ChessCoach/) - Neural chess engine that comments on each player's moves. ([HN](https://news.ycombinator.com/item?id=28765183)) ([Code](https://github.com/chrisbutner/ChessCoach)) ([Data Used](https://github.com/chrisbutner/ChessCoachData))
+- [Thoughts on chess improvement, after gaining 600 points in 6 months (1200-1800)](https://mbuffett.com/posts/chess_improvement_thoughts/) ([HN](https://news.ycombinator.com/item?id=28787221))
+- [poirebot](https://github.com/aramperes/poirebot) - Chess engine and bot written in Rust.
+- [How to Calculate the Trappiest Openings in Chess Using Stats (2021)](https://medium.com/applied-data-science/how-to-calculate-the-trappiest-openings-in-chess-2bc24a6345f7) ([HN](https://news.ycombinator.com/item?id=28887015))
+- [Blunder](https://github.com/algerbrex/blunder) - UCI compatible chess engine written in Go.
+- [Drofa](https://github.com/justNo4b/Drofa) - UCI chess engine written in C++.
+- [How long does it take ordinary people to “get good” at chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md) ([HN](https://news.ycombinator.com/item?id=29035416))
+- [React chess piece component](https://github.com/chessire-cat/pieces)
+- [Acquisition of Chess Knowledge in AlphaZero (2021)](https://arxiv.org/abs/2111.09259) ([Article](https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero)) ([HN](https://news.ycombinator.com/item?id=29272000))
+- [Typesetting Chess in LATEX with the skak Package (2018)](http://tug.ctan.org/fonts/skak/doc/skakdoc.pdf)
+- [How Magnus Carlsen Became World Champion (2021)](https://www.youtube.com/watch?v=RcXZDc9T02I)
+- [Why you should play the Sicilian (2021)](https://www.youtube.com/watch?v=P7ig6AFXB00)
+- [Your favorite chess openings (2021)](https://www.reddit.com/r/chess/comments/r79is6/which_openingvariation_is_your_favorite_even/)
+- [The Top Chess Players in the World - Chess.com](https://www.chess.com/players)
+- [Chess Database](https://www.chess.com/games)
+- [Who is the most accurate world chess champion? (2021)](https://lichess.org/blog/YafSBxEAACIAr0ZA/exact-exacting-who-is-the-most-accurate-world-champion) ([HN](https://news.ycombinator.com/item?id=29414065))
+- [Chess.com vs. Lichess (2021)](https://siddhesh.substack.com/p/chesscom-vs-lichess) ([HN](https://news.ycombinator.com/item?id=29572447))
+- [Интервью с Даниилом Дубовым // Шахматный мир после пандемии (2021)](https://www.youtube.com/watch?v=IWn69iKehO0)
+- [Chesspecker](https://www.chesspecker.com/) - Open-source app to practice chess. ([Code](https://github.com/chesspecker/backend))
+- [Where is each chess piece usually captured? Data from 15000 games](https://www.reddit.com/r/dataisbeautiful/comments/npscky/oc_where_is_each_chess_piece_usually_captured/)
+- [Сергей Карякин и Теймур Раджабов: сахар для ума (Kuji Podcast) (2021)](https://www.youtube.com/watch?v=W8W13RTRn30)
+- [Halogen Chess engine](https://github.com/KierenP/Halogen) - Written in c++. Implements Null-move pruning, Late move reductions, Quiessence search and a Transposition table that uses Zobrist Hashing.

@@ -43,5 +43,13 @@
 - [udemy-dl](https://github.com/r0oth3x49/udemy-dl) - Cross-platform python based utility to download courses from Udemy for personal offline use.
 - [CourseLift](https://courselift.com/) - Build and Launch Courses That Sell.
 - [In Online Ed, Content Is No Longer King—Cohorts Are (2021)](https://future.a16z.com/cohort-based-courses/)
-- [Slip](https://www.slip.so/) - Build and sell interactive programming courses. ([HN](https://news.ycombinator.com/item?id=28141462)) ([GitHub](https://github.com/slipHQ))
+- [Slip](https://www.slip.so/) - Build and sell interactive programming courses. ([HN](https://news.ycombinator.com/item?id=28141462)) ([GitHub](https://github.com/slipHQ)) ([Tweet](https://twitter.com/KennethCassel/status/1470438097284390916))
 - [Stepik Course Catalog](https://stepik.org/catalog)
+- [Udemy](https://www.udemy.com/) - Online Courses - Learn Anything, On Your Schedule. ([HN](https://news.ycombinator.com/item?id=28758236))
+- [Maven](https://maven.com/) - Create and teach cohort-based courses. ([Twitter](https://twitter.com/mavenhq))
+- [AlterClass](https://alterclass.io/) - Platform for making and selling programming courses. ([HN](https://news.ycombinator.com/item?id=29531434))
+- [Awesome Course](https://www.awesomecourse.dev/) - Create awesome courses that let your audience learn by coding. ([Code](https://github.com/enesozturk/awesome-course))
+- [Course Platform](https://github.com/m-abdelwahab/course-platform) - Uses NextJS/Prisma.
+- [How I built the course platform for Rust for JavaScript Developers](https://twitter.com/chatsidhartha/status/1473745114396725248)
+- [Pathbird](https://pathbird.com/) - Platform for instructors to build interactive, engaging, inquiry-based lessons for computational courses. ([GitHub](https://github.com/pathbird))
+- [NUSMods](https://github.com/nusmodifications/nusmods) - Official course catalogue, module search and timetable builder for the National University of Singapore.

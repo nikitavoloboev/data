@@ -1,5 +1,9 @@
 # Progressive web apps (PWA)
 
+## Notes
+
+- [Lyft saw 40% more "Install PWA" clicks vs "Download app".](https://twitter.com/develwoutacause/status/1445477194885591040)
+
 ## Links
 
 - [Progressive Web Apps on iOS are here](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7)
@@ -22,3 +26,6 @@
 - [Building multiple Progressive Web Apps on the same domain (2021)](https://web.dev/building-multiple-pwas-on-the-same-domain/)
 - [PWA Tricks](https://github.com/karlhorky/pwa-tricks) - Collection of helpful tricks for PWAs.
 - [pwa-lit-template](https://github.com/IBM/pwa-lit-template) - Template for building Progressive Web Applications using LitElement and Vaadin Router.
+- [What does it take to be installable? (2020)](https://web.dev/install-criteria/) ([Tweet](https://twitter.com/tomayac/status/1450861305108340738))
+- [Publish your PWA to the iOS App Store (2021)](https://blog.pwabuilder.com/posts/publish-your-pwa-to-the-ios-app-store/) ([HN](https://news.ycombinator.com/item?id=29040793))
+- [PWABuilder pwa-starter](https://github.com/pwa-builder/pwa-starter) - Opinionated, best practices, production tested starter that we use to build all of our PWAs.

@@ -15,7 +15,7 @@
 - [Common Expression Language](https://github.com/google/cel-spec) - Implements common semantics for expression evaluation, enabling different applications to more easily interoperate. ([HN](https://news.ycombinator.com/item?id=25377620))
 - [Awesome Unified](https://github.com/unifiedjs/awesome-unified)
 - [Essentials of Interpretation (2020)](http://dmitrysoshnikov.com/courses/essentials-of-interpretation/) ([HN](https://news.ycombinator.com/item?id=22549265))
-- [pest](https://github.com/pest-parser/pest) - General purpose parser written in Rust with a focus on accessibility, correctness, and performance. ([Web](https://pest.rs/))
+- [pest](https://github.com/pest-parser/pest) - General purpose parser written in Rust with a focus on accessibility, correctness, and performance. ([Web](https://pest.rs/)) ([Lobsters](https://lobste.rs/s/nplikm/pest_parser_rust_using_pegs))
 - [Simple but Powerful Pratt Parsing (2020)](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
 - [Reasoning About Recursive Tree Traversals (2019)](https://arxiv.org/pdf/1910.09521.pdf)
 - [unist](https://github.com/syntax-tree/unist) - Specification for syntax trees.
@@ -63,7 +63,7 @@
 - [Waxeye Parser Generator](https://github.com/waxeye-org/waxeye) - Parser generator based on parsing expression grammars (PEGs).
 - [rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust.
 - [Rust - Writing Parsers With nom Parser Combinator Framework (2021)](https://iximiuz.com/en/posts/rust-writing-parsers-with-nom/)
-- [GrammKit](https://github.com/dundalek/GrammKit) - Tool for generating syntax diagrams (also known as railroad diagrams) for parser grammars.
+- [GrammKit](https://dundalek.com/grammkit/) - Tool for generating syntax diagrams (also known as railroad diagrams) for parser grammars. ([Code](https://github.com/dundalek/GrammKit))
 - [PyParsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers.
 - [On Parsers](https://wiki.alopex.li/OnParsers) ([Lobsters](https://lobste.rs/s/7it43u/on_parsers))
 - [Casual Parsing in JavaScript (2021)](https://www.brandons.me/blog/casual-parsing-javascript)
@@ -71,3 +71,13 @@
 - [Kaitai Struct](https://kaitai.io/) - Declarative binary format parsing language. ([Lobsters](https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format))
 - [Parser toolkit](https://github.com/MasterQ32/parser-toolkit) - Toolkit that makes it easier to write recursive-descent parsers in Zig.
 - [TatSu Jobs](https://github.com/neogeny/TatSu) - Generates Python parsers from grammars in a variation of EBNF.
+- [Progger](https://github.com/Jezza/progger) - Simple set of parser and lexer tools. Built on top of logos and bumpalo.
+- [Types of Parser Combinators (2021)](https://sgt.hootr.club/molten-matter/types-of-parser-combinators/) ([Lobsters](https://lobste.rs/s/5agmsv/types_parser_combinators)) ([HN](https://news.ycombinator.com/item?id=29246227))
+- [Parsing Permutations (2021)](https://blog.drewolson.org/parsing-permutations)
+- [Tree Sitter and the Complications of Parsing Languages](https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages) ([HN](https://news.ycombinator.com/item?id=29327424))
+- [Linguistics Tree Solver](https://adambcomer.com/lin-tree-solver/) - Tool automatically builds linguistics syntax trees. ([Code](https://github.com/adambcomer/lin-tree-solver))
+- [Practical parsing with Flex and Bison (2021)](https://begriffs.com/posts/2021-11-28-practical-parsing.html)
+- [A map of the tree-sitter ecosystem (2021)](https://dcreager.net/tree-sitter/map/)
+- [Getting started with tree-sitter (2021)](https://dcreager.net/tree-sitter/getting-started/)
+- [Participle](https://github.com/alecthomas/participle) - Dead simple parser package for Go.
+- [Genre as Weak Supervision for Cross-lingual Dependency Parsing (2021)](https://aclanthology.org/2021.emnlp-main.393/) ([Code](https://github.com/personads/ud-selection))

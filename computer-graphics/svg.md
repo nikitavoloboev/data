@@ -3,7 +3,7 @@
 ## Links
 
 - [Zdog](https://zzz.dog/) - Flat, round, designer-friendly pseudo-3D engine.
-- [Rough.js](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance.
+- [Rough.js](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance. ([Web](https://roughjs.com/))
 - [SVG illustrations as React Components](https://blog.prototypr.io/svg-illustrations-as-react-components-f0e7be304eb6)
 - [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg) ([Lobsters](https://lobste.rs/s/luuqzc/svg_is_telescope_into_another_world))
 - [Transform SVG into React Components using SVGR (2017)](https://gregberge.com/blog/svg-to-react-component-with-svgr)
@@ -97,3 +97,29 @@
 - [Drauu](https://drauu.netlify.app/) - Headless SVG-based drawboard in browser. ([Code](https://github.com/antfu/drauu))
 - [svg-pan-zoom](https://github.com/bumbu/svg-pan-zoom) - JavaScript library that enables panning and zooming of an SVG in an HTML document, with mouse events or custom JavaScript hooks.
 - [Basic Pattern Repository](https://patterns.helloyes.dev/) - Simple patterns for <use>. Just SVG - for your delight. ([Code](https://github.com/nachtfunke/basic-pattern-repository))
+- [Which SVG technique performs best for way too many icons? (2021)](https://cloudfour.com/thinks/svg-icon-stress-test/)
+- [svgen](https://github.com/vkottler/svgen) - Tool for working with scalable vector graphics.
+- [tldraw/svg](https://github.com/tldraw/svg) - SVG utility functions used by tldraw.
+- [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter. ([Code](https://github.com/visioncortex/vtracer))
+- [llline](https://fffuel.co/llline/) - Smooth SVG Line/Stroke Generator.
+- [Scour](https://github.com/scour-project/scour) - SVG optimizer/cleaner written in Python that reduces the size of scalable vector graphics by optimizing structure and removing unnecessary data.
+- [Flip, Invert, and Reverse (2021)](https://yuanchuan.dev/flip-invert-reverse) - 3 kinds of transformations for the SVG path commands.
+- [resvg-js](https://github.com/yisibl/resvg-js) - High-performance SVG renderer, powered by Rust based resvg and napi-rs.
+- [SVGcode](https://svgco.de/) - Convert raster images to SVG vector graphics. ([Article](https://web.dev/svgcode/)) ([Code](https://github.com/tomayac/SVGcode)) ([Video](https://www.youtube.com/watch?v=kcvfyQh6J-0))
+- [Pablo](https://github.com/premasagar/pablo) - Lightweight, expressive JavaScript SVG library. ([Web](http://pablojs.com/)) ([HN](https://news.ycombinator.com/item?id=29287595))
+- [shape2path](https://github.com/HarryStevens/shape2path) - Convert SVG shapes to SVG paths.
+- [SVG.js](https://github.com/svgdotjs/svg.js) - Lightweight library for manipulating and animating SVG.
+- [Country Flags in SVG](https://flagicons.lipis.dev/) ([Code](https://github.com/lipis/flag-icons))
+- [SVG Silh](https://svgsilh.com/) - Free SVG Image & Icon.
+- [svgson](https://github.com/elrumordelaluz/svgson) - Transform SVG files to JSON notation.
+- [goodgraphics](https://github.com/romellogoodman/goodgraphics.js) - Library for scripting SVGs.
+- [svg-path-reverse](https://github.com/Pomax/svg-path-reverse) - SVG path reversal library.
+- [png2svg](https://github.com/xyproto/png2svg) - Go module and command line utility for converting small PNG images to SVG Tiny 1.2.
+- [SVGO Components](https://github.com/svg/svgo-components) - Transform SVG into components for various frameworks.
+- [foosvg](https://github.com/AldaronLau/foosvg) - SVG rendering library in pure Rust.
+- [Cubic Bézier: From Math to Motion (2021)](https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion/) ([HN](https://news.ycombinator.com/item?id=29513750))
+- [svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module.
+- [svg](https://github.com/rustyoz/svg) - Go library for parsing svg files.
+- [three-plotter-renderer](https://github.com/neurofuzzy/three-plotter-renderer) - SVG renderer with occlusion for plotters and SVG editors.
+- [WasmSVGGraphics](https://github.com/coastalwhite/WasmSVGGraphics) - Rust library for rendering SVG Graphics with WASM.
+- [TinyVG](https://tinyvg.tech/) - Challenger to the throne of vector graphics. ([Article](https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8)) ([HN](https://news.ycombinator.com/item?id=29629792)) ([Code](https://github.com/TinyVG/sdk)) ([Spec](https://github.com/TinyVG/specification)) ([Lobsters](https://lobste.rs/s/09wnbp/challenger_throne_vector_graphics_svg_is))

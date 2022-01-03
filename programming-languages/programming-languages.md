@@ -2,6 +2,10 @@
 
 There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-math-to-machine.html) that goes over how one program can be written in different languages from the most abstract level of Math to Haskell to C to Assembly to actual machine code.
 
+## Notes
+
+- [I have a very concrete approach for creating categorical models/semantics for PLs. I express the syntax as a GADT, wrap it with a free(r) monad, then work with the resulting kleisli category.](https://twitter.com/tangled_zans/status/1441434927149420547)
+
 ## Links
 
 - [Awesome programming languages](https://github.com/learn-anything/programming-languages)
@@ -118,7 +122,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [What's the Deal with Message Passing, Anyway (2020)](https://buttondown.email/hillelwayne/archive/whats-the-deal-with-message-passing-anyway/) ([Lobsters](https://lobste.rs/s/k0lx87/what_s_deal_with_message_passing_anyway))
 - [Things that are not strings (2020)](https://frantic.im/no-strings) ([Lobsters](https://lobste.rs/s/wjpj6n/things_are_not_strings))
 - [ICFP 2020](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4fOgwO5RUTrpgSA_HRjDMW)
-- [Essentials of Programming Languages](http://eopl3.com/) ([Code](https://github.com/mwand/eopl3)) ([HN](https://news.ycombinator.com/item?id=24324653)) ([Code in Racket](https://github.com/qdwang/eopl))
+- [Essentials of Programming Languages](http://eopl3.com/) ([Code](https://github.com/mwand/eopl3)) ([HN](https://news.ycombinator.com/item?id=24324653)) ([Code in Racket](https://github.com/qdwang/eopl)) ([Solutions in Scheme](https://github.com/chenyukang/eopl))
 - [UW PLSE](http://uwplse.org/) - University of Washington Programming Languages and Software Engineering. ([GitHub](https://github.com/uwplse))
 - [Your Language Sucks, It Doesn’t Matter (2020)](https://matklad.github.io//2020/09/13/your-language-sucks.html) ([Lobsters](https://lobste.rs/s/zp2pqd/your_language_sucks_it_doesn_t_matter))
 - [Energy Efficiency across Programming Languages (2017)](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) ([HN](https://news.ycombinator.com/item?id=24642134))
@@ -193,6 +197,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Ask HN: How to study programming language theory as a non CS student? (2021)](https://news.ycombinator.com/item?id=26657907)
 - [Wuffs the Language](https://github.com/google/wuffs/blob/main/doc/wuffs-the-language.md) ([Lobsters](https://lobste.rs/s/kuv1lj/wuffs_language)) ([HN](https://news.ycombinator.com/item?id=26731305))
 - [Introducing Dawn (Part 1) (2021)](<https://www.dawn-lang.org/posts/introducing-dawn-(part-1)/>) ([Lobsters](https://lobste.rs/s/rqc2sj/introducing_dawn_part_1))
+- [Dawn languagea](https://www.dawn-lang.org/)
 - [Why concatenative programming matters (2012)](https://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 - [PLTalk links](https://github.com/jeanqasaur/pltalk)
 - [Crash Course on Notation in Programming Language Theory (2012)](http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html)
@@ -238,3 +243,51 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [First-class Names for Effect Handlers (2021)](https://www.youtube.com/watch?v=3HsI4__8RQM&list=PLyrlk8Xaylp6Q52MwsRZBUSIRL3wOk_k1&index=5)
 - [Is it better to teach beginner coders a low level or a high level language as their first language? (2021)](https://lobste.rs/s/ulvsxt/is_it_better_teach_beginner_coders_low)
 - [Cuddly, Octo-Palm Tree: Cheap interpreter, part 1: overview (2021)](https://cuddly-octo-palm-tree.com/posts/2021-06-19-cwafi-1/)
+- [Code2flow](https://github.com/scottrogowski/code2flow) - Generates call graphs for dynamic programming language.
+- [The seven programming ur-languages (2021)](https://madhadron.com/posts/seven_languages.html) ([Lobsters](https://lobste.rs/s/kwpyt8/seven_programming_ur_languages))
+- [Programming languages resources](https://bernsteinbear.com/pl-resources/)
+- [Implicit Overflow Considered Harmful (and how to fix it) (2021)](https://blog.polybdenum.com/2021/10/03/implicit-overflow-considered-harmful-and-how-to-fix-it.html) ([Lobsters](https://lobste.rs/s/5tuhxf/implicit_overflow_considered_harmful))
+- [Project Verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership. ([Web](https://microsoft.github.io/verona/)) ([Lobsters](https://lobste.rs/s/bh2epv/project_verona))
+- [Beyond ProgrammingLanguages (1979)](https://john.cs.olemiss.edu/~dwilkins/Seminar/S05/winogradPL.pdf) ([Lobsters](https://lobste.rs/s/k0cucj/beyond_programming_languages_1979))
+- [tree-sitter-graph](https://github.com/tree-sitter/tree-sitter-graph) - Construct graphs from parsed source code.
+- [Correct by Construction Language Implementations (2021)](https://ajrouvoet.github.io/files/thesis.pdf) ([Tweet](https://twitter.com/PerezJorgeA_/status/1448902148264284164))
+- [How do you write code in statically-typed functional programming languages (2021)](https://twitter.com/jplubin/status/1449159815058522115)
+- [LangSandbox](https://github.com/ftomassetti/LangSandbox) - Project to illustrate how to build a programming language.
+- [Toward a Theory of Programming Language and Reasoning Assistant Design: Minimizing Cognitive Load (2021)](https://arxiv.org/abs/2110.03806v1)
+- [Comparison of enumerations and similar features in different languages](https://github.com/Crell/enum-comparison)
+- [Static Analysis: An Introduction (2021)](https://queue.acm.org/detail.cfm?id=3487021)
+- [Static Analysis at GitHub (2021)](https://queue.acm.org/detail.cfm?id=3487022)
+- [Most accessible programming language (2021)](https://twitter.com/ellenkorbes/status/1452437940299309063)
+- [Ask HN: If you designed a new programming language, what would its features be? (2021)](https://news.ycombinator.com/item?id=29092998)
+- [glot.io](https://glot.io/) - Open source pastebin with runnable snippets and API. ([Code](https://github.com/glotcode/glot-www))
+- [1001 Representations of Syntax with Binding (2021)](https://jesper.sikanda.be/posts/1001-syntax-representations.html) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/qnm5n6/1001_representations_of_syntax_with_binding/))
+- [Chigraph](https://chigraph.io/) - Visual systems language for beginners compiled using LLVM. ([Code](https://github.com/chigraph/chigraph))
+- [Which programming language is fastest?](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) - Website that shows toy-program performance measurements for ~24 language implementations. ([Code](https://salsa.debian.org/benchmarksgame-team/benchmarksgame))
+- [What's your favorite GC-based language? (2021)](https://twitter.com/sunshowers6/status/1457162357591838721)
+- [Selecting a programming language can be a form of premature optimization (2021)](https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/)
+- [Shawn Wang - Growing a Meta-Language (2021)](https://www.youtube.com/watch?v=Dz4q_bNDqfo)
+- [Kindly Bent to Free Us (2019)](https://arxiv.org/abs/1908.09681)
+- [Microsoft Power Fx](https://github.com/microsoft/power-fx) - Low-code general purpose programming language based on spreadsheet-like formulas. ([Article](https://powerapps.microsoft.com/en-us/blog/power-fx-open-source-now-available/)) ([HN](https://news.ycombinator.com/item?id=29261413))
+- [Undefined Behavior deserves a better reputation (2021)](https://blog.sigplan.org/2021/11/18/undefined-behavior-deserves-a-better-reputation/) ([Lobsters](https://lobste.rs/s/llbhtg/undefined_behavior_deserves_better))
+- [Runno](https://runno.dev/) - Helps you make runnable code examples that can be embedded in web pages. ([Code](https://github.com/taybenlor/runno))
+- [Pattern matching in concatenative programming languages (2009)](http://micsymposium.org/mics_2009_proceedings/mics2009_submission_72.pdf)
+- [Static Value-Flow Analysis Framework for Source Code](https://github.com/SVF-tools/SVF)
+- [Dynamic Languages Strike Back (2008)](http://steve-yegge.blogspot.com/2008/05/dynamic-languages-strike-back.html)
+- [Are there any ML style languages with no runtime? (2021)](https://www.reddit.com/r/ProgrammingLanguages/comments/r28x49/are_there_any_ml_style_languages_with_no_runtime/)
+- [Tao](https://github.com/zesterer/tao) - Statically-typed functional programming language.
+- [Do we really need Undefined Behavior? (2021)](https://www.ralfj.de/blog/2021/11/24/ub-necessary.html) ([HN](https://news.ycombinator.com/item?id=29435263))
+- [Shepherd](https://github.com/NerdWalletOSS/shepherd) - Utility for applying code changes across many repositories.
+- ["Incremental, zero-config Code Nav using stack graphs" by Douglas Creager (2021)](https://www.youtube.com/watch?v=l2R1PTGcwrE) ([Web](https://dcreager.net/talks/2021-strange-loop/))
+- [How I wrote my own "proper" programming language (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
+- [Awesome Program Analysis](https://github.com/pfalcon/awesome-program-analysis)
+- [Code Generation for Higher Inductive Types (2018)](https://arxiv.org/abs/1808.08330)
+- [Ask HN: How would a programming language look if designed by non-programmer (2021)](https://news.ycombinator.com/item?id=29590681)
+- [Nice esoteric compilers (2021)](https://twitter.com/phil_eaton/status/1472389751223246854)
+- [A Brief Introduction to Esoteric Languages (2021)](https://hillelwayne.com/talks/esolangs/) ([Video](https://www.youtube.com/watch?v=cQ7bcCrJMHc))
+- [Awesome Alt Languages](https://github.com/ostera/awesome-alt-langs)
+- [Go Static or Go Home (2015)](https://queue.acm.org/detail.cfm?id=2721993) - In the end, dynamic systems are simply less secure.
+- [Features of a dream programming language (2021)](https://dev.to/redbar0n/features-of-a-dream-programming-language-cio) ([HN](https://news.ycombinator.com/item?id=29716998))
+- [Ask HN: What is your favorite programming language and why? (2021)](https://news.ycombinator.com/item?id=29715237)
+- [Programing Language Documentations](https://github.com/FrankHB/pl-docs)
+- [Profile Guided Optimization without Profiles: A Machine Learning Approach (2021)](https://arxiv.org/abs/2112.14679)
+- [Automated Code Optimization with E-Graphs (2021)](https://arxiv.org/abs/2112.14714) ([HN](https://news.ycombinator.com/item?id=29775477))

@@ -12,9 +12,9 @@ I share everything I am to up now there.
 
 I share photos and stories from my life there. I also curate a small page of [beautiful pictures](https://www.instagram.com/prettiways/).
 
-## Knowledge in [wiki](../README.md), [blog](https://medium.com/@nikitavoloboev) & [snippets](https://epictools.dev)
+## Knowledge in [wiki](../README.md) & [blog](https://medium.com/@nikitavoloboev)
 
-I share [everything I know](everything-I-know.md) in form of this wiki, [articles I wrote](my-articles.md) & [code snippets](https://epictools.dev). Can query everything using search on top or with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+I share [everything I know](everything-I-know.md) in form of this wiki & [articles I wrote](my-articles.md). Can query everything using search on top or with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 
 ## Music on [Spotify](https://open.spotify.com/user/nikitavoloboev)
 

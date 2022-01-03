@@ -80,3 +80,31 @@
 - [R Posts You Might Have Missed (2020)](https://alastairrushworth.github.io/R-Posts-You-Might-Have-Missed!/)
 - [scattermore](https://github.com/exaexa/scattermore) - Very fast scatterplots for R.
 - [spatialRF](https://github.com/BlasBenito/spatialRF) - Easy Spatial Regression with Random Forest.
+- [pins](https://github.com/rstudio/pins) - Pin, Discover and Share Resources.
+- [fabricatr](https://github.com/DeclareDesign/fabricatr) - Imagine Your Data Before You Collect It.
+- [DeclareDesign](https://github.com/DeclareDesign) - Tools for declaring and diagnosing the properties of research designs. ([GitHub](https://github.com/DeclareDesign))
+- [capsule](https://github.com/MilesMcBain/capsule) - Inversion of renv for low effort reproducible R package libraries.
+- [see](https://github.com/easystats/see) - Visualization toolbox for beautiful and publication-ready figures.
+- [lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier.
+- [butcher](https://github.com/tidymodels/butcher) - Reduce the size of model objects saved to disk.
+- [Awesome R package development](https://github.com/IndrajeetPatil/awesome-r-pkgtools)
+- [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `{ggplot2}` plots with statistical analysis.
+- [esquisse](https://github.com/dreamRs/esquisse) - RStudio add-in to make plots interactively with ggplot2.
+- [GitHub Actions for the R language](https://github.com/r-lib/actions)
+- [Awesome R Data Viz](https://github.com/krzjoa/awesome-r-dataviz)
+- [datawizard](https://github.com/easystats/datawizard) - Lightweight package to easily manipulate, clean, transform, and prepare your data for analysis.
+- [glue](https://github.com/tidyverse/glue) - Glue strings to data in R. Small, fast, dependency free interpreted string literals.
+- [Hole punch](https://github.com/karthik/holepunch) - Make your R project Binder ready.
+- [Simple Features for R](https://github.com/r-spatial/sf)
+- [metafor](https://github.com/wviechtb/metafor) - Meta-analysis package for R.
+- [MetBrewer](https://github.com/BlakeRMills/MetBrewer) - Color palette package in R inspired by works at the Metropolitan Museum of Art in New York. ([Tweet](https://twitter.com/BlakeRobMills/status/1469749740871077893))
+- [RStudio](https://www.rstudio.com/products/rstudio/) - Integrated development environment (IDE) for R. ([Code](https://github.com/rstudio/rstudio))
+- [rocker](https://github.com/rocker-org/rocker) - R configurations for Docker.
+- [workflowr](https://github.com/jdblischak/workflowr) - Organized + reproducible + shareable data science in R.
+- [R project workflows](https://github.com/jdblischak/r-project-workflows)
+- [Rserve](http://www.rforge.net/Rserve/) - TCP/IP server which allows other programs to use facilities of R from various languages.
+- [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
+- [easystats](https://github.com/easystats/easystats) - Collection of R stats packages.
+- [containerit](https://github.com/o2r-project/containerit) - Packages R script/session/workspace and all dependencies as a Docker container by automagically generating a suitable Dockerfile.
+- [gghighlight](https://github.com/yutannihilation/gghighlight) - Highlight points and lines in ggplot2.
+- [string2path](https://github.com/yutannihilation/string2path) - R package to convert string to path.

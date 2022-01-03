@@ -1,6 +1,6 @@
 # [TypeScript](https://www.typescriptlang.org/)
 
-[TS Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html) and [this article](https://toddmotto.com/typescript-introduction) are great intros.
+[TS Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html) and [this article](https://toddmotto.com/typescript-introduction) are great intros. [Execute Program](https://www.executeprogram.com/) is amazing too.
 
 ## Notes
 
@@ -12,6 +12,7 @@
 - Tuples are very useful for simulating multiple returns like React hooks, and other combined values that don't need string object keys
 - [TS generics are basically functions that you invoke with <> instead of ()... but without optional _named_ param support... and a lot of other things that I would expect from a "function"](https://twitter.com/tannerlinsley/status/1387806690364465152)
 - [If it’s hard to type via TypeScript, I should probably rethink my design.](https://twitter.com/housecor/status/1422195449277059072)
+- [Properly name your generics. Generics are basically functions you give to developers to create parameterized types.](https://twitter.com/kentcdodds/status/1441504538993696770)
 
 ## Links
 
@@ -52,7 +53,7 @@
 - [OneFraction](https://github.com/TrillCyborg/onefraction) - React/ApolloGraphQL/Node/Mongo demo written in Typescript.
 - [TypeScript 3.0: The unknown Type (2019)](https://mariusschulz.com/blog/typescript-3-0-the-unknown-type)
 - [Lobsters: What have you learned from adopting Typescript into an existing JS codebase? (2019)](https://lobste.rs/s/3ucfhp/what_have_you_learned_from_adopting)
-- [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [React+TypeScript Cheat Sheets](https://github.com/typescript-cheatsheets/react) ([Web](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup))
 - [Using Typescript to make invalid states irrepresentable](http://www.javiercasas.com/articles/typescript-impossible-states-irrepresentable)
 - [High-level notes about TypeScript](https://github.com/orta/typescript-notes)
 - [TypeCov](https://github.com/codechecks/typecov) - Track missing type coverage to ensure type safety.
@@ -108,7 +109,7 @@
 - [TypeScript interactive course](https://www.executeprogram.com/courses/typescript)
 - [ts-migrate](https://github.com/airbnb/ts-migrate) - Tool to automatically migrate JavaScript projects to TS. ([HN](https://news.ycombinator.com/item?id=24204718))
 - [Exhaustive matching in TypeScript (2020)](https://www.dorfmeister.cc/blog/exhaustive-matching-in-type-script)
-- [TypeScript for Professionals (2020)](https://www.udemy.com/course/typescript-for-professionals/)
+- [TypeScript for Professionals (2020)](https://www.udemy.com/course/typescript-for-professionals/) ([Code](https://github.com/basarat/typescript-for-professionals))
 - [The Single-Valued Type Pattern for TypeScript (2020)](https://spin.atomicobject.com/2020/10/05/single-valued-type-pattern/)
 - [TypeScript in 50 Lessons book](https://www.smashingmagazine.com/printed-books/typescript-in-50-lessons/)
 - [TypeScript notes/links](https://joeprevite.com/typescript)
@@ -180,6 +181,41 @@
 - [Sindre's tsconfig](https://github.com/sindresorhus/tsconfig) - Shared TypeScript config for my projects.
 - [Designing delightful docs with Orta Therox, engineer on Microsoft's TypeScript compiler team (2021)](https://about.sourcegraph.com/podcast/orta-therox/)
 - [tsconfig-to-swcconfig](https://github.com/Songkeys/tsconfig-to-swcconfig) - Convert tsconfig to swc config.
+- [TypeScript to ES Module compiler](https://github.com/tszip/tszip)
+- [TypeScript BC](https://github.com/alshdavid/TypeScriptBC) - TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.
+- [Tricks I wish I knew when I learned TypeScript (2021)](https://www.cstrnt.dev/blog/three-typescript-tricks) ([HN](https://news.ycombinator.com/item?id=28837181))
+- [typescript-todo-or-die-plugin](https://github.com/ngnijland/typescript-todo-or-die-plugin) - TODO's that speak up for themselves via the TypeScript Language Server.
+- [Reconstructing TypeScript (2021)](https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0) ([Code](https://github.com/jaked/reconstructing-typescript))
+- [TypeScript Native Compiler using LLVM](https://github.com/ASDAlexander77/TypeScriptCompiler)
+- [ts-strictify](https://github.com/cschroeter/ts-strictify) - Runs TypeScript in strict mode on your changed files.
+- [Introduction to TypeScript with Josh Goldberg (2021)](https://www.youtube.com/watch?v=5_RIHHpQcoM)
+- [Making Illegal States Unrepresentable in TypeScript (2021)](https://www.youtube.com/watch?v=T7i2wlCqgJk) ([Code](https://github.com/YBogomolov/talk-making-illegal-states-unrepresentable))
+- [Stop catching errors in TypeScript; Use the Either type to make your code predictable (2021)](https://antman-does-software.com/stop-catching-errors-in-typescript-use-the-either-type-to-make-your-code-predictable) ([Reddit](https://www.reddit.com/r/typescript/comments/qelaqw/stop_catching_errors_in_typescript_use_the_either/))
+- [TypeType](https://github.com/mistlog/typetype) - Programming language designed for typescript type generation. ([Playground](https://mistlog.github.io/typetype-playground/))
+- [TSCC](https://github.com/theseanl/tscc) - Collection of tools to seamlessly bundle, minify Typescript with Closure Compiler.
+- [TypeScript: Control flow analysis for destructured discriminated unions](https://github.com/microsoft/TypeScript/pull/46266) ([HN](https://news.ycombinator.com/item?id=29099331))
+- [How the TypeScript Compiler Compiles - understanding the compiler internal (2021)](https://www.youtube.com/watch?v=X8k_4tZ16qU)
+- [Etsy’s Journey to TypeScript (2021)](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/) ([HN](https://news.ycombinator.com/item?id=29240789))
+- [Convert JSON to TypeScript](https://cryptojobslist.com/json-to-typescript)
+- [Speed up your TypeScript monorepo with esbuild (2021)](https://mmazzarolo.com/blog/2021-11-06-speed-up-your-typescript-monorepo-with-esbuild/)
+- [Tame VSCode autoimports in a TS monorepo](https://github.com/nandorojo/ts-monorepo-autoimport-guide)
+- [StaticScript](https://github.com/ovr/StaticScript) - TypeScript compiler on top of TypeScript as frontend and LLVM as backend.
+- [tsplay.dev](https://tsplay-dev.vercel.app/) - TypeScript Playground Shortener. ([Code](https://github.com/gillchristian/tsplay.dev))
+- [TypeScript's excess properties can bite you (2021)](https://www.executeprogram.com/blog/typescripts-excess-properties-can-bite-you)
+- [TS Patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality.
+- [ts-standardx](https://github.com/exuanbo/ts-standardx) - Configurable linter for TypeScript and JavaScript.
+- [macro-ts](https://github.com/blainehansen/macro-ts) - Ergonomic typescript compiler that enables typesafe syntactic macros. ([Article](https://blainehansen.me/post/macro-ts/))
+- [ts-analyze-trace](https://github.com/amcasey/ts-analyze-trace) - Tool for analyzing the output of `tsc --generateTrace`.
+- [Domain Modeling with Typescript (2021)](https://ikoshelev.azurewebsites.net/search/id/17/Pragmatic-uses-of-Typescript-type-system-04-Domain-Modeling-with-Typescript)
+- [Ivan Koshelev's TS articles](https://ikoshelev.azurewebsites.net/search/tags?tags=Typescript)
+- [TypeScript: The humble function overload (2021)](https://fettblog.eu/typescript-function-overload/)
+- [Kretes](https://kretes.dev/) - Programming Environment for TypeScript & Node.js. ([Code](https://github.com/kreteshq/kretes))
+- [dprint-plugin-typescript](https://github.com/dprint/dprint-plugin-typescript) - TypeScript formatting plugin for dprint.
+- [TypeScript for Pythonistas (2021)](https://medium.com/@Pilot-EPD-Blog/typescript-for-pythonistas-f90bbb297f0a) ([HN](https://news.ycombinator.com/item?id=29574948))
+- [Magic TypeScript](https://carltheperson.com/images/magic-typescript/magic-typescript.png) - Cheat sheet of TypeScript’s most important/magic features. ([Code](https://github.com/carltheperson/magic-typescript))
+- [TypeScript Functional Architecture](https://github.com/ryannhg/ts-functional-architecture) - TypeScript Functional Architecture, without using classes.
+- [TinyCompTS](https://github.com/AlexW00/TinyCompTS) - Tiny JS/TS compiler written in vanilla TS.
+- [Breaking down TypeScript generic utility type that recursively converted `Date` types into Firestore `Timestamp` types](https://twitter.com/benmvp/status/1473823066333454336)
 
 ## Images
 

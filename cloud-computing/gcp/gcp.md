@@ -38,3 +38,26 @@
 - [Sample blueprints for Google Cloud](https://github.com/GoogleCloudPlatform/blueprints)
 - [Google Cloud Deploy: Managed continuous delivery to GKE (2021)](https://cloud.google.com/blog/products/devops-sre/google-cloud-deploy-automates-deploys-to-gke)
 - [GCP ping](https://gcping.com/) - Measure your latency to GCP regions.
+- [Rowy](https://www.rowy.io/) - GCP as easy as ABC. ([Article](https://dev.to/harinilabs/gcp-as-easy-as-abc-a-low-code-platform-for-firestore-cloud-functions-deo)) ([Twitter](https://twitter.com/RowyIO)) ([HN](https://news.ycombinator.com/item?id=28758598))
+- [Listing of Rust crates for use with Google Cloud](https://github.com/paulgb/are-we-google-cloud-yet)
+- [gcpdiag](https://github.com/GoogleCloudPlatform/gcpdiag) - Command-line diagnostics tool for GCP customers.
+- [Native Google Cloud Pulumi Provider](https://github.com/pulumi/pulumi-google-native)
+- [Google Auth Library: Node.js Client](https://github.com/googleapis/google-auth-library-nodejs)
+- [GCP Tau VMs](https://cloud.google.com/tau-vm) - Compute Engine virtual machines optimized for scale-out workloads. ([Tweet](https://twitter.com/uhoelzle/status/1450881369114963973))
+- [Local Emulator for Google Cloud Storage](https://github.com/oittaa/gcp-storage-emulator)
+- [csi-gcs](https://github.com/ofek/csi-gcs) - Kubernetes CSI driver for Google Cloud Storage.
+- [Google Cloud Build Local Builder](https://github.com/GoogleCloudPlatform/cloud-build-local)
+- [cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp)
+- [Push to GCR GitHub Action](https://github.com/RafikFarhad/push-to-gcr-github-action)
+- [GCP Developer Center](https://cloud.google.com/developers) ([Code](https://github.com/GoogleCloudPlatform/community))
+- [gcloud](https://github.com/actions-hub/gcloud) - GitHub Action for interacting with Google Cloud Platform (GCP).
+- [Cloud Run: multiple processes in a container (the lazy way) (2019)](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/index.html) ([Code](https://github.com/ahmetb/multi-process-container-lazy-solution))
+- [Serving gRPC+HTTP from a Go app on Cloud Run (and elsewhere) (2021)](https://ahmet.im/blog/grpc-http-mux-go/)
+- [Deploying to Cloud Run with Go (2021)](https://ahmet.im/blog/cloud-run-deploy-api/)
+- [Bootstrap your Google Cloud Foundation with Terraform and Gitlab CI (2021)](https://johansiebens.dev/posts/2021/05/bootstrap-your-google-cloud-foundation-with-terraform-and-gitlab-ci/)
+- [Microservices Architecture on Google Cloud (2021)](https://cloud.google.com/blog/topics/developers-practitioners/microservices-architecture-google-cloud) ([HN](https://news.ycombinator.com/item?id=29294267))
+- [Cloud Run Proxy](https://github.com/GoogleCloudPlatform/cloud-run-proxy) - Local proxy for authenticating requests to Cloud Run.
+- [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun)
+- [Get up and running with Go on Google Cloud](https://github.com/einride/cloudrunner-go)
+- [Python Client for Google Cloud Storage](https://github.com/googleapis/python-storage)
+- [Google APIs Node.js Client](https://github.com/googleapis/google-api-nodejs-client)

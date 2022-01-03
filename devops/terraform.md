@@ -95,3 +95,38 @@
 - [Terraform is Not the Golden Hammer (2021)](https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/) ([HN](https://news.ycombinator.com/item?id=28583258))
 - [Terraform provider for generic REST APIs](https://github.com/Mastercard/terraform-provider-restapi)
 - [Anthology](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
+- [Creating A Terraform Provider (2018)](https://medium.com/spaceapetech/creating-a-terraform-provider-part-1-ed12884e06d7) ([Code](https://github.com/spaceapegames/terraform-provider-example))
+- [Cloudflare Terraforming](https://github.com/cloudflare/cf-terraforming) - Command line utility to facilitate terraforming your existing Cloudflare resources. It does this by using your account credentials to retrieve your configurations from the Cloudflare API and converting them to Terraform configurations.
+- [Terraform OVH Provider](https://github.com/ovh/terraform-provider-ovh)
+- [Abusing Terraform to Upload Static Websites to S3 (2021)](https://www.tangramvision.com/blog/abusing-terraform-to-upload-static-websites-to-s3) ([HN](https://news.ycombinator.com/item?id=28776287))
+- [Tools You Should Know About: Terraform (2021)](https://cuddly-octo-palm-tree.com/posts/2021-10-10-tyska-terraform/)
+- [Terraformsh](https://github.com/pwillis-els/terraformsh) - Bash script that makes it easier to run Terraform by performing common steps for you.
+- [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong)
+- [Terraform: From Beginner To Master: With Examples In AWS Book (2021)](https://leanpub.com/terraform-from-beginner-to-master) ([Course](https://www.educative.io/courses/terraform-beginner-master-aws)) ([Code](https://github.com/kevholditch/terraform-beginner-to-master-examples))
+- [tfschema-bindgen](https://github.com/gbrigandi/tfschema-bindgen) - Generate (de)serialization Rust code for Terraform Schema.
+- [Terraform AWS IAM System User](https://github.com/cloudposse/terraform-aws-iam-system-user) - Terraform Module to Provision a Basic IAM System User Suitable for CI/CD Systems.
+- [Terraform in Action Book (2021)](https://www.manning.com/books/terraform-in-action)
+- [Creating my personal cloud with HashiCorp (2021)](https://cgamesplay.com/post/2021/10/27/creating-my-personal-cloud-with-hashicorp/) ([HN](https://news.ycombinator.com/item?id=29020460))
+- [Personal Cloud IaC](https://github.com/CGamesPlay/infra) - My personal cloud server, hosted as a VPS.
+- [A comprehensive guide to managing secrets in your Terraform code (2020)](https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terraform-code-1d586955ace1)
+- [Terraform Provider Lint Tool](https://github.com/bflad/tfproviderlint)
+- [PoC Terraform Provider in Rust (2021)](https://tevps.net/blog/2021/11/7/poc-terraform-provider-rust/) ([Lobsters](https://lobste.rs/s/lztopq/poc_terraform_provider_rust)) ([Code](https://github.com/palfrey/terraform-provider-helloworld))
+- [Terraforge](https://terraforge.vercel.app/) - Graphical Terraform cofiguration generator. ([Code](https://github.com/badarsebard/terraforge))
+- [Auth0 Terraform Provider](https://github.com/alekc/terraform-provider-auth0)
+- [terraform-module-versions](https://github.com/keilerkonzept/terraform-module-versions) - CLI tool that checks Terraform code for module updates.
+- [Terraform Provider for ArgoCD](https://github.com/oboukili/terraform-provider-argocd)
+- [Terraform Controller](https://github.com/oam-dev/terraform-controller) - Kubernetes Controller for Terraform.
+- [m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip.
+- [Terraform provider for Spotify](https://github.com/conradludgate/terraform-provider-spotify) - Manage playlists.
+- [Terraform State Mover](https://github.com/mbode/terraform-state-mover) - Helps refactoring terraform code by offering an interactive prompt for the terraform state mv command.
+- [How GitHub uses Terraform/Consul/Vault](https://www.hashicorp.com/case-studies/github)
+- [TerraHub](https://github.com/tfxor/terrahub) - Terraform Automation and Orchestration Tool.
+- [Terravalet](https://github.com/Pix4D/terravalet) - Tool to help with advanced, low-level Terraform operations.
+- [terraform-k8s](https://github.com/hashicorp/terraform-k8s) - Terraform Cloud Operator for Kubernetes.
+- [Anton Babenko's Terraform, AWS, and DevOps projects](https://github.com/antonbabenko/terraform-aws-devops)
+- [Terraform Provider Boundary](https://github.com/hashicorp/terraform-provider-boundary) - Manage Boundary's identity-based access controls for resources provisioned with Terraform.
+- [Consul-Terraform-Sync](https://github.com/hashicorp/consul-terraform-sync) - Service-oriented tool for managing network infrastructure near real-time.
+- [Equinix Metal Terraform Provider](https://github.com/equinix/terraform-provider-metal)
+- [tfk8s](https://github.com/jrhouston/tfk8s) - Tool for converting Kubernetes YAML manifests to Terraform HCL.
+- [Helm Provider for Terraform](https://github.com/hashicorp/terraform-provider-helm) - Allows you to install and manage Helm Charts in your Kubernetes cluster using Terraform.
+- [Terraform Provider to manage NATS JetStream](https://github.com/nats-io/terraform-provider-jetstream)

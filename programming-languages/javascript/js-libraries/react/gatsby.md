@@ -26,6 +26,7 @@
 
 ## Plugins
 
+- [Gatsby plugin MeiliSearch](https://github.com/meilisearch/gatsby-plugin-meilisearch) - Plugin to index your Gatsby content to MeiliSearch based on graphQL queries.
 - [gatsby-remark-vscode](https://github.com/andrewbranch/gatsby-remark-vscode) - Gatsby plugin to provide VS Code’s syntax highlighting to Markdown code fences.
 - [gatsby-plugin-ebook](https://github.com/cowchimp/gatsby-plugin-ebook) - Creates an ebook from your Gatsby posts.
 - [gatsby-source-figma](https://github.com/fabe/gatsby-source-figma) - Gatsby plugin for using Figma documents as a data source.
@@ -83,3 +84,5 @@
 - [Build a Developer Blog with Gatsby (2021)](https://egghead.io/courses/build-a-developer-blog-with-gatsby-bd96)
 - [TypeScript starter for Gatsby](https://github.com/jpedroschmitz/gatsby-starter-ts) - Great for advanced users.
 - [Monetize Open-Source Software With Gatsby Functions And Stripe (2021)](https://www.smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/)
+- [Gatsby Discord](https://discord.com/invite/gatsby)
+- [Using Deferred Static Generation with Analytics Tools (2021)](https://www.gatsbyjs.com/blog/using-deferred-static-generation-with-analytics-tools/)

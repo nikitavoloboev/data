@@ -36,3 +36,13 @@
 - [cypress-axe](https://github.com/component-driven/cypress-axe) - Test accessibility with axe-core in Cypress.
 - [Cypress Visual Regression](https://github.com/mjhea0/cypress-visual-regression) - Module for adding visual regression testing to Cypress.
 - [Cypress GitHub Action](https://github.com/cypress-io/github-action)
+- [Cypress Real World App](https://github.com/cypress-io/cypress-realworld-app) - Payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
+- [cypress-cucumber-preprocessor](https://github.com/TheBrainFamily/cypress-cucumber-preprocessor) - Adds support for using feature files when testing with Cypress.
+- [cypress-network-idle](https://github.com/bahmutov/cypress-network-idle) - Little Cypress.io plugin for waiting for network to be idle before continuing with the test.
+- [cypress-recurse](https://github.com/bahmutov/cypress-recurse) - Way to re-run Cypress commands until a predicate function returns true.
+- [Cypress terminal report](https://github.com/archfz/cypress-terminal-report) - Better terminal and file output for cypress test logs.
+- [Next Cypress Dashboard](https://next-cypress-dashboard.vercel.app/home) - Open source alternative for the Cypress Dashboard. ([Code](https://github.com/umidbekk/next-cypress-dashboard))
+- [Using Cypress to test everything](https://github.com/riccardogiorato/cypress-for-everything)
+- [cypress-data-session](htmntps://github.com/bahmutov/ocypress-data-session) - Cypress command for flexible test data setup.
+- [My favorite Cypress plugins (2021)](https://cypresstips.substack.com/p/my-favorite-cypress-plugins-part)
+- [Cypress Tips Advent Calendar 2021](https://cypresstips.substack.com/p/my-favorite-cypress-plugins-part)

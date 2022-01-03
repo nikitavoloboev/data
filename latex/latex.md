@@ -8,11 +8,11 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 
 - [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
 - [Neat typesetting](http://tullo.ch/static/cambridge/TimeSeriesMonteCarlo-LectureNotes.pdf)
-- [Mathpix](https://mathpix.com/) - Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
+- [Mathpix](https://mathpix.com/) - Convert images of math and handwriting into LaTeX and text instantly. ([GitHub](https://github.com/Mathpix))
 - [My LaTeX Workflow: latexmk, ShareLaTeX, and StackEdit (2015)](https://jeremykun.com/2015/01/10/my-latex-workflow-latexmk-sharelatex-and-stackedit/)
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - LaTeX code for making neural networks diagrams.
 - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
-- [How I'm able to take notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/) ([HN](https://news.ycombinator.com/item?id=19448678))
+- [How I'm able to take notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/) ([HN](https://news.ycombinator.com/item?id=19448678)) ([HN](https://news.ycombinator.com/item?id=29143707))
 - [Managing LaTeX lecture notes](https://github.com/gillescastel/university-setup)
 - [Engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [LaTeX3 Development Repository](https://github.com/latex3/latex3) - Contains development material for LaTeX3.
@@ -90,3 +90,20 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [pgfplots](https://github.com/pgf-tikz/pgfplots) - Create normal/logarithmic plots in two and three dimensions for LaTeX/TeX/ConTeXt.
 - [PGF](https://github.com/pgf-tikz/pgf) - TeX macro package for generating graphics. ([Manual](https://pgf-tikz.github.io/pgf/pgfmanual.pdf))
 - [Simplified LNCS Template](https://github.com/latextemplates/LNCS) - Improved Lecture Notes in Computer Science (LNCS) template.
+- [LTeX Language Server](https://github.com/valentjn/ltex-ls) - LSP language server for LanguageTool with support for LaTeX, Markdown, and others. ([Docs](https://valentjn.github.io/vscode-ltex/))
+- [katex-rs](https://github.com/xu-cheng/katex-rs) - Rust bindings to KaTeX.
+- [Show Your Work](https://github.com/rodluger/showyourwork) - Fully reproducible, open source scientific articles in LaTeX.
+- [web2js](https://github.com/kisonecat/web2js) - Pascal compiler that targets WebAssembly, designed specifically to compile TeX so it can be run inside the browser.
+- [TikZJax](https://tikzjax.com/) - Converts script tags (containing TikZ code) into SVGs. ([Code](https://github.com/kisonecat/tikzjax))
+- [Ant](https://github.com/groupoid/ant) - New typesetting system. Resembles TeX, but improves the internal language, which is ML dialect with rich domain-specific features for typesetting.
+- [Asiatic pTeX](https://github.com/clerkma/ptex-ng)
+- [ClutTeX](https://github.com/minoki/cluttex) - Process LaTeX document without cluttering your directory.
+- [LaTeX Input for Impatient Scholars (2021)](https://karthinks.com/software/latex-input-for-impatient-scholars/) ([HN](https://news.ycombinator.com/item?id=29131928))
+- [LaTeXPad](https://www.latexpad.dev/) - Minimalist LaTeX scratch pad with symbol autocompletion and instant previews. ([Code](https://github.com/cmoog/latexpad))
+- [LaTeX Run](https://github.com/aclements/latexrun) - Fits LaTeX into a modern build environment.
+- [Symbolic-math-HaTeX](https://github.com/leftaroundabout/Symbolic-math-HaTeX) - Convenient Haskell syntax for writing in LaTeX math expressions.
+- [NotebookToLaTeX.jl](https://github.com/davibarreira/NotebookToLaTeX.jl) - Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.
+- [LaTeX Cookbook](https://latex-cookbook.net/) - Collection of LaTeX recipes. ([HN](https://news.ycombinator.com/item?id=29672872))
+- [How to write LaTeX without writing LaTeX](https://jarbus.net/blog/write-latex-without-latex/) ([HN](https://news.ycombinator.com/item?id=29687840))
+- [Beamer](https://github.com/josephwright/beamer) - LaTeX class for producing presentations.
+- [Blogging with TikZ (2021)](https://lukasschwab.me/blog/gen/blogging-with-tikz.html)

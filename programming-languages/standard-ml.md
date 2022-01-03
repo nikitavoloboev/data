@@ -9,7 +9,7 @@
 - [Ponyo](https://github.com/eatonphil/ponyo) - Comprehensive high-level library and toolkit for Standard ML.
 - [Tour of Standard ML ](https://saityi.github.io/sml-tour/tour/00-00-welcome.html) ([HN](https://news.ycombinator.com/item?id=22180834)) ([Code](https://github.com/Saityi/a-tour-of-standard-ml))
 - [Unix System Programming with Standard ML](http://www.mlton.org/References.attachments/Shipman02.pdf) ([HN](https://news.ycombinator.com/item?id=22246334))
-- [smlpkg](https://github.com/melsman/smlpkg) - Generic package manager for Standard ML libraries and programs.
+- [smlpkg](https://github.com/diku-dk/smlpkg) - Generic package manager for Standard ML libraries and programs.
 - [Compiling Pattern Guards](https://github.com/JohnReppy/compiling-pattern-guards) - Prototype code that accompanies the paper "Compiling Successor ML Pattern Guards".
 - [The History of Standard ML (2020)](https://smlfamily.github.io/history/SML-history.pdf) ([Lobsters](https://lobste.rs/s/0clf32/history_standard_ml)) ([Talk](https://www.pldi21.org/prerecorded_hopl.21.html)) ([HN](https://news.ycombinator.com/item?id=27800211))
 - [Standard ML in 2020](https://notes.eatonphil.com/standard-ml-in-2020.html) ([HN](https://news.ycombinator.com/item?id=24890463))
@@ -21,3 +21,9 @@
 - [parse-sml](https://github.com/shwestrick/parse-sml) - Custom parser for Standard ML.
 - [CakeML](https://github.com/CakeML/cakeml) - Verified implementation of a significant subset of Standard ML. ([Web](https://cakeml.org/))
 - [Compiler for Standard ML in Rust](https://github.com/SomewhatML/sml-compiler) ([HN](https://news.ycombinator.com/item?id=28465185))
+- [Higher Standard](https://github.com/mmcqd/higher-standard) - Higher kinded polymorphism in Standard ML.
+- [LunarML](https://github.com/minoki/LunarML) - Standard ML compiler that produces Lua.
+- [Getting started with Standard ML](https://www.reddit.com/r/sml/comments/qyy2gs/getting_started_with_standard_ml/)
+- [sml-server](https://github.com/diku-dk/sml-server) - Web server infrastructure for Standard ML.
+- [sml-parseq](https://github.com/shwestrick/sml-parseq) - Standard ML library for parallel sequences.
+- [MPL](https://github.com/MPLLang/mpl) - MaPLe compiler for Parallel ML.

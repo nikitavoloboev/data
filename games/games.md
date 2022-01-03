@@ -44,14 +44,18 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Evolve](https://pmotschmann.github.io/Evolve/) - Incremental game about evolving a civilization. ([Code](https://github.com/pmotschmann/Evolve))
 - [Wayfinder](https://wayfinder.nfb.ca/) - Relaxing 'art game' in the browser. ([HN](https://news.ycombinator.com/item?id=27532068))
 - [Freeciv-Web](https://www.freecivweb.org/) - Open source turn-based strategy game. ([HN](https://news.ycombinator.com/item?id=27614434))
+- [Puzzle Panda](https://puzzlepanda.com/) - Play Jigsaw Puzzles Online. ([HN](https://news.ycombinator.com/item?id=29218401))
+- [Pokémon Showdown](https://pokemonshowdown.com/) - Pokémon battle simulator. ([Code](https://github.com/smogon/pokemon-showdown))
+- [Prince of Persia in JavaScript](https://princejs.com/) ([HN](https://news.ycombinator.com/item?id=29710538)) ([Code](https://github.com/oklemenz/PrinceJS))
 
 ## Awesome OSS games
 
+- [Portal 2D](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games with the Godot-Engine.
 - [ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020). ([Article](https://www.tomlooman.com/action-roguelike-cpp-ue4/)) ([HN](https://news.ycombinator.com/item?id=25800771))
 - [Citybound](https://github.com/citybound/citybound) - City building game with a focus on realism, collaborative planning and simulation of microscopic details. ([HN](https://news.ycombinator.com/item?id=19583384))
 - [Diablo build for modern operating systems](https://github.com/diasurgical/devilutionX)
 - [OneLife](https://github.com/jasonrohrer/OneLife) - Multiplayer survival game of parenting and civilization building.
-- [OpenMW](https://github.com/OpenMW/openmw) - Open-source open-world RPG game engine that supports playing Morrowind.
+- [OpenMW](https://github.com/OpenMW/openmw) - Open-source open-world RPG game engine that supports playing Morrowind. ([HN](https://news.ycombinator.com/item?id=28903451))
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - Open source re-implementation of Diablo 2.
 - [Pioneer](https://github.com/pioneerspacesim/pioneer) - Game of lonely space adventure.
 - [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine.
@@ -118,13 +122,23 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Fish Fight](https://fishfight.org/) - Tactical 2D shooter. Made with Rust-lang and Macroquad. ([Code](https://github.com/fishfight/FishFight))
 - [shoot_game](https://github.com/akon47/shoot_game) - Game using HTML5 Canvas and Vanilla JavaScript.
 - [Q1K3](https://github.com/phoboslab/q1k3) - Tiny FPS for the 2021 js13k competition.
+- [Swarm](https://github.com/byorgey/swarm) - 2D programming and resource gathering game. ([Article](https://byorgey.wordpress.com/2021/09/23/swarm-preview-and-call-for-collaboration/)) ([Reddit](https://www.reddit.com/r/haskell/comments/pucika/a_new_programming_game_swarm_by_brent_yorgey/))
+- [pacman.zig](https://github.com/floooh/pacman.zig) - Simple Pacman clone written in Zig.
+- [Electronvolt](https://github.com/gecko0307/electronvolt) - FPS with physics based puzzles.
+- [Quake 3 in Haskell & Vulkan](https://github.com/ocharles/zero-to-quake-3)
+- [Vange-rs](https://github.com/kvark/vange-rs) - Game uses wgpu-rs for graphics and winit for windowing.
+- [Cosmic Verge](https://github.com/khonsulabs/cosmicverge) - 2d, persistent multiplayer, single-universe game written in Rust.
+- [Space-shooter.c](https://github.com/tsherif/space-shooter.c) - Cross-platform, top-down 2D space shooter written in C. ([HN](https://news.ycombinator.com/item?id=29520200))
+- [Cornell McRay t'Racing](https://github.com/h3r2tic/cornell-mcray) - Quick'n'dirty game sample using kajiya, physx-rs, and dolly.
 
 ## Awesome games (other)
 
-- [Factorio](https://factorio.com) ([HN](https://news.ycombinator.com/item?id=24155609))
+- [Factorio](https://factorio.com) ([HN](https://news.ycombinator.com/item?id=24155609)) ([Optimal belt balancing in Factorio](https://oliviercorradi.com/blog/factorio-belt-balancer/))
 - [Tabletop Simulator](https://tabletopsimulator.com/) ([HN](https://news.ycombinator.com/item?id=24906634))
 - [Hades](https://store.steampowered.com/app/1145360/Hades/) ([Tweet](https://twitter.com/notdetails/status/1323022661698682881))
 - [Disco Elysium](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/) ([Tweet](https://twitter.com/andreysitnik/status/1380098420598276103))
+- [I Have No Mouth, and I Must Scream](https://www.filfre.net/2021/10/i-have-no-mouth-and-i-must-scream/) ([HN](https://news.ycombinator.com/item?id=28958140))
+- [Little Kitty, Big City](https://www.littlekittybigcity.com/)
 
 ## Other
 
@@ -133,6 +147,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Inexor](https://inexor.org/) - First person shooter game.
 - [NoPixel](https://nopixel.fandom.com/wiki/NoPixel_Community) - Grand Theft Auto V role-play server.
 - [SkyWeaver](https://www.skyweaver.net/) - Trading Card Game from Another Dimension.
+- [Tetr.io](https://tetr.io/) ([HN](https://news.ycombinator.com/item?id=29728892))
 
 ## Recommendations
 
@@ -148,6 +163,9 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [What older video games do you find yourself going back to? (2021)](https://www.reddit.com/r/AskUK/comments/mqlmyb/what_older_video_games_do_you_find_yourself_going/)
 - [Ask HN: What are some good strategy games? (2021)](https://news.ycombinator.com/item?id=26820739)
 - [Your favorite games that made you learn real life concepts? (2021)](https://www.reddit.com/r/patientgamers/comments/ph6gy5/your_favorite_games_that_made_you_learn_real_life/)
+- [Game recs (2021)](https://twitter.com/jennifermarie/status/1449432435314339842)
+- [Great RTS games (2021)](https://www.reddit.com/r/RealTimeStrategy/comments/rlfxis/suggestions/)
+- [Long game suggestions (2021)](https://twitter.com/chetfaliszek/status/1475258682539593729)
 
 ## Links
 
@@ -218,3 +236,20 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [ProtonDB](https://www.protondb.com/) - Gaming reports for Linux using Proton and Steam Play.
 - [Framework for what makes play-to-earn work (2021)](https://twitter.com/Tocelot/status/1439632031726456832)
 - [Are you playing to play, or playing to win?](https://commoncog.com/blog/playing-to-play-playing-to-win/) ([HN](https://news.ycombinator.com/item?id=28608436))
+- [Sid Meier and the meaning of ‘Civilization’ (2021)](https://www.newyorker.com/books/under-review/sid-meier-and-the-meaning-of-civilization) ([HN](https://news.ycombinator.com/item?id=28625315))
+- [So you want to compete with Roblox (2021)](https://www.fortressofdoors.com/so-you-want-to-compete-with-roblox/) ([HN](https://news.ycombinator.com/item?id=28714779)) ([Tweet](https://twitter.com/ID_AA_Carmack/status/1443969641848741897))
+- [Computer Game Play Reduces Intrusive Memories of Experimental Trauma via Reconsolidation-Update Mechanisms (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526368/) ([HN](https://news.ycombinator.com/item?id=28799760))
+- [Deeper Than Pixels: A Reading List on Video Games (2021)](https://longreads.com/2021/10/07/deeper-than-pixels-a-reading-list-on-video-games/) ([HN](https://news.ycombinator.com/item?id=28885867))
+- [All Atari Games](https://voxodyssey.com/atari-2600) ([HN](https://news.ycombinator.com/item?id=28931183))
+- [The Rise of Nintendo: A Story in 8 Bits (2014)](https://grantland.com/features/the-rise-of-nintendo-video-games-history/) ([HN](https://news.ycombinator.com/item?id=29055544))
+- [Your 5 most important video games during your youth years (2021)](https://twitter.com/jakeregal/status/1260449257821216768)
+- [100 Thieves](https://twitter.com/100Thieves) - Gaming, entertainment, and apparel. ([Tweet](https://twitter.com/jacksondahl/status/1458152429564792835))
+- [Games are well-positioned to become the true fans of web3, and why that matters (2021)](https://twitter.com/brianjcho/status/1459176570174672897)
+- [Best single player games (2021)](https://twitter.com/sult/status/1465406873629245443)
+- [Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies (2021)](https://www.youtube.com/watch?v=ki4Fbctwnjs)
+- [Video game landscapes will make you nostalgic for worlds you’ve never visited](https://www.calvertjournal.com/articles/show/13338/digital-video-game-art-russian-winter-6vcr)
+- [The Strange, Unfinished Saga of Cyberpunk 2077 (2021)](https://www.newyorker.com/tech/annals-of-technology/the-strange-unfinished-saga-of-cyberpunk-2077) ([HN](https://news.ycombinator.com/item?id=29517021))
+- [CloudRetro](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game.
+- [Roblox Pressured Us to Delete Our Video. So We Dug Deeper. (2021)](https://www.youtube.com/watch?v=vTMF6xEiAaY) ([HN](https://news.ycombinator.com/item?id=29539875))
+- [Heroes of Might and Magic (2021)](https://www.filfre.net/2021/12/heroes-of-might-and-magic/) ([HN](https://news.ycombinator.com/item?id=29692957))
+- [Video Game Preservation](https://github.com/orgs/videogamepreservation/repositories)

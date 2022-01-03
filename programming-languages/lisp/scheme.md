@@ -19,6 +19,7 @@
 - [Practical Chicken Scheme with Emacs: hello-world webserver (2017)](https://www.youtube.com/watch?v=eXB3I3S3vJc)
 - [The evolution of a Scheme programmer (2020)](https://erkin.party/blog/200715/evolution/) ([Lobsters](https://lobste.rs/s/ao7qpz/evolution_scheme_programmer))
 - [Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
+- [Awesome Scheme 2](https://github.com/theodesp/awesome-scheme)
 - [A New R6RS Scheme Compiler (2019)](https://weinholt.se/articles/new-r6rs-compiler/) ([Lobsters](https://lobste.rs/s/6gbneg/new_r6rs_scheme_compiler))
 - [STklos](https://stklos.net/index.html) - Free Scheme system mostly compliant with the languages features defined in R7RS small.
 - [A Simple Scheme Compiler (1997)](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271) ([HN](https://news.ycombinator.com/item?id=24257488))
@@ -55,3 +56,16 @@
 - [HN: Chicken Scheme (2021)](https://news.ycombinator.com/item?id=28397785)
 - [BiwaScheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter written in JavaScript. ([Web](https://www.biwascheme.org/))
 - [Exploring Scheme implementations for API programming coming from Node.js, Go (2019)](https://taoofmac.com/space/blog/2019/06/20/2310)
+- [Ribbit](https://github.com/udem-dlteam/ribbit) - Small and portable Scheme implementation with AOT and incremental compilers that fits in 4K.
+- [Scheme-to-C](https://github.com/akeep/scheme-to-c) - Tiny nanopass compiler for compiling a small subset of Scheme to C.
+- [Scheme-to-LLVM](https://github.com/akeep/scheme-to-llvm)
+- [Normalization-by-evaluation in miniKanren](https://github.com/webyrd/normalization-by-evaluation)
+- [schemeCompiler](https://github.com/mhuesch/schemeCompiler) - Compiler for a subset of Scheme in Haskell.
+- [Write You a Scheme in Haskell](https://github.com/write-you-a-scheme-v2/scheme) ([Web](https://www.wespiser.com/writings/wyas/home.html))
+- [Interactive Scheme Primer, written in Scheme](https://github.com/webyrd/scheme-primer)
+- [A small scheme VM, compiler, and REPL in 4k (2021)](https://dl.acm.org/doi/10.1145/3486606.3486783) ([HN](https://news.ycombinator.com/item?id=29348033))
+- [Scheme interpreter in C](https://github.com/TectonicFury/CSCMIC) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/r3zpgc/a_barely_usable_interpreter_for_a_subset_of/))
+- [MIT Scheme on Apple Silicon (2021)](https://kennethfriedman.org/thoughts/2021/mit-scheme-on-apple-silicon/) ([HN](https://news.ycombinator.com/item?id=29707604))
+- [VLISP: A Verified Implementation of Scheme (1993)](http://mirror.informatimago.com/scheme/repository.readscheme.org/ftp/papers/vlisp-lasc/vlisp.pdf) ([HN](https://news.ycombinator.com/item?id=29728783))
+- [Lambda Quest](https://lambda.quest/) - Interactive Scheme environment with Canvas. ([Code](https://github.com/katspaugh/lambda.quest))
+- [TinyScheme R7](https://github.com/RodionGork/tinyscheme) - Small Scheme language implementation written in C language.

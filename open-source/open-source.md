@@ -1,6 +1,8 @@
 # [Open Source](https://opensource.guide)
 
-The key to success in Open Source lies in understanding that it's not just about software, it's about the people.
+The key to success in open source lies in understanding that it's not just about software, it's about the people (great and clear communication with proper documentation).
+
+Dan has great tips on what it means to be [high quality software maintainers](https://twitter.com/dan_abramov/status/1463718359262973953).
 
 ## Nice contributing pages
 
@@ -22,6 +24,10 @@ The key to success in Open Source lies in understanding that it's not just about
 - [This is what leads to burnout, abandoned projects, and churn. When we prioritize OSS availability/quality over the well being of their maintainers, it doesn't necessarily lead to the optimal outcome. We are putting code before people.](https://twitter.com/youyuxi/status/1337444375132049412)
 - [Want to become a contributor to a project but don't know where to start? Subscribe to the project's notifications! By reading notifications for issues and PRs, you'll gain valuable context about the project, code, and maintainer views that helps build your mental model.](https://twitter.com/grow_love/status/1397192559953391620)
 - [Popularity != Quality. Especially for choosing project dependencies.](https://www.youtube.com/watch?v=f8x80EK6Tps)
+- [When opening an open source issue or pull request, don't make the maintainers do homework. Explain what you want/what you're doing, include relevant info, and offer to make changes. Don't make a maintainer to seek out other references or throw stuff over the wall and run.](https://twitter.com/slicknet/status/1441460988407025669)
+- [Always credit the work from which you copied or got inspired greatly from in readme. Lets users of your project that it's a fork and ideally keep the previous git history of forked project too.](https://news.ycombinator.com/item?id=28659838)
+- [Release Early, Release Often](https://lobste.rs/s/gqbpwd/release_early_release_often)
+- [Ember's successful oss project management: 1. RFCs for design. 2. Canary, beta, and release stability branches. 3. LTS releases for community coordination and cadence management. 4. Major releases that don't add new features by design. 5. Backwards-compatible editions to consolidate changes for documentation and communication.](https://twitter.com/wycats/status/1463210573936558082)
 
 ## Links
 
@@ -41,7 +47,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [You Should Open Source Your Product (2019)](https://blog.tommoor.com/2019/01/01/you-should-open-source-your-product/)
 - [Code Shelter](https://www.codeshelter.co/) - Maintainer Community for Abandoned FOSS Projects.
 - [IssueHunt](https://issuehunt.io/) - Reward project owners and developers who maintain important open-source software in the internet stack.
-- [Gitcoin](https://gitcoin.co/) - Lets you get paid for working on open source software.
+- [Gitcoin](https://gitcoin.co/) - Lets you get paid for working on open source software. ([Web Code](https://github.com/gitcoinco/web))
 - [How to maintain a bunch of open source projects (2019)](https://macwright.org/2019/03/28/oss-at-scale.html)
 - [HN: GitHub Sponsors Launch (2019)](https://news.ycombinator.com/item?id=19989684)
 - [Open Source Guides](https://opensource.guide/)
@@ -189,3 +195,23 @@ The key to success in Open Source lies in understanding that it's not just about
 - [How to best approach contributing to open source project (2021)](https://twitter.com/SimonHoiberg/status/1418227269256945664)
 - [License Round Up (2021)](https://writing.kemitchell.com/2021/06/21/License-Round-Up.html) ([Lobsters](https://lobste.rs/s/s0xch6/license_round_up))
 - [Do not choose dependencies blindly. Do open source (2021)](https://www.youtube.com/watch?v=f8x80EK6Tps)
+- [Delightful Open Science](https://delightful.club/delightful-open-science/)
+- [Guide to coordinated vulnerability disclosure for open source software projects](https://github.com/ossf/oss-vulnerability-guide)
+- [What can be considered open source? (2021)](https://twitter.com/ChristianSelig/status/1443227711653154821)
+- [Open Source Tips](https://eddiejaoude.github.io/book-open-source-tips/) ([Code](https://github.com/eddiejaoude/book-open-source-tips))
+- [Ask HN: How to get compeitors to use our open source interop-prototcol? (2021)](https://news.ycombinator.com/item?id=28747428)
+- [Why you should use a BSD style license for your Open Source Project](https://docs.freebsd.org/en/articles/bsdl-gpl/)
+- [Can we trust Microsoft with open source? (2021)](https://dusted.codes/can-we-trust-microsoft-with-open-source) ([HN](https://news.ycombinator.com/item?id=28968231))
+- [About Yak Shaving (2021)](https://antfu.me/posts/about-yak-shaving)
+- [Open Source Design](https://opensourcedesign.net/#page-top) - Connecting open source & design. ([GitHub](https://github.com/opensourcedesign))
+- [Moving Apollo Federation 2 to the Elastic License v2 (2021)](https://www.apollographql.com/blog/announcement/moving-apollo-federation-2-to-the-elastic-license-v2/) ([HN](https://news.ycombinator.com/item?id=29115263))
+- [Microsoft Open Source](https://opensource.microsoft.com/) ([Twitter](https://twitter.com/OpenAtMicrosoft))
+- [Tips For Making a Popular Open Source Project in 2021](https://skerritt.blog/make-popular-open-source-projects/) ([HN](https://news.ycombinator.com/item?id=29197806))
+- [Open Software Licensing Primer](https://blueoakcouncil.org/primer)
+- [Apple Open Source](https://opensource.apple.com/) ([HN](https://news.ycombinator.com/item?id=29490581))
+- [Professional maintainers: a wake-up call (2021)](https://blog.filippo.io/professional-maintainers/) ([HN](https://news.ycombinator.com/item?id=29523510)) ([Tweet](https://twitter.com/FiloSottile/status/1469749412998041610))
+- [“Open source” is broken (2021)](https://christine.website/blog/open-source-broken-2021-12-11) ([HN](https://news.ycombinator.com/item?id=29522941)) ([Lobsters](https://lobste.rs/s/w3uhz1/open_source_is_broken))
+- [“Open source” is not broken (2021)](https://nadh.in/blog/open-source-is-not-broken/) ([HN](https://news.ycombinator.com/item?id=29530004))
+- [yogslaw](https://github.com/jamesmunns/yogslaw) - Idea regarding non-commercial open source licensing.
+- [The Asymmetry of Open Source (2021)](https://matt.life/writing/the-asymmetry-of-open-source) ([Tweet](https://twitter.com/mholt6/status/1473778133388062720))
+- [Embark Open Source](https://github.com/EmbarkStudios/opensource) - Open source processes, policies, and info.

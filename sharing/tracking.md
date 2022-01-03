@@ -51,3 +51,6 @@ Here is a list of various things I track for my own use and reference.
 - [Heedy](https://github.com/heedy/heedy) - Open-source database built for storage and analysis of your personal data. ([Docs](https://heedy.org/))
 - [Wakapi](https://wakapi.dev/) - Minimalist, self-hosted WakaTime-compatible backend for coding statistics. ([Code](https://github.com/muety/wakapi))
 - [Map of my personal data infrastructure](https://beepb00p.xyz/myinfra.html)
+- [ActivityWatch](https://activitywatch.net/) - Open-source time tracker. ([Code](https://github.com/ActivityWatch/activitywatch)) ([Article](https://wsdookadr.github.io/posts/p6/))
+- [Ask HN: What metrics do you pay attention to? (2021)](https://news.ycombinator.com/item?id=29187506)
+- [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool for the command line.

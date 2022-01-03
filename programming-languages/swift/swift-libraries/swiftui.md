@@ -3,6 +3,7 @@
 ## Notes
 
 - [Setting a random background color is a great way to detect an accidental SwiftUI loop.](https://twitter.com/steipete/status/1379483193708052480)
+- [SwiftUI is basically just a wrapper around UIKit. You can use UIHostingController to show SwiftUI views inside UIKit hierarchy, and UIViewRepresentable to wrap UIView in a SwiftUI View.](https://www.reddit.com/r/swift/comments/r4houz/can_you_combine_swiftui_and_uikit_together/)
 
 ## Links
 
@@ -76,7 +77,7 @@
 - [Inline wrapping of UIKit or AppKit views within SwiftUI (2020)](https://www.swiftbysundell.com/tips/inline-wrapping-of-uikit-or-appkit-views-within-swiftui/)
 - [SwiftUI mix and match (2020)](https://www.swiftbysundell.com/tips/swiftui-mix-and-match/)
 - [All SwiftUI property wrappers explained and compared (2020)](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)
-- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) ([Notes](https://muan.co/pages/hacking-with-swift/))
 - [SwiftUI Inspector](https://swiftui.ai/) - Production-quality code straight from your favorite design tool.
 - [Multiplatform Messages app for macOS, iOS, iPadOS in SwiftUI](https://github.com/jordansinger/messages-multiplatform-swiftui-sample)
 - [A guide to SwiftUI’s state management system (2020)](https://swiftbysundell.com/articles/swiftui-state-management-guide/)
@@ -85,7 +86,7 @@
 - [Learning SwiftUI](https://joeyabanks.io/notes/learning-swift)
 - [Rdio macOS SwiftUI example app for Big Sur](https://github.com/jordansinger/rdio-macos-swiftui-sample)
 - [CatalystSidebarToolbar](https://github.com/steventroughtonsmith/CatalystSidebarToolbar) - Simple sidebar / NSToolbar example for Catalyst.
-- [Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/) - A Transition Guide.
+- [Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/) - A Transition Guide. ([Code](https://github.com/objcio/thinking-in-swiftui-sample-code))
 - [Decision tree for how to define your SwiftUI properties (2020)](https://twitter.com/chriseidhof/status/1280433133813456896)
 - [Figma macOS Big Sur example app built in SwiftUI](https://github.com/jordansinger/figma-macos-swiftui-sample)
 - [SwiftUI Changelog](https://github.com/twostraws/swiftui-changelog) - Repository to track changes in the SwiftUI generated interface.
@@ -163,3 +164,15 @@
 - [The missing SwiftUI packages (2021)](https://benkau.com/the-missing-swiftui-packages/)
 - [SwiftUI+ GitHub](https://github.com/SwiftUI-Plus) - Collection of SwiftUI backports and more.
 - [SwiftUI Previews: Validating views in different states (2021)](https://www.avanderlee.com/swiftui/previews-different-states/)
+- [Best way to learn SwiftUI? With interactive examples. (2021)](https://twitter.com/round/status/1442582320121323521)
+- [How do I customize the NavigationView in SwiftUI? (2021)](https://www.bigmountainstudio.com/community/public/posts/80041-how-do-i-customize-the-navigationview-in-swiftui)
+- [SwiftUI under the Hood: Fonts - Moving parts (2021)](https://movingparts.io/fonts-in-swiftui)
+- [Awaiting WebSockets in SwiftUI (2021)](https://obscuredpixels.com/awaiting-websockets-in-swiftui)
+- [The Easiest way to use Firestore in SwiftUI | FirestoreQuery (2021)](https://www.youtube.com/watch?v=TogxXiDmyss)
+- [Displaying badges in SwiftUI (2021)](https://swiftwithmajid.com/2021/11/10/displaying-badges-in-swiftui/)
+- [Three beautiful macOS sidebars. Two built in Cocoa, and the third in SwiftUI](https://github.com/revblaze/SimpleSidebar)
+- [Transactions and Animations (2021)](https://www.objc.io/blog/2021/11/25/transactions-and-animations/)
+- [SwiftUI Library](https://swiftuilibrary.com/) - Rebuilt the most common iOS design components into a library of reusable container views. ([GitHub](https://github.com/swiftui-library/)) ([Tweet](https://twitter.com/TR3NTG/status/1463540204715659266))
+- [SwiftUIPlaygrounds](https://github.com/johnno1962/SwiftUIPlaygrounds) - Shell project you can use to iterate over SwiftUI interfaces using the HotReloading project.
+- [DropDownMenu](https://github.com/marlonjames71/DropDownMenu) - Custom drop down menu tutorial written with SwiftUI.
+- [Building an asynchronous SwiftUI button (2021)](https://www.swiftbysundell.com/articles/building-an-async-swiftui-button/)

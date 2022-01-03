@@ -32,3 +32,24 @@
 - [Bespoke Synth](https://www.bespokesynth.com/) - Open-source software modular synthesizer. ([HN](https://news.ycombinator.com/item?id=28529672))
 - [Canvas](https://github.com/nhthn/canvas) - Visual additive synthesizer that is controlled by editing an image.
 - [MiniSynth Pi](https://github.com/rsta2/minisynth) - Virtual analog synthesizer for Raspberry Pi.
+- [Mt32-pi](https://github.com/dwhinham/mt32-pi) - Bare metal Roland MT-32 emulator. ([HN](https://news.ycombinator.com/item?id=28727084))
+- [Scout](https://github.com/oskitone/scout) - 3D-printed, Arduino-compatible, 17-key mono synth. ([Web](https://www.oskitone.com/product/scout-synth))
+- [Oskitone](https://www.oskitone.com/) - DIY Synthesizers. ([GitHub](https://github.com/oskitone))
+- [The Signal State](https://signalstate.io/) - Game about making modular synths. ([Tweet](https://twitter.com/notch/status/1449855636842311680))
+- [I built an analog synthesizer from scratch. Here is how I did it. (2021)](https://www.youtube.com/watch?v=PATlf0W3m7k)
+- [OctaSine](https://github.com/greatest-ape/OctaSine) - VST2 frequency modulation synthesizer written in Rust.
+- [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html) ([Tweet](https://twitter.com/kenshirriff/status/1459572903213613056)) ([HN](https://news.ycombinator.com/item?id=29211401))
+- [The Yamaha DX7 synthesizer's clever exponential circuit, reverse-engineered (2021)](https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7_28.html) ([HN](https://news.ycombinator.com/item?id=29370875))
+- [What Makes It Sound ’80s? Yamaha DX7 Electric Piano Sound](https://meganlavengood.com/wp-content/uploads/2019/09/Lavengood-2019-%E2%80%9CWhat-Makes-It-Sound-%E2%80%9980s%E2%80%9D-The-Yamaha-DX7-Electr.pdf) ([Tweet](https://twitter.com/kenshirriff/status/1459579767410216963))
+- [libfmsynth](https://github.com/Themaister/libfmsynth) - C library which implements an FM synthesizer.
+- [TinySoundFont](https://github.com/schellingb/TinySoundFont) - SoundFont2 synthesizer library in a single C/C++ file.
+- [Kiro Synth](https://github.com/chris-zen/kiro-synth) - Modular sound synthesizer written in Rust.
+- [The Father of the Digital Synthesizer](https://priceonomics.com/the-father-of-the-digital-synthesizer/)
+- [Yamaha DX7 chip reverse-engineering, part 4: how algorithms are implemented (2021)](http://www.righto.com/2021/12/yamaha-dx7-chip-reverse-engineering.html) ([HN](https://news.ycombinator.com/item?id=29515087))
+- [teoperator](https://github.com/schollz/teoperator) - Make OP-1 and OP-Z drum and synth patches from any sound. ([Web](https://teoperator.com/))
+- [tune](https://github.com/Woyten/tune) - Make xenharmonic music and create synthesizer tuning files for microtonal scales.
+- [OxiSynth](https://github.com/PolyMeilex/OxiSynth) - Pure rust soundfont synthesizer.
+- [FluidSynth](https://github.com/FluidSynth/fluidsynth) - Cross-platform, real-time software synthesizer based on the Soundfont 2 specification.
+- [Shaden](https://github.com/brettbuddin/shaden) - Modular audio synthesizer.
+- [Implicit neural differentiable FM synthesizer](https://github.com/andreasjansson/fmsynth)
+- [Fragment](https://www.fsynth.com/) - Real-time audiovisual live coding environment. ([Code](https://github.com/grz0zrg/fsynth))

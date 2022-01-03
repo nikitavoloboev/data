@@ -13,7 +13,7 @@
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
 - [Fullstack D3 book](https://www.newline.co/fullstack-d3) - Complete guide to D3.
 - [Awesome D3](https://github.com/wbkd/awesome-d3)
-- [REAVIZ](https://github.com/jask-oss/reaviz) - Data visualization library for React based on D3.
+- [REAVIZ](https://github.com/reaviz/reaviz) - Data visualization library for React based on D3. ([Web](https://reaviz.io/?path=/story/docs-intro--page))
 - [d3fc](https://github.com/d3fc/d3fc) - Collection of components that make it easy to build interactive charts with D3.
 - [nivo](https://github.com/plouc/nivo) - Provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries.
 - [Introduction to D3](https://observablehq.com/@mitvis/introduction-to-d3) ([HN](https://news.ycombinator.com/item?id=22476930))
@@ -40,3 +40,9 @@
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Library based on D3.js, optimized for visualizing and laying out time-series data. ([Code](https://github.com/metricsgraphics/metrics-graphics))
 - [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
 - [D3 in Depth](https://www.d3indepth.com/) - Learn D3.js step by step.
+- [Data Visualization with D3, React, visx and Typescript (2021)](https://www.youtube.com/playlist?list=PLIHT2Jhq922bBwhH07uT_QRaPCaKZGgR_)
+- [Billboard.js](https://github.com/naver/billboard.js) - Re-usable, easy interface JavaScript chart library based on D3.js.
+- [D3 Charts](https://observablehq.com/@d3/charts?collection=@d3/charts)
+- [Creating a Force Graph using React, D3, and PixiJS (2021)](https://levelup.gitconnected.com/creating-a-force-graph-using-react-d3-and-pixijs-95616051aba)
+- [d3-zoom](https://github.com/d3/d3-zoom) - Pan and zoom SVG, HTML or Canvas using mouse or touch input.
+- [d3-graph-controller](https://github.com/DerYeger/d3-graph-controller) - TypeScript library for visualizing and simulating directed, interactive graphs.

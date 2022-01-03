@@ -16,7 +16,7 @@
 - [The 15 best Figma plugins for designers (so far) (2019)](https://uxdesign.cc/the-15-best-figma-plugins-for-designers-so-far-84332ab1a61)
 - [SPELLL](https://spelll.design/) - Spelling & grammar checker for Figma.
 - [React Figma](https://github.com/react-figma/react-figma) - Render React components to Figma.
-- [Scripter](https://www.figma.com/community/plugin/757836922707087381/Scripter) - Speed up your workflow or experiment with the Figma API through scripts.
+- [Scripter](https://www.figma.com/community/plugin/757836922707087381/Scripter) - Speed up your workflow or experiment with the Figma API through scripts. ([Code](https://github.com/rsms/scripter))
 - [Figma Import](https://packages.framer.com/package/lily/figma-import) - Import any frame from Figma as an image.
 - [Design Lint](https://lintyour.design/) - Free and open source plugin for Figma built to help you find and fix errors in your designs. ([Code](https://github.com/destefanis/design-lint))
 - [Simplify path plugin](https://github.com/zserge/figma-simplify-path) - Small plugin that simplifies vector paths in Figma.
@@ -50,7 +50,29 @@
 - [Figma <> HTML](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more. ([Web](https://www.figma.com/community/plugin/747985167520967365/Figma-to-HTML%2C-CSS%2C-React-%26-more!))
 - [Lights](https://www.figma.com/community/plugin/780821534053786200/Lights) - Easily switch between light and dark mode.
 - [Playing with Plugins - Jordan Singer (Config 2021)](https://www.youtube.com/watch?v=fpYmcsszClo)
-- [FlowBite](https://flowbite.design/) - Figma UI kit built for integration with Tailwind CSS. ([Docs](https://flowbite.com/docs/getting-started/introduction/)) ([HN](https://news.ycombinator.com/item?id=28561468))
+- [FlowBite](https://flowbite.design/) - Figma UI kit built for integration with Tailwind CSS. ([Docs](https://flowbite.com/docs/getting-started/introduction/)) ([HN](https://news.ycombinator.com/item?id=28561468)) ([Code](https://github.com/themesberg/flowbite))
 - [Getting started with Figma plugins (2020)](https://blog.prototypr.io/figma-plugin-tutorial-1-6-65fc2102506)
 - [Health Icons Figma Plugin](https://www.figma.com/community/plugin/992844281461869440/Health-Icons-Figma-Plugin)
 - [Figmage: I don't mess with images](https://heyraviteja.com/post/projects/figmage/) ([HN](https://news.ycombinator.com/item?id=28094989))
+- [HTML to Figma](https://github.com/sergcen/html-to-figma) - Converts DOM nodes to Figma nodes.
+- [Figma Export](https://github.com/marcomontalbano/figma-export) - Export tool for Figma. You can easily and automatically export your Figma components and use them directly into your website. ([Web](https://figma-export.marcomontalbano.com/))
+- [Create Figma Plugin](https://github.com/yuanqing/create-figma-plugin) - Comprehensive toolkit for developing plugins for Figma and FigJam. ([Docs](https://yuanqing.github.io/create-figma-plugin/))
+- [Image Cutter](https://www.figma.com/community/plugin/899731058839960598/Image-Cutter) - Easy way to cut any image into pieces. ([Code](https://github.com/ardov/Image-Cutter))
+- [GitHub Data](https://github.com/brianlovin/figma-github-data) - Populate data from GitHub into Figma mocks.
+- [Jordan Singer's Figma Plugins](https://www.figma.com/@jordan)
+- [FigJam JavaScript REPL widget](https://github.com/colebemis/figjam-javascript-repl)
+- [Figmint](https://github.com/tiltshift/figmint) - Sync Figma styles to JS.
+- [Device Models](https://www.figma.com/community/plugin/906973799344127422/Device-Models) - Create 3D device mockups from your layers in Figma. Choose a model, set a camera angle, and change device color. ([Code](https://github.com/CodyJasonBennett/device-models))
+- [Figma interface language: Grammar](https://github.com/parkerhendo/figma-interface-language) - Simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
+- [fig-gen](https://github.com/iamnbutler/fig-gen) - Figma Automator actions that create generative visuals.
+- [Automating Figma - Building a general purpose tool to automate Figma (2021)](https://ibuildmyideas.substack.com/p/automating-figma)
+- [20 Awesome Figma Plugins to improve your Workflow (2021)](https://www.marcandrew.me/20-awesome-figma-plugins-to-improve-your-workflow/)
+- [figma-icon-extractor](https://github.com/bem/figma-icon-extractor) - Tool for extract icons from figma in jsx and svg.
+- [Figma Plugins for keyboard (2021)](https://twitter.com/figmadesign/status/1458124921305853960)
+- [My top 10 favorite Figma plugins (2021)](https://twitter.com/buninux/status/1458113472407945223)
+- [Chunk Icons](https://www.figma.com/community/file/889863427421594653) - Set of 144 consistent & commonly-needed glyphs, all tailored to look nice and sharp at 16px.
+- [Atlas](https://jwels.berlin/atlas/) - Figma plugin to manage your themes.
+- [Figsvelte](https://github.com/thomas-lowry/figsvelte) - Boilerplate for creating Figma plugins with Svelte.
+- [Excalidraw Pad](https://www.figma.com/community/widget/1047391719101881118)
+- [Unmix Fonts](https://www.figma.com/community/plugin/1039804395780906653/Unmix-Fonts) - Unmix mixed fonts, with dynamic baseline alignment.
+- [Sigma](https://github.com/bannzai/Sigma) - Figma plugin of automatically generate SwiftUI code from Figma.

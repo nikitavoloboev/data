@@ -24,3 +24,11 @@
 - [Matt, the Clubhouse bot (2021)](https://knyar.net/stuff/matt-the-clubhouse-bot/) ([Code](https://github.com/knyar/housebot))
 - [Errbot](https://github.com/errbotio/errbot) - Chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation. ([Docs](https://errbot.readthedocs.io/en/latest/))
 - [Secret Santa App](https://secret-santa.team/) - Secret Santa bot for your Slack, Discord or Zoom.us team. ([Code](https://github.com/jolicode/secret-santa))
+- [Kairon](https://github.com/digiteinfotech/kairon) - Tool suite built on RASA to train and deploy your chatbots using advanced NLP.
+- [Xene](https://github.com/dempfi/xene) - Modern library with simple API to build great conversational bots.
+- [chatbot](https://github.com/kevwan/chatbot) - Fast responsive, machine learning, conversational dialog engine for creating chat bots, written in Go.
+- [Dialogflow](https://cloud.google.com/dialogflow/docs/) - Natural language understanding platform that makes it easy to design and integrate a conversational user interface. ([Python Client](https://github.com/googleapis/python-dialogflow))
+- [Gort](https://github.com/getgort/gort) - Chatbot framework designed from the ground up for chatops. ([Docs](https://guide.getgort.io/))
+- [Cyclone](https://github.com/top-gg/cyclone) - Pattern matching framework for detecting bots that behave exactly like or very similar to other bots.
+- [Thales](https://github.com/super-reality/Thales) - Open source autonomous agent for everyone. No coding required.
+- [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine learning, conversational dialog engine for creating chat bots. ([Docs](https://chatterbot.readthedocs.io/en/stable/))

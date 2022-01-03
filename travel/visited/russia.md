@@ -1,22 +1,26 @@
 # Russia
 
-The number of crimes against humanity committed by [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies & jail existing dictators with all their helpers.
+The number of [crimes against humanity](https://www.youtube.com/watch?v=E_2Vy9B8hic) committed by governments of [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies with actually working & fair Judiciary system (where you can't [use judges to give any verdict you need](https://twitter.com/ksnchk/status/1461023711411191810)) & judge [existing dictators](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) with all their helpers accordingly.
 
 It's a travesty that citizen's taxes are are being stolen to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
 
-As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are [so brainwashed that they are ok with being abused](https://www.youtube.com/watch?v=K_tEHkJkbEU). Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are willing to put their lives at risk in order to live a better future.
+As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are [so brainwashed that they are ok with being abused](https://www.youtube.com/watch?v=qL2wVKAQqLI&t=1s). Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are [willing to put their lives at risk in order to live a better future](https://www.youtube.com/watch?v=DvLKpqtxCg4).
 
 My current plan/hope to do my part in crushing these systems is by helping to build best tools available for all things learning & organizing around causes/ideas. Everyone should be able to think critically and know how to be effective and how to stop being abused by their environment.
 
-Overthrowing [oppressive regimes](https://www.youtube.com/watch?v=WGYYI1zhp2Y) such as [Russia](https://www.youtube.com/c/Гулагунетофициальныйканал/videos) and China is hard and requires courage and coordination given the amount of money being spent on police & military by these dictators and the [depths in which they go](https://varlamov.ru/4200776.html) to try and [jail for even thinking the wrong thing](https://twitter.com/adagamov/status/1356519608111542277).
+Overthrowing [oppressive regimes](https://www.youtube.com/watch?v=WGYYI1zhp2Y) such as [Russia](https://www.youtube.com/c/Гулагунетофициальныйканал/videos) and China is hard and requires courage, coordination and hard tech ([decentralization](../../networking/decentralization.md) / [anonymity](../../privacy/privacy.md)) investments given the amount of money being spent on police & military by these dictators and the [depths in which they go](https://varlamov.ru/4200776.html) to try and [jail for even thinking the wrong thing](https://twitter.com/adagamov/status/1356519608111542277).
 
 The people in charge [lack any kind of ethics](https://twitter.com/teamnavalny/status/1356712217387937796) and [will go to any lengths to stop the protests](https://twitter.com/pevchikh/status/1356701669271105537) including [killing/jailing everyone involved](https://www.youtube.com/watch?v=TW5GmgCOTHE). The police should grow conscience and [stop committing further crimes on behalf of the government](https://twitter.com/egor_mq/status/1355873294126346240). For police that understand they are supporting an oppressive regime but have families and can't afford to lose jobs, financial support should be provided.
 
-It would be great if all countries cut ties with these oppressive regimes and go beyond just sanctions.
+It would be great if all countries cut ties with these [oppressive regimes](https://www.youtube.com/watch?v=AWUsaUcd0I8&t=1s) and go beyond just sanctions.
 
 Alexey Navalny says: [It is impossible to jail millions and hundreds of thousands, and I very much hope that people will become more and more aware of this, and when they realize this, such a moment will come, you will not jail the whole country.](https://twitter.com/teamnavalny_mos/status/1356594998603616256)
 
 Change comes gradually, then suddenly. I am hopeful that this [change comes soon](../../future/future.md) and am trying my best to make that happen.
+
+Aside from the unfortunate series of historical events that led to the current abuse of power from government over people & its disgusting policies towards its neighbors like [Ukraine](ukraine.md), Russia is beautiful country with amazing people. Things won't improve in the country financially though if there is [always a risk of someone coming in 'from the government' to take over your business and putting you in jail](https://twitter.com/TanuXaPacman/status/1460987534515884042). Not including the fact that [most young people want to leave it at any opportunity they can get](https://twitter.com/dan_abramov/status/1458101197500473355) due to reasons above plus the stealing of your life that is Russian military conscription.
+
+With that said, no matter what country/community I get to live in, I try to [do my best within what's possible given my surroundings](https://twitter.com/ioannZH/status/1458669114826928128). Always seeking to move to an environment that helps me express myself best. Not wasting time on pointless arguing/news and valuing personal growth through actions & useful discourse/relationships. And above all, staying [positive and optimistic whilst not hating/complaining on things needlessly](https://twitter.com/pbrian0206/status/1458972624047026177).
 
 ## Notes
 
@@ -33,6 +37,17 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Напринимают уебанских законов, а потом такие «это по закону».](https://twitter.com/seginaboroda/status/1433804644912877568)
 - [В России государство нещадно душит бизнес. Человек, который работает на себя, он независим. Его нельзя загнать под угрозой увольнения на всякие шулерские выборы. Им вообще трудно манипулировать и управлять. Ведь наша гб-шная власть держится исключительно на зависимости народа от государства.](https://twitter.com/KillSubZero/status/1437806765312253966)
 - [Как же заебало что мы тратим свои жизни на эту хуйню если честно](https://twitter.com/Vorewig/status/1439834044477452293)
+- [Пожизненные губернаторы. Дальше передача власти в регионах по наследству.](https://twitter.com/nlyaskin/status/1442389741555572736)
+- [Сейчас и элиты, и военные, и полицейские, и общество, и мировое сообщество знает, что Партия Путина - это партия меньшинства. А узнали мы эту информацию(именно убедительно узнали, чтобы всем и каждому можно доказать) благодаря выборам.](https://twitter.com/mironov_fm/status/1444316401871765504)
+- [К сожалению, тюрьма это ёбаная мясорубка ломающая психическое и физическое здоровье людей. Современные места заключения чудовищны по своему существу и должны быть реформированы.](https://twitter.com/kasablanka_03/status/1446516126364704788)
+- [Власть хочет править как Сталин, а жить как Абрамович.](https://www.youtube.com/watch?v=Id-nklB3eI8)
+- [Главная проблема людей "советской формации" довольно проста - это инфантилизм. Запретив частную собственность, экспериментаторы разрушили нормальный ход вещей. В итоге что главное у совков - виноваты все вокруг, нам все должны, а мы - люди маленькие, за нас решат.](https://twitter.com/maximov_vasily/status/1450570590297919492)
+- [Russia is truly cruel towards its citizens, jailing a person for 10 months who was just married for a crime of just 'going to a protest'. Given the amount of torture that anyone jailed goes through in these systems, it's insane to think that it's 21st century. This fascist government, judges & police can't fall soon enough.](https://twitter.com/gusevaolyaa/status/1453388863192322062) ([Оппозиционный активист Глеб Марьясов отправлен в колонию на 10 месяцев за участие в январских митингах. Все эти кадры прощаний из судов просто рвут душу. Русская тоска.](https://twitter.com/ilyayashin/status/1453372613137477636) ([Video](https://www.youtube.com/watch?v=lv4wJQg2MUE))
+- [Пытать в России - не преступление, преступление - рассказывать об этом.](https://twitter.com/Kira_Yarmysh/status/1453606229096517636) ([Reddit](https://www.reddit.com/r/AskARussian/comments/qhis55/%D0%BC%D0%B2%D0%B4_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B8%D0%BB%D0%BE_%D0%BE_%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%BE%D0%BC_%D0%B0%D1%80%D0%B5%D1%81%D1%82%D0%B5_%D0%B1%D1%8B%D0%B2%D1%88%D0%B5%D0%B3%D0%BE/))
+- [Россия перешла в привычный режим "осажденной крепости" и будет так жить еще долгие годы, десятилетия. Плевать они хотели на любые рейтинги. У Кремля есть труба и огромный потребительский рынок — это их оружие.](https://twitter.com/adagamov/status/1454480993394561032)
+- [Literally no rule of law (constitution) in Russia. Anyone can go to jail for anything if government wants it.](https://twitter.com/YLatynina/status/1458771869646176258)
+- [Новое модное молодёжное движение известное как права человека.](https://twitter.com/_de1337ed/status/1464870544961064963)
+- [Russia Allows Police to Search Homes, Cars Without Warrants](https://www.reddit.com/r/worldnews/comments/rlnonm/russia_allows_police_to_search_homes_cars_without/)
 
 ## Links
 
@@ -118,7 +133,7 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Ошибки и реформы девяностых [Другие 90-е] (2021)](https://www.youtube.com/watch?v=K70WuLPV--o)
 - [Фотографии Дмитрия Маркова — рассказ о тоске и жизни в регионах России (2021)](https://meduza.io/feature/2021/04/03/fotografii-dmitriya-markova-rasskaz-o-toske-i-zhizni-v-regionah-rossii-a-ego-snimok-omonovtsa-pod-portretom-putina-stal-simvolom-presledovaniya-navalnogo)
 - [Throttling of Twitter in Russia](https://throttletwitter.com/) ([Tweet](https://twitter.com/royaensafi/status/1379539118770769926))
-- [Важные истории](https://istories.media/)
+- [Важные истории](https://istories.media/) ([YouTube](https://www.youtube.com/channel/UCZvFwA9WEsYgFEXbmlGQohA)) ([Twitter](https://twitter.com/istories_media))
 - [«Надо будет, и тебя убьем» (2021)](https://istories.media/reportages/2021/04/09/nado-budet-i-tebya-ubem/) ([Tweet](https://twitter.com/nlyaskin/status/1380473537979420686))
 - [Журнал DOXA](https://doxajournal.ru/)
 - [Бизнесмен Дмитрий Потапенко — Евгении Альбац: "Мы уже живем в совке 2.0" (2021)](https://www.youtube.com/watch?v=xrL6T8TIHG0)
@@ -246,3 +261,142 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Список всех русскоязычных сообществ Реддита](https://www.reddit.com/r/Pikabu/comments/c4irv5/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B2%D1%81%D0%B5%D1%85_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D1%8F%D0%B7%D1%8B%D1%87%D0%BD%D1%8B%D1%85_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2_%D1%80%D0%B5%D0%B4%D0%B4%D0%B8%D1%82%D0%B0/)
 - [How is the western world portrayed in Russian media? (2021)](https://www.reddit.com/r/AskARussian/comments/pt9ogh/how_is_the_western_world_portrayed_in_russian/)
 - [Чичваркин: я не Ходорковский, себя в жертву приносить не буду (2021)](https://www.youtube.com/watch?v=p1et0Wjh-34)
+- [Евгений Чичваркин - YouTube](https://www.youtube.com/c/totsamychichvarkin/videos)
+- [Гедонист в эмиграции, виноторговец, ресторатор, возмутитель спокойствия - и все в одном флаконе (2021)](https://www.youtube.com/watch?v=Xi19uHPprdM)
+- [Почему Путин накажет Медведева после победы «Единой России» на выборах? (2021)](https://www.youtube.com/watch?v=JoXVBVKlHhA)
+- [Дебаты: В чем оппозиция должна действовать вместе | Михаил Светов, Иван Жданов и Михаил Ходорковский (2021)](https://www.youtube.com/watch?v=sCtn5kofRN8) ([Tweet](https://twitter.com/ioannZH/status/1442552575207804928)) ([Tweet](https://twitter.com/ivaost/status/1442539662099107844))
+- [Troubleshooting mission (2021)](https://www.ridl.io/en/troubleshooting-mission/)
+- [RIDDLE Russia](http://www.ridl.io/en/) - Online journal on Russian affairs. ([Twitter](https://twitter.com/RiddleRussia))
+- [Настоящее Время](https://twitter.com/CurrentTimeTv) - По-честному обо всем, что происходит в постсоветских странах. ([IG](https://www.instagram.com/currenttime.tv/))
+- [The Kremlin’s Strange Victory (2021)](https://www.foreignaffairs.com/articles/united-states/2021-09-27/kremlins-strange-victory)
+- [Интервью рэпера Face (2021)](https://meduza.io/feature/2021/10/01/u-nas-problema-sugubo-lichnogo-haraktera-mezhdu-mnoy-i-vlastyu)
+- [Мандаты пользуются вбросом Только с помощью «переголосования» в Москве у оппозиции скрутили не менее четверти миллиона голосов и отдали их партии власти и ее кандидатам](https://novayagazeta.ru/articles/2021/09/30/mandaty-polzuiutsia-vbrosom) ([Tweet](https://twitter.com/MaximGongalsky/status/1443667177471713287))
+- [Why Does Joseph Stalin Matter? (2018)](https://www.youtube.com/watch?v=jhi2icRXbHo)
+- [Evolution Of Evil: Joseph Stalin](https://www.youtube.com/watch?v=a6m6q7I_1zY&t=1s)
+- [Официальный интернет-портал правовой информации](http://pravo.gov.ru/)
+- [Pavel Durov and VK. A story of ups and downs (2021)](https://www.youtube.com/watch?v=xnMxk8cncEY)
+- [Марков – как живет русская провинция / вДудь (2020)](https://www.youtube.com/watch?v=QDHYQ9Nd-GU)
+- [Pandora papers reveal hidden riches of Putin’s inner circle (2021)](https://www.theguardian.com/news/2021/oct/03/pandora-papers-reveal-hidden-wealth-vladimir-putin-inner-circle)
+- [Все тайны оффшорного мира](https://istories.media/pandora/) ([Tweet](https://twitter.com/pevchikh/status/1444722295126298626)) ([Summary](https://twitter.com/civ_soc/status/1444957691193987073))
+- [Окружение президента (2021)](https://istories.media/dossier/2021/10/03/okruzhenie-prezidenta/)
+- [50 крупнейших иностранных компаний в России (2021)](https://www.forbes.ru/biznes/441733-50-krupnejsih-inostrannyh-kompanij-v-rossii-2021-rejting-forbes)
+- [Взлет через трубу (2021)](https://istories.media/investigations/2021/10/03/vzlet--cherez-trubu/) ([Tweet](https://twitter.com/alburov/status/1444714514855964674))
+- [Чиновники и другие (2021)](https://istories.media/dossier/2021/10/03/chinovniki-i-drugie/) ([Tweet](https://twitter.com/alburov/status/1444717353489604617))
+- [Августовский путч 1991 года. Как это было?](https://www.youtube.com/watch?v=OVXR4XJkWsw)
+- [Russian 2021 election fraud proof](https://twitter.com/hippopedoid/status/1443594383106904065)
+- [Как Константин Эрнст связан с офшором, получившим миллиарды от госбанков России — расследование (2021)](https://www.youtube.com/watch?v=KNf4jAc42zY)
+- [Почему в России боятся рожать (2021)](https://www.youtube.com/watch?v=QGZAI5wBNG8)
+- [Как полицейские и «штатные» понятые фабриковали уголовные дела и сами оказались на скамье подсудимых (2021)](https://www.youtube.com/watch?v=viuYhGvQUfI)
+- [«Человек-растение». Как становятся инвалидами в колонии, где «лечат» Алексея Навального (2021)](https://www.youtube.com/watch?v=gDbhxgCS_FY) ([Tweet](https://twitter.com/varlamov/status/1445328009007927301)) ([Tweet](https://twitter.com/SobolLubov/status/1445365438553149443)) ([Video](https://www.youtube.com/watch?v=Zy8NhXs-sUM))
+- [Чичваркин: У Путина два врага - Навальный и продуктовая инфляция (2021)](https://www.youtube.com/watch?v=iMaFZy0aV_o)
+- [Alexei Navalny and the West’s Schröderizatsiya (2021)](https://cepa.org/alexei-navalny-and-the-wests-schroderizatsiya/)
+- [Skillbox](https://skillbox.ru/) - Образовательная платформа с онлайн-курсами.
+- [Речь Марии Певчих на Oslo Freedom Forum / Письмо Алексея Навального (2021)](https://www.youtube.com/watch?v=4jDy0lu3mBY)
+- [Убийство Политковской: впервые рассказываем подробную историю расследования «Новой газеты» (2021)](https://www.youtube.com/watch?v=Pfbjnpfj3ZE) ([Reddit](https://www.reddit.com/r/europe/comments/q3932x/on_7_october_2006_the_journalist_anna/))
+- [The Nobel Peace Prize 2021](https://www.nobelprize.org/prizes/peace/2021/press-release/) ([HN](https://news.ycombinator.com/item?id=28797147))
+- [Почему Путин живёт прошлым? (2021)](https://www.youtube.com/watch?v=UITD5WTITjY)
+- [The Murderous Rise of Russia's Billionaires (2021)](https://www.youtube.com/watch?v=tveVWnS36Nk)
+- [Timeline of Russian innovation](https://en.wikipedia.org/wiki/Timeline_of_Russian_innovation) ([Reddit](https://www.reddit.com/r/AskARussian/comments/q5f57s/what_invention_from_your_country_are_you_most/))
+- [Интернет-магазин Kate Snap](https://www.katesnap.com/shop) ([Tweet](https://twitter.com/andrey_sitnik/status/1447864904774467585))
+- [Новые Известия](https://newizv.ru/)
+- [Why do most Russian regret the fall of the Soviet Union? (2021)](https://www.reddit.com/r/AskARussian/comments/q688v5/why_do_most_russian_regret_the_fall_of_the_soviet/)
+- [GetMentor](https://getmentor.dev/) - Открытое сообщество IT-наставников.
+- [Authoritarian Russia: The trajectory of political evolution (2021)](https://www.ridl.io/en/authoritarian-russia-the-trajectory-of-political-evolution/)
+- [Письмо Алексея Навального, адресованное его сотрудникам и соратникам (2021)](https://meduza.io/feature/2021/10/13/poka-tochno-ne-yasno-kakim-zverem-my-stanem-no-tochno-krasivym)
+- [Почему в колониях все время пытают людей? (2021)](https://meduza.io/feature/2021/10/13/mnogie-zaklyuchennye-sami-provotsiruyut) ([Tweet](https://twitter.com/sult/status/1448214492068843521))
+- [Блестящая речь экс-президента Эстонии об Алексее Навальном, России и Западе (2021)](https://www.youtube.com/watch?v=EWdDStlnmxc)
+- [«Наступил Советский союз»: Гельман — о нападении на «Мемориал» и перспективах оппозиции в России (2021)](https://www.youtube.com/watch?v=OlE0dRgdJWU)
+- [Gulagu.net](https://gulagu-net.ru/) - Project against corruption and torture in Russia. ([ФСИН-гейт: как пытки в колониях становятся системой](https://www.youtube.com/watch?v=m4U78EqcqVE))
+- [Все о новой Госдуме: клетка для буйных, зарплаты в комитетах и новые полномочия. (2021)](https://www.youtube.com/watch?v=3tmpnx2C4xQ)
+- [Коррупция в России. Перцев и Гаазе обсуждают, как она изменилась за 20 лет (2021)](https://www.youtube.com/watch?v=bqcf2gaIwIg&t=1s)
+- [Когда в России отключат YouTube? И почему теперь враги —и либералы, и коммунисты (2021)](https://www.youtube.com/watch?v=sI9cn7jmtFA)
+- [Афиша Daily](https://daily.afisha.ru/)
+- [Особое мнение / Илья Новиков (2021)](https://www.youtube.com/watch?v=AJ2Q1PQpJ0w&t=286s)
+- [TJ](https://tjournal.ru/) - Новости интернета.
+- [Стагнация и накопительство. Владимир Милов о новом бюджете (2021)](https://vot-tak.tv/novosti/18-10-2021-byudzhet-milov/)
+- [Новая цифровая Россия](https://twitter.com/AA_Sergeev/status/1450076572191494147)
+- [Как хорошо вы знаете Россию?](https://motovskikh.ru/russia/)
+- [China-Russia axis (2021)](https://twitter.com/AlexGabuev/status/1450195682409816069) ([Tweet](https://twitter.com/leonidragozin/status/1450720094384963584))
+- [Движение Альтернатива](https://alternative.help/) ([TG](https://t.me/alternative_help/))
+- [Лучшее из русского рэпа (2021)](https://twitter.com/lotareva3/status/1450754441544671232)
+- [The Language of a Successful Dictator: How to Remain Popular Without Ending Repressions (2021)](https://www.ridl.io/en/the-language-of-a-successful-dictator-how-to-remain-popular-without-ending-repressions/)
+- [Ужасная Россия будущего. 10 страшных вещей, которые могут случиться с нашей страной (2021)](https://www.youtube.com/watch?v=9gXBCoUQWo8)
+- [Близкий друг Путина миллиардер Пугачев. Вся правда о Путине, его семье и деньгах. (2021)](https://www.youtube.com/watch?v=UttgyZCppyA)
+- [Архивы Вечер в хату, россияне](https://vot-tak.tv/proyekt/vecher-v-hatu/) ([Tweet](https://twitter.com/v_milov/status/1451522323740303386))
+- [Бомба на 100 гигабайт. Первое интервью с Сергеем Савельевым, который выкрал “пыточный архив” ФСИ (2021)](https://www.youtube.com/watch?v=ipdvxlTaaqc) ([Tweet](https://twitter.com/B4cchus/status/1451832989160202248))
+- [Тихон Дзядко — о клейме «иноагента», «крыше» Медведева и будущем журналистики (2021)](https://www.youtube.com/watch?v=Dw_sSScSmSQ)
+- [Книжные памятники — собрание ценных изданий](https://kp.rusneb.ru/)
+- [НЭБ](https://rusneb.ru/) - Национальная электронная библиотека.
+- [Почему в России ТАКАЯ власть? Государство в двух словах. (2021)](https://www.youtube.com/watch?v=65YBwgOPrSE)
+- [Yes, It Was An 'Evil Empire' (2021)](https://reason.com/2021/11/01/yes-it-was-an-evil-empire/)
+- [The Stunning Grandeur of Soviet-Era Metros (2021)](https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html)
+- [Герой своего романа](https://iamhero.special.ink/)
+- [Пытки для Навального: кем его окружили в колонии, как компрометируют и ломают (2021)](https://www.youtube.com/watch?v=AWUsaUcd0I8&t=1s) ([Tweet](https://twitter.com/Kira_Yarmysh/status/1456170822410899458)) ([Tweet](https://twitter.com/team_milov/status/1456205700296847361)) ([Transcript](https://tvrain.ru/news/byvshie_zakljuchennye_pokrovskoj_kolonii_rasskazali_ob_izdevatelstvah_nad_navalnym-541267/))
+- [Куда в России можно сгонять, чтобы пожить рядом с горами](https://twitter.com/vzrosly_content/status/1457366581131059204)
+- [Pikabu](https://pikabu.ru/) - Уютное информационно-развлекательное сообщество.
+- [Что делать когда в стране все плохо политечки](https://twitter.com/ioannZH/status/1458669114826928128)
+- [Arrested in my pyjamas: I became a political prisoner at 23 (2021)](https://www.economist.com/1843/2021/11/10/arrested-in-my-pyjamas-i-became-a-political-prisoner-at-23)
+- [Breezzly](https://breezzly.ru/) - Онлайн-курсы по веб-дизайну и анимации UX/UI.
+- [How Putin is silencing his opponents (2021)](https://www.youtube.com/watch?v=_NrV0UegeuM) ([Article](https://www.economist.com/leaders/2021/11/13/russias-new-era-of-repression))
+- ["У нас запрет на реальность". Почему в российском кино и сериалах все больше табу (2021)](https://www.bbc.com/russian/features-59255248)
+- [BBC News Русская служба](https://www.bbc.com/russian)
+- [30 лет «шоковой терапии»: Сергей Гуриев о том, что пошло не так в 91-м и кто виноват (2021)](https://www.youtube.com/watch?v=qhOKQPA0llk)
+- [Чем опасно для режима усиление силовиков? Похоже, элиты начали истреблять сами себя (2021)](https://www.youtube.com/watch?v=mnK2O6UkMv8)
+- [Kremlin.ru](http://www.kremlin.ru/)
+- [Жертвы политического террора в СССР](https://base.memo.ru/) - Более 3 000 000 записей в базе.
+- [Личное дело каждого](https://dostup.memo.ru/)
+- [Введение в феминизм](https://twitter.com/SunnySwamp/status/1388833195353903111)
+- [Душняк. Советский диссидент Александр Подрабинек об издевательствах над Навальным (2021)](https://theins.ru/opinions/aleksandr-podrabinek/246355)
+- [vc.ru](https://vc.ru/) - Бизнес, технологии, идеи, модели роста, стартапы.
+- [Yuri Andropov](https://www.youtube.com/watch?v=AxzXdqqHND0)
+- [Про Путинское политбюро и политбюро ЦК КПСС](https://twitter.com/mironov_fm/status/1462390762331521026)
+- [История России. Все серии. От Рюрика до Революции](https://www.youtube.com/watch?v=7jR3QgUGPcQ)
+- [Революции 1917 года в России](https://www.youtube.com/watch?v=6FNr9eF8e_s)
+- [О чем на самом деле любимые советские фильмы? (2021)](https://www.youtube.com/watch?v=1aDB1TksfUU)
+- [Summary of Soviet economics at the fall of USSR](https://echelon.pl/nikolay-shmelyov-avansy-i-dolgi-credits-and-debts-novyi-mir-1987-6.html)
+- [Colta.ru](https://www.colta.ru/) - Всё о культуре и духе времени. ([Twitter](https://twitter.com/ColtaRu))
+- [Соратница Навального Ирина Фатьянова уехала из России, опасаясь преследования. Она рассказывает о том, как ей пришлось бросить все — и почему она не отчаивается (2021)](https://meduza.io/episodes/2021/11/26/soratnitsa-navalnogo-irina-fatyanova-uehala-iz-rossii-opasayas-presledovaniya-ona-rasskazyvaet-o-tom-kak-ey-prishlos-brosit-vse-i-pochemu-ona-ne-otchaivaetsya)
+- [Вперед в 1937-й. За что на самом деле уничтожают «Мемориал» (2021)](https://www.youtube.com/watch?v=3o4Qyq0_NKk)
+- [Gulag: A History (2003)](https://www.goodreads.com/book/show/224379.Gulag)
+- [Система власти в России сломалась. Как будет устроен новый режим? (2021)](https://www.youtube.com/watch?v=mX98k1GOOxY)
+- [Russia around the period of the Russian Revolution in color! (1917-1919) [A.I. enhanced & colorized]](https://www.youtube.com/watch?v=Buk1dBv8h88)
+- [Books for objective history book on the USSR (2021)](https://www.reddit.com/r/suggestmeabook/comments/r5q9an/recommendations_for_objective_history_book_on_the/)
+- [Как переписывают историю в России, США и по всему миру (2021)](https://www.youtube.com/watch?v=zUzQlrZenmQ)
+- [The awkward renewal of Russia’s cities (2021)](https://www.ridl.io/en/the-awkward-renewal-of-russia-s-cities/)
+- [Интерфакс: новости](https://www.interfax.ru/)
+- [Какие надо смыслы - Как судебная экспертиза помогает сажать и штрафовать людей за слова и картинки](https://kakie-nado-smysly.ru/)
+- [Год в поиске - Russia](https://trends.google.ru/trends/yis/2021/RU/)
+- [Here's why any sane progressive would have opposed the Soviet Union (2020)](https://twitter.com/grudkev/status/1229484189336178689)
+- [Russian agricultural trade and world markets (2020)](https://rujec.org/article/50308/)
+- [Russian Journal of Economics](https://rujec.org/)
+- [Сталинская экономика лучше путинской? // Сергей Гуриев о правде и мифах СССР (2021)](https://www.youtube.com/watch?v=Hg1KRA6375o)
+- [Smekalka](https://smekalka-food.ru/) - Доставка полезных продуктов.
+- [Биографии знаменитостей](https://uznayvse.ru/znamenitosti/)
+- [Видеоистория русской культуры за 25 минут](https://arzamas.academy/likbez/ruskult)
+- [Артефакт](https://artefact.culture.ru/) - Гид по музеям России.
+- [Намедни 1961-2003. Наша эра - YouTube](https://www.youtube.com/playlist?list=PL2dnmwJp-KL6RLhfmDDQwZcoONM7jk_Qa)
+- [Все тома «Намедни. Наша эра»](https://namednibook.ru/volumes/)
+- [Пётр Лидов — Роковые восьмидесятые. 1980, часть первая](https://www.youtube.com/watch?v=N06SiexIdvw&t=1s)
+- [Павел Перец - Об истории русского терроризма](https://www.youtube.com/playlist?list=PLvEg18LiWffCP1UWtw258C2Ew2l4r9RvN)
+- [Паша Техник - 50 вопросов (2021)](https://www.youtube.com/watch?v=2Jjzt52T5rY)
+- [Генератор судебных документов](https://generaptor.ovdinfo.org/) - Документы для суда за 10 минут.
+- [Finversia](https://www.finversia.ru/news) - Финансовые новости, обзоры и аналитические статьи.
+- [РБК](https://www.rbc.ru/) - Новости дня в России и мире.
+- [List of influential Russian people](https://twitter.com/KevinRothrock/status/1471261826587443200)
+- [Малые города России, которые вас приятно удивили](https://twitter.com/arkhlikbez/status/1471265492740587521)
+- [Population Density Of Russia](https://www.reddit.com/r/MapPorn/comments/rg8hge/population_density_of_russia/)
+- [Масяня – легенда русского интернета / вДудь (2021)](https://www.youtube.com/watch?v=rjjpf3psiSg&t=1s)
+- [Notes on Jasny – Soviet Industrialization (1928-1952)](http://www.federicopereiro.com/notes-jasny-1961/)
+- [«Плиз, начните думать своей головой» (2021)](https://takiedela.ru/2021/12/pliz-nachnite-dumat-svoey-golovoy/) - О жизни в провинции, о том, как снимать ролики без кучи денег и кто виноват в проблемах русского человека.
+- [What the success of a US soap says about modern Russia (2021)](https://www.ft.com/content/6e00aada-73d7-413b-99d8-445ea225a49e)
+- [Moscow | Financial Times](https://www.ft.com/stream/d9ee1f26-86f4-3db2-8869-931fb0fa5d3c)
+- [Путеводитель по российскому пьянству (2021)](https://www.agents.media/alkogolizm-statistika/)
+- [Федеральная налоговая служба](https://www.nalog.gov.ru/rn77/)
+- [Russia behind bars: the peculiarities of the Russian prison system (2019)](https://www.osw.waw.pl/en/publikacje/osw-commentary/2019-02-07/russia-behind-bars-peculiarities-russian-prison-system)
+- [OSW Centre for Eastern Studies](https://www.osw.waw.pl/en)
+- [Russia in 2021: The Year in Photos](https://www.themoscowtimes.com/2021/12/27/russia-in-2021-the-year-in-photos-a75795)
+- [Минусы Москвы. Почему я уезжаю спустя два года (2021)](https://www.youtube.com/watch?v=MIC_C1zX8Q0)
+- [Видео-подкаст «Книжная ссылка». Дмитрий Быков: Россия — антиутопия без идеологии (2021)](https://www.youtube.com/watch?v=LXchZxlWrs4)
+- [ЖЗЛ с Дмитрием Быковым - YouTube](https://www.youtube.com/c/%D0%96%D0%97%D0%9B%D1%81%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%BC%D0%91%D1%8B%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC/videos)
+- [«Режим вступил в эпоху заката»: Михаил Ходорковский о том, почему Путин похож на позднего Брежнева (2022)](https://www.youtube.com/watch?v=1P9gv1gR00k)
+- [Консультант Плюс](http://www.consultant.ru/) - Законодательство РФ.

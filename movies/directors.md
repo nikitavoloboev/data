@@ -1,6 +1,6 @@
 # Film directors
 
-I made a list of my [favorite movie directors](https://www.imdb.com/list/ls080580530/).
+I made a list of my [favorite movie directors](https://www.imdb.com/list/ls080580530/) together with my [favorite screenwriters](https://www.imdb.com/list/ls551694473/).
 
 ## Interesting
 
@@ -21,3 +21,6 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [David F. Sandberg videos on directing](https://www.youtube.com/user/ponysmasher/featured)
 - [The Drenching Richness of Andrei Tarkovsky (2021)](https://www.newyorker.com/magazine/2021/02/15/the-drenching-richness-of-andrei-tarkovsky) ([HN](https://news.ycombinator.com/item?id=26126004))
 - [Why MAD MAX: FURY ROAD Works - A Scene-By-Scene Breakdown (2021)](https://www.youtube.com/watch?v=8K2YdftsywM)
+- [Which directors entire filmography do you think is the best to have seen?](https://www.reddit.com/r/Letterboxd/comments/r9m290/which_directors_entire_filmography_do_you_think/)
+- [Directed by Quentin Tarantino (2020)](https://www.youtube.com/watch?v=vnZPtwME_mc)
+- [A Director who is worth watching a back catalogue of? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/rubmhc/a_director_who_is_worth_watching_a_back_catalogue/)

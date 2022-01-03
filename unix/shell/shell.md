@@ -49,10 +49,10 @@ All active variables can be seen by running `env`.
 - [Wez's Terminal](https://github.com/wez/wezterm) - GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust.
 - [Text processing in the shell (2020)](https://blog.balthazar-rouberol.com/text-processing-in-the-shell) ([HN](https://news.ycombinator.com/item?id=22590824))
 - [Crush](https://github.com/liljencrantz/crush) - Attempt to make a command line shell that is also a powerful modern programming language.
-- [nsh](https://github.com/nuta/nsh) - Command-line shell like fish, but POSIX compatible.
+- [Nsh](https://github.com/nuta/nsh) - Fish/bash-like Posix shell in Rust. ([HN](https://news.ycombinator.com/item?id=28967257))
 - [Three Comics For Understanding Unix Shell (2020)](http://www.oilshell.org/blog/2020/04/comics.html)
 - [Oil Shell](http://www.oilshell.org/) - New Unix shell. ([Blog](http://www.oilshell.org/blog/)) ([Idioms](http://www.oilshell.org/preview/doc/idioms.html))
-- [asciinema](https://asciinema.org/) - Web player for terminal session recordings. ([Code](https://github.com/asciinema/asciinema-player))
+- [asciinema](https://asciinema.org/) - Web player for terminal session recordings. ([Code](https://github.com/asciinema/asciinema-player)) ([4x smaller, 50x faster](https://blog.asciinema.org/post/smaller-faster/)) ([HN](https://news.ycombinator.com/item?id=29387761))
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS.
 - [Customizing your shell (2020)](https://blog.balthazar-rouberol.com/customizing-your-shell.html) ([HN](https://news.ycombinator.com/item?id=22898577))
 - [tmate](https://tmate.io/) - Instant terminal sharing. ([Code](https://github.com/tmate-io/tmate))
@@ -136,7 +136,7 @@ All active variables can be seen by running `env`.
 - [Performance optimizations for the shell prompt (2021)](https://seb.jambor.dev/posts/performance-optimizations-for-the-shell-prompt/)
 - [GoTTY](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
-- [Unix Shell Programming: The Next 50 Years (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf) ([HN](https://news.ycombinator.com/item?id=27378444)) ([HN](https://news.ycombinator.com/item?id=28231981)) ([Review](https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html))
+- [Unix Shell Programming: The Next 50 Years (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf) ([HN](https://news.ycombinator.com/item?id=27378444)) ([HN](https://news.ycombinator.com/item?id=28231981)) ([Review](https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html)) ([HN](https://news.ycombinator.com/item?id=29610956))
 - [Hilbish](https://github.com/Rosettea/Hilbish) - Interactive Unix-like shell written in Go, with the config and other code written in Lua.
 - [Typed Pipes in Every Shell](http://joeyh.name/blog/entry/typed_pipes_in_every_shell/) ([HN](https://news.ycombinator.com/item?id=27535357))
 - [4 Useful fzf Tricks for Your Terminal (2021)](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)
@@ -154,3 +154,28 @@ All active variables can be seen by running `env`.
 - [PaSh: Light-touch Data-Parallel Shell Processing (2021)](https://www.micahlerner.com/2021/07/31/pash-light-touch-data-parallel-shell-processing.html)
 - [resholve](https://github.com/abathur/resholve) - Replaces references to a bash/shell script's external dependencies (commands and sourced scripts) with absolute paths.
 - [Fun with Redirection (2021)](https://christine.website/blog/fun-with-redirection-2021-09-22)
+- [Dune](https://github.com/adam-mcdaniel/dune) - Shell by the beach. ([HN](https://news.ycombinator.com/item?id=28727566))
+- [Understanding AWK (2021)](https://earthly.dev/blog/awk-examples/) ([HN](https://news.ycombinator.com/item?id=28707463)) ([Lobsters](https://lobste.rs/s/4wxwzh/understanding_awk))
+- [Cloudshell](https://github.com/zephinzer/cloudshell) - Xterm.js frontend that connects to a Go backend to provide a shell to the host system. Basically, access your shell from a browser.
+- [The Return of the Unix Shell (2021)](https://www.sigops.org/2021/the-return-of-the-unix-shell/)
+- [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/introduction.html)
+- [Showing GUIs from Shell Scripts (2021)](https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html) ([HN](https://news.ycombinator.com/item?id=28848858))
+- [overdub](https://github.com/zalimeni/overdub) - Create new commands from your shell history or terminal.
+- [async](https://github.com/ctbur/async) - Tool to parallelize shell commands.
+- [Seashells](https://seashells.io/) - Pipe output from command-line programs to the web in real-time. ([HN](https://news.ycombinator.com/item?id=28901580)) ([Go Client](https://github.com/hans-strudle/seashells))
+- [Run](https://github.com/TekWizely/run) - Easily manage and invoke small scripts and wrappers.
+- [Stephen Bourne: Early days of Unix and design of sh (2015)](https://www.youtube.com/watch?v=2kEJoWfobpA)
+- [Anatomy of a Terminal Emulator (2021)](https://www.poor.dev/blog/terminal-anatomy/) ([HN](https://news.ycombinator.com/item?id=29080561))
+- [GNU Utility: envsubst](https://pradeepchhetri.xyz/til/envsubst/)
+- [shell.how](https://www.shell.how/) - Write down a command-line to see how it works. ([Code](https://github.com/phuctm97/shell.how))
+- [Useful sed scripts & patterns](https://github.com/adrianscheff/useful-sed) ([HN](https://news.ycombinator.com/item?id=29196221))
+- [nhi](https://github.com/strang1ato/nhi) - Capture every information about each executed command. ([HN](https://news.ycombinator.com/item?id=29205169))
+- [Demo Magic](https://github.com/paxtonhare/demo-magic) - Handy shell script that enables you to write repeatable demos in a bash environment.
+- [Tiny Shell (tish)](https://github.com/shibukawa/tish) - Written in Go.
+- [terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML. ([Web](http://buildkite.github.io/terminal-to-html/))
+- [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell language and command prompt. ([Web](https://xon.sh/))
+- [Common shell script mistakes (2008)](http://www.pixelbeat.org/programming/shell_script_mistakes.html) ([HN](https://news.ycombinator.com/item?id=29470863))
+- [makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies.
+- [vsh](https://github.com/xmantle/vsh) - Unix shell written and implemented in rust.
+- [You shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs) ([HN](https://news.ycombinator.com/item?id=29747034))
+- [Oil Retrospective: Software Architecture](https://www.oilshell.org/blog/2021/12/review-arch.html)

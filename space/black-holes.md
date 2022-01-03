@@ -5,6 +5,7 @@
 - [It means all of the predictions we have made about black holes appear to be correct - we never could have said that definitively without an actual image. It means that predictions about how gravity works at this scale are apparently correct. It means we can image things, successfully with a telescope the size of the planet. It means black holes are no longer science fiction, aren't just predictions or expectations but definitely there. It means that general relativity doesn't change even at scales as huge as a super massive black hole. It means that our predictions of it's mass made from observing stellar orbits were pretty much right on.](https://www.reddit.com/r/space/comments/bblt4f/astronomers_capture_first_image_of_a_black_hole/)
   - [Radio astronomer explanation of the black hole image](https://www.reddit.com/r/space/comments/bblt4f/astronomers_capture_first_image_of_a_black_hole/ekjmm6g/)
 - [The density is what makes it a black hole, not the mass. Assume a perfectly spherically symmetric object. This object is a black hole if its radius is smaller that the Schwarzschild radius r_s corresponding with its mass. In this case the Schwarzschild radius becomes the radius of the event horizon.](https://www.reddit.com/r/AskPhysics/comments/n0ei7i/since_black_holes_are_constantly_losing_mass_is/)
+- [Enough photons in a small enough volume would collapse into a Kugelblitz, a black hole made from radiation, the same way it happens for matter. However the amount of energy (and therefore radiation) required is really high, since it has to be equivalent to an already large mass. Only true if the invarient mass (density) of the collection of photons is sufficiently high. For co-propagating photons, the invarient mass is zero as you could choose your reference frame such that the photons had any energy you like.](https://www.reddit.com/r/AskPhysics/comments/rpzcjp/is_there_any_limit_to_how_many_photons_can_fit_in/)
 
 ## Links
 
@@ -37,4 +38,6 @@
 - [A Dyson sphere around a black hole (2021)](https://arxiv.org/abs/2106.15181) ([HN](https://news.ycombinator.com/item?id=28230092))
 - [The Map of Black Holes | Your Ultimate Guide to Black Holes (2021)](https://www.youtube.com/watch?v=Wf0uxjWGwPk)
 - [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole (2021)](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/) ([HN](https://news.ycombinator.com/item?id=28466027))
-- [‎Black Holes: The Edge of All We Know (2020)](https://letterboxd.com/film/black-holes-the-edge-of-all-we-know/)
+- [Black Holes: The Edge of All We Know (2020)](https://letterboxd.com/film/black-holes-the-edge-of-all-we-know/)
+- [In 1783, an English rector predicted black holes using classical mechanics](https://interestingengineering.com/forgotten-preacher-predicts-black-holes-a-century-before-einstein) ([HN](https://news.ycombinator.com/item?id=29026073))
+- [Are Fuzzballs the new understanding of Black Holes? (2021)](https://www.youtube.com/watch?v=RbvVeVHVcgs) ([Reddit](https://www.reddit.com/r/Physics/comments/rkaqkr/my_friend_made_a_video_interviewing_a_famous/))

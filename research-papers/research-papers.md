@@ -10,7 +10,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 
 # Recommendations
 
-- [Papers We Love](https://paperswelove.org/) - Papers from the computer science community to read and discuss. ([Code](https://github.com/papers-we-love/papers-we-love))
+- [Papers We Love](https://paperswelove.org/) - Papers from the computer science community to read and discuss. ([Code](https://github.com/papers-we-love/papers-we-love)) ([HN](https://news.ycombinator.com/item?id=29690327))
 - [Ask HN: What are some interesting papers in CS for a beginner?](https://news.ycombinator.com/item?id=15695326)
 - [HN best papers 2017](https://news.ycombinator.com/item?id=16035402)
 - [Some more papers to read](https://lobste.rs/s/npo38i/what_are_some_good_interesting_papers_cs)
@@ -42,7 +42,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arxiv2remarkable.py](https://github.com/GjjvdBurg/arxiv2remarkable) - Fetch an arXiv/PubMed/ACM/OpenReview/Springer paper and send it to the reMarkable.
 - [Some papers](http://worrydream.com/refs/)
 - [OpenReview](https://openreview.net/) - Aims to promote openness in scientific communication, particularly the peer review process.
-- [Zotero](https://www.zotero.org/) - Personal research assistant. ([HN](https://news.ycombinator.com/item?id=22694891)) ([Code](https://github.com/zotero/zotero)) ([Zotero best practices](https://forum.obsidian.md/t/zotero-best-practices/164/))
+- [Zotero](https://www.zotero.org/) - Personal research assistant. ([HN](https://news.ycombinator.com/item?id=22694891)) ([Code](https://github.com/zotero/zotero)) ([Zotero best practices](https://forum.obsidian.md/t/zotero-best-practices/164/)) ([HN](https://news.ycombinator.com/item?id=29774097))
 - [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts.
 - [ACM Digital Library](https://dl.acm.org/) - Research, discovery and networking platform. ([HN](https://news.ycombinator.com/item?id=22794984))
 - [Deep Learning Paper Summaries](https://github.com/vlgiitr/papers_we_read)
@@ -123,3 +123,31 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Xirva](https://www.xirva.org/) - Arxiv.org on IPFS. ([HN](https://news.ycombinator.com/item?id=28442022)) ([Code](https://github.com/hugoroussel/xirva))
 - [Researchr](https://researchr.org/) - Platform for finding, collecting, sharing, and reviewing scientific publications, for researchers by researchers.
 - [Paper to HTML](https://papertohtml.org/) - Render scientific papers in HTML so they can be more easily read by screen readers or on mobile devices.
+- [Full-Text Search of Sci-Hub](https://exaly.com/?d=https://sci-hub.st/)
+- [Nota](https://github.com/willcrichton/nota) - Framework for writing academic papers, like LaTeX. ([Paper](https://willcrichton.net/nota/))
+- [Research Paper Notes](https://github.com/IvLabs/ResearchPaperNotes) ([Web](https://ivlabs.github.io/ResearchPaperNotes/))
+- [GitHub Repositories with Links to Academic Papers: Public Access, Traceability, and Evolution (2021)](https://arxiv.org/abs/2004.00199)
+- [arXiv daily papers](https://github.com/weihaox/arxiv-daily-update)
+- [Neat scientific papers on research chemicals (2021)](https://www.reddit.com/r/researchchemicals/comments/q4vz94/some_neat_scientific_papers_on_research_chemicals/)
+- [Awesome paper list](https://github.com/ConanCui/Paper-List)
+- [Open Knowledge Discovery Reading List](https://github.com/thuiar/OKD-Reading-List)
+- [arxiv2notion](https://github.com/denkiwakame/arxiv2notion) - Chrome extension for clipping arXiv articles to Notion.
+- [Paper Style Guide](https://github.com/huggingface/paper-style-guide)
+- [Fermat's Last Margin](https://github.com/shapr/fermatslastmargin) - Tool for creating and sharing annotations, using github for storage and social network.
+- [Giant, free index to world's research papers released online (2021)](https://www.nature.com/articles/d41586-021-02895-8) ([HN](https://news.ycombinator.com/item?id=29008367))
+- [Best Paper Awards at EMNLP 2021](https://2021.emnlp.org/blog/2021-10-29-best-paper-awards)
+- [Doctor](https://github.com/kmaasrud/doctor) - Document builder and command line tool that uses Pandoc coupled with a TeX engine to produce high-quality documents. ([Docs](https://kmaasrud.com/doctor/))
+- [How to read more research papers? (2021)](https://www.reddit.com/r/learnmachinelearning/comments/o7l9sv/how_to_read_more_research_papers/) ([Tweet](https://twitter.com/anvaka/status/1457435710999257090))
+- [2021 AI Papers List](https://github.com/louisfb01/best_AI_papers_2021) ([Article](https://www.louisbouchard.ai/2021-ai-papers-review/)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/rovtz1/research_looking_for_interesting_ml_papers_to/))
+- [Quarto](https://quarto.org/) - Open-source scientific and technical publishing system built on Pandoc. ([Code](https://github.com/quarto-dev/quarto-cli))
+- [Papers List Generation](https://papers-ai.vercel.app/) ([Code](https://github.com/flavioschneider/papers-ai))
+- [arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - Lighter-weight arxiv-sanity re-write. ([Tweet](https://twitter.com/karpathy/status/1466094087296012289))
+- [TextFrame](https://textframe.app/) - No-code tool to create animated technical papers. ([HN](https://news.ycombinator.com/item?id=29234636))
+- [Pulling Google Scholar Citation Counts with a Zotero Plugin for Sorting Papers (2021)](https://justinribeiro.com/chronicle/2021/11/17/pulling-google-scholar-citation-counts-with-a-zotero-plugin-for-sorting-papers/)
+- [Online BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/) - Clean up BibTeX files. ([Code](https://github.com/FlamingTempura/bibtex-tidy)) ([HN](https://news.ycombinator.com/item?id=29339853))
+- [betterbib](https://github.com/nschloe/betterbib) - Update BibTeX files with info from online resources.
+- [arxiv-utils](https://github.com/j3soon/arxiv-utils) - Meaningful titles for tabs and PDF downloads! Also supports tab search.
+- [The Business of Extracting Knowledge from Academic Publications (2021)](https://markusstrasser.org/extracting-knowledge-from-literature/) ([HN](https://news.ycombinator.com/item?id=29481061))
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics.
+- [Trends of arxiv submissions counted from twitter/medium/reddit](https://github.com/mavenlin/ai_research_trends)
+- [arxiv.py](https://github.com/lukasschwab/arxiv.py) - Python wrapper for the arXiv API.

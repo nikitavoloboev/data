@@ -76,13 +76,13 @@
 - [Top 10 Most Important SQL Commands to Know (2020)](https://blog.arctype.com/sql-cheat-sheet-top-10-most-important-sql-commands-to-know/)
 - [Automate Business Logic With Logic Bank](https://dzone.com/articles/automate-business-logic-with-logic-bank) - Rule engine automates SQLAlchemy update logic for remarkable agility - 40X more concise. Scalable. Extensible and manageable using Python. ([Tweet](https://twitter.com/zzzeek/status/1328041618931408898))
 - [SQL overview](http://jakewheat.github.io/sql-overview/) ([Code](https://github.com/JakeWheat/sql-overview))
-- [cloudquery](https://cloudquery.run/) - Transform your cloud config and metadata to SQL. ([Code](https://github.com/cloudquery/cloudquery))
+- [CloudQuery](https://www.cloudquery.io/) - Transform your cloud config and metadata to SQL. ([Code](https://github.com/cloudquery/cloudquery))
 - [mfsqlchecker](https://github.com/MedFlyt/mfsqlchecker) - Statically validate correctness of all your SQL queries. TypeScript, PostgreSQL.
 - [SQLiterally](https://github.com/terkelg/sqliterally) - Lightweight SQL query builder.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool. ([Web](http://sqlmap.org/))
 - [SQL Conventions](https://github.com/FGRibreau/sql-convention)
 - [SQLFlow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together. ([Web](https://sql-machine-learning.github.io/))
-- [Practical SQL (2018)](https://nostarch.com/practicalSQL) - Beginner’s Guide to Storytelling with Data.
+- [Practical SQL (2022)](https://nostarch.com/practical-sql-2nd-edition/) - Beginner’s Guide to Storytelling with Data. ([Code](https://github.com/anthonydb/practical-sql-2))
 - [Recursion in SQL Explained Visually (2020)](https://medium.com/swlh/recursion-in-sql-explained-graphically-679f6a0f143b)
 - [FuseQuery](https://github.com/datafusedev/fuse-query) - Distributed SQL Query Engine at scale. ([Web](https://datafuse.dev/))
 - [Introduction to Window Functions in SQL (2020)](https://khashtamov.com/en/sql-window-functions/) ([HN](https://news.ycombinator.com/item?id=25656583))
@@ -134,3 +134,21 @@
 - [Cloud Infrastructure as SQL](https://www.iasql.com/) ([HN](https://news.ycombinator.com/item?id=28554089))
 - [SQL Explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries.
 - [fsql](https://github.com/kashav/fsql) - Find files with SQL.
+- [A single person answered 76,229 questions about SQL on StackOverflow](https://stackoverflow.com/nocaptcha?s=f29968b0-76eb-45d9-8d63-95c38f69a4a4) ([HN](https://news.ycombinator.com/item?id=28642326)) ([Reddit](https://www.reddit.com/r/programming/comments/puok1h/a_single_person_answered_76k_questions_about_sql/))
+- [Why NoSQL](https://rxdb.info/why-nosql.html) ([HN](https://news.ycombinator.com/item?id=28767996))
+- [What ORMs have taught me: just learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/index.html) ([HN](https://news.ycombinator.com/item?id=28812506))
+- [ZetaSQL](https://github.com/google/zetasql) - Analyzer Framework for SQL.
+- [SQL for Distributed Systems (2021)](https://www.babbling.fish/elt-cookbook-sql/) ([HN](https://news.ycombinator.com/item?id=28834117))
+- [sqlcommenter](https://google.github.io/sqlcommenter/) - Suite of middlewares/plugins that enable your ORMs to augment SQL statements. ([Code](https://github.com/google/sqlcommenter))
+- [What is a slow SQL query? (2021)](https://postgres.ai/blog/20210909-what-is-a-slow-sql-query)
+- [xyr](https://github.com/alash3al/xyr) - Lightweight, simple, and powerful data ETL platform that helps you to query available data sources using SQL.
+- [go-mysql-server](https://github.com/dolthub/go-mysql-server) - SQL engine which parses standard SQL (based on MySQL syntax) and executes queries on data sources of your choice.
+- [List of MySQL joins types](https://twitter.com/DataScienceDojo/status/1461122230394540038)
+- [SQL: The difference between WHERE and HAVING](https://sql-bits.com/the-difference-between-where-and-having/) ([HN](https://news.ycombinator.com/item?id=29550683))
+- [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
+- [Trino](https://trino.io/) - Distributed SQL query engine for big data. ([Code](https://github.com/trinodb/trino))
+- [Better SQL JOINs (2021)](https://news.ycombinator.com/item?id=29687134)
+- [Running SQL JOINs on multiple CSV files](https://relational-pipes.globalcode.info/v_0/examples-csv-sql-join.xhtml)
+- [PGSpider](https://github.com/pgspider/pgspider) - High-Performance SQL Cluster Engine for distributed big data.
+- [SQL language proposal: JOIN FOREIGN](https://gist.github.com/joelonsql/15b50b65ec343dce94db6249cfea8aaa) ([HN](https://news.ycombinator.com/item?id=29739147))
+- [Dremio](https://www.dremio.com/) - SQL Data Lakehouse Platform for High-Performance BI. ([Code](https://github.com/dremio/dremio-oss))

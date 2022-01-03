@@ -2,6 +2,7 @@
 
 ## Notes
 
+- [Government should just get out of the way and not impede progress.](https://www.youtube.com/watch?v=lSD_vpfikbE)
 - [Digital technology is separating the citizens in all societies into two groups: the watchers and the watched.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
 - [Once we searched Google, but now Google searches us. Once we thought of digital services as free, but now surveillance capitalists think of us as free.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
 - [It is no longer enough to automate information flows about us; the goal now is to automate us. These processes are meticulously designed to produce ignorance by circumventing individual awareness and thus eliminate any possibility of self-determination. As one data scientist explained to me, “We can engineer the context around a particular behaviour and force change that way… We are learning how to write the music, and then we let the music make them dance.”](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
@@ -18,6 +19,15 @@
 - [Police don’t prevent crime. They show up after it happens. Crime prevention starts with funding social programs and creating opportunity.](https://twitter.com/mhdksafa/status/1408292548737699840)
 - [It's a common tactic of authoritarian governments. Criminalize normal behavior, don't enforce it so people get used to breaking said law as a matter of habit. Then when you need someone gone or discredited you just arrest them for any of the numerous crimes averages citizens commit everyday.](https://www.reddit.com/r/worldnews/comments/ppuuf6/under_pressure_from_russian_government_google/)
 - [The violence built into the system never counts as violence. But the violence of resistance is always considered violence.](https://twitter.com/zapatistarising/status/1439348242131689482)
+- [DAOs are perfectly designed tech brain VC bait. Imagine if we could replace the gross messy human business of making decisions with a system of clean computed votes cast by perfectly rational actors with compatible incentive systems. on the blockchain](https://twitter.com/isosteph/status/1441437320289341445)
+- [In DAOs, we often conflate leadership with centralization. The reality is decentralization comes from having many leaders, not zero leaders. To optimize for decentralization, DAOs need to create many pathways for contributors to become leaders.](https://twitter.com/chaserchapman/status/1441458730277629958)
+- [Governance means conflict. It also means resolution. Accept the former, focus on the latter, and trust your team. With transparency.](https://twitter.com/armaniferrante/status/1450878886535839745)
+- [Regulation is often better for the incumbents than the challengers.](https://twitter.com/benedictevans/status/1455531071588679689)
+- [Polls as easy as a tweet, civic engagement, allocating funds. Just need some DAO tools on this.](https://twitter.com/yanivgraph/status/1457104839620677632)
+- [Socialism and dictatorship fit together like two jigsaw puzzle pieces, because in practice communal ownership = state control](https://twitter.com/paulg/status/1460212725938900995)
+- [Taxes are best applied to (especially extravagant) consumption, whereas capital allocation taxes reduce goods & services output, so actually bad for the people. Probable capital allocation skill of heirs is lower than original creator, so I am in favor of an estate tax.](https://twitter.com/noahpinion/status/1460449757076226049?s=28)
+- [Idea: all government spending should be presented as $-per-taxpayer. 10 billion dollars in infra = $70 per taxpayer owed in future taxes.](https://twitter.com/justindross/status/1467566554728521731)
+- [Nothing is more permanent than a “temporary” government program.](https://twitter.com/elonmusk/status/1468685877970935809)
 
 ## Links
 
@@ -70,3 +80,25 @@
 - [Socialism FAQ](https://dessalines.github.io/essays/socialism_faq.html)
 - [Glossary of Socialist Terms](https://dessalines.github.io/essays/glossary_of_socialist_terms.html)
 - [Marxism Study Plan](https://dessalines.github.io/essays/dessalines_marxism_study_plan.html)
+- [Big Tech turned into accomplices of authoritarian regimes (2021)](https://twitter.com/navalny/status/1441065558267633666)
+- [Voting example based on MoonZoon and Solana](https://github.com/MartinKavik/voting-solana-moonzoon)
+- [Canada's nice green urban project (2021)](https://twitter.com/IDoTheThinking/status/1443636143707222019)
+- [Moov Watchman](https://oss.moov.io/watchman/) - Service which downloads, parses and indexes numerous trade, government and non-profit lists of blocked individuals and entities to comply with those regions laws. ([Code](https://github.com/moov-io/watchman))
+- [QuadraticVote.co](https://quadraticvote.co/) - Real-time Quadratic Voting dashboard to encourage mathematically optimal voting in democratic communities. ([Code](https://github.com/Anish-Agnihotri/quadratic-voting))
+- [Quadratic voting: The mathematical method that could offer a fairer way to vote](https://www.economist.com/christmas-specials/2021/12/18/the-mathematical-method-that-could-offer-a-fairer-way-to-vote) ([HN](https://news.ycombinator.com/item?id=29586658))
+- [Harberger Taxation has an elegant application that has been overlooked: Taxing Intellectual Property](https://ristret.com/s/ftmbkg/harberger_taxation_has_elegant)
+- [Zero-knowledge voting implementations (2021)](https://twitter.com/dwr/status/1458127746912047107)
+- [VotingWorks](https://www.voting.works/) - Nonpartisan nonprofit making elections more trustworthy with modern technology.
+- [Arlo](https://github.com/votingworks/arlo) - Web-based risk-limiting audit (RLA) tool used to conduct post-election audits in the United States.
+- [Freedom is not a goal, but a direction (2021)](https://edwardsnowden.substack.com/p/culturalrevolutions) ([Tweet](https://twitter.com/Snowden/status/1458903893052690433))
+- [Belenios](https://www.belenios.org/) - Verifiable online voting system. ([Code](https://github.com/glondu/belenios))
+- [Global Corruption Index](https://risk-indexes.com/global-corruption-index/)
+- [The Rules for Rulers (2016)](https://www.youtube.com/watch?v=rStL7niR7gs)
+- [RadicalxChange](https://www.radicalxchange.org/#message) - Social movement for next-generation political economies. ([Twitter](https://twitter.com/RadxChange))
+- [Autocracy Is Winning (2021)](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) ([HN](https://news.ycombinator.com/item?id=29229386))
+- [The Equal Vote Coalition](https://www.equal.vote/)
+- [STAR Voting in under five minutes](https://www.youtube.com/watch?v=aiQ9Z5sME00)
+- [Tax calculators](https://twitter.com/AlexSukhorukov_/status/1464254455038287877)
+- [Twilight of Democracy: The Seductive Lure of Authoritarianism (2020)](https://twitter.com/wolfejosh/status/1464619768648974348) ([Tweet](https://twitter.com/wolfejosh/status/1464619768648974348))
+- [Decentralized Voting Scheme](https://github.com/EDGDrummond/DeVo)
+- [The 2022 Geopolitical Reading List](https://encyclopediageopolitica.com/2021/12/19/the-2022-geopolitical-reading-list/)

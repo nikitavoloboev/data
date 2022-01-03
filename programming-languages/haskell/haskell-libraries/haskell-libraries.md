@@ -5,12 +5,16 @@
 - [scotty](https://github.com/scotty-web/scotty)
 - [servant](https://github.com/haskell-servant/servant) - DSL for describing, serving, querying, mocking, documenting web applications and more.
 - [WAI](https://github.com/yesodweb/wai) - Interface between Haskell web frameworks and web servers.
+- [Twain](https://github.com/alexmingoia/twain) - Tiny web application framework for WAI.
 - [Mu](https://github.com/higherkindness/mu-haskell) - Purely functional framework for building micro services.
 - [Hydra](https://github.com/graninas/Hydra) - Full-fledged framework for building web services, multithreaded and concurrent applications with SQL and KV DB support.
 - [Obelisk](https://github.com/obsidiansystems/obelisk) - Provides an easy way to develop and deploy your Reflex project for web and mobile. ([Web](https://haskell.zettel.page/2012403.html))
 - [type-of-html](https://github.com/knupfer/type-of-html) - High performance type safe html generation.
 - [EulerHS](https://github.com/juspay/euler-hs) - Free monadic framework for easy building backend and console applications in Haskell.
 - [websockets](https://github.com/jaspervdj/websockets) - Haskell library for creating WebSocket-capable servers.
+- [haskell-wasm](https://github.com/SPY/haskell-wasm) - Haskell WebAssembly Toolkit.
+- [Morpheus GraphQL](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL API, Client and Tools.
+- [http-streams](https://github.com/aesiniath/http-streams) - Haskell HTTP client library for use with io-streams.
 
 ## DB
 
@@ -32,18 +36,33 @@
 - [sydtest](https://github.com/NorfairKing/sydtest) - Experimental testing framework for Haskell with great defaults advanced testing features.
 - [Tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell.
 - [StrictCheck](https://github.com/kwf/StrictCheck) - Property-based random testing framework for observing, specifying, and testing the strictness behaviors of Haskell functions.
+- [Hspec](https://github.com/hspec/hspec) - Testing Framework for Haskell.
+- [generic-random](https://github.com/Lysxia/generic-random) - Generic random generators to implement Arbitrary instances for QuickCheck.
 
 ## CLI
 
 - [Haskeline](https://github.com/judah/haskeline) - Haskell library for line input in command-line programs.
+- [unbeliever](https://github.com/aesiniath/unbeliever) - Library for writing command-line applications, be they tools or long-running daemons.
+- [butcher](https://github.com/lspitzner/butcher) - Chops a command or program invocation into digestable pieces.
 
 ## Error
 
 - [eio](https://github.com/kowainik/eio) - IO with Exceptions tracked on the type-level.
+- [on-error](https://github.com/Simspace/on-error) - Clearly-delineated error-handling.
 
 ## Graphics
 
 - [Threepenny-GUI](https://github.com/HeinrichApfelmus/threepenny-gui) - GUI framework that uses the web browser as a display.
+- [Monomer](https://github.com/fjvallarino/monomer) - Easy to use, cross platform, GUI library for writing Haskell applications.
+- [haskell-chart](https://github.com/timbod7/haskell-chart) - 2D charting library.
+
+## ML
+
+- [convoluted](https://github.com/jonascarpay/convoluted) - Dependently typed convolutional neural networks.
+
+## Crypto
+
+- [lol](https://github.com/cpeikert/Lol) - Functional Lattice Cryptography.
 
 ## Other
 
@@ -81,6 +100,7 @@
 - [ByteString](https://github.com/haskell/bytestring) - Fast, Packed Strings of Bytes.
 - [in-other-words](https://github.com/KingoftheHomeless/in-other-words) - Higher-order effect system where the sky's the limit.
 - [prolens](https://github.com/kowainik/prolens) - Profunctor based lightweight implementation of Lenses.
+- [stm](https://github.com/haskell/stm) - Software Transactional Memory.
 - [stm-incremental](https://github.com/SamuelSchlesinger/stm-incremental) - Exposes an interface for incremental computation using software transactional memory in Haskell.
 - [Reanimate](https://github.com/reanimate/reanimate) - Haskell library for building declarative animations based on SVG graphics.
 - [Streamly](https://github.com/composewell/streamly) - Beautiful Streaming, Concurrent and Reactive Composition.
@@ -151,6 +171,59 @@
 - [Wai-Routes](https://github.com/ajnsit/wai-routes) - Micro web framework for Haskell that focuses on typesafe URLs.
 - [Reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana) - Library for functional reactive programming in Haskell.
 - [Cnoidal](https://github.com/HeinrichApfelmus/cnoidal) - Haskell library for representing, transforming, and live coding music.
+- [Persistence](https://github.com/Ebanflo42/Persistence) - Topological data analysis library for Haskell.
+- [predicate-typed](https://github.com/gbwey/predicate-typed) - Refinement type library.
+- [explainable-predicates](https://github.com/cdsmith/explainable-predicates) - Predicates that can explain themselves.
+- [json-syntax](https://github.com/byteverse/json-syntax) - High-performance JSON parser.
+- [bytesmith](https://github.com/byteverse/bytesmith) - Parse bytes fast.
+- [blanks](https://github.com/ejconlon/blanks) - Fill-in-the-blanks - A library factoring out substitution from ASTs.
+- [cleff](https://github.com/re-xyr/cleff) - Fast and concise extensible effects.
+- [Albatross](https://github.com/habit-lang/alb) - Tool for compiling relatively efficient implementations of priority queues.
+- [Haskell Protocol Buffers](https://github.com/k-bx/protocol-buffers)
+- [validation-selective](https://github.com/kowainik/validation-selective) - Lightweight pure validation based on Applicative and Selective functors.
+- [Display](https://github.com/Kleidukos/display) - Typeclass for user-facing output.
+- [Witch](https://github.com/tfausak/witch) - Convert values from one type into another.
+- [haskell-lockfree](https://github.com/rrnewton/haskell-lockfree) - Collection of different packages for CAS based data structures.
+- [attoparsec](https://github.com/haskell/attoparsec) - Fast Haskell library for parsing ByteStrings.
+- [uniplate](https://github.com/ndmitchell/uniplate) - Haskell library for simple, concise and fast generic operations.
+- [Weeder](https://github.com/ocharles/weeder) - Application to perform whole-program dead-code analysis.
+- [Deli](https://github.com/github/deli) - Performance modeling tool, allowing you to understand and experiment with new designs.
+- [Shpadoinkle](https://hackage.haskell.org/package/Shpadoinkle) - Programming model for declarative, high performance user interface. ([Episode](https://overcast.fm/+i6QFg3tpw))
+- [structure-kit](https://github.com/nikita-volkov/structure-kit) - Immutable data structures for all kinds of purposes.
+- [Casimir](https://github.com/maybevoid/casimir) - Algebraic Effects in Haskell using Implicit Parameters.
+- [lifted-async](https://github.com/maoe/lifted-async) - Run lifted IO operations asynchronously and wait for their results.
+- [Autodocodec](https://github.com/NorfairKing/autodocodec) - Self(auto)- documenting encoder and decoder.
+- [Vinyl](https://github.com/VinylRecords/Vinyl) - Extensible Records for Haskell.
+- [constraints-extras](https://github.com/obsidiansystems/constraints-extras) - Convenience functions and template haskell for working with constraints.
+- [some](https://github.com/haskellari/some) - Defines several versions of an existential type 'Some'.
+- [rio](https://github.com/commercialhaskell/rio) - Standard library for Haskell.
+- [vector](https://github.com/haskell/vector) - Efficient implementation of Int-indexed arrays (both mutable and immutable), with a powerful loop optimization framework.
+- [dejafu](https://github.com/barrucadu/dejafu) - Systematic concurrency testing meets Haskell.
+- [Random](https://github.com/haskell/random) - Random number library.
+- [G2](https://github.com/BillHallahan/G2) - Haskell Symbolic Execution Engine.
+- [Frames](https://github.com/acowley/Frames) - Data Frames for Haskell.
+- [fuzzyfind](https://github.com/runarorama/fuzzyfind) - Haskell library for fuzzy text search.
+- [aeson-typescript](https://github.com/codedownio/aeson-typescript) - Generate TypeScript definition files from your ADTs.
+- [MissingH](https://github.com/haskell-hvr/missingh) - Collection of Haskell-related utilities.
+- [buffer-builder](https://github.com/chadaustin/buffer-builder) - Haskell library for efficiently building up buffers.
+- [nonempty-containers](https://github.com/mstksg/nonempty-containers) - Efficient non-empty variants of containers data types, with full API.
+- [Beseder](https://github.com/oofp/Beseder) - Library for typesafe state machines.
+- [Yampa](https://github.com/ivanperez-keera/Yampa) - Functional Reactive Programming domain-specific language for efficient hybrid systems.
+- [Dunai](https://github.com/ivanperez-keera/dunai) - Classic FRP, Arrowized FRP, Reactive Programming, and Stream Programming, all via Monadic Stream Functions.
+- [order](https://github.com/emilypi/order) - Exploring order-theory in Haskell.
+- [replace-megaparsec](https://github.com/jamesdbrock/replace-megaparsec) - Stream editing with Haskell Megaparsec parsers.
+- [Oath](https://github.com/fumieval/oath) - Composable Concurrent Computation Done Right.
+- [sexpresso](https://github.com/archambaultv/sexpresso) - Flexible Haskell library for parsing and printing S-Expressions.
+- [cassava](https://github.com/haskell-hvr/cassava) - CSV parsing and encoding library optimized for ease of use and high performance.
+- [one-liner](https://github.com/sjoerdvisscher/one-liner) - Constraint-based generics.
+- [data-category](https://github.com/sjoerdvisscher/data-category) - Library of categories, with categorical constructions on them.
+- [free-functors](https://github.com/sjoerdvisscher/free-functors) - Provides free functors that are adjoint to functors that forget class constraints.
+- [hashtables](https://github.com/gregorycollins/hashtables) - Mutable hash tables for Haskell, in the ST monad.
+- [avail](https://github.com/re-xyr/avail) - Low-overhead effect management for concrete monads.
+
+## Notes
+
+- [Nix is the only Haskell build tool that can download pre-built dependencies from a remote cache](https://twitter.com/GabriellaG439/status/1462150727837487107)
 
 ## Links
 
@@ -161,3 +234,18 @@
 - [pantry](https://github.com/commercialhaskell/pantry) - Content addressable Haskell package management, providing for secure, reproducible acquisition of Haskell package contents and metadata.
 - [Hkgr](https://github.com/juhp/hkgr) - Tool for making releases of Haskell packages on Hackage.
 - [haskell-docs-cli](https://github.com/lazamar/haskell-docs-cli) - Allows you to perform Hoogle searches and to navigate Hackage documentation from the command line.
+- [hs-nix-template](https://github.com/utdemir/hs-nix-template) - Haskell project template that uses Nix and comes with cabal-install, ghcid, ormolu, haskell-language-server and more.
+- [Template for Haskell + Nix projects](https://github.com/jonascarpay/template-haskell)
+- [hackage-cli](https://github.com/hackage-trustees/hackage-cli) - CLI tool for Hackage.
+- [Haskell Cabal](https://www.haskell.org/cabal/) - System for building and packaging Haskell libraries and programs. ([Awesome](https://github.com/kowainik/awesome-cabal)) ([Code](https://github.com/haskell/cabal))
+- [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Awesome Haskell links, frameworks, libraries and software.
+- [Awesome Haskell 2](https://github.com/uhub/awesome-haskell)
+- [Haskell Development Build Tools using Nix](https://github.com/tek/hix)
+- [nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages.
+- [Haskell Breaking Changes](https://github.com/fumieval/Haskell-breaking-changes) - List of upcoming/proposed changes to Haskell core/de facto libraries. ([HN](https://news.ycombinator.com/item?id=29250504))
+- [Immutable Publishing Policy](https://gist.github.com/chrisdone/f71a2eca728a805c181091863c339fc2) ([Tweet](https://twitter.com/christopherdone/status/1460575119395495936))
+- [implicit-hie](https://github.com/Avi-D-coder/implicit-hie) - Auto generate a stack or cabal multi component hie.yaml file.
+- [Haskell Starter-Kit](https://github.com/EncodePanda/haskell-starter-kit)
+- [haskell.nix extra Hackage](https://github.com/ilyakooo0/haskell-nix-extra-hackage) - Tool to use custom forks of Hackage packages with haskell.nix.
+- [init-haskell](https://github.com/masaeedu/init-haskell) - Script for setting up Haskell projects with Nix.
+- [hackage-download](https://github.com/nh2/hackage-download) - Download all of Hackage.

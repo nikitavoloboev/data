@@ -16,3 +16,8 @@
 - [Logo Modernism Book](https://www.amazon.com/Logo-Modernism-English-French-German/dp/3836545306)
 - [New Discord Logo (2021)](https://blog.discord.com/happy-blurpthday-to-discord-a-place-for-everything-you-can-imagine-fc99ee0a77c0)
 - [Is your logo good?](https://logotester.thework.market/)
+- [Robata](https://wearemucho.com/project/robata/) ([Tweet](https://twitter.com/hofstededesign/status/1448435096646668290))
+- [Logoipsum](https://logoipsum.com/) - Free Placeholder Logo For Your Design Mock-up.
+- [Uniswap Brand Update (2021)](https://uniswap.org/blog/brand-update/) ([Tweet](https://twitter.com/Uniswap/status/1457826935950675973))
+- [SVG Logos](https://svgporn.com/) - Curated collection of SVG logos for developers/DevOps/geeks. ([Code](https://github.com/gilbarbara/logos))
+- [Visual Center](https://javier.xyz/visual-center/) - Tool that will find the visual center of your images / logos. ([Code](https://github.com/javierbyte/visual-center))

@@ -3,13 +3,15 @@
 ## Chairs
 
 - [Herman Miller Mirra 2](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/mirra-2-chairs/)
-- [Herman Miller Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/)
-- [Herman Miller Sayl](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/sayl-chairs/)
+- [Herman Miller Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/) ([Tweet](https://twitter.com/ow/status/1463234007295004680))
+- [Herman Miller Sayl](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/sayl-chairs/) ([Tweet](https://twitter.com/AndrewProjDent/status/1452986311141363719))
 - [Capisco Ergonomic Office Chair](https://www.fully.com/hag-capisco-chair.html) ([Tweet](https://twitter.com/rafahari/status/1317042132205641733))
 - [Sukhasana](https://sukhasana.com/) - Ergonomic Desk Chairs. ([Tweet](https://twitter.com/malwareunicorn/status/1317246340984795136))
 - [Ask HN: What kind of chair are you using for WFH? (2021)](https://news.ycombinator.com/item?id=27265275)
 - [The Best Office Chair Tier List (2021)](https://www.youtube.com/watch?v=zpIPhAGHSV4)
 - [Cosm](https://twitter.com/UltraLinx/status/1435985680207843336)
+- [Steelcase Think](https://www.steelcase.com/products/office-chairs/think/) ([Tweet](https://twitter.com/stroughtonsmith/status/1451604715817603076))
+- [Favorite office chairs (2021)](https://twitter.com/mjackson/status/1453815791707582485)
 
 ## Standing desks
 
@@ -37,6 +39,11 @@
 - [My Stream Setup Tour 2021](https://www.youtube.com/watch?v=3Zd9c-cZ5eE)
 - [MKBHD Studio Tour 2021](https://www.youtube.com/watch?v=pkuxIy3kFZM)
 - [Rasmus Andersson's desk setup](https://twitter.com/rsms/status/1435003133260795904)
+- [Jessica Strelioff](https://www.workspaces.xyz/p/095-jessica-strelioff?)
+- [Creator’s dream setup](https://twitter.com/MengTo/status/1453121908204003335)
+- [Nice setup with pad for keyboard](https://twitter.com/lukeredpath/status/1453723374862045186)
+- [Apple Event lounge](https://twitter.com/jamesjgill/status/1450146286833913860)
+- [Hakim's dual screen setup](https://twitter.com/hakimel/status/1466016817730633734)
 
 ## Links
 
@@ -66,3 +73,5 @@
 - [Ask HN: How do you guys prevent back problems? (2019)](https://news.ycombinator.com/item?id=19824656)
 - [Why is standing more tiring than walking?](https://www.bbc.co.uk/programmes/w3ct1pqm) ([HN](https://news.ycombinator.com/item?id=27824885))
 - [Setups](https://setups.co/) - Repository of workspaces, items & tools from the creator community.
+- [Workspaces](https://www.workspaces.xyz/) - Bringing you inside the workspaces of inspiring creatives. Newsletter. ([Twitter](https://twitter.com/workspacesxyz))
+- [Best features of a perfect home office (2021)](https://twitter.com/patrick_oshag/status/1454421428632231939)

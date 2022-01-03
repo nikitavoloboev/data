@@ -6,8 +6,13 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 
 ## Interesting fonts
 
-- [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) ([Code](https://github.com/googlefonts/Inconsolata))
 - [Inter](https://github.com/rsms/inter) - Typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens. ([Web](https://rsms.me/inter/)) ([The story behind Inter](https://overcast.fm/+HZUeSpUyE)) ([HN](https://news.ycombinator.com/item?id=28009042))
+- [Anchor](https://processtypefoundry.com/fonts/anchor/) - Informal family of round display gothics, with a serious side. ([Anchor in use: Charm](https://processtypefoundry.com/blog/2021/10/anchor-in-use-charm/))
+- [Albra](https://www.myfonts.com/fonts/bum-bum-type/albra/)
+- [Sigurd](https://www.behance.net/gallery/127110261/Sigurd-Font-Family)
+- [Graphik](https://commercialtype.com/catalog/graphik)
+- [Filosofia](https://www.emigre.com/Fonts/Filosofia)
+- [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) ([Code](https://github.com/googlefonts/Inconsolata))
 - [Public Sans](https://github.com/uswds/public-sans) - Strong, neutral, principles-driven, open source typeface for text or display.
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) - Fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [Leon Sans](https://github.com/cmiscm/leonsans) - Geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
@@ -77,6 +82,17 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Pretendard](https://cactus.tistory.com/306) ([Code](https://github.com/orioncactus/pretendard))
 - [Basement Grotesque](https://grotesque.basement.studio/) - Inspired by the expressiveness of early 19th-century grotesque typefaces. ([Code](https://github.com/basementstudio/basement-grotesque))
 - [Redaction](https://www.redaction.us/) - Typeface from Titus Kaphar / Reginald Dwayne Betts’ show at MoMA PS1.
+- [Dank Mono](https://philpl.gumroad.com/l/dank-mono) - Coding typeface for aesthetes.
+- [scientifica](https://github.com/nerdypepper/scientifica) - Tall, condensed, bitmap font for geeks.
+- [Cal Sans](https://github.com/calendso/font) - Geometric sanserif tuned for display, that is, large point sizes.
+- [Tilt](https://github.com/andyclymer/Tilt-Typeface) - Family of type inspired by the dimensional lettering found in storefront signage.
+- [Outfit Fonts](https://github.com/Outfitio/Outfit-Fonts)
+- [Lora Fonts](https://github.com/cyrealtype/Lora-Cyrillic) - Well-balanced contemporary serif with roots in calligraphy.
+- [Chomsky](https://github.com/ctrlcctrlv/chomsky) - Font in the style of the New York Times masthead.
+- [National Park Typeface](https://nationalparktypeface.com/)
+- [Klee](https://github.com/fontworks-fonts/Klee) - Script font handwritten by pencil or pen.
+- [Inria Sans and Inria Serif](https://github.com/BlackFoundryCom/InriaFonts) ([Web](https://black-foundry.com/work/inria-2/))
+- [Manrope](https://manropefont.com/) - Modern geometric sans-serif. ([Code](https://github.com/sharanda/manrope))
 
 ## Links
 
@@ -143,7 +159,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [font-kit](https://github.com/servo/font-kit) - Cross-platform font loading library written in Rust.
 - [Helvetica](https://www.hustwit.com/helvetica) - Documentary on typography, graphic design and global visual culture. ([HN](https://news.ycombinator.com/item?id=23445245))
 - [Local Font Access Explained](https://github.com/WICG/local-font-access) - Web API for enumerating fonts on the local system.
-- [HarfBuzz](https://github.com/harfbuzz/harfbuzz) - Text shaping library.
+- [HarfBuzz](https://github.com/harfbuzz/harfbuzz) - Text shaping library. ([Web](https://harfbuzz.github.io/)) ([Tweet](https://twitter.com/mcmillen/status/1455988442584731650))
 - [rustybuzz](https://github.com/RazrFalcon/rustybuzz) - Incremental harfbuzz port to Rust.
 - [Font Stash](https://github.com/memononen/fontstash) - Light-weight online font texture atlas builder.
 - [Grammar of Typography: Classical Design in the Digital Age](http://www.godine.com/book/a-grammar-of-typography-classical-design-in-the-digital-age/)
@@ -153,7 +169,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Why not just use bitmap fonts? (2020)](https://dataswamp.org/~lich/musings/bitmap-fonts.html) ([Lobsters](https://lobste.rs/s/reqhua/why_not_just_use_bitmap_fonts))
 - [Wikimedia FontCDN](https://fontcdn.toolforge.org/) - Anonymizing, privacy-first reverse proxy to Google Fonts. ([HN](https://news.ycombinator.com/item?id=23776786))
 - [99 Font Pairings & Typeface Combinations](https://fontpairings.bypeople.com/)
-- [Capsize](https://seek-oss.github.io/capsize/) - Flipping how we define typography in CSS.
+- [Capsize](https://seek-oss.github.io/capsize/) - Flipping how we define typography in CSS. ([Code](https://github.com/seek-oss/capsize))
 - [Embedded Google Fonts](https://amio.github.io/embedded-google-fonts/) ([Code](https://github.com/amio/embedded-google-fonts))
 - [Once Upon a Type](https://hyperlink.academy/courses/once-upon-a-type/17)
 - [Leading-Trim: The Future of Digital Typesetting (2020)](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202) - How an emerging CSS standard can fix old problems and raise the bar for web apps.
@@ -166,7 +182,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [When fonts fall (2020)](https://www.figma.com/blog/when-fonts-fall/) ([HN](https://news.ycombinator.com/item?id=24631681))
 - [Design Class – Web Typography](https://rafaltomal.com/design-class-web-typography/?)
 - [typespiration.com](https://typespiration.com/) - Showcase of web typography designs with ready-to-use CSS codes.
-- [Fontsource](https://github.com/fontsource/fontsource) - Updating monorepo full of self-hostable Open Source fonts bundled into individual NPM packages.
+- [Fontsource](https://github.com/fontsource/fontsource) - Updating monorepo full of self-hostable Open Source fonts bundled into individual NPM packages. ([Web](https://fontsource.org/))
 - [Beautiful and Effective Web Typography: An Interview with Richard Rutter (2020)](https://medium.com/ux-and-front-end-interviews/beautiful-and-effective-web-typography-an-interview-with-richard-rutter-7684aff92dc7)
 - [Web Font Loader](https://github.com/typekit/webfontloader) - Gives you added control when using linked fonts via @font-face.
 - [Font Variation Description](https://github.com/typekit/fvd) - Compact and unambiguous way to describe a font in CSS.
@@ -261,3 +277,23 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Helvetica Now Variable](https://www.monotype.com/fonts/helvetica-now-variable) ([HN](https://news.ycombinator.com/item?id=28211137))
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/) - Practical guide to web typography.
 - [opentype.js](https://github.com/opentypejs/opentype.js) - JavaScript parser and writer for TrueType and OpenType fonts. ([Web](https://opentype.js.org/))
+- [Improving My Website's Typography (2021)](https://kevq.uk/pimping-my-type-improving-my-websites-typography/)
+- [Blaze Type](https://blazetype.eu/) ([Twitter](https://twitter.com/BlazeFoundry))
+- [Lipi](https://github.com/dfrg/lipi) - Font independent text analysis support for shaping and layout.
+- [Twenty Bits I Learned About Making Fonts Book](https://simplebits.com/collections/books/products/twenty-bits-fonts)
+- [Typography of 2001: A Space Odyssey (2014)](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/) ([HN](https://news.ycombinator.com/item?id=28857373))
+- [OSP-foundry](http://osp.kitchen/foundry/) - All fonts produced by OSP.
+- [Examples of the letter ‘B’ through history](https://twitter.com/SebLester/status/1451918896458514439)
+- [#calligraphy - Twitter](https://twitter.com/hashtag/calligraphy?src=hashtag_click)
+- [Process Type Foundry](https://processtypefoundry.com/) ([Twitter](https://twitter.com/processtype))
+- [Practica Program](https://www.practicaprogram.com/) - Learn typeface design, together. ([Twitter](https://twitter.com/practicatype))
+- [Coding Font](https://www.codingfont.com/) - Game to find your favorite coding font. ([HN](https://news.ycombinator.com/item?id=29010443)) ([Lobsters](https://lobste.rs/s/rfaj1q/play_game_find_your_true_love_coding_fonts))
+- [Nice, modern font stack that you recommend? (2021)](https://twitter.com/dabit3/status/1458926883001847809)
+- [Please Stop “Fixing” Font Smoothing (2012)](https://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/) ([HN](https://news.ycombinator.com/item?id=29328838))
+- [Modular Font Editor K (MFEK)](https://mfek.org/) - Open source modular font editor. ([GitHub](https://github.com/MFEK))
+- [San Francisco Pro Fonts](https://developer.apple.com/fonts/) ([Code](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts))
+- [Colophon](https://society.robinsloan.com/archive/colophon/) ([Tweet](https://twitter.com/michael_nielsen/status/1467177731221639169))
+- [font vectors](https://github.com/Jack000/fontjoy)
+- [Fonts Knowledge - Google Fonts](https://fonts.google.com/knowledge)
+- [Gutenberg](https://github.com/matejlatin/Gutenberg) - Flexible and simple-to-use web typography starter kit for web designers and developers. ([Web](http://matejlatin.github.io/Gutenberg/))
+- [OTF/WOFF/WOFF2 Converter](https://kombu.kanejaku.org/) ([Code](https://github.com/bashi/kombu))

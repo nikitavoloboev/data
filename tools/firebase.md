@@ -1,5 +1,9 @@
 # [Firebase](https://firebase.google.com/)
 
+## Notes
+
+- [Firebase can sometimes not sync data properly.](https://twitter.com/maccaw/status/1466506830977327105)
+
 ## Links
 
 - [Firebase CLI](https://github.com/firebase/firebase-tools)
@@ -41,3 +45,14 @@
 - [Build Firebase React Project Video Series (2021)](https://www.youtube.com/playlist?list=PL-LDQE9x9hLwUAESe_YJxhXU5ZjLgtq4S)
 - [GitHub Actions for Firebase](https://github.com/w9jds/firebase-action) - Enables arbitrary actions with the firebase command-line client.
 - [React Query Firebase](https://github.com/invertase/react-query-firebase) - React Query hooks for Firebase.
+- [Next.js serverless PWA with Firebase and React Hooks](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate)
+- [Firebase Admin Node.js SDK](https://github.com/firebase/firebase-admin-node)
+- [TS-Mock-Firebase](https://github.com/mindhivefi/ts-mock-firebase) - Mock for Firebase services on web and admin.
+- [Firebase Testing Quick starts](https://github.com/firebase/quickstart-testing)
+- [Virgil E3Kit JS Web + Firebase Demo](https://github.com/VirgilSecurity/demo-firebase-js) - End-to-end encrypted HIPAA-compliant demo chat app for Firebase that is using Virgil Security's E3Kit JavaScript SDK.
+- [Using Firebase Cloud Functions to trigger in-app messages (2021)](https://blog.gist.build/guides-using-firebase-cloud-functions-to-trigger-in-app-messages/)
+- [cypress-firebase](https://github.com/prescottprue/cypress-firebase) - Cypress plugin and custom commands for testing Firebase projects.
+- [Apollo DataSource for Firestore](https://github.com/swantzter/apollo-datasource-firestore)
+- [Baserunner](https://github.com/iosiro/baserunner) - Tool for exploring Firebase datastores.
+- [tiny-firestore-odm](https://github.com/paulgb/tiny-firestore-odm) - Lightweight Object Document Mapper for Firestore. It's built on top of firestore-serde.
+- [firestore-serde](https://github.com/paulgb/firestore-serde) - Rust serializer/deserializer for Google Cloud Firestore.

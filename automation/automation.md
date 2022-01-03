@@ -4,6 +4,8 @@
 
 - One important thing to remember is that when people talk about technology replacing jobs, it's easy to imagine exactly one robot being brought in to completely replace exactly one human worker, and that isn't really how it works.
 - [Don't spend 3 days automating something you can manually do in 20 min.](https://www.reddit.com/r/bioinformatics/comments/n2fwz4/what_is_something_that_you_realized_that_entirely/)
+- [Chief Automation Officer will be a highly paid and much coveted exec position in the future at all companies.](https://twitter.com/bentossell/status/1461665360806035456)
+- [Anything done asynchronously is a form of automation. You're replicating your current self to be available for a task in the future, w/o the need to be there.](https://twitter.com/stephsmithio/status/1378818155837976579)
 
 ## Links
 
@@ -17,7 +19,7 @@
 - [ElectroNeek](https://electroneek.com/) - Easy Robotic Process Automation. ([HN](https://news.ycombinator.com/item?id=23770214))
 - [Automatoes](https://automatoes.com/) ([Code](https://github.com/johnlindquist/automatoes.com))
 - [Huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.
-- [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications. ([Code](https://github.com/node-red/node-red))
+- [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications. ([Code](https://github.com/node-red/node-red)) ([HN](https://news.ycombinator.com/item?id=28985268))
 - [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool. ([Web](https://n8n.io/))
 - [Fair-Code Automation with n8n.io (2021)](https://tech.davidfield.co.uk/opensourced-ifttt-with-n8n-io/) ([HN](https://news.ycombinator.com/item?id=25632892))
 - [Integromat](https://www.integromat.com/en/) - Advanced online automation platform.
@@ -30,6 +32,14 @@
 - [Reflective](https://reflective.co/) - Automate without losing the human touch.
 - [Inside Arrival's Revolutionary Microfactory (2021)](https://www.youtube.com/watch?v=mZCrd704g20)
 - [Why Tesla Needed The Giga Press (2021)](https://www.youtube.com/watch?v=qJDSOwf9hpw)
+- [Ironies of Automation (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
+- [Interface ergonomics: automation isn't just about time saved (2021)](https://macoy.me/blog/programming/InterfaceFriction) ([Lobsters](https://lobste.rs/s/ab8v1y/interface_ergonomics_automation_isn_t))
+- [Trust in Automation (2017)](http://breandan.net/2017/02/02/trust-in-automation/)
+- [doit](https://github.com/pydoit/doit) - Bringing the power of build-tools to execute any kind of task. ([Web](https://pydoit.org/))
+- [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) ([HN](https://news.ycombinator.com/item?id=29083367))
+- [Gradualist](https://github.com/pocc/gradualist) - Automate your procedures, one step at a time. Inspired by Do-nothing scripting.
+- [aho](https://github.com/egoist/aho) - Ultra simple project scaffolding.
+- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework that inspires developers to become better test automation engineers. ([Docs](https://seleniumbase.io/))
 
 ## Images
 

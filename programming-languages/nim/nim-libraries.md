@@ -2,8 +2,10 @@
 
 ## Web
 
+- [httpbeast](https://github.com/dom96/httpbeast) - Highly performant, multi-threaded HTTP 1.1 server written in Nim.
 - [Prologue](https://github.com/planety/prologue) - Full-Stack Web Framework which is ideal for building elegant and high performance web services. ([HN](https://news.ycombinator.com/item?id=24846828))
 - [Rosencrantz](https://github.com/andreaferretti/rosencrantz) - DSL to write web servers.
+- [nim-libp2p](https://github.com/status-im/nim-libp2p) - libp2p implementation in Nim.
 
 ## Math
 
@@ -13,6 +15,11 @@
 
 - [Nodesnim](https://github.com/Ethosa/nodesnim) - Nim GUI/2D framework, based on OpenGL and SDL2.
 - [Pixie](https://github.com/treeform/pixie) - Full-featured 2D graphics library for Nim. ([HN](https://news.ycombinator.com/item?id=28506220))
+- [Drawim](https://github.com/GabrielLasso/drawim) - Simple drawing library in Nim, inspired by p5js. Builds to native, using OpenGL, and to JavaScript, using HTML5 Canvas.
+
+## Crypto
+
+- [Constantine](https://github.com/mratsim/constantine) - Fast, compact, hardened Pairing-Based Cryptography.
 
 ## Other
 
@@ -26,6 +33,13 @@
 - [Patty](https://github.com/andreaferretti/patty) - Pattern matching library for Nim.
 - [NimData](https://github.com/bluenote10/NimData) - DataFrame API written in Nim, enabling fast out-of-core data processing.
 - [Questionable](https://github.com/markspanbroek/questionable) - Elegant optional types for Nim.
+- [cinterop](https://github.com/n0bra1n3r/cinterop) - C/C++ interop library for Nim.
+- [nimly](https://github.com/loloicci/nimly) - Lexer Generator and Parser Generator as a Library in Nim.
+- [Nimscripter](https://github.com/beef331/nimscripter) - Quick and easy Nim <-> Nimscript interop.
+- [nimpy](https://github.com/yglukhov/nimpy) - Native language integration with Python.
+- [Regex](https://github.com/nitely/nim-regex) - Pure Nim regex engine. Guarantees linear time matching.
+- [nim-plotly](https://github.com/SciNim/nim-plotly) - Plotly wrapper for Nim.
+- [nim-result](https://github.com/arnetheduck/nim-result) - Result type that can hold either a value or an error, but not both.
 
 ## Links
 

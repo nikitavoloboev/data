@@ -46,7 +46,7 @@
 - [Books in .txt format for AI training purposes](https://twitter.com/theshawwn/status/1320282149329784833) ([HN](https://news.ycombinator.com/item?id=24884789))
 - [Sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [SuperAnnotate](https://superannotate.com/) - Fastest annotation platform for training AI.
-- [Activeloop Hub](https://github.com/activeloopai/Hub) - Fastest way to access and manage datasets for PyTorch and TensorFlow.
+- [Activeloop Hub](https://github.com/activeloopai/Hub) - Fastest way to access and manage datasets for PyTorch and TensorFlow. ([Web](https://www.activeloop.ai/))
 - [Objectron Dataset](https://github.com/google-research-datasets/Objectron) - Dataset of short object centeric video clips with pose annotations.
 - [Google Research Datasets](https://github.com/google-research-datasets)
 - [matorage](https://github.com/graykode/matorage) - Efficient way to store/load and manage dataset, model and optimizer for deep learning.
@@ -89,6 +89,7 @@
 - [Hashing techniques to compare large datasets? (2021)](https://www.reddit.com/r/MachineLearning/comments/mjqc2v/d_hashing_techniques_to_compare_large_datasets/)
 - [Machine Learning Datasets | Papers With Code](https://paperswithcode.com/datasets) ([Twitter](https://twitter.com/paperswithdata))
 - [Ocean Market](https://market.oceanprotocol.com/) - Marketplace to find, publish and trade data sets. ([Code](https://github.com/oceanprotocol/market))
+- [Ocean Protocol](https://oceanprotocol.com/) - Tools for the Web3 Data Economy. ([Contracts](https://github.com/oceanprotocol/contracts)) ([GitHub](https://github.com/oceanprotocol))
 - [Generating Datasets with Pretrained Language Models (2021)](https://arxiv.org/abs/2104.07540)
 - [nbodykit](https://github.com/bccp/nbodykit) - Analysis kit for large-scale structure datasets, the massively parallel way.
 - [Dataset Inference: Ownership Resolution in Machine Learning (2021)](https://arxiv.org/abs/2104.10706) ([Tweet](https://twitter.com/NicolasPapernot/status/1387842242744832004))
@@ -111,3 +112,27 @@
 - [Lightly](https://www.lightly.ai/) - Label only the data which improves your ML model. ([HN](https://news.ycombinator.com/item?id=28116371))
 - [Small Open Datasets](https://github.com/onramper/small-open-datasets) - Collection of automatically-updated, ready-to-use and open-licensed datasets.
 - [DataQA](https://github.com/dataqa/dataqa) - Labelling platform for text using distant supervision.
+- [COCO - Common Objects in Context](https://cocodataset.org/#home) - Large-scale object detection, segmentation, and captioning dataset. ([API](https://github.com/cocodataset/cocoapi))
+- [img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
+- [How to fit any dataset with a single parameter (2019)](https://arxiv.org/abs/1904.12320) ([HN](https://news.ycombinator.com/item?id=28698163))
+- [Single-dataset Experts for Multi-dataset Question Answering (2021)](https://arxiv.org/abs/2109.13880) ([Code](https://github.com/princeton-nlp/MADE))
+- [LabelFlow](https://labelflow.ai/website) - Open standard platform for image labeling. ([Code](https://github.com/labelflow/labelflow))
+- [Face Synthetics dataset](https://github.com/microsoft/FaceSynthetics)
+- [Toloka](https://toloka.ai/) - Fast and efficient way to collect and label large data sources for machine learning and other business purposes. ([Code](https://github.com/Toloka/toloka-kit))
+- [PlainTextWikipedia](https://github.com/daveshap/PlainTextWikipedia) - Convert Wikipedia database dumps into plaintext files.
+- [Discovering Anomalous Data with Self-Supervised Learning (2021)](https://ai.googleblog.com/2021/09/discovering-anomalous-data-with-self.html)
+- [Resources to get you the best quality of ML datasets (2021)](https://twitter.com/JanaSunrise/status/1453028804566286339)
+- [Hugging Face Datasets](https://huggingface.co/datasets)
+- [SDMetrics](https://github.com/sdv-dev/SDMetrics) - Metrics to evaluate quality and efficacy of synthetic datasets.
+- [doubtlab](https://github.com/koaning/doubtlab) - General tricks that may help you find bad, or noisy, labels in your dataset.
+- [Gretel Synthetics](https://github.com/gretelai/gretel-synthetics) - Synthetic data generators for structured and unstructured text, featuring differentially private learning.
+- [Great datasets to teach with (2021)](https://twitter.com/seankross/status/1465352844421312514)
+- [A Cartel of Influential Datasets Are Dominating Machine Learning Research](https://www.unite.ai/a-cartel-of-influential-datasets-are-dominating-machine-learning-research-new-study-suggests/) ([HN](https://news.ycombinator.com/item?id=29458157))
+- [The Toxicity Dataset](https://github.com/surge-ai/toxicity)
+- [Data Linter](https://github.com/brain-research/data-linter) - Identifies potential issues (lints) in your ML training data.
+- [Cloud Annotations](https://github.com/cloud-annotations/cloud-annotations) - Fast, easy and collaborative open source image annotation tool for teams and individuals. ([Web](https://cloud.annotations.ai/))
+- [pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) - Clean APIs for data cleaning. Python implementation of R package Janitor.
+- [face2comics datasets](https://github.com/Sxela/face2comics)
+- [arXiv public datasets](https://github.com/mattbierbaum/arxiv-public-datasets)
+- [AIST++ Dance Motion Dataset](https://google.github.io/aistplusplus_dataset/) ([API Code](https://github.com/google/aistplusplus_api))
+- [TheAudioDB.com](https://www.theaudiodb.com/) - Community Database of audio artwork and metadata with a JSON API.

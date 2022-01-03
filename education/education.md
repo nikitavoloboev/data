@@ -1,6 +1,6 @@
 # Education
 
-Due to [my unpleasant time in university](university.md), I am building [Learn Anything](../ideas/learn-anything.md) to improve learning and using knowledge gained to build great things.
+Due to [my unpleasant time in university](university.md), I am building [Learn Anything](../ideas/learn-anything.md) to improve learning and using knowledge gained to build great things. One big thing I took away from my time with official education is it's never worth stressing over it.
 
 ## Notes
 
@@ -8,6 +8,9 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - Go for a quick read, minus derivations. Then do the derivations in a slow read. For more thorough understanding of physics/math textbooks & research papers.
 - [We have a system where everyone is forced to be educated, but no one is allowed to think, ever.](https://twitter.com/SamoBurja/status/1376585579115245568)
 - [The future of education isn't cohort-based courses.](https://twitter.com/tomosman/status/1382809955582021637)
+- [An honest reorganization of the school system would focus on food first, pleasant environments second, and "education" third.](https://twitter.com/simonsarris/status/1441442667225763851)
+- [Degrees are often expensive and correlate primarily with parental wealth rather than actual ability. Companies should not require them.](https://twitter.com/seldo/status/1457063811760812032)
+- [When anything can be learned online, the barrier to education is simply motivation, curiosity, and persistence.](https://twitter.com/APompliano/status/1461817340715323402)
 
 ## Links
 
@@ -84,3 +87,18 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [A generation of American men give up on college (2021)](https://www.wsj.com/articles/college-university-fall-higher-education-men-women-enrollment-admissions-back-to-school-11630948233) ([HN](https://news.ycombinator.com/item?id=28436836))
 - [Information Engineering in Cambridge (2021)](https://www.youtube.com/watch?v=j-qBpk2c5fw)
 - [Germany has one of the lowest tuition fees](https://www.statista.com/chart/11058/bachelor-tuition-fees-international-comparison/) ([HN](https://news.ycombinator.com/item?id=28605216))
+- [The Case Against Teaching (2001)](https://learn.uakron.edu/ideal/cohorts/friday/case_against_teaching.pdf)
+- [Sprout9](https://sprout9.net/) - Platform for students to find tutors. ([HN](https://news.ycombinator.com/item?id=28699718))
+- [Is college worth it? A return-on-investment analysis (2021)](https://freopp.org/is-college-worth-it-a-comprehensive-return-on-investment-analysis-1b2ad17f84c8) ([HN](https://news.ycombinator.com/item?id=29001389))
+- [Thread of studies in learning and education](https://twitter.com/Phillips_M_G/status/1436017478358941697)
+- [Is public education compatible with free speech? (2021)](https://www.youtube.com/watch?v=_7zMtX0W82s) ([Tweet](https://twitter.com/shlevy/status/1455993055400628232))
+- [Helping students with pair programming (2021)](https://offbyone.us/posts/pairing/) ([HN](https://news.ycombinator.com/item?id=29129378))
+- [teach-in - YouTube](https://www.youtube.com/c/NAUKA0/playlists)
+- [Things You Are Allowed To Do, Academic Edition (2021)](https://bastian.rieck.me/blog/posts/2021/things/)
+- [Ask HN: Why is there no good open-source LMS? (2021)](https://news.ycombinator.com/item?id=29275470)
+- [Pupilfirst](https://www.pupilfirst.com/) - Online Teaching Platform & LMS. ([Code](https://github.com/pupilfirst/pupilfirst))
+- [Udemus](https://udemus.com/) - Learning community.
+- [HN: California moves to recommend delaying algebra to 9th grade statewide (2021)](https://news.ycombinator.com/item?id=29324551)
+- [Courses that should be mandated in school](https://twitter.com/calvin_rosser/status/1474447730680512512)
+- [What’s your unconventional college or career advice? (2021)](https://www.reddit.com/r/slatestarcodex/comments/rp6crb/whats_your_unconventional_college_or_career_advice/)
+- [Lessons from my PhD (2021)](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html) ([Tweet](https://twitter.com/austinzhenley/status/1475595171374972931?s=28)) ([HN](https://news.ycombinator.com/item?id=29716076))

@@ -11,7 +11,7 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Repology](https://repology.org/) - Monitors a huge number of package repositories and other sources comparing packages versions across them and gathering other information.
 - [Managing Developer Environments with Conda (2020)](https://interrupt.memfault.com/blog/conda-developer-environments)
 - [Developers shouldn't distribute their own software (2020)](https://lobste.rs/s/6ame3m/developers_shouldn_t_distribute_their)
-- [Spack](https://github.com/spack/spack) - Flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [Spack](https://github.com/spack/spack) - Flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Docs](https://spack.readthedocs.io/en/latest/))
 - [rebuilderd](https://github.com/kpcyrd/rebuilderd) - Independent verification of binary packages - reproducible builds.
 - [dripip](https://github.com/prisma-labs/dripip) - Opinionated CLI for continuous delivery of npm packages.
 - [PRIVJS](https://privjs.com/) - Implement access control to your npm packages.
@@ -32,3 +32,15 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Deps](https://github.com/dropseed/deps) - Command line tool for staying on top of dependencies. It runs updates, automates pull requests, and keeps your local installations in check.
 - [There are (at least) two types of package managers (2021)](https://utcc.utoronto.ca/~cks/space/blog/tech/PackageManagersTwoTypes) ([Lobsters](https://lobste.rs/s/3usbqn/there_are_at_least_two_types_package))
 - [What’s in a package (2021)](https://hpc.guix.info/blog/2021/09/whats-in-a-package/) ([HN](https://news.ycombinator.com/item?id=28618074))
+- [binwrap](https://github.com/avh4/binwrap) - Distribute binaries via npm.
+- [version](https://github.com/bit101/version) - What version do I have of \_\_\_?
+- [rinstall](https://github.com/DanySpin97/rinstall) - Helper tool that installs software and additional data into the system.
+- [asdf](https://github.com/asdf-vm/asdf) - Manage multiple runtime versions with a single CLI tool, extendable via plugins.
+- [Code Galaxies Visualization](https://anvaka.github.io/pm/) - Combines visualizations of major software package managers. ([Code](https://github.com/anvaka/pm))
+- [Package management document library](https://github.com/andrew/package-managers)
+- [PackagingCon](https://packaging-con.org/) - Conference for package manager developers and packagers. ([Twitter](https://twitter.com/packagingcon)) ([2021 Schedule](https://pretalx.com/packagingcon-2021/schedule/#)) ([2021 Videos](https://www.youtube.com/playlist?list=PLl386dCR5QGQu7XhFaVTwEGoD7fLtnGQ7))
+- [Denxi](https://github.com/zyrolasting/denxi) - Programming model for distributing data. It reduces the cost of producing package managers, storefronts, operating systems, and CI/CD systems.
+- [Google: Distributing Software in a Massively Parallel Environment (2014)](https://www.usenix.org/sites/default/files/conference/protected-files/lisa_2014_talk.pdf)
+- [Hermit](https://cashapp.github.io/hermit/) - Manages isolated, self-bootstrapping sets of tools in software projects. ([Code](https://github.com/cashapp/hermit)) ([Lobsters](https://lobste.rs/s/leqj8z/hermit_manages_isolated_self)) ([Docs](https://cashapp.github.io/hermit/usage/get-started/))
+- [Scarf CLI](https://github.com/scarf-sh/scarf) - Environment manager and development tool powered by Nomia.
+- [Aura](https://github.com/fosskers/aura) - Secure, multilingual package manager for Arch Linux and the AUR.

@@ -13,7 +13,7 @@
 - [HN: WireGuard is in net-next (2019)](https://news.ycombinator.com/item?id=21741133)
 - [HN: WireGuard 1.0.0 (2020)](https://news.ycombinator.com/item?id=22724768)
 - [Getting Started with WireGuard](https://miguelmota.com/blog/getting-started-with-wireguard/) ([Lobsters](https://lobste.rs/s/zozvm1/getting_started_with_wireguard)) ([HN](https://news.ycombinator.com/item?id=22788584))
-- [Why not "Why not WireGuard?" (2020)](https://tailscale.com/blog/why-not-why-not-wireguard/) ([Lobsters](https://lobste.rs/s/y51k7h/why_not_why_not_wireguard))
+- [Why not "Why not WireGuard?" (2020)](https://tailscale.com/blog/why-not-why-not-wireguard/) ([Lobsters](https://lobste.rs/s/y51k7h/why_not_why_not_wireguard)) ([HN](https://news.ycombinator.com/item?id=28897890))
 - [Building a WireGuard Jail with the FreeBSD's Standard Tools (2020)](https://genneko.github.io/playing-with-bsd/networking/freebsd-wireguard-jail/) ([HN](https://news.ycombinator.com/item?id=23004061))
 - [guard](https://github.com/stellarproject/guard) - GRPC server for managing wireguard tunnels.
 - [Subspace](https://github.com/subspacecommunity/subspace) - Simple WireGuard VPN server GUI. ([HN](https://news.ycombinator.com/item?id=23243248))
@@ -45,3 +45,19 @@
 - [Tailscale IP address by hostname with jq](https://gist.github.com/jc00ke/06ab088b9f889b551ef3fea7b970b97d)
 - [Autowire](https://github.com/elghazal-a/autowire) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
 - [Tailscale at DeepSource (2021)](https://deepsource.io/blog/tailscale-at-deepsource/) ([Lobsters](https://lobste.rs/s/fbdiwx/tailscale_at_deepsource))
+- [WireGuard Easy](https://github.com/WeeJeWel/wg-easy) - Easiest way to run WireGuard VPN + Web-based Admin UI.
+- [Firezone](https://github.com/firezone/firezone) - Open-source WireGuard-based alternative to OpenVPN AS. ([HN](https://news.ycombinator.com/item?id=28683231))
+- [wg-access-server](https://github.com/Place1/wg-access-server) - All-in-one WireGuard VPN solution with a web UI. ([HN](https://news.ycombinator.com/item?id=28719488))
+- [Build A Portable Lab In The Cloud Using Tailscale, Terraform and DigitalOcean (2021)](https://rossedman.io/blog/computers/scale-homelab-with-tailscale/)
+- [Tailscale PAM Module](https://github.com/tailscale/pam) - Allows you to SSH using your Tailscale credentials.
+- [onetun](https://github.com/aramperes/onetun) - Cross-platform, user-space WireGuard port-forwarder that requires no system network configurations. ([HN](https://news.ycombinator.com/item?id=28884938))
+- [Why Not WireGuard (2020)](https://blog.ipfire.org/post/why-not-wireguard) ([HN](https://news.ycombinator.com/item?id=28896351))
+- [Terraform Provider Tailscale](https://github.com/davidsbond/terraform-provider-tailscale) - Terraform provider implementation for interacting with the Tailscale API.
+- [Taildrop](https://tailscale.com/kb/1106/taildrop/) - Feature that makes it easy to send files between your personal devices on a Tailscale network.
+- [Building WireGate: A WireGuard front to detect compromised keys (2021)](https://blog.thinkst.com/2021/11/building-wiregate-wireguard-front-to.html)
+- [Netmaker](https://github.com/gravitl/netmaker) - Platform for creating and managing fast, secure, and dynamic virtual overlay networks using WireGuard. ([Docs](https://netmaker.org/))
+- [WireGuard Portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection.
+- [wgsd](https://github.com/jwhited/wgsd) - CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics.
+- [WireGuard Endpoint Discovery and NAT Traversal using DNS-SD (2020)](https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/)
+- [wgctrl](https://github.com/WireGuard/wgctrl-go) - Enables control of WireGuard devices on multiple platforms.
+- [natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking.

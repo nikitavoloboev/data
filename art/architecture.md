@@ -21,13 +21,16 @@
 - [Nice house in forest](https://twitter.com/nickcammarata/status/1437477973381292036)
 - [Cozy](https://twitter.com/uchilka_nastya/status/1438252274111946767)
 - [Nice wooden room](https://twitter.com/dimillian/status/1438159663925800965)
+- [A. Quincy Jones home in Laurel Canyon](https://twitter.com/tylerwatamanuk/status/1445444405381320712)
+- [Nice kitchen](https://twitter.com/kelseymwhelan/status/1447229740725661709)
+- [Inside Vanessa Hudgens's Enchanting L.A. Home](https://www.youtube.com/watch?v=Axg27gwEqCE)
 
 ## Links
 
 - [Tiny Houses Subreddit](https://www.reddit.com/r/tinyhouses)
 - [Would artificial intelligence like to say something about architecture? (2019)](https://archinect.com/news/article/150133371/would-artificial-intelligence-like-to-say-something-about-architecture)
 - [Marginalia by Darran Anderson](https://www.patreon.com/oniropolis) - Notes from the edge of architecture.
-- [Monograph](https://monograph.io/) - Project Management Software. For Architects & Engineers.
+- [Monograph](https://monograph.io/) - Project Management Software. For Architects & Engineers. ([Twitter](https://twitter.com/MonographHQ))
 - [In Residence - Inside the homes of celebrated architects, designers and artists](https://www.youtube.com/playlist?list=PLuu-TPQ2CJp3DofoAWABBgTHoMvcADp7x)
 - [In Residence: Alex Michaelis (2016)](https://www.youtube.com/watch?v=ziZ_tTvtk1k)
 - [Interiors by Shanghai Hip-pop Architectural Decoration Design Co](http://www.hippop-sh.cn/)
@@ -65,3 +68,6 @@
 - [SHED Architecture & Design](https://www.shedbuilt.com/) - Seattle Modern Architects.
 - [Structurae: Structures and Projects Database](https://structurae.net/en/structures/)
 - [Architecture Telegram](https://t.me/Architecture2021) - Уникальные места нашей планеты.
+- [Bizarre Buildings Twitter](https://twitter.com/BizarreBuiIding)
+- [When is the revolution in architecture coming? (2021)](https://www.currentaffairs.org/2021/04/when-is-the-revolution-in-architecture-coming) ([HN](https://news.ycombinator.com/item?id=29155987))
+- [The Most Innovative House on the Planet](https://www.youtube.com/watch?v=LVNZbl8in_Q) ([Reddit](https://www.reddit.com/r/Automate/comments/rdbuea/its_finally_complete/))

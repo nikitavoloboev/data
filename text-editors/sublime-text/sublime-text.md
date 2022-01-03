@@ -25,6 +25,13 @@ I switch between Ayu Light and Ayu Mirage themes as I change between macOS appea
 - `New view into file` will split current file into two tabs.
 - I binded jj to go to normal mode from insert. This way when I load a file in sublime, it doesn't sometimes immediately go to normal mode. So I can instantly open file and safely spam j to go down a page without writing the j's.
 
+## Code
+
+```python
+# Turn on logging of actions. Insert it in the Sublime console.
+sublime.log_input(True); sublime.log_commands(True); sublime.log_result_regex(True)
+```
+
 ## Links
 
 - [OdatNurd - Sublime Text Tutorials](https://www.youtube.com/user/nurdz/playlists)
@@ -35,3 +42,4 @@ I switch between Ayu Light and Ayu Mirage themes as I change between macOS appea
 - [Building an ultimate writing machine from Sublime Text](https://tonsky.me/blog/sublime-writer/)
 - [Sublime Text Regular Expression Cheat Sheet (2019)](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
 - [Sublime Text 4 (2021)](https://www.sublimetext.com/blog/articles/sublime-text-4) ([HN](https://news.ycombinator.com/item?id=27230042)) ([Lobsters](https://lobste.rs/s/1o4x0n/sublime_text_4))
+- [Mastering Sublime Text (2021)](https://www.git-tower.com/blog/more-productive-mastering-sublime-text/)

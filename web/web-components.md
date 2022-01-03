@@ -1,5 +1,9 @@
 # [Web Components](https://www.webcomponents.org/introduction)
 
+## Notes
+
+- [Interoperability is best delivered via web components. Platform features are more resilient too. Web components will outlast any framework.](https://twitter.com/zachleat/status/1468961751748136972)
+
 ## Links
 
 - [LitElementai](https://github.com/Polymer/lit-element) - Simple base class for creating fast, lightweight web components.
@@ -48,3 +52,21 @@
 - [Cross-component coordination protocols](https://github.com/webcomponents/community-protocols)
 - [Vaadin web components](https://github.com/vaadin/web-components) - Set of high-quality standards based web components for enterprise web applications.
 - [lottie-player Web Component](https://github.com/LottieFiles/lottie-player) - Easily embedding and playing Lottie animations and the Lottie-based Telegram Sticker (tgs) animations in websites.
+- [Polymer](https://github.com/Polymer/polymer) - Library provides a set of features for creating custom elements. ([Docs](https://polymer-library.polymer-project.org/))
+- [Web Components interlop advantage](https://twitter.com/justinfagnani/status/1444739792017653763)
+- [Web Components Community Group](https://github.com/w3c/webcomponents-cg)
+- [HTML with Superpowers (2021)](https://daverupert.com/2021/10/html-with-superpowers/) - Talk about Web Components. ([Video](https://www.youtube.com/watch?v=fEhBkSZ15qM))
+- [Simplr Router](https://github.com/Simplr/simplr-router) - Small and effective routing solution for Web Components. ([Web](https://simplr.github.io/simplr-router/))
+- [Spectrum Web Components](https://opensource.adobe.com/spectrum-web-components/) ([Code](https://github.com/adobe/spectrum-web-components))
+- [Switzerland](https://github.com/Wildhoney/Switzerland) - Takes a functional approach to Web Components by applying middleware to your components.
+- [Pixano Elements](https://github.com/pixano/pixano-elements) - Library of web components dedicated to data annotation tasks.
+- [Lion](https://lion-web.netlify.app/) - Fundamental white label web components for building your design system. ([Code](https://github.com/ing-bank/lion))
+- [Web Components API Viewer](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
+- [Adventures in prototyping and Web Components with Lit (2021)](https://benfrain.com/adventures-in-prototyping-and-web-components-with-lit/)
+- [lite-youtube](https://github.com/justinribeiro/lite-youtube) - Web component that renders YouTube embeds faster. ([Article](https://justinribeiro.com/chronicle/2021/11/18/lite-youtube-web-component-goes-1.0-offers-more-features/))
+- [blog-pwa](https://github.com/justinribeiro/blog-pwa) - Combining Lit Web Components, Hugo, Service Worker, and Rollup into a progressive web app blog.
+- [auto-complete-element](https://github.com/github/auto-complete-element) - Auto-complete input values from server search results.
+- [snuggsi](https://github.com/devpunks/snuggsi) - Easy Custom Elements in ~1kB. ([Web](https://snuggsi.com/))
+- [Elements](https://github.com/muxinc/elements) - Custom elements for working with media in the browser that Just Work.
+- [Custom Element Types](https://custom-element-types.web.app/) - Framework Type Generator for Web Components. ([Code](https://github.com/coryrylan/custom-element-types))
+- [How to use Web Components with TypeScript and React (2021)](https://coryrylan.com/blog/how-to-use-web-components-with-typescript-and-react)

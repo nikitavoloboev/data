@@ -4,7 +4,7 @@
 
 - [NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)
 - [100 numpy exercises (100% complete)](https://github.com/rougier/numpy-100)
-- [From Python to Numpy (2017)](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+- [From Python to Numpy (2017)](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) ([Code](https://github.com/rougier/from-python-to-numpy))
 - [MinPy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution.
 - [NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library.
 - [Math to Code](https://mathtocode.com/) - Interactive Python tutorial to teach engineers how to read and implement math using the NumPy library. ([HN](https://news.ycombinator.com/item?id=23513438))
@@ -22,3 +22,6 @@
 - [NumPy views: saving memory, leaking memory, and subtle bugs (2021)](https://pythonspeed.com/articles/numpy-memory-views/)
 - [Magical NumPy with JAX | SciPy 2021](https://www.youtube.com/watch?v=DmR36wtel4Y)
 - [Numbagg](https://github.com/numbagg/numbagg) - Fast N-dimensional aggregation functions with Numba.
+- [NumExpr](https://github.com/pydata/numexpr) - Fast numerical expression evaluator for NumPy.
+- [rust-numpy](https://github.com/PyO3/rust-numpy) - Rust bindings for the NumPy C-API.
+- [numpy-groupies](https://github.com/ml31415/numpy-groupies) - Optimised tools for group-indexing operations: aggregated sum and more.

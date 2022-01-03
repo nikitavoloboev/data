@@ -4,6 +4,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 
 ## Notes
 
+- [At the end of the day people won't remember what you said or did, they will remember how you made them feel.](https://www.reddit.com/r/AskMenOver30/comments/qnvwdl/what_piece_of_advice_have_you_received_that_you/)
 - [Marriage is not something you "do", it's something you make. One of the foremost requirements going in to a marriage is that both partners understand this. You will marry the right person if you change your axioms.](https://news.ycombinator.com/item?id=24260004)
 - [Finding the "right" person for marriage is pretty selfish. Be the right person. Try to strive to be the best person you can be and give grace when issues happen. Issues will happen. How you respond to them will result in the outcome of happiness of marriage.](https://news.ycombinator.com/item?id=24260004)
 - [Lack of effort equals not ready](https://www.reddit.com/r/datingoverthirty/comments/mvkf5e/lack_of_effort_equals_not_ready/)
@@ -58,6 +59,16 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [How you treat people is more important than being right](https://twitter.com/NovallSwift/status/1420757742231248909)
 - [You deserve a partner that is actively invested in your happiness.](https://twitter.com/lingerie_addict/status/1438180037455401000)
 - [Be as good a friend as you can be, but within your limits. it isn't selfish to consider your needs, too. the support you can give incurs a cost, and nobody has limitless emotional energy to spend. not being in an abusive relationship doesn't make you a robot, unable to be hurt.](https://twitter.com/shaun_vids/status/1440020031677636619)
+- [Mentorship/menteeship is one of the easiest way to learn and network. The people I can access through this always had a huge impact in my life.](https://twitter.com/rakyll/status/1444075610637094917)
+- [What the world needs more than sympathy and empathy is compassion. Sympathy: I'm sorry you're in pain. Empathy: I feel your pain. Compassion: I'll do whatever I can to alleviate your pain. You don't have to feel other people's feelings. You just have to care about their feelings.](https://twitter.com/AdamMGrant/status/1458786852069167105)
+- [I have enough and can afford to be taken advantage of, but what if he really needed help and I didn’t give it. That would be a real crime.](https://twitter.com/amrakunj/status/1462153115902304264)
+- [When you’re with a healthy person they bring out the best in you and you have a blast with them everyday. Conflicts do happen but they lead to growth not destruction.](https://www.reddit.com/r/NarcissisticAbuse/comments/r2kaex/what_do_healthy_relationships_look_like/)
+- [No matter how nice and friendly you are, some people will dislike you, no matter what you do. Don't waste your time on them.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
+- [Nobody is the villain in their own story. When you experience a breakup, conflict, fall out etc. the other person may admit they did wrong, they may even apologise but they’ll never see themselves as “the bad guy” so accept how it is and move on, don’t become their villain by pushing the point.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
+- [You can't trust everybody. Just because they seem nice it doesn't mean they are worth trusting.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
+- [Successful marriages can end in divorce. It’s ok to say, “this isn’t working” and part ways in tact. We have to detach from the idea that staying together is the only relationship outcome that matters.](https://twitter.com/ashleysimpo/status/1473474332676562947)
+- Marry early if it makes sense for your partner to gain any Passport benefits (cheaper education, ability to work/live in a country). Marriages also carry some benefits with taxes depending on the country.
+- [Always date your spouse.](https://twitter.com/TrungTPhan/status/1475148478288302084)
 
 ## Links
 
@@ -121,3 +132,16 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Rethinking infidelity ... a talk for anyone who has ever loved | Esther Perel (2015)](https://www.youtube.com/watch?v=P2AUat93a8Q)
 - [The secret to desire in a long-term relationship | Esther Perel](https://www.youtube.com/watch?v=sa0RUmGTCYY)
 - [Suggestions for books to improve my relationships with women and what healthy relationships with women look like (romantic relationships) (2021)](https://www.reddit.com/r/suggestmeabook/comments/piznz5/suggestions_for_books_to_improve_my_relationships/)
+- [Pure](https://pure.app/) - Shameless dating app.
+- [What is a standard you have for men that some might consider high? (2021)](https://www.reddit.com/r/AskWomen/comments/pzpx8n/what_is_a_standard_you_have_for_men_that_some/)
+- [My husband has never had sex with another woman and now his curiosity is ruining our marriage](https://www.reddit.com/r/Marriage/comments/69glta/my_husband_has_never_had_sex_with_another_woman/)
+- [Leave a Cheater, Gain a Life: The Chump Lady's Survival Guide by Tracy Schorn (2016)](https://www.goodreads.com/en/book/show/25898115)
+- [Love Must Be Tough: New Hope for Marriages in Crisis by James C. Dobson (2004)](https://www.goodreads.com/book/show/56415.Love_Must_Be_Tough)
+- [People like you more than you think](https://journals.sagepub.com/doi/abs/10.1177/0956797618783714) ([Tweet](https://twitter.com/MaxCRoser/status/1456224689727094784))
+- [Divorce does funny things (2021)](https://www.theparisreview.org/blog/2021/11/09/divorce-does-funny-things/) ([HN](https://news.ycombinator.com/item?id=29236676))
+- [How to become a "boyfriend" material from a "husband" material? (2021)](https://www.reddit.com/r/AskMen/comments/qulz07/how_to_become_a_boyfriend_material_from_a_husband/)
+- [Любовная зависимость и обсессия. Как избавиться от мыслей о человеке (2021)](https://www.youtube.com/watch?v=Genp4WQgWts)
+- [Early signs of a healthy relationship? (2021)](https://www.reddit.com/r/datingoverthirty/comments/r701tc/early_signs_of_a_healthy_relationship/)
+- [Romantic movie to watch with my girlfriend, to remind us how much love matters in life](https://www.reddit.com/r/MovieSuggestions/comments/ra1a5b/i_need_a_true_romantic_movie_to_watch_with_my/)
+- [A movie for someone grieving after a break up](https://www.reddit.com/r/MovieSuggestions/comments/rmgs11/a_movie_for_someone_grieving_after_a_break_up/)
+- [Почему в обществе так порицаются «измены»?](https://twitter.com/abrams_lera/status/1473978152309428224)

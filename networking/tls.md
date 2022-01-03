@@ -44,3 +44,22 @@
 - [TLS Tools for Humans](https://github.com/Brcrwilliams/tlstools)
 - [SSL Kill Switch 2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [Provision TLS certificates for your internal Tailscale services (2021)](https://tailscale.com/blog/tls-certs/)
+- [Certifi](https://github.com/certifi/python-certifi) - Provides Mozilla's carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
+- [Staging TLS Certificates: Make every deployment a safe deployment (2021)](https://blog.cloudflare.com/staging-tls-certificate-every-deployment-safe-deployment/)
+- [Handshake Encryption: Endgame (an ECH update) (2021)](https://blog.cloudflare.com/handshake-encryption-endgame-an-ech-update/)
+- [Introducing SSL/TLS Recommender (2021)](https://blog.cloudflare.com/ssl-tls-recommender/) ([Tweet](https://twitter.com/paraacha/status/1448899607602384902))
+- [trustme](https://github.com/python-trio/trustme) - #1 quality TLS certs while you wait. ([Docs](https://trustme.readthedocs.io/en/latest/))
+- [go-tunnel](https://github.com/opencoff/go-tunnel) - TLS/SSL Tunnel - A modern STunnel replacement written in Go.
+- [Automating TLS certificate management in Docker (2021)](https://smallstep.com/blog/automate-docker-ssl-tls-certificates/)
+- [Mutual TLS (mTLS)](https://smallstep.com/hello-mtls) - Documentation on how to configure a broad array of technologies to perform mutual TLS. ([Code](https://github.com/smallstep/hello-mtls))
+- [s2n](https://github.com/aws/s2n-tls) - Implementation of the TLS/SSL protocols. ([Lobsters](https://lobste.rs/s/i1jdij/aws_s_implementation_tls_ssl))
+- [TLS-Attacker](https://github.com/tls-attacker/TLS-Attacker) - Java-based framework for analyzing TLS libraries.
+- [TLS Fingerprinting](https://github.com/LeeBrotherston/tls-fingerprinting)
+- [acme-rs](https://github.com/kariustobias/acme-rs) - ACME Client for Let's Encrypt written in Rust to request SSL/TLS certificates.
+- [TLS Poison](https://github.com/jmdx/TLS-poison) - Tool that allows for generic SSRF via TLS, as well as CSRF via image tags in most browsers.
+- [TLA+ Foundation](https://github.com/tlaplus/foundation)
+- [Wait-For-Them](https://github.com/shenek/wait-for-them) - Wait until TCP services are running.
+- [TLStunnel](https://github.com/roburio/tlstunnel) - TLS reverse proxy unikernel.
+- [Post-Quantum TLS without handshake signatures (2020)](https://thomwiggers.nl/publication/kemtls/) ([Code](https://github.com/thomwiggers/kemtls-experiment))
+- [Fighting TLS fingerprinting with Node.js](https://httptoolkit.tech/blog/tls-fingerprinting-node-js/) ([HN](https://news.ycombinator.com/item?id=29472624))
+- [Implementing TLS Encrypted Client Hello (2021)](https://guardianproject.info/2021/11/30/implementing-tls-encrypted-client-hello/) ([HN](https://news.ycombinator.com/item?id=29530811))

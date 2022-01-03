@@ -1,13 +1,18 @@
 # Serverless computing
 
+Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functions](https://vercel.com/docs/concepts/functions/introduction) (NextJS) & [Cloudflare Workers](https://workers.cloudflare.com/) (Rust) for [serverless workloads](https://twitter.com/algo_luca/status/1464275828519448580).
+
 ## Notes
 
 - [What if a program was just running. There's no start or stop, just pause and resume. You can snapshot it at any time and restore that snapshot later. You can share or sync its state across multiple instances. The way you program this is like a REPL, not compiled files.](https://twitter.com/rsms/status/1389958973621563395)
 - [Testing locally isn't nice to have. It's table stakes for developer velocity. A dev without local feedback is slower. You don't want to be slower!](https://twitter.com/brianleroux/status/1399734769663971330)
+- [Give developers straight forward ways to express their intent, and let the platform quietly manage all the complexity this demands on their behalf.](https://twitter.com/philhawksworth/status/1452940698907553792)
+- [Edge caching (while cool) is not as necessary if you can just do compute on the edge (via fly in this case) and cache everything on the server (like the content itself). It's pretty sweet.](https://twitter.com/kentcdodds/status/1456232073111343104)
 
 ## Links
 
-- [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. ([HN](https://news.ycombinator.com/item?id=22512196))
+- [Introduction to serverless applications and databases](https://www.prisma.io/dataguide/serverless/what-is-serverless)
+- [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. ([HN](https://news.ycombinator.com/item?id=22512196)) ([Web](https://firecracker-microvm.github.io/)) ([HN](https://news.ycombinator.com/item?id=28893884))
 - [Firecracker: start a VM in less than a second (2021)](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/) ([HN](https://news.ycombinator.com/item?id=25883253))
 - [fn](https://github.com/fnproject/fn) - Container native, cloud agnostic serverless platform.
 - [Architect](https://github.com/architect/architect) - The simplest, most powerful way to build serverless applications. ([Docs](https://arc.codes/))
@@ -38,9 +43,9 @@
 - [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run)
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS. ([Web](https://apex.sh/up/))
 - [Fauna](https://fauna.com/) - Database built for serverless, featuring native GraphQL.
-- [OpenFaaS](https://www.openfaas.com/) - Makes it simple to deploy both functions and existing code to Kubernetes. ([Code](https://github.com/openfaas/faas))
+- [OpenFaaS](https://www.openfaas.com/) - Makes it simple to deploy both functions and existing code to Kubernetes. ([Code](https://github.com/openfaas/faas)) ([OpenFaaS - Run Containerized Functions On Your Own Terms](https://iximiuz.com/en/posts/openfaas-case-study/))
 - [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - Managed OpenFaaS for teams.
-- [Serverless](https://serverless.com/) - Serverless application framework powered by AWS Lambda. ([Code](https://github.com/serverless/serverless))
+- [Serverless](https://serverless.com/) - Serverless application framework powered by AWS Lambda. ([Code](https://github.com/serverless/serverless)) ([Cloud](https://www.serverless.com/cloud)) ([Cloud Code](https://github.com/serverless/cloud))
 - [Is Google Cloud Run really Knative? (2020)](https://ahmet.im/blog/cloud-run-is-a-knative/)
 - [Serverless Jetpack](https://github.com/FormidableLabs/serverless-jetpack) - Faster JavaScript packager for Serverless applications. ([Article](https://formidable.com/blog/2020/jetpack-trace-your-way-to-faster-and-smaller-serverless-packages/))
 - [Living On The Edge: Lazy Static Sites With Modern CDNs And Lambda (2020)](https://formidable.com/blog/2019/modern-cdns-lambda/)
@@ -114,3 +119,23 @@
 - [What Serverless Computing Is and Should Become (2021)](https://cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext) ([Lobsters](https://lobste.rs/s/8bvgh9/what_serverless_computing_is_should))
 - [From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers (2021)](https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html)
 - [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.usenix.org/conference/nsdi20/presentation/agache) ([Review](https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html))
+- [Cloudash](https://cloudash.dev/) - Monitoring and troubleshooting desktop app for serverless architectures. ([Twitter](https://twitter.com/cloudashdev))
+- [Viceroy](https://github.com/fastly/Viceroy) - Local testing for developers working with Compute@Edge.
+- [Faster, more reliable page loads with update to On-demand Builders (2021)](https://www.netlify.com/blog/2021/10/25/faster-more-reliable-page-loads-with-update-to-on-demand-builders/) ([Tweet](https://twitter.com/biilmann/status/1452755558306508800))
+- [Edge Functions – Vercel](https://vercel.com/features/edge-functions) ([Tweet](https://twitter.com/vercel/status/1453034541463916549)) ([Tweet](https://twitter.com/lcasdev/status/1453046218490253320))
+- [Improving long-running jobs for OpenFaaS users (2021)](https://www.openfaas.com/blog/long-running-jobs/)
+- [Serverless WebSockets at Scale | Simon Tabor (2020)](https://www.youtube.com/watch?v=lXNw2RTaD8g)
+- [Prisma Serverless Conference](https://www.prisma.io/serverless)
+- [fnrun](https://github.com/fnrun/fnrun) - Tools for building business functions and runners. ([Web](https://fnrun.dev/))
+- [The Unfulfilled Promise of Serverless (2021)](https://www.lastweekinaws.com/blog/the-unfulfilled-promise-of-serverless/) ([HN](https://news.ycombinator.com/item?id=29282824))
+- [OpenFaaS Function Store](https://github.com/openfaas/store) - Curated index of OpenFaaS functions which have been tested by the community.
+- [faas-provider](https://github.com/openfaas/faas-provider) - Backend provider interface for OpenFaaS.
+- [queue-worker for NATS Streaming](https://github.com/openfaas/nats-queue-worker) - Queue-worker for OpenFaaS with NATS Streaming.
+- [faas-cli](https://github.com/openfaas/faas-cli) - Official CLI for OpenFaaS.
+- [Fly Init](https://github.com/superfly/init-snapshot) - Public snapshot of Fly's init code. It powers every Firecracker microvm we run for our users.
+- [OpenFaaS Classic templates](https://github.com/openfaas/templates)
+- [Serverless Shell](https://github.com/crucial-project/serverless-shell) - Brings the power of shell scripting to the serverless world.
+- [Getting started with testing serverless applications (2021)](https://aws.amazon.com/blogs/compute/getting-started-with-testing-serverless-applications/)
+- [Why I minimize emulator use when developing serverless applications (2021)](https://twitter.com/edjgeek/status/1450841277130498051)
+- [fastlike](https://github.com/avidal/fastlike) - Run Fastly Compute@Edge Wasm programs on your own computer, powered by wasmtime.
+- [ChiselStrike](https://www.chiselstrike.com/) - Automated Serverless Backends. ([GitHub](https://github.com/chiselstrike))

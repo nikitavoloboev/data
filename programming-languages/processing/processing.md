@@ -15,3 +15,10 @@
 - [Chroma](https://github.com/neilpanchal/Chroma) - Color conversion library for Processing.
 - [Processing Posters](https://github.com/Volorf/Processing-Posters) - Collection of generative posters I designed with p5.js.
 - [p5](https://github.com/p5py/p5) - Python package based on the core ideas of Processing.
+- [Haxademicai](https://github.com/cacheflowe/haxademic) - Personal Processing-based creative coding toolkit.
+- [Processing + p5.js iCompiler for iOS](https://processing-app.org/) ([Code](https://github.com/Processing-iOS/Processing-iOS))
+- [SwiftProcessing](https://github.com/jjkaufman/SwiftProcessing) - iOS Swift Package for creative coding. ([Web](https://swiftprocessing.org/))
+- [Playful, beautiful, original p5xjs projects (2021)](https://twitter.com/sableRaph/status/1420379326621667335)
+- [Processing: the Software that Shaped Creative Coding (2021)](https://eyeondesign.aiga.org/processing-the-software-that-shaped-creative-coding) ([Tweet](https://twitter.com/ben_fry/status/1454110169500114945))
+- [Handy](https://github.com/gicentre/handy) - Hand-drawn sketchy rendering in Processing.
+- [How Processing And P5 Got Newbies Into Coding (2021)](https://clivethompson.medium.com/how-processing-and-p5-got-newbies-into-coding-dd3853a7adb)

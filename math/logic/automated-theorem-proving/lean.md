@@ -49,3 +49,18 @@
 - [Elements of Differential Geometry in Lean: A Report for Mathematicians (2021)](https://arxiv.org/abs/2108.00484)
 - [quote4](https://github.com/gebner/quote4) - Intuitive, type-safe expression quotations for Lean 4.
 - [leanprover-contrib](https://github.com/leanprover-contrib/leanprover-contrib) - Basic checkin/CI for Lean projects that are not part of mathlib.
+- [mathlib4](https://github.com/leanprover-community/mathlib4) - Mathlib port for Lean 4.
+- [Brown CS 1951x: Formal Proof and Verification, 2021](http://cs.brown.edu/courses/cs1951x/) ([Code](https://github.com/BrownCS1951x/fpv2021))
+- [Introduction to University Mathematics Course: using Lean (2021)](https://github.com/ImperialCollegeLondon/M40001_lean)
+- [Mathport](https://github.com/leanprover/mathport) - Tool for porting Lean3 projects to Lean4.
+- [Lean Tutorials](https://github.com/leanprover-community/tutorials)
+- [lean-gym](https://github.com/openai/lean-gym) - Interact with Lean through a REPL.
+- [How Lean compares to Coq/Isabelle/HOL](https://twitter.com/XenaProject/status/1462740182789234690)
+- [SATurn](https://github.com/siddhartha-gadgil/Saturn) - SAT solver-prover in lean 4 based on the DPLL algorithm.
+- [Aesop](https://github.com/JLimperg/aesop) - White-box automation for Lean 4.
+- [doc-gen4](https://github.com/hargoniX/doc-gen4) - Document Generator for Lean 4.
+- [Lean formal proof of the Combinatorial Nullstellensatz](https://github.com/isadofschi/combinatorial_nullstellensatz)
+- [Alloy](https://github.com/tydeu/lean4-alloy) - Lean 4 library that allows one to embedded external FFI code (currently just C) within Lean definitions.
+- [Lean SAT Proof Checker](https://github.com/joehendrix/lean-sat-checker)
+- [NumLean](https://github.com/arthurpaulino/NumLean) - Lean 4 package for heavy numerical computations.
+- [tree-sitter-lean](https://github.com/Julian/tree-sitter-lean) - Experimental tree-sitter parser for Lean.

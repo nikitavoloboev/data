@@ -48,3 +48,11 @@
 - [Armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration. ([Web](https://armory3d.org/))
 - [Blender and the Rabbids (2021)](https://www.blender.org/user-stories/blender-and-the-rabbids/) ([HN](https://news.ycombinator.com/item?id=27729331))
 - [Blender Toolbox](https://github.com/HTDerekLiu/BlenderToolbox) - Python scripts for rendering 3D shapes in Blender.
+- [Shaded Relief Maps in Blender](https://github.com/JoeWDavies/geoblender) ([HN](https://news.ycombinator.com/item?id=28748881))
+- [Malt](https://github.com/bnpr/Malt) - Fully customizable real-time rendering framework for animation and illustration.
+- [Blender 3.x roadmap (2021)](https://code.blender.org/2021/10/blender-3-x-roadmap/) ([HN](https://news.ycombinator.com/item?id=29024572))
+- [Phobos](https://github.com/dfki-ric/phobos) - Add-on for Blender allowing to create URDF, SDF and SMURF robot models in a WYSIWYG environment.
+- [Blender 3.0 (2021)](https://www.blender.org/download/releases/3-0/) ([HN](https://news.ycombinator.com/item?id=29430498))
+- [Blender has Metal support (2021)](https://devtalk.blender.org/t/cycles-apple-metal-device-feedback/21868) ([Tweet](https://twitter.com/maxvoltar/status/1470391335773515776))
+- [Filmic Blender](https://github.com/sobotka/filmic-blender) - Film Emulsion-Like Camera Rendering Transforms for Blender. ([Web](https://sobotka.github.io/filmic-blender/))
+- [Landon](https://github.com/chinedufn/landon) - Collection of tools, data structures and methods for exporting Blender data.

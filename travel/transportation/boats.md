@@ -15,3 +15,9 @@
 - [SuperYacht Times](https://www.superyachttimes.com/) - Yachting News.
 - [Naval Architecture (2021)](https://ciechanow.ski/naval-architecture/) ([HN](https://news.ycombinator.com/item?id=27973295))
 - [SuperYachtFan](https://www.superyachtfan.com/) - Luxury Yacht Owners.
+- [Autonomous Boats Seem More Solvable Than Autonomous Cars (2021)](https://spectrum.ieee.org/mit-robot-boats) ([HN](https://news.ycombinator.com/item?id=29024204))
+- [MIT deploys autonomous Roboat on canals of Amsterdam (2021)](https://news.mit.edu/2021/autonomous-taxi-roboats-1027) ([HN](https://news.ycombinator.com/item?id=29023983))
+- [How hard can it be to design a self-driving boat for inland shipping? (2020)](https://thomas.toye.io/posts/self-driving-boat/) ([HN](https://news.ycombinator.com/item?id=29024748))
+- [A situational awareness system to make seafaring safer, one vessel at a time (2021)](https://aqworks.com/en/work/groke/)
+- [Yara birkeland, the first autonomous and emission-free containership (2021)](https://gcaptain.com/yara-birkeland-worlds-first-autonomous-zero-emission-ship/) ([HN](https://news.ycombinator.com/item?id=29292322)) ([Reddit](https://www.reddit.com/r/UpliftingNews/comments/qz6muu/the_worlds_first_electric_and_selfpropelled/))
+- [Inside Rafael Nadal's Yacht! I Got an Exclusive Tour in Monaco (2021)](https://www.youtube.com/watch?v=RsurbNcFjuc)

@@ -78,3 +78,26 @@
 - [A Journey to Understand LLVM-IR (2021)](https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/#)
 - [Can we directly execute LLVM-IR?](https://news.ycombinator.com/item?id=28052929)
 - [Learning Almost Nothing About LLVM (2021)](https://bellmar.medium.com/learning-almost-nothing-about-llvm-e6aea9b243d9) ([HN](https://news.ycombinator.com/item?id=28438296))
+- [Whole Program LLVM in Go](https://github.com/SRI-CSL/gllvm) - Drop-in replacement for wllvm, that builds the bitcode in parallel, and is faster.
+- [The select story (2021)](https://aqjune.github.io/posts/2021-10-4.the-select-story.html) - Story about the removal of a compiler optimization that had been in LLVM for a long time.
+- [LLVM 13.0.0 (2021)](https://releases.llvm.org/13.0.0/docs/ReleaseNotes.html) ([HN](https://news.ycombinator.com/item?id=28760685))
+- [llvm-pretty](https://github.com/elliottt/llvm-pretty) - LLVM pretty printer inspired by the Haskell LLVM binding.
+- [Generating relocatable code for ARM processors (2021)](https://blog.llvm.org/posts/2021-10-01-generating-relocatable-code-for-arm-processors/) ([HN](https://news.ycombinator.com/item?id=28830650))
+- [llvmlite](https://github.com/numba/llvmlite) - Lightweight LLVM Python Binding for Writing JIT Compilers. ([Docs](https://llvmlite.readthedocs.io/en/latest/))
+- [gem5-SALAM (System Architecture for LLVM-based Accelerator Modeling)](https://github.com/TeCSAR-UNCC/gem5-SALAM) - Novel system architecture designed to enable LLVM-based modeling and simulation of custom hardware accelerators.
+- [mlir-hs](https://github.com/google/mlir-hs) - Haskell bindings for MLIR.
+- [Make LLVM fast again (2020)](https://www.npopov.com/2020/05/10/Make-LLVM-fast-again.html)
+- [Building a Distribution of LLVM](https://llvm.org/docs/BuildingADistribution.html)
+- [How to learn compilers: LLVM Edition (2021)](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/) ([HN](https://news.ycombinator.com/item?id=29112482))
+- [llvm-reduce (2021)](https://blog.regehr.org/archives/2109)
+- [2021 LLVM Developers' Meeting](https://llvm.swoogo.com/2021devmtg/1538015)
+- [manyclangs](https://github.com/elfshaker/manyclangs) - Project enabling you to run any commit of clang within a few seconds, without having to build it.
+- [LLVM relicensing update and call for help (2021)](https://blog.llvm.org/posts/2021-11-18-relicensing-update/) ([HN](https://news.ycombinator.com/item?id=29292516)) ([Lobsters](https://lobste.rs/s/uxuudg/llvm_relicensing_update_call_for_help))
+- [Remill](https://github.com/lifting-bits/remill) - Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode.
+- [mollusc](https://github.com/woodruffw/mollusc) - Pure-Rust libraries for parsing, interpreting, and analyzing LLVM.
+- [“LLVM-Libc” C Standard Library](https://llvm.org/docs/Proposals/LLVMLibC.html) ([HN](https://news.ycombinator.com/item?id=29447533))
+- [llvm-deno](https://github.com/littledivy/llvm-deno) - LLVM bindings for Deno.
+- [Building an Operating System from Scratch with LLVM (2021)](https://www.youtube.com/watch?v=DYaqzEbU0Vk)
+- [Pedigree](https://github.com/compor/Pedigree) - LLVM dependence graphs.
+- [llvm-sys.rs](https://github.com/tari/llvm-sys.rs) - Rust bindings to LLVM's C API.
+- [Crellvm](https://github.com/snu-sf/crellvm) - Verified Credible Compilation for LLVM.

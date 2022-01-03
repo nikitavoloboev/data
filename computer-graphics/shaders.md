@@ -37,7 +37,7 @@
 - [How to read shader assembly (2021)](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [Lygia](https://github.com/patriciogonzalezvivo/lygia) - Granular and multi-language shader library designed for performance and flexibility.
 - [The case of the curiously slow shader (2021)](https://raphlinus.github.io/gpu/2021/04/28/slow-shader.html)
-- [Shader School](https://github.com/stackgl/shader-school) - Introduction to GLSL shaders and graphics programming that runs in your web browser.
+- [Shader School](https://github.com/stackgl/shader-school) - Introduction to GLSL shaders and graphics programming that runs in your web browser. ([HN](https://news.ycombinator.com/item?id=28660024))
 - [Shader Coding](https://twitter.com/AlanZucconi/status/1392447855659466752)
 - [Shader Workshop (2021)](http://charstiles.com/class/)
 - [Compute Shader 101 (2021)](https://www.youtube.com/watch?v=DZRn_jNZjbw) ([Code](https://github.com/googlefonts/compute-shader-101)) ([HN](https://news.ycombinator.com/item?id=27396634))
@@ -51,3 +51,13 @@
 - [GLSL Linting for VS Code](https://github.com/hsimpson/vscode-glsllint) - Supports linting of GLS (OpenGL Shading Language).
 - [Shadergarden](https://github.com/tonarino/shadergarden) - Create evolving artistic images with hot-code-reloaded Lisp and GLSL. ([Article](https://blog.tonari.no/shadergarden))
 - [Skia shaders in Compose Desktop (2021)](https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html) ([HN](https://news.ycombinator.com/item?id=28636087))
+- [Nuance](https://github.com/Gui-Yom/nuance) - Tool to run your shaders on the gpu. Also a good demo application for wgpu-rs.
+- [Unified Shader Programming in C++ (2021)](https://arxiv.org/abs/2109.14682) ([HN](https://news.ycombinator.com/item?id=28738750))
+- [Shader playground](https://github.com/gtibo/Shader-playground) - Uses VisualShader of Godot.
+- [Prefix sum on portable compute shaders (2021)](https://raphlinus.github.io/gpu/2021/11/17/prefix-sum-portable.html) ([HN](https://news.ycombinator.com/item?id=29254668))
+- [The fun of playing with shaders](https://hugopeters.me/posts/5/)
+- [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Flexible console-base OpenGL Sandbox to display 2D/3D GLSL shaders without the need of an UI.
+- [GlslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL.
+- [Frickin' Shaders With Frickin' Laser Beams (2021)](https://acko.net/blog/frickin-shaders-with-frickin-laser-beams/) ([HN](https://news.ycombinator.com/item?id=29532110))
+- [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) - Physically based path tracer that runs in a GLSL fragment shader.
+- [GLSL Shading Language Issue Tracker](https://github.com/KhronosGroup/GLSL)

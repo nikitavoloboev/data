@@ -2,10 +2,15 @@
 
 I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [minimize the damage I induce on our planet](https://twitter.com/dino_comics/status/1433485733101293576).
 
+All of that is not enough though unless a [global carbon tax is implemented](https://news.ycombinator.com/item?id=29349066).
+
 ## Notes
 
 - [Over 90% of climate scientists think global warming will be so severe by 2038 or so that we'll hit temperatures shown to be hot enough to wreck the basic crops humanity relies upon for decent survival.](https://twitter.com/ClimateBen/status/1279378054549250059)
 - [If we stop emissions tomorrow, the earth will remain around 1.2C above preindustrial temps. If we get to net-zero emissions by 2060 or so, we can still limit warming to well below 2C.](https://twitter.com/hausfath/status/1327121668851060738)
+- [Don't tell me you are committed to net-zero 2050. Tell me how you plan to reduce emissions by at least 3% of their current value during this year, next year, and every year after that until you actually get to zero.](https://twitter.com/RARohde/status/1441397729381519360)
+- [If we actually lived in a democracy, we'd halt climate breakdown.](https://twitter.com/ClimateHuman/status/1458272108266418176)
+- [The world dumps a jaw-dropping 17.6 billion pounds (8 billion kilograms) of new plastic into the oceans each year.](https://gizmodo.com/why-trying-to-clean-up-all-the-ocean-plastic-is-pointle-1848111529)
 
 ## Links
 
@@ -27,7 +32,6 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Climate.Careers](https://climate.careers/) - Work on solving climate change. Find a job in climate. Be a part of the solution.
 - [Stripe’s first negative emissions purchases (2020)](https://stripe.com/blog/first-negative-emissions-purchases)
 - [Source materials supporting Stripe's 2020 negative emissions purchases](https://github.com/stripe/negative-emissions-source-materials)
-- [electricityMap](https://www.electricitymap.org/map) - Real-time visualisation of the CO2 emissions of electricity consumption.
 - [Tomorrow](https://www.tmrow.com/) - Data Driven Climate Action.
 - [Pachama](https://pachama.com/) - Offset your Carbon Emissions with Verified Reforestation.
 - [Greyparrot](https://greyparrot.ai/) - Computer Vision for Waste Management.
@@ -123,3 +127,30 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 - [Ask HN: What can I do to actively fight climate change? (2021)](https://news.ycombinator.com/item?id=28601257)
 - [Principles of Green Software Engineering](https://principles.green/) ([HN](https://news.ycombinator.com/item?id=28615321))
 - [What is coming is beyond most peoples comprehension, including journalists](https://twitter.com/MrMatthewTodd/status/1440237998117822467)
+- [Probable Futures](https://probablefutures.org/)
+- [Anything But Plastic](https://www.anythingbutplastic.co.uk/) - Alternatives to Plastic.
+- [CarbonPlan](https://carbonplan.org/) - Data and science for climate action. ([Twitter](https://twitter.com/carbonplanorg))
+- [We need to take CO2 out of the sky (2021)](https://www.orbuch.com/carbon-removal/) ([HN](https://news.ycombinator.com/item?id=28765742))
+- [Albedo](https://albedo.com/) - Aerial quality imagery - from space.
+- [Climate.gov](https://www.climate.gov/)
+- [Global Climate Report – September 2021](https://www.ncdc.noaa.gov/sotc/global/202109) ([HN](https://news.ycombinator.com/item?id=28865033))
+- [The climate disaster is here – this is what the future looks like (2021)](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
+- [Weather Spark](https://weatherspark.com/map) - The Weather Year Round Anywhere on Earth.
+- [World Resources Institute](https://www.wri.org/) ([GitHub](https://github.com/wri))
+- [Carbon-neutrality is a tale: the race for renewables is burning Europe's forests (2021)](https://www.theguardian.com/world/2021/jan/14/carbon-neutrality-is-a-fairy-tale-how-the-race-for-renewables-is-burning-europes-forests) ([HN](https://news.ycombinator.com/item?id=28928738))
+- [The Ocean Cleanup Dream of Scooping Plastic From the Seas Is Still Alive (2021)](https://gizmodo.com/the-dream-of-scooping-plastic-from-the-ocean-is-still-a-1847890573) ([Tweet](https://twitter.com/mollytaft/status/1450521824941518855))
+- [Why longtermism is the world’s most dangerous secular credo (2021)](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
+- [Climate Realism (2021)](https://www.americanpurpose.com/blog/fukuyama/climate-realism/)
+- [Sustainable Energy without the Hot Air (Revised, Community Edition)](https://climate.lifeitself.us/without-hot-air/) ([HN](https://news.ycombinator.com/item?id=29056343))
+- [What 3°C of global warming looks like (2021)](https://www.economist.com/films/2021/10/30/this-is-what-3degc-of-global-warming-looks-like) ([HN](https://news.ycombinator.com/item?id=29070774)) ([Tweet](https://twitter.com/FinancialTimes/status/1455232381464502273))
+- [Citizen Spring](https://citizenspring.earth/) - Citizens coming together to rebuild local communities.
+- [What do we do to mitigate the effects of climate change and survive as a species?](https://twitter.com/lizthegrey/status/1457082124020838403)
+- [Cell-free chemoenzymatic starch synthesis from carbon dioxide (2021)](https://www.science.org/doi/10.1126/science.abh4049) - From carbon dioxide to starch—no plants required. ([Tweet](https://twitter.com/friedberg/status/1454482267707899909))
+- [Evergrow](https://evergrow.com/) - Carbon offtake company. ([Twitter](https://twitter.com/EvergrowHQ)) ([Tweet](https://twitter.com/EvergrowHQ/status/1458466979203797001))
+- [Treehugger](https://www.treehugger.com/) - Sustainability for All.
+- [Open Source Plastic Scanner](https://plasticscanner.com/) ([HN](https://news.ycombinator.com/item?id=29269584))
+- [Lessons learned after 5 years of climate tech entrepreneurship (2021)](https://oliviercorradi.com/blog/lessons-learned-climate-tech/) ([HN](https://news.ycombinator.com/item?id=29265216))
+- [Greening of the Earth mitigates surface warming (2020)](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming) ([HN](https://news.ycombinator.com/item?id=29335646))
+- [Why Carbon Taxes Work (2021)](https://timharford.com/2021/11/why-carbon-taxes-really-work/) ([HN](https://news.ycombinator.com/item?id=29349066))
+- [Three loud climate warning signals (2021)](https://www.axios.com/three-climate-warning-signals-9f930b4e-110a-4225-9eb9-c63a22993b82.html) ([HN](https://news.ycombinator.com/item?id=29552135))
+- [The quest to trap carbon in stone](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/) ([HN](https://news.ycombinator.com/item?id=29717389))

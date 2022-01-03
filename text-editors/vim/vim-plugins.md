@@ -38,8 +38,14 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Hop](https://github.com/phaazon/hop.nvim) - Neovim motions on speed.
 - [LunarVim](https://github.com/LunarVim/LunarVim) - Opinionated, extensible, and fast IDE layer for Neovim. ([Docs](https://www.lunarvim.org/))
 - [kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
+- [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim.
+- [fuzzy-motion.vim](https://github.com/yuki-yano/fuzzy-motion.vim) - Jump to fuzzy match word.
+- [vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
 - [coq.nvim](https://github.com/ms-jpq/coq_nvim) - Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [Navigator](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze. Exploring LSP and Treesitter.
+- [distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment.
+- [fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua.
+- [Goto Preview](https://github.com/rmagatti/goto-preview) - Small Neovim plugin for previewing definitions using floating windows.
 - [Zen Mode](https://github.com/folke/zen-mode.nvim) - Distraction-free coding for Neovim.
 - [mapx.lua](https://github.com/b0o/mapx.lua) - Neovim lua plugin to make mapping more manageable.
 - [Lightspeed](https://github.com/ggandor/lightspeed.nvim) - Making on-screen navigation as quick and efficient as possible.
@@ -48,6 +54,8 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-notify](https://github.com/rcarriga/nvim-notify) - Fancy, configurable, notification manager for NeoVim.
 - [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - UI for nvim-dap which provides a good out of the box configuration.
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
+- [marks.nvim](https://github.com/chentau/marks.nvim) - Better user experience for interacting with and manipulating Vim marks.
+- [nvim-magic](https://github.com/jameshiew/nvim-magic) - Pluggable framework for using AI code assistance in Neovim.
 - [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative editing in Neovim using built-in capabilities.
 - [any-jump.vim](https://github.com/pechorin/any-jump.vim) - Vim code inspection plugin for finding definitions and references/usages.
 - [FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - No nonsense floating terminal written in lua.
@@ -57,6 +65,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - Neovim plugin to make the LSP client use FZF.
 - [Vista.vim](https://github.com/liuchengxu/vista.vim) - View and search LSP symbols, tags in Vim/NeoVim.
 - [vim-clap](https://github.com/liuchengxu/vim-clap) - Modern generic interactive finder and dispatcher.
+- [nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Companion plugin for nvim-lspconfig that allows you to seamlessly install LSP servers locally.
 - [vim-picker](https://github.com/srstevenson/vim-picker) - Vim plugin for fuzzy selection of files, buffers, tags, and more.
 - [Conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet).
 - [Persistence](https://github.com/folke/persistence.nvim) - Simple session management for Neovim.
@@ -75,6 +84,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way.
 - [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing.
 - [NCM2](https://github.com/ncm2/ncm2) - Slim, Fast and Hackable Completion Framework for Neovim.
+- [nest.nvim](https://github.com/LionC/nest.nvim) - Neovim utility plugin to define keymaps in concise, readable, cascading lists and trees.
 - [Neoformat](https://github.com/sbdchd/neoformat) - Format code.
 - [Snippets](https://github.com/honza/vim-snippets) - Snippet files for various programming languages.
 - [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Next generation library for creating floating pickers with advanced features.
@@ -140,6 +150,15 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [fwatch.nvim](https://github.com/rktjmp/fwatch.nvim) - Lets you watch files or directories for changes and then run vim commands or lua functions.
 - [Neorg](https://github.com/vhyrro/neorg) - Life Organization Tool Written in Lua. ([HN](https://news.ycombinator.com/item?id=27802153))
 - [nabla.nvim](https://github.com/jbyuki/nabla.nvim) - Take your scientific notes in Neovim.
+- [Copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot.
+- [harpoon](https://github.com/ThePrimeagen/harpoon) - Get you where you want with the fewest keystrokes.
+- [ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8.
+- [mini.nvim](https://github.com/echasnovski/mini.nvim) - Collection of minimal, independent, and fast Lua modules dedicated to improve Neovim.
+- [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - Blazing fast and easy to configure neovim statusline plugin written in pure lua.
+- [nvim-spectre](https://github.com/windwp/nvim-spectre) - Search panel for neovim.
+- [Fine Command Line](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
+- [Searchbox](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner.
+- [Vim Highlighter](https://github.com/azabiong/vim-highlighter) - Highlight words and expressions.
 
 ## Looks
 
@@ -158,6 +177,8 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance.
 - [Gruvbox 8](https://github.com/lifepillar/vim-gruvbox8) - Simplified and optimized Gruvbox colorscheme for Vim.
 - [Nightfox](https://github.com/EdenEast/nightfox.nvim) - Dark Neovim theme written in lua.
+- [Rosé Pine](https://github.com/rose-pine/neovim) - Soho vibes for Neovim.
+- [Kanagawa](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
 ## Syntax
 
@@ -253,3 +274,9 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [NvChad](https://github.com/NvChad/NvChad) - Attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [VimScript Language Server](https://github.com/iamcco/vim-language-server)
 - [Denops](https://github.com/vim-denops/denops.vim) - Ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno.
+- [impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim.
+- [From init.vim to init.lua (2021)](https://www.notonlycode.org/neovim-lua-config/)
+- [lsp-command](https://github.com/ii14/lsp-command) - Command interface for neovim LSP.
+- [dep](https://github.com/chiyadev/dep) - Versatile, declarative and correct neovim package manager in lua. ([Why I wrote my own package manager](https://chiya.dev/posts/2021-11-27-why-package-manager))
+- [Neovim from scratch](https://github.com/LunarVim/Neovim-from-scratch) - Neovim config designed from scratch to be understandable.
+- [nvimdots](https://github.com/ayamir/nvimdots) - Well configured and structured Neovim.
