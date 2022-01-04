@@ -61,3 +61,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [genanki-rs](https://github.com/yannickfunk/genanki-rs) - Rust Crate for Generating Anki Decks.
 - [Cloze Overlapper for Anki](https://github.com/glutanimate/cloze-overlapper) - List memorization made easy.
 - [apy](https://github.com/lervag/apy) - CLI script for interacting with local Anki collection.
+- [markdown-anki-decks](https://github.com/lukesmurray/markdown-anki-decks) - Tool for converting markdown files into anki decks.

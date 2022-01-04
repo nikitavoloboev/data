@@ -294,6 +294,7 @@ Here are few more things I liked, design wise.
 - [Albin Groen](https://albingroen.com/)
 - [Haki Benita](https://hakibenita.com/)
 - [Max Krieger](https://a9.io/)
+- [Luke Murray](https://lukesmurray.com/) ([Code](https://github.com/lukesmurray/next-website))
 - [Steven Petryk](https://stevenpetryk.com/)
 - [Joey Banks](https://joeyabanks.io/)
 - [Kevin Pennekamp](https://crinkles.io/) ([Code](https://github.com/crinklesio/crinkles.io))

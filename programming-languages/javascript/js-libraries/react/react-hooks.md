@@ -151,6 +151,7 @@
 - [web-platform](https://github.com/bem/web-platform) - React SDK for building modern, accessible and cross-platforms interfaces.
 - [repeaterjs/react-hooks](https://github.com/repeaterjs/react-hooks) - React hooks for working with async iterators/generators.
 - [use-combined-pagination](https://github.com/Hyperting/use-combined-pagination) - React Hook for paginating data from multiple sources.
+- [useReactQueryAutoSync](https://github.com/lukesmurray/react-query-autosync) - React hook which lets you automatically synchronize a value to a server with react-query. ([Article](https://lukesmurray.com/blog/react-query-auto-sync-hook))
 
 ## Code
 

@@ -67,3 +67,4 @@
 - [Fuzzing](https://github.com/palekh/fuzzing) - Tool set for fuzz and stress testing your functions.
 - [Recent Papers Related To Fuzzing](https://github.com/wcventure/FuzzingPaper)
 - [FormatFuzzer](https://github.com/uds-se/FormatFuzzer) - Framework for high-efficiency, high-quality generation and parsing of binary inputs.
+- [fuzzuf](https://github.com/fuzzuf/fuzzuf) - Fuzzing Unification Framework.
