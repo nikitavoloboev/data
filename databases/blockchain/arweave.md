@@ -40,3 +40,4 @@
 - [ArDB](https://github.com/textury/ardb) - Best way to interact with the weave, without having to write any GQL and trying to remember param names.
 - [arienai](https://github.com/littledivy/arienai) - Hardware wallet for Arweave. For Cortex M3 processors.
 - [Permacast](https://github.com/xylophonez/permacast) - Permanent podcast hosting and discovery, powered by Arweave.
+- [3em](https://github.com/three-em/3em) - Blazingly fast, secure, reliable, multi-language execution environment for smart contracts inside the Arweave ecosystem.

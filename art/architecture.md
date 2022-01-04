@@ -25,6 +25,10 @@
 - [Nice kitchen](https://twitter.com/kelseymwhelan/status/1447229740725661709)
 - [Inside Vanessa Hudgens's Enchanting L.A. Home](https://www.youtube.com/watch?v=Axg27gwEqCE)
 
+## Inspiring
+
+- [Wiola](https://www.instagram.com/rapsodia_w/)
+
 ## Links
 
 - [Tiny Houses Subreddit](https://www.reddit.com/r/tinyhouses)

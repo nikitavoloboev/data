@@ -82,3 +82,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output.
 - [aqua](https://github.com/aquaproj/aqua) - CLI tool to install CLI tools with declarative YAML configuration. ([Docs](https://aquaproj.github.io/docs/tutorial-basics/quick-start/))
 - [Supreme](https://github.com/opendevtools/supreme) - Add configurations, GitHub actions and get started quickly with new projects.
+- [Bina](https://bina.egoist.sh/) - Installer for self-contained, single-file binaries, no additional CLI needed. ([Code](https://github.com/egoist/bina))

@@ -50,3 +50,4 @@
 - [TTS-RS](https://github.com/ndarilek/tts-rs) - High-level Text-To-Speech (TTS) interface supporting various backends.
 - [Speech synthesis using AVSpeechSynthesizer (2021)](https://cornerbit.tech/speech-synthesis-using-avspeechsynthesizer/)
 - [Towards Lightweight Controllable Audio Synthesis with Conditional Implicit Neural Representations (2021)](https://arxiv.org/abs/2111.08462) ([Code](https://github.com/janzuiderveld/continuous-audio-representations))
+- [TTS](https://github.com/coqui-ai/TTS) - Library for advanced Text-to-Speech generation. ([Web](https://coqui.ai/)) ([HN](https://news.ycombinator.com/item?id=29786132))

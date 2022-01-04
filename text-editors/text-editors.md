@@ -71,6 +71,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 - [Molecule](https://github.com/DTStack/molecule) - Lightweight Web IDE UI framework which is built with React.js and inspired by the VSCode.
 - [react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React.
+- [rodemirror](https://github.com/sachinraja/rodemirror) - React component for CodeMirror 6.
 
 ## Web
 

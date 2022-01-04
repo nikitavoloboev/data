@@ -896,6 +896,9 @@
 - [swift-bridge](https://github.com/chinedufn/swift-bridge) - Call Rust from Swift and vice versa. ([Reddit](https://www.reddit.com/r/rust/comments/rqr0aj/swiftbridge_generate_ffi_bindings_between_rust/))
 - [ProcedureKit](https://github.com/ProcedureKit/ProcedureKit) - Advanced Operations in Swift.
 - [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
+- [Lindenmayer](https://github.com/heckj/Lindenmayer) - Swift library that implements a parametric Lindenmayer system and related SwiftUI views for presentation of the results of your systems.
+- [BluetoothWeb](https://github.com/PureSwift/BluetoothWeb) - Swift library for Bluetooth Web API (WebAssembly).
+- [EPUBKit](https://github.com/witekbobrowski/EPUBKit) - Simple Swift library for parsing EPUB documents.
 
 ## Other (not lib)
 

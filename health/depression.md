@@ -47,3 +47,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Movies about depression and loneliness](https://www.reddit.com/r/MovieSuggestions/comments/rbsltf/suggest_me_movies_about_depression_and_loneliness/)
 - [Ask HN: Nerds of HN, did you overcome loneliness? (2021)](https://news.ycombinator.com/item?id=29748257)
 - [Depression alters the circadian pattern of online activity (2020)](https://www.nature.com/articles/s41598-020-74314-3) ([HN](https://news.ycombinator.com/item?id=29761701))
+- [Ask HN: How to take first steps to escape burnout? (2022)](https://news.ycombinator.com/item?id=29776218)

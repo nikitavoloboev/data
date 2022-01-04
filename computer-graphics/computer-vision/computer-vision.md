@@ -514,3 +514,7 @@
 - [Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes (2021)](https://arxiv.org/abs/2111.12701) ([Code](https://github.com/samb-t/unleashing-transformers))
 - [DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample (2021)](https://www.vision.huji.ac.il/deepsim/) ([Code](https://github.com/eliahuhorwitz/DeepSIM))
 - [RAFT-3D: Scene Flow using Rigid-Motion Embeddings (2021)](https://arxiv.org/abs/2012.00726) ([Code](https://github.com/princeton-vl/RAFT-3D))
+- [Unsupervised Indoor Depth Estimation (2020)](https://jwbian.net/unsupervised-indoor-depth) ([Code](https://github.com/JiawangBian/Unsupervised-Indoor-Depth))
+- [A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose (2021)](https://arxiv.org/abs/2102.06199) ([Code](https://github.com/LemonATsu/A-NeRF))
+- [Rethinking Self-supervised Correspondence Learning: A Video Frame-level Similarity Perspective (2021)](https://arxiv.org/abs/2103.17263) ([Code](https://github.com/xvjiarui/VFS#readme))
+- [Sara](https://gitlab.com/DO-CV/sara) - Easy-to-Use C++ Computer Vision Library.

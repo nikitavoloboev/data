@@ -18,6 +18,7 @@
 - [GitHubStrategy](https://github.com/sergiodxa/remix-auth-github) - GitHubStrategy for Remix Auth, based on the OAuth2Strategy.
 - [FormStrategy](https://github.com/sergiodxa/remix-auth-form) - Remix Auth strategy for working with forms.
 - [Remix Auth - Strategy Template](https://github.com/sergiodxa/remix-auth-strategy-template) - Template for creating a new Remix Auth strategy.
+- [Email Link Strategy - Remix Auth](https://github.com/pbteja1998/remix-auth-email-link)
 
 ## Notes
 

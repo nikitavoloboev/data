@@ -23,3 +23,4 @@ Prefer to use Google Domains over everything. I like to subdomain over my person
 - [parse-domain](https://github.com/peerigon/parse-domain) - Splits a hostname into subdomains, domain and (effective) top-level domains.
 - [The Perils of an .xyz Domain (2021)](https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/) ([HN](https://news.ycombinator.com/item?id=28554400))
 - [Ask HN: Recommended Domain Registrars? (2021)](https://news.ycombinator.com/item?id=29633404)
+- [Domains Project](https://domainsproject.org/) - World’s single largest Internet domains dataset. ([Code](https://github.com/tb0hdan/domains))

@@ -69,3 +69,4 @@
 - [VLISP: A Verified Implementation of Scheme (1993)](http://mirror.informatimago.com/scheme/repository.readscheme.org/ftp/papers/vlisp-lasc/vlisp.pdf) ([HN](https://news.ycombinator.com/item?id=29728783))
 - [Lambda Quest](https://lambda.quest/) - Interactive Scheme environment with Canvas. ([Code](https://github.com/katspaugh/lambda.quest))
 - [TinyScheme R7](https://github.com/RodionGork/tinyscheme) - Small Scheme language implementation written in C language.
+- [R7RS Scheme Implementation in WebAssembly](https://github.com/PollRobots/scheme) ([HN](https://news.ycombinator.com/item?id=29773927))

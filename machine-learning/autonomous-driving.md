@@ -49,3 +49,4 @@
 - [Gym environments and agents for autonomous driving](https://github.com/bark-simulator/bark-ml)
 - [OATomobile](https://github.com/OATML/oatomobile) - Research framework for autonomous driving.
 - [Learn-to-Race](https://learn-to-race.org/) - Open-source autonomous racing.
+- [R3LIVE: Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package](https://github.com/hku-mars/r3live)

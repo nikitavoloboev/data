@@ -102,3 +102,4 @@
 - [go-rpio](https://github.com/stianeikeland/go-rpio) - Go library for accessing GPIO-pins on the Raspberry Pi.
 - [Raspberry Pi holds its own against low-cost ARM NAS (2021)](https://www.jeffgeerling.com/blog/2021/raspberry-pi-holds-its-own-against-low-cost-arm-nas) ([HN](https://news.ycombinator.com/item?id=29650182))
 - [Recording 660FPS Video on a $6 Raspberry Pi Camera (2019)](https://blog.robertelder.org/recording-660-fps-on-raspberry-pi-camera/) ([HN](https://news.ycombinator.com/item?id=29703293))
+- [Arduino-Pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards.

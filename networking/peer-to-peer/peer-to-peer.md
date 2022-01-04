@@ -103,3 +103,5 @@
 - [qTox](https://qtox.github.io/) - Chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol. ([Code](https://github.com/qTox/qTox))
 - [Hyperswarm Relay](https://github.com/hyperswarm/dht-relay) - Relaying the Hyperswarm DHT over other transport protocols to bring decentralized networking to everyone.
 - [HSFW](https://github.com/pfrazee/hyper-sfw) - Dropbox-like p2p file syncing built on Hypercore's new multiwriter Autobase.
+- [Are we distributed yet?](https://arewedistributedyet.com/) - Let's make peer-to-peer a first-class part of the web. ([Code](https://github.com/arewedistributedyet/arewedistributedyet))
+- [PyGrid](https://github.com/OpenMined/PyGrid) - Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science.

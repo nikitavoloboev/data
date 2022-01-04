@@ -121,3 +121,4 @@
 - [Database-backed Periodic Tasks](https://github.com/celery/django-celery-beat) - Celery Periodic Tasks backed by the Django ORM.
 - [Create Django App](https://github.com/imagineai/create-django-app)
 - [Django JWT Auth](https://github.com/webstack/django-jwt-auth) - JSON Web Token Authentication support for Django.
+- [Django Async Orm](https://github.com/rednaks/django-async-orm) - Django module that brings async to django ORM.

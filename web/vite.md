@@ -14,3 +14,4 @@
 - [vite-plugin-cloudflare](https://github.com/Aslemammad/vite-plugin-cloudflare) - Software for transforming & bundling cloudflare workers with shimming node globals and builtins like process, os, stream.
 - [vite-plugin-compile-time](https://github.com/egoist/vite-plugin-compile-time) - Use this plugin to generate code at compile time or get data at compile time in your Vite projects.
 - [saus](https://github.com/alloc/saus) - SSG framework powered by Vite.
+- [vite-plugin-import-build](https://github.com/brillout/vite-plugin-import-build) - Make `dist/` paths statically analysable. E.g. for bundling for Cloudflare Workers.

@@ -218,3 +218,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [A Beginners Guide to Crypto Derivatives (2021)](https://www.machow.ski/posts/a-beginners-guide-to-crypto-derivatives/)
 - [Interesting 2022 cryptocurrencies](https://twitter.com/adamscochran/status/1476652328736342023)
 - [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives)
+- [BEAM](https://beam.mw/) - Confidential Cryptocurrency and DeFi Platform. ([Code](https://github.com/BeamMW/beam))

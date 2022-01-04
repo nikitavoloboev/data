@@ -136,3 +136,5 @@
 - [linkcheck](https://github.com/filiph/linkcheck) - Fast link checker.
 - [scrapli](https://github.com/carlmontanari/scrapli) - Fast, flexible, sync/async, Python 3.6+ screen scraping client specifically for network devices.
 - [scrapligo](https://github.com/scrapli/scrapligo) - scrapli, but in go.
+- [waybacked](https://github.com/KarimPwnz/waybacked) - Get URLs from the Wayback Machine. Able to handle large outputs.
+- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Self-Hosted, Open Source, Change Monitoring of Web Pages.

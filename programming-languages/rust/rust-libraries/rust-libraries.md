@@ -98,6 +98,7 @@
 - [backoff](https://github.com/ihrwein/backoff) - Small crate which allows you to retry operations according to backoff policies.
 - [rust-jwt](https://github.com/durch/rust-jwt) - Very simple JWT generation lib.
 - [Avalanche](https://github.com/DJankauskas/avalanche) - Rust library for building performant Web apps.
+- [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. ([Docs](https://dioxuslabs.com/guide/))
 
 ## WASM
 
@@ -381,6 +382,7 @@
 - [Plist](https://github.com/ebarnard/rust-plist) - Rusty plist parser.
 - [oslog](https://github.com/steven-joruk/oslog) - Rust wrapper around Apple's unified logging system.
 - [rust-security-framework](https://github.com/kornelski/rust-security-framework) - Bindings to the macOS Security.framework.
+- [ahv](https://github.com/Thog/ahv) - Apple Hypervisor crate for Apple Silicon.
 
 ## Macros
 
@@ -1293,6 +1295,10 @@
 - [teloc](https://github.com/p0lunin/teloc) - Simple, compile-time DI framework for Rust.
 - [rxRust](https://github.com/rxRust/rxRust) - Rust implementation of Reactive Extensions.
 - [dynasm-rs](https://github.com/CensoredUsername/dynasm-rs) - Dynamic assembler written in Rust for Rust.
+- [rexpect](https://github.com/philippkeller/rexpect) - Spawn, control, and respond to expected patterns of child applications and processes, enabling the automation of interactions and testing.
+- [OptArgs](https://github.com/jkelleyrtp/optargs) - Easy-to-use optional function arguments for Rust.
+- [Pipette](https://github.com/jkelleyrtp/pipette) - Tiny crate mimicking Elixir's pipe operator for Rust without macros.
+- [openraft](https://github.com/datafuselabs/openraft) - Advanced Raft using the Tokio framework.
 
 ## Cargo Plugins
 
@@ -1341,6 +1347,7 @@
 - [Highway-rs](https://github.com/nickbabcock/highway-rs) - Native Rust port of Google's HighwayHash. Makes use of SIMD instructions for a fast and strong hash function.
 - [cargo-depgraph](https://github.com/jplatte/cargo-depgraph) - Creates dependency graphs for cargo projects using cargo metadata and graphviz.
 - [cargo-build-deps](https://github.com/nacardin/cargo-build-deps) - Cargo subcommand to build dependencies, helps speed up docker builds by allowing dependencies to be built earlier and cached.
+- [cargo-intraconv](https://github.com/poliorcetics/cargo-intraconv) - Simple helper to transform Markdown links to intra-doc links in Rust projects when appropriate.
 
 ## Links
 

@@ -40,7 +40,7 @@
 - [Cron Helper](https://cron.help/) - Cron syntax for us humans.
 - [File handling in Unix: tips, traps and outright badness (2020)](https://rachelbythebay.com/w/2020/08/11/files/) ([HN](https://news.ycombinator.com/item?id=24129113))
 - [History of UNIX Design and Interfaces](https://github.com/penberg/unix-history)
-- [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/) ([Lobsters](https://lobste.rs/s/zyt4hk/cs631_advanced_programming_unix)) ([Code](https://github.com/jschauma/cs631apue))
+- [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/) ([Lobsters](https://lobste.rs/s/zyt4hk/cs631_advanced_programming_unix)) ([Code](https://github.com/jschauma/cs631apue)) ([Rust Code](https://github.com/philippkeller/apue-rust))
 - [Hurd, seL4, thoughts](https://nalaginrut.com/archives/2019/12/11/hurd%2c%20sel4%2c%20thoughts) ([Lobsters](https://lobste.rs/s/5bfhrj/hurd_sel4_thoughts))
 - [Advanced Editing on Unix (Kernighan)](http://maibriz.de/unix/ultrix/etc/ae.pdf)
 - [The UNIX Time-Sharing System (1974)](https://chsasank.github.io/classic_papers/unix-time-sharing-system.html) ([HN](https://news.ycombinator.com/item?id=24797312))

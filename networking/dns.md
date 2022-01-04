@@ -171,3 +171,4 @@
 - [Cloudflare Dynamic DNS](https://github.com/hugomd/cloudflare-ddns) - Updates a given a DNS record with your current IP.
 - [dns2](https://github.com/song940/node-dns) - DNS Server and Client Implementation in Pure JavaScript with no dependencies.
 - [Overture](https://github.com/shawn1m/overture) - Customized DNS relay server.
+- [dns-exfil](https://github.com/KarimPwnz/dns-exfil) - Run a DNS server for the purpose of logging DNS questions.

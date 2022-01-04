@@ -445,3 +445,6 @@
 - [BARTScore: Evaluating Generated Text as Text Generation (2021)](https://arxiv.org/abs/2106.11520) ([Code](https://github.com/neulab/BARTScore))
 - [minDALL-E on Conceptual Captions](https://github.com/kakaobrain/minDALL-E) - PyTorch implementation of a 1.3B text-to-image generation model trained on 14 million image-text pairs.
 - [Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation (2021)](https://arxiv.org/abs/2010.10042) ([Code](https://github.com/ysmiura/ifcc))
+- [Multitask Prompted Training Enables Zero-Shot Task Generalization (2021)](https://arxiv.org/abs/2110.08207) ([Code](https://github.com/bigscience-workshop/t-zero))
+- [spaCy models](https://github.com/explosion/spacy-models) - Models for the spaCy Natural Language Processing (NLP) library.
+- [Awesome Huggingface](https://github.com/huggingface/awesome-huggingface)

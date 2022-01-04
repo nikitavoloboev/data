@@ -333,3 +333,4 @@ Awesome List
 - [rget](https://github.com/orisano/rget) - Parallel downloader for GitHub release.
 - [Github Stats](https://github.com/mre/gh-stats) - Async command-line tool for retrieving the stars of all your Github projects.
 - [types.ts](https://github.com/octokit/types.ts) - Shared TypeScript definitions for Octokit projects.
+- [Giter8](https://github.com/foundweekends/giter8) - Command line tool to generate files and directories from templates published on GitHub or any other git repository. ([Docs](http://www.foundweekends.org/giter8/))

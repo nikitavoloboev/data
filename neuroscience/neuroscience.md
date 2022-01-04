@@ -101,6 +101,7 @@
 - [MIT: The Human Brain (2019)](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-13-the-human-brain-spring-2019/)
 - [In Search of Oscillatory Traces of the Internal Clock (2016)](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00224/full)
 - [Dr. David Berson: Your Brain's Logic & Function (2021)](https://www.youtube.com/watch?v=oC3fhUjg30E)
+- [2021 in review: unsupervised brain models](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/)
 
 ## Images
 

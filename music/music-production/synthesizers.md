@@ -53,3 +53,4 @@
 - [Shaden](https://github.com/brettbuddin/shaden) - Modular audio synthesizer.
 - [Implicit neural differentiable FM synthesizer](https://github.com/andreasjansson/fmsynth)
 - [Fragment](https://www.fsynth.com/) - Real-time audiovisual live coding environment. ([Code](https://github.com/grz0zrg/fsynth))
+- [List of open-source synths](https://github.com/Atarity/diy-synths)

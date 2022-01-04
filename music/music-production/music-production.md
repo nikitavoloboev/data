@@ -304,3 +304,6 @@
 - [Web Audio Synthesis & Visualization Workshop](https://github.com/mattdesl/workshop-web-audio)
 - [The Haskell School of Music (2012)](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
 - [WaveNet: A Generative Model for Raw Audio (2016)](https://arxiv.org/abs/1609.03499) ([PyTorch Code](https://github.com/vincentherrmann/pytorch-wavenet))
+- [What is that WEIRD rhythm in Stromae's Santé? | Q+A](https://www.youtube.com/watch?v=CAzl6xLe4as)
+- [Inside Music](https://github.com/googlecreativelab/inside-music) - Lets you step inside of a song, seeing its individual pieces to give you a closer look at how music is made.
+- [Is Adele's latest single microtonal? | Q+A](https://www.youtube.com/watch?v=njyCxQxR41M)

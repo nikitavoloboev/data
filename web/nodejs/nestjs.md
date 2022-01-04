@@ -25,3 +25,4 @@
 - [nest-raven](https://github.com/mentos1386/nest-raven) - Sentry Raven Module for Nest.js Framework.
 - [Prisma Generator NestJS DTO](https://github.com/vegardit/prisma-generator-nestjs-dto) - Generates NestJS DTO classes from Prisma Schema.
 - [oak_nest](https://github.com/jiawei397/deno-oak-nest)
+- [Nest.js authentication with Passport. Real World example](https://github.com/leosuncin/nest-auth-example)

@@ -27,6 +27,7 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Orchid](https://github.com/OrchidTechnologies/orchid) - Enables a decentralized virtual private network (VPN), allowing users to buy bandwidth from a global pool of service providers. ([Web](https://www.orchid.com/))
 - [Official ProtonVPN iOS app](https://github.com/ProtonVPN/ios-app)
 - [Mysterium Node](https://github.com/mysteriumnetwork/node) - Decentralized VPN built on blockchain.
+- [Mysterium VPN Desktop Code](https://github.com/mysteriumnetwork/mysterium-vpn-desktop)
 - [tinc VPN](https://github.com/gsliepen/tinc)
 - [How Does VPN Work? (2020)](https://kean.github.io/post/networking-101)
 - [VPN & datacenter IPs](https://github.com/ejrv/VPNs) - List of datacenter & VPN IP addresses.

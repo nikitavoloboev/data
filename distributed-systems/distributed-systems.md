@@ -238,3 +238,4 @@
 - [Shardz (2021)](https://rakyll.org/shardz/) ([HN](https://news.ycombinator.com/item?id=29519736))
 - [microcosm](https://github.com/hanfei1991/microcosm) - Prototype of distributed task scheduler.
 - [Canary](https://znx3p0.github.io/canary-book/) - Distributed systems library for making communications through the network easier, while keeping minimalism and flexibility. ([Code](https://github.com/znx3p0/canary))
+- [Components Contrib](https://github.com/dapr/components-contrib) - Community driven, reusable components for distributed apps in Go.

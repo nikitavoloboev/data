@@ -95,3 +95,4 @@
 - [Make the most of AWS Lambda with Go](https://kevinmcconnell.gumroad.com/l/lambda-go-book/hn) ([HN](https://news.ycombinator.com/item?id=29441272))
 - [Mantil](https://github.com/mantil-io/mantil) - Build your AWS Lambda-based Go backends quicker than ever. ([Web](https://www.mantil.com/))
 - [lambda-web](https://github.com/hanabu/lambda-web) - Run Rust web frameworks on AWS Lambda.
+- [aws-lambda-decorators](https://github.com/gridsmartercities/aws-lambda-decorators) - Set of Python decorators to simplify AWS lambda development.

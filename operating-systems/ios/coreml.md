@@ -17,3 +17,5 @@
 - [Awesome Machine Learning DEMOs with iOS](https://github.com/tucan9389/awesome-ml-demos-with-ios)
 - [PoseEstimation-CoreML](https://github.com/tucan9389/PoseEstimation-CoreML) - Example project of inferencing Pose Estimation using Core ML.
 - [CoreMLHelpers](https://github.com/hollance/CoreMLHelpers) - Types and functions that make it a little easier to work with Core ML in Swift.
+- [CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Models Zoo.
+- [CoreGANContainer](https://github.com/john-rocky/CoreGANContainer) - Test your Core ML image generation Models.

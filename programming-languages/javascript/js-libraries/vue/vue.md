@@ -97,3 +97,4 @@
 - [Harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3. ([Docs](https://harlemjs.com/guide/introduction/getting-started.html#installation))
 - [Vuetiful](https://github.com/andrewcourtice/vuetiful) - Component framework written on top of the Vue reactive library.
 - [voe](https://github.com/yisar/voe) - 3kb subset of Vue optimized for progressive enhancement.
+- [vue-typegen](https://github.com/Akryum/vue-typegen) - Generate types for TypeScript Vue components libraries.

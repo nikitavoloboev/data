@@ -142,3 +142,4 @@
 - [Command palettes: how typing commands became the norm again](https://capiche.com/e/consumer-dev-tools-command-palette) ([HN](https://news.ycombinator.com/item?id=29373536))
 - [9 changes took our signup rates from 5% to 16% on the homepage (2021)](https://twitter.com/joycekettering/status/1465404778654023680)
 - [The power of defaults (2021)](https://julian.digital/2021/12/20/the-power-of-defaults/)
+- [Ask HN: Why is today's Internet experience so user hostile? (2022)](https://news.ycombinator.com/item?id=29778880)

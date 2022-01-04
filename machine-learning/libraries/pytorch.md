@@ -324,3 +324,4 @@
 - [TorchSSL](https://github.com/TorchSSL/TorchSSL) - PyTorch-based Toolbox for Semi-Supervised Learning.
 - [PyTea](https://github.com/ropas/pytea) - PyTorch Tensor Shape Error Analyzer.
 - [PyTorch Builder](https://github.com/pytorch/builder) - Scripts to build PyTorch binaries and do end-to-end integration tests.
+- [PyTorch VAE](https://github.com/AntixK/PyTorch-VAE) - Collection of Variational Autoencoders (VAE) in PyTorch.

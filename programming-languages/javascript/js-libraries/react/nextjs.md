@@ -113,6 +113,7 @@
 - [next/image loader for imgproxy (S3)](https://github.com/BitPatty/next-image-s3-imgproxy-loader)
 - [next-export-i18n](https://github.com/martinkr/next-export-i18n) - Internationalize (18n) next.js with true support for next export.
 - [next-compose-plugins](https://github.com/cyrilwanner/next-compose-plugins) - Cleaner API for enabling and configuring plugins for next.js.
+- [Next-Multipart](https://github.com/cstrnt/next-multipart) - Easy & Simple File Uploads for Next.js.
 
 ## Notes
 

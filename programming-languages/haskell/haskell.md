@@ -364,3 +364,4 @@
 - [Gil Mizrahi's Talks/Slides on Haskell](https://github.com/soupi/rfc)
 - [Advent of Haskell: Denotational Design](https://github.com/bolt12/advent-of-haskell-dd)
 - [Jupyter adaptation of Learn You a Haskell for Great Good](https://github.com/jamesdbrock/learn-you-a-haskell-notebook)
+- [Nix builds of Haskell Language Server](https://github.com/shajra/haskell-hls-nix)

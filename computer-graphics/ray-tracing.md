@@ -1,5 +1,7 @@
 # [Ray tracing](<https://en.wikipedia.org/wiki/Ray_tracing_(graphics)>)
 
+[This](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/) is nice intro.
+
 ## Links
 
 - [Ray Tracing in One Weekend: The Book Series](https://raytracing.github.io/) ([Code](https://github.com/raytracing/raytracing.github.io/)) ([Book](https://raytracing.github.io/books/RayTracingInOneWeekend.html))
@@ -86,3 +88,5 @@
 - [Hybrid Rendering](https://github.com/diharaw/HybridRendering) - Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline.
 - [Ray Tracing with POV-Ray: 25 scenes in 25 days (2013)](https://github.com/spcask/pov-ray-tracing) ([HN](https://news.ycombinator.com/item?id=29513332))
 - [Raytracing diamonds (2021)](https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html) ([HN](https://news.ycombinator.com/item?id=29695281))
+- [VXCT](https://github.com/Helliaca/VXCT) - OpenGL-based Implementation of Cyril Crassins Voxel Cone Tracing.
+- [The joy of building a ray tracer, for fun, in Rust. (2022)](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/) ([HN](https://news.ycombinator.com/item?id=29791142))

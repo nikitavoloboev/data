@@ -131,3 +131,5 @@ Learning to build [startups](startups/startups.md).
 - [Reinventing Organizations (2014)](https://www.youtube.com/watch?v=gcS04BI2sbk)
 - [Underrated institutions (2021)](https://twitter.com/krishnanrohit/status/1474660982819590147)
 - [Companies that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot) ([HN](https://news.ycombinator.com/item?id=29746370))
+- [Ask HN: How do I manage the profit of a successful website? (2022)](https://news.ycombinator.com/item?id=29779944)
+- [Which FAANG is the most likely to decline in the years ahead? (2022)](https://news.ycombinator.com/item?id=29785046)

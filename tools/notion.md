@@ -83,3 +83,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Beginner to Advanced Course](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20)
 - [NAST](https://github.com/dragonman225/nast) - Block-based intermediate representation for document-like content.
 - [Remix + Notion](https://github.com/onspaceship/remotion)
+- [Notion-rs](https://github.com/jkelleyrtp/notion-rs) - Rust implementation of the unofficial Notion.so API.

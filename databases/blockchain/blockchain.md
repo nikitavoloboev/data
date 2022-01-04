@@ -317,3 +317,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Spectrum of harm related to crypto and blockchain (2021)](https://twitter.com/smdiehl/status/1475075915893850112)
 - [How do wallets actually interact with the blockchain?](https://www.reddit.com/r/CryptoTechnology/comments/rq4295/how_do_wallets_actually_interact_with_the/)
 - [TinyChain](https://github.com/haydnv/tinychain) - All-in-one database + application server with support for blockchains, graphs, tables, and tensors.
+- [lens](https://github.com/strangelove-ventures/lens) - Your lens to view the Cosmos.
+- [Relayer](https://github.com/cosmos/relayer) - Go implementation of a Cosmos IBC relayer.
+- [Gravity Bridge](https://github.com/PeggyJV/gravity-bridge) - CosmosSDK application for moving assets on and off of EVM based, POW chains.

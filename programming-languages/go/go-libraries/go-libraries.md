@@ -1211,6 +1211,8 @@
 - [parquet-go](https://github.com/xitongsys/parquet-go) - Pure Go library for reading/writing parquet file.
 - [ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - Go binding for ffmpeg.
 - [Goterators](https://github.com/ledongthuc/goterators) - Util library that support aggregate & transforms functions list in Go.
+- [memlog](https://github.com/embano1/memlog) - Kafka log structure inspired in-memory and append-only data structure.
+- [parquet-go-source](https://github.com/xitongsys/parquet-go-source) - Source provider for parquet-go.
 
 ## Links
 

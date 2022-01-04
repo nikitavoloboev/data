@@ -63,3 +63,5 @@
 - [Japan's Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998) ([HN](https://news.ycombinator.com/item?id=29709551))
 - [‘I go too far, too deep’: the Swiss wanderer who found the soul of Japan (2021)](https://www.theguardian.com/artanddesign/gallery/2021/dec/22/swiss-wanderer-soul-of-japan-werner-bischof)
 - [Tokyo: A big city that is also pleasant to live in (2021)](https://www.economist.com/special-report/2021/12/07/the-big-city-that-is-also-pleasant-to-live-in) ([HN](https://news.ycombinator.com/item?id=29755772))
+- [Sudachi for Transformers (chiTra)](https://github.com/WorksApplications/SudachiTra) - Japanese tokenizer for Transformers.
+- [Sudachi](https://github.com/WorksApplications/Sudachi) - Japanese morphological analyzer.

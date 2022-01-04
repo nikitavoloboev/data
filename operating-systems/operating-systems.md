@@ -306,3 +306,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [MicroV](https://github.com/Bareflank/MicroV) - Micro hypervisor for running micro VMs.
 - [Bootloader exploration](https://github.com/eatonphil/bootloaders)
 - [boxen](https://github.com/carlmontanari/boxen) - Put your network operating systems in a box.
+- [awesome OS](https://github.com/zriyans/awesome-OS)
+- [The World of Vintage Operating Systems](https://winworldpc.com/library/operating-systems) ([HN](https://news.ycombinator.com/item?id=29781325))

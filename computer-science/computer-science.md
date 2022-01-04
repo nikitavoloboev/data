@@ -168,3 +168,4 @@
 - [The Year in Math and Computer Science (2021)](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/) ([Video](https://www.youtube.com/watch?v=9uASADiYe_8&t=1s))
 - [A Data-Centric Introduction to Computing Book (2021)](https://dcic-world.org/2021-08-21/index.html)
 - [Computer Science and Programming curricula](https://github.com/P1xt/p1xt-guides)
+- [A Data-Centric Introduction to Computing (2021)](https://dcic-world.org/)

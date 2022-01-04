@@ -297,3 +297,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fonts Knowledge - Google Fonts](https://fonts.google.com/knowledge)
 - [Gutenberg](https://github.com/matejlatin/Gutenberg) - Flexible and simple-to-use web typography starter kit for web designers and developers. ([Web](http://matejlatin.github.io/Gutenberg/))
 - [OTF/WOFF/WOFF2 Converter](https://kombu.kanejaku.org/) ([Code](https://github.com/bashi/kombu))
+- [fontstash-es](https://github.com/tangrams/fontstash-es) - Text rendering and text shaping for OpenGL ES.
+- [React Awesome Typography](https://github.com/Coderwelsch/react-awesome-typography) - Typescript react component to align words visually and replaces typical misspellings every typographer hates.

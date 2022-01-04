@@ -277,3 +277,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Tools You Should Know About: nix-shell (2021)](https://cuddly-octo-palm-tree.com/posts/2021-12-19-tyska-nix-shell/) ([Lobsters](https://lobste.rs/s/4khflt/tools_you_should_know_about_nix_shell))
 - [Basic implementation of a Nix-like store abstraction over a Merkle tree](https://github.com/ebkalderon/merkle-tree-nix-store-thing)
 - [tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust.
+- [direnv-nix-lorelei](https://github.com/shajra/direnv-nix-lorelei) - Alternative Nix extension of Direnv.

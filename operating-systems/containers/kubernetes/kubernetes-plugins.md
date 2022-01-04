@@ -43,6 +43,7 @@
 - [kubectl-reap](https://github.com/micnncim/kubectl-reap) - kubectl plugin that deletes unused Kubernetes resources.
 - [kubectl-graph](https://github.com/steveteuber/kubectl-graph) - kubectl plugin to visualize Kubernetes resources and relationships.
 - [kubectl-plugins](https://github.com/emreodabas/kubectl-plugins) - Plugin useful for Bulk operations.
+- [OpenEBSCTL](https://github.com/openebs/openebsctl) - kubectl plugin to manage OpenEBS storage components.
 
 ## Operators
 

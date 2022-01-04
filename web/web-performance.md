@@ -146,3 +146,4 @@
 - [Building an effective Image Component (2021)](https://web.dev/image-component/)
 - [Web Test Runner Performance](https://github.com/coryrylan/web-test-runner-performance) - Small plugin for @web/test-runner that enables performance testing including checking module bundle size, tree-shaking and custom element rendering.
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Help you better measure and optimize your page and site quality. ([Article](https://web.dev/whats-new-pagespeed-insights/)) ([Tweet](https://twitter.com/addyosmani/status/1460515430204801031))
+- [Awesome Bundle Size](https://github.com/kristerkari/awesome-bundle-size) - Awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.

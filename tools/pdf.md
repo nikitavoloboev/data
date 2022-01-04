@@ -26,3 +26,6 @@
 - [pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file.
 - [Processing PDFs with Cloud Functions (2020)](https://lukasschwab.me/blog/gen/cloud-function-pdf-processing.html)
 - [pystitcher](https://github.com/captn3m0/pystitcher) - Stitches your PDF files together, generating nice customizable bookmarks for you using a declarative input in the form of a markdown file. ([HN](https://news.ycombinator.com/item?id=29738723))
+- [QPDF](https://github.com/qpdf/qpdf) - Command-line tool and C++ library that performs content-preserving transformations on PDF files.
+- [qpdf-rs](https://github.com/ancwrd1/qpdf-rs) - Rust bindings for QPDF C++ library.
+- [pdfc](https://github.com/sachinraja/pdfc) - PDF compiler for your source code.

@@ -18,3 +18,4 @@
 - [Raycast API](https://developers.raycast.com/)
 - [Raycast Store](https://www.raycast.com/store)
 - [Raycast Template](https://github.com/jclem/raycast-template)
+- [Raycast Marketplace](https://scriptcommands.com/) - Unofficial Marketplace for Raycast Script Commands. ([Code](https://github.com/Pondorasti/raycast-marketplace))

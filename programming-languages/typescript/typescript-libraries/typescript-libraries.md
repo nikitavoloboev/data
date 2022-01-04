@@ -16,6 +16,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Keydb](https://github.com/DjDeveloperr/Keydb) - Simple Key-value storage module with support for multiple database backends.
 - [shapes/core](https://github.com/punchcard/shapes) - Type-safe DSLs and ORMs for TypeScript.
 - [pg-magic](https://github.com/danielrearden/pg-magic) - TypeScript type generator for PostgreSQL queries.
+- [Potygen](https://github.com/ivank/potygen) - Postgres SQL Parser and type generator.
 
 ## Web
 
@@ -41,6 +42,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 ## CLI
 
 - [Pero](https://github.com/h-a-n-a/pero) - Easy to use route-based tool for building large-scale command-line interfaces.
+- [terminal-columns](https://github.com/privatenumber/terminal-columns) - Render readable tables in the terminal.
 
 ## Other
 
@@ -263,6 +265,11 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [DIGL](https://github.com/crinklesio/digl) - JavaScript Directed Graph auto-layout algorithm.
 - [concurrently.macro](https://github.com/cometkim/concurrently.macro) - Transforms your async function to be run concurrently much as possible.
 - [Routz](https://github.com/schorfES/routz) - Define your SPA routes in a single source of truth - use them everywhere.
+- [predicate](https://github.com/devanshj/sthir/tree/main/packages/predicate) - eDSL to write typed predicates.
+- [Elderform](https://github.com/JoshuaAmaju/elderform) - Form creation made easy, backed by state machines.
+- [zod-to-ts](https://github.com/sachinraja/zod-to-ts) - Generate TypeScript types from your Zod schema.
+- [Typed Inject](https://github.com/nicojs/typed-inject) - Type safe dependency injection for TypeScript.
+- [p](https://github.com/antfu/p) - Tools for handling promises.
 
 ## Links
 
@@ -298,3 +305,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [kanpai](https://github.com/egoist/kanpai) - Better way to publish npm packages.
 - [unpkg origin server](https://github.com/unpkg/origin)
 - [eszip](https://github.com/denoland/eszip) - Utility that can download JavaScript and TypeScript module graphs and store them locally in a special zip file.
+- [syncpack](https://github.com/JamieMason/syncpack) - Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces.

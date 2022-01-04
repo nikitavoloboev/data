@@ -197,3 +197,4 @@
 - [2D Generative Art Resources](https://twitter.com/miketuritzin/status/1476320114353979394)
 - [Building Generative Glitch Art Tools (2021)](https://adamfuhrer.com/building-generative-glitch-art-tools)
 - [Markov chain based generative art](https://github.com/larixk/markov)
+- [Genuary](https://genuary.art/) - Generative Code Art Prompts for a Month. ([HN](https://news.ycombinator.com/item?id=29779644))

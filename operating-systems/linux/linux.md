@@ -445,3 +445,6 @@
 - [Linux Integration Services Automation (LISA)](https://github.com/microsoft/lisa) - Linux quality validation system. ([Docs](https://mslisa.readthedocs.io/en/main/))
 - [Amazon Linux 2022 - In Preview](https://github.com/amazonlinux/amazon-linux-2022)
 - [Notes on BPF and eBPF](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/) ([HN](https://news.ycombinator.com/item?id=29772927))
+- [Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc.
+- [CMLFS](https://github.com/dslm4515/CMLFS) - Clang-Built Musl Linux From Scratch.
+- [Picosnitch](https://github.com/elesiuta/picosnitch) - Protect your privacy, see which processes make remote network connections. ([HN](https://news.ycombinator.com/item?id=29784941))

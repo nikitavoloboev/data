@@ -47,7 +47,6 @@
 - [Vosk API](https://github.com/alphacep/vosk-api) - Offline open source speech recognition toolkit.
 - [Lyra](https://github.com/google/lyra) - Very Low-Bitrate Codec for Speech Compression.
 - [lasr](https://github.com/sooftware/lasr) - PyTorch Lightning implementation of Automatic Speech Recognition.
-- [TTS](https://github.com/coqui-ai/TTS) - Library for advanced Text-to-Speech generation.
 - [Speech Recognition from Scratch](https://colab.research.google.com/drive/1aFgzrUv3udM_gNJNUoLaHIm78QHtxdIz?usp=sharing)
 - [Common Voice](https://commonvoice.mozilla.org/en) - Mozilla's initiative to help teach machines how real people speak.
 - [FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement (2021)](https://arxiv.org/abs/2010.15508) ([Code](https://github.com/haoxiangsnr/FullSubNet))

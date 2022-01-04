@@ -60,3 +60,4 @@
 - [Lifeee](https://github.com/scastiel/lifeee-rs) - Conway’s Game of Life with an infinite zoomable grid. ([HN](https://news.ycombinator.com/item?id=29203502))
 - [Life Simulation Written in Rust](https://joelthelion.github.io/life_web/demo/) ([Code](https://github.com/joelthelion/life_web))
 - [Lisp in Conway's Game of Life](https://github.com/woodrush/lisp-in-life)
+- [Cellular Automata (2017)](https://plato.stanford.edu/entries/cellular-automata/) ([HN](https://news.ycombinator.com/item?id=29779403))

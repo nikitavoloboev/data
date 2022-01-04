@@ -81,3 +81,4 @@
 - [Getting started with tree-sitter (2021)](https://dcreager.net/tree-sitter/getting-started/)
 - [Participle](https://github.com/alecthomas/participle) - Dead simple parser package for Go.
 - [Genre as Weak Supervision for Cross-lingual Dependency Parsing (2021)](https://aclanthology.org/2021.emnlp-main.393/) ([Code](https://github.com/personads/ud-selection))
+- [rd-parse](https://github.com/dmaevsky/rd-parse) - Generic minimalist zero dependencies recursive-descent parser generator in JavaScript.

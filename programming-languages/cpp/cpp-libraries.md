@@ -42,6 +42,7 @@
 - [Malloy](https://github.com/Tectu/malloy) - C++ library providing embeddable server & client components for both HTTP and WebSocket.
 - [Crow](https://github.com/CrowCpp/Crow) - Fast and Easy to use microframework for the web. ([Web](http://crowcpp.org/))
 - [Oat++](https://github.com/oatpp/oatpp) - Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
+- [libhttpserver](https://github.com/etr/libhttpserver) - C++ library for building high performance RESTful web servers.
 
 ## Graphics
 
@@ -78,7 +79,7 @@
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++.
 - [Folly](https://github.com/facebook/folly) - Library of C++14 components designed with practicality and efficiency in mind.
 - [jet-live](https://github.com/ddovod/jet-live) - C++ hot code reload for linux and macos.
-- [cpr](https://github.com/whoshuu/cpr) - Simple wrapper around libcurl inspired by the excellent Python Requests projec.
+- [cpr](https://github.com/libcpr/cpr) - Curl for People, a spiritual port of Python Requests.
 - [argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++.
 - [lager](https://sinusoid.es/lager/) - C++ library to assist value-oriented design by implementing the unidirectional data-flow architecture.
 - [Immutable++](https://github.com/rsms/immutable-cpp) - Persistent immutable data structures providing practically O(1) for appends, updates and lookups.
@@ -308,10 +309,11 @@
 - [triSYCL](https://github.com/triSYCL/triSYCL) - Generic system-wide modern C++ for heterogeneous platforms with SYCL from Khronos Group.
 - [Xcdat](https://github.com/kampersanda/xcdat) - Fast compressed trie dictionary library.
 - [Poplar-trie](https://github.com/kampersanda/poplar-trie) - C++17 implementation of memory-efficient dynamic tries.
+- [eraft](https://github.com/eraft-io/eraft) - Generic raft library inspired etcd in C++.
 
 ## Links
 
-- [Awesome HPP](https://github.com/p-ranav/awesome-hpp) - Curated list of awesome header-only C++ libraries.
+- [Awesome HPP](https://github.com/p-ranav/awesome-hpp) - Curated list oGeneric raft library inspired etcd in C++.f awesome header-only C++ libraries.
 - [Desktop App Toolkit](https://github.com/desktop-app) - Set of C++ libraries for developing nice desktop applications (by Telegram).
 - [How to export C++ library](https://github.com/robotology/how-to-export-cpp-library) - OS-agnostic C++ library template in plain CMake.
 - [List of single-file C/C++ libraries](https://github.com/nothings/single_file_libs) ([HN](https://news.ycombinator.com/item?id=24892400))

@@ -10,6 +10,7 @@
 - [Scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra. ([Web](https://scalatra.org/))
 - [Scala.js](https://github.com/scala-js/scala-js) - Scala to JavaScript compiler. ([Web](https://www.scala-js.org/))
 - [Scala Webapp Utilities](https://github.com/japgolly/webapp-util)
+- [Play Framework](https://github.com/playframework/playframework) - High Velocity Web Framework. ([Bootstrap Template](https://github.com/innFactory/bootstrap-play2))
 
 ## CLI
 

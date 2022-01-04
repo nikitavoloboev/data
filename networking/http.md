@@ -187,3 +187,4 @@
 - [dav-server-rs](https://github.com/messense/dav-server-rs) - Rust WebDAV server library.
 - [You don't need that CORS request (2021)](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/) ([HN](https://news.ycombinator.com/item?id=29777145))
 - [Awesome WebDAV](https://github.com/fstanis/awesome-webdav)
+- [httptunnel](https://github.com/larsbrinkhoff/httptunnel) - Bidirectional data stream tunnelled in HTTP requests.

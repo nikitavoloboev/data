@@ -315,6 +315,7 @@ Here are few more things I liked, design wise.
 - [Fabian Fett](https://fabianfett.de/)
 - [Louie Mantia](http://louiemantia.com/)
 - [Unai Mengual](https://owln.ai/)
+- [Koos Looijesteijn](https://www.kooslooijesteijn.net/)
 - [Patrick Brosset](https://patrickbrosset.com/)
 - [Laurel Schwulst](https://laurelschwulst.com/)
 - [Rob Haisfield](https://robhaisfield.com/)

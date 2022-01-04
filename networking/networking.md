@@ -154,7 +154,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Hermes](https://github.com/George3d6/Hermes) - Minimalist, easy to deploy, dependency free file server written in go.
 - [CDN Geolocation](https://github.com/redirect2me/cdn-geolocation) - Geolocation API via HTTP headers from a CDN, currently supporting AWS Cloudfront, Cloudflare, Fastly and Google AppEngine.
 - [remotemoe](https://github.com/fasmide/remotemoe) - Software daemon for exposing ad-hoc services to the internet without having to deal with the regular network stuff such as configuring VPNs, changing firewalls, or adding port forwards.
-- [MOSN](https://github.com/mosn/mosn) - Cloud native proxy for edge or service mesh written in Go.
+- [MOSN](https://github.com/mosn/mosn) - Cloud native proxy for edge or service mesh written in Go. ([GitHub](https://github.com/mosn)) ([Web](https://mosn.io/en/))
 - [File Descriptor Transfer over Unix Domain Sockets (2020)](https://copyconstruct.medium.com/file-descriptor-transfer-over-unix-domain-sockets-dcbbf5b3b6ec)
 - [curl](https://curl.haxx.se/) - Command line tool and library for transferring data with URLs. ([Code](https://github.com/curl/curl))
 - [IPv6 Is a Nightmare (2020)](https://teknikaldomain.me/post/ipv6-is-a-total-nightmare/) ([HN](https://news.ycombinator.com/item?id=24994587)) ([Lobsters](https://lobste.rs/s/vm8wei/ipv6_is_total_nightmare_this_is_why))

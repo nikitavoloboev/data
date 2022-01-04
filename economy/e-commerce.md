@@ -132,3 +132,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Shopify Remix Tailwind](https://github.com/mcansh/shopify-remix-tailwindui)
 - [Stord](https://www.stord.com/) - Make Your Supply Chain A Competitive Advantage. ([Twitter](https://twitter.com/getstord))
 - [Scale To The Moon](https://scale.shiptothemoon.com/) - Resource library made exclusively for e-commerce.
+- [Interview with CEO of Flexport: Supply chain crunch, modern logistics (2022)](https://noahpinion.substack.com/p/interview-ryan-petersen-ceo-of-flexport) ([HN](https://news.ycombinator.com/item?id=29781902))

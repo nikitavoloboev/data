@@ -26,6 +26,7 @@
 - [PG-Entity](https://github.com/tchoutri/pg-entity) - PostgreSQL database layer that does not get in your way.
 - [Haskell PostgreSQL-typed](https://github.com/dylex/postgresql-typed) - Haskell PostgreSQL library with compile-time type inference.
 - [sqlite-simple](https://github.com/nurpax/sqlite-simple) - Mid-level bindings for sqlite.
+- [pool](https://github.com/bos/pool) - Fast Haskell library for managing medium-lifetime pooled resources, such as database connections.
 
 ## Test
 
@@ -220,6 +221,7 @@
 - [free-functors](https://github.com/sjoerdvisscher/free-functors) - Provides free functors that are adjoint to functors that forget class constraints.
 - [hashtables](https://github.com/gregorycollins/hashtables) - Mutable hash tables for Haskell, in the ST monad.
 - [avail](https://github.com/re-xyr/avail) - Low-overhead effect management for concrete monads.
+- [fakedata](https://github.com/fakedata-haskell/fakedata) - Haskell Library for producing quality fake data.
 
 ## Notes
 

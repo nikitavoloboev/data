@@ -76,3 +76,4 @@
 - [Ricks-Lab GPU Utilities](https://github.com/Ricks-Lab/gpu-utils) - Set of utilities for monitoring GPU performance and modifying control settings.
 - [Watchmen](https://github.com/Spico197/watchmen) - Simple and easy-to-use toolkit for GPU scheduling.
 - [GPU-Accelerated Lossless Compression Survey](https://github.com/dingwentao/GPU-lossless-compression)
+- [RMM](https://github.com/rapidsai/rmm) - RAPIDS Memory Manager.

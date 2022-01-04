@@ -276,6 +276,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Readers Pick the Best Book of the Past 125 Years](https://www.nytimes.com/interactive/2021/12/28/books/best-book-winners.html)
 - [What was your favorite book of 2021?](https://www.reddit.com/r/suggestmeabook/comments/rtnqd1/what_was_your_favourite_book_of_2021/)
 - [7 лучших книг 2021 года: выбор Егора Михайлова](https://daily.afisha.ru/brain/21955-7-luchshih-knig-2021-goda-vybor-egora-mihaylova/)
+- [Топ-5 книг 2021 года](https://www.youtube.com/watch?v=DNebclc1wj0)
 
 ## Interesting Prose Books
 

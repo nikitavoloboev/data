@@ -130,3 +130,4 @@
 - [tfk8s](https://github.com/jrhouston/tfk8s) - Tool for converting Kubernetes YAML manifests to Terraform HCL.
 - [Helm Provider for Terraform](https://github.com/hashicorp/terraform-provider-helm) - Allows you to install and manage Helm Charts in your Kubernetes cluster using Terraform.
 - [Terraform Provider to manage NATS JetStream](https://github.com/nats-io/terraform-provider-jetstream)
+- [Terraform Scripting Concepts](https://serdigital64.github.io/post/terraform/terraform-scripting-concepts-part1of2/) ([HN](https://news.ycombinator.com/item?id=29780098))

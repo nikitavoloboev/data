@@ -154,6 +154,8 @@
 - [pr-compliance-action](https://github.com/mtfoley/pr-compliance-action) - Check PR for compliance on title, linked issues, and files changed.
 - [Lighthouse Check Action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running Lighthouse audits automatically in CI workflows.
 - [setup-cue](https://github.com/cue-lang/setup-cue) - Install a specific CUE CLI version on your Github Actions runner.
+- [GitHub Action - Releases API](https://github.com/shogo82148/actions-upload-release-asset) - GitHub Action uploads release assets using Upload a release asset.
+- [GitHub Action for GraalVM](https://github.com/graalvm/setup-graalvm)
 
 ## Go
 
@@ -263,6 +265,14 @@
 
 - [Scala Steward](https://github.com/scala-steward-org/scala-steward-action) - Github Action to launch Scala Steward in your repository.
 
+## Electron
+
+- [Electron Builder Action](https://github.com/samuelmeuli/action-electron-builder) - GitHub Action for building and releasing Electron apps.
+
+## Markdown
+
+- [GitHub Actions for mdBook](https://github.com/peaceiris/actions-mdbook) - Setup mdBook quickly and build your site fast.
+
 ## Flutter
 
 - [flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in actions.
@@ -369,3 +379,4 @@
 - [Keyless signing with GitHub Actions](https://github.com/mattmoor/zero-friction-actions)
 - [Run server as systemd process & automate deployment with github actions (2021)](https://lakhan.me/blog/automate-server-deployment)
 - [Simple autograding with GitHub Classroom + GitHub Actions + CML Container (2021)](https://mti-lab.github.io/blog/2021/12/15/autograding.html)
+- [4 tips for GitHub Actions usability (+2 debugging) (2022)](https://blog.fleetdm.com/4-tips-for-github-actions-usability-2-debugging-4c0c920adfde)

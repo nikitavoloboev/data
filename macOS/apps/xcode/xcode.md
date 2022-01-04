@@ -46,7 +46,7 @@
 - [SwiftLee's Xcode posts](https://www.avanderlee.com/category/xcode/)
 - [xcode-ast-dump](https://github.com/keith/xcode-ast-dump) - Simple script for dumping the Swift AST from within Xcode.
 - [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Reclaim tens of gigabytes of your storage used for various Xcode caches.
-- [nef](https://github.com/bow-swift/nef) - Steroids for Xcode Playgrounds.
+- [nef](https://github.com/bow-swift/nef) - Steroids for Xcode Playgrounds. Compile time verification and generation of documentation from Xcode Playgrounds. ([Web](https://nef.bow-swift.io/)) ([Xcode Extension](https://github.com/bow-swift/nef-plugin))
 - [xcodes](https://github.com/RobotsAndPencils/xcodes) - Manage the Xcodes installed on your Mac.
 - [XCOrganizer](https://xcorganizer.com/) - Using metadata it finds all your Xcode Projects, Xcode Workspaces and Xcode Playgrounds in seconds.
 - [Awesome and useful Xcode defaults](https://github.com/ctreffs/xcode-defaults)

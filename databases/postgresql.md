@@ -386,3 +386,4 @@
 - [PostgREST on Fargate – 500QPS for $20/mo (2021)](https://www.nedmcclain.com/postgrest-rest-api-on-aws-fargate/)
 - [Postgres Tuning Tips (2021)](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
 - [Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data](https://github.com/CrunchyData/postgres-operator-examples)
+- [Multicorn](https://github.com/Segfault-Inc/Multicorn) - PostgreSQL 9.1+ extension meant to make Foreign Data Wrapper development easy, by allowing the programmer to use the Python programming language. ([Web](https://multicorn.org/))

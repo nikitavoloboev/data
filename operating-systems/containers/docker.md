@@ -173,3 +173,4 @@
 - [dlayer](https://github.com/orisano/dlayer) - Docker layer analyzer.
 - [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers.
 - [Docker Buildkit Pulumi Provider](https://github.com/MaterializeInc/pulumi-docker-buildkit)
+- [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Works by building and extracting a rootfs from a Dockerfile, and then merging that filesystem with a small minimal kernel that runs in RAM.

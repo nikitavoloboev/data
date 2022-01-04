@@ -188,3 +188,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Arc Institute](https://arcinstitute.org/) - New institution for curiosity-driven biomedical science and technology. ([Tweet](https://twitter.com/patrickc/status/1471156220425871360))
 - [SeqLike](https://github.com/modernatx/seqlike) - Unified biological sequence manipulation in Python.
 - [Deep Learning for Molecules and Materials Book](https://dmol.pub/intro.html) ([Code](https://github.com/whitead/dmol-book))
+- [ProtTrans](https://github.com/agemagician/ProtTrans) - State of the art pre-trained models for proteins.

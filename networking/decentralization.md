@@ -133,3 +133,4 @@
 - [The Web3 Fraud (2021)](https://www.usenix.org/publications/loginonline/web3-fraud) ([Tweet](https://twitter.com/ncweaver/status/1471668214480334851)) ([HN](https://news.ycombinator.com/item?id=29587469)) ([Lobsters](https://lobste.rs/s/wcggoi/web3_fraud))
 - [Why Web3? (2021)](https://avc.com/2021/12/why-web3/) ([HN](https://news.ycombinator.com/item?id=29727420))
 - [Web3 is centralized (2022)](https://blog.wesleyac.com/posts/web3-centralized) ([HN](https://news.ycombinator.com/item?id=29766497))
+- [A not so gentle intro to web3 (2021)](https://www.kooslooijesteijn.net/blog/web3) ([HN](https://news.ycombinator.com/item?id=29779159))

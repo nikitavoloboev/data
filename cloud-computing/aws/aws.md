@@ -269,3 +269,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [s3gof3r](https://github.com/github/s3gof3r) - Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI.
 - [AWS Well-Architected Labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices. ([Web](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc))
 - [aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
+- [onaws](https://github.com/amalmurali47/onaws) - Tool to check if an IP/hostname belongs to the AWS IP space or not.

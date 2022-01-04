@@ -40,3 +40,4 @@
 - [Forth vs Lisp](https://wiki.c2.com/?ForthVsLisp) ([HN](https://news.ycombinator.com/item?id=29243476))
 - [PlanckForth: Bootstrapping an Interpreter from Handwritten 1KB Binary](https://github.com/nineties/planckforth) ([Lobsters](https://lobste.rs/s/ti8tq3/bootstrapping_forth_interpreter_from))
 - [MovForth](https://github.com/Reschivon/movForth) - Compiler for the Forth language using LLVM.
+- [lbForth](https://github.com/larsbrinkhoff/lbForth) - Self-hosting metacompiled Forth, bootstrapping from a few lines of C.

@@ -144,3 +144,4 @@
 - [Twttr](https://github.com/sreechar/twttr) - Streamlines your twitter surfing process by prioritizing user-friendly features. ([Web](https://twttr.sreecha.me/))
 - [A Guide to Twitter](https://tasshin.com/blog/a-guide-to-twitter/) ([HN](https://news.ycombinator.com/item?id=29752379))
 - [Nazuna](https://github.com/Sazzo/nazuna) - Download Twitter videos using your terminal.
+- [Twitter Stats Collection and Analysis](https://github.com/jschuur/twitter-stats) - Self-hosted performance tracking for your Twitter followers and tweets.
