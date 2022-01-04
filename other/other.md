@@ -585,3 +585,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: What’s the most outrageous belief you’re confident is true? (2021)](https://news.ycombinator.com/item?id=29733026)
 - [Ask HN: Favorite/Classic HN threads of all time (2022)](https://news.ycombinator.com/item?id=29759993)
 - [Что сейчас происходит в Афганистане и как мировое сообщество может помочь афганкам?](https://twitter.com/mikaprikamskaya/status/1477598846851203072)
+- [Awesome List of Awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)

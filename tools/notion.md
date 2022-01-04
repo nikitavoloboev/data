@@ -84,3 +84,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [NAST](https://github.com/dragonman225/nast) - Block-based intermediate representation for document-like content.
 - [Remix + Notion](https://github.com/onspaceship/remotion)
 - [Notion-rs](https://github.com/jkelleyrtp/notion-rs) - Rust implementation of the unofficial Notion.so API.
+- [Notion PDF Export](https://github.com/ganeshh123/notion-pdf-export) - Tool to allow batch PDF export for free Notion users.

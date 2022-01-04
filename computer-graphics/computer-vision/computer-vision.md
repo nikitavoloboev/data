@@ -518,3 +518,5 @@
 - [A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose (2021)](https://arxiv.org/abs/2102.06199) ([Code](https://github.com/LemonATsu/A-NeRF))
 - [Rethinking Self-supervised Correspondence Learning: A Video Frame-level Similarity Perspective (2021)](https://arxiv.org/abs/2103.17263) ([Code](https://github.com/xvjiarui/VFS#readme))
 - [Sara](https://gitlab.com/DO-CV/sara) - Easy-to-Use C++ Computer Vision Library.
+- [RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching (2021)](https://arxiv.org/abs/2109.07547) ([Code](https://github.com/princeton-vl/RAFT-Stereo))
+- [U-2-Net: Going Deeper with Nested U-Structure for Salient Object Detection (2020)](https://arxiv.org/abs/2005.09007) ([Code](https://github.com/Norod/U-2-Net-StyleTransfer))

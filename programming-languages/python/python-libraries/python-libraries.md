@@ -633,6 +633,7 @@
 - [quickmunge](https://github.com/ludios/quickmunge) - Some utilities for manipulating lines of text, numbers, JSON, bencode, and HTML fragments. Intended for use in shell pipes.
 - [Iguanas](https://github.com/paypal/Iguanas) - Fast, flexible and modular Python package for generating a Rules-Based System (RBS) for binary classification use cases.
 - [py-filelock](https://github.com/tox-dev/py-filelock) - Platform-independent file lock for Python.
+- [pytypes](https://github.com/Stewori/pytypes) - Typing-toolbox for Python 3.
 
 ## Links
 

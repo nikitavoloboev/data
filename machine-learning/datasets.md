@@ -136,3 +136,4 @@
 - [arXiv public datasets](https://github.com/mattbierbaum/arxiv-public-datasets)
 - [AIST++ Dance Motion Dataset](https://google.github.io/aistplusplus_dataset/) ([API Code](https://github.com/google/aistplusplus_api))
 - [TheAudioDB.com](https://www.theaudiodb.com/) - Community Database of audio artwork and metadata with a JSON API.
+- [Awesome Video Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets)

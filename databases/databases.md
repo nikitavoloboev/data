@@ -502,3 +502,4 @@
 - [2021 in Database Startups: Gold Rush](https://unum.cloud/post/2021-12-31-dbms-startups/) ([HN](https://news.ycombinator.com/item?id=29749541))
 - [Databass, Part 1: Queries (2021)](https://blog.josephmorag.com/posts/databass1/)
 - [The Third Manifesto: Documents and Books on Database Design](https://www.dcs.warwick.ac.uk/~hugh/TTM/documents_and_books.html)
+- [Database System Readings](https://github.com/Sunt-ing/database-system-readings)

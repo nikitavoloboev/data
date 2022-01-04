@@ -435,3 +435,4 @@ all: unset
 - [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator/) ([Code](https://github.com/wwebdev/separator-generator))
 - [Stylist](https://github.com/futursolo/stylist-rs) - CSS-in-Rust styling solution for WebAssembly Applications.
 - [Almond.CSS](https://alvaromontoro.github.io/almond.css/) - Collection of CSS styles to make simple websites look nicer and better. ([Code](https://github.com/alvaromontoro/almond.css))
+- [Pure CSS device fingerprinting](https://csstracking.dev/)

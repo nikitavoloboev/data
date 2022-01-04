@@ -462,4 +462,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [How to back up your Git repositories (2021)](https://threkk.medium.com/how-to-back-up-your-git-repositories-1298a4487a31) ([Lobsters](https://lobste.rs/s/dmkw4d/how_back_up_your_git_repositories))
 - [Ask HN: Do we need an easier Git? (2022)](https://news.ycombinator.com/item?id=29756272)
 - [git-agecrypt](https://github.com/vlaci/git-agecrypt) - Git integration usable to store encrypted secrets in the git repository while having the plaintext available in the working tree.
-- [Dura](https://github.com/tkellogg/dura) - Background process that watches your Git repositories. ([HN](https://news.ycombinator.com/item?id=29784238))
+- [Dura](https://github.com/tkellogg/dura) - Background process that watches your Git repositories. ([HN](https://news.ycombinator.com/item?id=29784238)) ([Lobsters](https://lobste.rs/s/g7suro/dura_you_shouldn_t_ever_lose_your_work_if))
