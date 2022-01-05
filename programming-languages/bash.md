@@ -134,3 +134,4 @@ source script
 - [Bash patterns I use weekly](https://will-keleher.com/posts/5-Useful-Bash-Patterns.html) ([HN](https://news.ycombinator.com/item?id=29318751))
 - [How to write idempotent Bash scripts (2019)](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/) ([HN](https://news.ycombinator.com/item?id=29483070))
 - [Mastering Bash and Terminal (2017)](https://www.blockloop.io/mastering-bash-and-terminal/) ([HN](https://news.ycombinator.com/item?id=13400350))
+- [bish](https://github.com/tdenniston/bish) - Language that compiles to Bash. Shell scripting with a modern feel.

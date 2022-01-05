@@ -36,3 +36,4 @@
 - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files.
 - [mingo](https://github.com/kofrasa/mingo) - MongoDB query language for in-memory objects.
 - [mongobetween](https://github.com/coinbase/mongobetween) - Lightweight MongoDB connection pooler written in Go.
+- [Monty](https://github.com/davidlatwe/montydb) - Mongo tinified. MongoDB implemented in Python.

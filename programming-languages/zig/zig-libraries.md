@@ -59,6 +59,7 @@
 - [Cosmic](https://github.com/fubark/cosmic) - Single binary tool for building graphical and cli apps in JavaScript/TS.
 - [zjson](https://github.com/xyaman/zjson) - Minimal JSON library with zero allocations.
 - [Zig Generator](https://github.com/yrashk/zig-generator) - Async generator type for Zig.
+- [ctregex.zig](https://github.com/alexnask/ctregex.zig) - Compile time regular expressions in zig.
 
 ## Links
 

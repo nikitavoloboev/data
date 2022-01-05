@@ -42,6 +42,7 @@
 - [Hammox](https://github.com/msz/hammox) - Automated contract testing for Elixir functions and mocks.
 - [PropCheck](https://github.com/alfert/propcheck) - Property based testing for Elixir.
 - [Mock](https://github.com/jjh42/mock) - Mocking library for Elixir language.
+- [ExMachina](https://github.com/thoughtbot/ex_machina) - Create test data for Elixir applications.
 
 ## ML
 

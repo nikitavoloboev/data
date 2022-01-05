@@ -39,3 +39,4 @@
 - [Ask HN: Why is Docusign a $50B company? (2021)](https://news.ycombinator.com/item?id=29363897)
 - [Propylon](https://propylon.com/) - Creating innovative software solutions to draft, manage, and understand legal content. ([GitHub](https://github.com/propylon))
 - [Understanding Intellectual Property: A Guide for Artists (2013)](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1138&context=lu_law_review)
+- [How the Next Layer of the Internet is Going to be Standardized (2021)](https://www.mnot.net/blog/2021/06/21/standards-competition-governance)

@@ -55,3 +55,9 @@
 - [Packing Equal Copies](https://erich-friedman.github.io/packing/index.html)
 - [Discrete and Computational Geometry Book](https://press.princeton.edu/books/hardcover/9780691145532/discrete-and-computational-geometry) ([HN](https://news.ycombinator.com/item?id=29550413))
 - [Executable version of Functional Differential Geometry](https://github.com/sicmutils/fdg-book)
+- [scikit-geometry](https://github.com/scikit-geometry/scikit-geometry) - Scientific Python Geometric Algorithms Library.
+- [RBush](https://github.com/mourner/rbush) - High-performance JavaScript R-tree-based 2D spatial index for points and rectangles.
+- [S2 Geometry Library](https://github.com/google/s2geometry) - C++ package for manipulating geometric shapes.
+- [Trimesh](https://github.com/mikedh/trimesh) - Python library for loading and using triangular meshes.
+- [Geometric.js](https://github.com/HarryStevens/geometric) - JavaScript library for doing geometry.
+- [Polygon Mesh Processing Library](https://github.com/pmp-library/pmp-library) - C++ open-source library for processing and visualizing polygon surface meshes.

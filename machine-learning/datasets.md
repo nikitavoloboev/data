@@ -137,3 +137,4 @@
 - [AIST++ Dance Motion Dataset](https://google.github.io/aistplusplus_dataset/) ([API Code](https://github.com/google/aistplusplus_api))
 - [TheAudioDB.com](https://www.theaudiodb.com/) - Community Database of audio artwork and metadata with a JSON API.
 - [Awesome Video Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets)
+- [Conceptual 12M](https://github.com/google-research-datasets/conceptual-12m) - Dataset containing (image-URL, caption) pairs collected for vision-and-language pre-training.

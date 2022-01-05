@@ -90,3 +90,4 @@
 - [Raytracing diamonds (2021)](https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html) ([HN](https://news.ycombinator.com/item?id=29695281))
 - [VXCT](https://github.com/Helliaca/VXCT) - OpenGL-based Implementation of Cyril Crassins Voxel Cone Tracing.
 - [The joy of building a ray tracer, for fun, in Rust. (2022)](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/) ([HN](https://news.ycombinator.com/item?id=29791142))
+- [Ray Tracing in a week-end, implemented in Julia](https://github.com/claforte/RayTracingWeekend.jl)

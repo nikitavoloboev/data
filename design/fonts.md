@@ -299,3 +299,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [OTF/WOFF/WOFF2 Converter](https://kombu.kanejaku.org/) ([Code](https://github.com/bashi/kombu))
 - [fontstash-es](https://github.com/tangrams/fontstash-es) - Text rendering and text shaping for OpenGL ES.
 - [React Awesome Typography](https://github.com/Coderwelsch/react-awesome-typography) - Typescript react component to align words visually and replaces typical misspellings every typographer hates.
+- [SVG to Font](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and output a TTF/EOT/WOFF/WOFF2/SVG font.

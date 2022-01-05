@@ -301,6 +301,10 @@
 
 - Order of importance for cards: **Watching** -> **Next** -> No label.
 
+## Contacts
+
+- Tags `#` for metadata: i.e. `# rust`. `()` for nickname `(nikivi)`. `[` for favorites.
+
 ## Track
 
 - Track everything worth tracking (lists of movies seen, books read, series watched..).

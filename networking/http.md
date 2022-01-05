@@ -188,3 +188,4 @@
 - [You don't need that CORS request (2021)](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/) ([HN](https://news.ycombinator.com/item?id=29777145))
 - [Awesome WebDAV](https://github.com/fstanis/awesome-webdav)
 - [httptunnel](https://github.com/larsbrinkhoff/httptunnel) - Bidirectional data stream tunnelled in HTTP requests.
+- [Should you use Let’s Encrypt for internal hostnames? (2022)](https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/) ([Lobsters](https://lobste.rs/s/q9jb95/should_you_use_let_s_encrypt_for_internal))

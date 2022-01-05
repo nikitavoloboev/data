@@ -45,3 +45,4 @@
 - [taddy](https://github.com/lttb/taddy) - Compile-time Atomic CSS-in-JS.
 - [CSS Modules-in-CSS Module Scripts (2021)](https://daverupert.com/2021/08/css-modules-in-css-modules/)
 - [UnoCSS](https://github.com/antfu/unocss) - Instant on-demand atomic CSS engine. ([Web](https://unocss.antfu.me/)) ([Reimagine Atomic CSS](https://antfu.me/posts/reimagine-atomic-css)) ([unocss-preset-typography](https://github.com/ydcjeff/unocss-preset-typography))
+- [tss-react](https://github.com/garronej/tss-react) - makeStyles is dead, long live makeStyles.

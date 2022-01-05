@@ -43,3 +43,4 @@
 - [Planus](https://github.com/TethysSvensson/planus) - Alternative flatbuffer implementation.
 - [TinyCBOR](https://github.com/intel/tinycbor) - Concise Binary Object Representation (CBOR) Library.
 - [Cheat sheets for the Portable Document Format](https://github.com/gendx/pdf-cheat-sheets)
+- [Understanding UUIDs, ULIDs and String Representations](https://sudhir.io/uuids-ulids) ([Lobsters](https://lobste.rs/s/ucvsxl/understanding_uuids_ulids_string))

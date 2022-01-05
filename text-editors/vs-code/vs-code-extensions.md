@@ -20,7 +20,7 @@ Below is a list of extensions I use.
 
 ## Rust
 
-- [Rust Analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) - Experimental Rust compiler front-end for IDEs. ([Code](https://github.com/rust-analyzer/rust-analyzer))
+- [Rust Analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) - Experimental Rust compiler front-end for IDEs. ([Code](https://github.com/rust-analyzer/rust-analyzer)) ([Tweet](https://twitter.com/rustadventure/status/1478437578634252291))
 
 ## JS/TS
 

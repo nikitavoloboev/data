@@ -46,7 +46,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [LegoOS](https://github.com/WukLab/LegoOS) - Disseminated, Distributed OS for Hardware Resource Disaggregation.
 - [CuBitOS](https://github.com/docandrew/CuBit) - General-purpose, formally-verified, 64-bit operating system in SPARK/Ada for x86-64.
 - [Demikernel](https://github.com/demikernel/demikernel) - Library operating system architecture designed for use with kernel-bypass I/O devices.
-- [Drone](https://www.drone-os.com/) - Embedded Operating System for writing real-time applications in Rust. ([drone-core](https://github.com/drone-os/drone-core))
+- [Drone](https://www.drone-os.com/) - Embedded Operating System for writing real-time applications in Rust. ([drone-core](https://github.com/drone-os/drone-core)) ([CLI](https://github.com/drone-os/drone))
 - [Manticore](https://github.com/manticoreos/manticore) - Research operating system, written in Rust. ([Web](https://manticoreos.io/))
 - [CyanOS](https://github.com/AymenSekhri/CyanOS) - x86 monolithic kernel operating system, coded in C++ 17 and few lines of x86 Assembly.
 - [ChaiOS](https://github.com/ChaiSoft/ChaiOS) - Modular multi-platform hobby OS. Hybrid kernel, largely monolithic. Kernel C library is dynamically linked.
@@ -136,6 +136,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Minimal bare metal kernel in Swift](https://github.com/spevans/swift-project1)
 - [Cleese](https://github.com/jtauber/cleese) - Functioning operating system written almost entirely in Python.
 - [Tifflin](https://github.com/thepowersgang/rust_os) - OS kernel written in rust. Non POSIX.
+- [Vinix](https://github.com/vlang/vinix) - Modern, fast, and useful operating system in the V programming language.
 
 ## Notes
 

@@ -223,4 +223,5 @@
 - [The Making of Games Reddit](https://www.reddit.com/r/TheMakingOfGames/)
 - [Technical Game Design tutorials](https://www.reddit.com/r/gamedev/comments/rt2tyl/why_is_there_a_huge_lack_of_technical_game_design/)
 - [How Dwarf Fortress is built (2021)](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) ([HN](https://news.ycombinator.com/item?id=29757875))
-- [Basic Computer Games implemented in different languages](https://github.com/coding-horror/basic-computer-games)
+- [Basic Computer Games implemented in different languages](https://github.com/coding-horror/basic-computer-games) ([Article](https://blog.codinghorror.com/updating-the-single-most-influential-book-of-the-basic-era/))
+- [SoLoud](https://github.com/jarikomppa/soloud) - Easy to use, free, portable c/c++ audio engine for games. ([Docs](http://sol.gfxile.net/soloud/))

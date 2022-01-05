@@ -591,3 +591,6 @@
 - [KubExplorer](https://github.com/Pscheidl/kubexplorer) - Detects orphan configmaps and secrets in a Kubernetes cluster.
 - [Pleco](https://github.com/Qovery/pleco) - Automatically removes Cloud managed services and Kubernetes resources based on tags with TTL.
 - [OpenEBS](https://openebs.io/) - Kubernetes storage simplified. ([Code](https://github.com/openebs/openebs))
+- [Kusk](https://github.com/kubeshop/kusk) - Use OpenAPI to configure Kubernetes.
+- [System Upgrade Controller](https://github.com/rancher/system-upgrade-controller) - General-purpose, Kubernetes-native upgrade controller (for nodes).
+- [Kourier](https://github.com/knative-sandbox/net-kourier) - Purpose-built Knative Ingress implementation using just Envoy with no additional CRDs.

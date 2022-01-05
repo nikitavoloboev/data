@@ -172,3 +172,4 @@
 - [dns2](https://github.com/song940/node-dns) - DNS Server and Client Implementation in Pure JavaScript with no dependencies.
 - [Overture](https://github.com/shawn1m/overture) - Customized DNS relay server.
 - [dns-exfil](https://github.com/KarimPwnz/dns-exfil) - Run a DNS server for the purpose of logging DNS questions.
+- [Why might you run your own DNS server? (2022)](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)

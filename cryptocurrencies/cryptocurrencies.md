@@ -219,3 +219,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Interesting 2022 cryptocurrencies](https://twitter.com/adamscochran/status/1476652328736342023)
 - [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives)
 - [BEAM](https://beam.mw/) - Confidential Cryptocurrency and DeFi Platform. ([Code](https://github.com/BeamMW/beam))
+- [Arrow Protocol](https://arrowprotocol.com/#/) - Launch staking derivatives for the protocols you're already integrating with, redirecting yield to a different address. ([Code](https://github.com/arrowprotocol/arrow))

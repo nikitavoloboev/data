@@ -71,3 +71,4 @@
 - [gRPC on GKE and Istio](https://github.com/salrashid123/gcegrpc) - gRPC client/server running loadbalanced/failover on Google Compute Engine and Google App Engine.
 - [gRPC Web and gRPC Transcoding with Envoy (2021)](https://blog.salrashid.dev/articles/2021/grpc_web_and_transcoding_with_envoy/)
 - [nRPC](https://github.com/nats-rpc/nrpc) - RPC framework like gRPC, but for NATS.
+- [plex](https://github.com/phogolabs/plex) - Multiplexer that allows GRPC and HTTP server listening on the same port.

@@ -51,3 +51,5 @@
 - [Speech synthesis using AVSpeechSynthesizer (2021)](https://cornerbit.tech/speech-synthesis-using-avspeechsynthesizer/)
 - [Towards Lightweight Controllable Audio Synthesis with Conditional Implicit Neural Representations (2021)](https://arxiv.org/abs/2111.08462) ([Code](https://github.com/janzuiderveld/continuous-audio-representations))
 - [TTS](https://github.com/coqui-ai/TTS) - Library for advanced Text-to-Speech generation. ([Web](https://coqui.ai/)) ([HN](https://news.ycombinator.com/item?id=29786132))
+- [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone](https://github.com/Edresson/YourTTS)
+- [SubSync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer. ([Overview](http://sc0ty.pl/2019/04/subsync-synchronize-movie-subtitles-with-audio-track/)) ([HN](https://news.ycombinator.com/item?id=29794153))

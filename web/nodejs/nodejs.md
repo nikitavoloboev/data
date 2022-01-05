@@ -304,3 +304,4 @@
 - [Node.js Integration Tests Best Practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices)
 - [Testcontainers Node](https://github.com/testcontainers/testcontainers-node) - NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers.
 - [node-cli-starter](https://github.com/coryrylan/node-cli-starter) - Minimal starter kit for building Node CLI applications with TypeScript.
+- [Node.js Addon Examples](https://github.com/nodejs/node-addon-examples)

@@ -141,3 +141,4 @@
 - [scala-native-cli](https://github.com/scala-native/scala-native-cli) - Command Line Interface for Scala Native.
 - [sbt-typelevel](https://github.com/typelevel/sbt-typelevel) - SBT plugin which understands binary compatibility.
 - [Tetrix in Scala](https://eed3si9n.com/tetrix-in-scala/)
+- [Functional event-driven architecture: Powered by Scala 3 (2021)](https://leanpub.com/feda) ([Code](https://github.com/gvolpe/trading))

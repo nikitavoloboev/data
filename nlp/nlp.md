@@ -448,3 +448,4 @@
 - [Multitask Prompted Training Enables Zero-Shot Task Generalization (2021)](https://arxiv.org/abs/2110.08207) ([Code](https://github.com/bigscience-workshop/t-zero))
 - [spaCy models](https://github.com/explosion/spacy-models) - Models for the spaCy Natural Language Processing (NLP) library.
 - [Awesome Huggingface](https://github.com/huggingface/awesome-huggingface)
+- [SyntaxDot](https://github.com/tensordot/syntaxdot) - Neural syntax annotator, supporting sequence labeling, lemmatization, and dependency parsing.

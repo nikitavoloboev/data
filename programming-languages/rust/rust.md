@@ -667,3 +667,5 @@
 - [Why is my Rust build so slow? (2021)](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow) ([HN](https://news.ycombinator.com/item?id=29742694))
 - [rust-analyzer in 2021](https://rust-analyzer.github.io//blog/2021/12/30/2021-recap.html)
 - [Rustacean Station Podcast](https://rustacean-station.org/) ([Web Code](https://github.com/rustacean-station/rustacean-station.org))
+- [Profiling linkers (2022)](https://fasterthanli.me/articles/profiling-linkers)
+- [In Defense of Async: Function Colors Are Rusty (2022)](https://www.thecodedmessage.com/posts/async-colors/)

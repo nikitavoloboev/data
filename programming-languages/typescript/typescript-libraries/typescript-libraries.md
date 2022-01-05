@@ -270,6 +270,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [zod-to-ts](https://github.com/sachinraja/zod-to-ts) - Generate TypeScript types from your Zod schema.
 - [Typed Inject](https://github.com/nicojs/typed-inject) - Type safe dependency injection for TypeScript.
 - [p](https://github.com/antfu/p) - Tools for handling promises.
+- [Sunflake](https://github.com/lvkdotsh/sunflake) - Zero dependency, lightweight, snowflake generator.
+- [glob-bus](https://github.com/JamieMason/glob-bus) - 249 byte pub/sub event bus with namespaced wildcard support.
 
 ## Links
 

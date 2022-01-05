@@ -31,6 +31,7 @@
 - [DNS over Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 DNS resolver built for Discord.
 - [ClemBot](https://github.com/ClemBotProject/ClemBot) - Discord bot for server management with an emphasis on modularity and configuration.
 - [Discord External Video Embeds](https://github.com/adryd325/discord-twitter-video-embeds) - Discord bot that fixes broken Twitter, TikTok and Reddit video Embeds.
+- [Ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot) - Feature-rich Discord bot with +200 commands for Discord servers. Economy, util, fun, music, admin and more! Built with Next.js and Discord.js.
 
 ## Libraries
 
@@ -58,7 +59,7 @@
 - [discordjs/voice](https://github.com/discordjs/voice) - Implementation of the Discord Voice API for discord.js and other JS/TS libraries.
 - [discord-hero](https://github.com/discord-hero/discord-hero) - Powerful, modular and easy-to-use Discord Python bot framework. Batteries included.
 - [catnip](https://github.com/mewna/catnip) - Reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
-- [Ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot) - Feature-rich Discord bot with +200 commands for Discord servers. Economy, util, fun, music, admin and more! Built with Next.js and Discord.js.
+- [Solaire](https://github.com/wwselleck/solaire-discord) - Lightweight framework for creating discord bots.
 
 ## Notes
 
@@ -101,5 +102,5 @@
 - [python-discord-webhook](https://github.com/lovvskillz/python-discord-webhook) - Execute discord webhooks.
 - [Awesome Discord](https://github.com/jacc/awesome-discord)
 - [The Best Discord Bots for Your Server (2021)](https://www.wired.com/story/best-discord-bots/)
-- [Top.gg](https://top.gg/) - The Best Discord Bots and Servers.
+- [Top.gg](https://top.gg/) - The Best Discord Bots and Servers. ([Twitter](https://twitter.com/JoinTopgg))
 - [Discord Components](https://github.com/skyra-project/discord-components) - Discord message components to easily build and display fake Discord messages on your webpage.

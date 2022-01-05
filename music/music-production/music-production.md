@@ -126,6 +126,7 @@
 - [Music Theory Go Lib](https://github.com/brettbuddin/musictheory)
 - [WEBMIDI.js](https://github.com/djipco/webmidi) - Makes it easy to interact with MIDI instruments directly from a web browser or from Node.js.
 - [mu](https://github.com/dbuenzli/mu) - Declarative music for OCaml.
+- [MusicManipulations.jl](https://github.com/JuliaMusic/MusicManipulations.jl) - Manipulate music data, humanize, quantize and analyze music performances with Julia.
 
 ## Inspiration
 
@@ -307,3 +308,4 @@
 - [What is that WEIRD rhythm in Stromae's Santé? | Q+A](https://www.youtube.com/watch?v=CAzl6xLe4as)
 - [Inside Music](https://github.com/googlecreativelab/inside-music) - Lets you step inside of a song, seeing its individual pieces to give you a closer look at how music is made.
 - [Is Adele's latest single microtonal? | Q+A](https://www.youtube.com/watch?v=njyCxQxR41M)
+- [The Making of ‘What Could Have Been’ from Arcane | Sting ft. Ray Chen](https://www.youtube.com/watch?v=_DegKNj62-w)

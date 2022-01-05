@@ -80,3 +80,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [One Pot Pony](https://onepotpony.com/) - Lazy person's guide to delicious meal prep.
 - [NYT Cooking Recipes](https://cooking.nytimes.com/)
 - [Eugene's recipes](https://eed3si9n.com/recipes/)
+- [Only Recipe](https://showcase.onlyrecipe.app/) - Cut the clutter from recipe sites. ([HN](https://news.ycombinator.com/item?id=29795482))

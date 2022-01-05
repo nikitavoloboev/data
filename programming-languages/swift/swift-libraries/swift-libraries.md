@@ -217,6 +217,7 @@
 - [SupportDocs](https://github.com/aheze/SupportDocs) - Generate help centers for your iOS apps. Hosted by GitHub and always up-to-date.
 - [ToggleUI](https://github.com/ilyapuchka/ToggleUI) - Library that provides property wrappers to create feature toggles for your app with built-in debug view based on SwiftUI and Combine.
 - [MBVideoPlayer](https://github.com/mwaqasbhati/MBVideoPlayer) - Video player on top of AVQueuePlayer.
+- [iOS-Utils](https://github.com/ark-develop/iOS-Utils) - Set of convenient iOS utilities.
 
 ## macOS
 
@@ -390,6 +391,8 @@
 - [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - SwiftUI package to handle permissions.
 - [ModalView](https://github.com/diniska/modal-view) - Analogue of SwiftUI NavigationView that provides a convenient interface of displaying modal .
 - [SwiftUICharts](https://github.com/willdale/SwiftUICharts) - Charts / plotting library for SwiftUI.
+- [HandySwiftUI](https://github.com/Flinesoft/HandySwiftUI) - Handy SwiftUI features that didn't make it into the SwiftUI.
+- [TextBuilder](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
 
 ## Test
 

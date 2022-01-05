@@ -10,7 +10,7 @@
 - [What is a Quantum Field?!?](https://www.youtube.com/watch?v=Y7Ac8zKTD-E)
 - [Scott Aaronson on Computational Complexity Theory and Quantum Computers](https://www.youtube.com/watch?v=0jrybODBUpA)
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas) - Programming exercises for learning Q# and quantum computing.
-- [Categorical quantum mechanics](https://wiki2.org/en/Categorical_quantum_mechanics) - Study of quantum foundations and quantum information using paradigms from mathematics and computer science, notably monoidal category theory.
+- [Categorical quantum mechanics](https://wiki2.org/en/Categorical_quantum_mechanics) - Study of quantum foundations and quantum information using paradigms from mathematics and computer science, notably monoidal category theory.
 - [Sean Carroll's Mindscape: Finding Gravity Within Quantum Mechanics (2019)](https://overcast.fm/+S_7nkatBo)
 - [Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime (2019)](https://www.goodreads.com/book/show/44065062-something-deeply-hidden)
 - [How quantum teleportation works](https://quantum.country/teleportation) ([Twitter](https://twitter.com/michael_nielsen/status/1194368423116988416))
@@ -87,3 +87,4 @@
 - [Five Starter Pieces: Quantum Information Science via Semi-definite Programs (2021)](https://arxiv.org/abs/2112.08276) ([Code](https://github.com/vsiddhu/SDP-Quantum-OR))
 - [Entanglement between superconducting qubits and a tardigrade (2021)](https://arxiv.org/abs/2112.07978) ([Tweet](https://twitter.com/benbenbrubaker/status/1472287582654455817))
 - [Quantum theory based on real numbers can be experimentally falsified (2021)](https://www.nature.com/articles/s41586-021-04160-4) ([HN](https://news.ycombinator.com/item?id=29643921))
+- [Video recording true single-photon double-slit interference (2016)](https://aapt.scitation.org/doi/full/10.1119/1.4955173) ([Reddit](https://www.reddit.com/r/AskPhysics/comments/rvp1wo/is_there_an_actual_video_of_wave_function/))

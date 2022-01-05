@@ -129,3 +129,4 @@
 - [Saturday Morning Breakfast Cereal - The Talk](https://www.smbc-comics.com/comic/the-talk-3)
 - [Qiskit Optimization](https://github.com/Qiskit/qiskit-optimization) - Open-source framework that covers the whole range from high-level modeling of optimization problems.
 - [Lectures on quantum optics and quantum computations (in Russian)](https://github.com/ivanmurashko/lectures)
+- [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) - Numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems.

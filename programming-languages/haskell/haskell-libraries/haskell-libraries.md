@@ -222,6 +222,7 @@
 - [hashtables](https://github.com/gregorycollins/hashtables) - Mutable hash tables for Haskell, in the ST monad.
 - [avail](https://github.com/re-xyr/avail) - Low-overhead effect management for concrete monads.
 - [fakedata](https://github.com/fakedata-haskell/fakedata) - Haskell Library for producing quality fake data.
+- [rure](https://github.com/vmchale/rure) - Haskell bindings to Rust's regex library.
 
 ## Notes
 

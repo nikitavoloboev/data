@@ -131,3 +131,5 @@
 - [Write Fewer Tests! From Automation to Autogeneration - David Khourshid (2019)](https://www.youtube.com/watch?v=tpNmPKjPSFQ)
 - [granularity of testing (2021)](https://eed3si9n.com/granularity-of-testing/)
 - [The argument against clearing the database between tests (2020)](https://calpaterson.com/against-database-teardown.html) ([HN](https://news.ycombinator.com/item?id=29764792))
+- [Favor real dependencies for unit testing (2022)](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) ([Lobsters](https://lobste.rs/s/2btkdu/favor_real_dependencies_for_unit_testing))
+- [Kent](https://github.com/willkg/kent) - Fake Sentry server for local development, debugging, and integration testing.

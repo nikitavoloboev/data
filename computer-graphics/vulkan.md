@@ -61,3 +61,4 @@
 - [kajiya](https://github.com/EmbarkStudios/kajiya) - Experimental real-time global illumination renderer made with Rust and Vulkan. ([Homegrown rendering with Rust
   ](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)) ([HN](https://news.ycombinator.com/item?id=29626406)) ([HN](https://news.ycombinator.com/item?id=29711495))
 - [Toy renderer written in C using Vulkan to perform real-time ray tracing research](https://github.com/MomentsInGraphics/vulkan_renderer)
+- [VIL](https://github.com/nyorain/vil) - Vulkan in-app debugging layer.

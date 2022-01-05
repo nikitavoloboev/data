@@ -108,3 +108,5 @@
 - [containerit](https://github.com/o2r-project/containerit) - Packages R script/session/workspace and all dependencies as a Docker container by automagically generating a suitable Dockerfile.
 - [gghighlight](https://github.com/yutannihilation/gghighlight) - Highlight points and lines in ggplot2.
 - [string2path](https://github.com/yutannihilation/string2path) - R package to convert string to path.
+- [report](https://github.com/easystats/report) - Automated reporting of objects in R.
+- [tidyr](https://github.com/tidyverse/tidyr) - Tidy Messy Data.

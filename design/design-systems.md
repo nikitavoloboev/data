@@ -160,3 +160,4 @@
 - [Design Systems London Online #1 (2021)](https://www.youtube.com/watch?v=VyJEg_g6gQY)
 - [Design-Systems-Resources](https://github.com/dbanksdesign/Design-Systems-Resources)
 - [HyperTheme Editor](https://www.hyperthe.me/) - Most advanced visual theme editor for Chakra-UI. ([Code](https://github.com/Hyperting/hypertheme-editor))
+- [Documenting Design Systems In NextJS](https://github.com/souporserious/documenting-systems-in-nextjs)

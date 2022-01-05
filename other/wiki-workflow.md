@@ -429,3 +429,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Early conceptarium workflows](https://paulbricman.com/reflections/early-conceptarium-workflows)
 - [Mi](https://github.com/elchead/misou) - Personal search engine.
 - [/tap](https://www.tatatap.com/) - Powerful and customizable note-taking system. ([HN](https://news.ycombinator.com/item?id=29663233))
+- [Zetten](https://github.com/hrvolapeter/zetten) - Note taking app - Firebase + SwiftUI.

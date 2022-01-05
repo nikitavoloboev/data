@@ -127,3 +127,6 @@
 - [gffutils](https://github.com/daler/gffutils) - Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations.
 - [The origins and functional effects of postzygotic mutations throughout the human lifespan (2021)](https://www.biorxiv.org/content/10.1101/2021.12.20.473199v1.full)
 - [In genetic programming, does introducing changes (e.g., mutations) at lower levels of a genome tree generally makes for better or worse outcomes than making changes at a higher level in the tree?](https://twitter.com/drmichaellevin/status/1477275577354752004)
+- [biowasm](https://github.com/biowasm/biowasm) - WebAssembly modules for genomics.
+- [Aioli](https://github.com/biowasm/aioli) - Framework for building fast genomics web tools with WebAssembly and WebWorkers.
+- [42basepairs](https://42basepairs.com/) - Better way to explore your genomics data.

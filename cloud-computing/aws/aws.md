@@ -271,3 +271,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
 - [onaws](https://github.com/amalmurali47/onaws) - Tool to check if an IP/hostname belongs to the AWS IP space or not.
 - [S3 Manager](https://github.com/cloudlena/s3manager) - Web GUI written in Go to manage S3 buckets from any provider.
+- [AWSQS::Kubernetes::Helm](https://github.com/aws-quickstart/quickstart-helm-resource-provider) - AWS CloudFormation resource provider for the management of helm 3 resources in EKS and self-managed Kubernetes clusters.

@@ -177,3 +177,4 @@
 - [Best thing you've done to work better with your product manager? (2021)](https://twitter.com/GergelyOrosz/status/1464285290684723206)
 - [How I Own Projects as a Software Engineer (2021)](https://neilkakkar.com/How-I-Own-Projects-as-a-Software-Engineer.html)
 - [Inspection and the limits of trust](https://lethain.com/inspection/)
+- [Hunting Tech Debt via Org Charts (2021)](https://bellmar.medium.com/hunting-tech-debt-via-org-charts-92df0b253145)

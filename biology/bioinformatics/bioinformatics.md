@@ -189,3 +189,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [SeqLike](https://github.com/modernatx/seqlike) - Unified biological sequence manipulation in Python.
 - [Deep Learning for Molecules and Materials Book](https://dmol.pub/intro.html) ([Code](https://github.com/whitead/dmol-book))
 - [ProtTrans](https://github.com/agemagician/ProtTrans) - State of the art pre-trained models for proteins.
+- [sandbox.bio](https://sandbox.bio/) - Interactive bioinformatics tutorials.

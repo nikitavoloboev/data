@@ -187,3 +187,4 @@
 - [Cerbos](https://cerbos.dev/) - Painless access control for cloud-native applications. ([Code](https://github.com/cerbos/cerbos))
 - [Grant](https://github.com/simov/grant) - OAuth Proxy.
 - [Fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
+- [Charon](https://github.com/piotrkowalczuk/charon) - Authorization and authentication service.

@@ -410,6 +410,7 @@
 - [Mux.jl](https://github.com/JuliaWeb/Mux.jl) - Middleware for Julia.
 - [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) - Progress meter for long-running computations.
 - [Modia.jl](https://github.com/ModiaSim/Modia.jl) - Modeling and simulation of multidomain engineering systems.
+- [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) - WebSockets library for Julia.
 
 ## Links
 

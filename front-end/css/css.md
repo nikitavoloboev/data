@@ -13,6 +13,7 @@ all: unset
 
 ## Notes
 
+- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
 - ID's are unique.
   - Each element can have only one ID.
   - Each page can have only one element with that ID.
@@ -436,3 +437,4 @@ all: unset
 - [Stylist](https://github.com/futursolo/stylist-rs) - CSS-in-Rust styling solution for WebAssembly Applications.
 - [Almond.CSS](https://alvaromontoro.github.io/almond.css/) - Collection of CSS styles to make simple websites look nicer and better. ([Code](https://github.com/alvaromontoro/almond.css))
 - [Pure CSS device fingerprinting](https://csstracking.dev/)
+- [Ban Outer CSS Margins from Components](https://mxstbr.com/thoughts/margin/) ([HN](https://news.ycombinator.com/item?id=22676442)) ([HN](https://news.ycombinator.com/item?id=29791975))

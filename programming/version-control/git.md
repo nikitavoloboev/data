@@ -325,7 +325,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Gitopia](https://gitopia.org/#/) - Decentralized Source Code Collaboration Platform.
 - [git wip: What the heck was I just doing? (2020)](https://carolynvanslyck.com/blog/2020/12/git-wip/) ([Lobsters](https://lobste.rs/s/mv8301/git_wip_what_heck_was_i_just_doing))
 - [GitLab](https://gitlab.com/) - Open source end-to-end software development platform. ([Code](https://gitlab.com/gitlab-org/gitlab)) ([GitHub Mirror](https://github.com/gitlabhq/gitlabhq)) ([HN](https://news.ycombinator.com/item?id=28863993)) ([Tweet](https://twitter.com/jasoncwarner/status/1448741716077408274))
-- [mob](https://github.com/remotemobprogramming/mob) - Tool for swift git handover. ([Web](https://mob.sh/))
+- [mob](https://github.com/remotemobprogramming/mob/) - Tool for swift git handover. ([Web](https://mob.sh/)) ([Lobsters](https://lobste.rs/s/gwd7c6/mob_cli_tool_for_fast_git_handover))
 - [uncommitted](https://github.com/brandon-rhodes/uncommitted) - Command-line tool to find projects whose changes have not been committed to version control.
 - [Organise your commits (2020)](https://www.ncameron.org/blog/organise-your-commits/)
 - [Experimenting with git storage (2020)](https://nedbatchelder.com//blog/202012/experimenting_with_git_storage.html) ([Lobsters](https://lobste.rs/s/pqlm33/experimenting_with_git_storage))

@@ -47,6 +47,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Puzzle Panda](https://puzzlepanda.com/) - Play Jigsaw Puzzles Online. ([HN](https://news.ycombinator.com/item?id=29218401))
 - [Pokémon Showdown](https://pokemonshowdown.com/) - Pokémon battle simulator. ([Code](https://github.com/smogon/pokemon-showdown))
 - [Prince of Persia in JavaScript](https://princejs.com/) ([HN](https://news.ycombinator.com/item?id=29710538)) ([Code](https://github.com/oklemenz/PrinceJS))
+- [Wordle](https://www.powerlanguage.co.uk/wordle/) - Daily word game.
 
 ## Awesome OSS games
 

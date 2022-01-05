@@ -85,6 +85,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [LazyBot](https://github.com/XDBots/LazyBot) - Telegram Userbot based on GramJS.
 - [TGVCBot](https://github.com/ArnabXD/TGVCBot) - Telegram VC Music Bot.
 - [snazzybot](https://github.com/xencodes/snazzybot) - Get results across web right on Telegram.
+- [text-to-notion-bot](https://github.com/dartungar/text-to-notion-bot) - Simple self-hosted single-user telegram bot for sending text into Notion, using the official API.
 
 ## Notes
 

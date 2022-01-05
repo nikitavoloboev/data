@@ -85,3 +85,7 @@ Below is a list of plugins I use.
 - [Sublime Packages](https://github.com/sublimehq/Packages)
 - [Package Control Default Channel](https://github.com/wbond/package_control_channel)
 - [Docs - Package Control](https://packagecontrol.io/docs#Package_Developers)
+
+## Links
+
+- [Setting up Sublime Text 4 for Python (2021)](https://yeray.dev/python/setting-up-sublime-text-4-for-python)

@@ -263,3 +263,4 @@
 - [JAXopt](https://github.com/google/jaxopt) - Hardware accelerated, batchable and differentiable optimizers in JAX.
 - [chop](https://github.com/openopt/chop) - Optimization library based on PyTorch, with applications to adversarial examples and structured neural network training.
 - [WebDNN](https://github.com/mil-tokyo/webdnn) - Fastest DNN Running Framework on Web Browser.
+- [nonconformist](https://github.com/donlnz/nonconformist) - Python implementation of the conformal prediction framework.

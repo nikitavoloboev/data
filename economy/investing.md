@@ -238,3 +238,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [Portfolio Returns](https://github.com/ashchan/returns) - Financial app for macOS that helps you track your multiple investment or portfolios in one place.
 - [Cheapest apps to invest in S&P 500 (2021)](https://www.reddit.com/r/investing/comments/rol1ez/ive_got_10000_i_want_to_invest_in_the_sp_500_for/)
 - [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis) - Fully-fledged Fundamental Analysis package capable of collecting 20 years of Company Profiles, Financial Statements, Ratios and Stock Data of 20.000+ companies.
+- [Investing 100k in EU (2022)](https://www.reddit.com/r/eupersonalfinance/comments/rvt145/ive_saved_100k_what_to_do_now_im_lost/)

@@ -196,7 +196,7 @@
 - [Bucardo.org](https://bucardo.org/) - PostgreSQL tools for Replication, Monitoring, and Productivity.
 - [Re-Introducing Hash Indexes in PostgreSQL (2021)](https://hakibenita.com/postgresql-hash-index)
 - [postgresql-hll](https://github.com/citusdata/postgresql-hll) - PostgreSQL extension adding HyperLogLog data structures as a native data type.
-- [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
+- [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL. ([HN](https://news.ycombinator.com/item?id=29792663))
 - [temBoard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control. ([Web](https://temboard.io/))
 - [Postgres Guide](http://postgresguide.com/) ([Code](https://github.com/craigkerstiens/postgresguide.com))
 - [Postgres Book Collection](https://github.com/faisalbasra/postgres_books)
@@ -387,3 +387,5 @@
 - [Postgres Tuning Tips (2021)](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
 - [Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data](https://github.com/CrunchyData/postgres-operator-examples)
 - [Multicorn](https://github.com/Segfault-Inc/Multicorn) - PostgreSQL 9.1+ extension meant to make Foreign Data Wrapper development easy, by allowing the programmer to use the Python programming language. ([Web](https://multicorn.org/))
+- [pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
+- [pg_bloat_check](https://github.com/keithf4/pg_bloat_check) - Bloat check script for PostgreSQL.

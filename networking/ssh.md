@@ -86,3 +86,5 @@
 - [promwish](https://github.com/charmbracelet/promwish) - Provides a simple wish middleware exposing some Prometheus metrics.
 - [age-plugin-remote](https://github.com/str4d/age-plugin-remote) - Expose local age identities to remote machines via SSH.
 - [go-ssh-client](https://github.com/metrue/go-ssh-client) - Go package that helps you run command on remote host via SSH.
+- [sshw](https://github.com/yinheli/sshw) - ssh client wrapper for automatic login.
+- [Restricting SSH agent keys (2022)](https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/) ([HN](https://news.ycombinator.com/item?id=29816508))

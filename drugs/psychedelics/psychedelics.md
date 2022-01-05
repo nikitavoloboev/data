@@ -143,3 +143,4 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [MAPS Research Papers](https://maps.org/take-action/resources/papers/) - Original research and reviews of literature about psychedelic compounds.
 - [Neural Annealing: Toward a Neural Theory of Everything (2019)](https://opentheory.net/2019/11/neural-annealing-toward-a-neural-theory-of-everything/) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/rm7ang/does_anyone_actually_consider_psychedelics_to_be/hpkopl7/?utm_source=reddit&utm_medium=web2x&context=3))
 - [Bipolar and Psychedelics: An Investigation into the Potential and Risks (2020)](https://psychedelicstoday.com/2020/05/11/bipolar-and-psychedelics/)
+- [Psilocybin has no short- or long-term detrimental effects in healthy people (2022)](https://www.kcl.ac.uk/news/psilocybin-in-10mg-or-25mg-doses-has-no-short-or-long-term-detrimental-effects-in-healthy-people) ([HN](https://news.ycombinator.com/item?id=29798397))

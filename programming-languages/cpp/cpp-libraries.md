@@ -5,6 +5,7 @@
 - [cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser.
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface.
 - [Command Interface](https://github.com/empirical-soft/command-interface) - Add a command-line interface to any C++ program. ([HN](https://news.ycombinator.com/item?id=28886328))
+- [Argh](https://github.com/adishavit/argh) - Minimalist argument handler.
 
 ## Testing
 
@@ -43,6 +44,7 @@
 - [Crow](https://github.com/CrowCpp/Crow) - Fast and Easy to use microframework for the web. ([Web](http://crowcpp.org/))
 - [Oat++](https://github.com/oatpp/oatpp) - Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 - [libhttpserver](https://github.com/etr/libhttpserver) - C++ library for building high performance RESTful web servers.
+- [async-sockets-cpp](https://github.com/eminfedar/async-sockets-cpp) - Simple thread-based asynchronous TCP & UDP Socket classes in C++.
 
 ## Graphics
 

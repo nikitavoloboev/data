@@ -99,6 +99,7 @@
 - [rust-jwt](https://github.com/durch/rust-jwt) - Very simple JWT generation lib.
 - [Avalanche](https://github.com/DJankauskas/avalanche) - Rust library for building performant Web apps.
 - [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. ([Docs](https://dioxuslabs.com/guide/))
+- [webview_rust](https://github.com/webview/webview_rust) - Rust Bindings to webview.
 
 ## WASM
 
@@ -226,6 +227,8 @@
 - [geo-svg](https://github.com/lelongg/geo-svg) - Generate SVG strings from geo-types.
 - [Limelight](https://github.com/drifting-in-space/limelight) - WebGL2 wrapper with a focus on making high-performance WebAssembly graphics code easier to write and maintain.
 - [Kayak UI](https://github.com/StarArawn/kayak_ui) - Declarative UI that can be used to make user interfaces in Rust primarily targeting games.
+- [Plexus](https://github.com/olson-sean-k/plexus) - Polygonal mesh processing.
+- [Genmesh](https://github.com/gfx-rs/genmesh) - Library of mesh generation utilities.
 
 ## Games
 
@@ -329,6 +332,7 @@
 - [Cipher-crypt](https://github.com/arosspope/cipher-crypt) - Library of historic cryptographic algorithms implemented in rust.
 - [BigInt](https://github.com/RustCrypto/crypto-bigint) - Cryptographic Big Integers.
 - [gravity-rs](https://github.com/gendx/gravity-rs) - Rust implementation of the Gravity-post-quantum signature schemes.
+- [MACs](https://github.com/RustCrypto/MACs) - Message authentication code algorithms written in pure Rust.
 
 ## Linux
 
@@ -1299,6 +1303,10 @@
 - [OptArgs](https://github.com/jkelleyrtp/optargs) - Easy-to-use optional function arguments for Rust.
 - [Pipette](https://github.com/jkelleyrtp/pipette) - Tiny crate mimicking Elixir's pipe operator for Rust without macros.
 - [openraft](https://github.com/datafuselabs/openraft) - Advanced Raft using the Tokio framework.
+- [arcstr](https://github.com/thomcc/arcstr) - Better reference counted strings for Rust.
+- [fmmap](https://github.com/al8n/fmmap) - Flexible and convenient high-level mmap for zero-copy file I/O.
+- [tap-rs](https://github.com/darfink/tap-rs) - Exposing tapping functionality for all types, and extended functionality for Option, Result & Future. Often useful for logging.
+- [ezio](https://github.com/nrc/ezio) - Easy IO for Rust.
 
 ## Cargo Plugins
 
@@ -1426,3 +1434,4 @@
 - [Rust asynchronous examples](https://github.com/gendx/rust-async-examples)
 - [escargot](https://github.com/crate-ci/escargot) - Cargo API written in Paris.
 - [Meuse](https://github.com/mcorbin/meuse) - Private Cargo crate registry, for Rust.
+- [Porting Rust's std to rustix (2022)](https://blog.sunfishcode.online/port-std-to-rustix/) ([HN](https://news.ycombinator.com/item?id=29793377)) ([Reddit](https://www.reddit.com/r/rust/comments/rvnc6y/porting_rusts_std_to_rustix/)) ([Lobsters](https://lobste.rs/s/piqbfw/porting_rust_s_std_rustix))

@@ -2,6 +2,8 @@
 
 Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore conflicts. Try not to argue on same topics and resolve issues when they arise at their root. Truly acknowledge and apologize for mistakes made. Don't be cruel. Treat your partner and everyone with respect.
 
+[All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship.
+
 ## Notes
 
 - [At the end of the day people won't remember what you said or did, they will remember how you made them feel.](https://www.reddit.com/r/AskMenOver30/comments/qnvwdl/what_piece_of_advice_have_you_received_that_you/)
@@ -69,6 +71,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Successful marriages can end in divorce. It’s ok to say, “this isn’t working” and part ways in tact. We have to detach from the idea that staying together is the only relationship outcome that matters.](https://twitter.com/ashleysimpo/status/1473474332676562947)
 - Marry early if it makes sense for your partner to gain any Passport benefits (cheaper education, ability to work/live in a country). Marriages also carry some benefits with taxes depending on the country.
 - [Always date your spouse.](https://twitter.com/TrungTPhan/status/1475148478288302084)
+- [Your real unfair advantage in business is your personal network. Education, wealth, and skills all help, but it's "who you know" that will help you make the biggest leaps forward.](https://twitter.com/mijustin/status/1000167960474861568)
 
 ## Links
 

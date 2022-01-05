@@ -141,6 +141,7 @@
 - [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
 - [Dexie.js](https://github.com/dfahlander/Dexie.js) - Minimalistic Wrapper for IndexedDB. ([Web](https://dexie.org/))
 - [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database.
+- [PicoDB](https://github.com/jclo/picodb) - Tiny in-memory database (MongoDB like) that stores JSON documents.
 
 ## React
 
@@ -725,6 +726,8 @@
 - [Vanta JS](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website. ([Web](https://www.vantajs.com/)) ([HN](https://news.ycombinator.com/item?id=29780423))
 - [standardized-audio-context](https://github.com/chrisguttandin/standardized-audio-context) - Cross-browser wrapper for the Web Audio API which aims to closely follow the standard.
 - [worker-timers](https://github.com/chrisguttandin/worker-timers) - Replacement for setInterval() and setTimeout() which works in unfocused windows.
+- [Swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions. ([Web](https://swiperjs.com/))
+- [flat](https://github.com/hughsk/flat) - Flatten/unflatten nested JavaScript objects.
 
 ## Links
 

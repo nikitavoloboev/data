@@ -166,3 +166,4 @@
 - [Svelte MultiSelect](https://github.com/janosh/svelte-multiselect) - Keyboard-friendly, zero-dependency multi-select Svelte component.
 - [SWR-like data fetching in Svelte (2021)](https://crinkles.io/writing/data-fetching-swr-svelte)
 - [Svelte Query](https://github.com/SvelteStack/svelte-query) - Performant and powerful remote data synchronization for Svelte.
+- [My Evaluation of SvelteKit for Full-Stack Web App Development (2022)](https://cprimozic.net/blog/trying-out-sveltekit/) ([HN](https://news.ycombinator.com/item?id=29806385))

@@ -90,3 +90,4 @@
 - [scikit-build](https://github.com/scikit-build/scikit-build) - Improved build system generator for CPython C/C++/Fortran/Cython extensions.
 - [Bob](https://github.com/benchkram/bob) - Build system, a task runner as well as tooling for Git Multi-repos, all bundled into a single binary.
 - [My collection of CMake modules](https://github.com/rpavlik/cmake-modules)
+- [buildevents](https://github.com/honeycombio/buildevents) - Helper to generate Honeycomb traces from CI builds.

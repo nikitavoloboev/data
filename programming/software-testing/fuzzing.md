@@ -68,3 +68,4 @@
 - [Recent Papers Related To Fuzzing](https://github.com/wcventure/FuzzingPaper)
 - [FormatFuzzer](https://github.com/uds-se/FormatFuzzer) - Framework for high-efficiency, high-quality generation and parsing of binary inputs.
 - [fuzzuf](https://github.com/fuzzuf/fuzzuf) - Fuzzing Unification Framework.
+- [BINSEC](https://github.com/binsec/binsec) - Open-source toolset to help improve software security at the binary level.

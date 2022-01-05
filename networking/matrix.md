@@ -84,3 +84,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [OCaml matrix](https://github.com/clecat/ocaml-matrix) - Implementation of a matrix server in OCaml for MirageOS.
 - [Awesome Matrix](https://github.com/jryans/awesome-matrix)
 - [Matrix Corporal](https://github.com/devture/matrix-corporal) - Reconciliator and gateway for a managed Matrix server.
+- [Matrix CRDT](https://github.com/YousefED/Matrix-CRDT) - Enables you to use Matrix as a backend for distributed, real-time collaborative web applications that sync automatically.

@@ -61,3 +61,5 @@
 - [WireGuard Endpoint Discovery and NAT Traversal using DNS-SD (2020)](https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/)
 - [wgctrl](https://github.com/WireGuard/wgctrl-go) - Enables control of WireGuard devices on multiple platforms.
 - [natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking.
+- [WireHole](https://github.com/IAmStoxe/wirehole) - Combination of WireGuard, Pi-hole, and Unbound in a docker-compose project.
+- [udppunch](https://github.com/yinheli/udppunch) - udp punch for wireguard, inspired by natpunch-go.

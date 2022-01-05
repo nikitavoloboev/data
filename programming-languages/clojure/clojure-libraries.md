@@ -138,6 +138,7 @@
 - [Pathom 3](https://github.com/wilkerlucio/pathom3) - Logic programming through attribute relationships in Clojure. ([Docs](https://pathom3.wsscode.com/docs/))
 - [cascade](https://github.com/lilactown/cascade) - Library of continuation-passing, thunk-producing versions of many Clojure core functions.
 - [more.async](https://github.com/bsless/more.async) - Small library to do more stuff with core.async.
+- [Dialog](https://github.com/amperity/dialog) - Simple just-enough logging library for Clojure.
 
 ## Links
 

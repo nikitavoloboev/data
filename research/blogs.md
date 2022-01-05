@@ -189,3 +189,4 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [I Host This Blog from My Garage (2021)](https://eevans.co/blog/garage/) ([HN](https://news.ycombinator.com/item?id=29474130))
 - [Blog-CLI](https://github.com/elchead/blog-cli) - Used to draft posts inside obsidian and publish conveniently to my Github blog.
 - [Ask HN: Best Engineering Blog Posts? (2022)](https://news.ycombinator.com/item?id=29758396)
+- [Ask HN: How to build a light weight personal blog? (2022)](https://news.ycombinator.com/item?id=29793389#29793698)

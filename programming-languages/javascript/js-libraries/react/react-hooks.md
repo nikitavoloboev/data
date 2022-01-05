@@ -152,6 +152,7 @@
 - [repeaterjs/react-hooks](https://github.com/repeaterjs/react-hooks) - React hooks for working with async iterators/generators.
 - [use-combined-pagination](https://github.com/Hyperting/use-combined-pagination) - React Hook for paginating data from multiple sources.
 - [useReactQueryAutoSync](https://github.com/lukesmurray/react-query-autosync) - React hook which lets you automatically synchronize a value to a server with react-query. ([Article](https://lukesmurray.com/blog/react-query-auto-sync-hook))
+- [React Loads](https://github.com/jxom/react-loads) - Backend agnostic library to help with external data fetching & caching in your UI components.
 
 ## Code
 

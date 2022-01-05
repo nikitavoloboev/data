@@ -520,3 +520,4 @@
 - [Sara](https://gitlab.com/DO-CV/sara) - Easy-to-Use C++ Computer Vision Library.
 - [RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching (2021)](https://arxiv.org/abs/2109.07547) ([Code](https://github.com/princeton-vl/RAFT-Stereo))
 - [U-2-Net: Going Deeper with Nested U-Structure for Salient Object Detection (2020)](https://arxiv.org/abs/2005.09007) ([Code](https://github.com/Norod/U-2-Net-StyleTransfer))
+- [Language as Queries for Referring Video Object Segmentation (2022)](https://arxiv.org/abs/2201.00487) ([Code](https://github.com/wjn922/ReferFormer))

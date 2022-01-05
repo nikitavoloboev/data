@@ -98,6 +98,7 @@
 - [Lina Engine](https://github.com/inanevin/LinaEngine) - Open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 - [Stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development.
 - [Storm](https://github.com/mooman219/storm) - 2D game engine designed for performance.
+- [Arcade](https://github.com/pythonarcade/arcade) - Easy to use Python library for creating 2D arcade games.
 
 ## Physics engines
 

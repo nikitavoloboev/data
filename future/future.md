@@ -91,3 +91,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Ask HN: What will stay the same in the next 50 years? (2021)](https://news.ycombinator.com/item?id=29743181)
 - [Ask HN: What are you predictions for 2022?](https://news.ycombinator.com/item?id=29746236)
 - [Tech questions for 2022](https://www.ben-evans.com/benedictevans/2022/1/2/2022-questions)
+- [Predictions Scorecard, 2022](https://rodneybrooks.com/predictions-scorecard-2022-january-01/)

@@ -112,3 +112,4 @@
 - [clhash](https://github.com/lemire/clhash) - C library implementing the ridiculously fast CLHash hashing function.
 - [Gunslinger](https://github.com/MrFrenik/gunslinger) - C99, header-only framework for games and multimedia applications.
 - [Capere](https://github.com/PsychoBird/Capere) - Apple Silicon hooking library written in C.
+- [libcork](https://github.com/dcreager/libcork) - Simple, easily embeddable cross-platform C library. ([Docs](https://libcork.io/))

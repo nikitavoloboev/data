@@ -401,3 +401,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [«Режим вступил в эпоху заката»: Михаил Ходорковский о том, почему Путин похож на позднего Брежнева (2022)](https://www.youtube.com/watch?v=1P9gv1gR00k)
 - [Консультант Плюс](http://www.consultant.ru/) - Законодательство РФ.
 - [Максим Галкин о совместной библиотеке с Пугачёвой, любимой литературе, хобби детей и будущей книге (2022)](https://www.youtube.com/watch?v=0OvRBzLrbUs)
+- [«Бомбист» | Путинизм как он есть](https://www.youtube.com/watch?v=Ps7YCBpIHsY)
+- [Путинизм как он есть - YouTube](https://www.youtube.com/playlist?list=PLU5ERRTOxFWQVteyeU5f-b2R5xWq6Vun4)
+- [Best Russian YouTube channels](https://www.reddit.com/r/AskARussian/comments/rvqk0z/best_russian_youtube_channels/)

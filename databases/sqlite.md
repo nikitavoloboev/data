@@ -137,3 +137,6 @@
 - [r2d2-sqlite](https://github.com/ivanceras/r2d2-sqlite) - r2d2 connection pool for sqlite.
 - [GopherCon 2021: Ben Johnson - Building Production Applications Using Go & SQLite](https://www.youtube.com/watch?v=XcAYkriuQ1o)
 - [Fast SQLite PWA notebook for CSV files](https://dirtylittlesql.com/) ([HN](https://news.ycombinator.com/item?id=29735392))
+- [Bashing JSON into Shape with SQLite (2022)](https://christine.website/blog/sqlite-json-munge-2022-01-04) ([Lobsters](https://lobste.rs/s/bjjjbr/bashing_json_into_shape_with_sqlite))
+- [RecordLite](https://github.com/fsaintjacques/recordlite) - Library (and executable) that declaratively maintains SQLite tables and views of semi-structured data.
+- [sqlite_protobuf](https://github.com/backtrace-labs/sqlite_protobuf) - Protobuf Extension for SQLite.

@@ -50,3 +50,4 @@
 - [How Big Data Carried Graph Theory into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/) ([HN](https://news.ycombinator.com/item?id=28241398))
 - [Partition and Code: learning how to compress graphs (2021)](https://arxiv.org/abs/2107.01952) ([Code](https://github.com/gbouritsas/PnC))
 - [Ordering Movie Credits with Graph Theory](https://endcrawl.com/credits-ordering/) ([HN](https://news.ycombinator.com/item?id=29639968))
+- [Solving the Traveling Salesman Problem using Self-Organizing Maps](https://github.com/DiegoVicen/som-tsp)

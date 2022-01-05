@@ -211,7 +211,7 @@
 - [Blaze](https://github.com/blaze/blaze) - Translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems.
 - [Dash Table](https://github.com/plotly/dash-table) - First-Class Interactive DataTable for Dash.
 - [Kombu](https://github.com/celery/kombu) - Messaging library for Python.
-- [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi)) ([FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator)) ([FastAPI Auth](https://github.com/Kludex/fastapi-authorization)) ([Getting started with GraphQL in Python with FastAPI and Ariadne](https://blog.yezz.me/blog/Getting-started-with-GraphQL-in-Python-with-FastAPI-and-Ariadne)) ([JWT Auth](https://github.com/IndominusByte/fastapi-jwt-auth)) ([FastAPI Real World App](https://github.com/nsidnev/fastapi-realworld-example-app))
+- [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi)) ([FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator)) ([FastAPI Auth](https://github.com/Kludex/fastapi-authorization)) ([Getting started with GraphQL in Python with FastAPI and Ariadne](https://blog.yezz.me/blog/Getting-started-with-GraphQL-in-Python-with-FastAPI-and-Ariadne)) ([JWT Auth](https://github.com/IndominusByte/fastapi-jwt-auth)) ([FastAPI Real World App](https://github.com/nsidnev/fastapi-realworld-example-app)) ([MeiliSearch FastAPI](https://github.com/sanders41/meilisearch-fastapi))
 - [Starlette](https://github.com/encode/starlette) - Little ASGI framework that shines. ([Docs](https://www.starlette.io/))
 - [Poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [POT: Python Optimal Transport](https://github.com/PythonOT/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
@@ -635,6 +635,10 @@
 - [py-filelock](https://github.com/tox-dev/py-filelock) - Platform-independent file lock for Python.
 - [pytypes](https://github.com/Stewori/pytypes) - Typing-toolbox for Python 3.
 - [pipes](https://github.com/robinhilliard/pipes) - Elixir–style pipes for Python.
+- [Lunr.py](https://github.com/yeraydiazdiaz/lunr.py) - Python implementation of Lunr.js.
+- [Asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience. ([Lobsters](https://lobste.rs/s/pwst9n/asyncer_async_await_focused_on_developer))
+- [MeiliSearch Python Async](https://github.com/sanders41/meilisearch-python-async) - Async Python client for the MeiliSearch API.
+- [Everett](https://github.com/willkg/everett) - Configuration library for python projects.
 
 ## Links
 

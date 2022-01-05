@@ -281,3 +281,4 @@
 - [Trace](https://github.com/oslabs-beta/trace) - Lightweight GraphQL query performance monitoring GUI with real-time, resolver-level performance tracing metrics and error logging. ([Web](https://gotrace.info/))
 - [GraphQL WS](https://github.com/graphql-python/graphql-ws) - Websocket backend for GraphQL subscriptions.
 - [GraphQL Lodash](https://github.com/APIs-guru/graphql-lodash) - Data manipulation for GraphQL queries with lodash syntax.
+- [Serverless GraphQL using with AWS and ent (2022)](https://entgo.io/blog/2022/01/04/serverless-graphql-using-aws/)

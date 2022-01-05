@@ -61,3 +61,4 @@
 - [Get up and running with Go on Google Cloud](https://github.com/einride/cloudrunner-go)
 - [Python Client for Google Cloud Storage](https://github.com/googleapis/python-storage)
 - [Google APIs Node.js Client](https://github.com/googleapis/google-api-nodejs-client)
+- [GCP Auth](https://github.com/hrvolapeter/gcp_auth) - Minimal authentication library for Google Cloud Platform (GCP) in Rust.

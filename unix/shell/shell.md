@@ -179,3 +179,4 @@ All active variables can be seen by running `env`.
 - [vsh](https://github.com/xmantle/vsh) - Unix shell written and implemented in rust.
 - [You shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs) ([HN](https://news.ycombinator.com/item?id=29747034))
 - [Oil Retrospective: Software Architecture](https://www.oilshell.org/blog/2021/12/review-arch.html)
+- [Passing runtime data to AWK (2020)](https://blog.sanctum.geek.nz/passing-runtime-data-to-awk/)

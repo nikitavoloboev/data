@@ -77,3 +77,4 @@
 - [Watchmen](https://github.com/Spico197/watchmen) - Simple and easy-to-use toolkit for GPU scheduling.
 - [GPU-Accelerated Lossless Compression Survey](https://github.com/dingwentao/GPU-lossless-compression)
 - [RMM](https://github.com/rapidsai/rmm) - RAPIDS Memory Manager.
+- [Easy Scalable Text Rendering on the GPU (2016)](https://medium.com/@evanwallace/easy-scalable-text-rendering-on-the-gpu-c3f4d782c5ac)

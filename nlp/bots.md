@@ -33,3 +33,5 @@
 - [Thales](https://github.com/super-reality/Thales) - Open source autonomous agent for everyone. No coding required.
 - [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine learning, conversational dialog engine for creating chat bots. ([Docs](https://chatterbot.readthedocs.io/en/stable/))
 - [Torpedo](https://github.com/tb0hdan/torpedo) - Pluggable, multi-network asynchronous chat bot written in Go.
+- [Odd Eye](https://github.com/Xetera/odd-eye) - Detect bad bots trying to disguise themselves as humans.
+- [Bot Taxonomy: How do different kinds of automation on the internet coexist? (2021)](https://xetera.dev/bot-taxonomy/)

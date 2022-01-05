@@ -95,3 +95,5 @@
 - [JSON-S](https://github.com/brillout/json-s) - Same as JSON but with added support for Date, undefined, NaN, Infinity, and RegExp.
 - [toml2json](https://github.com/woodruffw/toml2json) - Small CLI for converting TOML to JSON.
 - [Deserializing JSON Fast (2020)](https://blog.datalust.co/deserializing-json-really-fast/) ([HN](https://news.ycombinator.com/item?id=29750062))
+- [jo](https://github.com/jpmens/jo) - Small utility to create JSON objects.
+- [jq kung fu](https://www.jqkungfu.com/) - jq playground, written in WebAssembly. ([Code](https://github.com/robertaboukhalil/jqkungfu))
