@@ -78,3 +78,4 @@
 - [FPGA Advent Calendar (2021)](https://twitter.com/willflux/status/1465268154733637633) ([HN](https://news.ycombinator.com/item?id=29613850))
 - [Potato Processor](https://github.com/skordal/potato) - Simple RISC-V processor written in VHDL for use in FPGAs.
 - [Project Apicula](https://github.com/YosysHQ/apicula) - Bitstream documentation for Gowin FPGAs.
+- [Apio](https://github.com/FPGAwars/apio) - Open source ecosystem for open FPGA boards.
