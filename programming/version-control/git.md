@@ -463,3 +463,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Ask HN: Do we need an easier Git? (2022)](https://news.ycombinator.com/item?id=29756272)
 - [git-agecrypt](https://github.com/vlaci/git-agecrypt) - Git integration usable to store encrypted secrets in the git repository while having the plaintext available in the working tree.
 - [Dura](https://github.com/tkellogg/dura) - Background process that watches your Git repositories. ([HN](https://news.ycombinator.com/item?id=29784238)) ([Lobsters](https://lobste.rs/s/g7suro/dura_you_shouldn_t_ever_lose_your_work_if))
+- [git-smart-checkout](https://github.com/craciuncezar/git-smart-checkout) - Git command extension for switching git branches more efficiently.

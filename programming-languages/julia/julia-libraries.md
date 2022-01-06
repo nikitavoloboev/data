@@ -432,3 +432,4 @@
 - [Pkg](https://github.com/JuliaLang/Pkg.jl) - Package manager for the Julia programming language. ([Docs](https://pkgdocs.julialang.org/))
 - [Registrator](https://github.com/JuliaRegistries/Registrator.jl) - GitHub app that automates creation of registration pull requests for your julia packages to the General registry.
 - [General](https://github.com/JuliaRegistries/General) - Official registry of general Julia packages.
+- [Julia frameworks to create desktop GUIs and web apps (2022)](https://logankilpatrick.medium.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115) ([HN](https://news.ycombinator.com/item?id=29813194))

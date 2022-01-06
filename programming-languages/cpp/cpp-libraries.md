@@ -312,6 +312,8 @@
 - [Xcdat](https://github.com/kampersanda/xcdat) - Fast compressed trie dictionary library.
 - [Poplar-trie](https://github.com/kampersanda/poplar-trie) - C++17 implementation of memory-efficient dynamic tries.
 - [eraft](https://github.com/eraft-io/eraft) - Generic raft library inspired etcd in C++.
+- [cpp-subprocess](https://github.com/arun11299/cpp-subprocess) - Subprocessing with modern C++.
+- [CPP-JWT](https://github.com/arun11299/cpp-jwt) - JSON Web Token library for C++.
 
 ## Links
 

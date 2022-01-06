@@ -130,3 +130,4 @@
 - [Web Syndication with JSON Feeds (2020)](https://lukasschwab.me/blog/gen/json-feed-tools.html)
 - [RSS/EMAIL](https://www.rssto.email/) - Substack for RSS feeds. ([Article](https://ab.xyz/posts/rss-to-email/)) ([Code](https://github.com/aksh-at/rss-to-email))
 - [inoreadr](https://github.com/hrbrmstr/inoreadr) - Access and Orchestrate Inoreader Feeds, Preferences, and Metadata.
+- [I Miss RSS](https://www.wilcosky.com/d/20-i-miss-rss) ([HN](https://news.ycombinator.com/item?id=29814921))

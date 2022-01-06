@@ -115,7 +115,7 @@
 
 ## GUI
 
-- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps))
+- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps)) ([HN](https://news.ycombinator.com/item?id=29807022))
 - [Tao](https://github.com/tauri-apps/tao) - Cross-platform application window creation library in Rust that supports all major platforms. Maintained for Tauri.
 - [Egui](https://github.com/emilk/egui) - Immediate mode GUI written in Rust, made for WASM. ([Example](https://github.com/hasenbanck/egui_example))
 - [rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust.
@@ -183,6 +183,7 @@
 - [hotpot-db](https://github.com/drbh/hotpot-db) - Easy to use database system. Uses SQLite3.
 - [redis-serde](https://github.com/OneSignal/serde-redis) - Serde support for redis-rs.
 - [redis_serde_json](https://github.com/clia/redis_serde_json) - Derive to store and retrieve JSON values in redis encoded using serde.
+- [tiny-lsm](https://github.com/spacejam/tiny-lsm) - Super simple in-memory blocking LSM for constant-size keys and values.
 
 ## Video
 
@@ -1307,6 +1308,7 @@
 - [fmmap](https://github.com/al8n/fmmap) - Flexible and convenient high-level mmap for zero-copy file I/O.
 - [tap-rs](https://github.com/darfink/tap-rs) - Exposing tapping functionality for all types, and extended functionality for Option, Result & Future. Often useful for logging.
 - [ezio](https://github.com/nrc/ezio) - Easy IO for Rust.
+- [NormPath](https://github.com/dylni/normpath) - More reliable path manipulation.
 
 ## Cargo Plugins
 

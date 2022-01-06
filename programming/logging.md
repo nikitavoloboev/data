@@ -55,3 +55,4 @@
 - [Uptrace](https://uptrace.dev/) - Cost-effective tracing solution that helps you monitor, understand, and optimize complex distributed systems. ([Code](https://github.com/uptrace/uptrace))
 - [Logs and tracing: not just for production, local development too (2021)](https://incident.io/blog/tracing) ([HN](https://news.ycombinator.com/item?id=29187250))
 - [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems.
+- [Do Not Log (2020)](https://sobolevn.me/2020/03/do-not-log) ([HN](https://news.ycombinator.com/item?id=29810389))

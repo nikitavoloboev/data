@@ -268,3 +268,4 @@
 - [Canon Cat Resources](http://www.canoncat.net/) ([HN](https://lobste.rs/s/10vgyo/canon_cat))
 - [Ten Lessons from Three Generations Shaped Google’s TPUv4i (2021)](https://www.gwern.net/docs/ai/2021-jouppi.pdf)
 - [Agile Hardware Design Course (2022)](https://classes.soe.ucsc.edu/cse293/Winter22/) ([Code](https://github.com/agile-hw/lectures))
+- [Ask HN: Resources for “Learning” Manufacturing? (2022)](https://news.ycombinator.com/item?id=29793770)

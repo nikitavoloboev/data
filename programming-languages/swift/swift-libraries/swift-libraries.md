@@ -218,6 +218,7 @@
 - [ToggleUI](https://github.com/ilyapuchka/ToggleUI) - Library that provides property wrappers to create feature toggles for your app with built-in debug view based on SwiftUI and Combine.
 - [MBVideoPlayer](https://github.com/mwaqasbhati/MBVideoPlayer) - Video player on top of AVQueuePlayer.
 - [iOS-Utils](https://github.com/ark-develop/iOS-Utils) - Set of convenient iOS utilities.
+- [Toast-Swift](https://github.com/BastiaanJansen/toast-swift) - Swift Toast view - iOS 14 style and newer - built with UIKit.
 
 ## macOS
 
@@ -275,6 +276,7 @@
 - [SwiftUI Navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
 - [Swift Composable Presentation](https://github.com/darrarski/swift-composable-presentation) - Navigation helpers for SwiftUI applications build with ComposableArchitecture.
 - [ComposableEnvironment](https://github.com/tgrapperon/swift-composable-environment) - Library to derive and compose Environment's in The Composable Architecture.
+- [TCACoordinators](https://github.com/johnpatrickmorgan/TCACoordinators) - Powerful navigation in the Composable Architecture via the coordinator pattern.
 - [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly.
 - [Reactive Swift fork of The Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture) ([The future of The ReactiveSwift Composable Architecture](http://michael-brown.net/2021/the-future-of-the-reactiveswift-composable-architecture/))
 - [SwiftUIKit](https://github.com/danielsaidi/SwiftUIKit) - Contains additional functionality for SwiftUI.

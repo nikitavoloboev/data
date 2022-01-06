@@ -245,6 +245,7 @@
 - [chakra-react-select](https://github.com/csandman/chakra-react-select) - Chakra-ui wrapper for the popular select library react-select.
 - [Formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3.
 - [React Feather Icons](https://github.com/feathericons/react-feather)
+- [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 
 ## Links
 

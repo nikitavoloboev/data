@@ -37,3 +37,4 @@
 - [LaTeX Finite Automata and State Diagrams with Tikz](https://hayesall.com/blog/latex-automata/) ([HN](https://news.ycombinator.com/item?id=29721787))
 - [State Machines via Jorge Luis Borges (2021)](https://lukasschwab.me/blog/gen/borges-automata.html)
 - [FSM Editor](https://fsm-editor.netlify.app/) - Simple finite state machine editor. ([Code](https://github.com/crinklesio/fsm-editor))
+- [Rabia: Simplifying State-Machine Replication Through Randomization (2021)](https://dl.acm.org/doi/10.1145/3477132.3483582) ([Code](https://github.com/haochenpan/rabia))

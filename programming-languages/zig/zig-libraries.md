@@ -4,6 +4,7 @@
 
 - [zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
 - [Zig Argument Parser](https://github.com/MasterQ32/zig-args) - Simple-to-use argument parser with struct-based config.
+- [mibu](https://github.com/xyaman/mibu) - Pure Zig library for low-level terminal manipulation.
 
 ## Web
 

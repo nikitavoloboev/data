@@ -217,6 +217,7 @@
 - [TinyCompTS](https://github.com/AlexW00/TinyCompTS) - Tiny JS/TS compiler written in vanilla TS.
 - [Breaking down TypeScript generic utility type that recursively converted `Date` types into Firestore `Timestamp` types](https://twitter.com/benmvp/status/1473823066333454336)
 - [Practical Functional Programming with Typescript workshop](https://github.com/Matechs-Garage/practical-fp-in-ts-oct-21)
+- [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 
 ## Images
 

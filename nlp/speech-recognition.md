@@ -91,3 +91,5 @@
 - [Espresso](https://github.com/freewym/espresso) - Fast End-to-End Neural Speech Recognition Toolkit.
 - [UniSpeech - Large Scale Self-Supervised Learning for Speech](https://github.com/microsoft/UniSpeech)
 - [NISQA: Speech Quality and Naturalness Assessment](https://github.com/gabrielmittag/NISQA)
+- [Optimization techniques proposed in Improving RNN Transducer Modeling for End-to-End Speech Recognition](https://github.com/csukuangfj/optimized_transducer)
+- [Conformer: Convolution-augmented Transformer for Speech Recognition (2020)](https://arxiv.org/abs/2005.08100) ([Code](https://github.com/lucidrains/conformer))

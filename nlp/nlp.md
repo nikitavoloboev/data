@@ -449,3 +449,4 @@
 - [spaCy models](https://github.com/explosion/spacy-models) - Models for the spaCy Natural Language Processing (NLP) library.
 - [Awesome Huggingface](https://github.com/huggingface/awesome-huggingface)
 - [SyntaxDot](https://github.com/tensordot/syntaxdot) - Neural syntax annotator, supporting sequence labeling, lemmatization, and dependency parsing.
+- [STriP Net](https://github.com/stephenleo/stripnet) - Semantic Similarity of Scientific Papers (S3P) Network.

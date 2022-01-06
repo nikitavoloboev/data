@@ -64,3 +64,4 @@
 - [How do new parents not die of sleep deprivation?](https://www.reddit.com/r/NoStupidQuestions/comments/qy6w0l/how_do_new_parents_not_die_of_sleep_deprivation/)
 - [Ask HN: Are there any good “coding for kids” books? (2021)](https://news.ycombinator.com/item?id=29609345)
 - [Notes on Acosta & Hutchison – The Happiest Kids in the World (2021)](http://www.federicopereiro.com/notes-acosta-hutchison-happiest-kids/)
+- [The UX on this small child is terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible) ([HN](https://news.ycombinator.com/item?id=29798712))

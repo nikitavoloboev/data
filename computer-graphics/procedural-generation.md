@@ -43,3 +43,4 @@
 - [Procedural Mandala Pattern VEX tutorial (2020)](https://www.youtube.com/watch?v=uA6BDOUzWnM)
 - [procedural-terrain](https://github.com/croquelois/procedural-terrain) - Procedural terrain generation.
 - [Three Ways of Generating Terrain with Erosion Features](https://github.com/dandrino/terrain-erosion-3-ways) ([HN](https://news.ycombinator.com/item?id=29724597))
+- [Wave Function Collapse library in pure C](https://github.com/krychu/wfc) ([HN](https://news.ycombinator.com/item?id=29806885))

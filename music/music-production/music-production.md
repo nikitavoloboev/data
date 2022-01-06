@@ -309,3 +309,5 @@
 - [Inside Music](https://github.com/googlecreativelab/inside-music) - Lets you step inside of a song, seeing its individual pieces to give you a closer look at how music is made.
 - [Is Adele's latest single microtonal? | Q+A](https://www.youtube.com/watch?v=njyCxQxR41M)
 - [The Making of ‘What Could Have Been’ from Arcane | Sting ft. Ray Chen](https://www.youtube.com/watch?v=_DegKNj62-w)
+- [Why are these chords SO beautiful? | Q+A (2021)](https://www.youtube.com/watch?v=NU9jx8vRW_E)
+- [MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling (2021)](https://arxiv.org/abs/2112.09312) ([Code](https://github.com/magenta/midi-ddsp))

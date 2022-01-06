@@ -173,3 +173,4 @@
 - [Overture](https://github.com/shawn1m/overture) - Customized DNS relay server.
 - [dns-exfil](https://github.com/KarimPwnz/dns-exfil) - Run a DNS server for the purpose of logging DNS questions.
 - [Why might you run your own DNS server? (2022)](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)
+- [iodine](https://github.com/yarrick/iodine) - Tunnel IPv4 data through a DNS server. ([Web](https://code.kryo.se/iodine/))

@@ -153,3 +153,4 @@
 - [SQL language proposal: JOIN FOREIGN](https://gist.github.com/joelonsql/15b50b65ec343dce94db6249cfea8aaa) ([HN](https://news.ycombinator.com/item?id=29739147))
 - [Dremio](https://www.dremio.com/) - SQL Data Lakehouse Platform for High-Performance BI. ([Code](https://github.com/dremio/dremio-oss))
 - [SQLPad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud.
+- [tree-sitter-sql](https://github.com/DerekStride/tree-sitter-sql) - SQL grammar for tree-sitter.

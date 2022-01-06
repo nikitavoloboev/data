@@ -75,3 +75,5 @@
 - [Bizarre Buildings Twitter](https://twitter.com/BizarreBuiIding)
 - [When is the revolution in architecture coming? (2021)](https://www.currentaffairs.org/2021/04/when-is-the-revolution-in-architecture-coming) ([HN](https://news.ycombinator.com/item?id=29155987))
 - [The Most Innovative House on the Planet](https://www.youtube.com/watch?v=LVNZbl8in_Q) ([Reddit](https://www.reddit.com/r/Automate/comments/rdbuea/its_finally_complete/))
+- [How to design a house to last 1000 years (2022)](https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for) ([HN](https://news.ycombinator.com/item?id=29810334))
+- [Construction Physics | Brian Potter](https://constructionphysics.substack.com/)

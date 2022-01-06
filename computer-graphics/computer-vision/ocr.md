@@ -25,3 +25,4 @@
 - [Project Naptha](https://projectnaptha.com/) - Highlight, copy and translate text from any image in the browser.
 - [Extract Table](https://extract-table.com/) - API for extracting a table from an image. ([Code](https://github.com/vegarsti/extract-table))
 - [Amazon Textract](https://aws.amazon.com/textract/) - Easily extract printed text, handwriting, and data from any document. ([Code Samples](https://github.com/aws-samples/amazon-textract-code-samples))
+- [CalamariOCR](https://github.com/Calamari-OCR/calamari) - Line based ATR Engine based on OCRopy.

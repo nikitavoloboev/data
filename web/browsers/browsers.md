@@ -164,3 +164,4 @@
 - [Browsers should have tree'd browser history + a formalized way to share it](https://twitter.com/NireBryce/status/1477807821567766530)
 - [Cartographist](https://github.com/szymonkaliski/cartographist) - Experimental web browser optimized for rabbit-holing.
 - [mBrowser](https://github.com/MQuy/mbrowser) - Toy web browser developed from scratch.
+- [I make $3K/mo from a browser extension (2022)](https://newsletter.tonydinh.com/issues/i-make-3k-mo-from-a-browser-extension-december-2021-updates-966892) ([HN](https://news.ycombinator.com/item?id=29803817))

@@ -61,3 +61,4 @@
 - [tun2socks](https://github.com/xjasonlyu/tun2socks) - Powered by gVisor TCP/IP stack.
 - [Rabbit TCP](https://github.com/ihciah/rabbit-tcp) - Multi-connection TCP forwarder created for accelerating TCP connections.
 - [gev](https://github.com/Allenxuxu/gev) - Lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode.
+- [tun2proxy](https://github.com/blechschmidt/tun2proxy) - Tunnel TCP traffic through SOCKS5 or HTTP using a TUN interface.

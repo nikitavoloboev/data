@@ -435,3 +435,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [ethereal](https://github.com/wealdtech/ethereal) - Command-line tool for managing common tasks in Ethereum.
 - [wagmi](https://github.com/tmm/wagmi) - React Hooks library for Ethereum, built on ethers.js.
 - [ZRNT CLI](https://github.com/protolambda/zcli) - Eth2 CLI debugging tool.
+- [NFT Swap SDK](https://github.com/trader-xyz/nft-swap-sdk) - Ethereum's missing p2p NFT and token swap library for web3 developers. Written in TypeScript. Powered by 0x.
+- [token-list](https://github.com/telcoin/token-list) - Ethereum token list standard.
+- [DSToken](https://github.com/dapphub/ds-token) - Simple and sufficient ERC20 implementation.

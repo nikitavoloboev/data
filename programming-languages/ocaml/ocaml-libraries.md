@@ -31,6 +31,7 @@
 - [Caqti](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data.
 - [PostgreSQL-OCaml](https://github.com/mmottl/postgresql-ocaml) - PostgreSQL Bindings for OCaml.
 - [postgres-protocol](https://github.com/anuragsoni/postgres-protocol) - IO independent postgres protocol implementation.
+- [chamelon](https://github.com/yomimono/chamelon) - Small, simple block-backed key-value store for MirageOS.
 
 ## Bindings
 

@@ -7,6 +7,7 @@
 - [Colorwaver](https://github.com/mrousavy/Colorwaver) - App to detect colorwaves (swatches/palettes) in the real world - powered by VisionCamera and Reanimated.
 - [Spotify Lite](https://github.com/osamaqarem/spotify-lite) - Made with React Native for iOS and Android.
 - [Messages Clone](https://github.com/marcusfrdk/messages-clone) - iOS Messages app clone I created in React Native.
+- [React Native WYSIWYG](https://github.com/shakogegia/markdown-editor) - React Native markdown editor.
 
 ## Links
 
@@ -168,3 +169,4 @@
 - [react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views.
 - [react-native-animatable](https://github.com/oblador/react-native-animatable) - Declarative transitions and animations for React Native.
 - [RNUI](https://github.com/wix/react-native-ui-lib) - UI Toolset & Components Library for React Native. ([Docs](https://wix.github.io/react-native-ui-lib/docs/getting-started/setup))
+- [react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - Simple React Native carousel component,fully implemented using reanimated v2.

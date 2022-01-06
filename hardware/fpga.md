@@ -24,7 +24,7 @@
 - [Conway's Game of Life on FPGA (2020)](https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/) ([HN](https://news.ycombinator.com/item?id=27402485))
 - [Analogue Duo](https://www.analogue.co/duo/) - FPGA Based TurboGrafx-16/PC Engine Clone. ([HN](https://news.ycombinator.com/item?id=24802193))
 - [Dream Machine: MiSTer FPGA (2020)](https://felixleger.com/posts/20201018-misterfpga/)
-- [FPGAwars](https://fpgawars.github.io/) - Exploring the Open Side of the FPGAs. ([HN](https://news.ycombinator.com/item?id=24940201))
+- [FPGAwars](https://fpgawars.github.io/) - Exploring the Open Side of the FPGAs. ([HN](https://news.ycombinator.com/item?id=24940201)) ([GitHub](https://github.com/FPGAwars))
 - [AutoFPGA](https://github.com/ZipCPU/autofpga) - Utility for Composing FPGA designs from Peripherals.
 - [WB2AXIP](https://github.com/ZipCPU/wb2axip) - Bus interconnects, bridges, and other components.
 - [Gisselquist Technology](https://zipcpu.com/about/gisselquist-technology.html) - Offering services specializing in both embedded and FPGA solutions as well as digital signal processing solutions.
@@ -79,3 +79,6 @@
 - [Potato Processor](https://github.com/skordal/potato) - Simple RISC-V processor written in VHDL for use in FPGAs.
 - [Project Apicula](https://github.com/YosysHQ/apicula) - Bitstream documentation for Gowin FPGAs.
 - [Apio](https://github.com/FPGAwars/apio) - Open source ecosystem for open FPGA boards.
+- [Ice Studio](https://icestudio.io/) - Visual editor for open FPGA boards. ([Code](https://github.com/FPGAwars/icestudio))
+- [Project Tang](https://github.com/mmicko/prjtang) - Documenting the Anlogic FPGA bit-stream format.
+- [FPGA 101 - Workshop materials](https://github.com/mmicko/fpga101-workshop)

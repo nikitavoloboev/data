@@ -61,6 +61,7 @@
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) - Integrates Excalidraw, a feature rich sketching tool, into Obsidian.
 - [Ozan's Image in Editor](https://github.com/ozntel/oz-image-in-editor-obsidian) - Obsidian plugin to view Images, Transclusions, iFrames and PDF Files within the Editor without a necessity to switch to Preview.
 - [Completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
+- [Local File Interface](https://github.com/qawatake/obsidian-local-file-interface-plugin) - Provides commands for moving files in and out of the vault.
 
 ## Themes
 

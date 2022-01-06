@@ -203,3 +203,4 @@
 - [Almost Always Unsigned (2022)](https://graphitemaster.github.io/aau/) ([HN](https://news.ycombinator.com/item?id=29766658))
 - [C Runtime Overhead (2015)](http://ryanhileman.info/posts/lib43) ([HN](https://news.ycombinator.com/item?id=29783585))
 - [Ridiculously fast feature flags (2021)](https://engineering.backtrace.io/2021-12-19-bounded-dynamicism-with-cross-modifying-code/)
+- [CIL](https://github.com/cil-project/cil) - C Intermediate Language.

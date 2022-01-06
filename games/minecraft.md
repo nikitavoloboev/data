@@ -94,3 +94,4 @@
 - [mc-proxy](https://github.com/101arrowz/mc-proxy) - Fully functional proxy for online and offline-mode Minecraft servers.
 - [Mycelium](https://github.com/nikhiljha/mycelium) - Deploy planet-scale Minecraft server networks on Kubernetes.
 - [KubeJS](https://github.com/KubeJS-Mods/KubeJS) - Multi-modloader Minecraft mod which lets you create scripts in JavaScript. ([Web](https://kubejs.com/))
+- [KubeCraftAdmin](https://github.com/erjadi/kubecraftadmin) - Minecraft as a Kubernetes admin tool. ([Article](https://eric-jadi.medium.com/minecraft-as-a-k8s-admin-tool-cf16f890de42)) ([HN](https://news.ycombinator.com/item?id=29816972))

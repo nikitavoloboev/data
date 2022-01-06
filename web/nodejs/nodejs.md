@@ -305,3 +305,5 @@
 - [Testcontainers Node](https://github.com/testcontainers/testcontainers-node) - NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers.
 - [node-cli-starter](https://github.com/coryrylan/node-cli-starter) - Minimal starter kit for building Node CLI applications with TypeScript.
 - [Node.js Addon Examples](https://github.com/nodejs/node-addon-examples)
+- [cleye](https://github.com/privatenumber/cleye) - Intuitive CLI development tool for Node.js.
+- [Youch](https://github.com/poppinss/youch) - Pretty error reporting for Node.js.

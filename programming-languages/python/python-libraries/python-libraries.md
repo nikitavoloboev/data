@@ -639,6 +639,7 @@
 - [Asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience. ([Lobsters](https://lobste.rs/s/pwst9n/asyncer_async_await_focused_on_developer))
 - [MeiliSearch Python Async](https://github.com/sanders41/meilisearch-python-async) - Async Python client for the MeiliSearch API.
 - [Everett](https://github.com/willkg/everett) - Configuration library for python projects.
+- [mpi4py](https://github.com/mpi4py/mpi4py) - Python bindings for MPI.
 
 ## Links
 
@@ -700,3 +701,4 @@
 - [import attrs (2021)](https://hynek.me/articles/import-attrs/)
 - [Nine Rules for Writing Python Extensions in Rust (2022)](https://towardsdatascience.com/nine-rules-for-writing-python-extensions-in-rust-d35ea3a4ec29) ([Reddit](https://www.reddit.com/r/rust/comments/rtnwd5/python_extensions_in_rust_lessons_learned_from/))
 - [pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities.
+- [Python Type Hints - How to Handle Optional Imports (2021)](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/) ([HN](https://news.ycombinator.com/item?id=29803756))

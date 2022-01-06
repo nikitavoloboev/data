@@ -33,3 +33,4 @@
 - [Printrun](https://github.com/kliment/Printrun) - Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software.
 - [CuraEngine](https://github.com/Ultimaker/CuraEngine) - C++ console application for 3D printing GCode generation.
 - [PUMA](https://github.com/TadPath/PUMA) - 3D Printed Microscope.
+- [Slic3r](https://slic3r.org/) - Open source 3D printing toolbox. ([Code](https://github.com/slic3r/Slic3r))

@@ -380,3 +380,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [ARouteServer](https://github.com/pierky/arouteserver) - Tool to automatically build (and test) feature-rich configurations for BGP route servers.
 - [rathole](https://github.com/rapiz1/rathole) - Secure, stable and high-performance reverse proxy for NAT traversal, written in Rust.
 - [eBPF Foundation](https://ebpf.io/foundation/)
+- [BumbleBee](https://github.com/solo-io/bumblebee) - Helps to build, run and distribute eBPF programs using OCI images.
+- [Freebind](https://github.com/blechschmidt/freebind) - IPv4 and IPv6 address rate limiting evasion tool.

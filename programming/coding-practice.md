@@ -108,3 +108,4 @@
 - [practice.dev](https://practice.dev/) - Practice programming. ([Code](https://github.com/practice-dev/practice-dev))
 - [Ace your leetcode preparations (2021)](https://sadh.life/post/leetcode-prep/)
 - [Advent of Code 2021](https://adventofcode.com/2021) ([HN](https://news.ycombinator.com/item?id=29292818)) ([Lobsters](https://lobste.rs/s/qx2azv/advent_code_2021)) ([HN](https://news.ycombinator.com/item?id=29403522))
+- [Leetcode has taught me that I'm a bad engineer (2022)](https://news.ycombinator.com/item?id=29804607)

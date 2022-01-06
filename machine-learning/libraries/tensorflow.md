@@ -101,3 +101,4 @@
 - [Advent of Code 2021 in pure TensorFlow](https://pgaleone.eu/tensorflow/2021/12/11/advent-of-code-tensorflow/) ([HN](https://news.ycombinator.com/item?id=29523094))
 - [TensorFlow Recommenders](https://github.com/tensorflow/recommenders) - Library for building recommender system models using TensorFlow.
 - [tensorboardX](https://github.com/lanpa/tensorboardX) - Write TensorBoard events with simple function call.
+- [CVNN](https://github.com/NEGU93/cvnn) - Library to help implement a complex-valued neural network (cvnn) using tensorflow as back-end.

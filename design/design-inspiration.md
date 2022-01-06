@@ -233,6 +233,7 @@ Here are few more things I liked, design wise.
 - [Amelia Wattenberger](https://wattenberger.com/)
 - [Travis Jeffery](https://travisjeffery.com/)
 - [Julian Lehr](https://julian.digital/)
+- [Casper Iversen](https://caspertheghost.me/) ([Code](https://github.com/Dev-CasperTheGhost/caspertheghost.me))
 - [Andrew Sutherland](https://asuth.com/)
 - [Alin Panaitiu](https://alinpanaitiu.com/) ([Code](https://github.com/alin23/alinpanaitiu.com))
 - [Fabrizio Rinaldi](https://www.fabrizio.so/) ([Tweet](https://twitter.com/linuz90/status/1422574429754822661))

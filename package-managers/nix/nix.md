@@ -278,3 +278,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Basic implementation of a Nix-like store abstraction over a Merkle tree](https://github.com/ebkalderon/merkle-tree-nix-store-thing)
 - [tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust.
 - [direnv-nix-lorelei](https://github.com/shajra/direnv-nix-lorelei) - Alternative Nix extension of Direnv.
+- [nix-eval-jobs](https://github.com/nix-community/nix-eval-jobs) - Parallel nix evaluator with a streamable JSON output.

@@ -643,3 +643,4 @@
 - [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model (2021)](https://arxiv.org/abs/2101.05982) ([Code](https://github.com/watchernyu/REDQ))
 - [STATS320: Machine Learning Methods for Neural Data Analysis Course (2021)](https://github.com/slinderman/stats320)
 - [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (2021)](https://arxiv.org/abs/2201.00650) ([Code](https://github.com/BoltzmannEntropy/interviews.ai))
+- [Diffusion-Models-Seminar](https://github.com/sangyun884/Diffusion-Models-Seminar)

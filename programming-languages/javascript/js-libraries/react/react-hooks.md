@@ -1,5 +1,7 @@
 # [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 
+Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
+
 ## State
 
 - [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React.

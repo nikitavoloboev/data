@@ -58,3 +58,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Судмедэксперт: интервью о жизни и смерти (2021)](https://www.youtube.com/watch?v=lhQf6vPUJaI)
 - [What Animals Think of Death](https://aeon.co/essays/animals-wrestle-with-the-concept-of-death-and-mortality) ([HN](https://news.ycombinator.com/item?id=29701893))
 - [List of Unusual Deaths](https://en.wikipedia.org/wiki/List_of_unusual_deaths)
+- [A neuroscientist prepares for death (2021)](https://www.theatlantic.com/ideas/archive/2021/12/terminal-cancer-neuroscientist-prepares-death/621114/) ([HN](https://news.ycombinator.com/item?id=29799545))

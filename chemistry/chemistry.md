@@ -53,3 +53,4 @@
 - [Pushing the frontiers of density functionals by solving the fractional electron problem (2021)](https://www.science.org/doi/10.1126/science.abj6511) ([Tweet](https://twitter.com/pfau/status/1469024580853547014))
 - [pyscf](https://github.com/pyscf/pyscf) - Python module for quantum chemistry.
 - [Matthew Carey Lea and the Origins of Mechanochemistry (2021)](https://www.sciencehistory.org/distillations/matthew-carey-lea-and-the-origins-of-mechanochemistry)
+- [Fermi](https://github.com/FermiQC/Fermi.jl) - Quantum chemistry program written in (nearly) pure Julia.

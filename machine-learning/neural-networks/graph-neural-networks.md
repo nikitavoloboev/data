@@ -84,3 +84,4 @@
 - [How to Scale Up GNNs with Mini-Batch Sampling (2021)](https://sigopt.com/blog/mini-batch-sampling-with-gnns/)
 - [Papers about explainability of GNNs](https://github.com/flyingdoog/awesome-graph-explainability-papers)
 - [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery) - Gallery for benchmarking Graph Neural Networks (GNNs).
+- [From Canonical Correlation Analysis to Self-supervised Graph Neural Networks (2021)](https://arxiv.org/abs/2106.12484) ([Code](https://github.com/hengruizhang98/CCA-SSG))

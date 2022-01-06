@@ -269,3 +269,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Some thoughts on writing](https://danluu.com/writing-non-advice/) ([Tweet](https://twitter.com/pervognsen/status/1470616064564207617)) ([HN](https://news.ycombinator.com/item?id=29545839))
 - [Writing is a visual language (2021)](https://argumatronic.com/posts/2021-06-07-learning-to-write.html)
 - [Tips for making writing more fun](https://davnicwil.com/tips-for-making-writing-more-fun/) ([HN](https://news.ycombinator.com/item?id=29786007))
+- [Best Pens for 2022: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-41-Best-Pens-for-2022-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974) ([HN](https://news.ycombinator.com/item?id=29815670))

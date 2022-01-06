@@ -88,3 +88,4 @@
 - [go-ssh-client](https://github.com/metrue/go-ssh-client) - Go package that helps you run command on remote host via SSH.
 - [sshw](https://github.com/yinheli/sshw) - ssh client wrapper for automatic login.
 - [Restricting SSH agent keys (2022)](https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/) ([HN](https://news.ycombinator.com/item?id=29816508))
+- [Best Practices for Securing SSH (2022)](https://goteleport.com/blog/5-ssh-best-practices/) ([HN](https://news.ycombinator.com/item?id=29812819))

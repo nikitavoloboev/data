@@ -303,3 +303,7 @@
 - [The Light and Dark Side of the API Economy (2020)](https://www.swyx.io/api-economy/)
 - [Prism](https://stoplight.io/open-source/prism/) - Open-Source HTTP Mock and Proxy Server. Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations. ([Code](https://github.com/stoplightio/prism))
 - [Telefunc](https://telefunc.com/) - Remote Functions. Instead of API. ([Code](https://github.com/vikejs/telefunc))
+- [OpenAPI Generator CLI](https://github.com/OpenAPITools/openapi-generator-cli) - Allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec.
+- [OpenAPI CLI toolset](https://github.com/Redocly/openapi-cli) - OpenAPI CLI toolbox with rich validation and bundling features.
+- [Redocly](https://redoc.ly/) - API docs you can be proud of. ([GitHub](https://github.com/Redocly))
+- [Awesome API Security](https://github.com/arainho/awesome-api-security)

@@ -156,6 +156,7 @@
 - [setup-cue](https://github.com/cue-lang/setup-cue) - Install a specific CUE CLI version on your Github Actions runner.
 - [GitHub Action - Releases API](https://github.com/shogo82148/actions-upload-release-asset) - GitHub Action uploads release assets using Upload a release asset.
 - [GitHub Action for GraalVM](https://github.com/graalvm/setup-graalvm)
+- [assign-pull-request-reviewers-action](https://github.com/int128/assign-pull-request-reviewers-action) - GitHub Actions to assign pull request reviewers by label.
 
 ## Go
 
@@ -278,6 +279,10 @@
 
 - [flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in actions.
 
+## AWS
+
+- [lambda-action](https://github.com/appleboy/lambda-action) - GitHub Action for Deploying Lambda code to an existing function.
+
 ## Templates
 
 - [JS action template](https://github.com/actions/javascript-action)
@@ -381,3 +386,4 @@
 - [Run server as systemd process & automate deployment with github actions (2021)](https://lakhan.me/blog/automate-server-deployment)
 - [Simple autograding with GitHub Classroom + GitHub Actions + CML Container (2021)](https://mti-lab.github.io/blog/2021/12/15/autograding.html)
 - [4 tips for GitHub Actions usability (+2 debugging) (2022)](https://blog.fleetdm.com/4-tips-for-github-actions-usability-2-debugging-4c0c920adfde)
+- [Curated list of useful Github actions with workflows examples](https://github.com/marketplace?type=actions) ([Code](https://github.com/GuillaumeFalourd/useful-actions))
