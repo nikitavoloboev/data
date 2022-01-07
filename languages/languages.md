@@ -58,3 +58,4 @@
 - [Does Not Translate](https://doesnottranslate.com/) - Concepts that don't easily translate to any other language. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/rudaxv/a_database_of_words_and_concepts_that_dont/))
 - [Hunspell](https://github.com/hunspell/hunspell) - Free spell checker and morphological analyzer library and command-line tool. ([Web](http://hunspell.github.io/))
 - [Hunspell-asm](https://github.com/kwonoj/hunspell-asm) - WebAssembly based JavaScript bindings for hunspell spellchecker.
+- [NNSplit](https://bminixhofer.github.io/nnsplit/) - Tool to split text using a neural network. Main application is sentence boundary detection. ([Code](https://github.com/bminixhofer/nnsplit))

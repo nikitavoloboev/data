@@ -137,6 +137,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Cleese](https://github.com/jtauber/cleese) - Functioning operating system written almost entirely in Python.
 - [Tifflin](https://github.com/thepowersgang/rust_os) - OS kernel written in rust. Non POSIX.
 - [Vinix](https://github.com/vlang/vinix) - Modern, fast, and useful operating system in the V programming language.
+- [Aero](https://github.com/Andy-Python-Programmer/aero) - Experimental, Unix-like OS written in Rust.
 
 ## Notes
 

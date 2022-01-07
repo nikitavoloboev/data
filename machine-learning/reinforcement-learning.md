@@ -305,3 +305,4 @@
 - [Mean Field Multi-Agent Reinforcement Learning (2019)](https://arxiv.org/abs/1802.05438) ([Code](https://github.com/mlii/mfrl))
 - [An Optimistic Perspective on Offline Reinforcement Learning (2020)](https://arxiv.org/abs/1907.04543) ([Code](https://github.com/google-research/batch_rl))
 - [Deep Inverse Reinforcement Learning](https://alger.id.au/pdfs/irl.pdf) ([Code](https://github.com/MatthewJA/Inverse-Reinforcement-Learning))
+- [RLMeta](https://github.com/facebookresearch/rlmeta) - Light-weight flexible framework for Distributed Reinforcement Learning Research.

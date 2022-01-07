@@ -85,7 +85,7 @@
 - [CI](https://github.com/sasa1977/ci) - CI/CD toolkit as an Elixir library.
 - [Waffle](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 - [Oban](https://github.com/sorentwo/oban) - Robust job processing in Elixir, backed by modern PostgreSQL. ([Web](https://getoban.pro/))
-- [Nx](https://github.com/elixir-nx/nx) - Multi-dimensional tensors Elixir lib with multi-staged compilation (CPU/GPU). ([Article](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)) ([HN](https://news.ycombinator.com/item?id=26168304)) ([Lobsters](https://lobste.rs/s/qzwqdu/nx_numerical_elixir_is_now_publicly)) ([Introducing Nx Talk](https://www.youtube.com/watch?v=fPKMmJpAGWc))
+- [Nx](https://github.com/elixir-nx/nx) - Multi-dimensional tensors Elixir lib with multi-staged compilation (CPU/GPU). ([Article](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)) ([HN](https://news.ycombinator.com/item?id=26168304)) ([Lobsters](https://lobste.rs/s/qzwqdu/nx_numerical_elixir_is_now_publicly)) ([Introducing Nx Talk](https://www.youtube.com/watch?v=fPKMmJpAGWc)) ([HN](https://news.ycombinator.com/item?id=29822849))
 - [Boundary](https://github.com/sasa1977/boundary) - Manage and restrain cross-module dependencies in Elixir projects.
 - [Poison](https://github.com/devinus/poison) - Incredibly fast, pure Elixir JSON library.
 - [Exq](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque / Sidekiq.

@@ -154,3 +154,4 @@
 - [Dremio](https://www.dremio.com/) - SQL Data Lakehouse Platform for High-Performance BI. ([Code](https://github.com/dremio/dremio-oss))
 - [SQLPad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud.
 - [tree-sitter-sql](https://github.com/DerekStride/tree-sitter-sql) - SQL grammar for tree-sitter.
+- [Graph Pattern Matching in GQL and SQL/PGQ (2021)](https://arxiv.org/abs/2112.06217)

@@ -25,3 +25,4 @@
 - [PubSubRT](https://github.com/alttch/psrt) - Pub/sub real-time telemetry protocol, optimized for industrial needs: providing low latency, dealing with slow channels and large payloads.
 - [MiniConf](https://github.com/quartiq/miniconf) - Minimal settings configuration over MQTT.
 - [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services.
+- [MiniMQ](https://github.com/quartiq/minimq) - Minimal no_std MQTT v5.0 client implementation.

@@ -394,6 +394,10 @@
 - [apfs](https://github.com/go-darwin/apfs) - Package apfs implements an Apple File System(apfs) bindings for Go.
 - [go-macho](https://github.com/blacktop/go-macho) - Implements access to and creation of Mach-O object files.
 
+## Math
+
+- [linalg](https://github.com/Jacalz/linalg) - Fast and easy-to-use package for Linear Algebra calculations with matrices and vectors.
+
 ## Docker
 
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries.
@@ -1264,3 +1268,4 @@
 - [interfaces](https://github.com/rjeczalik/interfaces) - Code generation tools for Go's interfaces.
 - [A Closer Look at Go’s sync Package (2019)](https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a)
 - [Recommendation for Key/Value storage in Go](https://www.reddit.com/r/golang/comments/rrccjq/recommendation_for_keyvalue_storage/)
+- [gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go code.

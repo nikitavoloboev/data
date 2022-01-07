@@ -669,3 +669,4 @@
 - [Rustacean Station Podcast](https://rustacean-station.org/) ([Web Code](https://github.com/rustacean-station/rustacean-station.org))
 - [Profiling linkers (2022)](https://fasterthanli.me/articles/profiling-linkers)
 - [In Defense of Async: Function Colors Are Rusty (2022)](https://www.thecodedmessage.com/posts/async-colors/) ([HN](https://news.ycombinator.com/item?id=29793428))
+- [Three Kinds of Polymorphism in Rust (2022)](https://www.brandons.me/blog/polymorphism-in-rust)

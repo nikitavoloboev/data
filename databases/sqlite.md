@@ -140,3 +140,4 @@
 - [Bashing JSON into Shape with SQLite (2022)](https://christine.website/blog/sqlite-json-munge-2022-01-04) ([Lobsters](https://lobste.rs/s/bjjjbr/bashing_json_into_shape_with_sqlite))
 - [RecordLite](https://github.com/fsaintjacques/recordlite) - Library (and executable) that declaratively maintains SQLite tables and views of semi-structured data.
 - [sqlite_protobuf](https://github.com/backtrace-labs/sqlite_protobuf) - Protobuf Extension for SQLite.
+- [The ultimate SQLite extension set](https://antonz.org/sqlean/) ([Lobsters](https://lobste.rs/s/z3r2kq/ultimate_sqlite_extension_set))

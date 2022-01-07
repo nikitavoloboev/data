@@ -96,3 +96,4 @@
 - [Greedia](https://github.com/greedia/greedia) - Greedily cache media and serve it up fast.
 - [gossa](https://github.com/pldubouilh/gossa) - Fast and simple multimedia file server.
 - [Pget](https://github.com/Code-Hex/pget) - Fastest file download client.
+- [Wormhole GUI](https://github.com/Jacalz/wormhole-gui) - Cross-platform application for easy encrypted sharing of files, folders, and text between devices.

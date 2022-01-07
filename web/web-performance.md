@@ -4,6 +4,7 @@
 
 - Don't ever underestimate the cost performance of cache misses.
 - [Bundle size is not your main performance problem (most likely). As long as the cache headers are ok and hosted in a CDN, you are good. Worry about expensive renders or unnecessary network calls before fine-tuning bundle size.](https://twitter.com/scinos/status/1419535719811399683)
+- [Page speed factors and how to increase it: 1. User's Network: deploy to edge, move code to server for smaller bundles. 2. Server Network and Code: fast regional DBs, caching. 3. Asset Waterfall: Load in parallel, don't chain. 4. Parse/eval: move code to server for smaller bundles.](https://twitter.com/ryanflorence/status/1479111475683737610)
 
 ## Links
 

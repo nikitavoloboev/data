@@ -85,3 +85,4 @@
 - [malloc-rs](https://github.com/suzusuzu/malloc-rs) - Implementation of malloc, realloc, calloc, and free in Rust.
 - [zig-gc](https://github.com/Hejsil/zig-gc) - Simple mark-and-sweep garbage collector written in Zig.
 - [Declarative memory management (2019)](https://fasterthanli.me/articles/declarative-memory-management) ([HN](https://news.ycombinator.com/item?id=29779827))
+- [Signals and Threads | Memory Management (2022)](https://signalsandthreads.com/memory-management/)

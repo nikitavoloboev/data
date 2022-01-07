@@ -202,5 +202,5 @@
 - [Why Is C Faster Than Java (2009)](https://marc.info/?l=git&m=124111702609723&w=2) ([HN](https://news.ycombinator.com/item?id=29659266))
 - [Almost Always Unsigned (2022)](https://graphitemaster.github.io/aau/) ([HN](https://news.ycombinator.com/item?id=29766658))
 - [C Runtime Overhead (2015)](http://ryanhileman.info/posts/lib43) ([HN](https://news.ycombinator.com/item?id=29783585))
-- [Ridiculously fast feature flags (2021)](https://engineering.backtrace.io/2021-12-19-bounded-dynamicism-with-cross-modifying-code/)
+- [Ridiculously fast feature flags (2021)](https://engineering.backtrace.io/2021-12-19-bounded-dynamicism-with-cross-modifying-code/) ([Lobsters](https://lobste.rs/s/hgzqs6/ridiculously_fast_feature_flags))
 - [CIL](https://github.com/cil-project/cil) - C Intermediate Language.

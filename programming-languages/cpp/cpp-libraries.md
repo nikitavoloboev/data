@@ -314,6 +314,7 @@
 - [eraft](https://github.com/eraft-io/eraft) - Generic raft library inspired etcd in C++.
 - [cpp-subprocess](https://github.com/arun11299/cpp-subprocess) - Subprocessing with modern C++.
 - [CPP-JWT](https://github.com/arun11299/cpp-jwt) - JSON Web Token library for C++.
+- [libkdtree++](https://github.com/nvmd/libkdtree) - C++ template container implementation of k-dimensional space sorting, using a kd-tree.
 
 ## Links
 

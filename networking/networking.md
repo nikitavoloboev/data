@@ -382,3 +382,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [eBPF Foundation](https://ebpf.io/foundation/)
 - [BumbleBee](https://github.com/solo-io/bumblebee) - Helps to build, run and distribute eBPF programs using OCI images.
 - [Freebind](https://github.com/blechschmidt/freebind) - IPv4 and IPv6 address rate limiting evasion tool.
+- [ESP32 NAT Router](https://github.com/martin-ger/esp32_nat_router) - Simple NAT Router for the ESP32.

@@ -40,3 +40,4 @@
 - [mi6](https://github.com/skaji/mi6) - Minimal authoring tool for Raku.
 - [Self-contained, portable perl binaries](https://github.com/skaji/relocatable-perl)
 - [Avoid Yoda conditions in Perl you should (2021)](https://phoenixtrap.com/2021/12/28/avoid-yoda-conditions-in-perl-you-should/) ([Lobsters](https://lobste.rs/s/ndnnvf/avoid_yoda_conditions_perl_you_should))
+- [Venus](https://github.com/cpanery/venus) - OO Standard Library for Perl 5. ([Lobsters](https://lobste.rs/s/94vv6t/venus_oo_standard_library_for_perl_5))

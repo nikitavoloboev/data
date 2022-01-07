@@ -157,3 +157,4 @@
 - [Kaluma](https://github.com/kaluma-project/kaluma) - Tiny and efficient JavaScript runtime for microcontrollers. ([Web](https://kaluma.io/))
 - [STM32 Peripheral Access Crates](https://github.com/stm32-rs/stm32-rs) - Embedded Rust device crates for STM32 microcontrollers.
 - [libopencm3](https://github.com/libopencm3/libopencm3) - Open-source firmware library for various ARM Cortex-M microcontrollers. ([Docs](https://github.com/libopencm3/libopencm3/wiki)) ([Examples](https://github.com/libopencm3/libopencm3-examples))
+- [Stabilizer Firmware](https://github.com/quartiq/stabilizer) - Firmware and software for the Sinara Stabilizer module with high speed, low latency ADC/DAC data processing and powerful DSP algorithms in between.

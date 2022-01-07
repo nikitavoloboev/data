@@ -321,3 +321,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Relayer](https://github.com/cosmos/relayer) - Go implementation of a Cosmos IBC relayer.
 - [Gravity Bridge](https://github.com/PeggyJV/gravity-bridge) - CosmosSDK application for moving assets on and off of EVM based, POW chains.
 - [Conflux-Rust](https://github.com/Conflux-Chain/conflux-rust) - Secure and reliable public blockchain with very high performance and scalability. ([Docs](https://developer.confluxnetwork.org/))
+- [7 steps to transition to web3, for non-technical folks (2022)](https://twitter.com/ljin18/status/1479111931977867275)

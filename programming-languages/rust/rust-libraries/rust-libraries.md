@@ -1309,6 +1309,9 @@
 - [tap-rs](https://github.com/darfink/tap-rs) - Exposing tapping functionality for all types, and extended functionality for Option, Result & Future. Often useful for logging.
 - [ezio](https://github.com/nrc/ezio) - Easy IO for Rust.
 - [NormPath](https://github.com/dylni/normpath) - More reliable path manipulation.
+- [Process Control](https://github.com/dylni/process_control) - Methods for ergonomically running processes with timeouts.
+- [print_bytes](https://github.com/dylni/print_bytes) - Print bytes as losslessly as possible.
+- [Quit](https://github.com/dylni/quit) - Exit cleanly with an exit code.
 
 ## Cargo Plugins
 

@@ -89,3 +89,4 @@
 - [A Review of the Zig Programming Language (Using Advent of Code 2021)](https://www.duskborn.com/posts/2021-aoc-zig/) ([HN](https://news.ycombinator.com/item?id=29702607))
 - [A Comparison of Rust and Zig](https://expandingman.gitlab.io/tvu-compare/) ([HN](https://news.ycombinator.com/item?id=29762988))
 - [Analysis of the overhead of a minimal Zig program (2022)](https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0) ([Lobsters](https://lobste.rs/s/hbceut/analysis_overhead_minimal_zig_program))
+- [Zig Strings in 5 minutes](https://www.huy.rocks/everyday/01-04-2022-zig-strings-in-5-minutes) ([Lobsters](https://lobste.rs/s/nimeia/zig_strings_5_minutes))

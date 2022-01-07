@@ -64,3 +64,4 @@
 - [cli-runtime](https://github.com/kubernetes/cli-runtime) - Set of helpers for creating kubectl commands and plugins.
 - [operator-tools](https://github.com/banzaicloud/operator-tools) - Speed up the implementation and composition of Kubernetes Operators.
 - [krew-index](https://github.com/kubernetes-sigs/krew-index) - Centralized plugin index for Krew (kubectl plugin manager).
+- [hcr](https://github.com/pete911/hcr) - Helm chart releaser.

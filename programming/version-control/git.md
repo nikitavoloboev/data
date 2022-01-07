@@ -96,6 +96,9 @@ git config --global user.signingkey <key>
 
 # Clone git repo without history (much faster)
 git clone [REPO] --depth 1
+
+# Move your unstaged changes to a new branch (https://twitter.com/wesbos/status/1479129404500594691)
+git switch -c <branch-name>
 ```
 
 ```bash

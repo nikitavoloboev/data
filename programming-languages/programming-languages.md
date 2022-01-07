@@ -292,3 +292,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Profile Guided Optimization without Profiles: A Machine Learning Approach (2021)](https://arxiv.org/abs/2112.14679)
 - [Automated Code Optimization with E-Graphs (2021)](https://arxiv.org/abs/2112.14714) ([HN](https://news.ycombinator.com/item?id=29775477))
 - [Tencent Cloud Code Analysis (TCA)](https://github.com/Tencent/CodeAnalysis) - Code comprehensive analysis platform, which includes three components: server, web and client.
+- [What you can learn by merely writing a programming language changelog (2022)](https://zverok.substack.com/p/what-you-can-learn-by-merely-writing)

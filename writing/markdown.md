@@ -110,3 +110,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Readwise Note Extractor](https://github.com/elchead/readwise-note-extractor) - Extract highlights from a given (markdown) file and uploads them to Readwise.
 - [Microdown](https://github.com/pillar-markup/Microdown) - Cleaned and simpler markdown but with more powerful features such as extensions.
 - [mdproof](https://github.com/leroycep/mdproof) - Standalone markdown to PDF converter.
+- [hast-util-to-mdast](https://github.com/syntax-tree/hast-util-to-mdast) - Utility to transform hast (HTML) to mdast (markdown).

@@ -438,3 +438,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [NFT Swap SDK](https://github.com/trader-xyz/nft-swap-sdk) - Ethereum's missing p2p NFT and token swap library for web3 developers. Written in TypeScript. Powered by 0x.
 - [token-list](https://github.com/telcoin/token-list) - Ethereum token list standard.
 - [DSToken](https://github.com/dapphub/ds-token) - Simple and sufficient ERC20 implementation.
+- [lil web3](https://github.com/m1guelpf/lil-web3) - Simple, intentionally-limited versions of web3 protocols & apps. ([Tweet](https://twitter.com/m1guelpf/status/1479095668174065669))
+- [ethereum-rs](https://github.com/rust-blockchain/ethereum) - Common Ethereum structs for Rust.

@@ -165,3 +165,4 @@
 - [Cartographist](https://github.com/szymonkaliski/cartographist) - Experimental web browser optimized for rabbit-holing.
 - [mBrowser](https://github.com/MQuy/mbrowser) - Toy web browser developed from scratch.
 - [I make $3K/mo from a browser extension (2022)](https://newsletter.tonydinh.com/issues/i-make-3k-mo-from-a-browser-extension-december-2021-updates-966892) ([HN](https://news.ycombinator.com/item?id=29803817))
+- [Web browser as a language server](https://github.com/octaltree/web-browser-lsp)
